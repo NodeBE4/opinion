@@ -1,0 +1,2378 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>theoryofdoom在2022-03-21~2022-03-27的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="theoryofdoom在2022-03-21~2022-03-27的言论" />
+    <meta property="twitter:title" content="theoryofdoom在2022-03-21~2022-03-27的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FActiveMeasures%2Fcomments%2Ftitwwg%2Ffyi_lrlourpresident_mod_of_subreddits_like%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/ActiveMeasures/comments/titwwg/fyi_lrlourpresident_mod_of_subreddits_like/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/ActiveMeasures/comments/titwwg/fyi_lrlourpresident_mod_of_subreddits_like/&text=theoryofdoom在2022-03-21~2022-03-27的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/ActiveMeasures/comments/titwwg/fyi_lrlourpresident_mod_of_subreddits_like/&title=theoryofdoom在2022-03-21~2022-03-27的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/ActiveMeasures/comments/titwwg/fyi_lrlourpresident_mod_of_subreddits_like/&title=theoryofdoom在2022-03-21~2022-03-27的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=theoryofdoom在2022-03-21~2022-03-27的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/ActiveMeasures/comments/titwwg/fyi_lrlourpresident_mod_of_subreddits_like/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/ActiveMeasures/comments/titwwg/fyi_lrlourpresident_mod_of_subreddits_like/&title=theoryofdoom在2022-03-21~2022-03-27的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=theoryofdoom在2022-03-21~2022-03-27的言论&url=https://old.reddit.com/r/ActiveMeasures/comments/titwwg/fyi_lrlourpresident_mod_of_subreddits_like/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>theoryofdoom在2022-03-21~2022-03-27的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-03-27
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: theoryofdoom</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/ActiveMeasures/comments/titwwg/fyi_lrlourpresident_mod_of_subreddits_like/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#191-fyi-lrlourpresident-mod-of-subreddits-like-murderedbyaoc-and-ourpresident-has-been-offline-since-the-us-put-in-serious-sanctions-against-russia-for-ukraine-submitted-on-2022-03-21-0421040800" id="markdown-toc-191-fyi-lrlourpresident-mod-of-subreddits-like-murderedbyaoc-and-ourpresident-has-been-offline-since-the-us-put-in-serious-sanctions-against-russia-for-ukraine-submitted-on-2022-03-21-0421040800">191: FYI, lrlourpresident, mod of subreddits like MurderedByAOC and OurPresident, has been offline since the US put in serious sanctions against Russia for Ukraine., submitted on 2022-03-21 04:21:04+08:00.</a></li>
+  <li><a href="#192-unofficial-daily-update-for-2022-03-21-753-new-cases-submitted-on-2022-03-22-0200190800" id="markdown-toc-192-unofficial-daily-update-for-2022-03-21-753-new-cases-submitted-on-2022-03-22-0200190800">192: Unofficial Daily Update for 2022-03-21. 753 New Cases., submitted on 2022-03-22 02:00:19+08:00.</a></li>
+  <li><a href="#193-whats-a-scientific-experiment-youd-be-fascinated-to-see-the-results-of-but-could-never-be-conducted-due-ethical-concerns-submitted-on-2022-03-22-0744340800" id="markdown-toc-193-whats-a-scientific-experiment-youd-be-fascinated-to-see-the-results-of-but-could-never-be-conducted-due-ethical-concerns-submitted-on-2022-03-22-0744340800">193: What’s a scientific experiment you’d be fascinated to see the results of, but could never be conducted due ethical concerns?, submitted on 2022-03-22 07:44:34+08:00.</a></li>
+  <li><a href="#194-idpol-professor-at-byu-threatens-students-who-posted-screenshots-of-assignments-with-academic-reprisal-says-what-they-are-doing-is-violation-of-the-honor-code-which-could-result-in-suspension-and-expulsion-submitted-on-2022-03-22-0802230800" id="markdown-toc-194-idpol-professor-at-byu-threatens-students-who-posted-screenshots-of-assignments-with-academic-reprisal-says-what-they-are-doing-is-violation-of-the-honor-code-which-could-result-in-suspension-and-expulsion-submitted-on-2022-03-22-0802230800">194: IdPol professor at BYU threatens students who posted screenshots of assignments with academic reprisal. Says what they are doing is violation of the Honor Code (which could result in suspension and expulsion)., submitted on 2022-03-22 08:02:23+08:00.</a></li>
+  <li><a href="#195-trudeau-gets-called-out-directly-on-the-international-stage-for-his-authoritarianism-submitted-on-2022-03-24-0627060800" id="markdown-toc-195-trudeau-gets-called-out-directly-on-the-international-stage-for-his-authoritarianism-submitted-on-2022-03-24-0627060800">195: Trudeau Gets Called Out Directly On The International Stage For His Authoritarianism, submitted on 2022-03-24 06:27:06+08:00.</a></li>
+  <li><a href="#196-philadelphia-men-cheer-as-dogs-savage-family-cat-video-please-keep-this-circulating-so-these-pieces-of-garbage-can-be-found-and-charged-submitted-on-2022-03-24-2051140800" id="markdown-toc-196-philadelphia-men-cheer-as-dogs-savage-family-cat-video-please-keep-this-circulating-so-these-pieces-of-garbage-can-be-found-and-charged-submitted-on-2022-03-24-2051140800">196: Philadelphia men cheer as dogs savage family cat: video. Please keep this circulating so these pieces of garbage can be found and charged., submitted on 2022-03-24 20:51:14+08:00.</a></li>
+  <li><a href="#197-airlines-ask-biden-to-drop-mask-mandate-and-testing-requirements-for-travelers-submitted-on-2022-03-24-2135580800" id="markdown-toc-197-airlines-ask-biden-to-drop-mask-mandate-and-testing-requirements-for-travelers-submitted-on-2022-03-24-2135580800">197: Airlines ask Biden to drop mask mandate and testing requirements for travelers, submitted on 2022-03-24 21:35:58+08:00.</a></li>
+  <li><a href="#198-new-stealth-omicron-could-dominate-covid-cases-in-chicago-soon-submitted-on-2022-03-24-2341330800" id="markdown-toc-198-new-stealth-omicron-could-dominate-covid-cases-in-chicago-soon-submitted-on-2022-03-24-2341330800">198: New ‘Stealth Omicron’ Could Dominate COVID Cases In Chicago Soon, submitted on 2022-03-24 23:41:33+08:00.</a></li>
+  <li><a href="#199-unofficial-daily-update-for-2022-03-24-1723-new-cases-submitted-on-2022-03-25-0200210800" id="markdown-toc-199-unofficial-daily-update-for-2022-03-24-1723-new-cases-submitted-on-2022-03-25-0200210800">199: Unofficial Daily Update for 2022-03-24. 1723 New Cases., submitted on 2022-03-25 02:00:21+08:00.</a></li>
+  <li><a href="#200-unofficial-daily-update-for-2022-03-25-1309-new-cases-submitted-on-2022-03-26-0200200800" id="markdown-toc-200-unofficial-daily-update-for-2022-03-25-1309-new-cases-submitted-on-2022-03-26-0200200800">200: Unofficial Daily Update for 2022-03-25. 1309 New Cases., submitted on 2022-03-26 02:00:20+08:00.</a></li>
+  <li><a href="#201-will-illinois-re-instate-mask-mandates-submitted-on-2022-03-27-2325490800" id="markdown-toc-201-will-illinois-re-instate-mask-mandates-submitted-on-2022-03-27-2325490800">201: Will Illinois re-instate mask mandates?, submitted on 2022-03-27 23:25:49+08:00.</a></li>
+</ul>
+
+<h3 id="191-fyi-lrlourpresident-mod-of-subreddits-like-murderedbyaoc-and-ourpresident-has-been-offline-since-the-us-put-in-serious-sanctions-against-russia-for-ukraine-submitted-on-2022-03-21-0421040800">191: <a href="https://old.reddit.com/r/ActiveMeasures/comments/titwwg/fyi_lrlourpresident_mod_of_subreddits_like/">FYI, lrlourpresident, mod of subreddits like MurderedByAOC and OurPresident, has been offline since the US put in serious sanctions against Russia for Ukraine.</a>, submitted on 2022-03-21 04:21:04+08:00.</h3>
+
+<p>—– <strong>191.1</strong> —–2022-03-21 11:51:28+08:00:</p>
+
+<p>Very insightful find.</p>
+
+<h3 id="192-unofficial-daily-update-for-2022-03-21-753-new-cases-submitted-on-2022-03-22-0200190800">192: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/tjhtbr/unofficial_daily_update_for_20220321_753_new_cases/">Unofficial Daily Update for 2022-03-21. 753 New Cases.</a>, submitted on 2022-03-22 02:00:19+08:00.</h3>
+
+<p>—– <strong>192.1</strong> —–2022-03-22 10:14:45+08:00:</p>
+
+<p>If you’re going to keep baselessly speculating, you’re going to be temp-banned.  You need evidence to support that kind of claim, which you currently lack (and historically have as well).</p>
+
+<p>Think carefully about how, if at all, you respond to this post as well.  Just because you may disagree with me does not mean you get to violate all the other rules, which some people seem to forget.</p>
+
+<p>—– <strong>192.2</strong> —–2022-03-23 10:36:47+08:00:</p>
+
+<p>We do not allow mindless prophecy of doom, on any timescale.  The era of unhinged speculation about impending armageddon without even plausible evidence to support such an inference is over.</p>
+
+<p>If a reasonable observer cannot distinguish your claim from something foretold by the oracle of delphi, it likely violates our rules.</p>
+
+<p>In your first post, you made a prediction about an anticipated future trend, which has not yet occurred, based on citation to exactly nothing.  I may as well have consulted the oracle of delphi, for her predictions on future COVID trends.</p>
+
+<p>Here, you have cited various sources which, while insufficient to support your expectations, at least rises to the level of minimal adequacy such that you’re not currently violating any rules.</p>
+
+<p>Further, if you want to discuss moderation, do it via modmail.  Do not DM mods individually.</p>
+
+<h3 id="193-whats-a-scientific-experiment-youd-be-fascinated-to-see-the-results-of-but-could-never-be-conducted-due-ethical-concerns-submitted-on-2022-03-22-0744340800">193: <a href="https://old.reddit.com/r/AskReddit/comments/tjphd9/whats_a_scientific_experiment_youd_be_fascinated/">What’s a scientific experiment you’d be fascinated to see the results of, but could never be conducted due ethical concerns?</a>, submitted on 2022-03-22 07:44:34+08:00.</h3>
+
+<p>—– <strong>193.1</strong> —–2022-03-22 20:04:22+08:00:</p>
+
+<p>This has been tried, throughout the 20th century.</p>
+
+<p>—– <strong>193.2</strong> —–2022-03-22 20:05:36+08:00:</p>
+
+<p>https://www.smithsonianmag.com/smart-news/how-mouse-utopias-1960s-led-grim-predictions-humans-180954423/</p>
+
+<h3 id="194-idpol-professor-at-byu-threatens-students-who-posted-screenshots-of-assignments-with-academic-reprisal-says-what-they-are-doing-is-violation-of-the-honor-code-which-could-result-in-suspension-and-expulsion-submitted-on-2022-03-22-0802230800">194: <a href="https://old.reddit.com/r/stupidpol/comments/tjpug6/idpol_professor_at_byu_threatens_students_who/">IdPol professor at BYU threatens students who posted screenshots of assignments with academic reprisal. Says what they are doing is violation of the Honor Code (which could result in suspension and expulsion).</a>, submitted on 2022-03-22 08:02:23+08:00.</h3>
+
+<p>—– <strong>194.1</strong> —–2022-03-22 12:20:27+08:00:</p>
+
+<p>This so-called “professor” with a publication history <a href="https://byu.academia.edu/EricRuizBybee">of mindless nonsense</a>, in <a href="https://www.tandfonline.com/doi/abs/10.1080/15348458.2019.1671195?journalCode=hlie20">irrelevant journals</a> that <a href="https://www.tandfonline.com/action/journalInformation?show=journalMetrics&amp;journalCode=hlie20">literally no one ever reads</a> wants to whine about the kiddos saying mean things about his stupid assignments, online?</p>
+
+<p>What a fucking disgrace.</p>
+
+<p>—– <strong>194.2</strong> —–2022-03-22 12:27:16+08:00:</p>
+
+<p>He gets cited about <a href="https://scholar.google.com/citations?user=tdEel6sAAAAJ">as much as incels get laid</a>.  That’s what you call having an impact in your field, folks.  And his <a href="https://education.byu.edu/directory/view/bybee-eric">field</a> is a joke.</p>
+
+<p>—– <strong>194.3</strong> —–2022-03-22 19:41:10+08:00:</p>
+
+<p>Sorry, but you’re mistaken.  If you were even able to publish something “baity and stupid,” your peers would ignore it for the reason that it was “baity and stupid.”  You can’t inflate your h-index just by trying to game the system.</p>
+
+<p>—– <strong>194.4</strong> —–2022-03-22 19:48:58+08:00:</p>
+
+<blockquote>
+  <p>ad hominem is not an argument</p>
+</blockquote>
+
+<p>And the sky is blue, on occasion.  Shall we continue to exchange platitudes?</p>
+
+<blockquote>
+  <p>and in general the number of citations is a rather weak measure of quality.</p>
+</blockquote>
+
+<p>Keep your eye on the ball.  I said: “[t]hat’s what you call having an impact in your field, folks,” as you can read above.  “Impact in your field” and “quality” aren’t the same thing.</p>
+
+<p>I agree that you can have a whole bunch of citations if you tag along other people’s research (happens in medical publications all the time).  In that case, you’re not really moving the ball forward so much as riding on the coattails of others’ effort to do so.</p>
+
+<p>But our friend the BYU professor isn’t even in that boat.</p>
+
+<blockquote>
+  <p>e.g. in my field you can get loads of citations by doing trivial shit as long as trendy topics are involved.</p>
+</blockquote>
+
+<p>What field might that be?  Because I’ll let you in on a secret.  Idpol journals no one ever reads don’t publish according to the same standards as, say, medical journals.</p>
+
+<p>—– <strong>194.5</strong> —–2022-03-22 20:20:24+08:00:</p>
+
+<p>I have a tendency to be sanctimonious in the face of idpol stupidity.</p>
+
+<p>—– <strong>194.6</strong> —–2022-03-23 11:56:12+08:00:</p>
+
+<p>That was a pretty good find.  Read the abstract, anc couldn’t help but laugh.  Reminds me of a Noam Chomsky lecture, recorded in one of the books he’s published, where he talks about the language games certain types of normative theorists play to make what they’re doing seem more sophisticated than it is.</p>
+
+<h3 id="195-trudeau-gets-called-out-directly-on-the-international-stage-for-his-authoritarianism-submitted-on-2022-03-24-0627060800">195: <a href="https://old.reddit.com/r/walkaway/comments/tliwnf/trudeau_gets_called_out_directly_on_the/">Trudeau Gets Called Out Directly On The International Stage For His Authoritarianism</a>, submitted on 2022-03-24 06:27:06+08:00.</h3>
+
+<p>—– <strong>195.1</strong> —–2022-03-24 10:33:13+08:00:</p>
+
+<blockquote>
+  <p>Hard times create good men</p>
+</blockquote>
+
+<p>Croatians of his age have blood equity in the values he’s talking about.  When you’ve lived through something like that, seeing a so called liberal western liberal “leader” repudiate the civil liberty they claim to represent isn’t just a moral indignation.  It’s an abomination.  What Trudeau did would be like if Trump cited congressional authority given to FDR to fight the Third Reich, to destroy Black Lives Matter and anyone who ever voiced support for it.</p>
+
+<h3 id="196-philadelphia-men-cheer-as-dogs-savage-family-cat-video-please-keep-this-circulating-so-these-pieces-of-garbage-can-be-found-and-charged-submitted-on-2022-03-24-2051140800">196: <a href="https://old.reddit.com/r/crime/comments/tm7bsc/philadelphia_men_cheer_as_dogs_savage_family_cat/">Philadelphia men cheer as dogs savage family cat: video. Please keep this circulating so these pieces of garbage can be found and charged.</a>, submitted on 2022-03-24 20:51:14+08:00.</h3>
+
+<p>—– <strong>196.1</strong> —–2022-03-25 07:35:27+08:00:</p>
+
+<p>There are so many levels on which this is disgusting, beyond the obvious barbarity to which someone’s household pet was subjected.</p>
+
+<p>The fact that this specific dog responded to their command strongly suggests their personal involvement in illegal dogfighting, and use of that specific dog for engagement in dogfighting.  A domesticated dog does not naturally or instinctively attack other animals, much less kill them or attempt to kill them on command.  That kind of aggression, and specifically in response to a command, that particular dog demonstrated has to be trained.  It’s hard to do, as well.  Dogfighting is the sole purpose for which any dog is trained to kill other animals like that, and specifically to do that in response to a command.</p>
+
+<p>Training a dog to kill small animals on command means that a lot of other animals have already been killed by it.  Smaller, weaker dogs and cats are often “adopted” under false pretexts for use as “bait” animals, to train a dog to respond like that.  There is no telling how many other household pets have been mauled to death under like circumstances by that animal.  Or how many other such dogs these people have trained.</p>
+
+<p>Bringing these individuals to justice must be a priority.</p>
+
+<h3 id="197-airlines-ask-biden-to-drop-mask-mandate-and-testing-requirements-for-travelers-submitted-on-2022-03-24-2135580800">197: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/tmajdx/airlines_ask_biden_to_drop_mask_mandate_and/">Airlines ask Biden to drop mask mandate and testing requirements for travelers</a>, submitted on 2022-03-24 21:35:58+08:00.</h3>
+
+<p>—– <strong>197.1</strong> —–2022-03-25 03:25:13+08:00:</p>
+
+<p>Obviously your comment violates Rule 1.  But even if it didn’t, didn’t you realize you posted it three different times?</p>
+
+<p>—– <strong>197.2</strong> —–2022-03-25 03:37:52+08:00:</p>
+
+<p>People should absolutely have the choice of whether to wear a mask in any context, including on commercial flights.  No one is saying otherwise.</p>
+
+<p>But there are things people fail to consider, because they don’t think things through.</p>
+
+<p>Airline employees, particularly flight attendants, have been the subject of untold harassment for quite some time.  Sometimes even rising to the level of physical violence.  Airlines themselves have incurred tremendous costs associated with enforcing these futile mandates, whether from delayed flights or in connection with all the variously related legal liabilities.</p>
+
+<p>Those costs make it more expensive for consumers to fly, because the airlines have to pass those costs off to consumers.  They also make the risk of air travel much higher, by substantially increasing the risk of confrontation between passengers and crew or other passengers.</p>
+
+<p>So it’s not enough to just say “masks on airlines!  Because we think they matter!”  The whole picture has to be considered, namely in view of whether masks are redundant or futile by other measures.</p>
+
+<p>It turns out that commercial aircraft have really excellent air filtration systems.  This is necessary, because the air you breathe on a plane is recycled after being filtered through medical-grade air purification methods that are vastly more effective than any commercially available mask.  Air is cycled through the cabin at rates that prevent any aerosolized viral material from accumulating in the cabin, which is the primary modality of infection.</p>
+
+<p>On trains, busses or in other contexts, the same can’t be said.  But for planes, those costs are incurred without any added benefit to consumers whatsoever.</p>
+
+<p>—– <strong>197.3</strong> —–2022-03-28 00:02:33+08:00:</p>
+
+<p>It is safe to go “maskless” regardless of whether you are vaccinated.  There is not now, nor has there ever been, any evidence to indicate that wearing a mask reduces COVID transmissibility or susceptibility to infection.  That politically driven narrative is among the most scientifically irresponsible lies to have emanated from the so called field of “public health.”</p>
+
+<p>—– <strong>197.4</strong> —–2022-03-28 00:07:14+08:00:</p>
+
+<p>If you ever see that happening, DM via modmail and it will be addressed.</p>
+
+<p>—– <strong>197.5</strong> —–2022-03-30 20:14:27+08:00:</p>
+
+<p>So, the brigading begins.  A review of history will prove <a href="https://www.reddit.com/r/CoronavirusIllinois/comments/t1hvgo/cdc_changes_mask_guidance/">salutary</a>.</p>
+
+<p>There is nothing to which the CDC can point, to substantiate their changes in “mask” messaging. Their initial guidance on masks was based on a combination of incompetence, politics and pseudoscience. The fact that this behavior was normalized doesn’t mean it was empirically supported, or ever was. It just means a bunch of people with purported letters after their name said to do something and then they did it.</p>
+
+<p>The CDC’s initial purported “guidance” on this issue was conspicuously devoid of all the types of scientific evidence needed to justify this type of recommendation. For example, if you’re going to recommend “masks” to prevent transmission of COVID, then you need to undertake at least some kind of analysis to determine what masks are out there and how they perform. Then you need to set up some independent criteria so that masks can be graded according to their performance. This needed to happen for both modalities of transmission recognised by current research (read: respiratory droplets and aerosolized molecular viral particles). To do so, you’d need a whole team of fluid dynamics experts, at the very least, to evaluate performance both generally and in specific settings.</p>
+
+<p>Nothing of the sort happened. Instead, all that happened was an incompetent bureaucrat who later declared himself to be “the science,” as if science works that way. Hint: it does not. If you’re going to hold out devices as suitable for particular medical purposes, you have to have evidence to do that. Otherwise, you’re engaged in what amounts to fraud in this country. We do not let people just make things up and offer them to the public, under circumstances where the public can rely on those misrepresentations to their detriment, without facing legal risk.</p>
+
+<p>However, no shortage of crackpot pseudoscience <a href="https://www.reddit.com/r/CoronavirusIllinois/comments/t1hvgo/cdc_changes_mask_guidance/hyj4jru/">purports</a> to justify this politically driven nonsense.   That junk “science” includes, but is hardly limited to:</p>
+
+<ul>
+  <li><a href="https://www.cdc.gov/mmwr/volumes/71/wr/mm7106e1.htm?s_cid=mm7106e1_w">Andrejko 2022</a>.</li>
+</ul>
+
+<p>Review of the the first sentence of this article’s summary is fatal.  Upon reading it, you will learn that “[f]ace masks or respirators (N95/KN95s) effectively filter virus-sized particles in laboratory settings. The real-world effectiveness of face coverings to prevent acquisition of SARS-CoV-2 infection has not been widely studied.”  Realize that “filtering” — according to some vague, incoherent level of efficacy — molecular viral particles that are aerosolized is not the same thing as actually reducing community spread or reducing the probability that you will contract COVID-19.  Hence the second sentence.</p>
+
+<p>The sole context where reducing community spread or reducing the probability that you will contract COVID-19 was purportedly evaluated, was in Bangladesh, that study being <a href="https://www.science.org/doi/10.1126/science.abi9069">Abaluck 2021</a>.</p>
+
+<p>Except that study did not show masks work.  In fact, its data plainly and clearly says the opposite based on the lack of any statistically significant difference between the control and treatment groups.</p>
+
+<p>According to the authors, what they actually found was that “[m]ask distribution with promotion was a scalable and effective method to reduce symptomatic SARS-CoV-2 infections,” based on meager differences in “symptomatic seroprevalence” among certain cohorts.</p>
+
+<p>Which is a nice way to use fancy language to say that mask wearing is probably associated with some unknown external factor, but they failed to find evidence indicating that masks themselves are causally associated with any identifiable benefit relating to reducing COVID community spread.  This is a case study in fake science.</p>
+
+<p>As most will readily ascertain upon reading the Andrejko 2022 article, its results are consistent with what the underlying data out of Bangladesh indicate.  It only finds that “use of a face mask or respirator in an indoor public setting was associated with lower odds” of a positive PCR test.</p>
+
+<p>I will leave for another day the problems with their criteria for what they’re counting as a positive PCR test as compared to what others have.  The point is that your article fails to provide any evidence whatsoever that masks themselves are causally associated with any identifiable benefit relating to reducing COVID community spread.</p>
+
+<p>As in Bangladesh, the act of wearing masks might make people engage in other behaviour which may to some unknown extent have some unknown result that reduced the probability of contracting COVID.  But that’s it. These so called “studies” does not say what media report they says.</p>
+
+<ul>
+  <li><a href="https://www.pnas.org/content/118/4/e2014564118">Howard 2021</a>.</li>
+</ul>
+
+<p>This exemplary “narrative review,” which another user once linked for the purpose of “refuting” what I have said, is worthless.  They undertook no research and therefore didn’t move the ball forward relating to the science of mask efficacy in any way.</p>
+
+<p>Instead, they went out and searched on Google Scholar or somewhere else to find all the worthless articles that have been published on this issue, relating to mask mandates and usage, for the purpose of offering what they hold out as no more than a public policy recommendation.</p>
+
+<p>As an example of that article’s unmitigated worthlessness, review one of their purported public policy recommendations:</p>
+
+<blockquote>
+  <p>Given the current shortages of medical masks, we recommend the adoption of public cloth mask wearing, as an effective form of source control . . . .</p>
+</blockquote>
+
+<p>Hilariously, this article is recommending cloth masks at this stage in the game, despite the complete absence of evidence to support their efficacy along the lines of any metric, and <a href="https://twitter.com/DrLeanaWen/status/1473045198980665344?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1473045198980665344%7Ctwgr%5E%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fd-41205633983298031174.ampproject.net%2F2110212130002%2Fframe.html">even this pundit doctor</a> has been forced to concede that cloth masks do not work.  The CDC has “clarified” its stance on cloth masks and there is literally no one on this earth who can even pretend their efficacy for any COVID-related purpose is empirically supported.</p>
+
+<p>Nevertheless, all the studies that ever found any such benefit might be even associated with cloth-mask wearing suffer the same deficit as the study in Bangladesh.  In the first instance, the data state that virus is as virus does.  Which is the norm.  Not the exception.</p>
+
+<p>But to the degree there is any difference from the control group, that difference is only attributable to external factors, which include as I said above, the fact that wearing masks might make people engage in other behaviour which may to some unknown extent have some unknown result that reduced the probability of contracting COVID.</p>
+
+<p>Evidence to support the alleged efficacy of masks themselves remains unobtained.</p>
+
+<p>Now I know some have probably googled some relevant terms and tried to find something they thought would contradict what I said.  But none who have brigaded this thread even tried to link anything.</p>
+
+<p>If they did, they will struggle to find contrary evidence.  Because the state of the science is exactly where I said it was.</p>
+
+<h3 id="198-new-stealth-omicron-could-dominate-covid-cases-in-chicago-soon-submitted-on-2022-03-24-2341330800">198: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/tmi0pb/new_stealth_omicron_could_dominate_covid_cases_in/">New ‘Stealth Omicron’ Could Dominate COVID Cases In Chicago Soon</a>, submitted on 2022-03-24 23:41:33+08:00.</h3>
+
+<p>—– <strong>198.1</strong> —–2022-03-27 23:35:45+08:00:</p>
+
+<p>Permanently banned for posting COVID misinformation.</p>
+
+<h3 id="199-unofficial-daily-update-for-2022-03-24-1723-new-cases-submitted-on-2022-03-25-0200210800">199: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/tmrwfi/unofficial_daily_update_for_20220324_1723_new/">Unofficial Daily Update for 2022-03-24. 1723 New Cases.</a>, submitted on 2022-03-25 02:00:21+08:00.</h3>
+
+<p>—– <strong>199.1</strong> —–2022-03-27 23:26:41+08:00:</p>
+
+<p>Do not induce malicious bots to post spam.</p>
+
+<p>—– <strong>199.2</strong> —–2022-03-27 23:31:51+08:00:</p>
+
+<p>For too long, we have allowed reckless use of adjectives to imprecisely and improperly characterize data that it is obviously not understood. Mindless use of adjectives to characterize data in a vague and unsupported way is no longer going to be permitted.</p>
+
+<p>Particularly where, as here, those characterizations are used in connection with post hoc speculation.</p>
+
+<h3 id="200-unofficial-daily-update-for-2022-03-25-1309-new-cases-submitted-on-2022-03-26-0200200800">200: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/tntvxr/unofficial_daily_update_for_20220325_1309_new/">Unofficial Daily Update for 2022-03-25. 1309 New Cases.</a>, submitted on 2022-03-26 02:00:20+08:00.</h3>
+
+<p>—– <strong>200.1</strong> —–2022-03-27 23:40:09+08:00:</p>
+
+<p>“[V]ery possible.”  So you say.</p>
+
+<p>—– <strong>200.2</strong> —–2022-03-27 23:42:26+08:00:</p>
+
+<p>Arwady is a mathematically illiterate political hack who demonstrates no indication whatsoever she is capable of performing any aspect of her job’s functions.</p>
+
+<p>—– <strong>200.3</strong> —–2022-03-27 23:54:02+08:00:</p>
+
+<p>These daily updates have ceased to be useful, to the limited extent they ever were.  It is exhausting to see mindless speculation about what isolated events mean, when data are viewed at <em>this</em> level of resolution.</p>
+
+<p>In the first instance, whatever utility viewing this data initially demonstrated was severely undermined by, among other things, the very nature of what it reflects (as compared to what it does not reflect).  Based on global trends alone, no competent epidemiologist can continue to claim that COVID will not become endemic.  The sole remaining question is when, politically, stating that recognition becomes feasible.</p>
+
+<p>Further, vaccines are imperfect but remain the best available option to prevent hospitalization for adults who have not been infected.  Proposed alternatives of any kind (other than ventilation/HVAC filtration improvements) lack any empirical support whatsoever, as I and numerous others have repeatedly explained.</p>
+
+<p>Moreover, to the extent people do not want a vaccine and thereafter become hospitalized, the remedy is outpatient care, which the FDA has remarkably acknowledged is feasible more than six fiscal quarters too late.</p>
+
+<h3 id="201-will-illinois-re-instate-mask-mandates-submitted-on-2022-03-27-2325490800">201: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/tpm6wt/will_illinois_reinstate_mask_mandates/">Will Illinois re-instate mask mandates?</a>, submitted on 2022-03-27 23:25:49+08:00.</h3>
+
+<p>—– <strong>201.1</strong> —–2022-03-27 23:39:15+08:00:</p>
+
+<p>Removed.  This discussion is better situated in the context of a empirical evidence, including for your question’s implication that COVID “cases” are rising.</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-04-03</time>
+        <a href="https://nodebe4.github.io/opinion/2022-04-03/EnclavedMicrostate/">
+          EnclavedMicrostate在2022-03-28~2022-04-03的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-04-01</time>
+        <a href="https://nodebe4.github.io/opinion/2022-04-01/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-03-28~2022-04-03的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-03-27</time>
+        <a href="https://nodebe4.github.io/opinion/2022-03-27/Spinkcat/">
+          Spinkcat在2022-03-21~2022-03-27的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-03-27</time>
+        <a href="https://nodebe4.github.io/opinion/2022-03-27/EnclavedMicrostate/">
+          EnclavedMicrostate在2022-03-21~2022-03-27的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-03-27/realcaixia/">
+            前一篇：Twitter @蔡霞: 2022-03-21~2022-03-27
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-03-27/wangdan1989/">
+            後一篇：Twitter @王丹: 2022-03-21~2022-03-27
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-03-27/realcaixia/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-03-27/wangdan1989/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-04-01/ForeignAffairsMag/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-03-27/Spinkcat/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-03-27/realcaixia/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-03-27/wangdan1989/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-04-01/ForeignAffairsMag/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-03-27/Spinkcat/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

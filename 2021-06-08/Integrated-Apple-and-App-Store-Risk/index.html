@@ -1,0 +1,3007 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Integrated Apple and App Store Risk – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+Integrated Apple and App Store Risk
+——
+" />
+    <meta property="og:description" content="
+Integrated Apple and App Store Risk
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Integrated Apple and App Store Risk" />
+    <meta property="twitter:title" content="Integrated Apple and App Store Risk" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2021%2Fintegrated-apple-and-app-store-risk%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2021/integrated-apple-and-app-store-risk/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2021/integrated-apple-and-app-store-risk/&text=Integrated Apple and App Store Risk&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2021/integrated-apple-and-app-store-risk/&title=Integrated Apple and App Store Risk" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2021/integrated-apple-and-app-store-risk/&title=Integrated Apple and App Store Risk" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Integrated Apple and App Store Risk&body=
+Integrated Apple and App Store Risk
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2021/integrated-apple-and-app-store-risk/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2021/integrated-apple-and-app-store-risk/&title=Integrated Apple and App Store Risk&caption=
+Integrated Apple and App Store Risk
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Integrated Apple and App Store Risk&url=https://stratechery.com/2021/integrated-apple-and-app-store-risk/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Integrated Apple and App Store Risk</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2021-06-08
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2021/integrated-apple-and-app-store-risk/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1623151297000-->
+<p><a href="https://stratechery.com/2021/integrated-apple-and-app-store-risk/">Integrated Apple and App Store Risk</a>
+——</p>
+
+<div>
+  <p>Apple acquired Dark Sky, the popular weather app and weather API provider, in March of 2020; the Android version was shut down in July, and the API in December. The real storm, though, arrived in <a href="https://developer.apple.com/videos/play/wwdc2021/101/">yesterday’s WWDC keynote</a>, when Senior Vice President of Software Engineering Craig Federighi spent 49 seconds previewing iOS 15’s new weather app, filled with new features and wrapped in a gorgeous interface featuring real-time weather elements like accumulating snow and bouncing raindrops.</p>
+  <div align="center">
+    <div id="v-RUZcbLT2-1" class="video-player">
+      <video id="v-RUZcbLT2-1-video" width="640" height="360" poster="" controls="true" preload="metadata" dir="ltr"><div>
+<img alt="" src="" width="640" height="360" />
+        </div></video>
+    </div>
+  </div>
+  <p>What made these 49 seconds notable is that they came at a developer conference, and yet Apple’s acquisition of Dark Sky and iOS 15’s new weather app are quite clearly focused on obviating 3rd-party weather apps built by the developers WWDC is theoretically for. This isn’t a complete surprise — the public WWDC keynote is focused on consumers, while the afternoon <a href="https://developer.apple.com/videos/play/wwdc2021/102">Platforms State of the Union</a> is for developers — but the new Weather App was only the most extreme example of Apple deciding what part of the iPhone user experience was theirs, and what was left for developers.</p>
+  <h4 id="the-dark-side-of-weather-apps">The Dark Side of Weather Apps</h4>
+  <p>There is another way of thinking about Apple’s new Weather app; <a href="https://www.nytimes.com/2019/01/03/technology/weather-channel-app-lawsuit.html">in 2019</a>, a year before the Dark Sky acquisition, the city of Los Angeles <a href="https://www.nytimes.com/2019/01/03/technology/weather-channel-app-lawsuit.html">sued the IBM-owned Weather Company</a> for collecting and selling location information from its popular Weather Channel app; the company eventually <a href="https://www.theverge.com/2020/8/19/21376217/los-angeles-the-weather-channel-app-lawsuit-settlement-location-data-selling">settled</a> with an agreement to better disclose that it was leveraging user location data for more than delivering weather reports.</p>
+  <p>The problem for users is that it is not as if they could turn location data off: unless a user wanted to manually enter their location every time they used a weather app the app would be fairly useless for its intended function — displaying the weather wherever the user was. The challenge for weather app makers, though, is that weather information is a commodity that costs money: app makers had to pay for the data, but that data was open to anyone willing to pay. The result was a race to the bottom, with user privacy as the casualty: <a href="https://www.zdnet.com/article/accuweather-still-shares-precise-location-with-advertisers-tests-reveal/">AccuWeather</a> was shown to be sharing precise geolocation data with advertisers, as was <a href="https://securitytoday.com/articles/2019/01/08/weather-apps-under-fire-for-collecting-selling-user-data.aspx">WeatherBug, Weather Forecast, and World Weather Accurate Radar</a>.</p>
+  <p>From this perspective Apple deciding to nuke the entire category, not by outlawing weather apps from the App Store, but rather by investing in delivering a superior weather app by default on the iPhone, is less about being anti-developer than it is about being pro-user. Now users can get useful weather information without having to worry that their data is being traded for access to said information — it’s a reason to buy an iPhone.</p>
+  <h4 id="app-store-controversy">App Store Controversy</h4>
+  <p>While Stratechery started out <a href="https://stratechery.com/2013/why-doesnt-apple-enable-sustainable-businesses-on-the-app-store/">extensively covering the App Store</a> and Apple’s relationship to its developers from the moment it launched, the last year has brought the issue to the forefront in a major way: last WWDC Apple had <a href="https://stratechery.com/2020/apples-response-to-hey-heys-response-to-apple-heys-limited-antitrust-options/">a public clash with Basecamp</a>; faced <a href="https://stratechery.com/2020/apple-epic-and-the-app-store/">an antitrust lawsuit from Epic</a>; received a <a href="https://stratechery.com/2021/epic-v-apple-trial-begins-eu-files-statement-of-objections-who-owns-the-app/">statement of objections from the European Commission</a> over its treatment of third-party music apps, most notably Spotify; saw <a href="https://stratechery.com/2020/antitrust-politics/">CEO Tim Cook testify in an industry-wide antitrust hearing</a>; and was <a href="https://stratechery.com/2021/app-stores-in-congress-apples-arguments-meta-points/">dressed down in a hearing specifically focused on App Stores</a>. There were even more stories, but you get the drift.</p>
+  <p>Unfortunately, as is often the case with major news stories, many folks’ positions hardened into one of two extremes: either Apple was 100% in the wrong, and ought to completely loosen the reins on the App Store, or Apple was being unfairly maligned for profiting from its innovations. I tried to dig out the nuance between these two positions two weeks ago in <a href="https://stratechery.com/2021/app-store-arguments/">App Store Arguments</a>, but the example of the iOS 15 weather app, along with the overall tenor of yesterday’s announcements, is a useful one to add more definition to that nuance, and show why Apple ought to change its approach out of self-interest, not just the goodness of its corporate heart.</p>
+  <h4 id="apples-integrated-announcements">Apple’s Integrated Announcements</h4>
+  <p>The case of the weather app is, as I noted above, straightforward: the nature of the App Store market, combined with the cost of weather data, left users with poor choices as far as App Store weather apps are concerned (<a href="https://www.meetcarrot.com/weather/">CARROT weather</a>, I would note, is one weather app that does not sell user data; it requires a subscription for ongoing use). Therefore Apple invested money to build out the default weather app and also committed to funding the acquisition of weather data for all iPhone users forever. Similar justifications apply to a bunch of other new features; in the order in which they were announced:</p>
+  <ul>
+    <li>FaceTime not only added the ability to send links for scheduled calls, making it an alternative to services like Zoom, it is also adding features competitors can’t, like screen-sharing on iOS devices.<sup id="rf1-6535"><a href="https://stratechery.com/2021/integrated-apple-and-app-store-risk/#fn1-6535" title="You can share the screen of an iOS device via your computer on alternative services, but not from the iOS device itself" rel="footnote">1</a></sup> Apple can break FaceTime out of its sandbox because it owns the entire widget.</li>
+    <li>Apple also announced SharePlay, allowing users to listen to the same music or watch the same streaming video services while being on a FaceTime call. While Apple did announce a SharePlay API for third-party music and video services to incorporate, there is no similar API for other video-calling services.</li>
+    <li>“Shared-with-you” surfaces content shared in Messages in the relevant Apple app, whether that be Photos, Apple Music, Apple News, Safari, Apple Podcasts, or Apple TV.      <figure id="attachment_6534" aria-describedby="caption-attachment-6534" style="width: 1280px" class="wp-caption aligncenter">
+<img loading="lazy" src="https://i2.wp.com/stratechery.com/wp-content/uploads/2021/06/wwdc-1.png?resize=640%2C357&#038;ssl=1" alt="Apple&#039;s slide showing which apps can participate in &quot;Shared-with-you&quot;" width="640" height="357" class="size-full wp-image-6534" srcset="https://i2.wp.com/stratechery.com/wp-content/uploads/2021/06/wwdc-1.png?w=1280&amp;ssl=1 1280w, https://i2.wp.com/stratechery.com/wp-content/uploads/2021/06/wwdc-1.png?resize=300%2C167&amp;ssl=1 300w, https://i2.wp.com/stratechery.com/wp-content/uploads/2021/06/wwdc-1.png?resize=1024%2C570&amp;ssl=1 1024w, https://i2.wp.com/stratechery.com/wp-content/uploads/2021/06/wwdc-1.png?resize=768%2C428&amp;ssl=1 768w, https://i2.wp.com/stratechery.com/wp-content/uploads/2021/06/wwdc-1.png?resize=1131%2C630&amp;ssl=1 1131w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" />        <figcaption id="caption-attachment-6534" class="wp-caption-text">
+Apple’s slide showing which apps can participate in “Shared-with-you”
+        </figcaption>
+      </figure>
+      <p>It is a deep level of integration that is only possible if you control all of the pieces involved.</p>
+    </li>
+    <li>Focus lets you reorganize everything from your home screen to your notifications to fit your current context, from working to relaxing to exercising; naturally, it syncs across all of your Apple devices.</li>
+    <li>Intelligence and Spotlight understand and bring together not just textual information but also image-based information, and combines them with Apple services like Maps and Siri.</li>
+    <li>Photos Memories is integrated with Apple Music to provide a soundtrack to its auto-generated photo montages.</li>
+    <li>Wallet is expanding from credit cards, transit cards, and previously-announced car keys to home keys, hotel keys, and even ID cards. All of these are stored in the secure element on Apple’s own chips.</li>
+    <li>AirPods have a much deeper integration with Siri, which can now initiate conversations, not just respond to them, and are expanding their spatial audio capabilities from iOS devices to Apple TV.</li>
+    <li>Quick Note, first demoed on the iPad, makes Apple Notes into a system-wide note-taking service that is available within other Apple apps, and, naturally, syncs across Apple devices; Apple Translate is also available as a system-wide service across Apple devices.</li>
+  </ul>
+  <p>The integration of these features across everything Apple sells was emphasized by Apple’s introduction of the next version of macOS towards the end of the keynote: beyond a truly puzzling re-design of Safari, there really wasn’t much to demo, because Apple had announced all of macOS’ new features in the context of other devices.</p>
+  <p>One could make the case that nearly all of these features, like the new weather app, were bad for developers:</p>
+  <ul>
+    <li>FaceTime now has system-level advantages over Zoom, Teams, and other video-conferencing services.</li>
+    <li>Messages now has special tie-ins into system-default apps like Photos and Safari; those apps, like Apple Music, have special tie-ins into the default messaging service.</li>
+    <li>Apple Maps and Siri are tied into Intelligence and Spotlight in a way that Google Maps and Alexa can not.</li>
+    <li>Photos Memories doesn’t have an option to use Spotify.</li>
+    <li>Apple limits access to both NFC and the secure element.</li>
+    <li>Google Assistant doesn’t have special access to AirPods, nor do non-Apple devices.</li>
+    <li>3rd-party note-taking apps or translation services can only operate in their sandbox, not across the entire system.</li>
+  </ul>
+  <p>At the same time, there are real user benefits to these decisions:</p>
+  <ul>
+    <li>The foundation of iOS security is its sandboxed architecture; the fact that an app can’t touch anything else on the system is not only a win for users, but also developers broadly, as it was an essential elements in re-invigorating the market for apps after the mess that was Windows malware a decade ago.</li>
+    <li>While API-driven interconnections offer the most power and flexibility in the long run, it takes a long-time to get it right, and, more importantly, secure; by controlling both sides of an integration, like those between Messaging and the “Shared-with-you” suite of apps, Apple can focus on a seamless user experience that delivers on useful capability sooner and in a more intuitive way than it might have otherwise (and, over time, perhaps open up an API to 3rd-parties).</li>
+    <li>Direct access to hardware like NFC and the secure element are more straightforward from an API-perspective, but given the security implications of both you can understand why users might prefer the confidence from knowing that only Apple leverages either one.</li>
+  </ul>
+  <p>That’s not to say that Apple itself doesn’t benefit from these integrations: not only do they drive deeper iPhone lock-in, many of these integrations tie into Apple’s subscription offerings. It’s a mistake, though, to focus solely on the direct financial upside.</p>
+  <h4 id="the-integration-advantage">The Integration Advantage</h4>
+  <p>John Gruber analogized iOS to a theme park on <a href="https://daringfireball.net/linked/2021/06/06/theme-parks-and-public-parks">Daring Fireball</a>:</p>
+  <blockquote>
+    <p>Good column (<a href="https://youtu.be/KVv8BfCQbts">and video</a>) from Joanna Stern on Apple’s “walled garden”. The people who use the term “walled garden” in this context typically do so as a pejorative. But that’s not right. Literal walled gardens can be very nice — and the walls and gates can be what makes them nice. That’s been a recurring theme in the testimony from Apple executives in the Epic trial. Asked about rules and limits on iOS that Epic presents as nefarious — nothing but tricks to lock users in — Apple witnesses typically responded by presenting them as features. That iOS is wildly popular not <em>despite</em> the “walls”, but <em>because</em> of them…</p>
+    <p>Better than “walled garden”, I like the comparison to theme parks. People love theme parks. Not everyone, of course, but a lot of people. They’re fun, safe, and deliver a designed experience. They’re also expensive, and the food, to put it kindly, generally sucks. Public parks are great too — in very different ways. We should have great public parks, and we should have great open computing platforms. But not every park should necessarily be public, and not every closed computing platform would be better off open.</p>
+  </blockquote>
+  <p>I for one prefer open computing platforms; part of the implication of being <a href="https://www.youtube.com/watch?v=KmuP8gsgWb8">a bicycle of the mind</a> is that you can efficiently travel anywhere, and I am frustrated whenever I run into the training wheels and guide rails inherent in iOS. At the same time, there is another kind of freedom that comes from knowing that you won’t fall down, or end up somewhere you never wished to go; Apple absolutely grants that kind of freedom to users who take advantage of their devices to do more than they ever could on a more open platform, for fear of screwing up, if nothing else.</p>
+  <p>I also enjoy the advantages that come from Apple’s deep level of integration, both in terms of individual devices and also across their ecosystem. To take one small example, AirDrop is an essential part of my workflow for writing Stratechery, and, despite my hesitance about using any platform-specific app with inscrutable data structures for permanent data, the new Quick Note feature has me seriously considering a switch to Apple Notes.<sup id="rf2-6535"><a href="https://stratechery.com/2021/integrated-apple-and-app-store-risk/#fn2-6535" title="At least there is a web version" rel="footnote">2</a></sup> Yes innovation springs from openness and a philosophy of letting a thousand flowers bloom, but it can also come from control and the ability to integrate across non-obvious interfaces. I wrote in 2013’s <a href="https://stratechery.com/2013/clayton-christensen-got-wrong/">What Clayton Christensen Got Wrong</a>:</p>
+  <blockquote>
+    <p>The issue I have with [the traditional] analysis of vertical integration — and this is exactly what I was taught at business school — is that the only considered costs are financial. But there are other, more difficult to quantify costs. Modularization incurs costs in the design and experience of using products that cannot be overcome, yet cannot be measured. Business buyers — and the analysts who study them — simply ignore them, but consumers don’t. Some consumers inherently know and value quality, look-and-feel, and attention to detail, and are willing to pay a premium that far exceeds the financial costs of being vertically integrated.</p>
+  </blockquote>
+  <p>If you were to boil Apple’s philosophy and attractiveness to customers to one word, that word would be “integration.” And guess what? First party integration is bad for third-party developers — everything is a tradeoff.</p>
+  <h4 id="greed-and-risk">Greed and Risk</h4>
+  <p>This is where the nuance I discussed in <em>App Store Arguments</em> becomes much more black-and-white. Yes, Apple created the iPhone and the App Store and, under current U.S. antitrust doctrine, almost certainly has the right to impose whatever taxes it wishes on third parties, including 30% on purchases and the first year of subscriptions, and completely cutting off developers from their customers. Antitrust law, though, while governed by Supreme Court precedent, is not a matter of constitutionality: it stems from laws passed by Congress, and it can be changed by new laws passed by Congress.</p>
+  <p>One of the central planks of many of those pushing for new laws in this area are significant limitations on the ability of platforms to offer apps and services, or integrate them in any way that advantages their offerings. In this potential world it’s not simply problematic that Apple charges Spotify 30%, or else forces the music streaming service to hope that users figure out how to subscribe on the web, even as Apple Music has a fully integrated sign-up flow and no 30% tax; it is also illegal to incorporate Apple Music into SharePlay or Shared-with-you or Photos, or in the most extreme versions of these proposed laws, even have Apple Music at all. This limitation would apply to basically every WWDC announcement: say good-bye to Quick Note or SharePlay-as-an-exclusive-service, or any number of Apple’s integrated offerings.</p>
+  <p>I think these sorts of limitations would be disappointing as a user — integration really does often lead to better outcomes sooner — and would be a disaster for Apple. The entire company’s differentiation is predicated on integration, including its ability to abuse its App Store position, and it would be a huge misstep if the inability to resist the latter imperiled the former.</p>
+  <p>This, more than anything, is why Apple should rethink its approach to the App Store. The deeper the company integrates, the more unfair its arbitrary limits on competing services will be. Isn’t it enough that Spotify will never be as integrated as Apple Music, or that 1Password will not be built-in like Keychain, or that SimpleNote will only ever be in its sandbox while Apple Notes is omnipresent? Apple, by virtue of building the underlying platform, has every advantage in the world when it comes to offering additional apps and services, and the company at its best leverages that advantage to create experiences that users love; in this view demanding 30% and total control of the users of its already diminished competition isn’t simply anticompetitive, it is risking what makes the company unique.</p>
+  <hr class="footnotes" />
+  <ol class="footnotes" style="list-style-type:decimal">
+    <li id="fn1-6535">
+      <p>You can share the screen of an iOS device via your computer on alternative services, but not from the iOS device itself <a href="https://stratechery.com/2021/integrated-apple-and-app-store-risk/#rf1-6535" class="backlink" title="Return to footnote 1.">↩</a></p>
+    </li>
+    <li id="fn2-6535">
+      <p>At least there is a web version <a href="https://stratechery.com/2021/integrated-apple-and-app-store-risk/#rf2-6535" class="backlink" title="Return to footnote 2.">↩</a></p>
+    </li>
+  </ol>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2021-06-21</time>
+        <a href="https://nodebe4.github.io/opinion/2021-06-21/Pandemic-Progress/">
+          Pandemic Progress
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-06-15</time>
+        <a href="https://nodebe4.github.io/opinion/2021-06-15/The-Cicilline-Salvo/">
+          The Cicilline Salvo
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-06-03</time>
+        <a href="https://nodebe4.github.io/opinion/2021-06-03/Passport/">
+          Passport
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-06-02</time>
+        <a href="https://nodebe4.github.io/opinion/2021-06-02/Break-June-1-2,-2021/">
+          Break: June 1–2, 2021
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2021-06-08/%E6%9D%B1%E5%8D%97%E4%BA%9E%E5%8F%8A%E6%96%B0%E5%8D%97%E5%90%91%E6%94%BF%E7%AD%96-109-1-%E5%85%A8%E7%90%83%E9%80%9A%E8%AD%98%E8%AC%9B%E5%BA%A7-%E8%AA%8D%E8%AD%98%E5%85%A8%E7%90%83/">
+            前一篇：東南亞及新南向政策 | 109-1 全球通識講座-認識全球
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2021-06-09/%E5%9B%B4%E7%82%89%E5%A4%9C%E8%AF%9D-%E6%88%91%E4%BB%AC-%E5%9C%A8%E8%B7%AF%E4%B8%8A-%E5%9B%B4%E7%82%89-RUC/">
+            後一篇：围炉夜话：我们，在路上 | 围炉 · RUC
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2021-06-08/%E6%9D%B1%E5%8D%97%E4%BA%9E%E5%8F%8A%E6%96%B0%E5%8D%97%E5%90%91%E6%94%BF%E7%AD%96-109-1-%E5%85%A8%E7%90%83%E9%80%9A%E8%AD%98%E8%AC%9B%E5%BA%A7-%E8%AA%8D%E8%AD%98%E5%85%A8%E7%90%83/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2021-06-09/%E5%9B%B4%E7%82%89%E5%A4%9C%E8%AF%9D-%E6%88%91%E4%BB%AC-%E5%9C%A8%E8%B7%AF%E4%B8%8A-%E5%9B%B4%E7%82%89-RUC/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2021-06-15/The-Cicilline-Salvo/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2021-06-03/Passport/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2021-06-08/%E6%9D%B1%E5%8D%97%E4%BA%9E%E5%8F%8A%E6%96%B0%E5%8D%97%E5%90%91%E6%94%BF%E7%AD%96-109-1-%E5%85%A8%E7%90%83%E9%80%9A%E8%AD%98%E8%AC%9B%E5%BA%A7-%E8%AA%8D%E8%AD%98%E5%85%A8%E7%90%83/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2021-06-09/%E5%9B%B4%E7%82%89%E5%A4%9C%E8%AF%9D-%E6%88%91%E4%BB%AC-%E5%9C%A8%E8%B7%AF%E4%B8%8A-%E5%9B%B4%E7%82%89-RUC/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2021-06-15/The-Cicilline-Salvo/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2021-06-03/Passport/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

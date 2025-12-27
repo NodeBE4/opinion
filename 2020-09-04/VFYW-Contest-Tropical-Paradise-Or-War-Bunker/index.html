@@ -1,0 +1,865 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>VFYW Contest: Tropical Paradise Or War Bunker? – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+VFYW Contest: Tropical Paradise Or War Bunker?
+——
+" />
+    <meta property="og:description" content="
+VFYW Contest: Tropical Paradise Or War Bunker?
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="VFYW Contest: Tropical Paradise Or War Bunker?" />
+    <meta property="twitter:title" content="VFYW Contest: Tropical Paradise Or War Bunker?" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fandrewsullivan.substack.com%2Fp%2Fvfyw-contest-tropical-paradise-or" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://andrewsullivan.substack.com/p/vfyw-contest-tropical-paradise-or" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://andrewsullivan.substack.com/p/vfyw-contest-tropical-paradise-or&text=VFYW Contest: Tropical Paradise Or War Bunker?&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://andrewsullivan.substack.com/p/vfyw-contest-tropical-paradise-or&title=VFYW Contest: Tropical Paradise Or War Bunker?" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://andrewsullivan.substack.com/p/vfyw-contest-tropical-paradise-or&title=VFYW Contest: Tropical Paradise Or War Bunker?" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=VFYW Contest: Tropical Paradise Or War Bunker?&body=
+VFYW Contest: Tropical Paradise Or War Bunker?
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://andrewsullivan.substack.com/p/vfyw-contest-tropical-paradise-or" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://andrewsullivan.substack.com/p/vfyw-contest-tropical-paradise-or&title=VFYW Contest: Tropical Paradise Or War Bunker?&caption=
+VFYW Contest: Tropical Paradise Or War Bunker?
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=VFYW Contest: Tropical Paradise Or War Bunker?&url=https://andrewsullivan.substack.com/p/vfyw-contest-tropical-paradise-or" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>VFYW Contest: Tropical Paradise Or War Bunker?</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2020-09-04
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Chris Bodenner</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#The Weekly Dish">
+          The Weekly Dish
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://andrewsullivan.substack.com/p/vfyw-contest-tropical-paradise-or" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="The Weekly Dish的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#The Weekly Dish 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1599251959000-->
+<p><a href="https://andrewsullivan.substack.com/p/vfyw-contest-tropical-paradise-or">VFYW Contest: Tropical Paradise Or War Bunker?</a>
+——</p>
+
+<div>
+<a class="image-link image2 image2-677-1029" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F987dff91-37f6-4d48-8c55-c9ec76e2cda9_1029x677.png"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F987dff91-37f6-4d48-8c55-c9ec76e2cda9_1029x677.png" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/987dff91-37f6-4d48-8c55-c9ec76e2cda9_1029x677.png&quot;,&quot;height&quot;:677,&quot;width&quot;:1029,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:1152788,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null}" alt="" />      <style>          a.image2.image-link.image2-677-1029 {            padding-bottom: 65.79203109815354%;            padding-bottom: min(65.79203109815354%, 677px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-677-1029 img {            max-width: 1029px;            max-height: 677px;          }        </style>
+</a>  <p>A reader is flummoxed:</p>
+  <blockquote>
+    <p>It’s that place in the Mediterranean ... you know, where everyone wears a shirt.</p>
+    <p>Sigh. I’m so terrible at this shit. <a href="https://andrewsullivan.substack.com/p/vfyw-contest-readers-on-the-trail">Last week’s contest window</a> was two hours from where I live, in Helena, Montana. I work on airport planning and have driven by that damn campsite more than I count to get to GPI [Glacier Park International Airport]. I have a buddy who lives at the edge of those mountains. (He can hunt elk from the second story of his house ... the bastard.)</p>
+    <p>Know where I centered my search last week? New fuckin’ Mexico. We are all lucky I was a grunt in the military and not intelligence. I would have strongly recommended an airstrike on some poor bastard in upstate New York.</p>
+  </blockquote>
+  <p>From another reader who is lacking confidence this week:</p>
+  <blockquote>
+    <p>I started with practically the other side of the planet with the <a href="https://en.wikipedia.org/wiki/Islands_of_Four_Mountains">Islands of Four Mountains</a> in the Aleutians and ended up in Praslin, Seychelles. The setting and vegetation looked similar to the photo, but sadly I am not that next-level Dish reader who tracks down the exact location.</p>
+  </blockquote>
+  <p>This next reader, on the other hand, is confident about the country: “It’s Brasil for sure. I forget the name of the island — off the coast of Sao Paulo not far from Santos.” Another reader also gets cocky: “Ascension Island — that’s it! Please send a new Dish t-shirt as my winnings.” We’re hoping to launch merch by the holidays, so you’ll have to wait till then. Also: not Ascension. Other wrong guesses this week include São Jorge Island in the Azores, Hong Kong, Mount Desert Island in Maine, Big Sur, and Ventura, California — quite a range.</p>
+  <p>Many readers went with a military theme. One writes, “I’m thinking that we’re looking at the Farallon Islands from a WWII gun emplacement in the Marin Headlands” — which guarded San Francisco Bay. Another Farallon reader adds, “But I can’t figure out where the camera is located — too much of a headache from wildfire smoke!” Another:</p>
+  <blockquote>
+    <p>Those islands look like the Farallons, and the red roofs remind me of the Presidio. I’d guess we’re looking out the gun port of one of the old bunkers used for harbor defense in the Golden Gate Recreation Area or in the Marin Headlands.</p>
+    <p>But could that be a lighthouse on the hill to the right? If so, we’re probably not in the Bay Area. Point Bonita and Point Reyes are nearer the shore. Aack! I’ve spent too much time swooping through Google Earth to try to find the right view and the national park sites looking for a bunker/magazine that’s open to the public. I’m going with Battery Wallace in Fort Barry, Marin County, CA. Maybe I’ll get closest to the pin.</p>
+  </blockquote>
+  <p>Far from it, unfortunately. This reader heads across the Pacific:</p>
+  <blockquote>
+    <p>Ok, this is just a WAG [wild-ass guess], but the “window” looks like some sort of view from a military fortification/bunker, while the landscape is obviously coastal/island of some sort with lots of hills and vegetation. Maybe vaguely Asian? I’m going to guess this is Kinmen (Quemoy) Island, specifically the Mashan Observation Post. I’m no doubt wrong. </p>
+  </blockquote>
+  <p>Another jumps to the Philippines:</p>
+  <blockquote>
+    <p>Corregidor? During World War II, the island played an important role during the invasion and liberation of the Philippines from Japanese forces. That distant island has many tunnels dug way down deep, with bomb shelters and subterranean command posts and mobile hospitals.</p>
+  </blockquote>
+  <p>Leaving the bunkers, this reader heads much farther west:</p>
+  <blockquote>
+    <p>Masca, Tenerife, Canary Islands? Just a guess. I visited Tenerife in the late ‘90s and recall the beaches, volcanic rock, and refreshing Dorada beer more than anything.</p>
+  </blockquote>
+  <p>Another reader guesses Lučica Harbor, Croatia, adding, “<a href="https://malikadventures.com/journal/sea-kayaking-in-croatia-lastovo-circumnavigation/">This sea kayaking provider</a> offers a hike with a similar view.” Another vacation destination:</p>
+  <blockquote>
+    <p>﻿My first thought was of the fictional Isla Nublar in <em>Jurassic Park —</em> specifically, this might be a reverse angle shot from above the waterfall at which Dr. Alan Grant and company initially land.</p>
+    <div id="youtube2-xHuHeAMkY94" class="youtube-wrap" data-attrs="{&quot;videoId&quot;:&quot;xHuHeAMkY94&quot;,&quot;startTime&quot;:null,&quot;endTime&quot;:null}">
+      <iframe src="https://www.youtube-nocookie.com/embed/xHuHeAMkY94?rel=0&amp;autoplay=0&amp;showinfo=0" frameborder="0" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true"></iframe>
+    </div>
+    <p>Indeed, that’s exactly what I’m going with: Hanapepe Valley, Kaua’i, Hawaii, where that waterfall scene was filmed. I’ll wager that the island in the distance is Ni’ihau, just off the coast of Kaua’i.</p>
+  </blockquote>
+  <p>Another reader gets close with Brades on the Caribbean island of Montserrat. But this reader gets the right island:</p>
+  <blockquote>
+    <p>After having emailed an hour or so ago to say I love VFYW but I’ve never gone down the rabbit hole, my husband and I instantly went down the rabbit hole! Googling things like “tropical islands” “red roofs” gave a few false starts with places like French Polynesia, but within ten minutes we figured out (we think...) that it’s a view from <strong>Saba, in the Caribbean Netherlands,</strong> looking towards (we think...) St. Barts, and taken somewhere (we think...) on the northern edge of Windwardside. But an hour of diving through TripAdvisor photos and Saba real estate websites later, we got no further!</p>
+  </blockquote>
+  <p>This cinematic shot from a reader is absolutely stunning:</p>
+<a class="image-link image2 image2-971-1456" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff741d1e9-3b66-487e-85d8-43dae2aba8eb_3200x2133.jpeg"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff741d1e9-3b66-487e-85d8-43dae2aba8eb_3200x2133.jpeg" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f741d1e9-3b66-487e-85d8-43dae2aba8eb_3200x2133.jpeg&quot;,&quot;height&quot;:971,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:3037071,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null}" alt="" />      <style>          a.image2.image-link.image2-971-1456 {            padding-bottom: 66.68956043956044%;            padding-bottom: min(66.68956043956044%, 971px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-971-1456 img {            max-width: 1456px;            max-height: 971px;          }        </style>
+</a>  <p>The reader adds:</p>
+  <blockquote>
+    <p>Notice the airport runway in the bottom right corner? Apparently, it’s the shortest commercial runway in the world. At 1,300 feet, it’s barely longer than the deck of an aircraft carrier. One traveler posted a landing video on YouTube <a href="https://www.youtube.com/watch?v=KthfTN39ZV0">here</a>. That’s some intense flying.</p>
+    <p>Another notable thing about Saba is that they don’t use a lot of imagination in naming things — the main road is simply called “The Road” and the large mountain in the center of the island is “Mt. Scenery.”</p>
+  </blockquote>
+  <p>A view from Scenery via Google Maps 3D:</p>
+<a class="image-link image2 image2-931-1456" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff30074f7-7330-42a8-b4d4-c82c349996d3_2000x1279.jpeg"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff30074f7-7330-42a8-b4d4-c82c349996d3_2000x1279.jpeg" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f30074f7-7330-42a8-b4d4-c82c349996d3_2000x1279.jpeg&quot;,&quot;height&quot;:931,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:708009,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null}" alt="" />      <style>          a.image2.image-link.image2-931-1456 {            padding-bottom: 63.942307692307686%;            padding-bottom: min(63.942307692307686%, 931px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-931-1456 img {            max-width: 1456px;            max-height: 931px;          }        </style>
+</a>  <p>Another reader names the islands in the distance:</p>
+  <blockquote>
+    <p>Saba is one of the few Caribbean islands I’ve never been to, but I know it is a small island that rises steeply from the sea. If it’s Saba, the islands in the background would be St. Eustatius and St. Kitts, and they seem about the right shape in this photo. My last holiday before Covid forced me to cancel all travel to St. Kitts.</p>
+  </blockquote>
+  <p>Another reader goes to church:</p>
+  <blockquote>
+    <p>This is on Saba in the town of Windwardside, looking roughly southeast. My main landmark was the radio / phone tower on the ridge, top right, though initially I mistook that for Holy Rosary Church. My first thought put the spot just up the road from Yrausquin Airport, but the coastline wasn’t quite right. A closer match would be the Holy Rosary Church itself:</p>
+<a class="image-link image2 image2-1016-1456" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff78bd0c6-25d2-4a38-b066-32b140a9dcd7_2546x1776.png"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff78bd0c6-25d2-4a38-b066-32b140a9dcd7_2546x1776.png" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f78bd0c6-25d2-4a38-b066-32b140a9dcd7_2546x1776.png&quot;,&quot;height&quot;:1016,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:5710393,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null}" alt="" />        <style>          a.image2.image-link.image2-1016-1456 {            padding-bottom: 69.78021978021978%;            padding-bottom: min(69.78021978021978%, 1016px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-1016-1456 img {            max-width: 1456px;            max-height: 1016px;          }        </style>
+</a>  </blockquote>
+  <p>Another reader has a more prurient view than the churchgoer: “I’ll guess it’s from the Out of the Blue Apartments, located on the comically named Booby Hill.” Another reader:</p>
+  <blockquote>
+    <p>After several hours of chasing up false leads — is that slit-window part of a WWII pillbox? (no!)  Is that a lighthouse on top of the hill in the distance? (no!) — I tried a reverse-image search on Google. In the past, that tool has occasionally been of modest help (for the <a href="https://andrewsullivan.substack.com/p/the-view-from-your-window-contest-2c0">Tenerife view a few weeks ago</a> it was directing people erroneously to the Jewel Grande in Montego bay), but this time it was a bullseye. Are the robots coming for the VFYW contest? </p>
+  </blockquote>
+  <p>Probably. But they won’t be able to come up with fun tidbits like this:</p>
+  <blockquote>
+    <p>Saba looks like a gorgeous place to kick back for a while, and it makes me long to live where the big long-running <a href="https://repeatingislands.com/2013/11/03/a-vote-for-a-goat-still-true-on-saba/">political controversy</a> appears to be related to <a href="https://www.sxm-talks.com/soualiga-newsday/saba-launches-goat-control-project-soualiga-newsday/">free-roaming goats</a>.</p>
+  </blockquote>
+  <p>This next reader shows that Slack isn’t <a href="https://www.google.com/search?rlz=1C5CHFA_enUS776US776&amp;ei=fcJRX5KVL8Oq0PEPt4644Ag&amp;q=slack+toxic&amp;oq=slack+toxic&amp;gs_lcp=CgZwc3ktYWIQAzICCAAyBggAEBYQHjoHCAAQRxCwA1CewgdYnsIHYLTEB2gBcAB4AIABdogBdpIBAzAuMZgBAKABAaoBB2d3cy13aXrAAQE&amp;sclient=psy-ab&amp;ved=0ahUKEwjSx87v1M7rAhVDFTQIHTcHDowQ4dUDCA0&amp;uact=5">totally awful</a> after all:</p>
+  <blockquote>
+    <p>This challenge had me googling “mountainous islands” and scouring the world, from the Kurils to New Caledonia to Monserrat, starting in Hawaii. No sooner had I pulled out my hair than I posted the picture to the work Slack channel. It turns out, one of my colleagues is a seasoned geoguessr and she picked the island immediately. Now I can get back to work.</p>
+  </blockquote>
+  <p>This reader gets us to the right neighborhood on Saba:</p>
+  <blockquote>
+    <p>Your clue, “August 22,” brought to mind disasters. There were wildfires in California (haze in background) or Hurricane Laura (blowing leaves and dislodged gutter or roof ridge cap). When California views didn’t match, I checked the locations of Hurricane Laura, then a tropical storm, on August 22 and started systematically going through the eastern Caribbean starting with Antiqua and ending with Saba.</p>
+    <p>Finding the window (which looks more like a porch railing) was much more challenging and I gave up trying to identify the house or “window”. I could see it was taken from the <strong>Upper Hell’s Gate (Zion’s Hill)</strong> residential area but it was hard to narrow down a location:</p>
+<a class="image-link image2 image2-720-960" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc49493e5-02b7-4c1a-b9de-6f5a66fb2d2f_960x720.jpeg"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc49493e5-02b7-4c1a-b9de-6f5a66fb2d2f_960x720.jpeg" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/c49493e5-02b7-4c1a-b9de-6f5a66fb2d2f_960x720.jpeg&quot;,&quot;height&quot;:720,&quot;width&quot;:960,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:306190,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null}" alt="" />        <style>          a.image2.image-link.image2-720-960 {            padding-bottom: 75%;            padding-bottom: min(75%, 720px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-720-960 img {            max-width: 960px;            max-height: 720px;          }        </style>
+</a>    <p>Some of the photos, including the Google images, appear to have gone out of date quickly due to a great deal of new building and remodeling in the neighborhood. Clues had to be taken from real estate and rental photos and I never found a single view matching key clues in the photo.</p>
+    <p>Lovely island. Hope it doesn’t lose too much of its character in the building boom.</p>
+  </blockquote>
+  <p>They’re even constructing homes in the middle of cliffs:</p>
+<a class="image-link image2 image2-478-1038" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2ee7d1f8-8e20-499c-90fc-8f91d79c1868_1038x478.png"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2ee7d1f8-8e20-499c-90fc-8f91d79c1868_1038x478.png" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/2ee7d1f8-8e20-499c-90fc-8f91d79c1868_1038x478.png&quot;,&quot;height&quot;:478,&quot;width&quot;:1038,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:833909,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null}" alt="" />      <style>          a.image2.image-link.image2-478-1038 {            padding-bottom: 46.05009633911368%;            padding-bottom: min(46.05009633911368%, 478px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-478-1038 img {            max-width: 1038px;            max-height: 478px;          }        </style>
+</a>  <p>The reader adds, “Whoever helped build that villa on the cliff deserves a medal!” Another writes, “It’s not Spyglass Villa, but oh my god look at <a href="https://www.google.com/maps/place/Spyglass+Villa/@17.623175,-63.2282941,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNh8vpYoiviaWHtGPkCo_O8jgQldfykUu9MNLbG!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNh8vpYoiviaWHtGPkCo_O8jgQldfykUu9MNLbG%3Dw203-h135-k-no!7i5432!8i3619!4m15!1m9!2m8!1sHotels!3m6!1sHotels!2sWindward+Side,+Caribbean+Netherlands!3s0x8c0e2041d37c547b:0x18163fdf09aed776!4m2!1d-63.2312032!2d17.628453!3m4!1s0x0:0x8f04ba1fc72ac9b7!8m2!3d17.6231751!4d-63.2282938">the view from Spyglass Villa on Saba</a>.” From a reader who’s seen the view in person:</p>
+  <blockquote>
+    <p>My wife and I spent several wonderful days on Saba several years ago. What a beautiful island.</p>
+  </blockquote>
+  <p>A repeat visitor:</p>
+  <blockquote>
+    <p>Having been to Saba many times, the view was immediately recognizable, and the two trees at center of the far right of the photo are next to a property I’ve stayed at. (They can be seen in <a href="https://youtu.be/gkj1_ux0kIQ?t=141">this video tour of the property</a>.)</p>
+  </blockquote>
+  <p>Another reader gets very close to the right property:</p>
+  <blockquote>
+    <p>Well, the clue was a good one — particularly to someone in Louisiana who had been following the Hurricane Laura forecast tracks quite devotedly over the last week. While there were several islands that had distinct patches of red metal roofs, there was only one that had the ultra distinct white trim along the peaks AND had the sweet sweet combination of an offshore island (which features Boven National Park). Based on the angle of the view, and the few buildings within the shot, I am highly confident that the <a href="https://www.cloudbreakvilla.com/">Cloudbreak Villa</a> is the building. It just has to be.</p>
+<a class="image-link image2 image2-447-694" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcfaa3786-1326-46dd-8345-5ae8d49f6238_694x447.png"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcfaa3786-1326-46dd-8345-5ae8d49f6238_694x447.png" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/cfaa3786-1326-46dd-8345-5ae8d49f6238_694x447.png&quot;,&quot;height&quot;:447,&quot;width&quot;:694,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:779006,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null}" alt="" />        <style>          a.image2.image-link.image2-447-694 {            padding-bottom: 64.4092219020173%;            padding-bottom: min(64.4092219020173%, 447px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-447-694 img {            max-width: 694px;            max-height: 447px;          }        </style>
+</a>    <p>This is my first contest entry (I’m brand new to the Dish as of the past month, when it was reanimated in weekly form) and I imagine that veterans of the hunt have probably already submitted some winning finds for this.</p>
+  </blockquote>
+  <p>Indeed they have. Our reader in Italy who consistently nails the right window gets it again:</p>
+<a class="image-link image2 image2-400-1100" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0903c3bb-f5ed-4a97-a62e-c9a9e52beba5_1100x400.png"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0903c3bb-f5ed-4a97-a62e-c9a9e52beba5_1100x400.png" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/0903c3bb-f5ed-4a97-a62e-c9a9e52beba5_1100x400.png&quot;,&quot;height&quot;:400,&quot;width&quot;:1100,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:916485,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null}" alt="" />      <style>          a.image2.image-link.image2-400-1100 {            padding-bottom: 36.36363636363637%;            padding-bottom: min(36.36363636363637%, 400px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-400-1100 img {            max-width: 1100px;            max-height: 400px;          }        </style>
+</a>  <p>From another reader who guessed the right villa: “There is a <a href="https://www.youtube.com/watch?v=ajkRBChgdNo&amp;feature=emb_title">Youtube video</a> featuring this property and the view from one of the bedrooms looks very familiar.” Kinda creepy, to be able to virtually enter someone’s home, but before I did the contest this week I double-checked with our photo submitter to make sure it was okay to post. The submitter replied:</p>
+  <blockquote>
+    <p>Sure! There are just under 2000 people who live on Saba, so anonymity isn’t really a thing here anyway.</p>
+  </blockquote>
+  <p>Our Saba resident also provides “additional fun facts about the island and the current moment”:</p>
+  <blockquote>
+    <p>While residents of Saba have been allowed to return home if they were away, no tourists have been allowed to disembark here since mid-March. We’ve had a total of five cases of COVID in that time, all among people who had just returned (and were strictly quarantined upon arrival). Testing has been extremely aggressive, so there’s no reason to think that’s an undercount. There are no cases now. So — except that no new folks can come to Saba right now, which also makes it quite difficult to leave — life is perfectly normal: no social distancing, no limits on sizes of gatherings, and, in general, no masks.</p>
+  </blockquote>
+  <p>Paradise indeed. But the downsides:</p>
+  <blockquote>
+    <p>The lack of tourism is terrible for the local economy, as you might imagine. Tourism + a tiny medical school (full disclosure: which I work for, teaching about infectious diseases) comprise almost the entire economy.</p>
+  </blockquote>
+  <p>Only two readers correctly answered Island View Villa, and both of those readers are previous winners. So the winner this week is one who has correctly guessed the most windows in the past without yet winning: her initials are H.M. We’ll send H.M. her choice of either a <a href="https://www.blurb.com/b/955762-the-view-from-your-window">VFYW book</a> or <a href="https://andrewsullivan.substack.com/subscribe?gift=true">two gift subscriptions to TWD</a> to give to herself and/or others.</p>
+  <p>Meanwhile, Grand Champion Chini responds to my <a href="https://andrewsullivan.substack.com/p/vfyw-contest-readers-on-the-trail">open call for ideas</a> to slowly evolve the window contest (and yes, of course he got Saba right):</p>
+  <blockquote>
+<a class="image-link image2 image2-910-1456" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fea46bb20-95d1-44af-9071-eb26d9f712e1_5080x3175.jpeg"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fea46bb20-95d1-44af-9071-eb26d9f712e1_5080x3175.jpeg" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/ea46bb20-95d1-44af-9071-eb26d9f712e1_5080x3175.jpeg&quot;,&quot;height&quot;:910,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:4890126,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null}" alt="" />        <style>          a.image2.image-link.image2-910-1456 {            padding-bottom: 62.5%;            padding-bottom: min(62.5%, 910px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-910-1456 img {            max-width: 1456px;            max-height: 910px;          }        </style>
+</a>    <p>This week’s view comes from the small town of Zion’s Hill (formerly Hell’s Gate) on the island of Saba in the Dutch Antilles and looks almost exactly southeast at the island of Sint Eustatius. As an homage to <a href="https://www.theatlantic.com/notes/category/america-by-air/">Chris’ years at </a><em><a href="https://www.theatlantic.com/notes/category/america-by-air/">The Atlantic</a></em>, I’ve attached a marked view from an airplane window, of, er, a view from your window. Meta!</p>
+    <p>There’ll be a ton of posts this week about the world’s smallest commercial airport and the island’s beauty, so I thought I’d focus instead on an idea I’ve long had for the contest:</p>
+    <p>When I was little, my school had an old computer game called “Where in the World is Carmen Sandiego?” in which you had to track down the title character using landmarks; the VFYW contest is very much a modern version of it. One variant was “Where in Time is Carmen Sandiego?” in which you had to find not only Carmen’s geographic location, but the year in history she had travelled to.</p>
+    <p>I wonder if the VFYW contest could do the same by asking Dish readers to send in old photos with views from decades ago. The principle would remain the same, i.e. find the location just by using the picture, but with the added goal of trying to figure out the year, month, etc. As the picture might be in black and white, or with landmarks having changed, what would be an easy view if taken today would be far more challenging.</p>
+  </blockquote>
+  <p>I, too, grew up with Carmen Sandiego, and now you, too, won’t be able to get the song out of your head:</p>
+  <div id="youtube2-s1EIUP8tvbE" class="youtube-wrap" data-attrs="{&quot;videoId&quot;:&quot;s1EIUP8tvbE&quot;,&quot;startTime&quot;:null,&quot;endTime&quot;:null}">
+    <iframe src="https://www.youtube-nocookie.com/embed/s1EIUP8tvbE?rel=0&amp;autoplay=0&amp;showinfo=0" frameborder="0" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true"></iframe>
+  </div>
+  <p>Here’s another great idea from a reader:</p>
+  <blockquote>
+    <p>Many years ago, there was a quiz show called “Name that Tune.” Contestants won by IDing tunes in the fewest number of notes. So you for the window contest, divide the photo into arbitrary sections. Reveal one or more sections at a time per week. The person who first IDs the location based on the fewest number of sections is the winner. And this challenge could be run in conjunction with the classic contest.</p>
+  </blockquote>
+  <p>I’ll discuss this and other ideas with Andrew when we meet up on the East Coast this month to launch the podcast, but for the time being we’re going to follow these readers:</p>
+  <blockquote>
+    <p>First, I don’t know what the problem is with that crank who doesn’t get the appeal of the VFYW contest. It’s a treasure hunt every week, a challenge, a chance to use your brain for more than fretting about where you will live in exile if Citrus Caligula wins again in November. In short, it’s fun!</p>
+  </blockquote>
+  <p>Another:</p>
+  <blockquote>
+    <p>I have missed VFYW so much, and love everything about it. I’ve almost never gone down the rabbit hole of properly hunting the view, but I love reading the long reveals! Don’t change a thing! It’s a beacon of (resurrected) stability in our teetering world.</p>
+  </blockquote>
+  <p>Another:</p>
+  <blockquote>
+    <p>It’s perfect just the way it is. I could stand with the contests being a SMIDGE easier, as last week’s seemed extraordinarily difficult unless you were a botanist, geologist, or had lived/spent time in Montana. But that’s the only thing I’d change!!!</p>
+  </blockquote>
+  <p>Another:</p>
+  <blockquote>
+    <p>Please don’t change the VFYW contest yet! I’ve just discovered it, and as someone who has always had a geographic bent to my thinking, I was immediately captivated. If you do change it, is there a way I can go back to previous VFYW photos without revealing their locations? That way I can enjoy the challenge on my own for a bit.</p>
+  </blockquote>
+  <p>Yep, in fact, back in the Daily Dish days, we created an <a href="http://dish.andrewsullivan.com/vfyw-contest/">archive of the VFYWC</a> so you can click on each contest — all 241 of them — without seeing the answer. There’s also a <a href="http://dish.andrewsullivan.com/vfyw-contest-gallery/">photo-based version of that archive</a> that Chas Danner (a.k.a Special Teams) created so you can browse the windows themselves. Enjoy!</p>
+  <div>
+    <hr />
+  </div>
+  <p>This week: <strong>Saba, Netherlands</strong>. Next week:</p>
+<a class="image-link image2 image2-1101-1456" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd24a600-8a5e-4749-9b9b-36e725160554_1764x1334.png"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd24a600-8a5e-4749-9b9b-36e725160554_1764x1334.png" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/dd24a600-8a5e-4749-9b9b-36e725160554_1764x1334.png&quot;,&quot;height&quot;:1101,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:4114216,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null}" alt="" />      <style>          a.image2.image-link.image2-1101-1456 {            padding-bottom: 75.61813186813187%;            padding-bottom: min(75.61813186813187%, 1101px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-1101-1456 img {            max-width: 1456px;            max-height: 1101px;          }        </style>
+</a>  <p>So, where do you think it’s located? (A clue: Going into this election, you should know it.) Email your entry to <strong>contest@andrewsullivan.com</strong>. Please put the location — city and/or state first, then country — in the subject heading, along with any details about the location within the body of the email. If no one guesses the exact location, proximity counts. Winner gets a <a href="https://www.blurb.com/b/955762-the-view-from-your-window">VFYW book</a> or two <a href="https://andrewsullivan.substack.com/subscribe?&amp;gift=true">gift subscriptions</a>. Happy sleuthing!</p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#The Weekly Dish 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2021-02-05/VFYW-Contest-Timeless-In-Tuscany/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2020-07-04/Stories-Of-Wokeness/">最早</a>--</span>
+    
+      <li>
+        <time>2020-09-11</time>
+        <a href="https://nodebe4.github.io/opinion/2020-09-11/VFYW-Contest-Get-To-Know-Hope/">
+          VFYW Contest: Get To Know Hope
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-09-11</time>
+        <a href="https://nodebe4.github.io/opinion/2020-09-11/The-Logic-Of-Bell-Curve-Leftism/">
+          The Logic Of Bell Curve Leftism
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-09-04</time>
+        <a href="https://nodebe4.github.io/opinion/2020-09-04/The-Metastasizing-Cancer-Of-Trump/">
+          The Metastasizing Cancer Of Trump
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-09-01</time>
+        <a href="https://nodebe4.github.io/opinion/2020-09-01/My-Record-On-Race-and-IQ/">
+          My Record On Race and IQ
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2020-09-04/The-Metastasizing-Cancer-Of-Trump/">
+            前一篇：The Metastasizing Cancer Of Trump
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2020-09-04/%E6%B3%95%E7%90%86%E4%BD%95%E5%9C%A8-%E5%90%91%E6%B0%91%E6%97%8F%E8%AA%9E%E8%A8%80%E9%96%8B%E5%88%80-%E8%BC%AA%E5%88%B0%E8%92%99%E5%8F%A4%E6%97%8F%E4%BA%86/">
+            後一篇：法理何在：向民族語言開刀 輪到蒙古族了
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2020-09-04/The-Metastasizing-Cancer-Of-Trump/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2020-09-04/%E6%B3%95%E7%90%86%E4%BD%95%E5%9C%A8-%E5%90%91%E6%B0%91%E6%97%8F%E8%AA%9E%E8%A8%80%E9%96%8B%E5%88%80-%E8%BC%AA%E5%88%B0%E8%92%99%E5%8F%A4%E6%97%8F%E4%BA%86/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2020-09-11/The-Logic-Of-Bell-Curve-Leftism/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2020-09-04/The-Metastasizing-Cancer-Of-Trump/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2020-09-04/The-Metastasizing-Cancer-Of-Trump/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2020-09-04/%E6%B3%95%E7%90%86%E4%BD%95%E5%9C%A8-%E5%90%91%E6%B0%91%E6%97%8F%E8%AA%9E%E8%A8%80%E9%96%8B%E5%88%80-%E8%BC%AA%E5%88%B0%E8%92%99%E5%8F%A4%E6%97%8F%E4%BA%86/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<The Weekly Dish>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2020-09-11/The-Logic-Of-Bell-Curve-Leftism/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<The Weekly Dish>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2020-09-04/The-Metastasizing-Cancer-Of-Trump/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

@@ -1,0 +1,992 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>【404档案馆】第106期：“帝吧官微”始乱终弃，以及其他被IP地址现形的“离岸爱国者” – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+【404档案馆】第106期：“帝吧官微”始乱终弃，以及其他被IP地址现形的“离岸爱国者”
+——
+" />
+    <meta property="og:description" content="
+【404档案馆】第106期：“帝吧官微”始乱终弃，以及其他被IP地址现形的“离岸爱国者”
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="【404档案馆】第106期：“帝吧官微”始乱终弃，以及其他被IP地址现形的“离岸爱国者”" />
+    <meta property="twitter:title" content="【404档案馆】第106期：“帝吧官微”始乱终弃，以及其他被IP地址现形的“离岸爱国者”" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fmatters.news%2F%40ChinaDT%2F404%25E6%25A1%25A3%25E6%25A1%2588%25E9%25A6%2586-%25E7%25AC%25AC106%25E6%259C%259F-%25E5%25B8%259D%25E5%2590%25A7%25E5%25AE%2598%25E5%25BE%25AE-%25E5%25A7%258B%25E4%25B9%25B1%25E7%25BB%2588%25E5%25BC%2583-%25E4%25BB%25A5%25E5%258F%258A%25E5%2585%25B6%25E4%25BB%2596%25E8%25A2%25ABip%25E5%259C%25B0%25E5%259D%2580%25E7%258E%25B0%25E5%25BD%25A2%25E7%259A%2584-%25E7%25A6%25BB%25E5%25B2%25B8%25E7%2588%25B1%25E5%259B%25BD%25E8%2580%2585-bafyreigovsfudw3zcfw2etrmjg2x6awxqwbcmouv7vjqx7mi756g3ldu4q" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC106%E6%9C%9F-%E5%B8%9D%E5%90%A7%E5%AE%98%E5%BE%AE-%E5%A7%8B%E4%B9%B1%E7%BB%88%E5%BC%83-%E4%BB%A5%E5%8F%8A%E5%85%B6%E4%BB%96%E8%A2%ABip%E5%9C%B0%E5%9D%80%E7%8E%B0%E5%BD%A2%E7%9A%84-%E7%A6%BB%E5%B2%B8%E7%88%B1%E5%9B%BD%E8%80%85-bafyreigovsfudw3zcfw2etrmjg2x6awxqwbcmouv7vjqx7mi756g3ldu4q" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC106%E6%9C%9F-%E5%B8%9D%E5%90%A7%E5%AE%98%E5%BE%AE-%E5%A7%8B%E4%B9%B1%E7%BB%88%E5%BC%83-%E4%BB%A5%E5%8F%8A%E5%85%B6%E4%BB%96%E8%A2%ABip%E5%9C%B0%E5%9D%80%E7%8E%B0%E5%BD%A2%E7%9A%84-%E7%A6%BB%E5%B2%B8%E7%88%B1%E5%9B%BD%E8%80%85-bafyreigovsfudw3zcfw2etrmjg2x6awxqwbcmouv7vjqx7mi756g3ldu4q&text=【404档案馆】第106期：“帝吧官微”始乱终弃，以及其他被IP地址现形的“离岸爱国者”&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC106%E6%9C%9F-%E5%B8%9D%E5%90%A7%E5%AE%98%E5%BE%AE-%E5%A7%8B%E4%B9%B1%E7%BB%88%E5%BC%83-%E4%BB%A5%E5%8F%8A%E5%85%B6%E4%BB%96%E8%A2%ABip%E5%9C%B0%E5%9D%80%E7%8E%B0%E5%BD%A2%E7%9A%84-%E7%A6%BB%E5%B2%B8%E7%88%B1%E5%9B%BD%E8%80%85-bafyreigovsfudw3zcfw2etrmjg2x6awxqwbcmouv7vjqx7mi756g3ldu4q&title=【404档案馆】第106期：“帝吧官微”始乱终弃，以及其他被IP地址现形的“离岸爱国者”" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC106%E6%9C%9F-%E5%B8%9D%E5%90%A7%E5%AE%98%E5%BE%AE-%E5%A7%8B%E4%B9%B1%E7%BB%88%E5%BC%83-%E4%BB%A5%E5%8F%8A%E5%85%B6%E4%BB%96%E8%A2%ABip%E5%9C%B0%E5%9D%80%E7%8E%B0%E5%BD%A2%E7%9A%84-%E7%A6%BB%E5%B2%B8%E7%88%B1%E5%9B%BD%E8%80%85-bafyreigovsfudw3zcfw2etrmjg2x6awxqwbcmouv7vjqx7mi756g3ldu4q&title=【404档案馆】第106期：“帝吧官微”始乱终弃，以及其他被IP地址现形的“离岸爱国者”" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=【404档案馆】第106期：“帝吧官微”始乱终弃，以及其他被IP地址现形的“离岸爱国者”&body=
+【404档案馆】第106期：“帝吧官微”始乱终弃，以及其他被IP地址现形的“离岸爱国者”
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC106%E6%9C%9F-%E5%B8%9D%E5%90%A7%E5%AE%98%E5%BE%AE-%E5%A7%8B%E4%B9%B1%E7%BB%88%E5%BC%83-%E4%BB%A5%E5%8F%8A%E5%85%B6%E4%BB%96%E8%A2%ABip%E5%9C%B0%E5%9D%80%E7%8E%B0%E5%BD%A2%E7%9A%84-%E7%A6%BB%E5%B2%B8%E7%88%B1%E5%9B%BD%E8%80%85-bafyreigovsfudw3zcfw2etrmjg2x6awxqwbcmouv7vjqx7mi756g3ldu4q" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC106%E6%9C%9F-%E5%B8%9D%E5%90%A7%E5%AE%98%E5%BE%AE-%E5%A7%8B%E4%B9%B1%E7%BB%88%E5%BC%83-%E4%BB%A5%E5%8F%8A%E5%85%B6%E4%BB%96%E8%A2%ABip%E5%9C%B0%E5%9D%80%E7%8E%B0%E5%BD%A2%E7%9A%84-%E7%A6%BB%E5%B2%B8%E7%88%B1%E5%9B%BD%E8%80%85-bafyreigovsfudw3zcfw2etrmjg2x6awxqwbcmouv7vjqx7mi756g3ldu4q&title=【404档案馆】第106期：“帝吧官微”始乱终弃，以及其他被IP地址现形的“离岸爱国者”&caption=
+【404档案馆】第106期：“帝吧官微”始乱终弃，以及其他被IP地址现形的“离岸爱国者”
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=【404档案馆】第106期：“帝吧官微”始乱终弃，以及其他被IP地址现形的“离岸爱国者”&url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC106%E6%9C%9F-%E5%B8%9D%E5%90%A7%E5%AE%98%E5%BE%AE-%E5%A7%8B%E4%B9%B1%E7%BB%88%E5%BC%83-%E4%BB%A5%E5%8F%8A%E5%85%B6%E4%BB%96%E8%A2%ABip%E5%9C%B0%E5%9D%80%E7%8E%B0%E5%BD%A2%E7%9A%84-%E7%A6%BB%E5%B2%B8%E7%88%B1%E5%9B%BD%E8%80%85-bafyreigovsfudw3zcfw2etrmjg2x6awxqwbcmouv7vjqx7mi756g3ldu4q" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>【404档案馆】第106期：“帝吧官微”始乱终弃，以及其他被IP地址现形的“离岸爱国者”</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-05-28
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#中国数字时代">
+          中国数字时代
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC106%E6%9C%9F-%E5%B8%9D%E5%90%A7%E5%AE%98%E5%BE%AE-%E5%A7%8B%E4%B9%B1%E7%BB%88%E5%BC%83-%E4%BB%A5%E5%8F%8A%E5%85%B6%E4%BB%96%E8%A2%ABip%E5%9C%B0%E5%9D%80%E7%8E%B0%E5%BD%A2%E7%9A%84-%E7%A6%BB%E5%B2%B8%E7%88%B1%E5%9B%BD%E8%80%85-bafyreigovsfudw3zcfw2etrmjg2x6awxqwbcmouv7vjqx7mi756g3ldu4q" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="中国数字时代的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#中国数字时代 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1653790862000-->
+<p><a href="https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC106%E6%9C%9F-%E5%B8%9D%E5%90%A7%E5%AE%98%E5%BE%AE-%E5%A7%8B%E4%B9%B1%E7%BB%88%E5%BC%83-%E4%BB%A5%E5%8F%8A%E5%85%B6%E4%BB%96%E8%A2%ABip%E5%9C%B0%E5%9D%80%E7%8E%B0%E5%BD%A2%E7%9A%84-%E7%A6%BB%E5%B2%B8%E7%88%B1%E5%9B%BD%E8%80%85-bafyreigovsfudw3zcfw2etrmjg2x6awxqwbcmouv7vjqx7mi756g3ldu4q">【404档案馆】第106期：“帝吧官微”始乱终弃，以及其他被IP地址现形的“离岸爱国者”</a>
+——</p>
+
+<div>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/1eb824dc-1a97-4158-899c-173df21e3db3.jpeg" data-asset-id="1eb824dc-1a97-4158-899c-173df21e3db3" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p><a href="https://chinadigitaltimes.net/chinese/404-archives" rel="noopener noreferrer" target="_blank">《404档案馆》</a>讲述中国审查与反审查的故事，同时以文字、音频和视频的形式发布。播客节目可在 Apple Podcasts, Google Podcasts, Spotify 或泛用型播客客户端搜索“<a href="https://open.firstory.me/user/cdt" rel="noopener noreferrer" target="_blank">404档案馆</a>”进行收听，视频节目可在Youtube“<a href="https://www.youtube.com/channel/UCwXewCWwaK1-yec8niJLrqg" rel="noopener noreferrer" target="_blank">中国数字时代· 404档案馆</a>”频道收看。</p>
+  <p><br /></p>
+  <p><strong>作者：毕麦</strong></p>
+  <p>欢迎来到404档案馆。在这里，我们一起穿越中国数字高墙。</p>
+  <p>2022年4月28日，新浪微博宣布将公示所有用户的IP地址 “具体到省份” 。之后几天内，各大网络平台也纷纷跟进 “公示IP地址所在地” 的风潮。在这个过程中，不少以 “爱国” 作为人设的网络大V被发现旅居国外，引发大量网民嘲讽。今天，我们就来关注这群 “离岸爱国者” 言行不一的两副面孔。</p>
+  <h2 id="ip"><strong>一、网络各大平台公示用户IP地址</strong></h2>
+  <p>4月28日，<a href="https://weibo.com/1934183965/LqvYeCdBu?from=page_1006061934183965_profile&amp;wvr=6&amp;mod=weibotime&amp;type=comment#_rnd1652235881164" rel="noopener noreferrer" target="_blank">新浪微博发布公告称</a> ， 将 “全面开放 ‘评论展示IP地址’和‘个人主页展示IP地址’的功能，且会展示到具体省份”。这条公告一经发布，迅速在中文互联网掀起一波关于网络实名制的讨论浪潮。</p>
+  <p>之后，新浪科技、红星新闻报导，抖音、快手、小红书、今日头条、知乎等，也都相继上线了“网络用户IP位址显示”功能。具体来说，在境外的用户可以显示到国家，在境内的则可以显示到省市，而且用户无法关闭此项功能；也就是说，IP位址为强制显示。</p>
+  <p>其实早在一个月前的3月4日，<a href="https://weibo.com/1934183965/Liait9YAp?from=page_1006061934183965_profile&amp;wvr=6&amp;mod=weibotime&amp;type=comment#_rnd1652235954827" rel="noopener noreferrer" target="_blank">微博就已经率先对带有“乌克兰、俄罗斯”字样的博文显示发帖博主的IP地址</a>，以及回帖用户的IP地址。</p>
+  <p>上述各平台对于信息的进一步监管并非一夜之间的单方面决定。中国国家网信办在去年10月就发布了<a href="http://www.cac.gov.cn/2021-10/26/c_1636843202454310.htm" rel="noopener noreferrer" target="_blank">《互联网用户账号名称信息管理规定（征求意见稿）》</a>，其中明确规定：平台应当以显著方式，在用户账号讯息页面展示账号IP位址属地；境内用户IP属地需标注到省（区、市），境外IP属地需标注到国家（地区）。</p>
+  <p>显示IP地址的措施一经实施，网友们很快发现，几位曾经常大骂其他国家的“爱国大V”的IP地址都显示是在国外。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/cb88ea5d-793e-4217-84f4-45abef5d8ae2.jpeg" data-asset-id="cb88ea5d-793e-4217-84f4-45abef5d8ae2" referrerpolicy="no-referrer" />    <figcaption>
+<span>爱国电影明星吴京IP地址在泰国</span>
+    </figcaption>
+  </figure>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/01858f98-292e-4660-914b-4bb9894b9248.jpeg" data-asset-id="01858f98-292e-4660-914b-4bb9894b9248" referrerpolicy="no-referrer" />    <figcaption>
+<span>微博爱国大V“帝吧官微”的IP地址竟是在“中国台湾”</span>
+    </figcaption>
+  </figure>
+  <h2 id="section"><strong>二、“离岸爱国者”的现身</strong></h2>
+  <h3 id="section-1"><strong>1. “帝吧官微”</strong></h3>
+  <p>作为微博爱国大V的“帝吧官微”被发现IP地址竟然是在“中国台湾”；此后一天内，其IP地址又几次更换到“中国香港”、“日本”、“浙江”等地。</p>
+  <p>面对质疑，“帝吧官微”的博主亲自发文出面回应自己“IP更换”的问题。</p>
+  <p>TA在<a href="https://weibo.com/7010131150/LqPGM7aEW?from=page_1005057010131150_profile&amp;wvr=6&amp;mod=weibotime&amp;type=comment#_rnd1652236387140" rel="noopener noreferrer" target="_blank">博文中说</a>：</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/62274141-87fb-4278-8280-4841987d3b65.jpeg" data-asset-id="62274141-87fb-4278-8280-4841987d3b65" referrerpolicy="no-referrer" />    <figcaption>
+<span>微博截图；注：1450是中国对台湾网军的称呼</span>
+    </figcaption>
+  </figure>
+  <p>但网友们对此并不买账。他们翻出此前“帝吧官微”在微博上发布<a href="https://weibo.com/7010131150/KfKx3xefU?from=page_1005057010131150_profile&amp;wvr=6&amp;mod=weibotime&amp;type=comment#_rnd1652236563860" rel="noopener noreferrer" target="_blank">嘲讽台湾民生的博文以示反驳</a>。 被翻出的这个博文曾写道：“台湾乱了，蔬菜一天一个价，民众忙着自保，台南台北相互喷，物价蹭蹭蹭的涨”。</p>
+  <p>这种鄙视台湾的态度，与“帝吧官微” 博主“肉身翻墙”到台湾的事实形成了鲜明对比。</p>
+  <p>之后，5月7日，有台湾媒体的相关报道证实：“帝吧官微”的运营者是一位名叫尹垣程的台湾花莲人，这人还与一名来自中国大陆山西省的女子结为了夫妻。</p>
+  <p>根据台媒<a href="https://news.ltn.com.tw/news/society/breakingnews/3919012" rel="noopener noreferrer" target="_blank">《自由时报》5月7日的报道</a>，“帝吧官微”运营者尹垣程与妻子刘慧，在2020年12月曾被花莲地检署以“散播不实信息”和“改造文书”两项罪名起诉；后来，两人为求轻判当庭认罪。花莲地方法院对尹垣程的两项罪名分别处以有期徒刑3个月、拘役50日的处罚，并判决刘慧拘役40日，缓刑2年，得易科罚金—意思是，鉴于情节轻微，可以交钱代替服刑。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/79ad67f3-7f0d-40b7-af99-c3a6a0513f75.jpeg" data-asset-id="79ad67f3-7f0d-40b7-af99-c3a6a0513f75" referrerpolicy="no-referrer" />    <figcaption>
+<span>判决书一览</span>
+    </figcaption>
+  </figure>
+  <p>5月11日，<a href="https://mp.weixin.qq.com/s/lZHMSfi8bNIzm_-garjXdQ" rel="noopener noreferrer" target="_blank">中国国务院台湾事务办公室/国台办也回应</a>了“帝吧官微”在台湾因造谣被起诉的事件。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/c6034336-feeb-4bf7-a994-52e568875ee2.jpeg" data-asset-id="c6034336-feeb-4bf7-a994-52e568875ee2" referrerpolicy="no-referrer" />    <figcaption>
+<span>国台办发言人朱凤莲</span>
+    </figcaption>
+  </figure>
+  <p>国台办发言人朱凤莲说：</p>
+  <blockquote>
+之前出现过岛内一些别有用心的人在有关网站平台蓄意制造事端，破坏两岸交流氛围，挑拨两岸同胞对立的事。这项措施能帮助两岸同胞擦亮眼睛。  </blockquote>
+  <p>此番言论被认为是，中国政府单方面舍弃了“帝吧官微”这样的“离岸爱国者”。</p>
+  <h2 id="section-2"><strong>2. 连岳</strong></h2>
+  <p>在这次事件之后，另一位活跃在微博及微信公众号平台的“爱国大V”——连岳，也被其IP地址“出卖”，显示他人在日本。</p>
+  <p>此前，连岳曾于2017年在其微信公众号撰文<a href="https://mp.weixin.qq.com/s/UpBhCiLdhvCHU-RWp46VBw" rel="noopener noreferrer" target="_blank">《中国的未来会很惨吗》</a>，发表如下这番言论：</p>
+  <blockquote>
+我很看好我们的未来。我对那些移民日本的人说：别去，你迟早会被类似奥姆真理教的组织毒死；我对那些移民美国的人说，别去，你迟早会死于类似“9 · 11”的恐怖袭击。  </blockquote>
+  <p>在去年答读者疑问的<a href="https://mp.weixin.qq.com/s/GmJAmxMZAyqneDLeAnerDw" rel="noopener noreferrer" target="_blank">《是否回归中国？》</a>一文中，连岳再次表示：“离开中国就意味着离开机会与财富，孩子也失去更好的未来。”</p>
+  <p>而在2019年，他甚至还写了一篇名为<a href="https://mp.weixin.qq.com/s/bFVKFCtBmrePEPB-fEZlbg" rel="noopener noreferrer" target="_blank">《谈谈移民，我与我的皮肤》</a>的文章，其中提到有关移民的问题。他表示：“不停有人问有关移民的问题，我活了半辈子，这个问题前几年想清楚了，我自己，肯定不会移民离开中国的。”</p>
+  <p>然而，自微信公众号也开始公布作者的IP地址后，网友发现，连岳自4月27日开始发布的文章，IP地址都显示在日本。</p>
+  <p>之后，有网友在连岳的微信文章下留言，质问他：“中国这么好，您怎么抛弃他去日本了？”连岳用反问的口气回复该网友：“这？旅游不行（吗）？”</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/9e0f9918-517d-4b03-8416-0a788638608a.jpeg" data-asset-id="9e0f9918-517d-4b03-8416-0a788638608a" referrerpolicy="no-referrer" />    <figcaption>
+<span>连岳微信文章评论截图</span>
+    </figcaption>
+  </figure>
+  <p>然而，<a href="https://weibo.com/1938487875/Lg3Jduhhk?from=page_1001061938487875_profile&amp;wvr=6&amp;mod=weibotime&amp;type=comment" rel="noopener noreferrer" target="_blank">日本驻华大使馆曾于2月份在微博上发文表示</a>：“因为疫情原因，以旅游为目的的外国人仍将不能入境。” 该限制措施至今有效。</p>
+  <p>因此，连岳说自己在日本的原因是“旅游”，显然缺乏说服力。</p>
+  <p>随后，连岳在4月29日写了一篇题为<a href="https://mp.weixin.qq.com/s/OgcCe2hR597zRr2U-T8wWw" rel="noopener noreferrer" target="_blank">《我为什么在日本？》</a>的文章，试图回应网络上的质疑声音。</p>
+  <p>他在文中说：</p>
+  <blockquote>
+我确实在日本，我和家人拿到的是医疗签证。下个月，我就会回到中国，待在我爱的大福建。我生是中国人，死是中国鬼。这一点永远是确定的。  </blockquote>
+  <p>虽然连岳的不少粉丝在留言区表达了对他的支持，网络上还是有很多人撰文抨击这种“离岸爱国”的行为。</p>
+  <p>例如，微信公众号“义不帝秦鲁仲连”发表了一篇题为<a href="https://chinadigitaltimes.net/chinese/680646.html" rel="noopener noreferrer" target="_blank">《润日爱国的连岳老师塌房了？》</a>的文章。TA讽刺说：</p>
+  <blockquote>
+岳不群老师前几天才说过‘在中国，只要我们谨慎、镇静、务实、负责，家庭的小日子与国家的大日子，都不必担心。’小日子和大日子都没问题，你这投奔世仇之地是干啥呢？是带病去潜伏吗？  </blockquote>
+  <p>而微信公众号“海边的西塞罗”也发表了一篇题为<a href="https://chinadigitaltimes.net/chinese/680573.html" rel="noopener noreferrer" target="_blank">《人在日本，刚爱完国》</a>的文章。TA说：</p>
+  <blockquote>
+原来总教育我们爱国的连岳老师在日本啊…… 好多平素爱国口号喊的震天响，天天唱着‘我和我的祖国一刻也不能分割’的正能量大V，昨天一发文，大家才发现，很多人不仅早就‘割’了，而且割哪去不好，偏偏割去了他们平素最为痛骂的美日欧。  </blockquote>
+  <h2 id="section-3"><strong>三、反美是工作，留美是生活</strong></h2>
+  <p>其实爱国大V被曝出“身在曹营心在汉”已经不止一次。此前最著名的“离岸爱国者”是司马南；司马南曾大言不惭地说出“反对美国才要去美国”这样的话。</p>
+  <p>接下来，我们为大家梳理一些之前活跃的 “离岸爱国者”自相矛盾的言行。</p>
+  <h3 id="section-4"><strong>1. 司马南</strong></h3>
+  <p><a href="https://chinadigitaltimes.net/chinese/212686.html" rel="noopener noreferrer" target="_blank">司马南曾在2012年1月20日发微博称</a> ：</p>
+  <blockquote>
+美国是全世界人民的敌人，剥削世界各国，类似一个巨大的肿瘤，世界各地人民都质疑美国……   </blockquote>
+  <p>然而，在这之后，司马南便登上了前往美国的飞机，而且随后就在机场被手扶梯“夹到头”。这也是司马南被网友戏称为“司马夹头”的由来。官方媒体<a href="https://youtu.be/Twknm7vA2tc" rel="noopener noreferrer" target="_blank">深圳卫视当年曾播报过这则新闻</a>。</p>
+  <p>几天后，<a href="https://weibo.com/1263406744/y2dN8nAL5?from=page_1005051263406744_profile&amp;wvr=6&amp;mod=weibotime&amp;type=comment#_rnd1652237541300" rel="noopener noreferrer" target="_blank">司马南自己也发布微博</a> 证实了这件事的存在。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/82c637e2-7ee2-416e-b929-0a2af1771d05.png" data-asset-id="82c637e2-7ee2-416e-b929-0a2af1771d05" referrerpolicy="no-referrer" />    <figcaption>
+<span>司马南微博截图</span>
+    </figcaption>
+  </figure>
+  <h3 id="section-5"><strong>2. 陈平</strong></h3>
+  <p>北大教授陈平，也常年在微博发文抨击美国，并多次在诸如演讲的公开场合细数美国存在的问题。</p>
+  <p>例如，2019年，<a href="https://www.bilibili.com/video/BV1pp4y1C7CZ?spm_id_from=333.337.search-card.all.click" rel="noopener noreferrer" target="_blank">陈平在清华的国情讲坛中说道</a>：</p>
+  <blockquote>
+美国人生活在水深火热之中。  </blockquote>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/19bf1e3e-6238-481e-babd-73c9ad74fa53.jpeg" data-asset-id="19bf1e3e-6238-481e-babd-73c9ad74fa53" referrerpolicy="no-referrer" />    <figcaption>
+<span>视频截图</span>
+    </figcaption>
+  </figure>
+  <p>然而，陈平的履历显示，他自己不仅毕业于美国的德克萨斯大学，妻子也在美国留过学，就连他的女儿也被他送去美国留学了。</p>
+  <p>陈平曾在 <a href="https://www.guancha.cn/chenping1/2014_11_28_301874.shtml" rel="noopener noreferrer" target="_blank">观察者网对他的采访</a>中说：“我女儿是美国出生长大的…… 却是华裔小孩里批判美国最厉害的。” 这印证了陈平女儿获取美国身份的事实。</p>
+  <p>以及，尽管陈平教授嘴上说着在美国生活“水深火热”，但事实上却选择了生活在美国。</p>
+  <p>2021年2月，在美国遭遇雪灾时期，<a href="https://weibo.com/6616523296/K2kXMlMlj?from=page_1005056616523296_profile&amp;wvr=6&amp;mod=weibotime&amp;type=comment#_rnd1652238143393" rel="noopener noreferrer" target="_blank">陈平还在微博上发文</a>，诉说自己在美国德州停电的遭遇。在博文中，他还附上了一张自己和自家住宅的合影。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/5d278d48-6f04-408f-97f1-c58f8a00c9a0.jpeg" data-asset-id="5d278d48-6f04-408f-97f1-c58f8a00c9a0" referrerpolicy="no-referrer" />    <figcaption>
+<span>陈平微博截图</span>
+    </figcaption>
+  </figure>
+  <p>此后，网友根据照片中的信息，找到了陈平住宅的具体位置，并且通过物业交易记录查得该房屋的成交价格为：39万4千美元，面积约2725平方米；成交人的名字赫然写着 “Chen Ping”。</p>
+  <p>随后，陈平也在微博上发文试图解释自己<a href="https://weibo.com/6616523296/K2PIZp0Jh?from=page_1005056616523296_profile&amp;wvr=6&amp;mod=weibotime&amp;type=comment" rel="noopener noreferrer" target="_blank">“为什么在美国批评美国？”</a></p>
+  <p>他辩解道：“有一些朋友批评我‘反美是工作，赴美是生活’…… 我眉山剑客陈平从不反对美国科学家和美国人民，我反对的是军火工业集团和金融集团祸害美国自己，最终祸害地球。”</p>
+  <h2 id="section-6"><strong>3. 董卿</strong></h2>
+  <p>央视著名主持人董卿，曾在《开学第一课》节目担任主持人，且常在节目中鼓励青少年要热爱自己的祖国、为祖国感到骄傲和自豪。</p>
+  <figure class="embed-video">
+    <div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/BWa_EBzzJXk?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+    </div>
+    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>在一次节目中，<a href="https://chinadigitaltimes.net/chinese/616616.html" rel="noopener noreferrer" target="_blank">董卿对一群小学生说道</a>：</p>
+  <blockquote>
+这面特殊的五星红旗，曾经是多少人要活下去的希望，也曾经是多少人内心最崇高的信仰和荣耀！我们今天再次和同学们来讲述这个故事，就是希望大家要明白一个道理：今天的我们，要像爱护生命一样爱护五星红旗，因为国旗神圣不可侵犯！大家说，能做到吗？  </blockquote>
+  <p>然而，有网传图片显示，董卿自己却赴美生子。之后，央视内部人员的爆料以及媒体“全明星探”所发布的画面，也都侧面印证了董卿赴美生子这件事。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/427eafb6-21fa-47dc-9878-206a1a76aa51.png" data-asset-id="427eafb6-21fa-47dc-9878-206a1a76aa51" referrerpolicy="no-referrer" />    <figcaption>
+<span>图片来自网络</span>
+    </figcaption>
+  </figure>
+  <p>2019年，董卿在上海接儿子的照片被网友拍到；照片显示她的孩子所就读的是学费昂贵的“上海惠灵顿国际学校”。</p>
+  <p>惠灵顿国际学校的官网显示该校只招收外籍学生，侧面证实了董卿儿子外国籍的身份。</p>
+  <p>针对“离岸爱国者”们言行不一的两副面孔，公众号“陆火Media”发布了评论文章<a href="https://www.163.com/dy/article/H672RE1H05533F8G.html" rel="noopener noreferrer" target="_blank">《做“爱国生意”的作家连岳被发现人在日本，他的生意还能持续多久？》</a>。文章说：</p>
+  <blockquote>
+连岳老师以前说过的话，倒也不是全都不可信。那就是，对他而言，赚钱的机会，确实更多在中国。他的这门生意，就是‘爱国生意’。他是否真的‘爱国’，我觉得需要打个问号。但他此刻在日本，用中文写作，挣着中国人的钱，这可以打个句号。  </blockquote>
+  <p><br /></p>
+  <p>中国数字时代 CDT 致力于记录和传播中文互联网上被审查的信息，以及人们与审查对抗的努力。欢迎大家通过<a href="https://t.me/cdtmedia_bot" rel="noopener noreferrer" target="_blank">电报（Telegram）平台</a> 向我们投稿，为记录和对抗中国网络审查作出你的贡献！</p>
+  <p><br /></p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#中国数字时代 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-02-12/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC276%E6%9C%9F-%E5%94%B1%E7%A6%81%E6%AD%8C-%E5%88%B0-%E7%A6%81%E6%AD%A2%E5%90%90%E6%A7%BD-%E8%A7%81%E8%AF%81%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E5%8F%98%E8%BF%81%E7%9A%84%E6%98%A5%E6%99%9A/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2021-12-14/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E4%B8%93%E8%AE%BF-%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3%E5%AF%B9%E8%AF%9D-%E8%A7%A3%E6%9E%84%E6%96%B0%E7%96%86%E9%95%87%E5%8E%8B-%E7%AC%AC%E4%B8%80%E4%BD%9C%E8%80%85%E8%AE%B8%E7%A7%80%E4%B8%AD/">最早</a>--</span>
+    
+      <li>
+        <time>2022-05-28</time>
+        <a href="https://nodebe4.github.io/opinion/2022-05-28/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC110%E6%9C%9F-%E8%A7%86%E9%A2%91%E4%B8%AD%E7%9A%84-%E6%B8%85%E9%9B%B6-(4)-%E4%B8%8E%E5%85%AC%E6%9D%83%E5%8A%9B-%E7%90%86%E8%AE%BA-%E7%9A%84%E6%8A%97%E4%BA%89%E5%85%AC%E6%B0%91/">
+          【404档案馆】第110期：视频中的“清零” (4)：与公权力“理论”的抗争公民
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-05-28</time>
+        <a href="https://nodebe4.github.io/opinion/2022-05-28/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC108%E6%9C%9F-%E6%8C%81%E4%B8%8D%E5%90%8C%E5%8C%BB%E8%A7%81%E8%80%85-%E6%96%B0%E5%86%A0%E6%8A%97%E7%96%AB%E4%B8%AD%E9%82%A3%E4%BA%9B%E5%8B%87%E6%95%A2%E8%AF%B4%E4%B8%8D%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F/">
+          【404档案馆】第108期：“持不同医见者”— 新冠抗疫中那些勇敢说不的中国医生
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-05-28</time>
+        <a href="https://nodebe4.github.io/opinion/2022-05-28/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC107%E6%9C%9F-%E8%89%B0%E9%9A%BE%E7%9A%84%E8%87%AA%E6%95%91-%E4%B8%8A%E6%B5%B7%E5%B0%81%E5%9F%8E%E4%B8%AD%E7%9A%84%E5%B1%85%E6%B0%91%E4%BA%92%E5%8A%A9%E4%B8%8E%E8%87%AA%E7%BB%84%E7%BB%87/">
+          【404档案馆】第107期：艰难的自救：上海封城中的居民互助与自组织
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-05-10</time>
+        <a href="https://nodebe4.github.io/opinion/2022-05-10/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC104%E6%9C%9F-%E5%A6%84%E8%AE%AE-%E5%8C%97%E4%BA%AC%E9%98%B2%E7%96%AB%E4%BB%A5%E5%8F%8A%E8%83%A1%E9%94%A1%E8%BF%9B%E8%BF%99%E4%BA%9B%E5%B9%B4-%E5%8F%BC%E8%BF%87%E7%9A%84%E7%9B%98-%E5%92%8C-%E7%BF%BB%E8%BF%87%E7%9A%84%E8%BD%A6/">
+          【404档案馆】第104期：“妄议”北京防疫以及胡锡进这些年“叼过的盘”和“翻过的车”
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-05-28/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC107%E6%9C%9F-%E8%89%B0%E9%9A%BE%E7%9A%84%E8%87%AA%E6%95%91-%E4%B8%8A%E6%B5%B7%E5%B0%81%E5%9F%8E%E4%B8%AD%E7%9A%84%E5%B1%85%E6%B0%91%E4%BA%92%E5%8A%A9%E4%B8%8E%E8%87%AA%E7%BB%84%E7%BB%87/">
+            前一篇：【404档案馆】第107期：艰难的自救：上海封城中的居民互助与自组织
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-05-28/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC108%E6%9C%9F-%E6%8C%81%E4%B8%8D%E5%90%8C%E5%8C%BB%E8%A7%81%E8%80%85-%E6%96%B0%E5%86%A0%E6%8A%97%E7%96%AB%E4%B8%AD%E9%82%A3%E4%BA%9B%E5%8B%87%E6%95%A2%E8%AF%B4%E4%B8%8D%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F/">
+            後一篇：【404档案馆】第108期：“持不同医见者”— 新冠抗疫中那些勇敢说不的中国医生
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-05-28/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC107%E6%9C%9F-%E8%89%B0%E9%9A%BE%E7%9A%84%E8%87%AA%E6%95%91-%E4%B8%8A%E6%B5%B7%E5%B0%81%E5%9F%8E%E4%B8%AD%E7%9A%84%E5%B1%85%E6%B0%91%E4%BA%92%E5%8A%A9%E4%B8%8E%E8%87%AA%E7%BB%84%E7%BB%87/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-05-28/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC108%E6%9C%9F-%E6%8C%81%E4%B8%8D%E5%90%8C%E5%8C%BB%E8%A7%81%E8%80%85-%E6%96%B0%E5%86%A0%E6%8A%97%E7%96%AB%E4%B8%AD%E9%82%A3%E4%BA%9B%E5%8B%87%E6%95%A2%E8%AF%B4%E4%B8%8D%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-05-28/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC108%E6%9C%9F-%E6%8C%81%E4%B8%8D%E5%90%8C%E5%8C%BB%E8%A7%81%E8%80%85-%E6%96%B0%E5%86%A0%E6%8A%97%E7%96%AB%E4%B8%AD%E9%82%A3%E4%BA%9B%E5%8B%87%E6%95%A2%E8%AF%B4%E4%B8%8D%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-05-28/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC107%E6%9C%9F-%E8%89%B0%E9%9A%BE%E7%9A%84%E8%87%AA%E6%95%91-%E4%B8%8A%E6%B5%B7%E5%B0%81%E5%9F%8E%E4%B8%AD%E7%9A%84%E5%B1%85%E6%B0%91%E4%BA%92%E5%8A%A9%E4%B8%8E%E8%87%AA%E7%BB%84%E7%BB%87/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-05-28/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC107%E6%9C%9F-%E8%89%B0%E9%9A%BE%E7%9A%84%E8%87%AA%E6%95%91-%E4%B8%8A%E6%B5%B7%E5%B0%81%E5%9F%8E%E4%B8%AD%E7%9A%84%E5%B1%85%E6%B0%91%E4%BA%92%E5%8A%A9%E4%B8%8E%E8%87%AA%E7%BB%84%E7%BB%87/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-05-28/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC108%E6%9C%9F-%E6%8C%81%E4%B8%8D%E5%90%8C%E5%8C%BB%E8%A7%81%E8%80%85-%E6%96%B0%E5%86%A0%E6%8A%97%E7%96%AB%E4%B8%AD%E9%82%A3%E4%BA%9B%E5%8B%87%E6%95%A2%E8%AF%B4%E4%B8%8D%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<中国数字时代>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-05-28/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC108%E6%9C%9F-%E6%8C%81%E4%B8%8D%E5%90%8C%E5%8C%BB%E8%A7%81%E8%80%85-%E6%96%B0%E5%86%A0%E6%8A%97%E7%96%AB%E4%B8%AD%E9%82%A3%E4%BA%9B%E5%8B%87%E6%95%A2%E8%AF%B4%E4%B8%8D%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<中国数字时代>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-05-28/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC107%E6%9C%9F-%E8%89%B0%E9%9A%BE%E7%9A%84%E8%87%AA%E6%95%91-%E4%B8%8A%E6%B5%B7%E5%B0%81%E5%9F%8E%E4%B8%AD%E7%9A%84%E5%B1%85%E6%B0%91%E4%BA%92%E5%8A%A9%E4%B8%8E%E8%87%AA%E7%BB%84%E7%BB%87/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

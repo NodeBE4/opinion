@@ -1,0 +1,2506 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>EnclavedMicrostate在2022-08-15~2022-08-21的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="EnclavedMicrostate在2022-08-15~2022-08-21的言论" />
+    <meta property="twitter:title" content="EnclavedMicrostate在2022-08-15~2022-08-21的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FAskHistorians%2Fcomments%2Fwohtte%2Fwhy_isnt_the_taiping_rebellion_more_well_known%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/AskHistorians/comments/wohtte/why_isnt_the_taiping_rebellion_more_well_known/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/AskHistorians/comments/wohtte/why_isnt_the_taiping_rebellion_more_well_known/&text=EnclavedMicrostate在2022-08-15~2022-08-21的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/AskHistorians/comments/wohtte/why_isnt_the_taiping_rebellion_more_well_known/&title=EnclavedMicrostate在2022-08-15~2022-08-21的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/AskHistorians/comments/wohtte/why_isnt_the_taiping_rebellion_more_well_known/&title=EnclavedMicrostate在2022-08-15~2022-08-21的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=EnclavedMicrostate在2022-08-15~2022-08-21的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/AskHistorians/comments/wohtte/why_isnt_the_taiping_rebellion_more_well_known/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/AskHistorians/comments/wohtte/why_isnt_the_taiping_rebellion_more_well_known/&title=EnclavedMicrostate在2022-08-15~2022-08-21的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=EnclavedMicrostate在2022-08-15~2022-08-21的言论&url=https://old.reddit.com/r/AskHistorians/comments/wohtte/why_isnt_the_taiping_rebellion_more_well_known/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>EnclavedMicrostate在2022-08-15~2022-08-21的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-08-21
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: EnclavedMicrostate</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/AskHistorians/comments/wohtte/why_isnt_the_taiping_rebellion_more_well_known/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#710-why-isnt-the-taiping-rebellion-more-well-known-submitted-on-2022-08-15-0553500800" id="markdown-toc-710-why-isnt-the-taiping-rebellion-more-well-known-submitted-on-2022-08-15-0553500800">710: Why isn’t the Taiping Rebellion more well known?, submitted on 2022-08-15 05:53:50+08:00.</a></li>
+  <li><a href="#711-ama-announcement-from-prism-projectweekly-wild-wankery-thread-weekly-discussion-thread-august-15th-2022-submitted-on-2022-08-15-1127540800" id="markdown-toc-711-ama-announcement-from-prism-projectweekly-wild-wankery-thread-weekly-discussion-thread-august-15th-2022-submitted-on-2022-08-15-1127540800">711: AMA Announcement from PRISM Project/Weekly Wild Wankery Thread, Weekly Discussion Thread, August 15th, 2022, submitted on 2022-08-15 11:27:54+08:00.</a></li>
+  <li><a href="#712-what-religion-has-the-most-historical-evidence-to-back-it-up-submitted-on-2022-08-16-1322260800" id="markdown-toc-712-what-religion-has-the-most-historical-evidence-to-back-it-up-submitted-on-2022-08-16-1322260800">712: What religion has the most historical evidence to back it up?, submitted on 2022-08-16 13:22:26+08:00.</a></li>
+  <li><a href="#713-if-youre-itching-for-joseon-era-stuff-reminiscent-of-kingdom-submitted-on-2022-08-17-2029530800" id="markdown-toc-713-if-youre-itching-for-joseon-era-stuff-reminiscent-of-kingdom-submitted-on-2022-08-17-2029530800">713: If you’re itching for Joseon-era stuff reminiscent of Kingdom…, submitted on 2022-08-17 20:29:53+08:00.</a></li>
+  <li><a href="#714-can-you-recommend-some-between-the-cracks-books-submitted-on-2022-08-17-2135100800" id="markdown-toc-714-can-you-recommend-some-between-the-cracks-books-submitted-on-2022-08-17-2135100800">714: Can you recommend some between-the-cracks books?, submitted on 2022-08-17 21:35:10+08:00.</a></li>
+  <li><a href="#715-what-is-the-largest-human-society-that-could-be-archaeologically-hidden-using-current-techniques-submitted-on-2022-08-17-2332450800" id="markdown-toc-715-what-is-the-largest-human-society-that-could-be-archaeologically-hidden-using-current-techniques-submitted-on-2022-08-17-2332450800">715: What is the largest human society that could be archaeologically hidden using current techniques?, submitted on 2022-08-17 23:32:45+08:00.</a></li>
+  <li><a href="#716-what-was-the-great-tartaria-submitted-on-2022-08-18-0523330800" id="markdown-toc-716-what-was-the-great-tartaria-submitted-on-2022-08-18-0523330800">716: What was The Great Tartaria?, submitted on 2022-08-18 05:23:33+08:00.</a></li>
+  <li><a href="#717-was-sun-yat-sen-betrayed-by-the-beiyang-government-submitted-on-2022-08-18-1035370800" id="markdown-toc-717-was-sun-yat-sen-betrayed-by-the-beiyang-government-submitted-on-2022-08-18-1035370800">717: Was Sun Yat-sen betrayed by the Beiyang Government?, submitted on 2022-08-18 10:35:37+08:00.</a></li>
+  <li><a href="#718-what-did-the-ideology-and-practice-of-rulership-in-the-zulu-kingdom-look-like-what-entitled-a-king-or-queen-to-rule-and-what-were-they-expected-to-provide-for-their-subjects-how-much-was-drawn-from-existing-regional-traditions-and-how-much-was-innovated-specifically-by-the-zulu-kingdom-submitted-on-2022-08-19-0342570800" id="markdown-toc-718-what-did-the-ideology-and-practice-of-rulership-in-the-zulu-kingdom-look-like-what-entitled-a-king-or-queen-to-rule-and-what-were-they-expected-to-provide-for-their-subjects-how-much-was-drawn-from-existing-regional-traditions-and-how-much-was-innovated-specifically-by-the-zulu-kingdom-submitted-on-2022-08-19-0342570800">718: What did the ideology and practice of rulership in the Zulu Kingdom look like? What entitled a king (or queen?) to rule and what were they expected to provide for their subjects? How much was drawn from existing regional traditions, and how much was innovated specifically by the Zulu kingdom?, submitted on 2022-08-19 03:42:57+08:00.</a></li>
+  <li><a href="#719-favorite-or-upcoming-warskirmish-games-that-arent-warhammer-legion-or-malifaux-submitted-on-2022-08-19-1138400800" id="markdown-toc-719-favorite-or-upcoming-warskirmish-games-that-arent-warhammer-legion-or-malifaux-submitted-on-2022-08-19-1138400800">719: Favorite or upcoming war/skirmish games that aren’t warhammer, legion, or malifaux?, submitted on 2022-08-19 11:38:40+08:00.</a></li>
+  <li><a href="#720-suggestions-for-learning-more-about-the-chu-han-contention-for-fans-of-ken-liu-submitted-on-2022-08-20-0428130800" id="markdown-toc-720-suggestions-for-learning-more-about-the-chu-han-contention-for-fans-of-ken-liu-submitted-on-2022-08-20-0428130800">720: Suggestions for learning more about the Chu-Han Contention for fans of Ken Liu?, submitted on 2022-08-20 04:28:13+08:00.</a></li>
+  <li><a href="#721-when-you-love-a-girl-so-much-you-started-calling-her-illustrator-mama-your-mother-in-law-submitted-on-2022-08-20-1653430800" id="markdown-toc-721-when-you-love-a-girl-so-much-you-started-calling-her-illustrator-mama-your-mother-in-law-submitted-on-2022-08-20-1653430800">721: When you love a girl so much you started calling her illustrator mama your mother-in-law, submitted on 2022-08-20 16:53:43+08:00.</a></li>
+  <li><a href="#722-the-blending-of-the-greek-and-roman-pantheons-is-a-famous-example-of-religious-syncretism-but-i-realized-i-havent-learned-about-many-other-instances-of-this-presumably-common-occurrence-historians-what-are-some-of-the-most-impactful-examples-of-religious-syncretism-in-your-area-of-expertise-submitted-on-2022-08-20-2252160800" id="markdown-toc-722-the-blending-of-the-greek-and-roman-pantheons-is-a-famous-example-of-religious-syncretism-but-i-realized-i-havent-learned-about-many-other-instances-of-this-presumably-common-occurrence-historians-what-are-some-of-the-most-impactful-examples-of-religious-syncretism-in-your-area-of-expertise-submitted-on-2022-08-20-2252160800">722: The blending of the Greek and Roman pantheons is a famous example of religious syncretism, but I realized I haven’t learned about many other instances of this (presumably!) common occurrence. Historians, what are some of the most impactful examples of religious syncretism in your area of expertise?, submitted on 2022-08-20 22:52:16+08:00.</a></li>
+  <li><a href="#723-theres-a-rational-reason-for-the-difference-between-tng-and-ds9-ferengi-submitted-on-2022-08-21-0404530800" id="markdown-toc-723-theres-a-rational-reason-for-the-difference-between-tng-and-ds9-ferengi-submitted-on-2022-08-21-0404530800">723: There’s a rational reason for the difference between TNG and DS9 Ferengi., submitted on 2022-08-21 04:04:53+08:00.</a></li>
+  <li><a href="#724-did-adolf-hitler-ever-travel-outside-of-europe-submitted-on-2022-08-21-1134070800" id="markdown-toc-724-did-adolf-hitler-ever-travel-outside-of-europe-submitted-on-2022-08-21-1134070800">724: Did Adolf Hitler ever travel outside of Europe?, submitted on 2022-08-21 11:34:07+08:00.</a></li>
+  <li><a href="#725-what-spice-has-the-most-amount-of-people-killed-over-it-submitted-on-2022-08-21-1204030800" id="markdown-toc-725-what-spice-has-the-most-amount-of-people-killed-over-it-submitted-on-2022-08-21-1204030800">725: What spice has the most amount of people killed over it?, submitted on 2022-08-21 12:04:03+08:00.</a></li>
+  <li><a href="#726-hobby-scuffles-week-of-august-22-2022-rules-update--poll-submitted-on-2022-08-21-2300140800" id="markdown-toc-726-hobby-scuffles-week-of-august-22-2022-rules-update--poll-submitted-on-2022-08-21-2300140800">726: [Hobby Scuffles] Week of August 22, 2022 (Rules update + poll), submitted on 2022-08-21 23:00:14+08:00.</a></li>
+</ul>
+
+<h3 id="710-why-isnt-the-taiping-rebellion-more-well-known-submitted-on-2022-08-15-0553500800">710: <a href="https://old.reddit.com/r/AskHistorians/comments/wohtte/why_isnt_the_taiping_rebellion_more_well_known/">Why isn’t the Taiping Rebellion more well known?</a>, submitted on 2022-08-15 05:53:50+08:00.</h3>
+
+<p>—– <strong>710.1</strong> —–2022-08-15 13:59:08+08:00:</p>
+
+<p>It is absolutely worth stressing that the importance of an event is never simply proportionate to the raw number of human lives lost in it. A wonderfully succinct articulation of this point can be found in <a href="https://eidolon.pub/when-numbers-dont-count-56a2b3c3d07">this piece</a> by Monica Green on the Plague of Justinian:</p>
+
+<blockquote>
+  <p>Yet it should be stressed that the question “how many died?” is not the only, nor the most important, question to ask about the plague. From the perspective of the history of medicine, there is no threshold, no magic number of deaths that will automatically determine “significance.” The 1918–19 Flu Pandemic killed “only” an estimated 2% of the world’s population; the HIV pandemic (whose spiraling numbers only started to decline in the early 2000s) killed even less. Yet because many of the dead from both pandemics were young, previously healthy adults, the economic and cultural impact was profound. Plague need not have had equal effects on all parts of western Eurasia and North Africa to have been profoundly influential as an infectious disease in late antiquity.</p>
+</blockquote>
+
+<p>The piece is well worth reading as a whole, but the above quotation encapsulates my point: causing a lot of deaths does not make an event <em>more</em> important, but not causing a lot of deaths does not make it <em>less</em> important, either. The effects of the Taiping War need to be assessed by metrics beyond simply the scale of demographic loss.</p>
+
+<p>I’m going to assume your perspective is American or otherwise Anglophone here. In which case the first and simplest reason the Taiping War isn’t better known is that it happened in China, and not in an Anglophone country. If we were to flip this around: the American Civil War does not feature heavily in Chinese popular consciousness, and why should it? Nor does either conflict, I would think, have particular resonance in European countries. You probably have not heard of (or at least, not much of) the French Wars of Religion, or the Imjin War, or the Mughal-Maratha conflicts, because you almost certainly do not live somewhere where one or more of these conflicts form part of an accepted narrative of national history. Now, this does get into an important point of nuance: history as both a field of study and a cultural phenomenon is, in its current form, still shaped heavily by nationalism, and particularly in the popular sphere there continues to be a strong emphasis on specifically <em>national</em> history, in which history exists to reinforce the idea of the nation. A different country’s civil war is unlikely to feature particularly strongly in such a narrative, with the odd exception such as, funnily enough, the US, where some level of cultural memory of the English Civil War persisted into the nineteenth century – though that ought to be somewhat counterbalanced by considering the US as a British successor state. In this case the problem is not simply that the Taiping War took place in China, but also that the way history is taught and discussed de-emphasises histories outside the national narrative of any given context.</p>
+
+<p>That is not to say that the Taiping War was an event of purely regional significance. Interest in the diplomatic history of the Taiping goes back to at least the 1960s, and probably the best narrative history of the Taiping out there, Stephen Platt’s <em>Autumn in the Heavenly Kingdom</em>, firmly situates the Taiping conflict in a global context and emphasises its broader impacts beyond the Yangtze valley. But as noted, lay discourse tends not to treat history in transnational terms, particularly in the context of relatively modern history, which the Taiping War absolutely qualifies as.</p>
+
+<p>Now, we can frame the Taiping conflict in international or imperial terms: this was a war that had a substantial effect on the British and French empires, to a lesser but still notable extent the Russian empire, and even influenced the course of the American Civil War. But because the Taiping War’s influence was indirect, it still rarely features. And that is because to most people these are the histories of Britain, France, Russia, and the USA respectively. That is to say that insofar as there is a conception of imperial or international history in wider discourse, it is as an extension of national history. There was, it must be granted, some limited involvement of various foreign volunteers and observers, and for some that has meant a hazy awareness, typically through the figures of Frederick Townsend Ward (American) and Charles George Gordon (British); by extension the Taiping have made the odd appearance in some popular media, although from what I know the only particularly enduring example is perhaps George MacDonald Fraser’s <em>Flashman and the Dragon</em>. But you will note that that is because of the direct involvement of those countries’ nationals, such that the Taiping feature as an extension of American and/or British national histories.</p>
+
+<p>It also doesn’t help that the relatively low-level involvement of imperial powers in the Taiping War is easily overshadowed by the far more direct imperial hand in the Opium War and Arrow War, which are much easier to present as being significant to a Western – particularly British, French, or to a lesser extent American – audience. Direct imposition of terms upon the Qing government (which, in the end, won the Taiping War) at the point of a gun is something that is very concrete and easy to point to as a thing that people you [are expected to] identify with as having some common identity did. Policies of faux neutrality, low-level anti-smuggling operations, and the odd small-scale military intervention, which ultimately contributed to the Qing side winning a civil war, are a lot harder to integrate into even the imperial side of a national history.</p>
+
+<p>It ought also to be noted that the Taiping have ceased to feature particularly strongly in the Chinese national narrative either, which is fundamentally related to the PRC’s pivot away from socialism towards thinly-veiled eugenicist ultranationalism as its guiding ideology since the late 1980s. Whereas the Mao era saw a huge boom in Taiping scholarship and public interest, since the 1980s work has instead been done to assert the ‘Chineseness’ of the Qing and to rehabilitate former ‘race-traitors’ like Zeng Guofan who fought against the Taiping on behalf of the old conservative, traditionalist order. Whereas once, episodes of class struggle like the Taiping War and the Chinese Civil War were seen as the key moments of Chinese history, now China’s history is one of resistance to foreign invaders. The Chinese Civil War has been de-emphasised in favour of the Second Sino-Japanese War, and so too has the Taiping War been brushed aside in favour of the Opium Wars.</p>
+
+<p>The answer, then, is depressingly straightforward: most history is national history, and the Taiping do not fit into anyone’s national history.</p>
+
+<p>—– <strong>710.2</strong> —–2022-08-16 12:04:26+08:00:</p>
+
+<p>This verges heavily on modern politics, but a good couple of reads from a historiographical and cultural memory standpoint are the later chapters of Julia Lovell’s <em>The Opium War</em> and also Rana Mitter’s recent work <em>China’s Good War</em>. While I will limit what I discuss here to the period up to about 2000, even within that timeframe it is clear from changes in historical discourse that the PRC’s official line on history matched the change of its political direction. The rise of state capitalism under Deng Xiaoping meant the abandonment of all but the most nominal claims to practicing socialism in China (hence the joke that ‘X with Chinese characteristics’ means ‘X in name only’ – ‘Socialism with Chinese characteristics’ is how Deng referred to his state capitalist economics), and in its place nationalism – and to a great extent Han ethnic nationalism – took its place as the cohering ideological substance of the PRC. This played out in the historical sphere as described above: events like the Taiping War and Chinese Civil War that were understood as class conflicts within China were increasingly de-emphasised in favour of the Opium Wars and Second Sino-Japanese War, which saw China fighting against outside powers.</p>
+
+<h3 id="711-ama-announcement-from-prism-projectweekly-wild-wankery-thread-weekly-discussion-thread-august-15th-2022-submitted-on-2022-08-15-1127540800">711: <a href="https://old.reddit.com/r/VirtualYoutubers/comments/wop0f6/ama_announcement_from_prism_projectweekly_wild/">AMA Announcement from PRISM Project/Weekly Wild Wankery Thread, Weekly Discussion Thread, August 15th, 2022</a>, submitted on 2022-08-15 11:27:54+08:00.</h3>
+
+<p>—– <strong>711.1</strong> —–2022-08-18 18:01:49+08:00:</p>
+
+<p>There’s been a bit of a move to regard ‘Holostars proper’ as being the nine remaining members of Gens 1-3, I believe.</p>
+
+<p>—– <strong>711.2</strong> —–2022-08-18 18:01:56+08:00:</p>
+
+<p>They might be reaching the sidebar character limit.</p>
+
+<p>—– <strong>711.3</strong> —–2022-08-19 02:59:35+08:00:</p>
+
+<p>Surely <a href="https://www.youtube.com/watch?v=FaN-J3c9lnI">this clip</a>, which involves family <em>and</em> relationships, warrants inclusion!</p>
+
+<p>—– <strong>711.4</strong> —–2022-08-19 11:11:38+08:00:</p>
+
+<p>My suspicion is that Mel was simply a test run for Live2D and would latterly slot into Gen 0 in the sense of Gen 0 being mostly one-off members originally part of experimental projects.</p>
+
+<p>—– <strong>711.5</strong> —–2022-08-19 18:37:54+08:00:</p>
+
+<blockquote>
+  <p>History is filled with stuff nobody gives 2 shits about</p>
+</blockquote>
+
+<p>Speaking as a historian, there’s a difference between not everyone caring about a given topic, and nobody caring about it. Very few people give shits about the Taiping War, but that’s still people giving shits about it.</p>
+
+<p>—– <strong>711.6</strong> —–2022-08-19 18:39:09+08:00:</p>
+
+<blockquote>
+  <blockquote>
+    <p>!due to her thinking it is a derogatory slang!&lt;</p>
+  </blockquote>
+</blockquote>
+
+<p>I mean, it is though. I know that’s apparently a hot take in this sub, but it’s worth stressing regardless.</p>
+
+<p>—– <strong>711.7</strong> —–2022-08-19 18:43:16+08:00:</p>
+
+<blockquote>
+  <p>they were already established vtubers</p>
+</blockquote>
+
+<p>Hime Hajime definitely wasn’t, and I’m 95% sure Froot wasn’t either.</p>
+
+<p>—– <strong>711.8</strong> —–2022-08-19 20:16:51+08:00:</p>
+
+<p>Froot didn’t. Well, not entirely anyway – she did her own model but rigging was hired.</p>
+
+<p>—– <strong>711.9</strong> —–2022-08-19 20:17:48+08:00:</p>
+
+<blockquote>
+  <p>literally slander.</p>
+</blockquote>
+
+<p>It is not, I resent that.</p>
+
+<p>Slander is spoken. In print, it’s libel.</p>
+
+<p>—– <strong>711.10</strong> —–2022-08-20 11:22:00+08:00:</p>
+
+<p>No, Suisei would still be the exception as far as Holo is concerned. The Roboco model predates Hololive but Cover hired the talent; Pekora was scouted but still debuted as a Hololive member; Coco joined Hololive conventionally.</p>
+
+<p>—– <strong>711.11</strong> —–2022-08-20 17:01:59+08:00:</p>
+
+<blockquote>
+  <p>(something actually banned in another company with supposedly more creative freedom)</p>
+</blockquote>
+
+<p>Wait, which one?</p>
+
+<p>—– <strong>711.12</strong> —–2022-08-20 18:09:54+08:00:</p>
+
+<p>Oh I see. I hadn’t known.</p>
+
+<p>—– <strong>711.13</strong> —–2022-08-21 20:59:34+08:00:</p>
+
+<blockquote>
+  <p>[…]this is the first PK Gen[…]</p>
+</blockquote>
+
+<p><em>snrks in Cantonese</em></p>
+
+<p>—– <strong>711.14</strong> —–2022-08-21 21:31:57+08:00:</p>
+
+<p>仆街 <em>puk gaai</em> literally means ‘fall onto the street’ or more idiomatically ‘drop dead’, but elevated to the level of mild profanity. Sometimes used as an expression of annoyance along the lines of just saying ‘fuck’ or ‘shit’, and sometimes also usable as a noun to refer to a person as a prick. Often shortened to PK.</p>
+
+<h3 id="712-what-religion-has-the-most-historical-evidence-to-back-it-up-submitted-on-2022-08-16-1322260800">712: <a href="https://old.reddit.com/r/AskHistorians/comments/wplqjo/what_religion_has_the_most_historical_evidence_to/">What religion has the most historical evidence to back it up?</a>, submitted on 2022-08-16 13:22:26+08:00.</h3>
+
+<p>—– <strong>712.1</strong> —–2022-08-16 15:10:29+08:00:</p>
+
+<p>This submission has been removed because it violates the <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions">rule on poll-type questions</a>. These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the “most”, the “worst”, “unknown”, or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult <a href="https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/">this Roundtable discussion</a>.</p>
+
+<p>For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.</p>
+
+<h3 id="713-if-youre-itching-for-joseon-era-stuff-reminiscent-of-kingdom-submitted-on-2022-08-17-2029530800">713: <a href="https://old.reddit.com/r/NetflixKingdom/comments/wqnqyf/if_youre_itching_for_joseonera_stuff_reminiscent/">If you’re itching for Joseon-era stuff reminiscent of Kingdom…</a>, submitted on 2022-08-17 20:29:53+08:00.</h3>
+
+<p>—– <strong>713.1</strong> —–2022-08-17 22:15:18+08:00:</p>
+
+<p>This is the one where the Manchus speak Manchu, right?</p>
+
+<p>—– <strong>713.2</strong> —–2022-08-17 23:19:14+08:00:</p>
+
+<p>They should call it Dor-gone.</p>
+
+<h3 id="714-can-you-recommend-some-between-the-cracks-books-submitted-on-2022-08-17-2135100800">714: <a href="https://old.reddit.com/r/AskHistorians/comments/wqp5o0/can_you_recommend_some_betweenthecracks_books/">Can you recommend some between-the-cracks books?</a>, submitted on 2022-08-17 21:35:10+08:00.</h3>
+
+<p>—– <strong>714.1</strong> —–2022-08-17 23:06:31+08:00:</p>
+
+<p>I think it’s worth making two points before I get into it. The first is this: Yuval Noah Harari’s <em>Sapiens</em> is dubious scholarship at best. <a href="https://www.reddit.com/r/AskHistorians/wiki/historians_views#wiki_historians.27_views_of_yuval_noah_harari.2C_sapiens_and_homo_deus">This section of the FAQ</a> includes answers complicating or even outright disputing claims Harari makes, generally critiquing the quality of the book as a whole (see especially /u/CommodoreCoCo), or (in the case of the answer by /u/MySkinsRedditAcct) even pointing out issues with ‘Big History’ as a field (or genre, if you prefer). It is worth suggesting that <em>Sapiens</em> is fundamentally a work of macro-scale anthropology and evolutionary psychology that claims the status of a work of history via its title and its author’s background and qualifications, but not really written by someone whose formal training concentrates on the subject or approach. To be precise, Yuval Noah Harari’s pre-<em>Sapiens</em> career was as a relatively decent historian of medieval military history, particularly of the Crusades, and while that is a very legitimate field it’s also not the sort of thing that intuitively leads one towards expertise in <em>checks notes</em> the entirety of human history. The second is to say that more broadly, the ‘Big History’ genre is deeply problematic, and rarely (read: never) produces anything more than a rough synthesis of a huge number of subfields, rolled into a pile of meh. Anyone who claims that they are able to produce a single, coherent, and academically solid sweep of human history is either supremely overconfident or wilfully lying.</p>
+
+<p>The reality is that history is a <em>vast</em> field with a <em>vast</em> quantity of material out there, and while that is also true of the natural sciences, I would argue that history, like many other humanities fields, differs in that theoretically any of it is accessible, with relatively little specific technical background needed to understand any given publication, as usually each historian needs to explain their own methodology in each individual work. At the same time, it is harder to tell what is credible and what isn’t if you haven’t already immersed yourself in a particular area for some time already, <em>because</em> the comprehensibility of any given work to a layperson is likely to be so high. This is where bibliographies come in handy as a way to sift through all of that material. One option is to scan through the bibliography section of a general introductory work on a particular area; another is to use a curated bibliography like the (paywalled) Oxford Bibliographies or the (free) <a href="http://www.reddit.com/r/AskHistorians/wiki/books">AskHistorians Books and Resources List</a>, to name just two examples. Because the reality is that as a general rule, the more specialised the work, the more likely it is to not get things wrong, and the more focussed your interests on the whole, the more you are likely to get out of it, at least up to a point.</p>
+
+<p>To stick to a natural sciences analogy, imagine asking a physicist ‘what books would you recommend to me if I wanted to understand all of the important parts of physics?’ What answer you would get would depend on what <em>kind</em> of physicist you ask. Is it a particle physicist or an astrophysicist? An experimental or a theoretical physicist? Or someone who works in a related subfield like materials science? Every one of them will have a different answer because to each of them, what they consider ‘important’ is entirely personal. And all of them are right. And so the same goes for history. What you ought to be looking for are things <em>you think you would find interesting in and of themselves</em>.</p>
+
+<p>But you may contend that you want to understand <em>everything</em>. Well, you will need to lower your expectations. History isn’t simply the preservation or replication of the past in its entirety. The past does not exist. It did once, but insofar as it survives, it does so via a finite quantity of sources that capture only a minuscule fraction of the sum total of human experience in any given time and place. History as a field is about <em>interpreting</em> that material in a way that makes sense of it. And yet, what that means is that <em>everything</em> that has been written about the past that comments on it in some way is, in some way, history, everything from the latest scholarship to Gibbon to some Roman scribbling graffiti in Pompeii. Finite as they are, the remnants of the past are mind-bogglingly vast, and it is <em>not physiologically possible</em> to read all of this in a human lifetime. You will need, ultimately, to pick and choose.</p>
+
+<p>Maybe you choose to do so eclectically – that is, I would stress, <em>entirely valid</em> and something that this sub is actually a good resource for going about doing so. But maybe you want to specialise in a given region, or a given period, or a given topic, or some combination of the three. Interested in Roman military history? Go ahead! Pre-Columbian Mesoamerican religion? Knock yourself out! 19th century imperialism in Central Asia? Historians have got you covered! The long and the short of it is that you will never even approximate an understanding of any more than a fraction of human history, <em>and that’s okay</em>. Focus on the things that tick.</p>
+
+<h3 id="715-what-is-the-largest-human-society-that-could-be-archaeologically-hidden-using-current-techniques-submitted-on-2022-08-17-2332450800">715: <a href="https://old.reddit.com/r/AskHistorians/comments/wqrzdc/what_is_the_largest_human_society_that_could_be/">What is the largest human society that could be archaeologically hidden using current techniques?</a>, submitted on 2022-08-17 23:32:45+08:00.</h3>
+
+<p>—– <strong>715.1</strong> —–2022-08-18 01:33:56+08:00:</p>
+
+<p>Apologies, but we have had to remove your submission. We ask that questions in this subreddit be limited to those asking about history, or for historical answers. This is not a judgement of your question, but to receive the answer you are looking for, it would be better suited to /r/AskAnthropology.</p>
+
+<p>If you are interested in an historical answer, however, you are welcome to rework your question to fit the theme of this subreddit and resubmit it.</p>
+
+<h3 id="716-what-was-the-great-tartaria-submitted-on-2022-08-18-0523330800">716: <a href="https://old.reddit.com/r/AskHistorians/comments/wr0l86/what_was_the_great_tartaria/">What was The Great Tartaria?</a>, submitted on 2022-08-18 05:23:33+08:00.</h3>
+
+<p>—– <strong>716.1</strong> —–2022-08-18 10:23:04+08:00:</p>
+
+<p>At least in the Anglophone world. I believe the origins of the claim go back to Anatoly Fomenko, although really the only similarity between the Fomenko version and the internet version is the name.</p>
+
+<h3 id="717-was-sun-yat-sen-betrayed-by-the-beiyang-government-submitted-on-2022-08-18-1035370800">717: <a href="https://old.reddit.com/r/AskHistorians/comments/wr7mx0/was_sun_yatsen_betrayed_by_the_beiyang_government/">Was Sun Yat-sen betrayed by the Beiyang Government?</a>, submitted on 2022-08-18 10:35:37+08:00.</h3>
+
+<p>—– <strong>717.1</strong> —–2022-08-18 16:04:28+08:00:</p>
+
+<p>Not really. But it is worth interrogating the original claim itself a bit from a historiographical standpoint before getting into the weeds of it. The fact of the matter is that the claim that the 1911 Revolution was mainly the brainchild of Sun Yat-Sen and the Tongmenghui but hijacked by military strongmen like Yuan Shikai is one that is <em>very frequently repeated</em>. Even modern China specialists who really only cover the Nationalist and later periods are prone to making this assertion: see for instance Rana Mitter in <em>Forgotten Ally</em> (which, that fault aside, is pretty much <em>the</em> book to read for a general overview of China in WW2, alongside Hans van de Ven’s <em>China at War</em>). But this is in essence the perspective of the Tongmenghui’s successor entities, notably the Kuomintang (founded by Sun directly) and the Communist Party (which has often made the claim to being the true torchbearer for Sun’s political programme). It has rather obviously suited these parties to assert that the modern Chinese state owes its existence to their claimed ideological founder, irrespective of whether that is the whole truth. These narratives are in a sense legitimate, in that they were propounded by those later parties and thus constitute a critical part of perceived historical truth, but they don’t necessarily really reflect our best understanding of what things were like in the moment.</p>
+
+<p>The 1911 Revolution was never the premeditated national insurrection that the Tongmenghui would have wanted. Indeed, it started without their input. The revolutionary faction had been undergoing a protracted schism since the Penang Conference in 1910, when its Southeast Asian branches and membership agreed to launch a rebellion in Guangzhou the following year, without inviting input from the branch in Tokyo. The resultant disaster that was the April 1911 Guangzhou Uprising massively shook confidence in the competence of Tongmenghui leadership and drained its resources considerably, eventually leading to Sun Yat-Sen going on a fundraising tour of the United States later in the year. When the mutiny at Wuchang began on 10 October, Sun was in Denver, Colorado.</p>
+
+<p>Instead, the revolution is better understood as having been a series of regional uprisings with extremely diverse ideological backgrounds and local support bases, but which broadly converged on the agreement that Qing rule in China had run its course, and some form of republican government would replace it. Arguably the first of these uprisings were the Railway Protection Movement protests in Chengdu in August, although conventionally the revolution proper is said to have begun with the Wuchang Uprising on 10 October, when most of the army stationed in the city (numbering about a division and a half) formally mutinied after military police units uncovered a bomb plot by local revolutionary cells acting in solidarity with the Sichuan protesters. The Wuchang mutineers, led by Li Yuanhong, a general with known reformist leanings who defected (under slight duress) to the rebel cause, would be the most militarily significant of the revolutionary groups, and it was the Wuchang-based revolutionary government in Hubei, under Li’s <em>de facto</em> leadership, that was regarded as being the leading element in the revolutionary camp throughout most of October and November 1911.</p>
+
+<p>That is not to say that the Tongmenghui and other emigrés were utterly irrelevant. While they had few troops and few supporters, what they did have was some vague sense of a coherent plan, and relatively decent political capital with moneyed elites on the Chinese coast, especially in Jiangsu Province. The rebels in Nanjing and Shanghai were willing to submit to overall Tongmenghui leadership, creating a separate bloc from Li’s mutineers upriver. The strategic importance of Nanjing and Shanghai and the diplomatic prestige held by the emigré revolutionaries was such that Li agreed to at least nominally turn over command to Huang Xing (the Tongmenghui commander during the Guangzhou debacle back in April), but in practical terms Li remained in control of affairs in Hubei. The case can be made that by December 1911, the Tongmenghui had succeeded in seizing at least nominal control of several revolutionary areas, but they had frankly done very little of the legwork as far as actually fomenting and carrying out the uprisings.</p>
+
+<p>Yuan Shikai entered the picture when he was brought out of retirement to lead the Beiyang Army to gain control of the triplet cities of Hankou, Hanyang, and Wuchang, and thereby (if he succeeded) effectively decapitating the revolutionary coalition (loose as it was) and securing a bridgehead over the Yangtze. Yuan, like Li, was known for having strong reformist sympathies, having at least initially backed the radical constitutionalist faction in 1898 and fought against the Boxers in 1900, although rumours swirled that he had also been part of the coup that quashed the reform movement back in September 1898. Nevertheless, although opposed in their immediate political allegiances, Yuan Shikai and Li Yuanhong were quite closely ideologically aligned, far more so than either was to Sun Yat-Sen and the Tongmenghui. Li had attempted to entice Yuan to defect and support the republican cause since the latter took command, but there was, on paper, little reason for him to do so. The revolutionaries were hopelessly outnumbered by the six divisions of the Beiyang Army, and would lose Hankou on 1 November and Hanyang on the 27th. What saved Li Yuanhong’s regime was the fact that Admiral Sa Zhenbing, who commanded the Yangtze gunboat fleet, was an old friend of Li’s and chose to withdraw his forces in early November, removing Yuan’s hitherto uncontested control of the river and making a crossing to seize Wuchang difficult if not impossible. After the fall of Hanyang, Yuan and the revolutionary leaders agreed to a ceasefire and peace talks on 1 December.</p>
+
+<p>Nevertheless, these talks took a while to occur, and may have been the reason behind Sun Yat-Sen holding a presidential election on 29 December. In declaring overt pretensions to national leadership by the Tongmenghui, Sun forced the hands of both of the other parties involved. Yuan Shikai could no longer walk away with a deal in which the Qing government continued to exist, thanks to the threat of the broadly republican south uniting behind the Tongmenghui, while Li Yuanhong, although elected Vice-President, faced the possibility of being sidelined or even ousted if a more ideologically pure Tongmenghui leadership took hold. Furthermore, Sun began drafting plans for a northward military offensive in January. It’s not clear quite how far Sun seriously believed that he would hold the presidency, or that he would actually execute the plan, rather than simply using these as bargaining chips to force Yuan to accept a republican settlement rather than a compromise – indeed, Sun declared that his intention was to resign the presidency to Yuan should he accept it. Yuan was, for many, a viable compromise candidate, being sufficiently reformist for most in the anti-Qing factions while having enough history of loyal service to hopefully win over imperial loyalists. Still, Yuan vacillated for a time, and armed clashes would resume in January and February 1912. Aware of a deteriorating military and political situation amid unrest having spread now to northern China, Yuan ultimately agreed to the republicans’ proposals and petitioned the Qing to abdicate on 12 February.</p>
+
+<p>In broad terms, the key political decision-makers in 1911-12 were not in fact ideologically-committed republicans, but instead pro-reform members of the Qing military, whose disagreement lay largely in whether continued Qing rule was compatible with their desired programmes of reform. We could, if we wanted to, argue that in fact the 1911 Revolution was a somewhat drawn-out coup by reformists in the military, which the revolutionary ideologues <em>tried</em> to hijack, which is a neat turnaround but perhaps going a bit <em>too</em> far the other way. But it would be relatively uncontroversial to say that the Tongmenghui was at best one of many anti-Qing factions involved in the fall of the empire, and one that punched politically well above its nominal military weight. In the end, the revolution began and ended within the Qing army.</p>
+
+<p>—– <strong>717.2</strong> —–2022-08-18 18:42:42+08:00:</p>
+
+<blockquote>
+  <p>So in essence, Yuan Shikai couldn’t have been a traitor to Sun because he bore no actual allegiance to the various Republican factions, and Sun’s actions were mostly a desperate gambit to win him over (and failed to do so)?</p>
+</blockquote>
+
+<p>You’ve got it in one. Sun Yat-Sen had few political allies and only a very slim chance of actually gaining power in 1911.</p>
+
+<p>That said, I feel like I might need to expand on the above answer a little because what I didn’t get into was the National Assembly election of 1912 and subsequent dissolution of the Kuomintang. It <em>is</em> true that Yuan Shikai did not take kindly to the Kuomintang achieving near-majorities in the Senate and House, and that he basically tried to cajole the various non-KMT reformist parties (united as the Progressive Party under Liang Qichao) into forming a minority government. However, there is no concrete evidence to suggest that Yuan orchestrated the assassination of the KMT’s party president Song Jiaoren, which in turn led to a KMT-led revolt against Yuan and the banning of the KMT in retaliation. Even if he <em>had</em>, you can argue that while this was despotic behaviour it was not treachery, as Yuan had been essentially pressed into becoming President by circumstance, and Sun Yat-Sen having basically gifted him a poisoned chalice.</p>
+
+<blockquote>
+  <p>Also, if I could ask a second question, was Yuan always planning to declare himself Emperor, or was that itself more of an opportunistic act? Thank you!</p>
+</blockquote>
+
+<p>It’s very hard to tell. I discuss it a bit in <a href="https://www.reddit.com/r/AskHistorians/comments/c3rjok/how_much_support_was_there_for_reestablishing_the/">this answer</a> from, gosh, three years ago(!), but to compress it down a bit here, we don’t really know for sure when the idea of becoming emperor entered his head. We can, however, surmise some degree of reasoning for why he thought he could pull it off. For one, his main support base within the rump National Assembly were former constitutional monarchists; for another, he was probably subject to deliberate misinformation by his political allies to encourage him to make a bid for greater authority. In a broader sense, Yuan had hoped to preserve the territorial integrity of the Qing Empire, and to that end had at least nominally promised ethnic seats in the Assembly for Tibetans and Mongols should they wish to take them (they did not); while that doesn’t necessarily mean he was a monarchist in the sort of ideological-constitutional sense we might imagine, it is worth accounting for as it may have informed how he viewed the institution of the emperorship.</p>
+
+<p>—– <strong>717.3</strong> —–2022-08-30 10:14:13+08:00:</p>
+
+<p>Nope! A lot of lip service was paid to the revolutionaries by the Beiyang government, but in practical terms it was actually the core elements of the Beiyang government itself that did all the real legwork.</p>
+
+<h3 id="718-what-did-the-ideology-and-practice-of-rulership-in-the-zulu-kingdom-look-like-what-entitled-a-king-or-queen-to-rule-and-what-were-they-expected-to-provide-for-their-subjects-how-much-was-drawn-from-existing-regional-traditions-and-how-much-was-innovated-specifically-by-the-zulu-kingdom-submitted-on-2022-08-19-0342570800">718: <a href="https://old.reddit.com/r/AskHistorians/comments/wrsrfq/what_did_the_ideology_and_practice_of_rulership/">What did the ideology and practice of rulership in the Zulu Kingdom look like? What entitled a king (or queen?) to rule and what were they expected to provide for their subjects? How much was drawn from existing regional traditions, and how much was innovated specifically by the Zulu kingdom?</a>, submitted on 2022-08-19 03:42:57+08:00.</h3>
+
+<p>—– <strong>718.1</strong> —–2022-08-19 12:53:45+08:00:</p>
+
+<p>Thank you!</p>
+
+<h3 id="719-favorite-or-upcoming-warskirmish-games-that-arent-warhammer-legion-or-malifaux-submitted-on-2022-08-19-1138400800">719: <a href="https://old.reddit.com/r/wargaming/comments/ws3ia5/favorite_or_upcoming_warskirmish_games_that_arent/">Favorite or upcoming war/skirmish games that aren’t warhammer, legion, or malifaux?</a>, submitted on 2022-08-19 11:38:40+08:00.</h3>
+
+<p>—– <strong>719.1</strong> —–2022-08-19 22:05:18+08:00:</p>
+
+<p>You might have replied to the wrong person here, but eh, I thought it worth replying to anyway.</p>
+
+<p>With historical wargaming especially, it’s generally not the case that rules are ‘vertically integrated’ systems with manufacturers producing rules specific to a given figure range and vice versa, and especially with skirmish games there’s rarely an expectation that you will be using a basing system that is mutually exclusive with any others. So you should be looking not for who ‘sells Lion Rampant’ (you can get it as a PDF on the Osprey site for about £10), but rather where you can get medieval minis from to use the rules with. Perry Miniatures in the UK do a decent range of minis in metal for the Crusades, Hundred Years War, and Wars of the Roses for instance, while Fireforge do a huge range of plastic and resins for everything from the the fall of the Western Roman Empire to also the Wars of the Roses.</p>
+
+<p>Basically the same applies to any of the Osprey sets. Osprey is just a book publisher and not a minis manufacturer, so all the rules they publish are essentially miniatures-agnostic. If you want to play <em>Ronin</em> then any samurai range will do. <em>Castles in the Sky</em> can be played with Leviathans or with Brigade Models’ <em>Imperial Skies</em> range. You’ll likely find someone in the area who has Napoleonics and can play <em>Chosen Men</em> or <em>Absolute Emperor</em>. The world’s your oyster.</p>
+
+<h3 id="720-suggestions-for-learning-more-about-the-chu-han-contention-for-fans-of-ken-liu-submitted-on-2022-08-20-0428130800">720: <a href="https://old.reddit.com/r/AskHistorians/comments/wso1k5/suggestions_for_learning_more_about_the_chuhan/">Suggestions for learning more about the Chu-Han Contention for fans of Ken Liu?</a>, submitted on 2022-08-20 04:28:13+08:00.</h3>
+
+<p>—– <strong>720.1</strong> —–2022-08-20 16:07:00+08:00:</p>
+
+<blockquote>
+  <p>not available as an e-book</p>
+</blockquote>
+
+<p>That’s not entirely true as it is technically <a href="https://www.cambridge.org/core/books/cambridge-history-of-china/00EC13D6E578FBC73F04750D644FF3EA">available through Cambridge Core</a>, but price will likely still be an issue unless you have library access to it.</p>
+
+<p>—– <strong>720.2</strong> —–2022-08-21 02:25:48+08:00:</p>
+
+<p>I think you’re right. I exploited my institutional access to basically download the entire series a while back so I haven’t had to access it entirely as a private individual before.</p>
+
+<h3 id="721-when-you-love-a-girl-so-much-you-started-calling-her-illustrator-mama-your-mother-in-law-submitted-on-2022-08-20-1653430800">721: <a href="https://old.reddit.com/r/Hololive/comments/wt2fe1/when_you_love_a_girl_so_much_you_started_calling/">When you love a girl so much you started calling her illustrator mama your mother-in-law</a>, submitted on 2022-08-20 16:53:43+08:00.</h3>
+
+<p>—– <strong>721.1</strong> —–2022-08-20 20:17:33+08:00:</p>
+
+<p>And so begins the harem arc…</p>
+
+<p>—– <strong>721.2</strong> —–2022-08-21 10:37:05+08:00:</p>
+
+<p>I meant Noel’s harem.</p>
+
+<p>—– <strong>721.3</strong> —–2022-08-26 11:21:54+08:00:</p>
+
+<p>Yes. To paraphrase, <a href="https://youtu.be/4TaTV1EQ2Zs?t=482">‘Subaru is my oshi, Flare is <em>kiss noises</em>.’</a></p>
+
+<h3 id="722-the-blending-of-the-greek-and-roman-pantheons-is-a-famous-example-of-religious-syncretism-but-i-realized-i-havent-learned-about-many-other-instances-of-this-presumably-common-occurrence-historians-what-are-some-of-the-most-impactful-examples-of-religious-syncretism-in-your-area-of-expertise-submitted-on-2022-08-20-2252160800">722: <a href="https://old.reddit.com/r/AskHistorians/comments/wt8z0a/the_blending_of_the_greek_and_roman_pantheons_is/">The blending of the Greek and Roman pantheons is a famous example of religious syncretism, but I realized I haven’t learned about many other instances of this (presumably!) common occurrence. Historians, what are some of the most impactful examples of religious syncretism in your area of expertise?</a>, submitted on 2022-08-20 22:52:16+08:00.</h3>
+
+<p>—– <strong>722.1</strong> —–2022-08-21 15:03:58+08:00:</p>
+
+<p>I briefly flirted with the idea of writing about Qing attempts at syncretising war deities, something that isn’t my main area, when it suddenly and embarrassingly struck me that my primary specialism revolves entirely around a syncretic religion! Taiping Christianity is something I’ve written on a few times before, but hey – why not do it again? Trying to talk about Taiping Christianity in this context is made complicated simply by virtue of how much has been written on it, and therefore how much material you have to try to select from and summarise, so instead I’ll be mostly historiographical here, and if you want more specifics then have a gander through <a href="https://www.reddit.com/r/AskHistorians/wiki/profiles/enclavedmicrostate#wiki_the_taiping_heavenly_kingdom">my past answers</a> on the subject.</p>
+
+<p>To lay out the groundwork first, Taiping Christianity was a short-lived syncretism of largely Protestant Christianity and Chinese popular religion that first emerged in 1843 and which would be effectively destroyed by the Qing government in 1866. Its founder, Hong Xiuquan, believed that he had received visions in 1837 which, when interpreted through the information found in a Protestant missionary tract which he read in 1843, identified him as God’s second son, with a mission to drive out the demons that infested the earth and to restore the worship of the true God. He and a cousin, Feng Yunshan, then established the God-Worshipping Society in rural Guangxi, which served as a militia and aid organisation as well as a church amid a general weakening of Qing local government in rural areas. The Society increasingly came to blows with the Qing before formally declaring the establishment of an independent state, the Taiping Heavenly Kingdom, in 1851, which relocated to Nanjing over the course of 1851-3, from which it expanded to control much of the Lower Yangtze valley, before being eventually ground down and destroyed by the Qing.</p>
+
+<p>The conflict sometimes known as the Taiping Rebellion, the Taiping Civil War, or the Taiping War, was perhaps the most momentous event in China’s 19th century history, causing millions of casualties, ravaging some of China’s most prosperous regions, setting off a number of smaller regional uprisings, and, perhaps, emboldening a somewhat dormant but nonetheless potent strain of Han Chinese nativism that ultimately led to the overthrow of the Manchu-led Qing empire in 1912. The image of the Taiping either as nationalist heroes or as social revolutionaries (or occasionally as both) would be mobilised by anti-Qing agitators and post-Qing regimes, with Sun Yat-Sen and Mao Zedong especially being proponents of the idea that their own political movements were outgrowths of the Taiping’s failed revolt. From an external perspective, the ostensible oddity of the Taiping’s religion became an object of curiosity for generations of Anglophone scholars.</p>
+
+<p>But it may be surprising to learn that seriously approaching the Taiping in syncretic terms is <em>comparatively</em> recent. A lot of mid-20th century scholarship on the Taiping tends to adopt a highly essentialist and binary viewpoint in which the Taiping were either Christian or not. Eugene Boardman in 1952 declared the Taiping non-Christian because of their failure to adopt what <em>he</em> (as a Quaker) saw as key tenets of Christianity such as the Golden Rule; in 1962 Joseph Levenson declared that the Taiping <em>were</em> sincere in their Christianity and thus presented a fundamental challenge to the Confucian order; in 1967 Vincent Shih dissected a vast number of Taiping official documents to unearth their influences, and concluded that the Taiping were broadly Confucian in their ideological influences, and merely adopted Christian trappings as a pretext for an essentially secular agenda; in 1973 Jen Yu-Wen asserted that Christianity was fundamental to the Taiping as a ‘revolutionary movement’. Rudolf Wagner would be one of the first to seriously approach the Taiping through a syncretic lens with <em>Re-enacting the Heavenly Vision</em> in 1982, stressing the importance of the <em>intersection</em> between Christianity and Chinese folk religion in the coalescence of Taiping ideology. Jonathan Spence, in his narrative history of the Taiping, <em>God’s Chinese Son</em>, in 1996, would specifically hone in on the probable influence of Buddhist eschatological pamphlets on Hong’s interpretation of Christianity.</p>
+
+<p>The two modern touchstones for any serious discussion of Taiping religion are Thomas Reilly’s <em>The Taiping Heavenly Kingdom: Religion and the Blasphemy of Empire</em> (2004) and Carl Kilcourse’s <em>Taiping Theology</em> (2017). Each work approaches the subject somewhat differently and homes in on different aspects. Reilly situates the Taiping principally in chronological context, focussing especially on the problem of communicating Christian religious concepts in written Chinese, and on how the Taiping’s approach differed from – but also evolved out of – those of the Catholic and later Protestant missions in China. In turn, a major focus is placed on the Taiping idea that China had once practiced a form of Abrahamic monotheism before the introduction of Confucianism and latterly Buddhism, thus making Taiping Christianity in some ways a fundamentally nativist religious movement. Kilcourse situates the Taiping in a global rather than chronological context, arguing that the Taiping should be treated as a legitimate 19th century ‘glocalisation’ of Christianity, that is to say that while Christianity was a global religion, the Taiping imposed their own imagery and meaning onto it. He doesn’t reject Reilly’s work in so doing – indeed, the Taiping’s Sinocentric view of Christianity is a critical element of this ‘glocalisation’ – but he arrives at these conclusions through a somewhat different framework.</p>
+
+<p>I think the area of Taiping syncretism that is most apparent and pervasive in their writings and history is in how Christianity was interpreted in a context where interaction with spirits, both good and evil, was commonplace. Hong’s alleged mission to destroy demons and expel evil spirits was not spun from whole cloth, but specifically emerged out of a popular understanding that spirits and demons actively involved themselves in the world of the living. Texts discussing Taiping activities, especially those of the pre-Heavenly Kingdom years, have a particular focus on interactions with such spirits. I go into much more detail in <a href="https://www.reddit.com/r/AskHistorians/comments/jjr5go/what_did_the_taiping_think_of_ghosts/gahlg0x/">this answer</a>, but we see this for instance in an episode supposed to have taken place in 1847 in which Hong Xiuquan personally carried out an elaborate exorcism against a local deity known as King Gan, a malevolent entity whose image, housed in a cave, was given offerings as a form of appeasement. What this illustrates particularly pertinently is that the Taiping’s rejection of spirit-worship derived from <em>belief</em> and not scepticism: they did not reject the existence of spirits and other lesser deities, but were in fact profoundly convinced of their existence, while abhorring the existing religious practices surrounding them. Equally important was the act of spirit channelling, in which a human claimed to serve temporarily as the vessel for a spiritual being. While Hong Xiuquan and Feng Yunshan ultimately rejected most such channellers as illegitimate, they did ultimately recognise the claims of Yang Xiuqing and Xiao Chaogui to be able to channel God and Jesus respectively (note that the Taiping adopted a sort of unitarian Christology), such that for several years (until Xiao’s death in battle in 1853 and Yang’s purging and execution in 1856) the Taiping could claim to be receiving continuous revelation from God and Jesus – the sole deistic presences worthy of worship – through these mortal vessels.</p>
+
+<p>Again, the above is only one example of Taiping syncretism in practice, and there is plenty more out there to discuss. Aside from my own answers you may wish to go straight to the sources, including:</p>
+
+<ul>
+  <li>
+    <p>Rudolf Wagner, <em>Re-enacting the Heavenly Vision</em> (1982)</p>
+  </li>
+  <li>
+    <p>Jonathan Spence, <em>God’s Chinese Son</em> (1996)</p>
+  </li>
+  <li>
+    <p>Thomas Reilly, <em>The Taiping Heavenly Kingdom</em> (2004)</p>
+  </li>
+  <li>
+    <p>Carl Kilcourse, <em>Taiping Theology</em> (2017)</p>
+  </li>
+  <li>
+    <p>Daniel H. Bays, ‘Christianity and the Chinese Sectarian Tradition’ (1982)</p>
+  </li>
+  <li>
+    <p>Roland Boer, ‘Marxism, Religion and the Taiping Revolution’ (2016)</p>
+  </li>
+  <li>
+    <p>Carl Kilcourse, ‘Instructing the Heavenly King: Joseph Edkins’s Mission to Correct the Theology of Hong Xiuquan’ (2019)</p>
+  </li>
+</ul>
+
+<p>—– <strong>722.2</strong> —–2022-08-24 10:14:35+08:00:</p>
+
+<p>Ultimately he arrived at these judgements arbitrarily by condemning what he considered the violent nature of the Taiping movement.</p>
+
+<p>That said, this is a fun segue into noting that the Taiping relationship with the classical canon was a nuanced one. Fundamentally, while the Taiping accepted the Zhou-era canon (the Five Classics), they considered the Confucian <em>interpretation</em> of this canon (the Four Books) to be corrupt. This nuance was something not quite appreciated by Vincent Shih when he wrote <em>The Taiping Ideology</em>, which a close reading of basically affirms – the Taiping drew <em>heavily</em> on the <em>Classic of History</em> and the <em>Classic of Rites</em>, but very little on the Confucian commentaries.</p>
+
+<h3 id="723-theres-a-rational-reason-for-the-difference-between-tng-and-ds9-ferengi-submitted-on-2022-08-21-0404530800">723: <a href="https://old.reddit.com/r/DaystromInstitute/comments/wtg5b7/theres_a_rational_reason_for_the_difference/">There’s a rational reason for the difference between TNG and DS9 Ferengi.</a>, submitted on 2022-08-21 04:04:53+08:00.</h3>
+
+<p>—– <strong>723.1</strong> —–2022-08-21 10:57:47+08:00:</p>
+
+<blockquote>
+  <p>civil service</p>
+</blockquote>
+
+<p>The phrase you’re thinking of is maybe national service or mandatory service. A civil service is a professional bureaucracy.</p>
+
+<h3 id="724-did-adolf-hitler-ever-travel-outside-of-europe-submitted-on-2022-08-21-1134070800">724: <a href="https://old.reddit.com/r/AskHistorians/comments/wtpiw5/did_adolf_hitler_ever_travel_outside_of_europe/">Did Adolf Hitler ever travel outside of Europe?</a>, submitted on 2022-08-21 11:34:07+08:00.</h3>
+
+<p>—– <strong>724.1</strong> —–2022-08-21 12:25:00+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="725-what-spice-has-the-most-amount-of-people-killed-over-it-submitted-on-2022-08-21-1204030800">725: <a href="https://old.reddit.com/r/AskHistorians/comments/wtq2vv/what_spice_has_the_most_amount_of_people_killed/">What spice has the most amount of people killed over it?</a>, submitted on 2022-08-21 12:04:03+08:00.</h3>
+
+<p>—– <strong>725.1</strong> —–2022-08-21 12:25:27+08:00:</p>
+
+<p>This submission has been removed because it violates the <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions">rule on poll-type questions</a>. These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the “most”, the “worst”, “unknown”, or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult <a href="https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/">this Roundtable discussion</a>.</p>
+
+<p>For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.</p>
+
+<h3 id="726-hobby-scuffles-week-of-august-22-2022-rules-update--poll-submitted-on-2022-08-21-2300140800">726: <a href="https://old.reddit.com/r/HobbyDrama/comments/wu1n17/hobby_scuffles_week_of_august_22_2022_rules/">[Hobby Scuffles] Week of August 22, 2022 (Rules update + poll)</a>, submitted on 2022-08-21 23:00:14+08:00.</h3>
+
+<p>—– <strong>726.1</strong> —–2022-08-23 09:40:20+08:00:</p>
+
+<p>I feel like this was inevitably going to happen. Vox has been the cause of <em>serious</em> issues enough times that a non-issue is now getting blown up into drama.</p>
+
+<p>—– <strong>726.2</strong> —–2022-08-24 00:53:19+08:00:</p>
+
+<p>To tack on the other comment a bit, a lot of Nijisanji EN’s early audience migrated over from Hololive and especially Hololive Myth, which NijiEN seemed to specifically be emulating during the second half of 2021 by virtue of its first three waves also being all-female. The audience for Luxiem and to a lesser extent Noctyx – the all-male waves – was dominated by new fans of a different demographic, which has meant there’s pretty substantial resentment and friction coming from the fanbase of the three – less popular – girls’ waves. Not all of it is, I think, unwarranted, given Nijisanji’s obvious Luxiem favouritism when it comes to merch and other promotions, but it’s also wrapped up in a lot of entitlement and I’d argue implicit sexism as well.</p>
+
+<p>—– <strong>726.3</strong> —–2022-08-25 04:00:33+08:00:</p>
+
+<p>The daughter was less prominent, but still a pretty public figure.</p>
+
+<p>—– <strong>726.4</strong> —–2022-08-26 20:00:23+08:00:</p>
+
+<p>Given the data isn’t actually hosted in the app itself, would the data team be able to block the app from using their data somehow?</p>
+
+<p>—– <strong>726.5</strong> —–2022-08-26 20:03:21+08:00:</p>
+
+<p>This deserves to be a full-on post at this stage…</p>
+
+<p>—– <strong>726.6</strong> —–2022-08-26 20:10:23+08:00:</p>
+
+<p>Welcome down the rabbit hole, no you don’t need that ladder…</p>
+
+<p>—– <strong>726.7</strong> —–2022-08-27 02:08:34+08:00:</p>
+
+<p>I feel like I vaguely know what you’re talking about but I’m going to ask for a reminder anyway.</p>
+
+<p>—– <strong>726.8</strong> —–2022-08-27 10:37:41+08:00:</p>
+
+<p>Oh <em>that</em> guy!</p>
+
+<p>—– <strong>726.9</strong> —–2022-08-27 14:14:57+08:00:</p>
+
+<blockquote>
+  <p>(It seems like).</p>
+</blockquote>
+
+<p>Just as a quick note from the moderation side, you can typically still see your own comments even if they’ve been removed.</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-08-27</time>
+        <a href="https://nodebe4.github.io/opinion/2022-08-27/Spinkcat/">
+          Spinkcat在2022-08-22~2022-08-28的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-08-26</time>
+        <a href="https://nodebe4.github.io/opinion/2022-08-26/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-08-22~2022-08-28的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-08-20</time>
+        <a href="https://nodebe4.github.io/opinion/2022-08-20/Spinkcat/">
+          Spinkcat在2022-08-15~2022-08-21的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-08-18</time>
+        <a href="https://nodebe4.github.io/opinion/2022-08-18/theoryofdoom/">
+          theoryofdoom在2022-08-15~2022-08-21的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-08-20/%E6%B0%91%E9%80%B2%E9%BB%A8%E6%94%BF%E5%BA%9C%E6%8E%A8-%E6%95%B8%E4%BD%8D%E4%B8%AD%E4%BB%8B%E6%B3%95-%E6%89%BC%E6%AE%BA%E7%B6%B2%E7%B5%A1%E5%B9%B3%E5%8F%B0%E8%A8%80%E8%AB%96%E8%87%AA%E7%94%B1/">
+            前一篇：民進黨政府推《數位中介法》扼殺網絡平台言論自由
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-08-21/HeQinglian/">
+            後一篇：Twitter @He Qinglian: 2022-08-15~2022-08-21
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-08-20/%E6%B0%91%E9%80%B2%E9%BB%A8%E6%94%BF%E5%BA%9C%E6%8E%A8-%E6%95%B8%E4%BD%8D%E4%B8%AD%E4%BB%8B%E6%B3%95-%E6%89%BC%E6%AE%BA%E7%B6%B2%E7%B5%A1%E5%B9%B3%E5%8F%B0%E8%A8%80%E8%AB%96%E8%87%AA%E7%94%B1/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-08-21/HeQinglian/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-08-26/ForeignAffairsMag/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-08-20/Spinkcat/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-08-20/%E6%B0%91%E9%80%B2%E9%BB%A8%E6%94%BF%E5%BA%9C%E6%8E%A8-%E6%95%B8%E4%BD%8D%E4%B8%AD%E4%BB%8B%E6%B3%95-%E6%89%BC%E6%AE%BA%E7%B6%B2%E7%B5%A1%E5%B9%B3%E5%8F%B0%E8%A8%80%E8%AB%96%E8%87%AA%E7%94%B1/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-08-21/HeQinglian/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-08-26/ForeignAffairsMag/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-08-20/Spinkcat/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

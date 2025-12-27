@@ -1,0 +1,705 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>「原创」中国人不适合民主吗？——文化与政治制度 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="目标读者：刚开始接触自由世界政治讨论，对政治理论几乎一无所知的新难民。
+" />
+    <meta property="og:description" content="目标读者：刚开始接触自由世界政治讨论，对政治理论几乎一无所知的新难民。
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="「原创」中国人不适合民主吗？——文化与政治制度" />
+    <meta property="twitter:title" content="「原创」中国人不适合民主吗？——文化与政治制度" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2F2049bbs.xyz%2Ft%2F2272" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://2049bbs.xyz/t/2272" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://2049bbs.xyz/t/2272&text=「原创」中国人不适合民主吗？——文化与政治制度&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://2049bbs.xyz/t/2272&title=「原创」中国人不适合民主吗？——文化与政治制度" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://2049bbs.xyz/t/2272&title=「原创」中国人不适合民主吗？——文化与政治制度" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=「原创」中国人不适合民主吗？——文化与政治制度&body=目标读者：刚开始接触自由世界政治讨论，对政治理论几乎一无所知的新难民。
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://2049bbs.xyz/t/2272" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://2049bbs.xyz/t/2272&title=「原创」中国人不适合民主吗？——文化与政治制度&caption=目标读者：刚开始接触自由世界政治讨论，对政治理论几乎一无所知的新难民。
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=「原创」中国人不适合民主吗？——文化与政治制度&url=https://2049bbs.xyz/t/2272" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>「原创」中国人不适合民主吗？——文化与政治制度</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2019-12-15
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: 懦夫斯基</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#达摩俱乐部">
+          达摩俱乐部
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://2049bbs.xyz/t/2272" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="原创的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#达摩俱乐部 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <p><strong>目标读者</strong>：刚开始接触自由世界政治讨论，对政治理论几乎一无所知的新难民。</p>
+
+<p>我们经常可以看到这种说法，中国文化不适合民主，中国人活该被独裁压迫。这也许有爱之深，责之切的成分，但却对推动民主化没有益处，反而是帮助党国鼓吹其统治正当性了。</p>
+
+<h2 id="文化是什么">文化是什么</h2>
+
+<p>最初，人们认为，文化是客观的存在，从古至今地传承下来。这种看法，被学者们称作<strong>原生论</strong>。后来，随着世界各地的联系和交流越来越多，对历史的梳理越来越有体系，人们开始认为，文化是就是一群人共同相信的东西，并没有什么力量让这种信仰保持不变，也就是说，文化是想象出来的、可变的。这种看法，叫作<strong>建构论</strong>。类似的思维之下，还有人再进一步，认为民族的概念也是想象的共同体。</p>
+
+<p>每个人如何看待政治制度，就是这一群人的政治文化。</p>
+
+<p>自古至今，一直有人认为，某些政治体制更适用于某些特定的文化，有些文化适合民主，有些文化适合独裁。</p>
+
+<p>古希腊的埃斯库罗斯在戏剧《波斯人》（公元前472年）中就曾说过，威权适用于亚细亚，民主适用于雅典。</p>
+
+<p>法国的孟德斯鸠也相信文化和政府制度有相适应的关系，他认为皇权适用于欧洲，专制适用于东方，民主则适用于古代（指欧洲的古代），某种文化适用的政治制度输出到另一种文化，是可遇不可求的偶然事件。</p>
+
+<p>英国的约翰-斯图尔特-密尔则说，不会有人相信，任何一种文化都可以驾驭任何一种政治制度。因此，密尔认为，立法者在制定法律和制度时，要把既存的风俗民情纳入考量。我们可能会联想到另一个说法：”我大清自有国情在此。” 但是，密尔同时也认为，文化具有可塑性。也许某个理念对于某种文化来说很陌生，但是如果持续地接触、讨论这个理念，假以时日，人们会逐渐熟悉它，最终把它纳入文化惯性。</p>
+
+<p>在孟德斯鸠和密尔的基础上，出现了<strong>文化现代化理论</strong>：</p>
+
+<p>社会经济的发展，并不会直接带来民主制度，而会带来文化上的变化。文化上的变化，才是民主化变革需要的土壤。</p>
+
+<h2 id="如何衡量政治文化">如何衡量政治文化</h2>
+
+<h3 id="公民文化">公民文化</h3>
+
+<p>在《公民文化》一书中，两位作者阿尔蒙德和维巴归纳出三种政治文化。</p>
+
+<p>村民型政治文化，由于这种文化总结自非洲土著的部落，有些人喜欢把它翻译成作部落型文化。</p>
+
+<p>臣民型政治文化，对应的是中央集权的威权制度。</p>
+
+<p>公民型/参与者型政治文化，对应的是民主制度。</p>
+
+<p>一群人有公民型政治文化，意味着人与人之间有高度的信任，偏好一步一个脚印的渐进式社会变革，支持现有的政治制度，生活满意度比较高。</p>
+
+<p>两位作者认为，只有公民型/参与者型的政治文化，才更有可能发展出民主制度，也更有可能维持民主制度。</p>
+
+<h3 id="世界文化地图">世界文化地图</h3>
+
+<p>英格尔哈特与韦尔策尔根据世界价值观调查组织历年的数据，绘制了世界文化地图。他们认为，在当代世界，文化的不同主要在以下两个维度上体现出来。</p>
+
+<h4 id="传统价值vs世俗理性价值">传统价值vs世俗理性价值</h4>
+
+<p>传统价值主要意味着：</p>
+
+<ul>
+  <li>宗教</li>
+  <li>传统家庭分工</li>
+  <li>对权威的服从</li>
+  <li>以民族意识为荣</li>
+  <li>反对离婚</li>
+  <li>反对精神欢欣（例如酒精、大麻、其它毒品）</li>
+  <li>反对自杀</li>
+  <li>反对堕胎</li>
+</ul>
+
+<p>世俗理性价值主要意味着：</p>
+
+<ul>
+  <li>淡化宗教和传统家庭角色</li>
+  <li>反抗权威</li>
+  <li>以世界主义为荣</li>
+  <li>接受离婚</li>
+  <li>接受精神欢欣</li>
+  <li>接受自杀</li>
+  <li>接受堕胎</li>
+</ul>
+
+<h4 id="生存价值vs自我表达价值">生存价值vs自我表达价值</h4>
+
+<p>生存价值主要意味着：</p>
+
+<ul>
+  <li>强调物质和经济安全</li>
+  <li>倾向于以本民族作为思考中心</li>
+  <li>人际间信任与宽容较少</li>
+</ul>
+
+<p>自我表达价值主要意味着：</p>
+
+<ul>
+  <li>强调性别、性、种族的平等与多元化</li>
+  <li>倾向于以世界和环境作为思考中心</li>
+  <li>人际间高度信任 鼓励个人积极参与政治活动。</li>
+</ul>
+
+<p>用这个两个维度建立坐标系，根据2014年数据，英-韦世界文化地图如下：</p>
+
+<p><img src="https://i.imgur.com/SS9s5cm.png" alt="英-韦世界文化地图2014版" /></p>
+
+<p>文化现代化理论与英-韦文化维度，可以很好地描述历史上的两波民主化转型。</p>
+
+<p>工业化时代，一批国家的政治文化从传统价值，逐渐偏向世俗理性价值； 后工业化时代，一批国家的政治文化从生存价值，逐渐偏向自我表达价值。</p>
+
+<p>值得注意的是，所有共产主义国家，都处于这个坐标系的左上角。也就是说，重视世俗理性价值和生存价值，轻视乃至反对传统价值和自我表达价值，是共产主义国家的显著特征。（但反之则不成立，不能说只要重视传统价值和生存价值，就是共产主义。）</p>
+
+<h2 id="再论文化与政治体制">再论文化与政治体制</h2>
+
+<p>说到文化与政治体制的关系，就不得不提亨廷顿的《文明的冲突》。国内支持其观点的文章，已经汗牛充栋，但是，正所谓尽信书则不如无书，本文就来唱唱反调。</p>
+
+<p>亨廷顿在《文明的冲突》中，专注于研究宗教对文化的影响，他认为，西方把某些价值观当作普世价值观，与民主制度捆绑在一起，强加给其他文明，只会带来更多的冲突。他认为，人权、平等、自由、法治、民主、政教分离等等，是西方独有的思想，根本无法引起其它文化的共鸣。因此，其它宗教下的文化无法与民主制度兼容。</p>
+
+<p>具体来说，亨廷顿认为，伊斯兰教文化、儒家文化的国家，无法维持民主制度；天主教文化的国家，维持民主制度难度比较大；伊斯兰教文化则将永远与非伊斯兰教文化处于冲突之中。</p>
+
+<p>以下是亨廷顿对几种不适合民主的文化做出的解释：</p>
+
+<ul>
+  <li>天主教文化强调了教宗和真理的唯一性，阶级森严，而民主需要接纳各种思想的竞争，因此天主教文化与民主完全相悖。</li>
+  <li>儒家文化强调尊重权威、鼓励公社制度而不鼓励私人权利，与民主完全相悖。</li>
+  <li>伊斯兰教文化历史上就很暴力，没有对宗教事务和政治事务做出区分，严重地压迫女性，不但不可能发展民主制度，还会对其他国家的民主制度造成威胁。</li>
+</ul>
+
+<p>这些解释，均是在各文化的教条中，寻找与公民文化不一致的部分。然而，亨廷顿忽略了，所有这些文化，都既有不适应民主制度的教条，也有适应民主制度的教条。</p>
+
+<ul>
+  <li>儒家文化虽然对公民社会、法治、个人权利等理念一无所知，但是同时也有限制政府权力的传统，认可人民对无道统治者有权反抗，且不抵制宗教的多元化。</li>
+  <li>伊斯兰教文化在发展过程中，与适合民主的方向背道而驰，然而，在其教义中，舒拉（Al-Shura，大意为”协商”）、伊制马尔（Ijma，大意为”公意”）、伊智提哈德（Ijtihad，大意为”创制”，即对经文的重新诠释）、麦诗赖海(Maslaha，大意为”公益”)等概念，同样可以为议会制政府、代议制选举、宗教改革提供理论基础。同时，也有观点认为，对神权的强调，可以对政权形成制衡。</li>
+</ul>
+
+<p>每一种文化都既可以找出促进民主的教条，也可以找出妨碍民主的教条。既然如此，讨论某种文化是否能够发展或维持民主制度，就成了一个经验主义的问题，也就是”公说公有理，婆说婆有理”。</p>
+
+<p>当我们说，大中华文化圈的儒家文化不适合民主、中东的伊斯兰教文化不适合民主时，其实是在基于当下的情势做出判断，从状况倒推原因。目前大部分民主国家都有是新教文化国家，我们就说新教适合民主；伊斯兰教国家少有民主，我们就说伊斯兰教文化不适合民主；中国大陆没有民主，我们就说儒家文化不适合民主。这实际上有因果倒置的嫌疑。</p>
+
+<p>评判某种文化对民主制度的影响，应当放在时间尺度上，纵向观察，还要考虑文化的可塑性。</p>
+
+<p>回到英-韦世界文化地图，我们可以看到，在儒家文化圈的国家当中，党国的位置很奇葩，与其它民主化程度较好儒家文化国家相比，更加重视生存价值，反对自我表达价值。体现在坐标系中，就是从一个圆润的色块中，歪歪扭扭地突出一块。这种偏离，很可能是党国这个政权，对中国造成的影响。这也与我们的生活经验一致。党国删帖封号乃至焚书，镇压各类宗教，歧视少数群体，把经济发展当作头等大事，相信异见者是”闹事、想要天下大乱”，是极端重视生存价值的体现。中国民主化转型的阻力，主要在这一维度上。</p>
+
+<p>单一宗教代表的传统价值，只会把中国从世俗理性价值推往传统价值，这并不能”救中国”。推动宗教自由，才是推动中国从生存价值向自我表达价值转变。这意味着我们不需要积极地皈依某种宗教，而是不论自身信仰，所有人成为所有宗教的盟友，为其自由摇旗呐喊。每个人如何看待政治制度，就是这一群人的政治文化。我们选择如何思考，中国的文化便将如何发展。</p>
+
+<h2 id="参考材料">参考材料</h2>
+
+<ul>
+  <li><a href="https://books.google.com/books?id=uWgwDgAAQBAJ">Principles of Comparative Politics</a></li>
+  <li><a href="https://www.youtube.com/watch?v=aPS-pONiEG8">The Myth of the “Clash of Civilizations”. Edward Said</a></li>
+  <li><a href="https://book.douban.com/subject/1053623/">《文明的冲突》</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/The_Civic_Culture">《公民文化》</a></li>
+  <li><a href="http://www.worldvaluessurvey.org/">World Values Survey</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Inglehart%E2%80%93Welzel_cultural_map_of_the_world">英格尔哈特－韦尔策尔世界文化地图</a></li>
+  <li><a href="https://www.beichengjiu.com/tags-32912-0.html">伊斯兰教术语</a></li>
+</ul>
+
+<h6 id="tags-原创-文化-意识形态-民主-政治-文明冲突">tags: <code class="language-plaintext highlighter-rouge">原创</code> <code class="language-plaintext highlighter-rouge">文化</code> <code class="language-plaintext highlighter-rouge">意识形态</code> <code class="language-plaintext highlighter-rouge">民主</code> <code class="language-plaintext highlighter-rouge">政治</code> <code class="language-plaintext highlighter-rouge">文明冲突</code></h6>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#达摩俱乐部 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2020-01-30/chinese-islam-survey/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2019-01-27/notes-psychological-experiments/">最早</a>--</span>
+    
+      <li>
+        <time>2020-01-11</time>
+        <a href="https://nodebe4.github.io/opinion/2020-01-11/decentralized-organization-analysis/">
+          「原创」无大台组织的意义分析
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-01-06</time>
+        <a href="https://nodebe4.github.io/opinion/2020-01-06/policy-change-index/">
+          Policy Change Index-阅读中国，用机器学习预测政策变化
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-12-12</time>
+        <a href="https://nodebe4.github.io/opinion/2019-12-12/theory-of-revolution/">
+          「索引」有关革命的理论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-12-09</time>
+        <a href="https://nodebe4.github.io/opinion/2019-12-09/tocqueville-christianity-and-american-democracy/">
+          「译文」托克维尔论基督教与美国民主
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2019-12-14/%E5%9C%B0%E7%B7%A3%E6%94%BF%E6%B2%BB%E8%A7%80%E5%AF%9F-%E4%B8%AD%E7%BE%8E%E7%AC%AC%E4%B8%80%E9%9A%8E%E6%AE%B5%E8%B2%BF%E6%98%93%E5%8D%94%E8%AD%B0%E7%9A%84%E6%97%A9%E6%9C%9F%E5%88%86%E6%9E%90/">
+            前一篇：地緣政治觀察：中美第一階段貿易協議的早期分析
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2019-12-15/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%B9%E5%8F%98%E4%BA%86%E4%B8%AD%E5%9B%BD/">
+            後一篇：特朗普改变了中国
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2019-12-14/%E5%9C%B0%E7%B7%A3%E6%94%BF%E6%B2%BB%E8%A7%80%E5%AF%9F-%E4%B8%AD%E7%BE%8E%E7%AC%AC%E4%B8%80%E9%9A%8E%E6%AE%B5%E8%B2%BF%E6%98%93%E5%8D%94%E8%AD%B0%E7%9A%84%E6%97%A9%E6%9C%9F%E5%88%86%E6%9E%90/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2019-12-15/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%B9%E5%8F%98%E4%BA%86%E4%B8%AD%E5%9B%BD/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2020-01-06/policy-change-index/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2019-12-12/theory-of-revolution/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2019-12-14/%E5%9C%B0%E7%B7%A3%E6%94%BF%E6%B2%BB%E8%A7%80%E5%AF%9F-%E4%B8%AD%E7%BE%8E%E7%AC%AC%E4%B8%80%E9%9A%8E%E6%AE%B5%E8%B2%BF%E6%98%93%E5%8D%94%E8%AD%B0%E7%9A%84%E6%97%A9%E6%9C%9F%E5%88%86%E6%9E%90/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2019-12-15/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%B9%E5%8F%98%E4%BA%86%E4%B8%AD%E5%9B%BD/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<达摩俱乐部>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2020-01-06/policy-change-index/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<达摩俱乐部>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2019-12-12/theory-of-revolution/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

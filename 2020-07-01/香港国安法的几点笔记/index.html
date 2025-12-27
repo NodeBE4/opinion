@@ -1,0 +1,1092 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title> 香港国安法的几点笔记  – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+香港国安法的几点笔记
+——
+" />
+    <meta property="og:description" content="
+香港国安法的几点笔记
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content=" 香港国安法的几点笔记 " />
+    <meta property="twitter:title" content=" 香港国安法的几点笔记 " />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fsociologist.xyz%2Fnotes-on-hong-kong-national-security-law" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://sociologist.xyz/notes-on-hong-kong-national-security-law" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://sociologist.xyz/notes-on-hong-kong-national-security-law&text= 香港国安法的几点笔记 &hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://sociologist.xyz/notes-on-hong-kong-national-security-law&title= 香港国安法的几点笔记 " class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://sociologist.xyz/notes-on-hong-kong-national-security-law&title= 香港国安法的几点笔记 " class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject= 香港国安法的几点笔记 &body=
+香港国安法的几点笔记
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://sociologist.xyz/notes-on-hong-kong-national-security-law" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://sociologist.xyz/notes-on-hong-kong-national-security-law&title= 香港国安法的几点笔记 &caption=
+香港国安法的几点笔记
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text= 香港国安法的几点笔记 &url=https://sociologist.xyz/notes-on-hong-kong-national-security-law" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1> 香港国安法的几点笔记 </h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2020-07-01
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#The Sociologist">
+          The Sociologist
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://sociologist.xyz/notes-on-hong-kong-national-security-law" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="The Sociologist的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#The Sociologist 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1593627950000-->
+<p><a href="https://sociologist.xyz/notes-on-hong-kong-national-security-law">香港国安法的几点笔记</a>
+——</p>
+
+<div>
+  <p>对香港直接立法，去年的中共十九大就已经提出<sup class="footnote-ref" id="fnref-1"><a href="#fn-1">1</a></sup>，并在随后的全国人大常委会中列入立法计划<sup class="footnote-ref" id="fnref-2"><a href="#fn-2">2</a></sup>。至今年 5 月开始，十三届全国人大常委会的诸次会议审议确定立法<sup class="footnote-ref" id="fnref-3"><a href="#fn-3">3</a></sup>。十余天前，在意料之中突然宣布订立《中华人民共和国香港特别行政区维护国家安全法》<sup class="footnote-ref" id="fnref-4"><a href="#fn-4">4</a></sup>，法工委随后做说明<sup class="footnote-ref" id="fnref-5"><a href="#fn-5">5</a></sup>。之后的 6 月 18–20 日的第十九次、<a href="https://telegra.ph/2020-%E5%B9%B4-6-%E6%9C%88-30-%E6%97%A5-06-30">6 月 30 日</a>的第二十次会议分别进行了一审和二审，全票通过<sup class="footnote-ref" id="fnref-6"><a href="#fn-6">6</a></sup>，国家主席习近平签署《中华人民共和国主席令》（第四十九号）<sup class="footnote-ref" id="fnref-7"><a href="#fn-7">7</a></sup>；晚间香港特区政府刊宪正式生效<sup class="footnote-ref" id="fnref-8"><a href="#fn-8">8</a></sup>。</p>
+  <p>2003 年，反对《基本法》第 23 条而起的七一游行，今年首次被警方发反对通知书，首次被禁止。在香港国安法实施的第一天（严格来说是第二天，因为从 6 月 30 日晚 11 时刊宪即刻生效），依然有许多人于铜锣湾、湾仔等地聚集；下午一时警方首次举新的印有——</p>
+  <div class="md-block blockquote">
+    <blockquote>
+      <p>這是警方發出的警告。你們現在展示旗幟或橫額 / 叫喊口號 / 或其他行為，有分裂國家或顛覆國家政權等意圖，可能構成《港區國安法》的罪行，你們可能會被拘捕及刑事檢控</p>
+    </blockquote>
+  </div>
+  <p>的紫旗，随后首次引用香港国安法展开拘捕<sup class="footnote-ref" id="fnref-9"><a href="#fn-9">9</a></sup>，亦有警员遭受袭击受伤。警方晚 10 时宣布共拘捕 370 人，表示其中 10 人涉嫌违反香港国安法<sup class="footnote-ref" id="fnref-10"><a href="#fn-10">10</a></sup>。</p>
+  <h1 id="toc_1" class="md-block">几个要点</h1>
+  <div class="md-block list">
+    <ul>
+      <li>
+        <p>首先，如同之前对去年反送中运动的导火索之一的<a href="https://sociologist.xyz/2019-summer-hong-kong">《逃犯条例》草案</a>的立法过程的整理，以及梳理此后法院对政府为阻吓社会运动而援引<a href="https://sociologist.xyz/anti-bill">《紧急条例》制定《禁止蒙面规例》</a>的裁决，不论是否是「恶法」都需要对其检视，否则其后的观察从法律展开与否，恐陷入假设-演绎模型之中。</p>
+      </li>
+      <li>
+        <p>这是一部缺乏公开咨询等立法过程，绕过香港本地立法机关，且罕见地于通过之前不公开内容的法律。</p>
+      </li>
+      <li>
+        <p>此法暂时<a href="https://www.elegislation.gov.hk/hk/A406%21en-zh-Hant-HK?INDEX_CS=N">无英文版</a>。虽然《释义及通则条例》等规定了中文与英文地位相同，但两种语言存在风俗差异，且使用中文地区长久以来无普通法习惯；在实际情况中，面对许多个案，英文文本更明确，而中文文本较模糊；即使为求立法本意，借鉴英文文本也十分必要。暂时只有新华社公布了仅供参考的英文文本<sup class="footnote-ref" id="fnref-11"><a href="#fn-11">11</a></sup>。</p>
+      </li>
+    </ul>
+  </div>
+  <div class="md-block list">
+    <ul>
+      <li>在法律术语方面，香港国安法中使用了大量中国大陆的法律用语，因此于第六十四条中做对照转换<sup class="footnote-ref" id="fnref-12"><a href="#fn-12">12</a></sup>。</li>
+    </ul>
+  </div>
+  <div class="md-block list">
+    <ul>
+      <li>香港国安法不溯及既往，第三十九条规定的罪行仅适用于法律生效后的行为<sup class="footnote-ref" id="fnref-13"><a href="#fn-13">13</a></sup>。</li>
+    </ul>
+  </div>
+  <div class="md-block list">
+    <ul>
+      <li>第四条规定了特区应根据相关法律保护香港人民的权利和各项自由<sup class="footnote-ref" id="fnref-14"><a href="#fn-14">14</a></sup>，随后第五条表示遵循无罪推定<sup class="footnote-ref" id="fnref-15"><a href="#fn-15">15</a></sup>，但第四章中第四十二条关于保释的规定却存在例外情况<sup class="footnote-ref" id="fnref-16"><a href="#fn-16">16</a></sup>。而末尾第六十五条赋予了全国人大常委会解释权，也造成对其中各项人权规定的保障产生担忧<sup class="footnote-ref" id="fnref-17"><a href="#fn-17">17</a></sup>。</li>
+    </ul>
+  </div>
+  <div class="md-block list">
+    <ul>
+      <li>香港国安法中模糊之处不及备载，如国家安全委员会中的成员，职位高低有别且有实务工作，参与国安实务工作的可能不高<sup class="footnote-ref" id="fnref-18"><a href="#fn-18">18</a></sup><sup class="footnote-ref" id="fnref-19"><a href="#fn-19">19</a></sup>；而特区警务处设立的国家安全部门，可聘请外地人员<sup class="footnote-ref" id="fnref-20"><a href="#fn-20">20</a></sup>，其职权范围无明确界定<sup class="footnote-ref" id="fnref-21"><a href="#fn-21">21</a></sup>。</li>
+    </ul>
+  </div>
+  <div class="md-block list">
+    <ul>
+      <li>司法管辖权宽泛，超越香港一直以来的属地主义，为国家保护管辖权（Protective Principle）<sup class="footnote-ref" id="fnref-22"><a href="#fn-22">22</a></sup>，而中国的刑法中对于他国公民的域外犯罪亦有免责规定<sup class="footnote-ref" id="fnref-23"><a href="#fn-23">23</a></sup>，这也造成长期在中国大陆活动的外国人面临遭受香港检控的可能。</li>
+    </ul>
+  </div>
+  <div class="md-block list">
+    <ul>
+      <li>虽然香港已有反恐相关法律<sup class="footnote-ref" id="fnref-24"><a href="#fn-24">24</a></sup>，但依然在香港国安法中大篇幅地列出对「恐怖活动」的刑罚。其绕过了联合国（反恐怖主义措施）条例中对人权的保护。而「勾结外国或境外势力」的各项情况都未有做出定义。</li>
+    </ul>
+  </div>
+  <div class="md-block list">
+    <ul>
+      <li>
+        <p>最后，回到立法目的上。从条文不难看出，不顾造成香港司法体系混乱的风险施行国安法，恫吓意味大于实际作用。香港自「第一次回归」以来，社会运动不断。有别于中国大陆的各种「群众事件」的集体行动，即使存在功能组别等政制阻碍，香港相比之下存续着选举政治以及各种社团活动，这种社会运动与十八世纪以来伴随西欧民族国家构建产生的组织形式极为相似。社会整体的意识形态与身份认同在一次次维园集会和大大小小的劳工运动中塑造起来。但传统的顺化策略在中央政府施压下，无法获得预期结果，表演性与仪式性的褪去，展现出现代社会运动的真实面——暴力。</p>
+      </li>
+      <li>
+        <p>国家一开始就被这场持久的社会运动当作了标靶，而抗争的改变社会现状的诉求在国家面前，被远远地排在维护社会秩序之后，镇压的到来只是时间、方式的问题。香港国家安全法的目的，即以拘捕、检控、刑罚的方式加强警治。设立更多的机构，加强对香港本地事务的介入、渗透与控制，短期内使社会非组织化，近日许多本土政治组织相继解散体现出来。经过一年对香港社会动员能力的测试，中央政府或许已经评估且接受了未来高度控制之下，决策失误可能带来的巨大震荡风险。</p>
+      </li>
+    </ul>
+  </div>
+  <hr />
+  <p><strong>🌟LikeCoin 可为我带来微薄收益，激励未来创作，如果你喜欢这篇文章，不妨五连哦👇</strong></p>
+  <div class="md-block html">
+    <script type="text/javascript">document.write("<iframe scrolling='no' frameborder='0' sandbox='allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-storage-access-by-user-activation' style='height: 212px; width: 100%;' src='https://button.like.co/in/embed/csshadow/button?referrer="+encodeURIComponent(location.href.split("?")[0].split("#")[0])+"'></iframe>");</script>
+  </div>
+  <p><strong>若你还不想注册加入赞赏公民社区，可以在这里按赞→<a href="https://button.like.co/csshadow">👍</a></strong></p>
+  <hr />
+  <section class="footnotes">
+    <ol>
+      <li id="fn-1">
+        <p><a href="http://www.xinhuanet.com/politics/2019-10/31/c_1125178024.htm">中国共产党第十九届中央委员会第四次全体会议公报</a><a href="#fnref-1" class="footnote">↩</a></p>
+      </li>
+      <li id="fn-2">
+        <p><a href="http://www.npc.gov.cn/npc/c30834/202006/b46fd4cbdbbb4b8faa9487da9e76e5f6.shtml">全国人大常委会2020年度立法工作计划</a><a href="#fnref-2" class="footnote">↩</a></p>
+      </li>
+      <li id="fn-3">
+        <p><a href="http://www.npc.gov.cn/npc/c30834/202005/e235c7a3ebea43ca98aa80032590e924.shtml">王晨作关于《全国人民代表大会关于建立健全香港特别行政区维护国家安全的法律制度和执行机制的决定（草案）》的说明</a><a href="#fnref-3" class="footnote">↩</a></p>
+      </li>
+      <li id="fn-4">
+        <p><a href="http://www.xinhuanet.com/gangao/2020-06/18/c_1126130350.htm">《中华人民共和国香港特别行政区维护国家安全法（草案）》对四类危害国家安全的犯罪行为和刑事责任作出明确规定</a><a href="#fnref-4" class="footnote">↩</a></p>
+      </li>
+      <li id="fn-5">
+        <p><a href="http://www.xinhuanet.com/2020-06/20/c_1126139511.htm">法制工作委员会负责人向十三届全国人大常委会第十九次会议作关于《中华人民共和国香港特别行政区维护国家安全法（草案）》的说明</a><a href="#fnref-5" class="footnote">↩</a></p>
+      </li>
+      <li id="fn-6">
+        <p><a href="http://www.npc.gov.cn/npc/ttxw/202006/6f1ea35cf1d94adfb975343cbcbc156e.shtml">十三届全国人大常委会第二十次会议表决通过香港特别行政区维护国家安全法 习近平签署主席令予以公布</a><a href="#fnref-6" class="footnote">↩</a></p>
+      </li>
+      <li id="fn-7">
+        <p><a href="http://www.gov.cn/xinwen/2020-06/30/content_5522974.htm">中华人民共和国主席令（第四十九号）</a><a href="#fnref-7" class="footnote">↩</a></p>
+      </li>
+      <li id="fn-8">
+        <p><a href="https://www.info.gov.hk/gia/general/202006/30/P2020063000961.htm?fontSize=1">《中華人民共和國香港特別行政區維護國家安全法》刊憲並即時生效</a><a href="#fnref-8" class="footnote">↩</a></p>
+      </li>
+      <li id="fn-9">
+        <p><a href="https://news.rthk.hk/rthk/ch/component/k2/1535171-20200701.htm?archive_date=2020-07-01">警方首度舉紫旗警告集結人群　拘捕一名男子搜出港獨旗</a><a href="#fnref-9" class="footnote">↩</a></p>
+      </li>
+      <li id="fn-10">
+        <p><a href="https://news.rthk.hk/rthk/ch/component/k2/1535271-20200701.htm">警方拘捕約370人　當中10人涉嫌違反港區國安法</a><a href="#fnref-10" class="footnote">↩</a></p>
+      </li>
+      <li id="fn-11">
+        <p><a href="http://www.xinhuanet.com/english/2020-07/01/c_139178753.htm">English translation of the Law of the People's Republic of China on Safeguarding National Security in the Hong Kong Special Administrative Region</a><a href="#fnref-11" class="footnote">↩</a></p>
+      </li>
+      <li id="fn-12">
+        <p>第六十四條 香港特別行政區適用本法時，本法規定的“有期徒刑” “無期徒刑” “沒收財產”和“罰金”分別指“監禁” “終身監禁” “充公犯罪所得”和“罰款”，“拘役”參照適用香港特別行政區相關法律規定的“監禁” “入勞役中心” “入教導所”，“管制”參照適用香港特別行政區相關法律規定的“社會服務令” “入感化院”，“吊銷執照或者營業許可證”指香港特別行政區相關法律規定的“取消註冊或者註冊豁免，或者取消牌照”。<a href="#fnref-12" class="footnote">↩</a></p>
+      </li>
+      <li id="fn-13">
+        <p>第三十九條 本法施行以後的行為，適用本法定罪處刑。<a href="#fnref-13" class="footnote">↩</a></p>
+      </li>
+      <li id="fn-14">
+        <p>第四條 香港特別行政區維護國家安全應當尊重和保障人權，依法保護香港特別行政區居民根據香港特別行政區基本法和《公民權利和政治權利國際公約》、《經濟、社會與文化權利的國際公約》適用於香港的有關規定享有的包括言論、新聞、出版的自由，結社、集會、遊行、示威的自由在內的權利和自由。<a href="#fnref-14" class="footnote">↩</a></p>
+      </li>
+      <li id="fn-15">
+        <p>第五條 防範、制止和懲治危害國家安全犯罪，應當堅持法治原則。法律規定為犯罪行為的，依照法律定罪處刑；法律沒有規定為犯罪行為的，不得定罪處刑。 任何人未經司法機關判罪之前均假定無罪。保障犯罪嫌疑人、被告人和其他訴訟參與人依法享有的辯護權和其他訴訟權利。任何人已經司法程序被最終確定有罪或者宣告無罪的，不得就同一行為再予審判或者懲罰。<a href="#fnref-15" class="footnote">↩</a></p>
+      </li>
+      <li id="fn-16">
+        <p>第四十二條 香港特別行政區執法、司法機關在適用香港特別行政區現行法律有關羈押、審理期限等方面的規定時，應當確保危害國家安全犯罪案件公正、及時辦理，有效防範、制止和懲治危害國家安全犯罪。 對犯罪嫌疑人、被告人，除非法官有充足理由相信其不會繼續實施危害國家安全行為的，不得准予保釋。<a href="#fnref-16" class="footnote">↩</a></p>
+      </li>
+      <li id="fn-17">
+        <p>第六十五條 本法的解釋權屬於全國人民代表大會常務委員會。<a href="#fnref-17" class="footnote">↩</a></p>
+      </li>
+      <li id="fn-18">
+        <p>第十二條 香港特別行政區設立維護國家安全委員會，負責香港特別行政區維護國家安全事務，承擔維護國家安全的主要責任，並接受中央人民政府的監督和問責。<a href="#fnref-18" class="footnote">↩</a></p>
+      </li>
+      <li id="fn-19">
+        <p>第十三條 香港特別行政區維護國家安全委員會由行政長官擔任主席，成員包括政務司長、財政司長、律政司長、保安局局長、警務處處長、本法第十六條規定的警務處維護國家安全部門的負責人、入境事務處處長、海關關長和行政長官辦公室主任。 香港特別行政區維護國家安全委員會下設秘書處，由秘書長領導。秘書長由行政長官提名，報中央人民政府任命。<a href="#fnref-19" class="footnote">↩</a></p>
+      </li>
+      <li id="fn-20">
+        <p>第十六條 香港特別行政區政府警務處設立維護國家安全的部門，配備執法力量。 警務處維護國家安全部門負責人由行政長官任命，行政長官任命前須書面徵求本法第四十八條規定的機構的意見。警務處維護國家安全部門負責人在就職時應當宣誓擁護中華人民共和國香港特別行政區基本法，效忠中華人民共和國香港特別行政區，遵守法律，保守秘密。 警務處維護國家安全部門可以從香港特別行政區以外聘請合格的專門人員和技術人員，協助執行維護國家安全相關任務。<a href="#fnref-20" class="footnote">↩</a></p>
+      </li>
+      <li id="fn-21">
+        <p>第十七條 警務處維護國家安全部門的職責為： (一) 收集分析涉及國家安全的情報信息； (二) 部署、協調、推進維護國家安全的措施和行動； (三) 調查危害國家安全犯罪案件； (四) 進行反干預調查和開展國家安全審查； (五) 承辦香港特別行政區維護國家安全委員會交辦的維護國家安全工作； (六) 執行本法所需的其他職責。<a href="#fnref-21" class="footnote">↩</a></p>
+      </li>
+      <li id="fn-22">
+        <p>第三十八條 不具有香港特別行政區永久性居民身份的人在香港特別行政區以外針對香港特別行政區實施本法規定的犯罪的，適用本法。<a href="#fnref-22" class="footnote">↩</a></p>
+      </li>
+      <li id="fn-23">
+        <p>中华人民共和国刑法第八条 外国人在中华人民共和国领域外对中华人民共和国国家或者公民犯罪，而按本法规定的最低刑为三年以上有期徒刑的，可以适用本法，但是按照犯罪地的法律不受处罚的除外。<a href="#fnref-23" class="footnote">↩</a></p>
+      </li>
+      <li id="fn-24">
+        <p><a href="https://www.elegislation.gov.hk/hk/cap575%21en-zh-Hant-HK?INDEX_CS=N">《聯合國(反恐怖主義措施)條例》</a><a href="#fnref-24" class="footnote">↩</a></p>
+      </li>
+    </ol>
+  </section>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#The Sociologist 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-05/%E7%BA%A6%E7%BF%B0%E9%9C%8D%E6%99%AE%E9%87%91%E6%96%AF%E5%A4%A7%E5%AD%A6%E9%AB%98%E7%AD%89%E5%9B%BD%E9%99%85%E7%A0%94%E7%A9%B6%E9%99%A2-SAIS-%E4%B8%AD%E5%9B%BD%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83%E5%8E%BB%E5%B9%B4-9-%E6%9C%88%E6%B1%87%E7%BC%96%E5%87%BA%E7%89%88%E4%BA%86-Studying-Ch/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2019-05-25/Hello,-World!-%E7%A4%BE%E4%BC%9A%E5%AD%A6%E4%BA%BA/">最早</a>--</span>
+    
+      <li>
+        <time>2020-07-07</time>
+        <a href="https://nodebe4.github.io/opinion/2020-07-07/Das-Weltb%C3%BCrgerrecht-soll-auf-Bedingungen-der-allge/">
+          Das Weltbürgerrecht soll auf Bedingungen der allgemeinen Hospitalität eingeschränkt sein.近期美国收紧留学签证政策，英国扩大对持 BN(O) 香港人定居和
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-07-04</time>
+        <a href="https://nodebe4.github.io/opinion/2020-07-04/%E4%B8%80%E7%AF%87%E7%AA%81%E7%84%B6%E7%9A%84%E5%85%AD%E5%9B%9B%E5%9B%9E%E5%BF%86%E7%9A%84%E7%94%B0%E9%87%8E%E7%AC%94%E8%AE%B0/">
+          一篇突然的六四回忆的田野笔记
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-07-01</time>
+        <a href="https://nodebe4.github.io/opinion/2020-07-01/%E9%96%8B%E6%94%BE%E6%95%B8%E6%93%9A-%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2020%E5%B9%B47%E6%9C%881%E6%97%A5-%E4%B8%8B%E5%8D%886-002019%E5%B9%B41%E6%9C%881%E6%97%A5%E8%87%B32020%E5%B9%B46%E6%9C%8830%E6%97%A5/">
+          🖼【開放數據】更新日期：2020年7月1日 下午6:002019年1月1日至2020年6月30日，自殺及企圖自殺個案資料合共1551條及有效來源網址，歡迎讀指出錯誤或任何漏缺，
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-07-01</time>
+        <a href="https://nodebe4.github.io/opinion/2020-07-01/Le-Suicide-%C3%A0-Hong-Kong/">
+          Le Suicide à Hong Kong ↓
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2020-07-01/%E9%A6%99%E6%B8%AF%E5%9B%BD%E5%AE%89%E6%B3%95%E7%9A%84%E5%87%A0%E7%82%B9%E7%AC%94%E8%AE%B0/">
+            前一篇：香港国安法的几点笔记
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2020-07-01/CUP-%E5%AA%92%E9%AB%94-%E5%B0%88%E8%A8%AA%E9%A3%9F%E7%89%A9%E9%80%A0%E5%9E%8B%E5%B8%AB-%E4%B8%8B-%E4%BF%AE%E7%85%8940%E5%B9%B4%E7%9A%84%E6%9C%80%E9%AB%98%E8%BF%BD%E6%B1%82/">
+            後一篇：【CUP 媒體】專訪食物造型師（下）修煉40年的最高追求
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2020-07-01/%E9%A6%99%E6%B8%AF%E5%9B%BD%E5%AE%89%E6%B3%95%E7%9A%84%E5%87%A0%E7%82%B9%E7%AC%94%E8%AE%B0/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2020-07-01/CUP-%E5%AA%92%E9%AB%94-%E5%B0%88%E8%A8%AA%E9%A3%9F%E7%89%A9%E9%80%A0%E5%9E%8B%E5%B8%AB-%E4%B8%8B-%E4%BF%AE%E7%85%8940%E5%B9%B4%E7%9A%84%E6%9C%80%E9%AB%98%E8%BF%BD%E6%B1%82/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2020-07-04/%E4%B8%80%E7%AF%87%E7%AA%81%E7%84%B6%E7%9A%84%E5%85%AD%E5%9B%9B%E5%9B%9E%E5%BF%86%E7%9A%84%E7%94%B0%E9%87%8E%E7%AC%94%E8%AE%B0/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2020-07-01/%E9%96%8B%E6%94%BE%E6%95%B8%E6%93%9A-%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2020%E5%B9%B47%E6%9C%881%E6%97%A5-%E4%B8%8B%E5%8D%886-002019%E5%B9%B41%E6%9C%881%E6%97%A5%E8%87%B32020%E5%B9%B46%E6%9C%8830%E6%97%A5/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2020-07-01/%E9%A6%99%E6%B8%AF%E5%9B%BD%E5%AE%89%E6%B3%95%E7%9A%84%E5%87%A0%E7%82%B9%E7%AC%94%E8%AE%B0/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2020-07-01/CUP-%E5%AA%92%E9%AB%94-%E5%B0%88%E8%A8%AA%E9%A3%9F%E7%89%A9%E9%80%A0%E5%9E%8B%E5%B8%AB-%E4%B8%8B-%E4%BF%AE%E7%85%8940%E5%B9%B4%E7%9A%84%E6%9C%80%E9%AB%98%E8%BF%BD%E6%B1%82/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<The Sociologist>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2020-07-04/%E4%B8%80%E7%AF%87%E7%AA%81%E7%84%B6%E7%9A%84%E5%85%AD%E5%9B%9B%E5%9B%9E%E5%BF%86%E7%9A%84%E7%94%B0%E9%87%8E%E7%AC%94%E8%AE%B0/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<The Sociologist>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2020-07-01/%E9%96%8B%E6%94%BE%E6%95%B8%E6%93%9A-%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2020%E5%B9%B47%E6%9C%881%E6%97%A5-%E4%B8%8B%E5%8D%886-002019%E5%B9%B41%E6%9C%881%E6%97%A5%E8%87%B32020%E5%B9%B46%E6%9C%8830%E6%97%A5/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

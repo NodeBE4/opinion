@@ -1,0 +1,2370 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>theoryofdoom在2022-03-07~2022-03-13的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="theoryofdoom在2022-03-07~2022-03-13的言论" />
+    <meta property="twitter:title" content="theoryofdoom在2022-03-07~2022-03-13的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2Fgeopolitics%2Fcomments%2Ft8axkd%2Fputins_pointless_and_brutal_attack_on_ukraine_has%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/geopolitics/comments/t8axkd/putins_pointless_and_brutal_attack_on_ukraine_has/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/geopolitics/comments/t8axkd/putins_pointless_and_brutal_attack_on_ukraine_has/&text=theoryofdoom在2022-03-07~2022-03-13的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/geopolitics/comments/t8axkd/putins_pointless_and_brutal_attack_on_ukraine_has/&title=theoryofdoom在2022-03-07~2022-03-13的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/geopolitics/comments/t8axkd/putins_pointless_and_brutal_attack_on_ukraine_has/&title=theoryofdoom在2022-03-07~2022-03-13的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=theoryofdoom在2022-03-07~2022-03-13的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/geopolitics/comments/t8axkd/putins_pointless_and_brutal_attack_on_ukraine_has/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/geopolitics/comments/t8axkd/putins_pointless_and_brutal_attack_on_ukraine_has/&title=theoryofdoom在2022-03-07~2022-03-13的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=theoryofdoom在2022-03-07~2022-03-13的言论&url=https://old.reddit.com/r/geopolitics/comments/t8axkd/putins_pointless_and_brutal_attack_on_ukraine_has/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>theoryofdoom在2022-03-07~2022-03-13的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-03-13
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: theoryofdoom</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/geopolitics/comments/t8axkd/putins_pointless_and_brutal_attack_on_ukraine_has/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#156-putins-pointless-and-brutal-attack-on-ukraine-has-heralded-a-new-era-in-europe-denmark-to-hold-referendum-on-joining-eu-defence-submitted-on-2022-03-07-0703250800" id="markdown-toc-156-putins-pointless-and-brutal-attack-on-ukraine-has-heralded-a-new-era-in-europe-denmark-to-hold-referendum-on-joining-eu-defence-submitted-on-2022-03-07-0703250800">156: “Putin’s pointless and brutal attack on Ukraine has heralded a new era in Europe”. Denmark to hold referendum on joining EU defence, submitted on 2022-03-07 07:03:25+08:00.</a></li>
+  <li><a href="#157-this-war-will-be-a-total-failure-fsb-whistleblower-says-submitted-on-2022-03-07-2035450800" id="markdown-toc-157-this-war-will-be-a-total-failure-fsb-whistleblower-says-submitted-on-2022-03-07-2035450800">157: This war will be a total failure, FSB whistleblower says, submitted on 2022-03-07 20:35:45+08:00.</a></li>
+  <li><a href="#158-going-into-year-3-of-covid-19-in-chicago-the-new-message-is-adaptability-submitted-on-2022-03-08-0626350800" id="markdown-toc-158-going-into-year-3-of-covid-19-in-chicago-the-new-message-is-adaptability-submitted-on-2022-03-08-0626350800">158: Going into year 3 of COVID-19 in Chicago, the new message is adaptability, submitted on 2022-03-08 06:26:35+08:00.</a></li>
+  <li><a href="#159-cps-to-update-covid-policy-go-mask-optional-beginning-next-week-submitted-on-2022-03-08-0649570800" id="markdown-toc-159-cps-to-update-covid-policy-go-mask-optional-beginning-next-week-submitted-on-2022-03-08-0649570800">159: CPS to Update COVID Policy, Go Mask-Optional Beginning Next Week, submitted on 2022-03-08 06:49:57+08:00.</a></li>
+  <li><a href="#160-turkish-drone-success-in-ukraine-sets-stage-for-asia-roadshow-submitted-on-2022-03-08-1857430800" id="markdown-toc-160-turkish-drone-success-in-ukraine-sets-stage-for-asia-roadshow-submitted-on-2022-03-08-1857430800">160: Turkish drone success in Ukraine sets stage for Asia roadshow, submitted on 2022-03-08 18:57:43+08:00.</a></li>
+  <li><a href="#161-i-guess-the-golden-arches-theory-of-conflict-prevention-still-holds-submitted-on-2022-03-09-0920210800" id="markdown-toc-161-i-guess-the-golden-arches-theory-of-conflict-prevention-still-holds-submitted-on-2022-03-09-0920210800">161: I guess the Golden Arches theory of conflict prevention still holds, submitted on 2022-03-09 09:20:21+08:00.</a></li>
+  <li><a href="#162-cmv-age-of-consent-in-the-usa-should-be-federally-mandated-at-18-years-old-across-all-50-states-submitted-on-2022-03-10-0418360800" id="markdown-toc-162-cmv-age-of-consent-in-the-usa-should-be-federally-mandated-at-18-years-old-across-all-50-states-submitted-on-2022-03-10-0418360800">162: CMV: Age of consent in the USA should be federally mandated at 18 years old across all 50 states., submitted on 2022-03-10 04:18:36+08:00.</a></li>
+  <li><a href="#163-cmv-gas-prices-going-higher-are-good-for-society-submitted-on-2022-03-10-0705590800" id="markdown-toc-163-cmv-gas-prices-going-higher-are-good-for-society-submitted-on-2022-03-10-0705590800">163: CMV: Gas prices going higher are good for society, submitted on 2022-03-10 07:05:59+08:00.</a></li>
+  <li><a href="#164-is-this-an-appropriate-meal-to-make-for-afghan-refugees-in-the-us-submitted-on-2022-03-10-0832060800" id="markdown-toc-164-is-this-an-appropriate-meal-to-make-for-afghan-refugees-in-the-us-submitted-on-2022-03-10-0832060800">164: Is this an appropriate meal to make for Afghan refugees in the US?, submitted on 2022-03-10 08:32:06+08:00.</a></li>
+  <li><a href="#165-why-did-russia-not-escalate-when-latvia-lithuania-estonia-joining-nato-submitted-on-2022-03-10-1822100800" id="markdown-toc-165-why-did-russia-not-escalate-when-latvia-lithuania-estonia-joining-nato-submitted-on-2022-03-10-1822100800">165: Why did Russia not escalate when Latvia, Lithuania, Estonia joining NATO?, submitted on 2022-03-10 18:22:10+08:00.</a></li>
+  <li><a href="#166-what-sweets-do-they-have-in-afghanistan-submitted-on-2022-03-10-2345410800" id="markdown-toc-166-what-sweets-do-they-have-in-afghanistan-submitted-on-2022-03-10-2345410800">166: What sweets do they have in Afghanistan?, submitted on 2022-03-10 23:45:41+08:00.</a></li>
+  <li><a href="#167-unofficial-daily-update-for-2022-03-10-1398-new-cases-submitted-on-2022-03-11-0205050800" id="markdown-toc-167-unofficial-daily-update-for-2022-03-10-1398-new-cases-submitted-on-2022-03-11-0205050800">167: Unofficial Daily Update for 2022-03-10. 1398 New Cases., submitted on 2022-03-11 02:05:05+08:00.</a></li>
+  <li><a href="#168-extraordinary-fidelity---the-story-of-john-downey-and-richard-fecteau-two-cia-agents-held-prisoner-for-20-years-by-the-peoples-republic-of-china-submitted-on-2022-03-11-0232250800" id="markdown-toc-168-extraordinary-fidelity---the-story-of-john-downey-and-richard-fecteau-two-cia-agents-held-prisoner-for-20-years-by-the-peoples-republic-of-china-submitted-on-2022-03-11-0232250800">168: Extraordinary Fidelity - The story of John Downey and Richard Fecteau, two CIA agents held prisoner for 20 years by the People’s Republic of China, submitted on 2022-03-11 02:32:25+08:00.</a></li>
+  <li><a href="#169-question-about-borders-submitted-on-2022-03-12-0327000800" id="markdown-toc-169-question-about-borders-submitted-on-2022-03-12-0327000800">169: Question about borders, submitted on 2022-03-12 03:27:00+08:00.</a></li>
+  <li><a href="#170-your-tax-dollars-at-work-submitted-on-2022-03-12-0527560800" id="markdown-toc-170-your-tax-dollars-at-work-submitted-on-2022-03-12-0527560800">170: Your tax dollars at work…, submitted on 2022-03-12 05:27:56+08:00.</a></li>
+  <li><a href="#171-bennett-advises-zelensky-to-surrender-to-russia-zelensky-refuses-submitted-on-2022-03-12-0848470800" id="markdown-toc-171-bennett-advises-zelensky-to-surrender-to-russia-zelensky-refuses-submitted-on-2022-03-12-0848470800">171: Bennett advises Zelensky to surrender to Russia, Zelensky refuses, submitted on 2022-03-12 08:48:47+08:00.</a></li>
+  <li><a href="#172-how-much-caffeine-do-you-usually-have-in-a-day-submitted-on-2022-03-12-1054550800" id="markdown-toc-172-how-much-caffeine-do-you-usually-have-in-a-day-submitted-on-2022-03-12-1054550800">172: How much caffeine do you usually have in a day?, submitted on 2022-03-12 10:54:55+08:00.</a></li>
+  <li><a href="#173-a-medical-ethicist-is-claiming-russia-must-be-deprived-of-life-saving-medicine-for-its-citizens-because-that-would-be-ethic-submitted-on-2022-03-13-0406150800" id="markdown-toc-173-a-medical-ethicist-is-claiming-russia-must-be-deprived-of-life-saving-medicine-for-its-citizens-because-that-would-be-ethic-submitted-on-2022-03-13-0406150800">173: A medical ethicist is claiming Russia must be deprived of life-saving medicine for its citizens, because that would be ethic, submitted on 2022-03-13 04:06:15+08:00.</a></li>
+</ul>
+
+<h3 id="156-putins-pointless-and-brutal-attack-on-ukraine-has-heralded-a-new-era-in-europe-denmark-to-hold-referendum-on-joining-eu-defence-submitted-on-2022-03-07-0703250800">156: <a href="https://old.reddit.com/r/geopolitics/comments/t8axkd/putins_pointless_and_brutal_attack_on_ukraine_has/">“Putin’s pointless and brutal attack on Ukraine has heralded a new era in Europe”. Denmark to hold referendum on joining EU defence</a>, submitted on 2022-03-07 07:03:25+08:00.</h3>
+
+<p>—– <strong>156.1</strong> —–2022-03-07 20:34:23+08:00:</p>
+
+<p>This is the title:</p>
+
+<blockquote>
+  <p>Denmark to hold referendum on scrapping EU defence opt-out</p>
+</blockquote>
+
+<p>This is not the title:</p>
+
+<blockquote>
+  <p>“Putin’s pointless and brutal attack on Ukraine has heralded a new era in Europe”. Denmark to hold referendum on joining EU defence</p>
+</blockquote>
+
+<p>This was a good article and you managed to prepare an acceptable submission statement.  But, you chose to alter the title for some reason?</p>
+
+<p>See submission guidelines.</p>
+
+<h3 id="157-this-war-will-be-a-total-failure-fsb-whistleblower-says-submitted-on-2022-03-07-2035450800">157: <a href="https://old.reddit.com/r/geopolitics/comments/t8o9og/this_war_will_be_a_total_failure_fsb/">This war will be a total failure, FSB whistleblower says</a>, submitted on 2022-03-07 20:35:45+08:00.</h3>
+
+<p>—– <strong>157.1</strong> —–2022-03-07 20:35:56+08:00:</p>
+
+<p>No Paywall: https://archive.ph/5s400</p>
+
+<p>—– <strong>157.2</strong> —–2022-03-07 20:49:51+08:00:</p>
+
+<p>Submission Statement:</p>
+
+<p>The FSB is one of the KGB’s successor agency.  According to purported intelligence sources inside the FSB, Vladimir Putin’s war in Ukraine was doomed to fail from its instantiation — evidence of which abounds.  Russian casualties may exceed 10,000.  While only 498 fatalities in combat are acknowledged by the Russian defense ministry, the true number could be even higher than the 10,000-death estimate because contact has been lost with major Russian army divisions.  Even Ramzan Kadyrov’s “hit squad” has been massacred by Ukrainians.  Kadyrov is a Chechen terrorist leader supported by Vladimir Putin’s government.</p>
+
+<p>According to sources inside the FSB, Vladimir Putin’s government’s inept performance appears to be the result of his own delusions and Soviet-reminiscent tail-wagging-the-dog type mismanagement:</p>
+
+<blockquote>
+  <p>You have to write the analysis in a way that makes Russia the victor . . . otherwise you get questioned for not doing good work.  Suddenly it happens and everything comes down to your completely groundless analysis.  [We are] acting intuitively, on emotion . . . our stakes will have to be raised ever higher with the hope that suddenly something might come through for us.  By and large, though, Russia has no way out. There are no options for a possible victory, only defeat.</p>
+</blockquote>
+
+<p>—– <strong>157.3</strong> —–2022-03-07 20:56:07+08:00:</p>
+
+<p>Submission Statement:</p>
+
+<p>The FSB is one of the KGB’s successor agencies.  According to purported intelligence sources inside the FSB, Vladimir Putin’s war in Ukraine was doomed to fail from its instantiation — evidence of which abounds.  Russian casualties may exceed 10,000.  While only 498 fatalities in combat are acknowledged by the Russian defense ministry, the true number could be even higher than the 10,000-death estimate because contact has been lost with major Russian army divisions.  Even Ramzan Kadyrov’s “hit squad” has been massacred by Ukrainians.  Kadyrov is a Chechen terrorist leader supported by Vladimir Putin’s government.</p>
+
+<p>According to sources inside the FSB, Vladimir Putin’s government’s inept performance appears to be the result of his own delusions and Soviet-reminiscent tail-wagging-the-dog type mismanagement:</p>
+
+<blockquote>
+  <p>You have to write the analysis in a way that makes Russia the victor . . . otherwise you get questioned for not doing good work.  Suddenly it happens and everything comes down to your completely groundless analysis.  [We are] acting intuitively, on emotion . . . our stakes will have to be raised ever higher with the hope that suddenly something might come through for us.  By and large, though, Russia has no way out. There are no options for a possible victory, only defeat.</p>
+</blockquote>
+
+<p>—– <strong>157.4</strong> —–2022-03-08 07:54:07+08:00:</p>
+
+<p>Still works for me.  Search the original link on archive.is if you can’t open this one.</p>
+
+<p>—– <strong>157.5</strong> —–2022-03-08 09:56:26+08:00:</p>
+
+<blockquote>
+  <p>an outright re-igniting of the Chechen wars.</p>
+</blockquote>
+
+<p>This is unlikely, since Kadyrov owes his position to Putin.  But I have, frankly, been shocked to find Kadyrov’s Chechen fighters have proven so inept.  Some believed them to be Eastern Europe’s <a href="https://www.grunge.com/338917/why-gurkhas-are-considered-the-toughest-soldiers-in-the-world/">Gurkhas</a>.</p>
+
+<h3 id="158-going-into-year-3-of-covid-19-in-chicago-the-new-message-is-adaptability-submitted-on-2022-03-08-0626350800">158: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/t91c30/going_into_year_3_of_covid19_in_chicago_the_new/">Going into year 3 of COVID-19 in Chicago, the new message is adaptability</a>, submitted on 2022-03-08 06:26:35+08:00.</h3>
+
+<p>—– <strong>158.1</strong> —–2022-03-09 20:29:45+08:00:</p>
+
+<blockquote>
+  <p>The Democrats are the forever-maskers, though.  These two groups of people have gone hand-in-glove up until about three weeks ago. The Dems would/will go back to masks and restrictions again in an instant if they thought it was politically viable to do so. Keep that in mind this November, regardless of what the COVID situation may look like this spring, summer, or early fall.</p>
+</blockquote>
+
+<p>Not exactly.  You’re certainly correct that a cohort of democrats fall into the category of “forever maskers,” but the overwhelming majority of actual democratic voters realize that masks and associated mandates were little more than theatrical.  Maybe they didn’t see that at first, but their perspectives changed as time went on and forecasted COVID-related armageddon failed to materialize when other states dropped their mandates.  What changed about three weeks ago, as you note, wasn’t what democrats believed or didn’t believe, though.  What changed was what many were willing to acknowledge in public.  The pressure to conform to certain proclaimed norms in this pandemic resulted in many ignoring what was right in front of them; going along to get along, just to avoid meeting the fate of those who questioned whatever the current official line happened to be at any given point in time.</p>
+
+<p>At this time, only a much, much narrower cohort of still believes that mask-wearing makes a difference to community spread and/or their individual susceptibility to infection — with or without regard to vaccination status.  That cohort’s beliefs are unlikely to be changed by the presence or absence of any evidence, for several reasons.  First, that cohort only came to believe masks mattered due to media reports, based on speculation or outright misrepresentation.  Second, that cohort lacks the ability to independently recognize, much less understand, what constitutes evidence for or against their beliefs.  Third, that cohort’s commitment to the idea of masks and mask efficacy has seemingly more to do with masks’ subjective psychological effect than anything empirical.  So arguing with them is kind of like arguing against Gwyneth Paltrow, on the matter of whether her “healing crystals” work as advertised.  Keep in mind, however, that most of these people were trying — yes, actually trying — to do what they <em>really believed</em> to be “their part” to “stop the pandemic.”  Because that’s what they were told by “the Science” himself, Anthony Fauci.  Notice how conspicuously absent he’s been in the media, lately?  But I digress.</p>
+
+<blockquote>
+  <p>We absolutely should not trust these people regarding the masks. They already brought them back once when there was no need to. Apart from politics, there is absolutely no reason to think they won’t do it again. They do not get the benefit of the doubt about this.</p>
+</blockquote>
+
+<p>I don’t disagree, but there’s something a lot bigger at stake here.  What is at stake isn’t limited to re-imposition of mask or vaccine mandates, or other such nonsense.  Rather, what is at stake is the same as it was after 9/11 when establishment-type political whores massively expanded the scope of government power (e.g., forced the Patriot Act through congress, redefined the word “torture” to accommodate their so-called “war on terror” and the like) while vitiating Americans’ most basic civil liberties (e.g., the right not to be subjected to persistent government surveillance, the right to habeas corpus and etc.).</p>
+
+<p>The issue presented by both mask mandates and other “public policy” measures that were based on either speculation or outright fraud in this pandemic relates to the nature of what kind of relationship we ought to have between the state and individuals.</p>
+
+<p>Here’s the issue:  When and under what circumstances should unelected technocrats be allowed to set public public policy?  That’s the issue we need to come to a consensus on, including in view of the technocrats’ performance over the COVID-19 pandemic.  To begin to assess that question, a public inquiry into their decisions must follow at least at the federal level.  Should an “emergency” ever be used for the purpose of expanding government power, ever?  Neil Gorsuch’s concurrence in the employer vaccine-mandate case explains why this matters.  If we allow the scope of the federal government’s power to be expanded in the face of each new emergency, we incentivize persistent states of emergency in a slow-moving march to authoritarianism.</p>
+
+<p>The point is that civil liberty isn’t negotiable.  Nor are fundamental, constitutionally guaranteed rights (e.g., freedom of speech, press and assembly) contingent upon the purported absence of any extant public emergency.</p>
+
+<h3 id="159-cps-to-update-covid-policy-go-mask-optional-beginning-next-week-submitted-on-2022-03-08-0649570800">159: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/t91v98/cps_to_update_covid_policy_go_maskoptional/">CPS to Update COVID Policy, Go Mask-Optional Beginning Next Week</a>, submitted on 2022-03-08 06:49:57+08:00.</h3>
+
+<p>—– <strong>159.1</strong> —–2022-03-09 19:54:58+08:00:</p>
+
+<p>Your argument is that if you’re not directly impacted by a public policy change, then you have no right to weigh in on it?</p>
+
+<p>Or were you just looking to move the goalpost?</p>
+
+<h3 id="160-turkish-drone-success-in-ukraine-sets-stage-for-asia-roadshow-submitted-on-2022-03-08-1857430800">160: <a href="https://old.reddit.com/r/geopolitics/comments/t9ebvr/turkish_drone_success_in_ukraine_sets_stage_for/">Turkish drone success in Ukraine sets stage for Asia roadshow</a>, submitted on 2022-03-08 18:57:43+08:00.</h3>
+
+<p>—– <strong>160.1</strong> —–2022-03-08 19:57:04+08:00:</p>
+
+<p>Post the article with the correct title.  The text you have here is the start of a submission statement.</p>
+
+<h3 id="161-i-guess-the-golden-arches-theory-of-conflict-prevention-still-holds-submitted-on-2022-03-09-0920210800">161: <a href="https://old.reddit.com/r/geopolitics/comments/t9w4m3/i_guess_the_golden_arches_theory_of_conflict/">I guess the Golden Arches theory of conflict prevention still holds</a>, submitted on 2022-03-09 09:20:21+08:00.</h3>
+
+<p>—– <strong>161.1</strong> —–2022-03-09 11:34:10+08:00:</p>
+
+<p>No editorialized titles.</p>
+
+<h3 id="162-cmv-age-of-consent-in-the-usa-should-be-federally-mandated-at-18-years-old-across-all-50-states-submitted-on-2022-03-10-0418360800">162: <a href="https://old.reddit.com/r/changemyview/comments/tagkie/cmv_age_of_consent_in_the_usa_should_be_federally/">CMV: Age of consent in the USA should be federally mandated at 18 years old across all 50 states.</a>, submitted on 2022-03-10 04:18:36+08:00.</h3>
+
+<p>—– <strong>162.1</strong> —–2022-03-10 08:01:16+08:00:</p>
+
+<blockquote>
+  <p>However, the federal government can be like “Do this thing or we withhold federal funding”.</p>
+</blockquote>
+
+<p>The scope of federal regulatory authority is constitutionally limited, in such a way that absent specific constitutional authorization to do something the states retain that power.  Generally, the commerce clause is one of the broadest sources of congressional authority.  The Supreme Court struck down federal laws relating to violence against women, as falling outside the scope of what the commerce clause authorizes to be regulated.  The idea of regulating the age of consent seems like it would be outside the scope of at least the commerce clause, for similar reasons.  Whether there’s another power Congress could find its authority in, I don’t know.  But I doubt it.  That means that, most likely, even if congress said “raise the age of consent to 18 or we’ll withhold highway funding,” (compare to how we got drinking ages to 21, for example) it would probably fail judicial scrutiny.  The difference is that consumption of alcohol is an economic activity, whereas having sex isn’t.</p>
+
+<p>—– <strong>162.2</strong> —–2022-03-10 21:11:06+08:00:</p>
+
+<p>Prostitution is the oldest “profession” (read: an economic activity).  You may not be aware, but there’s a difference between prostitution and having sex.  Unless you’re one of those incels who can’t get laid without paying for it, sex is not an economic activity.</p>
+
+<h3 id="163-cmv-gas-prices-going-higher-are-good-for-society-submitted-on-2022-03-10-0705590800">163: <a href="https://old.reddit.com/r/changemyview/comments/tak7s1/cmv_gas_prices_going_higher_are_good_for_society/">CMV: Gas prices going higher are good for society</a>, submitted on 2022-03-10 07:05:59+08:00.</h3>
+
+<p>—– <strong>163.1</strong> —–2022-03-10 08:08:54+08:00:</p>
+
+<p>Higher energy costs means that everything is more expensive, most importantly food which will invariably hurt human life and wellbeing far more than it will help reduce any environmental harm.</p>
+
+<p>So higher energy costs means that instead of a few hundred elderly people suffering heat exhaustion, many thousands more children will go hungry.  Not an acceptable tradeoff.</p>
+
+<h3 id="164-is-this-an-appropriate-meal-to-make-for-afghan-refugees-in-the-us-submitted-on-2022-03-10-0832060800">164: <a href="https://old.reddit.com/r/afghanistan/comments/talzl2/is_this_an_appropriate_meal_to_make_for_afghan/">Is this an appropriate meal to make for Afghan refugees in the US?</a>, submitted on 2022-03-10 08:32:06+08:00.</h3>
+
+<p>—– <strong>164.1</strong> —–2022-03-11 13:28:17+08:00:</p>
+
+<p>Making sure you are preparing halal meat is the important thing, if you are serving meat.  You don’t have too, could be eggplant (or something eggplant-based, like borani banjan, which is a spicy roasted eggplant dish), chickpeas, lintels or something else substantial.</p>
+
+<p>Halal guys is good stuff, but it’s basically fast food.  In my opinion, however, nothing says hospitality like grilled meat.  You might try to simplify, though.</p>
+
+<p>You can grill good kebabs on a normal grill, just need to be careful not to burn.  I do not measure, but for 2 lbs of <em>ground</em> lamb (or beef), I’d probably put in three or four crushed cloves of garlic, half a grated onion/onion juice, the juice of a regular ripe lemon, coriander seeds, salt and pepper to taste.  Grill to medium well as hot as you can get your grill.</p>
+
+<p>Consider adding cumin if you like it.  But if you don’t, then don’t bother.  I would probably add Aleppo pepper but you may not be able to find that and it’s not “traditional,” but it’s good.  More traditionally, you might add half a minced jalapeno or something.</p>
+
+<p>I wouldn’t serve with sauce, just sumac and/or lemon juice.  Sumac is hard to find sometimes, depending on where you live, but it is the best condiment for grilled meat ever.  But I think your guests would like the cilantro-based green sauce which I cannot recall the name of, or something yogurt-based.</p>
+
+<p>I would serve with bread (pitas, naan, whatever, just buy it don’t make it), salad, hummus, (good) feta cheese, fresh sliced onions, sliced radish, parsley and mint; and maybe something else.  This is kind of more Persian style summer meal, but it’s easier and preferable to some of the heavier, more traditional alternatives in my opinion.</p>
+
+<p>For salad, I’d probably toss together something with diced tomatoes, diced red onion, minced cilantro, torn parsley, fresh mint, diced cucumber, lemon or lime juice, olive oil and salt.</p>
+
+<p>Most might serve with rice, but frankly Afghan rice dishes are too complicated for me and I prefer Persian-style dill-based rice dishes, if I’m going to eat that many carbs.</p>
+
+<p>For after, I’d probably serve dates with hot black tea (with sugar available for guests to add to their liking).  Maybe candied almonds if I could find them.  Alternatively, baklava would almost certainly be appreciated.</p>
+
+<p>Aim for familiar flavor profiles, but some Afghan dishes are really complicated.</p>
+
+<h3 id="165-why-did-russia-not-escalate-when-latvia-lithuania-estonia-joining-nato-submitted-on-2022-03-10-1822100800">165: <a href="https://old.reddit.com/r/geopolitics/comments/tavpto/why_did_russia_not_escalate_when_latvia_lithuania/">Why did Russia not escalate when Latvia, Lithuania, Estonia joining NATO?</a>, submitted on 2022-03-10 18:22:10+08:00.</h3>
+
+<p>—– <strong>165.1</strong> —–2022-03-13 02:39:24+08:00:</p>
+
+<p>Latvia, Lithuania and Estonia do not have the same economic or strategic significance of Ukraine.</p>
+
+<h3 id="166-what-sweets-do-they-have-in-afghanistan-submitted-on-2022-03-10-2345410800">166: <a href="https://old.reddit.com/r/afghanistan/comments/tb1jqs/what_sweets_do_they_have_in_afghanistan/">What sweets do they have in Afghanistan?</a>, submitted on 2022-03-10 23:45:41+08:00.</h3>
+
+<p>—– <strong>166.1</strong> —–2022-03-11 12:39:19+08:00:</p>
+
+<p>Kulche Birinjee, which are Afghan Butter Cookies.  Along the lines of spiced shortbread. 
+ Very delicious and easy to make.</p>
+
+<p>Here’s an example recipe:  https://togetherwomenrise.org/recipes/afghan-butter-cookies-kulche-birinjee-tested/</p>
+
+<p>I have had candied almonds spiced with cardamom also.  Might be worth looking into those too.</p>
+
+<h3 id="167-unofficial-daily-update-for-2022-03-10-1398-new-cases-submitted-on-2022-03-11-0205050800">167: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/tb4o5x/unofficial_daily_update_for_20220310_1398_new/">Unofficial Daily Update for 2022-03-10. 1398 New Cases.</a>, submitted on 2022-03-11 02:05:05+08:00.</h3>
+
+<p>—– <strong>167.1</strong> —–2022-03-13 01:40:42+08:00:</p>
+
+<p>Such stunning stunning incompetence of the alleged public health officials and so called political leaders.</p>
+
+<h3 id="168-extraordinary-fidelity---the-story-of-john-downey-and-richard-fecteau-two-cia-agents-held-prisoner-for-20-years-by-the-peoples-republic-of-china-submitted-on-2022-03-11-0232250800">168: <a href="https://old.reddit.com/r/geopolitics/comments/tb5adw/extraordinary_fidelity_the_story_of_john_downey/">Extraordinary Fidelity - The story of John Downey and Richard Fecteau, two CIA agents held prisoner for 20 years by the People’s Republic of China</a>, submitted on 2022-03-11 02:32:25+08:00.</h3>
+
+<p>—– <strong>168.1</strong> —–2022-03-11 10:11:27+08:00:</p>
+
+<p>Very interesting, but not appropriate here.  Try /r/craftofintelligence.</p>
+
+<h3 id="169-question-about-borders-submitted-on-2022-03-12-0327000800">169: <a href="https://old.reddit.com/r/geopolitics/comments/tbxzrx/question_about_borders/">Question about borders</a>, submitted on 2022-03-12 03:27:00+08:00.</h3>
+
+<p>—– <strong>169.1</strong> —–2022-03-12 13:05:27+08:00:</p>
+
+<p>Post in one of the megathreads.</p>
+
+<h3 id="170-your-tax-dollars-at-work-submitted-on-2022-03-12-0527560800">170: <a href="https://old.reddit.com/r/walkaway/comments/tc0l2l/your_tax_dollars_at_work/">Your tax dollars at work…</a>, submitted on 2022-03-12 05:27:56+08:00.</h3>
+
+<p>—– <strong>170.1</strong> —–2022-03-12 11:57:19+08:00:</p>
+
+<p>Well they’ve already prioritized the content creators on CNN, MSNBC and other apparatuses of consent manufacturing.  Might as well get the cohort that’s not paying attention to those channels too.</p>
+
+<h3 id="171-bennett-advises-zelensky-to-surrender-to-russia-zelensky-refuses-submitted-on-2022-03-12-0848470800">171: <a href="https://old.reddit.com/r/geopolitics/comments/tc4m4o/bennett_advises_zelensky_to_surrender_to_russia/">Bennett advises Zelensky to surrender to Russia, Zelensky refuses</a>, submitted on 2022-03-12 08:48:47+08:00.</h3>
+
+<p>—– <strong>171.1</strong> —–2022-03-12 12:59:40+08:00:</p>
+
+<p>Report potential misinformation or improper influence accounts to moderation, via the report button or modmail.  Do not derail conversations with speculation.</p>
+
+<p>—– <strong>171.2</strong> —–2022-03-12 13:02:07+08:00:</p>
+
+<p>This thread is locked.  Numerous bans for the most basic rule violations, primarily profanity.  Come on, now.</p>
+
+<p>—– <strong>171.3</strong> —–2022-03-13 01:01:41+08:00:</p>
+
+<p>Good catch.  Thanks!</p>
+
+<h3 id="172-how-much-caffeine-do-you-usually-have-in-a-day-submitted-on-2022-03-12-1054550800">172: <a href="https://old.reddit.com/r/GYM/comments/tc6tqm/how_much_caffeine_do_you_usually_have_in_a_day/">How much caffeine do you usually have in a day?</a>, submitted on 2022-03-12 10:54:55+08:00.</h3>
+
+<p>—– <strong>172.1</strong> —–2022-03-13 22:30:11+08:00:</p>
+
+<p>Yerba mate has caffeine.  Which is the whole reason I drink it all the time.</p>
+
+<p>—– <strong>172.2</strong> —–2022-03-13 22:31:22+08:00:</p>
+
+<p>More than 800 mg/day.</p>
+
+<h3 id="173-a-medical-ethicist-is-claiming-russia-must-be-deprived-of-life-saving-medicine-for-its-citizens-because-that-would-be-ethic-submitted-on-2022-03-13-0406150800">173: <a href="https://old.reddit.com/r/stupidpol/comments/tcpndw/a_medical_ethicist_is_claiming_russia_must_be/">A medical ethicist is claiming Russia must be deprived of life-saving medicine for its citizens, because that would be ethic</a>, submitted on 2022-03-13 04:06:15+08:00.</h3>
+
+<p>—– <strong>173.1</strong> —–2022-03-13 09:47:32+08:00:</p>
+
+<p>Medical ethicists are consistently the most vapid people to have obtained higher education.</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-03-20</time>
+        <a href="https://nodebe4.github.io/opinion/2022-03-20/EnclavedMicrostate/">
+          EnclavedMicrostate在2022-03-14~2022-03-20的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-03-18</time>
+        <a href="https://nodebe4.github.io/opinion/2022-03-18/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-03-14~2022-03-20的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-03-13</time>
+        <a href="https://nodebe4.github.io/opinion/2022-03-13/Spinkcat/">
+          Spinkcat在2022-03-07~2022-03-13的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-03-13</time>
+        <a href="https://nodebe4.github.io/opinion/2022-03-13/EnclavedMicrostate/">
+          EnclavedMicrostate在2022-03-07~2022-03-13的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-03-13/realcaixia/">
+            前一篇：Twitter @蔡霞: 2022-03-07~2022-03-13
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-03-13/wangdan1989/">
+            後一篇：Twitter @王丹: 2022-03-07~2022-03-13
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-03-13/realcaixia/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-03-13/wangdan1989/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-03-18/ForeignAffairsMag/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-03-13/Spinkcat/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-03-13/realcaixia/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-03-13/wangdan1989/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-03-18/ForeignAffairsMag/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-03-13/Spinkcat/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

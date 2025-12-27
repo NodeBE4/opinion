@@ -1,0 +1,3606 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>2015年2月翻墙快报（VPN Gate 和 fqrouter 双双复活） – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+
+      2015年2月翻墙快报（VPN Gate 和 fqrouter 双双复活）  
+  
+    
+      
+    
+  
+  
+     ★近期翻墙动态 
+  2月份的翻墙形势依然严峻，不过比1月份好多了。主要的变化是——VPN Gate 复活了。  其实春节前就有读者在博客评论中反馈了这个好消息。当时没有马上发博文通告大伙儿——因为俺想多考察一段时间，看看这次复活的情况如何。经过这两星期，感觉还可以。所以今天发一篇《翻墙快报》跟大伙儿说一下。 
+       
+  从来没用过 VPN Gate 的同学，先看之前那篇扫盲《  “如何翻墙”系列：扫盲 VPN Gate——分布式的 VPN 服务器  》。已经熟悉 VPN Gate 的同学，直接翻墙去它官网（  http://www.vpngate.net/cn/  ）下载安装包。如果你手头的翻墙通道比较慢，可以通过它官网提供的镜像网站下载（镜像网站【免翻墙】）。  目前还无法翻墙的同学，请看仔细看本文后面的一个章节——★不会翻墙的同学，如何获取翻墙工具？   友情提醒： 
+   如果你曾经安装过旧版本的 VPN Gate，需要先把旧版本彻底卸载（包括旧版本 VPN Gate 的网络驱动）
+           ★还有哪些翻墙工具可用？ 
+  经读者反馈以及俺本人测试，【至少】有如下几款工具还是可用滴。   
+   VPN Gate
+    （本文前面已经说过，此处不再罗嗦）   
+   TOR+meek
+    从 TOR Browser 4.0 之后，开始内置 meek 插件。该插件可以利用知名 IT 公司（亚马逊、微软）的云计算平台来规避 GFW 的封杀。  （扫盲教程在“  这里  ”）   
+   赛风3
+    1月份发布的 3.81 版本（以及之后的版本）是可用的。但是 3.81 版本有点缺陷——较大的上行流量会导致赛风断线（因为俺要进行 P2P 分享，感觉特别明显）。后来的 3.83 版本解决了这个问题。  前段时间，有读者在博客评论中担心“赛风跟朝廷串通”。此人的理由是：1月份很多翻墙工具都沦陷，赛风却依然坚挺。  俺个人认为这种可能性很小。而且这个推理过程本身就不严密。因为 TOR+meek 的方式，至今也没沦陷，难道说 TOR 也是串通的？另外，根据俺刚才提到的现象，赛风同样受到 GFW 的干扰，升级版本之后才规避了干扰。   
+   fqrouter
+    本文刚发出，就有读者提醒说，fqrouter 也复活了。  不过捏，它的复活跟 VPN Gate 不太一样。之前 fqrouter 死掉是因为作者停止开发。昨天的消息说，作者再度发布新版本啦 :)  没用过这款工具的同学，请看《  “如何翻墙”系列：fqrouter——安卓系统翻墙利器（免 ROOT）  》   
+   ShadowSocks（简称 SS）
+    据网友们反馈，一直可用。当然，前提是你自己拥有墙外的 VPS（虚拟专用服务器）。然后把 SS 部署在墙外的 VPS 上，使之成为你的翻墙代理。  SS 的稳定性极好，速度也足够快。主要缺点是——需要你花点银子购买 VPS。   
+   无界
+    目前最新的是 14.05 版本。虽然可用，但是非常不稳定。  再加上“无界”本身【不是】开源的。所以用无界，还不如用 TOR+meek 或者用复活之后的 VPN Gate。   
+   I2P
+    1月份的时候，俺测试了 I2P 0.9.17 版本，是可用的。近期没有用 I2P，估计这个版本应该还能用。  I2P 的速度比较慢，建议只留作备份（当其它工具都失效之后，用 I2P 救急）。提醒一下：你拿到 I2P 之后，先要让它补种（reseed）并运行一段时间。至于如何补种，俺的教程有介绍（参见“  这里  ”）。   因为本人的时间/精力有限，如有遗漏，大伙儿可以到博客评论中补充。         ★不会翻墙的同学，如何获取翻墙工具？ 
+  俺在1月份已经开通了【基于 BT Sync 的分布式网盘】。 
+   BT Sync 的一大优点是【免翻墙】
+   ，所以俺已经用它来分享翻墙工具。  如果你暂时还无法翻墙，可以考虑先安装 BT Sync，然后使用如下密钥，【自动】同步俺分享的【多款翻墙软件】。       各种翻墙软件的同步密钥 BTLZ4A4UD3PEWKPLLWEOKH3W7OQJKFPLG    
+  从来没用过 BT Sync 的同学，请先看《  扫盲 BT Sync——不仅是同步利器，而且是【分布式】网盘  》。  （虽然俺博客已经被 GFW 彻底封杀，但是你可以通过博客阅读器，看到这篇教程）         ★插一段题外话——关于“自我审查/自我阉割” 
+  今天看到新闻——小有名气的技术社区 V2EX 也被 GFW 封了。  以下引述 V2EX 创始人刘昕（@Livid ）的一段话（粗体是俺加的）      
+在听到这件事情的时候，我并没有觉得特别惊讶，因为类似的事情，在 2007 年 9 月时，其实已经经历了一次。  两次我都觉得挺莫名其妙的。  V2EX 二次上线之后，我确实在内容方面一直在尝试做一些平衡，比如 VPN 方面的内容很早就不会上首页，shadowsocks 相关的内容也在最近进了隐藏节点。我内心当然还是希望能够平静过一天算是一天，这些翻墙方面的内容，在我们整个流量中的比率其实不到 1%，我当然不想因为这些 1% 的内容而遇到今天这样的事情。  
+    这是一种自我审查吗？是，当然是。为此我也被不少人骂过。这些事情我自己也一直觉得挺恶心的。
+    
+    但是，该来的这一天还是来了。
+       
+  从这个事儿可以看出——在天朝，即使你愿意自我审查（直白地说，就是“自我阉割”），也【不能】保证你就没事儿。  俺经常引用一句话：“ 
+   你可以不关心政治，但是政治一定会来关心你
+   ”。俺希望大伙儿明白——不推翻这个奇葩的政治体制，【每个墙内的人】都会受到伤害——差别只在于方式的不同和时间的早晚。         ★相关翻墙教程 
+  下面这些教程都在俺博客上（需翻墙）。  从2014年4月开始，俺博客会定期提供打包下载（电子书形式），请看“  这篇博文  ”。 
+   一旦你能够翻墙，强烈建议先把俺博客的打包电子书下载到自己硬盘上。一旦今后无法翻墙，至少手头还有一些翻墙教程可以参考。
+          ◇基础教程 
+   如何翻墙  （传说中的全方位扫盲教程，定期更新）   获取翻墙软件方法大全  （教你在无法翻墙的情况下拿到翻墙软件）   多台电脑如何共享翻墙通道         ◇各种翻墙软件使用教程 
+   “如何翻墙”系列：TOR 已复活——meek 流量混淆插件的安装、优化、原理    关于 TOR 的常见问题解答    扫盲 VPN Gate——分布式的 VPN 服务器    双管齐下的赛风3    fqrouter——安卓系统翻墙利器（免 ROOT）    戴“套”翻墻的方法    简单扫盲 I2P 的使用    新版本无界——赛风3失效后的另一个选择    自由門——TOR 被封之后的另一个选择    扫盲 VPN 翻墙——以 Hotspot Shield 为例      
+
+    版权声明
+     本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者  编程随想  和本文原始地址：   https://program-think.blogspot.com/2015/02/gfw-news.html 
+    
+    
+  
+  
+    
+         
+    
+    
+    
+ 
+    
+  
+
+" />
+    <meta property="og:description" content="
+
+      2015年2月翻墙快报（VPN Gate 和 fqrouter 双双复活）  
+  
+    
+      
+    
+  
+  
+     ★近期翻墙动态 
+  2月份的翻墙形势依然严峻，不过比1月份好多了。主要的变化是——VPN Gate 复活了。  其实春节前就有读者在博客评论中反馈了这个好消息。当时没有马上发博文通告大伙儿——因为俺想多考察一段时间，看看这次复活的情况如何。经过这两星期，感觉还可以。所以今天发一篇《翻墙快报》跟大伙儿说一下。 
+       
+  从来没用过 VPN Gate 的同学，先看之前那篇扫盲《  “如何翻墙”系列：扫盲 VPN Gate——分布式的 VPN 服务器  》。已经熟悉 VPN Gate 的同学，直接翻墙去它官网（  http://www.vpngate.net/cn/  ）下载安装包。如果你手头的翻墙通道比较慢，可以通过它官网提供的镜像网站下载（镜像网站【免翻墙】）。  目前还无法翻墙的同学，请看仔细看本文后面的一个章节——★不会翻墙的同学，如何获取翻墙工具？   友情提醒： 
+   如果你曾经安装过旧版本的 VPN Gate，需要先把旧版本彻底卸载（包括旧版本 VPN Gate 的网络驱动）
+           ★还有哪些翻墙工具可用？ 
+  经读者反馈以及俺本人测试，【至少】有如下几款工具还是可用滴。   
+   VPN Gate
+    （本文前面已经说过，此处不再罗嗦）   
+   TOR+meek
+    从 TOR Browser 4.0 之后，开始内置 meek 插件。该插件可以利用知名 IT 公司（亚马逊、微软）的云计算平台来规避 GFW 的封杀。  （扫盲教程在“  这里  ”）   
+   赛风3
+    1月份发布的 3.81 版本（以及之后的版本）是可用的。但是 3.81 版本有点缺陷——较大的上行流量会导致赛风断线（因为俺要进行 P2P 分享，感觉特别明显）。后来的 3.83 版本解决了这个问题。  前段时间，有读者在博客评论中担心“赛风跟朝廷串通”。此人的理由是：1月份很多翻墙工具都沦陷，赛风却依然坚挺。  俺个人认为这种可能性很小。而且这个推理过程本身就不严密。因为 TOR+meek 的方式，至今也没沦陷，难道说 TOR 也是串通的？另外，根据俺刚才提到的现象，赛风同样受到 GFW 的干扰，升级版本之后才规避了干扰。   
+   fqrouter
+    本文刚发出，就有读者提醒说，fqrouter 也复活了。  不过捏，它的复活跟 VPN Gate 不太一样。之前 fqrouter 死掉是因为作者停止开发。昨天的消息说，作者再度发布新版本啦 :)  没用过这款工具的同学，请看《  “如何翻墙”系列：fqrouter——安卓系统翻墙利器（免 ROOT）  》   
+   ShadowSocks（简称 SS）
+    据网友们反馈，一直可用。当然，前提是你自己拥有墙外的 VPS（虚拟专用服务器）。然后把 SS 部署在墙外的 VPS 上，使之成为你的翻墙代理。  SS 的稳定性极好，速度也足够快。主要缺点是——需要你花点银子购买 VPS。   
+   无界
+    目前最新的是 14.05 版本。虽然可用，但是非常不稳定。  再加上“无界”本身【不是】开源的。所以用无界，还不如用 TOR+meek 或者用复活之后的 VPN Gate。   
+   I2P
+    1月份的时候，俺测试了 I2P 0.9.17 版本，是可用的。近期没有用 I2P，估计这个版本应该还能用。  I2P 的速度比较慢，建议只留作备份（当其它工具都失效之后，用 I2P 救急）。提醒一下：你拿到 I2P 之后，先要让它补种（reseed）并运行一段时间。至于如何补种，俺的教程有介绍（参见“  这里  ”）。   因为本人的时间/精力有限，如有遗漏，大伙儿可以到博客评论中补充。         ★不会翻墙的同学，如何获取翻墙工具？ 
+  俺在1月份已经开通了【基于 BT Sync 的分布式网盘】。 
+   BT Sync 的一大优点是【免翻墙】
+   ，所以俺已经用它来分享翻墙工具。  如果你暂时还无法翻墙，可以考虑先安装 BT Sync，然后使用如下密钥，【自动】同步俺分享的【多款翻墙软件】。       各种翻墙软件的同步密钥 BTLZ4A4UD3PEWKPLLWEOKH3W7OQJKFPLG    
+  从来没用过 BT Sync 的同学，请先看《  扫盲 BT Sync——不仅是同步利器，而且是【分布式】网盘  》。  （虽然俺博客已经被 GFW 彻底封杀，但是你可以通过博客阅读器，看到这篇教程）         ★插一段题外话——关于“自我审查/自我阉割” 
+  今天看到新闻——小有名气的技术社区 V2EX 也被 GFW 封了。  以下引述 V2EX 创始人刘昕（@Livid ）的一段话（粗体是俺加的）      
+在听到这件事情的时候，我并没有觉得特别惊讶，因为类似的事情，在 2007 年 9 月时，其实已经经历了一次。  两次我都觉得挺莫名其妙的。  V2EX 二次上线之后，我确实在内容方面一直在尝试做一些平衡，比如 VPN 方面的内容很早就不会上首页，shadowsocks 相关的内容也在最近进了隐藏节点。我内心当然还是希望能够平静过一天算是一天，这些翻墙方面的内容，在我们整个流量中的比率其实不到 1%，我当然不想因为这些 1% 的内容而遇到今天这样的事情。  
+    这是一种自我审查吗？是，当然是。为此我也被不少人骂过。这些事情我自己也一直觉得挺恶心的。
+    
+    但是，该来的这一天还是来了。
+       
+  从这个事儿可以看出——在天朝，即使你愿意自我审查（直白地说，就是“自我阉割”），也【不能】保证你就没事儿。  俺经常引用一句话：“ 
+   你可以不关心政治，但是政治一定会来关心你
+   ”。俺希望大伙儿明白——不推翻这个奇葩的政治体制，【每个墙内的人】都会受到伤害——差别只在于方式的不同和时间的早晚。         ★相关翻墙教程 
+  下面这些教程都在俺博客上（需翻墙）。  从2014年4月开始，俺博客会定期提供打包下载（电子书形式），请看“  这篇博文  ”。 
+   一旦你能够翻墙，强烈建议先把俺博客的打包电子书下载到自己硬盘上。一旦今后无法翻墙，至少手头还有一些翻墙教程可以参考。
+          ◇基础教程 
+   如何翻墙  （传说中的全方位扫盲教程，定期更新）   获取翻墙软件方法大全  （教你在无法翻墙的情况下拿到翻墙软件）   多台电脑如何共享翻墙通道         ◇各种翻墙软件使用教程 
+   “如何翻墙”系列：TOR 已复活——meek 流量混淆插件的安装、优化、原理    关于 TOR 的常见问题解答    扫盲 VPN Gate——分布式的 VPN 服务器    双管齐下的赛风3    fqrouter——安卓系统翻墙利器（免 ROOT）    戴“套”翻墻的方法    简单扫盲 I2P 的使用    新版本无界——赛风3失效后的另一个选择    自由門——TOR 被封之后的另一个选择    扫盲 VPN 翻墙——以 Hotspot Shield 为例      
+
+    版权声明
+     本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者  编程随想  和本文原始地址：   https://program-think.blogspot.com/2015/02/gfw-news.html 
+    
+    
+  
+  
+    
+         
+    
+    
+    
+ 
+    
+  
+
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="2015年2月翻墙快报（VPN Gate 和 fqrouter 双双复活）" />
+    <meta property="twitter:title" content="2015年2月翻墙快报（VPN Gate 和 fqrouter 双双复活）" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fprogram-think.blogspot.com%2F2015%2F02%2Fgfw-news.html" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://program-think.blogspot.com/2015/02/gfw-news.html" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://program-think.blogspot.com/2015/02/gfw-news.html&text=2015年2月翻墙快报（VPN Gate 和 fqrouter 双双复活）&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://program-think.blogspot.com/2015/02/gfw-news.html&title=2015年2月翻墙快报（VPN Gate 和 fqrouter 双双复活）" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://program-think.blogspot.com/2015/02/gfw-news.html&title=2015年2月翻墙快报（VPN Gate 和 fqrouter 双双复活）" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=2015年2月翻墙快报（VPN Gate 和 fqrouter 双双复活）&body=
+
+      2015年2月翻墙快报（VPN Gate 和 fqrouter 双双复活）  
+  
+    
+      
+    
+  
+  
+     ★近期翻墙动态 
+  2月份的翻墙形势依然严峻，不过比1月份好多了。主要的变化是——VPN Gate 复活了。  其实春节前就有读者在博客评论中反馈了这个好消息。当时没有马上发博文通告大伙儿——因为俺想多考察一段时间，看看这次复活的情况如何。经过这两星期，感觉还可以。所以今天发一篇《翻墙快报》跟大伙儿说一下。 
+       
+  从来没用过 VPN Gate 的同学，先看之前那篇扫盲《  “如何翻墙”系列：扫盲 VPN Gate——分布式的 VPN 服务器  》。已经熟悉 VPN Gate 的同学，直接翻墙去它官网（  http://www.vpngate.net/cn/  ）下载安装包。如果你手头的翻墙通道比较慢，可以通过它官网提供的镜像网站下载（镜像网站【免翻墙】）。  目前还无法翻墙的同学，请看仔细看本文后面的一个章节——★不会翻墙的同学，如何获取翻墙工具？   友情提醒： 
+   如果你曾经安装过旧版本的 VPN Gate，需要先把旧版本彻底卸载（包括旧版本 VPN Gate 的网络驱动）
+           ★还有哪些翻墙工具可用？ 
+  经读者反馈以及俺本人测试，【至少】有如下几款工具还是可用滴。   
+   VPN Gate
+    （本文前面已经说过，此处不再罗嗦）   
+   TOR+meek
+    从 TOR Browser 4.0 之后，开始内置 meek 插件。该插件可以利用知名 IT 公司（亚马逊、微软）的云计算平台来规避 GFW 的封杀。  （扫盲教程在“  这里  ”）   
+   赛风3
+    1月份发布的 3.81 版本（以及之后的版本）是可用的。但是 3.81 版本有点缺陷——较大的上行流量会导致赛风断线（因为俺要进行 P2P 分享，感觉特别明显）。后来的 3.83 版本解决了这个问题。  前段时间，有读者在博客评论中担心“赛风跟朝廷串通”。此人的理由是：1月份很多翻墙工具都沦陷，赛风却依然坚挺。  俺个人认为这种可能性很小。而且这个推理过程本身就不严密。因为 TOR+meek 的方式，至今也没沦陷，难道说 TOR 也是串通的？另外，根据俺刚才提到的现象，赛风同样受到 GFW 的干扰，升级版本之后才规避了干扰。   
+   fqrouter
+    本文刚发出，就有读者提醒说，fqrouter 也复活了。  不过捏，它的复活跟 VPN Gate 不太一样。之前 fqrouter 死掉是因为作者停止开发。昨天的消息说，作者再度发布新版本啦 :)  没用过这款工具的同学，请看《  “如何翻墙”系列：fqrouter——安卓系统翻墙利器（免 ROOT）  》   
+   ShadowSocks（简称 SS）
+    据网友们反馈，一直可用。当然，前提是你自己拥有墙外的 VPS（虚拟专用服务器）。然后把 SS 部署在墙外的 VPS 上，使之成为你的翻墙代理。  SS 的稳定性极好，速度也足够快。主要缺点是——需要你花点银子购买 VPS。   
+   无界
+    目前最新的是 14.05 版本。虽然可用，但是非常不稳定。  再加上“无界”本身【不是】开源的。所以用无界，还不如用 TOR+meek 或者用复活之后的 VPN Gate。   
+   I2P
+    1月份的时候，俺测试了 I2P 0.9.17 版本，是可用的。近期没有用 I2P，估计这个版本应该还能用。  I2P 的速度比较慢，建议只留作备份（当其它工具都失效之后，用 I2P 救急）。提醒一下：你拿到 I2P 之后，先要让它补种（reseed）并运行一段时间。至于如何补种，俺的教程有介绍（参见“  这里  ”）。   因为本人的时间/精力有限，如有遗漏，大伙儿可以到博客评论中补充。         ★不会翻墙的同学，如何获取翻墙工具？ 
+  俺在1月份已经开通了【基于 BT Sync 的分布式网盘】。 
+   BT Sync 的一大优点是【免翻墙】
+   ，所以俺已经用它来分享翻墙工具。  如果你暂时还无法翻墙，可以考虑先安装 BT Sync，然后使用如下密钥，【自动】同步俺分享的【多款翻墙软件】。       各种翻墙软件的同步密钥 BTLZ4A4UD3PEWKPLLWEOKH3W7OQJKFPLG    
+  从来没用过 BT Sync 的同学，请先看《  扫盲 BT Sync——不仅是同步利器，而且是【分布式】网盘  》。  （虽然俺博客已经被 GFW 彻底封杀，但是你可以通过博客阅读器，看到这篇教程）         ★插一段题外话——关于“自我审查/自我阉割” 
+  今天看到新闻——小有名气的技术社区 V2EX 也被 GFW 封了。  以下引述 V2EX 创始人刘昕（@Livid ）的一段话（粗体是俺加的）      
+在听到这件事情的时候，我并没有觉得特别惊讶，因为类似的事情，在 2007 年 9 月时，其实已经经历了一次。  两次我都觉得挺莫名其妙的。  V2EX 二次上线之后，我确实在内容方面一直在尝试做一些平衡，比如 VPN 方面的内容很早就不会上首页，shadowsocks 相关的内容也在最近进了隐藏节点。我内心当然还是希望能够平静过一天算是一天，这些翻墙方面的内容，在我们整个流量中的比率其实不到 1%，我当然不想因为这些 1% 的内容而遇到今天这样的事情。  
+    这是一种自我审查吗？是，当然是。为此我也被不少人骂过。这些事情我自己也一直觉得挺恶心的。
+    
+    但是，该来的这一天还是来了。
+       
+  从这个事儿可以看出——在天朝，即使你愿意自我审查（直白地说，就是“自我阉割”），也【不能】保证你就没事儿。  俺经常引用一句话：“ 
+   你可以不关心政治，但是政治一定会来关心你
+   ”。俺希望大伙儿明白——不推翻这个奇葩的政治体制，【每个墙内的人】都会受到伤害——差别只在于方式的不同和时间的早晚。         ★相关翻墙教程 
+  下面这些教程都在俺博客上（需翻墙）。  从2014年4月开始，俺博客会定期提供打包下载（电子书形式），请看“  这篇博文  ”。 
+   一旦你能够翻墙，强烈建议先把俺博客的打包电子书下载到自己硬盘上。一旦今后无法翻墙，至少手头还有一些翻墙教程可以参考。
+          ◇基础教程 
+   如何翻墙  （传说中的全方位扫盲教程，定期更新）   获取翻墙软件方法大全  （教你在无法翻墙的情况下拿到翻墙软件）   多台电脑如何共享翻墙通道         ◇各种翻墙软件使用教程 
+   “如何翻墙”系列：TOR 已复活——meek 流量混淆插件的安装、优化、原理    关于 TOR 的常见问题解答    扫盲 VPN Gate——分布式的 VPN 服务器    双管齐下的赛风3    fqrouter——安卓系统翻墙利器（免 ROOT）    戴“套”翻墻的方法    简单扫盲 I2P 的使用    新版本无界——赛风3失效后的另一个选择    自由門——TOR 被封之后的另一个选择    扫盲 VPN 翻墙——以 Hotspot Shield 为例      
+
+    版权声明
+     本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者  编程随想  和本文原始地址：   https://program-think.blogspot.com/2015/02/gfw-news.html 
+    
+    
+  
+  
+    
+         
+    
+    
+    
+ 
+    
+  
+
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://program-think.blogspot.com/2015/02/gfw-news.html" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://program-think.blogspot.com/2015/02/gfw-news.html&title=2015年2月翻墙快报（VPN Gate 和 fqrouter 双双复活）&caption=
+
+      2015年2月翻墙快报（VPN Gate 和 fqrouter 双双复活）  
+  
+    
+      
+    
+  
+  
+     ★近期翻墙动态 
+  2月份的翻墙形势依然严峻，不过比1月份好多了。主要的变化是——VPN Gate 复活了。  其实春节前就有读者在博客评论中反馈了这个好消息。当时没有马上发博文通告大伙儿——因为俺想多考察一段时间，看看这次复活的情况如何。经过这两星期，感觉还可以。所以今天发一篇《翻墙快报》跟大伙儿说一下。 
+       
+  从来没用过 VPN Gate 的同学，先看之前那篇扫盲《  “如何翻墙”系列：扫盲 VPN Gate——分布式的 VPN 服务器  》。已经熟悉 VPN Gate 的同学，直接翻墙去它官网（  http://www.vpngate.net/cn/  ）下载安装包。如果你手头的翻墙通道比较慢，可以通过它官网提供的镜像网站下载（镜像网站【免翻墙】）。  目前还无法翻墙的同学，请看仔细看本文后面的一个章节——★不会翻墙的同学，如何获取翻墙工具？   友情提醒： 
+   如果你曾经安装过旧版本的 VPN Gate，需要先把旧版本彻底卸载（包括旧版本 VPN Gate 的网络驱动）
+           ★还有哪些翻墙工具可用？ 
+  经读者反馈以及俺本人测试，【至少】有如下几款工具还是可用滴。   
+   VPN Gate
+    （本文前面已经说过，此处不再罗嗦）   
+   TOR+meek
+    从 TOR Browser 4.0 之后，开始内置 meek 插件。该插件可以利用知名 IT 公司（亚马逊、微软）的云计算平台来规避 GFW 的封杀。  （扫盲教程在“  这里  ”）   
+   赛风3
+    1月份发布的 3.81 版本（以及之后的版本）是可用的。但是 3.81 版本有点缺陷——较大的上行流量会导致赛风断线（因为俺要进行 P2P 分享，感觉特别明显）。后来的 3.83 版本解决了这个问题。  前段时间，有读者在博客评论中担心“赛风跟朝廷串通”。此人的理由是：1月份很多翻墙工具都沦陷，赛风却依然坚挺。  俺个人认为这种可能性很小。而且这个推理过程本身就不严密。因为 TOR+meek 的方式，至今也没沦陷，难道说 TOR 也是串通的？另外，根据俺刚才提到的现象，赛风同样受到 GFW 的干扰，升级版本之后才规避了干扰。   
+   fqrouter
+    本文刚发出，就有读者提醒说，fqrouter 也复活了。  不过捏，它的复活跟 VPN Gate 不太一样。之前 fqrouter 死掉是因为作者停止开发。昨天的消息说，作者再度发布新版本啦 :)  没用过这款工具的同学，请看《  “如何翻墙”系列：fqrouter——安卓系统翻墙利器（免 ROOT）  》   
+   ShadowSocks（简称 SS）
+    据网友们反馈，一直可用。当然，前提是你自己拥有墙外的 VPS（虚拟专用服务器）。然后把 SS 部署在墙外的 VPS 上，使之成为你的翻墙代理。  SS 的稳定性极好，速度也足够快。主要缺点是——需要你花点银子购买 VPS。   
+   无界
+    目前最新的是 14.05 版本。虽然可用，但是非常不稳定。  再加上“无界”本身【不是】开源的。所以用无界，还不如用 TOR+meek 或者用复活之后的 VPN Gate。   
+   I2P
+    1月份的时候，俺测试了 I2P 0.9.17 版本，是可用的。近期没有用 I2P，估计这个版本应该还能用。  I2P 的速度比较慢，建议只留作备份（当其它工具都失效之后，用 I2P 救急）。提醒一下：你拿到 I2P 之后，先要让它补种（reseed）并运行一段时间。至于如何补种，俺的教程有介绍（参见“  这里  ”）。   因为本人的时间/精力有限，如有遗漏，大伙儿可以到博客评论中补充。         ★不会翻墙的同学，如何获取翻墙工具？ 
+  俺在1月份已经开通了【基于 BT Sync 的分布式网盘】。 
+   BT Sync 的一大优点是【免翻墙】
+   ，所以俺已经用它来分享翻墙工具。  如果你暂时还无法翻墙，可以考虑先安装 BT Sync，然后使用如下密钥，【自动】同步俺分享的【多款翻墙软件】。       各种翻墙软件的同步密钥 BTLZ4A4UD3PEWKPLLWEOKH3W7OQJKFPLG    
+  从来没用过 BT Sync 的同学，请先看《  扫盲 BT Sync——不仅是同步利器，而且是【分布式】网盘  》。  （虽然俺博客已经被 GFW 彻底封杀，但是你可以通过博客阅读器，看到这篇教程）         ★插一段题外话——关于“自我审查/自我阉割” 
+  今天看到新闻——小有名气的技术社区 V2EX 也被 GFW 封了。  以下引述 V2EX 创始人刘昕（@Livid ）的一段话（粗体是俺加的）      
+在听到这件事情的时候，我并没有觉得特别惊讶，因为类似的事情，在 2007 年 9 月时，其实已经经历了一次。  两次我都觉得挺莫名其妙的。  V2EX 二次上线之后，我确实在内容方面一直在尝试做一些平衡，比如 VPN 方面的内容很早就不会上首页，shadowsocks 相关的内容也在最近进了隐藏节点。我内心当然还是希望能够平静过一天算是一天，这些翻墙方面的内容，在我们整个流量中的比率其实不到 1%，我当然不想因为这些 1% 的内容而遇到今天这样的事情。  
+    这是一种自我审查吗？是，当然是。为此我也被不少人骂过。这些事情我自己也一直觉得挺恶心的。
+    
+    但是，该来的这一天还是来了。
+       
+  从这个事儿可以看出——在天朝，即使你愿意自我审查（直白地说，就是“自我阉割”），也【不能】保证你就没事儿。  俺经常引用一句话：“ 
+   你可以不关心政治，但是政治一定会来关心你
+   ”。俺希望大伙儿明白——不推翻这个奇葩的政治体制，【每个墙内的人】都会受到伤害——差别只在于方式的不同和时间的早晚。         ★相关翻墙教程 
+  下面这些教程都在俺博客上（需翻墙）。  从2014年4月开始，俺博客会定期提供打包下载（电子书形式），请看“  这篇博文  ”。 
+   一旦你能够翻墙，强烈建议先把俺博客的打包电子书下载到自己硬盘上。一旦今后无法翻墙，至少手头还有一些翻墙教程可以参考。
+          ◇基础教程 
+   如何翻墙  （传说中的全方位扫盲教程，定期更新）   获取翻墙软件方法大全  （教你在无法翻墙的情况下拿到翻墙软件）   多台电脑如何共享翻墙通道         ◇各种翻墙软件使用教程 
+   “如何翻墙”系列：TOR 已复活——meek 流量混淆插件的安装、优化、原理    关于 TOR 的常见问题解答    扫盲 VPN Gate——分布式的 VPN 服务器    双管齐下的赛风3    fqrouter——安卓系统翻墙利器（免 ROOT）    戴“套”翻墻的方法    简单扫盲 I2P 的使用    新版本无界——赛风3失效后的另一个选择    自由門——TOR 被封之后的另一个选择    扫盲 VPN 翻墙——以 Hotspot Shield 为例      
+
+    版权声明
+     本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者  编程随想  和本文原始地址：   https://program-think.blogspot.com/2015/02/gfw-news.html 
+    
+    
+  
+  
+    
+         
+    
+    
+    
+ 
+    
+  
+
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=2015年2月翻墙快报（VPN Gate 和 fqrouter 双双复活）&url=https://program-think.blogspot.com/2015/02/gfw-news.html" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>2015年2月翻墙快报（VPN Gate 和 fqrouter 双双复活）</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2015-02-28
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#编程随想">
+          编程随想
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://program-think.blogspot.com/2015/02/gfw-news.html" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="编程随想的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#编程随想 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <div class="post hentry uncustomized-post-template">
+<a name="5097584791896395855">
+ </a>   <h1 class="post-title entry-title" id="vpn-gate--fqrouter---"> <a href="https://program-think.blogspot.com/2015/02/gfw-news.html"> 2015年2月翻墙快报（VPN Gate 和 fqrouter 双双复活） </a> </h1>
+  <div class="post-header">
+    <div class="post-header-line-1">
+      <div class="post-inner-index"></div>
+    </div>
+  </div>
+  <div class="post-body entry-content">
+    <h2 id="section"> ★近期翻墙动态 </h2>
+ <br /> 2月份的翻墙形势依然严峻，不过比1月份好多了。主要的变化是——VPN Gate 复活了。 <br /> 其实春节前就有读者在博客评论中反馈了这个好消息。当时没有马上发博文通告大伙儿——因为俺想多考察一段时间，看看这次复活的情况如何。经过这两星期，感觉还可以。所以今天发一篇《翻墙快报》跟大伙儿说一下。 <a name="more">
+  </a>     <!--program-think-->
+ <br /> 从来没用过 VPN Gate 的同学，先看之前那篇扫盲《 <a href="https://program-think.blogspot.com/2013/04/gfw-vpngate.html"> “如何翻墙”系列：扫盲 VPN Gate——分布式的 VPN 服务器 </a> 》。已经熟悉 VPN Gate 的同学，直接翻墙去它官网（ <a href="http://www.vpngate.net/cn/" rel="nofollow" target="_blank"> http://www.vpngate.net/cn/ </a> ）下载安装包。如果你手头的翻墙通道比较慢，可以通过它官网提供的镜像网站下载（镜像网站【免翻墙】）。 <br /> 目前还无法翻墙的同学，请看仔细看本文后面的一个章节——★不会翻墙的同学，如何获取翻墙工具？ <br /> <br /> 友情提醒： <b>
+   如果你曾经安装过旧版本的 VPN Gate，需要先把旧版本彻底卸载（包括旧版本 VPN Gate 的网络驱动）
+  </b> <br /> <br /> <br />     <h2 id="section-1"> ★还有哪些翻墙工具可用？ </h2>
+ <br /> 经读者反馈以及俺本人测试，【至少】有如下几款工具还是可用滴。 <br /> <br /> <b>
+   VPN Gate
+  </b> <br /> （本文前面已经说过，此处不再罗嗦） <br /> <br /> <b>
+   TOR+meek
+  </b> <br /> 从 TOR Browser 4.0 之后，开始内置 meek 插件。该插件可以利用知名 IT 公司（亚马逊、微软）的云计算平台来规避 GFW 的封杀。 <br /> （扫盲教程在“ <a href="https://program-think.blogspot.com/2014/10/gfw-tor-meek.html"> 这里 </a> ”） <br /> <br /> <b>
+   赛风3
+  </b> <br /> 1月份发布的 3.81 版本（以及之后的版本）是可用的。但是 3.81 版本有点缺陷——较大的上行流量会导致赛风断线（因为俺要进行 P2P 分享，感觉特别明显）。后来的 3.83 版本解决了这个问题。 <br /> 前段时间，有读者在博客评论中担心“赛风跟朝廷串通”。此人的理由是：1月份很多翻墙工具都沦陷，赛风却依然坚挺。 <br /> 俺个人认为这种可能性很小。而且这个推理过程本身就不严密。因为 TOR+meek 的方式，至今也没沦陷，难道说 TOR 也是串通的？另外，根据俺刚才提到的现象，赛风同样受到 GFW 的干扰，升级版本之后才规避了干扰。 <br /> <br /> <b>
+   fqrouter
+  </b> <br /> 本文刚发出，就有读者提醒说，fqrouter 也复活了。 <br /> 不过捏，它的复活跟 VPN Gate 不太一样。之前 fqrouter 死掉是因为作者停止开发。昨天的消息说，作者再度发布新版本啦 :) <br /> 没用过这款工具的同学，请看《 <a href="https://program-think.blogspot.com/2014/07/gfw-fqrouter.html"> “如何翻墙”系列：fqrouter——安卓系统翻墙利器（免 ROOT） </a> 》 <br /> <br /> <b>
+   ShadowSocks（简称 SS）
+  </b> <br /> 据网友们反馈，一直可用。当然，前提是你自己拥有墙外的 VPS（虚拟专用服务器）。然后把 SS 部署在墙外的 VPS 上，使之成为你的翻墙代理。 <br /> SS 的稳定性极好，速度也足够快。主要缺点是——需要你花点银子购买 VPS。 <br /> <br /> <b>
+   无界
+  </b> <br /> 目前最新的是 14.05 版本。虽然可用，但是非常不稳定。 <br /> 再加上“无界”本身【不是】开源的。所以用无界，还不如用 TOR+meek 或者用复活之后的 VPN Gate。 <br /> <br /> <b>
+   I2P
+  </b> <br /> 1月份的时候，俺测试了 I2P 0.9.17 版本，是可用的。近期没有用 I2P，估计这个版本应该还能用。 <br /> I2P 的速度比较慢，建议只留作备份（当其它工具都失效之后，用 I2P 救急）。提醒一下：你拿到 I2P 之后，先要让它补种（reseed）并运行一段时间。至于如何补种，俺的教程有介绍（参见“ <a href="https://program-think.blogspot.com/2012/06/gfw-i2p.html"> 这里 </a> ”）。 <br /> <br /> 因为本人的时间/精力有限，如有遗漏，大伙儿可以到博客评论中补充。 <br /> <br /> <br />     <h2 id="section-2"> ★不会翻墙的同学，如何获取翻墙工具？ </h2>
+ <br /> 俺在1月份已经开通了【基于 BT Sync 的分布式网盘】。 <b>
+   BT Sync 的一大优点是【免翻墙】
+  </b> ，所以俺已经用它来分享翻墙工具。 <br /> 如果你暂时还无法翻墙，可以考虑先安装 BT Sync，然后使用如下密钥，【自动】同步俺分享的【多款翻墙软件】。 <br /> <br />     <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>各种翻墙软件的同步密钥 BTLZ4A4UD3PEWKPLLWEOKH3W7OQJKFPLG</code></pre></div>    </div>
+ <br /> 从来没用过 BT Sync 的同学，请先看《 <a href="https://program-think.blogspot.com/2015/01/BitTorrent-Sync.html"> 扫盲 BT Sync——不仅是同步利器，而且是【分布式】网盘 </a> 》。 <br /> （虽然俺博客已经被 GFW 彻底封杀，但是你可以通过博客阅读器，看到这篇教程） <br /> <br /> <br />     <h2 id="section-3"> ★插一段题外话——关于“自我审查/自我阉割” </h2>
+ <br /> 今天看到新闻——小有名气的技术社区 V2EX 也被 GFW 封了。 <br /> 以下引述 V2EX 创始人刘昕（@Livid ）的一段话（粗体是俺加的） <br />     <blockquote>
+在听到这件事情的时候，我并没有觉得特别惊讶，因为类似的事情，在 2007 年 9 月时，其实已经经历了一次。 <br /> 两次我都觉得挺莫名其妙的。 <br /> V2EX 二次上线之后，我确实在内容方面一直在尝试做一些平衡，比如 VPN 方面的内容很早就不会上首页，shadowsocks 相关的内容也在最近进了隐藏节点。我内心当然还是希望能够平静过一天算是一天，这些翻墙方面的内容，在我们整个流量中的比率其实不到 1%，我当然不想因为这些 1% 的内容而遇到今天这样的事情。 <br /> <b>
+    这是一种自我审查吗？是，当然是。为此我也被不少人骂过。这些事情我自己也一直觉得挺恶心的。
+    <br />
+    但是，该来的这一天还是来了。
+   </b>    </blockquote>
+ <br /> 从这个事儿可以看出——在天朝，即使你愿意自我审查（直白地说，就是“自我阉割”），也【不能】保证你就没事儿。 <br /> 俺经常引用一句话：“ <b>
+   你可以不关心政治，但是政治一定会来关心你
+  </b> ”。俺希望大伙儿明白——不推翻这个奇葩的政治体制，【每个墙内的人】都会受到伤害——差别只在于方式的不同和时间的早晚。 <br /> <br /> <br />     <h2 id="section-4"> ★相关翻墙教程 </h2>
+ <br /> 下面这些教程都在俺博客上（需翻墙）。 <br /> 从2014年4月开始，俺博客会定期提供打包下载（电子书形式），请看“ <a href="https://program-think.blogspot.com/2014/04/blog-ebook.html"> 这篇博文 </a> ”。 <b>
+   一旦你能够翻墙，强烈建议先把俺博客的打包电子书下载到自己硬盘上。一旦今后无法翻墙，至少手头还有一些翻墙教程可以参考。
+  </b> <br /> <br />     <h3 id="section-5"> ◇基础教程 </h3>
+ <br /> <a href="https://program-think.blogspot.com/2009/05/how-to-break-through-gfw.html"> 如何翻墙 </a> （传说中的全方位扫盲教程，定期更新） <br /> <a href="https://program-think.blogspot.com/2011/03/how-to-get-gfw-tools.html"> 获取翻墙软件方法大全 </a> （教你在无法翻墙的情况下拿到翻墙软件） <br /> <a href="https://program-think.blogspot.com/2013/01/cross-host-use-gfw-tool.html"> 多台电脑如何共享翻墙通道 </a> <br /> <br />     <h3 id="section-6"> ◇各种翻墙软件使用教程 </h3>
+ <br /> <a href="https://program-think.blogspot.com/2014/10/gfw-tor-meek.html"> “如何翻墙”系列：TOR 已复活——meek 流量混淆插件的安装、优化、原理 </a> <br /> <a href="https://program-think.blogspot.com/2013/11/tor-faq.html"> 关于 TOR 的常见问题解答 </a> <br /> <a href="https://program-think.blogspot.com/2013/04/gfw-vpngate.html"> 扫盲 VPN Gate——分布式的 VPN 服务器 </a> <br /> <a href="https://program-think.blogspot.com/2011/10/gfw-psiphon.html"> 双管齐下的赛风3 </a> <br /> <a href="https://program-think.blogspot.com/2014/07/gfw-fqrouter.html"> fqrouter——安卓系统翻墙利器（免 ROOT） </a> <br /> <a href="https://program-think.blogspot.com/2009/09/break-through-gfw-with-tor.html"> 戴“套”翻墻的方法 </a> <br /> <a href="https://program-think.blogspot.com/2012/06/gfw-i2p.html"> 简单扫盲 I2P 的使用 </a> <br /> <a href="https://program-think.blogspot.com/2011/12/gfw-wujie.html"> 新版本无界——赛风3失效后的另一个选择 </a> <br /> <a href="https://program-think.blogspot.com/2010/03/choose-free-gate.html"> 自由門——TOR 被封之后的另一个选择 </a> <br /> <a href="https://program-think.blogspot.com/2011/09/gfw-vpn-hotspot-shield.html"> 扫盲 VPN 翻墙——以 Hotspot Shield 为例 </a>     <div class="post-copyright">
+<b>
+    版权声明
+   </b> <br /> 本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者 <a href="mailto:program.think@gmail.com"> 编程随想 </a> 和本文原始地址： <br /> <a href="https://program-think.blogspot.com/2015/02/gfw-news.html" id="OriginalPostUrl"> https://program-think.blogspot.com/2015/02/gfw-news.html </a>
+    </div>
+    <div style="clear: both;"></div>
+  </div>
+  <div class="post-footer" style="margin-bottom:50px;">
+    <div class="post-footer-line post-footer-line-1" style="display:none;">
+<span class="post-author vcard"> </span> <span class="reaction-buttons"> </span> <span class="star-ratings"> </span> <span class="post-icons"> </span> <span class="post-backlinks post-comment-link"> </span>
+    </div>
+    <div class="post-footer-line post-footer-line-2 post-toolbar"></div>
+    <div class="post-footer-line post-footer-line-3">
+<span class="post-location"> </span>
+    </div>
+  </div>
+</div>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#编程随想 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2021-05-09/%E5%88%86%E4%BA%AB%E5%90%84%E7%B1%BB%E7%94%B5%E5%AD%90%E4%B9%A6-%E6%94%BF%E6%B2%BB-IT-%E7%A7%91%E6%99%AE-%E5%8E%86%E5%8F%B2-%E7%AD%89-97%E6%9C%AC/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-01-15/%E5%8D%9A%E5%AE%A2%E5%BC%80%E5%BC%A0%E5%8F%8A%E6%9C%AC%E5%8D%9A%E5%AE%A2%E5%86%85%E5%AE%B9%E7%AE%80%E4%BB%8B/">最早</a>--</span>
+    
+      <li>
+        <time>2015-03-10</time>
+        <a href="https://nodebe4.github.io/opinion/2015-03-10/%E6%89%AB%E7%9B%B2-Arm-Tor-%E7%9A%84%E7%95%8C%E9%9D%A2%E5%89%8D%E7%AB%AF-%E6%9B%BF%E4%BB%A3%E5%B7%B2%E6%AD%BB%E4%BA%A1%E7%9A%84-Vidalia/">
+          扫盲 Arm——Tor 的界面前端（替代已死亡的 Vidalia）
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2015-03-03</time>
+        <a href="https://nodebe4.github.io/opinion/2015-03-03/%E5%91%BC%E4%B9%8B%E6%AC%B2%E5%87%BA%E7%9A%84%E5%A4%A7%E8%80%81%E8%99%8E-%E4%B8%8E%E4%B9%8B%E7%9B%B8%E6%AF%94-%E5%BE%90%E6%89%8D%E5%8E%9A%E5%92%8C%E4%BB%A4%E8%AE%A1%E5%88%92%E9%83%BD%E4%B8%8D%E7%AE%97%E5%95%A5/">
+          呼之欲出的大老虎——与之相比，徐才厚和令计划都不算啥
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2015-02-23</time>
+        <a href="https://nodebe4.github.io/opinion/2015-02-23/%E4%BC%A0%E7%BB%9F%E5%8D%9A%E5%AE%A2-%E8%BF%87%E6%97%B6%E4%BA%86%E5%90%97-%E5%85%BC%E8%B0%88%E5%90%84%E7%A7%8D%E5%AA%92%E4%BB%8B%E5%BD%A2%E6%80%81%E7%9A%84%E4%BC%98%E7%BC%BA%E7%82%B9/">
+          “传统博客”过时了吗？——兼谈各种媒介形态的优缺点
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2015-02-17</time>
+        <a href="https://nodebe4.github.io/opinion/2015-02-17/%E5%88%86%E4%BA%AB%E5%90%84%E7%B1%BB%E7%94%B5%E5%AD%90%E4%B9%A6-%E6%89%8B%E6%9C%BA%E6%A0%BC%E5%BC%8F-%E4%B8%93%E5%9C%BA-59%E6%9C%AC-%E5%8F%A6%E9%80%9A%E5%91%8A-BT-Sync-%E7%BD%91%E7%9B%98-%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF/">
+          分享各类电子书（【手机格式】专场，59本）——另通告“BT Sync 网盘”正式上线
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2015-02-28/%E7%83%AD%E7%82%B9%E8%A7%A3%E8%AF%BB-%E6%9E%9C%E6%95%A2%E5%8D%B1%E6%9C%BA%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-%E9%9A%94%E7%A6%BB%E6%88%96%E6%98%AF-%E5%8D%8F%E5%92%8C%E5%BC%8F-%E6%B0%91%E4%B8%BB/">
+            前一篇：热点解读 | 果敢危机解决方案：隔离或是“协和式”民主？
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2015-03-02/%E7%A9%BA%E6%B0%94%E6%B1%A1%E6%9F%93%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%B9%B3%E5%9D%87%E5%AF%BF%E5%91%BD-%E6%9D%A5%E8%87%AA%E7%8E%AF%E5%A2%83%E7%BB%8F%E6%B5%8E%E5%AD%A6%E7%9A%84%E8%A7%A3%E9%87%8A/">
+            後一篇：空气污染如何影响平均寿命：来自环境经济学的解释
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2015-02-28/%E7%83%AD%E7%82%B9%E8%A7%A3%E8%AF%BB-%E6%9E%9C%E6%95%A2%E5%8D%B1%E6%9C%BA%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-%E9%9A%94%E7%A6%BB%E6%88%96%E6%98%AF-%E5%8D%8F%E5%92%8C%E5%BC%8F-%E6%B0%91%E4%B8%BB/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2015-03-02/%E7%A9%BA%E6%B0%94%E6%B1%A1%E6%9F%93%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%B9%B3%E5%9D%87%E5%AF%BF%E5%91%BD-%E6%9D%A5%E8%87%AA%E7%8E%AF%E5%A2%83%E7%BB%8F%E6%B5%8E%E5%AD%A6%E7%9A%84%E8%A7%A3%E9%87%8A/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2015-03-03/%E5%91%BC%E4%B9%8B%E6%AC%B2%E5%87%BA%E7%9A%84%E5%A4%A7%E8%80%81%E8%99%8E-%E4%B8%8E%E4%B9%8B%E7%9B%B8%E6%AF%94-%E5%BE%90%E6%89%8D%E5%8E%9A%E5%92%8C%E4%BB%A4%E8%AE%A1%E5%88%92%E9%83%BD%E4%B8%8D%E7%AE%97%E5%95%A5/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2015-02-23/%E4%BC%A0%E7%BB%9F%E5%8D%9A%E5%AE%A2-%E8%BF%87%E6%97%B6%E4%BA%86%E5%90%97-%E5%85%BC%E8%B0%88%E5%90%84%E7%A7%8D%E5%AA%92%E4%BB%8B%E5%BD%A2%E6%80%81%E7%9A%84%E4%BC%98%E7%BC%BA%E7%82%B9/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2015-02-28/%E7%83%AD%E7%82%B9%E8%A7%A3%E8%AF%BB-%E6%9E%9C%E6%95%A2%E5%8D%B1%E6%9C%BA%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-%E9%9A%94%E7%A6%BB%E6%88%96%E6%98%AF-%E5%8D%8F%E5%92%8C%E5%BC%8F-%E6%B0%91%E4%B8%BB/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2015-03-02/%E7%A9%BA%E6%B0%94%E6%B1%A1%E6%9F%93%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%B9%B3%E5%9D%87%E5%AF%BF%E5%91%BD-%E6%9D%A5%E8%87%AA%E7%8E%AF%E5%A2%83%E7%BB%8F%E6%B5%8E%E5%AD%A6%E7%9A%84%E8%A7%A3%E9%87%8A/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<编程随想>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2015-03-03/%E5%91%BC%E4%B9%8B%E6%AC%B2%E5%87%BA%E7%9A%84%E5%A4%A7%E8%80%81%E8%99%8E-%E4%B8%8E%E4%B9%8B%E7%9B%B8%E6%AF%94-%E5%BE%90%E6%89%8D%E5%8E%9A%E5%92%8C%E4%BB%A4%E8%AE%A1%E5%88%92%E9%83%BD%E4%B8%8D%E7%AE%97%E5%95%A5/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<编程随想>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2015-02-23/%E4%BC%A0%E7%BB%9F%E5%8D%9A%E5%AE%A2-%E8%BF%87%E6%97%B6%E4%BA%86%E5%90%97-%E5%85%BC%E8%B0%88%E5%90%84%E7%A7%8D%E5%AA%92%E4%BB%8B%E5%BD%A2%E6%80%81%E7%9A%84%E4%BC%98%E7%BC%BA%E7%82%B9/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

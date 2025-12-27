@@ -1,0 +1,3466 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Podcasts, Analytics, and Centralization – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+  
+     Podcasts, Analytics, and Centralization 
+    
+  Posted on             Tuesday, June 13, 2017 
+            Tuesday, March 27, 2018 
+     Author  by  Ben Thompson   
+    
+    
+  
+  
+  
+    Tucked into the last day of WWDC was a  session on podcasting  , and it contained some big news for the burgeoning industry. Before getting into the specific announcements, though, the session itself is worth a bit of analysis, particularly the opening from Apple Podcasts Business Manager James Boggs:
+    
+      First we want to talk for a moment about how we think about modern podcasts. Long-form and audio. We get excited about episodic content that entertains, informs, and inspires. We get excited and many of our users have gotten excited too.
+    
+    I went on to transcribe the next 500 or so words of Boggs’s presentation, which included various statistics on downloads, catalog size, and reach; a listing of Apple “partners” organized by media and broadcast organizations, public media, and independents; and even started in on Boggs’s review/promotion of individual podcasts like “Up and Vanished” and “Masters of Scale” before I realized Boggs was never going to actually say “how [Apple] think[s] about modern podcasts.” I won’t make you read the transcript — take my word when I say that there was nothing there.
+    Still, that itself was telling; Boggs’s presentation perfectly reflects the state of podcasting today: Apple is an essential piece, even as they really don’t have anything to do with what is going on (but naturally, are happy to take credit).
+     A Brief History of Podcasts 
+    Probably the first modern podcast was  created by Dave Winer in 2003  , although it wasn’t called a “podcast”: that was coined  by Ben Hammersley in 2004  , and the inspiration was Apple’s iPod. Still, while the media had a name, the “industry”, such that it was, was very much the wild west: a scattering of podcast creators, podcatchers (software for downloading the podcasts), and podcast listeners, finding each other by word-of-mouth.
+      
+    A year later Apple made the move that cemented their current position as the accidental gorilla of the industry: iTunes 4.9 included support for podcasts and, crucially, the iTunes Music Store created a directory (Apple did not — and still does not — host the podcast files themselves). The landscape of podcasting was completely transformed:
+      
+    Centralization occurs in industry after industry for a reason: everyone benefits, at least in the short term. Start with the users: before iTunes 4.9 subscribing and listening to a podcast was a multi-step process, and most of those steps were so obscure as to be effective barriers for all but the most committed of listeners.
+    
+      Find a podcast
+      Get a podcatcher
+      Copy the URL of the podcast feed into the podcatcher
+      Copy over the audio file from the podcatcher into iTunes
+      Sync the audio file to an iPod
+      Listen to the podcast
+      Delete the podcast from the iPod the next time you sync’d
+    
+    iTunes 4.9 made this far simpler:
+    
+      Find a podcast in the iTunes Store and click ‘Subscribe’
+      Sync your iPod
+      Listen
+    
+    Recounting this simplification may seem pedantic, but there is a point: this was the most important improvement for podcast creators as well. Yes, the iTunes Music Store offered an important new discovery mechanism, but it was the dramatic improvement to the user experience that, for the vast majority of would-be listeners, made podcasts even worth discovering in the first place. Centralized platforms win because they make things easier for the user; producers willingly follow.
+    Interestingly, though, beyond that initial release, which was clearly geared towards selling more iPods, Apple largely left the market alone, with one important exception: in 2012 the company released a standalone Podcasts app for iOS in the App Store, and in 2014 the app was built-in to iOS 8. At that point the power of defaults did its job: according to the  IAB Podcast Ad Metrics Guidelines  released last fall, the Apple Podcast App accounts for around 50% of all podcast players across all operating systems (iTunes is a further ~10%).  1 
+     The Business of Podcasting 
+    It’s not clear when the first podcast advertisement was recorded; a decent guess is  Episode 67 of This Week in Tech  , recorded on September 3, 2006 (Topic: “Does the Google CEO’s place on Apple’s board presage a Sun merger?”). The sponsor was surprisingly familiar — Visa (“Safer, better money. Life takes Visa.”), and Dell joined a week later.
+    Over the ensuing years, though, the typical podcast sponsor was a bit less of a name brand — unless, of course, you were a regular podcast listener, in which case you quickly knew the brands by heart: Squarespace, Audible, Casper Mattress, Blue Apron, and recent favorite MeUndies (because who doesn’t want to hear a host-read endorsement for underwear!). Companies like Visa or Dell were few and far between: a study by  FiveThirtyEight  suggested brand advertisers were less than five percent of ad reads.
+    The reason is quite straightforward: for podcasts there is neither data nor scale. The data part is obvious: while podcasters can (self-)report download numbers, no one knows whether or not a podcast is played, or if the ads are skipped. The scale bit is more subtle: podcasts are both too small and too big. They are too small in that it is difficult to buy ads at scale (and there is virtually no quality control, even with centralized ad sellers like Midroll); they are too large in that the audience, which may be located anywhere in the world listening at any time, is impossible to survey in order to measure ad effectiveness.
+    That is why the vast majority of podcast advertisers are actually quite similar: nearly all are transaction-initiated subscription-based services. The “transaction-initiated” bit means that there is a discrete point at which the customer can indicate where they heard about the product, usually through a special URL, while the “subscription-based” part means these products are evaluating their marketing spend relative to expected lifetime value. In other words, the only products that find podcast advertising worthwhile are those that expect to convert a listener in a measurable way 
+    and
+    make a significant amount of money off of them, justifying the hassle.  2 
+    The result is an industry that, from a monetization perspective, looks a lot like podcasting before iTunes 4.9; there are small businesses to be built, but the industry as a whole is stunted.
+     Apple Podcast Analytics 
+    This is the context for what Apple actually announced. Jason Snell had a good summary at  Six Colors  :
+    
+      New extensions to Apple’s podcast feed specification will allow podcasts to define individual seasons and explain whether an episode is a teaser, a full episode, or bonus content. These extensions will be read by the Podcast app and used to present a podcast in a richer way than the current, more linear, approach…
+      The other big news out of today’s session is for podcasters (and presumably for podcast advertisers): Apple is opening up in-episode analytics of podcasts. For the most part, podcasters only really know when an episode’s MP3 file is downloaded. Beyond that, we can’t really tell if anyone listens to an episode, or how long they listen—only the apps know for sure. Apple said today that it will be using (anonymized) data from the app to show podcasters how many people are listening and where in the app people are stopping or skipping. This has the potential to dramatically change our perception of how many people really listen to a show, and how many people skip ads, as well as how long a podcast can run before people just give up.
+    
+    The new extensions are a nice addition, and a way in which Apple can enhance the user experience to the benefit of everyone. As you might expect, though, I’m particularly interested in the news about analytics. Problem solved, right? Or is it problem caused? What happens when advertisers realize that everyone is skipping their ads?
+     Advertisers: Not Idiots 
+    In fact, I expect these analytics to have minimal impact, at least in the short run. For one, every indication is that analytics will only be available to the podcast publishers, although certainly advertisers will push to have them shared.  3  More pertinently, though, all of the current podcast advertisers know exactly what they are getting: X amount of podcast ads results in Y number of conversions that result in Z amount of lifetime value.
+    Indeed, contrary to what many folks seem to believe, advertisers, whether they leverage podcasts, Facebook, Google, or old school formats like radio or TV, are not idiots blindly throwing money over a wall in the vague hopes that it will drive revenue, ever susceptible to being shocked, shocked! that their ads are being ignored. Particularly in the case of digital formats advertisers are quite sophisticated, basing advertising decisions off of well-known ROI calculations. That is certainly the case with podcasts: knowing to a higher degree of precision how many ads are skipped doesn’t change the calculation for the current crop of podcast advertisers in the slightest.
+    What more data does do is open the door to more varied types of advertisers beyond the subscription services that dominate the space. Brand advertisers, in particular, are more worried about reaching a guaranteed number of potential customers than they are tracking directly to conversion, and Apple’s analytics will help podcasters tell a more convincing story in that regard.
+    In truth, though, Apple’s proposed analytics aren’t nearly enough: advertisers still won’t know who they are reaching or where they are located, and while brand advertisers may not have the expectation of tracking-to-purchase no one wants to throw money to the wind either. The problem of surveying effectively to measure things like brand lift is as acute as ever, and it simply isn’t worth the trouble to do a bunch of relatively small media buys with zero quality control.
+     Apple’s Opportunity 
+    This, though, is why Apple’s centralized role is so intriguing. Remember, the web was thought to be a wasteland for advertising until Google provided a centralized point that aggregated users and could be sold to advertisers. Similarly, mobile was thought to monetize even worse than the (desktop) web until Facebook provided a centralized point that aggregated users and could be sold to advertisers. I expect a similar dynamic in podcasts: the industry will remain the province of web hosting and underwear absent centralization and aggregation, and the only entity that can accomplish that is Apple.
+    One can envision the broad outlines of what the business for a centralized aggregator for podcasts might look like:
+    
+      The centralized aggregator would likely offer hosting to podcast creators, not only to secure the user experience and get better analytics (including on downloads through other apps) but also to dynamically insert advertisements. Those advertisements would also be available to smaller podcasts that are currently not worth the effort to advertisers.
+      Advertisers would get their own dashboard for those analytics and, more importantly, the opportunity to buy ads at far greater scale across a large enough audience to make it worth their while. Ideally, at least from their perspective, they would actually be able to target their advertising buys as well.
+      Users would, at least in theory, benefit from a far broader array of content made possible by the growth in revenue for the industry broadly.
+    
+    There are already companies trying to do just this: I wrote about E.W. Scripps’ Midroll and their acquisition of podcast player Stitcher  last year  . The problem is that Stitcher only has around 5% of listeners, and it is the ownership of users/listeners, not producers/podcast from which true market power derives. Apple has that ownership, and thus that power; the question is will they use it?
+    Surely the safe bet is “no”. iAd, Apple’s previous effort at building an advertising business,  failed spectacularly  , and Apple’s anti-advertising rhetoric has only deepened since then. That’s a problem not only in terms of image but culture: Apple seems highly unlikely to be willing to put in the effort necessary to build a real advertising business, and given how small such a business might be even in the best-case scenario relative to the rest of the company, that’s understandable.  4 
+    To be sure, should Apple decline to seize this opportunity it will  be celebrated by many  , particularly those doing well in the current ecosystem. Podcasting is definitely more open than not, with no real gatekeepers in terms of either distribution or monetization. That, though, is why the money is so small: gatekeepers are moneymakers, and while podcasts may continue to grow, it is by no means inevitable that, absent a more active Apple, the money will follow.
+    
+    Disclosure:
+    
+     Exponent
+    
+    , the podcast I host with
+    
+     James Allworth
+    
+    , does have a (single) sponsor; the revenue from this sponsorship makes up a very small percentage of Stratechery’s overall revenue and does not impact the views in this article
+   
+    
+      For what it’s worth, Exponent has a much different profile: Apple Podcasts has about 13% share, while  Overcast  leads the way with 26% share, followed by (surprisingly!) Mobile Safari with 23% [  ↩  ]
+      This shows why Casper mattresses are the exception that proves the rule: mattresses are not a subscription service, but they are much more expensive than most products bought online, which achieves the same effect as far as lifetime value is concerned [  ↩  ]
+      I’m less worried about the fact other podcast players may not offer similar analytics: the Apple Podcast app will be used as a proxy, although this may hurt podcasts that have a smaller share of downloads via the Apple Podcast app (as total listeners may be undercounted absent similar analytics from other apps) [  ↩  ]
+      It’s Google’s challenge in building a real hardware business in reverse [  ↩  ]
+    
+    
+      
+         Share 
+        
+          
+              Facebook  
+              Twitter  
+              LinkedIn  
+              Email  
+            
+          
+        
+      
+    
+    
+       
+     Related
+     
+    
+  
+  
+
+" />
+    <meta property="og:description" content="
+  
+     Podcasts, Analytics, and Centralization 
+    
+  Posted on             Tuesday, June 13, 2017 
+            Tuesday, March 27, 2018 
+     Author  by  Ben Thompson   
+    
+    
+  
+  
+  
+    Tucked into the last day of WWDC was a  session on podcasting  , and it contained some big news for the burgeoning industry. Before getting into the specific announcements, though, the session itself is worth a bit of analysis, particularly the opening from Apple Podcasts Business Manager James Boggs:
+    
+      First we want to talk for a moment about how we think about modern podcasts. Long-form and audio. We get excited about episodic content that entertains, informs, and inspires. We get excited and many of our users have gotten excited too.
+    
+    I went on to transcribe the next 500 or so words of Boggs’s presentation, which included various statistics on downloads, catalog size, and reach; a listing of Apple “partners” organized by media and broadcast organizations, public media, and independents; and even started in on Boggs’s review/promotion of individual podcasts like “Up and Vanished” and “Masters of Scale” before I realized Boggs was never going to actually say “how [Apple] think[s] about modern podcasts.” I won’t make you read the transcript — take my word when I say that there was nothing there.
+    Still, that itself was telling; Boggs’s presentation perfectly reflects the state of podcasting today: Apple is an essential piece, even as they really don’t have anything to do with what is going on (but naturally, are happy to take credit).
+     A Brief History of Podcasts 
+    Probably the first modern podcast was  created by Dave Winer in 2003  , although it wasn’t called a “podcast”: that was coined  by Ben Hammersley in 2004  , and the inspiration was Apple’s iPod. Still, while the media had a name, the “industry”, such that it was, was very much the wild west: a scattering of podcast creators, podcatchers (software for downloading the podcasts), and podcast listeners, finding each other by word-of-mouth.
+      
+    A year later Apple made the move that cemented their current position as the accidental gorilla of the industry: iTunes 4.9 included support for podcasts and, crucially, the iTunes Music Store created a directory (Apple did not — and still does not — host the podcast files themselves). The landscape of podcasting was completely transformed:
+      
+    Centralization occurs in industry after industry for a reason: everyone benefits, at least in the short term. Start with the users: before iTunes 4.9 subscribing and listening to a podcast was a multi-step process, and most of those steps were so obscure as to be effective barriers for all but the most committed of listeners.
+    
+      Find a podcast
+      Get a podcatcher
+      Copy the URL of the podcast feed into the podcatcher
+      Copy over the audio file from the podcatcher into iTunes
+      Sync the audio file to an iPod
+      Listen to the podcast
+      Delete the podcast from the iPod the next time you sync’d
+    
+    iTunes 4.9 made this far simpler:
+    
+      Find a podcast in the iTunes Store and click ‘Subscribe’
+      Sync your iPod
+      Listen
+    
+    Recounting this simplification may seem pedantic, but there is a point: this was the most important improvement for podcast creators as well. Yes, the iTunes Music Store offered an important new discovery mechanism, but it was the dramatic improvement to the user experience that, for the vast majority of would-be listeners, made podcasts even worth discovering in the first place. Centralized platforms win because they make things easier for the user; producers willingly follow.
+    Interestingly, though, beyond that initial release, which was clearly geared towards selling more iPods, Apple largely left the market alone, with one important exception: in 2012 the company released a standalone Podcasts app for iOS in the App Store, and in 2014 the app was built-in to iOS 8. At that point the power of defaults did its job: according to the  IAB Podcast Ad Metrics Guidelines  released last fall, the Apple Podcast App accounts for around 50% of all podcast players across all operating systems (iTunes is a further ~10%).  1 
+     The Business of Podcasting 
+    It’s not clear when the first podcast advertisement was recorded; a decent guess is  Episode 67 of This Week in Tech  , recorded on September 3, 2006 (Topic: “Does the Google CEO’s place on Apple’s board presage a Sun merger?”). The sponsor was surprisingly familiar — Visa (“Safer, better money. Life takes Visa.”), and Dell joined a week later.
+    Over the ensuing years, though, the typical podcast sponsor was a bit less of a name brand — unless, of course, you were a regular podcast listener, in which case you quickly knew the brands by heart: Squarespace, Audible, Casper Mattress, Blue Apron, and recent favorite MeUndies (because who doesn’t want to hear a host-read endorsement for underwear!). Companies like Visa or Dell were few and far between: a study by  FiveThirtyEight  suggested brand advertisers were less than five percent of ad reads.
+    The reason is quite straightforward: for podcasts there is neither data nor scale. The data part is obvious: while podcasters can (self-)report download numbers, no one knows whether or not a podcast is played, or if the ads are skipped. The scale bit is more subtle: podcasts are both too small and too big. They are too small in that it is difficult to buy ads at scale (and there is virtually no quality control, even with centralized ad sellers like Midroll); they are too large in that the audience, which may be located anywhere in the world listening at any time, is impossible to survey in order to measure ad effectiveness.
+    That is why the vast majority of podcast advertisers are actually quite similar: nearly all are transaction-initiated subscription-based services. The “transaction-initiated” bit means that there is a discrete point at which the customer can indicate where they heard about the product, usually through a special URL, while the “subscription-based” part means these products are evaluating their marketing spend relative to expected lifetime value. In other words, the only products that find podcast advertising worthwhile are those that expect to convert a listener in a measurable way 
+    and
+    make a significant amount of money off of them, justifying the hassle.  2 
+    The result is an industry that, from a monetization perspective, looks a lot like podcasting before iTunes 4.9; there are small businesses to be built, but the industry as a whole is stunted.
+     Apple Podcast Analytics 
+    This is the context for what Apple actually announced. Jason Snell had a good summary at  Six Colors  :
+    
+      New extensions to Apple’s podcast feed specification will allow podcasts to define individual seasons and explain whether an episode is a teaser, a full episode, or bonus content. These extensions will be read by the Podcast app and used to present a podcast in a richer way than the current, more linear, approach…
+      The other big news out of today’s session is for podcasters (and presumably for podcast advertisers): Apple is opening up in-episode analytics of podcasts. For the most part, podcasters only really know when an episode’s MP3 file is downloaded. Beyond that, we can’t really tell if anyone listens to an episode, or how long they listen—only the apps know for sure. Apple said today that it will be using (anonymized) data from the app to show podcasters how many people are listening and where in the app people are stopping or skipping. This has the potential to dramatically change our perception of how many people really listen to a show, and how many people skip ads, as well as how long a podcast can run before people just give up.
+    
+    The new extensions are a nice addition, and a way in which Apple can enhance the user experience to the benefit of everyone. As you might expect, though, I’m particularly interested in the news about analytics. Problem solved, right? Or is it problem caused? What happens when advertisers realize that everyone is skipping their ads?
+     Advertisers: Not Idiots 
+    In fact, I expect these analytics to have minimal impact, at least in the short run. For one, every indication is that analytics will only be available to the podcast publishers, although certainly advertisers will push to have them shared.  3  More pertinently, though, all of the current podcast advertisers know exactly what they are getting: X amount of podcast ads results in Y number of conversions that result in Z amount of lifetime value.
+    Indeed, contrary to what many folks seem to believe, advertisers, whether they leverage podcasts, Facebook, Google, or old school formats like radio or TV, are not idiots blindly throwing money over a wall in the vague hopes that it will drive revenue, ever susceptible to being shocked, shocked! that their ads are being ignored. Particularly in the case of digital formats advertisers are quite sophisticated, basing advertising decisions off of well-known ROI calculations. That is certainly the case with podcasts: knowing to a higher degree of precision how many ads are skipped doesn’t change the calculation for the current crop of podcast advertisers in the slightest.
+    What more data does do is open the door to more varied types of advertisers beyond the subscription services that dominate the space. Brand advertisers, in particular, are more worried about reaching a guaranteed number of potential customers than they are tracking directly to conversion, and Apple’s analytics will help podcasters tell a more convincing story in that regard.
+    In truth, though, Apple’s proposed analytics aren’t nearly enough: advertisers still won’t know who they are reaching or where they are located, and while brand advertisers may not have the expectation of tracking-to-purchase no one wants to throw money to the wind either. The problem of surveying effectively to measure things like brand lift is as acute as ever, and it simply isn’t worth the trouble to do a bunch of relatively small media buys with zero quality control.
+     Apple’s Opportunity 
+    This, though, is why Apple’s centralized role is so intriguing. Remember, the web was thought to be a wasteland for advertising until Google provided a centralized point that aggregated users and could be sold to advertisers. Similarly, mobile was thought to monetize even worse than the (desktop) web until Facebook provided a centralized point that aggregated users and could be sold to advertisers. I expect a similar dynamic in podcasts: the industry will remain the province of web hosting and underwear absent centralization and aggregation, and the only entity that can accomplish that is Apple.
+    One can envision the broad outlines of what the business for a centralized aggregator for podcasts might look like:
+    
+      The centralized aggregator would likely offer hosting to podcast creators, not only to secure the user experience and get better analytics (including on downloads through other apps) but also to dynamically insert advertisements. Those advertisements would also be available to smaller podcasts that are currently not worth the effort to advertisers.
+      Advertisers would get their own dashboard for those analytics and, more importantly, the opportunity to buy ads at far greater scale across a large enough audience to make it worth their while. Ideally, at least from their perspective, they would actually be able to target their advertising buys as well.
+      Users would, at least in theory, benefit from a far broader array of content made possible by the growth in revenue for the industry broadly.
+    
+    There are already companies trying to do just this: I wrote about E.W. Scripps’ Midroll and their acquisition of podcast player Stitcher  last year  . The problem is that Stitcher only has around 5% of listeners, and it is the ownership of users/listeners, not producers/podcast from which true market power derives. Apple has that ownership, and thus that power; the question is will they use it?
+    Surely the safe bet is “no”. iAd, Apple’s previous effort at building an advertising business,  failed spectacularly  , and Apple’s anti-advertising rhetoric has only deepened since then. That’s a problem not only in terms of image but culture: Apple seems highly unlikely to be willing to put in the effort necessary to build a real advertising business, and given how small such a business might be even in the best-case scenario relative to the rest of the company, that’s understandable.  4 
+    To be sure, should Apple decline to seize this opportunity it will  be celebrated by many  , particularly those doing well in the current ecosystem. Podcasting is definitely more open than not, with no real gatekeepers in terms of either distribution or monetization. That, though, is why the money is so small: gatekeepers are moneymakers, and while podcasts may continue to grow, it is by no means inevitable that, absent a more active Apple, the money will follow.
+    
+    Disclosure:
+    
+     Exponent
+    
+    , the podcast I host with
+    
+     James Allworth
+    
+    , does have a (single) sponsor; the revenue from this sponsorship makes up a very small percentage of Stratechery’s overall revenue and does not impact the views in this article
+   
+    
+      For what it’s worth, Exponent has a much different profile: Apple Podcasts has about 13% share, while  Overcast  leads the way with 26% share, followed by (surprisingly!) Mobile Safari with 23% [  ↩  ]
+      This shows why Casper mattresses are the exception that proves the rule: mattresses are not a subscription service, but they are much more expensive than most products bought online, which achieves the same effect as far as lifetime value is concerned [  ↩  ]
+      I’m less worried about the fact other podcast players may not offer similar analytics: the Apple Podcast app will be used as a proxy, although this may hurt podcasts that have a smaller share of downloads via the Apple Podcast app (as total listeners may be undercounted absent similar analytics from other apps) [  ↩  ]
+      It’s Google’s challenge in building a real hardware business in reverse [  ↩  ]
+    
+    
+      
+         Share 
+        
+          
+              Facebook  
+              Twitter  
+              LinkedIn  
+              Email  
+            
+          
+        
+      
+    
+    
+       
+     Related
+     
+    
+  
+  
+
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Podcasts, Analytics, and Centralization" />
+    <meta property="twitter:title" content="Podcasts, Analytics, and Centralization" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2017%2Fpodcasts-analytics-and-centralization%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2017/podcasts-analytics-and-centralization/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2017/podcasts-analytics-and-centralization/&text=Podcasts, Analytics, and Centralization&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2017/podcasts-analytics-and-centralization/&title=Podcasts, Analytics, and Centralization" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2017/podcasts-analytics-and-centralization/&title=Podcasts, Analytics, and Centralization" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Podcasts, Analytics, and Centralization&body=
+  
+     Podcasts, Analytics, and Centralization 
+    
+  Posted on             Tuesday, June 13, 2017 
+            Tuesday, March 27, 2018 
+     Author  by  Ben Thompson   
+    
+    
+  
+  
+  
+    Tucked into the last day of WWDC was a  session on podcasting  , and it contained some big news for the burgeoning industry. Before getting into the specific announcements, though, the session itself is worth a bit of analysis, particularly the opening from Apple Podcasts Business Manager James Boggs:
+    
+      First we want to talk for a moment about how we think about modern podcasts. Long-form and audio. We get excited about episodic content that entertains, informs, and inspires. We get excited and many of our users have gotten excited too.
+    
+    I went on to transcribe the next 500 or so words of Boggs’s presentation, which included various statistics on downloads, catalog size, and reach; a listing of Apple “partners” organized by media and broadcast organizations, public media, and independents; and even started in on Boggs’s review/promotion of individual podcasts like “Up and Vanished” and “Masters of Scale” before I realized Boggs was never going to actually say “how [Apple] think[s] about modern podcasts.” I won’t make you read the transcript — take my word when I say that there was nothing there.
+    Still, that itself was telling; Boggs’s presentation perfectly reflects the state of podcasting today: Apple is an essential piece, even as they really don’t have anything to do with what is going on (but naturally, are happy to take credit).
+     A Brief History of Podcasts 
+    Probably the first modern podcast was  created by Dave Winer in 2003  , although it wasn’t called a “podcast”: that was coined  by Ben Hammersley in 2004  , and the inspiration was Apple’s iPod. Still, while the media had a name, the “industry”, such that it was, was very much the wild west: a scattering of podcast creators, podcatchers (software for downloading the podcasts), and podcast listeners, finding each other by word-of-mouth.
+      
+    A year later Apple made the move that cemented their current position as the accidental gorilla of the industry: iTunes 4.9 included support for podcasts and, crucially, the iTunes Music Store created a directory (Apple did not — and still does not — host the podcast files themselves). The landscape of podcasting was completely transformed:
+      
+    Centralization occurs in industry after industry for a reason: everyone benefits, at least in the short term. Start with the users: before iTunes 4.9 subscribing and listening to a podcast was a multi-step process, and most of those steps were so obscure as to be effective barriers for all but the most committed of listeners.
+    
+      Find a podcast
+      Get a podcatcher
+      Copy the URL of the podcast feed into the podcatcher
+      Copy over the audio file from the podcatcher into iTunes
+      Sync the audio file to an iPod
+      Listen to the podcast
+      Delete the podcast from the iPod the next time you sync’d
+    
+    iTunes 4.9 made this far simpler:
+    
+      Find a podcast in the iTunes Store and click ‘Subscribe’
+      Sync your iPod
+      Listen
+    
+    Recounting this simplification may seem pedantic, but there is a point: this was the most important improvement for podcast creators as well. Yes, the iTunes Music Store offered an important new discovery mechanism, but it was the dramatic improvement to the user experience that, for the vast majority of would-be listeners, made podcasts even worth discovering in the first place. Centralized platforms win because they make things easier for the user; producers willingly follow.
+    Interestingly, though, beyond that initial release, which was clearly geared towards selling more iPods, Apple largely left the market alone, with one important exception: in 2012 the company released a standalone Podcasts app for iOS in the App Store, and in 2014 the app was built-in to iOS 8. At that point the power of defaults did its job: according to the  IAB Podcast Ad Metrics Guidelines  released last fall, the Apple Podcast App accounts for around 50% of all podcast players across all operating systems (iTunes is a further ~10%).  1 
+     The Business of Podcasting 
+    It’s not clear when the first podcast advertisement was recorded; a decent guess is  Episode 67 of This Week in Tech  , recorded on September 3, 2006 (Topic: “Does the Google CEO’s place on Apple’s board presage a Sun merger?”). The sponsor was surprisingly familiar — Visa (“Safer, better money. Life takes Visa.”), and Dell joined a week later.
+    Over the ensuing years, though, the typical podcast sponsor was a bit less of a name brand — unless, of course, you were a regular podcast listener, in which case you quickly knew the brands by heart: Squarespace, Audible, Casper Mattress, Blue Apron, and recent favorite MeUndies (because who doesn’t want to hear a host-read endorsement for underwear!). Companies like Visa or Dell were few and far between: a study by  FiveThirtyEight  suggested brand advertisers were less than five percent of ad reads.
+    The reason is quite straightforward: for podcasts there is neither data nor scale. The data part is obvious: while podcasters can (self-)report download numbers, no one knows whether or not a podcast is played, or if the ads are skipped. The scale bit is more subtle: podcasts are both too small and too big. They are too small in that it is difficult to buy ads at scale (and there is virtually no quality control, even with centralized ad sellers like Midroll); they are too large in that the audience, which may be located anywhere in the world listening at any time, is impossible to survey in order to measure ad effectiveness.
+    That is why the vast majority of podcast advertisers are actually quite similar: nearly all are transaction-initiated subscription-based services. The “transaction-initiated” bit means that there is a discrete point at which the customer can indicate where they heard about the product, usually through a special URL, while the “subscription-based” part means these products are evaluating their marketing spend relative to expected lifetime value. In other words, the only products that find podcast advertising worthwhile are those that expect to convert a listener in a measurable way 
+    and
+    make a significant amount of money off of them, justifying the hassle.  2 
+    The result is an industry that, from a monetization perspective, looks a lot like podcasting before iTunes 4.9; there are small businesses to be built, but the industry as a whole is stunted.
+     Apple Podcast Analytics 
+    This is the context for what Apple actually announced. Jason Snell had a good summary at  Six Colors  :
+    
+      New extensions to Apple’s podcast feed specification will allow podcasts to define individual seasons and explain whether an episode is a teaser, a full episode, or bonus content. These extensions will be read by the Podcast app and used to present a podcast in a richer way than the current, more linear, approach…
+      The other big news out of today’s session is for podcasters (and presumably for podcast advertisers): Apple is opening up in-episode analytics of podcasts. For the most part, podcasters only really know when an episode’s MP3 file is downloaded. Beyond that, we can’t really tell if anyone listens to an episode, or how long they listen—only the apps know for sure. Apple said today that it will be using (anonymized) data from the app to show podcasters how many people are listening and where in the app people are stopping or skipping. This has the potential to dramatically change our perception of how many people really listen to a show, and how many people skip ads, as well as how long a podcast can run before people just give up.
+    
+    The new extensions are a nice addition, and a way in which Apple can enhance the user experience to the benefit of everyone. As you might expect, though, I’m particularly interested in the news about analytics. Problem solved, right? Or is it problem caused? What happens when advertisers realize that everyone is skipping their ads?
+     Advertisers: Not Idiots 
+    In fact, I expect these analytics to have minimal impact, at least in the short run. For one, every indication is that analytics will only be available to the podcast publishers, although certainly advertisers will push to have them shared.  3  More pertinently, though, all of the current podcast advertisers know exactly what they are getting: X amount of podcast ads results in Y number of conversions that result in Z amount of lifetime value.
+    Indeed, contrary to what many folks seem to believe, advertisers, whether they leverage podcasts, Facebook, Google, or old school formats like radio or TV, are not idiots blindly throwing money over a wall in the vague hopes that it will drive revenue, ever susceptible to being shocked, shocked! that their ads are being ignored. Particularly in the case of digital formats advertisers are quite sophisticated, basing advertising decisions off of well-known ROI calculations. That is certainly the case with podcasts: knowing to a higher degree of precision how many ads are skipped doesn’t change the calculation for the current crop of podcast advertisers in the slightest.
+    What more data does do is open the door to more varied types of advertisers beyond the subscription services that dominate the space. Brand advertisers, in particular, are more worried about reaching a guaranteed number of potential customers than they are tracking directly to conversion, and Apple’s analytics will help podcasters tell a more convincing story in that regard.
+    In truth, though, Apple’s proposed analytics aren’t nearly enough: advertisers still won’t know who they are reaching or where they are located, and while brand advertisers may not have the expectation of tracking-to-purchase no one wants to throw money to the wind either. The problem of surveying effectively to measure things like brand lift is as acute as ever, and it simply isn’t worth the trouble to do a bunch of relatively small media buys with zero quality control.
+     Apple’s Opportunity 
+    This, though, is why Apple’s centralized role is so intriguing. Remember, the web was thought to be a wasteland for advertising until Google provided a centralized point that aggregated users and could be sold to advertisers. Similarly, mobile was thought to monetize even worse than the (desktop) web until Facebook provided a centralized point that aggregated users and could be sold to advertisers. I expect a similar dynamic in podcasts: the industry will remain the province of web hosting and underwear absent centralization and aggregation, and the only entity that can accomplish that is Apple.
+    One can envision the broad outlines of what the business for a centralized aggregator for podcasts might look like:
+    
+      The centralized aggregator would likely offer hosting to podcast creators, not only to secure the user experience and get better analytics (including on downloads through other apps) but also to dynamically insert advertisements. Those advertisements would also be available to smaller podcasts that are currently not worth the effort to advertisers.
+      Advertisers would get their own dashboard for those analytics and, more importantly, the opportunity to buy ads at far greater scale across a large enough audience to make it worth their while. Ideally, at least from their perspective, they would actually be able to target their advertising buys as well.
+      Users would, at least in theory, benefit from a far broader array of content made possible by the growth in revenue for the industry broadly.
+    
+    There are already companies trying to do just this: I wrote about E.W. Scripps’ Midroll and their acquisition of podcast player Stitcher  last year  . The problem is that Stitcher only has around 5% of listeners, and it is the ownership of users/listeners, not producers/podcast from which true market power derives. Apple has that ownership, and thus that power; the question is will they use it?
+    Surely the safe bet is “no”. iAd, Apple’s previous effort at building an advertising business,  failed spectacularly  , and Apple’s anti-advertising rhetoric has only deepened since then. That’s a problem not only in terms of image but culture: Apple seems highly unlikely to be willing to put in the effort necessary to build a real advertising business, and given how small such a business might be even in the best-case scenario relative to the rest of the company, that’s understandable.  4 
+    To be sure, should Apple decline to seize this opportunity it will  be celebrated by many  , particularly those doing well in the current ecosystem. Podcasting is definitely more open than not, with no real gatekeepers in terms of either distribution or monetization. That, though, is why the money is so small: gatekeepers are moneymakers, and while podcasts may continue to grow, it is by no means inevitable that, absent a more active Apple, the money will follow.
+    
+    Disclosure:
+    
+     Exponent
+    
+    , the podcast I host with
+    
+     James Allworth
+    
+    , does have a (single) sponsor; the revenue from this sponsorship makes up a very small percentage of Stratechery’s overall revenue and does not impact the views in this article
+   
+    
+      For what it’s worth, Exponent has a much different profile: Apple Podcasts has about 13% share, while  Overcast  leads the way with 26% share, followed by (surprisingly!) Mobile Safari with 23% [  ↩  ]
+      This shows why Casper mattresses are the exception that proves the rule: mattresses are not a subscription service, but they are much more expensive than most products bought online, which achieves the same effect as far as lifetime value is concerned [  ↩  ]
+      I’m less worried about the fact other podcast players may not offer similar analytics: the Apple Podcast app will be used as a proxy, although this may hurt podcasts that have a smaller share of downloads via the Apple Podcast app (as total listeners may be undercounted absent similar analytics from other apps) [  ↩  ]
+      It’s Google’s challenge in building a real hardware business in reverse [  ↩  ]
+    
+    
+      
+         Share 
+        
+          
+              Facebook  
+              Twitter  
+              LinkedIn  
+              Email  
+            
+          
+        
+      
+    
+    
+       
+     Related
+     
+    
+  
+  
+
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2017/podcasts-analytics-and-centralization/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2017/podcasts-analytics-and-centralization/&title=Podcasts, Analytics, and Centralization&caption=
+  
+     Podcasts, Analytics, and Centralization 
+    
+  Posted on             Tuesday, June 13, 2017 
+            Tuesday, March 27, 2018 
+     Author  by  Ben Thompson   
+    
+    
+  
+  
+  
+    Tucked into the last day of WWDC was a  session on podcasting  , and it contained some big news for the burgeoning industry. Before getting into the specific announcements, though, the session itself is worth a bit of analysis, particularly the opening from Apple Podcasts Business Manager James Boggs:
+    
+      First we want to talk for a moment about how we think about modern podcasts. Long-form and audio. We get excited about episodic content that entertains, informs, and inspires. We get excited and many of our users have gotten excited too.
+    
+    I went on to transcribe the next 500 or so words of Boggs’s presentation, which included various statistics on downloads, catalog size, and reach; a listing of Apple “partners” organized by media and broadcast organizations, public media, and independents; and even started in on Boggs’s review/promotion of individual podcasts like “Up and Vanished” and “Masters of Scale” before I realized Boggs was never going to actually say “how [Apple] think[s] about modern podcasts.” I won’t make you read the transcript — take my word when I say that there was nothing there.
+    Still, that itself was telling; Boggs’s presentation perfectly reflects the state of podcasting today: Apple is an essential piece, even as they really don’t have anything to do with what is going on (but naturally, are happy to take credit).
+     A Brief History of Podcasts 
+    Probably the first modern podcast was  created by Dave Winer in 2003  , although it wasn’t called a “podcast”: that was coined  by Ben Hammersley in 2004  , and the inspiration was Apple’s iPod. Still, while the media had a name, the “industry”, such that it was, was very much the wild west: a scattering of podcast creators, podcatchers (software for downloading the podcasts), and podcast listeners, finding each other by word-of-mouth.
+      
+    A year later Apple made the move that cemented their current position as the accidental gorilla of the industry: iTunes 4.9 included support for podcasts and, crucially, the iTunes Music Store created a directory (Apple did not — and still does not — host the podcast files themselves). The landscape of podcasting was completely transformed:
+      
+    Centralization occurs in industry after industry for a reason: everyone benefits, at least in the short term. Start with the users: before iTunes 4.9 subscribing and listening to a podcast was a multi-step process, and most of those steps were so obscure as to be effective barriers for all but the most committed of listeners.
+    
+      Find a podcast
+      Get a podcatcher
+      Copy the URL of the podcast feed into the podcatcher
+      Copy over the audio file from the podcatcher into iTunes
+      Sync the audio file to an iPod
+      Listen to the podcast
+      Delete the podcast from the iPod the next time you sync’d
+    
+    iTunes 4.9 made this far simpler:
+    
+      Find a podcast in the iTunes Store and click ‘Subscribe’
+      Sync your iPod
+      Listen
+    
+    Recounting this simplification may seem pedantic, but there is a point: this was the most important improvement for podcast creators as well. Yes, the iTunes Music Store offered an important new discovery mechanism, but it was the dramatic improvement to the user experience that, for the vast majority of would-be listeners, made podcasts even worth discovering in the first place. Centralized platforms win because they make things easier for the user; producers willingly follow.
+    Interestingly, though, beyond that initial release, which was clearly geared towards selling more iPods, Apple largely left the market alone, with one important exception: in 2012 the company released a standalone Podcasts app for iOS in the App Store, and in 2014 the app was built-in to iOS 8. At that point the power of defaults did its job: according to the  IAB Podcast Ad Metrics Guidelines  released last fall, the Apple Podcast App accounts for around 50% of all podcast players across all operating systems (iTunes is a further ~10%).  1 
+     The Business of Podcasting 
+    It’s not clear when the first podcast advertisement was recorded; a decent guess is  Episode 67 of This Week in Tech  , recorded on September 3, 2006 (Topic: “Does the Google CEO’s place on Apple’s board presage a Sun merger?”). The sponsor was surprisingly familiar — Visa (“Safer, better money. Life takes Visa.”), and Dell joined a week later.
+    Over the ensuing years, though, the typical podcast sponsor was a bit less of a name brand — unless, of course, you were a regular podcast listener, in which case you quickly knew the brands by heart: Squarespace, Audible, Casper Mattress, Blue Apron, and recent favorite MeUndies (because who doesn’t want to hear a host-read endorsement for underwear!). Companies like Visa or Dell were few and far between: a study by  FiveThirtyEight  suggested brand advertisers were less than five percent of ad reads.
+    The reason is quite straightforward: for podcasts there is neither data nor scale. The data part is obvious: while podcasters can (self-)report download numbers, no one knows whether or not a podcast is played, or if the ads are skipped. The scale bit is more subtle: podcasts are both too small and too big. They are too small in that it is difficult to buy ads at scale (and there is virtually no quality control, even with centralized ad sellers like Midroll); they are too large in that the audience, which may be located anywhere in the world listening at any time, is impossible to survey in order to measure ad effectiveness.
+    That is why the vast majority of podcast advertisers are actually quite similar: nearly all are transaction-initiated subscription-based services. The “transaction-initiated” bit means that there is a discrete point at which the customer can indicate where they heard about the product, usually through a special URL, while the “subscription-based” part means these products are evaluating their marketing spend relative to expected lifetime value. In other words, the only products that find podcast advertising worthwhile are those that expect to convert a listener in a measurable way 
+    and
+    make a significant amount of money off of them, justifying the hassle.  2 
+    The result is an industry that, from a monetization perspective, looks a lot like podcasting before iTunes 4.9; there are small businesses to be built, but the industry as a whole is stunted.
+     Apple Podcast Analytics 
+    This is the context for what Apple actually announced. Jason Snell had a good summary at  Six Colors  :
+    
+      New extensions to Apple’s podcast feed specification will allow podcasts to define individual seasons and explain whether an episode is a teaser, a full episode, or bonus content. These extensions will be read by the Podcast app and used to present a podcast in a richer way than the current, more linear, approach…
+      The other big news out of today’s session is for podcasters (and presumably for podcast advertisers): Apple is opening up in-episode analytics of podcasts. For the most part, podcasters only really know when an episode’s MP3 file is downloaded. Beyond that, we can’t really tell if anyone listens to an episode, or how long they listen—only the apps know for sure. Apple said today that it will be using (anonymized) data from the app to show podcasters how many people are listening and where in the app people are stopping or skipping. This has the potential to dramatically change our perception of how many people really listen to a show, and how many people skip ads, as well as how long a podcast can run before people just give up.
+    
+    The new extensions are a nice addition, and a way in which Apple can enhance the user experience to the benefit of everyone. As you might expect, though, I’m particularly interested in the news about analytics. Problem solved, right? Or is it problem caused? What happens when advertisers realize that everyone is skipping their ads?
+     Advertisers: Not Idiots 
+    In fact, I expect these analytics to have minimal impact, at least in the short run. For one, every indication is that analytics will only be available to the podcast publishers, although certainly advertisers will push to have them shared.  3  More pertinently, though, all of the current podcast advertisers know exactly what they are getting: X amount of podcast ads results in Y number of conversions that result in Z amount of lifetime value.
+    Indeed, contrary to what many folks seem to believe, advertisers, whether they leverage podcasts, Facebook, Google, or old school formats like radio or TV, are not idiots blindly throwing money over a wall in the vague hopes that it will drive revenue, ever susceptible to being shocked, shocked! that their ads are being ignored. Particularly in the case of digital formats advertisers are quite sophisticated, basing advertising decisions off of well-known ROI calculations. That is certainly the case with podcasts: knowing to a higher degree of precision how many ads are skipped doesn’t change the calculation for the current crop of podcast advertisers in the slightest.
+    What more data does do is open the door to more varied types of advertisers beyond the subscription services that dominate the space. Brand advertisers, in particular, are more worried about reaching a guaranteed number of potential customers than they are tracking directly to conversion, and Apple’s analytics will help podcasters tell a more convincing story in that regard.
+    In truth, though, Apple’s proposed analytics aren’t nearly enough: advertisers still won’t know who they are reaching or where they are located, and while brand advertisers may not have the expectation of tracking-to-purchase no one wants to throw money to the wind either. The problem of surveying effectively to measure things like brand lift is as acute as ever, and it simply isn’t worth the trouble to do a bunch of relatively small media buys with zero quality control.
+     Apple’s Opportunity 
+    This, though, is why Apple’s centralized role is so intriguing. Remember, the web was thought to be a wasteland for advertising until Google provided a centralized point that aggregated users and could be sold to advertisers. Similarly, mobile was thought to monetize even worse than the (desktop) web until Facebook provided a centralized point that aggregated users and could be sold to advertisers. I expect a similar dynamic in podcasts: the industry will remain the province of web hosting and underwear absent centralization and aggregation, and the only entity that can accomplish that is Apple.
+    One can envision the broad outlines of what the business for a centralized aggregator for podcasts might look like:
+    
+      The centralized aggregator would likely offer hosting to podcast creators, not only to secure the user experience and get better analytics (including on downloads through other apps) but also to dynamically insert advertisements. Those advertisements would also be available to smaller podcasts that are currently not worth the effort to advertisers.
+      Advertisers would get their own dashboard for those analytics and, more importantly, the opportunity to buy ads at far greater scale across a large enough audience to make it worth their while. Ideally, at least from their perspective, they would actually be able to target their advertising buys as well.
+      Users would, at least in theory, benefit from a far broader array of content made possible by the growth in revenue for the industry broadly.
+    
+    There are already companies trying to do just this: I wrote about E.W. Scripps’ Midroll and their acquisition of podcast player Stitcher  last year  . The problem is that Stitcher only has around 5% of listeners, and it is the ownership of users/listeners, not producers/podcast from which true market power derives. Apple has that ownership, and thus that power; the question is will they use it?
+    Surely the safe bet is “no”. iAd, Apple’s previous effort at building an advertising business,  failed spectacularly  , and Apple’s anti-advertising rhetoric has only deepened since then. That’s a problem not only in terms of image but culture: Apple seems highly unlikely to be willing to put in the effort necessary to build a real advertising business, and given how small such a business might be even in the best-case scenario relative to the rest of the company, that’s understandable.  4 
+    To be sure, should Apple decline to seize this opportunity it will  be celebrated by many  , particularly those doing well in the current ecosystem. Podcasting is definitely more open than not, with no real gatekeepers in terms of either distribution or monetization. That, though, is why the money is so small: gatekeepers are moneymakers, and while podcasts may continue to grow, it is by no means inevitable that, absent a more active Apple, the money will follow.
+    
+    Disclosure:
+    
+     Exponent
+    
+    , the podcast I host with
+    
+     James Allworth
+    
+    , does have a (single) sponsor; the revenue from this sponsorship makes up a very small percentage of Stratechery’s overall revenue and does not impact the views in this article
+   
+    
+      For what it’s worth, Exponent has a much different profile: Apple Podcasts has about 13% share, while  Overcast  leads the way with 26% share, followed by (surprisingly!) Mobile Safari with 23% [  ↩  ]
+      This shows why Casper mattresses are the exception that proves the rule: mattresses are not a subscription service, but they are much more expensive than most products bought online, which achieves the same effect as far as lifetime value is concerned [  ↩  ]
+      I’m less worried about the fact other podcast players may not offer similar analytics: the Apple Podcast app will be used as a proxy, although this may hurt podcasts that have a smaller share of downloads via the Apple Podcast app (as total listeners may be undercounted absent similar analytics from other apps) [  ↩  ]
+      It’s Google’s challenge in building a real hardware business in reverse [  ↩  ]
+    
+    
+      
+         Share 
+        
+          
+              Facebook  
+              Twitter  
+              LinkedIn  
+              Email  
+            
+          
+        
+      
+    
+    
+       
+     Related
+     
+    
+  
+  
+
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Podcasts, Analytics, and Centralization&url=https://stratechery.com/2017/podcasts-analytics-and-centralization/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Podcasts, Analytics, and Centralization</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2017-06-13
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2017/podcasts-analytics-and-centralization/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <article class="post-2628 post type-post status-publish format-standard has-post-thumbnail hentry category-articles topics-audio topics-podcasts concepts-advertising concepts-aggregation-theory concepts-business-models concepts-commoditizing-suppliers companies-apple" id="post-2628">
+  <header class="entry-header">
+    <h1 class="entry-title" id="podcasts-analytics-and-centralization-"> Podcasts, Analytics, and Centralization </h1>
+    <div class="entry-meta">
+<span class="posted-on"> <span class="screen-reader-text"> Posted on </span>           <time class="entry-date published" datetime="2017-06-13T06:59:32-07:00"> Tuesday, June 13, 2017 </time>
+           <time class="updated" datetime="2018-03-27T00:10:46-07:00"> Tuesday, March 27, 2018 </time>
+ </span> <span class="byline"> <span class="author vcard"> <span class="screen-reader-text"> Author </span> by <a class="url fn n" href="https://stratechery.com/author/stratechery/"> Ben Thompson </a> </span> </span>
+    </div>
+    <!-- .entry-meta -->
+  </header>
+  <!-- .entry-header -->
+  <div class="entry-content">
+    <p>Tucked into the last day of WWDC was a <a href="https://developer.apple.com/videos/play/wwdc2017/512/"> session on podcasting </a> , and it contained some big news for the burgeoning industry. Before getting into the specific announcements, though, the session itself is worth a bit of analysis, particularly the opening from Apple Podcasts Business Manager James Boggs:</p>
+    <blockquote>
+      <p>First we want to talk for a moment about how we think about modern podcasts. Long-form and audio. We get excited about episodic content that entertains, informs, and inspires. We get excited and many of our users have gotten excited too.</p>
+    </blockquote>
+    <p>I went on to transcribe the next 500 or so words of Boggs’s presentation, which included various statistics on downloads, catalog size, and reach; a listing of Apple “partners” organized by media and broadcast organizations, public media, and independents; and even started in on Boggs’s review/promotion of individual podcasts like “Up and Vanished” and “Masters of Scale” before I realized Boggs was never going to actually say “how [Apple] think[s] about modern podcasts.” I won’t make you read the transcript — take my word when I say that there was nothing there.</p>
+    <p>Still, that itself was telling; Boggs’s presentation perfectly reflects the state of podcasting today: Apple is an essential piece, even as they really don’t have anything to do with what is going on (but naturally, are happy to take credit).</p>
+    <h4 id="a-brief-history-of-podcasts-"> A Brief History of Podcasts </h4>
+    <p>Probably the first modern podcast was <a href="http://www.econtentmag.com/Articles/ArticleReader.aspx?ArticleID=13515"> created by Dave Winer in 2003 </a> , although it wasn’t called a “podcast”: that was coined <a href="https://www.theguardian.com/media/2004/feb/12/broadcasting.digitalmedia"> by Ben Hammersley in 2004 </a> , and the inspiration was Apple’s iPod. Still, while the media had a name, the “industry”, such that it was, was very much the wild west: a scattering of podcast creators, podcatchers (software for downloading the podcasts), and podcast listeners, finding each other by word-of-mouth.</p>
+    <p><a href="https://stratechery.com/wp-content/uploads/2017/06/stratechery-Year-One-267.png"> <img alt="stratechery Year One - 267" class="aligncenter size-large wp-image-2629" height="480" sizes="(max-width: 640px) 100vw, 640px" src="https://stratechery.com/wp-content/uploads/2017/06/stratechery-Year-One-267-1024x768.png" srcset="https://stratechery.com/wp-content/uploads/2017/06/stratechery-Year-One-267-1024x768.png 1024w, https://stratechery.com/wp-content/uploads/2017/06/stratechery-Year-One-267-300x225.png 300w, https://stratechery.com/wp-content/uploads/2017/06/stratechery-Year-One-267-768x576.png 768w, https://stratechery.com/wp-content/uploads/2017/06/stratechery-Year-One-267-840x630.png 840w, https://stratechery.com/wp-content/uploads/2017/06/stratechery-Year-One-267.png 2048w" width="640" /> </a></p>
+    <p>A year later Apple made the move that cemented their current position as the accidental gorilla of the industry: iTunes 4.9 included support for podcasts and, crucially, the iTunes Music Store created a directory (Apple did not — and still does not — host the podcast files themselves). The landscape of podcasting was completely transformed:</p>
+    <p><a href="https://stratechery.com/wp-content/uploads/2017/06/stratechery-Year-One-268.png"> <img alt="stratechery Year One - 268" class="aligncenter size-large wp-image-2630" height="480" sizes="(max-width: 640px) 100vw, 640px" src="https://stratechery.com/wp-content/uploads/2017/06/stratechery-Year-One-268-1024x768.png" srcset="https://stratechery.com/wp-content/uploads/2017/06/stratechery-Year-One-268-1024x768.png 1024w, https://stratechery.com/wp-content/uploads/2017/06/stratechery-Year-One-268-300x225.png 300w, https://stratechery.com/wp-content/uploads/2017/06/stratechery-Year-One-268-768x576.png 768w, https://stratechery.com/wp-content/uploads/2017/06/stratechery-Year-One-268-840x630.png 840w, https://stratechery.com/wp-content/uploads/2017/06/stratechery-Year-One-268.png 2048w" width="640" /> </a></p>
+    <p>Centralization occurs in industry after industry for a reason: everyone benefits, at least in the short term. Start with the users: before iTunes 4.9 subscribing and listening to a podcast was a multi-step process, and most of those steps were so obscure as to be effective barriers for all but the most committed of listeners.</p>
+    <ul>
+      <li>Find a podcast</li>
+      <li>Get a podcatcher</li>
+      <li>Copy the URL of the podcast feed into the podcatcher</li>
+      <li>Copy over the audio file from the podcatcher into iTunes</li>
+      <li>Sync the audio file to an iPod</li>
+      <li>Listen to the podcast</li>
+      <li>Delete the podcast from the iPod the next time you sync’d</li>
+    </ul>
+    <p>iTunes 4.9 made this far simpler:</p>
+    <ul>
+      <li>Find a podcast in the iTunes Store and click ‘Subscribe’</li>
+      <li>Sync your iPod</li>
+      <li>Listen</li>
+    </ul>
+    <p>Recounting this simplification may seem pedantic, but there is a point: this was the most important improvement for podcast creators as well. Yes, the iTunes Music Store offered an important new discovery mechanism, but it was the dramatic improvement to the user experience that, for the vast majority of would-be listeners, made podcasts even worth discovering in the first place. Centralized platforms win because they make things easier for the user; producers willingly follow.</p>
+    <p>Interestingly, though, beyond that initial release, which was clearly geared towards selling more iPods, Apple largely left the market alone, with one important exception: in 2012 the company released a standalone Podcasts app for iOS in the App Store, and in 2014 the app was built-in to iOS 8. At that point the power of defaults did its job: according to the <a href="https://iabtechlab.com/wp-content/uploads/2016/07/Podcast-Metrics_September_2016.pdf"> IAB Podcast Ad Metrics Guidelines </a> released last fall, the Apple Podcast App accounts for around 50% of all podcast players across all operating systems (iTunes is a further ~10%). <a class="footnote-link footnote-identifier-link" href="#footnote_0_2628" id="identifier_0_2628" title="For what it’s worth, Exponent has a much different profile: Apple Podcasts has about 13% share, while Overcast leads the way with 26% share, followed by (surprisingly!) Mobile Safari with 23%"> 1 </a></p>
+    <h4 id="the-business-of-podcasting-"> The Business of Podcasting </h4>
+    <p>It’s not clear when the first podcast advertisement was recorded; a decent guess is <a href="https://twit.tv/shows/this-week-in-tech/episodes/67?autostart=false"> Episode 67 of This Week in Tech </a> , recorded on September 3, 2006 (Topic: “Does the Google CEO’s place on Apple’s board presage a Sun merger?”). The sponsor was surprisingly familiar — Visa (“Safer, better money. Life takes Visa.”), and Dell joined a week later.</p>
+    <p>Over the ensuing years, though, the typical podcast sponsor was a bit less of a name brand — unless, of course, you were a regular podcast listener, in which case you quickly knew the brands by heart: Squarespace, Audible, Casper Mattress, Blue Apron, and recent favorite MeUndies (because who doesn’t want to hear a host-read endorsement for underwear!). Companies like Visa or Dell were few and far between: a study by <a href="https://fivethirtyeight.com/features/but-first-a-word-from-100-podcast-sponsors/"> FiveThirtyEight </a> suggested brand advertisers were less than five percent of ad reads.</p>
+    <p>The reason is quite straightforward: for podcasts there is neither data nor scale. The data part is obvious: while podcasters can (self-)report download numbers, no one knows whether or not a podcast is played, or if the ads are skipped. The scale bit is more subtle: podcasts are both too small and too big. They are too small in that it is difficult to buy ads at scale (and there is virtually no quality control, even with centralized ad sellers like Midroll); they are too large in that the audience, which may be located anywhere in the world listening at any time, is impossible to survey in order to measure ad effectiveness.</p>
+    <p>That is why the vast majority of podcast advertisers are actually quite similar: nearly all are transaction-initiated subscription-based services. The “transaction-initiated” bit means that there is a discrete point at which the customer can indicate where they heard about the product, usually through a special URL, while the “subscription-based” part means these products are evaluating their marketing spend relative to expected lifetime value. In other words, the only products that find podcast advertising worthwhile are those that expect to convert a listener in a measurable way <em>
+    and
+   </em> make a significant amount of money off of them, justifying the hassle. <a class="footnote-link footnote-identifier-link" href="#footnote_1_2628" id="identifier_1_2628" title="This shows why Casper mattresses are the exception that proves the rule: mattresses are not a subscription service, but they are much more expensive than most products bought online, which achieves the same effect as far as lifetime value is concerned"> 2 </a></p>
+    <p>The result is an industry that, from a monetization perspective, looks a lot like podcasting before iTunes 4.9; there are small businesses to be built, but the industry as a whole is stunted.</p>
+    <h4 id="apple-podcast-analytics-"> Apple Podcast Analytics </h4>
+    <p>This is the context for what Apple actually announced. Jason Snell had a good summary at <a href="https://sixcolors.com/post/2017/06/apple-makes-major-podcast-updates/"> Six Colors </a> :</p>
+    <blockquote>
+      <p>New extensions to Apple’s podcast feed specification will allow podcasts to define individual seasons and explain whether an episode is a teaser, a full episode, or bonus content. These extensions will be read by the Podcast app and used to present a podcast in a richer way than the current, more linear, approach…</p>
+      <p>The other big news out of today’s session is for podcasters (and presumably for podcast advertisers): Apple is opening up in-episode analytics of podcasts. For the most part, podcasters only really know when an episode’s MP3 file is downloaded. Beyond that, we can’t really tell if anyone listens to an episode, or how long they listen—only the apps know for sure. Apple said today that it will be using (anonymized) data from the app to show podcasters how many people are listening and where in the app people are stopping or skipping. This has the potential to dramatically change our perception of how many people really listen to a show, and how many people skip ads, as well as how long a podcast can run before people just give up.</p>
+    </blockquote>
+    <p>The new extensions are a nice addition, and a way in which Apple can enhance the user experience to the benefit of everyone. As you might expect, though, I’m particularly interested in the news about analytics. Problem solved, right? Or is it problem caused? What happens when advertisers realize that everyone is skipping their ads?</p>
+    <h4 id="advertisers-not-idiots-"> Advertisers: Not Idiots </h4>
+    <p>In fact, I expect these analytics to have minimal impact, at least in the short run. For one, every indication is that analytics will only be available to the podcast publishers, although certainly advertisers will push to have them shared. <a class="footnote-link footnote-identifier-link" href="#footnote_2_2628" id="identifier_2_2628" title="I’m less worried about the fact other podcast players may not offer similar analytics: the Apple Podcast app will be used as a proxy, although this may hurt podcasts that have a smaller share of downloads via the Apple Podcast app (as total listeners may be undercounted absent similar analytics from other apps) "> 3 </a> More pertinently, though, all of the current podcast advertisers know exactly what they are getting: X amount of podcast ads results in Y number of conversions that result in Z amount of lifetime value.</p>
+    <p>Indeed, contrary to what many folks seem to believe, advertisers, whether they leverage podcasts, Facebook, Google, or old school formats like radio or TV, are not idiots blindly throwing money over a wall in the vague hopes that it will drive revenue, ever susceptible to being shocked, shocked! that their ads are being ignored. Particularly in the case of digital formats advertisers are quite sophisticated, basing advertising decisions off of well-known ROI calculations. That is certainly the case with podcasts: knowing to a higher degree of precision how many ads are skipped doesn’t change the calculation for the current crop of podcast advertisers in the slightest.</p>
+    <p>What more data does do is open the door to more varied types of advertisers beyond the subscription services that dominate the space. Brand advertisers, in particular, are more worried about reaching a guaranteed number of potential customers than they are tracking directly to conversion, and Apple’s analytics will help podcasters tell a more convincing story in that regard.</p>
+    <p>In truth, though, Apple’s proposed analytics aren’t nearly enough: advertisers still won’t know who they are reaching or where they are located, and while brand advertisers may not have the expectation of tracking-to-purchase no one wants to throw money to the wind either. The problem of surveying effectively to measure things like brand lift is as acute as ever, and it simply isn’t worth the trouble to do a bunch of relatively small media buys with zero quality control.</p>
+    <h4 id="apples-opportunity-"> Apple’s Opportunity </h4>
+    <p>This, though, is why Apple’s centralized role is so intriguing. Remember, the web was thought to be a wasteland for advertising until Google provided a centralized point that aggregated users and could be sold to advertisers. Similarly, mobile was thought to monetize even worse than the (desktop) web until Facebook provided a centralized point that aggregated users and could be sold to advertisers. I expect a similar dynamic in podcasts: the industry will remain the province of web hosting and underwear absent centralization and aggregation, and the only entity that can accomplish that is Apple.</p>
+    <p>One can envision the broad outlines of what the business for a centralized aggregator for podcasts might look like:</p>
+    <ul>
+      <li>The centralized aggregator would likely offer hosting to podcast creators, not only to secure the user experience and get better analytics (including on downloads through other apps) but also to dynamically insert advertisements. Those advertisements would also be available to smaller podcasts that are currently not worth the effort to advertisers.</li>
+      <li>Advertisers would get their own dashboard for those analytics and, more importantly, the opportunity to buy ads at far greater scale across a large enough audience to make it worth their while. Ideally, at least from their perspective, they would actually be able to target their advertising buys as well.</li>
+      <li>Users would, at least in theory, benefit from a far broader array of content made possible by the growth in revenue for the industry broadly.</li>
+    </ul>
+    <p>There are already companies trying to do just this: I wrote about E.W. Scripps’ Midroll and their acquisition of podcast player Stitcher <a href="https://stratechery.com/2016/the-future-of-podcasting/"> last year </a> . The problem is that Stitcher only has around 5% of listeners, and it is the ownership of users/listeners, not producers/podcast from which true market power derives. Apple has that ownership, and thus that power; the question is will they use it?</p>
+    <p>Surely the safe bet is “no”. iAd, Apple’s previous effort at building an advertising business, <a href="https://stratechery.com/2016/apple-scales-back-iads-the-apple-news-mess/"> failed spectacularly </a> , and Apple’s anti-advertising rhetoric has only deepened since then. That’s a problem not only in terms of image but culture: Apple seems highly unlikely to be willing to put in the effort necessary to build a real advertising business, and given how small such a business might be even in the best-case scenario relative to the rest of the company, that’s understandable. <a class="footnote-link footnote-identifier-link" href="#footnote_3_2628" id="identifier_3_2628" title="It’s Google’s challenge in building a real hardware business in reverse"> 4 </a></p>
+    <p>To be sure, should Apple decline to seize this opportunity it will <a href="https://marco.org/2016/05/07/apple-role-in-podcasting"> be celebrated by many </a> , particularly those doing well in the current ecosystem. Podcasting is definitely more open than not, with no real gatekeepers in terms of either distribution or monetization. That, though, is why the money is so small: gatekeepers are moneymakers, and while podcasts may continue to grow, it is by no means inevitable that, absent a more active Apple, the money will follow.</p>
+    <p><em>
+    Disclosure:
+    <a href="http://exponent.fm">
+     Exponent
+    </a>
+    , the podcast I host with
+    <a href="https://twitter.com/jamesallworth">
+     James Allworth
+    </a>
+    , does have a (single) sponsor; the revenue from this sponsorship makes up a very small percentage of Stratechery’s overall revenue and does not impact the views in this article
+   </em></p>
+    <ol class="footnotes">
+      <li class="footnote" id="footnote_0_2628">For what it’s worth, Exponent has a much different profile: Apple Podcasts has about 13% share, while <a href="https://overcast.fm/"> Overcast </a> leads the way with 26% share, followed by (surprisingly!) Mobile Safari with 23% [ <a class="footnote-link footnote-back-link" href="#identifier_0_2628"> ↩ </a> ]</li>
+      <li class="footnote" id="footnote_1_2628">This shows why Casper mattresses are the exception that proves the rule: mattresses are not a subscription service, but they are much more expensive than most products bought online, which achieves the same effect as far as lifetime value is concerned [ <a class="footnote-link footnote-back-link" href="#identifier_1_2628"> ↩ </a> ]</li>
+      <li class="footnote" id="footnote_2_2628">I’m less worried about the fact other podcast players may not offer similar analytics: the Apple Podcast app will be used as a proxy, although this may hurt podcasts that have a smaller share of downloads via the Apple Podcast app (as total listeners may be undercounted absent similar analytics from other apps) [ <a class="footnote-link footnote-back-link" href="#identifier_2_2628"> ↩ </a> ]</li>
+      <li class="footnote" id="footnote_3_2628">It’s Google’s challenge in building a real hardware business in reverse [ <a class="footnote-link footnote-back-link" href="#identifier_3_2628"> ↩ </a> ]</li>
+    </ol>
+    <div class="sharedaddy sd-sharing-enabled">
+      <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
+        <h3 class="sd-title" id="share-"> Share </h3>
+        <div class="sd-content">
+          <ul>
+            <li class="share-facebook"><a class="share-facebook sd-button share-icon" data-shared="sharing-facebook-2628" href="https://stratechery.com/2017/podcasts-analytics-and-centralization/?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Facebook"> <span> Facebook </span> </a></li>
+            <li class="share-twitter"><a class="share-twitter sd-button share-icon" data-shared="sharing-twitter-2628" href="https://stratechery.com/2017/podcasts-analytics-and-centralization/?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Twitter"> <span> Twitter </span> </a></li>
+            <li class="share-linkedin"><a class="share-linkedin sd-button share-icon" data-shared="sharing-linkedin-2628" href="https://stratechery.com/2017/podcasts-analytics-and-centralization/?share=linkedin" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on LinkedIn"> <span> LinkedIn </span> </a></li>
+            <li class="share-email"><a class="share-email sd-button share-icon" data-shared="" href="https://stratechery.com/2017/podcasts-analytics-and-centralization/?share=email" rel="nofollow noopener noreferrer" target="_blank" title="Click to email this to a friend"> <span> Email </span> </a></li>
+            <li class="share-end"></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="jp-relatedposts" id="jp-relatedposts">
+      <h3 class="jp-relatedposts-headline" id="related"> <em>
+     Related
+    </em> </h3>
+    </div>
+  </div>
+  <!-- .entry-content -->
+</article>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2017-06-28</time>
+        <a href="https://nodebe4.github.io/opinion/2017-06-28/Ends_Means_and_Antitrust/">
+          Ends, Means, and Antitrust
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2017-06-19</time>
+        <a href="https://nodebe4.github.io/opinion/2017-06-19/Amazons_New_Customer/">
+          Amazon’s New Customer
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2017-06-06</time>
+        <a href="https://nodebe4.github.io/opinion/2017-06-06/Apples_Strengths_and_Weaknesses/">
+          Apple’s Strengths and Weaknesses
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2017-05-31</time>
+        <a href="https://nodebe4.github.io/opinion/2017-05-31/Faceless_Publishers/">
+          Faceless Publishers
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2017-06-13/%E7%9B%9B-%E6%B4%AA%E9%83%A8%E9%97%A8%E5%83%AD%E6%9D%83-%E5%AE%AA%E6%B3%95%E9%AB%98%E6%82%AC/">
+            前一篇：盛 洪:部门僭权，宪法高悬
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2017-06-14/%E5%AD%94%E6%9D%B0%E8%8D%A3-%E6%9D%8E%E5%85%89%E8%80%80%E7%9A%84%E6%96%B0%E5%8A%A0%E5%9D%A1-%E6%B3%95%E6%B2%BB%E5%A4%96%E8%A1%A3%E4%B9%8B%E4%B8%8B/">
+            後一篇：孔杰荣  李光耀的新加坡：法治外衣之下
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2017-06-13/%E7%9B%9B-%E6%B4%AA%E9%83%A8%E9%97%A8%E5%83%AD%E6%9D%83-%E5%AE%AA%E6%B3%95%E9%AB%98%E6%82%AC/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2017-06-14/%E5%AD%94%E6%9D%B0%E8%8D%A3-%E6%9D%8E%E5%85%89%E8%80%80%E7%9A%84%E6%96%B0%E5%8A%A0%E5%9D%A1-%E6%B3%95%E6%B2%BB%E5%A4%96%E8%A1%A3%E4%B9%8B%E4%B8%8B/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2017-06-19/Amazons_New_Customer/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2017-06-06/Apples_Strengths_and_Weaknesses/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2017-06-13/%E7%9B%9B-%E6%B4%AA%E9%83%A8%E9%97%A8%E5%83%AD%E6%9D%83-%E5%AE%AA%E6%B3%95%E9%AB%98%E6%82%AC/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2017-06-14/%E5%AD%94%E6%9D%B0%E8%8D%A3-%E6%9D%8E%E5%85%89%E8%80%80%E7%9A%84%E6%96%B0%E5%8A%A0%E5%9D%A1-%E6%B3%95%E6%B2%BB%E5%A4%96%E8%A1%A3%E4%B9%8B%E4%B8%8B/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2017-06-19/Amazons_New_Customer/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2017-06-06/Apples_Strengths_and_Weaknesses/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

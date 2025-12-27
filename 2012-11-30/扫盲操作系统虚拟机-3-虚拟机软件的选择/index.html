@@ -1,0 +1,3611 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>扫盲操作系统虚拟机[3]：虚拟机软件的选择 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+
+      扫盲操作系统虚拟机[3]：虚拟机软件的选择  
+  
+    
+      
+    
+  
+  
+最近10年来，虚拟化技术发展很快，市面上也冒出了一大堆（至少几十种）的虚拟机软件。所以，在介绍了  虚拟机的应用场景之后  ，俺再来介绍一下“如何选择虚拟机软件”。 
+       
+        ★根据知名度筛选 
+  为啥把知名度作为第一筛选标准捏？因为知名度高的软件，用的人通常也比较多。当你使用该软件碰到问题/困难时，也就更容易从网上找到相关的资料。如果是商业软件的话，用的人越多，也就越容易找到破解或者注册码 :-)  如今的虚拟机软件，名气比较大的有如下几款（按字母序排列）：  KVM、Parallels、VirtualBox、Virtual PC 系列、VMware 系列、Xen        ★根据支持的 OS 来选择 
+  接下来再看虚拟机软件支持哪些操作系统。  对操作系统的支持包括两个层面：第一个层面是支持哪些 Host OS，第二个层面是支持哪些 Guest OS。 
+   关于 Host OS 和 Guest OS 的概念，
+   
+    本系列第一篇
+   
+   已经介绍过，这里就不再啰嗦了。
+    当今的桌面操作系统，最流行的分别是 Windows、Mac OS X、Linux。考虑到俺博客的读者群，这三种系统的用户都有。所以，本系列推荐的虚拟机最好能在 Host OS 层面和 Guest OS 层面同时支持这三款操作系统。根据这个标准，就排除掉了 KVM、Xen、Virtual PC——因为 KVM 和 Xen 不支持 Windows 作为 Host OS；而 Virtual PC 不支持 Linux 做 Host OS。        ★三个候选者 
+  两轮淘汰下来，剩下三个候选软件：VMware、VirtualBox、Parallels。下面简单介绍一下这三个候选者。        ◇VMware 
+  VMware 的官网链接在“  这里  ”。  所谓的 VMware 虚拟机软件，其实是一个很大的家族，成员比较复杂。在这个家族中，面向桌面用户的产品有 VMware Workstation、VMware Fusion、VMware Player。  其中的 VMware Workstation 面向 Windows/Linux 用户，VMware Fusion 面向 Mac OS X 用户。至于 VMware Player 要特别说一下：这款软件虽然免费，但功能实在太弱了（连快照都不支持）。不支持“快照”的虚拟机软件，简直形同废物。所以俺就不考虑 VMware Player 了。本文后续部分提到的 VMware，均指 VMware Workstation 和 VMware Fusion。        ◇VirtualBox 
+  VirtualBox 的官网在“  这里  ”。  在这三个候选者中，VirtualBox 是仅有的开源软件（而且免费）。如果用它的话，你既不用花钱，也不用盗版。别看是免费，功能完全【不】逊色（具体细节后面会介绍）。        ◇Parallels 
+  Parallels 的官网在“  这里  ”。  Parallels 包括两款软件：Parallels Desktop 面向 Mac OS X 用户；Parallels Workstation 面向 Windows/Linux 用户。  这玩意儿的知名度可能不如前两个，但在苹果社区的口碑还是不错滴。据说 Parallels 公司把研发的重点放在 Parallels Desktop，导致 Parallels Desktop 在版本更新、功能、稳定性方面，都比 Parallels Workstation 要好。  俺个人觉得，用 Mac OS X 的同学可以考虑试试 Parallels Desktop，至于用 Windows/Linux 的同学，就甭考虑 Parallels Workstation 了。        ★功能对比 
+       ◇快照 
+  快照是基本功能，这三款软件自然都支持。而且都支持多层次的树形快照。  点评：三者持平        ◇数据交换 
+  这是指在 Host OS 和 Guest OS 之间交换数据。常见的方式有三种：共享目录、共享剪贴板、鼠标拖放。  这三款软件同时都支持上述三种方式。提醒一下：VirtualBox 的拖放功能迟至 4.2.0 版本才加入，可能还不太完善。  除了上述三种方式，VMware 还支持把 Guest OS 的硬盘文件映射到 Host OS的某个盘符。通过此功能，即使 Guest OS 没有运行，你也可以方便地访问 Guest OS 里面的文件。  点评：VMware 占优        ◇CPU VT 
+  所谓“CPU VT”就是在 CPU 硬件层面提供虚拟化相关的指令。利用这些指令，虚拟机软件可以更好、更快地实现虚拟化的功能。更多介绍请看维基百科“  这里  ”。  目前 x86 芯片的 VT 技术主要是 AMD-V 和 Intel-VT，这三款软件都支持。  点评：三者持平        ◇磁盘文件格式 
+  VMware 只支持自家的 VMDK 格式。  Parallels 除了支持自家的 HDD 格式，还支持 VMware 的 VMDK 格式。  VirtualBox 除了支持自家的 VDI 格式，还支持如下几种：  VMDK（VMware 虚拟机的格式）  VHD, VHDX（VirtualPC 虚拟机的格式）  HDD（Parallels 虚拟机的格式）  QCOW, QED（QEMU 虚拟机的格式）  点评：VirtualBox 占优  备注：因为 VirtualBox 支持的格式多，其它虚拟机软件制作的 VM 要迁移到 VirtualBox 会比较容易。        ◇光盘镜像映射 
+  这个功能就是把 Host OS 上的光盘镜像文件映射到 Guest OS 的光驱，让 Guest OS 以为这是一张真实的光盘。  这三款软件都支持光盘镜像映射。  VMware 支持 ISO 格式  Parallels 支持ISO, DMG, CUE, CCD 格式  VirtualBox 支持 ISO, DMG, CDR 格式  点评：ISO 格式属于光盘镜像的事实标准，其它格式用的少。所以三者基本持平        ◇USB 支持 
+  “USB 支持”是指虚拟机软件把 Host OS 上的 USB 设备映射到 Guest OS 中。  这三款软件都支持 USB，差别在于 USB 的协议。（截至本文发布时）VirtualBox 最新的 4.2.x 版本仅支持到 USB 2.0；而 Parallels Desktop 从今年的 8 版本刚刚开始支持 USB 3.0；VMware 也是在今年发布的 9.0 版本刚刚支持 USB 3.0  点评：VirtualBox 落后        ◇界面中文化 
+  对于 VMware，在 Workstation 10 之前都没有提供原生的中文版（要靠汉化补丁）。Parallels 有中文版，VirtualBox 的界面内置多种语言，可以动态切换。  点评：VirtualBox 占优，VMware 落后。        ◇显示模式 
+  虚拟机软件常用的显示模式有三种：窗口模式、全屏模式、无缝模式。  这三款软件同时都支持上述三种模式。   
+   1. 窗口模式
+    窗口模式是最基本的显示模式。在这种模式下，整个 Guest OS 桌面显示为 Host OS 桌面上的一个窗口。所有 Guest OS 软件的界面都在这个窗口中。   
+   2. 全屏模式
+    全屏模式就是让 Guest OS 独占整个显示器。在全屏模式下，你看不到 Host OS 的桌面。   
+   3. 无缝模式
+    所谓“无缝模式”就是：让 Guest OS 里面的软件界面从虚拟机的窗口中“跑”出来，直接融合在 Host OS 的桌面里。这种效果是很酷滴！  这三款软件对“无缝模式”的叫法不同——VMware 称之为“Unity”，Parallels 称之为“Coherence”，VirtualBox 称之为“Seamless”。   点评：三者持平        ◇3D 加速 
+  这三款软件都有 3D 加速，它们都支持了 OpenGL 2.0（或更高）和 DirectX 9（或更高）。  点评：三者持平        ◇截屏/录像 
+  VMware Workstation 几年前就具有“截屏”和“录像”功能；  VirtualBox 只有“截屏”，没有“录像”；Parallels 貌似也没录像功能。  点评：VMware 占优        ◇远程操作 
+  所谓远程管理就是：虚拟机软件提供某种方式，让用户可以通过网络远程操作 Guest OS。提醒一下：这种远程操作能力是由虚拟机软件提供的，跟 Guest OS 没有关系。举个例子：你甚至可以远程操作一个 DOS 的虚拟系统。  VMware 支持基于 VNC 的远程操作；VirtualBox 支持基于 RDP（远程桌面协议）的远程操作；Parallels 貌似不支持远程操作。  点评：考虑到 RDP 比 VNC 普及，所以 VirtualBox 占优        ★性能对比 
+  从刚才的“功能对比”，大伙儿应该可以看出，这三个候选者的功能，有些小差异，但没有 
+   实质性
+   的差异。所以俺再来比较一下性能方面的高低。  要测性能，必须在同一台电脑里面，使用相同的 Host OS 环境进行测试，才有可比性。所以俺根据三种主流的桌面操作系统，分别介绍。  免责声明：下面列举的性能测评是网上找来的，未必全面，仅供参考。        ◇Windows 
+  “  这里  ”有一篇台湾同胞做的测评。Host OS 用 Windows Server 2012，Guest OS 用 Windows Server 2008 R2。  该测评针对三种虚拟机软件：VMware Workstation 9、VirtualBox 4.2.0、Hyper-V（这里的 Hyper-V 用的是 Windows 2012内置的）  测试结果是：Hyper-V 明显好于 VMware Workstation 9，VMware Workstation 9 好于 VirtualBox 4.2.0  考虑到 Hyper-V 是 Windows Server 2012 内置的，而且测试方法是 Windows 虚拟 Windows，所以 Hyper-V 的结果未必能说明问题。  不过捏，VMware Workstation 9 比 VirtualBox 4.2.0 快，倒是可以说明一定的问题。        ◇Mac OS X 
+  “  这里  ”有一篇很全面的测评，使用 Parallels Desktop 8, VMware Fusion 5, VirtualBox 4 这三款虚拟机软件，在苹果系统中虚拟 Windows。为了提供参照，还特意测试了 Windows 系统直接运行在 Mac 硬件上的性能指标，作为虚拟机性能的对比。  从这篇测评的发布时间看（Sep 17 2012）算是比较新鲜的。从测评的综合结果看，Parallels Desktop ＞ VMware Fusion 5 ＞ VirtualBox 4。而且 VirtualBox 4 落后较多。        ◇Linux 
+  “  这里  ”有一篇去年（Sep 09 2011）的测评，基于 Linux Mint，测试了 VirtualBox 和 VMware。该测试中，至少有6项指标，VMware 明显好于 VirtualBox；只有一项指标是 VirtualBox 明显好于 VMware。  “  这里  ”还有一篇半年前（May 01 2012）的测评，对比了4款虚拟机（Hyper-V, ESXi, KVM, VirtualBox），其中的 ESXi 属于 VMware 家族。从这篇测评的结论看，VirtualBox 比 KVM 略好，不如 Hyper-V 和 ESXi。        ★总结 
+  功能上，三个候选者各有胜负，但差别不大。  性能上，VirtualBox 在三种系统都不如 VMware；苹果系统上，Parallels 明显占优。虽然 VirtualBox 性能不够好，但它是开源软件，无需花银子。  俺的建议是：  Windows 的用户，在 VMware Workstation 和 VirtualBox 二选一（Parallels Workstation 用的人太少，明显不给力，不予考虑）。  Mac OS X 的用户，在 Parallels Desktop 和 VirtualBox 二选一（苹果系统的 Parallels Desktop 比 VMware Fusion 好，价格还便宜，于是排除掉 VMware Fusion）。  Linux 的用户，在 VMware Workstation 和 VirtualBox 二选一（如果你是铁杆 Linux 用户，这辈子铁定不用其它 OS 做宿主，或许也可以考虑 KVM 或 Xen）。    回到本系列的目录      
+
+    版权声明
+     本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者  编程随想  和本文原始地址：   https://program-think.blogspot.com/2012/11/system-vm-3.html 
+    
+    
+  
+  
+    
+         
+    
+    
+    
+ 
+    
+  
+
+" />
+    <meta property="og:description" content="
+
+      扫盲操作系统虚拟机[3]：虚拟机软件的选择  
+  
+    
+      
+    
+  
+  
+最近10年来，虚拟化技术发展很快，市面上也冒出了一大堆（至少几十种）的虚拟机软件。所以，在介绍了  虚拟机的应用场景之后  ，俺再来介绍一下“如何选择虚拟机软件”。 
+       
+        ★根据知名度筛选 
+  为啥把知名度作为第一筛选标准捏？因为知名度高的软件，用的人通常也比较多。当你使用该软件碰到问题/困难时，也就更容易从网上找到相关的资料。如果是商业软件的话，用的人越多，也就越容易找到破解或者注册码 :-)  如今的虚拟机软件，名气比较大的有如下几款（按字母序排列）：  KVM、Parallels、VirtualBox、Virtual PC 系列、VMware 系列、Xen        ★根据支持的 OS 来选择 
+  接下来再看虚拟机软件支持哪些操作系统。  对操作系统的支持包括两个层面：第一个层面是支持哪些 Host OS，第二个层面是支持哪些 Guest OS。 
+   关于 Host OS 和 Guest OS 的概念，
+   
+    本系列第一篇
+   
+   已经介绍过，这里就不再啰嗦了。
+    当今的桌面操作系统，最流行的分别是 Windows、Mac OS X、Linux。考虑到俺博客的读者群，这三种系统的用户都有。所以，本系列推荐的虚拟机最好能在 Host OS 层面和 Guest OS 层面同时支持这三款操作系统。根据这个标准，就排除掉了 KVM、Xen、Virtual PC——因为 KVM 和 Xen 不支持 Windows 作为 Host OS；而 Virtual PC 不支持 Linux 做 Host OS。        ★三个候选者 
+  两轮淘汰下来，剩下三个候选软件：VMware、VirtualBox、Parallels。下面简单介绍一下这三个候选者。        ◇VMware 
+  VMware 的官网链接在“  这里  ”。  所谓的 VMware 虚拟机软件，其实是一个很大的家族，成员比较复杂。在这个家族中，面向桌面用户的产品有 VMware Workstation、VMware Fusion、VMware Player。  其中的 VMware Workstation 面向 Windows/Linux 用户，VMware Fusion 面向 Mac OS X 用户。至于 VMware Player 要特别说一下：这款软件虽然免费，但功能实在太弱了（连快照都不支持）。不支持“快照”的虚拟机软件，简直形同废物。所以俺就不考虑 VMware Player 了。本文后续部分提到的 VMware，均指 VMware Workstation 和 VMware Fusion。        ◇VirtualBox 
+  VirtualBox 的官网在“  这里  ”。  在这三个候选者中，VirtualBox 是仅有的开源软件（而且免费）。如果用它的话，你既不用花钱，也不用盗版。别看是免费，功能完全【不】逊色（具体细节后面会介绍）。        ◇Parallels 
+  Parallels 的官网在“  这里  ”。  Parallels 包括两款软件：Parallels Desktop 面向 Mac OS X 用户；Parallels Workstation 面向 Windows/Linux 用户。  这玩意儿的知名度可能不如前两个，但在苹果社区的口碑还是不错滴。据说 Parallels 公司把研发的重点放在 Parallels Desktop，导致 Parallels Desktop 在版本更新、功能、稳定性方面，都比 Parallels Workstation 要好。  俺个人觉得，用 Mac OS X 的同学可以考虑试试 Parallels Desktop，至于用 Windows/Linux 的同学，就甭考虑 Parallels Workstation 了。        ★功能对比 
+       ◇快照 
+  快照是基本功能，这三款软件自然都支持。而且都支持多层次的树形快照。  点评：三者持平        ◇数据交换 
+  这是指在 Host OS 和 Guest OS 之间交换数据。常见的方式有三种：共享目录、共享剪贴板、鼠标拖放。  这三款软件同时都支持上述三种方式。提醒一下：VirtualBox 的拖放功能迟至 4.2.0 版本才加入，可能还不太完善。  除了上述三种方式，VMware 还支持把 Guest OS 的硬盘文件映射到 Host OS的某个盘符。通过此功能，即使 Guest OS 没有运行，你也可以方便地访问 Guest OS 里面的文件。  点评：VMware 占优        ◇CPU VT 
+  所谓“CPU VT”就是在 CPU 硬件层面提供虚拟化相关的指令。利用这些指令，虚拟机软件可以更好、更快地实现虚拟化的功能。更多介绍请看维基百科“  这里  ”。  目前 x86 芯片的 VT 技术主要是 AMD-V 和 Intel-VT，这三款软件都支持。  点评：三者持平        ◇磁盘文件格式 
+  VMware 只支持自家的 VMDK 格式。  Parallels 除了支持自家的 HDD 格式，还支持 VMware 的 VMDK 格式。  VirtualBox 除了支持自家的 VDI 格式，还支持如下几种：  VMDK（VMware 虚拟机的格式）  VHD, VHDX（VirtualPC 虚拟机的格式）  HDD（Parallels 虚拟机的格式）  QCOW, QED（QEMU 虚拟机的格式）  点评：VirtualBox 占优  备注：因为 VirtualBox 支持的格式多，其它虚拟机软件制作的 VM 要迁移到 VirtualBox 会比较容易。        ◇光盘镜像映射 
+  这个功能就是把 Host OS 上的光盘镜像文件映射到 Guest OS 的光驱，让 Guest OS 以为这是一张真实的光盘。  这三款软件都支持光盘镜像映射。  VMware 支持 ISO 格式  Parallels 支持ISO, DMG, CUE, CCD 格式  VirtualBox 支持 ISO, DMG, CDR 格式  点评：ISO 格式属于光盘镜像的事实标准，其它格式用的少。所以三者基本持平        ◇USB 支持 
+  “USB 支持”是指虚拟机软件把 Host OS 上的 USB 设备映射到 Guest OS 中。  这三款软件都支持 USB，差别在于 USB 的协议。（截至本文发布时）VirtualBox 最新的 4.2.x 版本仅支持到 USB 2.0；而 Parallels Desktop 从今年的 8 版本刚刚开始支持 USB 3.0；VMware 也是在今年发布的 9.0 版本刚刚支持 USB 3.0  点评：VirtualBox 落后        ◇界面中文化 
+  对于 VMware，在 Workstation 10 之前都没有提供原生的中文版（要靠汉化补丁）。Parallels 有中文版，VirtualBox 的界面内置多种语言，可以动态切换。  点评：VirtualBox 占优，VMware 落后。        ◇显示模式 
+  虚拟机软件常用的显示模式有三种：窗口模式、全屏模式、无缝模式。  这三款软件同时都支持上述三种模式。   
+   1. 窗口模式
+    窗口模式是最基本的显示模式。在这种模式下，整个 Guest OS 桌面显示为 Host OS 桌面上的一个窗口。所有 Guest OS 软件的界面都在这个窗口中。   
+   2. 全屏模式
+    全屏模式就是让 Guest OS 独占整个显示器。在全屏模式下，你看不到 Host OS 的桌面。   
+   3. 无缝模式
+    所谓“无缝模式”就是：让 Guest OS 里面的软件界面从虚拟机的窗口中“跑”出来，直接融合在 Host OS 的桌面里。这种效果是很酷滴！  这三款软件对“无缝模式”的叫法不同——VMware 称之为“Unity”，Parallels 称之为“Coherence”，VirtualBox 称之为“Seamless”。   点评：三者持平        ◇3D 加速 
+  这三款软件都有 3D 加速，它们都支持了 OpenGL 2.0（或更高）和 DirectX 9（或更高）。  点评：三者持平        ◇截屏/录像 
+  VMware Workstation 几年前就具有“截屏”和“录像”功能；  VirtualBox 只有“截屏”，没有“录像”；Parallels 貌似也没录像功能。  点评：VMware 占优        ◇远程操作 
+  所谓远程管理就是：虚拟机软件提供某种方式，让用户可以通过网络远程操作 Guest OS。提醒一下：这种远程操作能力是由虚拟机软件提供的，跟 Guest OS 没有关系。举个例子：你甚至可以远程操作一个 DOS 的虚拟系统。  VMware 支持基于 VNC 的远程操作；VirtualBox 支持基于 RDP（远程桌面协议）的远程操作；Parallels 貌似不支持远程操作。  点评：考虑到 RDP 比 VNC 普及，所以 VirtualBox 占优        ★性能对比 
+  从刚才的“功能对比”，大伙儿应该可以看出，这三个候选者的功能，有些小差异，但没有 
+   实质性
+   的差异。所以俺再来比较一下性能方面的高低。  要测性能，必须在同一台电脑里面，使用相同的 Host OS 环境进行测试，才有可比性。所以俺根据三种主流的桌面操作系统，分别介绍。  免责声明：下面列举的性能测评是网上找来的，未必全面，仅供参考。        ◇Windows 
+  “  这里  ”有一篇台湾同胞做的测评。Host OS 用 Windows Server 2012，Guest OS 用 Windows Server 2008 R2。  该测评针对三种虚拟机软件：VMware Workstation 9、VirtualBox 4.2.0、Hyper-V（这里的 Hyper-V 用的是 Windows 2012内置的）  测试结果是：Hyper-V 明显好于 VMware Workstation 9，VMware Workstation 9 好于 VirtualBox 4.2.0  考虑到 Hyper-V 是 Windows Server 2012 内置的，而且测试方法是 Windows 虚拟 Windows，所以 Hyper-V 的结果未必能说明问题。  不过捏，VMware Workstation 9 比 VirtualBox 4.2.0 快，倒是可以说明一定的问题。        ◇Mac OS X 
+  “  这里  ”有一篇很全面的测评，使用 Parallels Desktop 8, VMware Fusion 5, VirtualBox 4 这三款虚拟机软件，在苹果系统中虚拟 Windows。为了提供参照，还特意测试了 Windows 系统直接运行在 Mac 硬件上的性能指标，作为虚拟机性能的对比。  从这篇测评的发布时间看（Sep 17 2012）算是比较新鲜的。从测评的综合结果看，Parallels Desktop ＞ VMware Fusion 5 ＞ VirtualBox 4。而且 VirtualBox 4 落后较多。        ◇Linux 
+  “  这里  ”有一篇去年（Sep 09 2011）的测评，基于 Linux Mint，测试了 VirtualBox 和 VMware。该测试中，至少有6项指标，VMware 明显好于 VirtualBox；只有一项指标是 VirtualBox 明显好于 VMware。  “  这里  ”还有一篇半年前（May 01 2012）的测评，对比了4款虚拟机（Hyper-V, ESXi, KVM, VirtualBox），其中的 ESXi 属于 VMware 家族。从这篇测评的结论看，VirtualBox 比 KVM 略好，不如 Hyper-V 和 ESXi。        ★总结 
+  功能上，三个候选者各有胜负，但差别不大。  性能上，VirtualBox 在三种系统都不如 VMware；苹果系统上，Parallels 明显占优。虽然 VirtualBox 性能不够好，但它是开源软件，无需花银子。  俺的建议是：  Windows 的用户，在 VMware Workstation 和 VirtualBox 二选一（Parallels Workstation 用的人太少，明显不给力，不予考虑）。  Mac OS X 的用户，在 Parallels Desktop 和 VirtualBox 二选一（苹果系统的 Parallels Desktop 比 VMware Fusion 好，价格还便宜，于是排除掉 VMware Fusion）。  Linux 的用户，在 VMware Workstation 和 VirtualBox 二选一（如果你是铁杆 Linux 用户，这辈子铁定不用其它 OS 做宿主，或许也可以考虑 KVM 或 Xen）。    回到本系列的目录      
+
+    版权声明
+     本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者  编程随想  和本文原始地址：   https://program-think.blogspot.com/2012/11/system-vm-3.html 
+    
+    
+  
+  
+    
+         
+    
+    
+    
+ 
+    
+  
+
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="扫盲操作系统虚拟机[3]：虚拟机软件的选择" />
+    <meta property="twitter:title" content="扫盲操作系统虚拟机[3]：虚拟机软件的选择" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fprogram-think.blogspot.com%2F2012%2F11%2Fsystem-vm-3.html" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://program-think.blogspot.com/2012/11/system-vm-3.html" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://program-think.blogspot.com/2012/11/system-vm-3.html&text=扫盲操作系统虚拟机[3]：虚拟机软件的选择&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://program-think.blogspot.com/2012/11/system-vm-3.html&title=扫盲操作系统虚拟机[3]：虚拟机软件的选择" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://program-think.blogspot.com/2012/11/system-vm-3.html&title=扫盲操作系统虚拟机[3]：虚拟机软件的选择" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=扫盲操作系统虚拟机[3]：虚拟机软件的选择&body=
+
+      扫盲操作系统虚拟机[3]：虚拟机软件的选择  
+  
+    
+      
+    
+  
+  
+最近10年来，虚拟化技术发展很快，市面上也冒出了一大堆（至少几十种）的虚拟机软件。所以，在介绍了  虚拟机的应用场景之后  ，俺再来介绍一下“如何选择虚拟机软件”。 
+       
+        ★根据知名度筛选 
+  为啥把知名度作为第一筛选标准捏？因为知名度高的软件，用的人通常也比较多。当你使用该软件碰到问题/困难时，也就更容易从网上找到相关的资料。如果是商业软件的话，用的人越多，也就越容易找到破解或者注册码 :-)  如今的虚拟机软件，名气比较大的有如下几款（按字母序排列）：  KVM、Parallels、VirtualBox、Virtual PC 系列、VMware 系列、Xen        ★根据支持的 OS 来选择 
+  接下来再看虚拟机软件支持哪些操作系统。  对操作系统的支持包括两个层面：第一个层面是支持哪些 Host OS，第二个层面是支持哪些 Guest OS。 
+   关于 Host OS 和 Guest OS 的概念，
+   
+    本系列第一篇
+   
+   已经介绍过，这里就不再啰嗦了。
+    当今的桌面操作系统，最流行的分别是 Windows、Mac OS X、Linux。考虑到俺博客的读者群，这三种系统的用户都有。所以，本系列推荐的虚拟机最好能在 Host OS 层面和 Guest OS 层面同时支持这三款操作系统。根据这个标准，就排除掉了 KVM、Xen、Virtual PC——因为 KVM 和 Xen 不支持 Windows 作为 Host OS；而 Virtual PC 不支持 Linux 做 Host OS。        ★三个候选者 
+  两轮淘汰下来，剩下三个候选软件：VMware、VirtualBox、Parallels。下面简单介绍一下这三个候选者。        ◇VMware 
+  VMware 的官网链接在“  这里  ”。  所谓的 VMware 虚拟机软件，其实是一个很大的家族，成员比较复杂。在这个家族中，面向桌面用户的产品有 VMware Workstation、VMware Fusion、VMware Player。  其中的 VMware Workstation 面向 Windows/Linux 用户，VMware Fusion 面向 Mac OS X 用户。至于 VMware Player 要特别说一下：这款软件虽然免费，但功能实在太弱了（连快照都不支持）。不支持“快照”的虚拟机软件，简直形同废物。所以俺就不考虑 VMware Player 了。本文后续部分提到的 VMware，均指 VMware Workstation 和 VMware Fusion。        ◇VirtualBox 
+  VirtualBox 的官网在“  这里  ”。  在这三个候选者中，VirtualBox 是仅有的开源软件（而且免费）。如果用它的话，你既不用花钱，也不用盗版。别看是免费，功能完全【不】逊色（具体细节后面会介绍）。        ◇Parallels 
+  Parallels 的官网在“  这里  ”。  Parallels 包括两款软件：Parallels Desktop 面向 Mac OS X 用户；Parallels Workstation 面向 Windows/Linux 用户。  这玩意儿的知名度可能不如前两个，但在苹果社区的口碑还是不错滴。据说 Parallels 公司把研发的重点放在 Parallels Desktop，导致 Parallels Desktop 在版本更新、功能、稳定性方面，都比 Parallels Workstation 要好。  俺个人觉得，用 Mac OS X 的同学可以考虑试试 Parallels Desktop，至于用 Windows/Linux 的同学，就甭考虑 Parallels Workstation 了。        ★功能对比 
+       ◇快照 
+  快照是基本功能，这三款软件自然都支持。而且都支持多层次的树形快照。  点评：三者持平        ◇数据交换 
+  这是指在 Host OS 和 Guest OS 之间交换数据。常见的方式有三种：共享目录、共享剪贴板、鼠标拖放。  这三款软件同时都支持上述三种方式。提醒一下：VirtualBox 的拖放功能迟至 4.2.0 版本才加入，可能还不太完善。  除了上述三种方式，VMware 还支持把 Guest OS 的硬盘文件映射到 Host OS的某个盘符。通过此功能，即使 Guest OS 没有运行，你也可以方便地访问 Guest OS 里面的文件。  点评：VMware 占优        ◇CPU VT 
+  所谓“CPU VT”就是在 CPU 硬件层面提供虚拟化相关的指令。利用这些指令，虚拟机软件可以更好、更快地实现虚拟化的功能。更多介绍请看维基百科“  这里  ”。  目前 x86 芯片的 VT 技术主要是 AMD-V 和 Intel-VT，这三款软件都支持。  点评：三者持平        ◇磁盘文件格式 
+  VMware 只支持自家的 VMDK 格式。  Parallels 除了支持自家的 HDD 格式，还支持 VMware 的 VMDK 格式。  VirtualBox 除了支持自家的 VDI 格式，还支持如下几种：  VMDK（VMware 虚拟机的格式）  VHD, VHDX（VirtualPC 虚拟机的格式）  HDD（Parallels 虚拟机的格式）  QCOW, QED（QEMU 虚拟机的格式）  点评：VirtualBox 占优  备注：因为 VirtualBox 支持的格式多，其它虚拟机软件制作的 VM 要迁移到 VirtualBox 会比较容易。        ◇光盘镜像映射 
+  这个功能就是把 Host OS 上的光盘镜像文件映射到 Guest OS 的光驱，让 Guest OS 以为这是一张真实的光盘。  这三款软件都支持光盘镜像映射。  VMware 支持 ISO 格式  Parallels 支持ISO, DMG, CUE, CCD 格式  VirtualBox 支持 ISO, DMG, CDR 格式  点评：ISO 格式属于光盘镜像的事实标准，其它格式用的少。所以三者基本持平        ◇USB 支持 
+  “USB 支持”是指虚拟机软件把 Host OS 上的 USB 设备映射到 Guest OS 中。  这三款软件都支持 USB，差别在于 USB 的协议。（截至本文发布时）VirtualBox 最新的 4.2.x 版本仅支持到 USB 2.0；而 Parallels Desktop 从今年的 8 版本刚刚开始支持 USB 3.0；VMware 也是在今年发布的 9.0 版本刚刚支持 USB 3.0  点评：VirtualBox 落后        ◇界面中文化 
+  对于 VMware，在 Workstation 10 之前都没有提供原生的中文版（要靠汉化补丁）。Parallels 有中文版，VirtualBox 的界面内置多种语言，可以动态切换。  点评：VirtualBox 占优，VMware 落后。        ◇显示模式 
+  虚拟机软件常用的显示模式有三种：窗口模式、全屏模式、无缝模式。  这三款软件同时都支持上述三种模式。   
+   1. 窗口模式
+    窗口模式是最基本的显示模式。在这种模式下，整个 Guest OS 桌面显示为 Host OS 桌面上的一个窗口。所有 Guest OS 软件的界面都在这个窗口中。   
+   2. 全屏模式
+    全屏模式就是让 Guest OS 独占整个显示器。在全屏模式下，你看不到 Host OS 的桌面。   
+   3. 无缝模式
+    所谓“无缝模式”就是：让 Guest OS 里面的软件界面从虚拟机的窗口中“跑”出来，直接融合在 Host OS 的桌面里。这种效果是很酷滴！  这三款软件对“无缝模式”的叫法不同——VMware 称之为“Unity”，Parallels 称之为“Coherence”，VirtualBox 称之为“Seamless”。   点评：三者持平        ◇3D 加速 
+  这三款软件都有 3D 加速，它们都支持了 OpenGL 2.0（或更高）和 DirectX 9（或更高）。  点评：三者持平        ◇截屏/录像 
+  VMware Workstation 几年前就具有“截屏”和“录像”功能；  VirtualBox 只有“截屏”，没有“录像”；Parallels 貌似也没录像功能。  点评：VMware 占优        ◇远程操作 
+  所谓远程管理就是：虚拟机软件提供某种方式，让用户可以通过网络远程操作 Guest OS。提醒一下：这种远程操作能力是由虚拟机软件提供的，跟 Guest OS 没有关系。举个例子：你甚至可以远程操作一个 DOS 的虚拟系统。  VMware 支持基于 VNC 的远程操作；VirtualBox 支持基于 RDP（远程桌面协议）的远程操作；Parallels 貌似不支持远程操作。  点评：考虑到 RDP 比 VNC 普及，所以 VirtualBox 占优        ★性能对比 
+  从刚才的“功能对比”，大伙儿应该可以看出，这三个候选者的功能，有些小差异，但没有 
+   实质性
+   的差异。所以俺再来比较一下性能方面的高低。  要测性能，必须在同一台电脑里面，使用相同的 Host OS 环境进行测试，才有可比性。所以俺根据三种主流的桌面操作系统，分别介绍。  免责声明：下面列举的性能测评是网上找来的，未必全面，仅供参考。        ◇Windows 
+  “  这里  ”有一篇台湾同胞做的测评。Host OS 用 Windows Server 2012，Guest OS 用 Windows Server 2008 R2。  该测评针对三种虚拟机软件：VMware Workstation 9、VirtualBox 4.2.0、Hyper-V（这里的 Hyper-V 用的是 Windows 2012内置的）  测试结果是：Hyper-V 明显好于 VMware Workstation 9，VMware Workstation 9 好于 VirtualBox 4.2.0  考虑到 Hyper-V 是 Windows Server 2012 内置的，而且测试方法是 Windows 虚拟 Windows，所以 Hyper-V 的结果未必能说明问题。  不过捏，VMware Workstation 9 比 VirtualBox 4.2.0 快，倒是可以说明一定的问题。        ◇Mac OS X 
+  “  这里  ”有一篇很全面的测评，使用 Parallels Desktop 8, VMware Fusion 5, VirtualBox 4 这三款虚拟机软件，在苹果系统中虚拟 Windows。为了提供参照，还特意测试了 Windows 系统直接运行在 Mac 硬件上的性能指标，作为虚拟机性能的对比。  从这篇测评的发布时间看（Sep 17 2012）算是比较新鲜的。从测评的综合结果看，Parallels Desktop ＞ VMware Fusion 5 ＞ VirtualBox 4。而且 VirtualBox 4 落后较多。        ◇Linux 
+  “  这里  ”有一篇去年（Sep 09 2011）的测评，基于 Linux Mint，测试了 VirtualBox 和 VMware。该测试中，至少有6项指标，VMware 明显好于 VirtualBox；只有一项指标是 VirtualBox 明显好于 VMware。  “  这里  ”还有一篇半年前（May 01 2012）的测评，对比了4款虚拟机（Hyper-V, ESXi, KVM, VirtualBox），其中的 ESXi 属于 VMware 家族。从这篇测评的结论看，VirtualBox 比 KVM 略好，不如 Hyper-V 和 ESXi。        ★总结 
+  功能上，三个候选者各有胜负，但差别不大。  性能上，VirtualBox 在三种系统都不如 VMware；苹果系统上，Parallels 明显占优。虽然 VirtualBox 性能不够好，但它是开源软件，无需花银子。  俺的建议是：  Windows 的用户，在 VMware Workstation 和 VirtualBox 二选一（Parallels Workstation 用的人太少，明显不给力，不予考虑）。  Mac OS X 的用户，在 Parallels Desktop 和 VirtualBox 二选一（苹果系统的 Parallels Desktop 比 VMware Fusion 好，价格还便宜，于是排除掉 VMware Fusion）。  Linux 的用户，在 VMware Workstation 和 VirtualBox 二选一（如果你是铁杆 Linux 用户，这辈子铁定不用其它 OS 做宿主，或许也可以考虑 KVM 或 Xen）。    回到本系列的目录      
+
+    版权声明
+     本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者  编程随想  和本文原始地址：   https://program-think.blogspot.com/2012/11/system-vm-3.html 
+    
+    
+  
+  
+    
+         
+    
+    
+    
+ 
+    
+  
+
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://program-think.blogspot.com/2012/11/system-vm-3.html" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://program-think.blogspot.com/2012/11/system-vm-3.html&title=扫盲操作系统虚拟机[3]：虚拟机软件的选择&caption=
+
+      扫盲操作系统虚拟机[3]：虚拟机软件的选择  
+  
+    
+      
+    
+  
+  
+最近10年来，虚拟化技术发展很快，市面上也冒出了一大堆（至少几十种）的虚拟机软件。所以，在介绍了  虚拟机的应用场景之后  ，俺再来介绍一下“如何选择虚拟机软件”。 
+       
+        ★根据知名度筛选 
+  为啥把知名度作为第一筛选标准捏？因为知名度高的软件，用的人通常也比较多。当你使用该软件碰到问题/困难时，也就更容易从网上找到相关的资料。如果是商业软件的话，用的人越多，也就越容易找到破解或者注册码 :-)  如今的虚拟机软件，名气比较大的有如下几款（按字母序排列）：  KVM、Parallels、VirtualBox、Virtual PC 系列、VMware 系列、Xen        ★根据支持的 OS 来选择 
+  接下来再看虚拟机软件支持哪些操作系统。  对操作系统的支持包括两个层面：第一个层面是支持哪些 Host OS，第二个层面是支持哪些 Guest OS。 
+   关于 Host OS 和 Guest OS 的概念，
+   
+    本系列第一篇
+   
+   已经介绍过，这里就不再啰嗦了。
+    当今的桌面操作系统，最流行的分别是 Windows、Mac OS X、Linux。考虑到俺博客的读者群，这三种系统的用户都有。所以，本系列推荐的虚拟机最好能在 Host OS 层面和 Guest OS 层面同时支持这三款操作系统。根据这个标准，就排除掉了 KVM、Xen、Virtual PC——因为 KVM 和 Xen 不支持 Windows 作为 Host OS；而 Virtual PC 不支持 Linux 做 Host OS。        ★三个候选者 
+  两轮淘汰下来，剩下三个候选软件：VMware、VirtualBox、Parallels。下面简单介绍一下这三个候选者。        ◇VMware 
+  VMware 的官网链接在“  这里  ”。  所谓的 VMware 虚拟机软件，其实是一个很大的家族，成员比较复杂。在这个家族中，面向桌面用户的产品有 VMware Workstation、VMware Fusion、VMware Player。  其中的 VMware Workstation 面向 Windows/Linux 用户，VMware Fusion 面向 Mac OS X 用户。至于 VMware Player 要特别说一下：这款软件虽然免费，但功能实在太弱了（连快照都不支持）。不支持“快照”的虚拟机软件，简直形同废物。所以俺就不考虑 VMware Player 了。本文后续部分提到的 VMware，均指 VMware Workstation 和 VMware Fusion。        ◇VirtualBox 
+  VirtualBox 的官网在“  这里  ”。  在这三个候选者中，VirtualBox 是仅有的开源软件（而且免费）。如果用它的话，你既不用花钱，也不用盗版。别看是免费，功能完全【不】逊色（具体细节后面会介绍）。        ◇Parallels 
+  Parallels 的官网在“  这里  ”。  Parallels 包括两款软件：Parallels Desktop 面向 Mac OS X 用户；Parallels Workstation 面向 Windows/Linux 用户。  这玩意儿的知名度可能不如前两个，但在苹果社区的口碑还是不错滴。据说 Parallels 公司把研发的重点放在 Parallels Desktop，导致 Parallels Desktop 在版本更新、功能、稳定性方面，都比 Parallels Workstation 要好。  俺个人觉得，用 Mac OS X 的同学可以考虑试试 Parallels Desktop，至于用 Windows/Linux 的同学，就甭考虑 Parallels Workstation 了。        ★功能对比 
+       ◇快照 
+  快照是基本功能，这三款软件自然都支持。而且都支持多层次的树形快照。  点评：三者持平        ◇数据交换 
+  这是指在 Host OS 和 Guest OS 之间交换数据。常见的方式有三种：共享目录、共享剪贴板、鼠标拖放。  这三款软件同时都支持上述三种方式。提醒一下：VirtualBox 的拖放功能迟至 4.2.0 版本才加入，可能还不太完善。  除了上述三种方式，VMware 还支持把 Guest OS 的硬盘文件映射到 Host OS的某个盘符。通过此功能，即使 Guest OS 没有运行，你也可以方便地访问 Guest OS 里面的文件。  点评：VMware 占优        ◇CPU VT 
+  所谓“CPU VT”就是在 CPU 硬件层面提供虚拟化相关的指令。利用这些指令，虚拟机软件可以更好、更快地实现虚拟化的功能。更多介绍请看维基百科“  这里  ”。  目前 x86 芯片的 VT 技术主要是 AMD-V 和 Intel-VT，这三款软件都支持。  点评：三者持平        ◇磁盘文件格式 
+  VMware 只支持自家的 VMDK 格式。  Parallels 除了支持自家的 HDD 格式，还支持 VMware 的 VMDK 格式。  VirtualBox 除了支持自家的 VDI 格式，还支持如下几种：  VMDK（VMware 虚拟机的格式）  VHD, VHDX（VirtualPC 虚拟机的格式）  HDD（Parallels 虚拟机的格式）  QCOW, QED（QEMU 虚拟机的格式）  点评：VirtualBox 占优  备注：因为 VirtualBox 支持的格式多，其它虚拟机软件制作的 VM 要迁移到 VirtualBox 会比较容易。        ◇光盘镜像映射 
+  这个功能就是把 Host OS 上的光盘镜像文件映射到 Guest OS 的光驱，让 Guest OS 以为这是一张真实的光盘。  这三款软件都支持光盘镜像映射。  VMware 支持 ISO 格式  Parallels 支持ISO, DMG, CUE, CCD 格式  VirtualBox 支持 ISO, DMG, CDR 格式  点评：ISO 格式属于光盘镜像的事实标准，其它格式用的少。所以三者基本持平        ◇USB 支持 
+  “USB 支持”是指虚拟机软件把 Host OS 上的 USB 设备映射到 Guest OS 中。  这三款软件都支持 USB，差别在于 USB 的协议。（截至本文发布时）VirtualBox 最新的 4.2.x 版本仅支持到 USB 2.0；而 Parallels Desktop 从今年的 8 版本刚刚开始支持 USB 3.0；VMware 也是在今年发布的 9.0 版本刚刚支持 USB 3.0  点评：VirtualBox 落后        ◇界面中文化 
+  对于 VMware，在 Workstation 10 之前都没有提供原生的中文版（要靠汉化补丁）。Parallels 有中文版，VirtualBox 的界面内置多种语言，可以动态切换。  点评：VirtualBox 占优，VMware 落后。        ◇显示模式 
+  虚拟机软件常用的显示模式有三种：窗口模式、全屏模式、无缝模式。  这三款软件同时都支持上述三种模式。   
+   1. 窗口模式
+    窗口模式是最基本的显示模式。在这种模式下，整个 Guest OS 桌面显示为 Host OS 桌面上的一个窗口。所有 Guest OS 软件的界面都在这个窗口中。   
+   2. 全屏模式
+    全屏模式就是让 Guest OS 独占整个显示器。在全屏模式下，你看不到 Host OS 的桌面。   
+   3. 无缝模式
+    所谓“无缝模式”就是：让 Guest OS 里面的软件界面从虚拟机的窗口中“跑”出来，直接融合在 Host OS 的桌面里。这种效果是很酷滴！  这三款软件对“无缝模式”的叫法不同——VMware 称之为“Unity”，Parallels 称之为“Coherence”，VirtualBox 称之为“Seamless”。   点评：三者持平        ◇3D 加速 
+  这三款软件都有 3D 加速，它们都支持了 OpenGL 2.0（或更高）和 DirectX 9（或更高）。  点评：三者持平        ◇截屏/录像 
+  VMware Workstation 几年前就具有“截屏”和“录像”功能；  VirtualBox 只有“截屏”，没有“录像”；Parallels 貌似也没录像功能。  点评：VMware 占优        ◇远程操作 
+  所谓远程管理就是：虚拟机软件提供某种方式，让用户可以通过网络远程操作 Guest OS。提醒一下：这种远程操作能力是由虚拟机软件提供的，跟 Guest OS 没有关系。举个例子：你甚至可以远程操作一个 DOS 的虚拟系统。  VMware 支持基于 VNC 的远程操作；VirtualBox 支持基于 RDP（远程桌面协议）的远程操作；Parallels 貌似不支持远程操作。  点评：考虑到 RDP 比 VNC 普及，所以 VirtualBox 占优        ★性能对比 
+  从刚才的“功能对比”，大伙儿应该可以看出，这三个候选者的功能，有些小差异，但没有 
+   实质性
+   的差异。所以俺再来比较一下性能方面的高低。  要测性能，必须在同一台电脑里面，使用相同的 Host OS 环境进行测试，才有可比性。所以俺根据三种主流的桌面操作系统，分别介绍。  免责声明：下面列举的性能测评是网上找来的，未必全面，仅供参考。        ◇Windows 
+  “  这里  ”有一篇台湾同胞做的测评。Host OS 用 Windows Server 2012，Guest OS 用 Windows Server 2008 R2。  该测评针对三种虚拟机软件：VMware Workstation 9、VirtualBox 4.2.0、Hyper-V（这里的 Hyper-V 用的是 Windows 2012内置的）  测试结果是：Hyper-V 明显好于 VMware Workstation 9，VMware Workstation 9 好于 VirtualBox 4.2.0  考虑到 Hyper-V 是 Windows Server 2012 内置的，而且测试方法是 Windows 虚拟 Windows，所以 Hyper-V 的结果未必能说明问题。  不过捏，VMware Workstation 9 比 VirtualBox 4.2.0 快，倒是可以说明一定的问题。        ◇Mac OS X 
+  “  这里  ”有一篇很全面的测评，使用 Parallels Desktop 8, VMware Fusion 5, VirtualBox 4 这三款虚拟机软件，在苹果系统中虚拟 Windows。为了提供参照，还特意测试了 Windows 系统直接运行在 Mac 硬件上的性能指标，作为虚拟机性能的对比。  从这篇测评的发布时间看（Sep 17 2012）算是比较新鲜的。从测评的综合结果看，Parallels Desktop ＞ VMware Fusion 5 ＞ VirtualBox 4。而且 VirtualBox 4 落后较多。        ◇Linux 
+  “  这里  ”有一篇去年（Sep 09 2011）的测评，基于 Linux Mint，测试了 VirtualBox 和 VMware。该测试中，至少有6项指标，VMware 明显好于 VirtualBox；只有一项指标是 VirtualBox 明显好于 VMware。  “  这里  ”还有一篇半年前（May 01 2012）的测评，对比了4款虚拟机（Hyper-V, ESXi, KVM, VirtualBox），其中的 ESXi 属于 VMware 家族。从这篇测评的结论看，VirtualBox 比 KVM 略好，不如 Hyper-V 和 ESXi。        ★总结 
+  功能上，三个候选者各有胜负，但差别不大。  性能上，VirtualBox 在三种系统都不如 VMware；苹果系统上，Parallels 明显占优。虽然 VirtualBox 性能不够好，但它是开源软件，无需花银子。  俺的建议是：  Windows 的用户，在 VMware Workstation 和 VirtualBox 二选一（Parallels Workstation 用的人太少，明显不给力，不予考虑）。  Mac OS X 的用户，在 Parallels Desktop 和 VirtualBox 二选一（苹果系统的 Parallels Desktop 比 VMware Fusion 好，价格还便宜，于是排除掉 VMware Fusion）。  Linux 的用户，在 VMware Workstation 和 VirtualBox 二选一（如果你是铁杆 Linux 用户，这辈子铁定不用其它 OS 做宿主，或许也可以考虑 KVM 或 Xen）。    回到本系列的目录      
+
+    版权声明
+     本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者  编程随想  和本文原始地址：   https://program-think.blogspot.com/2012/11/system-vm-3.html 
+    
+    
+  
+  
+    
+         
+    
+    
+    
+ 
+    
+  
+
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=扫盲操作系统虚拟机[3]：虚拟机软件的选择&url=https://program-think.blogspot.com/2012/11/system-vm-3.html" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>扫盲操作系统虚拟机[3]：虚拟机软件的选择</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2012-11-30
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#编程随想">
+          编程随想
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://program-think.blogspot.com/2012/11/system-vm-3.html" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="编程随想的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#编程随想 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <div class="post hentry uncustomized-post-template">
+<a name="4310602610879198166">
+ </a>   <h1 class="post-title entry-title" id="section"> <a href="https://program-think.blogspot.com/2012/11/system-vm-3.html"> 扫盲操作系统虚拟机[3]：虚拟机软件的选择 </a> </h1>
+  <div class="post-header">
+    <div class="post-header-line-1">
+      <div class="post-inner-index"></div>
+    </div>
+  </div>
+  <div class="post-body entry-content">
+最近10年来，虚拟化技术发展很快，市面上也冒出了一大堆（至少几十种）的虚拟机软件。所以，在介绍了 <a href="https://program-think.blogspot.com/2012/11/system-vm-2.html"> 虚拟机的应用场景之后 </a> ，俺再来介绍一下“如何选择虚拟机软件”。 <a name="more">
+  </a>     <!--program-think-->
+ <br /> <br />     <h2 id="section-1"> ★根据知名度筛选 </h2>
+ <br /> 为啥把知名度作为第一筛选标准捏？因为知名度高的软件，用的人通常也比较多。当你使用该软件碰到问题/困难时，也就更容易从网上找到相关的资料。如果是商业软件的话，用的人越多，也就越容易找到破解或者注册码 :-) <br /> 如今的虚拟机软件，名气比较大的有如下几款（按字母序排列）： <br /> KVM、Parallels、VirtualBox、Virtual PC 系列、VMware 系列、Xen <br /> <br />     <h2 id="os--"> ★根据支持的 OS 来选择 </h2>
+ <br /> 接下来再看虚拟机软件支持哪些操作系统。 <br /> 对操作系统的支持包括两个层面：第一个层面是支持哪些 Host OS，第二个层面是支持哪些 Guest OS。 <b>
+   关于 Host OS 和 Guest OS 的概念，
+   <a href="https://program-think.blogspot.com/2012/10/system-vm-1.html">
+    本系列第一篇
+   </a>
+   已经介绍过，这里就不再啰嗦了。
+  </b> <br /> 当今的桌面操作系统，最流行的分别是 Windows、Mac OS X、Linux。考虑到俺博客的读者群，这三种系统的用户都有。所以，本系列推荐的虚拟机最好能在 Host OS 层面和 Guest OS 层面同时支持这三款操作系统。根据这个标准，就排除掉了 KVM、Xen、Virtual PC——因为 KVM 和 Xen 不支持 Windows 作为 Host OS；而 Virtual PC 不支持 Linux 做 Host OS。 <br /> <br />     <h2 id="section-2"> ★三个候选者 </h2>
+ <br /> 两轮淘汰下来，剩下三个候选软件：VMware、VirtualBox、Parallels。下面简单介绍一下这三个候选者。 <br /> <br />     <h3 id="vmware-"> ◇VMware </h3>
+ <br /> VMware 的官网链接在“ <a href="http://www.vmware.com/" rel="nofollow" target="_blank"> 这里 </a> ”。 <br /> 所谓的 VMware 虚拟机软件，其实是一个很大的家族，成员比较复杂。在这个家族中，面向桌面用户的产品有 VMware Workstation、VMware Fusion、VMware Player。 <br /> 其中的 VMware Workstation 面向 Windows/Linux 用户，VMware Fusion 面向 Mac OS X 用户。至于 VMware Player 要特别说一下：这款软件虽然免费，但功能实在太弱了（连快照都不支持）。不支持“快照”的虚拟机软件，简直形同废物。所以俺就不考虑 VMware Player 了。本文后续部分提到的 VMware，均指 VMware Workstation 和 VMware Fusion。 <br /> <br />     <h3 id="virtualbox-"> ◇VirtualBox </h3>
+ <br /> VirtualBox 的官网在“ <a href="http://www.virtualbox.org/" rel="nofollow" target="_blank"> 这里 </a> ”。 <br /> 在这三个候选者中，VirtualBox 是仅有的开源软件（而且免费）。如果用它的话，你既不用花钱，也不用盗版。别看是免费，功能完全【不】逊色（具体细节后面会介绍）。 <br /> <br />     <h3 id="parallels-"> ◇Parallels </h3>
+ <br /> Parallels 的官网在“ <a href="http://www.parallels.com/" rel="nofollow" target="_blank"> 这里 </a> ”。 <br /> Parallels 包括两款软件：Parallels Desktop 面向 Mac OS X 用户；Parallels Workstation 面向 Windows/Linux 用户。 <br /> 这玩意儿的知名度可能不如前两个，但在苹果社区的口碑还是不错滴。据说 Parallels 公司把研发的重点放在 Parallels Desktop，导致 Parallels Desktop 在版本更新、功能、稳定性方面，都比 Parallels Workstation 要好。 <br /> 俺个人觉得，用 Mac OS X 的同学可以考虑试试 Parallels Desktop，至于用 Windows/Linux 的同学，就甭考虑 Parallels Workstation 了。 <br /> <br />     <h2 id="section-3"> ★功能对比 </h2>
+ <br />     <h3 id="section-4"> ◇快照 </h3>
+ <br /> 快照是基本功能，这三款软件自然都支持。而且都支持多层次的树形快照。 <br /> 点评：三者持平 <br /> <br />     <h3 id="section-5"> ◇数据交换 </h3>
+ <br /> 这是指在 Host OS 和 Guest OS 之间交换数据。常见的方式有三种：共享目录、共享剪贴板、鼠标拖放。 <br /> 这三款软件同时都支持上述三种方式。提醒一下：VirtualBox 的拖放功能迟至 4.2.0 版本才加入，可能还不太完善。 <br /> 除了上述三种方式，VMware 还支持把 Guest OS 的硬盘文件映射到 Host OS的某个盘符。通过此功能，即使 Guest OS 没有运行，你也可以方便地访问 Guest OS 里面的文件。 <br /> 点评：VMware 占优 <br /> <br />     <h3 id="cpu-vt-"> ◇CPU VT </h3>
+ <br /> 所谓“CPU VT”就是在 CPU 硬件层面提供虚拟化相关的指令。利用这些指令，虚拟机软件可以更好、更快地实现虚拟化的功能。更多介绍请看维基百科“ <a href="https://en.wikipedia.org/wiki/X86_virtualization" rel="nofollow" target="_blank"> 这里 </a> ”。 <br /> 目前 x86 芯片的 VT 技术主要是 AMD-V 和 Intel-VT，这三款软件都支持。 <br /> 点评：三者持平 <br /> <br />     <h3 id="section-6"> ◇磁盘文件格式 </h3>
+ <br /> VMware 只支持自家的 VMDK 格式。 <br /> Parallels 除了支持自家的 HDD 格式，还支持 VMware 的 VMDK 格式。 <br /> VirtualBox 除了支持自家的 VDI 格式，还支持如下几种： <br /> VMDK（VMware 虚拟机的格式） <br /> VHD, VHDX（VirtualPC 虚拟机的格式） <br /> HDD（Parallels 虚拟机的格式） <br /> QCOW, QED（QEMU 虚拟机的格式） <br /> 点评：VirtualBox 占优 <br /> 备注：因为 VirtualBox 支持的格式多，其它虚拟机软件制作的 VM 要迁移到 VirtualBox 会比较容易。 <br /> <br />     <h3 id="section-7"> ◇光盘镜像映射 </h3>
+ <br /> 这个功能就是把 Host OS 上的光盘镜像文件映射到 Guest OS 的光驱，让 Guest OS 以为这是一张真实的光盘。 <br /> 这三款软件都支持光盘镜像映射。 <br /> VMware 支持 ISO 格式 <br /> Parallels 支持ISO, DMG, CUE, CCD 格式 <br /> VirtualBox 支持 ISO, DMG, CDR 格式 <br /> 点评：ISO 格式属于光盘镜像的事实标准，其它格式用的少。所以三者基本持平 <br /> <br />     <h3 id="usb--"> ◇USB 支持 </h3>
+ <br /> “USB 支持”是指虚拟机软件把 Host OS 上的 USB 设备映射到 Guest OS 中。 <br /> 这三款软件都支持 USB，差别在于 USB 的协议。（截至本文发布时）VirtualBox 最新的 4.2.x 版本仅支持到 USB 2.0；而 Parallels Desktop 从今年的 8 版本刚刚开始支持 USB 3.0；VMware 也是在今年发布的 9.0 版本刚刚支持 USB 3.0 <br /> 点评：VirtualBox 落后 <br /> <br />     <h3 id="section-8"> ◇界面中文化 </h3>
+ <br /> 对于 VMware，在 Workstation 10 之前都没有提供原生的中文版（要靠汉化补丁）。Parallels 有中文版，VirtualBox 的界面内置多种语言，可以动态切换。 <br /> 点评：VirtualBox 占优，VMware 落后。 <br /> <br />     <h3 id="section-9"> ◇显示模式 </h3>
+ <br /> 虚拟机软件常用的显示模式有三种：窗口模式、全屏模式、无缝模式。 <br /> 这三款软件同时都支持上述三种模式。 <br /> <br /> <b>
+   1. 窗口模式
+  </b> <br /> 窗口模式是最基本的显示模式。在这种模式下，整个 Guest OS 桌面显示为 Host OS 桌面上的一个窗口。所有 Guest OS 软件的界面都在这个窗口中。 <br /> <br /> <b>
+   2. 全屏模式
+  </b> <br /> 全屏模式就是让 Guest OS 独占整个显示器。在全屏模式下，你看不到 Host OS 的桌面。 <br /> <br /> <b>
+   3. 无缝模式
+  </b> <br /> 所谓“无缝模式”就是：让 Guest OS 里面的软件界面从虚拟机的窗口中“跑”出来，直接融合在 Host OS 的桌面里。这种效果是很酷滴！ <br /> 这三款软件对“无缝模式”的叫法不同——VMware 称之为“Unity”，Parallels 称之为“Coherence”，VirtualBox 称之为“Seamless”。 <br /> <br /> 点评：三者持平 <br /> <br />     <h3 id="d--"> ◇3D 加速 </h3>
+ <br /> 这三款软件都有 3D 加速，它们都支持了 OpenGL 2.0（或更高）和 DirectX 9（或更高）。 <br /> 点评：三者持平 <br /> <br />     <h3 id="section-10"> ◇截屏/录像 </h3>
+ <br /> VMware Workstation 几年前就具有“截屏”和“录像”功能； <br /> VirtualBox 只有“截屏”，没有“录像”；Parallels 貌似也没录像功能。 <br /> 点评：VMware 占优 <br /> <br />     <h3 id="section-11"> ◇远程操作 </h3>
+ <br /> 所谓远程管理就是：虚拟机软件提供某种方式，让用户可以通过网络远程操作 Guest OS。提醒一下：这种远程操作能力是由虚拟机软件提供的，跟 Guest OS 没有关系。举个例子：你甚至可以远程操作一个 DOS 的虚拟系统。 <br /> VMware 支持基于 VNC 的远程操作；VirtualBox 支持基于 RDP（远程桌面协议）的远程操作；Parallels 貌似不支持远程操作。 <br /> 点评：考虑到 RDP 比 VNC 普及，所以 VirtualBox 占优 <br /> <br />     <h2 id="section-12"> ★性能对比 </h2>
+ <br /> 从刚才的“功能对比”，大伙儿应该可以看出，这三个候选者的功能，有些小差异，但没有 <b>
+   实质性
+  </b> 的差异。所以俺再来比较一下性能方面的高低。 <br /> 要测性能，必须在同一台电脑里面，使用相同的 Host OS 环境进行测试，才有可比性。所以俺根据三种主流的桌面操作系统，分别介绍。 <br /> 免责声明：下面列举的性能测评是网上找来的，未必全面，仅供参考。 <br /> <br />     <h3 id="windows-"> ◇Windows </h3>
+ <br /> “ <a href="http://www.ptt.cc/bbs/PC_Shopping/M.1349389173.A.450.html" rel="nofollow" target="_blank"> 这里 </a> ”有一篇台湾同胞做的测评。Host OS 用 Windows Server 2012，Guest OS 用 Windows Server 2008 R2。 <br /> 该测评针对三种虚拟机软件：VMware Workstation 9、VirtualBox 4.2.0、Hyper-V（这里的 Hyper-V 用的是 Windows 2012内置的） <br /> 测试结果是：Hyper-V 明显好于 VMware Workstation 9，VMware Workstation 9 好于 VirtualBox 4.2.0 <br /> 考虑到 Hyper-V 是 Windows Server 2012 内置的，而且测试方法是 Windows 虚拟 Windows，所以 Hyper-V 的结果未必能说明问题。 <br /> 不过捏，VMware Workstation 9 比 VirtualBox 4.2.0 快，倒是可以说明一定的问题。 <br /> <br />     <h3 id="mac-os-x-"> ◇Mac OS X </h3>
+ <br /> “ <a href="http://www.macobserver.com/tmo/article/benchmarking-parallels-fusion-and-virtualbox-against-boot-camp" rel="nofollow" target="_blank"> 这里 </a> ”有一篇很全面的测评，使用 Parallels Desktop 8, VMware Fusion 5, VirtualBox 4 这三款虚拟机软件，在苹果系统中虚拟 Windows。为了提供参照，还特意测试了 Windows 系统直接运行在 Mac 硬件上的性能指标，作为虚拟机性能的对比。 <br /> 从这篇测评的发布时间看（Sep 17 2012）算是比较新鲜的。从测评的综合结果看，Parallels Desktop ＞ VMware Fusion 5 ＞ VirtualBox 4。而且 VirtualBox 4 落后较多。 <br /> <br />     <h3 id="linux-"> ◇Linux </h3>
+ <br /> “ <a href="http://openbenchmarking.org/result/1109086-DAIT-MINTVMW79,1109082-DAIT-VIRTUAL59" rel="nofollow" target="_blank"> 这里 </a> ”有一篇去年（Sep 09 2011）的测评，基于 Linux Mint，测试了 VirtualBox 和 VMware。该测试中，至少有6项指标，VMware 明显好于 VirtualBox；只有一项指标是 VirtualBox 明显好于 VMware。 <br /> “ <a href="http://luhman.org/blog/2012/05/01/performance-hyper-v-vs-esxi-vs-kvm-vs-virtualbox" rel="nofollow" target="_blank"> 这里 </a> ”还有一篇半年前（May 01 2012）的测评，对比了4款虚拟机（Hyper-V, ESXi, KVM, VirtualBox），其中的 ESXi 属于 VMware 家族。从这篇测评的结论看，VirtualBox 比 KVM 略好，不如 Hyper-V 和 ESXi。 <br /> <br />     <h2 id="section-13"> ★总结 </h2>
+ <br /> 功能上，三个候选者各有胜负，但差别不大。 <br /> 性能上，VirtualBox 在三种系统都不如 VMware；苹果系统上，Parallels 明显占优。虽然 VirtualBox 性能不够好，但它是开源软件，无需花银子。 <br /> 俺的建议是： <br /> Windows 的用户，在 VMware Workstation 和 VirtualBox 二选一（Parallels Workstation 用的人太少，明显不给力，不予考虑）。 <br /> Mac OS X 的用户，在 Parallels Desktop 和 VirtualBox 二选一（苹果系统的 Parallels Desktop 比 VMware Fusion 好，价格还便宜，于是排除掉 VMware Fusion）。 <br /> Linux 的用户，在 VMware Workstation 和 VirtualBox 二选一（如果你是铁杆 Linux 用户，这辈子铁定不用其它 OS 做宿主，或许也可以考虑 KVM 或 Xen）。 <br /> <br /> <a href="https://program-think.blogspot.com/2012/10/system-vm-0.html#index"> 回到本系列的目录 </a>     <div class="post-copyright">
+<b>
+    版权声明
+   </b> <br /> 本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者 <a href="mailto:program.think@gmail.com"> 编程随想 </a> 和本文原始地址： <br /> <a href="https://program-think.blogspot.com/2012/11/system-vm-3.html" id="OriginalPostUrl"> https://program-think.blogspot.com/2012/11/system-vm-3.html </a>
+    </div>
+    <div style="clear: both;"></div>
+  </div>
+  <div class="post-footer" style="margin-bottom:50px;">
+    <div class="post-footer-line post-footer-line-1" style="display:none;">
+<span class="post-author vcard"> </span> <span class="reaction-buttons"> </span> <span class="star-ratings"> </span> <span class="post-icons"> </span> <span class="post-backlinks post-comment-link"> </span>
+    </div>
+    <div class="post-footer-line post-footer-line-2 post-toolbar"></div>
+    <div class="post-footer-line post-footer-line-3">
+<span class="post-location"> </span>
+    </div>
+  </div>
+</div>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#编程随想 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2021-05-09/%E5%88%86%E4%BA%AB%E5%90%84%E7%B1%BB%E7%94%B5%E5%AD%90%E4%B9%A6-%E6%94%BF%E6%B2%BB-IT-%E7%A7%91%E6%99%AE-%E5%8E%86%E5%8F%B2-%E7%AD%89-97%E6%9C%AC/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-01-15/%E5%8D%9A%E5%AE%A2%E5%BC%80%E5%BC%A0%E5%8F%8A%E6%9C%AC%E5%8D%9A%E5%AE%A2%E5%86%85%E5%AE%B9%E7%AE%80%E4%BB%8B/">最早</a>--</span>
+    
+      <li>
+        <time>2012-12-03</time>
+        <a href="https://nodebe4.github.io/opinion/2012-12-03/%E8%A1%8C%E5%8A%A8%E8%B5%B7%E6%9D%A5-%E4%B8%BA%E4%BA%86%E8%87%AA%E7%94%B1%E5%92%8C%E5%BC%80%E6%94%BE%E7%9A%84%E4%BA%92%E8%81%94%E7%BD%91/">
+          行动起来，为了自由和开放的互联网
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2012-12-02</time>
+        <a href="https://nodebe4.github.io/opinion/2012-12-02/%E6%89%AB%E7%9B%B2%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%99%9A%E6%8B%9F%E6%9C%BA-4-%E8%99%9A%E6%8B%9F%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%AE%89%E8%A3%85-%E5%A4%9A%E5%9B%BE/">
+          扫盲操作系统虚拟机[4]：虚拟系统的安装（多图）
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2012-11-26</time>
+        <a href="https://nodebe4.github.io/opinion/2012-11-26/%E6%AF%8F%E5%91%A8%E8%BD%AC%E8%BD%BD-%E5%85%B3%E4%BA%8E%E9%9B%B7%E6%94%BF%E5%AF%8C-%E7%BD%91%E6%96%874%E7%AF%87-%E8%AF%84%E8%AE%BA%E8%8B%A5%E5%B9%B2-%E5%9B%BE%E7%89%87%E8%8B%A5%E5%B9%B2/">
+          每周转载：关于雷政富（网文4篇，评论若干，图片若干）
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2012-11-21</time>
+        <a href="https://nodebe4.github.io/opinion/2012-11-21/%E4%B8%A4%E4%B8%AA%E5%AF%93%E8%A8%80%E6%8A%98%E5%B0%84%E5%A4%A9%E6%9C%9D%E6%94%BF%E6%B2%BB%E7%8E%B0%E7%8A%B6/">
+          两个寓言折射天朝政治现状
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2012-11-30/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2%E7%9A%84%E6%B8%B8%E8%AF%B4%E5%AF%BC%E8%87%B4%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87%E4%BD%8E%E4%BC%B0/">
+            前一篇：利益集团的游说导致人民币汇率低估
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2012-12-02/%E6%89%AB%E7%9B%B2%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%99%9A%E6%8B%9F%E6%9C%BA-4-%E8%99%9A%E6%8B%9F%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%AE%89%E8%A3%85-%E5%A4%9A%E5%9B%BE/">
+            後一篇：扫盲操作系统虚拟机[4]：虚拟系统的安装（多图）
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2012-11-30/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2%E7%9A%84%E6%B8%B8%E8%AF%B4%E5%AF%BC%E8%87%B4%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87%E4%BD%8E%E4%BC%B0/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2012-12-02/%E6%89%AB%E7%9B%B2%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%99%9A%E6%8B%9F%E6%9C%BA-4-%E8%99%9A%E6%8B%9F%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%AE%89%E8%A3%85-%E5%A4%9A%E5%9B%BE/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2012-12-02/%E6%89%AB%E7%9B%B2%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%99%9A%E6%8B%9F%E6%9C%BA-4-%E8%99%9A%E6%8B%9F%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%AE%89%E8%A3%85-%E5%A4%9A%E5%9B%BE/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2012-11-26/%E6%AF%8F%E5%91%A8%E8%BD%AC%E8%BD%BD-%E5%85%B3%E4%BA%8E%E9%9B%B7%E6%94%BF%E5%AF%8C-%E7%BD%91%E6%96%874%E7%AF%87-%E8%AF%84%E8%AE%BA%E8%8B%A5%E5%B9%B2-%E5%9B%BE%E7%89%87%E8%8B%A5%E5%B9%B2/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2012-11-30/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2%E7%9A%84%E6%B8%B8%E8%AF%B4%E5%AF%BC%E8%87%B4%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87%E4%BD%8E%E4%BC%B0/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2012-12-02/%E6%89%AB%E7%9B%B2%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%99%9A%E6%8B%9F%E6%9C%BA-4-%E8%99%9A%E6%8B%9F%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%AE%89%E8%A3%85-%E5%A4%9A%E5%9B%BE/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<编程随想>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2012-12-02/%E6%89%AB%E7%9B%B2%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%99%9A%E6%8B%9F%E6%9C%BA-4-%E8%99%9A%E6%8B%9F%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%AE%89%E8%A3%85-%E5%A4%9A%E5%9B%BE/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<编程随想>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2012-11-26/%E6%AF%8F%E5%91%A8%E8%BD%AC%E8%BD%BD-%E5%85%B3%E4%BA%8E%E9%9B%B7%E6%94%BF%E5%AF%8C-%E7%BD%91%E6%96%874%E7%AF%87-%E8%AF%84%E8%AE%BA%E8%8B%A5%E5%B9%B2-%E5%9B%BE%E7%89%87%E8%8B%A5%E5%B9%B2/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

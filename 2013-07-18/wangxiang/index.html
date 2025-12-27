@@ -1,0 +1,847 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>戏剧是什么？ – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+  讲师：王翔
+
+  时间：2013 年 7 月 18 日 下午
+
+  地点：蓬蒿剧场
+
+  整理：刘睿
+
+" />
+    <meta property="og:description" content="
+  讲师：王翔
+
+  时间：2013 年 7 月 18 日 下午
+
+  地点：蓬蒿剧场
+
+  整理：刘睿
+
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="戏剧是什么？" />
+    <meta property="twitter:title" content="戏剧是什么？" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fnodebe4.github.io%2Fopinion%2F2013-07-18%2Fwangxiang%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://nodebe4.github.io/opinion/2013-07-18/wangxiang/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://nodebe4.github.io/opinion/2013-07-18/wangxiang/&text=觀點-從草根到大師 git.io/JJCxS&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://nodebe4.github.io/opinion/2013-07-18/wangxiang/&title=觀點-從草根到大師 git.io/JJCxS" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://nodebe4.github.io/opinion/2013-07-18/wangxiang/&title=觀點-從草根到大師 git.io/JJCxS" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=觀點-從草根到大師 git.io/JJCxS&body=
+  讲师：王翔
+
+  时间：2013 年 7 月 18 日 下午
+
+  地点：蓬蒿剧场
+
+  整理：刘睿
+
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://nodebe4.github.io/opinion/2013-07-18/wangxiang/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://nodebe4.github.io/opinion/2013-07-18/wangxiang/&title=觀點-從草根到大師 git.io/JJCxS&caption=
+  讲师：王翔
+
+  时间：2013 年 7 月 18 日 下午
+
+  地点：蓬蒿剧场
+
+  整理：刘睿
+
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=觀點-從草根到大師 git.io/JJCxS&url=https://nodebe4.github.io/opinion/2013-07-18/wangxiang/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>戏剧是什么？</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2013-07-18
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: 王翔</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#立人大学">
+          立人大学
+        </a>
+      </li>
+    </ul>
+
+    
+
+    <span style="float: right;" title="立大三期的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#立人大学 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+      <iframe id="player-" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/" frameborder="0" allowfullscreen></iframe>
+    
+    <blockquote>
+  <p>讲师：王翔</p>
+
+  <p>时间：2013 年 7 月 18 日 下午</p>
+
+  <p>地点：蓬蒿剧场</p>
+
+  <p>整理：刘睿</p>
+</blockquote>
+
+<h3 id="戏剧是人类最好的精神食粮">戏剧是人类最好的精神食粮</h3>
+
+<p>今天的题目是「戏剧是什么？」戏剧实际上是粮食，大家说文学是粮食，法律是工具，而戏剧则是最好的精神食粮。这是一个最基本的概念。当我们学习法学、文学、社会学、生物学、化学、物理学、信息科学等等很多学科，就是要思考人怎么活？首先要吃粮食，没有蛋白质、脂肪、蛋白质、维生素，活不了。关于蛋白质这些东西，有个哲学的观念予以解释，信息即有用的东西。吃了这些东西以后，会组合成生命所需要的细胞，让生命延续，然后排泄掉坏的细胞，吸收到新的细胞。所以，在生命科学的角度，你吃的一切东西都是信息。有个物理学概念叫「熵增」，熵最大的时候，生命就没有了，就会一片死寂。就像宇宙的熵增最大时，所有元素依然存在，但不能再利用。</p>
+
+<p>艺术的需要不是本能的，但是缺了之后，人就活得不健康了，有了之后，人的身体状态更好，甚至回报更好。这些「类本能」经过心理学界、医学界研究其中可测量的东西：介质、激素、内分泌、食欲、对睡眠的影响等。人看完戏以后的兴奋，身体情绪的悦愉，可以让免疫机制得到增强，舒缓心理。所以，戏剧是满足人类类本能的重要形式，是最重要的精神食粮。而且这些食粮不只影响精神，也会在物质层面和身体层面起作用。</p>
+
+<h3 id="戏剧是综合的艺术形式">戏剧是综合的艺术形式</h3>
+
+<p>其次，戏剧是最高的艺术形式，是综合的艺术形式。包括舞台、剧本，台词、形体、灯光、音响，一切可以让人感受到的艺术空间的因素。艺术不是工程、法律，甚至不绝对是文学，不是农业、政治……艺术是生命、生活当中最美的、最有效的、最生动的因素的集合、浓缩、提炼和呈现。我们说一个人讲话有艺术，就是说他用最美、最生动的语言。</p>
+
+<p>我有一天看了一篇报告突然才明白艺术是最能让人记住的东西。古希腊神话中的众神都有一个共同的母亲叫记忆之神。再美、再有效的东西，一定要在记忆的基础之上。古代的报告，用艺术的形式表达，才能经过几百年、几千年而流传下来。</p>
+
+<h3 id="戏剧与影视的不同">戏剧与影视的不同</h3>
+
+<p>戏剧和影视是不同的。而关于戏剧和影视之间的关系与区别，我归纳了三条。</p>
+
+<p>第一，<strong>影视是在屏幕上的表现</strong>。演员下不来，你走不上去。戏剧是具体空间的表现。演员和观众在同一个空间里。</p>
+
+<p>更重要的区别是，影视在讲一个故事，没有故事就不好看，所以必须有一个完整的故事结构。但戏剧不一样，影视讲故事，戏剧讲心情。例如刚才片段里的《审查者》，是一个三流女导演为了让自己的一部三级片通过审查，用自己的身体去勾引审查官，而审查官却就爱上了女导演。但女导演无动于衷，只是为了目的而没有爱。戏剧的最后部分用大量独白表现女导演一种心情。很多戏剧用大段的、沉默的独白来表示这种心情。看这一段时，你可以不知道戏的结构，但你知道有个人在上面坐着，表达想活下去的对生命的好奇及愿望。而很多戏有故事，你看完故事后却什么都没有留下。影视做不到大段的安排演员独白。</p>
+
+<p>第二，<strong>影视只能讲真实的东西</strong>，子弹打过来，人要死。而戏剧可以表达很多假定的东西，假定的是人的一种情愫。假定的未必是假的东西，很多所谓真的东西可能是被掩盖过的。戏剧可以把内心想的东西提炼出来，可以表现实当中表面不存在的东西，实际真实的表达了自己的认知。</p>
+
+<p>另外，<strong>戏剧还有多个层面</strong>，一个戏剧、话剧、戏曲。戏剧包括一切舞台剧、默剧、舞台剧、木偶剧，甚至可以包括戏曲。但戏曲绝对不是话剧。像中国的传统戏曲，唱念做打。话剧是从西方引进来的，以语言对白为主，加上简单的灯光与音效渲染人的情绪。还有一些戏曲，如古希腊的歌剧，美国的音乐剧。戏剧，就是舞台演出的各种形式。我讲这些，最重要的就是想传递一个信息：戏剧是精神食粮，是人的更高层面的生命需要。</p>
+
+<p><strong>戏剧有表达功能，审美功能，认知学习功能</strong>。中国老百姓都是从戏曲中学到道德伦理。戏剧还有娱乐功能，最低的是娱乐功能。剧场是人和人相遇的地方，戏剧也是人的沟通交流平台。戏剧还有评判社会的功能，像面镜子一样反映社会问题。德国政府会花很多钱支持艺术家，北欧也是，虽然票房往往不高，但政府通过对戏剧大力支持，就是让戏剧来发现社会的问题，出钱支持艺术家批判社会。</p>
+
+<p><strong>戏剧也有文学功能</strong>，通过解剖人类性格了解社会。中国戏剧从李叔同、曹禺到抗日时期爱国救亡戏剧，再到解放后北京人艺的戏剧，之后国外戏剧渐渐引入中国，出现如林兆华的《绝对信号》，先锋戏剧等。现在北京有许多民间戏剧，蓬蒿剧场就是坚持戏剧的文学性。而当今很多戏剧变得商业化，为什么？北京有不到十个民间独立剧场，上海有 1 个，全国其他省会城市加起来是零。相比之下，纽约有一千多，巴黎有五六百，北京却只有不到十个民间剧场，这个差距太大。这些问题我大概有过描述，现在来回答一些大家之前的问题，你们可以随时提问。</p>
+
+<p>人靠食物活着。如果把你打成右派，关到监狱里十年你能忍受，可饿上三天就会死，但在吃饱饭后你怎么活？周伯平说，在温饱线上，人的愉悦基本与物质无关。如何更愉快？人的动物性是吃饱了就轻松，但人要是没有精神上的交流收获，就会恐惧。罗斯福说，人有免于恐惧的自由，也有免于匮乏的自由。说明最大的恐惧是匮乏的恐惧。现在人对食物的占有容易了，但精神食粮的缺失很恐惧。精神食粮的吸引力在于存在感。动物吃饱了不知道怎么回事，只是觉得舒服。现在很多贪官奸商，也只是活在动物的匮乏性层面，缺多少补多少；只有人的需要是一种存在性的需要，知道怎么存在这个世界上，活在这个世界上多么美好。这种感觉必需从最好的艺术作品中获得。最好的功能就是，让你明白活着这么好，让你知道生命原来这么有意思。第二，活着这么好，不能做坏事了，否则看这些戏剧就会变味。</p>
+
+<p>中国共有 10 余个小剧场，而德国任何一个中小城市，基本走上 10 来分钟，就一个剧场。我去过斯德哥尔摩戏剧节、哥本哈根戏剧节，都有为半岁到 4 岁的孩子准备的戏。我 2010 年去阿根廷戏剧节时，为一个城市有 300 余剧场而震惊，每天同时将近两千部戏剧在一个城市里上演。</p>
+
+<p><strong>提问</strong></p>
+
+<p><strong>问：</strong>戏剧与其他表演形式相比，最令人震憾的东西是什么？</p>
+
+<p><strong>答：</strong>第一，现场空间的延伸性。那一刻在空间里表达的东西太美太神圣，现场的震撼感无可比拟。第二，戏剧讲究心情，让人在心情最好的状态下和人交流，通过剧本结构、调度台词、音乐灯光、形体音乐……灵魂碰撞、起承转合，留下思考、回味，让最深的触碰在体内缓缓流动。第三，戏剧把当下宇宙无限全放在一块，体现整个宇宙的空间的不确定性。把自己的生命和剧中的生命融在一起。戏剧实际上是把人的最重的状态结合在一起。</p>
+
+<p><strong>问：</strong>身为演员如果太入戏，是不是失去理性的行为？</p>
+
+<p><strong>答：</strong>我如果不入戏，就不会和你交流，而太入戏，会忽略别的东西。所以我会跳出来问一句。一个好演员首先要读懂一个剧本，如果不读懂剧本，就不知道要怎么演，第一步要进到戏里面。最好的演员在读懂角色以后，你演的这个角色，永远是你，别人无法代替。必需感性，才能再理性。需要具有超越性人格。多年前我在北师大听过一个讲座。李泽厚以社会为本位，刘晓波则相反，以个人为本位，以感性为本位。当时我还是一个小孩，我就站起来说同意。很多理性不是你自己的。感性肯定大于理性，因为那一刻不会欺骗你。我读马斯洛的《超越性人格》时得出一个结论：感性和理性必须在超越性的层面上统一。我觉得会在一个点上统一。理性真正成熟后，会出现压抑感性后的第二个功能，特别神奇，就是释放感性。人的大脑在思考的时候，会特别别扭，思考通透后，就会畅快了。回到人的儿童之后的第二次的坦诚状态。理性完成后，再重新回到一个无意识的状态，一个感性的状态。一个内心丰富的人必须付出才能感受到收获。最坚强的人就是最温暖的人，内心特别温暖的人有特大的抗压能力。吻得越轻，爱越重。戏剧需要先进去，再出来。</p>
+
+<p><strong>问：</strong>戏剧往往都很小众，有可能把它推向大众吗？</p>
+
+<p><strong>答：</strong>戏剧最大的功能是给人以丰富，能让人静下来。沉静的人最有力量。人的最核心的问题有两个，一个是时间的问题，生命只有一次。一个是空间纬度，无论你在哪里关注，都会在剧场里关注，它把世界给收进来了。如果你面前有十桶水，烧开一桶就好……最好的东西往往是最小众的。一个好的艺术作品，肯定是小众的。地球对宇宙、动物对植物、人对动物都是小众的。最好的东西都是小众的，只要有这样一个东西存在，其他人就有希望。欧美发达国家普通人有一个规律，人们不会太努力，但是会向更高级的东西致敬。只要这个东西存在，它就会渗透。一个渴望好的人，旁边有一个更好的人的时候，这个人就能变为更好，但是如果没有，就不会。这是反商业的，商业目的是最大化，而艺术是最小化。要影响更多人，首先需要自己更小众更纯粹一些。</p>
+
+<p><strong>问：</strong>你是否认为现在是戏剧文化上的断层期？或者说还没有进到一个更好的时候，像国外一样有很多的文化方面的选择，但是仍然很尊重戏剧？</p>
+
+<p><strong>答：</strong>现今社会结构的不合理导致传统文化的逐渐消逝。而戏剧生命力本身的能量有多大又值得探讨。中国戏曲是在农耕文明下成型，自娱自乐性强，而古希腊戏剧起源于公民社会，从开始便有社会性。两个剧种的根基不一样。中国的戏曲也会反抗一些东西，但基本上是仰视的。我自己的侧重点主要在于文学关怀上。话剧与戏曲歌剧音乐剧相比，我自己更偏重话剧。处理这个问题最好的就是日本。日本的能剧狂言保留得特别好。</p>
+
+<p><strong>问：</strong>话剧与歌剧在艺术形式表达上的区别在哪？</p>
+
+<p><strong>答：</strong>话剧最大的魅力在于语言的行动力。关于歌剧，如《费加罗的婚礼》，给人的信息很重，主要带给人情绪。人最低的层面是吃穿住，再往上是讲心情，而对我来说，更高的层面是思辨层次的。话剧带给人的这种成份就更重一些。例如雷雨中吃药的那一段，你看着是语言，但实际上是行动。</p>
+
+<p><strong>问：</strong>如何从审美的角度来评判一部话剧？</p>
+
+<p><strong>答：</strong>戏剧有几个层面，第一，娱乐层面，其中有商业层面，有技术层面。第二，文学层面，这实际上是人的高级状态，提出问题，归纳问题。第三，灵魂层面。第四，美学层面。相对于前三个层面。文学层面和灵魂层面都集中在审美层面。现在中国唯独缺文学、灵魂和美学。一个很悲剧的戏，让你觉得生活是多么复杂深入。从一个神圣的角度来看待生命。人们心里会泛起一种愉悦，通过对生命的感受体验，人产生一种升华，去认知这个世界，这就是美学意义。带给你一个特别美的综合层面的感受。</p>
+
+<p><strong>问：</strong>通过影像间接的观看与直接观看戏剧相比，会丢失什么？</p>
+
+<p><strong>答：</strong>这又回到老问题：现实的空间感。人有三个仪式，出生仪式、入世仪式、高贵仪式，如何完成，需要你接触过最美的事物。人的生命只有一次，这个空间太神奇，以至于这个空间之外不再有生命。最重要的是那一刻的存在感。我每年十月必去一次杭州，在桂花开得最浓时，感受那状态。在桂花慢慢往下落的时候，坐在农家院，喝着当年的龙井茶，桂花的香气满山涧弥漫着。我享受那一刻的状态，储备最高贵的感受。那刻的感受会储存在我心理，时不时的想起依然愉悦。剧场不会消去的原因就在于，你要经历高贵的体验。</p>
+
+<p>戏剧表演中，演员的情绪好不好，与现场观众的反映密切相关。演员会受到观众的刺激回馈至自己身上，表现出更好的状态。每一次的表演都独一无二，不可替代，是活生生的人与人间的交流，非影像能及。这就是戏剧的魅力。</p>
+
+<p><strong>问：</strong>在戏剧中的歇斯底里会不会有夸张嫌疑？</p>
+
+<p><strong>答：</strong>停顿是语言最大的需要，需要留给对方思考的空间。语言中，重的东西更要轻轻的触碰。声嘶力竭和缓缓的说是不一样的。需要演员自身拿捏表达的轻重。</p>
+
+<p><strong>问：</strong>剧本的创作者会不会担心观众误解？</p>
+
+<p><strong>答：</strong>一个经典剧本被更多的所接受和关注。关注的点如此不同，都可以。关于戏剧一个最核心的问题，主要是一个信息到达率的问题。所有的悲剧，在于人和人之间信息量的不对等。一个再好的剧本，写出来后，如果读者没达到一个高度，他不会接受。美学信息量无法到达到对方的时候，那么新的产生只能慢慢的培养。好的剧本包含了人的生命的核心信息量，很生动和灵动，让人注意它。好的剧本不要关注多少关注能达成一种接受，只要关注自己内心的感受，写出来就行。主要是你有没有能力解读生命。</p>
+
+<p><strong>问：</strong>为什么戏剧中的留白有时会比爆发更触动人心？</p>
+
+<p><strong>答：</strong>人类有着匮乏性的愉悦，而人类最高的愉悦是思考性的愉悦。人在剧场中想获得的更多是思考性的愉悦，是创造的愉悦。</p>
+
+<p><strong>问：</strong>对于戏剧的表达最重要的是什么？</p>
+
+<p><strong>答：</strong>对于戏剧，文学是母亲，艺术是父亲。艺术是最有效、最有灵性的东西，文学是最宽厚、最包容的东西。技术空间表达性是其次。</p>
+
+<p><strong>问：</strong>编剧如何走进人物内心及选择演员？</p>
+
+<p><strong>答：</strong>编剧表现人物超越性人格，导演跳不过编剧。编剧需要累积信息，对人性有深刻的理解，不能站在一个角度，需要用心解读生活。</p>
+
+<p><strong>问：</strong>戏剧中演员所表达的情感比生活更夸张，怎样理解戏剧源于生活而高于生活？</p>
+
+<p><strong>答：</strong>戏剧是艺术的最高形式。戏剧是将生命中的所有引人注目的点串联起来。戏剧舞台有仪式感，将人的灵魂放大拷问评判，放大生活情感。</p>
+
+<p><strong>问：</strong>看戏剧的目的是为了追求内心愉悦还是为了达到共鸣？</p>
+
+<p><strong>答：</strong>首先是为了学习，获取知识。其次是为了一种体验，最后是为了寻求存在感。通过戏剧与其他文化、灵魂的交流达到内心的充实。</p>
+
+<p><strong>问：</strong>戏剧受众虽小，而现今的独立剧场质量较高，戏剧的发展是否是向着积极方向的？</p>
+
+<p><strong>答：</strong>现今独立剧场数量过少，并且难避其趋利性。国家剧院票价过高，剧种少，质量差，与国际差距较大。</p>
+
+<p><strong>问：</strong>请问您对学生戏剧排演的看法及建议。</p>
+
+<p><strong>答：</strong>学生戏剧是现今很好的戏剧表达形式。国外很多大学都设立戏剧选修科目，欧洲从幼儿园的孩子就有戏剧表演体验，在中国，大学生的戏剧是最纯净的。而多数大学生戏剧还是缺乏厚度及质感。因此，大学生戏剧必须坚持其厚度、精良制作及文学性。大学生戏剧的尴尬局面在于社会厚度的不足，以及社会责任的不足，但仍是戏剧最为纯净的一块天地。</p>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#立人大学 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2017-10-01/freehere/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2011-07-01/kaimu/">最早</a>--</span>
+    
+      <li>
+        <time>2013-07-19</time>
+        <a href="https://nodebe4.github.io/opinion/2013-07-19/liangxiaoyan/">
+          在民间寻找事业和生命的价值
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2013-07-18</time>
+        <a href="https://nodebe4.github.io/opinion/2013-07-18/zhourunan/">
+          乌坎观察 - 探寻走出转型陷阱的动力 - 探寻走出转型陷阱的动力
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2013-07-16</time>
+        <a href="https://nodebe4.github.io/opinion/2013-07-16/qudong/">
+          青年行动与公民社会
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2013-07-16</time>
+        <a href="https://nodebe4.github.io/opinion/2013-07-16/anzhu/">
+          公益实战研讨会
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2013-07-17/%E7%9B%9B%E6%B4%AA-%E6%80%9D%E6%83%B3%E5%B8%82%E5%9C%BA%E4%BC%9A%E5%A4%B1%E7%81%B5%E5%90%97/">
+            前一篇：盛洪：思想市场会失灵吗？
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2013-07-18/zhourunan/">
+            後一篇：乌坎观察 - 探寻走出转型陷阱的动力 - 探寻走出转型陷阱的动力
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2013-07-17/%E7%9B%9B%E6%B4%AA-%E6%80%9D%E6%83%B3%E5%B8%82%E5%9C%BA%E4%BC%9A%E5%A4%B1%E7%81%B5%E5%90%97/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2013-07-18/zhourunan/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2013-07-18/zhourunan/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2013-07-16/qudong/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2013-07-17/%E7%9B%9B%E6%B4%AA-%E6%80%9D%E6%83%B3%E5%B8%82%E5%9C%BA%E4%BC%9A%E5%A4%B1%E7%81%B5%E5%90%97/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2013-07-18/zhourunan/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<立人大学>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2013-07-18/zhourunan/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<立人大学>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2013-07-16/qudong/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

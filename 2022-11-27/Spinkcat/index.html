@@ -1,0 +1,2436 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Spinkcat在2022-11-21~2022-11-27的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Spinkcat在2022-11-21~2022-11-27的言论" />
+    <meta property="twitter:title" content="Spinkcat在2022-11-21~2022-11-27的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2Freal_China_irl%2Fcomments%2Fz2bnhm%2F%E6%98%A8%E5%A4%A9%E5%8F%91%E4%BA%86%E4%B8%80%E4%B8%AA%E5%B8%96%E5%AD%90%E5%86%85%E5%AE%B9%E6%98%AF%E4%B8%8024%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%9C%AC%E8%BA%AB%E6%82%A3%E6%9C%89%E7%99%AB%E7%97%AB%E5%9B%A0%E5%B0%81%E6%8E%A7%E6%97%A0%E6%B3%95%E5%8F%8A%E6%97%B6%E5%B0%B1%E5%8C%BB%E8%80%8C%E6%AD%BB%E7%BB%93%E6%9E%9C%E8%AF%84%E8%AE%BA%E5%8C%BA%E8%AE%A9%E6%88%91%E4%BA%A7%E7%94%9F%E4%B8%80%E7%A7%8D%E5%9C%A8%E5%A2%99%E5%86%85%E7%B2%AA%E5%9D%91%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/real_China_irl/comments/z2bnhm/昨天发了一个帖子内容是一24岁女孩本身患有癫痫因封控无法及时就医而死结果评论区让我产生一种在墙内粪坑/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/real_China_irl/comments/z2bnhm/昨天发了一个帖子内容是一24岁女孩本身患有癫痫因封控无法及时就医而死结果评论区让我产生一种在墙内粪坑/&text=Spinkcat在2022-11-21~2022-11-27的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/real_China_irl/comments/z2bnhm/昨天发了一个帖子内容是一24岁女孩本身患有癫痫因封控无法及时就医而死结果评论区让我产生一种在墙内粪坑/&title=Spinkcat在2022-11-21~2022-11-27的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/real_China_irl/comments/z2bnhm/昨天发了一个帖子内容是一24岁女孩本身患有癫痫因封控无法及时就医而死结果评论区让我产生一种在墙内粪坑/&title=Spinkcat在2022-11-21~2022-11-27的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Spinkcat在2022-11-21~2022-11-27的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/real_China_irl/comments/z2bnhm/昨天发了一个帖子内容是一24岁女孩本身患有癫痫因封控无法及时就医而死结果评论区让我产生一种在墙内粪坑/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/real_China_irl/comments/z2bnhm/昨天发了一个帖子内容是一24岁女孩本身患有癫痫因封控无法及时就医而死结果评论区让我产生一种在墙内粪坑/&title=Spinkcat在2022-11-21~2022-11-27的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Spinkcat在2022-11-21~2022-11-27的言论&url=https://old.reddit.com/r/real_China_irl/comments/z2bnhm/昨天发了一个帖子内容是一24岁女孩本身患有癫痫因封控无法及时就医而死结果评论区让我产生一种在墙内粪坑/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Spinkcat在2022-11-21~2022-11-27的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-11-27
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://www.reddit.com/user/Spinkcat/" style="font-size:14px;">作者: Spinkcat</a>
+        </span>
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/real_China_irl/comments/z2bnhm/昨天发了一个帖子内容是一24岁女孩本身患有癫痫因封控无法及时就医而死结果评论区让我产生一种在墙内粪坑/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#1855-昨天发了一个帖子内容是一24岁女孩本身患有癫痫因封控无法及时就医而死结果评论区让我产生一种在墙内粪坑的错觉你们这些浪人就真的没有一丁点同情心和共情能力吗这种发言跟粉有什么区别-submitted-on-2022-11-23-0935550800" id="markdown-toc-1855-昨天发了一个帖子内容是一24岁女孩本身患有癫痫因封控无法及时就医而死结果评论区让我产生一种在墙内粪坑的错觉你们这些浪人就真的没有一丁点同情心和共情能力吗这种发言跟粉有什么区别-submitted-on-2022-11-23-0935550800">1855: 昨天发了一个帖子，内容是一24岁女孩本身患有癫痫，因封控无法及时就医而死，结果评论区让我产生一种在墙内粪坑的错觉。你们这些浪人就真的没有一丁点同情心和共情能力吗？这种发言跟粉*有什么区别？, submitted on 2022-11-23 09:35:55+08:00.</a></li>
+  <li><a href="#1856-乌鲁木齐市政府大楼已经被占领-submitted-on-2022-11-26-0030260800" id="markdown-toc-1856-乌鲁木齐市政府大楼已经被占领-submitted-on-2022-11-26-0030260800">1856: 乌鲁木齐市政府大楼已经被占领, submitted on 2022-11-26 00:30:26+08:00.</a></li>
+  <li><a href="#1857-还算政治账吗-submitted-on-2022-11-26-0118420800" id="markdown-toc-1857-还算政治账吗-submitted-on-2022-11-26-0118420800">1857: 还算政治账吗？, submitted on 2022-11-26 01:18:42+08:00.</a></li>
+  <li><a href="#1858-西安理工大学勇士集美-submitted-on-2022-11-26-1238010800" id="markdown-toc-1858-西安理工大学勇士集美-submitted-on-2022-11-26-1238010800">1858: 西安理工大学勇士集美, submitted on 2022-11-26 12:38:01+08:00.</a></li>
+  <li><a href="#1859-想知道这下还怎么收场-submitted-on-2022-11-26-1337010800" id="markdown-toc-1859-想知道这下还怎么收场-submitted-on-2022-11-26-1337010800">1859: 想知道这下还怎么收场, submitted on 2022-11-26 13:37:01+08:00.</a></li>
+  <li><a href="#1860-双十二购物清单-submitted-on-2022-11-26-1526080800" id="markdown-toc-1860-双十二购物清单-submitted-on-2022-11-26-1526080800">1860: 双十二购物清单, submitted on 2022-11-26 15:26:08+08:00.</a></li>
+  <li><a href="#1861-南京传媒学院校长威胁学生你们总有一天要为你们今天所做的一切付出代价会付出代价-submitted-on-2022-11-26-2019490800" id="markdown-toc-1861-南京传媒学院校长威胁学生你们总有一天要为你们今天所做的一切付出代价会付出代价-submitted-on-2022-11-26-2019490800">1861: 南京传媒学院校长威胁学生：你们总有一天要为你们今天所做的一切付出代价会付出代价！, submitted on 2022-11-26 20:19:49+08:00.</a></li>
+  <li><a href="#1862-习或许压根不知道抗议的发生-submitted-on-2022-11-26-2210020800" id="markdown-toc-1862-习或许压根不知道抗议的发生-submitted-on-2022-11-26-2210020800">1862: 习或许压根不知道抗议的发生, submitted on 2022-11-26 22:10:02+08:00.</a></li>
+  <li><a href="#1863-继撑伞摆拍后大白又一力作-submitted-on-2022-11-26-2236090800" id="markdown-toc-1863-继撑伞摆拍后大白又一力作-submitted-on-2022-11-26-2236090800">1863: 继撑伞摆拍后大白又一力作, submitted on 2022-11-26 22:36:09+08:00.</a></li>
+  <li><a href="#1864-假如你在广州凌晨三点你被楼下喇叭的喊话声吵醒-submitted-on-2022-11-26-2243140800" id="markdown-toc-1864-假如你在广州凌晨三点你被楼下喇叭的喊话声吵醒-submitted-on-2022-11-26-2243140800">1864: 假如你在广州。凌晨三点，你被楼下喇叭的喊话声吵醒, submitted on 2022-11-26 22:43:14+08:00.</a></li>
+  <li><a href="#1865-今晚部分国内高校学生发起悼念活动-submitted-on-2022-11-27-0059120800" id="markdown-toc-1865-今晚部分国内高校学生发起悼念活动-submitted-on-2022-11-27-0059120800">1865: 今晚部分国内高校学生发起悼念活动, submitted on 2022-11-27 00:59:12+08:00.</a></li>
+  <li><a href="#1866-这样的舆论中还是看不到对疫苗的讨论-submitted-on-2022-11-27-0105060800" id="markdown-toc-1866-这样的舆论中还是看不到对疫苗的讨论-submitted-on-2022-11-27-0105060800">1866: 这样的舆论中还是看不到对疫苗的讨论, submitted on 2022-11-27 01:05:06+08:00.</a></li>
+  <li><a href="#1867-习现在很被动习接下来会怎么做-submitted-on-2022-11-27-1556160800" id="markdown-toc-1867-习现在很被动习接下来会怎么做-submitted-on-2022-11-27-1556160800">1867: 习现在很被动，习接下来会怎么做？, submitted on 2022-11-27 15:56:16+08:00.</a></li>
+  <li><a href="#1868-释放被抓公民放人可以作为口号之一吗-submitted-on-2022-11-27-2122440800" id="markdown-toc-1868-释放被抓公民放人可以作为口号之一吗-submitted-on-2022-11-27-2122440800">1868: “释放被抓公民”“放人”可以作为口号之一吗？, submitted on 2022-11-27 21:22:44+08:00.</a></li>
+  <li><a href="#1869-拆一个乌鲁木齐路牌明天全国到处都是乌鲁木齐路牌-submitted-on-2022-11-27-2315210800" id="markdown-toc-1869-拆一个乌鲁木齐路牌明天全国到处都是乌鲁木齐路牌-submitted-on-2022-11-27-2315210800">1869: 拆一个乌鲁木齐路牌，明天全国到处都是乌鲁木齐路牌！, submitted on 2022-11-27 23:15:21+08:00.</a></li>
+</ul>
+
+<h3 id="1855-昨天发了一个帖子内容是一24岁女孩本身患有癫痫因封控无法及时就医而死结果评论区让我产生一种在墙内粪坑的错觉你们这些浪人就真的没有一丁点同情心和共情能力吗这种发言跟粉有什么区别-submitted-on-2022-11-23-0935550800">1855: <a href="https://old.reddit.com/r/real_China_irl/comments/z2bnhm/昨天发了一个帖子内容是一24岁女孩本身患有癫痫因封控无法及时就医而死结果评论区让我产生一种在墙内粪坑/">昨天发了一个帖子，内容是一24岁女孩本身患有癫痫，因封控无法及时就医而死，结果评论区让我产生一种在墙内粪坑的错觉。你们这些浪人就真的没有一丁点同情心和共情能力吗？这种发言跟粉*有什么区别？</a>, submitted on 2022-11-23 09:35:55+08:00.</h3>
+
+<p>—– <strong>1855.1</strong> —–2022-11-24 00:43:59+08:00:</p>
+
+<p>所以实际也抛出了一个问题，如果什么都是图一乐，也说明给了自己一个精准定位，那即是不会以共情角度切入去着手解决问题，观点始终出发自社会的问题就让社会解决，总之与我无关，我是旁观者，其实到也没什么，但基本就跟未来入主主流社会说再见了。</p>
+
+<p>无论什么情况下，解决问题的动力和提出解决问题的机制，都必须建立在靠拢现实生活这一点上。社会迟早会进入动荡，中共迟早也会下台，但是这之后的真空，以及牵扯所有人生活具体的走向，到底该不该由自己抓紧主导，我想这个命题其实不复杂。</p>
+
+<p>如果什么都不想牵扯，已经润了的根本无所谓，但很难说既要有情绪去表达，又无所谓会发生什么，因为人在网络上再怎么样都好，都要回归现实生活。</p>
+
+<p>我觉得浪人不是问题，有人表达什么也不是问题，人是不一样的，要接受这一点，只是讨论一些缺乏实际的话题时观点偏散，有情绪表达重叠了，到了现实生活是另一码事。</p>
+
+<p>本质问题还是在于，对键政的初衷和最后目的赋予一个定位，是”都完蛋了所以你们跟我一起死“的绝望后的无所谓，还是”其实我有想表达的，但是情绪总是占主导“，这就见仁见智了。</p>
+
+<p>哪种都无所谓，人人都有选择的自由，因为话语权在现实世界是客观存在的，你不抓，也迟早有人会来抓，而现实世界不会跟你一起完蛋，所以理性上我想应该不会有人要发泄情绪，但眼睁睁看着话语权旁落，要么是你放弃抓住这种跟现实话语权，要么是赛博张献忠发泄情绪（说来你不信，但这其实是最人畜无害的，起码嘴上再狠，他不敢去真杀人。）</p>
+
+<p>—– <strong>1855.2</strong> —–2022-11-26 00:31:48+08:00:</p>
+
+<p>可以看霍英东相关事迹，太多了不赘述，美心的伍淑清也谈过关于她父亲当初进大陆的事迹，而且比较详细，查关键词应该就可以找到，我以前引用过。</p>
+
+<p>还有团结香港基金会有不少港商影子，拍过一个香港事中国心的系列纪录片，因为香港很多商人乡土观念重，都会回故土投资和出资建设，不少都是本地同乡会出来的，这部分其实很多已经不记名，官方基本不给宣传资源，我认为是有意淡化这群大逃港背景下发达的商人影响力。</p>
+
+<p>国内的话，虽然也允许说，但为了突出党和邓的率先杰出贡献，所以实际上是把港商当年的影响给边缘化了，有些港商可能就是为了强调自己世系的这一份功劳，才会去拍名为连接大陆，实为强调自身影响力，莫要人忘掉的片子。</p>
+
+<h3 id="1856-乌鲁木齐市政府大楼已经被占领-submitted-on-2022-11-26-0030260800">1856: <a href="https://old.reddit.com/r/real_China_irl/comments/z4hkis/乌鲁木齐市政府大楼已经被占领/">乌鲁木齐市政府大楼已经被占领</a>, submitted on 2022-11-26 00:30:26+08:00.</h3>
+
+<p>—– <strong>1856.1</strong> —–2022-11-26 00:45:55+08:00:</p>
+
+<p>进去了吗？还是只是聚集在外围，不约而同去围市政府这件事本身，以及彻底占领，比局部冲突来的更有决定性。</p>
+
+<p>其他局部冲突十几个视频，对一个城市来讲还是太少，容易让人产生误判，但这就是不一样的性质了，应该重视起来，场上看人还是太少，如果更多估计恐怕会被党内高层视为近期严重政治事件。</p>
+
+<h3 id="1857-还算政治账吗-submitted-on-2022-11-26-0118420800">1857: <a href="https://old.reddit.com/r/real_China_irl/comments/z4iq6m/还算政治账吗/">还算政治账吗？</a>, submitted on 2022-11-26 01:18:42+08:00.</h3>
+
+<p>—– <strong>1857.1</strong> —–2022-11-26 01:41:25+08:00:</p>
+
+<p>经济账还钱，政治账还命。</p>
+
+<p>—– <strong>1857.2</strong> —–2022-11-26 11:55:49+08:00:</p>
+
+<p>应该会有更灵活可变的疫情封控措施，意味着可能管控宽松的下限或许会一定扩大，但必要时也会再次的非常严格，以避免封控下限太高导致类似问题发生，而不一定会统一划线执行宽松策略。</p>
+
+<p>可以肯定的是，对封控导致的突发群体事件，肯定会更加严格，用以提防类似事情再次发生，一些负责镇压的机关会常态化高度警戒，大多数普通警察、少部分武警可能会提前多年喜获“ 鞍不离马，甲不离身”的全国动乱体验卡。</p>
+
+<p>—– <strong>1857.3</strong> —–2022-11-26 23:04:36+08:00:</p>
+
+<p>地方实际没什么能跟中央博弈的地方，地方的压力就是中央的压力，因为地方要是垮台了，出现前所未有的政治事件，你还施压给地方，他也根本做不了，成本都要中央承担。</p>
+
+<p>只要不是财政危机这种结构性问题，可能因为接手一下就把直接拖死中央的（目前中央都是嘴上说不救，但还是会想办法给行政资源），中央都会最终接手负责和决策，只不过最后执行的是地方，背锅的也只能是地方。</p>
+
+<p>乌鲁木齐是新疆省会，新疆特殊性不言而喻，这样的地方能给开放指标，不可能不问过中央意思，中央要追求政治一致，但也不是一味的愚蠢，遇到需要开闸解压的地方也会给出理性反应。</p>
+
+<p>但之后可能会是对地方平民的进一步管控，以防这类事件再次发生，很多事都有类似例子，比如当年老兵上访事件，最后也是服软但冷处理，然后对部分人秋后算账，用一些短期敷衍利益去瓦解集体，再对整个有潜在威胁的集体进行预处理防止问题再次发生。</p>
+
+<p>对乌鲁木齐地方上的官僚处理，那就要看中央认为他们在这些事件里有多大的责任了，让地方群情激愤变大，这是天大的责任，堂堂市委书记跑出来说官不做了，这也是不小的责任，有失中央和党的威信。</p>
+
+<p>如果最后习近平或中委会内部认为他做得对，大事化了，乌鲁木齐的官僚可能被放过一次，如果认为他做得对，但功不抵过，仕途也就完蛋了。那我们现在不清楚中央最高层怎么想的，只能确定会有很多地方跟当年老兵上访一样，群众后续被秋后算账的可能性很大。</p>
+
+<p>防疫本身是政治问题，放弃防疫会有政治威权冲击，但还没到放弃时，执行过程里就出现坚持防疫不动摇初衷导致的结果，那肯定是要优先处理群体事件的。</p>
+
+<p>—– <strong>1857.4</strong> —–2022-11-27 01:05:14+08:00:</p>
+
+<p>单纯是事件引发的连锁反应，民众一向有自发性，历史上的例子很多，当年周恩来死和胡耀邦死，自发性运动也很多，何况现在的大背景和信息传递更多。</p>
+
+<p>—– <strong>1857.5</strong> —–2022-11-27 01:14:55+08:00:</p>
+
+<p>倒不要紧，乌鲁木齐政府对民众妥协已经是板上钉钉子的结果，威严已经有损，之后越是秋后算账想找回来，越能体现中央放手的多不情愿。</p>
+
+<h3 id="1858-西安理工大学勇士集美-submitted-on-2022-11-26-1238010800">1858: <a href="https://old.reddit.com/r/real_China_irl/comments/z4y5r3/西安理工大学勇士集美/">西安理工大学勇士集美</a>, submitted on 2022-11-26 12:38:01+08:00.</h3>
+
+<p>—– <strong>1858.1</strong> —–2022-11-27 02:01:09+08:00:</p>
+
+<p>原铸星际战士</p>
+
+<h3 id="1859-想知道这下还怎么收场-submitted-on-2022-11-26-1337010800">1859: <a href="https://old.reddit.com/r/China_irl/comments/z4zbei/想知道这下还怎么收场/">想知道这下还怎么收场</a>, submitted on 2022-11-26 13:37:01+08:00.</h3>
+
+<p>—– <strong>1859.1</strong> —–2022-11-26 23:39:00+08:00:</p>
+
+<p>这次应该也不会产生历史性事件，但把进度条堆高了不少。</p>
+
+<p>可以看到一点，那就是目前政府人员还在老实的执行命令，说明了两个情况。</p>
+
+<p>第一，政府还花得起钱去调度这些人员，并且这些人员的数量也足够覆盖现有群众。</p>
+
+<p>第二，在政府工作人员的世界观看来，社会还没动荡到意识到为政府工作可能后续会有很大的成本，或者说叫“政治债”要偿还。</p>
+
+<p>所以当满足以上两点时，社会大概率会进入一个高度动荡不稳定的时期。</p>
+
+<p>也即，政府人员办事逃避或者敷衍，甚至欺骗高层，而不是老实按规则执行，他们按规则执行往往是基于稳定生活带给他们的日常感，如何打破这种日常感，我相信会随着越来越多暴力反抗出现，在内部开始传开，并且可能会有一些针对性报复行动，甚至警民大规模对立冲突后。</p>
+
+<p>同时政府没钱了，这个是最重要的一点，目前来看还需要比较长的时间来酝酿，他们还是能挤出资金来用于调度大量人手，可惜的地方就在于，这一点没法通过反抗者的主观行为去加速。</p>
+
+<p>这也是为什么我支持习主席就疫情清零坚持到底的原因，他不加速踩刹车，没人能就经济恶化进行加速，每个人都是一个独立个体，做不来这件事，只有错误的社会政策可以。</p>
+
+<p>并且经济和财政恶化，是增加我们生力军和动员可存续性的一个关键指标，本着清零到底，我肉疼你下台没命的逻辑，搅混水去推动加速是很有必要的。</p>
+
+<p>但目前事件只能说，跟上海、富士康、佩洛西访台、乌克兰战争打脸一样，都只是把政府公信力和威权一点点扒下来的其中一个事件。</p>
+
+<p>民众不需要交流就明确反对和敌意的立场，也是需要一点点培养的，否则一旦停下来，大家还是要生活，会无法聚焦而失去方向，只有一系列事件下来，让矛头对准官方，扫清过去一层层的“解释”（比如，错的都是奴才，皇帝的本意是好的，或者不是你想的那样这种自我催眠），让官方最高层的意见，直接以被全民大多数反对的形式，暴露在公众舆论当中。</p>
+
+<p>这一点是非常有必要的，现在没有那么多挡箭牌了，有的人可能还是重复上述自我催眠的话术，但大多数人的认知是越来越清晰，立场也越来越明确。</p>
+
+<p>什么时候彻底走向对中共的彻底敌对，以及政府资金出现周转不济，以至于调度人员跟不上群体事件的时候，一次最终会超过六四的历史性事件爆发的可能性就越来越高了</p>
+
+<p>—– <strong>1859.2</strong> —–2022-11-27 01:12:59+08:00:</p>
+
+<p>清零本身不是我们能决定的，也不是我们愿意看到的，但最终会加速一个无法纠正自身问题的系统瓦解，如果这个社会正常到遇见问题会解决，而不是为了政治目的坚持清零，我们自然也没迫切必要去反对它的存在。</p>
+
+<p>也就是说，其政治目的本身，已经从治理社会，变成为了生存不惜一切代价，哪怕妨害国人生存也要坚持的程度，是不折不扣的二元对立。</p>
+
+<p>还有就是长痛和短痛的问题，是让这样一个系统持续糜烂祸害中国几代人，耗费我们这一代人的青春年华，让未来一个世纪的中国都可能陷入巨大的风险里更好，还是说我们这一代人，咬咬牙成为代价替后人把事办了好呢？</p>
+
+<p>更简明直接的讲，国内未来社会动荡，打内战或者血腥的地方冲突可能是个大概率事件，到底是我们这一代人上战场拿命去换后代的幸福更好，还是我们这一代得过且过，让我们中国人的子女，中国人的后代上战场去为我们解决一个被拖延已久的问题更好。</p>
+
+<p>要是我们一整代人什么都不做，我们也会活的非常痛苦，并且痛苦可能延续更久，最终我们躲避的结局，要由后代来承担，那样的话很多人要白发人送黑发人了。</p>
+
+<p>—– <strong>1859.3</strong> —–2022-11-27 02:05:42+08:00:</p>
+
+<p>所以建立武装和建立武装的环境是很有必要的</p>
+
+<p>—– <strong>1859.4</strong> —–2022-11-27 22:09:03+08:00:</p>
+
+<p>那要看大多数人对内战的理解和定义是怎么样的了，几百万人的军队一枪不开不大可能，至少不是大概率事件，逼急中共总归会制造流血的，那到时候是不是需要武装力量保卫自己呢？</p>
+
+<p>—– <strong>1859.5</strong> —–2022-11-27 22:52:17+08:00:</p>
+
+<p>就六四后的三十来年里，那是史无前例的，但我说的历史性事件，是可以直接让中共陷入重大政治危机和社会动荡的程度。</p>
+
+<p>广义来说，这次也肯定是历史性事件的，群众公开喊共产党下台习近平下台，是很严肃且重大的政治问题。</p>
+
+<p>但能烧多大的火，现在也才几天，后续不好说，越大越好，最主要的是时间，还有矛盾的升级，虽然理性上我认为不大可能一次性就发展成我希望看到的那种，但这也说不准，能有是最好的，没有也可以接受不必气馁，这次已经远超预期了。</p>
+
+<p>—– <strong>1859.6</strong> —–2022-11-28 10:04:11+08:00:</p>
+
+<p>现代社会与建国前三十年所处的社会是完全不同的情况。</p>
+
+<p>如果文革、大跃进里的灾难在现代中国发生，不但社会民众无法接受，在社会民众表达之前，政府可能就已经垮台，因为两个时代政府的体制也大有不同。</p>
+
+<p>六四和现代只是处于同一逻辑下的自然反应，社会必然有的良性秩序的体现，本身是没很多人想的那种人和人的继承关系。</p>
+
+<p>这也是为什么说加速很重要，因为这意味着官方做蠢事会把所有人推到对立面。</p>
+
+<p>—– <strong>1859.7</strong> —–2022-11-28 11:53:21+08:00:</p>
+
+<p>指望所有人知道，毕其功于一役是不切实际的，过去可以处理是因为有可以改革的余地，当现在改革的结果就是社会运动争取的结果时，就没有余地可言了。</p>
+
+<p>—– <strong>1859.8</strong> —–2022-11-28 13:13:00+08:00:</p>
+
+<p>能一次性完成整个过程，自然是最好的，但想来也不怎么可能。</p>
+
+<p>更务实的想法，是希望能把政治威权的神秘面纱给挑开，让大众认知到是可以出来喊过去以为很过激的口号，重点是培养习惯，也即社会政策与政治运动挂钩的习惯。</p>
+
+<p>最重要的是，打破过去三十年来，社会必然稳定的错觉。让社会进入一个人人都能逐渐意识到的特殊时期。</p>
+
+<p>褪去日常感，让人们开始明白历史车轮开始滚动，这是很重要的，因为维稳的原因，很难说明确达到哪个步骤，所以更迫切需求有标志性事件，打破三十年来的日常，让政治议题进入大众视野。</p>
+
+<p>能在中共腹地的一线城市核心地段，聚集一大群人喊出共产党下台，这件事传播开是迟早的，它代表着一个分水岭，是人心思变的一个体现，因为有实际行动证明，不再是单纯过去日子人或粉红说的没人反对大家都支持。</p>
+
+<h3 id="1860-双十二购物清单-submitted-on-2022-11-26-1526080800">1860: <a href="https://old.reddit.com/r/China_irl/comments/z51b14/双十二购物清单/">双十二购物清单</a>, submitted on 2022-11-26 15:26:08+08:00.</h3>
+
+<p>—– <strong>1860.1</strong> —–2022-11-26 23:53:40+08:00:</p>
+
+<p>香港宝贵的主要还是事态演化的经验，以及罕有地可以大概知道官方对这类事件的大规模反应是怎么一个过程。</p>
+
+<p>对内则是了解群众在去中心化后，会有什么样的表现与错误，应该优化哪些细节，对抗的升级是从什么部分开始的，升级后该如何存续等。</p>
+
+<p>大陆出这种规模的，因为地理空间足够，到时候首先考虑的是搞更好的武装了。</p>
+
+<h3 id="1861-南京传媒学院校长威胁学生你们总有一天要为你们今天所做的一切付出代价会付出代价-submitted-on-2022-11-26-2019490800">1861: <a href="https://old.reddit.com/r/China_irl/comments/z5699i/南京传媒学院校长威胁学生你们总有一天要为你们今天所做的一切付出代价会付出代价/">南京传媒学院校长威胁学生：你们总有一天要为你们今天所做的一切付出代价会付出代价！</a>, submitted on 2022-11-26 20:19:49+08:00.</h3>
+
+<p>—– <strong>1861.1</strong> —–2022-11-26 23:50:52+08:00:</p>
+
+<p>那校长最好别活到中共垮台，到时候清算那天在这个视频记录如此普遍容易的年代，应该为自己之后几代人考虑一下。</p>
+
+<p>事实上现在所有那些年纪不算特别大，可能活到八九十岁的人，都应该考虑这种问题，清末很多人对革命党说过这种话。</p>
+
+<p>—– <strong>1861.2</strong> —–2022-11-27 01:02:27+08:00:</p>
+
+<p>所以我祝所有建制派长命百岁。</p>
+
+<p>—– <strong>1861.3</strong> —–2022-11-27 22:07:48+08:00:</p>
+
+<p>确实，保习就是保反贼</p>
+
+<h3 id="1862-习或许压根不知道抗议的发生-submitted-on-2022-11-26-2210020800">1862: <a href="https://old.reddit.com/r/real_China_irl/comments/z58f65/习或许压根不知道抗议的发生/">习或许压根不知道抗议的发生</a>, submitted on 2022-11-26 22:10:02+08:00.</h3>
+
+<p>—– <strong>1862.1</strong> —–2022-11-27 00:00:49+08:00:</p>
+
+<p>知道应该是是知道的，因为一些决策地方没权力也没胆量自把自为，肯定要跟最高层传达，否则最忌讳越过中央私自决定重大政策。</p>
+
+<p>但是习所知道的视角，可能跟我们看到的不一样，非嫡系的行政官僚报告可能只是说有群体事件因为XXX的缘故，跟官方说法美化一样，私下习在内部不需要演的时候，就说是有人想复刻群众运动搞政治声势，反对清零等比较赤裸的说法。</p>
+
+<h3 id="1863-继撑伞摆拍后大白又一力作-submitted-on-2022-11-26-2236090800">1863: <a href="https://old.reddit.com/r/real_China_irl/comments/z58z7y/继撑伞摆拍后大白又一力作/">继撑伞摆拍后大白又一力作</a>, submitted on 2022-11-26 22:36:09+08:00.</h3>
+
+<p>—– <strong>1863.1</strong> —–2022-11-26 23:11:23+08:00:</p>
+
+<p>这太君怎么穿白服？</p>
+
+<h3 id="1864-假如你在广州凌晨三点你被楼下喇叭的喊话声吵醒-submitted-on-2022-11-26-2243140800">1864: <a href="https://old.reddit.com/r/real_China_irl/comments/z594mv/假如你在广州凌晨三点你被楼下喇叭的喊话声吵醒/">假如你在广州。凌晨三点，你被楼下喇叭的喊话声吵醒</a>, submitted on 2022-11-26 22:43:14+08:00.</h3>
+
+<p>—– <strong>1864.1</strong> —–2022-11-26 23:09:51+08:00:</p>
+
+<p>给我一种辛德勒名单里纳粹让犹太区的人出来转移去集中营的感觉。</p>
+
+<h3 id="1865-今晚部分国内高校学生发起悼念活动-submitted-on-2022-11-27-0059120800">1865: <a href="https://old.reddit.com/r/China_irl/comments/z5c73h/今晚部分国内高校学生发起悼念活动/">今晚部分国内高校学生发起悼念活动</a>, submitted on 2022-11-27 00:59:12+08:00.</h3>
+
+<p>—– <strong>1865.1</strong> —–2022-11-27 01:27:40+08:00:</p>
+
+<p>这次政治关联还是很明确的，跟过往的不同，是愈发有所进步。</p>
+
+<p>一个是明面是悼念去世的死难者，但现在舆论都很明确认为与清零防疫有关，而防疫政策是直接来自最高层的路线，这种指桑骂槐跟过去一样，是通过悼念死者表达对某些事的不满，如周恩来死对文革不满出来悼念，或胡耀邦死对保守主义不满。</p>
+
+<p>一个是不要XX要XX的句式，是直接关系到四通桥彭载舟的，政治用意和具体指向非常明确，不是跟过去一样模糊化某个话题，使用者们是意有所指。</p>
+
+<p>也就是说，政治意图和针对性更加明确，不再单纯局限于单一事件本身的情绪表达，李文亮时期还是相对模糊的，乃至上海时期骂中央决策层和上海政府的舆论也是各有部分，大巴的事出来后，再到现在，就愈发开始倾斜。</p>
+
+<p>这才一年而已，清零再多几年，哼，好日子在后面呢。</p>
+
+<h3 id="1866-这样的舆论中还是看不到对疫苗的讨论-submitted-on-2022-11-27-0105060800">1866: <a href="https://old.reddit.com/r/China_irl/comments/z5ccm9/这样的舆论中还是看不到对疫苗的讨论/">这样的舆论中还是看不到对疫苗的讨论</a>, submitted on 2022-11-27 01:05:06+08:00.</h3>
+
+<p>—– <strong>1866.1</strong> —–2022-11-27 01:59:10+08:00:</p>
+
+<p>三年时间可以为医疗系统做准备，足够为无可避免的放开做缓冲，但是到现在为止还看不到有效的预案和改善。</p>
+
+<p>长期防疫是第一步，其实应该是为医疗系统的改造和应对疫情扩散的第二步阶段，尽可能争取时间做准备。官方似乎只打算走第一步，而没有考虑第二步的计划。</p>
+
+<h3 id="1867-习现在很被动习接下来会怎么做-submitted-on-2022-11-27-1556160800">1867: <a href="https://old.reddit.com/r/China_irl/comments/z5va73/习现在很被动习接下来会怎么做/">习现在很被动，习接下来会怎么做？</a>, submitted on 2022-11-27 15:56:16+08:00.</h3>
+
+<p>—– <strong>1867.1</strong> —–2022-11-27 23:36:35+08:00:</p>
+
+<p>目前处于大脑宕机，官僚系统选择是常规维稳手段加装死，他们不傻，但始终是人，更详细反应要等过一段日子才能有，因为现在总共发生才两三天时间，事件全貌和热潮顶点仍未确定。</p>
+
+<p>并且民众诉求基本上要么处于相对模糊，要么就是非常具体但根本不可能被接受（彻底放弃清零、习近平下台、共产党下台）</p>
+
+<p>还有现在情况每天都在持续，如果短期内就结束，没有继续做大的迹象，那大概率就是厚脸皮装死，跟着软饭硬吃，现场抓人打击典型，杀一儆百。</p>
+
+<p>基层维稳就瞅准了人群保护不了彼此时单抓，等热度一过去开始散开，就调动超大规模资源，用刑侦级手法想办法秋后算账。</p>
+
+<p>所以所有参与者想不被秋后算账，要么一把火烧到底，要么就祈祷相关部门的科技没把你捕捉到。</p>
+
+<p>当年四二六社论出来激化问题，就是因为被定性了导致学生们后路被截断，一旦散去就无法再靠人力组织去对抗公权力，现在连社论都不需要就直接维稳了，怎么自处其实参与者们应该想清楚后路，因此有人被抓，必须现场救回来，否则指挥者一旦没了，群众就土崩瓦解，到时候一个个秋后点名。</p>
+
+<h3 id="1868-释放被抓公民放人可以作为口号之一吗-submitted-on-2022-11-27-2122440800">1868: <a href="https://old.reddit.com/r/China_irl/comments/z614j3/释放被抓公民放人可以作为口号之一吗/">“释放被抓公民”“放人”可以作为口号之一吗？</a>, submitted on 2022-11-27 21:22:44+08:00.</h3>
+
+<p>—– <strong>1868.1</strong> —–2022-11-27 22:24:20+08:00:</p>
+
+<p>出现封路要围追堵截，应尽早尽快转移阵地，打游击战，保证信息传递跟得上，让其他人能尽快知晓，避免散开导致人群不够集中，这样能增加他们的行政成本，让其变成惊弓之鸟草木皆兵，做出更多错误反应，靠他们犯蠢给这次事件火上添油。</p>
+
+<p>最终目的是进一步扩大普通民众察觉到社会开始出现动荡的这一观念，一旦能形成，哪怕最后没有一气呵成，也可以大大加速，出现一个破窗效应，用更激进的做法，给原本大环境里都很敏感的话题与词汇争取发声空间。</p>
+
+<p>最重要的是，肯站出来的都是生力军，要存人存己，保存宝贵力量，再待时而发，避免三而竭的情况发生，把这种运动式行为，用一个个话题套起来，每次都有新对抗和发声，就不再止于一个单独乌鲁木齐的话题，而是不断能转移到矛盾的核心上。</p>
+
+<p>昨天是为了悼念，晚上是为了反共，今天是为了放人，总之要有一个话题能不断延续热度，再把目标绑定到一个不考虑政治立场，比如疫情经济问题也能挂钩的对象身上，习近平下台，共产党下台，就是一个过去多数人说出来无的放矢，现在疫情来了，便与所有人挂钩的话题。</p>
+
+<p>破窗破的就是要把这个过去三十年来大众喊不出的口号，在日常生活里如茶余饭后一样不再忌讳，就是要挑战公权力，官方想处理这么多人是没资源的，政治需求公开化，不需要能上互联网讨论，只教人知道这件事也好，已是进步许多。</p>
+
+<p>让更多人感觉到社会开始出现动荡，无论他们是吃瓜看戏，还是别的什么都好，模糊化这群骑墙派的观感非常重要。</p>
+
+<p>疫情下封锁带来的经济话题就是尚方宝剑，粉红大V还是个人，如果犯蠢站在对立面，应该妥善直接利用这一点吃死对方，要一口气将其打成宁可经济完蛋，平民自杀也要维护党中央的叛国者，哪怕有现场参与直接怼公安脸上也是一个道理。</p>
+
+<p>把 <strong>“共产党=永久清零=经济完蛋=个人利益受损”</strong> 的逻辑链简明扼要传递开，现在是很多人理性上感觉到了，但客观上还停留在六四后塑造的多年政治、社会、经济三重稳定的惯性错觉当中。共产党过去填充什么，我们就抢过来填充进去。</p>
+
+<p>拿不到教科书、媒体的舆论宣传权，就一定要在现场能聚众时说出来，让更多人理解，才能传递观念，一传十，十传百，要像杀死宿主的病毒一样扩散和进化，潜伏、学习跟着再变得更聪明。</p>
+
+<p>我们要打破社会三十年来的稳定错觉，让他们意识到，这个社会的问题不是永久性的消失，只会越积攒越大，中共未来也许会被逼到放弃清零，因此要尽早落实这种观念上的刻印。</p>
+
+<p>要让我们成为反对清零的明确政治群体，这个群体不需要具体到哪些人，而是要站出来，说明确反对，哪怕他们接触清零，政治舆论上，也是归功于我们，而不是他们。相反，借助清零挑战威权政治的结果，一旦清零被放弃，就可以当作靶子，大打特打，我们要喊让共产党下台，习近平下台，逼中共放人妥协，作为这个政治群体破除威权迷信的第一战。</p>
+
+<p>可能会失败，但失败不要紧，重点是要让人意识到这个群体开始在历史舞台上崭露头角。并且有了反对的实例，甚至成功了，给大家展示下，反对中共，他们软弱，就能得手，会给很多人跃跃欲试的想法，那么很多潜在矛盾和利益的话题里，群众事件就很容易串联起来。</p>
+
+<p>但首先要在中共目前还没反应过来的时候，快速在大众印象里做好工作，要把火烧的旺一点，要旺一点就要观察对方动向，要多喊激进口号，让这些极其敏感的口号变得好像喝白水一样。</p>
+
+<p>而且，不但要现场喊口号，还要现场演说，讲述上面的逻辑链，原本只是一时群情激愤参与，但一知半解的，或者是旁观路过的路人，再到在场的警务人员，都能利用这种方法去洗刷他们的观念，从而带来更多的潜在支持者，也需要分化便衣和警察之间的关系，尤其是从收入、待遇与政府下台后他们的遭遇讲起。</p>
+
+<p><strong>另外很重要的一点，遇到警察抓人，打算杀一儆百，一定要拼命救回来，警察维持威权的一个是合法性，一个是拳头大的暴力。</strong></p>
+
+<p>把警察自认为的暴力也给消除了，无法斗争过群众力量，给大家看到了，都会有样学样，警察如果敢动用更高的武力，矛盾就会不断升级，重点在于要破除警察的威权形象。</p>
+
+<p>要让大家看到，他们抓人原来也是可以被无效化，出来让共产党下台是可以完全不需要承担责任，并且在场的同胞们会保护你，中国人保护中国人，而最不应该在有人被抓去杀鸡儆猴时只是操你妈，骂固然出气，但更重要的是做出行动，打政治威权的脸，让更多人放心去反抗。</p>
+
+<p>否则你出来喊，大家都不救你，岂不是冷了兄弟姊妹们的心，一个被抓就都不上去，我不信男人女人没血性，上去直接把人抢回来，他能耐你何？做好身份保护，冬天戴帽子没人敢说什么，避免被秋后算账上门单独找，那个时候别人不好救你。</p>
+
+<p>群众抗议有人被抓，再被救回来的视频只要越来越多，推广开来，大家会有样学样，到时候给人看看，中共到底肯做到哪一步，彻底破除稳定迷信，让政府的人，尤其是基层，也意识到给政府卖命不一定是最佳选择，才能客观上让他们摸鱼，出现枪口抬高一厘米的情况，因此也不应过度敌对，以保护自身和同胞为主。</p>
+
+<p>—– <strong>1868.2</strong> —–2022-11-28 12:48:16+08:00:</p>
+
+<p>我是民众中来的，自觉没比民众高，只是有我自己的现实感和判断，有什么说什么就行。</p>
+
+<h3 id="1869-拆一个乌鲁木齐路牌明天全国到处都是乌鲁木齐路牌-submitted-on-2022-11-27-2315210800">1869: <a href="https://old.reddit.com/r/real_China_irl/comments/z63mnx/拆一个乌鲁木齐路牌明天全国到处都是乌鲁木齐路牌/">拆一个乌鲁木齐路牌，明天全国到处都是乌鲁木齐路牌！</a>, submitted on 2022-11-27 23:15:21+08:00.</h3>
+
+<p>—– <strong>1869.1</strong> —–2022-11-28 00:23:39+08:00:</p>
+
+<p>这个可以有，到时候就拿油漆刷乌鲁木齐路五个大字，要处理是很困难的，现在人手都在处理群众，学香港当年游击战搞文宣，是个很不错的方案，成本低，行动快，收益大，对方处理辛苦。</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-12-03</time>
+        <a href="https://nodebe4.github.io/opinion/2022-12-03/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-11-28~2022-12-04的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-12-02</time>
+        <a href="https://nodebe4.github.io/opinion/2022-12-02/theoryofdoom/">
+          theoryofdoom在2022-11-28~2022-12-04的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-11-27</time>
+        <a href="https://nodebe4.github.io/opinion/2022-11-27/EnclavedMicrostate/">
+          EnclavedMicrostate在2022-11-21~2022-11-27的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-11-25</time>
+        <a href="https://nodebe4.github.io/opinion/2022-11-25/theoryofdoom/">
+          theoryofdoom在2022-11-21~2022-11-27的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-11-27/HeQinglian/">
+            前一篇：Twitter @He Qinglian: 2022-11-21~2022-11-27
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-11-27/cnmediaproject/">
+            後一篇：Twitter @China Media Project: 2022-11-21~2022-11-27
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-11-27/HeQinglian/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-11-27/cnmediaproject/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-12-02/theoryofdoom/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-11-27/EnclavedMicrostate/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-11-27/HeQinglian/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-11-27/cnmediaproject/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-12-02/theoryofdoom/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-11-27/EnclavedMicrostate/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

@@ -1,0 +1,2573 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Spinkcat在2022-03-28~2022-04-03的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Spinkcat在2022-03-28~2022-04-03的言论" />
+    <meta property="twitter:title" content="Spinkcat在2022-03-28~2022-04-03的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FChina_irl%2Fcomments%2Ftpp1a7%2F%E6%96%87%E5%8C%96%E5%A4%A7%E9%9D%A9%E5%91%BD%E8%BF%9B%E8%A1%8C%E4%BA%8610%E5%B9%B4%E5%AE%83%E7%BB%93%E6%9D%9F%E6%98%AF%E5%9B%A0%E4%B8%BA%E4%BC%9F%E5%A4%A7%E9%A2%86%E8%A2%96%E8%87%AA%E5%B7%B1%E6%AD%BB%E4%BA%86%E8%80%8C%E4%B8%8D%E6%98%AF%E5%A4%A7%E5%AE%B6%E5%8F%97%E4%B8%8D%E4%BA%86%E4%BA%86%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/China_irl/comments/tpp1a7/文化大革命进行了10年它结束是因为伟大领袖自己死了而不是大家受不了了/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/China_irl/comments/tpp1a7/文化大革命进行了10年它结束是因为伟大领袖自己死了而不是大家受不了了/&text=Spinkcat在2022-03-28~2022-04-03的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/China_irl/comments/tpp1a7/文化大革命进行了10年它结束是因为伟大领袖自己死了而不是大家受不了了/&title=Spinkcat在2022-03-28~2022-04-03的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/China_irl/comments/tpp1a7/文化大革命进行了10年它结束是因为伟大领袖自己死了而不是大家受不了了/&title=Spinkcat在2022-03-28~2022-04-03的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Spinkcat在2022-03-28~2022-04-03的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/China_irl/comments/tpp1a7/文化大革命进行了10年它结束是因为伟大领袖自己死了而不是大家受不了了/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/China_irl/comments/tpp1a7/文化大革命进行了10年它结束是因为伟大领袖自己死了而不是大家受不了了/&title=Spinkcat在2022-03-28~2022-04-03的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Spinkcat在2022-03-28~2022-04-03的言论&url=https://old.reddit.com/r/China_irl/comments/tpp1a7/文化大革命进行了10年它结束是因为伟大领袖自己死了而不是大家受不了了/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Spinkcat在2022-03-28~2022-04-03的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-04-03
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://www.reddit.com/user/Spinkcat/" style="font-size:14px;">作者: Spinkcat</a>
+        </span>
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/China_irl/comments/tpp1a7/文化大革命进行了10年它结束是因为伟大领袖自己死了而不是大家受不了了/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#1608-文化大革命进行了10年它结束是因为伟大领袖自己死了而不是大家受不了了-submitted-on-2022-03-28-0145190800" id="markdown-toc-1608-文化大革命进行了10年它结束是因为伟大领袖自己死了而不是大家受不了了-submitted-on-2022-03-28-0145190800">1608: 文化大革命进行了10年，它结束是因为伟大领袖自己死了，而不是大家受不了了。, submitted on 2022-03-28 01:45:19+08:00.</a></li>
+  <li><a href="#1609-知乎高赞回答为什么说中国经济面临结构性危机原提问中国2022年gdp目标增长55释放了哪些信息-submitted-on-2022-03-28-0216220800" id="markdown-toc-1609-知乎高赞回答为什么说中国经济面临结构性危机原提问中国2022年gdp目标增长55释放了哪些信息-submitted-on-2022-03-28-0216220800">1609: 知乎高赞回答：为什么说中国经济面临结构性危机（原提问：中国2022年GDP目标增长5.5%释放了哪些信息）, submitted on 2022-03-28 02:16:22+08:00.</a></li>
+  <li><a href="#1610-这下微博精准防控失败了-submitted-on-2022-03-28-0853460800" id="markdown-toc-1610-这下微博精准防控失败了-submitted-on-2022-03-28-0853460800">1610: 这下微博精准防控失败了😅, submitted on 2022-03-28 08:53:46+08:00.</a></li>
+  <li><a href="#1611-戰爭一個月俄軍損失04的將軍和4的兵力为什么感觉大家都感觉乌克兰要胜利-submitted-on-2022-03-28-1029570800" id="markdown-toc-1611-戰爭一個月俄軍損失04的將軍和4的兵力为什么感觉大家都感觉乌克兰要胜利-submitted-on-2022-03-28-1029570800">1611: 戰爭一個月，俄軍損失0.4%的將軍和4%的兵力，为什么感觉大家都感觉乌克兰要胜利？, submitted on 2022-03-28 10:29:57+08:00.</a></li>
+  <li><a href="#1612-政委金灿荣再出暴论称未来大学生毕业后月薪达到两三万是有可能的-submitted-on-2022-03-28-1137130800" id="markdown-toc-1612-政委金灿荣再出暴论称未来大学生毕业后月薪达到两三万是有可能的-submitted-on-2022-03-28-1137130800">1612: 「政委」金灿荣再出暴论，称「未来大学生毕业后，月薪达到两三万是有可能的。」, submitted on 2022-03-28 11:37:13+08:00.</a></li>
+  <li><a href="#1613-3月28日俄乌战场局势及未来形式预测-submitted-on-2022-03-28-1556180800" id="markdown-toc-1613-3月28日俄乌战场局势及未来形式预测-submitted-on-2022-03-28-1556180800">1613: 3月28日俄乌战场局势及未来形式预测, submitted on 2022-03-28 15:56:18+08:00.</a></li>
+  <li><a href="#1614-飞机票白菜价-submitted-on-2022-03-28-2145420800" id="markdown-toc-1614-飞机票白菜价-submitted-on-2022-03-28-2145420800">1614: 飞机票白菜价, submitted on 2022-03-28 21:45:42+08:00.</a></li>
+  <li><a href="#1615-巷战中的车臣军-submitted-on-2022-03-28-2201320800" id="markdown-toc-1615-巷战中的车臣军-submitted-on-2022-03-28-2201320800">1615: 巷战中的车臣军, submitted on 2022-03-28 22:01:32+08:00.</a></li>
+  <li><a href="#1616-暴力警告乌军用匕首杀害俘虏-submitted-on-2022-03-28-2233370800" id="markdown-toc-1616-暴力警告乌军用匕首杀害俘虏-submitted-on-2022-03-28-2233370800">1616: 暴力警告：乌军用匕首杀害俘虏, submitted on 2022-03-28 22:33:37+08:00.</a></li>
+  <li><a href="#1617-外地来吉林援建方舱医院的工人反应干完活了不给钱不让回家百号人放在小黑屋里屋里很冷地下的水都冻成了冰-submitted-on-2022-03-28-2323560800" id="markdown-toc-1617-外地来吉林援建方舱医院的工人反应干完活了不给钱不让回家百号人放在小黑屋里屋里很冷地下的水都冻成了冰-submitted-on-2022-03-28-2323560800">1617: 外地来吉林援建方舱医院的工人反应干完活了不给钱不让回家，百号人放在小黑屋里，屋里很冷，地下的水都冻成了冰, submitted on 2022-03-28 23:23:56+08:00.</a></li>
+  <li><a href="#1618-有些人喜欢拿什么医疗资源死亡率疫苗率一类的借口为中国的清零政策辩解是低级的诡辩-submitted-on-2022-03-29-0942430800" id="markdown-toc-1618-有些人喜欢拿什么医疗资源死亡率疫苗率一类的借口为中国的清零政策辩解是低级的诡辩-submitted-on-2022-03-29-0942430800">1618: 有些人喜欢拿什么医疗资源，死亡率，疫苗率一类的借口为中国的清零政策辩解，是低级的诡辩, submitted on 2022-03-29 09:42:43+08:00.</a></li>
+  <li><a href="#1619-转载知乎回答来自提问如果现在爆发战争你会为国而战吗-submitted-on-2022-03-29-1439330800" id="markdown-toc-1619-转载知乎回答来自提问如果现在爆发战争你会为国而战吗-submitted-on-2022-03-29-1439330800">1619: 转载知乎回答，来自提问：如果现在爆发战争，你会为国而战吗？, submitted on 2022-03-29 14:39:33+08:00.</a></li>
+  <li><a href="#1620-房地产专家董藩年轻人不要想凭什么没有大房子这是天理-你就不应该有-submitted-on-2022-03-29-2230290800" id="markdown-toc-1620-房地产专家董藩年轻人不要想凭什么没有大房子这是天理-你就不应该有-submitted-on-2022-03-29-2230290800">1620: 房地产专家董藩：年轻人不要想凭什么没有大房子，这是天理 你就不应该有, submitted on 2022-03-29 22:30:29+08:00.</a></li>
+  <li><a href="#1621-我们要吃饭我们要吃饭我们要上班我们要上班我们要自由-submitted-on-2022-03-29-2316270800" id="markdown-toc-1621-我们要吃饭我们要吃饭我们要上班我们要上班我们要自由-submitted-on-2022-03-29-2316270800">1621: “我们要吃饭！”“我们要吃饭！”“我们要上班！”“我们要上班！”“我们要自由！”“。。。。”, submitted on 2022-03-29 23:16:27+08:00.</a></li>
+  <li><a href="#1622-一座城市成功的條件和因素有什麼及一個突發其想-submitted-on-2022-03-30-1806110800" id="markdown-toc-1622-一座城市成功的條件和因素有什麼及一個突發其想-submitted-on-2022-03-30-1806110800">1622: 一座城市成功的條件和因素有什麼及一個突發其想, submitted on 2022-03-30 18:06:11+08:00.</a></li>
+  <li><a href="#1623-女高中生因公交车上摘口罩喝水被司机辱骂殴打致颅脑损伤-submitted-on-2022-03-30-1806370800" id="markdown-toc-1623-女高中生因公交车上摘口罩喝水被司机辱骂殴打致颅脑损伤-submitted-on-2022-03-30-1806370800">1623: 女高中生因公交车上摘口罩喝水被司机辱骂殴打，致颅脑损伤, submitted on 2022-03-30 18:06:37+08:00.</a></li>
+  <li><a href="#1624-蹭个大耳刮子的热度-submitted-on-2022-03-30-1919090800" id="markdown-toc-1624-蹭个大耳刮子的热度-submitted-on-2022-03-30-1919090800">1624: 蹭个大耳刮子的热度, submitted on 2022-03-30 19:19:09+08:00.</a></li>
+  <li><a href="#1625-新华社坚持动态清零不放松今后中国的防疫政策不可能有大改动了-submitted-on-2022-03-31-0943300800" id="markdown-toc-1625-新华社坚持动态清零不放松今后中国的防疫政策不可能有大改动了-submitted-on-2022-03-31-0943300800">1625: 《新华社:坚持“动态清零”不放松》，今后中国的防疫政策不可能有大改动了！, submitted on 2022-03-31 09:43:30+08:00.</a></li>
+  <li><a href="#1626-感觉这波疫情是死局啊-submitted-on-2022-03-31-1004510800" id="markdown-toc-1626-感觉这波疫情是死局啊-submitted-on-2022-03-31-1004510800">1626: 感觉这波疫情是死局啊, submitted on 2022-03-31 10:04:51+08:00.</a></li>
+  <li><a href="#1627-对人民日报3月29日头版社论-始终坚持人民至上生命至上习近平总书记指挥打好统筹疫情防控和经济社会发展之战述评分析-submitted-on-2022-03-31-1309380800" id="markdown-toc-1627-对人民日报3月29日头版社论-始终坚持人民至上生命至上习近平总书记指挥打好统筹疫情防控和经济社会发展之战述评分析-submitted-on-2022-03-31-1309380800">1627: 对人民日报3月29日头版社论《 “始终坚持人民至上、生命至上”——习近平总书记指挥打好统筹疫情防控和经济社会发展之战述评》分析, submitted on 2022-03-31 13:09:38+08:00.</a></li>
+  <li><a href="#1628-sub怎么又想着中国崩溃论-submitted-on-2022-03-31-1903420800" id="markdown-toc-1628-sub怎么又想着中国崩溃论-submitted-on-2022-03-31-1903420800">1628: sub怎么又想着中国崩溃论。, submitted on 2022-03-31 19:03:42+08:00.</a></li>
+  <li><a href="#1629-基辅城外的乌军迫击炮队-注意矫正坐标的无人机-submitted-on-2022-03-31-1920490800" id="markdown-toc-1629-基辅城外的乌军迫击炮队-注意矫正坐标的无人机-submitted-on-2022-03-31-1920490800">1629: 基辅城外的乌军迫击炮队 (注意矫正坐标的无人机), submitted on 2022-03-31 19:20:49+08:00.</a></li>
+  <li><a href="#1630-坚持清零是不是因为平子自己害怕-submitted-on-2022-03-31-2320020800" id="markdown-toc-1630-坚持清零是不是因为平子自己害怕-submitted-on-2022-03-31-2320020800">1630: 坚持清零是不是因为平子自己害怕？, submitted on 2022-03-31 23:20:02+08:00.</a></li>
+  <li><a href="#1631-央视新闻俄国防部公布最新证据-证实美总统之子为美在乌进行生物实验提供经济支持-submitted-on-2022-04-01-0102320800" id="markdown-toc-1631-央视新闻俄国防部公布最新证据-证实美总统之子为美在乌进行生物实验提供经济支持-submitted-on-2022-04-01-0102320800">1631: 央视新闻：俄国防部公布最新证据 证实美总统之子为美在乌进行生物实验提供经济支持, submitted on 2022-04-01 01:02:32+08:00.</a></li>
+  <li><a href="#1632-试着百度搜索一下中国领导人的绰号-submitted-on-2022-04-01-0758350800" id="markdown-toc-1632-试着百度搜索一下中国领导人的绰号-submitted-on-2022-04-01-0758350800">1632: 试着百度搜索一下中国领导人的绰号。。, submitted on 2022-04-01 07:58:35+08:00.</a></li>
+  <li><a href="#1633-张国荣去世于19年的今天-submitted-on-2022-04-01-0948420800" id="markdown-toc-1633-张国荣去世于19年的今天-submitted-on-2022-04-01-0948420800">1633: 张国荣去世于19年的今天。, submitted on 2022-04-01 09:48:42+08:00.</a></li>
+  <li><a href="#1634-怎么教我两岁的女儿中文-submitted-on-2022-04-01-1331400800" id="markdown-toc-1634-怎么教我两岁的女儿中文-submitted-on-2022-04-01-1331400800">1634: 怎么教我两岁的女儿中文？, submitted on 2022-04-01 13:31:40+08:00.</a></li>
+  <li><a href="#1635-乌军夺取博罗江卡和伊万基夫俄军基辅v集群后卫陷入合围-submitted-on-2022-04-01-2335260800" id="markdown-toc-1635-乌军夺取博罗江卡和伊万基夫俄军基辅v集群后卫陷入合围-submitted-on-2022-04-01-2335260800">1635: 乌军夺取博罗江卡和伊万基夫，俄军基辅V集群后卫陷入合围, submitted on 2022-04-01 23:35:26+08:00.</a></li>
+  <li><a href="#1636-有人开始在微博上引流了-submitted-on-2022-04-02-0103540800" id="markdown-toc-1636-有人开始在微博上引流了-submitted-on-2022-04-02-0103540800">1636: 有人开始在微博上引流了, submitted on 2022-04-02 01:03:54+08:00.</a></li>
+  <li><a href="#1637-知乎评论里有人自曝说要组织人去搞破坏了-submitted-on-2022-04-02-1451110800" id="markdown-toc-1637-知乎评论里有人自曝说要组织人去搞破坏了-submitted-on-2022-04-02-1451110800">1637: 知乎评论里有人自曝说要组织人去搞破坏了, submitted on 2022-04-02 14:51:11+08:00.</a></li>
+  <li><a href="#1638-关于抗议游行和政府镇压的一点想法-submitted-on-2022-04-02-2000410800" id="markdown-toc-1638-关于抗议游行和政府镇压的一点想法-submitted-on-2022-04-02-2000410800">1638: 关于抗议游行和政府镇压的一点想法, submitted on 2022-04-02 20:00:41+08:00.</a></li>
+  <li><a href="#1639-键委们支不支持坦克部队进画布中心戒严-submitted-on-2022-04-03-0143230800" id="markdown-toc-1639-键委们支不支持坦克部队进画布中心戒严-submitted-on-2022-04-03-0143230800">1639: 键委们支不支持坦克部队进画布中心戒严？, submitted on 2022-04-03 01:43:23+08:00.</a></li>
+  <li><a href="#1640-北朝鲜为什么要删除马列和共产强推主体-submitted-on-2022-04-03-1205470800" id="markdown-toc-1640-北朝鲜为什么要删除马列和共产强推主体-submitted-on-2022-04-03-1205470800">1640: 北朝鲜为什么要删除马列和共产，强推主体？, submitted on 2022-04-03 12:05:47+08:00.</a></li>
+  <li><a href="#1641-市民高喊-打倒共產黨打倒習近平-submitted-on-2022-04-03-1437060800" id="markdown-toc-1641-市民高喊-打倒共產黨打倒習近平-submitted-on-2022-04-03-1437060800">1641: 市民高喊： 打倒共產黨！打倒習近平！, submitted on 2022-04-03 14:37:06+08:00.</a></li>
+  <li><a href="#1642-把中国的防疫政策复刻到任何其他国家现在早就暴动了吧-submitted-on-2022-04-03-1627280800" id="markdown-toc-1642-把中国的防疫政策复刻到任何其他国家现在早就暴动了吧-submitted-on-2022-04-03-1627280800">1642: 把中国的防疫政策复刻到任何其他国家现在早就暴动了吧, submitted on 2022-04-03 16:27:28+08:00.</a></li>
+  <li><a href="#1643-搞文化输出的话在rplace-里整个虎哥如何一眼万年和我徒弟呢都是中文互联网的典中典了-submitted-on-2022-04-03-1706560800" id="markdown-toc-1643-搞文化输出的话在rplace-里整个虎哥如何一眼万年和我徒弟呢都是中文互联网的典中典了-submitted-on-2022-04-03-1706560800">1643: 搞文化输出的话，在r/place 里整个虎哥如何。一眼万年和我徒弟呢都是中文互联网的典中典了, submitted on 2022-04-03 17:06:56+08:00.</a></li>
+  <li><a href="#1644-还能骂谁呢-submitted-on-2022-04-03-2102160800" id="markdown-toc-1644-还能骂谁呢-submitted-on-2022-04-03-2102160800">1644: 还能骂谁呢？, submitted on 2022-04-03 21:02:16+08:00.</a></li>
+  <li><a href="#1645-沈逸老师对俄乌局势做出重要指示-submitted-on-2022-04-03-2349590800" id="markdown-toc-1645-沈逸老师对俄乌局势做出重要指示-submitted-on-2022-04-03-2349590800">1645: 沈逸老师对俄乌局势做出重要指示, submitted on 2022-04-03 23:49:59+08:00.</a></li>
+</ul>
+
+<h3 id="1608-文化大革命进行了10年它结束是因为伟大领袖自己死了而不是大家受不了了-submitted-on-2022-03-28-0145190800">1608: <a href="https://old.reddit.com/r/China_irl/comments/tpp1a7/文化大革命进行了10年它结束是因为伟大领袖自己死了而不是大家受不了了/">文化大革命进行了10年，它结束是因为伟大领袖自己死了，而不是大家受不了了。</a>, submitted on 2022-03-28 01:45:19+08:00.</h3>
+
+<p>—– <strong>1608.1</strong> —–2022-03-28 10:55:20+08:00:</p>
+
+<p>实际上毛泽东活着时，最后几年经不大能控制住社会情绪了。</p>
+
+<p>北京天安门四五事件和南京二三九事件，毛泽东时代末尾没有想的那么稳固，但毛的确还有很大主导权，威望太高，哪怕林立果搞刺杀也是能不做就尽量避免，毛泽东死让四人帮没有了政治保护。</p>
+
+<p>跟毛不一样，习近平党外没有对等的威望，党内也有反对者，虽然党内反对者很难施加积极影响，不过党外支持者会随着时间推移慢慢消失，人们逐渐知道他什么尿性。</p>
+
+<p>影响舆论管控的，还有赖财政缺口越来越大，没钱什么都做不了，群体事件会越来越多且大，维稳费用捉襟见肘，我看不到政府有什么渠道能解决，只有拖延而已。</p>
+
+<p>防疫政策极端化，习近平坚持清零，会让财政与经济都出现窟窿，妥妥加速人。</p>
+
+<p>—– <strong>1608.2</strong> —–2022-03-28 15:29:39+08:00:</p>
+
+<p>差不多，具体数据还需要扒一下，货币超发很厉害，我有本地方公安志，文革中后期到改开早期，犯罪率特别高，恶性犯罪不少，也能侧面体现当时社会状况，后来严打也基于了这部分基础安全需求。</p>
+
+<h3 id="1609-知乎高赞回答为什么说中国经济面临结构性危机原提问中国2022年gdp目标增长55释放了哪些信息-submitted-on-2022-03-28-0216220800">1609: <a href="https://old.reddit.com/r/China_irl/comments/tppofe/知乎高赞回答为什么说中国经济面临结构性危机原提问中国2022年gdp目标增长55释放了哪些信息/">知乎高赞回答：为什么说中国经济面临结构性危机（原提问：中国2022年GDP目标增长5.5%释放了哪些信息）</a>, submitted on 2022-03-28 02:16:22+08:00.</h3>
+
+<p>—– <strong>1609.1</strong> —–2022-03-28 11:13:45+08:00:</p>
+
+<p>经济框架已经被填满了，要继续发展只能走政治改革带动经发展。</p>
+
+<p>平子处理经济议题上不是没有智囊库，也不是对现在中共没帮助，但是全都没有根本性的改变，只能优化与暂时缓解问题。</p>
+
+<p>而经济改革所需的政治体制改革，不能变动的来源又在于习近平本身，可以说习近平的存在就是阻碍经济发展的一道墙，哪怕党内有智库和正确判断的人，也被压制不能说话。</p>
+
+<h3 id="1610-这下微博精准防控失败了-submitted-on-2022-03-28-0853460800">1610: <a href="https://old.reddit.com/r/China_irl/comments/tpxhwp/这下微博精准防控失败了/">这下微博精准防控失败了😅</a>, submitted on 2022-03-28 08:53:46+08:00.</h3>
+
+<p>—– <strong>1610.1</strong> —–2022-03-28 12:38:16+08:00:</p>
+
+<p>这回象粪咖啡了</p>
+
+<h3 id="1611-戰爭一個月俄軍損失04的將軍和4的兵力为什么感觉大家都感觉乌克兰要胜利-submitted-on-2022-03-28-1029570800">1611: <a href="https://old.reddit.com/r/China_irl/comments/tpz6ni/戰爭一個月俄軍損失04的將軍和4的兵力为什么感觉大家都感觉乌克兰要胜利/">戰爭一個月，俄軍損失0.4%的將軍和4%的兵力，为什么感觉大家都感觉乌克兰要胜利？</a>, submitted on 2022-03-28 10:29:57+08:00.</h3>
+
+<p>—– <strong>1611.1</strong> —–2022-03-28 12:35:47+08:00:</p>
+
+<p>其实不讨论数据的计算方法，战争刚开始，一个月损失这些部队，一年后岂不是军队主力大半残废。</p>
+
+<p>1个月损失4%，12个月就是48%的人力和装备，按照战斗人员分配的比例，这基本是全军覆灭级的。</p>
+
+<p>大量城市都没进入最恶劣的后期巷战，打完后还有治安战。</p>
+
+<p>其实就军事层面，哪怕乌克兰打输了也不意外，能打成现在这样已经是意料之外，速通基辅是不可能的了。</p>
+
+<p>可战略层面俄罗斯已失败，战术层面讨不到便宜，俄罗斯总不能全国总动员，按照世界大战的规模，去在乌克兰搞治安战。</p>
+
+<p>最主要是没钱去维持这种规模的长期战争，乌克兰消息指俄罗斯军队被要求在5月9日俄罗斯胜利节之前结束一切，也就是还有一个多月，大概六星期的时间。</p>
+
+<p>那六星期能不能打破乌克兰的外围防御，开始进攻聂伯河防线呢，恐怕不是那么容易吧，历史上有的大城市巷战，不惜血本打几个月的都有。</p>
+
+<h3 id="1612-政委金灿荣再出暴论称未来大学生毕业后月薪达到两三万是有可能的-submitted-on-2022-03-28-1137130800">1612: <a href="https://old.reddit.com/r/China_irl/comments/tq0ci3/政委金灿荣再出暴论称未来大学生毕业后月薪达到两三万是有可能的/">「政委」金灿荣再出暴论，称「未来大学生毕业后，月薪达到两三万是有可能的。」</a>, submitted on 2022-03-28 11:37:13+08:00.</h3>
+
+<p>—– <strong>1612.1</strong> —–2022-03-28 12:16:12+08:00:</p>
+
+<p>反转了，硕士排队在厂里拧螺丝，人民币日元化，有利出口。</p>
+
+<h3 id="1613-3月28日俄乌战场局势及未来形式预测-submitted-on-2022-03-28-1556180800">1613: <a href="https://old.reddit.com/r/China_irl/comments/tq487r/3月28日俄乌战场局势及未来形式预测/">3月28日俄乌战场局势及未来形式预测</a>, submitted on 2022-03-28 15:56:18+08:00.</h3>
+
+<p>—– <strong>1613.1</strong> —–2022-03-28 21:02:25+08:00:</p>
+
+<p>马里乌波尔到现在没打下来实在是无法理解，俄罗斯属实拉跨，普京没活咬个打火机也行啊。</p>
+
+<p>我估计当马里乌波尔沦陷后，国内俄罗斯的支持者会用这个当作一个阶段性的胜利来宣传，并且作为反驳说俄罗斯没进展的证据。</p>
+
+<p>乌军要是有条件可以钉死俄军，比如能在未来某个时候做到包围后的围点打援，逼普京不断投入资源，可以让普京在战后的国内地位进一步不稳定。</p>
+
+<p>要是普京打算及时止损，乌军很难再找到机会在有利地形与战略环境下消灭俄军有生力量，让俄军大量损耗，这也也可能会让乌东部分地区拿不回来。</p>
+
+<p>基辅的俄军好像有12000人左右，如果包饺子出不去，不清楚乌军有没有能力围点打援，避免俄军有余地调走兵力去挤压乌东。</p>
+
+<h3 id="1614-飞机票白菜价-submitted-on-2022-03-28-2145420800">1614: <a href="https://old.reddit.com/r/China_irl/comments/tq9noq/飞机票白菜价/">飞机票白菜价</a>, submitted on 2022-03-28 21:45:42+08:00.</h3>
+
+<p>—– <strong>1614.1</strong> —–2022-03-28 23:05:26+08:00:</p>
+
+<p>好活，赏两颗白菜。</p>
+
+<h3 id="1615-巷战中的车臣军-submitted-on-2022-03-28-2201320800">1615: <a href="https://old.reddit.com/r/China_irl/comments/tq9z9p/巷战中的车臣军/">巷战中的车臣军</a>, submitted on 2022-03-28 22:01:32+08:00.</h3>
+
+<p>—– <strong>1615.1</strong> —–2022-03-28 23:04:13+08:00:</p>
+
+<p>马库斯</p>
+
+<h3 id="1616-暴力警告乌军用匕首杀害俘虏-submitted-on-2022-03-28-2233370800">1616: <a href="https://old.reddit.com/r/China_irl/comments/tqangl/暴力警告乌军用匕首杀害俘虏/">暴力警告：乌军用匕首杀害俘虏</a>, submitted on 2022-03-28 22:33:37+08:00.</h3>
+
+<p>—– <strong>1616.1</strong> —–2022-03-28 22:57:50+08:00:</p>
+
+<p>杀战俘还拍视频是蠢到家的行为，制造舆论负资产。</p>
+
+<p>军事上还会让俄军越来越抗拒投降，俄军本来涣散的军心与士气也可能因此有短期上扬的可能，更别提俄罗斯国内了。</p>
+
+<p>无论道德、舆论还是军事层面，都没有任何好处可言。</p>
+
+<p>这种战争罪行会严重损耗国际对乌克兰的同情，即便乌军内部对这些人判刑或处决，也无法换回失去的东西，到最后让乌克兰战争变成一场国际不愿意理睬的血腥厮杀，而乌军内部大概率还会包庇这些谋杀战俘的士兵。</p>
+
+<p>拍视频的已经有一些了，没有拍到的恐怕更多。</p>
+
+<p>李逵就典型的这种人，你用他干脏活时好用，但是多数时候一旦失控，纯粹是负资产，所以宋江毒死了李逵免生事端。</p>
+
+<h3 id="1617-外地来吉林援建方舱医院的工人反应干完活了不给钱不让回家百号人放在小黑屋里屋里很冷地下的水都冻成了冰-submitted-on-2022-03-28-2323560800">1617: <a href="https://old.reddit.com/r/China_irl/comments/tqbr7n/外地来吉林援建方舱医院的工人反应干完活了不给钱不让回家百号人放在小黑屋里屋里很冷地下的水都冻成了冰/">外地来吉林援建方舱医院的工人反应干完活了不给钱不让回家，百号人放在小黑屋里，屋里很冷，地下的水都冻成了冰</a>, submitted on 2022-03-28 23:23:56+08:00.</h3>
+
+<p>—– <strong>1617.1</strong> —–2022-03-29 11:54:37+08:00:</p>
+
+<p>没给活埋，说明对比秦朝还是有显著进步的，这是党对中国人民生活水平的杰出贡献。</p>
+
+<h3 id="1618-有些人喜欢拿什么医疗资源死亡率疫苗率一类的借口为中国的清零政策辩解是低级的诡辩-submitted-on-2022-03-29-0942430800">1618: <a href="https://old.reddit.com/r/China_irl/comments/tqoscg/有些人喜欢拿什么医疗资源死亡率疫苗率一类的借口为中国的清零政策辩解是低级的诡辩/">有些人喜欢拿什么医疗资源，死亡率，疫苗率一类的借口为中国的清零政策辩解，是低级的诡辩</a>, submitted on 2022-03-29 09:42:43+08:00.</h3>
+
+<p>—– <strong>1618.1</strong> —–2022-03-29 11:11:48+08:00:</p>
+
+<p>现在重点在于，不能让不开放的代价成本，高于开放后的代价成本。</p>
+
+<p>假设我们纯粹量化，开放死100万人，造成经济损失1万亿，但是后续就没有新增成本，因为群体免疫了，那么对医疗系统的挤兑也就停止，经济恢复运作，财政收入增长可以有更多资源去除处理病人们，避免死亡现象扩大化。</p>
+
+<p>如果不开放，不会死100万人，但是经济损失仍然是1万亿，然后越来越高。</p>
+
+<p>上半年一万亿，下半年两万亿，明年就是四五万亿，一直到经济危机触底为止。</p>
+
+<p>如果经济危机触底，防疫政策也会崩溃，而且因为沉没成本，一旦你停止防疫，你之前几万亿的经济损失都会打水漂，是不可收回的。</p>
+
+<p>所以就必须不断保证永久性清零，而现在看是肯定不可能的事。</p>
+
+<p>那么持续防疫政策，导致经济迟早触底发生连锁危机，跟着还是要全国感染死100万人。</p>
+
+<p>而且因为经济危机，问题更加严重，政府与民众的资源更少，反而不如一开始的处理能力强，死100万人变成死1000万人，经济损失从1万亿变成10万亿与十几年的经济衰退，失去产业升级的转型关键期，长期进入中等收入陷阱。</p>
+
+<p>就会出现，不开放的成本，远大于开放的成本。</p>
+
+<p>只要守不住，之前所作的一切，防疫政策失衡过程里造成的所有牺牲，全部会化为乌有。</p>
+
+<p>因为外部环境永远会有病情输入，中国不可能不跟外部贸易或交流。</p>
+
+<p>所以长痛短痛，客观事实面前，大家会心里有数，而不是说不在乎会因为疫情死去的人。</p>
+
+<p>如今防疫政策的最好转型方法，就是作为开放后人命与经济损失的缓冲手段，利用清零的窗口期，快速推进医疗改革、接种数字，做好开放后冲击的迎接准备，把必然要到来的开放损失，尽可能降低最小化。</p>
+
+<p>但遗憾的是，我目前看不到政府愿意在医疗系统上投入极大量的资源去改革，为开放的损失做最小化处理，而是坚持要清零的意图目前仍然占主导地位。</p>
+
+<h3 id="1619-转载知乎回答来自提问如果现在爆发战争你会为国而战吗-submitted-on-2022-03-29-1439330800">1619: <a href="https://old.reddit.com/r/China_irl/comments/tqtnjc/转载知乎回答来自提问如果现在爆发战争你会为国而战吗/">转载知乎回答，来自提问：如果现在爆发战争，你会为国而战吗？</a>, submitted on 2022-03-29 14:39:33+08:00.</h3>
+
+<p>—– <strong>1619.1</strong> —–2022-03-29 16:19:42+08:00:</p>
+
+<p>中国没有近现代的系统性历史教育，也不易于得到信息，年轻一代也没有权力选择自己的环境。</p>
+
+<p>所以不用过于苛责有人怀念毛时代，或者把毛当成精神图腾，只要不是毛左就行。（毛左很多人反而会花时间了解毛的劣迹然后洗地，属于坏。）</p>
+
+<p>要是看到有提毛如何如何的，不必要太当回事去诘难，我国这个氛围下，大部分人的认知是这样，有左倾的年轻一代，尽管不一定知道毛时代的各种情况与细节，但有朴素的善良心态还是值得肯定的，总也比社达强。</p>
+
+<p>这些主要反应的问题，是民间反心与日俱增，言辞激烈，指桑骂槐已经不够形容，就差直接冲塔。</p>
+
+<p>人心思变是大大的好事，说明年轻一代里有相当部分的观念在改变，都在寻求“没有你，对我很重要”这种结局。</p>
+
+<p>过去人们是再差也有盼头，现在日子没盼头，都指望着变天的日子，不远矣。</p>
+
+<p>所以也算是说给反贼，看到对方用毛还是批邓，也不要着急去划分立场，在反贼这件事上，大家是一致的，他可能是源自于对过去历史的不清晰认知，这不是他个人能控制得了的事，着急划分你是你，我是我，反而不利于反对者团结。</p>
+
+<p>只要是怀着让中国人与下一代在未来能越过越好，抱着对国人与弱势群体同理心的，都不应该一味敌视。</p>
+
+<h3 id="1620-房地产专家董藩年轻人不要想凭什么没有大房子这是天理-你就不应该有-submitted-on-2022-03-29-2230290800">1620: <a href="https://old.reddit.com/r/China_irl/comments/tr11po/房地产专家董藩年轻人不要想凭什么没有大房子这是天理_你就不应该有/">房地产专家董藩：年轻人不要想凭什么没有大房子，这是天理 你就不应该有</a>, submitted on 2022-03-29 22:30:29+08:00.</h3>
+
+<p>—– <strong>1620.1</strong> —–2022-03-29 23:21:02+08:00:</p>
+
+<p>中国土地面积是足够一户建普及的。</p>
+
+<h3 id="1621-我们要吃饭我们要吃饭我们要上班我们要上班我们要自由-submitted-on-2022-03-29-2316270800">1621: <a href="https://old.reddit.com/r/China_irl/comments/tr495b/我们要吃饭我们要吃饭我们要上班我们要上班我们要自由/">“我们要吃饭！”“我们要吃饭！”“我们要上班！”“我们要上班！”“我们要自由！”“。。。。”</a>, submitted on 2022-03-29 23:16:27+08:00.</h3>
+
+<p>—– <strong>1621.1</strong> —–2022-03-29 23:31:32+08:00:</p>
+
+<p>现在就要吃饱肚子要有工作，还敢要自由，以后想要什么想都不敢想。</p>
+
+<h3 id="1622-一座城市成功的條件和因素有什麼及一個突發其想-submitted-on-2022-03-30-1806110800">1622: <a href="https://old.reddit.com/r/China_irl/comments/ts31ig/一座城市成功的條件和因素有什麼及一個突發其想/">一座城市成功的條件和因素有什麼及一個突發其想</a>, submitted on 2022-03-30 18:06:11+08:00.</h3>
+
+<p>—– <strong>1622.1</strong> —–2022-03-30 21:57:55+08:00:</p>
+
+<p>北方不发达主要是政策与体制问题居多。</p>
+
+<p>一些关键地理上的城市，制度合适的情况下很容易发达起来，虽然不一定比肩上海，但是能再发展出类似深圳广州一眼的一线，我认为是完全可能的。</p>
+
+<p>国内城市的发展，政策导向性太强，东北就是典型。</p>
+
+<p>我觉得最基本条件还是地理，但好的地理环境哪个大省份区域都有一些就当地条件来讲比较突出的，剩下的就是国家整体经济的发展水平，然后是政府机关的分布。</p>
+
+<h3 id="1623-女高中生因公交车上摘口罩喝水被司机辱骂殴打致颅脑损伤-submitted-on-2022-03-30-1806370800">1623: <a href="https://old.reddit.com/r/China_irl/comments/ts31q1/女高中生因公交车上摘口罩喝水被司机辱骂殴打致颅脑损伤/">女高中生因公交车上摘口罩喝水被司机辱骂殴打，致颅脑损伤</a>, submitted on 2022-03-30 18:06:37+08:00.</h3>
+
+<p>—– <strong>1623.1</strong> —–2022-03-30 21:51:39+08:00:</p>
+
+<p>下面说防疫没变味，是司机的问题。</p>
+
+<p>他指的这个司机，真是车上的那个司机吗？</p>
+
+<h3 id="1624-蹭个大耳刮子的热度-submitted-on-2022-03-30-1919090800">1624: <a href="https://old.reddit.com/r/China_irl/comments/ts44xy/蹭个大耳刮子的热度/">蹭个大耳刮子的热度</a>, submitted on 2022-03-30 19:19:09+08:00.</h3>
+
+<p>—– <strong>1624.1</strong> —–2022-03-30 21:48:55+08:00:</p>
+
+<p>习仲勋：习近平我日你娘！</p>
+
+<h3 id="1625-新华社坚持动态清零不放松今后中国的防疫政策不可能有大改动了-submitted-on-2022-03-31-0943300800">1625: <a href="https://old.reddit.com/r/China_irl/comments/tsosr5/新华社坚持动态清零不放松今后中国的防疫政策不可能有大改动了/">《新华社:坚持“动态清零”不放松》，今后中国的防疫政策不可能有大改动了！</a>, submitted on 2022-03-31 09:43:30+08:00.</h3>
+
+<p>—– <strong>1625.1</strong> —–2022-03-31 13:37:43+08:00:</p>
+
+<p>短期来说，这是一个坏消息，长期来说，对于中国人，这是一个好消息。</p>
+
+<p>道理大家应该能明白是为什么。</p>
+
+<h3 id="1626-感觉这波疫情是死局啊-submitted-on-2022-03-31-1004510800">1626: <a href="https://old.reddit.com/r/China_irl/comments/tsp780/感觉这波疫情是死局啊/">感觉这波疫情是死局啊</a>, submitted on 2022-03-31 10:04:51+08:00.</h3>
+
+<p>—– <strong>1626.1</strong> —–2022-03-31 13:34:39+08:00:</p>
+
+<p>不好好处理就是正式揭开中共下台这个议题的锅盖，但还要看财政运转的具体情况。</p>
+
+<p>除非说之后一段时间，内部政治宣传大转向，习近平看刹不住车，必须打自己脸，开始转为开放共存，然后政府全面财政赤字尽量保底，但现在看是想装硬汉到底。</p>
+
+<p>他们一开始就把话说太满，导致没有回旋余地。</p>
+
+<p>这对中共的政治威望会有极大冲击，因为宣传国外共存是错误，国内清零是好的这个风向，已经持续2年了。</p>
+
+<p>乌克兰战争没及时转向，给国内原本的舆论版图造成了很大的分裂，很多人都借着乌克兰指桑骂槐。</p>
+
+<p>疫情是非常广泛的事，不可能不被谈论，你要是全网堵嘴，技术层面也做不到。</p>
+
+<p>所以现在就是非常明显的骑虎难下。</p>
+
+<p>不过看财政状况是很有必要的，目前地方财政很不乐观，不过要加速到地方不稳，估计还要三到五年。</p>
+
+<p>鹤岗政府实质性破产（被兜住改口叫财政重组）是个好消息，未来五年内会陆续有更多类似情况发生，但我想官方会逐渐开始掩盖。</p>
+
+<p>其实现在唯一合法性来自于中共所持有的公共财政权，因为军队也是要吃饭的，地方政府为什么接受缴贡金给中央，就是因为中央从法理上有对地方的联系纽带，并且当你不遵从这个纽带建立的秩序，就用暴力机关敲打你</p>
+
+<p>如果民间与地方跟中央的矛盾大到必须用军队来决定结果，那说明已经到了不可调和的程度，因为军队是中共的最后底牌，六四就是典型，这种时候官方基本已经做好了内战与下台准备。</p>
+
+<p>所以到了用军队那天，共和国国祚也差不多到头了，六四干碎了这种双方互相维持稳定的政治伦理纽带，而官方没有去解决六四本身做法的争议，这让下次“六四”发生时，社会全面将跳过六四这个阶段，会非常快的转为你死我活。</p>
+
+<p>一旦财政危机让全国各地的地方管控出现大面积的维稳失效，就算有军队，也不可能挨个胡同杀反对者，管也管不过来，很容易出去政令不出直辖市的情况（甚至不出北京）</p>
+
+<p>现在国内人心思变的思潮，已经诞生，并不再只是集中于一小撮反贼当中的小圈子话题，未来肯定还会不断有事件，让人们的不满转化为更具体的观念，并且坚决成为一种政治与价值观立场。</p>
+
+<p>也即是中共应该下台，社会需要全面改革，从百废待兴当中再次建立一个新中国。</p>
+
+<p>而且因为官方加速行为太多，很多情况比想的来的还快，不过即便如此我认为也是要先看财政状况，能不能收到税是不会骗人的，它是一个保守估计的标杆，现实只会比保守估计的更恶劣。</p>
+
+<p>—– <strong>1626.2</strong> —–2022-03-31 14:52:06+08:00:</p>
+
+<p>我是指维稳，不是打仗。</p>
+
+<h3 id="1627-对人民日报3月29日头版社论-始终坚持人民至上生命至上习近平总书记指挥打好统筹疫情防控和经济社会发展之战述评分析-submitted-on-2022-03-31-1309380800">1627: <a href="https://old.reddit.com/r/China_irl/comments/tssf99/对人民日报3月29日头版社论/">对人民日报3月29日头版社论《 “始终坚持人民至上、生命至上”——习近平总书记指挥打好统筹疫情防控和经济社会发展之战述评》分析</a>, submitted on 2022-03-31 13:09:38+08:00.</h3>
+
+<p>—– <strong>1627.1</strong> —–2022-03-31 15:22:22+08:00:</p>
+
+<p>不算标题估算是114次，全文约10520字左右，占比1.08%，换算成三个字占比3.25%，浓度还是不够，建议人民日报提高到30%，在习近平名字里塞字组成文章。</p>
+
+<h3 id="1628-sub怎么又想着中国崩溃论-submitted-on-2022-03-31-1903420800">1628: <a href="https://old.reddit.com/r/China_irl/comments/tsxa8k/sub怎么又想着中国崩溃论/">sub怎么又想着中国崩溃论。</a>, submitted on 2022-03-31 19:03:42+08:00.</h3>
+
+<p>—– <strong>1628.1</strong> —–2022-03-31 19:27:11+08:00:</p>
+
+<p>中国不会崩溃，但政府的管制基础，会出问题。</p>
+
+<p>现在是靠财政顶着，如果财政顶不住了，人心思变，未来会发生什么，大家心里都清楚。</p>
+
+<p>防疫影响的主要是经济，而现在政府财政不乐观，没有财政是不能维稳的，对政府不满的人，只是靠维稳带来的寒蝉效应和言论管制，没有在国内形成稳定的群体与组织。</p>
+
+<p>一旦地方政府财政遇到不可逆的普遍性危机，就不讨论是不是崩溃还是怎么怎么样，单纯说这个事件发生了的话，大家觉得会发生什么事，有多少可用的工具去缓解问题。</p>
+
+<h3 id="1629-基辅城外的乌军迫击炮队-注意矫正坐标的无人机-submitted-on-2022-03-31-1920490800">1629: <a href="https://old.reddit.com/r/China_irl/comments/tsxjaa/基辅城外的乌军迫击炮队_注意矫正坐标的无人机/">基辅城外的乌军迫击炮队 (注意矫正坐标的无人机)</a>, submitted on 2022-03-31 19:20:49+08:00.</h3>
+
+<p>—– <strong>1629.1</strong> —–2022-03-31 19:23:08+08:00:</p>
+
+<p>这种迫击炮能打多远？</p>
+
+<h3 id="1630-坚持清零是不是因为平子自己害怕-submitted-on-2022-03-31-2320020800">1630: <a href="https://old.reddit.com/r/China_irl/comments/tt2434/坚持清零是不是因为平子自己害怕/">坚持清零是不是因为平子自己害怕？</a>, submitted on 2022-03-31 23:20:02+08:00.</h3>
+
+<p>—– <strong>1630.1</strong> —–2022-04-01 01:05:46+08:00:</p>
+
+<p>漏了一个没有，还不够全过程。</p>
+
+<h3 id="1631-央视新闻俄国防部公布最新证据-证实美总统之子为美在乌进行生物实验提供经济支持-submitted-on-2022-04-01-0102320800">1631: <a href="https://old.reddit.com/r/China_irl/comments/tt4dc5/央视新闻俄国防部公布最新证据_证实美总统之子为美在乌进行生物实验提供经济支持/">央视新闻：俄国防部公布最新证据 证实美总统之子为美在乌进行生物实验提供经济支持</a>, submitted on 2022-04-01 01:02:32+08:00.</h3>
+
+<p>—– <strong>1631.1</strong> —–2022-04-01 01:09:52+08:00:</p>
+
+<p>这下美国葛优了，薅资本主义羊毛。</p>
+
+<h3 id="1632-试着百度搜索一下中国领导人的绰号-submitted-on-2022-04-01-0758350800">1632: <a href="https://old.reddit.com/r/China_irl/comments/ttd9yp/试着百度搜索一下中国领导人的绰号/">试着百度搜索一下中国领导人的绰号。。</a>, submitted on 2022-04-01 07:58:35+08:00.</h3>
+
+<p>—– <strong>1632.1</strong> —–2022-04-01 09:48:44+08:00:</p>
+
+<p>新入党形式，直接进体内</p>
+
+<h3 id="1633-张国荣去世于19年的今天-submitted-on-2022-04-01-0948420800">1633: <a href="https://old.reddit.com/r/China_irl/comments/ttfct6/张国荣去世于19年的今天/">张国荣去世于19年的今天。</a>, submitted on 2022-04-01 09:48:42+08:00.</h3>
+
+<p>—– <strong>1633.1</strong> —–2022-04-01 17:10:42+08:00:</p>
+
+<p>张国荣是抑郁症没被看住，被逮到机会自杀了，而且没记错是生理性的，自己也没法控制。</p>
+
+<p>这样死了其实非常可惜，少了一个极好的演员，但是看后来香港和影视圈这个样子，张国荣活着恐怕也会息影。</p>
+
+<h3 id="1634-怎么教我两岁的女儿中文-submitted-on-2022-04-01-1331400800">1634: <a href="https://old.reddit.com/r/China_irl/comments/ttj9gr/怎么教我两岁的女儿中文/">怎么教我两岁的女儿中文？</a>, submitted on 2022-04-01 13:31:40+08:00.</h3>
+
+<p>—– <strong>1634.1</strong> —–2022-04-01 17:06:58+08:00:</p>
+
+<p>家里要是坚持不用中文沟通，基本再过一两年过了学语言最好的时机，中文这种语言就很难快速上手了，香港本地对中文要求还是挺高的。</p>
+
+<h3 id="1635-乌军夺取博罗江卡和伊万基夫俄军基辅v集群后卫陷入合围-submitted-on-2022-04-01-2335260800">1635: <a href="https://old.reddit.com/r/China_irl/comments/tttmlw/乌军夺取博罗江卡和伊万基夫俄军基辅v集群后卫陷入合围/">乌军夺取博罗江卡和伊万基夫，俄军基辅V集群后卫陷入合围</a>, submitted on 2022-04-01 23:35:26+08:00.</h3>
+
+<p>—– <strong>1635.1</strong> —–2022-04-02 01:11:46+08:00:</p>
+
+<p>考虑乌克兰军力，全吃掉的可能性不知道有多高，能变成围点打援是最好的，本身这些军力就是要撤退再整修到东乌克兰做集中攻击，能让俄罗斯被动陷入要营救，遭到围点打援的局面，可以有效分散俄军兵力，拖延集中的策略，给乌东争取时间，能拖一天是一天。</p>
+
+<h3 id="1636-有人开始在微博上引流了-submitted-on-2022-04-02-0103540800">1636: <a href="https://old.reddit.com/r/China_irl/comments/ttvspy/有人开始在微博上引流了/">有人开始在微博上引流了</a>, submitted on 2022-04-02 01:03:54+08:00.</h3>
+
+<p>—– <strong>1636.1</strong> —–2022-04-02 01:20:08+08:00:</p>
+
+<p>八孩女的画像能大则应该更大些</p>
+
+<h3 id="1637-知乎评论里有人自曝说要组织人去搞破坏了-submitted-on-2022-04-02-1451110800">1637: <a href="https://old.reddit.com/r/China_irl/comments/tucnu7/知乎评论里有人自曝说要组织人去搞破坏了/">知乎评论里有人自曝说要组织人去搞破坏了</a>, submitted on 2022-04-02 14:51:11+08:00.</h3>
+
+<p>—– <strong>1637.1</strong> —–2022-04-02 15:36:56+08:00:</p>
+
+<p>活动可以查谁更改了像素点，要灵活利用规则。</p>
+
+<h3 id="1638-关于抗议游行和政府镇压的一点想法-submitted-on-2022-04-02-2000410800">1638: <a href="https://old.reddit.com/r/China_irl/comments/tuh9k6/关于抗议游行和政府镇压的一点想法/">关于抗议游行和政府镇压的一点想法</a>, submitted on 2022-04-02 20:00:41+08:00.</h3>
+
+<p>—– <strong>1638.1</strong> —–2022-04-03 02:19:02+08:00:</p>
+
+<p>主要是缺乏暴力升级的客观环境，和平示威到暴力出现，其实下一步变成组织化武装对抗，是历史上很多矛盾的常见状况。</p>
+
+<p>但香港太小，不具备这种条件，如果中共财政不行，管不过来，自己都顾不上，香港本地有人进行武装组织，也是可以的，可惜环境实在是缺乏现实有利因素。</p>
+
+<p>只要搞清楚你闹的那个对象，本质到底是个什么存在，就能用最小成本让社会形成共识去选择最优解。</p>
+
+<p>中共这个情况，已经到了你不拿鞭子抽，他自己是绝对不会改的地步。因此武装反抗中共其实是有共识的。</p>
+
+<p>但这也是中共最提防的，从一切根源上阻止任何有组织的对抗，并且不给任何物理空间这些人或团体去有时空间发展。</p>
+
+<p>其实看经济重心和地理，广东作为移民大省，经济非常重要的一个地区，未来必然会跟北方保守主义形成对立趋势，伴随中共对全国管制力下降，形成一个独立的政治区域，香港会在这里起到一个重中之重的反抗核心，跟深圳的潜在反贼们融合。</p>
+
+<p>无论经济、政治、对外沟通上，移民大省都有多方面优势，对于表达政治诉求，香港经验都可以让到时候的南方集团，省去很多弯路，利用手上的有利条件达到一个理想的结果。</p>
+
+<p>—– <strong>1638.2</strong> —–2022-04-03 14:53:21+08:00:</p>
+
+<p>你在香港生活过就知道不是这样</p>
+
+<p>—– <strong>1638.3</strong> —–2022-04-03 17:56:48+08:00:</p>
+
+<p>广东本身就是移民大省，粤语只是交流工具，实际上就算香港在内整个广东没人说粤语，该有的立场和态度都不会少。</p>
+
+<h3 id="1639-键委们支不支持坦克部队进画布中心戒严-submitted-on-2022-04-03-0143230800">1639: <a href="https://old.reddit.com/r/China_irl/comments/tuomjh/键委们支不支持坦克部队进画布中心戒严/">键委们支不支持坦克部队进画布中心戒严？</a>, submitted on 2022-04-03 01:43:23+08:00.</h3>
+
+<p>—– <strong>1639.1</strong> —–2022-04-03 01:58:28+08:00:</p>
+
+<p>大西王身边已经有一个抽象版本，这个要是不行的话，可以把赵温上广场的名画印上去。</p>
+
+<h3 id="1640-北朝鲜为什么要删除马列和共产强推主体-submitted-on-2022-04-03-1205470800">1640: <a href="https://old.reddit.com/r/China_irl/comments/tv0ibk/北朝鲜为什么要删除马列和共产强推主体/">北朝鲜为什么要删除马列和共产，强推主体？</a>, submitted on 2022-04-03 12:05:47+08:00.</h3>
+
+<p>—– <strong>1640.1</strong> —–2022-04-03 13:31:21+08:00:</p>
+
+<p>朝鲜就是套皮现代国家称呼的封建政权，主体思想其实就是解释封建政权在现代国家里存在合理性的一种框架，赋予事实帝制合法性与必要性。</p>
+
+<p>—– <strong>1640.2</strong> —–2022-04-03 15:01:40+08:00:</p>
+
+<p>这里是口语，封建口语是什么意思大家都懂，而且哪怕西周以后中国也长期使用分封制度。</p>
+
+<h3 id="1641-市民高喊-打倒共產黨打倒習近平-submitted-on-2022-04-03-1437060800">1641: <a href="https://old.reddit.com/r/China_irl/comments/tv2xyw/市民高喊_打倒共產黨打倒習近平/">市民高喊： 打倒共產黨！打倒習近平！</a>, submitted on 2022-04-03 14:37:06+08:00.</h3>
+
+<p>—– <strong>1641.1</strong> —–2022-04-03 16:38:42+08:00:</p>
+
+<p>人人都喊的时候，官方就很难一一算账，所以冲塔是有总成本上限，参与的人越多，人均分摊的成本越低，如果被当典型，就会被官方最大力度清算。</p>
+
+<p>现在借着上海疫情，本身就是基层冲突的多事之秋，找借口发泄，然后打开有人喊打倒共产党，打倒习近平的口子，哪怕人们不再说，在现实看到也比网上听说有极大的冲击力。</p>
+
+<p>总的来说不鼓励冲塔，塔是没下限的，早期开始在现实里借题发挥把最有冲击力口号喊出来的人，肯定会承担最大成本，但也是破除寒蝉效应的先锋，再过几年，人们会想起他们的先声。</p>
+
+<h3 id="1642-把中国的防疫政策复刻到任何其他国家现在早就暴动了吧-submitted-on-2022-04-03-1627280800">1642: <a href="https://old.reddit.com/r/China_irl/comments/tv4kfl/把中国的防疫政策复刻到任何其他国家现在早就暴动了吧/">把中国的防疫政策复刻到任何其他国家现在早就暴动了吧</a>, submitted on 2022-04-03 16:27:28+08:00.</h3>
+
+<p>—– <strong>1642.1</strong> —–2022-04-03 17:52:30+08:00:</p>
+
+<p>六四客观上把文革以来的民间社运习惯，系统性从民众社会性行为中剔除了。</p>
+
+<p>而网络互联作为一种形成共识与号召的渠道，也被严格管控，物理维稳手段深入每个细节，这让许多有同感的人号召起来，变得非常困难，并且成本特别大。</p>
+
+<p>但也不是说没有民间社运出现过，但普遍出现早些年，往往也是年纪更大的，有自己的联络渠道和防维稳手段。</p>
+
+<p>因为很多人都是通过网络接收信息与反馈观感，政府一旦控制网络渠道，进行干扰，人们就很难培养出社运的习惯。</p>
+
+<p>更严谨的说，是被培养出了不去社运的习惯。（因为聚众社运是人的天性）</p>
+
+<p>我觉得国人普遍是日子人心态入骨，哪怕街头三和大神也是这样，普遍易于被控制，服从或受威权影响的可能性大。</p>
+
+<p>政府对年轻人社运或试图聚众的反应速度，以及后续打击与修正力度，都是远大于中年人的。相对的，我们现在也更少看到年轻人在这些社运里形成共识，拧成一股麻花似地出力。</p>
+
+<h3 id="1643-搞文化输出的话在rplace-里整个虎哥如何一眼万年和我徒弟呢都是中文互联网的典中典了-submitted-on-2022-04-03-1706560800">1643: <a href="https://old.reddit.com/r/China_irl/comments/tv555q/搞文化输出的话在rplace_里整个虎哥如何一眼万年和我徒弟呢都是中文互联网的典中典了/">搞文化输出的话，在r/place 里整个虎哥如何。一眼万年和我徒弟呢都是中文互联网的典中典了</a>, submitted on 2022-04-03 17:06:56+08:00.</h3>
+
+<p>—– <strong>1643.1</strong> —–2022-04-03 17:37:38+08:00:</p>
+
+<p>可以有，很期待。</p>
+
+<p>虎哥现在就是抽象界的耶稣，刀哥、虎哥、柴浩三位一体，圣父圣子圣灵了属于是。</p>
+
+<h3 id="1644-还能骂谁呢-submitted-on-2022-04-03-2102160800">1644: <a href="https://old.reddit.com/r/China_irl/comments/tv8rll/还能骂谁呢/">还能骂谁呢？</a>, submitted on 2022-04-03 21:02:16+08:00.</h3>
+
+<p>—– <strong>1644.1</strong> —–2022-04-04 00:41:36+08:00:</p>
+
+<p>我看骂的还不够，得大骂，特骂，大张旗鼓地骂，到人人都骂累了，现实还毫无改进，就该找源头了，不配骂的也配骂，不能骂的也要被骂，昨天有个勇士，骂的就很好，可惜了他，骂的早些，舍了身命，多数人还没他这般觉悟，但想来迟早也是要有的。</p>
+
+<h3 id="1645-沈逸老师对俄乌局势做出重要指示-submitted-on-2022-04-03-2349590800">1645: <a href="https://old.reddit.com/r/China_irl/comments/tvcb1u/沈逸老师对俄乌局势做出重要指示/">沈逸老师对俄乌局势做出重要指示</a>, submitted on 2022-04-03 23:49:59+08:00.</h3>
+
+<p>—– <strong>1645.1</strong> —–2022-04-04 01:38:08+08:00:</p>
+
+<p>沈老师还年轻，别着急，迟早会是的，哪也跑不了。</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-04-09</time>
+        <a href="https://nodebe4.github.io/opinion/2022-04-09/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-04-04~2022-04-10的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-04-03</time>
+        <a href="https://nodebe4.github.io/opinion/2022-04-03/theoryofdoom/">
+          theoryofdoom在2022-03-28~2022-04-03的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-04-03</time>
+        <a href="https://nodebe4.github.io/opinion/2022-04-03/EnclavedMicrostate/">
+          EnclavedMicrostate在2022-03-28~2022-04-03的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-04-01</time>
+        <a href="https://nodebe4.github.io/opinion/2022-04-01/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-03-28~2022-04-03的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-04-03/HeQinglian/">
+            前一篇：Twitter @He Qinglian: 2022-03-28~2022-04-03
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-04-03/cnmediaproject/">
+            後一篇：Twitter @China Media Project: 2022-03-28~2022-04-03
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-04-03/HeQinglian/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-04-03/cnmediaproject/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-04-03/theoryofdoom/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-04-03/EnclavedMicrostate/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-04-03/HeQinglian/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-04-03/cnmediaproject/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-04-03/theoryofdoom/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-04-03/EnclavedMicrostate/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

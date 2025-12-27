@@ -1,0 +1,2521 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>EnclavedMicrostate在2022-03-21~2022-03-27的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="EnclavedMicrostate在2022-03-21~2022-03-27的言论" />
+    <meta property="twitter:title" content="EnclavedMicrostate在2022-03-21~2022-03-27的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FDisgaea%2Fcomments%2Ftitp4l%2Fdisgaea_6_dlcs_on_steam%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/Disgaea/comments/titp4l/disgaea_6_dlcs_on_steam/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/Disgaea/comments/titp4l/disgaea_6_dlcs_on_steam/&text=EnclavedMicrostate在2022-03-21~2022-03-27的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/Disgaea/comments/titp4l/disgaea_6_dlcs_on_steam/&title=EnclavedMicrostate在2022-03-21~2022-03-27的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/Disgaea/comments/titp4l/disgaea_6_dlcs_on_steam/&title=EnclavedMicrostate在2022-03-21~2022-03-27的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=EnclavedMicrostate在2022-03-21~2022-03-27的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/Disgaea/comments/titp4l/disgaea_6_dlcs_on_steam/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/Disgaea/comments/titp4l/disgaea_6_dlcs_on_steam/&title=EnclavedMicrostate在2022-03-21~2022-03-27的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=EnclavedMicrostate在2022-03-21~2022-03-27的言论&url=https://old.reddit.com/r/Disgaea/comments/titp4l/disgaea_6_dlcs_on_steam/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>EnclavedMicrostate在2022-03-21~2022-03-27的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-03-27
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: EnclavedMicrostate</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/Disgaea/comments/titp4l/disgaea_6_dlcs_on_steam/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#242-disgaea-6-dlcs-on-steam-submitted-on-2022-03-21-0411150800" id="markdown-toc-242-disgaea-6-dlcs-on-steam-submitted-on-2022-03-21-0411150800">242: Disgaea 6 DLCs on Steam, submitted on 2022-03-21 04:11:15+08:00.</a></li>
+  <li><a href="#243-a-lesson-in-handling-controversy-submitted-on-2022-03-21-0742390800" id="markdown-toc-243-a-lesson-in-handling-controversy-submitted-on-2022-03-21-0742390800">243: A Lesson in Handling Controversy, submitted on 2022-03-21 07:42:39+08:00.</a></li>
+  <li><a href="#244-aggravatingly-alliterated-announcements---weekly-discussion-thread-march-21st-2022-submitted-on-2022-03-21-1637080800" id="markdown-toc-244-aggravatingly-alliterated-announcements---weekly-discussion-thread-march-21st-2022-submitted-on-2022-03-21-1637080800">244: Aggravatingly Alliterated Announcements - Weekly Discussion Thread, March 21st, 2022, submitted on 2022-03-21 16:37:08+08:00.</a></li>
+  <li><a href="#245-my-teacher-has-started-saying-idol-meeting-instead-of-going-to-the-bathroom-and-idk-how-to-feel-submitted-on-2022-03-21-2212340800" id="markdown-toc-245-my-teacher-has-started-saying-idol-meeting-instead-of-going-to-the-bathroom-and-idk-how-to-feel-submitted-on-2022-03-21-2212340800">245: My teacher has started saying “Idol meeting” instead of going to the bathroom and idk how to feel, submitted on 2022-03-21 22:12:34+08:00.</a></li>
+  <li><a href="#246-hong-kong-hoshiyomi-crowdfunded-a-suisei-themed-bus-ads-to-celebrate-suiseis-birthday-submitted-on-2022-03-22-0039010800" id="markdown-toc-246-hong-kong-hoshiyomi-crowdfunded-a-suisei-themed-bus-ads-to-celebrate-suiseis-birthday-submitted-on-2022-03-22-0039010800">246: Hong Kong Hoshiyomi crowdfunded a Suisei themed Bus ads to celebrate Suisei’s birthday, submitted on 2022-03-22 00:39:01+08:00.</a></li>
+  <li><a href="#247-it-is-time-for-the-best-burger-submitted-on-2022-03-22-0758500800" id="markdown-toc-247-it-is-time-for-the-best-burger-submitted-on-2022-03-22-0758500800">247: it is time for the best burger, submitted on 2022-03-22 07:58:50+08:00.</a></li>
+  <li><a href="#248-appearing-like-a-comet-your-diamond-in-the-rough-its-the-suisei-bus-submitted-on-2022-03-22-1941120800" id="markdown-toc-248-appearing-like-a-comet-your-diamond-in-the-rough-its-the-suisei-bus-submitted-on-2022-03-22-1941120800">248: Appearing like a comet, your diamond in the rough, it’s the Suisei bus!, submitted on 2022-03-22 19:41:12+08:00.</a></li>
+  <li><a href="#249-tuesday-trivia-women-leaders-this-thread-has-relaxed-standardswe-invite-everyone-to-participate-submitted-on-2022-03-22-2001160800" id="markdown-toc-249-tuesday-trivia-women-leaders-this-thread-has-relaxed-standardswe-invite-everyone-to-participate-submitted-on-2022-03-22-2001160800">249: Tuesday Trivia: Women leaders! This thread has relaxed standards—we invite everyone to participate!, submitted on 2022-03-22 20:01:16+08:00.</a></li>
+  <li><a href="#250-suisei-just-announced-her-4th-anniversary-live-selfish-of-a-rough-stone-on-march-31st-submitted-on-2022-03-22-2154550800" id="markdown-toc-250-suisei-just-announced-her-4th-anniversary-live-selfish-of-a-rough-stone-on-march-31st-submitted-on-2022-03-22-2154550800">250: Suisei just announced her 4th Anniversary Live, Selfish of a Rough Stone, on March 31st!, submitted on 2022-03-22 21:54:55+08:00.</a></li>
+  <li><a href="#251-when-did-dragons-become-a-big-staple-of-chinese-culture-submitted-on-2022-03-22-2226410800" id="markdown-toc-251-when-did-dragons-become-a-big-staple-of-chinese-culture-submitted-on-2022-03-22-2226410800">251: When did Dragons become a big staple of Chinese culture?, submitted on 2022-03-22 22:26:41+08:00.</a></li>
+  <li><a href="#252-why-are-hololive-models-and-face-tracking-so-bad-submitted-on-2022-03-23-0711160800" id="markdown-toc-252-why-are-hololive-models-and-face-tracking-so-bad-submitted-on-2022-03-23-0711160800">252: Why are hololive models and face tracking so bad?, submitted on 2022-03-23 07:11:16+08:00.</a></li>
+  <li><a href="#253-how-did-the-political-experience-of-egypt-syria-and-iraq-under-european-imperialism-contribute-to-their-later-rejection-of-parliamentary-democracy-in-favor-of-dictatorships-submitted-on-2022-03-23-0907070800" id="markdown-toc-253-how-did-the-political-experience-of-egypt-syria-and-iraq-under-european-imperialism-contribute-to-their-later-rejection-of-parliamentary-democracy-in-favor-of-dictatorships-submitted-on-2022-03-23-0907070800">253: How did the political experience of Egypt, Syria, and Iraq under European imperialism contribute to their later rejection of parliamentary democracy in favor of dictatorships?, submitted on 2022-03-23 09:07:07+08:00.</a></li>
+  <li><a href="#254-anyone-else-notice-something-new-in-the-reflect-mv-️-submitted-on-2022-03-23-0916570800" id="markdown-toc-254-anyone-else-notice-something-new-in-the-reflect-mv-️-submitted-on-2022-03-23-0916570800">254: anyone else notice something new in the reflect MV ⬇️🦷👀, submitted on 2022-03-23 09:16:57+08:00.</a></li>
+  <li><a href="#255-what-if-ww2-never-happened-submitted-on-2022-03-23-0923170800" id="markdown-toc-255-what-if-ww2-never-happened-submitted-on-2022-03-23-0923170800">255: What if WW2 never happened?, submitted on 2022-03-23 09:23:17+08:00.</a></li>
+  <li><a href="#256-this-station-ad-creeped-me-out-on-a-narrow-corridor-who-of-you-mfers-did-that-lol-hong-kong-submitted-on-2022-03-23-2026280800" id="markdown-toc-256-this-station-ad-creeped-me-out-on-a-narrow-corridor-who-of-you-mfers-did-that-lol-hong-kong-submitted-on-2022-03-23-2026280800">256: This station ad creeped me out on a narrow corridor… Who of you mfers did that lol (Hong Kong), submitted on 2022-03-23 20:26:28+08:00.</a></li>
+  <li><a href="#257-is-there-any-connective-tissue-between-the-european-spring-48-and-the-taiping-rebellion-in-china-famines-economic-forces-or-technological-shifts-submitted-on-2022-03-23-2204000800" id="markdown-toc-257-is-there-any-connective-tissue-between-the-european-spring-48-and-the-taiping-rebellion-in-china-famines-economic-forces-or-technological-shifts-submitted-on-2022-03-23-2204000800">257: Is there any connective tissue between the European Spring 48’ and the Taiping Rebellion in China? Famines, economic forces or technological shifts?, submitted on 2022-03-23 22:04:00+08:00.</a></li>
+  <li><a href="#258-why-do-you-guys-like-virtual-youtubers-so-much-submitted-on-2022-03-24-0157560800" id="markdown-toc-258-why-do-you-guys-like-virtual-youtubers-so-much-submitted-on-2022-03-24-0157560800">258: Why do you guys like virtual youtubers so much?, submitted on 2022-03-24 01:57:56+08:00.</a></li>
+  <li><a href="#259-first-patient-to-communicate-via-brain-implant-asks-to-hear-tool-album-submitted-on-2022-03-24-0725130800" id="markdown-toc-259-first-patient-to-communicate-via-brain-implant-asks-to-hear-tool-album-submitted-on-2022-03-24-0725130800">259: First Patient to Communicate Via Brain Implant Asks to Hear TOOL Album, submitted on 2022-03-24 07:25:13+08:00.</a></li>
+  <li><a href="#260-the-mamaspapas-of-holoid-generation-3-other-works-multiple-pages-submitted-on-2022-03-24-1259220800" id="markdown-toc-260-the-mamaspapas-of-holoid-generation-3-other-works-multiple-pages-submitted-on-2022-03-24-1259220800">260: The Mama’s/Papa’s of HoloID Generation 3 Other Works! (Multiple Pages), submitted on 2022-03-24 12:59:22+08:00.</a></li>
+  <li><a href="#261-im-trying-to-find-more-of-these-but-i-dont-know-what-they-arei-tried-looking-up-yogourt-drink-but-no-dice-submitted-on-2022-03-24-2215480800" id="markdown-toc-261-im-trying-to-find-more-of-these-but-i-dont-know-what-they-arei-tried-looking-up-yogourt-drink-but-no-dice-submitted-on-2022-03-24-2215480800">261: I’m trying to find more of these but I don’t know what they are…I tried looking up yogourt drink but no dice, submitted on 2022-03-24 22:15:48+08:00.</a></li>
+  <li><a href="#262-would-the-native-americans-have-been-better-off-under-british-rule-submitted-on-2022-03-25-0745330800" id="markdown-toc-262-would-the-native-americans-have-been-better-off-under-british-rule-submitted-on-2022-03-25-0745330800">262: Would the Native Americans have been better off under British rule?, submitted on 2022-03-25 07:45:33+08:00.</a></li>
+  <li><a href="#263-if-ancient-greece-was-a-very-long-period-over-a-large-geographic-area-why-does-it-seem-like-everything-i-heard-about-it-in-highschool-and-university-come-from-like-one-generation-of-people-in-just-athens-and-sparta-submitted-on-2022-03-25-1048350800" id="markdown-toc-263-if-ancient-greece-was-a-very-long-period-over-a-large-geographic-area-why-does-it-seem-like-everything-i-heard-about-it-in-highschool-and-university-come-from-like-one-generation-of-people-in-just-athens-and-sparta-submitted-on-2022-03-25-1048350800">263: If ‘Ancient Greece’ was a very long period over a large geographic area, why does it seem like everything I heard about it in highschool and university come from like one generation of people in just Athens and Sparta?, submitted on 2022-03-25 10:48:35+08:00.</a></li>
+  <li><a href="#264-can-i-add-vestianium-in-the-concoction-submitted-on-2022-03-25-2126090800" id="markdown-toc-264-can-i-add-vestianium-in-the-concoction-submitted-on-2022-03-25-2126090800">264: Can I add Vestianium in the concoction?, submitted on 2022-03-25 21:26:09+08:00.</a></li>
+  <li><a href="#265-what-was-the-dumbest-reason-a-youtuber-was-cancelled-on-the-internet-submitted-on-2022-03-25-2158170800" id="markdown-toc-265-what-was-the-dumbest-reason-a-youtuber-was-cancelled-on-the-internet-submitted-on-2022-03-25-2158170800">265: What was the dumbest reason a Youtuber was cancelled on the internet?, submitted on 2022-03-25 21:58:17+08:00.</a></li>
+  <li><a href="#266-stolen-from-rnyctakeout-submitted-on-2022-03-26-0048310800" id="markdown-toc-266-stolen-from-rnyctakeout-submitted-on-2022-03-26-0048310800">266: Stolen from r/nyctakeout, submitted on 2022-03-26 00:48:31+08:00.</a></li>
+  <li><a href="#267-i-remembered-a-post-about-scythes-being-asexual-weapons-so-i-drew-an-asexual-reaper-submitted-on-2022-03-26-0314400800" id="markdown-toc-267-i-remembered-a-post-about-scythes-being-asexual-weapons-so-i-drew-an-asexual-reaper-submitted-on-2022-03-26-0314400800">267: I remembered a post about scythes being asexual weapons so i drew an asexual reaper!, submitted on 2022-03-26 03:14:40+08:00.</a></li>
+  <li><a href="#268-come-give-flare-a-hug-submitted-on-2022-03-26-0906500800" id="markdown-toc-268-come-give-flare-a-hug-submitted-on-2022-03-26-0906500800">268: come give flare a hug, submitted on 2022-03-26 09:06:50+08:00.</a></li>
+  <li><a href="#269-mori-calliope-celebrates-2000000-subscribers-submitted-on-2022-03-26-1447140800" id="markdown-toc-269-mori-calliope-celebrates-2000000-subscribers-submitted-on-2022-03-26-1447140800">269: 🎉Mori Calliope💀 celebrates 2,000,000 subscribers!🎉, submitted on 2022-03-26 14:47:14+08:00.</a></li>
+  <li><a href="#270-reine-is-my-hero-submitted-on-2022-03-26-2051490800" id="markdown-toc-270-reine-is-my-hero-submitted-on-2022-03-26-2051490800">270: Reine is my hero, submitted on 2022-03-26 20:51:49+08:00.</a></li>
+  <li><a href="#271-youre-stuck-on-a-deserted-island-with-the-third-talent-in-your-flair-submitted-on-2022-03-27-0038260800" id="markdown-toc-271-youre-stuck-on-a-deserted-island-with-the-third-talent-in-your-flair-submitted-on-2022-03-27-0038260800">271: You’re stuck on a deserted island with the third talent in your flair, submitted on 2022-03-27 00:38:26+08:00.</a></li>
+  <li><a href="#272-i-present-to-you-reine-nerei-reirei-ineine-nene-was-already-taken-by-nene-submitted-on-2022-03-27-0325220800" id="markdown-toc-272-i-present-to-you-reine-nerei-reirei-ineine-nene-was-already-taken-by-nene-submitted-on-2022-03-27-0325220800">272: I present to you, reine, nerei, reirei, ineine (nene was already taken by nene), submitted on 2022-03-27 03:25:22+08:00.</a></li>
+  <li><a href="#273-i-would-like-to-know-why-the-last-chinese-dynasty-had-their-male-hair-style--shaved-with-long-hair-i-understand-the-long-hair-part-but-why-shave-the-forehead--submitted-on-2022-03-27-0455170800" id="markdown-toc-273-i-would-like-to-know-why-the-last-chinese-dynasty-had-their-male-hair-style--shaved-with-long-hair-i-understand-the-long-hair-part-but-why-shave-the-forehead--submitted-on-2022-03-27-0455170800">273: I would like to know why the last Chinese dynasty had their male hair style , shaved with long hair. I understand the long hair part but why shave the forehead ?, submitted on 2022-03-27 04:55:17+08:00.</a></li>
+  <li><a href="#274-why-are-the-qing-and-yuan-dynasties-viewed-as-chinese-dynasties-and-not-occupation-by-a-foreign-power-submitted-on-2022-03-27-1744170800" id="markdown-toc-274-why-are-the-qing-and-yuan-dynasties-viewed-as-chinese-dynasties-and-not-occupation-by-a-foreign-power-submitted-on-2022-03-27-1744170800">274: Why are the Qing and Yuan dynasties viewed as Chinese dynasties and not occupation by a foreign power?, submitted on 2022-03-27 17:44:17+08:00.</a></li>
+  <li><a href="#275-how-accurate-is-it-to-consider-the-opium-wars-a-manifestation-of-british-globalization-submitted-on-2022-03-27-1930510800" id="markdown-toc-275-how-accurate-is-it-to-consider-the-opium-wars-a-manifestation-of-british-globalization-submitted-on-2022-03-27-1930510800">275: How accurate is it to consider the Opium Wars a manifestation of (British) globalization?, submitted on 2022-03-27 19:30:51+08:00.</a></li>
+</ul>
+
+<h3 id="242-disgaea-6-dlcs-on-steam-submitted-on-2022-03-21-0411150800">242: <a href="https://old.reddit.com/r/Disgaea/comments/titp4l/disgaea_6_dlcs_on_steam/">Disgaea 6 DLCs on Steam</a>, submitted on 2022-03-21 04:11:15+08:00.</h3>
+
+<p>—– <strong>242.1</strong> —–2022-03-25 10:32:27+08:00:</p>
+
+<p>To be fair, the Japanese fiscal year ends on 31 March, so keeping the merch up until the end of the fiscal quarter probably is fulfilling some kind of condition.</p>
+
+<h3 id="243-a-lesson-in-handling-controversy-submitted-on-2022-03-21-0742390800">243: <a href="https://old.reddit.com/r/Hololive/comments/tiy5hw/a_lesson_in_handling_controversy/">A Lesson in Handling Controversy</a>, submitted on 2022-03-21 07:42:39+08:00.</h3>
+
+<p>—– <strong>243.1</strong> —–2022-03-21 10:17:34+08:00:</p>
+
+<p>Yeah that’s the thing – I don’t get where people got the NDA narrative from because that’s not what it said, just a contract violation in the general sense. An NDA just means you can’t disclose aspects of the agreement in and of itself, but as you said, the statement suggests it was other company info being leaked.</p>
+
+<h3 id="244-aggravatingly-alliterated-announcements---weekly-discussion-thread-march-21st-2022-submitted-on-2022-03-21-1637080800">244: <a href="https://old.reddit.com/r/VirtualYoutubers/comments/tj72ek/aggravatingly_alliterated_announcements_weekly/">Aggravatingly Alliterated Announcements - Weekly Discussion Thread, March 21st, 2022</a>, submitted on 2022-03-21 16:37:08+08:00.</h3>
+
+<p>—– <strong>244.1</strong> —–2022-03-22 07:22:18+08:00:</p>
+
+<p>Yep, we got very sleepy Calli all right.</p>
+
+<p>—– <strong>244.2</strong> —–2022-03-26 11:38:23+08:00:</p>
+
+<p>Hope she doesn’t have it too bad and can get well soon; there seems to have been some indication that ID Gen 1 wanted to do a 3d anniversary live so this is especially unfortunate timing. Moona’s health is the priority now of course.</p>
+
+<p>—– <strong>244.3</strong> —–2022-03-27 02:53:02+08:00:</p>
+
+<p>Even bearing in mind the note that they aren’t probably being actively promoted, or at least not until recently, I worry if there’s going to be another ticking time bomb somewhere, particularly around Selen.</p>
+
+<p>—– <strong>244.4</strong> —–2022-03-27 20:22:17+08:00:</p>
+
+<p>Wait, what happened with Veibae?</p>
+
+<h3 id="245-my-teacher-has-started-saying-idol-meeting-instead-of-going-to-the-bathroom-and-idk-how-to-feel-submitted-on-2022-03-21-2212340800">245: <a href="https://old.reddit.com/r/Hololive/comments/tjcqr4/my_teacher_has_started_saying_idol_meeting/">My teacher has started saying “Idol meeting” instead of going to the bathroom and idk how to feel</a>, submitted on 2022-03-21 22:12:34+08:00.</h3>
+
+<p>—– <strong>245.1</strong> —–2022-03-21 22:14:55+08:00:</p>
+
+<p>I assume you weren’t the one to introduce them to the term?</p>
+
+<h3 id="246-hong-kong-hoshiyomi-crowdfunded-a-suisei-themed-bus-ads-to-celebrate-suiseis-birthday-submitted-on-2022-03-22-0039010800">246: <a href="https://old.reddit.com/r/Hololive/comments/tjfzor/hong_kong_hoshiyomi_crowdfunded_a_suisei_themed/">Hong Kong Hoshiyomi crowdfunded a Suisei themed Bus ads to celebrate Suisei’s birthday</a>, submitted on 2022-03-22 00:39:01+08:00.</h3>
+
+<p>—– <strong>246.1</strong> —–2022-03-22 06:25:30+08:00:</p>
+
+<p>And someone <em>else</em> did a double-decker for Miko!</p>
+
+<p>—– <strong>246.2</strong> —–2022-03-22 06:36:09+08:00:</p>
+
+<p>And that one separate group that did Miko.</p>
+
+<p>—– <strong>246.3</strong> —–2022-03-22 06:36:27+08:00:</p>
+
+<p>That ended up wrapping up after two months as scheduled, AFAIK.</p>
+
+<p>—– <strong>246.4</strong> —–2022-03-22 19:52:22+08:00:</p>
+
+<p>Ah, that may well be then – I can’t verify (easily) as I don’t live in the right part of town anyway.</p>
+
+<h3 id="247-it-is-time-for-the-best-burger-submitted-on-2022-03-22-0758500800">247: <a href="https://old.reddit.com/r/StupidFood/comments/tjprmz/it_is_time_for_the_best_burger/">it is time for the best burger</a>, submitted on 2022-03-22 07:58:50+08:00.</h3>
+
+<p>—– <strong>247.1</strong> —–2022-03-22 22:49:37+08:00:</p>
+
+<p>Is it just me or is there a gaping hole in the side of that grill? And more importantly, if so then that hole has been there for months. If you’re cooking at home then sure, if it ain’t genuinely broke don’t fix it, but it just feels so weird that an overtly social media-focussed company so prominently advertises that it’s using damaged equipment.</p>
+
+<h3 id="248-appearing-like-a-comet-your-diamond-in-the-rough-its-the-suisei-bus-submitted-on-2022-03-22-1941120800">248: <a href="https://old.reddit.com/r/Hololive/comments/tk10jd/appearing_like_a_comet_your_diamond_in_the_rough/">Appearing like a comet, your diamond in the rough, it’s the Suisei bus!</a>, submitted on 2022-03-22 19:41:12+08:00.</h3>
+
+<p>—– <strong>248.1</strong> —–2022-03-26 12:33:43+08:00:</p>
+
+<p>So from what you posted back when the Rushia bus went up, that was HKD40,000 – was it cheaper for a different bus model, or some kind of loyalty discount?</p>
+
+<p>—– <strong>248.2</strong> —–2022-03-26 23:58:24+08:00:</p>
+
+<p>Ah, thanks for clearing it up!</p>
+
+<h3 id="249-tuesday-trivia-women-leaders-this-thread-has-relaxed-standardswe-invite-everyone-to-participate-submitted-on-2022-03-22-2001160800">249: <a href="https://old.reddit.com/r/AskHistorians/comments/tk1cvi/tuesday_trivia_women_leaders_this_thread_has/">Tuesday Trivia: Women leaders! This thread has relaxed standards—we invite everyone to participate!</a>, submitted on 2022-03-22 20:01:16+08:00.</h3>
+
+<p>—– <strong>249.1</strong> —–2022-03-22 23:09:20+08:00:</p>
+
+<p>In my period of the late Qing, Dowager Empress Cixi probably stands out as the big case of a woman in a position of power. I’ve written about her a few times before and I’ll throw some links in here, but I also want to specifically repost the mini biography post on her I wrote last May as part of our new Snoo unveilings. Unfortunately, as that was rather a long post, I’ve had to cut out the recommended reading section here, but the original post (which will be linked as well) will still have it for those interested.</p>
+
+<ul>
+  <li>
+    <p><a href="https://www.reddit.com/r/AskHistorians/comments/jfbqrh/can_the_victory_and_aftermath_of_the_taiping/g9khkp3/">Can the victory and aftermath of the Taiping Rebellion be attributed to the Empress Dowager Cixi?</a></p>
+  </li>
+  <li>
+    <p><a href="https://www.reddit.com/r/AskHistorians/comments/mkaf5j/was_empress_dowager_cixi_a_good_or_incompetent/gtfsjab/">Was Empress Dowager Cixi a good or incompetent ruler?</a></p>
+  </li>
+  <li>
+    <p><a href="https://www.reddit.com/r/AskHistorians/comments/b8m377/is_there_any_consensus_among_historians_on_the/es8nf93/">Is there any consensus among historians on the role of Empress Dowager Cixi in attempts to modernise late Imperial China?</a></p>
+  </li>
+  <li>
+    <p><a href="https://www.reddit.com/r/AskHistorians/comments/sbjd7t/why_are_there_no_photographs_of_19th_century/hu176m3/">Why are there no photographs of 19th Century Chinese Emperors? Was there a rule against it?</a></p>
+  </li>
+  <li>
+    <p><a href="https://www.reddit.com/r/AskHistorians/comments/nobb6r/say_hello_to_our_little_friends_introducing/gzz2i4t/">Say Hello to Our Little Friends! Introducing William Snoollace and the Empress Dowager Snooxi!</a></p>
+  </li>
+</ul>
+
+<p>Empress Xiaoqin 孝欽, known for most of her life as the Dowager Empress Cixi 慈禧 (Tsysi ᡮᡟᠰᡳ), is perhaps one of the most iconic political figures of the late imperial era in China, though the extent and nature of her role in the period’s history is still debated. Entering the imperial family in 1851, she came to hold varying degrees of power at court until her death in 1908, shortly before the collapse of the Qing state.</p>
+
+<p>As with most Manchu women in the Qing period, Cixi’s personal name was unfortunately never recorded. We do know that she was born into the Yehe Nara ᠶᡝᡥᡝ ᠨᠠᡵᠠ clan in November 1835, the daughter of a relatively junior civil servant named Huizheng 惠徵. In 1851, aged seventeen, she was selected to be a junior concubine to Yizhu 奕詝 (I Ju  ᡳ ᠵᡠ,) the recently-enthroned Xianfeng 咸豐 Emperor (Gubci Elgiyengge ᡤᡠᠪᠴᡳ ᡝᠯᡤᡳᠶᡝᠩᡤᡝ), and rose rapidly through the court hierarchy, especially after having his only male heir, Zaichun 載淳 (Dzai Šun ᡯᠠᡳ ᡧᡠᠨ), in 1856. When the Xianfeng Emperor died in 1861, she received the title of Dowager Empress Cixi, and along with the former chief consort Dowager Empress Ci’an 慈安, oversaw a board of regents appointed by the late emperor. However, this board was soon deposed in a coup orchestrated between the dowager empresses and the late emperor’s brother Yixin 奕訢 (I Hin  ᡳ ᡥᡳᠨ), styled Prince Gong 恭. The new emperor’s reign title, Tongzhi 同治 (Yooningga Dasan ᠶᠣᠣᠨᡳᠩᡤᠠ ᡩᠠᠰᠠᠨ), which may be translated literally as ‘joint rule’, perhaps hints at the power-sharing that was involved from there on out.</p>
+
+<p>As regent to the Tongzhi Emperor, Cixi, Ci’an and Prince Gong presided over a period of major recovery for the Qing Empire, which traditional historiography has called the ‘Tongzhi Restoration’. The various anti-Manchu rebellions that had sprung up since early 1851 were suppressed – albeit typically with great bloodshed – by a reinvigorated Qing military; international relations became normalised through the establishment of a regular foreign office; and the reconstruction of devastated regions proceeded rapidly. The extent of her role in this has been debated, and it is probably reasonable to say that much of the impetus for reform came from the provinces and not the court; at the same time there is little to no evidence to suggest significant resistance to these reforms from the centre, either. The death of the Tongzhi Emperor in 1875 saw Cixi retaining power at court nonetheless, as she sought to resolve the childless emperor’s succession by adopting her nephew, the four-year-old Zaitian 載湉 (Dzai Tiyan ᡯᠠᡳ ᡨᡳᠶᠠᠨ), as a second successor to the Xianfeng Emperor. After the death of Ci’an in 1882, she presided as sole regent over the Guangxu 光緒 (Badarangga Doro ᠪᠠᡩᠠᡵᠠᠩᡤᠠ ᡩᠣᡵᠣ) Emperor, leading eventually to perhaps her most controversial series of actions.</p>
+
+<p>The Qing resurgence that had begun in the Tongzhi period came to a screeching halt in 1894, when a series of military defeats to Japan prompted a wave of radical reformist sentiment among Chinese intellectuals that also drew in the Guangxu Emperor. In the summer of 1898, in conjunction with the radicals, he began what became known as the Hundred Days’ Reforms, to which, initially, Cixi assented. However, one particular set of reforms particularly alarmed the Dowager Empress, and those were the proposals to do away with the Banner system. Since the 1750s, the Banners, in which all Manchu households were enrolled and through which they had been entitled to government stipends and legal protections, had been the cornerstone of Manchu status and identity. The emperor’s apparently positive response to the proposal to eliminate these privileges, if not the Banner system outright, led Cixi to see him and the reformers as a political enemy, and on 22 September generals loyal to Cixi marched into Beijing and rounded up the reformers, many of whom were later executed. The Guangxu Emperor was placed under house arrest, and would remain as emperor in name only until his death. The crackdown against the 1898 reforms alienated most of the growing liberal movement, while the emperor’s arrest created great uncertainty about the status of the imperial court. Amid this uncertainty, Cixi attempted to cement her position by appointing Pujun 溥儁, the son of one of her favoured nobles, Zaiyi 載漪 (Dzai I ᡯᠠᡳ  ᡳ), as crown prince in 1900, which was retracted after protests by supporters of the imprisoned emperor. Following this, Cixi attempted another power-play by co-opting the Yihetuan 義和團, also known as Boxers, an anti-foreign mass religious movement which called for the expulsion of Christian missionaries and their converts. The international military response to the Boxer uprising proved disastrous for the Qing court, which was deserted by many of its generals during the crisis, and subsequently forced to pay a vast indemnity to the foreign powers.</p>
+
+<p>Yet Cixi was not by any means a dyed-in-the-wool conservative. From 1901 onward, she issued a series of edicts and proclamations promising wide-ranging reforms. These reforms, known as the New Policies, revitalised the Qing state, reforming its education and law enforcement, and opening opportunities for economic investment. In an attempt to reconcile with the reformist tendencies, 1904 saw Cixi issue pardons (albeit, in many cases, posthumously) to most of those involved in the ‘1898 affair’. In 1905, she sent missions to foreign countries to investigate forms of constitutional government, in preparation for eventual plans to introduce parliamentary bodies – the first provincial assemblies would be elected in 1909, the year after Cixi’s death. And perhaps most notably from a women’s history standpoint, the Qing state formally outlawed foot binding in 1902, having aborted their first attempts to do so all the way back in the 17th century. Unlike 1898, these reforms did not attempt to make major changes to the Banner system, but this produced significant problems: anti-Manchu sentiment among Han Chinese was not appeased, and there was also little effort to ameliorate economic distress among the Banners, whose stipends were not enough to live on without taking on additional employment. On the other hand, the continued assertion of the Banners as the locus of Manchu identity helped to solidify the sense of identity held by the Manchus, not just during the remainder of Qing rule, but into the post-imperial period and down to the present.</p>
+
+<p>In 1908, Cixi died less than 24 hours after the Guangxu Emperor, leading many to suggest she had him poisoned. Whatever the case, her final major act was to select Puyi 溥儀 (Pu Yi ᡦᡠ ᠶᡳ) as heir apparent, and his father Zaifeng 載灃 (Dzai Feng ᡯᠠᡳ ᡶᡝᠩ) as his regent. This proved to be a rather unfortunate choice, as Zaifeng seemed to have a knack for making exactly the wrong choice at every turn, and the empire was dissolved in February 1912 following a series of military mutinies and popular revolts in late 1911.</p>
+
+<p>Cixi’s popular image has largely gravitated between two extremes: that of a power-hungry, Manchu-centric, reactionary despot; and that of a pan-Chinese, anti-foreign, feminist hero. Both are stereotypes that fail to capture the complex series of choices that she made amid a constantly changing backdrop of court authority within the Qing Empire and its place in international politics. Cixi was, without a doubt, often ruthless in how she handled her rivals, and her efforts were unable to prevent the collapse of the Qing state soon after her death. The extent of her direct authority over Qing policy was also limited, and so for the most part she exercised influence, rather than control. Yet under her auspices, the Qing underwent two periods of major recovery, and the Manchus as a minority developed a coherent group identity that survived the fall of the state that had created it. Cixi was, ultimately, only human: deeply flawed, yet not defined solely by those flaws.</p>
+
+<h3 id="250-suisei-just-announced-her-4th-anniversary-live-selfish-of-a-rough-stone-on-march-31st-submitted-on-2022-03-22-2154550800">250: <a href="https://old.reddit.com/r/Hololive/comments/tk3jud/suisei_just_announced_her_4th_anniversary_live/">Suisei just announced her 4th Anniversary Live, Selfish of a Rough Stone, on March 31st!</a>, submitted on 2022-03-22 21:54:55+08:00.</h3>
+
+<p>—– <strong>250.1</strong> —–2022-03-22 22:38:09+08:00:</p>
+
+<p>But wait, Calli <em>is</em> Anemachi!</p>
+
+<h3 id="251-when-did-dragons-become-a-big-staple-of-chinese-culture-submitted-on-2022-03-22-2226410800">251: <a href="https://old.reddit.com/r/AskHistorians/comments/tk47gi/when_did_dragons_become_a_big_staple_of_chinese/">When did Dragons become a big staple of Chinese culture?</a>, submitted on 2022-03-22 22:26:41+08:00.</h3>
+
+<p>—– <strong>251.1</strong> —–2022-03-22 22:44:17+08:00:</p>
+
+<p>This question has been removed because it is <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22soapboxing.22_or_loaded_questions.">soapboxing</a> or otherwise a <a href="https://www.reddit.com/r/AskHistorians/comments/glq47z/rules_roundtable_xiii_soapboxing_loaded_questions/">loaded question</a>: it has the effect of promoting an existing interpretation or opinion at the expense of open-ended enquiry. Although we understand if you may have an existing interest in the topic, expressing a detailed opinion on the matter in your question is usually a sign that it is a loaded one, and we will remove questions that appear to put a deliberate slant on their subject or solicit answers that align with a specific pre-existing view.</p>
+
+<h3 id="252-why-are-hololive-models-and-face-tracking-so-bad-submitted-on-2022-03-23-0711160800">252: <a href="https://old.reddit.com/r/Hololive/comments/tkfvxh/why_are_hololive_models_and_face_tracking_so_bad/">Why are hololive models and face tracking so bad?</a>, submitted on 2022-03-23 07:11:16+08:00.</h3>
+
+<p>—– <strong>252.1</strong> —–2022-03-23 14:11:10+08:00:</p>
+
+<p>Heads up, the link seems to be broken.</p>
+
+<h3 id="253-how-did-the-political-experience-of-egypt-syria-and-iraq-under-european-imperialism-contribute-to-their-later-rejection-of-parliamentary-democracy-in-favor-of-dictatorships-submitted-on-2022-03-23-0907070800">253: <a href="https://old.reddit.com/r/AskHistorians/comments/tki87k/how_did_the_political_experience_of_egypt_syria/">How did the political experience of Egypt, Syria, and Iraq under European imperialism contribute to their later rejection of parliamentary democracy in favor of dictatorships?</a>, submitted on 2022-03-23 09:07:07+08:00.</h3>
+
+<p>—– <strong>253.1</strong> —–2022-03-23 09:32:24+08:00:</p>
+
+<p>Hi there - unfortunately we have had to remove your question, because <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework">/r/AskHistorians isn’t here to do your homework for you</a>. However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself.</p>
+
+<p>If you have indeed asked a homework question, you should consider resubmitting a question more focused on finding resources and seeking clarification on confusing issues: tell us what you’ve researched so far, what resources you’ve consulted, and what you’ve learned, and we are more likely to approve your question. Please see this <a href="https://www.reddit.com/r/AskHistorians/comments/hplxyf/rules_roundtable_xx_the_no_homework_rule/">Rules Roundtable</a> thread for more information on what makes for the kind of homework question we’d approve. Additionally, if you’re not sure where to start in terms of finding and understanding sources in general, we have a six-part series, “<a href="https://www.reddit.com/r/AskHistorians/wiki/theory#wiki_monday_methods.3A_finding_and_understanding_sources">Finding and Understanding Sources</a>”, which has a wealth of information that may be useful for finding and understanding information for your essay. Finally, other subreddits are likely to be more suitable for help with homework - try looking for help at /r/HomeworkHelp.</p>
+
+<p>Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you <strong>wait for 7 days</strong> and then ask a less open-ended question on the same topic.</p>
+
+<h3 id="254-anyone-else-notice-something-new-in-the-reflect-mv-️-submitted-on-2022-03-23-0916570800">254: <a href="https://old.reddit.com/r/Hololive/comments/tkif6l/anyone_else_notice_something_new_in_the_reflect_mv/">anyone else notice something new in the reflect MV ⬇️🦷👀</a>, submitted on 2022-03-23 09:16:57+08:00.</h3>
+
+<p>—– <strong>254.1</strong> —–2022-03-23 09:32:02+08:00:</p>
+
+<p>Isn’t it such a coincidence that Alt Gura is the only one of the two with bottom teeth…</p>
+
+<h3 id="255-what-if-ww2-never-happened-submitted-on-2022-03-23-0923170800">255: <a href="https://old.reddit.com/r/AskHistorians/comments/tkijn2/what_if_ww2_never_happened/">What if WW2 never happened?</a>, submitted on 2022-03-23 09:23:17+08:00.</h3>
+
+<p>—– <strong>255.1</strong> —–2022-03-23 09:32:13+08:00:</p>
+
+<p>Sorry, but your submission has been removed because we <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F">don’t allow hypothetical questions</a>. If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule <a href="https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/">here</a>.</p>
+
+<h3 id="256-this-station-ad-creeped-me-out-on-a-narrow-corridor-who-of-you-mfers-did-that-lol-hong-kong-submitted-on-2022-03-23-2026280800">256: <a href="https://old.reddit.com/r/Hololive/comments/tksrzx/this_station_ad_creeped_me_out_on_a_narrow/">This station ad creeped me out on a narrow corridor… Who of you mfers did that lol (Hong Kong)</a>, submitted on 2022-03-23 20:26:28+08:00.</h3>
+
+<p>—– <strong>256.1</strong> —–2022-03-24 01:41:42+08:00:</p>
+
+<p>Oh <em>now</em> I get why the main run of posters is at Wan Chai, because there is literally a Star Street (星街) there.</p>
+
+<h3 id="257-is-there-any-connective-tissue-between-the-european-spring-48-and-the-taiping-rebellion-in-china-famines-economic-forces-or-technological-shifts-submitted-on-2022-03-23-2204000800">257: <a href="https://old.reddit.com/r/AskHistorians/comments/tkunbs/is_there_any_connective_tissue_between_the/">Is there any connective tissue between the European Spring 48’ and the Taiping Rebellion in China? Famines, economic forces or technological shifts?</a>, submitted on 2022-03-23 22:04:00+08:00.</h3>
+
+<p>—– <strong>257.1</strong> —–2022-03-24 01:25:00+08:00:</p>
+
+<p>Not to any degree that can be meaningfully proven. The God-Worshipping Society predated the 1848 revolutions and in any event operated in a relatively hinterland region, a few degrees of separation from potential major changes taking place on the coast. See past answers such as these for more:</p>
+
+<p>https://www.reddit.com/r/AskHistorians/comments/r30rym/how_great_of_an_effect_did_the_first_opium_war/hm8uc7d/</p>
+
+<p>https://www.reddit.com/r/AskHistorians/comments/faa3ai/european_interference_in_china_has_often_been/fix2e24/</p>
+
+<p>There is somewhat of a literary connection in that Marx commented on the Taiping as well as the 1848 revolutions, with one piece in the 1850s and one in the 1860s, but there is, as it stands, no published scholarship analysing these specific writings.</p>
+
+<h3 id="258-why-do-you-guys-like-virtual-youtubers-so-much-submitted-on-2022-03-24-0157560800">258: <a href="https://old.reddit.com/r/Hololive/comments/tl41se/why_do_you_guys_like_virtual_youtubers_so_much/">Why do you guys like virtual youtubers so much?</a>, submitted on 2022-03-24 01:57:56+08:00.</h3>
+
+<p>—– <strong>258.1</strong> —–2022-03-24 02:08:46+08:00:</p>
+
+<p>For me, as someone who’s mainly a Hololive watcher rather than a general VTuber watcher, I think the draw is that there’s such a variety of content, as well as the sense that it’s not just a load of individual creators but a whole community. This isn’t something necessarily inherent to VTubing or impossible with traditional videos and streaming, but it might be one of the big reasons why.</p>
+
+<p>Another aspect arguably is that because Hololive is a thing you have to audition or be scouted for, it’s just a really dense concentration of especially dedicated and talented people. Again, it’s more a feature of Hololive in particular than VTubing in general.</p>
+
+<h3 id="259-first-patient-to-communicate-via-brain-implant-asks-to-hear-tool-album-submitted-on-2022-03-24-0725130800">259: <a href="https://old.reddit.com/r/nottheonion/comments/tlkufr/first_patient_to_communicate_via_brain_implant/">First Patient to Communicate Via Brain Implant Asks to Hear TOOL Album</a>, submitted on 2022-03-24 07:25:13+08:00.</h3>
+
+<p>—– <strong>259.1</strong> —–2022-03-24 19:12:26+08:00:</p>
+
+<p>Not exactly; only one particular person actually has access to this model. The ‘original’ VTuber, Kizuna AI, was conceived of as more of a Vocaloid-type deal, but modern VTubers are, across the board, almost always one character to one IRL person.</p>
+
+<p>—– <strong>259.2</strong> —–2022-03-24 19:13:59+08:00:</p>
+
+<p>No: the comment was posted a full hour before the announcement.</p>
+
+<h3 id="260-the-mamaspapas-of-holoid-generation-3-other-works-multiple-pages-submitted-on-2022-03-24-1259220800">260: <a href="https://old.reddit.com/r/Hololive/comments/tly4uk/the_mamaspapas_of_holoid_generation_3_other_works/">The Mama’s/Papa’s of HoloID Generation 3 Other Works! (Multiple Pages)</a>, submitted on 2022-03-24 12:59:22+08:00.</h3>
+
+<p>—– <strong>260.1</strong> —–2022-03-24 19:45:34+08:00:</p>
+
+<p>…the butt lady?</p>
+
+<p>—– <strong>260.2</strong> —–2022-03-24 20:51:29+08:00:</p>
+
+<p>Ah, naruhodo ne.</p>
+
+<p>Thing is, if you asked me which of Council ‘the butt lady’ drew, I’m not entirely sure Kronii would have been my first answer.</p>
+
+<h3 id="261-im-trying-to-find-more-of-these-but-i-dont-know-what-they-arei-tried-looking-up-yogourt-drink-but-no-dice-submitted-on-2022-03-24-2215480800">261: <a href="https://old.reddit.com/r/ChineseTranslation/comments/tmcvrn/im_trying_to_find_more_of_these_but_i_dont_know/">I’m trying to find more of these but I don’t know what they are…I tried looking up yogourt drink but no dice</a>, submitted on 2022-03-24 22:15:48+08:00.</h3>
+
+<p>—– <strong>261.1</strong> —–2022-03-24 23:12:58+08:00:</p>
+
+<p>I’ve not encountered this specific brand before, but it seems to be some sort of knockoff of <a href="https://en.wikipedia.org/wiki/Yakult">Yakult</a>. This brand seems to identify itself as 吾尚益菌多 <em>wu2 chang2 yi4 jun1 duo1</em>. This I suspect might be  a homophonic play on 无常 <em>wu2chang2</em> (‘variable’ but also ‘unusual’ if the two characters are read separately and literally), followed by a knockoff spin on 益力多, which is how Yakult is branded in Hong Kong.</p>
+
+<p>—– <strong>261.2</strong> —–2022-03-25 10:24:26+08:00:</p>
+
+<p>Ha, a fair point that some googling might have revealed the nature of the brand name. That said, no, it is very obviously a knockoff. 益力多 -&gt; 益菌多 is not something that happens by pure coincidence.</p>
+
+<h3 id="262-would-the-native-americans-have-been-better-off-under-british-rule-submitted-on-2022-03-25-0745330800">262: <a href="https://old.reddit.com/r/AskHistorians/comments/tn8vys/would_the_native_americans_have_been_better_off/">Would the Native Americans have been better off under British rule?</a>, submitted on 2022-03-25 07:45:33+08:00.</h3>
+
+<p>—– <strong>262.1</strong> —–2022-03-25 10:52:26+08:00:</p>
+
+<p>Sorry, but your submission has been removed because we <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F">don’t allow hypothetical questions</a>. If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule <a href="https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/">here</a>.</p>
+
+<h3 id="263-if-ancient-greece-was-a-very-long-period-over-a-large-geographic-area-why-does-it-seem-like-everything-i-heard-about-it-in-highschool-and-university-come-from-like-one-generation-of-people-in-just-athens-and-sparta-submitted-on-2022-03-25-1048350800">263: <a href="https://old.reddit.com/r/AskHistorians/comments/tncbed/if_ancient_greece_was_a_very_long_period_over_a/">If ‘Ancient Greece’ was a very long period over a large geographic area, why does it seem like everything I heard about it in highschool and university come from like one generation of people in just Athens and Sparta?</a>, submitted on 2022-03-25 10:48:35+08:00.</h3>
+
+<p>—– <strong>263.1</strong> —–2022-03-25 10:52:16+08:00:</p>
+
+<p>Hi there! You’ve asked a question along the lines of ‘why didn’t I learn about X’. We’re happy to let this question stand, but there are a variety of reasons why you may find it hard to get a good answer to this question on /r/AskHistorians.</p>
+
+<p>Firstly, school curricula and how they are taught vary strongly between different countries and even different states. Additionally, how they are taught is often influenced by teachers having to compromise on how much time they can spend on any given topic. More information on your location and level of education might be helpful to answer this question.</p>
+
+<p>Secondly, we have noticed that these questions are often phrased to be about people’s individual experiences but what they are really about is why a certain event is more prominent in popular narratives of history than others.</p>
+
+<p>Instead of asking “Why haven’t I learned about event …”, consider asking “What importance do scholars assign to event … in the context of such and such history?” The latter question is often closer to what people actually want to know and is more likely to get a good answer from an expert. If you intend to ask the ‘What importance do scholars assign to event X’ question instead, let us know and we’ll remove this question.</p>
+
+<p>Thank you!</p>
+
+<h3 id="264-can-i-add-vestianium-in-the-concoction-submitted-on-2022-03-25-2126090800">264: <a href="https://old.reddit.com/r/Hololive/comments/tnlw9u/can_i_add_vestianium_in_the_concoction/">Can I add Vestianium in the concoction?</a>, submitted on 2022-03-25 21:26:09+08:00.</h3>
+
+<p>—– <strong>264.1</strong> —–2022-03-26 12:21:23+08:00:</p>
+
+<p>Surely Fauna takes the cake for EN then.</p>
+
+<h3 id="265-what-was-the-dumbest-reason-a-youtuber-was-cancelled-on-the-internet-submitted-on-2022-03-25-2158170800">265: <a href="https://old.reddit.com/r/AskReddit/comments/tnmitn/what_was_the_dumbest_reason_a_youtuber_was/">What was the dumbest reason a Youtuber was cancelled on the internet?</a>, submitted on 2022-03-25 21:58:17+08:00.</h3>
+
+<p>—– <strong>265.1</strong> —–2022-03-26 02:10:32+08:00:</p>
+
+<p>So, a couple of points of clarification:</p>
+
+<p>Firstly, while it’s common to say Rushia violated an NDA, that is not actually unambiguously clear. An NDA is simply a particular form of contract wherein both parties agree not to divulge any information covered within the text of said contract. Rushia simply violated contract in some way, but that need not have been through divulging information about said contract, which would, in the most technical sense, be the definition of an NDA violation. To put it a certain way, while she breached a non-disclosure agreement, she may not have broken the non-disclosure aspect of that agreement.</p>
+
+<p>The main reason I bring this up is that according to the drama Youtuber whom she sent those emails to, she’d been in contact since at least November to vent about issues she’d been having, and there are claims that she had already been warned by Cover over that incident. So what happened wasn’t that she impulsively acted and inadvertently doxxed people and got fired on first infraction, but she seems to have actually been quite blasé about infosec and did the exact same thing a second time despite being warned.</p>
+
+<p>—– <strong>265.2</strong> —–2022-04-02 15:58:18+08:00:</p>
+
+<p>Well, what would you do if your employee was repeatedly leaking info to third parties even after a warning?</p>
+
+<h3 id="266-stolen-from-rnyctakeout-submitted-on-2022-03-26-0048310800">266: <a href="https://old.reddit.com/r/StupidFood/comments/tnqd0j/stolen_from_rnyctakeout/">Stolen from r/nyctakeout</a>, submitted on 2022-03-26 00:48:31+08:00.</h3>
+
+<p>—– <strong>266.1</strong> —–2022-03-26 01:03:24+08:00:</p>
+
+<p>I’ll concur with the other comments; while rather substantial none of these have any gratuitous stuff that makes it basically impossible to properly eat, like chocolate down the outside of the glass. In fact to be honest these are kind of normal looking (within reason) by ice cream standards.</p>
+
+<h3 id="267-i-remembered-a-post-about-scythes-being-asexual-weapons-so-i-drew-an-asexual-reaper-submitted-on-2022-03-26-0314400800">267: <a href="https://old.reddit.com/r/aaaaaaacccccccce/comments/tnwr2f/i_remembered_a_post_about_scythes_being_asexual/">I remembered a post about scythes being asexual weapons so i drew an asexual reaper!</a>, submitted on 2022-03-26 03:14:40+08:00.</h3>
+
+<p>—– <strong>267.1</strong> —–2022-03-26 11:58:12+08:00:</p>
+
+<p>Calli’s almost certainly not aro: https://youtu.be/VZRLzZcAUKo?t=5462</p>
+
+<h3 id="268-come-give-flare-a-hug-submitted-on-2022-03-26-0906500800">268: <a href="https://old.reddit.com/r/Hololive/comments/toa7y8/come_give_flare_a_hug/">come give flare a hug</a>, submitted on 2022-03-26 09:06:50+08:00.</h3>
+
+<p>—– <strong>268.1</strong> —–2022-03-26 12:42:31+08:00:</p>
+
+<p>I mean if you’re dating Noel…</p>
+
+<h3 id="269-mori-calliope-celebrates-2000000-subscribers-submitted-on-2022-03-26-1447140800">269: <a href="https://old.reddit.com/r/Hololive/comments/toitq3/mori_calliope_celebrates_2000000_subscribers/">🎉Mori Calliope💀 celebrates 2,000,000 subscribers!🎉</a>, submitted on 2022-03-26 14:47:14+08:00.</h3>
+
+<p>—– <strong>269.1</strong> —–2022-03-26 16:38:12+08:00:</p>
+
+<p>Indeed, third VTuber ever to hit that mark.</p>
+
+<p>—– <strong>269.2</strong> —–2022-03-26 16:48:07+08:00:</p>
+
+<p>I’m not crying you’re crying</p>
+
+<p>More seriously, Calli has come a long way in a year and a half and I can’t wait to see where she goes next. おめでとう!</p>
+
+<p>—– <strong>269.3</strong> —–2022-03-26 17:00:50+08:00:</p>
+
+<p>I thought Luna hit 1m and then fell below, rather than 2m.</p>
+
+<p>—– <strong>269.4</strong> —–2022-03-26 17:18:24+08:00:</p>
+
+<p>Per SocialBlade: https://socialblade.com/youtube/channel/UCQYADFw7xEJ9oZSM5ZbqyBw/monthly</p>
+
+<p>Luna hit 1m in November 2019, and fell below in February 2020; very nearly got back to 1m in September 2020, but then started falling again in November. This time last year she’d have been at 975k.</p>
+
+<p>—– <strong>269.5</strong> —–2022-03-26 17:43:17+08:00:</p>
+
+<p>Kizuna AI.</p>
+
+<p>—– <strong>269.6</strong> —–2022-03-26 18:23:09+08:00:</p>
+
+<p>Well, that’s true after August 2020, but I’m not sure what caused the 2019 drop.</p>
+
+<p>—– <strong>269.7</strong> —–2022-03-26 19:35:41+08:00:</p>
+
+<p>(tagging in /u/StarMagus)</p>
+
+<p>Activ8, the company that managed her, tried adding 3 new people in 2019, which didn’t go over very well, and they eventually reneged and went back to just the original in early 2020. There are allegations  that the original was fired or quit, but officially she was actually working on music for a while while the others took over the streaming and videos side. She’s now on an indefinite hiatus from Youtube but she’s apparently doing an anime later this year, so not retired outright.</p>
+
+<p>—– <strong>269.8</strong> —–2022-03-27 03:19:21+08:00:</p>
+
+<p>See the rest of the thread – she very much didn’t.</p>
+
+<h3 id="270-reine-is-my-hero-submitted-on-2022-03-26-2051490800">270: <a href="https://old.reddit.com/r/Hololive/comments/tonv1q/reine_is_my_hero/">Reine is my hero</a>, submitted on 2022-03-26 20:51:49+08:00.</h3>
+
+<p>—– <strong>270.1</strong> —–2022-03-27 03:13:28+08:00:</p>
+
+<p>Would you rather it just be called white?</p>
+
+<p>—– <strong>270.2</strong> —–2022-03-27 11:57:07+08:00:</p>
+
+<p>Actually ‘pedantic’ is an adjective, someone who is pedantic is a pedant.</p>
+
+<h3 id="271-youre-stuck-on-a-deserted-island-with-the-third-talent-in-your-flair-submitted-on-2022-03-27-0038260800">271: <a href="https://old.reddit.com/r/Hololive/comments/tox94a/youre_stuck_on_a_deserted_island_with_the_third/">You’re stuck on a deserted island with the third talent in your flair</a>, submitted on 2022-03-27 00:38:26+08:00.</h3>
+
+<p>—– <strong>271.1</strong> —–2022-03-27 03:11:12+08:00:</p>
+
+<p>I am coming to terms with the reality of the inevitable.</p>
+
+<h3 id="272-i-present-to-you-reine-nerei-reirei-ineine-nene-was-already-taken-by-nene-submitted-on-2022-03-27-0325220800">272: <a href="https://old.reddit.com/r/Hololive/comments/tp0ttm/i_present_to_you_reine_nerei_reirei_ineine_nene/">I present to you, reine, nerei, reirei, ineine (nene was already taken by nene)</a>, submitted on 2022-03-27 03:25:22+08:00.</h3>
+
+<p>—– <strong>272.1</strong> —–2022-03-27 12:32:31+08:00:</p>
+
+<p>Anuaf just hits different.</p>
+
+<h3 id="273-i-would-like-to-know-why-the-last-chinese-dynasty-had-their-male-hair-style--shaved-with-long-hair-i-understand-the-long-hair-part-but-why-shave-the-forehead--submitted-on-2022-03-27-0455170800">273: <a href="https://old.reddit.com/r/AskHistorians/comments/tp3wvc/i_would_like_to_know_why_the_last_chinese_dynasty/">I would like to know why the last Chinese dynasty had their male hair style , shaved with long hair. I understand the long hair part but why shave the forehead ?</a>, submitted on 2022-03-27 04:55:17+08:00.</h3>
+
+<p>—– <strong>273.1</strong> —–2022-03-27 15:07:34+08:00:</p>
+
+<p>More may of course be said, but I discuss the Qing queue edict in detail <a href="https://reddit.com/r/AskHistorians/comments/hieo21/tuesday_trivia_a_woman_who_cuts_her_hair_is_about/fwh873t/?context=999">here</a>.</p>
+
+<h3 id="274-why-are-the-qing-and-yuan-dynasties-viewed-as-chinese-dynasties-and-not-occupation-by-a-foreign-power-submitted-on-2022-03-27-1744170800">274: <a href="https://old.reddit.com/r/AskHistorians/comments/tpgmi5/why_are_the_qing_and_yuan_dynasties_viewed_as/">Why are the Qing and Yuan dynasties viewed as Chinese dynasties and not occupation by a foreign power?</a>, submitted on 2022-03-27 17:44:17+08:00.</h3>
+
+<p>—– <strong>274.1</strong> —–2022-03-29 22:20:21+08:00:</p>
+
+<p>Well, they have been viewed as both, sometimes – seemingly contradictorily – at the same time. I discuss dimensions of this in a few prior answers:</p>
+
+<p>https://www.reddit.com/r/AskHistorians/comments/pm35v6/why_is_the_qing_dynasty_not_considered_chinese_by/hceyn5m/</p>
+
+<p>https://www.reddit.com/r/AskHistorians/comments/ihabe5/china_is_famous_for_going_through_a_cycle_of/g33lkgm/</p>
+
+<p>https://reddit.com/r/AskHistorians/comments/rqpud2/china_was_conquered_by_the_mongols_and_the/hqd2is9/?context=999</p>
+
+<p>https://reddit.com/r/AskHistorians/comments/fs59uk/how_much_of_a_cultural_influenceimpact_did/fm22ko2/?context=999</p>
+
+<p>Though to be fair, I have yet to write a complete answer on the topic. If you have any specific follow-ups in order to clarify that, I’d be more than happy to reply to them.</p>
+
+<h3 id="275-how-accurate-is-it-to-consider-the-opium-wars-a-manifestation-of-british-globalization-submitted-on-2022-03-27-1930510800">275: <a href="https://old.reddit.com/r/AskHistorians/comments/tpi24t/how_accurate_is_it_to_consider_the_opium_wars_a/">How accurate is it to consider the Opium Wars a manifestation of (British) globalization?</a>, submitted on 2022-03-27 19:30:51+08:00.</h3>
+
+<p>—– <strong>275.1</strong> —–2022-03-27 20:10:28+08:00:</p>
+
+<p>Hi there - unfortunately we have had to remove your question, because <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework">/r/AskHistorians isn’t here to do your homework for you</a>. However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself.</p>
+
+<p>If you have indeed asked a homework question, you should consider resubmitting a question more focused on finding resources and seeking clarification on confusing issues: tell us what you’ve researched so far, what resources you’ve consulted, and what you’ve learned, and we are more likely to approve your question. Please see this <a href="https://www.reddit.com/r/AskHistorians/comments/hplxyf/rules_roundtable_xx_the_no_homework_rule/">Rules Roundtable</a> thread for more information on what makes for the kind of homework question we’d approve. Additionally, if you’re not sure where to start in terms of finding and understanding sources in general, we have a six-part series, “<a href="https://www.reddit.com/r/AskHistorians/wiki/theory#wiki_monday_methods.3A_finding_and_understanding_sources">Finding and Understanding Sources</a>”, which has a wealth of information that may be useful for finding and understanding information for your essay. Finally, other subreddits are likely to be more suitable for help with homework - try looking for help at /r/HomeworkHelp.</p>
+
+<p>Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you <strong>wait for 7 days</strong> and then ask a less open-ended question on the same topic.</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-03-27</time>
+        <a href="https://nodebe4.github.io/opinion/2022-03-27/theoryofdoom/">
+          theoryofdoom在2022-03-21~2022-03-27的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-03-27</time>
+        <a href="https://nodebe4.github.io/opinion/2022-03-27/Spinkcat/">
+          Spinkcat在2022-03-21~2022-03-27的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-03-25</time>
+        <a href="https://nodebe4.github.io/opinion/2022-03-25/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-03-21~2022-03-27的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-03-20</time>
+        <a href="https://nodebe4.github.io/opinion/2022-03-20/theoryofdoom/">
+          theoryofdoom在2022-03-14~2022-03-20的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-03-26/%E6%AD%8C%E8%8E%89%E4%BA%9E%E7%9A%84%E5%A5%BD%E5%A5%87%E4%B8%AD%E5%B3%B6-36-%E5%A4%8F%E5%A8%81%E5%A4%B7%E7%89%B9%E8%89%B2%E7%BE%8E%E9%A3%9F-%E5%BF%85%E5%90%83%E5%8D%88%E9%A4%90%E8%82%89%E5%A3%BD%E5%8F%B8-%E5%98%89%E8%B3%93-%E8%B3%87%E6%B7%B1%E9%9F%B3%E6%A8%82%E6%96%87%E5%8C%96%E4%BA%BA-%E9%BB%83%E5%BF%97%E6%B7%99/">
+            前一篇：【歌莉亞的好奇中島】#36　夏威夷特色美食　必吃午餐肉壽司？（嘉賓：資深音樂文化人　黃志淙）
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-03-27/HeQinglian/">
+            後一篇：Twitter @He Qinglian: 2022-03-21~2022-03-27
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-03-26/%E6%AD%8C%E8%8E%89%E4%BA%9E%E7%9A%84%E5%A5%BD%E5%A5%87%E4%B8%AD%E5%B3%B6-36-%E5%A4%8F%E5%A8%81%E5%A4%B7%E7%89%B9%E8%89%B2%E7%BE%8E%E9%A3%9F-%E5%BF%85%E5%90%83%E5%8D%88%E9%A4%90%E8%82%89%E5%A3%BD%E5%8F%B8-%E5%98%89%E8%B3%93-%E8%B3%87%E6%B7%B1%E9%9F%B3%E6%A8%82%E6%96%87%E5%8C%96%E4%BA%BA-%E9%BB%83%E5%BF%97%E6%B7%99/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-03-27/HeQinglian/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-03-27/Spinkcat/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-03-25/ForeignAffairsMag/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-03-26/%E6%AD%8C%E8%8E%89%E4%BA%9E%E7%9A%84%E5%A5%BD%E5%A5%87%E4%B8%AD%E5%B3%B6-36-%E5%A4%8F%E5%A8%81%E5%A4%B7%E7%89%B9%E8%89%B2%E7%BE%8E%E9%A3%9F-%E5%BF%85%E5%90%83%E5%8D%88%E9%A4%90%E8%82%89%E5%A3%BD%E5%8F%B8-%E5%98%89%E8%B3%93-%E8%B3%87%E6%B7%B1%E9%9F%B3%E6%A8%82%E6%96%87%E5%8C%96%E4%BA%BA-%E9%BB%83%E5%BF%97%E6%B7%99/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-03-27/HeQinglian/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-03-27/Spinkcat/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-03-25/ForeignAffairsMag/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

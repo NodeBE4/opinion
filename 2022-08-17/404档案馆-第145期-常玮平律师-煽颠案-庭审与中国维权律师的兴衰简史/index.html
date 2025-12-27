@@ -1,0 +1,964 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>【404档案馆】第145期：常玮平律师“煽颠案”庭审与中国维权律师的兴衰简史 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+【404档案馆】第145期：常玮平律师“煽颠案”庭审与中国维权律师的兴衰简史
+——
+" />
+    <meta property="og:description" content="
+【404档案馆】第145期：常玮平律师“煽颠案”庭审与中国维权律师的兴衰简史
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="【404档案馆】第145期：常玮平律师“煽颠案”庭审与中国维权律师的兴衰简史" />
+    <meta property="twitter:title" content="【404档案馆】第145期：常玮平律师“煽颠案”庭审与中国维权律师的兴衰简史" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fmatters.news%2F%40ChinaDT%2F404%25E6%25A1%25A3%25E6%25A1%2588%25E9%25A6%2586-%25E7%25AC%25AC145%25E6%259C%259F-%25E5%25B8%25B8%25E7%258E%25AE%25E5%25B9%25B3%25E5%25BE%258B%25E5%25B8%2588-%25E7%2585%25BD%25E9%25A2%25A0%25E6%25A1%2588-%25E5%25BA%25AD%25E5%25AE%25A1%25E4%25B8%258E%25E4%25B8%25AD%25E5%259B%25BD%25E7%25BB%25B4%25E6%259D%2583%25E5%25BE%258B%25E5%25B8%2588%25E7%259A%2584%25E5%2585%25B4%25E8%25A1%25B0%25E7%25AE%2580%25E5%258F%25B2-bafyreieoq53cadertwlus542ask74xug76k4yl2e7l7an74n24ihnolgam" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC145%E6%9C%9F-%E5%B8%B8%E7%8E%AE%E5%B9%B3%E5%BE%8B%E5%B8%88-%E7%85%BD%E9%A2%A0%E6%A1%88-%E5%BA%AD%E5%AE%A1%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E7%9A%84%E5%85%B4%E8%A1%B0%E7%AE%80%E5%8F%B2-bafyreieoq53cadertwlus542ask74xug76k4yl2e7l7an74n24ihnolgam" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC145%E6%9C%9F-%E5%B8%B8%E7%8E%AE%E5%B9%B3%E5%BE%8B%E5%B8%88-%E7%85%BD%E9%A2%A0%E6%A1%88-%E5%BA%AD%E5%AE%A1%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E7%9A%84%E5%85%B4%E8%A1%B0%E7%AE%80%E5%8F%B2-bafyreieoq53cadertwlus542ask74xug76k4yl2e7l7an74n24ihnolgam&text=【404档案馆】第145期：常玮平律师“煽颠案”庭审与中国维权律师的兴衰简史&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC145%E6%9C%9F-%E5%B8%B8%E7%8E%AE%E5%B9%B3%E5%BE%8B%E5%B8%88-%E7%85%BD%E9%A2%A0%E6%A1%88-%E5%BA%AD%E5%AE%A1%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E7%9A%84%E5%85%B4%E8%A1%B0%E7%AE%80%E5%8F%B2-bafyreieoq53cadertwlus542ask74xug76k4yl2e7l7an74n24ihnolgam&title=【404档案馆】第145期：常玮平律师“煽颠案”庭审与中国维权律师的兴衰简史" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC145%E6%9C%9F-%E5%B8%B8%E7%8E%AE%E5%B9%B3%E5%BE%8B%E5%B8%88-%E7%85%BD%E9%A2%A0%E6%A1%88-%E5%BA%AD%E5%AE%A1%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E7%9A%84%E5%85%B4%E8%A1%B0%E7%AE%80%E5%8F%B2-bafyreieoq53cadertwlus542ask74xug76k4yl2e7l7an74n24ihnolgam&title=【404档案馆】第145期：常玮平律师“煽颠案”庭审与中国维权律师的兴衰简史" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=【404档案馆】第145期：常玮平律师“煽颠案”庭审与中国维权律师的兴衰简史&body=
+【404档案馆】第145期：常玮平律师“煽颠案”庭审与中国维权律师的兴衰简史
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC145%E6%9C%9F-%E5%B8%B8%E7%8E%AE%E5%B9%B3%E5%BE%8B%E5%B8%88-%E7%85%BD%E9%A2%A0%E6%A1%88-%E5%BA%AD%E5%AE%A1%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E7%9A%84%E5%85%B4%E8%A1%B0%E7%AE%80%E5%8F%B2-bafyreieoq53cadertwlus542ask74xug76k4yl2e7l7an74n24ihnolgam" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC145%E6%9C%9F-%E5%B8%B8%E7%8E%AE%E5%B9%B3%E5%BE%8B%E5%B8%88-%E7%85%BD%E9%A2%A0%E6%A1%88-%E5%BA%AD%E5%AE%A1%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E7%9A%84%E5%85%B4%E8%A1%B0%E7%AE%80%E5%8F%B2-bafyreieoq53cadertwlus542ask74xug76k4yl2e7l7an74n24ihnolgam&title=【404档案馆】第145期：常玮平律师“煽颠案”庭审与中国维权律师的兴衰简史&caption=
+【404档案馆】第145期：常玮平律师“煽颠案”庭审与中国维权律师的兴衰简史
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=【404档案馆】第145期：常玮平律师“煽颠案”庭审与中国维权律师的兴衰简史&url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC145%E6%9C%9F-%E5%B8%B8%E7%8E%AE%E5%B9%B3%E5%BE%8B%E5%B8%88-%E7%85%BD%E9%A2%A0%E6%A1%88-%E5%BA%AD%E5%AE%A1%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E7%9A%84%E5%85%B4%E8%A1%B0%E7%AE%80%E5%8F%B2-bafyreieoq53cadertwlus542ask74xug76k4yl2e7l7an74n24ihnolgam" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>【404档案馆】第145期：常玮平律师“煽颠案”庭审与中国维权律师的兴衰简史</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-08-17
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#中国数字时代">
+          中国数字时代
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC145%E6%9C%9F-%E5%B8%B8%E7%8E%AE%E5%B9%B3%E5%BE%8B%E5%B8%88-%E7%85%BD%E9%A2%A0%E6%A1%88-%E5%BA%AD%E5%AE%A1%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E7%9A%84%E5%85%B4%E8%A1%B0%E7%AE%80%E5%8F%B2-bafyreieoq53cadertwlus542ask74xug76k4yl2e7l7an74n24ihnolgam" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="中国数字时代的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#中国数字时代 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1660712648000-->
+<p><a href="https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC145%E6%9C%9F-%E5%B8%B8%E7%8E%AE%E5%B9%B3%E5%BE%8B%E5%B8%88-%E7%85%BD%E9%A2%A0%E6%A1%88-%E5%BA%AD%E5%AE%A1%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E7%9A%84%E5%85%B4%E8%A1%B0%E7%AE%80%E5%8F%B2-bafyreieoq53cadertwlus542ask74xug76k4yl2e7l7an74n24ihnolgam">【404档案馆】第145期：常玮平律师“煽颠案”庭审与中国维权律师的兴衰简史</a>
+——</p>
+
+<div>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/c06e3769-116e-4f82-9ca9-8dc534aab295.png" data-asset-id="c06e3769-116e-4f82-9ca9-8dc534aab295" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p><a href="https://chinadigitaltimes.net/chinese/404-archives" rel="noopener noreferrer" target="_blank">《404档案馆》</a><span>讲述中国审查与反审查的故事，同时以文字、音频和视频的形式发布。播客节目可在 Apple Podcasts, Google Podcasts, Spotify 或泛用型播客客户端搜索“</span><a href="https://open.firstory.me/user/cdt" rel="noopener noreferrer" target="_blank"><span>404档案馆</span></a><span>”进行收听，视频节目可在Youtube“</span><a href="https://www.youtube.com/channel/UCwXewCWwaK1-yec8niJLrqg" rel="noopener noreferrer" target="_blank"><span>中国数字时代· 404档案馆</span></a><span>”频道收看。</span></p>
+  <p>欢迎来到404档案馆。在这里，我们一起穿越中国数字高墙。</p>
+  <p><strong> 作者：西西弗斯推大石</strong></p>
+  <p>7月26日，关注家庭教会、艾滋病歧视与性别平等的中国维权律师常玮平被控 “煽动颠覆国家政权罪”一案，在陕西省宝鸡市凤县法院<a href="https://www.rfa.org/mandarin/yataibaodao/renquanfazhi/cm-07252022124500.html" rel="noopener noreferrer" target="_blank">不公开审理</a><span>。这是在</span><a href="https://chinadigitaltimes.net/chinese/659369.html" rel="noopener noreferrer" target="_blank"><span>他于2020年10月被秘密关押</span></a><span>，遭遇酷刑：不让睡觉，只给很少的饭吃，疲劳审讯。历经漫长等待后终于被确定的庭审日期。</span></p>
+  <p>然而，就在他的妻子陈紫娟前往法庭的途中，一到凤县，便被公安和特警以防疫为由强行拦下，阻止她和孩子前往法院旁听。</p>
+  <figure class="embed-video">
+    <div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/nEQkIWcTEmk?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+    </div>
+    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>常玮平律师及其家人的遭遇，只是中国当局持续打压维权律师的最新一例。本期节目，我们从常玮平律师的经历谈起，回顾中国维权律师群体的兴衰简史。</p>
+  <h2 id="section"><strong>一、 维权律师常玮平</strong></h2>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/2a0a8ce4-3ff6-4660-b4f8-311b9674a4a5.jpeg" data-asset-id="2a0a8ce4-3ff6-4660-b4f8-311b9674a4a5" referrerpolicy="no-referrer" />    <figcaption>
+<span>常玮平</span>
+    </figcaption>
+  </figure>
+  <p>常玮平律师自小成绩优异，在初中同学的回忆中，他是<a href="https://c.m.163.com/news/a/FR5QCFDE0551QF5K.html?spss=newsapp&amp;spsnuid=&amp;spsdevid=D43BD9D6-3817-4C36-959A-D3EEC1065861&amp;spsvid=&amp;spsshare=wxm&amp;spsts=1658750046867&amp;spstoken=t0zHzEBvcPCXc5GnSv0%2BxZfHNyGsPAHKPCbYk08cQ1DXw7vRDQBKq409mgptvc56&amp;spssid=dc162d1fcf589046d6ae33b4365e8da0&amp;spsw=8&amp;isFromH5Share=article" rel="noopener noreferrer" target="_blank">“几乎每次考试都是年级第一的大才子”</a><span>。他也是少有的一踏入律师行业就从事维权事业的律师。</span></p>
+  <p>与其他维权律师相比，<a href="https://theinitium.com/article/20210608-mainland-changweiping/" rel="noopener noreferrer" target="_blank">常玮平相对 “温和”</a><span>，他把更多精力放在曾经“敏感度” 较低的就业歧视和性别歧视案件中。2017年，他帮助因为艾滋病被茅台公司拒绝录取的青年刘元赢回了工作和5万元精神损失费。这是在民事案件案由增加了 “平等就业纠纷”之后的中国“平等就业第一案”。#Metoo运动在中国兴起后，他又是少数公开支持、参与运动本身并代理相关案件的男律师。</span></p>
+  <p>常玮平想要通过个案推动制度的进步，但换来却是越来越严厉的打压。2018年10月，他被停业3个月；同年11月22日，他所在的律师事务所被注销，当局还想方设法阻止他转往其他律所。</p>
+  <p>2020年10月，常玮平被控 “煽动颠覆国家政权罪”，被指定居所监视居住，期间遭遇酷刑。2021年4月7日，常玮平被宝鸡市检察院批准以涉嫌“颠覆国家政权罪”执行逮捕，目前羁押在陕西省宝鸡市凤县看守所。</p>
+  <p>2021年，常玮平被授予当年的中国人权律师奖。</p>
+  <h2 id="section-1"><strong>二、以法治之名：维权律师的兴起</strong></h2>
+  <p>近代以来，学习西方法律制度是中国现代化的重要目标。民国时期，当时的政府参考德国和日本的制度，建立了一套包括宪法、民法、刑法在内的<a href="https://web.archive.org/web/20170821161157/http://www.moj.gov.tw/ct.asp?xItem=25473&amp;ctNode=28034" rel="noopener noreferrer" target="_blank">“六法全书”</a><span>；包括东吴大学、朝阳大学、燕京大学在内的一些大学也培养了一批优秀的法学人才。</span></p>
+  <p>1949年，中共建立政权后，废除 “六法全书” ，接管并改组这些私立大学。之后，虽然中共政府也参考苏联的立法和法律教育建立了一套制度，但在一波又一波的政治运动中，这些法律没有独立性，所培养的法律人才也被要求作为政权的 “刀把子” 而工具化。</p>
+  <p>1980年，当局公开审理所谓 “林彪、江青反革命集团案”，律师张思之出任辩护组组长，在庭审中为当时被定性极为严重的被告人辩护，最后将被告人李作鹏的两项罪名除去。这次庭审辩护成为中国法律制度和律师行业发展历史上的重要一笔。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/cf9b0f51-cc41-4bd0-ba10-44b9f11a57b3.jpeg" data-asset-id="cf9b0f51-cc41-4bd0-ba10-44b9f11a57b3" referrerpolicy="no-referrer" />    <figcaption>
+<span>张思之</span>
+    </figcaption>
+  </figure>
+  <p>此后，张思之一直为重建中国律师制度、保障律师的辩护权而努力，代理了包括“六四”被控告学生和知识分子以及被指控为“非法提供国家秘密”的郑恩宠案等所谓“敏感案件”。然而，虽然他一生用尽全力辩护，却几乎都只得到败诉的结果。</p>
+  <p>2022年6月24日，张思之先生去世，享年95岁。这位几乎没有打赢过官司的律师，却被誉为“律师的良心” 、<a href="https://chinadigitaltimes.net/chinese/683449.html" rel="noopener noreferrer" target="_blank">“中国最伟大的律师”</a><span>。张思之为在其之后的中国维权律师群体以法律来保障弱势群体权利的道路，奠定了基础。</span></p>
+  <p>随着中国的法学教育在文革后开始恢复，也逐渐在镣铐中向包括德国、日本、台湾、美国在内的国家学习，一批怀着理想的法学学生选择以法律帮助弱势群体抵抗强权倾轧为职业，形成了中国的维权律师群体。TA们普遍以法律条文和法律原则作为行事和诉讼依据，从程序和证据等多方面挑战无视规则的公权力。</p>
+  <p>有些维权律师出于降低风险或者自身信念的考虑，选择谨慎讨论政治，专心法律解释和诉讼；而另一些维权律师，则积极介入公共事务讨论，利用社交媒体传达自己的观点，对公权力的滥权行为进行公开监督。</p>
+  <h2 id="section-2"><strong>三、“我只是讨厌屈服”与死磕派律师</strong></h2>
+  <h1 id="section-3"><strong>1. 郝劲松</strong></h1>
+  <figure class="embed-video">
+    <div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/2VMm7P_rWF0?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+    </div>
+    <figcaption>
+<span>郝劲松</span>
+    </figcaption>
+  </figure>
+  <p>生于1972年的知名法律学者郝劲松，是维权法律人士的一位代表。准确而言，他并不是一位律师。他没有律师资格证，却一直以公民代理的方式参与维权案件。因为北京地铁公司没有为当时还要收费5毛钱的厕所提供发票，他把北京地铁告上法庭，并且最终胜诉。</p>
+  <p> 针对5毛钱的厕所发票太微不足道、不值得打官司的质疑，在2009年接受央视记者柴静的采访时，他说：</p>
+  <p> “今天你可以失去获得它的权利，你不抗争，明天你同样会失去更多的权利，人身权，财产权，包括土地、房屋。中国现在这种状况不是偶然造成的，而是长期温水煮青蛙的一个结果。大家会觉得火车不开发票、偷漏税与我何干，别人的房屋被强行拆迁与我何干，有一天，这些事情都会落在你的身上。”</p>
+  <h1 id="section-4"><strong>2. 浦志强</strong></h1>
+  <figure class="embed-video">
+    <div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/pxf9hGBZcB4?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+    </div>
+    <figcaption>
+<span>浦志强</span>
+    </figcaption>
+  </figure>
+  <p>浦志强是另一位出色的维权律师。他在研究生时期亲历六四民主运动，后在当了几年商业律师后，开始代理一系列涉及言论自由、劳教、刑讯逼供、汶川地震豆腐渣工程调查等案件，并因此为人所知。</p>
+  <p>2013年，他代理了因为上访而被劳教的<a href="https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20130703-%E6%B5%A6%E5%BF%97%E5%BC%BA%EF%BC%9A%E5%94%90%E6%85%A7%E6%A1%88%E6%98%AF%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C%E4%B8%8D%E4%BD%9C%E4%B8%BA%E3%80%81%E8%83%A1%E4%BD%9C%E4%B8%BA%E3%80%81%E4%B9%B1%E4%BD%9C%E4%B8%BA%E7%9A%84%E7%BB%93%E6%9E%9C" rel="noopener noreferrer" target="_blank">唐慧案</a><span> 。</span></p>
+  <p>劳教，全称劳动教养，是一种公安机关可以不经法院审判而限制人身自由、强迫劳动的制度。经过浦志强的努力，唐慧的劳动教养被撤销，并获得了部分行政赔偿。</p>
+  <p>当年11月15日，中共十八届三中全会提出废止劳教制度；12月28日，实行了56年的劳教制度被正式废除。而在此之前，仅2012年一年就有约6万中国人被劳教。</p>
+  <p>浦志强也因此被《人物》杂志评选为2013年年度法治面孔。该奖的评语写道： “因为在终结劳动教养制度方面，他做出了独特的、勇敢的、富有人道主义精神的贡献。”</p>
+  <p>这两位代表性律师的背后，是一个被称为“死磕派律师”的群体。TA们在代理工作中，对各种公检法在程序和实体上的不合法进行不妥协的抗争；其抗议方式包括社交媒体发声、曝光、庭审中集体退庭、在法院面前做出抗争性行为艺术等等。</p>
+  <p>2011年，在一起律师被控伪证罪的案件中，代理该案件的迟夙生律师看到有律师遭不明身份的人员围殴，便说“得死磕”。“死磕派”这一名字因此诞生。</p>
+  <p>而“死磕派律师”的成名战，则是2012年初发生在贵阳市小河区法院的“小河案”。该案涉及57名被告人和88名律师。庭审一开始，辩护律师就申请公诉人回避；在随后的庭审中，辩护律师和法官、公诉人就庭审程序又进行了多次交锋，最终3名律师被驱逐出法庭，多名律师被法庭训诫。</p>
+  <p>对于这种<a href="https://web.archive.org/web/20210629025114/http://news.ifeng.com/opinion/special/sikelvshi/" rel="noopener noreferrer" target="_blank">辩护手段</a><span>，有官媒和部分律师表示批判，认为这是将控辩双方的对抗转变为辩护律师与法庭的对抗，而另一些律师则认为这是推动法律制度进步的必要手段。一时之间，关于“死磕”的争论在舆论中引起热议。</span></p>
+  <h2 id="section-5"><strong>四、 “709大逮捕”以后：那些曾经的空间消失殆尽</strong></h2>
+  <p>在取得一些个案和制度进展的同时，官方对于维权律师的打压从未中断。从非正式的警告、监视，到来自律师协会的处罚甚至吊销执照，乃至牢狱之灾的惩罚，维权律师并没有因为“懂法”而更少承担公权力任意行使的伤害。</p>
+  <p>2014年5月6日，浦志强突然 “被失踪” ；此前一天，他刚刚参加了有学者、律师和天安门母亲群体组织的“六四研讨会”。此后他一直被关押，并被以所谓煽动民族仇恨罪、寻衅滋事罪判处有期徒刑三年，缓刑三年。后来，他的律师证也被吊销。</p>
+  <p>在浦志强案庭审的当天，法院外警方严密布防，便衣警察将支持浦志强的群众、外国记者和到场的国外使领馆人员推搡冲散。</p>
+  <p>英国广播公司BBC的记者曾记录下这一幕：</p>
+  <figure class="embed-video">
+    <div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/09nd94KaASM?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+    </div>
+    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>发生于2015年7月9日起几天内、针对维权律师的大抓捕行动， 更是标志着维权律师在中国的生存空间消失殆尽。</p>
+  <p>在此之前，黑龙江省庆安火车站发生一起上访男子徐纯合与执勤警察冲突，被警察枪击身亡的事件。关于警方开枪是否正当的争论在互联网上发酵。大批维权律师和民众前往黑龙江表示关注。在央视公布现场视频后，舆论进一步<a href="https://chinadigitaltimes.net/chinese/392364.html" rel="noopener noreferrer" target="_blank">质疑</a>发布出来的视频是否经过剪辑。最终，官方定性开枪合法，维权律师游飞翥、马卫等人被刑事拘留，事件在删帖和律师联署抗议下结束。</p>
+  <p>7月初，一些律师担心刑法修正案中对于律师泄露资讯和扰乱法庭秩序的罪名会影响到代理工作，<a href="https://web.archive.org/web/20160816142236/http://news.eastday.com/eastday/13news/auto/news/china/u7ai4260282_K4.html" rel="noopener noreferrer" target="_blank">北京朝阳区律师协会</a>也建议拿掉或搁置这一修改。</p>
+  <p>令人没有想到的是，政府对于这些事件的回应是一串长长的逮捕名单。</p>
+  <p>7月9日凌晨，北京著名人权律师王宇、她的丈夫包龙军律师以及他们的儿子失踪；10 日，北京锋锐律师事务所四名成员——律师事务所主任周世锋律师、周世锋助理李姝云律师、财务总监王方，以及行政助理刘四新，都陆续被不明身份人士带走调查或因不明原因失踪。</p>
+  <p>48小时内，北京、天津等15个省市，陆续有维权律师与维权人士被捕。7月12日，官媒《人民日报》刊登文章，称官方要“摧毁一个‘维权’律师、推手、‘访民’相互勾连、滋事扰序的涉嫌重大犯罪团伙”。</p>
+  <p>大逮捕之后，是刑讯逼供和大审判。包括王宇、王全璋在内的律师被以所谓<a href="https://chinadigitaltimes.net/chinese/574055.html" rel="noopener noreferrer" target="_blank">“指定居所监视居住”</a>为名秘密关押，他们无法会见律师，无法得到外界消息，基本的休息权利没有保障。</p>
+  <p>在发生于2016年到2017年间的审判中，这些维权律师获刑有期徒刑三年到七年不等。而拒绝配合当局"认罪"表演王全璋律师，则直到2019年1月才正式审判，最终被以所谓 “颠覆国家政权罪” 判处有期徒刑四年六个月。他是"709" 系列案件中被拘押时间最长、家属和律师未能会面时间最长以及最后一位被审判的人。</p>
+  <p>在镜周刊对他的采访中，王全璋曾谈到过自己在被羁押期间所遭受的虐待。</p>
+  <figure class="embed-video">
+    <div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/TME9JhUn5n0?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+    </div>
+    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>大规模的逮捕结束了，但对于维权法律人士的惩罚并没有结束。</p>
+  <p>上述提到因为状告北京地铁而被央视采访的郝劲松，于2019年12月被以寻衅滋事为名先行政拘留，进而刑事拘留，2020年12月，在山西法院受审。而关注家庭教会、艾滋病歧视、推动性别平等的<a href="https://chinadigitaltimes.net/chinese/659369.html" rel="noopener noreferrer" target="_blank">常玮平律师</a>则于2020年10月被以煽动颠覆国家政权罪为名秘密关押，遭遇酷刑，至今仍在等待审判。</p>
+  <p>这些身陷囹圄的维权律师，即使出狱，律师资格证也已经被吊销，并继续生活在监视之中，很难再进行维权法律工作。</p>
+  <p><strong>维权律师进去了，为TA辩护的律师也进去了，之后为TA的辩护律师辩护的人也进去了，这不是苏联笑话，而是习近平治下中国法律界的现实。</strong></p>
+  <h2 id="section-6"><strong>五、 还有人依然在坚持</strong></h2>
+  <p>面对黑暗的现实，依然有人还在坚持。浦志强出狱后，虽然失去了律师身份，依然在律师事务所通过行政工作的方式参与维权行动；关注劳动者权利的佟丽华和他创立的致诚律师事务所，<a href="https://www.bilibili.com/s/video/BV1oa411m7bq" rel="noopener noreferrer" target="_blank">揭示出外卖平台如何通过复杂的法律关系推卸掉对于骑手的法律责任</a>；而王飞律师则为蒙受杀人冤屈的张玉环辩护−−2020年8月该案终于得到江西省高院改判；因证据不足，失去自由9778天后的张玉环被无罪释放。</p>
+  <p>中国数字时代 CDT 致力于记录和传播中文互联网上被审查的信息，以及人们与审查对抗的努力。欢迎大家通过<a href="https://t.me/cdtmedia_bot" rel="noopener noreferrer" target="_blank">电报(Telegram)平台</a> 向我们投稿，为记录和对抗中国网络审查作出你的贡献！</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/4c134b25-d68d-4f17-b405-b7cdeff1258b.jpeg" data-asset-id="4c134b25-d68d-4f17-b405-b7cdeff1258b" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>了解更多投稿信息，请阅读<a href="https://chinadigitaltimes.net/chinese/telegrambot" rel="noopener noreferrer" target="_blank">中国数字时代征稿说明</a></p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#中国数字时代 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-02-12/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC276%E6%9C%9F-%E5%94%B1%E7%A6%81%E6%AD%8C-%E5%88%B0-%E7%A6%81%E6%AD%A2%E5%90%90%E6%A7%BD-%E8%A7%81%E8%AF%81%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E5%8F%98%E8%BF%81%E7%9A%84%E6%98%A5%E6%99%9A/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2021-12-14/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E4%B8%93%E8%AE%BF-%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3%E5%AF%B9%E8%AF%9D-%E8%A7%A3%E6%9E%84%E6%96%B0%E7%96%86%E9%95%87%E5%8E%8B-%E7%AC%AC%E4%B8%80%E4%BD%9C%E8%80%85%E8%AE%B8%E7%A7%80%E4%B8%AD/">最早</a>--</span>
+    
+      <li>
+        <time>2022-08-17</time>
+        <a href="https://nodebe4.github.io/opinion/2022-08-17/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC151%E6%9C%9F-%E6%AD%A3%E7%BB%9F%E4%B8%AD%E5%9B%BD-%E4%B9%A1%E6%84%81-%E4%B8%8E%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89%E7%8B%82%E6%BD%AE-%E4%B8%AD%E5%9B%BD%E8%88%86%E8%AE%BA%E4%B8%AD%E7%9A%84%E5%8F%B0%E6%B9%BE%E6%BC%94%E5%8F%98/">
+          【404档案馆】第151期：“正统中国”、“乡愁”与民族主义狂潮：中国舆论中的台湾演变
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-08-17</time>
+        <a href="https://nodebe4.github.io/opinion/2022-08-17/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC148%E6%9C%9F-%E6%BB%B4%E6%BB%B4%E5%A4%A9%E4%BB%B7%E7%BD%9A%E5%8D%95%E7%9A%84%E8%83%8C%E5%90%8E-%E4%B8%8D%E6%96%AD%E5%8A%A0%E7%A0%81%E7%9A%84%E6%95%B0%E5%AD%97%E6%9E%81%E6%9D%83/">
+          【404档案馆】第148期：滴滴天价罚单的背后：不断加码的数字极权
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-08-16</time>
+        <a href="https://nodebe4.github.io/opinion/2022-08-16/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC144%E6%9C%9F-%E8%A2%AB%E7%A6%81%E6%AD%A2%E7%8C%AE%E8%8A%B1%E7%9A%84%E9%83%91%E5%B7%9E%E6%B0%B4%E7%81%BE%E4%B8%80%E5%91%A8%E5%B9%B4%E4%B8%8E%E9%82%A3%E4%BA%9B%E4%B8%8D%E8%A2%AB%E5%85%81%E8%AE%B8%E7%9A%84%E7%BA%AA%E5%BF%B5/">
+          【404档案馆】第144期：被禁止献花的郑州水灾一周年与那些不被允许的纪念
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-07-26</time>
+        <a href="https://nodebe4.github.io/opinion/2022-07-26/CDT%E6%9C%88%E5%BA%A6%E8%A7%86%E9%A2%91-%E4%B8%83%E6%9C%88%E4%B9%8B%E5%A3%B0-%E5%90%91-%E5%9B%9B%E6%9C%88%E4%B9%8B%E5%A3%B0-%E8%87%B4%E6%95%AC/">
+          【CDT月度视频】七月之声——向《四月之声》致敬
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-08-17/jenjpan/">
+            前一篇：Twitter @Jennifer Pan: 2022-08-15~2022-08-21
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-08-17/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC148%E6%9C%9F-%E6%BB%B4%E6%BB%B4%E5%A4%A9%E4%BB%B7%E7%BD%9A%E5%8D%95%E7%9A%84%E8%83%8C%E5%90%8E-%E4%B8%8D%E6%96%AD%E5%8A%A0%E7%A0%81%E7%9A%84%E6%95%B0%E5%AD%97%E6%9E%81%E6%9D%83/">
+            後一篇：【404档案馆】第148期：滴滴天价罚单的背后：不断加码的数字极权
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-08-17/jenjpan/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-08-17/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC148%E6%9C%9F-%E6%BB%B4%E6%BB%B4%E5%A4%A9%E4%BB%B7%E7%BD%9A%E5%8D%95%E7%9A%84%E8%83%8C%E5%90%8E-%E4%B8%8D%E6%96%AD%E5%8A%A0%E7%A0%81%E7%9A%84%E6%95%B0%E5%AD%97%E6%9E%81%E6%9D%83/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-08-17/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC148%E6%9C%9F-%E6%BB%B4%E6%BB%B4%E5%A4%A9%E4%BB%B7%E7%BD%9A%E5%8D%95%E7%9A%84%E8%83%8C%E5%90%8E-%E4%B8%8D%E6%96%AD%E5%8A%A0%E7%A0%81%E7%9A%84%E6%95%B0%E5%AD%97%E6%9E%81%E6%9D%83/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-08-16/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC144%E6%9C%9F-%E8%A2%AB%E7%A6%81%E6%AD%A2%E7%8C%AE%E8%8A%B1%E7%9A%84%E9%83%91%E5%B7%9E%E6%B0%B4%E7%81%BE%E4%B8%80%E5%91%A8%E5%B9%B4%E4%B8%8E%E9%82%A3%E4%BA%9B%E4%B8%8D%E8%A2%AB%E5%85%81%E8%AE%B8%E7%9A%84%E7%BA%AA%E5%BF%B5/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-08-17/jenjpan/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-08-17/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC148%E6%9C%9F-%E6%BB%B4%E6%BB%B4%E5%A4%A9%E4%BB%B7%E7%BD%9A%E5%8D%95%E7%9A%84%E8%83%8C%E5%90%8E-%E4%B8%8D%E6%96%AD%E5%8A%A0%E7%A0%81%E7%9A%84%E6%95%B0%E5%AD%97%E6%9E%81%E6%9D%83/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<中国数字时代>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-08-17/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC148%E6%9C%9F-%E6%BB%B4%E6%BB%B4%E5%A4%A9%E4%BB%B7%E7%BD%9A%E5%8D%95%E7%9A%84%E8%83%8C%E5%90%8E-%E4%B8%8D%E6%96%AD%E5%8A%A0%E7%A0%81%E7%9A%84%E6%95%B0%E5%AD%97%E6%9E%81%E6%9D%83/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<中国数字时代>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-08-16/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC144%E6%9C%9F-%E8%A2%AB%E7%A6%81%E6%AD%A2%E7%8C%AE%E8%8A%B1%E7%9A%84%E9%83%91%E5%B7%9E%E6%B0%B4%E7%81%BE%E4%B8%80%E5%91%A8%E5%B9%B4%E4%B8%8E%E9%82%A3%E4%BA%9B%E4%B8%8D%E8%A2%AB%E5%85%81%E8%AE%B8%E7%9A%84%E7%BA%AA%E5%BF%B5/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

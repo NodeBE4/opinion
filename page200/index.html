@@ -1,0 +1,2243 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="從草根到大師 git.io/JJCxS">
+    <meta property="og:description" content="從草根到大師 git.io/JJCxS" />
+    
+    <meta name="author" content="觀點" />
+
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fnodebe4.github.io%2Fopinion%2Fpage200%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://nodebe4.github.io/opinion/page200/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://nodebe4.github.io/opinion/page200/&text=觀點-從草根到大師 git.io/JJCxS&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://nodebe4.github.io/opinion/page200/&title=觀點-從草根到大師 git.io/JJCxS" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://nodebe4.github.io/opinion/page200/&title=觀點-從草根到大師 git.io/JJCxS" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=觀點-從草根到大師 git.io/JJCxS&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://nodebe4.github.io/opinion/page200/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://nodebe4.github.io/opinion/page200/&title=觀點-從草根到大師 git.io/JJCxS&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=觀點-從草根到大師 git.io/JJCxS&url=https://nodebe4.github.io/opinion/page200/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+<ul class="archive">
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-11-04/Grantland_and_the_(Surprising)_Future_of_Publishing/">
+      
+        Grantland and the (Surprising) Future of Publishing
+      </a>
+      <time>2015-11-04</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: Ben Thompson</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#Stratechery" class="tag">
+        Stratechery
+      </a>
+      
+
+      
+      <a href="https://stratechery.com/2015/grantland-and-the-surprising-future-of-publishing/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-11-03/%E8%A1%8C%E6%94%BF%E9%83%A8%E9%97%A8%E9%85%8D%E7%BD%AE%E8%B5%84%E6%BA%90%E7%9A%84%E6%95%88%E7%8E%87%E4%B8%8E%E5%85%AC%E6%AD%A3%E7%A0%94%E7%A9%B6%E6%80%BB%E6%8A%A5%E5%91%8A-%E6%95%99%E8%82%B2/">
+      
+        行政部门配置资源的效率与公正研究总报告（教育）
+      </a>
+      <time>2015-11-03</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 天则公共报告</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#天则经济研究所" class="tag">
+        天则经济研究所
+      </a>
+      
+
+      
+      <a href="http://unirule.cloud/index.php?c=article&id=4648" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-11-03/%E8%91%9B%E5%85%86%E5%85%89-%E4%B8%AD%E5%9B%BD%E6%98%AF%E7%8E%B0%E4%BB%A3%E6%B0%91%E6%97%8F%E5%9B%BD%E5%AE%B6%E5%92%8C%E4%BC%A0%E7%BB%9F%E5%B8%9D%E5%9B%BD%E7%9A%84%E6%B7%B7%E5%90%88%E4%BD%93/">
+      
+        葛兆光：中国是现代民族国家和传统帝国的混合体
+      </a>
+      <time>2015-11-03</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 王菁</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#政見" class="tag">
+        政見
+      </a>
+      
+
+      
+      <a href="http://cnpolitics.org/2015/11/china_nationalism_empire_mixture/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-11-03/%E7%9B%9B%E6%B4%AA-%E5%9B%BD-%E5%AD%97%E5%83%AD%E7%A7%B0-%E4%BC%81-%E5%9B%BE%E4%BD%95%E4%B8%BA/">
+      
+        盛洪：“国”字僭称，“企”图何为？
+      </a>
+      <time>2015-11-03</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 盛洪</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#天则观点" class="tag">
+        天则观点
+      </a>
+      
+
+      
+      <a href="http://unirule.cloud/index.php?c=article&id=3946" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-11-02/%E5%BC%A0-%E6%9E%97-%E5%A4%A7%E6%AC%BE%E5%A4%96%E4%BA%A4-%E7%9A%84%E5%B1%80%E9%99%90%E5%92%8C%E8%B4%9F%E9%9D%A2/">
+      
+        张 林：“大款外交”的局限和负面
+      </a>
+      <time>2015-11-02</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 张林</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#天则观点" class="tag">
+        天则观点
+      </a>
+      
+
+      
+      <a href="http://unirule.cloud/index.php?c=article&id=3943" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-11-02/%E5%A5%B3%E8%80%81%E6%9D%BF%E8%B6%8A%E5%A4%9A-%E5%85%AC%E5%8F%B8%E8%B6%8A%E6%8C%A3%E9%92%B1/">
+      
+        女老板越多，公司越挣钱？
+      </a>
+      <time>2015-11-02</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 奚应红</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#政見" class="tag">
+        政見
+      </a>
+      
+
+      
+      <a href="http://cnpolitics.org/2015/11/women-directors/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-11-01/%E6%AF%8F%E5%91%A8%E8%BD%AC%E8%BD%BD-%E5%85%B3%E4%BA%8E-%E5%85%A8%E9%9D%A2%E6%94%BE%E5%BC%80%E4%BA%8C%E5%AD%A9-%E5%92%8C-%E5%A5%87%E8%91%A9%E7%9A%84%E8%AE%A1%E7%94%9F%E6%94%BF%E7%AD%96-%E5%90%84%E6%96%B9%E6%8A%A5%E9%81%93%E5%8F%8A%E7%BD%91%E5%8F%8B%E8%AF%84%E8%AE%BA/">
+      
+        每周转载：关于“全面放开二孩”和“奇葩的计生政策”（各方报道及网友评论）
+      </a>
+      <time>2015-11-01</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#编程随想" class="tag">
+        编程随想
+      </a>
+      
+
+      
+      <a href="https://program-think.blogspot.com/2015/11/weekly-share-93.html" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+      <h2>2015年10月</h2>
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-10-29/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2%E7%9C%9F%E7%9A%84%E5%B8%A6%E6%9D%A5%E4%BA%86%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%8F%A3%E7%B4%A0%E8%B4%A8%E7%9A%84%E6%8F%90%E5%8D%87%E5%90%97/">
+      
+        计划生育真的带来了中国人口素质的提升吗？
+      </a>
+      <time>2015-10-29</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 陈铎川</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#政見" class="tag">
+        政見
+      </a>
+      
+
+      
+      <a href="http://cnpolitics.org/2015/10/one-child-policy/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-10-29/%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E6%97%B6%E4%BB%A3%E7%9A%84%E6%96%B0%E9%97%BB-%E5%AA%92%E4%BD%93%E6%9B%B4%E5%AE%B9%E6%98%93%E7%8A%AF%E9%94%99-%E8%AF%BB%E8%80%85%E6%9B%B4%E7%A7%AF%E6%9E%81%E7%BA%A0%E9%94%99/">
+      
+        社交媒体时代的新闻：媒体更容易犯错，读者更积极纠错
+      </a>
+      <time>2015-10-29</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 特约作者</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#政見" class="tag">
+        政見
+      </a>
+      
+
+      
+      <a href="http://cnpolitics.org/2015/10/impact-of-technology-on-journalism/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-10-28/%E5%85%B3%E7%B3%BB-%E5%9C%A8%E6%89%BE%E5%B7%A5%E4%BD%9C%E4%B8%AD%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7%E6%9C%89%E5%A2%9E%E6%97%A0%E5%87%8F/">
+      
+        “关系”在找工作中的重要性有增无减
+      </a>
+      <time>2015-10-28</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 张友浪</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#政見" class="tag">
+        政見
+      </a>
+      
+
+      
+      <a href="http://cnpolitics.org/2015/10/job-mobility-in-urban-china/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-10-27/%E8%87%AA%E5%B9%B2%E4%BA%94-%E4%BB%AC%E7%9A%84%E8%AE%BA%E6%88%98%E7%AD%96%E7%95%A5%E5%92%8C%E8%BA%AB%E4%BB%BD%E8%AE%A4%E5%90%8C/">
+      
+        “自干五”们的论战策略和身份认同
+      </a>
+      <time>2015-10-27</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 刘冬舒</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#政見" class="tag">
+        政見
+      </a>
+      
+
+      
+      <a href="http://cnpolitics.org/2015/10/50_cents_self_identity/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-10-26/%E6%89%AB%E7%9B%B2-dm-crypt-%E5%A4%9A%E5%8A%9F%E8%83%BD-Linux-%E7%A3%81%E7%9B%98%E5%8A%A0%E5%AF%86%E5%B7%A5%E5%85%B7-%E5%85%BC%E5%AE%B9-TrueCrypt-%E5%92%8C-VeraCrypt/">
+      
+        扫盲 dm-crypt——多功能 Linux 磁盘加密工具（兼容 TrueCrypt 和 VeraCrypt）
+      </a>
+      <time>2015-10-26</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#编程随想" class="tag">
+        编程随想
+      </a>
+      
+
+      
+      <a href="https://program-think.blogspot.com/2015/10/dm-crypt-cryptsetup.html" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-10-26/%E5%A6%82%E4%BD%95%E5%BB%BA%E8%AE%BE%E4%B8%80%E6%B5%81%E5%A4%A7%E5%AD%A6-%E6%9D%A5%E8%87%AA%E7%BE%8E%E5%9B%BD%E5%85%AC%E7%AB%8B%E5%A4%A7%E5%AD%A6%E7%9A%84%E7%BB%8F%E9%AA%8C/">
+      
+        如何建设一流大学？来自美国公立大学的经验
+      </a>
+      <time>2015-10-26</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 张友浪</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#政見" class="tag">
+        政見
+      </a>
+      
+
+      
+      <a href="http://cnpolitics.org/2015/10/public-university/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-10-23/%E5%86%9C%E6%B0%91%E5%B7%A5%E5%AD%90%E5%BC%9F%E5%AD%A6%E6%A0%A1%E7%9A%84%E5%B0%B4%E5%B0%AC%E7%8E%B0%E5%AE%9E-%E5%85%A5%E5%AD%A6%E6%97%B6%E9%97%B4%E8%B6%8A%E9%95%BF-%E5%AD%A6%E7%94%9F%E8%A1%A8%E7%8E%B0%E8%B6%8A%E7%B3%9F/">
+      
+        农民工子弟学校的尴尬现实：入学时间越长，学生表现越糟
+      </a>
+      <time>2015-10-23</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 陈铎川</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#政見" class="tag">
+        政見
+      </a>
+      
+
+      
+      <a href="http://cnpolitics.org/2015/10/educationmigrantchildren/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-10-23/%E4%B8%AD%E7%BE%8E%E6%AC%A7%E4%BC%81%E4%B8%9A%E5%AE%B6%E7%B2%BE%E7%A5%9E%E5%A6%82%E4%BD%95%E4%BF%83%E8%BF%9B%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF-%E5%85%A8%E7%90%83%E4%BC%81%E4%B8%9A%E5%AE%B6%E7%B2%BE%E7%A5%9E%E7%9B%91%E6%B5%8B%E7%A0%94%E7%A9%B6%E5%88%86%E6%9E%90/">
+      
+        中美欧企业家精神如何促进经济增长：全球企业家精神监测研究分析
+      </a>
+      <time>2015-10-23</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: Pontus Braunerhjelm</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#天则双周论坛" class="tag">
+        天则双周论坛
+      </a>
+      
+
+      
+      <a href="http://unirule.cloud/index.php?c=article&id=3954" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-10-22/%E5%A8%81%E6%9D%83%E5%9B%BD%E5%AE%B6%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%AE%BE%E8%AE%AE%E4%BC%9A-%E5%8F%AF%E4%BB%A5%E7%94%A8%E6%9D%A5%E6%94%B6%E4%B9%B0%E5%8F%8D%E5%AF%B9%E5%85%9A/">
+      
+        威权国家为什么要设议会？可以用来收买反对党
+      </a>
+      <time>2015-10-22</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 李泽人</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#政見" class="tag">
+        政見
+      </a>
+      
+
+      
+      <a href="http://cnpolitics.org/2015/10/legislatures-cooptation-and-social-protest/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-10-21/In_Defense_of_The_New_York_Times/">
+      
+        In Defense of The New York Times
+      </a>
+      <time>2015-10-21</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: Ben Thompson</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#Stratechery" class="tag">
+        Stratechery
+      </a>
+      
+
+      
+      <a href="https://stratechery.com/2015/in-defense-of-the-new-york-times/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-10-21/%E4%BA%BA%E6%B0%91%E5%B8%81%E5%9B%BD%E9%99%85%E5%8C%96-%E7%A9%B6%E7%AB%9F%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D-%E4%B8%AD%E5%9B%BD%E5%87%86%E5%A4%87%E5%A5%BD%E4%BA%86%E5%90%97/">
+      
+        “人民币国际化”究竟是什么意思？中国准备好了吗？
+      </a>
+      <time>2015-10-21</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 宿亮</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#政見" class="tag">
+        政見
+      </a>
+      
+
+      
+      <a href="http://cnpolitics.org/2015/10/rmb-internationalization/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-10-19/%E7%A7%91%E5%AD%A6%E6%98%AF%E4%BB%80%E4%B9%88-%E5%85%BC%E8%B0%88-%E9%9D%9E%E7%A7%91%E5%AD%A6-%E4%BC%AA%E7%A7%91%E5%AD%A6-%E5%8F%8D%E7%A7%91%E5%AD%A6-%E5%92%8C%E4%B8%80%E4%BA%9B%E5%B8%B8%E8%A7%81%E8%B0%AC%E8%AF%AF/">
+      
+        科学是什么？——兼谈“非科学、伪科学、反科学”和一些常见谬误
+      </a>
+      <time>2015-10-19</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#编程随想" class="tag">
+        编程随想
+      </a>
+      
+
+      
+      <a href="https://program-think.blogspot.com/2015/10/What-is-Science.html" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-10-19/%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E6%A1%88%E4%BB%B6%E4%BC%9A%E4%BB%8E%E5%AE%BD-%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E6%A1%88%E4%BB%B6%E4%BC%9A%E4%BB%8E%E4%B8%A5/">
+      
+        什么样的案件会从宽，什么样的案件会从严？
+      </a>
+      <time>2015-10-19</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 武卓韵</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#政見" class="tag">
+        政見
+      </a>
+      
+
+      
+      <a href="http://cnpolitics.org/2015/10/law/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-10-18/%E4%BB%8E%E6%94%BF%E4%B9%8B%E8%B7%AF-%E7%94%B7%E5%A5%B3%E6%9C%89%E5%88%AB-%E5%A5%B3%E6%80%A7%E6%9B%B4%E5%AE%B9%E6%98%93%E6%8E%A5%E6%89%8B%E7%83%82%E6%91%8A%E5%AD%90-%E7%84%B6%E5%90%8E%E8%A2%AB%E6%92%A4%E6%8D%A2/">
+      
+        从政之路，男女有别：女性更容易接手烂摊子，然后被撤换
+      </a>
+      <time>2015-10-18</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 刘冬舒</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#政見" class="tag">
+        政見
+      </a>
+      
+
+      
+      <a href="http://cnpolitics.org/2015/10/female_politician_replaced/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-10-17/%E6%80%8E%E6%A0%B7%E7%94%A8%E7%BB%8F%E6%B5%8E%E5%AD%A6%E6%8A%93%E8%80%83%E8%AF%95%E4%BD%9C%E5%BC%8A/">
+      
+        怎样用经济学抓考试作弊？
+      </a>
+      <time>2015-10-17</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 王也</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#政見" class="tag">
+        政見
+      </a>
+      
+
+      
+      <a href="http://cnpolitics.org/2015/10/%e6%80%8e%e6%a0%b7%e7%94%a8%e7%bb%8f%e6%b5%8e%e5%ad%a6%e6%8a%93%e8%80%83%e8%af%95%e4%bd%9c%e5%bc%8a%ef%bc%9f/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-10-17/%E5%85%B3%E7%B3%BB%E8%BF%98%E6%98%AF%E8%83%BD%E5%8A%9B-%E5%88%B0%E5%BA%95%E4%BD%95%E8%80%85%E6%89%8D%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%9C%BA%E7%9A%84%E5%8D%87%E8%BF%81%E4%B9%8B%E9%81%93/">
+      
+        关系还是能力：到底何者才是中国官场的升迁之道？
+      </a>
+      <time>2015-10-17</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 张友浪</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#政見" class="tag">
+        政見
+      </a>
+      
+
+      
+      <a href="http://cnpolitics.org/2015/10/politicalselectioninchina/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-10-15/%E8%80%81%E6%9D%BF%E8%B6%8A%E8%87%AA%E6%81%8B-%E5%85%AC%E5%8F%B8%E5%B0%B1%E8%B6%8A%E6%88%90%E5%8A%9F%E5%90%97/">
+      
+        老板越自恋，公司就越成功吗？
+      </a>
+      <time>2015-10-15</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 特约作者</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#政見" class="tag">
+        政見
+      </a>
+      
+
+      
+      <a href="http://cnpolitics.org/2015/10/ceo-narcissism/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-10-15/%E5%BC%A0%E6%9B%99%E5%85%89-%E4%B8%89%E7%AE%AD%E9%BD%90%E5%8F%91-%E6%AC%B2%E6%84%8F%E4%BD%95%E4%B8%BA-%E7%AE%80%E8%AF%84%E5%AF%B9%E5%A4%A7%E5%8D%88%E9%9B%86%E5%9B%A2%E7%9A%84%E5%93%84%E6%8A%A2-%E5%A0%B5%E8%B7%AF-%E8%AF%89%E8%AE%BC%E4%BA%8B%E4%BB%B6/">
+      
+        张曙光：三箭齐发，欲意何为？——简评对大午集团的哄抢、堵路、诉讼事件
+      </a>
+      <time>2015-10-15</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 张曙光 天则经济研究所学术委员会主席</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#天则观点" class="tag">
+        天则观点
+      </a>
+      
+
+      
+      <a href="http://unirule.cloud/index.php?c=article&id=3927" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-10-14/Venture_Capital_and_the_Internets_Impact/">
+      
+        Venture Capital and the Internet’s Impact
+      </a>
+      <time>2015-10-14</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: Ben Thompson</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#Stratechery" class="tag">
+        Stratechery
+      </a>
+      
+
+      
+      <a href="https://stratechery.com/2015/venture-capital-and-the-internets-impact/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-10-14/%E5%8E%86%E5%8F%B2%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E7%9A%84-%E9%95%9C%E5%AD%90-%E5%90%97/">
+      
+        历史是中国外交的“镜子”吗？
+      </a>
+      <time>2015-10-14</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 宿亮</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#政見" class="tag">
+        政見
+      </a>
+      
+
+      
+      <a href="http://cnpolitics.org/2015/10/history/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-10-14/%E4%BD%99%E5%A4%A7%E7%AB%A0-%E5%BF%B5%E6%9D%9C%E8%80%81/">
+      
+        余大章：念杜老！
+      </a>
+      <time>2015-10-14</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 余大章 天则经济研究所学术部主任</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#天则观点" class="tag">
+        天则观点
+      </a>
+      
+
+      
+      <a href="http://unirule.cloud/index.php?c=article&id=3925" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-10-13/%E8%8C%85%E4%BA%8E%E8%BD%BC-%E6%82%BC%E5%BF%B5%E6%9D%9C%E6%B6%A6%E7%94%9F/">
+      
+        茅于轼 ：悼念杜润生
+      </a>
+      <time>2015-10-13</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 茅于轼 天则经济研究所荣誉理事长</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#天则观点" class="tag">
+        天则观点
+      </a>
+      
+
+      
+      <a href="http://unirule.cloud/index.php?c=article&id=3924" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-10-13/%E7%9B%91%E7%AE%A1%E6%9D%83%E4%B8%8B%E6%94%BE-%E5%AF%BC%E8%87%B4%E7%85%A4%E7%9F%BF%E7%99%BE%E4%B8%87%E5%90%A8%E6%AD%BB%E4%BA%A1%E7%8E%87%E6%8F%90%E9%AB%9825/">
+      
+        监管权下放，导致煤矿百万吨死亡率提高25%
+      </a>
+      <time>2015-10-13</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 马亮</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#政見" class="tag">
+        政見
+      </a>
+      
+
+      
+      <a href="http://cnpolitics.org/2015/10/25_higher_motality_rate_of_coal_mine/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-10-13/%E5%BC%A0%E6%9B%99%E5%85%89-%E6%B6%88%E9%99%A4%E5%B8%82%E5%9C%BA%E6%89%AD%E6%9B%B2-%E6%94%B9%E5%96%84%E7%AB%9E%E4%BA%89%E7%A7%A9%E5%BA%8F-%E7%AE%80%E8%AF%84-%E4%B8%AD%E5%9B%BD%E6%B0%91%E8%90%A5%E4%BC%81%E4%B8%9A%E7%94%9F%E5%AD%98%E5%92%8C%E5%8F%91%E5%B1%95%E7%8E%AF%E5%A2%83%E6%8C%87%E6%95%B0/">
+      
+        张曙光：消除市场扭曲，改善竞争秩序――简评《中国民营企业生存和发展环境指数》
+      </a>
+      <time>2015-10-13</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 张曙光  天则经济研究所学术委员会主席</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#天则观点" class="tag">
+        天则观点
+      </a>
+      
+
+      
+      <a href="http://unirule.cloud/index.php?c=article&id=3923" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-10-12/%E5%9B%A0%E4%B8%BA%E6%9C%89%E4%BA%86%E7%BB%8F%E6%B5%8E%E5%AD%A6-%E4%BA%BA%E7%B1%BB%E6%89%8D%E5%8F%98%E5%BE%97%E7%90%86%E6%80%A7/">
+      
+        因为有了经济学，人类才变得理性？
+      </a>
+      <time>2015-10-12</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 张跃然</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#政見" class="tag">
+        政見
+      </a>
+      
+
+      
+      <a href="http://cnpolitics.org/2015/10/economic/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-10-11/%E4%B8%AD%E5%9B%BD%E5%8F%B8%E6%B3%95%E8%B0%83%E8%A7%A3%E7%BC%98%E4%BD%95%E9%9A%BE%E4%BB%A5-%E5%A6%82%E6%84%8F/">
+      
+        中国司法调解缘何难以“如意”？
+      </a>
+      <time>2015-10-11</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 杨鸣宇</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#政見" class="tag">
+        政見
+      </a>
+      
+
+      
+      <a href="http://cnpolitics.org/2015/10/contradiction-of-judicial-mediation/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-10-10/%E5%BA%9F%E9%99%A4%E7%A7%91%E4%B8%BE%E5%8A%A0%E9%80%9F%E6%B8%85%E6%9C%9D%E7%81%AD%E4%BA%A1/">
+      
+        废除科举加速清朝灭亡？
+      </a>
+      <time>2015-10-10</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 王绍达</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#政見" class="tag">
+        政見
+      </a>
+      
+
+      
+      <a href="http://cnpolitics.org/2015/10/chinas-civil-service-exam/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-10-10/%E7%90%86%E6%80%A7%E9%80%89%E6%B0%91-%E6%98%AF%E4%B8%AA%E7%A5%9E%E8%AF%9D%E5%90%97/">
+      
+        “理性选民” 是个神话吗？
+      </a>
+      <time>2015-10-10</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 王也</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#政見" class="tag">
+        政見
+      </a>
+      
+
+      
+      <a href="http://cnpolitics.org/2015/10/voterrationality/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-10-09/%E6%89%AB%E7%9B%B2-VeraCrypt-%E8%B7%A8%E5%B9%B3%E5%8F%B0%E7%9A%84-TrueCrypt-%E6%9B%BF%E4%BB%A3%E5%93%81/">
+      
+        扫盲 VeraCrypt——跨平台的 TrueCrypt 替代品
+      </a>
+      <time>2015-10-09</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#编程随想" class="tag">
+        编程随想
+      </a>
+      
+
+      
+      <a href="https://program-think.blogspot.com/2015/10/VeraCrypt.html" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-10-09/%E8%A7%A3%E5%AF%86%E6%97%B6%E5%88%BB-%E5%BF%97%E6%84%BF%E5%86%9B%E6%88%98%E4%BF%98-%E4%B8%80-%E6%88%98%E5%9C%B0%E4%BD%99%E7%94%9F/">
+      
+        解密时刻：志愿军战俘（一） 战地余生
+      </a>
+      <time>2015-10-09</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 美国之音中文网</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#李肃Hi5" class="tag">
+        李肃Hi5
+      </a>
+      
+
+      
+      <a href="https://www.youtube.com/watch?v=f9EkfJcnisk" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-10-09/%E8%8C%85%E4%BA%8E%E8%BD%BC-%E9%87%91%E8%9E%8D%E4%B8%9A%E7%9A%84%E5%8A%9F%E8%83%BD%E6%98%AF%E4%BB%80%E4%B9%88/">
+      
+        茅于轼：金融业的功能是什么？
+      </a>
+      <time>2015-10-09</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 天则经济研究所荣誉理事长  茅于轼</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#天则观点" class="tag">
+        天则观点
+      </a>
+      
+
+      
+      <a href="http://unirule.cloud/index.php?c=article&id=3922" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-10-09/%E7%BB%B4%E6%9D%83VS%E7%BB%B4%E7%A8%B3-%E7%AC%AC%E4%B8%89%E8%BD%AE%E5%8F%B8%E6%B3%95%E6%94%B9%E9%9D%A9%E4%B8%8E%E7%A4%BE%E4%BC%9A%E7%A7%A9%E5%BA%8F%E8%BD%AC%E5%9E%8B/">
+      
+        维权VS维稳，第三轮司法改革与社会秩序转型
+      </a>
+      <time>2015-10-09</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 李轩</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#天则双周论坛" class="tag">
+        天则双周论坛
+      </a>
+      
+
+      
+      <a href="http://unirule.cloud/index.php?c=article&id=3934" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-10-08/%E7%BD%91%E7%BB%9C%E6%8E%A8%E5%8A%A8%E6%94%BF%E5%BA%9C%E5%9B%9E%E5%BA%94%E6%B0%91%E6%84%8F/">
+      
+        网络推动政府回应民意？
+      </a>
+      <time>2015-10-08</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 马亮</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#政見" class="tag">
+        政見
+      </a>
+      
+
+      
+      <a href="http://cnpolitics.org/2015/10/government-responsiveness/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-10-07/Twitters_Moment/">
+      
+        Twitter’s Moment
+      </a>
+      <time>2015-10-07</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: Ben Thompson</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#Stratechery" class="tag">
+        Stratechery
+      </a>
+      
+
+      
+      <a href="https://stratechery.com/2015/twitters-moment/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-10-07/%E4%B8%AD%E5%8C%BB%E7%83%AD-%E4%B8%80%E5%9C%BA%E5%85%B3%E4%BA%8E%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E7%9A%84%E4%BA%89%E8%AE%BA/">
+      
+        “中医热”：一场关于意识形态的争论？
+      </a>
+      <time>2015-10-07</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 奚应红</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#政見" class="tag">
+        政見
+      </a>
+      
+
+      
+      <a href="http://cnpolitics.org/2015/10/nobel-price/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-10-06/TPP%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%86%B2%E5%87%BB%E8%BF%9C%E4%B8%8D%E6%AD%A2%E4%BA%8E%E7%BB%8F%E6%B5%8E/">
+      
+        TPP对中国的冲击远不止于经济
+      </a>
+      <time>2015-10-06</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 特约作者</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#政見" class="tag">
+        政見
+      </a>
+      
+
+      
+      <a href="http://cnpolitics.org/2015/10/tpp-china/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-10-05/%E8%A7%A3%E5%AF%86%E6%97%B6%E5%88%BB-%E5%BF%97%E6%84%BF%E5%86%9B%E6%88%98%E4%BF%98(%E9%A2%84%E5%91%8A%E7%89%87)/">
+      
+        解密时刻：志愿军战俘(预告片)
+      </a>
+      <time>2015-10-05</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 美国之音中文网</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#李肃Hi5" class="tag">
+        李肃Hi5
+      </a>
+      
+
+      
+      <a href="https://www.youtube.com/watch?v=uByPL8BbIaI" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-10-05/%E6%B2%88%E6%98%8E-%E6%B3%95%E5%AD%A6%E9%99%A2%E7%9A%84%E7%94%9F%E6%84%8F-%E4%B8%80-%E7%BE%8E%E5%9B%BD%E6%B3%95%E5%BE%8B%E6%95%99%E8%82%B2%E5%9B%B0%E5%A2%83%E7%9A%84%E5%88%B6%E5%BA%A6%E5%88%86%E6%9E%90/">
+      
+        沈明：法学院的生意（一）：美国法律教育困境的制度分析
+      </a>
+      <time>2015-10-05</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 沈明</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#智识" class="tag">
+        智识
+      </a>
+      
+
+      
+      <a href="http://www.ideobook.com/2398/law-school-business-1-institutional-analysis-plight-american-legal-education/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-10-05/%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E6%97%A5%E6%9C%AC%E6%96%B0%E5%AE%89%E4%BF%9D%E6%B3%95%E6%A1%88%E4%B8%8E%E4%BF%AE%E5%AE%AA%E4%BA%8B%E4%B8%9A/">
+      
+        如何理解日本新安保法案与修宪事业？
+      </a>
+      <time>2015-10-05</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 尹月</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#政見" class="tag">
+        政見
+      </a>
+      
+
+      
+      <a href="http://cnpolitics.org/2015/10/japan-2/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-10-04/%E5%8D%9A%E5%AE%A2%E5%85%A8%E7%A8%8B%E5%90%AF%E7%94%A8-HTTPS-%E5%8A%A0%E5%AF%86/">
+      
+        博客全程启用 HTTPS 加密
+      </a>
+      <time>2015-10-04</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#编程随想" class="tag">
+        编程随想
+      </a>
+      
+
+      
+      <a href="https://program-think.blogspot.com/2015/10/Blog-Enable-HTTPS.html" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-10-04/%E6%94%BF%E8%A7%81%E4%BC%97%E5%8C%85%E7%BF%BB%E8%AF%91%E8%AE%A1%E5%88%92-%E4%B8%80%E8%B5%B7%E6%9D%A5%E7%BF%BB%E8%AF%91%E8%8B%B1%E6%96%87%E5%AD%A6%E6%9C%AF%E8%91%97%E4%BD%9C%E5%90%A7/">
+      
+        政见众包翻译计划 | 一起来翻译英文学术著作吧
+      </a>
+      <time>2015-10-04</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 政见</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#政見" class="tag">
+        政見
+      </a>
+      
+
+      
+      <a href="http://cnpolitics.org/2015/10/translation-project/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-10-03/%E8%AE%BA%E6%96%87%E6%A0%87%E9%A2%98%E8%BF%99%E4%B9%88%E5%8F%96-%E5%BC%95%E7%94%A8%E7%8E%87%E4%B8%8D%E9%AB%98%E6%89%8D%E6%80%AA/">
+      
+        论文标题这么取，引用率不高才怪
+      </a>
+      <time>2015-10-03</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 于灵歌</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#政見" class="tag">
+        政見
+      </a>
+      
+
+      
+      <a href="http://cnpolitics.org/2015/10/paper-titles/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2015-10-03/%E5%B8%82%E5%9C%BA%E5%A4%A7%E6%BD%AE%E4%B8%AD-%E9%93%81%E9%A5%AD%E7%A2%97-%E4%BB%8D%E5%9C%A8-%E5%8F%AA%E6%98%AF%E7%BC%96%E5%88%B6%E5%86%85%E5%A4%96%E6%9C%89%E5%A4%A9%E5%A3%A4%E4%B9%8B%E5%88%AB/">
+      
+        市场大潮中 “铁饭碗” 仍在，只是编制内外有天壤之别
+      </a>
+      <time>2015-10-03</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 杨天兆</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#政見" class="tag">
+        政見
+      </a>
+      
+
+      
+      <a href="http://cnpolitics.org/2015/10/postsocialistaspirationdanwei/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+
+</ul>
+
+<div class="pagination">
+  
+    <span class="prev">
+      <a href="/opinion/page199/" class="prev">
+        上一页
+      </a>
+    </span>
+  
+  
+    <span class="next">
+      <a href="/opinion/page201/" class="next">
+        下一页
+      </a>
+    </span>
+  
+
+  <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    <a class="fab-action fab-action-1" title="上一页(热键 &#8594;)" href="/opinion/page199/">
+      <i>上</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一页(热键 &#8592;)" href="/opinion/page201/">
+      <i>下</i>
+    </a>
+    
+    
+    
+    
+    
+  </div>
+</div>
+
+
+  <script>
+  /* post pagination keyboard shortcuts */
+  document.body.onkeyup = function(e){
+    if (e.keyCode == '37') { window.location = '/opinion/page199/'; } // left arrow key
+    if (e.keyCode == '39') { window.location = '/opinion/page201/'; } // right arrow key
+  };
+  </script>
+
+</div>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

@@ -1,0 +1,2323 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Spinkcat在2022-04-18~2022-04-24的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Spinkcat在2022-04-18~2022-04-24的言论" />
+    <meta property="twitter:title" content="Spinkcat在2022-04-18~2022-04-24的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FChina_irl%2Fcomments%2Fu6mvwi%2F%E4%B8%BA%E5%95%A5%E6%AF%8F%E6%AC%A1%E5%8F%B0%E6%B9%BE%E8%A2%AB%E5%88%97%E6%88%90%E5%9B%BD%E5%AE%B6%E6%97%B6%E5%9B%BD%E5%86%85%E9%83%BD%E8%A6%81%E5%83%8F%E5%A4%A9%E5%A1%8C%E4%B8%80%E6%A0%B7%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/China_irl/comments/u6mvwi/为啥每次台湾被列成国家时国内都要像天塌一样/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/China_irl/comments/u6mvwi/为啥每次台湾被列成国家时国内都要像天塌一样/&text=Spinkcat在2022-04-18~2022-04-24的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/China_irl/comments/u6mvwi/为啥每次台湾被列成国家时国内都要像天塌一样/&title=Spinkcat在2022-04-18~2022-04-24的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/China_irl/comments/u6mvwi/为啥每次台湾被列成国家时国内都要像天塌一样/&title=Spinkcat在2022-04-18~2022-04-24的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Spinkcat在2022-04-18~2022-04-24的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/China_irl/comments/u6mvwi/为啥每次台湾被列成国家时国内都要像天塌一样/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/China_irl/comments/u6mvwi/为啥每次台湾被列成国家时国内都要像天塌一样/&title=Spinkcat在2022-04-18~2022-04-24的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Spinkcat在2022-04-18~2022-04-24的言论&url=https://old.reddit.com/r/China_irl/comments/u6mvwi/为啥每次台湾被列成国家时国内都要像天塌一样/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Spinkcat在2022-04-18~2022-04-24的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-04-23
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://www.reddit.com/user/Spinkcat/" style="font-size:14px;">作者: Spinkcat</a>
+        </span>
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/China_irl/comments/u6mvwi/为啥每次台湾被列成国家时国内都要像天塌一样/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#1678-为啥每次台湾被列成国家时国内都要像天塌一样-submitted-on-2022-04-19-0437070800" id="markdown-toc-1678-为啥每次台湾被列成国家时国内都要像天塌一样-submitted-on-2022-04-19-0437070800">1678: 为啥每次台湾被列成国家时国内都要像天塌一样, submitted on 2022-04-19 04:37:07+08:00.</a></li>
+  <li><a href="#1679-deleted-by-user-submitted-on-2022-04-22-0217350800" id="markdown-toc-1679-deleted-by-user-submitted-on-2022-04-22-0217350800">1679: [deleted by user], submitted on 2022-04-22 02:17:35+08:00.</a></li>
+  <li><a href="#1680-最近墙内在传明年出境要审批-submitted-on-2022-04-22-0432520800" id="markdown-toc-1680-最近墙内在传明年出境要审批-submitted-on-2022-04-22-0432520800">1680: 最近墙内在传，明年出境要审批, submitted on 2022-04-22 04:32:52+08:00.</a></li>
+  <li><a href="#1681-大人全被拉去强制隔离只有2岁的孩子留在家里听得真是心酸-submitted-on-2022-04-22-1904060800" id="markdown-toc-1681-大人全被拉去强制隔离只有2岁的孩子留在家里听得真是心酸-submitted-on-2022-04-22-1904060800">1681: 大人全被拉去强制隔离，只有2岁的孩子留在家里，听得真是心酸, submitted on 2022-04-22 19:04:06+08:00.</a></li>
+  <li><a href="#1682-赵紫阳为什么被封杀的这么彻底-submitted-on-2022-04-22-1931460800" id="markdown-toc-1682-赵紫阳为什么被封杀的这么彻底-submitted-on-2022-04-22-1931460800">1682: 赵紫阳为什么被封杀的这么彻底？, submitted on 2022-04-22 19:31:46+08:00.</a></li>
+  <li><a href="#1683-90后真的是中国最幸运的一代人-submitted-on-2022-04-23-0613490800" id="markdown-toc-1683-90后真的是中国最幸运的一代人-submitted-on-2022-04-23-0613490800">1683: 90后真的是中国最幸运的一代人, submitted on 2022-04-23 06:13:49+08:00.</a></li>
+</ul>
+
+<h3 id="1678-为啥每次台湾被列成国家时国内都要像天塌一样-submitted-on-2022-04-19-0437070800">1678: <a href="https://old.reddit.com/r/China_irl/comments/u6mvwi/为啥每次台湾被列成国家时国内都要像天塌一样/">为啥每次台湾被列成国家时国内都要像天塌一样</a>, submitted on 2022-04-19 04:37:07+08:00.</h3>
+
+<p>—– <strong>1678.1</strong> —–2022-04-19 04:52:21+08:00:</p>
+
+<p>政府层面，这与中共政权合法性有关，中华人民共和国建政是基于打败蒋介石领导的民国，完成大陆法统，中共默认中国法统只有一个且绝对的合法政权，但合法性此消彼长，中华民国依然称号在南，在单一绝对性法统下，有这个没那个。</p>
+
+<p>所以同样在民间看来，承认台湾是国家，表层逻辑是台湾脱离中国一部分，但深层逻辑意味着中国法统未统一，哪怕被叫做台湾，而不是中华民国，法统地位也不稳固，给了否定中华人民共和国存在合理性，提供了解释空间。</p>
+
+<h3 id="1679-deleted-by-user-submitted-on-2022-04-22-0217350800">1679: <a href="https://old.reddit.com/r/China_irl/comments/u8txsa/deleted_by_user/">[deleted by user]</a>, submitted on 2022-04-22 02:17:35+08:00.</h3>
+
+<p>—– <strong>1679.1</strong> —–2022-04-22 10:09:39+08:00:</p>
+
+<p>虎 门 销 烟</p>
+
+<h3 id="1680-最近墙内在传明年出境要审批-submitted-on-2022-04-22-0432520800">1680: <a href="https://old.reddit.com/r/China_irl/comments/u8wvlo/最近墙内在传明年出境要审批/">最近墙内在传，明年出境要审批</a>, submitted on 2022-04-22 04:32:52+08:00.</h3>
+
+<p>—– <strong>1680.1</strong> —–2022-04-22 10:22:50+08:00:</p>
+
+<p>如果是真的，我估计可能存在两种模式做过渡。</p>
+
+<p>一种是发新类型的护照，对旧护照仍然会允许出境，但是限制逐渐增加，并且慢慢扩大新护照的出境审批效率，对旧护照慢慢找各种理由不给过，明着告诉你没问题，实际你去就一大堆破事，你看现在防疫政策就类似，很多明面告诉你可以的，实际到基层管理，都不允许你做，你说上面讲可以，基层就跟你扯皮，你只能认栽。</p>
+
+<p>另一种是对新护照的审批越来越少，形成实际上能拿到护照的人，每年不超过二三十万，护照不是人人都可以拿到，其实已经借着疫情风波，大大降低了护照的办理数量，增大了办理难度。</p>
+
+<p>那我觉得明年如果有，可能就是这种政策的延续和改良，不断提高效率，把能拿到护照的人约束在一小部分。</p>
+
+<p>然后发放护照是必须基于有一定官方背景下，比如国企等形式，也就是说公派变成主流，很可能私人渠道的份额越来越少。</p>
+
+<p>办理护照难度开始大规模增加，不是一天两天的消息了，不过谁也不是天天办护照或者出国，不出去旅游，我都不知道护照具体怎么运作的情况，没法实时跟进这个消息，所以温水煮青蛙也容易。</p>
+
+<p>无非是两个阶段，先提高获得护照的门槛，但护照该出还是能出，然后收紧护照出境的权力，出去也有门槛。</p>
+
+<p>这样一进一出门槛都抓紧了，就容易控制许多。官方不会闭关锁国的逻辑，是基于行政成本与经济问题，但如果闭关锁国的受益大于这些，国内矛盾在官方看来到白热化边缘，就肯定会不惜代价做这些大家都知道是搬石头砸脚的行为，这就是他们看起来不可理喻但都有原因的动机逻辑。</p>
+
+<p>—– <strong>1680.2</strong> —–2022-04-23 00:31:12+08:00:</p>
+
+<p>政府面临下台危机，即将改朝换代，比起丢权丢性命，让人们随意可以流动外逃，完全控制国家，一切走向军管都是可能的，毕竟能续一天是一天，因为下台就不止是丢失权力或坐牢，而是大概率要被族灭，这种代价下，他们不会冒任何风险。</p>
+
+<p>所以大多数平民视角是政府胡搞乱搞不想过日子了，并且基于这种视角产生困惑，政府内的既得利益贵族集团视角，则是认为社会矛盾迟早迎来总爆发，也是要混乱不堪，那为什么不提前重拳出击，让优势在我，免得下台清算被族灭呢？</p>
+
+<p>—– <strong>1680.3</strong> —–2022-04-25 01:28:42+08:00:</p>
+
+<p>因为六四定了一个基调，当局会用最暴力的方法，不顾一切底线去消灭可能威胁他们地位与权力的任何人。</p>
+
+<p>作为大多数的平民之一，你是没有任何机会去跟他们讲道理的，逻辑上跟清朝你说让皇帝退位，那朝廷就是要杀你，而且还要用最残忍的方式展示给大家一样，这是打江山坐江山的皇权思维。</p>
+
+<p>不会说你提出这个问题后，当局还会跟你好好相处，相反只要条件允许，就会杀了你，你只有杀光他们，推翻他们，才能避免自己想讲道理而不得，温和改革也不可能，被迫走投无路引颈就戮的这种局面。</p>
+
+<p>这就造成了无论内外，政权下台的问题，就变成了一个零和游戏，完全缺乏商议和讨论的空间。</p>
+
+<p>同样的，既得利益集团更激进的做法，不见棺材不落泪的态度，必然会造成越来越严的管控和暴力斗争的同时，出现大量的血债与仇家。</p>
+
+<p>另外官方一直在试图控制中国每个产业，累积大量的党产去保证对社会的控制力。</p>
+
+<p>那么当一个绝对无法共存的既得利益集团存在时，他们持有极巨量的资产，无论理性还是主观角度，都会有不同团体与个人，出于寻仇或纯粹避免资产流失，对他们进行肉体上的消灭。</p>
+
+<p>尤其是国内非常流行让官员的亲戚代持资产，那假设新政府是在中共血腥镇压立一步步做大建立起来的，肯定会想办法阻止中共残余人员将这笔资产通过亲戚和家族成员流出。</p>
+
+<p>血腥镇压带来的私仇问题，恐怕更难阻止。</p>
+
+<p>甚至党内支持改革的人，也可能支持对前政权死硬派的家族进行剿灭，因为现在政府基调就是，只要不支持中共永远执政，哪怕党内有背景的红二三代，也会变成敌人遭到残酷迫害。</p>
+
+<p>当局没有任何底线的做法，让党内外无论有意与否，大家坐下来和平交流的缓冲区越来越小，因为到最后大家会发现，敌人是不会跟你有任何仁慈的，一旦这种态度成为共识，在未来社会进入大规模动荡和混乱时，清算几乎不可能说因为你是某官员的子女，没直接参与政策决定，就不会被杀。</p>
+
+<p>私怨仇杀这种事，是不问年龄性别身份与所在哪个国家的，新政府清算虽然不会集体枪决，但也不可能追责只局限于担当某个职务的人，亲族必然会因收受利益的缘故统统被收监判刑，又没有司法独立制度或者独立的辩护律师群体，哪怕有，律师们想必到时候都恨透他们。</p>
+
+<p>除非当局自己建立一个和平过渡的机会，否则既要镇压党内改革声音，还要血腥镇压外部早期的温和呼声，到最后只会让矛盾极端化。</p>
+
+<p>—– <strong>1680.4</strong> —–2022-04-27 07:57:42+08:00:</p>
+
+<p>现实最可悲的地方就是，没法按照我们预期的方法安全落地，至少目前中共的做法最终是会奔着一个偏悲剧的结果去的，所以调整我们自身心态，然后积极面对结果再去崛起，可能更有利于未来中国发展。</p>
+
+<p>—– <strong>1680.5</strong> —–2022-06-10 22:22:27+08:00:</p>
+
+<p>基本不可能，朝鲜本身有中国输血尚且难以维持，中国十几亿人口，所需的庞大消费品与能源、就业，都是天文数字，要维持闭关锁国所需的政府资源与人手，也会随着开倒车带来的经济问题无法维系。</p>
+
+<p>它可能很短期的维持一个高压的朝鲜模式，但是坚持不了多久就会因为高层和民间内外矛盾崩溃。</p>
+
+<p>—– <strong>1680.6</strong> —–2022-10-18 04:08:07+08:00:</p>
+
+<p>考虑中国社会的地理特性，有足够大的国土为不同的人提供物理生存空间，以及中共对农村基层失去控制，资本主义下花钱办事的逻辑深入人心，中共很难集中那么大的资源为了社会管制复刻红色高棉。</p>
+
+<p>但集中在特定区域内的管制和屠杀是很有可能出现的，因为他们有资源针对少数地区，不过现代通讯和交通太发达，一旦进入大规模混乱，不可能堵住所有消息，这样做会变相宣告中共失去合法性，丧失人心成为地方割据政权。</p>
+
+<p>—– <strong>1680.7</strong> —–2022-10-19 15:04:16+08:00:</p>
+
+<p>人口其实在短期内问题不大，反而有利于反贼。</p>
+
+<p>如果从武装上看，五十岁以后虽然不是最佳时期，但扣动扳机只需要一根手指。</p>
+
+<p>当然优先目的不是这样做，所以不需要太多考虑。</p>
+
+<p>重点是人口问题不会恶化到那种程度，因为如果说年轻人是生力军，90到10后，到未来二十年仍然是壮年时期。</p>
+
+<p>90后是2.10亿人。</p>
+
+<p>00后跟10后都是1.63亿人，合共约3.26亿。</p>
+
+<p>三代加在一起约5.36亿，现在往后算二十年，最老一批90后是52岁，最年轻的10后是23岁。</p>
+
+<p>出生率下滑和长远老龄化是必然的，不过影响的是未来社会，二十年后中共的管制肯定进入终局阶段，不影响已经出生的人。</p>
+
+<p>反而会给反贼带来优势，因为60-80后的人，从现在开始到二十年后，会非常需要退休金生活。</p>
+
+<p>这恰巧棘手问题被抛给中共，而且还是战后婴儿潮那批，人是最多的。</p>
+
+<p>中共如果想做做样子，不想快速进入一个完全对立的状态，民间兴起吃不上饭养老金和医疗危机热潮，必然要去想办法应对，至少墙内允许讨论的范围，这部分是合理要求，公务员和军队也是要靠这些的，撕破脸连这也要压，那政权本身已经离死不远了。</p>
+
+<p>—– <strong>1680.8</strong> —–2022-10-21 20:36:02+08:00:</p>
+
+<p>政府发不出养老金了，老人会是最先开始闹的，而且比起养老金，子女的未来和家族对多数老人来说是更重要的事，老人占比高，但年轻人也依然有相当高占比，各自有各自革新需求，不矛盾。</p>
+
+<p>—– <strong>1680.9</strong> —–2022-10-23 03:00:10+08:00:</p>
+
+<p>我认为不是信不过，是纯粹习近平打算继续干下去或者干预政治，而且新一代的储备并不缺乏，就算信不过广大平民，红三四代还是一抓一大把的。</p>
+
+<p>党内规矩政治上还是大体按照既定的秩序新晋和退休，起码习近平自己是明确说要守住红色江山，去年不就求是发文，标题就是《用好红色资源，传承好红色基因，把红色江山世世代代传下去》</p>
+
+<p>我估计这一届习近平可能会选很多红三四代冒头，如果有第四届任期，这些红三四代可能就进入中共中高层了。</p>
+
+<p>未来民众打内战还是争取民主化，习近平死后，主要对付的就是这群七零到九零后的红三四代。</p>
+
+<h3 id="1681-大人全被拉去强制隔离只有2岁的孩子留在家里听得真是心酸-submitted-on-2022-04-22-1904060800">1681: <a href="https://old.reddit.com/r/China_irl/comments/u9c0gc/大人全被拉去强制隔离只有2岁的孩子留在家里听得真是心酸/">大人全被拉去强制隔离，只有2岁的孩子留在家里，听得真是心酸</a>, submitted on 2022-04-22 19:04:06+08:00.</h3>
+
+<p>—– <strong>1681.1</strong> —–2022-04-23 00:47:05+08:00:</p>
+
+<p>计划可能赶不上变化，去时以为是这样，结果到了是另外一回事，发现不对劲，但又不让走，这种可能性很大。</p>
+
+<h3 id="1682-赵紫阳为什么被封杀的这么彻底-submitted-on-2022-04-22-1931460800">1682: <a href="https://old.reddit.com/r/China_irl/comments/u9cgxr/赵紫阳为什么被封杀的这么彻底/">赵紫阳为什么被封杀的这么彻底？</a>, submitted on 2022-04-22 19:31:46+08:00.</h3>
+
+<p>—– <strong>1682.1</strong> —–2022-04-23 00:28:08+08:00:</p>
+
+<p>1.地位太高，党总书记兼改革开放下经济政策的实际设计者，改革开放本身能推动也来自于他跟万里在地方上的“吃螃蟹”，给邓在中央提供事实基础。</p>
+
+<p>2.六四不得翻案，不单纯不能否定邓，最主要的是不能否定江泽民，因为江泽民上位的党内合法性就是来自于六四后被选中替代赵紫阳，所以哪怕邓死了，主要不能翻案的压力也来自于李鹏、江泽民一系的保守派。</p>
+
+<p>3..政府内部支持者过多，胡温、田纪云、朱镕基、万里、杜润生、李锐、胡启立、李瑞环，和稀泥的乔石，后来发达的王岐山、李长春这些都有关联，很多在赵紫阳下台前的保守当权派，也跟赵在工作关系上走的比较近。</p>
+
+<p>比较少人知道的关系特别近的老人，还有杜星垣、姚锡华、杜导正、萧洪达、陆定一、阎明复、许家屯，单独拿出来都是老党员，还有重量级的芮杏文，是江泽民做上海市长时的上海书记，更早一点也是上海一把手的彭冲要分的话，站队也是赵这面的。</p>
+
+<p>​</p>
+
+<p>所以综合上述三点可以看得出，胡耀邦倒台后，胡的嫡系开始转向赵紫阳，而赵紫阳本身因为经济工作，连结了一大批胡耀邦负责领域接触不到的行政人才。</p>
+
+<p>这就让赵紫阳有一个胡耀邦没有的优势，那就是政府里相当多的技术官僚与行政人才相当多都是赵紫阳的门生，尤其是杜润生领导的农研。</p>
+
+<p>说白了，当时政府恐怕过半都是胡赵的人，如果不是邓活着时靠自身地位与军队人脉压制，江泽民这种临时提拔上来，李鹏都看不上他的人，除了陈云这些党内保守派支持，根本在中央站不住脚。</p>
+
+<p>邓小平利用保守派和改革开放派还有矛盾的这一点，自己继续推行胡赵的经济改革，加上原本就是改革派的党内领袖，所以能吸纳剩余改革派的人士。</p>
+
+<p>在对改革破进行改造后，出现了后世胡温为核心的技术官僚团派，一些原本出自于胡赵提拔的门生，有的则更替的门庭，转身投保守派或既得利益派别，这也是群龙无首所导致的。</p>
+
+<p>因为邓故意拔掉了胡启立、芮杏文，就是给江泽民铺路，胡启立在，除开邓陈胡赵，就是他地位最高，排名高一位的乔石，温和和稀泥也偏改革派居多，李鹏则没根基，芮杏文前面提到了。</p>
+
+<p>同期拔掉的三个核心干部里，阎明复跟杨尚昆关系近，而赵紫阳在军队方面联系不强，但不是完全没有，萧洪达跟叶剑英关系走的近，赵紫阳是陶铸嫡系出身，实际上也在叶剑英麾下工作过，密友萧洪达应该也是当时认识的，还有一些军队的老干部或将军，跟胡赵未必有多深的联系，甚至工作上有分歧矛盾，但到一些重大议题上，虽然不至于完全否定邓陈的地位，但也更不乐意支持激进行为。</p>
+
+<p>比较明显的是黄克诚在胡耀邦下台前，在胡的谈话和资产阶级自由化大方向上，是支持胡的，张爱萍等将领也不支持镇压，加上赵本身是军委第一副主席，其实绕开邓，军队反而不是最大问题。</p>
+
+<p>也就是说，如果赵有人身自由，可以串联这些老干部、中立者，然后争取到军队大部分看戏或倒向自己，就会完美复刻邓小平复出后一步步夺权的局面，而且比邓更顺利。</p>
+
+<p>因为邓复出时，还有个陈云与叶剑英，也有毛泽东思想为大旗压着他的市场改革，经济政策都是赵紫阳跟万里一步一个脚印摸石头过河探出来的，一旦失败就会遭到保守派的猛烈围攻，97年后，市场改革确定地位，并且确实带来生活改善，赵紫阳要是在邓陈死后复出，党内实际地位没有任何人比他大。</p>
+
+<p>平反六四那就是平反文革，政治体制改革，那就是文革后的改革开放，江泽民就会变成第二个华国锋。</p>
+
+<p>那为什么赵紫阳拒绝复出，严格来说这不是赵主观可以完全控制和预判的，人没法预知未来，除了性格因素，还有一点最现实也是最主要的，就是没环境，邓活着时才找他复出，邓的党内环境安全了，就不找赵紫阳，邓死以后，党内也没其他人有权限放赵紫阳出来，当权核心都是踩着赵紫阳上位，威胁度比赵紫阳低的胡启立，都是邓死后以后一年，才恢复党内待遇，但也是被强制退休了，前后近十年。</p>
+
+<p>而赵紫阳被完全软禁，除了上述这些原因，还有一个是因为赵紫阳完全无视党内工作纪律，跑去广场给学生报信，提前泄露了邓要暴力清场这件事，学生们不是上帝视角肯定不懂，以为是罕有地最高领导人破例，实际上赵紫阳是不要自己之后的待遇去警告，邓他们知道自己要干什么，对赵紫阳的行为肯定极度不满。</p>
+
+<p>对比之下，就知道无论当时还是现在，政府的威权主义浓厚，虽然谈不上皇帝，但也是非常注重高大的威权形象塑造的。</p>
+
+<p>所以李鹏跟学生谈话，都是居高临下，实际上那已经是官方不能公开说“不走我就杀光你们”的一种警告，而胡耀邦纪念时，学生们去人民大会堂前下跪情愿，也没有任何国家领导人出来，这都是威权形象塑造的一部分。</p>
+
+<p>邓当时如果亲自出来，其实很大概率不会导致后来学运扩大，更不会延伸到他头上。（但我怀疑邓是心虚，较少是当权者傲慢的原因，因为胡耀邦下台和病死跟他政变了胡耀邦有关，党外学生固然不知道，但邓自己心里清楚也懊恼。）</p>
+
+<p>不过赵紫阳无论当时还是回忆里，都给足了邓面子，没有撕破脸，还是把邓当老首长看，这也是广场上没直接说军队要杀人的原因，但如果说了估计赵紫阳要被开除党籍，然后关监狱一辈子，四人帮一个待遇了。</p>
+
+<p>邓基本是在生前试探性给赵复出机会，但也留后手避免赵复出在自己死后翻案，后来跟陈云派系的矛盾化解达成共识后，对赵的复出需求就大大下降。而其他时候，邓一直在致力于改造胡赵的改革派，将其拆分与弱化，让有地位的老干部与中流砥柱要么退休，要么被边缘化或无法串联，然后再把年轻一代胡温这些按自己的需求塑造。</p>
+
+<p>—– <strong>1682.2</strong> —–2022-08-19 11:01:27+08:00:</p>
+
+<p>有可能对经济和社会发展有不同看法，但不会高于四个基本原则，毕竟开枪杀人是他领头。</p>
+
+<h3 id="1683-90后真的是中国最幸运的一代人-submitted-on-2022-04-23-0613490800">1683: <a href="https://old.reddit.com/r/China_irl/comments/u9q834/90后真的是中国最幸运的一代人/">90后真的是中国最幸运的一代人</a>, submitted on 2022-04-23 06:13:49+08:00.</h3>
+
+<p>—– <strong>1683.1</strong> —–2022-04-23 10:13:34+08:00:</p>
+
+<p>某种意义上也更不幸，90后还要承担改朝换代里相当主要的历史责任，80后太老，00后和10后太年轻。</p>
+
+<p>很多事也不绝对，只是不同年龄层里，未来要走上历史舞台所付出的成本都不一样，90后是比例最大的，毕竟90后也有不少粉红，不能一言概之00后和10后就不会参与进去，只是少了许多。</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-04-24</time>
+        <a href="https://nodebe4.github.io/opinion/2022-04-24/theoryofdoom/">
+          theoryofdoom在2022-04-18~2022-04-24的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-04-24</time>
+        <a href="https://nodebe4.github.io/opinion/2022-04-24/EnclavedMicrostate/">
+          EnclavedMicrostate在2022-04-18~2022-04-24的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-04-22</time>
+        <a href="https://nodebe4.github.io/opinion/2022-04-22/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-04-18~2022-04-24的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-04-17</time>
+        <a href="https://nodebe4.github.io/opinion/2022-04-17/Spinkcat/">
+          Spinkcat在2022-04-11~2022-04-17的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-04-22/%E6%B4%97%E5%9C%B0-%E7%9A%84%E4%B8%89%E9%87%8D%E5%A2%83%E7%95%8C/">
+            前一篇：「洗地」的三重境界
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-04-23/%E7%96%AB%E4%B8%AD%E4%BA%BA-%E4%B8%80-%E6%AF%8F%E5%80%8B%E4%BA%BA%E9%83%BD%E6%98%AF%E8%8D%92%E8%AA%95%E5%B0%8F%E8%AA%AA%E7%9A%84%E4%B8%BB%E8%A7%92-%E5%9C%8D%E7%88%90-CUHK/">
+            後一篇：疫中人（一）——每個人都是荒誕小說的主角|圍爐·CUHK
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-04-22/%E6%B4%97%E5%9C%B0-%E7%9A%84%E4%B8%89%E9%87%8D%E5%A2%83%E7%95%8C/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-04-23/%E7%96%AB%E4%B8%AD%E4%BA%BA-%E4%B8%80-%E6%AF%8F%E5%80%8B%E4%BA%BA%E9%83%BD%E6%98%AF%E8%8D%92%E8%AA%95%E5%B0%8F%E8%AA%AA%E7%9A%84%E4%B8%BB%E8%A7%92-%E5%9C%8D%E7%88%90-CUHK/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-04-24/EnclavedMicrostate/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-04-22/ForeignAffairsMag/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-04-22/%E6%B4%97%E5%9C%B0-%E7%9A%84%E4%B8%89%E9%87%8D%E5%A2%83%E7%95%8C/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-04-23/%E7%96%AB%E4%B8%AD%E4%BA%BA-%E4%B8%80-%E6%AF%8F%E5%80%8B%E4%BA%BA%E9%83%BD%E6%98%AF%E8%8D%92%E8%AA%95%E5%B0%8F%E8%AA%AA%E7%9A%84%E4%B8%BB%E8%A7%92-%E5%9C%8D%E7%88%90-CUHK/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-04-24/EnclavedMicrostate/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-04-22/ForeignAffairsMag/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

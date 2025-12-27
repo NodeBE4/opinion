@@ -1,0 +1,2533 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>theoryofdoom在2022-02-14~2022-02-20的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="theoryofdoom在2022-02-14~2022-02-20的言论" />
+    <meta property="twitter:title" content="theoryofdoom在2022-02-14~2022-02-20的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2Fstupidpol%2Fcomments%2Fsrng8q%2Fjoe_rogans_use_of_the_nword_is_another_january_6%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/stupidpol/comments/srng8q/joe_rogans_use_of_the_nword_is_another_january_6/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/stupidpol/comments/srng8q/joe_rogans_use_of_the_nword_is_another_january_6/&text=theoryofdoom在2022-02-14~2022-02-20的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/stupidpol/comments/srng8q/joe_rogans_use_of_the_nword_is_another_january_6/&title=theoryofdoom在2022-02-14~2022-02-20的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/stupidpol/comments/srng8q/joe_rogans_use_of_the_nword_is_another_january_6/&title=theoryofdoom在2022-02-14~2022-02-20的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=theoryofdoom在2022-02-14~2022-02-20的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/stupidpol/comments/srng8q/joe_rogans_use_of_the_nword_is_another_january_6/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/stupidpol/comments/srng8q/joe_rogans_use_of_the_nword_is_another_january_6/&title=theoryofdoom在2022-02-14~2022-02-20的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=theoryofdoom在2022-02-14~2022-02-20的言论&url=https://old.reddit.com/r/stupidpol/comments/srng8q/joe_rogans_use_of_the_nword_is_another_january_6/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>theoryofdoom在2022-02-14~2022-02-20的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-02-20
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: theoryofdoom</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/stupidpol/comments/srng8q/joe_rogans_use_of_the_nword_is_another_january_6/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#93-joe-rogans-use-of-the-n-word-is-another-january-6-moment-submitted-on-2022-02-14-0109240800" id="markdown-toc-93-joe-rogans-use-of-the-n-word-is-another-january-6-moment-submitted-on-2022-02-14-0109240800">93: Joe Rogan’s use of the n-word is another January 6 moment, submitted on 2022-02-14 01:09:24+08:00.</a></li>
+  <li><a href="#94-a-russian-court-put-a-couple-from-severodvinsk-in-prison-for-3-years-who-tortured-the-cat-kuzya-to-death-the-sadists-not-only-abused-the-animal-but-posted-a-video-on-the-social-network-the-case-caused-a-wide-public-outcry-in-20-russian-cities-there-were-actions-calling-for-severe-punishment-submitted-on-2022-02-14-2255260800" id="markdown-toc-94-a-russian-court-put-a-couple-from-severodvinsk-in-prison-for-3-years-who-tortured-the-cat-kuzya-to-death-the-sadists-not-only-abused-the-animal-but-posted-a-video-on-the-social-network-the-case-caused-a-wide-public-outcry-in-20-russian-cities-there-were-actions-calling-for-severe-punishment-submitted-on-2022-02-14-2255260800">94: A Russian court put a couple from Severodvinsk in prison for 3 years, who tortured the cat Kuzya to death. The sadists not only abused the animal, but posted a video on the social network. The case caused a wide public outcry, in 20 Russian cities there were actions calling for severe punishment., submitted on 2022-02-14 22:55:26+08:00.</a></li>
+  <li><a href="#95-enemies-of-my-enemy-how-fear-of-china-is-forging-a-new-world-order-submitted-on-2022-02-15-0005270800" id="markdown-toc-95-enemies-of-my-enemy-how-fear-of-china-is-forging-a-new-world-order-submitted-on-2022-02-15-0005270800">95: Enemies of My Enemy: How Fear of China Is Forging a New World Order, submitted on 2022-02-15 00:05:27+08:00.</a></li>
+  <li><a href="#96-if-youre-not-a-sheep-like-them-and-have-any-differing-opinions-can-now-make-them-automatically-cancel-and-freeze-your-back-accounts-just-for-supporting-freedom-canadahasfallen-submitted-on-2022-02-15-0743070800" id="markdown-toc-96-if-youre-not-a-sheep-like-them-and-have-any-differing-opinions-can-now-make-them-automatically-cancel-and-freeze-your-back-accounts-just-for-supporting-freedom-canadahasfallen-submitted-on-2022-02-15-0743070800">96: If You’re Not A Sheep Like Them, And Have Any Differing Opinions Can Now Make Them Automatically Cancel And Freeze Your Back Accounts. Just For Supporting Freedom. #CanadaHasFallen., submitted on 2022-02-15 07:43:07+08:00.</a></li>
+  <li><a href="#97-not-there-yet-lightfoot-refuses-to-specify-date-for-lifting-chicagos-mask-mandate-submitted-on-2022-02-15-2250200800" id="markdown-toc-97-not-there-yet-lightfoot-refuses-to-specify-date-for-lifting-chicagos-mask-mandate-submitted-on-2022-02-15-2250200800">97: ‘Not There Yet:’ Lightfoot Refuses to Specify Date for Lifting Chicago’s Mask Mandate, submitted on 2022-02-15 22:50:20+08:00.</a></li>
+  <li><a href="#98-isis-executions-of-syrian-children--civilians-by-islamic-state-terroris-submitted-on-2022-02-16-0003330800" id="markdown-toc-98-isis-executions-of-syrian-children--civilians-by-islamic-state-terroris-submitted-on-2022-02-16-0003330800">98: ISIS EXECUTIONS of Syrian CHILDREN &amp; Civilians by Islamic State Terroris…, submitted on 2022-02-16 00:03:33+08:00.</a></li>
+  <li><a href="#99-school-mask-mandate-susepended-not-the-appellate-ruling-submitted-on-2022-02-16-0629210800" id="markdown-toc-99-school-mask-mandate-susepended-not-the-appellate-ruling-submitted-on-2022-02-16-0629210800">99: School mask mandate susepended?? (Not the appellate ruling), submitted on 2022-02-16 06:29:21+08:00.</a></li>
+  <li><a href="#100-february-15-2022-community-update-submitted-on-2022-02-16-1000150800" id="markdown-toc-100-february-15-2022-community-update-submitted-on-2022-02-16-1000150800">100: [February 15, 2022] Community Update, submitted on 2022-02-16 10:00:15+08:00.</a></li>
+  <li><a href="#101-no-wonder-there-is-a-housing-crisis-submitted-on-2022-02-17-0233300800" id="markdown-toc-101-no-wonder-there-is-a-housing-crisis-submitted-on-2022-02-17-0233300800">101: No wonder there is a housing crisis., submitted on 2022-02-17 02:33:30+08:00.</a></li>
+  <li><a href="#102-rates-in-denmark-going-up-after-restrictions-lifted-submitted-on-2022-02-17-0924080800" id="markdown-toc-102-rates-in-denmark-going-up-after-restrictions-lifted-submitted-on-2022-02-17-0924080800">102: Rates in Denmark going up after restrictions lifted, submitted on 2022-02-17 09:24:08+08:00.</a></li>
+  <li><a href="#103-unofficial-daily-update-for-2022-02-17-2538-new-cases-submitted-on-2022-02-18-0205040800" id="markdown-toc-103-unofficial-daily-update-for-2022-02-17-2538-new-cases-submitted-on-2022-02-18-0205040800">103: Unofficial Daily Update for 2022-02-17. 2538 New Cases., submitted on 2022-02-18 02:05:04+08:00.</a></li>
+  <li><a href="#104-judge-grischow-sets-cps-hearing-show-cause-as-to-why-the-defendants-should-not-be-held-in-contempt-submitted-on-2022-02-18-0647380800" id="markdown-toc-104-judge-grischow-sets-cps-hearing-show-cause-as-to-why-the-defendants-should-not-be-held-in-contempt-submitted-on-2022-02-18-0647380800">104: Judge Grischow sets CPS hearing: ‘Show cause as to why the Defendants should not be held in contempt’, submitted on 2022-02-18 06:47:38+08:00.</a></li>
+  <li><a href="#105-appeal-of-tro-is-ruled-null-because-of-jcar-vote-there-is-no-longer-a-school-mask-mandate-in-illinois-submitted-on-2022-02-18-1407360800" id="markdown-toc-105-appeal-of-tro-is-ruled-null-because-of-jcar-vote-there-is-no-longer-a-school-mask-mandate-in-illinois-submitted-on-2022-02-18-1407360800">105: Appeal of TRO is ruled null because of JCAR vote. There is no longer a school mask mandate in Illinois., submitted on 2022-02-18 14:07:36+08:00.</a></li>
+  <li><a href="#106-what-if-russia-wins-a-kremlin-controlled-ukraine-would-transform-europe-submitted-on-2022-02-18-2236100800" id="markdown-toc-106-what-if-russia-wins-a-kremlin-controlled-ukraine-would-transform-europe-submitted-on-2022-02-18-2236100800">106: What if Russia Wins?: A Kremlin-Controlled Ukraine Would Transform Europe, submitted on 2022-02-18 22:36:10+08:00.</a></li>
+  <li><a href="#107-pritzker-to-take-school-mask-case-to-illinois-supreme-court-after-ruling-leaves-masking-up-to-local-districts-more-than-500-are-mask-optional-cps-staying-the-course-submitted-on-2022-02-19-0300000800" id="markdown-toc-107-pritzker-to-take-school-mask-case-to-illinois-supreme-court-after-ruling-leaves-masking-up-to-local-districts-more-than-500-are-mask-optional-cps-staying-the-course-submitted-on-2022-02-19-0300000800">107: Pritzker to take school mask case to Illinois Supreme Court after ruling leaves masking up to local districts. More than 500 are mask optional; CPS staying the course., submitted on 2022-02-19 03:00:00+08:00.</a></li>
+  <li><a href="#108-india-uae-sign-free-trade-deal-expected-to-double-trade-to-100-billion-in-5yrs--latest-news-india---hindustan-times-submitted-on-2022-02-19-1726300800" id="markdown-toc-108-india-uae-sign-free-trade-deal-expected-to-double-trade-to-100-billion-in-5yrs--latest-news-india---hindustan-times-submitted-on-2022-02-19-1726300800">108: India, UAE sign free trade deal expected to double trade to $100 billion in 5yrs | Latest News India - Hindustan Times, submitted on 2022-02-19 17:26:30+08:00.</a></li>
+  <li><a href="#109-can-organizations-like-the-united-nations-prevent-war-submitted-on-2022-02-20-0042550800" id="markdown-toc-109-can-organizations-like-the-united-nations-prevent-war-submitted-on-2022-02-20-0042550800">109: Can organizations like the United Nations prevent war?, submitted on 2022-02-20 00:42:55+08:00.</a></li>
+  <li><a href="#110-alien-newsletter-20-the-ukraine-invasion-to-be-submitted-on-2022-02-20-0051180800" id="markdown-toc-110-alien-newsletter-20-the-ukraine-invasion-to-be-submitted-on-2022-02-20-0051180800">110: Alien Newsletter #20: The Ukraine Invasion To-Be, submitted on 2022-02-20 00:51:18+08:00.</a></li>
+  <li><a href="#111-will-russia-and-china-invade-ukraine-and-taiwan-simultaneously-submitted-on-2022-02-20-1212240800" id="markdown-toc-111-will-russia-and-china-invade-ukraine-and-taiwan-simultaneously-submitted-on-2022-02-20-1212240800">111: Will Russia and China invade Ukraine and Taiwan simultaneously?, submitted on 2022-02-20 12:12:24+08:00.</a></li>
+  <li><a href="#112-what-are-some-effective-ways-to-get-a-man-to-stop-hitting-on-you-submitted-on-2022-02-20-1854390800" id="markdown-toc-112-what-are-some-effective-ways-to-get-a-man-to-stop-hitting-on-you-submitted-on-2022-02-20-1854390800">112: What are some effective ways to get a man to stop hitting on you?, submitted on 2022-02-20 18:54:39+08:00.</a></li>
+  <li><a href="#113-rosatom-doubles-down-on-the-arctic-will-spend-15-trillion-rubles-on-more-nuclear-icebreakers-and-other-vessels-through-2030-submitted-on-2022-02-20-2130410800" id="markdown-toc-113-rosatom-doubles-down-on-the-arctic-will-spend-15-trillion-rubles-on-more-nuclear-icebreakers-and-other-vessels-through-2030-submitted-on-2022-02-20-2130410800">113: Rosatom doubles down on the Arctic, will spend 1.5 trillion rubles on more nuclear icebreakers and other vessels through 2030, submitted on 2022-02-20 21:30:41+08:00.</a></li>
+  <li><a href="#114-map-of-donbass-published-by-the-dpr-submitted-on-2022-02-20-2151580800" id="markdown-toc-114-map-of-donbass-published-by-the-dpr-submitted-on-2022-02-20-2151580800">114: Map of Donbass (Published by the DPR), submitted on 2022-02-20 21:51:58+08:00.</a></li>
+</ul>
+
+<h3 id="93-joe-rogans-use-of-the-n-word-is-another-january-6-moment-submitted-on-2022-02-14-0109240800">93: <a href="https://old.reddit.com/r/stupidpol/comments/srng8q/joe_rogans_use_of_the_nword_is_another_january_6/">Joe Rogan’s use of the n-word is another January 6 moment</a>, submitted on 2022-02-14 01:09:24+08:00.</h3>
+
+<p>—– <strong>93.1</strong> —–2022-02-14 09:46:30+08:00:</p>
+
+<p>I feel like AI trained on Twitter comments could do a better job than CNN’s “contributors” or content creators, like Brian Steltzer or whatever his name is.</p>
+
+<h3 id="94-a-russian-court-put-a-couple-from-severodvinsk-in-prison-for-3-years-who-tortured-the-cat-kuzya-to-death-the-sadists-not-only-abused-the-animal-but-posted-a-video-on-the-social-network-the-case-caused-a-wide-public-outcry-in-20-russian-cities-there-were-actions-calling-for-severe-punishment-submitted-on-2022-02-14-2255260800">94: <a href="https://old.reddit.com/r/russia/comments/sscgfy/a_russian_court_put_a_couple_from_severodvinsk_in/">A Russian court put a couple from Severodvinsk in prison for 3 years, who tortured the cat Kuzya to death. The sadists not only abused the animal, but posted a video on the social network. The case caused a wide public outcry, in 20 Russian cities there were actions calling for severe punishment.</a>, submitted on 2022-02-14 22:55:26+08:00.</h3>
+
+<p>—– <strong>94.1</strong> —–2022-02-15 13:32:47+08:00:</p>
+
+<p>Hе трахайся с кошками.</p>
+
+<h3 id="95-enemies-of-my-enemy-how-fear-of-china-is-forging-a-new-world-order-submitted-on-2022-02-15-0005270800">95: <a href="https://old.reddit.com/r/geopolitics/comments/sse3sr/enemies_of_my_enemy_how_fear_of_china_is_forging/">Enemies of My Enemy: How Fear of China Is Forging a New World Order</a>, submitted on 2022-02-15 00:05:27+08:00.</h3>
+
+<p>—– <strong>95.1</strong> —–2022-02-16 08:51:06+08:00:</p>
+
+<p>Don’t do this again.</p>
+
+<h3 id="96-if-youre-not-a-sheep-like-them-and-have-any-differing-opinions-can-now-make-them-automatically-cancel-and-freeze-your-back-accounts-just-for-supporting-freedom-canadahasfallen-submitted-on-2022-02-15-0743070800">96: <a href="https://old.reddit.com/r/walkaway/comments/ssojf8/if_youre_not_a_sheep_like_them_and_have_any/">If You’re Not A Sheep Like Them, And Have Any Differing Opinions Can Now Make Them Automatically Cancel And Freeze Your Back Accounts. Just For Supporting Freedom. #CanadaHasFallen.</a>, submitted on 2022-02-15 07:43:07+08:00.</h3>
+
+<p>—– <strong>96.1</strong> —–2022-02-15 20:46:40+08:00:</p>
+
+<p>Canada is purporting to do to its citizens what the United States did to Russians who were involved in human rights violations, during the Obama administration.</p>
+
+<p>Trudeau has lost his mind.</p>
+
+<h3 id="97-not-there-yet-lightfoot-refuses-to-specify-date-for-lifting-chicagos-mask-mandate-submitted-on-2022-02-15-2250200800">97: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/st4mbi/not_there_yet_lightfoot_refuses_to_specify_date/">‘Not There Yet:’ Lightfoot Refuses to Specify Date for Lifting Chicago’s Mask Mandate</a>, submitted on 2022-02-15 22:50:20+08:00.</h3>
+
+<p>—– <strong>97.1</strong> —–2022-02-16 13:04:06+08:00:</p>
+
+<blockquote>
+  <p>This has been true for quite a broad spectrum of our public health response, actually. From the very beginning we’ve always acted like the vaccines don’t actually do anything. That’s why I call people like this the real anti-vaxxers.</p>
+</blockquote>
+
+<p>The problem is that Arwady is stupid.  Like actually stupid, meaning that she is intellectually incapable of understanding how such arcane, pedestrian concepts as “cause” and “effect” are reflected in this thing called “data.”  She doesn’t even likely have the ability to articulate the difference between what is a “case” and what constitutes a “positive test” or by what level of probability the former and latter diverge.</p>
+
+<p>But that would require minimally adequate knowledge of at least something approximating science.  It’s not even clear she could get past the math needed in order to get there.   I seriously question whether she actually has the ability to understand the results of statistical modeling, much less do it, no matter how simple.</p>
+
+<p>People assume that because she holds a position she is competent and/or capable.  They make this assumption because they are not in a position to distinguish expertise from incompetence.  For example, this is why people go to stupid doctors, suffer incidents of medical malpractice and are none-the-wiser and suffer any number of avoidable pains due to the stupidity of those experts on whom they rely to help them.</p>
+
+<p>Lori is going to be out.  And with her, so will the rest of this sea of incompetence.  I’m not a fan of Preckwinkle by any measure, but at least I can rely on her to keep the damn lights on.  I miss Rham.</p>
+
+<p>—– <strong>97.2</strong> —–2022-02-16 13:10:44+08:00:</p>
+
+<blockquote>
+  <p>I think this is what the “eff it, I’m not getting re-elected anyways” plan looks like</p>
+</blockquote>
+
+<p>I doubt it.  I’d bet Lori’s advisors have actually told her the political risks to her are greater if she drops the mandates than if she maintains them.  Not because they know anything about anything — which they obviously do not.  But because they cannot see the writing on the wall.</p>
+
+<p>Republican will be elected governor.  I’d expect an executive order prohibiting the imposition of mask mandates in short order.</p>
+
+<p>—– <strong>97.3</strong> —–2022-02-16 13:13:06+08:00:</p>
+
+<blockquote>
+  <p>Throughout the entire course of the pandemic Lori has made a very clear effort to somehow set herself apart from Pritzker in every decision made when it comes to mandates and restrictions.</p>
+</blockquote>
+
+<p>It is actually hilarious how much she has failed in this respect, though.  She wants to be perceived as independent but is so deficient in leadership ability that she winds up just looking like a mindless contrarian.</p>
+
+<h3 id="98-isis-executions-of-syrian-children--civilians-by-islamic-state-terroris-submitted-on-2022-02-16-0003330800">98: <a href="https://old.reddit.com/r/terrorism/comments/st6a6i/isis_executions_of_syrian_children_civilians_by/">ISIS EXECUTIONS of Syrian CHILDREN &amp; Civilians by Islamic State Terroris…</a>, submitted on 2022-02-16 00:03:33+08:00.</h3>
+
+<p>—– <strong>98.1</strong> —–2022-02-16 08:18:42+08:00:</p>
+
+<p>Locked and permanently banned.</p>
+
+<h3 id="99-school-mask-mandate-susepended-not-the-appellate-ruling-submitted-on-2022-02-16-0629210800">99: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/stfa82/school_mask_mandate_susepended_not_the_appellate/">School mask mandate susepended?? (Not the appellate ruling)</a>, submitted on 2022-02-16 06:29:21+08:00.</h3>
+
+<p>—– <strong>99.1</strong> —–2022-02-17 10:15:01+08:00:</p>
+
+<p>Most reddit moderators in these subs would have failed a high school advanced placement biology test.  The barometer of truth for them is whatever CNN says it is.  Others do not operate according to that standard, however.</p>
+
+<h3 id="100-february-15-2022-community-update-submitted-on-2022-02-16-1000150800">100: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/stjy0o/february_15_2022_community_update/">[February 15, 2022] Community Update</a>, submitted on 2022-02-16 10:00:15+08:00.</h3>
+
+<p>—– <strong>100.1</strong> —–2022-02-17 10:00:32+08:00:</p>
+
+<p>Thanks.  On ivermectin, hydroxychloroquine and other out of patent compounds, it will take several years for the jury to be settled in the United States on that one.  The verdict will come in, but it likely won’t be under the current leadership at NIAID/NIH.  It is regretful that the politics and economics surrounding those medications developed in the way they did.</p>
+
+<p>On assuming users have knowledge, I tend to give people the chance to wade into the water whether they realize how deep it is or not.  That’s because I’d rather see them step up to bat, swing and miss than sit in the dugout or never even show up to the game. 
+ Individual users don’t bother me on this pont, but I’ll be very straightforward when I say that reading some of self-published substacks people have submitted here is like listening to a symphony of alley cats fighting over an empty can of tuna, music playing out of tune, nails on a chalkboard or any other appropriate comparison.  Thankfully few users here have ever conducted themselves in that way.</p>
+
+<p>—– <strong>100.2</strong> —–2022-02-18 05:32:41+08:00:</p>
+
+<p>Don’t know what that is.</p>
+
+<p>—– <strong>100.3</strong> —–2022-02-18 11:35:48+08:00:</p>
+
+<p>We filter all substacks by default, so that’s why that got removed.  It would require manual approval, on a case by case basis.  Without reference to what you have linked, we have seen so many substacks that are self-published by crackpots and tin-foil hat types.  To not take a forward-looking approach in this way would be negligence on our part.</p>
+
+<p>—– <strong>100.4</strong> —–2022-02-19 11:35:50+08:00:</p>
+
+<p>The article was appropriately titled, to the extent it referred to its voluminous length.  Less so, to the extent it referred to the quality of being informative.</p>
+
+<p>The Substack aspires to be something approximating a review of literature relating to published results from clinical trials.  But it offers nothing more than superficial assessment of what may be, at best, low-hanging fruit (if its analysis and conclusions are to be taken at face value).  But, to the extent the substack so aspires, it’s engaged in work that is fundamentally duplicative of a more reliable source.  I’d rather see a <a href="https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015017.pub2/full">Cochrane Review</a>, though a Cochrane review lacks the flair of analogies between clinical trial arms and photos of what cops seize from drug dealers.</p>
+
+<p>It has little appeal, outside of entertainment value I guess.  I have a hard time taking the assertions at face value, since its focus was illogical and disorganized.  For example, the Substack begins its “analysis” with discussion of, among others, Elgazzar which was a retracted preprint out of Egypt.  The specific Elgazzar publication he cited only mattered because it both focused on ivermectin and appears to have involved data integrity issues.  It was not a foundational study nor would it likely have gained any attention if it hadn’t been cited in a WSJ op-ed, after the “horse dewormer” rhetoric started to appear in the media.  Note that Elgazzar was excluded from the Cochrane review, without the addition of speculative commentary.</p>
+
+<p>At the outset it’s clear what the Substack author is up to.  He’s arguing, overtly and by implication, that all the science behind ivermectin’s application to treat COVID was the product of one or more of stupidity or latent malice to deceive the world with false hope.  Smart people think ivermectin is horse paste and only stupid people believe the fake science behind Elgazzar and all the others like it.  Or so he says.  It’s not persuasive.</p>
+
+<p>—– <strong>100.5</strong> —–2022-02-20 00:29:15+08:00:</p>
+
+<p>There’s a lot going on in your reply.  More than meets the eye at first glance.  So, to respond I’m going to have to lay some foundation and then I’m going to try to explain my current thoughts on the dialogue I think you’re referring to, with respect to “those who ‘believe’ in ivermectin” and “there [being] no evidence that would convince them otherwise.”</p>
+
+<p>I am not expressing an opinion on whether the labeling for ivermectin should be changed, to carry an indication to treat COVID.  The evidence needed for that does not exist and there is no prospect of it ever existing, for reasons I will discuss below.  Foundationally, who “believes” in what is irrelevant.  What is relevant is whether there is evidence to support or reject a proposition of fact.  Then, if there is evidence, the next question is whether it’s sufficient/believable or if further investigation is needed.</p>
+
+<p>Beyond that, I don’t know if I’m going to be able to explain this in a way that makes sense, because it’s an abstract observation and I don’t know of anyone else that has said anything about it.  But hopefully it’s at least coherent enough to get the point across.</p>
+
+<p>There are at least three identifiable, but sometimes overlapping levels at which discussion takes place for ivermectin: (1) experts, (2) media and (3) lay people.  The discussion tends to start with experts or media (sometimes where experts are communicating on media) and then lay people form opinions based on signaling they get from those upper levels.</p>
+
+<p>At the “expert” level, one side says there’s enough evidence out there to support clinical use and the other says there’s not.  Evidence to support clinical use is not the same thing as evidence to support, say, adding an indication on the FDA-approved label.  Doctors can and do prescribe off-label medication all the time (e.g., adderall for weight loss) and are authorized to do so by virtue of their being licensed to practice medicine.</p>
+
+<p>That was one issue I had with your substack article, which seemed to imply that off-label prescribing was only done by quacks and insane doctors.  Doctors write off label prescriptions all the time.  That’s just a fact of how medicine is practiced and information on that practice is readily available; it’s common knowledge that anyone commenting on these issues should be expected to know. Thus, the debate at the expert level is what threshold of evidence is needed in order to prescribe ivermectin to treat COVID.  Is evidence sufficient to justify clinical use is enough (i.e., prescribing it off-label in an outpatient setting)?  Or, are large-scale randomized control double-blind phase 3 clinical trials needed (i.e., giving thousands upon thousands of patients certain regimens of ivermectin compared against a placebo)?</p>
+
+<p>To prescribe in a clinical setting, you’d need to consider factors like the safety profile of a particular dosing regimen, whether there’s evidence to rule out the possibility of clinical utility that has emerged, whether you’ve seen positive results from past experience with that therapeutic approach and the like.  You generally don’t need phase 3 trials, because you’re not trying to change the baseline standard of care.  All you’re trying to do is treat the patient in front of you, which is what you should do if you’re engaged in clinical practice. On the other hand, to change the label, you’d need phase 3 clinical trials, because in that case you are trying to change the baseline standard of care.  In that case, you are trying to do way more than treat the patient in front of you and in order to do that you need to make sure you’re doing something that can be reasonably expected to work for future patients.</p>
+
+<p>Behind that discussion are competing incentives.  Clinical practitioners who do not have a financial stake in the market for new, patentable prescription drugs are a lot more likely to try things that have been around for a long time, because they know the risk profile and tend to be familiar with how drugs and others in the same family work.  Use of compounds within the same family as ivermectin for antiviral application has been the subject of research for a very long time.  Further, the safety profile of ivermectin and other similar drugs is known based on more than 40 years of postmarket data.  So the question is whether prescribing it in an outpatient setting is “worth the risk,” to the patient based on the practitioner’s judgment.</p>
+
+<p>On the other hand, non-practitioners (researchers, regulatory people and employees of the NIH/NIAID or FDA) in fact do have a financial stake in the market for new, patentable pharmaceuticals and are a lot less likely to try — or even support the possibility of trying — things that have been around for a long time, because they can’t make money on something that isn’t patentable.  They have a direct incentive to thwart repurposing old drugs for new purposes, because if a drug product is available as a generic (either because the patents are invalidated or because they’ve expired) then anyone can manufacture them.  That means there’s no exclusivity and therefore no market incentive to even undertake that research.</p>
+
+<p>That’s part of the shell game certain individuals are playing with respect to non-patentable therapeutic applications, too.  Patentable pharmaceuticals are held to one standard of proof while non-patentable ones are held to a different one.  For example, Gilead’s remdesevir didn’t go through large scale phase 3 clinical trials before it was granted emergency authorization, because it was novel and patentable.  But the FDA went out of its way to put up the “we must have large scale phase 3 clinical trials!” barrier for hydroxychloroquine.  As by now you almost certainly know, remdesevir hasn’t lived up to its promise.</p>
+
+<p>This a Bush-era problem, too.  During the Bush presidency, Fauci lobbied congress to expand the extent to which government employees profit from the intellectual property associated with drugs they had a role in “developing.”  This is not an issue unique to COVID, and in fact it’s been a problem going back many years when the terms weren’t quite so on the nose as they are now.  This was sold to the public as “deregulation” and “improving the efficiency of bringing new pharmaceuticals to market.”  Of course it was no such thing.</p>
+
+<p>At the “media” level, that’s where the discussion becomes more perverse.  All of what I just said is way too complicated to talk about in the media.  But there are still two sides.  One side says that ivermectin is ok and the other says it is not.  The side that says it’s ok argues that clinical success in an outpatient context is enough to go on.  That’s something that can be said in good faith based on a practitioner’s judgment.  The side that says it’s not ok says that hospitals in Oklahoma are overran with horse dewormer overdoses to the degree that gunshot victims had to wait outside.</p>
+
+<p>Here as with the “expert” level, behind this discussion are hidden incentives.  Individual practitioners don’t really have hidden incentives because they don’t stand to lose royalties from lost market share on new pharmaceuticals.  I have never met a doctor that was committed to prescribing a drug for ideological reasons, either.  Financial reasons?  Absolutely.  But ideological reasons?  The proposition is absurd.  On the other hand, media’s main advertisers are big pharma.  If you look at the fractional breakdown of money paid to media companies by all advertisers, big pharma represents more than any other category of interest.  As I just explained, they don’t make money unless the pharmaceuticals are patentable.  So, if they’re trying to make money on something that happens to be patentable, if a non-patentable alternative exists in the market . . . . what do you think happens to the market share?  Obviously it goes down, because consumers go with the cheaper alternative.</p>
+
+<p>There is no evidence which will change the media’s mind because they’re not independently evaluating the evidence, to the extent it exists.  That brings us to the phrase “horse dewormer.”  Such language is just too juicy to have been come up with by the media.  Frankly, media people aren’t smart enough to think of something like that.  Edelman, a big pharma PR firm, almost certainly did.  There is no world where that buzzword can be made in good faith.  Why might the media be using the phrase “horse dewormer,” all of them in unison?  Because they’re trying to protect the market share of a patentable protease inhibitor Merck introduced, by making arguments from the perspective of “safety.”  These arguments are self-evidently idiotic to anyone who knows anything about how risk profiles are evaluated based on post-market data, but the inquiry doesn’t end there.  If a clinical trial WERE to be approved with non-standard dosages that differed from the dosages for which the risk profile is known, you might be able to produce some new information to support your arguments about “safety.”  The public won’t pick up on the difference because it’s too complicated. 
+ Of course, there’s a complete blackout on what’s going on in Japan, South America and elsewhere.</p>
+
+<p>At the lay level, this is solely a political issue because lay people don’t have the sophistication to recognize what’s going on.  They only see what they’re shown and nothing else.  Even for people that purport to have the ability to do things like read and review published literature interpreting the results of clinical trials, they’re beginning from the position of how the public narrative was set by the media’s initial reporting.  Hence, why your substack guy wrote about that retracted study out of egypt, first. I don’t care about this level because whether a drug should or should not be approved has nothing to do with politics.  It’s become a partisan issue because of the money that’s on the line in this debate.  And there is a LOT of money on the line.</p>
+
+<p>—– <strong>100.6</strong> —–2022-02-20 05:11:57+08:00:</p>
+
+<blockquote>
+  <p>So what’s the end game here? Allowing ivermectin to be used for covid?</p>
+</blockquote>
+
+<p>Whether ivermectin is used by practitioners for any purpose isn’t my call.  What I object to on a moral and philosophical level is the FDA, NIH and NIAID, or any other federal bureaucracy, interfering with the relationship people have with their doctors.  And that is what they have done, both directly (through their disinformation campaign related to ivermectin) and indirectly (through their efforts to influence the words that come out of other stakeholders mouths, retaliate against anyone who questions them and censor even the appearance of dissent).  That is not how science works and I object on an ethical level to how bastardized the process of scientific research has been.  This is the same playbook big tobacco used in the 60s to gaslight the american people and medical community with their paid whore “experts” into thinking there was ever any such thing as a “safe” cigarette.  Same method.  Different industry.</p>
+
+<blockquote>
+  <p>What do you get out of Ivermectin being “validated”?</p>
+</blockquote>
+
+<p>I have no dog in this fight, beyond the extent to which on an ethical level I object to monied interests engaging in anti-consumer and anti-competitive behavior.  If ivermectin (or any other, similar compound) can treat or prevent COVID, the fact that its patents are expired, can be produced at a global scale to meet demand and already manufactured by about 45 companies around the world is very good news.  That means that it’s about twenty to forty-five cents per infection/person to cure.</p>
+
+<p>Have you looked at what molnupirivir costs, for a round of treatment?  <a href="https://theintercept.com/2021/10/05/covid-pill-drug-pricing-merck-ridgeback/">The Intercept</a> has:</p>
+
+<blockquote>
+  <p>Merck is charging the U.S. government $712 for the same amount of medicine . . . .</p>
+</blockquote>
+
+<p>If something that costs a hand-full of change change can get you to the same destination as something that costs more than most people make in a week, don’t you think it’s reasonable that consumers should have a right to buy it?  Have you considered how much Merck stands to lose if that option exists?  That’s about 711 reasons per person/round of treatment to distort the market.</p>
+
+<blockquote>
+  <p>The main Coronavirus sub has a fairly large study that appears well done on their front page. Is that post stirring your feelings? I’m not trying to be mean here.</p>
+</blockquote>
+
+<p>I don’t follow that sub and I generally don’t care what goes on there.  I likewise don’t care what Reddit thinks about anything, beyond the extent to which I see people acting as the unwittingly useful idiots for interests they lack the sophistication to appreciate.</p>
+
+<p>You can DM me the study/link if you want.  I may or may not read it.</p>
+
+<blockquote>
+  <p>What would make you reevaluate your take on ivermectin?</p>
+</blockquote>
+
+<p>I’m not sure you understand what my take on it is.  My take is that Merck and Pfizer have no right to use the FDA, NIH and NIAID as their cat’s paw to manipulate the market for their new protease inhibitors.  My ax to grind is that government regulators cannot ethically be in a position to profit from drugs they hold the ability to put on or keep off of the market, because they are not acting as independent evaluators but as parties with a vested financial interest.  There is nothing that would change my opinion on that, even despite the fact that I own stock in both of those companies.</p>
+
+<blockquote>
+  <p>Reading my own words here sounds like an attack, which I don’t mean for it to be. That’s not my intention.</p>
+</blockquote>
+
+<p>I don’t feel attacked. But I’m sure you might have, because of the way I write.  I know at least one other person who posted here has, because I am unknowingly condescending in the way I talk about things sometimes.  Some people are more sensitive than others.</p>
+
+<blockquote>
+  <p>Can people let go of it? I’ve not seen that happen. And to be fair, I’ve not seen anyone convinced that it works by looking at evidence alone either.</p>
+</blockquote>
+
+<p>I don’t know what people you’re referring to.  But again, I don’t care about Reddit.  I am not in a position to influence people’s views here.  All I can do is say what I think, and why I think the way I do; and make sure that those in a position of power don’t abuse that status to prevent others from doing the same.</p>
+
+<p>If you’ve got more questions, ask away.  I am speaking on a personal level here, though, and not in my capacity as a mod.</p>
+
+<p>—– <strong>100.7</strong> —–2022-02-20 05:26:09+08:00:</p>
+
+<p>Thank you, and yes I agree the level of big anything’s influence is troubling.  Big tobacco.  Big oil.  Big pharma.  Big media.  The list goes on.</p>
+
+<p>—– <strong>100.8</strong> —–2022-02-20 05:50:49+08:00:</p>
+
+<p>As I said before, I’m just a guy on Reddit.  I am not in a position here to influence perception, when you can turn on the TV and hear what you hear.</p>
+
+<p>—– <strong>100.9</strong> —–2022-02-20 06:11:56+08:00:</p>
+
+<blockquote>
+  <p>If the trial you posted in this sub</p>
+</blockquote>
+
+<p>What trial are you referring to?  And I’m just going to give you fair warning.  There is a limit to how willing I am to engage with someone who comes back and compares what I’ve said to “flat earther” nonsense.  Make no mistake on this point: I can play that game too, but it would be beneath me to do so in this setting.  Though perhaps you hold yourself to a different standard.</p>
+
+<p>While you reflect on that point, refer to the <a href="https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2789362">article</a> published on JAMA linked at the reddit post you shared just now, and find citation no. <a href="https://pubmed.ncbi.nlm.nih.gov/34318930/">18</a>.  Compare it to the Cochrane Review I cited above, wherein you may be surprised to learn they are identical.</p>
+
+<p>Meanwhile, and further to what I have said above, there is nothing surprising about that study’s findings:</p>
+
+<blockquote>
+  <p>ivermectin treatment during early illness did not prevent progression to severe disease</p>
+</blockquote>
+
+<p>This concept is more easily understood by analogy, so I’ll draw one to tamiflu, which I assume you have heard of.  The timing of when you start a course of treatment has a lot of bearing on its likelihood of success.  If you only start treatment at the outset of clinically significant symptoms, which is what they did in Malaysia, by that time the virus has replicated to the point that one should not expect to see significant (or even identifiable) responses.</p>
+
+<p>This trial was the COVID-19 equivalent of giving tamiflu to those already hospitalized due to its infection.  I read the findings to suggest that their proposed dosing regimen administered at that point of significant symptomatic onset in the infection’s progression is ineffective.   That means that what they tested — administering in a hospital context — bears little if any resemblance to how ivermectin is actually prescribed off label, in an outpatient setting before patients are even admitted . . . to prevent the infection from developing that far.</p>
+
+<p>Prescribing to stop infection from progressing at the outset is what you logically should endeavor to test, based on the mechanisms of action seen in vitro.  Except that is not what they tested.  One wonders why.  If you are curious, the NIAID authorized a grant to test hydroxychloroquine in a similarly irrational way.  One also wonders why and how they decided to prescribe almost double the standard dose of ivermectin, when by their own admission the standard dose/regimen to treat parasitic infections likewise produced the most favorable outcomes.  See “DISCUSSION” section, 4th paragraph in your study; and citation nos. 27-34.  It’s also curious how they selected patients for inclusion in the study: only the age group most likely to develop an acute immunologic response.</p>
+
+<h3 id="101-no-wonder-there-is-a-housing-crisis-submitted-on-2022-02-17-0233300800">101: <a href="https://old.reddit.com/r/walkaway/comments/su2uaj/no_wonder_there_is_a_housing_crisis/">No wonder there is a housing crisis.</a>, submitted on 2022-02-17 02:33:30+08:00.</h3>
+
+<p>—– <strong>101.1</strong> —–2022-02-17 12:50:34+08:00:</p>
+
+<blockquote>
+  <p>Honestly as a rural NY dweller, I hate when people assume I live in the unbearable shithole that is NYC</p>
+</blockquote>
+
+<p>Rural upstate NY is beautiful.  I have no use for the city, either.  But if I had to live in a city in that failed state, I’d take Buffalo over NYC most days.  While also a shithole, it’s less of a shithole than NYC.  Especially now.</p>
+
+<h3 id="102-rates-in-denmark-going-up-after-restrictions-lifted-submitted-on-2022-02-17-0924080800">102: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/suc5j9/rates_in_denmark_going_up_after_restrictions/">Rates in Denmark going up after restrictions lifted</a>, submitted on 2022-02-17 09:24:08+08:00.</h3>
+
+<p>—– <strong>102.1</strong> —–2022-02-17 10:01:26+08:00:</p>
+
+<p>I don’t see how this is relevant to Illinois.</p>
+
+<h3 id="103-unofficial-daily-update-for-2022-02-17-2538-new-cases-submitted-on-2022-02-18-0205040800">103: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/suv4v1/unofficial_daily_update_for_20220217_2538_new/">Unofficial Daily Update for 2022-02-17. 2538 New Cases.</a>, submitted on 2022-02-18 02:05:04+08:00.</h3>
+
+<p>—– <strong>103.1</strong> —–2022-02-18 12:00:50+08:00:</p>
+
+<blockquote>
+  <p>paid sick and universal healthcare</p>
+</blockquote>
+
+<p>Universal health care is something democrats talk about but never follow through on.  They never will, because at the end of the day they do not care about universal health care.  The political costs to them would be too high, which is why Obamacare looks the way it does.</p>
+
+<p>The way it works for the most part now is that the federal reimbursement schedules for medicare/medicaid set the baseline for pricing.  If you’re in the medicare pool, then you might have a supplemental plan for charges in excess of that.  If you’re not, then there’s a good chance that whatever unrecovered costs private facilities incur will be indirectly passed off to insureds with private commercial coverage.  Really, that’s just a function of basic economics.</p>
+
+<p>Underinsured or uninsured (yes, even post-mandated Obamacare) seek medical treatment.  It’s usually emergency medical care.  Because of federal and often state laws, you can’t deny medical care based on lack of ability to pay.  As a result, services are rendered but never paid for.  While some margin of that may be reimbursed by government under certain circumstances, in the big picture it means that a lot of money is lost because bills are never paid.  Sometimes third parties buy the right to collect that debt, but its sold for pennies on the dollar.</p>
+
+<p>A long long time ago I proposed the radical idea of creating consolidated involuntary risk pools, wherein all taxpayers would automatically receive minimal coverage and requiring hospitals to accept payment for services rendered according to the medicaid reimbursement schedule.  I suggested that this be taken out of payroll taxes and administered by the IRS, as opposed to the clusterfuck that is HHS.  I suggested requiring private health insurers to bear a proportional amount of all such involuntary risk pools based on their relative market share in the localities in which they operated (similar to other involuntary risk pools), as a condition to their writing supplemental policies.</p>
+
+<p>I suggested that all of these should be administered as PPO as opposed to HMO plans, that no deductible for the underlying policy should apply to anyone and prescription drug coverage along the lines of Medicare Part D should be universal.  I further projected that by doing this, administrative costs would be acutely reduced from the obnoxiously bloated figure they represent in the status quo and taxpayers would wind up saving money once all factors were considered.</p>
+
+<p>The point was to fix all the loose ends, left open by the Heritage Foundation’s model for what would eventually become “Romneycare” in Massachusetts.  Basically, by tweaking how risk is borne and by whom, spreading it out across working populations and doing so under circumstances where collection was a lot more likely, everyone is better off.  Hospitals get paid and keep the lights on without passing off uncollected costs to insureds with private commercial coverage; private commercial coverage becomes more efficient and more profitable if done at scale (so, BCBS and just a few others were really the only players who could still operate); and importantly, access to health care would be universalized.</p>
+
+<p>The big problem is supply.  If you provide non-illusory coverage at that scale, that would reduce financial barriers to entry to a degree that it would actually overwhelm hospitals even in a non-pandemic situation.  So more hospitals, more outpatient facilities and more point-of-care staff would be needed.  There aren’t enough doctors in the country, same for nurses, surgeons and all the others.  I think there were solutions, but it didn’t matter.</p>
+
+<p>Obamacare dodged the problem, if you were curious.  Basically, by opting to put illusory (bronze) or cost-prohibitive  (gold) policies on its “exchanges” — the stupidest idea in history — Obamacare throttled access.  It is true that “coverage” was expanded to something like 40 million people, but the overwhelming majority of them were sold policies with monthly premiums higher than their car payments with deductibles they’d never meet, on HMO plans that required them to travel sometimes up to 50 miles for an in-network provider who graduated at the bottom of their class in medical school.</p>
+
+<p>Medical bills remain the most common cause of bankruptcy, if you were curious.  Obamacare was a snare and a delusion.  An appropriate analogy could be drawn to racketeering, wherein the mob (shithole insurance companies) demanded payment of “protection money” from the most economically vulnerable Americans in the unfortunate case that “something bad was to happen to this nice place they had.”   Tony Soprano’s business model is more ethical than that.</p>
+
+<p>My proposal would basically force shithole insurers like Ambetter and others that offer illusory coverage to unwitting and poor customers out of the market and out of business — which, mind you, was the whole point.</p>
+
+<p>So it was dead on arrival.  And that was the last time I ever did consulting work.</p>
+
+<h3 id="104-judge-grischow-sets-cps-hearing-show-cause-as-to-why-the-defendants-should-not-be-held-in-contempt-submitted-on-2022-02-18-0647380800">104: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/sv1pb3/judge_grischow_sets_cps_hearing_show_cause_as_to/">Judge Grischow sets CPS hearing: ‘Show cause as to why the Defendants should not be held in contempt’</a>, submitted on 2022-02-18 06:47:38+08:00.</h3>
+
+<p>—– <strong>104.1</strong> —–2022-02-18 08:13:43+08:00:</p>
+
+<p>This low-effort noise adds no value whatsoever to the discussion.</p>
+
+<p>—– <strong>104.2</strong> —–2022-02-18 12:36:30+08:00:</p>
+
+<blockquote>
+  <p>I wonder if he’s actually going to show up</p>
+</blockquote>
+
+<p>Defying a court order carries the risk of confrontation with the police.  He’d be a fool to ignore it.  Like, an actual fool.  A warrant would be issued for his arrest.  He would be arrested, transferred to the jurisdiction from which the warrant was issued and physically brought to the Court to explain his actions.  He would be found in contempt of the Court, almost certainly fined and possibly censured.</p>
+
+<p>Last thing you want to do is add process crimes, when acting in your official capacity.</p>
+
+<h3 id="105-appeal-of-tro-is-ruled-null-because-of-jcar-vote-there-is-no-longer-a-school-mask-mandate-in-illinois-submitted-on-2022-02-18-1407360800">105: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/svapqt/appeal_of_tro_is_ruled_null_because_of_jcar_vote/">Appeal of TRO is ruled null because of JCAR vote. There is no longer a school mask mandate in Illinois.</a>, submitted on 2022-02-18 14:07:36+08:00.</h3>
+
+<p>—– <strong>105.1</strong> —–2022-02-18 20:10:36+08:00:</p>
+
+<blockquote>
+  <p>The thought of a mask mandate in schools but nowhere else is laughable.</p>
+</blockquote>
+
+<p>It is, and the fact that JB sought to reimpose a mask mandate in schools despite dropping all the others is absurdity in itself.  Clearly he wanted to be the one who dropped the mandates, but legal challenges beat him to the punch.  That was a serious political miscalculation on his part.</p>
+
+<p>—– <strong>105.2</strong> —–2022-02-18 20:11:51+08:00:</p>
+
+<blockquote>
+  <p>University of Illinois is going to be requiring masks in classes.</p>
+</blockquote>
+
+<p>Administrators want to, yes.  Whether they are able to see their way to implementing such a policy is another matter.</p>
+
+<p>—– <strong>105.3</strong> —–2022-02-18 20:49:34+08:00:</p>
+
+<blockquote>
+  <p>It’s entirely reasonable to expect another surge in the future that necessitates further mandates.</p>
+</blockquote>
+
+<p>Surge of what?  Cases?  Hospitalizations?  Both?  Neither are realistic.  Here’s the deal: In the first instance, universal or near universal susceptibility to infection should never have been assumed.  Each and every model used to justify fantastic projections of exponentially rising cases and by implication hospitalizations assumed at least 85% of the population was susceptible to infection.  Refer to Ferguson’s 2020 paper on the same.  That Ferguson ignored five existing data-sets out of China and other areas which obviated the reasonableness of that assumption prior to and after publication somehow is lost in all the excitement.</p>
+
+<p>But whatever.  Even assuming universal susceptibility to infection, for the sake of argument, every infection does one of two things.  Either you recover or you do not.  If you do not recover, you’re out of the pool of those susceptible (because you’re dead).  If you do recover, you’re still out of the pool because of immunity conferred by infection for at least some period of time.</p>
+
+<p>The next question is how long immunity from infection lasts, irrespective of vaccines (assuming vaccines do not reduce the durability of immunity resulting from recovery … some have made that claim, I don’t see evidence for it).  There is no question that immunity lasts at least six months, because that’s been proven by appropriate studies/conducted by appropriate methods.  Some claim that reinfection after that timeframe is expected, for any number of stupid reasons (e.g., number of “mutations” in “new variants,” or other such nonsense).</p>
+
+<p>After that, you have to make a determination of whether reinfection is likely and if so at what point.  The purported “evidence” in support of reinfection risk is speculative at best, as it is based solely on high-Ct PCR positives administered at varying points following initial “positive” indication, from Ct-indeterminate PCR tests.  This is not evidence of reinfection; it’s solely evidence that the SARS-CoV-2 virus is ubiquitous.  The presence of viral RNA in a 45-cycle sample is not and will never be evidence of infection in a subject.  It just means that some molecular fragment of the genetic sequence is in someone’s nose, when you’re talking about running 30 or 40 or 50 cycles to find a positive.  It’s a method that approximates bullshit on stilts.  Low-Ct PCRs along the lines of what Moderna utilized to assess vaccine efficacy in their phase 3 clinical trials is fine is a much more effective way of using that method, as compared to what all these private testing facilities are doing around the world in general and in the United States and Israel in particular.</p>
+
+<p>The point is that you can’t use high-Ct or Ct-indeterminate PCR tests for the purpose of establishing reinfection, or infection in the first instance.  You need other data points to confirm, ideally infection-specific serology testing.  That way you know you’re actually measuring what you think you’re measuring, and every study that’s done that finds exactly what anyone in the field would expect to find: a reinfection risk comparable to MERS or other comparable coronaviruses, which is essentially zero for many years.  Not months.</p>
+
+<p>That means that once you actually recover, you’re almost certainly out of the bucket of those susceptible to infection, which means only those who have not been infected remain.  Then you have to factor in vaccines, which do a tremendous amount to close the gap of those “people susceptible to infection” — a figure hard to quantify.  Obviously not everyone has sought or received a vaccine (for reasons beyond the scope of this discussion), and that is regretful, but the probability that they are hospitalized due to COVID-19 infection has to  be considered in view of why they haven’t gotten COVID-19 yet given (a) that it is <em>extremely</em> infectious and (b) ubiquitous in our environment.  The point is that in all probability if they were going to be infected and hospitalized, there’s a very good chance it should have already happened by now — especially when you consider some of the behavior that those who refuse to be vaccinated have engaged in at times when the risk of infection was highest (e.g., delta surge).</p>
+
+<p>Is it possible that something like delta will happen again?  Sure, but if it does it will not be to a virus-naive population.  That means the scope of those likely to get infected is a lot lower than it was with delta.  That means that both the number of cases and probability they result in hospitalizations is a LOT lower even before you start to factor in newly commercialized therapeutics (e.g., molnupirivir) approved by the FDA to treat COVID-19 infection in an outpatient setting.  That means that in the unlikely event of any future “surge,” the way it’s handled will be that you go to Walgreens and get a prescription.  And even if you do happen to get hospitalized despite the prescription therapeutics, you’re going to get a regimen of treatment options that will get you out of the hospital a lot quicker than you could have hoped for in, say, early 2020.</p>
+
+<p>The “public health” approach to COVID-19 is over.  Even if you accept the highly questionable evidence that mask <em>mandates</em> make any difference in community spread at face value, there is nothing to suggest their ongoing necessity in view of the fact that we are no-longer infection naive, and considering advances in both vaccines and therapeutics.  And more to the point, when a pandemic is “over” isn’t really a public health question, either.  Rather, it’s more of a political question that is informed by data points the field of public health suggests are relevant, measured against the general public’s willingness to contend with whatever measures public health proposes.  When democrats line up against JB’s mandates, you can see the answer to that question with little difficulty.</p>
+
+<h3 id="106-what-if-russia-wins-a-kremlin-controlled-ukraine-would-transform-europe-submitted-on-2022-02-18-2236100800">106: <a href="https://old.reddit.com/r/geopolitics/comments/svjfgn/what_if_russia_wins_a_kremlincontrolled_ukraine/">What if Russia Wins?: A Kremlin-Controlled Ukraine Would Transform Europe</a>, submitted on 2022-02-18 22:36:10+08:00.</h3>
+
+<p>—– <strong>106.1</strong> —–2022-02-20 01:05:14+08:00:</p>
+
+<p>This thread is locked, due to the prolific array of conspiracy theories, unsavory innuendo and low-effort noise.</p>
+
+<p>—– <strong>106.2</strong> —–2022-02-20 01:06:41+08:00:</p>
+
+<blockquote>
+  <p>he is a big pussy.</p>
+</blockquote>
+
+<p>Why would you think that is acceptable language to use here?</p>
+
+<h3 id="107-pritzker-to-take-school-mask-case-to-illinois-supreme-court-after-ruling-leaves-masking-up-to-local-districts-more-than-500-are-mask-optional-cps-staying-the-course-submitted-on-2022-02-19-0300000800">107: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/svpkd5/pritzker_to_take_school_mask_case_to_illinois/">Pritzker to take school mask case to Illinois Supreme Court after ruling leaves masking up to local districts. More than 500 are mask optional; CPS staying the course.</a>, submitted on 2022-02-19 03:00:00+08:00.</h3>
+
+<p>—– <strong>107.1</strong> —–2022-02-19 12:52:52+08:00:</p>
+
+<p>Pritzker expects the Illinois Supreme Court to conclude the issue is moot, because it is.  This appeal is solely for the purpose of theatrics.</p>
+
+<h3 id="108-india-uae-sign-free-trade-deal-expected-to-double-trade-to-100-billion-in-5yrs--latest-news-india---hindustan-times-submitted-on-2022-02-19-1726300800">108: <a href="https://old.reddit.com/r/geopolitics/comments/sw64yz/india_uae_sign_free_trade_deal_expected_to_double/">India, UAE sign free trade deal expected to double trade to $100 billion in 5yrs | Latest News India - Hindustan Times</a>, submitted on 2022-02-19 17:26:30+08:00.</h3>
+
+<p>—– <strong>108.1</strong> —–2022-02-20 11:49:27+08:00:</p>
+
+<p>Improperly formatted title and no submission statement after 18 hours.</p>
+
+<h3 id="109-can-organizations-like-the-united-nations-prevent-war-submitted-on-2022-02-20-0042550800">109: <a href="https://old.reddit.com/r/geopolitics/comments/swe5lj/can_organizations_like_the_united_nations_prevent/">Can organizations like the United Nations prevent war?</a>, submitted on 2022-02-20 00:42:55+08:00.</h3>
+
+<p>—– <strong>109.1</strong> —–2022-02-20 01:19:27+08:00:</p>
+
+<p>This question has been reviewed and is approved.  While more elementary than some of the questions we typically see, this is a good opportunity to consider the basics of what role the United Nations plays in preserving world peace and underwriting the liberal world order.  Maybe some of you have considered this question in your lower level college classes.  We encourage you to share those perspectives.</p>
+
+<h3 id="110-alien-newsletter-20-the-ukraine-invasion-to-be-submitted-on-2022-02-20-0051180800">110: <a href="https://old.reddit.com/r/geopolitics/comments/swec71/alien_newsletter_20_the_ukraine_invasion_tobe/">Alien Newsletter #20: The Ukraine Invasion To-Be</a>, submitted on 2022-02-20 00:51:18+08:00.</h3>
+
+<p>—– <strong>110.1</strong> —–2022-02-20 00:59:36+08:00:</p>
+
+<p>Blogspam.  No submission statement.</p>
+
+<h3 id="111-will-russia-and-china-invade-ukraine-and-taiwan-simultaneously-submitted-on-2022-02-20-1212240800">111: <a href="https://old.reddit.com/r/geopolitics/comments/swsfjj/will_russia_and_china_invade_ukraine_and_taiwan/">Will Russia and China invade Ukraine and Taiwan simultaneously?</a>, submitted on 2022-02-20 12:12:24+08:00.</h3>
+
+<p>—– <strong>111.1</strong> —–2022-02-21 01:28:03+08:00:</p>
+
+<p>I agree that China’s strategy is to try and wear down Taiwan’s and other actor’s resolve.  China maximizes utility only when Taiwan’s infrastructure is not a casualty in “unification” efforts.  So, if Taiwan’s high-tech manufacturing capital is a casualty of war, it is not obvious Beijing is any better off.</p>
+
+<p>I don’t agree that China’s mobilization times would be as long as you suggest, though that question is largely academic because the probability of a conventional invasion is fairly low to begin with (for reasons noted above).</p>
+
+<h3 id="112-what-are-some-effective-ways-to-get-a-man-to-stop-hitting-on-you-submitted-on-2022-02-20-1854390800">112: <a href="https://old.reddit.com/r/AskReddit/comments/swyrkc/what_are_some_effective_ways_to_get_a_man_to_stop/">What are some effective ways to get a man to stop hitting on you?</a>, submitted on 2022-02-20 18:54:39+08:00.</h3>
+
+<p>—– <strong>112.1</strong> —–2022-02-21 00:43:45+08:00:</p>
+
+<p>Inform him of your devout commitment to Scientology.</p>
+
+<h3 id="113-rosatom-doubles-down-on-the-arctic-will-spend-15-trillion-rubles-on-more-nuclear-icebreakers-and-other-vessels-through-2030-submitted-on-2022-02-20-2130410800">113: <a href="https://old.reddit.com/r/geopolitics/comments/sx1bgt/rosatom_doubles_down_on_the_arctic_will_spend_15/">Rosatom doubles down on the Arctic, will spend 1.5 trillion rubles on more nuclear icebreakers and other vessels through 2030</a>, submitted on 2022-02-20 21:30:41+08:00.</h3>
+
+<p>—– <strong>113.1</strong> —–2022-02-20 23:52:51+08:00:</p>
+
+<p>Don’t just cross-post something.  Post a submission statement explaining its relevance.</p>
+
+<h3 id="114-map-of-donbass-published-by-the-dpr-submitted-on-2022-02-20-2151580800">114: <a href="https://old.reddit.com/r/geopolitics/comments/sx1pfk/map_of_donbass_published_by_the_dpr/">Map of Donbass (Published by the DPR)</a>, submitted on 2022-02-20 21:51:58+08:00.</h3>
+
+<p>—– <strong>114.1</strong> —–2022-02-20 23:51:59+08:00:</p>
+
+<p>I will approve this if you post a submission statement explaining its relevance.  Aim for 3-5 sentences.</p>
+
+<p>—– <strong>114.2</strong> —–2022-02-21 12:45:08+08:00:</p>
+
+<p>Try that again.</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-02-27</time>
+        <a href="https://nodebe4.github.io/opinion/2022-02-27/EnclavedMicrostate/">
+          EnclavedMicrostate在2022-02-21~2022-02-27的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-02-26</time>
+        <a href="https://nodebe4.github.io/opinion/2022-02-26/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-02-21~2022-02-27的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-02-20</time>
+        <a href="https://nodebe4.github.io/opinion/2022-02-20/EnclavedMicrostate/">
+          EnclavedMicrostate在2022-02-14~2022-02-20的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-02-19</time>
+        <a href="https://nodebe4.github.io/opinion/2022-02-19/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-02-14~2022-02-20的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-02-20/realcaixia/">
+            前一篇：Twitter @蔡霞: 2022-02-14~2022-02-20
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-02-20/wangdan1989/">
+            後一篇：Twitter @王丹: 2022-02-14~2022-02-20
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-02-20/realcaixia/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-02-20/wangdan1989/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-02-26/ForeignAffairsMag/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-02-20/EnclavedMicrostate/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-02-20/realcaixia/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-02-20/wangdan1989/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-02-26/ForeignAffairsMag/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-02-20/EnclavedMicrostate/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

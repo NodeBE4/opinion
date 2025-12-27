@@ -1,0 +1,2354 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>EnclavedMicrostate在2022-07-11~2022-07-17的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="EnclavedMicrostate在2022-07-11~2022-07-17的言论" />
+    <meta property="twitter:title" content="EnclavedMicrostate在2022-07-11~2022-07-17的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FVirtualYoutubers%2Fcomments%2Fvwiydu%2Fflawlessly_fragrant_filipinos_weekly_discussion%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/VirtualYoutubers/comments/vwiydu/flawlessly_fragrant_filipinos_weekly_discussion/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/VirtualYoutubers/comments/vwiydu/flawlessly_fragrant_filipinos_weekly_discussion/&text=EnclavedMicrostate在2022-07-11~2022-07-17的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/VirtualYoutubers/comments/vwiydu/flawlessly_fragrant_filipinos_weekly_discussion/&title=EnclavedMicrostate在2022-07-11~2022-07-17的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/VirtualYoutubers/comments/vwiydu/flawlessly_fragrant_filipinos_weekly_discussion/&title=EnclavedMicrostate在2022-07-11~2022-07-17的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=EnclavedMicrostate在2022-07-11~2022-07-17的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/VirtualYoutubers/comments/vwiydu/flawlessly_fragrant_filipinos_weekly_discussion/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/VirtualYoutubers/comments/vwiydu/flawlessly_fragrant_filipinos_weekly_discussion/&title=EnclavedMicrostate在2022-07-11~2022-07-17的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=EnclavedMicrostate在2022-07-11~2022-07-17的言论&url=https://old.reddit.com/r/VirtualYoutubers/comments/vwiydu/flawlessly_fragrant_filipinos_weekly_discussion/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>EnclavedMicrostate在2022-07-11~2022-07-17的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-07-17
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: EnclavedMicrostate</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/VirtualYoutubers/comments/vwiydu/flawlessly_fragrant_filipinos_weekly_discussion/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#602-flawlessly-fragrant-filipinos---weekly-discussion-thread-july-11th-2022-submitted-on-2022-07-11-2152130800" id="markdown-toc-602-flawlessly-fragrant-filipinos---weekly-discussion-thread-july-11th-2022-submitted-on-2022-07-11-2152130800">602: Flawlessly Fragrant Filipinos - Weekly Discussion Thread, July 11th, 2022, submitted on 2022-07-11 21:52:13+08:00.</a></li>
+  <li><a href="#603-what-is-the-influence-of-griggs-vs-duke-power-co-on-how-companies-shifted-their-qualification-requirements-for-a-job-vacancy-submitted-on-2022-07-13-0808430800" id="markdown-toc-603-what-is-the-influence-of-griggs-vs-duke-power-co-on-how-companies-shifted-their-qualification-requirements-for-a-job-vacancy-submitted-on-2022-07-13-0808430800">603: What is the influence of “Griggs VS Duke Power Co.” on how companies shifted their qualification requirements for a job vacancy?, submitted on 2022-07-13 08:08:43+08:00.</a></li>
+  <li><a href="#604-even-though-sign-language-is-not-a-universal-language-and-variants-exist-for-different-languages-ie-spanish-sign-language--japanese-american--do-we-have-a-definitive-documentation-of-what-was-the-first-form-of-sign-language-used--submitted-on-2022-07-13-1119230800" id="markdown-toc-604-even-though-sign-language-is-not-a-universal-language-and-variants-exist-for-different-languages-ie-spanish-sign-language--japanese-american--do-we-have-a-definitive-documentation-of-what-was-the-first-form-of-sign-language-used--submitted-on-2022-07-13-1119230800">604: Even though sign language is not a universal language and variants exist for different languages ie Spanish sign language , Japanese, American . Do we have a definitive documentation of what was the first form of sign language used ?, submitted on 2022-07-13 11:19:23+08:00.</a></li>
+  <li><a href="#605-senchou--shion-looks-away-submitted-on-2022-07-13-1151300800" id="markdown-toc-605-senchou--shion-looks-away-submitted-on-2022-07-13-1151300800">605: Senchou &amp; Shion: *Looks Away, submitted on 2022-07-13 11:51:30+08:00.</a></li>
+  <li><a href="#606-before-the-popularization-of-nation-states-how-did-people-identify-where-they-were-from-when-meeting-foreigners-submitted-on-2022-07-13-1455250800" id="markdown-toc-606-before-the-popularization-of-nation-states-how-did-people-identify-where-they-were-from-when-meeting-foreigners-submitted-on-2022-07-13-1455250800">606: Before the popularization of nation states, how did people identify where they were from when meeting foreigners?, submitted on 2022-07-13 14:55:25+08:00.</a></li>
+  <li><a href="#607-thursday-reading--recommendations--july-14-2022-submitted-on-2022-07-14-2100090800" id="markdown-toc-607-thursday-reading--recommendations--july-14-2022-submitted-on-2022-07-14-2100090800">607: Thursday Reading &amp; Recommendations | July 14, 2022, submitted on 2022-07-14 21:00:09+08:00.</a></li>
+  <li><a href="#608-why-didnt-china-conquer-mongolia-submitted-on-2022-07-15-0241060800" id="markdown-toc-608-why-didnt-china-conquer-mongolia-submitted-on-2022-07-15-0241060800">608: Why didn’t China conquer Mongolia?, submitted on 2022-07-15 02:41:06+08:00.</a></li>
+  <li><a href="#609-is-this-wwi-brass-brodie-helmet-real-submitted-on-2022-07-15-1157010800" id="markdown-toc-609-is-this-wwi-brass-brodie-helmet-real-submitted-on-2022-07-15-1157010800">609: is this wwi brass Brodie helmet real?, submitted on 2022-07-15 11:57:01+08:00.</a></li>
+  <li><a href="#610-free-for-all-friday-15-july-2022-submitted-on-2022-07-15-1900140800" id="markdown-toc-610-free-for-all-friday-15-july-2022-submitted-on-2022-07-15-1900140800">610: Free for All Friday, 15 July 2022, submitted on 2022-07-15 19:00:14+08:00.</a></li>
+  <li><a href="#611-lui-loop-submitted-on-2022-07-17-1711400800" id="markdown-toc-611-lui-loop-submitted-on-2022-07-17-1711400800">611: Lui loop, submitted on 2022-07-17 17:11:40+08:00.</a></li>
+  <li><a href="#612-hobby-scuffles-week-of-july-18-2022-submitted-on-2022-07-17-2300130800" id="markdown-toc-612-hobby-scuffles-week-of-july-18-2022-submitted-on-2022-07-17-2300130800">612: [Hobby Scuffles] Week of July 18, 2022, submitted on 2022-07-17 23:00:13+08:00.</a></li>
+</ul>
+
+<h3 id="602-flawlessly-fragrant-filipinos---weekly-discussion-thread-july-11th-2022-submitted-on-2022-07-11-2152130800">602: <a href="https://old.reddit.com/r/VirtualYoutubers/comments/vwiydu/flawlessly_fragrant_filipinos_weekly_discussion/">Flawlessly Fragrant Filipinos - Weekly Discussion Thread, July 11th, 2022</a>, submitted on 2022-07-11 21:52:13+08:00.</h3>
+
+<p>—– <strong>602.1</strong> —–2022-07-12 13:23:49+08:00:</p>
+
+<p>Per her ongoing stream, she knew a while ago, it seems.</p>
+
+<p>—– <strong>602.2</strong> —–2022-07-13 20:21:40+08:00:</p>
+
+<p>I was there last year and saw a lot of Holo and zero Niji, so it’ll be interesting to see a bit more diversity in VTuber-related stuff all told.</p>
+
+<p>—– <strong>602.3</strong> —–2022-07-14 20:05:28+08:00:</p>
+
+<p>I feel there’s kind of a two-way thing of on the one hand, VShojo having this whole brand identity of being an agency that’s not an agency, and on the other hand, Hololive having this reputation of being the most agency-like agency, creating a bit of a double whammy: anything that’s not Hololive becomes some kind of countercultural thing by default if you’re into it, even if it’s Nijisanji i.e. the other big agency JP-side; and VShojo capitalises on that extra hard. But it’s fascinating how people buy into the hype about VShojo as this bastion of talent freedom and the notion that Cover is some kind of dictatorial 1984poration, when the reality is that both are likely more similar than that surface-level assessment suggests. VShojo is definitely a lot more lax, I’ll give it that, but it also has at least some amount of staff etc. and presumably some kind of red lines, even if those are lines that the members have yet to cross.</p>
+
+<p>—– <strong>602.4</strong> —–2022-07-15 02:38:45+08:00:</p>
+
+<blockquote>
+  <p>“In Japan, VTubing is more about idol stuff. VTubers in Japan are considered idol-like, they have to be very perfect and always on their best behavior…”</p>
+</blockquote>
+
+<p><a href="https://static.wikia.nocookie.net/virtualyoutuber/images/9/93/VShojo_idols_at_VILLS_2021.jpg/revision/latest/scale-to-width-down/1000?cb=20211214083810">Because idol stuff is something Veibae’s own agency has never done…</a></p>
+
+<p>—– <strong>602.5</strong> —–2022-07-15 03:05:17+08:00:</p>
+
+<p>Yeah but Nyanners’ reason for that isn’t necessarily prudishness…</p>
+
+<p>—– <strong>602.6</strong> —–2022-07-15 12:12:56+08:00:</p>
+
+<p>…do <em>you</em> encounter blacksmiths, rain shamans, and secret agents in your daily life?</p>
+
+<p>—– <strong>602.7</strong> —–2022-07-15 19:25:22+08:00:</p>
+
+<p>I feel like Cover’s been not necessarily distancing from the Holostars brand name, but it does feel like there’s some level on which Holostars in the narrow sense refers only to the remaining nine members who debuted between June 2019 and May 2020. Uproar, for instance, is simply UPROAR!!! and not Holostars 4th Generation, and similarly this new StarsEN generation seems to be presented as <em>under</em> Holostars, but also <em>not</em> Holostars in the narrow sense.</p>
+
+<p>—– <strong>602.8</strong> —–2022-07-15 19:45:49+08:00:</p>
+
+<p>Milky Queen’s <a href="https://www.youtube.com/shorts/f4ghd0gZuJY">announced</a> a Live2D unveiling, 22 July at 1800 PDT.</p>
+
+<p>—– <strong>602.9</strong> —–2022-07-15 20:09:54+08:00:</p>
+
+<p>Does Hololive bring out its idol outfits in non-concert situations? And what does it matter what context this came up in if they did it anyway? I’m not <em>accusing</em> VShojo of doing idol stuff, I’m not fussed either way about that in and of itself. I’m pointing out that Veibae is wrong when she suggests that there’s no particular idol dimension to Anglophone VTubers either, especially when her own agency has consciously and deliberately dabbled in it. Lest we forget also that <a href="https://www.youtube.com/watch?v=KuIx0joluXE">Ironmouse has a Live2D idol-inspired outfit</a>.</p>
+
+<p>—– <strong>602.10</strong> —–2022-07-16 12:24:53+08:00:</p>
+
+<blockquote>
+  <p>homely</p>
+</blockquote>
+
+<p><a href="https://imgur.com/dwtMzZy">I would assume by the British and not the North American definition…</a></p>
+
+<p>—– <strong>602.11</strong> —–2022-07-17 01:50:47+08:00:</p>
+
+<p>I checked through this once for HoloEN: of 11 (current (big sad)) members, four had been regular users of VTuber avatars on their primary account/persona by the time they debuted in Hololive (&gt;!Ame, IRyS, Bae, Fauna!&lt;), two had some limited use of a VTuber avatar on their primary account/persona (&gt;!Gura, Ina!&lt;), one had a separate VTuber persona on a secondary account (&gt;!Kronii!&lt;), and one had VTuber activities on a separate account from their main, but under the same name (&gt;!Mumei!&lt;); the rest had no prior experience that I know of (&gt;!Calli, Kiara, Sana!&lt;). So that makes eight out of eleven members who would constitute ‘former VTubers’ in some sense.</p>
+
+<p>I don’t know about HoloID as a whole, though I did check ID3, of whom only one (&gt;!Zeta!&lt;) has any known prior VTuber experience.</p>
+
+<p>As for JP, four of the original five members of JP Gen 5 had some level of VTuber activity pre-Hololive (except &gt;!Aloe!&lt;), and <em>everyone</em> in HoloX has done some amount of VTuber content in the past. The story is different for older Holomems, from when VTubing was less established and going from non-VTuber to agency was more common. If I’m not mistaken (which I may be), of Gen 0 through Gen 4 (Gamers included) only five are known to have had prior VTuber experience (Suisei obviously, also &gt;!Korone, Rushia, Luna, Coco!&lt;), out of 28 total.</p>
+
+<p>While I don’t know for Nijisanji, for Hololive it’s almost certain that nearly all future JP and EN members will have some kind of VTuber experience simply because of how long the format’s been around now and the relatively low barrier of entry. So it’s kind of a yes and no situation where anyone who was in before 2020 most likely wasn’t a VTuber previously, and anyone who has joined since 2020 (or does so in future) most likely was.</p>
+
+<p>—– <strong>602.12</strong> —–2022-07-17 23:49:22+08:00:</p>
+
+<p>I won’t accept it unless the window is broken.</p>
+
+<h3 id="603-what-is-the-influence-of-griggs-vs-duke-power-co-on-how-companies-shifted-their-qualification-requirements-for-a-job-vacancy-submitted-on-2022-07-13-0808430800">603: <a href="https://old.reddit.com/r/AskHistorians/comments/vxpjt4/what_is_the_influence_of_griggs_vs_duke_power_co/">What is the influence of “Griggs VS Duke Power Co.” on how companies shifted their qualification requirements for a job vacancy?</a>, submitted on 2022-07-13 08:08:43+08:00.</h3>
+
+<p>—– <strong>603.1</strong> —–2022-07-13 15:03:38+08:00:</p>
+
+<p>Hi there - unfortunately we have had to remove your question, because <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework">/r/AskHistorians isn’t here to do your homework for you</a>. However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself.</p>
+
+<p>If you have indeed asked a homework question, you should consider resubmitting a question more focused on finding resources and seeking clarification on confusing issues: tell us what you’ve researched so far, what resources you’ve consulted, and what you’ve learned, and we are more likely to approve your question. Please see this <a href="https://www.reddit.com/r/AskHistorians/comments/hplxyf/rules_roundtable_xx_the_no_homework_rule/">Rules Roundtable</a> thread for more information on what makes for the kind of homework question we’d approve. Additionally, if you’re not sure where to start in terms of finding and understanding sources in general, we have a six-part series, “<a href="https://www.reddit.com/r/AskHistorians/wiki/theory#wiki_monday_methods.3A_finding_and_understanding_sources">Finding and Understanding Sources</a>”, which has a wealth of information that may be useful for finding and understanding information for your essay. Finally, other subreddits are likely to be more suitable for help with homework - try looking for help at /r/HomeworkHelp.</p>
+
+<p>Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you <strong>wait for 7 days</strong> and then ask a less open-ended question on the same topic.</p>
+
+<h3 id="604-even-though-sign-language-is-not-a-universal-language-and-variants-exist-for-different-languages-ie-spanish-sign-language--japanese-american--do-we-have-a-definitive-documentation-of-what-was-the-first-form-of-sign-language-used--submitted-on-2022-07-13-1119230800">604: <a href="https://old.reddit.com/r/AskHistorians/comments/vxt852/even_though_sign_language_is_not_a_universal/">Even though sign language is not a universal language and variants exist for different languages ie Spanish sign language , Japanese, American . Do we have a definitive documentation of what was the first form of sign language used ?</a>, submitted on 2022-07-13 11:19:23+08:00.</h3>
+
+<p>—– <strong>604.1</strong> —–2022-07-13 15:04:00+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="605-senchou--shion-looks-away-submitted-on-2022-07-13-1151300800">605: <a href="https://old.reddit.com/r/Hololive/comments/vxtswb/senchou_shion_looks_away/">Senchou &amp; Shion: *Looks Away</a>, submitted on 2022-07-13 11:51:30+08:00.</h3>
+
+<p>—– <strong>605.1</strong> —–2022-07-14 00:07:22+08:00:</p>
+
+<p>They’re not married though there’s about 95% certainty they were a couple and probably still are, just less public about it. They dropped the married act around this time last year, though whether it’s because they’re not a couple or because it came off as heteronormative has been a matter of some interpretation. Since then they’ve been less public about the if and how of their relationship but the general implication is still there. I have a bit of a linkdump from an older comment that I may as well share here:</p>
+
+<blockquote>
+  <p>Aside from the relatively well-known rings thing, they got each other White Day gifts just this year <a href="https://twitter.com/shiroganenoel/status/1504414555094794243">(Noel’s tweet)</a> <a href="https://twitter.com/shiranuiflare/status/1504407960251887617">(Flare’s tweet)</a> and mention going on dates (including in that first tweet there but also see <a href="https://twitter.com/shiroganenoel/status/1447879460083040257">here</a>); other mems have noted them being, let’s say <em>suspiciously</em> close <a href="https://www.youtube.com/watch?v=Z4SFaEuuRaU">(Mio)</a>  <a href="https://www.youtube.com/watch?v=9Vv2IppoFak">(Rushia)</a> <a href="https://www.youtube.com/watch?v=6F-gSfEIxBo">(Nene)</a>; they have a collab cover up of <a href="https://www.youtube.com/watch?v=YVdA-QCcXYc">this song</a>, of all the ones to choose; and there’s Noel clips where she explicitly talks about how her relationship with Flare differs from her Subaru obsession such as <a href="https://youtu.be/3uTbr3Qhnio?t=117">this</a> and <a href="https://youtu.be/4TaTV1EQ2Zs?t=439">this</a> where she very much describes Flare as a romantic partner. Even if she’s not dating Flare (which to be honest it would be an amazing set of coincidences and PR manipulation if so) Noel is pretty much ‘out’ given <a href="https://www.youtube.com/watch?v=YA9JMb6OdfQ">this</a> for instance.</p>
+</blockquote>
+
+<p>So are they together? <em>Probably</em> but there’s some room for reasonable doubt if you want to go there.</p>
+
+<p>—– <strong>605.2</strong> —–2022-07-14 00:35:17+08:00:</p>
+
+<p>It’s the bit where she mentions her and Flare. I also know there’s a clip <em>somewhere</em> of her mentioning something along the lines that when she played with dolls as a child it was always a heroine saving the damsel, though the only version I found on later search cut that bit out and was just about her accidentally melting it by the electric heater.</p>
+
+<h3 id="606-before-the-popularization-of-nation-states-how-did-people-identify-where-they-were-from-when-meeting-foreigners-submitted-on-2022-07-13-1455250800">606: <a href="https://old.reddit.com/r/AskHistorians/comments/vxwsny/before_the_popularization_of_nation_states_how/">Before the popularization of nation states, how did people identify where they were from when meeting foreigners?</a>, submitted on 2022-07-13 14:55:25+08:00.</h3>
+
+<p>—– <strong>606.1</strong> —–2022-07-13 15:05:25+08:00:</p>
+
+<p>Apologies, but we have removed your question in its current form as it breaks our <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">rules concerning the scope of questions</a>. However, it might be that an altered version of your question would fit within our rules, and we encourage you to reword your question to fit the rule. While we do allow questions which ask about general topics without specific bounding by time or space, we do ask that they be clearly phrased and presented in a way that can be answered by an individual historian focusing on only one example which they can write about in good detail.</p>
+
+<p>So for example, if you wanted to ask, “<em>Have people always rebelled against health rules in pandemics?</em>” we would remove the question. As phrased, it asks broadly about many places collectively. However if you ask “<em>In the time and place you study, how did people rebel against health rules in a pandemic?</em>” we would allow the question. As phrased, while still asking broadly, it does so in a way that clearly invites a given expert to write exclusively about their topic of focus! We encourage you to think about rewording your question to fit this rule, and thank you for your understanding. If you are unsure of how best to reshape your question to fit these requirements, <a href="https://www.reddit.com/message/compose/?to=/r/AskHistorians">please reach out to us for assistance</a>.</p>
+
+<h3 id="607-thursday-reading--recommendations--july-14-2022-submitted-on-2022-07-14-2100090800">607: <a href="https://old.reddit.com/r/AskHistorians/comments/vyvbqs/thursday_reading_recommendations_july_14_2022/">Thursday Reading &amp; Recommendations | July 14, 2022</a>, submitted on 2022-07-14 21:00:09+08:00.</h3>
+
+<p>—– <strong>607.1</strong> —–2022-08-05 19:45:53+08:00:</p>
+
+<p>A very late reply to this because I was trawling through old threads:</p>
+
+<p>Basically, with <em>CHC</em> you’re better off with volumes published after 1990 and preferably after 2000. Because of that, my personal recommendation for a broad sweep is Harvard’s six-volume <em>History of Imperial China</em> series, capped off with either Jonathan Spence’s <em>The Search for Modern China</em> and/or Pamela Crossley’s <em>The Wobbling Pivot: China Since 1800</em> (albeit with a bit of an awareness that Crossley makes a couple of errors on 20th century topics in that book).</p>
+
+<h3 id="608-why-didnt-china-conquer-mongolia-submitted-on-2022-07-15-0241060800">608: <a href="https://old.reddit.com/r/AskHistorians/comments/vz3293/why_didnt_china_conquer_mongolia/">Why didn’t China conquer Mongolia?</a>, submitted on 2022-07-15 02:41:06+08:00.</h3>
+
+<p>—– <strong>608.1</strong> —–2022-07-15 12:20:46+08:00:</p>
+
+<p>Well, it is worth stating that there was a time when ‘China’, for a given definition of ‘China’, conquered Mongolia, but the way it did so is worth digging into. Fortunately, I did so in <a href="https://www.reddit.com/r/AskHistorians/comments/h108o3/how_did_the_qing_manage_to_subjugate_the_mongols/">this answer</a> a couple years back, but am happy to add clarification on any points if needed.</p>
+
+<p>What that answer doesn’t get into, at least not explicitly, is why pre-Qing states failed at maintaining power in the steppe effectively. For that, we need to discuss the ‘Nomadic Military Advantage’ thesis, which, funnily enough, I also got into, see <a href="https://www.reddit.com/r/AskHistorians/comments/ncau53/what_led_to_the_decline_of_nomadic_people_horse/gy4qneo/">this answer</a> and <a href="https://www.reddit.com/r/AskHistorians/comments/ojwh1l/has_there_ever_been_a_nation_or_group_where_every/h54e9px/">this answer</a>.</p>
+
+<p>—– <strong>608.2</strong> —–2022-07-15 13:02:37+08:00:</p>
+
+<p>I’m not sure where the confusion is coming from, as I quite clearly state that</p>
+
+<blockquote>
+  <p>Nomadic societies can mobilise a far larger proportion of their population than sedentary societies for military purposes without compromising subsistence</p>
+</blockquote>
+
+<p>The size of an army depends on the size and mobilisation potential of the polity behind it. A big state may mobilise more troops than a small nomadic confederation, while the reverse may also be true. There is no ideal exact size of either a state or a nomadic society that would allow one to generalise on a broad scale.</p>
+
+<p>—– <strong>608.3</strong> —–2022-07-15 23:04:27+08:00:</p>
+
+<p>Well, the overall population sustainable on the Eurasian steppe solely through pastoral nomadism had a limit, but it’s not like the <em>entire</em> steppe was <em>always</em> united, or that the same was also true of the <em>entire</em> sedentary world. So even if states had proportionally smaller armies relative to population when compared to nomadic ones, the sizes of those societies still matter.</p>
+
+<p>To boil it down to just the maths for a sec, let’s say that nomadic societies can mobilise 20% of their population for war, and sedentary societies 2%. A nomadic society of, say, 500,000 people would thus have the same amount of mobilisable military manpower as a sedentary society of 5 million. If you’re in a situation where there are, say, two smaller nomadic societies with 500,000 people each, and one big sedentary state with 50 million, then the sedentary state has a much bigger potential army of around 1 million, while the nomadic societies could only pull together 100,000 each. But if you’re in a situation where there’s a massive nomadic confederation of say 5 million people, and several fragmented sedentary states of maybe 10 million each, then the nomadic society can potentially field 1 million troops while each sedentary state can at most field about 200,000.</p>
+
+<p>In other words, <em>yes</em> nomadic societies were smaller while mobilising more troops, but that doesn’t mean their armies were always smaller because it depends <em>how much</em> smaller a given society was.</p>
+
+<h3 id="609-is-this-wwi-brass-brodie-helmet-real-submitted-on-2022-07-15-1157010800">609: <a href="https://old.reddit.com/r/AskHistorians/comments/vzf1ix/is_this_wwi_brass_brodie_helmet_real/">is this wwi brass Brodie helmet real?</a>, submitted on 2022-07-15 11:57:01+08:00.</h3>
+
+<p>—– <strong>609.1</strong> —–2022-07-15 13:47:54+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="610-free-for-all-friday-15-july-2022-submitted-on-2022-07-15-1900140800">610: <a href="https://old.reddit.com/r/badhistory/comments/vzlvkx/free_for_all_friday_15_july_2022/">Free for All Friday, 15 July 2022</a>, submitted on 2022-07-15 19:00:14+08:00.</h3>
+
+<p>—– <strong>610.1</strong> —–2022-07-16 18:28:26+08:00:</p>
+
+<p>Aha, I see I was invoked! When I did my big Tartaria post two years ago (https://www.reddit.com/r/badhistory/comments/ieg2k0/tartaria_the_supposed_megaempire_of_inner_eurasia/), some r/Tartaria users decided to jump in to defend their pet conspiracy theory; it went over about as well as you’d expect.</p>
+
+<h3 id="611-lui-loop-submitted-on-2022-07-17-1711400800">611: <a href="https://old.reddit.com/r/Hololive/comments/w13a89/lui_loop/">Lui loop</a>, submitted on 2022-07-17 17:11:40+08:00.</h3>
+
+<p>—– <strong>611.1</strong> —–2022-07-18 02:09:54+08:00:</p>
+
+<p>It has taken me this long to realise that this BGM gives me strong Angry Birds vibes, and that it is therefore quite apposite for Lui. Anyone up for making an Angry Holobirds fangame where you fight the Haatons?</p>
+
+<h3 id="612-hobby-scuffles-week-of-july-18-2022-submitted-on-2022-07-17-2300130800">612: <a href="https://old.reddit.com/r/HobbyDrama/comments/w19bk4/hobby_scuffles_week_of_july_18_2022/">[Hobby Scuffles] Week of July 18, 2022</a>, submitted on 2022-07-17 23:00:13+08:00.</h3>
+
+<p>—– <strong>612.1</strong> —–2022-07-19 09:36:20+08:00:</p>
+
+<blockquote>
+  <p>overseas fans being banned from viewing the livestream</p>
+</blockquote>
+
+<p>Ah, is this because the platform doesn’t support overseas viewing? I recall at least two (and not implausibly more) Hololive solo concerts that had the same restriction.</p>
+
+<p>—– <strong>612.2</strong> —–2022-07-19 09:45:13+08:00:</p>
+
+<p>Yep. For instance Hololive’s official store ships to my region (HK) but licensing restrictions mean Hololive Nendoroids don’t, and I had to VPN into their last concert for some reason.</p>
+
+<p>—– <strong>612.3</strong> —–2022-07-19 09:53:52+08:00:</p>
+
+<p>If I’m not mistaken, the postponed concert was not viewable overseas. That was definitely true of Nene’s recent Nissin-sponsored concert as well; she even asked about what she could do for overseas fans to make up for it.</p>
+
+<p>—– <strong>612.4</strong> —–2022-07-19 10:06:29+08:00:</p>
+
+<p>…Actually I think the Goodsmile licensing restriction might have gone now as it’s not an issue for newer Pop-Up Parade ones, but at least back when I was getting a Nendo in January (which is before the official store expanded its shipping net) I did so through a friend in the US who was also getting one (thankfully there was a preorder limit of 2). As for the concert though it legitimately might just be SPWN randomly not allowing access from HK as I did a bit of experimenting and found that almost every other country was fine for it. As noted in another comment though, while Hololive’s own concerts are <em>mostly</em> internationally accessible, there have been a couple of collab sponsored ones that are JP-only.</p>
+
+<p>—– <strong>612.5</strong> —–2022-07-19 10:19:41+08:00:</p>
+
+<p>Bit of a sidetrack, but what’s an absence copy?</p>
+
+<p>—– <strong>612.6</strong> —–2022-07-19 11:00:48+08:00:</p>
+
+<p>Ah, no worries then.</p>
+
+<p>—– <strong>612.7</strong> —–2022-07-19 22:47:24+08:00:</p>
+
+<p>Not specified yet, although the Japanese dub doesn’t release for another month.</p>
+
+<p>—– <strong>612.8</strong> —–2022-07-22 20:39:53+08:00:</p>
+
+<p>So, the fascinating thing is that these seasons were weak by the standards set by later TNG. But they weren’t <em>so</em> bad (for the time they were made at least) that the show wasn’t able to survive to its massive S3-onward upswing. It sounds weird but by the time TNG hit its third season it was arguably a pretty ‘established’ show.</p>
+
+<p>—– <strong>612.9</strong> —–2022-07-22 21:07:49+08:00:</p>
+
+<p>Gene Roddenberry is Star Trek’s George Lucas, in more ways than one.</p>
+
+<p>—– <strong>612.10</strong> —–2022-07-22 21:15:02+08:00:</p>
+
+<p>I assume it’s derived from the Japanese pronunciation, where ‘oo’ and ‘ou’ are essentially the same sound (ō) rendered differently. It’s similar to the ‘o’ in ‘more’ when spoken with a British accent.</p>
+
+<p>—– <strong>612.11</strong> —–2022-07-23 02:50:09+08:00:</p>
+
+<p>Troi was supposed to have three breasts. Allegedly the only reason she didn’t was that Jeri Taylor asked where the third one would even go.</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-07-22</time>
+        <a href="https://nodebe4.github.io/opinion/2022-07-22/theoryofdoom/">
+          theoryofdoom在2022-07-18~2022-07-24的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-07-21</time>
+        <a href="https://nodebe4.github.io/opinion/2022-07-21/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-07-18~2022-07-24的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-07-16</time>
+        <a href="https://nodebe4.github.io/opinion/2022-07-16/theoryofdoom/">
+          theoryofdoom在2022-07-11~2022-07-17的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-07-10</time>
+        <a href="https://nodebe4.github.io/opinion/2022-07-10/theoryofdoom/">
+          theoryofdoom在2022-07-04~2022-07-10的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-07-16/theoryofdoom/">
+            前一篇：theoryofdoom在2022-07-11~2022-07-17的言论
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-07-17/HeQinglian/">
+            後一篇：Twitter @He Qinglian: 2022-07-11~2022-07-17
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-07-16/theoryofdoom/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-07-17/HeQinglian/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-07-21/ForeignAffairsMag/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-07-16/theoryofdoom/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-07-16/theoryofdoom/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-07-17/HeQinglian/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-07-21/ForeignAffairsMag/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-07-16/theoryofdoom/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

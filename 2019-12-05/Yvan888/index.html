@@ -1,0 +1,2681 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Yvan888在2019-12-02~2019-12-08的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Yvan888在2019-12-02~2019-12-08的言论" />
+    <meta property="twitter:title" content="Yvan888在2019-12-02~2019-12-08的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FChina_irl%2Fcomments%2Fe6ciqi%2F%E5%A4%96%E4%BA%A4%E9%83%A8911%E4%BA%8B%E4%BB%B6%E6%AE%B7%E9%89%B4%E4%B8%8D%E8%BF%9C_%E7%BE%8E%E6%96%B9%E4%B8%8D%E8%A6%81%E5%A5%BD%E4%BA%86%E4%BC%A4%E7%96%A4%E5%BF%98%E4%BA%86%E7%97%9B%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/China_irl/comments/e6ciqi/外交部911事件殷鉴不远_美方不要好了伤疤忘了痛/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/China_irl/comments/e6ciqi/外交部911事件殷鉴不远_美方不要好了伤疤忘了痛/&text=Yvan888在2019-12-02~2019-12-08的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/China_irl/comments/e6ciqi/外交部911事件殷鉴不远_美方不要好了伤疤忘了痛/&title=Yvan888在2019-12-02~2019-12-08的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/China_irl/comments/e6ciqi/外交部911事件殷鉴不远_美方不要好了伤疤忘了痛/&title=Yvan888在2019-12-02~2019-12-08的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Yvan888在2019-12-02~2019-12-08的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/China_irl/comments/e6ciqi/外交部911事件殷鉴不远_美方不要好了伤疤忘了痛/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/China_irl/comments/e6ciqi/外交部911事件殷鉴不远_美方不要好了伤疤忘了痛/&title=Yvan888在2019-12-02~2019-12-08的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Yvan888在2019-12-02~2019-12-08的言论&url=https://old.reddit.com/r/China_irl/comments/e6ciqi/外交部911事件殷鉴不远_美方不要好了伤疤忘了痛/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Yvan888在2019-12-02~2019-12-08的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2019-12-05
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://www.reddit.com/user/Yvan888/" style="font-size:14px;">作者: Yvan888</a>
+        </span>
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/China_irl/comments/e6ciqi/外交部911事件殷鉴不远_美方不要好了伤疤忘了痛/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#761-外交部911事件殷鉴不远-美方不要好了伤疤忘了痛-submitted-on-2019-12-05-1319520800" id="markdown-toc-761-外交部911事件殷鉴不远-美方不要好了伤疤忘了痛-submitted-on-2019-12-05-1319520800">761: 外交部：911事件殷鉴不远 美方不要好了伤疤忘了痛, submitted on 2019-12-05 13:19:52+08:00.</a></li>
+  <li><a href="#762-typical-chinese-job-offer-submitted-on-2019-12-05-2336340800" id="markdown-toc-762-typical-chinese-job-offer-submitted-on-2019-12-05-2336340800">762: Typical Chinese job offer, submitted on 2019-12-05 23:36:34+08:00.</a></li>
+  <li><a href="#763-你们怎么看待这位教授早在2012年十八大前夕对中国未来在习近平带领下的分析-submitted-on-2019-12-06-0031290800" id="markdown-toc-763-你们怎么看待这位教授早在2012年十八大前夕对中国未来在习近平带领下的分析-submitted-on-2019-12-06-0031290800">763: 你们怎么看待这位教授早在2012年十八大前夕对中国未来在习近平带领下的分析？, submitted on 2019-12-06 00:31:29+08:00.</a></li>
+  <li><a href="#764-港抗争者上榜彭博年度50大最具影响力人物榜单-submitted-on-2019-12-06-1114500800" id="markdown-toc-764-港抗争者上榜彭博年度50大最具影响力人物榜单-submitted-on-2019-12-06-1114500800">764: 港抗争者上榜彭博年度50大最具影响力人物榜单, submitted on 2019-12-06 11:14:50+08:00.</a></li>
+  <li><a href="#765-王毅访韩提升-韩中关系正常化-预期-submitted-on-2019-12-06-1512180800" id="markdown-toc-765-王毅访韩提升-韩中关系正常化-预期-submitted-on-2019-12-06-1512180800">765: 王毅访韩提升 “韩中关系正常化” 预期, submitted on 2019-12-06 15:12:18+08:00.</a></li>
+  <li><a href="#766-stand-with-sweden-china-will-implement-unilateral-economic-sanctions-against-sweden-according-to-chinas-ambassador-we-will-not-only-impose-restrictions-in-the-cultural-field-but-also-limit-exchange-and-cooperation-within-economy-and-trade-submitted-on-2019-12-06-1541180800" id="markdown-toc-766-stand-with-sweden-china-will-implement-unilateral-economic-sanctions-against-sweden-according-to-chinas-ambassador-we-will-not-only-impose-restrictions-in-the-cultural-field-but-also-limit-exchange-and-cooperation-within-economy-and-trade-submitted-on-2019-12-06-1541180800">766: STAND WITH SWEDEN: China will implement unilateral economic sanctions against Sweden, according to China’s ambassador: “We will not only impose restrictions in the cultural field, but also limit exchange and cooperation within economy and trade.”, submitted on 2019-12-06 15:41:18+08:00.</a></li>
+  <li><a href="#767-中国新疆-反恐前沿-cgtn纪录片披露了一些先前未公布的敏感镜头画面-submitted-on-2019-12-06-2239470800" id="markdown-toc-767-中国新疆-反恐前沿-cgtn纪录片披露了一些先前未公布的敏感镜头画面-submitted-on-2019-12-06-2239470800">767: 中国新疆 反恐前沿 （CGTN纪录片，披露了一些先前未公布的敏感镜头画面）, submitted on 2019-12-06 22:39:47+08:00.</a></li>
+  <li><a href="#768-北约29国发布声明将共同应对中国-submitted-on-2019-12-07-1759130800" id="markdown-toc-768-北约29国发布声明将共同应对中国-submitted-on-2019-12-07-1759130800">768: 北约29国发布声明将共同应对中国, submitted on 2019-12-07 17:59:13+08:00.</a></li>
+  <li><a href="#769-lets-call-out-xi-jinping-as-the-dictator-that-he-is-explaining-our-editorial-decision-to-stop-conferring-legitimacy-on-xi-by-referring-to-him-as-president-of-china-submitted-on-2019-12-07-2141110800" id="markdown-toc-769-lets-call-out-xi-jinping-as-the-dictator-that-he-is-explaining-our-editorial-decision-to-stop-conferring-legitimacy-on-xi-by-referring-to-him-as-president-of-china-submitted-on-2019-12-07-2141110800">769: Let’s call out Xi Jinping as the dictator that he is: Explaining our editorial decision to stop conferring legitimacy on Xi by referring to him as president of China, submitted on 2019-12-07 21:41:11+08:00.</a></li>
+  <li><a href="#770-weekly-rchina-discussion-thread---december-08-2019-submitted-on-2019-12-08-0005310800" id="markdown-toc-770-weekly-rchina-discussion-thread---december-08-2019-submitted-on-2019-12-08-0005310800">770: Weekly /r/China Discussion Thread - December 08, 2019, submitted on 2019-12-08 00:05:31+08:00.</a></li>
+  <li><a href="#771-a-muslim-american-student-entered-the-secret-number-of-the-door-of-the-mosque-next-door-from-the-school-which-was-hit-by-a-shooting-incident-and-saved-the-lives-of-many-students-submitted-on-2019-12-08-0434510800" id="markdown-toc-771-a-muslim-american-student-entered-the-secret-number-of-the-door-of-the-mosque-next-door-from-the-school-which-was-hit-by-a-shooting-incident-and-saved-the-lives-of-many-students-submitted-on-2019-12-08-0434510800">771: A Muslim American student entered the secret number of the door of the mosque next door from the school, which was hit by a shooting incident and saved the lives of many students, submitted on 2019-12-08 04:34:51+08:00.</a></li>
+  <li><a href="#772-is-china-belt-and-road-policy-really-evil-submitted-on-2019-12-08-0647570800" id="markdown-toc-772-is-china-belt-and-road-policy-really-evil-submitted-on-2019-12-08-0647570800">772: Is China belt and road policy really evil?, submitted on 2019-12-08 06:47:57+08:00.</a></li>
+  <li><a href="#773-cba外援在奏唱国歌仪式中未行注目礼-被严重警告罚款-submitted-on-2019-12-08-0857570800" id="markdown-toc-773-cba外援在奏唱国歌仪式中未行注目礼-被严重警告罚款-submitted-on-2019-12-08-0857570800">773: CBA外援在奏唱国歌仪式中未行注目礼 被严重警告罚款, submitted on 2019-12-08 08:57:57+08:00.</a></li>
+  <li><a href="#774-pisa-2018结果出炉欣赏一下花式柠檬-submitted-on-2019-12-08-1048040800" id="markdown-toc-774-pisa-2018结果出炉欣赏一下花式柠檬-submitted-on-2019-12-08-1048040800">774: PISA 2018结果出炉，欣赏一下花式柠檬, submitted on 2019-12-08 10:48:04+08:00.</a></li>
+  <li><a href="#775-ccp-proposed-regulation-live-video-streaming-to-have-at-least-three-minute-delay-to-allow-censors-to-have-the-opportunity-to-step-in-to-block-contents-from-being-shown-in-real-time-文旅部拟加强对脱口秀等审核演出网络直播应至少延播3分钟-submitted-on-2019-12-08-1139260800" id="markdown-toc-775-ccp-proposed-regulation-live-video-streaming-to-have-at-least-three-minute-delay-to-allow-censors-to-have-the-opportunity-to-step-in-to-block-contents-from-being-shown-in-real-time-文旅部拟加强对脱口秀等审核演出网络直播应至少延播3分钟-submitted-on-2019-12-08-1139260800">775: CCP proposed regulation: live video streaming to have at least three minute delay, to allow censors to have the opportunity to step in to block contents from being shown in real time 文旅部：拟加强对脱口秀等审核，演出网络直播应至少延播3分钟, submitted on 2019-12-08 11:39:26+08:00.</a></li>
+  <li><a href="#776-大家对大麻怎么看待支持还是反对合法化-submitted-on-2019-12-08-2351520800" id="markdown-toc-776-大家对大麻怎么看待支持还是反对合法化-submitted-on-2019-12-08-2351520800">776: 大家对大麻怎么看待？支持还是反对合法化？, submitted on 2019-12-08 23:51:52+08:00.</a></li>
+</ul>
+
+<h3 id="761-外交部911事件殷鉴不远-美方不要好了伤疤忘了痛-submitted-on-2019-12-05-1319520800">761: <a href="https://old.reddit.com/r/China_irl/comments/e6ciqi/外交部911事件殷鉴不远_美方不要好了伤疤忘了痛/">外交部：911事件殷鉴不远 美方不要好了伤疤忘了痛</a>, submitted on 2019-12-05 13:19:52+08:00.</h3>
+
+<p>—– <strong>761.1</strong> —–2019-12-06 01:41:16+08:00:</p>
+
+<p>差点把40米大刀拿出来了</p>
+
+<h3 id="762-typical-chinese-job-offer-submitted-on-2019-12-05-2336340800">762: <a href="https://old.reddit.com/r/ChoosingBeggars/comments/e6itd9/typical_chinese_job_offer/">Typical Chinese job offer</a>, submitted on 2019-12-05 23:36:34+08:00.</h3>
+
+<p>—– <strong>762.1</strong> —–2019-12-06 07:21:26+08:00:</p>
+
+<p>That’s very true.</p>
+
+<p>The problem in China (actually not only China) is that, lots of people there don’t know what they <em>say</em> or <em>do</em> is racism and think racism is just a western thing</p>
+
+<p>Actually they are very racist and double standard</p>
+
+<p>Source: am mainland Chinese</p>
+
+<p>—– <strong>762.2</strong> —–2019-12-06 10:09:56+08:00:</p>
+
+<p>Thinking all non-Asian are lack of excellent chopstick skills is racism</p>
+
+<p>Bu​t I wouldn’t take this seriously because it’s kinda true and <strong>harmless</strong></p>
+
+<p>It’s not much different than commenting on your Asian language skills or something</p>
+
+<p>Actually, I was surprised by a large number of western people with good chopsticks skills when I went to the US, because when I deal with the exchange students from Europe in China, their chopsticks skills are sucked af</p>
+
+<p>—– <strong>762.3</strong> —–2019-12-06 19:22:52+08:00:</p>
+
+<p>Maybe I should pick a more accurate word: <strong>less offensive</strong></p>
+
+<p>—– <strong>762.4</strong> —–2019-12-06 19:29:35+08:00:</p>
+
+<p>500 I guess?</p>
+
+<p>—– <strong>762.5</strong> —–2019-12-06 19:33:01+08:00:</p>
+
+<p>No worry. I’ve earned a lot because I’m spying here to collect you guys opinion /s</p>
+
+<p>—– <strong>762.6</strong> —–2019-12-06 19:50:38+08:00:</p>
+
+<blockquote>
+  <p>Here’s my opinions: “A good comie is a dead comie”. Also, “Xi is a dictator far worse than Hitler or even Stalin” and “PRoC is a piece of shit nation that shouldn’t be talked diplomatically to, because it never respects it’s deals”</p>
+</blockquote>
+
+<p>I more or less agree on them. PRC is not in the right direction now and in the foreseeable future. Though I don’t think they always break the deals or something, their ideologies are clearly at odds with the universal values</p>
+
+<blockquote>
+  <p>Oh and, how comes you are a mainlander but speak English good enough and have access to the WWW? Strange that your post history checks out somehow. Did you escape the PRoC?</p>
+</blockquote>
+
+<p>I don’t think my English is good enough. You might be the first one who praises​ my English lol. I’m an international student in the US. But to be fair, even for the people staying in mainland China, it’s never hard for them to pass the GFW with only one-click on the VPN. They just don’t have much interest​ in​ Reddit because Reddit is not that popular in China.</p>
+
+<p>—– <strong>762.7</strong> —–2019-12-06 20:06:46+08:00:</p>
+
+<p>I do have thought whether it’s morally correct to stay in the PRC but I don’t have a clear plan now. Because immigration is a big plan involving not only me and is not that easy for a normal person</p>
+
+<p>btw the majority of​ Chinese would still go back to PRC for better developments, just let you know</p>
+
+<p>No risk. Why should I? Especially in Reddit’s anonymous system.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/International_student#United_States">wiki</a></p>
+
+<blockquote>
+  <p>Annually around <strong>750,000 Chinese</strong> and 400,000 Indian students apply to overseas higher education institutions.[15][16] New enrollment of undergraduate and graduate foreign students at American universities and colleges for 2016-17 declined by 2.1% or nearly 5,000 students which translates into a potential revenue of US$125 million for the first year of studies alone.[17] Much of the increase in foreign students in the U.S. during 2013–2014 was fueled by undergraduate students from China, the report’s authors found. The number of Chinese students increased to 31 percent of all foreign students in the U.S. – <strong>the highest concentration</strong> the top country of origin has had since IIE began producing the report in 1948.</p>
+</blockquote>
+
+<p>Not to say the great amount of global Chinese businessman​ and researchers</p>
+
+<p>btw actually I thought you’re Russian because of your username</p>
+
+<p>—– <strong>762.8</strong> —–2019-12-06 20:29:58+08:00:</p>
+
+<p>I think I’m just talking about the truth because you’re asking me a fair question, and I don’t smell any propaganda in it</p>
+
+<p>Truth hurts?</p>
+
+<p>It’s a shame that I wasted sometimes on finding some sources to answer your question</p>
+
+<blockquote>
+  <p>Commie</p>
+</blockquote>
+
+<p>[…]</p>
+<blockquote>
+  <p>Escape from PRC</p>
+</blockquote>
+
+<p>[…]</p>
+<blockquote>
+  <p>not access to WWW</p>
+</blockquote>
+
+<p>[…]</p>
+<blockquote>
+  <p>at risk going back</p>
+</blockquote>
+
+<p>It seems that your information is very outdated 👋</p>
+
+<p>—– <strong>762.9</strong> —–2019-12-06 20:33:44+08:00:</p>
+
+<p>I’m worried about your reading skill</p>
+
+<p>—– <strong>762.10</strong> —–2019-12-06 22:29:20+08:00:</p>
+
+<blockquote>
+  <p>the majority of Chinese would still go back to PRC for better developments</p>
+</blockquote>
+
+<p>Because it’s true? Because there’s a glass ceiling in the western countries (or widely all other countries)?</p>
+
+<p>Nothing about politics​ here</p>
+
+<p>Also, you talk like I can immigrate to the US anytime if I want which is clearly untrue especially under the Trump’s administration</p>
+
+<h3 id="763-你们怎么看待这位教授早在2012年十八大前夕对中国未来在习近平带领下的分析-submitted-on-2019-12-06-0031290800">763: <a href="https://old.reddit.com/r/China_irl/comments/e6jlnm/你们怎么看待这位教授早在2012年十八大前夕对中国未来在习近平带领下的分析/">你们怎么看待这位教授早在2012年十八大前夕对中国未来在习近平带领下的分析？</a>, submitted on 2019-12-06 00:31:29+08:00.</h3>
+
+<p>—– <strong>763.1</strong> —–2019-12-06 01:34:55+08:00:</p>
+
+<blockquote>
+  <p>权力更迭的制度化与无序化在今天中国政治当中是相互伴随的，权力的制度化是邓小平的一个贡献，没有问题，制度化即中共在十六大后每个人大致有十年的任期，如果中间不出政治夭折的话，彻底解决80年代困扰中共的权力终身制，但是这样一个制度它不是通过一个选举制度或者一个立宪制度奠基的，而是通过权力的宫廷政治博弈来替换的，所以这个替换本身显得无序化</p>
+</blockquote>
+
+<p>这真的是我一直以来的想法，在习修宪后更能看出</p>
+
+<p>邓那种做法，远远谈不上是权力的<strong>制度化</strong>，更多就像一个公司里面一位巨大影响力的前任CEO的遗言嘱托一样，只是简单的规则上面的修改，根本没有太大的<strong>制度上的约束力</strong></p>
+
+<p>所以我常常不懂中外学者为什么会觉得那是一种制度化。。。</p>
+
+<p>Edit：或许在中国国情里面谈<strong>制度化</strong>就是一个伪命题吧，just saying…</p>
+
+<h3 id="764-港抗争者上榜彭博年度50大最具影响力人物榜单-submitted-on-2019-12-06-1114500800">764: <a href="https://old.reddit.com/r/China_irl/comments/e6spje/港抗争者上榜彭博年度50大最具影响力人物榜单/">港抗争者上榜彭博年度50大最具影响力人物榜单</a>, submitted on 2019-12-06 11:14:50+08:00.</h3>
+
+<p>—– <strong>764.1</strong> —–2019-12-06 23:18:18+08:00:</p>
+
+<blockquote>
+  <p>中华文化核心是尊重和服从</p>
+</blockquote>
+
+<p>LMAO</p>
+
+<p>怪不得别人不想当中国人</p>
+
+<h3 id="765-王毅访韩提升-韩中关系正常化-预期-submitted-on-2019-12-06-1512180800">765: <a href="https://old.reddit.com/r/China_irl/comments/e6vbhk/王毅访韩提升_韩中关系正常化_预期/">王毅访韩提升 “韩中关系正常化” 预期</a>, submitted on 2019-12-06 15:12:18+08:00.</h3>
+
+<p>—– <strong>765.1</strong> —–2019-12-06 23:16:01+08:00:</p>
+
+<p>原来以前是不正常的吗？</p>
+
+<p>我也是最近才从韩国人口中得知，原来近年来韩国反华情绪很严重（我知道有萨德，但没留意到余波这么久）</p>
+
+<p>讲道理，我觉得萨德这件事真不能怪韩国，朝鲜自己弄了个核弹出来，又每天都射导弹</p>
+
+<p>别人当然要布置萨德咯</p>
+
+<p>要负主要责任也是中国负吧，毕竟不管中朝实际关系如何，中国都有能力施压朝鲜不要激化半岛矛盾</p>
+
+<p>国内这种把什么问题都推到外国身上的舆论环境，真是有毒，什么事情都总是别人的错</p>
+
+<p>—– <strong>765.2</strong> —–2019-12-07 03:38:50+08:00:</p>
+
+<p>LMAO 朝鲜没有中国支持早就没了</p>
+
+<h3 id="766-stand-with-sweden-china-will-implement-unilateral-economic-sanctions-against-sweden-according-to-chinas-ambassador-we-will-not-only-impose-restrictions-in-the-cultural-field-but-also-limit-exchange-and-cooperation-within-economy-and-trade-submitted-on-2019-12-06-1541180800">766: <a href="https://old.reddit.com/r/China/comments/e6vkyt/stand_with_sweden_china_will_implement_unilateral/">STAND WITH SWEDEN: China will implement unilateral economic sanctions against Sweden, according to China’s ambassador: “We will not only impose restrictions in the cultural field, but also limit exchange and cooperation within economy and trade.”</a>, submitted on 2019-12-06 15:41:18+08:00.</h3>
+
+<p>—– <strong>766.1</strong> —–2019-12-06 19:34:08+08:00:</p>
+
+<p>A normal day in western North Korea</p>
+
+<h3 id="767-中国新疆-反恐前沿-cgtn纪录片披露了一些先前未公布的敏感镜头画面-submitted-on-2019-12-06-2239470800">767: <a href="https://old.reddit.com/r/China_irl/comments/e6zks1/中国新疆_反恐前沿_cgtn纪录片披露了一些先前未公布的敏感镜头画面/">中国新疆 反恐前沿 （CGTN纪录片，披露了一些先前未公布的敏感镜头画面）</a>, submitted on 2019-12-06 22:39:47+08:00.</h3>
+
+<p>—– <strong>767.1</strong> —–2019-12-07 04:57:37+08:00:</p>
+
+<blockquote>
+  <p>内地劫持公交车撞人、无差别攻击小学生等等也是恐怖袭击</p>
+</blockquote>
+
+<p>我个人觉得算？只要目的是制造社会恐慌的应该都是“恐怖袭击”吧？</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Terrorism#Etymology">wiki</a></p>
+
+<blockquote>
+  <p>There are over 109 different definitions of terrorism.[31] American political philosopher Michael Walzer in 2002 wrote: <strong>“Terrorism is the deliberate killing of innocent people, at random, to spread fear through a whole population and force the hand of its political leaders”</strong>.[5] Bruce Hoffman, an American scholar, has noted that It is not only individual agencies within the same governmental apparatus that cannot agree on a single definition of terrorism. Experts and other long-established scholars in the field are equally <strong>incapable of reaching a consensus</strong>.[32]</p>
+</blockquote>
+
+<p>—– <strong>767.2</strong> —–2019-12-08 12:23:34+08:00:</p>
+
+<p>有一说一 CGTN的订阅量本来就很少。。。你以为是RT吗？</p>
+
+<h3 id="768-北约29国发布声明将共同应对中国-submitted-on-2019-12-07-1759130800">768: <a href="https://old.reddit.com/r/saraba1st/comments/e7cloz/北约29国发布声明将共同应对中国/">北约29国发布声明将共同应对中国</a>, submitted on 2019-12-07 17:59:13+08:00.</h3>
+
+<p>—– <strong>768.1</strong> —–2019-12-08 07:06:14+08:00:</p>
+
+<blockquote>
+  <p>中國的國際政策對於北約來說<strong>既是機會</strong>也是挑戰</p>
+</blockquote>
+
+<p>并没到那个程度</p>
+
+<h3 id="769-lets-call-out-xi-jinping-as-the-dictator-that-he-is-explaining-our-editorial-decision-to-stop-conferring-legitimacy-on-xi-by-referring-to-him-as-president-of-china-submitted-on-2019-12-07-2141110800">769: <a href="https://old.reddit.com/r/China/comments/e7ef07/lets_call_out_xi_jinping_as_the_dictator_that_he/">Let’s call out Xi Jinping as the dictator that he is: Explaining our editorial decision to stop conferring legitimacy on Xi by referring to him as president of China</a>, submitted on 2019-12-07 21:41:11+08:00.</h3>
+
+<p>—– <strong>769.1</strong> —–2019-12-08 13:11:36+08:00:</p>
+
+<blockquote>
+  <p>continue ruling until the end of his life,</p>
+</blockquote>
+
+<p>I don’t think so</p>
+
+<p>3 or 4 term is max</p>
+
+<p>—– <strong>769.2</strong> —–2019-12-08 13:15:01+08:00:</p>
+
+<p>tbh we Chinese don’t always disclose our real thoughts of these sensitive topics to others unless you’re familiar with each other</p>
+
+<p>—– <strong>769.3</strong> —–2019-12-08 14:25:48+08:00:</p>
+
+<p>Technically he can, I’m just saying my forecast</p>
+
+<p>Also, he can stay behind like Jiang Zemin</p>
+
+<h3 id="770-weekly-rchina-discussion-thread---december-08-2019-submitted-on-2019-12-08-0005310800">770: <a href="https://old.reddit.com/r/China/comments/e7g0ko/weekly_rchina_discussion_thread_december_08_2019/">Weekly /r/China Discussion Thread - December 08, 2019</a>, submitted on 2019-12-08 00:05:31+08:00.</h3>
+
+<p>—– <strong>770.1</strong> —–2019-12-08 12:35:51+08:00:</p>
+
+<p>I met an Eastern European asking me whether I <em>escape</em> from PRC (pretty sure s/he using the literal meaning of <em>escape</em>) because I’m on Reddit and can use English</p>
+
+<p>OK… I can understand others’ misinformation of an authoritarian and non-transparent country</p>
+
+<p>But s/he talks like I’m from North Korea that I must <em>escape</em> from PRC and it’s strange that I know English, ignoring the fact that a large amount of Chinese studying, working and traveling worldwide every year</p>
+
+<p>It blows my mind. I feel like talking with a guy from last century</p>
+
+<p>Is this still a popular recognition of China from the west?</p>
+
+<p>Also, no offensive… but from my limited experience, it seems that Eastern  European on average has a more traditional view of the world than Western European and American?</p>
+
+<p>—– <strong>770.2</strong> —–2019-12-08 23:45:49+08:00:</p>
+
+<p>That’s why I emphasize it’s the <em>literal meaning</em> of escape</p>
+
+<p>Actually you can find a similar usage of <em>escape</em> in Chinese (hyberbole)</p>
+
+<p>But s/he talks like it’s strange that I can use English and get access to the Internet</p>
+
+<p>—– <strong>770.3</strong> —–2019-12-09 00:49:37+08:00:</p>
+
+<p>which media?</p>
+
+<h3 id="771-a-muslim-american-student-entered-the-secret-number-of-the-door-of-the-mosque-next-door-from-the-school-which-was-hit-by-a-shooting-incident-and-saved-the-lives-of-many-students-submitted-on-2019-12-08-0434510800">771: <a href="https://old.reddit.com/r/PublicFreakout/comments/e7jjla/a_muslim_american_student_entered_the_secret/">A Muslim American student entered the secret number of the door of the mosque next door from the school, which was hit by a shooting incident and saved the lives of many students</a>, submitted on 2019-12-08 04:34:51+08:00.</h3>
+
+<p>—– <strong>771.1</strong> —–2019-12-08 15:22:00+08:00:</p>
+
+<p>In a second, I thought OP’s talking about Harry Potter</p>
+
+<h3 id="772-is-china-belt-and-road-policy-really-evil-submitted-on-2019-12-08-0647570800">772: <a href="https://old.reddit.com/r/China/comments/e7l8oz/is_china_belt_and_road_policy_really_evil/">Is China belt and road policy really evil?</a>, submitted on 2019-12-08 06:47:57+08:00.</h3>
+
+<p>—– <strong>772.1</strong> —–2019-12-08 08:29:36+08:00:</p>
+
+<p>OBOR is a comprehensive and huge project.</p>
+
+<p>Projecting China’s economic influence? Sure.</p>
+
+<p>Enlarging China’s geopolitical influence? Sure.</p>
+
+<p>But does it mean it’s a zero-sum game? I don’t think so. It’s more like dealing with the bank, you can benefit from it to develop your countries but can also end up being bankruptcy</p>
+
+<p>Also, some people think OBOR is a pure project seeking for foreign control is wrong. OBOR is also a manifestation of China’s domestic issues, such as the ongoing supply-side structural reform (i.e., cutting overcapacity, destocking, deleveraging, reducing costs and identifying growth areas) and maturing domestic market (so Chinese companies must expand oversea to find other emerging markets)</p>
+
+<hr />
+
+<p>Not saying OBOR is an angel, but OBOR is just controversial but not disreputable, at least until now. And these controversies also exist in other projects:</p>
+
+<p>The people who regard OBOR as debt trap always don’t realize that lots of third world countries hold the same opinion about IMF as well</p>
+
+<p>The people who regard OBOR as neo-colonization always don’t realize that the western (actually any other foreign countries’) cooperations have the same notoriety according to some third world nationalists</p>
+
+<p>etc.</p>
+
+<p>But, well, they will just say the third world leaders who buy OBOR are all corrupt and selfish leaders begging for China’s money and deny any balanced analysis</p>
+
+<hr />
+
+<p>More reading:</p>
+
+<ul>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>[How will the Belt and Road Initiative advance China’s interests?</td>
+          <td>ChinaPower Project](https://chinapower.csis.org/china-belt-and-road-initiative/)</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>[Building the Right Silk Road - China and the ‘One Belt, One Road’ Initiative</td>
+          <td>McKinsey](https://www.cirsd.org/en/horizons/horizons-summer-2015–issue-no4/building-the-right-silk-road—china-and-the-‘one-belt-one-road-Initiative)</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>[All under heaven - China’s belt-and-road plans are to be welcomed—and worried about</td>
+          <td>Leaders</td>
+          <td>The Economist](https://www.economist.com/leaders/2018/07/26/chinas-belt-and-road-plans-are-to-be-welcomed-and-worried-about)</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>[A trap of one’s own - China tries to calm jitters about the “Belt and Road” initiative</td>
+          <td>China</td>
+          <td>The Economist](https://www.economist.com/china/2019/04/25/china-tries-to-calm-jitters-about-the-belt-and-road-initiative)</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+</ul>
+
+<p>All of them are less-political (IMO) analysis from the west.</p>
+
+<p>If you’re interested in how China’s state media portrays OBOR, here is a <a href="https://www.youtube.com/watch?v=_NtprkECCiU">a series of One Belt One Road Documentary</a> by CCP’s mouthpiece</p>
+
+<p>You can also visit the third world countries​ forums to see how they view OBOR</p>
+
+<p>—– <strong>772.2</strong> —–2019-12-08 08:57:54+08:00:</p>
+
+<p>I don’ think there is a clear Yes-or-No answer to this question, it depends on the bilateral negotiation. The agreement was signed by both sides. It just likes you cannot use Yes-or-No to answer the Argentina-IMF issue or European debt crisis.</p>
+
+<p>But I can tell you that actually OBOR is​ always questioned by Chinese domestic scholars too because they think it’s at high risk that China cannot get back the loan and a waste of Chinese wealth. These arguments wouldn’t happen if OBOR is an uncontested one-side beneficial plan.</p>
+
+<p>—– <strong>772.3</strong> —–2019-12-08 09:06:36+08:00:</p>
+
+<p>Are you new to r/China?</p>
+
+<p>If yes, I have to remind you that 95% people in this sub are western expats but not Chinese</p>
+
+<p>I’m not saying their arguments are wrong, most of them are pretty insightful too, but if you want to hear some opinions from the other side, I’m afraid that here is not a suitable place</p>
+
+<p>—– <strong>772.4</strong> —–2019-12-08 09:22:03+08:00:</p>
+
+<p>Both answers above are pretty correct</p>
+
+<p>The information control in China is crazy and increasing in these years.</p>
+
+<p>However, go back to your question:</p>
+
+<blockquote>
+  <p>How easy is it for an average Chinese to get hold of any information/ bypassing state control?</p>
+</blockquote>
+
+<p>Pretty easy.</p>
+
+<p>Actually, it’s zero-difficult to get VPNs (there are tons) and bypass the GFW.</p>
+
+<p>And it’s not hard and low risk to see the political sensitive contents on youtube etc</p>
+
+<p>Not to say there are a huge amount of Chinese international students and global businessmen and researchers annually. All of them can get access to western media and information…</p>
+
+<p>But it’s at high risk if you try to broadcast “unharmonious” contents and organize an anti-government activity</p>
+
+<p>However, their values and view of the world were shaped when they’re kids so it’s not that easy for them to off-load the indoctrinated contents even if they have a Ivy League degree or something…</p>
+
+<p>Source​: Am Chinese teen</p>
+
+<p>—– <strong>772.5</strong> —–2019-12-08 09:28:13+08:00:</p>
+
+<blockquote>
+  <p>He also talked about information exchange e.g. all young people know Justin Bieber but we don’t know any Chinese pop stars. So his argument is that Western media is more restrictive because it doesn’t show anything about China except negativity. But a Chinese knows a lot about Western culture (positive and negative) so China is more open to Western information. How true is this?</p>
+</blockquote>
+
+<p>It’s a very silly argument… It’s just because the west (and also Japan and South Korea) have greater soft power</p>
+
+<blockquote>
+  <p>Is the average Chinese well informed about the West (in an objective manner) or they just know propaganda?</p>
+</blockquote>
+
+<p>It depends on what you’re asking. At least the well-educated teenagers know much about the west: arts, history, politics, economy, etc. For example, <a href="https://www.zhihu.com/question/24839853">a discussion about your country on​ a Chinese website</a></p>
+
+<p>It includes some contents you may view as sensitive or banned. For example, <a href="https://search.douban.com/book/subject_search?search_text=1984&amp;cat=1001"><em>1984</em> is actually popular in China</a></p>
+
+<p>But overall, they are still at odds with the universal values</p>
+
+<p>—– <strong>772.6</strong> —–2019-12-08 09:47:29+08:00:</p>
+
+<p>LMAO</p>
+
+<p>I’m not talking about how I think but how some third world people think</p>
+
+<p>I think you misunderstand one point, when the people choose to accept China’s money, it doesn’t mean they like China and hate the west. They just want to balance the great power influences in their countries. They can use the power from China to balance the west now. They can also use the power from India to balance China in the future. By putting the eggs in different baskets, they can try to seek a larger benefit for their countries. That’s all.</p>
+
+<p>Added: your argument has no conflict with my argument even if on the IMF’s part.</p>
+
+<blockquote>
+  <p>The IMF is NOT comparable to the OBOR.. The IMF doesn’t do development financing, they are a lender of last resort …</p>
+</blockquote>
+
+<p>I’m not talking about IMF is like OBOR or vice versa. But there are people thinking IMF is a debt trap even if the IMF is a lender of last resort (on the contrary, I don’t know there are some guys thinking World Bank is a debt trap and that’s why I mention IMF here)… Further, the conspiracy theorists think it’s a game played by the international financiers and IMF is a tool of them to try to control the assets or something, e.g. 1997 Soros’s Asian Financial Crisis (Again, it’s their opinions, not mine)</p>
+
+<p>Edit2:</p>
+
+<blockquote>
+  <p>People who criticize the IMF, and say we can get money from China … If Chinese don’t like the World Bank, they can tell the World Bank to stop lending them 2 Billion US a year.</p>
+</blockquote>
+
+<p>I’m not talking about China here and it has nothing to do with China. Otherwise, why I used <em>the third world</em> but not <em>China</em></p>
+
+<h3 id="773-cba外援在奏唱国歌仪式中未行注目礼-被严重警告罚款-submitted-on-2019-12-08-0857570800">773: <a href="https://old.reddit.com/r/China_irl/comments/e7mtji/cba外援在奏唱国歌仪式中未行注目礼_被严重警告罚款/">CBA外援在奏唱国歌仪式中未行注目礼 被严重警告罚款</a>, submitted on 2019-12-08 08:57:57+08:00.</h3>
+
+<p>—– <strong>773.1</strong> —–2019-12-08 11:33:36+08:00:</p>
+
+<blockquote>
+  <p>遇到对本朝真有较大敌意的，比如很多西方议员政客，非常怂包</p>
+</blockquote>
+
+<p>此话怎讲？</p>
+
+<h3 id="774-pisa-2018结果出炉欣赏一下花式柠檬-submitted-on-2019-12-08-1048040800">774: <a href="https://old.reddit.com/r/China_irl/comments/e7o1w1/pisa_2018结果出炉欣赏一下花式柠檬/">PISA 2018结果出炉，欣赏一下花式柠檬</a>, submitted on 2019-12-08 10:48:04+08:00.</h3>
+
+<p>—– <strong>774.1</strong> —–2019-12-08 11:47:53+08:00:</p>
+
+<blockquote>
+  <p>”一定是中国作弊了”</p>
+</blockquote>
+
+<p>讲道理，中国人作弊真的很猖狂，从我个人经验看，即使是985和美本中国人，也非常地严重，什么代写啊小抄啊之类的不少，向师兄师姐拿题目更是常规操作。</p>
+
+<p>虽然诸如印度的学生也不少是这样，但只说西方人的话，他们还真有资格说这句话。</p>
+
+<p>另外，中国作弊的更大的问题是，系统性的作弊是如此猖獗，以致很多人其实意识不到自己在作弊，比如国内泛滥成灾的TOEFL/GRE机经和文书代写。</p>
+
+<p>—– <strong>774.2</strong> —–2019-12-08 12:16:54+08:00:</p>
+
+<p>几年前我可能认可你这句话，但现在我即在985待过又在美本待过，我倒是很理解为什么西方人会这么想我们</p>
+
+<p>—– <strong>774.3</strong> —–2019-12-08 14:47:24+08:00:</p>
+
+<p>这个就不透露了哈。。。</p>
+
+<p>不止一个，文理都有</p>
+
+<p>—– <strong>774.4</strong> —–2019-12-08 14:51:14+08:00:</p>
+
+<p>那当然有很多是优秀的不作弊的（就像原sub里面说的），但作弊的也很多</p>
+
+<p>而且，像我说的，如果用严格的标准，把TG机经、文书代写这些都当作弊的话，那人又要减半了</p>
+
+<h3 id="775-ccp-proposed-regulation-live-video-streaming-to-have-at-least-three-minute-delay-to-allow-censors-to-have-the-opportunity-to-step-in-to-block-contents-from-being-shown-in-real-time-文旅部拟加强对脱口秀等审核演出网络直播应至少延播3分钟-submitted-on-2019-12-08-1139260800">775: <a href="https://old.reddit.com/r/China/comments/e7oned/ccp_proposed_regulation_live_video_streaming_to/">CCP proposed regulation: live video streaming to have at least three minute delay, to allow censors to have the opportunity to step in to block contents from being shown in real time 文旅部：拟加强对脱口秀等审核，演出网络直播应至少延播3分钟</a>, submitted on 2019-12-08 11:39:26+08:00.</h3>
+
+<p>—– <strong>775.1</strong> —–2019-12-08 13:25:57+08:00:</p>
+
+<p>Meanwhile, CCP wonders why China’s soft power sucks af</p>
+
+<p>Try to imagine a China with 10x population than Japan and South Korea and without censorship</p>
+
+<p>—– <strong>775.2</strong> —–2019-12-08 13:40:13+08:00:</p>
+
+<p>tbh TW’s soft power is much weaker than JP and SK and being overshadowed by mainland China</p>
+
+<p>(if we just talk about soft power)</p>
+
+<p>—– <strong>775.3</strong> —–2019-12-08 14:45:24+08:00:</p>
+
+<p>pretty sure it’s not the main reason</p>
+
+<p>If Taiwan can have success in the economy, then they could achieve the same thing in culture even if there’s outside  pressure</p>
+
+<p>Not saying in the world, even in mainland China, Taiwan’s cultural influence keeps decreasing</p>
+
+<p>Go back to the 90s 00s, the mainland kids consume Hong Kong movies, Taiwan songs, Japanese animes, ​and Kpop…</p>
+
+<p>Now, where is Taiwan’s and Hong Kong’s (added: emerging) influence? On the contrary, how many Taiwanese consuming CDrama, Cpop and Chinese web novels?</p>
+
+<p>—– <strong>775.4</strong> —–2019-12-08 15:23:24+08:00:</p>
+
+<p>It’s political correct to say that</p>
+
+<p>—– <strong>775.5</strong> —–2019-12-08 23:48:20+08:00:</p>
+
+<p>These are hard power</p>
+
+<p>—– <strong>775.6</strong> —–2019-12-08 23:59:49+08:00:</p>
+
+<p>That’s why I say <em>decreasing</em></p>
+
+<p>Decreasing doesn’t mean they’re weak and vacuous now, but it’s a tendency</p>
+
+<p>If they cannot lead this game, then I doubt they have influence in the future (my bad, I should add <em>emerging</em> before <em>influence</em> in my last comment)</p>
+
+<p>When is Jay Chou? When is Mayday?</p>
+
+<p>I mean, even if we talk about Jay Chou, what is his new popular song? “说好不哭”?</p>
+
+<p>Of course there are emerging artists from Taiwan but I doubt any of them could have this dominance in greater China</p>
+
+<p>Added: it depends on your generation</p>
+
+<p>I mean, you can argue that there are lots of mainlanders listening HK and TW emerging singers, but their influence cannot compare to the ones in 1980-2010</p>
+
+<p>—– <strong>775.7</strong> —–2019-12-09 00:01:12+08:00:</p>
+
+<p>very insightful analysis, thanks 👍</p>
+
+<p>—– <strong>775.8</strong> —–2019-12-09 00:57:06+08:00:</p>
+
+<p>Remind you:</p>
+
+<p>I’m a guy who has consumed the entertainment content more from HK and TW (also JP) than from ML China when I was young.</p>
+
+<p>It’s clear that both HK and TW entertainment dominance declines a lot in ML China, not only music itself but also dramas, novels, shows, self-medias, ​etc.</p>
+
+<p>Not to mention there are some contents TW had nothing to do at the beginning such as cartoon</p>
+
+<h3 id="776-大家对大麻怎么看待支持还是反对合法化-submitted-on-2019-12-08-2351520800">776: <a href="https://old.reddit.com/r/China_irl/comments/e7v96b/大家对大麻怎么看待支持还是反对合法化/">大家对大麻怎么看待？支持还是反对合法化？</a>, submitted on 2019-12-08 23:51:52+08:00.</h3>
+
+<p>—– <strong>776.1</strong> —–2019-12-09 03:49:02+08:00:</p>
+
+<p>你是来show-off美女的吧?</p>
+
+<p>若中国合法，我不一定强烈反对</p>
+
+<p>但我自己肯定不会去支持合法大麻 毕竟我觉得烟酒都无趣的很 lol</p>
+
+<p>IMO 这是美国cool文化的一个表现而已 什么东西都要cool</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2019-12-14</time>
+        <a href="https://nodebe4.github.io/opinion/2019-12-14/Spinkcat/">
+          Spinkcat在2019-12-09~2019-12-15的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-12-08</time>
+        <a href="https://nodebe4.github.io/opinion/2019-12-08/Spinkcat/">
+          Spinkcat在2019-12-02~2019-12-08的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-12-01</time>
+        <a href="https://nodebe4.github.io/opinion/2019-12-01/Spinkcat/">
+          Spinkcat在2019-11-25~2019-12-01的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-11-25</time>
+        <a href="https://nodebe4.github.io/opinion/2019-11-25/Yvan888/">
+          Yvan888在2019-11-25~2019-12-01的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2019-12-04/%E7%BF%92%E8%BF%91%E5%B9%B3%E7%9A%84%E6%AC%8A%E5%8A%9B%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E5%A4%A7-%E7%B2%B5%E8%AA%9E-%E6%98%8E%E5%B1%85%E6%AD%A3-%E9%80%8F%E8%A6%96%E4%B8%AD%E5%9C%8B-0056-SinoInsider-201912/">
+            前一篇：習近平的權力究竟有多大（粵語）| 明居正「透視中國」【0056】SinoInsider 20191205
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2019-12-05/%E5%AD%99%E5%A4%A7%E9%AA%86-%E8%AF%84-%E4%B8%AD%E5%8D%8E%E6%B0%91%E5%9B%BD%E4%B8%A2%E5%A4%B1%E5%A4%A7%E9%99%8670%E5%B9%B4%E7%A5%AD%E5%8F%8A%E6%88%98%E7%95%A5%E6%A3%80%E8%AE%A8-%E4%B8%8E%E6%9D%8E%E4%BC%9F%E4%B8%9C%E5%85%88%E7%94%9F%E5%95%86%E6%A6%B7/">
+            後一篇：孙大骆 : 评《中华民国丢失大陆70年祭及战略检讨》 与李伟东先生商榷
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2019-12-04/%E7%BF%92%E8%BF%91%E5%B9%B3%E7%9A%84%E6%AC%8A%E5%8A%9B%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E5%A4%A7-%E7%B2%B5%E8%AA%9E-%E6%98%8E%E5%B1%85%E6%AD%A3-%E9%80%8F%E8%A6%96%E4%B8%AD%E5%9C%8B-0056-SinoInsider-201912/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2019-12-05/%E5%AD%99%E5%A4%A7%E9%AA%86-%E8%AF%84-%E4%B8%AD%E5%8D%8E%E6%B0%91%E5%9B%BD%E4%B8%A2%E5%A4%B1%E5%A4%A7%E9%99%8670%E5%B9%B4%E7%A5%AD%E5%8F%8A%E6%88%98%E7%95%A5%E6%A3%80%E8%AE%A8-%E4%B8%8E%E6%9D%8E%E4%BC%9F%E4%B8%9C%E5%85%88%E7%94%9F%E5%95%86%E6%A6%B7/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2019-12-08/Spinkcat/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2019-12-01/Spinkcat/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2019-12-04/%E7%BF%92%E8%BF%91%E5%B9%B3%E7%9A%84%E6%AC%8A%E5%8A%9B%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E5%A4%A7-%E7%B2%B5%E8%AA%9E-%E6%98%8E%E5%B1%85%E6%AD%A3-%E9%80%8F%E8%A6%96%E4%B8%AD%E5%9C%8B-0056-SinoInsider-201912/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2019-12-05/%E5%AD%99%E5%A4%A7%E9%AA%86-%E8%AF%84-%E4%B8%AD%E5%8D%8E%E6%B0%91%E5%9B%BD%E4%B8%A2%E5%A4%B1%E5%A4%A7%E9%99%8670%E5%B9%B4%E7%A5%AD%E5%8F%8A%E6%88%98%E7%95%A5%E6%A3%80%E8%AE%A8-%E4%B8%8E%E6%9D%8E%E4%BC%9F%E4%B8%9C%E5%85%88%E7%94%9F%E5%95%86%E6%A6%B7/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2019-12-08/Spinkcat/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2019-12-01/Spinkcat/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

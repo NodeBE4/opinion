@@ -1,0 +1,2434 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>EnclavedMicrostate在2022-10-24~2022-10-30的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="EnclavedMicrostate在2022-10-24~2022-10-30的言论" />
+    <meta property="twitter:title" content="EnclavedMicrostate在2022-10-24~2022-10-30的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FAskHistorians%2Fcomments%2Fybv8rr%2Fis_the_qing_conquest_theory_that_the_qing_dynasty%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/AskHistorians/comments/ybv8rr/is_the_qing_conquest_theory_that_the_qing_dynasty/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/AskHistorians/comments/ybv8rr/is_the_qing_conquest_theory_that_the_qing_dynasty/&text=EnclavedMicrostate在2022-10-24~2022-10-30的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/AskHistorians/comments/ybv8rr/is_the_qing_conquest_theory_that_the_qing_dynasty/&title=EnclavedMicrostate在2022-10-24~2022-10-30的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/AskHistorians/comments/ybv8rr/is_the_qing_conquest_theory_that_the_qing_dynasty/&title=EnclavedMicrostate在2022-10-24~2022-10-30的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=EnclavedMicrostate在2022-10-24~2022-10-30的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/AskHistorians/comments/ybv8rr/is_the_qing_conquest_theory_that_the_qing_dynasty/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/AskHistorians/comments/ybv8rr/is_the_qing_conquest_theory_that_the_qing_dynasty/&title=EnclavedMicrostate在2022-10-24~2022-10-30的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=EnclavedMicrostate在2022-10-24~2022-10-30的言论&url=https://old.reddit.com/r/AskHistorians/comments/ybv8rr/is_the_qing_conquest_theory_that_the_qing_dynasty/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>EnclavedMicrostate在2022-10-24~2022-10-30的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-10-30
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: EnclavedMicrostate</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/AskHistorians/comments/ybv8rr/is_the_qing_conquest_theory_that_the_qing_dynasty/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#893-is-the-qing-conquest-theory-that-the-qing-dynasty-destroyed-the-economic-scientific-and-cultural-progress-of-the-song-and-ming-dynasties-true-basically-did-the-qing-leadership-lead-to-a-chinese-dark-age-as-some-claim-submitted-on-2022-10-24-0645520800" id="markdown-toc-893-is-the-qing-conquest-theory-that-the-qing-dynasty-destroyed-the-economic-scientific-and-cultural-progress-of-the-song-and-ming-dynasties-true-basically-did-the-qing-leadership-lead-to-a-chinese-dark-age-as-some-claim-submitted-on-2022-10-24-0645520800">893: Is the “Qing conquest theory” that the Qing Dynasty destroyed the economic, scientific, and cultural progress of the Song and Ming dynasties true? Basically, did the Qing leadership lead to a “Chinese Dark Age” as some claim?, submitted on 2022-10-24 06:45:52+08:00.</a></li>
+  <li><a href="#894-does-anyone-have-recommendations-for-good-books-on-china-over-the-last-200-300-years-submitted-on-2022-10-24-1442180800" id="markdown-toc-894-does-anyone-have-recommendations-for-good-books-on-china-over-the-last-200-300-years-submitted-on-2022-10-24-1442180800">894: Does anyone have recommendations for good books on China over the last 200-300 years?, submitted on 2022-10-24 14:42:18+08:00.</a></li>
+  <li><a href="#895-how-do-past-and-present-militaries-deal-with-the-soldiers-fear-of-death-submitted-on-2022-10-24-1853450800" id="markdown-toc-895-how-do-past-and-present-militaries-deal-with-the-soldiers-fear-of-death-submitted-on-2022-10-24-1853450800">895: How do past and present militaries deal with the soldiers’ fear of death?, submitted on 2022-10-24 18:53:45+08:00.</a></li>
+  <li><a href="#896-mindless-monday-24-october-2022-submitted-on-2022-10-24-1900110800" id="markdown-toc-896-mindless-monday-24-october-2022-submitted-on-2022-10-24-1900110800">896: Mindless Monday, 24 October 2022, submitted on 2022-10-24 19:00:11+08:00.</a></li>
+  <li><a href="#897-what-was-the-importance-of-the-literature-boom-in-ming-dynasty-china-submitted-on-2022-10-24-2336550800" id="markdown-toc-897-what-was-the-importance-of-the-literature-boom-in-ming-dynasty-china-submitted-on-2022-10-24-2336550800">897: What was the importance of the literature boom in Ming Dynasty China?, submitted on 2022-10-24 23:36:55+08:00.</a></li>
+  <li><a href="#898-gamliels-gaberdine-garments---weekly-discussion-thread-24th25th-of-october-2022-submitted-on-2022-10-25-0851080800" id="markdown-toc-898-gamliels-gaberdine-garments---weekly-discussion-thread-24th25th-of-october-2022-submitted-on-2022-10-25-0851080800">898: Gamliel’s Gaberdine Garments - Weekly Discussion Thread, 24th/25th of October, 2022, submitted on 2022-10-25 08:51:08+08:00.</a></li>
+  <li><a href="#899-alexander-buddy-i-had-multiple-cities-in-the-actual-caucasus-and-yet-you-save-this-name-for-the-one-single-city-located-in-africa-in-my-empire-submitted-on-2022-10-26-1504240800" id="markdown-toc-899-alexander-buddy-i-had-multiple-cities-in-the-actual-caucasus-and-yet-you-save-this-name-for-the-one-single-city-located-in-africa-in-my-empire-submitted-on-2022-10-26-1504240800">899: Alexander, buddy, I had multiple cities in the actual Caucasus, and yet you save this name for the one single city located in Africa in my empire., submitted on 2022-10-26 15:04:24+08:00.</a></li>
+  <li><a href="#900-graduate-college-choice-submitted-on-2022-10-27-0454200800" id="markdown-toc-900-graduate-college-choice-submitted-on-2022-10-27-0454200800">900: Graduate College Choice, submitted on 2022-10-27 04:54:20+08:00.</a></li>
+  <li><a href="#901-is-the-british-empire-to-blame-for-the-war-in-ukraine-submitted-on-2022-10-27-1203330800" id="markdown-toc-901-is-the-british-empire-to-blame-for-the-war-in-ukraine-submitted-on-2022-10-27-1203330800">901: Is the British Empire to blame for the war in Ukraine?, submitted on 2022-10-27 12:03:33+08:00.</a></li>
+  <li><a href="#902-what-led-to-the-rise-of-the-ccp-submitted-on-2022-10-27-2123460800" id="markdown-toc-902-what-led-to-the-rise-of-the-ccp-submitted-on-2022-10-27-2123460800">902: What led to the rise of the CCP?, submitted on 2022-10-27 21:23:46+08:00.</a></li>
+  <li><a href="#903-askhistorians-has-hit-15-million-subscribers-to-celebrate-were-giving-away-15-million-historical-facts-join-us-here-to-claim-your-free-fact-submitted-on-2022-10-29-0000180800" id="markdown-toc-903-askhistorians-has-hit-15-million-subscribers-to-celebrate-were-giving-away-15-million-historical-facts-join-us-here-to-claim-your-free-fact-submitted-on-2022-10-29-0000180800">903: AskHistorians has hit 1.5 million subscribers! To celebrate, we’re giving away 1.5 million historical facts. Join us HERE to claim your free fact!, submitted on 2022-10-29 00:00:18+08:00.</a></li>
+  <li><a href="#904-what-was-homelessness-like-throughout-history-submitted-on-2022-10-29-1542390800" id="markdown-toc-904-what-was-homelessness-like-throughout-history-submitted-on-2022-10-29-1542390800">904: What was homelessness like throughout history?, submitted on 2022-10-29 15:42:39+08:00.</a></li>
+  <li><a href="#905-hobby-scuffles-week-of-october-31-2022-submitted-on-2022-10-30-2300100800" id="markdown-toc-905-hobby-scuffles-week-of-october-31-2022-submitted-on-2022-10-30-2300100800">905: [Hobby Scuffles] Week of October 31, 2022, submitted on 2022-10-30 23:00:10+08:00.</a></li>
+</ul>
+
+<h3 id="893-is-the-qing-conquest-theory-that-the-qing-dynasty-destroyed-the-economic-scientific-and-cultural-progress-of-the-song-and-ming-dynasties-true-basically-did-the-qing-leadership-lead-to-a-chinese-dark-age-as-some-claim-submitted-on-2022-10-24-0645520800">893: <a href="https://old.reddit.com/r/AskHistorians/comments/ybv8rr/is_the_qing_conquest_theory_that_the_qing_dynasty/">Is the “Qing conquest theory” that the Qing Dynasty destroyed the economic, scientific, and cultural progress of the Song and Ming dynasties true? Basically, did the Qing leadership lead to a “Chinese Dark Age” as some claim?</a>, submitted on 2022-10-24 06:45:52+08:00.</h3>
+
+<p>—– <strong>893.1</strong> —–2022-10-24 18:28:41+08:00:</p>
+
+<p>This is one of those cases where the answer can be quite short or quite complicated depending on how and how far you want to engage with the dimensions of the issue. I am most certainly not an economic historian, and my contact with the Great Divergence scholarship has generally been pretty tangential. However, there are interesting discussions to be had here about historiographical matters, and also about how Wikipedia editors can sometimes weave historiographical debates from whole cloth.</p>
+
+<p>So, to get the economics side out of the way and to answer the question as phrased, the majority of Anglophone historians writing on the Great Divergence essentially reject the notion that the Qing conquest represented a permanent disruption to the Chinese economy or to its technological and scientific spheres. To quote just a few historians on this count who frankly understand the issues far better than I do:</p>
+
+<blockquote>
+  <p>It is worth noting, for instance, that Chinese interest in the physical sciences and mathematics increased markedly in the seventeenth century, especially after the Manchu conquest in 1644-68, and that publishers found that medical books were a particularly good way to sell lots of books, fulfill a commitment to improve the world through their work, and steer clear of the post-conquest minefields of political controversy.</p>
+</blockquote>
+
+<p>– Pomeranz, <em>The Great Divergence</em> (2000), p. 44</p>
+
+<blockquote>
+  <p>After the economic decline initiated by the Ming rebellions followed by the disruptions caused by the Manchu invasion, the eighteenth century witnessed the resettlement of deserted land, the opening of new fields, and a renewed commercial expansion spanning even larger portions of the empire. Economic growth in the middle and upper Yangzi regions complemented growth in the lower Yangzi. Parts of North and Northwest China also increased production. The dynamics of Smithian expansion were present throughout.</p>
+</blockquote>
+
+<p>– R Bin Wong, <em>China Transformed</em> (2001), p. 21</p>
+
+<blockquote>
+  <p>The upheavals of the late Ming rebellions and the Manchu con quest hindered growth in most of the seventeenth century, so that by 1700 the population still did not exceed 160 million. Then in the course of the eighteenth century it more than doubled, from some 160 million in 1700 to 350 million in 1800 – an unprecedented gain of nearly 200 million people. Yet standards of living were apparently higher in the eighteenth century than they had been a century earlier. Sustaining such a massive population increase without a substantial decline in living standards implies a lifting of Malthusian constraints – something usually associated only with “modern” economic growth. Thus to dismiss the early and high Qing economic increase as “merely” extensive growth misstates an extraordinary achievement.</p>
+</blockquote>
+
+<p>– Jack Goldstone, ‘Efflorescences and Economic Growth in World History: Rethinking the “Rise of the West” and the Industrial Revolution’ (2002), p. 351</p>
+
+<p>What is <em>interesting</em>, however, is that much of this core Anglophone scholarship suggesting that the underlying basis of the Qing economy remained decently strong through the eighteenth century <em>pre</em>dates the spate of Chinese historians offering explanations for Qing economic weakness without necessarily providing firm evidence for that weakness actually being extant. The Wikipedia editors’ inclusion of Kenneth Pomeranz’s critique of what we might term the ‘Qing Conquest Theory’ is absolutely fascinating because at least one of the articles (Xu’s) appears to directly respond to it. But in turn, there is little to suggest that the Anglophone historiography has felt the need to respond to this spate of Chinese-language scholarship, which appears to find roots in a particular strand of nativist and ethnic nationalist interpretations of Chinese history, wherein ‘foreign conquest dynasties’ like the Mongol Yuan and Manchu Qing are moralistically denigrated for their foreignness.</p>
+
+<p>What the <a href="https://en.wikipedia.org/wiki/Talk:Qing_conquest_theory">talk page</a> of the Wikipedia article reveals is that this page’s survival appears to have been largely contingent on a failure to successfully mobilise a strong front against its continued existence on the site, despite the page being marked as unreliable since August 2010. Both in 2010 (shortly after its creation) and in 2021, there have been extensive arguments over whether the article ought to exist at all, and even if it does, whether the title is misleading in asserting the existence of a particular theory under a term that appears to have been coined by the original author of the Wikipedia page, with no attestations in the Chinese or Anglophone scholarship cited. Per the 2021 discussion however, the term has leaked into some publications in the years since 2010, in a textbook case of what the webcomic xkcd termed <a href="https://xkcd.com/978/">‘citogenesis’</a> – a bad-faith or clueless user puts an unverified or even unverifiable fact up on the internet, which a later good-faith reader replicates in a more formal publication, which then gets cited retroactively to support the original claim.</p>
+
+<p>So, the question of ‘is the Qing conquest theory true’ actually holds an unexpected double meaning – not just whether what it purports to claim is correct, but also whether there is such a thing as a ‘Qing conquest theory’. Now, on that count, I would argue that <em>yes</em>, there <em>is</em> such a thing, insofar as one can point to a body of Chinese-language scholarship that does genuinely argue that the Qing conquest of China in the 1640s and subsequent Qing policy within China were a cause of economic and scientific stagnation or even decline, and one can coin a term to describe it. ‘Qing conquest theory’ would not be an unreasonable term to impose in that it does literally encompass what these historians argue.</p>
+
+<p>The problematic aspect to this discussion is ultimately the way that this has entered the online space. A Wikipedian decided around 2010 that their characterisation of a body of Chinese scholarship was deserving of an article, and the end result was something that mostly replicated the arguments in those articles (especially Xu (2005), who is cited a whopping 12 times in an article with 42 total citations, except the link to the cited article is dead) without a full examination of how other scholars reacted to it – quite possibly because few specialists outside China <em>cared</em> about stuff that was mostly nationalist nonsense. What we now have is an article whose genesis lies with one particular person more than a decade ago, and which has essentially <em>never</em> been updated to discuss more modern scholarship – you will note that its bibliography includes nothing in Chinese more recent than 2010, and nothing in English more recent than 2007. It’s not that we cannot speak of such a concept, but its current articulation on the internet is extremely problematic.</p>
+
+<p>—– <strong>893.2</strong> —–2022-10-24 22:22:55+08:00:</p>
+
+<p>These aren’t actually related though. That there is not post-2010 historiography that deals in depth with claims about Qing rule’s effect on the Chinese economy doesn’t mean you can’t still analyse this mid-2000s historical writing in light of other trends relating to ‘New Qing’ history,  such as what I discuss in <a href="https://www.reddit.com/r/AskHistorians/comments/gh01vp/why_is_there_such_antipathy_to_new_qing_history/fq73fra/">this past answer</a>, albeit mainly reckoning with the argument from the other end – that Qing rule’s legitimation through appeals to Chinese tradition entailed a fundamental continuity with pre- and post-Qing regimes. It’s not like you can’t tell from the arguments made by the articles that there is clearly tendentious work being done based on quite easily identifiable motives. It’s like saying you can’t dismiss Niall Ferguson as an apologist for the British Empire unless an academic specifically writes a response to one of his books.</p>
+
+<p>—– <strong>893.3</strong> —–2022-10-24 23:27:10+08:00:</p>
+
+<p>So, the problem with discussing the Qing within a Chinese context is that modern, post-imperial China simultaneously owes its geographical scope to the Qing Empire, and owes its political form to a revolt against the Qing Empire. At the same time, there is the problem of Han Sinocentrism at work and just… <em>very complicated</em> ethnic politics, such that there are conflicting priorities over whether the Qing ought to be presented as a period of ethnic harmony or one of Manchu-led oppression. As such there are two conflicting lines on how to interpret the Qing from a moralistic perspective: either the Qing were essentially foreign and pursued policies that fatally weakened China, or the Qing were highly ‘Sinicised’ and belong to a grand continuum of Chinese states. The popularities of these two perspectives wax and wane at their own pace, but the perspective held by Western historians – that we ought to understand the Qing in terms that are <em>not</em> moralistic or centred on China’s national experience – simply doesn’t have purchase in a context where history is still understood as having a concrete instrumental function as an elucidation and justification of the nation-state as it currently exists, just as it was in 19th and early 20th century Europe and America.</p>
+
+<p>—– <strong>893.4</strong> —–2022-10-25 05:12:40+08:00:</p>
+
+<p>So that’s all fair – again, as said, I’m not an economic historian and I’m not claiming that I know the modern historiography well. <em>That said</em>, the problem with the ‘Qing conquest thesis’ is that from what can be gleaned (the articles are not always still accessible), A) they don’t actually give a strong case for the existence of economic disparity and have been at best vindicated retrospectively; B) they attribute it to deliberately obfuscatory Qing policy, which is the primary point of contention and which, as you say, is not supported by even the modern scholarship; and C) if the Qing conquest alone were the cause of a major economic decline, it would manifest in the 1640s and not as a stagnation starting in the 1700s-50s. So even if the revised scholarship would agree that Chinese economic parity ended sooner than 1800, it would still fundamentally not agree with the nationalist scholarship claiming it was directly the result of the Qing conquest and discriminatory policy agendas. I agree, by the by, that the structural causes of disparity would have predated the disparity, but that is also something very much conceded by the historians at the turn of the millennium, for the most part.</p>
+
+<p>—– <strong>893.5</strong> —–2022-10-26 00:41:11+08:00:</p>
+
+<p>Well, that is also an argument some historians have deployed, but there is still an argument to be had that no, it is worth asking what kind of bad luck was involved, and how to rationalise that ‘luck’ into a series of concrete factors. So take for instance Pomeranz’s argument that it was European polities being able to extract wealth from their colonies to offset what would otherwise have been the limits of their growth in pure Malthusian terms. Now that explanation is not uncontroversial and elements have been walked back by Pomeranz over the years, but it is still some attempt to explain how the Industrial Revolution <em>did</em> happen, on the assumption that it was not an inevitability across societies.</p>
+
+<h3 id="894-does-anyone-have-recommendations-for-good-books-on-china-over-the-last-200-300-years-submitted-on-2022-10-24-1442180800">894: <a href="https://old.reddit.com/r/AskHistorians/comments/yc47fy/does_anyone_have_recommendations_for_good_books/">Does anyone have recommendations for good books on China over the last 200-300 years?</a>, submitted on 2022-10-24 14:42:18+08:00.</h3>
+
+<p>—– <strong>894.1</strong> —–2022-10-24 17:01:29+08:00:</p>
+
+<p>The two relatively standard recommendations are the late Jonathan Spence’s <em>The Search for Modern China</em> (3rd edition 2012) and Pamela Kyle Crossley’s <em>The Wobbling Pivot – China Since 1800: an Interpretive History</em> (1st ed. 2010). Each has its upsides and downsides.</p>
+
+<p>Spence’s book is decidedly more narrative, with a certain running theme being its reckoning with the idea of ‘modernity’ and what it means in a Chinese context. His coverage begins in the late Ming and goes up to the then-present, so covers a period about twice as long as Crossley, but the book is also proportionately longer to match. Spence was one of the best prose writers among Anglophone historians, and indeed one of few academic historians of China whose work was read widely outside academic circles, and in that regard the book is incredibly readable. Spence wrote the first edition right on the cusp of the ‘New Qing’ turn that significantly reframed much of what we understand about the Qing empire, and as a result even in the later editions there may be the odd interpretive quibble coming from the more Manchucentric wings of the Qing history profession, but it is broadly speaking still quite solid and relevant historiographically.</p>
+
+<p>Crossley’s book is distinctly more theoretical and interpretive, and its intended audience is somewhat more scholarly if not necessarily narrowly academic. Her writing style can occasionally be a bit obtuse when she gets into highly theoretical or analytical topics, but this is much less pronounced in <em>The Wobbling Pivot</em> than some of her other writings (<em>A Translucent Mirror</em> is the most egregious example cited). Crossley also makes the odd albeit often inconsequential factual error, especially when covering post-Qing subjects, while her coverage of Cixi’s political ascendancy takes a relatively strong view of Cixi as being functionally irrelevant, in contrast to most historians who afford her at least some degree of influence in one or more spheres of power (see for instance Edward Rhoads’ <em>Manchus and Han</em>). It’s a somewhat mixed bag, but serves as a pretty good primer on the period covered, with a focus on bringing approaches and lenses of analysis from the Qing period forward into the 20th and 21st centuries, and suggesting that fundamental continuities persisted past the more superficially apparent disruptions of the Republican and Communist revolutions.</p>
+
+<p>—– <strong>894.2</strong> —–2022-10-25 05:14:03+08:00:</p>
+
+<p>The second edition was 1999 while the third was 2012, so it depends how much you care about the 13 years in between, mainly. I also don’t know if there were revisions in between to account for the major spate of revisionist work on the Qing that mostly came out ca. 1998-2005, so while I can’t guarantee the third edition is more up to date on that, I can guarantee the second won’t be.</p>
+
+<p>—– <strong>894.3</strong> —–2022-12-21 14:16:38+08:00:</p>
+
+<p>Sorry, I don’t really go past 1911, but I’m glad you’re enjoying Spence!</p>
+
+<h3 id="895-how-do-past-and-present-militaries-deal-with-the-soldiers-fear-of-death-submitted-on-2022-10-24-1853450800">895: <a href="https://old.reddit.com/r/AskHistorians/comments/yc853i/how_do_past_and_present_militaries_deal_with_the/">How do past and present militaries deal with the soldiers’ fear of death?</a>, submitted on 2022-10-24 18:53:45+08:00.</h3>
+
+<p>—– <strong>895.1</strong> —–2022-10-24 19:04:15+08:00:</p>
+
+<p>This submission has been removed because it violates our <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events">‘20-Year Rule’</a>. To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult <a href="https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/">this Rules Roundtable</a>.</p>
+
+<h3 id="896-mindless-monday-24-october-2022-submitted-on-2022-10-24-1900110800">896: <a href="https://old.reddit.com/r/badhistory/comments/yc890g/mindless_monday_24_october_2022/">Mindless Monday, 24 October 2022</a>, submitted on 2022-10-24 19:00:11+08:00.</h3>
+
+<p>—– <strong>896.1</strong> —–2022-10-25 05:47:43+08:00:</p>
+
+<p><em>gasp</em></p>
+
+<p>Using repatriation of loot as cover for a domestic nationalist enterprise? How shocking and unheard-of.</p>
+
+<h3 id="897-what-was-the-importance-of-the-literature-boom-in-ming-dynasty-china-submitted-on-2022-10-24-2336550800">897: <a href="https://old.reddit.com/r/AskHistorians/comments/yceeqr/what_was_the_importance_of_the_literature_boom_in/">What was the importance of the literature boom in Ming Dynasty China?</a>, submitted on 2022-10-24 23:36:55+08:00.</h3>
+
+<p>—– <strong>897.1</strong> —–2022-10-25 00:43:55+08:00:</p>
+
+<p>Hi there - unfortunately we have had to remove your question, because <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework">/r/AskHistorians isn’t here to do your homework for you</a>. However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself.</p>
+
+<p>If you have indeed asked a homework question, you should consider resubmitting a question more focused on finding resources and seeking clarification on confusing issues: tell us what you’ve researched so far, what resources you’ve consulted, and what you’ve learned, and we are more likely to approve your question. Please see this <a href="https://www.reddit.com/r/AskHistorians/comments/hplxyf/rules_roundtable_xx_the_no_homework_rule/">Rules Roundtable</a> thread for more information on what makes for the kind of homework question we’d approve. Additionally, if you’re not sure where to start in terms of finding and understanding sources in general, we have a six-part series, “<a href="https://www.reddit.com/r/AskHistorians/wiki/theory#wiki_monday_methods.3A_finding_and_understanding_sources">Finding and Understanding Sources</a>”, which has a wealth of information that may be useful for finding and understanding information for your essay. Finally, other subreddits are likely to be more suitable for help with homework - try looking for help at /r/HomeworkHelp.</p>
+
+<p>Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you <strong>wait for 7 days</strong> and then ask a less open-ended question on the same topic.</p>
+
+<h3 id="898-gamliels-gaberdine-garments---weekly-discussion-thread-24th25th-of-october-2022-submitted-on-2022-10-25-0851080800">898: <a href="https://old.reddit.com/r/VirtualYoutubers/comments/ycrlu0/gamliels_gaberdine_garments_weekly_discussion/">Gamliel’s Gaberdine Garments - Weekly Discussion Thread, 24th/25th of October, 2022</a>, submitted on 2022-10-25 08:51:08+08:00.</h3>
+
+<p>—– <strong>898.1</strong> —–2022-10-26 15:51:00+08:00:</p>
+
+<p>I can no longer recall a source beyond ‘trust me bro’, but &gt;!from what I understand he was born/grew up in Australia, but one parent is Japanese and the other from Hong Kong.!&lt;</p>
+
+<h3 id="899-alexander-buddy-i-had-multiple-cities-in-the-actual-caucasus-and-yet-you-save-this-name-for-the-one-single-city-located-in-africa-in-my-empire-submitted-on-2022-10-26-1504240800">899: <a href="https://old.reddit.com/r/civ/comments/ydrguw/alexander_buddy_i_had_multiple_cities_in_the/">Alexander, buddy, I had multiple cities in the actual Caucasus, and yet you save this name for the one single city located in Africa in my empire.</a>, submitted on 2022-10-26 15:04:24+08:00.</h3>
+
+<p>—– <strong>899.1</strong> —–2022-10-26 20:22:02+08:00:</p>
+
+<p>As the other commenter noted, Alexander in the Caucasus was in the <em>other</em> Caucasus, i.e. the Hindu Kush, which was known to the Macedonians by the same name as the mountains we call the Caucasus.</p>
+
+<h3 id="900-graduate-college-choice-submitted-on-2022-10-27-0454200800">900: <a href="https://old.reddit.com/r/oxforduni/comments/ye8nyv/graduate_college_choice/">Graduate College Choice</a>, submitted on 2022-10-27 04:54:20+08:00.</h3>
+
+<p>—– <strong>900.1</strong> —–2022-10-27 20:06:32+08:00:</p>
+
+<p>I didn’t specify a preference and ended up at Mansfield (hi /u/CheeseMarionette) and that worked out for me!</p>
+
+<h3 id="901-is-the-british-empire-to-blame-for-the-war-in-ukraine-submitted-on-2022-10-27-1203330800">901: <a href="https://old.reddit.com/r/AskHistorians/comments/yehzhh/is_the_british_empire_to_blame_for_the_war_in/">Is the British Empire to blame for the war in Ukraine?</a>, submitted on 2022-10-27 12:03:33+08:00.</h3>
+
+<p>—– <strong>901.1</strong> —–2022-10-27 18:47:20+08:00:</p>
+
+<p>This submission has been removed because it violates our <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events">‘20-Year Rule’</a>. To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult <a href="https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/">this Rules Roundtable</a>.</p>
+
+<h3 id="902-what-led-to-the-rise-of-the-ccp-submitted-on-2022-10-27-2123460800">902: <a href="https://old.reddit.com/r/AskHistorians/comments/yervyo/what_led_to_the_rise_of_the_ccp/">What led to the rise of the CCP?</a>, submitted on 2022-10-27 21:23:46+08:00.</h3>
+
+<p>—– <strong>902.1</strong> —–2022-10-27 21:33:25+08:00:</p>
+
+<p>Hi there - unfortunately we have had to remove your question, because <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework">/r/AskHistorians isn’t here to do your homework for you</a>. However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself.</p>
+
+<p>If you have indeed asked a homework question, you should consider resubmitting a question more focused on finding resources and seeking clarification on confusing issues: tell us what you’ve researched so far, what resources you’ve consulted, and what you’ve learned, and we are more likely to approve your question. Please see this <a href="https://www.reddit.com/r/AskHistorians/comments/hplxyf/rules_roundtable_xx_the_no_homework_rule/">Rules Roundtable</a> thread for more information on what makes for the kind of homework question we’d approve. Additionally, if you’re not sure where to start in terms of finding and understanding sources in general, we have a six-part series, “<a href="https://www.reddit.com/r/AskHistorians/wiki/theory#wiki_monday_methods.3A_finding_and_understanding_sources">Finding and Understanding Sources</a>”, which has a wealth of information that may be useful for finding and understanding information for your essay. Finally, other subreddits are likely to be more suitable for help with homework - try looking for help at /r/HomeworkHelp.</p>
+
+<p>Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you <strong>wait for 7 days</strong> and then ask a less open-ended question on the same topic.</p>
+
+<h3 id="903-askhistorians-has-hit-15-million-subscribers-to-celebrate-were-giving-away-15-million-historical-facts-join-us-here-to-claim-your-free-fact-submitted-on-2022-10-29-0000180800">903: <a href="https://old.reddit.com/r/AskHistorians/comments/yfs7uh/askhistorians_has_hit_15_million_subscribers_to/">AskHistorians has hit 1.5 million subscribers! To celebrate, we’re giving away 1.5 million historical facts. Join us HERE to claim your free fact!</a>, submitted on 2022-10-29 00:00:18+08:00.</h3>
+
+<p>—– <strong>903.1</strong> —–2022-10-29 02:05:58+08:00:</p>
+
+<p>The first known appearance of Hong Xiuquan (the Taiping Heavenly King) in the written record is in a missionary gazette from 1847 printed in Kentucky. Issachar Roberts, a Tennesseean missionary whom Hong studied with for a few months in 1846, sent back a letter to friends in the US about how remarkable it was that he had met a man who had converted to Christianity after a series of visions, which Roberts himself believed to be fully genuine. Hong would not reappear in the textual record until 1851, when Hong Rengan (a cousin who had briefly accompanied Hong Xiuquan with Roberts) wrote a short testimony of his experiences.</p>
+
+<p>—– <strong>903.2</strong> —–2022-10-29 02:15:35+08:00:</p>
+
+<p>Harry Parkes. Just. Harry Parkes.</p>
+
+<p>—– <strong>903.3</strong> —–2022-10-29 02:16:25+08:00:</p>
+
+<p>There is a portrait of the Yongzheng Emperor where he <a href="https://preview.redd.it/trutmfntk1e41.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8eb2f4f16fc4d22c147aba7768c126fcfcb127af">hunts tigers while cosplaying as Louis XIII</a></p>
+
+<p>—– <strong>903.4</strong> —–2022-10-29 02:18:28+08:00:</p>
+
+<p>A guy calling himself Jesus’ younger brother nearly overthrew the Qing government in China in the 1850s. I know that’s the really annoying oversimplified version that I hate but it is nevertheless substantively true.</p>
+
+<p>—– <strong>903.5</strong> —–2022-10-29 02:21:42+08:00:</p>
+
+<p>The Daoguang Emperor, who (in)famously issued a major series of opium prohibition policies in 1836, may actually have smoked it himself when he was younger, although it’s ambiguous whether he was smoking <em>madak</em> (opium-laced tobacco) or just plain tobacco.</p>
+
+<p>—– <strong>903.6</strong> —–2022-10-29 02:23:20+08:00:</p>
+
+<p>The oft-repeated factoid that Chinggis’ bloodline is so widespread because of his repeated acts of sexual violence is not even supported by the article people cite for it. The article suggests that if it is indeed true, it is mostly attributable to the fact that male-line descendants of Chinggis held a privileged position in many post-Mongol societies, which encouraged having more children in Chinggisid families.</p>
+
+<p>—– <strong>903.7</strong> —–2022-10-29 02:27:27+08:00:</p>
+
+<p>The <a href="https://upload.wikimedia.org/wikipedia/commons/7/7a/EarlyCannonDeNobilitatibusSapientiiEtPrudentiisRegumManuscriptWalterdeMilemete1326.jpg">earliest recognisable visual depiction of a firearm</a> is from 1326, appearing in the illuminations of <em>De Nobilitatibus</em>, a treatise commissioned for King Edward III by his mother and written by Walter de Milemete. I have not only seen it up close in person; I got to turn the page.</p>
+
+<p>—– <strong>903.8</strong> —–2022-10-29 02:29:27+08:00:</p>
+
+<p>The 1689 Treaty of Nerchinsk and the 1727 Treaty of Kiakhta, which defined the border between the Qing and Russian empires, were composed in Latin thanks to the presence of Jesuit interpreters in the Qing court. Official derived versions in Russian and Manchu were also produced, although not in Chinese.</p>
+
+<p>—– <strong>903.9</strong> —–2022-10-29 02:32:48+08:00:</p>
+
+<p>Luo Dagang, a pirate who joined the Taiping Heavenly Kingdom, may well have been a Christian convert even before the Taiping turned up. According to a British report containing a translation of a letter from Luo in 1853, he was a bit of a collaborator with the British during their occupation of Guangzhou during the Opium War in 1840-42 and helped build churches during that time.</p>
+
+<p>—– <strong>903.10</strong> —–2022-10-29 02:37:36+08:00:</p>
+
+<p>Scottish solidarity contributed heavily to a major diplomatic near-crisis. The Napier Affair of 1834 almost saw Britain go to war with the Qing empire thanks to aggressive policies to increase British trade access in China being pushed by British opium merchants and supported by the new British trade superintendent, Napier. It is quite possible that the reason Napier, born in Ireland but from a Scottish family and a member of the Scottish peerage, was so favourable towards the smugglers, was that he ended up forming a close rapport with the two main opium merchants in Canton – William Jardine (born in rural Dumfrieshire) and James Matheson (born in Lairg in Sutherland). Thankfully for most involved – except perhaps himself – Napier died of malaria before diplomatic tension boiled over into outright war.</p>
+
+<p>—– <strong>903.11</strong> —–2022-10-29 02:41:18+08:00:</p>
+
+<p>The Ottomans have had some notable entanglements with Xinjiang separatism. Yaqub Beg, a Kokandi general who invaded Xinjiang during its revolt against the Qing in the 1860s and held onto the region until his death in 1877, was formally made Emir of Kashgar by an edict of Sultan Abdülaziz in 1873 and minted coins in the latter’s name. Later on, Prince Abdülkerim of the deposed family attempted to start a Turanist movement from Xinjiang in 1932 and received an informal but not inconsiderable amount of support from Japan, but was quickly expelled by local warlords and died in exile in New York at the age of 29.</p>
+
+<p>—– <strong>903.12</strong> —–2022-10-29 02:47:53+08:00:</p>
+
+<p>The Taiping have at least three weird connections with the military history of 1860s Japan. Takasugi Shinsaku of Chōshū, whom some consider to have been the founder of what would become the Imperial Japanese Army, may have been inspired by the Qing use of militias in his decision to form rifle units composed of peasants as well as samurai. Henry Burgevine, an American mercenary commander who had fought for the Qing, defected to the Taiping, and then went into exile, made several petitions to Japanese domains to train up their armies, and eventually ended up briefly working for Chōshū before being duped by a steamer captain into being taken to Shanghai, where the Qing arrested him for breaking the terms of his exile, and he may have been quietly murdered afterward. The Satsuma domain warship <em>Kasuga</em> was originally the <em>Keangsoo</em>, a 6-gun corvette – and the fastest armed ship in the world – that served as the flagship of the Lay-Osborn Flotilla, a small brown-water squadron assembled by British investors to support the Qing war effort, but which was refused by the Qing after it became clear that Horatio Lay (its creator) intended to command it entirely independently. It ended up in Japanese hands after being anchored in Bombay for two years, as the American consul in China had insisted it be removed from Shanghai to prevent it being obtained by Confederate privateers.</p>
+
+<p>—– <strong>903.13</strong> —–2022-10-29 06:17:14+08:00:</p>
+
+<p><em>Shatranj ke Khilari</em> (<em>The Chess Players</em>) is the only feature-length film by Satyajit Ray to be in Hindi rather than Bengali; it’s also one of a handful of his films to actually depict a specific real historical event, that being the 1856 annexation of the Indian state of Awadh (Oudh) by the East India Company on the eve of the Rebellion. It’s also a fantastic film that’s well worth watching!</p>
+
+<p>—– <strong>903.14</strong> —–2022-10-29 06:23:01+08:00:</p>
+
+<p>So the weird thing is that AskHistorians invented the 20-year rule to make moderation easier. There is no <em>actual</em> 20-year rule in real life. Also as far as AskHistorians is concerned it ticks over every year rather than every day. And it’s kind of a 19-year rule. So you can talk about the history of any point in 2003 from 1 January 2023.</p>
+
+<p>—– <strong>903.15</strong> —–2022-10-29 06:26:43+08:00:</p>
+
+<p>The word ‘chopsticks’ may have entered English thanks to Chinese Pidgin English, which developed between speakers of Cantonese and English in southern China in the 18th and early 19th centuries. Cantonese for chopsticks is 筷子 <em>faai3 zi2</em>, or just 筷 <em>faai3</em> in a literary context, which is a homophone of 快 <em>faai3</em>, ‘fast’. ‘Chop chop’ being a Pidgin term for ‘fast’, it’s possible that ‘chop sticks’ as a term for Chinese eating utensils was a result of this homophone.</p>
+
+<p>—– <strong>903.16</strong> —–2022-10-29 06:29:40+08:00:</p>
+
+<p>To paraphrase from an earlier fact in the thread, the first treaties between the Qing Empire and Russia (Nerchinsk in 1689 and Kiakhta in 1727) were composed in Latin, then translated to Russian and Manchu. The Qing court included several Jesuit advisors who served as Latin interpreters, which is how that managed to happen. That said, Peter Perdue has pointed out that it is interesting how the Jesuits inserted themselves into the process, as the Russians and the Qing could just as well – indeed, potentially more easily – used Mongolian as an intermediary language.</p>
+
+<p>—– <strong>903.17</strong> —–2022-10-29 06:31:33+08:00:</p>
+
+<p>Smithian economics has indeed been a disaster.</p>
+
+<p>—– <strong>903.18</strong> —–2022-10-29 06:33:57+08:00:</p>
+
+<p>The original ‘Six-Day War’ was in 1899, when several rural villages in the New Territories of Hong Kong, leased to Britain the previous year, rose up in revolt in a pre-emptive protest against land reform. An estimated 500 villagers died, but their aims were ultimately somewhat achieved – the governor and the local commander-in-chief had been blindsided by the more junior military officers who carried out the war, and quickly offered a package of concessions which, in largely similar form, would end up being baked into the Basic Law (Hong Kong’s current, nominally-still-active local constitution) during the handover process in the ’80s and ’90s. The war was also essentially covered up and virtually never spoken of again in official documents.</p>
+
+<p>—– <strong>903.19</strong> —–2022-10-29 06:35:14+08:00:</p>
+
+<p>Stephen Platt argues that the American Civil War was the ultimate cause of Anglo-French intervention in the Taiping War in China: the sudden contraction of the American market led to the European empires attempting to restore political stability in China to stabilise commerce there.</p>
+
+<p>—– <strong>903.20</strong> —–2022-10-29 06:42:02+08:00:</p>
+
+<p>The Fifth Dalai Lama died in 1682 but this was actively covered up by the Tibetan government until 1696; 10 years later the Sixth Dalai Lama would soon be <a href="https://www.reddit.com/r/AskHistorians/comments/fgj1vr/whats_the_story_behind_the_murder_of_the_6th/fk7d36c/">deposed under murky circumstances and probably murdered</a>. Most Dalai Lamas before and since have had much less ignominious careers (Chinese annexation of Tibet notwithstanding). (Thanks /u/JimeDorje for the older answer being linked.)</p>
+
+<p>—– <strong>903.21</strong> —–2022-10-29 06:52:29+08:00:</p>
+
+<p>Too terrifying to contemplate.</p>
+
+<p>—– <strong>903.22</strong> —–2022-10-29 06:54:08+08:00:</p>
+
+<p>Jen Yu-Wen, arguably the most prolific historian of the Taiping Heavenly Kingdom who ever lived, went to my primary school.</p>
+
+<p>—– <strong>903.23</strong> —–2022-10-29 06:56:59+08:00:</p>
+
+<p>Napoleon attributed his first major field defeat at Aspern-Essling in 1809 to ‘General Danube’ – the Austrians had found a floating watermill up river from where the French had established their pontoon bridges over the Danube, and basically let it loose down the river where it smashed the bridges and split the French army in half. Had the Austrians known they had been successful and pressed the attack, Napoleon’s entire campaign might have been ruined – along with about a quarter of the French army.</p>
+
+<p>—– <strong>903.24</strong> —–2022-10-29 07:10:04+08:00:</p>
+
+<p>Between 1883 and 1889, a (likely fraudulent) Cossack named Nikolai Ashinov made repeated attempts to bolster Ethiopia against its various rivals on the basis that Ethiopia was a fellow Orthodox polity that Russia ought to defend against its new Catholic neighbours (Italy and France now having interest in the region). Ashinov was, weirdly, already a fugitive from Russia, but had managed to win over a decent amount of private support among civil servants and military officers with which to fund his activities. He also got a lucky break by defrauding the British, as he offered to start a Cossack insurgency against the Russians in Central Asia, only to end up absconding to Ethiopia (which is how he first got there). His ignominious career culminated in his attempt to lead a couple of hundred Cossacks and their followers to establish the town of ‘New Moscow’ on the site of an abandoned Egyptian fort in Somaliland called Sagallo in December 1888, but he was kicked out by the French after less than a month for intruding on their claimed turf.</p>
+
+<p>—– <strong>903.25</strong> —–2022-10-29 07:24:48+08:00:</p>
+
+<p>When Lord Macartney went on his (in)famous embassy to China in 1793, he went casting around for Chinese interpreters, and found a pair of Chinese priests in Rome who were orphans that had been taken in by Catholic missionaries. When the ships arrived off Macau, one of the two immediately jumped overboard and swam for shore.</p>
+
+<p>—– <strong>903.26</strong> —–2022-10-29 07:26:18+08:00:</p>
+
+<p>According to Arrian, Alexander only ever drank in the company of friends, and only ever in moderation. He is the only Alexander biographer to make this claim and is frankly lying through his teeth.</p>
+
+<p>—– <strong>903.27</strong> —–2022-10-29 07:32:27+08:00:</p>
+
+<p>The historian Jamie Belich attributes the New Zealand Musket Wars in part to the introduction of potatoes, which gave Māori chiefs additional agricultural surplus and thus more ability to wage war; this coincided with a huge drop in arms prices after the Napoleonic Wars.</p>
+
+<p>—– <strong>903.28</strong> —–2022-10-29 16:28:59+08:00:</p>
+
+<p>Dim sum is a specifically Cantonese form of cuisine, so its fortunes in North America have waxed and waned with the relative strength of Cantonese communities over time. While quite prominent in the 1920s-40s, there was an extended period in the mid-1920s when American Chinese food was dominated more by Taiwanese immigrants (themselves from a diverse geographic background thanks to the post-Civil War evacuations), and dim sum would not see a major resurgence in terms of its relative prominence until emigration from Hong Kong in the 1980s.</p>
+
+<p>—– <strong>903.29</strong> —–2022-10-29 19:54:17+08:00:</p>
+
+<p>York served as the Royalist capital for a portion of the First English Civil War, being where Charles I raised the royal standard after fleeing London in January 1642. The seat of government effectively relocated to Oxford from January 1644 as the alignment of the Scottish Covenanters with the Parliamentarians made the Royalist position in the North increasingly untenable.</p>
+
+<p>—– <strong>903.30</strong> —–2022-10-29 19:55:55+08:00:</p>
+
+<p>A Flemish astronomer named Ferdinand Verbiest helped the teenaged Kangxi Emperor and his grandmother overthrow Oboi, the head of the young ruler’s regency council, in 1669, by proving that the regents had been miscalculating key dates.</p>
+
+<p>—– <strong>903.31</strong> —–2022-10-30 03:48:49+08:00:</p>
+
+<p>A rather unusual semi-religious movement emerged during the Taiping War which placed great importance on the sanctity of the written word. Among other practices, it advocated not using paper that had been written on as toilet paper, and called for putting an end to having words on the underside of pottery, as this would, supposedly, literally debase the written word in so doing.</p>
+
+<p>—– <strong>903.32</strong> —–2022-10-31 18:46:42+08:00:</p>
+
+<p>A key event in Hong Kong’s early colonial history was the Esing Bakery poisoning of 1857, in which a batch of bread laced with white arsenic led to as many as 500 people being taken ill, although ultimately only three people died of complications over the next year or so. While this might seem innocuous at first blush, this was only three months after the <em>Arrow</em> incident sent Britain and the Qing down the path to another war, which led the white community in Hong Kong to be particularly paranoid that the Chinese population would engage in various acts of sabotage. The fact that the owner of the bakery, Cheong A-Lum, left for Macau the afternoon of the poisoning did not help his case, but he was, amazingly, found not guilty at trial. However, governor John Bowring stretched his executive authority to keep Cheong detained, but a petition by the Chinese community to the Acting Colonial Secretary, William Bridges, secured his release, and he left for China, where he vanished from record.</p>
+
+<p>What’s interesting is that there is still not really a good idea of <em>why</em> the poisoning happened. Cheong doesn’t seem to have intentionally carried out the poisoning, as he had made orders for flour for several days in advance – not the behaviour of a man who was about to commit a crime and run. Nor was it likely that there were Qing-backed saboteurs, as documents seized from the provincial archives during the ensuing Arrow War showed that the Qing office that had been set up for clandestine operations was actually completely caught off guard by the attack. One possibility is industrial espionage by one of the major white European bakers envious of Cheong’s success and his lucrative government contracts: in the event, most of the contracts that had gone to Cheong ended up going to a Portuguese baker. But still possible is that a sack of white arsenic brought in for use as rat poison had been confused for flour. The case for it being an accident on those grounds is actually quite strong: the amount of arsenic was so high that people vomited up the tainted bread rather than digesting it, which was used as an explanation for why the proportion of fatal cases was so low. Then again, we can always imagine an industrial saboteur not wanting to poison his future customers.</p>
+
+<p>Whatever the case, an interesting little episode.</p>
+
+<p>—– <strong>903.33</strong> —–2022-11-04 23:44:37+08:00:</p>
+
+<p>It’s all a lie by the Phoenicians! Tyre relocated itself to Central Asia and invented the mudfloods to conceal its secret plots…</p>
+
+<p>—– <strong>903.34</strong> —–2022-11-06 17:25:23+08:00:</p>
+
+<p>I’ve written about this portrait <a href="https://www.reddit.com/r/AskHistorians/comments/phr4fn/saturday_showcase_september_04_2021/hbkbr8l/">before on the sub</a>, but to distill out the key points:</p>
+
+<p>There was a surprisingly strong set of intellectual ties between the Kingdom of France and the Qing Empire under the Kangxi and Yongzheng Emperors, with Catholic reports about the Qing court inspiring Voltaire to write admiringly of the former ruler as ‘China’s Sun King’, while knowledge of the French court made its way to the Qing as well, not just through missionaries but also through private merchants. It’s important to understand that Qing trade policy was protectionist, not isolationist: huge volumes of cargo moved through Canton (Guangzhou), and this cargo was moved by people. Moreover, there was a massive market for commissioned porcelainware, which saw the imperial kiln complex at Jingdezhen turn out huge quantities of bowls, plates, and teacups (among other items) with European designs. So both ideas about Europe and European aesthetic influences disseminated quite widely.</p>
+
+<p>What this also led to, somewhat inexplicably, was a strange bit of religious iconography, wherein one of the forms that could be taken by a Bodhisattva in Qing-era religious art was a European nobleman. In the Kangxi-era woodblock album <em>Fifty-Three Transformation Bodies of Guanyin</em>, the goddess Guanyin (Avalokitasvara) appears in one image as a moustachioed gentleman with a sceptre, seemingly modelled on portraits of Louis XIII. This gives some context to the Yongzheng Emperor’s appearance in Bourbon garb in the tiger-hunting image, as he may have been seeking to evoke the imagery of the Maitreya tradition. In particular, one of Maitreya’s heralds in Chinese Mahayana, the Eighteen Arhats, is the Tiger-Tamer or Tiger-Subduer, who is sometimes associated with Maitreya himself, leading to a number of Qing depictions of Maitreya as a tiger-slayer. The album in which the Yongzheng Emperor’s tiger hunt appears, descriptively titled <em>The Yongzheng Emperor in Costumes</em>, can be read as inserting itself into this trend of religious art, drawing a similarity between the emperor’s ability to switch costumes and roles and the ability of Bodhisattvas to change forms, and in turn, it quite likely drew on the precedent for depicting one such form as a European aristocrat.</p>
+
+<h3 id="904-what-was-homelessness-like-throughout-history-submitted-on-2022-10-29-1542390800">904: <a href="https://old.reddit.com/r/AskHistorians/comments/ygddsf/what_was_homelessness_like_throughout_history/">What was homelessness like throughout history?</a>, submitted on 2022-10-29 15:42:39+08:00.</h3>
+
+<p>—– <strong>904.1</strong> —–2022-10-29 15:52:05+08:00:</p>
+
+<p>Apologies, but we have removed your question in its current form as it breaks our <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">rules concerning the scope of questions</a>. However, it might be that an altered version of your question would fit within our rules, and we encourage you to reword your question to fit the rule. While we do allow questions which ask about general topics without specific bounding by time or space, we do ask that they be clearly phrased and presented in a way that can be answered by an individual historian focusing on only one example which they can write about in good detail.</p>
+
+<p>So for example, if you wanted to ask, “<em>Have people always rebelled against health rules in pandemics?</em>” we would remove the question. As phrased, it asks broadly about many places collectively. However if you ask “<em>In the time and place you study, how did people rebel against health rules in a pandemic?</em>” we would allow the question. As phrased, while still asking broadly, it does so in a way that clearly invites a given expert to write exclusively about their topic of focus! We encourage you to think about rewording your question to fit this rule, and thank you for your understanding. If you are unsure of how best to reshape your question to fit these requirements, <a href="https://www.reddit.com/message/compose/?to=/r/AskHistorians">please reach out to us for assistance</a>.</p>
+
+<h3 id="905-hobby-scuffles-week-of-october-31-2022-submitted-on-2022-10-30-2300100800">905: <a href="https://old.reddit.com/r/HobbyDrama/comments/yhgdrj/hobby_scuffles_week_of_october_31_2022/">[Hobby Scuffles] Week of October 31, 2022</a>, submitted on 2022-10-30 23:00:10+08:00.</h3>
+
+<p>—– <strong>905.1</strong> —–2022-11-03 05:32:49+08:00:</p>
+
+<p>Mid-sized drama from the middle leagues of the EN VTuber space:</p>
+
+<p>For a while, CyberLive was one of the five agencies that one r/VirtualYoutubers user nicknamed the ‘Pettan Five’, a group of mid-sized agencies whose members were generally in the five-digit range in terms of sub counts: not big players with general-audience popularity like Hololive, Nijisanji, or VShojo, but definitely very noticeable within the overall VTuber space. (The others, for context, are Tsunderia, Phase-Connect, PRISM Project, and Production Kawaii.) CyberLive’s first, five-member generation debuted in July 2021, and its second (also of five), including its (relative) breakout member Oumiya Emma, debuted in December.</p>
+
+<p>Unfortunately there seem to have been management issues quite early on, with the main public-facing manager, Sato Misaki, apparently just not doing her job, to the point of failing to do stuff for the agency that actively cost it money. This led to her being publicly terminated in late March this year. This came amid a spate of talent departures: Ayane Hylo went independent in early February, Kaneko Lumi and Amaris Yuri transferred to Phase-Connect in early March (about two weeks before Sato Misaki’s termination), and Kurohana Inori left to go independent in mid-May. Shortly before Inori’s departure, CyberLive officially rebranded itself as Aetheria, ostensibly switching from an agency format to an indie network, with manager Vera Vee retaining some management role and also becoming a public-facing talent.</p>
+
+<p>Well, now allegations have come out about Vera Vee leaking private conversations with the Aetheria members, taking advantage of fans, and having an affair with a Cyberlive/Aetheria Discord mod. While these are just allegations from the mod in question at present, and frankly kind of questionable in terms of provenance, this has led to Vera Vee deleting her Twitter account, and Aetheria announcing its official dissolution as of 30 October. This seems to have been sprung on the talents as well. It’s fortunate that the damage seems to have been limited by Aetheria already being a downsize from CyberLive, but it’s still not great that a support structure has suddenly been kicked out under them.</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-10-31</time>
+        <a href="https://nodebe4.github.io/opinion/2022-10-31/theoryofdoom/">
+          theoryofdoom在2022-10-31~2022-11-06的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-10-30</time>
+        <a href="https://nodebe4.github.io/opinion/2022-10-30/Spinkcat/">
+          Spinkcat在2022-10-24~2022-10-30的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-10-29</time>
+        <a href="https://nodebe4.github.io/opinion/2022-10-29/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-10-24~2022-10-30的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-10-26</time>
+        <a href="https://nodebe4.github.io/opinion/2022-10-26/theoryofdoom/">
+          theoryofdoom在2022-10-24~2022-10-30的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-10-29/EP-023-%E5%9B%9B%E9%80%9A%E6%A1%A5%E5%90%8E-%E9%82%A3%E4%BA%9B%E5%B9%B4%E8%BD%BB%E7%9A%84%E6%8A%97%E8%AE%AE%E8%80%85-%E6%96%87%E5%AD%97%E7%89%88/">
+            前一篇：EP-023 四通桥后，那些年轻的抗议者（文字版）
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-10-30/HeQinglian/">
+            後一篇：Twitter @He Qinglian: 2022-10-24~2022-10-30
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-10-29/EP-023-%E5%9B%9B%E9%80%9A%E6%A1%A5%E5%90%8E-%E9%82%A3%E4%BA%9B%E5%B9%B4%E8%BD%BB%E7%9A%84%E6%8A%97%E8%AE%AE%E8%80%85-%E6%96%87%E5%AD%97%E7%89%88/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-10-30/HeQinglian/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-10-30/Spinkcat/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-10-29/ForeignAffairsMag/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-10-29/EP-023-%E5%9B%9B%E9%80%9A%E6%A1%A5%E5%90%8E-%E9%82%A3%E4%BA%9B%E5%B9%B4%E8%BD%BB%E7%9A%84%E6%8A%97%E8%AE%AE%E8%80%85-%E6%96%87%E5%AD%97%E7%89%88/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-10-30/HeQinglian/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-10-30/Spinkcat/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-10-29/ForeignAffairsMag/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

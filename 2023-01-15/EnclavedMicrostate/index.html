@@ -1,0 +1,2481 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>EnclavedMicrostate在2023-01-09~2023-01-15的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="EnclavedMicrostate在2023-01-09~2023-01-15的言论" />
+    <meta property="twitter:title" content="EnclavedMicrostate在2023-01-09~2023-01-15的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2Fbadhistory%2Fcomments%2F107cogb%2Fmindless_monday_09_january_2023%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/badhistory/comments/107cogb/mindless_monday_09_january_2023/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/badhistory/comments/107cogb/mindless_monday_09_january_2023/&text=EnclavedMicrostate在2023-01-09~2023-01-15的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/badhistory/comments/107cogb/mindless_monday_09_january_2023/&title=EnclavedMicrostate在2023-01-09~2023-01-15的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/badhistory/comments/107cogb/mindless_monday_09_january_2023/&title=EnclavedMicrostate在2023-01-09~2023-01-15的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=EnclavedMicrostate在2023-01-09~2023-01-15的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/badhistory/comments/107cogb/mindless_monday_09_january_2023/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/badhistory/comments/107cogb/mindless_monday_09_january_2023/&title=EnclavedMicrostate在2023-01-09~2023-01-15的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=EnclavedMicrostate在2023-01-09~2023-01-15的言论&url=https://old.reddit.com/r/badhistory/comments/107cogb/mindless_monday_09_january_2023/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>EnclavedMicrostate在2023-01-09~2023-01-15的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2023-01-15
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: EnclavedMicrostate</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/badhistory/comments/107cogb/mindless_monday_09_january_2023/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#1041-mindless-monday-09-january-2023-submitted-on-2023-01-09-2000120800" id="markdown-toc-1041-mindless-monday-09-january-2023-submitted-on-2023-01-09-2000120800">1041: Mindless Monday, 09 January 2023, submitted on 2023-01-09 20:00:12+08:00.</a></li>
+  <li><a href="#1042-what-is-the-academically-accepted-definition-of-chinese-people-by-historians-submitted-on-2023-01-10-0825200800" id="markdown-toc-1042-what-is-the-academically-accepted-definition-of-chinese-people-by-historians-submitted-on-2023-01-10-0825200800">1042: What is the academically accepted definition of “Chinese people” by historians?, submitted on 2023-01-10 08:25:20+08:00.</a></li>
+  <li><a href="#1043-where-are-you-from-and-why-do-you-support-tibet-submitted-on-2023-01-10-1234560800" id="markdown-toc-1043-where-are-you-from-and-why-do-you-support-tibet-submitted-on-2023-01-10-1234560800">1043: Where are you from and why do you support Tibet?, submitted on 2023-01-10 12:34:56+08:00.</a></li>
+  <li><a href="#1044-there-is-going-to-be-a-noefuretakamori-stream-tomorrow-playing-mario-party-on-noels-channel-submitted-on-2023-01-11-0041040800" id="markdown-toc-1044-there-is-going-to-be-a-noefuretakamori-stream-tomorrow-playing-mario-party-on-noels-channel-submitted-on-2023-01-11-0041040800">1044: There is going to be a Noefuretakamori stream tomorrow playing Mario Party on Noel’s channel., submitted on 2023-01-11 00:41:04+08:00.</a></li>
+  <li><a href="#1045-can-you-join-societies-mid-term-submitted-on-2023-01-11-0724420800" id="markdown-toc-1045-can-you-join-societies-mid-term-submitted-on-2023-01-11-0724420800">1045: Can you join societies mid-term?, submitted on 2023-01-11 07:24:42+08:00.</a></li>
+  <li><a href="#1046-my-boyfriend-posted-this-and-im-too-scared-to-ask-him-what-it-means--submitted-on-2023-01-11-0811140800" id="markdown-toc-1046-my-boyfriend-posted-this-and-im-too-scared-to-ask-him-what-it-means--submitted-on-2023-01-11-0811140800">1046: My boyfriend posted this and I’m too scared to ask him what it means 😭, submitted on 2023-01-11 08:11:14+08:00.</a></li>
+  <li><a href="#1047-ponlliope-submitted-on-2023-01-11-1547030800" id="markdown-toc-1047-ponlliope-submitted-on-2023-01-11-1547030800">1047: Ponlliope, submitted on 2023-01-11 15:47:03+08:00.</a></li>
+  <li><a href="#1048-im-kevin-kruse-co-editor-of-myth-america-here-to-talk-about-modern-american-history-submitted-on-2023-01-11-2241110800" id="markdown-toc-1048-im-kevin-kruse-co-editor-of-myth-america-here-to-talk-about-modern-american-history-submitted-on-2023-01-11-2241110800">1048: I’m Kevin Kruse, co-editor of Myth America, here to talk about modern American history!, submitted on 2023-01-11 22:41:11+08:00.</a></li>
+  <li><a href="#1049-what-was-the-temperature-during-the-tulsa-massacre-submitted-on-2023-01-12-1332490800" id="markdown-toc-1049-what-was-the-temperature-during-the-tulsa-massacre-submitted-on-2023-01-12-1332490800">1049: What was the temperature during the tulsa massacre?, submitted on 2023-01-12 13:32:49+08:00.</a></li>
+  <li><a href="#1050-were-samurai-really-as-honorable-as-stories-portray-them-to-be-submitted-on-2023-01-13-0655540800" id="markdown-toc-1050-were-samurai-really-as-honorable-as-stories-portray-them-to-be-submitted-on-2023-01-13-0655540800">1050: Were Samurai really as honorable as stories portray them to be?, submitted on 2023-01-13 06:55:54+08:00.</a></li>
+  <li><a href="#1051-were-there-other-rebellions-happening-in-qing-china-during-the-taiping-rebellion-submitted-on-2023-01-13-2123520800" id="markdown-toc-1051-were-there-other-rebellions-happening-in-qing-china-during-the-taiping-rebellion-submitted-on-2023-01-13-2123520800">1051: we’re there other rebellions happening in Qing China during the taiping rebellion?, submitted on 2023-01-13 21:23:52+08:00.</a></li>
+  <li><a href="#waves-of-revolt" id="markdown-toc-waves-of-revolt">‘Waves’ of Revolt</a></li>
+  <li><a href="#summaries" id="markdown-toc-summaries">Summaries</a>    <ul>
+      <li><a href="#the-khwaja-rebellions-and-the-xinjiang-revolt-1826-1877" id="markdown-toc-the-khwaja-rebellions-and-the-xinjiang-revolt-1826-1877">The Khwaja rebellions and the Xinjiang Revolt (1826-1877)</a></li>
+      <li><a href="#the-taiping-war-1851-64" id="markdown-toc-the-taiping-war-1851-64">The Taiping War (1851-64)</a></li>
+      <li><a href="#the-nian-1851-68" id="markdown-toc-the-nian-1851-68">The Nian (1851-68)</a></li>
+      <li><a href="#the-small-sword-uprising-1853" id="markdown-toc-the-small-sword-uprising-1853">The Small Sword Uprising (1853)</a></li>
+      <li><a href="#wu-lingyuns-rebellion-1852-1869-and-the-kingdom-of-yanling-1861-1869" id="markdown-toc-wu-lingyuns-rebellion-1852-1869-and-the-kingdom-of-yanling-1861-1869">Wu Lingyun’s Rebellion (1852?-1869?) and the Kingdom of Yanling (1861-1869?)</a></li>
+      <li><a href="#the-red-turban-rebellion-1854-6" id="markdown-toc-the-red-turban-rebellion-1854-6">The Red Turban Rebellion (1854-6)</a></li>
+      <li><a href="#the-miao-rebellion" id="markdown-toc-the-miao-rebellion">The ‘Miao’ Rebellion</a></li>
+      <li><a href="#the-yunnanese-revolt" id="markdown-toc-the-yunnanese-revolt">The Yunnanese Revolt</a></li>
+      <li><a href="#the-dungan-hui-revolt-1862-75" id="markdown-toc-the-dungan-hui-revolt-1862-75">The ‘Dungan’ Hui Revolt (1862-75)</a></li>
+    </ul>
+  </li>
+  <li><a href="#1052-does-taiping-christianity-still-exist-submitted-on-2023-01-14-1740530800" id="markdown-toc-1052-does-taiping-christianity-still-exist-submitted-on-2023-01-14-1740530800">1052: Does Taiping Christianity still exist?, submitted on 2023-01-14 17:40:53+08:00.</a></li>
+  <li><a href="#1053-the-obama-of-star-wars-except-its-the-other-name-submitted-on-2023-01-14-2223370800" id="markdown-toc-1053-the-obama-of-star-wars-except-its-the-other-name-submitted-on-2023-01-14-2223370800">1053: The Obama of Star Wars, except it’s the other name, submitted on 2023-01-14 22:23:37+08:00.</a></li>
+  <li><a href="#1054-why-is-new-year-not-on-one-of-the-solstice-days-submitted-on-2023-01-15-1006350800" id="markdown-toc-1054-why-is-new-year-not-on-one-of-the-solstice-days-submitted-on-2023-01-15-1006350800">1054: Why is New Year not on one of the solstice days?, submitted on 2023-01-15 10:06:35+08:00.</a></li>
+  <li><a href="#1055-would-the-english-and-by-extension-their-former-and-present-colonial-possessions-canada-america-and-such-still-be-catholic-if-not-for-henry-viii-submitted-on-2023-01-15-1251400800" id="markdown-toc-1055-would-the-english-and-by-extension-their-former-and-present-colonial-possessions-canada-america-and-such-still-be-catholic-if-not-for-henry-viii-submitted-on-2023-01-15-1251400800">1055: Would the English (and by extension, their former and present colonial possessions, Canada, America, and such) still be Catholic if not for Henry VIII?, submitted on 2023-01-15 12:51:40+08:00.</a></li>
+  <li><a href="#1056-was-hong-xiuquan-the-brother-of-jesus-christ-submitted-on-2023-01-15-1439090800" id="markdown-toc-1056-was-hong-xiuquan-the-brother-of-jesus-christ-submitted-on-2023-01-15-1439090800">1056: Was Hong Xiuquan the brother of Jesus Christ?, submitted on 2023-01-15 14:39:09+08:00.</a></li>
+  <li><a href="#1057-hobby-scuffles-week-of-january-16-2023-submitted-on-2023-01-15-2230090800" id="markdown-toc-1057-hobby-scuffles-week-of-january-16-2023-submitted-on-2023-01-15-2230090800">1057: [Hobby Scuffles] Week of January 16, 2023, submitted on 2023-01-15 22:30:09+08:00.</a></li>
+</ul>
+
+<h3 id="1041-mindless-monday-09-january-2023-submitted-on-2023-01-09-2000120800">1041: <a href="https://old.reddit.com/r/badhistory/comments/107cogb/mindless_monday_09_january_2023/">Mindless Monday, 09 January 2023</a>, submitted on 2023-01-09 20:00:12+08:00.</h3>
+
+<p>—– <strong>1041.1</strong> —–2023-01-10 10:48:58+08:00:</p>
+
+<p>Thanks for the link /u/Dirish. For what it’s worth, at this point I personally think <a href="https://www.youtube.com/watch?v=dtU_M0Sjd9Y">Mia Mulder’s video on Tartaria</a>, which is based on far more research than I’ve ever done, more than supersedes my old post. The main thing is that Tartaria as it existed even then is not a single narrative so much as a super-narrative that unites three separate conspiracy narratives:</p>
+
+<ol>
+  <li>The ‘Cultural Layer’ (i.e. the idea that a global ‘mudflood’ raised ground level in large parts of the world simultaneously, hence explaining buildings with windows below street level).</li>
+  <li>‘Tartaria’ in Early Modern geographies (i.e. failing to recognise the use of ‘Tartaria’ as a generic regional designate and not as a state entity).</li>
+  <li>Architectural anti-modernism (i.e. declaring any pre-modernist architecture to be essentially stylistically cogent).</li>
+</ol>
+
+<p>My post covers only the second of these but Mulder does all three.</p>
+
+<h3 id="1042-what-is-the-academically-accepted-definition-of-chinese-people-by-historians-submitted-on-2023-01-10-0825200800">1042: <a href="https://old.reddit.com/r/AskHistorians/comments/107v6dj/what_is_the_academically_accepted_definition_of/">What is the academically accepted definition of “Chinese people” by historians?</a>, submitted on 2023-01-10 08:25:20+08:00.</h3>
+
+<p>—– <strong>1042.1</strong> —–2023-01-10 16:32:16+08:00:</p>
+
+<p>The short answer is there isn’t one. The mid-length answer is that the definition is invariably a contextual one. The long answer is below.</p>
+
+<p>To begin with, historians who deal with issues of identity will generally be a lot more precise in their terminology than those who do not, and there are certain subfields of Chinese history where such issues are generally not brought up – even though they could be. This absence is most keenly felt in 20th century history, where, especially post-Qing, most histories will sort of elide the definition of Chinese nationhood – crack open any standard history of the Second Sino-Japanese War like Rana Mitter’s <em>Forgotten Ally</em> or Hans van de Ven’s <em>China at War</em>, and you will find near-total silence on the matter of minority groups. Arguably, such works do, by implication, buy into the sorts of supraethnic national definition you describe. Historians of Imperial China may use ‘Chinese’ quite casually in place of ‘Han’ when discussing issues that are, in general, relevant specifically to the Han. For instance if someone is talking about ‘Chinese religion’, you can be pretty sure they only mean Han Chinese practices, not Tibetan or Zhuang or Miao. In both cases, historians are essentially reading ‘with the grain’ of the contemporary evidence, using definitions of ‘Chinese’ that are based on generally contemporary understandings. However, there is a difference in that the definition being derived from is not always consistent: ‘Chinese’ in the imperial context generally is used to translate the cultural label of ‘Han’, whereas ‘Chinese’ in a post-imperial context usually is used to translate the <em>national</em> label of ‘Chinese’ as used by the ROC and PRC in their respective periods. And then a separate set of priorities applies for historians of Chinese diasporas, whose subjects were mostly Han and who thus probably do not need to differentiate between peoples who were not Han but still ‘Chinese’ by some label or another.</p>
+
+<p>None of these uses are unproblematic, and they reflect an underlying issue that there is no word in any Sinitic language that maps directly onto ‘Chinese’, whose use in English encompasses a variety of ideas. <em>Zhongguoren</em> carries an implicit character of nationality, but also more specifically of statehood – i.e. a <em>Zhongguoren</em> is one who is identified as being a citizen or subject of a state recognised as being <em>Zhongguo</em>. <em>Huaren</em> is somewhat ethnic, somewhat cultural, and generally carries the connotation of either just the Han, or the wider group of peoples who follow Han cultural norms. And you also have <em>Hanren</em>, a narrower ethnic term specifically denoting Han Chinese. So you could have a situation where a Hui person may be a <em>Zhongguoren</em> by political definition, possibly a <em>Huaren</em> by genealogical but not by cultural definition, and definitively not a <em>Hanren</em> by ethnic definition. On the other hand, a diaspora Han Chinese person would be a <em>Huaren</em> and a <em>Hanren</em>, but not a <em>Zhongguoren</em> unless they specifically affirmed said nationality. Yet all three of these might be used to mean ‘Chinese’ in a given context: to a political historian ‘Chinese’ may map most closely onto <em>Zhongguoren</em> in the sense of a subject of the state; for a cultural historian ‘Chinese’ may map mainly onto <em>Huaren</em> as a term denoting a broad cultural group; for a historian of identity discourses, ‘Chinese’ may map mainly onto <em>Hanren</em> as a convenient synonym to distinguish them from steppe nomadic peoples, tribal groups in the Southeast Asian uplands, and so on.</p>
+
+<p>While Qing specialists in particular have often advocated a certain greater specificity of language in these matters, standards are not always consistent, and the term ‘Chinese’ often creeps through. All three of the above ways of using the term can be found in key works on Qing history like Pamela Crossley’s <em>A Translucent Mirror</em> or Peter Perdue’s <em>China Marches West</em> – ‘Chinese’ to mean subjects of a ‘Chinese’ state, ‘Chinese’ to refer to those in a particular cultural tradition, and ‘Chinese’ as synonym for ‘Han’. Now, in general, these historians would agree that peoples who are defined as part of a Chinese nation <em>now</em> were not Chinese for all time: it makes no sense to speak of 12th century Mongols, 16th century Jurchens, or 18th century Tibetans as ‘Chinese’ in any meaningful way. But then there ends up being the question of where such peoples fit. If we agree that we cannot impose a ‘Chinese’ label on societies that were not part of a ‘Chinese’ empire at the time, then how do we avoid the pitfall of only ever discussing them in the context of ‘Chinese’ history? We can agree that the Mongols enter the narrative of Chinese history after their attacks on Western Xia began on 1205, but what about beforehand? How should we discuss the pre-Qing history of what we <em>now</em> call Manchuria, especially when ‘Manchuria’ itself is an 18th century neologism, significantly postdating the formation of the Qing empire? In other words, how can we avoid replacing one Sinocentric narrative (that of the modern Chinese nation back-projected through time) with another (in which ‘China’ is acknowledged as historically contingent, but nevertheless the central object of consideration)?</p>
+
+<p>One approach is that of Evelyn Rawski, rooted in the approaches pioneered by global history, which is to think about the wider East Asian region in terms of interconnectivity and simultaneity rather than purely in terms of proto-national narratives. At the extreme end, this could mean discarding the very notion of ‘Chinese history’ altogether in favour of a more broadly ‘Asian’ history in which statehood and the boundaries imposed by states are acknowledged, but not allowed to posthumously impose those same limits on historical study. This doesn’t fix the problem of defining ‘Chineseness’ however: variation and contrast are just as important as commonality here, and it is still important to speak of distinctions between, say, ‘Chinese’, ‘Korean, and ‘Japanese’ contexts within an ‘(East) Asian’ whole. We could take some cues from Dominic Lieven, who, drawing on work by Peter Perdue, offers an alternative definition of ‘China’ itself, as really being a collective term for a shifting series of states claiming common political traditions and genealogies of statehood. ‘Chineseness’, in turn, is affirmed as specifically defined via statehood – and especially of <em>imperial</em> statehood – and thus expanding and contracting in its definition over time, as empires expanded and contracted, and as they exerted and discarded claims to the credentials of ‘Chinese’ statehood. Indeed, in my view the use of ‘Chinese’ to very specifically refer to concepts linked to the narratives of a dominant state entity is probably the most intellectually consistent approach that can be taken, given the extreme fluidity of identity constructs below the state level.</p>
+
+<p>So in the end, no, historians don’t really have a single consistent definition of who ‘Chinese people’ are. In a best-case scenario they will at least try to define the term in question, but in general, ‘Chinese’ is genuinely used in a variety of ways that are <em>usually</em> understood to be based on some kind of relevant, period-specific conception. There have, of course, been attempts to problematise the use of ‘Chinese’: Prasenjit Duara’s <em>Rescuing History from the Nation</em>, Pamela Crossley’s <em>The Wobbling Pivot</em>, and Peter Perdue’s review essay ‘Classical China: A Singular Entity’ have all done so. But the very word ‘Chinese’ is essentially so fundamental to the field – and interest still so relatively modern-skewed, to periods including the present where simple definitions of ‘Chinese’ are often peddled but rarely questioned – that efforts at its problematisation will likely continue for some while yet.</p>
+
+<p>—– <strong>1042.2</strong> —–2023-01-10 23:46:59+08:00:</p>
+
+<p>Gosh, a lot of follow-ups. I’ll try to address them as best I can.</p>
+
+<p>As regards the ‘foreignness’ of the Manchus under the Qing, I would agree with the notion that we cannot use any definition of ‘Chinese’ other than the simple political one (i.e. ‘China’ as a shorthand for the Qing and any Qing subject as ‘Chinese’ as a result) to encompass the Qing-era Manchus. Simply put, Qing-era Manchus consciously identified as non-Han and as having, at minimum, a genealogical basis for seeing themselves as separate from the Han as a people. The assertion of an essential non-Chineseness on the Manchus’ part is thus correct insofar as the Manchus themselves accepted this notion. However, we still ought to bear in mind a certain – but far from total – degree of acculturation among the Manchus, whose prolonged contact with Chinese urbanism combined with state attempts to promulgate an idealised ‘Manchu Way’ to produce a unique synthesis of Chinese and Northeast Asian cultural norms.</p>
+
+<p>As for multiethnic vs ‘mono-ethnic’ states, I think we simply need to recognise that the notion of an ethnostate is pretty recent in world history, and that most societies have acknowledged – if not necessarily readily embraced – a certain degree of internal pluralism. You can come up with any number of examples of fuzzy edges when it comes to identity definitions: ‘the English’ is perhaps the most standard example, where colloquial uses have often encompassed basically the entirety of the British Isles, but even at less extreme stretches, you have fuzzy zones like the Cornish. Some would make the argument that a singular Japanese national (or at times racial) identity encompassing east and west didn’t really come into being until the later Edo period. The simple fact is that any demonym is going to change over time in terms of its possible bases and consequent breadth.</p>
+
+<p>I think dwelling on Lieven here will take us rather off topic: I should have specified that the work by Lieven I’m referring to is his recent popular press book <em>In the Shadow of the Gods: The Emperor in World History</em>, which is largely a work of synthesis discussing emperors (and empress regnants) across some 14 case studies; three of these concern China. Lieven is, however, mainly a historian of Russia. His focus on China is a result of it being one of the more long-lasting, or at least genealogically contiguous, examples of an imperial tradition of Eurasian history. Within that broader study of emperorship, Lieven takes the classic line that nationhood and empire are anathema, but he does argue that China is an unusual case where the imperial polity has been held together through attempts to enforce a national identity within its borders. But again, we need to regard Lieven’s interpretation of China as one framed through his particular read of secondary sources (which exactly I have not checked), and while he’s definitely a decent historian he’s not a China specialist. Nor does he really engage with the empires not generally considered part of the ‘canon’ of succession.</p>
+
+<p>As for how to approach the Liao or Qara Khitai (or Western Xia for that matter), there’s a couple of ways to go about it. Competing imperial claims could be the basis for arguing for the existence of multiple competing Chinas. Or we can use ‘China’ in geographical terms and refer to any state significantly occupying part of it as being ‘Chinese’ – something that would probably exclude Qara Khitai (which was located primarily in what is now Xinjiang) but not Western Xia (which ruled mainly over Han subjects in Gansu). But there are approaches that may still accept the notion of a single primary ‘China’ while heavily qualifying it: Morris Rossabi frames what is sometimes termed the ‘Song-Liao-Jin period’ as ‘China Among Equals’, a period in which claimants to the Chinese imperial mantle were at odds and unable to decisively overcome each other, and in which therefore the notional ‘China’ (i.e. the Song) was unable to actually consider itself an all-encompassing entity.</p>
+
+<p>—– <strong>1042.3</strong> —–2023-01-13 20:44:43+08:00:</p>
+
+<p>There are quite a few valid questions here but they’re a bit tangled. You actually caught me out here – I’d forgotten the breadth of the Tangut empire, and so the Tanguts definitely ruled over more than just Han. But the fact that the Tanguts continued to exist would not inherently prevent them from having mostly Han subjects – the same is true of Manchu after all. Secondly, the southern states are considered more ‘Han’ because they were ruled by Han rulers and their subjects were defined as such, despite, as you are aware, being a mix of Han settlers and the descendants of indigenous peoples, but many such peoples (though far from all) had, through the processes of Han colonisation, been subsumed into that coloniser population. Those indigenous groups that did not become assimilated (whether forcibly or by choice) into a wider Han milieu often existed in highly autonomous polities whose subjection to ‘Chinese’ states was largely nominal.</p>
+
+<p>—– <strong>1042.4</strong> —–2023-01-13 22:57:07+08:00:</p>
+
+<p>Well indeed – as you would have noted from my prior sentence, I had misapprehended both the breadth and demographic diversity of the Tangut domains.</p>
+
+<h3 id="1043-where-are-you-from-and-why-do-you-support-tibet-submitted-on-2023-01-10-1234560800">1043: <a href="https://old.reddit.com/r/tibet/comments/1080ldi/where_are_you_from_and_why_do_you_support_tibet/">Where are you from and why do you support Tibet?</a>, submitted on 2023-01-10 12:34:56+08:00.</h3>
+
+<p>—– <strong>1043.1</strong> —–2023-01-11 14:42:20+08:00:</p>
+
+<blockquote>
+  <p>“Xixang,” roughly translating to “Western Treasurehouse.”</p>
+</blockquote>
+
+<p>For what it’s worth, ‘Xizang’ originated as a phonetic transliteration of Ü-Tsang. That’s not, of course, to say that the choices of character to transliterate these terms may not have been influenced by cynicism, but my understanding is <em>zang</em> 藏 to transliterate Tsang goes back to at least the Mongol Yuan, a time when Tibet as an extractive colonial project probably did not apply.</p>
+
+<h3 id="1044-there-is-going-to-be-a-noefuretakamori-stream-tomorrow-playing-mario-party-on-noels-channel-submitted-on-2023-01-11-0041040800">1044: <a href="https://old.reddit.com/r/Hololive/comments/108eai7/there_is_going_to_be_a_noefuretakamori_stream/">There is going to be a Noefuretakamori stream tomorrow playing Mario Party on Noel’s channel.</a>, submitted on 2023-01-11 00:41:04+08:00.</h3>
+
+<p>—– <strong>1044.1</strong> —–2023-01-11 11:25:29+08:00:</p>
+
+<p>Kiara mentioned wanting to do it before, well before she officially toned down the Takamori side. Not sure if Marine reminded her of it or if it’s been somewhat planned for a while though.</p>
+
+<p>EDIT: This was way back in August 2021, during a Skyward Sword stream, <a href="https://youtu.be/aH2LQcPdgbI?t=4211">timestamp here</a>.</p>
+
+<h3 id="1045-can-you-join-societies-mid-term-submitted-on-2023-01-11-0724420800">1045: <a href="https://old.reddit.com/r/oxforduni/comments/108olf6/can_you_join_societies_midterm/">Can you join societies mid-term?</a>, submitted on 2023-01-11 07:24:42+08:00.</h3>
+
+<p>—– <strong>1045.1</strong> —–2023-01-11 19:09:36+08:00:</p>
+
+<p>Star Trek Society is always open to new members.</p>
+
+<h3 id="1046-my-boyfriend-posted-this-and-im-too-scared-to-ask-him-what-it-means--submitted-on-2023-01-11-0811140800">1046: <a href="https://old.reddit.com/r/ChineseTranslation/comments/108prnf/my_boyfriend_posted_this_and_im_too_scared_to_ask/">My boyfriend posted this and I’m too scared to ask him what it means 😭</a>, submitted on 2023-01-11 08:11:14+08:00.</h3>
+
+<p>—– <strong>1046.1</strong> —–2023-01-11 11:56:31+08:00:</p>
+
+<p>When friends aren’t nearby</p>
+
+<p>Boyfriend: baby I want a hug</p>
+
+<h3 id="1047-ponlliope-submitted-on-2023-01-11-1547030800">1047: <a href="https://old.reddit.com/r/Hololive/comments/108z2bu/ponlliope/">Ponlliope</a>, submitted on 2023-01-11 15:47:03+08:00.</h3>
+
+<p>—– <strong>1047.1</strong> —–2023-01-11 22:23:56+08:00:</p>
+
+<p>At the time she straight up did not know there was a tax treaty, which there is – what the treaty does is prevent double-taxation, by having it that your total tax payment only equals the higher-taxing country’s requirement. The <em>really</em> short version is that the tax you pay in one country can be claimed as tax credit in the other. So for instance if the US taxes you at 35% and Japan taxes you at 25%, you can pay 25% to Japan and then claim that as credit in the US, and only pay 10% to them, for 35% total. As of writing she has been made aware and I believe has an accountant handling it.</p>
+
+<h3 id="1048-im-kevin-kruse-co-editor-of-myth-america-here-to-talk-about-modern-american-history-submitted-on-2023-01-11-2241110800">1048: <a href="https://old.reddit.com/r/AskHistorians/comments/1096brd/im_kevin_kruse_coeditor_of_myth_america_here_to/">I’m Kevin Kruse, co-editor of Myth America, here to talk about modern American history!</a>, submitted on 2023-01-11 22:41:11+08:00.</h3>
+
+<p>—– <strong>1048.1</strong> —–2023-01-11 22:59:40+08:00:</p>
+
+<p>Hi! Thanks for coming to do this AMA with us. This is a question that is perhaps a little fuzzy and philosophical, but do you think myth has a place in the public view of history? Can there be, for lack of a better word, ‘positive’ myths, or is the nature of myth such that all myths are irretrievably problematic, even if to varying degrees? I ask because I’m reminded a bit of Paul A. Cohen’s <em>History in Three Keys</em>, which simultaneously acknowledges myth as a valid sort of historical discourse, while condemning presentist mythologising, at least in the case of the Boxers. I will confess my recall of Cohen’s theory in the book is by now a tad fuzzy, so apologies for any incoherence.</p>
+
+<p>—– <strong>1048.2</strong> —–2023-01-11 23:12:51+08:00:</p>
+
+<p>Thank you! A good deal to chew on. I’ll let other askers get a word in, and I hope the rest of the AMA goes smoothly!</p>
+
+<h3 id="1049-what-was-the-temperature-during-the-tulsa-massacre-submitted-on-2023-01-12-1332490800">1049: <a href="https://old.reddit.com/r/AskHistorians/comments/109rhbh/what_was_the_temperature_during_the_tulsa_massacre/">What was the temperature during the tulsa massacre?</a>, submitted on 2023-01-12 13:32:49+08:00.</h3>
+
+<p>—– <strong>1049.1</strong> —–2023-01-12 14:35:33+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="1050-were-samurai-really-as-honorable-as-stories-portray-them-to-be-submitted-on-2023-01-13-0655540800">1050: <a href="https://old.reddit.com/r/AskHistorians/comments/10adjya/were_samurai_really_as_honorable_as_stories/">Were Samurai really as honorable as stories portray them to be?</a>, submitted on 2023-01-13 06:55:54+08:00.</h3>
+
+<p>—– <strong>1050.1</strong> —–2023-01-13 21:25:06+08:00:</p>
+
+<p>Thank you for your response. Unfortunately, we have had to remove it due to violations of <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_answers">subreddit’s rules about answers needing to reflect current scholarship</a>. While we appreciate the effort you have put into this comment, there are nevertheless significant errors, misunderstandings, or omissions of the topic at hand <a href="https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/">which necessitated its removal</a>.</p>
+
+<p>We understand this can be discouraging, but we would also encourage you to consult <a href="https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/">this Rules Roundtable to better understand how the mod team evaluates answers on the sub</a>. If you are interested in feedback on improving future contributions, please feel free to <a href="https://www.reddit.com/message/compose?to=%2Fr%2FAskHistorians&amp;subject=Inquiry%20About%20Improving%20Future%20Responses">reach out to us via modmail</a>. Thank you for your understanding.</p>
+
+<h3 id="1051-were-there-other-rebellions-happening-in-qing-china-during-the-taiping-rebellion-submitted-on-2023-01-13-2123520800">1051: <a href="https://old.reddit.com/r/AskHistorians/comments/10augbp/were_there_other_rebellions_happening_in_qing/">we’re there other rebellions happening in Qing China during the taiping rebellion?</a>, submitted on 2023-01-13 21:23:52+08:00.</h3>
+
+<p>—– <strong>1051.1</strong> —–2023-01-14 00:04:50+08:00:</p>
+
+<p>You’ve asked this question at a good time, because not only is the answer ‘absolutely’, but I’ve also been working on <a href="https://imgur.com/o2eUw3f">a map (WIP)</a> illustrating the breadth of regions that underwent significant uprisings between 1850 and 1880, as well as territorial changes and foreign attacks. At present, there isn’t really any scholarship, at least in English, that attempts to approach all of these holistically; instead, usually historians focus on a single uprising in relative isolation. As such, treat any statements I make about contextualisation as distinctly my own.</p>
+
+<p>A short list of the more significant revolts of this period are as follows:</p>
+
+<ul>
+  <li>The Khwaja revolts (?1826-1863?) – note: this is an <em>extremely</em> complicated set of events with start and end dates <em>very</em> difficult to define.</li>
+  <li>The Taiping War (1851-64/6)</li>
+  <li>The Nian Rebellion (1851-68)</li>
+  <li>The Small Sword Uprising (1853)</li>
+  <li>Wu Lingyun’s rebellion (1852?-1869) (successor entities active in Viet Nam until 1887)</li>
+  <li>The Red Turban Rebellion (1854-6) (and its successor entity, the Kingdom of Dacheng (1856-64))</li>
+  <li>The ‘Miao’ Rebellion (1854-73)</li>
+  <li>The Yunnanese Revolt, a.k.a. the ‘Panthay’ Rebellion (1856-73)</li>
+  <li>The ‘Dungan’ Hui Revolt, a.k.a. the Northwest Muslim Rebellion (1862-75)</li>
+  <li>The Xinjiang Revolt (1863-77)</li>
+</ul>
+
+<p>These revolts all happened for somewhat different reasons, and they can be classified in many different ways. I will make it easy for myself and classify them solely by periodisation, because as you can see, there seem to have been two pretty discrete ‘waves’ of revolt.</p>
+
+<h3 id="waves-of-revolt">‘Waves’ of Revolt</h3>
+
+<p>From the above descriptions it should be reasonably clear that the major rebellions began in two particular periods: 1851-6, and 1862-3. The former period saw uprisings all across China proper, but not within the broader realms of the Qing empire. Their membership tended to cohere around socially marginalised groups, but this was not an absolute given, and in many instances the rebel groups tended to be either multiethnic or Han-centric, reflecting the majority makeups of their particular regions of origin. By contrast, the 1862-3 wave only involved the northwest of the Qing empire – northwestern China and Xinjiang, a.k.a. East Turkestan – and involved Muslim groups exclusively, rather than the more federative entities that had been in revolt in China proper. Now, there is an obvious outlier to this two-wave model, and that is the Khwaja revolts in Xinjiang. These I have included because <em>technically</em> the Afaqiyya Khwajas had been attempting to spark an uprising in the Tarim Basin since the 1820s, but they were only successful in mobilising local support in 1826, 1847, and 1857, so it is very hard to say where in the chronology it all fits. So I won’t – it is essentially the exception that exists outside the rule.</p>
+
+<p>Why exactly Gansu, Shaanxi and Xinjiang did not rebel sooner is an interesting question. That the Arrow War, in which Britain and France fought the Qing for increased trading privileges, occurred in 1856-60 is surely pure coincidence given the regions’ distance from the coast. One argument would be that tensions had been slowly ramping up across the empire for a while, but that the northwest had been insulated from the initial wave of uprisings, and the spark was only really lit in 1862. This was when the arrival of Taiping splinter forces in Sichuan and the increasing westward movements of the Nian led to an intensification of local militarisation, frictions from which led to uprisings in Shaanxi, followed by support in Gansu, and followed in turn by Sinophone Hui Muslims in Xinjiang rising in solidarity and creating an opening for the Turkic uprisings and subsequent Kokandi intervention. I’m largely willing to accept this narrative in the absence of an alternative: I see no particular reason why a Muslim uprising <em>should</em> have begun in the early 1850s without some kind of major spark.</p>
+
+<p>Below, I’ll give a potted summary of each revolt along with recommended reading, as there is frankly a <em>lot</em> of ground to cover.</p>
+
+<h3 id="summaries">Summaries</h3>
+
+<h4 id="the-khwaja-rebellions-and-the-xinjiang-revolt-1826-1877">The Khwaja rebellions and the Xinjiang Revolt (1826-1877)</h4>
+
+<p>Qing rule over the Turkic Muslims of the Tarim Basin had never been entirely stable, especially thanks to the influence of the Naqshbandiyya Sufi movement, which underwent a schism into two rival splinters: the ‘Black Hats’ (or Ishaqiyya) and ‘White Hats’ (or Afaqiyya). The Ishaqiyya ingratiated themselves with the Qing, but the Afaqiyya became a locus for anti-Qing resistance, with their religious leaders (Khwajas), operating out of exile in neighbouring Kokand, attempting repeatedly to foment an uprising that would drive the Qing from the region. This reached its apex in 1826 with the revolt of Jahangir Khwaja, who remained at large for the next two years; the next successful uprising in 1847, known (for unclear reasons) as the ‘Seven Khwajas Uprising’, lasted some three months; subsequent incursions failed to ignite popular support until 1857, when Wali Khan managed to gain control of Kashgar, funnily enough also for three months. Continued attempts to foment uprisings failed, and the next major revolt started without the Khwajas in 1863.</p>
+
+<p>The Xinjiang revolt that began in 1863 and culminated in Yaqub Beg’s enthronement in Kashgar was an extremely confused affair. While initiated by Hui communities acting in solidarity with the emerging revolts in northwest China, this in turn prompted Turkic uprisings in solidarity with the Hui, while being largely disconnected from the earlier attempts at rabble-rousing by the Afaqiyya clerics. The Kokandi military intervention led by Yaqub Beg was nominally in support of Buzurg Khan’s claim as the latest Afaqi Khwaja, but Buzurg was very rapidly sidelined, especially as the military collapse of Kokand to Russia over the course of 1864-8 essentially meant Yaqub Beg no longer had a superior he needed to answer to (that said, he did declare submission to the Ottoman Empire, so he didn’t exactly consider that kind of arrangement to be anathema). Hodong Kim argues, however, that by the time of Yaqub’s death, his support base was still very much a composite one, with the former Kokandi army, the Afaqiyya sect, and the more ‘organic’ rebel movement constituting distinct components of the Kashgar Emirate, which then fractured following Yaqub’s death in May 1877.</p>
+
+<p>Readings:</p>
+
+<ul>
+  <li>Hodong Kim, <em>Holy War in China</em> (2004) – The still-definitive history of the 1863-77 Xinjiang Revolt, albeit focussing primarily on Yaqub Beg’s regime rather than the early stages of the revolt.</li>
+  <li>Scott C. Levi, <em>The Rise and Fall of Khoqand</em> (2017) and Laura J Newby, <em>The Empire and the Khanate</em> (2005) do not devote much space to the Khwaja-sponsored uprisings, but they’re your only real option for getting some sense of what happened during them, as well as for the broader context of Qing-Kokandi relations in which these uprisings took place.</li>
+</ul>
+
+<h4 id="the-taiping-war-1851-64">The Taiping War (1851-64)</h4>
+
+<p>This probably needs little introduction. Centred on a new religious movement based on Protestant Christianity that proclaimed the rejection of almost all of China’s post-Zhou religious traditions in favour of a return to an imagined pre-Confucian monotheism, the Taiping were probably the most serious existential threat to the Qing until the 1911 Revolution. At their height they controlled large parts of Jiangsu, Jiangxi, Hubei, and Zhejiang, some of China’s wealthiest provinces, as well as making incursions into several other regions at various points – the most long-lasting of these being Shi Dakai’s campaign into Sichuan from 1856 to 1863.</p>
+
+<p>Readings:</p>
+
+<ul>
+  <li>Jonathan Spence, <em>God’s Chinese Son</em> (1996) – A masterful biography of Hong Xiuquan and a very good narrative history of the Taiping up to about 1856.</li>
+  <li>Stephen Platt, <em>Autumn in the Heavenly Kingdom</em> (2012) – A global history-influenced approach to the later years of the Taiping from 1859-64. A masterclass in narrative history and an absolute must-read in general.</li>
+  <li>Carl Kilcourse, <em>Taiping Theology</em> (2017) – Currently the best exploration of Taiping religion out there.</li>
+</ul>
+
+<h4 id="the-nian-1851-68">The Nian (1851-68)</h4>
+
+<p>Essentially a super-confederation of bandit gangs in northern China, the Nian eventually had a stranglehold on the lower Yellow River and bested several Qing armies. At their height ca. 1865, a Nian army under the leadership of ex-Taiping general Lai Wenguang made it to the gates of Beijing, but failed to prosecute the siege effectively and were ultimately driven off. The Nian were not a particularly ideological movement and seem to have had few ambitions for serious political change, except, perhaps, for Lai Wenguang himself, and have tended to be considered more as an opportunistic raiding entity than as a contender for power.</p>
+
+<p>Readings:</p>
+
+<ul>
+  <li>Elizabeth Perry, <em>Rebels and Revolutionaries in North China</em> (1980) – A relatively materialist treatment of the Nian, but still the most recent in English.</li>
+  <li>Teng Ssu-Yu, <em>The Nien Army and their Guerrilla Warfare</em> (1961) – Very old by now, but a decent chronological treatment of the Nian uprising.</li>
+</ul>
+
+<h4 id="the-small-sword-uprising-1853">The Small Sword Uprising (1853)</h4>
+
+<p>A roughly nine-month takeover of Shanghai by secret societies in the city, predominantly consisting of Guangdong and Fujian migrants. While a relative footnote in the wider context of the Qing, this was a significant moment in Shanghai urban history, particularly for the International Settlement.</p>
+
+<p>Readings:</p>
+
+<ul>
+  <li>Elizabeth Perry, ‘Tax Revolt in Late Qing China: The Small Swords of Shanghai and Liu Depei of Shandong’, <em>Late Imperial China</em> 6:1 (1985) – Another relatively materialist approach from Perry.</li>
+  <li>Bryna Goodman, <a href="https://publishing.cdlib.org/ucpressebooks/view?docId=ft0m3nb066;brand=ucpress"><em>Native Place, City, and Nation</em></a> (1995) – The Small Swords are covered at the end of Chapter 2, in the context of native-place associations. Probably the better read, if a bit briefer.</li>
+</ul>
+
+<p>—– <strong>1051.2</strong> —–2023-01-14 00:32:22+08:00:</p>
+
+<p>Wait I’m not done yet! Come back in 15 minutes or so when I have the rest posted!</p>
+
+<p>—– <strong>1051.3</strong> —–2023-01-14 00:40:17+08:00:</p>
+
+<h4 id="wu-lingyuns-rebellion-1852-1869-and-the-kingdom-of-yanling-1861-1869">Wu Lingyun’s Rebellion (1852?-1869?) and the Kingdom of Yanling (1861-1869?)</h4>
+
+<p>The case of Wu Lingyun is a tricky one. All told, it is probably better to consider Wu Lingyun as a bandit lord with pretensions to Taiping connections, rather than a committed contender for either regional separatism or dynastic renewal, even if he did proclaim the existence of a Kingdom of Yanling after 1861. Unusually, Wu Lingyun’s rebellion was one that would ultimately cross state boundaries. After Wu died in 1863 he was succeeded by his son, Wu Yazhong, who presided over a three-way schism in Yanling in 1865, which saw two major splinters form: the Black Flag Army under Liu Yongfu and the Yellow Flag Army under Pan Lunsi, both of which then moved into northern Viet Nam. These two forces then joined opposite sides of the White Flag uprising by local indigenous groups, with the Yellow Flags joining the rebels while the Black Flags supported the Vietnamese government. After fleeing China in 1868, Wu Yazhong began attacking Vietnamese towns, but was rounded up and executed in 1869. The Yellow Flags began cooperating with the French, but broke up after Qing, Vietnamese, and Black Flag forces defeated Pan Lunsi and executed him in 1877. The Black Flags, in turn, were formally disbanded after the Sino-French War in 1885, although elements remained at large until at least 1887, and former members continued to organise low-level anti-French insurgency.</p>
+
+<p>Readings:</p>
+
+<ul>
+  <li>Bradley Camp Davis, <em>Imperial Bandits</em> (2014) – The definitive history of the Black Flags.</li>
+  <li>Ella S. Laffey, ‘In the Wake of the Taipings: Some Patterns of Local Revolt in Kwangsi Province, 1850-1875’, <em>Modern Asian Studies</em> 10:1 (1976) – A discussion mainly of Yanling, written as part of an ultimately uncompleted project on Liu Yongfu.</li>
+</ul>
+
+<h4 id="the-red-turban-rebellion-1854-6">The Red Turban Rebellion (1854-6)</h4>
+
+<p>An uprising of secret society elements in Guangdong, predominantly Cantonese-speaking Puntis with a particular enmity for the Hakkas, that nearly seized Guangzhou but ultimately never did. Splinters of the Red Turbans later formed the Kingdom of Dacheng in Guiping, essentially in what had been the old Taiping base area, although information on that is sparse, at least in English.</p>
+
+<p>Readings:</p>
+
+<ul>
+  <li>Frederic Wakeman, <em>Strangers at the Gate</em> (1967) – Includes a 12-page narrative of the Red Turbans, albeit one rooted in the view that social change in the region was driven primarily by European contact.</li>
+  <li>J Y Wong, <em>Yeh Ming-Ch’en: Viceroy of Liang Kuang 1852-8</em> (1976) – A semi-biographical account of the later career of Ye Mingchen, head of the Guangdong and Guangxi viceroyal government at the time of the Red Turban Rebellion and the Arrow War.</li>
+  <li>Jaeyoon Kim, ‘The Heaven and Earth Society and the Red Turban Rebellion in Late Qing China,’ <em>Journal of Humanities and Social Sciences</em> 3 (2009) – Not the most fantastic of articles, but still the most recent treatment of the Red Turbans in English.</li>
+</ul>
+
+<h4 id="the-miao-rebellion">The ‘Miao’ Rebellion</h4>
+
+<p>This gets so little treatment and so little interest that despite the existence of a full monograph on it, I have not read more than a page or two, so I’ll skip straight to the reading:</p>
+
+<ul>
+  <li>Robert D. Jenks, <em>Insurgency and Social Disorder in Guizhou: The “Miao” Rebellion 1854–1873</em> (1996) – A key takeaway here is that the scare quotes do matter: the Qing officially regarded this as an indigenous revolt when in reality there was a much more multiethnic character to it.</li>
+</ul>
+
+<h4 id="the-yunnanese-revolt">The Yunnanese Revolt</h4>
+
+<p>Another one of those messy ones. Low-level violence had been ongoing in Yunnan for decades, but did not boil over into outright rejections of Qing government authority until 1856. Yunnan’s rebel leadership were predominantly Hui Muslims, but also included indigenous and Han followers to a considerable extent and even a few Manchus, at least in the Pingnan Guo (aka the Dali Sultanate). But not all Hui Muslims stood against the Qing consistently: Ma Rulong, originally one of the rebels, eventually defected to the Qing and led his Muslim forces against Du Wenxiu in Dali. Ultimately, however, the Yunnanese revolt would be settled not as an infight between Hui leaders but rather a direct Qing military campaign under Cen Yuying.</p>
+
+<ul>
+  <li>David G. Atwill, <em>The Chinese Sultanate</em> (2005) – The definitive history of the Yunnanese uprisings.</li>
+</ul>
+
+<h4 id="the-dungan-hui-revolt-1862-75">The ‘Dungan’ Hui Revolt (1862-75)</h4>
+
+<p>This was probably the least centralised of all the major uprisings, being less of a case of community violence between Hui and Han in Gansu and Shaanxi that only gradually saw the coalescences of larger formations like the Gansu ‘Big Battalions’. After his failed attack on Beijing in 1865, Lai Wenguang had ambitions of linking up with the northwestern Muslims, but this never came to fruition; in any event, it’s not really clear that the rebels had much of a clear goal beyond the immediate one of ensuring their survival against Han Chinese militias.</p>
+
+<p>Readings:</p>
+
+<ul>
+  <li>Jonathan Lipman, <em>Familiar Strangers</em> (1997) – A general history of the Hui of northwest China, but basically the only good account of the ‘Dungan’ revolt in English is in here.</li>
+  <li>Kenneth Swope, ‘General Zuo’s counter-insurgency doctrine’, <em>Small Wars and Insurgencies</em> 30:4 (2019) – A somewhat problematic account of the career of Zuo Zongtang, but a decent enough chronology of Qing rebel suppression in the place and period.</li>
+</ul>
+
+<h3 id="1052-does-taiping-christianity-still-exist-submitted-on-2023-01-14-1740530800">1052: <a href="https://old.reddit.com/r/AskHistorians/comments/10bkm8o/does_taiping_christianity_still_exist/">Does Taiping Christianity still exist?</a>, submitted on 2023-01-14 17:40:53+08:00.</h3>
+
+<p>—– <strong>1052.1</strong> —–2023-01-14 22:03:21+08:00:</p>
+
+<p>Of course! It exists in here! <em>Points at heart</em>.</p>
+
+<p>Okay, jokes aside, the answer is that I do not know, I do not know of anyone who would know, and I do not know that, barring some undiscovered sources somewhere, we would be able to retrieve any sense of the religious beliefs of ex-Taiping followers in any systematic way. Studies of what ex-Taipings even did in general basically do not exist, let alone any that discuss their religion. <a href="https://www.reddit.com/r/AskHistorians/comments/ektk6s/what_became_of_the_god_worshipping_society_after/fddsof9/">This old answer</a> from, gosh, over three years ago, is still probably the best summary I can give you based on what I know to exist.</p>
+
+<h3 id="1053-the-obama-of-star-wars-except-its-the-other-name-submitted-on-2023-01-14-2223370800">1053: <a href="https://old.reddit.com/r/PrequelMemes/comments/10bpm1q/the_obama_of_star_wars_except_its_the_other_name/">The Obama of Star Wars, except it’s the other name</a>, submitted on 2023-01-14 22:23:37+08:00.</h3>
+
+<p>—– <strong>1053.1</strong> —–2023-01-15 04:47:47+08:00:</p>
+
+<p>No, the family name was separate from the state name, the latter of which was usually either geographical or, in later periods, symbolic. So for instance the Tang Empire was ruled by the Li family, the Ming Empire by the Zhu family, and the Qing by the Aisin Gioro clan.</p>
+
+<h3 id="1054-why-is-new-year-not-on-one-of-the-solstice-days-submitted-on-2023-01-15-1006350800">1054: <a href="https://old.reddit.com/r/AskHistorians/comments/10c7lpa/why_is_new_year_not_on_one_of_the_solstice_days/">Why is New Year not on one of the solstice days?</a>, submitted on 2023-01-15 10:06:35+08:00.</h3>
+
+<p>—– <strong>1054.1</strong> —–2023-01-15 15:14:07+08:00:</p>
+
+<p>Hey there,</p>
+
+<p>Just to let you know, your question is fine, and we’re letting it stand. However, you should be aware that questions framed as ‘Why didn’t X do Y’ relatively often don’t get an answer that meets our standards (in our experience as moderators). There are a few reasons for this. Firstly, it often can be difficult to prove the counterfactual: historians know much more about what happened than what might have happened. Secondly, ‘why didn’t X do Y’ questions are sometimes phrased in an ahistorical way. It’s worth remembering that people in the past couldn’t see into the future, and they generally didn’t have all the information we now have about their situations; things that look obvious now didn’t necessarily look that way at the time.</p>
+
+<p>If you end up not getting a response after a day or two, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">consider asking a new question focusing instead on why what happened did happen</a> (rather than why what didn’t happen didn’t happen) - this kind of question is more likely to get a response in our experience. Hope this helps!</p>
+
+<h3 id="1055-would-the-english-and-by-extension-their-former-and-present-colonial-possessions-canada-america-and-such-still-be-catholic-if-not-for-henry-viii-submitted-on-2023-01-15-1251400800">1055: <a href="https://old.reddit.com/r/AskHistorians/comments/10cawzk/would_the_english_and_by_extension_their_former/">Would the English (and by extension, their former and present colonial possessions, Canada, America, and such) still be Catholic if not for Henry VIII?</a>, submitted on 2023-01-15 12:51:40+08:00.</h3>
+
+<p>—– <strong>1055.1</strong> —–2023-01-15 15:13:25+08:00:</p>
+
+<p>Sorry, but your submission has been removed because we <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F">don’t allow hypothetical questions</a>. If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule <a href="https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/">here</a>.</p>
+
+<h3 id="1056-was-hong-xiuquan-the-brother-of-jesus-christ-submitted-on-2023-01-15-1439090800">1056: <a href="https://old.reddit.com/r/AskHistorians/comments/10ccw0v/was_hong_xiuquan_the_brother_of_jesus_christ/">Was Hong Xiuquan the brother of Jesus Christ?</a>, submitted on 2023-01-15 14:39:09+08:00.</h3>
+
+<p>—– <strong>1056.1</strong> —–2023-01-15 15:06:08+08:00:</p>
+
+<p>Apologies, but we have had to remove your submission. We ask that questions in this subreddit be limited to those asking about history, or for historical answers. This is not a judgement of your question, but to receive the answer you are looking for, it would be better suited to /r/AcademicBiblical.</p>
+
+<p>If you are interested in an historical answer, however, you are welcome to rework your question to fit the theme of this subreddit and resubmit it.</p>
+
+<h3 id="1057-hobby-scuffles-week-of-january-16-2023-submitted-on-2023-01-15-2230090800">1057: <a href="https://old.reddit.com/r/HobbyDrama/comments/10cl7wn/hobby_scuffles_week_of_january_16_2023/">[Hobby Scuffles] Week of January 16, 2023</a>, submitted on 2023-01-15 22:30:09+08:00.</h3>
+
+<p>—– <strong>1057.1</strong> —–2023-01-16 21:56:32+08:00:</p>
+
+<p>Update to the 28mm Japanese miniatures situation <a href="https://www.reddit.com/r/HobbyDrama/comments/zuzn3j/hobby_scuffles_week_of_december_26_2022/j1y8byh/">I mentioned previously</a>: looks like I overlooked the <a href="https://images.beastsofwar.com/2018/03/Warrior-Monks-of-Mount-Hiei-Test-Of-Honour.jpg">Warrior Monks</a>, more specifically their archers, who have never reappeared. This is an especial annoyance because for reasons I cannot explain, <em>virtually nobody does good-quality warrior monk archers in 28mm</em>, and I am really not happy.</p>
+
+<p>—– <strong>1057.2</strong> —–2023-01-16 22:15:56+08:00:</p>
+
+<p>Don’t we all?</p>
+
+<p>—– <strong>1057.3</strong> —–2023-01-18 07:08:35+08:00:</p>
+
+<p>I mean, South China is a pretty big region with a lot of variation. Cantonese, Fujianese, and Hunanese cuisine are all pretty distinct. To be honest I think asking is the best policy.</p>
+
+<p>—– <strong>1057.4</strong> —–2023-01-19 03:37:43+08:00:</p>
+
+<p>(For those lacking prior context, see <a href="https://reddit.com/r/HobbyDrama/comments/xhiwtl/hobby_scuffles_week_of_september_19_2022/ip68xpv/?context=999">this</a>).</p>
+
+<p>Reading the Marble Machine X subreddit is fascinating; I don’t think I’ve ever seen Reddit posts so consistently ‘ratioed’. Every new upload there’s half a dozen upvotes and a few dozen comments and it’s just the same few competing opinions over and over within a general air of bewilderment:</p>
+
+<ul>
+  <li>Martin has lost the plot and isn’t going to have a finished machine;</li>
+  <li>Martin is going to have a finished machine but it won’t be what anyone actually wants; or</li>
+  <li>Martin will deliver, but he’ll take time to get there.</li>
+</ul>
+
+<p>IMO he’s never going to finish this thing and it’s simply taken him too long to get here as it is. Marble Machine 1 went viral nearly <em>seven years ago</em> in March 2016, having taken about 16 months to go from build to video. MMX was scrapped in September 2021, having begun development in January 2017 – that’s 57 months of wasted time. He could have redesigned and rebuilt the original Marble Machine <em>three and a half times over</em> in the time that he finish building the MMX. The way it stands, it’s looking like <em>Synecdoche: New York</em> levels of life-consuming unfinishedness. I’ve seen the odd comparison to Yandere Simulator, but you know what Yandere Simulator has consistently had that MMX hasn’t? Functional, accessible builds that have been iterated on, however slowly, and not a singular integrated device whose creator is too much of a perfectionist to be willing to complete, even in rough form.</p>
+
+<p>—– <strong>1057.5</strong> —–2023-01-21 17:18:54+08:00:</p>
+
+<p><a href="https://www.reddit.com/r/HobbyDrama/comments/106kkcq/hobby_scuffles_week_of_january_9_2023/j3i506x/?context=999">This</a> is probably the comment in question by /u/ohbuggerit.</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2023-01-15</time>
+        <a href="https://nodebe4.github.io/opinion/2023-01-15/theoryofdoom/">
+          theoryofdoom在2023-01-09~2023-01-15的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-01-15</time>
+        <a href="https://nodebe4.github.io/opinion/2023-01-15/Spinkcat/">
+          Spinkcat在2023-01-09~2023-01-15的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-01-13</time>
+        <a href="https://nodebe4.github.io/opinion/2023-01-13/ForeignAffairsMag/">
+          ForeignAffairsMag在2023-01-09~2023-01-15的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-01-08</time>
+        <a href="https://nodebe4.github.io/opinion/2023-01-08/EnclavedMicrostate/">
+          EnclavedMicrostate在2023-01-02~2023-01-08的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2023-01-14/%E8%A1%A5%E5%8F%91-%E5%9C%A8%E5%85%B1%E5%92%8C%E5%9B%BD%E9%87%8C%E5%BD%93%E7%9A%87%E5%B8%9D-%E6%98%AF%E4%B8%80%E7%A7%8D%E6%80%8E%E6%A0%B7%E7%9A%84%E4%BD%93%E9%AA%8C-%E9%BD%90%E5%A5%A5%E5%A1%9E%E6%96%AF%E5%BA%93%E7%9A%84%E5%8D%8E%E4%B8%BD%E6%8E%92%E5%9C%BA/">
+            前一篇：[补发]在共和国里当皇帝，是一种怎样的体验？---《齐奥塞斯库的华丽排场》
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2023-01-15/HeQinglian/">
+            後一篇：Twitter @He Qinglian: 2023-01-09~2023-01-15
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2023-01-14/%E8%A1%A5%E5%8F%91-%E5%9C%A8%E5%85%B1%E5%92%8C%E5%9B%BD%E9%87%8C%E5%BD%93%E7%9A%87%E5%B8%9D-%E6%98%AF%E4%B8%80%E7%A7%8D%E6%80%8E%E6%A0%B7%E7%9A%84%E4%BD%93%E9%AA%8C-%E9%BD%90%E5%A5%A5%E5%A1%9E%E6%96%AF%E5%BA%93%E7%9A%84%E5%8D%8E%E4%B8%BD%E6%8E%92%E5%9C%BA/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2023-01-15/HeQinglian/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2023-01-15/Spinkcat/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2023-01-13/ForeignAffairsMag/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2023-01-14/%E8%A1%A5%E5%8F%91-%E5%9C%A8%E5%85%B1%E5%92%8C%E5%9B%BD%E9%87%8C%E5%BD%93%E7%9A%87%E5%B8%9D-%E6%98%AF%E4%B8%80%E7%A7%8D%E6%80%8E%E6%A0%B7%E7%9A%84%E4%BD%93%E9%AA%8C-%E9%BD%90%E5%A5%A5%E5%A1%9E%E6%96%AF%E5%BA%93%E7%9A%84%E5%8D%8E%E4%B8%BD%E6%8E%92%E5%9C%BA/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2023-01-15/HeQinglian/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2023-01-15/Spinkcat/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2023-01-13/ForeignAffairsMag/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

@@ -1,0 +1,2313 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Spinkcat在2022-01-03~2022-01-09的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Spinkcat在2022-01-03~2022-01-09的言论" />
+    <meta property="twitter:title" content="Spinkcat在2022-01-03~2022-01-09的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FChina_irl%2Fcomments%2Fruujvc%2F%E5%80%AD%E5%AF%87%E6%AD%A6%E5%8A%9B%E6%9C%89%E5%A4%9A%E9%AB%98%E5%85%AD%E5%8D%81%E5%A4%9A%E4%B8%AA%E5%80%AD%E5%AF%87%E7%BA%B5%E6%A8%AA%E6%B1%9F%E6%B5%99%E6%B2%AA%E6%89%93%E5%88%B0%E5%8D%97%E4%BA%AC%E5%9F%8E%E4%B8%8B%E8%BF%98%E4%B8%AA%E4%B8%AA%E6%89%8B%E6%8E%A5%E5%BC%93%E7%AE%AD%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/China_irl/comments/ruujvc/倭寇武力有多高六十多个倭寇纵横江浙沪打到南京城下还个个手接弓箭/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/China_irl/comments/ruujvc/倭寇武力有多高六十多个倭寇纵横江浙沪打到南京城下还个个手接弓箭/&text=Spinkcat在2022-01-03~2022-01-09的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/China_irl/comments/ruujvc/倭寇武力有多高六十多个倭寇纵横江浙沪打到南京城下还个个手接弓箭/&title=Spinkcat在2022-01-03~2022-01-09的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/China_irl/comments/ruujvc/倭寇武力有多高六十多个倭寇纵横江浙沪打到南京城下还个个手接弓箭/&title=Spinkcat在2022-01-03~2022-01-09的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Spinkcat在2022-01-03~2022-01-09的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/China_irl/comments/ruujvc/倭寇武力有多高六十多个倭寇纵横江浙沪打到南京城下还个个手接弓箭/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/China_irl/comments/ruujvc/倭寇武力有多高六十多个倭寇纵横江浙沪打到南京城下还个个手接弓箭/&title=Spinkcat在2022-01-03~2022-01-09的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Spinkcat在2022-01-03~2022-01-09的言论&url=https://old.reddit.com/r/China_irl/comments/ruujvc/倭寇武力有多高六十多个倭寇纵横江浙沪打到南京城下还个个手接弓箭/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Spinkcat在2022-01-03~2022-01-09的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-01-07
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://www.reddit.com/user/Spinkcat/" style="font-size:14px;">作者: Spinkcat</a>
+        </span>
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/China_irl/comments/ruujvc/倭寇武力有多高六十多个倭寇纵横江浙沪打到南京城下还个个手接弓箭/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#1485-倭寇武力有多高六十多个倭寇纵横江浙沪打到南京城下还个个手接弓箭-submitted-on-2022-01-03-1357020800" id="markdown-toc-1485-倭寇武力有多高六十多个倭寇纵横江浙沪打到南京城下还个个手接弓箭-submitted-on-2022-01-03-1357020800">1485: 倭寇武力有多高？六十多个倭寇纵横江浙沪打到南京城下，还个个手接弓箭。, submitted on 2022-01-03 13:57:02+08:00.</a></li>
+  <li><a href="#1486-中国人玩网游为什么这么爱开挂-submitted-on-2022-01-04-1917220800" id="markdown-toc-1486-中国人玩网游为什么这么爱开挂-submitted-on-2022-01-04-1917220800">1486: 中国人玩网游为什么这么爱开挂？, submitted on 2022-01-04 19:17:22+08:00.</a></li>
+  <li><a href="#1487-100斤都扛不起来-submitted-on-2022-01-04-2130030800" id="markdown-toc-1487-100斤都扛不起来-submitted-on-2022-01-04-2130030800">1487: 100斤都扛不起来？, submitted on 2022-01-04 21:30:03+08:00.</a></li>
+  <li><a href="#1488-为什么国内做核酸这么疼-submitted-on-2022-01-04-2136290800" id="markdown-toc-1488-为什么国内做核酸这么疼-submitted-on-2022-01-04-2136290800">1488: 为什么国内做核酸这么疼？, submitted on 2022-01-04 21:36:29+08:00.</a></li>
+  <li><a href="#1489-正常国家怎么应对有人花钱雇人游行-submitted-on-2022-01-04-2234270800" id="markdown-toc-1489-正常国家怎么应对有人花钱雇人游行-submitted-on-2022-01-04-2234270800">1489: 正常国家怎么应对有人花钱雇人游行？, submitted on 2022-01-04 22:34:27+08:00.</a></li>
+  <li><a href="#1490-西安市民买菜难正设法打通市场到社区最后一百米-submitted-on-2022-01-05-0206220800" id="markdown-toc-1490-西安市民买菜难正设法打通市场到社区最后一百米-submitted-on-2022-01-05-0206220800">1490: 西安市民买菜难？正设法打通市场到社区“最后一百米”, submitted on 2022-01-05 02:06:22+08:00.</a></li>
+  <li><a href="#1491-共产主义为什么一定和独裁暴政挂钩-submitted-on-2022-01-07-0432040800" id="markdown-toc-1491-共产主义为什么一定和独裁暴政挂钩-submitted-on-2022-01-07-0432040800">1491: 共产主义为什么一定和独裁暴政挂钩？, submitted on 2022-01-07 04:32:04+08:00.</a></li>
+  <li><a href="#1492-那个话呢哦谢主隆恩谢主隆恩-submitted-on-2022-01-07-2147000800" id="markdown-toc-1492-那个话呢哦谢主隆恩谢主隆恩-submitted-on-2022-01-07-2147000800">1492: 那个话呢？哦谢主隆恩！谢主隆恩！, submitted on 2022-01-07 21:47:00+08:00.</a></li>
+</ul>
+
+<h3 id="1485-倭寇武力有多高六十多个倭寇纵横江浙沪打到南京城下还个个手接弓箭-submitted-on-2022-01-03-1357020800">1485: <a href="https://old.reddit.com/r/China_irl/comments/ruujvc/倭寇武力有多高六十多个倭寇纵横江浙沪打到南京城下还个个手接弓箭/">倭寇武力有多高？六十多个倭寇纵横江浙沪打到南京城下，还个个手接弓箭。</a>, submitted on 2022-01-03 13:57:02+08:00.</h3>
+
+<p>—– <strong>1485.1</strong> —–2022-01-03 15:04:38+08:00:</p>
+
+<p>不是单纯武力多高，是这些地区武备松弛，也不愿意拼命，主力部队不在附近，剩下的人多不管用，没组织度始终是散沙，不适合当军力跟那些脑袋绑在裤腰带上天天打仗的劫掠者比。</p>
+
+<p>倭寇的作战意志和熟练度，已经接近职业军队，甚至有一些是超过职业军队，因为一直吃这碗饭，导致精锐程度有增无减。</p>
+
+<p>少数部队穿过明军海防主力封锁网，后方很难有效追踪和阻止，拼也很困难。</p>
+
+<p>能徒手接箭，一个是反应射箭的人本身水平不行，其次就是倭寇单人的武技水平和反应速度到了什么程度。</p>
+
+<p>现代人看古代史很容易高估普通军队的水平，按照各类指标，闻名现代随便拉一个普通身材的人，在当时都是各类水平超出平均数值，体格基础可以直接拉去训练成精锐中的精锐。</p>
+
+<p>大部分平民的身体素质，可以参考清末老照片，瘦到胸骨可见，身材像四个头发丝插在一根竹竿上。</p>
+
+<p>从宋代开始，因为技术输入和农作物品种增加，人口在农业社会暴增，导致宋明清这三个朝代，人均资源按同时间比例的趋势下是越来越少的。</p>
+
+<p>再加上高度管制和集权，导致整个社会尚武风气低，相比之下尚武的汉代就不一样了，好义死，人均犟驴，动不动自杀或剑斗杀人</p>
+
+<p>因为当时可开垦土地多，环境恶劣，生产力不足反而变相减少了内卷化的程度，导致人均资源分配比清代这样的要高，但社会不稳定的动态化让人人都需尚武来自保。</p>
+
+<h3 id="1486-中国人玩网游为什么这么爱开挂-submitted-on-2022-01-04-1917220800">1486: <a href="https://old.reddit.com/r/China_irl/comments/rvs2f9/中国人玩网游为什么这么爱开挂/">中国人玩网游为什么这么爱开挂？</a>, submitted on 2022-01-04 19:17:22+08:00.</h3>
+
+<p>—– <strong>1486.1</strong> —–2022-01-04 20:03:47+08:00:</p>
+
+<p>我觉得在许多人之中，流行着一种只要你没被抓到犯法或作弊，就是被允许的逻辑。</p>
+
+<p>根本上来说，这是基于生活在无规则环境下，社达或丛林法则的侧面体现，某种程度的过于自我，在社会当中主动扮演一种利己掠夺者身份。</p>
+
+<p>而威权社会下，就跟狼群意愿，大家服从的是头狼的威权，而不是某种运行于群体之间的规则习惯，人们遵从头狼是因为头狼厉害，而不是因为尊重头狼本身或建立起来的秩序。</p>
+
+<p>这种社会形态非常落后，人类社会正是不断革除这种落后秩序，逐步过渡到更新更有利于集体稳定发展的社会。</p>
+
+<p>更别提国内，威权政府治下，人与人的关系很难平衡，每个人从小见惯的是服从与被迫服从，原则与规则很难建立，很少有共识作为流通性常识流动在各个阶级之间。</p>
+
+<p>作弊现象本质就跟犯法一样，到了网上没有现实拘束，更是主动宣泄，不服从规则和逻辑，试图越过规则本身来获取一种满足感，而游戏规则的存在，本身就是为了让玩家在规则下，获取某种模拟的快乐，这就与作弊的人玩游戏的目的背道而驰了。</p>
+
+<p>—– <strong>1486.2</strong> —–2022-01-04 22:14:08+08:00:</p>
+
+<p>西部精神听过，GTA精神是什么？</p>
+
+<p>而且抢到手这个说法逻辑上站不住脚，如果你能抢到手一个东西，你会想办法去准备继续抢下一个东西，永无止尽。</p>
+
+<p>大自然的淘汰里，只有强弱是唯一法则，越落后原始的社会，越遵从这种基础秩序，这是一种兽性的体现。</p>
+
+<p>所以随着文明度的不断提高，人们才会遵循法治与社会公约数，去保障人人都有安全的处境，这也是人类历史进程，发展程度越落后，这种情况越严重，历史发展在这一层面来说就是不断革除兽性的过程。</p>
+
+<p>现代鼓励的西部精神也只是对拓荒未知冒险的勇敢，基于务实勤劳的坚韧不拔。</p>
+
+<p>要知道，西部时代你枪杀他人，没被发现就不会有后果，所以才匪帮横行。愿意杀人为生的美国人，杀不愿意杀人为生的美国人和一切比他们弱的存在，掠夺他们的财物，这可不是被人推崇的西部精神。</p>
+
+<p>正因为随着技术生产力的提高，生活水平的稳定，这些妨碍到大多数人生产秩序的行为才永远无法成为主流，而慢慢被剔除掉，就像古代有奴隶是理所当然的，肉刑和灭族也是法律的一部分。</p>
+
+<p>要知道更早的社会，杀人是可以没有任何后果的，后来有法律出现后果这种东西，是不是杀完人了开始讲规则了呢？这个主体应对的是谁。比如你杀了我，你是需要负责的，不会因为你已经把我杀了，讲规矩就不需要受罚，这是一种存在于社会的流通性共识。</p>
+
+<p>要不然，岂不是现在全球大部分死刑就那么几种死法，也没多少连坐，是过去几千年的杀的人够了吗？</p>
+
+<p>所以改变的从来都是社会集体共识与氛围，个体永远都有破坏规则的可能，也因此才有法律后果这个说法。</p>
+
+<h3 id="1487-100斤都扛不起来-submitted-on-2022-01-04-2130030800">1487: <a href="https://old.reddit.com/r/China_irl/comments/rvufb1/100斤都扛不起来/">100斤都扛不起来？</a>, submitted on 2022-01-04 21:30:03+08:00.</h3>
+
+<p>—– <strong>1487.1</strong> —–2022-01-04 22:21:44+08:00:</p>
+
+<p>只有穿军装的人才能抬起来，想必冥冥之中自有包意。</p>
+
+<h3 id="1488-为什么国内做核酸这么疼-submitted-on-2022-01-04-2136290800">1488: <a href="https://old.reddit.com/r/China_irl/comments/rvujtn/为什么国内做核酸这么疼/">为什么国内做核酸这么疼？</a>, submitted on 2022-01-04 21:36:29+08:00.</h3>
+
+<p>—– <strong>1488.1</strong> —–2022-01-04 22:19:37+08:00:</p>
+
+<p>国内古埃及学专业比较流行，工作人员大部分在转行前都是研究怎么做木乃伊的，需要用钩子捣碎脑浆，职业习惯，体谅一下。</p>
+
+<p>—– <strong>1488.2</strong> —–2022-01-05 01:18:49+08:00:</p>
+
+<p>什么是倒垃圾。</p>
+
+<p>—– <strong>1488.3</strong> —–2022-01-05 01:38:32+08:00:</p>
+
+<p>键政多了幽默感还是要有的，不能太严肃一板正经。</p>
+
+<h3 id="1489-正常国家怎么应对有人花钱雇人游行-submitted-on-2022-01-04-2234270800">1489: <a href="https://old.reddit.com/r/China_irl/comments/rvvr9p/正常国家怎么应对有人花钱雇人游行/">正常国家怎么应对有人花钱雇人游行？</a>, submitted on 2022-01-04 22:34:27+08:00.</h3>
+
+<p>—– <strong>1489.1</strong> —–2022-01-04 23:50:53+08:00:</p>
+
+<p>2019年香港游行我就算过一笔账，发达国家的时薪首先都不低。</p>
+
+<p>游行并不是轻松的事，而是很辛苦的（部分除外）</p>
+
+<p>而游行很多时候要申请或预知，也就是说官方可以了解到组织者的信息。</p>
+
+<p>在这种背景下，假设一个人时薪是70人民币，100人一小时就7000元，但游行里100人说实话真的太少了。</p>
+
+<p>一人给几百块游行一天，我这里以人民币算，按时薪来对比，属于打发叫花子了。</p>
+
+<p>1000人勉强有点规模，一小时7万元人民币开销，已经是一个中大型地方企业的规模，你有这钱去找人游行，不如开公司然后施加社会影响力了。</p>
+
+<p>雇佣1000人，一小时7万，游行要多久？游行一天要多久？</p>
+
+<p>假设6小时，就是42万，8小时就是56万人民币。</p>
+
+<p>上过学在操场上站过的，应该见过两千人的学校，也才多点人吧？两三千人在一起，也才一个学校操场而已。</p>
+
+<p>很多游行动辄上万总人数，人数要相当多散布在几个街区，横跨一整天，然后持续好几天的都有。</p>
+
+<p>冬天游行，雪地寒风里出来走，还要拿东西。夏天游行，又晒又热，一群人挤在一起，全是汗味，而且很难流动。</p>
+
+<p>世博会排队有人体验过吗？迪士尼乐园人挤人体验过吗？游行不一定这样，就是说这种太密集的情况，人是不太愿意往里凑的，何况才一两百块。</p>
+
+<p>当一个人试图花钱推广有利于自己观点，而社会有激烈反应时，说明这种需求社会早就有了。</p>
+
+<p>一个是社会没有那么多闲散人员给你组织然后统一在某一天发放，另外一个就钱太少了。</p>
+
+<p>你要是组织者，你从什么渠道找上千人参加游行呢？各种团体和党派有自己的平台渠道，甚至不用花钱，因为想游行有政治诉求目的的人，直接抱团取暖，钱都不需要花。</p>
+
+<p>如果你是外国人想在当地花钱组织游行来施加影响力，总不能去招聘网站雇佣吧。</p>
+
+<p>然后还要确保对方不会拿了钱就跑，或者怎么保证事后给钱时，你能让人精准的找到你，那样至少几十人到数百人会跟你或你的团队发生联系，信息流通爆炸，根本起不到幕后作用，人证太多，一抓一个准。</p>
+
+<p>而且事后给钱，无法保证找来的人，会不会做到一半嫌太累，直接跑路。</p>
+
+<p>更要避免，怎么就能确保找来这些人，不会把自己给卖了，既然你可以给钱才一两百让他游行，他也可以为更多钱把你卖了。</p>
+
+<p>其实申请合法游行与路线划定一个需要注册与组织团体的红线，或者限定人数限制，就可以解决很多问题了，人数限制意味着不能低于某个人数，要是邀请3000-5000人以上团体才能申请合法游行封路，花钱找人的成本就爆炸了。</p>
+
+<p>香港游行我就大概算过，当时是100万人以上的规模，走了12个小时，大夏天三十多度，人群里上四十度，人挤人。</p>
+
+<p>香港最低时薪37.5，找人最低起码给40元才会有人做，但环境恶劣，至少给50元吧。</p>
+
+<p>一个人一天就要开支600元，100万人一天开销要6亿，并且这种百万人游行几乎每个周末都会发生，持续了一个月以上。</p>
+
+<p>也就是说这么大规模足以产生社会影响力的游行，一个月开销就24亿。</p>
+
+<p>不说这个数字怎么样，就说组织能力，有什么组织可以光速对接100万人？然后还能高效率的进行反馈，还可以越过政府监控给钱呢？你这笔钱就算有，也没渠道分发。</p>
+
+<p>后续政府派钱，都花了几个月才完成百万级的规格，还是整个政府审计人员日夜加班的结果。</p>
+
+<p>如果走银行转账，花钱找人在香港2019年游行（当时很流行的说法，试图抹杀民意，现在还有这样的人），你这笔钱在银行就会被政府盯上冻结。</p>
+
+<p>这种什么境外势力发钱让百万人上街的说法，数学不好不说，就好像没用过钱似的，我一个大耳刮子给你抽进时空乱流，送你到异世界转生去。</p>
+
+<p>如果走现金分发化整为零，我寻思是不是有的人没见过钱？别说几个亿，几百万都要用麻袋装，怎么现金分发，你提钱出来银行疯了让你一口气拿这么多现金。</p>
+
+<p>欧美有花钱找人游行，大部分要么是不合法，要么人数太少，而且很多是政治团体内（两党我看到过这种动员，某些为此动员的利益输送是非法的，但两党选民和党员动力甚至不需要花钱也可以调动了），也就是说本身就有合法游行渠道的情况下，团体内部协调利益的一种做法为主，完全花钱找人游行的有没有呢，肯定有，但能不能做到规模极大，影响整个社会走向呢，物理意义上是不能的。</p>
+
+<h3 id="1490-西安市民买菜难正设法打通市场到社区最后一百米-submitted-on-2022-01-05-0206220800">1490: <a href="https://old.reddit.com/r/China_irl/comments/rw0mfs/西安市民买菜难正设法打通市场到社区最后一百米/">西安市民买菜难？正设法打通市场到社区“最后一百米”</a>, submitted on 2022-01-05 02:06:22+08:00.</h3>
+
+<p>—– <strong>1490.1</strong> —–2022-01-05 06:57:13+08:00:</p>
+
+<p>斯大林格勒了属于是。</p>
+
+<h3 id="1491-共产主义为什么一定和独裁暴政挂钩-submitted-on-2022-01-07-0432040800">1491: <a href="https://old.reddit.com/r/China_irl/comments/rxo79w/共产主义为什么一定和独裁暴政挂钩/">共产主义为什么一定和独裁暴政挂钩？</a>, submitted on 2022-01-07 04:32:04+08:00.</h3>
+
+<p>—– <strong>1491.1</strong> —–2022-01-07 23:46:32+08:00:</p>
+
+<p>共产主义技术层面不能实现的情况下，社会无法自然进行下去。</p>
+
+<p>如果一个人或组织要推行共产主义，也就是一种生产秩序，怎么说服他们，能提供对应的生产科技基础吗？</p>
+
+<p>要求农民按需生产，意味着专业性与执行权分离，外行指挥内行。</p>
+
+<p>所以这种生产秩序无法推广，生产者们会慢慢反对不支持。</p>
+
+<p>当有人不喜欢你的生产秩序与规则，你的政权威权与合法性也来自于这种有号召力的观念时，却发现无法兑现和长期实行。</p>
+
+<p>那你怎么做？</p>
+
+<p>你要强迫人民接受这种生产秩序，去专供特定需求，可以用于维持这个制度的暴力优势，反哺军队，直到整个经济与社会被你折腾完了，在短暂的历史里你也灰飞烟灭了，一切才过去。</p>
+
+<p>—– <strong>1491.2</strong> —–2022-01-08 22:25:49+08:00:</p>
+
+<p>有一段时间了</p>
+
+<h3 id="1492-那个话呢哦谢主隆恩谢主隆恩-submitted-on-2022-01-07-2147000800">1492: <a href="https://old.reddit.com/r/China_irl/comments/ry7qdy/那个话呢哦谢主隆恩谢主隆恩/">那个话呢？哦谢主隆恩！谢主隆恩！</a>, submitted on 2022-01-07 21:47:00+08:00.</h3>
+
+<p>—– <strong>1492.1</strong> —–2022-01-07 22:41:23+08:00:</p>
+
+<p>心不诚，举头三尺有神明，小心要遭包应。</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-01-09</time>
+        <a href="https://nodebe4.github.io/opinion/2022-01-09/Commodify/">
+          Commodify在2022-01-03~2022-01-09的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-01-08</time>
+        <a href="https://nodebe4.github.io/opinion/2022-01-08/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-01-03~2022-01-09的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-01-02</time>
+        <a href="https://nodebe4.github.io/opinion/2022-01-02/Spinkcat/">
+          Spinkcat在2021-12-27~2022-01-02的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-01-02</time>
+        <a href="https://nodebe4.github.io/opinion/2022-01-02/EnclavedMicrostate/">
+          EnclavedMicrostate在2021-12-27~2022-01-02的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-01-07/SpeechFreedomCN/">
+            前一篇：Twitter @中国文字狱事件盘点: 2022-01-03~2022-01-09
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-01-07/jenjpan/">
+            後一篇：Twitter @Jennifer Pan: 2022-01-03~2022-01-09
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-01-07/SpeechFreedomCN/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-01-07/jenjpan/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-01-08/ForeignAffairsMag/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-01-02/Spinkcat/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-01-07/SpeechFreedomCN/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-01-07/jenjpan/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-01-08/ForeignAffairsMag/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-01-02/Spinkcat/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

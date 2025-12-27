@@ -1,0 +1,1109 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>圍爐藝文| 春節檔內外的觀影 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+圍爐藝文| 春節檔內外的觀影
+——
+" />
+    <meta property="og:description" content="
+圍爐藝文| 春節檔內外的觀影
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="圍爐藝文| 春節檔內外的觀影" />
+    <meta property="twitter:title" content="圍爐藝文| 春節檔內外的觀影" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fmatters.news%2F%40weiluflame%2F%25E5%259C%258D%25E7%2588%2590%25E8%2597%259D%25E6%2596%2587-%25E6%2598%25A5%25E7%25AF%2580%25E6%25AA%2594%25E5%2585%25A7%25E5%25A4%2596%25E7%259A%2584%25E8%25A7%2580%25E5%25BD%25B1-bafyreiae2re5mx7f6soiaxywsojudeiyth2efmgcroebixxgv7u72xhefe" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://matters.news/@weiluflame/%E5%9C%8D%E7%88%90%E8%97%9D%E6%96%87-%E6%98%A5%E7%AF%80%E6%AA%94%E5%85%A7%E5%A4%96%E7%9A%84%E8%A7%80%E5%BD%B1-bafyreiae2re5mx7f6soiaxywsojudeiyth2efmgcroebixxgv7u72xhefe" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://matters.news/@weiluflame/%E5%9C%8D%E7%88%90%E8%97%9D%E6%96%87-%E6%98%A5%E7%AF%80%E6%AA%94%E5%85%A7%E5%A4%96%E7%9A%84%E8%A7%80%E5%BD%B1-bafyreiae2re5mx7f6soiaxywsojudeiyth2efmgcroebixxgv7u72xhefe&text=圍爐藝文| 春節檔內外的觀影&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://matters.news/@weiluflame/%E5%9C%8D%E7%88%90%E8%97%9D%E6%96%87-%E6%98%A5%E7%AF%80%E6%AA%94%E5%85%A7%E5%A4%96%E7%9A%84%E8%A7%80%E5%BD%B1-bafyreiae2re5mx7f6soiaxywsojudeiyth2efmgcroebixxgv7u72xhefe&title=圍爐藝文| 春節檔內外的觀影" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://matters.news/@weiluflame/%E5%9C%8D%E7%88%90%E8%97%9D%E6%96%87-%E6%98%A5%E7%AF%80%E6%AA%94%E5%85%A7%E5%A4%96%E7%9A%84%E8%A7%80%E5%BD%B1-bafyreiae2re5mx7f6soiaxywsojudeiyth2efmgcroebixxgv7u72xhefe&title=圍爐藝文| 春節檔內外的觀影" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=圍爐藝文| 春節檔內外的觀影&body=
+圍爐藝文| 春節檔內外的觀影
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://matters.news/@weiluflame/%E5%9C%8D%E7%88%90%E8%97%9D%E6%96%87-%E6%98%A5%E7%AF%80%E6%AA%94%E5%85%A7%E5%A4%96%E7%9A%84%E8%A7%80%E5%BD%B1-bafyreiae2re5mx7f6soiaxywsojudeiyth2efmgcroebixxgv7u72xhefe" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://matters.news/@weiluflame/%E5%9C%8D%E7%88%90%E8%97%9D%E6%96%87-%E6%98%A5%E7%AF%80%E6%AA%94%E5%85%A7%E5%A4%96%E7%9A%84%E8%A7%80%E5%BD%B1-bafyreiae2re5mx7f6soiaxywsojudeiyth2efmgcroebixxgv7u72xhefe&title=圍爐藝文| 春節檔內外的觀影&caption=
+圍爐藝文| 春節檔內外的觀影
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=圍爐藝文| 春節檔內外的觀影&url=https://matters.news/@weiluflame/%E5%9C%8D%E7%88%90%E8%97%9D%E6%96%87-%E6%98%A5%E7%AF%80%E6%AA%94%E5%85%A7%E5%A4%96%E7%9A%84%E8%A7%80%E5%BD%B1-bafyreiae2re5mx7f6soiaxywsojudeiyth2efmgcroebixxgv7u72xhefe" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>圍爐藝文| 春節檔內外的觀影</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-03-11
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: 围炉weiluflame</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#围炉">
+          围炉
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://matters.news/@weiluflame/%E5%9C%8D%E7%88%90%E8%97%9D%E6%96%87-%E6%98%A5%E7%AF%80%E6%AA%94%E5%85%A7%E5%A4%96%E7%9A%84%E8%A7%80%E5%BD%B1-bafyreiae2re5mx7f6soiaxywsojudeiyth2efmgcroebixxgv7u72xhefe" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="围炉的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#围炉 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1647063663000-->
+<p><a href="https://matters.news/@weiluflame/%E5%9C%8D%E7%88%90%E8%97%9D%E6%96%87-%E6%98%A5%E7%AF%80%E6%AA%94%E5%85%A7%E5%A4%96%E7%9A%84%E8%A7%80%E5%BD%B1-bafyreiae2re5mx7f6soiaxywsojudeiyth2efmgcroebixxgv7u72xhefe">圍爐藝文| 春節檔內外的觀影</a>
+——</p>
+
+<div>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/aa457914-ba49-4618-b45e-8b06d400ec99.png" data-asset-id="aa457914-ba49-4618-b45e-8b06d400ec99" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p><strong> 1  </strong></p>
+  <p><strong>《奇蹟》：準而巧的現實主義童話 </strong></p>
+  <p><strong> 文| 孫欣然 </strong></p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/f790d165-a685-4135-a952-3a263cbfe2bf.jpeg" data-asset-id="f790d165-a685-4135-a952-3a263cbfe2bf" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p><br /></p>
+  <p>《奇蹟·笨小孩》像一支正中靶心的飛鏢，但並不是有尖銳前端的那種，而是磁吸的——不尖利，卻很準、很巧。</p>
+  <p>啃著包子，掛在高樓外壁，景浩的小身板被高空的氣流吹得左右擺動，鏡頭拉遠、拉遠、再拉遠，他凝成小小一點，成為深圳市井街巷中的一粟——這是《奇蹟》作為主旋律電影真正具有創新性和開拓意義的地方。主人公不再是為高尚理想和愛國主義情懷驅動的救世主形象，而可以只是外來務工、高中輟學的小青年。他所有的痛苦不是來自好高騖遠的落空，而是最基本的生存問題；他可以很渺小，但他是自身命運的奧德修斯。</p>
+  <p>看電影的時候，我總想起一句話：錢不是萬能的，但沒有錢萬萬不能。但在景浩的創業史中，文牧野沒有過多糾纏於商業利益的爾虞我詐，而是瞄准在人情的部分。畢竟，主角景浩最原始也最為強烈的動機是親情，是抓住妹妹弱小的生命（這也是他唯一能抓住的，唯一能讓愛有所依附的），而不是商人的逐利：《奇蹟》其實是個關於愛與幸福的故事。廠長與工人不再是剝削與被剝削的對立雙方，而是同為底層的依偎取暖和守望相助。當創業小隊在卡車車廂中用衣撐作吉他、鐵皮作手鼓的時候，卡車就化身為承載著生生不息的“草根”力量的諾亞方舟，在風雨間熠熠閃光。</p>
+  <p>作為命題作文，《奇蹟》難免在劇情方面有遺憾之處：觀眾看到題目，再看到那個眼神倔強的窮小子，似乎就能猜到注定完滿的結局。但在宏大的時代車輪下，稱量普通人負重的嘗試和“看見螻蟻”的眼光已經值得表揚。相信《奇蹟·笨小孩》會是好景一場。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/e2edc7be-8318-4cd7-83a2-1294262be684.png" data-asset-id="e2edc7be-8318-4cd7-83a2-1294262be684" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p><strong><em> 2</em></strong>  </p>
+  <p><strong> 《四海》與《奇蹟》結構性張力的視覺呈現 </strong></p>
+  <p><strong> 文| 陸怡然 </strong></p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/27bba660-aba7-4af1-b9e8-a2d362915caf.png" data-asset-id="27bba660-aba7-4af1-b9e8-a2d362915caf" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/422eef1b-457a-4d66-b14f-2c8cca6f637b.jpeg" data-asset-id="422eef1b-457a-4d66-b14f-2c8cca6f637b" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>春節檔我去看了《奇蹟笨小孩》和《四海》，出乎我意料的是，儘管網上對《四海》苛評不斷，但我本人還挺喜歡這部略顯稚嫩的電影。兩部電影在呈現城市化過程中進城務工青年處境這一點上，主題多少有所重合，他們的視覺呈現都令人印象深刻，同時風格迥異。</p>
+  <p>在《奇蹟》中，電影科班出身的文牧野，對主角所面臨結構性阻力的視覺化呈現是更為完善、成熟與直觀的。《奇蹟》最重要的意象，是那場“不測風雲”的暴風雨——市場部管理人的蔑視，拖欠房租逐出門外的窘迫，四處碰壁的受挫，全部都凝縮在了這一場大雨的醞釀與降臨之中。事實上，在視覺呈現這一點上，《奇蹟》遠勝過《四海》。因而，觀眾或許更能被文牧野的鏡頭打動——在山雨欲來風滿樓的時點，雲層灰暗厚重的倒影，吞沒反光的玻璃大廈；颱風鋪天蓋地捲來之時，窗玻璃上逆雨爬行的螞蟻特寫；外牆清潔施工時，參天聳立的鋼筋高樓，與命懸一線的工人那渺小橙黃的安全頭盔，對比映襯的鮮明。</p>
+  <p>在視覺技巧上，韓寒顯然比不上科班出身的文牧野。韓寒的敘事方式不是圖像導向的，而是文本導向的——影片的推動更依賴於角色的台詞、背景的選段歌詞，而非演員的肢體動作與畫面呈現。但是《四海》對於這一結構性張力的表現，也依然是具體的，依然有著我覺得不錯的片段：</p>
+  <p>——1h左右，影片開始從輕喜劇向悲劇轉折。週歡歌（尹正飾）在海濱和吳仁耀（劉昊然飾）等人喝的酩酊大醉，高聲朗誦“金鱗豈是池中物，一遇風雲便化龍”，還向夥伴一一道來：誰是池，誰是金鱗，誰是風雲，誰是龍。緊接著眾人下海游泳，好一個金鱗將化龍的歡騰。</p>
+  <p>然而《四海》的“不測風雲”，也如同《奇蹟》中的暴風雨一樣降臨——一艘巨大的、滿載著歡樂男女的遊輪，向在海面游泳的眾人駛來。龐大的、泰山壓頂般的黑色陰影，與週歡歌等人在海面浮動的渺小肉體形成鮮明的對照。（一如文牧野的鏡頭下，暴風雨的摧枯拉朽與螞蟻的渺小形體，摩天的玻璃大樓與工人渺小的橙黃頭盔所形成的對比一樣）——大家急忙避開遊輪，只有周歡歌，沒能躲閃開——於是在這艘巨大遊輪開過之時，一路指引著吳仁耀的他，開了小鎮第一個夜總會的他，借貸了許多款額的他，擔任摩托賽車領隊的他，自詡為“將化龍”的金鱗的他，永久地、渺小地、悄無聲息地沉沒了下去。</p>
+  <p>在冰冷的小鎮海水里，在不測的風雲之中，此生金鱗可望化龍否？</p>
+  <p>還有一個我覺得不錯的畫面，是吳仁耀和女朋友進廣州城找工作時，大概在1.5h的位置：</p>
+  <p>瘦弱的年輕姑娘，徘徊於地鐵站貼滿求職廣告的巨大柱子之下——這個畫面本身就是一個絕妙的隱喻。這不由得讓我聯想到了上學期末，一家開在楊浦區十字路口的全家門口之景觀：三位衣服上濺滿油漆的務工者，站成一排，舉著求職的牌子（上面寫道：熟練油漆工，待聘，薪酬可議）。我甚至感覺到某種，類似於偶遇人口販賣的悲哀——我想到了頭髮上插著的草標，黑奴市場；還有那脖子上看不見的鏈條。然而被觀看者卻渾然不覺他們是悲哀的，他們或許認為自己是自由的、有選擇權的，畢竟販賣勞動力的是他們自己，而非他人。舉著牌子的這三位務工者，男女皆有，臉上是輕鬆愉快的，為了驅寒他們不時晃動身子，間或彼此談笑著——在這個人來人往、熙熙攘攘的擁擠路口，在這個疫情之下財政依然沒有赤字的都市，在這個仍然依託於自由勞動力市場的數字經濟時代——他們離開了家鄉來到上海，期許著一個更美好的未來。</p>
+  <p>有一瞬間，我萌生了拍攝一張他們照片的念頭。但是我沒有付諸實踐。因為我為了寫論文與報告、準備實習，正頭腦眩暈飢腸轆轆，是來全家找東西吃的。我也不知道，我的拍攝對他們而言，是一種共情、一種尊重，一種居高臨下，一種新的反諷，抑或別的什麼。總之我假裝沒有看到他們，進了店裡，吃了東西，又離開了。他們的畫面沒有停留在我的手機相冊裡，卻終究在我的腦子裡揮之不去。</p>
+  <p>我不知道這是不是讓我感到更悲哀了一點。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/3dacf2a1-2a49-4ff6-86f9-2ecf8a7f14a9.png" data-asset-id="3dacf2a1-2a49-4ff6-86f9-2ecf8a7f14a9" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p><strong><em>3</em></strong>  </p>
+  <p><strong> 刺猬的優雅：房間裡的刺猬與魚缸外的魚 </strong></p>
+  <p><strong> 文| 閆力元</strong></p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/bac40834-d780-4c66-991a-ce63786364fe.png" data-asset-id="bac40834-d780-4c66-991a-ce63786364fe" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/12ca2487-982a-4d5e-9732-63f583c81f54.jpeg" data-asset-id="12ca2487-982a-4d5e-9732-63f583c81f54" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>今年沒有去看春節檔的電影，主要是覺得題材太單一，沒有被“詢喚”的慾望。而原本有所期待的《四海》口碑疑似崩盤，《這個殺手不太冷靜》作為一部及格水準的喜劇也似乎無法給人專門去一趟影院的動力。但春節期間還是看了一些影片，其中最喜歡的是法國導演莫娜·阿查切的《刺猬的優雅》。</p>
+  <p>幾乎只看了二十分鐘，我就完全喜歡上了這部電影。故事開始於一位法國中產家庭十二歲的女孩芭洛瑪決定去死——她計劃在13歲生日當天自殺。在此之前，她要用手中的攝像機拍攝一部紀錄片，記錄法國上流社會的“成人”們無趣庸俗、如同“魚缸裡的魚”的生活。電影讓我們可以從12歲女孩的視角打量這個習以為常的成功的、同時也是庸俗的成人世界，這種諷刺的展現極富靈氣。</p>
+  <p>電影的另一條線是看門人荷妮和芭洛瑪的友情及她和日本人小津格朗逐漸萌生的愛。荷妮是一位寡婦，雖然身份卑微，長相也不出眾，素來以不修邊幅的面貌示人，不願引人注意，但她卻有“一間自己房間”，房間裡擺滿了書籍，這是荷妮精神的棲居地。只有芭洛瑪和小津格朗發現了這個地方，也最終走入了荷妮的內心。我很反感豆瓣上有友鄰說荷妮與小津格朗的愛情是《簡愛》式瑪麗蘇故事的翻版。這在我看來是一種非常庸俗的說法，把《簡愛》或《刺猬的優雅》中的愛情比作為現代浪漫劇中的瑪麗蘇情節，本質上是對世俗邏輯的臣服，他們只能看到外表、地位和金錢的差別，而看不見也不明白《簡愛》裡說的“靈魂平等”，不明白荷妮那一屋子的書籍對她以及對真正能夠看到這間屋子的芭洛瑪和小津格朗的意義。荷妮的門鎖正是為這種人準備的。</p>
+  <p>電影沒有明確交代芭洛瑪最後為什麼不再決定去死，但我想是因為荷妮向她展現了另一種生活的可能，當她興奮地對媽媽說“我以後要做一個女門房”的時候，對未來的希望或許已經戰勝了虛無中產生的向死心態了吧？荷妮展現出一位無法融入世俗成功標準的“刺猬”，同樣可以擁有一間“自己的房間”，可以在精神世界中實現優雅。而“魚缸裡的魚”，同樣能夠在被判決死刑之後重獲新生。這條魚讓我想起《天使愛美麗》裡艾米麗開頭放生的魚，那條象徵著對自由和聯結的渴望，這條則代表了生活和生命的力量。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/b3b3a9f3-74ca-4d60-ac76-1fb7cbb74989.png" data-asset-id="b3b3a9f3-74ca-4d60-ac76-1fb7cbb74989" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p><strong><em> 4</em></strong>  </p>
+  <p><strong> 《嘉年華》：被損害的女孩們 </strong></p>
+  <p><strong> 文| Dragon </strong></p>
+  <p><br /></p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/380fb8ca-928e-4964-b990-c84cda50a1b0.png" data-asset-id="380fb8ca-928e-4964-b990-c84cda50a1b0" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/a23d931a-df0c-4753-92bc-f274be77ba10.jpeg" data-asset-id="a23d931a-df0c-4753-92bc-f274be77ba10" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>假期裡看了《嘉年華》，這部電影勇敢觸碰了一系列諱莫如深的話題：未成年人性侵、單親家庭、無證打工少女、失足女性等，且可貴地避免了故事和人物淪為為題材服務的命運。與情節本身的殘酷不同，文晏導演的處理手法卻意外地冷靜克制，不存在同類片中痛快淋漓的情節碰撞或感情釋放。他大量使用沒有對白的鏡頭和留白表現人物心理，整部片的基調都是如此寂靜，只有在專家給出假檢測結果後，小文的父親憤怒失態，似乎打破了這片寂靜。但下一個鏡頭就是知曉消息的小文沉默著望向窗外，無聲地暗示她將跳樓。在現實主義驅動下，這種寂靜表現為麻木和冷漠，終究是無法祈盼救世主的到來。</p>
+  <p>影片中，小文的母親得知女兒被性侵後，蕩婦羞辱式地將其歸咎為女兒的愛美並施加摧殘，導緻小文離家出走。小米一方面被生活歷練得明哲保身，同時又被海灘上巨大的夢露雕像深深吸引，但雕像先是被貼上了褻瀆的廣告傳單，又在片尾被直接拆除。在父權暴力下，被摧殘的不僅是女孩們的身心，還包括她們對“美”的嚮往。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/a388e723-dc38-452f-85ae-c61ba538fdfe.png" data-asset-id="a388e723-dc38-452f-85ae-c61ba538fdfe" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p><strong><em>5</em></strong>  </p>
+  <p><strong> 海蒂和爺爺：童真的人性光輝 </strong></p>
+  <p><strong> 文| 貓大師 </strong></p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/ba97a99c-ba6b-4d40-a55f-0507ccb2edad.png" data-asset-id="ba97a99c-ba6b-4d40-a55f-0507ccb2edad" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/ae8cbe97-2f6b-4305-b34a-48f5c4767287.jpeg" data-asset-id="ae8cbe97-2f6b-4305-b34a-48f5c4767287" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>在大年三十的晚上，我和我的家人一起看了《海蒂和爺爺》。為了迎接新年，我們選了一部比較溫情向的影片，作為某種意義上的春節檔觀影。</p>
+  <p>故事背景是在歐洲的一個田園鄉村的世界中，小女孩海蒂失去了雙親，由她的姨母送到爺爺那裡。和海蒂的相處中，年邁的爺爺第一次感到了信任與關愛，他也打開心扉，給了小女孩家人的呵護。之後，姨母為了自身的利益，將小女孩兒送到一個貴族家中，做貴族小姐的陪讀。貴族小姐克拉拉是一個優雅體面，卻無法站立的年輕小姑娘，和海蒂幾乎同歲。海蒂的粗魯純真和克拉拉的優雅嬌氣形成了鮮明的對比。海蒂一字不識，經常闖禍，沒有禮儀，但她為克拉拉帶來了一個新奇的世界，一份純粹的快樂。然而，海蒂並不想留在這樣的一個貴族城市之中，她渴望自由，渴望回到她的雪山草地中，和小羊、朋友們還有爺爺生活在一起。海蒂頻繁的夢遊使大家明白，這樣一個自由的小鳥，不該拘束在這樣一個巨大的城市之中，因此克拉拉的父親和奶奶決定把海蒂送回鄉下。他們還把克拉拉也一起送到鄉下體驗田園生活。在這個過程中，克拉拉成功克服了心理障礙，站起身來行走。多年的心理殘疾，在這一刻治愈。</p>
+  <p>這樣的故事非常簡單，讓我想起《秘密花園》、《小公主》，真善美的力量，但同時又加入了許多世俗的要素，讓人感覺到一種心靈上的溫暖和洗滌。在這樣的故事中，沒有絕對的反面角色，但每個人身上，哪怕是最正面的善良角色，也有著各自的私慾和漏洞。故事的每一個主角都或多或少體現了傷痛——治癒的這一過程。治愈他們內心深處恐懼與痛苦的或許各不相同，但歸根結底在於選擇相信或者重新選擇相信這個世界純真、善良的力量，即在看山非山後拋卻自我因世俗而上的枷鎖。電影通過不同階級人群的劇情線展現了這一選擇不論貧窮與富貴，都充滿勇氣，並且各自擁抱了新的美好人生。當他們最終歡笑在阿爾卑斯山脈下的時候，能感受到一種來自童真的人性光輝——相信愛、相信美好。</p>
+  <p><br /></p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/526cd4de-c5a6-46d4-b05b-7014f4402a29.png" data-asset-id="526cd4de-c5a6-46d4-b05b-7014f4402a29" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>文| 孫欣然 陸怡然 閆力元 Dreron 貓大師</p>
+  <p>圖| 來自網絡</p>
+  <p>編輯| 李婧軒</p>
+  <p>Matters編輯| Francis</p>
+  <p>審核| 十全大補鴨</p>
+  <p>圍爐(ID：weilu_flame)</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/9a0388fb-2a0e-4fd6-9bc9-167652753ccc.png" data-asset-id="9a0388fb-2a0e-4fd6-9bc9-167652753ccc" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>文中圖片未經同意，請勿用作其他用途</p>
+  <p>歡迎您在文章下方評論，與圍爐團隊和其他讀者交流討論</p>
+  <p>欲了解圍爐、閱讀更多文章，請關注本公眾號並在公眾號頁麵點擊相應菜單欄目</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/42d2417b-35d6-4ba3-803c-045b237354c7.png" data-asset-id="42d2417b-35d6-4ba3-803c-045b237354c7" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/5a0b05ea-6e5a-45c8-a16f-08b72bbf8cd8.jpeg" data-asset-id="5a0b05ea-6e5a-45c8-a16f-08b72bbf8cd8" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p><br /></p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#围炉 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2024-10-03/%E5%AF%B9%E8%AF%9D%E5%A5%B3%E6%80%A7%E6%B0%91%E5%B7%A5-%E5%9C%A8%E5%9F%8E%E5%B8%82%E9%87%8C-%E5%9C%A8%E5%B7%A5%E4%BD%9C%E5%92%8C%E5%AE%B6%E5%BA%AD%E4%B9%8B%E9%97%B4-%E5%9B%B4%E7%82%89-CU/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2021-03-23/%E5%AF%B9%E8%AF%9D%E9%BB%84%E6%B3%93%E7%BF%94-%E8%87%B4%E5%8A%9B%E4%BA%8E%E5%9F%B9%E8%82%B2%E4%B8%96%E7%95%8C%E5%85%AC%E6%B0%91%E7%9A%84%E4%B8%AD%E5%8D%97%E5%B1%8B%E5%88%9B%E5%A7%8B%E4%BA%BA-%E8%AE%B2%E5%BA%A7%E6%91%98%E8%A6%81/">最早</a>--</span>
+    
+      <li>
+        <time>2022-03-16</time>
+        <a href="https://nodebe4.github.io/opinion/2022-03-16/%E5%BE%9E-%E5%BF%83%E6%A9%9F%E5%A5%B3%E5%AD%A9-%E5%92%8C-%E7%B0%A1%E5%96%AE%E7%94%B7%E5%AD%A9-%E8%AB%87%E8%B5%B7-%E5%9C%8D%E7%88%90-FDU/">
+          從“心機女孩”和“簡單男孩”談起|圍爐·FDU
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-03-16</time>
+        <a href="https://nodebe4.github.io/opinion/2022-03-16/%E5%B0%8D%E8%A9%B1%E6%A8%B9%E6%B4%9E%E7%94%A8%E6%88%B6-%E7%94%B1%E6%A8%B9%E6%B4%9E%E6%83%B3%E8%B1%A1%E5%8C%BF%E5%90%8D%E5%B9%B3%E8%87%BA%E7%9A%84%E5%85%AC%E5%85%B1%E8%A8%8E%E8%AB%96-%E4%B8%8A-%E5%9C%8D%E7%88%90-CUHK/">
+          對話樹洞用戶：由樹洞想象匿名平臺的公共討論（上） | 圍爐 · CUHK
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-03-01</time>
+        <a href="https://nodebe4.github.io/opinion/2022-03-01/%E5%9C%8D%E7%88%90%E8%A9%95%E8%AB%96-%E5%B0%8B%E6%89%BE%E9%82%8A%E7%95%8C-%E6%89%93%E7%A0%B4%E9%82%8A%E7%95%8C/">
+          圍爐評論|尋找邊界，打破邊界
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-03-01</time>
+        <a href="https://nodebe4.github.io/opinion/2022-03-01/%E5%9C%8D%E7%88%90%E5%B0%8F%E7%82%92-%E7%A4%BE%E4%BA%A4%E5%AA%92%E9%AB%94%E8%88%87%E8%87%AA%E6%88%91%E5%91%88%E7%8F%BE-%E5%9C%8D%E7%88%90-JointU/">
+          圍爐小炒：社交媒體與自我呈現|圍爐·JointU
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-03-11/ForeignAffairsMag/">
+            前一篇：ForeignAffairsMag在2022-03-07~2022-03-13的言论
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-03-12/nathanlawkc/">
+            後一篇：Twitter @Nathan Law 羅冠聰: 2022-03-07~2022-03-13
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-03-11/ForeignAffairsMag/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-03-12/nathanlawkc/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-03-16/%E5%B0%8D%E8%A9%B1%E6%A8%B9%E6%B4%9E%E7%94%A8%E6%88%B6-%E7%94%B1%E6%A8%B9%E6%B4%9E%E6%83%B3%E8%B1%A1%E5%8C%BF%E5%90%8D%E5%B9%B3%E8%87%BA%E7%9A%84%E5%85%AC%E5%85%B1%E8%A8%8E%E8%AB%96-%E4%B8%8A-%E5%9C%8D%E7%88%90-CUHK/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-03-01/%E5%9C%8D%E7%88%90%E8%A9%95%E8%AB%96-%E5%B0%8B%E6%89%BE%E9%82%8A%E7%95%8C-%E6%89%93%E7%A0%B4%E9%82%8A%E7%95%8C/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-03-11/ForeignAffairsMag/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-03-12/nathanlawkc/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<围炉>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-03-16/%E5%B0%8D%E8%A9%B1%E6%A8%B9%E6%B4%9E%E7%94%A8%E6%88%B6-%E7%94%B1%E6%A8%B9%E6%B4%9E%E6%83%B3%E8%B1%A1%E5%8C%BF%E5%90%8D%E5%B9%B3%E8%87%BA%E7%9A%84%E5%85%AC%E5%85%B1%E8%A8%8E%E8%AB%96-%E4%B8%8A-%E5%9C%8D%E7%88%90-CUHK/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<围炉>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-03-01/%E5%9C%8D%E7%88%90%E8%A9%95%E8%AB%96-%E5%B0%8B%E6%89%BE%E9%82%8A%E7%95%8C-%E6%89%93%E7%A0%B4%E9%82%8A%E7%95%8C/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

@@ -1,0 +1,3003 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Metaverses – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+Metaverses
+——
+" />
+    <meta property="og:description" content="
+Metaverses
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Metaverses" />
+    <meta property="twitter:title" content="Metaverses" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2021%2Fmetaverses%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2021/metaverses/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2021/metaverses/&text=Metaverses&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2021/metaverses/&title=Metaverses" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2021/metaverses/&title=Metaverses" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Metaverses&body=
+Metaverses
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2021/metaverses/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2021/metaverses/&title=Metaverses&caption=
+Metaverses
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Metaverses&url=https://stratechery.com/2021/metaverses/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Metaverses</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2021-08-03
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2021/metaverses/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1627995735000-->
+<p><a href="https://stratechery.com/2021/metaverses/">Metaverses</a>
+——</p>
+
+<div>
+  <p>Satya Nadella, for the record, was first: on May 25, 2021, during the keynote for Microsoft’s <a href="https://www.youtube.com/watch?v=uS46IO_sKwc">Build developer conference</a>, he characterized a collection of Azure offerings as a metaverse:</p>
+  <div align="center">
+    <div id="v-X0TVtEBx-1" class="video-player">
+      <video id="v-X0TVtEBx-1-video" width="640" height="360" poster="" controls="true" preload="metadata" dir="ltr"><div>
+<img alt="" src="" width="640" height="360" />
+        </div></video>
+    </div>
+  </div>
+  <blockquote>
+    <p>Finally, as the virtual and physical worlds converge the metaverse made up of digital twins, simulated environments, and mixed reality, is emerging as a first-class platform. With the metaverse the entire world becomes your app canvas. With Azure Digital Twins you can model any asset or place with Azure IoT and keep the digital twin live and up-to-date. Synapse tracks the history of digital twins and finds insights to predict future states, and with Azure you can build autonomous systems that continually learn and improve. Power Platform enables domain experts to expand on and interact with digital twin data using low-code/no-code solutions. And Mesh and Hololens brings real-time collaboration.</p>
+  </blockquote>
+  <p>The term “enterprise metaverse” came a month later at the <a href="https://www.youtube.com/watch?v=mQappd99x2k">Microsoft Inspire</a> sales force keynote, but it was only on <a href="https://view.officeapps.live.com/op/view.aspx?src=https://c.s-microsoft.com/en-us/CMSFiles/TranscriptFY21Q4.docx?version=d0989578-60df-0600-8b2d-431740b7415a">last week’s earnings call</a> that most of the press caught on. As usual, no one cares unless Facebook is involved.</p>
+  <h4 id="metaverse-definitions">Metaverse Definitions</h4>
+  <p>Facebook’s metaverse coming out party was <a href="https://www.theverge.com/22588022/mark-zuckerberg-facebook-ceo-metaverse-interview">this conversation between CEO Mark Zuckerberg and Casey Newton</a>, which came on the heels of an internal presentation Zuckerberg gave at Facebook.</p>
+  <blockquote>
+    <p><strong>Newton:</strong> You told your employees that your future vision of Facebook is not the two-dimensional version of it that we’re using today, but something called the metaverse. So what is a metaverse and what parts of it does Facebook plan to build?</p>
+    <p><strong>Zuckerberg:</strong> This is a big topic. The metaverse is a vision that spans many companies — the whole industry. You can think about it as the successor to the mobile internet. And it’s certainly not something that any one company is going to build, but I think a big part of our next chapter is going to hopefully be contributing to building that, in partnership with a lot of other companies and creators and developers. But you can think about the metaverse as an embodied internet, where instead of just viewing content — you are in it. And you feel present with other people as if you were in other places, having different experiences that you couldn’t necessarily do on a 2D app or webpage, like dancing, for example, or different types of fitness.</p>
+    <p>I think a lot of people, when they think about the metaverse, they think about just virtual reality — which I think is going to be an important part of that. And that’s clearly a part that we’re very invested in, because it’s the technology that delivers the clearest form of presence. But the metaverse isn’t just virtual reality. It’s going to be accessible across all of our different computing platforms; VR and AR, but also PC, and also mobile devices and game consoles. Speaking of which, a lot of people also think about the metaverse as primarily something that’s about gaming. And I think entertainment is clearly going to be a big part of it, but I don’t think that this is just gaming. I think that this is a persistent, synchronous environment where we can be together, which I think is probably going to resemble some kind of a hybrid between the social platforms that we see today, but an environment where you’re embodied in it.</p>
+  </blockquote>
+  <p>The key difference between the Internet and the metaverse is the idea of “presence”; Matthew Ball, who has written extensively about the concept, including a ten-part <a href="https://www.matthewball.vc/the-metaverse-primer">Metaverse Primer</a> earlier this summer, defined the Metaverse <a href="https://www.matthewball.vc/all/themetaverse">in 2020</a> as having these seven qualities:</p>
+  <blockquote>
+    <ol>
+      <li><strong>Be persistent</strong> – which is to say, it never “resets” or “pauses” or “ends”, it just continues indefinitely</li>
+      <li><strong>Be synchronous and live</strong> – even though pre-scheduled and self-contained events will happen, just as they do in “real life”, the Metaverse will be a living experience that exists consistently for everyone and in real-time</li>
+      <li><strong>Be without any cap to concurrent users, while also providing each user with an individual sense of “presence”</strong> – everyone can be a part of the Metaverse and participate in a specific event/place/activity together, at the same time and with individual agency</li>
+      <li><strong>Be a fully functioning economy</strong> – individuals and businesses will be able to create, own, invest, sell, and be rewarded for an incredibly wide range of “work” that produces “value” that is recognized by others</li>
+      <li><strong>Be an experience that spans</strong> both the digital and physical worlds, private and public networks/experiences, and open and closed platforms</li>
+      <li><strong>Offer unprecedented interoperability</strong> of data, digital items/assets, content, and so on across each of these experiences – your “Counter-Strike” gun skin, for example, could also be used to decorate a gun in Fortnite, or be gifted to a friend on/through Facebook. Similarly, a car designed for Rocket League (or even for Porsche’s website) could be brought over to work in Roblox. Today, the digital world basically acts as though it were a mall where every store used its own currency, required proprietary ID cards, had proprietary units of measurement for things like shoes or calories, and different dress codes, etc.</li>
+      <li>Be populated by “content” and “experiences” <strong>created and operated by an incredibly wide range of contributors</strong>, some of whom are independent individuals, while others might be informally organized groups or commercially-focused enterprises</li>
+    </ol>
+  </blockquote>
+  <p>As for the term “Metaverse”, it was coined by Neal Stephenson in 1992’s <a href="https://www.penguinrandomhouse.com/books/172832/snow-crash-by-neal-stephenson/"><em>Snow Crash</em></a>; this is how Stephenson introduced the idea:</p>
+  <blockquote>
+    <p>The top surface of the computer is smooth except for a fisheye lens, a polished glass dome with a purplish optical coating. Whenever Hiro is using the machine, this lens emerges and clicks into place…The lens can see half of the universe—the half that is above the computer, which includes most of Hiro. In this way, it can generally keep track of where Hiro is and what direction he’s looking in…</p>
+    <p>A narrow beam of any color can be shot out of the innards of the computer, up through that fisheye lens, in any direction. Through the use of electronic mirrors inside the computer, this beam is made to sweep back and forth across the lenses of Hiro’s goggles, in much the same way as the electron beam in a television paints the inner surface of the eponymous Tube. The resulting image hangs in space in front of Hiro’s view of Reality. By drawing a slightly different image in front of each eye, the image can be made three-dimensional. By changing the image seventy-two times a second, it can be made to move. By drawing the moving three-dimensional image at a resolution of 2K pixels on a side, it can be as sharp as the eye can perceive, and by pumping stereo digital sound through the little earphones, the moving 3-D pictures can have a perfectly realistic sound track.</p>
+    <p>So Hiro’s not actually here at all. He’s in a computer-generated universe that his computer is drawing onto his goggles and pumping into his earphones. In the lingo, this imaginary place is known as the Metaverse. Hiro spends a lot of time in the Metaverse. It beats the shit out of the U-Stor-It.</p>
+  </blockquote>
+  <p>Stephenson’s Metaverse had many of qualities Zuckerberg and Ball highlighted, including persistence, being synchronous and live, and the quality of being filled with “content and experiences created and operated by an incredibly wide range of contributors”; the vision in <em>Snow Crash</em>, though, had two crucial differences that made it fundamentally different.</p>
+  <h4 id="the-missing-internet">The Missing Internet</h4>
+  <p>The fact of the matter is that, contra Zuckerberg, the Metaverse of <em>Snow Crash</em> is virtual reality; when Hiro Protagonist, the, uhm, protagonist, wants to look up information in the Library, he needs to enter the Metaverse by putting on his goggles (he can ask the Librarian to speak to him while he is in the real world, but only after establishing his presence). What happens in the Metaverse does not impact what happens in reality (with the exception of <em>Snow Crash</em> — that is part of the mystery of the novel). This all makes sense in the book because the Internet does not exist.</p>
+  <p>Zuckerberg, however, is announcing Facebook’s new mission in a world with the Internet, which is why he tried to expand his definition to basically be Internet+. After all, we can already connect to the Internet from anywhere, and from any device; the Internet, too, is about not just gaming and entertainment, but all aspects of life. There is, admittedly, not much dancing, until you remember that Epic makes a fortune selling emotes, which lets your Fortnite character dance.</p>
+  <p>From this perspective Facebook’s grand metaverse mission sounds an awful lot like VR re-branded. And honestly, that’s perfectly fine! I’ve <a href="https://stratechery.com/2014/face-future/">long been skeptical</a> about Facebook’s investments in VR, but over the last year in particular, as Apple’s iOS changes have higlighted <a href="https://stratechery.com/2020/apple-and-facebook/">Facebook’s platform risk</a>, I’ve come around to Zuckerberg’s point of view. There are far worse things for a massively profitable company to invest in than what could very well be a key platform of the future. And, naturally, whatever Facebook builds for VR will be accessible elsewhere, whether that be AR, mobile, or your computer; Facebook’s goal isn’t the Internet, it’s bigger than that.</p>
+  <h4 id="the-missing-monopolist">The Missing Monopolist</h4>
+  <p>Stephenson, for his part, never anticipated a company like Facebook. From a 2017 <a href="https://www.vanityfair.com/news/2017/06/neal-stephenson-metaverse-snow-crash-silicon-valley-virtual-reality">interview with Vanity Fair</a>:</p>
+  <blockquote>
+    <p><strong>One of the things that’s been interesting to observe with the rise of social media is the way in which the same technologies that initially seemed to be uniting us have in fact driven us further apart. Do you see virtual reality as ultimately contributing to the same political polarization that we’ve seen divide Twitter and Facebook?</strong></p>
+    <p>Well, first, I should make full disclosure that I totally did not see that coming. Even a few years ago, to say nothing of 25 years ago, I really didn’t see the whole social-media bubble thing coming and didn’t — even when I became aware of it — didn’t really get its significance until November 8, 2016. So, that one I missed. The way that the Metaverse is designed — keeping in mind that this was pre-Internet as we know it, pre-Worldwide Web, just me making shit up — there’s only one Metaverse. You have to go there, you can’t set up your own.</p>
+  </blockquote>
+  <p>This is, in retrospect, the most unrealistic part of <em>Snow Crash</em>. The Metaverse is governed by the <em>Association for Computing Machinery’s Global Multimedia Protocol Group</em>; it is accessed and maintained by a fiber optic monopoly owned by one L. Bob Rife. Rife is the bad guy in the story, running a cult from an aircraft carrier and trying to use <em>Snow Crash</em> to break the minds of hackers like Hiro; it never occurs to Rife to leverage the fact that he owns the wires Hiro and everyone else depends on.</p>
+  <p>Indeed, Rife is, from the Ball perspective, a bit of a hero: his monopoly is a hands-off one, creating the conditions for not just persistence and being synchronous but also a virtual economy with full interoperability between the various entities in the Metaverse. The Metaverse simply exists in a way that, well, the Internet does: anyone can set up a server on the Internet, and anyone can buy a plot of land in the Metaverse.</p>
+  <p>In truth, though, this vision of the Internet feels increasingly obsolete: actually keeping a server online means having an Internet Service Provider, which may impose bandwidth constraints at best, and cut you off for arbitrary content rules at worse; national regulators in an increasing number of countries want to control the bits on local bandwidth, professing outrage at China’s Great Firewall even as their actions evince a certain degree of envy. The most economical and secure solution is to use the public cloud, but that subjects you to a private company’s terms of use, the violations of which make its unaccountable and unreachable executives prosecutor, judge, and jury. The situation is even worse if you want to reach potential customers: the vast majority of computing devices in the world are access-controlled by Apple and Google, which not only impose limits on content but also tax their economies at a 30% rate; the only interoperability that exists are the remains of the open Internet. One can certainly make the case that Stephenson didn’t see this coming either — except that he kind of did.</p>
+  <h4 id="the-snow-crash-dystopia">The <em>Snow Crash</em> Dystopia</h4>
+  <p>Not all of the events of <em>Snow Crash</em> take place in the Metaverse; Stephenson’s real world is, arguably, far more interesting. Nearly everything is privatized, from neighborhoods to roads to law enforcement; private corporations (including the Mafia) operate “Franchise-Organized Quasi-National Entities” that own properties across the country and include citizenship and privileged access. Hiro, for example, is a citizen of “Mr. Lee’s Greater Hong Kong” (which is not affiliated with the city), and he flees to one of its properties midway through the book:</p>
+  <blockquote>
+    <p>“Welcome to Mr. Lee’s Greater Hong Kong, Mr. Protagonist,” the security system says through a P.A. speaker. “And welcome to your guest, Ms. Y.T.”</p>
+    <p>The other taxis have stopped in formation along the curb. Several of them overshot the Hong Kong franchise and had to back up a block or so. A barrage of doors thunking shut. Some of them don’t bother, just leave the engines running and the doors wide open. Three jeeks linger on the sidewalk, eyeing the tire shreds impaled on spikes: long streaks of neoprene sprouting steel and fiberglass hairs, like ruined toupees. One of them has a revolver in his hand, pointed straight down at the sidewalk.</p>
+    <p>Four more jeeks run up to join them. Y.T. counts two more revolvers and a pump shotgun. Any more of these guys and they’ll be able to form a government. They step carefully over the spikes and onto the lush Hong Kong lawngrid. As they do, the lasers appear once more. The jeeks turn all red and grainy for a second.</p>
+    <p>Then something different happens. Lights come on. The security system wants better illumination on these people.</p>
+    <p>Hong Kong franchulates are famous for their lawngrids — whoever heard of a lawn you could park on? — and for their antennas. They all look like NASA research facilities with their antennas. Some of them are satellite uplinks, pointed at the sky. But some of them, tiny little antennas, are pointed at the ground, at the lawngrid.</p>
+    <p>Y.T. does not really get this, but these small antennas are millimeter-wave radar transceivers. Like any other radar, they are good at picking up metallic objects. Unlike the radar in an air traffic control center, they can rez fine details. The rez of a system is only as fine as its wavelength; since the wavelength of this radar is about a millimeter, it can see the fillings in your teeth, the grommets in your Converse high-tops, the rivets in your Levi’s. It can calculate the value of your pocket change.</p>
+    <p>Seeing guns is not a problem. This thing can even tell if the guns are loaded, and with what sort of ammunition. That is an important function, because guns are illegal in Mr. Lee’s Greater Hong Kong.</p>
+  </blockquote>
+  <p>The folks with the guns are summarily disarmed by a cyborg dog — this is a science fiction novel! — but the point is that the rules in Greater Hong Kong are different than the rules in Nova Sicilia or Metazania or New South Africa or Narcolombia, despite the fact they all exist in what was nominally the United States (the actual government only actually exists in secured enclaves of its own). They are, quite literally, walled gardens.</p>
+  <p>In this way the Metaverse is actually a unifying force for Stephenson’s dystopia: there is only one virtual world sitting beyond a real world that is fractured between independent entities. There are connections in the real world — roads and helicopters and airplanes exist — but those connections are subject to tolls and gatekeepers, in contrast to the interoperability and freedom of the Metaverse.</p>
+  <p>In other words, I think that Stephenson got the future exactly backwards: in our world the benevolent monopolist is the reality of atoms. Sure, we can construct borders and private clubs, just as the Metaverse has private property, but interoperability and a shared economy are inescapable in the real world; physical constraints are community. It is on the Internet, where anything is possible, that walled gardens flourish. Facebook has total control of Facebook, Apple of iOS, Google of Android, and so on down the stack. Yes, HTTP and SMTP and other protocols still exist, but it’s not an accident those were developed before anyone thought there was money to be made online; today’s APIs have commercial intent built-in from first principles.</p>
+  <h4 id="the-future-of-metaverses">The Future of Metaverses</h4>
+  <p>This is why I don’t think it is absurd that Nadella was the first tech executive to endorse the metaverse as a strategic goal. There is likely to be good business in building private metaverses for private companies, in a not-dissimilar way to Stephenson’s Franchise-Organized Quasi-National Entities made it easy for small-scale entrepreneurs to set up their own franchise-states.</p>
+  <p>Facebook’s goal is more audacious: the company already serves 3.5 billion users, which means creating a shared reality for over half of the world is a plausible goal. That reality, though, will likely sit alongside other realities, just as Facebook the app sits alongside other social networks. This metaverse is universal, but not exclusive.</p>
+  <p>What I am skeptical of is the idea of there being one Metaverse to rule them all; we already have that, and in this case the future is, in William Gibson’s turn of phrase, here — it’s just not very evenly distributed. I speak from personal experience: for two decades I have lived and worked primarily on the Internet; it’s where I experience friendship and community and make my living. Over the last year-and-a-half hundreds of millions of people have joined me, as the default location for the work has switched from the office to online (that “online” is primarily experienced at home does not mean that home is intrinsic to the work — “work from home” is a misnomer). This too is an inverse of <em>Snow Crash</em>, where most jobs are in the real world, and recreation in the Metaverse; the future of work is online,<sup id="rf1-7378"><a href="https://stratechery.com/2021/metaverses/#fn1-7378" title="At least for a privileged minority; notably, in &lt;em&gt;Snow Crash&lt;/em&gt; only a minority of people have access to the Metaverse" rel="footnote">1</a></sup> and the life one wants to live in the reality of one’s choosing.</p>
+  <hr class="footnotes" />
+  <ol class="footnotes" style="list-style-type:decimal">
+    <li id="fn1-7378">
+      <p>At least for a privileged minority; notably, in <em>Snow Crash</em> only a minority of people have access to the Metaverse <a href="https://stratechery.com/2021/metaverses/#rf1-7378" class="backlink" title="Return to footnote 1.">↩</a></p>
+    </li>
+  </ol>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2021-09-01</time>
+        <a href="https://nodebe4.github.io/opinion/2021-09-01/Regulators-and-Reality/">
+          Regulators and Reality
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-08-09</time>
+        <a href="https://nodebe4.github.io/opinion/2021-08-09/Apple-s-Mistake/">
+          Apple’s Mistake
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-07-07</time>
+        <a href="https://nodebe4.github.io/opinion/2021-07-07/Instagram-s-Evolution/">
+          Instagram’s Evolution
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-06-28</time>
+        <a href="https://nodebe4.github.io/opinion/2021-06-28/The-Lightness-of-Windows/">
+          The Lightness of Windows
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2021-08-03/%E4%BA%BA%E8%88%87%E6%B5%B7%E7%9A%84%E5%B0%8D%E8%A9%B1-108-1%E5%A4%A7%E5%AD%B8%E5%9C%8B%E6%96%87%E8%BC%94%E5%8A%A9%E6%95%99%E5%AD%B8%E6%BC%94%E8%AC%9B/">
+            前一篇：人與海的對話 | 108-1大學國文輔助教學演講
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2021-08-03/%E8%87%BA%E7%81%A3%E7%99%BD%E8%89%B2%E6%81%90%E6%80%96%E6%95%A3%E6%96%87%E9%81%B8-%E7%8D%A8%E5%AE%B6%E6%9B%B8%E6%91%98-%E6%92%B2%E7%81%AB%E9%A3%9B%E8%9B%BE-%E4%B8%80%E5%80%8B%E7%BE%8E%E5%9C%8B%E5%82%B3%E6%95%99%E5%A3%AB%E8%A6%AA%E6%AD%B7%E7%9A%84%E8%87%BA%E7%81%A3%E7%99%BD%E8%89%B2%E6%81%90%E6%80%96-%E7%AF%80%E9%81%B8/">
+            後一篇：《臺灣白色恐怖散文選》獨家書摘：〈撲火飛蛾─一個美國傳教士親歷的臺灣白色恐怖〉［節選］
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2021-08-03/%E4%BA%BA%E8%88%87%E6%B5%B7%E7%9A%84%E5%B0%8D%E8%A9%B1-108-1%E5%A4%A7%E5%AD%B8%E5%9C%8B%E6%96%87%E8%BC%94%E5%8A%A9%E6%95%99%E5%AD%B8%E6%BC%94%E8%AC%9B/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2021-08-03/%E8%87%BA%E7%81%A3%E7%99%BD%E8%89%B2%E6%81%90%E6%80%96%E6%95%A3%E6%96%87%E9%81%B8-%E7%8D%A8%E5%AE%B6%E6%9B%B8%E6%91%98-%E6%92%B2%E7%81%AB%E9%A3%9B%E8%9B%BE-%E4%B8%80%E5%80%8B%E7%BE%8E%E5%9C%8B%E5%82%B3%E6%95%99%E5%A3%AB%E8%A6%AA%E6%AD%B7%E7%9A%84%E8%87%BA%E7%81%A3%E7%99%BD%E8%89%B2%E6%81%90%E6%80%96-%E7%AF%80%E9%81%B8/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2021-08-09/Apple-s-Mistake/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2021-07-07/Instagram-s-Evolution/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2021-08-03/%E4%BA%BA%E8%88%87%E6%B5%B7%E7%9A%84%E5%B0%8D%E8%A9%B1-108-1%E5%A4%A7%E5%AD%B8%E5%9C%8B%E6%96%87%E8%BC%94%E5%8A%A9%E6%95%99%E5%AD%B8%E6%BC%94%E8%AC%9B/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2021-08-03/%E8%87%BA%E7%81%A3%E7%99%BD%E8%89%B2%E6%81%90%E6%80%96%E6%95%A3%E6%96%87%E9%81%B8-%E7%8D%A8%E5%AE%B6%E6%9B%B8%E6%91%98-%E6%92%B2%E7%81%AB%E9%A3%9B%E8%9B%BE-%E4%B8%80%E5%80%8B%E7%BE%8E%E5%9C%8B%E5%82%B3%E6%95%99%E5%A3%AB%E8%A6%AA%E6%AD%B7%E7%9A%84%E8%87%BA%E7%81%A3%E7%99%BD%E8%89%B2%E6%81%90%E6%80%96-%E7%AF%80%E9%81%B8/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2021-08-09/Apple-s-Mistake/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2021-07-07/Instagram-s-Evolution/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

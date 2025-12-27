@@ -1,0 +1,2433 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>EnclavedMicrostate在2022-01-03~2022-01-09的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="EnclavedMicrostate在2022-01-03~2022-01-09的言论" />
+    <meta property="twitter:title" content="EnclavedMicrostate在2022-01-03~2022-01-09的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FHololive%2Fcomments%2Fruju7b%2Fkiara_confirmed_in_her_latest_stream_that_myth_3d%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/Hololive/comments/ruju7b/kiara_confirmed_in_her_latest_stream_that_myth_3d/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/Hololive/comments/ruju7b/kiara_confirmed_in_her_latest_stream_that_myth_3d/&text=EnclavedMicrostate在2022-01-03~2022-01-09的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/Hololive/comments/ruju7b/kiara_confirmed_in_her_latest_stream_that_myth_3d/&title=EnclavedMicrostate在2022-01-03~2022-01-09的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/Hololive/comments/ruju7b/kiara_confirmed_in_her_latest_stream_that_myth_3d/&title=EnclavedMicrostate在2022-01-03~2022-01-09的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=EnclavedMicrostate在2022-01-03~2022-01-09的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/Hololive/comments/ruju7b/kiara_confirmed_in_her_latest_stream_that_myth_3d/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/Hololive/comments/ruju7b/kiara_confirmed_in_her_latest_stream_that_myth_3d/&title=EnclavedMicrostate在2022-01-03~2022-01-09的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=EnclavedMicrostate在2022-01-03~2022-01-09的言论&url=https://old.reddit.com/r/Hololive/comments/ruju7b/kiara_confirmed_in_her_latest_stream_that_myth_3d/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>EnclavedMicrostate在2022-01-03~2022-01-09的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-01-09
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: EnclavedMicrostate</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/Hololive/comments/ruju7b/kiara_confirmed_in_her_latest_stream_that_myth_3d/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#24-kiara-confirmed-in-her-latest-stream-that-myth-3d-was-ready-to-go-as-early-as-july-last-year-submitted-on-2022-01-03-0527090800" id="markdown-toc-24-kiara-confirmed-in-her-latest-stream-that-myth-3d-was-ready-to-go-as-early-as-july-last-year-submitted-on-2022-01-03-0527090800">24: Kiara confirmed in her latest stream that Myth 3D was ready to go as early as July last year., submitted on 2022-01-03 05:27:09+08:00.</a></li>
+  <li><a href="#25-did-the-massive-napoleonic-wars-in-europe-impact-china-japan-and-india-in-any-meaningful-way-submitted-on-2022-01-03-0615290800" id="markdown-toc-25-did-the-massive-napoleonic-wars-in-europe-impact-china-japan-and-india-in-any-meaningful-way-submitted-on-2022-01-03-0615290800">25: Did the massive Napoleonic Wars in Europe impact China, Japan and India in any meaningful way?, submitted on 2022-01-03 06:15:29+08:00.</a></li>
+  <li><a href="#26-towa-confused-by-the-superior-idol-step-submitted-on-2022-01-03-2042080800" id="markdown-toc-26-towa-confused-by-the-superior-idol-step-submitted-on-2022-01-03-2042080800">26: Towa confused by the superior idol step, submitted on 2022-01-03 20:42:08+08:00.</a></li>
+  <li><a href="#27-1421-can-contact-happen-without-transmission-submitted-on-2022-01-04-0124420800" id="markdown-toc-27-1421-can-contact-happen-without-transmission-submitted-on-2022-01-04-0124420800">27: 1421: can contact happen without transmission?, submitted on 2022-01-04 01:24:42+08:00.</a></li>
+  <li><a href="#28-westerns-often-depict-decently-sized-towns-out-in-arid-regions-with-little-to-no-visible-farmland-is-this-purely-a-limitation-of-film-budgets-or-did-settlements-in-the-american-west-and-northern-mexico-in-the-1800s-actually-generally-import-food-rather-than-produce-it-locally-submitted-on-2022-01-04-0132240800" id="markdown-toc-28-westerns-often-depict-decently-sized-towns-out-in-arid-regions-with-little-to-no-visible-farmland-is-this-purely-a-limitation-of-film-budgets-or-did-settlements-in-the-american-west-and-northern-mexico-in-the-1800s-actually-generally-import-food-rather-than-produce-it-locally-submitted-on-2022-01-04-0132240800">28: Westerns often depict decently-sized towns out in arid regions with little to no visible farmland. Is this purely a limitation of film budgets, or did settlements in the American west and northern Mexico in the 1800s actually generally import food rather than produce it locally?, submitted on 2022-01-04 01:32:24+08:00.</a></li>
+  <li><a href="#29-the-qing-empire-was-ruled-by-a-manchu-dynasty---why-then-did-they-seemingly-encourage-han-settler-colonialism-in-xinjiang-and-mongolia-submitted-on-2022-01-04-0903410800" id="markdown-toc-29-the-qing-empire-was-ruled-by-a-manchu-dynasty---why-then-did-they-seemingly-encourage-han-settler-colonialism-in-xinjiang-and-mongolia-submitted-on-2022-01-04-0903410800">29: The Qing Empire was ruled by a Manchu dynasty - why then did they seemingly encourage Han settler colonialism in Xinjiang and Mongolia?, submitted on 2022-01-04 09:03:41+08:00.</a></li>
+  <li><a href="#30-what-is-the-oldest-book-we-still-have-an-original-copy-of-submitted-on-2022-01-04-1529160800" id="markdown-toc-30-what-is-the-oldest-book-we-still-have-an-original-copy-of-submitted-on-2022-01-04-1529160800">30: What is the oldest book we still have an original copy of?, submitted on 2022-01-04 15:29:16+08:00.</a></li>
+  <li><a href="#31-all-the-words-for-tea-in-different-languages-have-originated-from-mandarin-submitted-on-2022-01-04-1940380800" id="markdown-toc-31-all-the-words-for-tea-in-different-languages-have-originated-from-mandarin-submitted-on-2022-01-04-1940380800">31: All the words for tea in different languages have originated from Mandarin!, submitted on 2022-01-04 19:40:38+08:00.</a></li>
+  <li><a href="#32-from-loner-to-leader-from-kouhai-to-senpai--irys-fits-everywhere-submitted-on-2022-01-04-2256120800" id="markdown-toc-32-from-loner-to-leader-from-kouhai-to-senpai--irys-fits-everywhere-submitted-on-2022-01-04-2256120800">32: From loner to leader; from Kouhai to Senpai — IRyS fits everywhere, submitted on 2022-01-04 22:56:12+08:00.</a></li>
+  <li><a href="#33-why-wasnt-sisko-on-the-defiant-in-first-contact-submitted-on-2022-01-05-0608240800" id="markdown-toc-33-why-wasnt-sisko-on-the-defiant-in-first-contact-submitted-on-2022-01-05-0608240800">33: Why wasn’t Sisko on the Defiant in First Contact?, submitted on 2022-01-05 06:08:24+08:00.</a></li>
+  <li><a href="#34-how-should-the-question-should-historians-make-moral-judgements-affect-history-as-a-discipline-submitted-on-2022-01-05-1904100800" id="markdown-toc-34-how-should-the-question-should-historians-make-moral-judgements-affect-history-as-a-discipline-submitted-on-2022-01-05-1904100800">34: How should the question ‘Should Historians Make Moral Judgements?’ affect History as a discipline?, submitted on 2022-01-05 19:04:10+08:00.</a></li>
+  <li><a href="#35-the-coming-of-a-new-era-submitted-on-2022-01-06-1312020800" id="markdown-toc-35-the-coming-of-a-new-era-submitted-on-2022-01-06-1312020800">35: The Coming of a New Era!, submitted on 2022-01-06 13:12:02+08:00.</a></li>
+  <li><a href="#36-how-did-alexander-the-great-populate-the-cities-he-founded-submitted-on-2022-01-07-1257010800" id="markdown-toc-36-how-did-alexander-the-great-populate-the-cities-he-founded-submitted-on-2022-01-07-1257010800">36: How did Alexander the Great populate the cities he founded?, submitted on 2022-01-07 12:57:01+08:00.</a></li>
+  <li><a href="#37-what-are-the-most-well-known-and-documented-events-in-history-of-unexplainableparanormal-occurances-submitted-on-2022-01-07-1719140800" id="markdown-toc-37-what-are-the-most-well-known-and-documented-events-in-history-of-unexplainableparanormal-occurances-submitted-on-2022-01-07-1719140800">37: What are the most well known and documented events in history of unexplainable/paranormal occurances?, submitted on 2022-01-07 17:19:14+08:00.</a></li>
+  <li><a href="#38-why-was-china-never-fully-colonised-by-the-west-submitted-on-2022-01-07-2059080800" id="markdown-toc-38-why-was-china-never-fully-colonised-by-the-west-submitted-on-2022-01-07-2059080800">38: Why was China never fully colonised by the west?, submitted on 2022-01-07 20:59:08+08:00.</a></li>
+  <li><a href="#39-spoilers-mainwhy-was-robb-beating-tywin-submitted-on-2022-01-08-0509140800" id="markdown-toc-39-spoilers-mainwhy-was-robb-beating-tywin-submitted-on-2022-01-08-0509140800">39: (Spoilers Main)Why was Robb beating Tywin?, submitted on 2022-01-08 05:09:14+08:00.</a></li>
+  <li><a href="#40-the-taiping-rebellion-led-to-20-30-million-deaths-in-china-was-this-tragedy-almost-entirely-due-to-european-colonialism-in-china-ie-the-century-of-humiliation-submitted-on-2022-01-08-0604390800" id="markdown-toc-40-the-taiping-rebellion-led-to-20-30-million-deaths-in-china-was-this-tragedy-almost-entirely-due-to-european-colonialism-in-china-ie-the-century-of-humiliation-submitted-on-2022-01-08-0604390800">40: The Taiping Rebellion led to 20-30 million deaths in China. Was this tragedy almost entirely due to European colonialism in China i.e. the century of humiliation?, submitted on 2022-01-08 06:04:39+08:00.</a></li>
+  <li><a href="#41-what-would-have-happened-if-china-discovered-the-americas-before-europe-submitted-on-2022-01-08-1032090800" id="markdown-toc-41-what-would-have-happened-if-china-discovered-the-americas-before-europe-submitted-on-2022-01-08-1032090800">41: What would have happened if China discovered the Americas before Europe?, submitted on 2022-01-08 10:32:09+08:00.</a></li>
+  <li><a href="#42-which-societyculture-invented-created-the-most-important-inventions-of-all-time-submitted-on-2022-01-08-1743550800" id="markdown-toc-42-which-societyculture-invented-created-the-most-important-inventions-of-all-time-submitted-on-2022-01-08-1743550800">42: Which Society/Culture Invented Created the Most Important Inventions of All Time?, submitted on 2022-01-08 17:43:55+08:00.</a></li>
+  <li><a href="#43-varied-reactions-to-gura-on-twitter-submitted-on-2022-01-09-0235520800" id="markdown-toc-43-varied-reactions-to-gura-on-twitter-submitted-on-2022-01-09-0235520800">43: Varied reactions to Gura on Twitter, submitted on 2022-01-09 02:35:52+08:00.</a></li>
+  <li><a href="#44-hololive-english--myth----journey-like-a-thousand-years-submitted-on-2022-01-09-0954280800" id="markdown-toc-44-hololive-english--myth----journey-like-a-thousand-years-submitted-on-2022-01-09-0954280800">44: hololive English -Myth- - Journey Like a Thousand Years, submitted on 2022-01-09 09:54:28+08:00.</a></li>
+  <li><a href="#45-what-is-the-biggest-year-ever-used-practically-submitted-on-2022-01-09-1132410800" id="markdown-toc-45-what-is-the-biggest-year-ever-used-practically-submitted-on-2022-01-09-1132410800">45: What is the biggest year ever used practically?, submitted on 2022-01-09 11:32:41+08:00.</a></li>
+  <li><a href="#46-were-the-jie-people-a-race-related-to-amerindians-submitted-on-2022-01-09-1410060800" id="markdown-toc-46-were-the-jie-people-a-race-related-to-amerindians-submitted-on-2022-01-09-1410060800">46: Were the Jie people a race related to Amerindians?, submitted on 2022-01-09 14:10:06+08:00.</a></li>
+</ul>
+
+<h3 id="24-kiara-confirmed-in-her-latest-stream-that-myth-3d-was-ready-to-go-as-early-as-july-last-year-submitted-on-2022-01-03-0527090800">24: <a href="https://old.reddit.com/r/Hololive/comments/ruju7b/kiara_confirmed_in_her_latest_stream_that_myth_3d/">Kiara confirmed in her latest stream that Myth 3D was ready to go as early as July last year.</a>, submitted on 2022-01-03 05:27:09+08:00.</h3>
+
+<p>—– <strong>24.1</strong> —–2022-01-03 12:39:08+08:00:</p>
+
+<blockquote>
+  <p>Japan is historically one of the most isolationist countries in the world.</p>
+</blockquote>
+
+<p>I agree with most of what you’re saying, but can we not resort to Orientalism here…</p>
+
+<p>—– <strong>24.2</strong> —–2022-01-03 12:43:30+08:00:</p>
+
+<p>It’s two things: firstly, the insinuation that if an ‘Eastern’ country or people did a thing in the past then there was something inherently cultural about it; secondly, <a href="https://www.reddit.com/r/AskHistorians/comments/iaxh4j/why_did_japan_decide_to_be_isolationist_during/">it isn’t even true historically</a>.</p>
+
+<h3 id="25-did-the-massive-napoleonic-wars-in-europe-impact-china-japan-and-india-in-any-meaningful-way-submitted-on-2022-01-03-0615290800">25: <a href="https://old.reddit.com/r/AskHistorians/comments/rukyr5/did_the_massive_napoleonic_wars_in_europe_impact/">Did the massive Napoleonic Wars in Europe impact China, Japan and India in any meaningful way?</a>, submitted on 2022-01-03 06:15:29+08:00.</h3>
+
+<p>—– <strong>25.1</strong> —–2022-01-03 19:42:52+08:00:</p>
+
+<p>Pinging /u/Marionberry_Due seeing as they asked this as a followup tp /u/LXT130J’s answer on India and Japan:</p>
+
+<p>Dejima would not be the only European possession in Asia targeted by Britain as part of the French Revolutionary and Napoleonic Wars. Macao, while leased to Portugal, a long-term British ally on the continent, was nevertheless threatened more than once by the Royal Navy in pre-emptive attacks intended to deny access to the French.</p>
+
+<p>The first threat was during the close of the War of the Second Coalition. In June 1801, a Franco-Portuguese peace treaty had been concluded that provided that British ships could no longer call at Portuguese ports. Paranoid that French troops might seek to seize Macao, the Admiralty authorised the dispatch of warships to protect Macao against possible French attack; while the Portuguese authorities in Goa were notified about the naval force in November, when the Royal Navy arrived on 31 March 1802 it brought a substantial complement of troops, who were refused permission to land by the Portuguese governor of Macao, citing that <em>he</em> had not been forwarded any news from Goa. Qing authorities, however, were better apprised, as on 20 March the Viceroy of Liangguang, Jiqing, was informed by the East India Company’s Canton Committee about the troop movements and assured them that they were there to protect both Qing and Portuguese interests in Macao against French predation. The Qing… didn’t buy it as such, and the Jiaqing Emperor ordered Jiqing to refuse to allow the fleet to be supplied via Qing ports. This, it was later believed, was successful in eventually getting the fleet to leave on 29 July, but this was perhaps a little mistaken: rather, the fleet received news that the Treaty of Amiens between Britain and France had been concluded, which obviated the need for a continued military presence.</p>
+
+<p>However, hostilities between Britain and France did not end forever. 1808 saw renewed fears of a French attack on Macao prompted yet another attempt to militarily reinforce the port, amid an even more severe global diplomatic situation for Britain. Firstly, France and Spain had military occupied Portugal in 1807, and it would remain under pro-Bonapartist control until a rebellion in June 1808, concurrent with the outbreak of rebellion in Spain. Secondly, the Treaty of Tilsit had allied Russia and France, thereby placing Napoleon in a dominant position not only in continental Europe, but also, potentially, in Eurasia more widely, as embryonic plans for some kind of joint Franco-Russian operation against British India via Central Asia or Iran were fomented. Thirdly, a substantial number of French cruisers were still at large in Asia, primarily based out of Java and the Philippines, forming a substantial threat to Britain’s trade with China.</p>
+
+<p>As part of an attempt to consolidate naval superiority in Asia, Lord Minto, Governor-General of the Indies, dispatched Vice-Admiral William Drury, commander of the East Indies Station, to send forces first to Annam to open trade, and then to Macao to defend the Portuguese settlement. Drury’s attack on Annam was utterly disastrous and he arrived at Macao with just three ships: one ship of the line, one frigate, and a sloop. Even this was considered a pretty big deal for both Macanese and Qing authorities, neither of whom had any advance notice nor received any formal communication of Drury’s intentions. Eventually, to quote Frederic Wakeman, (italics mine):</p>
+
+<blockquote>
+  <p>On 21 September, brushing aside Governor-General Wu Xiongguang’s commands to depart with the observation that <em>nothing in his instruc­tions prevented him from going to war with China</em>, Drury disembarked 300 marines and sepoys to take over and defend Macao’s citadels.</p>
+</blockquote>
+
+<p>This rather unsurprisingly was responded to with a Qing embargo on British trade, and the assembly of an army, numbering 80,000 troops on paper, to repel Drury’s forces (now reinforced with a further 700 troops brought from India). Virtually no actual fighting took place, as Wu failed to actually order an attack; rather, Drury faced pressure from both East India Company captains and the Macanese government to back down, and he withdrew in December. This was nevertheless spun as a Qing military victory, with a commemorative pagoda erected in Canton afterward.</p>
+
+<p>The Anglo-Macanese-Qing confrontations of 1802 and 1808 aren’t just bits of trivia. Firstly, they served as points at which the Qing quite firmly asserted their refusal to allow British forces to erode Qing sovereignty in the Pearl River Delta, as well as emphasising that Macao was a Qing <em>lease</em> granted to Portugal, and not sovereign Portuguese territory that the Qing had no authority to prevent transfers of. But secondly, they were also critical episodes in the deterioration of Anglo-Qing relations between the Macartney Embassy in 1793 and the outbreak of the Opium War in 1839.</p>
+
+<p>This deterioration, as noted, was a process that would continue past the end of the Napoleonic Wars, but we ought not to constrain ourselves to the idea that the impact of the Napoleonic Wars was restricted purely to the period of actual fighting. The post-Napoleonic order, with Britain and Russia affirmed as the major maritime and continental powers, respectively, was one which was highly conducive to the continuing diplomatic breakdown between the British and Qing Empires.</p>
+
+<p>In the immediate term, the Amherst embassy, actually with more conservative goals than Macartney’s, was dispatched in 1816, and failed to even achieve an audience owing to a fight breaking out outside the audience chamber! The embassy, which was conceived in the wake of Britain’s post-Napoleonic supremacy, was unsurprisingly considered a disaster, not least <a href="https://www.reddit.com/r/AskHistorians/comments/mjkkwv/did_napoleon_actually_say_that_china_was_a/gtb57oa/?context=999">by Napoleon himself</a> when Amherst’s embassy called at St Helena on its way back. One of the other issues afflicting the Amherst mission had been a disagreement over whether the British diplomats were to kowtow to the emperor, leading Napoleon to comment that the British had no right to impose their own ceremonial conventions overseas – if it were custom in Britain for dignitaries to kiss the king’s backside, were the British going to ask the Qing emperor to drop his trousers in the audience hall?</p>
+
+<p>But the British conviction in the superiority of ‘Western’ civilisation in general and the British Empire in particular never exactly dissipated, at least not in the period discussed, and went on to influence the growing sabre-rattling about Qing trade restrictions that brought Britain ever closer to the brink of war with China over the first four decades of the nineteenth century. Nothing, of course, was inevitable about the Opium War, but the conditions under which Britain chose to go to war in response to Lin Zexu’s opium suppression campaigns were in large part the product of their victory over Napoleon, and so too was the mindset – or mindsets – that informed the decision.</p>
+
+<p>—– <strong>25.2</strong> —–2022-01-04 09:49:37+08:00:</p>
+
+<p>As regards numbers:</p>
+
+<p>While the Qing might have had motive to conceal their army numbers from other states, they nevertheless maintained internal records, records which were not necessarily well-hidden. In 1851, for his report on the Qing army, Thomas Wade had access to payrolls and other data sources, allowing him to produce a detailed breakdown of not just numbers of troops per province down to the man, but also the number of each grade of officer – with the caveat that his most recent data was 1812 for the Banners and 1825 for the Green Standard Army. I don’t recall the precise numbers off the top of my head, but it aligns with the generally-stated figures of 250,000 Banner troops and 550,000-600,000 Green Standards.</p>
+
+<p>The caveat here is that a large portion of Green Standard troops were designated as ‘garrison’ forces whose main role was as a sort of proto police force, dispersed mainly in rural areas to support officials and deal with rebels and discontents. More broadly, the Green Standards were not expected to be easily mobilised and concentrated.</p>
+
+<p>On top of that we need to distinguish campaign deployments from total strength. Strategic requirements (eg guarding borders), operational priorities, and logistical limits all serve to put the realistic field strength of armies well below the total number of troops under a state. That the Qing generally only allocated 150,000 out of 800,000 troops for a given war is reflective of the breadth of the empire, the aforementioned limited mobilisation potential of the Green Standard garrisons, and the practical limitations of Early Modern logistics to keep armies actually supplied.</p>
+
+<p>As regards finances, while we can speak of differences in purchasing power, you’d need a pretty substantial difference in purchasing power to compensate for the massive gulf in per capita tax revenues between the Qing and European states. While it may complicate quantification, for a qualitative argument about relative levels of extractive power it’s good enough.</p>
+
+<h3 id="26-towa-confused-by-the-superior-idol-step-submitted-on-2022-01-03-2042080800">26: <a href="https://old.reddit.com/r/Hololive/comments/rv0vs4/towa_confused_by_the_superior_idol_step/">Towa confused by the superior idol step</a>, submitted on 2022-01-03 20:42:08+08:00.</h3>
+
+<p>—– <strong>26.1</strong> —–2022-01-04 16:12:29+08:00:</p>
+
+<p>FAQ</p>
+
+<h3 id="27-1421-can-contact-happen-without-transmission-submitted-on-2022-01-04-0124420800">27: <a href="https://old.reddit.com/r/AskHistorians/comments/rv6wnv/1421_can_contact_happen_without_transmission/">1421: can contact happen without transmission?</a>, submitted on 2022-01-04 01:24:42+08:00.</h3>
+
+<p>—– <strong>27.1</strong> —–2022-01-04 02:46:44+08:00:</p>
+
+<p>A couple of quick notes; firstly that unfortunately OP deleted the question, secondly the reason the link doesn’t work is there seems to be an extra slash at the end; the working link is</p>
+
+<p>https://www.reddit.com/r/AskHistorians/comments/klzsiq/how_do_theories_of_viking_or_basque_discovery_of/ghdlb08/</p>
+
+<h3 id="28-westerns-often-depict-decently-sized-towns-out-in-arid-regions-with-little-to-no-visible-farmland-is-this-purely-a-limitation-of-film-budgets-or-did-settlements-in-the-american-west-and-northern-mexico-in-the-1800s-actually-generally-import-food-rather-than-produce-it-locally-submitted-on-2022-01-04-0132240800">28: <a href="https://old.reddit.com/r/AskHistorians/comments/rv730p/westerns_often_depict_decentlysized_towns_out_in/">Westerns often depict decently-sized towns out in arid regions with little to no visible farmland. Is this purely a limitation of film budgets, or did settlements in the American west and northern Mexico in the 1800s actually generally import food rather than produce it locally?</a>, submitted on 2022-01-04 01:32:24+08:00.</h3>
+
+<p>—– <strong>28.1</strong> —–2022-01-04 09:04:06+08:00:</p>
+
+<p>Thank you! I don’t know that there’s anything really left for me to ask here.</p>
+
+<h3 id="29-the-qing-empire-was-ruled-by-a-manchu-dynasty---why-then-did-they-seemingly-encourage-han-settler-colonialism-in-xinjiang-and-mongolia-submitted-on-2022-01-04-0903410800">29: <a href="https://old.reddit.com/r/AskHistorians/comments/rvhbbt/the_qing_empire_was_ruled_by_a_manchu_dynasty_why/">The Qing Empire was ruled by a Manchu dynasty - why then did they seemingly encourage Han settler colonialism in Xinjiang and Mongolia?</a>, submitted on 2022-01-04 09:03:41+08:00.</h3>
+
+<p>—– <strong>29.1</strong> —–2022-01-04 22:22:48+08:00:</p>
+
+<p>This was primarily the result of military insecurity in the latter part of the nineteenth century – I cover these in brief <a href="https://www.reddit.com/r/AskHistorians/comments/ncpdv2/why_did_china_never_build_a_colonial_empire/gy8kese/">in this answer</a> but feel free to ask any followups if you have them.</p>
+
+<h3 id="30-what-is-the-oldest-book-we-still-have-an-original-copy-of-submitted-on-2022-01-04-1529160800">30: <a href="https://old.reddit.com/r/AskHistorians/comments/rvophj/what_is_the_oldest_book_we_still_have_an_original/">What is the oldest book we still have an original copy of?</a>, submitted on 2022-01-04 15:29:16+08:00.</h3>
+
+<p>—– <strong>30.1</strong> —–2022-01-04 17:15:51+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="31-all-the-words-for-tea-in-different-languages-have-originated-from-mandarin-submitted-on-2022-01-04-1940380800">31: <a href="https://old.reddit.com/r/coolguides/comments/rvsgsg/all_the_words_for_tea_in_different_languages_have/">All the words for tea in different languages have originated from Mandarin!</a>, submitted on 2022-01-04 19:40:38+08:00.</h3>
+
+<p>—– <strong>31.1</strong> —–2022-01-05 01:47:11+08:00:</p>
+
+<p>Hang on, no – as can be seen, there’s a substantial number of languages, including English ‘tea’, where it comes from Min Nan.</p>
+
+<h3 id="32-from-loner-to-leader-from-kouhai-to-senpai--irys-fits-everywhere-submitted-on-2022-01-04-2256120800">32: <a href="https://old.reddit.com/r/Hololive/comments/rvw7pq/from_loner_to_leader_from_kouhai_to_senpai_irys/">From loner to leader; from Kouhai to Senpai — IRyS fits everywhere</a>, submitted on 2022-01-04 22:56:12+08:00.</h3>
+
+<p>—– <strong>32.1</strong> —–2022-01-05 12:59:35+08:00:</p>
+
+<blockquote>
+  <p>The last member to join Hololive outside a generation was Azki a full three years ago in late 2018</p>
+</blockquote>
+
+<p>Not quite, Suisei joined INNK in May 2019 and transferred to Hololive proper in December. AFAIK ‘Gen 0’ didn’t officially exist until late 2020, so there was a period when Sora, Roboco, Miko and eventually Suisei were kind of unclassified. As for IRyS, she is technically in a generation because she’s listed under Project:HOPE, it just remains to be seen if that will ever expand beyond her.</p>
+
+<h3 id="33-why-wasnt-sisko-on-the-defiant-in-first-contact-submitted-on-2022-01-05-0608240800">33: <a href="https://old.reddit.com/r/startrek/comments/rw65t7/why_wasnt_sisko_on_the_defiant_in_first_contact/">Why wasn’t Sisko on the Defiant in First Contact?</a>, submitted on 2022-01-05 06:08:24+08:00.</h3>
+
+<p>—– <strong>33.1</strong> —–2022-01-05 20:10:32+08:00:</p>
+
+<p>I’ll lay my cards on the table here: I very much liked <em>Picard</em> season 1 during its airing and continue to in retrospect, so I may leap a little bit in its defence and overlook and/or overstate certain things.</p>
+
+<p>For me, <em>Picard</em> S1 isn’t about Data as such, nor even specifically the mechanics of the synths as life-forms. In a sense, synths just happen to be the most badly-hit group by the Federation’s inward turn after the Mars attacks, one which had evidently also severed a lot of ties they had been building with the Romulans. Data serves rather as one of the major motivators behind Picard leaving retirement and going back to space: on top of his moral principles leading him to want to right the wrongs he failed to stop, he also feels he owes a personal debt to Data, whom he sees as a loose end in his life. Data’s death was, for Picard, in itself an injustice, but one of a deeply personal nature: how could Data, a far younger person with a whole life ahead of him, sacrifice that future for the sake of an old man – one who, by the by, had no family of his own to carry on his legacy?</p>
+
+<p>What <em>Picard</em> does is acknowledge the unsatisfactory conclusion of <em>Nemesis</em>, and uses that to suggest Data’s death was something incomplete, a loose end that needs tying – though the point in the end is that that should never have been the case; Picard need never have thought that, but that’s a digression. But Lore, Lal, and Juliana Tainer all had arcs that wrapped during TNG itself. Now that’s largely due to the reset-button nature of TNG’s storytelling, but the point would remain that all three are a) almost certainly dead by any reasonable definition and b) don’t have arcs that still need resolving. More importantly, they were significant mainly for Data himself, who is not the focus of <em>Picard</em>. Picard wasn’t profoundly affected by them the way Data would have been. I think more importantly, they can only be mentioned in dialogue, and it would be a rather awkward exposition dump to have to get into the specifics of their stories.</p>
+
+<p>So you’d have to come up with a particularly good reason as to <em>why</em> any of them might be needed, and that’s pretty hard for either Lore or Tainer. Lal <em>is</em> actually vaguely alluded to, both in Data’s <em>Daughter</em> paintings and also Picard’s own reference to Data having ‘always wanted a daughter’. And that I think shows how <em>Picard</em> handles these references well, because the significance of those statements derives not from simply being continuity-relevant, but rather from what they can be used to tell us about the characters in the context of the current story being told. And on top of that, not mentioning Lal by name is, I would argue, a <em>good</em> choice creatively, because if you have watched ‘The Offspring’, then you’ll know what Picard is alluding to without him needing to bring her up by name; if you haven’t, then you don’t get confronted with a one-off reference to some ‘Lal’ character who doesn’t otherwise appear in the show itself.</p>
+
+<h3 id="34-how-should-the-question-should-historians-make-moral-judgements-affect-history-as-a-discipline-submitted-on-2022-01-05-1904100800">34: <a href="https://old.reddit.com/r/AskHistorians/comments/rwkena/how_should_the_question_should_historians_make/">How should the question ‘Should Historians Make Moral Judgements?’ affect History as a discipline?</a>, submitted on 2022-01-05 19:04:10+08:00.</h3>
+
+<p>—– <strong>34.1</strong> —–2022-01-05 20:14:29+08:00:</p>
+
+<p>Hi there - unfortunately we have had to remove your question, because <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework">/r/AskHistorians isn’t here to do your homework for you</a>. However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself.</p>
+
+<p>If you have indeed asked a homework question, you should consider resubmitting a question more focused on finding resources and seeking clarification on confusing issues: tell us what you’ve researched so far, what resources you’ve consulted, and what you’ve learned, and we are more likely to approve your question. Please see this <a href="https://www.reddit.com/r/AskHistorians/comments/hplxyf/rules_roundtable_xx_the_no_homework_rule/">Rules Roundtable</a> thread for more information on what makes for the kind of homework question we’d approve. Additionally, if you’re not sure where to start in terms of finding and understanding sources in general, we have a six-part series, “<a href="https://www.reddit.com/r/AskHistorians/wiki/theory#wiki_monday_methods.3A_finding_and_understanding_sources">Finding and Understanding Sources</a>”, which has a wealth of information that may be useful for finding and understanding information for your essay. Finally, other subreddits are likely to be more suitable for help with homework - try looking for help at /r/HomeworkHelp.</p>
+
+<p>Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you <strong>wait for 7 days</strong> and then ask a less open-ended question on the same topic.</p>
+
+<h3 id="35-the-coming-of-a-new-era-submitted-on-2022-01-06-1312020800">35: <a href="https://old.reddit.com/r/Hololive/comments/rx6crm/the_coming_of_a_new_era/">The Coming of a New Era!</a>, submitted on 2022-01-06 13:12:02+08:00.</h3>
+
+<p>—– <strong>35.1</strong> —–2022-01-06 16:06:06+08:00:</p>
+
+<p>Faunever alone.</p>
+
+<h3 id="36-how-did-alexander-the-great-populate-the-cities-he-founded-submitted-on-2022-01-07-1257010800">36: <a href="https://old.reddit.com/r/AskHistorians/comments/rxz5wb/how_did_alexander_the_great_populate_the_cities/">How did Alexander the Great populate the cities he founded?</a>, submitted on 2022-01-07 12:57:01+08:00.</h3>
+
+<p>—– <strong>36.1</strong> —–2022-01-07 14:34:30+08:00:</p>
+
+<p>More can of course be said, but /u/toldinstone and I discussed aspects of a similar question <a href="https://www.reddit.com/r/AskHistorians/comments/oonglp/what_does_it_mean_to_found_a_city/h60jokv/">here</a>.</p>
+
+<h3 id="37-what-are-the-most-well-known-and-documented-events-in-history-of-unexplainableparanormal-occurances-submitted-on-2022-01-07-1719140800">37: <a href="https://old.reddit.com/r/AskHistorians/comments/ry3fas/what_are_the_most_well_known_and_documented/">What are the most well known and documented events in history of unexplainable/paranormal occurances?</a>, submitted on 2022-01-07 17:19:14+08:00.</h3>
+
+<p>—– <strong>37.1</strong> —–2022-01-07 17:24:24+08:00:</p>
+
+<p>This submission has been removed because it violates the <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions">rule on poll-type questions</a>. These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the “most”, the “worst”, “unknown”, or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult <a href="https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/">this Roundtable discussion</a>.</p>
+
+<p>For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.</p>
+
+<h3 id="38-why-was-china-never-fully-colonised-by-the-west-submitted-on-2022-01-07-2059080800">38: <a href="https://old.reddit.com/r/ChineseHistory/comments/ry6u7x/why_was_china_never_fully_colonised_by_the_west/">Why was China never fully colonised by the west?</a>, submitted on 2022-01-07 20:59:08+08:00.</h3>
+
+<p>—– <strong>38.1</strong> —–2022-01-07 21:26:47+08:00:</p>
+
+<p>It cuts two ways:</p>
+
+<p>On the one hand, Europeans were after trade, not taxation. It was easier to get that trade by not disrupting the overall integrity of China’s society and economy too severely.</p>
+
+<p>On the other hand, the Qing Empire was a decently competitive imperial power in its own right that, if confronted with an existential war, would most likely pull out all the stops and make any would-be conqueror seriously bleed for it.</p>
+
+<p>For something more in-depth I wrote <a href="https://www.reddit.com/r/AskHistorians/comments/hpxbz0/why_wasnt_qing_china_colonised_by_the_british/fxvzwtn/">this</a> over on r/AskHistorians.</p>
+
+<p>—– <strong>38.2</strong> —–2022-01-08 10:34:47+08:00:</p>
+
+<blockquote>
+  <p>If instead of a Manchu Qing Dynasty facing the West, it was a strong Han regime, China would actually not have lost so badly.</p>
+</blockquote>
+
+<p>Excuse me!? Is there any way of parsing that statement that is <em>not</em> racist?</p>
+
+<p>—– <strong>38.3</strong> —–2022-01-08 11:30:27+08:00:</p>
+
+<p>‘Han’ here clearly means Han Chinese, not the Han empire of 202 BCE to 220 AD.</p>
+
+<p>—– <strong>38.4</strong> —–2022-01-08 11:40:53+08:00:</p>
+
+<p>It’s one thing to object to my literal statement and another to suggest that there is not almost certainly an ethnic dimension. The fact is that it the original comment very overtly contrasted ‘<em>Manchu</em> Qing Dynasty’ with ‘a strong Han regime’, implying that ethnicity was the key difference. If ethnicity didn’t matter, why highlight the Qing? And why highlight a ‘strong’ Han regime unless implying that a non-Han regime would not be so?</p>
+
+<p>—– <strong>38.5</strong> —–2022-01-08 11:41:37+08:00:</p>
+
+<p>Your original comment very overtly contrasted ‘<em>Manchu</em> Qing Dynasty’ with ‘a strong Han regime’, implying that Han regimes would be strong by definition and that the Qing was weak because it was not one.</p>
+
+<p>—– <strong>38.6</strong> —–2022-01-08 11:49:06+08:00:</p>
+
+<p>Good to see where you stand.</p>
+
+<h3 id="39-spoilers-mainwhy-was-robb-beating-tywin-submitted-on-2022-01-08-0509140800">39: <a href="https://old.reddit.com/r/asoiaf/comments/ryi03s/spoilers_mainwhy_was_robb_beating_tywin/">(Spoilers Main)Why was Robb beating Tywin?</a>, submitted on 2022-01-08 05:09:14+08:00.</h3>
+
+<p>—– <strong>39.1</strong> —–2022-01-09 13:33:25+08:00:</p>
+
+<blockquote>
+  <p>Then there is the Gordian Knot. I don’t even wanna get into it because I know that you would deny those things as opposed to being innovative ideas as well.</p>
+</blockquote>
+
+<p>As someone who has done a decent amount of reading on Alexander, I want to note that the Gordian Knot is kind of weird. I’ve written a fuller summary of the sources and scholarship <a href="https://www.reddit.com/r/AskHistorians/comments/l7rtw6/did_alexander_the_great_actually_solve_the/gm9mrjt/">here</a>, but to summarise it in brief:</p>
+
+<ul>
+  <li>
+    <p>It seems to have been a minor local legend in Gordion itself, possibly Phrygia more widely, that Alexander probably would have had no interest in if he had not happened to be passing through. It wasn’t until later, after Alexander <em>had</em> conquered the Achaemenid empire, that the notion that ‘oh everyone knew how important the Gordian Knot was’ came about.</p>
+  </li>
+  <li>
+    <p>It is more likely that he unravelled the knot by removing a wooden peg that had been holding it in place, than it is that he cut it with a sword – there is a ‘first-generation’ primary source cited for the peg version, whereas the sword version is never specifically attributed to any primary source.</p>
+  </li>
+  <li>
+    <p>There is one version, that of Quintus Curtius Rufus, where the cutting of the knot is portrayed as a face-saving measure rather than a stroke of genius: Alexander <em>did</em> try untying the knot normally and couldn’t, and he cut the knot out of frustration and to avoid embarrassment.</p>
+  </li>
+</ul>
+
+<p>—– <strong>39.2</strong> —–2022-01-09 15:42:36+08:00:</p>
+
+<p>Assuming, of course, that the knot had been around for a particularly long time (rope is an organic material and will decay), that nobody <em>had</em> untied it before but might have been forgotten because they weren’t that important, or that maybe nobody wanted to risk the consequences of <em>actually</em> doing it and Alexander actually trampled on quite a significant local legend. Sure, he did it, but it’s not some major stroke of genius.</p>
+
+<p>Alexander was many things, but he was also a figure of mythic proportions, and nearly <em>all</em> of our sources for his activity come from people writing literally hundreds of years later, having absorbed a lot of these myths and allowing them to influence how they wrote about Alexander even as they referred to then-extant, now-lost primary sources. The notion of Alexander as some singular unparalleled genius, as opposed to a decently bold and rather lucky warlord who owed much of his success to his father, comes from accounts that portrayed Alexander as the progenitor of the Hellenistic Greek world and as something beyond conventional mortal limits.</p>
+
+<h3 id="40-the-taiping-rebellion-led-to-20-30-million-deaths-in-china-was-this-tragedy-almost-entirely-due-to-european-colonialism-in-china-ie-the-century-of-humiliation-submitted-on-2022-01-08-0604390800">40: <a href="https://old.reddit.com/r/AskHistorians/comments/ryjbc5/the_taiping_rebellion_led_to_2030_million_deaths/">The Taiping Rebellion led to 20-30 million deaths in China. Was this tragedy almost entirely due to European colonialism in China i.e. the century of humiliation?</a>, submitted on 2022-01-08 06:04:39+08:00.</h3>
+
+<p>—– <strong>40.1</strong> —–2022-01-08 14:13:07+08:00:</p>
+
+<p>This is a question which I have answered dimensions of in the past, with relevant write-ups including:</p>
+
+<ul>
+  <li>
+    <p><a href="https://www.reddit.com/r/AskHistorians/comments/faa3ai/european_interference_in_china_has_often_been/fix2e24/">European interference in China has often been cited to explain not only why the Taiping Rebellion took place, but also why it was so protracted. But how far back ought we to trace this history? Is it sufficient to consider the impact of the Opium Wars, or must we go back further than the 1840s?</a></p>
+  </li>
+  <li>
+    <p><a href="https://www.reddit.com/r/AskHistorians/comments/r30rym/how_great_of_an_effect_did_the_first_opium_war/hm8uc7d/?context=999">How great of an effect did the first Opium War have on the Taiping Rebellion?</a></p>
+  </li>
+  <li>
+    <p><a href="https://www.reddit.com/r/AskHistorians/comments/qct58u/china_went_from_the_most_powerful_empire_on_earth/hhiy496/">China went from the most powerful empire on earth to being colonized over the course of a few decades. Was this “traumatic” for the Chinese psyche? How did it affect policy and international relations?</a></p>
+  </li>
+  <li>
+    <p><a href="https://www.reddit.com/r/AskHistorians/comments/gydsbv/how_and_why_did_the_century_of_humiliation/fta717i/?context=999">How and why did the ‘century of humiliation’ narrative become dominant?</a></p>
+  </li>
+</ul>
+
+<p>If you have any followups do feel free to ask and I’ll be happy to answer.</p>
+
+<h3 id="41-what-would-have-happened-if-china-discovered-the-americas-before-europe-submitted-on-2022-01-08-1032090800">41: <a href="https://old.reddit.com/r/AskHistorians/comments/ryp3km/what_would_have_happened_if_china_discovered_the/">What would have happened if China discovered the Americas before Europe?</a>, submitted on 2022-01-08 10:32:09+08:00.</h3>
+
+<p>—– <strong>41.1</strong> —–2022-01-08 10:39:19+08:00:</p>
+
+<p>Sorry, but your submission has been removed because we <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F">don’t allow hypothetical questions</a>. If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule <a href="https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/">here</a>.</p>
+
+<h3 id="42-which-societyculture-invented-created-the-most-important-inventions-of-all-time-submitted-on-2022-01-08-1743550800">42: <a href="https://old.reddit.com/r/AskHistorians/comments/rywabg/which_societyculture_invented_created_the_most/">Which Society/Culture Invented Created the Most Important Inventions of All Time?</a>, submitted on 2022-01-08 17:43:55+08:00.</h3>
+
+<p>—– <strong>42.1</strong> —–2022-01-08 18:09:04+08:00:</p>
+
+<p>This submission has been removed because it violates the <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions">rule on poll-type questions</a>. These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the “most”, the “worst”, “unknown”, or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult <a href="https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/">this Roundtable discussion</a>.</p>
+
+<p>For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.</p>
+
+<h3 id="43-varied-reactions-to-gura-on-twitter-submitted-on-2022-01-09-0235520800">43: <a href="https://old.reddit.com/r/Hololive/comments/rz6joe/varied_reactions_to_gura_on_twitter/">Varied reactions to Gura on Twitter</a>, submitted on 2022-01-09 02:35:52+08:00.</h3>
+
+<p>—– <strong>43.1</strong> —–2022-01-09 11:36:08+08:00:</p>
+
+<p>The first duty of every Hololive member is to <del>seiso</del> comedy…</p>
+
+<h3 id="44-hololive-english--myth----journey-like-a-thousand-years-submitted-on-2022-01-09-0954280800">44: <a href="https://old.reddit.com/r/Hololive/comments/rzgesn/hololive_english_myth_journey_like_a_thousand/">hololive English -Myth- - Journey Like a Thousand Years</a>, submitted on 2022-01-09 09:54:28+08:00.</h3>
+
+<p>—– <strong>44.1</strong> —–2022-01-09 11:31:13+08:00:</p>
+
+<p>Doesn’t Myth or Treat count?</p>
+
+<h3 id="45-what-is-the-biggest-year-ever-used-practically-submitted-on-2022-01-09-1132410800">45: <a href="https://old.reddit.com/r/AskHistorians/comments/rziawi/what_is_the_biggest_year_ever_used_practically/">What is the biggest year ever used practically?</a>, submitted on 2022-01-09 11:32:41+08:00.</h3>
+
+<p>—– <strong>45.1</strong> —–2022-01-09 11:44:01+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="46-were-the-jie-people-a-race-related-to-amerindians-submitted-on-2022-01-09-1410060800">46: <a href="https://old.reddit.com/r/AskHistorians/comments/rzl2k7/were_the_jie_people_a_race_related_to_amerindians/">Were the Jie people a race related to Amerindians?</a>, submitted on 2022-01-09 14:10:06+08:00.</h3>
+
+<p>—– <strong>46.1</strong> —–2022-01-09 15:54:19+08:00:</p>
+
+<p>Apologies, but we have had to remove your submission. We ask that questions in this subreddit be limited to those asking about history, or for historical answers. This is not a judgement of your question, but to receive the answer you are looking for, it would be better suited to .</p>
+
+<p>If you are interested in an historical answer, however, you are welcome to rework your question to fit the theme of this subreddit and resubmit it.</p>
+
+<p>Apologies, but we have had to remove your submission. We ask that questions in this subreddit be limited to those asking about history, or for historical answers. Questions about genetics do not fall within that scope. If you are interested in a historical answer, however, you are welcome to rework your question to fit the theme of this subreddit and resubmit it.</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-01-15</time>
+        <a href="https://nodebe4.github.io/opinion/2022-01-15/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-01-10~2022-01-16的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-01-09</time>
+        <a href="https://nodebe4.github.io/opinion/2022-01-09/theoryofdoom/">
+          theoryofdoom在2022-01-03~2022-01-09的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-01-09</time>
+        <a href="https://nodebe4.github.io/opinion/2022-01-09/Commodify/">
+          Commodify在2022-01-03~2022-01-09的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-01-08</time>
+        <a href="https://nodebe4.github.io/opinion/2022-01-08/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-01-03~2022-01-09的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-01-09/Commodify/">
+            前一篇：Commodify在2022-01-03~2022-01-09的言论
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-01-09/cnmediaproject/">
+            後一篇：Twitter @China Media Project: 2022-01-03~2022-01-09
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-01-09/Commodify/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-01-09/cnmediaproject/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-01-09/theoryofdoom/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-01-09/Commodify/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-01-09/Commodify/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-01-09/cnmediaproject/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-01-09/theoryofdoom/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-01-09/Commodify/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

@@ -1,0 +1,3046 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>The Apple v. Epic Decision – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+The Apple v. Epic Decision
+——
+" />
+    <meta property="og:description" content="
+The Apple v. Epic Decision
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="The Apple v. Epic Decision" />
+    <meta property="twitter:title" content="The Apple v. Epic Decision" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2021%2Fthe-apple-v-epic-decision%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2021/the-apple-v-epic-decision/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2021/the-apple-v-epic-decision/&text=The Apple v. Epic Decision&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2021/the-apple-v-epic-decision/&title=The Apple v. Epic Decision" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2021/the-apple-v-epic-decision/&title=The Apple v. Epic Decision" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=The Apple v. Epic Decision&body=
+The Apple v. Epic Decision
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2021/the-apple-v-epic-decision/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2021/the-apple-v-epic-decision/&title=The Apple v. Epic Decision&caption=
+The Apple v. Epic Decision
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=The Apple v. Epic Decision&url=https://stratechery.com/2021/the-apple-v-epic-decision/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>The Apple v. Epic Decision</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2021-09-13
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2021/the-apple-v-epic-decision/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1631538805000-->
+<p><a href="https://stratechery.com/2021/the-apple-v-epic-decision/">The Apple v. Epic Decision</a>
+——</p>
+
+<div>
+  <p>The vast majority of Judge Yvonne Gonzalez Rogers <a href="https://www.courtlistener.com/docket/17442392/812/epic-games-inc-v-apple-inc/">decision in Epic v. Apple</a> is both straight-forward and predictable; I wrote that the iPhone company would likely win <a href="https://stratechery.com/2020/apple-epic-and-the-app-store/">when the lawsuit was filed</a>, and argued that the law was firmly on Apple’s side in <a href="https://stratechery.com/2021/app-store-arguments/">App Store Arguments</a>. That is indeed what happened: Apple won, and it wasn’t particularly close; <a href="https://www.bloomberg.com/news/articles/2021-09-12/epic-games-files-notice-of-appeal-in-case-versus-apple">Epic has already filed an appeal</a>, but I doubt it will succeed.</p>
+  <p>What was surprising, though — and, frankly, a much more interesting question for the Court of Appeals — is that Judge Gonzales Rogers also <a href="https://www.courtlistener.com/docket/17442392/813/epic-games-inc-v-apple-inc/">issued an injunction banning Apple’s anti-steering provision</a>; while I do think Apple’s anti-steering provision is anti-competitive, this injunction is an odd outcome of this specific case, and a source of much confusion about what this decision was actually about.</p>
+  <h4 id="market-definition">Market Definition</h4>
+  <p>The most important part of any antitrust case is market definition. Epic argued there is a smartphone market consisting of iOS and Android, and then on iOS there is a distinct “iOS App Distribution” market, and downstream from that a “iOS In-App Payment Solutions” market. Apple, on the other hand, argued that all of digital gaming was a market, including not just Android but also consoles and PCs.</p>
+  <p>Judge Gonzales Rogers disagreed with both, defining the market as ‘mobile game transactions’. Epic’s argument was, as expected, dismissed out of hand; Supreme Court precedent is extremely skeptical that there are single brand markets, and the primary exception (<em>Eastman Kodak</em>) is only applicable if customers are unaware of aftermarket limitations at the time of purchase. In fact, customers are not only aware of Apple’s walled garden policies, but it is in fact a selling point for the iPhone, which means customers know what they are getting into when they choose the iPhone over Android.</p>
+  <p>In disagreeing with Apple, Judge Gonzales Rogers first ruled that digital games are a distinct market from general non-gaming apps; the list of reasons are worth noting:<sup id="rf1-7596"><a href="https://stratechery.com/2021/the-apple-v-epic-decision/#fn1-7596" title="The full exposition of this reasoning is on Page 61 of the ruling" rel="footnote">1</a></sup></p>
+  <blockquote>
+    <p>Having considered and reviewed the evidence, the Court concludes based on its earlier findings of facts that the appropriate submarket to consider is digital game transactions as compared to general non-gaming apps. Indeed, the Court concluded that there were nine indicia indicating a submarket for gaming apps as opposed to non-gaming apps: (i) the App Store’s business model is fundamentally built upon lucrative gaming transactions; (ii) gaming apps constitute a significant majority of the App Store’s revenues; (iii) both the gaming, mobile, and software industry as well as the general public recognize a distinction between gaming apps and non-gaming apps; (iv) gaming apps and their transactions exhibit peculiar characteristics and users; (v) game app developers often employ specialized technology inherent and unique to that industry in the development of their product; (vi) game apps further have distinct producers — game developers — that generally specialize in the production of only gaming apps; (vii) game apps are subject to distinct pricing structures as compared to other categories of apps; (viii) games and gaming transactions are sold by specialized vendors; and (ix) game apps are subject to unique and emerging competitive pressures, that differs in both kind and degree from the competition in the market for non-gaming apps.</p>
+  </blockquote>
+  <p>Next Judge Gonzales Rogers ruled that mobile gaming transactions were a distinct market from digital gaming transactions generally:</p>
+  <blockquote>
+    <p>As an initial matter, Apple’s own documents recognize mobile gaming as a submarket. One industry report describes mobile gaming as a “$100 billion industry by itself” that accounts for 59% of global gaming revenue. While PC and console gaming has grown more slowly, mobile gaming has experienced double-digit growth driven by “the free-to-play model” with in-app purchases. “Remarkably,” this rapid growth “has not significantly cannibalized revenues from the PC or console gaming markets,” which suggests that consumers are not necessarily substituting among them. Another industry report describes distinct user bases for mobile gaming: young children, teenage girls, and older adults are disproportionally likely to be mobile gamers only. Multiplatform gaming, by contrast, is driven by teenage boys and young adults under 25.</p>
+  </blockquote>
+  <p>Judge Gonzales Rogers cited further evidence about the extent to which mobile gaming business models differed from consoles and PCs, and Apple’s own expert evidence that showed only a small amount of cross-over in popular titles.</p>
+  <p>Ultimately, I found Judge Gonzales Rogers’ market definition reasonable, although Apple could argue on appeal that all of digital gaming should be included. What is more notable, though, is the strong distinction Judge Gonzales Rogers draws between games and non-gaming apps:</p>
+  <ul>
+    <li>First, given this market definition, this case was only about mobile games. That is good news for app developers who have their own antitrust complaints about Apple’s policies, and also a reason for Apple to not take this ruling as a complete endorsement of their policies.</li>
+    <li>Second, this ruling does suggest that Apple ought to — and now has the judicial imprimatur to — treat games differently than other apps.</li>
+  </ul>
+  <p>This is perhaps the most important takeaway from this decision; so much of the company’s App Store troubles have come from applying rules and regulations that are appropriate for games to other areas of the App Store that are totally different, and now the company has license to come up with two sets of rules for what, Judge Gonzales Rogers ruled, are two different markets.</p>
+  <h4 id="market-power">Market Power</h4>
+  <p>With that definition established Judge Gonzales Rogers ruled that Apple did not have monopoly power in ‘mobile gaming transactions’:</p>
+  <ul>
+    <li>Apple has between 52%-57% share of the mobile gaming transaction market, which is significant but not enough to be a <em>prima facie</em> case of monopoly power.<sup id="rf2-7596"><a href="https://stratechery.com/2021/the-apple-v-epic-decision/#fn2-7596" title="This is generally held to require at least 65% market share" rel="footnote">2</a></sup></li>
+    <li>There is no evidence of a restriction in output, i.e. the mobile gaming transaction market continues to grow, despite the fact there is evidence that Apple’s 30% commission rate is artificially high.</li>
+    <li>While iOS and Android have substantial advantages, there is some evidence of increased competition in the mobile gaming space in the form of the Nintendo Switch and cloud gaming services.</li>
+  </ul>
+  <p>Judge Gonzales Rogers did note:</p>
+  <blockquote>
+    <p>Given the totality of the record, and its underdeveloped state, while the Court can conclude that Apple exercises market power in the mobile gaming market, the Court cannot conclude that Apple’s market power reaches the status of monopoly power in the mobile gaming market. That said, the evidence does suggest that Apple is near the precipice of substantial market power, or monopoly power, with its considerable market share. Apple is only saved by the fact that its share is not higher, that competitors from related submarkets are making inroads into the mobile gaming submarket, and, perhaps, because plaintiff did not focus on this topic.</p>
+  </blockquote>
+  <p>This paragraph explains why Apple may wish to appeal the definition of the market specifically; it is an important consideration in the anti-steering injunction which is addressed below.</p>
+  <p>What is unaddressed by this ruling, and by antitrust law in general, is the reality that the mobile gaming transaction market is a duopoly; this is a problem with tech regulation generally, as I noted in <a href="https://stratechery.com/2020/united-states-v-google/">United States v. Google</a>:</p>
+  <blockquote>
+    <p>This gets at a larger problem in many tech markets: the tendency towards duopoly, which often lets one company cover for the other acting anti-competitively. In the case of Apple and Google:</p>
+    <ul>
+      <li>Android’s presence in the market means that Apple can act anticompetitively with its App Store policies (which Google is happy to ape).</li>
+      <li>Apple’s privacy focus justifies decisions like limiting trackers, restricting cookies, and cutting off in-app analytics; Google happily follows Apple’s lead, which impacts its advertising rivals far more than it does Google, improving their relative competitive position.</li>
+      <li>Apple earns billions of dollars giving its customers the best default search experience, even as that ensures that Google will remain the best search engine (and raises questions about the sincerity of Apple’s privacy rhetoric).</li>
+    </ul>
+    <p>This isn’t the only duopoly: Google and Facebook jointly dominate digital advertising, Microsoft and Google jointly dominate productivity applications, Microsoft and Amazon jointly dominate the public cloud, and Amazon and Google jointly dominate shopping searches. And, while all of these companies compete, those competitive forces have set nearly all of these duopolies into fairly stable positions that justify cooperation of the sort documented between Apple and Google, even as any one company alone is able to use its rival as justification for avoiding antitrust scrutiny.</p>
+  </blockquote>
+  <p>Judge Gonzales Rogers does note that it is unclear whether Google “could increase output in the short run in order to erode Apple’s market share”, but the real problem is that Google is content to simply share the market with Apple and earn their own supracompetitive commission rate.</p>
+  <h4 id="the-iap-system">The IAP System</h4>
+  <p>Most of the rest of Judge Gonzales Rogers’ decision balances Apple’s alleged anticompetitive conduct, including its ability to maintain outsized profit margins on the App Store because of the lack of competition for iOS App Stores and In-App Payment alternatives, with its procompetitive justifications, including enhanced security, intrabrand competition with Android-based phones, and its right to protect its investment in intellectual property.</p>
+  <p>The first two procompetitive justifications work as a set: Apple convinced Judge Gonzales Rogers that App Review provided an additional unique and valuable layer of security above-and-beyond operating system-based security measures, and furthermore, that the companies approach to app distribution and monetization was not only not detrimental to customers, but was actually a selling point for the iPhone (as noted above this also explains why the App Store was not covered by the <em>Eastman Kodak</em> exemption).</p>
+  <p>Apple also won on the intellectual property point, as expected, but this is where the decision starts to get a bit complicated. Judge Gonzales Rogers emphasized throughout the decision that Apple had a right to a commission on apps, but not necessarily 30%:</p>
+  <blockquote>
+    <p>First, and most significant, as discussed in the findings of facts, IAP is the method by which Apple collects its licensing fee from developers for the use of Apple’s intellectual property. Even in the absence of IAP, Apple could still charge a commission on developers. It would simply be more difficult for Apple to collect that commission.</p>
+    <p>Indeed, while the Court finds no basis for the specific rate chosen by Apple (i.e., the 30% rate) based on the record, the Court still concludes that Apple is entitled to some compensation for use of its intellectual property. As established in the prior sections, Apple is entitled to license its intellectual property for a fee, and to further guard against the uncompensated use of its intellectual property. The requirement of usage of IAP accomplishes this goal in the easiest and most direct manner, whereas Epic Games’ only proposed alternative would severely undermine it. Indeed, to the extent Epic Games suggests that Apple receive nothing from in-app purchases made on its platforms, such a remedy is inconsistent with prevailing intellectual property law.</p>
+  </blockquote>
+  <p>What is important to note is that this was not a complete win for Apple’s argument in court: there the company argued that the intellectual property for which the company deserved to be compensated was not simply the App Store and all of its attendant services, but also its entire stack of developer tools, from APIs to XCode and everything in-between. This argument <a href="https://marco.org/2021/06/03/developer-relations">enraged developers like Marco Arment</a>:</p>
+  <blockquote>
+    <p>Apple’s leaders <a href="https://www.apple.com/newsroom/2021/06/apple-developers-grow-app-store-ecosystem-billings-and-sales-by-24-percent-in-2020/">continue</a> <a href="https://www.theverge.com/2020/6/18/21296180/apple-hey-email-app-basecamp-rejection-response-controversy-antitrust-regulation#kmmNsE">to</a> <a href="https://www.imore.com/tim-cook-says-apple-would-still-collect-commission-alternative-app-store-payments">deny</a> <a href="https://www.macrumors.com/2021/05/21/tim-cook-epic-apple-trial/">developers</a> of two obvious truths:</p>
+    <ul>
+      <li>That our apps provide substantial value to iOS beyond the purchase commissions collected by Apple.</li>
+      <li>That any portion of our customers came to our apps from our own marketing or reputation, rather than the App Store…</li>
+    </ul>
+    <p>To bully and gaslight developers into thinking that we need to be kissing Apple’s feet for permitting us to add billions of dollars of value to their platform is not only greedy, stingy, and morally reprehensible, but deeply insulting.</p>
+  </blockquote>
+  <p>Judge Gonzales Rogers agreed:</p>
+  <blockquote>
+    <p>No one credibly disputes that Apple and third-party developers act symbiotically. Apple gives developers an audience and developers make Apple’s platform more attractive. Thus, Apple earns revenue each time a developer earns revenue creating a feedback loop. However, as revenues show, the ultimate effect appears to vary within developer groups depending on how a developer chooses to monetize its app.</p>
+    <p>Further, there is substantial evidence that Epic Games, and perhaps other larger developers, bring their own audience to iOS. Fortnite was already popular when it arrived on iOS and Apple sought exclusive Fortnite content to attract new users. That said, Epic Games wanted Apple’s user base, to which it did not have access, as it had already saturated its other options. Also, Match Group found that the majority of new users from the App Store organically searched for its apps (e.g., by typing in “Tinder”), while Apple contributed only 6% of discovery. For these developers, Apple’s role in generating in-app purchases was “nothing” but it continued to receive a 30% commission on in-app purchases.</p>
+  </blockquote>
+  <p>Therefore, the intellectual property to which Apple is entitled to receive a commission is more narrowly defined: IAP, which Judge Gonzales Rogers defined as such:</p>
+  <blockquote>
+    <p>Apple’s IAP or “in-app purchasing” system is a collection of software programs working together to perform several functions at once in the specific context of a transaction on a digital device. Apple uses the system to manage transactions, payments, and commissions within the App Store, but it also uses the system in other “stores” on iOS devices, such as “the iTunes Store on iOS, Apple Music, iCloud or Cloud services” and “physical retail stores”. The system is not something that is bought or sold…</p>
+    <p>More specifically, Apple’s IAP, as used here, is a secured system which tracks and verifies digital purchases, then determines and collects the appropriate commission on those transactions. In this regard, the system records all digital sales by identifying the customer and their payment methods, tracking and accumulating transactions; and conducts fraud-related checks. IAP simultaneously provides information to consumers so that they can view their purchase history, share subscriptions with family members and across devices, manage spending by implementing parental controls, and challenge and restore purchases.</p>
+    <p>Apple also intends the system to provide the customer with a single interface which can be used, and trusted, with respect to all purchases regardless of the developer. Importantly, the system has become more sophisticated over time, but the record does not detail the various versions…</p>
+    <p>Creating a seamless system to manage all its e-commerce was not an insignificant feat. Further, expanding it to address the scale of the growth required a substantial investment, not to mention the constant upgrading of the cellphones to allow for more sophisticated apps. Under current e-commerce models, even plaintiff’s expert conceded that similar functionalities for other digital companies were not separate products. Under all models, Apple would be entitled to a commission or licensing fee, even if IAP was optional. Payment processors have the ability to provide only one piece of the functionality. There is no evidence that they can provide the balance. Thus, the Court finds Epic Games has not shown that IAP is a separate and distinct product.</p>
+  </blockquote>
+  <p>Forgive the long excerpt, but understanding this definition is critical to understanding this case as a whole. What Gonzales Rogers is saying is that IAP is not the App Store app or the payment processing or any other discrete offering, but rather the totality of its digital e-commerce system. It is the intellectual property undergirding this IAP system that Apple is entitled to monetize in whatever reasonable way that it sees fit. And, to take this section full circle, not only does Apple have a right to monetize IAP, forcing developers to use IAP enhances its other two procompetitive justifications:</p>
+  <blockquote>
+    <p>If Apple could no longer require developers to use IAP for digital transactions, Apple’s competitive advantage on security issues, in the broad sense, would be undermined and ultimately could decrease consumer choice in terms of smartphone devices and hardware…to a lesser extent, the use of different payment solutions for each app may reduce the quality of the experience for some consumers by denying users the centralized option of managing a single account through IAP. This would harm both consumers and developers by weakening the quality of the App Store to those that value this centralized system.</p>
+  </blockquote>
+  <p>That was a lot of legalese, but this is the takeaway: IAP is distinct intellectual property from developer tools broadly; it is the entire set of app management tools, not just a payment processor; and Apple has legitimate competitive justification to require IAP be used for in-app purchases.</p>
+  <h4 id="the-anti-steering-injunction">The Anti-Steering Injunction</h4>
+  <p>I mentioned above that this was where the decision got a bit complicated; notice that I just used “IAP” and “in-app purchases” to represent two distinct concepts. Specifically, it seems clear that Gonzales Rogers has defined “IAP” to be Apple’s overall commerce system, while “in-app purchases” are purchases made in an app. In other words, Apple is justified in requiring IAP for in-app purchases.</p>
+  <p>This is the essential bit of context for making sense of the only part of the case that Apple lost: the injunction against the App Store’s anti-steering provisions, which states:</p>
+  <blockquote>
+    <p>Apple Inc. and its officers, agents, servants, employees, and any person in active concert or participation with them (“Apple”), are hereby permanently restrained and enjoined from prohibiting developers from (i) including in their apps and their metadata buttons, external links, or other calls to action that direct customers to purchasing mechanisms, in addition to In-App Purchasing and (ii) communicating with customers through points of contact obtained voluntarily from customers through account registration within the app.</p>
+  </blockquote>
+  <p>As noted above, Gonzales Rogers maintained throughout the decision that while Apple was certainly entitled to a commission, the appropriate rate was likely lower than 30%; here she argues that the App Store’s anti-steering provisions made the correct rate impossible to discover:</p>
+  <blockquote>
+    <p>Apple’s own records reveal that two of the top three “most effective marketing activities to keep existing users coming back” in the United States, and therefore increasing revenues, are “push notifications” and “email outreach”. Apple not only controls those avenues but acts anticompetitively by blocking developers from using them to Apple’s own unrestrained gain. As explained before, Apple uses anti-steering provisions prohibiting apps from including “buttons, external links, or other calls to action that direct customers to purchasing mechanisms other than in-app purchase,” and from “encourag[ing] users to use a purchasing method other than in-app purchase” either “within the app or through communications sent to points of contact obtained from account registrations within the app (like email or text).” Thus, developers cannot communicate lower prices on other platforms either within iOS or to users obtained from the iOS platform. Apple’s general policy also prevents developers from informing users of its 30% commission.</p>
+    <p>These provisions can be severed without any impact on the integrity of the ecosystem and is tethered to legislative policy. As an initial matter, courts have long recognized that commercial speech, which includes price advertising, “performs an indispensable role in the allocation of resources in a free enterprise system.” Restrictions on price information “serve to increase the difficulty of discovering the lowest cost seller . . . and [reduce] the incentive to price competitively[.]” Thus, “where consumers have the benefit of price advertising, retail prices often are dramatically lower than they would be without advertising.” Antitrust scholars have recognized the same: “The less information a consumer has about relative price and quality, the easier it is for market participants to charge supracompetitive prices or provide inferior quality.”</p>
+  </blockquote>
+  <p>Notice the references to “other platforms”; those are the web, Android, or, in cases like Fortnite, other consoles. Judge Gonzales Rogers’ argument is not that Apple has to allow different payment options within an app — as noted in the previous section, that is Apple’s right to control, and even mandate — but rather that Apple can’t stop a developer from telling users that they can go outside the app to another platform to acquire digital content.<sup id="rf3-7596"><a href="https://stratechery.com/2021/the-apple-v-epic-decision/#fn3-7596" title="This is admittedly unclear from the &lt;a href=&quot;https://www.courtlistener.com/docket/17442392/813/epic-games-inc-v-apple-inc/&quot;&gt;one page injunction&lt;/a&gt;, so I can see why some observers are arguing that &lt;a href=&quot;https://www.theverge.com/2021/9/10/22667161/app-store-epic-ruling-difference-button-external-link&quot;&gt;the injunction allows alternative in-app purchase flows&lt;/a&gt;; however, this argument simply doesn&#8217;t make sense in the context of the entire ruling, which makes clear that alternative platforms are websites and other operating systems" rel="footnote">3</a></sup></p>
+  <p>The most obvious way this might have an impact is through developers offering lower prices if users are willing to pay on the web. Apple could theoretically counter this by requiring developers to offer the same price everywhere, but it seems unlikely that would pass muster with Judge Gonzales Rogers. Note, though, that IAP is not going anywhere: external links can sit next to IAP, but they can’t replace it, and they can never be as well-integrated as Apple’s offering is.</p>
+  <p>Back to the decision:</p>
+  <blockquote>
+    <p>Thus, although Epic Games has not proven a present antitrust violation, the anti-steering provisions “threaten[] an incipient violation of an antitrust law” by preventing informed choice among users of the iOS platform. Moreover, the anti-steering provisions violate the “policy [and] spirit” of these laws because anti-steering has the effect of preventing substitution among platforms for transactions. Apple has not offered any justification for the actions other than to argue entitlement. Where its actions harm competition and result in supracompetitive pricing and profits, Apple is wrong. Accordingly, the harm from the anti-steering provisions outweighs its benefits, and the provision violates the UCL under the balancing test.</p>
+  </blockquote>
+  <p>The “UCL” is California’s Unfair Competition Law, which is broader than U.S. antitrust law, and includes provisions for “incipient violations” and “unfair conduct”; this is the legal underpinning for Judge Gonzales Rogers’ injunction. This is also the other part of the ruling that Apple may appeal: the company already argued in court that Judge Gonzales Rogers should not consider violations under the UCL separately from violations under federal antitrust law, and while Judge Gonzales Rogers took particularly scathing interest in Apple’s anti-steering provisions during CEO Tim Cook’s testimony, they were not a major focus of Epic’s case. It’s also unclear on what grounds a case about “mobile game transactions” resulted in wholesale changes to the entire App Store.<sup id="rf4-7596"><a href="https://stratechery.com/2021/the-apple-v-epic-decision/#fn4-7596" title="Not that I&#8217;m complaining!" rel="footnote">4</a></sup> Moreover, the Supreme Court recently ruled in favor of anti-steering provisions in a case about American Express’s policies; Gonzales Rogers made a good argument that this situation is different, but that is open to interpretation. And, of course, UCL is a California law, but Gonzales Rogers said the injunction applied nationwide.</p>
+  <h4 id="apples-next-move">Apple’s Next Move</h4>
+  <p>To reiterate what I said at the beginning, this was a near total victory for Apple, and a devastating defeat for Epic. Not only did the Fortnite-maker not gain the opportunity to build their own app store or have their own in-app purchases, Judge Gonzales Rogers also ruled that Apple was justified in revoking the development license for not just Fortnite but all of Epic’s subsidiaries, including Unreal Engine. That means that Epic, at least for now, can’t work on its licensable engine for other developers.</p>
+  <p>More broadly, while some of Apple’s claims were curtailed, its App Store model was by-and-large found to be legal (at least for games). Even the injunction against anti-steering made clear that Apple can, if it wishes, insist that apps include its IAP system alongside links to another platform (i.e. the web). Might Apple start insisting that Netflix and Spotify re-add IAP at the same time they put in links to their websites?</p>
+  <p>I think that would be unwise, for two reasons.</p>
+  <p>First, while antitrust cases are decided by the courts, it is important to remember that the question at hand is about statute interpretation, not constitutionality. That means that Congress can simply change the statutes, or, in the specific case of the App Store, pass laws explicitly undoing Apple’s approach. If that happens this case is moot, which is to say that Apple would do well to appease would-be regulators, instead of doubling-down on its current policies.</p>
+  <p>Second, not only did this case demonstrate that games are by far the biggest revenue drivers in the App Store (around 75% of revenue, and 98% of in-app purchases), but Judge Gonzales Rogers’ decision made the case that the games market is distinct from the broader app market. This is an opportunity that Apple should embrace to treat games differently.</p>
+  <p>This would result in a two-prong strategy: first, expand on Apple’s recent <a href="https://stratechery.com/2021/apples-app-store-concession-why-this-is-a-big-deal-devil-in-the-details/">settlement with the Japan Fair Trade Commission</a> to make clear that all non-game apps (not just “Reader” apps) can link to external websites for payments, effectively ending the anti-steering provision for non-game apps, while second, appeal the anti-steering injunction in this case. Should the company win the latter it can both fully deliver on its commitment to App Store security in terms of games, making all purchases run through IAP, even as loosening the reins on non-game apps both relieves regulatory pressure and, more importantly, <a href="https://stratechery.com/2021/app-store-arguments/">expands the economic possibilities of the app economy</a>.</p>
+  <p>This is biased advice, to be sure; it’s exactly what I’ve been begging Apple to do for years. The risk of taking so long to change course is decisions like this: Apple won on almost every count but one, but that one has the potential to cause Apple a fair bit of trouble. Games have always been a vector for scams and abuse; it would have been much better (and profitable) for Apple to keep tight control of the category while giving ground elsewhere. Now it has to deal with a blanket injunction and critics who still don’t think it is enough.</p>
+  <hr class="footnotes" />
+  <ol class="footnotes" style="list-style-type:decimal">
+    <li id="fn1-7596">
+      <p>The full exposition of this reasoning is on Page 61 of the ruling <a href="https://stratechery.com/2021/the-apple-v-epic-decision/#rf1-7596" class="backlink" title="Return to footnote 1.">↩</a></p>
+    </li>
+    <li id="fn2-7596">
+      <p>This is generally held to require at least 65% market share <a href="https://stratechery.com/2021/the-apple-v-epic-decision/#rf2-7596" class="backlink" title="Return to footnote 2.">↩</a></p>
+    </li>
+    <li id="fn3-7596">
+      <p>This is admittedly unclear from the <a href="https://www.courtlistener.com/docket/17442392/813/epic-games-inc-v-apple-inc/">one page injunction</a>, so I can see why some observers are arguing that <a href="https://www.theverge.com/2021/9/10/22667161/app-store-epic-ruling-difference-button-external-link">the injunction allows alternative in-app purchase flows</a>; however, this argument simply doesn’t make sense in the context of the entire ruling, which makes clear that alternative platforms are websites and other operating systems <a href="https://stratechery.com/2021/the-apple-v-epic-decision/#rf3-7596" class="backlink" title="Return to footnote 3.">↩</a></p>
+    </li>
+    <li id="fn4-7596">
+      <p>Not that I’m complaining! <a href="https://stratechery.com/2021/the-apple-v-epic-decision/#rf4-7596" class="backlink" title="Return to footnote 4.">↩</a></p>
+    </li>
+  </ol>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2021-10-06</time>
+        <a href="https://nodebe4.github.io/opinion/2021-10-06/Facebook-Political-Problems/">
+          Facebook Political Problems
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-09-30</time>
+        <a href="https://nodebe4.github.io/opinion/2021-09-30/Cloudflare-s-Disruption/">
+          Cloudflare’s Disruption
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-09-07</time>
+        <a href="https://nodebe4.github.io/opinion/2021-09-07/Tech-Epochs-and-the-App-Store-Trap/">
+          Tech Epochs and the App Store Trap
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-09-01</time>
+        <a href="https://nodebe4.github.io/opinion/2021-09-01/Regulators-and-Reality/">
+          Regulators and Reality
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2021-09-12/%E4%BB%80%E9%BA%BC%E6%99%82%E5%80%99%E9%83%BD%E6%98%AF%E6%9C%80%E5%8D%B1%E9%9A%AA%E7%9A%84%E6%99%82%E5%80%99/">
+            前一篇：什麼時候都是最危險的時候
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2021-09-13/%E6%B0%B4%E7%94%A2%E9%A4%8A%E6%AE%96%E7%9A%84%E6%95%B8%E4%BD%8D%E8%BD%89%E5%9E%8B%E8%88%87AI%E6%87%89%E7%94%A8-%E6%99%BA%E6%85%A7%E8%BE%B2%E6%A5%AD/">
+            後一篇：水產養殖的數位轉型與AI應用 | 智慧農業
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2021-09-12/%E4%BB%80%E9%BA%BC%E6%99%82%E5%80%99%E9%83%BD%E6%98%AF%E6%9C%80%E5%8D%B1%E9%9A%AA%E7%9A%84%E6%99%82%E5%80%99/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2021-09-13/%E6%B0%B4%E7%94%A2%E9%A4%8A%E6%AE%96%E7%9A%84%E6%95%B8%E4%BD%8D%E8%BD%89%E5%9E%8B%E8%88%87AI%E6%87%89%E7%94%A8-%E6%99%BA%E6%85%A7%E8%BE%B2%E6%A5%AD/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2021-09-30/Cloudflare-s-Disruption/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2021-09-07/Tech-Epochs-and-the-App-Store-Trap/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2021-09-12/%E4%BB%80%E9%BA%BC%E6%99%82%E5%80%99%E9%83%BD%E6%98%AF%E6%9C%80%E5%8D%B1%E9%9A%AA%E7%9A%84%E6%99%82%E5%80%99/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2021-09-13/%E6%B0%B4%E7%94%A2%E9%A4%8A%E6%AE%96%E7%9A%84%E6%95%B8%E4%BD%8D%E8%BD%89%E5%9E%8B%E8%88%87AI%E6%87%89%E7%94%A8-%E6%99%BA%E6%85%A7%E8%BE%B2%E6%A5%AD/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2021-09-30/Cloudflare-s-Disruption/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2021-09-07/Tech-Epochs-and-the-App-Store-Trap/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

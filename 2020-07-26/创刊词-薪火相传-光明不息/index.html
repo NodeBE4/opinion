@@ -1,0 +1,934 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>创刊词：薪火相传，光明不息 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+创刊词：薪火相传，光明不息
+——
+" />
+    <meta property="og:description" content="
+创刊词：薪火相传，光明不息
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="创刊词：薪火相传，光明不息" />
+    <meta property="twitter:title" content="创刊词：薪火相传，光明不息" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2F2049post.wordpress.com%2F2020%2F07%2F26%2Fv1info%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://2049post.wordpress.com/2020/07/26/v1info/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://2049post.wordpress.com/2020/07/26/v1info/&text=创刊词：薪火相传，光明不息&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://2049post.wordpress.com/2020/07/26/v1info/&title=创刊词：薪火相传，光明不息" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://2049post.wordpress.com/2020/07/26/v1info/&title=创刊词：薪火相传，光明不息" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=创刊词：薪火相传，光明不息&body=
+创刊词：薪火相传，光明不息
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://2049post.wordpress.com/2020/07/26/v1info/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://2049post.wordpress.com/2020/07/26/v1info/&title=创刊词：薪火相传，光明不息&caption=
+创刊词：薪火相传，光明不息
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=创刊词：薪火相传，光明不息&url=https://2049post.wordpress.com/2020/07/26/v1info/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>创刊词：薪火相传，光明不息</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2020-07-26
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#火光">
+          火光
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://2049post.wordpress.com/2020/07/26/v1info/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="火光的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#火光 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1595790037000-->
+<p><a href="https://2049post.wordpress.com/2020/07/26/v1info/">创刊词：薪火相传，光明不息</a>
+——</p>
+
+<div>
+  <blockquote class="wp-block-quote">
+    <p><em>In that black or luminous square</em></p>
+    <p><em>life lives, life dreams, life suffers.</em></p>
+    <p>—— <em>Charles Baudelaire</em></p>
+  </blockquote>
+  <p>寻找光明之路，道阻且长。沿途而上，我们目睹谎言与荒诞，感受恐惧与死亡。从广场到赛博空间，理想主义的火苗忽明忽暗，毫无疑问，我们背负着一种命运，一种为了追求自由决不妥协的命运。</p>
+  <p>暗室幽深，薪火相传，光明不息。接过<a href="https://terminus2049.github.io/">端点星</a>和<a href="https://2049bbs.github.io/">2049BBS</a>的炬火，我们愿成为那一点“火光”。</p>
+  <p>用这理想主义的“火光”，照亮宇宙的一个角落，成为幽暗中摸索行人的一个休憩之所，保存下一个接力的火种。即使身处黑暗，希望我们也能习惯光明；终有一日，我们将在没有黑暗的地方相见。</p>
+  <h3 id="section">本刊宗旨</h3>
+  <ol>
+    <li>本刊为一份时政、文化、技术类综合性刊物。</li>
+    <li>本刊的原则是独立自主理性批判。</li>
+    <li>本刊倡导科学精神和人文精神。</li>
+    <li>本刊追求不被审查的知识和不被扭曲的真相。</li>
+    <li>本刊鼓励好奇心和想象力。</li>
+    <li>本刊发布依托新媒体平台和匿名技术。</li>
+    <li>本刊目前是非盈利项目。</li>
+  </ol>
+  <h3 id="section-1">刊名来源</h3>
+  <p>美国作家雷·布拉德伯里（Ray Bradbury）的反乌托邦小说<a href="https://b-ok.cc/book/5341446/691b61">《华氏451》</a>中，主人公蒙塔格（原为一名负责焚书的消防员）逃亡荒野遇到流亡者时的情形：</p>
+  <blockquote class="wp-block-quote">
+    <p><em>半个钟点后，冷飕飕的，他小心翼翼走在铁道上，充分意识到他全身上下，他的脸孔，嘴巴、眼睛壅塞着黑暗，他的耳朵壅塞着声响，他的双腿被荨麻扎得刺痒，他看见了前方的火光。</em></p>
+    <p><em>火光忽隐忽现，像只眨巴眨巴的眼睛。他停步，生怕自己呼口气就会吹熄了那火光。但是火光停在原处，他警惕地从远处慢慢挨近。他花了足足一刻钟才挨到它的近旁，然后他停下来，从掩体后望着它。那小小的闪动，那又白又红的颜色，那是一团陌生的火，因为它对他的意义大异往昔。</em></p>
+    <p><em>它并不是在焚烧。它是在散发温暖。</em></p>
+  </blockquote>
+  <h3 id="section-2">创刊起源</h3>
+  <p>端点星（Terminus），来源于艾萨克·阿西莫夫的科幻小说《银河帝国》，是离银河中心最远的行星，也是帝国的“异端”自我放逐之处。而在浩渺的互联网星空里，在那堵高大森严、铺满审查电网的“防火墙”之外，也有一个<a href="https://terminus2049.github.io/">端点星</a>；它借助 Github，收容那些被“放逐”的墙内信息——那些微信、微博等中国大陆平台上，为“帝国”的审查机制所不容的文章。端点星的建设者们，<a href="https://terminus2049.xyz/news-report/20200720-initium-media-report/">“不是高调的异议者，也不是张扬的行动者，更不是义无反顾的斗士”</a>。他们是守护着言论自由火种的普通人，日复一日，默默地坚持着个人化的对数字极权的反抗。</p>
+  <p>2020年4月19日，由于备份新冠疫情有关的文章，端点星志愿者陈玫、蔡伟及蔡的女友小唐被北京警方带走；经过50多天的失联和“监视居住”，以“寻衅滋事”被正式起诉。至发刊日，<a href="https://twitter.com/voiceof404">陈玫和蔡伟仍然被关押在北京市朝阳区看守所，辩护律师被阻止会见，官派律师拒绝和家属沟通</a>。</p>
+  <p>端点星的小项目之一，2049bbs，就像端点星上的市民广场。这是一个“自由人的精神角落，一个无需手机号和邮箱即可发言的论坛”。论坛站长兼一号用户<a href="https://2049bbs.github.io/member/1.html">小二</a>，端点星案后亦杳无音讯。2020年7月21日，2049bbs在运转925天后，骤然关站。截至关站，共有4956个注册ID，6325个发帖。</p>
+  <p>我们，都是某种意义上的“被放逐者”，因为怀着对自由的向往和对人文精神的认同而相遇相知。火焰被扑灭的瞬间，无数火星被激起。尽管端点星被重重围困，端点星志愿者们曾用心呵护的理想主义的火种，早已被更多的被放逐者所承接，带往广袤宇宙的各个方向。那火种，或许微弱，或许伤痕累累，但它星星点点，蕴含生机，随时随地，都能涅槃重生。</p>
+  <p><strong>端点星，永不灭。</strong></p>
+  <blockquote class="wp-block-quote">
+    <p><em>有一种笨鸟名叫凤凰，每隔几百年它就筑起一堆柴火自焚。它一定是人类的一等表亲。但是每回它自焚后，又会从灰烬中跳出来，让自己重生。</em></p>
+    <p><em>看来我们也在做同样的事，一遍又一遍，但是我们有一样要命的本事，是凤凰所没有的。我们知道自己做过的蠢事。我们知道自己千年来做过的所有蠢事，而只要我们知道这一点，并且随时把它搁在我们看得见的地方，总有一天我们会停止堆筑柴薪，停止跳入火中。我们会偶然找到几个记得每一个世代的人。</em></p>
+    <p><em>——《华氏451》</em></p>
+  </blockquote>
+  <hr class="wp-block-separator" />
+  <p>声明：本刊所发表的原创内容版权都归属火光杂志，基于公益原则，在表明内容来源的情况下鼓励非盈利转载，否则本刊保留追诉侵权行为的权利。</p>
+  <nav class="wp-block-navigation">
+    <ul class="wp-block-navigation__container">
+      <li class="wp-block-navigation-link"><a class="wp-block-navigation-link__content" href="https://2049post.wordpress.com/v1index/"><span class="wp-block-navigation-link__label">返回创刊号目录</span></a></li>
+    </ul>
+  </nav>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#火光 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2020-12-31/%E7%AB%AF%E7%82%B9%E6%98%9F%E6%A1%88%E6%B6%88%E6%81%AF%E6%B1%87%E6%80%BB/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2020-07-24/%E5%85%AC%E6%B0%91%E5%AE%9E%E9%AA%8C%E5%AE%A4-%E5%BE%AE%E4%BF%A1%E7%9B%91%E6%8E%A7%E8%AF%A0%E9%87%8A/">最早</a>--</span>
+    
+      <li>
+        <time>2020-07-31</time>
+        <a href="https://nodebe4.github.io/opinion/2020-07-31/Shadowsocks-%E7%AE%80%E5%8F%B2/">
+          Shadowsocks 简史
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-07-31</time>
+        <a href="https://nodebe4.github.io/opinion/2020-07-31/%E6%96%B0%E6%97%B6%E4%BB%A3-%E6%96%B0%E5%AF%B9%E8%81%94/">
+          新时代，新对联
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-07-26</time>
+        <a href="https://nodebe4.github.io/opinion/2020-07-26/%E6%88%91%E4%BB%AC%E7%9A%84%E6%9C%AA%E6%9D%A5%E5%9C%A8%E5%93%AA%E9%87%8C/">
+          我们的未来在哪里？
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-07-26</time>
+        <a href="https://nodebe4.github.io/opinion/2020-07-26/%E5%BE%81%E7%A8%BF%E5%90%AF%E4%BA%8B/">
+          征稿启事
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2020-07-26/%E6%88%91%E4%BB%AC%E7%9A%84%E6%9C%AA%E6%9D%A5%E5%9C%A8%E5%93%AA%E9%87%8C/">
+            前一篇：我们的未来在哪里？
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2020-07-26/%E7%A6%81%E5%BF%8C%E5%8F%B2%E8%A9%B1-%E9%8C%A2%E5%AD%B8%E6%A3%AE-%E6%B5%B7%E6%AD%B8-%E7%9C%9F%E7%9B%B8/">
+            後一篇：禁忌史話：錢學森「海歸」真相
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2020-07-26/%E6%88%91%E4%BB%AC%E7%9A%84%E6%9C%AA%E6%9D%A5%E5%9C%A8%E5%93%AA%E9%87%8C/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2020-07-26/%E7%A6%81%E5%BF%8C%E5%8F%B2%E8%A9%B1-%E9%8C%A2%E5%AD%B8%E6%A3%AE-%E6%B5%B7%E6%AD%B8-%E7%9C%9F%E7%9B%B8/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2020-07-31/%E6%96%B0%E6%97%B6%E4%BB%A3-%E6%96%B0%E5%AF%B9%E8%81%94/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2020-07-26/%E6%88%91%E4%BB%AC%E7%9A%84%E6%9C%AA%E6%9D%A5%E5%9C%A8%E5%93%AA%E9%87%8C/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2020-07-26/%E6%88%91%E4%BB%AC%E7%9A%84%E6%9C%AA%E6%9D%A5%E5%9C%A8%E5%93%AA%E9%87%8C/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2020-07-26/%E7%A6%81%E5%BF%8C%E5%8F%B2%E8%A9%B1-%E9%8C%A2%E5%AD%B8%E6%A3%AE-%E6%B5%B7%E6%AD%B8-%E7%9C%9F%E7%9B%B8/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<火光>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2020-07-31/%E6%96%B0%E6%97%B6%E4%BB%A3-%E6%96%B0%E5%AF%B9%E8%81%94/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<火光>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2020-07-26/%E6%88%91%E4%BB%AC%E7%9A%84%E6%9C%AA%E6%9D%A5%E5%9C%A8%E5%93%AA%E9%87%8C/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

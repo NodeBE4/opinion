@@ -1,0 +1,1035 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>对话美国移民 ：天涯何处无芳草 | 围炉 · CU – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+对话美国移民 ：天涯何处无芳草 | 围炉 · CU
+——
+" />
+    <meta property="og:description" content="
+对话美国移民 ：天涯何处无芳草 | 围炉 · CU
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="对话美国移民 ：天涯何处无芳草 | 围炉 · CU" />
+    <meta property="twitter:title" content="对话美国移民 ：天涯何处无芳草 | 围炉 · CU" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fmatters.news%2F%40weiluflame%2F%25E5%25AF%25B9%25E8%25AF%259D%25E7%25BE%258E%25E5%259B%25BD%25E7%25A7%25BB%25E6%25B0%2591-%25E5%25A4%25A9%25E6%25B6%25AF%25E4%25BD%2595%25E5%25A4%2584%25E6%2597%25A0%25E8%258A%25B3%25E8%258D%2589-%25E5%259B%25B4%25E7%2582%2589-cu-bafybeiamxzcu7zt3rg2nksmvl3qqny4rrtfptvr5man5jssr3c2jwytpoi" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://matters.news/@weiluflame/%E5%AF%B9%E8%AF%9D%E7%BE%8E%E5%9B%BD%E7%A7%BB%E6%B0%91-%E5%A4%A9%E6%B6%AF%E4%BD%95%E5%A4%84%E6%97%A0%E8%8A%B3%E8%8D%89-%E5%9B%B4%E7%82%89-cu-bafybeiamxzcu7zt3rg2nksmvl3qqny4rrtfptvr5man5jssr3c2jwytpoi" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://matters.news/@weiluflame/%E5%AF%B9%E8%AF%9D%E7%BE%8E%E5%9B%BD%E7%A7%BB%E6%B0%91-%E5%A4%A9%E6%B6%AF%E4%BD%95%E5%A4%84%E6%97%A0%E8%8A%B3%E8%8D%89-%E5%9B%B4%E7%82%89-cu-bafybeiamxzcu7zt3rg2nksmvl3qqny4rrtfptvr5man5jssr3c2jwytpoi&text=对话美国移民 ：天涯何处无芳草 | 围炉 · CU&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://matters.news/@weiluflame/%E5%AF%B9%E8%AF%9D%E7%BE%8E%E5%9B%BD%E7%A7%BB%E6%B0%91-%E5%A4%A9%E6%B6%AF%E4%BD%95%E5%A4%84%E6%97%A0%E8%8A%B3%E8%8D%89-%E5%9B%B4%E7%82%89-cu-bafybeiamxzcu7zt3rg2nksmvl3qqny4rrtfptvr5man5jssr3c2jwytpoi&title=对话美国移民 ：天涯何处无芳草 | 围炉 · CU" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://matters.news/@weiluflame/%E5%AF%B9%E8%AF%9D%E7%BE%8E%E5%9B%BD%E7%A7%BB%E6%B0%91-%E5%A4%A9%E6%B6%AF%E4%BD%95%E5%A4%84%E6%97%A0%E8%8A%B3%E8%8D%89-%E5%9B%B4%E7%82%89-cu-bafybeiamxzcu7zt3rg2nksmvl3qqny4rrtfptvr5man5jssr3c2jwytpoi&title=对话美国移民 ：天涯何处无芳草 | 围炉 · CU" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=对话美国移民 ：天涯何处无芳草 | 围炉 · CU&body=
+对话美国移民 ：天涯何处无芳草 | 围炉 · CU
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://matters.news/@weiluflame/%E5%AF%B9%E8%AF%9D%E7%BE%8E%E5%9B%BD%E7%A7%BB%E6%B0%91-%E5%A4%A9%E6%B6%AF%E4%BD%95%E5%A4%84%E6%97%A0%E8%8A%B3%E8%8D%89-%E5%9B%B4%E7%82%89-cu-bafybeiamxzcu7zt3rg2nksmvl3qqny4rrtfptvr5man5jssr3c2jwytpoi" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://matters.news/@weiluflame/%E5%AF%B9%E8%AF%9D%E7%BE%8E%E5%9B%BD%E7%A7%BB%E6%B0%91-%E5%A4%A9%E6%B6%AF%E4%BD%95%E5%A4%84%E6%97%A0%E8%8A%B3%E8%8D%89-%E5%9B%B4%E7%82%89-cu-bafybeiamxzcu7zt3rg2nksmvl3qqny4rrtfptvr5man5jssr3c2jwytpoi&title=对话美国移民 ：天涯何处无芳草 | 围炉 · CU&caption=
+对话美国移民 ：天涯何处无芳草 | 围炉 · CU
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=对话美国移民 ：天涯何处无芳草 | 围炉 · CU&url=https://matters.news/@weiluflame/%E5%AF%B9%E8%AF%9D%E7%BE%8E%E5%9B%BD%E7%A7%BB%E6%B0%91-%E5%A4%A9%E6%B6%AF%E4%BD%95%E5%A4%84%E6%97%A0%E8%8A%B3%E8%8D%89-%E5%9B%B4%E7%82%89-cu-bafybeiamxzcu7zt3rg2nksmvl3qqny4rrtfptvr5man5jssr3c2jwytpoi" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>对话美国移民 ：天涯何处无芳草 | 围炉 · CU</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2023-11-13
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: 围炉weiluflame</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#围炉">
+          围炉
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://matters.news/@weiluflame/%E5%AF%B9%E8%AF%9D%E7%BE%8E%E5%9B%BD%E7%A7%BB%E6%B0%91-%E5%A4%A9%E6%B6%AF%E4%BD%95%E5%A4%84%E6%97%A0%E8%8A%B3%E8%8D%89-%E5%9B%B4%E7%82%89-cu-bafybeiamxzcu7zt3rg2nksmvl3qqny4rrtfptvr5man5jssr3c2jwytpoi" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="围炉的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#围炉 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1699924691000-->
+<p><a href="https://matters.news/@weiluflame/%E5%AF%B9%E8%AF%9D%E7%BE%8E%E5%9B%BD%E7%A7%BB%E6%B0%91-%E5%A4%A9%E6%B6%AF%E4%BD%95%E5%A4%84%E6%97%A0%E8%8A%B3%E8%8D%89-%E5%9B%B4%E7%82%89-cu-bafybeiamxzcu7zt3rg2nksmvl3qqny4rrtfptvr5man5jssr3c2jwytpoi">对话美国移民 ：天涯何处无芳草 | 围炉 · CU</a>
+——</p>
+
+<div>
+  <h2 id="section"><strong>前言</strong></h2>
+  <p>随着海内外的连接逐渐紧密，也随着国内中产阶级经济水平的提升，“出国”已经不再是镜花水月。当更多的人开始把“出国留学”或“移民”纳入自己或者孩子的生涯规划之中，当更多的人有能力迈出国门，等待他们的又会是什么呢？这一期围炉对话，CU围炉有幸邀请到了两位美国华裔教授。他们是土生土长的中国人，也是自己家族内中国到美国的第一代移民。他们各自在自己的领域都有所成就，都选择了迈出国门，最后，也都选择了留在“他乡”。他们是因何而去往美国？美国的生活到底是什么样子？作为华人，他们如何融入当地社区？虽然这短短的几千字采访无法勾勒出过去几十年在美岁月的全部，但是，它至少可以呈现一部分他们的故事。</p>
+  <p><br /></p>
+  <p>受访者：</p>
+  <blockquote>
+    <p>平女士 ，江苏南通人。毕业于中山大学社会学系，香港中文大学博士。现于美国华盛顿州Spokane Falls Community College社会学系任终身教授。是华盛顿州亚裔与太平洋美国人事务委员会代表斯波坎郡的委员。热爱用文字记录所思所想，喜欢打羽毛球和太极拳。</p>
+  </blockquote>
+  <blockquote>
+    <p>周先生 ，江西人。毕业于江西大学计算机系，香港城市大学博士。现担任美国华盛顿州Eastern Washington University商科副院长。酷爱打羽毛球，现担任Spokane羽毛球协会主席。</p>
+  </blockquote>
+  <p></p>
+  <blockquote>
+    <p>炉 = 吴梓漩</p>
+    <p>平 = 平女士</p>
+    <p>周 = 周先生</p>
+  </blockquote>
+  <p></p>
+  <h2 id="part-i--"><strong>Part I : 源起</strong></h2>
+  <p></p>
+  <p><strong>炉 ｜ </strong>在计划来美国之前，您对自己未来的规划是什么样的呢？</p>
+  <p><strong>平 ｜</strong> 那个时候就是想着去读研究生，想着能在社会学专业上学到东西。我是86级本科生，那年中山大学社会学刚恢复没多久。当时我有个本科生的老师，他在香港中文大学读研究生。他鼓励我去深造，做了我的推荐人，于是我就去了香港中文大学社会学读研究生。那个时候没有什么出国的想法。<strong>我是在读硕士、博士期间有出国的想法的。</strong>当时读的书比较“criticalthinking about China“, 这样使我无形中对美国、对西方社会，“look up”, 就是往上看，或者说穿了可以用“崇拜“这个词。也就是无形中被引向了崇洋的思想。</p>
+  <p><strong>周 ｜ 其实我本身是没有什么规划的。</strong>96年去读书也是因为Rosie她妈妈先去了香港中文大学。我当时在中山大学教书，那个时候要求有博士学位，所以我才去读博士。当时香港城市大学信息系统（Information System）项目是很强的，所以我去了那里。97或者98年，我去亚利桑那大学（University of Arizona）做交换生，在那里待了不到一个学期。当时在香港城市大学有几个美国的教授。他们把我的简历放到了网上。因为信息系统在当年非常热门, 所以就有几个学校邀请我去申请（博士学位）。于是我去美国做了面试, 选择了现在的学校（Eastern Washington University）。一开始并没有什么期待，只是想增加自己的阅历, 本想着待五、六年就差不多了，因此也没有什么规划。</p>
+  <figure class="image">
+<img src="https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/e566f06d-0b8a-4f47-8887-7a60e51b66b7.png/public" referrerpolicy="no-referrer" />    <figcaption></figcaption>
+  </figure>
+  <p></p>
+  <p><strong>炉 ｜ </strong>您在移民之前来过美国吗？后来您是怎么产生了移民美国的想法的呢？</p>
+  <p><strong>平 ｜</strong> 95年我在香港中文大学读硕士的时候，有一个学期，我做了国际交换生，去了夏威夷的檀香山（Honolulu）。我自己跑去洛杉矶、芝加哥、华盛顿DC这几个城市玩了一趟。那个时候，中文大学很多理工科的研究生都以美国为目标。香港就像一个跳板，在那里拿到学位之后就去读美国的博士后，或者去美国找工作。那可是95年96年！<strong>在90年代的后期，去美国还是一个比较热门的事情，在香港读书的每一个人都会受这种想法、潮流的影响。</strong>我的几个室友都打算去美国，感觉去美国是一件自然而然的事情。不在乎前面是什么，反正就是去闯一闯。我也很向往美国的大自然环境。我当时很想住小木屋，更喜欢原始天然的居住环境，觉得当时的中国比较物质化。或许当时对于中国的看法比较盲目吧。还有一个想法是当时中国只能生一个孩子，太局限了。但这些都是现在的反思，以前的自己都没有想这些问题。<strong>所以我把它（移民的决定）归因于在研究生阶段一种无形的对于西方（比如做学问的方式）的崇拜。</strong>但现在的亲身经历也让我知道了美国社会并不是原来以为的那样。</p>
+  <p><strong>周 ｜</strong> 我第一次来美国是去亚利桑那大学做交换生。来美国工作其实不是我主动申请的。当时信息系统的博士相当少，全世界都在招。香港城市大学的教授就帮我把东西放到网上，给了我一个推荐信。所以我没有计划。美国大学给我offer之后，我就想着出来增加一下经验和经历，到时候还回到中山大学。<strong>来了美国之后就面临一个问题：孩子在美国，所以回中国上学都存在困难。</strong>于是就说“再看看，再看看”，就留下来了。</p>
+  <figure class="image">
+<img src="https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/b7d37ce3-d3d7-45d4-b4a3-ead98a8936be.jpeg/public" referrerpolicy="no-referrer" />    <figcaption></figcaption>
+  </figure>
+  <p></p>
+  <h2 id="part-ii--"><strong>Part II : 美国生活</strong></h2>
+  <p><strong>炉 ｜</strong> 您真正来到美国之后，有什么落差/惊喜？是否有实现之前对美国抱持的期待和设想？</p>
+  <p><strong>平 ｜ </strong>当时来的时候，不知道自己找工作会有这么大的难度。来了以后才知道，社会学学位的人想要在这里找工作是很艰难的。斯波坎市是一个中等规模的城市，有四十几万人。Rosie爸爸在四年制大学教书。我当时也投了一些工作，都是没有回音或者直接被拒绝。我记得当时也有南部的一个大学要我，但是这就意味着我要离开我先生去南部州，这不太现实。来美国的时候我还没有完成博士学位，所以当时专注于写博士论文，写完以后回香港答辩，那个时候就有了Rosie（我的小女儿）。当时生第二个孩子也挺高兴的，想着大儿子就有一个妹妹了，但与此同时，我也还是想着找工作。毕竟我有博士学位，因此没有想做一个housewife（家庭主妇）。其实这是我对家庭主妇的偏见。<strong>这是后面这些年反思的一个结果：在中国大学的教育不会让我很欣赏全职妈妈那种生活方式。</strong></p>
+  <p>当时找工作不容易。其实我还回中大工作过一段时间。2004年，中大社会学系给了我副教授的职位。我在香港中文大学的时候，于中国最好的社会学期刊上发表了很多学术文章，所以中大比较认可我。我当时抱着还不到三岁的Rosie到了中山大学。我先生和儿子留在美国。家庭分在两个国家比较困难，并且Rosie的身体不是很好，所以我把中山大学的工作辞去了，带着Rosie回到了美国。那是一个非常痛苦的决定。当时在中大教2002级学生性别社会学。那些同学很喜欢我的教学方式，所以他们都很依依不舍。这些都是落差。<strong>我在中国可以发挥社会学学位的作用，回美国以后却又要面临找工作的困难。</strong>找工作也是一波三折。现在的这个终身教职是用了三次去申请的。我原本对社区大学这种两年制学校并不特别向往，但是在美国找工作的经历让我感受到：<strong>找到一份教职真的太不容易了，特别是一个中国人在美国教社会学这种情况。</strong>有很多中国人在美国教计算机或者商科, 但是社会学跟其他的学科有很大不同，社会学需要去offend，得罪别人的思想，触动一些很痛苦、你必须反思的话题，会让人感觉自己的灵魂在经历拷问。所以，在美国教社会学的过程中，我碰得头破血流。我在中国可以有很好的生活，可以有很好的声望。中山大学在中国也是最好的大学之一，而社区大学都是被在四年制大学教书的华人教授们看不起的。<strong>不过，在社区大学，我看到了更丰富的社会层次，我的学生也教了我很多东西</strong>，所以我觉得，有得有失的老话是有道理的，我拥有了一些跟四年制大学很不一样的角度。</p>
+  <p><strong>周 ｜ </strong>以前对美国不是很了解，98年作为交换生待了一个学期，自己也去旅游了一下。当时对美国的基础设施和住宿条件还是印象深刻的。97年我去瑞士开会，看了那边的风光、建筑，后来也去过挪威、德国开会，算是对国外的生活方式和环境有了一些了解。我本身是比较中庸，比较随遇而安的。我在一个地方就可以看到这个地方的长处，因此并没有说一定要到哪个地方去。没来美国之前，我也有一些预期在里面，但也知道肯定有一些取舍，毕竟存在语言上和文化上的问题。好在我研究的是技术方向，所以还是以搞技术、自己的研究和教学为主，因此一些文化上的东西和工作没有太大的关系。当然如今这么多年了，做了多年的系主任和副院长，对这边的文化也了解得多了一点，感到<strong>有人的地方都差不多。</strong></p>
+  <p><strong>炉  |  </strong>在融入当地社会的过程中，有什么印象深刻的经历？</p>
+  <p><strong>平 ｜ </strong>因为我讲英语是有口音的，而大学里大部分都是当地学生。他们中的很多都没有被有色人种老师教过，再加上他们听不太懂我的英语口音，所以（我）对他们造成了一个很大的冲击。可能学校里的学生有有色人种（peopleof color）, 但是亚洲人还是很少的。这个地方是白人为主的，只有10%是非白人。很多当地高中，假如一个学校有1600个学生，可能只有2个是黑人学生，2个是拉美裔（hispanic）学生，1个亚洲学生，也就是说高中四年他们就只见过这几个peopleof color。当时去教书，压力是很大的，因为根本没教过书，又怀着Rosie。学期末的教学测评里面，有一个开放性问题：你喜欢这个老师哪一点，或者你觉得ta该如何提高ta的教学。<strong>有很多学生写道，“哎呀这个老师，听不懂她在说什么！”这很让我心碎。我在香港中文大学的时候，香港同学都说，“平，你的英语讲得很好听啊，有种伦敦腔”。</strong>我当时去夏威夷做交换生, 也是要经过选拔的，所以我没觉得自己的英语这么糟糕。我是看了学生的反馈才知道原来自己的英语这么难以理解。但是班里有一个越战老兵说：“啊，我真的没想到我的社会学老师是一个亚洲人，一个中国人。”其实今天说起来还是有些感动。还有一个学生是位六十多岁的老人，他跟他的家人说：“我有一个中国人老师”（Ihave a teacher she is a Chinese）。<strong>他们给了我信心：我作为一个中国人也可以教社会学，尽管确实很艰难。</strong>还有一个女学生，我还记得她的名字，Dorothy，她在学期结束的时候还给了我一个thank-youcard, 她说：“谢谢你啊，平博士, 谢谢你对我的教学。” 她说她在女儿两岁的时候就离婚了，我看到这个就忍不住流泪。这个学生的生活是很难的。</p>
+  <p>这些社区大学的学生，很多人都看不起他们，都说因为他们没有远大的目标才去社区大学，<strong>但我想说的是，善良的人在哪里都有，他们教会了我很多东西，“天涯何处无芳草”，只要他们想学，所有的人都是可塑之才。</strong>跟当时二十年前从广州来的自己相比，我确实变了很多。学校里面也在教育如何实践平等教学（practice equity in teaching），所以我的思想像淘米一样被淘掉了很多原来的观念。对我来说这是一种重生。</p>
+  <p><strong>炉 ｜</strong> 工作之外，您在当地社区有什么印象深刻的经历吗？</p>
+  <p><strong>平 ｜ </strong>我有两个孩子，当时都要求他们要会读会写中文作文，这在我们这个小城市是很罕见的。之前做当地中文学校校长的时候，我把很多精力都投入到当地中文教育里面。我还做过当地中国协会的会长，任务是弘扬中国传统文化，比如庆祝新年。在两个孩子还小的时候，<strong>我为整个华人社区投入了很多的时间和精力。</strong></p>
+  <p>等到我儿子上大学的时候，我自己的身份也在变，从移民（immigrant）到入美国籍（2015年）。我参加了全国改善有色人种协会（National Association of the Advancement of the Colored People）. 这是两位社会学家帮助黑人提升社会地位的组织。那个时候我就更加关注社会正义（social justice），而不仅是传播中国文化了。当时当地出了一个事：一个黑人被一个白人从背后三十英尺（即9米）的地方打死了，白人说是正当防卫（self-defense）, 陪审团判白人无罪。这件事情惹怒了当地的黑人社区，也让不是黑人的有色人种（people of colors） 感到不公正。当地成立了斯波坎市社区反种族歧视组织（Spokane Community Against Racism/SCAR）。2020年的时候，George Floyd 被活活跪压而死。Rosie当时很同情黑人有色人种的境遇，她和她哥哥就在地上画自己的标牌。她哥哥画的是George Floyd的头像，脖子上围着一条龙，花了三四个小时画好的。我也写了一个标牌, “Asian Americans support BLM”（“亚裔美国人支持黑人生命权益运动”)。我们一起去参加斯波坎市几千人的集会（rally）, 大家一起集会游行，rally for George Floyd。当地华人社区有个四百多人的微信群，在群里我就发现，华人社区很反感我们去参加游行，不想让我们去支持黑人权益运动。<strong>这就是我们华人社区里面的态度：一种反黑情绪。</strong>我在这个社区参与的方式，肯定跟我学的专业有关系，我会很关注这些东西。社会学有两种，一种是be neutral, 意即不要表态，只是做研究，让数据说话；还有一种是社会活动家（social activist），有一个自己的立场，知道哪一边是自己该去支持的，什么时候是不应该沉默的，因为沉默就是支持另外一边。对我来说这个黑人的惨死是没有什么可以争论的，但当地的许多华人觉得George Floyd活该，因为他是前罪犯。但是我觉得就算他是前罪犯，也不能像掐死一只鸡一样掐死他，可以通过法律的手段啊！这种普遍的冷漠让我开始认识华人社区的新面目。后来2021年发生了亚特兰大枪击事件（Georgia State Atlanta Shooting）, 六名亚洲妇女被白人青年拿冲锋枪打死了。在当地，Rosie和她的同龄人，还有我和我的同龄人，组织了一个烛光纪念会，纪念在亚特兰大的仇亚受害者。我们只有几天的准备时间。他们是礼拜二被枪杀的，礼拜六我们就开展当地的集会了。当时去的有四百多人，也去了一些华人，没有人在公共微信空间正面分享什么，却有人写了一个笔记（journal），吐槽在寒风中发表演说的人讲英语的亚洲口音！<strong>我就在思考，中国教育到底在教育什么样的学习尖子。我们的学习尖子对黑人没有同情心，对社会正义以“不想太政治化（political）”的原因选择回避。</strong>我觉得中国的教育是有值得反思的地方的。所以我不仅是在融入社区，我也在尝试反思。<strong>我们有义务反思自己的文化带给自己的局限性。</strong></p>
+  <p>耶鲁大学有一个学英语语言文学的华裔美国人, Ailin Huang（黄爱玲）。当时她在一个较富裕的中产阶级（higher-middle-class）小镇看到很多华人在George Floyd的事情上选择沉默，她就写了“致华裔美国人社区的一封信”（A Letter to Chinese American Community），呼吁大家能够在George Floyd 的事情上去支持他。她说自己的父母平常不让她跟黑人交朋友，不让她参加为黑人伸张社会正义的事情，因为“黑人在不好的社区里长大”。反黑情绪（Anti-blackness）在华人社区是很普遍的现象。Ailin Huang呼吁我们应该跟其他有色人种一起支持黑人。因为黑人对美国的公民权利（civil rights）做出了很多贡献，我们不应该忘本。这篇文章招致了很多她父母辈的反感，因为他们感觉被刺到要害了。有一些公众号就回骂Ailin Huang。她当时是大三学生。后来很多同龄人也从支持她到弃她而去。一开始同龄人以为是一件很时髦的事情，但这种支持并不是真心的，<strong>后来因为过程艰难，就都弃她而去。</strong>她就此抑郁了。</p>
+  <p>所以，<strong>我们这样的经历在美国并不孤独。</strong>虽然在我们这里，我感到很孤独，但是对于全国来说，还有别的Ailin Huang。这个是一个很大的自我挣扎（struggle for myself）。我自己的心理健康（mental health）都会受到影响。然而，我没有办法强迫其他人和我有同样的想法。我觉得我的社会学训练就会让我走上这条路，但是其他人却未必。但是Rosie就很理解。她后来成为了他们高中黑人学生会（Black Student Union）的副主席（vice president），但她没有一滴黑人的血。他们学校当时有黑人质疑为什么一个亚洲人来领导他们的社团（club）。当时那个社团管理人（club advisor）说，“<strong>Rosie用自己的心赢得了大家的选票。</strong>不是一定要黑人才能当黑人社团的副社长的。如果有西班牙裔（hispanic） 出现了问题，Rosie也会为他们呼吁的。<strong>这就是真正的团结（solidarity），就是以社会正义为核心点。哪一个群体出了事情，我们都应该为他们去呼吁。当你自己社区里的人都对你翻白眼，攻击你，说你胳膊肘往外拐时，你会失去他们，你会很孤独，但这就是solidarity的代价。</strong>” 这就是那个社团管理人的话。他的话给了我很多鼓励和启发。他说，“Ping因此失去了很多社区的熟人和朋友, 但这就是solidarity的代价。当你想要跟黑人solidarity的时候，你就要做好准备，你就会有这样的下场。” 我的“下场”并不好。<strong>但是这就是我的价值观。如果要因此改变我的价值观，也会同样艰难。这就是我的挣扎。</strong></p>
+  <figure class="image">
+<img src="https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/69a70946-9582-4c61-ac49-e1dd9201ee0f.jpeg/public" referrerpolicy="no-referrer" />    <figcaption></figcaption>
+  </figure>
+  <h2 id="part-iii--"><strong>Part III : 致后浪</strong></h2>
+  <p><strong>炉 ｜ </strong>现在很多年轻人都有出国读书或者生活的想法。用一个前段时间的网络词汇就是“润”。您对现在这些想出国/移民的年轻人有什么想说的吗？</p>
+  <p><strong>平 ｜ </strong>我没资格给别人建议, 每个人都有每个人的价值观，<strong>很多东西只有来了才能体会到。</strong>我是因为来了这里才知道了一点美国是怎么回事，比如美国的教育体制是怎么样的。</p>
+  <p>美国是一个最大的殖民者，它可以让这么多人都向往它，这本身就很成功，是一种在精神上把大家掌控得比较好的表现。但是我也相信中国的崛起会让美国有很多思考的东西。我接触的SCAR组织里的美国年轻人，是很推崇中国的社会主义道路的。他们是真的在思考：中国为什么让美国年轻人有点崇拜呢？他们很崇拜毛泽东，因为他说“一切帝国主义都是纸老虎”。美国就是帝国主义，现在居然有一个国家说我不买帝国主义的帐，<strong>这对他们来说也是一个很大的精神解放吧。</strong>他们受够了这里富人当总统的模式，所以当看到在中国出身平民的人有机会当国家主席，他们觉得中国是一个有希望的社会。然而中国很多想“润”的人不会想到这一点。我想告诉他们，其实在美国有一帮很认真地研究古巴、中国这种走社会主义道路的国家的人。美国的确是允许各种思想发展的。敢于去跟政府唱反调的组织（比如反战组织）是合法地存在的。<strong>美国的好处就在于有敢于批评它的人，而这些人是一批真正的爱美国的人。</strong>如果来美国，我认为应该尽量成为这样的人。还有，<strong>从中国来的人都不能回避的一个问题是身份的挣扎。“我们到底是谁”</strong>对Rosie这一代是一个更加明显的问题。<strong>这也是那些要“润”的人需要思考的问题。</strong></p>
+  <figure class="image">
+<img src="https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/28f7415a-c9ca-401c-8713-72b2cf298d8e.jpeg/public" referrerpolicy="no-referrer" />    <figcaption></figcaption>
+  </figure>
+  <p><strong>周 ｜ </strong>在十年前，我也有相当一部分同学的小孩是在美国读的书。我在的这个大学里面也有不少中国留学生。对移民这个问题，主要看小孩子的性格方面。出国留学，肯定是一种锻炼，大多数留学生，经过这种锻炼之后，对社会的看法，对父母的感恩，以及对生活的态度，是有不同的。如果你是来读大学的，那么很容易就可以融入到这边，因为毕竟（年龄）小。美国先发展了这么多年，你可以来充分利用这边的有利条件。但它不是以中国人为主的国家，所以你的生活方式或者诉求跟在中国就不一样了。（关于“润”不“润”去美国的）利和弊相当于，你从小县城出来读完大学，是想回到小县城还是去广州。<strong>小县城里你生活方便，关系众多，也有更好的机会被提拔。在广州你可能就是芸芸众生中的一个，但是你可能感受到广州大环境的好处</strong>，比如小孩教育方面之类的。这个我感觉是（与移民美国问题）类似的。不同的一点就是，毕竟政治环境和种族环境有不同。因此还是要看人。</p>
+  <figure class="image">
+<img src="https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/2bc41e03-3c69-47e8-9001-c90b7bdac66a.jpeg/public" referrerpolicy="no-referrer" />    <figcaption></figcaption>
+  </figure>
+  <p></p>
+  <h2 id="section-1"><strong>后记</strong></h2>
+  <p>“出国留学”、“旅居异国”、“移民国外”，这些词让人浮想联翩。它们代表着去往新的环境，面对新的事物，交往新的人。<strong>崭新的事物总是令人兴奋、向往，但平老师和周老师却揭开了“崭新”背后的五味杂陈。</strong>如何在不那么包容的社区里找到自己的位置？如何在人云亦云的潮流中坚守自己的信仰？移民的决定可能是深思熟虑，也可能是情非得已，但，放下“该”与“不该”的劝诫去看，<strong>无论何处，我们需要的都是面对生活的魄力与勇气和相信“天涯何处无芳草”的豁达与善良。</strong></p>
+  <p></p>
+  <p></p>
+  <p>采访｜吴梓漩</p>
+  <p>撰稿｜吴梓漩</p>
+  <p>审稿｜童不四</p>
+  <p>图｜源自网络</p>
+  <p>编辑 | 吴骏泓</p>
+  <p>围炉 (ID：weilu_flame)</p>
+  <p>文中图片未经同意，请勿用作其他用途</p>
+  <p>欢迎您在文章下方评论，与围炉团队和其他读者交流讨论</p>
+  <p>欲了解围炉、阅读更多文章，请关注本公众号并在公众号页面点击相应菜单栏目</p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#围炉 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2024-10-03/%E5%AF%B9%E8%AF%9D%E5%A5%B3%E6%80%A7%E6%B0%91%E5%B7%A5-%E5%9C%A8%E5%9F%8E%E5%B8%82%E9%87%8C-%E5%9C%A8%E5%B7%A5%E4%BD%9C%E5%92%8C%E5%AE%B6%E5%BA%AD%E4%B9%8B%E9%97%B4-%E5%9B%B4%E7%82%89-CU/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2021-03-23/%E5%AF%B9%E8%AF%9D%E9%BB%84%E6%B3%93%E7%BF%94-%E8%87%B4%E5%8A%9B%E4%BA%8E%E5%9F%B9%E8%82%B2%E4%B8%96%E7%95%8C%E5%85%AC%E6%B0%91%E7%9A%84%E4%B8%AD%E5%8D%97%E5%B1%8B%E5%88%9B%E5%A7%8B%E4%BA%BA-%E8%AE%B2%E5%BA%A7%E6%91%98%E8%A6%81/">最早</a>--</span>
+    
+    
+      <li>
+        <time>2024-10-03</time>
+        <a href="https://nodebe4.github.io/opinion/2024-10-03/%E5%AF%B9%E8%AF%9D%E5%A5%B3%E6%80%A7%E6%B0%91%E5%B7%A5-%E5%9C%A8%E5%9F%8E%E5%B8%82%E9%87%8C-%E5%9C%A8%E5%B7%A5%E4%BD%9C%E5%92%8C%E5%AE%B6%E5%BA%AD%E4%B9%8B%E9%97%B4-%E5%9B%B4%E7%82%89-CU/">
+          对话女性民工：在城市里，在工作和家庭之间。｜围炉•CU
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-10-15</time>
+        <a href="https://nodebe4.github.io/opinion/2023-10-15/%E5%9B%B4%E7%82%89%E5%B0%8F%E9%85%92%E9%A6%86%E4%B8%A8Ep.02-%E4%BA%BA%E7%BE%A4-%E7%88%B1%E4%B8%8E%E5%AD%A4%E7%8B%AC/">
+          围炉小酒馆丨Ep.02 人群、爱与孤独
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-10-15</time>
+        <a href="https://nodebe4.github.io/opinion/2023-10-15/%E6%88%91%E7%9A%84%E7%94%9F%E6%B4%BB%E6%98%AF%E4%B8%80%E6%9D%A1%E6%B2%B3-%E4%B8%80%E5%88%87%E9%83%BD%E6%98%AF%E6%9C%AC%E8%B4%A8%E5%92%8C%E5%BD%93%E4%B8%8B-%E5%9B%B4%E7%82%89%E5%85%B1%E8%AF%BB%E4%BC%9A-%E6%82%89%E8%BE%BE%E5%A4%9A/">
+          我的生活是一条河，一切都是本质和当下 | 围炉共读会《悉达多》
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2023-11-13/Integrating-multi-omics-data-to-understand-ovarian/">
+            前一篇：Integrating multi-omics data to understand ovarian cancer initiation and recurrence
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2023-11-15/%E5%81%8F%E9%84%89-%E6%95%99%E8%82%B2%E8%AE%93%E6%88%91%E5%80%91%E9%83%BD%E5%8F%AF%E4%BB%A5%E4%B8%8D%E4%B8%80%E6%A8%A3/">
+            後一篇：偏鄉，教育讓我們都可以不一樣
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2023-11-13/Integrating-multi-omics-data-to-understand-ovarian/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2023-11-15/%E5%81%8F%E9%84%89-%E6%95%99%E8%82%B2%E8%AE%93%E6%88%91%E5%80%91%E9%83%BD%E5%8F%AF%E4%BB%A5%E4%B8%8D%E4%B8%80%E6%A8%A3/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2024-10-03/%E5%AF%B9%E8%AF%9D%E5%A5%B3%E6%80%A7%E6%B0%91%E5%B7%A5-%E5%9C%A8%E5%9F%8E%E5%B8%82%E9%87%8C-%E5%9C%A8%E5%B7%A5%E4%BD%9C%E5%92%8C%E5%AE%B6%E5%BA%AD%E4%B9%8B%E9%97%B4-%E5%9B%B4%E7%82%89-CU/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2023-10-15/%E5%9B%B4%E7%82%89%E5%B0%8F%E9%85%92%E9%A6%86%E4%B8%A8Ep.02-%E4%BA%BA%E7%BE%A4-%E7%88%B1%E4%B8%8E%E5%AD%A4%E7%8B%AC/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2023-11-13/Integrating-multi-omics-data-to-understand-ovarian/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2023-11-15/%E5%81%8F%E9%84%89-%E6%95%99%E8%82%B2%E8%AE%93%E6%88%91%E5%80%91%E9%83%BD%E5%8F%AF%E4%BB%A5%E4%B8%8D%E4%B8%80%E6%A8%A3/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<围炉>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2024-10-03/%E5%AF%B9%E8%AF%9D%E5%A5%B3%E6%80%A7%E6%B0%91%E5%B7%A5-%E5%9C%A8%E5%9F%8E%E5%B8%82%E9%87%8C-%E5%9C%A8%E5%B7%A5%E4%BD%9C%E5%92%8C%E5%AE%B6%E5%BA%AD%E4%B9%8B%E9%97%B4-%E5%9B%B4%E7%82%89-CU/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<围炉>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2023-10-15/%E5%9B%B4%E7%82%89%E5%B0%8F%E9%85%92%E9%A6%86%E4%B8%A8Ep.02-%E4%BA%BA%E7%BE%A4-%E7%88%B1%E4%B8%8E%E5%AD%A4%E7%8B%AC/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

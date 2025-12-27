@@ -1,0 +1,875 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>We Are All Algorithms Now – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+We Are All Algorithms Now
+——
+" />
+    <meta property="og:description" content="
+We Are All Algorithms Now
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="We Are All Algorithms Now" />
+    <meta property="twitter:title" content="We Are All Algorithms Now" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fandrewsullivan.substack.com%2Fp%2Fwe-are-all-algorithms-now" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://andrewsullivan.substack.com/p/we-are-all-algorithms-now" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://andrewsullivan.substack.com/p/we-are-all-algorithms-now&text=We Are All Algorithms Now&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://andrewsullivan.substack.com/p/we-are-all-algorithms-now&title=We Are All Algorithms Now" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://andrewsullivan.substack.com/p/we-are-all-algorithms-now&title=We Are All Algorithms Now" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=We Are All Algorithms Now&body=
+We Are All Algorithms Now
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://andrewsullivan.substack.com/p/we-are-all-algorithms-now" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://andrewsullivan.substack.com/p/we-are-all-algorithms-now&title=We Are All Algorithms Now&caption=
+We Are All Algorithms Now
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=We Are All Algorithms Now&url=https://andrewsullivan.substack.com/p/we-are-all-algorithms-now" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>We Are All Algorithms Now</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2020-09-18
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Andrew Sullivan</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#The Weekly Dish">
+          The Weekly Dish
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://andrewsullivan.substack.com/p/we-are-all-algorithms-now" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="The Weekly Dish的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#The Weekly Dish 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1600448437000-->
+<p><a href="https://andrewsullivan.substack.com/p/we-are-all-algorithms-now">We Are All Algorithms Now</a>
+——</p>
+
+<div>
+<a class="image-link image2 image2-897-1456" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbfed5ca9-cfd0-41f1-bd94-43c8c1ddcd32_4200x2588.jpeg"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbfed5ca9-cfd0-41f1-bd94-43c8c1ddcd32_4200x2588.jpeg" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/bfed5ca9-cfd0-41f1-bd94-43c8c1ddcd32_4200x2588.jpeg&quot;,&quot;height&quot;:897,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:6084265,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null}" alt="" />      <style>          a.image2.image-link.image2-897-1456 {            padding-bottom: 61.60714285714286%;            padding-bottom: min(61.60714285714286%, 897px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-897-1456 img {            max-width: 1456px;            max-height: 897px;          }        </style>
+</a>  <p>I’ve never felt this way about an election before. For my entire adult life, campaigns could be exhilarating, tedious, crowded with incident or laden with foreboding, but you always felt that, at some point, there would be a resolution. The votes would be counted; the exit polls parsed; a decision made; and both sides would respect it. The one time that didn’t happen — in 2000 — I felt for the first time an inkling of what I feel in every part of my psyche now: a sense that the system itself was buckling.</p>
+  <p>The proximate and primary reason for this gut-churning anxiety in 2020 is Donald Trump. I hope I don’t need to repeat the man’s constant expressions of contempt for the stability and integrity of our liberal democracy, and his abdication of any responsibility for it. He dismissed the 2016 election as a massive fraud — even when he won! If he loses, he will do all he can to delegitimize the entire system, and his cult-like grip on his base means he will at least partially succeed. If a third of the country genuinely regards the election as a fraud, and the new president as a usurper, then we are indeed teetering toward democratic illegitimacy and the collapse of the system.</p>
+  <p>Could Trump incite violence or refuse to leave? Of course he could. He has said he will. These words, from more than a year ago now, should never be forgotten: “I can tell you I have the support of the police, the support of the military, the support of the Bikers for Trump — I have the tough people, but they don’t play it tough — until they go to a certain point, and then it would be very bad, very bad.”</p>
+  <p>The second, lesser reason is the madness on the left. Most actual Democrats are sane, and they nominated a sane old centrist whom I will gladly vote for. But too many in left-media questioned the legitimacy of Trump’s presidency from 2016 onwards, citing Russia and voter suppression. And the constant delegitimization of liberal democracy by left intellectuals has taken a toll almost as heavy as Trump’s. Every major corporation and cultural institution — from Google to the New York Times — now pays tribute to an extremist ideology, critical race theory, that despises liberal democracy as a mere mask for the brutal, unending oppression of non-whites.</p>
+  <p>An Electoral College victory for Trump, if he loses the popular vote again, would, in this new elite consensus, prove beyond doubt the centuries’ long grip of “white supremacy”. Some are already calling such a victory illegitimate, even though it would be completely constitutional, under the rules everyone has agreed to. The sickening street violence that the far left has downplayed, and permitted to run riot in major cities could be a mere taste of what is to come — along with ever-stronger white nationalist gangs instigating or responding in kind. (Trump’s toleration of this dangerous right-extremism in the past four years is as unforgivable as the left’s excuses for murderous violence.) But the upshot is the same: we will be lucky if the country doesn’t erupt in large-scale civil violence by the end of all this.</p>
+  <p>And the reason this dystopian scenario is so credible is not just the fault of these political actors. It’s ours too — thanks to the impact of social media. I think we’ve under-estimated just how deep the psychological damage has been in the Trump era — rewiring the minds of everyone, including your faithful correspondent, in ways that make democratic discourse harder and harder and harder to model. The new Netflix documentary, <em><a href="https://www.netflix.com/title/81254224">The Social Dilemma</a></em>, is, for that reason, a true must-watch. It doesn’t say anything shockingly new, but it persuasively weaves together a whole bunch of points to reveal just how deeply and thoroughly fucked we are. Seriously, take a look.</p>
+  <p>The doc effectively shows how the information system necessary for democratic deliberation has, in effect, been jerry-rigged in the last decade to prevent any reasoning at all. It’s all about the feels, and the irrationality, and the moment, which is why Trump is so perfectly attuned to his time. And what’s smart about the documentary is that it shows no evil genius behind this unspooling, no sinister plot deliberately to destroy our system of government. One of the more basic motives in American life — making money — is all you now need, the documentary shows, to detonate American democracy at its foundation. </p>
+  <p>For Facebook and Google and Instagram and Twitter, the business goal quickly became maximizing and monetizing human attention via addictive dopamine hits. Attention, they meticulously found, is correlated with emotional intensity, outrage, shock and provocation. Give artificial intelligence this simple knowledge about what distracts and compels humans, let the algorithms do their work, and the profits snowball. The cumulative effect — and it’s always in the same incendiary direction — is mass detachment from reality, and immersion in tribal fever.</p>
+  <p>With each passing second online, news stories, graphic videos, incendiary quotes, and outrages demonstrate their stunning utility to advertisers as attention seizers, are endlessly tweaked and finessed by AI to be even more effective, and thereby prime our brains for more of the same. They literally restructure our minds. They pickle us in propaganda. They use sophisticated psychological models to trap, beguile, outrage, and prompt us to seek more of the same. </p>
+  <p>Alternative views, unpleasant facts, discomforting arguments, contextualizing statistics, are, with ever-greater efficiency, filtered out of what our eyes can see and our minds absorb. And what we therefore believe becomes more fixed, axiomatic, self-reinforcing, and self-affirming. We become siloed into two affective tribes, with dehumanization of each other deepening with every news cycle. And we know what happens when dehumanization through social media is fully exploited. Ask the Rohingya of Burma, whose horrifying persecution was a function almost entirely of a Facebook disinformation campaign, seeded by a few in government and then unleashed by the masses in a spasm of genocidal violence. (Jamelle Bouie this morning <a href="https://www.nytimes.com/2020/09/18/opinion/facebook-democracy.html?action=click&amp;module=Opinion&amp;pgtype=Homepage">notes</a> a similar phenomenon right now in Ethiopia as well.)</p>
+  <p>We think we are more media-savvy than the Burmese, unused to any real media for decades. And we probably are. But think for a second about the staggering popularity and increasing penetration of the QAnon conspiracy theory — so completely bonkers it defies belief. Remind yourself that hefty chunks of our society still insist that Covid19 is a hoax, perpetrated for the sake of social control. Re-read <a href="https://harpers.org/archive/1964/11/the-paranoid-style-in-american-politics/">Richard Hofstadter</a>. Remember how vast numbers of white liberals drastically shifted their view of America — almost overnight — from a flawed but vibrant multiracial democracy to a version of apartheid South Africa because of a single video of a brutal arrest and murder. This week, I watched videos of people literally burning Harry Potter books, like latter-day Nazis, in the cause of transgender liberation. It’s safe to say, I think, that many of these people have lost their minds — just by staying online. And they not only think they’re perfectly sane; they think they’re heroes.</p>
+  <p>And online is increasingly <a href="https://nymag.com/intelligencer/2016/09/andrew-sullivan-my-distraction-sickness-and-yours.html">where people live</a>. My average screen time this past week was close to ten hours a day. Yes, a lot of that is work-related. But the idea that I have any real conscious life outside this virtual portal is delusional. And if you live in such a madhouse all the time, you will become mad. You don’t go down a rabbit-hole; your mind increasingly is the rabbit hole — rewired that way by algorithmic practice. And you cannot get out, unless you fight the algorithms to a draw, or manage to exert superhuman discipline and end social media use altogether.</p>
+  <p>But the thing about algorithms and artificial intelligence is that they don’t rest, they have no human flaws, they exploit every weakness we have, and have <em>already</em> taken over. This is not a future dystopia in which some kind of AI robot takes power and kills us all. It is a dystopia already here — burrowed into our minds, literally disabling the basic mental tools required for democracy to work at all. </p>
+  <p>If you watch video after video of excessive police force against suspects, for example, and your viewing habits are then reinforced by algorithms so you see no countervailing examples, your view about the prevalence of such excessive force will change, regardless of objective reality. A <a href="https://link.springer.com/article/10.1007/s11109-020-09646-x">new study</a> shows how this happens. Watching the videos, even more than reading text about them, raises the percentage of white liberals who believe the cops frequently or always use excessive force <a href="https://twitter.com/ZachG932/status/1306101406613430277">by around 20 percentage points</a>. The actual <a href="https://www.nationalreview.com/2017/09/police-violence-against-black-men-rare-heres-what-data-actually-say/">data</a> are irrelevant. The BLM movement this summer was less a racial reckoning, as we’re constantly lectured, than a moment of web-induced mass hysteria.</p>
+  <p>This works both ways of course. I’m fully aware that my watching countless videos of BLM protestors attacking cops, or assaulting bystanders, or hurling racist abuse will equally distort my understanding of the ubiquity of such incidents, and their salience. I can easily become more upset by what is happening in my DC neighborhood when I’m over 500 miles away in Provincetown than if I were right there. And YouTube is literally and consciously designed to make sure I don’t see the other side, I don’t see the days and days of civic quiet and tedium that balance all this out. The key to web success is the extraction of context — down to shaving seconds off a video to remove crucial, complicating information. So we’re all algorithms now. </p>
+  <p>In the past, we might have turned to more reliable media for context and perspective. But the journalists and reporters and editors who are supposed to perform this function are human as well. And they are perhaps the ones most trapped in the social media hellscape. You can read them on Twitter, where they live and and posture and rank themselves, or on their Slack channels, where they gang up on and smear any waverers. They’ve created an insulated world where any small dissent from groupthink is professional death. Watch Fox, CNN or MSNBC, and it’s the same story.</p>
+  <p>Point out missing facts or context, exercise some independence of judgment, push back against the narrative — and you’ll be first subject to ostracism and denunciation by your newsroom peers, and then, if you persist, you’ll be fired. The press could have been the antidote to the social media trap. Instead they chose to become the profitable pusher of the poison. Or worse, perhaps they still haven’t realized that this is what they have become: purist, preening propagandists for their own tribe.</p>
+  <p>Maybe we’ll pull through this. Maybe enough normal people in America have saved themselves from social media madness that liberal democracy can stagger on. Or perhaps my own fears are themselves a function of the algorithms — and will dissipate in early November. <em>The Social Dilemma</em> suggests that the algorithms can be fixed in due course — so that they are no longer designed to maximize distortion, delusion and profit. And maybe the result November 3 will be decisive enough to give us a breathing space to rebuild a rational discourse.</p>
+  <p>But the epidemic has only intensified the isolation and idleness that social media thrives on; the financial interests behind social media’s predatory algorithms are the most formidable in global markets; and the race is tightening in some swing states, as the Biden campaign has effectively <a href="https://www.npr.org/2020/09/15/913137954/4-differences-in-how-biden-and-trump-campaign-right-now">abandoned</a> any door-to-door ground game. My bet on the <a href="https://nymag.com/intelligencer/2016/04/america-tyranny-donald-trump.html">extinction</a> of liberal democracy in America therefore remains in place, and ahead of schedule. We may even at some point realize that it has already actually happened.</p>
+  <p>We just didn’t see it in our newsfeed. </p>
+  <div>
+    <hr />
+  </div>
+  <p class="button-wrapper" data-attrs="{&quot;url&quot;:&quot;https://andrewsullivan.substack.com/subscribe&quot;,&quot;text&quot;:&quot;Get the Dish every Friday via email&quot;,&quot;class&quot;:null}"><a class="button primary" href="https://andrewsullivan.substack.com/subscribe"><span>Get the Dish every Friday via email</span></a></p>
+  <div>
+    <hr />
+  </div>
+<a class="image-link image2 image2-956-1456" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6c860a82-05ef-419a-859f-e47dd279f336_4032x2646.jpeg"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6c860a82-05ef-419a-859f-e47dd279f336_4032x2646.jpeg" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/6c860a82-05ef-419a-859f-e47dd279f336_4032x2646.jpeg&quot;,&quot;height&quot;:956,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:4045260,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null}" alt="" />      <style>          a.image2.image-link.image2-956-1456 {            padding-bottom: 65.65934065934066%;            padding-bottom: min(65.65934065934066%, 956px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-956-1456 img {            max-width: 1456px;            max-height: 956px;          }        </style>
+</a>  <p><em>Portland, Oregon, 10.43 am</em></p>
+  <div>
+    <hr />
+  </div>
+  <h3 id="critical-race-theory-and-the-epidemic">Critical Race Theory And The Epidemic</h3>
+  <p>It has become a truism that differential rates of Covid19 infection among blacks and whites in America are — surprise! — entirely a function of “white supremacy.” And once you junk the inflammatory language, there is real truth to the obvious disadvantages the disproportionately black and brown working poor have in avoiding infection, the higher numbers of co-morbidities in those populations because of existing health disparities, lack of insurance, and so on. It would be nuts to dismiss this. It’s important not to.</p>
+  <p>But is it the whole story? One thing I learned researching a <a href="https://nymag.com/intelligencer/2020/07/coronavirus-pandemic-plagues-history.html">recent essay on plagues</a> is that in 1918, the reverse was apparently true. African-Americans appeared <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2862340/">less likely to get sick and die</a> of the “Spanish” flu than whites — in an era where “white supremacy” didn’t need quote marks. Money quote from a serious study:</p>
+  <blockquote>
+    <p>A January 1919 editorial in the <em>Journal of the National Medical Association</em> pointed to data from the Philadelphia Board of Health that showed that between September 20 and November 8, 11,875 white people died from influenza and pneumonia and 812 black people died. The editorial called the racial differences “interesting” because the death rates of African Americans in the city were “normally much higher than that of the white.”</p>
+  </blockquote>
+  <p>Viruses are not social constructs and neither are human immune systems. Even the New York Times <a href="https://www.nytimes.com/article/coronavirus-nursing-homes-racial-disparity.html">had to concede</a> that it could not fully account for racial disparities in nursing home Covid19 deaths by class or quality of treatment alone:</p>
+  <blockquote>
+    <p>Even predominantly black and Latino nursing homes with high ratings were more likely to be affected by the coronavirus than were predominantly white nursing homes with low ratings, the data showed.</p>
+  </blockquote>
+  <p>It also remains a mystery why Covid19 has <a href="https://www.sciencemag.org/news/2020/08/pandemic-appears-have-spared-africa-so-far-scientists-are-struggling-explain-why">relatively spared Africa</a> so far, even accounting for the relative youth of the continent’s population, while devastating India and Latin America. In Africa, high levels of infection, measured by antibodies, have not translated to what would be expected in the number of deaths. No one quite understands why yet.</p>
+  <p>My point here is not to debunk socio-economic explanations — they matter — just to add some realism. We know less about this virus than we sometimes think we do. And if someone comes along and tells you there is a simple, single, ideological explanation for all its demographic impacts, retain a modicum of skepticism.</p>
+  <div>
+    <hr />
+  </div>
+<a class="image-link image2 image2-989-1456" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F450b2643-4d89-4863-9fe3-cf2b788a4d90_4032x2740.jpeg"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F450b2643-4d89-4863-9fe3-cf2b788a4d90_4032x2740.jpeg" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/450b2643-4d89-4863-9fe3-cf2b788a4d90_4032x2740.jpeg&quot;,&quot;height&quot;:989,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:2626057,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null}" alt="" />      <style>          a.image2.image-link.image2-989-1456 {            padding-bottom: 67.92582417582418%;            padding-bottom: min(67.92582417582418%, 989px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-989-1456 img {            max-width: 1456px;            max-height: 989px;          }        </style>
+</a>  <p><em>Lake Charles, Louisiana, 7.28 pm</em></p>
+  <div>
+    <hr />
+  </div>
+  <h3 id="dissents-of-the-week">Dissents Of The Week</h3>
+  <p>On <a href="https://andrewsullivan.substack.com/p/the-logic-of-bell-curve-leftism">my review of Freddie DeBoer’s new book</a>, a reader writes:</p>
+  <blockquote>
+    <p>Your own elitism is showing. The “cult of smart” may persist in journalism, Silicon Valley, and academia, but in much of America, intelligence is a sign of weakness and snobbishness and immorality. If someone admiringly refers to another person as “smart” here in Texas, what they typically mean is “That person agrees with my core beliefs and is very vocal about it.” </p>
+    <p>In a capitalist society, you’re probably going to get farther with social intelligence than any genetic predisposition towards understanding complex ideas. A skillfully mendacious salesman can go a long way in this country and he can get there without doing much reading. Why isolate intelligence when there are so many traits potentially bestowed to us at birth that can elevate status? Attractiveness, tallness, sociability, inherited wealth, sociopathy, athletic ability … while we’re dismantling meritocracy, we’ll have to address those as well.</p>
+  </blockquote>
+  <p>The problem is the overwhelming evidence that general intelligence — or “g” — really does exist and affects all our abilities. Another reader addresses EQ:</p>
+  <blockquote>
+    <p>It’s somewhat cliché now, but Daniel Goleman’s <em><a href="https://geni.us/x8XM2r">Emotional Intelligence</a></em> changed my life when I read it in the late 1990s. The basic thesis of the book was that EQ is a much better predictor of “success” in life (money, happiness, etc.) than IQ, and that the facets of EQ, unlike IQ, were not fixed and could be taught and learned by children (and even adults). The original purpose of his book was to encourage us to look to develop children’s EQ as part of their schooling, but instead Goleman was inundated with requests from businesses looking for ways to determine high EQ, because he had described exactly what businesses were looking for.</p>
+  </blockquote>
+  <p>Again, sadly, IQ predicts success in this society in a way “EQ”, if it exists at all, simply doesn’t. Another reader emphasizes “passion and luck” over IQ:</p>
+  <blockquote>
+    <p>Please see <a href="https://blogs.scientificamerican.com/beautiful-minds/the-role-of-luck-in-life-success-is-far-greater-than-we-realized/">this piece in </a><em><a href="https://blogs.scientificamerican.com/beautiful-minds/the-role-of-luck-in-life-success-is-far-greater-than-we-realized/">Scientific American</a></em> for the underlying data. You and DeBoer no doubt believe that meritocracy rewards intelligence because you both have above average intelligence and above average success, but there are thousands of people with greater intelligence than you who do not have as much success as you. Intelligence can be useful if you happen to be both passionate and lucky, but by itself it contributes nothing to success. I have known numerous poor geniuses and far more highly successful and wealthy executives with average intelligence.</p>
+  </blockquote>
+  <p>Of course luck matters. Not so sure about passion. But if both were salient, the predictive quality of IQ in terms of success in our culture would be far less reliable than it turns out to be. This reader, on the other hand, criticizes me for not praising IQ <em>enough</em>:</p>
+  <blockquote>
+    <p>I am frankly saddened by the way you denigrate your own intelligence, calling it a “curse as much as a blessing.” Of course, you are the expert on your own life. But intelligence is better than stupidity just as health is better than sickness: intelligence is a resource that helps us achieve our goals, including the goal of improving others’ lives. You praise your uneducated grandmother whose life was filled with faith and grace. I’m sure she was a wonderful person. But here’s the thing: it’s harmless and charming for your grandmother to traffic in “stories of ghosts and fairytales from her Irish rural childhood.” It’s a lot less harmless for an American voter in a swing state to buy every cockamamie conspiracy theory that Q-Anon has vomited up.</p>
+    <p>We live in a complex world, where we must make the best decisions we can, and intelligence and knowledge can help us make good decisions, not bad ones.</p>
+  </blockquote>
+  <p>Another reader feels that I focus on genetics too much:</p>
+  <blockquote>
+    <p>You like to play reductionist and ignore the fact that most people use the genetic part of intelligence to ignore having to deal with any of the social/cultural/structural factors. A lot of people are tired of that and want those environmental factors to be the forefront. Is that really such a horrible position to take? Yes, some people are going to take it too far, or argue in bad faith, but I really do think we're better served worrying about society than focusing on genetics — <em>even though genes play a part with all of us</em>.</p>
+  </blockquote>
+  <p>I believe that all human conduct is a function of both genes and environment, always have, and the mix will vary from case to case. But the overwhelming orthodoxy right now is that genes have no role to play at all, and if you disagree, you’re a bigot. If I don’t stand up against this pernicious lie, who else will?</p>
+  <p>Another reader prods, “Why not stir up a bigger hornet’s nest and talk about gender differences, if you really believe this is all as straightforward and measurable as to allow us to be sure there are differences by race?” The reason for that is that group differences in IQ <a href="https://twitter.com/KirkegaardEmil/status/1304314337344081920">don’t really exist</a> between the sexes. Many, many other biological factors distinguish between men and women — it’s a huge difference overall — but not intelligence, except at the very tail ends of the bell curve, where men count among the very dumbest and very smartest. That IQ debunks dumb sexism somewhat exonerates it from the charge it is entirely a function of bigotry when it comes to “race”.</p>
+  <p>Lastly, some book recommendations from readers:</p>
+  <blockquote>
+    <p>It strikes me that DeBoer’s book may be part of a broader trend questioning meritocracy. Recently we've seen the release of <em><a href="https://geni.us/GGZ5C">The Meritocracy Trap</a></em> by Daniel Markovits. <em><a href="https://geni.us/uNKW7S">Dignity</a></em> by Chris Arnade is an exploration of similar ideas from a different angle.</p>
+  </blockquote>
+  <p>One more:</p>
+  <blockquote>
+    <p>This very week in the UK, Penguin published a new book by David Goodhart — <em><a href="https://geni.us/fEIPFK4">Head Hand Heart: The Struggle for Dignity and Status in the 21st Century</a></em> — which the blurb summarises thus: “Smart people have become too powerful.” There’s a <a href="https://spectator.us/learning-dangerous-thing-david-goodhart-head-hand-heart/">positive review in the new </a><em><a href="https://spectator.us/learning-dangerous-thing-david-goodhart-head-hand-heart/">Spectator</a></em>. I thought you might be interested in this transatlantic synchronism.</p>
+  </blockquote>
+  <div>
+    <hr />
+  </div>
+  <p class="button-wrapper" data-attrs="{&quot;url&quot;:&quot;https://andrewsullivan.substack.com/gift&quot;,&quot;text&quot;:&quot;Give the gift of Dish&quot;,&quot;class&quot;:null}"><a class="button primary" href="https://andrewsullivan.substack.com/gift"><span>Give the gift of Dish</span></a></p>
+  <div>
+    <hr />
+  </div>
+  <h3 id="face-of-the-week">Face Of The Week</h3>
+<a class="image-link image2 image2-971-1456" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F755c737d-67af-442a-a9b9-5787f4906a05_4255x2837.jpeg"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F755c737d-67af-442a-a9b9-5787f4906a05_4255x2837.jpeg" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/755c737d-67af-442a-a9b9-5787f4906a05_4255x2837.jpeg&quot;,&quot;height&quot;:971,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:2895288,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null}" alt="" />      <style>          a.image2.image-link.image2-971-1456 {            padding-bottom: 66.68956043956044%;            padding-bottom: min(66.68956043956044%, 971px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-971-1456 img {            max-width: 1456px;            max-height: 971px;          }        </style>
+</a>  <p><em>A team of scientists from Chulalongkorn University collects a blood sample from a wrinkle-lipped free-tailed bat at an onsite lab near the Khao Chong Pran Cave in Ratchaburi, Thailand, on September 12. Photo by Lauren DeCicca/Getty Images.</em></p>
+  <div>
+    <hr />
+  </div>
+  <h3 id="quote-for-the-week">Quote For The Week</h3>
+  <p>“Our situation: sensitivity increases with affluence; the most minor symptoms cause us to suffer; our body is better protected, our soul sicker. Equality, a comfortable life, freedom of thought, but at the same time, hatred and envy, the infuriation of needing to succeed, the impatience of the present, the need for luxury, the instability of the government, the suffering from doubt and having to search,” - <a href="https://books.google.com/books?id=uDUsDwAAQBAJ&amp;pg=PT17&amp;lpg=PT17&amp;dq=%22Our+situation:+sensitivity+increases+with+affluence%22&amp;source=bl&amp;ots=w80eCQOK67&amp;sig=ACfU3U1uQQjMw4wzFyel4ejhylYL-vhC0Q&amp;hl=en&amp;sa=X&amp;ved=2ahUKEwib9IvC_uzrAhUZCTQIHfKeDQYQ6AEwAXoECAEQAQ#v=onepage&amp;q=%22Our%20situation%3A%20sensitivity%20increases%20with%20affluence%22&amp;f=false">Friedrich Nietzsche</a>. (Hat tip: <a href="https://twitter.com/thomaschattwill/status/1304829243445202944?s=20">Chatterton Williams</a>, who framed it, “Nietzsche on microaggressions.”)</p>
+  <div>
+    <hr />
+  </div>
+  <h3 id="yglesias-award-nominee">Yglesias Award Nominee</h3>
+  <p>“It’s important to criticize ideas you generally agree with, and I don’t think I do it enough. So I want to thread three brief points about what I see as problems in left-liberal discourse today. Not insuperable or fatal problems, but problems nonetheless.</p>
+  <p>The first is anti-rationalism on identity issues. Sometimes, debates over unsettled empirical questions — would defunding police increase crime? why does Trump seem to be gaining votes among Latinos? — are themselves declared illegitimate or out-of-bounds. The second, relatedly, is intellectual insularity. Socialist and conservative critics often raise genuinely sharp critiques of liberal politics — particularly relating to class, credentialism and history — that don't get the serious consideration they deserve.</p>
+  <p>And the third is demonization. I stand by my claims that the threat from “cancel culture” has been radically overblown, but its critics are correct that there’s a worrying tendency to dismiss people as irredeemable for venial sins — and to offer few options for forgiveness,” - <a href="https://twitter.com/zackbeauchamp/status/1306251546045419521?s=20">Zack Beauchamp</a>, <em>Vox</em>.</p>
+  <div>
+    <hr />
+  </div>
+  <h3 id="mental-health-break">Mental Health Break</h3>
+  <p>A cascade of commuters that gets more and more mesmerizing:</p>
+  <div id="vimeo-334092219" class="vimeo-wrap" data-attrs="{&quot;videoId&quot;:&quot;334092219&quot;}">
+    <iframe src="https://player.vimeo.com/video/334092219?autoplay=0" frameborder="0" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true"></iframe>
+  </div>
+  <div>
+    <hr />
+  </div>
+  <h3 id="from-the-annals-of-dishness">From The Annals Of Dishness</h3>
+  <p>Freddie over at his blog — memba those? — <a href="https://fredrikdeboer.com/2020/09/10/heres-a-thing-that-used-to-happen/">reflects on a time</a> when writers actually engaged the arguments of the other side:</p>
+  <blockquote>
+    <p>So when I started blogging in 2008, a thing that would happen would be that a conservative writer would publish something on a conservative website, and then liberals at liberal publications would read those conservative websites, write up their own liberal responses and publish them on their liberal websites, and conservatives would write responses to responses, and so a decent number of people got to be employed.</p>
+    <p>And what I can’t scientifically say but which seems screamingly obvious to me is that this is almost unthinkable today. … When was the last time that Screaming Social Justice Twitter got really mad about something published in the <em>National Review</em>?</p>
+  </blockquote>
+  <p>He recommends a 2014 post by Scott Alexander titled “<a href="https://slatestarcodex.com/2014/09/30/i-can-tolerate-anything-except-the-outgroup/">I Can Tolerate Anything Except The Outgroup</a>,” an outgroup defined as “proximity plus small differences” — the thing that really animates Left Twitter and Trump Twitter.</p>
+  <p>Scott’s popular blog, <a href="https://slatestarcodex.com">Slate Star Codex</a>, was on hiatus this summer after a clash with the NYT. A reporter doing a profile on Scott — partly for his prescience on Covid and the need for masks — suggested that Scott’s real name would be revealed, despite his wishes to remain anonymous to protect his psychiatric practice. <em>The New Yorker</em> <a href="https://www.newyorker.com/culture/annals-of-inquiry/slate-star-codex-and-silicon-valleys-war-against-the-media">covered the dustup</a> and crafted a profile of its own, calling Scott “a leading member of a [rationalist] community that views personal identity as theoretically immaterial to logical matters.” His blog is Dish-like in many other ways — for example:</p>
+  <blockquote>
+    <p>[Scott] has frequently allowed that a previous position he’s taken is wrong—his views of trans people are a major example—and has contributed to the understanding, among people who like to be right about everything, that the gracious acceptance of one’s own error (or “failure mode”) ought to be regarded as a high-status move rather than something to be stigmatized.</p>
+  </blockquote>
+  <p><em>The New Yorker</em> also notes, “In 2017, [Scott] Alexander identified himself as a member of the ‘hereditarian left,’ defined as the ability to believe, on the one hand, that genetic differences play a determining role in human affairs and, on the other, that we ought to act as though they don’t.”</p>
+  <p>Scott <a href="https://slatestarcodex.com/2020/09/11/update-on-my-situation/">broke his silence on the blog last week</a> to announce he’s probably moving to Substack.</p>
+  <div>
+    <hr />
+  </div>
+  <h3 id="in-the-stacks">In The ‘Stacks</h3>
+  <p>Check out these independent writers elsewhere on Substack:</p>
+  <ul>
+    <li>
+      <p>Erick Erickson, a frequent Trump critic, <a href="https://ewerickson.substack.com/p/the-peace-deal-is-a-big-deal">draws from his own experience growing up in Dubai</a> to give the president credit for brokering a deal between the UAE and Israel — a deal that Erickson says the media is deliberately downplaying.</p>
+    </li>
+    <li>
+      <p>After evacuating his mountain home in Oregon, Nate Hochman is <a href="https://thedispatch.com/p/climate-change-or-forest-management">frustrated</a> that the partisan debate over wildfires sees climate change and forest management as mutually exclusive; they’re both a problem. Meanwhile, Jesse Singal <a href="https://jessesingal.substack.com/p/the-new-york-times-wildfires-and">jumps on the NYT</a> for fanning the tribal flames.</p>
+    </li>
+    <li>
+      <p>Responding to a <a href="https://www.linkedin.com/pulse/nyc-dead-forever-heres-why-james-altucher/">“NYC Is Dead Forever” post</a> that went viral, Jen Gerson <a href="https://theline.substack.com/p/jen-gerson-in-praise-of-second-tier">sings the praises of second-tier cities</a> in the age of Covid.</p>
+    </li>
+    <li>
+      <p>David French <a href="https://frenchpress.thedispatch.com/p/on-the-use-and-abuse-of-critical">gives a fair hearing</a> to critical race theory and its occasional insights but concludes with a clear-eyed condemnation: “A speech regime that replaces neutral rules with punitive personal perceptions cannot be anything but authoritarian. But from a Christian perspective, extreme versions of critical race theory suffer from an even worse defect — they wrongly place race at the center of human identity.”</p>
+    </li>
+  </ul>
+  <div>
+    <hr />
+  </div>
+  <h3 id="the-view-from-your-window-contest">The View From Your Window Contest</h3>
+<a class="image-link image2 image2-952-1456" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb74738ad-650f-4b1e-9aa5-581ff49d3005_2116x1384.png"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb74738ad-650f-4b1e-9aa5-581ff49d3005_2116x1384.png" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/b74738ad-650f-4b1e-9aa5-581ff49d3005_2116x1384.png&quot;,&quot;height&quot;:952,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:4097953,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null}" alt="" />      <style>          a.image2.image-link.image2-952-1456 {            padding-bottom: 65.38461538461539%;            padding-bottom: min(65.38461538461539%, 952px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-952-1456 img {            max-width: 1456px;            max-height: 952px;          }        </style>
+</a>  <p>So, where do you think it’s located? Email your entry to <strong>contest@andrewsullivan.com</strong>. (The results for the previous contest are in an email coming to subscribers shortly.)</p>
+  <p>See you next Friday.</p>
+  <p><em>(Top image of our dystopian present via Getty Images)</em></p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#The Weekly Dish 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2021-02-05/VFYW-Contest-Timeless-In-Tuscany/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2020-07-04/Stories-Of-Wokeness/">最早</a>--</span>
+    
+      <li>
+        <time>2020-09-25</time>
+        <a href="https://nodebe4.github.io/opinion/2020-09-25/Yes,-This-Is-The-Face-Of-A-Tyrant/">
+          Yes, This Is The Face Of A Tyrant
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-09-18</time>
+        <a href="https://nodebe4.github.io/opinion/2020-09-18/VFYW-Contest-Escape-To-The-Emerald-Isle/">
+          VFYW Contest: Escape To The Emerald Isle
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-09-11</time>
+        <a href="https://nodebe4.github.io/opinion/2020-09-11/VFYW-Contest-Get-To-Know-Hope/">
+          VFYW Contest: Get To Know Hope
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-09-11</time>
+        <a href="https://nodebe4.github.io/opinion/2020-09-11/VFYW-Contest-Get-To-Know-Hope/">
+          VFYW Contest: Get To Know Hope
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2020-09-18/%E9%A9%AC%E8%80%81%E5%B8%88-%E6%88%91%E7%88%B8%E5%BD%93%E5%B9%B4%E7%BB%99%E6%82%A8%E9%80%81%E7%9A%84%E6%8C%82%E5%8E%86-%E6%82%A8%E6%9C%89%E5%8D%B0%E8%B1%A1%E5%90%97-%E5%A5%B3%E6%95%99%E5%B8%88/">
+            前一篇：马老师，我爸当年给您送的挂历，您有印象吗？ -- 《女教师》
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2020-09-18/VFYW-Contest-Escape-To-The-Emerald-Isle/">
+            後一篇：VFYW Contest: Escape To The Emerald Isle
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2020-09-18/%E9%A9%AC%E8%80%81%E5%B8%88-%E6%88%91%E7%88%B8%E5%BD%93%E5%B9%B4%E7%BB%99%E6%82%A8%E9%80%81%E7%9A%84%E6%8C%82%E5%8E%86-%E6%82%A8%E6%9C%89%E5%8D%B0%E8%B1%A1%E5%90%97-%E5%A5%B3%E6%95%99%E5%B8%88/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2020-09-18/VFYW-Contest-Escape-To-The-Emerald-Isle/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2020-09-18/VFYW-Contest-Escape-To-The-Emerald-Isle/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2020-09-11/VFYW-Contest-Get-To-Know-Hope/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2020-09-18/%E9%A9%AC%E8%80%81%E5%B8%88-%E6%88%91%E7%88%B8%E5%BD%93%E5%B9%B4%E7%BB%99%E6%82%A8%E9%80%81%E7%9A%84%E6%8C%82%E5%8E%86-%E6%82%A8%E6%9C%89%E5%8D%B0%E8%B1%A1%E5%90%97-%E5%A5%B3%E6%95%99%E5%B8%88/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2020-09-18/VFYW-Contest-Escape-To-The-Emerald-Isle/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<The Weekly Dish>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2020-09-18/VFYW-Contest-Escape-To-The-Emerald-Isle/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<The Weekly Dish>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2020-09-11/VFYW-Contest-Get-To-Know-Hope/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

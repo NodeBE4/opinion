@@ -1,0 +1,3063 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Intel’s Humbling – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+Intel’s Humbling
+——
+" />
+    <meta property="og:description" content="
+Intel’s Humbling
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Intel’s Humbling" />
+    <meta property="twitter:title" content="Intel’s Humbling" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2024%2Fintels-humbling%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2024/intels-humbling/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2024/intels-humbling/&text=Intel’s Humbling&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2024/intels-humbling/&title=Intel’s Humbling" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2024/intels-humbling/&title=Intel’s Humbling" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Intel’s Humbling&body=
+Intel’s Humbling
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2024/intels-humbling/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2024/intels-humbling/&title=Intel’s Humbling&caption=
+Intel’s Humbling
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Intel’s Humbling&url=https://stratechery.com/2024/intels-humbling/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Intel’s Humbling</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2024-01-30
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2024/intels-humbling/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1706621467000-->
+<p><a href="https://stratechery.com/2024/intels-humbling/">Intel’s Humbling</a>
+——</p>
+
+<div>
+  <p>There are time when being a semiconductor CEO is rather easy. Just consider Brian Krzanich: when he took over the Intel job in 2013, I wrote in <a href="https://stratechery.com/2013/the-intel-opportunity/">The Intel Opportunity</a>:</p>
+  <blockquote>
+    <p>A new CEO has taken over Intel. Their core business, upon which the company has been built, is floundering. Does the new CEO, who is not really new at all (he’s the current COO), have the vision to ensure Intel’s continued success? I’m not talking about Brian Krzanich, who today was promoted from COO to CEO at Intel. Rather, I’m talking about Andy Grove, who took over Intel in 1987.</p>
+  </blockquote>
+  <p>The crisis Grove encountered was Intel’s floundering memory business; <a href="https://stratechery.com/2016/andy-grove-and-the-iphone-se/">he exited memory and focused on logic chips</a>, and the rest was history. I thought that Krzanich should do something similar: Intel should stop focusing its efforts on being an integrated device manufacturer (IDM) — a company that both designed and manufactured its own chips exclusively — and shift to becoming a foundry that also served external customers. Back to the Article:</p>
+  <blockquote>
+    <p>Today Intel has once again promoted a COO to CEO. And today, once again, Intel is increasingly under duress. And, once again, the only way out may require a remaking of their identity. It is into a climate of doom and gloom that Krzanich is taking over as CEO. And, in what will be a highly emotional yet increasingly obvious decision, he ought to commit Intel to the chip manufacturing business, i.e. manufacturing chips according to other companies’ designs.</p>
+  </blockquote>
+  <p>Krzanich did not take my advice, and this is what happened to Intel’s stock during his tenure:</p>
+  <p><img fetchpriority="high" decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/01/intel-humbling-1.png?resize=640%2C331&#038;ssl=1" alt="Intel&#039;s stock under Brian Krzanich" width="640" height="331" class="aligncenter size-full wp-image-12245" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/01/intel-humbling-1.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/01/intel-humbling-1.png?resize=300%2C155&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/01/intel-humbling-1.png?resize=1024%2C529&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/01/intel-humbling-1.png?resize=768%2C397&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/01/intel-humbling-1.png?resize=1200%2C620&amp;ssl=1 1200w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>The thing is, if you don’t invest in the future, or see fundamental changes in the market coming, then you don’t have to spend as much; if you don’t have to spend as much then you can increase margins. And, while there were some analysts that could foresee the extent to which fabs were dramatically increasing in price, and would thus need to significantly increase volume to maintain profitability in the long run, this was clearly a case where Wall Street mostly cared about the forecast for the next quarter or the next year.</p>
+  <p>All of this was compounded by the assumption that Intel would stay in the process lead forever; indeed, while I was right about the changing costs of foundries and the need for Intel to open up to outside customers, in 2013 I didn’t forecast Intel losing their process leadership. That happened under Krzanich too: TSMC started manufacturing 7nm in volume in early 2017, and Intel announced a delay in 10nm (which was roughly equivalent to TSMC’s 7nm) in April 2018. And yet the stock went up, faster than ever.</p>
+  <h3 id="intels-struggles">Intel’s Struggles</h3>
+  <p>Later that year Krzanich was fired for having <a href="https://www.cnbc.com/2018/06/21/intel-ceo-brian-krzanich-to-step-down-bob-swan-to-step-in-as-interim-ceo.html">a relationship with an Intel employee</a>; Bob Swan stepped into the CEO role, but it was ultimately current CEO Pat Gelsinger that is paying the price for Krzanich’s lack of strategic foresight and total fumble in terms of execution. Consider the company’s earnings announcement last week; from <a href="https://www.bloomberg.com/news/articles/2024-01-25/intel-gives-bleak-forecast-in-sign-comeback-is-going-slowly">Bloomberg</a>:</p>
+  <blockquote>
+    <p>Intel Corp. tumbled the most in more than three years after delivering a disappointing forecast, a reaction that Chief Executive Officer Pat Gelsinger said Friday was overblown. The shares fell 12% to $43.65 in New York after Intel’s first-quarter projection for both sales and profit came in well short of Wall Street estimates. It was the biggest single-day decline since July 2020.</p>
+    <p>The outlook sparked fears that Gelsinger’s long-promised comeback bid has gotten off track. Though the chipmaker’s personal computer business is recovering, demand is weakening in the lucrative market for data center processors. Intel also is contending with a slowdown in programmable chips and components for self-driving vehicles, and a fledgling business that makes semiconductors for other companies hasn’t yet taken off…</p>
+    <p>During a conference call with analysts, Gelsinger acknowledged that the first quarter wasn’t going as well as hoped, but that he expected the rest of 2024 to improve quarter by quarter. Intel’s efforts to return to the cutting edge of manufacturing are still on track, he said. That’s crucial to improving its products and staying competitive. He also asserted that the chipmaker is no longer losing sales to competitors in PCs and data centers.</p>
+  </blockquote>
+  <p>This stock price decline was just one of many under Gelsinger’s leadership:</p>
+  <p><img decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/01/intel-humbling-2.png?resize=640%2C310&#038;ssl=1" alt="Intel&#039;s stock under Pat Gelsinger" width="640" height="310" class="aligncenter size-full wp-image-12246" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/01/intel-humbling-2.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/01/intel-humbling-2.png?resize=300%2C145&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/01/intel-humbling-2.png?resize=1024%2C496&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/01/intel-humbling-2.png?resize=768%2C372&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/01/intel-humbling-2.png?resize=1200%2C581&amp;ssl=1 1200w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>This past quarter continues many of the trends driving this multi-year decline: client PCs are finally making a comeback from the COVID hangover, but many of Intel’s non-CPU businesses are struggling and/or facing inventory corrections, including MobileEye, networking, and FPGAs. The biggest problem, though, continues to be the data center: AMD makes better CPUs on a better process (TSMC’s) and they continue to eat Intel’s lunch amongst the biggest cloud providers who, because they buy the most CPUs, are willing to do the work necessary to make the best performing chip work (this is why Intel’s on-premise and government business has long held up better). That direct competition is compounded by the secular pressure from ARM on one side and the diversion of spend to GPUs (primarily Nvidia, but also AMD) on the other.</p>
+  <h3 id="intels-progress">Intel’s Progress</h3>
+  <p>This is where being a semiconductor CEO is very difficult. Over the last few years Gelsinger has done exactly what needed to be done a decade earlier: he is <a href="https://stratechery.com/2021/intel-unleashed-gelsinger-on-intel-idm-2-0/">transforming Intel into a foundry</a> that serves external customers, and he is working to at least make Intel competitive again on the leading edge, and maybe even take the lead in a few years, if you believe Intel’s claims about its 18A process.</p>
+  <p>18A is the fifth of the fabled “five nodes in four years” that Gelsinger promised shortly after he took over, and it appears that he is pulling it off. Gelsinger summarized those five nodes in a <a href="https://stratechery.com/2023/an-interview-with-intel-ceo-pat-gelsinger-about-intels-progress-towards-process-leadership/">Stratechery Interview</a> last fall:</p>
+  <blockquote>
+    <p>So Intel 7 is the last of the pre-EUV technologies. Intel 4, the first EUV technology for us, Intel 3 refined the final FinFET, really helped us take those learnings, but largely was a common architecture of transistor and process flow — really just the refinement. Much like you say, TSMC and others have done, get the initial one working and then refine it for scale manufacturing, that’s Intel 3. And given it’s the second generation of that, we’ll be applying that to our big server products, Granite Rapids, Sierra Forest, big die. We need to get down the learning curve with Meteor Lake, our first client partner. And then now with the big server die, and that’s also what we’re introducing on Intel 4, more so on Intel 3, a lot of the advanced packaging technologies come big into the technology footprint. Then the new transistor, the new backside power begins with 20A, and for that Arrow Lake is sort of the first, get it up and running small die, something easier to design and then when we get to 18A, the journey is done.</p>
+  </blockquote>
+  <p>To summarize:</p>
+  <table>
+    <thead>
+      <tr>
+        <th> </th>
+        <th align="center">Transistor</th>
+        <th align="center">Lithography</th>
+        <th align="center">Power</th>
+        <th align="center">TSMC Equivalent</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Intel 7</td>
+        <td align="center">FinFET</td>
+        <td align="center">DUV</td>
+        <td align="center">Frontside</td>
+        <td align="center">7nm</td>
+      </tr>
+      <tr>
+        <td>Intel 4</td>
+        <td align="center">FinFET</td>
+        <td align="center">EUV</td>
+        <td align="center">Frontside</td>
+        <td align="center">5nm</td>
+      </tr>
+      <tr>
+        <td>Intel 3</td>
+        <td align="center">FinFET</td>
+        <td align="center">EUV</td>
+        <td align="center">Frontside</td>
+        <td align="center">4nm</td>
+      </tr>
+      <tr>
+        <td>Intel 20A</td>
+        <td align="center">FinFET</td>
+        <td align="center">EUV</td>
+        <td align="center">Frontside</td>
+        <td align="center">3nm</td>
+      </tr>
+      <tr>
+        <td>Intel 18A</td>
+        <td align="center">RibbonFET</td>
+        <td align="center">EUV</td>
+        <td align="center">Backside</td>
+        <td align="center">2nm</td>
+      </tr>
+    </tbody>
+  </table>
+  <p>The TSMC equivalents are a bit fuzzy, particularly once you get into the future; TSMC CEO C.C. Wei has been adamant on the last couple of TSMC earnings calls that TSMC’s advanced 3nm process will outperform Intel’s 18A (Intel’s argument is that backside power will make chips much easier to design, since the power is separated from the communications layer, eliminating interference). What’s important, though, is that that is a question worth answering. Gelsinger said of 18A, which is the process that Intel is pushing hard to potential foundry customers, <a href="https://seekingalpha.com/article/4665168-intel-corporation-intc-q4-2023-earnings-call-transcript">on the company’s earnings call</a>:</p>
+  <blockquote>
+    <p>We are first in the industry to have incorporated both gate-all-around and backside power delivery in a single process node, the latter unexpected two years ahead of our competition. Arrow Lake, our lead Intel 20A vehicle will launch this year. Intel 18A is expected to achieve manufacturing readiness in second half ’24, completing our five nodes in four year journey and bringing us back to process leadership. I am pleased to say that Clearwater Forest, our first Intel 18A part for servers has already gone into fab and Panther Lake for clients will be heading into Fab shortly…</p>
+    <p>Our success with IFS will be measured by customer commitments and revenue. We have taped out more than 75 ecosystem and customer test chips. IFS already has more than 50 test chips in the pipeline across 2024 and 2025, 75% of which are on Intel 18A. During CES, we welcomed the Valens Semiconductor to the growing list of foundry customers as they announced they would use IFS to fabricate their MIPI A-PHY chipsets using our advanced technology. In addition to the 3 Intel 18A customers we disclosed in Q3, we won a key design win with a significant high-performance computing customer. This customer was particularly motivated by our unique leading-edge manufacturing capabilities and U.S. capacity. We came into 2023 committing to one 18A foundry customer. We executed on four inclusive of a meaningful prepay and our momentum continues to grow.</p>
+  </blockquote>
+  <p>The ultimate proof point for Gelsinger’s strategy will be chips designed by external customers, fabbed on Intel’s 18A process, running in devices in people’s pockets; nothing is assured until then. That, unfortunately, is the rub: there is no revenue until then either, and “then” is still a few years into the future. One wonders if Gelsinger will be there to enjoy the uplift that would only then be justified, at least from the perspective of Wall Street.</p>
+  <p>From my perspective — which, as exemplified by my disappointment with Krzanich despite Intel’s great stock returns during his tenure, is absolutely not stock-picking advice — he very much deserves the chance. Intel has the right strategy and seems to be executing; the challenge is that semiconductor cycles operate in something closer to decades than years, much less quarters.</p>
+  <h3 id="intels-new-partner">Intel’s New Partner</h3>
+  <p>So what does Intel do in the meantime? Last week also brought news of a very interesting new partnership that helps answer that question. From <a href="https://asia.nikkei.com/Business/Tech/Semiconductors/Intel-partners-with-Taiwan-s-No.-2-chipmaker-UMC-in-Arizona">Nikkei</a>:</p>
+  <blockquote>
+    <p>Intel and Taiwan’s United Microelectronics Corp. (UMC) on Thursday announced a partnership that will lead to production in the U.S. state of Arizona by 2027, part of the American semiconductor company’s push to expand its business of making chips for others. The partners will develop relatively mature 12-nanometer technology, ideal in building chips for Bluetooth, Wi-Fi, microcontrollers, sensors and a range of other connectivity applications, but not for cutting-edge central processing units or graphics processors. Intel said the long-term agreement can leverage its U.S. manufacturing capacity and UMC’s extensive foundry experience in mature chip production technologies that serve a wide range of chip developers.</p>
+    <p>Based in the Taiwanese city of Hsinchu, UMC is a smaller peer of Taiwan Semiconductor Manufacturing Co., the world’s biggest contract chipmaker or foundry. UMC is the world’s third-largest contract chipmaker.</p>
+  </blockquote>
+  <p><a href="https://stratechery.com/2024/tsmc-earnings-the-trailing-node-netflix-wwe-follow-up/">Last week I wrote about TSMC’s earnings</a> and explained how TSMC has been forced to increasingly adopt the old Intel model, first in pricing, and then in its equipment usage:</p>
+  <blockquote>
+    <p>The leading edge costs a lot of money to ramp up — N3 is lowering margins for now, as every new node does its first few years — but those costs are made up for by the ability to charge much higher prices. To that end N3 is already up to 15% of TSMC revenue, followed by 35% at N5, and 17% at N7.</p>
+    <p>This reality is not new for TSMC, but it is different than how the company has operated historically. TSMC started out as a foundry selling trailing edge chips; the primary way of making money over the long run was to build a fab relatively cheaply using established equipment, and then run that fab for many years. Once all of the equipment was depreciated, every chip produced was almost pure profit, even if the revenue on a per-chip basis was fairly low.</p>
+    <p>It was Intel, on the other hand, that charged the highest prices for the fastest chips, and all of its business was on the leading edge, selling its own chips; that meant that the company would take down old fabs and repurpose as much equipment as it could for the next node, instead of running the fab forever like a foundry would (this is one of Intel’s challenges in becoming a foundry: they simply don’t have much depreciated trailing edge capacity throwing off cash).</p>
+    <p>What is interesting to note is that TSMC’s shift to a more Intel-like model in terms of its revenue drivers (leading edge) and profit drivers (high prices) is starting to impact how they manage their fabs. CFO Wendell Huang said <a href="https://investor.tsmc.com/chinese/encrypt/files/encrypt_file/reports/2024-01/77f58cc7cac9df532c274f893b1c722de15c3f85/TSMC%204Q23%20Transcript.pdf">in his prepared remarks</a>:</p>
+    <blockquote>
+      <p>In addition, we have a strategy so that some of our N3 capacity can be supported by N5 tools given the strong multiyear demand. Such a plan will enable higher capital efficiency in the mid to long term, but requires cost and effort in the near term. Most of this conversion will occur in second half of 2024, and we expect it to dilute our gross margin by about 1 to 2 percentage points in second half of 2024.</p>
+    </blockquote>
+    <p>Notice what is happening here: TSMC, unlike its historical pattern, is not keeping (all of its) 5nm capacity to make low-cost high-margin chips in fully-depreciated fabs; rather, it is going to repurpose some amount of equipment — probably as much as it can manage — to 3nm, which will allow it to expand its capacity without a commensurate increase in capital costs. This will both increase the profitability of 3nm and also recognizes the reality that is afflicting TSMC’s 7nm node: there is an increasingly large gap between the leading edge and “good enough” nodes for the vast majority of use cases.</p>
+  </blockquote>
+  <p>This Intel-UMC deal represents the inverse of what is happening at TSMC: a viable foundry business can’t just rely on selling leading-edge chips at very high margins — particularly since Intel’s claims that it will regain process leadership remain to be seen. What is critical is having fully depreciated foundries still making chips: yes, those chips cost a lot less than the leading edge, but given that the marginal costs are practically zero (at least relative to the fixed costs) they are an important source of cash flow and profits, which can be re-invested in the leading edge. This deal is about capturing that depreciated cash flow.</p>
+  <h3 id="intels-needs">Intel’s Needs</h3>
+  <p>Intel, however, as I noted, only ever needed leading edge fabs — no one wants an old Intel chip when newer and faster ones are on the market. This was a big reason, of course, why Krzanich so badly missed The Intel Opportunity: in 2012 Intel was right in the middle of the FinFET-deep ultraviolet (DUV) lithography era of chip fabrication, but the end of both was already on the horizon in the form of RibbonFET (i.e. Gate-All-Around transistors) and extreme ultraviolet (EUV) lithography. Given the astronomical costs of EUV in particular it would have been reasonable to forecast then that there might develop a sweet spot making FinFET transistors with DUV, but Intel missed out on a decade of building up the capability to serve external customers.</p>
+  <p>This capability — or the lack thereof — remains one of the biggest questions around Intel’s foundry efforts. In 2022, when Intel tried to buy Tower Semiconductor, I wrote <a href="https://stratechery.com/2022/pelotons-operations-intel-buys-tower-semiconductor-what-now-for-arm-plus-intel-risc-v/">in an Update</a>:</p>
+  <blockquote>
+    <p>It is not only the case that Intel primarily makes its own designs, it also makes only digital chips (i.e. everything is a 1 or a 0). However, there is also an entire universe of analog chips, which can process gradations; this is essential for processing data from the physical world like sound, power, light, etc. Tower specializes in a whole host of specialized chips in the analog space; adding Tower’s capabilities to Intel Foundry Services (IFS) will make the latter much more of a true one stop shop for chip fabrication, matching the capabilities of TSMC or GlobalFoundries.</p>
+    <p>To me it is the GlobalFoundries angle that is the most interesting here: I have long been a proponent of Intel buying GlobalFoundries, despite the fact that GlobalFoundries isn’t a particularly great business, has given up on the leading edge process race, etc. My thinking has been that Intel can bring the capability (maybe) and willingness to invest in the leading edge, while GlobalFoundries can bring the breadth of capabilities and customer service orientation necessary to be a foundry. Sure, that’s expensive, but allowing IFS to be choked off by Intel’s integrated and not-invented-here culture would be even more expensive.</p>
+    <p>I suspect the Tower acquisition firmly closes the door on that possibility (which to be fair, was clearly remote). Here the calculus is much more straightforward: Tower brings certain capabilities and customer relationships that Intel believes it can scale up inside its factory network at a much lower cost than GlobalFoundries (whose current market cap is $29 billion), and it will be much easier to absorb and integrate into Intel’s business. The big question is whether or not integrating into Intel’s business is in fact the entire problem that needs to be avoided.</p>
+  </blockquote>
+  <p>At Intel, manufacturing has always called the shots. The design side of the company had to accommodate the fabs, whether that be using their archaic design software, working around manufacturing challenges, or figuring out how to make a faster chip on recycled equipment. This made sense for a long time, but there was a cost: Intel designs stopped being innovative and became dependent on Intel’s manufacturing for performance; when Intel’s manufacturing prowess hit a wall Intel’s designs were exposed. Gelsinger told me:</p>
+  <blockquote>
+    <p>So all of a sudden, as Warren Buffet says, “You don’t know who’s swimming naked until the tide goes out.” When the tide went out with the process technology, and hey, we were swimming naked, our designs were not competitive. So all of a sudden we realized, “Huh, the rising tide ain’t saving us. We don’t have leadership architecture anymore.” And you saw the exposure.</p>
+  </blockquote>
+  <p>Indeed, we see the stock price!</p>
+  <p>That, though, was only part of Intel’s problem: the more fundamental issue is that a foundry is, as I wrote, a customer service organization: an entity like TSMC adapts to customers’ designs, not the other way around. They use industry standard design software. They have extensive libraries of IP that make designing a chip more akin to assembling a collection of Lego blocks. They ship when they say they will ship, and they run the fab for which a chip was designed forever.</p>
+  <p>Intel did <em>none</em> of these things, and had a mentality and culture that ran in the exact opposite direction: in a foundry, manufacturing is not king but a servant; customer sales is not about “take-it-or-leave-it” but “let us help you solve your problem.” I was — and frankly, remain — dubious about Intel’s ability to create that sort of culture internally, which is why I advocated for an acquisition, first of Global Foundries, and then of Tower. Thanks to its decade delay Intel didn’t have time to learn how to serve customers: it had rapidly obsoleting fabs that needed to be filled as soon as possible, if the company ever had hope of making enough cash to fund its push back to the leading edge.</p>
+  <p>Unfortunately China blocked the acquisition of Tower, in <a href="https://stratechery.com/2022/china-chip-ban-clarifications-nvidias-a800-china-intel-and-tower/">what I suspect was retaliation for U.S. restrictions on China</a>. Worse, from what I have heard Intel responded by starting to sell a lot of old equipment at rock-bottom prices, which usually ended up in China; the fact of the matter is that the company needs cash.</p>
+  <h3 id="intels-humbling">Intel’s Humbling</h3>
+  <p>Perhaps, though, the fire-sale is coming to an end: all of this context explains why this deal exists, and why I think it is a fantastic idea:</p>
+  <ul>
+    <li>UMC, like <a href="https://stratechery.com/2018/uber-follow-up-globalfoundries-abandons-7nm-pricing-power-differentiation-and-integration/">GlobalFoundries before it</a>, has struggled to keep pace with ever more expensive fabs. The company has a 14nm offering, but has shown little evidence it can or will go further, and the EUV transition seems completely out of the question. However, UMC does have a large foundry business, which is to say that UMC is a customer service organization, with the compatibility and IP necessary to succeed.</li>
+    <li>Intel, meanwhile, has a ton of capacity with FinFET and DUV processes. One of the costs of the company’s failure at 10nm and 7nm was that the company built extra 14nm fabs. A huge amount of that equipment, particularly the lithography, is not useful for the leading edge, but it is fully depreciated and could be used to build <em>pretty</em> fast chips for a lot less than the leading edge.</li>
+  </ul>
+  <p>This deal — which is for a new, designed-for-external-customers 12nm process — brings together the two company’s core capabilities: UMC is the customer service organization, and Intel is the manufacturer. Yes, that means lower revenue and margins for both, but both have already built the capabilities necessary to make the deal succeed, which means the business should be accretive to both revenue and profits for each of them.</p>
+  <p>The big question is how big of a market there is for fast-but-not-the-fastest chips: Intel is talking up things like communications chips, image sensing processors, etc., but a new process will require new design wins. Moreover, TSMC is counting on the same market for its 7nm process: that process should be faster, but it is also more difficult to make (7nm requires quad-patterning, while 12nm is dual patterning; this means easier designs, higher throughput, and better yields for the latter).</p>
+  <p>It is also, one might say, a bit humiliating: mighty Intel, which bestrode the tech industry for 50 years, the keepers of Moore’s Law, is making a deal with a Taiwanese also-ran, because it needs the help. That, though, is no insult: Intel needed some humbling, and this deal, more than any 18A design win or lofty promise about the AI PC, gives me hope that the company is in fact turning things around.</p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2024-02-20</time>
+        <a href="https://nodebe4.github.io/opinion/2024-02-20/Sora,-Groq,-and-Virtual-Reality/">
+          Sora, Groq, and Virtual Reality
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-02-06</time>
+        <a href="https://nodebe4.github.io/opinion/2024-02-06/The-Apple-Vision-Pro/">
+          The Apple Vision Pro
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-01-22</time>
+        <a href="https://nodebe4.github.io/opinion/2024-01-22/The-Apple-Vision-Pro-s-Missing-Apps/">
+          The Apple Vision Pro’s Missing Apps
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-01-08</time>
+        <a href="https://nodebe4.github.io/opinion/2024-01-08/The-New-York-Times-AI-Opportunity/">
+          The New York Times’ AI Opportunity
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2024-01-29/%E6%87%B7%E5%AF%86-%E8%A7%A3%E6%9E%90%E4%BA%BA%E9%A1%9E%E5%9F%BA%E5%9B%A0%E9%AB%94%E7%9A%84-%E6%8C%87%E7%B4%8B-%E5%B0%96%E7%AB%AF%E8%AC%9B%E5%BA%A7%E7%B3%BB%E5%88%97/">
+            前一篇：懷密？解析人類基因體的「指紋」｜尖端講座系列
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2024-01-30/%E4%B8%AD%E5%9B%BD%E8%91%97%E5%90%8D%E7%8B%AC%E7%AB%8B%E8%AE%B0%E8%80%85%E9%AB%98%E7%91%9C-%E6%89%B9%E8%AF%84%E7%A4%BE%E4%BC%9A%E6%98%AF%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90%E7%9A%84%E8%B4%A3%E4%BB%BB-%E8%A7%82%E7%82%B9/">
+            後一篇：中国著名独立记者高瑜：批评社会是知识分子的责任｜观点
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2024-01-29/%E6%87%B7%E5%AF%86-%E8%A7%A3%E6%9E%90%E4%BA%BA%E9%A1%9E%E5%9F%BA%E5%9B%A0%E9%AB%94%E7%9A%84-%E6%8C%87%E7%B4%8B-%E5%B0%96%E7%AB%AF%E8%AC%9B%E5%BA%A7%E7%B3%BB%E5%88%97/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2024-01-30/%E4%B8%AD%E5%9B%BD%E8%91%97%E5%90%8D%E7%8B%AC%E7%AB%8B%E8%AE%B0%E8%80%85%E9%AB%98%E7%91%9C-%E6%89%B9%E8%AF%84%E7%A4%BE%E4%BC%9A%E6%98%AF%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90%E7%9A%84%E8%B4%A3%E4%BB%BB-%E8%A7%82%E7%82%B9/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2024-02-06/The-Apple-Vision-Pro/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2024-01-22/The-Apple-Vision-Pro-s-Missing-Apps/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2024-01-29/%E6%87%B7%E5%AF%86-%E8%A7%A3%E6%9E%90%E4%BA%BA%E9%A1%9E%E5%9F%BA%E5%9B%A0%E9%AB%94%E7%9A%84-%E6%8C%87%E7%B4%8B-%E5%B0%96%E7%AB%AF%E8%AC%9B%E5%BA%A7%E7%B3%BB%E5%88%97/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2024-01-30/%E4%B8%AD%E5%9B%BD%E8%91%97%E5%90%8D%E7%8B%AC%E7%AB%8B%E8%AE%B0%E8%80%85%E9%AB%98%E7%91%9C-%E6%89%B9%E8%AF%84%E7%A4%BE%E4%BC%9A%E6%98%AF%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90%E7%9A%84%E8%B4%A3%E4%BB%BB-%E8%A7%82%E7%82%B9/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2024-02-06/The-Apple-Vision-Pro/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2024-01-22/The-Apple-Vision-Pro-s-Missing-Apps/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

@@ -1,0 +1,1497 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>EP-033 唐志学：独裁者的终局与继承（文字版） – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+EP-033 唐志学：独裁者的终局与继承（文字版）
+——
+" />
+    <meta property="og:description" content="
+EP-033 唐志学：独裁者的终局与继承（文字版）
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="EP-033 唐志学：独裁者的终局与继承（文字版）" />
+    <meta property="twitter:title" content="EP-033 唐志学：独裁者的终局与继承（文字版）" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fwww.bumingbai.net%2F2023%2F01%2Fep-033-joseph-torigian-text%2F%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dep-033-joseph-torigian-text" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://www.bumingbai.net/2023/01/ep-033-joseph-torigian-text/?utm_source=rss&utm_medium=rss&utm_campaign=ep-033-joseph-torigian-text" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://www.bumingbai.net/2023/01/ep-033-joseph-torigian-text/?utm_source=rss&utm_medium=rss&utm_campaign=ep-033-joseph-torigian-text&text=EP-033 唐志学：独裁者的终局与继承（文字版）&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://www.bumingbai.net/2023/01/ep-033-joseph-torigian-text/?utm_source=rss&utm_medium=rss&utm_campaign=ep-033-joseph-torigian-text&title=EP-033 唐志学：独裁者的终局与继承（文字版）" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.bumingbai.net/2023/01/ep-033-joseph-torigian-text/?utm_source=rss&utm_medium=rss&utm_campaign=ep-033-joseph-torigian-text&title=EP-033 唐志学：独裁者的终局与继承（文字版）" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=EP-033 唐志学：独裁者的终局与继承（文字版）&body=
+EP-033 唐志学：独裁者的终局与继承（文字版）
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://www.bumingbai.net/2023/01/ep-033-joseph-torigian-text/?utm_source=rss&utm_medium=rss&utm_campaign=ep-033-joseph-torigian-text" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://www.bumingbai.net/2023/01/ep-033-joseph-torigian-text/?utm_source=rss&utm_medium=rss&utm_campaign=ep-033-joseph-torigian-text&title=EP-033 唐志学：独裁者的终局与继承（文字版）&caption=
+EP-033 唐志学：独裁者的终局与继承（文字版）
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=EP-033 唐志学：独裁者的终局与继承（文字版）&url=https://www.bumingbai.net/2023/01/ep-033-joseph-torigian-text/?utm_source=rss&utm_medium=rss&utm_campaign=ep-033-joseph-torigian-text" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>EP-033 唐志学：独裁者的终局与继承（文字版）</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2023-01-14
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#不明白播客">
+          不明白播客
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://www.bumingbai.net/2023/01/ep-033-joseph-torigian-text/?utm_source=rss&utm_medium=rss&utm_campaign=ep-033-joseph-torigian-text" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="不明白播客的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#不明白播客 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1673686800000-->
+<p><a href="https://www.bumingbai.net/2023/01/ep-033-joseph-torigian-text/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ep-033-joseph-torigian-text">EP-033 唐志学：独裁者的终局与继承（文字版）</a>
+——</p>
+
+<div>
+  <div id="buzzsprout-player-11988053"></div>
+  <script src="https://www.buzzsprout.com/1982525/11988053-.js?container_id=buzzsprout-player-11988053&amp;player=small" type="text/javascript" charset="utf-8"></script>
+  <p><strong>时间轴：<br /></strong>1:10 唐志学认为习仲勋的政治生涯对习近平有何影响<br />3:32 关于小说《刘志丹》和“小说反党”<br />12:12 习近平为什么如此重视党史以及反感“历史虚无主义”<br />15:30 为什么唐志学认为“派系”在中国政治中的作用被夸大了<br />20:50 为什么唐志学认为人们对华国锋和“四人帮”对认知有误区<br />27:05 唐志学认为人们对邓小平的认知有何误区<br />30:32 唐志学是否同意“习近平已经基本消除邓小平的政治遗产”这一说法<br />43:24 唐志学认为习近平会终身执政吗<br /><br /><strong>文字版全文<br /></strong><em>制作中，请稍后。。。。。。</em></p>
+  <p></p>
+  <p>袁莉：唐志学（Joseph Torigian）是美利坚大学助理教授，他的研究方向是威权政权，特别是精英政治斗争。今年耶鲁大学出版社出版了他的书，叫“Prestige, Manipulation, and Coercion: Elite Power Struggles in the Soviet Union and China after Stalin and Mao” 专门讲前苏联和中国在斯大林和毛泽东死后的权力斗争问题。他的论点是，以前很多研究政治学的学者喜欢强调在列宁主义国家里制度建设的重要性，但从斯大林和毛泽东死后，赫鲁晓夫和邓小平争夺最高权力的斗争过程来看，一党专政国家最大的特点是弱制度建设，因此权力斗争并非取决于政策孰优孰劣，而更多取决于领导人在党内的声望、社会关系、对决策部门的操纵以及军队和秘密警察的参与。他也正在写一本关于习近平的父亲习仲勋的传记。</p>
+  <p>Joseph你好，你在写一本习仲勋传，你能不能谈一谈他大起大伏的政治生涯对习近平有什么影响？也许可以先从习仲勋和刘志丹的关系和西北军被清洗讲起？</p>
+  <p>Joseph Torigian：这个问题特别难讲。第一是因为这个问题本来就很复杂。第二，因为这个题目非常的敏感，几十年以来算是当时那个禁区，原因在于早期的西北革命区的内斗和肃反特别严重。曾经在中顾委工作过的王晓忠在他的回忆录讲到说：对于西北问题如此重要的史实，过去的党史宣传中总是轻描淡写，含糊其辞，一带而过，对那些不堪回首的内乱和杀戮一概闭口不提。</p>
+  <p>为什么是这样呢？一个很重要的例子是1932年2月份的所谓的三家园事件。当时谢子长和阎红彦认为他们的部队应该宣布他们是共产党，但是刘志丹不同意，他觉得这个决定太早，应该先装成是一个军阀的部队。另外谢子长和阎红彦认为刘志丹的人主要是土匪，不可信，应该把他们赶走。<br />刘志丹的党性很强。刘是个非常守纪律的人，我认为这一点对于习仲勋的影响还是很大的。<br />刚好这个时候，毛泽东和党中央到了西北。他们本来都不知道西北有苏区，他们打算到一个更靠苏联的地方去。习仲勋以后说了很多次，如果中央没有到，他就要被活埋。其实是认为毛泽东救了他的命。那时中央没有马上给刘志丹、高岗和习仲勋平反，中央把他们分配到很偏僻的地方。是在这样的情况之下，刘志丹很想要证明他是革命的，要在战场上争功，所以他不小心去世了。刘志丹去世的时候，他的个人档案还说他犯过严重的右的错误。</p>
+  <p>袁莉：你能不能说一下，有一本小说叫《刘志丹》，然后能不能讲一下“小说反党”是怎么回事？这部小说一直到2009年，习近平已经是副主席，而且是指定接班人了，还是没有能出版，至今也还是没出版，这说明了什么呢？</p>
+  <p>Joseph Torigian：习仲勋很有意思的地方是，1949以后的十年被整的最高级的领导人都跟他有很密切的关系。第一当然是来自西北的高岗。毛泽东本来非常欣赏高岗，毛认为高岗和习仲勋在西北受的苦很像他在江西受的苦，都是跟极左的教条主义者作对。</p>
+  <p>建国以后，刘少奇在党内的地位非常高。但是有些人认为这是不公平的。因为刘少奇的工作主要是在白区，但是白区在革命当中的角色没有红区重要。刘少奇也说了一些毛泽东认为太右的话。毛很不高兴，他就跟高岗讲了一些批评刘少奇的话。但是高岗太胡来，他以为毛要把刘少奇整掉，其实毛应该只不过是敲打刘少奇的。习仲勋曾经警告过高岗，他说那些长征的人是不会尊重我们西北的。高出事之后，习仲勋又同情又生气。习仲勋没有跟高岗一起下台，但是中央让习仲勋写很多检讨他跟高的关系的报告。<br />然后呢，1959年彭德怀也出事了，而彭德怀和习仲勋的关系也非常的密切，从1947年到1949年在西北战场，习仲勋是彭德怀的政委。况且，彭德怀跟高岗的关系也很密切。朝鲜战争的时候，东北在前线。当时高岗是东北的大王，彭德怀是在朝鲜的司令。<br />在这样的情况之下，习仲勋应该很谨慎，但是刘志丹的嫂子李建彤要写一本有关刘志丹的小说。习仲勋本来不要她写，习仲勋说西北问题太复杂，太危险，最好不要写。但是李建彤让别的老西北干部向习仲勋施压，习仲勋终于同意了。<br />李建彤的书的是在1962年出版的，非常不是时候。这一年，彭德怀向中央写信，要给他平反，毛泽东也认为大跃进的整顿已经过头了。毛以为这些问题同时出现是因为党已经忘了阶级斗争，这是非常严重的问题。</p>
+  <p>我以前提到的阎红彦发现《刘志丹》小说要出版的时候，他就向中央告状。好多人都怪康生拿阎红彦的小报告大做文章。但是按照我们现在所掌握的历史资料，其实可以说是集体出手。邓小平、杨尚昆和彭真起的作用都很大，而且没有毛泽东拍板，习大概也不会有问题的。中央认为，写刘志丹等于写西北，写西北等于写高岗，高岗和彭德怀是反党集团，现在可以再加个习仲勋，所以就成了彭高习集团。毛泽东说，利用小说搞反党活动是一大发明，其实习仲勋下台，在某种程度上是文革的前奏。</p>
+  <p>袁莉：那你有没有对习近平在他父亲被打倒之后的遭遇做一些研究？习近平早年的那些遭遇，对他对于权力斗争的态度有什么影响？因为中国不少精英，包括红二代，在私下里都会说，习近平现在如此铁腕，是因为他受童年的阴影影响，你同意这个说法吗？</p>
+  <p>Joseph Torigian：具体是怎么回事？当然不好说。我不是搞心理学的，而且还有很多问题需要进一步考证，我只能提出一些推测，供大家参考。习近平在习仲勋出事之后的遭遇确实很厉害。在那样的历史条件之下，你爸爸出事，你就是黑五类。那个时候习近平是八一学校的学生，他的同学主要都是高干子弟，1962年他们的爸爸妈妈都还在位，他们的下台，大部分是文革的时候才开始的。所以，虽然习近平是所谓的红二代，他的情况跟别的红二代有很重要的区别。文革开始之后，这些高干子弟非常的活跃，很多第一代的红卫兵是高干子弟，但是习近平不能参加，因为他是黑五类，这一点肯定很不是滋味。习近平的妈妈齐心是在党校工作的，斗习近平的斗争会都在党校。因为习近平爸爸的情况，习近平还坐过牢。80年代的时候，他说条件非常非常差，他还想到死，而且他的姐姐确实被整死。<br />习近平当知青是1969年的时候，他在乡下申请入党很多次，不让他入党的原因是他爸爸的成分。这个时候有关他爸爸的谣言很多，习近平都不知道他爸爸还在不在世。那习近平从这些经验学到什么呢？一个可能是他学到谨慎。<br />我举个例子：02年或者03年的时候，毛泽东以前的秘书，一个叫李锐的人去找习近平，因为李锐也跟习仲勋的关系非常好。嗯，然后李锐跟习近平说，哎，你现在的地位不一样的，你可以多去讲。习近平说我不像你，你知道怎么打擦边球，我不会，我不敢。</p>
+  <p>然后习近平上台之前，很多跟他聊天的人觉得习近平对他们有好感，但是习近平没有什么比较具体的表现。所以我觉得习近平上台之前，他算是敏感吧，这个谨慎，跟他这种历史背景有没有关系，值得玩味。对，然后我觉得更重要的是，习仲勋虽然吃这么多苦，他对党的忠诚，从来都没有动摇。我其实发现习仲勋以为他吃的苦是一种，他以他吃的苦为荣。他曾经说邓小平是被整过三次，而我习仲勋是五次，但是这不是抱怨，就是说他是经过锻炼，党性很强。习近平有一次给他爸爸写信，习近平是这么写的：无论是白色恐怖的年代，还是极左路线时期，无论是受人诬陷，还是身处逆境，爸爸对共产主义的信念仍坚定不移，相信我们的党是伟大的，正确的，光荣的。您的言行为我们指明正确的前进方向。</p>
+  <p>还有一点很重要，就是习近平为什么是习仲勋最喜欢的儿子？据我们的理解，习仲勋说是因为习近平最有血气，所以习近平不是很多人想得那么软吧。要我猜，我不会觉得习近平自己认为他反腐和迫害异己份子是搞文革的那一套。习近平肯定是恨死文革，这是我相信的，习近平认为他整的人跟他爸爸应该很不一样，因为在习近平的脑子里这些人确实是有犯错误的、犯罪的，不是编造的。他这样做，反腐不是搞文革旧的（那一套）。而且习仲勋最大的政治遗产，是党的利益在第一位。</p>
+  <p>习近平如此忠于党的性格，完全可以说有其父必有其子，放到（别人身上），如果你爸爸，你全家人是这么受委曲的，你可能就更想证明你比谁都红，比谁都有使命感。所以习近平这种争功意识可能跟这个有关系吧。</p>
+  <p><em>制作中，请稍后。。。。。。</em></p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#不明白播客 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-28/EP-137-%E8%AE%B8%E6%88%90%E9%92%A2-DeepSeek-%E6%B0%91%E4%BC%81%E5%BA%A7%E8%B0%88%E4%BC%9A%E8%83%BD%E5%90%A6%E9%87%8D%E6%8C%AF%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E-(%E6%96%87%E5%AD%97%E7%89%88/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2022-10-09/EP-020-%E8%94%A1%E9%9C%9E-%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E5%AF%B9%E4%B8%AD%E5%85%B1%E7%BB%9D%E6%9C%9B/">最早</a>--</span>
+    
+      <li>
+        <time>2023-01-27</time>
+        <a href="https://nodebe4.github.io/opinion/2023-01-27/EP-034-%E8%90%A7%E7%80%9A-%E4%B8%AD%E5%9B%BD%E5%8F%A4%E4%BB%A3%E7%9A%84%E5%A5%B3%E6%94%B9%E9%9D%A9%E5%AE%B6/">
+          EP-034 萧瀚：中国古代的女改革家
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-01-21</time>
+        <a href="https://nodebe4.github.io/opinion/2023-01-21/%E7%B2%BE%E9%80%89-%E8%91%9B%E5%85%86%E5%85%89-%E4%BC%A0%E7%BB%9F%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%AE%A4%E8%AF%86%E4%B8%96%E7%95%8C%E7%9A%84%E6%9B%B2%E6%8A%98%E5%92%8C%E6%8C%AB%E6%8A%98/">
+          [精选]葛兆光：传统中国人认识世界的曲折和挫折
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-01-14</time>
+        <a href="https://nodebe4.github.io/opinion/2023-01-14/EP-033-%E5%94%90%E5%BF%97%E5%AD%A6-%E7%8B%AC%E8%A3%81%E8%80%85%E7%9A%84%E7%BB%88%E5%B1%80%E4%B8%8E%E7%BB%A7%E6%89%BF/">
+          EP-033 唐志学：独裁者的终局与继承
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-01-07</time>
+        <a href="https://nodebe4.github.io/opinion/2023-01-07/EP-032-%E7%8E%8B%E5%BF%97%E5%AE%89-%E5%A4%AE%E8%A7%86-%E5%AE%A1%E6%9F%A5%E5%92%8C-%E5%A4%A7%E5%A4%96%E5%AE%A3-%E6%96%87%E5%AD%97%E7%89%88/">
+          EP-032 王志安：央视、审查和“大外宣”（文字版）
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2023-01-14/EP-033-%E5%94%90%E5%BF%97%E5%AD%A6-%E7%8B%AC%E8%A3%81%E8%80%85%E7%9A%84%E7%BB%88%E5%B1%80%E4%B8%8E%E7%BB%A7%E6%89%BF/">
+            前一篇：EP-033 唐志学：独裁者的终局与继承
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2023-01-14/%E5%9C%A8%E5%8E%86%E5%8F%B2%E7%9A%84%E9%95%BF%E6%B2%B3%E4%B8%AD%E8%A7%82%E5%AF%9F%E5%85%B1%E4%BA%A7%E5%85%9A-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%94%BF%E6%B2%BB%E6%94%B9%E9%9D%A9/">
+            後一篇：在历史的长河中观察共产党、习近平和中国的政治改革
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2023-01-14/EP-033-%E5%94%90%E5%BF%97%E5%AD%A6-%E7%8B%AC%E8%A3%81%E8%80%85%E7%9A%84%E7%BB%88%E5%B1%80%E4%B8%8E%E7%BB%A7%E6%89%BF/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2023-01-14/%E5%9C%A8%E5%8E%86%E5%8F%B2%E7%9A%84%E9%95%BF%E6%B2%B3%E4%B8%AD%E8%A7%82%E5%AF%9F%E5%85%B1%E4%BA%A7%E5%85%9A-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%94%BF%E6%B2%BB%E6%94%B9%E9%9D%A9/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2023-01-21/%E7%B2%BE%E9%80%89-%E8%91%9B%E5%85%86%E5%85%89-%E4%BC%A0%E7%BB%9F%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%AE%A4%E8%AF%86%E4%B8%96%E7%95%8C%E7%9A%84%E6%9B%B2%E6%8A%98%E5%92%8C%E6%8C%AB%E6%8A%98/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2023-01-14/EP-033-%E5%94%90%E5%BF%97%E5%AD%A6-%E7%8B%AC%E8%A3%81%E8%80%85%E7%9A%84%E7%BB%88%E5%B1%80%E4%B8%8E%E7%BB%A7%E6%89%BF/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2023-01-14/EP-033-%E5%94%90%E5%BF%97%E5%AD%A6-%E7%8B%AC%E8%A3%81%E8%80%85%E7%9A%84%E7%BB%88%E5%B1%80%E4%B8%8E%E7%BB%A7%E6%89%BF/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2023-01-14/%E5%9C%A8%E5%8E%86%E5%8F%B2%E7%9A%84%E9%95%BF%E6%B2%B3%E4%B8%AD%E8%A7%82%E5%AF%9F%E5%85%B1%E4%BA%A7%E5%85%9A-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%94%BF%E6%B2%BB%E6%94%B9%E9%9D%A9/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<不明白播客>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2023-01-21/%E7%B2%BE%E9%80%89-%E8%91%9B%E5%85%86%E5%85%89-%E4%BC%A0%E7%BB%9F%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%AE%A4%E8%AF%86%E4%B8%96%E7%95%8C%E7%9A%84%E6%9B%B2%E6%8A%98%E5%92%8C%E6%8C%AB%E6%8A%98/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<不明白播客>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2023-01-14/EP-033-%E5%94%90%E5%BF%97%E5%AD%A6-%E7%8B%AC%E8%A3%81%E8%80%85%E7%9A%84%E7%BB%88%E5%B1%80%E4%B8%8E%E7%BB%A7%E6%89%BF/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

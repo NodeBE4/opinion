@@ -1,0 +1,1070 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>我的生活是一条河，一切都是本质和当下 | 围炉共读会《悉达多》 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+我的生活是一条河，一切都是本质和当下 | 围炉共读会《悉达多》
+——
+" />
+    <meta property="og:description" content="
+我的生活是一条河，一切都是本质和当下 | 围炉共读会《悉达多》
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="我的生活是一条河，一切都是本质和当下 | 围炉共读会《悉达多》" />
+    <meta property="twitter:title" content="我的生活是一条河，一切都是本质和当下 | 围炉共读会《悉达多》" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fmatters.news%2F%40weiluflame%2F%25E6%2588%2591%25E7%259A%2584%25E7%2594%259F%25E6%25B4%25BB%25E6%2598%25AF%25E4%25B8%2580%25E6%259D%25A1%25E6%25B2%25B3-%25E4%25B8%2580%25E5%2588%2587%25E9%2583%25BD%25E6%2598%25AF%25E6%259C%25AC%25E8%25B4%25A8%25E5%2592%258C%25E5%25BD%2593%25E4%25B8%258B-%25E5%259B%25B4%25E7%2582%2589%25E5%2585%25B1%25E8%25AF%25BB%25E4%25BC%259A-%25E6%2582%2589%25E8%25BE%25BE%25E5%25A4%259A-bafybeihmqy6knso6xtcepnjtik4swhbtpefszyz5y6yq3ujyzeh2frovva" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://matters.news/@weiluflame/%E6%88%91%E7%9A%84%E7%94%9F%E6%B4%BB%E6%98%AF%E4%B8%80%E6%9D%A1%E6%B2%B3-%E4%B8%80%E5%88%87%E9%83%BD%E6%98%AF%E6%9C%AC%E8%B4%A8%E5%92%8C%E5%BD%93%E4%B8%8B-%E5%9B%B4%E7%82%89%E5%85%B1%E8%AF%BB%E4%BC%9A-%E6%82%89%E8%BE%BE%E5%A4%9A-bafybeihmqy6knso6xtcepnjtik4swhbtpefszyz5y6yq3ujyzeh2frovva" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://matters.news/@weiluflame/%E6%88%91%E7%9A%84%E7%94%9F%E6%B4%BB%E6%98%AF%E4%B8%80%E6%9D%A1%E6%B2%B3-%E4%B8%80%E5%88%87%E9%83%BD%E6%98%AF%E6%9C%AC%E8%B4%A8%E5%92%8C%E5%BD%93%E4%B8%8B-%E5%9B%B4%E7%82%89%E5%85%B1%E8%AF%BB%E4%BC%9A-%E6%82%89%E8%BE%BE%E5%A4%9A-bafybeihmqy6knso6xtcepnjtik4swhbtpefszyz5y6yq3ujyzeh2frovva&text=我的生活是一条河，一切都是本质和当下 | 围炉共读会《悉达多》&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://matters.news/@weiluflame/%E6%88%91%E7%9A%84%E7%94%9F%E6%B4%BB%E6%98%AF%E4%B8%80%E6%9D%A1%E6%B2%B3-%E4%B8%80%E5%88%87%E9%83%BD%E6%98%AF%E6%9C%AC%E8%B4%A8%E5%92%8C%E5%BD%93%E4%B8%8B-%E5%9B%B4%E7%82%89%E5%85%B1%E8%AF%BB%E4%BC%9A-%E6%82%89%E8%BE%BE%E5%A4%9A-bafybeihmqy6knso6xtcepnjtik4swhbtpefszyz5y6yq3ujyzeh2frovva&title=我的生活是一条河，一切都是本质和当下 | 围炉共读会《悉达多》" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://matters.news/@weiluflame/%E6%88%91%E7%9A%84%E7%94%9F%E6%B4%BB%E6%98%AF%E4%B8%80%E6%9D%A1%E6%B2%B3-%E4%B8%80%E5%88%87%E9%83%BD%E6%98%AF%E6%9C%AC%E8%B4%A8%E5%92%8C%E5%BD%93%E4%B8%8B-%E5%9B%B4%E7%82%89%E5%85%B1%E8%AF%BB%E4%BC%9A-%E6%82%89%E8%BE%BE%E5%A4%9A-bafybeihmqy6knso6xtcepnjtik4swhbtpefszyz5y6yq3ujyzeh2frovva&title=我的生活是一条河，一切都是本质和当下 | 围炉共读会《悉达多》" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=我的生活是一条河，一切都是本质和当下 | 围炉共读会《悉达多》&body=
+我的生活是一条河，一切都是本质和当下 | 围炉共读会《悉达多》
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://matters.news/@weiluflame/%E6%88%91%E7%9A%84%E7%94%9F%E6%B4%BB%E6%98%AF%E4%B8%80%E6%9D%A1%E6%B2%B3-%E4%B8%80%E5%88%87%E9%83%BD%E6%98%AF%E6%9C%AC%E8%B4%A8%E5%92%8C%E5%BD%93%E4%B8%8B-%E5%9B%B4%E7%82%89%E5%85%B1%E8%AF%BB%E4%BC%9A-%E6%82%89%E8%BE%BE%E5%A4%9A-bafybeihmqy6knso6xtcepnjtik4swhbtpefszyz5y6yq3ujyzeh2frovva" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://matters.news/@weiluflame/%E6%88%91%E7%9A%84%E7%94%9F%E6%B4%BB%E6%98%AF%E4%B8%80%E6%9D%A1%E6%B2%B3-%E4%B8%80%E5%88%87%E9%83%BD%E6%98%AF%E6%9C%AC%E8%B4%A8%E5%92%8C%E5%BD%93%E4%B8%8B-%E5%9B%B4%E7%82%89%E5%85%B1%E8%AF%BB%E4%BC%9A-%E6%82%89%E8%BE%BE%E5%A4%9A-bafybeihmqy6knso6xtcepnjtik4swhbtpefszyz5y6yq3ujyzeh2frovva&title=我的生活是一条河，一切都是本质和当下 | 围炉共读会《悉达多》&caption=
+我的生活是一条河，一切都是本质和当下 | 围炉共读会《悉达多》
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=我的生活是一条河，一切都是本质和当下 | 围炉共读会《悉达多》&url=https://matters.news/@weiluflame/%E6%88%91%E7%9A%84%E7%94%9F%E6%B4%BB%E6%98%AF%E4%B8%80%E6%9D%A1%E6%B2%B3-%E4%B8%80%E5%88%87%E9%83%BD%E6%98%AF%E6%9C%AC%E8%B4%A8%E5%92%8C%E5%BD%93%E4%B8%8B-%E5%9B%B4%E7%82%89%E5%85%B1%E8%AF%BB%E4%BC%9A-%E6%82%89%E8%BE%BE%E5%A4%9A-bafybeihmqy6knso6xtcepnjtik4swhbtpefszyz5y6yq3ujyzeh2frovva" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>我的生活是一条河，一切都是本质和当下 | 围炉共读会《悉达多》</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2023-10-15
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: 围炉weiluflame</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#围炉">
+          围炉
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://matters.news/@weiluflame/%E6%88%91%E7%9A%84%E7%94%9F%E6%B4%BB%E6%98%AF%E4%B8%80%E6%9D%A1%E6%B2%B3-%E4%B8%80%E5%88%87%E9%83%BD%E6%98%AF%E6%9C%AC%E8%B4%A8%E5%92%8C%E5%BD%93%E4%B8%8B-%E5%9B%B4%E7%82%89%E5%85%B1%E8%AF%BB%E4%BC%9A-%E6%82%89%E8%BE%BE%E5%A4%9A-bafybeihmqy6knso6xtcepnjtik4swhbtpefszyz5y6yq3ujyzeh2frovva" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="围炉的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#围炉 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1697352786000-->
+<p><a href="https://matters.news/@weiluflame/%E6%88%91%E7%9A%84%E7%94%9F%E6%B4%BB%E6%98%AF%E4%B8%80%E6%9D%A1%E6%B2%B3-%E4%B8%80%E5%88%87%E9%83%BD%E6%98%AF%E6%9C%AC%E8%B4%A8%E5%92%8C%E5%BD%93%E4%B8%8B-%E5%9B%B4%E7%82%89%E5%85%B1%E8%AF%BB%E4%BC%9A-%E6%82%89%E8%BE%BE%E5%A4%9A-bafybeihmqy6knso6xtcepnjtik4swhbtpefszyz5y6yq3ujyzeh2frovva">我的生活是一条河，一切都是本质和当下 | 围炉共读会《悉达多》</a>
+——</p>
+
+<div>
+  <h2 id="section"><strong>前言</strong></h2>
+  <p>1946 年，德国作家、诗人黑塞凭借作品《荒原狼》获得了诺贝尔文学奖。这是 20 世纪西方小说的经典之作，讲述了欧洲中年知识分子走投无路的困境，社会秩序的崩塌，和旧价值观的瓦解。当时诺贝尔文学奖给予他的获奖词是“他将具有高度的创意和深刻的洞察力赋予作品，为崇高的人道主义理想和高尚风格提供了范例。”</p>
+  <p>事实上，在经历了一战和二战两项重大历史事件后，黑塞的作品便趋于分析人格和心理，细腻的笔触更是让其文字具有洞悉人心的力量，为在时代变革中感到迷茫和困顿的人提供了一处庇护所。《悉达多》便是其中的代表作品。</p>
+  <p>现如今，走进许多书店的“畅销板块”，不同译本的《悉达多》仍旧排列其中，黑塞的读者群众广涵各个人生阶段的人群。此书虽然描述的是古印度贵族背景下的个人成长经历，但小说结尾万事万物的圆融统一、求道之路上的心灵挣扎、作品背后所涵盖的东西方哲学精髓却仍旧为21世纪的我们提供了自我探寻的方式。借助此次读书会，我们能够获得更多的视角，以开放包容的心态反观自己的人生。下文将呈现读书会期间书友们针对一些书中主题的讨论以及我们的思考。</p>
+  <figure class="image">
+<img src="https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/7dc60028-a2bb-4674-bd88-6e0a7897d285.jpeg/public" referrerpolicy="no-referrer" />    <figcaption></figcaption>
+  </figure>
+  <p></p>
+  <h2 id="section-1"> <strong> 1</strong>  <strong>体验 </strong></h2>
+  <blockquote>
+    <p><strong>"当我们读黑塞，我们到底在读什么？"</strong></p>
+  </blockquote>
+  <p></p>
+  <p><strong>在文本中，除逻辑之外一切都是文体。通过对词汇、音韵、句法、语义乃至段落篇章的掌握和运用，作者能够将自己的主观感受蕴藏在每一篇幅和字句中。对于黑塞而言，他的语言组合所建立的独特体系，能够生动地化为内在的力量与后劲，从而呈现行文上的流畅、自然、澄澈。</strong></p>
+  <p><strong>姜乙对《悉达多》的翻译使得小说更具可读性。在悉达多每个重要的人生路口，都有着意境美妙的描写。其中对悉达多求道途中的内心描写和对于作者思想的深度探讨也给当代读者提供了更多理解的可能。</strong></p>
+  <p></p>
+  <p><strong>刘 | </strong>我认为《悉达多》的语言风格是跳脱且空灵的，有一种隔着一层玻璃去观察世界的感觉，这本小说给我一种这样的感受——不要用理性去思考，要用心去感受生活的周遭。可能不同的文化获得对世界的理解都是整个世界的一部分，我看到了我以前从未涉足的部分。<strong>我们能得到在我们熟悉的知识系统中之外的观察。</strong></p>
+  <p></p>
+  <p><strong>Sevey | </strong>我觉得《悉达多》最终想体现出来的是佛教的外壳与道教的内在。天地与我共生，万物与我合一。每个人都是这条河流，也都汇入这条河流。我们的讨论也是见仁见智的过程。前者可以从悉达多中读到文化的距离，后者也可以读到自我的追寻。</p>
+  <p></p>
+  <p><strong>Celestine | </strong>我自己会感觉好的艺术作品就是能让我感受到创作者在通过自己的作品进行不断的追问。既有对自己所处世界的追问，也有对自我的追问。也是因为这样，这些创作者好像成为了我在探索世界和自我的道路上的同伴。</p>
+  <p></p>
+  <p><strong>Sevey | </strong>我记得《金蔷薇》就是这么描述作家灵感的迸发的。通过作者而体验何尝不是一种体验，现在感受不彻底，说不定未来某个倏忽的一瞬间，你站在阁楼上、客舟中，也许灵光乍现，脑海会回闪曾经读到过的某种体验。穆旦诗里写“当我踏出这芜杂的门径，关在里面的是过去的日子，青草样的忧郁，红花样的青春。”悉达多离开祇园的身影又何尝不是千千万万个我们离开象牙塔的映照。</p>
+  <p>我们都说“向死而生”，但悉达多最后的生命体悟，这“幼稚的求死之心”又在“唵”的呼唤里被击溃、被战胜，<strong>死亡恰恰证明了人类向荒诞投降的不堪一击，而留在人世间击退苦难，拨开迷雾，才能得到精神上的平和宁静。</strong></p>
+  <p>在最后他回忆见过的种种人和事，所有的幻影像一场蒙太奇汇入百面千相的生命之河，他流淌进这条河流又从河流中超脱而出，“唵”既是佛者所不断追寻的遥远召唤，也是内心之道的静水流深。佛经说“诸法无我。”我是主宰，万物也皆可以是我，每一刻微妙的体验最终都构成了“我”的一部分。</p>
+  <p></p>
+  <h2 id="section-2"> <strong> 2</strong>  <strong>矛盾 </strong></h2>
+  <blockquote>
+    <p><strong>"悉达多身上有一些矛盾的人性，这些矛盾是善与恶的冲突吗？"</strong></p>
+  </blockquote>
+  <h3 id="section-3"></h3>
+  <p><strong>炉 | </strong>我觉得是有矛盾的人性的，但不局限于善于恶，而是说两面的人性（看似对立的两个个体）组成了一个完整的人格。一个是婆罗门悉达多，一个是内心憧憬找到自己道义的悉达多。<strong>前者有点像荣格提到的”人格面具“，是悉达多向外展现的自我；后者我把它类比成“阴影”，是内心深藏的自我，和自我渴望甚至觉得羞耻的形象有关。</strong>悉达多一直到堕入尘世都是摘下旧的人格面具，戴上新的，人格不断发展，完成一种自我整合。</p>
+  <p></p>
+  <p><strong>Sevey | </strong>就像是悉达多初入世感受到自己变成胡狼，变成枯杨，他感受到不同的生命体验，他认为这就是“唵”的呼唤，而他涉入尘世，又看到另一种追求的人生，与其说是面具，不如说每一面都是他，都是每一刻无限接近“唵”的体验。</p>
+  <p></p>
+  <p><strong>炉 | </strong>对，无限接近“唵”的体验也是我认为黑塞想向读者传递的内容。我觉得这也是为什么每个人都能在悉达多里找到自己的解读。小说结尾当悉达多再次面对河流时，他发现自己已经能够真实地感受到世间的喜怒哀乐，也能理解世人的虚荣、欲望和荒谬，理解了每个人都有他自己独一无二的情绪与生活。当他不再试图把这个世界抽象化、简单化，包容一切体验，就像河流一般承载万物时，悉达多终于真正地感受到了“唵”。我们也在随他一起经历这一切后感知到人性和生命的魄力。</p>
+  <p></p>
+  <h2 id="section-4"> <strong> 3</strong>   <strong>醒悟 </strong></h2>
+  <blockquote>
+    <p><strong>"所谓的法义究竟是何物？"</strong></p>
+  </blockquote>
+  <figure class="image">
+<img src="https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/e7306df1-f6e6-406d-9e23-492b73518e80.jpeg/public" referrerpolicy="no-referrer" />    <figcaption></figcaption>
+  </figure>
+  <p><strong>“在明晰又可敬的法义中不包含世尊的历程，那个您独自超越众生的秘密。这就是我在聆听法义时思考和认识的。这就是我为何要继续我的求道之路——并非去寻找更好的法义，我知道它并不存在——而是为摆脱所有圣贤及法义，独自去实现我的目标，或者去幻灭。”</strong></p>
+  <p></p>
+  <p><strong>炉 | </strong>第一部中，作者多次提到“法义”两字。我个人认为法义可以看作彻悟之后的心理状态，而不是一种教条式的道义。你是如何看待“法义”的意义的？</p>
+  <p></p>
+  <p><strong>刘 | </strong>所有的游戏理解终究不是独属于我们每个人的理解，也正如文中提到，悉达多认为乔达摩的法义是没有漏洞的，因为我们可能能够记得住“法义”原文，但我们终究不是乔达摩本人。这里也让我联想到宗教改革。<strong>在宗教改革后，我们每个人都可以脱离僧侣的注解去理解《圣经》原文，我们可以并且应该对法义有自己的注释和理解。</strong></p>
+  <p></p>
+  <p><strong>Muchun | </strong>最近读一本关于菩提达摩的小说，里面提到《二入四行论》，二入是理入和行入。可以说法义不只是道理，更是行动。行入实际上表明人只能在自身之中证悟，最后会超越自身。最后，摆脱所有圣贤和法义，有点不立言论，不落入言论的桎梏的意思。尽管目标都是觉悟，但法门却是多种多样的。</p>
+  <p></p>
+  <p><strong>炉 | </strong>我想起文中不断提及的“阿特曼”一概念。文中的阿特曼可以理解为印度佛教中最本真的追求，这里语境下的法义便集中在悉达多自身，即无时无刻都能在内心找寻到一种安宁。博尔赫斯说“人最终都是在用各种方式写自传。”这些人生经历或各不相同，但其中的阿特曼也只能对应着特定的语境，“法义”也是如此。</p>
+  <p></p>
+  <h2 id="section-5"> <strong> 4</strong>  <strong>追溯 </strong></h2>
+  <blockquote>
+    <p><strong>"过往经历是如何塑造内在的？"</strong></p>
+  </blockquote>
+  <p></p>
+  <p><strong>“我寻找阿特曼，寻找大梵，我曾渴望的是‘我’被肢解、蜕变，以便在陌生的内在发现万物核心，发现阿特曼，发现生命，发现神性的终极之物。可在这条路上，我却迷失了自己。”</strong></p>
+  <p></p>
+  <p><strong>炉 | </strong>在第一部中，悉达多在寻找“我”的道路上丢弃了什么，又获得了什么？</p>
+  <p></p>
+  <p><strong>Muchun | </strong>这个问题其实很有意思，我一直没有很明白悉达多是婆罗门教传统还是佛教传统。因为悉达多这个名字让我们想起佛教，但是atman、梵我这样的表述实际上不是佛教的。如果说背景是婆罗门教，那么就是最终进入梵我。如果是佛教，应该说最终什么也不会得到。就像剥洋葱一样，一层一层往下剥，最后什么都没有了。</p>
+  <p></p>
+  <p><strong>炉 | </strong>我记得婆罗门教（印度教）是主张人生轮回的，大概强调要达到“梵我合一”的境界。其实在这个层面上和佛教倒是有些类似，通过一系列因果轮，从罪恶中解脱获得安乐。但是佛教其实更强调“众生平等”，感觉和文中的“阿特曼”并不等同。我会倾向于他是获得了一种对所有人性的平等解读，丢弃了之前可能“婆罗门至上”的想法。</p>
+  <p></p>
+  <p><strong>Muchun | </strong>僧肇的《不真空论》里面有一句话说，“寻夫不有不无者，岂谓涤除万物，杜塞视听，寂寥虚豁”。也就是说，并不是与外界相关的种种经验、欲望都被舍弃、洗干净之后才会获得宁静。<strong>而是要从混沌的认知转入清醒的觉知。</strong>所以也常说“烦恼即菩提”，纷扰中的我和宁静的我并不是彼此对立的两个我。</p>
+  <p></p>
+  <p><strong>刘 | </strong>悉达多所做的一切都是希望寻得自我的真谛，所以当悉达多抛下这一世俗身份的牵绊又回到沙门的生活也在他的意料之内，当然这也给了我们一种“世俗之人都只是囚在笼中的金丝雀”的感觉。</p>
+  <p></p>
+  <p><strong>炉 | </strong>这种“世俗生活”其实也是丰满悉达多人格的一种方式，就像你说的“世俗之人都只是囚在笼中的金丝雀”，只有当悉达多亲自感受到这一部分人性的欲望和情感，他才能离内心更近一些。正如他另一部作品《朝圣者之歌》中写到的：“从无罪到有罪，从有罪到绝望，从绝望到灭亡或解脱，<strong>即非为了逃避道德与文化再返回童年的天堂，而是去经受两者的洗礼直至能根据自己的信仰来生活”。</strong></p>
+  <p></p>
+  <h2 id="section-6"> <strong> 5</strong>  <strong>成长—— </strong></h2>
+  <blockquote>
+    <p><strong>"将东西方文化视角下的自我圆融思想放至当下"</strong></p>
+  </blockquote>
+  <p></p>
+  <p><strong>“一切都集合在了一起，一切声音，一切目标，一切欲望，一切苦恼，一切快感，一切善与恶，所有这一切在一起构成了世界。一切都集合在一起就是万象之河，就是生命的乐章。”</strong></p>
+  <p><strong>北京外国语大学历史学教授李雪涛在研究《悉达多》时写道「在《悉达多》一书的结尾，黑塞多次提到了“统一”，这可以说是他最高的一种追求了：所有生命现象和力量的统一。正是在这其中隐藏着与西方截然对立的思想，经历了一次世界大战的黑塞对西方文化中的冲突和矛盾可谓深恶痛绝，他希望在印度和中国的精神中找到一种和谐，特别是内在的统一，但这并不意味着他要摈弃西方精神的全部。这样的结尾，与其说是印度式的，不如说是东西宗教、思想的大融合」</strong></p>
+  <p></p>
+  <p><strong>Muchun | </strong>歌德写过成长小说——《威廉迈斯特的成长时代》，讲威廉迈斯特在外游历，在游历的过程中提升自我。几乎同时代的诺瓦利斯也写过成长小说——《奥夫特丁根》，但他认为重要的不是在外游历，而是回归自我，提升自我只需要一个内在的跳跃。《悉达多》实际上是从自我走向世界，又从世界走向自我，这是同一个过程的两个方面。《悉达多》一开始对沙门和世俗欲望的对比是西方文化中的二元论（dualism），与之对应的是心灵与身体、真我与假我的区分。而东方文化实际上不是二元论的，而是追求一种整合和扬弃，也更加注重实践和体验。</p>
+  <p></p>
+  <p><strong>炉 | </strong>《悉达多》之所以现在依旧畅销，和书中包含的世界文化精神共同体也有关系。这并不局限在某一个具体的东方或西方视域。尽管《悉达多》的场景被黑塞安排在了古典时代的印度，但悉达多却是一部真真切切的现代小说，因为它充满着人的内在心灵与外部世界所存在的分裂与疏离。你提到的东方文化中的整合和扬弃，我觉得也是构成黑塞对整体文化和人类认识的一个基础。读者们一边在读《悉达多》，一边也能收对各种探求道路进行自我追问：如何回归自我？如何将实践和自我感受紧密相连。我想这是伴随我们一生的问题。</p>
+  <figure class="image">
+<img src="https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/171974dc-a00b-4acd-8c98-66a7a68087b9.jpeg/public" referrerpolicy="no-referrer" />    <figcaption></figcaption>
+  </figure>
+  <p></p>
+  <h2 id="section-7"><strong>结语</strong></h2>
+  <p><strong>流泊 |</strong> 我记得第一次读到结尾的河流与面庞时（<strong>“他看见一条奔腾的面孔之河。成百上千张脸生成、寂灭，又同时存在、展现。这些脸持续地改变着、更新着。却又都是悉达多的脸”</strong>），想到那篇讨论读书与教养的随笔，同样于尾声处黑塞写到：<strong>“在数千年来不计其数的语言和书籍交织成的斑斓锦缎中，在一些个突然彻悟的瞬间，真正的读者会看见一个极其崇高的超现实的幻象，看见那由千百种矛盾的表情神奇地统一起来的人类的容颜。”</strong>两段文字在“统一的容颜”上或可作互文，河流和织物两个意象既同源同构，自不同文本语境又生长出了不同的质感。而阅读《悉达多》的行为本身也通向这种经历“统一”的过程，之于黑塞的写作，更是在语言本体和表达上进行着探寻的旅行。就像前面Celestine提到，好的作者本身会不断追问自己，延续与演进，是给人以陪伴感的。</p>
+  <p></p>
+  <p>文 | 蔡彤 刘家玮 Sevey 流泊 雷沐春</p>
+  <p>图 | 来自网络</p>
+  <p>审稿 | 童不四</p>
+  <p>编辑 | yuyh</p>
+  <p>围炉 (ID：weilu_flame)</p>
+  <p>文中图片未经同意，请勿用作其他用途</p>
+  <p>欢迎您在文章下方评论，与围炉团队和其他读者交流讨论</p>
+  <figure class="image">
+<img src="https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/embed/296f6260-1b06-427b-95e8-5c2b8128f487.gif/public" referrerpolicy="no-referrer" />    <figcaption></figcaption>
+  </figure>
+  <p><br /></p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#围炉 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2024-10-03/%E5%AF%B9%E8%AF%9D%E5%A5%B3%E6%80%A7%E6%B0%91%E5%B7%A5-%E5%9C%A8%E5%9F%8E%E5%B8%82%E9%87%8C-%E5%9C%A8%E5%B7%A5%E4%BD%9C%E5%92%8C%E5%AE%B6%E5%BA%AD%E4%B9%8B%E9%97%B4-%E5%9B%B4%E7%82%89-CU/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2021-03-23/%E5%AF%B9%E8%AF%9D%E9%BB%84%E6%B3%93%E7%BF%94-%E8%87%B4%E5%8A%9B%E4%BA%8E%E5%9F%B9%E8%82%B2%E4%B8%96%E7%95%8C%E5%85%AC%E6%B0%91%E7%9A%84%E4%B8%AD%E5%8D%97%E5%B1%8B%E5%88%9B%E5%A7%8B%E4%BA%BA-%E8%AE%B2%E5%BA%A7%E6%91%98%E8%A6%81/">最早</a>--</span>
+    
+      <li>
+        <time>2023-11-13</time>
+        <a href="https://nodebe4.github.io/opinion/2023-11-13/%E5%AF%B9%E8%AF%9D%E7%BE%8E%E5%9B%BD%E7%A7%BB%E6%B0%91-%E5%A4%A9%E6%B6%AF%E4%BD%95%E5%A4%84%E6%97%A0%E8%8A%B3%E8%8D%89-%E5%9B%B4%E7%82%89-CU/">
+          对话美国移民 ：天涯何处无芳草 | 围炉 · CU
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-10-15</time>
+        <a href="https://nodebe4.github.io/opinion/2023-10-15/%E5%9B%B4%E7%82%89%E5%B0%8F%E9%85%92%E9%A6%86%E4%B8%A8Ep.02-%E4%BA%BA%E7%BE%A4-%E7%88%B1%E4%B8%8E%E5%AD%A4%E7%8B%AC/">
+          围炉小酒馆丨Ep.02 人群、爱与孤独
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-10-15</time>
+        <a href="https://nodebe4.github.io/opinion/2023-10-15/%E5%9B%B4%E7%82%89%E5%A4%9C%E8%AF%9D-%E7%A9%BF%E6%A2%AD%E6%88%96%E6%98%AF%E6%95%A3%E6%AD%A5-%E6%B5%81%E5%8A%A8%E7%9A%84%E4%BA%BA%E7%BE%A4%E4%B8%8E%E7%BB%8F%E9%AA%8C-%E5%9B%B4%E7%82%89-CUHK/">
+          围炉夜话：穿梭或是散步，流动的人群与经验 | 围炉 · CUHK
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-09-08</time>
+        <a href="https://nodebe4.github.io/opinion/2023-09-08/%E5%AF%B9%E8%AF%9D%E7%9F%B3%E7%A3%8A-%E4%BB%A5%E7%BE%8E%E8%82%B2%E5%BE%B7%E6%A0%91%E4%BA%BA-%E6%B0%91%E5%8A%9E%E5%AD%A6%E6%A0%A1%E7%9A%84%E7%BE%8E%E8%82%B2%E8%B7%B5%E8%A1%8C%E8%B7%AF-%E5%9B%B4%E7%82%89-NYUSH/">
+          对话石磊 ： 以美育德树人，民办学校的美育践行路 ｜ 围炉·NYUSH
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2023-10-15/%E5%9B%B4%E7%82%89%E5%A4%9C%E8%AF%9D-%E7%A9%BF%E6%A2%AD%E6%88%96%E6%98%AF%E6%95%A3%E6%AD%A5-%E6%B5%81%E5%8A%A8%E7%9A%84%E4%BA%BA%E7%BE%A4%E4%B8%8E%E7%BB%8F%E9%AA%8C-%E5%9B%B4%E7%82%89-CUHK/">
+            前一篇：围炉夜话：穿梭或是散步，流动的人群与经验 | 围炉 · CUHK
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2023-10-15/%E5%9B%B4%E7%82%89%E5%B0%8F%E9%85%92%E9%A6%86%E4%B8%A8Ep.02-%E4%BA%BA%E7%BE%A4-%E7%88%B1%E4%B8%8E%E5%AD%A4%E7%8B%AC/">
+            後一篇：围炉小酒馆丨Ep.02 人群、爱与孤独
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2023-10-15/%E5%9B%B4%E7%82%89%E5%A4%9C%E8%AF%9D-%E7%A9%BF%E6%A2%AD%E6%88%96%E6%98%AF%E6%95%A3%E6%AD%A5-%E6%B5%81%E5%8A%A8%E7%9A%84%E4%BA%BA%E7%BE%A4%E4%B8%8E%E7%BB%8F%E9%AA%8C-%E5%9B%B4%E7%82%89-CUHK/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2023-10-15/%E5%9B%B4%E7%82%89%E5%B0%8F%E9%85%92%E9%A6%86%E4%B8%A8Ep.02-%E4%BA%BA%E7%BE%A4-%E7%88%B1%E4%B8%8E%E5%AD%A4%E7%8B%AC/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2023-10-15/%E5%9B%B4%E7%82%89%E5%B0%8F%E9%85%92%E9%A6%86%E4%B8%A8Ep.02-%E4%BA%BA%E7%BE%A4-%E7%88%B1%E4%B8%8E%E5%AD%A4%E7%8B%AC/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2023-10-15/%E5%9B%B4%E7%82%89%E5%A4%9C%E8%AF%9D-%E7%A9%BF%E6%A2%AD%E6%88%96%E6%98%AF%E6%95%A3%E6%AD%A5-%E6%B5%81%E5%8A%A8%E7%9A%84%E4%BA%BA%E7%BE%A4%E4%B8%8E%E7%BB%8F%E9%AA%8C-%E5%9B%B4%E7%82%89-CUHK/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2023-10-15/%E5%9B%B4%E7%82%89%E5%A4%9C%E8%AF%9D-%E7%A9%BF%E6%A2%AD%E6%88%96%E6%98%AF%E6%95%A3%E6%AD%A5-%E6%B5%81%E5%8A%A8%E7%9A%84%E4%BA%BA%E7%BE%A4%E4%B8%8E%E7%BB%8F%E9%AA%8C-%E5%9B%B4%E7%82%89-CUHK/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2023-10-15/%E5%9B%B4%E7%82%89%E5%B0%8F%E9%85%92%E9%A6%86%E4%B8%A8Ep.02-%E4%BA%BA%E7%BE%A4-%E7%88%B1%E4%B8%8E%E5%AD%A4%E7%8B%AC/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<围炉>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2023-10-15/%E5%9B%B4%E7%82%89%E5%B0%8F%E9%85%92%E9%A6%86%E4%B8%A8Ep.02-%E4%BA%BA%E7%BE%A4-%E7%88%B1%E4%B8%8E%E5%AD%A4%E7%8B%AC/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<围炉>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2023-10-15/%E5%9B%B4%E7%82%89%E5%A4%9C%E8%AF%9D-%E7%A9%BF%E6%A2%AD%E6%88%96%E6%98%AF%E6%95%A3%E6%AD%A5-%E6%B5%81%E5%8A%A8%E7%9A%84%E4%BA%BA%E7%BE%A4%E4%B8%8E%E7%BB%8F%E9%AA%8C-%E5%9B%B4%E7%82%89-CUHK/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

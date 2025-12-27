@@ -1,0 +1,2874 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>EnclavedMicrostate在2022-08-22~2022-08-28的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="EnclavedMicrostate在2022-08-22~2022-08-28的言论" />
+    <meta property="twitter:title" content="EnclavedMicrostate在2022-08-22~2022-08-28的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FAskHistorians%2Fcomments%2Fwuj7zw%2Fwhat_are_some_examples_of_weather_affecting_not%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/AskHistorians/comments/wuj7zw/what_are_some_examples_of_weather_affecting_not/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/AskHistorians/comments/wuj7zw/what_are_some_examples_of_weather_affecting_not/&text=EnclavedMicrostate在2022-08-22~2022-08-28的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/AskHistorians/comments/wuj7zw/what_are_some_examples_of_weather_affecting_not/&title=EnclavedMicrostate在2022-08-22~2022-08-28的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/AskHistorians/comments/wuj7zw/what_are_some_examples_of_weather_affecting_not/&title=EnclavedMicrostate在2022-08-22~2022-08-28的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=EnclavedMicrostate在2022-08-22~2022-08-28的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/AskHistorians/comments/wuj7zw/what_are_some_examples_of_weather_affecting_not/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/AskHistorians/comments/wuj7zw/what_are_some_examples_of_weather_affecting_not/&title=EnclavedMicrostate在2022-08-22~2022-08-28的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=EnclavedMicrostate在2022-08-22~2022-08-28的言论&url=https://old.reddit.com/r/AskHistorians/comments/wuj7zw/what_are_some_examples_of_weather_affecting_not/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>EnclavedMicrostate在2022-08-22~2022-08-28的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-08-28
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: EnclavedMicrostate</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/AskHistorians/comments/wuj7zw/what_are_some_examples_of_weather_affecting_not/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#727-what-are-some-examples-of-weather-affecting-not-just-a-battle-but-an-entire-war-excluding-russian-winter-submitted-on-2022-08-22-1155570800" id="markdown-toc-727-what-are-some-examples-of-weather-affecting-not-just-a-battle-but-an-entire-war-excluding-russian-winter-submitted-on-2022-08-22-1155570800">727: What are some examples of weather affecting not just a battle but an entire war? (Excluding Russian winter), submitted on 2022-08-22 11:55:57+08:00.</a></li>
+  <li><a href="#728-how-big-do-you-think-alexander-the-great-was-submitted-on-2022-08-22-1320310800" id="markdown-toc-728-how-big-do-you-think-alexander-the-great-was-submitted-on-2022-08-22-1320310800">728: How big do you think Alexander the great was?, submitted on 2022-08-22 13:20:31+08:00.</a></li>
+  <li><a href="#729-mindless-monday-22-august-2022-submitted-on-2022-08-22-1900110800" id="markdown-toc-729-mindless-monday-22-august-2022-submitted-on-2022-08-22-1900110800">729: Mindless Monday, 22 August 2022, submitted on 2022-08-22 19:00:11+08:00.</a></li>
+  <li><a href="#730-magical-michelada-mondays---weekly-discussion-thread-august-22nd-2022-submitted-on-2022-08-22-2310160800" id="markdown-toc-730-magical-michelada-mondays---weekly-discussion-thread-august-22nd-2022-submitted-on-2022-08-22-2310160800">730: Magical Michelada Mondays - Weekly Discussion Thread, August 22nd, 2022, submitted on 2022-08-22 23:10:16+08:00.</a></li>
+  <li><a href="#731-formula-1-off-the-grid-f1s-new-owners-shake-things-up-by-ditching-grid-girls-people-are-mad-submitted-on-2022-08-23-0528400800" id="markdown-toc-731-formula-1-off-the-grid-f1s-new-owners-shake-things-up-by-ditching-grid-girls-people-are-mad-submitted-on-2022-08-23-0528400800">731: [Formula 1] Off the Grid: F1’s new owners shake things up by ditching Grid Girls, people are mad., submitted on 2022-08-23 05:28:40+08:00.</a></li>
+  <li><a href="#732-how-many-hours-is-an-average-ug-weekly-workload-submitted-on-2022-08-23-1920340800" id="markdown-toc-732-how-many-hours-is-an-average-ug-weekly-workload-submitted-on-2022-08-23-1920340800">732: How many hours is an average UG weekly workload?, submitted on 2022-08-23 19:20:34+08:00.</a></li>
+  <li><a href="#733-for-people-who-dont-know-these-tank-silencers-exist-because-there-is-a-village-nearby-otherwise-they-would-constantly-hear-noises-of-over-100db-this-silencer-reduces-the-noice-by-about-20db-submitted-on-2022-08-23-1938460800" id="markdown-toc-733-for-people-who-dont-know-these-tank-silencers-exist-because-there-is-a-village-nearby-otherwise-they-would-constantly-hear-noises-of-over-100db-this-silencer-reduces-the-noice-by-about-20db-submitted-on-2022-08-23-1938460800">733: For people who dont know these tank silencers exist because there is a village nearby. Otherwise they would constantly hear noises of over 100db. this silencer reduces the noice by about 20db, submitted on 2022-08-23 19:38:46+08:00.</a></li>
+  <li><a href="#734-newest-consensus-on-whether-the-mingqing-china-was-predominantly-an-atheistagnostic-civilization-submitted-on-2022-08-23-2224490800" id="markdown-toc-734-newest-consensus-on-whether-the-mingqing-china-was-predominantly-an-atheistagnostic-civilization-submitted-on-2022-08-23-2224490800">734: Newest consensus on whether the Ming/Qing China was predominantly an atheist/agnostic civilization?, submitted on 2022-08-23 22:24:49+08:00.</a></li>
+  <li><a href="#735-is-alexander-the-great-macedonian-or-greek-submitted-on-2022-08-24-0140300800" id="markdown-toc-735-is-alexander-the-great-macedonian-or-greek-submitted-on-2022-08-24-0140300800">735: Is Alexander the Great macedonian or greek?, submitted on 2022-08-24 01:40:30+08:00.</a></li>
+  <li><a href="#736-how-is-it-that-indians-have-such-a-starkly-different-account-of-the-battle-of-the-hydaspes-is-there-any-evidence-at-all-to-back-up-that-alexander-was-defeated-there-submitted-on-2022-08-24-0228100800" id="markdown-toc-736-how-is-it-that-indians-have-such-a-starkly-different-account-of-the-battle-of-the-hydaspes-is-there-any-evidence-at-all-to-back-up-that-alexander-was-defeated-there-submitted-on-2022-08-24-0228100800">736: How is it that Indians have such a starkly different account of the Battle of the Hydaspes? Is there any evidence at all to back up that Alexander was defeated there?, submitted on 2022-08-24 02:28:10+08:00.</a></li>
+  <li><a href="#737-richard-wolff-what-did-karl-marx-think-about-worker-cooperatives-submitted-on-2022-08-24-1355280800" id="markdown-toc-737-richard-wolff-what-did-karl-marx-think-about-worker-cooperatives-submitted-on-2022-08-24-1355280800">737: Richard Wolff: What did Karl Marx think about worker cooperatives?, submitted on 2022-08-24 13:55:28+08:00.</a></li>
+  <li><a href="#738-til-the-great-and-almighty-laplus-is-a-brocon-submitted-on-2022-08-24-1939300800" id="markdown-toc-738-til-the-great-and-almighty-laplus-is-a-brocon-submitted-on-2022-08-24-1939300800">738: TIL the great and almighty Laplus is a brocon, submitted on 2022-08-24 19:39:30+08:00.</a></li>
+  <li><a href="#739-i-cant-seem-to-find-the-military-ranks-of-the-swedish-army-during-the-napoleonic-wars-feel-free-to-comment-if-you-know-what-they-are-thanks-due-to-the-auto-moderation-i-am-obligated-to-put-a-question-mark-submitted-on-2022-08-24-1948460800" id="markdown-toc-739-i-cant-seem-to-find-the-military-ranks-of-the-swedish-army-during-the-napoleonic-wars-feel-free-to-comment-if-you-know-what-they-are-thanks-due-to-the-auto-moderation-i-am-obligated-to-put-a-question-mark-submitted-on-2022-08-24-1948460800">739: I can’t seem to find the military ranks of the Swedish army during the Napoleonic wars. Feel free to comment if you know what they are. Thanks! (Due to the auto-moderation, I am obligated to put a question mark)?, submitted on 2022-08-24 19:48:46+08:00.</a></li>
+  <li><a href="#740-at-what-point-in-human-history-did-we-have-to-start-brushing-our-teeth-submitted-on-2022-08-25-0721090800" id="markdown-toc-740-at-what-point-in-human-history-did-we-have-to-start-brushing-our-teeth-submitted-on-2022-08-25-0721090800">740: At what point in human history did we have to start brushing our teeth?, submitted on 2022-08-25 07:21:09+08:00.</a></li>
+  <li><a href="#741-was-the-silk-road-easily-navigable-submitted-on-2022-08-25-1214400800" id="markdown-toc-741-was-the-silk-road-easily-navigable-submitted-on-2022-08-25-1214400800">741: Was the Silk Road Easily Navigable?, submitted on 2022-08-25 12:14:40+08:00.</a></li>
+  <li><a href="#742-i-want-to-study-at-oxford-but-im-not-sure-whether-my-grades-are-good-enough-submitted-on-2022-08-25-2154440800" id="markdown-toc-742-i-want-to-study-at-oxford-but-im-not-sure-whether-my-grades-are-good-enough-submitted-on-2022-08-25-2154440800">742: I want to study at Oxford, but I’m not sure whether my grades are good enough, submitted on 2022-08-25 21:54:44+08:00.</a></li>
+  <li><a href="#743-can-i-ask-a-few-things-about-mongol-history--submitted-on-2022-08-25-2244440800" id="markdown-toc-743-can-i-ask-a-few-things-about-mongol-history--submitted-on-2022-08-25-2244440800">743: Can I ask a few things about Mongol history ?, submitted on 2022-08-25 22:44:44+08:00.</a></li>
+  <li><a href="#744-gave-sana-a-haircut-how-does-it-look-submitted-on-2022-08-25-2355180800" id="markdown-toc-744-gave-sana-a-haircut-how-does-it-look-submitted-on-2022-08-25-2355180800">744: Gave Sana a haircut, how does it look?, submitted on 2022-08-25 23:55:18+08:00.</a></li>
+  <li><a href="#745-i-dont-even-know-anymore-submitted-on-2022-08-26-0556030800" id="markdown-toc-745-i-dont-even-know-anymore-submitted-on-2022-08-26-0556030800">745: I don’t even know anymore…., submitted on 2022-08-26 05:56:03+08:00.</a></li>
+  <li><a href="#746-free-for-all-friday-26-august-2022-submitted-on-2022-08-26-1900130800" id="markdown-toc-746-free-for-all-friday-26-august-2022-submitted-on-2022-08-26-1900130800">746: Free for All Friday, 26 August 2022, submitted on 2022-08-26 19:00:13+08:00.</a></li>
+  <li><a href="#747-no-one-is-guiltless--rhistorymemes-tackles-the-transatlantic-slave-trade-submitted-on-2022-08-26-2227320800" id="markdown-toc-747-no-one-is-guiltless--rhistorymemes-tackles-the-transatlantic-slave-trade-submitted-on-2022-08-26-2227320800">747: “No one is guiltless”- R/historymemes tackles the transatlantic slave trade, submitted on 2022-08-26 22:27:32+08:00.</a></li>
+  <li><a href="#748-oxford-academic-year-submitted-on-2022-08-27-0953150800" id="markdown-toc-748-oxford-academic-year-submitted-on-2022-08-27-0953150800">748: Oxford Academic Year?, submitted on 2022-08-27 09:53:15+08:00.</a></li>
+  <li><a href="#749-is-the-reason-why-india-has-beef-with-pakistan-because-of-the-political-history-of-north-india-islam-taking-over-delhi-in-the-13th-century-thus-an-example-of-continuity-submitted-on-2022-08-27-1128120800" id="markdown-toc-749-is-the-reason-why-india-has-beef-with-pakistan-because-of-the-political-history-of-north-india-islam-taking-over-delhi-in-the-13th-century-thus-an-example-of-continuity-submitted-on-2022-08-27-1128120800">749: Is the reason why India has beef with Pakistan because of the political history of North India (Islam) taking over Delhi in the 13th century, thus an example of continuity?, submitted on 2022-08-27 11:28:12+08:00.</a></li>
+  <li><a href="#750-kiosk-selling-kids-toys-and-adult-reading-material-submitted-on-2022-08-27-1416560800" id="markdown-toc-750-kiosk-selling-kids-toys-and-adult-reading-material-submitted-on-2022-08-27-1416560800">750: Kiosk selling kids toys and adult reading material., submitted on 2022-08-27 14:16:56+08:00.</a></li>
+  <li><a href="#751-what-do-people-use-to-take-notes-submitted-on-2022-08-28-0026190800" id="markdown-toc-751-what-do-people-use-to-take-notes-submitted-on-2022-08-28-0026190800">751: What do people use to take notes?, submitted on 2022-08-28 00:26:19+08:00.</a></li>
+  <li><a href="#752-why-didnt-china-invade-the-port-of-tsingtao-in-wwi-submitted-on-2022-08-28-0113390800" id="markdown-toc-752-why-didnt-china-invade-the-port-of-tsingtao-in-wwi-submitted-on-2022-08-28-0113390800">752: Why didn’t China invade the port of Tsingtao in WWI?, submitted on 2022-08-28 01:13:39+08:00.</a></li>
+  <li><a href="#753-anti-manchu-racism-played-a-central-part-in-many-anti-qing-ideologies-such-as-those-of-the-taipings-to-what-extent-were-such-ideas-popular-amongst-ordinary-han-chinese-were-ordinary-manchus-affected-what-happened-to-such-ideas-after-the-qing-overthrow-submitted-on-2022-08-28-1929500800" id="markdown-toc-753-anti-manchu-racism-played-a-central-part-in-many-anti-qing-ideologies-such-as-those-of-the-taipings-to-what-extent-were-such-ideas-popular-amongst-ordinary-han-chinese-were-ordinary-manchus-affected-what-happened-to-such-ideas-after-the-qing-overthrow-submitted-on-2022-08-28-1929500800">753: Anti-Manchu racism played a central part in many anti-Qing ideologies, such as those of the Taipings. To what extent were such ideas popular amongst ordinary Han Chinese? Were ordinary Manchus affected? What happened to such ideas after the Qing overthrow?, submitted on 2022-08-28 19:29:50+08:00.</a></li>
+  <li><a href="#sources-and-further-reading" id="markdown-toc-sources-and-further-reading">Sources and Further Reading</a></li>
+  <li><a href="#754-hobby-scuffles-week-of-august-29-2022-poll-submitted-on-2022-08-28-2300170800" id="markdown-toc-754-hobby-scuffles-week-of-august-29-2022-poll-submitted-on-2022-08-28-2300170800">754: [Hobby Scuffles] Week of August 29, 2022 (Poll), submitted on 2022-08-28 23:00:17+08:00.</a></li>
+</ul>
+
+<h3 id="727-what-are-some-examples-of-weather-affecting-not-just-a-battle-but-an-entire-war-excluding-russian-winter-submitted-on-2022-08-22-1155570800">727: <a href="https://old.reddit.com/r/AskHistorians/comments/wuj7zw/what_are_some_examples_of_weather_affecting_not/">What are some examples of weather affecting not just a battle but an entire war? (Excluding Russian winter)</a>, submitted on 2022-08-22 11:55:57+08:00.</h3>
+
+<p>—– <strong>727.1</strong> —–2022-08-22 14:47:41+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="728-how-big-do-you-think-alexander-the-great-was-submitted-on-2022-08-22-1320310800">728: <a href="https://old.reddit.com/r/AskHistorians/comments/wukt0k/how_big_do_you_think_alexander_the_great_was/">How big do you think Alexander the great was?</a>, submitted on 2022-08-22 13:20:31+08:00.</h3>
+
+<p>—– <strong>728.1</strong> —–2022-08-22 14:47:56+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="729-mindless-monday-22-august-2022-submitted-on-2022-08-22-1900110800">729: <a href="https://old.reddit.com/r/badhistory/comments/wuqith/mindless_monday_22_august_2022/">Mindless Monday, 22 August 2022</a>, submitted on 2022-08-22 19:00:11+08:00.</h3>
+
+<p>—– <strong>729.1</strong> —–2022-08-24 22:40:54+08:00:</p>
+
+<p>I tend to use Pamela Crossley’s terminology of ‘Taiping War’, if for no other reason than that ‘Taiping Civil War’ may end up inadvertently misleading. An issue I sort of have – a bit ironic as a Taiping specialist – is that the conflict often gets seen in isolation when it wasn’t even the only domestic conflict in the Qing Empire at the time. The Yunnanese revolt of 1856-73 is supposed to have accounted for at least 2 million dead and continues to have a considerable place in the cultural memory of the Muslim communities of southwest China, while the ‘Dungan’ rebellion in Gansu and Shaanxi in 1862-75 is alleged to have reduced those provinces’ population by a combined total of 20 million (though this doesn’t distinguish between deaths and displacements). Tallying up death tolls is neither particularly straightforward nor productive, but speaking in purely estimatory terms I wouldn’t be surprised if fewer than half of war-related deaths in the Qing Empire between 1850 and 1880 can be specifically attributed to the Taiping conflict.</p>
+
+<p>In broader terms, I feel like ‘Qing Civil War’ is a valid descriptor for the broad period of conflict within the Qing Empire from 1850 through 1878, of which the Taiping War was the materially largest part. There just isn’t really enough consideration of these as interconnected conflicts, and I suspect that relates to the continuing lack of a good framing narrative of <em>Qing</em> history in this period. There’s a lot of individual, focussed studies, but nothing as yet that tries to really analyse the empire as a singular system.</p>
+
+<p>—– <strong>729.2</strong> —–2022-08-25 11:20:39+08:00:</p>
+
+<p>Who was it again who said letting Taiwan remain independent was like letting the CSA continue to exist on Puerto Rico? Turns out they were making the case <em>for</em> Taiwan!</p>
+
+<p>—– <strong>729.3</strong> —–2022-08-25 11:25:47+08:00:</p>
+
+<p>Thereby affirming that diplomatic dick-waving is a gender-neutral activity.</p>
+
+<p>—– <strong>729.4</strong> —–2022-08-26 10:44:57+08:00:</p>
+
+<blockquote>
+  <p>A failed revolution is a rebellion.</p>
+</blockquote>
+
+<p>No? Typically, we consider a revolution (figurative examples aside like the Industrial Revolution for instance) to be where a successful uprising takes place that attempts to radically change the social and/or political structure of the entire political unit in which it takes place, be that a nation-state or an empire. An independence movement can be a rebellion without being a revolution. Moreover, there are successful rebellions that we don’t call revolutions despite succeeding on a national/imperial scale: the Red Turban Rebellion for instance.</p>
+
+<p>Yes, the Taiping are a rebellion by definition, but not by yours.</p>
+
+<blockquote>
+  <p>and got 0 sympathies from the gentries</p>
+</blockquote>
+
+<p>You’d be surprised. Xiaowei Zheng has an excellent article, ‘Loyalty, Anxiety, and Opportunism’, discussing gentry responses to the Taiping War in Zhejiang, and many gentry did actually support the Taiping rather than the Qing.</p>
+
+<blockquote>
+  <p>But in reality, the Taipings are pseudo-Christian scums who defile their ancestors and deserved to be purged.</p>
+</blockquote>
+
+<blockquote>
+  <p>half /s</p>
+</blockquote>
+
+<p>I realise at this juncture I ought never to have responded the moment I realised you were coming at this from a perspective of pseudo-ironic chauvinism.</p>
+
+<p>—– <strong>729.5</strong> —–2022-08-26 16:03:28+08:00:</p>
+
+<p>Please explain, then, the following selections from the same article, discussing Shaoxing, where gentry opposition in the county is clearly highlighted:</p>
+
+<blockquote>
+  <p>Shaoxing prefecture went into a panic at the approach of the “long hairs” (the Taipings). Despite Shaoxing’s strategic position at the entrance to eastern Zhejiang, Qing officials there were ill prepared. In particular, the relationship between the provincial government and the elites at Shaoxing City (the county and prefectual capital) worsened, in spite of the Taipings’ approach. In the spring of 1861, gentryman Wang Lüqian impeached several provincial officials. To fight back, Zhejiang Governor Wang Youling accused four powerful members of the gentry from Shaoxing of fraudulence and disobedience.</p>
+</blockquote>
+
+<blockquote>
+  <p>The Shaoxing gentry’s hatred toward the government was violently unleashed—a group of bodyguards of one Shaoxing local elite member murdered Liao before the ingress of the Taipings.</p>
+</blockquote>
+
+<p>No, these were not explicitly supporting the Taiping, but they were very clearly considering them a lesser concern than the Qing government.</p>
+
+<p>Should I be shocked that you’ve chosen to read this article entirely tendentiously? Probably not.</p>
+
+<p>—– <strong>729.6</strong> —–2022-08-30 10:13:29+08:00:</p>
+
+<p>I was not satisfied you had meaningfully responded to me, and saw no reason to return the courtesy. Good day, sir.</p>
+
+<h3 id="730-magical-michelada-mondays---weekly-discussion-thread-august-22nd-2022-submitted-on-2022-08-22-2310160800">730: <a href="https://old.reddit.com/r/VirtualYoutubers/comments/wuw70t/magical_michelada_mondays_weekly_discussion/">Magical Michelada Mondays - Weekly Discussion Thread, August 22nd, 2022</a>, submitted on 2022-08-22 23:10:16+08:00.</h3>
+
+<p>—– <strong>730.1</strong> —–2022-08-23 10:39:39+08:00:</p>
+
+<blockquote>
+  <p>expressed an interest in learning Chinese</p>
+</blockquote>
+
+<p>I feel like every time someone says ‘Chinese’ as though it’s a single language I have to call it out.</p>
+
+<p>—– <strong>730.2</strong> —–2022-08-23 10:41:19+08:00:</p>
+
+<p>In EN at least. I don’t think she comes close to even 5% of ID’s ability to call chat out on its bullshit.</p>
+
+<p>—– <strong>730.3</strong> —–2022-08-23 10:47:05+08:00:</p>
+
+<p>Every language is significant to whoever speaks it. And there’s plenty you haven’t mentioned – Taishanese is a Yue language with very low mutual intelligibility with Cantonese and 3m+ speakers, some 44m+ speak Hakka varieties, there’s the Gan languages in Jiangxi, etc.</p>
+
+<p>—– <strong>730.4</strong> —–2022-08-23 10:57:43+08:00:</p>
+
+<p>Nope, not mutually intelligible (I speak from experience).</p>
+
+<p>—– <strong>730.5</strong> —–2022-08-23 11:07:35+08:00:</p>
+
+<p>I feel we were spoiled by Myth getting theirs 9ish months in.</p>
+
+<p>—– <strong>730.6</strong> —–2022-08-23 12:34:25+08:00:</p>
+
+<p>To be fair, no, but I speak as someone who speaks a non-Mandarin Sinitic language. Plus, Spanish and Italian dialects are, on the whole, far more mutually intelligible than Sinitic languages are. It’s less ‘using “Spanish” as a catch-all for all Iberian languages’ and more ‘using “German” to also refer to Dutch and Swedish’.</p>
+
+<p>—– <strong>730.7</strong> —–2022-08-23 13:09:45+08:00:</p>
+
+<p>I didn’t say ‘actually mutually intelligible’, I said <em>more</em> mutually intelligible. At least with Italian dialects you might pick up a word or two.</p>
+
+<p>—– <strong>730.8</strong> —–2022-08-23 13:10:04+08:00:</p>
+
+<p>Basque is a language isolate though, it isn’t even Indo-European.</p>
+
+<p>—– <strong>730.9</strong> —–2022-08-23 19:07:25+08:00:</p>
+
+<p>I’m glad you can universalise your experience based on a country where Mandarin is the dominant Sinitic language, but <em>I am part of the annoyed minority here</em> as someone whose language is frequently ignored and increasingly endangered, even if markedly less so than a number of other languages, Sinitic or otherwise.</p>
+
+<p>—– <strong>730.10</strong> —–2022-08-25 04:03:31+08:00:</p>
+
+<p>She said as much in her schedule tweet: https://twitter.com/moricalliope/status/1561261829535547393</p>
+
+<h3 id="731-formula-1-off-the-grid-f1s-new-owners-shake-things-up-by-ditching-grid-girls-people-are-mad-submitted-on-2022-08-23-0528400800">731: <a href="https://old.reddit.com/r/HobbyDrama/comments/wv5ra7/formula_1_off_the_grid_f1s_new_owners_shake/">[Formula 1] Off the Grid: F1’s new owners shake things up by ditching Grid Girls, people are mad.</a>, submitted on 2022-08-23 05:28:40+08:00.</h3>
+
+<p>—– <strong>731.1</strong> —–2022-08-23 10:32:54+08:00:</p>
+
+<p>Hi! Thanks for your submission to r/HobbyDrama.</p>
+
+<p>Unfortunately, we have had to remove your post for violating Rule 9:</p>
+
+<blockquote>
+  <p>Consequences of the drama must be detailed beyond “…and everyone was mad”</p>
+</blockquote>
+
+<p>This would be suited to Scuffles, but not to being a top-level post.</p>
+
+<h3 id="732-how-many-hours-is-an-average-ug-weekly-workload-submitted-on-2022-08-23-1920340800">732: <a href="https://old.reddit.com/r/oxforduni/comments/wvm5zz/how_many_hours_is_an_average_ug_weekly_workload/">How many hours is an average UG weekly workload?</a>, submitted on 2022-08-23 19:20:34+08:00.</h3>
+
+<p>—– <strong>732.1</strong> —–2022-08-23 20:27:21+08:00:</p>
+
+<p>It will depend how efficiently you apply yourself. For my part I typically only really ‘worked’ 8 hours a day, two and a half days a week (four days in terms where I had historiography/approaches papers running in parallel with my main term paper), and came away with a First at the end of it all. But that also entailed having done a certain amount of pre-reading out of term, in conjunction with a lot of informal ‘work’ in the form of simply spending time thinking things over even after handing something in.</p>
+
+<p>—– <strong>732.2</strong> —–2022-08-24 02:32:52+08:00:</p>
+
+<blockquote>
+  <p>you’ll really get caught out on that sort of a timescale.</p>
+</blockquote>
+
+<p>I never was!</p>
+
+<p>—– <strong>732.3</strong> —–2022-08-24 02:33:44+08:00:</p>
+
+<p>I ended up doing three (including a drama society which meant a lot of extra time commitment), although I tended to let that one take priority over the others rather than commit to absolutely everything.</p>
+
+<h3 id="733-for-people-who-dont-know-these-tank-silencers-exist-because-there-is-a-village-nearby-otherwise-they-would-constantly-hear-noises-of-over-100db-this-silencer-reduces-the-noice-by-about-20db-submitted-on-2022-08-23-1938460800">733: <a href="https://old.reddit.com/r/interestingasfuck/comments/wvmiq5/for_people_who_dont_know_these_tank_silencers/">For people who dont know these tank silencers exist because there is a village nearby. Otherwise they would constantly hear noises of over 100db. this silencer reduces the noice by about 20db</a>, submitted on 2022-08-23 19:38:46+08:00.</h3>
+
+<p>—– <strong>733.1</strong> —–2022-08-24 02:54:59+08:00:</p>
+
+<p>Tanks are armoured vehicles that are expected to be fired on by a lot of stuff and hopefully survive. Self-propelled howitzers are artillery pieces, some of which are armoured to give some measure of protection against enemy artillery fire, but rarely if ever protected enough to survive sustained attack because if it gets to that point, you are having a really bad day.</p>
+
+<h3 id="734-newest-consensus-on-whether-the-mingqing-china-was-predominantly-an-atheistagnostic-civilization-submitted-on-2022-08-23-2224490800">734: <a href="https://old.reddit.com/r/AskHistorians/comments/wvq701/newest_consensus_on_whether_the_mingqing_china/">Newest consensus on whether the Ming/Qing China was predominantly an atheist/agnostic civilization?</a>, submitted on 2022-08-23 22:24:49+08:00.</h3>
+
+<p>—– <strong>734.1</strong> —–2022-08-24 11:54:51+08:00:</p>
+
+<p>Not meaningfully, I wouldn’t say. The Qing balanced a number of religious worldviews in the construction of their empire, precisely because each of their constituent populations’ elites had a particular cosmological outlook. I discuss it in some detail in <a href="https://www.reddit.com/r/AskHistorians/comments/e1q2ft/did_any_of_the_qing_emperors_and_court_advisors/">this answer</a> but feel free to ask any follow-ups.</p>
+
+<p>—– <strong>734.2</strong> —–2022-08-24 13:30:58+08:00:</p>
+
+<p>I would say all of them are false. That Confucianism, Daoism, Mahayana Buddhism and Chinese folk beliefs do not resemble Abrahamic monotheism does not mean these were atheistic belief systems. All of these religions make cosmological claims, and Confucianism in particular – the guiding ideology of the Han literati – is rooted in the idea that there is an ideal cosmological order defined by adherence to rigid hierarchies, and that it is the role of the ruler and his advisors to bring the world in line with this ideal order. Meanwhile Daoist rites like sacrifices to Mount Tai were not merely shows for the gullible public, but clear demonstrations of commitment to upholding the correct Way of things.</p>
+
+<p>This gets more complicated when Tibetan Buddhism is involved, and your perspective will depend on how cynically you view things like the Qianlong Emperor’s patronage of the religion. I will stress that my more cynical perspective is <em>not the only one</em>, and that some biographers of the Qianlong Emperor suggest that he was in fact devoutly Buddhist in a way that influenced his views of the other religions of his empire. I don’t agree fully, but I find a lot of merit to the suggestion that he did nevertheless sincerely engage with these religions, and fundamentally believed in the existence of <em>a</em> cosmic order even if he had to navigate between several specific versions of that fundamental idea. To paraphrase the man’s own words, the Chinese, Manchus, and Mongols have different words for Heaven, but they all still have words for Heaven.</p>
+
+<h3 id="735-is-alexander-the-great-macedonian-or-greek-submitted-on-2022-08-24-0140300800">735: <a href="https://old.reddit.com/r/AskHistorians/comments/wvv0t1/is_alexander_the_great_macedonian_or_greek/">Is Alexander the Great macedonian or greek?</a>, submitted on 2022-08-24 01:40:30+08:00.</h3>
+
+<p>—– <strong>735.1</strong> —–2022-08-24 12:57:46+08:00:</p>
+
+<p>I see a couple of answers by /u/Iphikrates have been linked, and I’ll just start off by saying I substantively agree with them – the question is not one with a simple binary answer, and the discussion around it is dominated by questions of modern nationalism relating especially to disputes between the modern Hellenic Republic and the Republic of North Macedonia (formerly the Former Yugoslav Republic of Macedonia). The angle taken in the linked answers is, I would stress, an entirely valid one, given the way that the question is usually asked. That said, my own view on the subject is that as long as we are very clear that we are confining ourselves to a properly historically contextualised understanding of these identities, then we can and indeed should be able to have a meaningful discussion of Greekness and Macedonianness both in the immediate context of Alexander’s campaigns and in the broader context of the classical Alexander historiography that would develop over the next half-millennium.</p>
+
+<p>It is vital to stress that perceptions of Greekness and Macedonianness <em>did matter greatly in Alexander’s day</em>. This is perhaps most apparent in the histories of events after he died (for reasons that may become apparent later), in which Greco-Macedonian tensions are frequently highlighted. Perhaps the most illustrative case is that of Eumenes of Kardia, a Greek who served as Alexander’s personal secretary before taking field command under his appointed successor, Perdikkas. Eumenes’ perceived non-Macedonianness was a notable hurdle when it came to his attempts to command Macedonian troops:</p>
+
+<blockquote>
+  <p>When Alexander was dead​ and a quarrel had arisen between the Macedonian men-at‑war and his principal officers, or companions,​ Eumenes sided with the latter in his opinions, but in what he said he was a kind of common friend to both and held himself aloof from the quarrel, on the ground that it was no business of his, since he was a stranger, to meddle in disputes of Macedonians.</p>
+</blockquote>
+
+<blockquote>
+  <p>– Plutarch, <em>Life of Eumenes</em> 3.1</p>
+</blockquote>
+
+<blockquote>
+  <p>Alcetas, then, flatly refused to serve in the campaign, on the ground that the Macedonians under him were ashamed to fight Antipater, and were so well disposed to Craterus that they were ready to receive him with open arms.</p>
+</blockquote>
+
+<blockquote>
+  <p>– <em>Ibid.</em> 5.2</p>
+</blockquote>
+
+<blockquote>
+  <p>Eumenes, who at this time also kept these things in mind, prudently made his own position secure, for he foresaw that Fortune would change again. He perceived that he himself was a foreigner and had no claim to the royal power, that the Macedonians who were now subject to him had previously decreed his death, and that those who occupied the military commands were filled with arrogance and were aiming at great affairs. He therefore understood that he would soon be despised and at the same time envied, and that his life would eventually be in danger; for no one will willingly carry out orders given by those whom he regards as his inferiors, or be patient when he has over him as masters those who ought themselves to be subject to others.</p>
+</blockquote>
+
+<blockquote>
+  <p>– Diodoros 18.60.1</p>
+</blockquote>
+
+<p>But it was one that could be overcome through a mixture of both general beneficence and specific mobilisations of Macedonian symbols of political legitimacy:</p>
+
+<blockquote>
+  <p>Moreover, having promised to give his soldiers their pay within three days, he sold them the homesteads and castles about the country, which were full of slaves and flocks. Then every captain in the phalanx or commander of mercenaries who had bought a place was supplied by Eumenes with implements and engines of war and took it by siege; and thus every soldier received the pay that was due him, in a distribution of the captured properties. In consequence of this, Eumenes was again in high favour; and once when letters were found in his camp which the leaders of the enemy had caused to be scattered there, wherein they offered a hundred talents and honours to any one who should kill Eumenes, his Macedonians were highly incensed and made a decree that a thousand of the leading soldiers should serve him continually as a body-guard, watching over him when he went abroad and spending the night at his door.</p>
+</blockquote>
+
+<blockquote>
+  <p>– Plutarch, <em>Eumenes</em> 8.5-6</p>
+</blockquote>
+
+<blockquote>
+  <p>As all agreed to his proposal, everything needed was quickly made ready, for the royal treasure was rich in gold. Straightway then, when a magnificent tent had been set up, the throne was erected, upon which were placed the diadem, the sceptre, and the armour that Alexander had been wont to use. Then when an altar with a fire upon it had been put in place, all the commanders would make sacrifice from a golden casket, presenting frankincense and the most costly of the other kinds of incense and making obeisance to Alexander as to a god. After this those who exercised command would sit in the many chairs that had been placed about and take counsel together, deliberating upon the matters that from time to time required their attention. Eumenes, by placing himself on an equality with the other commanders in all the matters that were discussed and by seeking their favour through the most friendly intercourse, wore down the envy with which he had been regarded and secured for himself a great deal of goodwill among the commanders. 3 As their reverence for the king grew stronger, they were all filled with happy expectations, just as if some god were leading them. And by conducting himself toward the Macedonian Silver Shields in a similar way, Eumenes gained great favour among them as a man worthy of the solicitude of the kings.</p>
+</blockquote>
+
+<blockquote>
+  <p>Diodoros 18.61.1-3</p>
+</blockquote>
+
+<p>Apologies for all the block quotes above, but I want to stress as heavily as possible that perceptions of one’s identity could be extremely significant, and that the question of how particular leaders presented themselves – and how far those they were appealing to accepted those presentations – is a valid one to ask. What the case of Eumenes shows is that there was a Macedonian conception of an in-group that did not simply include all Greeks by default: Eumenes had to demonstrate that he was fit to lead Macedonians, but even then never really proved himself to be a Macedonian himself. In turn though, this raises another point: one could claim legitimacy within a particular target population’s framework of legitimacy, without claiming to be a member of that population, and still be taken seriously. Alexander mobilised Persian and Egyptian symbols of rulership at the same time that he mobilised Greek and Macedonian ones, without necessarily claiming to have been ‘a Persian’ or ‘an Egyptian’ as such.</p>
+
+<p>For a more in-depth discussion of Alexander and Panhellenism, with specific examples, have a read of <a href="https://www.reddit.com/r/AskHistorians/comments/ki1uvd/im_a_young_farmhand_in_330_bc_spending_most_of_my/ggsmtmv/">this answer</a>, but to condense out the key points, I think we ought to be wary of discussing Alexander’s identity and the construction of his rule primarily on the basis of his outreach to the peoples of southern Greece. For one, most of southern Greece ultimately <em>did not buy it</em>, and fought against Alexander multiple times – Thebes in 335, Sparta in 331, and Athens and the Aitolian League in 323. For another, we need to be willing to approach Alexander as a universal monarch who simultaneously mobilised several languages of legitimacy, aimed at each individual constituency of his broader imperial sphere. Now, that can be used to justify one of two positions: If we claim Alexander was Greek because he successfully made use of Greek tools of legitimacy, then we equally ought to argue he was Egyptian and Persian. If we do not claim he was Egyptian or Persian simply because of his exploitation of Egyptian and Persian motifs, then we should not extend that to the Greeks either. This is, of course, presuming that we only base our view of him from his public-facing persona. We cannot exclude the possibility that he privately saw himself both as Greek and as Macedonian, but I would argue that much of his behaviour in his campaigns suggests otherwise. His appointment almost exclusively of Macedonians as satraps, his dismissal of large portions of his Greek allies after Gaugamela, and his cynical resettlement of former anti-Macedonian Greek mercenaries in the Iranian and Bactrian highlands all point to someone who saw his rule as predicated on the maintenance of a position of Macedonian superiority within his empire, and relied on a sense of Macedonian in-group loyalty. In other words, I would argue that Alexander ought to be understood as a Macedonian who nevertheless maintained a series of non-Macedonian public personas.</p>
+
+<p>As with any discussion of Alexander it is vital to really dig into the sources, and I would like to stress that the notion of Alexander as a Greek hero, while not spun from whole cloth, is largely the product of two late literary histories, those of Arrian and Plutarch. I discuss these in more detail <a href="https://www.reddit.com/r/AskHistorians/comments/l06m2l/concerning_alexander_the_great_how_much_of_the/gjwy3ha/">in this answer</a> and to some extent <a href="https://www.reddit.com/r/AskHistorians/comments/sv4k5i/did_alexander_the_great_get_valuable_intelligence/hxf2izy/">this answer</a>, but to put it bluntly, both of these sources have a vested interest in portraying Alexander as extremely culturally Hellenised, and his campaigns, at least against the Persians, as sincere fulfilments of the Panhellenic dream of retribution for the Persian invasions of the Greek mainland and continued rule over the Greeks of Ionia. While based on sources contemporary with Alexander, they are selective in their use of these sources, and in such a way that specifically pushes their own narratives of Alexander as a pan-Greek hero, and we ought therefore to be extremely sceptical. Indeed, we ought to be <em>especially</em> so given that Plutarch is so quiet on Greco-Macedonian tensions in the <em>Life of Alexander</em>, when, as seen, the <em>Life of Eumenes</em> highlights such tensions with great frequency.</p>
+
+<p>—– <strong>735.2</strong> —–2022-08-24 13:22:32+08:00:</p>
+
+<p>In the end, we probably ought to ask ourselves, ‘what is a Greek?’ and ‘what is a Macedonian?’ and while I don’t think there is a one-size-fits-all definition, I think it helps to suggest the following: to possess a particular identity, you must make a claim to possessing that identity sincerely and in good faith; to a lesser extent, others holding the same identity must acknowledge it as such. And with Alexander, I simply do not believe that either criterion is matched. Alexander’s claims to Greekness were, where they are reasonably certain not to be later interpolations, invariably confined to contexts in which he was communicating with Greeks; he did not propound Greekness to non-Greek peoples. Moreover, there is much to suggest that while some Greeks acknowledged these claims as legitimate within his own lifetime, they did not represent some grand consensus. The myth of the Panhellenic Alexander emerged out of a Hellenistic and Roman context.</p>
+
+<h3 id="736-how-is-it-that-indians-have-such-a-starkly-different-account-of-the-battle-of-the-hydaspes-is-there-any-evidence-at-all-to-back-up-that-alexander-was-defeated-there-submitted-on-2022-08-24-0228100800">736: <a href="https://old.reddit.com/r/AskHistorians/comments/wvw6rf/how_is_it_that_indians_have_such_a_starkly/">How is it that Indians have such a starkly different account of the Battle of the Hydaspes? Is there any evidence at all to back up that Alexander was defeated there?</a>, submitted on 2022-08-24 02:28:10+08:00.</h3>
+
+<p>—– <strong>736.1</strong> —–2022-08-24 11:29:18+08:00:</p>
+
+<blockquote>
+  <p>During the mutiny Alexander’s troops expressed concerns over the difficulty of facing the great empires in the Ganges and their armies of elephants, having struggled against Porus.</p>
+</blockquote>
+
+<p>I’d also note that this is <a href="https://www.reddit.com/r/AskHistorians/comments/qzlynj/what_scared_alexanders_soldiers_when_they_reached/hlr177l/">not consistent across all five sources</a>, and that the earliest (Diodoros) does not even mention the existence of a mutiny at all.</p>
+
+<p>—– <strong>736.2</strong> —–2022-08-24 11:30:45+08:00:</p>
+
+<p>We don’t, actually. <a href="https://www.reddit.com/r/AskHistorians/comments/l06m2l/concerning_alexander_the_great_how_much_of_the/gjwy3ha/">Three of the five surviving narrative histories of Alexander are based on sources hostile to him.</a></p>
+
+<h3 id="737-richard-wolff-what-did-karl-marx-think-about-worker-cooperatives-submitted-on-2022-08-24-1355280800">737: <a href="https://old.reddit.com/r/AskHistorians/comments/wwbeuh/richard_wolff_what_did_karl_marx_think_about/">Richard Wolff: What did Karl Marx think about worker cooperatives?</a>, submitted on 2022-08-24 13:55:28+08:00.</h3>
+
+<p>—– <strong>737.1</strong> —–2022-08-24 15:09:25+08:00:</p>
+
+<p>This question has been removed because it is <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22soapboxing.22_or_loaded_questions.">soapboxing</a> or otherwise a <a href="https://www.reddit.com/r/AskHistorians/comments/glq47z/rules_roundtable_xiii_soapboxing_loaded_questions/">loaded question</a>: it has the effect of promoting an existing interpretation or opinion at the expense of open-ended enquiry. Although we understand if you may have an existing interest in the topic, expressing a detailed opinion on the matter in your question is usually a sign that it is a loaded one, and we will remove questions that appear to put a deliberate slant on their subject or solicit answers that align with a specific pre-existing view.</p>
+
+<h3 id="738-til-the-great-and-almighty-laplus-is-a-brocon-submitted-on-2022-08-24-1939300800">738: <a href="https://old.reddit.com/r/Hololive/comments/wwh97a/til_the_great_and_almighty_laplus_is_a_brocon/">TIL the great and almighty Laplus is a brocon</a>, submitted on 2022-08-24 19:39:30+08:00.</h3>
+
+<p>—– <strong>738.1</strong> —–2022-08-24 22:26:39+08:00:</p>
+
+<p>Too bad, she’s already taken.</p>
+
+<p>—– <strong>738.2</strong> —–2022-08-24 23:26:11+08:00:</p>
+
+<p>The arsonist. To paraphrase, <a href="https://youtu.be/4TaTV1EQ2Zs?t=482">‘Subaru is my oshi, Flare is <em>kiss noises</em>.’</a></p>
+
+<h3 id="739-i-cant-seem-to-find-the-military-ranks-of-the-swedish-army-during-the-napoleonic-wars-feel-free-to-comment-if-you-know-what-they-are-thanks-due-to-the-auto-moderation-i-am-obligated-to-put-a-question-mark-submitted-on-2022-08-24-1948460800">739: <a href="https://old.reddit.com/r/AskHistorians/comments/wwhfxl/i_cant_seem_to_find_the_military_ranks_of_the/">I can’t seem to find the military ranks of the Swedish army during the Napoleonic wars. Feel free to comment if you know what they are. Thanks! (Due to the auto-moderation, I am obligated to put a question mark)?</a>, submitted on 2022-08-24 19:48:46+08:00.</h3>
+
+<p>—– <strong>739.1</strong> —–2022-08-24 19:57:56+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="740-at-what-point-in-human-history-did-we-have-to-start-brushing-our-teeth-submitted-on-2022-08-25-0721090800">740: <a href="https://old.reddit.com/r/AskHistorians/comments/wwy18f/at_what_point_in_human_history_did_we_have_to/">At what point in human history did we have to start brushing our teeth?</a>, submitted on 2022-08-25 07:21:09+08:00.</h3>
+
+<p>—– <strong>740.1</strong> —–2022-08-25 11:07:29+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="741-was-the-silk-road-easily-navigable-submitted-on-2022-08-25-1214400800">741: <a href="https://old.reddit.com/r/AskHistorians/comments/wx4a31/was_the_silk_road_easily_navigable/">Was the Silk Road Easily Navigable?</a>, submitted on 2022-08-25 12:14:40+08:00.</h3>
+
+<p>—– <strong>741.1</strong> —–2022-08-25 16:23:17+08:00:</p>
+
+<p>This is not an answerable question because <a href="https://www.reddit.com/r/AskHistorians/comments/jsb5my/whats_the_state_of_scholarship_on_the_silk_road/gbyl2uc/">the Silk Road never existed</a>. There never was a singular, marked route called the ‘Silk Road’ at any point in history.</p>
+
+<h3 id="742-i-want-to-study-at-oxford-but-im-not-sure-whether-my-grades-are-good-enough-submitted-on-2022-08-25-2154440800">742: <a href="https://old.reddit.com/r/oxforduni/comments/wxewft/i_want_to_study_at_oxford_but_im_not_sure_whether/">I want to study at Oxford, but I’m not sure whether my grades are good enough</a>, submitted on 2022-08-25 21:54:44+08:00.</h3>
+
+<p>—– <strong>742.1</strong> —–2022-08-26 11:35:55+08:00:</p>
+
+<p>I read History at Oxford and I got a B in GCSE History back when grades were lettered. Don’t worry too much about the grades, especially as Oxford’s typical requirements are AAA. What gets you in is the interview process.</p>
+
+<h3 id="743-can-i-ask-a-few-things-about-mongol-history--submitted-on-2022-08-25-2244440800">743: <a href="https://old.reddit.com/r/AskHistorians/comments/wxg43f/can_i_ask_a_few_things_about_mongol_history/">Can I ask a few things about Mongol history ?</a>, submitted on 2022-08-25 22:44:44+08:00.</h3>
+
+<p>—– <strong>743.1</strong> —–2022-08-26 01:30:39+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="744-gave-sana-a-haircut-how-does-it-look-submitted-on-2022-08-25-2355180800">744: <a href="https://old.reddit.com/r/Hololive/comments/wxhusk/gave_sana_a_haircut_how_does_it_look/">Gave Sana a haircut, how does it look?</a>, submitted on 2022-08-25 23:55:18+08:00.</h3>
+
+<p>—– <strong>744.1</strong> —–2022-08-26 11:02:40+08:00:</p>
+
+<p>I can’t see it through the tears</p>
+
+<h3 id="745-i-dont-even-know-anymore-submitted-on-2022-08-26-0556030800">745: <a href="https://old.reddit.com/r/engrish/comments/wxqqxr/i_dont_even_know_anymore/">I don’t even know anymore….</a>, submitted on 2022-08-26 05:56:03+08:00.</h3>
+
+<p>—– <strong>745.1</strong> —–2022-08-26 19:55:48+08:00:</p>
+
+<p>Accurate in sentiment if not in semantics.</p>
+
+<h3 id="746-free-for-all-friday-26-august-2022-submitted-on-2022-08-26-1900130800">746: <a href="https://old.reddit.com/r/badhistory/comments/wy660b/free_for_all_friday_26_august_2022/">Free for All Friday, 26 August 2022</a>, submitted on 2022-08-26 19:00:13+08:00.</h3>
+
+<p>—– <strong>746.1</strong> —–2022-08-27 10:39:49+08:00:</p>
+
+<p>Thanks /u/King_Vercingetorix!</p>
+
+<p>For narrative the <a href="https://thehistoryofchina.wordpress.com/">History of China Podcast</a> is a good choice; while <a href="http://www.chinesehistorypodcast.com/">The Chinese History Podcast</a> has a good selection of interviews with academics. Both are run by current or former flairs on AskHistorians, to boot.</p>
+
+<p>—– <strong>746.2</strong> —–2022-08-27 10:48:05+08:00:</p>
+
+<p>Interestingly, while the idea that Ögedei’s death stopped the invasion of Europe is dubious, there is some credence to the idea that the death of Möngke is what led to the failure of the Ilkhanate’s invasion of Syria and subsequent debacle at Ayn Jālūt. Reuven Amitai-Preiss (IIRC) noted that a huge part of the Ilkhanate host was relocated to the southern Caucasus rather suddenly, and attributes this to the sudden need to guard the Toluids’ northwest frontier against the Jochids.</p>
+
+<h3 id="747-no-one-is-guiltless--rhistorymemes-tackles-the-transatlantic-slave-trade-submitted-on-2022-08-26-2227320800">747: <a href="https://old.reddit.com/r/SubredditDrama/comments/wyamlj/no_one_is_guiltless_rhistorymemes_tackles_the/">“No one is guiltless”- R/historymemes tackles the transatlantic slave trade</a>, submitted on 2022-08-26 22:27:32+08:00.</h3>
+
+<p>—– <strong>747.1</strong> —–2022-08-27 12:16:48+08:00:</p>
+
+<p>That’s not history, that’s some kind of evo-psych. History is a literary and not a scientific exercise, focussed on the analysis of past phenomena in their context.</p>
+
+<p>—– <strong>747.2</strong> —–2022-08-27 13:16:10+08:00:</p>
+
+<p>Right, and history is not a fundamentally systematic exercise. History is about imparting some kind of meaning on the remnants of the past, and each individual historian does so in an individual and selective manner.</p>
+
+<p>—– <strong>747.3</strong> —–2022-08-27 18:04:28+08:00:</p>
+
+<p>Yes, pretty much.</p>
+
+<p>—– <strong>747.4</strong> —–2022-08-27 19:50:37+08:00:</p>
+
+<p>Among other things, history does not say it is practicing science, and would indeed actively reject that label. I am saying so <em>as a historian here</em>. I think calling history a science fundamentally fails to grasp that it is a field whose underlying principles are incredibly different.</p>
+
+<p>—– <strong>747.5</strong> —–2022-08-27 20:30:18+08:00:</p>
+
+<p>Well, it will depend how you define ‘science’ for sure, but in general, science is about attempting to achieve, as best as possible, an objective understanding of the mechanics of the natural world, as best as can be attained. History, however, operates entirely in the realm of the subjective: it is about subjective observers in the present day taking their own lens to the subjective remnants of the past, attempting to construct some form of narrative to make sense of it. And in a particular point of view I can see how those are comparable, but I just don’t. Historians don’t have access to complete, objective data, nor can they – outside of some specific subfields like experimental archaeology – carry out experiments to gather that data. Historians tend not to prescribe universal laws of history, although they may often advocate certain methodologies that can be used across geographical and temporal contexts.</p>
+
+<p>To use the case of Robert Vitalis there, as you’ve described what he was doing was history rather than science – he was looking from his then-present perspective at past documents to construct a narrative. This in turn influenced the way that the field operated going forward of course, and I’m not about to deny that history and scientific fields can have mutual influence. But their functions and methods differ considerably.</p>
+
+<p>—– <strong>747.6</strong> —–2022-08-28 10:28:59+08:00:</p>
+
+<p>To put it quite simply, I don’t disagree that political scientists can call themselves scientists, but it would be on one of two bases:</p>
+
+<ol>
+  <li>
+    <p>The cynical basis, which is that political science as a field has called itself a science because we as a society tend to lend credence to things that call themselves science;</p>
+  </li>
+  <li>
+    <p>The etymological basis, in which political science uses ‘science’ in a way that has diverged from how ‘science’ is colloquially employed , but which is, in broad terms, valid.</p>
+  </li>
+</ol>
+
+<p>The issue then becomes, however, when non-historians attempt to assert that history <em>is</em> a science by the standards of non-historical fields. As you have seen from our above discussion, this is a perspective actively rejected by historians because we are <em>generally</em> uninterested in seeking out universal laws or general conclusions on how the mechanisms of societies function; rather we are interested in the specific and the contingent. We don’t so much <em>use</em> case studies as <em>create</em> case studies. That’s maybe a bit clumsy and you can quibble with how far that’s the case, but our interest is in developing coherent narratives of confined, contingent episodes, not attempting to seek out wider patterns in human and societal behaviour.</p>
+
+<p>I’d also argue that for instance a psychologist <em>is</em> operating partly in the objective world, by attempting to employ objective methodologies through which to study individual humans’ subjective experiences. I’m not saying that ‘any level of subjectivity makes you <em>not</em> a scientist’, I’m saying that ‘any substantial degree of objectivity probably <em>does</em> make you a scientist’.</p>
+
+<h3 id="748-oxford-academic-year-submitted-on-2022-08-27-0953150800">748: <a href="https://old.reddit.com/r/oxforduni/comments/wyqhqo/oxford_academic_year/">Oxford Academic Year?</a>, submitted on 2022-08-27 09:53:15+08:00.</h3>
+
+<p>—– <strong>748.1</strong> —–2022-08-27 10:55:58+08:00:</p>
+
+<p>Yes. It is not a long period, although it is longer for graduate students than for undergraduates.</p>
+
+<h3 id="749-is-the-reason-why-india-has-beef-with-pakistan-because-of-the-political-history-of-north-india-islam-taking-over-delhi-in-the-13th-century-thus-an-example-of-continuity-submitted-on-2022-08-27-1128120800">749: <a href="https://old.reddit.com/r/AskHistorians/comments/wysd03/is_the_reason_why_india_has_beef_with_pakistan/">Is the reason why India has beef with Pakistan because of the political history of North India (Islam) taking over Delhi in the 13th century, thus an example of continuity?</a>, submitted on 2022-08-27 11:28:12+08:00.</h3>
+
+<p>—– <strong>749.1</strong> —–2022-08-27 20:39:07+08:00:</p>
+
+<p>This question has been removed because it is <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22soapboxing.22_or_loaded_questions.">soapboxing</a> or otherwise a <a href="https://www.reddit.com/r/AskHistorians/comments/glq47z/rules_roundtable_xiii_soapboxing_loaded_questions/">loaded question</a>: it has the effect of promoting an existing interpretation or opinion at the expense of open-ended enquiry. Although we understand if you may have an existing interest in the topic, expressing a detailed opinion on the matter in your question is usually a sign that it is a loaded one, and we will remove questions that appear to put a deliberate slant on their subject or solicit answers that align with a specific pre-existing view.</p>
+
+<p>—– <strong>749.2</strong> —–2022-08-27 23:52:16+08:00:</p>
+
+<p>As it stands it quite heavily implies a particular theory. A more neutral wording might be</p>
+
+<p>“Are there historical underpinnings to the animosity between India and Pakistan that predate the partition of India, or even the British colonial period?”</p>
+
+<p>or</p>
+
+<p>“Is there a historical continuity to the animosity between India and Pakistan that we can trace into the past beyond the period of British colonialism?</p>
+
+<h3 id="750-kiosk-selling-kids-toys-and-adult-reading-material-submitted-on-2022-08-27-1416560800">750: <a href="https://old.reddit.com/r/mildlyinteresting/comments/wyvek4/kiosk_selling_kids_toys_and_adult_reading_material/">Kiosk selling kids toys and adult reading material.</a>, submitted on 2022-08-27 14:16:56+08:00.</h3>
+
+<p>—– <strong>750.1</strong> —–2022-08-30 19:08:31+08:00:</p>
+
+<blockquote>
+  <p>I’m pretty sure that this stall is located in Tsim Sha Tsui, near a pier.</p>
+</blockquote>
+
+<p>Even says Star Ferry in the top right corner!</p>
+
+<h3 id="751-what-do-people-use-to-take-notes-submitted-on-2022-08-28-0026190800">751: <a href="https://old.reddit.com/r/oxforduni/comments/wz6ztw/what_do_people_use_to_take_notes/">What do people use to take notes?</a>, submitted on 2022-08-28 00:26:19+08:00.</h3>
+
+<p>—– <strong>751.1</strong> —–2022-08-28 01:09:05+08:00:</p>
+
+<p>This will ultimately depend on your subject. As a history student I mostly typed my reading notes and wrote lecture and tutorial notes, and ultimately I feel I generally got more out of reading than discussion although the latter was still vital to actually refining my thoughts. Going back later, it was very useful to have easily searchable and well-organised notes on my laptop.</p>
+
+<h3 id="752-why-didnt-china-invade-the-port-of-tsingtao-in-wwi-submitted-on-2022-08-28-0113390800">752: <a href="https://old.reddit.com/r/AskHistorians/comments/wz84eh/why_didnt_china_invade_the_port_of_tsingtao_in_wwi/">Why didn’t China invade the port of Tsingtao in WWI?</a>, submitted on 2022-08-28 01:13:39+08:00.</h3>
+
+<p>—– <strong>752.1</strong> —–2022-08-28 15:29:55+08:00:</p>
+
+<p>The First World War in Europe is generally considered to have broken out on 28 July 1914 with the Austro-Hungarian declaration of war on Serbia. On 4 August, German troops crossed the Belgian border, and the United Kingdom declared war at midnight. At this juncture, Britain also moved to activate its alliance with Japan, which formally issued an ultimatum to Germany on 15 August, formally declaring war on the 23rd. On 2 September, the Japanese army landed in Shandong and encircled the German colony at Qingdao, whose defenders surrendered on 7 November. In short, the window in which the Republic of China could conceivably have attacked the port was incredibly brief, assuming that they could even reach a firm decision on which side to back. Bear in mind that the Qingdao campaign was merely one part of what was becoming a global conflict, centred on Europe. While the ROC might reasonably bet that the Central Powers would lose in Asia in 1914, they could not have been certain that the Entente/Allied powers would ultimately win in Europe, and that choosing their side too early might not backfire.</p>
+
+<p>For its part, China in August 1914 was still at least nominally a united country, but many of the political institutions hastily established in the wake of the 1911 Revolution had been, at the very least, strained. The assassination of KMT parliamentary leader Song Jiaoren in March 1913, which was (with little evidence) blamed on Yuan Shikai, prompted the KMT to attempt to foment an uprising against Yuan, the so-called ‘Second Revolution’ of 1913, which was defeated and followed by Yuan formally dissolving the National Assembly in January 1914 and replacing it with a rump entity consisting mostly of members of the Progressive Party under Liang Qichao.</p>
+
+<p>But no less important was a serious financial problem. The Republican government inherited the Qing Empire’s foreign debts and was consequently saddled with considerable expenditures – around 20% of the central budget between 1912 and 1922 was devoted to paying off foreign debts, weighted heavily towards the earlier part of this period. These included the Boxer Indemnity, debts run up while financing the New Policy reform programme after 1901, and debts incurred to repair damage in Manchuria from the Russo-Japanese War of 1904-5. Under the republic, these debt payments had to be offset with yet more borrowing from both domestic and foreign sources: at least 40 million pounds sterling was borrowed from foreign banks and governments in 1912-13, including around £3.5 million from Switzerland and Austria to finance the war against the KMT insurrection. Expenditures further increased thanks to a considerable programme of military expansion under Yuan, with military expenditures making up 40% of government spending in 1914 and 1916. Moreover, half of ROC revenues in 1913 (excluding borrowing) came from salt taxes and from inland and maritime customs, at a time when these were essentially administered by foreigners, the salt tax through the Sino-Foreign Salt Administration, established as a condition of the 1913 Reorganisation Loan, and maritime customs through the foreign-staffed Maritime Customs Service, a holdover from the old imperial government.</p>
+
+<p>The financial situation placed Yuan’s government in a serious geopolitical bind. Most of its revenues, both in terms of regular taxation and supplementary borrowing, were controlled by foreign powers, and much of this was used to pay off debts to said foreign powers. Committing to war in 1914 would have meant effectively defaulting on a substantial part of the ROC’s debts and indemnities, depending on which side it picked, while potentially compromising a huge chunk of its government revenues. The only way it would pay off is if the side the ROC supported also won in Europe, and there was little reason in 1914 to believe with certainty that it would be the Allies. The choice over going to war would be a difficult one.</p>
+
+<p>And yet, it was a decision that some agitated for. To quote Xu Guoqi’s <em>China and the Great War</em>:</p>
+
+<blockquote>
+  <p>Liu Yan, who later wrote a diplomatic history of Republican China and who in 1914 was an active member of the foreign policy public, immediately wrote several memoranda to the foreign ministry and the state council suggesting that China declare war on Germany and take back Qingdao. This, he thought, would forestall Japanese efforts to do the same. The other option he recommended was to regain Qingdao through negotiation.</p>
+</blockquote>
+
+<p>Similarly, key advisors of Yuan Shikai, including Zhang Guogan and Liang Shiyi, suggested that he should bring China into the war as an Allied power as soon as possible. Yet other prominent figures generally argued that China should <em>support</em> Germany. Liang Qichao backed Germany until mid-1915. Duan Qirui, Minister for War under Yuan Shikai and later Premier under Li Yuanhong, was aggressively pro-German until early 1917. One of his allies, the future warlord Xu Shuzheng, actually supplied ammunition to the German garrison in Qingdao in August 1914 before the Japanese landed. The Republican government thus lacked a clear line on <em>how</em> it should intervene, even if many agreed that it should.</p>
+
+<p>On 6 August, the ROC declared neutrality, although with an eye to attempting to gain control of Qingdao diplomatically before Allied forces began fighting on Chinese soil. Negotiations were opened with Germany on 15 August, who the next day offered to sell Qingdao to the ROC. However, parallel negotiations with Britain and Japan scuppered the plan, as on 19 August, British ambassador John Jordan assured the ROC government that Qingdao would be repatriated upon its capture, while also asserting that the Allied powers would refuse to recognise the sale if it went ahead. A third attempt at negotiation was made by contacting the United States in the hopes that Germany might hand over the territory to an interim American administration, but the US rejected the proposal.</p>
+
+<p>Alongside attempts by the foreign ministry to secure the colony without bloodshed, Yuan Shikai himself, whom it seems had been swayed by his pro-Allied advisors, apparently made contact with Jordan offering to deploy 50,000 troops to support an attack led by the European Allies, but Jordan immediately shot down the plan, without consulting either the French or Russian diplomatic corps. (Although it is worth noting that no contemporary documentation survives, and it is known only through statements made by Yuan and his principal Anglophone secretary, George Morrison, and almost all from late 1915 onward.) Thus denied its most obvious <em>casus belli</em> for entry into WWI, China would remain neutral until 1917.</p>
+
+<p>So, the Republic of China <em>did</em> actually come very close to attacking Qingdao. The problem was that the ROC at this stage was so tied to the interests of foreign powers that it could not do so unilaterally, and for one reason or another the principal British diplomat chose not to allow a Chinese entry into the Allies at that juncture.</p>
+
+<p><strong>Sources and Further Reading</strong></p>
+
+<ul>
+  <li>
+    <p>Xu Guoqi, <em>China and the Great War</em> (2005)</p>
+  </li>
+  <li>
+    <p>Hans van de Ven, ‘Public Finance and the Rise of Warlordism’, <em>Modern Asian Studies</em> 30:4 (1996)</p>
+  </li>
+</ul>
+
+<h3 id="753-anti-manchu-racism-played-a-central-part-in-many-anti-qing-ideologies-such-as-those-of-the-taipings-to-what-extent-were-such-ideas-popular-amongst-ordinary-han-chinese-were-ordinary-manchus-affected-what-happened-to-such-ideas-after-the-qing-overthrow-submitted-on-2022-08-28-1929500800">753: <a href="https://old.reddit.com/r/AskHistorians/comments/wzt8kn/antimanchu_racism_played_a_central_part_in_many/">Anti-Manchu racism played a central part in many anti-Qing ideologies, such as those of the Taipings. To what extent were such ideas popular amongst ordinary Han Chinese? Were ordinary Manchus affected? What happened to such ideas after the Qing overthrow?</a>, submitted on 2022-08-28 19:29:50+08:00.</h3>
+
+<p>—– <strong>753.1</strong> —–2022-08-29 00:01:16+08:00:</p>
+
+<p>It would, I would suggest, be more than accurate to say that there was a popular dimension to anti-Manchuism, and that it was not strictly an elite phenomenon. The problem with discussing it is that working-class Chinese voices rarely come through in the sources directly. Elite anti-Manchuism is much easier to discuss because, in contrast, elites wrote a lot more and things that elites wrote survived much more easily. We don’t have essays by Chinese farmers arguing that enforced miscegenation of Han and Manchus was necessary to preserve Manchu bloodlines through the inevitable upcoming race war between whites and East Asians, but we do have them from elite writers like Liang Qichao. Instead, we often have to apply a layer of interpretation to mass action, and that requires that there is some anti-Manchu action to analyse. In periods when there were not enough tensions to boil over into open action, we may not really be able to say how far there were such tensions, if any at all.</p>
+
+<p>A critical article in the development of the modern paradigm of Qing studies is Mark Elliott’s 1990 piece ‘Bannerman and Townsman’, which discusses a rather striking episode in 1841, during the Opium War, when the commander of Zhenjiang’s Banner garrison, the Manchu Hailing, instituted a draconian and increasingly erratic state of martial law that saw Han Chinese civilians more or less indiscriminately subjected to corporal punishment on suspicion of treachery. While the event mainly illustrates Manchu prejudices against the Han, we may detect a few signs of anti-Manchu sentiment as well. After the British captured the city on 21 July, the story apparently circulated that a monk in the city had gone over to them at the encouragement of a junior officer and informed them of a weakness in the city’s defences, explicitly to stop the bloodshed now being committed by Hailing against those in his charge. Later local traditions asserted that Hailing, rather than committing suicide after the walls were lost, in fact fled to the countryside, or was killed by a mob. These by no means indicate the existence of a systematic form of anti-Manchu sentiment, especially considering the much more immediate and contingent issues surrounding Hailing’s behaviour, but the episode as a whole is a potent indicator that there were ethnic tensions in at least one direction.</p>
+
+<p>The Taiping give us a much more unequivocal example of mass anti-Manchu sentiment in action, helpfully supplemented by a handful of individual accounts collected by missionaries. The most evocative I think is this one, written originally by Stanislas de Clavelin in December 1853 and translated by Clarke and Gregory:</p>
+
+<blockquote>
+  <p>“Finally, concerning the Tartars, when we consider the evils that they have caused us, and the abasement to which China has sunk under their government, one cannot dream of entering into an agreement with them; let them return to graze their flocks, or else prepare themselves for a war of extermination. And besides they are idolators, incorrigible idolators. Would the Heavenly Father forgive us for thus forgiving them?”</p>
+</blockquote>
+
+<p>The sentiment expressed here by Clavelin’s interlocutor is overtly genocidal – the Manchus <em>must</em> be destroyed because God commanded it so. And indeed, the Taiping acted on this basis. Just nine months before Clavelin’s visit, the Taiping army had massacred the entire Manchu garrison and their families – 30,000 people at least – on capturing Nanjing. The garrisons at Hangzhou and Zhapu met similar fates in 1860. Indiscriminate massacre of captured Manchus was commonplace, from which it ought to be reasonably evident that the anti-Manchu invective in Taiping propaganda and other official texts percolated quite far down. Perhaps that ought to also be taken in conjunction with the fact that most of the Taiping leadership lay outside the traditional state-recognised gentry elite, and were largely people of working-class backgrounds developing ideas for a broadly working-class audience. Simply put, Taiping anti-Manchuism was hardly an elite phenomenon.</p>
+
+<p>Nor, I would suggest, was this anti-Manchuism an exclusively Taiping-generated phenomenon. Proclamations by leaders of the Yunnanese revolts of 1856-73 frequently stressed the notion of Manchu rule as illegitimate, although often on a somewhat contingent basis citing specific Manchu misdeeds rather than there being an inherent illegitimacy to Manchu rule. In 1867, Du Wenxiu, ruler of the principal rebel polity, the Pingnan Guo (also known as the Dali Sultanate), issued proclamations which included the following statements:</p>
+
+<blockquote>
+  <p>The reason for this expedition is to chastise the Manchus, who took our land for more than 200 years, treating the people as horses and oxen, regarded life as expendable like the trees and grasses, injured my brothers, and tormented the Hui.</p>
+</blockquote>
+
+<blockquote>
+  <p>In the province of Dian-nan, the Hui, the Han, and the non-Han have been living among one another for over a thousand years. Friendly towards each other, helping one another in times of need, how could there be divisions between [us]? But since the Manchus usurped the throne for more than two hundred years, our people have been maltreated.</p>
+</blockquote>
+
+<blockquote>
+  <p>The army has three purposes: first we must root out the Manchus, then conciliate the Han and, thirdly, weed out the wicked [collaborators].</p>
+</blockquote>
+
+<p>Du also made a point of explicitly using Ming titles and court dress, as well as very explicitly rejecting the queue edict, indeed making it mandatory to grow one’s hair out rather than shave the forehead (with an equivalent policy applying within the Taiping Heavenly Kingdom). At the same time we ought not to regard the Yunnanese rebels as having had the same kind of totally exclusionary approach to anti-Manchuism that the Taiping held. Indeed, Manchus even held government office within the Dali state. Instead, the objective seems to have been the erosion and eventual destruction of Manchu political and cultural influence on Yunnan, which had apparently taken the form of implicitly pro-Han forms of ethnic discrimination for which the Manchus were scapegoated, and not the destruction of the Manchu people as the Taiping seem to have advocated.</p>
+
+<p>Assessment of popular anti-Manchuism in the period between the Taiping and 1911 revolts is hard to gauge, and I don’t believe it is possible to do so at great length, at least not with the material known to me. While we have plenty of detail on elite writings (Chapter VI of Pamela Crossley’s <em>Orphan Warriors</em> is sobering reading, and so too are some passages of Edward Rhoads’ <em>Manchus and Han</em>), we simply don’t have as much a sense of how the general Han Chinese public viewed the Manchus, either as (ostensible) overlords or as neighbours.</p>
+
+<p>As such, after the Taiping, our next point of reference is the 1911 Revolution, and here we see a lot more scattered instances of anti-Manchuism, but still potent cases nonetheless. At one extreme was Xi’an, which saw its entire Manchu population of 20,000 massacred; at Nanjing, untold numbers of Manchus were killed from a garrison of a little over 2000 (which, accounting for dependents, probably meant a total of at least 8000 soldiers and civilians), although there remained at least some survivors to whom clemency was granted. At the other, many Manchu garrison quarters came away unscathed. But this could not be said for Taiyuan, where perhaps 20 to 25 Manchus were killed in an overnight attack and the Manchu quarter was sacked; despite an agreement to disarm in exchange for protection, the Manchu garrison at Zhenjiang was evicted in early November and harried by republican militias and mutineers, with at least twenty killed in the city and unknown numbers outside. Hundreds died in fighting at Jingzhou and Fuzhou, although there was unusual and unexpected mercy in the latter case when the local revolutionaries took over and provided medical aid to the survivors.</p>
+
+<p>Nor were Manchus outside established garrisons particularly safe, as, on the day of the Wuchang Uprising on 10 October 1911 an unknown number of Manchu soldiers attached to the otherwise-Han Wuchang garrison were killed by mutineers exclaiming ‘Slay the Manchu officials and the Bannermen!’ The Hubei Military Government explicitly stated that its role was to ‘elevate the Han and exterminate the Manchus’, and, according to Edward Rhoads, ‘wiped out four leading Manchu families in Wuchang and confiscated their property’, along with a number of other targeted anti-Manchu acts including systematically stopping people in the streets and subjecting them to tests to determine if they were Manchus: if their head was the wrong shape or they spoke with the wrong accent, they were executed. Targeted anti-Manchu violence was brief owing to a foreign diplomatic intervention on 13 October, but still resulted in the deaths of between four and eight hundred Manchu soldiers and civilians, almost certainly a majority of those who had been in the city.</p>
+
+<p>Now, in all of the above cases, most of the massacring was carried out principally under the auspices of the heavily-radicalised military, rather than the population at large. But even so, it seems an unavoidable conclusion that anti-Manchuism was generally widespread, even if the exact nature of how it manifested – in Taiping-style genocidal mode in Wuchang and Xi’an, or Yunnan-style anti-government mode in Jingzhou – varied from one place to another.</p>
+
+<p>—– <strong>753.2</strong> —–2022-08-29 00:18:54+08:00:</p>
+
+<p>In the wake of the revolution, anti-Manchu rhetoric did not vanish outright, but it did diminish considerably in the political sphere if for no other reason than that the pragmatic arguments behind it (principally related to the Manchus’ apparent institutional privileges) no longer applied. The Manchus were also helped by the fact that the Revolution led to the installation of an old imperial loyalist, Yuan Shikai, as President, who sought to limit the damage caused to the integrity of the empire as a political formation and offered what clemency and incentives he could to its principal non-Han populations. It is also worth considering that the primacy of anti-Manchuism as a core position among revolutionary ideologues may already have been declining by 1911, if for no other reason than that a purely Han-centric state might have difficulty justifying attempts to retain claims to the wider imperial space of the Qing Empire, without resorting to the rather self-contradictory but nevertheless quite widespread notion of empire as the natural extension of a nation too vibrant to remain within its own natural boundaries – an idea we can easily argue similarly applied to Japan and the European powers. Both the conservative and radical factions within the post-imperial state had obvious incentives to rapidly pivot away from overt anti-Manchuism in favour of an at least nominal state of multiethnic egalitarianism.</p>
+
+<p>But said egalitarianism was not entirely effective in practice. One thing that must be stressed about the Banner people under the Qing was that they were somewhat politically privileged, but extremely disadvantaged economically thanks to heavy restrictions on their employment and the somewhat short-sighted sale of land allotments by early Manchu garrison colonists. A 1919 study showed that in Beijing, the average household income for Manchus was <em>half</em> that of the Han, and there would be no affirmative action policies forthcoming to attempt to correct this imbalance.</p>
+
+<p>In addition, although the evidence for this is necessarily thin, low-level anti-Manchu prejudice seems to have continued well into the late 20th century, despite overt anti-Manchuism being struck off the political agenda. Admitting to having Manchu heritage was actively dangerous for many, at the very least harming employment prospects and at worst being a threat to one’s physical safety. Only since the early 1980s would there be a serious re-emergence of Manchu self-identification – although this seems to have begun slightly earlier on Taiwan than the mainland – and, despite claims by some cynical modern commentators that this has been driven by the desire to exploit affirmative action policies, it is clear that a considerable part of this has come from the desire to positively claim connections with an identity that the Han had spent decades, if not longer, trying to suppress.</p>
+
+<h3 id="sources-and-further-reading">Sources and Further Reading</h3>
+
+<ul>
+  <li>
+    <p>Mark C. Elliott, ‘Bannerman and Townsman: Ethnic Tension in Nineteenth-Century Jiangnan’, <em>Late Imperial China</em> 11:1 (1990)</p>
+  </li>
+  <li>
+    <p>Pamela Kyle Crossley, <em>Orphan Warriors: Three Manchu Generations and the End of the Qing World</em> (1990)</p>
+  </li>
+  <li>
+    <p>Edward J. M. Rhoads, <em>Manchus and Han: Ethnic Relations and Political Power in Late Qing and Early Republican China, 1861-1928</em> (2000)</p>
+  </li>
+  <li>
+    <p>Joseph Esherick, C.X. George Wei (eds.), <em>China: How the Empire Fell</em> (2014)</p>
+  </li>
+  <li>
+    <p>David G. Atwill, <em>The Chinese Sultanate: Islam, Ethnicity, and the Panthay Rebellion in Southwest China, 1856-1873</em> (2006)</p>
+  </li>
+</ul>
+
+<p>—– <strong>753.3</strong> —–2022-08-29 13:01:21+08:00:</p>
+
+<p>A number of societies have historically used ‘Tartar’ as a catch-all term, often derogatorily, for nomadic societies and peoples as well as non-nomadic tribes connected with the Mongolic steppe, although its use in both English and in Sinitic languages is somewhat of a product of coincidence. Mandarin <em>dada</em> 韃靼 ultimately derives from a Khitan term for the Shiwei 室韋 people, which was then somewhat reified during Mongol rule in China as a term for Mongolic peoples; ‘Tartar’ meanwhile was used as a term for the Mongols in Latin texts and so entered the European lexicon. The Manchus, while not nomadic themselves, were sufficiently associated with the nomadic world by Han Chinese and European observers alike that ‘Tartar’ and its derivatives were readily used by both, with the specific Taiping formulation likely being <em>dayao</em> 韃妖 ‘Tar[tar] demon’.</p>
+
+<p>—– <strong>753.4</strong> —–2022-08-29 13:07:20+08:00:</p>
+
+<p>This is in some ways a bigish question outside my core area, but in short, it has to do with Social Darwinism, a pseudoscientific ideology particularly prominent in the late nineteenth and early twentieth centuries predicated on the assertion that there was an innate notion of racial difference between different human ethnic groups. Some formulations of Social Darwinist thought, especially those prominent in China, asserted that these different races (often broadly categorised as white, black, red, and yellow) would ultimately engage in a struggle for the survival of the fittest, and that it was therefore in the interests of the ‘yellow’ peoples of East Asia to unite and establish a common front against the ‘white’ peoples of Europe in order to win out in that coming struggle. Some proponents like Liang Qichao believed that the Manchus, while under the ‘yellow’ umbrella, were a lesser subrace whose position of dominance over the Han was an aberrant fluke, and that they would either have to be absorbed into the wider Han-led racial paradigm, or eradicated, be it by the Han themselves or as some of the first casualties in the race war.</p>
+
+<p>—– <strong>753.5</strong> —–2022-08-31 10:06:01+08:00:</p>
+
+<p>One is presuming here that just because it is Western scholars making the argument that it is a purely Western intellectual imposition going on. The reality of the situation, though, is that the reason it seems Western ideas of race are being discussed here is that so much of the discourse <em>was rooted in Western ideas of race</em>, at least from the elite standpoint. Han elites were absolutely eating up Western-developed ideas about Social Darwinism and other comparable ‘race science’ nonsense from abroad. There is also strong evidence that the Qing court in the 18th century developed a coherent sense of ethnic essentialism that percolated down to the general population – at least among Han Chinese – by the 19th century, which influenced, for instance, Han Chinese colonial policy on Taiwan.</p>
+
+<blockquote>
+  <p>but the Taiping movement is largely a cult led rebellion of the poor against society</p>
+</blockquote>
+
+<p>To some extent, yes, but outside of the <em>Land System of the Heavenly Dynasty</em>, itself a somewhat elaborated version of a system in the <em>Lijing</em>, the Taiping broadly did not engage in programmes of economic equalisation. As argued pretty persuasively by Carl Kilcourse, the Taiping system was fundamentally accepting of – indeed, actively created – hierarchies as a result of its theological outlook.</p>
+
+<blockquote>
+  <p>Manchurians, by the structure they’ve setup, all have better socio economic standings than not just Han but all none Manchurians. They are usually living a better life and have properties.</p>
+</blockquote>
+
+<p>This was simply objectively untrue. Outside of a handful of hereditarily wealthy noble lineages, the vast majority of Manchus were effectively destitute and lived off state stipends, having divested themselves of their land grants in the 18th century. Poverty within the Banners was an issue raised <em>constantly</em> from the 1720s onward and never effectively resolved by the Qing state.</p>
+
+<blockquote>
+  <p>The massacres against Manchurians by Taiping can also easily be a struggle between classes rather than race.</p>
+</blockquote>
+
+<p>Which is why, of course, we see so many massacres of landed gentry by the Taiping having been committed?</p>
+
+<blockquote>
+  <p>In the Chinese context, using dynasties established by northern invaders as examples, the Chinese don’t really care about the exact “race” of their rulers as long as they follow the Chinese customs and preserve the Chinese civilization.</p>
+</blockquote>
+
+<p>This is not actually as clear-cut as we might think. There’s an argument to be made that Han elites’ distaste over the Turkic ancestry of the Li family which ruled the Tang was part of what led to a pattern of refusal to marry into the imperial line until well into the 9th century among Han noble households, among a number of forms of passive resistance – see Sanping Chen’s article ‘Succession Struggle and the Ethnic Identity of the Tang Imperial House’. Similarly, the Yuan, although retrospectively regarded as at least nominally legitimate, were not overtly welcomed given the whole revolt thing that brought them down, and early Ming rule was characterised in large part by a process of ‘de-Mongolification’ – for instance see Edward Farmer’s <em>Zhu Yuanzhang and Early Ming Legislation</em>.</p>
+
+<blockquote>
+  <p>The Machurians were hated not because they are northerners but because they forced their customs onto the rest of China as means of control.</p>
+</blockquote>
+
+<p>Or both.</p>
+
+<blockquote>
+  <p>But that hatred by the time of the late 1800s was nowhere near on intensity comparing to 1600s.</p>
+</blockquote>
+
+<p>That presumes, of course, that the basis of that enmity was the same in both cases, but that is not necessarily the case. The extent to which ethnic essentialism had been reified by the 1640s is questionable at best, and the nature of the anti-Qing agitations of the early period – up to and including the Zeng Jing case in 1727 – was rooted primarily, though not exclusively, in a sort of cultural chauvinism around the notion that Chinese customs were not simply more ‘natural’ to a Chinese context but indeed on some level inherently superior, and that the exercise of rule by those who did not follow those customs, and worse still the imposition of their own, ‘inferior’ customs, was fundamentally objectionable. A state-generated discourse of ethnic essentialism from the Qianlong reign onward would lead to the Taiping and Yunnanese revolts (among others, although the precise dynamics of anti-Manchuism in these two revolts are the best studied). This would later combine into a potent and dangerous mixture with the Western import of ‘race science’ which, in 1911, exploded into several localised outbursts of ethnic violence.</p>
+
+<blockquote>
+  <p>Anyways… My point is that, is viewing Chinese history through the western concept of race and racism even a valid starting point or foundation?</p>
+</blockquote>
+
+<p>I think what I’ve written above is enough of a Q.E.D. on its own, but to succinctly sum it all up, absolutely so, <em>especially</em> when we’re discussing periods from the 1880s onward when the western concept of race was actively and willingly imported into China by literate elites, and thereby informed their behaviour.</p>
+
+<h3 id="754-hobby-scuffles-week-of-august-29-2022-poll-submitted-on-2022-08-28-2300170800">754: <a href="https://old.reddit.com/r/HobbyDrama/comments/wzxiv6/hobby_scuffles_week_of_august_29_2022_poll/">[Hobby Scuffles] Week of August 29, 2022 (Poll)</a>, submitted on 2022-08-28 23:00:17+08:00.</h3>
+
+<p>—– <strong>754.1</strong> —–2022-08-29 08:23:46+08:00:</p>
+
+<p>I got very confused seeing vagueposts about this on Twitter so it’s helpful that there’s at least <em>one</em> summary somewhere!</p>
+
+<p>—– <strong>754.2</strong> —–2022-08-29 18:38:10+08:00:</p>
+
+<blockquote>
+  <p>But I cannot literally understand how many discipline could ever seriously make the claim that it just simply doesn’t use theories. Even in terms of simply studying historical happenstance, from a pure epistemological perspective, concepts of what evidence is relevant while what is irrelevant would involve theories?</p>
+</blockquote>
+
+<p>There’s a distinction, I would argue, between theory and methodology. A theory is essentially a prescriptive model derived from descriptive study – you look at X phenomenon, and from that you derive conclusions that will, if the theory holds, apply to all instances of X phenomenon. Historians <em>tend</em> not to take this approach, but they may nevertheless make use of consistent methodologies that inform the sorts of information analysed, and the methods used in doing so.</p>
+
+<p>—– <strong>754.3</strong> —–2022-08-29 19:24:03+08:00:</p>
+
+<blockquote>
+  <p>But there are absolutely theories of methodology. Certain types of events has proved to be amenable to certain types of analysis and should be best analyzed that way. Or certain types of evidence are particularly good for certain types of questions.</p>
+</blockquote>
+
+<p>Sure, but you’re not applying a theory to the events you’re studying, you’re applying a theory to your method of analysis, which is a meaningful layer of separation. Something like ‘glocalisation is a viable framework for analysing 19th century Christian movements’ does not mean you can take conclusions obtained by studying the Taiping and apply them wholesale to Mormonism, for instance. It means you will look at both phenomena through a lens in which Christianity as a global belief system comes to be reinvented in a locally-specific context, on their own individual terms.</p>
+
+<p>—– <strong>754.4</strong> —–2022-08-29 20:17:45+08:00:</p>
+
+<blockquote>
+  <p>Using the glocalisation example, presumably your theory has some set of local characteristics for Taiping that determines your conclusions there. There is implicitly a theory there - if another location that also had those same conditions existed, it would have behaved similarly. Perhaps something close but not the same across those conditions would be expected to have acted similarly but not the same.</p>
+</blockquote>
+
+<p>I mean if you say so, but from my point of view, it’s as simple as saying that this could <em>only</em> happen for the Taiping, because the historical field deals in contingencies. <em>No</em> other location will have those same conditions, and even a 99% similarity is still meaningfully different.</p>
+
+<blockquote>
+  <p>Ignoring that point, you’ve fully articulated a theory. No theory of economics or any largely empirical social science of which I’m aware would ever predict two different things like in your example to behave exactly the same. Instead, you get trends or relationships in almost the exact same way you described.</p>
+</blockquote>
+
+<p>But you’ve simply asserted that what I’m propounding is a theory. In what way is ‘you could use this method of analysis in these two cases’ a statement that we can derive predictable conclusions? The ‘trend’ or ‘relationship’ would derive solely from the fact that one chose to use that particular methodology. If I do not choose to use a glocalisation framework, then I will not be seeking – and therefore unlikely to find – patterns aligning with it.</p>
+
+<p>—– <strong>754.5</strong> —–2022-08-31 21:41:38+08:00:</p>
+
+<p>I suspect it’s to do with the fact Ehrman isn’t some overt antitheist in the way that a lot of modern internet ‘sceptics’ <em>want</em> him to be, he’s mainly just someone who really wants to promote good textual criticism, especially in his own field, and it only happens to be that a lot of hardcore fundamentalists prefer bad criticism.</p>
+
+<p>—– <strong>754.6</strong> —–2022-08-31 21:44:02+08:00:</p>
+
+<blockquote>
+  <p>He is Dirk Obbink, an Oxford Classics professor</p>
+</blockquote>
+
+<p>And, for a time, <em>also</em> an assistant professor at Columbia University, as in both at once, which is essentially unheard of.</p>
+
+<p>Well also, <em>former</em> Oxford Classics lecturer (the Professor title is a bit more exclusive at Oxford because everything is), as he was suspended in 2019.</p>
+
+<p>What’s really quite bewildering about the Obbink scandal is that I believe a lot of the early highly public reporting of it was in mid-2018, which is before I started an undergraduate degree at Oxford, and yet it is <em>still going on now</em>, a year after I graduated.</p>
+
+<p>—– <strong>754.7</strong> —–2022-09-01 14:56:27+08:00:</p>
+
+<p>Jesus mythicism is such a fascinating hill to die on, which I know firsthand because I used to buy into it myself. The question of whether Jesus existed is so fundamentally unremarkable it’s barely worth asking. The real question really, and the one that would prompt at least interesting discussion, is how much of Jesus’ life we can actually be certain of, <em>beyond</em> the simple fact of his existence.</p>
+
+<p>—– <strong>754.8</strong> —–2022-09-01 21:10:19+08:00:</p>
+
+<p>TW: very heavy stuff ahead relating to warcrimes and sexual assault</p>
+
+<p>So, this is very hot off the presses, but a TikTok has gained traction in the last 12 hours or so coming from Evan Kail, aka @pawnman, alleging that a customer gave him a photo album to sell taken by a relative in the US Navy who had witnessed the Nanjing Massacre (aka the ‘Rape of Nanjing’, a somewhat problematic term hence the scare quotes) from December 1937 to January 1938. For those not in the know, this was when the Japanese army, having captured the then-capital of China, killed at least 200,000 people and committed at least 20,000 counts of rape over a roughly six-week period, per postwar tribunals. This was an absolutely shocking atrocity even at the time, but its modern legacy is complicated both by a general atmosphere of warcrimes denial in Japan and by somewhat of a weaponisation of the event by the powers-that-be in China, the victims being effectively instrumentalised in support of modern nationalist narratives.</p>
+
+<p><em>Anyway</em>, Kail’s TikTok was clipped on Twitter <a href="https://twitter.com/thiccmatisse/status/1565190598939869187">here</a> and he also posted several photos from the album <a href="https://twitter.com/EvanKail/status/1565265493824622592">on his own Twitter</a>. According to the video he wanted to ensure it was sold to a museum, but that he had not bought it himself, but that he had also no plans of returning it to the owner without ensuring its sale, which all seemed a little sus, and some did note that surely the obvious thing to do would be to contact a museum directly.</p>
+
+<p>More pressingly, though, there’s a lot of suggestions that the album is quite likely to be a fake. Several tweets pointed out that, contrary to his claim that these photos were never-before-seen, at least some of the photos shown are actually already in the public domain, with a couple suggesting that in fact Photoshop was used to create some of the ones in the album:</p>
+
+<ul>
+  <li>https://twitter.com/dancow/status/1565271791408488448</li>
+  <li>https://twitter.com/Just_Stasia_/status/1565245150447558656</li>
+  <li>https://twitter.com/Monk_Wally_Honk/status/1565255378887122944</li>
+</ul>
+
+<p>Worse still, some were <em>not even from the period or place in question</em>:</p>
+
+<ul>
+  <li>https://twitter.com/dancow/status/1565287455355543554</li>
+  <li>https://twitter.com/shirui1988/status/1565274676405817344 (note: especially visibly gory)</li>
+</ul>
+
+<p>A general lack of wear was also noted:</p>
+
+<ul>
+  <li>https://twitter.com/Monk_Wally_Honk/status/1565257548961402880</li>
+</ul>
+
+<p>Another key point of interest was the identity of the alleged photographer, Leslie Jay Allen, who was a real person who served in the US Navy aboard USS <em>Augusta</em>. If he remained aboard Augusta, however, then Allen was not in Nanjing in December 1937, as <em>Augusta</em> was moored at Shanghai between 12 December and 6 January, before departing for the Philippines. Unless Allen took a completely unrecorded detour to Nanjing then he cannot have taken the photos himself. <em>Augusta</em> only visited Nanjing for a four-day period in November 193<em>9</em>, nearly two years after the massacres.</p>
+
+<ul>
+  <li>https://twitter.com/pararose38/status/1565286778889650176</li>
+</ul>
+
+<p>Probably the most measured response comes from @fakehistoryhunt, whose explanation of the discrepancies is the probably simple enough one that this was an album compiled in the 1930s from purchased photographs, even if it wasn’t taken by the person in question:</p>
+
+<ul>
+  <li>https://twitter.com/fakehistoryhunt/status/1565312676443611142</li>
+</ul>
+
+<p>But what that still leaves open is the question of whether we will therefore find any <em>new</em> photos, and as of yet that remains very much to be seen.</p>
+
+<hr />
+
+<p>EDIT(orialising):</p>
+
+<p>My own view is that there are essentially <del>three</del> four possible scenarios:</p>
+
+<ol>
+  <li>
+    <p>The Long Shot: That is, the person in question did actually take some photographs of the Nanjing Massacre as it took place that are not known from elsewhere. This I call the ‘Long Shot’ but to be frank given that the person in question should not have been at the scene during the events, and that most of the album would still have been compiled from purchased photos, I am deeply sceptical.</p>
+  </li>
+  <li>
+    <p>The Extra-Bad Faith Scenario: It’s a full-on hoax by either the TikToker or his client. The album is either partially or completely fake between the covers, and either this was an original album where modern reproductions were inserted, or it is entirely constituted from other sources; either way it contains nothing new.</p>
+  </li>
+  <li>
+    <p>The Bad Faith Scenario: It’s a more limited hoax in that while it is a genuine 1930s album, it contains nothing not already known, but the TikToker is intentionally attempting to disguise it as revelatory for clout.</p>
+  </li>
+  <li>
+    <p>The Good Faith Scenario: The album is genuine insofar as its original owner filled it with photos that he <em>purchased</em> rather than took himself, but for that reason almost certainly does not contain anything not already known, and the TikToker has been over-enthusiasitc.</p>
+  </li>
+</ol>
+
+<hr />
+
+<p>UPDATE:</p>
+
+<p>This thread by @fakehistoryhunt probably is the best summary at present for the good faith scenario: https://twitter.com/fakehistoryhunt/status/1565357318698635266</p>
+
+<p>—– <strong>754.9</strong> —–2022-09-01 21:25:50+08:00:</p>
+
+<p>Well, for a particularly understated definition of problematic…</p>
+
+<p>—– <strong>754.10</strong> —–2022-09-02 00:56:59+08:00:</p>
+
+<p>For a more in-depth discussion I’ll point to my friend /u/hellcatfighter’s answer at r/AskHistorians on why scholars seem to have avoided the term of late: https://www.reddit.com/r/AskHistorians/comments/l4d1as/why_do_more_contemporary_sources_and/</p>
+
+<p>But in brief, it’s not that you can’t use it. The phrase ‘rape of Nanking’ (albeit <em>without</em> an initial capital letter) is actually pretty contemporary to the event in question, and ‘Nanjing massacre’ arguably fails to fully cover the nature of the atrocity. However, the use of ‘rape’ implicitly robs China and the Chinese of agency in the context of the events in question, which while not ‘untrue’ in some objective sense, can still be a bit problematic. Arguably the main reason, though, is simply that it is very associated with the book of that title by Iris Chang, which, although extremely significant in raising awareness of the event, has some issues with framing and sourcing that make it unfortunately somewhat shoddy scholarship in parts.</p>
+
+<p>—– <strong>754.11</strong> —–2022-09-02 20:56:06+08:00:</p>
+
+<p>I mean he didn’t actually include the Nanjing photos in the TikTok though, he shared them on his Twitter. So you should really hate his Twitter and not his TikTok.</p>
+
+<p>—– <strong>754.12</strong> —–2022-09-03 16:34:14+08:00:</p>
+
+<p>A small update to the <a href="https://reddit.com/r/HobbyDrama/comments/wcqp91/hobby_scuffles_week_of_august_1_2022/ij1tsb6/?context=999">Hololive Dan Dan Hayaku Naru music video drama</a> from last month. A <a href="https://www.youtube.com/watch?v=RRq4-uktHiI">new version</a> of the video has been uploaded, with both the Hindenburg and Challenger references removed (as well as some seemingly unprompted changes to a later sequence in a forest only involving other Hololive members), thereby proving that both arguments were right in the end. Or something.</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-09-01</time>
+        <a href="https://nodebe4.github.io/opinion/2022-09-01/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-08-29~2022-09-04的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-08-28</time>
+        <a href="https://nodebe4.github.io/opinion/2022-08-28/theoryofdoom/">
+          theoryofdoom在2022-08-22~2022-08-28的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-08-27</time>
+        <a href="https://nodebe4.github.io/opinion/2022-08-27/Spinkcat/">
+          Spinkcat在2022-08-22~2022-08-28的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-08-26</time>
+        <a href="https://nodebe4.github.io/opinion/2022-08-26/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-08-22~2022-08-28的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-08-27/wangdan1989/">
+            前一篇：Twitter @王丹: 2022-08-22~2022-08-28
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-08-28/HeQinglian/">
+            後一篇：Twitter @He Qinglian: 2022-08-22~2022-08-28
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-08-27/wangdan1989/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-08-28/HeQinglian/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-08-28/theoryofdoom/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-08-27/Spinkcat/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-08-27/wangdan1989/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-08-28/HeQinglian/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-08-28/theoryofdoom/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-08-27/Spinkcat/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

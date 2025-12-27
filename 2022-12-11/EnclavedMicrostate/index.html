@@ -1,0 +1,2312 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>EnclavedMicrostate在2022-12-05~2022-12-11的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="EnclavedMicrostate在2022-12-05~2022-12-11的言论" />
+    <meta property="twitter:title" content="EnclavedMicrostate在2022-12-05~2022-12-11的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FAskHistorians%2Fcomments%2Fzcyte1%2Fhow_wellequipped_was_the_qing_army_during_the%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/AskHistorians/comments/zcyte1/how_wellequipped_was_the_qing_army_during_the/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/AskHistorians/comments/zcyte1/how_wellequipped_was_the_qing_army_during_the/&text=EnclavedMicrostate在2022-12-05~2022-12-11的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/AskHistorians/comments/zcyte1/how_wellequipped_was_the_qing_army_during_the/&title=EnclavedMicrostate在2022-12-05~2022-12-11的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/AskHistorians/comments/zcyte1/how_wellequipped_was_the_qing_army_during_the/&title=EnclavedMicrostate在2022-12-05~2022-12-11的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=EnclavedMicrostate在2022-12-05~2022-12-11的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/AskHistorians/comments/zcyte1/how_wellequipped_was_the_qing_army_during_the/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/AskHistorians/comments/zcyte1/how_wellequipped_was_the_qing_army_during_the/&title=EnclavedMicrostate在2022-12-05~2022-12-11的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=EnclavedMicrostate在2022-12-05~2022-12-11的言论&url=https://old.reddit.com/r/AskHistorians/comments/zcyte1/how_wellequipped_was_the_qing_army_during_the/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>EnclavedMicrostate在2022-12-05~2022-12-11的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-12-11
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: EnclavedMicrostate</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/AskHistorians/comments/zcyte1/how_wellequipped_was_the_qing_army_during_the/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#962-how-well-equipped-was-the-qing-army-during-the-first-sino-japanese-war-submitted-on-2022-12-05-1409020800" id="markdown-toc-962-how-well-equipped-was-the-qing-army-during-the-first-sino-japanese-war-submitted-on-2022-12-05-1409020800">962: How well-equipped was the Qing Army during the First Sino-Japanese War?, submitted on 2022-12-05 14:09:02+08:00.</a></li>
+  <li><a href="#963-short-answers-to-simple-questions--december-07-2022-submitted-on-2022-12-08-0100140800" id="markdown-toc-963-short-answers-to-simple-questions--december-07-2022-submitted-on-2022-12-08-0100140800">963: Short Answers to Simple Questions | December 07, 2022, submitted on 2022-12-08 01:00:14+08:00.</a></li>
+  <li><a href="#964-new-overflow-issue-losing-15m-loyalists-per-month-from-having-high-legitimacy-submitted-on-2022-12-08-0702170800" id="markdown-toc-964-new-overflow-issue-losing-15m-loyalists-per-month-from-having-high-legitimacy-submitted-on-2022-12-08-0702170800">964: New overflow issue? Losing 1.5M loyalists per month from having <em>high</em> Legitimacy, submitted on 2022-12-08 07:02:17+08:00.</a></li>
+  <li><a href="#965-what-single-piece-of-land-has-been-under-control-ruled-occupied-by-the-most-countries-submitted-on-2022-12-08-0829490800" id="markdown-toc-965-what-single-piece-of-land-has-been-under-control-ruled-occupied-by-the-most-countries-submitted-on-2022-12-08-0829490800">965: What single piece of land has been under control, ruled, occupied by the most countries?, submitted on 2022-12-08 08:29:49+08:00.</a></li>
+  <li><a href="#966-thursday-reading--recommendations--december-08-2022-submitted-on-2022-12-08-2200100800" id="markdown-toc-966-thursday-reading--recommendations--december-08-2022-submitted-on-2022-12-08-2200100800">966: Thursday Reading &amp; Recommendations | December 08, 2022, submitted on 2022-12-08 22:00:10+08:00.</a></li>
+  <li><a href="#967-free-for-all-friday-09-december-2022-submitted-on-2022-12-09-2000110800" id="markdown-toc-967-free-for-all-friday-09-december-2022-submitted-on-2022-12-09-2000110800">967: Free for All Friday, 09 December, 2022, submitted on 2022-12-09 20:00:11+08:00.</a></li>
+  <li><a href="#968-how-to-say-a-present-for-you-submitted-on-2022-12-10-0606490800" id="markdown-toc-968-how-to-say-a-present-for-you-submitted-on-2022-12-10-0606490800">968: How to say “a present for you”?, submitted on 2022-12-10 06:06:49+08:00.</a></li>
+  <li><a href="#969-mixed-race-or-anti-miscegenation-throughout-history-submitted-on-2022-12-10-1335300800" id="markdown-toc-969-mixed-race-or-anti-miscegenation-throughout-history-submitted-on-2022-12-10-1335300800">969: Mixed race or anti miscegenation throughout history?, submitted on 2022-12-10 13:35:30+08:00.</a></li>
+  <li><a href="#970-what-is-even-the-point-of-clicking-this-button-if-i-will-not-even-get-claims-on-alsace-lorraine-and-schleswig-holstein-submitted-on-2022-12-10-2056070800" id="markdown-toc-970-what-is-even-the-point-of-clicking-this-button-if-i-will-not-even-get-claims-on-alsace-lorraine-and-schleswig-holstein-submitted-on-2022-12-10-2056070800">970: What is even the point of clicking this button if I will not even get claims on Alsace-Lorraine and Schleswig-Holstein?, submitted on 2022-12-10 20:56:07+08:00.</a></li>
+  <li><a href="#971-did-any-early-modern-european-states-adopt-or-contemplate-constructing-chinese-style-walled-cities-submitted-on-2022-12-11-0634490800" id="markdown-toc-971-did-any-early-modern-european-states-adopt-or-contemplate-constructing-chinese-style-walled-cities-submitted-on-2022-12-11-0634490800">971: Did any Early Modern European states adopt or contemplate constructing Chinese-style walled cities?, submitted on 2022-12-11 06:34:49+08:00.</a></li>
+  <li><a href="#972-why-was-the-authoritative-version-of-the-1689-sino-russian-treaty-of-nerchinsk-written-in-latin-russia-is-a-slavic-eastern-european-culture-while-latin-was-the-language-of-western-european-catholic-and-protestant-cultures-isnt-it-wouldnt-the-russians-have-used-church-slavonic-instead-submitted-on-2022-12-11-2055350800" id="markdown-toc-972-why-was-the-authoritative-version-of-the-1689-sino-russian-treaty-of-nerchinsk-written-in-latin-russia-is-a-slavic-eastern-european-culture-while-latin-was-the-language-of-western-european-catholic-and-protestant-cultures-isnt-it-wouldnt-the-russians-have-used-church-slavonic-instead-submitted-on-2022-12-11-2055350800">972: Why was the authoritative version of the 1689 Sino-Russian Treaty of Nerchinsk written in Latin? Russia is a Slavic Eastern European culture while Latin was the language of Western European Catholic and Protestant cultures, isn’t it? Wouldn’t the Russians have used Church Slavonic instead?, submitted on 2022-12-11 20:55:35+08:00.</a></li>
+  <li><a href="#sources-and-further-reading" id="markdown-toc-sources-and-further-reading">Sources and Further Reading:</a></li>
+  <li><a href="#973-hobby-scuffles-week-of-december-12-2022-submitted-on-2022-12-11-2300150800" id="markdown-toc-973-hobby-scuffles-week-of-december-12-2022-submitted-on-2022-12-11-2300150800">973: [Hobby Scuffles] Week of December 12, 2022, submitted on 2022-12-11 23:00:15+08:00.</a></li>
+</ul>
+
+<h3 id="962-how-well-equipped-was-the-qing-army-during-the-first-sino-japanese-war-submitted-on-2022-12-05-1409020800">962: <a href="https://old.reddit.com/r/AskHistorians/comments/zcyte1/how_wellequipped_was_the_qing_army_during_the/">How well-equipped was the Qing Army during the First Sino-Japanese War?</a>, submitted on 2022-12-05 14:09:02+08:00.</h3>
+
+<p>—– <strong>962.1</strong> —–2022-12-07 11:06:53+08:00:</p>
+
+<p>Before getting into the meat of the question (which, unfortunately, is basically scraps on the bone rather than a nice juicy steak), it seems pertinent to do a bit of historiographical discussion, not least because I have actually met and spoken with Allen Fung about his article and so can give a bit of extra context.</p>
+
+<p>I don’t know who Esposito is citing, but I would hazard a guess that it might be S.C.M. Paine’s 2002 book on the First Sino-Japanese War, or he is otherwise drawing on similar sources, as Paine’s assessment of the Qing army is similarly unflattering. To give a few block quotes:</p>
+
+<blockquote>
+  <p>A foreign observer described the Chinese troops being sent to Korea: “In front marched their leader with fixed bayonet and a very conscious sense of his own importance. Next came a heavily laden Pekingese small cart, going faster than I ever succeeded in getting a carter to drive me; on the back of this there were slung, without any protection whatever, perhaps three dozen mud-bespattered and rusty old-fashioned rifles. This cart was followed by an open farmer’s wagon laden with cases and kegs of gunpowder, atop of which perched a new-enlisted rustic complacently nursing his water-pipe. These are fair specimens of the ‘brave’ procession.”</p>
+</blockquote>
+
+<blockquote>
+  <p>In 1894 Lord Curzon wrote, “Of discipline in the highest sense the Chinese have none; and no arms in the world…placed in untrained hands, can make them follow leaders who are nincompoops, or resist an enemy whose tactics…they do not understand. They have no idea of marching or skirmishing, or of bayonet or musketry practice. The only recruiting test is the lifting to the full stretch of the arms above the head of an iron bar, from the ends of which are hung two stones, weighing 9 1/2 stone the pair. Their drill is a sort of gymnastic performance, and their ordinary weapons are tufted lances, spears, battle-axes, tridents, and bows and arrows, with an ample accompaniment of banners and gongs. Rifles of obsolete pattern, bought second-hand or third-hand in Europe, are dealt out to those who are on active service. These and their ammunition are mostly worthless from age. The weapon of the majority is, however, an ancient matchlock, of which the most familiar pattern is the jingal, which requires two men to fire it. All these draw backs or delinquencies, however, shrink into nothingness when compared with the crowning handicap of the native officer.”</p>
+</blockquote>
+
+<blockquote>
+  <p>According to the Intelligence Division of the British Government, despite the importation of huge quantities of firearms, “the majority of the Chinese army is to this day armed with the now almost prehistoric matchlock.” The Japanese general staff estimated that only three-fifths of the Chinese army was armed with some kind of rifle. The rest had only a pike, spear, or sword.</p>
+</blockquote>
+
+<p>Paine attributes the continued prevalence of cold arms and especially of archery to the Qing preservation of the ‘Manchu Way’, but I’m not convinced entirely: she comments that most archers were Banner troops, which is reasonable, but it makes the discussion irrelevant to the First Sino-Japanese War, which was primarily fought by Han troops of the Huai Army. And it is to the Huai Army that we really need to turn specifically.</p>
+
+<p>Before we do, though, we need to square the above pessimism with the more flattering portrait in Fung’s article, and here’s where a bit of context helps explain it: for one, the article in question is an updated undergraduate thesis, so we ought not to expect extreme rigour, but more importantly, it was written in the mid-90s, during the early rumblings of what would become the Chinese ‘economic miracle’, at a time when there was some degree of reassessment of Self-Strengthening as a point of comparison. Would modern China be able to sustain an economic modernisation effort, or would the results be similarly ephemeral? Fung was aiming to demonstrate that despite the failure against Japan, Self-Strengthening had been in large part successful in its originally intended aims, but that there were still a few deficiencies; the unspoken implication was that contemporary China’s resurgence similarly had the potential to be a sustained one. Whether he would still be making this argument now is another matter, but the main thing is that the situation at the time encouraged a more optimistic portrait of Qing military capabilities.</p>
+
+<p>Unfortunately, I can’t say I necessarily have the primary source base to really go ahead and radically reassess things, but I will give offer a somewhat conjectural suggestion that would reconcile these two extreme positions. The Huai Army which marched into Korea was, in short, a highly variegated force, with a core of highly modernised, rifle-armed troops augmented by a force of poorly-equipped levies. In peacetime, the Huai Army, which was effectively a paramilitary force under Li Hongzhang rather than a direct component of the Qing military, would have been as well equipped as its officers could afford, but an emergency call-up in wartime would lead to poorer-equipped troops being brought in to swell the ranks. Hence the early battles, in which the cream of the Huai Army fought, would have seen Qing forces armed predominantly with rifles, whereas following losses at Pyongyang the Qing would be falling back on an ever-increasing proportion of second-line formations with much poorer standards.</p>
+
+<p>In effect, we cannot speak of a singular ‘Qing army’ as such by this period. The Banners, the Green Standards, and the private militia armies constituted distinct and self-contained military organisations that were obviously not hermetically sealed, but which were nevertheless under distinct administrations, with distinct budgets. And even then there would be internal variation: metropolitan Banner units would generally be better equipped than provincial ones; the same militia army might have wildly varying standards from one unit to the next. With that in mind, the relatively uneven nature of Qing equipment is really not a huge surprise, and neither is the highly varied reporting on the subject.</p>
+
+<h3 id="963-short-answers-to-simple-questions--december-07-2022-submitted-on-2022-12-08-0100140800">963: <a href="https://old.reddit.com/r/AskHistorians/comments/zf6k4g/short_answers_to_simple_questions_december_07_2022/">Short Answers to Simple Questions | December 07, 2022</a>, submitted on 2022-12-08 01:00:14+08:00.</h3>
+
+<p>—– <strong>963.1</strong> —–2023-01-05 13:00:44+08:00:</p>
+
+<p>Romulus Hillsborough is unfortunately an apologist for 20th century Japanese militarism and his scholarship is highly variable in quality, from very bad to aggressively average – his older work is heavily sourced from Japanese historical novels rather than contemporary sources. Until Nyri Bakkalian’s PhD thesis was unembargoed recently there was no good single narrative history of the Boshin War in English (if you can read Japanese there is an 1800-page epic by Ōyama Kashiwa), and even then Bakkalian is understandably concentrated on the war’s second phase involving the Northern Alliance, but there’s some good options for the broader Bakumatsu and Meiji Restoration periods which piece together into a pretty comprehensive overview:</p>
+
+<ul>
+  <li>Conrad Totman, <em>The Collapse of the Tokugawa Bakufu, 1862-68</em> (1980)</li>
+  <li>Albert Craig, <em>Choshu in the Meiji Restoration</em> (1961)</li>
+  <li>Marius Jansen, <em>Sakamoto Ryoma and the Meiji Restoration</em> (1961)</li>
+  <li>Mark Ravina, <em>The Last Samurai: The Life and Battles of Saigo Takamori</em> (2004)</li>
+  <li>Nyri Bakkalian, <a href="http://d-scholarship.pitt.edu/32140/1/The%20Sparrow%27s%20Dream-%20ETD%20Format.pdf"><em>The Sparrow’s Dream: The Meiji Revolution and Local Self-Assertion in Northern Japan</em></a> (PhD Thesis, 2017)</li>
+  <li>See also Bakkalian’s master’s thesis, <a href="http://d-scholarship.pitt.edu/7170/8/NABMAThesis_updated%20%281%29.pdf"><em>Lone Star of the North: The Northern Alliance Revisited</em></a></li>
+</ul>
+
+<p>The above five cover five different regional perspectives on the period, with Totman focussing on the Tokugawa Shogunate, Craig on Chōshū (the primary ‘restorationist’ domain), Jansen on Tosa (a latter ally of Chōshū), Ravina on Satsuma (which flipped from opposing to allying with Chōshū over the course of the 1860s), and Bakkalian on the domains of northern Japan which coalesced into the anti-restorationist Northern Alliance in 1868.</p>
+
+<p>Some other recommendations I have seen but not pursued myself are:</p>
+
+<ul>
+  <li>M. William Steele, <em>Alternative Narratives in Modern Japanese History</em> (2003)</li>
+  <li>Mark Ravina, <em>To Stand with the Nations of the World: Japan’s Meiji Restoration in World History</em> (2018)</li>
+  <li>Michael Wert, <em>Meiji Restoration Losers: Memory and Tokugawa Supporters in Modern Japan</em> (2013)</li>
+</ul>
+
+<p>Note that the Ravina book above places significant emphasis on the Ezo ‘Republic’ and the issues with its characterisation as such. You may also find some chapters in the edited volume <em>The Meiji Restoration: Japan as a Global Nation</em> to be of interest.</p>
+
+<h3 id="964-new-overflow-issue-losing-15m-loyalists-per-month-from-having-high-legitimacy-submitted-on-2022-12-08-0702170800">964: <a href="https://old.reddit.com/r/victoria3/comments/zfh55t/new_overflow_issue_losing_15m_loyalists_per_month/">New overflow issue? Losing 1.5M loyalists per month from having <em>high</em> Legitimacy</a>, submitted on 2022-12-08 07:02:17+08:00.</h3>
+
+<p>—– <strong>964.1</strong> —–2022-12-08 07:02:52+08:00:</p>
+
+<p>R5: Not entirely sure what’s going on, but despite high legitimacy I’ve somehow got a -1.5m loyalists per month issue despite high legitimacy. I threw in the Armed Forces and reversed the loss while remaining in that high legitimacy bracket, but I have no idea what caused the loss during the Unions+Rural Folk only phase.</p>
+
+<p>—– <strong>964.2</strong> —–2022-12-08 07:07:57+08:00:</p>
+
+<p>I did not; having done that, the issue did persist.</p>
+
+<p>—– <strong>964.3</strong> —–2022-12-08 07:26:47+08:00:</p>
+
+<p>So, I did do that and added in the Armed Forces, which kept me at Legitimate and <em>initially</em> gave me +220k per month, but then after I reloaded the save where I did that, I was back at -1.5m per month. The only solution I found was to just not be at Legitimate anymore, by dropping one of the two IG I already had.</p>
+
+<p>To clarify, the Legitimacy drop indicated was a <em>monthly</em> drop, not a one-off from removing IGs outside election season.</p>
+
+<p>—– <strong>964.4</strong> —–2022-12-08 08:40:32+08:00:</p>
+
+<p>Cheers. It was <em>very</em> distressing when I went from having roughly even radicals and loyalists to suddenly losing 1.5m a month!</p>
+
+<h3 id="965-what-single-piece-of-land-has-been-under-control-ruled-occupied-by-the-most-countries-submitted-on-2022-12-08-0829490800">965: <a href="https://old.reddit.com/r/AskHistorians/comments/zfjcom/what_single_piece_of_land_has_been_under_control/">What single piece of land has been under control, ruled, occupied by the most countries?</a>, submitted on 2022-12-08 08:29:49+08:00.</h3>
+
+<p>—– <strong>965.1</strong> —–2022-12-08 13:07:24+08:00:</p>
+
+<p>This submission has been removed because it violates the <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions">rule on poll-type questions</a>. These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the “most”, the “worst”, “unknown”, or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult <a href="https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/">this Roundtable discussion</a>.</p>
+
+<p>For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.</p>
+
+<h3 id="966-thursday-reading--recommendations--december-08-2022-submitted-on-2022-12-08-2200100800">966: <a href="https://old.reddit.com/r/AskHistorians/comments/zfzqbv/thursday_reading_recommendations_december_08_2022/">Thursday Reading &amp; Recommendations | December 08, 2022</a>, submitted on 2022-12-08 22:00:10+08:00.</h3>
+
+<p>—– <strong>966.1</strong> —–2022-12-09 08:29:32+08:00:</p>
+
+<p>This is probably not the answer you’re after, especially as someone who has only encountered the latter via reviews, but to put it a certain way, both are quite old books. <em>Search for Modern China</em> was first written in 1990 and its latest edition came out in 2012, so it’s not necessarily the most up-to-date survey. <em>Making China Modern</em> is much more recent, being from 2019, but it hews to a very traditionalist, Sinocentric historiography while essentially glossing over decades of revisionist Qing scholarship and its implications for post-Qing history. <a href="https://jimmillward.medium.com/we-need-a-new-approach-to-teaching-modern-chinese-history-we-have-lazily-repeated-false-d24983bd7ef2">James Millward’s review of the latter</a> is, I think, well worth reading.</p>
+
+<p>—– <strong>966.2</strong> —–2022-12-09 23:06:02+08:00:</p>
+
+<p>Arguably there isn’t really a good survey as such – any book that covers ‘modern China’ without recognising the modernness of that construct falls into the trap of treating the Ming-Qing-ROC-PRC as a continuous entity, where bits and pieces matter only if they fall within their varying imperial scopes. In my view about the best work from a historiographical and theoretical perspective is Pamela Crossley’s <em>The Wobbling Pivot: China Since 1800</em>, but Crossley’s infamously abstruse writing style is sometimes on full display in this one. If you’re prepared to work through some occasionally dense prose and a certain lack of explicit narrative signposting, that’s probably the best choice.</p>
+
+<p>—– <strong>966.3</strong> —–2022-12-10 03:25:16+08:00:</p>
+
+<p>The problem is that the contextualising information is going to tell you that the 700 pages you’ve read may have some good facts in them, but that they are arranged in a way that essentially makes those 700 pages <em>severely</em> misleading. But are you going to remember the nice neat 700-page narrative better, or the disconnected set of accessible blog posts covering individual bits and pieces? If you <em>do</em> insist on a primer, <em>Making China Modern</em> is not the worst, but I do <em>urge</em> you to at least also read <em>The Wobbling Pivot</em> alongside.</p>
+
+<h3 id="967-free-for-all-friday-09-december-2022-submitted-on-2022-12-09-2000110800">967: <a href="https://old.reddit.com/r/badhistory/comments/zgvg06/free_for_all_friday_09_december_2022/">Free for All Friday, 09 December, 2022</a>, submitted on 2022-12-09 20:00:11+08:00.</h3>
+
+<p>—– <strong>967.1</strong> —–2022-12-10 08:53:34+08:00:</p>
+
+<p>In regards to the Venetian beads, apparently it <a href="https://www.reddit.com/r/AskHistorians/comments/rtjx83/some_historians_suggest_that_the_chinese_mayve/hqwpmrl/?context=999">may be more complicated than that</a>. There is a broadly plausible alternative carbon dating putting the beads in the 17th century, and moreover bead specialists have argued that these are actually pieces from 17th century Rouen, not 15th century Venice. So the jury seems to be out on whether these are pre- or post-Columbian finds.</p>
+
+<h3 id="968-how-to-say-a-present-for-you-submitted-on-2022-12-10-0606490800">968: <a href="https://old.reddit.com/r/ChineseTranslation/comments/zha7zn/how_to_say_a_present_for_you/">How to say “a present for you”?</a>, submitted on 2022-12-10 06:06:49+08:00.</h3>
+
+<p>—– <strong>968.1</strong> —–2022-12-10 07:59:32+08:00:</p>
+
+<p>你给礼物 would be ‘you give a present’ in the imperative form, which is probably not what you want! My recommendation would be 给你的礼物, which in literal terms would be ‘a present that is given to you’, but I’m not sure how idiomatic that is in Mandarin (my primary Sinitic language is Cantonese).</p>
+
+<h3 id="969-mixed-race-or-anti-miscegenation-throughout-history-submitted-on-2022-12-10-1335300800">969: <a href="https://old.reddit.com/r/AskHistorians/comments/zhk3s9/mixed_race_or_anti_miscegenation_throughout/">Mixed race or anti miscegenation throughout history?</a>, submitted on 2022-12-10 13:35:30+08:00.</h3>
+
+<p>—– <strong>969.1</strong> —–2022-12-10 19:37:49+08:00:</p>
+
+<p>I mean, it’s your question – do you have a period of interest?</p>
+
+<p>—– <strong>969.2</strong> —–2022-12-10 19:55:28+08:00:</p>
+
+<p>That would probably be an acceptable timeframe, assuming also that you’re implicitly focussed on Europe, but based on what you included in your post text, what do you think about this as a phrasing:</p>
+
+<blockquote>
+  <p>Friedrich Nietzsche fervently opposed race-mixing in his writings, but why, and in what context? How had European views on race-mixing developed since the Renaissance?</p>
+</blockquote>
+
+<p>Admittedly it does put the focus a bit on Nietzsche specifically, but seeing as you also seem to have a specific interest, I assumed you might be amenable to that framing.</p>
+
+<h3 id="970-what-is-even-the-point-of-clicking-this-button-if-i-will-not-even-get-claims-on-alsace-lorraine-and-schleswig-holstein-submitted-on-2022-12-10-2056070800">970: <a href="https://old.reddit.com/r/victoria3/comments/zhrwkj/what_is_even_the_point_of_clicking_this_button_if/">What is even the point of clicking this button if I will not even get claims on Alsace-Lorraine and Schleswig-Holstein?</a>, submitted on 2022-12-10 20:56:07+08:00.</h3>
+
+<p>—– <strong>970.1</strong> —–2022-12-11 03:46:15+08:00:</p>
+
+<p>You lose Hungarian as a primary culture after forming Germany, but seeing as accepted and primary cultures are effectively indistinguishable (and given that Hungarian doesn’t really give you synergy benefits as a primary culture that you wouldn’t already gain from South German), it’s not a big deal.</p>
+
+<h3 id="971-did-any-early-modern-european-states-adopt-or-contemplate-constructing-chinese-style-walled-cities-submitted-on-2022-12-11-0634490800">971: <a href="https://old.reddit.com/r/WarCollege/comments/zi5tmo/did_any_early_modern_european_states_adopt_or/">Did any Early Modern European states adopt or contemplate constructing Chinese-style walled cities?</a>, submitted on 2022-12-11 06:34:49+08:00.</h3>
+
+<p>—– <strong>971.1</strong> —–2022-12-12 03:35:14+08:00:</p>
+
+<p>Generally no. I believe that the Great Wall has some lower ports in the parapet that might be used to drop small (<em>very</em> small) bombs, but examples such as <a href="https://upload.wikimedia.org/wikipedia/commons/e/e9/YiFeng_Gate_Nanjing.jpg">this part of the Nanjing walls</a> show pretty clearly that while there are some ports that might be used for small arms, there’s nothing for directly threatening the base of the wall.</p>
+
+<h3 id="972-why-was-the-authoritative-version-of-the-1689-sino-russian-treaty-of-nerchinsk-written-in-latin-russia-is-a-slavic-eastern-european-culture-while-latin-was-the-language-of-western-european-catholic-and-protestant-cultures-isnt-it-wouldnt-the-russians-have-used-church-slavonic-instead-submitted-on-2022-12-11-2055350800">972: <a href="https://old.reddit.com/r/AskHistorians/comments/ziqtwz/why_was_the_authoritative_version_of_the_1689/">Why was the authoritative version of the 1689 Sino-Russian Treaty of Nerchinsk written in Latin? Russia is a Slavic Eastern European culture while Latin was the language of Western European Catholic and Protestant cultures, isn’t it? Wouldn’t the Russians have used Church Slavonic instead?</a>, submitted on 2022-12-11 20:55:35+08:00.</h3>
+
+<p>—– <strong>972.1</strong> —–2022-12-12 08:31:43+08:00:</p>
+
+<p>The circumstances of the negotiation of the Treaty of Nerchinsk are fascinating, and the fact that the primary language was indeed Latin is worth exploring. Now, there is an answer here by /u/SalTez, but I have issues with some of their framing, so take this as a companion piece.</p>
+
+<p>If we accept that Latin did in fact serve as an intermediary language due to fluency on both sides, then the question of ‘why Latin?’ entails an implicit question in the negative: why not Mongolian? Both the Qing and Muscovy-Russia had expanded into Inner Asia in part off the back of alliances with Mongolic and Turkic petty rulers, and by 1689 both sides would have had plenty of fluent Mongolian speakers and Mongolian-writing clerical staff. When you bear that in mind, Latin again seems like the less intuitive option. The reality is not that Latin was convenient, but that Latin was useful specifically to the Jesuits, who had secured the trust of the Qing court. The Jesuits firmly asserted that the Russians’ Mongolian translators were incompetent, and consistently protested against any attempt by the Russians to circumvent them by sending communications in Mongolian. While this could not <em>prevent</em> these apparently illicit messages from being sent, the court allowed itself to be swayed by the Jesuits and denounced the attempt to create Mongolian-language back-channels during the negotiations. Keeping all communications in Latin allowed the Jesuits to monopolise the process, something the Qing court was happy to indulge.</p>
+
+<p>This is not so much a causal factor as a symbolic point, but it is worth also considering what the function of the Treaty of Nerchinsk was. You see, the Treaty of Nerchinsk was not simply the settling of a border agreement in outer Manchuria, though it certainly was part of it. In an implicit sense, it entailed the partitioning of Inner Asia into spheres of influence: one Russian, and one Manchu. Yet the people within the Qing part of said partition, the Mongolians, are absent from the text of the treaty, both in the sense of its substance and in terms of the language it was written in. Had the negotiators on the Qing side been Mongolian, how likely would they have been to sign away their own sovereignty by implicitly accepting that it was the Qing who determined if they were under Manchu suzerainty? The Jesuits, on the other hand, would have been direct representatives of the imperial centre, with no particular attachments to the peoples of its Inner Asian frontier. While it was the Jesuits themselves who insisted on Latin, rather than the Qing court, in doing so they still helped to reinforce the status of the Mongolians and Mongolia as what Perdue calls the ‘excluded middle’ in the treaty.</p>
+
+<p>What I take some umbrage with is the notion that a translation into Manchu was somehow unusual. Firstly, Manchu was still the empire’s prestige language and retained that status – if in an increasingly shared role with literary Chinese – down to the overthrow of its ruling house in 1912. By 1689 the Qing were barely half a century post-conquest, and they had also just put down a major Han Chinese revolt (the Three Feudatories uprising) at the start of the decade; this was not the sort of environment in which an air of conciliation towards Han Chinese conservatives was really in the cards. Moreover, at this point, frontier affairs in Inner Asia were the exclusive purview of the Banners, which did include the so-called ‘Martial Han’, but which were in the main part the organising force for the empire’s Manchu elites. The Kangxi Emperor could not give less of a toss about the Han Chinese bureaucracy, because affairs in Inner Asia were not under their jurisdiction: frontier matters were <em>Manchu</em> matters.</p>
+
+<h3 id="sources-and-further-reading">Sources and Further Reading:</h3>
+
+<ul>
+  <li>
+    <p>Peter C. Perdue, <em>China Marches West: The Qing Conquest of Inner Eurasia</em> (2005)</p>
+  </li>
+  <li>
+    <p>Peter C. Perdue, ‘Boundaries and Trade in the Early Modern World: Negotiations at Nerchinsk and Beijing’, <em>Eighteenth-Century Studies</em> 43:3 (2010)</p>
+  </li>
+</ul>
+
+<p>—– <strong>972.2</strong> —–2022-12-13 03:51:20+08:00:</p>
+
+<p>Unfortunately I’m not particularly tuned in to Manchu, but there are some good resources out there. The Manchu studies community is small but relatively well organised digitally, and there’s a lot of open-access material via the <a href="https://www.manchustudiesgroup.org/">Manchu Studies Group</a>, including a journal, <a href="https://www.saksaha.org/">Saksaha</a>, although the latter is more for Qing and Manchu history than for literature (though there is some). As for books, unfortunately I don’t know of any, at least any from the last half century, that are about Manchu literature as such – most if not all are learning resources, dictionaries, and grammars.</p>
+
+<h3 id="973-hobby-scuffles-week-of-december-12-2022-submitted-on-2022-12-11-2300150800">973: <a href="https://old.reddit.com/r/HobbyDrama/comments/zivbwg/hobby_scuffles_week_of_december_12_2022/">[Hobby Scuffles] Week of December 12, 2022</a>, submitted on 2022-12-11 23:00:15+08:00.</h3>
+
+<p>—– <strong>973.1</strong> —–2022-12-18 07:43:00+08:00:</p>
+
+<p>I’m always surprised how long writeups can still get comments for. My Mikado one seems to have attracted new comments for about two weeks as well; the VTuber one had comments for a couple months.</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-12-16</time>
+        <a href="https://nodebe4.github.io/opinion/2022-12-16/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-12-12~2022-12-18的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-12-11</time>
+        <a href="https://nodebe4.github.io/opinion/2022-12-11/theoryofdoom/">
+          theoryofdoom在2022-12-05~2022-12-11的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-12-08</time>
+        <a href="https://nodebe4.github.io/opinion/2022-12-08/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-12-05~2022-12-11的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-12-07</time>
+        <a href="https://nodebe4.github.io/opinion/2022-12-07/Spinkcat/">
+          Spinkcat在2022-12-05~2022-12-11的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-12-10/%E6%88%91%E4%BB%AC%E5%A6%82%E4%BD%95%E7%BB%A7%E7%BB%AD%E5%89%8D%E8%A1%8C-%E4%BF%9D%E6%8C%81%E8%87%AA%E6%88%91%E5%8F%AF%E6%8C%81%E7%BB%AD-%E5%B7%A5%E5%85%B7%E5%8C%85/">
+            前一篇：我们如何继续前行：保持自我可持续 / 工具包
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-12-11/theoryofdoom/">
+            後一篇：theoryofdoom在2022-12-05~2022-12-11的言论
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-12-10/%E6%88%91%E4%BB%AC%E5%A6%82%E4%BD%95%E7%BB%A7%E7%BB%AD%E5%89%8D%E8%A1%8C-%E4%BF%9D%E6%8C%81%E8%87%AA%E6%88%91%E5%8F%AF%E6%8C%81%E7%BB%AD-%E5%B7%A5%E5%85%B7%E5%8C%85/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-12-11/theoryofdoom/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-12-11/theoryofdoom/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-12-08/ForeignAffairsMag/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-12-10/%E6%88%91%E4%BB%AC%E5%A6%82%E4%BD%95%E7%BB%A7%E7%BB%AD%E5%89%8D%E8%A1%8C-%E4%BF%9D%E6%8C%81%E8%87%AA%E6%88%91%E5%8F%AF%E6%8C%81%E7%BB%AD-%E5%B7%A5%E5%85%B7%E5%8C%85/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-12-11/theoryofdoom/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-12-11/theoryofdoom/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-12-08/ForeignAffairsMag/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

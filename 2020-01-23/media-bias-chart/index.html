@@ -1,0 +1,645 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>「科普」怎样判断一家媒体的「立场」与「可信度」？以下这个网站可以帮助你挑选可信的新闻来源 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="中共经常指责CNN、BBC为「反华媒体」，在品葱上也经常看到有人说「XX媒体都是一群亲共分子」。那么，假设我们平时不太看欧美媒体的报道，对西方的媒体生态并不熟悉，那么该如何判断一家媒体的「立场」与「可信度」，从而获得比较可靠的新闻来源呢？
+" />
+    <meta property="og:description" content="中共经常指责CNN、BBC为「反华媒体」，在品葱上也经常看到有人说「XX媒体都是一群亲共分子」。那么，假设我们平时不太看欧美媒体的报道，对西方的媒体生态并不熟悉，那么该如何判断一家媒体的「立场」与「可信度」，从而获得比较可靠的新闻来源呢？
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="「科普」怎样判断一家媒体的「立场」与「可信度」？以下这个网站可以帮助你挑选可信的新闻来源" />
+    <meta property="twitter:title" content="「科普」怎样判断一家媒体的「立场」与「可信度」？以下这个网站可以帮助你挑选可信的新闻来源" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fweb.archive.org%2Fweb%2F20200114220248%2Fhttps%3A%2F%2Fpincong.rocks%2Farticle%2F12348" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://web.archive.org/web/20200114220248/https://pincong.rocks/article/12348" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://web.archive.org/web/20200114220248/https://pincong.rocks/article/12348&text=「科普」怎样判断一家媒体的「立场」与「可信度」？以下这个网站可以帮助你挑选可信的新闻来源&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://web.archive.org/web/20200114220248/https://pincong.rocks/article/12348&title=「科普」怎样判断一家媒体的「立场」与「可信度」？以下这个网站可以帮助你挑选可信的新闻来源" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://web.archive.org/web/20200114220248/https://pincong.rocks/article/12348&title=「科普」怎样判断一家媒体的「立场」与「可信度」？以下这个网站可以帮助你挑选可信的新闻来源" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=「科普」怎样判断一家媒体的「立场」与「可信度」？以下这个网站可以帮助你挑选可信的新闻来源&body=中共经常指责CNN、BBC为「反华媒体」，在品葱上也经常看到有人说「XX媒体都是一群亲共分子」。那么，假设我们平时不太看欧美媒体的报道，对西方的媒体生态并不熟悉，那么该如何判断一家媒体的「立场」与「可信度」，从而获得比较可靠的新闻来源呢？
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://web.archive.org/web/20200114220248/https://pincong.rocks/article/12348" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://web.archive.org/web/20200114220248/https://pincong.rocks/article/12348&title=「科普」怎样判断一家媒体的「立场」与「可信度」？以下这个网站可以帮助你挑选可信的新闻来源&caption=中共经常指责CNN、BBC为「反华媒体」，在品葱上也经常看到有人说「XX媒体都是一群亲共分子」。那么，假设我们平时不太看欧美媒体的报道，对西方的媒体生态并不熟悉，那么该如何判断一家媒体的「立场」与「可信度」，从而获得比较可靠的新闻来源呢？
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=「科普」怎样判断一家媒体的「立场」与「可信度」？以下这个网站可以帮助你挑选可信的新闻来源&url=https://web.archive.org/web/20200114220248/https://pincong.rocks/article/12348" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>「科普」怎样判断一家媒体的「立场」与「可信度」？以下这个网站可以帮助你挑选可信的新闻来源</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2020-01-23
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: 莫道石人一只眼</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#达摩俱乐部">
+          达摩俱乐部
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://web.archive.org/web/20200114220248/https://pincong.rocks/article/12348" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="科普的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#达摩俱乐部 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <p>中共经常指责CNN、BBC为「<strong>反华媒体</strong>」，在品葱上也经常看到有人说「<strong>XX媒体都是一群亲共分子</strong>」。那么，假设我们平时不太看欧美媒体的报道，对西方的媒体生态并不熟悉，那么该如何判断一家媒体的「<strong>立场</strong>」与「<strong>可信度</strong>」，从而获得比较可靠的新闻来源呢？</p>
+
+<p>「ad fontes media」是一家来自于美国的媒体分析公司，其主要产品是「Interactive Media Bias Chart」，一个用于分析美英两国主要媒体立场和可信度的表格。</p>
+
+<p>其研究方法是，把媒体发表文章的政治立场放在「<strong>左-&gt;右</strong>」这个坐标轴上，文章本身的内容从「<strong>原始事实报道</strong>」到「<strong>包含不准确及虚构信息</strong>」进行排列：</p>
+
+<p><a href="https://web.archive.org/web/20200114220248/https://pincong.rocks/url/img/aHR0cHM6Ly9pLmltZ3VyLmNvbS80VHg4ekdILmpwZw"><img src="https://web.archive.org/web/20200114220248im_/https://i.imgur.com/4Tx8zGH.jpg" alt="" /></a></p>
+
+<p>在这张图上，媒体政治立场的「左右」倾向已经一目了然，无需过多解释。而文章本身的性质，在纵轴上从上到下，翻译成中文分别为：</p>
+
+<p><strong>「原始事实报道」</strong>（指没有经过任何加工的事实，比如说直接引用官方声明等 —— 作者注）<br />
+<strong>「事实报道」</strong><br />
+<strong>「复杂分析，或事实报道和分析的结合」</strong><br />
+<strong>「分析」</strong><br />
+<strong>「观点 / 公正地说服」</strong>（可视作中文语境中的「理性客观」—— 作者注）<br />
+<strong>「带有选择性或不完整事实的故事 / 不公正地说服」</strong>（可视作中文语境中的「强辞夺理」—— 作者注）<br />
+<strong>「宣传 / 包含误导性的信息」</strong><br />
+<strong>「包含不准确 / 人为制造的信息」</strong>（川普：「Fake News！」）</p>
+
+<p>显然，在纵轴上排越高的媒体，就越接近于新闻的「原始真实」。而排越低的媒体，其报道中观点人为操作的痕迹就越多。</p>
+
+<p>从「原始事实报道」到「复杂分析，或事实报道和分析的结合」这三个层级，都属于比较「理性」的范畴。如果基本事实没有错误，可以认为这些媒体的报道和文章都很少会夹杂私货。这些媒体为了维护自己的「形象」和「公信力」，都一定会做「Fact Checking」，从而加强其报道的可信度。</p>
+
+<p>再往下就是「分析」，「观点 / 公正地说服」和「带有选择性或不完整事实的故事 / 不公正地说服」这两个层级。落在这三个层级的媒体，会有一些或多或少带有作者个人观点的文章出现。所以在阅读这些文章时，需要运用更多的批判性思维进行判断。关于「事实」和「观点」之间的区别，「编程随想」有一篇扫盲文章，建议阅读，我这里不多展开：</p>
+
+<p><strong>批判性思维扫盲：学会区分”事实”与”观点”</strong><br />
+<a href="https://web.archive.org/web/20200114220248/https://pincong.rocks/url/link/aHR0cHM6Ly9wcm9ncmFtLXRoaW5rLmJsb2dzcG90LmNvbS8yMDEzLzA1L2RpZmZlcmVuY2UtYmV0d2Vlbi1mYWN0LWFuZC1vcGluaW9uLmh0bWw">https://program-think.blogspot.com/2013/05/difference-between-fact-and-opinion.html</a></p>
+
+<p>如果我们再看一下这张图，就会发现呈现一个金字塔形状的结构：一般来说，离「事实报道」越近的媒体，在政治立场上就往往越偏向中立，反之亦然。</p>
+
+<p>如果要查看单个媒体的位置，可以使用以下这个链接的互动式网页：</p>
+
+<p><a href="https://web.archive.org/web/20200114220248/https://pincong.rocks/url/link/aHR0cHM6Ly93d3cuYWRmb250ZXNtZWRpYS5jb20vaW50ZXJhY3RpdmUtbWVkaWEtYmlhcy1jaGFydC8">https://www.adfontesmedia.com/interactive-media-bias-chart/</a></p>
+
+<p>以下列举一些常见西方媒体的位置：</p>
+
+<p><strong>「著名反华媒体」BBC - 「事实报道」+「复杂分析」，「中立略偏左」</strong></p>
+
+<p><a href="https://web.archive.org/web/20200114220248/https://pincong.rocks/url/img/aHR0cHM6Ly9pLmltZ3VyLmNvbS9rekM5UkFZLnBuZw"><img src="https://web.archive.org/web/20200114220248im_/https://i.imgur.com/kzC9RAY.png" alt="" /></a></p>
+
+<p><strong>「著名反华媒体」CNN - 「复杂分析」，「略偏左」</strong></p>
+
+<p><a href="https://web.archive.org/web/20200114220248/https://pincong.rocks/url/img/aHR0cHM6Ly9pLmltZ3VyLmNvbS9QOE1YTDMwLnBuZw"><img src="https://web.archive.org/web/20200114220248im_/https://i.imgur.com/P8MXL30.png" alt="" /></a></p>
+
+<p><strong>「著名反华媒体」NYT「纽约时报」 - 「事实报道」+「复杂分析」，「中立略偏左」</strong></p>
+
+<p><a href="https://web.archive.org/web/20200114220248/https://pincong.rocks/url/img/aHR0cHM6Ly9pLmltZ3VyLmNvbS96TllwdVdiLnBuZw"><img src="https://web.archive.org/web/20200114220248im_/https://i.imgur.com/zNYpuWb.png" alt="" /></a></p>
+
+<p>（有意思的是，中共经常批判的「反华媒体」都是偏左派媒体，那么中共真正的政治立场在哪里就很清楚了）</p>
+
+<p><strong>Reuters「路透社」 - 「事实报道」，「中立」</strong></p>
+
+<p><a href="https://web.archive.org/web/20200114220248/https://pincong.rocks/url/img/aHR0cHM6Ly9pLmltZ3VyLmNvbS9uVkZ1ajRtLnBuZw"><img src="https://web.archive.org/web/20200114220248im_/https://i.imgur.com/nVFuj4m.png" alt="" /></a></p>
+
+<p><strong>The Echonomist 「经济学人」 - 「复杂分析」，「中立略偏左」</strong></p>
+
+<p><a href="https://web.archive.org/web/20200114220248/https://pincong.rocks/url/img/aHR0cHM6Ly9pLmltZ3VyLmNvbS9hZDdDT3VULnBuZw"><img src="https://web.archive.org/web/20200114220248im_/https://i.imgur.com/ad7COuT.png" alt="" /></a></p>
+
+<p><strong>Financial Times 「金融时报」 - 「复杂分析」，「中立略偏右」</strong></p>
+
+<p><a href="https://web.archive.org/web/20200114220248/https://pincong.rocks/url/img/aHR0cHM6Ly9pLmltZ3VyLmNvbS9HY2lxSU5pLnBuZw"><img src="https://web.archive.org/web/20200114220248im_/https://i.imgur.com/GciqINi.png" alt="" /></a></p>
+
+<p><strong>Wall Street Journal 「华尔街日报」 - 「事实报道」+「复杂分析」，「中立略偏右」</strong></p>
+
+<p><a href="https://web.archive.org/web/20200114220248/https://pincong.rocks/url/img/aHR0cHM6Ly9pLmltZ3VyLmNvbS9Qa2U5cDByLnBuZw"><img src="https://web.archive.org/web/20200114220248im_/https://i.imgur.com/Pke9p0r.png" alt="" /></a></p>
+
+<p>（经川普大统领认证的可信媒体） <strong>Fox News - 「观点 / 公正地说服」，「偏右」</strong> 部分文章掉入了「宣传/包含误导信息」的类别。</p>
+
+<p><a href="https://web.archive.org/web/20200114220248/https://pincong.rocks/url/img/aHR0cHM6Ly9pLmltZ3VyLmNvbS80NVYyMUE0LnBuZw"><img src="https://web.archive.org/web/20200114220248im_/https://i.imgur.com/45V21A4.png" alt="" /></a></p>
+
+<p>这里要说明的一点是，媒体的位置，通过抽选媒体上的多篇文章取平均值获得。因此，如果一家媒体的可信度落在「观点」这一层级，上面的部分文章也有可能会落到下一级，出现「选择性报导」的情况。</p>
+
+<p>那么，如何挑选媒体呢？我个人有以下的几个原则：</p>
+
+<ul>
+  <li><strong>尽量挑选纵轴上排位比较高的媒体，这样比较容易获得离事实真相比较接近的信息。</strong></li>
+  <li><strong>偏左和偏右的媒体都阅读一些，以保持政治立场上的平衡。</strong></li>
+  <li><strong>在同一起新闻事件上阅读多家媒体的报道进行对比。</strong></li>
+  <li><strong>分清「事实报道」「分析」和「观点」的区别。</strong><br />
+我个人平时经常使用的媒体组合是：「Reuters」「BBC」「DW News」「The Economist」「Wall Street Journal」「公视新闻」供各位参考。</li>
+</ul>
+
+<h6 id="tags-科普-媒体-数据分析">tags: <code class="language-plaintext highlighter-rouge">科普</code> <code class="language-plaintext highlighter-rouge">媒体</code> <code class="language-plaintext highlighter-rouge">数据分析</code></h6>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#达摩俱乐部 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2020-01-30/chinese-islam-survey/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2019-01-27/notes-psychological-experiments/">最早</a>--</span>
+    
+      <li>
+        <time>2020-01-30</time>
+        <a href="https://nodebe4.github.io/opinion/2020-01-30/chinese-islam-survey/">
+          「论文」二十多年来伊斯兰教研究述论 作者：哈宝玉 来源：《新疆社会科学》2006年第2期
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-01-25</time>
+        <a href="https://nodebe4.github.io/opinion/2020-01-25/rules-and-conflicts-chapter-three/">
+          「原创」中国政治分析：第三章 规则与冲突
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-01-20</time>
+        <a href="https://nodebe4.github.io/opinion/2020-01-20/change-chapter-two/">
+          「原创」中国政治分析：第二章 大变局
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-01-15</time>
+        <a href="https://nodebe4.github.io/opinion/2020-01-15/organization-chapter-one/">
+          「原创」组织理论研究系列：第一章 组织进化论及自然属性
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2020-01-22/%E5%85%B3%E4%BA%8E%E6%AD%A6%E6%B1%89%E8%82%BA%E7%82%8E%E7%9A%84%E7%A4%BE%E4%BC%9A%E5%AD%A6%E7%9A%84%E6%96%87%E7%8C%AE%E4%B8%8E%E6%91%98%E5%BD%95/">
+            前一篇： 关于武汉肺炎的社会学的文献与摘录 
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2020-01-23/%E7%BE%8E%E4%B8%AD%E5%B0%8D%E6%8A%97%E7%9A%84%E6%9C%AC%E8%B3%AA-%E7%B2%B5%E8%AA%9E-%E6%98%8E%E5%B1%85%E6%AD%A3-%E9%80%8F%E8%A6%96%E4%B8%AD%E5%9C%8B-0067-SinoInsider-20200123/">
+            後一篇：美中對抗的本質（粵語） | 明居正「透視中國」【0067】SinoInsider 20200123
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2020-01-22/%E5%85%B3%E4%BA%8E%E6%AD%A6%E6%B1%89%E8%82%BA%E7%82%8E%E7%9A%84%E7%A4%BE%E4%BC%9A%E5%AD%A6%E7%9A%84%E6%96%87%E7%8C%AE%E4%B8%8E%E6%91%98%E5%BD%95/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2020-01-23/%E7%BE%8E%E4%B8%AD%E5%B0%8D%E6%8A%97%E7%9A%84%E6%9C%AC%E8%B3%AA-%E7%B2%B5%E8%AA%9E-%E6%98%8E%E5%B1%85%E6%AD%A3-%E9%80%8F%E8%A6%96%E4%B8%AD%E5%9C%8B-0067-SinoInsider-20200123/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2020-01-25/rules-and-conflicts-chapter-three/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2020-01-20/change-chapter-two/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2020-01-22/%E5%85%B3%E4%BA%8E%E6%AD%A6%E6%B1%89%E8%82%BA%E7%82%8E%E7%9A%84%E7%A4%BE%E4%BC%9A%E5%AD%A6%E7%9A%84%E6%96%87%E7%8C%AE%E4%B8%8E%E6%91%98%E5%BD%95/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2020-01-23/%E7%BE%8E%E4%B8%AD%E5%B0%8D%E6%8A%97%E7%9A%84%E6%9C%AC%E8%B3%AA-%E7%B2%B5%E8%AA%9E-%E6%98%8E%E5%B1%85%E6%AD%A3-%E9%80%8F%E8%A6%96%E4%B8%AD%E5%9C%8B-0067-SinoInsider-20200123/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<达摩俱乐部>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2020-01-25/rules-and-conflicts-chapter-three/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<达摩俱乐部>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2020-01-20/change-chapter-two/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

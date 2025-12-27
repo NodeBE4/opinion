@@ -1,0 +1,3000 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Anti-monopoly vs. Antitrust – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+Anti-monopoly vs. Antitrust
+——
+" />
+    <meta property="og:description" content="
+Anti-monopoly vs. Antitrust
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Anti-monopoly vs. Antitrust" />
+    <meta property="twitter:title" content="Anti-monopoly vs. Antitrust" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2020%2Fanti-monopoly-vs-antitrust%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2020/anti-monopoly-vs-antitrust/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2020/anti-monopoly-vs-antitrust/&text=Anti-monopoly vs. Antitrust&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2020/anti-monopoly-vs-antitrust/&title=Anti-monopoly vs. Antitrust" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2020/anti-monopoly-vs-antitrust/&title=Anti-monopoly vs. Antitrust" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Anti-monopoly vs. Antitrust&body=
+Anti-monopoly vs. Antitrust
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2020/anti-monopoly-vs-antitrust/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2020/anti-monopoly-vs-antitrust/&title=Anti-monopoly vs. Antitrust&caption=
+Anti-monopoly vs. Antitrust
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Anti-monopoly vs. Antitrust&url=https://stratechery.com/2020/anti-monopoly-vs-antitrust/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Anti-monopoly vs. Antitrust</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2020-10-07
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2020/anti-monopoly-vs-antitrust/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1602082494000-->
+<p><a href="https://stratechery.com/2020/anti-monopoly-vs-antitrust/">Anti-monopoly vs. Antitrust</a>
+——</p>
+
+<div>
+  <p>William Letwin, in <a href="https://press.uchicago.edu/ucp/books/book/chicago/L/bo3642778.html">Law and Economic Policy in America: The Evolution of the Sherman Antitrust Act</a>, argued that the only way to understand the Sherman Antitrust Act, and by extension antitrust in America, was to understand an ancient strand of American politics:</p>
+  <blockquote>
+    <p>Hatred of monopoly is one of the oldest American political habits and like most profound traditions, it consisted of an essentially permanent idea expressed differently at different times.</p>
+  </blockquote>
+  <p>As Letwin notes, American distrust of monopolies had its roots in England and 1624’s <a href="https://en.wikipedia.org/wiki/Statute_of_Monopolies">Statute of Monopolies</a>, which significantly constrained the ability of the King to grant exclusive privilege; colonial and state legislatures similarly passed laws restricting grants of exclusive power by governments, and while the Bill of Rights did not have an anti-monopoly provision (contra Thomas Jefferson’s wishes), one of the most divisive political questions for the first several decades of the United States was over the existence (or not) of a national bank, in large part because it was a government-granted monopoly.</p>
+  <p>Corporations were viewed with similar skepticism, for similar reasons. Letwin writes:</p>
+  <blockquote>
+    <p>In America every corporation, whether or not it had an express monopoly, was considered monopolistic simply because it was a corporation. This was partly because all corporations before the end of the eighteenth century, and most of them before the Civil War, were chartered by special legislation. Each was authorized by a separate act that prescribed its distinctive organization and defined the rights and duties peculiar to it. No group of men could form a corporation unless the state legislature passed a special act in their favor, and those who succeeded were regarded as privileged above their fellows. The mere existence of a corporation was therefore proof that it was a monopoly.</p>
+  </blockquote>
+  <p>The solution to this corporation-as-monopoly problem was not, as many critics demanded, the unwinding of corporations, or restrictions placed on new ones, but rather the opposite: starting in 1837 a wave of states passed laws allowing anyone to create a corporation, making the entire argument that corporations were by definition monopolies moot. However, Letwin argues that this only redirected America’s inherent anti-monopoly sentiment:</p>
+  <blockquote>
+    <p>The distrust of corporations did not evaporate with the old complaint. After the middle of the nineteenth century new grounds were found for believing that corporations were monopolistic, and criticisms that had been subordinate now became prominent. They achieved their new importance partly because the fundamental American attitude toward government was changing at this time. The fear of oligarchy, which had been carried over from the colonial period and so carefully expressed in the Constitution, was subsiding. The fear of plutocracy, always present in some degree, grew sharper as Americans recognized the rapid growth of national wealth during and after the Civil War. Reasoning about monopolies accommodated itself to the new disposition: it was less often argued that monopolists would abolish representative government and more often they would use their wealth to make it serve their own interests.</p>
+  </blockquote>
+  <p>The solution for this new wave of anti-monopolists would have been surprising to their forbears who were so skeptical about government power:</p>
+  <blockquote>
+    <p>The chief attacks on monopolies after the Civil War became more specific. They were no longer directed at incorporation itself or corporations in the mass, but more particularly against certain practices — above all, economic abuses — that were attributed to some corporations. No one could by this time reasonably want or hope to solve the problem by abolishing corporations or by making it easier to establish more of them. The idea therefore began to spread that the power and injurious behavior of monopolistic corporations should be controlled by government regulation.</p>
+  </blockquote>
+  <p>This increased focus on economic abuses, which largely originated with <a href="https://en.wikipedia.org/wiki/Statute_of_Monopolies">The Granger movement</a> amongst midwestern farmers upset about railroad rates, coincided with an explosion of trusts designed to circumvent state-specific laws about illegal restraints of trade in the late 1800s. Letwin explains:</p>
+  <blockquote>
+    <p>More and more attention was devoted to combinations of industrial firms, all of which, however organized, came by the end of the [1880s] to be called trusts. Public prominence was achieved first by the Standard Oil Company, which by 1880 controlled much of the country’s petroleum refining…The Cotton Oil Trust was organized in 1884 and the Linseed Oil Trust in the following year…[1887] saw the formation of the Sugar and Whisky Trusts, which until the end of the century contended for the unpopularity only with Standard Oil. Others, affecting lesser industries or smaller markets, added to the list, which by the end of the year included the Envelope, Salt, Cordage, Oil-Cloth, Paving-Pitch, School-Slate, Chicago Gas, St. Louis Gas, and New York Meat trusts…</p>
+  </blockquote>
+  <p>These trusts became a new target for an old sentiment:</p>
+  <blockquote>
+    <p>If we are to credit the judgment of most contemporary observers, the public seems to have had no difficulty in identifying the trusts as the latest version of monopoly and in transferring to them the antipathy which by long usage it had cultivated against all monopolies. The great fervor against trusts in 1888…was simply a familiar feeling raised to a high pitch, intense because the speed with which new trusts were being hatched made it seem that they would overrun everything unless some remedy were found soon…</p>
+    <p>There were numerous objections to the trusts — complaints of a traditional sort as well as newer ones suited to the character of these particular monopolies. Trusts, it was said, threaten liberty, because they corrupted civil servants and bribed legislators; they enjoyed privileges such as protection by tariffs; they drove out competitors by lowering prices, victimized consumers by raising prices, defrauded investors by watering stocks, put laborers out of work by closing down plants, and somehow or other abused everyone.</p>
+  </blockquote>
+  <p>This rhetoric may seem familiar. Yesterday the Democratic-controlled House Subcommittee on Antitrust, Commercial and Administrative Law of the Committee on the Judiciary released their <a href="https://judiciary.house.gov/uploadedfiles/competition_in_digital_markets.pdf">majority staff report and recommendations</a> about the subcommittees investigation of Google, Facebook, Amazon, and Apple, which stated on the first page:</p>
+  <blockquote>
+    <p>They not only wield tremendous power, but they also abuse it by charging exorbitant fees, imposing oppressive contract terms, and extracting valuable data from the people and businesses that rely on them…Whether through self-preferencing, predatory pricing, or exclusionary conduct, the dominant platforms have exploited their power in order to become even more dominant.</p>
+    <p>To put it simply, companies that once were scrappy, underdog startups that challenged the status quo have become the kinds of monopolies we last saw in the era of oil barons and railroad tycoons…The effects of this significant and durable market power are costly. The Subcommittee’s series of hearings produced significant evidence that these firms wield their dominance in ways that erode entrepreneurship, degrade Americans’ privacy online, and undermine the vibrancy of the free and diverse press. The result is less innovation, fewer choices for consumers, and a weakened democracy.</p>
+  </blockquote>
+  <p>Or, to put it Letwin’s words, these four companies are “somehow or other abus[ing] everyone.”</p>
+  <h4 id="the-subcommittee-report">The Subcommittee Report</h4>
+  <p>Forgive the exceptionally long introduction to this Article, but it is in part a function of the fact I have been writing about <a href="https://stratechery.com/concept/technology-and-society/antitrust/">this topic</a> for a very long time; while going through my archives I found a piece from 2017 entitled <a href="https://stratechery.com/2017/everything-is-changing-so-should-antitrust/">Everything is Changing; So Should Antitrust</a> that seems particularly pertinent to many of the topics covered in the report, particularly the discussion of the slumping prospects of newspapers:</p>
+  <blockquote>
+    <p>For long time Stratechery readers this analysis isn’t that novel; the shift in value chains that result from the Internet enabling zero distribution and zero transactional costs are the foundation of <a href="https://stratechery.com/2015/aggregation-theory/">Aggregation Theory</a>…There is another context, though: the increasing appreciation outside of technology of just how dominant companies like Google, Facebook, Amazon, and even Netflix have become, and more and more discussion about whether antitrust is the answer.</p>
+  </blockquote>
+  <p>Here we are!</p>
+  <blockquote>
+    <p>The problem is that much of this discussion is rooted in the old value chain, where power came from controlling distribution. What is critical to understand is that that world is fading away; the fundamental nature of the Internet is abundance, and the critical competency is discovery. Moreover, the platform that harnesses discovery also harnesses a virtuous cycle between users and suppliers that leads to a winner-take-all situation inherent in two-sided networks. In other words, to the extent these platforms are monopolies, said monopoly is much more akin to AT&amp;T than it is to Standard Oil.</p>
+  </blockquote>
+  <p>AT&amp;T, though, at least beyond the network points, is not a good comparison point either: telephone service required an actual telephone wire, which is to say that AT&amp;T’s monopoly was also rooted in the physical world. What makes what I call Aggregators fundamentally different is the fact that controlling demand matters more than controlling supply.</p>
+  <blockquote>
+    <p>This matters for three reasons:</p>
+    <ul>
+      <li>First, the fact that newspapers, for example, or perhaps one day WPP, are being driven out of business is not a reason for antitrust action; their problem is <a href="https://stratechery.com/2017/the-local-news-business-model/">their business model</a> is obsolete. The world has changed, and invoking regulation to try to change that reality is a terrible idea.</li>
+      <li>Second, the consumer-friendly approach of these platform companies is no accident: when market power comes from owning demand, then the way to gain power is to create a great experience for consumers. The casual way in which many antitrust crusaders ignore the fact that, for example, Amazon is genuinely beloved by consumers — and for good reason! — is frustrating intellectually and eye-rolling politically.</li>
+      <li>Third, the presence of these platforms creates incredible new opportunities for businesses that were never before possible. I already described how <a href="https://stratechery.com/2016/dollar-shave-club-and-the-disruption-of-everything/">Dollar Shaving Club was enabled by platform companies</a>; Amazon has also enabled a multitude of merchants, Facebook an entire ecosystem of apps and personalized startups, and Google every possible service under the sun.</li>
+    </ul>
+    <p>In a 30-second commercial, of the sort that WPP might have made, drawing clear villains and easy narratives is valuable; the reality of Aggregators is far more complicated. That Google, Facebook, Amazon, and other platforms are as powerful as they are is not due to their having acted illegally but rather to the fundamental nature of the Internet and the way it has reorganized value chains in industry after industry.</p>
+  </blockquote>
+  <p>This is the point where I thought much of the committee’s report went wrong. Monopolies were asserted with effectively zero evidence, and there was little to no mention of the positive impacts of these companies, even as basic business practices were described in the most sinister terms possible (Facebook and Instagram were accused of colluding?). Moreover, a lot of commentary felt stuck in 2012: Facebook forever competing against MySpace (but Instagram being a bargain was totally predictable!), Amazon against no one (<a href="https://stratechery.com/2020/the-anti-amazon-alliance/">Shopify</a> was mentioned once), Google versus ten blue links, and Apple, well, they are in good shape: despite having arguably <a href="https://stratechery.com/2020/the-antitrust-hearing-the-role-of-congress-ceo-questions/">the most egregious practices under traditional antitrust law</a>, the iPhone maker was the only company in the Executive Summary to be praised for its impact on society.<a href="https://stratechery.com/2020/anti-monopoly-vs-antitrust/#footnote_0_5321" id="identifier_0_5321" class="footnote-link footnote-identifier-link" title="From the report:  Apple&rsquo;s mobile ecosystem has produced significant benefits to app developers and consumers. Launched in 2008, the App Store revolutionized software distribution on mobile devices, reducing barriers to entry for app developers and increasing the choices available to consumers.Again, there is not a single positive word about the other three companies in the executive summary.">1</a> In the committee’s telling, these companies are bad actors that do bad things, case closed.</p>
+  <p>That, though, is why it is a mistake to read the report as some sort of technocratic document. There are, to be sure, a lot of interesting facts that were dug up by the committee, and some bad behavior, which may or may not be anticompetitive in the legal sense. Certainly the companies would prefer to have a legalistic antitrust debate, for good reason: it is exceptionally difficult to make the case that any of these companies are causing consumer harm, which is the de facto standard for antitrust in the United States. Indeed, what makes Google’s contention that “The competition is only a click away” so infuriating is the fact it is true.</p>
+  <p>What matters more is the context laid out by Letwin: there is a strain of political thought in America, independent of political party (although traditionally associated with Democrats), that is inherently allergic to concentrated power — monopoly in the populist sense, if not the legal one. To more fully restate the first quote I used from Letwin:</p>
+  <blockquote>
+    <p>Hatred of monopoly is one of the oldest American political habits and like most profound traditions, it consisted of an essentially permanent idea expressed differently at different times. “Monopoly”, as the word was used in America, meant at first a special legal privilege granted by the state; later it came more often to mean exclusive control that a few persons achieved by their own efforts; but it always meant some sort of unjustified power, especially one that raised obstacles to equality of opportunity.</p>
+  </blockquote>
+  <p>In other words, this subcommittee report is simply a new expression of an old idea; the details matter less than the fact it exists.</p>
+  <h4 id="the-future-of-anti-monopoly">The Future of Anti-Monopoly</h4>
+  <p>This interpretation of the report means different things for different parties.</p>
+  <p>The committee specifically, and people concerned about tech power generally, should in my estimation spend a lot less time trying to shoehorn today’s tech companies, built to operate in a world of abundance, into antitrust laws built for a world of scarcity; from that earlier Stratechery article:</p>
+  <blockquote>
+    <p>To that end any antitrust regulation, if it comes, needs a fresh approach rooted in the reality of the Internet. I agree that too much concentrated power has inherent problems; I also believe a structural incentive to provide a great customer experience, along with the potential to create completely new kinds of businesses, is worth preserving. Antitrust crusaders, to whom <a href="https://stratechery.com/2017/facebook-and-the-cost-of-monopoly/">I am clearly sympathetic</a>, ignore these realities at their political peril.</p>
+  </blockquote>
+  <p>So much modern antitrust action against tech companies is like pushing on a string: the reason these companies have power is because so many customers choose to use them, and it is both difficult and probably unwise to try and regulate the individual choices of billions of users. At the same time, as I noted, I am sympathetic to the issue of just how much power these companies have: constraining that power, though, needs new laws that start with Internet assumptions, and anti-monopoly advocates would do well to focus on solutions that, instead of retracting privileges, extend them (a la incorporations in the 1800s).</p>
+  <p>These aren’t idle words: I have previously laid out ideas for <a href="https://stratechery.com/2019/a-framework-for-regulating-competition-on-the-internet/">regulating competition on the Internet</a>. One thing that is critical is understanding that not all tech companies are the same: Apple and Android are traditional platforms, relatively well-served by traditional antitrust law (except for the fact that their duopoly helps both escape scrutiny together); Google and Facebook, though, are Aggregators, which require a different approach, which I laid out in 2019’s <a href="https://stratechery.com/2019/where-warrens-wrong/">Where Warren’s Wrong</a>. These include a focus on acquisitions and anticompetitive contracts, which I was glad to see were also a focus of the committee (although I think the focus on small-scale acquisitions <a href="https://stratechery.com/2020/first-do-no-harm/">missed why acquisitions can be a good thing</a>).</p>
+  <p>It is tech companies that face the most uncertainty: in the short term, this report will not result in any sort of meaningful legislation — this session of Congress is nearly over. Moreover, I would not be surprised to see tech companies step up their lobbying for privacy regulation, which in nearly all cases ends up being anticompetitive (exporting your list of friends, for example, is forbidden under legislation like GDPR). This also isn’t the worst time to have a competition-oriented court case, either, given the current state of antitrust jurisprudence.</p>
+  <p>The big question is if the status quo will change: right now the anti-monopolists are still a decided minority, at least as far as tech companies go. These four companies are amongst the most popular in the U.S., and that was before the pandemic, when the tech industry kept the entire economy afloat for those with the luxury to complain about ads, and provided free entertainment for those that don’t.</p>
+  <p>At the same time, the political sands are shifting: most of the anti-monopolists are Democrats, but <a href="https://stratechery.com/2020/antitrust-politics/">as I noted after the Committee’s hearing with the relevant CEOs</a>, populist-oriented Republicans are extremely focused on the political power big companies inherently hold; it is not unrealistic to imagine these two populist strains fusing — likely in the Republican party — leaving tech companies flat-footed.</p>
+  <p>There would, to be sure, be a certain irony in a political realignment being what ultimately endangers these companies that appear <a href="https://stratechery.com/2020/the-end-of-the-beginning/">entrenched for years to come</a>; after all, it is <a href="https://stratechery.com/2013/friction/">technology itself</a> that has already <a href="https://stratechery.com/2016/the-voters-decide/">upended politics</a>; the upheaval <a href="https://stratechery.com/2019/the-internet-and-the-third-estate/">may only be getting started</a>.</p>
+  <ol class="footnotes">
+    <li id="footnote_0_5321" class="footnote">From the report:&lt;/p&gt;      <blockquote>
+        <p>Apple’s mobile ecosystem has produced significant benefits to app developers and consumers. Launched in 2008, the App Store revolutionized software distribution on mobile devices, reducing barriers to entry for app developers and increasing the choices available to consumers.</p>
+      </blockquote>
+      <p>Again, there is not a single positive word about the other three companies in the executive summary.&lt;/li&gt;&lt;/ol&gt; &lt;/div&gt;</p>
+    </li>
+  </ol>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2020-10-19</time>
+        <a href="https://nodebe4.github.io/opinion/2020-10-19/Twitter,-Responsibility,-and-Accountability/">
+          Twitter, Responsibility, and Accountability
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-10-13</time>
+        <a href="https://nodebe4.github.io/opinion/2020-10-13/Disney-and-Integrators-Versus-Aggregators/">
+          Disney and Integrators Versus Aggregators
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-10-07</time>
+        <a href="https://nodebe4.github.io/opinion/2020-10-07/Anti-Monopoly-vs.-Antitrust/">
+          Anti-Monopoly vs. Antitrust
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-09-22</time>
+        <a href="https://nodebe4.github.io/opinion/2020-09-22/2020-Bundles/">
+          2020 Bundles
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2020-10-07/Anti-Monopoly-vs.-Antitrust/">
+            前一篇：Anti-Monopoly vs. Antitrust
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2020-10-07/%E5%B7%A6%E4%B8%8E%E5%8F%B3%E6%98%AF%E4%B8%80%E4%B8%AA%E5%9C%86%E5%9C%88/">
+            後一篇：左与右是一个圆圈
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2020-10-07/Anti-Monopoly-vs.-Antitrust/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2020-10-07/%E5%B7%A6%E4%B8%8E%E5%8F%B3%E6%98%AF%E4%B8%80%E4%B8%AA%E5%9C%86%E5%9C%88/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2020-10-13/Disney-and-Integrators-Versus-Aggregators/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2020-10-07/Anti-Monopoly-vs.-Antitrust/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2020-10-07/Anti-Monopoly-vs.-Antitrust/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2020-10-07/%E5%B7%A6%E4%B8%8E%E5%8F%B3%E6%98%AF%E4%B8%80%E4%B8%AA%E5%9C%86%E5%9C%88/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2020-10-13/Disney-and-Integrators-Versus-Aggregators/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2020-10-07/Anti-Monopoly-vs.-Antitrust/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

@@ -1,0 +1,913 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>爱德华·W·萨义德 – 知识分子论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+爱德华·W·萨义德 – 知识分子论
+——
+" />
+    <meta property="og:description" content="
+爱德华·W·萨义德 – 知识分子论
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="爱德华·W·萨义德 – 知识分子论" />
+    <meta property="twitter:title" content="爱德华·W·萨义德 – 知识分子论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2F2049post.wordpress.com%2F2020%2F08%2F10%2Fv3book1%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://2049post.wordpress.com/2020/08/10/v3book1/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://2049post.wordpress.com/2020/08/10/v3book1/&text=爱德华·W·萨义德 – 知识分子论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://2049post.wordpress.com/2020/08/10/v3book1/&title=爱德华·W·萨义德 – 知识分子论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://2049post.wordpress.com/2020/08/10/v3book1/&title=爱德华·W·萨义德 – 知识分子论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=爱德华·W·萨义德 – 知识分子论&body=
+爱德华·W·萨义德 – 知识分子论
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://2049post.wordpress.com/2020/08/10/v3book1/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://2049post.wordpress.com/2020/08/10/v3book1/&title=爱德华·W·萨义德 – 知识分子论&caption=
+爱德华·W·萨义德 – 知识分子论
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=爱德华·W·萨义德 – 知识分子论&url=https://2049post.wordpress.com/2020/08/10/v3book1/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>爱德华·W·萨义德 – 知识分子论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2020-08-10
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#火光">
+          火光
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://2049post.wordpress.com/2020/08/10/v3book1/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="火光的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#火光 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1597069452000-->
+<p><a href="https://2049post.wordpress.com/2020/08/10/v3book1/">爱德华·W·萨义德 – 知识分子论</a>
+——</p>
+
+<div>
+  <figure class="wp-block-image">
+<img src="https://static.zlibcdn.com/covers/books/f7/7a/08/f77a08ca21efc161333a0cede3b2d9eb.jpg" alt="" />
+  </figure>
+  <h4 id="section">内容简介</h4>
+  <p>《知识分子论》一书原是萨义德在英国BBC广播公司很有名气的瑞思系列讲演（Reith Lecture）稿，原名是Representation of the Intellectual（直译就是《知识分子的再现》），单德信说，萨义德的“Representation”至少有4种涵义：“知识分子为民喉舌，作为公理正义及弱势者/受迫害者的代表，即使面对艰难险阻也要向大众表明立场及见解；知识分子的言行举止也代表/再现自己的人格、学识与见地。”所以他干脆译成了《知识分子论》。萨义德本人倒是在《序言》中对他讲演的知识分子这个主题有一个简单的说明：“知识分子的公共角色是局外人、’业余者’、搅扰现状的人。”他的这个看法与我们所习惯的知识分子定义是全然不同的，现在社会上一般是把受过教育的专业人士看成知识分子的，根本没有想到体制以内的专家学者是不是知识分子都有问题！萨义德有他自己的理由。</p>
+  <p>萨义德认为，有两种知识分子，一种是现实社会中的多数知识分子，包括书籍的编辑和作者、军事战略家和国际律师等，他们所说、所用的语言都变成专业的，可为相同领域的其他成员所使用，而专家与专家之间的共通语言是非专业人士大都难以理解的。他们很可能关在小屋子里，有着安稳的收入，却没有兴趣与课堂外的世界打交道。他们的文笔深奥而又野蛮，主要是为了学术上的晋升，而不是促进社会的改变。他们迷失于众多细枝末节中，沦为只是社会潮流中的另一个专业人士。还有一种知识分子。他们的活动本质上不是追求实用的目的，而是在艺术、科学或形而上的思索中寻求乐趣，简言之，就是乐于寻求拥有非物质方面的利益，因此以某种方式说：“我的国度不属于这世界”。萨义德将他们称为真正的知识分子。</p>
+  <p>真正的知识分子在受到形而上的热情以及正义、真理的超然无私的原则感召时，斥责腐败、保卫弱者、反抗不完美的或压迫的权威，这是他们的本色。他们应该甘冒被烧死、放逐、钉死在十字架上的危险。这样的人数量必然不多，也无法以例行的方式培育出来。他们必然是具有坚强人格的彻彻底底的个人，尤其必须是处于几乎永远反对现状的状态。他们是特立独行的人，能向权势说真话的人，耿直、雄辩、极为勇敢及愤怒的个人，对他而言，不管世间权势如何庞大、壮观，都是可以批评，可以直截了当地责难的。萨义德赞赏知识分子站在相对弱势的阶级、弱势者、少数民族和国家、地位较低或势力较弱的文化和种族一边。这并不是故意和政府作对，而是要时时维持着警觉，永远不让似是而非的事物或约定俗成的观念带着走。</p>
+  <p>真正的知识分子会觉得处于一种流亡的状态，这不一定是真实的流亡，更是指在一个社会中成为圈外人。萨义德指出，因为流亡者同时以抛在背后的事物以及此时此地的实况这两种方式来看事物，所以有着双重视角，从不以孤立的方式来看事物，而且不只看事物的现状，还能看出前因。即使不是真正的移民或放逐，仍可能具有移民或放逐者的思维方式，面对阻碍依然去想像、探索，总是能离开中心，走向边缘，在边缘你可以看到一些事物，而这些是足迹从未越过传统与舒适范围的心灵通常所失去的。</p>
+  <h4 id="section-1">作者简介</h4>
+  <p>爱德华·沃第尔·萨义德（Edward Waefie Said，1935年11月1日~2003年9月24日），后殖民理论代表人物，著名文学理论家与批评家，也是巴勒斯坦立国运动的活跃分子。萨义德出生在耶路撒冷的一个阿拉伯基督教家庭，家境富有。他童年大多数时间在埃及开罗度过，从小就接受西式教育。1953年进入美国普林斯顿大学，取得学士学位后又在哈佛大学获得硕士和博士学位。之后多年他在哥伦比亚大学担任英美文学和比较文学教授，也曾执教于约翰霍普金斯大学、哈佛大学和耶鲁大学。萨义德能讲一口流利的英语 、阿拉伯语和法语 。其还是一位出色的钢琴演奏家。2003年9月，萨义德因白血病在纽约逝世。</p>
+  <p>萨义德著作等身，其中以《东方学》（Orientalism，1978）闻名遐迩，此著成为后殖民与后现代主义辩论的先锋。20年来，萨义德著述不辍，焦点扩及政治观察、文化批判，甚至音乐述评等范畴。与此同时他还以知识分子的身份积极投入巴勒斯坦解放运动，其学术建树和政治参与都很引人瞩目。</p>
+  <h4 id="section-2">书籍摘录</h4>
+  <h5 id="section-3">引自 第五章 对权势说真话</h5>
+  <p>今天的知识分子应该是个业余者，认为身为社会中思想和关切的一员，有权对于甚至最具技术性、专业化行动的核心提出道德的议题，因为这个行动涉及他或她的国家、国家的权力、国家与其公民和其他社会互动的模式。此外，身为业余者的知识分子精神可以进入并转换我们大多数人所经历的仅仅为专业的例行作法，使其活泼、激进得多；不再做被认为是该做的事，而是能问为什么做这件事，谁从中获利，这件事如何能重新连接上个人的计划和原创性的思想。 在我看来最该指责的就是知识分子的逃避；所谓逃避就是转离明知是正确的、困难的、有原则的立场，而决定不予采取。不愿意显得太过政治化；害怕看来具有争议性；需要老板或权威人物的允许；想要保有平衡、客观、温和的美誉；希望能被请教、咨询，成为有声望的委员会的一员，以留在负责可靠的主流之内；希望有朝一日能获颁荣誉学位、大奖，甚至担任驻外大使。对知识分子而言，腐化的心态莫此为甚。如果有任何能使人失去本性、中立化，终至戕害热情的知识分子的生命，那就是把这些习惯内化。 知识分子并不是登上高山或讲坛，然后从高处慷慨陈词。知识分子显然是要在最能被听到的地方发表自己的意见，而且要能影响正在进行的实际过程，比方说，和平和正义的事业。是的，知识分子的声音是孤独的，必须自由地结合一个运动的真实情况，民族的盼望，共同理想的追求，才能得到回响。</p>
+  <hr class="wp-block-separator" />
+  <h4 id="section-4"><a href="https://b-ok.cc/book/3556183/51ea2f">下载地址</a></h4>
+  <nav class="wp-block-navigation">
+    <ul class="wp-block-navigation__container">
+      <li class="wp-block-navigation-link"><a class="wp-block-navigation-link__content" href="https://2049post.wordpress.com/v3index/"><span class="wp-block-navigation-link__label">返回第三期目录</span></a></li>
+    </ul>
+  </nav>
+  <p></p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#火光 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2020-12-31/%E7%AB%AF%E7%82%B9%E6%98%9F%E6%A1%88%E6%B6%88%E6%81%AF%E6%B1%87%E6%80%BB/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2020-07-24/%E5%85%AC%E6%B0%91%E5%AE%9E%E9%AA%8C%E5%AE%A4-%E5%BE%AE%E4%BF%A1%E7%9B%91%E6%8E%A7%E8%AF%A0%E9%87%8A/">最早</a>--</span>
+    
+      <li>
+        <time>2020-08-10</time>
+        <a href="https://nodebe4.github.io/opinion/2020-08-10/%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90%E7%9A%84%E6%AE%BF%E5%A0%82-%E9%9B%85%E5%85%B8%E5%AD%A6%E9%99%A2/">
+          知识分子的殿堂：《雅典学院》
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-08-10</time>
+        <a href="https://nodebe4.github.io/opinion/2020-08-10/%E8%8E%B1%E5%B8%83%E5%B0%BC%E8%8C%A8-%E7%90%86%E6%80%A7%E5%9C%B0%E7%9C%8B%E5%BE%85%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E4%BB%B7%E5%80%BC%E8%A7%82/">
+          莱布尼茨：理性地看待中国人的价值观
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-08-10</time>
+        <a href="https://nodebe4.github.io/opinion/2020-08-10/%E5%8F%B2%E6%99%AF%E8%BF%81-%E5%A4%A9%E5%AE%89%E9%96%80-%E4%B8%AD%E5%9C%8B%E7%9A%84%E7%9F%A5%E8%AD%98%E4%BB%BD%E5%AD%90%E8%88%87%E9%9D%A9%E5%91%BD/">
+          史景迁 – 天安門：中國的知識份子與革命
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-08-10</time>
+        <a href="https://nodebe4.github.io/opinion/2020-08-10/%E6%B1%89%E5%A8%9C-%E9%98%BF%E4%BC%A6%E7%89%B9-%E9%BB%91%E6%9A%97%E6%97%B6%E4%BB%A3%E7%9A%84%E4%BA%BA%E4%BB%AC/">
+          汉娜·阿伦特 – 黑暗时代的人们
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2020-08-10/%E5%8F%B2%E6%99%AF%E8%BF%81-%E5%A4%A9%E5%AE%89%E9%96%80-%E4%B8%AD%E5%9C%8B%E7%9A%84%E7%9F%A5%E8%AD%98%E4%BB%BD%E5%AD%90%E8%88%87%E9%9D%A9%E5%91%BD/">
+            前一篇：史景迁 – 天安門：中國的知識份子與革命
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2020-08-10/%E8%8E%B1%E5%B8%83%E5%B0%BC%E8%8C%A8-%E7%90%86%E6%80%A7%E5%9C%B0%E7%9C%8B%E5%BE%85%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E4%BB%B7%E5%80%BC%E8%A7%82/">
+            後一篇：莱布尼茨：理性地看待中国人的价值观
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2020-08-10/%E5%8F%B2%E6%99%AF%E8%BF%81-%E5%A4%A9%E5%AE%89%E9%96%80-%E4%B8%AD%E5%9C%8B%E7%9A%84%E7%9F%A5%E8%AD%98%E4%BB%BD%E5%AD%90%E8%88%87%E9%9D%A9%E5%91%BD/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2020-08-10/%E8%8E%B1%E5%B8%83%E5%B0%BC%E8%8C%A8-%E7%90%86%E6%80%A7%E5%9C%B0%E7%9C%8B%E5%BE%85%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E4%BB%B7%E5%80%BC%E8%A7%82/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2020-08-10/%E8%8E%B1%E5%B8%83%E5%B0%BC%E8%8C%A8-%E7%90%86%E6%80%A7%E5%9C%B0%E7%9C%8B%E5%BE%85%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E4%BB%B7%E5%80%BC%E8%A7%82/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2020-08-10/%E5%8F%B2%E6%99%AF%E8%BF%81-%E5%A4%A9%E5%AE%89%E9%96%80-%E4%B8%AD%E5%9C%8B%E7%9A%84%E7%9F%A5%E8%AD%98%E4%BB%BD%E5%AD%90%E8%88%87%E9%9D%A9%E5%91%BD/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2020-08-10/%E5%8F%B2%E6%99%AF%E8%BF%81-%E5%A4%A9%E5%AE%89%E9%96%80-%E4%B8%AD%E5%9C%8B%E7%9A%84%E7%9F%A5%E8%AD%98%E4%BB%BD%E5%AD%90%E8%88%87%E9%9D%A9%E5%91%BD/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2020-08-10/%E8%8E%B1%E5%B8%83%E5%B0%BC%E8%8C%A8-%E7%90%86%E6%80%A7%E5%9C%B0%E7%9C%8B%E5%BE%85%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E4%BB%B7%E5%80%BC%E8%A7%82/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<火光>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2020-08-10/%E8%8E%B1%E5%B8%83%E5%B0%BC%E8%8C%A8-%E7%90%86%E6%80%A7%E5%9C%B0%E7%9C%8B%E5%BE%85%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E4%BB%B7%E5%80%BC%E8%A7%82/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<火光>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2020-08-10/%E5%8F%B2%E6%99%AF%E8%BF%81-%E5%A4%A9%E5%AE%89%E9%96%80-%E4%B8%AD%E5%9C%8B%E7%9A%84%E7%9F%A5%E8%AD%98%E4%BB%BD%E5%AD%90%E8%88%87%E9%9D%A9%E5%91%BD/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

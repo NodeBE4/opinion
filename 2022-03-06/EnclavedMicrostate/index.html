@@ -1,0 +1,2562 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>EnclavedMicrostate在2022-02-28~2022-03-06的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="EnclavedMicrostate在2022-02-28~2022-03-06的言论" />
+    <meta property="twitter:title" content="EnclavedMicrostate在2022-02-28~2022-03-06的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FHololive%2Fcomments%2Ft307pw%2Fshe_truly_has_such_a_way_with_words%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/Hololive/comments/t307pw/she_truly_has_such_a_way_with_words/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/Hololive/comments/t307pw/she_truly_has_such_a_way_with_words/&text=EnclavedMicrostate在2022-02-28~2022-03-06的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/Hololive/comments/t307pw/she_truly_has_such_a_way_with_words/&title=EnclavedMicrostate在2022-02-28~2022-03-06的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/Hololive/comments/t307pw/she_truly_has_such_a_way_with_words/&title=EnclavedMicrostate在2022-02-28~2022-03-06的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=EnclavedMicrostate在2022-02-28~2022-03-06的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/Hololive/comments/t307pw/she_truly_has_such_a_way_with_words/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/Hololive/comments/t307pw/she_truly_has_such_a_way_with_words/&title=EnclavedMicrostate在2022-02-28~2022-03-06的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=EnclavedMicrostate在2022-02-28~2022-03-06的言论&url=https://old.reddit.com/r/Hololive/comments/t307pw/she_truly_has_such_a_way_with_words/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>EnclavedMicrostate在2022-02-28~2022-03-06的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-03-06
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: EnclavedMicrostate</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/Hololive/comments/t307pw/she_truly_has_such_a_way_with_words/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#179-she-truly-has-such-a-way-with-words-submitted-on-2022-02-28-0656540800" id="markdown-toc-179-she-truly-has-such-a-way-with-words-submitted-on-2022-02-28-0656540800">179: She truly has such a way with words, submitted on 2022-02-28 06:56:54+08:00.</a></li>
+  <li><a href="#180-how-do-you-think-history-would-have-turned-out-if-alexander-named-a-successor-submitted-on-2022-02-28-1846080800" id="markdown-toc-180-how-do-you-think-history-would-have-turned-out-if-alexander-named-a-successor-submitted-on-2022-02-28-1846080800">180: How do you think history would have turned out if Alexander named a successor?, submitted on 2022-02-28 18:46:08+08:00.</a></li>
+  <li><a href="#181-what-are-some-historical-examples-of-worst-backfires-of-military-campaigns-submitted-on-2022-02-28-1906530800" id="markdown-toc-181-what-are-some-historical-examples-of-worst-backfires-of-military-campaigns-submitted-on-2022-02-28-1906530800">181: What are some historical examples of worst backfires of military campaigns?, submitted on 2022-02-28 19:06:53+08:00.</a></li>
+  <li><a href="#182-grieving-gone-gigantic---weekly-discussion-thread-feb-28th-2022-submitted-on-2022-02-28-2154410800" id="markdown-toc-182-grieving-gone-gigantic---weekly-discussion-thread-feb-28th-2022-submitted-on-2022-02-28-2154410800">182: Grieving Gone Gigantic - Weekly Discussion Thread, Feb 28th, 2022, submitted on 2022-02-28 21:54:41+08:00.</a></li>
+  <li><a href="#183-in-the-ridley-scott-film-kingdom-of-heaven-baldwin-iv-of-jerusalem-is-depicted-wearing-an-ornate-mask-to-hide-his-leprosy-did-the-actual-king-baldwin-feel-the-need-to-conceal-his-condition-in-this-way-how-would-contemporaries-have-perceived-leprosy-and-was-this-a-cause-of-stigma-against-him-submitted-on-2022-02-28-2158110800" id="markdown-toc-183-in-the-ridley-scott-film-kingdom-of-heaven-baldwin-iv-of-jerusalem-is-depicted-wearing-an-ornate-mask-to-hide-his-leprosy-did-the-actual-king-baldwin-feel-the-need-to-conceal-his-condition-in-this-way-how-would-contemporaries-have-perceived-leprosy-and-was-this-a-cause-of-stigma-against-him-submitted-on-2022-02-28-2158110800">183: In the Ridley Scott film Kingdom of Heaven, Baldwin IV of Jerusalem is depicted wearing an ornate mask to hide his leprosy. Did the actual King Baldwin feel the need to conceal his condition in this way? How would contemporaries have perceived leprosy, and was this a cause of stigma against him?, submitted on 2022-02-28 21:58:11+08:00.</a></li>
+  <li><a href="#184-to-celebrate-mikos-birthday-on-march-5-a-double-decker-bus-in-hong-kong-is-sporting-a-special-miko-livery-more-info-in-comments-submitted-on-2022-03-01-0009000800" id="markdown-toc-184-to-celebrate-mikos-birthday-on-march-5-a-double-decker-bus-in-hong-kong-is-sporting-a-special-miko-livery-more-info-in-comments-submitted-on-2022-03-01-0009000800">184: To celebrate Miko’s birthday on March 5, a double-decker bus in Hong Kong is sporting a special Miko livery! More info in comments., submitted on 2022-03-01 00:09:00+08:00.</a></li>
+  <li><a href="#185-why-did-britain-not-have-a-revolution-like-france-submitted-on-2022-03-01-0924210800" id="markdown-toc-185-why-did-britain-not-have-a-revolution-like-france-submitted-on-2022-03-01-0924210800">185: Why did Britain not have a revolution like France?, submitted on 2022-03-01 09:24:21+08:00.</a></li>
+  <li><a href="#186-random-chinese-folk-claims-that-battle-of-cannae-was-fake-submitted-on-2022-03-01-1122010800" id="markdown-toc-186-random-chinese-folk-claims-that-battle-of-cannae-was-fake-submitted-on-2022-03-01-1122010800">186: Random Chinese folk claims that Battle of Cannae was fake., submitted on 2022-03-01 11:22:01+08:00.</a></li>
+  <li><a href="#187-nekkos-from-hong-kong-celebrate-nenes-birthday-by-advertising-panels-in-subway-station-submitted-on-2022-03-02-0034480800" id="markdown-toc-187-nekkos-from-hong-kong-celebrate-nenes-birthday-by-advertising-panels-in-subway-station-submitted-on-2022-03-02-0034480800">187: Nekkos from Hong Kong celebrate Nene’s birthday by advertising panels in subway station, submitted on 2022-03-02 00:34:48+08:00.</a></li>
+  <li><a href="#188-miko-approb-submitted-on-2022-03-02-1313220800" id="markdown-toc-188-miko-approb-submitted-on-2022-03-02-1313220800">188: Miko Approb, submitted on 2022-03-02 13:13:22+08:00.</a></li>
+  <li><a href="#189-laila-is-officially-doxed-by-wactor-submitted-on-2022-03-02-1928510800" id="markdown-toc-189-laila-is-officially-doxed-by-wactor-submitted-on-2022-03-02-1928510800">189: Laila is officially doxed by WACTOR, submitted on 2022-03-02 19:28:51+08:00.</a></li>
+  <li><a href="#190-prc-ministry-of-foreign-affairs-statement-the-american-genocide-of-the-indianshow-much-of-it-is-true-submitted-on-2022-03-03-0009200800" id="markdown-toc-190-prc-ministry-of-foreign-affairs-statement-the-american-genocide-of-the-indianshow-much-of-it-is-true-submitted-on-2022-03-03-0009200800">190: PRC Ministry of Foreign Affairs’ statement: The American Genocide of the Indians–How much of it is true?, submitted on 2022-03-03 00:09:20+08:00.</a></li>
+  <li><a href="#191-beside-the-post-soviet-transformation-like-many-former-ussr-countries-where-there-any-conflicts-with-russia--russian-minorities-in-the-ukraine-between-1991-and-2014-submitted-on-2022-03-03-0136120800" id="markdown-toc-191-beside-the-post-soviet-transformation-like-many-former-ussr-countries-where-there-any-conflicts-with-russia--russian-minorities-in-the-ukraine-between-1991-and-2014-submitted-on-2022-03-03-0136120800">191: Beside the post-soviet transformation like many former USSR countries, where there any conflicts with Russia / Russian minorities in the Ukraine between 1991 and 2014?, submitted on 2022-03-03 01:36:12+08:00.</a></li>
+  <li><a href="#192-what-wars-in-the-history-of-mankind-were-fought-over-women-submitted-on-2022-03-03-0225350800" id="markdown-toc-192-what-wars-in-the-history-of-mankind-were-fought-over-women-submitted-on-2022-03-03-0225350800">192: What wars in the history of mankind were fought over women?, submitted on 2022-03-03 02:25:35+08:00.</a></li>
+  <li><a href="#193-what-was-the-most-successful-invasion-biggest-is-not-the-same-thing-submitted-on-2022-03-03-0230010800" id="markdown-toc-193-what-was-the-most-successful-invasion-biggest-is-not-the-same-thing-submitted-on-2022-03-03-0230010800">193: What was the most successful invasion? (Biggest is not the same thing.), submitted on 2022-03-03 02:30:01+08:00.</a></li>
+  <li><a href="#194-the-boy-in-the-striped-pajamas-is-going-to-get-a-sequel-for-some-reason-and-ive-been-seeing-a-few-takes-that-the-first-book-was-actually-quite-problematic-what-are-the-issues-with-it-submitted-on-2022-03-03-0337050800" id="markdown-toc-194-the-boy-in-the-striped-pajamas-is-going-to-get-a-sequel-for-some-reason-and-ive-been-seeing-a-few-takes-that-the-first-book-was-actually-quite-problematic-what-are-the-issues-with-it-submitted-on-2022-03-03-0337050800">194: ‘The Boy in the Striped Pajamas’ is going to get a sequel for some reason, and I’ve been seeing a few takes that the first book was actually quite problematic. What are the issues with it?, submitted on 2022-03-03 03:37:05+08:00.</a></li>
+  <li><a href="#195-gen-3-out-to-eat-hololive-submitted-on-2022-03-03-0736460800" id="markdown-toc-195-gen-3-out-to-eat-hololive-submitted-on-2022-03-03-0736460800">195: Gen 3 Out to Eat [Hololive], submitted on 2022-03-03 07:36:46+08:00.</a></li>
+  <li><a href="#196-what-event-after-archduke-franz-ferdinands-death-made-ww1-an-absolute-inevitability-submitted-on-2022-03-03-0957360800" id="markdown-toc-196-what-event-after-archduke-franz-ferdinands-death-made-ww1-an-absolute-inevitability-submitted-on-2022-03-03-0957360800">196: What event after Archduke Franz Ferdinand’s death made WW1 an absolute inevitability?, submitted on 2022-03-03 09:57:36+08:00.</a></li>
+  <li><a href="#197-following-switzerland-amongst-many-other-countries-denouncement-of-russia-is-this-the-most-united-europe-has-ever-been-submitted-on-2022-03-03-1139400800" id="markdown-toc-197-following-switzerland-amongst-many-other-countries-denouncement-of-russia-is-this-the-most-united-europe-has-ever-been-submitted-on-2022-03-03-1139400800">197: Following Switzerland, amongst many other countries denouncement of Russia, is this the most united Europe has ever been?, submitted on 2022-03-03 11:39:40+08:00.</a></li>
+  <li><a href="#198-are-there-any-good-easy-books-on-the-sui-or-tang-dynasties-of-china-submitted-on-2022-03-03-1152480800" id="markdown-toc-198-are-there-any-good-easy-books-on-the-sui-or-tang-dynasties-of-china-submitted-on-2022-03-03-1152480800">198: Are there any good, easy books on the Sui or T’ang Dynasties of China?, submitted on 2022-03-03 11:52:48+08:00.</a></li>
+  <li><a href="#199-is-the-1962-documentary-t-e-lawrence-1888-1935-directed-by-malcolm-brown-philip-donnellan-avaliable-anywhere-on-or-offline-submitted-on-2022-03-03-1213490800" id="markdown-toc-199-is-the-1962-documentary-t-e-lawrence-1888-1935-directed-by-malcolm-brown-philip-donnellan-avaliable-anywhere-on-or-offline-submitted-on-2022-03-03-1213490800">199: Is the 1962 documentary “T. E. Lawrence 1888-1935” Directed by Malcolm Brown, Philip Donnellan avaliable anywhere on or offline?, submitted on 2022-03-03 12:13:49+08:00.</a></li>
+  <li><a href="#200-is-there-a-moment-in-history-were-a-leader-has-abused-their-power-hurting-the-people-they-lead--followers-submitted-on-2022-03-03-1234160800" id="markdown-toc-200-is-there-a-moment-in-history-were-a-leader-has-abused-their-power-hurting-the-people-they-lead--followers-submitted-on-2022-03-03-1234160800">200: Is there a moment in history we’re a leader has abused their power hurting the people they leAd / followers?, submitted on 2022-03-03 12:34:16+08:00.</a></li>
+  <li><a href="#201-historians-what-do-you-think-would-have-happened-if-ww1-never-started-submitted-on-2022-03-04-0349570800" id="markdown-toc-201-historians-what-do-you-think-would-have-happened-if-ww1-never-started-submitted-on-2022-03-04-0349570800">201: Historians, What do you think would have happened if ww1 never started?, submitted on 2022-03-04 03:49:57+08:00.</a></li>
+  <li><a href="#202-posting-azki-pics-until-she-joins-rhololive-day-9-day-374-submitted-on-2022-03-04-1326040800" id="markdown-toc-202-posting-azki-pics-until-she-joins-rhololive-day-9-day-374-submitted-on-2022-03-04-1326040800">202: Posting AZKi pics until she joins r/Hololive. DAY 9 (DAY 374), submitted on 2022-03-04 13:26:04+08:00.</a></li>
+  <li><a href="#203-is-putins-idea-of-de-nazification-a-reference-to-de-stalinization-what-is-the-history-of-these-terms-and-how-are-they-related-submitted-on-2022-03-04-1847550800" id="markdown-toc-203-is-putins-idea-of-de-nazification-a-reference-to-de-stalinization-what-is-the-history-of-these-terms-and-how-are-they-related-submitted-on-2022-03-04-1847550800">203: Is Putin’s idea of “de-Nazification” a reference to “de-Stalinization”? What is the history of these terms and how are they related?, submitted on 2022-03-04 18:47:55+08:00.</a></li>
+  <li><a href="#204-during-the-ming-dynasty-were-there-any-chinese-cities-beyond-the-great-wall-submitted-on-2022-03-05-1049130800" id="markdown-toc-204-during-the-ming-dynasty-were-there-any-chinese-cities-beyond-the-great-wall-submitted-on-2022-03-05-1049130800">204: During the Ming dynasty, were there any Chinese cities beyond the great wall?, submitted on 2022-03-05 10:49:13+08:00.</a></li>
+  <li><a href="#sources-and-further-reading" id="markdown-toc-sources-and-further-reading">Sources and Further Reading</a></li>
+  <li><a href="#205-when-did-giant-pandas-become-an-iconic-creature-of-chinese-culture-they-dont-seem-to-be-featured-very-much-in-pre-modern-chinese-art-submitted-on-2022-03-05-2319090800" id="markdown-toc-205-when-did-giant-pandas-become-an-iconic-creature-of-chinese-culture-they-dont-seem-to-be-featured-very-much-in-pre-modern-chinese-art-submitted-on-2022-03-05-2319090800">205: When did giant pandas become an iconic creature of Chinese culture? They don’t seem to be featured very much in pre-modern Chinese art., submitted on 2022-03-05 23:19:09+08:00.</a></li>
+  <li><a href="#introduction" id="markdown-toc-introduction">Introduction</a></li>
+  <li><a href="#1-the-panda-in-pre-modern-china" id="markdown-toc-1-the-panda-in-pre-modern-china">1: The Panda in Pre-Modern China</a></li>
+  <li><a href="#2-the-panda-in-the-age-of-empire" id="markdown-toc-2-the-panda-in-the-age-of-empire">2. The Panda in the Age of Empire</a></li>
+  <li><a href="#3-the-panda-in-communist-china" id="markdown-toc-3-the-panda-in-communist-china">3. The Panda in Communist China</a></li>
+  <li><a href="#4-the-panda-in-the-world" id="markdown-toc-4-the-panda-in-the-world">4. The Panda in the World</a></li>
+  <li><a href="#summary-and-conclusion" id="markdown-toc-summary-and-conclusion">Summary and Conclusion</a></li>
+  <li><a href="#206-mori-mannerisms-submitted-on-2022-03-06-0530300800" id="markdown-toc-206-mori-mannerisms-submitted-on-2022-03-06-0530300800">206: mori mannerisms, submitted on 2022-03-06 05:30:30+08:00.</a></li>
+</ul>
+
+<h3 id="179-she-truly-has-such-a-way-with-words-submitted-on-2022-02-28-0656540800">179: <a href="https://old.reddit.com/r/Hololive/comments/t307pw/she_truly_has_such_a_way_with_words/">She truly has such a way with words</a>, submitted on 2022-02-28 06:56:54+08:00.</h3>
+
+<p>—– <strong>179.1</strong> —–2022-03-01 11:42:49+08:00:</p>
+
+<p>But does either hold a candle to <a href="https://www.youtube.com/shorts/i3O4gnbPA-I">Danchou</a>?</p>
+
+<h3 id="180-how-do-you-think-history-would-have-turned-out-if-alexander-named-a-successor-submitted-on-2022-02-28-1846080800">180: <a href="https://old.reddit.com/r/AskHistorians/comments/t3ctq5/how_do_you_think_history_would_have_turned_out_if/">How do you think history would have turned out if Alexander named a successor?</a>, submitted on 2022-02-28 18:46:08+08:00.</h3>
+
+<p>—– <strong>180.1</strong> —–2022-02-28 19:11:04+08:00:</p>
+
+<p>Sorry, but your submission has been removed because we <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F">don’t allow hypothetical questions</a>. If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule <a href="https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/">here</a>.</p>
+
+<h3 id="181-what-are-some-historical-examples-of-worst-backfires-of-military-campaigns-submitted-on-2022-02-28-1906530800">181: <a href="https://old.reddit.com/r/AskHistorians/comments/t3d5a1/what_are_some_historical_examples_of_worst/">What are some historical examples of worst backfires of military campaigns?</a>, submitted on 2022-02-28 19:06:53+08:00.</h3>
+
+<p>—– <strong>181.1</strong> —–2022-02-28 19:10:53+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="182-grieving-gone-gigantic---weekly-discussion-thread-feb-28th-2022-submitted-on-2022-02-28-2154410800">182: <a href="https://old.reddit.com/r/VirtualYoutubers/comments/t3g54v/grieving_gone_gigantic_weekly_discussion_thread/">Grieving Gone Gigantic - Weekly Discussion Thread, Feb 28th, 2022</a>, submitted on 2022-02-28 21:54:41+08:00.</h3>
+
+<p>—– <strong>182.1</strong> —–2022-03-01 23:34:00+08:00:</p>
+
+<p>I won’t lie, I wasn’t planning on being cited as an intellectual influence, but the way you put it made a lot of sense!</p>
+
+<h3 id="183-in-the-ridley-scott-film-kingdom-of-heaven-baldwin-iv-of-jerusalem-is-depicted-wearing-an-ornate-mask-to-hide-his-leprosy-did-the-actual-king-baldwin-feel-the-need-to-conceal-his-condition-in-this-way-how-would-contemporaries-have-perceived-leprosy-and-was-this-a-cause-of-stigma-against-him-submitted-on-2022-02-28-2158110800">183: <a href="https://old.reddit.com/r/AskHistorians/comments/t3g7st/in_the_ridley_scott_film_kingdom_of_heaven/">In the Ridley Scott film Kingdom of Heaven, Baldwin IV of Jerusalem is depicted wearing an ornate mask to hide his leprosy. Did the actual King Baldwin feel the need to conceal his condition in this way? How would contemporaries have perceived leprosy, and was this a cause of stigma against him?</a>, submitted on 2022-02-28 21:58:11+08:00.</h3>
+
+<p>—– <strong>183.1</strong> —–2022-03-01 02:35:19+08:00:</p>
+
+<p>Thanks! One thing I wanted to ask is about the two Islamic sources you quote from: both seem particularly hostile to Baldwin and cite his illness as part of it, and I was curious whether his leprosy was a cause of contempt in itself to these writers, or if they had a more general antipathy to Crusader rulers and Baldwin’s leprosy happened to be one aspect they could seize on?</p>
+
+<p>—– <strong>183.2</strong> —–2022-03-01 03:35:52+08:00:</p>
+
+<p>Thanks!</p>
+
+<h3 id="184-to-celebrate-mikos-birthday-on-march-5-a-double-decker-bus-in-hong-kong-is-sporting-a-special-miko-livery-more-info-in-comments-submitted-on-2022-03-01-0009000800">184: <a href="https://old.reddit.com/r/Hololive/comments/t3j200/to_celebrate_mikos_birthday_on_march_5_a/">To celebrate Miko’s birthday on March 5, a double-decker bus in Hong Kong is sporting a special Miko livery! More info in comments.</a>, submitted on 2022-03-01 00:09:00+08:00.</h3>
+
+<p>—– <strong>184.1</strong> —–2022-03-01 03:17:47+08:00:</p>
+
+<p>It’s supposed to run for 2 or 3 weeks still, I’d presume it’s not being redacted.</p>
+
+<p>—– <strong>184.2</strong> —–2022-03-01 03:19:00+08:00:</p>
+
+<p>As another HKniki, I do feel I need to give credit where it’s due to our counterparts in Taiwan <a href="https://twitter.com/fuwafuwa_35/status/1497530882923528192">who are doing 3 buses across 3 separate cities</a>.</p>
+
+<p>—– <strong>184.3</strong> —–2022-03-01 10:58:26+08:00:</p>
+
+<p>For what it’s worth it was patched up within a couple of days.</p>
+
+<p>—– <strong>184.4</strong> —–2022-03-01 22:51:19+08:00:</p>
+
+<p>That said, HoloCN streamed in Mandarin, which isn’t the primary language in HK.</p>
+
+<h3 id="185-why-did-britain-not-have-a-revolution-like-france-submitted-on-2022-03-01-0924210800">185: <a href="https://old.reddit.com/r/AskHistorians/comments/t3vl5u/why_did_britain_not_have_a_revolution_like_france/">Why did Britain not have a revolution like France?</a>, submitted on 2022-03-01 09:24:21+08:00.</h3>
+
+<p>—– <strong>185.1</strong> —–2022-03-01 11:02:59+08:00:</p>
+
+<p>Hey there,</p>
+
+<p>Just to let you know, your question is fine, and we’re letting it stand. However, you should be aware that questions framed as ‘Why didn’t X do Y’ relatively often don’t get an answer that meets our standards (in our experience as moderators). There are a few reasons for this. Firstly, it often can be difficult to prove the counterfactual: historians know much more about what happened than what might have happened. Secondly, ‘why didn’t X do Y’ questions are sometimes phrased in an ahistorical way. It’s worth remembering that people in the past couldn’t see into the future, and they generally didn’t have all the information we now have about their situations; things that look obvious now didn’t necessarily look that way at the time.</p>
+
+<p>If you end up not getting a response after a day or two, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">consider asking a new question focusing instead on why what happened did happen</a> (rather than why what didn’t happen didn’t happen) - this kind of question is more likely to get a response in our experience. Hope this helps!</p>
+
+<h3 id="186-random-chinese-folk-claims-that-battle-of-cannae-was-fake-submitted-on-2022-03-01-1122010800">186: <a href="https://old.reddit.com/r/badhistory/comments/t3xz6n/random_chinese_folk_claims_that_battle_of_cannae/">Random Chinese folk claims that Battle of Cannae was fake.</a>, submitted on 2022-03-01 11:22:01+08:00.</h3>
+
+<p>—– <strong>186.1</strong> —–2022-03-01 11:40:33+08:00:</p>
+
+<p>Thank you for your submission to /r/badhistory! Unfortunately, it has been removed for the following reason(s):</p>
+
+<p>Your submission is in violation of <strong>Rule 2</strong>. Your submission Is a debunk/debate request. These should be made in the weekly Saturday Symposium post and are no longer allowed as posts.</p>
+
+<p>If you feel this was done in error, or would like better clarification or need further assistance, please don’t hesitate to <a href="https://www.reddit.com/message/compose?to=/r/badhistory&amp;subject=Question regarding the removal of this submission by /u/HeinrichPerdix&amp;message=I have a question regarding the removal of [this submission](https://www.reddit.com/r/badhistory/comments/t3xz6n/-/\)">message the moderators.</a></p>
+
+<h3 id="187-nekkos-from-hong-kong-celebrate-nenes-birthday-by-advertising-panels-in-subway-station-submitted-on-2022-03-02-0034480800">187: <a href="https://old.reddit.com/r/Hololive/comments/t4bzz2/nekkos_from_hong_kong_celebrate_nenes_birthday_by/">Nekkos from Hong Kong celebrate Nene’s birthday by advertising panels in subway station</a>, submitted on 2022-03-02 00:34:48+08:00.</h3>
+
+<p>—– <strong>187.1</strong> —–2022-03-02 11:44:19+08:00:</p>
+
+<p>They’re at Mong Kok and Yau Ma Tei.</p>
+
+<h3 id="188-miko-approb-submitted-on-2022-03-02-1313220800">188: <a href="https://old.reddit.com/r/Hololive/comments/t4shbc/miko_approb/">Miko Approb</a>, submitted on 2022-03-02 13:13:22+08:00.</h3>
+
+<p>—– <strong>188.1</strong> —–2022-03-02 14:49:49+08:00:</p>
+
+<p>11 with Sana.</p>
+
+<h3 id="189-laila-is-officially-doxed-by-wactor-submitted-on-2022-03-02-1928510800">189: <a href="https://old.reddit.com/r/VirtualYoutubers/comments/t4y5cu/laila_is_officially_doxed_by_wactor/">Laila is officially doxed by WACTOR</a>, submitted on 2022-03-02 19:28:51+08:00.</h3>
+
+<p>—– <strong>189.1</strong> —–2022-03-03 11:43:37+08:00:</p>
+
+<p>‘Sometimes’…</p>
+
+<p>Hoo boy.</p>
+
+<blockquote>
+  <p>!While her YT account only uploads occasionally, that’s because that’s the more SFW part: her alt’s main platform is NicoNico and that’s much more frequently used.!&lt;</p>
+</blockquote>
+
+<h3 id="190-prc-ministry-of-foreign-affairs-statement-the-american-genocide-of-the-indianshow-much-of-it-is-true-submitted-on-2022-03-03-0009200800">190: <a href="https://old.reddit.com/r/AskHistorians/comments/t53gyk/prc_ministry_of_foreign_affairs_statement_the/">PRC Ministry of Foreign Affairs’ statement: The American Genocide of the Indians–How much of it is true?</a>, submitted on 2022-03-03 00:09:20+08:00.</h3>
+
+<p>—– <strong>190.1</strong> —–2022-03-03 02:59:34+08:00:</p>
+
+<p>Hello. It appears that your post has is relating to the American Indian Genocide(s) that occurred in the Americas. This topic is often controversial and can lead to inaccurate information. This message is not intended to provide you with all of the answers, but simply to address some of the basic facts, as well as genocide denialism in this regard, and provide a short list of introductory reading. Because this topic covers a large area of study, the actions of the United States will be highlighted. There is always more that can be said, but we hope this is a good starting point for you.</p>
+
+<p>##What is Genocide?</p>
+
+<p>Since the conceptualization of the act of genocide, scholars have developed a variety of frameworks to evaluate instances that may be considered genocide. One of the more common frameworks is the definition and criteria implemented by the United Nations. The term “genocide,” as coined by Raphael Lemkin in 1943, <a href="https://redd.it/6mg3j3">was defined by the U.N. in 1948</a>. The use of this term was further elaborated by <a href="https://treaties.un.org/doc/Publication/UNTS/Volume%2078/volume-78-I-1021-English.pdf">the genocide convention.</a></p>
+
+<p>Article II describes two elements of the crime of genocide:</p>
+
+<ol>
+  <li>The mental element, meaning the “intent to destroy, in whole or in part, a national, ethnical, racial or religious group, as such”, and</li>
+  <li>The physical element which includes five acts described in sections a, b, c, d and e. A crime must include both elements to be called “genocide.”</li>
+</ol>
+
+<p>Article II: In the present convention, genocide means any of the following acts committed with intent to destroy, in whole or in part, a national, ethnical, racial, or religious group, as such:</p>
+
+<ul>
+  <li>(a) Killing members of the group;</li>
+  <li>(b) Causing serious bodily or mental harm to members of the group;</li>
+  <li>(c) Deliberately inflicting on the group conditions of life calculated to bring about its physical destruction in whole or in part;</li>
+  <li>(d) Imposing measures intended to prevent births within the group;</li>
+  <li>(e) Forcibly transferring children of the group to another group.</li>
+</ul>
+
+<p>##American Indian Genocides – Did they happen?</p>
+
+<p>Since the arrival of Europeans to the Americas, typically signaled with the appearance of Columbus in 1492, Indigenous Peoples have experienced systematic oppression and extermination at the hands of colonial powers. These colonizing governments either organized or sponsored acts of genocide perpetrated by settlers, targeting Indigenous settlements for complete destruction; eliminating sources of food and access to life-sustaining resources; instituting child separation policies; and forcefully relocating Indigenous populations to often times inhospitable tracts of land, now known as “reservations.” All of these acts constitute what scholars now recognize as genocide. The horrendous acts that occurred in the Americas were even an example proposed by Lemkin himself, where it is noted from his writings:</p>
+
+<blockquote>
+  <p><a href="https://oxfordre.com/americanhistory/view/10.1093/acrefore/9780199329175.001.0001/acrefore-9780199329175-e-3">Lemkin applied the term to a wide range of cases including many involving European colonial projects in Africa, New Zealand, Australia, and the Americas. A recent investigation of an unfinished manuscript for a global history of genocide Lemkin was writing in the late 1940s and early 1950s reveals an expansive view of what Lemkin termed a “Spanish colonial genocide.” He never began work on a projected chapter on “The Indians of North America,” though his notes indicate that he was researching Indian removal, treaties, the California gold rush, and the Plains wars.</a></p>
+</blockquote>
+
+<p>These actions took place over the entirety of the Americas, exacerbating the rapid depopulation of Indigenous Nations and communities. Exact figures of the population decline are inconclusive, giving us only estimates at best, with Pre-Columbian population numbers ranging anywhere from as low as 8 million to as high as ~100 million inhabitants across North, Central, and South America. What we do know is that in the United States, records indicate the American Indian population had dropped to approximately 250,000 by 1900. Despite any debate about population statistics, the historical records and narratives conclude that, at least according to the U.N. definition, genocide was committed.</p>
+
+<p>##Mental Element: Establishing Intent</p>
+
+<p>In order for genocide to be committed, there must be reasonable evidence to establish an intent to commit what constitutes genocide. Through both word and action, we can see that colonial powers, such as the United States, did intend at times to exterminate American Indian populations, often with public support. Government officials, journalists, scholars, and public figures echoed societal sentiments regarding their desire to destroy Indians, either in reference to specific groups or the whole race.</p>
+
+<blockquote>
+  <p>”This unfortunate race, whom we had been taking so much pains to save and to civilize, have by their unexpected desertion and ferocious barbarities justified extermination and now await our decision on their fate.”</p>
+</blockquote>
+
+<p><a href="https://www.loc.gov/resource/mtj1.047_0147_0150/?sp=3">–Thomas Jefferson, 1813</a></p>
+
+<blockquote>
+  <p>“That a war of extermination will continue to be waged between the races until the Indian race becomes extinct must be expected.”</p>
+</blockquote>
+
+<p><a href="http://governors.library.ca.gov/addresses/s_01-Burnett2.html">–California Governor Peter Burnett, 1851</a></p>
+
+<blockquote>
+  <p>”. . .these Indians will in the end be exterminated. They must soon be crushed - they will be exterminated before the onward march of the white man.”</p>
+</blockquote>
+
+<p><a href="http://digitalcommons.law.utulsa.edu/cgi/viewcontent.cgi?article=2654&amp;context=tlr">–U.S. Senator John Weller, 1852, page 17, citation 92</a></p>
+
+<p>##Physical Element: Acting with Purpose</p>
+
+<p><strong>U.S. Army Policy of Killing Buffalo (Criterion C)</strong></p>
+
+<p><a href="https://redd.it/4j42ag">In this post,</a> it is explained how it was the intention and policy of the U.S. Army to kill the buffalo of America off in an attempt to subdue, and even exterminate, the Plains Indians.</p>
+
+<p><strong>Sterilization (Criterion D)</strong></p>
+
+<p>The Indian Health Service (IHS) is a federally run service for American Indians and Alaska Natives. It is responsible for providing proper health care for American Indians as established via the treaties and trust relationship between tribes and the U.S. Government. However, on November 6, 1976, the Government Accountability Office (GAO) released the results of an investigation that concluded that <a href="https://cbhd.org/content/forced-sterilization-native-americans-late-twentieth-century-physician-cooperation-national-">between 1973 and 1976, IHS performed 3,406 sterilizations on Native American women.</a> Per capita, this figure would be equivalent to sterilizing 452,000 non-Native American women. Many of these sterilizations were conducted without the consent of the women being sterilized or under coercion.</p>
+
+<p><strong>Boarding Schools (Criterion E)</strong></p>
+
+<p>The systematic removal of Indian children from their parents and placement into boarding schools was a policy implemented by the United States meant to <a href="https://redd.it/8zgozt">force American Indian children to assimilate into American culture,</a> thus “[killing] the Indian, [and saving] the man.” These schools were operated by various entities, including the federal government and church/missionary organizations. While constituting cultural genocide as well, American Indian children were beaten, neglected, and barred from practicing their cultures. Some children even died at these schools.</p>
+
+<p>##But What About the Diseases?</p>
+
+<p>In the United States, a subtle state of denial exists regarding portions of this country’s history. One of the biggest issues concerning the colonization of the Americas is whether or not this genocide was committed by the incoming colonists. And while the finer points of this subject are still being discussed, few academics would deny that acts of genocide were committed. However, there are those who vehemently attempt to refute conclusions made by experts and assert that no genocide occurred. These <a href="https://redd.it/6kywre">“methods of denialism”</a> are important to recognize to avoid being manipulated by those who would see the historical narratives change for the worse.</p>
+
+<p>One of the primary methods of denial is the over severity of diseases introduced into the Americas after the arrival of the colonizers, effectively turning these diseases into ethopoeic scapegoats responsible for the deaths of Indigenous Peoples. While it is true that disease was a huge component of the depopulation of the Americas, often resulting in up to a 95% mortality rate for many communities and meaning <em>some</em> communities endured more deaths from disease, these effects were greatly exacerbated by actions of colonization.</p>
+
+<p>##Further Reading</p>
+
+<p>Though there is much information about this topic, this introductory list of books and resources provide ample evidence to attest the information presented here:</p>
+
+<ul>
+  <li><a href="https://books.google.com/books/about/Beyond_Germs.html?id=yUw-rgEACAAJ"><em>Beyond Germs: Native Depopulation in North America</em> edited by Catherine Cameron, Paul Kelton, and Alan Swedlund</a></li>
+  <li><a href="https://books.google.com/books/about/American_Indian_Holocaust_and_Survival.html?id=9iQYSQ9y60MC"><em>American Indian Holocaust and Survival: A Population History Since 1492</em> by Russell Thornton</a></li>
+  <li><a href="https://books.google.com/books/about/Murder_State.html?id=TfiD-E7VBKYC"><em>Murder State: California’s Native American Genocide, 1846-1873</em> by Brendan Lindsay</a></li>
+  <li><a href="https://books.google.com/books/about/Blood_and_Soil.html?id=XR91bs70jukC"><em>Blood and Soil: A World History of Genocide and Extermination from Sparta to Darfur</em> by Ben Kiernan</a></li>
+  <li><a href="https://books.google.com/books/about/American_Holocaust.html?id=RzFsODcGjfcC"><em>American Holocaust: The Conquest of the New World</em> by David Stannard</a></li>
+  <li><a href="https://redd.it/2vf565"><em>Myths of Conquest</em></a> by /u/anthropology_nerd</li>
+  <li><a href="https://www.reddit.com/r/AskHistorians/wiki/nativeamerican#wiki_european_contact_and_conquest">AskHistorians FAQ</a></li>
+</ul>
+
+<h3 id="191-beside-the-post-soviet-transformation-like-many-former-ussr-countries-where-there-any-conflicts-with-russia--russian-minorities-in-the-ukraine-between-1991-and-2014-submitted-on-2022-03-03-0136120800">191: <a href="https://old.reddit.com/r/AskHistorians/comments/t55h3y/beside_the_postsoviet_transformation_like_many/">Beside the post-soviet transformation like many former USSR countries, where there any conflicts with Russia / Russian minorities in the Ukraine between 1991 and 2014?</a>, submitted on 2022-03-03 01:36:12+08:00.</h3>
+
+<p>—– <strong>191.1</strong> —–2022-03-03 02:40:12+08:00:</p>
+
+<p>This submission has been removed because it violates our <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events">‘20-Year Rule’</a>. To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult <a href="https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/">this Rules Roundtable</a>.</p>
+
+<h3 id="192-what-wars-in-the-history-of-mankind-were-fought-over-women-submitted-on-2022-03-03-0225350800">192: <a href="https://old.reddit.com/r/AskHistorians/comments/t56m3d/what_wars_in_the_history_of_mankind_were_fought/">What wars in the history of mankind were fought over women?</a>, submitted on 2022-03-03 02:25:35+08:00.</h3>
+
+<p>—– <strong>192.1</strong> —–2022-03-03 02:40:53+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="193-what-was-the-most-successful-invasion-biggest-is-not-the-same-thing-submitted-on-2022-03-03-0230010800">193: <a href="https://old.reddit.com/r/AskHistorians/comments/t56pkz/what_was_the_most_successful_invasion_biggest_is/">What was the most successful invasion? (Biggest is not the same thing.)</a>, submitted on 2022-03-03 02:30:01+08:00.</h3>
+
+<p>—– <strong>193.1</strong> —–2022-03-03 02:40:58+08:00:</p>
+
+<p>This submission has been removed because it violates the <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions">rule on poll-type questions</a>. These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the “most”, the “worst”, “unknown”, or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult <a href="https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/">this Roundtable discussion</a>.</p>
+
+<p>For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.</p>
+
+<h3 id="194-the-boy-in-the-striped-pajamas-is-going-to-get-a-sequel-for-some-reason-and-ive-been-seeing-a-few-takes-that-the-first-book-was-actually-quite-problematic-what-are-the-issues-with-it-submitted-on-2022-03-03-0337050800">194: <a href="https://old.reddit.com/r/AskHistorians/comments/t58805/the_boy_in_the_striped_pajamas_is_going_to_get_a/">‘The Boy in the Striped Pajamas’ is going to get a sequel for some reason, and I’ve been seeing a few takes that the first book was actually quite problematic. What are the issues with it?</a>, submitted on 2022-03-03 03:37:05+08:00.</h3>
+
+<p>—– <strong>194.1</strong> —–2022-03-03 15:04:59+08:00:</p>
+
+<p>Thank you!</p>
+
+<h3 id="195-gen-3-out-to-eat-hololive-submitted-on-2022-03-03-0736460800">195: <a href="https://old.reddit.com/r/2DGirlsEatingCutely/comments/t5dg4h/gen_3_out_to_eat_hololive/">Gen 3 Out to Eat [Hololive]</a>, submitted on 2022-03-03 07:36:46+08:00.</h3>
+
+<p>—– <strong>195.1</strong> —–2022-03-04 12:50:02+08:00:</p>
+
+<p>I’d say it’s ‘apparently’ in that the termination notice didn’t specifically state an NDA violation, only that she leaked information and spread falsehoods to outside third parties. As an NDA only pertains to the terms of the agreement in and of itself, if she didn’t leak the terms of the agreement in and of itself that could be a general contract violation without being a specific NDA violation.</p>
+
+<h3 id="196-what-event-after-archduke-franz-ferdinands-death-made-ww1-an-absolute-inevitability-submitted-on-2022-03-03-0957360800">196: <a href="https://old.reddit.com/r/AskHistorians/comments/t5g8u9/what_event_after_archduke_franz_ferdinands_death/">What event after Archduke Franz Ferdinand’s death made WW1 an absolute inevitability?</a>, submitted on 2022-03-03 09:57:36+08:00.</h3>
+
+<p>—– <strong>196.1</strong> —–2022-03-03 11:49:16+08:00:</p>
+
+<p>Hi there - unfortunately we have had to remove your question, because <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework">/r/AskHistorians isn’t here to do your homework for you</a>. However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself.</p>
+
+<p>If you have indeed asked a homework question, you should consider resubmitting a question more focused on finding resources and seeking clarification on confusing issues: tell us what you’ve researched so far, what resources you’ve consulted, and what you’ve learned, and we are more likely to approve your question. Please see this <a href="https://www.reddit.com/r/AskHistorians/comments/hplxyf/rules_roundtable_xx_the_no_homework_rule/">Rules Roundtable</a> thread for more information on what makes for the kind of homework question we’d approve. Additionally, if you’re not sure where to start in terms of finding and understanding sources in general, we have a six-part series, “<a href="https://www.reddit.com/r/AskHistorians/wiki/theory#wiki_monday_methods.3A_finding_and_understanding_sources">Finding and Understanding Sources</a>”, which has a wealth of information that may be useful for finding and understanding information for your essay. Finally, other subreddits are likely to be more suitable for help with homework - try looking for help at /r/HomeworkHelp.</p>
+
+<p>Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you <strong>wait for 7 days</strong> and then ask a less open-ended question on the same topic.</p>
+
+<h3 id="197-following-switzerland-amongst-many-other-countries-denouncement-of-russia-is-this-the-most-united-europe-has-ever-been-submitted-on-2022-03-03-1139400800">197: <a href="https://old.reddit.com/r/AskHistorians/comments/t5i82z/following_switzerland_amongst_many_other/">Following Switzerland, amongst many other countries denouncement of Russia, is this the most united Europe has ever been?</a>, submitted on 2022-03-03 11:39:40+08:00.</h3>
+
+<p>—– <strong>197.1</strong> —–2022-03-03 12:43:12+08:00:</p>
+
+<p>This submission has been removed because it involves current events.  To keep from discussion of politics, we have a <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events">20-year rule</a> here.  You may want to try /r/ask_politics, /r/NeutralPolitics, or another current-events focused sub. For further explanation of this rule, feel free to consult <a href="https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/">this Rules Roundtable</a>.</p>
+
+<h3 id="198-are-there-any-good-easy-books-on-the-sui-or-tang-dynasties-of-china-submitted-on-2022-03-03-1152480800">198: <a href="https://old.reddit.com/r/AskHistorians/comments/t5igvw/are_there_any_good_easy_books_on_the_sui_or_tang/">Are there any good, easy books on the Sui or T’ang Dynasties of China?</a>, submitted on 2022-03-03 11:52:48+08:00.</h3>
+
+<p>—– <strong>198.1</strong> —–2022-03-03 19:02:16+08:00:</p>
+
+<p>For what it’s worth (and letting u/RiceEatingSavage know), both the <em>History of Imperial China</em> series, to which Lewis’ <em>China’s Cosmopolitan Empire</em> belongs, and the <em>Cambridge History of China</em> are both listed on the booklist, even if the individual volumes aren’t.</p>
+
+<h3 id="199-is-the-1962-documentary-t-e-lawrence-1888-1935-directed-by-malcolm-brown-philip-donnellan-avaliable-anywhere-on-or-offline-submitted-on-2022-03-03-1213490800">199: <a href="https://old.reddit.com/r/AskHistorians/comments/t5iuvq/is_the_1962_documentary_t_e_lawrence_18881935/">Is the 1962 documentary “T. E. Lawrence 1888-1935” Directed by Malcolm Brown, Philip Donnellan avaliable anywhere on or offline?</a>, submitted on 2022-03-03 12:13:49+08:00.</h3>
+
+<p>—– <strong>199.1</strong> —–2022-03-03 12:43:35+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="200-is-there-a-moment-in-history-were-a-leader-has-abused-their-power-hurting-the-people-they-lead--followers-submitted-on-2022-03-03-1234160800">200: <a href="https://old.reddit.com/r/AskHistorians/comments/t5j8dq/is_there_a_moment_in_history_were_a_leader_has/">Is there a moment in history we’re a leader has abused their power hurting the people they leAd / followers?</a>, submitted on 2022-03-03 12:34:16+08:00.</h3>
+
+<p>—– <strong>200.1</strong> —–2022-03-03 12:43:25+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="201-historians-what-do-you-think-would-have-happened-if-ww1-never-started-submitted-on-2022-03-04-0349570800">201: <a href="https://old.reddit.com/r/AskHistorians/comments/t600ix/historians_what_do_you_think_would_have_happened/">Historians, What do you think would have happened if ww1 never started?</a>, submitted on 2022-03-04 03:49:57+08:00.</h3>
+
+<p>—– <strong>201.1</strong> —–2022-03-04 04:02:08+08:00:</p>
+
+<p>Sorry, but your submission has been removed because we <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F">don’t allow hypothetical questions</a>. If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule <a href="https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/">here</a>.</p>
+
+<h3 id="202-posting-azki-pics-until-she-joins-rhololive-day-9-day-374-submitted-on-2022-03-04-1326040800">202: <a href="https://old.reddit.com/r/Hololive/comments/t6bk6c/posting_azki_pics_until_she_joins_rhololive_day_9/">Posting AZKi pics until she joins r/Hololive. DAY 9 (DAY 374)</a>, submitted on 2022-03-04 13:26:04+08:00.</h3>
+
+<p>—– <strong>202.1</strong> —–2022-03-05 13:08:27+08:00:</p>
+
+<p>I had a quick look at the timeline, and that came out on 29 May 2019, which was 10 days after Suisei announced she’d joined INNK, so this was right at the beginning of Suisei’s time at holopro rather than during her time as an indie.</p>
+
+<h3 id="203-is-putins-idea-of-de-nazification-a-reference-to-de-stalinization-what-is-the-history-of-these-terms-and-how-are-they-related-submitted-on-2022-03-04-1847550800">203: <a href="https://old.reddit.com/r/AskHistorians/comments/t6gc18/is_putins_idea_of_denazification_a_reference_to/">Is Putin’s idea of “de-Nazification” a reference to “de-Stalinization”? What is the history of these terms and how are they related?</a>, submitted on 2022-03-04 18:47:55+08:00.</h3>
+
+<p>—– <strong>203.1</strong> —–2022-03-04 18:52:02+08:00:</p>
+
+<p>This submission has been removed because it involves current events.  To keep from discussion of politics, we have a <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events">20-year rule</a> here.  You may want to try /r/ask_politics, /r/NeutralPolitics, or another current-events focused sub. For further explanation of this rule, feel free to consult <a href="https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/">this Rules Roundtable</a>.</p>
+
+<h3 id="204-during-the-ming-dynasty-were-there-any-chinese-cities-beyond-the-great-wall-submitted-on-2022-03-05-1049130800">204: <a href="https://old.reddit.com/r/AskHistorians/comments/t6zpmj/during_the_ming_dynasty_were_there_any_chinese/">During the Ming dynasty, were there any Chinese cities beyond the great wall?</a>, submitted on 2022-03-05 10:49:13+08:00.</h3>
+
+<p>—– <strong>204.1</strong> —–2022-03-06 04:03:00+08:00:</p>
+
+<p>Yes and no, depending on how exactly you define the Great Wall. The Ming did maintain a substantial presence in Liaodong, the relatively arable southern part of what is termed ‘Manchuria’ (also ‘the Northeast’), with the principal urban concentrations being at Shenyang (which the Manchus later renamed Mukden) and Liaoyang. However, these cities were located entirely behind a system known as the Liaodong Wall. <a href="https://i.pinimg.com/originals/41/79/68/4179682e848b6285de1da2eb0846ad8a.jpg">This map</a> doesn’t really highlight the topography unfortunately, but it does show where the Ming presence was – note by the way that this is a general map of wall systems, and that the Yan/Qin/Han walls were long eroded by the time the Ming were in the region.</p>
+
+<p>Whether or not we ought to count the Liaodong Wall as part of the ‘Great Wall’ under the Ming is an open question, especially as the ‘Great Wall’ designation was largely consolidated under the Qing, by which stage the walls as an actual military system had been superseded. One point against such a designation would be that the majority of the Ming walls were substantial masonry constructions with towers and crenellations, whereas the Liaodong Wall was mostly an earthen ditch and rampart. Perhaps the more important is that in Ming use, ‘beyond the pass[es]’ (<em>guanwai</em> 關外) was used to refer to both Central Asia and to Manchuria: the passes in question were the Jiayu 嘉峪 (‘Excellent Valley’) Pass at the western end of the wall system in the Gansu Corridor and the Shanhai 山海 (‘Mountain and Sea’) Pass at the eastern end on the coast of the Gulf of Bohai. Yet on the other hand, the Ming’s Nine Border Garrisons (<em>jiu bianzhen</em> 九邊鎮) included Liaodong as one of the nine. So while Liaodong lay beyond the Ming’s principal fortification line, its military security fell under the remit of the same system that covered the wall.</p>
+
+<p>Unfortunately, there is not – or I am simply not particularly aware of or able to easily find – much discussion in English of these cities and their internal structure, except a little bit in the context of the Qing conquest, itself a period whose specifics I’m not hugely up to speed on anymore. That said, the expansion of Ming settlement in the region was, ironically, a big part of the state’s eventual downfall, which gets into the rather better-studied issue of Ming relations with the Tungusic and Mongolian tribes. Modern maps like to claim the Ming ruled over a substantial stretch of coast up along the Strait of Tartary between Sakhalin and the Eurasian continent, but in practical terms they exercised little meaningful control beyond the Liaodong Wall. Insofar as any control was exerted over the tribes, it was by way of trade arrangements which economically incentivised loyalty to the Ming, while also serving as a supply of certain strategic resources, particularly good warhorses, which the Ming were unable to procure domestically.</p>
+
+<p>These arrangements, described in relative detail by Gertraude Roth Li, took two forms. Firstly, border markets were established at the edges of the Ming-ruled zone, at which tribes who were in good standing with the Ming were allowed to trade: Kaiyuan was first established as a market for the Haixi Jurchens, then Fushun was set up as the hub for the Jianzhou Jurchens, and in 1576 three more markets were opened at Qinghe, Aiyang, and Kuandian. Supplementing this regular commerce was the tribute patent system, whereby loyal chiefs were issued with printed patents (<em>chishu</em> 敕書) that entitled their holders to travel to Beijing with a retinue, presenting local goods as gifts for the emperor in exchange for a more substantial and valuable set of gifts in return, as well as giving them the opportunity to trade at markets in Beijing while they were there. After the Ming started imposing limits on the number of followers to be admitted per patent, individual chieftains began seeking to gain control of these patents through alliance-building, vassalage, theft, or force of arms.</p>
+
+<p>The patent system naturally drove ambitious chieftains to try to consolidate power over the tribes in pursuit of the economic benefits that they provided. In the 1550s, a chief (<em>beile</em>) of the Hada tribe of Haixi Jurchens, known as Wang Tai, expanded his dominions through marriage alliances and wars of conquest, and eventually claimed rule over all of the Haixi tribes (the others being the Ula, Yehe, and Hoifa) as well as the Hun River tribe of the Jianzhou; by extension he also claimed all of the tribute patents that the Ming had issued to members of these tribes. Wang Tai became powerful enough that he declared himself a khan, but continued to declare fealty to the Ming until his death in 1582. This loyalty would be demonstrated when he handed over the Jianzhou Jurchen chieftain Wang Kao for execution after he fled to Haixi territory following a Ming military expedition in 1575. The Haixi fell apart after Wang Tai’s death, but the process basically repeated with a Jianzhou Jurchen of the Suksuha River tribe named Nurgaci, who gained leadership of the tribe after the deaths of his father Giocangga and brother Taksi in battle in 1582. Nurgaci’s consolidation of the Jianzhou, like Wang Tai’s consolidation of the Haixi, was fuelled by the prospect of increased trade with the Ming through control of tribute patents. The Suksuha tribe had held 30 patents, out of 500 total allotted to the Jianzhou that Nurgaci would eventually gain control of; Nurgaci’s subsequent subjugation of the Haixi brought his total close to 900. If the system had originally been devised to reward Ming proxies and keep the tribes divided, the Ming’s handling of it had fatally subverted it by instead rewarding tribal consolidation.</p>
+
+<p>But the border markets were no less significant in this process. As the Ming presence in Liaodong became more established, the region’s local economy became increasingly substantial, and so the necessity of the formal tribute trade decreased as the capacity of regular border trade grew. This became particularly stark with increasing Ming demand for sable furs and ginseng (a medicinal root), for which they were willing to pay out the nose. The tribes that had better access to these commodities profited immensely off the insatiable Chinese demand for them, and with this wealth bought iron and food, the former of which would be made into tools and weapons, and the latter of which was vital for ensuring the stability of large political formations, as a failure to maintain food security spelled doom for any tribal confederation. If the patents supplied the Jurchen chiefs with an incentive to increase their power, the border markets, fuelled by the growth of the region’s urban communities, gave them the means first to expand and then to consolidate that power. Nurgaci would be no exception.</p>
+
+<p>In parallel with commerce, Nurgaci’s confederation grew its strength through taking captives and slaves from the Han Chinese population of the region, principally to be forced into agricultural labour as <em>aha</em>. As Li notes, however, by the mid-1610s more captives had been taken than there was arable land to force them to work on, and the confederation’s food situation was becoming problematic. Things came to a head in 1618, when the Ming embargoed Nurgaci, cutting off the possibility of buying grain at the Ming border markets. Nurgaci first subjugated and looted the Yehe tribe, then issued a declaration of war against the Ming and sacked Fushun and Qinghe, with the end goal being to secure control over Liaodong and supply his confederation with the region’s agriculture. In 1619, the Ming and their allies in Joseon Korea and the Yehe dispatched a punitive expedition in four columns, totalling around 100,000 men, converging on Nurgaci’s headquarters at Sarhū. The subsequent Battle of Sarhu saw a concentrated Jurchen army defeat the Ming-Korean columns in detail, shattering Ming military power in the region for several years and paving the way for the capture of the major Ming cities, with Shenyang and Liaoyang falling by the end of 1621.</p>
+
+<p>The Ming still held onto a number of fortifications which staved off further Jurchen advances until the 1630s: in southwestern Manchuria were the key fortresses at Dalinghe and Ningyuan, while to the east, they still held onto the port at Lüshun until 1634. Logistics for the Ming military in the region had always been a serious issue, as with no developed ports at the mouth of the Liao, any attempt to maintain more troops than local agricultural surplus allowed would have to be done by transporting goods along the coastal road. With the Jurchens able to mobilise more or less their entire base against the Ming in Liaodong, while the Ming were bottlenecked at the Shanhai Pass, the region’s security had always relied on preventing the tribes from building up a confederation of sufficient size to overcome the Ming presence. But a combination of poor Ming policy, and the growth of the very cities the Ming were trying to hold on to, created an environment that encouraged that exact process.</p>
+
+<h3 id="sources-and-further-reading">Sources and Further Reading</h3>
+
+<ul>
+  <li>
+    <p>Arthur Waldron, <em>The Great Wall of China: From History to Myth</em> (1989)</p>
+  </li>
+  <li>
+    <p>James Millward, <em>Beyond the Pass: Economy, Ethnicity, and Empire in Qing Central Asia, 1759-1864</em> (1998)</p>
+  </li>
+  <li>
+    <p>Gertraude Roth Li, ‘State Building Before 1644’, in Willard J Peterson (ed.), <em>The Cambridge History of China, Volume 9: The Ch’ing Empire to 1800, Part 1</em> (2002)</p>
+  </li>
+  <li>
+    <p>Masato Hasegawa, ‘Measuring Reliability In The Wartime Transport of Provisions: The Case of Mao Yuanyi (1594–1641)’, <em>Ming Studies</em> 80, pp. 2-30 (2019)</p>
+  </li>
+</ul>
+
+<h3 id="205-when-did-giant-pandas-become-an-iconic-creature-of-chinese-culture-they-dont-seem-to-be-featured-very-much-in-pre-modern-chinese-art-submitted-on-2022-03-05-2319090800">205: <a href="https://old.reddit.com/r/AskHistorians/comments/t7blhu/when_did_giant_pandas_become_an_iconic_creature/">When did giant pandas become an iconic creature of Chinese culture? They don’t seem to be featured very much in pre-modern Chinese art.</a>, submitted on 2022-03-05 23:19:09+08:00.</h3>
+
+<p>—– <strong>205.1</strong> —–2022-03-07 14:58:41+08:00:</p>
+
+<h3 id="introduction">Introduction</h3>
+
+<p>The cultural history of the panda is something for which interest has been surprisingly recent, and the available material on the subject is quite limited for it. As it currently stands, there are really only four works in English discussing the topic: Wei Peh T’i’s short 1988 article ‘Through Historical Records and Ancient Writings in Search of the Giant Panda’; Henry Nichols’ 2011 popular-press book, <em>Way of the Panda: The Curious History of China’s Political Animal</em>, Donald Harper’s 2012/13 article ‘The Cultural History of the Giant Panda in Early China’, and Elena Songster’s 2018 book <em>Panda Nation: The Construction and Conservation of China’s Modern Icon</em>, about which she has also written a partial summary <a href="https://chinadialogue.net/en/nature/11181-panda-nation-the-construction-and-conservation-of-china-s-modern-icon/">here</a>. I would recommend reading the Songster’s full book if you wish to find out more in detail. As for myself, I will provide somewhat of a potted summary of this material here, though I will admit to being somewhat out of my usual depth.</p>
+
+<p>The broader cultural history of the giant panda can more or less be divided into four areas: the status of pandas in pre-modern China (defined, vaguely, as the period up to around 1840); the period of predominantly Western interest in the panda, between its ‘discovery’ by a French zoologist in 1869 and the outbreak of the Second Sino-Japanese War in 1937; the status of the panda under the Communist government; and the PRC’s ‘panda diplomacy’. Here I’ll focus more on the first two as they fall more within my area of general familiarity, and again I’d urge anyone interested in the modern cultural history of the panda to read Songster.</p>
+
+<h3 id="1-the-panda-in-pre-modern-china">1: The Panda in Pre-Modern China</h3>
+
+<p>It may be surprising to learn just how obscure the giant panda was within China before the twentieth century, but it perhaps makes a little more sense when viewed in a deeper context. <a href="https://upload.wikimedia.org/wikipedia/commons/2/26/Mapa_distribuicao_Ailuropoda_melanoleuca.png">This map</a> used on Wikipedia seems to suggest the panda’s historic range is slap bang in the middle of China, but there are two substantial caveats to be made. Firstly, the pocket off to the east is the range of the brown Qinling panda rather than the more familiar black-and-white patterned one; secondly, this primary range, in the uplands of Sichuan and Gansu, fell within what was, for most of Chinese history, a relatively fluid borderland region, where Chinese state power was comparatively tenuous and where Han Chinese settlers lived alongside indigenous and Tibetan communities. The authors of compendia on natural history, being largely Han elites from urban centres, often felt little reason to actually go out to these far-flung, lawless regions, and instead simply reported on earlier claims. As such, we have many textual descriptions, but there are no known drawn-from-life illustrations of pandas before the nineteenth century.</p>
+
+<p>As such, until recently there has been considerable dispute over even what the pre-modern name of the giant panda was, as there are several terms applied to descriptions of animals that could be reconciled with the panda, spread thinly over nearly three millennia of textual records. In 1988, Wei listed three candidates in what he considers an increasing order of probability:</p>
+
+<ul>
+  <li>
+    <p>The <em>pixiu</em> (貔貅), attested in a 3rd century BCE, the <em>Erya</em>, and described as ‘resembling either a tiger or a bear’.</p>
+  </li>
+  <li>
+    <p>The <em>mo</em> (貘), attested principally in two works: that of the 16th century CE natural historian Li Shizhen, who described it as an aggressive animal with a yellow and black appearance native to Sichuan that ate bamboo, and the <em>Erya</em>, which described it as a white and black leopard that ate bamboo. One problem with this is that <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/De_Lasteyrie_lithograph_of_mo_%E8%B2%98.svg/1920px-De_Lasteyrie_lithograph_of_mo_%E8%B2%98.svg.png">illustrations of the <em>mo</em></a> depict a creature with leopard spots and a wolf-like head and limbs, plus a small elephant-like trunk, and so was believed by some to be a representation of the Malayan tapir; not only that, the term <em>mo</em> is now the Chinese term for a tapir.</p>
+  </li>
+  <li>
+    <p>The <em>zhouyu</em> (騶虞), which appears in the <em>Book of Odes</em> (frequently recompiled but consisting of poems from the 11th-7th centuries BCE) as a herbivorous animal the size of a tiger with white and black fur, but also with a tail longer than the rest of its body. This last detail is dropped from later descriptions. Chronicles down to the Ming often describe sightings of <em>zhouyu</em>, but for one these rarely describe the animal, suggesting a certain mythical motif akin to dragons, qilin, and phoenixes, and for another one such sighting was in Liaodong, far from the panda’s habitat.</p>
+  </li>
+</ul>
+
+<p>Nichols replicates Wei’s information in his in 2011 book, but Harper’s article, published the next year, shows that the use of <em>mo</em> to describe animals fitting the description of the panda go back to the turn of the 2nd century CE, and that insofar as real pandas were ever being described, <em>mo</em> was the term consistently used for them. This does, however, raise the problem of the tapir-looking creature. This seems to first date to the late 8th/early 9th century, when the poet Bo Juyi wrote of a painting of a <em>mo</em> next to his bed, described as having an elephant’s trunk, a rhinoceros’ eyes, a cow’s tail and a tiger’s paws. This literary description seems to have served as the basis for illustrations like the one linked above. How the <em>mo</em> became associated with the tapir relates to the second part of the story, that being European interest in the panda.</p>
+
+<h3 id="2-the-panda-in-the-age-of-empire">2. The Panda in the Age of Empire</h3>
+
+<p>The association of the <em>mo</em> with tapirs began with Jean-Pierre Abul-Rémusat, a doctor turned Sinologist who had been the first holder of the chair of Chinese and Manchu language and literature at the Collège de France when the position was created in 1814. In 1816, Georges Cuvier informed Abul-Rémusat of the discovery of tapirs on Sumatra, and Abul-Rémusat began looking into Chinese and Japanese woodblock prints depicting the <em>mo</em>. Believing Chinese zoological texts to be generally accurate and to at worst be confused about real-world animals rather than including fully legendary creatures, Abul-Rémusat argued that depictions of the <em>mo</em> were intentional depictions of either the Malayan tapir or possibly an older extinct species. The <em>mo</em> character then ended up being used for the tapir in Japanese texts, and in turn was retransmitted to China. At the same time, the term in China had long been decoupled from any real animal, and few outside of the Sichuan uplands had seen one in order to describe it anyway. The giant panda was, for the most part, absent from Qing encyclopaedias.</p>
+
+<p>Western interest in the actual panda itself began at the close of the 1860s, as the Taiping War wrapped and foreigners gained greater access to the Chinese interior per the stipulations of the treaties ending the Second Opium War. The French Catholic missionary and zoologist Armand David was travelling in Sichuan in early 1869 when he saw the pelt of a panda, referred to by locals as a ‘white bear’ (<em>bai xiong</em> 白熊) hanging on the wall of a local landowner’s house. He hired hunters to kill one and bring it to him, and he had it shipped off to Paris the next year. At no point was the word <em>mo</em> used.</p>
+
+<p>For the next few decades, most pandas which left China did so dead, including one shot by Theodore Roosevelt’s sons in 1920, although one panda cub named Su Lin was smuggled out of China by another American, Ruth Harkness, in 1936; it died in captivity in Chicago two years later. During the war years, pandas – both dead and alive – would still be shipped out of China to the Western world in limited numbers, made possible in large part due to Sichuan still falling within the nominal control of Chiang Kai-Shek’s ‘Free China’ as opposed to the Japanese zone. The most prominent of these would be a diplomatic gift of two live pandas, named Pan Dee and Pan Dah, made to the United States by Chiang’s wife Soong Mei-Ling in 1941.</p>
+
+<p>But for much of the period from David’s ‘discovery’ to the outbreak of war with Japan in 1937, interest in the panda within China was largely limited outside scientific circles. Granted, in this period, the term <em>xiongmao</em>/<em>maoxiong’</em> 熊貓/貓熊 (literally ‘bear-cat’/’cat-bear’) was coined for the panda in Standard Chinese – the former being preferred by scientific circles and the latter by lay readers. But the fact that the old term <em>mo</em> never made a resurgence is just one aspect of how limited interest had been all along, and a comparative apathy would continue for some time. So limited was this interest that the entry for <em>xiongmao</em> in the <em>Cihai</em> 辭海 encyclopaedic dictionary, first published in 1936, erroneously claimed, for one, that it was Roosevelt’s brothers who shot one, and for another that the <em>xiongmao</em> lived in Xinjiang rather than Sichuan, a mistake replicated in the 1937 edition of the <em>Guoyu cidian</em> 國語辭典 and in subsequent printings of the <em>Cihai</em> until its eventual second edition in 1979.</p>
+
+<p>—– <strong>205.2</strong> —–2022-03-07 14:58:45+08:00:</p>
+
+<h3 id="3-the-panda-in-communist-china">3. The Panda in Communist China</h3>
+
+<p>The PRC has never been particularly well known for its solid environmental policy, although a laser-focus on industrial pollution, agrarian… missteps like the anti-sparrow campaigns, and China’s market in ivory and other endangered animal products does obscure the fact that the PRC has, whatever its other faults, maintained a relatively longstanding commitment to domestic animal conservation – certain ‘Four Pests’ excepted. The PRC’s first nature reserve was established in 1956, and today there are some 500 across the country. This interest in conservation was driven in large part by the Communist Party’s emphasis on the natural sciences ‘as a means of both liberating and strengthening China as a nation’, to quote Songster. The Communist government thus had an ideologically-backed motive to heavily promote the sciences and institutions of scientific research, and conservation of nature for research purposes formed part of that pro-science policy. The giant panda was thus featured in a broader policy of animal conservation, as part of which was a set of restrictions on hunting that designated a number of ‘precious and rare species’. Nine such species, including the giant panda, were designated as such by the Ministry of Forestry in 1959, and the panda would top the list of 19 species promulgated by the ministry in 1962. In 1965, Wanglang Nature Reserve would begin operation as the first panda-focussed reserve.</p>
+
+<p>But the panda’s rise to prominence had already been well underway by 1959. The delivery of three pandas to the Beijing Zoo in 1955 had sparked considerable public attention towards the animal, and the Communist government also found a lot to like about the panda as a potential symbol. Firstly, the panda is a bit of a ‘living fossil’ – it has many unique features and is the only surviving species of its genus – which, in conjunction with its being native exclusively to Chinese territory, made it something that could be construed as quintessentially and timelessly Chinese. Secondly, the panda’s almost total absence from basically any literary and artistic output in the imperial and republican periods meant that it had virtually zero traditional cultural cachet, paradoxically making it an ideal icon of modernity as there was no prior ‘feudal’ baggage, and so any ideal projected onto it would be entirely new. Finally, there was also a certain value to what I’m going to call the ‘domestic exoticism’ of the panda, as although it had a construed Chineseness, it was also very specific to a particular region that was also, historically, on the fringe of what had been the core Chinese polity. The promotion of it in the metropole thus had a particular significance in the Communist government’s programme of post-Civil War nation-building, emphasising the unity of Chinese geographical space by creating a nationwide connection to a specific regional feature.</p>
+
+<p>What’s black and white and red all over? A panda during the Cultural Revolution. Songster argues that the panda gained especial prominence during the Cultural Revolution years (1966-76) as it was ‘apolitical and benign’, while still being mobilised as an icon of the nation and its new modernity, cutting across the factional divides of the late Mao era as a broadly ‘safe’ subject, both of propaganda and of research. Despite the broader environmental destruction that took place during the period, panda conservation continued at Wanglang, where a comprehensive survey of panda activity and population took place between 1967 and 1969. In the cultural sphere, traditional Chinese brush painting, or <em>guohua</em> 國畫, remained a prominent and promoted art form throughout the Mao years, but with a shift towards subjects not traditionally covered: ethnic minorities, peasants, industrial machinery, and, of course, the giant panda, a <em>guohua</em> depiction of which was used for postage stamps in 1963. During the height of the Cultural Revolution, the panda’s was a ‘safe’ subject to depict, firstly because it was not in and of itself political and was thus neutral in the wider conflict between CCP factions, and secondly because it nevertheless symbolised a wider notion of modernity and of Chinese nationhood that transcended such conflict. Pandas lent their name and brand to several enterprises and products in this period: Panda Electronics, Panda Cameras, even Panda Butter from Inner Mongolia.</p>
+
+<p>The impartial nature of the panda motif and its symbolising an essential Chinese nationhood allowed it to avoid being tainted by association with the Cultural Revolution, and its cultural cachet increased during the Deng Xiaoping years as emphasis on the nation replaced emphasis on revolution. In 1976, reports came in of mass starvation of pandas, eventually established as the result of bamboo flowering. (This is a natural part of bamboo’s life cycle, but is immediately followed by the stalks’ death; as large areas of bamboo are often technically the same plant they undergo this cycle simultaneously, leading to large areas of die-off.) As the facts became clear, there was a major official response, and the Ministry of Forestry and its sub-departments remained on alert for future incidents, such as one that took place in 1983. As Songster argues, whereas the response in 1976 was achieved primarily through state organs, 1983 saw a concerted effort at mass mobilisation, reflective of the panda shifting from an object of state ownership to one of collective ownership by the nation, as well as a symbol of China on the world stage. A special fund was set up, soliciting donations both domestically and internationally, raising the equivalent of nearly US$500,000. The panda became a ‘national treasure’ whose preservation had become a subject of national importance, while also developing into a key piece of China’s identity in the global world.</p>
+
+<h3 id="4-the-panda-in-the-world">4. The Panda in the World</h3>
+
+<p>It may be surprising, given the timeline above of the panda’s reception in China, to learn that the World Wildlife Fund (WWF) adopted its panda logo right at its founding in 1961, but the wartime trade in panda pelts had brought the animal to renewed Western attention. The added advantage of its being black and white and thus cheap and easy to reproduce as a logo was also not lost on them. China was not unaware of the value of the panda on a global level: in 1975 the nature documentary <em>Panda</em> would be paraded as a great triumph of modern Chinese filmmaking and sent to major film festivals and as part of state gifts, superseding conventional narrative cinema productions from that year.</p>
+
+<p>But at this time the panda was already an overt tool of PRC diplomacy in other ways, principally through distribution to foreign countries. Pandas were given out as state gifts to the USSR in 1957 and 1959, North Korea in 1965 and 1971, and, most famously, the United States and Japan in 1972. This would be followed with several further gifts, with France, the UK, and Mexico, among others, receiving them during the following decade. In total, some 24 pandas were sent overseas in the state gift programme. However, this demand for captive pandas both globally and domestically led to an increasing strain on the wild panda population, which led to the gift programme being halted in the early 1980s, and replaced with a loan programme beginning in 1984, with two pandas being loaned for the Summer Olympics in Los Angeles. Ironically, the scientific community protested that it was even worse as an option, as at least gifted pandas would remain in a given habitat for the remainder of their lives, while loaned pandas would be exposed to serious strain and shock from being moved around so frequently, with especial implications for their breeding cycle – something that I imagine will resonate with many readers here familiar with the memetically unlibidinous nature of captive pandas. There were several serious issues with the short-term loan programme, not least its flagrant violation of international conventions on the transport of endangered species, as it was a) financially lucrative, b) affected the animals’ health, c) did not appear to be to the species’ benefit, and d) did not advance scientific understanding of them. This led eventually to the long-term scientific loan programme under which pandas are loaned today, and a whole host of attendant political issues, although most of the relevant controversies, particularly the 2005 loan to Taiwan, postdate 2002 and thus the cutoff for discussion in this sub.</p>
+
+<h3 id="summary-and-conclusion">Summary and Conclusion</h3>
+
+<p>Pandas were not only ‘not featured very much in pre-modern Chinese art’, they were in fact entirely absent, although they were not total unknowns either. Rather, within elite circles they were simply a curiosity from the edges of the empire, occasionally elevated to the status of a legendary creature with no real links to the actual animal. The panda would gain prominence in the West as a zoological curiosity before it really gained any broad currency in China, which came in the wake of the Communist victory in the Civil War and an emphasis on the natural sciences that entailed a focus on animal conservation. By the early 1960s pandas would be cemented as a major motif in Communist art, and their symbolism of an essentialised Chinese identity and modernity allowed them to become an increasingly popularised symbol, decoupled from individual factional conflicts; in turn, Western and Chinese interest in the panda intersected with the growth of the panda gift and later loan programmes. At no point in this process was a switch flicked from non-icon to icon; the matter of what pandas were an icon <em>of</em> came to expand and solidify over the course of some three decades.</p>
+
+<h3 id="206-mori-mannerisms-submitted-on-2022-03-06-0530300800">206: <a href="https://old.reddit.com/r/Hololive/comments/t7jcc9/mori_mannerisms/">mori mannerisms</a>, submitted on 2022-03-06 05:30:30+08:00.</h3>
+
+<p>—– <strong>206.1</strong> —–2022-03-06 13:17:41+08:00:</p>
+
+<p>Is there a clip of it, or a timestamp?</p>
+
+<p>—– <strong>206.2</strong> —–2022-03-06 14:45:51+08:00:</p>
+
+<p>Cheers!</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-03-06</time>
+        <a href="https://nodebe4.github.io/opinion/2022-03-06/theoryofdoom/">
+          theoryofdoom在2022-02-28~2022-03-06的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-03-06</time>
+        <a href="https://nodebe4.github.io/opinion/2022-03-06/Spinkcat/">
+          Spinkcat在2022-02-28~2022-03-06的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-03-05</time>
+        <a href="https://nodebe4.github.io/opinion/2022-03-05/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-02-28~2022-03-06的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-02-27</time>
+        <a href="https://nodebe4.github.io/opinion/2022-02-27/theoryofdoom/">
+          theoryofdoom在2022-02-21~2022-02-27的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-03-05/%E4%BF%84%E7%83%8F%E6%88%B0%E7%88%AD-%E4%BF%84%E5%9C%8B%E6%95%97-%E4%B8%AD%E5%85%B1%E5%8D%B1-%E6%8B%9C%E7%99%BB%E9%8C%AF-%E9%80%8F%E8%A6%96%E8%B2%A1%E7%B6%93-0029-SinoInsider-20220305/">
+            前一篇：俄烏戰爭 俄國敗 中共危 拜登錯｜透視財經【0029】SinoInsider 20220305
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-03-06/Spinkcat/">
+            後一篇：Spinkcat在2022-02-28~2022-03-06的言论
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-03-05/%E4%BF%84%E7%83%8F%E6%88%B0%E7%88%AD-%E4%BF%84%E5%9C%8B%E6%95%97-%E4%B8%AD%E5%85%B1%E5%8D%B1-%E6%8B%9C%E7%99%BB%E9%8C%AF-%E9%80%8F%E8%A6%96%E8%B2%A1%E7%B6%93-0029-SinoInsider-20220305/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-03-06/Spinkcat/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-03-06/Spinkcat/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-03-05/ForeignAffairsMag/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-03-05/%E4%BF%84%E7%83%8F%E6%88%B0%E7%88%AD-%E4%BF%84%E5%9C%8B%E6%95%97-%E4%B8%AD%E5%85%B1%E5%8D%B1-%E6%8B%9C%E7%99%BB%E9%8C%AF-%E9%80%8F%E8%A6%96%E8%B2%A1%E7%B6%93-0029-SinoInsider-20220305/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-03-06/Spinkcat/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-03-06/Spinkcat/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-03-05/ForeignAffairsMag/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

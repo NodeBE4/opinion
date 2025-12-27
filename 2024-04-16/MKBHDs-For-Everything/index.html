@@ -1,0 +1,3068 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>MKBHDs For Everything – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+MKBHDs For Everything
+——
+" />
+    <meta property="og:description" content="
+MKBHDs For Everything
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="MKBHDs For Everything" />
+    <meta property="twitter:title" content="MKBHDs For Everything" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2024%2Fmkbhds-for-everything%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2024/mkbhds-for-everything/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2024/mkbhds-for-everything/&text=MKBHDs For Everything&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2024/mkbhds-for-everything/&title=MKBHDs For Everything" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2024/mkbhds-for-everything/&title=MKBHDs For Everything" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=MKBHDs For Everything&body=
+MKBHDs For Everything
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2024/mkbhds-for-everything/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2024/mkbhds-for-everything/&title=MKBHDs For Everything&caption=
+MKBHDs For Everything
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=MKBHDs For Everything&url=https://stratechery.com/2024/mkbhds-for-everything/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>MKBHDs For Everything</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2024-04-16
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2024/mkbhds-for-everything/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1713281112000-->
+<p><a href="https://stratechery.com/2024/mkbhds-for-everything/">MKBHDs For Everything</a>
+——</p>
+
+<div>
+  <p>Anniversaries are strange: no one but those involved have any reason to even know they exist, which makes them easy to skip; for example, last year I mostly ignored the <a href="https://stratechery.com/2013/welcome-to-stratechery/">10 year anniversary of starting Stratechery</a> because I was more eager to write about <a href="https://stratechery.com/2023/chatgpt-learns-computing/">ChatGPT Getting a Computer</a>. That leaves today, April 16, as my last chance to mark a tin anniversary: ten years ago Stratechery <a href="https://stratechery.com/2014/welcome-stratechery-20/">added a subscription option</a>, making this my full-time job.</p>
+  <p>It was, for the record, a miserable day: I had a convoluted plan to offer different site experiences for subscribers and non-subscribers: the former would receive daily linked-list updates (a la <a href="https://daringfireball.net/">Daring Fireball</a>) while the latter would still have access to longer-form Articles; I scrapped the concept <a href="https://stratechery.com/2014/free-stratechery-daily-email/">two days later</a> in favor of simply sending subscribers a daily email, and so the paid newsletter model was born.</p>
+  <p>That accident of history ended up being why this anniversary is actually more meaningful to me: while I am most well-known for Stratechery, I am equally proud of the paid newsletter model — services like Substack <a href="https://pressgazette.co.uk/platforms/platform-profiles/substack-newsletter-platform/">were based on Stratechery</a> — and gratified that so many writers are making a living connecting directly with readers.</p>
+  <p>Of course newsletters aren’t the only medium where this happens (and, in fact, I’ve never viewed Stratechery as a newsletter; it’s a blog that you can read via email); there are also podcasts (which <a href="https://stratechery.com/stratechery-plus/">Stratechery has expanded into</a>) and YouTube (like and subscribe to the <a href="https://www.youtube.com/@Stratechery">Stratechery</a> and <a href="https://www.youtube.com/@SharpTechPodcast">Sharp Tech</a> channels!). The king of the latter, at least when it comes to tech, is Marques Brownlee, aka <a href="https://twitter.com/mkbhd">MKBHD</a>.</p>
+  <h3 id="the-humane-ai-pin">The Humane AI Pin</h3>
+  <p>Humane introduced the wearable AI Pin at <a href="https://www.youtube.com/watch?v=gMsQO5u7-NQ">a TED Talk 11 months ago</a>, painting the vision of a future without screens, powered by AI. I was, for the record, pretty skeptical: most new tech categories layer on top of what came before, as opposed to outright replacing them; Humane’s proposal of a wearable device that was completely independent of the phone in your pocket seemed unlikely to succeed. Still, I was cheering for them: I applaud any company trying to build something new, and AI provides the opening for new experimentation.</p>
+  <p>Unfortunately, last week the reviews of the AI Pin came out and they were universally terrible; The Verge’s headline summed up the sentiment: <a href="https://www.theverge.com/24126502/humane-ai-pin-review">Humane AI Pin review: not even close</a>. David Pierce wrote:</p>
+  <blockquote>
+    <p>I came into this review with two big questions about the AI Pin. The first is the big-picture one: is this thing… anything? In just shy of two weeks of testing, I’ve come to realize that there are, in fact, a lot of things for which my phone actually sucks. Often, all I want to do is check the time or write something down or text my wife, and I end up sucked in by TikTok or my email or whatever unwanted notification is sitting there on my screen. Plus, have you ever thought about how often your hands are occupied with groceries / clothes / leashes / children / steering wheels, and how annoying / unsafe it is to try to balance your phone at the same time? I’ve learned I do lots of things on my phone that I might like to do somewhere else. So, yeah, this is something. Maybe something big. AI models aren’t good enough to handle everything yet, but I’ve seen enough glimmers of what’s coming that I’m optimistic about the future.</p>
+    <p>That raises the second question: should you buy this thing? That one’s easy. Nope. Nuh-uh. No way. The AI Pin is an interesting idea that is so thoroughly unfinished and so totally broken in so many unacceptable ways that I can’t think of anyone to whom I’d recommend spending the $699 for the device and the $24 monthly subscription.</p>
+  </blockquote>
+  <p>Brownlee agreed; he said at the start of his <a href="https://www.youtube.com/watch?v=TitZV6k8zfA&#038;t=18s">YouTube review</a>:</p>
+  <div id="v-W7j3wMrx-1" class="video-player">
+    <video id="v-W7j3wMrx-1-video" width="640" height="360" poster="" controls="true" preload="metadata" dir="ltr"><div>
+<img fetchpriority="high" decoding="async" alt="" src="" width="640" height="360" />
+      </div></video>
+  </div>
+  <blockquote>
+    <p>So this is the Humane AI Pin. It is a brand new product in a really interesting new form factor of an ultra-futuristic wearable computer. In a time of all these crazy gadgets and Vision Pro and wearable glasses, it’s so sick that we get so many genuinely new first generation products like this to give a shot.</p>
+    <p>Unfortunately it’s also the new worst product I think I’ve ever reviewed in its current state. There’s just so many things bad about it. It’s so bad, in fact, that I actually think it’s kind of distracting to understand what the point of the device is as we go through it, so I’m going to have to separate it out for this video. First, I’m going to tell you what it is and what it’s supposed to do, and then I’ll tell you what my experience has actually been using it.</p>
+  </blockquote>
+  <p>Brownlee proceeded to do just that: he presented Humane’s vision, detailed how poorly it lived up to it (including the probably fatal flaw inherent in its decision to pretend smartphones don’t exist), and granted that future software updates might improve the experience. I thought it was a fair,<sup id="rf1-12783"><a href="https://stratechery.com/2024/mkbhds-for-everything/#fn1-12783" title="Actually, the deference Brownlee gave the vision and the potential of future upgrades was arguably generous" rel="footnote">1</a></sup> if brutal, review, but what had some people up in arms was the title and thumbnail:</p>
+  <div align="center">
+    <blockquote class="twitter-tweet" data-dnt="true">
+      <p lang="en" dir="ltr">I find it distasteful, almost unethical, to say this when you have 18 million subscribers.</p>
+      <p>Hard to explain why, but with great reach comes great responsibility. Potentially killing someone else’s nascent project reeks of carelessness.</p>
+      <p>First, do no harm. <a href="https://t.co/xFft3u2LYG">pic.twitter.com/xFft3u2LYG</a></p>
+      <p>— Daniel Vassallo (@dvassallo) <a href="https://twitter.com/dvassallo/status/1779753281960722706?ref_src=twsrc%5Etfw">April 15, 2024</a></p>
+    </blockquote>
+    <p>      <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+&lt;/div&gt;      <p>I don’t tweet much these days — if you want one of my tips for lasting over a decade, that is one of them, for my own peace of mind more than anything — but Vassallo’s sentiment bothered me enough to fire off a response:</p>
+      <div align="center">
+        <blockquote class="twitter-tweet" data-dnt="true">
+          <p lang="en" dir="ltr">Marques’ reach is a function of telling the truth. He didn’t always have 18 million subscribers, but he had his integrity from the beginning. Expecting him to abandon that is the only thing that is “distasteful, almost unethical”. <a href="https://t.co/UysMnuIctS">https://t.co/UysMnuIctS</a></p>
+          <p>— Ben Thompson (@benthompson) <a href="https://twitter.com/benthompson/status/1779817665672175957?ref_src=twsrc%5Etfw">April 15, 2024</a></p>
+        </blockquote>
+        <p>          <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+&lt;/div&gt;          <p>I honestly think I had this anniversary on my mind: I remember when I first started, with only a few hundred followers on Twitter, armed with nothing but my honest takes about tech; my only hope was that those takes would be original enough and valuable enough to build an audience. That they were didn’t diminish the desire to be honest; indeed, one of the biggest challenges creators face as they grow is retaining their edge even when they know people are actually paying attention to what they have to say.</p>
+          <h3 id="mkbhds-responsibility">MKBHD’s Responsibility</h3>
+          <p>The more interesting Vassallo tweet, though, and the one that inspired this Article, was this exchange in response to his original tweet:</p>
+          <div align="center">
+            <blockquote class="twitter-tweet" data-dnt="true">
+              <p lang="en" dir="ltr">MKBHD is not the market. He *significantly* influences the market.</p>
+              <p>If a single person can affect the stock price of a company, we usually restrict what they can say or when. MK should be cognizant of the unconstrained power he has (for now).</p>
+              <p>— Daniel Vassallo (@dvassallo) <a href="https://twitter.com/dvassallo/status/1779785621760069810?ref_src=twsrc%5Etfw">April 15, 2024</a></p>
+            </blockquote>
+            <p>              <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+&lt;/div&gt;              <p>Ignore the vaguely threatening “for now” ; Vassallo is touching on something profound about Brownlee, that I myself understand intimately: what the Internet has made uniquely possible is total loyalty to your customers, and that is threatening.</p>
+              <p>Let me start with myself: every dollar of income I have comes from my subscribers,<sup id="rf2-12783"><a href="https://stratechery.com/2024/mkbhds-for-everything/#fn2-12783" title="I previously spoke for pay, and even more previously offered consulting, and even more previously than that had ads; however, I ended ads in 2014, consulting in 2015, and haven&#8217;t accepted any paid speaking opportunities since 2017. This is all covered on &lt;a href=&quot;https://stratechery.com/about/&quot;&gt;my about page&lt;/a&gt;." rel="footnote">2</a></sup> all of whom pay the same price.<sup id="rf3-12783"><a href="https://stratechery.com/2024/mkbhds-for-everything/#fn3-12783" title="$12/month or $120/year for the last five years, increasing to $15/month and $150/year on April 22" rel="footnote">3</a></sup> If someone doesn’t like what I write, I make it easy to unsubscribe; if they accuse me of writing for favor or illegitimate profit I am happy to unsubscribe them myself, and refund their money. After all, to use Brownlee’s reponse to Vassallo:</p>
+              <div align="center">
+                <blockquote class="twitter-tweet" data-conversation="none" data-dnt="true">
+                  <p lang="en" dir="ltr">We disagree on what my job is</p>
+                  <p>— Marques Brownlee (@MKBHD) <a href="https://twitter.com/MKBHD/status/1779928058746617912?ref_src=twsrc%5Etfw">April 15, 2024</a></p>
+                </blockquote>
+                <p>                  <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+&lt;/div&gt;                  <p>My job is to make my subscribers happy, and the best way I’ve found to do that is to stay as true as I can to what I set out to do in the beginning: write things that are original and valuable. When I succeed I’m happy, and the numbers take care of themselves; when I publish something I’m not happy with, I have trouble sleeping. When tech companies or investors or anyone else is mad, I am free to not pay them any attention.</p>
+                  <p>Brownlee, though, is, to Vassallo’s point, something else entirely: 18 million subscribers is an incredible number, even if only — “only” — 3.5 million people have viewed his Humane video. If Humane’s AI Pin wasn’t already dead in the water, it’s fair to say that <a href="https://twitter.com/levelsio/status/1779842724771893524">@levelsio</a> is right:</p>
+                  <div align="center">
+                    <blockquote class="twitter-tweet" data-dnt="true">
+                      <p lang="en" dir="ltr">MKBHD just delivered the final blow to the Humane pin <a href="https://t.co/cW9CnRkdPF">pic.twitter.com/cW9CnRkdPF</a></p>
+                      <p>— @levelsio (@levelsio) <a href="https://twitter.com/levelsio/status/1779842724771893524?ref_src=twsrc%5Etfw">April 15, 2024</a></p>
+                    </blockquote>
+                    <p>                      <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+&lt;/div&gt;                      <p>Who, though, is to blame, and who benefited? Surely the responsibility for the Humane AI Pin lies with Humane; the people who benefited from Brownlee’s honesty were his viewers, the only people to whom Brownlee owes anything. To think of this review — or even just the title — as “distasteful” or “unethical” is to view Humane — a recognizable entity, to be sure — as of more worth than the 3.5 million individuals who watched Brownlee’s review.</p>
+                      <p>This is one of the challenges of scale: Brownlee has so many viewers that it is almost easier to pretend like they are some unimportant blob. Brownlee, though, is successful because he remembers his job is not to go easy on individual companies, but inform individual viewers who will make individual decisions about spending $700 on a product that doesn’t work. Thanks to the Internet he has absolutely no responsibility or incentive to do anything but.</p>
+                      <h3 id="media-and-the-internet">Media and the Internet</h3>
+                      <p>While Stratechery mostly covers tech, I also spend a lot of time on media; in the early days of Stratechery, this mostly meant newspapers, and my argument was that was in fact a particularly useful angle on the impact of technology broadly: the fact that newspapers were text meant that they felt the impact of the Internet almost immediately, effects that would, as devices became more powerful and ubiquitous, and broadband faster and more reliable, impact everything. And, of course, Stratechery was a written product, so I had a stake in the game.</p>
+                      <p>To that end, I wrote a series of Articles in the run-up to April 16, 2014, laying the groundwork for why I thought my subscription offering would work. The last of these was entitled <a href="https://stratechery.com/2014/newspapers-are-dead-long-live-journalism/">Newspapers Are Dead; Long Live Journalism</a>, where I wrote:</p>
+                      <blockquote>
+                        <p>Remember how the New York Times was started as <a href="http://archive.org/stream/historyofnewyork00davi/historyofnewyork00davi_djvu.txt">a means of making money</a>? After the first year the paper had a circulation of 26,000 in a city of over half a million, but had incurred up-front capital costs of $50,000, and first-year expenses of $78,000 (In 1851 dollars; the modern equivalent would be $1.4 million and $2.2 million respectively). Compare that to this blog (which, by happy coincidence, turns <a href="http://stratechery.com/2013/welcome-to-stratechery/">one year old</a> tomorrow, making this comparison timely): <a href="http://stratechery.com/2014/fivethirtyeight-end-average/">FiveThirtyEight and the End of Average</a>, the first article in this series, has been read by over 30,000 people; meanwhile, I’ve spent less than $2,000. More readers, way less money.</p>
+                        <p>You may consider the comparison unfair — an entire newsroom putting out a daily edition as compared to a solo blogger posting one Article — but <em>the unfairness is the point</em>. No one shared my article because it was from Stratechery, but then again, no one shares an article today just because it’s from the New York Times; all that matters is the individual article and its worth to the reader and potential sharer. As a writer, <em>this is amazing.</em> When it comes to reader attention, I am competing on an equal footing with The New York Freaking Times! Unfortunately for The New York Times, when it comes to making money they’re competing with Google and Facebook. Most distressingly, though, when it comes to costs, they’re competing with the last 150 years. Everything from printing presses to sales and marketing is deadweight if advertising is not a sustainable model.</p>
+                      </blockquote>
+                      <p>The New York Times has, <a href="https://stratechery.com/2024/the-new-york-times-ai-opportunity/">to its immense credit</a>, figured out how to go direct to readers; most other newspapers have <a href="https://stratechery.com/2017/the-local-news-business-model/">struggled</a>: cost structures that were predicated on owning printing presses and delivery trucks simply don’t make sense in a world where <a href="https://stratechery.com/2014/economic-power-age-abundance/">distribution is free</a>.</p>
+                      <p>Free distribution, meanwhile, made Stratechery possible: I just needed to write compelling content on my own website. Brownlee, meanwhile, got his free distribution from YouTube (and, to the extent you want to complain about his accurate but attention-grabbing headline, the realities of the YouTube algorithm, the one non-viewer incentive Brownlee needs to respond to, looms large). The key point is that he could do everything else on his own, starting with the webcam on his HP Pavilion laptop that he used to record <a href="https://www.youtube.com/watch?v=9gk_rl3y_SU">his first video</a>:</p>
+                      <div align="center">
+                        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9gk_rl3y_SU?si=hlgLhuPF1LAqLXUw&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+                      </div>
+                      <p>Today Brownlee has a <a href="https://www.youtube.com/watch?v=jz_qFyTrS8w">top-of-the-line studio</a> and a staff, but the fundamental principle remains: in media one person can do it all, and build a thriving business that makes everyone from Humane to Apple care deeply about what he or she has to say — far more than they care about any traditional publication.</p>
+                      <h3 id="ai-and-intelligence">AI and Intelligence</h3>
+                      <p>I mentioned at the beginning that last year I wrote about <a href="https://stratechery.com/2023/chatgpt-learns-computing/">ChatGPT Gets a Computer</a> in lieu of an anniversary post; that Article, which was built around OpenAI’s announcement of (now-discontinued) ChatGPT plugins, was about the nature of the brain and how large learning models did or did not compare.</p>
+                      <blockquote>
+                        <p>Computers are deterministic: if circuit X is open, then the proposition represented by X is true; 1 plus 1 is always 2; clicking “back” on your browser will exit this page. There are, of course, a huge number of abstractions and massive amounts of logic between an individual transistor and any action we might take with a computer — and an effectively infinite number of places for bugs — but the appropriate mental model for a computer is that they do exactly what they are told (indeed, a bug is not the computer making a mistake, but rather a manifestation of the programmer telling the computer to do the wrong thing).</p>
+                        <p>I’ve already mentioned Bing Chat and ChatGPT; on March 14 Anthropic released another AI assistant named Claude: while the announcement doesn’t say so explicitly, I assume the name is in honor of the aforementioned Claude Shannon. This is certainly a noble sentiment — Shannon’s contributions to information theory broadly extend far beyond what Dixon laid out above — but it also feels misplaced: while technically speaking everything an AI assistant is doing is ultimately composed of 1s and 0s, the manner in which they operate is emergent from their training, not proscribed, which leads to the experience feeling fundamentally different from logical computers — something nearly human — which takes us back to hallucinations; Sydney was interesting, but what about homework?</p>
+                      </blockquote>
+                      <p>I added in <a href="https://stratechery.com/2023/chatgpt-enterprise-connectors-and-small-businesses-nvidia-competitors/">an August Update</a>:</p>
+                      <blockquote>
+                        <p>The point of that Article was that ChatGPT’s plugin architecture gave hallucinating creative LLMs access to determinative computers to ascertain truth, not dissimilar to the way a creative being like you or I might use a calculator to solve a math problem. In other words, the LLM is the interface to the source of truth, not the source of truth itself.</p>
+                        <p>That is exactly what this “coming soon” feature is all about: you don’t make an LLM useful for your business by adding your business’s data to the LLM; that is simply a bit more text in a sea of it. Rather, you leverage the LLM as an interface to “computers” that deterministically give you the right answer. In this case, those computers will be “connecting the applications you already have”, which sounds to me an awful lot like enterprise-specific plug-ins.</p>
+                      </blockquote>
+                      <p>The specifics of product implementations are not the point, but rather the distinction between a natural language interface based on probabilities and computers based on deterministic calculations; I think using the former to access the latter will remain one of the most important applications of large language models.</p>
+                      <p>There is, though, one more piece: who actually tells the AI what to do, such that it needs access to a computer of its own? In <em>ChatGPT Gets a Computer</em>, which analogized large language models to Jeff Hawkin’s theory of the brain, I expressed hope that the beliefs he expressed about the nature of intelligence in <a href="https://www.numenta.com/resources/books/a-thousand-brains-by-jeff-hawkins/">A Thousand Brains: A New Theory of Intelligence</a> extended to large language models. Hawkins writes:</p>
+                      <blockquote>
+                        <p>Intelligence is the ability of a system to learn a model of the world. However, the resulting model by itself is valueless, emotionless, and has no goals. Goals and values are provided by whatever system is using the model. It’s similar to how the explorers of the sixteenth through the twentieth centuries worked to create an accurate map of Earth. A ruthless military general might use the map to plan the best way to surround and murder an opposing army. A trader could use the exact same map to peacefully exchange goods. The map itself does not dictate these uses, nor does it impart any value to how it is used. It is just a map, neither murderous nor peaceful. Of course, maps vary in detail and in what they cover. Therefore, some maps might be better for war and others better for trade. But the desire to wage war or trade comes from the person using the map.</p>
+                        <p>Similarly, the neocortex learns a model of the world, which by itself has no goals or values. The emotions that direct our behaviors are determined by the old brain. If one human’s old brain is aggressive, then it will use the model in the neocortex to better execute aggressive behavior. If another person’s old brain is benevolent, then it will use the model in the neocortex to better achieve its benevolent goals. As with maps, one person’s model of the world might be better suited for a particular set of aims, but the neocortex does not create the goals.</p>
+                      </blockquote>
+                      <p>To the extent this is an analogy to AI, large language models are intelligent, but they do not have goals or values or drive. They are tools to be used by, well, anyone who is willing and able to take the initiative to use them.</p>
+                      <h3 id="ai-and-the-sovereign-individual">AI and the Sovereign Individual</h3>
+                      <p>I don’t think either Brownlee or I particularly need AI, or, to put it another way, are overly threatened by it. Yes, ChatGPT would have written several thousands words far more quickly than the hours it took me to write this Article, but I am (perhaps foolishly) confident that they would not be original and valuable enough to take away my audience; I think it’s the same for Brownlee.</p>
+                      <p>The connection between us and AI, though, is precisely the fact that we haven’t needed it: the nature of media is such that we could already create text and video on our own, and take advantage of the Internet to — at least in the case of Brownlee — deliver finishing blows to $230 million startups.</p>
+                      <p>How many industries, though, are not media, in that they still need a team to implement the vision of one person? How many apps or services are there that haven’t been built, not because one person can’t imagine them or create them in their mind, but because they haven’t had the resources or team or coordination capabilities to actually ship them?</p>
+                      <p>This gets at the vector through which AI impacts the world above and beyond cost savings in customer support, or whatever other obvious low-hanging fruit there may be: as the ability of large language models to understand and execute complex commands — with deterministic computing as needed — increases, so too does the potential power of the sovereign individual telling AI what to do. The Internet removed the necessity — and inherent defensibility — of complex cost structures for media; AI has the potential to do the same for a far greater host of industries.</p>
+                      <hr />
+                      <p>Brownlee’s 2nd most popular video is only two months old: it’s his <a href="https://www.youtube.com/watch?v=dtp6b76pMak">overview of the Apple Vision Pro</a>; it’s not, if fiction is our guide, an accident that Meta is developing the Quest and Apple has released the Vision Pro just as AI seems poised to threaten an ever-increasing number of jobs. This was the world painted by Pixar’s Wall-E:</p>
+                      <p><a href="https://www.pixar.com/feature-films/walle"><img decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/04/mkbhd-2.png?resize=640%2C268&#038;ssl=1" alt="Humans in Pixar&#039;s Wall-E" width="640" height="268" class="aligncenter size-full wp-image-12785" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/04/mkbhd-2.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/04/mkbhd-2.png?resize=300%2C125&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/04/mkbhd-2.png?resize=1024%2C428&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/04/mkbhd-2.png?resize=768%2C321&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/04/mkbhd-2.png?resize=1200%2C502&amp;ssl=1 1200w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></a></p>
+                      <p>It’s funny, because before I looked up this photo, I could have sworn the humans in the film, lulled to insouciance by an AI that addressed all of their physical needs, were wearing headsets; I guess Pixar overestimated our ability to build space-faring cruise ships and underestimated the relentless progression of consumer electronics.</p>
+                      <p>My suspicion, however, is that Pixar got it wrong, and this famous photo of Mark Zuckerberg at Mobile World Congress in 2016 is closer to the truth of the matter.</p>
+                      <p><a href="https://www.facebook.com/photo/?fbid=10102665120179591&#038;set=pcb.10102665126861201"><img loading="lazy" decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/04/mkbhd-1.png?resize=640%2C426&#038;ssl=1" alt="Mark Zuckerberg at Mobile World Congress" width="640" height="426" class="aligncenter size-full wp-image-12789" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/04/mkbhd-1.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/04/mkbhd-1.png?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/04/mkbhd-1.png?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/04/mkbhd-1.png?resize=768%2C511&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/04/mkbhd-1.png?resize=946%2C630&amp;ssl=1 946w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></a></p>
+                      <p>Wall-E erred by assuming that every human was the same, all gleefully enslaved by AUTO, the ships AI. In fact, though, I suspect humanity will be distributed bi-modally, with the vast majority of people happily wearing their Vision Pros or watching their streaming service or viewing their TikTok videos, while increasingly sovereign individuals, aided by AI, pilot the ship.</p>
+                      <p>That may sound extreme, but again, this is why it is useful to look to media first: Brownlee — one man, who started out by reviewing a media center remote on his HP laptop — does in fact hold the fate of entire companies and products in his hand. My bet is not that AI replaces Brownlee, but that AI means Brownlee’s for everything, not just media.</p>
+                      <p>As for me, I plan on documenting it every step of the way, thanks to every person who has supported Stratechery over the last 10 years, and to whom I alone owe accountability, and gratitude.</p>
+                      <hr class="footnotes" />
+                      <ol class="footnotes" style="list-style-type:decimal">
+                        <li id="fn1-12783">
+                          <p>Actually, the deference Brownlee gave the vision and the potential of future upgrades was arguably generous <a href="https://stratechery.com/2024/mkbhds-for-everything/#rf1-12783" class="backlink" title="Return to footnote 1.">↩</a></p>
+                        </li>
+                        <li id="fn2-12783">
+                          <p>I previously spoke for pay, and even more previously offered consulting, and even more previously than that had ads; however, I ended ads in 2014, consulting in 2015, and haven’t accepted any paid speaking opportunities since 2017. This is all covered on <a href="https://stratechery.com/about/">my about page</a>. <a href="https://stratechery.com/2024/mkbhds-for-everything/#rf2-12783" class="backlink" title="Return to footnote 2.">↩</a></p>
+                        </li>
+                        <li id="fn3-12783">
+                          <p>$12/month or $120/year for the last five years, increasing to $15/month and $150/year on April 22 <a href="https://stratechery.com/2024/mkbhds-for-everything/#rf3-12783" class="backlink" title="Return to footnote 3.">↩</a></p>
+                        </li>
+                      </ol>
+ &lt;/div&gt;</p>
+                  </div>
+</p>
+              </div>
+</p>
+          </div>
+</p>
+      </div>
+</p>
+  </div>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2024-04-29</time>
+        <a href="https://nodebe4.github.io/opinion/2024-04-29/Meta-and-Reasonable-Doubt/">
+          Meta and Reasonable Doubt
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-04-23</time>
+        <a href="https://nodebe4.github.io/opinion/2024-04-23/Meta-and-Open/">
+          Meta and Open
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-04-10</time>
+        <a href="https://nodebe4.github.io/opinion/2024-04-10/Gemini-1.5-and-Google-s-Nature/">
+          Gemini 1.5 and Google’s Nature
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-03-25</time>
+        <a href="https://nodebe4.github.io/opinion/2024-03-25/United-States-v.-Apple/">
+          United States v. Apple
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2024-04-15/828-%E8%83%A1%E8%80%80%E9%82%A6%E6%B2%BB%E4%B8%A7%E6%89%8B%E8%AE%B0-%E7%AB%A0%E7%AB%8B%E5%87%A1/">
+            前一篇：828 胡耀邦治丧手记｜章立凡
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2024-04-16/EP-093-%E9%AB%98%E9%98%BF%E5%A7%A8-%E6%88%91%E7%9B%AE%E7%9D%B9%E4%BA%86%E5%A5%88%E9%A3%9E%E7%89%88-%E4%B8%89%E4%BD%93-%E4%B8%AD%E7%9A%84%E6%96%87%E9%9D%A9%E6%9A%B4%E5%8A%9B-%E6%96%87%E5%AD%97%E7%89%88/">
+            後一篇：EP-093 高阿姨：我目睹了奈飞版《三体》中的文革暴力（文字版）
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2024-04-15/828-%E8%83%A1%E8%80%80%E9%82%A6%E6%B2%BB%E4%B8%A7%E6%89%8B%E8%AE%B0-%E7%AB%A0%E7%AB%8B%E5%87%A1/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2024-04-16/EP-093-%E9%AB%98%E9%98%BF%E5%A7%A8-%E6%88%91%E7%9B%AE%E7%9D%B9%E4%BA%86%E5%A5%88%E9%A3%9E%E7%89%88-%E4%B8%89%E4%BD%93-%E4%B8%AD%E7%9A%84%E6%96%87%E9%9D%A9%E6%9A%B4%E5%8A%9B-%E6%96%87%E5%AD%97%E7%89%88/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2024-04-23/Meta-and-Open/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2024-04-10/Gemini-1.5-and-Google-s-Nature/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2024-04-15/828-%E8%83%A1%E8%80%80%E9%82%A6%E6%B2%BB%E4%B8%A7%E6%89%8B%E8%AE%B0-%E7%AB%A0%E7%AB%8B%E5%87%A1/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2024-04-16/EP-093-%E9%AB%98%E9%98%BF%E5%A7%A8-%E6%88%91%E7%9B%AE%E7%9D%B9%E4%BA%86%E5%A5%88%E9%A3%9E%E7%89%88-%E4%B8%89%E4%BD%93-%E4%B8%AD%E7%9A%84%E6%96%87%E9%9D%A9%E6%9A%B4%E5%8A%9B-%E6%96%87%E5%AD%97%E7%89%88/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2024-04-23/Meta-and-Open/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2024-04-10/Gemini-1.5-and-Google-s-Nature/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

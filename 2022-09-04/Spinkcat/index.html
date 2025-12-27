@@ -1,0 +1,2395 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Spinkcat在2022-08-29~2022-09-04的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Spinkcat在2022-08-29~2022-09-04的言论" />
+    <meta property="twitter:title" content="Spinkcat在2022-08-29~2022-09-04的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FChina_irl%2Fcomments%2Fx2cnai%2F%E4%BD%A0%E5%B8%8C%E4%B8%8D%E5%B8%8C%E6%9C%9B%E4%B8%AD%E5%9B%BD%E5%87%BA%E4%B8%80%E4%B8%AA%E6%88%88%E5%B0%94%E5%B7%B4%E4%B9%94%E5%A4%AB%E5%BC%8F%E7%9A%84%E4%BA%BA%E7%89%A9%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/China_irl/comments/x2cnai/你希不希望中国出一个戈尔巴乔夫式的人物/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/China_irl/comments/x2cnai/你希不希望中国出一个戈尔巴乔夫式的人物/&text=Spinkcat在2022-08-29~2022-09-04的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/China_irl/comments/x2cnai/你希不希望中国出一个戈尔巴乔夫式的人物/&title=Spinkcat在2022-08-29~2022-09-04的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/China_irl/comments/x2cnai/你希不希望中国出一个戈尔巴乔夫式的人物/&title=Spinkcat在2022-08-29~2022-09-04的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Spinkcat在2022-08-29~2022-09-04的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/China_irl/comments/x2cnai/你希不希望中国出一个戈尔巴乔夫式的人物/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/China_irl/comments/x2cnai/你希不希望中国出一个戈尔巴乔夫式的人物/&title=Spinkcat在2022-08-29~2022-09-04的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Spinkcat在2022-08-29~2022-09-04的言论&url=https://old.reddit.com/r/China_irl/comments/x2cnai/你希不希望中国出一个戈尔巴乔夫式的人物/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Spinkcat在2022-08-29~2022-09-04的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-09-04
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://www.reddit.com/user/Spinkcat/" style="font-size:14px;">作者: Spinkcat</a>
+        </span>
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/China_irl/comments/x2cnai/你希不希望中国出一个戈尔巴乔夫式的人物/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#1726-你希不希望中国出一个戈尔巴乔夫式的人物-submitted-on-2022-08-31-2042040800" id="markdown-toc-1726-你希不希望中国出一个戈尔巴乔夫式的人物-submitted-on-2022-08-31-2042040800">1726: 你希不希望中国出一个戈尔巴乔夫式的人物, submitted on 2022-08-31 20:42:04+08:00.</a></li>
+  <li><a href="#1727-中国政府不怎么收直接税的原因是什么-submitted-on-2022-09-04-2055180800" id="markdown-toc-1727-中国政府不怎么收直接税的原因是什么-submitted-on-2022-09-04-2055180800">1727: 中国政府不怎么收直接税的原因是什么？, submitted on 2022-09-04 20:55:18+08:00.</a></li>
+</ul>
+
+<h3 id="1726-你希不希望中国出一个戈尔巴乔夫式的人物-submitted-on-2022-08-31-2042040800">1726: <a href="https://old.reddit.com/r/China_irl/comments/x2cnai/你希不希望中国出一个戈尔巴乔夫式的人物/">你希不希望中国出一个戈尔巴乔夫式的人物</a>, submitted on 2022-08-31 20:42:04+08:00.</h3>
+
+<p>—– <strong>1726.1</strong> —–2022-09-04 16:11:37+08:00:</p>
+
+<p>戈尔巴乔夫在苏联解体的过程里实际发挥作用没用想的那么大。（主要问题是错误且冒进的经济改革失败）</p>
+
+<p>很多人认为是戈尔巴乔夫解体了苏联，但实际是苏联保守派反对戈尔巴乔夫的新盟约，进而发动政变，把戈尔巴乔夫架空变成光杆司令，结果军方和民间都不积极响应。</p>
+
+<p>叶利钦随后顺利拿下保守派后，苏共中央团灭，戈尔巴乔夫这时候实质上已经失去权力，根本无力与苏共中基层联系，叶利钦说什么就是什么。</p>
+
+<p>戈尔巴乔夫如果希望通过军队走暴力武斗，或者内部政治文斗路线，都需要苏共中央许多人的支持。</p>
+
+<p>然而这些人就是发动政变的主要群体，所以当这群人发动政变后，他们的下属又不积极响应，叶利钦在取缔他们时，戈尔巴乔夫就彻底失去了控制局面的可能。</p>
+
+<p>类比就像习近平突然被整个中央90%的大员反对，并且通过政变软禁他，连军委和政治局的人都全反了。然后一个实际不忠于习近平的党内大佬（就架空假设是薄熙来出狱或者逃出来后吧），或者说河北省书记，发动二次政治斗争，拿下中央所有官员。（包括但不限于江胡温朱，所有团派、江派和习派，能叫得上名的中央官僚和军队高层都被拿下）</p>
+
+<p>那这个时候国家最高权力在谁手上？事实上这种情况发生，我们认为的那个中共就团灭了。</p>
+
+<p>然后消灭中共中央的人掌握权力后，习近平被迫应薄熙来要求发表中共原地解散的全国讲话，戈尔巴乔夫大体面临的就是这种情况。</p>
+
+<p>—– <strong>1726.2</strong> —–2022-09-05 13:04:25+08:00:</p>
+
+<p>苏共与中共体制本身不一样，苏共是有一定内部异议和松散区域存在的，中共内部六四后就在不断消灭不同声音，不改革政治只是其中一方面，总书记或者说最高领导人说一不二，胡锦涛再弱势，党内原则问题上常委要无条件支持。</p>
+
+<p>什么是原则问题呢，总体上邓强调四个原则后，到习时代已经形成了一个集体性很强的内部组织，我们看到的中共是大量党员遍布全国的这么一个存在，但多数时候谈及的中共，也就是中央那小一千号人和额外几千多个相关人士。</p>
+
+<p>联姻、裙带、门第等等都是组成紧密利益团体的方法。</p>
+
+<p>比起苏共，中共更像一个传统的封建王朝，在统治者身份阶级这一点，他们内部是有清醒自我认知的，所以政策应对也更积极。</p>
+
+<p>首先是消灭内部反对声音，六四后我们都知道发生什么，不赘述。</p>
+
+<p>其次是消灭外部反对声音，各类维权人士或较小规模的组织，江胡时期就已经在做，大体到习第一任期接近完成，然后开始主动侵蚀通常不讨论政治生态的私人社区，在各大网站和企业内部重拳出击。</p>
+
+<p>可能很多人想没招你惹你，为什么还要来控制呢，原因就是你这种私人社区有可能是不稳定的因素。</p>
+
+<p>所以外部叶利钦式的反对者，还是内部不同声音，大体是都被控制住，而组织内部哪怕有利益分歧，也在邓的四个基本原则下规定共同利益。</p>
+
+<p>大家明面规则都是必须维护中共这条船，如果你说要有不同的政治改革，就会成为众矢之的，这个如果在没家族化之前，可能还只是党内不同声音。</p>
+
+<p>但是随着家族化的利益盘根错节，你提出政治改革，等于是断人财路以及要他们的命，让他们的社会特权失去阶级下滑，并且遭到清算，那就是要命的话题。</p>
+
+<p>因此家族化就让政治问题不再只是政策与立场理念分歧，也演变成可能波及家族利益的矛盾导火索。这时候只能褪去政治理念和理想主义的外衣，一切矛盾转向确保中共政权不倒，通过公权力谋取社会地位与利益的纯粹实用主义。</p>
+
+<p>实际上中共四个原则就是从党内“宪法”上明确必须是保守派执政，而苏联恰巧是保守派逐渐失去主导权后，主动去颠覆最后被摘桃子。</p>
+
+<p>—– <strong>1726.3</strong> —–2022-09-07 23:20:35+08:00:</p>
+
+<p>清末历史可以看成这样一个发展方向。</p>
+
+<p>维新派后的主要分支，相当部分是中国本土原来属于儒生士家阶级，在中外交流密切的背景下，晋升为改革派，你可以理解为他们是洋务运动中后期的精神层面的继承者，蔡元培就是典型例子。（但洋务运动被推行的确是实用大于文化与精神层面改革）</p>
+
+<p>还有孙中山这样坚持武斗到底的分支，后来的确取代了前清利益集团为主体的北洋政府。</p>
+
+<p>清朝本身覆灭跟革命党人打响第一枪，进而出现保守派别必须选择，最后确定放弃清廷是有关系的。</p>
+
+<p>这个时期文斗路线的维新派衍生分支，也就是蔡元培等人领导的新文化运动，可以理解为中国文化层面现代化（说是西化可能更符合当时语境）的一个政治力量，具体各人的政治派系我没深究，因为人际关系太复杂，这里不赘述。</p>
+
+<p>袁世凯拉拢蔡元培，是因为传统清朝下转型的知识分子，尤其是西化后的，文化层面话语权和政府改组都有很大的影响。</p>
+
+<p>所以整体上蔡元培更倾向于孙中山，但是后来孙黄宋三人内部在西化的层次上也是有矛盾的。</p>
+
+<p>一个主要的地方体现是孙中山实际是批评新文化运动立场，也就是全盘西化，尤其是文化与政治层面，这里的西化是指现代化，可以理解为政治层面走向议会为主。</p>
+
+<p>孙中山对新文化运动的看法是：</p>
+
+<blockquote>
+  <p>”我们现在要学欧洲，是要学中国没有的东西，中国没有的东西是科学，不是政治哲学。至于讲到政治哲学的真谛，欧洲人还要求之于中国“</p>
+
+  <p>一般醉心新文化的人，便排斥旧道德，以为有了新文化， 便可以不要旧道德。不知道我们固有的东西，如果是好的 当然要保存，不好的才可以放弃。…在国家之内，君主可以不要，忠字是不能不要的。…讲到孝字，我们中国尤为特长，尤其比各国进步得多。孝经所讲孝字，几乎无所不包，无所不至；现在世界中最文明的国家，讲到孝字，还没有像中国讲到这么完全“</p>
+</blockquote>
+
+<p>其实可以从这里可以看出，孙中山追求的是现代熟知的威权主义政党，列宁式政党，而不是一个完全现代化的议会民主制，也就是说孙中山从文化层面到政治制度上，都是实用主义，而不是认为其有必然先进性。</p>
+
+<p>或者换个角度说，孙中山是不接受帝制，但接受独裁-威权体系的一个政治领袖。</p>
+
+<p>另一方面宋教仁则更支持新文化运动。</p>
+
+<p>而目前现代中国以知识分子为主所建立的现代宪政议会政府尚不存在，践行部分内容的台湾则依然号国民政府，没法完全对国民党和孙中山进行否定，法统依然来自于孙中山系国民党。</p>
+
+<p>而事实上，文化层面除了部分的确不现实的提议外，新文化运动的胜者是清末以来的现代化知识分子阶级。</p>
+
+<p>我们现在用的白话文还有太多文化概念、规范，相当多都来自于当时，但是政治层面是没有太多建树的。</p>
+
+<p>政治层面则持续是孙中山希望发展的列宁式威权主义政府获胜，你可以看到国共一些最高层对新文化运动的政治层面是多持否定甚至批评态度的。</p>
+
+<p>五四运动可以理解为是现代化知识分子在中国社会层面，政治上的第一次大规模发声，是新文化运动推行后的一个体现。</p>
+
+<p>那么文化上的改革有了，思想上的流入也在增加，实际上是给了新一代知识分子一个非常大的生力军储备，不同派系都无法独大，让五四运动得以成功，并且这些新生代知识分子储备成为各个主要派系的争取或打击对象。</p>
+
+<p>并不是说单纯苏俄介入可以干涉的事，按毛泽东说法五四运动是大众化的，因为他自己就是从五四运动里出来的，新文化运动则是他不算喜欢的，因为出自于毛认为的资产阶级，也就是现代化的知识分子，毛是传统知识分子，这一点也有不少传闻说他不喜欢现代化的知识分子，主观敌意很强。</p>
+
+<p>中国后来的实际政党与政治组织，基本都是传承自对新文化运动主体人群（知识分子或资产阶级）否定态度的派系（孙-蒋-毛），而且越来越恶劣。</p>
+
+<p>孙还算好，很多方面还是肯定的，不是那么的激进，蒋就公开批评，很保守化，毛则是直接树立成阶级敌人，虽然也有实用主义的一面。</p>
+
+<p>孙中山本人希望学习苏联建立一个列宁式的威权政党，并且也没很多大众印象里那么开放追求完全的现代化，继承者蒋介石就是很典型的中国威权人物，但传统文化在内，实际还是比较尊重文化人的。</p>
+
+<p>毛则是明显的敌意，对他认为的现代化与资产阶级态度明确。</p>
+
+<p>而北洋政府诸多军阀，本质上只有行政改革，是清末原既得利益集团的衍生存在，精神层面与文化层面，跟同一时期变革的新文化运动的目标群体，不但不能说一致，甚至是互相对立有很大矛盾的。</p>
+
+<p>因此尽管北洋政府也有很多观念进步的军阀和知识分子当政，但多数时候是被排除在外的，法统的建立并不牢固，缺乏广大知识分子文化层面的认同。</p>
+
+<p>更简化一点的我的理解是：</p>
+
+<p>清末维新派-保守派，衍生出革命党人-北洋军阀。</p>
+
+<p>北洋军阀演化成北洋政府，革命党人分化为坚持武斗的孙中山，以及更倾向于文斗的宋教仁，黄兴虽然与孙中山关系密切，但是跟宋教仁也很好，并且黄兴与孙宋最大的区别是实干和组织经验丰富，而黄兴是不大喜欢孙的一些威权做法的。</p>
+
+<p>所以北洋政府本质就是个背景板，从衍生派系的由来可以看出，北洋军阀虽然跟清朝保守派已经不是一回事，但是新文化运动里不断诞生的老旧知识分子，更多都是愿意支持孙宋黄这样的人士。</p>
+
+<p>因此北洋政府被吸收、下台我认为是个时间问题，尤其是袁世凯称帝后，被部下反对，已经说明北洋派系内部能意识到袁世凯做法对他们政治声誉的伤害有多大。</p>
+
+<p>宋和黄如果不死，孙很大程度是要被掣肘的，孙也没办法以对抗他们三人一起组建的合法政府为初衷另起炉灶，中国可能会更早实现议会制共和。</p>
+
+<p>当然因为历史的一系列意外，走了一点弯路，所以目前都是孙中山与其嫡系传人主导的威权式政府，而且是高度异化的，因为我认为孙中山追求的威权不会跟毛与六四后现代中共建立的一样。</p>
+
+<p>因为是出自于孙中山嫡系，所以国共两党共同尊孙中山为国父。</p>
+
+<p>但实际考虑中华民国法统以及中共未来对社会负面影响，一旦新的知识分子政权建立完成，并且抛弃威权化政府，追先法统溯源，宋教仁的历史地位可能会恢复原本位置，孙中山的会下滑。（不过较大概率追溯法统可能会溯源到八十年代改革派，以胡赵为正朔）</p>
+
+<p>—– <strong>1726.4</strong> —–2022-09-09 05:38:27+08:00:</p>
+
+<p>这事复杂要长说，宋的文斗本质还是斗，也是基于黄兴武斗的支持，两者是互相辅佐形成的，因为有黄兴的武斗基础，才能让宋在体制内建立优势。</p>
+
+<p>孙宋在革命去除清政府余孽的根本目的是一致的，但在于手法不同。</p>
+
+<p>在组建怎么样的整体与国家运行方式上有分歧，这方面文斗武斗的又是另一种说法。</p>
+
+<p>辛亥革命本身是武昌起义打赢了，导致的连锁反应，实际上清政府的主体一直没被消灭，最后改头换面，南北议和。</p>
+
+<p>孙希望通过武装力量，也就是枪杆子里出政权的最早原始逻辑，建立一个有自身武装与党宪训政的列宁式政党，以此来消灭清政府残余，包括北洋军阀。</p>
+
+<p>宋和黄更近似于在议和框架下，用体制内规则跟袁世凯斗，孙实际也是懂局势，不是一味坚持，所以双方能妥协，但在训政程度和党内发展上，实际是跟宋孙发生分歧的。</p>
+
+<p>但关键在于，之所以黄兴这样黄花岗起义敢第一个莽上去的猛人，也在后来寻求体制内解决，有两个原因。</p>
+
+<p>第一是南北议和时期，革命党缺钱，各省独立，派系林立，到宋被杀时，仍然还在整合当中。</p>
+
+<p>第二是前面提到的，当时中国社会的总体氛围，尤其是主导社会资源和舆论的知识分子阶层，几乎一边倒倾向革命党人，时间和人脉上革命党有完全优势。</p>
+
+<p>这就形成要点，导致宋的观点可能更倾向于现有资源困顿，但大方向上足够他们站稳脚跟，激进武斗无法稳定确保胜利，还可能把革命党均衡的状态搭进去。</p>
+
+<p>正因为大形势对革命党人完全有利，而短期局势上，革命党人既无法消灭袁世凯为首的若干军阀，袁世凯也无法顺利消灭对方，双方妥协各有基础。</p>
+
+<p>袁世凯妥协是基于没有知识分子与社会大趋势的支持，革命党人则是时间尚短，没有资源优势。</p>
+
+<p>所以袁世凯几年后称帝，马上就被反对，再到后来国民政府北伐也是平推，彻底结束清政府余孽的影响力。</p>
+
+<p>这里有个关键的议题会引起很多人误会，孙中山等人的讨袁主张，实际脱离了当时的法理逻辑，跳出自己革命获得的框架。</p>
+
+<p>袁世凯并未打算主动消灭革命党，因为他本身不具备这方面的健全实力，相反是二次革命失败后，袁世凯才有能力改组内阁制为总统制。</p>
+
+<p>所以南北议和后黄兴这样一贯的主战派，也更倾向于法律途径解决，主要原因就是南方政府在全国范围的法理地位较高，而理亏的本身是袁世凯。</p>
+
+<p>就好比他们自己革命建立了一个集体政府，孙让出位置，袁世凯名义上跟南方合并，然后袁世凯在议会上吃瘪耍横，实际舆论和法理都是非常吃亏的。</p>
+
+<p>而孙在这个时候，在自己核心基本盘不够抗衡时，跳出自己建立和有优势的这个体制框架，反而给了袁世凯法理结果。</p>
+
+<p>类比就是袁世凯称帝，自己跳出了之前认可和受用的框架，无论知识分子阶级还是旧部都不支持。</p>
+
+<p>还有一个很大的问题，袁世凯手段不干净，但是孙跳出框架后，支持孙反袁的人就变成了违法者，原本合法活动的空间彻底消失，大量革命党骨干被害。</p>
+
+<p>孙中山的行为是把自己变成叛军了，如果袁世凯不称帝砸自己铁饭碗，护国战争打不起来，袁的派系在全国站稳脚跟，他很有可能就再也没机会发展起来。而袁的失败，很大程度要归于知识分子阶级已经完全导向新制。（以及袁蔡同年去世）</p>
+
+<p>然后此处就出现分歧点。</p>
+
+<p>孙认为应该提前对袁发难，但党员不服从命令才失败，也就是说孙不认为否定自己建立的框架再革命是问题，有问题的是党员不服从，没形成列宁式政党，所以他后来才很欣赏苏联的方式，也是他徒子徒孙蒋毛逐渐成熟的地方。</p>
+
+<p>而宋推崇的就是在框架内解决问题，去减少资源不足导致的劣势，避免孙在二次革命里出现的问题，宋在政治理念和框架建设上，最终跟孙出现分歧。</p>
+
+<p>虽然没展开到发生矛盾，但后来就情况而言，宋的主张显然是正确的，因为孙整个集团都搭进去了。</p>
+
+<p>后续两次护法战争外加陈炯明背离，都跟孙的冒进有关，甚至一定程度上联俄，也是在将北方的北洋政权当作要消灭的对象，在获得广州根据地和关税余额，才总算在南方站稳脚跟。</p>
+
+<p>然后在苏联支持下改组军队、党政体系，蒋介石后来在经济、制度、武装优势下，北伐才水到渠成。</p>
+
+<p>如果孙中山一开始没积极发起二次革命，双方大概率会僵持，护国战争中的主要发起人蔡锷与唐继尧，还有后来的陆荣廷，在二次革命里都是支持袁世凯的，梁启超在二次革命时期也依然在任职，翻脸也是到护国战争时期。</p>
+
+<p>总体上我认为是因为孙的地位和国共两党的特殊性，回护了孙在二次革命里致命性的错误决定导致的一系列失败，造成一种印象认为单方面是袁世凯的压迫下被迫发动二次革命，实际是孙中山激进导致未得到统一意见前，跳出来反对当时的合法法理政府，分裂不牢固的革命派系，并且把自己变成名义的叛军，给人口实。</p>
+
+<p>一直到护国战争，袁死后，北洋分裂，孙才最终站稳脚跟。</p>
+
+<p>—– <strong>1726.5</strong> —–2022-09-11 01:35:38+08:00:</p>
+
+<p>中秋快乐</p>
+
+<h3 id="1727-中国政府不怎么收直接税的原因是什么-submitted-on-2022-09-04-2055180800">1727: <a href="https://old.reddit.com/r/China_irl/comments/x5mbrp/中国政府不怎么收直接税的原因是什么/">中国政府不怎么收直接税的原因是什么？</a>, submitted on 2022-09-04 20:55:18+08:00.</h3>
+
+<p>—– <strong>1727.1</strong> —–2022-09-05 00:00:13+08:00:</p>
+
+<p>除了议税权的观念觉醒、行政成本过高，还有一个推测原因可能与收税后的归属有关。</p>
+
+<p>但悲报是直接税改革已经在路上，官方之前就明示了。</p>
+
+<p>现行税法查到的是个税中央六地方四，但如果执行，要求个人申报，肯定牵扯一个行政成本问题，那地方和中央各自承担多少成本就是个问题。</p>
+
+<p>许多不动产是待售获取资金，因此需要主动去做税务审查的工作，跟一些不动产归地方，中央拿不走无法变现就扔给地方的情况不一样，人是非常灵活的，可以去很多地方还能工作。</p>
+
+<p>但国内没对应的灵活地方机制，跟地方政府打交道的都懂，哪怕现行机制下，随便申报或者办点东西，经常会要求围绕原籍做文章，并且政府主观上实际不太想让人口过多自由流动，除非你能提供该地所需必要技术或者大量纳税。</p>
+
+<p>直接税以个税为代表，行政执行到地方每个人，要考虑花多大力气，之前可能是吃力不讨好的。</p>
+
+<p>但最近几年都有很多消息，尤其是针对当下个税的追查开始提升力度。</p>
+
+<p>另一方面实际官方已经开始做直接税改革了，可以查到财政部长刘昆的《<strong>建立现代财税体制</strong>》</p>
+
+<p>还有《<strong>建立健全有利于高质量发展的现代财税体制</strong>》</p>
+
+<p>翻译：现在社会财富已经比之前更多了，要确保现有税制转型，建立一套能赚更多钱的稳定体系。</p>
+
+<p>另还有《<strong>国务院办公厅关于进一步推进省以下财政体制改革工作的指导意见</strong>》</p>
+
+<p>翻译：地方没钱了，建立新财政制度的过程里，要保证没钱的地方不会乱，控制好缺钱的部门问题，配合新财政体制的建设。</p>
+
+<p>​</p>
+
+<p>此外《建立现代财税体制》还有两句话是：<strong>“十四五时期，要建立健全有利于高质量发展、社会公平、市场统一的税收制度体系，优化税制结构，同时提高税收征管效能。“</strong></p>
+
+<p>以及”<strong>健全直接税体系，逐步提高直接税比重。健全以所得税和财产税为主体的直接税体系，逐步提高其占税收收入比重。进一步完善综合与分类相结合的个人所得税制度</strong>。”</p>
+
+<p>广东省那面也提出了相关说法支持，官方的人焦瑞进也表态说：</p>
+
+<p><strong>社会财富或者人均财富达到一定水平后</strong>，直接税比重自然会提升，再加上<strong>数字化手段的应用</strong>将能更有效<strong>掌握居民的实际收入</strong>情况。将来<strong>未必直接</strong>强调提高直接税比重，而是通过<strong>宽税基低税率</strong>的方式，提高财政收入。</p>
+
+<p>这里大部分其实都好理解，但是宽税基这个趋势能不能跟其他国家一样做好？纳税人身份与纳税行为高度挂钩，自己看下城市外来人口什么待遇就清楚了。</p>
+
+<p>—– <strong>1727.2</strong> —–2022-09-05 00:11:33+08:00:</p>
+
+<p>大体上你能很清晰感觉到他们开始想要发掘改革开放以来，社会开始逐渐发达化后（传统称为小资化）所积攒的这笔财富。</p>
+
+<p>再加上他们自己没钱了，资金周转不太灵活，更有必要重塑中央-地方的财务制度，之前营改增等一系列改革是传统税务的变革，如今的十四五直接税规划，则是要深度掘金。</p>
+
+<p>我觉得最坏的一种可能是，官方通过疫情得来的数字化管控，开始大规模制造直接税税基，通常来说宽税基低税率不是坏事，但是国内纳税人是没法跟这个身份对应的议税权联系上的。</p>
+
+<p>导致宽税基在中国语境下就变味，在我看来是扩大税基方便获取更多财政收入，保证政权安全。</p>
+
+<p>前文提到的”未必“就很玄学，如果真到有需求，学术立场这种摇摆不定的背书肯定是非常扯淡毫无保障的。</p>
+
+<p>我估计十四五之前，目标是先在二十大后确立习的政治事务，然后未来几年逐渐完成可以征收直接税的政府内部架构，数字化的手段也已经有了。</p>
+
+<p>跟着慢慢扩大税基，把你标记上，但一开始应该都是低税收，并且大多数时候都是低税收。</p>
+
+<p>然而税金会随着中共的财政恶化逐渐加码，不清楚地方会不会出现乱收，然后民众跟地方政府疯狂扯皮的现象（如果到时候还可能的话）</p>
+
+<p>可能有人会问直接税乱加不怕民众上街么，但你想一下，都已经开始无脑加个税了，他们肯定离死不远，还顾得上加税的民意反应吗，死马当活马医，癌症晚期也不怕打吗啡，治不了就是死，能抽税一天就往死里抽，获取财政资源维持军队与政府组织，抽不上来就等资金耗光。</p>
+
+<p>—– <strong>1727.3</strong> —–2022-09-05 12:45:04+08:00:</p>
+
+<p>没怎么看这些传闻，具体指哪些？</p>
+
+<p>—– <strong>1727.4</strong> —–2022-09-05 15:46:17+08:00:</p>
+
+<p>李克强不说留任不留任，至少没有迹象显示他会取代习近平，要非说取代，也就只有名义取代公职，实际权力是不会改变的，但显然不现实。</p>
+
+<p>现在也没其他迹象显示习近平会失去权力，习近平-思想是中共唯二以人名和思想并称的党章指导思想，七月到八月，习近平的公开活动开始减少，加上十月确定二十大，反应习近平已经在蓄力准备之后的一系列工作。</p>
+
+<p>—– <strong>1727.5</strong> —–2022-09-09 03:33:51+08:00:</p>
+
+<p>极大概率是冷处理，外加部分引导话术，税制改革目前这么明确且重要的事，国内也是冷处理，不刻意想起来去查，基本没法串联到一起。</p>
+
+<p>类似冷处理在很多地方都有，外汇管制、翻墙政策、护照政策等各方面，实际上信用分也算是冷处理的手法，你很难在公共平台广泛看到这些的深入讨论。</p>
+
+<p>但我认为实际到执行这一步时，官方冷处理，不一定代表民间就会接受，只能说明官方是知道怎么做最好，但已经到了这个份上，说明财政安全已经到了大于牺牲民众满意度的程度。</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-09-08</time>
+        <a href="https://nodebe4.github.io/opinion/2022-09-08/theoryofdoom/">
+          theoryofdoom在2022-09-05~2022-09-11的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-09-04</time>
+        <a href="https://nodebe4.github.io/opinion/2022-09-04/theoryofdoom/">
+          theoryofdoom在2022-08-29~2022-09-04的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-09-04</time>
+        <a href="https://nodebe4.github.io/opinion/2022-09-04/EnclavedMicrostate/">
+          EnclavedMicrostate在2022-08-29~2022-09-04的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-09-01</time>
+        <a href="https://nodebe4.github.io/opinion/2022-09-01/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-08-29~2022-09-04的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-09-04/HeQinglian/">
+            前一篇：Twitter @He Qinglian: 2022-08-29~2022-09-04
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-09-04/cnmediaproject/">
+            後一篇：Twitter @China Media Project: 2022-08-29~2022-09-04
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-09-04/HeQinglian/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-09-04/cnmediaproject/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-09-04/theoryofdoom/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-09-04/EnclavedMicrostate/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-09-04/HeQinglian/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-09-04/cnmediaproject/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-09-04/theoryofdoom/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-09-04/EnclavedMicrostate/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

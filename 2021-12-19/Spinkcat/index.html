@@ -1,0 +1,2432 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Spinkcat在2021-12-13~2021-12-19的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Spinkcat在2021-12-13~2021-12-19的言论" />
+    <meta property="twitter:title" content="Spinkcat在2021-12-13~2021-12-19的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FChina_irl%2Fcomments%2Fretd7y%2F%E6%84%9F%E8%A7%89%E5%A4%A7%E9%99%86%E7%BD%91%E7%BB%9C%E4%B8%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%B4%87%E6%8B%9C%E6%AF%9B%E4%BA%86%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/China_irl/comments/retd7y/感觉大陆网络上年轻人越来越崇拜毛了/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/China_irl/comments/retd7y/感觉大陆网络上年轻人越来越崇拜毛了/&text=Spinkcat在2021-12-13~2021-12-19的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/China_irl/comments/retd7y/感觉大陆网络上年轻人越来越崇拜毛了/&title=Spinkcat在2021-12-13~2021-12-19的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/China_irl/comments/retd7y/感觉大陆网络上年轻人越来越崇拜毛了/&title=Spinkcat在2021-12-13~2021-12-19的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Spinkcat在2021-12-13~2021-12-19的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/China_irl/comments/retd7y/感觉大陆网络上年轻人越来越崇拜毛了/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/China_irl/comments/retd7y/感觉大陆网络上年轻人越来越崇拜毛了/&title=Spinkcat在2021-12-13~2021-12-19的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Spinkcat在2021-12-13~2021-12-19的言论&url=https://old.reddit.com/r/China_irl/comments/retd7y/感觉大陆网络上年轻人越来越崇拜毛了/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Spinkcat在2021-12-13~2021-12-19的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2021-12-19
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://www.reddit.com/user/Spinkcat/" style="font-size:14px;">作者: Spinkcat</a>
+        </span>
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/China_irl/comments/retd7y/感觉大陆网络上年轻人越来越崇拜毛了/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#1459-感觉大陆网络上年轻人越来越崇拜毛了-submitted-on-2021-12-13-0111480800" id="markdown-toc-1459-感觉大陆网络上年轻人越来越崇拜毛了-submitted-on-2021-12-13-0111480800">1459: 感觉大陆网络上年轻人越来越崇拜毛了？, submitted on 2021-12-13 01:11:48+08:00.</a></li>
+  <li><a href="#1460-汉文帝古仁君代表霸陵发现罕见刑徒俑-submitted-on-2021-12-16-0219000800" id="markdown-toc-1460-汉文帝古仁君代表霸陵发现罕见刑徒俑-submitted-on-2021-12-16-0219000800">1460: 汉文帝（古仁君代表）霸陵发现罕见刑徒俑, submitted on 2021-12-16 02:19:00+08:00.</a></li>
+  <li><a href="#1461-内娱完了-submitted-on-2021-12-17-0155070800" id="markdown-toc-1461-内娱完了-submitted-on-2021-12-17-0155070800">1461: 内娱完了, submitted on 2021-12-17 01:55:07+08:00.</a></li>
+  <li><a href="#1462-过去5000年中国分裂的时间越来越短-submitted-on-2021-12-17-0407360800" id="markdown-toc-1462-过去5000年中国分裂的时间越来越短-submitted-on-2021-12-17-0407360800">1462: 过去5000年，中国分裂的时间越来越短, submitted on 2021-12-17 04:07:36+08:00.</a></li>
+  <li><a href="#1463-关于苏联的poll-submitted-on-2021-12-18-1455160800" id="markdown-toc-1463-关于苏联的poll-submitted-on-2021-12-18-1455160800">1463: 关于苏联的poll, submitted on 2021-12-18 14:55:16+08:00.</a></li>
+  <li><a href="#1464-文革后邓小平把文革跳的欢的没背景的全重判了-submitted-on-2021-12-18-2219150800" id="markdown-toc-1464-文革后邓小平把文革跳的欢的没背景的全重判了-submitted-on-2021-12-18-2219150800">1464: 文革后，邓小平把文革跳的欢的，没背景的，全重判了, submitted on 2021-12-18 22:19:15+08:00.</a></li>
+  <li><a href="#1465-盒战争因流弹误伤已停战36小时-submitted-on-2021-12-19-2300260800" id="markdown-toc-1465-盒战争因流弹误伤已停战36小时-submitted-on-2021-12-19-2300260800">1465: 盒战争因流弹误伤已停战36小时, submitted on 2021-12-19 23:00:26+08:00.</a></li>
+</ul>
+
+<h3 id="1459-感觉大陆网络上年轻人越来越崇拜毛了-submitted-on-2021-12-13-0111480800">1459: <a href="https://old.reddit.com/r/China_irl/comments/retd7y/感觉大陆网络上年轻人越来越崇拜毛了/">感觉大陆网络上年轻人越来越崇拜毛了？</a>, submitted on 2021-12-13 01:11:48+08:00.</h3>
+
+<p>—– <strong>1459.1</strong> —–2021-12-13 02:04:35+08:00:</p>
+
+<p>大西王神选，毛润之</p>
+
+<h3 id="1460-汉文帝古仁君代表霸陵发现罕见刑徒俑-submitted-on-2021-12-16-0219000800">1460: <a href="https://old.reddit.com/r/China_irl/comments/rh5jhc/汉文帝古仁君代表霸陵发现罕见刑徒俑/">汉文帝（古仁君代表）霸陵发现罕见刑徒俑</a>, submitted on 2021-12-16 02:19:00+08:00.</h3>
+
+<p>—– <strong>1460.1</strong> —–2021-12-16 07:09:23+08:00:</p>
+
+<p>古代对人的定义是不同的，仁爱主要是对遵守王法有人身自由权的人才会被实行。</p>
+
+<p>犯法总归是要处理的，徭役是古代常见的一种缴税或服罪方式，封建社会有一套自己运作的体系。</p>
+
+<p>文帝是皇帝，哪怕有人殉在当时年代也很正常，死后是没法控制后人对他做什么的。</p>
+
+<p>朴素这点根据霸陵判断也没错，因为没封土，母妻陵墓都有封土，符合历史记载。</p>
+
+<h3 id="1461-内娱完了-submitted-on-2021-12-17-0155070800">1461: <a href="https://old.reddit.com/r/China_irl/comments/rhw4cn/内娱完了/">内娱完了</a>, submitted on 2021-12-17 01:55:07+08:00.</h3>
+
+<p>—– <strong>1461.1</strong> —–2021-12-17 09:55:05+08:00:</p>
+
+<p>很难想象经济理论在越来越发达，规模越来越大的道路。</p>
+
+<p>但是文化产业却出现大规模停滞不前甚至倒退，含有出现退化的情况。</p>
+
+<p>我觉得目前TG的文化管制政策，无论是商业还是行政钳制本身，都已经完全不符合本时代中国人民的需求。</p>
+
+<p>TG有意塑造的文化市场，商业上极度内卷，恶性竞争与不利消费者行为，垄断后又没有标准立法流程，全民只能傻等着干瞪眼。</p>
+
+<p>不看这些国内卷王的东西，看国外的行不行？</p>
+
+<p>也不行，现在从资源网站、汉化组到小众圈子都予以大规模的铁拳打击，甚至流行文化用语都要管控，最魔幻的就是伞兵这个词，伞兵只是一个词汇，但官方会为了建立军队威权，不让用这个替代词，特地开放了傻逼给许多网站。</p>
+
+<p>而不让叫傻逼，本身又是官方管控政策衍生来的，伞兵就是个派生词汇。</p>
+
+<p>这属于衔尾蛇，到头来还是你自己制造了一个问题出来。</p>
+
+<p>我国在文娱上努力的爱好者与专业人士，不谈他们自己能力如何，但多数都跟在盐田上种植粮食的农民一样，既不可思议又不得不做，因为这是他们赖以维生的，也是我们这些消费者所期待和需要的。</p>
+
+<p>TG就像一个不断盐田上撒盐的阴云，你拼命撇除盐粒，他那面就又给你盖上一堆。</p>
+
+<p>老实说，其他许多方面，扭转都可以很快。</p>
+
+<p>但文化产业的颓败，一旦发生了对子孙后代和中国本身在亚洲文化的主导地位可能彻底丧失，这种长远的杀伤，会伴随TG制造的人口失衡，长期折磨中国人。</p>
+
+<p>哪怕TG消失了，也要数个世代才能缓缓恢复，就跟文革和反右带来的民族精神创伤、文物与专业知识的损失，也是永久性的一样。</p>
+
+<p>我能看到许多中国现代文化发展的苗头，但很快就被TG针对性的扼杀了，加上从院校、审核与商业对文娱从业者和企业的管控。</p>
+
+<p>目前作为中国人，我真的看不到太多拿得出手有相当影响力的中国现代文化。</p>
+
+<p>网文？被干死了，然后呢？有人能帮我想想吗？因为我想了好几个，发现都被干死或残废了。</p>
+
+<h3 id="1462-过去5000年中国分裂的时间越来越短-submitted-on-2021-12-17-0407360800">1462: <a href="https://old.reddit.com/r/China_irl/comments/rhyz0c/过去5000年中国分裂的时间越来越短/">过去5000年，中国分裂的时间越来越短</a>, submitted on 2021-12-17 04:07:36+08:00.</h3>
+
+<p>—– <strong>1462.1</strong> —–2021-12-17 09:41:33+08:00:</p>
+
+<p>古早世代分裂与势力林立，是因为获取资源的界限互相独立。</p>
+
+<p>一个部落在一百年内可以开垦的土是有限的，但随着不断发展，其他部落也开始因人口增长而不断扩张，最后双方接壤，然后产生矛盾与战争，最后形成吞并。</p>
+
+<p>农业社会有一个基础逻辑，人就是劳动力资源，所以只要资源足够就会不断生育人口，多余的人口会形成内卷，为了解决这种内卷就需要对外扩张土地，让人均持有土地多起来。</p>
+
+<p>技术的发展，让土地导致的兼并有所减少，因为没有地也可以做手工业或其他的，但这种职业在社会里是占少数，整个中国古代的技术发展，对产业推动吸纳过剩人口的容纳能力，始终不是特别强。</p>
+
+<p>实权的统一，是从唐后才开始走向集中。</p>
+
+<p>整个东西两汉，是从郡国体系走向地方豪强的门阀体系的历史过程。</p>
+
+<p>地方大的势力，原本是有独立文字、文化与各类制度的王国，从秦灭六国后，西汉依旧沿用分封体系，让郡国并行可以看出，不可能一下就扭转所有历史惯性，秦要压迫六国遗民包括秦人本身，强行实立郡县制，苛政进一步的被实施，最终促成翻车。</p>
+
+<p>西汉早期许多封国仍然保持原有的运行制度，多次内战和推恩令后才逐渐走向革除异姓王，以及让宗室王的权力被收缩。</p>
+
+<p>但汉代始终无法避免地方豪强与大族的影响，双方依旧是合作关系，地方势力随时可能反叛。</p>
+
+<p>东汉开始这个问题愈发明显，孝廉制度也被渗透成筛子，因为中央是无法准确理解地方情况，只能依靠地方势力，而如果中央过强，对地方施政出现错误，就会出现地方民人暴起，或是地方豪强零头，杀死太守自立造反的情况。</p>
+
+<p>整个东汉这种情况非常普遍，黄巾起义也只是大爆发，让中央的财权、军权与威权彻底失效，给了地方钻空子的机会。</p>
+
+<p>到三国、魏晋南北朝，地方势力都一直是主流，因为这个时期外族入侵，让有限的土地有了更多人，同时土地本身也因为历史推进，有了更多的扩张开垦，得以让人口矛盾处于南方有新开垦土地，可以得到舒缓，北方的土地反而因外族涌入而不足，需要南下发动战争。</p>
+
+<p>地理上的南朝土地因为有开垦余地的原因，整体晚于北朝走向崩溃，北方如前秦，就较早进行南征，结果大败，到南北朝开始后，南方土地开垦效率已经跟不上人口增长速度，所以促成了刘宋多次北伐，以及后续南朝北伐的习惯。</p>
+
+<p>一直到侯景之乱前，世家门阀作为地方贵族的影响力都很显著，北方也经常处于少数民族与本地汉人的矛盾间摆荡，北方五胡时代后，到北魏时期就开始进入大融合阶段。</p>
+
+<p>南朝的世家门阀也开始过于分散，对社会的蚕食以及政府治国有极大的负面影响，整个社会正在随着旧体制的过于依附寄生走向崩溃，侯景之乱只是结果，因为人口问题导致的户口混乱，基础的军事与政府制度失效，士族体系也开始走向崩溃，侯景之乱只是结果。</p>
+
+<p>北魏汉化和耕地减少带来的内卷斗争，也衍生了六镇之乱，并且为后续分裂埋下隐患。</p>
+
+<p>整体来说，中央集权的失败，以及地方势力与中央的拉锯，几乎贯穿了汉到唐，从秦的一国一族，到汉时地方只有治权，文化不独立。再到后来脱离实际土地与职权，从中央封国，变为家族式流动控制地方资源的门阀士族，都反应了人口扩大，集团与集团之间的边界减少。</p>
+
+<p>要么合作要么服从，最糟糕的结果就是走向斗争，</p>
+
+<p>曹操开辟的霸府体系，有一部分原因就是在这个基础上做一个协调，给政府过渡提供了合法性，不会中止政策，地方势力可以通过对霸府的支持入股，直接接驳到新的中央政权。另一方面又给前中央下台做缓冲，给霸府政权过渡建国接手政权合法性提供合法性。</p>
+
+<p>这种体系到刘裕时才比较大的打破，但后续宇文泰、宇文护、杨坚都相对稳定。</p>
+
+<p>霸府反应的时一套新的管治体系，被地方势力接纳，用于交替中央政府外壳下的实际主导权。</p>
+
+<p>到隋时为了处理这种地方势力的问题，沿用与改善历代累积的察举制和中正制，让科举取代地方权力，作为提供人才和官僚储备的手段。</p>
+
+<p>也就是说早期的分裂，是正常情况，到唐代开始，中国才慢慢走向集权。</p>
+
+<p>因为社会总体的土地库存增加，荒地开垦率越来越高，缺乏地理上控制地方不受中央节制的可能。</p>
+
+<p>而更多的开垦农地得到的资源，加上中央政府可以直接获得全国人才储备，能形成绝对资源优势，对全国反叛者进行非常有效的打击。</p>
+
+<p>军事与行政都绕过了地方豪强托管体系，直接介入到地方管理。（当然，有极限）</p>
+
+<p>还有就是隋唐时期最大的改革，确立的中央集权的运作模式，也就是律令制，秦汉律令，基本上从后世眼光看，都不是一种适用于中央对全国有效管制的架构，因为到地方上总有封国或豪强干预。</p>
+
+<p>唐的许多制度改良于隋，而因为长年战争，人口减少而开垦土地富余，以及合理的行政管理，才出现了人口快速扩张而资源仍旧丰富，出现了前所未有的治世。</p>
+
+<p>而宋、明、清，则是一脉相承，都在不断试图加强皇权，宋的与士大夫治天下并不严谨，因为宋的士大夫影响力并不如唐，唐仍然保留了许多南北朝的惯性，到中后期有许多知名世家为官，以及不少的士大夫家族，这一点宋明清，则是呈现一个递减关系的。</p>
+
+<p>另一方面，中国土地开垦的极限范围，基本就是在唐代开始出现，宋代达到顶峰。</p>
+
+<p>土地承载人力资源的极限，在唐代较晚触及，因此唐代中前期生活治理很高，社会整体氛围较好。</p>
+
+<p>在文化产业上也出现了极大的兴盛期，人均资源与生存压力很低，因此我们常见的中国古代文化面貌雏形，就是来自于唐，如四大名著其二，早期的唐说话，逐渐演变过渡为宋的评话。</p>
+
+<p>到五代十国以后，北方原本融入中原的少数民族分支，又因为数百年的发展开始出现人口过剩，因此开始不断南下，并且有能力对中原做出干预。</p>
+
+<p>最后这个结果就是变相又出现了“南北朝”，辽金西夏长期管制北方与西北。</p>
+
+<p>宋实际是一个中央集权占很大比重的朝代，三冗问题到最后体现的，就是宋政府权力过于集中，也诞生了相对应的臃肿问题，地方处理问题的资源不足或怠慢，对民变的产生有很大的刺激作用。</p>
+
+<p>而北宋前期和南宋中前期，战争压力减少，人口因战争损耗，有限的耕地产出比人口总数多，因此又出现了文化兴盛期，这个时期中国的古代文化面貌就此成型。</p>
+
+<p>所以谈中国古文化，现在我们第一眼想到的古代面貌，基本都是南北朝以降，从唐到宋时期形成的文化面貌，包括衣冠穿着。</p>
+
+<p>宋代的户籍制度跟现代户籍制度很像，除了表面的官户民户的主要区别外，核心划分的是坊郭戶与乡村户，也就是城乡二元体系。</p>
+
+<p>出现的问题很像，一样也是因为财富分配不平等，随着财富等级划分的障碍，农村人无法获得生存资源与生产工具，最终沦为城市人口的依附品，为城市提供廉价劳动力。</p>
+
+<p>元朝属于异类，但也有沿用户籍的做法，做了更夸张的阶级划分，因此朱元璋才认为元以宽而失，有在元的基础上革新了户籍制度，整个明朝对君权、中央政府集权都到了一种顶峰，并而为了不让政府制度被拖累，用成本转移的方式直接靠户籍制度管理。</p>
+
+<p>比如节约行政成本，军户随时间扩张，人口增加，而军户服役的典选权，是转嫁给军户本身，行政官僚不负责处理，军户如果不能改户，就会出现军户家族内部扯皮，内部形成交易市场，服役当作一种期权流通交易，换取不同人可以服役得到利益，或不服役的人获得好处的做法。</p>
+
+<p>然后进一步又衍生了长期问题，军户与军队联系脆弱，变更调动的成本，军户难以承担，因此对军事控制的效率下降，地方需要更多自治权自主决定，但中央只提要求，不负责听问题和解决问题，又是经典的事权不对称。</p>
+
+<p>因此分裂并不是一个问题，重点是，社会的主体在谁。</p>
+
+<p>古代封建农业社会，社会的主体是王权，而现代社会主体是民权，也就是说权力随着产业升级与工业化，资源的生产和新技术的诞生被民权垄断，王权作为威权的一种落后形式，就不被接受，遭到淘汰。</p>
+
+<p>只能用较为新的威权面孔，用更低的姿态现代化自己去处理社会矛盾，尽可能多的延长管控。</p>
+
+<p>中国社会因地理封闭，实际在唐宋就到碰到了物理扩张极限，随后就陷入了高度内卷化，也给中央集权与统一提供了大量的资源，所以长期割据越来越难，因为地理上跟秦汉、三国南北朝、五代十国一样的环境不复存在，交通道路或沼泽丛林，都随着每次碰到人口极限的耕地扩张得到清理。</p>
+
+<p>这给占有大量耕地的优势政权，超大规模进攻和运输粮食提供基础，所以地方割据几乎是不可能的事。</p>
+
+<p>明朝灭亡，也是因为失去了这种中央政权作为拥有最多资源集团的体量优势，道路便捷，在大面积民变的基础下，变相给流动性强的农民军很大优势。</p>
+
+<p>到了清代，就是内卷极限，因为输入的农作物和技术，让人口膨胀到一个离谱的范围。但土地总体面积没有变化，而每个农民销售农作物都期待利润，但不是每个人都有土地。</p>
+
+<p>没土地的人购买食物需要金钱，持有少量土地的人期待能卖出粮食得到利润，最终不平衡导致买卖市场崩溃，人均资源内卷爆炸，通常来说会有开垦时间，呈现一个几十年的盛世。</p>
+
+<p>但清朝的人口增速远远高于唐宋明，康乾盛世实际只能说是政府实力的巅峰，整个清代人民生活水平大体就两个相对高峰，一个是明末战争结束后到康熙与乾隆早期，另一个是太平天国前，鸦片战争前的十到二十年。</p>
+
+<p>第一次人口高峰，结束时以大规模的民变，也就是白莲教起义为代表。</p>
+
+<p>第二次人口高峰期更短，结果就是太平天国，</p>
+
+<p>三次苗乱的时间跨度，也反应了清朝本质对地方的管控能力，哪怕在盛世时期，也因过于权力集中与人口内卷，有极大的行政压力。</p>
+
+<p>所以不是没有割据政权，而是割据政权在地理上不如古代社会一样容易存续，哪怕西藏和新疆等地，也有了足够的交通条件，中原的中央政权具备充足经济实力，供给大批部队进入这些地区实行管控。</p>
+
+<p>而唐代哪怕最强的时候，也只是名义臣服与合作，有矛盾纠纷，并不能非常实质性的介入长期管控。</p>
+
+<p>所以地理与技术因素，是决定许多历史走向的结果。</p>
+
+<p>如果靠武力统一，往往难以长久，生产力的统一才能确保整体协调，因此权力从王权被转移到多数人的民权，也是必然过程。</p>
+
+<p>—– <strong>1462.2</strong> —–2022-01-20 21:25:39+08:00:</p>
+
+<p>军户就是明朝户籍制度指定某些人世代为军，要出人力去当兵。</p>
+
+<p>但是典选权是交给军户内部自己处理。</p>
+
+<p>明初本来一家一户一人，后来发展了，军户人数增加，一户变成几百人的家族，一户一丁要人当兵，本来是户主应该担当兵役，但这个时候可以在家族内部商议，选择让谁去当兵。</p>
+
+<p>这种情况甚至产生了一种兵役流转制度，靠出钱或给好处，让族内愿意的人替代自己当兵。</p>
+
+<p>政府只管你出人，但是不管你出谁，选谁怎么选都是军户自己的事。</p>
+
+<h3 id="1463-关于苏联的poll-submitted-on-2021-12-18-1455160800">1463: <a href="https://old.reddit.com/r/China_irl/comments/rj1qun/关于苏联的poll/">关于苏联的poll</a>, submitted on 2021-12-18 14:55:16+08:00.</h3>
+
+<p>—– <strong>1463.1</strong> —–2021-12-18 22:25:30+08:00:</p>
+
+<p>戈尔巴乔夫有问题，也只是经济改革失败错过了改革窗口期，让矛盾加剧不可逆，但解体问题纯粹背锅。</p>
+
+<p>新联盟本身已经基本确立，乌克兰都准备加入，是体制问题产生的旧苏联保守派政变，强行制造内斗，导致苏共中央崩溃，被叶利钦钻空子一举拿下。</p>
+
+<p>戈尔巴乔夫宣布解体苏联等一系列行为都是被迫做的。</p>
+
+<p>他从开始外出度假就失去实权，假期还没结束就被政变控制，政变的人失败了，叶利钦趁机占据中央主导地位，戈尔巴乔夫要靠苏共才能发号施令，然而苏共的高层几乎全反对他。</p>
+
+<p>我到现在不明白外界认为戈尔巴乔夫要为苏联解体负责的主要原有，到底是不是大众真的理解整个苏联解体的过程才得出的结果。</p>
+
+<p>如果说经济和改革政策下，戈尔巴乔夫水平不够，胡搞乱搞还内斗不少，那的确有锅。</p>
+
+<p>如果大部分人只是认为戈尔巴乔夫在宣布苏联解体时，还有能力阻止而他还偏偏要这样做，那就纯属愿望了。</p>
+
+<p>苏联实质性时大多数人不太了解的苏共保守派高层解体的，没有他们制造权力中央的混乱，叶利钦作为戈尔巴乔夫的对立面政敌，完全没机会钻空子。</p>
+
+<p>一个光杆司令，被叶利钦和新势力逼着干活，能做什么。</p>
+
+<p>苏共保守派高层的愚蠢，导致了苏共有史以来最大的失败，结果自然是被团灭解体，叶利钦轻松到甚至在权力中枢刚易手时，去度假一个月，你就说这安全到什么程度了。</p>
+
+<p>叶利钦能得到军方支持，而苏共保守派得不到，一开始还能控制部分军队时又不敢冒险打内战。</p>
+
+<p>真正为苏联解体做贡献的，其实都不在列。</p>
+
+<p>苏联解体除了体制的必然性，剩下的就是苏共保守派高层不愿意接受新盟约，擅自发动政变反对苏共最高领袖，破坏苏共中央权威，让第三方政敌钻空子，结果军队哑火，甚至倒戈向政敌。</p>
+
+<p>刘备跟诸葛亮闹矛盾，诸葛亮把刘备架空软禁了，想调兵，结果军队跟着关张跑到曹操那，掉头把诸葛亮干挺了，刘备能做啥，啥也做不了。</p>
+
+<p>这个话题说过很多次了。</p>
+
+<p>旧苏联的旧制度本身就是反人性不能长久，所以才商议新盟约，苏共高层脑抽，不接受新盟约，让旧苏联消失软着陆有过渡期，结果没有新盟约，导致苏联解体硬着陆。</p>
+
+<p>俄罗斯人和东欧各国摊上这么一群脑瘫高层，算是从叶卡捷琳娜那辈就把运气用光了，倒八辈子血霉。</p>
+
+<p>—– <strong>1463.2</strong> —–2021-12-19 09:00:54+08:00:</p>
+
+<p>保守派分歧以及权力中心不稳定，归根溯源，是因为勃列日涅夫长期执政累积的烂摊子过多。</p>
+
+<p>错过了多次改革黄金期，经济问题是持续推进的，不会停下来等人，所以戈尔巴乔夫上台时，苏共中央跟实际经济状况的改革进度，已经落后数年，安德罗波夫改革还没完全转动起来，就病死在任上。</p>
+
+<p>而勃列日涅夫死的太晚，后续两任政策无法实施，到戈尔巴乔夫这里，实际一开始是站在保守派立场去推行改革，但某些立场又跟保守派有分歧。</p>
+
+<p>主要产生分歧，后来愈发无法合拢的一个节点，就是《我不能放弃原则》这一文章发表，因为东欧剧变，尤其是波罗的海三国的运动，对苏联体制冲击非常大，歌唱革命在这之后发生。（但苏共高层分歧，大部分时候仍然是希望将矛盾聚焦在体制程序内）</p>
+
+<p>但本质上要求苏联内部舆论遵循旧制的《我不能放弃原则》，就是保守派利加乔夫等人运作的产物。</p>
+
+<p>从这个角度可以看得出，保守派根本不是很在乎经济上和整体舆论对苏联的影响，已经迂腐到了一定程度。</p>
+
+<p>戈尔巴乔夫在经济的改革上是不成熟的，除了刚上台对国企改革，以及后来没展开但显然不理想的五百日计划，但都建立在苏联将面临无序解体的前提下。</p>
+
+<p>转向政治改革，一定程度也是刚上台经济改革失败，不懂得如何改革的结果。</p>
+
+<p>另一方面也是如果当时不政治改革，拿出基本态度，加盟国都将硬脱离。</p>
+
+<p>而戈尔巴乔夫对苏共中央的判断，是认为苏共高层无法自行选择改革，所以推行公开化，让改革有群众基础去实行，同时利用叶利钦在改革和保守之间做摇摆。</p>
+
+<p>在这点上，保守派有反抗，但并不是后来政变的核心原因。</p>
+
+<p>所以在保守派角度看似激进的政治改革，都是戈尔巴乔夫没有选择余地的选择，到最后新盟约建立的新苏联，已经是不幸中的万幸，保住了大多数加盟国，给苏联转型做了合法铺垫。</p>
+
+<p>戈尔巴乔夫执政基本不是以削弱保守派权力为目标，而是并行运作，改革所需的时间基本没有给他机会去先整肃全部保守派。</p>
+
+<p>正因为在苏共管控权上戈尔巴乔夫已经占上风，所以对保守派可能的反扑才忽略，88年利加乔夫运作保守派反扑失败，政治局争吵两条后，批判《我不能放弃原则》这一文章成为苏共内部通稿可以反应这一点。</p>
+
+<p>紧急状态委员会选择新盟约签署的前一天才发动政变，其实就是保守派没辙了，他们要确保的是苏联的旧体制，戈尔巴乔夫在经济改革上已经很大程度让步，但推行政治改革时，如果不继续去做，旧苏联可能会陷入内战，必然陷入硬着陆。</p>
+
+<p>苏共保守派不在乎这点，说白了就是脑子转不过弯，前面跟戈尔巴乔夫各方面已经妥协了，因为有叶利钦这种激进派，所以改良派看起来也没那么可恨。</p>
+
+<p>但当保守派意识到戈尔巴乔夫要改变苏联祖制时，矛盾便不可调和。</p>
+
+<p>总体而言，保守派坚持认为新盟约是对苏联的背叛，是实质性的解体，这是矛盾最大的来源。</p>
+
+<p>然而新盟约是不得不做的事，因为不做，苏联会原地解体，所以已经事坏结果里最不坏的那个。</p>
+
+<p>亚纳耶夫在自述八一九政变里认为是被卖了，在反对苏联解体的基础上，也反对克留奇科夫的做法，而根据他的描述，克留奇科夫等人也多次跟戈尔巴乔夫讨论过。</p>
+
+<p>所以苏共中央虽然后期分歧巨大，但跟中共在六四里的矛盾完全利益与立场化不同，苏联的国家建制化较好，没有发生中国同期的极限斗争。</p>
+
+<p>就我的角度，勃列日涅夫改革失败加拖延改革，后续两任去世错过改革机会，戈尔巴乔夫上任后没有时间为经济改革做铺垫（当然，也不具备这方面的优势和能力），经济改革失败让戈尔巴乔夫的政治砝码减少。</p>
+
+<p>既需要说服苏共高层，也需要说服对苏共中央有怀疑的加盟国。</p>
+
+<p>在意识到无法说服同僚后，开始走向公开化，同时加盟国独立运动开始迭起。</p>
+
+<p>戈尔巴乔夫又不得不转向去为苏联可能解体做缓冲设计，此时他为首的改良派已经意识到旧苏联解体是无可避免，而苏共保守派则不认为。</p>
+
+<p>维持国家运作的必要性，建制化的合理性上，双方大体还是保持一致，只是戈尔巴乔夫在改革话题上对保守派占优势。</p>
+
+<p>苏联到了不得不改的情况下，怎么做才是关键。</p>
+
+<p>旧苏联体制下的保守派，并不认为苏联无药可救，觉得有必要在新盟约实施前，对试图独立地区实行紧急状态，说白了就是军管，复刻布拉格之春。</p>
+
+<p>戈尔巴乔夫认为，独立运动不可避免，强行施加影响，会引发苏联全面内战，财政已经不能支持苏联支撑军事入侵，所以退而求其次，在大众印象恶化之前，利用投票去赋予新苏联的邦联体系合法性，坐实法理上的优势地位，将旧苏联解体的负面影响降到最小。</p>
+
+<p>这一点是双方最大且无可调和的分歧。</p>
+
+<h3 id="1464-文革后邓小平把文革跳的欢的没背景的全重判了-submitted-on-2021-12-18-2219150800">1464: <a href="https://old.reddit.com/r/China_irl/comments/rj8fob/文革后邓小平把文革跳的欢的没背景的全重判了/">文革后，邓小平把文革跳的欢的，没背景的，全重判了</a>, submitted on 2021-12-18 22:19:15+08:00.</h3>
+
+<p>—– <strong>1464.1</strong> —–2021-12-18 22:31:38+08:00:</p>
+
+<p>我也挺好奇几十年后，有些人怎么面对新社会，我估计会因为绑定太深，只能坚持到底，不得不跟船一起沉了。</p>
+
+<h3 id="1465-盒战争因流弹误伤已停战36小时-submitted-on-2021-12-19-2300260800">1465: <a href="https://old.reddit.com/r/China_irl/comments/rjyf4x/盒战争因流弹误伤已停战36小时/">盒战争因流弹误伤已停战36小时</a>, submitted on 2021-12-19 23:00:26+08:00.</h3>
+
+<p>—– <strong>1465.1</strong> —–2021-12-20 09:37:01+08:00:</p>
+
+<p>奇异博士</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2021-12-26</time>
+        <a href="https://nodebe4.github.io/opinion/2021-12-26/Commodify/">
+          Commodify在2021-12-20~2021-12-26的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-12-24</time>
+        <a href="https://nodebe4.github.io/opinion/2021-12-24/ForeignAffairsMag/">
+          ForeignAffairsMag在2021-12-20~2021-12-26的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-12-18</time>
+        <a href="https://nodebe4.github.io/opinion/2021-12-18/ForeignAffairsMag/">
+          ForeignAffairsMag在2021-12-13~2021-12-19的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-12-13</time>
+        <a href="https://nodebe4.github.io/opinion/2021-12-13/EnclavedMicrostate/">
+          EnclavedMicrostate在2021-12-13~2021-12-19的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2021-12-18/%E8%82%85%E8%AA%AA-%E8%AA%B0%E5%88%86%E8%A3%82%E4%BA%86%E4%B8%AD%E5%9C%8B-%E8%AA%B0%E6%98%AF%E5%8F%B0%E7%8D%A8/">
+            前一篇：肅說：誰分裂了中國？誰是台獨？
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2021-12-19/cnmediaproject/">
+            後一篇：Twitter @China Media Project: 2021-12-13~2021-12-19
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2021-12-18/%E8%82%85%E8%AA%AA-%E8%AA%B0%E5%88%86%E8%A3%82%E4%BA%86%E4%B8%AD%E5%9C%8B-%E8%AA%B0%E6%98%AF%E5%8F%B0%E7%8D%A8/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2021-12-19/cnmediaproject/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2021-12-24/ForeignAffairsMag/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2021-12-18/ForeignAffairsMag/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2021-12-18/%E8%82%85%E8%AA%AA-%E8%AA%B0%E5%88%86%E8%A3%82%E4%BA%86%E4%B8%AD%E5%9C%8B-%E8%AA%B0%E6%98%AF%E5%8F%B0%E7%8D%A8/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2021-12-19/cnmediaproject/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2021-12-24/ForeignAffairsMag/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2021-12-18/ForeignAffairsMag/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

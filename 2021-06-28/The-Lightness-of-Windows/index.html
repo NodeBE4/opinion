@@ -1,0 +1,3003 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>The Lightness of Windows – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+The Lightness of Windows
+——
+" />
+    <meta property="og:description" content="
+The Lightness of Windows
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="The Lightness of Windows" />
+    <meta property="twitter:title" content="The Lightness of Windows" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2021%2Fthe-lightness-of-windows%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2021/the-lightness-of-windows/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2021/the-lightness-of-windows/&text=The Lightness of Windows&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2021/the-lightness-of-windows/&title=The Lightness of Windows" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2021/the-lightness-of-windows/&title=The Lightness of Windows" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=The Lightness of Windows&body=
+The Lightness of Windows
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2021/the-lightness-of-windows/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2021/the-lightness-of-windows/&title=The Lightness of Windows&caption=
+The Lightness of Windows
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=The Lightness of Windows&url=https://stratechery.com/2021/the-lightness-of-windows/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>The Lightness of Windows</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2021-06-28
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2021/the-lightness-of-windows/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1624889675000-->
+<p><a href="https://stratechery.com/2021/the-lightness-of-windows/">The Lightness of Windows</a>
+——</p>
+
+<div>
+  <p>From Ian Sherr, writing about last week’s Windows 11 announcement <a href="https://www.cnet.com/news/microsofts-windows-11-announcement-all-the-free-upgrades-coming-this-fall/">for CNET</a>:</p>
+  <blockquote>
+    <p>When you choose a computer or smartphone to buy these days, you have to pick between several factions. There’s Apple world, which includes the Mac computer, iPhones and iPads, all designed to work together to help you share files, video chat and watch TV as easily as possible. There’s also Google land, whose Android software powers an array of phones, tablets and computers. But with Windows 11, Microsoft wants to break that mold.</p>
+    <p>The software giant said Thursday that its next major version of Windows will launch as a free upgrade this fall, offering a host of new features that in some ways appear designed to position Microsoft as the company whose products work with ones from Apple, Google and pretty much anyone else.</p>
+    <p>The company’s expanding its support for the Android app for example, allowing people to more easily run phone apps on their computer. Microsoft’s building its Teams software into Windows in a similar way as Apple’s FaceTime is built into Macs — except Microsoft doesn’t want it to be exclusive. There’s already a Microsoft Teams app for Mac, iPhones and Androids. (Microsoft CEO Satya Nadella even told a reporter he’d be happy to accept FaceTime onto Microsoft computers.)</p>
+  </blockquote>
+  <p>I really enjoyed this event; coming in at <a href="https://www.youtube.com/watch?v=q5egaM2hibs">a tight 44 minutes and 51 seconds</a>, it had a sort of playfulness and lightness that felt like a big contrast to Apple’s COVID-era commercial-like presentations. It feels like a bit of a role reversal from twenty years ago when Microsoft would have grand over-produced events at CES while Apple put on budget productions at Macworld.</p>
+  <p>That’s not a surprise, when you think about it: back then new versions of Windows meant new experiences for basically everyone who used a computer, new opportunities for developers, and new reasons to worry for competitors scared that this might be the year Microsoft made their products a feature. Apple, on the other hand, had nothing to lose.</p>
+  <p>Today is the opposite: Apple reigns supreme over the computing landscape. iOS 15 will bring new experiences to a billion users, new APIs provide new opportunities for developers, and Apple isn’t just building in features that hurt competitors, but creating new ones (i.e. Facebook and app install advertising); it is Windows that feels like it has nothing to lose.</p>
+  <h4 id="the-end-of-windows">The End of Windows</h4>
+  <p>Of course Windows remains essential software, with a billion-plus user base of its own, and a critical part of the enterprise landscape in particular (although, as the company highlighted in the presentation, COVID re-established the importance of the PC for consumers as well). What gives Microsoft more freedom-of-movement, though, is that Windows is no longer the core of its business. This remains CEO Satya Nadella’s biggest triumph; I recounted how he shifted the company away from its Windows-centricity in 2018’s <a href="https://stratechery.com/2018/the-end-of-windows/">The End of Windows</a>:</p>
+  <blockquote>
+    <p>The story of Windows’ decline is relatively straightforward and a classic case of disruption:</p>
+    <ul>
+      <li>The Internet dramatically reduced application lock-in</li>
+      <li>PCs became “good enough”, elongating the upgrade cycle</li>
+      <li>Smartphones first addressed needs the PC couldn’t, then over time started taking over PC functionality directly</li>
+    </ul>
+    <p>What is more interesting, though, is the story of Windows’ decline in Redmond, culminating with last week’s reorganization that, for the first time since 1980, left the company without a division devoted to personal computer operating systems (Windows was split, with the core engineering group placed under Azure, and the rest of the organization effectively under Office 365; there will still be Windows releases, but it is no longer a standalone business). Such a move didn’t seem possible a mere five years ago, when, in the context of another reorganization, former-CEO Steve Ballmer wrote a memo insisting that Windows was the future…</p>
+    <p>Thus my assertion at the top, that the story of how Microsoft came to accept the reality of Windows’ decline is more interesting than the fact of Windows’ decline; this is how CEO Satya Nadella convinced the company to accept the obvious.</p>
+  </blockquote>
+  <p>The rest of that article walks through how Nadella led Microsoft to that point, including Office on iPad, several of his strategy memos, and killing Windows Phone; I know it’s a cliché to say that something makes for a great business case study, but this really makes for a great business case study!</p>
+  <p>What Nadella’s change management also enabled was, to steal the title from <a href="https://www.wsj.com/video/series/joanna-stern-personal-technology/windows-11-microsoft-ceo-satya-nadella-on-the-new-start-of-the-pc-exclusive/3CB3E08F-9B10-4A95-BC89-C2C3C7176D9F">Joanna Stern’s delightful interview with Nadella</a>, a new “Start” for Windows:</p>
+  <p><a href="https://www.wsj.com/video/series/joanna-stern-personal-technology/windows-11-microsoft-ceo-satya-nadella-on-the-new-start-of-the-pc-exclusive/3CB3E08F-9B10-4A95-BC89-C2C3C7176D9F"><img loading="lazy" src="https://i2.wp.com/stratechery.com/wp-content/uploads/2021/06/windows-1.png?resize=640%2C525&#038;ssl=1" alt="A new &quot;Start&quot; for Windows" width="640" height="525" class="aligncenter size-full wp-image-6686" srcset="https://i2.wp.com/stratechery.com/wp-content/uploads/2021/06/windows-1.png?w=1280&amp;ssl=1 1280w, https://i2.wp.com/stratechery.com/wp-content/uploads/2021/06/windows-1.png?resize=300%2C246&amp;ssl=1 300w, https://i2.wp.com/stratechery.com/wp-content/uploads/2021/06/windows-1.png?resize=1024%2C840&amp;ssl=1 1024w, https://i2.wp.com/stratechery.com/wp-content/uploads/2021/06/windows-1.png?resize=768%2C630&amp;ssl=1 768w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></a></p>
+  <p>Yes, the reference was about moving the ‘Start’ menu to the center, but it applies to the Windows opportunity as well, and that opportunity only exists because what came before was already ended.</p>
+  <h4 id="apples-self-reliance">Apple’s Self-Reliance</h4>
+  <p>To return to the Windows/Mac comparison of twenty years ago, Apple’s problem was certainly a lack of developers, but that was, above all, because the company simply didn’t have enough users. The way the company fixed the problem was exactly what you would expect from Apple: they relied on themselves. One of the most brilliant and underrated moves of the Steve Jobs era was the development of the iLife suite of apps — iMovie, iPhoto, iTunes, iDVD, and GarageBand. I noted last year in <a href="https://stratechery.com/2020/apples-shifting-differentiation/">Apple’s Shifting Differentiation</a>:</p>
+  <blockquote>
+    <p>OS X brought software to the forefront, delivering not simply a technically sound operating system, but one that was based on Unix, making it particularly attractive to developers. And, on the consumer side, Apple released iLife, a suite of applications that made a Mac useful for normal users. I myself bought my first Mac in this era because I wanted to use GarageBand; 16 years on and my musical ambitions are abandoned, but my Mac usage remains.</p>
+    <p>By that point I was buying a Mac despite its hardware: while my iBook was attractive enough, its processor was a Motorola G4 that was not remotely competitive with Intel’s x86 processors; later that year Jobs made the then-shocking-but-in-retrospect-obvious decision to shift Macs to Intel processors. In this case having the same hardware as everyone else in the industry would be a big win for Apple, the better to let their burgeoning software differentiation shine.</p>
+  </blockquote>
+  <p>The point of that article, which I wrote upon the release of the M1 Macs, is that Apple’s software differentiation, particularly in the case of the Mac, was the smallest it had been in many years, which is why it was appropriate that the company’s differentiation was shifting back to hardware. Interestingly, though, that means that Microsoft is by definition on the other side of that coin: to the extent that Apple Silicon is superior to x86 (or other ARM chips) is the extent to which Windows is at a disadvantage.</p>
+  <h4 id="the-bill-gates-line">The Bill Gates Line</h4>
+  <p>Microsoft, like Apple, is responding by doing what they do best, but, because it’s Microsoft, it’s the exact opposite of Apple: instead of more deeply integrating and doing everything themselves in an attempt to appeal to consumers, they are opening up and removing limitations in an attempt to appeal to developers, and by extension consumers who don’t want to be bound into Apple’s ecosystem.</p>
+  <p>Nadella expounded on this in <a href="https://www.theverge.com/22549385/microsoft-satya-nadella-interview-windows-11-decoder">a really excellent interview with Nilay Patel at The Verge</a>:</p>
+  <blockquote>
+    <p><strong>Patel:</strong> That brings me to some of the big changes in Windows, which are fundamentally about what kind of operating system Windows is going to be and what kind of businesses you can run on it and what kind of business will that be for Microsoft.</p>
+    <p>There is a new user interface. The Start button is in the center of the screen. There’s cosmetic differences. But you’re also allowing Android apps to run on Windows. You are integrating the Amazon Android app store. You’ve made some changes to the store economics. You’ve reduced Microsoft’s cut to 15 percent. That’s in comparison to the very controversial 30 percent that Apple charges.</p>
+    <p>Then you’re saying to developers, “You can be in our store and you can not pay us a cut at all if you want to use your own payment model.” How much of that is opportunistic changes — you’re seeing all the controversy and you sense a market opportunity? And how much of it is this being the correct way to shift your business?</p>
+    <p><strong>Nadella:</strong> I think it’s driven by competition. What I mean by that is – what should Microsoft do to manage the platform and the platform rules such that we can thrive in that role?</p>
+    <p>The way I’ve interpreted what platforms do is: they have to create opportunity for people who build on the platform. That’s the way to keep a platform relevant. If you’re creating a great opportunity for others to be born on your platform and scale on your platform — that’s the Microsoft I grew up in. That’s the Windows I grew up with. Whether it is the Adobe folks creating their Creative Cloud or SAP building their ERP [enterprise resource planning] business. Or in today’s world, whether it’s Discord building their community for gamers on Windows or any other business.</p>
+    <p>To me, how do we make Windows more vibrant going forward?</p>
+    <p>I sense a real opportunity, because the other two ecosystems that are at scale, for their own internally consistent set of reasons, have conflated — at least in my mind — the platform and the aggregation layer with one set of rules. There’s no reason why there should be one set of rules. They can be disaggregated. After all, we do have a store. We do have commerce. You can use it all or you can bring your own. That’s [a] practical thing for Microsoft to do.</p>
+    <p>I’m not even trying to make some value statement that Microsoft is virtuous here and others are not. Others have chosen it for whatever reasons they have. This is a design choice and a business model choice. I want to make our own set of design and business model choices so that creators find more choice.</p>
+  </blockquote>
+  <p>It’s easy — and right! — to note that Microsoft definitely has nothing to lose when it comes to app stores. They don’t make that much money from the Windows App Store, and they (still) need to get more consumer apps for their platform. At the same time, Nadella’s framing of history very much fits with how Microsoft has always thought about Windows; I called it <a href="https://stratechery.com/2018/the-bill-gates-line/">The Bill Gates Line</a>:</p>
+  <blockquote>
+    <p>Over the last few weeks I have been exploring what differences there are between platforms and aggregators, and was reminded of this anecdote from Chamath Palihapitiya in <a href="http://haystack.vc/2015/09/17/transcript-chamath-at-strictlyvcs-insider-series/">an interview with Semil Shah</a>:</p>
+    <blockquote>
+      <p><strong>Semil Shah:</strong> Do you see any similarities from your time at Facebook with Facebook platform and connect, and how Uber may supercharge their platform?</p>
+      <p><strong>Chamath:</strong> Neither of them are platforms. They’re both kind of like these comical endeavors that do you as an Nth priority. I was in charge of Facebook Platform. We trumpeted it out like it was some hot shit big deal. And I remember when we raised money from Bill Gates, 3 or 4 months after — like our funding history was $5M, $83 M, $500M, and then $15B. When that 15B happened a few months after Facebook Platform and Gates said something along the lines of, “That’s a crock of shit. This isn’t a platform. A platform is when the economic value of everybody that uses it, exceeds the value of the company that creates it. Then it’s a platform.”</p>
+    </blockquote>
+    <p>By this measure Windows was indeed the ultimate platform — the company used to brag about only capturing a minority of the total value of the Windows ecosystem — and the operating system’s clear successors are Amazon Web Services and Microsoft’s own Azure Cloud Services. In all three cases there are strong and durable businesses to be built on top.</p>
+  </blockquote>
+  <p>Nadella referenced this exact point in the interview:</p>
+  <blockquote>
+    <p><strong>Nadella:</strong> In our case at Microsoft, I’ve always felt that, at least the definition of a platform is: if something bigger than the platform can’t be born, then it’s not a platform. The web, it grew up on Windows. Think about it. If we said, “All of commerce is only mediated through us,” Amazon couldn’t exist, if we had somehow said, “We’re going to have our own commerce model.”</p>
+    <p>Therefore I think each company has to choose and see what aggregation layer, what platform layer, [and] what rules work for them and their ecosystem. But, in our case, it’s very clear to us that we do want to solve for the same security issues, [and] discoverability issues, because that’s one of the reasons why we’re emphasizing the store. At the same time, the store can be used at different levels by different creators. We want to have that flexibility be a competitive differentiation.</p>
+  </blockquote>
+  <p>There is, to be clear, some amount of motivated reasoning here; in response to a question as to whether Microsoft would allow Google’s Play Store on Windows (the answer is yes), one of the examples Nadella cited positively was the existence of multiple marketplaces for games, from the Microsoft Store to the XBox Game Pass to Steam to Epic. I can tell you, though, that when I worked on the initial version of the Microsoft Store a decade ago there was a lot of consternation that Steam had built what Microsoft felt it should have; what if the company had realized the app store opportunity first? Would it be so laid back about competing models if there were billions of dollars at stake?</p>
+  <p>Perhaps not, but I think that is a blessing in disguise. It’s hard to feel great about the impact of the App Store on Apple from any angle other than a financial one; it’s not simply a strategy tax, but a cultural one, not only <a href="https://stratechery.com/2021/app-store-arguments/">poisoning the company’s relationship with developers</a> but actually resulting in <a href="https://stratechery.com/2017/apple-and-the-oak-tree/">a worse experience for users</a>, and it carries huge <a href="https://stratechery.com/2021/integrated-apple-and-app-store-risk/">regulatory risk</a>.</p>
+  <h4 id="return-of-windows">Return of Windows?</h4>
+  <p>Back in 2005 Paul Graham wrote <a href="http://www.paulgraham.com/mac.html">Return of the Mac</a>:</p>
+  <blockquote>
+    <p>All the best hackers I know are gradually switching to Macs. My friend Robert said his whole research group at MIT recently bought themselves Powerbooks. These guys are not the graphic designers and grandmas who were buying Macs at Apple’s low point in the mid 1990s. They’re about as hardcore OS hackers as you can get. The reason, of course, is OS X. Powerbooks are beautifully designed and run FreeBSD. What more do you need to know?…</p>
+    <p>If you want to attract hackers to write software that will sell your hardware, you have to make it something that they themselves use. It’s not enough to make it “open.” It has to be open and good. And open and good is what Macs are again, finally.</p>
+  </blockquote>
+  <p>So Windows is open, both in terms of the software you can write on it, the software you can run, and the business models you can employ; Microsoft has thrown the doors wide open to everyone. That leads to the next obvious question: is it good? Certainly this approach is going to lead to a lot of inconsistency; Patel asked Nadella what was the best argument against Android apps on Windows:</p>
+  <blockquote>
+    <p><strong>Nadella:</strong> I think always the argument will be, “do we have to have a consistent app model?” Because if you think about innovation — is there is some kind of NUI or even an AI chip that we want to light up? How can the APIs of that be lit up in such a way that this application can take advantage of it? When you have multiple subsystems and multiple app models, can you surface your platform system-level innovation such that all apps light up?</p>
+    <p>That is going to be the fundamental challenge in such a world, but we feel that there are ways. One of the ways I look at this is you can light an Android app or a PWA app or a UWP app on Windows in the future, or even today, for some of the new AI APIs.</p>
+    <p>At Microsoft we build for iOS, we build for Android, we build for Windows. That’s one of [our] fundamental challenges. We’re trying to make sure that as developers, we can leverage as much of the common code base, as much of the cloud, but at the same time, be native on each platform.</p>
+  </blockquote>
+  <p>Nadella’s last point actually leads to another answer to Graham’s challenge: does it matter? Apple’s shift to increasingly differentiate the Mac via hardware isn’t simply a function of the M1, but of the reality that for Macs and PCs the vast majority of essential software are web apps, or run on web technologies like Electron; meanwhile, in the one category where being native matters most — high performance games — Windows is as dominant as ever.</p>
+  <p>Perhaps that is why this presentation felt so playful and light: it might not matter. Windows is an essential business, but Nadella reduced its importance to Microsoft not out of spite, but because the the world had already changed before the company did.</p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2021-08-03</time>
+        <a href="https://nodebe4.github.io/opinion/2021-08-03/Metaverses/">
+          Metaverses
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-07-07</time>
+        <a href="https://nodebe4.github.io/opinion/2021-07-07/Instagram-s-Evolution/">
+          Instagram’s Evolution
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-06-21</time>
+        <a href="https://nodebe4.github.io/opinion/2021-06-21/Pandemic-Progress/">
+          Pandemic Progress
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-06-15</time>
+        <a href="https://nodebe4.github.io/opinion/2021-06-15/The-Cicilline-Salvo/">
+          The Cicilline Salvo
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2021-06-27/%E8%82%85%E8%AA%AA-%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1-%E8%A2%AB%E9%97%9C-%E9%A6%99%E6%B8%AF%E8%87%B3%E6%9A%97%E6%99%82%E5%88%BB%E5%B0%9A%E6%9C%AA%E5%88%B0%E4%BE%86-%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E6%BA%AF%E6%BA%90%E6%96%B0%E5%8B%95%E5%90%91-%E4%B8%AD%E5%AE%A3%E9%83%A8%E7%B7%A8%E6%95%99%E7%A7%91%E6%9B%B8-%E6%96%87%E9%9D%A9%E6%84%8F%E5%91%B3%E6%BF%83/">
+            前一篇：肅說：《蘋果日報》被關 香港至暗時刻尚未到來｜新冠病毒溯源新動向｜中宣部編教科書 文革意味濃
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2021-06-28/%E8%A6%8B-%E4%BB%81-%E8%A6%8B-%E6%99%BA-%E5%BE%9E%E8%87%BA%E7%81%A3%E8%B5%B0%E5%90%91%E5%9C%8B%E9%9A%9B%E8%88%9E%E5%8F%B0-%E6%88%91%E7%9A%84%E5%AD%B8%E6%80%9D%E6%AD%B7%E7%A8%8B/">
+            後一篇：見「仁」見「智」－從臺灣走向國際舞台 | 我的學思歷程
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2021-06-27/%E8%82%85%E8%AA%AA-%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1-%E8%A2%AB%E9%97%9C-%E9%A6%99%E6%B8%AF%E8%87%B3%E6%9A%97%E6%99%82%E5%88%BB%E5%B0%9A%E6%9C%AA%E5%88%B0%E4%BE%86-%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E6%BA%AF%E6%BA%90%E6%96%B0%E5%8B%95%E5%90%91-%E4%B8%AD%E5%AE%A3%E9%83%A8%E7%B7%A8%E6%95%99%E7%A7%91%E6%9B%B8-%E6%96%87%E9%9D%A9%E6%84%8F%E5%91%B3%E6%BF%83/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2021-06-28/%E8%A6%8B-%E4%BB%81-%E8%A6%8B-%E6%99%BA-%E5%BE%9E%E8%87%BA%E7%81%A3%E8%B5%B0%E5%90%91%E5%9C%8B%E9%9A%9B%E8%88%9E%E5%8F%B0-%E6%88%91%E7%9A%84%E5%AD%B8%E6%80%9D%E6%AD%B7%E7%A8%8B/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2021-07-07/Instagram-s-Evolution/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2021-06-21/Pandemic-Progress/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2021-06-27/%E8%82%85%E8%AA%AA-%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1-%E8%A2%AB%E9%97%9C-%E9%A6%99%E6%B8%AF%E8%87%B3%E6%9A%97%E6%99%82%E5%88%BB%E5%B0%9A%E6%9C%AA%E5%88%B0%E4%BE%86-%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E6%BA%AF%E6%BA%90%E6%96%B0%E5%8B%95%E5%90%91-%E4%B8%AD%E5%AE%A3%E9%83%A8%E7%B7%A8%E6%95%99%E7%A7%91%E6%9B%B8-%E6%96%87%E9%9D%A9%E6%84%8F%E5%91%B3%E6%BF%83/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2021-06-28/%E8%A6%8B-%E4%BB%81-%E8%A6%8B-%E6%99%BA-%E5%BE%9E%E8%87%BA%E7%81%A3%E8%B5%B0%E5%90%91%E5%9C%8B%E9%9A%9B%E8%88%9E%E5%8F%B0-%E6%88%91%E7%9A%84%E5%AD%B8%E6%80%9D%E6%AD%B7%E7%A8%8B/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2021-07-07/Instagram-s-Evolution/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2021-06-21/Pandemic-Progress/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

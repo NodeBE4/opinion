@@ -1,0 +1,916 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>福柯 – 规训与惩罚：监狱的诞生 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+福柯 – 规训与惩罚：监狱的诞生
+——
+" />
+    <meta property="og:description" content="
+福柯 – 规训与惩罚：监狱的诞生
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="福柯 – 规训与惩罚：监狱的诞生" />
+    <meta property="twitter:title" content="福柯 – 规训与惩罚：监狱的诞生" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2F2049post.wordpress.com%2F2020%2F09%2F15%2Fv6book4%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://2049post.wordpress.com/2020/09/15/v6book4/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://2049post.wordpress.com/2020/09/15/v6book4/&text=福柯 – 规训与惩罚：监狱的诞生&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://2049post.wordpress.com/2020/09/15/v6book4/&title=福柯 – 规训与惩罚：监狱的诞生" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://2049post.wordpress.com/2020/09/15/v6book4/&title=福柯 – 规训与惩罚：监狱的诞生" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=福柯 – 规训与惩罚：监狱的诞生&body=
+福柯 – 规训与惩罚：监狱的诞生
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://2049post.wordpress.com/2020/09/15/v6book4/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://2049post.wordpress.com/2020/09/15/v6book4/&title=福柯 – 规训与惩罚：监狱的诞生&caption=
+福柯 – 规训与惩罚：监狱的诞生
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=福柯 – 规训与惩罚：监狱的诞生&url=https://2049post.wordpress.com/2020/09/15/v6book4/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>福柯 – 规训与惩罚：监狱的诞生</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2020-09-14
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#火光">
+          火光
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://2049post.wordpress.com/2020/09/15/v6book4/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="火光的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#火光 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1600099860000-->
+<p><a href="https://2049post.wordpress.com/2020/09/15/v6book4/">福柯 – 规训与惩罚：监狱的诞生</a>
+——</p>
+
+<div>
+  <figure class="wp-block-image">
+<img src="https://telegra.ph/file/924515c4cab9de855f10a.png" alt="" />
+  </figure>
+  <h4 id="内容简介"></h4>
+  <h4 id="内容简介">内容简介</h4>
+  <p>本书旨在论述关于现代灵魂与一种新的审判权力之间相互关系的历史，论述现行的科学—法律综合体的系谱。在这种综合体中，惩罚权力获得了自身的基础、证明和规则，扩大了自己的效应，并且用这种综合体掩饰自己超常的独特性。</p>
+  <p>福柯称此书为“我的第一部著作”，历史学家彼得·盖伊则将《规训与惩罚》描述为福柯的关键文本，认为它影响了19世纪监狱理论与实践的学术研究。事实上，该书自出版以来，在哲学、政治、历史乃至建筑、艺术等诸多领域都产生了深刻的影响，成为诸多理论家和艺术家灵感的源泉。</p>
+  <h4 id="作者简介"></h4>
+  <h4 id="作者简介">作者简介</h4>
+  <p>米歇尔·福柯（Michel Foucault，1926－1984），20世纪极富挑战性和反叛性的法国思想家。青年时期就学于巴黎高等师范学校，以后曾担任多所大学的教职。1970年起任法兰西学院思想体系史教授，直至去世。</p>
+  <p>福柯的大多数研究致力于考察具体的历史，由此开掘出众多富有冲击力的思想主题，从而激烈地批判现代理性话语；同时，福柯的行文风格具有鲜明的文学色彩，讲究修辞，饱含激情，这也是他在欧美世界产生巨大影响的一个重要原因。</p>
+  <h4 id="书籍摘录"></h4>
+  <h4 id="书籍摘录">书籍摘录</h4>
+  <h5 id="选自第四部分第三章“监狱”">选自第四部分第三章“监狱”</h5>
+  <p>通过在社会各层面的运作，通过不断地将矫正艺术与惩罚权力混合，“监狱”的普遍性使惩罚之变得自然与可接受的标准降低了。人们经常提出一个问题，在大革命前后，惩罚权利是如何获得一种新基础的？无疑，答案应该在契约理论中寻找。但是，更重要的或许是提出相反的问题：民众是如何被造就得能够接受惩罚权力，更简单地说，民众是如何被造就得能够容忍被惩罚？契约理论仅仅能够用下述虚构来回答这个问题，即合法成员赋予他人以权力，这种权力对他行使他本人所拥有的对他人的权利。但更有可能的情况是，宏大的“监狱连续统一体”造成了规训l权力与法律权力之间的沟通，并且从最轻微的强制不间断地延展到时间最长的刑事拘留，从而建构了与那种胡诌的授权相反的具有直接物质性的技术现实。</p>
+  <p>4．由于有了这种新的权力经济，作为其基本手段的“监狱体系”就能够促成一种新形式的“法律”的出现：这是一种合法性与自然性、约定俗成与章程的混合，即规范（norm）。这就产生了一系列的后果：司法权力至少是它的功能运作出现内部错位；审判日益困难，似乎人们羞于做出判决；法官方面强烈地希望对正常与非正常进行判断、估量、诊断与辨认，声称有治疗与使人康复的能力。从这一角度看，是否相信法官有良心，甚至无意识的良心，是无意义的。他们“对医学的（无限）偏爱”（这一点不断地表现出来——从对精神病专家的诉诸到对犯罪学的说法的关注）体现了这样一个重大现实，即他们所行使的权力已经“变质”；它在某种层面上是受法律支配的，而在另一个更基本的层面上它是作为一种规范性权力运作的；正是他们行使的权力的机制，而不是他们的顾忌或人道主义的机制，使他们做出邮疗性”判决，提出“使人康复”的监禁期限。但是，反之，即便法官愈益不情愿为判罪而判罪，审判活动也已经扩大到规范权力所扩展的程度。这种审判完全是由于无所不在的规训机制而产生的，是以所有的“监狱机构”为基础的。它已成为我们社会的主要功能之一。对是否正常进行裁决的法官无处不有。我们生活在一个教师一法官、医生一法官、教育家一法官、“社会工作者”一法官的社会里。规范性之无所不在的统治就是以他们为基础的。每个人无论自觉与否都使自己的肉体、姿势、行为、态度、成就听命于它。在现代社会里，“监狱网络”，无论是在严密集中的形式中还是分散的形式中，都有嵌入、分配、监视、观察的体制。这一网络一直是规范权力的最大支柱。</p>
+  <p>5．社会的“监狱结构”确保对肉体的实际捕获与持续观察；由于本身性质的缘故，惩罚机构基本上能够适应新的权力经济，适应形成满足这种经济所需要的知识的手段。它的全景敞视运作使它能够起到这双重作用。由于它具备固定、划分与记录的方法，它一直是使人的行为客体化的无穷尽的检查活动得以发展的最简单、最原始、最具体但或许最必要的条件之一。如果说在“刑讯”司法时代之后我们进入了“检察”司法的时代，如果说检查方法能够以一种更一般的方式广布于整个社会并在某种程度上促成了关于人的科学，那么造成这种情况的一个重要手段就是各种繁多而相互重合的监禁机制。我并不认为人文科学源出于监狱。但是，如果说它们（人文科学）能够形成，能够在“知识型”（episteme）中造成如此之多的深刻变化，那是因为它们是通过一种特殊而新颖的权力渠道而传送的，即一种关于肉体的政策，一种使人的群体变得驯顺而有用的方法。这种政策要求把确定的知识关系包容进权力关系，要求有一种使征服与客体化重合的技术。它本身就带有新的造成个人化的技术。这种权力一知识造成了人文科学的历史可能性，而“监狱网络”则是这种权力一知识的盔甲之一。可认识的人（灵魂、个性、意识、行为等等）是这种分析介入、这种支配一观察的对象一效果。</p>
+  <p>6．上述这些无疑可以解释监狱这个从一开始就受到诋毁的小发明为何极其牢固。如果它仅仅是一个为国家机器服务的镇压或排斥工具，那么它会比较容易地改变自己赤裸裸的形式，或寻找更容易被人接受的替代方式。但是，因为它植根于权力的机制与战略之中，所以它能以巨大的惯性力量来应付任何改造它的尝试。有一个事实很能说明问题：当改变监禁制度的问题被提出时，反对意见不仅出自司法机构本身。阻力不是出自作为刑事制裁的监狱，而是出自具有各种决断、联系与超司法结果的监狱，作为处于一个普遍的纪律与监视网络中的中转站的监狱，在一种全景敞视制度中运作的监狱。这并不意味着它是不可改变的，也不意味着它一旦确立就成为我们这种社会永远不可或缺的。相反，人们可以确定这样两个进程，这两个进程在使监狱得以运作的连续进程中能够对监狱的用途加以重大限制并转变其内部功能。无疑，这两个进程已经在很大程度上展开了。第一个进程是，减少被当作一种被封闭与被监视的特殊非法活动的过失犯罪的效用（或者增加其不利之处）。譬如，同政治与经济机构有直接联系的重大国内或国际非法活动（金融方面的非法活动、情报工作、武器与毒品交易、资产投机生意）表明，带有土气的而且引人注目的过失犯罪劳动力被证明是无能的。再如，从范围稍小的例子看，只要通过出售避孕套或间接地通过出版物、电影或歌舞剧就能够更有效地对淫乐进行经济榨取，古老的卖淫体系就丧失了其原有的许多效能。第二个进程是，规训网络日益发展，它们与刑法机构的交流日益扩大，它们获得愈益重要的权力，司法功能愈益大规模地转交给它们。现在，随着医学、心理学、教育、公共援助、“社会工作”等承担了愈来愈多的监督与评估权力，刑法机构也将能够变得具有医学性、心理学性与教育性。由于同样的原因，当监狱借助它的教养话语与它的加强过失犯罪的效果之间的裂痕把刑罚权力与规训权力联结起来时，监狱所体现的转折作用也就变得没有那么大了。在所有这些从事规范化的机制（它们的使用正在变得愈益严格）中间，监狱的特点及其作为联结环节的作用正在丧失原有的某种目的。</p>
+  <p>如果说围绕着监狱有一个全局性的政治问题，那么这个问题不是它是否应该具有矫正作用，也不是法官、精神病学家或社会学家是否应该在监狱中行使比管理人员更多的权力，甚至也不是我们究竟应该要监狱还是要其它某种东西。目前的问题在于，这些从事规范化的机制及其通过新纪律的扩增所具有的广泛权力被过分地使用了。</p>
+  <p>1836年，有一名通讯员给《法朗吉》的信中写道：“道德家、哲学家、立法者、文明的诌媚者，这就是你们的秩序井然的巴黎蓝图，这就是实行物以类聚的修正案。在中心点，在第一封闭区里，有对付各种疾病的医院，对付各种贫困的救济院，为男人、女人和儿童开设的疯人院、监狱与重罪犯监狱。围绕着第一封闭区，有兵营、法庭、警察分局、监狱看守住宅、断头台、刽子手及其助手的住宅。四角分别是众议院、贵族院、法兰西研究院和王宫。在中央区的外面，有为中央区服务的各种行业：骗子云集、破产频仍的商业，明争暗斗的工业，摇唇鼓舌的出版业，赌场，卖淫业，饥寒交迫的或放荡堕落的民众——他们随时准备竖起耳朵听从革命之神的召唤，还有铁石心肠的富人。…最终会产生一场人人对人人的无情战争”（法朗吉），1836年8月10日）。</p>
+  <p>我的论述就以这篇未署名的通信作为结束。我们此时已远离刑轮、绞刑往、绞刑架、示众柱星罗棋布的酷刑国度，我们也远离大约五十年之前改革者的梦想——惩罚之城，其中，数以平计的小舞台展示出无限丰富多彩的司法表演，在装饰过的断头台上精心制造出的惩罚将构成刑法典的持续节目。“监狱之城”及其虚构的“地理政治”则受到完全不同的原则支配。摘自《法朗吉》的上述文字使我们想到某些更重要的东西：位于这座城市中心的，而且似乎是为了恰当地控制这个中心的，不是“权力中心”，不是一种武力网络，而是一个由不同因素组成的复杂网络：高墙、空间、机构、规章、话语；因此，“监狱之城”的原型不是作为权力之源的国王人身，也不是产生某种既有个人性又有集体性的实体的契约式的意志聚合，而是一种对各种性质与各种层面的因素的战略分配。监狱不是法律、法典或司法机构的产物，它并不从属于法庭，不是实现法庭判决和法庭想要达到的结果的灵活或笨拙的工具。相反，法庭外在于和从属于监狱。监狱占据着中心位置，但它不是莹莹于立，而是与一系列的“监狱”机制相联系。这些机制都是用于减轻痛苦，治疗创伤和给予慰藉的，因此表面上与监狱迥然有异，但它们同监狱一样，都往往行使着一种致力于规范化的权力。这些机制不是被用于对付对“中心’法律的冒犯，而是被用于生产机构——“商业”和“工业”，用于对付一系列复杂的非法活动。这些非法活动具有各式各样的性质与根源，有特殊的谋利作用，惩罚机制对付它们的方法也是各式各样的。追根究抵，统辖着所有这些机制的不是某种机构的统一运作，而是进行战斗的必要性与战略准则。因此，把这些机构说成是压制、排斥、制造边缘状态的机构的种种观念，不足以描述出处于“监狱之城”核心的居心叵测的怜悯、不可公开的残酷伎俩、鸡零狗碎的小花招、精心计算的方法以及技术与“科学”等等的形成。所有这一切都是为了制造出受规训的个人。这种处于中心位置的并被统一起来的人性是复杂的权力关系的效果和工具，是受制于多种“监禁”机制的肉体和力量，是本身就包含着这种战略的诸种因素的话语的对象。在这种人性中，我们应该能听到隐约传来的战斗厮杀声。</p>
+  <p>结束本书的这一终点应该成为一种历史背景。有关现代社会的规范化权力以及知识的形成的各种研究都应该在这一历史背景下进行。</p>
+  <hr class="wp-block-separator" />
+  <h4 id="下载地址"></h4>
+  <h4 id="下载地址"><a href="https://b-ok.cc/book/5412145/20a378" target="_blank" rel="noreferrer noopener">下载地址</a></h4>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#火光 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2020-12-31/%E7%AB%AF%E7%82%B9%E6%98%9F%E6%A1%88%E6%B6%88%E6%81%AF%E6%B1%87%E6%80%BB/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2020-07-24/%E5%85%AC%E6%B0%91%E5%AE%9E%E9%AA%8C%E5%AE%A4-%E5%BE%AE%E4%BF%A1%E7%9B%91%E6%8E%A7%E8%AF%A0%E9%87%8A/">最早</a>--</span>
+    
+      <li>
+        <time>2020-09-14</time>
+        <a href="https://nodebe4.github.io/opinion/2020-09-14/%E8%8B%A5%E6%B3%BD-%E8%90%A8%E6%8B%89%E9%A9%AC%E6%88%88-%E5%A4%B1%E6%98%8E%E7%97%87%E6%BC%AB%E8%AE%B0/">
+          若泽·萨拉马戈 – 失明症漫记
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-09-14</time>
+        <a href="https://nodebe4.github.io/opinion/2020-09-14/%E7%90%86%E6%9F%A5%E5%BE%B7-%E6%99%AE%E9%9B%B7%E6%96%AF%E9%A1%BF-%E8%A1%80%E7%96%AB-%E5%9F%83%E5%8D%9A%E6%8B%89%E7%9A%84%E6%95%85%E4%BA%8B/">
+          理查德•普雷斯顿 – 血疫：埃博拉的故事
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-09-14</time>
+        <a href="https://nodebe4.github.io/opinion/2020-09-14/%E5%8A%89%E7%B4%B9%E8%8F%AF-%E9%BA%BB%E9%A2%A8%E9%86%AB%E7%94%9F%E8%88%87%E5%B7%A8%E8%AE%8A%E4%B8%AD%E5%9C%8B-%E5%BE%8C%E5%B8%9D%E5%9C%8B%E5%AF%A6%E9%A9%97%E4%B8%8B%E7%9A%84%E7%96%BE%E7%97%85%E9%9A%B1%E5%96%BB%E8%88%87%E9%98%B2%E7%96%AB%E6%AD%B7%E5%8F%B2/">
+          劉紹華 – 麻風醫生與巨變中國：後帝國實驗下的疾病隱喻與防疫歷史
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-09-14</time>
+        <a href="https://nodebe4.github.io/opinion/2020-09-14/%E5%AD%A6%E8%80%85%E5%9C%86%E6%A1%8C-%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E5%A4%A7%E6%B5%81%E8%A1%8C%E5%B0%86%E5%A6%82%E4%BD%95%E6%B0%B8%E4%B9%85%E6%89%A9%E5%A4%A7%E6%94%BF%E5%BA%9C%E6%9D%83%E5%8A%9B/">
+          学者圆桌：新冠病毒大流行将如何永久扩大政府权力？
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2020-09-14/%E5%8A%89%E7%B4%B9%E8%8F%AF-%E9%BA%BB%E9%A2%A8%E9%86%AB%E7%94%9F%E8%88%87%E5%B7%A8%E8%AE%8A%E4%B8%AD%E5%9C%8B-%E5%BE%8C%E5%B8%9D%E5%9C%8B%E5%AF%A6%E9%A9%97%E4%B8%8B%E7%9A%84%E7%96%BE%E7%97%85%E9%9A%B1%E5%96%BB%E8%88%87%E9%98%B2%E7%96%AB%E6%AD%B7%E5%8F%B2/">
+            前一篇：劉紹華 – 麻風醫生與巨變中國：後帝國實驗下的疾病隱喻與防疫歷史
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2020-09-14/%E7%90%86%E6%9F%A5%E5%BE%B7-%E6%99%AE%E9%9B%B7%E6%96%AF%E9%A1%BF-%E8%A1%80%E7%96%AB-%E5%9F%83%E5%8D%9A%E6%8B%89%E7%9A%84%E6%95%85%E4%BA%8B/">
+            後一篇：理查德•普雷斯顿 – 血疫：埃博拉的故事
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2020-09-14/%E5%8A%89%E7%B4%B9%E8%8F%AF-%E9%BA%BB%E9%A2%A8%E9%86%AB%E7%94%9F%E8%88%87%E5%B7%A8%E8%AE%8A%E4%B8%AD%E5%9C%8B-%E5%BE%8C%E5%B8%9D%E5%9C%8B%E5%AF%A6%E9%A9%97%E4%B8%8B%E7%9A%84%E7%96%BE%E7%97%85%E9%9A%B1%E5%96%BB%E8%88%87%E9%98%B2%E7%96%AB%E6%AD%B7%E5%8F%B2/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2020-09-14/%E7%90%86%E6%9F%A5%E5%BE%B7-%E6%99%AE%E9%9B%B7%E6%96%AF%E9%A1%BF-%E8%A1%80%E7%96%AB-%E5%9F%83%E5%8D%9A%E6%8B%89%E7%9A%84%E6%95%85%E4%BA%8B/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2020-09-14/%E7%90%86%E6%9F%A5%E5%BE%B7-%E6%99%AE%E9%9B%B7%E6%96%AF%E9%A1%BF-%E8%A1%80%E7%96%AB-%E5%9F%83%E5%8D%9A%E6%8B%89%E7%9A%84%E6%95%85%E4%BA%8B/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2020-09-14/%E5%8A%89%E7%B4%B9%E8%8F%AF-%E9%BA%BB%E9%A2%A8%E9%86%AB%E7%94%9F%E8%88%87%E5%B7%A8%E8%AE%8A%E4%B8%AD%E5%9C%8B-%E5%BE%8C%E5%B8%9D%E5%9C%8B%E5%AF%A6%E9%A9%97%E4%B8%8B%E7%9A%84%E7%96%BE%E7%97%85%E9%9A%B1%E5%96%BB%E8%88%87%E9%98%B2%E7%96%AB%E6%AD%B7%E5%8F%B2/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2020-09-14/%E5%8A%89%E7%B4%B9%E8%8F%AF-%E9%BA%BB%E9%A2%A8%E9%86%AB%E7%94%9F%E8%88%87%E5%B7%A8%E8%AE%8A%E4%B8%AD%E5%9C%8B-%E5%BE%8C%E5%B8%9D%E5%9C%8B%E5%AF%A6%E9%A9%97%E4%B8%8B%E7%9A%84%E7%96%BE%E7%97%85%E9%9A%B1%E5%96%BB%E8%88%87%E9%98%B2%E7%96%AB%E6%AD%B7%E5%8F%B2/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2020-09-14/%E7%90%86%E6%9F%A5%E5%BE%B7-%E6%99%AE%E9%9B%B7%E6%96%AF%E9%A1%BF-%E8%A1%80%E7%96%AB-%E5%9F%83%E5%8D%9A%E6%8B%89%E7%9A%84%E6%95%85%E4%BA%8B/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<火光>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2020-09-14/%E7%90%86%E6%9F%A5%E5%BE%B7-%E6%99%AE%E9%9B%B7%E6%96%AF%E9%A1%BF-%E8%A1%80%E7%96%AB-%E5%9F%83%E5%8D%9A%E6%8B%89%E7%9A%84%E6%95%85%E4%BA%8B/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<火光>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2020-09-14/%E5%8A%89%E7%B4%B9%E8%8F%AF-%E9%BA%BB%E9%A2%A8%E9%86%AB%E7%94%9F%E8%88%87%E5%B7%A8%E8%AE%8A%E4%B8%AD%E5%9C%8B-%E5%BE%8C%E5%B8%9D%E5%9C%8B%E5%AF%A6%E9%A9%97%E4%B8%8B%E7%9A%84%E7%96%BE%E7%97%85%E9%9A%B1%E5%96%BB%E8%88%87%E9%98%B2%E7%96%AB%E6%AD%B7%E5%8F%B2/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

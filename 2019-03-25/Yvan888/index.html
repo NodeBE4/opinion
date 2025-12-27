@@ -1,0 +1,2488 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Yvan888在2019-03-25~2019-03-31的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Yvan888在2019-03-25~2019-03-31的言论" />
+    <meta property="twitter:title" content="Yvan888在2019-03-25~2019-03-31的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FCCJ2%2Fcomments%2Fb51z9v%2Frussians_and_chinese_are_the_same%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/CCJ2/comments/b51z9v/russians_and_chinese_are_the_same/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/CCJ2/comments/b51z9v/russians_and_chinese_are_the_same/&text=Yvan888在2019-03-25~2019-03-31的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/CCJ2/comments/b51z9v/russians_and_chinese_are_the_same/&title=Yvan888在2019-03-25~2019-03-31的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/CCJ2/comments/b51z9v/russians_and_chinese_are_the_same/&title=Yvan888在2019-03-25~2019-03-31的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Yvan888在2019-03-25~2019-03-31的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/CCJ2/comments/b51z9v/russians_and_chinese_are_the_same/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/CCJ2/comments/b51z9v/russians_and_chinese_are_the_same/&title=Yvan888在2019-03-25~2019-03-31的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Yvan888在2019-03-25~2019-03-31的言论&url=https://old.reddit.com/r/CCJ2/comments/b51z9v/russians_and_chinese_are_the_same/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Yvan888在2019-03-25~2019-03-31的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2019-03-25
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://www.reddit.com/user/Yvan888/" style="font-size:14px;">作者: Yvan888</a>
+        </span>
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/CCJ2/comments/b51z9v/russians_and_chinese_are_the_same/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#194-russians-and-chinese-are-the-same-submitted-on-2019-03-25-0542270800" id="markdown-toc-194-russians-and-chinese-are-the-same-submitted-on-2019-03-25-0542270800">194: Russians and Chinese are the same, submitted on 2019-03-25 05:42:27+08:00.</a></li>
+  <li><a href="#195-if-china-were-to-divide-into-separate-states-based-ethniclanguage-lines-what-would-it-look-like-submitted-on-2019-03-25-0637470800" id="markdown-toc-195-if-china-were-to-divide-into-separate-states-based-ethniclanguage-lines-what-would-it-look-like-submitted-on-2019-03-25-0637470800">195: If China were to divide into separate states based ethnic\language lines, what would it look like?, submitted on 2019-03-25 06:37:47+08:00.</a></li>
+  <li><a href="#196-when-will-china-unblock-some-social-media-apps-submitted-on-2019-03-25-0723590800" id="markdown-toc-196-when-will-china-unblock-some-social-media-apps-submitted-on-2019-03-25-0723590800">196: when will china unblock some social media apps?, submitted on 2019-03-25 07:23:59+08:00.</a></li>
+  <li><a href="#197-is-china-hurt-in-any-way-by-limited-us-tech-companies-from-competing-in-chinese-markets-submitted-on-2019-03-25-0807590800" id="markdown-toc-197-is-china-hurt-in-any-way-by-limited-us-tech-companies-from-competing-in-chinese-markets-submitted-on-2019-03-25-0807590800">197: Is China hurt in any way by limited US tech companies from competing in Chinese markets?, submitted on 2019-03-25 08:07:59+08:00.</a></li>
+  <li><a href="#198-这是s1两月前一个自称是新疆再教育营警察的帖子有点意思真假自行判断-submitted-on-2019-03-25-1023530800" id="markdown-toc-198-这是s1两月前一个自称是新疆再教育营警察的帖子有点意思真假自行判断-submitted-on-2019-03-25-1023530800">198: 这是S1两月前一个自称是新疆再教育营警察的帖子，有点意思，真假自行判断, submitted on 2019-03-25 10:23:53+08:00.</a></li>
+  <li><a href="#199-chinas-belt-and-road-initiative-altruism-or-debt-trap-diplomacy-submitted-on-2019-03-25-1150290800" id="markdown-toc-199-chinas-belt-and-road-initiative-altruism-or-debt-trap-diplomacy-submitted-on-2019-03-25-1150290800">199: China’s Belt and Road Initiative: Altruism or Debt Trap Diplomacy?, submitted on 2019-03-25 11:50:29+08:00.</a></li>
+  <li><a href="#200-vivian-makes-a-nongbourghini-submitted-on-2019-03-25-1219550800" id="markdown-toc-200-vivian-makes-a-nongbourghini-submitted-on-2019-03-25-1219550800">200: Vivian makes a Nongbourghini, submitted on 2019-03-25 12:19:55+08:00.</a></li>
+  <li><a href="#201-看看2016年部分建委的心态-submitted-on-2019-03-25-1335490800" id="markdown-toc-201-看看2016年部分建委的心态-submitted-on-2019-03-25-1335490800">201: 看看2016年部分建委的心态, submitted on 2019-03-25 13:35:49+08:00.</a></li>
+  <li><a href="#202-china_irl-submitted-on-2019-03-25-1338190800" id="markdown-toc-202-china_irl-submitted-on-2019-03-25-1338190800">202: china_irl, submitted on 2019-03-25 13:38:19+08:00.</a></li>
+  <li><a href="#203-what-do-you-wanna-know-about-china-submitted-on-2019-03-25-1536580800" id="markdown-toc-203-what-do-you-wanna-know-about-china-submitted-on-2019-03-25-1536580800">203: What do you wanna know about China?, submitted on 2019-03-25 15:36:58+08:00.</a></li>
+  <li><a href="#204-a-man-was-beaten-by-security-guards-at-wuhan-university-for-wearing-clothes-similar-to-traditional-japanese-garment-submitted-on-2019-03-25-1852370800" id="markdown-toc-204-a-man-was-beaten-by-security-guards-at-wuhan-university-for-wearing-clothes-similar-to-traditional-japanese-garment-submitted-on-2019-03-25-1852370800">204: A man was beaten by security guards at Wuhan University for wearing clothes similar to traditional Japanese garment, submitted on 2019-03-25 18:52:37+08:00.</a></li>
+  <li><a href="#205-can-someone-explain-to-me-why-are-there-so-huge-fluctuations-in-chinese-population-over-history-submitted-on-2019-03-25-1943420800" id="markdown-toc-205-can-someone-explain-to-me-why-are-there-so-huge-fluctuations-in-chinese-population-over-history-submitted-on-2019-03-25-1943420800">205: Can someone explain to me why are there so huge fluctuations in Chinese population over history?, submitted on 2019-03-25 19:43:42+08:00.</a></li>
+  <li><a href="#206-explain-something-to-me-please-its-ok-for-japan-to-be-japanese-saudi-to-be-arab-africa-to-be-african-china-to-be-chinese-but-why-is-it-not-ok-to-have-even-a-single-white-christian-english-speaking-nation-anywhere-on-earth-why-is-that-immoral-to-leftistsliberals-submitted-on-2019-03-25-2245340800" id="markdown-toc-206-explain-something-to-me-please-its-ok-for-japan-to-be-japanese-saudi-to-be-arab-africa-to-be-african-china-to-be-chinese-but-why-is-it-not-ok-to-have-even-a-single-white-christian-english-speaking-nation-anywhere-on-earth-why-is-that-immoral-to-leftistsliberals-submitted-on-2019-03-25-2245340800">206: Explain something to me please. Its ok for Japan to be Japanese, Saudi to be Arab, Africa to be African, China to be Chinese, but why is it not ok to have even a single white christian English speaking nation anywhere on earth? Why is that immoral to leftists/liberals?, submitted on 2019-03-25 22:45:34+08:00.</a></li>
+  <li><a href="#207-what-do-i-eat-for-3-months-in-china-submitted-on-2019-03-25-2300470800" id="markdown-toc-207-what-do-i-eat-for-3-months-in-china-submitted-on-2019-03-25-2300470800">207: What do I eat for 3 months in China?, submitted on 2019-03-25 23:00:47+08:00.</a></li>
+  <li><a href="#208-my-chinese-wife-set-a-trap-submitted-on-2019-03-25-2309390800" id="markdown-toc-208-my-chinese-wife-set-a-trap-submitted-on-2019-03-25-2309390800">208: My Chinese Wife Set a Trap!, submitted on 2019-03-25 23:09:39+08:00.</a></li>
+  <li><a href="#209--tianzi-mountains-china-submitted-on-2019-03-26-0159230800" id="markdown-toc-209--tianzi-mountains-china-submitted-on-2019-03-26-0159230800">209: 🔥 Tianzi Mountains, China, submitted on 2019-03-26 01:59:23+08:00.</a></li>
+  <li><a href="#210-china-signs-deal-to-buy-300-airbus-planes-submitted-on-2019-03-26-0203560800" id="markdown-toc-210-china-signs-deal-to-buy-300-airbus-planes-submitted-on-2019-03-26-0203560800">210: China signs deal to buy 300 Airbus planes, submitted on 2019-03-26 02:03:56+08:00.</a></li>
+  <li><a href="#211-xinjiang-crackdown-must-continue-top-china-leader-says-submitted-on-2019-03-26-1455110800" id="markdown-toc-211-xinjiang-crackdown-must-continue-top-china-leader-says-submitted-on-2019-03-26-1455110800">211: Xinjiang crackdown must continue, top China leader says, submitted on 2019-03-26 14:55:11+08:00.</a></li>
+  <li><a href="#212-china-destroys-30000-incorrect-world-maps-for-not-mentioning-arunachal-pradesh-and-taiwan-as-part-of-its-territory-submitted-on-2019-03-26-1516170800" id="markdown-toc-212-china-destroys-30000-incorrect-world-maps-for-not-mentioning-arunachal-pradesh-and-taiwan-as-part-of-its-territory-submitted-on-2019-03-26-1516170800">212: China destroys 30,000 ‘incorrect’ world maps for not mentioning Arunachal Pradesh and Taiwan as part of its territory, submitted on 2019-03-26 15:16:17+08:00.</a></li>
+  <li><a href="#213-what-do-people-from-china-think-of-the-wests-coverage-and-portayal-of-camps-in-xinjiang-submitted-on-2019-03-26-1521500800" id="markdown-toc-213-what-do-people-from-china-think-of-the-wests-coverage-and-portayal-of-camps-in-xinjiang-submitted-on-2019-03-26-1521500800">213: What do people from China think of the West’s coverage and portayal of camps in Xinjiang?, submitted on 2019-03-26 15:21:50+08:00.</a></li>
+  <li><a href="#214-rchina-can-you-help-read-these-characters-and-locate-this-building-for-europol-submitted-on-2019-03-26-2115520800" id="markdown-toc-214-rchina-can-you-help-read-these-characters-and-locate-this-building-for-europol-submitted-on-2019-03-26-2115520800">214: r/China, can you help read these characters and locate this building for Europol?, submitted on 2019-03-26 21:15:52+08:00.</a></li>
+  <li><a href="#215-wealthy-chinese-student-22-is-tasered-and-dragged-into-back-of-van-by-armed-gang-in-parking-garage-submitted-on-2019-03-26-2300110800" id="markdown-toc-215-wealthy-chinese-student-22-is-tasered-and-dragged-into-back-of-van-by-armed-gang-in-parking-garage-submitted-on-2019-03-26-2300110800">215: Wealthy Chinese student, 22, is tasered and dragged into back of van by armed gang in parking garage, submitted on 2019-03-26 23:00:11+08:00.</a></li>
+  <li><a href="#216-china-destroys-30000-incorrect-world-maps-for-not-mentioning-arunachal-pradesh-and-taiwan-as-part-of-its-territory-submitted-on-2019-03-26-2331410800" id="markdown-toc-216-china-destroys-30000-incorrect-world-maps-for-not-mentioning-arunachal-pradesh-and-taiwan-as-part-of-its-territory-submitted-on-2019-03-26-2331410800">216: China destroys 30,000 ‘incorrect’ world maps for not mentioning Arunachal Pradesh and Taiwan as part of its territory, submitted on 2019-03-26 23:31:41+08:00.</a></li>
+  <li><a href="#217-good-books-on-china-submitted-on-2019-03-27-0022090800" id="markdown-toc-217-good-books-on-china-submitted-on-2019-03-27-0022090800">217: Good books on China, submitted on 2019-03-27 00:22:09+08:00.</a></li>
+  <li><a href="#218-its-time-for-china-to-become-a-normal-country-submitted-on-2019-03-27-0104380800" id="markdown-toc-218-its-time-for-china-to-become-a-normal-country-submitted-on-2019-03-27-0104380800">218: It’s time for China to become a normal country, submitted on 2019-03-27 01:04:38+08:00.</a></li>
+  <li><a href="#219-tsinghua-university-suspends-xu-zhangrun-chinese-law-professor-who-criticised-xi-jinping-submitted-on-2019-03-27-0556020800" id="markdown-toc-219-tsinghua-university-suspends-xu-zhangrun-chinese-law-professor-who-criticised-xi-jinping-submitted-on-2019-03-27-0556020800">219: Tsinghua University suspends Xu Zhangrun, Chinese law professor who criticised Xi Jinping, submitted on 2019-03-27 05:56:02+08:00.</a></li>
+  <li><a href="#220-worried-about-huawei-take-a-closer-look-at-tencent-submitted-on-2019-03-28-0644470800" id="markdown-toc-220-worried-about-huawei-take-a-closer-look-at-tencent-submitted-on-2019-03-28-0644470800">220: Worried About Huawei? Take a Closer Look at Tencent, submitted on 2019-03-28 06:44:47+08:00.</a></li>
+</ul>
+
+<h3 id="194-russians-and-chinese-are-the-same-submitted-on-2019-03-25-0542270800">194: <a href="https://old.reddit.com/r/CCJ2/comments/b51z9v/russians_and_chinese_are_the_same/">Russians and Chinese are the same</a>, submitted on 2019-03-25 05:42:27+08:00.</h3>
+
+<p>—– <strong>194.1</strong> —–2019-03-25 10:29:40+08:00:</p>
+
+<p>r/China</p>
+
+<p>—– <strong>194.2</strong> —–2019-03-25 11:56:38+08:00:</p>
+
+<p>China doesn’t, neither. The hottest majors are finance and IT.</p>
+
+<h3 id="195-if-china-were-to-divide-into-separate-states-based-ethniclanguage-lines-what-would-it-look-like-submitted-on-2019-03-25-0637470800">195: <a href="https://old.reddit.com/r/China/comments/b52laf/if_china_were_to_divide_into_separate_states/">If China were to divide into separate states based ethnic\language lines, what would it look like?</a>, submitted on 2019-03-25 06:37:47+08:00.</h3>
+
+<p>—– <strong>195.1</strong> —–2019-03-25 11:21:36+08:00:</p>
+
+<p>I think OP is asking the cultural distributions in China but not the possibility of separatism.</p>
+
+<p>—– <strong>195.2</strong> —–2019-03-25 11:24:13+08:00:</p>
+
+<p>Although I am a Cantonese from guangdong, it’s a bit arrogant to say Guangdong is based on Cantonese. Don’t forget 潮汕话 and 客家话, and also the Shenzhen.</p>
+
+<h3 id="196-when-will-china-unblock-some-social-media-apps-submitted-on-2019-03-25-0723590800">196: <a href="https://old.reddit.com/r/China/comments/b5336e/when_will_china_unblock_some_social_media_apps/">when will china unblock some social media apps?</a>, submitted on 2019-03-25 07:23:59+08:00.</h3>
+
+<p>—– <strong>196.1</strong> —–2019-03-25 12:55:12+08:00:</p>
+
+<p>Don’t think it will happen during Xi’s period but I don’t think it’s absolutely impossible. There was good times that reddit and even Google were not banned tho.</p>
+
+<h3 id="197-is-china-hurt-in-any-way-by-limited-us-tech-companies-from-competing-in-chinese-markets-submitted-on-2019-03-25-0807590800">197: <a href="https://old.reddit.com/r/China/comments/b53jq1/is_china_hurt_in_any_way_by_limited_us_tech/">Is China hurt in any way by limited US tech companies from competing in Chinese markets?</a>, submitted on 2019-03-25 08:07:59+08:00.</h3>
+
+<p>—– <strong>197.1</strong> —–2019-03-25 12:52:13+08:00:</p>
+
+<p>of course it will hurt China but it really depends on the scale of limitation. US’s ownership of high valued and critical techniques mean it has huge negotiation power but that’s all. China’s huge domestic market, catching-up technology in some fields, rare earth export, and even geopolitic movements, can be used to be a weapon in negotiation.</p>
+
+<p>Take an extreme example, Microsoft Windows is extremely indispensable and monopolic, does it mean the US can use it as weapon, like intimidating China to say yes or cutting the Windows license? I don’t think so. It’s doubtful that how far the US can limit China’s accessibility in the tight globalization nowadays. Even if we think it as worst, there have been many times the west embargoed China, the lastest one happened after 1989. After that, it seems nothing happened tho.</p>
+
+<p>Edit: a word</p>
+
+<p>—– <strong>197.2</strong> —–2019-03-26 05:03:53+08:00:</p>
+
+<p>It sounds like political correctness of the free market theory.</p>
+
+<p>Absolute free market = full competition = good</p>
+
+<p>Isolation = protection = bad</p>
+
+<p>I don’t disagree with you but we must know the real world is more complicated than the theory. We also know that lots of countries have been benefited from protection when they were weak, and after being stronger they would promote free market to benefit them again. One example is the US in 19 century. While you criticize China’s GFW and protection in the technology industry (I focus on economic but not politics here), the Eupore began to question whether they were right to let the US tech giants enter the Eupore market so easily in the age of data and weaken the Eupore power.</p>
+
+<p>—– <strong>197.3</strong> —–2019-03-26 05:07:43+08:00:</p>
+
+<blockquote>
+  <p>Huawei and Lenovo are probably the only Chinese tech companies with a strong international presence.</p>
+</blockquote>
+
+<p>DJI? BYD? Xiaomi? …</p>
+
+<blockquote>
+  <p>Basically none of the internet or social media brands have managed to break out beyond the Chinese diaspora, and even then the userbase is mostly limited to people who still have close mainland ties.</p>
+</blockquote>
+
+<p>Tik Tok? And what about the performance of other countries enjoy free market, except the US?</p>
+
+<p>—– <strong>197.4</strong> —–2019-03-26 05:17:24+08:00:</p>
+
+<p>It really depends on how you think of it. The US, who is a superpower and enjoy first-mover advantages for more than one century, it’s natural that China is left behind a lot.</p>
+
+<p>Yes, the US is leading in everything including AI, and China is always the second or worse, but what about other countries except China and the US?  Check <a href="https://www.wikiwand.com/en/List_of_unicorn_startup_companies">the list of world unicorns</a> and <a href="https://www.henrypatentfirm.com/blog/artificial-intelligence-patent-landscape">AI report</a></p>
+
+<p>Here is my another <a href="https://www.reddit.com/r/China/comments/b4wha5/italy_agrees_to_return_nearly_800_chinese/ejbjaol?utm_source=share&amp;utm_medium=web2x">answer</a></p>
+
+<h3 id="198-这是s1两月前一个自称是新疆再教育营警察的帖子有点意思真假自行判断-submitted-on-2019-03-25-1023530800">198: <a href="https://old.reddit.com/r/China_irl/comments/b54yif/这是s1两月前一个自称是新疆再教育营警察的帖子有点意思真假自行判断/">这是S1两月前一个自称是新疆再教育营警察的帖子，有点意思，真假自行判断</a>, submitted on 2019-03-25 10:23:53+08:00.</h3>
+
+<p>—– <strong>198.1</strong> —–2019-03-25 10:34:21+08:00:</p>
+
+<p>你不说我还没怎么看，原来前几天刚和我撕逼过 2333</p>
+
+<h3 id="199-chinas-belt-and-road-initiative-altruism-or-debt-trap-diplomacy-submitted-on-2019-03-25-1150290800">199: <a href="https://old.reddit.com/r/China/comments/b55sq4/chinas_belt_and_road_initiative_altruism_or_debt/">China’s Belt and Road Initiative: Altruism or Debt Trap Diplomacy?</a>, submitted on 2019-03-25 11:50:29+08:00.</h3>
+
+<p>—– <strong>199.1</strong> —–2019-03-25 20:22:58+08:00:</p>
+
+<p>wtf providing two extreme options and forcing the audiance to pick one? What about none of them?</p>
+
+<p>OBOR is a series of wide economy cooperation and investment and hope to achieve win-win goal.</p>
+
+<p>But dealing with it like dealing with the bank, you’d better be smart, or you will be trapped in a lose-win situation.</p>
+
+<p>Edit: a word</p>
+
+<p>—– <strong>199.2</strong> —–2019-03-25 22:17:46+08:00:</p>
+
+<p>One of the reasons</p>
+
+<h3 id="200-vivian-makes-a-nongbourghini-submitted-on-2019-03-25-1219550800">200: <a href="https://old.reddit.com/r/CCJ2/comments/b562ms/vivian_makes_a_nongbourghini/">Vivian makes a Nongbourghini</a>, submitted on 2019-03-25 12:19:55+08:00.</h3>
+
+<p>—– <strong>200.1</strong> —–2019-03-26 00:52:32+08:00:</p>
+
+<p>Nongborghini *</p>
+
+<h3 id="201-看看2016年部分建委的心态-submitted-on-2019-03-25-1335490800">201: <a href="https://old.reddit.com/r/China_irl/comments/b56q50/看看2016年部分建委的心态/">看看2016年部分建委的心态</a>, submitted on 2019-03-25 13:35:49+08:00.</h3>
+
+<p>—– <strong>201.1</strong> —–2019-03-25 14:04:08+08:00:</p>
+
+<p>我更喜欢第二个评论，特此点了赞，hhhh</p>
+
+<h3 id="202-china_irl-submitted-on-2019-03-25-1338190800">202: <a href="https://old.reddit.com/r/HistoryMemes/comments/b56qth/china_irl/">china_irl</a>, submitted on 2019-03-25 13:38:19+08:00.</h3>
+
+<p>—– <strong>202.1</strong> —–2019-03-26 11:30:51+08:00:</p>
+
+<p>r/China_irl</p>
+
+<h3 id="203-what-do-you-wanna-know-about-china-submitted-on-2019-03-25-1536580800">203: <a href="https://old.reddit.com/r/China/comments/b57mo6/what_do_you_wanna_know_about_china/">What do you wanna know about China?</a>, submitted on 2019-03-25 15:36:58+08:00.</h3>
+
+<p>—– <strong>203.1</strong> —–2019-03-25 20:07:27+08:00:</p>
+
+<p>Are you talking about the <em>unique</em> subcultures in China or just the subcultures?</p>
+
+<p>Music subculture: gufeng?</p>
+
+<h3 id="204-a-man-was-beaten-by-security-guards-at-wuhan-university-for-wearing-clothes-similar-to-traditional-japanese-garment-submitted-on-2019-03-25-1852370800">204: <a href="https://old.reddit.com/r/China/comments/b595cu/a_man_was_beaten_by_security_guards_at_wuhan/">A man was beaten by security guards at Wuhan University for wearing clothes similar to traditional Japanese garment</a>, submitted on 2019-03-25 18:52:37+08:00.</h3>
+
+<p>—– <strong>204.1</strong> —–2019-03-26 00:36:21+08:00:</p>
+
+<p>tbh even if it’s Japanese garment, what’s problem with that? It’s not a nazi uniform</p>
+
+<p>Edit: it seems that the uni has a rule to forbid Japanese garments in the school due to sensitive history but i don’t know how true it’s</p>
+
+<p>—– <strong>204.2</strong> —–2019-03-26 03:19:49+08:00:</p>
+
+<p>Well I would not say <em>it’s ok</em></p>
+
+<p>but Chinese people are more sensitive to Japanese nazi uniform than to German one, which is opposite to the west. Easy to understand tho</p>
+
+<p>—– <strong>204.3</strong> —–2019-03-26 04:46:36+08:00:</p>
+
+<p>Hitler is a popular meme in China but I don’t think lots of people regard him as a great man.</p>
+
+<p>Also, I know there is a saying that, <em>Hilter, Stalin, and Mao are three demons in 20 century</em>, but tbh I don’t think they are the same stories. Lots of Chinese, from teens to elders, still admire Mao. (I can guess what you are going to say and where the long debate will go so you’re not necessary to reply me about your opinion on Mao. I just wanna share a fact in Chinese society)</p>
+
+<p>—– <strong>204.4</strong> —–2019-03-26 06:41:06+08:00:</p>
+
+<p>Then I sorry you have that friends. Chinese people have a kinda contradict attitudes towards Jew. Lots of them are big fans of Jewish conspiracies such as Jew-controll American War Machine or Soros New World Order, on the other hand they admire Jewish a lot, thinking they are smart, shrewd, and hard-working. Just walk around the Chinese bookstores and you would know what I mean.</p>
+
+<p>—– <strong>204.5</strong> —–2019-03-26 10:14:37+08:00:</p>
+
+<p>lol all you say are right and I was not defending the Chinese behavior. All of us know the majority of Chinese are racists.</p>
+
+<p>However, your previous comment was trying to link <em>China’s antisemitism</em> to <em>Hilter’s holocaust</em>  which I don’t buy. Therefore, my last comment was trying to let you know that China’s antisemitism is simply a by-product of anti-American-Imperialism which is totally different from Hitler’s race-based genocide. Chinese people don’t have any problem with the Jewish race in history.</p>
+
+<p>—– <strong>204.6</strong> —–2019-03-26 11:11:09+08:00:</p>
+
+<p>well there are some 纳粹德棍 (Nazi German supporters) but I never hear anyone in my life. I believe they are a minority with a loud voice in Weibo</p>
+
+<p>Again, lots of them just use it as a meme like <a href="https://www.bilibili.com/video/av9106509/">this</a> and <a href="https://www.google.com/url?sa=i&amp;source=images&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwjjrpOt5p7hAhVMnq0KHYZFBoMQjRx6BAgBEAU&amp;url=https%3A%2F%2Fsearch.bilibili.com%2Fall%3Fkeyword%3D%25E5%2585%2583%25E9%25A6%2596%25E7%259A%2584%25E6%25BC%2594%25E5%2591%2598%26from_source%3Dvideo_tag&amp;psig=AOvVaw12K_j-jC482NuQJP1_XaWk&amp;ust=1553655085065061">this</a>.</p>
+
+<p>Some of them appreciate Hitler’s ability in military and speech but it doesn’t mean they deny the Holocaust</p>
+
+<p>Some of them think WWII should be partially attributed to the unfair treaty of WWI and other factors but not only Hitler, which is a fair point and doesn’t mean they love Hitler.</p>
+
+<p>I randomly pick up three discussions in Chinese websites and you can read them via Google translator if you don’t know Chinese: <a href="https://www.zhihu.com/question/41639353">source 1</a>, <a href="https://www.zhihu.com/question/24631848">source 2</a>, <a href="http://bbs.tianya.cn/post-no05-130564-1.shtml">source 3</a></p>
+
+<p>I admit that, while the endorsement of Nazi German is an absolute taboo subject in the west, it’s a taboo subject in China but few of them still justify it. However, that’s all, I don’t think you need to emphasize it so much</p>
+
+<blockquote>
+  <p>China should get rid of foreign elements in China they think are causing problems (e.g. Muslims, western influence, etc.)</p>
+</blockquote>
+
+<p>well, this is a thousand-year historical inertia and complicated topic related to sooo many stuffs</p>
+
+<h3 id="205-can-someone-explain-to-me-why-are-there-so-huge-fluctuations-in-chinese-population-over-history-submitted-on-2019-03-25-1943420800">205: <a href="https://old.reddit.com/r/China/comments/b59mvt/can_someone_explain_to_me_why_are_there_so_huge/">Can someone explain to me why are there so huge fluctuations in Chinese population over history?</a>, submitted on 2019-03-25 19:43:42+08:00.</h3>
+
+<p>—– <strong>205.1</strong> —–2019-03-25 20:19:16+08:00:</p>
+
+<p><del>Rice?</del> (I didn’t notice OP’s word <em>fluctuations</em> and thought he’s asking the reason of huge population)</p>
+
+<h3 id="206-explain-something-to-me-please-its-ok-for-japan-to-be-japanese-saudi-to-be-arab-africa-to-be-african-china-to-be-chinese-but-why-is-it-not-ok-to-have-even-a-single-white-christian-english-speaking-nation-anywhere-on-earth-why-is-that-immoral-to-leftistsliberals-submitted-on-2019-03-25-2245340800">206: <a href="https://old.reddit.com/r/metacanada/comments/b5bjtp/explain_something_to_me_please_its_ok_for_japan/">Explain something to me please. Its ok for Japan to be Japanese, Saudi to be Arab, Africa to be African, China to be Chinese, but why is it not ok to have even a single white christian English speaking nation anywhere on earth? Why is that immoral to leftists/liberals?</a>, submitted on 2019-03-25 22:45:34+08:00.</h3>
+
+<p>—– <strong>206.1</strong> —–2019-03-26 11:30:20+08:00:</p>
+
+<p>actually, GB is the <em>only</em>  white christian English speaking nation qualified for your statement, others are by-products of colonism</p>
+
+<h3 id="207-what-do-i-eat-for-3-months-in-china-submitted-on-2019-03-25-2300470800">207: <a href="https://old.reddit.com/r/China/comments/b5bq2z/what_do_i_eat_for_3_months_in_china/">What do I eat for 3 months in China?</a>, submitted on 2019-03-25 23:00:47+08:00.</h3>
+
+<p>—– <strong>207.1</strong> —–2019-03-26 00:39:55+08:00:</p>
+
+<p>btw you call use Mei Tuan app to order food with free delivery service and I bet you there are some western foods on it in shanghai (and of course tons of Chinese foods) so you don’t need to go to street every time. Super convenient</p>
+
+<h3 id="208-my-chinese-wife-set-a-trap-submitted-on-2019-03-25-2309390800">208: <a href="https://old.reddit.com/r/China/comments/b5bu0l/my_chinese_wife_set_a_trap/">My Chinese Wife Set a Trap!</a>, submitted on 2019-03-25 23:09:39+08:00.</h3>
+
+<p>—– <strong>208.1</strong> —–2019-03-26 10:27:58+08:00:</p>
+
+<p>what a hardcore question. Rocky and Rainy, pick one?</p>
+
+<p>—– <strong>208.2</strong> —–2019-03-26 15:01:33+08:00:</p>
+
+<p>You mean they’re negative words? Yeah but these comments are a bit “negative” if I didn’t get it wrong. I echo here but I just did it for fun, anyway…</p>
+
+<p>—– <strong>208.3</strong> —–2019-03-26 15:03:55+08:00:</p>
+
+<p>ojbk so just r/CCJ2 and laowai?</p>
+
+<h3 id="209--tianzi-mountains-china-submitted-on-2019-03-26-0159230800">209: <a href="https://old.reddit.com/r/NatureIsFuckingLit/comments/b5e0s8/tianzi_mountains_china/">🔥 Tianzi Mountains, China</a>, submitted on 2019-03-26 01:59:23+08:00.</h3>
+
+<p>—– <strong>209.1</strong> —–2019-03-26 07:16:51+08:00:</p>
+
+<p>Haven’t you figured out you are in <em>The Truman Show</em>? Dumb</p>
+
+<h3 id="210-china-signs-deal-to-buy-300-airbus-planes-submitted-on-2019-03-26-0203560800">210: <a href="https://old.reddit.com/r/europe/comments/b5e2zh/china_signs_deal_to_buy_300_airbus_planes/">China signs deal to buy 300 Airbus planes</a>, submitted on 2019-03-26 02:03:56+08:00.</h3>
+
+<p>—– <strong>210.1</strong> —–2019-03-26 07:19:59+08:00:</p>
+
+<p>anyway welcome to my howetown, Guangzhou, bro</p>
+
+<p>—– <strong>210.2</strong> —–2019-03-26 07:21:12+08:00:</p>
+
+<p>You’d better pick up the Chinese young generations tbh, since the old generations didn’t have the chance to go to school unlike their counterparts in the west and it’s a bit unfair</p>
+
+<p>—– <strong>210.3</strong> —–2019-03-26 07:57:49+08:00:</p>
+
+<p>Ahh then it’s interesting since some of my Chinese fellows have an exact feeling of the westerners (or at least Americans?) IDK. After watching some youtube interview videos about geography challenge in both sides I should say I never know there are so many dumb people in both sides</p>
+
+<p>—– <strong>210.4</strong> —–2019-03-26 08:39:45+08:00:</p>
+
+<p>wtf NSFW bro. I’m using the public big screen campus PC …</p>
+
+<h3 id="211-xinjiang-crackdown-must-continue-top-china-leader-says-submitted-on-2019-03-26-1455110800">211: <a href="https://old.reddit.com/r/islam/comments/b5mhjw/xinjiang_crackdown_must_continue_top_china_leader/">Xinjiang crackdown must continue, top China leader says</a>, submitted on 2019-03-26 14:55:11+08:00.</h3>
+
+<p>—– <strong>211.1</strong> —–2019-03-27 23:06:10+08:00:</p>
+
+<p>Username check out</p>
+
+<h3 id="212-china-destroys-30000-incorrect-world-maps-for-not-mentioning-arunachal-pradesh-and-taiwan-as-part-of-its-territory-submitted-on-2019-03-26-1516170800">212: <a href="https://old.reddit.com/r/worldnews/comments/b5mngc/china_destroys_30000_incorrect_world_maps_for_not/">China destroys 30,000 ‘incorrect’ world maps for not mentioning Arunachal Pradesh and Taiwan as part of its territory</a>, submitted on 2019-03-26 15:16:17+08:00.</h3>
+
+<p>—– <strong>212.1</strong> —–2019-03-27 07:20:43+08:00:</p>
+
+<p>so, do you need to tell your Chinese fellows that</p>
+
+<blockquote>
+  <p><em>the map was <strong>wrong</strong></em>?</p>
+</blockquote>
+
+<p>It’s simply a politics chasm, no one is seriously WRONG in this case</p>
+
+<p>—– <strong>212.2</strong> —–2019-03-27 08:42:51+08:00:</p>
+
+<blockquote>
+  <p>But also, it’s not just a politics chasm, Taiwan is a sovereign nation</p>
+</blockquote>
+
+<p>Oh man,</p>
+
+<p>while <a href="https://www.wikiwand.com/en/Taiwan">Taiwan</a> is a de facto regime and maintaining relationships with the majority of countries in the world, almost all the governments, 99% including <strong>your government</strong>, don’t have official diplomatic relations with Taiwan and don’t recognize it as a <em>formal nation</em></p>
+
+<blockquote>
+  <p>so claiming it’s just part of China is objectively wrong.</p>
+</blockquote>
+
+<p>Officially, Taiwan is a province of “China”, the chasm is the definition of “China”, <em>ROC</em> or <em>PRC</em></p>
+
+<p>Of course, you may argue that lots of young generations in Taiwan prefer <em>Taiwan</em> but not <em>ROC</em></p>
+
+<p>But my statements above are efficient to prove that, claiming it’s just part of China is NOT <strong>objectively</strong> wrong.</p>
+
+<p>TLDR: <a href="https://www.google.com/search?q=is+taiwan+a+country&amp;rlz=1C1GCEB_enUS842&amp;oq=is+taiwan+a+coun&amp;aqs=chrome.0.0j69i57j0l4.2031j0j1&amp;sourceid=chrome&amp;ie=UTF-8">is Taiwan a country?</a></p>
+
+<h3 id="213-what-do-people-from-china-think-of-the-wests-coverage-and-portayal-of-camps-in-xinjiang-submitted-on-2019-03-26-1521500800">213: <a href="https://old.reddit.com/r/China/comments/b5mp01/what_do_people_from_china_think_of_the_wests/">What do people from China think of the West’s coverage and portayal of camps in Xinjiang?</a>, submitted on 2019-03-26 15:21:50+08:00.</h3>
+
+<p>—– <strong>213.1</strong> —–2019-03-26 23:17:58+08:00:</p>
+
+<p>Option I: Baizuo (White leftists) who are PC-addicted SJWs and don’t know how to solve the biggest threat to human</p>
+
+<p>Option II: Baipizhu (White pigs) who are western imperialists and desire to play the Divide and Conquer game on China</p>
+
+<p>Pick one?</p>
+
+<p>—– <strong>213.2</strong> —–2019-03-26 23:45:15+08:00:</p>
+
+<p>你指新疆camp？</p>
+
+<p>—– <strong>213.3</strong> —–2019-03-27 00:17:26+08:00:</p>
+
+<p>繁體字濕濕碎啦，我認為上面<a href="https://www.reddit.com/r/China/comments/b5mp01/what_do_people_from_china_think_of_the_wests/ejej1ky/?utm_source=share&amp;utm_medium=ios_app">那個答案</a>已經講得好清楚，你去睇下YouTube下邊翻墻噶大陸人噶評論。另外，有稍微溫和滴噶版本，參見reddit上另一個中文社區噶<a href="https://www.reddit.com/r/China_irl/comments/b41kkm/%E5%AE%9E%E5%9C%B0%E8%B5%B0%E8%AE%BF%E6%96%B0%E7%96%86%E8%81%8C%E6%95%99%E5%9F%B9%E8%AE%AD%E4%B8%AD%E5%BF%83%E8%A2%AB%E8%A5%BF%E6%96%B9%E6%8C%91%E5%88%BA%E7%9A%84%E6%9C%BA%E6%9E%84%E7%AB%9F%E7%84%B6%E6%98%AF%E8%BF%99%E6%A0%B7/?utm_source=share&amp;utm_medium=ios_app">答案</a></p>
+
+<h3 id="214-rchina-can-you-help-read-these-characters-and-locate-this-building-for-europol-submitted-on-2019-03-26-2115520800">214: <a href="https://old.reddit.com/r/China/comments/b5pkwc/rchina_can_you_help_read_these_characters_and/">r/China, can you help read these characters and locate this building for Europol?</a>, submitted on 2019-03-26 21:15:52+08:00.</h3>
+
+<p>—– <strong>214.1</strong> —–2019-03-27 00:40:03+08:00:</p>
+
+<p>r/ChineseLanguage</p>
+
+<h3 id="215-wealthy-chinese-student-22-is-tasered-and-dragged-into-back-of-van-by-armed-gang-in-parking-garage-submitted-on-2019-03-26-2300110800">215: <a href="https://old.reddit.com/r/China/comments/b5qq8k/wealthy_chinese_student_22_is_tasered_and_dragged/">Wealthy Chinese student, 22, is tasered and dragged into back of van by armed gang in parking garage</a>, submitted on 2019-03-26 23:00:11+08:00.</h3>
+
+<p>—– <strong>215.1</strong> —–2019-03-27 01:32:54+08:00:</p>
+
+<p>He looks rich, indeed</p>
+
+<h3 id="216-china-destroys-30000-incorrect-world-maps-for-not-mentioning-arunachal-pradesh-and-taiwan-as-part-of-its-territory-submitted-on-2019-03-26-2331410800">216: <a href="https://old.reddit.com/r/China/comments/b5r4ck/china_destroys_30000_incorrect_world_maps_for_not/">China destroys 30,000 ‘incorrect’ world maps for not mentioning Arunachal Pradesh and Taiwan as part of its territory</a>, submitted on 2019-03-26 23:31:41+08:00.</h3>
+
+<p>—– <strong>216.1</strong> —–2019-03-27 06:40:36+08:00:</p>
+
+<p>Another disputed area left by GB</p>
+
+<h3 id="217-good-books-on-china-submitted-on-2019-03-27-0022090800">217: <a href="https://old.reddit.com/r/China/comments/b5rr2d/good_books_on_china/">Good books on China</a>, submitted on 2019-03-27 00:22:09+08:00.</h3>
+
+<p>—– <strong>217.1</strong> —–2019-03-27 00:45:41+08:00:</p>
+
+<p><a href="https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)?wprov=sfti1">Threebody Problem trilogy</a>: Chinese hard SF, 2015 Hugo Award winner (begin with cultural revolution so it’s interesting and linked to anthropology)</p>
+
+<p>Also, <a href="https://en.wikipedia.org/wiki/Classic_Chinese_Novels?wprov=sfti1">Classic Chinese novels </a> but they may be dry for beginner</p>
+
+<p><a href="https://www.wuxiaworld.com/">Here</a>  is translate website for a genre of Chinese popular fiction called wuxia but they are more for entertainment</p>
+
+<p>—– <strong>217.2</strong> —–2019-03-27 05:40:29+08:00:</p>
+
+<p>That’s a fiction bro. Do you have CCP PTSD?</p>
+
+<h3 id="218-its-time-for-china-to-become-a-normal-country-submitted-on-2019-03-27-0104380800">218: <a href="https://old.reddit.com/r/China/comments/b5sa0p/its_time_for_china_to_become_a_normal_country/">It’s time for China to become a normal country</a>, submitted on 2019-03-27 01:04:38+08:00.</h3>
+
+<p>—– <strong>218.1</strong> —–2019-03-27 06:02:15+08:00:</p>
+
+<p><strong>SUPER DEVELOPING COUNTRY</strong></p>
+
+<h3 id="219-tsinghua-university-suspends-xu-zhangrun-chinese-law-professor-who-criticised-xi-jinping-submitted-on-2019-03-27-0556020800">219: <a href="https://old.reddit.com/r/China/comments/b5vw31/tsinghua_university_suspends_xu_zhangrun_chinese/">Tsinghua University suspends Xu Zhangrun, Chinese law professor who criticised Xi Jinping</a>, submitted on 2019-03-27 05:56:02+08:00.</h3>
+
+<p>—– <strong>219.1</strong> —–2019-03-27 12:55:32+08:00:</p>
+
+<p><a href="https://xuzhangrun.gitlab.io/">A collection of XZR’s works</a></p>
+
+<p>—– <strong>219.2</strong> —–2019-03-27 14:57:33+08:00:</p>
+
+<p>Calling liberalism and constitutionalism is already a huge critical of the government</p>
+
+<h3 id="220-worried-about-huawei-take-a-closer-look-at-tencent-submitted-on-2019-03-28-0644470800">220: <a href="https://old.reddit.com/r/China/comments/b6az5g/worried_about_huawei_take_a_closer_look_at_tencent/">Worried About Huawei? Take a Closer Look at Tencent</a>, submitted on 2019-03-28 06:44:47+08:00.</h3>
+
+<p>—– <strong>220.1</strong> —–2019-03-28 14:46:19+08:00:</p>
+
+<p>Worried About Facebook? Take a Closer Look at Google</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2019-04-03</time>
+        <a href="https://nodebe4.github.io/opinion/2019-04-03/Yvan888/">
+          Yvan888在2019-04-01~2019-04-07的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-03-30</time>
+        <a href="https://nodebe4.github.io/opinion/2019-03-30/Spinkcat/">
+          Spinkcat在2019-03-25~2019-03-31的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-03-18</time>
+        <a href="https://nodebe4.github.io/opinion/2019-03-18/Yvan888/">
+          Yvan888在2019-03-18~2019-03-24的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-03-11</time>
+        <a href="https://nodebe4.github.io/opinion/2019-03-11/Yvan888/">
+          Yvan888在2019-03-11~2019-03-17的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2019-03-24/%E5%AD%99%E7%AB%8B%E5%B9%B3-%E6%88%91%E5%8E%9F%E6%9D%A5%E5%9C%A8%E7%90%86%E8%AE%BA%E4%B8%8A%E6%98%AF%E4%B8%BB%E5%BC%A0%E5%BE%81%E6%94%B6%E6%88%BF%E4%BA%A7%E7%A8%8E%E7%9A%84-%E4%B8%BA%E4%BB%80%E4%B9%88%E5%90%8E%E6%9D%A5%E5%9C%A8%E5%AE%9E%E8%B7%B5%E4%B8%8A%E5%8F%88%E5%8F%8D%E5%AF%B9/">
+            前一篇：孙立平：我原来在理论上是主张征收房产税的，为什么后来在实践上又反对？
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2019-03-25/%E4%B8%AD%E5%9B%BD%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C%E5%A6%82%E4%BD%95%E5%85%BC%E9%A1%BE%E5%86%B2%E7%AA%81%E7%9B%AE%E6%A0%87/">
+            後一篇：中国地方政府如何兼顾冲突目标？
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2019-03-24/%E5%AD%99%E7%AB%8B%E5%B9%B3-%E6%88%91%E5%8E%9F%E6%9D%A5%E5%9C%A8%E7%90%86%E8%AE%BA%E4%B8%8A%E6%98%AF%E4%B8%BB%E5%BC%A0%E5%BE%81%E6%94%B6%E6%88%BF%E4%BA%A7%E7%A8%8E%E7%9A%84-%E4%B8%BA%E4%BB%80%E4%B9%88%E5%90%8E%E6%9D%A5%E5%9C%A8%E5%AE%9E%E8%B7%B5%E4%B8%8A%E5%8F%88%E5%8F%8D%E5%AF%B9/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2019-03-25/%E4%B8%AD%E5%9B%BD%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C%E5%A6%82%E4%BD%95%E5%85%BC%E9%A1%BE%E5%86%B2%E7%AA%81%E7%9B%AE%E6%A0%87/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2019-03-30/Spinkcat/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2019-03-18/Yvan888/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2019-03-24/%E5%AD%99%E7%AB%8B%E5%B9%B3-%E6%88%91%E5%8E%9F%E6%9D%A5%E5%9C%A8%E7%90%86%E8%AE%BA%E4%B8%8A%E6%98%AF%E4%B8%BB%E5%BC%A0%E5%BE%81%E6%94%B6%E6%88%BF%E4%BA%A7%E7%A8%8E%E7%9A%84-%E4%B8%BA%E4%BB%80%E4%B9%88%E5%90%8E%E6%9D%A5%E5%9C%A8%E5%AE%9E%E8%B7%B5%E4%B8%8A%E5%8F%88%E5%8F%8D%E5%AF%B9/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2019-03-25/%E4%B8%AD%E5%9B%BD%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C%E5%A6%82%E4%BD%95%E5%85%BC%E9%A1%BE%E5%86%B2%E7%AA%81%E7%9B%AE%E6%A0%87/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2019-03-30/Spinkcat/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2019-03-18/Yvan888/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

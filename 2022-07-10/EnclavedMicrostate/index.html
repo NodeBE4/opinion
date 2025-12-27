@@ -1,0 +1,2341 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>EnclavedMicrostate在2022-07-04~2022-07-10的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="EnclavedMicrostate在2022-07-04~2022-07-10的言论" />
+    <meta property="twitter:title" content="EnclavedMicrostate在2022-07-04~2022-07-10的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FVirtualYoutubers%2Fcomments%2Fvr9ex4%2Fcontrived_conspiracy_conjecture_weekly_discussion%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/VirtualYoutubers/comments/vr9ex4/contrived_conspiracy_conjecture_weekly_discussion/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/VirtualYoutubers/comments/vr9ex4/contrived_conspiracy_conjecture_weekly_discussion/&text=EnclavedMicrostate在2022-07-04~2022-07-10的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/VirtualYoutubers/comments/vr9ex4/contrived_conspiracy_conjecture_weekly_discussion/&title=EnclavedMicrostate在2022-07-04~2022-07-10的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/VirtualYoutubers/comments/vr9ex4/contrived_conspiracy_conjecture_weekly_discussion/&title=EnclavedMicrostate在2022-07-04~2022-07-10的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=EnclavedMicrostate在2022-07-04~2022-07-10的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/VirtualYoutubers/comments/vr9ex4/contrived_conspiracy_conjecture_weekly_discussion/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/VirtualYoutubers/comments/vr9ex4/contrived_conspiracy_conjecture_weekly_discussion/&title=EnclavedMicrostate在2022-07-04~2022-07-10的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=EnclavedMicrostate在2022-07-04~2022-07-10的言论&url=https://old.reddit.com/r/VirtualYoutubers/comments/vr9ex4/contrived_conspiracy_conjecture_weekly_discussion/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>EnclavedMicrostate在2022-07-04~2022-07-10的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-07-10
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: EnclavedMicrostate</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/VirtualYoutubers/comments/vr9ex4/contrived_conspiracy_conjecture_weekly_discussion/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#593-contrived-conspiracy-conjecture---weekly-discussion-thread-july-4th-2022-submitted-on-2022-07-04-2303570800" id="markdown-toc-593-contrived-conspiracy-conjecture---weekly-discussion-thread-july-4th-2022-submitted-on-2022-07-04-2303570800">593: Contrived Conspiracy Conjecture - Weekly Discussion Thread, July 4th, 2022, submitted on 2022-07-04 23:03:57+08:00.</a></li>
+  <li><a href="#594-how-long-have-people-been-using-say-cheese-to-get-people-to-smile-in-pictures-submitted-on-2022-07-05-1214310800" id="markdown-toc-594-how-long-have-people-been-using-say-cheese-to-get-people-to-smile-in-pictures-submitted-on-2022-07-05-1214310800">594: How long have people been using “say cheese” to get people to smile in pictures?, submitted on 2022-07-05 12:14:31+08:00.</a></li>
+  <li><a href="#595-have-there-been-any-illegal-cia-operations-on-us-soil-is-it-reasonable-to-believe-cia-still-involves-itself-in-domestic-affairs-today-submitted-on-2022-07-05-1234170800" id="markdown-toc-595-have-there-been-any-illegal-cia-operations-on-us-soil-is-it-reasonable-to-believe-cia-still-involves-itself-in-domestic-affairs-today-submitted-on-2022-07-05-1234170800">595: Have there been any illegal CIA operations on U.S. soil? Is it reasonable to believe CIA still involves itself in domestic affairs today?, submitted on 2022-07-05 12:34:17+08:00.</a></li>
+  <li><a href="#596-wikipedia-has-the-budget-for-bondarchuks-war-and-peace-1966-as-92m-usd-however-roger-eberts-review-from-1969-mentions-it-being-100m-which-figure-is-closest-to-reality-submitted-on-2022-07-05-1308340800" id="markdown-toc-596-wikipedia-has-the-budget-for-bondarchuks-war-and-peace-1966-as-92m-usd-however-roger-eberts-review-from-1969-mentions-it-being-100m-which-figure-is-closest-to-reality-submitted-on-2022-07-05-1308340800">596: Wikipedia has the budget for Bondarchuk’s War and Peace (1966) as $9.2M USD, however Roger Ebert’s review from 1969 mentions it being $100M. Which figure is closest to reality?, submitted on 2022-07-05 13:08:34+08:00.</a></li>
+  <li><a href="#597-did-the-southern-chinese-emigrate-out-of-the-country-abroad-before-the-rest-of-the-country-submitted-on-2022-07-06-0256330800" id="markdown-toc-597-did-the-southern-chinese-emigrate-out-of-the-country-abroad-before-the-rest-of-the-country-submitted-on-2022-07-06-0256330800">597: Did the Southern Chinese emigrate out of the country abroad before the rest of the country?, submitted on 2022-07-06 02:56:33+08:00.</a></li>
+  <li><a href="#598-wikipedia-when-a-user-managed-to-write-over-206-articles-of-fake-russian-history-in-chinese-wikipedia-in-the-span-of-a-decade-submitted-on-2022-07-06-0457550800" id="markdown-toc-598-wikipedia-when-a-user-managed-to-write-over-206-articles-of-fake-russian-history-in-chinese-wikipedia-in-the-span-of-a-decade-submitted-on-2022-07-06-0457550800">598: [Wikipedia] When a user managed to write over 206 articles of fake Russian history in Chinese Wikipedia in the span of a decade., submitted on 2022-07-06 04:57:55+08:00.</a></li>
+  <li><a href="#599-why-didnt-indian-and-chinese-empires-ever-interact-submitted-on-2022-07-06-2006500800" id="markdown-toc-599-why-didnt-indian-and-chinese-empires-ever-interact-submitted-on-2022-07-06-2006500800">599: Why didn’t Indian and Chinese Empires Ever Interact?, submitted on 2022-07-06 20:06:50+08:00.</a></li>
+  <li><a href="#600-theres-a-restaurant-in-hong-kong-that-serves-a-dish-called-sex-on-the-beach-thats-literally-an-edible-condom-over-edible-sand-submitted-on-2022-07-08-0032110800" id="markdown-toc-600-theres-a-restaurant-in-hong-kong-that-serves-a-dish-called-sex-on-the-beach-thats-literally-an-edible-condom-over-edible-sand-submitted-on-2022-07-08-0032110800">600: there’s a restaurant in Hong Kong that serves a dish called “sex on the beach” that’s literally an edible condom over edible sand, submitted on 2022-07-08 00:32:11+08:00.</a></li>
+  <li><a href="#601-hobby-scuffles-week-of-july-11-2022-submitted-on-2022-07-10-2300120800" id="markdown-toc-601-hobby-scuffles-week-of-july-11-2022-submitted-on-2022-07-10-2300120800">601: [Hobby Scuffles] Week of July 11, 2022, submitted on 2022-07-10 23:00:12+08:00.</a></li>
+</ul>
+
+<h3 id="593-contrived-conspiracy-conjecture---weekly-discussion-thread-july-4th-2022-submitted-on-2022-07-04-2303570800">593: <a href="https://old.reddit.com/r/VirtualYoutubers/comments/vr9ex4/contrived_conspiracy_conjecture_weekly_discussion/">Contrived Conspiracy Conjecture - Weekly Discussion Thread, July 4th, 2022</a>, submitted on 2022-07-04 23:03:57+08:00.</h3>
+
+<p>—– <strong>593.1</strong> —–2022-07-06 02:48:34+08:00:</p>
+
+<p>As someone who speaks Cantonese natively and has intermediate Mandarin listening… this was joyous and painful in equal measure.</p>
+
+<p>—– <strong>593.2</strong> —–2022-07-06 02:49:44+08:00:</p>
+
+<p>Well, those are their primary Sinitic languages, but from the stream it’s clear that Selen has at least intermediate Mandarin and Enna a similar but possibly lesser level of Cantonese.</p>
+
+<p>—– <strong>593.3</strong> —–2022-07-08 18:01:18+08:00:</p>
+
+<p>I mean, Noel’s hardly the most SFW of Holomems.</p>
+
+<p>—– <strong>593.4</strong> —–2022-07-11 07:52:56+08:00:</p>
+
+<p>My Contrived Conspiracy Conjecture a few months ago was that this had to do with going public. Merging it into the profitable main branch would mean that it’d be harder for shareholders to pressure Anycolor into dropping the ID members because they’d now be part of the general Nijisanji group rather than a self-contained branch. Whether that’s to stave off potential nationalistic types or because ID was operating at or near a loss, I don’t know; and I also came up with this before a lot of the documents about Anycolor’s business figures started coming out.</p>
+
+<h3 id="594-how-long-have-people-been-using-say-cheese-to-get-people-to-smile-in-pictures-submitted-on-2022-07-05-1214310800">594: <a href="https://old.reddit.com/r/AskHistorians/comments/vrpbh7/how_long_have_people_been_using_say_cheese_to_get/">How long have people been using “say cheese” to get people to smile in pictures?</a>, submitted on 2022-07-05 12:14:31+08:00.</h3>
+
+<p>—– <strong>594.1</strong> —–2022-07-05 13:41:47+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="595-have-there-been-any-illegal-cia-operations-on-us-soil-is-it-reasonable-to-believe-cia-still-involves-itself-in-domestic-affairs-today-submitted-on-2022-07-05-1234170800">595: <a href="https://old.reddit.com/r/AskHistorians/comments/vrpmz1/have_there_been_any_illegal_cia_operations_on_us/">Have there been any illegal CIA operations on U.S. soil? Is it reasonable to believe CIA still involves itself in domestic affairs today?</a>, submitted on 2022-07-05 12:34:17+08:00.</h3>
+
+<p>—– <strong>595.1</strong> —–2022-07-05 13:41:27+08:00:</p>
+
+<p>This submission has been removed because it violates our <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events">‘20-Year Rule’</a>. To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult <a href="https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/">this Rules Roundtable</a>.</p>
+
+<h3 id="596-wikipedia-has-the-budget-for-bondarchuks-war-and-peace-1966-as-92m-usd-however-roger-eberts-review-from-1969-mentions-it-being-100m-which-figure-is-closest-to-reality-submitted-on-2022-07-05-1308340800">596: <a href="https://old.reddit.com/r/AskHistorians/comments/vrq6pi/wikipedia_has_the_budget_for_bondarchuks_war_and/">Wikipedia has the budget for Bondarchuk’s War and Peace (1966) as $9.2M USD, however Roger Ebert’s review from 1969 mentions it being $100M. Which figure is closest to reality?</a>, submitted on 2022-07-05 13:08:34+08:00.</h3>
+
+<p>—– <strong>596.1</strong> —–2022-07-05 13:42:30+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="597-did-the-southern-chinese-emigrate-out-of-the-country-abroad-before-the-rest-of-the-country-submitted-on-2022-07-06-0256330800">597: <a href="https://old.reddit.com/r/AskHistorians/comments/vs58z8/did_the_southern_chinese_emigrate_out_of_the/">Did the Southern Chinese emigrate out of the country abroad before the rest of the country?</a>, submitted on 2022-07-06 02:56:33+08:00.</h3>
+
+<p>—– <strong>597.1</strong> —–2022-07-06 13:55:39+08:00:</p>
+
+<p>More can of course be said, but I discuss a lot of the factors in early Sino-American migration in <a href="https://www.reddit.com/r/AskHistorians/comments/k6efdb/what_was_happening_in_china_in_the_1850s_that/gesinbd/">this answer</a>. It’s broadly true that the Chinese diaspora was, until comparatively recently, originally dominated by people from southern regions, and for some pretty obvious reasons – it’s where all the ports are!</p>
+
+<h3 id="598-wikipedia-when-a-user-managed-to-write-over-206-articles-of-fake-russian-history-in-chinese-wikipedia-in-the-span-of-a-decade-submitted-on-2022-07-06-0457550800">598: <a href="https://old.reddit.com/r/HobbyDrama/comments/vs8138/wikipedia_when_a_user_managed_to_write_over_206/">[Wikipedia] When a user managed to write over 206 articles of fake Russian history in Chinese Wikipedia in the span of a decade.</a>, submitted on 2022-07-06 04:57:55+08:00.</h3>
+
+<p>—– <strong>598.1</strong> —–2022-07-06 10:48:47+08:00:</p>
+
+<p>So, interesting as this is, I can’t help but remark that some of it, by which I mean almost the entire thing bar a couple of added notes, seems to be cribbed from <a href="https://www.sixthtone.com/news/1010653/she-spent-a-decade-writing-fake-russian-history.-wikipedia-just-noticed.">this article on Sixth Tone</a>, an English-language news site on Chinese current affairs and human interest news.</p>
+
+<p>For instance, the post has:</p>
+
+<blockquote>
+  <p>She began her career in false history in 2010, creating articles with fictional stories related to the real figure of Heshen, an infamously corrupt Qing Dynasty official. She turned her attention to Russian history in 2012, editing existing articles on Czar Alexander I of Russia. From then on, she spread fabricated stories throughout Chinese Wikipedia’s coverage of Russian history. She used a real, and often bloody, rivalry between the two early Slavic states as a basis for an elaborate fiction, mixing research with fantasy.</p>
+</blockquote>
+
+<p>While the article has</p>
+
+<blockquote>
+  <p>She began her career in fictional history in 2010, creating articles with false stories related to the real figure of Heshen, a famously corrupt Qing Dynasty official. She turned her attention to Russian history in 2012, editing existing articles on Czar Alexander I of Russia. From there, she gradually spread fabricated stories throughout Chinese Wikipedia’s coverage of Russian history. She used a real, and often bloody, rivalry between the two early Slavic states as a basis for an elaborate fiction, mixing research with fantasy.</p>
+</blockquote>
+
+<p>Or compare this in the post:</p>
+
+<blockquote>
+  <p>Wikipedia editors warned that the incident had “shaken the credibility of the current Chinese Wikipedia as a whole,” strangely enough, most netizens encouraged and idolized the user for her actions, citing her creativity and her unusually detailed descriptions of the different aspects of the society and culture of her pseudo-historical fictional world.</p>
+</blockquote>
+
+<blockquote>
+  <p>“It is really awesome to invent a self-contained historical logic with details like all kinds of clothing, money, and utensils,” one user wrote on Weibo, a Chinese social media app.</p>
+</blockquote>
+
+<blockquote>
+  <p>As of June 17, most of the fictitious historical entries created by Zhemao on Chinese Wikipedia have been deleted, according to an official statement. A few articles of actual historical subjects have been improved by other contributors and thus remain. Zhemao’s edits on other existing entries have been withdrawn, the platform wrote.</p>
+</blockquote>
+
+<p>With this in the article:</p>
+
+<blockquote>
+  <p>While some Wikipedia editors warned that the incident had “shaken the credibility of the current Chinese Wikipedia as a whole,” most netizens praised Zhemao’s talent and persistence, encouraging her to publish a novel in future.</p>
+</blockquote>
+
+<blockquote>
+  <p>“It is really awesome to invent a self-contained historical logic with details like all kinds of clothing, money, and utensils,” one user wrote on the microblogging platform Weibo.</p>
+</blockquote>
+
+<blockquote>
+  <p>As of June 17, most of the fictitious historical entries created by Zhemao on Chinese Wikipedia have been deleted, according to an official statement. A few entries have been improved by other contributors and thus remain. Zhemao’s edits on other existing entries have been withdrawn, the platform wrote.</p>
+</blockquote>
+
+<p>Or this in the post:</p>
+
+<blockquote>
+  <p>Yifan (or Yi Fan), a fantasy novelist, was reading Chinese Wikipedia with the goal of finding inspiration in historical matters, when he first learned of the great silver mine of Kashin. Originally opened by the principality of Tver, an independent state from the 13th to 15th centuries, it grew to be one of the world’s biggest, a city-sized early modern industry worked by some 30,000 slaves and 10,000 freedmen. Its rich economy made it an important resource to the princes of Tver, but also attracted the powerful rulers of Muscovy (Moscow), who attempted to take the mine in a series of battles that took turn across the land of what is now Russia from 1305 to 1485. “After the fall of the Principality of Tver, it continued to be mined by the Grand Duchy of Moscow and its successor regime until the mine was closed in the mid-18th century due to being exhausted,” the entry (wikipedia article) said.</p>
+</blockquote>
+
+<p>With this in the article:</p>
+
+<blockquote>
+  <p>Yifan, a fantasy novelist, was browsing Chinese Wikipedia looking for inspiration in history, when he first learned of the great silver mine of Kashin. Originally opened by the principality of Tver, an independent state from the 13th to 15th centuries, it grew to be one of the world’s biggest, a city-sized early modern industry worked by some 30,000 slaves and 10,000 freedmen. Its fabulous wealth made it a vital resource to the princes of Tver, but also tempted the powerful dukes of Moscow, who attempted to seize the mine in a series of wars that sprawled across the land that is now Russia from 1305 to 1485. “After the fall of the Principality of Tver, it continued to be mined by the Grand Duchy of Moscow and its successor regime until the mine was closed in the mid-18th century due to being exhausted,” the entry said.</p>
+</blockquote>
+
+<p>So yeah, I feel confident in saying you’re a plagiarist.</p>
+
+<p>—– <strong>598.2</strong> —–2022-07-06 11:08:31+08:00:</p>
+
+<p>If by that you mean the fake Russian articles, I mean it got attention when it did the rounds a few days ago. If you mean the plagiarism, I only posted 20 mins ago…</p>
+
+<h3 id="599-why-didnt-indian-and-chinese-empires-ever-interact-submitted-on-2022-07-06-2006500800">599: <a href="https://old.reddit.com/r/AskHistorians/comments/vsogwc/why_didnt_indian_and_chinese_empires_ever_interact/">Why didn’t Indian and Chinese Empires Ever Interact?</a>, submitted on 2022-07-06 20:06:50+08:00.</h3>
+
+<p>—– <strong>599.1</strong> —–2022-07-06 21:49:15+08:00:</p>
+
+<p>More can of course be said for other periods, but I discuss the Qing context (drawing primarily from Matthew Mosca’s excellent <em>From Frontier Policy to Foreign Policy</em>) in <a href="https://www.reddit.com/r/AskHistorians/comments/qlfr99/how_was_the_relationship_between_qing_china_and/hj65yek/">this answer</a>.</p>
+
+<p>—– <strong>599.2</strong> —–2022-07-07 02:45:33+08:00:</p>
+
+<p>A great answer, but I do wish to note a little quibble:</p>
+
+<blockquote>
+  <p>before which the Tibetans were vassals who rarely had to interact with Beijing</p>
+</blockquote>
+
+<p>The only imperial Chinese states which had meaningful control over Tibet were the Mongol Yuan between 1244 and 1354 and the Manchu Qing from ca. 1720 to 1911, during which their rule in the region was quite extensive. However, for basically the rest of Tibetan history, the Chinese presence in Tibet was extremely ephemeral, and nationalist Chinese narratives of a historic suzerainty over Tibet are nonsensical at best.</p>
+
+<p>—– <strong>599.3</strong> —–2022-07-07 02:49:26+08:00:</p>
+
+<p>The other, more immediate claim relates to Qing rule, which was much more stable and arguably more extensive than the Mongols’ was, but yep, it’s similarly based on the notion that the modern Chinese nation-state derives its territorial bounds from the conquests of peoples who have only retroactively been claimed into that nation-state for the last hundred years or so.</p>
+
+<p>—– <strong>599.4</strong> —–2022-07-07 19:32:07+08:00:</p>
+
+<p>Well, there’s two responses to this:</p>
+
+<p>The first is that the Western examples you cite are no less problematic in a purely historiographical sense.</p>
+
+<p>The second is that there is a lot of vacillation in Chinese historical orthodoxy over whether to regard ‘alien’ regimes as meaningfully ‘Chinese’ or not. While the notion of ‘Sinicisation’ has been used to argue that Chinese culture overpowers foreign rulers and absorbs them into the Chinese cultural sphere, at the same time there can be the implicit legitimacy of regimes that, when you look at hard facts, were ethnocentric in favour of minorities. Moreover, said minorities’ inclusion in the modern Chinese nation was not exactly done with those minorities’ consent, as the post-Qing independence of Tibet and Mongolia shows. So in the Chinese case there is a strong layer of ‘we claim X ethnic groups into our nation, but as subsumed into a cultural package dominated by the Han Chinese who form the core of said nation.’</p>
+
+<h3 id="600-theres-a-restaurant-in-hong-kong-that-serves-a-dish-called-sex-on-the-beach-thats-literally-an-edible-condom-over-edible-sand-submitted-on-2022-07-08-0032110800">600: <a href="https://old.reddit.com/r/StupidFood/comments/vtmpyw/theres_a_restaurant_in_hong_kong_that_serves_a/">there’s a restaurant in Hong Kong that serves a dish called “sex on the beach” that’s literally an edible condom over edible sand</a>, submitted on 2022-07-08 00:32:11+08:00.</h3>
+
+<p>—– <strong>600.1</strong> —–2022-07-09 04:00:30+08:00:</p>
+
+<p>Ha, I was about to check there myself.</p>
+
+<h3 id="601-hobby-scuffles-week-of-july-11-2022-submitted-on-2022-07-10-2300120800">601: <a href="https://old.reddit.com/r/HobbyDrama/comments/vvtaaq/hobby_scuffles_week_of_july_11_2022/">[Hobby Scuffles] Week of July 11, 2022</a>, submitted on 2022-07-10 23:00:12+08:00.</h3>
+
+<p>—– <strong>601.1</strong> —–2022-07-13 13:34:38+08:00:</p>
+
+<blockquote>
+  <p>parroting Karl Jobst’s quote on top level speedrunners being most likely to cheat.</p>
+</blockquote>
+
+<p>At least they’re not parroting his indignation over white people not being allowed to say the n-word, eh?</p>
+
+<p>This has been your per-thread reminder that Karl Jobst is a neo-Nazi.</p>
+
+<p>—– <strong>601.2</strong> —–2022-07-13 16:23:23+08:00:</p>
+
+<p>There’s a whole thread on it <a href="https://www.reddit.com/r/speedrun/comments/poxb2h/tomatoanus_cutting_all_ties_with_karl_jobst/">here</a> on r/speedrun. Jobst managed to cover his trail by deleting a lot of the evidence and issuing a response video that only went after the wilder claims and not the underlying substance, but even the evidence that remains shows he’s been metaphorically in bed with neo-Nazis for years.</p>
+
+<p>EDIT: I mean also, Jobst openly paraded the fact that Notch was providing his legal fees in a suit with Billy Mitchell (Notch, if anyone wasn’t already aware, is an antifeminist, transphobe, and homophobe, once tweeted about white pride, and openly supported QAnon), and also made a video attempting to exonerate Dream’s Minecraft speedrun cheating, so to be frank, he’s likely exhausted any scrap of credibility he had.</p>
+
+<p>—– <strong>601.3</strong> —–2022-07-13 19:26:02+08:00:</p>
+
+<p>Sad but probably true. Turns out if you were to present speedrunners with a neonazi vs someone who includes a supportive message about mental health in every video, they prefer the neonazi.</p>
+
+<p>—– <strong>601.4</strong> —–2022-07-13 23:19:19+08:00:</p>
+
+<p>Most of the evidence that came out is summarised <a href="https://www.reddit.com/r/speedrun/comments/poxb2h/tomatoanus_cutting_all_ties_with_karl_jobst/">here</a> on r/speedrun.</p>
+
+<p>—– <strong>601.5</strong> —–2022-07-15 02:18:08+08:00:</p>
+
+<blockquote>
+  <p>They could have Cathayan colonies there fighting over the lands with beastmen and the lizardmen.</p>
+</blockquote>
+
+<p>Ah yes, because depicting Fantasy!Chinese imperialism in Fantasy!India and Fantasy!Southeast Asia would go over <em>so</em> well…</p>
+
+<p>—– <strong>601.6</strong> —–2022-07-15 03:02:38+08:00:</p>
+
+<p>I mean, I never said I approved of the rest of the setting either… <em>looking</em> <strong><em>especially</em></strong> <em>hard at that Empire conquistador campaign…</em></p>
+
+<p>—– <strong>601.7</strong> —–2022-07-16 00:46:10+08:00:</p>
+
+<blockquote>
+  <p>(1) is impossible</p>
+</blockquote>
+
+<p>Sounds like something a ghost would say.</p>
+
+<p>—– <strong>601.8</strong> —–2022-07-19 09:30:12+08:00:</p>
+
+<blockquote>
+  <p>EDIT: Omega’s back!
+ I’m SURE people on Twitter and Reddit are gonna have a normal one about this (they won’t). Also where’s the milk?</p>
+</blockquote>
+
+<p>I won’t lie… I have always found it amusing that Hololive, perhaps inadvertently, created its own VTweeter.</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-07-16</time>
+        <a href="https://nodebe4.github.io/opinion/2022-07-16/theoryofdoom/">
+          theoryofdoom在2022-07-11~2022-07-17的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-07-10</time>
+        <a href="https://nodebe4.github.io/opinion/2022-07-10/theoryofdoom/">
+          theoryofdoom在2022-07-04~2022-07-10的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-07-03</time>
+        <a href="https://nodebe4.github.io/opinion/2022-07-03/EnclavedMicrostate/">
+          EnclavedMicrostate在2022-06-27~2022-07-03的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-07-02</time>
+        <a href="https://nodebe4.github.io/opinion/2022-07-02/theoryofdoom/">
+          theoryofdoom在2022-06-27~2022-07-03的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-07-09/%E5%80%AA%E5%8C%A1%E7%95%99%E7%B5%A6%E4%B8%96%E4%BA%BA%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E9%81%BA%E7%94%A2-%E5%8F%8D%E5%85%B1/">
+            前一篇：倪匡留給世人最重要的遺產—反共
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-07-10/HeQinglian/">
+            後一篇：Twitter @He Qinglian: 2022-07-04~2022-07-10
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-07-09/%E5%80%AA%E5%8C%A1%E7%95%99%E7%B5%A6%E4%B8%96%E4%BA%BA%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E9%81%BA%E7%94%A2-%E5%8F%8D%E5%85%B1/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-07-10/HeQinglian/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-07-10/theoryofdoom/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-07-03/EnclavedMicrostate/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-07-09/%E5%80%AA%E5%8C%A1%E7%95%99%E7%B5%A6%E4%B8%96%E4%BA%BA%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E9%81%BA%E7%94%A2-%E5%8F%8D%E5%85%B1/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-07-10/HeQinglian/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-07-10/theoryofdoom/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-07-03/EnclavedMicrostate/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

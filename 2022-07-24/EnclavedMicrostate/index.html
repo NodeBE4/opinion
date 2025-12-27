@@ -1,0 +1,2709 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>EnclavedMicrostate在2022-07-18~2022-07-24的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="EnclavedMicrostate在2022-07-18~2022-07-24的言论" />
+    <meta property="twitter:title" content="EnclavedMicrostate在2022-07-18~2022-07-24的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FAskHistorians%2Fcomments%2Fw1q1ps%2Fhistorically_what_types_of_activities_or%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/AskHistorians/comments/w1q1ps/historically_what_types_of_activities_or/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/AskHistorians/comments/w1q1ps/historically_what_types_of_activities_or/&text=EnclavedMicrostate在2022-07-18~2022-07-24的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/AskHistorians/comments/w1q1ps/historically_what_types_of_activities_or/&title=EnclavedMicrostate在2022-07-18~2022-07-24的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/AskHistorians/comments/w1q1ps/historically_what_types_of_activities_or/&title=EnclavedMicrostate在2022-07-18~2022-07-24的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=EnclavedMicrostate在2022-07-18~2022-07-24的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/AskHistorians/comments/w1q1ps/historically_what_types_of_activities_or/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/AskHistorians/comments/w1q1ps/historically_what_types_of_activities_or/&title=EnclavedMicrostate在2022-07-18~2022-07-24的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=EnclavedMicrostate在2022-07-18~2022-07-24的言论&url=https://old.reddit.com/r/AskHistorians/comments/w1q1ps/historically_what_types_of_activities_or/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>EnclavedMicrostate在2022-07-18~2022-07-24的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-07-24
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: EnclavedMicrostate</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/AskHistorians/comments/w1q1ps/historically_what_types_of_activities_or/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#613-historically-what-types-of-activities-or-movements-have-been-able-to-counter-a-slide-towards-authoritarianism-submitted-on-2022-07-18-1209240800" id="markdown-toc-613-historically-what-types-of-activities-or-movements-have-been-able-to-counter-a-slide-towards-authoritarianism-submitted-on-2022-07-18-1209240800">613: Historically, what types of activities or movements have been able to counter a slide towards authoritarianism?, submitted on 2022-07-18 12:09:24+08:00.</a></li>
+  <li><a href="#614-the-further-east-you-go-the-more-anti-semitism-there-is-is-this-an-oversimplification-and-if-or-if-not-what-historical-trends-brought-brought-about-it-submitted-on-2022-07-18-1222160800" id="markdown-toc-614-the-further-east-you-go-the-more-anti-semitism-there-is-is-this-an-oversimplification-and-if-or-if-not-what-historical-trends-brought-brought-about-it-submitted-on-2022-07-18-1222160800">614: “The further East you go, the more anti-Semitism there is”. Is this an oversimplification? And if or if not, what historical trends brought brought about it?, submitted on 2022-07-18 12:22:16+08:00.</a></li>
+  <li><a href="#615-are-there-any-prisoners-still-in-san-quentin-who-saw-johnny-cash-perform-there-submitted-on-2022-07-18-1307150800" id="markdown-toc-615-are-there-any-prisoners-still-in-san-quentin-who-saw-johnny-cash-perform-there-submitted-on-2022-07-18-1307150800">615: Are there any prisoners still in San Quentin who saw Johnny Cash perform there?, submitted on 2022-07-18 13:07:15+08:00.</a></li>
+  <li><a href="#616-how-did-dispose-semantically-shift-from-put-apart--to-transfer-title-to-property-submitted-on-2022-07-18-1445300800" id="markdown-toc-616-how-did-dispose-semantically-shift-from-put-apart--to-transfer-title-to-property-submitted-on-2022-07-18-1445300800">616: How did “dispose” semantically shift from “put apart” 🡺 to “transfer title to property”?, submitted on 2022-07-18 14:45:30+08:00.</a></li>
+  <li><a href="#617-cacophanous-copium-congregation---weekly-discussion-thread-18th-july-2022-submitted-on-2022-07-18-2325070800" id="markdown-toc-617-cacophanous-copium-congregation---weekly-discussion-thread-18th-july-2022-submitted-on-2022-07-18-2325070800">617: Cacophanous Copium Congregation - Weekly Discussion Thread, 18th July, 2022, submitted on 2022-07-18 23:25:07+08:00.</a></li>
+  <li><a href="#618-anyone-know-anything-about-white-city-in-saint-lucie-county-fla-submitted-on-2022-07-20-0818270800" id="markdown-toc-618-anyone-know-anything-about-white-city-in-saint-lucie-county-fla-submitted-on-2022-07-20-0818270800">618: Anyone know anything about White City in Saint Lucie County, Fla?, submitted on 2022-07-20 08:18:27+08:00.</a></li>
+  <li><a href="#619-how-did-the-great-depression-impact-the-idea-of-american-freedom-submitted-on-2022-07-20-0844040800" id="markdown-toc-619-how-did-the-great-depression-impact-the-idea-of-american-freedom-submitted-on-2022-07-20-0844040800">619: How did the Great Depression impact the idea of American freedom?, submitted on 2022-07-20 08:44:04+08:00.</a></li>
+  <li><a href="#620-in-what-language-was-constantine-the-greats-vision-submitted-on-2022-07-20-0906130800" id="markdown-toc-620-in-what-language-was-constantine-the-greats-vision-submitted-on-2022-07-20-0906130800">620: In what language was Constantine the Great’s vision?, submitted on 2022-07-20 09:06:13+08:00.</a></li>
+  <li><a href="#621-has-any-man-ever-seized-power-of-their-kingdomcountryempire-etc-without-being-a-military-man-like-caesar-napoleon-hitler-or-is-it-important-to-have-a-military-background-to-get-the-armys-support-to-take-control-submitted-on-2022-07-20-1916050800" id="markdown-toc-621-has-any-man-ever-seized-power-of-their-kingdomcountryempire-etc-without-being-a-military-man-like-caesar-napoleon-hitler-or-is-it-important-to-have-a-military-background-to-get-the-armys-support-to-take-control-submitted-on-2022-07-20-1916050800">621: Has any man ever seized power of their kingdom/country/empire etc, without being a military man (like Caesar, Napoleon, Hitler). Or is it important to have a military background to get the army’s support to take control?, submitted on 2022-07-20 19:16:05+08:00.</a></li>
+  <li><a href="#622-what-happened-to-austria-hungarian-naval-officers-post-ww1-submitted-on-2022-07-20-2343160800" id="markdown-toc-622-what-happened-to-austria-hungarian-naval-officers-post-ww1-submitted-on-2022-07-20-2343160800">622: What happened to Austria-Hungarian Naval Officers post WW1?, submitted on 2022-07-20 23:43:16+08:00.</a></li>
+  <li><a href="#623-what-were-the-roots-behind-the-tensions-between-the-cuban-revolutionaries-manuel-de-quesada-and-miguel-aldama-submitted-on-2022-07-21-0454040800" id="markdown-toc-623-what-were-the-roots-behind-the-tensions-between-the-cuban-revolutionaries-manuel-de-quesada-and-miguel-aldama-submitted-on-2022-07-21-0454040800">623: What were the roots behind the tensions between the Cuban revolutionaries Manuel de Quesada and Miguel Aldama?, submitted on 2022-07-21 04:54:04+08:00.</a></li>
+  <li><a href="#624-best-trained-civilians-in-history-submitted-on-2022-07-21-1124140800" id="markdown-toc-624-best-trained-civilians-in-history-submitted-on-2022-07-21-1124140800">624: Best Trained Civilians in History?, submitted on 2022-07-21 11:24:14+08:00.</a></li>
+  <li><a href="#625-which-civil-war-was-arguably-the-deadliest-submitted-on-2022-07-21-1322390800" id="markdown-toc-625-which-civil-war-was-arguably-the-deadliest-submitted-on-2022-07-21-1322390800">625: Which Civil war was arguably the deadliest?, submitted on 2022-07-21 13:22:39+08:00.</a></li>
+  <li><a href="#626-can-you-tell-me-anything-about-the-original-murders-that-led-to-powers-v-ohio-submitted-on-2022-07-21-1510150800" id="markdown-toc-626-can-you-tell-me-anything-about-the-original-murders-that-led-to-powers-v-ohio-submitted-on-2022-07-21-1510150800">626: Can you tell me anything about the original murders that led to Powers v. Ohio?, submitted on 2022-07-21 15:10:15+08:00.</a></li>
+  <li><a href="#627-baelz-calli-bypassed-the-middleman-submitted-on-2022-07-21-1954510800" id="markdown-toc-627-baelz-calli-bypassed-the-middleman-submitted-on-2022-07-21-1954510800">627: [Baelz] Calli bypassed the middleman, submitted on 2022-07-21 19:54:51+08:00.</a></li>
+  <li><a href="#628-what-was-the-relationship-between-korea-and-china-in-the-past-submitted-on-2022-07-21-2311530800" id="markdown-toc-628-what-was-the-relationship-between-korea-and-china-in-the-past-submitted-on-2022-07-21-2311530800">628: what was the relationship between Korea and China in the past?, submitted on 2022-07-21 23:11:53+08:00.</a></li>
+  <li><a href="#629-music--engineering---martin-vs-the-marble-machine-x-the-greatest-music-box-that-never-worked-submitted-on-2022-07-22-0535080800" id="markdown-toc-629-music--engineering---martin-vs-the-marble-machine-x-the-greatest-music-box-that-never-worked-submitted-on-2022-07-22-0535080800">629: [Music / Engineering] - Martin Vs. The Marble Machine X: The Greatest Music Box, that never worked, submitted on 2022-07-22 05:35:08+08:00.</a></li>
+  <li><a href="#630-in-terms-of-percentages-and-scale-how-does-the-current-spike-in-fuel-costs-compare-to-the-70s-energy-crisis-submitted-on-2022-07-22-0805160800" id="markdown-toc-630-in-terms-of-percentages-and-scale-how-does-the-current-spike-in-fuel-costs-compare-to-the-70s-energy-crisis-submitted-on-2022-07-22-0805160800">630: In terms of percentages and scale, how does the current spike in fuel costs compare to the 70s energy crisis?, submitted on 2022-07-22 08:05:16+08:00.</a></li>
+  <li><a href="#631-what-state-achieved-the-highest-share-of-world-gdp-at-their-time-submitted-on-2022-07-22-0808010800" id="markdown-toc-631-what-state-achieved-the-highest-share-of-world-gdp-at-their-time-submitted-on-2022-07-22-0808010800">631: What state achieved the highest share of world GDP at their time?, submitted on 2022-07-22 08:08:01+08:00.</a></li>
+  <li><a href="#632-are-early-christians-in-rome-and-spanish-inquisitors-the-same-civilizations-submitted-on-2022-07-22-1144170800" id="markdown-toc-632-are-early-christians-in-rome-and-spanish-inquisitors-the-same-civilizations-submitted-on-2022-07-22-1144170800">632: Are early Christians in Rome and Spanish Inquisitors the same civilizations?, submitted on 2022-07-22 11:44:17+08:00.</a></li>
+  <li><a href="#633-if-we-went-back-in-time-and-played-a-standard-44-funk-beat-for-people-would-they-be-able-to-dance-to-or-even-understand-it-submitted-on-2022-07-22-1148190800" id="markdown-toc-633-if-we-went-back-in-time-and-played-a-standard-44-funk-beat-for-people-would-they-be-able-to-dance-to-or-even-understand-it-submitted-on-2022-07-22-1148190800">633: If we went back in time and played a standard 4/4 funk beat for people, would they be able to dance to, or even understand it?, submitted on 2022-07-22 11:48:19+08:00.</a></li>
+  <li><a href="#634-what-were-expected-tank-vs-tank-combat-ranges-of-the-late-cold-war-era-1980-1991-for-both-nato-and-the-soviet-bloc-submitted-on-2022-07-22-1202590800" id="markdown-toc-634-what-were-expected-tank-vs-tank-combat-ranges-of-the-late-cold-war-era-1980-1991-for-both-nato-and-the-soviet-bloc-submitted-on-2022-07-22-1202590800">634: What were expected tank vs tank combat ranges of the late Cold War era (1980-1991)? For both NATO and the Soviet bloc?, submitted on 2022-07-22 12:02:59+08:00.</a></li>
+  <li><a href="#635-how-were-the-denominations-of-coins-decided-submitted-on-2022-07-22-1240480800" id="markdown-toc-635-how-were-the-denominations-of-coins-decided-submitted-on-2022-07-22-1240480800">635: How were the denominations of coins decided?, submitted on 2022-07-22 12:40:48+08:00.</a></li>
+  <li><a href="#636-friday-free-for-all--july-22-2022-submitted-on-2022-07-22-2100110800" id="markdown-toc-636-friday-free-for-all--july-22-2022-submitted-on-2022-07-22-2100110800">636: Friday Free-for-All | July 22, 2022, submitted on 2022-07-22 21:00:11+08:00.</a></li>
+  <li><a href="#637-can-someone-please-help-me-decode-this-tattoo-thank-you-submitted-on-2022-07-23-0435440800" id="markdown-toc-637-can-someone-please-help-me-decode-this-tattoo-thank-you-submitted-on-2022-07-23-0435440800">637: Can someone please help me decode this tattoo? Thank you, submitted on 2022-07-23 04:35:44+08:00.</a></li>
+  <li><a href="#638-is-there-an-overlap-between-the-ideology-of-manifest-destiny-and-zionist-settler-colonialism-in-israel-and-has-american-influence-throughout-the-19th-and-20th-centuries-emboldened-or-developed-zionist-pushes-for-settler-colonialism-submitted-on-2022-07-23-1408090800" id="markdown-toc-638-is-there-an-overlap-between-the-ideology-of-manifest-destiny-and-zionist-settler-colonialism-in-israel-and-has-american-influence-throughout-the-19th-and-20th-centuries-emboldened-or-developed-zionist-pushes-for-settler-colonialism-submitted-on-2022-07-23-1408090800">638: Is there an overlap between the ideology of Manifest Destiny and Zionist settler colonialism in Israel and has American influence throughout the 19th and 20th centuries emboldened or developed Zionist pushes for settler colonialism?, submitted on 2022-07-23 14:08:09+08:00.</a></li>
+  <li><a href="#639-im-a-farmer-in-gettysburg-pa-in-july-1863-the-battle-is-over-and-the-armies-have-left-my-farm-has-been-heavily-damaged-in-the-fighting-what-sort-of-assistance-if-any-can-i-expect-from-the-government-submitted-on-2022-07-23-2138060800" id="markdown-toc-639-im-a-farmer-in-gettysburg-pa-in-july-1863-the-battle-is-over-and-the-armies-have-left-my-farm-has-been-heavily-damaged-in-the-fighting-what-sort-of-assistance-if-any-can-i-expect-from-the-government-submitted-on-2022-07-23-2138060800">639: I’m a farmer in Gettysburg, PA in July 1863. The battle is over and the armies have left. My farm has been heavily damaged in the fighting. What sort of assistance, if any, can I expect from the government?, submitted on 2022-07-23 21:38:06+08:00.</a></li>
+  <li><a href="#640-what-is-the-name-of-the-chinese-chancellor-that-deposed-a-emperor-to-replace-with-a-better-emperor-submitted-on-2022-07-24-0925480800" id="markdown-toc-640-what-is-the-name-of-the-chinese-chancellor-that-deposed-a-emperor-to-replace-with-a-better-emperor-submitted-on-2022-07-24-0925480800">640: What is the name of the chinese chancellor that deposed a emperor to replace with a better emperor?, submitted on 2022-07-24 09:25:48+08:00.</a></li>
+  <li><a href="#641-hololive-clips-analysis-from-holodex-july-2022-submitted-on-2022-07-24-1203290800" id="markdown-toc-641-hololive-clips-analysis-from-holodex-july-2022-submitted-on-2022-07-24-1203290800">641: Hololive Clips Analysis from Holodex (July 2022), submitted on 2022-07-24 12:03:29+08:00.</a></li>
+  <li><a href="#642-hobby-scuffles-week-of-july-25-2022-submitted-on-2022-07-24-2300150800" id="markdown-toc-642-hobby-scuffles-week-of-july-25-2022-submitted-on-2022-07-24-2300150800">642: [Hobby Scuffles] Week of July 25, 2022, submitted on 2022-07-24 23:00:15+08:00.</a></li>
+</ul>
+
+<h3 id="613-historically-what-types-of-activities-or-movements-have-been-able-to-counter-a-slide-towards-authoritarianism-submitted-on-2022-07-18-1209240800">613: <a href="https://old.reddit.com/r/AskHistorians/comments/w1q1ps/historically_what_types_of_activities_or/">Historically, what types of activities or movements have been able to counter a slide towards authoritarianism?</a>, submitted on 2022-07-18 12:09:24+08:00.</h3>
+
+<p>—– <strong>613.1</strong> —–2022-07-18 15:29:23+08:00:</p>
+
+<p>Apologies, but we have removed your question in its current form as it breaks our <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">rules concerning the scope of questions</a>. However, it might be that an altered version of your question would fit within our rules, and we encourage you to reword your question to fit the rule. While we do allow questions which ask about general topics without specific bounding by time or space, we do ask that they be clearly phrased and presented in a way that can be answered by an individual historian focusing on only one example which they can write about in good detail.</p>
+
+<p>So for example, if you wanted to ask, “<em>Have people always rebelled against health rules in pandemics?</em>” we would remove the question. As phrased, it asks broadly about many places collectively. However if you ask “<em>In the time and place you study, how did people rebel against health rules in a pandemic?</em>” we would allow the question. As phrased, while still asking broadly, it does so in a way that clearly invites a given expert to write exclusively about their topic of focus! We encourage you to think about rewording your question to fit this rule, and thank you for your understanding. If you are unsure of how best to reshape your question to fit these requirements, <a href="https://www.reddit.com/message/compose/?to=/r/AskHistorians">please reach out to us for assistance</a>.</p>
+
+<h3 id="614-the-further-east-you-go-the-more-anti-semitism-there-is-is-this-an-oversimplification-and-if-or-if-not-what-historical-trends-brought-brought-about-it-submitted-on-2022-07-18-1222160800">614: <a href="https://old.reddit.com/r/AskHistorians/comments/w1q9mn/the_further_east_you_go_the_more_antisemitism/">“The further East you go, the more anti-Semitism there is”. Is this an oversimplification? And if or if not, what historical trends brought brought about it?</a>, submitted on 2022-07-18 12:22:16+08:00.</h3>
+
+<p>—– <strong>614.1</strong> —–2022-07-18 15:29:28+08:00:</p>
+
+<p>Apologies, but we have removed your question in its current form as it breaks our <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">rules concerning the scope of questions</a>. However, it might be that an altered version of your question would fit within our rules, and we encourage you to reword your question to fit the rule. While we do allow questions which ask about general topics without specific bounding by time or space, we do ask that they be clearly phrased and presented in a way that can be answered by an individual historian focusing on only one example which they can write about in good detail.</p>
+
+<p>So for example, if you wanted to ask, “<em>Have people always rebelled against health rules in pandemics?</em>” we would remove the question. As phrased, it asks broadly about many places collectively. However if you ask “<em>In the time and place you study, how did people rebel against health rules in a pandemic?</em>” we would allow the question. As phrased, while still asking broadly, it does so in a way that clearly invites a given expert to write exclusively about their topic of focus! We encourage you to think about rewording your question to fit this rule, and thank you for your understanding. If you are unsure of how best to reshape your question to fit these requirements, <a href="https://www.reddit.com/message/compose/?to=/r/AskHistorians">please reach out to us for assistance</a>.</p>
+
+<h3 id="615-are-there-any-prisoners-still-in-san-quentin-who-saw-johnny-cash-perform-there-submitted-on-2022-07-18-1307150800">615: <a href="https://old.reddit.com/r/AskHistorians/comments/w1r1i4/are_there_any_prisoners_still_in_san_quentin_who/">Are there any prisoners still in San Quentin who saw Johnny Cash perform there?</a>, submitted on 2022-07-18 13:07:15+08:00.</h3>
+
+<p>—– <strong>615.1</strong> —–2022-07-18 15:28:50+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="616-how-did-dispose-semantically-shift-from-put-apart--to-transfer-title-to-property-submitted-on-2022-07-18-1445300800">616: <a href="https://old.reddit.com/r/AskHistorians/comments/w1sm7y/how_did_dispose_semantically_shift_from_put_apart/">How did “dispose” semantically shift from “put apart” 🡺 to “transfer title to property”?</a>, submitted on 2022-07-18 14:45:30+08:00.</h3>
+
+<p>—– <strong>616.1</strong> —–2022-07-18 15:27:27+08:00:</p>
+
+<p>Apologies, but we have had to remove your submission. We ask that questions in this subreddit be limited to those asking about history, or for historical answers. This is not a judgement of your question, but to receive the answer you are looking for, it would be better suited to /r/linguistics.</p>
+
+<p>If you are interested in an historical answer, however, you are welcome to rework your question to fit the theme of this subreddit and resubmit it.</p>
+
+<h3 id="617-cacophanous-copium-congregation---weekly-discussion-thread-18th-july-2022-submitted-on-2022-07-18-2325070800">617: <a href="https://old.reddit.com/r/VirtualYoutubers/comments/w2234d/cacophanous_copium_congregation_weekly_discussion/">Cacophanous Copium Congregation - Weekly Discussion Thread, 18th July, 2022</a>, submitted on 2022-07-18 23:25:07+08:00.</h3>
+
+<p>—– <strong>617.1</strong> —–2022-07-20 23:00:16+08:00:</p>
+
+<blockquote>
+  <p>Not vTuber related</p>
+</blockquote>
+
+<p>To be fair, the video does feature both Ironmouse and <a href="https://scarlettrainn.carrd.co/">Scarlett Rainn</a> so it kinda is.</p>
+
+<p>—– <strong>617.2</strong> —–2022-07-21 12:16:17+08:00:</p>
+
+<p>I believe she will be collabing with Nene at one point; the original time didn’t work out but there was a rescheduling planned.</p>
+
+<p>—– <strong>617.3</strong> —–2022-07-22 00:44:02+08:00:</p>
+
+<p>…Wasn’t that in the free portion though?</p>
+
+<p>—– <strong>617.4</strong> —–2022-07-22 00:53:21+08:00:</p>
+
+<p>There’s a difference between ‘$50 for 3rd Fes wasn’t worth it’ and ‘I felt like I got more out of the $50 I paid for Calli’s concert than the $50 I paid for each day of 3rd Fes’, and it’s one which you’ve clearly said you’re in the former camp on. For my part, I did enjoy 3rd Fes and thought it was worth the price of admission, but Calli’s concert was definitely <em>more</em> worth the price. Which is weird to say given that Calli’s concert had 24 songs, while 3rd Fes had 28 and 26 respectively, while also being considerably lower-tech in some regards, but I imagine it was a mix of:</p>
+
+<ul>
+  <li>
+    <p>Calli being my oshi, 24 Calli songs is a lot more enticing than 26/8 songs of which maybe half to two thirds feature a member I actively follow;</p>
+  </li>
+  <li>
+    <p>The songs were much more densely packed with no MC segments, so it <em>felt</em> like more was going on;</p>
+  </li>
+  <li>
+    <p>It was a bit more of an intimate atmosphere even in the livestream, with a much more substantial ‘vibe’ to it;</p>
+  </li>
+  <li>
+    <p>Because it was Calli throughout, there was a sort of continuity of atmosphere to it across songs without it being broken up into individual members’ sections;</p>
+  </li>
+  <li>
+    <p>The producers really must have had fun doing new visual effects for every single song;</p>
+  </li>
+  <li>
+    <p>It’s Calli. Everything is a banger. Even the shitposts? Especially the shitposts.</p>
+  </li>
+</ul>
+
+<p>—– <strong>617.5</strong> —–2022-07-22 01:02:35+08:00:</p>
+
+<p>No, she isn’t, just hijacking a human body for a bit.</p>
+
+<p>—– <strong>617.6</strong> —–2022-07-22 01:21:19+08:00:</p>
+
+<p>…It was Nijisanji that shuttered its KR and IN branches, not Hololive.</p>
+
+<p>—– <strong>617.7</strong> —–2022-07-22 01:23:40+08:00:</p>
+
+<blockquote>
+  <p>the AR tech there was actually quite a bit more impressive than Calli’s concert</p>
+</blockquote>
+
+<p>Might be because Calli’s concert didn’t include the AR, but did do more visual effects for stream viewers.</p>
+
+<p>—– <strong>617.8</strong> —–2022-07-22 01:28:11+08:00:</p>
+
+<p>Ah, I’d known about the former but not the latter. That said, who knows at this stage?</p>
+
+<p>—– <strong>617.9</strong> —–2022-07-22 08:07:45+08:00:</p>
+
+<p>ah fair, I don’t use USD on the regular anyway so IDK the Yen exchange rates.</p>
+
+<p>—– <strong>617.10</strong> —–2022-07-22 08:54:03+08:00:</p>
+
+<p>Head of international development or similar IIRC.</p>
+
+<p>—– <strong>617.11</strong> —–2022-07-22 08:55:57+08:00:</p>
+
+<p>I’ve had this with Izzzyzzz and Josh Strife Hayes recently, despite having very little exposure to late 2000s/early 2010s girl-oriented tween media or MMOs, respectively. They’re just oddly engaging about their subject matter.</p>
+
+<p>—– <strong>617.12</strong> —–2022-07-22 08:59:11+08:00:</p>
+
+<p>I said this when the trailer first dropped, but I wonder why some members’ names are the wrong way round here.</p>
+
+<p>—– <strong>617.13</strong> —–2022-07-22 09:03:24+08:00:</p>
+
+<p>Didn’t care enough to check, but did care enough to post.</p>
+
+<p>—– <strong>617.14</strong> —–2022-07-22 09:10:39+08:00:</p>
+
+<p>The announcements at the start said no cheering. By about the midpoint that rule started to be broken. By the end it seemed like ‘rules? what rules?’</p>
+
+<p>—– <strong>617.15</strong> —–2022-07-22 09:11:20+08:00:</p>
+
+<p>‘Rui’ is correct to how it’s spelled in katakana, to be fair.</p>
+
+<p>—– <strong>617.16</strong> —–2022-07-22 09:22:06+08:00:</p>
+
+<blockquote>
+  <p>Bae with Miori Celesta</p>
+</blockquote>
+
+<p>I’m honestly (pleasantly) surprised that went ahead, not because Miori is particularly controversial but more because of Bae’s past funnily enough.</p>
+
+<p>—– <strong>617.17</strong> —–2022-07-22 09:27:39+08:00:</p>
+
+<blockquote>
+  <p>Nijisanji’s chinese fanbase only became a thing after the guys debuted.</p>
+</blockquote>
+
+<p>I mean Nijisanji has straight up had a CN branch for years. NijiEN’s fanbase on the other hand, that’s a different story.</p>
+
+<p>—– <strong>617.18</strong> —–2022-07-22 14:47:11+08:00:</p>
+
+<p>Update: it’s not; that’s coming in December (whatever it is).</p>
+
+<p>—– <strong>617.19</strong> —–2022-07-22 19:58:44+08:00:</p>
+
+<p>Hololive has come to accept that all its 5-member generations are going to lose one member and are pre-empting it in the lore material for Tempus.</p>
+
+<p>—– <strong>617.20</strong> —–2022-07-23 15:11:59+08:00:</p>
+
+<p>I’m not crying you’re crying</p>
+
+<p>—– <strong>617.21</strong> —–2022-07-23 17:27:36+08:00:</p>
+
+<p>She doubled down on aspects of that – albeit not naming names – less than 2 months ago https://www.dexerto.com/entertainment/veibae-full-time-anime-girl-vtubing-self-discovery-1844849/</p>
+
+<h3 id="618-anyone-know-anything-about-white-city-in-saint-lucie-county-fla-submitted-on-2022-07-20-0818270800">618: <a href="https://old.reddit.com/r/AskHistorians/comments/w37xz2/anyone_know_anything_about_white_city_in_saint/">Anyone know anything about White City in Saint Lucie County, Fla?</a>, submitted on 2022-07-20 08:18:27+08:00.</h3>
+
+<p>—– <strong>618.1</strong> —–2022-07-20 09:25:54+08:00:</p>
+
+<p>Hi there - unfortunately we have had to remove your question, because <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework">/r/AskHistorians isn’t here to do your homework for you</a>. However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself.</p>
+
+<p>If you have indeed asked a homework question, you should consider resubmitting a question more focused on finding resources and seeking clarification on confusing issues: tell us what you’ve researched so far, what resources you’ve consulted, and what you’ve learned, and we are more likely to approve your question. Please see this <a href="https://www.reddit.com/r/AskHistorians/comments/hplxyf/rules_roundtable_xx_the_no_homework_rule/">Rules Roundtable</a> thread for more information on what makes for the kind of homework question we’d approve. Additionally, if you’re not sure where to start in terms of finding and understanding sources in general, we have a six-part series, “<a href="https://www.reddit.com/r/AskHistorians/wiki/theory#wiki_monday_methods.3A_finding_and_understanding_sources">Finding and Understanding Sources</a>”, which has a wealth of information that may be useful for finding and understanding information for your essay. Finally, other subreddits are likely to be more suitable for help with homework - try looking for help at /r/HomeworkHelp.</p>
+
+<p>Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you <strong>wait for 7 days</strong> and then ask a less open-ended question on the same topic.</p>
+
+<h3 id="619-how-did-the-great-depression-impact-the-idea-of-american-freedom-submitted-on-2022-07-20-0844040800">619: <a href="https://old.reddit.com/r/AskHistorians/comments/w38i0u/how_did_the_great_depression_impact_the_idea_of/">How did the Great Depression impact the idea of American freedom?</a>, submitted on 2022-07-20 08:44:04+08:00.</h3>
+
+<p>—– <strong>619.1</strong> —–2022-07-20 09:23:12+08:00:</p>
+
+<p>Hi there - unfortunately we have had to remove your question, because <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework">/r/AskHistorians isn’t here to do your homework for you</a>. However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself.</p>
+
+<p>If you have indeed asked a homework question, you should consider resubmitting a question more focused on finding resources and seeking clarification on confusing issues: tell us what you’ve researched so far, what resources you’ve consulted, and what you’ve learned, and we are more likely to approve your question. Please see this <a href="https://www.reddit.com/r/AskHistorians/comments/hplxyf/rules_roundtable_xx_the_no_homework_rule/">Rules Roundtable</a> thread for more information on what makes for the kind of homework question we’d approve. Additionally, if you’re not sure where to start in terms of finding and understanding sources in general, we have a six-part series, “<a href="https://www.reddit.com/r/AskHistorians/wiki/theory#wiki_monday_methods.3A_finding_and_understanding_sources">Finding and Understanding Sources</a>”, which has a wealth of information that may be useful for finding and understanding information for your essay. Finally, other subreddits are likely to be more suitable for help with homework - try looking for help at /r/HomeworkHelp.</p>
+
+<p>Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you <strong>wait for 7 days</strong> and then ask a less open-ended question on the same topic.</p>
+
+<h3 id="620-in-what-language-was-constantine-the-greats-vision-submitted-on-2022-07-20-0906130800">620: <a href="https://old.reddit.com/r/AskHistorians/comments/w38yzw/in_what_language_was_constantine_the_greats_vision/">In what language was Constantine the Great’s vision?</a>, submitted on 2022-07-20 09:06:13+08:00.</h3>
+
+<p>—– <strong>620.1</strong> —–2022-07-20 09:23:49+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="621-has-any-man-ever-seized-power-of-their-kingdomcountryempire-etc-without-being-a-military-man-like-caesar-napoleon-hitler-or-is-it-important-to-have-a-military-background-to-get-the-armys-support-to-take-control-submitted-on-2022-07-20-1916050800">621: <a href="https://old.reddit.com/r/AskHistorians/comments/w3jrfp/has_any_man_ever_seized_power_of_their/">Has any man ever seized power of their kingdom/country/empire etc, without being a military man (like Caesar, Napoleon, Hitler). Or is it important to have a military background to get the army’s support to take control?</a>, submitted on 2022-07-20 19:16:05+08:00.</h3>
+
+<p>—– <strong>621.1</strong> —–2022-07-20 19:44:06+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="622-what-happened-to-austria-hungarian-naval-officers-post-ww1-submitted-on-2022-07-20-2343160800">622: <a href="https://old.reddit.com/r/WarCollege/comments/w3pkg2/what_happened_to_austriahungarian_naval_officers/">What happened to Austria-Hungarian Naval Officers post WW1?</a>, submitted on 2022-07-20 23:43:16+08:00.</h3>
+
+<p>—– <strong>622.1</strong> —–2022-07-21 09:53:53+08:00:</p>
+
+<p>Interestingly, just Naziism and not Fascism in general – von Trapp was a vocal supporter of the Fatherland Front and Austrofascism.</p>
+
+<h3 id="623-what-were-the-roots-behind-the-tensions-between-the-cuban-revolutionaries-manuel-de-quesada-and-miguel-aldama-submitted-on-2022-07-21-0454040800">623: <a href="https://old.reddit.com/r/AskHistorians/comments/w3x7u7/what_were_the_roots_behind_the_tensions_between/">What were the roots behind the tensions between the Cuban revolutionaries Manuel de Quesada and Miguel Aldama?</a>, submitted on 2022-07-21 04:54:04+08:00.</h3>
+
+<p>—– <strong>623.1</strong> —–2022-07-21 15:11:49+08:00:</p>
+
+<p>Hi there - unfortunately we have had to remove your question, because <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework">/r/AskHistorians isn’t here to do your homework for you</a>. However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself.</p>
+
+<p>If you have indeed asked a homework question, you should consider resubmitting a question more focused on finding resources and seeking clarification on confusing issues: tell us what you’ve researched so far, what resources you’ve consulted, and what you’ve learned, and we are more likely to approve your question. Please see this <a href="https://www.reddit.com/r/AskHistorians/comments/hplxyf/rules_roundtable_xx_the_no_homework_rule/">Rules Roundtable</a> thread for more information on what makes for the kind of homework question we’d approve. Additionally, if you’re not sure where to start in terms of finding and understanding sources in general, we have a six-part series, “<a href="https://www.reddit.com/r/AskHistorians/wiki/theory#wiki_monday_methods.3A_finding_and_understanding_sources">Finding and Understanding Sources</a>”, which has a wealth of information that may be useful for finding and understanding information for your essay. Finally, other subreddits are likely to be more suitable for help with homework - try looking for help at /r/HomeworkHelp.</p>
+
+<p>Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you <strong>wait for 7 days</strong> and then ask a less open-ended question on the same topic.</p>
+
+<h3 id="624-best-trained-civilians-in-history-submitted-on-2022-07-21-1124140800">624: <a href="https://old.reddit.com/r/AskHistorians/comments/w45zp0/best_trained_civilians_in_history/">Best Trained Civilians in History?</a>, submitted on 2022-07-21 11:24:14+08:00.</h3>
+
+<p>—– <strong>624.1</strong> —–2022-07-21 15:09:09+08:00:</p>
+
+<p>This submission has been removed because it violates the <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions">rule on poll-type questions</a>. These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the “most”, the “worst”, “unknown”, or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult <a href="https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/">this Roundtable discussion</a>.</p>
+
+<p>For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.</p>
+
+<h3 id="625-which-civil-war-was-arguably-the-deadliest-submitted-on-2022-07-21-1322390800">625: <a href="https://old.reddit.com/r/AskHistorians/comments/w488yj/which_civil_war_was_arguably_the_deadliest/">Which Civil war was arguably the deadliest?</a>, submitted on 2022-07-21 13:22:39+08:00.</h3>
+
+<p>—– <strong>625.1</strong> —–2022-07-21 15:18:39+08:00:</p>
+
+<p>This submission has been removed because it violates the <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions">rule on poll-type questions</a>. These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the “most”, the “worst”, “unknown”, or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult <a href="https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/">this Roundtable discussion</a>.</p>
+
+<p>For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.</p>
+
+<h3 id="626-can-you-tell-me-anything-about-the-original-murders-that-led-to-powers-v-ohio-submitted-on-2022-07-21-1510150800">626: <a href="https://old.reddit.com/r/AskHistorians/comments/w4a2eb/can_you_tell_me_anything_about_the_original/">Can you tell me anything about the original murders that led to Powers v. Ohio?</a>, submitted on 2022-07-21 15:10:15+08:00.</h3>
+
+<p>—– <strong>626.1</strong> —–2022-07-21 15:19:31+08:00:</p>
+
+<p>Hi there - unfortunately we have had to remove your question, because <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework">/r/AskHistorians isn’t here to do your homework for you</a>. However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself.</p>
+
+<p>If you have indeed asked a homework question, you should consider resubmitting a question more focused on finding resources and seeking clarification on confusing issues: tell us what you’ve researched so far, what resources you’ve consulted, and what you’ve learned, and we are more likely to approve your question. Please see this <a href="https://www.reddit.com/r/AskHistorians/comments/hplxyf/rules_roundtable_xx_the_no_homework_rule/">Rules Roundtable</a> thread for more information on what makes for the kind of homework question we’d approve. Additionally, if you’re not sure where to start in terms of finding and understanding sources in general, we have a six-part series, “<a href="https://www.reddit.com/r/AskHistorians/wiki/theory#wiki_monday_methods.3A_finding_and_understanding_sources">Finding and Understanding Sources</a>”, which has a wealth of information that may be useful for finding and understanding information for your essay. Finally, other subreddits are likely to be more suitable for help with homework - try looking for help at /r/HomeworkHelp.</p>
+
+<p>Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you <strong>wait for 7 days</strong> and then ask a less open-ended question on the same topic.</p>
+
+<h3 id="627-baelz-calli-bypassed-the-middleman-submitted-on-2022-07-21-1954510800">627: <a href="https://old.reddit.com/r/Hololive/comments/w4esjh/baelz_calli_bypassed_the_middleman/">[Baelz] Calli bypassed the middleman</a>, submitted on 2022-07-21 19:54:51+08:00.</h3>
+
+<p>—– <strong>627.1</strong> —–2022-07-21 23:53:01+08:00:</p>
+
+<blockquote>
+  <p>For context, she 24 songs with almost no breaks. Then the encore section began and she went twice as hard as before.</p>
+
+</blockquote>
+
+<p>Correction, she sang 18 and then did a 6-song encore section.</p>
+
+<p>—– <strong>627.2</strong> —–2022-07-22 08:41:20+08:00:</p>
+
+<p>When I last counted in late April she had 34 original songs, but you’ve made me count again because that was a while ago and now I may as well post her entire orisong list somewhere for reference. Now, the Virtual Youtuber Wiki lists the following 20:</p>
+
+<ul>
+  <li>RIP</li>
+  <li>ReaperかRapper? 自己紹介ラップ</li>
+  <li>Dead Beats</li>
+  <li>Live Again</li>
+  <li>Cursed Night</li>
+  <li>Off with their Heads</li>
+  <li>Ibasho</li>
+  <li>Red</li>
+  <li>Grim Reaper is a Live Streamer</li>
+  <li>Bully</li>
+  <li>Guh</li>
+  <li>Dawn Blue</li>
+  <li>End of a Life</li>
+  <li>UnAlive</li>
+  <li>Dead on Arrival</li>
+  <li>Lose-Lose Days</li>
+  <li>Huge W</li>
+  <li>Resting Power</li>
+  <li>Scuffed Up Age</li>
+  <li>Ouroboros</li>
+</ul>
+
+<p>However, that doesn’t include collab originals, the C-Man EP, or her new 6-song EP. If we <em>do</em> include those then we add:</p>
+
+<ul>
+  <li>Spiral Tones (With Rikka)</li>
+  <li>Cloudy Sheep (With Watame)</li>
+  <li>Myth or Treat (Myth)</li>
+  <li>Crown (With Boogey Voxx)</li>
+  <li>Graveyard Shift (With Boogey Voxx)</li>
+  <li>Yona Yona Journey (With Taku Inoue)</li>
+  <li>Q (With Gura)</li>
+  <li>Wicked (With Suisei)</li>
+  <li>Journey like a Thousand Years (Myth)</li>
+  <li>CapSule (With Suisei)</li>
+  <li>C-Man</li>
+  <li>Street Fite (With Hayko)</li>
+  <li>My Reality</li>
+  <li>Money (Hand me the Glock)</li>
+  <li>Mera Mera</li>
+  <li>Villain Vibes (With AmaLee/Monarch)</li>
+  <li>Holy嫉妬</li>
+  <li>Make ‘Em Afraid</li>
+  <li>Kamouflage</li>
+  <li>Let’s End the World</li>
+</ul>
+
+<p>So that doubles her orisong count from what the list says, with a further 12 collab and 8 solo originals – albeit with C-Man accounting for 1 and 3 of these, respectively. It would honestly be easier to say which orisongs she <em>didn’t</em> do out of those 40 than the 23 she did do (there was a new orisong with Watame). Doing some quick back-of-the-envelope maths, of her 40 total songs, it would have been <em>possible</em> to do 29 (28 solo + 1 with Gura + 2 with Suisei + 1 with Watame - 3 done as C-Man) as part of this particular concert.</p>
+
+<p>Speaking of, if you do want a setlist read on and see below:</p>
+
+<ol>
+  <li>Guh</li>
+  <li>Holy嫉妬</li>
+  <li>Kamouflage</li>
+  <li>Dead on Arrival</li>
+  <li>Red</li>
+  <li>Q (w. Gura)</li>
+  <li>Grim Reaper is a Live-Streamer</li>
+  <li>CapSule (w. Suisei)</li>
+  <li>Wicked (w. Suisei)</li>
+  <li>New Orisong (w. Watame)</li>
+  <li>Cloudy Sheep (w. Watame)</li>
+  <li>Bully</li>
+  <li>UnAlive</li>
+  <li>Dawn Blue</li>
+  <li>Lose-Lose Days</li>
+  <li>Scuffed-Up Age</li>
+  <li>Live Again</li>
+  <li>End of a Life</li>
+  <li>Make ‘Em Afraid</li>
+  <li>Dead Beats</li>
+  <li>Mera Mera</li>
+  <li>Huge W</li>
+  <li>Let’s End The World</li>
+  <li>R.I.P.</li>
+</ol>
+
+<p>Which means the 6 theoretically could done but didn’t were:</p>
+
+<ul>
+  <li>ReaperかRapper? 自己紹介ラップ</li>
+  <li>Cursed Night</li>
+  <li>Off with their Heads</li>
+  <li>Ibasho</li>
+  <li>Resting Power</li>
+  <li>Ouroboros</li>
+</ul>
+
+<p>Obviously, she wouldn’t have been able to do any collab originals where the collab partner wasn’t there, and was supremely unlikely to do any of the C-Man releases as part of her set.</p>
+
+<h3 id="628-what-was-the-relationship-between-korea-and-china-in-the-past-submitted-on-2022-07-21-2311530800">628: <a href="https://old.reddit.com/r/AskHistorians/comments/w4j4m9/what_was_the_relationship_between_korea_and_china/">what was the relationship between Korea and China in the past?</a>, submitted on 2022-07-21 23:11:53+08:00.</h3>
+
+<p>—– <strong>628.1</strong> —–2022-07-22 00:39:48+08:00:</p>
+
+<p>Going by colloquial definitions of the two polities, ‘Korea’ and ‘China’ have a shared history stretching back many centuries, and it would be difficult to cover it all in a single post. While other posts may be able to clarify other periods, I discuss relations between the Joseon kingdom in Korea and the Qing Empire in China in <a href="https://www.reddit.com/r/AskHistorians/comments/uqvht2/why_do_some_chinese_claim_korea_to_be_part_of/i932sjt/">this answer</a>.</p>
+
+<h3 id="629-music--engineering---martin-vs-the-marble-machine-x-the-greatest-music-box-that-never-worked-submitted-on-2022-07-22-0535080800">629: <a href="https://old.reddit.com/r/HobbyDrama/comments/w4sh7v/music_engineering_martin_vs_the_marble_machine_x/">[Music / Engineering] - Martin Vs. The Marble Machine X: The Greatest Music Box, that never worked</a>, submitted on 2022-07-22 05:35:08+08:00.</h3>
+
+<p>—– <strong>629.1</strong> —–2022-07-22 20:23:58+08:00:</p>
+
+<p>Oh my god, you scooped me! I’ve been sitting on a half-started writeup for months! Hats off to you, sir. That said, I feel like I need to issue a correction or two:</p>
+
+<blockquote>
+  <p>About a year later, in January of 2017 Martin moved to a studio in France, and posted his first video showcasing his plans for a new marble machine - called the Marble Machine X (or MMX), a robust, reliable machine which he could take on a world tour.</p>
+</blockquote>
+
+<p>Martin actually operated out of two workshops in Sweden for the majority of 2017, before moving to France in November.</p>
+
+<p>er</p>
+
+<p>That’s it. Well done.</p>
+
+<p>—– <strong>629.2</strong> —–2022-07-22 20:29:03+08:00:</p>
+
+<p>That was the DAO bit – DAOs are essentially blockchain-based project management systems, of sorts.</p>
+
+<p>—– <strong>629.3</strong> —–2022-07-22 20:37:51+08:00:</p>
+
+<p>I’m still technically on the Discord but never really followed it; if I had I feel like I’d have given up on the project far sooner. As it was, like you it was once he started obsessing over Elon Musk that I realised it was time to let go.</p>
+
+<h3 id="630-in-terms-of-percentages-and-scale-how-does-the-current-spike-in-fuel-costs-compare-to-the-70s-energy-crisis-submitted-on-2022-07-22-0805160800">630: <a href="https://old.reddit.com/r/AskHistorians/comments/w4vx35/in_terms_of_percentages_and_scale_how_does_the/">In terms of percentages and scale, how does the current spike in fuel costs compare to the 70s energy crisis?</a>, submitted on 2022-07-22 08:05:16+08:00.</h3>
+
+<p>—– <strong>630.1</strong> —–2022-07-22 14:28:24+08:00:</p>
+
+<p>This submission has been removed because it violates our <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events">‘20-Year Rule’</a>. To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult <a href="https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/">this Rules Roundtable</a>.</p>
+
+<h3 id="631-what-state-achieved-the-highest-share-of-world-gdp-at-their-time-submitted-on-2022-07-22-0808010800">631: <a href="https://old.reddit.com/r/AskHistorians/comments/w4vz9h/what_state_achieved_the_highest_share_of_world/">What state achieved the highest share of world GDP at their time?</a>, submitted on 2022-07-22 08:08:01+08:00.</h3>
+
+<p>—– <strong>631.1</strong> —–2022-07-22 14:28:29+08:00:</p>
+
+<p>This submission has been removed because it violates the <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions">rule on poll-type questions</a>. These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the “most”, the “worst”, “unknown”, or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult <a href="https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/">this Roundtable discussion</a>.</p>
+
+<p>For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.</p>
+
+<h3 id="632-are-early-christians-in-rome-and-spanish-inquisitors-the-same-civilizations-submitted-on-2022-07-22-1144170800">632: <a href="https://old.reddit.com/r/AskHistorians/comments/w50fsy/are_early_christians_in_rome_and_spanish/">Are early Christians in Rome and Spanish Inquisitors the same civilizations?</a>, submitted on 2022-07-22 11:44:17+08:00.</h3>
+
+<p>—– <strong>632.1</strong> —–2022-07-22 14:28:44+08:00:</p>
+
+<p>Hi there - unfortunately we have had to remove your question, because <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework">/r/AskHistorians isn’t here to do your homework for you</a>. However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself.</p>
+
+<p>If you have indeed asked a homework question, you should consider resubmitting a question more focused on finding resources and seeking clarification on confusing issues: tell us what you’ve researched so far, what resources you’ve consulted, and what you’ve learned, and we are more likely to approve your question. Please see this <a href="https://www.reddit.com/r/AskHistorians/comments/hplxyf/rules_roundtable_xx_the_no_homework_rule/">Rules Roundtable</a> thread for more information on what makes for the kind of homework question we’d approve. Additionally, if you’re not sure where to start in terms of finding and understanding sources in general, we have a six-part series, “<a href="https://www.reddit.com/r/AskHistorians/wiki/theory#wiki_monday_methods.3A_finding_and_understanding_sources">Finding and Understanding Sources</a>”, which has a wealth of information that may be useful for finding and understanding information for your essay. Finally, other subreddits are likely to be more suitable for help with homework - try looking for help at /r/HomeworkHelp.</p>
+
+<p>Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you <strong>wait for 7 days</strong> and then ask a less open-ended question on the same topic.</p>
+
+<h3 id="633-if-we-went-back-in-time-and-played-a-standard-44-funk-beat-for-people-would-they-be-able-to-dance-to-or-even-understand-it-submitted-on-2022-07-22-1148190800">633: <a href="https://old.reddit.com/r/AskHistorians/comments/w50ikr/if_we_went_back_in_time_and_played_a_standard_44/">If we went back in time and played a standard 4/4 funk beat for people, would they be able to dance to, or even understand it?</a>, submitted on 2022-07-22 11:48:19+08:00.</h3>
+
+<p>—– <strong>633.1</strong> —–2022-07-22 14:29:12+08:00:</p>
+
+<p>Apologies, but we have removed your question in its current form as it breaks our <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">rules concerning the scope of questions</a>. However, it might be that an altered version of your question would fit within our rules, and we encourage you to reword your question to fit the rule. While we do allow questions which ask about general topics without specific bounding by time or space, we do ask that they be clearly phrased and presented in a way that can be answered by an individual historian focusing on only one example which they can write about in good detail.</p>
+
+<p>So for example, if you wanted to ask, “<em>Have people always rebelled against health rules in pandemics?</em>” we would remove the question. As phrased, it asks broadly about many places collectively. However if you ask “<em>In the time and place you study, how did people rebel against health rules in a pandemic?</em>” we would allow the question. As phrased, while still asking broadly, it does so in a way that clearly invites a given expert to write exclusively about their topic of focus! We encourage you to think about rewording your question to fit this rule, and thank you for your understanding. If you are unsure of how best to reshape your question to fit these requirements, <a href="https://www.reddit.com/message/compose/?to=/r/AskHistorians">please reach out to us for assistance</a>.</p>
+
+<h3 id="634-what-were-expected-tank-vs-tank-combat-ranges-of-the-late-cold-war-era-1980-1991-for-both-nato-and-the-soviet-bloc-submitted-on-2022-07-22-1202590800">634: <a href="https://old.reddit.com/r/AskHistorians/comments/w50svq/what_were_expected_tank_vs_tank_combat_ranges_of/">What were expected tank vs tank combat ranges of the late Cold War era (1980-1991)? For both NATO and the Soviet bloc?</a>, submitted on 2022-07-22 12:02:59+08:00.</h3>
+
+<p>—– <strong>634.1</strong> —–2022-07-22 14:29:21+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="635-how-were-the-denominations-of-coins-decided-submitted-on-2022-07-22-1240480800">635: <a href="https://old.reddit.com/r/AskHistorians/comments/w51hzb/how_were_the_denominations_of_coins_decided/">How were the denominations of coins decided?</a>, submitted on 2022-07-22 12:40:48+08:00.</h3>
+
+<p>—– <strong>635.1</strong> —–2022-07-22 14:29:46+08:00:</p>
+
+<p>Apologies, but we have removed your question in its current form as it breaks our <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">rules concerning the scope of questions</a>. However, it might be that an altered version of your question would fit within our rules, and we encourage you to reword your question to fit the rule. While we do allow questions which ask about general topics without specific bounding by time or space, we do ask that they be clearly phrased and presented in a way that can be answered by an individual historian focusing on only one example which they can write about in good detail.</p>
+
+<p>So for example, if you wanted to ask, “<em>Have people always rebelled against health rules in pandemics?</em>” we would remove the question. As phrased, it asks broadly about many places collectively. However if you ask “<em>In the time and place you study, how did people rebel against health rules in a pandemic?</em>” we would allow the question. As phrased, while still asking broadly, it does so in a way that clearly invites a given expert to write exclusively about their topic of focus! We encourage you to think about rewording your question to fit this rule, and thank you for your understanding. If you are unsure of how best to reshape your question to fit these requirements, <a href="https://www.reddit.com/message/compose/?to=/r/AskHistorians">please reach out to us for assistance</a>.</p>
+
+<h3 id="636-friday-free-for-all--july-22-2022-submitted-on-2022-07-22-2100110800">636: <a href="https://old.reddit.com/r/AskHistorians/comments/w5a1an/friday_freeforall_july_22_2022/">Friday Free-for-All | July 22, 2022</a>, submitted on 2022-07-22 21:00:11+08:00.</h3>
+
+<p>—– <strong>636.1</strong> —–2022-07-23 20:12:16+08:00:</p>
+
+<p>Do I know of some? Yes. Would I recommend them? No. With one exception. <em>China: A New History, Second Enlarged Edition</em>, originally by the late John Fairbank (completed just before his death in 1991) and amended by Merle Goldman, is about the only broad overview history of China that I would consider reasonably academically solid, and even that has caveats given the relative age of the original manuscript before Goldman’s revision and expansion for the second edition (2006). Arguably a more comprehensive and up-to-date overview would require doing a bit more reading with individual specialists in particular periods – my personal recommendation would be a run of seven books, consisting of the <em>History of Imperial China</em> series by Mark Edward Lewis, Dieter Kühn, Timothy Brook, and William T. Rowe, followed up with Jonathan Spence’s <em>The Search for Modern China</em> (specifically the 2012 third edition), or Pamela Crossley’s <em>The Wobbling Pivot: China Since 1800, An Interpretive History</em>.</p>
+
+<h3 id="637-can-someone-please-help-me-decode-this-tattoo-thank-you-submitted-on-2022-07-23-0435440800">637: <a href="https://old.reddit.com/r/Cantonese/comments/w5koc7/can_someone_please_help_me_decode_this_tattoo/">Can someone please help me decode this tattoo? Thank you</a>, submitted on 2022-07-23 04:35:44+08:00.</h3>
+
+<p>—– <strong>637.1</strong> —–2022-07-23 10:40:53+08:00:</p>
+
+<p>I mean, Chinese is a broad language family rather than a specific language. To be specific for OP (/u/megmeh), it is a written phrase which is agreed to be the UN in all Chinese languages.</p>
+
+<p>—– <strong>637.2</strong> —–2022-07-23 11:00:50+08:00:</p>
+
+<p>You realise that ‘Chinese’ encompasses multiple mutually unintelligible languages, right? Complexity will be inherent to such a situation, and I could just as much accuse you of oversimplifying (and rightly so, I would think).</p>
+
+<h3 id="638-is-there-an-overlap-between-the-ideology-of-manifest-destiny-and-zionist-settler-colonialism-in-israel-and-has-american-influence-throughout-the-19th-and-20th-centuries-emboldened-or-developed-zionist-pushes-for-settler-colonialism-submitted-on-2022-07-23-1408090800">638: <a href="https://old.reddit.com/r/AskHistorians/comments/w5wn1o/is_there_an_overlap_between_the_ideology_of/">Is there an overlap between the ideology of Manifest Destiny and Zionist settler colonialism in Israel and has American influence throughout the 19th and 20th centuries emboldened or developed Zionist pushes for settler colonialism?</a>, submitted on 2022-07-23 14:08:09+08:00.</h3>
+
+<p>—– <strong>638.1</strong> —–2022-07-23 15:09:12+08:00:</p>
+
+<p>This question has been removed because it is <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22soapboxing.22_or_loaded_questions.">soapboxing</a> or otherwise a <a href="https://www.reddit.com/r/AskHistorians/comments/glq47z/rules_roundtable_xiii_soapboxing_loaded_questions/">loaded question</a>: it has the effect of promoting an existing interpretation or opinion at the expense of open-ended enquiry. Although we understand if you may have an existing interest in the topic, expressing a detailed opinion on the matter in your question is usually a sign that it is a loaded one, and we will remove questions that appear to put a deliberate slant on their subject or solicit answers that align with a specific pre-existing view.</p>
+
+<h3 id="639-im-a-farmer-in-gettysburg-pa-in-july-1863-the-battle-is-over-and-the-armies-have-left-my-farm-has-been-heavily-damaged-in-the-fighting-what-sort-of-assistance-if-any-can-i-expect-from-the-government-submitted-on-2022-07-23-2138060800">639: <a href="https://old.reddit.com/r/AskHistorians/comments/w648tw/im_a_farmer_in_gettysburg_pa_in_july_1863_the/">I’m a farmer in Gettysburg, PA in July 1863. The battle is over and the armies have left. My farm has been heavily damaged in the fighting. What sort of assistance, if any, can I expect from the government?</a>, submitted on 2022-07-23 21:38:06+08:00.</h3>
+
+<p>—– <strong>639.1</strong> —–2022-07-24 02:13:57+08:00:</p>
+
+<p>Thank you for your response, but unfortunately, we have had to remove it. A <a href="https://www.reddit.com/r/AskHistorians/comments/f7fb8o/introducing_the_rules_roundtables_20_the/">core tenet</a> of the subreddit is that it is intended as a space not merely for a basic answer in and of itself, but rather for <a href="https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/">answers which demonstrate the respondents’ deeper engagement with the topic at hand</a>. Brief remarks such as these—even if technically correct—<a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_write_an_in-depth_answer">generally do not meet this requirement</a>. Similarly, while we encourage the use of sources, <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_sources">we prefer literature used to be academic in nature</a>.</p>
+
+<p>If you need guidance to better understand what we are looking for in our requirements, <a href="https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/">please consult this Rules Roundtable</a> which discusses how we evaluate answers on the subreddit, or else <a href="https://www.reddit.com/message/compose?to=%2Fr%2FAskHistorians&amp;subject=Inquiry%20About%20Revising%20My%20Response">reach out to us via modmail</a>. Thank you for your understanding.</p>
+
+<h3 id="640-what-is-the-name-of-the-chinese-chancellor-that-deposed-a-emperor-to-replace-with-a-better-emperor-submitted-on-2022-07-24-0925480800">640: <a href="https://old.reddit.com/r/AskHistorians/comments/w6jmcy/what_is_the_name_of_the_chinese_chancellor_that/">What is the name of the chinese chancellor that deposed a emperor to replace with a better emperor?</a>, submitted on 2022-07-24 09:25:48+08:00.</h3>
+
+<p>—– <strong>640.1</strong> —–2022-07-24 09:58:55+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="641-hololive-clips-analysis-from-holodex-july-2022-submitted-on-2022-07-24-1203290800">641: <a href="https://old.reddit.com/r/Hololive/comments/w6mm1z/hololive_clips_analysis_from_holodex_july_2022/">Hololive Clips Analysis from Holodex (July 2022)</a>, submitted on 2022-07-24 12:03:29+08:00.</h3>
+
+<p>—– <strong>641.1</strong> —–2022-07-24 13:34:07+08:00:</p>
+
+<p>Just want to point out a quick error on chart 3: VSPO is listed as having 23% of Traditional Chinese subs, when it should be closer to 1.5% given the number shown.</p>
+
+<p>—– <strong>641.2</strong> —–2022-07-24 13:40:48+08:00:</p>
+
+<p>Unfortunately you can’t edit posted images, or post titles.</p>
+
+<h3 id="642-hobby-scuffles-week-of-july-25-2022-submitted-on-2022-07-24-2300150800">642: <a href="https://old.reddit.com/r/HobbyDrama/comments/w6xkd7/hobby_scuffles_week_of_july_25_2022/">[Hobby Scuffles] Week of July 25, 2022</a>, submitted on 2022-07-24 23:00:15+08:00.</h3>
+
+<p>—– <strong>642.1</strong> —–2022-07-25 18:19:40+08:00:</p>
+
+<p>I would say Vox is controversial for seven main, somewhat interrelated, reasons:</p>
+
+<ol>
+  <li>
+    <p>He is at present the most successful male VTuber in the world, and when you’re exceptionally successful, there will always be people (rightly or wrongly) arguing why you shouldn’t be.</p>
+  </li>
+  <li>
+    <p>He isn’t part of Hololive, and the success both of himself and his wider unit (Luxiem) has really challenged Hololive’s prior dominance of international viewership, which brings out tribalists.</p>
+  </li>
+  <li>
+    <p>Nijisanji as an agency likes to play favourites with its more successful members with extra publicity and merch, and so there are many fans of non-Luxiem Nijisanji talents who have had cause to be especially resentful of Luxiem’s success and Luxiem getting a positive feedback loop of attention while their own favourite talents don’t. (This includes some fans of the pre-Luxiem units Lazulight, Ethyria and Obsydia, and <em>especially</em> those of its Korean and Indonesian talents).</p>
+  </li>
+  <li>
+    <p>Vox’s content is not everyone’s cup of tea, and he has an especial focus on what sometimes gets termed ‘boyfriend experience’ content, which has been a point of particular contention this year thanks to it being a central element of controversy during the situation leading up to and following Hololive’s termination of Uruha Rushia, whose ‘girlfriend experience’ content has been the subject of much acrimony.</p>
+  </li>
+  <li>
+    <p>The audience for Luxiem gets stereotyped as mostly being ‘fujoshis’ and obsessive fangirls, and while exaggerated there has definitely been a toxic side to his fanbase which manifested in what I’ll call the <a href="https://reddit.com/r/HobbyDrama/comments/v0cylk/hobby_scuffles_week_of_may_30_2022/iairldp/?context=999">Reimu interruption scandal</a> that saw a lot of hate directed against fellow NijiEN Reimu Endou that was <em>not</em> helped by Vox wording his initial statement in such a way that threw Reimu under the bus further before he formally apologised.</p>
+  </li>
+  <li>
+    <p>Valid criticism of Vox stans gets tied up a lot in accusations relating to his Chinese fanbase, and the size and influence thereof. Simply put, Luxiem as a whole and Vox in particular are as successful as they are in part because they’ve drawn a large Asian audience, which includes one in Mainland China because Nijisanji, unlike Hololive, didn’t end up going through a major PR controversy that led to it completely divesting from the country. And so the more politically-minded have suggested that there may be issues that may arise in future out of Vox’s close ties to the Chinese market. At one stage there was a brief – but to be honest surprisingly so – controversy when he did a Chinese learning stream where the original thumbnail was the PRC flag for instance.</p>
+  </li>
+  <li>
+    <p>Vox himself has at times not handled his fame well. This happened with the Reimu incident as noted above, but there was a really jarring moment in early June where he apparently broke down and seemed to suggest some kind of borderline obsessive relationship with his fans <a href="https://www.reddit.com/r/VirtualYoutubers/comments/v140sg/mechanic_maniac_maiden_weekly_discussion_thread/ib5c4f6/">(see here for a discussion thereof with a timestamp)</a>.</p>
+  </li>
+</ol>
+
+<p>Oh also he has a British accent.</p>
+
+<p>For the most part I don’t think there’s <em>that</em> much wrong with him. A <em>lot</em> of popular content creators, virtual or otherwise, go through moments where they have to take stock of their influence. I <em>do</em> think there are not so much shady as deeply unfair practices at Nijisanji as an agency, and I <em>do</em> think that actively appealing to the Chinese market is a bad thing for several reasons, but neither is strictly his <em>fault</em> in his capacity as a talent employed by the agency.</p>
+
+<p>—– <strong>642.2</strong> —–2022-07-25 18:20:25+08:00:</p>
+
+<p>I think with the Reimu thing it was less that he didn’t put his foot down soon enough and more that his first apology implied she was at fault.</p>
+
+<p>—– <strong>642.3</strong> —–2022-07-26 01:24:00+08:00:</p>
+
+<p>So, I very deliberately took a neutral line above, but I would say there’s a bit more to it than plain concern trolling, particularly around the Reimu incident 2 months ago. A lot of the backlash with that involved direct comparison with Rushia, for instance, which is hardly a case of accusing Vox of doing things that they wouldn’t accuse HoloEN members of doing. The other thing was definitely that his initial response was very bad and made things worse, intentional or otherwise, and screwing up PR in a tense moment is Not Good; there’s also the issue of the really rather concerning breakdown later on that gave a lot of people pause. I think there’s a lot that’s <em>exaggerated</em> in the response to Vox but there’s also some kernel of reasonable concern to be had.</p>
+
+<p>—– <strong>642.4</strong> —–2022-07-26 02:08:42+08:00:</p>
+
+<p>I think we’re broadly aligned here. It’s not that he’s done nothing wrong, but so far it mostly seems like someone who’s still learning the ropes on how to deal with being in a position of influence.</p>
+
+<p>—– <strong>642.5</strong> —–2022-07-26 02:22:26+08:00:</p>
+
+<p>I think V5 was the last time they were crossposted.</p>
+
+<p>—– <strong>642.6</strong> —–2022-07-30 10:57:57+08:00:</p>
+
+<p>I feel like the difference with Tintin is that that was such a personal thing to Hergé himself in a way that Asterix sort of isn’t to Goscinny and Uderzo. Tintin, as a brand, is a sort of low-level international phenomenon specifically associated with its author. Asterix on the other hand is a French cultural icon with a global audience. So whereas Tintin as a brand not only can, but effectively must operate on the model that ‘this is it, this is all the original comic source material’, Asterix can keep going as a malleable entity to be passed down to different authors.</p>
+
+<p>—– <strong>642.7</strong> —–2022-07-30 11:15:02+08:00:</p>
+
+<p>I feel like there’s sort of a sliding scale when it comes to scambait/anti-scam channels.</p>
+
+<p>Down at the most innocuous end are people like Kitboga or IRLRosie: their MO is entirely legal and their entire schtick is being as annoying and frustrating as humanly possible. Though Kitboga goes a step further by often managing to get bank information that can be passed on to authorities to at least temporarily disable part of a scam centre’s operations.</p>
+
+<p>A darker version of that is someone like ScammerRevolts, where it’s less trying to be comedic for an audience at the expense of the scammer, but more trying to be overtly insulting to the scammer in unsettling ways. The big thing that can be offputting is that the fact the scammers are South Asian does get used against them, which isn’t something that Kitboga for instance will resort to.</p>
+
+<p>Jim Browning’s approach is definitely illegal, but <em>most</em> of his approach involves warning recent victims rather than simply directly frustrating the scammers.</p>
+
+<p>Pierogi of Scammer Payback doesn’t really do the warning victims side and mostly concentrates on being annoying, while still doing hacking, which is… IDK it feels like the Jim approach is more useful.</p>
+
+<p>There’s this one channel whose name escapes me that involves two guys physically confronting people involved in smuggling stuff for scams, and to be honest  that’s just not a good strategy even if they weren’t woefully incompetent.</p>
+
+<p>And to be honest I put the ‘rat releasing prank’ at the extreme end of the ‘wtf no don’t do this’ scale – yes, the absence of an effective proactive police response to scamming in India means some level of vigilantism is rendered necessary, but the productive approach is to do what Kitboga does legally or Jim Browning does… less legally, i.e. find out information and file reports. Releasing rats is potentially entertaining, but it doesn’t fix any problems and puts <em>you</em> on the hook legally.</p>
+
+<p>—– <strong>642.8</strong> —–2022-07-30 12:26:31+08:00:</p>
+
+<p>The thing with the porch pirates is that you’re provably catching someone in the middle of an act of theft and responding commensurately with a nonlethal booby trap built into the stolen object, something which is a little legally grey but <em>should</em> favour the one setting the trap (because however you slice it, the thief is still attempting to commit theft). Whereas heading off to India and releasing live animals into a scam call centre isn’t really a commensurate response to an attempt at direct harm inflicted on yourself or your property, even if it is immediately apparent beyond a reasonable doubt that there is a crime being committed on the site.</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-08-03</time>
+        <a href="https://nodebe4.github.io/opinion/2022-08-03/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-08-01~2022-08-07的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-07-31</time>
+        <a href="https://nodebe4.github.io/opinion/2022-07-31/EnclavedMicrostate/">
+          EnclavedMicrostate在2022-07-25~2022-07-31的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-07-22</time>
+        <a href="https://nodebe4.github.io/opinion/2022-07-22/theoryofdoom/">
+          theoryofdoom在2022-07-18~2022-07-24的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-07-21</time>
+        <a href="https://nodebe4.github.io/opinion/2022-07-21/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-07-18~2022-07-24的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-07-23/%E7%A7%A6%E6%99%96-%E5%8D%8E%E4%BA%BA%E8%AE%A8%E5%8E%8C%E7%99%BD%E5%B7%A6-%E5%8E%8C%E6%81%B6%E7%A7%A6%E7%9A%87%E6%B1%89%E6%AD%A6-%E4%B8%AD%E5%9B%BD%E5%B7%A6%E6%B4%BE%E5%92%8C%E7%BE%8E%E5%9B%BD%E5%B7%A6%E6%B4%BE/">
+            前一篇：秦晖：华人讨厌白左，厌恶秦皇汉武？中国左派和美国左派
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-07-24/HeQinglian/">
+            後一篇：Twitter @He Qinglian: 2022-07-18~2022-07-24
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-07-23/%E7%A7%A6%E6%99%96-%E5%8D%8E%E4%BA%BA%E8%AE%A8%E5%8E%8C%E7%99%BD%E5%B7%A6-%E5%8E%8C%E6%81%B6%E7%A7%A6%E7%9A%87%E6%B1%89%E6%AD%A6-%E4%B8%AD%E5%9B%BD%E5%B7%A6%E6%B4%BE%E5%92%8C%E7%BE%8E%E5%9B%BD%E5%B7%A6%E6%B4%BE/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-07-24/HeQinglian/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-07-31/EnclavedMicrostate/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-07-22/theoryofdoom/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-07-23/%E7%A7%A6%E6%99%96-%E5%8D%8E%E4%BA%BA%E8%AE%A8%E5%8E%8C%E7%99%BD%E5%B7%A6-%E5%8E%8C%E6%81%B6%E7%A7%A6%E7%9A%87%E6%B1%89%E6%AD%A6-%E4%B8%AD%E5%9B%BD%E5%B7%A6%E6%B4%BE%E5%92%8C%E7%BE%8E%E5%9B%BD%E5%B7%A6%E6%B4%BE/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-07-24/HeQinglian/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-07-31/EnclavedMicrostate/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-07-22/theoryofdoom/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

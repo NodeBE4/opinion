@@ -1,0 +1,2313 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>theoryofdoom在2022-09-26~2022-10-02的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="theoryofdoom在2022-09-26~2022-10-02的言论" />
+    <meta property="twitter:title" content="theoryofdoom在2022-09-26~2022-10-02的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FRedditCensorship%2Fcomments%2Fxnxy8c%2Fworldnews_permanently_banned_me_because_i_agreed%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/RedditCensorship/comments/xnxy8c/worldnews_permanently_banned_me_because_i_agreed/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/RedditCensorship/comments/xnxy8c/worldnews_permanently_banned_me_because_i_agreed/&text=theoryofdoom在2022-09-26~2022-10-02的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/RedditCensorship/comments/xnxy8c/worldnews_permanently_banned_me_because_i_agreed/&title=theoryofdoom在2022-09-26~2022-10-02的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/RedditCensorship/comments/xnxy8c/worldnews_permanently_banned_me_because_i_agreed/&title=theoryofdoom在2022-09-26~2022-10-02的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=theoryofdoom在2022-09-26~2022-10-02的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/RedditCensorship/comments/xnxy8c/worldnews_permanently_banned_me_because_i_agreed/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/RedditCensorship/comments/xnxy8c/worldnews_permanently_banned_me_because_i_agreed/&title=theoryofdoom在2022-09-26~2022-10-02的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=theoryofdoom在2022-09-26~2022-10-02的言论&url=https://old.reddit.com/r/RedditCensorship/comments/xnxy8c/worldnews_permanently_banned_me_because_i_agreed/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>theoryofdoom在2022-09-26~2022-10-02的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-10-02
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: theoryofdoom</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/RedditCensorship/comments/xnxy8c/worldnews_permanently_banned_me_because_i_agreed/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#385-worldnews-permanently-banned-me-because-i-agreed-with-a-title-basically-submitted-on-2022-09-26-0421580800" id="markdown-toc-385-worldnews-permanently-banned-me-because-i-agreed-with-a-title-basically-submitted-on-2022-09-26-0421580800">385: Worldnews permanently banned me because I agreed with a title basically, submitted on 2022-09-26 04:21:58+08:00.</a></li>
+  <li><a href="#386-what-is-your-favourite-song-at-the-moment-submitted-on-2022-09-26-0721570800" id="markdown-toc-386-what-is-your-favourite-song-at-the-moment-submitted-on-2022-09-26-0721570800">386: What is your favourite song at the moment?, submitted on 2022-09-26 07:21:57+08:00.</a></li>
+  <li><a href="#387-would-john-fetterman-make-a-good-president-submitted-on-2022-09-26-0829340800" id="markdown-toc-387-would-john-fetterman-make-a-good-president-submitted-on-2022-09-26-0829340800">387: Would John Fetterman make a good president?, submitted on 2022-09-26 08:29:34+08:00.</a></li>
+  <li><a href="#388-how-would-you-end-the-war-on-drugs-submitted-on-2022-09-26-1802500800" id="markdown-toc-388-how-would-you-end-the-war-on-drugs-submitted-on-2022-09-26-1802500800">388: How would you end the war on drugs?, submitted on 2022-09-26 18:02:50+08:00.</a></li>
+  <li><a href="#389-do-you-trust-the-medical-profession-submitted-on-2022-09-27-0853050800" id="markdown-toc-389-do-you-trust-the-medical-profession-submitted-on-2022-09-27-0853050800">389: Do you trust the medical profession?, submitted on 2022-09-27 08:53:05+08:00.</a></li>
+  <li><a href="#390-cdc-no-longer-recommends-universal-masking-in-health-facilities-submitted-on-2022-09-27-1037070800" id="markdown-toc-390-cdc-no-longer-recommends-universal-masking-in-health-facilities-submitted-on-2022-09-27-1037070800">390: CDC no longer recommends universal masking in health facilities, submitted on 2022-09-27 10:37:07+08:00.</a></li>
+  <li><a href="#391-how-does-russian-media-handle-the-gasleak-what-is-said-to-be-the-cause-of-it-submitted-on-2022-09-28-0048530800" id="markdown-toc-391-how-does-russian-media-handle-the-gasleak-what-is-said-to-be-the-cause-of-it-submitted-on-2022-09-28-0048530800">391: How does russian media handle the gasleak, what is said to be the cause of it?, submitted on 2022-09-28 00:48:53+08:00.</a></li>
+  <li><a href="#392-why-are-private-religious-schools-a-thing-submitted-on-2022-09-28-0123470800" id="markdown-toc-392-why-are-private-religious-schools-a-thing-submitted-on-2022-09-28-0123470800">392: Why are private religious schools a thing?, submitted on 2022-09-28 01:23:47+08:00.</a></li>
+  <li><a href="#393-polyphia---ego-death-feat-steve-vai-official-music-video-submitted-on-2022-09-28-2302470800" id="markdown-toc-393-polyphia---ego-death-feat-steve-vai-official-music-video-submitted-on-2022-09-28-2302470800">393: Polyphia - Ego Death feat. Steve Vai (Official Music Video), submitted on 2022-09-28 23:02:47+08:00.</a></li>
+  <li><a href="#394-il-keep-the-beer-belly-submitted-on-2022-09-29-1757250800" id="markdown-toc-394-il-keep-the-beer-belly-submitted-on-2022-09-29-1757250800">394: il keep the beer belly, submitted on 2022-09-29 17:57:25+08:00.</a></li>
+  <li><a href="#395-kid-destroys-neighbors-stuff-then-gets-arrested-later-submitted-on-2022-10-01-0014260800" id="markdown-toc-395-kid-destroys-neighbors-stuff-then-gets-arrested-later-submitted-on-2022-10-01-0014260800">395: Kid destroys neighbors stuff then gets arrested later, submitted on 2022-10-01 00:14:26+08:00.</a></li>
+  <li><a href="#396-ill-never-understand-some-peoples-obsession-with-making-everything-about-politics-submitted-on-2022-10-01-1719190800" id="markdown-toc-396-ill-never-understand-some-peoples-obsession-with-making-everything-about-politics-submitted-on-2022-10-01-1719190800">396: I’ll never understand some people’s obsession with making everything about politics, submitted on 2022-10-01 17:19:19+08:00.</a></li>
+  <li><a href="#397-hold-up-do-people-in-heterosexual-relationships-really-think-their-partners-shouldnt-be-friends-with-people-of-the-opposite-sex-submitted-on-2022-10-02-0512330800" id="markdown-toc-397-hold-up-do-people-in-heterosexual-relationships-really-think-their-partners-shouldnt-be-friends-with-people-of-the-opposite-sex-submitted-on-2022-10-02-0512330800">397: Hold up… do people in Heterosexual relationships really think their partners shouldn’t be friends with people of the opposite sex?, submitted on 2022-10-02 05:12:33+08:00.</a></li>
+  <li><a href="#398-pandemic-inspired-submitted-on-2022-10-02-0626450800" id="markdown-toc-398-pandemic-inspired-submitted-on-2022-10-02-0626450800">398: Pandemic-Inspired, submitted on 2022-10-02 06:26:45+08:00.</a></li>
+</ul>
+
+<h3 id="385-worldnews-permanently-banned-me-because-i-agreed-with-a-title-basically-submitted-on-2022-09-26-0421580800">385: <a href="https://old.reddit.com/r/RedditCensorship/comments/xnxy8c/worldnews_permanently_banned_me_because_i_agreed/">Worldnews permanently banned me because I agreed with a title basically</a>, submitted on 2022-09-26 04:21:58+08:00.</h3>
+
+<p>—– <strong>385.1</strong> —–2022-10-08 00:59:37+08:00:</p>
+
+<p>That you were permanently banned is not surprising.  /r/worldnews is moderated by a group of individuals who reflexively use their positions of supposed “influence” to cultivate and enforce an information ecosystem that reflects their desired “consensus reality.”</p>
+
+<p>Many moderators on subreddits like /r/worldnews (including to to the extent there is overlap between that subreddit and others, like /r/geopolitics) view their role as one of “public service.”  Many believe they have not only the right, but the responsibility to ensure that only the “correct” ideas are “platformed.”  Anything else is a “threat” to the “safety” of other users.  Those folks do not view what they are doing as “censorship” or “silencing dissent,” so much as “countering misinformation” or curtailing supposed “fake news.”</p>
+
+<p>For example, one such /r/worldnews moderator is affiliated with Bellingcat and purports to be an “instructor” at Portland State University where this person purportedly obtained a PhD in geography.  As some part of his “academic research,” this person focuses on so-called “fascist creep.”  Significantly, this person has no background, academic or otherwise, in political theory whatsoever.  Yet, according to this person, it is enough that this person alone subjectively perceives your views to align with the so-called “alt right,” for you to be precisely such a “threat” to “civility” or “safety.”  This individual has routinely banned numerous members for expressing views this person unilaterally has determined to be “bigoted.”  So-called “bigotry,” of course, is measured by agreement with this person’s political values.   After all, if this person perceives that you hold inappropriate views, according to this person you are an active threat and must be dispatched.</p>
+
+<p>There is much more to say about this same individual, but what is most striking to me is this person’s incredible deficits in self awareness.  When this person bans people who express views this person disagrees with, doing so is promoting “safety.”  Or at least upholding “civility.”  But there is no extent of misconduct that would prompt this person to ban someone whose views do not intrude upon the consensus reality this person has endeavored to cultivate.  To the extent anyone who aligns with this person’s views engages in objective misconduct and is banned by someone else, this person interprets that ban as an act of “bias” that is necessarily “politically motivated.”</p>
+
+<p>I am speaking from my own observations of this individual’s moderation behaviour on another subreddit over almost two years.</p>
+
+<p>tl;dr on /r/worldnews, the moderation standard is simple: “for my friends, anything; for my enemies, the law”</p>
+
+<h3 id="386-what-is-your-favourite-song-at-the-moment-submitted-on-2022-09-26-0721570800">386: <a href="https://old.reddit.com/r/TheFlyingTree/comments/xo2c0a/what_is_your_favourite_song_at_the_moment/">What is your favourite song at the moment?</a>, submitted on 2022-09-26 07:21:57+08:00.</h3>
+
+<p>—– <strong>386.1</strong> —–2022-09-26 08:41:23+08:00:</p>
+
+<p>My favorite song now is what it has always been.  Ceremony, by Joy Division.</p>
+
+<h3 id="387-would-john-fetterman-make-a-good-president-submitted-on-2022-09-26-0829340800">387: <a href="https://old.reddit.com/r/TheFlyingTree/comments/xo3wb9/would_john_fetterman_make_a_good_president/">Would John Fetterman make a good president?</a>, submitted on 2022-09-26 08:29:34+08:00.</h3>
+
+<p>—– <strong>387.1</strong> —–2022-09-27 11:58:30+08:00:</p>
+
+<p>Because you think all Americans pay close attention to the senate races of Pennsylvania?</p>
+
+<p>I don’t even pay attention to who is running in my own state.  If anyone, in this election.</p>
+
+<p>Actually I should probably check that . . . but I don’t care atm.</p>
+
+<p>I’ll care when we get closer to November.  Maybe.  But probably not.</p>
+
+<h3 id="388-how-would-you-end-the-war-on-drugs-submitted-on-2022-09-26-1802500800">388: <a href="https://old.reddit.com/r/TheFlyingTree/comments/xoezy9/how_would_you_end_the_war_on_drugs/">How would you end the war on drugs?</a>, submitted on 2022-09-26 18:02:50+08:00.</h3>
+
+<p>—– <strong>388.1</strong> —–2022-09-27 00:38:09+08:00:</p>
+
+<p>All of them.</p>
+
+<h3 id="389-do-you-trust-the-medical-profession-submitted-on-2022-09-27-0853050800">389: <a href="https://old.reddit.com/r/TheFlyingTree/comments/xp1llw/do_you_trust_the_medical_profession/">Do you trust the medical profession?</a>, submitted on 2022-09-27 08:53:05+08:00.</h3>
+
+<p>—– <strong>389.1</strong> —–2022-09-27 10:51:02+08:00:</p>
+
+<p>For me, it depends on the “medical professional.”  I dated a doctor whose specialty involved routine life and death decisions for a few years, and half the time he spent talking about how he was amazed some of his colleagues didn’t kill more people.</p>
+
+<p>Most people aren’t in a position to evaluate the competence of their medical professionals.  That’s worth keeping in mind, when reviewing these comments.</p>
+
+<p>—– <strong>389.2</strong> —–2022-09-27 10:55:11+08:00:</p>
+
+<p>It is actually hilarious that u/DandelionSwine’s comment is currently the most upvoted.</p>
+
+<p>Here’s some perspective, folks:</p>
+
+<p>Imagine going to a doctor and being told opioids were ok for chronic pain management and not addictive at all.</p>
+
+<p>Or that fentanyl was an ok thing to give to chronic pain patients, b/c you got <a href="https://www.youtube.com/watch?v=WvCld2vKug8&amp;ab_channel=FRONTLINEPBS%7COfficial">kickbacks from the pharmaceutical company</a>.</p>
+
+<p>It happens all the time, every single day.  And the fact that u/DandelionSwine is too ignorant to know how doctors can be illicitly compensated for prescribing decisions is just a reflection of naivety can be exploited by those with superior information.</p>
+
+<p>—– <strong>389.3</strong> —–2022-09-27 11:35:24+08:00:</p>
+
+<blockquote>
+  <p>I’m going to say I understand all of that. And yet it is still better for our society to not fear doctors or the medical system, because overall, higher access to healthcare and education has raised people’s life expectancy and quality of life.</p>
+</blockquote>
+
+<p>Now that is the point you should have made in the first instance.</p>
+
+<p>Not that nonsense about scamming people into diabetes.</p>
+
+<h3 id="390-cdc-no-longer-recommends-universal-masking-in-health-facilities-submitted-on-2022-09-27-1037070800">390: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/xp4143/cdc_no_longer_recommends_universal_masking_in/">CDC no longer recommends universal masking in health facilities</a>, submitted on 2022-09-27 10:37:07+08:00.</h3>
+
+<p>—– <strong>390.1</strong> —–2022-09-27 13:23:35+08:00:</p>
+
+<blockquote>
+  <p>We can get special hats to let people know we’re sick.</p>
+</blockquote>
+
+<p><a href="https://www.trumpstore.com/products/classic-maga-hat/">Those already exist</a>.</p>
+
+<h3 id="391-how-does-russian-media-handle-the-gasleak-what-is-said-to-be-the-cause-of-it-submitted-on-2022-09-28-0048530800">391: <a href="https://old.reddit.com/r/AskARussian/comments/xplza6/how_does_russian_media_handle_the_gasleak_what_is/">How does russian media handle the gasleak, what is said to be the cause of it?</a>, submitted on 2022-09-28 00:48:53+08:00.</h3>
+
+<p>—– <strong>391.1</strong> —–2022-09-28 08:24:22+08:00:</p>
+
+<blockquote>
+  <p>It was predicted in an analytical article dated 03/31/2020: ‘Russian underwater gas pipelines will be destroyed’</p>
+</blockquote>
+
+<p>A rare occasion where someone is bold enough to say what everyone was thinking.</p>
+
+<h3 id="392-why-are-private-religious-schools-a-thing-submitted-on-2022-09-28-0123470800">392: <a href="https://old.reddit.com/r/TheFlyingTree/comments/xpmw7b/why_are_private_religious_schools_a_thing/">Why are private religious schools a thing?</a>, submitted on 2022-09-28 01:23:47+08:00.</h3>
+
+<p>—– <strong>392.1</strong> —–2022-09-28 12:47:42+08:00:</p>
+
+<p>I assume you are in the United States, where we have freedoms that include freedom of religion, speech and assembly.  Laws cannot get rid of private religious schools.</p>
+
+<p>It turns out that the whole “evolution vs. religion” debate hasn’t mattered since the Scopes Monkey Trial.  Most private religious schools do not fit into the category of ass-backward idiocy that a few fundamentalist churches in this country do, which you seem to be describing.</p>
+
+<p>Those fundamentalist churches missed the boat on a number of things.  For example, they never got the message that religion and science exist in distinct epistemological domains that never converge.  Science, in general, and evolution, in particular, do not threaten the legitimacy of religious belief, observance, practice or faith writ large.</p>
+
+<p>That can only be brought about by one’s subjective insecurity.  And if you believed stupid things, like fundamentalists often are required to do, it’s natural to think they might be a bit insecure.</p>
+
+<p>—– <strong>392.2</strong> —–2022-09-28 12:50:14+08:00:</p>
+
+<blockquote>
+  <p>I went to a private, religious boarding school in the UK and a very minimal amount of my education actually involved religion.</p>
+</blockquote>
+
+<p>I have to assume this is an American post.  In Europe and even throughout most of America, religious private school is nothing like what the OP describes.</p>
+
+<p>There are some evangelical right wing madrasas.  But they are few.  Most private religious schools are more like Columbia University than bastions of theological indoctrination.</p>
+
+<h3 id="393-polyphia---ego-death-feat-steve-vai-official-music-video-submitted-on-2022-09-28-2302470800">393: <a href="https://old.reddit.com/r/polyphia/comments/xqf1wa/polyphia_ego_death_feat_steve_vai_official_music/">Polyphia - Ego Death feat. Steve Vai (Official Music Video)</a>, submitted on 2022-09-28 23:02:47+08:00.</h3>
+
+<p>—– <strong>393.1</strong> —–2022-11-13 05:40:10+08:00:</p>
+
+<p>I am in awe.  Most incredible guitarists in this generation.</p>
+
+<h3 id="394-il-keep-the-beer-belly-submitted-on-2022-09-29-1757250800">394: <a href="https://old.reddit.com/r/SuddenlyGay/comments/xr3oy9/il_keep_the_beer_belly/">il keep the beer belly</a>, submitted on 2022-09-29 17:57:25+08:00.</h3>
+
+<p>—– <strong>394.1</strong> —–2022-09-30 12:10:45+08:00:</p>
+
+<p>The guys I go for do not look like me.  They’re less muscular, less darkly tanned and usually shorter than me.  This makes me the minority?</p>
+
+<h3 id="395-kid-destroys-neighbors-stuff-then-gets-arrested-later-submitted-on-2022-10-01-0014260800">395: <a href="https://old.reddit.com/r/donthelpjustfilm/comments/xs5emt/kid_destroys_neighbors_stuff_then_gets_arrested/">Kid destroys neighbors stuff then gets arrested later</a>, submitted on 2022-10-01 00:14:26+08:00.</h3>
+
+<p>—– <strong>395.1</strong> —–2022-10-01 11:58:53+08:00:</p>
+
+<blockquote>
+  <p>Parents may not even be home, left the kid alone.</p>
+</blockquote>
+
+<p>Normal kids raised by normal parents do not do that shit when left alone.</p>
+
+<p>This is what fucked up kids raised by fucked up parents do when they are left alone.</p>
+
+<p>—– <strong>395.2</strong> —–2022-10-01 11:59:13+08:00:</p>
+
+<blockquote>
+  <p>As a GenX kid, I feel attacked.</p>
+</blockquote>
+
+<p>I feel that.</p>
+
+<p>—– <strong>395.3</strong> —–2022-10-01 12:05:04+08:00:</p>
+
+<blockquote>
+  <p>I think one assumption we can make is that whoever was supposed to be responsible for the supervision of this child demon did not do their job lol.</p>
+</blockquote>
+
+<p>Any kid who needs to be supervised so he doesn’t go off and throw rocks at the neighbor’s car has a lot more problems than lack of supervision.</p>
+
+<h3 id="396-ill-never-understand-some-peoples-obsession-with-making-everything-about-politics-submitted-on-2022-10-01-1719190800">396: <a href="https://old.reddit.com/r/TheFlyingTree/comments/xsqt9e/ill_never_understand_some_peoples_obsession_with/">I’ll never understand some people’s obsession with making everything about politics</a>, submitted on 2022-10-01 17:19:19+08:00.</h3>
+
+<p>—– <strong>396.1</strong> —–2022-10-02 00:26:20+08:00:</p>
+
+<p>People make everything about politics because they don’t have anything else in their life.  It’s sad.</p>
+
+<h3 id="397-hold-up-do-people-in-heterosexual-relationships-really-think-their-partners-shouldnt-be-friends-with-people-of-the-opposite-sex-submitted-on-2022-10-02-0512330800">397: <a href="https://old.reddit.com/r/TheFlyingTree/comments/xt6dn0/hold_up_do_people_in_heterosexual_relationships/">Hold up… do people in Heterosexual relationships really think their partners shouldn’t be friends with people of the opposite sex?</a>, submitted on 2022-10-02 05:12:33+08:00.</h3>
+
+<p>—– <strong>397.1</strong> —–2022-10-03 06:29:56+08:00:</p>
+
+<p>I cannot imagine being so paranoid that you restricted who your significant other was friends with.</p>
+
+<h3 id="398-pandemic-inspired-submitted-on-2022-10-02-0626450800">398: <a href="https://old.reddit.com/r/TheFlyingTree/comments/xt81qb/pandemicinspired/">Pandemic-Inspired</a>, submitted on 2022-10-02 06:26:45+08:00.</h3>
+
+<p>—– <strong>398.1</strong> —–2022-10-03 06:39:56+08:00:</p>
+
+<p>We will learn to live again.  Or we will <a href="https://www.youtube.com/watch?v=4Z2y85gW84U&amp;ab_channel=WaterTowerMusic">die trying</a>.</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-10-09</time>
+        <a href="https://nodebe4.github.io/opinion/2022-10-09/EnclavedMicrostate/">
+          EnclavedMicrostate在2022-10-03~2022-10-09的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-10-05</time>
+        <a href="https://nodebe4.github.io/opinion/2022-10-05/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-10-03~2022-10-09的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-10-02</time>
+        <a href="https://nodebe4.github.io/opinion/2022-10-02/Spinkcat/">
+          Spinkcat在2022-09-26~2022-10-02的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-10-02</time>
+        <a href="https://nodebe4.github.io/opinion/2022-10-02/EnclavedMicrostate/">
+          EnclavedMicrostate在2022-09-26~2022-10-02的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-10-02/realcaixia/">
+            前一篇：Twitter @蔡霞: 2022-09-26~2022-10-02
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-10-02/wangdan1989/">
+            後一篇：Twitter @王丹: 2022-09-26~2022-10-02
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-10-02/realcaixia/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-10-02/wangdan1989/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-10-05/ForeignAffairsMag/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-10-02/Spinkcat/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-10-02/realcaixia/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-10-02/wangdan1989/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-10-05/ForeignAffairsMag/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-10-02/Spinkcat/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

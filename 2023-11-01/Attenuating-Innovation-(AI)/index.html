@@ -1,0 +1,3064 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Attenuating Innovation (AI) – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+Attenuating Innovation (AI)
+——
+" />
+    <meta property="og:description" content="
+Attenuating Innovation (AI)
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Attenuating Innovation (AI)" />
+    <meta property="twitter:title" content="Attenuating Innovation (AI)" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2023%2Fattenuating-innovation-ai%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2023/attenuating-innovation-ai/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2023/attenuating-innovation-ai/&text=Attenuating Innovation (AI)&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2023/attenuating-innovation-ai/&title=Attenuating Innovation (AI)" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2023/attenuating-innovation-ai/&title=Attenuating Innovation (AI)" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Attenuating Innovation (AI)&body=
+Attenuating Innovation (AI)
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2023/attenuating-innovation-ai/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2023/attenuating-innovation-ai/&title=Attenuating Innovation (AI)&caption=
+Attenuating Innovation (AI)
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Attenuating Innovation (AI)&url=https://stratechery.com/2023/attenuating-innovation-ai/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Attenuating Innovation (AI)</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2023-11-01
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2023/attenuating-innovation-ai/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1698847129000-->
+<p><a href="https://stratechery.com/2023/attenuating-innovation-ai/">Attenuating Innovation (AI)</a>
+——</p>
+
+<div>
+  <p>In 2019, a very animated <a href="https://www.youtube.com/watch?v=_15DReQKbt8">Bill Gates explained to Andrew Ross Sorkin</a> why Microsoft lost mobile:</p>
+  <div align="center">
+    <div id="v-eyhrEO1d-1" class="video-player">
+      <video id="v-eyhrEO1d-1-video" width="640" height="360" poster="https://videos.files.wordpress.com/eyhrEO1d/gates-windows-mobile_mp4_hd.original.jpg" controls="true" preload="metadata" dir="ltr" lang="en"><div>
+<img alt="" src="https://videos.files.wordpress.com/eyhrEO1d/gates-windows-mobile_mp4_hd.original.jpg?resize=640%2C360" width="640" height="360" data-recalc-dims="1" />
+        </div></video>
+    </div>
+  </div>
+  <blockquote>
+    <p>There’s no doubt that the antitrust lawsuit was bad for Microsoft. We would have been more focused on creating the phone operating system so that instead of using Android today, you would be using Windows Mobile. If it hadn’t been for the antitrust case, Microsoft would have…</p>
+    <p><strong>You’re convinced?</strong></p>
+    <p>Oh we were so close. I was just too distracted. I screwed that up because of the distraction. We were just three months too late with a release that Motorola would have used on a phone, so yes, it’s a winner-take-all game, that is for sure. Now nobody here has ever heard of Windows Mobile, but oh well. That’s a few hundred billion here or there.</p>
+  </blockquote>
+  <p>This opinion is, to use a technical term favored by analysts, bullshit. Windows Mobile wasn’t three months late relative to Android; Windows Mobile launched as the <em>Pocket PC 2000</em> operating system in, you guessed it, 2000, a full eight years before the first Android device hit the market.</p>
+  <p>The issue with Windows Mobile was, first and foremost, Gates himself: in his view of the world the Windows-based PC was the center of a user’s computing life, and the phone a satellite; small wonder that Windows Mobile looked and operated like a shrunken-down version of Windows: there was a Start button, and Windows Mobile 2003, the first version to have the “Windows Mobile” name, even had the same Sonoma Valley wallpaper as Windows XP:</p>
+  <p><img decoding="async" fetchpriority="high" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2023/11/attentuatinginnovation-2.png?resize=240%2C320&#038;ssl=1" alt="A screenshot of Windows Mobile in 2003" width="240" height="320" class="aligncenter size-full wp-image-11822" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2023/11/attentuatinginnovation-2.png?w=240&amp;ssl=1 240w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/11/attentuatinginnovation-2.png?resize=225%2C300&amp;ssl=1 225w" sizes="(max-width: 240px) 100vw, 240px" data-recalc-dims="1" /></p>
+  <p>If anything, the problem with Windows Mobile is that it was too early: Android, which <a href="https://www.osnews.com/story/25264/did-android-really-look-like-blackberry-before-the-iphone/">originally looked like a Blackberry</a>, had the benefit of copying the iPhone; the iPhone, in stark contrast to Windows Mobile, looked nothing like the Mac, despite sharing the same internals. Instead, Steve Jobs and company started with a new interface paradigm — multi-touch — and developed a user interface that was actually suited to a handheld device. Jobs — appropriately! — <a href="https://youtu.be/VQKMoT-6XSg?si=pYx5weeWg_3cFytS&#038;t=286">called it revolutionary</a>.</p>
+  <p>Fast forward four months from the iPhone introduction, and Jobs and Gates were together on stage for the D5 Conference, and Gates still didn’t get it; when Walt Mossberg asked him about what devices we would be using in five years, Gates still had a Windows device at the center:</p>
+  <div align="center">
+    <div id="v-QEpiGUq2-1" class="video-player">
+      <video id="v-QEpiGUq2-1-video" width="640" height="480" poster="https://videos.files.wordpress.com/QEpiGUq2/gates-d5-1_mp4_hd.original.jpg" controls="true" preload="metadata" dir="ltr" lang="en"><div>
+<img alt="" src="https://videos.files.wordpress.com/QEpiGUq2/gates-d5-1_mp4_hd.original.jpg?resize=640%2C480" width="640" height="480" data-recalc-dims="1" />
+        </div></video>
+    </div>
+  </div>
+  <blockquote>
+    <p>I don’t think you’ll have one device. I think you’ll have a full-screen device that you can carry around and you’ll do dramatically more reading off of that. I believe in the tablet form factor. I think you’ll have voice, I think you’ll have ink, I think you’ll have some way of having a hardware keyboard and some settings for that. And then you’ll have the device that fits in your pocket which the whole notion of how much function should you combine in there, there’s navigation computers, there’s media, there’s phone, technology is letting us put more things in there but then again, you really want to tune it so people what they expect. So there’s quite a bit of experimentation in that pocket-sized device. But I think those are natural form factors. We’ll have the evolution of the portable machine, and the evolution of the phone, will both be extremely high volume, complementary, that is if you own one you’re more likely to own the other.</p>
+  </blockquote>
+  <p>In fact, in five years worldwide smartphone sales would total 700 million units, more than doubling the 348.7 million PCs that shipped that same year; yes, a lot of those smartphone sales went to people who already had PCs, but it was already apparent that for huge swathes of people — including in developed countries — the phone was the only device that you needed.</p>
+  <p>What is even more fascinating about this conversation, though, is the way in which it illustrated how Jobs and Apple were able to invent the future, while Microsoft utterly missed it.</p>
+  <div align="center">
+    <div id="v-8MqlEqHs-1" class="video-player">
+      <video id="v-8MqlEqHs-1-video" width="640" height="480" poster="https://videos.files.wordpress.com/8MqlEqHs/gates-d5-2_mp4_hd.original.jpg" controls="true" preload="metadata" dir="ltr" lang="en"><div>
+<img alt="" src="https://videos.files.wordpress.com/8MqlEqHs/gates-d5-2_mp4_hd.original.jpg?resize=640%2C480" width="640" height="480" data-recalc-dims="1" />
+        </div></video>
+    </div>
+  </div>
+  <p>Mossberg asked:</p>
+  <blockquote>
+    <p>The core functions of the device form factor formerly known as the cellphone, whatever we want to call it — the pocket device — what would you say the core functions are five years out?</p>
+  </blockquote>
+  <p>Gates’ answer was redolent of so many experts trying to predict the future: he had some ideas and some inside knowledge of new technology, but no real vision of what might come next:</p>
+  <blockquote>
+    <p>How quickly all these things that have been somewhat specialized — the navigation device, the digital wallet, the phone, the camera, the video camera — how quickly those all come together, that’s hard to chart out, but eventually you’ll be able to make something that has the capability to do every one of those things. And yet given the small size, you still won’t want to edit your homework or edit a movie on a screen of that size, and so you’ll have something else that lets you do the reading and editing and those things. Now if we could ever get a screen that would just roll out like a scroll, then you might be able to have the device that did everything.</p>
+  </blockquote>
+  <p>After a back-and-forth about e-ink and projection screens, Mossberg asked Jobs the same question, and his answer was profound:</p>
+  <div align="center">
+    <div id="v-5jBPKazG-1" class="video-player">
+      <video id="v-5jBPKazG-1-video" width="640" height="480" poster="https://videos.files.wordpress.com/5jBPKazG/jobs-d5_mp4_hd.original.jpg" controls="true" preload="metadata" dir="ltr" lang="en"><div>
+<img alt="" src="https://videos.files.wordpress.com/5jBPKazG/jobs-d5_mp4_hd.original.jpg?resize=640%2C480" width="640" height="480" data-recalc-dims="1" />
+        </div></video>
+    </div>
+  </div>
+  <blockquote>
+    <p>I don’t know.</p>
+    <p>The reason I don’t know is because I wouldn’t have thought that there would have been maps on it five years ago. But something comes along, gets really popular, people love it, get used to it, you want it on there. People are inventing things constantly and I think the art of it is balancing what’s on there and what’s not — it’s the editing function.</p>
+  </blockquote>
+  <p>That right there is the recipe for genuine innovation:</p>
+  <ul>
+    <li>Embrace uncertainty and the fact one doesn’t know the future.</li>
+    <li>Understand that people are inventing things — and not just technologies, but also use cases — constantly.</li>
+    <li>Remember that the art comes in editing after the invention, not before.</li>
+  </ul>
+  <p>To be like Gates and Microsoft is to do the opposite: to think that you know the future; to assume you know what technologies and applications are coming; to proscribe what people will do or not do ahead of time. It is a mindset that does not accelerate innovation, but rather attenuates it.</p>
+  <h3 id="a-cynical-read-on-ai-alarm">A Cynical Read on AI Alarm</h3>
+  <p>Last week in a <a href="https://stratechery.com/2023/an-interview-with-gregory-allen-about-the-updated-china-chip-ban/">Stratechery Interview with Gregory Allen about the chip ban</a> we discussed why Washington D.C. suddenly had so much urgency about AI. The first reason was of course ChatGPT; it was the second, though, that set off alarm bells in my head. Here’s Allen:</p>
+  <blockquote>
+    <p>The other thing that’s happened that I do think is important just for folks to understand is, that <a href="https://www.safe.ai/press-release">Center for AI Safety letter that came out</a>, that was signed by Sam Altman, that was signed by a bunch of other folks that said, “The risks of AI, including the risks of human extinction, should be viewed in the same light as nuclear weapons and pandemics.” The list of signatories to that letter was quite illustrious and quite long, and it’s really difficult to overstate the impact that that letter had on Washington, D. C. When you have the CEO of all these companies…when you get that kind of roster saying, “When you think of my technology, think of nuclear weapons,” you definitely get Washington’s attention.</p>
+  </blockquote>
+  <p>It turns out you get more than that: on Monday the Biden administration released an <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/">Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence</a>. This Executive Order goes far beyond setting up a commission or study about AI, a field that is obviously still under rapid development; instead it goes straight to proscription.</p>
+  <p>Before I get to the executive order, though, I want to go back to Gates: that video at the top, where he blamed the Department of Justice for Microsoft having missed mobile, was the first thing I thought of during my interview with Allen. The fact of the matter is that Gates is the single most <em>unreliable</em> narrator about why Microsoft missed mobile, precisely because he was so intimately involved in the effort.</p>
+  <p>By the time that interview happened in 2019, it was obvious to everyone that Microsoft had utterly failed in mobile, and that it cost the company billions of dollars along the way. It is exceptionally difficult, particularly for someone as intelligent and successful as Gates, to admit the obvious truth: Microsoft missed mobile because Microsoft approached the space with the entirely wrong paradigm in mind. Or, to be more blunt, Gates got it wrong. It is much easier to blame someone else than to face that failure, particularly when the federal government is sitting right there!</p>
+  <p>In short, it is always necessary to carefully examine the motivations of a self-interested actor, and that certainly applies to the letter Allen referenced.</p>
+  <hr />
+  <p>To rewind just a bit, last January I wrote <a href="https://stratechery.com/2023/ai-and-the-big-five/">AI and the Big Five</a>, which posited that the initial wave of generative AI would largely benefit the dominant tech companies. Apple’s strategy was unclear, but it controlled the devices via which AI would be accessed, and had the potential to benefit even more if AI could be run locally. Amazon had AWS, which held much of the data over which companies might wish to apply AI, but also lacked its own foundational models. Google likely had the greatest capabilities, but also the greatest business model challenges. Meta controlled the apps through which consumers might be most likely to encounter AI generated content. Microsoft, meanwhile, thanks to its partnership with OpenAI, was the best placed to ride the initial wave generated by ChatGPT.</p>
+  <p>Nine months later and the Article holds up well: Apple is releasing ever more powerful devices, but still lacks a clear strategy; Amazon spent <a href="https://stratechery.com/2023/amazon-earnings-the-logistics-virtuous-cycle-amazon-aggregator-ads/">its last earnings call</a> trying to convince investors that AI applications would come to their data, and talking up its partnership with Anthropic, OpenAI’s biggest competitor; Google has demonstrated great technology but has been slow to ship; Meta is pushing ahead with generative AI in its apps; and Microsoft is actually registering <a href="https://stratechery.com/2023/google-earnings-microsoft-earnings-ai-leverage/">meaningful financial impact</a> from its OpenAI partnership.</p>
+  <p>With this as context, it’s interesting to consider who signed that letter Allen referred to, which stated:</p>
+  <blockquote>
+    <p>Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war.</p>
+  </blockquote>
+  <p>There are 30 signatories from OpenAI, including the aforementioned CEO Sam Altman. There are 15 signatories from Anthropic, including CEO Dario Amodei. There are seven signatories from Microsoft, including CTO Kevin Scott. There are 81 signatories from Google, including Google DeepMind CEO Demis Hassabis. There are none from Apple or Amazon, and two low-level employees from Meta.</p>
+  <p>What is striking about this tally is the extent to which the totals and prominence align to the relative companies’ current position in the market. OpenAI has the lead, at least in terms of consumer and developer mindshare, and the company is deriving real revenue from ChatGPT; Anthropic is second, and has signed deals with both Google and Amazon. Google has great products and an internal paralysis around shipping them for business model reasons; urging caution is very much in their interest. Microsoft is in the middle: it is making money from AI, but it doesn’t control its own models; Apple and Amazon are both waiting for the market to come to them.</p>
+  <p>In this ultra-cynical analysis the biggest surprise is probably Meta: the company has its own models, but no one of prominence has signed. These models, though, have been <a href="https://stratechery.com/2023/free-meta-open-sources-another-ai-model-moats-and-open-source-apple-and-meta/">gradually open-sourced</a>: Meta is betting on distributed innovation to generate value that will best be captured via the consumer touchpoints the the company controls.</p>
+  <p>The point is this: if you accept the premise that regulation locks in incumbents, then it sure is notable that the early AI winners seem the most invested in generating alarm in Washington, D.C. about AI. This despite the fact that their concern is apparently not sufficiently high to, you know, stop their work. No, they are the responsible ones, the ones who care enough to call for regulation; all the better if concerns about imagined harms kneecap inevitable competitors.</p>
+  <h3 id="an-executive-order-on-attenuating-innovation">An Executive Order on Attenuating Innovation</h3>
+  <p>There is another quote I thought of this week. It was delivered by Senator Amy Klobuchar <a href="https://twitter.com/amyklobuchar/status/1484566074104426497">in a tweet</a>:</p>
+  <p><a href="https://twitter.com/amyklobuchar/status/1484566074104426497"><img decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2023/11/attentuatinginnovation-1.png?resize=640%2C372&#038;ssl=1" alt="A tweet from Senator Klobuchar celebrating tech regulation" width="640" height="372" class="aligncenter size-full wp-image-11821" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2023/11/attentuatinginnovation-1.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/11/attentuatinginnovation-1.png?resize=300%2C174&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/11/attentuatinginnovation-1.png?resize=1024%2C594&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/11/attentuatinginnovation-1.png?resize=768%2C446&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/11/attentuatinginnovation-1.png?resize=1085%2C630&amp;ssl=1 1085w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></a></p>
+  <p>I wrote at the time <a href="https://stratechery.com/2022/free-netflix-follow-up-the-senate-tech-bill/">in an Update</a>:</p>
+  <blockquote>
+    <p>In 1991 — assuming that the “dawn of the Internet” was the launch of the World Wide Web — the following were the biggest companies by market cap:</p>
+    <ol>
+      <li><strong>$88 billion</strong> — General Electric</li>
+      <li><strong>$80 billion</strong> — Exxon Mobil</li>
+      <li><strong>$62 billion</strong> — Walmart</li>
+      <li><strong>$54 billion</strong> — Coca-Cola</li>
+      <li><strong>$42 billion</strong> — Merck</li>
+    </ol>
+    <p>The only tech company in the top 10 was IBM, with a $31 billion market cap. Imagine proposing a bill then targeting companies with greater than $550 billion market caps, knowing that it is nothing but tech companies!</p>
+    <p>What doesn’t occur to Senator Klobuchar is the possibility that the relationship between the massive increase in wealth, and even greater gain in consumer welfare, produced by tech companies since the “dawn of the Internet” may in fact be related to the fact that there hasn’t been any major regulation (the most important piece of regulation, <a href="https://stratechery.com/topic/regulation/section-230/">Section 230</a>, protected the Internet from lawsuits; this legislation invites them). I’m not saying that the lack of regulation is causal, but I am exceptionally skeptical that we would have had <em>more</em> growth with <em>more</em> regulation.</p>
+    <p>More broadly, tech sure seems like the only area where innovation and building is happening anywhere in the West. This isn’t to deny that the big tech companies aren’t sometimes bad actors, and that platforms in particular do, at least in theory, need regulation. But given the sclerosis present everywhere <em>but</em> tech it sure seems like it would be prudent to be exceptionally skeptical about the prospect of new regulation; I definitely wouldn’t be celebrating it as if it were some sort of overdue accomplishment.</p>
+  </blockquote>
+  <p>Unfortunately this week’s Executive Order takes the exact opposite approach to AI that we took to technology previously. As Steven Sinofsky explains in <a href="https://hardcoresoftware.learningbyshipping.com/p/211-regulating-ai-by-executive-order">this excellent article</a>:</p>
+  <blockquote>
+    <p>This document is the work of aggregating policy inputs from an extended committee of interested constituencies while also navigating the law — literally what is it that can be done to throttle artificial intelligence legally without passing any new laws that might throttle artificial intelligence. There is no clear owner of this document. There is no leading science consensus or direction that we can discern. It is impossible to separate out the document from the process and approach used to “govern” AI innovation. Govern is quoted because it is the word used in the EO. This is so much less a document of what should be done with the potential of technology than it is a document pushing the limits of what can be done legally to slow innovation.</p>
+  </blockquote>
+  <p>Much attention has been focused on the Executive Order’s ultra-specific limits on model sizes and attributes (you can exceed those limits if you are registered and approved, a game best played by large established companies like the list I just detailed); unfortunately that is only the beginning of the issues with this Executive Order, but again, I urge you to read <a href="https://hardcoresoftware.learningbyshipping.com/p/211-regulating-ai-by-executive-order">Sinofsky’s post</a>.</p>
+  <p>What is so disappointing to me is how utterly opposed this executive order is to how innovation actually happens:</p>
+  <ul>
+    <li>The Biden administration is not embracing uncertainty: it is operating from an assumption that AI is dangerous, despite the fact that many of the listed harms, like learning how to build a bomb or synthesize dangerous chemicals or conduct cyber attacks, are already trivially accomplished on today’s Internet. What is completely lacking is anything other than the briefest of hand waves at AI’s potential upside. The government is Bill Gates, imagining what might be possible, when it ought to be Steve Jobs, humble enough to know it cannot predict the future.</li>
+    <li>The Biden administration is operating with a fundamental lack of trust in the capability of humans to invent new things, not just technologies, but also use cases, many of which will create new jobs. It can envision how the spreadsheet might imperil bookkeepers, but it can’t imagine how that same tool might unlock entire new industries.</li>
+    <li>The Biden administration is arrogantly insisting that it ought have a role in dictating the outcomes of an innovation that few if any of its members understand, and almost certainly could not invent. There is, to be sure, a role for oversight and regulation, but that is a blunt instrument best applied after the invention, like an editor.</li>
+  </ul>
+  <p>In short, this Executive Order is a lot like Gates’ approach to mobile: rooted in the past, yet arrogant about an unknowable future; proscriptive instead of adaptive; and, worst of all, trivially influenced by motivated reasoning best understood as some of the most cynical attempts at regulatory capture the tech industry has ever seen.</p>
+  <h3 id="the-sclerotic-shiggoth">The Sclerotic Shiggoth</h3>
+  <p>I fully endorse Sinofsky’s conclusion:</p>
+  <blockquote>
+    <p>This approach to regulation is not about innovation despite all the verbiage proclaiming it to be. This Order is about stifling innovation and turning the next platform over to incumbents in the US and far more likely new companies in other countries that did not see it as a priority to halt innovation before it even happens.</p>
+    <p>I am by no means certain if AI is the next technology platform the likes of which will make the smartphone revolution that has literally benefitted every human on earth look small. I don’t know sitting here today if the AI products just in market less than a year are the next biggest thing ever. They may turn out to be a way stop on the trajectory of innovation. They may turn out to be ingredients that everyone incorporates into existing products. There are so many things that we do not yet know.</p>
+    <p>What we do know is that we are at the very earliest stages. We simply have no in-market products, and that means no in-market problems, upon which to base such concerns of fear and need to “govern” regulation. Alarmists or “existentialists” say they have enough evidence. If that’s the case then then so be it, but then the only way to truly make that case is to embark on the legislative process and use democracy to validate those concerns. I just know that we have plenty of past evidence that every technology has come with its alarmists and concerns and somehow optimism prevailed. Why should the pessimists prevail now?</p>
+  </blockquote>
+  <p>They should not. We should accelerate innovation, not attenuate it. Innovation — technology, broadly speaking — is the only way to grow the pie, and to solve the problems we face that actually exist in any sort of knowable way, from climate change to China, from pandemics to poverty, and from diseases to demographics. To attack the solution is denialism at best, outright sabotage at worst. Indeed, the shoggoth to fear is our societal sclerosis seeking to drag the most exciting new technology in years into an innovation anti-pattern.</p>
+  <div align="center">
+    <figure id="attachment_11831" aria-describedby="caption-attachment-11831" style="width: 1024px" class="wp-caption alignnone">
+<img decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2023/11/attentuatinginnovation-4.png?resize=640%2C640&#038;ssl=1" alt="Photo of a radiant, downscaled city teetering on the brink of an expansive abyss, with a dark, murky quagmire below containing decayed structures reminiscent of historic landmarks. The city is a beacon of the future, with flying cars, green buildings, and residents in futuristic attire. The influence of AI is subtly interwoven, with robots helping citizens and digital screens integrated into the environment. Below, the haunting silhouette of a shoggoth, with its eerie tendrils, endeavors to pull the city into the depths, illustrating the clash between forward-moving evolution and outdated forces." width="640" height="640" class="size-full wp-image-11831" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2023/11/attentuatinginnovation-4.png?w=1024&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/11/attentuatinginnovation-4.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/11/attentuatinginnovation-4.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/11/attentuatinginnovation-4.png?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/11/attentuatinginnovation-4.png?resize=630%2C630&amp;ssl=1 630w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" />      <figcaption id="caption-attachment-11831" class="wp-caption-text">
+Photo generated by Dall-E 3, with the following prompt: “Photo of a radiant, downscaled city teetering on the brink of an expansive abyss, with a dark, murky quagmire below containing decayed structures reminiscent of historic landmarks. The city is a beacon of the future, with flying cars, green buildings, and residents in futuristic attire. The influence of AI is subtly interwoven, with robots helping citizens and digital screens integrated into the environment. Below, the haunting silhouette of a shoggoth, with its eerie tendrils, endeavors to pull the city into the depths, illustrating the clash between forward-moving evolution and outdated forces.”
+      </figcaption>
+    </figure>
+  </div>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2023-11-20</time>
+        <a href="https://nodebe4.github.io/opinion/2023-11-20/OpenAI-s-Misalignment-and-Microsoft-s-Gain/">
+          OpenAI’s Misalignment and Microsoft’s Gain
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-11-07</time>
+        <a href="https://nodebe4.github.io/opinion/2023-11-07/The-OpenAI-Keynote/">
+          The OpenAI Keynote
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-10-18</time>
+        <a href="https://nodebe4.github.io/opinion/2023-10-18/China-Chips-and-Moore-s-Law/">
+          China Chips and Moore’s Law
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-09-28</time>
+        <a href="https://nodebe4.github.io/opinion/2023-09-28/AI,-Hardware,-and-Virtual-Reality/">
+          AI, Hardware, and Virtual Reality
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2023-10-30/%E7%B6%93%E5%85%B8%E9%87%8D%E6%BA%AB-%E6%9D%8E%E8%82%85%E6%8C%91%E6%88%B0%E5%91%A8%E5%AD%9D%E6%AD%A3-%E6%9D%8E%E5%85%8B%E5%BC%B7%E4%B8%80%E5%B0%8A%E4%B9%8B%E4%B8%8B%E7%9A%84%E5%B0%B7%E5%B0%AC/">
+            前一篇：🌟【經典重溫】李肅挑戰周孝正：李克強一尊之下的尷尬
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2023-11-02/%E7%AC%AC%E5%85%AB%E5%B1%8A%E7%BD%91%E7%BB%9C%E7%A4%BE%E4%BC%9A%E5%B9%B4%E4%BC%9A-%E5%8F%8D%E6%96%87%E5%8C%96-%E9%87%8D%E7%BD%AE%E6%8A%80%E6%9C%AF%E7%9A%84%E4%B8%80%E5%88%87-%E4%B8%8D-%E5%8F%AF%E8%83%BD%E6%80%A7/">
+            後一篇：第八届网络社会年会｜“反文化” ？重置技术的一切（不）可能性
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2023-10-30/%E7%B6%93%E5%85%B8%E9%87%8D%E6%BA%AB-%E6%9D%8E%E8%82%85%E6%8C%91%E6%88%B0%E5%91%A8%E5%AD%9D%E6%AD%A3-%E6%9D%8E%E5%85%8B%E5%BC%B7%E4%B8%80%E5%B0%8A%E4%B9%8B%E4%B8%8B%E7%9A%84%E5%B0%B7%E5%B0%AC/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2023-11-02/%E7%AC%AC%E5%85%AB%E5%B1%8A%E7%BD%91%E7%BB%9C%E7%A4%BE%E4%BC%9A%E5%B9%B4%E4%BC%9A-%E5%8F%8D%E6%96%87%E5%8C%96-%E9%87%8D%E7%BD%AE%E6%8A%80%E6%9C%AF%E7%9A%84%E4%B8%80%E5%88%87-%E4%B8%8D-%E5%8F%AF%E8%83%BD%E6%80%A7/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2023-11-07/The-OpenAI-Keynote/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2023-10-18/China-Chips-and-Moore-s-Law/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2023-10-30/%E7%B6%93%E5%85%B8%E9%87%8D%E6%BA%AB-%E6%9D%8E%E8%82%85%E6%8C%91%E6%88%B0%E5%91%A8%E5%AD%9D%E6%AD%A3-%E6%9D%8E%E5%85%8B%E5%BC%B7%E4%B8%80%E5%B0%8A%E4%B9%8B%E4%B8%8B%E7%9A%84%E5%B0%B7%E5%B0%AC/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2023-11-02/%E7%AC%AC%E5%85%AB%E5%B1%8A%E7%BD%91%E7%BB%9C%E7%A4%BE%E4%BC%9A%E5%B9%B4%E4%BC%9A-%E5%8F%8D%E6%96%87%E5%8C%96-%E9%87%8D%E7%BD%AE%E6%8A%80%E6%9C%AF%E7%9A%84%E4%B8%80%E5%88%87-%E4%B8%8D-%E5%8F%AF%E8%83%BD%E6%80%A7/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2023-11-07/The-OpenAI-Keynote/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2023-10-18/China-Chips-and-Moore-s-Law/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

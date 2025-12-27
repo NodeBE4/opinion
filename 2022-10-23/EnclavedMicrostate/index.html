@@ -1,0 +1,2263 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>EnclavedMicrostate在2022-10-17~2022-10-23的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="EnclavedMicrostate在2022-10-17~2022-10-23的言论" />
+    <meta property="twitter:title" content="EnclavedMicrostate在2022-10-17~2022-10-23的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FAskHistorians%2Fcomments%2Fy5ur7a%2Fmarcus_aurelius_was_born_in_rome_to_parents_from%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/AskHistorians/comments/y5ur7a/marcus_aurelius_was_born_in_rome_to_parents_from/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/AskHistorians/comments/y5ur7a/marcus_aurelius_was_born_in_rome_to_parents_from/&text=EnclavedMicrostate在2022-10-17~2022-10-23的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/AskHistorians/comments/y5ur7a/marcus_aurelius_was_born_in_rome_to_parents_from/&title=EnclavedMicrostate在2022-10-17~2022-10-23的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/AskHistorians/comments/y5ur7a/marcus_aurelius_was_born_in_rome_to_parents_from/&title=EnclavedMicrostate在2022-10-17~2022-10-23的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=EnclavedMicrostate在2022-10-17~2022-10-23的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/AskHistorians/comments/y5ur7a/marcus_aurelius_was_born_in_rome_to_parents_from/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/AskHistorians/comments/y5ur7a/marcus_aurelius_was_born_in_rome_to_parents_from/&title=EnclavedMicrostate在2022-10-17~2022-10-23的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=EnclavedMicrostate在2022-10-17~2022-10-23的言论&url=https://old.reddit.com/r/AskHistorians/comments/y5ur7a/marcus_aurelius_was_born_in_rome_to_parents_from/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>EnclavedMicrostate在2022-10-17~2022-10-23的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-10-23
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: EnclavedMicrostate</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/AskHistorians/comments/y5ur7a/marcus_aurelius_was_born_in_rome_to_parents_from/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#883-marcus-aurelius-was-born-in-rome-to-parents-from-roman-families-and-was-emperor-long-before-the-east-became-dominant-in-the-empire-yet-he-wrote-his-private-diaries-in-greek--why-submitted-on-2022-10-17-0707450800" id="markdown-toc-883-marcus-aurelius-was-born-in-rome-to-parents-from-roman-families-and-was-emperor-long-before-the-east-became-dominant-in-the-empire-yet-he-wrote-his-private-diaries-in-greek--why-submitted-on-2022-10-17-0707450800">883: Marcus Aurelius was born in Rome to parents from Roman families and was emperor long before the East became dominant in the Empire, yet he wrote his private diaries in Greek — why?, submitted on 2022-10-17 07:07:45+08:00.</a></li>
+  <li><a href="#884-aischylos-the-persians-is-both-the-oldest-surviving-greek-tragedy-and-the-only-one-to-portray-a-recent-historical-event-is-there-a-significance-to-this-was-there-an-older-tradition-of-drama-about-recent-events-that-died-out-was-it-a-one-off-experiment-or-is-this-just-an-accident-of-survival-submitted-on-2022-10-17-2150570800" id="markdown-toc-884-aischylos-the-persians-is-both-the-oldest-surviving-greek-tragedy-and-the-only-one-to-portray-a-recent-historical-event-is-there-a-significance-to-this-was-there-an-older-tradition-of-drama-about-recent-events-that-died-out-was-it-a-one-off-experiment-or-is-this-just-an-accident-of-survival-submitted-on-2022-10-17-2150570800">884: Aischylos’ The Persians is both the oldest surviving Greek tragedy, and the only one to portray a recent historical event. Is there a significance to this? Was there an older tradition of drama about recent events that died out? Was it a one-off experiment? Or is this just an accident of survival?, submitted on 2022-10-17 21:50:57+08:00.</a></li>
+  <li><a href="#885-what-are-some-good-books-to-learn-about-the-silk-road-of-ancient-china-submitted-on-2022-10-18-0011240800" id="markdown-toc-885-what-are-some-good-books-to-learn-about-the-silk-road-of-ancient-china-submitted-on-2022-10-18-0011240800">885: What are some good books to learn about the Silk Road of ancient China?, submitted on 2022-10-18 00:11:24+08:00.</a></li>
+  <li><a href="#886-why-didnt-chinese-ethnic-minorities-make-independence-wars-when-the-imperial-china-fell-apart-submitted-on-2022-10-18-1248280800" id="markdown-toc-886-why-didnt-chinese-ethnic-minorities-make-independence-wars-when-the-imperial-china-fell-apart-submitted-on-2022-10-18-1248280800">886: Why didn’t Chinese ethnic minorities make independence wars when the Imperial China fell apart?, submitted on 2022-10-18 12:48:28+08:00.</a></li>
+  <li><a href="#887-britain-her-sister-republics-and-russias-western-holdings-in-1795-submitted-on-2022-10-19-0202580800" id="markdown-toc-887-britain-her-sister-republics-and-russias-western-holdings-in-1795-submitted-on-2022-10-19-0202580800">887: Britain, Her Sister Republics, and Russia’s Western Holdings in 1795, submitted on 2022-10-19 02:02:58+08:00.</a></li>
+  <li><a href="#888-this-car-submitted-on-2022-10-19-1843220800" id="markdown-toc-888-this-car-submitted-on-2022-10-19-1843220800">888: This car, submitted on 2022-10-19 18:43:22+08:00.</a></li>
+  <li><a href="#889-the-peoples-wife-submitted-on-2022-10-20-0914390800" id="markdown-toc-889-the-peoples-wife-submitted-on-2022-10-20-0914390800">889: The people’s wife, submitted on 2022-10-20 09:14:39+08:00.</a></li>
+  <li><a href="#890-why-wasnt-the-qing-dynasty-of-china-able-to-successfully-modernize-and-organize-its-military-to-the-extent-imperial-japan-was-submitted-on-2022-10-21-0735260800" id="markdown-toc-890-why-wasnt-the-qing-dynasty-of-china-able-to-successfully-modernize-and-organize-its-military-to-the-extent-imperial-japan-was-submitted-on-2022-10-21-0735260800">890: Why wasn’t the Qing Dynasty of China able to successfully modernize and organize its military to the extent Imperial Japan was?, submitted on 2022-10-21 07:35:26+08:00.</a></li>
+  <li><a href="#891-when-and-how-did-xinjiang-become-part-of-china-submitted-on-2022-10-23-1859560800" id="markdown-toc-891-when-and-how-did-xinjiang-become-part-of-china-submitted-on-2022-10-23-1859560800">891: When and how did Xinjiang become part of China?, submitted on 2022-10-23 18:59:56+08:00.</a></li>
+  <li><a href="#892-hobby-scuffles-week-of-october-24-2022-submitted-on-2022-10-23-2230090800" id="markdown-toc-892-hobby-scuffles-week-of-october-24-2022-submitted-on-2022-10-23-2230090800">892: [Hobby Scuffles] Week of October 24, 2022, submitted on 2022-10-23 22:30:09+08:00.</a></li>
+</ul>
+
+<h3 id="883-marcus-aurelius-was-born-in-rome-to-parents-from-roman-families-and-was-emperor-long-before-the-east-became-dominant-in-the-empire-yet-he-wrote-his-private-diaries-in-greek--why-submitted-on-2022-10-17-0707450800">883: <a href="https://old.reddit.com/r/AskHistorians/comments/y5ur7a/marcus_aurelius_was_born_in_rome_to_parents_from/">Marcus Aurelius was born in Rome to parents from Roman families and was emperor long before the East became dominant in the Empire, yet he wrote his private diaries in Greek — why?</a>, submitted on 2022-10-17 07:07:45+08:00.</h3>
+
+<p>—– <strong>883.1</strong> —–2022-10-17 20:11:28+08:00:</p>
+
+<p>Thank you for your response, however, we have had to remove it. A <a href="https://www.reddit.com/r/AskHistorians/comments/f7fb8o/introducing_the_rules_roundtables_20_the/">core tenet</a> of the subreddit is that it is intended as a space not merely for an answer in and of itself, but <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_answers">one which provides a deeper level of explanation on the topic</a> than is commonly found on other history subs. We expect that contributors are able to <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_write_an_in-depth_answer">place core facts in a broader context</a>, and use the answer to <a href="https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/">demonstrate their breadth of knowledge</a> on the topic at hand.</p>
+
+<p>If you need guidance to better understand what we are looking for in our requirements, <a href="https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/">please consult this Rules Roundtable</a> which discusses how we evaluate answers on the subreddit, or else <a href="https://www.reddit.com/message/compose?to=%2Fr%2FAskHistorians&amp;subject=Inquiry%20About%20Revising%20My%20Response">reach out to us via modmail</a>. Thank you for your understanding.</p>
+
+<h3 id="884-aischylos-the-persians-is-both-the-oldest-surviving-greek-tragedy-and-the-only-one-to-portray-a-recent-historical-event-is-there-a-significance-to-this-was-there-an-older-tradition-of-drama-about-recent-events-that-died-out-was-it-a-one-off-experiment-or-is-this-just-an-accident-of-survival-submitted-on-2022-10-17-2150570800">884: <a href="https://old.reddit.com/r/AskHistorians/comments/y6btt1/aischylos_the_persians_is_both_the_oldest/">Aischylos’ The Persians is both the oldest surviving Greek tragedy, and the only one to portray a recent historical event. Is there a significance to this? Was there an older tradition of drama about recent events that died out? Was it a one-off experiment? Or is this just an accident of survival?</a>, submitted on 2022-10-17 21:50:57+08:00.</h3>
+
+<p>—– <strong>884.1</strong> —–2022-10-18 05:56:36+08:00:</p>
+
+<p>Thank you! A lot of context I’d previously had no idea of.</p>
+
+<p>—– <strong>884.2</strong> —–2022-10-18 05:57:12+08:00:</p>
+
+<p>Thanks! The further reading is much appreciated.</p>
+
+<h3 id="885-what-are-some-good-books-to-learn-about-the-silk-road-of-ancient-china-submitted-on-2022-10-18-0011240800">885: <a href="https://old.reddit.com/r/AskHistorians/comments/y6f4yy/what_are_some_good_books_to_learn_about_the_silk/">What are some good books to learn about the Silk Road of ancient China?</a>, submitted on 2022-10-18 00:11:24+08:00.</h3>
+
+<p>—– <strong>885.1</strong> —–2022-10-18 02:23:54+08:00:</p>
+
+<p>So as ever, it is worth prefacing by noting that there has been a move by some historians of Central Asia quite recently to <a href="https://www.reddit.com/r/AskHistorians/comments/jsb5my/whats_the_state_of_scholarship_on_the_silk_road/">do away with the ‘Silk Road’ concept</a>, amid a more general complication and problematisation of the idea that’s gone on for decades. The reason you are unlikely to find accounts of <em>The</em> Silk Road is that there never actually was one – long-distance movement of goods was never really an intentional process on a specific route, but rather the emergent property of numerous intersecting local trade networks. Scott C. Levi’s book in the linked answer, <em>The Bukharan Crisis</em>, is the most concentrated deconstruction of both the traditional and revised ‘Silk Road’ concepts out there, and my first recommendation.</p>
+
+<p>That said, it’s not as though there were not still phenomena that get pointed to as forming part of the ‘Silk Road’ in practice, and for that, Valerie Hansen’s <em>The Silk Road: A New History</em> (2012) is probably your best bet for an academically solid general overview of trade networks and connections in premodern Eurasia. Frances Wood’s <em>The Silk Road: Two Thousand Years in the Heart of Asia</em> (2002)… <em>exists</em>, but I’ve not read it myself, and Wood also became rather infamous among historians of China for her insistence that Marco Polo never went there, which is generally regarded as pseudohistory these days. Even less recommended – i.e. not at all – is Peter Frankopan’s <em>The Silk Roads</em> (2015), which is half a work of Big History, and half focussed on Iran, ironically at the expense of the traditional ‘Silk Road’ regions of Central Asia. In all honesty, there is surprisingly little else. The ‘Silk Road’ is so taken for granted as an aspect of Eurasian history that there are actually quite few good treatments of it out there.</p>
+
+<p>That said, if you’re interested in the more general political history of the region, then James Millward’s <em>Eurasian Crossroads: A History of Xinjiang</em> (2006) is still the definitive treatment of the history of western Central Asia, while Christopher Beckwith’s <em>Empires of the Silk Road</em> is a good overview of the steppe empires and the polities of southern Central Asia.</p>
+
+<h3 id="886-why-didnt-chinese-ethnic-minorities-make-independence-wars-when-the-imperial-china-fell-apart-submitted-on-2022-10-18-1248280800">886: <a href="https://old.reddit.com/r/AskHistorians/comments/y6x4up/why_didnt_chinese_ethnic_minorities_make/">Why didn’t Chinese ethnic minorities make independence wars when the Imperial China fell apart?</a>, submitted on 2022-10-18 12:48:28+08:00.</h3>
+
+<p>—– <strong>886.1</strong> —–2022-10-19 22:39:04+08:00:</p>
+
+<p>It’s an interesting question, though one where you’ve missed a rather important element. But we can get into that in a bit. It is worth suggesting that ‘Imperial China’ really refers more to a political tradition than a geopolitical entity here, and that the thing that outright fell apart was the Qing Empire, a specific imperial entity that claimed a certain ideological continuity within that political tradition (at least within its Chinese territories), but was not exactly simply a new iteration of previous China-ruling empires. Identity and identity policy within the Qing Empire was a matter of some complexity, over which there is no real firm academic consensus. The view I present here is synthesised from multiple academic sources, but as a synthesis it is firmly my own, and not all will agree with the combination of elements I have attempted to reconcile.</p>
+
+<p>The Qing Empire is perhaps best described as a composite entity, comprising a multitude of political sub-formations, some more self-contained and others more overlapping. The one thing that gave it all some sort of unison and coherence was a shared monarch, and by extension a set – if a variable, inconsistently-applied, and sometimes quite limited one – of central institutions and controls. In a sense, it is very much a reasonable question to ask why the empire did not break into those constituent components the way that, say, the British Empire did.</p>
+
+<p>For that we must provide at least some background. Qing rule was predicated on a tense duality, in which the court navigated between two somewhat opposing philosophies. The first was universalism: the idea that the Qing state, embodied in the person of the emperor, appealed equally to all its constituents, appearing to show favour to each group within its own context while not actually exercising any particular preference for any one set of cultural values or political traditions. The second was what Mark Elliott terms ‘ethnic sovereignty’: the notion that Qing rule was predicated on the continued coherence of a core ethnic group (the Manchus) that served the emperor as a group of loyal functionaries, motivated principally by a common sense of in-group identity. This was not an inherent contradiction, insofar as one could theoretically create that kind of in-group identity without appearing to make that in-group outwardly privileged. Indeed, one could argue that the Qing managed to thread this needle for most of the eighteenth century.</p>
+
+<p>But universalism did not mean that the empire simply divorced itself from the process of identity construction. Indeed, it was in the empire’s interests that it communicated with a limited set of discrete constituencies to whom messages could be tailored on an individual basis, as opposed to a broad continuum of identities with lots of fuzzy liminal spaces. Under the Qianlong Emperor in particular, a number of decisions were taken that can be understood as aimed at disambiguating certain identity groups and enforcing a baseline of common identity and ideology within each. The most-discussed in the literature is the disbanding of most of the Han Banners and reclassifying them as either ‘civilian’ Han or as Manchus (though we ought not to overstate this, as a considerable rump of Han Bannermen remained). But we can also point to the genocide against the Zunghars in 1756-7, who did not self-identify as Mongols but whom the Qing regarded as a Mongol subgroup that nevertheless refused to submit to Qing overlordship; or to the Jinchuan Wars of 1747-9 and 1771-6, which were fought to assert control over Tibetan-speaking tribes who were adherents of either ‘Red Hat’ Buddhist sects or of Bön syncretism, and thus in opposition to the ‘Yellow Hat’ Gelug school that dominated most of Tibet proper and served as the Qing’s official ‘state religion’ in much of Inner Asia. In broad terms, the Qing settled on five principal constituents: Manchus, Han, Tibetans, Mongols, and Muslims (the last of which was a somewhat shifting term that in Qing usage originally only meant <em>Turkic</em> Muslims, before encompassing the broad set of Muslim ethnic groups).</p>
+
+<p>It is here that we also ought to bring up the problem of groups for whom the Qing did <em>not</em> attempt to create a coherent identity package. Indigenous groups of various sorts, primarily concentrated in south China and Taiwan, were never the objects of significant Qing attempts at identify reification, for numerous reasons: they lacked the written historical and genealogical traditions that the major constituent peoples had; there was no single common religion or lingua franca; there was no history of broader statehood outside Yunnan, and even then not a recent one. If early Qing ethnic policy around the Manchus was centred on maintaining a sense of ‘coherence’, then an inverted situation existed with south Chinese and Taiwanese indigenous peoples, who were, in Qing eyes, ‘incoherent’, lacking any of the markers that the empire’s ‘civilised’ constituents used to demonstrate and maintain their own identities. Even so, the Qing didn’t necessarily treat these peoples as being of no interest: while the Qing did acquiesce to Han Chinese land-grabbing in the early 18th century, for most of the Qianlong reign there were attempts to limit Han encroachments on indigenous land, some of which were not maintained (particularly in Yunnan, which saw huge Han migration after about 1750), and some of which were (particularly on Taiwan, where settlement remained heavily constrained until the 1860s).</p>
+
+<p>The eventual collapse of the Qing Empire can be attributed to the breakdown of both sides of the universalist-ethnic duality, due to the same root factor: the growth of the power of Han Chinese interests at the expense of other constituents. When to date this transition from is an open question. As noted, Qing acquiescence to Han migration and colonisation in Yunnan dated back to the 1750s, and led to huge demographic changes at the expense of Muslim and indigenous populations. The Qianlong Emperor’s introduction of the Golden Urn in 1793, one of the most significant measures in Qing control of Tibet, was justified with appeals to Ming precedents rather than to Tibetan or Manchu practice. After the Jiaqing Emperor assumed full power in 1799, Manchu dominance of provincial government eroded in favour of a slim Han majority, and the powers of the Manchu-dominated imperial court were reduced in favour of the now much more Han-centric provincial authorities. Han colonisation further afield became not only tacitly permitted but indeed openly sponsored, beginning with Xinjiang in the late 1820s, then Manchuria from the mid-1850s, Taiwan from the late 1860s, and Inner Mongolia in the 1900s. This period also saw the rise of Han strongmen within the Qing government such as Zeng Guofan and Li Hongzhang, who had been granted immense authority as a result of Qing desperation for strong local leaders during the Taiping War in the 1850s and 60s. But whatever and whenever you point to as the crucial tipping point, by at least the 1880s it would have been an unavoidable conclusion that the Han Chinese had gained the upper hand in the empire’s politics.</p>
+
+<p>Now, ethnic groups do not function as monolithic blocs, and the increasing consolidation of power by Han officials within the existing imperial bureaucracy did not magically appease various Han interest groups like the Constitutionalists and the Republicans, who agitated for further political change. Although both groups were ostensibly purely interested in matters of constitutional politics if we just go by the names, they were also overtly motivated by ethnic politics. Powerful as the Han bureaucrats were, Han Chinese dissident and opposition groups insisted that a complete overhaul – or even overthrow – of the system of imperial government as it then existed was called for, in order that Han control over China would be assured.</p>
+
+<p>But as the prospect of such an event became more seriously considered, especially amid the actual coming of the revolution in 1911, a critical question had to be reckoned with: should a state formed by the Han as a repudiation of Manchu rule nevertheless inherit the former empire’s territorial scope, and if so, how? There were those who argued ‘no’: Zhang Binglin, for instance, argued that the Qing’s Inner Asian territories were holding China back, and that it was in China’s interest that it divest itself of the ‘backward’ peripheries which the Qing had appended to it, and allow them to go off on their own, less important historical trajectories. But in the end, the perspective that won out was that of Liang Qichao, who advocated for the creation a sort of ‘national empire’, with a broader ‘Chinese’ nation encompassing more than just the Han. Sun Yat-Sen, who was in many ways a rival to Liang, nevertheless concurred on that basic premise, and in 1905 promulgated the idea that a future China would consist of ‘Five Races Under One Union’ – the Han, Manchus, Mongols, Tibetans, and Muslims, exactly the groups that the Qianlong Emperor had delineated back in the 18th century. The extent to which this rhetoric actually appealed to non-Han peoples in the Qing Empire was questionable at best, but it was also in some sense not relevant – this rhetoric did not exist to appeal to non-Han peoples as an argument for staying within a post-Qing imperial formation, but rather to justify this continuation for <em>Han</em> audiences.</p>
+
+<p>—– <strong>886.2</strong> —–2022-10-19 22:39:08+08:00:</p>
+
+<p>At this juncture it is also worth noting that ‘Han’ as an ethnic category may be extremely broad, but that doesn’t necessarily diminish its coherence. Rather, one can be Han <em>and also</em> hold a regional sub-identity within that. Indeed, it is worth stressing that a <em>huge</em> portion of the late Qing agitators, Constitutionalist and Republican alike, were Cantonese. Kang Youwei, Liang Qichao, Sun Yat-Sen, Wang Jingwei, and Huang Xing were all from Guangdong, and indeed Sun himself was partly Hakka, a minority group within the Guangdong context. Other notable agitators and revolutionaries were from other regions with non-Mandarin vernaculars: Li Zongren was from Guangxi, Zhang Binglin was from Zhejiang, and so too was Chiang Kai-Shek. If we go even further back, Hakkas made up the bulk of the early leadership of the Taiping Heavenly Kingdom, which nevertheless positioned itself as a broadly pro-Han movement. Speaking minority languages other than the <em>lingua franca</em> of Mandarin was not considered contradictory with the idea of holding to a broader Han identity. Overt separatism by any of these linguistic minorities was not a particular feature of the late Qing, and its popularity in alternate histories and popular discourse seems to emerge from a misunderstanding of the nature of Han ethnic identity, as well as quite possibly a misapprehension about the nature of separatist and localist movements in Hong Kong in recent years.</p>
+
+<p>When the revolution took place in 1911, Tibet declared its independence, but so too did Mongolia. These two had not actually had long histories of ethnic separatism within the Qing, but late Qing policy had led both to perceive that the Qing rhetoric of universalism was increasingly questionable in light of Han consolidations of power. Tibet no longer saw itself as the preceptor to the Qing’s donor, voluntarily offering spiritual authority to the empire, but instead as the subject of a fundamentally ‘Chinese’ state with consolidatory ambitions. Mongolia witnessed large-scale Han colonisation during the New Policy period after 1901, and indeed only Outer Mongolia succeeded in detaching itself from Chinese rule, while the much more colonised Inner Mongolia would fall within the grasp of the ROC. Han colonisation also serves in part to explain why the other two major ethnic constituents failed to put together a successful bid for independence: Manchuria was by this stage firmly majority-Han, and while Xinjiang was still only minority-Han, that Han minority had been entrusted with military power to keep the local Turkic Muslim population – which had intermittently risen in revolt since the early 1820s – ‘in line’. That is not to say that neither region had local independence movements: Japan quite actively tried to sponsor some Manchurian movements, culminating in the establishment of Manchukuo (albeit mainly via Japanese arms rather than local sentiment) in 1931; Xinjiang’s local independence movements came into their own in the 1930s and 1940s. Neither region managed to secure independence on a permanent basis, thanks to the consolidation of political and military power first by the KMT and latterly the CCP during the Second Sino-Japanese War and Chinese Civil War, respectively. While Outer Mongolia (then a Soviet satellite state) remained beyond Chinese ambitions, irredentism would lead the PRC to invade and ‘reconquer’ Tibet in 1951, putting an end to four decades of post-Qing independence.</p>
+
+<p>As for other ethnic groups, there is no single reason why a more concerted move towards independence did not take place, but an argument can be made for the principal factor being their lack of discrete overarching identities, and thus any ability or intent to organise themselves as a group towards achieving some kind of independent statehood. There simply wasn’t a political institution or even just a broad group consciousness uniting, say, the Miao, the Zhuang, or the Solons into a coherent force that might successfully press for freedom from impending Han Chinese rule. That said, study of these minority groups in general is quite sparse, and especially so in relation to the late Qing and revolutionary periods, so we may gain better insight in future. Nevertheless, we are unlikely to find anything that would radically disrupt the idea that ethnic groups outside the ‘big five’ simply lacked the means or the motive (or both) to establish independent state entities.</p>
+
+<p>—– <strong>886.3</strong> —–2022-10-20 15:12:51+08:00:</p>
+
+<p>Yes. I go into more detail <a href="https://www.reddit.com/r/AskHistorians/comments/d8u46f/in_19th_century_yunnan_there_was_a_muslim_led/f1cxdae/">here</a> in the context of the ‘Panthay’ Rebellion of 1856-73.</p>
+
+<p>—– <strong>886.4</strong> —–2022-10-20 16:15:17+08:00:</p>
+
+<p>It is important to understand that ‘Hui’ is not a term with a fixed meaning. Originally, in official parlance it was used to refer to Turkic Muslim communities, latterly to all Muslims, and today it refers specifically to an ethnic group that is broadly Sinophone Muslim. It is also worth noting that ‘Hui’ derives etymologically from ‘Uighur’, and so it is not actually self-evident that the Yunnanese Hui <em>did</em> abandon their identity, as opposed to there being a divergence between how that identity was conceived among Yunnanese Muslims, versus Muslims in northwest China and in Turkestan.</p>
+
+<h3 id="887-britain-her-sister-republics-and-russias-western-holdings-in-1795-submitted-on-2022-10-19-0202580800">887: <a href="https://old.reddit.com/r/imaginarymaps/comments/y7e5g4/britain_her_sister_republics_and_russias_western/">Britain, Her Sister Republics, and Russia’s Western Holdings in 1795</a>, submitted on 2022-10-19 02:02:58+08:00.</h3>
+
+<p>—– <strong>887.1</strong> —–2022-10-19 17:39:50+08:00:</p>
+
+<p>I’d swap in ‘Britannia’ for ‘Britain’ – the ‘ain’ in ‘Britain’ is quite a weak syllable to stress.</p>
+
+<h3 id="888-this-car-submitted-on-2022-10-19-1843220800">888: <a href="https://old.reddit.com/r/ATBGE/comments/y7zblm/this_car/">This car</a>, submitted on 2022-10-19 18:43:22+08:00.</h3>
+
+<p>—– <strong>888.1</strong> —–2022-10-23 15:24:02+08:00:</p>
+
+<p>This is how you can tell someone has failed at aircraft identification: the RAF didn’t start using grey and green camo until September 1941, nearly a year after the Battle of Britain. The tail stripes and roundels are also of late war design.</p>
+
+<h3 id="889-the-peoples-wife-submitted-on-2022-10-20-0914390800">889: <a href="https://old.reddit.com/r/Hololive/comments/y8k5fq/the_peoples_wife/">The people’s wife</a>, submitted on 2022-10-20 09:14:39+08:00.</h3>
+
+<p>—– <strong>889.1</strong> —–2022-10-20 15:24:29+08:00:</p>
+
+<p>See, I was thinking that it was the case that people in their friends group were choosing to get married outside Japan in case VTubers got recognised and doxxed at the wedding. This… makes more <em>and</em> less sense at the same time.</p>
+
+<h3 id="890-why-wasnt-the-qing-dynasty-of-china-able-to-successfully-modernize-and-organize-its-military-to-the-extent-imperial-japan-was-submitted-on-2022-10-21-0735260800">890: <a href="https://old.reddit.com/r/WarCollege/comments/y9dl5p/why_wasnt_the_qing_dynasty_of_china_able_to/">Why wasn’t the Qing Dynasty of China able to successfully modernize and organize its military to the extent Imperial Japan was?</a>, submitted on 2022-10-21 07:35:26+08:00.</h3>
+
+<p>—– <strong>890.1</strong> —–2022-10-21 15:26:31+08:00:</p>
+
+<blockquote>
+  <p>Earlier historians portrayed this as a voluntary action, but the reality revealed by newly translated primary sources is that Ci Xi was forced from power by her enemies, chief among them Grand Tutor Weng.</p>
+</blockquote>
+
+<p>I’m interested in whether you can point me to some secondary literature covering this – it does sort of gel with my understanding but I don’t think I have come across anything concretely covering this period.</p>
+
+<p>—– <strong>890.2</strong> —–2022-10-22 01:16:35+08:00:</p>
+
+<p>That’s uh. Not encouraging. Pamela Crossley’s review utterly savages the book. ‘Cixi was the main reason the army was any good’ sounds like <em>exactly</em> the tendentious line Jung Chang would come up with.</p>
+
+<h3 id="891-when-and-how-did-xinjiang-become-part-of-china-submitted-on-2022-10-23-1859560800">891: <a href="https://old.reddit.com/r/AskHistorians/comments/ybes44/when_and_how_did_xinjiang_become_part_of_china/">When and how did Xinjiang become part of China?</a>, submitted on 2022-10-23 18:59:56+08:00.</h3>
+
+<p>—– <strong>891.1</strong> —–2022-10-24 17:13:34+08:00:</p>
+
+<p>Unfortunately I am somewhat strapped for time, so whereas I would normally write something more substantial, for now I will just link two past answers I’ve written that cover some aspects of your question:</p>
+
+<p>https://www.reddit.com/r/AskHistorians/comments/otls3c/how_was_qing_china_able_to_project_power_over/h6xq7qo/</p>
+
+<p>https://www.reddit.com/r/AskHistorians/comments/cq34w8/how_and_why_did_the_qing_dynasty_conquer_xinjiang/ewu9j90/</p>
+
+<p>If you have any follow-up questions though, do please ask.</p>
+
+<h3 id="892-hobby-scuffles-week-of-october-24-2022-submitted-on-2022-10-23-2230090800">892: <a href="https://old.reddit.com/r/HobbyDrama/comments/ybj5yc/hobby_scuffles_week_of_october_24_2022/">[Hobby Scuffles] Week of October 24, 2022</a>, submitted on 2022-10-23 22:30:09+08:00.</h3>
+
+<p>—– <strong>892.1</strong> —–2022-10-28 03:52:47+08:00:</p>
+
+<p>Looks like the Reddit portion of the Marble Machine X… fandom? Watchdom? Whatever, is <a href="https://www.reddit.com/r/MarbleMachineX/comments/ye5uz9/this_marble_gate_surprised_me/">not universally favourable</a> towards the new iteration’s current progress. Lot of complaining that Martin has become obsessed with absolute theoretical precision over making a working machine with reasonable redundancy and tolerance.</p>
+
+<p>—– <strong>892.2</strong> —–2022-10-28 07:16:13+08:00:</p>
+
+<p>There was, and I continue to be annoyed that I got beaten to writing it! But I’ve been updating on Scuffles for some time:</p>
+
+<p>https://reddit.com/r/HobbyDrama/comments/xzndgb/hobby_scuffles_week_of_october_10_2022/is1i3ls/?context=999</p>
+
+<p>https://reddit.com/r/HobbyDrama/comments/xhiwtl/hobby_scuffles_week_of_september_19_2022/ip68xpv/?context=999</p>
+
+<p>https://reddit.com/r/HobbyDrama/comments/qa0e8y/hobby_scuffles_week_of_october_18_2021/hh0hz2g/?context=999</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-10-26</time>
+        <a href="https://nodebe4.github.io/opinion/2022-10-26/theoryofdoom/">
+          theoryofdoom在2022-10-24~2022-10-30的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-10-23</time>
+        <a href="https://nodebe4.github.io/opinion/2022-10-23/Spinkcat/">
+          Spinkcat在2022-10-17~2022-10-23的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-10-21</time>
+        <a href="https://nodebe4.github.io/opinion/2022-10-21/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-10-17~2022-10-23的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-10-20</time>
+        <a href="https://nodebe4.github.io/opinion/2022-10-20/theoryofdoom/">
+          theoryofdoom在2022-10-17~2022-10-23的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-10-22/%E9%AB%98%E7%AB%AF%E7%96%AB%E8%8B%97%E8%8B%A5%E8%A2%AB%E6%92%A4%E9%8A%B7EUA-%E6%B0%91%E9%80%B2%E9%BB%A8%E6%94%BF%E5%BA%9C%E5%B0%B1%E5%9D%90%E5%AF%A6%E4%BA%86%E8%AC%80%E8%B2%A1%E5%AE%B3%E5%91%BD%E7%9A%84%E6%BB%94%E5%A4%A9%E5%A4%A7%E7%BD%AA/">
+            前一篇：高端疫苗若被撤銷EUA    民進黨政府就坐實了謀財害命的滔天大罪
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-10-23/HeQinglian/">
+            後一篇：Twitter @He Qinglian: 2022-10-17~2022-10-23
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-10-22/%E9%AB%98%E7%AB%AF%E7%96%AB%E8%8B%97%E8%8B%A5%E8%A2%AB%E6%92%A4%E9%8A%B7EUA-%E6%B0%91%E9%80%B2%E9%BB%A8%E6%94%BF%E5%BA%9C%E5%B0%B1%E5%9D%90%E5%AF%A6%E4%BA%86%E8%AC%80%E8%B2%A1%E5%AE%B3%E5%91%BD%E7%9A%84%E6%BB%94%E5%A4%A9%E5%A4%A7%E7%BD%AA/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-10-23/HeQinglian/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-10-23/Spinkcat/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-10-21/ForeignAffairsMag/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-10-22/%E9%AB%98%E7%AB%AF%E7%96%AB%E8%8B%97%E8%8B%A5%E8%A2%AB%E6%92%A4%E9%8A%B7EUA-%E6%B0%91%E9%80%B2%E9%BB%A8%E6%94%BF%E5%BA%9C%E5%B0%B1%E5%9D%90%E5%AF%A6%E4%BA%86%E8%AC%80%E8%B2%A1%E5%AE%B3%E5%91%BD%E7%9A%84%E6%BB%94%E5%A4%A9%E5%A4%A7%E7%BD%AA/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-10-23/HeQinglian/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-10-23/Spinkcat/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-10-21/ForeignAffairsMag/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

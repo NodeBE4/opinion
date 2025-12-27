@@ -1,0 +1,3087 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Enterprise Philosophy and The First Wave of AI – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+Enterprise Philosophy and The First Wave of AI
+——
+" />
+    <meta property="og:description" content="
+Enterprise Philosophy and The First Wave of AI
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Enterprise Philosophy and The First Wave of AI" />
+    <meta property="twitter:title" content="Enterprise Philosophy and The First Wave of AI" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2024%2Fenterprise-philosophy-and-the-first-wave-of-ai%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2024/enterprise-philosophy-and-the-first-wave-of-ai/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2024/enterprise-philosophy-and-the-first-wave-of-ai/&text=Enterprise Philosophy and The First Wave of AI&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2024/enterprise-philosophy-and-the-first-wave-of-ai/&title=Enterprise Philosophy and The First Wave of AI" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2024/enterprise-philosophy-and-the-first-wave-of-ai/&title=Enterprise Philosophy and The First Wave of AI" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Enterprise Philosophy and The First Wave of AI&body=
+Enterprise Philosophy and The First Wave of AI
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2024/enterprise-philosophy-and-the-first-wave-of-ai/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2024/enterprise-philosophy-and-the-first-wave-of-ai/&title=Enterprise Philosophy and The First Wave of AI&caption=
+Enterprise Philosophy and The First Wave of AI
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Enterprise Philosophy and The First Wave of AI&url=https://stratechery.com/2024/enterprise-philosophy-and-the-first-wave-of-ai/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Enterprise Philosophy and The First Wave of AI</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2024-09-24
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2024/enterprise-philosophy-and-the-first-wave-of-ai/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1727178352000-->
+<p><a href="https://stratechery.com/2024/enterprise-philosophy-and-the-first-wave-of-ai/">Enterprise Philosophy and The First Wave of AI</a>
+——</p>
+
+<div>
+  <p>The popular history of technology usually starts with the personal computer, and for good reason: that was the first high tech device that most people ever used. The only thing more impressive than the sheer audacity of “A computer on every desk and in every home” as a corporate goal, is the fact that Microsoft accomplished it, with help from its longtime competitor Apple.</p>
+  <p>In fact, though, the personal computer wave was the 2nd wave of technology, particularly in terms of large enterprises. The first wave — and arguably the more important wave, in terms of economic impact — was the digitization of back-end offices. These were real jobs that existed:</p>
+  <p><img data-recalc-dims="1" fetchpriority="high" decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/enterprise-philosophy-2-2.png?resize=640%2C422&#038;ssl=1" alt="Bank tellers in 1908" width="640" height="422" class="aligncenter size-full wp-image-13592" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/enterprise-philosophy-2-2.png?w=1250&amp;ssl=1 1250w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/enterprise-philosophy-2-2.png?resize=300%2C198&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/enterprise-philosophy-2-2.png?resize=1024%2C676&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/enterprise-philosophy-2-2.png?resize=768%2C507&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/enterprise-philosophy-2-2.png?resize=955%2C630&amp;ssl=1 955w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+  <p>These are bookkeepers and and tellers at a bank in 1908; fast forward three decades and technology had advanced:</p>
+  <p><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/enterprise-philosophy-3.png?resize=640%2C494&#038;ssl=1" alt="Bank bookkeepers in 1936" width="640" height="494" class="aligncenter size-full wp-image-13588" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/enterprise-philosophy-3.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/enterprise-philosophy-3.png?resize=300%2C231&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/enterprise-philosophy-3.png?resize=1024%2C790&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/enterprise-philosophy-3.png?resize=768%2C592&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/enterprise-philosophy-3.png?resize=817%2C630&amp;ssl=1 817w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+  <p>The caption for this 1936 Getty Images photo is fascinating:</p>
+  <blockquote>
+    <p>The new system of maintaining checking accounts in the National Safety Bank and Trust Company, of New York, known as the “Checkmaster,” was so well received that the bank has had to increase its staff and equipment. Instead of maintaining a mininum balance, the depositor is charged a small service charge for each entry on his statement. To date, the bank has attracted over 30,000 active accounts. Bookkeepers are shown as they post entries on “Checkmaster” accounts.</p>
+  </blockquote>
+  <p>It’s striking how the first response to a process change is to come up with a business model predicated on covering new marginal costs; only later do companies tend to consider the larger picture, like how low-marginal-cost checking accounts might lead to more business for the bank overall, the volume of which can be supported thanks to said new technology.</p>
+  <p>Jump ahead another three decades and the back office of a bank looked like this:</p>
+  <p><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/enterprise-philosophy-4.png?resize=640%2C504&#038;ssl=1" alt="Bank accountants in 1970" width="640" height="504" class="aligncenter size-full wp-image-13587" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/enterprise-philosophy-4.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/enterprise-philosophy-4.png?resize=300%2C236&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/enterprise-philosophy-4.png?resize=1024%2C806&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/enterprise-philosophy-4.png?resize=768%2C604&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/enterprise-philosophy-4.png?resize=801%2C630&amp;ssl=1 801w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+  <p>Now the image is color and all of the workers are women, but what is perhaps surprising is that this image is, despite all of the technological change that had happened to date, particularly in terms of typewriters and calculators, not that different from the first two.</p>
+  <p>However, this 1970 picture was one of the last images of its kind: by the time this picture was taken, Bank of America, where this picture was taken, was already well on its way to transitioning all of its accounting and bookkeeping to computers; most of corporate America soon followed, with the two primary applications being accounting and enterprise resource planning. Those were jobs that had been primarily done by hand; now they were done by computers, and the hands were no longer needed.</p>
+  <h3 id="techs-two-philosophies">Tech’s Two Philosophies</h3>
+  <p>In 2018 I described <a href="https://stratechery.com/2018/techs-two-philosophies/">Tech’s Two Philosophies</a> using the four biggest consumer tech companies: Google and Facebook were on one side, and Apple and Microsoft on the other.</p>
+  <blockquote>
+    <p>In Google’s view, computers help you get things done — and save you time — by doing things for you. Duplex was the most impressive example — a computer talking on the phone for you — but the general concept applied to many of Google’s other demonstrations, particularly those predicated on AI: Google Photos will not only sort and tag your photos, but now propose specific edits; Google News will find your news for you, and Maps will find you new restaurants and shops in your neighborhood. And, appropriately enough, the keynote closed with a presentation from Waymo, which will drive you…</p>
+    <p>Zuckerberg, as so often seems to be the case with Facebook, comes across as a somewhat more fervent and definitely more creepy version of Google: not only does Facebook want to do things for you, it wants to do things its chief executive explicitly says would not be done otherwise. The Messianic fervor that seems to have <a href="https://stratechery.com/2017/manifestos-and-monopolies/">overtaken Zuckerberg in the last year</a>, though, simply means that Facebook has adopted a more extreme version of the same philosophy that guides Google: computers doing things for people.</p>
+  </blockquote>
+  <p>Google and Facebook’s approach made sense given their position as Aggregators, which “attract end users by virtue of their inherent usefulness.” Apple and Microsoft, on the other hand, were platforms born in an earlier age of computing:</p>
+  <blockquote>
+    <p>This is technology’s second philosophy, and it is orthogonal to the other: the expectation is not that the computer does your work for you, but rather that the computer enables you to do your work better and more efficiently. And, with this philosophy, comes a different take on responsibility. Pichai, in the opening of Google’s keynote, acknowledged that “we feel a deep sense of responsibility to get this right”, but inherent in that statement is the centrality of Google generally and the direct culpability of its managers. Nadella, on the other hand, insists that responsibility lies with the tech industry collectively, and all of us who seek to leverage it individually…</p>
+    <p>This second philosophy, that computers are an aid to humans, not their replacement, is the older of the two; its greatest proponent — prophet, if you will — was Microsoft’s greatest rival, and his analogy of choice was, coincidentally enough, about transportation as well. Not a car, but a bicycle:</p>
+    <div id="v-lydOPhqW-1" class="video-player">
+      <video id="v-lydOPhqW-1-video" width="640" height="412" poster="https://videos.files.wordpress.com/lydOPhqW/bicycle-of-the-mind-kmup8gsgwb8_mp4_hd.original.jpg" controls="true" preload="metadata" dir="ltr" lang="en"><div>
+<img data-recalc-dims="1" loading="lazy" decoding="async" alt="Steve Jobs &quot;Bicycle of the mind&quot;" src="https://videos.files.wordpress.com/lydOPhqW/bicycle-of-the-mind-kmup8gsgwb8_mp4_hd.original.jpg?resize=640%2C412" width="640" height="412" />
+        </div>        <p>Steve Jobs "Bicycle of the mind"</p>
+</video>
+    </div>
+  </blockquote>
+  <p>You can see the outlines of this philosophy in these companies’ approaches to AI. Google is the most advanced, thanks to the way it saw the obvious application of AI to its Aggregation products, particularly search and advertising. Facebook, now Meta, has made major strides over the last few years as it has overhauled its recommendation algorithms and advertising products to also be probabilistic, both in response to the rise of TikTok in terms of customer attention, and the severing of their deterministic ad product by Apple’s App Tracking Transparency initiative. In both cases their position as Aggregators compelled them to unilaterally go out and give people stuff to look at.</p>
+  <p>Apple, meanwhile, is leaning heavily into Apple Intelligence, but I think there is a reason its latest ad campaign feels a bit weird, above-and-beyond the fact it is advertising a feature that is not yet available to non-beta customers. Apple is associated with jewel-like devices that you hold in your hand and software that is accessible to normal people; asking your phone to <a href="https://www.youtube.com/watch?v=EcHUOKPDMFU">rescue a fish funeral with a slideshow</a> feels at odds with <a href="https://www.youtube.com/watch?v=-aOo3EMqCfw">Steve Jobs making a movie on stage</a> during the launch of iMovie:</p>
+  <div id="v-VoaUOT90-1" class="video-player">
+    <video id="v-VoaUOT90-1-video" width="640" height="512" poster="https://videos.files.wordpress.com/VoaUOT90/steve-jobs-apple-special-event-keynote-1999-part-8-aoo3emqcfw_mp4_hd.original.jpg" controls="true" preload="metadata" dir="ltr" lang="en"><div>
+<img data-recalc-dims="1" loading="lazy" decoding="async" alt="Steve Jobs demos iMovie in 1999" src="https://videos.files.wordpress.com/VoaUOT90/steve-jobs-apple-special-event-keynote-1999-part-8-aoo3emqcfw_mp4_hd.original.jpg?resize=640%2C512" width="640" height="512" />
+      </div>      <p>Steve Jobs demos iMovie in 1999</p>
+</video>
+  </div>
+  <p>That right there is a man riding a bike.</p>
+  <h3 id="microsoft-copilot">Microsoft Copilot</h3>
+  <p>Microsoft is meanwhile — to the extent you count <a href="https://stratechery.com/2024/microsoft-and-inflection-ai-inflection-oddities-the-acquisition-that-isnt/">their increasingly fraught partnership with OpenAI</a> — in the lead technically as well. Their initial product focus for AI, however, is decidedly on the side of being a tool to, as their latest motto states, “empower every person and every organization on the planet to achieve more.”</p>
+  <p>CEO Satya Nadella said in the recent pre-recorded keynote announcing Copilot Wave 2:</p>
+  <div id="v-i6oYpXss-1" class="video-player">
+    <video id="v-i6oYpXss-1-video" width="640" height="360" poster="https://videos.files.wordpress.com/i6oYpXss/copilot-wave2-pages_mp4_hd_1080p.original.jpg" controls="true" preload="metadata" dir="ltr" lang="en"><div>
+<img data-recalc-dims="1" loading="lazy" decoding="async" alt="Copilot Pages" src="https://videos.files.wordpress.com/i6oYpXss/copilot-wave2-pages_mp4_hd_1080p.original.jpg?resize=640%2C360" width="640" height="360" />
+      </div>      <p>Copilot Pages</p>
+</video>
+  </div>
+  <blockquote>
+    <p>You can think of Copilot as the UI for AI. It helps you break down these siloes between your work artifacts, your communications, and your business processes. And we’re just getting started. In fact, with scaling laws, as AI becomes more capable and even agentic, the models themselves become more of a commodity, and all the value gets created by you how steer, ground, fine-tune these models with your business data and workflow. And how it composes with the UI layer of human to AI to human interaction becomes critical.</p>
+    <p>Today we’re announcing Wave 2 of Microsoft 365 Copilot. You’ll see us evolve Copilot in three major ways: first, it’s about bringing the web plus work plus pages together as the new AI system for knowledge work. With Pages we’ll show you how Copilot can take any information from the web or your work and turn it into a multiplayer AI-powered canvas. You can ideate with AI and collaborate with other people. It’s just magical. Just like the PC birthed office productivity tools as we know them today, and the web makes those canvases collaborative, every platform shift has changed work artifacts in fundamental ways, and Pages is the first new artifact for the AI age.</p>
+  </blockquote>
+  <p>Notice that Nadella, like most pop historians (including yours truly!), is reaching out to draw a link to the personal computer, but here the relevant personal computer history casts more shadow than light onto Nadella’s analogy. The initial wave of personal computers were little more than toys, including the Commodore 64 and TRS-80, sold in your local Radio Shack; the Apple I, released in 1976, was initially sold as a bare circuit board:</p>
+  <p><img data-recalc-dims="1" loading="lazy" decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/enterprise-philosophy-1.png?resize=640%2C828&#038;ssl=1" alt="The Apple I" width="640" height="828" class="aligncenter size-full wp-image-13582" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/enterprise-philosophy-1.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/enterprise-philosophy-1.png?resize=232%2C300&amp;ssl=1 232w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/enterprise-philosophy-1.png?resize=791%2C1024&amp;ssl=1 791w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/enterprise-philosophy-1.png?resize=768%2C994&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/enterprise-philosophy-1.png?resize=1187%2C1536&amp;ssl=1 1187w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/enterprise-philosophy-1.png?resize=487%2C630&amp;ssl=1 487w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+  <p>A year later Apple released the Apple II; now there was a case, but you needed to bring your own TV:</p>
+  <p><img data-recalc-dims="1" loading="lazy" decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/enterprise-philosophy-5.png?resize=640%2C429&#038;ssl=1" alt="The Apple II" width="640" height="429" class="aligncenter size-full wp-image-13586" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/enterprise-philosophy-5.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/enterprise-philosophy-5.png?resize=300%2C201&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/enterprise-philosophy-5.png?resize=1024%2C686&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/enterprise-philosophy-5.png?resize=768%2C514&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/enterprise-philosophy-5.png?resize=941%2C630&amp;ssl=1 941w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+  <p>Two years later and Apple II had a killer app that would presage the movement of personal computers into the workplace: VisiCalc, the first spreadsheet.</p>
+  <p><img data-recalc-dims="1" loading="lazy" decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/enterprise-philosophy-6.png?resize=560%2C384&#038;ssl=1" alt="Visicalc, the first spreadsheet" width="560" height="384" class="aligncenter size-full wp-image-13585" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/enterprise-philosophy-6.png?w=560&amp;ssl=1 560w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/enterprise-philosophy-6.png?resize=300%2C206&amp;ssl=1 300w" sizes="(max-width: 560px) 100vw, 560px" /></p>
+  <p>VisiCalc’s utility for business was obvious — in fact, it was conceived of by Dan Bricklin while watching a lecture at Harvard Business School. That utility, though, was not about running business critical software like accounting or ERP systems; rather, an employee with an Apple II and VisiCalc could take the initiative to model their business and understand how things worked at a view grounded in a level of calculation that was both too much for one person, yet not sufficient to hire an army of backroom employees, or, increasingly at that point, reserve time on the mainframe.</p>
+  <p>Notice, though, how this aligned with the Apple and Microsoft philosophy of building tools: tools are meant to be used, but they take volition to maximize their utility. This, I think, is a challenge when it comes to Copilot usage: even before Copilot came out employees with initiative were figuring out how to use other AI tools to do their work more effectively. The idea of Copilot is that you can have an even better AI tool — thanks to the fact it has integrated the information in the “Microsoft Graph” — and make it widely available to your workforce to make that workforce more productive.</p>
+  <p>To put it another way, the real challenge for Copilot is that it is a change management problem: it’s one thing to charge $30/month on a per-seat basis to make an amazing new way to work available to all of your employees; it’s another thing entirely — a much more difficult thing — to get all of your employees to change the way they work in order to benefit from your investment, and to make Copilot Pages the “new artifact for the AI age”, in line with the spreadsheet in the personal computer age.</p>
+  <h3 id="clippy-and-copilot">Clippy and Copilot</h3>
+  <p>Salesforce CEO Marc Benioff was considerably less generous towards Copilot in last week’s <a href="https://www.youtube.com/watch?v=_Cs-xTQeGfo">Dreamforce keynote</a>. After framing machine learning as “Wave 1” of AI, Benioff said that Copilots were Wave 2, and from Microsoft’s perspective it went downhill from there:</p>
+  <div id="v-xK5y1Fw4-1" class="video-player">
+    <video id="v-xK5y1Fw4-1-video" width="640" height="360" poster="https://videos.files.wordpress.com/xK5y1Fw4/benioff-1_mov_hd.original.jpg" controls="true" preload="metadata" dir="ltr" lang="en"><div>
+<img data-recalc-dims="1" loading="lazy" decoding="async" alt="Benioff Clippy" src="https://videos.files.wordpress.com/xK5y1Fw4/benioff-1_mov_hd.original.jpg?resize=640%2C360" width="640" height="360" />
+      </div>      <p>Benioff Clippy</p>
+</video>
+  </div>
+  <blockquote>
+    <p>We moved into this Copilot world, but the Copilot world has been kind of a hit-and-miss world. The Copilot world where customers have said to us “Hey, I got these Copilots but they’re not exactly performing as we want them to. We don’t see how that Copilot world is going to get us to the real vision of artificial intelligence of augmentation of productivity, of better business results that we’ve been looking for. We just don’t see Copilot as that key step for our future.” In some ways, they kind of looked at Copilot as the new Microsoft Clippy, and I get that.</p>
+  </blockquote>
+  <p>The Clippy comparison was mean but not entirely unfair, particularly in the context of users who don’t know enough to operate with volition. Former Microsoft executive Steven Sinofsky explained in <a href="https://hardcoresoftware.learningbyshipping.com/p/042-clippy-the-fcking-clown">Hard Core Software</a>:</p>
+  <blockquote>
+    <p>Why was Microsoft going through all this and making these risky, or even edgy, products? Many seemed puzzled by this at the time. In order to understand that today, one must recognize that using a PC in the early 1990s (and before) was not just difficult, but it was also confusing, frustrating, inscrutable, and by and large entirely inaccessible to most everyone unless you had to learn how to use one for work.</p>
+  </blockquote>
+  <p>Clippy was to be a replacement for the “Office guru” people consulted when they wanted to do things in Microsoft Office that they knew were possible, but were impossible to discover; Sinofsky admits that a critical error was making Clippy too helpful with simple tasks, like observing “Looks like you’re trying to write a letter” when you typed “Dear John” and hit return. Sinofsky reflected:</p>
+  <blockquote>
+    <p>The journey of Clippy (in spite of our best efforts that was what the feature came to be called) was one that parallels the PC for me in so many ways. It was not simply a failed feature, or that back-handed compliment of a feature that was simply too early like so many Microsoft features. Rather Clippy represented a final attempt at trying to fix the desktop metaphor for typical or normal people so they could use a computer.</p>
+    <p>What everyone came to realize was that the PC was a generational change and that for those growing up with a PC, it was just another arbitrary and random device in life that one just used. As we would learn, kids didn’t need different software. They just needed access to a PC. Once they had a PC they would make cooler, faster, and more fun documents with Office than we were. It was kids that loved WordArt and the new graphics in Word and PowerPoint, and they used them easily and more frequently than Boomers or Gen X trying to map typewriters to what a computer could do.</p>
+    <p>It was not the complexity that was slowing people down, but the real concern that the wrong thing could undo hours of work. Kids did not have that fear (yet). We needed to worry less about dumbing the software down and more about how more complex things could get done in a way that had far less risk.</p>
+  </blockquote>
+  <p>This is a critical insight when it comes to AI, Copilot, and the concept of change management: a small subset of Gen Xers and Boomers may have invented the personal computer, but for the rest of their cohort it was something they only used if they had to (resentfully), and only then the narrow set of functionality that was required to do their job. It was the later generations that grew up with the personal computer, and hardly give inserting a table or graphic into a document a second thought (if, in fact, they even know what a “document” is). For a millenial using a personal computer doesn’t take volition; it’s just a fact of life.</p>
+  <p>Again, though, computing didn’t start with the personal computer, but rather with the replacement of the back office. Or, to put it in rather more dire terms, the initial value in computing wasn’t created by helping Boomers do their job more efficiently, but rather by replacing entire swathes of them completely.</p>
+  <h3 id="agents-and-o1">Agents and o1</h3>
+  <p>Benioff implicitly agrees; the Copilot Clippy insult was a preamble to a discussion of agents:</p>
+  <div id="v-BnLxMGnH-1" class="video-player">
+    <video id="v-BnLxMGnH-1-video" width="640" height="360" poster="https://videos.files.wordpress.com/BnLxMGnH/benioff-2_mov_hd.original.jpg" controls="true" preload="metadata" dir="ltr" lang="en"><div>
+<img data-recalc-dims="1" loading="lazy" decoding="async" alt="Benioff-agents" src="https://videos.files.wordpress.com/BnLxMGnH/benioff-2_mov_hd.original.jpg?resize=640%2C360" width="640" height="360" />
+      </div>      <p>Benioff-agents</p>
+</video>
+  </div>
+  <blockquote>
+    <p>But it was pushing us, and they were trying to say, what is the next step? And we are now really at that moment. That is why this show is our most important Dreamforce ever. There’s no question this is the most exciting Dreamforce and the most important Dreamforce. What you’re going to see at this show is technology like you have never seen before…The first time you build and deploy your first autonomous agent for your company that is going to help you to be more productive, to augment your employees, and to get these better business results, you’re going to remember that like the first time it was in y our Waymo. This is the 3rd wave of AI. It’s agents…</p>
+  </blockquote>
+  <p>Agents aren’t copilots; they are replacements. They do work in place of humans — think call centers and the like, to start — and they have all of the advantages of software: always available, and scalable up-and-down with demand.</p>
+  <div id="v-Gs7bcY3B-1" class="video-player">
+    <video id="v-Gs7bcY3B-1-video" width="640" height="360" poster="https://videos.files.wordpress.com/Gs7bcY3B/benioff-workforces_mov_hd.original.jpg" controls="true" preload="metadata" dir="ltr" lang="en"><div>
+<img data-recalc-dims="1" loading="lazy" decoding="async" alt="Benioff Workforces" src="https://videos.files.wordpress.com/Gs7bcY3B/benioff-workforces_mov_hd.original.jpg?resize=640%2C360" width="640" height="360" />
+      </div>      <p>Benioff Workforces</p>
+</video>
+  </div>
+  <blockquote>
+    <p>We know that workforces are overwhelmed. They’re doing these low-value tasks. They’ve got kind of a whole different thing post-pandemic. Productivity is at a different place. Capacity is at a different place…we do see that workforces are different, and we realize that 41% of the time seems to be wasted on low value and repetitive tasks, and we want to address that. The customers are expecting more: zero hold times, to be more personal and empathetic, to work with an expert all the time, to instantly schedule things. That’s our vision, our dream for these agents…</p>
+    <p>What if these workforces had no limits at all? Wow. That’s kind of a strange thought, but a big one. You start to put all of these things together, and you go, we can kind of build another kind of company. We can build a different kind of technology platforms. We can take the Salesforce technology platform that we already have, and that all of you have invested so much into, the Salesforce Platform, and we can deliver the next capability. The next capability that’s going to make our companies more productive. To make our employees more augmented. And just to deliver much better business results. That is what Agentforce is.</p>
+  </blockquote>
+  <p>This Article isn’t about the viability of Agentforce; I’m somewhat skeptical, at least in the short term, for reasons I will get to in a moment. Rather, the key part is the last few sentences: Benioff isn’t talking about making <em>employees</em> more productive, but rather <em>companies</em>; the verb that applies to employees is “augmented”, which sounds much nicer than “replaced”; the ultimate goal is stated as well: business results. That right there is tech’s third philosophy: improving the bottom line for large enterprises.</p>
+  <p>Notice how well this framing applies to the mainframe wave of computing: accounting and ERP software made companies more productive and drove positive business results; the employees that were “augmented” were managers who got far more accurate reports much more quickly, while the employees who used to do that work were replaced. Critically, the decision about whether or not make this change did not depend on rank-and-file employees changing how they worked, but for executives to decide to take the plunge.</p>
+  <h3 id="the-consumerization-of-it">The Consumerization of IT</h3>
+  <p>When Benioff founded Salesforce in 1999, he came up with a counterintuitive logo:</p>
+  <p><img data-recalc-dims="1" loading="lazy" decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/enterprise-philosophy-7.png?resize=640%2C502&#038;ssl=1" alt="Salesforce &quot;No Software&quot; logo" width="640" height="502" class="aligncenter size-full wp-image-13584" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/enterprise-philosophy-7.png?w=1020&amp;ssl=1 1020w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/enterprise-philosophy-7.png?resize=300%2C235&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/enterprise-philosophy-7.png?resize=768%2C602&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/enterprise-philosophy-7.png?resize=803%2C630&amp;ssl=1 803w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+  <p>Of course Salesforce was software; what it was not was SOFTWARE, like that sold by his previous employer Oracle, which at that time meant painful installation and migrations that could take years, and even then would often fail. Salesforce was different: it was a cloud application that you never needed to install or update; you could simply subscribe.</p>
+  <p>Cloud-based software-as-a-service companies are the norm now, thanks in part to Benioff’s vision. And, just as Salesforce started out primarily serving — you guessed it! — sales forces, SaaS applications can focus on individual segments of a company. Indeed, one of the big trends over the last decade were SaaS applications that grew, at least in the early days, through word-of-mouth and trialing by individuals or team leaders; after all, all you needed to get started was a credit card — and if there was a freemium model, not even that!</p>
+  <p>This trend was part of a larger one, the so-called “consumerization of IT”. Douglas Neal and John Taylor, who first coined the term in 2001, wrote in a <a href="https://web.archive.org/web/20140123090956/http://lef.csc.com/assets/192/download">2004 Position Paper</a>:</p>
+  <blockquote>
+    <p>Companies must treat users as consumers, encouraging employee responsibility, ownership and trust by providing choice, simplicity and service. The parent/child attitude that many IT departments have traditionally taken toward end users is now obsolete.</p>
+  </blockquote>
+  <p>This is actually another way of saying what Sinofsky did: enterprise IT customers, i.e. company employees, no longer needed to be taught how to use a computer; they grew up with them, and expected computers to work the same way their consumer devices did. Moreover, the volume of consumer devices meant that innovation would now come from that side of technology, and the best way for enterprises to keep up would be to ideally adopt consumer infrastructure, and barring that, seek to be similarly easy-to-use.</p>
+  <p>It’s possible this is how AI plays out; it is what has happened to date, as large models like those built by OpenAI or Anthropic or Google or Meta are trained on publicly available data, and then are available to be fine-tuned for enterprise-specific use cases. The limitation in this approach, though, is the human one: you need employees who have the volition to use AI with the inherent problems introduced by this approach, including bad data, hallucinations, security concerns, etc. This is manageable as long as a motivated human is in the loop; what seems unlikely to me is any sort of autonomous agent actually operating in a way that makes a company more efficient without an extensive amount of oversight that ends up making the entire endeavor more expensive.</p>
+  <p>Moreover, in the case of Agentforce specifically, and other agent initiatives more generally, I am unconvinced as to how viable and scalable the infrastructure necessary to manage auto-regressive large language models will end up being. I got into some of the challenges in <a href="https://stratechery.com/2024/openais-new-model-how-o1-works-scaling-inference/">this Update</a>:</p>
+  <blockquote>
+    <p>The big challenge for traditional LLMs is that they are path-dependent; while they can consider the puzzle as a whole, as soon as they commit to a particular guess they are locked in, and doomed to failure. This is a fundamental weakness of what are known as “auto-regressive large language models”, which to date, is all of them.</p>
+    <p>To grossly simplify, a large language model generates a token (usually a word, or part of a word) based on all of the tokens that preceded the token being generated; the specific token is the most statistically likely next possible token derived from the model’s training (this also gets complicated, as the “temperature” of the output determines what level of randomness goes into choosing from the best possible options; a low temperature chooses the most likely next token, while a higher temperature is more “creative”). The key thing to understand, though, is that this is a serial process: once a token is generated it influences what token is generated next.</p>
+    <p>The problem with this approach is that it is possible that, in the context of something like a crossword puzzle, the token that is generated is wrong; if that token is wrong, it makes it more likely that the next token is wrong too. And, of course, even if the first token is right, the second token could be wrong anyways, influencing the third token, etc. Ever larger models can reduce the likelihood that a particular token is wrong, but the possibility always exists, which is to say that auto-regressive LLMs inevitably trend towards not just errors but compounding ones.</p>
+    <p>Note that these problems exist even with specialized prompting like insisting that the LLM “go step-by-step” or “break this problem down into component pieces”; they are still serial output machines that, once they get something wrong, are doomed to deliver an incorrect answer. At the same time, this is also fine for a lot of applications, like writing; where the problem manifests itself is with anything requiring logic or iterative reasoning. In this case, a sufficiently complex crossword puzzle suffices.</p>
+  </blockquote>
+  <p>That Update was about OpenAI’s new <code class="language-plaintext highlighter-rouge">o1</code> model, which I think is a step change in terms of the viability of agents; the example I used in that Update was solving a crossword puzzle, which can’t be done in one-shot — but can be done by <code class="language-plaintext highlighter-rouge">o1</code>.</p>
+  <blockquote>
+    <p><code class="language-plaintext highlighter-rouge">o1</code> is explicitly trained on how to solve problems, and second, <code class="language-plaintext highlighter-rouge">o1</code> is designed to generate multiple problem-solving streams at inference time, choose the best one, and iterate through each step in the process when it realizes it made a mistake. That’s why it got the crossword puzzle right — it just took a really long time.</p>
+  </blockquote>
+  <p><code class="language-plaintext highlighter-rouge">o1</code> introduces a new vector of potential improvement: while auto-regressive LLMs scaled in quality with training set size (and thus the amount of compute necessary), <code class="language-plaintext highlighter-rouge">o1</code> scales inference. This image is from <a href="https://openai.com/index/learning-to-reason-with-llms/">OpenAI’s announcement page</a>:</p>
+  <p><a href="https://openai.com/index/learning-to-reason-with-llms/"><img data-recalc-dims="1" loading="lazy" decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/o1-2.png?resize=640%2C360&#038;ssl=1" alt="o1 scales with both training and inference compute" width="640" height="360" class="aligncenter size-full wp-image-13494" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/o1-2.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/o1-2.png?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/o1-2.png?resize=1024%2C575&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/o1-2.png?resize=768%2C431&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/o1-2.png?resize=1122%2C630&amp;ssl=1 1122w" sizes="(max-width: 640px) 100vw, 640px" /></a></p>
+  <p>This second image is a potential problem in a Copilot paradigm: sure, a smarter model potentially makes your employees more productive, but those increases in productivity have to be balanced by both greater inference costs and more time spent waiting for the model (<code class="language-plaintext highlighter-rouge">o1</code> is significantly slower than a model like <code class="language-plaintext highlighter-rouge">4o</code>). However, the agent equation, where you are talking about replacing a worker, is dramatically different: there the cost umbrella is absolutely massive, because even the most expensive model is a lot cheaper, above-and-beyond the other benefits like always being available and being scalable in number.</p>
+  <p>More importantly, scaling compute is exactly what the technology industry is good at. The one common thread from Wave 1 of computing through the PC through SaaS and consumerization of IT, is that problems gated by compute are solved not via premature optimizations but via the progression of processing power. The key challenge is knowing what to scale, and I believe OpenAI has demonstrated the architecture that will benefit from exactly that.</p>
+  <h3 id="data-and-palantir">Data and Palantir</h3>
+  <p>That leaves the data piece, and while Benioff bragged about all of the data that Salesforce had, it doesn’t have everything, and what it does have is scattered across the phalanx of applications and storage layers that make up the Salesforce Platform. Indeed, Microsoft faces the same problem: while their Copilot vision includes APIs for 3rd-party “agents” — in this case, data from other companies — the reality is that an effective Agent — i.e. a worker replacement — needs access to everything in a way that it can reason over. The ability of large language models to handle unstructured data is revolutionary, but the fact remains that better data still results in better output; explicit step-by-step reasoning data, for example, is a big part of how <code class="language-plaintext highlighter-rouge">o1</code> works.</p>
+  <p>To that end, the company I am most intrigued by, for what I think will be the first wave of AI, is Palantir. I didn’t fully understand the company until <a href="https://stratechery.com/2023/an-interview-with-palantir-cto-shyam-sankar-and-head-of-global-commercial-ted-mabrey/">this 2023 interview with CTO Shyam Sankar and Head of Global Commercial Ted Mabrey</a>; I suggest reading or listening to the whole thing, but I wanted to call out this exchange in particular:</p>
+  <blockquote>
+    <p><strong>Was there an aha moment where you have this concept — you use this phrase now at the beginning of all your financial reports, which is that you’re the operating system for enterprises. Now, obviously this is still the government era, but it’s interesting the S-1 uses that line, but it’s further down, it’s not the lead thing. Was that something that emerged later or was this that, “No, we have to be the interface for everything” idea in place from the beginning?</strong></p>
+    <p><strong>Shyam Sankar</strong>: I think the critical part of it was really realizing that we had built the original product presupposing that our customers had data integrated, that we could focus on the analytics that came subsequent to having your data integrated. I feel like that founding trauma was realizing that actually everyone claims that their data is integrated, but it is a complete mess and that actually the much more interesting and valuable part of our business was developing technologies that allowed us to productize data integration, instead of having it be like a five-year never ending consulting project, so that we could do the thing we actually started our business to do.</p>
+  </blockquote>
+  <p>That integration looks like this illustration from the company’s <a href="https://www.palantir.com/platforms/foundry/">webpage for Foundry</a>, what they call “The Ontology-Powered Operating System for the Modern Enterprise”:</p>
+  <p><a href="https://www.palantir.com/platforms/foundry/"><img data-recalc-dims="1" loading="lazy" decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/enterprise-philosophy-8.png?resize=640%2C444&#038;ssl=1" alt="Palantir&#039;s &quot;Foundry&quot; enterprise operating system" width="640" height="444" class="aligncenter size-full wp-image-13583" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/enterprise-philosophy-8.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/enterprise-philosophy-8.png?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/enterprise-philosophy-8.png?resize=1024%2C710&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/enterprise-philosophy-8.png?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/09/enterprise-philosophy-8.png?resize=908%2C630&amp;ssl=1 908w" sizes="(max-width: 640px) 100vw, 640px" /></a></p>
+  <p>What is notable about this illustration is just how deeply Palantir needs to get into an enterprise’s operations to achieve its goals. This isn’t a consumery-SaaS application that your team leader puts on their credit card; it is SOFTWARE of the sort that Salesforce sought to move beyond.</p>
+  <p>If, however, you believe that AI is not just the next step in computing, but rather an entirely new paradigm, then it makes sense that enterprise solutions may be back to the future. We are already seeing that that is the case in terms of user behavior: the relationship of most employees to AI is like the relationship of most corporate employees to PCs in the 1980s; sure, they’ll use it if they have to, but they don’t want to transform how they work. That will fall on the next generation.</p>
+  <p>Executives, however, want the benefit of AI now, and I think that benefit will, like the first wave of computing, come from replacing humans, not making them more efficient. And that, by extension, will mean top-down years-long initiatives that are justified by the massive business results that will follow. That also means that go-to-market motions and business models will change: instead of reactive sales from organic growth, successful AI companies will need to go in from the top. And, instead of per-seat licenses, we may end up with something more akin to “seat-replacement” licenses (Salesforce, notably, will charge $2 per call completed by one of its agents). Services and integration teams will also make a comeback. It’s notable that this has been a consistent criticism of Palantir’s model, but I think that comes from a viewpoint colored by SaaS; the idea of years-long engagements would be much more familiar to tech executives and investors from forty years ago.</p>
+  <h3 id="enterprise-philosophy">Enterprise Philosophy</h3>
+  <p>Most historically-driven AI analogies usually come from the Internet, and understandably so: that was both an epochal change and also much fresher in our collective memories. My core contention here, however, is that AI truly is a new way of computing, and that means the better analogies are to computing itself. Transformers are the transistor, and mainframes are today’s models. The GUI is, arguably, still TBD.</p>
+  <p>To the extent that is right, then, the biggest opportunity is in top-down enterprise implementations. The enterprise philosophy is older than the two consumer philosophies I wrote about previously: its motivation is not the user, but the buyer, who wants to increase revenue and cut costs, and will be brutally rational about how to achieve that (including running expected value calculations on agents making mistakes). That will be the only way to justify the compute necessary to scale out agentic capabilities, and to do the years of work necessary to get data in a state where humans can be replaced. The bottom line benefits — the essence of enterprise philosophy — will compel just that.</p>
+  <p>And, by extension, we may be waiting longer than we expect for AI to take over the consumer space, at least at the scale of something like the smartphone or social media. That is good news for the <a href="https://stratechery.com/2024/mkbhds-for-everything/">MKBHDs of everything</a> — the users with volition — but for everyone else the biggest payoff will probably be in areas like <a href="https://stratechery.com/2022/dall-e-the-metaverse-and-zero-marginal-content/">entertainment and gaming</a>. True consumerization of AI will be left to the next generation who will have never known a world without it.</p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2024-10-29</time>
+        <a href="https://nodebe4.github.io/opinion/2024-10-29/Meta-s-AI-Abundance/">
+          Meta’s AI Abundance
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-10-15</time>
+        <a href="https://nodebe4.github.io/opinion/2024-10-15/Elon-Dreams-and-Bitter-Lessons/">
+          Elon Dreams and Bitter Lessons
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-09-10</time>
+        <a href="https://nodebe4.github.io/opinion/2024-09-10/Boomer-Apple/">
+          Boomer Apple
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-09-03</time>
+        <a href="https://nodebe4.github.io/opinion/2024-09-03/Intel-Honesty/">
+          Intel Honesty
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2024-09-24/%E4%B8%8D%E6%98%8E%E7%99%BD%E7%9B%B4%E6%92%AD-%E4%BB%87%E6%97%A5-%E4%BA%B2%E4%BF%84-%E8%BF%99%E4%B8%AA%E6%97%B6%E4%BB%A3%E5%81%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88/">
+            前一篇：【不明白直播】仇日、亲俄：这个时代做中国人意味着什么？
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2024-09-28/EP-115-%E4%B8%AD%E5%9B%BD%E9%AB%98%E6%A0%A1%E5%B0%B1%E4%B8%9A%E6%95%B0%E6%8D%AE%E5%A6%82%E4%BD%95%E9%80%A0%E5%81%87/">
+            後一篇：EP-115 中国高校就业数据如何造假？
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2024-09-24/%E4%B8%8D%E6%98%8E%E7%99%BD%E7%9B%B4%E6%92%AD-%E4%BB%87%E6%97%A5-%E4%BA%B2%E4%BF%84-%E8%BF%99%E4%B8%AA%E6%97%B6%E4%BB%A3%E5%81%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2024-09-28/EP-115-%E4%B8%AD%E5%9B%BD%E9%AB%98%E6%A0%A1%E5%B0%B1%E4%B8%9A%E6%95%B0%E6%8D%AE%E5%A6%82%E4%BD%95%E9%80%A0%E5%81%87/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2024-10-15/Elon-Dreams-and-Bitter-Lessons/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2024-09-10/Boomer-Apple/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2024-09-24/%E4%B8%8D%E6%98%8E%E7%99%BD%E7%9B%B4%E6%92%AD-%E4%BB%87%E6%97%A5-%E4%BA%B2%E4%BF%84-%E8%BF%99%E4%B8%AA%E6%97%B6%E4%BB%A3%E5%81%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2024-09-28/EP-115-%E4%B8%AD%E5%9B%BD%E9%AB%98%E6%A0%A1%E5%B0%B1%E4%B8%9A%E6%95%B0%E6%8D%AE%E5%A6%82%E4%BD%95%E9%80%A0%E5%81%87/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2024-10-15/Elon-Dreams-and-Bitter-Lessons/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2024-09-10/Boomer-Apple/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

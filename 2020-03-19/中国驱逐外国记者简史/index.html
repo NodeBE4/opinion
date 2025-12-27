@@ -1,0 +1,1056 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title> 中国驱逐外国记者简史  – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+中国驱逐外国记者简史
+——
+" />
+    <meta property="og:description" content="
+中国驱逐外国记者简史
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content=" 中国驱逐外国记者简史 " />
+    <meta property="twitter:title" content=" 中国驱逐外国记者简史 " />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fsociologist.xyz%2Fchina-foreign-journalists-expulsion" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://sociologist.xyz/china-foreign-journalists-expulsion" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://sociologist.xyz/china-foreign-journalists-expulsion&text= 中国驱逐外国记者简史 &hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://sociologist.xyz/china-foreign-journalists-expulsion&title= 中国驱逐外国记者简史 " class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://sociologist.xyz/china-foreign-journalists-expulsion&title= 中国驱逐外国记者简史 " class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject= 中国驱逐外国记者简史 &body=
+中国驱逐外国记者简史
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://sociologist.xyz/china-foreign-journalists-expulsion" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://sociologist.xyz/china-foreign-journalists-expulsion&title= 中国驱逐外国记者简史 &caption=
+中国驱逐外国记者简史
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text= 中国驱逐外国记者简史 &url=https://sociologist.xyz/china-foreign-journalists-expulsion" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1> 中国驱逐外国记者简史 </h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2020-03-19
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#The Sociologist">
+          The Sociologist
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://sociologist.xyz/china-foreign-journalists-expulsion" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="The Sociologist的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#The Sociologist 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1584633600000-->
+<p><a href="https://sociologist.xyz/china-foreign-journalists-expulsion">中国驱逐外国记者简史</a>
+——</p>
+
+<div>
+  <div class="md-block list">
+    <ul>
+      <li>
+        <p>1981 年 6 月，荷兰《新鹿特丹商业报》（ <em>NRC Handelsblad</em> ）记者 Willem E.C. Van Kemenade，因荷兰向台湾出售潜艇而被<a href="https://www.nytimes.com/1981/06/05/world/dutch-journalist-ousted-by-china-after-forming-ties-to-dissidents.html">驱逐</a>。</p>
+      </li>
+      <li>
+        <p>1984 年，德国（西德）《明镜周刊》（ <em>Der Spiegel</em> ）意大利籍记者 Tiziano Terzani 因其非虚构著作 Behind The Forbidden Door 被指歪曲中国现状，以涉嫌走私文物为由被<a href="https://www.upi.com/Archives/1984/03/07/Expelled-reporter-denies-smuggling-charges/2912447483600/">驱逐</a>。</p>
+      </li>
+      <li>
+        <p>1986 年 7 月，美国《纽约时报》（ <em>The New York Times</em> ）北京分社社长 John F. Burns 被控从事间谍活动并被监禁，后撤销，随即被<a href="https://www.nytimes.com/1986/07/23/world/china-expels-times-reporter-for-entering-restricted-area.html">驱逐</a>。次年撰写<a href="https://www.nytimes.com/1987/02/08/magazine/a-reporter-s-odyssey-in-unseen-china.html">报道</a> 讲述在中国的艰难采访与被驱逐的过程。</p>
+      </li>
+    </ul>
+  </div>
+  <div class="md-photo">
+    <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8415175753_343592.jpg?x-oss-process=style/l" alt="The Sociologist 200322.001.jpg" title="1989 年之前被驱逐的外国记者，从左至右分别为 Willem E.C. Van Kemenade、Tiziano Terzani 和 John F. Burns" />      <figcaption>
+1989 年之前被驱逐的外国记者，从左至右分别为 Willem E.C. Van Kemenade、Tiziano Terzani 和 John F. Burns
+      </figcaption>
+    </figure>
+  </div>
+  <div class="md-block list">
+    <ul>
+      <li>
+        <p>1989 年 6 月，美国<a href="https://apnews.com/04734a1a7327ccb048e070422ac50d73">美联社</a>（Associated Press）记者 John Pomfret 和美国之音（Voice of America ）记者 Alan Pessin 因报道天安门事件而被<a href="https://www.latimes.com/archives/la-xpm-1989-06-14-mn-2256-story.html">驱逐</a>。</p>
+      </li>
+      <li>
+        <p>1991 年 9 月，英国《独立报》（ <em>The Independent</em> ）记者贺安雷（Andrew Higgins）被控持有秘密逮捕蒙古民族主义者的内部机密文件，随后被<a href="https://www.latimes.com/archives/la-xpm-1991-09-14-mn-1918-story.html">驱逐出境</a>。</p>
+      </li>
+      <li>
+        <p>1995 年 12 月，德国《法兰克福评论报》（ <em>Frankfurter Rundschau</em> ）北京分社社长包克（Henrik Bork）被指对德国公众报道中国负面新闻而被<a href="https://www.independent.co.uk/news/world/peking-ejects-biased-foreign-reporter-1526627.html">驱逐</a>。此前包克在中国总理李鹏访德之前撰写一系列批评其在天安门事件中作为的文章，引发抗议示威，致使李鹏改变行程。</p>
+      </li>
+      <li>
+        <p>1998 年 10 月，日本《读卖新闻》记者中津幸久被指窃取国家机密被<a href="https://ifex.org/japanese-journalist-deported/">驱逐</a>，但据信是因其接触参与八九学运被捕入狱的《中国经济时报》编辑。去年中津的新书《<a href="https://book.douban.com/subject/34429939/">北京1998：中国国外退去始末記</a>》自述这一事件始末。</p>
+      </li>
+      <li>
+        <p>1998 年 11 月，德国《明镜周刊》记者周劲恒（Juergen Kremb）被控持有秘密文件，并被<a href="https://www.nytimes.com/1998/11/19/world/beijing-to-expel-foreign-reporter-2d-in-a-month.html">驱逐</a>。周劲恒此前接触采访<a href="https://zh.wikipedia.org/wiki/%E9%AD%8F%E4%BA%AC%E7%94%9F">魏京生</a>并出版<a href="https://www.books.com.tw/products/0010098123?sloc=main">传记</a>。</p>
+      </li>
+    </ul>
+  </div>
+  <div class="md-photo">
+    <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8415175776_261185.jpg?x-oss-process=style/l" alt="The Sociologist 200322.002.jpg" title="1989 年至 1998 年间被驱逐的外国记者，左至右上至下为 John Pomfret、Alan Pessin、贺安雷、包克、中津幸久和周劲恒" />      <figcaption>
+1989 年至 1998 年间被驱逐的外国记者，左至右上至下为 John Pomfret、Alan Pessin、贺安雷、包克、中津幸久和周劲恒
+      </figcaption>
+    </figure>
+  </div>
+  <div class="md-block list">
+    <ul>
+      <li>
+        <p>2012 年 5 月，卡塔尔半岛电视台（Al Jazeera）记者陈嘉韵（Melissa Chan）被指违反有关规定并被<a href="https://www.aljazeera.com/indepth/features/2012/05/201251183633811491.html">驱逐</a>。此前陈嘉韵报道过刘晓波妻子刘霞、计划生育、西藏和新疆等敏感议题。而半岛电视台英语频道亦制作关于中国劳改营的<a href="https://www.aljazeera.com/programmes/slaverya21stcenturyevil/2011/10/2011101091153782814.html">纪录片</a>，被中国指责，但陈未参与制作。陈被驱逐后，该频道也在中国被关闭。</p>
+      </li>
+      <li>
+        <p>2012 年 12 月，美国《纽约时报》记者储百亮（Chris Buckley）被以拖延签证的方式<a href="https://www.theguardian.com/world/2012/dec/31/china-new-york-times-journalist">驱逐</a>。《纽约时报》刊登一篇揭露温家宝巨额财产的<a href="https://www.nytimes.com/2012/10/26/business/global/family-of-wen-jiabao-holds-a-hidden-fortune-in-china.html">报道</a>，而储百亮并未参与。该篇报道<a href="https://www.pulitzer.org/winners/david-barboza">获普利策奖</a>。《纽约时报》亦于 10 月起遭防火长城屏蔽。据外国驻华记者协会（FCCC）统计，2012 年有 29 名驻华记者被以取消或不予延长签证的形式<a href="https://china.usc.edu/sites/default/files/article/attachments/FCCC%20Visa%20Survey%202012%20Findings.pdf">威胁</a>。</p>
+      </li>
+      <li>
+        <p>2013 年 11 月，英国路透社（Reuters）记者慕亦仁（Paul Mooney）在被中国驻旧金山总领事馆威胁后<a href="https://www.nytimes.com/2013/11/10/world/asia/reporter-for-reuters-wont-receive-china-visa.html">拒签</a>。慕亦仁长年采访报道侵犯人权事件。</p>
+      </li>
+      <li>
+        <p>2013 年 12 月，美国彭博社（Bloomberg News）的英国籍记者 Robert Hutton 被<a href="https://www.theguardian.com/world/2013/dec/02/journalist-barred-chinese-conference-robert-hutton">拒绝</a>参加英国首相卡梅伦同中国总理李克强的新闻发布会。彭博社从此前一年开始，报道习近平等中国高层的巨额财产，彭博社网站亦遭防火长城屏蔽。彭博社删除相关报道，并<a href="https://www.nytimes.com/2013/11/09/world/asia/bloomberg-news-is-said-to-curb-articles-that-might-anger-china.html">自我审查</a>，<a href="https://www.ft.com/content/daade7d6-4f52-11e3-b06e-00144feabdc0">压下</a>王健林与高层之间关系的报道，终未换来解禁。内部揭露彭博社自我审查的记者傅才德（Michael Forsythe）随后<a href="https://twitter.com/pekingmike/status/402789302855139328">离职</a>。彭博社和《纽约时报》亦有多名记者遭停止续签。</p>
+      </li>
+      <li>
+        <p>2015 年 12 月，法国《新观察家》（ <em>L'Obs</em> ）记者郭玉（Ursula Gauthier）被拒续签遭<a href="https://www.wsj.com/articles/china-effectively-expels-french-journalist-over-critical-article-1451143407">驱逐</a>。郭玉在 11 月 18 日发表一篇批评中国政府关联新疆恐怖袭击和巴黎恐怖袭击的<a href="https://www.nouvelobs.com/attentats-terroristes-a-paris/20151117.OBS9681/apres-les-attentats-la-solidarite-de-la-chine-n-est-pas-sans-arriere-pensees.html">文章</a>。随后被《环球时报》连续撰文指控其「反华」，中国外交部随后传唤要求郭玉公开道歉，遭拒绝后停止续发记者证。</p>
+      </li>
+    </ul>
+  </div>
+  <div class="md-photo">
+    <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8415175931_090104.jpg?x-oss-process=style/l" alt="The Sociologist 200322.003.jpg" title="时隔十余年后，自 2012 年起驱逐外国记者渐趋频繁，左至右为陈嘉韵、储百亮、慕亦仁和郭玉，亦有未记录的许多记者被以各种形式阻挠，变相驱逐" />      <figcaption>
+时隔十余年后，自 2012 年起驱逐外国记者渐趋频繁，左至右为陈嘉韵、储百亮、慕亦仁和郭玉，亦有未记录的许多记者被以各种形式阻挠，变相驱逐
+      </figcaption>
+    </figure>
+  </div>
+  <div class="md-block list">
+    <ul>
+      <li>
+        <p>2018 年 8 月，美国 BuzzFeed News 中国分社社长李香梅（Megha Rajagopalan）未获续签被 <a href="https://www.nytimes.com/2018/08/23/world/asia/china-buzzfeed-reporter.html">驱逐</a>。此前她撰写大量关于新疆维吾尔族和其他穆斯林少数民族困境的<a href="https://www.buzzfeednews.com/article/meghara/china-uighur-spies-surveillance">报道</a>。《环球时报》亦发表社论批评李香梅。</p>
+      </li>
+      <li>
+        <p>2019 年 8 月，美国《华尔街日报》（ <em>The Wall Street Journal</em> ）新加坡籍记者王春翰（Chun Han Wong）被<a href="https://www.wsj.com/articles/wall-street-journal-reporter-forced-to-leave-china-11567161852">驱逐</a>。此前王<a href="https://www.wsj.com/articles/chinese-presidents-cousin-draws-scrutiny-of-australian-authorities-11564500031">报道</a>了习近平表弟齐明被澳大利亚调查的案件。</p>
+      </li>
+      <li>
+        <p>2020 年 2 月，美国《华尔街日报》美籍副社长李肇华（Josh Chin）、记者邓超（Chao Deng）澳大利亚籍记者温友正（Philip Wen）被<a href="https://www.wsj.com/articles/china-expels-three-wall-street-journal-reporters-11582100355">驱逐</a>。此前该报 Opinion 专栏刊载哈德逊研究所学者 Walter Russell Mead 的一篇题为《中国是真正的东亚病夫》（<a href="https://www.wsj.com/articles/china-is-the-real-sick-man-of-asia-11580773677">China Is the Real Sick Man of Asia</a>）的文章，批评中国政府隐瞒资讯和金融市场的脆弱。标题中「东亚病夫」的理解存在中西文化差异，唯中国外交部指其「种族歧视」，吊销此三位记者证照。另外此三位记者均报道过新疆问题。此前一天，美国政府宣布将新华社、CGTN、CRI、中国日报和人民日报五家媒体列为<a href="https://www.washingtonpost.com/world/asia_pacific/us-designates-5-major-chinese-media-outlets-as-government-entities/2020/02/18/d82b3ece-5210-11ea-80ce-37a8d4266c09_story.html">外交使团</a>，雇员须登记美国国务院。</p>
+      </li>
+      <li>
+        <p>2020 年 3 月，《纽约时报》、《华尔街日报》、《华盛顿邮报》（ <em>The Washington Post</em> ）所有驻华记者被<a href="https://www.nytimes.com/2020/03/17/business/media/china-expels-american-journalists.html">驱逐</a>，不得在包括香港和澳门从事采访报道，美国之音和《时代周刊》（Time）被要求提交详细材料。中国外交部<a href="https://www.mfa.gov.cn/web/fyrbt_673021/t1757128.shtml">表示</a>，此举为美国限制中国驻美新闻机构的反制措施。</p>
+      </li>
+    </ul>
+  </div>
+  <div class="md-photo">
+    <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8415173752_312529.jpg?x-oss-process=style/l" alt="The Sociologist 200322.004.jpg" title="2018 年至今部分被驱逐的外国记者，左至右为李香梅、李肇华、邓超和温友正，未寻得王春翰图像资料" />      <figcaption>
+2018 年至今部分被驱逐的外国记者，左至右为李香梅、李肇华、邓超和温友正，未寻得王春翰图像资料
+      </figcaption>
+    </figure>
+  </div>
+  <hr />
+  <p>后记：本想就近日事件简要追溯，没想到爬梳之后不只是「简史」。中国驱逐外国记者，一开始只是作为象征性警示和政治表态。近年来四、五两代领导集体的动荡交割，以及随之而来的强硬外交，驻华记者生存愈加艰难。而美国传统新闻媒体同时面临政治责难和广告流失的<a href="https://www.journalism.org/daily-briefings/2020/03/19/news-organizations-see-record-viewership-amid-coronavirus-outbreak/">困境</a>，中国公民记者在新型冠状病毒肺炎报道中<a href="https://www.nytimes.com/2020/02/14/business/wuhan-coronavirus-journalists.html">昙花一现</a>，全球越来越多记者<a href="https://cpj.org/data/killed/2019/?status=Killed&amp;motiveConfirmed%5B%5D=Confirmed&amp;type%5B%5D=Journalist&amp;start_year=1992&amp;end_year=2020&amp;group_by=location">惨遭杀害</a>⋯⋯</p>
+  <p>昨天纽约时报可视化调查团队制作的<a href="https://www.youtube.com/watch?v=LwqhvRcBrK4">视频</a>，讨论了中国<a href="https://theinitium.com/article/20200319-mainland-pride-narrative-revival/">改写</a>冠状病毒叙事。在置顶评论的回复中，有人用拙劣的英文质疑这是狭隘的谎言视角，并为谎言的合理性辩护。或许谎言可以起到「积极」的治理效果，但操纵集体记忆的恶果也得由每位个体承担。</p>
+  <hr />
+  <p><strong>🌟LikeCoin 可为我带来微薄收益，激励未来创作，如果你喜欢这篇文章，不妨五连哦👇</strong></p>
+  <div class="md-block html">
+    <script type="text/javascript">document.write("<iframe scrolling='no' frameborder='0' sandbox='allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-storage-access-by-user-activation' style='height: 212px; width: 100%;' src='https://button.like.co/in/embed/csshadow/button?referrer="+encodeURIComponent(location.href.split("?")[0].split("#")[0])+"'></iframe>");</script>
+  </div>
+  <p><strong>若你还不想注册加入赞赏公民社区，可以在这里按赞→<a href="https://button.like.co/csshadow">👍</a></strong></p>
+  <hr />
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#The Sociologist 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-05/%E7%BA%A6%E7%BF%B0%E9%9C%8D%E6%99%AE%E9%87%91%E6%96%AF%E5%A4%A7%E5%AD%A6%E9%AB%98%E7%AD%89%E5%9B%BD%E9%99%85%E7%A0%94%E7%A9%B6%E9%99%A2-SAIS-%E4%B8%AD%E5%9B%BD%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83%E5%8E%BB%E5%B9%B4-9-%E6%9C%88%E6%B1%87%E7%BC%96%E5%87%BA%E7%89%88%E4%BA%86-Studying-Ch/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2019-05-25/Hello,-World!-%E7%A4%BE%E4%BC%9A%E5%AD%A6%E4%BA%BA/">最早</a>--</span>
+    
+      <li>
+        <time>2020-06-05</time>
+        <a href="https://nodebe4.github.io/opinion/2020-06-05/COVID-19-%E5%8D%8A%E5%B9%B4%E5%AD%98%E6%A1%A3-2020-%E4%B8%8A/">
+           COVID-19 半年存档（2020 上） 
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-03-21</time>
+        <a href="https://nodebe4.github.io/opinion/2020-03-21/ize-%E4%B8%8E-ise/">
+           -ize 与 -ise 
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-03-06</time>
+        <a href="https://nodebe4.github.io/opinion/2020-03-06/%E9%87%8D%E5%BB%BA%E8%B5%84%E8%AE%AF%E8%81%9A%E5%90%88%E8%AE%B0/">
+           重建资讯聚合记 
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-02-23</time>
+        <a href="https://nodebe4.github.io/opinion/2020-02-23/%E5%86%8D%E6%B7%BB%E5%87%A0%E6%9C%AC%E6%9C%89%E5%85%B3%E6%96%B0%E5%86%A0%E7%9A%84%E9%98%85%E8%AF%BB%E4%B9%A6%E7%9B%AE/">
+           再添几本有关新冠的阅读书目 
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2020-03-19/%E8%98%87%E5%B0%8F%E7%8E%B2-%E5%BE%9E-%E5%95%8F%E8%A8%BA-%E5%88%B0-%E5%95%8F%E6%94%BF/">
+            前一篇：蘇小玲：從“問診”到“問政”
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2020-03-19/%E4%B8%AD%E5%85%B1-%E9%81%BF%E9%A2%A8%E6%B8%AF-%E5%AE%A3%E5%82%B3%E5%BC%95%E7%81%AB%E7%87%92%E8%BA%AB-%E5%88%86%E6%9E%90%E4%B8%AD%E5%85%B1%E7%96%AB%E8%8B%97%E6%88%B0%E7%95%A5/">
+            後一篇：中共「避風港」宣傳引火燒身；分析中共疫苗戰略
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2020-03-19/%E8%98%87%E5%B0%8F%E7%8E%B2-%E5%BE%9E-%E5%95%8F%E8%A8%BA-%E5%88%B0-%E5%95%8F%E6%94%BF/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2020-03-19/%E4%B8%AD%E5%85%B1-%E9%81%BF%E9%A2%A8%E6%B8%AF-%E5%AE%A3%E5%82%B3%E5%BC%95%E7%81%AB%E7%87%92%E8%BA%AB-%E5%88%86%E6%9E%90%E4%B8%AD%E5%85%B1%E7%96%AB%E8%8B%97%E6%88%B0%E7%95%A5/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2020-03-21/ize-%E4%B8%8E-ise/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2020-03-06/%E9%87%8D%E5%BB%BA%E8%B5%84%E8%AE%AF%E8%81%9A%E5%90%88%E8%AE%B0/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2020-03-19/%E8%98%87%E5%B0%8F%E7%8E%B2-%E5%BE%9E-%E5%95%8F%E8%A8%BA-%E5%88%B0-%E5%95%8F%E6%94%BF/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2020-03-19/%E4%B8%AD%E5%85%B1-%E9%81%BF%E9%A2%A8%E6%B8%AF-%E5%AE%A3%E5%82%B3%E5%BC%95%E7%81%AB%E7%87%92%E8%BA%AB-%E5%88%86%E6%9E%90%E4%B8%AD%E5%85%B1%E7%96%AB%E8%8B%97%E6%88%B0%E7%95%A5/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<The Sociologist>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2020-03-21/ize-%E4%B8%8E-ise/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<The Sociologist>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2020-03-06/%E9%87%8D%E5%BB%BA%E8%B5%84%E8%AE%AF%E8%81%9A%E5%90%88%E8%AE%B0/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

@@ -1,0 +1,2430 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Yvan888在2019-03-11~2019-03-17的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Yvan888在2019-03-11~2019-03-17的言论" />
+    <meta property="twitter:title" content="Yvan888在2019-03-11~2019-03-17的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FChina_irl%2Fcomments%2Fazh72h%2F%E5%A5%B3%E6%9D%83%E4%B9%8B%E5%A3%B0%E4%B8%89%E5%85%AB%E5%A6%87%E5%A5%B3%E8%8A%82%E5%BD%93%E6%97%A5%E5%85%A8%E7%BD%91%E5%B0%81%E7%A6%81%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/China_irl/comments/azh72h/女权之声三八妇女节当日全网封禁/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/China_irl/comments/azh72h/女权之声三八妇女节当日全网封禁/&text=Yvan888在2019-03-11~2019-03-17的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/China_irl/comments/azh72h/女权之声三八妇女节当日全网封禁/&title=Yvan888在2019-03-11~2019-03-17的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/China_irl/comments/azh72h/女权之声三八妇女节当日全网封禁/&title=Yvan888在2019-03-11~2019-03-17的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Yvan888在2019-03-11~2019-03-17的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/China_irl/comments/azh72h/女权之声三八妇女节当日全网封禁/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/China_irl/comments/azh72h/女权之声三八妇女节当日全网封禁/&title=Yvan888在2019-03-11~2019-03-17的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Yvan888在2019-03-11~2019-03-17的言论&url=https://old.reddit.com/r/China_irl/comments/azh72h/女权之声三八妇女节当日全网封禁/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Yvan888在2019-03-11~2019-03-17的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2019-03-11
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://www.reddit.com/user/Yvan888/" style="font-size:14px;">作者: Yvan888</a>
+        </span>
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/China_irl/comments/azh72h/女权之声三八妇女节当日全网封禁/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#86-女权之声三八妇女节当日全网封禁-submitted-on-2019-03-11-0015300800" id="markdown-toc-86-女权之声三八妇女节当日全网封禁-submitted-on-2019-03-11-0015300800">86: “女权之声”三八妇女节当日全网封禁, submitted on 2019-03-11 00:15:30+08:00.</a></li>
+  <li><a href="#87-womens-day-banner-at-a-medical-school-多喝热水-submitted-on-2019-03-11-0600480800" id="markdown-toc-87-womens-day-banner-at-a-medical-school-多喝热水-submitted-on-2019-03-11-0600480800">87: Women’s Day banner at a medical school: 多喝热水, submitted on 2019-03-11 06:00:48+08:00.</a></li>
+  <li><a href="#88-欧盟对华日趋强硬的背后---ft中文网-submitted-on-2019-03-11-0919560800" id="markdown-toc-88-欧盟对华日趋强硬的背后---ft中文网-submitted-on-2019-03-11-0919560800">88: 欧盟对华日趋强硬的背后 - FT中文网, submitted on 2019-03-11 09:19:56+08:00.</a></li>
+  <li><a href="#89-南华早报前主席之子胡海峰空降西安-submitted-on-2019-03-11-1302020800" id="markdown-toc-89-南华早报前主席之子胡海峰空降西安-submitted-on-2019-03-11-1302020800">89: [南华早报]前主席之子胡海峰空降西安, submitted on 2019-03-11 13:02:02+08:00.</a></li>
+  <li><a href="#90-看了隔壁的帖子对于用词提出一些讨论-submitted-on-2019-03-11-1511210800" id="markdown-toc-90-看了隔壁的帖子对于用词提出一些讨论-submitted-on-2019-03-11-1511210800">90: 看了隔壁的帖子对于用词提出一些讨论。, submitted on 2019-03-11 15:11:21+08:00.</a></li>
+  <li><a href="#91-a-girl-in-my-class-looks-like-a-dog-in-this-angle-submitted-on-2019-03-11-1724100800" id="markdown-toc-91-a-girl-in-my-class-looks-like-a-dog-in-this-angle-submitted-on-2019-03-11-1724100800">91: A girl in my class looks like a dog in this angle., submitted on 2019-03-11 17:24:10+08:00.</a></li>
+  <li><a href="#92-can-someone-help-me-find-the-name-of-this-chinese-dish--submitted-on-2019-03-11-2107480800" id="markdown-toc-92-can-someone-help-me-find-the-name-of-this-chinese-dish--submitted-on-2019-03-11-2107480800">92: Can someone help me find the name of this Chinese dish ?, submitted on 2019-03-11 21:07:48+08:00.</a></li>
+  <li><a href="#93-您认为先有国还是先有家-submitted-on-2019-03-12-0023290800" id="markdown-toc-93-您认为先有国还是先有家-submitted-on-2019-03-12-0023290800">93: 您认为先有国还是先有家?, submitted on 2019-03-12 00:23:29+08:00.</a></li>
+  <li><a href="#94-大家认为学习强国的硬性推广习近平本人知道吗赞同吗-submitted-on-2019-03-12-0845280800" id="markdown-toc-94-大家认为学习强国的硬性推广习近平本人知道吗赞同吗-submitted-on-2019-03-12-0845280800">94: 大家认为“学习强国”的硬性推广，习近平本人知道吗？赞同吗？, submitted on 2019-03-12 08:45:28+08:00.</a></li>
+  <li><a href="#95-the-us-government-will-be-scanning-your-face-at-20-top-airports-documents-show-submitted-on-2019-03-12-0934220800" id="markdown-toc-95-the-us-government-will-be-scanning-your-face-at-20-top-airports-documents-show-submitted-on-2019-03-12-0934220800">95: The US Government Will Be Scanning Your Face At 20 Top Airports, Documents Show, submitted on 2019-03-12 09:34:22+08:00.</a></li>
+  <li><a href="#96-how-to-learn-chinese-how-to-read-the-following-sentence--submitted-on-2019-03-12-1245190800" id="markdown-toc-96-how-to-learn-chinese-how-to-read-the-following-sentence--submitted-on-2019-03-12-1245190800">96: How to learn Chinese? How to read the following sentence ？, submitted on 2019-03-12 12:45:19+08:00.</a></li>
+  <li><a href="#97-lost-in-translation-how-language-is-used-to-obfuscate-taiwans-reality-submitted-on-2019-03-12-1438430800" id="markdown-toc-97-lost-in-translation-how-language-is-used-to-obfuscate-taiwans-reality-submitted-on-2019-03-12-1438430800">97: Lost In Translation: How Language Is Used to Obfuscate Taiwan’s Reality, submitted on 2019-03-12 14:38:43+08:00.</a></li>
+  <li><a href="#98-met-an-american-chinese-language-student-his-chinese-name-was-大老二-should-i-tell-him-he-should-change-his-name-submitted-on-2019-03-12-1444060800" id="markdown-toc-98-met-an-american-chinese-language-student-his-chinese-name-was-大老二-should-i-tell-him-he-should-change-his-name-submitted-on-2019-03-12-1444060800">98: Met an American Chinese language student… His Chinese name was 大老二。 Should I tell him he should change his name?, submitted on 2019-03-12 14:44:06+08:00.</a></li>
+  <li><a href="#99-想问下这是真的吗-submitted-on-2019-03-12-1807110800" id="markdown-toc-99-想问下这是真的吗-submitted-on-2019-03-12-1807110800">99: 想问下这是真的吗, submitted on 2019-03-12 18:07:11+08:00.</a></li>
+  <li><a href="#100-doing-my-part-from-chinaother-side-of-the-great-fire-wall-submitted-on-2019-03-12-1902150800" id="markdown-toc-100-doing-my-part-from-chinaother-side-of-the-great-fire-wall-submitted-on-2019-03-12-1902150800">100: Doing my part from China…other side of the great fire wall, submitted on 2019-03-12 19:02:15+08:00.</a></li>
+  <li><a href="#101-china-says-xinjiang-has-boarding-schools-not-concentration-camps-submitted-on-2019-03-12-2034190800" id="markdown-toc-101-china-says-xinjiang-has-boarding-schools-not-concentration-camps-submitted-on-2019-03-12-2034190800">101: China says Xinjiang has ‘boarding schools’, not ‘concentration camps’, submitted on 2019-03-12 20:34:19+08:00.</a></li>
+  <li><a href="#102-still-pretty-interesting-submitted-on-2019-03-12-2212370800" id="markdown-toc-102-still-pretty-interesting-submitted-on-2019-03-12-2212370800">102: Still pretty interesting., submitted on 2019-03-12 22:12:37+08:00.</a></li>
+  <li><a href="#103-how-is-the-canton-tower-lit-submitted-on-2019-03-13-0117260800" id="markdown-toc-103-how-is-the-canton-tower-lit-submitted-on-2019-03-13-0117260800">103: How is the canton tower lit?, submitted on 2019-03-13 01:17:26+08:00.</a></li>
+  <li><a href="#104-any-difference-in-taste-between-china-and-american-pork-submitted-on-2019-03-13-0910240800" id="markdown-toc-104-any-difference-in-taste-between-china-and-american-pork-submitted-on-2019-03-13-0910240800">104: Any difference in taste between China and American pork?, submitted on 2019-03-13 09:10:24+08:00.</a></li>
+  <li><a href="#105-psa-please-becareful-of-the-recent-waves-of-chinese-netizens-coming-into-reddit-while-there-are-certainly-genuine-redditors-i-also-found-lots-of-ccp-lapdogs-and-50-cents-army-mixed-in-with-them-submitted-on-2019-03-13-1245080800" id="markdown-toc-105-psa-please-becareful-of-the-recent-waves-of-chinese-netizens-coming-into-reddit-while-there-are-certainly-genuine-redditors-i-also-found-lots-of-ccp-lapdogs-and-50-cents-army-mixed-in-with-them-submitted-on-2019-03-13-1245080800">105: PSA: Please becareful of the recent waves of Chinese netizens coming into Reddit, while there are certainly genuine redditors, I also found lots of CCP lapdogs and 50 cents army mixed in with them., submitted on 2019-03-13 12:45:08+08:00.</a></li>
+  <li><a href="#106-this-has-been-happening-a-lot-lately-submitted-on-2019-03-13-1618370800" id="markdown-toc-106-this-has-been-happening-a-lot-lately-submitted-on-2019-03-13-1618370800">106: This has been happening a lot lately, submitted on 2019-03-13 16:18:37+08:00.</a></li>
+  <li><a href="#107-adorable-little-magician-submitted-on-2019-03-15-1753340800" id="markdown-toc-107-adorable-little-magician-submitted-on-2019-03-15-1753340800">107: Adorable little magician, submitted on 2019-03-15 17:53:34+08:00.</a></li>
+  <li><a href="#108-rchina_irl-每周讨论楼---march-15-2019-submitted-on-2019-03-15-1806530800" id="markdown-toc-108-rchina_irl-每周讨论楼---march-15-2019-submitted-on-2019-03-15-1806530800">108: r/China_irl 每周讨论楼 - March 15, 2019, submitted on 2019-03-15 18:06:53+08:00.</a></li>
+  <li><a href="#109-tifu-by-sitting-next-to-mao-submitted-on-2019-03-15-1908400800" id="markdown-toc-109-tifu-by-sitting-next-to-mao-submitted-on-2019-03-15-1908400800">109: TIFU by sitting next to Mao, submitted on 2019-03-15 19:08:40+08:00.</a></li>
+  <li><a href="#110-美国务院宣布将制裁新疆迫害人权官员与机构-submitted-on-2019-03-16-1738090800" id="markdown-toc-110-美国务院宣布将制裁新疆迫害人权官员与机构-submitted-on-2019-03-16-1738090800">110: 美国务院宣布将制裁新疆迫害人权官员与机构, submitted on 2019-03-16 17:38:09+08:00.</a></li>
+  <li><a href="#111-为什么有人相信修仙是为了解决台湾问题-submitted-on-2019-03-17-0625160800" id="markdown-toc-111-为什么有人相信修仙是为了解决台湾问题-submitted-on-2019-03-17-0625160800">111: 为什么有人相信修仙是为了解决台湾问题。。。, submitted on 2019-03-17 06:25:16+08:00.</a></li>
+</ul>
+
+<h3 id="86-女权之声三八妇女节当日全网封禁-submitted-on-2019-03-11-0015300800">86: <a href="https://old.reddit.com/r/China_irl/comments/azh72h/女权之声三八妇女节当日全网封禁/">“女权之声”三八妇女节当日全网封禁</a>, submitted on 2019-03-11 00:15:30+08:00.</h3>
+
+<p>—– <strong>86.1</strong> —–2019-03-11 02:41:01+08:00:</p>
+
+<p>推女性回归家庭吧？毕竟生育率超低</p>
+
+<h3 id="87-womens-day-banner-at-a-medical-school-多喝热水-submitted-on-2019-03-11-0600480800">87: <a href="https://old.reddit.com/r/ChineseLanguage/comments/azl1zc/womens_day_banner_at_a_medical_school_多喝热水/">Women’s Day banner at a medical school: 多喝热水</a>, submitted on 2019-03-11 06:00:48+08:00.</h3>
+
+<p>—– <strong>87.1</strong> —–2019-03-11 08:20:09+08:00:</p>
+
+<p>Because the boys with nerd stereotype always tell their girlfriends to drink hot water in the period / during fever and some girls think they are dumb.</p>
+
+<p>Here they are making fun on this stereotype, by giving this typical nerdy suggestion with citations.</p>
+
+<h3 id="88-欧盟对华日趋强硬的背后---ft中文网-submitted-on-2019-03-11-0919560800">88: <a href="https://old.reddit.com/r/China_irl/comments/azn3tr/欧盟对华日趋强硬的背后_ft中文网/">欧盟对华日趋强硬的背后 - FT中文网</a>, submitted on 2019-03-11 09:19:56+08:00.</h3>
+
+<p>—– <strong>88.1</strong> —–2019-03-11 09:20:05+08:00:</p>
+
+<p><strong>考虑到版权：不贴原文，请点链接</strong></p>
+
+<p>【我自己的摘要】欧洲因（1）政治力量过于分散（2）前几十年经济转型失败（3）高估自身意识形态优越性，而导致自身企业在未来全球竞争中从领导者退为边缘者。在此背景下抬头的贸易保护主义和政治右倾主义，再加上欧洲看待中企的有色眼镜，中企需要面对未来欧洲商业环境恶化的多重挑战。</p>
+
+<p>—– <strong>88.2</strong> —–2019-03-11 11:50:25+08:00:</p>
+
+<p>所以说过度的民主也很容易被特定群体绑架，就像现在欧洲的选票都倾向于老人那一边（老龄化），没办法。未来美国若过了红线的话，也可能被非白们绑架。</p>
+
+<p>—– <strong>88.3</strong> —–2019-03-11 12:55:40+08:00:</p>
+
+<p>马克龙默克尔等的确在做，但路途慢慢，内有英国搅屎棍和顽固势力，外有中美俄干预</p>
+
+<h3 id="89-南华早报前主席之子胡海峰空降西安-submitted-on-2019-03-11-1302020800">89: <a href="https://old.reddit.com/r/China_irl/comments/azp9d1/南华早报前主席之子胡海峰空降西安/">[南华早报]前主席之子胡海峰空降西安</a>, submitted on 2019-03-11 13:02:02+08:00.</h3>
+
+<p>—– <strong>89.1</strong> —–2019-03-11 13:49:12+08:00:</p>
+
+<p>为啥我觉得他俩长得不像</p>
+
+<h3 id="90-看了隔壁的帖子对于用词提出一些讨论-submitted-on-2019-03-11-1511210800">90: <a href="https://old.reddit.com/r/China_irl/comments/azqcxu/看了隔壁的帖子对于用词提出一些讨论/">看了隔壁的帖子对于用词提出一些讨论。</a>, submitted on 2019-03-11 15:11:21+08:00.</h3>
+
+<p>—– <strong>90.1</strong> —–2019-03-11 21:57:34+08:00:</p>
+
+<p>没必要纠结词源，现在的“支那”就像chinaman和ching chong一样，是贬义词，就像你用N-word喊黑人一样。这不是爱不爱国的问题，是种族歧视的问题，不管放哪都不应该</p>
+
+<h3 id="91-a-girl-in-my-class-looks-like-a-dog-in-this-angle-submitted-on-2019-03-11-1724100800">91: <a href="https://old.reddit.com/r/pics/comments/azrbye/a_girl_in_my_class_looks_like_a_dog_in_this_angle/">A girl in my class looks like a dog in this angle.</a>, submitted on 2019-03-11 17:24:10+08:00.</h3>
+
+<p>—– <strong>91.1</strong> —–2019-03-11 22:52:33+08:00:</p>
+
+<p>Fuck. Kinda scary if you ask me</p>
+
+<p>—– <strong>91.2</strong> —–2019-03-11 22:56:16+08:00:</p>
+
+<p>Nose and smile are a part of glasses (She’s looking down). Dog eye… don’t know… I guess her hair is a mix of black and gold</p>
+
+<h3 id="92-can-someone-help-me-find-the-name-of-this-chinese-dish--submitted-on-2019-03-11-2107480800">92: <a href="https://old.reddit.com/r/China/comments/azt91i/can_someone_help_me_find_the_name_of_this_chinese/">Can someone help me find the name of this Chinese dish ?</a>, submitted on 2019-03-11 21:07:48+08:00.</h3>
+
+<p>—– <strong>92.1</strong> —–2019-03-11 23:48:20+08:00:</p>
+
+<p>tbh i don’t know why lots of people here think it’s pork (红烧肉, 叉烧 etc)</p>
+
+<p>imo it’s more like duck or chicken (烧鸡, 烧鸭, 蜜汁烧鸡, 酱油鸭, etc)</p>
+
+<p>What about you tell me what kind of meat (pork, chicken, duck) and how it’s taste (sweet, sour) so I can guess closer. It’s hard to tell by the meat covered with juice</p>
+
+<h3 id="93-您认为先有国还是先有家-submitted-on-2019-03-12-0023290800">93: <a href="https://old.reddit.com/r/China_irl/comments/azvdgh/您认为先有国还是先有家/">您认为先有国还是先有家?</a>, submitted on 2019-03-12 00:23:29+08:00.</h3>
+
+<p>—– <strong>93.1</strong> —–2019-03-12 14:00:02+08:00:</p>
+
+<p>两者为相互依靠但非相互决定的关系</p>
+
+<p>可以存在没有国家的家庭，也可以存在没有家庭的国家，反之亦然</p>
+
+<p>在（非常）遥远的未来，无论家庭与国家这种非自然产物都将被更高阶的组织代替，就像曾经历经千年的宗族社会被解构一样</p>
+
+<p>个人倾向于一个完全开放的社会，但很难讲</p>
+
+<p>补充：但因为在历史上，家庭是远早于国家存在的，所以我们可以找到不少没国家的家庭（比如无国籍人士），但无家庭的国家只存在于学术理论和科幻小说，比如人类通过统一交配或工厂生产来实现繁衍</p>
+
+<p>—– <strong>93.2</strong> —–2019-03-12 14:01:10+08:00:</p>
+
+<p>应该加个定语，现代化的国家</p>
+
+<h3 id="94-大家认为学习强国的硬性推广习近平本人知道吗赞同吗-submitted-on-2019-03-12-0845280800">94: <a href="https://old.reddit.com/r/China_irl/comments/b01bgu/大家认为学习强国的硬性推广习近平本人知道吗赞同吗/">大家认为“学习强国”的硬性推广，习近平本人知道吗？赞同吗？</a>, submitted on 2019-03-12 08:45:28+08:00.</h3>
+
+<p>—– <strong>94.1</strong> —–2019-03-12 08:58:10+08:00:</p>
+
+<p>肯定是他的意思啊，这跟多不多人反对没关系。修仙时党内也一片反对啊，毛大跃进时也一片反对啊，所以呢？</p>
+
+<p>—– <strong>94.2</strong> —–2019-03-12 10:17:20+08:00:</p>
+
+<p>具体多少谁都不可能知道，但反对声非一般地强</p>
+
+<p>—– <strong>94.3</strong> —–2019-03-12 14:12:14+08:00:</p>
+
+<p>都有，虽然我原话主要指普遍的党员干部</p>
+
+<h3 id="95-the-us-government-will-be-scanning-your-face-at-20-top-airports-documents-show-submitted-on-2019-03-12-0934220800">95: <a href="https://old.reddit.com/r/Futurology/comments/b01t5b/the_us_government_will_be_scanning_your_face_at/">The US Government Will Be Scanning Your Face At 20 Top Airports, Documents Show</a>, submitted on 2019-03-12 09:34:22+08:00.</h3>
+
+<p>—– <strong>95.1</strong> —–2019-03-12 14:10:21+08:00:</p>
+
+<p>If this is a piece of news from China, then everyone will repeat <em>evil ccp</em> or <em>China 1984</em> which they have repeated thousands of times.</p>
+
+<h3 id="96-how-to-learn-chinese-how-to-read-the-following-sentence--submitted-on-2019-03-12-1245190800">96: <a href="https://old.reddit.com/r/ChineseLanguage/comments/b03n40/how_to_learn_chinese_how_to_read_the_following/">How to learn Chinese? How to read the following sentence ？</a>, submitted on 2019-03-12 12:45:19+08:00.</h3>
+
+<p>—– <strong>96.1</strong> —–2019-03-12 14:03:57+08:00:</p>
+
+<p>wtf I suddenly cannot recognize the 行 character</p>
+
+<p>—– <strong>96.2</strong> —–2019-03-13 03:37:12+08:00:</p>
+
+<blockquote>
+  <p>semantic satiation</p>
+</blockquote>
+
+<p>omg it’s the first time someone gives me the <a href="https://www.wikiwand.com/en/Semantic_satiation">academic explanation</a>, thx</p>
+
+<h3 id="97-lost-in-translation-how-language-is-used-to-obfuscate-taiwans-reality-submitted-on-2019-03-12-1438430800">97: <a href="https://old.reddit.com/r/linguistics/comments/b04jvd/lost_in_translation_how_language_is_used_to/">Lost In Translation: How Language Is Used to Obfuscate Taiwan’s Reality</a>, submitted on 2019-03-12 14:38:43+08:00.</h3>
+
+<p>—– <strong>97.1</strong> —–2019-03-17 09:20:31+08:00:</p>
+
+<p>I’m Chinese. Your observations on China are largely correct but your definitions may be too aggressive tho. I am not saying China would be absolutely not a facist one day but at least now we are far away from it. Seriously, all the activities you mentioned here were happening for decades in China and you can find lots of these features in the 3rd world countries.</p>
+
+<h3 id="98-met-an-american-chinese-language-student-his-chinese-name-was-大老二-should-i-tell-him-he-should-change-his-name-submitted-on-2019-03-12-1444060800">98: <a href="https://old.reddit.com/r/ChineseLanguage/comments/b04laj/met_an_american_chinese_language_student_his/">Met an American Chinese language student… His Chinese name was 大老二。 Should I tell him he should change his name?</a>, submitted on 2019-03-12 14:44:06+08:00.</h3>
+
+<p>—– <strong>98.1</strong> —–2019-03-12 22:00:02+08:00:</p>
+
+<p>“你叫咩名”</p>
+
+<p>“我叫山鸡，鸡巴噶鸡”</p>
+
+<h3 id="99-想问下这是真的吗-submitted-on-2019-03-12-1807110800">99: <a href="https://old.reddit.com/r/saraba1st/comments/b06169/想问下这是真的吗/">想问下这是真的吗</a>, submitted on 2019-03-12 18:07:11+08:00.</h3>
+
+<p>—– <strong>99.1</strong> —–2019-03-12 22:01:57+08:00:</p>
+
+<p>真也不意外，社媒情绪分析很多人都在搞，比如说把情绪自动学习跟金融股票交易挂钩</p>
+
+<h3 id="100-doing-my-part-from-chinaother-side-of-the-great-fire-wall-submitted-on-2019-03-12-1902150800">100: <a href="https://old.reddit.com/r/PewdiepieSubmissions/comments/b06gjv/doing_my_part_from_chinaother_side_of_the_great/">Doing my part from China…other side of the great fire wall</a>, submitted on 2019-03-12 19:02:15+08:00.</h3>
+
+<p>—– <strong>100.1</strong> —–2019-03-13 00:52:10+08:00:</p>
+
+<p>zhe li shi na li ?</p>
+
+<h3 id="101-china-says-xinjiang-has-boarding-schools-not-concentration-camps-submitted-on-2019-03-12-2034190800">101: <a href="https://old.reddit.com/r/nottheonion/comments/b079e1/china_says_xinjiang_has_boarding_schools_not/">China says Xinjiang has ‘boarding schools’, not ‘concentration camps’</a>, submitted on 2019-03-12 20:34:19+08:00.</h3>
+
+<p>—– <strong>101.1</strong> —–2019-03-13 00:47:22+08:00:</p>
+
+<p>tbh it’s nearly impossible to see a total war between nuke powers</p>
+
+<p>—– <strong>101.2</strong> —–2019-03-13 00:50:16+08:00:</p>
+
+<p>tbh terrorism, separatism, culture, religion… all of them are a mix in Xinjiang.</p>
+
+<p>—– <strong>101.3</strong> —–2019-03-13 03:29:44+08:00:</p>
+
+<p>Are you arguing the number of nuke weapons? I don’t think it’s a problem once the war start</p>
+
+<p>—– <strong>101.4</strong> —–2019-03-24 07:49:11+08:00:</p>
+
+<p>there are indeed some Han “students” inside tho… the ones who believe the cult called Quan Neng Shen in Sichuan</p>
+
+<h3 id="102-still-pretty-interesting-submitted-on-2019-03-12-2212370800">102: <a href="https://old.reddit.com/r/imaginarymaps/comments/b088n9/still_pretty_interesting/">Still pretty interesting.</a>, submitted on 2019-03-12 22:12:37+08:00.</h3>
+
+<p>—– <strong>102.1</strong> —–2019-03-13 00:16:17+08:00:</p>
+
+<p>Why China flag is on the top. No sense.</p>
+
+<h3 id="103-how-is-the-canton-tower-lit-submitted-on-2019-03-13-0117260800">103: <a href="https://old.reddit.com/r/China/comments/b0ad2t/how_is_the_canton_tower_lit/">How is the canton tower lit?</a>, submitted on 2019-03-13 01:17:26+08:00.</h3>
+
+<p>—– <strong>103.1</strong> —–2019-03-13 09:47:20+08:00:</p>
+
+<p>The canton tower will say goodbye to you in Chinese and then turn off the light every night</p>
+
+<p>Welcome to my hometown</p>
+
+<p>—– <strong>103.2</strong> —–2019-03-13 13:23:13+08:00:</p>
+
+<p>sometimes propaganda sometimes commercial ads</p>
+
+<h3 id="104-any-difference-in-taste-between-china-and-american-pork-submitted-on-2019-03-13-0910240800">104: <a href="https://old.reddit.com/r/China/comments/b0fv95/any_difference_in_taste_between_china_and/">Any difference in taste between China and American pork?</a>, submitted on 2019-03-13 09:10:24+08:00.</h3>
+
+<p>—– <strong>104.1</strong> —–2019-03-13 13:56:32+08:00:</p>
+
+<p>My dad told me it’s because the pigs are fed by different food.</p>
+
+<p>No idea how accurate it is tho.</p>
+
+<h3 id="105-psa-please-becareful-of-the-recent-waves-of-chinese-netizens-coming-into-reddit-while-there-are-certainly-genuine-redditors-i-also-found-lots-of-ccp-lapdogs-and-50-cents-army-mixed-in-with-them-submitted-on-2019-03-13-1245080800">105: <a href="https://old.reddit.com/r/China/comments/b0hvmz/psa_please_becareful_of_the_recent_waves_of/">PSA: Please becareful of the recent waves of Chinese netizens coming into Reddit, while there are certainly genuine redditors, I also found lots of CCP lapdogs and 50 cents army mixed in with them.</a>, submitted on 2019-03-13 12:45:08+08:00.</h3>
+
+<p>—– <strong>105.1</strong> —–2019-03-13 13:33:27+08:00:</p>
+
+<p>Ok I’m also active sometimes on that sub but tbh that sub is definitely not <em>crazy pro-ccp</em> in Chinese political spectrum. wtf you can read Chinese how can u tell that after reading the comments there? If that is <em>crazy pro-ccp</em>, then what about weibo or zhihu behind the GFW? <em>facist</em>?</p>
+
+<p>Edit: they are a group of people escaped from hupu in GFW to reddit due to current increasing speech control. I was not one of them. But based on my observation, they’re kinda a mix of ccp liberals and centrists. The little pinks, i.e. pro-xi-er or some shits, are not that much tho.</p>
+
+<p>—– <strong>105.2</strong> —–2019-03-13 13:43:13+08:00:</p>
+
+<p>wow smart prediction, sweet. I’m too stupid, sad.</p>
+
+<p>—– <strong>105.3</strong> —–2019-03-13 13:46:54+08:00:</p>
+
+<p>That mod is indeed pro-ccp tho, his comments are always downvoted by other people in that sub lol…</p>
+
+<h3 id="106-this-has-been-happening-a-lot-lately-submitted-on-2019-03-13-1618370800">106: <a href="https://old.reddit.com/r/ChineseLanguage/comments/b0ji3m/this_has_been_happening_a_lot_lately/">This has been happening a lot lately</a>, submitted on 2019-03-13 16:18:37+08:00.</h3>
+
+<p>—– <strong>106.1</strong> —–2019-03-13 20:57:33+08:00:</p>
+
+<p>lol how you survive w/o knowing that</p>
+
+<h3 id="107-adorable-little-magician-submitted-on-2019-03-15-1753340800">107: <a href="https://old.reddit.com/r/China/comments/b1cytt/adorable_little_magician/">Adorable little magician</a>, submitted on 2019-03-15 17:53:34+08:00.</h3>
+
+<p>—– <strong>107.1</strong> —–2019-03-16 02:22:26+08:00:</p>
+
+<p>well technically it’s NOT tik tok</p>
+
+<h3 id="108-rchina_irl-每周讨论楼---march-15-2019-submitted-on-2019-03-15-1806530800">108: <a href="https://old.reddit.com/r/China_irl/comments/b1d2pw/rchina_irl_每周讨论楼_march_15_2019/">r/China_irl 每周讨论楼 - March 15, 2019</a>, submitted on 2019-03-15 18:06:53+08:00.</h3>
+
+<p>—– <strong>108.1</strong> —–2019-03-21 12:40:30+08:00:</p>
+
+<p>问题1：为什么很多汉字内容的行间隔经常没有，字挤在一起好难看</p>
+
+<p>问题2：为何reddit会封微信链接？</p>
+
+<p>—– <strong>108.2</strong> —–2019-03-21 12:58:00+08:00:</p>
+
+<p>所以是我苹果手机的问题？</p>
+
+<p>—– <strong>108.3</strong> —–2019-03-21 14:03:28+08:00:</p>
+
+<p>心疼tx在reddit 5%的投资，自己链接被禁…</p>
+
+<p>—– <strong>108.4</strong> —–2019-03-21 14:20:30+08:00:</p>
+
+<p>我也是没查到，好奇怪，不管如何，谢谢答疑！</p>
+
+<h3 id="109-tifu-by-sitting-next-to-mao-submitted-on-2019-03-15-1908400800">109: <a href="https://old.reddit.com/r/tifu/comments/b1dl54/tifu_by_sitting_next_to_mao/">TIFU by sitting next to Mao</a>, submitted on 2019-03-15 19:08:40+08:00.</h3>
+
+<p>—– <strong>109.1</strong> —–2019-03-24 08:03:43+08:00:</p>
+
+<p>Am Chinese teens, I don’t think so</p>
+
+<h3 id="110-美国务院宣布将制裁新疆迫害人权官员与机构-submitted-on-2019-03-16-1738090800">110: <a href="https://old.reddit.com/r/RebelsHideout/comments/b1qpwl/美国务院宣布将制裁新疆迫害人权官员与机构/">美国务院宣布将制裁新疆迫害人权官员与机构</a>, submitted on 2019-03-16 17:38:09+08:00.</h3>
+
+<p>—– <strong>110.1</strong> —–2019-03-19 20:42:57+08:00:</p>
+
+<p>常规操作</p>
+
+<h3 id="111-为什么有人相信修仙是为了解决台湾问题-submitted-on-2019-03-17-0625160800">111: <a href="https://old.reddit.com/r/China_irl/comments/b1y5ur/为什么有人相信修仙是为了解决台湾问题/">为什么有人相信修仙是为了解决台湾问题。。。</a>, submitted on 2019-03-17 06:25:16+08:00.</h3>
+
+<p>—– <strong>111.1</strong> —–2019-03-17 09:39:48+08:00:</p>
+
+<ol>
+  <li>
+    <p>不一定直接武力，更多是以武促统</p>
+  </li>
+  <li>
+    <p>随着时间推移，虽然中国国力越来越强，但是台湾也一代比一代独，现在基本天然独，时间并不是我们的朋友</p>
+  </li>
+  <li>
+    <p>其实除了胡，每一届都想拿回台湾，这届好大喜功更不例外</p>
+  </li>
+  <li>
+    <p>修仙当然不完全为了台湾，但若完成了台湾任务，即使其他完成得不好，也好交待</p>
+  </li>
+  <li>
+    <p>无论修仙目的如何，集权总是有利于战争的，就像罗斯福在二战一样</p>
+  </li>
+  <li>
+    <p>跟红色后代在美国有何关系？美国不至于为了台湾跟中国完全翻脸。即使比中弱几倍的俄国拿了乌克兰的地，不也就被制裁几年？而制裁中国貌似难好多倍</p>
+  </li>
+</ol>
+
+<p>—– <strong>111.2</strong> —–2019-03-17 10:24:20+08:00:</p>
+
+<p>真常委级别说，那就短期内动武的地步了</p>
+
+<p>—– <strong>111.3</strong> —–2019-03-17 10:25:42+08:00:</p>
+
+<p>…. 按你道理 美要灭中俄伊朝简直不用吹灰之力啊</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2019-03-25</time>
+        <a href="https://nodebe4.github.io/opinion/2019-03-25/Yvan888/">
+          Yvan888在2019-03-25~2019-03-31的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-03-18</time>
+        <a href="https://nodebe4.github.io/opinion/2019-03-18/Yvan888/">
+          Yvan888在2019-03-18~2019-03-24的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-03-04</time>
+        <a href="https://nodebe4.github.io/opinion/2019-03-04/Yvan888/">
+          Yvan888在2019-03-04~2019-03-10的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-02-26</time>
+        <a href="https://nodebe4.github.io/opinion/2019-02-26/Yvan888/">
+          Yvan888在2019-02-25~2019-03-03的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2019-03-10/%E6%BE%84%E6%B8%85-%E8%87%AA%E7%94%B1%E8%BD%AF%E4%BB%B6-%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6-%E7%9B%B8%E5%85%B3%E6%A6%82%E5%BF%B5%E5%8F%8A%E8%AE%B8%E5%8F%AF%E8%AF%81%E7%9A%84%E8%AF%AF%E8%A7%A3/">
+            前一篇：澄清“自由软件、开源软件”相关概念及许可证的误解
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2019-03-11/%E5%85%A8%E7%90%83%E5%90%84%E5%9C%B0%E7%9A%84%E8%97%8F%E4%BA%BA%E4%B8%8E%E6%8F%B4%E8%97%8F%E8%80%85%E5%85%B1%E5%90%8C%E7%BA%AA%E5%BF%B5%E8%A5%BF%E8%97%8F%E8%87%AA%E7%94%B1%E6%8A%97%E6%9A%B4%E5%85%AD%E5%8D%81%E5%91%A8%E5%B9%B4/">
+            後一篇：全球各地的藏人与援藏者共同纪念西藏自由抗暴六十周年
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2019-03-10/%E6%BE%84%E6%B8%85-%E8%87%AA%E7%94%B1%E8%BD%AF%E4%BB%B6-%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6-%E7%9B%B8%E5%85%B3%E6%A6%82%E5%BF%B5%E5%8F%8A%E8%AE%B8%E5%8F%AF%E8%AF%81%E7%9A%84%E8%AF%AF%E8%A7%A3/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2019-03-11/%E5%85%A8%E7%90%83%E5%90%84%E5%9C%B0%E7%9A%84%E8%97%8F%E4%BA%BA%E4%B8%8E%E6%8F%B4%E8%97%8F%E8%80%85%E5%85%B1%E5%90%8C%E7%BA%AA%E5%BF%B5%E8%A5%BF%E8%97%8F%E8%87%AA%E7%94%B1%E6%8A%97%E6%9A%B4%E5%85%AD%E5%8D%81%E5%91%A8%E5%B9%B4/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2019-03-18/Yvan888/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2019-03-04/Yvan888/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2019-03-10/%E6%BE%84%E6%B8%85-%E8%87%AA%E7%94%B1%E8%BD%AF%E4%BB%B6-%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6-%E7%9B%B8%E5%85%B3%E6%A6%82%E5%BF%B5%E5%8F%8A%E8%AE%B8%E5%8F%AF%E8%AF%81%E7%9A%84%E8%AF%AF%E8%A7%A3/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2019-03-11/%E5%85%A8%E7%90%83%E5%90%84%E5%9C%B0%E7%9A%84%E8%97%8F%E4%BA%BA%E4%B8%8E%E6%8F%B4%E8%97%8F%E8%80%85%E5%85%B1%E5%90%8C%E7%BA%AA%E5%BF%B5%E8%A5%BF%E8%97%8F%E8%87%AA%E7%94%B1%E6%8A%97%E6%9A%B4%E5%85%AD%E5%8D%81%E5%91%A8%E5%B9%B4/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2019-03-18/Yvan888/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2019-03-04/Yvan888/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

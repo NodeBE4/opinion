@@ -1,0 +1,952 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>【年终专题】星火不灭：2022年华文媒体新生账号 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+【年终专题】星火不灭：2022年华文媒体新生账号
+——
+" />
+    <meta property="og:description" content="
+【年终专题】星火不灭：2022年华文媒体新生账号
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="【年终专题】星火不灭：2022年华文媒体新生账号" />
+    <meta property="twitter:title" content="【年终专题】星火不灭：2022年华文媒体新生账号" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fmatters.news%2F%40ChinaDT%2F%25E5%25B9%25B4%25E7%25BB%2588%25E4%25B8%2593%25E9%25A2%2598-%25E6%2598%259F%25E7%2581%25AB%25E4%25B8%258D%25E7%2581%25AD-2022%25E5%25B9%25B4%25E5%258D%258E%25E6%2596%2587%25E5%25AA%2592%25E4%25BD%2593%25E6%2596%25B0%25E7%2594%259F%25E8%25B4%25A6%25E5%258F%25B7-bafybeia74km2teekwqjkfy2d26ola35hxjx7tdp6dcuzbjc6p3b5raamxm" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://matters.news/@ChinaDT/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E6%98%9F%E7%81%AB%E4%B8%8D%E7%81%AD-2022%E5%B9%B4%E5%8D%8E%E6%96%87%E5%AA%92%E4%BD%93%E6%96%B0%E7%94%9F%E8%B4%A6%E5%8F%B7-bafybeia74km2teekwqjkfy2d26ola35hxjx7tdp6dcuzbjc6p3b5raamxm" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://matters.news/@ChinaDT/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E6%98%9F%E7%81%AB%E4%B8%8D%E7%81%AD-2022%E5%B9%B4%E5%8D%8E%E6%96%87%E5%AA%92%E4%BD%93%E6%96%B0%E7%94%9F%E8%B4%A6%E5%8F%B7-bafybeia74km2teekwqjkfy2d26ola35hxjx7tdp6dcuzbjc6p3b5raamxm&text=【年终专题】星火不灭：2022年华文媒体新生账号&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://matters.news/@ChinaDT/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E6%98%9F%E7%81%AB%E4%B8%8D%E7%81%AD-2022%E5%B9%B4%E5%8D%8E%E6%96%87%E5%AA%92%E4%BD%93%E6%96%B0%E7%94%9F%E8%B4%A6%E5%8F%B7-bafybeia74km2teekwqjkfy2d26ola35hxjx7tdp6dcuzbjc6p3b5raamxm&title=【年终专题】星火不灭：2022年华文媒体新生账号" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://matters.news/@ChinaDT/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E6%98%9F%E7%81%AB%E4%B8%8D%E7%81%AD-2022%E5%B9%B4%E5%8D%8E%E6%96%87%E5%AA%92%E4%BD%93%E6%96%B0%E7%94%9F%E8%B4%A6%E5%8F%B7-bafybeia74km2teekwqjkfy2d26ola35hxjx7tdp6dcuzbjc6p3b5raamxm&title=【年终专题】星火不灭：2022年华文媒体新生账号" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=【年终专题】星火不灭：2022年华文媒体新生账号&body=
+【年终专题】星火不灭：2022年华文媒体新生账号
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://matters.news/@ChinaDT/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E6%98%9F%E7%81%AB%E4%B8%8D%E7%81%AD-2022%E5%B9%B4%E5%8D%8E%E6%96%87%E5%AA%92%E4%BD%93%E6%96%B0%E7%94%9F%E8%B4%A6%E5%8F%B7-bafybeia74km2teekwqjkfy2d26ola35hxjx7tdp6dcuzbjc6p3b5raamxm" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://matters.news/@ChinaDT/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E6%98%9F%E7%81%AB%E4%B8%8D%E7%81%AD-2022%E5%B9%B4%E5%8D%8E%E6%96%87%E5%AA%92%E4%BD%93%E6%96%B0%E7%94%9F%E8%B4%A6%E5%8F%B7-bafybeia74km2teekwqjkfy2d26ola35hxjx7tdp6dcuzbjc6p3b5raamxm&title=【年终专题】星火不灭：2022年华文媒体新生账号&caption=
+【年终专题】星火不灭：2022年华文媒体新生账号
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=【年终专题】星火不灭：2022年华文媒体新生账号&url=https://matters.news/@ChinaDT/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E6%98%9F%E7%81%AB%E4%B8%8D%E7%81%AD-2022%E5%B9%B4%E5%8D%8E%E6%96%87%E5%AA%92%E4%BD%93%E6%96%B0%E7%94%9F%E8%B4%A6%E5%8F%B7-bafybeia74km2teekwqjkfy2d26ola35hxjx7tdp6dcuzbjc6p3b5raamxm" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>【年终专题】星火不灭：2022年华文媒体新生账号</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2023-01-02
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#中国数字时代">
+          中国数字时代
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://matters.news/@ChinaDT/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E6%98%9F%E7%81%AB%E4%B8%8D%E7%81%AD-2022%E5%B9%B4%E5%8D%8E%E6%96%87%E5%AA%92%E4%BD%93%E6%96%B0%E7%94%9F%E8%B4%A6%E5%8F%B7-bafybeia74km2teekwqjkfy2d26ola35hxjx7tdp6dcuzbjc6p3b5raamxm" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="中国数字时代的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#中国数字时代 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1672690410000-->
+<p><a href="https://matters.news/@ChinaDT/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E6%98%9F%E7%81%AB%E4%B8%8D%E7%81%AD-2022%E5%B9%B4%E5%8D%8E%E6%96%87%E5%AA%92%E4%BD%93%E6%96%B0%E7%94%9F%E8%B4%A6%E5%8F%B7-bafybeia74km2teekwqjkfy2d26ola35hxjx7tdp6dcuzbjc6p3b5raamxm">【年终专题】星火不灭：2022年华文媒体新生账号</a>
+——</p>
+
+<div>
+  <p><strong>CDT编者按：2022年即将过去，中国数字时代为读者整理了年终专题，共7篇，包括年度网络流行语、年度404文章、年度敏感词、年度每日一语、年度名场面、年度新生媒体、年度人物。</strong></p>
+  <p><strong>本文是年终专题第六篇，上一篇是</strong><a href="https://chinadigitaltimes.net/chinese/691133.html" rel="noopener noreferrer" target="_blank"><strong>《年度名场面》</strong></a><strong>，下一篇是《年度人物》。</strong></p>
+  <p>2022年，华文世界涌现出许多新的资讯平台，其中有资深媒体人创办的节目，也有去中心化运营的新媒体，本文希望对新生华文媒体做一个小结。有许多我们未能收录，同时我们也相信还有更多媒体将在未来的某个时候被建立起来。去年，<a href="https://chinadigitaltimes.net/chinese/674605.html" rel="noopener noreferrer" target="_blank">我们向离开的账号道别</a>；今年，我们向留存“不正确集体记忆”的媒体致敬。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/e58de377-f6b3-4f10-a910-30d7ebdfd9d8.jpeg" data-asset-id="e58de377-f6b3-4f10-a910-30d7ebdfd9d8" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <figure class="embed-video">
+    <div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/hC7t4dKnLfQ?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+    </div>
+    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <h2 id="section"><strong>李老师</strong></h2>
+  <p>李老师不是你老师（<a href="https://twitter.com/whyyoutouzhele" rel="noopener noreferrer" target="_blank">@whyyoutouzhele</a>）今年4月开始活跃于推特，此前他于2021年起在微博上接受网友投稿，关注社会议题，前后共有几十个微博账号被封。据多家国际媒体报道，李老师2015年起生活在意大利。</p>
+  <p>今年11月郑州富士康抗议和随后的白纸运动期间，李老师的推特账户成为抗议讯息集散地，几周内吸引了大量关注，被许多国际媒体引用，是世界了解中国大陆抗争运动的窗口。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/001a7b51-b80b-4b68-9393-7ab217c5dbd6.png" data-asset-id="001a7b51-b80b-4b68-9393-7ab217c5dbd6" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>11月28日，李老师<a href="https://chinadigitaltimes.net/chinese/690307.html" rel="noopener noreferrer" target="_blank">表示</a>自己受到了疑似来自官方的死亡威胁，但强调自己并不会屈于压力噤声。</p>
+  <p>“就现在的情况而言，虽然我只是一个个人账号，但是如今只要是中国发生的所有突发事件，现场全是我的记者。对我来说，我是个画画的人，写一些蹩脚的爱情故事的人，这一切本就是和我很远的，但是你们用你们的言论管制创造了我。此刻，过去那么多年来我因为害怕你们而自我审查的折磨已经消失了。我再也不怕你们了。”</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/d6a4cd13-3ba7-4534-afb9-ed6eeddbdde0.png" data-asset-id="d6a4cd13-3ba7-4534-afb9-ed6eeddbdde0" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <h2 id="section-1"><strong>北方广场</strong></h2>
+  <p>北方广场2020年建立Instagram账号，分享八九学运的影像资料，也以树洞形式搜集和分享读者的心声，内容包括纪念六四、声援新疆、支持女权、反对言论审查等。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/3921d36e-b54f-4466-a667-3b7a6140295a.png" data-asset-id="3921d36e-b54f-4466-a667-3b7a6140295a" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>今年4月上海封城期间，北方广场开设了推特账号，接受读者投稿并分享他们的心路历程。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/dedf83d1-aeb0-43d3-a2bc-12c6cf38d44e.png" data-asset-id="dedf83d1-aeb0-43d3-a2bc-12c6cf38d44e" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>北方广场的运营者对媒体<a href="https://www.wainao.me/wainao-reads/inheriting-june-fourth-virtually-northern-square-06022022" rel="noopener noreferrer" target="_blank">表示</a>，相片有令人共情的力量，希望建立一个平台让中文世界的年轻人围炉取暖。“与其说传播政治观点，倒不如说它是我的一个个人艺术项目。我不是activist，也不是historian，只是一个artist，所以我从来不会做类似叫喊口号的事情，因为它有点烦，就像逼迫人接受某些东西。”</p>
+  <h2 id="section-2"><strong>公民日报</strong></h2>
+  <p><a href="https://www.instagram.com/citizensdailycn/" rel="noopener noreferrer" target="_blank">公民日报</a>2020年建立。2022年11月，许多中国留学生在世界各地校园里张贴海报声援白纸革命和北京四通桥抗争者彭在舟，公民日报通过投稿和转载有效聚合了这些抗争信息。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/370ca826-211f-42dc-a1df-56c555682bde.png" data-asset-id="370ca826-211f-42dc-a1df-56c555682bde" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/93740485-8d65-480a-a337-52426068a9ec.png" data-asset-id="93740485-8d65-480a-a337-52426068a9ec" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>公民日报同时运营英文版<a href="https://www.instagram.com/whatsup_beijing/?hl=en" rel="noopener noreferrer" target="_blank">whatsup_beijing</a>。</p>
+  <p>相似的账号还有很多，包括关注性少数群体的<a href="https://www.instagram.com/chinesequeerswillnotbecensored/" rel="noopener noreferrer" target="_blank">Chinese Queer Will Not Be Censored</a></p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/544d55e8-9830-4956-a5aa-d73366342615.png" data-asset-id="544d55e8-9830-4956-a5aa-d73366342615" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>搜集“中国留学生与海外青年的思考与发声”的<a href="https://www.instagram.com/noturlilpink/" rel="noopener noreferrer" target="_blank">不粉红</a></p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/ac437707-ba0b-4aac-a033-f8317eb11000.png" data-asset-id="ac437707-ba0b-4aac-a033-f8317eb11000" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>保存“简中世界里的良心”“高墙内的自由灵魂”的<a href="https://www.instagram.com/tears_in_rainbow/" rel="noopener noreferrer" target="_blank">小小泪滴</a></p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/7924598f-f8ae-4479-810c-a37619d19774.png" data-asset-id="7924598f-f8ae-4479-810c-a37619d19774" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <h2 id="section-3"><strong>不明白</strong></h2>
+  <p><a href="https://www.bumingbai.net/" rel="noopener noreferrer" target="_blank">不明白播客</a>，2022年5月上线，创办人是《纽约时报》专栏作家袁莉。节目开播以来邀请了许多华文世界的作者、学者以及在海内外参加抗议活动的年轻人对谈，讨论防疫政策、“润学”、中国媒体生态、性别议题、白纸革命等。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/bea72b32-3eda-4cb5-8e4e-7d3a32b92a08.jpeg" data-asset-id="bea72b32-3eda-4cb5-8e4e-7d3a32b92a08" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <h2 id="section-4"><strong>四季办公室</strong></h2>
+  <p>四季办公室是反派影评的分身。反派影评2016年上线，主持人是电影记者波米。在停更几个月后，反派影评今年10月底发布了系列节目《开局的终局》，其中说道：“不用在意某个节目留没留下来，或者这个号还在不在，反派只是个名字，名字不重要。阿斯加德是群人。回到开头，润出去的，希望你们落地生根，留下来的，咱们不做伥鬼。”</p>
+  <p>“不做伥鬼”一词在后来的白纸革命中被许多抗争者引用。《开局的终局》在墙内被404后，四季办公室播客平台收录了这三期节目，节目简介中写着：“反派听众手工抓取。”</p>
+  <h2 id="section-5">末<strong>路狂话</strong></h2>
+  <p>2022年11月上线，主持人是记者许秀中，她曾供职于《纽约时报》和澳大利亚战略政策研究所，对新疆“再教育营”和<a href="https://chinadigitaltimes.net/chinese/architecture-repression" rel="noopener noreferrer" target="_blank">强迫劳动</a>进行了深入报道。《末路狂话》节目简介中写道：“一个关于中国、时政、自由，和抗争的播客。可能夹带段子。” 第一期节目采访了在上海街头参与白纸革命的抗争者。</p>
+  <h2 id="section-6"><strong>追·新闻</strong></h2>
+  <p><a href="https://linktr.ee/thechasernews" rel="noopener noreferrer" target="_blank">追·新闻</a>于今年3月上线，由几位身在英国的香港资深新闻工作者创办。除了报道香港新闻和国际时事外，追·新闻还关注海外港人生活，为散居世界各地的香港读者提供资讯。在“编者的话”中，追·新闻团队写道，一粒麦子“若死了，就结出许多子粒来”。目前追·新闻主要在脸书、Instagram和YouTube等社交平台运营。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/c6d14c73-d027-4c7e-9f6a-376da4bf025a.jpeg" data-asset-id="c6d14c73-d027-4c7e-9f6a-376da4bf025a" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <h2 id="renews"><strong>reNews</strong></h2>
+  <p><a href="https://www.instagram.com/renews_hk/" rel="noopener noreferrer" target="_blank">ReNews</a>于今年4月推出，由前立场新闻记者林彦邦创办和运营，这位37岁的香港媒体人希望reNews可以<a href="https://www.patreon.com/reNews" rel="noopener noreferrer" target="_blank">填补香港的新闻空白</a>。他对媒体表示，reNews主要受众是以前《立场新闻》、《众新闻》和《苹果日报》的读者，“我希望做到的，是让香港人更容易掌握，真正要留意和关心的新闻时事… 如果这个城市正在走向死亡，作为身在其中的一员，最少，我们应当知道她是如何死去的。”</p>
+  <h2 id="section-7"><strong>法庭线</strong></h2>
+  <p><a href="https://thewitnesshk.com/feature/" rel="noopener noreferrer" target="_blank">法庭线（The Witness）</a>于今年5月推出，由几位前香港法庭记者创办。国安法实施后，多家媒体停办或迁离香港，法庭新闻报道减少，导致部分案件缺乏关注。法庭线推出只有几个月时间，已做过多篇<a href="https://thewitnesshk.com/feature/" rel="noopener noreferrer" target="_blank">深度报道</a>。比如，2019年修例运动期间香港理工大学示威者与警方发生冲突至今已有3年多时间，法庭线整合过去3年的法庭记录及新闻报道，包括被告姓名、年龄及控罪日期等，计算出结案率与定罪率。目前法庭线报道免费向读者开放。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/38c70979-21e3-4768-9455-8698b866918c.png" data-asset-id="38c70979-21e3-4768-9455-8698b866918c" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p><br /></p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#中国数字时代 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-02-12/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC276%E6%9C%9F-%E5%94%B1%E7%A6%81%E6%AD%8C-%E5%88%B0-%E7%A6%81%E6%AD%A2%E5%90%90%E6%A7%BD-%E8%A7%81%E8%AF%81%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E5%8F%98%E8%BF%81%E7%9A%84%E6%98%A5%E6%99%9A/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2021-12-14/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E4%B8%93%E8%AE%BF-%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3%E5%AF%B9%E8%AF%9D-%E8%A7%A3%E6%9E%84%E6%96%B0%E7%96%86%E9%95%87%E5%8E%8B-%E7%AC%AC%E4%B8%80%E4%BD%9C%E8%80%85%E8%AE%B8%E7%A7%80%E4%B8%AD/">最早</a>--</span>
+    
+      <li>
+        <time>2023-01-02</time>
+        <a href="https://nodebe4.github.io/opinion/2023-01-02/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-2022%E5%B9%B4%E7%9A%84%E6%88%91%E4%BB%AC-%E6%9C%89%E7%9D%80%E6%80%8E%E6%A0%B7%E7%9A%84%E9%9B%86%E4%BD%93%E8%AE%B0%E5%BF%86-2022%E5%B9%B4%E5%BA%A6%E4%B9%8B%E5%A3%B0/">
+          【年终专题】“2022年的我们，有着怎样的集体记忆？”……2022年度之声
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-01-02</time>
+        <a href="https://nodebe4.github.io/opinion/2023-01-02/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E5%9B%A0%E4%B8%BA%E5%8F%97%E5%A4%9F%E4%BA%86%E5%A4%9C%E6%99%9A%E5%B0%B1%E5%8F%98%E6%88%90%E7%81%AB%E7%82%AC-%E4%BD%A0%E4%B8%BE%E8%B5%B7%E4%BA%86%E7%9C%9F%E6%AD%A3%E7%9A%84%E8%87%AA%E5%B7%B1-2022%E5%B9%B4%E5%BA%A6%E4%BA%BA%E7%89%A9-%E5%9B%9B%E9%80%9A%E6%A1%A5%E5%8B%87%E5%A3%AB%E5%BD%AD%E7%AB%8B%E5%8F%91%E4%B8%8E/">
+          【年终专题】“因为受够了夜晚就变成火炬，你举起了真正的自己”……2022年度人物：四通桥勇士彭立发与白纸抗议者
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-01-02</time>
+        <a href="https://nodebe4.github.io/opinion/2023-01-02/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E4%B8%8D%E8%A6%81%E9%A2%86%E8%A2%96%E8%A6%81%E9%80%89%E7%A5%A8-%E4%B8%8D%E5%81%9A%E5%A5%B4%E6%89%8D%E5%81%9A%E5%85%AC%E6%B0%91-2022%E5%B9%B4%E5%BA%A6%E5%90%8D%E5%9C%BA%E9%9D%A2/">
+          【年终专题】“不要领袖要选票，不做奴才做公民”……2022年度名场面
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-01-02</time>
+        <a href="https://nodebe4.github.io/opinion/2023-01-02/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E9%AD%94%E5%B9%BB%E6%8A%97%E7%96%AB%E6%94%BB%E9%98%B2%E6%88%98-2022%E5%B9%B4%E5%BA%A6-%E6%AF%8F%E6%97%A5%E4%B8%80%E8%AF%AD/">
+          【年终专题】魔幻抗疫攻防战：2022年度“每日一语”
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2023-01-02/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E4%B8%8D%E8%A6%81%E9%A2%86%E8%A2%96%E8%A6%81%E9%80%89%E7%A5%A8-%E4%B8%8D%E5%81%9A%E5%A5%B4%E6%89%8D%E5%81%9A%E5%85%AC%E6%B0%91-2022%E5%B9%B4%E5%BA%A6%E5%90%8D%E5%9C%BA%E9%9D%A2/">
+            前一篇：【年终专题】“不要领袖要选票，不做奴才做公民”……2022年度名场面
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2023-01-02/2022-%E8%AE%B0%E4%BD%8F%E9%9D%92%E5%B9%B4%E5%B8%A6%E6%9D%A5%E7%9A%84%E5%85%89%E4%BA%AE-%E6%B1%9F%E9%9B%AA/">
+            後一篇：2022 记住青年带来的光亮 ｜ 江雪
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2023-01-02/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E4%B8%8D%E8%A6%81%E9%A2%86%E8%A2%96%E8%A6%81%E9%80%89%E7%A5%A8-%E4%B8%8D%E5%81%9A%E5%A5%B4%E6%89%8D%E5%81%9A%E5%85%AC%E6%B0%91-2022%E5%B9%B4%E5%BA%A6%E5%90%8D%E5%9C%BA%E9%9D%A2/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2023-01-02/2022-%E8%AE%B0%E4%BD%8F%E9%9D%92%E5%B9%B4%E5%B8%A6%E6%9D%A5%E7%9A%84%E5%85%89%E4%BA%AE-%E6%B1%9F%E9%9B%AA/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2023-01-02/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E5%9B%A0%E4%B8%BA%E5%8F%97%E5%A4%9F%E4%BA%86%E5%A4%9C%E6%99%9A%E5%B0%B1%E5%8F%98%E6%88%90%E7%81%AB%E7%82%AC-%E4%BD%A0%E4%B8%BE%E8%B5%B7%E4%BA%86%E7%9C%9F%E6%AD%A3%E7%9A%84%E8%87%AA%E5%B7%B1-2022%E5%B9%B4%E5%BA%A6%E4%BA%BA%E7%89%A9-%E5%9B%9B%E9%80%9A%E6%A1%A5%E5%8B%87%E5%A3%AB%E5%BD%AD%E7%AB%8B%E5%8F%91%E4%B8%8E/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2023-01-02/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E4%B8%8D%E8%A6%81%E9%A2%86%E8%A2%96%E8%A6%81%E9%80%89%E7%A5%A8-%E4%B8%8D%E5%81%9A%E5%A5%B4%E6%89%8D%E5%81%9A%E5%85%AC%E6%B0%91-2022%E5%B9%B4%E5%BA%A6%E5%90%8D%E5%9C%BA%E9%9D%A2/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2023-01-02/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E4%B8%8D%E8%A6%81%E9%A2%86%E8%A2%96%E8%A6%81%E9%80%89%E7%A5%A8-%E4%B8%8D%E5%81%9A%E5%A5%B4%E6%89%8D%E5%81%9A%E5%85%AC%E6%B0%91-2022%E5%B9%B4%E5%BA%A6%E5%90%8D%E5%9C%BA%E9%9D%A2/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2023-01-02/2022-%E8%AE%B0%E4%BD%8F%E9%9D%92%E5%B9%B4%E5%B8%A6%E6%9D%A5%E7%9A%84%E5%85%89%E4%BA%AE-%E6%B1%9F%E9%9B%AA/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<中国数字时代>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2023-01-02/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E5%9B%A0%E4%B8%BA%E5%8F%97%E5%A4%9F%E4%BA%86%E5%A4%9C%E6%99%9A%E5%B0%B1%E5%8F%98%E6%88%90%E7%81%AB%E7%82%AC-%E4%BD%A0%E4%B8%BE%E8%B5%B7%E4%BA%86%E7%9C%9F%E6%AD%A3%E7%9A%84%E8%87%AA%E5%B7%B1-2022%E5%B9%B4%E5%BA%A6%E4%BA%BA%E7%89%A9-%E5%9B%9B%E9%80%9A%E6%A1%A5%E5%8B%87%E5%A3%AB%E5%BD%AD%E7%AB%8B%E5%8F%91%E4%B8%8E/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<中国数字时代>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2023-01-02/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E4%B8%8D%E8%A6%81%E9%A2%86%E8%A2%96%E8%A6%81%E9%80%89%E7%A5%A8-%E4%B8%8D%E5%81%9A%E5%A5%B4%E6%89%8D%E5%81%9A%E5%85%AC%E6%B0%91-2022%E5%B9%B4%E5%BA%A6%E5%90%8D%E5%9C%BA%E9%9D%A2/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

@@ -1,0 +1,2309 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Spinkcat在2019-10-14~2019-10-20的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Spinkcat在2019-10-14~2019-10-20的言论" />
+    <meta property="twitter:title" content="Spinkcat在2019-10-14~2019-10-20的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FChina_irl%2Fcomments%2Fdhddwd%2F%E9%A6%99%E6%B8%AF%E5%B8%82%E6%B0%91%E8%8D%83%E7%81%A3%E6%B8%85%E7%90%86%E5%A1%97%E9%B4%89%E9%A6%99%E6%B8%AF%E7%9A%84%E5%B8%8C%E6%9C%9B%E6%B2%89%E9%BB%98%E7%9A%84%E5%A4%A7%E5%A4%9A%E6%95%B0%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/China_irl/comments/dhddwd/香港市民荃灣清理塗鴉香港的希望沉默的大多数/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/China_irl/comments/dhddwd/香港市民荃灣清理塗鴉香港的希望沉默的大多数/&text=Spinkcat在2019-10-14~2019-10-20的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/China_irl/comments/dhddwd/香港市民荃灣清理塗鴉香港的希望沉默的大多数/&title=Spinkcat在2019-10-14~2019-10-20的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/China_irl/comments/dhddwd/香港市民荃灣清理塗鴉香港的希望沉默的大多数/&title=Spinkcat在2019-10-14~2019-10-20的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Spinkcat在2019-10-14~2019-10-20的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/China_irl/comments/dhddwd/香港市民荃灣清理塗鴉香港的希望沉默的大多数/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/China_irl/comments/dhddwd/香港市民荃灣清理塗鴉香港的希望沉默的大多数/&title=Spinkcat在2019-10-14~2019-10-20的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Spinkcat在2019-10-14~2019-10-20的言论&url=https://old.reddit.com/r/China_irl/comments/dhddwd/香港市民荃灣清理塗鴉香港的希望沉默的大多数/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Spinkcat在2019-10-14~2019-10-20的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2019-10-20
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://www.reddit.com/user/Spinkcat/" style="font-size:14px;">作者: Spinkcat</a>
+        </span>
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/China_irl/comments/dhddwd/香港市民荃灣清理塗鴉香港的希望沉默的大多数/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#438-香港市民荃灣清理塗鴉香港的希望沉默的大多数-submitted-on-2019-10-14-0115080800" id="markdown-toc-438-香港市民荃灣清理塗鴉香港的希望沉默的大多数-submitted-on-2019-10-14-0115080800">438: 香港市民荃灣清理塗鴉：香港的希望，沉默的大多数, submitted on 2019-10-14 01:15:08+08:00.</a></li>
+  <li><a href="#439-赵紫阳百岁诞辰-子女港媒发文-submitted-on-2019-10-15-1740500800" id="markdown-toc-439-赵紫阳百岁诞辰-子女港媒发文-submitted-on-2019-10-15-1740500800">439: 赵紫阳百岁诞辰 子女港媒发文, submitted on 2019-10-15 17:40:50+08:00.</a></li>
+  <li><a href="#440-有一说一这波没了吧-submitted-on-2019-10-16-0144130800" id="markdown-toc-440-有一说一这波没了吧-submitted-on-2019-10-16-0144130800">440: 有一说一，这波没了吧, submitted on 2019-10-16 01:44:13+08:00.</a></li>
+  <li><a href="#441-加泰罗尼亚独立-submitted-on-2019-10-16-0205080800" id="markdown-toc-441-加泰罗尼亚独立-submitted-on-2019-10-16-0205080800">441: 加泰罗尼亚独立？, submitted on 2019-10-16 02:05:08+08:00.</a></li>
+  <li><a href="#442-social-credit-score这种夸张得没边的新闻在reddit能大行其道也是绝了-submitted-on-2019-10-16-1131210800" id="markdown-toc-442-social-credit-score这种夸张得没边的新闻在reddit能大行其道也是绝了-submitted-on-2019-10-16-1131210800">442: Social credit score这种夸张得没边的新闻在reddit能大行其道也是绝了, submitted on 2019-10-16 11:31:21+08:00.</a></li>
+  <li><a href="#443-大家怎么看胡锡进和香港示威者的对话-submitted-on-2019-10-16-2136200800" id="markdown-toc-443-大家怎么看胡锡进和香港示威者的对话-submitted-on-2019-10-16-2136200800">443: 大家怎么看胡锡进和香港示威者的对话？, submitted on 2019-10-16 21:36:20+08:00.</a></li>
+  <li><a href="#444-bbc中国电影审查实录撤档潮中-影人的困兽之斗-submitted-on-2019-10-18-1228560800" id="markdown-toc-444-bbc中国电影审查实录撤档潮中-影人的困兽之斗-submitted-on-2019-10-18-1228560800">444: BBC：中国电影审查实录：撤档潮中 影人的困兽之斗, submitted on 2019-10-18 12:28:56+08:00.</a></li>
+  <li><a href="#445-三季度gdp同比增速跌至6-四季度政策会放松吗-submitted-on-2019-10-19-0645420800" id="markdown-toc-445-三季度gdp同比增速跌至6-四季度政策会放松吗-submitted-on-2019-10-19-0645420800">445: 三季度GDP同比增速跌至6% 四季度政策会放松吗？, submitted on 2019-10-19 06:45:42+08:00.</a></li>
+  <li><a href="#446-北京观察王岐山角色并非想像中神秘-submitted-on-2019-10-19-1005200800" id="markdown-toc-446-北京观察王岐山角色并非想像中神秘-submitted-on-2019-10-19-1005200800">446: 【北京观察】王岐山角色并非想像中神秘, submitted on 2019-10-19 10:05:20+08:00.</a></li>
+  <li><a href="#447-中共管审查的是不是智商都有问题-submitted-on-2019-10-20-0649220800" id="markdown-toc-447-中共管审查的是不是智商都有问题-submitted-on-2019-10-20-0649220800">447: 中共管审查的是不是智商都有问题, submitted on 2019-10-20 06:49:22+08:00.</a></li>
+  <li><a href="#448-李顯龍談香港五大訴求旨在羞辱拖垮港府-不為解決社會問題-submitted-on-2019-10-20-0825110800" id="markdown-toc-448-李顯龍談香港五大訴求旨在羞辱拖垮港府-不為解決社會問題-submitted-on-2019-10-20-0825110800">448: 【李顯龍談香港】五大訴求旨在「羞辱拖垮港府」 不為解決社會問題, submitted on 2019-10-20 08:25:11+08:00.</a></li>
+  <li><a href="#449-以后谁还敢和美国并肩作战-submitted-on-2019-10-20-1921230800" id="markdown-toc-449-以后谁还敢和美国并肩作战-submitted-on-2019-10-20-1921230800">449: 以后谁还敢和美国并肩作战？, submitted on 2019-10-20 19:21:23+08:00.</a></li>
+</ul>
+
+<h3 id="438-香港市民荃灣清理塗鴉香港的希望沉默的大多数-submitted-on-2019-10-14-0115080800">438: <a href="https://old.reddit.com/r/China_irl/comments/dhddwd/香港市民荃灣清理塗鴉香港的希望沉默的大多数/">香港市民荃灣清理塗鴉：香港的希望，沉默的大多数</a>, submitted on 2019-10-14 01:15:08+08:00.</h3>
+
+<p>—– <strong>438.1</strong> —–2019-10-14 05:13:20+08:00:</p>
+
+<p>真正能证明沉默的大多数的，只有游行上街的人数或者选票。</p>
+
+<p>香港现在没有全面普选，但靠直选得到的议席已经胜过中共支持者语境里的“沉默的大多数”，如果想进一步证明，就需要普选，而这恰巧是中共不愿意的，那么孰胜孰负则已高下立判。</p>
+
+<p>另一方面，实际行动也证明了什么是真正的大多数，警察自己验证了的二百万人游行只是其中一次，上百万人的全港十八区游行，持续了四个月，林郑的见面会里，超过八成都是反修例人士，这还是随机抽的比例，那么事实结果显而易见。</p>
+
+<p>有些人，掐头去尾，不把那些真正多人的活动举例出来去称呼他们是大多数，反而自己拿个视频就当“沉默的大多数”，难道有人不让他去找612游行的人数规模么？香港这四个月，差不多每个星期天香港各区都会有一次百万人的游行集会。</p>
+
+<p>普选票又不敢开，游行示威后政府又装死，这就是有些人没有现实感，只能自我沉醉在自己认定的事实里导致其失败的根本原因，相比之下，不说你认同不认同，但连登或者示威者无论激进还是和理非，危机与现实感远超国内现在的年轻人，做法和反应速度之快，都不是同一代想支持中共小粉红或某些四五十岁蓝丝们能比拟的。</p>
+
+<p>我奉劝某些朋友别三根鸡毛就来指点江山，对大家和社区都好。</p>
+
+<p>—– <strong>438.2</strong> —–2019-10-15 05:52:37+08:00:</p>
+
+<p>李光耀一直在放彩虹屁和带私货，这是我之前就说过很多次的了，他自己本身就是民主制度最大的受益人，否则李光耀现在就跟东南亚其他国家独立后的领导者一样被赶下台了。然后他在四十多年后回过头去批判近半个世纪前英国本来就不是为了推行民主而实施的殖民地政策，哪怕当代美国也不会无差别的为自己外在的盟友所推行的政策买单，是毫无社会发展与经济常识的说法。</p>
+
+<p>李光耀后来的政策完全背离了他在留学时代所学到的经济与社会基本常识，过于极端的实用主义，还有臀脑分离的执政与言论不一，导致很多人看他说“我不认为民主带来进步”，却看不到他实际上就是在用民主制度推动进步，而极端实用主义的影子下又制造了严重的社会矛盾却不在自己任内解决，在提供一定量的社会福利后，就任由问题扩大，政府的责任与职能失调。</p>
+
+<p>这就跟中国一边口头坚持社会主义道路，但实际上却采取资本主义的市场制度或混改，从中获取成果后，另一面宣布这是共产社会主义的初阶胜利，然后在这种不前不后的制度下所形成的社会矛盾与阶级分化，就归于资本主义的市场制度问题，而只字不提所谓“实用主义”的边界极限。</p>
+
+<p>网上大部分人都是自己引用名人的话，对威权主义有一套不去思考的默认信任，完全是在自己没有调查与了解的背景下，把思考的过程和权力放弃。</p>
+
+<p>—– <strong>438.3</strong> —–2019-10-15 09:49:50+08:00:</p>
+
+<p>我怎么就没有资格了？现在可不是门阀时代，有知识储备就能解释现象不代表狂妄自大，不过有的人迷信权威的缘故是自己没办法解释，不代表所有人都没这个资格吧。新加坡问题李光耀很清楚，但说的话跟他做的事相反，还难发现他言行不一么。</p>
+
+<h3 id="439-赵紫阳百岁诞辰-子女港媒发文-submitted-on-2019-10-15-1740500800">439: <a href="https://old.reddit.com/r/saraba1st/comments/di5hm4/赵紫阳百岁诞辰_子女港媒发文/">赵紫阳百岁诞辰 子女港媒发文</a>, submitted on 2019-10-15 17:40:50+08:00.</h3>
+
+<p>—– <strong>439.1</strong> —–2019-10-16 10:09:58+08:00:</p>
+
+<p>连登到现在我没看到有纪念赵紫阳诞辰的例子，反倒看到有进一步批判赵紫阳的文章，把早年赵紫阳在大跃进时期在广东执政的错误拿来将他划到跟六四后的中共人士同一条线的去批判，我看是药丸。</p>
+
+<p>偏偏赵紫阳百岁诞辰时发生了香港的事，重复了三十年前他七十岁时让他下台的问题，香港本地平时示威那么多人，临近赵紫阳诞辰却毫无相关的纪念活动，是不是武可以，文就不行。</p>
+
+<p>不了解赵紫阳这个人的前后自我反省，怎么能通过他在历史上的抉择去惊醒老一辈或者新一代大陆的人去认真思考问题？</p>
+
+<p>文宣贴赵紫阳的自我批判文录，以及对中国未来的思考，打破邓小平式的极端实用主义论点，比什么都要强。</p>
+
+<p>—– <strong>439.2</strong> —–2019-10-17 04:25:13+08:00:</p>
+
+<p>根本就不应该是为了什么去纪念，而是赵紫阳这个人和他做的选择就应该被纪念，全国有几个地方可以在唯一一次百周年诞辰时公开上街纪念他？香港现在不做，以后会后悔。</p>
+
+<h3 id="440-有一说一这波没了吧-submitted-on-2019-10-16-0144130800">440: <a href="https://old.reddit.com/r/China_irl/comments/dibgid/有一说一这波没了吧/">有一说一，这波没了吧</a>, submitted on 2019-10-16 01:44:13+08:00.</h3>
+
+<p>—– <strong>440.1</strong> —–2019-10-16 03:10:15+08:00:</p>
+
+<p>千古硬汉习近平</p>
+
+<h3 id="441-加泰罗尼亚独立-submitted-on-2019-10-16-0205080800">441: <a href="https://old.reddit.com/r/saraba1st/comments/dibro0/加泰罗尼亚独立/">加泰罗尼亚独立？</a>, submitted on 2019-10-16 02:05:08+08:00.</h3>
+
+<p>—– <strong>441.1</strong> —–2019-10-16 10:04:07+08:00:</p>
+
+<p>很难有参考性，虽然直观很类似，但加泰罗尼亚独立失败是因为西班牙的政府和宪法有合法性的验证，通过了选票的洗礼，而加泰罗尼亚独立是完全无视宪法与合法议会的一种做法，是来自于加泰罗尼亚本地政府议会与行政人员的决定，并且这个决定在2017年以前，在加泰罗尼亚本地的选民、议会和政府内部都有很大的争议。</p>
+
+<p>强行独立程序本身也是违反选票所赋予的全国合法性的，香港在这方面并没有一个选票的合法性作为前提，完全是靠威权管制。</p>
+
+<p>在西班牙结束独裁统治后，订立宪法的过程里，加泰罗尼亚是有份参与宪法的订立和政府的运作组成，在经济危机爆发前，加泰罗尼亚的独立声音未有过如此之大，没有形成治权与经济责任不对等的状况。</p>
+
+<p>欧洲本地很多人认为，加泰罗尼亚政府原本是想借着公投结果与西班牙政府谈判来获取更大的治权，但最终双方都硬到底，导致西班牙单方面拒绝谈判，加泰罗尼亚则被迫通过独立来推进整个过程。</p>
+
+<p>这就跟香港例子很难来对等参考，首先第香港的宪法，也就是基本法的成立与讨论，没有经过全民性合法政府的研判，香港本地人在中英谈判里也是没有话语权的，其次香港本地不是一个能代表广泛民意的独立行政政府，既没有普遍性选举，仅有的代议制也不能代表全民，在政治上也完全听从中央政府的政治指令。</p>
+
+<p>与西班牙不同，中国的中央政府，同样跟香港政府一样没有全民的合法性验证，其宪法如同笑话一般不能在法院判决里作为依据被引用，本质上来说，中共政权是合法性很低，甚至完全不合法的 。</p>
+
+<p>香港的独立也并不是寻求为了独立而独立，或者不想承担更多经济压力而独立，纯粹是为了寻求政治的话语权，也就是真正的自治，当自治渠道不通，才退而求其次寻求独立的道路，但绝大部分香港人都知道独立是不现实的。</p>
+
+<p>加泰罗尼亚可以参考的对象，应该是刘仲敬的诸夏理论，一个合法化的全国政府与得到全国承认的行政机制，地方如何在没有群体基础的前提下垄断天然地理、资源与工业利益然后无争议的达成独立，加泰罗尼亚其实证明给我们看了，在有制宪共识的历史旧账面前，想不认账独立是很难的，而且就算独立了，本地的基础产业也会随着大量的劳动力流出而崩溃。</p>
+
+<p>否则现在国内所实行的户籍制度本质上就是一种阶梯递进式的“外籍劳工”在地工作签证，既不需要承担他们的福利与社会成本，还能榨取物美价廉的劳动价值，加泰罗尼亚和上海等地都有这个现象，所以独立道路上不可能不受到来自于其他地区的阻力，事实上一旦脱离双方的经济都会大幅度下滑。</p>
+
+<p>香港目前的入境机制比加泰罗尼亚严格太多，说夸张点已经事实上独立，经济上不承担纳税义务，但提供大陆的间接利润给大陆政府，是一种比较好的互动关系，反而很适合西班牙，区别就在于加泰罗尼亚要的是经济压力下降，而不是要独立本身，香港是要加泰罗尼亚所拥有的政治自治，也不是独立。</p>
+
+<p>香港如果在西班牙治下，是完全可以争取到的，因为西班牙政府是个依靠民选来自证合法性的，在中国反而行不通，加泰罗尼亚与香港是完全相反的例子。</p>
+
+<h3 id="442-social-credit-score这种夸张得没边的新闻在reddit能大行其道也是绝了-submitted-on-2019-10-16-1131210800">442: <a href="https://old.reddit.com/r/China_irl/comments/dijgql/social_credit_score这种夸张得没边的新闻在reddit能大行其道也是绝了/">Social credit score这种夸张得没边的新闻在reddit能大行其道也是绝了</a>, submitted on 2019-10-16 11:31:21+08:00.</h3>
+
+<p>—– <strong>442.1</strong> —–2019-10-16 14:18:01+08:00:</p>
+
+<p>我不反对质疑这些是否属实的观点，但我感觉十年以内，这样的观点会越来越少，因为到时候除非有的人是嘴硬心里不服输的，否则现实里大概率已经在别人或自己身上见识过了。</p>
+
+<h3 id="443-大家怎么看胡锡进和香港示威者的对话-submitted-on-2019-10-16-2136200800">443: <a href="https://old.reddit.com/r/China_irl/comments/dipf41/大家怎么看胡锡进和香港示威者的对话/">大家怎么看胡锡进和香港示威者的对话？</a>, submitted on 2019-10-16 21:36:20+08:00.</h3>
+
+<p>—– <strong>443.1</strong> —–2019-10-17 01:00:44+08:00:</p>
+
+<p>暴力是最有效的办法，但也是最后的选择，中外历朝历代，能谈判的往往都不需要太多暴力解决问题，而不能谈判的最后都被暴力解决了，这是历史规律，沉浸在**<strong>“暴力是坏的，暴力不能解决问题”</strong>**里的这种童话思维，是无法解释人类历史发展轨道的。</p>
+
+<p>全世界都有眼睛看到，暴力是逐渐升级，而不是一开始就是高程度的暴力，香港有和平解决的渠道，中央与香港特区政府也有这个历史责任和义务，在没有选票自证合法性的前提，放低特权所带来的傲慢姿态给自己续命，而不是逼民众坚定推翻其的决心，哪怕支持政府的人也应该明白这点，和平选举是大家不同意见或利益都可以非暴力合作达致共赢的手法，为什么特权阶级不做？话说到这，就反应出有的人蠢，有的人则是坏了。</p>
+
+<p>民众没天然义务必须听从政府所谓的“无暴力”，然后政府依然为所欲为，政府没有选票的合法性自证，虽然这也说可能很肉酸，但跟法国大革命一样把贵族全挂路灯，也是合情合理符合人类社会规则一件事，是具备天然合法性的一种社会矫正机制所赋予的本能。</p>
+
+<p>不能合作的人死光了，活下来的人大家再一起合作呗。如果能合作的话，那些死人为什么不早点改革，清皇室如果肯君主立宪，孙中山等“恐暴分子”也不需要从改良派到改革派，然后变成激进暴力武装主义，恐怕到现在中国还跟日本一样是君主立宪。</p>
+
+<p>—– <strong>443.2</strong> —–2019-10-17 04:23:32+08:00:</p>
+
+<p>第一阶段是和平诉求表达基本的政治权力不成，自然上升到第二极端的被迫靠武力达成政治目的，然后随着特权阶级硬度高居不下，对基层打压增加，就到了第三阶段反抗者被迫将进一步提升武力，从武力表达不满，到不得不靠武力推翻特权阶级达到自保。</p>
+
+<p>几乎全世界都是在重复这个演化过程，社会有相当多的人接受武力表达诉求时，社会就必须改变，如果不改变，那这个文明是没法进步，所以演化上就会出现更极端的暴力去解决更固执贪婪的特权阶级，从而让社会秩序洗牌。</p>
+
+<p>大陆现在处于大部分地区第一阶段，少数地区第二阶段但被压下来了，香港是普遍第二阶段，靠香港推翻中共是不可能的，但大陆经济只要下滑到一个临界点，就会有超出维稳力量的第二阶段全国性爆发，这个时候搞改革也是可以的，但并不乐观。</p>
+
+<p>你说的武装夺权，还远没到这个程度。</p>
+
+<h3 id="444-bbc中国电影审查实录撤档潮中-影人的困兽之斗-submitted-on-2019-10-18-1228560800">444: <a href="https://old.reddit.com/r/China_irl/comments/djibh1/bbc中国电影审查实录撤档潮中_影人的困兽之斗/">BBC：中国电影审查实录：撤档潮中 影人的困兽之斗</a>, submitted on 2019-10-18 12:28:56+08:00.</h3>
+
+<p>—– <strong>444.1</strong> —–2019-10-18 16:34:29+08:00:</p>
+
+<p>以张艺谋为例，他与习近平不和，而且是早在奥运举办前就发生的事情。到了奥运筹备过程里，习近平做领导小组组长，张艺谋作为总导演，双方就有很多不愉快，这些是小道消息证实，八九不离十。</p>
+
+<p>比较靠谱的维基解密，提到过习近平入主上海前，已经对张艺谋颇有微词了。习近平上台前，张艺谋拍电影基本保持在大约一年或两年一部的速度，2010年前后还早期尝试文革题材，后来习近平权力稳固时，开始敲打张艺谋，他很快就转向去好莱坞尝试寻求出路。</p>
+
+<p>结果长城碰壁以后，张艺谋没有其他退路，习近平2014和16年又对他抛了橄榄枝，估计还有人作保，所以张艺谋后来在墙内地位虽然下降了，但不至于跟黄宏赵本山一类被几乎彻底打倒或边缘化。</p>
+
+<p>现在给他投资一秒钟的呼惠，就是这十年来不断扩大市场控制力的一个不知背景人士，把很多市面的大公司股份通过一些没法知道内幕交易细节的手段，匪夷所思的给吞到自己名下。</p>
+
+<p>所以能大概推测出张艺谋被习近平放生是特例，背后是有红二代或白手套支持与保护，习近平至少十年前就表现出电影要输出价值观这种倾向。</p>
+
+<p>张艺谋还拍文革，那些有背景的人还敢给他投资，同时又没有在墙内被干烂，只能说明要么“一秒钟”是个“忆苦思甜”的自虐式变相赞美文革的电影，要么一秒钟的过审的特例，此一时彼一时，张艺谋年初被小小的敲打不影响他在国庆阅兵上联合导演的地位，“我和我的祖国”却没有张艺谋，所以这里的变化很让人在意。</p>
+
+<p>根据习近平对电影的看法和塑造，中国电影作为完全的宣传工具只是个时间问题，但他个人比较爱好商业电影，所以普通商业电影的运作空间应该还有不小的幅度，不会彻底失去电影的娱乐属性。</p>
+
+<p>电影管控上，我觉得极速加大管控，是去年下半年开始到今年的事情，之前还没有在这个领域上下特别大的成本，只是温和地不断升级，而到了2018年开始，升级力度基本上就是一年当三年用，大体可以理解为行政力量解决了其他紧急的麻烦，有时间转过头来搞电影了，当然对电影人的宽容度上，中共当局还是比其他行业从业者要高一些，在其社会属性所产生的社会影响力和价值上，仍然给很多人开了一条投诚的路，比如赵本山之流，打压到尽头就谷底反弹，官僚入罪的，黄宏一类则是被踢出桌面，也算是运气好。</p>
+
+<h3 id="445-三季度gdp同比增速跌至6-四季度政策会放松吗-submitted-on-2019-10-19-0645420800">445: <a href="https://old.reddit.com/r/China_irl/comments/djv5rb/三季度gdp同比增速跌至6_四季度政策会放松吗/">三季度GDP同比增速跌至6% 四季度政策会放松吗？</a>, submitted on 2019-10-19 06:45:42+08:00.</h3>
+
+<p>—– <strong>445.1</strong> —–2019-10-19 08:23:13+08:00:</p>
+
+<p>现在已经在减税了，给融资平台和金融市场更大的空间，也说要引入更多的外资，变相是给国内投资市场提供新血，不过让人好奇的是，长期保持积极财政政策，增发债务和地方财政刚性支出的背景下，现在突然开始紧缩财政与减税，可以理解为逼不得已都不会做，因为这一行为都是政府背锅，民间得益为主，而中国目前经济结构又是国进民退，那得益的中小民企作为受众数量又少，减税促消费的经济目的是否又如预期般呢？</p>
+
+<p>根据以往的惯例和经验，每年第四季度的实际经济增长会有所回升，所以下个季度应该会在6％以上或不低于6％，然后看看明年第一季度的经济增长是什么样，就知道大趋势了。</p>
+
+<p>中国现在给人的经济政策，就是想国进民退一把抓死经济与社会的维稳根源，但又怕市场影响太大造成翻车效应，一会紧一会松，在没有重大经济危机前，停止实质性的开放市场改革基本是板上钉的事情，所谓金融开放市场只是把密封的领域缩小了，外围扩大了国外资本的投资渠道，仍然没法真正进入核心的“国企垄断”领域。</p>
+
+<h3 id="446-北京观察王岐山角色并非想像中神秘-submitted-on-2019-10-19-1005200800">446: <a href="https://old.reddit.com/r/China_irl/comments/djxjhy/北京观察王岐山角色并非想像中神秘/">【北京观察】王岐山角色并非想像中神秘</a>, submitted on 2019-10-19 10:05:20+08:00.</h3>
+
+<p>—– <strong>446.1</strong> —–2019-10-19 12:55:04+08:00:</p>
+
+<p>拜郭文贵所赐，王岐山是我们大众从头到尾最熟悉的一个常委了。</p>
+
+<h3 id="447-中共管审查的是不是智商都有问题-submitted-on-2019-10-20-0649220800">447: <a href="https://old.reddit.com/r/China_irl/comments/dkb0zx/中共管审查的是不是智商都有问题/">中共管审查的是不是智商都有问题</a>, submitted on 2019-10-20 06:49:22+08:00.</h3>
+
+<p>—– <strong>447.1</strong> —–2019-10-20 13:18:42+08:00:</p>
+
+<p>我认为提这些观点的人，是还不够了解中共的管制基础是什么，以及其政权本质。</p>
+
+<h3 id="448-李顯龍談香港五大訴求旨在羞辱拖垮港府-不為解決社會問題-submitted-on-2019-10-20-0825110800">448: <a href="https://old.reddit.com/r/China_irl/comments/dkc7q0/李顯龍談香港五大訴求旨在羞辱拖垮港府_不為解決社會問題/">【李顯龍談香港】五大訴求旨在「羞辱拖垮港府」 不為解決社會問題</a>, submitted on 2019-10-20 08:25:11+08:00.</h3>
+
+<p>—– <strong>448.1</strong> —–2019-10-20 09:34:24+08:00:</p>
+
+<p>问题是香港政府没有任何资格谈“不被羞辱”的条件，条例是他们强行推订，最早也只有两个诉求，香港政府也没有合法性与管制威信可言。香港的社会问题其实非常简单，就是中共没有管制香港的能力，也没有推动社会改革的历史担当，他们是一个跟清朝没有本质区别的王权式国家，只不过统治集团从爱新觉罗和清朝贵族，换成了红色功勋子弟与其裙带关系利益集团。</p>
+
+<p>能跟民众谈条件的资格，一个是“暴力”，一个是“选票”，这两个你用哪个都成，如果暴力不能消灭几百万香港人，那就要靠选票来服众，而不是指望没有特权的普通民众去主动对有错误在先的特权阶级进行妥协，没人会在日本人打过来的时候，劝架说先投降让步一下，再来谈和平吧？</p>
+
+<p>李氏父子一直说一套做一套，用了英国留下来的完善法律制度与议会选举制度，自己是民主化的最大得益者，老子说不相信民主然后回去给各大选区各种感谢支持，儿子温和要脸一些不想得罪中国就变着法让人以妥协求存。</p>
+
+<p>政府没有资格存在和运作，民众们说了算，这个自证的过程就是选举，如果不能自证而又失去管制威信，就实质性的是特权阶级与民众赤裸裸的矛盾了。</p>
+
+<h3 id="449-以后谁还敢和美国并肩作战-submitted-on-2019-10-20-1921230800">449: <a href="https://old.reddit.com/r/China_irl/comments/dkidhx/以后谁还敢和美国并肩作战/">以后谁还敢和美国并肩作战？</a>, submitted on 2019-10-20 19:21:23+08:00.</h3>
+
+<p>—– <strong>449.1</strong> —–2019-11-02 17:04:50+08:00:</p>
+
+<p>奇怪了，这谁啊？</p>
+
+<p>我记不得你这个ID，是哪个被我怼到自闭的手下败将靠这种方法精神胜利来表达自我存在感？</p>
+
+<p>说来抱歉，辩论归辩论，很多人跟我都有不同的意见或冲突，但菜鸡如你这般的还是很少见。</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2019-10-27</time>
+        <a href="https://nodebe4.github.io/opinion/2019-10-27/Spinkcat/">
+          Spinkcat在2019-10-21~2019-10-27的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-10-26</time>
+        <a href="https://nodebe4.github.io/opinion/2019-10-26/Yvan888/">
+          Yvan888在2019-10-21~2019-10-27的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-10-16</time>
+        <a href="https://nodebe4.github.io/opinion/2019-10-16/Yvan888/">
+          Yvan888在2019-10-14~2019-10-20的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-10-13</time>
+        <a href="https://nodebe4.github.io/opinion/2019-10-13/Spinkcat/">
+          Spinkcat在2019-10-07~2019-10-13的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2019-10-18/%E5%9B%9B%E4%B8%AD%E5%89%8D%E4%B8%AD%E5%85%B1%E9%AB%98%E5%B1%A4%E8%A2%AB%E7%88%86%E6%96%99-%E6%9C%89%E4%B8%89%E8%82%A1%E5%8B%A2%E5%8A%9B%E8%BC%83%E9%87%8F-%E4%B8%AD%E5%9C%8BNBA%E5%AD%A3%E5%89%8D%E8%B3%BD%E5%92%8C%E8%A2%AB%E9%99%90%E5%88%B6%E7%9A%84%E6%B0%91%E6%97%8F%E4%B8%BB%E7%BE%A9/">
+            前一篇：四中前中共高層被爆料 有三股勢力較量；中國NBA季前賽和被限制的民族主義
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2019-10-20/%E7%8E%8B%E5%BA%86%E6%B0%91-%E5%B8%8C%E6%9C%9B-%E6%97%A5%E6%B8%90%E6%B7%B7%E6%B2%8C-%E5%A4%A7%E9%A9%AC%E8%B5%B0%E5%90%91%E4%BD%95%E6%96%B9/">
+            後一篇：王庆民 : “希望”日渐混沌，大马走向何方
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2019-10-18/%E5%9B%9B%E4%B8%AD%E5%89%8D%E4%B8%AD%E5%85%B1%E9%AB%98%E5%B1%A4%E8%A2%AB%E7%88%86%E6%96%99-%E6%9C%89%E4%B8%89%E8%82%A1%E5%8B%A2%E5%8A%9B%E8%BC%83%E9%87%8F-%E4%B8%AD%E5%9C%8BNBA%E5%AD%A3%E5%89%8D%E8%B3%BD%E5%92%8C%E8%A2%AB%E9%99%90%E5%88%B6%E7%9A%84%E6%B0%91%E6%97%8F%E4%B8%BB%E7%BE%A9/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2019-10-20/%E7%8E%8B%E5%BA%86%E6%B0%91-%E5%B8%8C%E6%9C%9B-%E6%97%A5%E6%B8%90%E6%B7%B7%E6%B2%8C-%E5%A4%A7%E9%A9%AC%E8%B5%B0%E5%90%91%E4%BD%95%E6%96%B9/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2019-10-26/Yvan888/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2019-10-16/Yvan888/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2019-10-18/%E5%9B%9B%E4%B8%AD%E5%89%8D%E4%B8%AD%E5%85%B1%E9%AB%98%E5%B1%A4%E8%A2%AB%E7%88%86%E6%96%99-%E6%9C%89%E4%B8%89%E8%82%A1%E5%8B%A2%E5%8A%9B%E8%BC%83%E9%87%8F-%E4%B8%AD%E5%9C%8BNBA%E5%AD%A3%E5%89%8D%E8%B3%BD%E5%92%8C%E8%A2%AB%E9%99%90%E5%88%B6%E7%9A%84%E6%B0%91%E6%97%8F%E4%B8%BB%E7%BE%A9/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2019-10-20/%E7%8E%8B%E5%BA%86%E6%B0%91-%E5%B8%8C%E6%9C%9B-%E6%97%A5%E6%B8%90%E6%B7%B7%E6%B2%8C-%E5%A4%A7%E9%A9%AC%E8%B5%B0%E5%90%91%E4%BD%95%E6%96%B9/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2019-10-26/Yvan888/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2019-10-16/Yvan888/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

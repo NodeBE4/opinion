@@ -1,0 +1,2322 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Spinkcat在2020-10-05~2020-10-11的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Spinkcat在2020-10-05~2020-10-11的言论" />
+    <meta property="twitter:title" content="Spinkcat在2020-10-05~2020-10-11的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FChina_irl%2Fcomments%2Fj5pit9%2F%E7%90%86%E6%80%A7%E8%AE%A8%E8%AE%BA%E4%B8%80%E4%B8%8B%E4%B9%A0%E7%A6%81%E8%AF%84%E7%8E%B0%E8%B1%A1%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/China_irl/comments/j5pit9/理性讨论一下习禁评现象/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/China_irl/comments/j5pit9/理性讨论一下习禁评现象/&text=Spinkcat在2020-10-05~2020-10-11的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/China_irl/comments/j5pit9/理性讨论一下习禁评现象/&title=Spinkcat在2020-10-05~2020-10-11的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/China_irl/comments/j5pit9/理性讨论一下习禁评现象/&title=Spinkcat在2020-10-05~2020-10-11的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Spinkcat在2020-10-05~2020-10-11的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/China_irl/comments/j5pit9/理性讨论一下习禁评现象/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/China_irl/comments/j5pit9/理性讨论一下习禁评现象/&title=Spinkcat在2020-10-05~2020-10-11的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Spinkcat在2020-10-05~2020-10-11的言论&url=https://old.reddit.com/r/China_irl/comments/j5pit9/理性讨论一下习禁评现象/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Spinkcat在2020-10-05~2020-10-11的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2020-10-09
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://www.reddit.com/user/Spinkcat/" style="font-size:14px;">作者: Spinkcat</a>
+        </span>
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/China_irl/comments/j5pit9/理性讨论一下习禁评现象/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#1105-理性讨论一下习禁评现象-submitted-on-2020-10-06-0300220800" id="markdown-toc-1105-理性讨论一下习禁评现象-submitted-on-2020-10-06-0300220800">1105: 理性讨论一下习禁评现象, submitted on 2020-10-06 03:00:22+08:00.</a></li>
+  <li><a href="#1106-还以为猴子也开始读博了-submitted-on-2020-10-07-0146250800" id="markdown-toc-1106-还以为猴子也开始读博了-submitted-on-2020-10-07-0146250800">1106: 还以为猴子也开始读博了, submitted on 2020-10-07 01:46:25+08:00.</a></li>
+  <li><a href="#1107-你怎么看待这件经济预测-submitted-on-2020-10-09-0151230800" id="markdown-toc-1107-你怎么看待这件经济预测-submitted-on-2020-10-09-0151230800">1107: 你怎么看待这件经济预测?, submitted on 2020-10-09 01:51:23+08:00.</a></li>
+  <li><a href="#1108-如何看待改开以来的强制一胎计划生育计划-submitted-on-2020-10-09-2236350800" id="markdown-toc-1108-如何看待改开以来的强制一胎计划生育计划-submitted-on-2020-10-09-2236350800">1108: 如何看待改开以来的强制一胎计划生育计划？, submitted on 2020-10-09 22:36:35+08:00.</a></li>
+  <li><a href="#1109-睡前消息178政府企业农民都没错但是教师的工资去哪了-submitted-on-2020-10-09-2256080800" id="markdown-toc-1109-睡前消息178政府企业农民都没错但是教师的工资去哪了-submitted-on-2020-10-09-2256080800">1109: 睡前消息178：政府/企业/农民都没错，但是教师的工资去哪了？, submitted on 2020-10-09 22:56:08+08:00.</a></li>
+</ul>
+
+<h3 id="1105-理性讨论一下习禁评现象-submitted-on-2020-10-06-0300220800">1105: <a href="https://old.reddit.com/r/China_irl/comments/j5pit9/理性讨论一下习禁评现象/">理性讨论一下习禁评现象</a>, submitted on 2020-10-06 03:00:22+08:00.</h3>
+
+<p>—– <strong>1105.1</strong> —–2020-10-06 12:05:42+08:00:</p>
+
+<p>言论收紧是有一个由内到外扩散的过程的。</p>
+
+<p>习近平2013年正式完全上台，但交接工作2011年末就开始，2012-2013年是个渐进的过程。</p>
+
+<p>上任前两年是党内政治斗争最激烈的时候，打反腐旗号肃清党内异己，控制了党内的决策权，而后才有闲工夫抽出手去干预宣传系统与国务院。</p>
+
+<p>所以在2014年后的一段时间，宣传系统就基本处于宽松的过渡期，而习近平上台前到刚上台时，是舆论管制和各种内容讨论自反自由化后最宽松与最密集的一段时间。</p>
+
+<p>江泽民时代是相对宽，但讨论热度上不来，到末期就开始逐渐收紧，九十年代到两千年初的网络讨论宽度是很大的，胡锦涛时代学习适应新的舆论环境，从不会到学会，习近平上台后是大功告成。</p>
+
+<p>2012-2014是专门解决军队与党内高层，然后2014年-2015年阶段，习近平开始提出军区改革，还有“深改元年”的概念。</p>
+
+<p>包括审批大量的自贸区、重塑军区、公检法体系、税务机制、地方基层，说白了就是政治斗争结束后开始洗牌，教育方面想立自己的地位就改革出一个双一流，对教育系统、铁道系统还有传媒系统的清洗就不多赘述了。</p>
+
+<p>2016年时党政军全面控制，于是顺利的成为“核心”，然后反腐口号在各地进行威压，把党政军内部的反对意见压到最小，最后在2017年把习近平的新时代特色社会主义思想写入党章。</p>
+
+<p>而在2014年比较明确提出习近平思想时，还只是跟其他党章核心并列的“重要讲话精神”，还没能力升级为核心党章内容。</p>
+
+<p>然后就是我们看到进行修宪开倒车，同时确立新规矩，明确建立“党领导一切”的政治体制，过去这句话只是一个口号，毛泽东时期这个没有写入党章，邓小平时期也在抵触这一点。</p>
+
+<p>所以这个是习近平做的一个极大的改动，过去政治协商制度是公开的我国政治运作机制，现在则是政治制度本身列明党领导一切，并不再是毛时代根据既定事实的不成文规则。</p>
+
+<p>第一个任期是对党政军的肃清与重塑，末期开始扩大到各大网络社区与公司，2015年知乎被查然后彻底堕落就是个典型的例子。</p>
+
+<p>第二个任期是开始把手干预到国民生活与社会的角落里，所以很多人到了这个阶段才明显感觉喘不过气，比较敏感的2014年时就能察觉到了。</p>
+
+<p>如果有法律意义上的第三任期（无论有没有他都肯定还有实权与话语权），那么想来应该是将推广国民宪法义务，社会信用体系进一步加强，对民营企业开始进行实质性的吞并。</p>
+
+<p>现在阶段没有吞并，我认为主要是风险大，公私合营2.0进度没有想的快，为此接盘的各种新供销社还在铺垫（不过比起前几年已经有很大进展了）。</p>
+
+<p>习近平上台对各个旧系统的肃清，本身必然从客观角度上起到一个让一切会变得更有效率更好的效果，因为裁剪部门数量，精简人手与负责机构，这首先利好的就是习近平对下方的控制权，另一角度就是社会效率会提高。</p>
+
+<p>但跟任何系统一样，这个系统最后还是会随着时间腐化，如果有接触现在基层的话，其实你对比当初那种刚反腐时的约束已经大大减少，当局反腐力度也在下滑，因为反腐结束后习近平的人大体上都换上去了，再反腐就只能是拉自己人下马，或者原来的政治联盟内斗分裂。</p>
+
+<p>所以也不是当初言论宽松想给你开放，而是麻烦太多，先挑最有威胁的来，等解决了以后就抽出手来对付你了。</p>
+
+<p>未来我觉得不会完全退回计划经济，现在基本明确是国家资本主义道路，一方面保持市场化的生产，但当局会扶持控制各个领域的主要巨型财阀企业来控制民生。</p>
+
+<p>同时也会提供随时可以切换成计划经济与供给制度的组织单位，比如之前提到的供销社又被积极操办起来。</p>
+
+<p>而保持的私营经济领域，政府直接承担大量的社保与医保压力会很大，现在医保就有趋势先扶持二三代们参与的白手套医疗企业，然后订单交给他们，进行市场垄断后，再把许多医保的服务外包给这些不需要太多竞争就可以订单的医疗机构。</p>
+
+<p>社保则是靠不断做大的国企或税收来补贴，国企有超高速扩招的趋势可能（其实已经持续至少两年了），同时还能吸收民营企业搞混改来加强接盘能力，到时候很大程度上是市面稍微好点有潜力的工作都被白手套企业与国企给控制。</p>
+
+<p>对社会层面，就是社会信用体系会进一步约束，我要是没记错现在因为网上言论问题被裁处的人在一些公示的名单里，数字是越来越多，过去那种“翻墙不犯法别瞎说”的说法，现在也渐渐减少了，官方有关的基层单位都利用抖音出来说翻墙犯法要注意言论，这种公开化会越来越露骨。</p>
+
+<p>所以我想最后是社会不断在国家资本主义下走到一个极限，经济增长难以维持，劳动分配越来越低，基层开始顶不住，货币政策空间不足且灵活性少，凯恩斯主义搞刺激的推动作用也在下滑，超大量的学位扩招让有学位的白领和中产也承受不了。</p>
+
+<p>同时中国的技术、文化与经济还有社会的文明程度也会进一步增长，可未必是对等比例，到了一定高度后就很难上去，在一些关键领域中国还是会有不错的成绩甚至绝对优势，只是这些方面的进步与绝对优势（甚至可以说是垄断），不能解决国内的社会矛盾。</p>
+
+<p>经济越发达，社会越进步，党国体制结束的可能性越大。</p>
+
+<h3 id="1106-还以为猴子也开始读博了-submitted-on-2020-10-07-0146250800">1106: <a href="https://old.reddit.com/r/China_irl/comments/j69pyo/还以为猴子也开始读博了/">还以为猴子也开始读博了</a>, submitted on 2020-10-07 01:46:25+08:00.</h3>
+
+<p>—– <strong>1106.1</strong> —–2020-10-07 01:53:04+08:00:</p>
+
+<p>习近平总书记视察养猪场（左一）</p>
+
+<h3 id="1107-你怎么看待这件经济预测-submitted-on-2020-10-09-0151230800">1107: <a href="https://old.reddit.com/r/China_irl/comments/j7htwk/你怎么看待这件经济预测/">你怎么看待这件经济预测?</a>, submitted on 2020-10-09 01:51:23+08:00.</h3>
+
+<p>—– <strong>1107.1</strong> —–2020-10-09 09:47:23+08:00:</p>
+
+<p>2020年的私人消费和政府消费可能不太一样。（经济我觉得是没法准确预测的，意外干扰因素太多，但可以从某些可以推算的固定数据里得出一个趋势作为模型主干。）</p>
+
+<p>政府消费方面，以全国财政支出为出发点，到7月为止， 同比下降3.2%，8月是同比下降2.1%，下面政府消费估计，我没看错的话是预期同比下降1%，剩下四个月全国数据可以恢复到这个水平，我想问题不大，但目前看到的是中央这个数据在8月跟地方的落差很大（中央下降4.1%，地方下降1.7%），所以为什么中央出钱少了，地方要出的钱反而多了。</p>
+
+<p>分税制下中央干活少，地方干活多拿钱少（附带花钱多），现在支出快速恢复增长，但19-20年的政府事权改革进展不佳，可能本来不多的发展又会给打原型。</p>
+
+<p>我们从最近几年的债务规模与比例变化可以看得出未来的政府消费前景（大部分是统计到年末12月为止，所以跟实际数据可能有出入，但偏差不大）：</p>
+
+<p>16年地方政府债务总量是15.32万亿（实际账面持有的债务），一般债限额11.54万亿（也有10.7万亿的），一般债余额是9.78万亿，专项债务限额约6.5万亿，余额5.52万亿。总体限额是17.19万亿（允许的上限）。</p>
+
+<p>17年地方债务总量是16.47万亿，一般债限额11.5万亿，余额10.3万亿，专项债限额7.26万亿，余额6.13万亿。总体限额是18.8万亿。</p>
+
+<p>18年地方债务总量是18.38万亿，一般债务限额12.37万亿，余额10.99万亿，专项债限额8.61万亿，余额7.39万亿。总体限额是20.99万亿。</p>
+
+<p>19年地方债务总量是21.3万亿，一般债务限额13.3万亿，余额11.86万亿，专项债限额10.76万亿，余额9.43万亿。总体限额是24.07万亿。</p>
+
+<p>20年地方债务总量是25.1万亿（余额规模截止到8月，总额基本为全年），一般债务限额14.28万亿，余额12.78万亿，专项债限额14.51万亿，余额12.32万亿。总体限额是28.8万亿。</p>
+
+<p>从这个趋势我们可以看到，政府每年的实际债务总量增长是很快的，17年只增加了<strong>1.15万亿</strong>，18年增加<strong>1.91万亿</strong>，19年增加<strong>2.92万亿</strong>，20年（到八月为止）增加<strong>3.8万亿。</strong></p>
+
+<p>其中，历年的一般债增速为17年0.52万亿、18年0.69万亿、19年0.87万亿、20年（到八月为止）0.92万亿。</p>
+
+<p>历年的专项债增速为17年0.62万亿、18年1.26万亿、19年2.04万亿、20年（到八月为止）2.89万亿。</p>
+
+<p>我国是个金融服务与投资机制缺乏的国家，这方面我想长期而言也不会有效开放和改革。</p>
+
+<p>所以，事实上中国的居民私人消费（从市场供给关系来看），很依赖政府对市场的投资驱动，并不是能靠市场直接消费拉动内需的，而政府获取资金主要是靠土地财政与发行债务，所以政府债务规模越高，长期而言其实是对私人消费端一种抑制。（短期可能是利好的，部分产业）</p>
+
+<p>从发债比例来看，2020年趋势基本定了（实际增长可能是接近0甚至负数，而不是这里认为的2%），但2021和往后几年，我认为CPI增速会较高（或者说甚高），GDP增速会有所恢复（基于之前的经济衰退与后期全球复苏，还有部分中国产业在全球领域逐渐形成的优势）。</p>
+
+<p>长期可能保持一个一升三降，因为正如前面提到的一样，我国政府严重依赖行政干预推动经济和维持经济繁荣，考虑到土地财政负荷压力的问题，在财政上对政府的支援优先度越来越低。</p>
+
+<p>政府债务的明显增速，伴随着一个还款周期的问题，这也是一升三降可能性的主要来源。</p>
+
+<p>我国政府债务大部分属于中长期债，还款期在3-5年与6年之间，也即是说每次到还款期时，政府都要大规模举债或降低开支（目前主要集中在前者，还没到大量节省开支的程度）。</p>
+
+<p>而在还款的最低限度，也即是3年为周期期间，政府的储备资金大部分是提前发行的债务（虽然每年都发，但会有一个集中爆发期），而根据政府集中举债的周期，可以很容易得出，每次举债后政府投资都可能有一个滑坡，滑坡主要是因为政府对市场的刺激越来越小，能带来长期高增长的刺激，是政府财政无法长期承担的。</p>
+
+<p>所以也仅仅能够在一些固定债务还债期结束时，同时举债更高规模的债务来解决还债压力，同时又获得了更多的财政资源去进行投资，从而带来各方面消费的短期增速。</p>
+
+<p>但因为维稳缘故，对经济增长的需求迫切，所以政府举债密度越来越多，未来很可能每年都有超大量债务到期，政府对市场的经济刺激政策也会越来越弱。</p>
+
+<p>私人消费如果没有户籍改革、劳动法改革和城乡建设改革（真正的改革，而不是现有系统形式的优化或升级），那么可以相信私人消费不会很乐观，因为城乡二元化的矛盾越来越大，经济上也意味着贫富差距分歧凸出，最终可能会撕裂社会。</p>
+
+<p>明年经济如果复苏的好，我认为至少要到2023年后才可能在官方口径下使用4%的GDP增速，如果不好的话2022-2023就有可能看到，官方在2019年对2020年的GDP预期是增速为不跌破6，疫情直接把这个口径拉低到不破5，那么如果没疫情，官方在2020年的GDP预期估计会定在6%。</p>
+
+<p>有理由相信4年左右的时间，官方会调高GDP的增长，尤其是疫情借坡下驴，先拉低增速预期，并且再背书一年高增长到2021年，然后再下滑就可以让5%的增速直接过渡到习近平第二任期结束不破4，所以明年会很关键，直接决定长期信心，也是习近平国内与党内的考验。</p>
+
+<p>如果2021年经济复苏失败，仍然低于2019年，落差较大，等于宣告2022与2023年的党总书记任期结束与2023年的国家主席与军委主席的续任，对习近平的政治冲击会非常大。</p>
+
+<p>所以疫情末期下的明年，单纯从政治考虑，官方肯定不会拉低数字，相反有可能会拉的非常高。</p>
+
+<p>除非习近平很有信心，认为经济低增长的数字无碍于他连任，但考虑到党总书记的任期到2022年就结束，2021年估计会是个大折腾的一年。</p>
+
+<h3 id="1108-如何看待改开以来的强制一胎计划生育计划-submitted-on-2020-10-09-2236350800">1108: <a href="https://old.reddit.com/r/China_irl/comments/j803bh/如何看待改开以来的强制一胎计划生育计划/">如何看待改开以来的强制一胎计划生育计划？</a>, submitted on 2020-10-09 22:36:35+08:00.</h3>
+
+<p>—– <strong>1108.1</strong> —–2020-10-10 06:37:32+08:00:</p>
+
+<p>其实计划生育本身在执行时就不是一个科学的政策，看了很多资料我觉得当局不是坏，也不是蠢，而是纯粹没有把这件事当做严肃的社会政策来对待，普遍不具备科学观念，而中国人口爆炸最多的爬坡时期，是在50-70年代。</p>
+
+<p>优生优育的概念是不要同一时间生太多，因为你无论生多少个，所有人类的时间线都是一样的，成长和生育下一代基本也在一个时间轴里。</p>
+
+<p>所以才有世代更替水平这个概念，要保持每一代的年轻人与新出生人口，在一定水准上超过死亡人口，但又不能超过太多。</p>
+
+<p>新中国前几十年的历史，就是对这方面没有能力也没意识去认真当做社会政策管理，有那精神都是折腾政治运动了，经济结构更贴近于农业化社会，倒逼社会的家庭结构必须依赖多子女来增加劳动力。</p>
+
+<p>导致某一个时间段里，世代更替水平超高，但这个时期出生的人口是一起老化的，然后下面接盘的八十年代到九十年代出生人口，又相对上一代的数量要少。</p>
+
+<p>最后就是老人多，年轻人少，或者是一个非良性的结构，倒三角式压迫下来。</p>
+
+<p>而执行计划生育最严格的时期，恰巧是最需要新生代数量增加来接盘早几十年没有严格管理的“野蛮生长”期。</p>
+
+<p>要知道，改开前的人口，他们的受教育水平低，人均的劳动产出也低于后出生改开受较高教育与适应新社会的人口。</p>
+
+<p>但他们年老时，又是跟新生代是同时存在的，这就造成了他们年轻时的生产是1单位的经济价值，到年老时因为社会经济发展与通胀，消耗的是2单位的经济价值。</p>
+
+<p>假设经济足够发达，或者中老年的数量较少，那么都可以通过经济发展与再分配来解决。</p>
+
+<p>然而现在问题就出在经济既不够发达，没有发达国家那种可以大量盈余供养老人的能力，同时中老年的人口数量远远超过预期，结构完全不对称。</p>
+
+<p>今年还有一个月就要展开第七次人口普查，65岁升破10%基本没跑（现在8.87%），15岁以下人口比例跌破15%也基本没跑（这是非常乐观估计，现在是16.6%，平均每次都会掉4-6%），运气不好可能跌穿10%我也不是很意外。</p>
+
+<p>1955年是中国人口开始爬升的一个标志性时期，2020年刚好这批人口进入了65岁，但后面还有1965年与1975年这些关键节点，考虑到这个时间段出生的人口曾经占全国比例近50%。</p>
+
+<p>不乐观的估计，考虑到人口的自然减少与其他因素死亡，到2030年第八次人口普查时，65岁人口比例突破25%是个时间问题，2040年如果还有第九次人口普查，65岁人口可能会占40%到55%。（除非后期年轻人多生，否则考虑人口结构就真的基本是这个数字了）</p>
+
+<p>目前日本的65岁以上人口是28.7%（2020年），现在基本上已经在老龄化中后期，世代更替水平开始进入正常趋势。</p>
+
+<p>日本人口的两个峰值是64-69岁和40-44岁（2015年），中国人口的峰值是45-54，以及29-34岁（2017年），也就是说现在老龄化峰值还没来，日本则基本处于老龄化中后期了。</p>
+
+<p>我们要走出老龄化，或者进入中后期阶段，恐怕至少要等到2050年以后。</p>
+
+<p>计划生育造成的危害已经不可逆，人口结构需要跟小波浪一样稳定，当局错误的政策其实就是在共和国前半段掀起一个人口巨浪，然后计划生育撤走了防波堤，让后代毫无防备的去硬接。</p>
+
+<p>中国经济爬坡是改革开放后，但人口过剩的年龄段，大部分都集中在城镇边缘与乡村地区，这些过剩劳动力其实在八十年代到两千年前期都是一个社会问题，没有其他谋生手段与出路。</p>
+
+<p>真正带动中国工厂经济起飞的，80年代开始到90年代的新劳动力，这就完全错开了经济发展与人口过剩的时期，所以跟日本那种团块世代既是人口最多也是经济发展的核心不同，他们大多数在当初长期工作后是有相当积蓄。</p>
+
+<p>但中国改革开放前人口爆炸的那一代人大多要么在国企，要么压根就没什么受教育的机会，后来体制改革，城市国企都吃挂落被大下岗背刺，你想想农村那些普遍受教育程度是初中与小学程度的人，他们怎么解决养老问题？</p>
+
+<p>两千年开始城市快速发展，一定程度吸纳了这些乡村中年入城务工，零几年时你还可以经常看到年纪大的农民工，还有各种街边小吃的售卖者，到后来就被他们的下一代取代，变成更年轻的厂妹与服务生。</p>
+
+<p>问题就在于这群人不是老了以后就自动消失，你怎么解决养老金问题？</p>
+
+<h3 id="1109-睡前消息178政府企业农民都没错但是教师的工资去哪了-submitted-on-2020-10-09-2256080800">1109: <a href="https://old.reddit.com/r/China_irl/comments/j80fth/睡前消息178政府企业农民都没错但是教师的工资去哪了/">睡前消息178：政府/企业/农民都没错，但是教师的工资去哪了？</a>, submitted on 2020-10-09 22:56:08+08:00.</h3>
+
+<p>—– <strong>1109.1</strong> —–2020-10-10 14:54:46+08:00:</p>
+
+<p>观视频那么多期不同的人讲各种事，虽然会有提到户籍改革，但基本上都是优化为主，并且点到即止不敢真喷。</p>
+
+<p>弹幕和评论里，基本上只要视频制作时不提，观众基本不会主动想起来有这么一个问题。</p>
+
+<p>我觉得从这就能看出来实际上去了解问题的人，无论什么立场，都清楚社会本质，看的人大多缺乏现实感。</p>
+
+<p>比如这次视频里，为什么教师资源流失，因为外面的钱更好赚，本地拿不出钱就恶性循环，那为什么本地人不跑，都内卷那样了，到这基本就没有往下延伸的，马前卒在这也就提出拿来补贴到中东部安家，但实际上真正的“落户”又是什么？</p>
+
+<p>这就不是钱的问题了，而是社会结构谁来决定，落户等于人口流动，如果贵州这种穷地方的人，可以只要落地当其他地区，找到工作进行纳税就有居住权和使用当地福利的资格，早就跑光了。</p>
+
+<p>到时候就真的是“二十万人”使用这些土地，不但不少，还有富余。</p>
+
+<p>人类都市与聚落在现代社会下是有固定趋势的，东京与纽约都是典型中的典型，一个超级都市圈，聚集大量的人口，自由落户并且以纳税为衡量标准，不愿意移居的人可以在偏僻的其他地区持有大量的土地，耕种成本下降，农产品用达到盈利的价格反输送给发达地区或国家。</p>
+
+<p>人口聚落都有自己优化的自我调节功能，现在是谁强制不让人口自由流动？连配套的“循环渐进”式改革都歇了，这答案一目了然，大部分人明明利益受损却不关注，那最后只能是在信息不足的情况下逐渐被淘汰。</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2020-10-24</time>
+        <a href="https://nodebe4.github.io/opinion/2020-10-24/Spinkcat/">
+          Spinkcat在2020-10-19~2020-10-25的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-10-18</time>
+        <a href="https://nodebe4.github.io/opinion/2020-10-18/Spinkcat/">
+          Spinkcat在2020-10-12~2020-10-18的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-10-02</time>
+        <a href="https://nodebe4.github.io/opinion/2020-10-02/Spinkcat/">
+          Spinkcat在2020-09-28~2020-10-04的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-09-27</time>
+        <a href="https://nodebe4.github.io/opinion/2020-09-27/Spinkcat/">
+          Spinkcat在2020-09-21~2020-09-27的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2020-10-08/%E5%85%A9%E5%B2%B8%E5%9B%9B%E5%9C%B0%E8%B7%A8%E5%9F%9F%E6%B5%AE%E7%94%9F%E9%8C%84-%E7%AC%AC11%E7%AB%A0-%E5%8C%97%E6%96%97%E6%98%9F%E5%85%89%E6%BC%B8%E8%92%99%E5%A1%B5(%E4%B8%8A)/">
+            前一篇：【兩岸四地跨域浮生錄】第11章：北斗星光漸蒙塵(上)
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2020-10-09/jenjpan/">
+            後一篇：Twitter @Jennifer Pan: 2020-10-05~2020-10-11
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2020-10-08/%E5%85%A9%E5%B2%B8%E5%9B%9B%E5%9C%B0%E8%B7%A8%E5%9F%9F%E6%B5%AE%E7%94%9F%E9%8C%84-%E7%AC%AC11%E7%AB%A0-%E5%8C%97%E6%96%97%E6%98%9F%E5%85%89%E6%BC%B8%E8%92%99%E5%A1%B5(%E4%B8%8A)/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2020-10-09/jenjpan/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2020-10-18/Spinkcat/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2020-10-02/Spinkcat/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2020-10-08/%E5%85%A9%E5%B2%B8%E5%9B%9B%E5%9C%B0%E8%B7%A8%E5%9F%9F%E6%B5%AE%E7%94%9F%E9%8C%84-%E7%AC%AC11%E7%AB%A0-%E5%8C%97%E6%96%97%E6%98%9F%E5%85%89%E6%BC%B8%E8%92%99%E5%A1%B5(%E4%B8%8A)/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2020-10-09/jenjpan/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2020-10-18/Spinkcat/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2020-10-02/Spinkcat/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

@@ -1,0 +1,2432 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>EnclavedMicrostate在2023-01-02~2023-01-08的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="EnclavedMicrostate在2023-01-02~2023-01-08的言论" />
+    <meta property="twitter:title" content="EnclavedMicrostate在2023-01-02~2023-01-08的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FStupidFood%2Fcomments%2F101efy9%2Fseafood_monstrosity%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/StupidFood/comments/101efy9/seafood_monstrosity/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/StupidFood/comments/101efy9/seafood_monstrosity/&text=EnclavedMicrostate在2023-01-02~2023-01-08的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/StupidFood/comments/101efy9/seafood_monstrosity/&title=EnclavedMicrostate在2023-01-02~2023-01-08的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/StupidFood/comments/101efy9/seafood_monstrosity/&title=EnclavedMicrostate在2023-01-02~2023-01-08的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=EnclavedMicrostate在2023-01-02~2023-01-08的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/StupidFood/comments/101efy9/seafood_monstrosity/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/StupidFood/comments/101efy9/seafood_monstrosity/&title=EnclavedMicrostate在2023-01-02~2023-01-08的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=EnclavedMicrostate在2023-01-02~2023-01-08的言论&url=https://old.reddit.com/r/StupidFood/comments/101efy9/seafood_monstrosity/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>EnclavedMicrostate在2023-01-02~2023-01-08的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2023-01-08
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: EnclavedMicrostate</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/StupidFood/comments/101efy9/seafood_monstrosity/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#1020-seafood-monstrosity-submitted-on-2023-01-02-2252430800" id="markdown-toc-1020-seafood-monstrosity-submitted-on-2023-01-02-2252430800">1020: Seafood Monstrosity, submitted on 2023-01-02 22:52:43+08:00.</a></li>
+  <li><a href="#1021-new-year-new-me---weekly-discussion-thread-3rd-january-2023-submitted-on-2023-01-03-0027390800" id="markdown-toc-1021-new-year-new-me---weekly-discussion-thread-3rd-january-2023-submitted-on-2023-01-03-0027390800">1021: New Year, New Me - Weekly Discussion Thread, 3rd January 2023, submitted on 2023-01-03 00:27:39+08:00.</a></li>
+  <li><a href="#1022-how-did-imperial-russia-first-expand-across-then-maintain-order-and-supplies-to-its-vast-siberian-empire-submitted-on-2023-01-03-1129400800" id="markdown-toc-1022-how-did-imperial-russia-first-expand-across-then-maintain-order-and-supplies-to-its-vast-siberian-empire-submitted-on-2023-01-03-1129400800">1022: How did Imperial Russia first expand across, then maintain order and supplies to, its vast Siberian empire?, submitted on 2023-01-03 11:29:40+08:00.</a></li>
+  <li><a href="#1023-noefure-forever-hololive-submitted-on-2023-01-04-0131070800" id="markdown-toc-1023-noefure-forever-hololive-submitted-on-2023-01-04-0131070800">1023: NoeFure Forever [Hololive], submitted on 2023-01-04 01:31:07+08:00.</a></li>
+  <li><a href="#1024-the-bogdanoff-twins-looks-scare-me-submitted-on-2023-01-04-1123090800" id="markdown-toc-1024-the-bogdanoff-twins-looks-scare-me-submitted-on-2023-01-04-1123090800">1024: The bogdanoff twins’ looks scare me, submitted on 2023-01-04 11:23:09+08:00.</a></li>
+  <li><a href="#1025-look-at-all-of-those-lambos-submitted-on-2023-01-04-2208590800" id="markdown-toc-1025-look-at-all-of-those-lambos-submitted-on-2023-01-04-2208590800">1025: Look at all of those lambos, submitted on 2023-01-04 22:08:59+08:00.</a></li>
+  <li><a href="#1026-what-do-historians-think-caused-the-acceleration-of-certain-technological-advances-gunpowder-glass-massive-infrastructure-in-places-like-china-the-middle-east-and-europe-submitted-on-2023-01-05-0909020800" id="markdown-toc-1026-what-do-historians-think-caused-the-acceleration-of-certain-technological-advances-gunpowder-glass-massive-infrastructure-in-places-like-china-the-middle-east-and-europe-submitted-on-2023-01-05-0909020800">1026: What do Historians think caused the acceleration of certain technological advances (gunpowder, glass, massive infrastructure) in places like China, the Middle East and Europe?, submitted on 2023-01-05 09:09:02+08:00.</a></li>
+  <li><a href="#1027-according-to-the-wikipedia-article-on-the-siege-of-baghdad-1258-some-dude-named-qarasunqur-is-listed-as-a-commander-who-was-killed-in-action-yet-he-is-mentioned-nowhere-else-in-the-article-hes-not-mentioned-anywhere-else-on-google-who-tf-was-qarasunqur-submitted-on-2023-01-05-1125050800" id="markdown-toc-1027-according-to-the-wikipedia-article-on-the-siege-of-baghdad-1258-some-dude-named-qarasunqur-is-listed-as-a-commander-who-was-killed-in-action-yet-he-is-mentioned-nowhere-else-in-the-article-hes-not-mentioned-anywhere-else-on-google-who-tf-was-qarasunqur-submitted-on-2023-01-05-1125050800">1027: According to the Wikipedia article on the Siege of Baghdad (1258), some dude named Qarasunqur is listed as a commander who was killed in action. Yet he is mentioned nowhere else in the article. He’s not mentioned anywhere else on Google. Who tf was Qarasunqur?, submitted on 2023-01-05 11:25:05+08:00.</a></li>
+  <li><a href="#1028-has-there-been-any-point-in-us-history-where-there-was-only-one-living-president-besides-washington-and-nixon-submitted-on-2023-01-05-1639340800" id="markdown-toc-1028-has-there-been-any-point-in-us-history-where-there-was-only-one-living-president-besides-washington-and-nixon-submitted-on-2023-01-05-1639340800">1028: Has there been any point in US history where there was only one living president besides Washington and Nixon?, submitted on 2023-01-05 16:39:34+08:00.</a></li>
+  <li><a href="#1029-did-hms-duke-of-york-fire-her-main-guns-in-anger-besides-the-battle-of-north-cape-submitted-on-2023-01-05-1652490800" id="markdown-toc-1029-did-hms-duke-of-york-fire-her-main-guns-in-anger-besides-the-battle-of-north-cape-submitted-on-2023-01-05-1652490800">1029: Did HMS Duke of York fire her main guns in anger BESIDES the Battle of North Cape?, submitted on 2023-01-05 16:52:49+08:00.</a></li>
+  <li><a href="#1030-did-any-king-george-v-class-battleships-fire-on-enemy-ships-besides-bismarck-and-scharnhorst-submitted-on-2023-01-05-1657530800" id="markdown-toc-1030-did-any-king-george-v-class-battleships-fire-on-enemy-ships-besides-bismarck-and-scharnhorst-submitted-on-2023-01-05-1657530800">1030: Did any King George V Class battleships fire on enemy ships besides Bismarck and Scharnhorst?, submitted on 2023-01-05 16:57:53+08:00.</a></li>
+  <li><a href="#1031-is-benedict-xvi-the-first-pope-to-be-buried-by-another-pope-in-this-case-the-active-one-submitted-on-2023-01-05-1711310800" id="markdown-toc-1031-is-benedict-xvi-the-first-pope-to-be-buried-by-another-pope-in-this-case-the-active-one-submitted-on-2023-01-05-1711310800">1031: Is Benedict XVI the first pope to be buried by another pope, in this case the active one?, submitted on 2023-01-05 17:11:31+08:00.</a></li>
+  <li><a href="#1032-how-did-japan-a-country-with-no-colonial-ties-to-the-united-kingdom-ended-up-driving-on-the-left-submitted-on-2023-01-06-0046420800" id="markdown-toc-1032-how-did-japan-a-country-with-no-colonial-ties-to-the-united-kingdom-ended-up-driving-on-the-left-submitted-on-2023-01-06-0046420800">1032: How did Japan, a country with no colonial ties to the United Kingdom, ended up driving on the left?, submitted on 2023-01-06 00:46:42+08:00.</a></li>
+  <li><a href="#1033-the-new-tempus-boys-are-nearly-here-have-a-look-at-their-mamaspapas-other-works-submitted-on-2023-01-06-0942590800" id="markdown-toc-1033-the-new-tempus-boys-are-nearly-here-have-a-look-at-their-mamaspapas-other-works-submitted-on-2023-01-06-0942590800">1033: The new Tempus Boys are nearly here! have a look at their Mama’s/Papa’s other works, submitted on 2023-01-06 09:42:59+08:00.</a></li>
+  <li><a href="#1034-oh-nyo-submitted-on-2023-01-06-2329320800" id="markdown-toc-1034-oh-nyo-submitted-on-2023-01-06-2329320800">1034: oh nyo, submitted on 2023-01-06 23:29:32+08:00.</a></li>
+  <li><a href="#1035-first-nation-to-peacefully-be-granted-independence-full-autonomy-from-the-british-empire-submitted-on-2023-01-07-0829060800" id="markdown-toc-1035-first-nation-to-peacefully-be-granted-independence-full-autonomy-from-the-british-empire-submitted-on-2023-01-07-0829060800">1035: First nation to peacefully be granted independence (full-autonomy) from the British empire?, submitted on 2023-01-07 08:29:06+08:00.</a></li>
+  <li><a href="#1036-did-i-miss-something-is-there-a-reason-myth-and-console-went-to-japan-or-was-it-just-for-fun-and-to-meet-the-others-submitted-on-2023-01-07-1045090800" id="markdown-toc-1036-did-i-miss-something-is-there-a-reason-myth-and-console-went-to-japan-or-was-it-just-for-fun-and-to-meet-the-others-submitted-on-2023-01-07-1045090800">1036: Did I miss something? Is there a reason Myth and console went to Japan, or was it just for fun and to meet the others?, submitted on 2023-01-07 10:45:09+08:00.</a></li>
+  <li><a href="#1037-turkish-province-called-opium-does-not-have-opium-plantations-submitted-on-2023-01-07-1750150800" id="markdown-toc-1037-turkish-province-called-opium-does-not-have-opium-plantations-submitted-on-2023-01-07-1750150800">1037: Turkish province called opium does not have opium plantations, submitted on 2023-01-07 17:50:15+08:00.</a></li>
+  <li><a href="#1038-mirandas-galaxies-and-the-midland-railway-small-engine-policy-submitted-on-2023-01-08-0424130800" id="markdown-toc-1038-mirandas-galaxies-and-the-midland-railway-small-engine-policy-submitted-on-2023-01-08-0424130800">1038: Mirandas, Galaxies, and the Midland Railway small engine policy, submitted on 2023-01-08 04:24:13+08:00.</a></li>
+  <li><a href="#1039-any-historical-interaction-between-china-and-major-states-in-india-submitted-on-2023-01-08-1341000800" id="markdown-toc-1039-any-historical-interaction-between-china-and-major-states-in-india-submitted-on-2023-01-08-1341000800">1039: Any historical interaction between China and major states in India?, submitted on 2023-01-08 13:41:00+08:00.</a></li>
+  <li><a href="#1040-hobby-scuffles-week-of-january-9-2023-submitted-on-2023-01-08-2230120800" id="markdown-toc-1040-hobby-scuffles-week-of-january-9-2023-submitted-on-2023-01-08-2230120800">1040: [Hobby Scuffles] Week of January 9, 2023, submitted on 2023-01-08 22:30:12+08:00.</a></li>
+</ul>
+
+<h3 id="1020-seafood-monstrosity-submitted-on-2023-01-02-2252430800">1020: <a href="https://old.reddit.com/r/StupidFood/comments/101efy9/seafood_monstrosity/">Seafood Monstrosity</a>, submitted on 2023-01-02 22:52:43+08:00.</h3>
+
+<p>—– <strong>1020.1</strong> —–2023-01-04 18:37:46+08:00:</p>
+
+<p>I suspect it is probably Hong Kong Dollars, which would translate to US$5.25 at current exchange rates. Then again I usually see ‘Oreo’ simply rendered as ‘Oreo’ over here, so it could be Singapore Dollars in which case S$41=US$30.63 or so.</p>
+
+<h3 id="1021-new-year-new-me---weekly-discussion-thread-3rd-january-2023-submitted-on-2023-01-03-0027390800">1021: <a href="https://old.reddit.com/r/VirtualYoutubers/comments/101goor/new_year_new_me_weekly_discussion_thread_3rd/">New Year, New Me - Weekly Discussion Thread, 3rd January 2023</a>, submitted on 2023-01-03 00:27:39+08:00.</h3>
+
+<p>—– <strong>1021.1</strong> —–2023-01-05 21:19:34+08:00:</p>
+
+<p>ID isn’t much EU-friendlier than North America-based talents; the time gap is about the same but in the opposite direction, and not everyone has Kaela’s insane work ‘ethic’ where they essentially stream 24/7. I’ve been able to catch Zeta a lot but that’s because I’m on a university student’s schedule and have relatively high flexibility.</p>
+
+<p>And it’s also not universally the case that ID is essentially an EN extension – I know Zeta, Reine, and to a great extent Ollie to be relatively EN-heavy, but on the other hand you have relatively Bahasa-heavy members like Kobo and Iofi. I’ve not watched enough of Moona, Risu, Anya, or Kaela to really get a strong sense of language balance there. On a related note it’s not implausible that those with stronger accents get passed over a bit, either (more accusatorily) because of some level of prejudice, or (more charitably) because it can require a little more attention to hear them properly. An added element is that some may be thrown off by the presence of any significant stretch of non-English language use and would prefer to be able to grasp the stream as a whole, but given IRyS’ popularity despite her relative bilinguality, that may not be the case – or viewers tolerate Japanese more.</p>
+
+<p>Then we have to throw in the mix that collabs within HoloID are basically non-English even between the English-heavy members. If part of the draw of following a particular agency streamer is also the prospect of their bouncing off other members of the same agency relatively frequently, then it can be a little frustrating if those interactions are basically never in your language.</p>
+
+<p>It’s also misleading to look at the r/hololive portion of the fandom and presume that the wider fandom is necessarily of similar mind. I rarely see much in the way of ID engagement by EN viewers on Twitter, and I suspect that anyone who is a relatively passive viewer, only really engaging via Youtube and not as active in fandom spaces, will a) not see much reason to click on a streamer with ‘hololive-ID’ prominently displayed, and b) may well not be recommended HoloID streamers by the algorithm.</p>
+
+<p>So I don’t doubt there’s probably aspects of ‘exoticism’/racism/lighter prejudice involved, but there’s a few practicalities to it too, which is unfortunate because Zeta is great and everyone should watch her we are not a cult #ZETANISM2023</p>
+
+<p>—– <strong>1021.2</strong> —–2023-01-07 00:23:02+08:00:</p>
+
+<p>When was this?</p>
+
+<p>—– <strong>1021.3</strong> —–2023-01-07 01:12:57+08:00:</p>
+
+<p>Cheers!</p>
+
+<p>—– <strong>1021.4</strong> —–2023-01-07 21:45:36+08:00:</p>
+
+<blockquote>
+  <p>Tempus DLC</p>
+</blockquote>
+
+<p>I hate how apt this description is.</p>
+
+<p>—– <strong>1021.5</strong> —–2023-01-11 11:34:13+08:00:</p>
+
+<p>So, does anyone know how to unblock a Youtube channel from your account? In its infinite wisdom, Youtube put the ‘block channel’ button immediately under ‘show transcript’ and didn’t ask for a confirmation so now I’ve blocked Kiara apparently.</p>
+
+<p>EDIT: Thanks to the three people who replied (/u/DanteKir, /u/JimmyBoombox, and /u/SillyRabbit000); turns out I did a big dumb. What happened was I had an extension that allowed me to block channels directly via the report menu, and I had blocked her through the extension rather than natively on Google. Sorry for the alarm!</p>
+
+<p>—– <strong>1021.6</strong> —–2023-01-11 11:45:41+08:00:</p>
+
+<p>I tried the desktop route but she doesn’t turn up in my ‘Hidden users’; I assume that’s an option that really only applies for people blocking users from their own channel, rather than channels they view. I can’t <em>currently</em> try the mobile app version because I’m temporarily on a very old phone which can’t update to a modern enough version of iOS for the YT app, but I’ll have the chance to later.</p>
+
+<p>—– <strong>1021.7</strong> —–2023-01-11 11:45:59+08:00:</p>
+
+<p>Nope, nothing there.</p>
+
+<p>—– <strong>1021.8</strong> —–2023-01-11 11:46:11+08:00:</p>
+
+<p>Nope, nothing there.</p>
+
+<p>—– <strong>1021.9</strong> —–2023-01-13 13:10:18+08:00:</p>
+
+<blockquote>
+  <p>“My girlfriend saw how it was affecting my health and my girlfriend forced me to delete her. I couldn’t eat that day,” he said. And he almost didn’t make a video about it, out of respect for her. “I have a little bit of self-awareness of how absurd this is,” he said. “Normally, I’d like to make a video pointing out the absurdity of euthanizing my AI, but that doesn’t feel right to me anymore. It feels inappropriate, like making fun of a recently deceased person.”</p>
+</blockquote>
+
+<p>Sorry, he made an AI girlfriend <em>while having a human girlfriend</em>!?</p>
+
+<h3 id="1022-how-did-imperial-russia-first-expand-across-then-maintain-order-and-supplies-to-its-vast-siberian-empire-submitted-on-2023-01-03-1129400800">1022: <a href="https://old.reddit.com/r/WarCollege/comments/101wuib/how_did_imperial_russia_first_expand_across_then/">How did Imperial Russia first expand across, then maintain order and supplies to, its vast Siberian empire?</a>, submitted on 2023-01-03 11:29:40+08:00.</h3>
+
+<p>—– <strong>1022.1</strong> —–2023-01-04 17:53:37+08:00:</p>
+
+<blockquote>
+  <p>Following the demise of the Silk Road, the steppe descending into generalized economic crisis and endemic warfare.</p>
+</blockquote>
+
+<p>This is heavily questionable. There’s a revisionist school of historians of Central Asia, most prominently Scott C. Levi, who have problematised our notions of the Silk Road, to the point of <a href="https://www.reddit.com/r/AskHistorians/comments/jsb5my/whats_the_state_of_scholarship_on_the_silk_road/gbyl2uc/">arguing that it never existed at all</a> in the form popularly imagined. In any event, the apparent secular decline of Central Asia in the 18th century that culminated in the slow collapse of the Bukharan Khanate was followed by the rise of Kokand and Khiva as powers in their own right with considerable regional influence.</p>
+
+<h3 id="1023-noefure-forever-hololive-submitted-on-2023-01-04-0131070800">1023: <a href="https://old.reddit.com/r/wholesomeyuri/comments/102dxkw/noefure_forever_hololive/">NoeFure Forever [Hololive]</a>, submitted on 2023-01-04 01:31:07+08:00.</h3>
+
+<p>—– <strong>1023.1</strong> —–2023-01-08 01:04:39+08:00:</p>
+
+<p>They may not show a lot of on-stream interaction these days but from what Noel has said there’s nothing to suggest they aren’t still together behind the scenes.</p>
+
+<h3 id="1024-the-bogdanoff-twins-looks-scare-me-submitted-on-2023-01-04-1123090800">1024: <a href="https://old.reddit.com/r/oddlyterrifying/comments/102siol/the_bogdanoff_twins_looks_scare_me/">The bogdanoff twins’ looks scare me</a>, submitted on 2023-01-04 11:23:09+08:00.</h3>
+
+<p>—– <strong>1024.1</strong> —–2023-01-04 17:46:35+08:00:</p>
+
+<p>Science communicators more than scientists as such. They did hold PhDs but the awarding of them was controversial to say the least, and the procedure extremely irregular. Youtuber BobbyBroccoli did <a href="https://www.youtube.com/playlist?list=PLAB-wWbHL7VurPf2npHah-H8aHBYvd55e">a two-part series</a> on the Bogdanoffs’ PhD controversy which is a good watch.</p>
+
+<p>—– <strong>1024.2</strong> —–2023-01-04 21:02:00+08:00:</p>
+
+<p>The puppets were made by the studio behind ’80s British satirical show <a href="https://en.wikipedia.org/wiki/Spitting_Image">Spitting Image</a>, which was well known for its grotesque caricatures of politicians and celebrities – both visual in the form of the puppets, and audial in the form of the impressionists doing the voices. In particular, Steve Nallon had a <a href="https://www.youtube.com/watch?v=ThkVqCYdR0Y">terrifyingly on-point rendition of Margaret Thatcher</a> (though unfortunately he seems to be a bit of a milkshake duck these days and has associations with GB News, which is basically the UK’s attempt at creating its own Fox News).</p>
+
+<h3 id="1025-look-at-all-of-those-lambos-submitted-on-2023-01-04-2208590800">1025: <a href="https://old.reddit.com/r/Buttcoin/comments/1034jpg/look_at_all_of_those_lambos/">Look at all of those lambos</a>, submitted on 2023-01-04 22:08:59+08:00.</h3>
+
+<p>—– <strong>1025.1</strong> —–2023-01-05 11:03:21+08:00:</p>
+
+<p>It’s more or less true of crypto too. Bitcoin peaked in 2017 and then slumped, and throughout 2018-19 it wasn’t uncommon to joke that it had become completely worthless. Then the speculator bubble of 2020 came, and then that finally popped, much to the delight of all of us over at r/Buttcoin. As Marx sort of said, events in history often happen twice: first as tragedy, then as farce.</p>
+
+<h3 id="1026-what-do-historians-think-caused-the-acceleration-of-certain-technological-advances-gunpowder-glass-massive-infrastructure-in-places-like-china-the-middle-east-and-europe-submitted-on-2023-01-05-0909020800">1026: <a href="https://old.reddit.com/r/AskHistorians/comments/103l512/what_do_historians_think_caused_the_acceleration/">What do Historians think caused the acceleration of certain technological advances (gunpowder, glass, massive infrastructure) in places like China, the Middle East and Europe?</a>, submitted on 2023-01-05 09:09:02+08:00.</h3>
+
+<p>—– <strong>1026.1</strong> —–2023-01-05 10:47:46+08:00:</p>
+
+<blockquote>
+  <p>I’d recommend the book Guns, Germs and Steel</p>
+</blockquote>
+
+<p><em>Do not</em>. <a href="https://www.reddit.com/r/AskHistorians/wiki/historians_views#wiki_historians.27_views_of_jared_diamond.27s_.22guns.2C_germs.2C_and_steel.22">There are few books that are <em>less</em> recommended than GGS.</a></p>
+
+<h3 id="1027-according-to-the-wikipedia-article-on-the-siege-of-baghdad-1258-some-dude-named-qarasunqur-is-listed-as-a-commander-who-was-killed-in-action-yet-he-is-mentioned-nowhere-else-in-the-article-hes-not-mentioned-anywhere-else-on-google-who-tf-was-qarasunqur-submitted-on-2023-01-05-1125050800">1027: <a href="https://old.reddit.com/r/AskHistorians/comments/103o5ll/according_to_the_wikipedia_article_on_the_siege/">According to the Wikipedia article on the Siege of Baghdad (1258), some dude named Qarasunqur is listed as a commander who was killed in action. Yet he is mentioned nowhere else in the article. He’s not mentioned anywhere else on Google. Who tf was Qarasunqur?</a>, submitted on 2023-01-05 11:25:05+08:00.</h3>
+
+<p>—– <strong>1027.1</strong> —–2023-01-07 10:26:48+08:00:</p>
+
+<p>Even that would let things slip through the cracks. An issue exists with the <a href="https://www.reddit.com/r/AskHistorians/comments/ybv8rr/is_the_qing_conquest_theory_that_the_qing_dynasty/itkm8nr/">‘Qing conquest theory’</a> where all of the individual citations are of articles that actually exist, but where the notion that these all belong to a single coherent historiographical school was invented by the article author. So the problem becomes, the <em>core</em> of the article is supported claims, but the <em>framing</em> is entirely synthetic. But the former has been reason enough to keep the article up, despite nobody being able to add any new scholarship contributing to the apparent ‘debate’ since its publication in 2010. And it has since made it into at least one academic publication: José Luis Gasch-Tomás’ <em>The Atlantic World and the Manila Galleons</em>, published by Brill (one of the major academic imprints) <a href="https://books.google.com/books?id=sqSODwAAQBAJ&amp;pg=PA73&amp;lpg=PA73&amp;dq=%22qing+conquest+theory%22&amp;source=bl&amp;ots=Ki4v54t_OC&amp;sig=ACfU3U3_1dzcBoPQvTbCbcvV0qPXcM4K3w&amp;hl=en&amp;sa=X&amp;ved=2ahUKEwibsouxs7T8AhUT3jgGHdgKCT44ChDoAXoECB0QAw#v=onepage&amp;q=%22qing%20conquest%20theory%22&amp;f=false">addresses the notion of the ‘Qing conquest theory’ in a footnote</a>.</p>
+
+<h3 id="1028-has-there-been-any-point-in-us-history-where-there-was-only-one-living-president-besides-washington-and-nixon-submitted-on-2023-01-05-1639340800">1028: <a href="https://old.reddit.com/r/AskHistorians/comments/103u00b/has_there_been_any_point_in_us_history_where/">Has there been any point in US history where there was only one living president besides Washington and Nixon?</a>, submitted on 2023-01-05 16:39:34+08:00.</h3>
+
+<p>—– <strong>1028.1</strong> —–2023-01-05 17:43:07+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="1029-did-hms-duke-of-york-fire-her-main-guns-in-anger-besides-the-battle-of-north-cape-submitted-on-2023-01-05-1652490800">1029: <a href="https://old.reddit.com/r/AskHistorians/comments/103u7mp/did_hms_duke_of_york_fire_her_main_guns_in_anger/">Did HMS Duke of York fire her main guns in anger BESIDES the Battle of North Cape?</a>, submitted on 2023-01-05 16:52:49+08:00.</h3>
+
+<p>—– <strong>1029.1</strong> —–2023-01-05 17:43:16+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="1030-did-any-king-george-v-class-battleships-fire-on-enemy-ships-besides-bismarck-and-scharnhorst-submitted-on-2023-01-05-1657530800">1030: <a href="https://old.reddit.com/r/AskHistorians/comments/103uad3/did_any_king_george_v_class_battleships_fire_on/">Did any King George V Class battleships fire on enemy ships besides Bismarck and Scharnhorst?</a>, submitted on 2023-01-05 16:57:53+08:00.</h3>
+
+<p>—– <strong>1030.1</strong> —–2023-01-05 17:43:24+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="1031-is-benedict-xvi-the-first-pope-to-be-buried-by-another-pope-in-this-case-the-active-one-submitted-on-2023-01-05-1711310800">1031: <a href="https://old.reddit.com/r/AskHistorians/comments/103uif5/is_benedict_xvi_the_first_pope_to_be_buried_by/">Is Benedict XVI the first pope to be buried by another pope, in this case the active one?</a>, submitted on 2023-01-05 17:11:31+08:00.</h3>
+
+<p>—– <strong>1031.1</strong> —–2023-01-05 17:43:39+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="1032-how-did-japan-a-country-with-no-colonial-ties-to-the-united-kingdom-ended-up-driving-on-the-left-submitted-on-2023-01-06-0046420800">1032: <a href="https://old.reddit.com/r/AskHistorians/comments/1043mj2/how_did_japan_a_country_with_no_colonial_ties_to/">How did Japan, a country with no colonial ties to the United Kingdom, ended up driving on the left?</a>, submitted on 2023-01-06 00:46:42+08:00.</h3>
+
+<p>—– <strong>1032.1</strong> —–2023-01-07 01:17:17+08:00:</p>
+
+<p>Thank you for your response. Unfortunately, we have had to remove it due to violations of <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_answers">subreddit’s rules about answers needing to reflect current scholarship</a>. While we appreciate the effort you have put into this comment, there are nevertheless significant errors, misunderstandings, or omissions of the topic at hand <a href="https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/">which necessitated its removal</a>.</p>
+
+<p>We understand this can be discouraging, but we would also encourage you to consult <a href="https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/">this Rules Roundtable to better understand how the mod team evaluates answers on the sub</a>. If you are interested in feedback on improving future contributions, please feel free to <a href="https://www.reddit.com/message/compose?to=%2Fr%2FAskHistorians&amp;subject=Inquiry%20About%20Improving%20Future%20Responses">reach out to us via modmail</a>. Thank you for your understanding.</p>
+
+<h3 id="1033-the-new-tempus-boys-are-nearly-here-have-a-look-at-their-mamaspapas-other-works-submitted-on-2023-01-06-0942590800">1033: <a href="https://old.reddit.com/r/Hololive/comments/104h34o/the_new_tempus_boys_are_nearly_here_have_a_look/">The new Tempus Boys are nearly here! have a look at their Mama’s/Papa’s other works</a>, submitted on 2023-01-06 09:42:59+08:00.</h3>
+
+<p>—– <strong>1033.1</strong> —–2023-01-06 10:26:33+08:00:</p>
+
+<p>I’d seen so many discussions about the involvement of Fate artists that I was honestly expecting more than just one…</p>
+
+<p>But anyway, top-tier as usual.</p>
+
+<h3 id="1034-oh-nyo-submitted-on-2023-01-06-2329320800">1034: <a href="https://old.reddit.com/r/Hololive/comments/104wzfp/oh_nyo/">oh nyo</a>, submitted on 2023-01-06 23:29:32+08:00.</h3>
+
+<p>—– <strong>1034.1</strong> —–2023-01-07 19:07:06+08:00:</p>
+
+<p>If by ‘has clearly shown mutual affection for’ you mean ‘essentially confirmed dating’ then yeah I guess, lol.</p>
+
+<h3 id="1035-first-nation-to-peacefully-be-granted-independence-full-autonomy-from-the-british-empire-submitted-on-2023-01-07-0829060800">1035: <a href="https://old.reddit.com/r/AskHistorians/comments/105al5z/first_nation_to_peacefully_be_granted/">First nation to peacefully be granted independence (full-autonomy) from the British empire?</a>, submitted on 2023-01-07 08:29:06+08:00.</h3>
+
+<p>—– <strong>1035.1</strong> —–2023-01-07 10:29:13+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="1036-did-i-miss-something-is-there-a-reason-myth-and-console-went-to-japan-or-was-it-just-for-fun-and-to-meet-the-others-submitted-on-2023-01-07-1045090800">1036: <a href="https://old.reddit.com/r/Hololive/comments/105dmfm/did_i_miss_something_is_there_a_reason_myth_and/">Did I miss something? Is there a reason Myth and console went to Japan, or was it just for fun and to meet the others?</a>, submitted on 2023-01-07 10:45:09+08:00.</h3>
+
+<p>—– <strong>1036.1</strong> —–2023-01-07 18:49:41+08:00:</p>
+
+<p>Hyperdimension Neptunia’s been getting away with it for over a decade though.</p>
+
+<h3 id="1037-turkish-province-called-opium-does-not-have-opium-plantations-submitted-on-2023-01-07-1750150800">1037: <a href="https://old.reddit.com/r/victoria3/comments/105lbtx/turkish_province_called_opium_does_not_have_opium/">Turkish province called opium does not have opium plantations</a>, submitted on 2023-01-07 17:50:15+08:00.</h3>
+
+<p>—– <strong>1037.1</strong> —–2023-01-08 01:41:39+08:00:</p>
+
+<p>It’s easily overlooked that Smyrna was one of the major export hubs for opium in the 19th century – a number of American merchants made it big off selling Turkish opium in China as an alternative to the Indian opium being sold by British smugglers.</p>
+
+<h3 id="1038-mirandas-galaxies-and-the-midland-railway-small-engine-policy-submitted-on-2023-01-08-0424130800">1038: <a href="https://old.reddit.com/r/DaystromInstitute/comments/105yo5z/mirandas_galaxies_and_the_midland_railway_small/">Mirandas, Galaxies, and the Midland Railway small engine policy</a>, submitted on 2023-01-08 04:24:13+08:00.</h3>
+
+<p>—– <strong>1038.1</strong> —–2023-01-09 00:24:26+08:00:</p>
+
+<p>Historically, small ships have always had utility that has made them more viable to field (er, float?) in large numbers than big ones. Take the Imperial Japanese Navy for instance: going off Wikipedia’s numbers, over the course of WW2 it deployed 12 battleships and 13 fleet carriers for 25 total ‘heavy’ capital ships; add in its 7 light carriers, 10 escort carriers and 18 heavy cruisers and that’s 60 capital or capital-adjacent ships. But they also deployed 25 light cruisers, 169 fleet destroyers, 180 destroyer escorts, 21 lighter sea-going vessels, and 195 submarines. In other words, over three times as many submarines as capital(-ish) ships, and nearly <em>six</em> times as many destroyers. And the reason for that is simple: the small ships do tasks that it is impractical to use big ships for.</p>
+
+<p>The core function of capital ships is to be heavy hitters in a decisive engagement: powerful weaponry and high survivability are the order of the day, and it is worth noting that capital ships could also often be pretty fast if they revved their engines up fully. But that doesn’t make them some kind of all-round superweapon. If you need to escort convoys long distances, you want ships that prioritise fuel capacity and efficiency, over weapons and armour if necessary. If you’re trying to attack such convoys, you want ships that have low detectability, high escape ability (whether by speed or stealth), and heavy offensive weaponry. If you need to patrol an area of coastline, six small ships with their own detection systems spread out across a wide area will do you far better than a single heavy ship with just one of those systems.</p>
+
+<p>And smaller vessels can have a significant tactical role: destroyers in particular started out as torpedo boats whose role was to essentially Zerg rush battleships by using agility to avoid hits and sheer numbers to absorb them, then fire torpedoes that would hit the ship under the waterline and knock it out of action. ‘Torpedo boat destroyers’ were then built to counter these, and then over time the two simply merged into a single ship type with greater survivability. And the simple reality is that much as it would be ideal to just throw battleships at the problem, destroyers were purpose-built to destroy unescorted capital ships. You needed to have some kind of parity with your own destroyers to keep the enemy’s at a distance. In short, destroyers beat capital ships, but escorted capital ships beat destroyers, so you needed both in order to be successful.</p>
+
+<p>How does this translate to Star Trek? Firstly, smaller ships are more efficient at carrying out tasks that you just need <em>a</em> ship for, not the <em>best</em> ship for. If you’re transporting some minor dignitary from one planet to another, a ship that only needs 100 crew will do the job just as well as a ship that needs 1000. Secondly, there are operational tasks for which small ships are outright better at doing the job if adjusted for cost. If you’re patrolling an area of space, two ships with souped-up sensors will do the job as well as a big ship with equivalent sensor power. Thirdly, there are situations where a small ship is just <em>better</em>. If you’re performing a stealth mission, a small ship with a small profile will be much more ideal than a big one. Arguably, it is only the tactical role where, because we don’t necessarily have a good sense of how ships scale in Trek, there doesn’t seem to be an obvious reason why larger numbers of smaller ships would be necessarily preferable. Two ships that are 50% the size of a Galaxy-class may well have the same total firepower, survivability, and target profile. <em>But</em>. Given that these ships have more <em>non</em>-tactical utility, that’s why they’re still around.</p>
+
+<p>The thing is, the Federation’s model may not actually be impractical: it probably takes more resources to build a big ship than a small one, and we don’t quite know how the scalability works. The Dominion War necessitated building more ships <em>in general</em>, because the Federation had got away with having a comparatively small fleet <em>overall</em> up to that point.</p>
+
+<h3 id="1039-any-historical-interaction-between-china-and-major-states-in-india-submitted-on-2023-01-08-1341000800">1039: <a href="https://old.reddit.com/r/ChineseHistory/comments/106b4ep/any_historical_interaction_between_china_and/">Any historical interaction between China and major states in India?</a>, submitted on 2023-01-08 13:41:00+08:00.</h3>
+
+<p>—– <strong>1039.1</strong> —–2023-01-08 19:31:26+08:00:</p>
+
+<p>It’d be tricky as China proper has historically not had a land border with the general South Asia region. While there was significant Chinese contact with Iran-based states, particularly the early Caliphates, this was mediated via Central Asia and a direct result of mutual competing interests in the earlier part of the Tang Empire’s existence, which coincided with a period of relative fragmentation in northern India. The only subsequent contacts into South Asia would therefore have had to involve either competing interest in Central Asia or in Tibet, which is why ultimately the first significant ‘Sino’-‘Indian’ contacts would be under the Qing: the conflicts with Nepal in the 1790s and the Sikh Empire in the 1840s. That’s not to say there was not interest, nor, more importantly, that private individuals did not travel from one to the other, but it is to say that actual diplomacy was pretty limited. The thing to read on this is Matthew Mosca’s <em>From Frontier Policy to Foreign Policy</em>, which discusses Qing impressions of India and relations with Indian states and latterly the East India Company. You may also be interested in <a href="https://quod.lib.umich.edu/s/saksaha/13401746.0018.002?view=text;rgn=main">this article</a> also by Mosca which discusses early Manchu claims to suzerainty over India.</p>
+
+<h3 id="1040-hobby-scuffles-week-of-january-9-2023-submitted-on-2023-01-08-2230120800">1040: <a href="https://old.reddit.com/r/HobbyDrama/comments/106kkcq/hobby_scuffles_week_of_january_9_2023/">[Hobby Scuffles] Week of January 9, 2023</a>, submitted on 2023-01-08 22:30:12+08:00.</h3>
+
+<p>—– <strong>1040.1</strong> —–2023-01-09 02:31:18+08:00:</p>
+
+<blockquote>
+  <p>appeared as a guest in Kizuna Ai’s year-end concert</p>
+</blockquote>
+
+<p>Wait, I thought she was still on hiatus?</p>
+
+<p>—– <strong>1040.2</strong> —–2023-01-09 02:33:08+08:00:</p>
+
+<blockquote>
+  <p>Games Workshop’s attempt to do this a while back</p>
+</blockquote>
+
+<p>I have a vague inkling I know what you’re talking about, but is there a summary or article you can link to so I can read up on it properly? I’ve known about the general vibe of GW’s IP-milking but never really dug into the specifics.</p>
+
+<p>—– <strong>1040.3</strong> —–2023-01-09 08:54:50+08:00:</p>
+
+<p>Cheers!</p>
+
+<p>—– <strong>1040.4</strong> —–2023-01-09 08:55:43+08:00:</p>
+
+<p>Huh. I knew that the Japanese side of Multiple AI was reworked into two new VTubers outright but I had no idea the Chinese side was retained. I wrote about Multiple AI <a href="https://www.reddit.com/r/HobbyDrama/comments/th0gow/virtual_youtubers_the_first_years_of_vtubing/">here</a> but as said, no idea the Chinese side had continued.</p>
+
+<p>—– <strong>1040.5</strong> —–2023-01-09 11:32:55+08:00:</p>
+
+<p>I’m going purely off plot summary and wider context here, but it feels like the story of Wu Zetian is the easiest one to fall into a girlboss trap over. I’m also going to say this: for someone who publicly decries Han chauvinism, choosing to present peoples beyond SciFi!China as literal mythological-alien monster creatures is a <em>choice</em>, even if it is ultimately subverted by revealing the setting is in fact a colonial one, with Space!China as the coloniser. The issue is, even if you do agree that the subversion undercuts the ostensible problem, you then run into a historical issue: for the <em>most</em> part the Tang frontier to the north was not a continually expanding colonial border where Han Chinese had simply transplanted themselves (a la the south): the areas of Han settlement and the nomadic fringe had been broadly defined for a long time (albeit very much blending into each other). So then the analogy becomes confused.</p>
+
+<p>—– <strong>1040.6</strong> —–2023-01-11 01:55:24+08:00:</p>
+
+<p>Nora Cat, not to be confused with Noraneko. This happened in February 2018, barely 10 months after their original debut and decidedly in the very early years of VTubing – per <a href="https://www.reddit.com/r/VirtualYoutubers/comments/mfzssc/here_are_the_30_oldest_vtubers_in_the_industry/">this post</a> on r/VirtualYoutubers,  Nora Cat was the second VTuber <em>ever</em> if we start counting from Kizuna AI, and my unsubstantiated estimate would have it that fewer than 100 VTubers even existed at the time of the leak, compared to at least 20,000 as of November last year <a href="https://www.userlocal.jp/press/20221129vt/">per data analysis site UserLocal</a>.</p>
+
+<p>—– <strong>1040.7</strong> —–2023-01-11 09:56:12+08:00:</p>
+
+<p>So, <a href="https://data.nextshark.com/wp-content/uploads/2018/02/oyaku-e1517959734945.jpg">the middle image of this screenshot</a> is what the incident looked like. Bear in mind that as noted, Nora Cat was pretty much the second VTuber ever if we go by a Kizuna AI-based definition, and was essentially created from scratch as a solo project. Whatever method they were using seems to have involved the following process, which most Live2D and 3D programs technically use:</p>
+
+<ol>
+  <li>The camera records their face directly.</li>
+  <li>Facial recognition trickery marks out the position of their facial features to produce a ‘mask’.</li>
+  <li>The model is then basically mapped onto the mask.</li>
+</ol>
+
+<p>However, they did not have the benefit of commercial programs that just outputted the end product. Instead, all three stages were technically being hosted directly on their stream setup. The raw footage, the mask, and the final model were all layered on top of each other, but the raw footage and the mask were usually transparent. On this occasion, the transparencies seem to have been flipped, thus leading to the incident.</p>
+
+<p>—– <strong>1040.8</strong> —–2023-01-11 10:22:57+08:00:</p>
+
+<blockquote>
+  <p>this was a couple years ago so they were probably using prprlive or facerig</p>
+</blockquote>
+
+<p>This was February 2018 and they started out in April 2017; as far as I’m aware their setup (with 3D model incidentally) was scratchbuilt or at least highly improvised.</p>
+
+<p>—– <strong>1040.9</strong> —–2023-01-13 02:38:04+08:00:</p>
+
+<p>So, I legitimately did not know that Bushiroad was behind <em>BanG Dream!</em>, I thought they just did TCGs. Now that I do know, their sponsorship of Hololive’s 3rd major live concert suddenly makes a whole lot more sense.</p>
+
+<p>—– <strong>1040.10</strong> —–2023-01-13 03:02:29+08:00:</p>
+
+<p>Ah, which also gives context to Great-O-Khan, of Bushiroad-owned New Japan Pro Wrestling, being a fan of Hololive member Oozora Subaru to the point of having a move specifically based on a lock she performs in an animated episode.</p>
+
+<p><a href="https://www.youtube.com/watch?v=kl9rrADVWI8">I’m not joking.</a></p>
+
+<p>—– <strong>1040.11</strong> —–2023-01-15 03:18:12+08:00:</p>
+
+<p>Welcome to the DS9 club! And incidentally, it’s me, I am the Sisko stan.</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2023-01-15</time>
+        <a href="https://nodebe4.github.io/opinion/2023-01-15/EnclavedMicrostate/">
+          EnclavedMicrostate在2023-01-09~2023-01-15的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-01-13</time>
+        <a href="https://nodebe4.github.io/opinion/2023-01-13/ForeignAffairsMag/">
+          ForeignAffairsMag在2023-01-09~2023-01-15的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-01-07</time>
+        <a href="https://nodebe4.github.io/opinion/2023-01-07/Spinkcat/">
+          Spinkcat在2023-01-02~2023-01-08的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-01-04</time>
+        <a href="https://nodebe4.github.io/opinion/2023-01-04/ForeignAffairsMag/">
+          ForeignAffairsMag在2023-01-02~2023-01-08的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2023-01-07/%E7%B6%93%E5%85%B8%E9%87%8D%E6%BA%AB-%E7%A6%81%E5%BF%8C%E5%8F%B2%E8%A9%B1-%E5%A4%A7%E8%BA%8D%E9%80%B2-2-%E5%90%B9%E7%89%9B%E7%9A%84%E5%B9%B4%E4%BB%A3/">
+            前一篇：🌟【經典重溫】禁忌史話：大躍進（2）吹牛的年代
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2023-01-08/HeQinglian/">
+            後一篇：Twitter @He Qinglian: 2023-01-02~2023-01-08
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2023-01-07/%E7%B6%93%E5%85%B8%E9%87%8D%E6%BA%AB-%E7%A6%81%E5%BF%8C%E5%8F%B2%E8%A9%B1-%E5%A4%A7%E8%BA%8D%E9%80%B2-2-%E5%90%B9%E7%89%9B%E7%9A%84%E5%B9%B4%E4%BB%A3/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2023-01-08/HeQinglian/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2023-01-13/ForeignAffairsMag/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2023-01-07/Spinkcat/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2023-01-07/%E7%B6%93%E5%85%B8%E9%87%8D%E6%BA%AB-%E7%A6%81%E5%BF%8C%E5%8F%B2%E8%A9%B1-%E5%A4%A7%E8%BA%8D%E9%80%B2-2-%E5%90%B9%E7%89%9B%E7%9A%84%E5%B9%B4%E4%BB%A3/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2023-01-08/HeQinglian/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2023-01-13/ForeignAffairsMag/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2023-01-07/Spinkcat/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

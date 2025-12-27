@@ -1,0 +1,2998 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Non-Fungible Taylor Swift – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+Non-Fungible Taylor Swift
+——
+" />
+    <meta property="og:description" content="
+Non-Fungible Taylor Swift
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Non-Fungible Taylor Swift" />
+    <meta property="twitter:title" content="Non-Fungible Taylor Swift" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2021%2Fnon-fungible-taylor-swift%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2021/non-fungible-taylor-swift/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2021/non-fungible-taylor-swift/&text=Non-Fungible Taylor Swift&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2021/non-fungible-taylor-swift/&title=Non-Fungible Taylor Swift" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2021/non-fungible-taylor-swift/&title=Non-Fungible Taylor Swift" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Non-Fungible Taylor Swift&body=
+Non-Fungible Taylor Swift
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2021/non-fungible-taylor-swift/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2021/non-fungible-taylor-swift/&title=Non-Fungible Taylor Swift&caption=
+Non-Fungible Taylor Swift
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Non-Fungible Taylor Swift&url=https://stratechery.com/2021/non-fungible-taylor-swift/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Non-Fungible Taylor Swift</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2021-04-12
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2021/non-fungible-taylor-swift/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1618236115000-->
+<p><a href="https://stratechery.com/2021/non-fungible-taylor-swift/">Non-Fungible Taylor Swift</a>
+——</p>
+
+<div>
+  <p>In July 2014 Taylor Swift wrote an editorial in the Wall Street Journal entitled, <a href="https://www.wsj.com/articles/for-taylor-swift-the-future-of-music-is-a-love-story-1404763219">For Taylor Swift, the Future of Music Is a Love Story</a>:</p>
+  <blockquote>
+    <p>There are many (many) people who predict the downfall of music sales and the irrelevancy of the album as an economic entity. I am not one of them. In my opinion, the value of an album is, and will continue to be, based on the amount of heart and soul an artist has bled into a body of work, and the financial value that artists (and their labels) place on their music when it goes out into the marketplace.</p>
+    <p>In recent years, you’ve probably read the articles about major recording artists who have decided to practically give their music away, for this promotion or that exclusive deal. My hope for the future, not just in the music industry, but in every young girl I meet is that they all realize their worth and ask for it.</p>
+  </blockquote>
+  <p>The Internet commentariat was unimpressed; Nilay Patel wrote <a href="https://www.vox.com/2014/7/7/5878603/taylor-swift-doesnt-understand-supply-and-demand">in Vox</a>:</p>
+  <blockquote>
+    <p>Taylor makes a nice little argument in favor of paying for music. “Music is art,” she says, “and art is important and rare. Important, rare things are valuable. Valuable things should be paid for. It’s my opinion that music should not be free, and my prediction is that individual artists and their labels will someday decide what an album’s price point is.”</p>
+    <p>This is an impressively-constructed syllogism. It is also deeply, deeply wrong…On the internet, there’s no scarcity: there’s an endless amount of everything available to everyone. The laws of supply and demand don’t work terribly well when there’s infinite supply. Swift is right that “important, rare things are valuable,” but she’s failed to understand that the idea of rarity simply doesn’t exist in the digital marketplace.</p>
+  </blockquote>
+  <p>Three months after that op-ed it looked like Swift’s argument had the upper-hand; <em>1989</em> launched as a digital download or on physical media, but was <em>not</em> available on Spotify. It went on to sell 1.2 million copies at launch, the biggest one-week number in over a decade, topped the Billboard 200 for 11 weeks, and has received a ninefold platinum certification from the RIAA.</p>
+  <p>Eight years on, though, and Swift has fully embraced streaming: <em>Lover</em>, <em>folklore</em>, and <em>evermore</em> were all available on both Spotify and Apple Music at launch. The most interesting album of all, though, is the one Swift released last week.</p>
+  <h4 id="fearless-big-machines-version">Fearless (Big Machine’s Version)</h4>
+  <p>The original <em>Fearless</em>, released in 2008, was Swift’s second studio album and her big commercial breakthrough. It was also the second of six albums Swift owed Big Machine Records, the record label that had made Swift its first signing. In 2018, having fulfilled her contract, Swift switched to Republic Records and Universal Music group; six months later, Scott Borchetta, the founder of Big Machine Records, sold the label — and crucially, the masters to Swift’s first six albums — to an investment group headed by Scooter Braun.</p>
+  <p>The drama that followed (summarized in this <a href="https://twitter.com/yashar/status/1145532576196694016">Yashar Ali Twitter thread</a>) pulled in a whole host of Swift history, from her initial signing with Borchetta to Braun client Kanye West, who (in)famously stormed the 2009 MTV Video Music Awards to complain that Beyoncé deserved Swift’s award for Best Video by a Female Artist, launching a feud that would wax and wane for <a href="https://www.vox.com/culture/2019/8/26/20828559/taylor-swift-kanye-west-2009-mtv-vmas-explained">over a decade</a>. Swift <a href="https://taylorswift.tumblr.com/post/185958366550/for-years-i-asked-pleaded-for-a-chance-to-own-my">accused Borchetta</a> of betrayal; <a href="https://www.bigmachinelabelgroup.com/news/so-its-time-some-truth">Borchetta claimed</a> Swift misrepresented her negotiations with Big Machine. What is most interesting, though, is <a href="https://twitter.com/yashar/status/1145522359207694336">this tweet</a> from then Big Machine board member Erik Logan, where he posted an open letter, including the following:</p>
+  <blockquote>
+    <p>Somewhere you have told a story to yourself that you have the right to change history, facts and re-frame any story you want to fix with any narrative you wish. But, as someone who has been by Scott’s side from before you were born, I’m not going to sit on the sidelines and allow you to re-write history and bend the truth to justify your lack of understanding of a business deal. The facts will come out, you will be proven wrong, and people will begin to see that the world you perpetuate, only through your lens, is not reality…</p>
+  </blockquote>
+  <p>I don’t know what happened between Swift and Big Machine Records; as I noted in <a href="https://stratechery.com/2020/five-lessons-from-dave-chappelle/">Five Lessons From Dave Chappelle</a>, while it is easy to take the side of creators who signed away their rights to record labels or networks when they were unknowns, few remember that those same record labels and networks also own a bunch of rights for creators that never came close to paying off the investment made in their (failed) careers. It doesn’t matter.</p>
+  <h4 id="chappelles-redemption-song">Chappelle’s Redemption Song</h4>
+  <p>As <a href="https://www.instagram.com/p/CH-rR9znT3g/">Chappelle made abundantly clear</a>, the fact that <em>Comedy Central</em> lost money on other comics didn’t change the fact that they made a whole bunch of money on Chappelle, and that Chappelle’s ongoing lack of control and cut of royalties made him upset; more importantly, because of the Internet, Chappelle could rally his fans to his side:</p>
+  <div align="center">
+    <div id="v-JWeBCbtu-1" class="video-player">
+      <video id="v-JWeBCbtu-1-video" width="640" height="360" poster="https://videos.files.wordpress.com/JWeBCbtu/lesson5_dvd.original.jpg" controls="true" preload="metadata" dir="ltr" lang="en"><source src="https://videos.files.wordpress.com/JWeBCbtu/lesson5_dvd.mp4" type="video/mp4; codecs=&quot;avc1.64001E, mp4a.40.2&quot;" /><source src="https://videos.files.wordpress.com/JWeBCbtu/lesson5_fmt1.ogv" type="video/ogg; codecs=&quot;theora, vorbis&quot;" /><div>
+<img alt="The Real Boss" src="https://videos.files.wordpress.com/JWeBCbtu/lesson5_dvd.original.jpg" width="640" height="360" />
+        </div>        <p>The Real Boss</p>
+</video>
+    </div>
+  </div>
+  <p>This was, to use Logan’s words, re-framing the story, with Chappelle’s narrative, through his lens. And it worked! Chappelle posted <a href="https://www.instagram.com/p/CLLdODIHcmW/">an update to Instagram</a> a few months later; here is the key section:</p>
+  <div align="center">
+    <div id="v-gztAemQ9-1" class="video-player">
+      <video id="v-gztAemQ9-1-video" width="640" height="360" poster="https://videos.files.wordpress.com/gztAemQ9/chappelle-restored_mp4_dvd.original.jpg" controls="true" preload="metadata" dir="ltr" lang="en"><source src="https://videos.files.wordpress.com/gztAemQ9/chappelle-restored_mp4_dvd.mp4" type="video/mp4; codecs=&quot;avc1.64001E, mp4a.40.2&quot;" /><source src="https://videos.files.wordpress.com/gztAemQ9/chappelle-restored_fmt1.ogv" type="video/ogg; codecs=&quot;theora, vorbis&quot;" /><div>
+<img alt="" src="https://videos.files.wordpress.com/gztAemQ9/chappelle-restored_mp4_dvd.original.jpg" width="640" height="360" />
+        </div></video>
+    </div>
+  </div>
+  <blockquote>
+    <p>A few weeks ago I put a special out. I called it ‘Unforgiven’. I told people what my beef was with <em>Comedy Central</em>. I never talked about it, I demanded that the network pay me. Many of my peers laughed at me because that’s a ridiculous thing to demand. They said, “You signed the contract so what are you even mad about?”</p>
+    <p>Here’s the thing: I’m very good at minding my own business. The trick to minding your own business is know what is your business. These people that talk about me, these cowards that rejoice, well they don’t understand what greatness looks like.</p>
+    <p>I never asked <em>Comedy Central</em> for anything. If you remember, I said “I’m going to my real boss”, and I came to you, because I know where my real power lies. I asked you to stop watching the show and thank God almighty for you, you did. You made that show worthless, because without your eyes it’s nothing. And when you stopped watching it, they called me, and I got my name back, and I got my license back, and I got my show back, and they paid me millions of dollars. Thank you very much.</p>
+  </blockquote>
+  <p>Swift is doing the exact same thing, which is why the story of her breakup with Big Machine and the question of who was right or wrong ultimately doesn’t matter; Swift, like Chappelle, is taking her masters, whether she owns them or not.</p>
+  <h4 id="fearless-taylors-version">Fearless (Taylor’s Version)</h4>
+  <p>Just look at the art for last week’s release:</p>
+  <p><img loading="lazy" src="https://stratechery.com/wp-content/uploads/2021/04/taylor-1-1024x576.png" alt="The art for Fearless (Taylor&#039;s Version)" width="640" height="360" class="aligncenter size-large wp-image-5759" srcset="https://stratechery.com/wp-content/uploads/2021/04/taylor-1-1024x576.png 1024w, https://stratechery.com/wp-content/uploads/2021/04/taylor-1-300x169.png 300w, https://stratechery.com/wp-content/uploads/2021/04/taylor-1-768x432.png 768w, https://stratechery.com/wp-content/uploads/2021/04/taylor-1-1120x630.png 1120w, https://stratechery.com/wp-content/uploads/2021/04/taylor-1.png 1280w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+  <p>It’s not just <em>Fearless</em>, it’s <em>Fearless (Taylor’s Version)</em>; which version do you think that Swift fans will choose to stream (which, after all, is where most of the residual value of <em>Fearless</em> lies)? That’s the part that Logan forgot: when it comes to a world of abundance the power that matters is demand, and demand is driven by fans of Swift, not lawyers for Big Machine or Scooter Braun or anyone else.</p>
+  <p>It’s easy to see how this plays out going forward: Swift probably doesn’t even have to remake another album; she has demonstrated the willingness and capability to remake her old records, and her fans will do the rest. It will behoove Shamrock Capital, <a href="https://www.nytimes.com/2020/11/16/arts/music/taylor-swift-scooter-braun-masters.html">the current owner of Swift’s masters</a>, to buy-out Braun’s share of future upside and make a deal with Swift, because Swift, granted the power to go direct to fans and make her case, can in fact “change history, facts, and re-frame any story [she] want[s] to fit with any narrative [she] wish[es].”</p>
+  <p>What is notable about Swift’s tactics is that they are the opposite of what she urged in that 2014 op-ed. Instead of treasuring “Fearless”, Swift devalued it; instead of asking for what her masters are worth, Swift is simply taking them. Patel was right that while art may be important, on the Internet it’s not rare; what he missed is how that makes Swift more powerful than ever.</p>
+  <h4 id="nfts">NFTs</h4>
+  <p>Consider NFTs — non-fungible tokens. I explained NFTs in <a href="https://stratechery.com/2021/nonfungible-tokens-nba-top-shot-the-creation-of-consumption/">this Daily Update</a> (and <a href="https://twitter.com/ditheringfm/status/1371470706878287877">this episode of Dithering</a>); an excerpt:<a href="https://stratechery.com/2021/non-fungible-taylor-swift/#footnote_0_5756" id="identifier_0_5756" class="footnote-link footnote-identifier-link" title="This paragraph is here for reference; as Felix Salmon noted on Twitter, the actual implementation of NFTs leaves a lot to be desired">1</a></p>
+  <blockquote>
+    <p>Smart contracts are code that is stored on a blockchain, which contain the various conditions entailed in the contract; in the case of an NFT, a smart contract would contain the unique token ID of the piece of digital art and the conditions under which it can be transferred (NFTs can represent anything, including physical assets, but I’m going to assume digital art for now for simplicity sake).</p>
+  </blockquote>
+  <p>There has been a great deal of excitement in creative industries about NFTs restoring the “value of art”; in addition to digital drawings, there have been music albums sold for <a href="https://www.musicbusinessworldwide.com/music-related-nft-sales-have-topped-25m-in-the-past-month/">millions of dollars</a>. You can see the allure: Patel wrote about the end of scarcity, so technology that brings scarcity back seems like a panacea. Perhaps Swift’s 2014 vision was simply ahead of its time?</p>
+  <p>It was, in fact, but not because NFTs are inherently valuable, at least not in the way so many aspiring artists wish they were. At the end of the day an NFT is simply an entry in a blockchain, and a blockchain is intrinsically worthless. That, to be clear, does not mean blockchains cannot be a store of value; I wrote in 2017 <a href="https://stratechery.com/2017/tulips-myths-and-cryptocurrencies/">about Bitcoin</a>:</p>
+  <blockquote>
+    <p>Bitcoin has been around for eight years now, it has captured the imagination, ingenuity, and investment of a massive number of very smart people, and it is increasingly trivial to convert it to the currency of your choice. Can you use Bitcoin to buy something from the shop down the street? Well, no, but you can’t very well use a piece of gold either, and no one argues that the latter isn’t worth whatever price the gold market is willing to bear. Gold can be converted to dollars which can be converted to goods, and Bitcoin is no different. To put it another way, enough people believe that gold is worth something, and that is enough to make it so, and I suspect we are well past that point with Bitcoin.</p>
+  </blockquote>
+  <p>Bitcoin’s value is rooted not in the Bitcoin blockchain, but rather in the collective belief of millions that it is in fact valuable; NFTs, to the extent they capture and retain value, will require the same sort of collective belief (this is why I find NBA Top Shot particularly interesting: it is rooted in real world copyright). That means the real power is not the record of belief, but rather the ability to inspire belief in the first place.</p>
+  <h4 id="artists-not-art">Artists, Not Art</h4>
+  <p>This explains what Swift got right in 2014:</p>
+  <blockquote>
+    <p>A friend of mine, who is an actress, told me that when the casting for her recent movie came down to two actresses, the casting director chose the actress with more Twitter followers. I see this becoming a trend in the music industry. For me, this dates back to 2005 when I walked into my first record-label meetings, explaining to them that I had been communicating directly with my fans on this new site called Myspace. In the future, artists will get record deals because they have fans — not the other way around.</p>
+  </blockquote>
+  <p>This is the inverse of Swift leveraging her fans to acquire her masters: future artists will wield that power from the beginning (like <a href="https://stratechery.com/2021/sovereign-writers-and-substack/">sovereign writers</a>). It’s not that “art is important and rare”, and thus valuable, but rather that the artists themselves are important and rare, and impute value on whatever they wish.</p>
+  <p>To put it another way, while we used to pay for plastic discs and thought we were paying for songs (or newspapers/writing or cable/TV stars), empowering distribution over creators, today we pay with both money and attention according to the direction of creators, giving them power over everyone. If the creator decides that their NFTs are important, they will have value; if they decide their show is worthless, it will not. And, in the case of Swift, if she decides that albums are valuable they will be, not because they are now scarce, but because only she can declare an album “Taylor’s Version”.</p>
+  <ol class="footnotes">
+    <li id="footnote_0_5756" class="footnote">This paragraph is here for reference; as <a href="https://twitter.com/felixsalmon/status/1381616082868436992">Felix Salmon noted on Twitter</a>, the actual implementation of NFTs leaves a lot to be desired</li>
+  </ol>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2021-04-28</time>
+        <a href="https://nodebe4.github.io/opinion/2021-04-28/Spotify-s-Surprise/">
+          Spotify’s Surprise
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-04-21</time>
+        <a href="https://nodebe4.github.io/opinion/2021-04-21/Podcast-Subscriptions-vs.-the-App-Store/">
+          Podcast Subscriptions vs. the App Store
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-03-22</time>
+        <a href="https://nodebe4.github.io/opinion/2021-03-22/Sovereign-Writers-and-Substack/">
+          Sovereign Writers and Substack
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-03-16</time>
+        <a href="https://nodebe4.github.io/opinion/2021-03-16/Moderation-in-Infrastructure/">
+          Moderation in Infrastructure
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2021-04-12/%E5%BC%A0%E5%8D%83%E5%B8%86-%E5%A4%A7%E4%B8%8D%E5%88%97%E9%A2%A0-%E6%98%AF%E5%A6%82%E4%BD%95%E5%BD%A2%E6%88%90%E7%9A%84-%E5%AE%8C%E6%95%B4%E7%89%88/">
+            前一篇：张千帆：“大不列颠”是如何形成的（完整版）
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2021-04-12/%E4%B8%AD%E5%85%B1%E6%B8%85%E6%B4%97-%E5%85%A9%E9%9D%A2%E4%BA%BA-%E6%96%B0%E7%96%86%E5%AE%98%E5%93%A1%E7%9A%84%E9%9B%99%E9%87%8D%E5%90%AB%E7%BE%A9/">
+            後一篇：中共清洗「兩面人」新疆官員的雙重含義
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2021-04-12/%E5%BC%A0%E5%8D%83%E5%B8%86-%E5%A4%A7%E4%B8%8D%E5%88%97%E9%A2%A0-%E6%98%AF%E5%A6%82%E4%BD%95%E5%BD%A2%E6%88%90%E7%9A%84-%E5%AE%8C%E6%95%B4%E7%89%88/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2021-04-12/%E4%B8%AD%E5%85%B1%E6%B8%85%E6%B4%97-%E5%85%A9%E9%9D%A2%E4%BA%BA-%E6%96%B0%E7%96%86%E5%AE%98%E5%93%A1%E7%9A%84%E9%9B%99%E9%87%8D%E5%90%AB%E7%BE%A9/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2021-04-21/Podcast-Subscriptions-vs.-the-App-Store/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2021-03-22/Sovereign-Writers-and-Substack/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2021-04-12/%E5%BC%A0%E5%8D%83%E5%B8%86-%E5%A4%A7%E4%B8%8D%E5%88%97%E9%A2%A0-%E6%98%AF%E5%A6%82%E4%BD%95%E5%BD%A2%E6%88%90%E7%9A%84-%E5%AE%8C%E6%95%B4%E7%89%88/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2021-04-12/%E4%B8%AD%E5%85%B1%E6%B8%85%E6%B4%97-%E5%85%A9%E9%9D%A2%E4%BA%BA-%E6%96%B0%E7%96%86%E5%AE%98%E5%93%A1%E7%9A%84%E9%9B%99%E9%87%8D%E5%90%AB%E7%BE%A9/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2021-04-21/Podcast-Subscriptions-vs.-the-App-Store/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2021-03-22/Sovereign-Writers-and-Substack/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

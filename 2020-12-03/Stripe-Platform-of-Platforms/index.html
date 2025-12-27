@@ -1,0 +1,3005 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Stripe: Platform of Platforms – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+Stripe: Platform of Platforms
+——
+" />
+    <meta property="og:description" content="
+Stripe: Platform of Platforms
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Stripe: Platform of Platforms" />
+    <meta property="twitter:title" content="Stripe: Platform of Platforms" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2020%2Fstripe-platform-of-platforms%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2020/stripe-platform-of-platforms/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2020/stripe-platform-of-platforms/&text=Stripe: Platform of Platforms&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2020/stripe-platform-of-platforms/&title=Stripe: Platform of Platforms" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2020/stripe-platform-of-platforms/&title=Stripe: Platform of Platforms" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Stripe: Platform of Platforms&body=
+Stripe: Platform of Platforms
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2020/stripe-platform-of-platforms/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2020/stripe-platform-of-platforms/&title=Stripe: Platform of Platforms&caption=
+Stripe: Platform of Platforms
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Stripe: Platform of Platforms&url=https://stratechery.com/2020/stripe-platform-of-platforms/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Stripe: Platform of Platforms</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2020-12-03
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2020/stripe-platform-of-platforms/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1607007611000-->
+<p><a href="https://stratechery.com/2020/stripe-platform-of-platforms/">Stripe: Platform of Platforms</a>
+——</p>
+
+<div>
+  <p>Today <a href="https://www.wsj.com/articles/stripe-to-offer-banking-services-in-deal-with-goldman-sachs-citigroup-11607007608">Stripe is announcing Stripe Treasury</a>; from the company’s <a href="https://stripe.com/newsroom/news/treasury">press release</a>:</p>
+  <blockquote>
+    <p>Stripe, the technology company building economic infrastructure for the Internet, today announced that it is launching Stripe Treasury. This gives Stripe’s platform users powerful APIs to embed financial services, enabling their customers to easily send, receive and store funds…</p>
+    <p>Stripe Treasury…enabl[es] platforms like Shopify to easily offer its merchants access to critical financial products to manage their businesses’ finances. With Stripe Treasury, platforms can offer their users interest-earning accounts eligible for FDIC insurance in minutes, enabled by Evolve Bank &amp; Trust. Platform business customers can have near-instant access to revenue earned through Stripe, spend this directly from their balance with a dedicated card, transfer it via ACH or wire transfer, pay bills, and more.</p>
+  </blockquote>
+  <p>Stripe Treasury, <a href="https://stripe.com/treasury">as its website notes</a>, is banking-as-a-service, but, critically, Stripe is not a bank; look carefully at the product’s press image:</p>
+  <p><a href="https://stripe.com/treasury"><img src="https://stratechery.com/wp-content/uploads/2020/12/stripe-3-1024x614.png" alt="The promotional image for Stripe Treasury" width="640" height="384" class="aligncenter size-large wp-image-5455" srcset="https://stratechery.com/wp-content/uploads/2020/12/stripe-3-1024x614.png 1024w, https://stratechery.com/wp-content/uploads/2020/12/stripe-3-300x180.png 300w, https://stratechery.com/wp-content/uploads/2020/12/stripe-3-768x461.png 768w, https://stratechery.com/wp-content/uploads/2020/12/stripe-3-1050x630.png 1050w, https://stratechery.com/wp-content/uploads/2020/12/stripe-3.png 1280w" sizes="(max-width: 640px) 100vw, 640px" /></a></p>
+  <p>That is an API call creating a bank account at Goldman Sachs for a pilot on the <a href="https://rocketrides.io/">Rocket Rides</a> platform. Notably, Goldman Sachs is not the only big bank on board; again from the press release:</p>
+  <blockquote>
+    <p>Stripe is enabling standardized access to global banking capabilities via APIs by developing its bank partner network to include Goldman Sachs Bank USA and Evolve Bank &amp; Trust as US partners, and Citibank N.A. and Barclays as global expansion partners. Stripe will fulfill compliance and regulatory requirements in partnership with its US banking partners to make it easy for platform customers using Stripe Treasury to embed banking experiences into their products. And through Stripe, these banks are able to extend their reach to millions of businesses.</p>
+  </blockquote>
+  <p>This is a textbook example of the power of platforms; consider an operating system like Windows: any number of applications can run on any number of computers thanks to there being an abstraction layer in the middle:</p>
+  <p><a href="https://stratechery.com/2017/amazons-operating-system/"><img src="https://stratechery.com/wp-content/uploads/2017/01/FullSizeRender-1024x861.jpg" alt="A drawing of The Concept of an Operating System" width="640" height="538" class="aligncenter size-large wp-image-2397" srcset="https://stratechery.com/wp-content/uploads/2017/01/FullSizeRender-1024x861.jpg 1024w, https://stratechery.com/wp-content/uploads/2017/01/FullSizeRender-300x252.jpg 300w, https://stratechery.com/wp-content/uploads/2017/01/FullSizeRender-768x645.jpg 768w, https://stratechery.com/wp-content/uploads/2017/01/FullSizeRender-750x630.jpg 750w" sizes="(max-width: 640px) 100vw, 640px" /></a></p>
+  <p>This is analogous to the layer for banking that Stripe is offering with Treasury:</p>
+  <p><img src="https://stratechery.com/wp-content/uploads/2020/12/stripe-2-1024x767.png" alt="Stripe&#039;s position as a platform" width="640" height="479" class="aligncenter size-large wp-image-5454" srcset="https://stratechery.com/wp-content/uploads/2020/12/stripe-2-1024x767.png 1024w, https://stratechery.com/wp-content/uploads/2020/12/stripe-2-300x225.png 300w, https://stratechery.com/wp-content/uploads/2020/12/stripe-2-768x575.png 768w, https://stratechery.com/wp-content/uploads/2020/12/stripe-2-841x630.png 841w, https://stratechery.com/wp-content/uploads/2020/12/stripe-2.png 1280w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+  <p>This explains that API call above: a Rocket Rides pilot doesn’t have the wherewithal to open a business bank account at Goldman Sachs, and Goldman Sachs doesn’t have the flexibility to offer a banking account to individual entrepreneurs. This, though, is the exact sort of problem platforms solve: they provide an abstraction layer that connects different sides of a market, even if those different sides have dramatically different needs and capabilities.</p>
+  <h4 id="stripe-and-shopify">Stripe and Shopify</h4>
+  <p>It is Stripe’s partnership with Shopify, though, that is particularly compelling, and emblematic of both how powerful Treasury can be, and how extensive Stripe’s platform ambitions are. Again from the press release:</p>
+  <blockquote>
+    <p>For businesses today, accessing financial services can typically involve a series of bureaucratic hoops and a lengthy application process. According to recent Stripe research, setting up an account takes 5 and a half days on average (and 7 days on average for online businesses), around one in four (23%) businesses have to send a fax to open an account, and over half of businesses (55%) are required to visit a branch in person to open a bank account. Financial services simply weren’t designed for the modern internet, and this is a pain point for businesses today: nearly half (46%) of companies report that their banking experience has hindered their company growth.</p>
+  </blockquote>
+  <p>This is a pain point I know quite well; Stratechery is incorporated in the U.S., and I had to fly back to the U.S. for the express purpose of opening a business bank account!</p>
+  <blockquote>
+    <p>This kind of off-line banking experience is increasingly incongruous in a world where 76% of businesses (e.g. retailers) use an industry-specific software platform to manage their business, a figure that increases to 92% for businesses with more than 500 employees. The feedback from Stripe’s users is that they want a digital solution for financial services available directly within the software platform that powers their operations. On the flipside, Stripe’s platform customers are increasingly looking to embed financial services into their own product, but oftentimes face barriers to doing so.</p>
+  </blockquote>
+  <p>Now with Treasury, someone starting up a new Internet business can simply start selling goods, services, or yes, subscriptions, and have their banking needs met by the same software which is powering their business. Stripe co-founder and President John Collison explained in <a href="https://stratechery.com/2020/an-interview-with-stripe-president-john-collison">an interview</a>:</p>
+  <blockquote>
+    <p>Which seems more ergonomic for a business? That they decide they’re going to start an online store and the very first thing they do is go down to a bank, and maybe in person, and they’re going through that process, they’re setting up their accounts, then they come back and do some white boarding. And they’re like, “Hmm, what should our business be?” That’s not how it works.</p>
+    <p>How it works is they have this cool idea and they try it out and they open a Shopify store for it and they have this money coming in. So we need a way to access those funds, now they will be able to, with Shopify Balance, manage their funds directly within Shopify. That latter thing sounds like a much more natural and ergonomic way to handle the cash flows of their business.</p>
+  </blockquote>
+  <p>What is notable about Shopify is that it too is a platform, and a very powerful one at that. This is how I described the company’s then-new logistics offering in 2019’s <a href="https://stratechery.com/2019/shopify-and-the-power-of-platforms/">Shopify and the Power of Platforms</a>:</p>
+  <blockquote>
+    <p>What Shopify is doing is what platforms do best: act as an interface between two modularized pieces of a value chain.</p>
+    <figure id="attachment_4282" aria-describedby="caption-attachment-4282" style="width: 640px" class="wp-caption aligncenter">
+<a href="https://stratechery.com/2019/shopify-and-the-power-of-platforms/"><img src="https://stratechery.com/wp-content/uploads/2019/07/IMG_272058378EFF-2.jpeg" alt="A drawing of The Shopify Ecosystem" width="640" height="484" class="size-large wp-image-4282" srcset="https://stratechery.com/wp-content/uploads/2019/07/IMG_272058378EFF-2.jpeg 973w, https://stratechery.com/wp-content/uploads/2019/07/IMG_272058378EFF-2-300x227.jpeg 300w, https://stratechery.com/wp-content/uploads/2019/07/IMG_272058378EFF-2-768x581.jpeg 768w, https://stratechery.com/wp-content/uploads/2019/07/IMG_272058378EFF-2-833x630.jpeg 833w" sizes="(max-width: 640px) 100vw, 640px" /></a>      <figcaption id="caption-attachment-4282" class="wp-caption-text">
+Every referral partner, developer, theme designer, and now 3PL provider are simultaneously incentivized to compete with each other narrowly and ensure that Shopify succeeds broadly, because that means the pie is bigger for everyone.
+      </figcaption>
+    </figure>
+    <p>On one side are all of Shopify’s hundreds of thousands of merchants: interfacing with all of them on an individual basis is not scalable for those 3PL companies; now, though, they only need to interface with Shopify.</p>
+  </blockquote>
+  <p>Thus the title of this Article: Stripe isn’t simply a platform, it is a platform for platforms.</p>
+  <h4 id="stripe-capital">Stripe Capital</h4>
+  <p>This broader understanding of Stripe’s ambition became clear to me earlier this week with another announcement, <a href="https://stripe.com/capital/platforms">Capital for platforms</a>. Stripe Capital itself is not new; launched in 2019 the service lends money to businesses that use Stripe’s payments processor; as <a href="https://www.bloomberg.com/news/articles/2019-09-05/fintech-startup-stripe-will-lend-money-to-customers">Bloomberg noted at the time</a>:</p>
+  <blockquote>
+    <p>As the industry has become more digital, PayPal Holdings Inc., Square and even Amazon have introduced small business lending programs, as have a slew of startups including SoftBank Group Corp.-backed Kabbage Inc. and public company OnDeck Capital Inc. Though lending poses risks, Stripe, much like other payment services, says the extra data it has on customers will give it a better idea of whether borrowers can repay loans. The company believes that edge will protect it from significant losses during an economic downturn.</p>
+  </blockquote>
+  <p>Stripe Capital seemed both obvious and, as the article notes, rather unoriginal; this week’s expansion — which was announced with a <a href="https://stripe.com/blog/capital-for-platforms">29-word blog post</a> — makes clear it is much more. Carefully read this tweet from founder and CEO Patrick Collison:</p>
+  <div align="center">
+    <blockquote class="twitter-tweet" data-dnt="true">
+      <p lang="en" dir="ltr">Mundane though it sounds, access to capital is the primary bottleneck that limits the growth and expansion of most small businesses.</p>
+      <p>So we built Capital for platforms: <a href="https://t.co/3BvZhCz9Bo">https://t.co/3BvZhCz9Bo</a>. Help *your* customers grow faster by using our lending infrastructure. <a href="https://t.co/z7xxfM9GFD">pic.twitter.com/z7xxfM9GFD</a></p>
+      <p>— Patrick Collison (@patrickc) <a href="https://twitter.com/patrickc/status/1333834822330896384?ref_src=twsrc%5Etfw">December 1, 2020</a></p>
+    </blockquote>
+    <p>      <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+&lt;/div&gt;      <p>Note the word Patrick Collison emphasized: <em>*your*</em>. Capital for platforms is not for Stripe’s customers, but rather the customer of Stripe’s customers, which is to say, Stripe is asserting itself as the platform of platforms; go back to the news that <a href="https://www.shopify.com/balance">Shopify Balance</a> will be powered by Treasury:</p>
+      <p><img src="https://stratechery.com/wp-content/uploads/2020/12/stripe-1-1024x767.png" alt="Stripe as a platform for platforms" width="640" height="479" class="aligncenter size-large wp-image-5453" srcset="https://stratechery.com/wp-content/uploads/2020/12/stripe-1-1024x767.png 1024w, https://stratechery.com/wp-content/uploads/2020/12/stripe-1-300x225.png 300w, https://stratechery.com/wp-content/uploads/2020/12/stripe-1-768x575.png 768w, https://stratechery.com/wp-content/uploads/2020/12/stripe-1-841x630.png 841w, https://stratechery.com/wp-content/uploads/2020/12/stripe-1.png 1280w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+      <p>Stripe does not have a customer relationship with all of the Shops on Shopify; that is exactly what Shopify is good at, so why would they? Instead, Stripe is focusing on what it is good at: providing that API layer to banks that will never have the capability to serve Shopify Shops, and exposing said layer to Shopify to incorporate into their product.</p>
+      <p>Notably, Treasury skipped the intervening step that Capital started with: Stripe isn’t exposing banking-as-a-service to customers directly on Stripe, but rather making an API available to those customers to offer to their customers. John Collison explained to me:</p>
+      <blockquote>
+        <p>We have a lot of conviction about this idea that the financial services that a plumber needs will be different from financial services that an e-commerce company needs will be different than financial services that a gym or a yoga studio needs, and they will be provisioned by different companies. Given that we have lots and lots of exposure to those kinds of businesses with our platform partners, this is a great way to get started with that.</p>
+      </blockquote>
+      <p>This means the above illustration, fully realized, looks a bit like this:</p>
+      <p><img src="https://stratechery.com/wp-content/uploads/2020/12/stripe-5-1024x767.png" alt="Platform of platforms" width="640" height="479" class="aligncenter size-large wp-image-5459" srcset="https://stratechery.com/wp-content/uploads/2020/12/stripe-5-1024x767.png 1024w, https://stratechery.com/wp-content/uploads/2020/12/stripe-5-300x225.png 300w, https://stratechery.com/wp-content/uploads/2020/12/stripe-5-768x575.png 768w, https://stratechery.com/wp-content/uploads/2020/12/stripe-5-841x630.png 841w, https://stratechery.com/wp-content/uploads/2020/12/stripe-5.png 1280w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+      <h4 id="stripes-ambition">Stripe’s Ambition</h4>
+      <p>Here I think Stripe’s goal — building the economic infrastructure for the Internet — is instructive. Consider the Internet itself: you are reading this Article on the Internet via a connection provided by an Internet Service Provider, which is a relatively local affair that is designed for a particular geography. It is Internet Service Providers that connect to a grand network of cables that is known as the Internet backbone; this map from <a href="https://www.submarinecablemap.com/">Telegeography</a>, for example, shows the world’s submarine cables:</p>
+      <p><a href="https://www.submarinecablemap.com/"><img src="https://stratechery.com/wp-content/uploads/2020/12/stripe-4-1024x629.png" alt="The Internet&#039;s submarine backbone" width="640" height="393" class="aligncenter size-large wp-image-5456" srcset="https://stratechery.com/wp-content/uploads/2020/12/stripe-4-1024x629.png 1024w, https://stratechery.com/wp-content/uploads/2020/12/stripe-4-300x184.png 300w, https://stratechery.com/wp-content/uploads/2020/12/stripe-4-768x472.png 768w, https://stratechery.com/wp-content/uploads/2020/12/stripe-4-1026x630.png 1026w, https://stratechery.com/wp-content/uploads/2020/12/stripe-4.png 1280w" sizes="(max-width: 640px) 100vw, 640px" /></a></p>
+      <p>This image is incomplete — major portions of the Internet backbone obviously run overland — but is sufficient for the analogy: Stripe isn’t necessarily competing with other fintech providers — ISPs in this analogy — but instead is seeking to be the backbone for all of them, as well as an entirely new universe of platforms that can offer their unique customers financial services that are perfectly tuned to their needs.</p>
+      <hr />
+      <p>Stripe is ten years old now, but the ambition implied by these announcements explain why the founders claim they are just getting started. John Collison noted:</p>
+      <blockquote>
+        <p>We are still very early in developing the set of Stripe products beyond the core payments engine, things like Treasury. We’re building a global payments and treasury network, and we are in November of 2020 launching the Treasury part of it, and so we are just now filling out all the acronyms in our product suite, and that’s the version one of the product. And from a growth point of view, our business is growing really rapidly in APAC and EMEA, and so we’re just early in the business trajectory with all the helter-skelter-ness that comes from that.</p>
+      </blockquote>
+      <p>Speaking as an analyst, I would like nothing more than to see an S-1 from Stripe, but it sounds like it’s not coming anytime soon (and I can state with a high degree of confidence that Stripe will not be doing a SPAC with any of its rumored suitors); the company is <a href="https://www.bloomberg.com/news/articles/2020-11-24/payments-startup-stripe-is-said-in-talks-to-raise-new-funding">reportedly raising more money</a>, but is increasingly spending the money it raises on acquisitions and investments (one would certainly assume that the core payments business is not only profitable but also has a very attractive cash conversion cycle).</p>
+      <p>Instead the company is busy building, well, exactly what it has said it was building all along: economic infrastructure. And, I will freely admit, until this week I didn’t completely appreciate just how mammoth an undertaking that was.</p>
+      <p><em>Stratechery subscribers can read the full interview with John Collison <a href="https://stratechery.com/2020/an-interview-with-stripe-president-john-collison">here</a>; it is also available for subscribers <a href="https://stratechery.com/podcasts">via podcast</a>.</em></p>
+ &lt;/div&gt;</p>
+  </div>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2020-12-08</time>
+        <a href="https://nodebe4.github.io/opinion/2020-12-08/Privacy-Labels-and-Lookalike-Audiences/">
+          Privacy Labels and Lookalike Audiences
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-12-08</time>
+        <a href="https://nodebe4.github.io/opinion/2020-12-08/In-Defense-of-Digital-Advertising/">
+          In Defense of Digital Advertising
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-11-30</time>
+        <a href="https://nodebe4.github.io/opinion/2020-11-30/Five-Lessons-From-Dave-Chappelle/">
+          Five Lessons From Dave Chappelle
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-11-23</time>
+        <a href="https://nodebe4.github.io/opinion/2020-11-23/The-Idea-Adoption-Curve/">
+          The Idea Adoption Curve
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2020-12-03/%E5%A5%B3%E5%90%8C%E5%BF%97-Lesbians-%E9%83%BD%E5%88%B0%E5%93%AA%E9%87%8C%E5%8E%BB%E4%BA%86/">
+            前一篇：女同志（Lesbians）都到哪里去了？
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2020-12-03/%E7%A7%A6%E6%99%96-%E4%B9%9F%E8%B0%88%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89-%E5%85%B1%E8%AF%86%E6%B2%99%E9%BE%99%E5%BE%AE%E4%BF%A1%E5%85%AC%E7%9B%8A%E8%AE%B2%E5%BA%A7-2020-12-03/">
+            後一篇：秦晖：也谈美国大选（共识沙龙微信公益讲座） 2020 12 03
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2020-12-03/%E5%A5%B3%E5%90%8C%E5%BF%97-Lesbians-%E9%83%BD%E5%88%B0%E5%93%AA%E9%87%8C%E5%8E%BB%E4%BA%86/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2020-12-03/%E7%A7%A6%E6%99%96-%E4%B9%9F%E8%B0%88%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89-%E5%85%B1%E8%AF%86%E6%B2%99%E9%BE%99%E5%BE%AE%E4%BF%A1%E5%85%AC%E7%9B%8A%E8%AE%B2%E5%BA%A7-2020-12-03/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2020-12-08/In-Defense-of-Digital-Advertising/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2020-11-30/Five-Lessons-From-Dave-Chappelle/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2020-12-03/%E5%A5%B3%E5%90%8C%E5%BF%97-Lesbians-%E9%83%BD%E5%88%B0%E5%93%AA%E9%87%8C%E5%8E%BB%E4%BA%86/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2020-12-03/%E7%A7%A6%E6%99%96-%E4%B9%9F%E8%B0%88%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89-%E5%85%B1%E8%AF%86%E6%B2%99%E9%BE%99%E5%BE%AE%E4%BF%A1%E5%85%AC%E7%9B%8A%E8%AE%B2%E5%BA%A7-2020-12-03/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2020-12-08/In-Defense-of-Digital-Advertising/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2020-11-30/Five-Lessons-From-Dave-Chappelle/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

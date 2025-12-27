@@ -1,0 +1,2217 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Spinkcat在2021-02-15~2021-02-21的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Spinkcat在2021-02-15~2021-02-21的言论" />
+    <meta property="twitter:title" content="Spinkcat在2021-02-15~2021-02-21的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FChina_irl%2Fcomments%2Fln00qe%2F%E4%B8%9C%E5%8C%97%E5%9C%B0%E5%8C%BA%E7%8E%87%E5%85%88%E5%85%A8%E9%9D%A2%E6%94%BE%E5%BC%80%E7%94%9F%E8%82%B2%E9%99%90%E5%88%B6%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%E5%8F%AF%E4%BB%A5%E6%8E%A2%E7%B4%A2%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/China_irl/comments/ln00qe/东北地区率先全面放开生育限制国家卫健委可以探索/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/China_irl/comments/ln00qe/东北地区率先全面放开生育限制国家卫健委可以探索/&text=Spinkcat在2021-02-15~2021-02-21的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/China_irl/comments/ln00qe/东北地区率先全面放开生育限制国家卫健委可以探索/&title=Spinkcat在2021-02-15~2021-02-21的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/China_irl/comments/ln00qe/东北地区率先全面放开生育限制国家卫健委可以探索/&title=Spinkcat在2021-02-15~2021-02-21的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Spinkcat在2021-02-15~2021-02-21的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/China_irl/comments/ln00qe/东北地区率先全面放开生育限制国家卫健委可以探索/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/China_irl/comments/ln00qe/东北地区率先全面放开生育限制国家卫健委可以探索/&title=Spinkcat在2021-02-15~2021-02-21的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Spinkcat在2021-02-15~2021-02-21的言论&url=https://old.reddit.com/r/China_irl/comments/ln00qe/东北地区率先全面放开生育限制国家卫健委可以探索/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Spinkcat在2021-02-15~2021-02-21的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2021-02-21
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://www.reddit.com/user/Spinkcat/" style="font-size:14px;">作者: Spinkcat</a>
+        </span>
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/China_irl/comments/ln00qe/东北地区率先全面放开生育限制国家卫健委可以探索/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#1316-东北地区率先全面放开生育限制国家卫健委可以探索-submitted-on-2021-02-19-0704250800" id="markdown-toc-1316-东北地区率先全面放开生育限制国家卫健委可以探索-submitted-on-2021-02-19-0704250800">1316: 东北地区率先全面放开生育限制？国家卫健委：可以探索, submitted on 2021-02-19 07:04:25+08:00.</a></li>
+  <li><a href="#1317-中国的基尼系数和贫富差距世界领先-submitted-on-2021-02-19-2055300800" id="markdown-toc-1317-中国的基尼系数和贫富差距世界领先-submitted-on-2021-02-19-2055300800">1317: 中国的基尼系数和贫富差距世界领先, submitted on 2021-02-19 20:55:30+08:00.</a></li>
+  <li><a href="#1318-shower-thoughts宗教是人类社会规模最大的庞氏骗局-submitted-on-2021-02-21-0621210800" id="markdown-toc-1318-shower-thoughts宗教是人类社会规模最大的庞氏骗局-submitted-on-2021-02-21-0621210800">1318: Shower Thoughts：宗教是人类社会规模最大的庞氏骗局, submitted on 2021-02-21 06:21:21+08:00.</a></li>
+  <li><a href="#1319-mod不作为的话很快就会变成粪坑-submitted-on-2021-02-21-0958470800" id="markdown-toc-1319-mod不作为的话很快就会变成粪坑-submitted-on-2021-02-21-0958470800">1319: Mod不作为的话很快就会变成粪坑, submitted on 2021-02-21 09:58:47+08:00.</a></li>
+</ul>
+
+<h3 id="1316-东北地区率先全面放开生育限制国家卫健委可以探索-submitted-on-2021-02-19-0704250800">1316: <a href="https://old.reddit.com/r/China_irl/comments/ln00qe/东北地区率先全面放开生育限制国家卫健委可以探索/">东北地区率先全面放开生育限制？国家卫健委：可以探索</a>, submitted on 2021-02-19 07:04:25+08:00.</h3>
+
+<p>—– <strong>1316.1</strong> —–2021-02-20 00:13:37+08:00:</p>
+
+<p>有，未来的东北！</p>
+
+<p>—– <strong>1316.2</strong> —–2021-02-22 03:22:58+08:00:</p>
+
+<p>我这春节过年没整活，怎么给整性转了</p>
+
+<h3 id="1317-中国的基尼系数和贫富差距世界领先-submitted-on-2021-02-19-2055300800">1317: <a href="https://old.reddit.com/r/China_irl/comments/lnf6r4/中国的基尼系数和贫富差距世界领先/">中国的基尼系数和贫富差距世界领先</a>, submitted on 2021-02-19 20:55:30+08:00.</h3>
+
+<p>—– <strong>1317.1</strong> —–2021-02-22 03:21:47+08:00:</p>
+
+<p>社会的内卷化一个核心问题就是做无用功，也即是原地打转。</p>
+
+<p>通常来说，以各种科技产业为例，想有突破往往靠自己是不可能的，需要相关产业一并突破，有大量的前置科技才能点亮下一个科技，而这个科技又是其他新科技的前置科技，以此类推。</p>
+
+<p>反应到我国目前经济里，基尼系数的问题其实反而不是那么重要，因为中国的人口规模极为庞大，全世界第一，而中国的财富累积，以及财富分配不公的现象，也是非常夸张的。</p>
+
+<p>而我一般不看重基尼系数的一个原因就是持有极大量财富的市场，基尼系数的变量主要来自于财富上限，因为再穷也有个极限，而世界是固定处于长期通胀的，基尼系数过于笼统缺乏细节与结构性。</p>
+
+<p>所以我一般在讨论收入时来衡量范围时，很看重的是通常月收入的印象，以及社会月收入中位数。</p>
+
+<p>内卷化的出现，跟上述所说一样，是基于某种不可控客观事实所导致，比如中国古代农业社会内卷化不能更进一步发展，是因为中国这个地理环境就这样，印第安人几千几百年也没发展出骑兵和更高效的运力而内卷，是因为他们没马，爱斯基摩人打几千几百年的鱼，是因为他们就那个环境，澳大利亚的原始人发展不出弓箭，也是因为弓箭技术没传播过去，本地也缺乏条件。</p>
+
+<p>即是说，发展到下个阶段的必要条件一旦缺失，原地打转的这个过程就是内卷化。</p>
+
+<p>中国的内卷化，说白了就是缺乏有效的社会改革，996内卷化是劳工法的失效与国家资本主义的崛起，应试教育的内卷化（从幼儿园就开始）是因为教育制度体系的陈旧不改陋习和无锚扩招，房价的内卷化是户籍制度与土地财政政策所导致。</p>
+
+<p>基尼系数的差异性，实际上是因内卷化的问题，让社会各个层面可拓展的生产效率触及了边界，而有一股目前我们难以有效消灭的力量，在阻止改革拓展边界，这就造成了与日本和韩国发展时不一样的环境，国内的消费增长与就业保障，虽然有随着经济的自然增长，但没达到日韩或其他发达国家发展过程里一样的增速。</p>
+
+<p>有一部分人对这种阻止国内发展的力量，归结为欠入关，也即是入关学。但实际上因为什么大家都懂，这里不是主题所以不太深入讨论。</p>
+
+<p>一旦改革受阻，从生产的市场上就出现了一系列的发展阻力（文娱市场是最明显的，网文的阅文和飞卢事件，电影剧本无标准审核，游戏产业的版号审查。），那么当能获得的资源减少时，公司发展也被迫内卷化，就会跟上层一样，将成本转嫁给下层。</p>
+
+<p>也即是现在我们所见到的各种职场内卷化，我觉得这就是一系列不断地、有目的地成本转嫁，通过转嫁成本来方便自己，而不是通过正常的秩序来达成一种劳动供给和市场所需的共识。</p>
+
+<p>通过996转嫁大量的私人时间成本，从而增加劳动时长，一定程度上希望为公司带来更多产出（也包括了私人时间给你打电话让你干活的老板），就是一种不断普及的现象，如果一个正常可以不断解决问题发展的社会，这根本不算事，基于民意的立法、独立的司法可以有效的约束公司的转嫁成本行为。</p>
+
+<p>否则不会出现南山必胜客这种笑话，腾讯的砸钱走你的路，让你无路可走乃至于许多垄断性公司的做大，都是因民众缺乏力量去进行选择，被迫接受一种社会现实。</p>
+
+<p>现在是转嫁时间成本，那么慢慢的，社会稳定的成本从政府转嫁到公司后（现在已经很普遍了，给个标准让你自己堵嘴，堵不好就等收拾，这样就节省了政府维稳的成本，只负责怼少数突出的，利用寒蝉效应达到目标），这些公司再将政府给予的转嫁成本，进一步转嫁给民众。</p>
+
+<p>也即是强制加班不给钱，罔顾法律在政府背书下侵害劳动者的利益，然后一步步的，到了压低工资逼你离职。</p>
+
+<p>这里需要注意一个细节，大部分时候经济正常发展哪怕慢一些，也多数是薪水滞涨或极低幅度，但收入却可能下滑了，因为下滑的支出部分主要来自于通胀，这是软刀子也是很多时候民众难以有效察觉的（发现了也少有人可以长期统计得出一个大概范围，不过在日常消费品比如三餐中应该就很凸出了）</p>
+
+<p>那么，当内卷化的情况无处不在（社会、私人或市场经济层面），缺乏了适应性，面对新的问题不能通过改革自身去解决问题时，问题就会逐渐累积。</p>
+
+<p>而我们在被累积的这个过程里，就是一种由既得利益者对全中国人的成本转嫁，进而延长既得利益集团的管制效率和周期。</p>
+
+<p>我们可以在当代社会有问题就去解决去改革，没东西可以去买，出现问题能提出观点去实践，因而才能让原本的生活更上一层楼。</p>
+
+<p>一旦我们被强制停滞改革，内卷化就会导致基尼系数各种意义上的增长。</p>
+
+<p>基尼系数中富裕人士的财产持有实际上就是转嫁成本后的收益，而低收入群体的收入增速缓慢，也是转嫁成本的损害。</p>
+
+<p>如果说GDP的增速统计财富和收入这一个单项指标，来展示是大部分人吃一小部分，少数人吃大部分。</p>
+
+<p>那么内卷化的转嫁成本问题，就是转嫁出来的利益被大部分垄断，转嫁的成本由大多数人承担（饮食、养老、、育儿、教育、医疗、居住、自我实现、男女关系，基本你能想到，绝大不规范都会牵扯进去。）</p>
+
+<h3 id="1318-shower-thoughts宗教是人类社会规模最大的庞氏骗局-submitted-on-2021-02-21-0621210800">1318: <a href="https://old.reddit.com/r/China_irl/comments/loi897/shower_thoughts宗教是人类社会规模最大的庞氏骗局/">Shower Thoughts：宗教是人类社会规模最大的庞氏骗局</a>, submitted on 2021-02-21 06:21:21+08:00.</h3>
+
+<p>—– <strong>1318.1</strong> —–2021-02-22 04:04:20+08:00:</p>
+
+<p>其实现代和古代的环境差距太大了，会产生直接的误会，庞氏骗局肯定不是，这是现代的概念，现代也办法拿民族主义或民主制度硬套古希腊。</p>
+
+<p>宗教本质是一种社区文化的体现，或者说族群文化的体现，多神教到一神教是随着生产力变化，不同族群逐渐过渡的一种最优解，之前我就谈过多神教到一神教的过度。</p>
+
+<p>多神教社会过渡到一神教社会是有一些很明显的不同，社区的严密性与组织度差异非常大，就社区文化的形态而言，多神教是从泛灵教演化而来，一神教由多神教演化而来，基本所有多神教社会都有封闭性强的阶级体系，同时盛行奴隶制。</p>
+
+<p>外在的社会体现，是一个单一族群逐渐发展强大，跟着不断对外扩张，不同的工种代表不同阶级，信奉不同神明，通过掠夺外部落后族群的资源维持自我族群的生存空间。</p>
+
+<p>到大量的民族混居后，原有的多神教社区文化和阶级难以稳固，就逐渐过渡到一神教，比如罗马“蛮族化”后开始倾向效率更高的一神教社区组织。</p>
+
+<p>贵族—奴隶体系，本质上是打破传统的阶级性血亲技术垄断的， 印度种姓制度，中国的士农工商，阿兹特克的皮尔利与马赛瓦尔利阶级都有明显的早期多神教影子，与异民族交流越多，建立多神教的族群社区基础就越单薄，越容易转向一神教。</p>
+
+<p>而下一个技术扩散的节点，就是一神教的社区开始世俗化，旧社会的族群文化随着生产力关系的改变，逐渐的不再适用于新社会，失去了作为世俗王权的社区组织替代品的价值与意义，至于教籍里各种信条，都只是几千年前对某些族群最合理的内容，这对当代人而言，已经没什么意义了。</p>
+
+<h3 id="1319-mod不作为的话很快就会变成粪坑-submitted-on-2021-02-21-0958470800">1319: <a href="https://old.reddit.com/r/China_irl/comments/lomdu4/mod不作为的话很快就会变成粪坑/">Mod不作为的话很快就会变成粪坑</a>, submitted on 2021-02-21 09:58:47+08:00.</h3>
+
+<p>—– <strong>1319.1</strong> —–2021-02-22 03:41:00+08:00:</p>
+
+<p>问题是你想要具体什么样的SUB才算符合标准，这个很难定啊。</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2021-03-07</time>
+        <a href="https://nodebe4.github.io/opinion/2021-03-07/Spinkcat/">
+          Spinkcat在2021-03-01~2021-03-07的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-02-28</time>
+        <a href="https://nodebe4.github.io/opinion/2021-02-28/Spinkcat/">
+          Spinkcat在2021-02-22~2021-02-28的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-02-08</time>
+        <a href="https://nodebe4.github.io/opinion/2021-02-08/Spinkcat/">
+          Spinkcat在2021-02-08~2021-02-14的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-02-07</time>
+        <a href="https://nodebe4.github.io/opinion/2021-02-07/Spinkcat/">
+          Spinkcat在2021-02-01~2021-02-07的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2021-02-20/%E7%A6%81%E5%BF%8C%E5%8F%B2%E8%A9%B1-%E5%9B%9E%E9%A6%96%E6%96%87%E9%9D%A911-%E5%89%AF%E7%B5%B1%E5%B8%A5%E4%B9%8B%E6%AD%BB-%E6%9E%97%E5%BD%AA/">
+            前一篇：禁忌史話：回首文革11 副統帥之死--林彪
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2021-02-21/realcaixia/">
+            後一篇：Twitter @蔡霞: 2021-02-15~2021-02-21
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2021-02-20/%E7%A6%81%E5%BF%8C%E5%8F%B2%E8%A9%B1-%E5%9B%9E%E9%A6%96%E6%96%87%E9%9D%A911-%E5%89%AF%E7%B5%B1%E5%B8%A5%E4%B9%8B%E6%AD%BB-%E6%9E%97%E5%BD%AA/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2021-02-21/realcaixia/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2021-02-28/Spinkcat/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2021-02-08/Spinkcat/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2021-02-20/%E7%A6%81%E5%BF%8C%E5%8F%B2%E8%A9%B1-%E5%9B%9E%E9%A6%96%E6%96%87%E9%9D%A911-%E5%89%AF%E7%B5%B1%E5%B8%A5%E4%B9%8B%E6%AD%BB-%E6%9E%97%E5%BD%AA/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2021-02-21/realcaixia/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2021-02-28/Spinkcat/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2021-02-08/Spinkcat/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

@@ -1,0 +1,3018 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Meta’s AI Abundance – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+Meta’s AI Abundance
+——
+" />
+    <meta property="og:description" content="
+Meta’s AI Abundance
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Meta’s AI Abundance" />
+    <meta property="twitter:title" content="Meta’s AI Abundance" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2024%2Fmetas-ai-abundance%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2024/metas-ai-abundance/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2024/metas-ai-abundance/&text=Meta’s AI Abundance&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2024/metas-ai-abundance/&title=Meta’s AI Abundance" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2024/metas-ai-abundance/&title=Meta’s AI Abundance" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Meta’s AI Abundance&body=
+Meta’s AI Abundance
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2024/metas-ai-abundance/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2024/metas-ai-abundance/&title=Meta’s AI Abundance&caption=
+Meta’s AI Abundance
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Meta’s AI Abundance&url=https://stratechery.com/2024/metas-ai-abundance/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Meta’s AI Abundance</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2024-10-29
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2024/metas-ai-abundance/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1730206372000-->
+<p><a href="https://stratechery.com/2024/metas-ai-abundance/">Meta’s AI Abundance</a>
+——</p>
+
+<div>
+  <p>Stratechery has benefited from a Meta cheat code since its inception: wait for investors to panic, the stock to drop, and write an Article that says Meta is fine — better than fine even — and sit back and watch the take be proven correct. Notable examples include <a href="https://stratechery.com/2013/mobile-makes-facebook-just-an-app-thats-great-news/">2013’s post-IPO swoon</a>, the <a href="https://stratechery.com/2018/facebook-lenses/">2018 Stories swoon</a>, and most recently, the <a href="https://stratechery.com/2022/meta-myths/">2022 TikTok/Reels swoon</a> (if you want a bonus, I was optimistic during <a href="https://stratechery.com/2020/facebook-earnings-auction-dynamics-full-steam-ahead/">the 2020 COVID swoon</a> too):</p>
+  <p><a href="https://stratechery.com/2022/meta-myths/"><img data-recalc-dims="1" fetchpriority="high" decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/10/meta-abundance-1.png?resize=640%2C322&#038;ssl=1" alt="Meta&#039;s nadirs as a public company" width="640" height="322" class="aligncenter size-full wp-image-13806" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/10/meta-abundance-1.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/10/meta-abundance-1.png?resize=300%2C151&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/10/meta-abundance-1.png?resize=1024%2C514&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/10/meta-abundance-1.png?resize=768%2C386&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/10/meta-abundance-1.png?resize=1200%2C603&amp;ssl=1 1200w" sizes="(max-width: 640px) 100vw, 640px" /></a></p>
+  <p>Perhaps with that in mind I wrote a cautionary note earlier this year about <a href="https://stratechery.com/2024/meta-and-reasonable-doubt/">Meta and Reasonable Doubt</a>: while investors were concerned about the sustainability of Meta’s spending on AI, I was worried about increasing ad prices and the lack of new formats after Stories and then Reels; the long-term future, particularly in terms of the metaverse, was just as much of a mystery as always.</p>
+  <p>Six months on and I feel the exact opposite: it seems increasingly clear to me that Meta is in fact the most well-placed company to take advantage of generative AI. Yes, investors are currently optimistic, so this isn’t my usual contrarian take — unless you consider the fact that I think Meta has the potential to be the most valuable company in the world. As evidence of that fact I’m writing today, a day before Meta’s earnings: I don’t care if they’re up or down, because the future is that bright.</p>
+  <h3 id="short-term-generative-ai-and-digital-advertising">Short-term: Generative AI and Digital Advertising</h3>
+  <p>Generative AI is clearly a big deal, but the biggest winner so far is Nvidia, in one of the clearest examples of the picks-and-shovels ethos on which San Francisco was founded: the most money to be made is in furnishing the <a href="https://en.wikipedia.org/wiki/California_gold_rush#Forty-niners">Forty-niners</a> (yes, I am using a linear scale instead of the log scale above for effect):</p>
+  <p><a href="https://stratechery.com/2022/nvidia-in-the-valley/"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/10/meta-abundance-2.png?resize=640%2C320&#038;ssl=1" alt="Nvidia&#039;s dramatic rise" width="640" height="320" class="aligncenter size-full wp-image-13807" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/10/meta-abundance-2.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/10/meta-abundance-2.png?resize=300%2C150&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/10/meta-abundance-2.png?resize=1024%2C512&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/10/meta-abundance-2.png?resize=768%2C384&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/10/meta-abundance-2.png?resize=1200%2C600&amp;ssl=1 1200w" sizes="(max-width: 640px) 100vw, 640px" /></a></p>
+  <p>The big question weighing on investors’ mind is when all of this GPU-spend will generate a return. Tesla and xAI are <a href="https://stratechery.com/2024/elon-dreams-and-bitter-lessons/">dreaming of autonomy</a>; Azure, Google Cloud, AWS, and Oracle want to undergird the next generation of AI-powered startups; and <a href="https://stratechery.com/2024/enterprise-philosophy-and-the-first-wave-of-ai/">Microsoft and Salesforce</a> are bickering about how to sell AI into the enterprise. All of these bets are somewhat speculative; what would be the most valuable in the short-term, at least in terms of justifying the massive ongoing capital expenditure costs necessary to create the largest models, is a guaranteed means to translate those costs into bottom-line benefit.</p>
+  <p>Meta is the best positioned to do that in the short-term, thanks to the obvious benefit of applying generative AI to advertising. Meta is already highly reliant on machine learning for its ads product: right now an advertiser can buy ads based on desired outcomes, whether that be an app install or a purchase, and leave everything else up to Meta; Meta will work across their vast troves of data in a way that is only possible using machine learning-derived algorithms to find the right targets for an ad and deliver exactly the business goals requested.</p>
+  <p>What makes this process somewhat galling for the advertiser is that the more of a black box Meta’s advertising becomes the better the advertising results, even as Meta makes more margin. The big reason for the former is the App Tracking Transparency (ATT)-driven shift in digital advertising to probabilistic models in place of deterministic ones.</p>
+  <p>It used to be that ads shown to users could be perfectly matched to conversions made in 3rd-party apps or on 3rd-party websites; Meta was better at this than everyone else, thanks to its scale and fully built-out ad infrastructure (including SDKs in apps and pixels on websites), but this was a type of targeting and conversion tracking that could be done in some fashion by other entities, whether that be smaller social networks like Snap, ad networks, or even sophisticated marketers themselves.</p>
+  <p>ATT severed that link, and Meta’s business suffered greatly; from a <a href="https://stratechery.com/2024/meta-earnings-meta-ai-and-att-metas-new-playbook/">February post-earnings Update</a>:</p>
+  <blockquote>
+    <p>It is worth noting that while the digital ecosystem did not disappear, it absolutely did shrink: [MoffettNathanson’s Michael] Nathanson, in his Meta earnings note, explained what he was driving at with that question:</p>
+    <blockquote>
+      <p>While revenues have recovered, with +22% organic growth in the fourth quarter, we think that the more important driver of the outperformance has been the company’s focus on tighter cost controls. Coming in 2023, Meta CEO Mark Zuckerberg made a New Year’s resolution, declaring 2023 the “Year of Efficiency.” By remaining laser-focused on reining in expense growth as the top line reaccelerated, Meta’s operating margins (excluding restructuring) expanded almost +1,100 bps vs last 4Q, reaching nearly 44%. Harking back to Zuckerberg’s resolution, Meta’s 2023 was, in fact, highly efficient…</p>
+      <p>Putting this in perspective, two years ago, after the warnings on the 4Q 2021 earnings call, we forecasted that Meta Family of Apps would generate $155 billion of revenues and nearly $68 billion of GAAP operating income in 2023. Fast forward to today, and last night Meta reported that Family of Apps delivered only $134.3 billion of revenues ($22 billion below our 2-year ago estimate), yet FOA operating income (adjusted for one-time expenses) was amazingly in-line with that two-year old forecast. For 2024, while we now forecast Family of Apps revenues of $151.2 billion (almost $30 billion below the forecast made on February 2, 2022), our current all-in Meta operating profit estimate of $56.8 billion is also essentially in line. In essence, Meta has emerged as a more profitable (dare we say, efficient) business.</p>
+    </blockquote>
+    <p>That shrunken revenue figure is digital advertising that simply disappeared — in many cases, along with the companies that bought it — in the wake of ATT. The fact that Meta responded by becoming so much leaner, though, was critical to not just surviving ATT, but also laid the groundwork for where the company is going next.</p>
+  </blockquote>
+  <p>Increased company efficiency is a reason to be bullish on Meta, but three years on, the key takeaway from ATT is that it validated my thesis that Meta is anti-fragile. From 2020’s <a href="https://stratechery.com/2020/apple-and-facebook/">Apple and Facebook</a>:</p>
+  <blockquote>
+    <p>This is a very different picture from Facebook, where as of Q1 2019 the top 100 advertisers made up less than 20% of the company’s ad revenue; most of the $69.7 billion the company brought in last year came from its long tail of 8 million advertisers. This focus on the long-tail, which is only possible because of Facebook’s fully automated ad-buying system, has turned out to be a tremendous asset during the coronavirus slow-down…</p>
+    <p>This explains why the news about large CPG companies boycotting Facebook is, from a financial perspective, simply not a big deal. Unilever’s $11.8 million in U.S. ad spend, to take one example, is replaced with the same automated efficiency that Facebook’s timeline ensures you never run out of content. Moreover, while Facebook loses some top-line revenue — in an auction-based system, less demand corresponds to lower prices — the companies that are the most likely to take advantage of those lower prices are those that would not exist without Facebook, like the direct-to-consumer companies trying to steal customers from massive conglomerates like Unilever.</p>
+    <p>In this way Facebook has a degree of anti-fragility that even Google lacks: so much of its business comes from the long tail of Internet-native companies that are built around Facebook from first principles, that any disruption to traditional advertisers — like the coronavirus crisis or the current boycotts — actually serves to strengthen the Facebook ecosystem at the expense of the TV-centric ecosystem of which these CPG companies are a part.</p>
+  </blockquote>
+  <p>Make no mistake, a lot of these kinds of companies were killed by ATT; the ones that survived, though, emerged into a world where no one other than Meta — thanks in part to <a href="https://stratechery.com/2024/nvidia-earnings-inference-and-meta/">a massive GPU purchase the same month the company reached its most-recent stock market nadir</a> — had the infrastructure to rebuild the type of ad system they depended on. This rebuild had to be probabilistic — making a best guess as to the right target, and, more confoundingly, a best guess as to conversion — which is only workable with an astronomical amount of data and an astronomical amount of infrastructure to process that data, such that advertisers could once again buy based on promised results, and have those promises met.</p>
+  <p>Now into this cauldron Meta is adding generative AI. Advertisers have long understood the importance of giving platforms like Meta multiple pieces of creative for ads; Meta’s platform will test different pieces of creative with different audiences and quickly hone in on what works, putting more money behind the best arrow. Generative AI puts this process on steroids: advertisers can provide Meta with broad parameters and brand guidelines, and let the black box not just test out a few pieces of creative, but an effectively unlimited amount. Critically, this generative AI application has a verification function: did the generated ad generate more revenue or less? That feedback function, meanwhile, is data in its own right, and can be leveraged to better target individuals in the future.</p>
+  <p>The second piece to all of this — the galling part I referenced above — is the margin question. The <a href="https://www.justice.gov/opa/press-release/file/1563746/dl">Department of Justice’s lawsuit against Google’s ad business</a> explains why black boxes are so beneficial to big ad platforms:</p>
+  <blockquote>
+    <p>Over time, as Google’s monopoly over the publisher ad server was secured, Google surreptitiously manipulated its Google Ads’ bids to ensure it won more high-value ad inventory on Google’s ad exchange while maintaining its own profit margins by charging much higher fees on inventory that it expected to be less competitive. In doing so, Google was able to keep both categories of inventory out of the hands of rivals by competing in ways that rivals without similar dominant positions could not. In doing so, Google preserved its own profits across the ad tech stack, to the detriment of publishers. Once again, Google engaged in overt monopoly behavior by grabbing publisher revenue and keeping it for itself. Google called this plan “Project Bernanke.”</p>
+  </blockquote>
+  <p>I’m skeptical about the DOJ’s case for reasons I laid out <a href="https://www.justice.gov/opa/press-release/file/1563746/dl">in this Update</a>; publishers made more money using Google’s ad server than they would have otherwise, while the advertisers, who paid more, are not locked in. The black box effect, however, is real: platforms like Google or Meta can meet an advertiser’s goals — at a price point determined by an open auction — without the advertisers knowing which ads worked and which ones didn’t, keeping the margin from the latter. The galling bit is that this works out best for everyone: these platforms are absolutely <a href="https://stratechery.com/2020/email-addresses-and-razor-blades/">finding customers you wouldn’t get otherwise</a>, which means advertisers earn more when the platforms earn more too, and these effects will only be supercharged with generative ads.</p>
+  <p>There’s more upside for Meta, too. Google and Amazon will benefit from generative ads, but I expect the effect will be the most powerful at the top of the funnel where Meta’s advertising operates, as opposed to the bottom-of-the funnel search ads where Amazon and Google make most of their money. Moreover, there is that long tail I mentioned above: one of the challenges for Meta in moving from text (Feed) to images (Stories) to video (Reels) is that effective creative becomes more difficult to execute, especially if you want multiple variations. Meta has devoted a lot of resources over the years to tooling to help advertisers make effective ads, much of which will be obviated by generative AI. This, by extension, will give long tail advertisers more access to more inventory, which will increase demand and ultimately increase prices.</p>
+  <p>There is one more channel that is exclusive to Meta: text-to-message ads. These are ads where the conversion event is initiating a chat with an advertiser, an e-commerce channel that is particularly popular in Asia. The distinguishing factor in the markets where these ads are taking off is low labor costs, which AI addresses. Zuckerberg explained in <a href="https://s21.q4cdn.com/399680738/files/doc_financials/2023/q2/META-Q2-2023-Earnings-Call-Transcript.pdf">a 2023 earnings call</a>:</p>
+  <blockquote>
+    <p>And then the one that I think is going to have the fastest direct business loop is going to be around helping people interact with businesses. You can imagine a world on this where over time, every business has as an AI agent that basically people can message and interact with. And it’s going to take some time to get there, right? I mean, this is going to be a long road to build that out. But I think that, that’s going to improve a lot of the interactions that people have with businesses as well as if that does work, it should alleviate one of the biggest issues that we’re currently having around messaging monetization is that in order for a person to interact with a business, it’s quite human labor-intensive for a person to be on the other side of that interaction, which is one of the reasons why we’ve seen this take off in some countries where the cost of labor is relatively low. But you can imagine in a world where every business has an AI agent, that we can see the kind of success that we’re seeing in Thailand or Vietnam with business messaging could kind of spread everywhere. And I think that’s quite exciting.</p>
+  </blockquote>
+  <p>Both of these use cases — generative ads and click-to-message AI agents — are great examples as to why it makes sense for Meta to invest in its Llama models and make them open(ish): more and better AI means more and better creative and more and better agents, all of which can be monetized via advertising.</p>
+  <h3 id="medium-term-the-smiling-curve-and-infinite-content">Medium-Term: The Smiling Curve and Infinite Content</h3>
+  <p>Of course all of this depends on people continuing to use Meta properties, and here AI plays an important role as well. First, there is the addition of Meta AI, which makes Meta’s apps more useful. Meta AI also opens the door to a search-like product, which <a href="https://www.theinformation.com/articles/meta-develops-ai-search-engine-to-lessen-reliance-on-google-microsoft">The Information just reported</a> the company was working on; potential search advertising is a part of the bull case as well, although for me a relatively speculative one.</p>
+  <p>Second is the insertion of AI content into the Meta content experience, which Meta just announced it is working on. From <a href="https://www.theverge.com/2024/9/25/24253329/meta-ai-generated-images-facebook-instagram-feeds">The Verge</a>:</p>
+  <blockquote>
+    <p>If you think avoiding AI-generated images is difficult as it is, Facebook and Instagram are now going to put them directly into your feeds. At the Meta Connect event on Wednesday, the company announced that it’s testing a new feature that creates AI-generated content for you “based on your interests or current trends” — including some that incorporate your face.</p>
+    <p>When you come across an “Imagined for You” image in your feed, you’ll see options to share the image or generate a new picture in real time. One example (embedded below) shows several AI-generated images of “an enchanted realm, where magic fills the air.” But others could contain your face… which I’d imagine will be a bit creepy to stumble upon as you scroll…</p>
+    <p>In a statement to The Verge, Meta spokesperson Amanda Felix says the platform will only generate AI images of your face if you “onboarded to Meta’s Imagine yourself feature, which includes adding photos to that feature” and accepting its terms. You’ll be able to remove AI images from your feed as well.</p>
+  </blockquote>
+  <p>This sounds like a company crossing the Rubicon, but in fact said crossing already happened a few years ago. Go back to 2015’s <a href="https://stratechery.com/2015/facebook-and-the-feed/">Facebook and the Feed</a>, where I argued that Facebook was too hung up on being a social network, and concluded:</p>
+  <blockquote>
+    <p>Consider Facebook’s smartest acquisition, Instagram. The photo-sharing service is valuable because it is a network, but it initially got traction because of filters. Sometimes what gets you started is only a lever to what makes you valuable. What, though, lies beyond the network? That was Facebook’s starting point, and I think the answer to what lies beyond is clear: the entire online experience of over a billion people. Will Facebook seek to protect its network — and Zuckerberg’s vision — or make a play to be the television of mobile?</p>
+  </blockquote>
+  <p>It took Facebook another five years — and <a href="https://stratechery.com/2020/xi-jinping-thought-facebooks-blindspot-the-moat-map-revisited/">the competitive threat of TikTok</a> — but the company finally did make the leap to showing you content from across the entire service, not just that which was posted by your network. The latter was an artificial limitation imposed by the company’s own self-conception of itself as a social network, when in reality it is a content network; true social networking — where you talk to people you actually know — happens in group chats:</p>
+  <p><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/10/meta-abundance-3.png?resize=640%2C447&#038;ssl=1" alt="Social media and the smiling curve" width="640" height="447" class="aligncenter size-full wp-image-13808" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/10/meta-abundance-3.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/10/meta-abundance-3.png?resize=300%2C210&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/10/meta-abundance-3.png?resize=1024%2C715&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/10/meta-abundance-3.png?resize=768%2C536&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/10/meta-abundance-3.png?resize=902%2C630&amp;ssl=1 902w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+  <p>The structure of this illustration may look familiar; it’s another manifestation of <a href="https://stratechery.com/2014/publishers-smiling-curve/">The Smiling Curve</a>, which I first wrote about in the context of publishing:</p>
+  <blockquote>
+    <p>Over time, as this cycle repeats itself and as people grow increasingly accustomed to getting most of their “news” from Facebook (or Google or Twitter), value moves to the ends, just like it did in the IT manufacturing industry or smartphone industry:</p>
+    <p><a href="https://stratechery.com/2014/publishers-smiling-curve/"><img data-recalc-dims="1" loading="lazy" decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2020/08/smilingcurve-1.png?resize=640%2C449&#038;ssl=1" alt="The Publishing Smiling Curve" width="640" height="449" class="aligncenter size-full wp-image-5164" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2020/08/smilingcurve-1.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2020/08/smilingcurve-1.png?resize=300%2C210&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2020/08/smilingcurve-1.png?resize=1024%2C718&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2020/08/smilingcurve-1.png?resize=768%2C538&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2020/08/smilingcurve-1.png?resize=899%2C630&amp;ssl=1 899w" sizes="(max-width: 640px) 100vw, 640px" /></a></p>
+    <p>On the right you have the content aggregators, names everyone is familiar with: Google ($369.7 billion), Facebook ($209.0 billion), Twitter ($26.4 billion), Pinterest (private). They are worth by far the most of anyone in this discussion. Traditional publishers, meanwhile, are stuck in the middle…publishers (all of them, not just newspapers) don’t really have an exclusive on anything anymore. They are Acer, offering the same PC as the next guy, and watching as the lion’s share of the value goes to the folks who are actually putting the content in front of readers.</p>
+  </blockquote>
+  <p>It speaks to the inevitability of the smiling curve that it has even come for Facebook (which I wrote about in 2020’s <a href="https://stratechery.com/2020/social-networking-2-0/">Social Networking 2.0</a>); moving to global content and purely individualized feeds unconstrained by your network was the aforementioned Rubicon crossing. The provenance of that content is a tactical question, not a strategic one.</p>
+  <p>To that end, I’ve heard whispers that these AI content tests are going extremely well, which raises an interesting financial question. One of Meta’s great strengths is that it gets its content for free from users. There certainly are costs incurred in personalizing your feed, but this is one of the rare cases where AI content is actually more expensive. It’s possible, though, that it simply is that much better and more engaging, in part because it is perfectly customized to you.</p>
+  <p>This leads to a third medium-term AI-derived benefit that Meta will enjoy: at some point ads will be indistinguishable from content. You can already see the outlines of that given I’ve discussed both generative ads and generative content; they’re the same thing! That image that is personalized to you just might happen to include a sweater or a belt that Meta knows you probably want; simply click-to-buy.</p>
+  <p>It’s not just generative content, though: AI can figure out what is in other content, including authentic photos and videos. Suddenly every item in that influencer photo can be labeled and linked — provided the supplier bought into the black box, of course — making not just every piece of generative AI a potential ad, but every piece of content period.</p>
+  <p>The market implications of this are profound. One of the oddities of analyzing digital ad platforms is that some of the most important indicators are counterintuitive; I wrote <a href="https://stratechery.com/2024/meta-and-reasonable-doubt/">this spring</a>:</p>
+  <blockquote>
+    <p>The most optimistic time for Meta’s advertising business is, counter-intuitively, when the price-per-ad is dropping, because that means that impressions are increasing. This means that Meta is creating new long-term revenue opportunities, even as its ads become cost competitive with more of its competitors; it’s also notable that this is the point when previous investor freak-outs have happened.</p>
+  </blockquote>
+  <p>When I wrote that I was, as I noted in the introduction, feeling more cautious about Meta’s business, given that Reels is built out and the inventory opportunities of Meta AI were not immediately obvious. I realize now, though, that I was distracted by Meta AI: the real impact of AI is to make everything inventory, which is to say that the price-per-ad on Meta will approach $0 for basically forever. Would-be competitors are finding it difficult enough to compete with Meta’s userbase and resources in a probabilisitic world; to do so with basically zero price umbrella seems all-but impossible.</p>
+  <h3 id="the-long-term-xr-and-generative-ui">The Long-term: XR and Generative UI</h3>
+  <p>Notice that I am thousands of words into this Article and, like <a href="https://stratechery.com/2022/meta-myths/">Meta Myths</a>, haven’t even mentioned VR or AR. Meta’s AI-driven upside is independent from XR becoming the platform of the future. What is different now, though, is that the likelihood of XR mattering feels dramatically higher than it did even six months ago.</p>
+  <p>The first one is obviously Orion, <a href="https://stratechery.com/2024/more-on-orion-where-vision-pro-went-wrong-apples-response-and-metas-motivation/">which I wrote about last month</a>. Augmented reality is definitely going to be a thing — I would buy a pair of Meta’s prototypes now if they were for sale.</p>
+  <p>Once again, however, the real enabler will be AI. In the smartphone era, user interfaces started out being pixel perfect, and have gradually evolved into being declarative interfaces that scale to different device sizes. AI, however, will enable generative UI, where you are only presented with the appropriate UI to accomplish the specific task at hand. This will be somewhat useful on phones, and much more compelling on something like a smartwatch; instead of having to craft an interface for a tiny screen, generative UIs will surface exactly what you need when you need it, and nothing else.</p>
+  <p>Where this will really make a difference is with hardware like Orion. Smartphone UI’s will be clunky and annoying in augmented reality; the magic isn’t in being pixel perfect, but rather being able to do something with zero friction. Generative UI will make this possible: you’ll only see what you need to see, and be able to interact with it via neural interfaces like the Orion neural wristband. Oh, and this applies to ads as well: everything in the world will be potential inventory.</p>
+  <p>AI will have a similarly transformative effect on VR, which I wrote about back in 2022 in <a href="https://stratechery.com/2022/dall-e-the-metaverse-and-zero-marginal-content/">DALL-E, the Metaverse, and Zero Marginal Content</a>. That article traced the evolution of both games and user-generated content from text to images to video to 3D; the issue is that games had hit a wall, <a href="https://stratechery.com/2022/consoles-and-competition/">given the cost of producing compelling 3D content</a>, and that that challenge would only be magnified by the immersive nature of VR. Generative AI, though, will solve that problem:</p>
+  <blockquote>
+    <p>In the very long run this points to a metaverse vision that is much less deterministic than your typical video game, yet much richer than what is generated on social media. Imagine environments that are not drawn by artists but rather created by AI: this not only increases the possibilities, but crucially, decreases the costs.</p>
+  </blockquote>
+  <p>Here once again Meta’s advantages come to the fore: not only are they leading the way in VR with the Quest line of headsets, but they are also justified in building out the infrastructure necessary to generate metaverses — advertising included — because every part of their business benefits from AI.</p>
+  <h3 id="from-abundance-to-infinity">From Abundance to Infinity</h3>
+  <p>This was all a lot of words to explain the various permutations of an obvious truth: a world of content abundance is going to benefit the biggest content Aggregator first and foremost. Of course Meta needs to execute on all of these vectors, but that is where they also benefit from being founder-led, particularly given the fact that founder seems more determined and locked in than ever.</p>
+  <p>It’s also going to cost a lot of money, both in terms of training and inference. The inference part is inescapable: Meta may have a materially higher cost of revenue in the long run. The training part, however, has some intriguing possibilities. Specifically, Meta’s AI opportunities are so large and so central to the company’s future, that there is no question that Zuckerberg will spend whatever is necessary to keep pushing Llama forward. Other companies, however, with less obvious use cases, or more dependency on third-party development that may take longer than expected to generate real revenue, may at some point start to question their infrastructure spend, and wonder if it might make more sense to simply license Llama (this is where the “ish” part of “openish” looms large). It’s definitely plausible that Meta ends up being subsidized for building the models that give the company so much upside.</p>
+  <p>Regardless, it’s good to be back on the Meta bull train, no matter what tomorrow’s earnings say about last quarter or next year. Stratechery from the beginning has been focused on the implications of abundance and the companies able to navigate it on behalf of massive user bases — the Aggregators. AI takes abundance to infinity, and Meta is the purest play of all.</p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2024-12-02</time>
+        <a href="https://nodebe4.github.io/opinion/2024-12-02/The-Gen-AI-Bridge-to-the-Future/">
+          The Gen AI Bridge to the Future
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-11-18</time>
+        <a href="https://nodebe4.github.io/opinion/2024-11-18/A-Chance-to-Build/">
+          A Chance to Build
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-10-15</time>
+        <a href="https://nodebe4.github.io/opinion/2024-10-15/Elon-Dreams-and-Bitter-Lessons/">
+          Elon Dreams and Bitter Lessons
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-09-24</time>
+        <a href="https://nodebe4.github.io/opinion/2024-09-24/Enterprise-Philosophy-and-The-First-Wave-of-AI/">
+          Enterprise Philosophy and The First Wave of AI
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2024-10-28/%E7%A6%81%E5%BF%8C%E5%8F%B2%E8%A9%B1-%E6%9D%8E%E9%8A%B3%E6%97%A5%E8%A8%98%E7%A7%98%E5%AF%8660-%E6%AF%9B%E5%A4%AB%E4%BA%BA%E9%80%B2%E5%8C%96%E5%8F%B2-%E6%B1%9F%E9%9D%92-3-%E7%B4%85%E9%83%BD%E5%A5%B3%E7%9A%87-%E5%88%9D%E8%A9%A6%E9%8B%92%E8%8A%92/">
+            前一篇：禁忌史話：李銳日記秘密60｜【毛夫人進化史】江青（3）紅都女皇 初試鋒芒
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2024-10-29/%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AD%B8%E8%A1%93%E7%99%BC%E8%A1%A8%E6%8C%87%E5%B0%8E-%E4%BA%BA%E6%96%87%E7%A4%BE%E7%A7%91%E9%A0%98%E5%9F%9F-%E7%A7%91%E5%AD%B8%E8%A1%A8%E9%81%94%E5%B7%A5%E4%BD%9C%E5%9D%8A/">
+            後一篇：研究生學術發表指導——人文社科領域｜科學表達工作坊
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2024-10-28/%E7%A6%81%E5%BF%8C%E5%8F%B2%E8%A9%B1-%E6%9D%8E%E9%8A%B3%E6%97%A5%E8%A8%98%E7%A7%98%E5%AF%8660-%E6%AF%9B%E5%A4%AB%E4%BA%BA%E9%80%B2%E5%8C%96%E5%8F%B2-%E6%B1%9F%E9%9D%92-3-%E7%B4%85%E9%83%BD%E5%A5%B3%E7%9A%87-%E5%88%9D%E8%A9%A6%E9%8B%92%E8%8A%92/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2024-10-29/%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AD%B8%E8%A1%93%E7%99%BC%E8%A1%A8%E6%8C%87%E5%B0%8E-%E4%BA%BA%E6%96%87%E7%A4%BE%E7%A7%91%E9%A0%98%E5%9F%9F-%E7%A7%91%E5%AD%B8%E8%A1%A8%E9%81%94%E5%B7%A5%E4%BD%9C%E5%9D%8A/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2024-11-18/A-Chance-to-Build/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2024-10-15/Elon-Dreams-and-Bitter-Lessons/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2024-10-28/%E7%A6%81%E5%BF%8C%E5%8F%B2%E8%A9%B1-%E6%9D%8E%E9%8A%B3%E6%97%A5%E8%A8%98%E7%A7%98%E5%AF%8660-%E6%AF%9B%E5%A4%AB%E4%BA%BA%E9%80%B2%E5%8C%96%E5%8F%B2-%E6%B1%9F%E9%9D%92-3-%E7%B4%85%E9%83%BD%E5%A5%B3%E7%9A%87-%E5%88%9D%E8%A9%A6%E9%8B%92%E8%8A%92/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2024-10-29/%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AD%B8%E8%A1%93%E7%99%BC%E8%A1%A8%E6%8C%87%E5%B0%8E-%E4%BA%BA%E6%96%87%E7%A4%BE%E7%A7%91%E9%A0%98%E5%9F%9F-%E7%A7%91%E5%AD%B8%E8%A1%A8%E9%81%94%E5%B7%A5%E4%BD%9C%E5%9D%8A/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2024-11-18/A-Chance-to-Build/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2024-10-15/Elon-Dreams-and-Bitter-Lessons/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

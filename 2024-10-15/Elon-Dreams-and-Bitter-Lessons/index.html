@@ -1,0 +1,3089 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Elon Dreams and Bitter Lessons – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+Elon Dreams and Bitter Lessons
+——
+" />
+    <meta property="og:description" content="
+Elon Dreams and Bitter Lessons
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Elon Dreams and Bitter Lessons" />
+    <meta property="twitter:title" content="Elon Dreams and Bitter Lessons" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2024%2Felon-dreams-and-bitter-lessons%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2024/elon-dreams-and-bitter-lessons/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2024/elon-dreams-and-bitter-lessons/&text=Elon Dreams and Bitter Lessons&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2024/elon-dreams-and-bitter-lessons/&title=Elon Dreams and Bitter Lessons" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2024/elon-dreams-and-bitter-lessons/&title=Elon Dreams and Bitter Lessons" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Elon Dreams and Bitter Lessons&body=
+Elon Dreams and Bitter Lessons
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2024/elon-dreams-and-bitter-lessons/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2024/elon-dreams-and-bitter-lessons/&title=Elon Dreams and Bitter Lessons&caption=
+Elon Dreams and Bitter Lessons
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Elon Dreams and Bitter Lessons&url=https://stratechery.com/2024/elon-dreams-and-bitter-lessons/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Elon Dreams and Bitter Lessons</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2024-10-15
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2024/elon-dreams-and-bitter-lessons/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1729008769000-->
+<p><a href="https://stratechery.com/2024/elon-dreams-and-bitter-lessons/">Elon Dreams and Bitter Lessons</a>
+——</p>
+
+<div>
+  <p>In the days after SpaceX’s awe-inspiring Starship launch-and-catch — watch the first eight minutes of <a href="https://youtu.be/eXsT2HT171o?si=Dgk1pXWO_JDWL8H3&#038;t=49">this video</a> if you haven’t yet — there was another older video <a href="https://twitter.com/StormSurgeMedia/status/1675932589930979351">floating around on X</a>, this time of Richard Bowles, a former executive at Arianespace, the European rocket company. The event was <a href="https://www.youtube.com/watch?v=pr6UrItaewc">the Singapore Satellite Industry Forum</a>, and the year was 2013:</p>
+  <div id="v-DYF1wrn8-1" class="video-player">
+    <video id="v-DYF1wrn8-1-video" width="640" height="360" poster="https://videos.files.wordpress.com/DYF1wrn8/arianespace_mp4_hd.original.jpg" controls="true" preload="metadata" dir="ltr" lang="en"><div>
+<img data-recalc-dims="1" fetchpriority="high" decoding="async" alt="Arianespace dismisses Tesla" src="https://videos.files.wordpress.com/DYF1wrn8/arianespace_mp4_hd.original.jpg?resize=640%2C360" width="640" height="360" />
+      </div>      <p>Arianespace dismisses Tesla</p>
+</video>
+  </div>
+  <blockquote>
+    <p><strong>This morning, SpaceX came along and said, “We foresee a launch costing $7 million”. Well, ok, let’s ignore the 7, let’s say $15 million…at $15 million every operator would change their gameplane completely. Every supplier would change their gameplan completely. We wouldn’t be building satellites exactly as we are today, so a lot of these questions I think it might be interesting to go on that and say, “Where do you see your companies if you’re going to compete with a $15 million launch program.” So Richard, where do you see your company competing with a $15 million launch?”…</strong></p>
+    <p><strong>RB:</strong> SpaceX is an interesting phenomenon. We saw it, and you just mentioned it, I thought it was $5 million or $7 million…</p>
+    <p><strong>Why don’t you take Arianespace instead of SpaceX first. Where would you compete with a $15 million launch?</strong></p>
+    <p><strong>RB:</strong> I’ve got to talk about what I’m competing with, because that then predicates exactly how we will compete when we analyze what we are competing with. Obviously we like to analyze the competition.</p>
+    <p>So today, SpaceX hasn’t launched into the geosynchronous orbit yet, they’re doing very well, their progress is going forward amazingly well, but I’m discovering in the market is that SpaceX primarily seems to be selling a dream, which is good, we should all dream, but I think a $5 million launch, or a $15 million launch, is a bit of a dream. Personally I think reusability is a dream. Recently I was at a session where I was told that there was no recovery plan because they’re not going to have any failures, so I think that’s a part of the dream.</p>
+    <p>So at the moment, I feel that we’re looking, and you’re presenting to me, how am I going to respond to a dream? My answer to respond to a dream is that first of all, you don’t wake people up, they have to wake up on their own, and then once the market has woken up to the dream and the reality, then we’ll compete with that.</p>
+    <p><strong>But they are looking at a price which is about half yours today.</strong></p>
+    <p><strong>RB:</strong> It’s a dream.</p>
+    <p><strong>Alright. Suppose that you wake up and they’re there, what would you Arianespace do.</strong></p>
+    <p><strong>RB:</strong> We would have to react to it. They’re not supermen, so whatever they can do we can do. We would then have to follow. But today, at the moment…it is a theoretical question at this moment in time.</p>
+    <p><strong>I personally don’t believe it’s going to be theoretical for that much longer. They’ve done everything almost they said they would do. That’s true.</strong></p>
+  </blockquote>
+  <p>The moderator ended up winning the day; in 2020 <a href="https://aviationweek.com/space/podcast-interview-spacexs-elon-musk">Elon Musk said on a podcast</a> that the “best case” for Falcon 9 launches was indeed $15 million (i.e. most cost more, but that price point had been achieved). Of course customers pay a lot more: SpaceX charges a retail price of $67 million per launch, in part because it has no competition; Arianespace retired the Ariane 5 rocket, which had a retail launch price of $178 million, in 2023. Ariane 6 had its first launch this year, but it’s not price competitive, in part because it’s not reusable. From <a href="https://www.politico.eu/article/how-europe-screwed-up-its-rocket-program/">Politico</a>:</p>
+  <blockquote>
+    <p>The idea of copying SpaceX and making Ariane partly reusable was considered and rejected. That decision haunts France’s Economy Minister Bruno Le Maire. “In 2014 there was a fork in the road, and we didn’t take the right path,” Le Maire <a href="https://www.politico.eu/article/europe-arianespace-rocket-space-race/">said</a> in 2020.</p>
+    <p>But just because it works for Elon, doesn’t make it good for Europe. Once it’s up and running, Ariane 6 should have nine launches a year — of which around four will be for institutional missions, like government reconnaissance satellites and earth observation systems. The rest will be targeted at commercial clients.</p>
+    <p>Compare that to SpaceX. Fed by a steady stream of Pentagon and industry contracts, in addition to missions for its own Starlink satellite constellation, Musk’s company carried out a record 96 launches in 2023.</p>
+    <p>“It wasn’t that we just said reusability is bullshit,” said [former head the European Space Agency Jan] Wörner of the early talks around Ariane 6 in the mid-2010s, and the consideration of building reusable stages rather than burning through fresh components each mission. “If you have 10 flights per year and you are only building one new launcher per year then from an industrial point of view that’s not going to work.”</p>
+  </blockquote>
+  <p>Wörner’s statement is like Bowles in the way in which it sees the world as static; Bowles couldn’t see ahead to a world where SpaceX actually figured out how to reuse rockets by landing them on drone ships, much less the version 2 example of catching a much larger rocket that we saw this weekend. Wörner, meanwhile, can’t see backwards: the reason why SpaceX has so much more volume, both from external customers and from itself (Starlink), is because it is cheap. Cheapness creates scale, which makes things even cheaper, and the ultimate output is entirely new markets.</p>
+  <h3 id="the-spacex-dream">The SpaceX Dream</h3>
+  <p>Of course Bowles was right in another way: SpaceX <em>is</em> a dream. It’s a dream of going to Mars, and beyond, of extending humanity’s reach beyond our home planet; Arianespace is just a business. That, though, has been their undoing. A business carefully evaluates options, and doesn’t necessarily choose the highest upside one, but rather the one with the largest expected value, a calculation that incorporates the likelihood of success — and even then most find it prudent to hedge, or build in option value.</p>
+  <p>A dreamer, though, starts with success, and works backwards. In this case, Musk explained the motivation for driving down launch costs <a href="https://x.com/elonmusk/status/1846001324246319409">on X</a>:</p>
+  <p><a href="https://x.com/elonmusk/status/1846001324246319409"><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/10/elondreams-2.png?resize=640%2C1212&#038;ssl=1" alt="Why Musk is focused on launch costs" width="640" height="1212" class="aligncenter size-full wp-image-13743" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/10/elondreams-2.png?w=1186&amp;ssl=1 1186w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/10/elondreams-2.png?resize=158%2C300&amp;ssl=1 158w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/10/elondreams-2.png?resize=541%2C1024&amp;ssl=1 541w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/10/elondreams-2.png?resize=768%2C1454&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/10/elondreams-2.png?resize=811%2C1536&amp;ssl=1 811w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/10/elondreams-2.png?resize=1081%2C2048&amp;ssl=1 1081w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/10/elondreams-2.png?resize=333%2C630&amp;ssl=1 333w" sizes="(max-width: 640px) 100vw, 640px" /></a></p>
+  <p>First off, this made it imperative that SpaceX find a way to launch a massively larger rocket that is fully recoverable, and doesn’t include the weight and logistics costs of the previous approach (this weekend SpaceX caught the Super Heavy booster; the next step is catching the Starship spacecraft that sits above it). Once SpaceX can launch massively larger rockets cheaply, though, it can start to do other things, like <a href="https://x.com/elonmusk/status/1845884681050276333">dramatically expand Starlink capability</a>.</p>
+  <div align="center">
+    <blockquote class="twitter-tweet" data-dnt="true">
+      <p lang="en" dir="ltr">The next generation Starlink satellites, which are so big that only Starship can launch them, will allow for a 10X increase in bandwidth and, with the reduced altitude, faster latency <a href="https://t.co/HLYdjjia3o">https://t.co/HLYdjjia3o</a></p>
+      <p>— Elon Musk (@elonmusk) <a href="https://twitter.com/elonmusk/status/1845884681050276333?ref_src=twsrc%5Etfw">October 14, 2024</a></p>
+    </blockquote>
+    <p>      <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+&lt;/div&gt;      <p>Starlink won’t be the only beneficiary; the Singapore moderator had it right back in 2013: everyone will change their gameplan completely, which will mean more business for SpaceX, which will only make things cheaper, which will mean even more business. Indeed, there is a window to rocketports that don’t have anything to do with Mars, but simply facilitate drastically faster transportation here on planet earth. The transformative possibilities of scale — and the dramatic decrease in price that follows — are both real and hard to imagine.</p>
+      <h3 id="teslas-robotaxi-presentation">Tesla’s Robotaxi Presentation</h3>
+      <p>The Starship triumph wasn’t the only Musk-related story of the week: last Thursday Tesla held its <a href="https://www.youtube.com/watch?v=6v6dbxPlsXs">We, Robot</a> event where it promised to unveil its Robotaxi, and observers were considerably less impressed. From <a href="https://www.bloomberg.com/news/articles/2024-10-11/musk-shows-tesla-cybercab-sees-sub-30-000-cost-and-2026-debut">Bloomberg</a>:</p>
+      <blockquote>
+        <p>Elon Musk unveiled Tesla Inc.’s highly anticipated self-driving taxi at a flashy event that was light on specifics, sending its stock sliding as investors questioned how the carmaker will achieve its ambitious goals. The chief executive officer showed off prototypes of a slick two-door sedan called the Cybercab late Thursday, along with a van concept and an updated version of Tesla’s humanoid robot. The robotaxi — which has no steering wheel or pedals — could cost less than $30,000 and “probably” will go into production in 2026, Musk said.</p>
+        <p>The product launch, held on a movie studio lot near Los Angeles, didn’t address how Tesla will make the leap from selling advanced driver-assistance features to fully autonomous vehicles. Musk’s presentation lacked technical details and glossed over topics including regulation or whether the company will own and operate its own fleet of Cybercabs. As Jefferies analysts put it, Tesla’s robotaxi appears “toothless.”</p>
+        <p>The underwhelming event sent Tesla’s shares tumbling as much as 10% Friday in New York, the biggest intraday decline in more than two months. They were down 7.6% at 12:29 p.m., wiping out $58 billion in market value. The stock had soared almost 70% since mid-April, largely in anticipation of the event. Uber Technologies Inc. and Lyft Inc., competing ride-hailing companies whose investors had been nervously awaiting the Cybercab’s debut, each surged as much as 11% Friday. Uber’s stock hit an all-time high.</p>
+        <p>Tesla has a track record of blowing past timelines Musk has offered for all manner of future products, and has had a particularly difficult time following through on his self-driving forecasts. The CEO told investors in 2019 that Tesla would have more than 1 million robotaxis on the road by the following year. The company hasn’t deployed a single autonomous vehicle in the years since.</p>
+      </blockquote>
+      <p>First off, <a href="https://www.youtube.com/watch?v=6v6dbxPlsXs">the shockingly short presentation</a> — 22:44 from start to “Let’s get the party started” — was indeed devoid of any details about the Robotaxi business case. Secondly, all of the criticisms of Musk’s mistaken predictions about self-driving are absolutely true. Moreover, the fact of the matter is that Tesla is now far behind the current state-of-the-art, Waymo, which is in operation in four U.S. cities and about to start up in two more. Waymo has achieved Level 4 automation, while Tesla’s are stuck at Level 2. To review <a href="https://www.sae.org/blog/sae-j3016-update">the levels of automation</a>:</p>
+      <ul>
+        <li>Level 0: Limited features that provide warnings and momentary assistance (i.e. automatic emergency braking)</li>
+        <li>Level 1: Steering or brake/acceleration automation (i.e. cruise control or lane centering)</li>
+        <li>Level 2: Steering and brake/acceleration control, which must be constantly supervised (i.e. hands-on-wheel)</li>
+        <li>Level 3: Self-driving that only operates under pre-defined conditions, and in which the driver must take control immediately when requested</li>
+        <li>Level 4: Self-driving that only operates under pre-defined conditions, under which the driver is not expected to take control</li>
+        <li>Level 5: Self-driving under all conditions, with no expectation of driver control</li>
+      </ul>
+      <p>Waymo has two big advantages relative to Tesla: first, its cars have a dramatically more expansive sensor suite, including camera, radar, and LiDAR; the latter is the most accurate way to measure depth, which is particularly tricky for cameras and fairly imprecise for radar. Second, any Waymo car can be taken over by a remote driver any time it encounters a problem. This doesn’t happen often — once every 17,311 miles in sunny California <a href="https://thelastdriverlicenseholder.com/2024/02/03/2023-disengagement-reports-from-california/">last year</a> — but it is comforting to know that there is a fallback.</p>
+      <p>The challenge is that both of these advantages cost money: LiDAR is the biggest reason why the Generation 5 Waymo’s on the streets of San Francisco cost <a href="https://www.nytimes.com/2023/08/21/technology/waymo-driverless-cars-san-francisco.html">a reported $200,000</a>; <a href="https://waymo.com/blog/2024/08/meet-the-6th-generation-waymo-driver/">Generation 6 has fewer sensors</a> and should be considerably cheaper, and prices will come down as Waymo scales, but this is still a barrier. Humans in data centers, meanwhile, sitting poised to take over a car that encounters trouble, are not just a cost center but also a limit on scalability. Then again, higher cost structures are its own limitation on scalability; Waymos are awesome but they will need to get an order of magnitude cheaper to change the world.</p>
+      <h3 id="the-autonomy-dream">The Autonomy Dream</h3>
+      <p>What was notable about Musk’s Tesla presentation is what it actually did include. Start with that last point; Musk’s focus was on that changing the world bit:</p>
+      <div id="v-Ns0M3bek-1" class="video-player">
+        <video id="v-Ns0M3bek-1-video" width="640" height="360" poster="https://videos.files.wordpress.com/Ns0M3bek/musk-future_mp4_hd_1080p.original.jpg" controls="true" preload="metadata" dir="ltr" lang="en"><div>
+<img data-recalc-dims="1" decoding="async" alt="Avoiding Bladerunner" src="https://videos.files.wordpress.com/Ns0M3bek/musk-future_mp4_hd_1080p.original.jpg?resize=640%2C360" width="640" height="360" />
+          </div>          <p>Avoiding Bladerunner</p>
+</video>
+      </div>
+      <blockquote>
+        <p>You see a lot of sci-fi movies where the future is dark and dismal. It’s not a future you want to be in. I love Bladerunner, but I don’t know if we want that future. I think we want that duster he’s wearing, but not the bleak apocalypse. We want to have a fun, exciting future that if you could look in a crystal ball and see the future, you’d be like “Yes, I wish that I could be there now”. That’s what we want.</p>
+      </blockquote>
+      <p>Musk proceeded to talk about having a lounge on wheels that gave you your time back and was safer to boot, and which didn’t need ugly parking lots; the keynote slides added parks to LAX and Sofi and Dodger Stadiums:</p>
+      <div id="v-DgjXzBQz-1" class="video-player">
+        <video id="v-DgjXzBQz-1-video" width="640" height="360" poster="https://videos.files.wordpress.com/DgjXzBQz/tesla-greenspace_mp4_hd_1080p.original.jpg" controls="true" preload="metadata" dir="ltr" lang="en"><div>
+<img data-recalc-dims="1" loading="lazy" decoding="async" alt="Autonomy Transformation" src="https://videos.files.wordpress.com/DgjXzBQz/tesla-greenspace_mp4_hd_1080p.original.jpg?resize=640%2C360" width="640" height="360" />
+          </div>          <p>Autonomy Transformation</p>
+</video>
+      </div>
+      <blockquote>
+        <p>One of the things that is really interesting is how will this affect the cities that we live in. When you drive around a city, or the car drive you around the city, you see that there’s a lot of parking lots. There’s parking lots everywhere. There are parking garages. So what would happen if you have an autonomous world is that you can now turn parking lots into parks…there’s a lot of opportunity to create greenspace in the cities that we live in.</p>
+      </blockquote>
+      <p>This is certainly an attractive vision; it’s also far beyond the world of Uber and Lyft or even Waymo, which are focused on solving the world as it actually exists today. That means dealing with human drivers, which means there will be parking lots for a long time to come. Musk’s vision is a dream.</p>
+      <p>What, though, would that dream require, if it were to come true? Musk said it himself: full autonomy provided by a fleet of low cost vehicles that make it silly — or prohibitively expensive, thanks to sky-rocketing insurance — for anyone to drive themselves. That isn’t Level 4, like Waymo, it’s Level 5, and, just as importantly, it’s cheap, because cheap drives scale and scale drives change.</p>
+      <p>Tesla’s strategy for “cheap” is well-known: the company eschews LiDAR, and removed radar from new models a few years ago, claiming that it would accomplish its goals using cameras alone.<sup id="rf1-13727"><a href="https://stratechery.com/2024/elon-dreams-and-bitter-lessons/#fn1-13727" title="Although &lt;a href=&quot;https://www.autoevolution.com/news/tesla-model-s-x-cars-with-hardware-4-come-with-an-hd-radar-unit-unlike-the-hw4-model-y-215902.html&quot;&gt;there does appear to be an inactive radar module in recent Models S and X&lt;/a&gt;; radar is comparatively cheap, and is particularly useful in low visibility situations where both cameras and LiDAR struggle" rel="footnote">1</a></sup> Setting aside the viability of this claim, the connection to the the dream is clear: a cameras-only approach enables the low cost vehicles integral to Musk’s dream. Yes, Waymo equipment costs will come down with scale, but Waymo’s current approach is both safer in the present and also more limited in bringing about the future.</p>
+      <p>What many folks seemed to miss in Musk’s presentation was his explanation as to how Tesla — and only Tesla — might get there.</p>
+      <h3 id="the-bitter-lesson">The Bitter Lesson</h3>
+      <p>Rich Sutton wrote one of the most important and provocative articles about AI in 2019; it’s called <a href="http://www.incompleteideas.net/IncIdeas/BitterLesson.html">The Bitter Lesson</a>:</p>
+      <blockquote>
+        <p>The biggest lesson that can be read from 70 years of AI research is that general methods that leverage computation are ultimately the most effective, and by a large margin. The ultimate reason for this is Moore’s law, or rather its generalization of continued exponentially falling cost per unit of computation. Most AI research has been conducted as if the computation available to the agent were constant (in which case leveraging human knowledge would be one of the only ways to improve performance) but, over a slightly longer time than a typical research project, massively more computation inevitably becomes available. Seeking an improvement that makes a difference in the shorter term, researchers seek to leverage their human knowledge of the domain, but the only thing that matters in the long run is the leveraging of computation. These two need not run counter to each other, but in practice they tend to. Time spent on one is time not spent on the other. There are psychological commitments to investment in one approach or the other. And the human-knowledge approach tends to complicate methods in ways that make them less suited to taking advantage of general methods leveraging computation. There were many examples of AI researchers’ belated learning of this bitter lesson, and it is instructive to review some of the most prominent.</p>
+      </blockquote>
+      <p>The examples Sutton goes over includes chess, where search beat deterministic programming, and Go, where unsupervised learning did the same. In both cases bringing massive amounts of compute to bear was both simpler and more effective than humans trying to encode their own shortcuts and heuristics. The same thing happened with speech recognition and computer vision: deep learning massively outperforms any sort of human-guided algorithms. Sutton notes towards the end:</p>
+      <blockquote>
+        <p>One thing that should be learned from the bitter lesson is the great power of general purpose methods, of methods that continue to scale with increased computation even as the available computation becomes very great. The two methods that seem to scale arbitrarily in this way are search and learning.</p>
+      </blockquote>
+      <p>It’s a brilliant observation, to which I might humbly add one additional component: while the Bitter Lesson is predicated on there being an ever-increasing amount of compute, which reliably solves once-intractable problems, one of the lessons of LLMs is that you also need an ever-increasing amount of data. Existing models are already trained on all of the data AI labs can get their hands on, including most of the Internet, YouTube transcripts, scanned books, etc.; there is much talk about creating synthetic data, both from humans and from other LLMs, to ensure that scaling laws continue. The alternative is that we hit the so-called “data wall”.</p>
+      <p>LLMs, meanwhile, are commonly thought about in terms of language — it is in the name, after all — but what they actually predict are tokens, and tokens can be anything, including driving data. Timothy Lee explained some of Waymo’s research in this area at <a href="https://www.understandingai.org/p/how-transformer-based-networks-are">Understanding AI</a>:</p>
+      <blockquote>
+        <p>Any self-driving system needs an ability to predict the actions of other vehicles. For example, consider this driving scene I borrowed from a Waymo research paper:</p>
+        <p><a href="https://www.understandingai.org/p/how-transformer-based-networks-are"><img data-recalc-dims="1" loading="lazy" decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/10/75ef1f0d-06e3-4816-bd42-37769739b912_720x720.webp?resize=640%2C640&#038;ssl=1" alt="Waymo research paper scene" width="640" height="640" class="aligncenter size-full wp-image-13740" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/10/75ef1f0d-06e3-4816-bd42-37769739b912_720x720.webp?w=720&amp;ssl=1 720w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/10/75ef1f0d-06e3-4816-bd42-37769739b912_720x720.webp?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/10/75ef1f0d-06e3-4816-bd42-37769739b912_720x720.webp?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/10/75ef1f0d-06e3-4816-bd42-37769739b912_720x720.webp?resize=630%2C630&amp;ssl=1 630w" sizes="(max-width: 640px) 100vw, 640px" /></a></p>
+        <p>Vehicle A wants to turn left, but it needs to do it without running into cars B or D. There are a number of plausible ways for this scene to unfold. Maybe B will slow down and let A turn. Maybe B will proceed, D will slow down, and A will squeeze in between them. Maybe A will wait for both vehicles to pass before making the turn. A’s actions depend on what B and D do, and C’s actions, in turn, depend on what A does.</p>
+        <p>If you are driving any of these four vehicles, you need to be able to predict where the other vehicles are likely to be one, two, and three seconds from now. Doing this is the job of the prediction module of a self-driving stack. Its goal is to output a series of predictions that look like this:</p>
+        <p><a href="https://www.understandingai.org/p/how-transformer-based-networks-are"><img data-recalc-dims="1" loading="lazy" decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/10/78211467-e5c2-42b8-995b-063e831374db_720x720-1.webp?resize=640%2C640&#038;ssl=1" alt="Waymo research paper visualization" width="640" height="640" class="aligncenter size-full wp-image-13741" /></a></p>
+        <p>Researchers at Waymo and elsewhere struggled to model interactions like this in a realistic way. It’s not just that each individual vehicle is affected by a complex set of factors that are difficult to translate into computer code. Each vehicle’s actions depend on the actions of other vehicles. So as the number of cars increases, the computational complexity of the problem grows exponentially.</p>
+        <p>But then Waymo discovered that transformer-based networks were a good way to solve this kind of problem.</p>
+        <p>“In driving scenarios, road users may be likened to participants in a constant dialogue, continuously exchanging a dynamic series of actions and reactions mirroring the fluidity of communication,” Waymo researchers wrote in a <a href="https://arxiv.org/abs/2309.16534">2023 research paper</a>.</p>
+        <p>Just as a language model outputs a series of tokens representing text, Waymo’s vehicle prediction model outputs a series of tokens representing vehicle trajectories—things like “maintain speed and direction,” “turn 5 degrees left,” or “slow down by 3 mph”.</p>
+        <p>Rather than trying to explicitly formulate a series of rules for vehicles to follow (like “stay in your lane” and “don’t hit other vehicles”), Waymo trained the model like an LLM. The model learned the rules of driving by trying to predict the trajectories of human-driven vehicles on real roads.</p>
+        <p>This data-driven approach allowed the model to learn subtleties of vehicle interactions that are not described in any driver manual and would be hard to capture with explicit computer code.</p>
+      </blockquote>
+      <p>This is not yet a panacea. Lee notes later in his article:</p>
+      <blockquote>
+        <p>One big problem Sinavski noted is that Wayve hasn’t found a vision-language model that’s “really good at spatial reasoning.” If you’re a long-time reader of Understanding AI, you might remember when I <a href="https://www.understandingai.org/p/claude-3-chatgpt-finally-has-a-serious">asked leading LLMs</a> to tell the time from an analog clock or solve a maze. ChatGPT, Claude, and Gemini all failed because today’s foundation models are not good at thinking geometrically.</p>
+        <p>This seems like it would be a big downside for a model that’s supposed to drive a car. And I suspect it’s why Waymo’s perception system isn’t just one big network. Waymo still uses traditional computer code to divide the driving scene up into discrete objects and compute a numerical bounding box for each one. This kind of pre-processing gives the prediction network a head start as it reasons about what will happen next.</p>
+        <p>Another concern is that the opaque internals of LLMs make them difficult to debug. If a self-driving system makes a mistake, engineers want to be able to look under the hood and figure out what happened. That’s much easier to do in a system like Waymo’s, where some of the basic data structures (like the list of scene elements and their bounding boxes) were designed by human engineers.</p>
+        <p>But the broader point here is that self-driving companies do not face a binary choice between hand-crafted code or one big end-to-end network. The optimal self-driving architecture is likely to be a mix of different approaches. Companies will need to learn the best division of labor from trial and error.</p>
+      </blockquote>
+      <p>That sounds right, but for one thing: The Bitter Lesson. To go back to Sutton:</p>
+      <blockquote>
+        <p>This is a big lesson. As a field, we still have not thoroughly learned it, as we are continuing to make the same kind of mistakes. To see this, and to effectively resist it, we have to understand the appeal of these mistakes. We have to learn the bitter lesson that building in how we think we think does not work in the long run. The bitter lesson is based on the historical observations that 1) AI researchers have often tried to build knowledge into their agents, 2) this always helps in the short term, and is personally satisfying to the researcher, but 3) in the long run it plateaus and even inhibits further progress, and 4) breakthrough progress eventually arrives by an opposing approach based on scaling computation by search and learning. The eventual success is tinged with bitterness, and often incompletely digested, because it is success over a favored, human-centric approach.</p>
+      </blockquote>
+      <p>If The Bitter Lesson ends up applying to true Level 5 autonomy, then Waymo is already signed up for school. A “mix of different approaches” clearly works better now, and may for the next few years, but does it get them to Level 5? And what of the data, to the extent it is essential to the The Sweet Outcome of self-taught AI? This was the part of the Tesla presentation I referenced above:</p>
+      <div id="v-kVbQP6tY-1" class="video-player">
+        <video id="v-kVbQP6tY-1-video" width="640" height="360" poster="https://videos.files.wordpress.com/kVbQP6tY/musk-data_mp4_hd_1080p.original.jpg" controls="true" preload="metadata" dir="ltr" lang="en"><div>
+<img data-recalc-dims="1" loading="lazy" decoding="async" alt="Tesla&#039;s Data" src="https://videos.files.wordpress.com/kVbQP6tY/musk-data_mp4_hd_1080p.original.jpg?resize=640%2C360" width="640" height="360" />
+          </div>          <p>Tesla's Data</p>
+</video>
+      </div>
+      <blockquote>
+        <p>One of the reasons why the computer can be so much better than a person is that we have millions of cars that are training on driving. It’s like living millions of lives simultaneously and seeing very unusal situations that a person in their entire lifetime would not see, hopefully. With that amount of training data, it’s obviously going to be much better than what a human could be, because you can’t live a million lives. It can also see in all directions simultaneously, and it doesn’t get tired or text or any of those things, so it will naturally be 10x, 20x, 30x safer than a human for all those reasons.</p>
+        <p>I want to emphasize that the solution that we have is AI and vision. There’s no expensive equipment needed. The Model 3 and Model Y and S and X that we make today will be capable of full autonomy unsupervised. And that means that our costs of producing the vehicle is low.</p>
+      </blockquote>
+      <p>Again, Musk has been over-promising and under-delivering in terms of self-driving for existing Tesla owners for years now, so the jury is very much out on whether current cars get full unsupervised autonomy. But that doesn’t change the fact that those cars do have cameras, and those cameras are capturing data and doing fine-tuning right now, at a scale that Waymo has no way of matching. This is what I think Andrej Karpathy, the former Tesla Autopilot head, was referring to in his recent appearance on <a href="https://www.youtube.com/watch?v=hM_h0UA7upI">the No Priors podcast</a>:</p>
+      <div id="v-lRzylm8a-1" class="video-player">
+        <video id="v-lRzylm8a-1-video" width="640" height="360" poster="https://videos.files.wordpress.com/lRzylm8a/karpathy-tesla_mov_hd.original.jpg" controls="true" preload="metadata" dir="ltr" lang="en"><div>
+<img data-recalc-dims="1" loading="lazy" decoding="async" alt="Andrej Karpathy on Tesla self-driving" src="https://videos.files.wordpress.com/lRzylm8a/karpathy-tesla_mov_hd.original.jpg?resize=640%2C360" width="640" height="360" />
+          </div>          <p>Andrej Karpathy on Tesla self-driving</p>
+</video>
+      </div>
+      <blockquote>
+        <p>I think people think that Waymo is ahead of Tesla, I think personally Tesla is ahead of Waymo, and I know it doesn’t look like that, but I’m still very bullish on Tesla and it’s self-driving program. I think that Tesla has a software problem, and I think Waymo has a hardware problem, is the way I put it, and I think software problems are much easier. Tesla has deployment of all these cars on earth at scale, and I think Waymo needs to get there. The moment Tesla gets to the point where they can actually deploy and it actually works I think is going to be really incredible…</p>
+        <p>I’m not sure that people are appreciating that Tesla actually does use a lot of expensive sensors, they just do it at training time. So there a bunch of cars that drive around with LiDARS, they do a bunch of stuff that doesn’t scale and they have extra sensors etc., and they do mapping and all this stuff. You’re doing it at training time and then you’re distilling that into a test-time package that is deployed to the cars and is vision only. It’s like an arbitrage on sensors and expense. And so I think it’s actually kind of a brilliant strategy that I don’t think is fully appreciated, and I think is going to work out well, because the pixels have the information, and I think the network will be capable of doing that, and yes at training time I think these sensors are really useful, but I don’t think they are as useful at test time.</p>
+      </blockquote>
+      <p>Do note that Karpathy — who worked at Tesla for five years — is hardly a neutral observer, and also note that he forecasts a fully neural net approach to driving as taking ten years; that’s hardly next year, as Musk promised. That end goal, though, is Level 5, with low cost sensors and thus low cost cars, the key ingredient of realizing the dream of full autonomy and the transformation that would follow.</p>
+      <h3 id="the-cost-of-dreams">The Cost of Dreams</h3>
+      <p>I don’t, for the record, know if the Tesla approach is going to work; my experience with both <a href="https://stratechery.com/2024/taking-waymo-uber-and-waymo/">Waymo</a> and <a href="https://stratechery.com/2024/teslas-robotaxi-event-tesla-self-driving-12-5-experience-starlink-and-airlines/">Tesla</a> definitely makes clear that Waymo is ahead right now (and the disengagement numbers for Tesla <a href="https://arstechnica.com/cars/2024/09/tesla-full-self-driving-requires-human-intervention-every-13-miles/">are multiple orders of magnitude worse</a>). Most experts assume that LiDAR sensors are non-negotiable in particular.</p>
+      <p>The Tesla bet, though, is that Waymo’s approach ultimately doesn’t scale and isn’t generalizable to true Level 5, while starting with the dream — true autonomy — leads Tesla down a better path of relying on nothing but AI, fueled by data and fine-tuning that you can only do if you already have millions of cars on the road. That is the connection to SpaceX and what happened this weekend: if you start with the dream, then understand the cost structure necessary to achieve that dream, you force yourself down the only path possible, forgoing easier solutions that don’t scale for fantastical ones that do.</p>
+      <hr class="footnotes" />
+      <ol class="footnotes" style="list-style-type:decimal">
+        <li id="fn1-13727">
+          <p>Although <a href="https://www.autoevolution.com/news/tesla-model-s-x-cars-with-hardware-4-come-with-an-hd-radar-unit-unlike-the-hw4-model-y-215902.html">there does appear to be an inactive radar module in recent Models S and X</a>; radar is comparatively cheap, and is particularly useful in low visibility situations where both cameras and LiDAR struggle <a href="https://stratechery.com/2024/elon-dreams-and-bitter-lessons/#rf1-13727" class="backlink" title="Return to footnote 1.">↩</a></p>
+        </li>
+      </ol>
+ &lt;/div&gt;</p>
+  </div>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2024-11-18</time>
+        <a href="https://nodebe4.github.io/opinion/2024-11-18/A-Chance-to-Build/">
+          A Chance to Build
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-10-29</time>
+        <a href="https://nodebe4.github.io/opinion/2024-10-29/Meta-s-AI-Abundance/">
+          Meta’s AI Abundance
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-09-24</time>
+        <a href="https://nodebe4.github.io/opinion/2024-09-24/Enterprise-Philosophy-and-The-First-Wave-of-AI/">
+          Enterprise Philosophy and The First Wave of AI
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-09-10</time>
+        <a href="https://nodebe4.github.io/opinion/2024-09-10/Boomer-Apple/">
+          Boomer Apple
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2024-10-14/%E7%A6%81%E5%BF%8C%E5%8F%B2%E8%A9%B1-%E6%9D%8E%E9%8A%B3%E6%97%A5%E8%A8%98%E7%A7%98%E5%AF%8659-%E6%AF%9B%E5%A4%AB%E4%BA%BA%E9%80%B2%E5%8C%96%E5%8F%B2-%E6%B1%9F%E9%9D%92-2-%E5%BB%B6%E5%AE%89%E7%9A%84-%E7%B4%84%E6%B3%95%E4%B8%89%E7%AB%A0/">
+            前一篇：禁忌史話：李銳日記秘密59｜【毛夫人進化史】江青（2）延安的「約法三章」
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2024-10-15/%E7%89%B9%E5%88%AB%E8%8A%82%E7%9B%AE-%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E5%86%B2%E8%BF%9B%E4%BA%86A%E8%82%A1-%E4%B8%8A/">
+            後一篇：特别节目：我为什么冲进了A股？（上）
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2024-10-14/%E7%A6%81%E5%BF%8C%E5%8F%B2%E8%A9%B1-%E6%9D%8E%E9%8A%B3%E6%97%A5%E8%A8%98%E7%A7%98%E5%AF%8659-%E6%AF%9B%E5%A4%AB%E4%BA%BA%E9%80%B2%E5%8C%96%E5%8F%B2-%E6%B1%9F%E9%9D%92-2-%E5%BB%B6%E5%AE%89%E7%9A%84-%E7%B4%84%E6%B3%95%E4%B8%89%E7%AB%A0/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2024-10-15/%E7%89%B9%E5%88%AB%E8%8A%82%E7%9B%AE-%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E5%86%B2%E8%BF%9B%E4%BA%86A%E8%82%A1-%E4%B8%8A/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2024-10-29/Meta-s-AI-Abundance/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2024-09-24/Enterprise-Philosophy-and-The-First-Wave-of-AI/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2024-10-14/%E7%A6%81%E5%BF%8C%E5%8F%B2%E8%A9%B1-%E6%9D%8E%E9%8A%B3%E6%97%A5%E8%A8%98%E7%A7%98%E5%AF%8659-%E6%AF%9B%E5%A4%AB%E4%BA%BA%E9%80%B2%E5%8C%96%E5%8F%B2-%E6%B1%9F%E9%9D%92-2-%E5%BB%B6%E5%AE%89%E7%9A%84-%E7%B4%84%E6%B3%95%E4%B8%89%E7%AB%A0/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2024-10-15/%E7%89%B9%E5%88%AB%E8%8A%82%E7%9B%AE-%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E5%86%B2%E8%BF%9B%E4%BA%86A%E8%82%A1-%E4%B8%8A/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2024-10-29/Meta-s-AI-Abundance/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2024-09-24/Enterprise-Philosophy-and-The-First-Wave-of-AI/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

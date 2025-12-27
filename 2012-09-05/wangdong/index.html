@@ -1,0 +1,831 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>我就知道，世界没变！ – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="该怎样记录，迟迟没有勇气提笔。这是我拖延最久的一篇文章了。之前在烟盒上草草记录，却没了继续。懒惰如我，心有愧疚。
+" />
+    <meta property="og:description" content="该怎样记录，迟迟没有勇气提笔。这是我拖延最久的一篇文章了。之前在烟盒上草草记录，却没了继续。懒惰如我，心有愧疚。
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="我就知道，世界没变！" />
+    <meta property="twitter:title" content="我就知道，世界没变！" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fnodebe4.github.io%2Fopinion%2F2012-09-05%2Fwangdong%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://nodebe4.github.io/opinion/2012-09-05/wangdong/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://nodebe4.github.io/opinion/2012-09-05/wangdong/&text=觀點-從草根到大師 git.io/JJCxS&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://nodebe4.github.io/opinion/2012-09-05/wangdong/&title=觀點-從草根到大師 git.io/JJCxS" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://nodebe4.github.io/opinion/2012-09-05/wangdong/&title=觀點-從草根到大師 git.io/JJCxS" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=觀點-從草根到大師 git.io/JJCxS&body=该怎样记录，迟迟没有勇气提笔。这是我拖延最久的一篇文章了。之前在烟盒上草草记录，却没了继续。懒惰如我，心有愧疚。
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://nodebe4.github.io/opinion/2012-09-05/wangdong/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://nodebe4.github.io/opinion/2012-09-05/wangdong/&title=觀點-從草根到大師 git.io/JJCxS&caption=该怎样记录，迟迟没有勇气提笔。这是我拖延最久的一篇文章了。之前在烟盒上草草记录，却没了继续。懒惰如我，心有愧疚。
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=觀點-從草根到大師 git.io/JJCxS&url=https://nodebe4.github.io/opinion/2012-09-05/wangdong/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>我就知道，世界没变！</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2012-09-05
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: 王东</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#立人大学">
+          立人大学
+        </a>
+      </li>
+    </ul>
+
+    
+
+    <span style="float: right;" title="文集的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#立人大学 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+      <iframe id="player-" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/" frameborder="0" allowfullscreen></iframe>
+    
+    <p>该怎样记录，迟迟没有勇气提笔。这是我拖延最久的一篇文章了。之前在烟盒上草草记录，却没了继续。懒惰如我，心有愧疚。</p>
+
+<p>絮絮叨叨记录了一些生活片段与自己的一些思考吧。</p>
+
+<p>我要从一年前说起，在微博上看到立人大学，立刻被吸引住了。那时我正值高考惨败，看到这么一所民间大学，心向往之。誓要参加第二期立大。</p>
+
+<p>一年的复读并没有让我安下心来，依然关注着社会上的各种公共事件，后又写了纪念丰县校车事故的文章，被一夏姐看到，李英强邀约报名立大。</p>
+
+<p>8号早上来到北京，一夜火车的疲乏并没有减少我的兴奋。我总觉得世界很小，一年前通过法星社陈烨认识了思乐，没想到她也来到了立人。在北京，第一个见到的就是她。和她去拜访我的老乡李玉霄，后又一同回到继光书院。</p>
+
+<p>在书院最先见到了「好基友」同桌，与他认识也真是巧合，事因我发了一条微博「我是新闻控，我是美女控」，他的微博名就是「我是新闻控」，后来就聊了起来，原来他也是立大的学员。世界就这么小。自从我们在继光书院相遇后，便形影不离。</p>
+
+<p>晚饭后迎来了杨玉擎和曲玮玮。他们风尘仆仆赶来，让我最初以为是情侣档。</p>
+
+<p>下午来到书院的时候，看到了警车在门外，并不觉得事态严重，直到李英强召集大家开会，才知道玩不下去了。我只觉得荒诞可笑，事后有朋友问起是什么原因致使被撤离，我也无从回答，毕竟我们什么都没有做起。</p>
+
+<p>那位肥头大耳的身着警服的男人与我并无直接接触，但他那审视的眼神却在告诉你——老大哥在看着你。</p>
+
+<p>匆忙地收拾行李，洗的衣服还没干也放进了包里，来书院读经的孩子们瞪着大眼睛，站在大门外他们挥着小手，不住地说再见。这就是立大的第一课——关于自由。</p>
+
+<p>身体骗不了自己，车到县城，住下旅馆，很快就睡去。</p>
+
+<p>第二天得知分组游学，面临的的第一个问题就是，住宿。巧合的是，我在报名706青年空间的一个活动，他们也在招收沙发客，更巧的是小树还认得706青年空间的主人邬方荣，原来书架上的千册图书就有立人捐赠的，于是乎，我们一组和三组便在华清嘉园甲15号楼706室安营扎寨，两室一厅的房子里住着近30个少男少女，打地铺是唯一节省空间的方法了。</p>
+
+<p>而后的11天就像过山车一样，没有记任何的笔记。各地的赶场，或在706听着仰慕已久的学者侃侃而谈，高强度的生活让我只想到「累并快乐着’来形容。</p>
+
+<p>周濂老师，给我们讲他的好友写的那句诗——如果我没有见过太阳，或许还能忍受黑暗，而今我已见过太阳。当我听到时，心有戚戚，这是一个不可逆的过程。就像我读《阳光时务》的感受一样，感到我的耳朵打开了，我的眼睛睁开，感受到做一个自由的人的快感。</p>
+
+<p>周濂老师又追加一句——你以为看到的太阳就是真正的太阳吗？</p>
+
+<p>当我们对所谓的民主自由深信不疑时，究竟有多少属于自己的思考，而不是急忙站队，标榜自己如何如何。听到一位学员说「我绝对是右派，而且是极右。」</p>
+
+<p>我只觉得这是在展示自己，而非对立场的坚持。</p>
+
+<p>徐晓老师特地为我们买了瓶装水，可是，当我们离开时，却没把喝完的水带走。我无意责备任何人，只是对事不对人，从很多小事就能说明我们还有很多地方做的不够。</p>
+
+<p>龙应台在香港大学医学院毕业典礼的演讲《我们的村落》里说得好——信仰，依靠的不是隆重的大声宣告；信仰深藏在日常生活的细节里，信仰流露在举手投足之间最寻常最微小的决定里……看起来很不重要、极其普通的日常生活里的判断和抉择，决定了我们真正是什么样的人。</p>
+
+<p>就在立大被撤离继光书院的那晚，有微博网友说，这跟当年某党网络知识青年的手段如出一辙。但我想，只要我们能多想一点——我们看到的是真的太阳吗？也许就不再被当枪使了。</p>
+
+<p>历史早有前车之鉴。</p>
+
+<p>齐邦媛先生当年没有参加读书会，曾到德国海德堡读历史哲学的父亲告诉她——过度的允诺都是有问题的，过度的热情也是有问题的。</p>
+
+<p>徐晓老师，我要特别感谢她，虽然作为她的读者，与她有过简单交流，但当我提到想邀请她来给我们做一场讲座时，她还是很爽快地答应了，后又得知我们被离开继光书院，慷慨请我们到她家包饺子，给我们讲她的故事，给我们每一个人赠送她编辑出版的书。中奖的同学还可以得到她的《半生为人》。</p>
+
+<p>刘建锋老师，同样久闻大名，王克勤说他放弃了高薪做记者，而且诸多重量级的报道影响深远。最近的三篇关于乌坎的报道堪称调查报道中的典范。</p>
+
+<p>谭翊飞记者，被石扉客戏称他与邓飞是记者圈的「双飞」。在《1510周刊》上看他写从财政预算分析重庆模式的报道，以为他是成熟稳重的中年大叔，见面才知道他原来这么年轻。还有那口头禅——X个毛。</p>
+
+<p>方可成，他绝版青春的博客是我最爱看的了。</p>
+
+<p>这是我在立大里遇见的三大名记了。读者很容易从记者们的文字里想象他们的性格形象，很容易转成电视剧或电影给予人的那种虚拟形象。</p>
+
+<p>钱锺书先生曾说，假如你吃了个鸡蛋，觉得不错，何必要认识那下蛋的母鸡呢？见到这三位记者，也就是这样一个见母鸡的过程吧。</p>
+
+<p>皮村，如果说在继光书院那一晚上的是以实践课的方式教我们什么是自由的话，那么在皮村讨论如何退款就是一场民主课。纸面上的民主向来是忽悠利器，当我们亲自操作过，才知道所谓的民主议事不是请客吃饭。</p>
+
+<p>虽然场面出现了混乱，但是至少让我们每个人都亲身体验了什么叫民主参与，民主决策。</p>
+
+<p>同心实验学校，这所打工子弟学校终于能继续办学了！</p>
+
+<p>在学生宿舍里发现独自看书的李文辉。他随父母一起来到北京，学校里还有他的妹妹李文景。老家在安徽，那里还有哥哥。他今年12岁，却上三年级。</p>
+
+<p>受人欺负，以致休学治病。他的脸上有我小时候也起过的虫癣。当时我一再跟周围的朋友说：他们不需要我们同情，我们首先要尊重他们。我从李文辉身上看到小时候的我。他把调料撒在压碎的方便面上吃，我小时候也是这么做的。</p>
+
+<p>在学校里，我搜集他们吃的零食的包装袋，洗净后带了回来。</p>
+
+<p>当天晚上，在单向街书店，光鲜靓丽的男女在那里开着派对，我突然有强烈的不适应感，因为这与我下午在皮村看到的世界反差是多么的巨大，我不知道该说些什么。也许，这才是一个真实的中国。</p>
+
+<p>见到了许知远，这位没有被喝过茶的知识分子，给人感觉异常谦逊。虽然《那些忧伤的年轻人》已经出了十周年纪念版，但他的作者依然年轻。我说：说句不好听的话，我是看你的书长大的，你的那本《我要成为世界的一部分》，是我在书店的三折区买到的。</p>
+
+<p>当姜山用着春晚开场的语气介绍他时，他摆着手说：别别别。想起他在Co-China夏令营有人问他，为什么关注公共事务，他说：「我只关注真实的个体。」这就是——活在真实生活里。</p>
+
+<p>让我再扯到在皮村问熊培云的一个问题——如何化解心中的无力感？他没有迟疑地回答：这很简单，做好你自己就行了。我说：是不是像胡适先生说的那样——成功不必在我，功力必不唐捐。他点头称是。</p>
+
+<p>周濂老师在Co-China夏令营的主题报告「好人与好公民」就谈到：不管你从事何种职业，但能做好我们每个公民应该做的事，就已经很不容易了。</p>
+
+<p>国际歌，是因为生活在这样一个国度里吧，国际歌成为每个心有不甘的人发泄不满与抗议的共同方式。嘶吼出每个词语，就是在宣告——我不相信。</p>
+
+<p>虽然我们都以旸丝自嘲，但我相信，我们的内心坚守的总是让我们心有不甘的。</p>
+
+<p>就像那句诗——我们是有污脏的外表，但我们内心盛开着圣洁的向日葵。</p>
+
+<p>706最high的一晚可以算安猪来的时候，但我只记住了他说的一句话——我这里没有答案，他说这句话时，双手合十。</p>
+
+<p>在这个晚上，我认识到了一位大哥，王飞。自我介绍时，他推荐大家多去看经典的书，直接接触大师，而非看现在的畅销书，对此，我深有同感，搭讪，畅谈。我们都反对很多人读书不多，而去妄谈一些不甚了了的宏大问题，什么「中华文化」，什么「民主自由」，你又知道多少？这不是个案，一直有掉书袋毛病的我，想起资中筠先生在《五四新文化运动与今天的争论》的文章里也谈到——「五四」的主要代表人物都是身受传统文化的浸淫，有很深的旧文化底蕴的饱学之士，决非盲目的批判和扬弃。在这个高度上，他们对外来文化就有判断力，知道如何取其精华。</p>
+
+<p>Co-China夏令营的杜婷在写给面试者的拒信里也说：「当你讲在支教中传播了中华文华，那你就应该知道‘中华文化’具体指什么，而不是被问及的时候用另一套大而空的词汇来解释。」</p>
+
+<p>当然，扪心自问，以上问题我也是经常犯的，只是想把它说出来，抛砖引玉罢了。</p>
+
+<p>北大西门，连续三晚的啤酒烧烤。</p>
+
+<p>酒过三寻，飞哥说，二十年后投我一票，没人把这当成醉话。记得在第二晚，我朗诵杜甫的《赠卫八处士》——明日隔山岳，世事两茫茫。</p>
+
+<p>来自全国各地的青年在北京相聚，让我这个从不参与任何形式的聚会的孤独患者，感受到集体的温暖。</p>
+
+<p>飞哥对我照顾有加，替我喝酒，我赶火车，他叫我起床。</p>
+
+<p>醒后，看着他们睡意正浓，便独自离开。一个人在电梯里，看着反射出来的自己，竟开始痛哭流涕。再次挤过人肉地铁，来到北京西站，想起一首老歌，张学友的《祝福》，心情如歌。就此离去。</p>
+
+<p>孙健，健哥做的事情比我牛逼多了。他的那个大学的毕业生后很容易进入国家机关，享受到很多人艳羡的待遇，但是他却不「安分」，以至于学校派学生来监视他。可以说把「钱途」葬送在自己手中。而我知道，他有他的世界，在去皮村的时候，我和同桌在车站等他，给他打电话听到：「您呼叫的用户正在通话中」，原来是访民又在给他打电话了。</p>
+
+<p>在QQ群里，最早认识了他，为人仗义，八块腹肌，酒量过人。一直记得他对我说：到了大学，你会依然孤单。</p>
+
+<p>当然，他的意思不是我找不到妹子。</p>
+
+<p>当我看到一张我们的合影，忍不住吐槽！给飞哥说：这张合影我要给儿子看。（虽然我现在连儿子他妈也没找到。）杨玉擎，一个学数学的理科男竟然看了那么多社科书，博学多识，着实让人惊叹。</p>
+
+<p>看过他的诸多深邃思考，可以想见未来必成大家。</p>
+
+<p>还有各位妹子……我就不一一枚举了。</p>
+
+<p>你们，真的让我钦佩不已。</p>
+
+<p>回到家后，收到王金晓兄弟发来的道歉短信，仅仅是当时一语不和而已。</p>
+
+<p>让我感动异常，也让我羞愧难当，为什么是他给我发短信，而不是我。</p>
+
+<p>未名湖。这所多少学子梦寐以求的大学就在我的脚下，酒后的我们在湖畔恣意放歌，青春如此美好。为了纪念，我还在湖畔洗了个脚，跑到一边，见有二三女生抱着吉他，我便凑上前去，原来是法学院的。</p>
+
+<p>回家后越来越想念在立大的生活。</p>
+
+<p>理想与现实，但每每念及与你们共同生活的12天，我就知道，世界没变！</p>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#立人大学 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2017-10-01/freehere/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2011-07-01/kaimu/">最早</a>--</span>
+    
+      <li>
+        <time>2013-04-15</time>
+        <a href="https://nodebe4.github.io/opinion/2013-04-15/liudaoyu2/">
+          营造自由开放的育人环境 - 《大学在人间》序言一 - 《大学在人间》序言一 - 《大学在人间》序言一
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2013-04-04</time>
+        <a href="https://nodebe4.github.io/opinion/2013-04-04/liusuli/">
+          学者型书人的学思历程
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2012-09-04</time>
+        <a href="https://nodebe4.github.io/opinion/2012-09-04/yangyuqing/">
+          立人大学与明日世界 - 兼谈《自由、乌托邦与强制》 - 兼谈《自由、乌托邦与强制》
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2012-08-05</time>
+        <a href="https://nodebe4.github.io/opinion/2012-08-05/jiangyixiao/">
+          我还愿相信生命中温暖美好的事情 - 记立大 - 记立大 - 记立大
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2012-09-05/%E4%B8%AD%E7%BE%8E%E5%AF%B9%E8%AF%9D-%E6%95%88%E6%9E%9C%E5%87%A0%E4%BD%95/">
+            前一篇：中美对话，效果几何？
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2012-09-05/%E5%8D%9A%E5%AE%A2%E8%AF%84%E8%AE%BA%E5%8A%9F%E8%83%BD%E5%8D%87%E7%BA%A7-%E5%BC%95%E5%85%A5-BBCode-%E8%AF%AD%E6%B3%95-%E9%A1%BA%E4%BE%BF%E5%88%86%E4%BA%AB%E4%B8%80%E4%B8%8B%E5%AE%9E%E7%8E%B0%E6%96%B9%E6%B3%95/">
+            後一篇：博客评论功能升级（引入 BBCode 语法），顺便分享一下实现方法
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2012-09-05/%E4%B8%AD%E7%BE%8E%E5%AF%B9%E8%AF%9D-%E6%95%88%E6%9E%9C%E5%87%A0%E4%BD%95/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2012-09-05/%E5%8D%9A%E5%AE%A2%E8%AF%84%E8%AE%BA%E5%8A%9F%E8%83%BD%E5%8D%87%E7%BA%A7-%E5%BC%95%E5%85%A5-BBCode-%E8%AF%AD%E6%B3%95-%E9%A1%BA%E4%BE%BF%E5%88%86%E4%BA%AB%E4%B8%80%E4%B8%8B%E5%AE%9E%E7%8E%B0%E6%96%B9%E6%B3%95/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2013-04-04/liusuli/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2012-09-04/yangyuqing/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2012-09-05/%E4%B8%AD%E7%BE%8E%E5%AF%B9%E8%AF%9D-%E6%95%88%E6%9E%9C%E5%87%A0%E4%BD%95/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2012-09-05/%E5%8D%9A%E5%AE%A2%E8%AF%84%E8%AE%BA%E5%8A%9F%E8%83%BD%E5%8D%87%E7%BA%A7-%E5%BC%95%E5%85%A5-BBCode-%E8%AF%AD%E6%B3%95-%E9%A1%BA%E4%BE%BF%E5%88%86%E4%BA%AB%E4%B8%80%E4%B8%8B%E5%AE%9E%E7%8E%B0%E6%96%B9%E6%B3%95/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<立人大学>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2013-04-04/liusuli/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<立人大学>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2012-09-04/yangyuqing/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

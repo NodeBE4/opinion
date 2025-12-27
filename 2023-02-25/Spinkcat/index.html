@@ -1,0 +1,2385 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Spinkcat在2023-02-20~2023-02-26的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Spinkcat在2023-02-20~2023-02-26的言论" />
+    <meta property="twitter:title" content="Spinkcat在2023-02-20~2023-02-26的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FChina_irl%2Fcomments%2F117urf9%2F%E5%A6%82%E6%9E%9C%E6%9C%89%E4%B8%80%E4%B8%AA%E4%B8%96%E7%95%8C%E8%B6%85%E7%BA%A7%E5%BC%BA%E5%9B%BD%E4%BD%A0%E5%B8%8C%E6%9C%9B%E6%98%AF%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/China_irl/comments/117urf9/如果有一个世界超级强国你希望是/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/China_irl/comments/117urf9/如果有一个世界超级强国你希望是/&text=Spinkcat在2023-02-20~2023-02-26的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/China_irl/comments/117urf9/如果有一个世界超级强国你希望是/&title=Spinkcat在2023-02-20~2023-02-26的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/China_irl/comments/117urf9/如果有一个世界超级强国你希望是/&title=Spinkcat在2023-02-20~2023-02-26的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Spinkcat在2023-02-20~2023-02-26的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/China_irl/comments/117urf9/如果有一个世界超级强国你希望是/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/China_irl/comments/117urf9/如果有一个世界超级强国你希望是/&title=Spinkcat在2023-02-20~2023-02-26的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Spinkcat在2023-02-20~2023-02-26的言论&url=https://old.reddit.com/r/China_irl/comments/117urf9/如果有一个世界超级强国你希望是/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Spinkcat在2023-02-20~2023-02-26的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2023-02-25
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://www.reddit.com/user/Spinkcat/" style="font-size:14px;">作者: Spinkcat</a>
+        </span>
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/China_irl/comments/117urf9/如果有一个世界超级强国你希望是/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#2011-如果有一个世界超级强国你希望是-submitted-on-2023-02-21-1248420800" id="markdown-toc-2011-如果有一个世界超级强国你希望是-submitted-on-2023-02-21-1248420800">2011: 如果有一个世界超级强国，你希望是, submitted on 2023-02-21 12:48:42+08:00.</a></li>
+  <li><a href="#2012-2012年包子刚上位的时候你有没有期待包子是蒋经国式的独裁者他会用独裁结束独裁-submitted-on-2023-02-21-1356230800" id="markdown-toc-2012-2012年包子刚上位的时候你有没有期待包子是蒋经国式的独裁者他会用独裁结束独裁-submitted-on-2023-02-21-1356230800">2012: 2012年包子刚上位的时候，你有没有期待包子是“蒋经国式的独裁者”；他会用独裁结束独裁。, submitted on 2023-02-21 13:56:23+08:00.</a></li>
+  <li><a href="#2013-wsj-乌克兰的顽强抵抗促使中国如今更倾向于推动停火以防止俄罗斯进一步受挫-submitted-on-2023-02-21-1401060800" id="markdown-toc-2013-wsj-乌克兰的顽强抵抗促使中国如今更倾向于推动停火以防止俄罗斯进一步受挫-submitted-on-2023-02-21-1401060800">2013: WSJ: 乌克兰的顽强抵抗促使中国如今更倾向于推动停火，以防止俄罗斯进一步受挫。, submitted on 2023-02-21 14:01:06+08:00.</a></li>
+  <li><a href="#2014-中共倒台以后哪些省份可以负担得起养老金和医保资金-submitted-on-2023-02-21-1608480800" id="markdown-toc-2014-中共倒台以后哪些省份可以负担得起养老金和医保资金-submitted-on-2023-02-21-1608480800">2014: 中共倒台以后哪些省份可以负担得起养老金和医保资金？, submitted on 2023-02-21 16:08:48+08:00.</a></li>
+  <li><a href="#2015-本来想写一个关于中国教育弊病和改革的文章现在发现其实很多人都明白写过似乎并不需要我再费笔墨但是即便很多人明白体制也并不改变哪怕不触及政治只提高教育实用性他们也是不愿意改的-submitted-on-2023-02-21-1822040800" id="markdown-toc-2015-本来想写一个关于中国教育弊病和改革的文章现在发现其实很多人都明白写过似乎并不需要我再费笔墨但是即便很多人明白体制也并不改变哪怕不触及政治只提高教育实用性他们也是不愿意改的-submitted-on-2023-02-21-1822040800">2015: 本来想写一个关于中国教育弊病和改革的文章。现在发现其实很多人都明白、写过，似乎并不需要我再费笔墨。但是即便很多人明白，体制也并不改变。哪怕不触及政治，只提高教育实用性，他们也是不愿意改的, submitted on 2023-02-21 18:22:04+08:00.</a></li>
+  <li><a href="#2016-中國經濟數據在增長放緩之際越發難以獲取-submitted-on-2023-02-23-1042020800" id="markdown-toc-2016-中國經濟數據在增長放緩之際越發難以獲取-submitted-on-2023-02-23-1042020800">2016: 中國經濟數據在增長放緩之際越發難以獲取, submitted on 2023-02-23 10:42:02+08:00.</a></li>
+  <li><a href="#2017-如何改掉讨好型人格-submitted-on-2023-02-23-1308000800" id="markdown-toc-2017-如何改掉讨好型人格-submitted-on-2023-02-23-1308000800">2017: 如何改掉讨好型人格？, submitted on 2023-02-23 13:08:00+08:00.</a></li>
+  <li><a href="#2018-明报機構改革動作大-submitted-on-2023-02-25-1342320800" id="markdown-toc-2018-明报機構改革動作大-submitted-on-2023-02-25-1342320800">2018: 明报：機構改革動作大, submitted on 2023-02-25 13:42:32+08:00.</a></li>
+</ul>
+
+<h3 id="2011-如果有一个世界超级强国你希望是-submitted-on-2023-02-21-1248420800">2011: <a href="https://old.reddit.com/r/China_irl/comments/117urf9/如果有一个世界超级强国你希望是/">如果有一个世界超级强国，你希望是</a>, submitted on 2023-02-21 12:48:42+08:00.</h3>
+
+<p>—– <strong>2011.1</strong> —–2023-02-21 19:25:40+08:00:</p>
+
+<p>超级大国是一个世界的耦合器，承担超级大国意味着要用极高的开销比例去在全球范围内承担军事、政策的费用，并不意味着更好。</p>
+
+<p>因为美国国内也有意识到，如果减少对外开支，美国的市场与经济可以反过来促进国内更多公共政策的进步，美国3.3亿人口，在全球开销已经到了非常夸张的地步，承受大量无可避免的政治冲突，进而引发的恐怖袭击。</p>
+
+<p>任何一个国家其实有脑子，都应该避免去成为一个超级大国，因为一旦意识形态完全趋同，就很难有大规模开战的风险，军队除了必要部分外，比起外在的军事冲突，更应该关注国民的福祉与社会发展前景。</p>
+
+<p>政府存在的目的是更好管理社会，让授权者使用集体资源与利益的让渡，来达成社会进步、公平，而不是跟游戏里一样的填色游戏。</p>
+
+<p>通过商业行为带来的文化传播是当下和未来的主流，越发达的社会与商业，越能输出价值观与文化，当不需要过量军队的意识形态联盟天然达成后，意识形态本身就不是最重要的了。</p>
+
+<p>美国是一个多民族的移民国家，这是许多单一民族或者缺乏移民文化的国家难以比拟的，这样一个复杂的大熔炉，可以作为社会与意识形态演化的前沿阵地，而社会前沿除了先进，也往往伴随大量冲突和矛盾。</p>
+
+<p>因为经济、意识形态的最终趋同，我们只需要走在他们后面，他们踩石头，我们走稳路，确保十几亿人的生活质量，利用其他更先发达的国家经验来降低改革成本，是最有利于本国的方向。</p>
+
+<p>其他任何国家，都没有复杂民族社会背景与体量，可以说美国在这方面是第一个“现代国家”，诞生于反威权与互相妥协，基于先验的天然理性与后验的反馈，而世界上绝大部分历史悠久的国家，都是通过后验不断修正而来，民族成分也往往倾向单一。</p>
+
+<p>美国刚好处于一个人口不上不下的位置，没有太大以至于对内都无法维持（印度、中国），也不会太小体量不足维持庞大市场和全球对外维持秩序的军力（日本与其他五常）。</p>
+
+<p>作为人类社会演化的最前沿试验场，美国是非常合适的对象，能看到演化过程里很赤裸裸粗糙的一面，也能看到先进性与发达性，并不像较小型的发达国家那样精而美，也无单一民族发达国家的文化保留。</p>
+
+<p>如果日本被移民人口对冲掉失去原来的社会面貌，反而对很多人来讲可能是一种损失，庞大的主体人口也会引起反弹，而美国本身就是移民国家，全世界没有比这里更适合进行全球人口的融合了。</p>
+
+<p>打破成为超级大国=好的思维，我觉得可能还需要一定时间，一旦人们意识到有限的政府财政应该覆盖在国内，而不是负债投入到国外浪费掉（靠美军维持美元和美国经济这种说法不实不要再说了，懒得吐槽了），很快就会对各种财政预算进行审核，并且要求更多落实在公民身上。</p>
+
+<p>—– <strong>2011.2</strong> —–2023-02-23 05:12:14+08:00:</p>
+
+<p>全世界大部分国家如果从有没有其他民族来定义多民族国家，那许多国家都是多民族。</p>
+
+<p>而法国、俄罗斯、中国的多民族与美国的多民族社会是完全不同的概念，前者主体民族强势，且其他民族差异相对小，同化率高，少数民族更缺乏文化影响力。</p>
+
+<p>以我国为例，少数民族基本都被汉化，只作为习俗而不是一种有明确社会影响力的族裔群体存在，其中少数没有被高度汉化的，如疆藏地区民众，也是基于地理隔绝因素，汉化程度相对较低，但汉文化也有相当程度流行。</p>
+
+<p>美国即便是白人族群内，也分为多国家出身，意大利裔、德裔、爱尔兰裔出身都是比较明显的，其中意大利与爱尔兰裔出身的歧视，一直到二战后才逐渐消失，意大利裔的劳动收入在早期连黑人都不如。</p>
+
+<p>也就是一直到战后，伴随民权运动的兴起，黑人解放运动下才衬托了白人新教徒作为一个社会主体，但现在反过来看，其实是忽略了白人之间内部矛盾。</p>
+
+<p>甚至有洋基佬和南方人的对立，这显然不是白种新教徒们的内部矛盾，而是两个不同文化群体与族裔之间的冲突，只不过到后期淡化了出身，更多以在地文化的形式凸显出来，而天主教与新教和出身地的矛盾，这些都往往被人一笔带过，变成了因为他们是白人，所以他们是一个集体，就跟白人粗糙地看中日韩一样。</p>
+
+<p>因此从根源上就很难说美国有一个绝对的主体民族，因为白人在族裔、文化、语言、宗教上的差异，通常也不小，只是他们更早开始融合，而现代人没大多数没经历过当时的歧视和地域冲突。</p>
+
+<p>到了现代，黑人族群和墨西哥裔崛起已经成为事实，还有印度裔、亚裔也开始有更大的影响，如果WASP代表的美国传统保守群体，掌握社会主流，就无法解释当代美国政治正确和多元化的去全面崛起，某方面最原教旨主义的大概就是Amish了，但即便如此，甚至Amish里也分出了现代派和保守派，这一点也体现在语言的选用上。</p>
+
+<p>WASP早期引用所指的人群，他们的后代里的相当部分人，实际上也是美国现代多元化的白人支持者，尤其是一些家里有钱又受影响的反威权主义者，嬉皮士晕动就有不少人来自这样出身的传统家庭，到了现代各类平权运动的参与者，构成也依然非常相似。</p>
+
+<p>美国社会的单纯是超脱了族裔与文化以在地利益划分的单纯，复杂的是作为文化熔炉，所能体现出来的理性对立性，不能简单的地方偏要复杂化，复杂的地方一笔带过，这样有助于更好的去理解美国的存在，来映射出不同时期的经验，去处理国内问题。</p>
+
+<p>—– <strong>2011.3</strong> —–2023-02-23 15:14:06+08:00:</p>
+
+<p>欧裔白人是个先发群体，在这个群体当中还有大量的内部矛盾与歧视，只不过他们更早完成内部融合，再加上来自其他族裔的对比，让内部矛盾与区别显得没那么凸出而被淡化忽视了。</p>
+
+<p>比如前面提到的意大利裔与爱尔兰裔，其中新教徒与天主教徒还有很大的区别，包括社区上的，早期这些族裔之间甚至不通婚或使用同一种语言，南北方人的矛盾甚至延续到今天，后来在南方保守主义与经济发达地区的进步主义对比下，左右派的价值观矛盾在战后更是凸显。</p>
+
+<p>作为一个移民国家，以混血人口比例来计算文化熔炉与否并不严谨。</p>
+
+<p>美国不断涌入的外来人口是不会减少的，所以总会显得美国有一部分族裔没有融入其中，而隔阂之大的族群往往需要数代人才会从文化层面同化，黑人社区近三十年的融入，如果回头看六十年代或之前，他们的街头文化与边缘身份能登堂入室成为主流是很让人想不到的一件事。</p>
+
+<p>反而白人族裔生育数量下降，导致这些社会划分不能拿民权运动前后的观点一概而论，图方便去划线就跟美国对中日韩甚至越南在内的单调理解一样，尤其是当代被讽刺的政治正确，就是其他族群多元文化的体现，这是其他人口较少或移民相对较少的国家与社会没有的一个特点。</p>
+
+<h3 id="2012-2012年包子刚上位的时候你有没有期待包子是蒋经国式的独裁者他会用独裁结束独裁-submitted-on-2023-02-21-1356230800">2012: <a href="https://old.reddit.com/r/real_China_irl/comments/117w01e/2012年包子刚上位的时候你有没有期待包子是蒋经国式的独裁者他会用独裁结束独裁/">2012年包子刚上位的时候，你有没有期待包子是“蒋经国式的独裁者”；他会用独裁结束独裁。</a>, submitted on 2023-02-21 13:56:23+08:00.</h3>
+
+<p>—– <strong>2012.1</strong> —–2023-02-21 18:19:41+08:00:</p>
+
+<p>这种情况我思考过为什么，觉得是这个人进入他们视线才开始关注政治或者高层人士变动，也可以理解为认知上在当时仍然有普遍的分歧，相当多数人存有希望和改良主义心态。（但是考虑到胡温时期的状况，有也是正常的）</p>
+
+<p>现在大抵是完成政治生态的演化，大家都站好队了，不期望靠中共内部有什么改变来完成变革，就等该来的来了。</p>
+
+<p>政治生态演化，从过去的键政过瘾，到现在的看他楼塌就添砖加瓦盖坟，再到有余地动拳头。</p>
+
+<p>我觉得这种认知不止是反贼有，粉红也有了，大家都知道政治生态演化基本到末期，剩下的就是时间问题，中共财政还能支撑一些年头，维持表面的体面和稳定，是没斗起来的主要原因，换做早十几年，是很难想象到的（就好比2015年我已经在说经济危机问题，当时国内主流社区大部分人其实都不愿意相信）</p>
+
+<h3 id="2013-wsj-乌克兰的顽强抵抗促使中国如今更倾向于推动停火以防止俄罗斯进一步受挫-submitted-on-2023-02-21-1401060800">2013: <a href="https://old.reddit.com/r/China_irl/comments/117w34w/wsj_乌克兰的顽强抵抗促使中国如今更倾向于推动停火以防止俄罗斯进一步受挫/">WSJ: 乌克兰的顽强抵抗促使中国如今更倾向于推动停火，以防止俄罗斯进一步受挫。</a>, submitted on 2023-02-21 14:01:06+08:00.</h3>
+
+<p>—– <strong>2013.1</strong> —–2023-02-21 19:02:41+08:00:</p>
+
+<p>如果俄罗斯和乌克兰坚持不停火，或者俄罗斯想停火但骑虎难下，乌克兰不愿意接受白打失地接受现状，那中共只能嘴巴反对开战劝和，实际被迫加大投资，持续对俄罗斯进行输血，加深经济和资源的消耗。</p>
+
+<p>假设普京没有把土地问题抬得太高，仍然还有挽回余地，但是后来的政治操作直接让他很难有退路，这一点实际是绑死了中共，要么当下切割，要么持续投入押注，否则一旦普京失势，对俄罗斯的政治赌注全都会变成负资产，成为对中共未来的一个投影，更会让人心惶惶。</p>
+
+<p>俄罗斯目前僵持，作为一个公开话题被允许讨论，那俄罗斯战败或者普京这样的政治强人失势，哪怕只是吃瘪，国内又会投影到谁身上，不言而喻。</p>
+
+<p>—– <strong>2013.2</strong> —–2023-02-23 05:24:34+08:00:</p>
+
+<p>普京把矛盾和政治冲突升级到无路可退的做法，未必是吃死中国的决定，因为俄罗斯内部高层对这一系列错误操作都没有进行内部意见征求。</p>
+
+<p>中方虽然在靠拢，但仍然以反对战争的口吻留了退路，习梭哈更多是要避免政治身份上的投射，俄罗斯就算讨不到好处，普京要是不下台，战略盟友也依然存在，但是普京的政治威望被动摇，这种只存在于人心的冲击，在中国却是人人都在看着的。</p>
+
+<p>假设普京吃瘪结束战争，或者乌克兰边境长期糜烂，出于对自身政权、个人政治威望的考虑，习近平的角度都会想办法帮助普京，但这未必是普京考虑到的，也就是说普京不大可能像墨索里尼知道意大利战败会给纳粹德国与希特勒，带来同意识形态政权与领袖战败一样的冲击，更多是为了自己，而习近平理论上有这种考虑。</p>
+
+<h3 id="2014-中共倒台以后哪些省份可以负担得起养老金和医保资金-submitted-on-2023-02-21-1608480800">2014: <a href="https://old.reddit.com/r/real_China_irl/comments/117y5u2/中共倒台以后哪些省份可以负担得起养老金和医保资金/">中共倒台以后哪些省份可以负担得起养老金和医保资金？</a>, submitted on 2023-02-21 16:08:48+08:00.</h3>
+
+<p>—– <strong>2014.1</strong> —–2023-02-21 18:07:59+08:00:</p>
+
+<p>理论上没有，中共现在什么都抓的特别严，一旦崩了，社会很快就会进入一个无秩序的权力、财政双真空阶段。</p>
+
+<p>其实按省来算，不符合现在的财政分配模式，因为一个富省，可能大多数地方都是入不敷出，只有一两个核心城市有较高的稳定收入，最典型就是广东。</p>
+
+<p>平时是靠社会稳定带来的政治权威，以及财政优势实施行政压制，来让户籍制度的剪刀差得以保证，这两点一旦消失，不说房价暴跌的问题，知识型人口大概率是会想办法外迁，部分基层劳动人口会返乡迁出，但会有更多人口短期内迁入。</p>
+
+<p>到时候原来维持各地养老金与医保资金的剪刀差制度，会因为没有行政效力即时瓦解。</p>
+
+<p>没有户籍限制，人口会有大量的流动，包括迁入迁出。</p>
+
+<p>如果只是这样还好办，有钱还能缓冲一下，但中共基本把未来潜在已知的一切财政工具空间全部用的七七八八，而且大概率临下台前还要超负荷使用，比如土地财政、债务、货币政策等渠道。</p>
+
+<p>所以大概率中共倒台后，或者说他们不尽快在浪费掉未来所有财政潜力前倒台，大概率是用未来财政储备，死撑着不下台，下台了耗尽全国过去和未来前后数十年的财政空间。</p>
+
+<p>扔下一个历史上前所未有的烂摊子，然后六十年代到三十年代出生的人，大概率一辈子都要扔里面。</p>
+
+<p>尤其是九十年代到二十年代出生的人，刚好出于一个需要养老和医保资金的时候。</p>
+
+<p>其实即便是这样了，缓个几十年也是可以恢复的，但就像我上面说的，至少两三代人的一辈子都要处于一个极度痛苦的环境，应该没人想持续几十年公共服务几乎无增长吧？</p>
+
+<p>总体来讲我们一定要避免“双真空”同时出现，但更应该避免财政真空，这个真空期与债务问题，配合不好会把改革开放几十年来的发展都吐出来。</p>
+
+<p>日本完成了转型，才能维持生活水平，中国没完成转型原地遇到一样的结构性危机，到时候印度越南一旦追上来，面临的竞争、收入水平停滞、通胀会比预期更夸张，比起日本的停滞，更可能出现倒退。</p>
+
+<h3 id="2015-本来想写一个关于中国教育弊病和改革的文章现在发现其实很多人都明白写过似乎并不需要我再费笔墨但是即便很多人明白体制也并不改变哪怕不触及政治只提高教育实用性他们也是不愿意改的-submitted-on-2023-02-21-1822040800">2015: <a href="https://old.reddit.com/r/China_irl/comments/11807tp/本来想写一个关于中国教育弊病和改革的文章现在发现其实很多人都明白写过似乎并不需要我再费笔墨但是即便很/">本来想写一个关于中国教育弊病和改革的文章。现在发现其实很多人都明白、写过，似乎并不需要我再费笔墨。但是即便很多人明白，体制也并不改变。哪怕不触及政治，只提高教育实用性，他们也是不愿意改的</a>, submitted on 2023-02-21 18:22:04+08:00.</h3>
+
+<p>—– <strong>2015.1</strong> —–2023-02-21 18:43:27+08:00:</p>
+
+<p>教育问题大体的一些问题。</p>
+
+<p>比如学位通胀，但是产业上又掐自己脖子，导致卷来卷去进入更高层的产业无望，这种高学历就职压力进而向下压迫就业市场，无论是高学历还是低学历的都非常痛苦。</p>
+
+<p>九十年代到两千年初，大学生已经能找到不错的工作，现在研究生才行，然后慢慢还要名校才能达到近似待遇。</p>
+
+<p>就直接导致高学历低收入待遇，低学历连人都不算，既无中基层的职业教育体系，也缺乏高层产业升级吸收过量高等教育人才的问题，劳动待遇又给不上去，基层黑中介处理，中高层直接996。</p>
+
+<p>所以解决这种问题，一个是要解决无锚扩招的政策，二是要解决产业升级，三是横向建设职业教育体系。</p>
+
+<p>产业升级我们都知道，很多时候政府掐脖子问题就来了，对中小民企扶持力度不够，还跟垄断企业眉来眼去，在当下执政党手中，根本不存在彻底放开对企业限制，因为其政治生态本身就无法适应一个生产力水平更高的社会结构，他们只想发展好控制，以及能被控制的产业，控制不了就宁可压着不管也不会去碰，偏要抓紧这方面的话语权，比如版号。</p>
+
+<p>无锚扩招现象其实是最好解决的，你不能说停下扩招不让人读书，可是那么多人读书，不能走两个极端，也就是说不能要么基层一点书都读不了去当螺丝，也不能只有往死卷研究生和名校来获得有限的大厂就业机会，要柠檬化，不能沙漏化。</p>
+
+<p>那中间的关键点在哪？</p>
+
+<p>建立一个完整的职业教育体系啊，这样就可以疏导高等教育的压力，同时把中基层拉跨的学历-出路比例拽起来，形成一个健全的认证体系。</p>
+
+<p>现在国内职高就是毫无卵用的混日子，而这东西要执行，靠中央只能给一个全国性统一的框架，实际执行要靠地方自己出人出政策出财政，因为人培育好了，也大概了是支援当地劳动市场，不会有高等教育人才那么高的流动性。</p>
+
+<p>可到这里问题又出现在哪？地方政府出钱是不可能的了，出政策，中央政府能答应吗？所以说就是把末端微细血管的事，都要收集起来管，结果还管不好。</p>
+
+<p>对蓝领阶层的教育和认证体系建设，是非常重要的一件事，因为中国如果转型为一个发达国家，十几亿人口必然有大量的人是从农民转型为城市蓝领阶层，没有一种流通性强，对接便捷的体系，根本就无从谈起。</p>
+
+<p>国内基本搞得好像要么是读大学，还要去考研，要么就是毫无出路的一生，你参考现在的劳动待遇，基层劳动者那算人吗？那就是会说话的农具和工具。</p>
+
+<p>现在不是社会经济的发展上升期，各方面机会都在逐渐封闭，而内需消费社会还未建成，不能产生就业与经济需求去供养大量的蓝领阶层，也无法有效发挥他们的消费能力。</p>
+
+<p>我不去谈对共产党历史上一切的政治和原则性问题，只谈现在，把国家管理到这种程度，烂成这个样，还是请他们让贤吧，这么搞下去，是未来几代人都要遭殃。</p>
+
+<p>—– <strong>2015.2</strong> —–2023-02-21 19:38:31+08:00:</p>
+
+<p>他们是肯定没法也不愿意去改，能改自然早改，但不改问题会很大，所以只能请他们尽早下台了。</p>
+
+<h3 id="2016-中國經濟數據在增長放緩之際越發難以獲取-submitted-on-2023-02-23-1042020800">2016: <a href="https://old.reddit.com/r/China_irl/comments/119m4ko/中國經濟數據在增長放緩之際越發難以獲取/">中國經濟數據在增長放緩之際越發難以獲取</a>, submitted on 2023-02-23 10:42:02+08:00.</h3>
+
+<p>—– <strong>2016.1</strong> —–2023-02-23 15:23:06+08:00:</p>
+
+<p>如果外部视角认为难以获取数据，联系政府开始主动与国外一些金融相关产业脱钩，那么外部投资的乐观积极性就会下降，对仍然迫切需要外部投资的国内现有经济结构，是个不利好的消息。</p>
+
+<p>没有外部投资，单纯依靠内部投资，来源要么是民企或发债，而民企已经明显感受到危机，冒险意愿降低，政府发债只会进一步加速财政衰竭，希望这种数据获取的困难只是暂时性的。</p>
+
+<h3 id="2017-如何改掉讨好型人格-submitted-on-2023-02-23-1308000800">2017: <a href="https://old.reddit.com/r/real_China_irl/comments/119p6oc/如何改掉讨好型人格/">如何改掉讨好型人格？</a>, submitted on 2023-02-23 13:08:00+08:00.</h3>
+
+<p>—– <strong>2017.1</strong> —–2023-02-23 15:53:16+08:00:</p>
+
+<p>没有必要改掉，这就是你的一部分，强迫自己改只会摇摆不定更难受，你应该改进的是如何辨别哪些人是有自己观点与你有矛盾，遵守人与人交往的基本原则，又有哪些是利用你这种性格蹬鼻子上脸。</p>
+
+<h3 id="2018-明报機構改革動作大-submitted-on-2023-02-25-1342320800">2018: <a href="https://old.reddit.com/r/China_irl/comments/11bdapm/明报機構改革動作大/">明报：機構改革動作大</a>, submitted on 2023-02-25 13:42:32+08:00.</h3>
+
+<p>—– <strong>2018.1</strong> —–2023-02-25 19:58:48+08:00:</p>
+
+<p>如果消息属实，那其实就是一个内部维稳的终端。</p>
+
+<p>过去这些部门互相串联都很难，甚至地方跟地方都不互通，公安部门想要其他数据，不是什么说调用立刻就有，在内部联网下也要走很多路线，这方面晶哥冲业绩其实许多人被请喝茶都谈过了，能看出他们工作的逻辑大体是什么样的一个轮廓，也有例子是地方上被盯了，到出入环节官方信息没跟上，让人跑掉了的例子。</p>
+
+<p>总体来讲，通过去年年底社会运动，能看出来他们维稳系统比想的要效率低且职权分散，因此有必要建立一个终端系统可以高效率串联，当然就算没有，也会改革出来，毕竟维稳需求升级是大趋势，但社会运动显然刺激到了他们的求生欲。</p>
+
+<p>应该会革除过去地方维稳各自为政，地方非公安部门调用数据繁琐的问题。国安如果单独做这方面工作，职能扩散的就有些不必要显得太正式，覆盖全国偏民生项的工作，估计会交给这个部分，提高点对点维稳的效率（如果连户籍方向和民政部门的工作都要过问的话，吃喝拉撒估计都要精确打击了），顺便再加强一下对基层的管控能力，特别是疫情封控过后。</p>
+
+<p>另外把这种维稳机构从国务院的政府体系剥离，直接归于党务，其实是很危险的做法，因为过去中共执政，基本还是需要靠政府这个组织架构去执行的，搭配党委来建立一个平行的垂直体系。</p>
+
+<p>现在绕开了，不止是政府部门的数据直接被另一个党组织抽调与上缴，党员在内也要受该制度监视，而该部门行为逻辑却不受政府工作条例约束，只有党务原则，没有政府和公共法理原则，出问题了很难通过该体系去往更上册反馈。</p>
+
+<p>假设这个东西真的存在且落实，而且还跟历史上各类臭名昭著的“内务部门”有一样的职能，那真是离政权完蛋不远，这个东西一旦铺开了，最后没有不加速灭亡的。</p>
+
+<p>因为一你要花很多钱去建立一个新体系，然后扩充大量人手，以此绕开政府去更高效率的精准维稳与迅速反应，但是最后执行还是地方，就算你搞一个毕业高材生组件的维稳巡回小组，跟秦始皇一样到处巡游，就算弄一千多人全国按星期去处理地方数据，然后分拣哪些群情事件和政治问题人士。</p>
+
+<p>始终会有一个效率极限在，而社会管控靠的是寒蝉效应，否则根本没有资源点对点十几亿人口，有那么几个零头产生维稳压力，没几万人都分拣不出来，最后还要靠地方执行，地方执行还是需要钱的，越弄这些毫无生产力需求的部门，资金消耗就越快。</p>
+
+<p>靠这种部门长期精准抓维稳，原来的地方维稳体系就会怠惰松懈，等中央财政也绷不住了，当众脱出，恐怕执政生涯就要结束了罢。</p>
+
+<p>所以我想他们也清楚这点，会在近一两年内抓一些人，但首要是恢复经济，经济有点起色了，政府有底气说话了，他们才敢宣示政治上的控制权，抓典型来警告全国不许有反心继续老实服从，可能同步进行警告之余，强推一些利己但侵害社会整体利益的改革。</p>
+
+<p>所以这是好事，等不及版本更新了。</p>
+
+<p>—– <strong>2018.2</strong> —–2023-02-27 17:09:40+08:00:</p>
+
+<p>不太了解国内电信诈骗的事，这个只是直觉和经验判断。</p>
+
+<p>—– <strong>2018.3</strong> —–2023-02-28 07:29:09+08:00:</p>
+
+<p>目前实质性的方面还没太大进展，视乎乌克兰战争如何结束，如果按照乌克兰战争早期情况，各国可能会先观望台湾是否自己能挡住第一波攻击，有价值防御下去才会持续介入。</p>
+
+<p>台湾现在危机感比前两年有提高，但是还不够高，所以要看未来几年他们岛内对外危机的改革提升状况，25-27年刚好是一个大陆财政和对内政治生态过渡的窗口期，过了这个节点可能就会进一步恶化。</p>
+
+<p>不过在我看来，如果台湾自己守不住，欧洲甚至未必会参与制裁，美国介入意愿还不算十分明朗，台湾很多人还不把大陆入侵的潜在可能性提高当回事，25年反应如果还是这么松懈，状况会很不乐观，台湾社会很多人还对中共政权的认知停留在江胡到习近平早期。</p>
+
+<p>—– <strong>2018.4</strong> —–2023-03-01 16:33:35+08:00:</p>
+
+<p>江胡时期，威权收缩存在，但不明显，八十年代的自由化惯性强，胡温是胡赵一代人培育出来的学生，胡政治保守但作风相对传统保守派宽容，温在政治上更开明进步。</p>
+
+<p>江是投机主义者，并无既定价值观层面对自由化的敌对立场，且受教育水平高，对自由化产物有一定接纳性。</p>
+
+<p>虽然六四后政党对建立威权社会一直在推进，但经济发展也意味着民权与企业的经济权力扩张，加上人事背景，延缓了威权社会的成立。</p>
+
+<p>到习近平世代，意味着保守派试图培育红二三代接班的路线完成，技术官僚相对分散掌握权力的时代过去。</p>
+
+<p>习近平早期上台时，因为处于过渡期与权力斗争白热化阶段，无暇顾及其他方面，社会的管控最松散，既无胡温时期的微微收缩，也无后来也即今天的高度管控。</p>
+
+<p>这种相对宽和的社会风气与政府执政风格，配合财政与经济发展的上升期，政权没有明显的生存危机，不依赖也没有社会基础实行极端政策。</p>
+
+<p>而大陆的集权状况，从六四后到胡温时代对台湾人都是一贯印象，这种集权的负面印象，与经济发展带来的温和作风，会给台湾人一种习近平的集权与过去无异，而不在大陆生活又无法体会到大陆社会生态的细微渐变的误判。</p>
+
+<p>因此容易造成这种错觉，在台湾人看来，过去大陆的中共就是这么蛮不讲理和专制，现在习近平上台顶多是多了一些新闻。</p>
+
+<p>但实际情况是，习近平的上台与集权，对整个中国的社会与政治、经济生态都有很大的影响，并且也与过去时代不同，即便习近平个人不愿意，但客观上大陆的经济恶化，政府的财政安全性渐渐消失，为了延续自身政权生存，有可能做任何事来苟延残喘。</p>
+
+<p>觉得胡温时代与习近平时代区别不大，没有意识到政权本质从一定程度上的治理、发展，彻底变成了维系统治，就会错过捕捉危机征兆细节的机会。</p>
+
+<p>—– <strong>2018.5</strong> —–2023-03-02 10:02:58+08:00:</p>
+
+<p>江的政治投机者身份，与个人行为上的无关，而江也是有一定派系背景倾向的，他本身就是李先念陈云等保入中央的代理人，只是政治上邓陈自由化处理没分歧，所以放了江泽民的缺。</p>
+
+<p>邓南巡之前，江一直在放任党内左派在舆论上公开攻击改革开放，这些是他作为党总书记的直接管辖领域，以至于后来引出邓让朱镕基等以皇甫平的名义的舆论战，江的同期总理李鹏还到上海公开批评改革相关事宜，到最后甚至逼到邓南巡，要靠地方长官去给北京传话，但在赵紫阳时期，他却也知道如何落实地方工作，顺着中央意思走。</p>
+
+<p>因为本来江是没有可能入主中央的，所以在六四上位前，从大众观点去看他，就只是一个圆滑懂人情世故，有一定保守派立场但相对开明的技术官僚，到退休年纪准备去教书，一下子成为全国领导人，再到九七年后能牵制他的元老大部分去世。</p>
+
+<p>所以可以说江的闷声发大财，是对这些年收益的总结，看江的政策，大部分都是延续胡赵时期对邓经济改革有利的，六四后对保守派政治制度有利的工作，实际上就是萧规曹随，个人并无长远的具体大方向，因为他本来已经打算退休了。</p>
+
+<p>他自己不多管经济，有事都交给相对职务的人处理，不像后来习近平一样什么都要干涉亲自领导，技术官僚的建制化就体现在这。</p>
+
+<p>无论往前的胡赵、邓陈，还是同期的李瑞环、朱镕基、李鹏、乔石等等，再到后面的胡温，其实都是夹着他往前走，不走不行，包括许多人认为江时代相对开放开明，除了江本身干预失败后，个人对这些指标要求没习近平高，导致有一种反差，再有就是延续了胡赵时期的自由化风气，这一点是很多开放开明的好感来源。</p>
+
+<p>六四后陈云李先念作为他最大的靠山，一度试图通过江去干预改革开放，最后引发了党内“姓资姓社”。</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2023-03-03</time>
+        <a href="https://nodebe4.github.io/opinion/2023-03-03/Spinkcat/">
+          Spinkcat在2023-02-27~2023-03-05的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-02-26</time>
+        <a href="https://nodebe4.github.io/opinion/2023-02-26/theoryofdoom/">
+          theoryofdoom在2023-02-20~2023-02-26的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-02-24</time>
+        <a href="https://nodebe4.github.io/opinion/2023-02-24/ForeignAffairsMag/">
+          ForeignAffairsMag在2023-02-20~2023-02-26的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-02-23</time>
+        <a href="https://nodebe4.github.io/opinion/2023-02-23/EnclavedMicrostate/">
+          EnclavedMicrostate在2023-02-20~2023-02-26的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2023-02-24/%E7%B6%93%E5%85%B8%E9%87%8D%E6%BA%AB-%E6%9D%8E%E8%82%85%E6%8C%91%E6%88%B0%E5%91%A8%E5%AD%9D%E6%AD%A3-%E4%B8%AD%E5%9C%8B%E4%BA%BA%E6%B0%91%E8%A9%B2%E5%B0%8D%E5%85%B1%E7%94%A2%E9%BB%A8%E6%84%9F%E6%81%A9%E6%88%B4%E5%BE%B7%E5%97%8E/">
+            前一篇：🌟【經典重溫】李肅挑戰周孝正：中國人民該對共產黨感恩戴德嗎？
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2023-02-26/HeQinglian/">
+            後一篇：Twitter @He Qinglian: 2023-02-20~2023-02-26
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2023-02-24/%E7%B6%93%E5%85%B8%E9%87%8D%E6%BA%AB-%E6%9D%8E%E8%82%85%E6%8C%91%E6%88%B0%E5%91%A8%E5%AD%9D%E6%AD%A3-%E4%B8%AD%E5%9C%8B%E4%BA%BA%E6%B0%91%E8%A9%B2%E5%B0%8D%E5%85%B1%E7%94%A2%E9%BB%A8%E6%84%9F%E6%81%A9%E6%88%B4%E5%BE%B7%E5%97%8E/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2023-02-26/HeQinglian/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2023-02-26/theoryofdoom/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2023-02-24/ForeignAffairsMag/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2023-02-24/%E7%B6%93%E5%85%B8%E9%87%8D%E6%BA%AB-%E6%9D%8E%E8%82%85%E6%8C%91%E6%88%B0%E5%91%A8%E5%AD%9D%E6%AD%A3-%E4%B8%AD%E5%9C%8B%E4%BA%BA%E6%B0%91%E8%A9%B2%E5%B0%8D%E5%85%B1%E7%94%A2%E9%BB%A8%E6%84%9F%E6%81%A9%E6%88%B4%E5%BE%B7%E5%97%8E/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2023-02-26/HeQinglian/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2023-02-26/theoryofdoom/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2023-02-24/ForeignAffairsMag/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

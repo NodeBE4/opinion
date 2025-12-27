@@ -1,0 +1,3033 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Intel’s Death and Potential Revival – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+Intel’s Death and Potential Revival
+——
+" />
+    <meta property="og:description" content="
+Intel’s Death and Potential Revival
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Intel’s Death and Potential Revival" />
+    <meta property="twitter:title" content="Intel’s Death and Potential Revival" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2024%2Fintels-death-and-potential-revival%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2024/intels-death-and-potential-revival/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2024/intels-death-and-potential-revival/&text=Intel’s Death and Potential Revival&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2024/intels-death-and-potential-revival/&title=Intel’s Death and Potential Revival" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2024/intels-death-and-potential-revival/&title=Intel’s Death and Potential Revival" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Intel’s Death and Potential Revival&body=
+Intel’s Death and Potential Revival
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2024/intels-death-and-potential-revival/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2024/intels-death-and-potential-revival/&title=Intel’s Death and Potential Revival&caption=
+Intel’s Death and Potential Revival
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Intel’s Death and Potential Revival&url=https://stratechery.com/2024/intels-death-and-potential-revival/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Intel’s Death and Potential Revival</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2024-12-09
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2024/intels-death-and-potential-revival/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1733749141000-->
+<p><a href="https://stratechery.com/2024/intels-death-and-potential-revival/">Intel’s Death and Potential Revival</a>
+——</p>
+
+<div>
+  <p>In 1980 IBM, under pressure from its customers to provide computers for personal use, not just mainframes, set out to create the IBM PC; given the project’s low internal priority but high external demand they decided to outsource two critical components: Microsoft would provide the DOS operating system, which would run on the Intel 8088 processor.</p>
+  <p><img data-recalc-dims="1" fetchpriority="high" decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/12/intel-death-1.png?resize=640%2C465&#038;ssl=1" alt="The original IBM PC" width="640" height="465" class="aligncenter size-full wp-image-14015" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/12/intel-death-1.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/12/intel-death-1.png?resize=300%2C218&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/12/intel-death-1.png?resize=1024%2C743&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/12/intel-death-1.png?resize=768%2C557&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/12/intel-death-1.png?resize=868%2C630&amp;ssl=1 868w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+  <p>Those two deals would shape the computing industry for the following 27 years. Given that the point of the personal computer was <a href="https://stratechery.com/2024/the-gen-ai-bridge-to-the-future/">to run applications</a>, the operating system that provided the APIs for those applications would have unassailable lock-in, leading to Microsoft’s dominance with first DOS and then Windows, which was backwards compatible.</p>
+  <p>The 8088 processor, meanwhile, was a low-cost variant of the 8086 processor; up to that point most new processors came with their own instruction set, but the 8088 and 8086 used the same instruction set, which became the foundation of Intel processors going forward. That meant that the 286 and 386 processors that followed were backwards compatible with the 8088 in the IBM PC; in other words, Intel, too, had lock-in, and not just with MS-DOS: while the majority of applications leveraged operating system-provided APIs, it was much more common at that point in computing history to leverage lower level APIs, including calling on the processor instruction set directly. This was particularly pertinent for things like drivers, which powered all of the various peripherals a PC required.</p>
+  <h3 id="intels-cisc-moat">Intel’s CISC Moat</h3>
+  <p>The 8086 processor that undergirded the x86 instruction set was introduced in 1978, when memory was limited, expensive, and slow; that’s why the x86 used Complex Instruction Set Computing (CISC), which combined multiple steps into a single instruction. The price of this complexity was the necessity of microcode, dedicated logic that translated CISC instructions into its component steps so they could actually be executed.</p>
+  <p>The same year that IBM cut those deals, however, was the year that David Patterson and a team at Berkeley started work on what became known as the RISC-1 processor, which took an entirely different approach: Reduced Instruction Set Computing (RISC) replaced the microcode-focused transistors with registers, i.e. memory that operated at the same speed as the processor itself, and filled them with simple instructions that corresponded directly to transistor functionality. This would, in theory, allow for faster computing with the same number of transistors, but memory access was still expensive and more likely to be invoked given the greater number of instructions necessary to do anything, and programs and compilers needed to be completely reworked to take advantage of the new approach.</p>
+  <p>Intel, more than anyone, realized that this would be manageable in the long run. “Moore’s Law”, the observation that the number of transistors in an integrated circuit doubles every two years, was coined by Gordon Moore, their co-founder and second CEO; the implication for instruction sets was that increased software complexity and slow hardware would be solved through ever faster chips, and those chips could get even faster if they were simplified RISC designs. That is why most of the company wanted, in the mid-1980s, to abandon x86 and its CISC instruction set for RISC.</p>
+  <p>There was one man, however, who interpreted the Moore’s Law implications differently, and that was Pat Gelsinger; he led the development of the 486 processor and was adamant that Intel stick with CISC, as he explained in <a href="https://www.youtube.com/watch?v=JTKkY2kZuEw">an oral history</a> at <a href="https://archive.computerhistory.org/resources/access/text/2019/06/102781029-05-01-acc.pdf">the Computer Museum</a>:</p>
+  <div align="center">
+    <div id="v-k9yIgNfM-1" class="video-player">
+      <video id="v-k9yIgNfM-1-video" width="640" height="360" poster="https://videos.files.wordpress.com/k9yIgNfM/gelsinger-risc-cisc_mp4_hd.original.jpg" controls="true" preload="metadata" dir="ltr" lang="en"><div>
+<img data-recalc-dims="1" decoding="async" alt="" src="https://videos.files.wordpress.com/k9yIgNfM/gelsinger-risc-cisc_mp4_hd.original.jpg?resize=640%2C360" width="640" height="360" />
+        </div></video>
+    </div>
+  </div>
+  <blockquote>
+    <p><strong>Gelsinger:</strong> We had a mutual friend that found out that we had Mr. CISC working as a student of Mr. RISC, the commercial versus the university, the old versus the new, teacher versus student. We had public debates of John and Pat. And Bear Stearns had a big investor conference, a couple thousand people in the audience, and there was a public debate of RISC versus CISC at the time, of John versus Pat.</p>
+    <p>And I start laying out the dogma of instruction set compatibility, architectural coherence, how software always becomes the determinant of any computer architecture being developed. “Software follows instruction set. Instruction set follows Moore’s Law. And unless you’re 10X better and John, you’re not 10X better, you’re lucky if you’re 2X better, Moore’s Law will just swamp you over time because architectural compatibility becomes so dominant in the adoption of any new computer platform.” And this is when x86– there was no server x86. There’s no clouds at this point in time. And John and I got into this big public debate and it was so popular.</p>
+    <p><strong>Brock:</strong> So the claim wasn’t that the CISC could beat the RISC or keep up to what exactly but the other overwhelming factors would make it the winner in the end.</p>
+    <p><strong>Gelsinger:</strong> Exactly. The argument was based on three fundamental tenets. One is that the gap was dramatically overstated and it wasn’t an asymptotic gap. There was a complexity gap associated with it but you’re going to make it leap up and that the CISC architecture could continue to benefit from Moore’s Law. And that Moore’s Law would continue to carry that forward based on simple ones, number of transistors to attack the CISC problems, frequency of transistors. You’ve got performance for free. And if that gap was in a reasonable frame, you know, if it’s less than 2x, hey, in a Moore’s Law’s term that’s less than a process generation. And the process generation is two years long. So how long does it take you to develop new software, porting operating systems, creating optimized compilers? If it’s less than five years you’re doing extraordinary in building new software systems. So if that gap is less than five years I’m going to crush you John because you cannot possibly establish a new architectural framework for which I’m not going to beat you just based on Moore’s Law, and the natural aggregation of the computer architecture benefits that I can bring in a compatible machine. And, of course, I was right and he was wrong.</p>
+  </blockquote>
+  <p>Intel would, over time, create more RISC-like processors, switching out microcode for micro-ops processing units that dynamically generated RISC-like instructions from CISC-based software that maintained backwards compatibility; Gelsinger was right that no one wanted to take the time to rewrite all of the software that assumed an x86 instruction set when Intel processors were getting faster all of the time, and far out-pacing RISC alternatives thanks to Intel’s manufacturing prowess.</p>
+  <p>That, though, turned out to be Intel’s soft underbelly; while the late Intel CEO Paul Ottelini claimed that <a href="http://www.theatlantic.com/technology/archive/2013/05/paul-otellinis-intel-can-the-company-that-built-the-future-survive-it/275825/">he turned down the iPhone processor contract</a> because of price, Tony Fadell, who led the creation of the iPod and iPhone hardware, told me in <a href="https://stratechery.com/2022/an-interview-with-father-of-the-ipod-tony-fadell/">a Stratechery Interview</a> that the real issue was Intel’s obsession with performance and neglect of efficiency.</p>
+  <blockquote>
+    <p>The new dimension that always came in with embedded computing was always the power element, because on battery-operated devices, you have to rethink how you do your interrupt structures, how you do your networking, how you do your memory. You have to think about so many other parameters when you think about power and doing enough processing effectively, while having long battery life. So everything for me was about long, long battery life and why do we do what we do? David Tupman was on the team, the iPod team with me, he would always say every nanocoulomb was sacred, and we would go after that and say, “Okay, where’s that next coulomb? Where are we going to go after it?” And so when you take that microscopic view of what you’re building, you look at the world very differently.</p>
+    <p>For me, when it came to Intel at the time, back in the mid-2000s, they were always about, “Well, we’ll just repackage what we have on the desktop for the laptop and then we’ll repackage that again for embedding.” It reminded me of Windows saying, “I’m going to do Windows and then I’m going to do Windows Mobile and I’m going to do Windows embedded.” It was using those same cores and kernels and trying to slim them down.</p>
+    <p>I was always going, “Look, do you see how the iPhone was created? It started with the guts of the iPod, and we grew up from very little computing, and very little space, and we grew into an iPhone, and added more layers to it.” But we weren’t taking something big and shrinking it down. We were starting from the bottom up and yeah, we were taking Mac OS and shrinking it down, but we were significantly shrinking it down. Most people don’t want to take those real hard cuts to everything because they’re too worried about compatibility. Whereas if you’re just taking pieces and not worrying about compatibility, it’s a very different way of thinking about how building and designing products happens.</p>
+  </blockquote>
+  <p>This is why I was so specific with that “27 year” reference above; Apple’s 2007 launch of the iPhone marked the end of both Microsoft and Intel’s dominance, and for the same reason. The shift to efficiency as the top priority meant that you needed to rewrite <em>everything</em>; that, by extension, meant that Microsoft’s API and Intel’s x86 instruction set were no longer moats but millstones. On the operating side Apple stripped macOS to the bones and rebuilt it for efficiency; that became iOS, and the new foundation for apps; on the processor side Apple used processors based on the ARM instruction set, which was RISC from the beginning. Yes, that meant a lot of things had to be rewritten, but here the rewriting wasn’t happening by choice, but by necessity.</p>
+  <p>This leads, as I remarked to Fadell in that interview, to a rather sympathetic interpretation of Microsoft and Intel’s failure to capture the mobile market; neither company had a chance. They were too invested in the dominant paradigm at the time, and thus unable to start from scratch; by the time they realized their mistake, Apple, Android, and ARM had already won.</p>
+  <h3 id="intels-missed-opportunity">Intel’s Missed Opportunity</h3>
+  <p>It was their respective response to missing mobile that saved Microsoft, and doomed Intel. For the first seven years of the iPhone both companies refused to accept their failure, and tried desperately to leverage what they viewed as their unassailable advantages: Microsoft declined to put its productivity applications on iOS or Android, trying to get customers to adopt Windows Mobile, while Intel tried to bring its manufacturing prowess to bear to build processors that were sufficiently efficient while still being x86 compatible.</p>
+  <p>It was in 2014 that their paths diverged: Microsoft named Satya Nadella its new CEO, and his <a href="https://stratechery.com/2014/microsofts-mobile-muddle/">first public decision</a> was to launch Office on iPad. This was a declaration of purpose: Microsoft would <a href="https://stratechery.com/2018/the-end-of-windows/">no longer be defined by Windows</a>, and would instead focus on Azure and the cloud; no, that didn’t have the software lock-in of Windows — particularly since a key Azure decision was shifting from Windows servers to Linux — but it was <a href="https://stratechery.com/2017/microsofts-monopoly-hangover/">a business that met Microsoft’s customers where they were</a>, and gave the company a route to participating in the massive business opportunities enabled by mobile (given that most apps are in fact cloud services), and eventually, AI.</p>
+  <p>The equivalent choice for Intel would have been to start manufacturing ARM chips for 3rd parties, i.e. becoming a foundry instead of an integrated device manufacturer (IDM); <a href="https://stratechery.com/2013/the-intel-opportunity/">I wrote that they should do exactly that in 2013</a>:</p>
+  <blockquote>
+    <p>It is manufacturing capability, on the other hand, that is increasingly rare, and thus, increasingly valuable. In fact, today there are only four major foundries: Samsung, GlobalFoundries, Taiwan Semiconductor Manufacturing Company, and Intel. Only four companies have the capacity to build the chips that are in every mobile device today, and in everything tomorrow.</p>
+    <p>Massive demand, limited suppliers, huge barriers to entry. It’s a good time to be a manufacturing company. It is, potentially, a good time to be Intel. After all, of those four companies, the most advanced, by a significant margin, is Intel. The only problem is that Intel sees themselves as a design company, come hell or high water.</p>
+  </blockquote>
+  <p>Making chips for other companies would have required an overhaul of Intel’s culture and processes for the sake of what was then a significantly lower margin opportunity; Intel wasn’t interested, and proceeded to make a ton of money building server chips for the cloud.</p>
+  <p>In fact, though, the company was already fatally wounded. Mobile meant volume, and as the cost of new processes skyrocketed, the need for volume to leverage those costs skyrocketed as well. It was TSMC that met the moment, with Apple’s assistance: the iPhone maker would buy out the first year of every new process advancement, giving TSMC the confidence to invest, and eventually surpass Intel. That, in turn, benefited AMD, Intel’s long-time rival which now fabbed its chips at TSMC, which not only had better processor designs but, for the first time, had a better process, leading to huge gains in the data center. All of that low-level work on ARM, meanwhile, helped make ARM in PCS and in the datacenter viable, putting further pressure on Intel’s core markets.</p>
+  <p>AI was the final blow: not only did Intel not have a competitive product, it also did not have a foundry through which it could have benefitted from the exploding demand for AI chips; making matters worse is the fact that data center spending on GPUs is coming at the expense of traditional server chips, Intel’s core market.</p>
+  <h3 id="intels-death">Intel’s Death</h3>
+  <p>The fundamental flaw with Pat Gelsinger’s 2020 return to Intel and his <a href="https://stratechery.com/2021/intel-unleashed-gelsinger-on-intel-idm-2-0/">IDM 2.0 plan</a> is that it was a decade too late. Gelsinger’s plan was to become a foundry, with Intel as its first-best customer. The former was the way to participate in mobile and AI and gain the volume necessary to push technology forward, which Intel has always done better than anyone else (EUV was the exception to the rule that Intel invents and introduces every new advance in processor technology); the latter was the way to fund the foundry and give it guaranteed volume.</p>
+  <p>Again, this is <em>exactly</em> what Intel should have done a decade ago, while TSMC was still in their rear-view mirror in terms of processing technology, and when its products were still dominant in PCs and the data center. By the time Gelsinger came on board, though, it was already too late: Intel’s process was behind, its product market share was threatened on all of the fronts noted above, and high-performance ARM processors had been built by TSMC for years (which meant a big advantage in terms of pre-existing IP, design software, etc.). Intel brought nothing to the table as a foundry other than being a potential second source to TSMC, which, to make matters worse, has dramatically increased its investment in leading edge nodes to absorb that skyrocketing demand. Intel’s products, meanwhile, are either non-competitive (because they are made by Intel) or not-very-profitable (because they are made by TSMC), which means that Intel is simply running out of cash.</p>
+  <p>Given this, you can make the case that Gelsinger was never the right person for the job; shortly after he took over I wrote in <a href="https://stratechery.com/2021/intel-problems/">Intel Problems</a> that the company needed to be split up, but he told me in a <a href="https://stratechery.com/2022/an-interview-with-intel-ceo-pat-gelsinger/">2022 Stratechery Interview</a> that he — and the board — weren’t interested in that:</p>
+  <blockquote>
+    <p><strong>So last week, AMD briefly passed Intel in market value, and I think Nvidia did a while ago, and neither of these companies build their own chips. It’s kind of like an inverse of the Jerry Sanders quote about “Real men have fabs!” When you were contemplating your strategy for Intel as you came back, how much consideration was there about going the same path, becoming a fabless company and leaning into your design?</strong></p>
+    <p><strong>PG:</strong> Let me give maybe three different answers to that question, and these become more intellectual as we go along. The first one was I wrote a strategy document for the board of directors and I said if you want to split the company in two, then you should hire a PE kind of guy to go do that, not me. My strategy is what’s become IDM 2.0 and I described it. So if you’re hiring me, that’s the strategy and 100% of the board asked me to be the CEO and supported the strategy I laid out, of which this is one of the pieces. So the first thing was all of that discussion happened before I took the job as the CEO, so there was no debate, no contemplation, et cetera, this is it.</p>
+  </blockquote>
+  <p>Fast forward to last week, and the Intel board — which is <a href="https://www.fabricatedknowledge.com/p/the-death-of-intel-when-boards-fail">a long-running disaster</a> — is no longer on board, <a href="https://stratechery.com/2024/gelsinger-out-at-intel-what-happened-ten-years-too-late/">firing Gelsinger in the process</a>. And, to be honest, <a href="https://stratechery.com/2024/intel-honesty/">I noted a couple of months ago</a> that Gelsinger’s plan probably wasn’t going to work without a split and a massive cash infusion from the U.S. government, far in excess of the CHIPS Act.</p>
+  <p>That, though, doesn’t let the board off the hook: not only are they abandoning a plan they supported, their ideas for moving Intel forward are fundamentally wrong. Chairman Frank Yeary, who has inexplicable been promoted despite being present for the entirety of the Intel disaster, said in <a href="https://stratechery.com/2024/gelsinger-out-at-intel-what-happened-ten-years-too-late/">Intel’s press release about Gelsinger’s departure</a>:</p>
+  <blockquote>
+    <p>While we have made significant progress in regaining manufacturing competitiveness and building the capabilities to be a world-class foundry, we know that we have much more work to do at the company and are committed to restoring investor confidence. As a board, we know first and foremost that we must put our product group at the center of all we do. Our customers demand this from us, and we will deliver for them. With MJ’s permanent elevation to CEO of Intel Products along with her interim co-CEO role of Intel, we are ensuring the product group will have the resources needed to deliver for our customers. Ultimately, returning to process leadership is central to product leadership, and we will remain focused on that mission while driving greater efficiency and improved profitability.</p>
+  </blockquote>
+  <p><a href="https://semianalysis.com/2024/12/09/intel-on-the-brink-of-death/">Intel’s products are irrelevant to the future</a>; that’s the fundamental foundry problem. If x86 still mattered, then Intel would be making enough money to fund its foundry efforts. Moreover, prospective Intel customers are wary that Intel — as it always has — will favor itself at the expense of its customers; the board is saying that is exactly what they want to do.</p>
+  <p>In fact, it is Intel’s manufacturing that must be saved. This is a business that yes, needs billions upon billions of dollars in funding, but it not only has a market as a TSMC competitor, but also the potential to lead that market in the long run. Moreover, Intel foundry existing is critical to national security: currently the U.S. is completely dependent on TSMC and Taiwan and <a href="https://stratechery.com/2020/chips-and-geopolitics/">all of the geopolitical risk that entails</a>. That means it will fall on the U.S. government to figure out a solution.</p>
+  <h3 id="saving-intel">Saving Intel</h3>
+  <p>Last month, in <a href="https://stratechery.com/2024/a-chance-to-build/">A Chance to Build</a>, I explained how tech has modularized itself over the decades, with hardware — including semiconductor fabrication — largely being outsourced to Asia, while software is developed in the U.S. The economic forces undergirding this modularization, including the path dependency from the past sixty years, will be difficult to overcome, even with tariffs.</p>
+  <blockquote>
+    <p>Apple could not only not manufacture an iPhone in the U.S. because of cost, it also can’t do so because of capability; that capability is downstream of an ecosystem that has developed in Asia and a long learning curve that China has traveled and that the U.S. has abandoned. Ultimately, though, the benefit to Apple has been profound: the company has the best supply chain in the world, centered in China, that gives it the capability to build computers on an unimaginable scale with maximum quality for not that much money at all. This benefit has extended to every tech company, whether they make their own hardware or not. Software has to run on something, whether that be servers or computers or phones; hardware is software’s most essential complement.</p>
+  </blockquote>
+  <p>The inverse may be the key to American manufacturing: software as hardware’s grantor of viability through integration. This is what Tesla did: the company is deeply integrated from software down through components, and builds vehicles in California (of course it has an even greater advantage with its China factory).</p>
+  <p>This is also what made Intel profitable for so long: the company’s lock-in was predicated on software, which allowed for massive profit margins that funded all of that innovation and leading edge processes in America, even as every other part of the hardware value chain went abroad. And, by extension, the reason why a product focus is a dead end for the company is because nothing is preserving x86 other than the status quo.</p>
+  <p>It follows, then, that if the U.S. wants to make Intel viable, it ideally will not just give out money, but also a point of integration. To that end, consider this report from <a href="https://www.reuters.com/technology/artificial-intelligence/us-government-commission-pushes-manhattan-project-style-ai-initiative-2024-11-19/">Reuters</a>:</p>
+  <blockquote>
+    <p>A U.S. congressional commission on Tuesday proposed a Manhattan Project-style initiative to fund the development of AI systems that will be as smart or smarter than humans, amid intensifying competition with China over advanced technologies. The bipartisan U.S.-China Economic and Security Review Commission stressed that public-private partnerships are key in advancing artificial general intelligence, but did not give any specific investment strategies as it released its annual report.</p>
+  </blockquote>
+  <p>To quote <a href="https://www.uscc.gov/sites/default/files/2024-11/2024_Comprehensive_List_of_Recommendations.pdf">the report’s recommendation directly</a>:</p>
+  <blockquote>
+    <p>The Commission recommends:</p>
+    <ol>
+      <li>Congress establish and fund a Manhattan Project-like program dedicated to racing to and acquiring an Artificial General Intelligence (AGI) capability. AGI is generally defined as systems that are as good as or better than human capabilities across all cognitive domains and would surpass the sharpest human minds at every task. Among the specific actions the Commission<br /> recommends for Congress:</li>
+    </ol>
+    <ul>
+      <li>Provide broad multiyear contracting authority to the executive branch and associated funding for leading artificial intelligence, cloud, and data center companies and others to advance the stated policy at a pace and scale consistent with the goal of U.S. AGI leadership; and</li>
+      <li>Direct the U.S. secretary of defense to provide a Defense Priorities and Allocations System “DX Rating” to items in the artificial intelligence ecosystem to ensure this project receives national priority.</li>
+    </ul>
+  </blockquote>
+  <p>The problem with this proposal is that spending the money via “public-private partnerships” will simply lock-in the current paradigm; I explained in <a href="https://stratechery.com/2024/a-chance-to-build/">A Chance to Build</a>:</p>
+  <blockquote>
+    <p>Software runs on hardware, and here Asia dominates. Consider AI:</p>
+    <ul>
+      <li>Chip design, a zero marginal cost activity, is done by Nvidia, a Silicon Valley company.</li>
+      <li>Chip manufacturing, a minimal marginal cost activity that requires massive amounts of tacit knowledge gained through experience, is done by TSMC, a Taiwanese company.</li>
+      <li>An AI system contains multiple components beyond the chip, many if not most of which are manufactured in China, or other countries in Asia.</li>
+      <li>Final assembly generally happens outside of China due to U.S. export controls; Foxconn, for example, assembles many of its systems in Mexico.</li>
+      <li>AI is deployed mostly by U.S. companies, and the vast majority of application development is done by tech companies and startups, primarily in Silicon Valley.</li>
+    </ul>
+    <p>The fact that the U.S. is the bread in the AI sandwich is no accident: those are the parts of the value chain where marginal cost is non-existent and where the software talent has the highest leverage. Similarly, it’s no accident that the highest value add in terms of hardware happens in Asia, where expertise has been developing for fifty years. The easiest — and by extension, most low-value — aspect is assembly, which can happen anywhere labor is cheap.</p>
+  </blockquote>
+  <p>Given this, if the U.S. is serious about AGI, then the true Manhattan Project — doing something that will be very expensive and not necessarily economically rational — is filling in the middle of the sandwich. Saving Intel, in other words.</p>
+  <p>Start with the fact that we know that leading AI model companies are interested in dedicated chips; OpenAI is reportedly <a href="https://www.reuters.com/technology/artificial-intelligence/openai-builds-first-chip-with-broadcom-tsmc-scales-back-foundry-ambition-2024-10-29/">working on its own chip with Broadcom</a>, after flirting with the idea of building its own fabs. The latter isn’t viable for a software company in a world where TSMC exists, but it is for the U.S. government if it’s serious about domestic capabilities continuing to exist. The same story applies to Google, Amazon, Microsoft, and Meta.</p>
+  <p>To that end, the U.S. government could fund an independent Intel foundry — spin out the product group along with the clueless board to Broadcom or Qualcomm or private equity — and provide price support for model builders to design and buy their chips there. Or, if the U.S. government wanted to build the whole sandwich, it could directly fund model builders — including one developed in-house — and dictate that they not just use but deeply integrate with Intel-fabricated integrated chips (it’s not out of the question that a fully integrated stack might actually be the optimal route to AGI).</p>
+  <p>It would, to be sure, be a challenge to keep such an effort out of the clutches of the federal bureaucracy and <a href="https://stratechery.com/2024/an-interview-with-gregory-allen-about-transforming-u-s-defense/">the dysfunction that has befallen the U.S. defense industry</a>. It would be essential to give this effort the level of independence and freedom that the original Manhattan Project had, with compensation packages to match; perhaps this would be a better use of Elon Musk’s time — himself another model builder — than DOGE?</p>
+  <p>This could certainly be bearish for Nvidia, at least in the long run. Nvidia is a top priority for TSMC, and almost certainly has no interest in going anywhere else; that’s also why it would be self-defeating for a U.S. “Manhattan Project” to simply fund the status quo, which is Nvidia chips manufactured in Taiwan. Competition is ok, though; the point isn’t to kill TSMC, but to stand up a truly domestic alternative (i.e. not just a fraction of non-leading edge capacity in Arizona). Nvidia for its part <a href="https://stratechery.com/2024/an-interview-with-tae-kim-about-jensen-huang-and-the-nvidia-way/">deserves all of the success it is enjoying</a>, but government-funded alternatives would ultimately manifest for consumers and businesses as lower prices for intelligence.</p>
+  <p>This is all pretty fuzzy, to be clear. What does exist, however, is a need — domestically sourced and controlled AI, which must include chips — and a company, in Intel, that is best placed to meet that need, even as it needs a rescue. Intel lost its reason to exist, even as the U.S. needs it to exist more than ever; AI is the potential integration point to solve both problems at the same time.</p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2024-12-18</time>
+        <a href="https://nodebe4.github.io/opinion/2024-12-18/Rapidus,-The-End-of-Economic-Rationality,-AI-Disru/">
+          Rapidus, The End of Economic Rationality, AI Disruption
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-12-17</time>
+        <a href="https://nodebe4.github.io/opinion/2024-12-17/Google-Announces-Veo-2,-The-Empire-Strikes-Back,-F/">
+          Google Announces Veo 2, The Empire Strikes Back, Free ChatGPT Search
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-12-02</time>
+        <a href="https://nodebe4.github.io/opinion/2024-12-02/The-Gen-AI-Bridge-to-the-Future/">
+          The Gen AI Bridge to the Future
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-11-18</time>
+        <a href="https://nodebe4.github.io/opinion/2024-11-18/A-Chance-to-Build/">
+          A Chance to Build
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2024-12-09/836-%E5%A5%B3%E6%80%A7%E4%B8%BB%E7%BE%A9%E7%9A%84%E7%B7%A3%E8%B5%B7%E8%88%87%E7%99%BC%E5%B1%95-%E8%83%A1%E5%9B%A0%E6%A2%A6/">
+            前一篇：836 女性主義的緣起與發展｜胡因梦
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2024-12-10/%E7%AC%AC%E4%B9%9D%E5%B1%8A%E7%BD%91%E7%BB%9C%E7%A4%BE%E4%BC%9A%E5%B9%B4%E4%BC%9A-%E7%8E%8B%E6%B4%AA%E5%96%86-%E4%BB%8E%E6%8A%80%E6%9C%AF%E6%B5%AA%E6%BC%AB%E4%B8%BB%E4%B9%89%E5%88%B0%E6%8A%80%E6%9C%AF%E5%B0%81%E5%BB%BA%E4%B8%BB%E4%B9%89/">
+            後一篇：第九届网络社会年会｜王洪喆：从技术浪漫主义到技术封建主义
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2024-12-09/836-%E5%A5%B3%E6%80%A7%E4%B8%BB%E7%BE%A9%E7%9A%84%E7%B7%A3%E8%B5%B7%E8%88%87%E7%99%BC%E5%B1%95-%E8%83%A1%E5%9B%A0%E6%A2%A6/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2024-12-10/%E7%AC%AC%E4%B9%9D%E5%B1%8A%E7%BD%91%E7%BB%9C%E7%A4%BE%E4%BC%9A%E5%B9%B4%E4%BC%9A-%E7%8E%8B%E6%B4%AA%E5%96%86-%E4%BB%8E%E6%8A%80%E6%9C%AF%E6%B5%AA%E6%BC%AB%E4%B8%BB%E4%B9%89%E5%88%B0%E6%8A%80%E6%9C%AF%E5%B0%81%E5%BB%BA%E4%B8%BB%E4%B9%89/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2024-12-17/Google-Announces-Veo-2,-The-Empire-Strikes-Back,-F/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2024-12-02/The-Gen-AI-Bridge-to-the-Future/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2024-12-09/836-%E5%A5%B3%E6%80%A7%E4%B8%BB%E7%BE%A9%E7%9A%84%E7%B7%A3%E8%B5%B7%E8%88%87%E7%99%BC%E5%B1%95-%E8%83%A1%E5%9B%A0%E6%A2%A6/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2024-12-10/%E7%AC%AC%E4%B9%9D%E5%B1%8A%E7%BD%91%E7%BB%9C%E7%A4%BE%E4%BC%9A%E5%B9%B4%E4%BC%9A-%E7%8E%8B%E6%B4%AA%E5%96%86-%E4%BB%8E%E6%8A%80%E6%9C%AF%E6%B5%AA%E6%BC%AB%E4%B8%BB%E4%B9%89%E5%88%B0%E6%8A%80%E6%9C%AF%E5%B0%81%E5%BB%BA%E4%B8%BB%E4%B9%89/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2024-12-17/Google-Announces-Veo-2,-The-Empire-Strikes-Back,-F/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2024-12-02/The-Gen-AI-Bridge-to-the-Future/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

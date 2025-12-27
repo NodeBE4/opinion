@@ -1,0 +1,3010 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>The Idea Adoption Curve – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+The Idea Adoption Curve
+——
+" />
+    <meta property="og:description" content="
+The Idea Adoption Curve
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="The Idea Adoption Curve" />
+    <meta property="twitter:title" content="The Idea Adoption Curve" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2020%2Fthe-idea-adoption-curve%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2020/the-idea-adoption-curve/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2020/the-idea-adoption-curve/&text=The Idea Adoption Curve&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2020/the-idea-adoption-curve/&title=The Idea Adoption Curve" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2020/the-idea-adoption-curve/&title=The Idea Adoption Curve" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=The Idea Adoption Curve&body=
+The Idea Adoption Curve
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2020/the-idea-adoption-curve/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2020/the-idea-adoption-curve/&title=The Idea Adoption Curve&caption=
+The Idea Adoption Curve
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=The Idea Adoption Curve&url=https://stratechery.com/2020/the-idea-adoption-curve/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>The Idea Adoption Curve</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2020-11-23
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2020/the-idea-adoption-curve/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1606142185000-->
+<p><a href="https://stratechery.com/2020/the-idea-adoption-curve/">The Idea Adoption Curve</a>
+——</p>
+
+<div>
+  <p>Matthew Yglesias, in his new book <a href="https://www.penguinrandomhouse.com/books/636499/one-billion-americans-by-matthew-yglesias/">One Billion Americans</a>, admits:</p>
+  <blockquote>
+    <p>The <em>One Billion Americans</em> agenda — tripling the American population — is a radical suggestion that lies well outside the boundaries of conventional political arguments.</p>
+  </blockquote>
+  <p>Ezra Klein, in his new book <a href="https://simonandschusterpublishing.com/why-were-polarized/">Why We’re Polarized</a>, promises:</p>
+  <blockquote>
+    <p>What I am trying to develop here isn’t so much an answer for the problems of American politics as a framework for understanding them. If I’ve done my job well, this book will offer a model that helps make sense of an era in American politics that can seem senseless.</p>
+  </blockquote>
+  <p>Klein’s promise is very similar to the brand promise of <em>Vox</em>, the digital media site he co-founded with Yglesias and Melissa Bell: “Explain the news”. Yglesias, on the other hand, seems more invested in creating the news that future <em>Vox</em> might one day explain. I think the distinction is meaningful even with the news that both Yglesias and Klein are leaving the company they founded: in fact, I think the distinction explains their destinations.</p>
+  <h4 id="crossing-the-chasm">Crossing the Chasm</h4>
+  <p>In the introduction of his classic tech marketing book, <a href="https://www.harpercollins.com/products/crossing-the-chasm-3rd-edition-geoffrey-a-moore?variant=32130444066850">Crossing the Chasm</a>, Geoffrey A. Moore writes:</p>
+  <blockquote>
+    <p>This book is unabashedly about and written specifically for marketing within high-tech enterprises. But high tech can be viewed as a microcosm of larger industrial sectors. In this context, the relationship between an early market and a mainstream market is not unlike the relationship between a fad and a trend. Marketing has long known how to exploit fads and how to develop trends. The problem, since these techniques are antithetical to each other, is that you need to decide which one—fad or trend—you are dealing with before you start. It would be much better if you could start with a fad, exploit it for all it was worth, and then turn it into a trend.</p>
+    <p>That may seem like a miracle, but that is in essence what high-tech marketing is all about. Every truly innovative high-tech product starts out as a fad—something with no known market value or purpose but with “great properties” that generate a lot of enthusiasm within an “in crowd” of early adopters. That’s the early market. Then comes a period during which the rest of the world watches to see if anything can be made of this; that is the chasm. If in fact something does come out of it—if a value proposition is discovered that can be predictably delivered to a targetable set of customers at a reasonable price—then a new mainstream market segment forms, typically with a rapidity that allows its initial leaders to become very, very successful.</p>
+    <p>The key in all this is crossing the chasm—performing the acts that allow the first shoots of that mainstream market to emerge. This is a do-or-die proposition for high-tech enterprises; hence it is logical that they be the crucible in which “chasm theory” is formed. But the principles can be generalized to other forms of marketing, so for the general reader who can bear with all the high-tech examples in this book, useful lessons may be learned.</p>
+  </blockquote>
+  <p>Moore divided tech markets into five parts, that I summarized in 2015’s <a href="https://stratechery.com/2015/end-trickle-tech/">The End of Trickle-Down Technology</a>:</p>
+  <blockquote>
+    <p><a href="https://stratechery.com/2015/end-trickle-tech/"><img src="https://stratechery.com/wp-content/uploads/2015/01/image-26-1024x768.jpg" alt="The Technology Adoption Curve" width="640" height="480" class="aligncenter size-large wp-image-1395" srcset="https://stratechery.com/wp-content/uploads/2015/01/image-26.jpg 1024w, https://stratechery.com/wp-content/uploads/2015/01/image-26-300x225.jpg 300w, https://stratechery.com/wp-content/uploads/2015/01/image-26-768x576.jpg 768w, https://stratechery.com/wp-content/uploads/2015/01/image-26-840x630.jpg 840w" sizes="(max-width: 640px) 100vw, 640px" /></a></p>
+    <ul>
+      <li>Technology Enthusiasts love tech first and foremost, and are always looking to be on the cutting edge; they are the first to try a new product</li>
+      <li>Visionaries love new products as well, but they also have an eye on how those new products or technologies can be applied. They are the most price-insensitive part of the market</li>
+      <li>Pragmatists are a much larger segment of the market; they are open to new products, but they need evidence they will work and be worth the trouble, and they are much more price conscious</li>
+      <li>Conservatives are much more hesitant to accept change; they are inherently suspicious of any new technology and often only adopt new products when doing so is the only way to keep up. Because they don’t highly value technology, they aren’t willing to pay a lot</li>
+      <li>Skeptics are not just hesitant but actively hostile to technology</li>
+    </ul>
+  </blockquote>
+  <p>Allow me to take Moore at his word, and apply this model to something rather different than tech B2B marketing: ideas. It seems to me that Yglesias and Klein are focused on different parts of this adoption cycle. Yglesias is somewhere between an enthusiast and a visionary; the core concept of his book is closer to the former, and the policy prescriptions closer to the latter. Klein, meanwhile, is focused more on pragmatism, or even conservatism: explaining, instead of creating.</p>
+  <p>This is, to be sure, a crude simplification of two writers with nearly 40 years of material between them, but I don’t think it is an accident that <a href="https://www.slowboring.com/p/welcome-to-slow-boring">Yglesias has set out on his own on Substack</a>, whereas <a href="https://www.nytco.com/press/ezra-klein-joins-times-opinion-as-columnist-and-podcast-host/">Klein is joining the New York Times</a>.</p>
+  <h4 id="the-idea-adoption-curve">The Idea Adoption Curve</h4>
+  <p>I wrote <a href="https://stratechery.com/2020/twitter-responsibility-and-accountability/">last month</a> about the <em>New York Times</em>‘s traditional role in setting the national news agenda; headlines in the <em>New York Times</em> in the morning were lead stories on national newscasts in the evening, and headlines in regional papers the following day. If you map this dynamic to Moore’s model, it might look like this:</p>
+  <p><img src="https://stratechery.com/wp-content/uploads/2020/11/curve-2-1024x768.png" alt="The Idea Adoption Curve" width="640" height="480" class="aligncenter size-large wp-image-5427" srcset="https://stratechery.com/wp-content/uploads/2020/11/curve-2-1024x768.png 1024w, https://stratechery.com/wp-content/uploads/2020/11/curve-2-300x225.png 300w, https://stratechery.com/wp-content/uploads/2020/11/curve-2-768x576.png 768w, https://stratechery.com/wp-content/uploads/2020/11/curve-2-840x630.png 840w, https://stratechery.com/wp-content/uploads/2020/11/curve-2.png 1280w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+  <p>Where, though, did the <em>New York Times</em> get its ideas? Obviously a lot of stories came from its own reporting, or that of its peers, but the “enthusiast” part of the curve was mostly centered in academia. Visionaries, meanwhile, were a collection of think tanks, journals, and speciality magazines that operated at a loss, which was fine because making money was never the point: getting ideas into publications like the <em>New York Times</em> was.</p>
+  <p><img src="https://stratechery.com/wp-content/uploads/2020/11/curve-3-1024x768.png" alt="Idea generation in the analog age" width="640" height="480" class="aligncenter size-large wp-image-5426" srcset="https://stratechery.com/wp-content/uploads/2020/11/curve-3-1024x768.png 1024w, https://stratechery.com/wp-content/uploads/2020/11/curve-3-300x225.png 300w, https://stratechery.com/wp-content/uploads/2020/11/curve-3-768x576.png 768w, https://stratechery.com/wp-content/uploads/2020/11/curve-3-840x630.png 840w, https://stratechery.com/wp-content/uploads/2020/11/curve-3.png 1280w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+  <p>What happened in the 2000s, when Yglesias and Klein first burst on the scene as part of the original generation of political bloggers, was the development of a new genre of “enthusiasts” who were creating and debating new ideas mostly for free. Sure, most of these bloggers found work with publications like <em>American Prospect</em> (Yglesias) or <em>Washington Monthly</em> (Klein), but those publications were political projects, not economic ones, with the goal of influencing the mass market, not monetizing it.</p>
+  <p><em>Vox</em>, on the other hand, has been something much different, both in terms of mission statement and business model. “Explaining the news” is, from a certain perspective, about crossing the chasm on the idea curve; enthusiasts have created new ideas, and visionaries have refined them, and now the challenge is to spread those ideas to the population generally. <em>Vox</em>’s business model, meanwhile, is firmly on the right hand side of the curve. Advertising is all about scale, and the vast majority of the market falls to the right of the chasm.</p>
+  <p>The problem with this approach, though, is that publications simply aren’t as good at advertising as Facebook and Google. I wrote five years ago in <a href="https://stratechery.com/2015/popping-the-publishing-bubble/">Popping the Publishing Bubble</a>:</p>
+  <blockquote>
+    <p>Publishers and ad networks are locked in a dysfunctional relationship that doesn’t serve readers or advertisers, and it’s only a matter of time until advertisers — which again, care only about reaching potential customers, wherever they may be — desert the whole mess entirely for new, more efficient and effective advertising options that put them directly in front of the people they care about. That, first and foremost, is Facebook, but other social networks like Twitter, Snapchat, Instagram, Pinterest, and others will benefit as well:</p>
+    <p><img src="https://stratechery.com/wp-content/uploads/2015/09/stratechery-Year-One-240-1024x695.png" alt="A drawing of Facebook As a More Efficient Advertising Option" width="640" height="434" class="aligncenter size-large wp-image-1845" srcset="https://stratechery.com/wp-content/uploads/2015/09/stratechery-Year-One-240-1024x695.png 1024w, https://stratechery.com/wp-content/uploads/2015/09/stratechery-Year-One-240-300x204.png 300w, https://stratechery.com/wp-content/uploads/2015/09/stratechery-Year-One-240-768x522.png 768w, https://stratechery.com/wp-content/uploads/2015/09/stratechery-Year-One-240-928x630.png 928w, https://stratechery.com/wp-content/uploads/2015/09/stratechery-Year-One-240.png 1998w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+  </blockquote>
+  <p>I don’t know the specifics of how <em>Vox</em>’s business is doing, although it is notable that the site’s previous ad inventory is now mostly filled with requests for donations; meanwhile, there is no confusion about the business models of either Substack or the <em>New York Times</em>.</p>
+  <h4 id="visionaries-and-substack">Visionaries and Substack</h4>
+  <p>Start with Yglesias, and Substack; this is obvious a business model near-and-dear to my heart, given that Stratechery was perhaps the first site built around the idea of a one-person publication supported by subscriptions at scale.<a href="https://stratechery.com/2020/the-idea-adoption-curve/#footnote_0_5428" id="identifier_0_5428" class="footnote-link footnote-identifier-link" title="Yes, subscription-based newsletters existed long before Stratechery, particularly on Wall Street, but at much higher price points">1</a> I don’t have any illusions about reaching the mass market; Stratechery is very much predicated on capturing the “Visionary” part of the curve. Read again the explanation I excerpted above:</p>
+  <blockquote>
+    <p>Visionaries love new products as well, but they also have an eye on how those new products or technologies can be applied. They are the most price-insensitive part of the market</p>
+  </blockquote>
+  <p>The “price-insensitive” part is key: Stratechery and Substack publications like <em>Slow Boring</em> may not be that expensive, but they are, relative to text on the Internet, shockingly pricey. Subscribers, though, don’t mind, as long as what they are getting is consistently unique and provocative; look no further than <em>One Billion Americans</em>, or Yglesias’s <a href="https://twitter.com/mattyglesias/">Twitter account</a>, to see why he ended up on Substack.</p>
+  <p>What is neat about this model is that it is far more sustainable and accessible than the old model of corporations and donors subsidizing think tanks, journals, and specialty magazines, and far more ideologically diverse than academia. It is important, though, to be honest about the model’s limitations: while I remain very bullish about the potential of <a href="https://stratechery.com/2017/the-local-news-business-model/">subscription-based local news entities</a>, it is difficult to envision a future where most people pay for news or analysis directly.</p>
+  <p>One way to understand why is to map the <em>Idea Adoption Curve</em> against a “Willingness-to-Pay Curve”; I suspect it looks something like this:</p>
+  <p><img src="https://stratechery.com/wp-content/uploads/2020/11/curve-4-1024x768.png" alt="Willingness-to-pay on the Idea Adoption Curve" width="640" height="480" class="aligncenter size-large wp-image-5425" srcset="https://stratechery.com/wp-content/uploads/2020/11/curve-4-1024x768.png 1024w, https://stratechery.com/wp-content/uploads/2020/11/curve-4-300x225.png 300w, https://stratechery.com/wp-content/uploads/2020/11/curve-4-768x576.png 768w, https://stratechery.com/wp-content/uploads/2020/11/curve-4-840x630.png 840w, https://stratechery.com/wp-content/uploads/2020/11/curve-4.png 1280w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+  <p>Enthusiasts — now on Twitter, for the most part — generate and debate ideas for free, while the real money, at least from an average revenue per user perspective, is with the visionaries. This is where the Substack model makes the most sense. What is notable, though, is that the chasm of ideas is also a chasm of monetization.</p>
+  <h4 id="push-versus-pull">Push Versus Pull</h4>
+  <p>How do ideas cross the chasm into popular acceptance and public policy? <em>Vox</em> tried to pull them over, with, I think, limited success; the <em>New York Times</em>, on the other hand, has been positioned to cross the chasm for decades. What has changed is that while the <em>New York Times</em> used to be mostly supported by advertising, which incentivized it to remain planted on the right side of the divide, pulling ideas from the fringes into the mainstream, its shift to subscriptions has pushed it to the left part of the curve, incentivizing the newspaper of record to more actively generate and push new ideas.</p>
+  <p>This has, as I noted in <a href="https://stratechery.com/2020/never-ending-niches/">Never-Ending Niches</a>, changed the <em>New York Times</em>:</p>
+  <blockquote>
+    <p>To the extent that the <em>New York Times</em> has been successful online — and the company has been <a href="https://nytco-assets.nytimes.com/2020/04/Final-2019-Annual-Report.pdf">very successful indeed!</a> — it follows that the company is well-placed in terms of both focus and quality, and in that order.</p>
+    <p>In this view, the fact that <a href="https://www.nytimes.com/2020/06/08/technology/china-twitter-disinformation.html">deeply reported articles about Chinese disinformation on Twitter</a> are held as being low quality by the Chinese government is immaterial; what matters is that the <em>New York Times</em>‘ audience, which is mostly in the United States, finds it of high quality (I certainly do).</p>
+    <p>That’s an easy example, but there are ones that hit closer to home; for example, I thought this 2018 story that claimed that <a href="https://www.nytimes.com/2018/06/05/technology/facebook-device-partnerships-china.html">Facebook Gave Data Access to Chinese Firm Flagged by U.S. Intelligence</a> was, <a href="https://stratechery.com/2018/morris-chang-retires-apple-microsoft-facebook-follow-up-who-gets-to-be-on-the-steam-store/">as I wrote at the time</a>, “deeply flawed at best, and willfully mendacious at worst.” It turns out, though, that I am not particularly interested in the “Everything tech does is bad” niche; that story was very high quality for much of the <em>New York Times</em>’s audience.</p>
+  </blockquote>
+  <p>These two stories were in the <em>News</em> section, not <em>Opinion</em>, but the point is that the distinction matters less than ever before; the pursuit of subscription revenue pushes the <em>New York Times</em> to the left side of the chasm, which means that to the extent it still fulfills it role of conveying ideas across the chasm it is more focused on pushing particular points of view into the broader public, as opposed to pulling ideas the broader public may favor. This certainly makes the <em>New York Times</em> an attractive landing place for Klein, who, for all of his focus on “explaining the news”, has never been shy about his political preferences and desire to influence policy. Now he can do so from a platform that has long been defined by its ability to cross the chasm.</p>
+  <h4 id="buzzfeed-versus-the-new-york-times">BuzzFeed Versus the New York Times</h4>
+  <p>Yglesias and Klein’s departures from <em>Vox</em> weren’t the only media news of the week; BuzzFeed acquired HuffPost (and some cash from Verizon). In <a href="https://www.vox.com/recode/2020/11/19/21578476/buzzfeed-huffpost-new-york-times-jonah-peretti-interview-podcast?scrolla=5eb6d68b7fedc32c19ef33b4">an interview on Recode Media</a>, BuzzFeed CEO and founder — of both BuzzFeed and HuffPost! — Jonah Peretti took aim at the New York Times’ shift; from <a href="https://www.vox.com/recode/2020/11/19/21578476/buzzfeed-huffpost-new-york-times-jonah-peretti-interview-podcast">Recode</a>:</p>
+  <blockquote>
+    <p>The Times, Peretti allowed, has since refined a very good subscription business model, which has allowed it to make better journalism by hiring more and better talent. This is not a controversial opinion. But the next part may be: The New York Times, Peretti argued, can’t really be called “the paper of record” anymore — because of that same subscription model.</p>
+    <p>“A subscription business model leads towards being a paper for a particular group and a particular audience and not for the broadest public,” Peretti said. He’s alluding, in part, to the theory that the Times’s subscriber base wants to read a certain kind of news and opinion — middle/left of center, critical of Donald Trump, etc. — and that straying from that can cost it subscribers. But he’s also simply arguing that the act of requiring readers to pay to read cuts the Times off from a big audience.</p>
+    <p>Peretti’s solution to that problem, it turns out, sounds a whole lot like a combined BuzzFeed/HuffPost — publications that are widely distributed, supported by advertising, and free:</p>
+    <p>“Will a subscription newspaper that is read by a subset of society have as big an impact as it could on voters, on the broad public, on young people, on the more diverse rising generation of millennials and Gen Z?” he argued. “I think there’s a huge opportunity to serve those consumers. And not all of them are going to be subscribers to any publication.”</p>
+  </blockquote>
+  <p>BuzzFeed is firmly planted on the right side of the <em>Idea Adoption Curve</em>; most of the publication’s content is about anything other than news or ideas, and its primary distribution network is Facebook (Twitter is for the left side of the curve, and Facebook the right). It also has a    <strike>n advertising</strike>
+ kitchen sink business model, with a combination of premium advertising, programmatic advertising, affiliate marketing, e-commerce, etc., all of which only make sense at scale.</p>
+  <h4 id="the-implications-of-abundance">The Implications of Abundance</h4>
+  <p>At the same time, it is worth noting that the <em>New York Times</em> has, contrary to Peretti’s implication, never been a newspaper for the masses. Sure, its subscription model is by default exclusionary, but only being available in printed form, mostly in New York, was far more exclusionary. The point about subscriptions driving a particular point of view is a valid one, but then again, it is not as if BuzzFeed has been shy about its political preferences either. The reality is that the implication of the Internet is that ideas are in abundance, and people will seek out what they already agree with, as opposed to accepting what is delivered to them.</p>
+  <p>This explains the newly prominent role of the right side of the <em>Idea Adoption Curve</em>; I noted while summarizing the <em>Technology Adoption Curve</em>:</p>
+  <blockquote>
+    <p>Skeptics are not just hesitant but actively hostile to technology</p>
+  </blockquote>
+  <p>This, translated to ideas, explains the prominence of conspiracy theories and misinformation. These strains of belief have always existed, in America in particular, but one implication of the Internet leveling the information playing field is that these alternative views of reality can both spread further than ever before, even as they are far more visible to everyone else. This is both reason for alarm, and for skepticism about said alarm: yes, the misinformation problem is worse than before, but much of our fear is rooted in newfound awareness of an old problem, and there is a strong case to be made that <a href="https://stratechery.com/2020/zero-trust-information/">the emergence of valuable information</a> makes up for the propagation of misinformation that mostly feeds confirmation biases.</p>
+  <p>What is indisputable, though, is that the nature of information and its spread has been fundamentally altered in a way unseen <a href="https://stratechery.com/2019/the-internet-and-the-third-estate/">since the printing press</a>. It affects Yglesias and Substack, Klein and the <em>New York Times</em>, and, one increasingly suspects, the very fabric of society and the foundation of our political institutions and organizing principles. And, if this is right, we are only now at the end of the beginning.</p>
+  <ol class="footnotes">
+    <li id="footnote_0_5428" class="footnote">Yes, subscription-based newsletters existed long before Stratechery, particularly on Wall Street, but at much higher price points</li>
+  </ol>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2020-12-03</time>
+        <a href="https://nodebe4.github.io/opinion/2020-12-03/Stripe-Platform-of-Platforms/">
+          Stripe: Platform of Platforms
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-11-30</time>
+        <a href="https://nodebe4.github.io/opinion/2020-11-30/Five-Lessons-From-Dave-Chappelle/">
+          Five Lessons From Dave Chappelle
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-11-17</time>
+        <a href="https://nodebe4.github.io/opinion/2020-11-17/Playing-on-Hard-Mode/">
+          Playing on Hard Mode
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-11-11</time>
+        <a href="https://nodebe4.github.io/opinion/2020-11-11/Apple-s-Shifting-Differentiation/">
+          Apple’s Shifting Differentiation
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2020-11-22/%E7%A6%81%E5%BF%8C%E5%8F%B2%E8%A9%B1-%E6%9D%8E%E8%82%85%E5%B0%8D%E8%A9%B1%E6%BA%AB%E7%9B%B8-%E6%99%9A%E5%B9%B4%E7%8E%8B%E5%85%89%E7%BE%8E/">
+            前一篇：禁忌史話：李肅對話溫相--晚年王光美
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2020-11-23/%E5%BC%A0%E4%BC%A6-%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%BD%93%E4%B8%8B%E5%8A%A8%E8%8D%A1%E5%88%86%E8%A3%82%E7%9A%84%E4%B8%96%E7%95%8C-%E5%85%B1%E8%AF%86%E6%B2%99%E9%BE%99%E5%BE%AE%E4%BF%A1%E5%85%AC%E7%9B%8A%E8%AE%B2%E5%BA%A720201122-%E4%B8%8B/">
+            後一篇：张伦：如何看待当下动荡分裂的世界（共识沙龙微信公益讲座20201122）下
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2020-11-22/%E7%A6%81%E5%BF%8C%E5%8F%B2%E8%A9%B1-%E6%9D%8E%E8%82%85%E5%B0%8D%E8%A9%B1%E6%BA%AB%E7%9B%B8-%E6%99%9A%E5%B9%B4%E7%8E%8B%E5%85%89%E7%BE%8E/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2020-11-23/%E5%BC%A0%E4%BC%A6-%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%BD%93%E4%B8%8B%E5%8A%A8%E8%8D%A1%E5%88%86%E8%A3%82%E7%9A%84%E4%B8%96%E7%95%8C-%E5%85%B1%E8%AF%86%E6%B2%99%E9%BE%99%E5%BE%AE%E4%BF%A1%E5%85%AC%E7%9B%8A%E8%AE%B2%E5%BA%A720201122-%E4%B8%8B/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2020-11-30/Five-Lessons-From-Dave-Chappelle/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2020-11-17/Playing-on-Hard-Mode/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2020-11-22/%E7%A6%81%E5%BF%8C%E5%8F%B2%E8%A9%B1-%E6%9D%8E%E8%82%85%E5%B0%8D%E8%A9%B1%E6%BA%AB%E7%9B%B8-%E6%99%9A%E5%B9%B4%E7%8E%8B%E5%85%89%E7%BE%8E/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2020-11-23/%E5%BC%A0%E4%BC%A6-%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%BD%93%E4%B8%8B%E5%8A%A8%E8%8D%A1%E5%88%86%E8%A3%82%E7%9A%84%E4%B8%96%E7%95%8C-%E5%85%B1%E8%AF%86%E6%B2%99%E9%BE%99%E5%BE%AE%E4%BF%A1%E5%85%AC%E7%9B%8A%E8%AE%B2%E5%BA%A720201122-%E4%B8%8B/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2020-11-30/Five-Lessons-From-Dave-Chappelle/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2020-11-17/Playing-on-Hard-Mode/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

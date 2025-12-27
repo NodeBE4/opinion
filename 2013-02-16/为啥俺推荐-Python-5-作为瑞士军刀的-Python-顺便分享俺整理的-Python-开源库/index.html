@@ -1,0 +1,3601 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>为啥俺推荐 Python[5]：作为瑞士军刀的 Python——顺便分享俺整理的 Python 开源库 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+
+      为啥俺推荐 Python[5]：作为瑞士军刀的 Python——顺便分享俺整理的 Python 开源库  
+  
+    
+      
+    
+  
+  
+本系列几乎变成年度系列了——  上一篇帖子  是去年元宵节发的。这几天正值春节假期，赶紧抽空补上本系列新的一篇，免得大伙儿以为本系列“烂尾”了。  “瑞士军刀”，大伙儿应该很熟悉，俺就不解释了。拿“瑞士军刀”来比喻 Python 就是想说明：Python 不但短小精悍，而且功能强大。今天就来介绍一下 Python 的这两个特点（尤其是后者）。 
+       
+         ★短小精悍 
+       ◇轻量级的的代码 
+  要吹嘘 Python 的轻量级，首先要吹嘘的，自然是它简洁的代码。为了让大伙儿有个初步的印象，举几个例子。   举例1  要得到100-200之间所有奇数的3次方，只需如下一行      
+      [x**3 for x in range(100, 200) if (x%2)==1]
+      
+    
+  举例2  如果要把上述结果拼成一个逗号分隔的字符串，还是只要一行      
+      ','.join([str(x**3) for x in range(100, 200) if (x%2)==1])
+      
+    
+  举例3  可能有人觉得上面2个例子是小儿科，再来举一个稍微复杂点的。只需一行代码，即可实现网络扫描（用的是第三方的  Scapy  工具）。      
+      # 传统的 ping 扫描，基于 ICMP 协议
+ans,unans = sr(IP(dst="192.168.1.1-254")/ICMP())
+# 局域网扫描，基于 ARP 协议
+ans,unans = srp(Ether(dst="ff:ff:ff:ff:ff:ff")/ARP(pdst="192.168.1.0/24"), timeout=2)
+      
+    
+       ◇轻量级的安装环境 
+  比如 Python 的安装包只有十几兆，而 Java 的 JDK 安装包动辄接近100兆。        ◇轻量级的运行环境 
+  同样是运行一个“Hello World”，用 Python 写的进程，占用的内存会更小（相比大多数其它编程语言）。而且 Python 的运行环境（Python 虚拟机）可以很方便地嵌入到 C/C++ 程序中，只需额外带一个动态库即可。         ★功能强大之1——跟非常多的语言整合 
+  很多程序员喜欢“在一棵树上吊死”——始终只用一种编程语言。俺非常反对这种倾向。要想成为一个优秀的程序员，有必要掌握【不同风格/不同范式】的编程语言。编程语言多样化的好处在于，你可以利用不同语言的特色，以取长补短。  而 Python 在跨语言整合方面，堪称佼佼者——你很难找到哪个语言，能像 Python 这样，跟如此多的语言进行整合。  下面简单举几个例子：        ◇跟 C/C++ 整合 
+  咱们常用的 Python 运行环境也称为 CPython，是用 C 语言写的。所以 Python 天生就具有跟 C/C++ 整合的能力。而且这种整合是双向的——也就是说，既可以在 Python 模块调用 C/C++ 模块，也可以在 C/C++ 模块调用 Python 模块。  Python 跟 C/C++ 整合，可以有如下三个优点：   
+   1. 丰富的第三方资源
+    因为 C/C++ 具有非常丰富的第三方模块（包括开源和闭源），其丰富程度超过 Java。所以 Python 可以利用这种整合能力，直接调用各种 C/C++ 的模块，来丰富自己的功能。  举个例子  比如 cURL 是一个C语言编写的应用层网络工具，功能非常强。而 Python 可以通过整合 cURL 直接获得 cURL 的强大功能。   
+   2. 性能的提升
+    除了第三方模块丰富，C/C++ 开发的模块还有一个优点——性能好。所以，Python 整合了 C/C++ 模块之后，还能趁机获得性能提升。  举个例子  比方说你要写一个 3D 游戏，其中的 3D 渲染引擎是性能瓶颈。那么你可以用 Python 整合一个 C/C++ 的 3D 渲染引擎。而 Python 只用来实现跟游戏高层应用逻辑相关的部分。这样可以一举两得：性能不差，代码不多。  顺便说一下：如今有不少游戏都走这个开发思路——底层引擎用【重型的】C 或 C++ 实现，以确保高性能；而高层的业务逻辑则用【轻型的】脚本语言来开发。   
+   3. 跟操作系统整合
+    地球上的操作系统，只要是有点名气的，内核都是 C 语言写的；除了操作系统内核，大部分操作系统的运行库也都是 C/C++ 编写的。所以，Python 跟 C/C++ 整合，可以带来第三个好处——跟操作系统的整合。关于这点，待会儿俺还会专门聊。        ◇跟 JVM（Java） 整合 
+  通过  Jython  这个开源项目，Python 可以无缝整合到 JVM 环境中。如此一来，Python 能直接调用所有 JVM 标准库（比如 JDBC）和第三方库（比如 Lucene），还可以跟各种 JVM 语言（比如“Java、Scale、Groovy”等）进行互操作。        ◇跟 dotNet 整合 
+  通过  IronPython  这个开源项目，Python 可以无缝整合到 dotNet 环境中。如此一来，Python 能直接调用所有 dotNet 的标准库（比如 ADO.NET）和第三方库，还可以跟各种 dotNet 语言（比如“C#、F#”等）进行互操作。  顺便说一下：Jython 跟 IronPython 貌似同一个作者，牛人啊！         ★功能强大之2——既可以跨平台，又可以跟操作系统深度整合 
+       ◇Python 语言如何体现“跨平台性”？ 
+  说到跨平台这个话题，俺给编程语言分一下类：  1. 可以跨平台，但无法跟操作系统深度耦合（比如 JavaScript、PHP）  2. 可以跟操作系统深度耦合，但无法跨平台（比如 VB、VBScript）  3. 既可以跨平台，又可以跟操作系统深度耦合（比如 C C++ Python）   为啥第三类语言能做到两者兼得？因为这类语言把选择权留给了程序猿——  一方面，如果程序猿遵循跨平台的开发规范，那么写出来的代码就是跨平台的；  另一方面，程序猿也可以写出跟系统耦合很紧密的代码——这样的代码虽然不能跨平台，但可以发挥特定平台的强项。  显然俺喜欢第三类编程语言，因为这类语言给了程序猿自由。        ◇Python 语言如何“与操作系统深度整合”？ 
+  Python 的跨平台特性，懂 Python 的同学估计都晓得了。所以俺单独说一下 Python 如何跟操作系统深度整合。为了照顾到大多数人，俺拿 Windows 来说事儿。  在 Python 社区有一个很有名气的库，叫做  PyWin32  。通过这个库，可以让 Python 代码很容易地调用 Windows 的 API 以及 COM 组件。  比方说，可以用 Python 代码直接操作 Windows 注册表  比方说，可以用 Python 代码直接读写 Windows 的系统日志  比方说，可以用 Python 代码直接操作某个窗口句柄  比方说，可以利用 COM 组件，直接调用 Word 来处理 doc 格式的文档  ......         ★功能强大之3——具有很丰富的第三方模块 
+  最后一个方面，也是最重要的一个方面，就是 Python 社区具有非常非常丰富的资源（第三方库），而且几乎都是开源的。形形色色的编程领域几乎都可以看到 Python 的身影。  
+   为了让众多程序员读者领略 Python 的丰富资源，俺特地整理了一个 wiki 页面
+   （请用鼠标猛击“  这里  ”），放上 Python 在各个编程领域的常用模块。为了显示出 Python 代码的简洁，某些模块还放上示例代码。  最后感叹一下：  写这篇博文只花了不到一小时，而整理这个 wiki 页面累计超过10个小时。不过这时间没白花——整理的时候顺便对某些领域有了更多的了解。这也就是写博客的好处，既可以帮助别人，又可以帮助自己。  大伙儿如果觉得俺整理的清单有遗漏，欢迎到  本页面  留言补充。     回到本系列的目录      
+
+    版权声明
+     本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者  编程随想  和本文原始地址：   https://program-think.blogspot.com/2013/02/why-choose-python-5-tools.html 
+    
+    
+  
+  
+    
+         
+    
+    
+    
+ 
+    
+  
+
+" />
+    <meta property="og:description" content="
+
+      为啥俺推荐 Python[5]：作为瑞士军刀的 Python——顺便分享俺整理的 Python 开源库  
+  
+    
+      
+    
+  
+  
+本系列几乎变成年度系列了——  上一篇帖子  是去年元宵节发的。这几天正值春节假期，赶紧抽空补上本系列新的一篇，免得大伙儿以为本系列“烂尾”了。  “瑞士军刀”，大伙儿应该很熟悉，俺就不解释了。拿“瑞士军刀”来比喻 Python 就是想说明：Python 不但短小精悍，而且功能强大。今天就来介绍一下 Python 的这两个特点（尤其是后者）。 
+       
+         ★短小精悍 
+       ◇轻量级的的代码 
+  要吹嘘 Python 的轻量级，首先要吹嘘的，自然是它简洁的代码。为了让大伙儿有个初步的印象，举几个例子。   举例1  要得到100-200之间所有奇数的3次方，只需如下一行      
+      [x**3 for x in range(100, 200) if (x%2)==1]
+      
+    
+  举例2  如果要把上述结果拼成一个逗号分隔的字符串，还是只要一行      
+      ','.join([str(x**3) for x in range(100, 200) if (x%2)==1])
+      
+    
+  举例3  可能有人觉得上面2个例子是小儿科，再来举一个稍微复杂点的。只需一行代码，即可实现网络扫描（用的是第三方的  Scapy  工具）。      
+      # 传统的 ping 扫描，基于 ICMP 协议
+ans,unans = sr(IP(dst="192.168.1.1-254")/ICMP())
+# 局域网扫描，基于 ARP 协议
+ans,unans = srp(Ether(dst="ff:ff:ff:ff:ff:ff")/ARP(pdst="192.168.1.0/24"), timeout=2)
+      
+    
+       ◇轻量级的安装环境 
+  比如 Python 的安装包只有十几兆，而 Java 的 JDK 安装包动辄接近100兆。        ◇轻量级的运行环境 
+  同样是运行一个“Hello World”，用 Python 写的进程，占用的内存会更小（相比大多数其它编程语言）。而且 Python 的运行环境（Python 虚拟机）可以很方便地嵌入到 C/C++ 程序中，只需额外带一个动态库即可。         ★功能强大之1——跟非常多的语言整合 
+  很多程序员喜欢“在一棵树上吊死”——始终只用一种编程语言。俺非常反对这种倾向。要想成为一个优秀的程序员，有必要掌握【不同风格/不同范式】的编程语言。编程语言多样化的好处在于，你可以利用不同语言的特色，以取长补短。  而 Python 在跨语言整合方面，堪称佼佼者——你很难找到哪个语言，能像 Python 这样，跟如此多的语言进行整合。  下面简单举几个例子：        ◇跟 C/C++ 整合 
+  咱们常用的 Python 运行环境也称为 CPython，是用 C 语言写的。所以 Python 天生就具有跟 C/C++ 整合的能力。而且这种整合是双向的——也就是说，既可以在 Python 模块调用 C/C++ 模块，也可以在 C/C++ 模块调用 Python 模块。  Python 跟 C/C++ 整合，可以有如下三个优点：   
+   1. 丰富的第三方资源
+    因为 C/C++ 具有非常丰富的第三方模块（包括开源和闭源），其丰富程度超过 Java。所以 Python 可以利用这种整合能力，直接调用各种 C/C++ 的模块，来丰富自己的功能。  举个例子  比如 cURL 是一个C语言编写的应用层网络工具，功能非常强。而 Python 可以通过整合 cURL 直接获得 cURL 的强大功能。   
+   2. 性能的提升
+    除了第三方模块丰富，C/C++ 开发的模块还有一个优点——性能好。所以，Python 整合了 C/C++ 模块之后，还能趁机获得性能提升。  举个例子  比方说你要写一个 3D 游戏，其中的 3D 渲染引擎是性能瓶颈。那么你可以用 Python 整合一个 C/C++ 的 3D 渲染引擎。而 Python 只用来实现跟游戏高层应用逻辑相关的部分。这样可以一举两得：性能不差，代码不多。  顺便说一下：如今有不少游戏都走这个开发思路——底层引擎用【重型的】C 或 C++ 实现，以确保高性能；而高层的业务逻辑则用【轻型的】脚本语言来开发。   
+   3. 跟操作系统整合
+    地球上的操作系统，只要是有点名气的，内核都是 C 语言写的；除了操作系统内核，大部分操作系统的运行库也都是 C/C++ 编写的。所以，Python 跟 C/C++ 整合，可以带来第三个好处——跟操作系统的整合。关于这点，待会儿俺还会专门聊。        ◇跟 JVM（Java） 整合 
+  通过  Jython  这个开源项目，Python 可以无缝整合到 JVM 环境中。如此一来，Python 能直接调用所有 JVM 标准库（比如 JDBC）和第三方库（比如 Lucene），还可以跟各种 JVM 语言（比如“Java、Scale、Groovy”等）进行互操作。        ◇跟 dotNet 整合 
+  通过  IronPython  这个开源项目，Python 可以无缝整合到 dotNet 环境中。如此一来，Python 能直接调用所有 dotNet 的标准库（比如 ADO.NET）和第三方库，还可以跟各种 dotNet 语言（比如“C#、F#”等）进行互操作。  顺便说一下：Jython 跟 IronPython 貌似同一个作者，牛人啊！         ★功能强大之2——既可以跨平台，又可以跟操作系统深度整合 
+       ◇Python 语言如何体现“跨平台性”？ 
+  说到跨平台这个话题，俺给编程语言分一下类：  1. 可以跨平台，但无法跟操作系统深度耦合（比如 JavaScript、PHP）  2. 可以跟操作系统深度耦合，但无法跨平台（比如 VB、VBScript）  3. 既可以跨平台，又可以跟操作系统深度耦合（比如 C C++ Python）   为啥第三类语言能做到两者兼得？因为这类语言把选择权留给了程序猿——  一方面，如果程序猿遵循跨平台的开发规范，那么写出来的代码就是跨平台的；  另一方面，程序猿也可以写出跟系统耦合很紧密的代码——这样的代码虽然不能跨平台，但可以发挥特定平台的强项。  显然俺喜欢第三类编程语言，因为这类语言给了程序猿自由。        ◇Python 语言如何“与操作系统深度整合”？ 
+  Python 的跨平台特性，懂 Python 的同学估计都晓得了。所以俺单独说一下 Python 如何跟操作系统深度整合。为了照顾到大多数人，俺拿 Windows 来说事儿。  在 Python 社区有一个很有名气的库，叫做  PyWin32  。通过这个库，可以让 Python 代码很容易地调用 Windows 的 API 以及 COM 组件。  比方说，可以用 Python 代码直接操作 Windows 注册表  比方说，可以用 Python 代码直接读写 Windows 的系统日志  比方说，可以用 Python 代码直接操作某个窗口句柄  比方说，可以利用 COM 组件，直接调用 Word 来处理 doc 格式的文档  ......         ★功能强大之3——具有很丰富的第三方模块 
+  最后一个方面，也是最重要的一个方面，就是 Python 社区具有非常非常丰富的资源（第三方库），而且几乎都是开源的。形形色色的编程领域几乎都可以看到 Python 的身影。  
+   为了让众多程序员读者领略 Python 的丰富资源，俺特地整理了一个 wiki 页面
+   （请用鼠标猛击“  这里  ”），放上 Python 在各个编程领域的常用模块。为了显示出 Python 代码的简洁，某些模块还放上示例代码。  最后感叹一下：  写这篇博文只花了不到一小时，而整理这个 wiki 页面累计超过10个小时。不过这时间没白花——整理的时候顺便对某些领域有了更多的了解。这也就是写博客的好处，既可以帮助别人，又可以帮助自己。  大伙儿如果觉得俺整理的清单有遗漏，欢迎到  本页面  留言补充。     回到本系列的目录      
+
+    版权声明
+     本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者  编程随想  和本文原始地址：   https://program-think.blogspot.com/2013/02/why-choose-python-5-tools.html 
+    
+    
+  
+  
+    
+         
+    
+    
+    
+ 
+    
+  
+
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="为啥俺推荐 Python[5]：作为瑞士军刀的 Python——顺便分享俺整理的 Python 开源库" />
+    <meta property="twitter:title" content="为啥俺推荐 Python[5]：作为瑞士军刀的 Python——顺便分享俺整理的 Python 开源库" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fprogram-think.blogspot.com%2F2013%2F02%2Fwhy-choose-python-5-tools.html" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://program-think.blogspot.com/2013/02/why-choose-python-5-tools.html" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://program-think.blogspot.com/2013/02/why-choose-python-5-tools.html&text=为啥俺推荐 Python[5]：作为瑞士军刀的 Python——顺便分享俺整理的 Python 开源库&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://program-think.blogspot.com/2013/02/why-choose-python-5-tools.html&title=为啥俺推荐 Python[5]：作为瑞士军刀的 Python——顺便分享俺整理的 Python 开源库" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://program-think.blogspot.com/2013/02/why-choose-python-5-tools.html&title=为啥俺推荐 Python[5]：作为瑞士军刀的 Python——顺便分享俺整理的 Python 开源库" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=为啥俺推荐 Python[5]：作为瑞士军刀的 Python——顺便分享俺整理的 Python 开源库&body=
+
+      为啥俺推荐 Python[5]：作为瑞士军刀的 Python——顺便分享俺整理的 Python 开源库  
+  
+    
+      
+    
+  
+  
+本系列几乎变成年度系列了——  上一篇帖子  是去年元宵节发的。这几天正值春节假期，赶紧抽空补上本系列新的一篇，免得大伙儿以为本系列“烂尾”了。  “瑞士军刀”，大伙儿应该很熟悉，俺就不解释了。拿“瑞士军刀”来比喻 Python 就是想说明：Python 不但短小精悍，而且功能强大。今天就来介绍一下 Python 的这两个特点（尤其是后者）。 
+       
+         ★短小精悍 
+       ◇轻量级的的代码 
+  要吹嘘 Python 的轻量级，首先要吹嘘的，自然是它简洁的代码。为了让大伙儿有个初步的印象，举几个例子。   举例1  要得到100-200之间所有奇数的3次方，只需如下一行      
+      [x**3 for x in range(100, 200) if (x%2)==1]
+      
+    
+  举例2  如果要把上述结果拼成一个逗号分隔的字符串，还是只要一行      
+      ','.join([str(x**3) for x in range(100, 200) if (x%2)==1])
+      
+    
+  举例3  可能有人觉得上面2个例子是小儿科，再来举一个稍微复杂点的。只需一行代码，即可实现网络扫描（用的是第三方的  Scapy  工具）。      
+      # 传统的 ping 扫描，基于 ICMP 协议
+ans,unans = sr(IP(dst="192.168.1.1-254")/ICMP())
+# 局域网扫描，基于 ARP 协议
+ans,unans = srp(Ether(dst="ff:ff:ff:ff:ff:ff")/ARP(pdst="192.168.1.0/24"), timeout=2)
+      
+    
+       ◇轻量级的安装环境 
+  比如 Python 的安装包只有十几兆，而 Java 的 JDK 安装包动辄接近100兆。        ◇轻量级的运行环境 
+  同样是运行一个“Hello World”，用 Python 写的进程，占用的内存会更小（相比大多数其它编程语言）。而且 Python 的运行环境（Python 虚拟机）可以很方便地嵌入到 C/C++ 程序中，只需额外带一个动态库即可。         ★功能强大之1——跟非常多的语言整合 
+  很多程序员喜欢“在一棵树上吊死”——始终只用一种编程语言。俺非常反对这种倾向。要想成为一个优秀的程序员，有必要掌握【不同风格/不同范式】的编程语言。编程语言多样化的好处在于，你可以利用不同语言的特色，以取长补短。  而 Python 在跨语言整合方面，堪称佼佼者——你很难找到哪个语言，能像 Python 这样，跟如此多的语言进行整合。  下面简单举几个例子：        ◇跟 C/C++ 整合 
+  咱们常用的 Python 运行环境也称为 CPython，是用 C 语言写的。所以 Python 天生就具有跟 C/C++ 整合的能力。而且这种整合是双向的——也就是说，既可以在 Python 模块调用 C/C++ 模块，也可以在 C/C++ 模块调用 Python 模块。  Python 跟 C/C++ 整合，可以有如下三个优点：   
+   1. 丰富的第三方资源
+    因为 C/C++ 具有非常丰富的第三方模块（包括开源和闭源），其丰富程度超过 Java。所以 Python 可以利用这种整合能力，直接调用各种 C/C++ 的模块，来丰富自己的功能。  举个例子  比如 cURL 是一个C语言编写的应用层网络工具，功能非常强。而 Python 可以通过整合 cURL 直接获得 cURL 的强大功能。   
+   2. 性能的提升
+    除了第三方模块丰富，C/C++ 开发的模块还有一个优点——性能好。所以，Python 整合了 C/C++ 模块之后，还能趁机获得性能提升。  举个例子  比方说你要写一个 3D 游戏，其中的 3D 渲染引擎是性能瓶颈。那么你可以用 Python 整合一个 C/C++ 的 3D 渲染引擎。而 Python 只用来实现跟游戏高层应用逻辑相关的部分。这样可以一举两得：性能不差，代码不多。  顺便说一下：如今有不少游戏都走这个开发思路——底层引擎用【重型的】C 或 C++ 实现，以确保高性能；而高层的业务逻辑则用【轻型的】脚本语言来开发。   
+   3. 跟操作系统整合
+    地球上的操作系统，只要是有点名气的，内核都是 C 语言写的；除了操作系统内核，大部分操作系统的运行库也都是 C/C++ 编写的。所以，Python 跟 C/C++ 整合，可以带来第三个好处——跟操作系统的整合。关于这点，待会儿俺还会专门聊。        ◇跟 JVM（Java） 整合 
+  通过  Jython  这个开源项目，Python 可以无缝整合到 JVM 环境中。如此一来，Python 能直接调用所有 JVM 标准库（比如 JDBC）和第三方库（比如 Lucene），还可以跟各种 JVM 语言（比如“Java、Scale、Groovy”等）进行互操作。        ◇跟 dotNet 整合 
+  通过  IronPython  这个开源项目，Python 可以无缝整合到 dotNet 环境中。如此一来，Python 能直接调用所有 dotNet 的标准库（比如 ADO.NET）和第三方库，还可以跟各种 dotNet 语言（比如“C#、F#”等）进行互操作。  顺便说一下：Jython 跟 IronPython 貌似同一个作者，牛人啊！         ★功能强大之2——既可以跨平台，又可以跟操作系统深度整合 
+       ◇Python 语言如何体现“跨平台性”？ 
+  说到跨平台这个话题，俺给编程语言分一下类：  1. 可以跨平台，但无法跟操作系统深度耦合（比如 JavaScript、PHP）  2. 可以跟操作系统深度耦合，但无法跨平台（比如 VB、VBScript）  3. 既可以跨平台，又可以跟操作系统深度耦合（比如 C C++ Python）   为啥第三类语言能做到两者兼得？因为这类语言把选择权留给了程序猿——  一方面，如果程序猿遵循跨平台的开发规范，那么写出来的代码就是跨平台的；  另一方面，程序猿也可以写出跟系统耦合很紧密的代码——这样的代码虽然不能跨平台，但可以发挥特定平台的强项。  显然俺喜欢第三类编程语言，因为这类语言给了程序猿自由。        ◇Python 语言如何“与操作系统深度整合”？ 
+  Python 的跨平台特性，懂 Python 的同学估计都晓得了。所以俺单独说一下 Python 如何跟操作系统深度整合。为了照顾到大多数人，俺拿 Windows 来说事儿。  在 Python 社区有一个很有名气的库，叫做  PyWin32  。通过这个库，可以让 Python 代码很容易地调用 Windows 的 API 以及 COM 组件。  比方说，可以用 Python 代码直接操作 Windows 注册表  比方说，可以用 Python 代码直接读写 Windows 的系统日志  比方说，可以用 Python 代码直接操作某个窗口句柄  比方说，可以利用 COM 组件，直接调用 Word 来处理 doc 格式的文档  ......         ★功能强大之3——具有很丰富的第三方模块 
+  最后一个方面，也是最重要的一个方面，就是 Python 社区具有非常非常丰富的资源（第三方库），而且几乎都是开源的。形形色色的编程领域几乎都可以看到 Python 的身影。  
+   为了让众多程序员读者领略 Python 的丰富资源，俺特地整理了一个 wiki 页面
+   （请用鼠标猛击“  这里  ”），放上 Python 在各个编程领域的常用模块。为了显示出 Python 代码的简洁，某些模块还放上示例代码。  最后感叹一下：  写这篇博文只花了不到一小时，而整理这个 wiki 页面累计超过10个小时。不过这时间没白花——整理的时候顺便对某些领域有了更多的了解。这也就是写博客的好处，既可以帮助别人，又可以帮助自己。  大伙儿如果觉得俺整理的清单有遗漏，欢迎到  本页面  留言补充。     回到本系列的目录      
+
+    版权声明
+     本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者  编程随想  和本文原始地址：   https://program-think.blogspot.com/2013/02/why-choose-python-5-tools.html 
+    
+    
+  
+  
+    
+         
+    
+    
+    
+ 
+    
+  
+
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://program-think.blogspot.com/2013/02/why-choose-python-5-tools.html" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://program-think.blogspot.com/2013/02/why-choose-python-5-tools.html&title=为啥俺推荐 Python[5]：作为瑞士军刀的 Python——顺便分享俺整理的 Python 开源库&caption=
+
+      为啥俺推荐 Python[5]：作为瑞士军刀的 Python——顺便分享俺整理的 Python 开源库  
+  
+    
+      
+    
+  
+  
+本系列几乎变成年度系列了——  上一篇帖子  是去年元宵节发的。这几天正值春节假期，赶紧抽空补上本系列新的一篇，免得大伙儿以为本系列“烂尾”了。  “瑞士军刀”，大伙儿应该很熟悉，俺就不解释了。拿“瑞士军刀”来比喻 Python 就是想说明：Python 不但短小精悍，而且功能强大。今天就来介绍一下 Python 的这两个特点（尤其是后者）。 
+       
+         ★短小精悍 
+       ◇轻量级的的代码 
+  要吹嘘 Python 的轻量级，首先要吹嘘的，自然是它简洁的代码。为了让大伙儿有个初步的印象，举几个例子。   举例1  要得到100-200之间所有奇数的3次方，只需如下一行      
+      [x**3 for x in range(100, 200) if (x%2)==1]
+      
+    
+  举例2  如果要把上述结果拼成一个逗号分隔的字符串，还是只要一行      
+      ','.join([str(x**3) for x in range(100, 200) if (x%2)==1])
+      
+    
+  举例3  可能有人觉得上面2个例子是小儿科，再来举一个稍微复杂点的。只需一行代码，即可实现网络扫描（用的是第三方的  Scapy  工具）。      
+      # 传统的 ping 扫描，基于 ICMP 协议
+ans,unans = sr(IP(dst="192.168.1.1-254")/ICMP())
+# 局域网扫描，基于 ARP 协议
+ans,unans = srp(Ether(dst="ff:ff:ff:ff:ff:ff")/ARP(pdst="192.168.1.0/24"), timeout=2)
+      
+    
+       ◇轻量级的安装环境 
+  比如 Python 的安装包只有十几兆，而 Java 的 JDK 安装包动辄接近100兆。        ◇轻量级的运行环境 
+  同样是运行一个“Hello World”，用 Python 写的进程，占用的内存会更小（相比大多数其它编程语言）。而且 Python 的运行环境（Python 虚拟机）可以很方便地嵌入到 C/C++ 程序中，只需额外带一个动态库即可。         ★功能强大之1——跟非常多的语言整合 
+  很多程序员喜欢“在一棵树上吊死”——始终只用一种编程语言。俺非常反对这种倾向。要想成为一个优秀的程序员，有必要掌握【不同风格/不同范式】的编程语言。编程语言多样化的好处在于，你可以利用不同语言的特色，以取长补短。  而 Python 在跨语言整合方面，堪称佼佼者——你很难找到哪个语言，能像 Python 这样，跟如此多的语言进行整合。  下面简单举几个例子：        ◇跟 C/C++ 整合 
+  咱们常用的 Python 运行环境也称为 CPython，是用 C 语言写的。所以 Python 天生就具有跟 C/C++ 整合的能力。而且这种整合是双向的——也就是说，既可以在 Python 模块调用 C/C++ 模块，也可以在 C/C++ 模块调用 Python 模块。  Python 跟 C/C++ 整合，可以有如下三个优点：   
+   1. 丰富的第三方资源
+    因为 C/C++ 具有非常丰富的第三方模块（包括开源和闭源），其丰富程度超过 Java。所以 Python 可以利用这种整合能力，直接调用各种 C/C++ 的模块，来丰富自己的功能。  举个例子  比如 cURL 是一个C语言编写的应用层网络工具，功能非常强。而 Python 可以通过整合 cURL 直接获得 cURL 的强大功能。   
+   2. 性能的提升
+    除了第三方模块丰富，C/C++ 开发的模块还有一个优点——性能好。所以，Python 整合了 C/C++ 模块之后，还能趁机获得性能提升。  举个例子  比方说你要写一个 3D 游戏，其中的 3D 渲染引擎是性能瓶颈。那么你可以用 Python 整合一个 C/C++ 的 3D 渲染引擎。而 Python 只用来实现跟游戏高层应用逻辑相关的部分。这样可以一举两得：性能不差，代码不多。  顺便说一下：如今有不少游戏都走这个开发思路——底层引擎用【重型的】C 或 C++ 实现，以确保高性能；而高层的业务逻辑则用【轻型的】脚本语言来开发。   
+   3. 跟操作系统整合
+    地球上的操作系统，只要是有点名气的，内核都是 C 语言写的；除了操作系统内核，大部分操作系统的运行库也都是 C/C++ 编写的。所以，Python 跟 C/C++ 整合，可以带来第三个好处——跟操作系统的整合。关于这点，待会儿俺还会专门聊。        ◇跟 JVM（Java） 整合 
+  通过  Jython  这个开源项目，Python 可以无缝整合到 JVM 环境中。如此一来，Python 能直接调用所有 JVM 标准库（比如 JDBC）和第三方库（比如 Lucene），还可以跟各种 JVM 语言（比如“Java、Scale、Groovy”等）进行互操作。        ◇跟 dotNet 整合 
+  通过  IronPython  这个开源项目，Python 可以无缝整合到 dotNet 环境中。如此一来，Python 能直接调用所有 dotNet 的标准库（比如 ADO.NET）和第三方库，还可以跟各种 dotNet 语言（比如“C#、F#”等）进行互操作。  顺便说一下：Jython 跟 IronPython 貌似同一个作者，牛人啊！         ★功能强大之2——既可以跨平台，又可以跟操作系统深度整合 
+       ◇Python 语言如何体现“跨平台性”？ 
+  说到跨平台这个话题，俺给编程语言分一下类：  1. 可以跨平台，但无法跟操作系统深度耦合（比如 JavaScript、PHP）  2. 可以跟操作系统深度耦合，但无法跨平台（比如 VB、VBScript）  3. 既可以跨平台，又可以跟操作系统深度耦合（比如 C C++ Python）   为啥第三类语言能做到两者兼得？因为这类语言把选择权留给了程序猿——  一方面，如果程序猿遵循跨平台的开发规范，那么写出来的代码就是跨平台的；  另一方面，程序猿也可以写出跟系统耦合很紧密的代码——这样的代码虽然不能跨平台，但可以发挥特定平台的强项。  显然俺喜欢第三类编程语言，因为这类语言给了程序猿自由。        ◇Python 语言如何“与操作系统深度整合”？ 
+  Python 的跨平台特性，懂 Python 的同学估计都晓得了。所以俺单独说一下 Python 如何跟操作系统深度整合。为了照顾到大多数人，俺拿 Windows 来说事儿。  在 Python 社区有一个很有名气的库，叫做  PyWin32  。通过这个库，可以让 Python 代码很容易地调用 Windows 的 API 以及 COM 组件。  比方说，可以用 Python 代码直接操作 Windows 注册表  比方说，可以用 Python 代码直接读写 Windows 的系统日志  比方说，可以用 Python 代码直接操作某个窗口句柄  比方说，可以利用 COM 组件，直接调用 Word 来处理 doc 格式的文档  ......         ★功能强大之3——具有很丰富的第三方模块 
+  最后一个方面，也是最重要的一个方面，就是 Python 社区具有非常非常丰富的资源（第三方库），而且几乎都是开源的。形形色色的编程领域几乎都可以看到 Python 的身影。  
+   为了让众多程序员读者领略 Python 的丰富资源，俺特地整理了一个 wiki 页面
+   （请用鼠标猛击“  这里  ”），放上 Python 在各个编程领域的常用模块。为了显示出 Python 代码的简洁，某些模块还放上示例代码。  最后感叹一下：  写这篇博文只花了不到一小时，而整理这个 wiki 页面累计超过10个小时。不过这时间没白花——整理的时候顺便对某些领域有了更多的了解。这也就是写博客的好处，既可以帮助别人，又可以帮助自己。  大伙儿如果觉得俺整理的清单有遗漏，欢迎到  本页面  留言补充。     回到本系列的目录      
+
+    版权声明
+     本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者  编程随想  和本文原始地址：   https://program-think.blogspot.com/2013/02/why-choose-python-5-tools.html 
+    
+    
+  
+  
+    
+         
+    
+    
+    
+ 
+    
+  
+
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=为啥俺推荐 Python[5]：作为瑞士军刀的 Python——顺便分享俺整理的 Python 开源库&url=https://program-think.blogspot.com/2013/02/why-choose-python-5-tools.html" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>为啥俺推荐 Python[5]：作为瑞士军刀的 Python——顺便分享俺整理的 Python 开源库</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2013-02-16
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#编程随想">
+          编程随想
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://program-think.blogspot.com/2013/02/why-choose-python-5-tools.html" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="编程随想的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#编程随想 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <div class="post hentry uncustomized-post-template">
+<a name="6378761680644652427">
+ </a>   <h1 class="post-title entry-title" id="python5-python-python---"> <a href="https://program-think.blogspot.com/2013/02/why-choose-python-5-tools.html"> 为啥俺推荐 Python[5]：作为瑞士军刀的 Python——顺便分享俺整理的 Python 开源库 </a> </h1>
+  <div class="post-header">
+    <div class="post-header-line-1">
+      <div class="post-inner-index"></div>
+    </div>
+  </div>
+  <div class="post-body entry-content">
+本系列几乎变成年度系列了—— <a href="https://program-think.blogspot.com/2012/02/why-choose-python-4-fp.html"> 上一篇帖子 </a> 是去年元宵节发的。这几天正值春节假期，赶紧抽空补上本系列新的一篇，免得大伙儿以为本系列“烂尾”了。 <br /> “瑞士军刀”，大伙儿应该很熟悉，俺就不解释了。拿“瑞士军刀”来比喻 Python 就是想说明：Python 不但短小精悍，而且功能强大。今天就来介绍一下 Python 的这两个特点（尤其是后者）。 <a name="more">
+  </a>     <!--program-think-->
+ <br /> <br /> <br />     <h2 id="section"> ★短小精悍 </h2>
+ <br />     <h3 id="section-1"> ◇轻量级的的代码 </h3>
+ <br /> 要吹嘘 Python 的轻量级，首先要吹嘘的，自然是它简洁的代码。为了让大伙儿有个初步的印象，举几个例子。 <br /> <br /> 举例1 <br /> 要得到100-200之间所有奇数的3次方，只需如下一行 <br />     <div class="source">
+      <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>[x**3 for x in range(100, 200) if (x%2)==1]
+</code></pre></div>      </div>
+    </div>
+ <br /> 举例2 <br /> 如果要把上述结果拼成一个逗号分隔的字符串，还是只要一行 <br />     <div class="source">
+      <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>','.join([str(x**3) for x in range(100, 200) if (x%2)==1])
+</code></pre></div>      </div>
+    </div>
+ <br /> 举例3 <br /> 可能有人觉得上面2个例子是小儿科，再来举一个稍微复杂点的。只需一行代码，即可实现网络扫描（用的是第三方的 <a href="http://www.secdev.org/projects/scapy/" rel="nofollow" target="_blank"> Scapy </a> 工具）。 <br />     <div class="source">
+      <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code># 传统的 ping 扫描，基于 ICMP 协议
+ans,unans = sr(IP(dst="192.168.1.1-254")/ICMP())
+# 局域网扫描，基于 ARP 协议
+ans,unans = srp(Ether(dst="ff:ff:ff:ff:ff:ff")/ARP(pdst="192.168.1.0/24"), timeout=2)
+</code></pre></div>      </div>
+    </div>
+ <br />     <h3 id="section-2"> ◇轻量级的安装环境 </h3>
+ <br /> 比如 Python 的安装包只有十几兆，而 Java 的 JDK 安装包动辄接近100兆。 <br /> <br />     <h3 id="section-3"> ◇轻量级的运行环境 </h3>
+ <br /> 同样是运行一个“Hello World”，用 Python 写的进程，占用的内存会更小（相比大多数其它编程语言）。而且 Python 的运行环境（Python 虚拟机）可以很方便地嵌入到 C/C++ 程序中，只需额外带一个动态库即可。 <br /> <br /> <br />     <h2 id="section-4"> ★功能强大之1——跟非常多的语言整合 </h2>
+ <br /> 很多程序员喜欢“在一棵树上吊死”——始终只用一种编程语言。俺非常反对这种倾向。要想成为一个优秀的程序员，有必要掌握【不同风格/不同范式】的编程语言。编程语言多样化的好处在于，你可以利用不同语言的特色，以取长补短。 <br /> 而 Python 在跨语言整合方面，堪称佼佼者——你很难找到哪个语言，能像 Python 这样，跟如此多的语言进行整合。 <br /> 下面简单举几个例子： <br /> <br />     <h3 id="cc--"> ◇跟 C/C++ 整合 </h3>
+ <br /> 咱们常用的 Python 运行环境也称为 CPython，是用 C 语言写的。所以 Python 天生就具有跟 C/C++ 整合的能力。而且这种整合是双向的——也就是说，既可以在 Python 模块调用 C/C++ 模块，也可以在 C/C++ 模块调用 Python 模块。 <br /> Python 跟 C/C++ 整合，可以有如下三个优点： <br /> <br /> <b>
+   1. 丰富的第三方资源
+  </b> <br /> 因为 C/C++ 具有非常丰富的第三方模块（包括开源和闭源），其丰富程度超过 Java。所以 Python 可以利用这种整合能力，直接调用各种 C/C++ 的模块，来丰富自己的功能。 <br /> 举个例子 <br /> 比如 cURL 是一个C语言编写的应用层网络工具，功能非常强。而 Python 可以通过整合 cURL 直接获得 cURL 的强大功能。 <br /> <br /> <b>
+   2. 性能的提升
+  </b> <br /> 除了第三方模块丰富，C/C++ 开发的模块还有一个优点——性能好。所以，Python 整合了 C/C++ 模块之后，还能趁机获得性能提升。 <br /> 举个例子 <br /> 比方说你要写一个 3D 游戏，其中的 3D 渲染引擎是性能瓶颈。那么你可以用 Python 整合一个 C/C++ 的 3D 渲染引擎。而 Python 只用来实现跟游戏高层应用逻辑相关的部分。这样可以一举两得：性能不差，代码不多。 <br /> 顺便说一下：如今有不少游戏都走这个开发思路——底层引擎用【重型的】C 或 C++ 实现，以确保高性能；而高层的业务逻辑则用【轻型的】脚本语言来开发。 <br /> <br /> <b>
+   3. 跟操作系统整合
+  </b> <br /> 地球上的操作系统，只要是有点名气的，内核都是 C 语言写的；除了操作系统内核，大部分操作系统的运行库也都是 C/C++ 编写的。所以，Python 跟 C/C++ 整合，可以带来第三个好处——跟操作系统的整合。关于这点，待会儿俺还会专门聊。 <br /> <br />     <h3 id="jvmjava--"> ◇跟 JVM（Java） 整合 </h3>
+ <br /> 通过 <a href="http://www.jython.org/" rel="nofollow" target="_blank"> Jython </a> 这个开源项目，Python 可以无缝整合到 JVM 环境中。如此一来，Python 能直接调用所有 JVM 标准库（比如 JDBC）和第三方库（比如 Lucene），还可以跟各种 JVM 语言（比如“Java、Scale、Groovy”等）进行互操作。 <br /> <br />     <h3 id="dotnet--"> ◇跟 dotNet 整合 </h3>
+ <br /> 通过 <a href="http://ironpython.net/" rel="nofollow" target="_blank"> IronPython </a> 这个开源项目，Python 可以无缝整合到 dotNet 环境中。如此一来，Python 能直接调用所有 dotNet 的标准库（比如 ADO.NET）和第三方库，还可以跟各种 dotNet 语言（比如“C#、F#”等）进行互操作。 <br /> 顺便说一下：Jython 跟 IronPython 貌似同一个作者，牛人啊！ <br /> <br /> <br />     <h2 id="section-5"> ★功能强大之2——既可以跨平台，又可以跟操作系统深度整合 </h2>
+ <br />     <h3 id="python--"> ◇Python 语言如何体现“跨平台性”？ </h3>
+ <br /> 说到跨平台这个话题，俺给编程语言分一下类： <br /> 1. 可以跨平台，但无法跟操作系统深度耦合（比如 JavaScript、PHP） <br /> 2. 可以跟操作系统深度耦合，但无法跨平台（比如 VB、VBScript） <br /> 3. 既可以跨平台，又可以跟操作系统深度耦合（比如 C C++ Python） <br /> <br /> 为啥第三类语言能做到两者兼得？因为这类语言把选择权留给了程序猿—— <br /> 一方面，如果程序猿遵循跨平台的开发规范，那么写出来的代码就是跨平台的； <br /> 另一方面，程序猿也可以写出跟系统耦合很紧密的代码——这样的代码虽然不能跨平台，但可以发挥特定平台的强项。 <br /> 显然俺喜欢第三类编程语言，因为这类语言给了程序猿自由。 <br /> <br />     <h3 id="python---1"> ◇Python 语言如何“与操作系统深度整合”？ </h3>
+ <br /> Python 的跨平台特性，懂 Python 的同学估计都晓得了。所以俺单独说一下 Python 如何跟操作系统深度整合。为了照顾到大多数人，俺拿 Windows 来说事儿。 <br /> 在 Python 社区有一个很有名气的库，叫做 <a href="http://sourceforge.net/projects/pywin32/" rel="nofollow" target="_blank"> PyWin32 </a> 。通过这个库，可以让 Python 代码很容易地调用 Windows 的 API 以及 COM 组件。 <br /> 比方说，可以用 Python 代码直接操作 Windows 注册表 <br /> 比方说，可以用 Python 代码直接读写 Windows 的系统日志 <br /> 比方说，可以用 Python 代码直接操作某个窗口句柄 <br /> 比方说，可以利用 COM 组件，直接调用 Word 来处理 doc 格式的文档 <br /> ...... <br /> <br /> <br />     <h2 id="section-6"> ★功能强大之3——具有很丰富的第三方模块 </h2>
+ <br /> 最后一个方面，也是最重要的一个方面，就是 Python 社区具有非常非常丰富的资源（第三方库），而且几乎都是开源的。形形色色的编程领域几乎都可以看到 Python 的身影。 <br /> <b>
+   为了让众多程序员读者领略 Python 的丰富资源，俺特地整理了一个 wiki 页面
+  </b> （请用鼠标猛击“ <a href="https://github.com/programthink/opensource/blob/master/libs/python.wiki" target="_blank"> 这里 </a> ”），放上 Python 在各个编程领域的常用模块。为了显示出 Python 代码的简洁，某些模块还放上示例代码。 <br /> 最后感叹一下： <br /> 写这篇博文只花了不到一小时，而整理这个 wiki 页面累计超过10个小时。不过这时间没白花——整理的时候顺便对某些领域有了更多的了解。这也就是写博客的好处，既可以帮助别人，又可以帮助自己。 <br /> 大伙儿如果觉得俺整理的清单有遗漏，欢迎到 <a href="https://program-think.blogspot.com/2013/02/why-choose-python-5-tools.html"> 本页面 </a> 留言补充。 <br /> <br /> <br /> <a href="https://program-think.blogspot.com/2009/08/why-choose-python-0-overview.html#index"> 回到本系列的目录 </a>     <div class="post-copyright">
+<b>
+    版权声明
+   </b> <br /> 本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者 <a href="mailto:program.think@gmail.com"> 编程随想 </a> 和本文原始地址： <br /> <a href="https://program-think.blogspot.com/2013/02/why-choose-python-5-tools.html" id="OriginalPostUrl"> https://program-think.blogspot.com/2013/02/why-choose-python-5-tools.html </a>
+    </div>
+    <div style="clear: both;"></div>
+  </div>
+  <div class="post-footer" style="margin-bottom:50px;">
+    <div class="post-footer-line post-footer-line-1" style="display:none;">
+<span class="post-author vcard"> </span> <span class="reaction-buttons"> </span> <span class="star-ratings"> </span> <span class="post-icons"> </span> <span class="post-backlinks post-comment-link"> </span>
+    </div>
+    <div class="post-footer-line post-footer-line-2 post-toolbar"></div>
+    <div class="post-footer-line post-footer-line-3">
+<span class="post-location"> </span>
+    </div>
+  </div>
+</div>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#编程随想 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2021-05-09/%E5%88%86%E4%BA%AB%E5%90%84%E7%B1%BB%E7%94%B5%E5%AD%90%E4%B9%A6-%E6%94%BF%E6%B2%BB-IT-%E7%A7%91%E6%99%AE-%E5%8E%86%E5%8F%B2-%E7%AD%89-97%E6%9C%AC/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-01-15/%E5%8D%9A%E5%AE%A2%E5%BC%80%E5%BC%A0%E5%8F%8A%E6%9C%AC%E5%8D%9A%E5%AE%A2%E5%86%85%E5%AE%B9%E7%AE%80%E4%BB%8B/">最早</a>--</span>
+    
+      <li>
+        <time>2013-02-21</time>
+        <a href="https://nodebe4.github.io/opinion/2013-02-21/%E5%BD%B1%E8%AF%84-%E8%8B%8F%E7%BB%B4%E5%9F%83%E5%BE%80%E4%BA%8B-%E5%B8%AE%E4%BD%A0%E7%9C%8B%E6%B8%85%E8%8B%8F%E8%81%94%E5%92%8C%E7%BA%B3%E7%B2%B9%E7%9A%84%E5%85%B1%E5%90%8C%E6%9C%AC%E8%B4%A8/">
+          影评：《苏维埃往事》——帮你看清苏联和纳粹的共同本质
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2013-02-18</time>
+        <a href="https://nodebe4.github.io/opinion/2013-02-18/%E6%AF%8F%E5%91%A8%E8%BD%AC%E8%BD%BD-%E5%85%B3%E4%BA%8E%E6%9C%9D%E9%B2%9C%E6%A0%B8%E8%AF%95%E9%AA%8C-%E7%BD%91%E6%96%877%E7%AF%87-%E8%AF%84%E8%AE%BA%E8%8B%A5%E5%B9%B2/">
+          每周转载：关于朝鲜核试验（网文7篇，评论若干）
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2013-02-12</time>
+        <a href="https://nodebe4.github.io/opinion/2013-02-12/%E6%89%AB%E7%9B%B2%E6%96%87%E4%BB%B6%E5%AE%8C%E6%95%B4%E6%80%A7%E6%A0%A1%E9%AA%8C-%E5%85%B3%E4%BA%8E%E6%95%A3%E5%88%97%E5%80%BC%E5%92%8C%E6%95%B0%E5%AD%97%E7%AD%BE%E5%90%8D/">
+          扫盲文件完整性校验——关于散列值和数字签名
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2013-02-07</time>
+        <a href="https://nodebe4.github.io/opinion/2013-02-07/%E5%88%86%E4%BA%AB%E5%8E%86%E5%8F%B2%E7%B1%BB%E7%94%B5%E5%AD%90%E4%B9%A6-9%E6%9C%AC-%E5%A2%9E%E5%8A%A0-%E5%8E%86%E5%8F%B2-%E5%A4%A7%E7%B1%BB/">
+          分享历史类电子书（9本）——增加“历史”大类
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2013-02-12/%E6%89%AB%E7%9B%B2%E6%96%87%E4%BB%B6%E5%AE%8C%E6%95%B4%E6%80%A7%E6%A0%A1%E9%AA%8C-%E5%85%B3%E4%BA%8E%E6%95%A3%E5%88%97%E5%80%BC%E5%92%8C%E6%95%B0%E5%AD%97%E7%AD%BE%E5%90%8D/">
+            前一篇：扫盲文件完整性校验——关于散列值和数字签名
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2013-02-18/%E4%B8%AD%E5%9B%BD%E5%B7%B2%E6%88%90-%E4%B8%AD%E4%BA%9A%E5%B8%9D%E5%9B%BD/">
+            後一篇：中国已成“中亚帝国”？
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2013-02-12/%E6%89%AB%E7%9B%B2%E6%96%87%E4%BB%B6%E5%AE%8C%E6%95%B4%E6%80%A7%E6%A0%A1%E9%AA%8C-%E5%85%B3%E4%BA%8E%E6%95%A3%E5%88%97%E5%80%BC%E5%92%8C%E6%95%B0%E5%AD%97%E7%AD%BE%E5%90%8D/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2013-02-18/%E4%B8%AD%E5%9B%BD%E5%B7%B2%E6%88%90-%E4%B8%AD%E4%BA%9A%E5%B8%9D%E5%9B%BD/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2013-02-18/%E6%AF%8F%E5%91%A8%E8%BD%AC%E8%BD%BD-%E5%85%B3%E4%BA%8E%E6%9C%9D%E9%B2%9C%E6%A0%B8%E8%AF%95%E9%AA%8C-%E7%BD%91%E6%96%877%E7%AF%87-%E8%AF%84%E8%AE%BA%E8%8B%A5%E5%B9%B2/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2013-02-12/%E6%89%AB%E7%9B%B2%E6%96%87%E4%BB%B6%E5%AE%8C%E6%95%B4%E6%80%A7%E6%A0%A1%E9%AA%8C-%E5%85%B3%E4%BA%8E%E6%95%A3%E5%88%97%E5%80%BC%E5%92%8C%E6%95%B0%E5%AD%97%E7%AD%BE%E5%90%8D/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2013-02-12/%E6%89%AB%E7%9B%B2%E6%96%87%E4%BB%B6%E5%AE%8C%E6%95%B4%E6%80%A7%E6%A0%A1%E9%AA%8C-%E5%85%B3%E4%BA%8E%E6%95%A3%E5%88%97%E5%80%BC%E5%92%8C%E6%95%B0%E5%AD%97%E7%AD%BE%E5%90%8D/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2013-02-18/%E4%B8%AD%E5%9B%BD%E5%B7%B2%E6%88%90-%E4%B8%AD%E4%BA%9A%E5%B8%9D%E5%9B%BD/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<编程随想>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2013-02-18/%E6%AF%8F%E5%91%A8%E8%BD%AC%E8%BD%BD-%E5%85%B3%E4%BA%8E%E6%9C%9D%E9%B2%9C%E6%A0%B8%E8%AF%95%E9%AA%8C-%E7%BD%91%E6%96%877%E7%AF%87-%E8%AF%84%E8%AE%BA%E8%8B%A5%E5%B9%B2/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<编程随想>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2013-02-12/%E6%89%AB%E7%9B%B2%E6%96%87%E4%BB%B6%E5%AE%8C%E6%95%B4%E6%80%A7%E6%A0%A1%E9%AA%8C-%E5%85%B3%E4%BA%8E%E6%95%A3%E5%88%97%E5%80%BC%E5%92%8C%E6%95%B0%E5%AD%97%E7%AD%BE%E5%90%8D/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

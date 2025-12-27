@@ -1,0 +1,1509 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>我爱 xxx - 立大一期舞台剧 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+  编者注：我爱 xxx 优酷播放地址
+
+" />
+    <meta property="og:description" content="
+  编者注：我爱 xxx 优酷播放地址
+
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="我爱 xxx - 立大一期舞台剧" />
+    <meta property="twitter:title" content="我爱 xxx - 立大一期舞台剧" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fnodebe4.github.io%2Fopinion%2F2011-07-09%2FI-love-xxx%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://nodebe4.github.io/opinion/2011-07-09/I-love-xxx/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://nodebe4.github.io/opinion/2011-07-09/I-love-xxx/&text=觀點-從草根到大師 git.io/JJCxS&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://nodebe4.github.io/opinion/2011-07-09/I-love-xxx/&title=觀點-從草根到大師 git.io/JJCxS" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://nodebe4.github.io/opinion/2011-07-09/I-love-xxx/&title=觀點-從草根到大師 git.io/JJCxS" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=觀點-從草根到大師 git.io/JJCxS&body=
+  编者注：我爱 xxx 优酷播放地址
+
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://nodebe4.github.io/opinion/2011-07-09/I-love-xxx/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://nodebe4.github.io/opinion/2011-07-09/I-love-xxx/&title=觀點-從草根到大師 git.io/JJCxS&caption=
+  编者注：我爱 xxx 优酷播放地址
+
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=觀點-從草根到大師 git.io/JJCxS&url=https://nodebe4.github.io/opinion/2011-07-09/I-love-xxx/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>我爱 xxx - 立大一期舞台剧</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2011-07-09
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: 徐会坛/费玮</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#立人大学">
+          立人大学
+        </a>
+      </li>
+    </ul>
+
+    
+
+    <span style="float: right;" title="立大一期的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#立人大学 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+      <iframe id="player-" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/" frameborder="0" allowfullscreen></iframe>
+    
+    <blockquote>
+  <p>编者注：<a href="http://v.youku.com/v_show/id_XMzAyMTQ1ODE2.html">我爱 xxx 优酷播放地址</a></p>
+</blockquote>
+
+<h3 id="第一部分">第一部分</h3>
+
+<p>【舞台】</p>
+
+<p>椅子若干，在舞台正中稍靠后处排成行；灯光由暗至亮；众人佩红领巾，站成一排，面向观众。</p>
+
+<p>【台词】</p>
+
+<p><strong>众</strong>：</p>
+
+<p>我爱光</p>
+
+<p>我爱于是便有了光</p>
+
+<p>我爱你</p>
+
+<p>我爱于是便有了你</p>
+
+<p>我爱我自己</p>
+
+<p>我爱于是便有了我自己</p>
+
+<p><strong>A</strong>：</p>
+
+<p>我爱二〇一一年</p>
+
+<p><strong>B</strong>：</p>
+
+<p>我爱二〇一一年的七月骄阳</p>
+
+<p><strong>C</strong>：</p>
+
+<p>我爱二〇一一年这个美丽新人生的开始</p>
+
+<p><strong>众</strong>：</p>
+
+<p>我爱二〇一一年这个无忧无虑的青春、这个摆脱重负的青春、这个异常快乐的青春、这个踌躇满志的青春</p>
+
+<p><strong>众</strong>：</p>
+
+<p>我爱二〇一一年阳光普照大地</p>
+
+<p>我爱二〇一一年汗水湿透衣服</p>
+
+<p>我爱二〇一一年的阳光汗水立人大学的美丽新人生</p>
+
+<p>我爱二〇一一年的七月</p>
+
+<p>我爱二〇一一年七月的光辉荣耀和富于浪漫的气息</p>
+
+<p>我爱二〇一一年七月的所有时间，上午下午晚上深夜一点两点三点四点</p>
+
+<p>我爱二〇一一年七月的每个地点，课室、宿舍、图书馆、蕲水畔、黄侃墓、蓬莱农家菜馆</p>
+
+<p>我爱二〇一一年七月的全部人物，×××</p>
+
+<p>我爱二〇一一年七月的时间地点人物事件起因结果</p>
+
+<p>我爱二〇一一年二〇一一年</p>
+
+<p>我爱二〇一一年的七月骄阳</p>
+
+<p>我爱二〇一一年这个美丽新人生的开始</p>
+
+<p>我爱二〇一一年这个美丽新人生开始时，那些导师们来了、那些导师们都来了、那些导师们全都来了</p>
+
+<p><strong>A</strong>：</p>
+
+<p>我爱《民主的细节》的刘瑜来了</p>
+
+<p><strong>C</strong>：</p>
+
+<p>我爱主讲比较政治学的张健来了</p>
+
+<p><strong>E</strong>：</p>
+
+<p>我爱在南周做干部的方可成来了</p>
+
+<p><strong>G</strong>：</p>
+
+<p>我爱 99 年国际大专辩论赛的最佳辩手郭宇宽来了</p>
+
+<p><strong>B</strong>：</p>
+
+<p>我爱多背一公斤的安猪来了</p>
+
+<p><strong>D</strong>：</p>
+
+<p>我爱《重新发现社会》的熊培云来了</p>
+
+<p><strong>F</strong>：</p>
+
+<p>我爱胡适传人的林建刚来了</p>
+
+<p><strong>H</strong>：</p>
+
+<p>我爱主讲传统文化与宪政转型的秋风来了</p>
+
+<p><strong>A</strong>：</p>
+
+<p>我爱提倡纯粹市场经济的李子旸来了</p>
+
+<p><strong>D</strong>：</p>
+
+<p>我爱《制度经济学研究》的刘业进来了</p>
+
+<p><strong>H</strong>：</p>
+
+<p>我爱莫大侠莫志宏来了</p>
+
+<p><strong>B</strong>：</p>
+
+<p>我爱讲自由、法律与道德的朱海就来了</p>
+
+<p><strong>G</strong>：</p>
+
+<p>我爱抢救历史记忆的徐友渔来了</p>
+
+<p><strong>众</strong>：</p>
+
+<p>我爱那些导师们来了那些导师们来了那些导师们都来了</p>
+
+<p>我爱这是一个导师们来了我们开始新思想的七月</p>
+
+<p>【舞台】</p>
+
+<p>灯渐熄，播放轻音乐（孟京辉原剧的演员「啦……」）。</p>
+
+<h3 id="第二部分">第二部分</h3>
+
+<p>【舞台】</p>
+
+<p>轻音乐始终没停；演员坐在椅子上；（投影打在幕布上）。</p>
+
+<p>【台词】</p>
+
+<p><strong>众</strong>：</p>
+
+<p>我爱这一切都发生过</p>
+
+<p>我爱这一切从来都没有发生</p>
+
+<p>我爱那些荒唐的现实没有发生</p>
+
+<p>我爱那些可恶的预言没有发生</p>
+
+<p><strong>A</strong>：</p>
+
+<p>我爱第一次世界大战没有发生</p>
+
+<p><strong>H</strong>：</p>
+
+<p>我爱第二次世界大战没有发生</p>
+
+<p><strong>B</strong>：</p>
+
+<p>我爱第三次世界大战没有发生</p>
+
+<p><strong>G</strong>：</p>
+
+<p>我爱第十次世界大战没有发生</p>
+
+<p><strong>C</strong>：</p>
+
+<p>我爱刺杀大公没有发生</p>
+
+<p><strong>F</strong>：</p>
+
+<p>我爱虐待战俘没有发生</p>
+
+<p><strong>D</strong>：</p>
+
+<p>我爱哈雷彗星照耀地球没有发生</p>
+
+<p><strong>E</strong>：</p>
+
+<p>我爱 1000 万人死于战争 2000 万人死于流行性感冒没有发生</p>
+
+<p><strong>A</strong>：</p>
+
+<p>我爱容克式轰炸原子弹方程式没有发生</p>
+
+<p><strong>B</strong>：</p>
+
+<p>我爱无政府的发明有政府的发明多政府的发明没有发生</p>
+
+<p><strong>C</strong>：</p>
+
+<p>我爱毒气的使用时代没有发生</p>
+
+<p><strong>D</strong>：</p>
+
+<p>我爱科学的流水线时代没有发生</p>
+
+<p><strong>E</strong>：</p>
+
+<p>我爱珍珠港狂欢广岛狂欢集中营狂欢没有发生</p>
+
+<p><strong>F</strong>：</p>
+
+<p>我爱托洛茨基流亡没有发生</p>
+
+<p><strong>G</strong>：</p>
+
+<p>我爱莫斯科大审判没有发生</p>
+
+<p><strong>H</strong>：</p>
+
+<p>我爱教皇离开梵蒂冈没有发生</p>
+
+<p><strong>G</strong>：</p>
+
+<p>我爱阿拉伯暴乱者反对犹太人没有发生</p>
+
+<p><strong>F</strong>：</p>
+
+<p>我爱建立柏林墙建立巴黎墙建立朝鲜墙建立伦敦墙没有发生</p>
+
+<p><strong>E</strong>：</p>
+
+<p>我爱成千上万破产者跳楼自杀没有发生</p>
+
+<p><strong>D</strong>：</p>
+
+<p>我爱提高工资就停止罢工的罢工没有发生</p>
+
+<p><strong>C</strong>：</p>
+
+<p>我爱禁止女选手穿比基尼泳装参加温布尔登网球赛没有发生</p>
+
+<p><strong>B</strong>：</p>
+
+<p>我爱著名爱情诗人徐志摩的回途中飞机失事火车失事手术失事没有发生</p>
+
+<p><strong>A</strong>：</p>
+
+<p>我爱发明磺胺发明青霉素发明链霉素发明可的松发明促肾上腺皮质激素发明没有发生</p>
+
+<p><strong>众</strong>：</p>
+
+<p>我爱禁止学生在学校办公楼洗手间如厕没有发生</p>
+
+<p>我爱青石镇的爸爸妈妈外出打工孩子老人孤独相守没有发生</p>
+
+<p>【舞台】</p>
+
+<p>轮第二遍台词时，演员一次站起，跨前站成阵型；灯暗。</p>
+
+<p>【台词】</p>
+
+<p><strong>众</strong>：</p>
+
+<p>（杂乱）我爱光（停顿，灯重新开始亮）</p>
+
+<p><strong>女</strong>：</p>
+
+<p>我爱光</p>
+
+<p>我爱于是便有了光</p>
+
+<p>我爱你（每个女演员配对一个男演员）</p>
+
+<p>我爱于是便有了你</p>
+
+<p>我爱我自己</p>
+
+<p>我爱于是便有了我自己（重复一遍，这时男演员与其混合）</p>
+
+<p>【舞台】</p>
+
+<p>说完最后一句台词后，忽然一首快节奏音乐响起，演员们摘下红领巾，或扔在地上，或踩在脚下，或撕裂……并跳起舞来，疯狂了。舞台渐黑，音乐渐弱。</p>
+
+<h3 id="第三部分">第三部分</h3>
+
+<p>【舞台】</p>
+
+<p>灯亮；A站在台前看书，其余人坐在台后；A一直处于台前，不参与以下台词；以下台词由B领读一句，其余人跟读一句，像课堂老师领学生跟读一样；跟读的人坐在台后的座位上，手放在背后。</p>
+
+<p>【台词】</p>
+
+<p>我爱祖国</p>
+
+<p>我爱人民</p>
+
+<p>我爱老师</p>
+
+<p>我爱同学</p>
+
+<p>我爱集体</p>
+
+<p>我爱荣誉</p>
+
+<p>我爱文明</p>
+
+<p>我爱礼貌</p>
+
+<p>我爱学习</p>
+
+<p>我爱劳动</p>
+
+<p>我爱科学</p>
+
+<p>我爱公物</p>
+
+<p>我爱四化</p>
+
+<p>我爱政治</p>
+
+<p>我爱纪律</p>
+
+<p>我爱组织</p>
+
+<p>我爱秩序</p>
+
+<p>我爱道德</p>
+
+<p>我爱清洁</p>
+
+<p>我爱卫生</p>
+
+<p>我爱锻炼</p>
+
+<p>我爱听写</p>
+
+<p>我爱值日</p>
+
+<p>我爱祖国</p>
+
+<p>我爱人民（以下齐读，除非有特别规定外）</p>
+
+<p>我爱政治</p>
+
+<p>我爱纪律</p>
+
+<p><strong>C</strong>：</p>
+
+<p>我爱没纪律（站起说此句，完了就站着，不发声，以此类推）</p>
+
+<p>我爱组织</p>
+
+<p>我爱原则</p>
+
+<p><strong>D</strong>：</p>
+
+<p>我爱没原则</p>
+
+<p>我爱秩序</p>
+
+<p>我爱道德</p>
+
+<p><strong>E</strong>：</p>
+
+<p>我爱不道德</p>
+
+<p>我爱清洁</p>
+
+<p>我爱卫生</p>
+
+<p><strong>F</strong>：</p>
+
+<p>我爱不卫生</p>
+
+<p><strong>G</strong>：</p>
+
+<p>我爱听写</p>
+
+<p>我爱值日</p>
+
+<p>我爱锻炼</p>
+
+<p><strong>众</strong>：</p>
+
+<p>我爱锻炼（以下广播操场景，边做操边念词）</p>
+
+<p><strong>A</strong>：</p>
+
+<p>我爱海魂衫</p>
+
+<p><strong>B</strong>：</p>
+
+<p>我爱回力鞋</p>
+
+<p><strong>C</strong>：</p>
+
+<p>我爱新浪微博</p>
+
+<p><strong>D</strong>：</p>
+
+<p>我爱豆瓣社区</p>
+
+<p><strong>E</strong>：</p>
+
+<p>我爱葫芦兄弟</p>
+
+<p><strong>F</strong>：</p>
+
+<p>我爱宇宙英雄奥特曼</p>
+
+<p><strong>G</strong>：</p>
+
+<p>我爱唐诗三百首</p>
+
+<p>我爱宋词四百首</p>
+
+<p>我爱元曲五百首</p>
+
+<p><strong>H</strong>：</p>
+
+<p>我爱期中考试期末考试初中考试高中考试</p>
+
+<p><strong>F</strong>：</p>
+
+<p>我爱旅游何处不销魂</p>
+
+<p><strong>D</strong>：</p>
+
+<p>我爱古代的现代的东方的西方的保守的偏激的言论在我的大脑里杂交</p>
+
+<p><strong>B</strong>：</p>
+
+<p>我爱张艺谋； 我爱斯皮尔伯格</p>
+
+<p><strong>A</strong>：</p>
+
+<p>我爱拙政园的门票从五毛钱涨到四十元</p>
+
+<p><strong>C</strong>：</p>
+
+<p>我爱克隆</p>
+
+<p>我爱克隆人</p>
+
+<p><strong>E</strong>：</p>
+
+<p>我爱两个一模一样的我在四个一模一样的妈妈怀里，看着八个一模一样的爸爸，听着七十二个一模一样的奶奶在讲故事</p>
+
+<p><strong>G</strong>：</p>
+
+<p>我爱老师，但我更爱真理； 我爱知识，但我更爱主义</p>
+
+<p><strong>A</strong>：</p>
+
+<p>我爱现实主义</p>
+
+<p><strong>B</strong>：</p>
+
+<p>我爱现代主义</p>
+
+<p><strong>C</strong>：</p>
+
+<p>我爱后现代主义</p>
+
+<p><strong>D</strong>：</p>
+
+<p>我爱古典主义</p>
+
+<p><strong>E</strong>：</p>
+
+<p>我爱浪漫主义</p>
+
+<p><strong>F</strong>：</p>
+
+<p>我爱表现主义</p>
+
+<p><strong>G</strong>：</p>
+
+<p>我爱象征主义</p>
+
+<p><strong>H</strong>：</p>
+
+<p>我爱存在主义</p>
+
+<p><strong>众</strong>：</p>
+
+<p>我爱×××主义与现实主义相结合（七嘴八舌，大打出手）</p>
+
+<p>我爱×××主义（忽然停，看着B）</p>
+
+<p><strong>B</strong>：</p>
+
+<p>我爱集体主义（排队，总排不好；总排好了）</p>
+
+<p><strong>B</strong>：</p>
+
+<p>我爱集体舞</p>
+
+<p><strong>AB</strong>：</p>
+
+<p>我爱集体舞那个时代</p>
+
+<p>我爱集体舞这个时代</p>
+
+<p>我爱后来就有了集体舞有了集体舞就有了我们</p>
+
+<p>我爱马雅可夫斯基的充满青春的秘密的集体舞</p>
+
+<p>我爱在春天的良夜里装模作样的摆弄时装让喇叭型的裙子拖曳在林荫</p>
+
+<p>道上的集体舞（播放音乐）</p>
+
+<p><strong>C</strong>：</p>
+
+<p>我爱集体舞在新开的工地上，我们登上了脚手架</p>
+
+<p><strong>D</strong>：</p>
+
+<p>我爱集体舞在滔滔的海浪里，我们坐上了快艇</p>
+
+<p><strong>E</strong>：</p>
+
+<p>我爱集体舞在喧闹的工厂里，我们练上了钢铁</p>
+
+<p><strong>F</strong>：</p>
+
+<p>我爱集体舞在辽阔的田野里，我们栽起了禾苗</p>
+
+<p><strong>G</strong>：</p>
+
+<p>我爱集体舞在幽静的校园里，图书馆内书声朗</p>
+
+<p><strong>H</strong>：</p>
+
+<p>我爱集体舞在沸腾的群山里，青年男女尽开怀</p>
+
+<p><strong>众</strong>：</p>
+
+<p>我爱集体舞（异性或同性拉手或拥抱）</p>
+
+<p>我爱你和你的肉体和你的爱情</p>
+
+<p>我爱你带电的眼神和带电的诗歌</p>
+
+<p>我爱你的灵魂</p>
+
+<p>我爱你的肉体就是你的灵魂</p>
+
+<p>我爱你如果你的肉体不是你的灵魂那么灵魂是什么</p>
+
+<p>我爱你如果你的灵魂不是你的肉体那么肉体是什么</p>
+
+<p>我爱你的肉体就是你的灵魂的肉体</p>
+
+<p>我爱你的灵魂就是你的肉体的灵魂</p>
+
+<p>我爱你的肉体就是你的肉体的肉体</p>
+
+<p>我爱你的灵魂就是你的灵魂的灵魂</p>
+
+<p>我爱你（七遍）</p>
+
+<p>【舞台】</p>
+
+<p>音乐渐弱，灯光渐暗。</p>
+
+<h3 id="第四部分">第四部分</h3>
+
+<p>【舞台】</p>
+
+<p>演员随意站立在舞台稍靠前处。</p>
+
+<p>【台词】</p>
+
+<p><strong>众</strong>：</p>
+
+<p>我爱此时此刻的今天晚上</p>
+
+<p>我爱今天晚上的你们</p>
+
+<p>我爱今天晚上坐在这里看话剧的你们</p>
+
+<p>我爱这个 GDP 腾飞的改革开放新时代</p>
+
+<p>我爱这个不强拆就没有社会主义的改革开放新时代</p>
+
+<p>我爱这个少量摄入含塑化剂和三聚氰胺不危及健康的改革开放新时代</p>
+
+<p>我爱这个稳定高于一切的改革开放新时代</p>
+
+<p>我爱生活在这个改革开放新时代的你们</p>
+
+<p><strong>A</strong>：</p>
+
+<p>我爱你们这些性格演员本色演员（前后不断来回，指手画脚，下同）</p>
+
+<p><strong>B</strong>：</p>
+
+<p>我爱你们这些世界的扮演者</p>
+
+<p><strong>C</strong>：</p>
+
+<p>我爱你们这些知识的权威</p>
+
+<p><strong>D</strong>：</p>
+
+<p>我爱你们这些历史的瞬间</p>
+
+<p><strong>E</strong>：</p>
+
+<p>我爱你们我爱你们这些积极进取的家伙绝顶聪明的家伙乐观的家伙</p>
+
+<p><strong>F</strong>：</p>
+
+<p>我爱你们这些不置可否的人</p>
+
+<p><strong>G</strong>：</p>
+
+<p>我爱你们这些在场的人</p>
+
+<p><strong>H</strong>：</p>
+
+<p>我爱你们这些前途光明的人</p>
+
+<p><strong>G</strong>：</p>
+
+<p>我爱你们这些理想远大的人</p>
+
+<p><strong>F</strong>：</p>
+
+<p>我爱你们这些个性鲜明的人</p>
+
+<p><strong>E</strong>：</p>
+
+<p>我爱你们这些批判现实的人</p>
+
+<p><strong>D</strong>：</p>
+
+<p>我爱你们这些相信未来的人</p>
+
+<p><strong>ABCD</strong>：</p>
+
+<p>我爱你们这些知识的强盗（其他人拿椅子背对观众坐成排，ABCD 四人面对这他们和观众念白）</p>
+
+<p>我爱你们这些思想的流氓</p>
+
+<p>我爱你们这些身心健康者</p>
+
+<p>我爱你们这些随大流的家伙</p>
+
+<p><strong>FHKL</strong>：</p>
+
+<p>我爱你们这些不值一提的家伙（FHKL站起，ABCD坐下）</p>
+
+<p>我爱你们这些虚无主义者</p>
+
+<p>我爱你们这些激进主义者</p>
+
+<p>我爱你们这些反激进主义者</p>
+
+<p>我爱你们这些思想的贫民</p>
+
+<p>我爱你们这些默默耕耘者</p>
+
+<p>我爱你们这些掌声和鲜花的乞丐</p>
+
+<p>我爱你们这些穷光蛋和吝啬鬼</p>
+
+<p><strong>众</strong>：</p>
+
+<p>我爱已经受够了的你们（由慢到快，众站起来到台前；AB坐着）</p>
+
+<p>我爱已经受够了的北大清华复旦南开</p>
+
+<p>我爱已经受够了的宋祖英的好日子</p>
+
+<p>我爱已经受够了的杜拉拉升职记</p>
+
+<p>我爱已经受够了的刘易阳和童佳倩</p>
+
+<p>我爱已经受够了的谢霆锋张柏芝和陈冠希</p>
+
+<p>我爱已经受够了的春节联欢晚会</p>
+
+<p>我爱已经受够了的男同和女同</p>
+
+<p>我爱已经受够了的再也不相信爱情</p>
+
+<p>我爱已经受够了的永远相信爱情</p>
+
+<p>我爱已经受够了的吃饱了的</p>
+
+<p>我爱已经受够了的吃饱了撑的</p>
+
+<p><strong>AC</strong>：</p>
+
+<p>我爱已经受够了的我们还没有开始</p>
+
+<p><strong>BD</strong>：</p>
+
+<p>我爱已经受够了的我们还不打算结束</p>
+
+<p><strong>众</strong>：</p>
+
+<p>我爱你应声倒地</p>
+
+<p>我爱你轰然倒地</p>
+
+<p>我爱你们轰然倒地</p>
+
+<p>我爱我们轰然倒地</p>
+
+<p>我爱编剧轰然倒地</p>
+
+<p>我爱导演轰然倒地</p>
+
+<p>我爱灯光轰然倒地</p>
+
+<p>我爱舞美轰然倒地</p>
+
+<p>我爱大幕轰然倒地</p>
+
+<p>我爱剧场轰然倒地</p>
+
+<p>我爱大地轰然倒地</p>
+
+<p>我爱天空轰然倒地</p>
+
+<p>我爱晚风轰然倒地</p>
+
+<p>我爱钟声轰然倒地</p>
+
+<p>我爱道路轰然倒地</p>
+
+<p>我爱脚步轰然倒地</p>
+
+<p>我爱楼梯轰然倒地</p>
+
+<p>我爱房门轰然倒地</p>
+
+<p>我爱你们轰然倒地</p>
+
+<p>我爱你们愤然离去</p>
+
+<p>我爱你们在回家的路上轰然倒地</p>
+
+<p>我爱你们在今天晚上的床上轰然倒地</p>
+
+<p>我爱你们在明天的路上笑</p>
+
+<p>我爱你们在笑的时候仇恨</p>
+
+<p>我爱你们在仇恨的时候吃完所有巧克力和汉堡包</p>
+
+<p>我爱你们在吃药的时候想起知识</p>
+
+<p>我爱你们在学习的时候想起我们</p>
+
+<p>我爱你们在想我的时候嘲笑自己</p>
+
+<p>我爱你们在嘲笑我的时候坐立不安</p>
+
+<p><strong>E</strong>：</p>
+
+<p>我爱你们给我拍照吧（众重复一遍，下同）</p>
+
+<p><strong>F</strong>：</p>
+
+<p>我爱你们给我鲜花吧</p>
+
+<p><strong>G</strong>：</p>
+
+<p>我爱你们给我拥抱吧</p>
+
+<p><strong>H</strong>：</p>
+
+<p>我爱你们把我忘了吧（音乐起，曲调深厚，略带悲伤）</p>
+
+<p><strong>众</strong>：</p>
+
+<p>我爱光</p>
+
+<p>我爱于是便有了光</p>
+
+<p>我爱你</p>
+
+<p>我爱于是便有了你</p>
+
+<p>我爱舞台</p>
+
+<p>我爱于是便有了舞台</p>
+
+<p>我爱离开</p>
+
+<p>我爱于是便有了离开（演员随意从各个方向立场，不用谢幕。）</p>
+
+<hr />
+
+<p>原著：孟京辉</p>
+
+<p>改编：徐会坛/费玮</p>
+
+<p>日期：20110709</p>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#立人大学 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2017-10-01/freehere/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2011-07-01/kaimu/">最早</a>--</span>
+    
+      <li>
+        <time>2011-07-13</time>
+        <a href="https://nodebe4.github.io/opinion/2011-07-13/xiongpeiyun/">
+          我的学思历程 熊培云
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2011-07-12</time>
+        <a href="https://nodebe4.github.io/opinion/2011-07-12/goodbye/">
+          写在结束边上
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2011-07-08</time>
+        <a href="https://nodebe4.github.io/opinion/2011-07-08/zhuhaijiu/">
+          法律与道德
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2011-07-07</time>
+        <a href="https://nodebe4.github.io/opinion/2011-07-07/anzhu2/">
+          公益：新思想的威力
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2011-07-08/%E8%BE%B9%E7%BC%98%E4%BA%BA%E7%9A%84%E9%97%AE%E9%A2%98%E6%84%8F%E8%AF%86%E4%B8%8E%E6%94%BF%E6%B2%BB%E6%99%AE%E9%81%8D%E6%80%A7%E7%9A%84%E8%AF%89%E6%B1%82-%E4%BB%A5%E8%BF%88%E6%96%AF%E7%89%B9%E7%9A%84%E4%BF%9D%E5%AE%88%E4%B8%BB%E4%B9%89%E4%B8%BA%E4%BE%8B/">
+            前一篇：边缘人的问题意识与政治普遍性的诉求——以迈斯特的保守主义为例
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2011-07-09/%E7%9B%9B%E6%B4%AA-%E4%B8%AD%E5%85%B1%E6%9C%80%E5%A4%A7%E6%8C%91%E6%88%98%E6%98%AF%E9%81%8F%E5%88%B6%E6%BB%A5%E6%9D%83/">
+            後一篇：盛洪：中共最大挑战是遏制滥权
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2011-07-08/%E8%BE%B9%E7%BC%98%E4%BA%BA%E7%9A%84%E9%97%AE%E9%A2%98%E6%84%8F%E8%AF%86%E4%B8%8E%E6%94%BF%E6%B2%BB%E6%99%AE%E9%81%8D%E6%80%A7%E7%9A%84%E8%AF%89%E6%B1%82-%E4%BB%A5%E8%BF%88%E6%96%AF%E7%89%B9%E7%9A%84%E4%BF%9D%E5%AE%88%E4%B8%BB%E4%B9%89%E4%B8%BA%E4%BE%8B/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2011-07-09/%E7%9B%9B%E6%B4%AA-%E4%B8%AD%E5%85%B1%E6%9C%80%E5%A4%A7%E6%8C%91%E6%88%98%E6%98%AF%E9%81%8F%E5%88%B6%E6%BB%A5%E6%9D%83/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2011-07-12/goodbye/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2011-07-08/zhuhaijiu/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2011-07-08/%E8%BE%B9%E7%BC%98%E4%BA%BA%E7%9A%84%E9%97%AE%E9%A2%98%E6%84%8F%E8%AF%86%E4%B8%8E%E6%94%BF%E6%B2%BB%E6%99%AE%E9%81%8D%E6%80%A7%E7%9A%84%E8%AF%89%E6%B1%82-%E4%BB%A5%E8%BF%88%E6%96%AF%E7%89%B9%E7%9A%84%E4%BF%9D%E5%AE%88%E4%B8%BB%E4%B9%89%E4%B8%BA%E4%BE%8B/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2011-07-09/%E7%9B%9B%E6%B4%AA-%E4%B8%AD%E5%85%B1%E6%9C%80%E5%A4%A7%E6%8C%91%E6%88%98%E6%98%AF%E9%81%8F%E5%88%B6%E6%BB%A5%E6%9D%83/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<立人大学>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2011-07-12/goodbye/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<立人大学>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2011-07-08/zhuhaijiu/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

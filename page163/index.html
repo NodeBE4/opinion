@@ -1,0 +1,2266 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="從草根到大師 git.io/JJCxS">
+    <meta property="og:description" content="從草根到大師 git.io/JJCxS" />
+    
+    <meta name="author" content="觀點" />
+
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fnodebe4.github.io%2Fopinion%2Fpage163%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://nodebe4.github.io/opinion/page163/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://nodebe4.github.io/opinion/page163/&text=觀點-從草根到大師 git.io/JJCxS&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://nodebe4.github.io/opinion/page163/&title=觀點-從草根到大師 git.io/JJCxS" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://nodebe4.github.io/opinion/page163/&title=觀點-從草根到大師 git.io/JJCxS" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=觀點-從草根到大師 git.io/JJCxS&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://nodebe4.github.io/opinion/page163/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://nodebe4.github.io/opinion/page163/&title=觀點-從草根到大師 git.io/JJCxS&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=觀點-從草根到大師 git.io/JJCxS&url=https://nodebe4.github.io/opinion/page163/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+<ul class="archive">
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-26/%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%88%98%E7%95%A5-%E8%B4%B8%E6%98%93%E6%88%98%E8%BF%98%E6%98%AF%E7%AB%9E%E8%B5%9B/">
+      
+        特朗普的中国战略：贸易战还是竞赛？
+      </a>
+      <time>2017-12-26</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: </a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#中國戰略分析" class="tag">
+        中國戰略分析
+      </a>
+      
+
+      
+      <a href="http://zhanlve.org/?p=3877" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-25/%E9%83%AD%E8%90%8D-%E5%84%92%E5%AE%B6%E7%9A%84%E8%87%AA%E7%94%B1%E8%A7%82%E5%BF%B5%E5%8F%8A%E5%85%B6%E4%BA%BA%E6%80%A7%E8%AE%BA%E5%9F%BA%E7%A1%80-%E4%B8%8E%E8%A5%BF%E6%96%B9%E8%87%AA%E7%94%B1%E4%B8%BB%E4%B9%89%E7%9A%84%E6%AF%94%E8%BE%83/">
+      
+        郭萍：儒家的自由观念及其人性论基础——与西方自由主义的比较
+      </a>
+      <time>2017-12-25</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 郭萍</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#中國戰略分析" class="tag">
+        中國戰略分析
+      </a>
+      
+
+      
+      <a href="http://zhanlve.org/?p=3868" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-25/%E6%B6%82%E5%9B%9B%E6%BA%A2-%E6%94%BF%E5%BA%9C%E4%BF%A1%E6%81%AF%E5%85%AC%E5%BC%80%E6%9D%A1%E4%BE%8B-%E7%9A%84%E4%BB%B7%E5%80%BC%E7%BC%BA%E9%99%B7/">
+      
+        涂四溢：《政府信息公开条例》的价值缺陷
+      </a>
+      <time>2017-12-25</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 涂四溢</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#中國戰略分析" class="tag">
+        中國戰略分析
+      </a>
+      
+
+      
+      <a href="http://zhanlve.org/?p=3865" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-25/Tshering-Chonzom-Bhutia(2017.12)-A-Secret-Visit-and-Sino-Tibetan-Dialogue-%E5%8D%B0%E5%BA%A6%E4%B8%93%E5%AE%B6%E7%9C%8B%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B%E7%89%B9%E4%BD%BF%E8%AE%BF%E5%8D%8E%E4%B8%8E%E4%B8%AD%E8%97%8F%E5%AF%B9%E8%AF%9D%E9%97%AE%E9%A2%98/">
+      
+        Tshering Chonzom Bhutia(2017.12) A Secret Visit and Sino-Tibetan Dialogue（印度专家看达赖喇嘛特使访华与中藏对话问题）
+      </a>
+      <time>2017-12-25</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: </a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#中國戰略分析" class="tag">
+        中國戰略分析
+      </a>
+      
+
+      
+      <a href="http://zhanlve.org/?p=3858" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-24/%E6%9D%8E%E5%B0%91%E6%96%87-%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E5%88%9D%E9%80%89%E5%88%B6%E5%BA%A6%E7%9A%84%E6%94%BF%E6%B2%BB%E6%95%88%E6%9E%9C/">
+      
+        李少文：美国总统初选制度的政治效果
+      </a>
+      <time>2017-12-24</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 李少文</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#中國戰略分析" class="tag">
+        中國戰略分析
+      </a>
+      
+
+      
+      <a href="http://zhanlve.org/?p=3853" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-24/%E6%9D%8E%E5%85%B4-%E7%89%B9%E6%9C%97%E6%99%AE%E6%97%B6%E4%BB%A3%E4%B8%AD%E7%BE%8E%E4%BF%84%E5%85%B3%E7%B3%BB%E5%A4%A7%E8%B6%8B%E5%8A%BF%E6%80%9D%E8%80%83/">
+      
+        李兴：特朗普时代中美俄关系大趋势思考
+      </a>
+      <time>2017-12-24</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 李兴</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#中國戰略分析" class="tag">
+        中國戰略分析
+      </a>
+      
+
+      
+      <a href="http://zhanlve.org/?p=3855" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-24/%E5%AD%99%E7%AB%8B%E5%B9%B3-%E6%88%BF%E4%BA%A7%E7%A8%8E%E6%9C%89%E5%8F%AF%E8%83%BD%E6%AF%81%E6%8E%89%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%9A%84%E6%9C%AA%E6%9D%A5/">
+      
+        孙立平：房产税有可能毁掉中国经济的未来
+      </a>
+      <time>2017-12-24</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 孙立平</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#中國戰略分析" class="tag">
+        中國戰略分析
+      </a>
+      
+
+      
+      <a href="http://zhanlve.org/?p=3847" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-24/John-J.-Hamre-(2017.12.6)-Running-out-of-time-%E7%BE%8E%E5%9B%BD%E5%9C%A8%E6%9C%9D%E6%A0%B8%E9%97%AE%E9%A2%98%E4%B8%8A%E7%9C%9F%E7%9A%84%E6%B2%A1%E6%9C%89%E6%97%B6%E9%97%B4%E4%BA%86%E5%90%97/">
+      
+        John J. Hamre (2017.12.6) Running out of time （美国在朝核问题上真的没有时间了吗？）
+      </a>
+      <time>2017-12-24</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: John</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#中國戰略分析" class="tag">
+        中國戰略分析
+      </a>
+      
+
+      
+      <a href="http://zhanlve.org/?p=3844" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-24/Christmas-Eve-by-Gustave-Dor%C3%A9/">
+      
+        Christmas Eve by Gustave Doré
+      </a>
+      <time>2017-12-24</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 爱德布克</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#智识" class="tag">
+        智识
+      </a>
+      
+
+      
+      <a href="http://www.ideobook.com/2664/christmas-eve-by-gustave-dore/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-23/%E8%B5%84%E4%B8%AD%E7%AD%A0-%E8%AF%B4%E4%B8%8D%E5%B0%BD%E7%9A%84%E5%A4%A7%E5%9B%BD%E5%85%B4%E8%A1%B0/">
+      
+        资中筠：说不尽的大国兴衰
+      </a>
+      <time>2017-12-23</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 资中筠</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#中國戰略分析" class="tag">
+        中國戰略分析
+      </a>
+      
+
+      
+      <a href="http://zhanlve.org/?p=3838" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-23/%E5%90%95%E5%98%89%E5%81%A5-%E7%A4%BE%E4%BC%9A%E5%A5%91%E7%BA%A6%E5%BF%83%E7%90%86%E4%B8%8E%E5%85%AC%E5%85%B1%E7%90%86%E6%80%A7/">
+      
+        吕嘉健：社会契约心理与公共理性
+      </a>
+      <time>2017-12-23</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 吕嘉健</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#中國戰略分析" class="tag">
+        中國戰略分析
+      </a>
+      
+
+      
+      <a href="http://zhanlve.org/?p=3835" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-22/%E5%AD%99%E7%AB%8B%E5%B9%B3-%E4%B8%A4%E4%B8%AA%E8%BD%AC%E5%9E%8B%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%9A%84%E6%9C%AA%E6%9D%A5%E5%89%8D%E6%99%AF/">
+      
+        孙立平：两个转型与中国经济的未来前景
+      </a>
+      <time>2017-12-22</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 孙立平</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#中國戰略分析" class="tag">
+        中國戰略分析
+      </a>
+      
+
+      
+      <a href="http://zhanlve.org/?p=3829" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-22/%E4%BB%A3%E7%90%86%E4%BA%BA%E6%94%BF%E6%B2%BB%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E9%AB%98%E9%80%9F%E5%A2%9E%E9%95%BF%E4%B9%8B%E8%B0%9C/">
+      
+        代理人政治与中国经济高速增长之谜
+      </a>
+      <time>2017-12-22</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: </a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#中國戰略分析" class="tag">
+        中國戰略分析
+      </a>
+      
+
+      
+      <a href="http://zhanlve.org/?p=3831" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-21/%E9%83%91%E7%BB%A7%E6%96%87-%E6%9D%8E%E4%BC%9F%E4%B8%9C-%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%8B%85%E5%BF%83%E4%B8%8B%E4%B8%80%E5%9C%BA%E6%88%98%E4%BA%89-%E4%BC%9A%E8%B4%A5%E7%BB%99%E4%B8%AD%E5%9B%BD%E5%90%97/">
+      
+        郑继文、李伟东：美国人担心下一场战争，会败给中国吗？
+      </a>
+      <time>2017-12-21</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: </a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#中國戰略分析" class="tag">
+        中國戰略分析
+      </a>
+      
+
+      
+      <a href="http://zhanlve.org/?p=3821" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-21/%E6%BB%95%E5%BD%AA-%E6%AD%A6%E7%BB%9F%E7%8B%82%E8%A8%80%E8%83%8C%E5%90%8E%E7%9A%84%E6%81%90%E6%87%BC/">
+      
+        滕彪：武统狂言背后的恐懼
+      </a>
+      <time>2017-12-21</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 滕彪</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#中國戰略分析" class="tag">
+        中國戰略分析
+      </a>
+      
+
+      
+      <a href="http://zhanlve.org/?p=3818" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-21/%E6%9D%A8%E5%AF%8C%E5%BC%BA-%E4%B8%87%E6%98%8E%E9%92%A2-2016-%E6%96%B0%E7%96%86%E5%8D%97%E7%96%86%E5%86%9C%E6%9D%91%E7%A4%BE%E4%BC%9A%E6%B2%BB%E7%90%86%E9%9D%A2%E4%B8%B4%E7%9A%84%E5%9B%B0%E5%A2%83-%E5%9F%BA%E4%BA%8E%E5%AF%B9%EF%BC%AC%E6%9D%91%E7%9A%84%E4%BA%BA%E7%B1%BB%E5%AD%A6%E8%B0%83%E6%9F%A5/">
+      
+        杨富强、万明钢（2016）新疆南疆农村社会治理面临的困境 ——基于对Ｌ村的人类学调查
+      </a>
+      <time>2017-12-21</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: </a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#中國戰略分析" class="tag">
+        中國戰略分析
+      </a>
+      
+
+      
+      <a href="http://zhanlve.org/?p=3813" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-21/2049%E7%A0%94%E7%A9%B6%E6%89%80%E6%8A%A5%E5%91%8A-2017-%E5%8F%B0%E6%B9%BE%E5%BF%97%E6%84%BF%E5%BD%B9%E5%85%B5%E5%88%B6%E4%B8%8E%E5%86%9B%E4%BA%8B%E8%BD%AC%E5%9E%8BTaiwan-s-All-Volunteer-Force-and-Military-Transformation/">
+      
+        2049研究所报告（2017）台湾志愿役兵制与军事转型Taiwan’s All-Volunteer Force and Military Transformation
+      </a>
+      <time>2017-12-21</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: </a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#中國戰略分析" class="tag">
+        中國戰略分析
+      </a>
+      
+
+      
+      <a href="http://zhanlve.org/?p=3810" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-20/The_2017_Stratechery_Year_in_Review/">
+      
+        The 2017 Stratechery Year in Review
+      </a>
+      <time>2017-12-20</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: Ben Thompson</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#Stratechery" class="tag">
+        Stratechery
+      </a>
+      
+
+      
+      <a href="https://stratechery.com/2017/the-2017-stratechery-year-in-review/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-20/%E6%9E%97%E5%AE%97%E5%BC%98-%E6%9D%8E%E5%AE%97%E8%8D%A3-%E5%8F%B0%E6%B9%BE%E7%BB%8F%E6%B5%8E%E4%B8%BA%E4%BD%95%E8%B5%B0%E5%90%91%E5%A4%B1%E8%90%BD-%E4%BA%8C/">
+      
+        林宗弘、李宗荣：台湾经济为何走向失落？（二）
+      </a>
+      <time>2017-12-20</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: </a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#中國戰略分析" class="tag">
+        中國戰略分析
+      </a>
+      
+
+      
+      <a href="http://zhanlve.org/?p=3808" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-20/%E5%BE%90%E8%B4%B2-%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%B7%E5%9B%BD%E4%B8%8E%E6%97%A5%E6%9C%AC%E5%9C%A8%E6%88%98%E5%90%8E%E6%82%94%E7%BD%AA%E4%B8%8A%E5%B7%AE%E5%BC%82%E8%BF%99%E4%B9%88%E5%A4%A7/">
+      
+        徐贲：为什么德国与日本在战后悔罪上差异这么大？
+      </a>
+      <time>2017-12-20</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 徐贲</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#中國戰略分析" class="tag">
+        中國戰略分析
+      </a>
+      
+
+      
+      <a href="http://zhanlve.org/?p=3805" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-19/%E9%87%91%E9%99%B5%E6%AF%95%E5%BA%B7-%E9%9D%9E%E6%9A%B4%E5%8A%9B%E6%8A%97%E4%BA%89%E7%9A%84%E6%9C%BA%E5%88%B6%E5%92%8C%E6%96%B9%E6%B3%95/">
+      
+        金陵毕康：非暴力抗争的机制和方法
+      </a>
+      <time>2017-12-19</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 金陵毕康</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#中國戰略分析" class="tag">
+        中國戰略分析
+      </a>
+      
+
+      
+      <a href="http://zhanlve.org/?p=3797" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-19/%E8%80%BF%E6%9B%99-%E9%99%88%E7%8E%AE-2017-%E5%8F%91%E5%B1%95%E5%9E%8B%E5%9B%BD%E5%AE%B6-%E6%A8%A1%E5%BC%8F%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%8F%91%E5%B1%95%E7%BB%8F%E9%AA%8C/">
+      
+        耿曙、陈玮（2017）“发展型国家”模式与中国发展经验
+      </a>
+      <time>2017-12-19</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: </a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#中國戰略分析" class="tag">
+        中國戰略分析
+      </a>
+      
+
+      
+      <a href="http://zhanlve.org/?p=3759" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-19/%E6%B0%91%E6%84%8F%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%BE%8E%E5%9B%BD%E6%94%BF%E7%AD%96-%E9%80%89%E4%B8%BE%E5%8F%AF%E8%83%BD%E6%B2%A1%E9%82%A3%E4%B9%88%E9%87%8D%E8%A6%81/">
+      
+        民意如何影响美国政策？选举可能没那么重要……
+      </a>
+      <time>2017-12-19</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 杨鸣宇</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#政見" class="tag">
+        政見
+      </a>
+      
+
+      
+      <a href="http://cnpolitics.org/2017/12/policy-preferences-and-policy-change-dynamic-responsiveness-in-the-american-states/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-19/%E6%A1%91%E5%85%B5-2017-%E8%BE%9B%E4%BA%A5%E5%85%89%E5%A4%8D%E5%90%84%E7%9C%81%E7%9A%84%E9%98%B2%E5%A5%B8%E9%94%84%E5%A5%B8-%E4%BB%A5%E6%B2%AA%E5%86%9B%E9%83%BD%E7%9D%A3%E5%BA%9C%E4%B8%BA%E4%B8%AD%E5%BF%83/">
+      
+        桑兵（2017）辛亥光复各省的防奸锄奸——以沪军都督府为中心
+      </a>
+      <time>2017-12-19</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: </a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#中國戰略分析" class="tag">
+        中國戰略分析
+      </a>
+      
+
+      
+      <a href="http://zhanlve.org/?p=3793" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-19/%E6%9C%AC%E5%88%8A%E6%B1%87%E7%BC%96-2017.12.18-%E9%9F%A9%E5%9B%BD%E5%AA%92%E4%BD%93%E8%AF%84%E8%AE%BA%E4%B8%9C%E5%8C%97%E4%BA%9A%E5%B1%80%E5%8A%BF/">
+      
+        本刊汇编（2017.12.18）韩国媒体评论东北亚局势
+      </a>
+      <time>2017-12-19</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: </a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#中國戰略分析" class="tag">
+        中國戰略分析
+      </a>
+      
+
+      
+      <a href="http://zhanlve.org/?p=3746" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-19/%E5%BE%90%E9%A2%82%E8%B5%9E-%E5%BD%93%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E7%8E%B0%E4%BB%A3%E5%A4%84%E5%A2%83%E5%92%8C%E4%BF%A1%E4%BB%B0%E7%9B%B8%E9%81%87/">
+      
+        徐颂赞：当中国人的现代处境和信仰相遇
+      </a>
+      <time>2017-12-19</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 徐颂赞</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#中國戰略分析" class="tag">
+        中國戰略分析
+      </a>
+      
+
+      
+      <a href="http://zhanlve.org/?p=3802" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-19/%E5%BC%A0%E9%9D%99(2015)-%E5%8D%95%E4%BD%8D-%E5%8F%98%E8%BF%81%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E5%92%8C%E6%94%BF%E6%B2%BB%E7%9A%84%E5%86%B2%E5%87%BB/">
+      
+        张静(2015)“单位”变迁对中国社会和政治的冲击
+      </a>
+      <time>2017-12-19</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: </a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#中國戰略分析" class="tag">
+        中國戰略分析
+      </a>
+      
+
+      
+      <a href="http://zhanlve.org/?p=3778" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-19/%E5%BC%A0%E4%BC%9F(2015)%E6%94%BF%E6%B2%BB%E5%B8%82%E5%9C%BA-%E6%B0%91%E5%95%86%E9%98%B6%E5%B1%82%E8%A1%8C%E4%B8%BA%E9%80%BB%E8%BE%91%E7%9A%84%E6%96%B0%E8%A7%86%E8%A7%92/">
+      
+        张伟(2015)政治市场: 民商阶层行为逻辑的新视角
+      </a>
+      <time>2017-12-19</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: </a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#中國戰略分析" class="tag">
+        中國戰略分析
+      </a>
+      
+
+      
+      <a href="http://zhanlve.org/?p=3748" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-18/%E5%BC%A0%E7%BB%B4%E8%BF%8E-%E4%B8%AD%E5%9B%BD%E7%9A%84%E8%AF%AD%E8%A8%80%E8%85%90%E8%B4%A5/">
+      
+        张维迎：中国的语言腐败
+      </a>
+      <time>2017-12-18</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 张维迎</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#中國戰略分析" class="tag">
+        中國戰略分析
+      </a>
+      
+
+      
+      <a href="http://zhanlve.org/?p=3742" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-17/%E9%BB%84%E6%99%97-2016-%E6%8C%87%E6%A0%87%E6%B2%BB%E7%90%86%E5%8F%8A%E5%85%B6%E5%9B%B0%E5%A2%83-%E4%BB%A5%E4%BA%AC%E6%B4%A5%E5%86%80PM2.5%E7%A9%BA%E6%B0%94%E6%B1%A1%E6%9F%93%E6%B2%BB%E7%90%86%E4%B8%BA%E4%BE%8B/">
+      
+        黄晗（2016）指标治理及其困境：以京津冀PM2.5空气污染治理为例
+      </a>
+      <time>2017-12-17</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: </a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#中國戰略分析" class="tag">
+        中國戰略分析
+      </a>
+      
+
+      
+      <a href="http://zhanlve.org/?p=3732" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-17/%E9%99%88%E4%B8%BD%E5%90%9B-%E5%82%85%E8%A1%8D-2016-%E6%88%91%E5%9B%BD%E5%85%AC%E5%85%B1%E6%94%BF%E7%AD%96%E6%89%A7%E8%A1%8C%E9%80%BB%E8%BE%91%E7%A0%94%E7%A9%B6%E8%BF%B0%E8%AF%84/">
+      
+        陈丽君、傅衍（2016）我国公共政策执行逻辑研究述评
+      </a>
+      <time>2017-12-17</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: </a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#中國戰略分析" class="tag">
+        中國戰略分析
+      </a>
+      
+
+      
+      <a href="http://zhanlve.org/?p=3730" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-17/%E7%AB%BA%E4%B9%BE%E5%A8%81-2012-%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C%E7%9A%84%E6%94%BF%E7%AD%96%E6%89%A7%E8%A1%8C%E8%A1%8C%E4%B8%BA%E5%88%86%E6%9E%90-%E4%BB%A5-%E6%8B%89%E9%97%B8%E9%99%90%E7%94%B5-%E4%B8%BA%E4%BE%8B/">
+      
+        竺乾威（2012）地方政府的政策执行行为分析：以“拉闸限电”为例
+      </a>
+      <time>2017-12-17</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: </a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#中國戰略分析" class="tag">
+        中國戰略分析
+      </a>
+      
+
+      
+      <a href="http://zhanlve.org/?p=3718" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-17/%E5%B7%A6%E6%98%A5%E5%92%8C-%E6%8A%98%E8%85%BE%E6%98%AF%E6%9E%81%E6%9D%83%E6%94%BF%E6%B2%BB%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E7%94%9F%E5%AD%98%E6%96%B9%E5%BC%8F/">
+      
+        左春和：折腾是极权政治最重要的生存方式
+      </a>
+      <time>2017-12-17</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 左春和</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#中國戰略分析" class="tag">
+        中國戰略分析
+      </a>
+      
+
+      
+      <a href="http://zhanlve.org/?p=3736" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-17/%E5%A8%81%E5%85%8B-%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%91%98%E5%92%8C%E5%AE%98%E5%AA%92%E6%8E%A5%E8%BF%9E%E5%AF%B9%E5%8F%B0%E6%B9%BE%E7%9A%84%E5%A8%81%E8%83%81/">
+      
+        威克：中国官员和官媒接连对台湾的威胁
+      </a>
+      <time>2017-12-17</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 威克</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#中國戰略分析" class="tag">
+        中國戰略分析
+      </a>
+      
+
+      
+      <a href="http://zhanlve.org/?p=3739" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-15/%E6%9E%97%E5%BE%B7%E5%B1%B1-%E6%B0%91%E7%B2%B9%E4%B8%BB%E4%B9%89%E6%94%BF%E5%85%9A%E5%B4%9B%E8%B5%B7%E5%AF%B9%E6%AC%A7%E7%BE%8E%E6%94%BF%E5%85%9A%E6%94%BF%E6%B2%BB%E7%9A%84%E7%BB%93%E6%9E%84%E6%80%A7%E5%8F%98%E5%8C%96%E7%9A%84%E5%BD%B1%E5%93%8D/">
+      
+        林德山：民粹主义政党崛起对欧美政党政治的结构性变化的影响
+      </a>
+      <time>2017-12-15</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 林德山</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#中國戰略分析" class="tag">
+        中國戰略分析
+      </a>
+      
+
+      
+      <a href="http://zhanlve.org/?p=3711" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-15/%E4%BC%8A%E5%88%A9%E5%A4%8F%E6%8F%90-%E5%BE%80%E4%BA%8B%E5%B9%B6%E4%B8%8D%E5%A6%82%E7%83%9F-%E5%91%8A%E8%AF%89%E4%BD%A0%E4%B8%80%E4%B8%AA%E7%9C%9F%E5%AE%9E%E7%9A%84%E4%B8%9C%E7%AA%81%E5%8E%A5%E6%96%AF%E5%9D%A6%E5%85%B1%E5%92%8C%E5%9B%BD-1933-1944/">
+      
+        伊利夏提：往事并不如烟 告诉你一个真实的东突厥斯坦共和国（1933、1944）
+      </a>
+      <time>2017-12-15</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 伊利夏提</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#中國戰略分析" class="tag">
+        中國戰略分析
+      </a>
+      
+
+      
+      <a href="http://zhanlve.org/?p=3716" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-15/%E4%B8%9C%E5%8C%97%E7%BB%8F%E6%B5%8E%E5%88%B0%E5%BA%95%E5%93%AA%E9%87%8C%E5%87%BA%E4%BA%86%E9%97%AE%E9%A2%98/">
+      
+        东北经济到底哪里出了问题？
+      </a>
+      <time>2017-12-15</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 刘奇洪</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#天则双周论坛" class="tag">
+        天则双周论坛
+      </a>
+      
+
+      
+      <a href="http://unirule.cloud/index.php?c=article&id=4554" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-14/%E7%AC%AC%E4%B8%80%E5%B1%8A%E5%AE%9A%E9%87%8F%E4%B8%AD%E5%9B%BD%E7%A0%94%E7%A9%B6%E7%A0%94%E8%AE%A8%E4%BC%9A-%E7%8E%B0%E4%BB%A3%E5%8C%96%E6%B2%BB%E7%90%86%E7%BB%8F%E9%AA%8C/">
+      
+        第一届定量中国研究研讨会：现代化治理经验
+      </a>
+      <time>2017-12-14</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 政见</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#政見" class="tag">
+        政見
+      </a>
+      
+
+      
+      <a href="http://cnpolitics.org/2017/12/quantitative-china-study-seminar/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-14/%E6%9D%8E%E4%BC%9F%E4%B8%9C-%E5%90%B4%E9%9D%9E-%E6%96%87%E5%9C%A8%E5%AF%85%E8%AE%BF%E5%8D%8E-%E5%8C%97%E4%BA%AC%E5%A6%82%E4%BD%95%E6%91%86%E5%B9%B3%E9%A6%96%E5%B0%94%E5%92%8C%E5%B9%B3%E5%A3%A4/">
+      
+        李伟东、吴非：文在寅访华，北京如何摆平首尔和平壤？
+      </a>
+      <time>2017-12-14</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: </a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#中國戰略分析" class="tag">
+        中國戰略分析
+      </a>
+      
+
+      
+      <a href="http://zhanlve.org/?p=3701" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-14/%E6%9C%9D%E9%B2%9C%E6%A0%B8%E5%AF%BC%E5%8D%B1%E6%9C%BA-%E6%88%98%E4%BA%89%E6%96%B9%E6%A1%88%E4%B8%8D%E5%8F%AF%E8%A1%8C-%E5%A8%81%E6%85%91%E4%BB%8D%E6%98%AF%E6%9C%80%E6%9C%89%E6%95%88%E9%80%89%E9%A1%B9/">
+      
+        朝鲜核导危机：战争方案不可行，威慑仍是最有效选项
+      </a>
+      <time>2017-12-14</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 归宿</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#政見" class="tag">
+        政見
+      </a>
+      
+
+      
+      <a href="http://cnpolitics.org/2017/12/the-korean-missile-crisis%ef%bc%9awhy-deterrence-is-still-the-best-option/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-14/%E6%97%A5%E7%BB%8F%E4%B8%AD%E6%96%87%E7%BD%91-2017-%E6%9C%9D%E9%B2%9C%E6%A0%B8%E6%AD%A6%E4%B8%8E%E7%BB%8F%E6%B5%8E%E8%A7%82%E5%AF%9F/">
+      
+        日经中文网（2017）：朝鲜核武与经济观察
+      </a>
+      <time>2017-12-14</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: </a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#中國戰略分析" class="tag">
+        中國戰略分析
+      </a>
+      
+
+      
+      <a href="http://zhanlve.org/?p=3705" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-14/%E5%8D%97%E6%96%B9%E5%91%A8%E6%9C%AB(2017)%E8%A7%A3%E5%AF%86%E5%9B%BD%E4%BC%81%E6%B5%B7%E5%A4%96%E4%B8%AD%E5%85%B1%E5%85%9A%E6%94%AF%E9%83%A8/">
+      
+        南方周末(2017)解密国企海外中共党支部
+      </a>
+      <time>2017-12-14</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: </a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#中國戰略分析" class="tag">
+        中國戰略分析
+      </a>
+      
+
+      
+      <a href="http://zhanlve.org/?p=3707" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-14/%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%B8%82%E5%9C%BA%E7%BB%8F%E6%B5%8E%E5%9C%B0%E4%BD%8D%E4%B9%8B%E4%BA%89/">
+      
+        中国的市场经济地位之争
+      </a>
+      <time>2017-12-14</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: </a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#中國戰略分析" class="tag">
+        中國戰略分析
+      </a>
+      
+
+      
+      <a href="http://zhanlve.org/?p=3703" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-13/%E8%85%90%E8%B4%A5%E6%98%AF%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF%E7%9A%84%E6%B6%A6%E6%BB%91%E5%89%82-%E5%B0%8F%E4%BC%81%E4%B8%9A%E6%9C%89%E8%8B%A6%E9%9A%BE%E8%A8%80-%E5%A4%A7%E4%BC%81%E4%B8%9A%E7%AC%91%E8%80%8C%E4%B8%8D%E8%AF%AD/">
+      
+        腐败是经济增长的润滑剂？小企业有苦难言，大企业笑而不语……
+      </a>
+      <time>2017-12-13</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 马亮</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#政見" class="tag">
+        政見
+      </a>
+      
+
+      
+      <a href="http://cnpolitics.org/2017/12/the-externalities-of-corruption-evidence-from-entrepreneurial-activity-in-china/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-13/%E5%AD%99%E7%AB%8B%E5%B9%B3-%E8%BF%98%E6%98%AF%E6%9C%89%E7%82%B9%E5%A5%BD%E5%A5%87-%E4%B9%B1%E8%B1%A1%E8%83%8C%E5%90%8E%E7%9A%84%E9%82%A3%E4%BA%9B%E9%80%BB%E8%BE%91/">
+      
+        孙立平：还是有点好奇，乱象背后的那些逻辑
+      </a>
+      <time>2017-12-13</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 孙立平</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#中國戰略分析" class="tag">
+        中國戰略分析
+      </a>
+      
+
+      
+      <a href="http://zhanlve.org/?p=3698" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-12/Disney_and_Fox/">
+      
+        Disney and Fox
+      </a>
+      <time>2017-12-12</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: Ben Thompson</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#Stratechery" class="tag">
+        Stratechery
+      </a>
+      
+
+      
+      <a href="https://stratechery.com/2017/disney-and-fox/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-12/%E6%9D%80%E4%BA%BA%E7%9A%84%E7%B2%BE%E7%81%B5%E5%AE%9D%E5%8F%AF%E6%A2%A6/">
+      
+        杀人的精灵宝可梦
+      </a>
+      <time>2017-12-12</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 马亮</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#政見" class="tag">
+        政見
+      </a>
+      
+
+      
+      <a href="http://cnpolitics.org/2017/12/death-by-pokemon-go/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-12/%E5%BC%A0%E6%A0%91%E5%8D%8E-2017-%E5%8E%86%E5%8F%B2-%E5%8E%86%E5%8F%B2%E8%A7%82%E4%B8%8E%E4%B8%89%E5%8D%81%E5%B9%B4%E6%9D%A5%E7%9A%84%E4%BF%84%E7%BD%97%E6%96%AF%E6%94%BF%E6%B2%BB/">
+      
+        张树华（2017）历史、历史观与三十年来的俄罗斯政治
+      </a>
+      <time>2017-12-12</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: </a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#中國戰略分析" class="tag">
+        中國戰略分析
+      </a>
+      
+
+      
+      <a href="http://zhanlve.org/?p=3781" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-12/%E5%88%98%E5%AE%88%E8%8B%B1-%E4%BB%8E%E8%BD%AC%E5%9E%8B%E8%A7%92%E5%BA%A6%E5%AE%A1%E8%A7%86%E5%86%9C%E6%B0%91-%E5%9C%9F%E5%9C%B0%E5%92%8C%E6%9D%91%E5%BA%84%E7%9A%84%E5%85%B3%E7%B3%BB/">
+      
+        刘守英：从转型角度审视农民、土地和村庄的关系
+      </a>
+      <time>2017-12-12</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 刘守英</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#中國戰略分析" class="tag">
+        中國戰略分析
+      </a>
+      
+
+      
+      <a href="http://zhanlve.org/?p=3696" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2017-12-12/%E5%88%98%E5%86%9B(2017)%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%8E%E8%A5%BF%E6%96%B9-%E4%B8%89%E5%8D%81%E5%B9%B4%E6%9D%A5%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%96%E4%BA%A4%E7%9A%84%E8%B7%AF%E5%BE%84%E9%80%89%E6%8B%A9/">
+      
+        刘军(2017)俄罗斯与西方——三十年来俄罗斯外交的路径选择
+      </a>
+      <time>2017-12-12</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: </a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#中國戰略分析" class="tag">
+        中國戰略分析
+      </a>
+      
+
+      
+      <a href="http://zhanlve.org/?p=3784" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+
+</ul>
+
+<div class="pagination">
+  
+    <span class="prev">
+      <a href="/opinion/page162/" class="prev">
+        上一页
+      </a>
+    </span>
+  
+  
+    <span class="next">
+      <a href="/opinion/page164/" class="next">
+        下一页
+      </a>
+    </span>
+  
+
+  <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    <a class="fab-action fab-action-1" title="上一页(热键 &#8594;)" href="/opinion/page162/">
+      <i>上</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一页(热键 &#8592;)" href="/opinion/page164/">
+      <i>下</i>
+    </a>
+    
+    
+    
+    
+    
+  </div>
+</div>
+
+
+  <script>
+  /* post pagination keyboard shortcuts */
+  document.body.onkeyup = function(e){
+    if (e.keyCode == '37') { window.location = '/opinion/page162/'; } // left arrow key
+    if (e.keyCode == '39') { window.location = '/opinion/page164/'; } // right arrow key
+  };
+  </script>
+
+</div>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

@@ -1,0 +1,2998 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Passport – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+Passport
+——
+" />
+    <meta property="og:description" content="
+Passport
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Passport" />
+    <meta property="twitter:title" content="Passport" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2021%2Fpassport%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2021/passport/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2021/passport/&text=Passport&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2021/passport/&title=Passport" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2021/passport/&title=Passport" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Passport&body=
+Passport
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2021/passport/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2021/passport/&title=Passport&caption=
+Passport
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Passport&url=https://stratechery.com/2021/passport/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Passport</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2021-06-03
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2021/passport/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1622745377000-->
+<p><a href="https://stratechery.com/2021/passport/">Passport</a>
+——</p>
+
+<div>
+  <p>Seven years ago, when I initially launched the paid Daily Update, there weren’t really any tools designed for independent subscription businesses; my solution has incorporated a number of disparate services tied together, and while new companies have been formed around both paid newsletters and paid podcasts, no one has created a service for a site like Stratechery. So I decided to build it. It’s called Passport.</p>
+  <p> </p>
+  <p><img loading="lazy" src="https://i1.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-10.png?resize=640%2C79&#038;ssl=1" alt="Passport is the new back-end for Stratechery" width="640" height="79" class="aligncenter size-full wp-image-6447" srcset="https://i1.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-10.png?w=1280&amp;ssl=1 1280w, https://i1.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-10.png?resize=300%2C37&amp;ssl=1 300w, https://i1.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-10.png?resize=1024%2C126&amp;ssl=1 1024w, https://i1.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-10.png?resize=768%2C94&amp;ssl=1 768w, https://i1.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-10.png?resize=1200%2C147&amp;ssl=1 1200w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p> </p>
+  <p>Stratechery, in a literal sense, is a website; you can choose to receive content from that website via email and, <a href="https://stratechery.com/2020/the-daily-update-podcast/">as of a year ago</a>, podcast. Stratechery in a figurative sense, though, is my home on the Internet, a spot on the infinite digital frontier that is mine. This speaks to the first reason to build my own solution: while WordPress, the CMS that underpins Stratechery, is open source, and thus something I can control, the various services I used to manage subscriptions and send email were not; I wanted to rectify that.</p>
+  <p>The second reason to build Passport is to provide a better experience for my subscribers. One of the downsides of relying on a menagerie of different services is that there were both more rough edges exposed to users, and also an inability to provide more personalized offerings. Passport is an improvement on both fronts.</p>
+  <p>The third reason to build Passport is to expand my capabilities as a creator. It is valuable to make it easy to get started (Passport has a learning curve) but there is room for more powerful tools that let creators do more, from the ability to fully customize a website to a powerful templating system to single sign-on capabilities. Passport is enterprise software for creators.</p>
+  <h4 id="integrated-communications-via-open-protocols">Integrated Communications via Open Protocols</h4>
+  <p>While Stratechery started as only a blog, the reason why it became strongly associated with newsletters is that folks realized that your email inbox was the only feed users checked daily that wasn’t a closed garden. Sending out posts via email meant that subscribers didn’t need to remember to visit your site; publishers can meet their readers where they are.</p>
+  <p>Last year Stratechery expanded on this concept with the Stratechery podcast; while the content was the same as the web or email, the medium — spoken word — was not, which meant that Stratechery could fit into that many more places in a subscriber’s day. Podcasts, like email, were also built on an open standard, which meant reaching users on their terms, not a gatekeeper’s terms.</p>
+  <p>However, as the world becomes increasingly mobile-centric, more and more communication happens via messaging; notifications are the new inbox. And, while many of these notifications come from closed messaging services, there remains one open option: SMS. While SMS isn’t free to use, it does not have any gatekeepers, which makes it an attractive option for the independent creator.</p>
+  <p>Passport integrates all of these open communications channels into one service, providing a seamless experience for both me as publisher and my readers. Start with the member app, where subscribers can decide which types of content they wish to receive in which medium:</p>
+  <p><img loading="lazy" src="https://i2.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-1.png?resize=640%2C291&#038;ssl=1" alt="Members can choose what content to receive where" width="640" height="291" class="aligncenter size-full wp-image-6456" srcset="https://i2.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-1.png?w=1194&amp;ssl=1 1194w, https://i2.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-1.png?resize=300%2C136&amp;ssl=1 300w, https://i2.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-1.png?resize=1024%2C465&amp;ssl=1 1024w, https://i2.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-1.png?resize=768%2C349&amp;ssl=1 768w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>In this case the subscriber has chosen to be notified immediately about Weekly Articles and receive Daily Updates via email, unless they are an interview, in which case the subscriber prefers to listen via podcast (this subscriber’s podcast feed will <em>only</em> contain Interviews, not other episodes). As for the Weekly Article, the link in the text message will load the Weekly Article directly:<sup id="rf1-6443"><a href="https://stratechery.com/2021/passport/#fn1-6443" title="Yes, a link shortener is in 1.1 &#x1f60a;" rel="footnote">1</a></sup></p>
+  <p><img loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-2.png?resize=640%2C168&#038;ssl=1" alt="Get notifications about Stratechery articles via SMS" width="640" height="168" class="aligncenter size-full wp-image-6455" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-2.png?w=1170&amp;ssl=1 1170w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-2.png?resize=300%2C79&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-2.png?resize=1024%2C269&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-2.png?resize=768%2C202&amp;ssl=1 768w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>Weekly Articles are of course free to access; a more challenging situation is when the subscriber wants to access subscriber-only content. For example, the subscriber may be listening to a Daily Update Interview, and wish to read the transcript; they can simply go to the show notes, click the link, and view the post on Stratechery:</p>
+  <p><img loading="lazy" src="https://i1.wp.com/stratechery.com/wp-content/uploads/2021/06/tokenizedlinks.gif?resize=366%2C800&#038;ssl=1" alt="Links from your feed or emails always log you in automatically" width="366" height="800" class="aligncenter size-full wp-image-6481" data-recalc-dims="1" /></p>
+  <p>Notice that the user is viewing subscriber-only content within their podcast player, despite the fact they never previously logged-in within that webview; that is because every link is unique to that user, making the integration with the Stratechery website completely seamless. This capability also means that every communication, from podcasts to RSS to email, can be customized to the user:</p>
+  <p><img loading="lazy" src="https://i2.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-11.png?resize=640%2C346&#038;ssl=1" alt="Passport customizes content to Stratechery subscribers" width="640" height="346" class="aligncenter size-full wp-image-6457" srcset="https://i2.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-11.png?w=1280&amp;ssl=1 1280w, https://i2.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-11.png?resize=300%2C162&amp;ssl=1 300w, https://i2.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-11.png?resize=1024%2C553&amp;ssl=1 1024w, https://i2.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-11.png?resize=768%2C415&amp;ssl=1 768w, https://i2.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-11.png?resize=1167%2C630&amp;ssl=1 1167w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>One of the tenets of subscription-based businesses is that you want to have a one-to-one connection with your users; the reality of Stratechery previously is that I had a relatively dumb paywall, was sending out undifferentiated email blasts, and had a one-size-fits-all podcast. Passport enables true one-to-one communication at scale, across every open protocol available to creators.</p>
+  <h4 id="sovereign-creators-and-visas">Sovereign Creators and Visas</h4>
+  <p>There are two implications to the name “Passport”: first, while sovereign countries issue physical passports, sovereign creators (whether they be individuals or publications) issue online passports to website and communications channels that they own. Secondly, though, is the concept of visas: in the real world visas let you into other countries; in the online world, visas give you access to other sites and services. Stratechery is launching with three real-life examples:</p>
+  <p><strong>Passport-to-Passport</strong></p>
+  <p>A Passport-powered site like Stratechery can sell subscriptions to a different Passport-powered sites like <a href="https://dithering.fm/">Dithering</a> (with permission, of course). For example:</p>
+  <ul>
+    <li>Dithering and Stratechery have agreed that Stratechery subscribers can “Add-on” Dithering for $3/month, instead of the normal $5/month</li>
+    <li>Once the add-on is purchased, the subscriber goes to Dithering’s Passport to get their personalized feed; Dithering controls the content relationship</li>
+    <li>However, if the user tries to manage their subscription at Dithering, they are sent back to Stratechery, which owns the billing relationship</li>
+  </ul>
+  <p><img loading="lazy" src="https://i2.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-to-passport.png?resize=640%2C228&#038;ssl=1" alt="How Dithering and Stratechery split the content and billing relationship between a shared customer" width="640" height="228" class="aligncenter size-full wp-image-6474" srcset="https://i2.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-to-passport.png?w=2498&amp;ssl=1 2498w, https://i2.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-to-passport.png?resize=300%2C107&amp;ssl=1 300w, https://i2.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-to-passport.png?resize=1024%2C364&amp;ssl=1 1024w, https://i2.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-to-passport.png?resize=768%2C273&amp;ssl=1 768w, https://i2.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-to-passport.png?resize=1536%2C546&amp;ssl=1 1536w, https://i2.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-to-passport.png?resize=2048%2C728&amp;ssl=1 2048w, https://i2.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-to-passport.png?resize=1200%2C427&amp;ssl=1 1200w, https://i2.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-to-passport.png?w=1280&amp;ssl=1 1280w, https://i2.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-to-passport.png?w=1920&amp;ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>These interactions are peer-to-peer, and under the complete control of the sovereign Passport owners.<sup id="rf2-6443"><a href="https://stratechery.com/2021/passport/#fn2-6443" title="Stratechery and Dithering are currently cheating and sharing a Stripe account, but that is because that was the only way to support bundling with my previous service; in the very near future this will work across distinct Stripe accounts" rel="footnote">2</a></sup></p>
+  <p><strong>OpenID and Discourse</strong></p>
+  <p>Passport can serve as a single sign-on authenticator for any service that supports OpenID, like, for example, the Stratechery forum, which is based on Discourse. When you want to visit the forum at <a href="https://forum.stratechery.com/">forum.stratechery.com</a>, you will be presented with a Stratechery Passport login screen; enter your credentials and you are good to go:</p>
+  <p><img loading="lazy" src="https://i1.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-14.png?resize=640%2C363&#038;ssl=1" alt="Single sign-on with Passport" width="640" height="363" class="aligncenter size-full wp-image-6479" srcset="https://i1.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-14.png?w=1280&amp;ssl=1 1280w, https://i1.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-14.png?resize=300%2C170&amp;ssl=1 300w, https://i1.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-14.png?resize=1024%2C580&amp;ssl=1 1024w, https://i1.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-14.png?resize=768%2C435&amp;ssl=1 768w, https://i1.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-14.png?resize=1112%2C630&amp;ssl=1 1112w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>This required zero interaction with Discourse’s developers; it just worked.</p>
+  <p><strong>OAuth and Spotify</strong></p>
+  <p>In April <a href="https://newsroom.spotify.com/2021-04-27/spotify-ushers-in-new-era-of-podcast-monetization-with-new-tools-for-all-creators/">Spotify announced the Open Access Platform</a>:</p>
+  <blockquote>
+    <p>Are you a creator or publisher who has subscribers elsewhere? We’re also working on technology that will let your listeners hear your content on Spotify using your existing login system. This gives creators with existing subscriber bases the option to deliver paid content to their existing paid audiences using Spotify, retaining direct control over the relationship.</p>
+  </blockquote>
+  <p>I wrote at the time in <a href="https://stratechery.com/2021/spotifys-surprise/">Spotify’s Surprise</a>:</p>
+  <blockquote>
+    <p>For full disclosure, I have been briefed on the Open Access Platform, and Spotify has addressed all of my concerns; no, they won’t support arbitrary RSS feeds, but instead another open technology — OAuth. Some time soon Stratechery and Dithering subscribers will be able to link their subscriptions to their Spotify accounts, and Spotify isn’t going to charge a dime — they will be my customers from email address to credit card. Spotify Chief R&amp;D Officer Gustav Söderström told me, “Having all of audio on Spotify means meeting independent creators on their terms, not ours.”</p>
+  </blockquote>
+  <p>That “some time soon” is today: you can now select Spotify from your Delivery Preferences page, from whence you will be able to link your Stratechery account to your Spotify account, and <a href="https://open.spotify.com/show/1jRACH7L8EQCYKc5uW7aPk">listen to the Stratechery Podcast in Spotify</a> (everyone can listen to the free Weekly Articles):<sup id="rf3-6443"><a href="https://stratechery.com/2021/passport/#fn3-6443" title="The &#8216;Email&#8217; field in this screenshot, by the way, is independent of the &#8216;Account Email&#8217; field; now you can easily send Stratechery to your Kindle, read-later service, or manage an account for someone else." rel="footnote">3</a></sup></p>
+  <p><img loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-13.png?resize=640%2C300&#038;ssl=1" alt="Listen to Stratechery (and Dithering) on Spotify" width="640" height="300" class="aligncenter size-full wp-image-6478" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-13.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-13.png?resize=300%2C141&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-13.png?resize=1024%2C480&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-13.png?resize=768%2C360&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-13.png?resize=1200%2C563&amp;ssl=1 1200w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>In the interest of even fuller disclosure, Spotify first proposed an OAuth-based solution to me in February after the company’s <a href="https://stratechery.com/2021/spotify-stream-on-spotifys-advertising-play-additional-notes-on-stream-on/">Speak-On event</a>; I had in fact already been working on the OAuth-based Passport for multiple months, so it was a very fortuitous circumstance that we both independently reached the same conclusion about how Aggregators could work with sovereign creators on a technical level. I am hopeful that other Aggregators will take the same enlightened self-interest approach to working with sovereign creators.</p>
+  <h4 id="passports-future">Passport’s Future</h4>
+  <p>The other thing that makes Passport distinct from other subscription management services is that Passport isn’t a subscription manager at all; Stratechery happens to be powered by <a href="https://stripe.com/billing">Stripe Billing</a>, but Passport in principle can work with any subscription management service (that is why, for example, one Passport can create visas for another Passport). Passport could work with in-app purchasing, a publication’s existing subscription management system, or even other subscription management services. Remember, Passport’s integration is between member management and open communications tools; everything else attaches via API (including the optional CMS).</p>
+  <p>This also means that Passport offers a full-fledged experience for free members; you don’t have to be a subscription-based site to use Passport, or if you are (like Stratechery), you can still offer a great experience to folks who haven’t yet pulled out their credit card. And, if free members do decide to subscribe, they don’t have to re-add their feeds or update their contact information; they will instantly start receiving members-only content.</p>
+  <p>This also means I can offer free-content beyond what is available by default; for example, if you want to stay in the loop about Passport, you can now add a free Passport plan to your membership:</p>
+  <p><a href="https://stratechery.passport.online/member/plan/FU88mU4RBhdMq8yDRbssHs"><img loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-15.png?resize=640%2C213&#038;ssl=1" alt="Become a free Stratechery member to get updates about Passport" width="640" height="213" class="aligncenter size-full wp-image-6504" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-15.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-15.png?resize=300%2C100&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-15.png?resize=1024%2C341&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-15.png?resize=768%2C256&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-15.png?resize=1200%2C399&amp;ssl=1 1200w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></a></p>
+  <p><a href="https://stratechery.passport.online/member/plan/FU88mU4RBhdMq8yDRbssHs">Sign up for a Stratechery account</a>, then add the Passport plan; this will be the best place to stay abreast of Passport development, including my hope to release an open-source project to ensure that every creator has the same option for total independence that I have now achieved.<sup id="rf4-6443"><a href="https://stratechery.com/2021/passport/#fn4-6443" title="And remember, you can turn off all of the Stratechery content if you want to!" rel="footnote">4</a></sup></p>
+  <p>Alan Kay famously said, “People who are really serious about software should make their own hardware”; my variation is that creators who are really serious about building a career on the Internet should own their own software. I can now speak from experience when I say it’s one of the best feelings in the world.</p>
+  <p><em>I once again want to thank Jon Thies and Rob Rodriguez for building Passport with me, and to Daman Rangoola for his untold number of contributions to every aspect of both Stratechery and Passport.</em></p>
+  <hr class="footnotes" />
+  <ol class="footnotes" style="list-style-type:decimal">
+    <li id="fn1-6443">
+      <p>Yes, a link shortener is in 1.1 <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f60a.png" alt="😊" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://stratechery.com/2021/passport/#rf1-6443" class="backlink" title="Return to footnote 1.">↩</a></p>
+    </li>
+    <li id="fn2-6443">
+      <p>Stratechery and Dithering are currently cheating and sharing a Stripe account, but that is because that was the only way to support bundling with my previous service; in the very near future this will work across distinct Stripe accounts <a href="https://stratechery.com/2021/passport/#rf2-6443" class="backlink" title="Return to footnote 2.">↩</a></p>
+    </li>
+    <li id="fn3-6443">
+      <p>The ‘Email’ field in this screenshot, by the way, is independent of the ‘Account Email’ field; now you can easily send Stratechery to your Kindle, read-later service, or manage an account for someone else. <a href="https://stratechery.com/2021/passport/#rf3-6443" class="backlink" title="Return to footnote 3.">↩</a></p>
+    </li>
+    <li id="fn4-6443">
+      <p>And remember, you can turn off all of the Stratechery content if you want to! <a href="https://stratechery.com/2021/passport/#rf4-6443" class="backlink" title="Return to footnote 4.">↩</a></p>
+    </li>
+  </ol>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2021-06-15</time>
+        <a href="https://nodebe4.github.io/opinion/2021-06-15/The-Cicilline-Salvo/">
+          The Cicilline Salvo
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-06-08</time>
+        <a href="https://nodebe4.github.io/opinion/2021-06-08/Integrated-Apple-and-App-Store-Risk/">
+          Integrated Apple and App Store Risk
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-06-02</time>
+        <a href="https://nodebe4.github.io/opinion/2021-06-02/Break-June-1-2,-2021/">
+          Break: June 1–2, 2021
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-05-27</time>
+        <a href="https://nodebe4.github.io/opinion/2021-05-27/Amazon-Buys-MGM,-The-Streaming-Opportunity,-Anti-M/">
+          Amazon Buys MGM, The Streaming Opportunity, Anti-Monopoly vs. Antitrust
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2021-06-03/%EF%B8%8F/">
+            前一篇：🖼🕯️
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2021-06-03/%E7%82%BA%E9%A6%99%E6%B8%AF%E8%80%8C%E7%B4%80%E5%BF%B5%E5%85%AD%E5%9B%9B/">
+            後一篇：為香港而紀念六四
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2021-06-03/%EF%B8%8F/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2021-06-03/%E7%82%BA%E9%A6%99%E6%B8%AF%E8%80%8C%E7%B4%80%E5%BF%B5%E5%85%AD%E5%9B%9B/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2021-06-08/Integrated-Apple-and-App-Store-Risk/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2021-06-02/Break-June-1-2,-2021/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2021-06-03/%EF%B8%8F/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2021-06-03/%E7%82%BA%E9%A6%99%E6%B8%AF%E8%80%8C%E7%B4%80%E5%BF%B5%E5%85%AD%E5%9B%9B/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2021-06-08/Integrated-Apple-and-App-Store-Risk/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2021-06-02/Break-June-1-2,-2021/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

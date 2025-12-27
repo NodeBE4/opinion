@@ -1,0 +1,3017 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Meta Myths – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+Meta Myths
+——
+" />
+    <meta property="og:description" content="
+Meta Myths
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Meta Myths" />
+    <meta property="twitter:title" content="Meta Myths" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2022%2Fmeta-myths%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2022/meta-myths/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2022/meta-myths/&text=Meta Myths&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2022/meta-myths/&title=Meta Myths" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2022/meta-myths/&title=Meta Myths" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Meta Myths&body=
+Meta Myths
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2022/meta-myths/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2022/meta-myths/&title=Meta Myths&caption=
+Meta Myths
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Meta Myths&url=https://stratechery.com/2022/meta-myths/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Meta Myths</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-10-31
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2022/meta-myths/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1667232247000-->
+<p><a href="https://stratechery.com/2022/meta-myths/">Meta Myths</a>
+——</p>
+
+<div>
+  <p>What happened to Meta last week — and my response to it — expressed in meme-form:</p>
+  <p><img src="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/10/meta-myths-1.png?resize=640%2C360&#038;ssl=1" alt="The GTA meme about &quot;Here we go again&quot; as applied to Facebook" width="640" height="360" class="aligncenter size-full wp-image-9940" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/10/meta-myths-1.png?w=888&amp;ssl=1 888w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/10/meta-myths-1.png?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/10/meta-myths-1.png?resize=768%2C432&amp;ssl=1 768w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>In 2018, the market was panicking about Facebook’s slowing revenue and growing expenses, and was concerned about the negative impact that Stories was having on Facebook’s feed advertising business. I wrote that the reaction was overblown in <a href="https://stratechery.com/2018/facebook-lenses/">Facebook Lenses</a>, which looked at the business in five different ways:</p>
+  <ul>
+    <li>Lens 1 was Facebook’s finances, which did show troubling trends in terms of revenue and expense growth:      <p><img loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2018/07/Screen-Shot-2018-07-30-at-6.00.51-AM.png?resize=640%2C427&#038;ssl=1" alt="Facebook&#039;s revenue growth is decreasing even as its expense growth increases" width="640" height="427" class="aligncenter size-full wp-image-3604" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2018/07/Screen-Shot-2018-07-30-at-6.00.51-AM.png?w=2058&amp;ssl=1 2058w, https://i0.wp.com/stratechery.com/wp-content/uploads/2018/07/Screen-Shot-2018-07-30-at-6.00.51-AM.png?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2018/07/Screen-Shot-2018-07-30-at-6.00.51-AM.png?resize=768%2C513&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2018/07/Screen-Shot-2018-07-30-at-6.00.51-AM.png?resize=1024%2C684&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2018/07/Screen-Shot-2018-07-30-at-6.00.51-AM.png?resize=944%2C630&amp;ssl=1 944w, https://i0.wp.com/stratechery.com/wp-content/uploads/2018/07/Screen-Shot-2018-07-30-at-6.00.51-AM.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2018/07/Screen-Shot-2018-07-30-at-6.00.51-AM.png?w=1920&amp;ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+      <p>As I noted at the time, I could understand investor trepidation about these trends lines, which is why other lenses were necessary.</p>
+    </li>
+    <li>Lens 2 was Facebook’s products, where I argued that investors were over-indexed on Facebook the app and were ignoring Instagram’s growth potential, and, in the very long run, WhatsApp.</li>
+    <li>Lens 3 was Facebook’s advertising infrastructure, which I argued was very underrated, and which would provide a platform for dramatically scaling Instagram monetization in particular.</li>
+    <li>Lens 4 was Facebook’s moats, including its network, scaled advertising product, and investments in security and content review.</li>
+    <li>Lens 5 was Facebook’s raison d’être — connecting people — where I made the argument that the company’s core competency was in addressing a human desire that wasn’t going anywhere.</li>
+  </ul>
+  <p>I concluded:</p>
+  <blockquote>
+    <p>To insist that Facebook will die any day now is in some respects to suggest that humanity will cease to exist any day now; granted, it is a company and companies fail, but even if Facebook failed it would only be a matter of time before another Facebook rose to replace it.</p>
+    <p>That seems unlikely: for all of the company’s travails and controversies over the past few years, its moats are deeper than ever, its money-making potential not only huge but growing both internally and secularly; to that end, what is perhaps most distressing of all to would-be competitors is in fact this quarter’s results: at the end of the day Facebook took a massive hit by choice; the company is not maximizing the short-term, it is spending the money and suppressing its revenue potential in favor of becoming more impenetrable than ever.</p>
+  </blockquote>
+  <p>The optimism proved prescient, at least for the next three years:</p>
+  <p><img loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/10/meta-myths-4.png?resize=640%2C310&#038;ssl=1" alt="Facebook&#039;s stock run-up from 2018 to 2021" width="640" height="310" class="aligncenter size-full wp-image-9942" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/10/meta-myths-4.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/10/meta-myths-4.png?resize=300%2C145&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/10/meta-myths-4.png?resize=1024%2C496&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/10/meta-myths-4.png?resize=768%2C372&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/10/meta-myths-4.png?resize=1200%2C581&amp;ssl=1 1200w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>Facebook’s stock price increased by 118% between the day I wrote that Article, before peaking on September 15, 2021. Over the past year, though, things have certainly gone in the opposite direction:</p>
+  <p><img loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/10/meta-myths-5.png?resize=640%2C310&#038;ssl=1" alt="Meta&#039;s massive drawdown in 2022" width="640" height="310" class="aligncenter size-full wp-image-9943" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/10/meta-myths-5.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/10/meta-myths-5.png?resize=300%2C145&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/10/meta-myths-5.png?resize=1024%2C496&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/10/meta-myths-5.png?resize=768%2C372&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/10/meta-myths-5.png?resize=1200%2C581&amp;ssl=1 1200w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>Meta, née Facebook, is now, incredibly enough, worth 42% less than it was when I wrote <em>Facebook Lenses</em>, hitting levels not seen since January 2016. It seems the company’s many critics are finally right: Facebook is dying, for real this time.</p>
+  <p>The problem is that the evidence just doesn’t support this point of view. Forget five lenses: there are five myths about Meta’s business that I suspect are driving this extreme reaction; all of them have a grain of truth, so they feel correct, but the truth is, if not 100% good news, much better than most of those dancing on the company’s apparent grave seem to realize.</p>
+  <h3 id="myth-1-users-are-deserting-facebook">Myth 1: Users Are Deserting Facebook</h3>
+  <p>Myspace is, believe it or not, still around; however, it has been irrelevant for so long that I needed to look it up to remember if the name used camel case or not (it doesn’t). It does, though, still seem to loom large in the mind of Meta skeptics certain that the mid-2000’s social network’s fate was predictive for the company that supplanted it.</p>
+  <p>The problem with this narrative is that Meta is still adding users: the company is up to 2.93 billion Daily Active Users (DAUs), an increase of 50 million, and 3.71 billion Monthly Active Users (MAUs), an increase of 60 million. Moreover, this isn’t all Instagram and WhatsApp: Facebook itself increased its DAUs by 16 million (to 1.98 billion) and its MAUs by 24 million (to 2.96 billion). Granted, all of that growth, at least in the case of Facebook, was in Asia-Pacific and the rest of the world, but the U.S. and Europe were flat, not declining; given that Facebook long ago completely saturated those markets, it is meaningful that the service is not seeing any churn.</p>
+  <p>This goes back to my fifth lens: Facebook does connect people, and that connection is still meaningful enough for a whole lot of people to continue to use its services, and there is no sign of that desire for connection disappearing or shifting to other apps.</p>
+  <h3 id="myth-2-instagram-engagement-is-plummeting">Myth 2: Instagram Engagement is Plummeting</h3>
+  <p>The obvious retort is that sure, users may occasionally open Meta’s apps when they are bored, but they are spending most of their time in other apps like TikTok, and that that time is coming at the expense of Meta’s apps, particularly Instagram.</p>
+  <p>There is, to be clear, good reason to think that TikTok is having a big impact on Instagram specifically and Facebook broadly, but that impact, to the extent it is being felt, is in depressing growth, not in reversing it. CEO Mark Zuckerberg said at the beginning of his opening remarks on <a href="https://s21.q4cdn.com/399680738/files/doc_financials/2022/q3/Meta-Q3-2022-Earnings-Call-Transcript.pdf">Meta’s earnings call</a>:</p>
+  <blockquote>
+    <p>There has been a bunch of speculation about engagement on our apps and what we’re seeing is more positive. On Facebook specifically, the number of people using the service each day is the highest it’s ever been — nearly 2 billion — and engagement trends are strong. Instagram has more than 2 billion monthly actives. WhatsApp has more than 2 billion daily actives, also with the exciting trend that North America is now our fastest growing region. Across the family, some apps may be saturated in some countries or some demographics, but overall our apps continue to grow from a large base. We’re also seeing engagement grow — especially strong growth in Reels — and I’ll share more details around that when I discuss our product priorities shortly.</p>
+  </blockquote>
+  <p>Analysts on the call were skeptical, and asked specifically about the U.S. market; CFO Dave Wehner had good news in that regard as well:</p>
+  <blockquote>
+    <p>So on time spent, we are really pleased with what we’re seeing on engagement. And as Mark mentioned, Reels is incremental to time spent. Specifically, in terms of aggregate time spent on Instagram and Facebook, both are up year-over-year in both the U.S. and globally. So while we’re not specifically optimizing for time spent, those trends are positive. And we aren’t specifically optimizing for time spent because that would tend to tilt us towards longer-form video, and we’re actually focused more on short-form and other types of content.</p>
+  </blockquote>
+  <p>Again, TikTok usage is certainly usage that Meta would prefer happen on their platforms; what seems clear, though, is that short-form videos are growing the overall market for user-generated content. In other words, TikTok isn’t eating Meta’s usage, but rather growing the overall pie (and, to be clear, taking more of that pie than Meta is — at least until recently).</p>
+  <h3 id="myth-3-tiktok-is-dominating">Myth 3: TikTok is Dominating</h3>
+  <p>It is frustrating to not know exactly how big that new pie is, or what Meta’s share is relative to TikTok, but the company offered more evidence in line with my takeaway <a href="https://stratechery.com/2022/meta-earnings-reasons-for-optimism-meta-changes/">last quarter</a> that Meta has contained the TikTok threat. First, according to Sensor Tower data as reported by Morgan Stanley, TikTok usage appears to be plateauing:</p>
+  <p><img loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/10/meta-myths-2.png?resize=640%2C365&#038;ssl=1" alt="TikTok&#039;s growth is plateauing in the U.S." width="640" height="365" class="aligncenter size-full wp-image-9941" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/10/meta-myths-2.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/10/meta-myths-2.png?resize=300%2C171&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/10/meta-myths-2.png?resize=1024%2C583&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/10/meta-myths-2.png?resize=768%2C437&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/10/meta-myths-2.png?resize=1106%2C630&amp;ssl=1 1106w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>Growth in the U.S. specifically was around 4%, with half the penetration of Instagram.</p>
+  <p>Second, Reels usage is still growing: Zuckerberg said on the earnings call:</p>
+  <blockquote>
+    <p>Our AI discovery engine is playing an increasingly important role across our products — especially as advances enable us to recommend more interesting content from across our networks in feeds that used to be primarily driven just by the people and accounts you follow. This of course includes Reels, which continues to grow quickly across our apps — both in production and consumption. There are now more than 140 billion Reels plays across Facebook and Instagram each day. That’s a 50% increase from six months ago. Reels is incremental to time spent on our apps. The trends look good here, and we believe that we’re gaining time spent share on competitors like TikTok.</p>
+  </blockquote>
+  <p>It’s fair to be a bit skeptical about that number, particularly as auto-playing Reels take over more of both the Facebook and Instagram feeds; what is perhaps more meaningful is the fact that Reels now has a $3 billion annual run rate (despite the fact it doesn’t monetize nearly as well as Meta’s other ad formats — for now, anyways). TikTok, by comparison, <a href="https://www.theinformation.com/articles/tiktoks-4-billion-advertising-machine-is-messy-behind-the-scenes">had $4 billion in revenue in 2021</a>, and set a goal for $12 billion this year (I suspect the company won’t reach that goal, thanks to both ATT and the macroeconomic environment; still, it should be a good-sized number).</p>
+  <p>Meta, to be sure, has a much more fleshed out ad product that almost certainly monetizes better than TikTok; the takeaway here is not that Reels is surpassing TikTok anytime soon, but it is a real product that is almost certainly growing more quickly (which, it’s worth noting, is what <a href="https://stratechery.com/2016/the-audacity-of-copying-well/">Instagram did to Snapchat with Stories</a>: Facebook didn’t take usage back, but it stopped more users from moving, which ultimately resulted in far more usage).</p>
+  <p>Third, the fact that Reels usage is “incremental to time spent on [Meta] apps” supports the argument above that short-form video is growing the pie for user-generated content; to be sure, all of that TikTok usage is probably the equivalent of tens of billions of revenue if Meta could harvest it, but once again the evidence suggests that the cost of TikTok to Meta is, at least for now, opportunity cost, not actual infringement on the company’s business.</p>
+  <h3 id="myth-4-advertising-is-dying">Myth 4: Advertising is Dying</h3>
+  <p>This is probably the point where my statement in the beginning, that all of these myths have a bit of truth to them that makes them believable, is the most important: a good chunk of Meta’s drawdown is justified, and the reason is Apple’s App Tracking Transparency (ATT) policy.</p>
+  <p>Before ATT, ad measurement, particularly for all-digital transactions like app installs and e-commerce sales, was measured deterministically: this meant that Meta knew with a high degree of certainty which ads led to which results, because it collected that data from within advertisers’ apps and websites (via a Facebook SDK or pixel). This in turn gave advertisers the confidence to spend on advertising not with an eye towards its cost, but rather with <a href="https://stratechery.com/2020/email-addresses-and-razor-blades/">an expectation of how much revenue could be generated</a>.</p>
+  <p>ATT severed that connection between Meta’s ads on one side, and conversions on the other, by labeling the latter as third party data and thus tracking (never mind that none of the data was collected by the app maker or merchant, who were more than happy to deputize Meta for ad-related data collection). This not only made the company’s ads less valuable, it also made them more uncertain: unlike COVID, <a href="https://stratechery.com/2020/facebook-earnings-auction-dynamics-full-steam-ahead/">when return-on-advertising spend (ROAS)-focused advertisers bought up inventory abandoned by brands</a>, the current macroeconomic slowdown has much less of a buffer.</p>
+  <p>This was, needless to say, a big deal for the entire industry, but what has been fascinating to observe over the last nine months is how few companies want to talk about it (particularly Google <a href="https://stratechery.com/2022/google-earnings-gamings-warning-light-googles-costs/">in the context of YouTube</a>). Meta’s stock slide, though, shows why: ATT was a secular, structural change in the digital ad market, that absolutely should have a big impact on an affected company’s stock price. Meta, to their credit, <a href="https://stratechery.com/2022/metas-earnings-facebooks-three-challenges-financial-versus-existential-risks/">admitted that ATT would reduce their revenue by $10 billion a year</a>, and because that impact is primarily felt through lower prices, that is money straight off of the bottom line — and it’s a loss that will only accumulate over time, by extension reducing the terminal value of the company. Again, the stock should be down!</p>
+  <p>What ATT did not do, though, was kill digital advertising. There are still plenty of ads on Facebook, and mostly not from traditional advertisers from the analog world: entire industries have developed online over the last fifteen years in particular, built for a reality where the entire world as addressable market makes niche products viable in a way they never were previously — as long as the seller can find a customer. Meta is still the best option for that sort of top-of-the-funnel advertising, which is why the company still took in $27 billion in advertising last quarter. Moreover, the fact that number was barely down year-over-year speaks to the fact that digital advertising is still growing strongly: yes, ATT lopped off a big chunk of revenue, but it is not as if Meta revenue actually decreased by $10 billion annually (there is an analogy here to how short-form video has increased the share of time of user-generated content, as opposed to taking time away from Meta).</p>
+  <p>Meta, of course, is not standing still, either: SKAdNetwork 4 has seen <a href="https://stratechery.com/2022/an-interview-with-eric-seufert-about-the-future-of-digital-advertising/">Apple retreat from its most extreme positions</a> with a new ad API that should help larger advertisers in particular; Meta is meanwhile working to move more conversions onto their own platform (which magically makes that data allowable as far as Apple is concerned, even though there is no meaningful difference for merchants beyond losing that much more control of their business).<sup id="rf1-9939"><a href="https://stratechery.com/2022/meta-myths/#fn1-9939" title="The news &lt;a href=&quot;https://stratechery.com/2022/shopify-vs-buy-with-prime-instagram-shopping-cuda-and-china/&quot;&gt;last month&lt;/a&gt; about pulling back on Instagram Shopping was about focusing on ad-driven commerce." rel="footnote">1</a></sup> It’s also notable that the company’s click-to-message advertising product is itself on a $9 billion run rate, and growing fast. The most important efforts, though, are AI-driven.</p>
+  <h3 id="myth-5-metas-spending-is-a-waste">Myth 5: Meta’s Spending is a Waste</h3>
+  <p>That revenue and expenses graph I posted in 2018 does look a lot more hairy today:</p>
+  <p><img loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/10/meta-myths-3.png?resize=640%2C273&#038;ssl=1" alt="Facebook&#039;s expense growth relative to revenue growth looks worse than ever" width="640" height="273" class="aligncenter size-full wp-image-9944" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/10/meta-myths-3.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/10/meta-myths-3.png?resize=300%2C128&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/10/meta-myths-3.png?resize=1024%2C437&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/10/meta-myths-3.png?resize=768%2C328&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/10/meta-myths-3.png?resize=1200%2C512&amp;ssl=1 1200w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>Some of this is Metaverse-related, which I will get to in a moment; what also has investors spooked, though, is Facebook’s increasing capital expenditures, which have nothing to do with the Metaverse (Metaverse spending is almost all research and development). Meta expects to spend $32-$33 billion in capital expenditures in 2022, and $34-$39 billion in 2023; that won’t hit the income statement right way (capital expenditures show up as depreciation in cost of revenue), but that just means that longer-term profitability may be increasingly impaired. Facebook’s gross margins were down to 79% last quarter, its lowest mark since 2013, and if revenue growth doesn’t pick back up then those margins will fall further, given that the costs are already built in.</p>
+  <p>The problem with this line of reasoning is that Meta’s capital expenditures are directly focused on both of the two main reasons for alarm: TikTok and ATT. That is because the answer to both challenges is more AI, and building up AI capacity requires a lot of capital investment.</p>
+  <p>Start with the second point: Wehner said in his prepared remarks:</p>
+  <blockquote>
+    <p>We are significantly expanding our AI capacity. These investments are driving substantially all of our capital expenditure growth in 2023. There is some increased capital intensity that comes with moving more of our infrastructure to AI. It requires more expensive servers and networking equipment, and we are building new data centers specifically equipped to support next generation AI-hardware. We expect these investments to provide us a technology advantage and unlock meaningful improvements across many of our key initiatives, including Feed, Reels and ads. We are carefully evaluating the return we achieve from these investments, which will inform the scale of our AI investment beyond 2023.</p>
+  </blockquote>
+  <p>Meta has huge data centers, but those data centers are primarily about CPU compute, which is what is needed to power Meta’s services. CPU compute is also what was necessary to drive Meta’s deterministic ad model, and the algorithms it used to recommend content from your network.</p>
+  <p>The long-term solution to ATT, though, is to build probabilistic models that not only figure out who should be targeted (which, to be fair, Meta was already using machine learning for), but also understanding which ads converted and which didn’t. These probabilistic models will be built by massive fleets of GPUs, which, in the case of Nvidia’s A100 cards, cost in the five figures; that may have been too pricey in a world where deterministic ads worked better anyways, but Meta isn’t in that world any longer, and it would be foolish to not invest in better targeting and measurement.</p>
+  <p>Moreover, the same approach will be essential to Reels’ continued growth: it is massively more difficult to recommend content from across the entire network than only from your friends and family, particularly because Meta plans to recommend not just video but also media of all types, and intersperse it with content you care about. Here too AI models will be the key, and the equipment to build those models costs a lot of money.</p>
+  <p>In the long run, though, this investment should pay off. First, there are the benefits to better targeting and better recommendations I just described, which should restart revenue growth. Second, once these AI data centers are built out the cost to maintain and upgrade them should be significantly less than the initial cost of building them the first time. Third, this massive investment is one no other company can make, except for Google (and, not coincidentally, Google’s capital expenditures are set to rise as well).</p>
+  <p>That last point is perhaps the most important: ATT hurt Meta more than any other company, because it already had by far the largest and most finely-tuned ad business, but in the long run it should deepen Meta’s moat. This level of investment simply isn’t viable for a company like Snap or Twitter or any of the other also-rans in digital advertising (even beyond the fact that Snap relies on cloud providers instead of its own data centers); when you combine the fact that Meta’s ad targeting will likely start to pull away from the field (outside of Google), with the massive increase in inventory that comes from Reels (which reduces prices), it will be a wonder why any advertiser would bother going anywhere else.</p>
+  <p>The one caveat to this happy story is the existential threat of TikTok not just stealing growth but actually stealing users and time, but again the answer there is better recommendation algorithms first and foremost, and that, as noted, is an AI problem. In other words, this is the most important money that Meta can spend.</p>
+  <h3 id="maybe-true-the-metaverse-is-a-waste-of-time-and-money">Maybe True: The Metaverse is a Waste of Time and Money</h3>
+  <p>This isn’t an Article about the Metaverse, which as I noted in <a href="https://stratechery.com/2022/meta-meets-microsoft/">Meta Meets Microsoft</a>, may be a real product even as it is potentially a bad business for Meta (as an addendum to that piece, <a href="https://twitter.com/ditheringfm/status/1582300420239634432">I noted on Dithering</a> that I found <a href="https://arstechnica.com/gaming/2022/10/carmack-wants-a-250-vr-headset-to-counterpoint-the-1499-quest-pro/">John Carmack’s critique of Meta’s approach</a> very compelling; he believes the company should be focused on low-cost low-weight devices, which to my mind makes much more sense for a social network).</p>
+  <p>It’s worth pointing out, though, that the Metaverse’s costs, which will exceed $10 billion this year and be even more next year, are, relative to Meta’s overall business and overall spending, fairly small. It’s definitely legitimate to decrease your valuation of Meta’s business if you think this investment will never contribute to the bottom line — that’s a lot of foregone profit — but this idea that Meta’s business is doomed and that the Metaverse is a Hail Mary flail to build something out of the ashes simply isn’t borne out by the numbers.</p>
+  <p>Zuckerberg does, to be sure, deserve blame for this perception: he’s the one that <a href="https://stratechery.com/2021/meta/">renamed the company</a> and committed to spending all of that money, and <a href="https://stratechery.com/2022/an-interview-with-meta-ceo-mark-zuckerberg-and-microsoft-ceo-satya-nadella-about-partnering-in-the-metaverse/">made clear</a> that it was his vision that dictated that Meta’s efforts go towards expensive hardware like face-tracking, and the fact that he can’t be replaced has always been worth its own discount. This, though, feels like a rebrand that was too successful: Meta the metaverse company may be a speculative boondoggle, but that doesn’t change the fact that the old Facebook is still a massive business with far more of its indicators pointing up-and-to-the-right than its Myspace-analogizers want to admit.</p>
+  <hr class="footnotes" />
+  <ol class="footnotes" style="list-style-type:decimal">
+    <li id="fn1-9939">
+      <p>The news <a href="https://stratechery.com/2022/shopify-vs-buy-with-prime-instagram-shopping-cuda-and-china/">last month</a> about pulling back on Instagram Shopping was about focusing on ad-driven commerce. <a href="https://stratechery.com/2022/meta-myths/#rf1-9939" class="backlink" title="Return to footnote 1.">↩</a></p>
+    </li>
+  </ol>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2022-11-14</time>
+        <a href="https://nodebe4.github.io/opinion/2022-11-14/Narratives/">
+          Narratives
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-11-04</time>
+        <a href="https://nodebe4.github.io/opinion/2022-11-04/Stratechery-Plus-Adds-Sharp-China-with-Sinocism-s/">
+          Stratechery Plus Adds Sharp China with Sinocism’s Bill Bishop
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-10-25</time>
+        <a href="https://nodebe4.github.io/opinion/2022-10-25/Chips-and-China/">
+          Chips and China
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-10-18</time>
+        <a href="https://nodebe4.github.io/opinion/2022-10-18/Microsoft-Full-Circle/">
+          Microsoft Full Circle
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-10-31/%E6%AD%8C%E8%8E%89%E4%BA%9E%E7%9A%84%E5%A5%BD%E5%A5%87%E4%B8%AD%E5%B3%B6-50-%E9%85%92%E9%80%A2%E7%9F%A5%E5%B7%B1%E5%8D%83%E6%9D%AF%E5%B0%91-%E9%A3%B2%E9%85%92%E9%96%8B%E5%95%93-%E9%9D%88%E9%80%9A%E6%A8%A1%E5%BC%8F-%E5%98%89%E8%B3%93-%E6%BC%94%E5%93%A1-LMF-%E5%BB%BF%E5%9B%9B%E5%91%B3%E6%A8%82%E9%9A%8A%E6%88%90/">
+            前一篇：【歌莉亞的好奇中島】#50　酒逢知己千杯少？　飲酒開啓「靈通模式」（嘉賓：演員/LMF、廿四味樂隊成員　Phat Chan）
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-10-31/RFA%E7%8B%AC%E5%AE%B6-%E7%8E%8B%E5%BF%97%E5%AE%89(%E4%B8%8A)-%E6%88%91%E5%AF%B9%E9%9D%A9%E5%91%BD%E6%B4%BE%E6%94%B9%E8%89%AF%E6%B4%BE%E9%83%BD%E6%B2%A1%E5%85%B4%E8%B6%A3-%E6%88%91%E8%83%BD%E5%81%9A%E7%9A%84%E6%98%AF%E6%8E%A8%E5%8A%A8%E7%99%BE%E5%A7%93%E8%A7%89%E9%86%92-%E8%A7%82%E7%82%B9/">
+            後一篇：【RFA独家】王志安(上)  我对革命派改良派都没兴趣 我能做的是推动百姓觉醒 |观点
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-10-31/%E6%AD%8C%E8%8E%89%E4%BA%9E%E7%9A%84%E5%A5%BD%E5%A5%87%E4%B8%AD%E5%B3%B6-50-%E9%85%92%E9%80%A2%E7%9F%A5%E5%B7%B1%E5%8D%83%E6%9D%AF%E5%B0%91-%E9%A3%B2%E9%85%92%E9%96%8B%E5%95%93-%E9%9D%88%E9%80%9A%E6%A8%A1%E5%BC%8F-%E5%98%89%E8%B3%93-%E6%BC%94%E5%93%A1-LMF-%E5%BB%BF%E5%9B%9B%E5%91%B3%E6%A8%82%E9%9A%8A%E6%88%90/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-10-31/RFA%E7%8B%AC%E5%AE%B6-%E7%8E%8B%E5%BF%97%E5%AE%89(%E4%B8%8A)-%E6%88%91%E5%AF%B9%E9%9D%A9%E5%91%BD%E6%B4%BE%E6%94%B9%E8%89%AF%E6%B4%BE%E9%83%BD%E6%B2%A1%E5%85%B4%E8%B6%A3-%E6%88%91%E8%83%BD%E5%81%9A%E7%9A%84%E6%98%AF%E6%8E%A8%E5%8A%A8%E7%99%BE%E5%A7%93%E8%A7%89%E9%86%92-%E8%A7%82%E7%82%B9/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-11-04/Stratechery-Plus-Adds-Sharp-China-with-Sinocism-s/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-10-25/Chips-and-China/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-10-31/%E6%AD%8C%E8%8E%89%E4%BA%9E%E7%9A%84%E5%A5%BD%E5%A5%87%E4%B8%AD%E5%B3%B6-50-%E9%85%92%E9%80%A2%E7%9F%A5%E5%B7%B1%E5%8D%83%E6%9D%AF%E5%B0%91-%E9%A3%B2%E9%85%92%E9%96%8B%E5%95%93-%E9%9D%88%E9%80%9A%E6%A8%A1%E5%BC%8F-%E5%98%89%E8%B3%93-%E6%BC%94%E5%93%A1-LMF-%E5%BB%BF%E5%9B%9B%E5%91%B3%E6%A8%82%E9%9A%8A%E6%88%90/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-10-31/RFA%E7%8B%AC%E5%AE%B6-%E7%8E%8B%E5%BF%97%E5%AE%89(%E4%B8%8A)-%E6%88%91%E5%AF%B9%E9%9D%A9%E5%91%BD%E6%B4%BE%E6%94%B9%E8%89%AF%E6%B4%BE%E9%83%BD%E6%B2%A1%E5%85%B4%E8%B6%A3-%E6%88%91%E8%83%BD%E5%81%9A%E7%9A%84%E6%98%AF%E6%8E%A8%E5%8A%A8%E7%99%BE%E5%A7%93%E8%A7%89%E9%86%92-%E8%A7%82%E7%82%B9/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-11-04/Stratechery-Plus-Adds-Sharp-China-with-Sinocism-s/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-10-25/Chips-and-China/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

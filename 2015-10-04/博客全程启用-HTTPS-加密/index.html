@@ -1,0 +1,3566 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>博客全程启用 HTTPS 加密 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+
+      博客全程启用 HTTPS 加密  
+  
+    
+      
+    
+  
+  
+      
+       ★引子 
+  沦陷日长假的第一天，俺打算上博客回复读者评论。通常俺会先登录到 Blogger 的管理界面，清理一下被 Google 误判为垃圾广告的读者评论。结果在管理界面的首页，就看到了 Blogger 的最新消息——  HTTPS support coming to Blogspot   可把俺高兴坏了（好几年前，俺就盼着这一天）  在长假的头两天，俺对博客界面做了一些升级（具体下面会说）。第3天观察了一下，看大伙儿有没有碰到啥问题或 Bug，然后今天发一篇“博客通告”，跟大伙儿打个招呼。 
+       
+         ★关于 Blogspot 的升级 
+  简而言之，今后搭建在 Blogspot 上的博客，都可以使用 HTTPS 方式访问。原有的 HTTP 方式依然保留，所以实际上同时支持这两种协议。  对于博客的博主，需要先到管理界面，启用一下 HTTPS 的选项，就 OK 了。         ★关于俺博客的升级 
+  这两天做了如下几处修改。  （ 
+   俺仅仅针对博客的【桌面版】界面进行定制。俺一直没有时间去定制【手机版】的界面
+   ）        ◇自动重定向到 HTTPS 
+  如果你以 HTTP 协议打开任何一个博客页面，俺会使用 JS 脚本自动重定向到同一个页面的 HTTPS 协议。  因为俺是基于 JS 实现重定向，如果浏览器禁用了 JS，俺就没辙了。        ◇博文中的“站内链接”替换为 HTTPS 
+  博客的老读者应该知道，俺经常在博文中添加交叉链接，方便你从一篇博文跳转到另一篇相关的博文。  当读者点击某个站内链接之后，如果该链接是 http:// 开头的，在新页面打开之后，就会多增加一次跳转。为了节省大伙儿的时间，俺就预先把站内链接全部替换为 https:// 开头。  这个功能是在博文加载时，用 JS 脚本实现的。（该功能同样需要依赖 JS 脚本）        ◇评论中的“站内链接”替换为 HTTPS 
+  这个改造跟前一个类似。  因为某些读者可能会在评论中贴出某篇博文的链接，而且是 http:// 开头的。俺也用 JS 脚本统一替换为 https:// 开头  （该功能同样需要依赖 JS 脚本）        ◇上述升级的好处 
+  经过上述改造之后，所有的站内链接都是 HTTPS 的。因此， 
+   读者在博客中浏览或者发评论时，网络流量【全都是】加密的
+   。         ★HTTPS 有啥好处？ 
+       ◇对于网民而言 
+  简而言之，HTTPS 是【强加密】滴。因此，当你浏览 HTTPS 协议的网页，从“你的浏览器”到“目标网站”之间的数据传输，都是强加密的。  传输过程的强加密带来如下好处：  1. 可以防止对你的上网行为的偷窥（术语称为“嗅探”）  举例：  俺博客的读者，大部分都在墙内，因此都是采用翻墙的方式访问本博客。原先 Blogspot 不支持 HTTPS，所以你在俺博客浏览的时候，相关的网络流量，会被翻墙工具看到。如今有了全程 HTTPS 加密，翻墙工具（包括对应的代理服务器或 VPN 服务器）就无法看到你（访问俺博客）的网络流量。   2. 可以防范“流量注入”的攻击行为  举例：  天朝的某些流氓的 ISP 会在你上网的页面中植入广告。他们用的就是“流量注入”的伎俩。  一旦你访问的网站是全程 HTTPS 加密的，ISP 就【无法】针对该网站的内容进行注入。   HTTPS 的底层实现依赖于 TLS/SSL。具体的技术细节可以参见俺的另一个系列《  扫盲 HTTPS 和 SSL/TLS 协议  》（该系列尚未写完）        ◇对于站长和博主而言 
+  除了前面提到的安全性，启用 HTTPS 还有助于 SEO。  大约一年前（2014年8月），Google 调整了搜索引擎的算法，提升了 HTTPS 网址的权重。具体介绍参见 Google 的公告（在“  这里  ”）。  所以，启用 HTTPS 有助于稍微提升一下你的网站在 Google 搜索结果中的排名。  （除了 Google，其它搜索引擎说不定也会采取类似的算法调整）         ★你需要做些啥？ 
+       ◇改一下浏览器书签 
+  如果你曾经在浏览器的“书签/收藏夹”中收录了俺博客，你需要重新修改一下博客对应的网址（把 http:// 改为 https://）  （其实不改的话，也可以照样打开。但是会多一次跳转，多浪费了你一丁点时间）        ◇碰到问题的话，给俺反馈 
+  这次升级之后，如果你发现博客界面或功能有啥异样，恳请给个反馈（到博客留言）。俺先行谢过。         ★Blogspot 的博主可能会碰到的问题 
+  （如果你【不是】 Blogspot 上的博主，本节就不用看了）        ◇已知的限制 
+  Blogspot 有一个“绑定域名”的功能。很多博主用到了这个功能，把 Blogspot 上的博客内容绑定到自己的域名。  根据 Blogger 界面上的提示：在绑定的域名上，【不】支持 HTTPS 的访问。  因为俺博客没有绑定到自己的域名，所以这个限制与俺无关。（当年开博时，因为担心泄露身份，没有购买自己的域名）        ◇已知的 Bug 
+  根据俺这两天的观察，发现如下几个问题，有可能是 Blogspot 系统本身的 Bug。  1.  以 HTTPS 方式打开某篇博文，博文评论中的用户头像，有少数还是通过 HTTP 方式载入。这种情况下会导致浏览器给出警告（对于 HTTPS 加密页面中含有非加密的内容，比如图片，浏览器都会在地址栏显示一个警告）。  2.  使用 HTTPS 方式调用评论的 API，得到的 JSON 格式中，某些用户头像的网址，依然是 http:// 开头的。   这几个问题，可能会在几天之后被修复，也可能会一直存在。  俺等不及问题的修复，直接去改了“HTML 模板”中的一段 JS 脚本（这段脚本与加载评论有关），把头像的网址强制替换为 https:// 开头。  如果你也碰到类似问题，可以参考俺的修改——查看俺博客页面源代码，然后搜索： 
+   Avatar URL force HTTPS
+   （只要略懂 JS 代码，应该能看明白）         ★相关的工具 
+       ◇Qualys Lab Tool 
+  这是一个 Web 工具，网址是：  https://www.ssllabs.com/ssltest/   该工具可以用来测试任何一个支持 HTTPS 的网站，并给出很详细的技术评估结果（包括潜在的安全隐患）。        ◇HTTPS Everywhere 
+  经某热心读者提醒，顺便再推荐一个浏览器扩展——  HTTPS Everywhere   如果某个网站同时支持 HTTPS 和 HTTP（并且该网站包含在它的 ruleset 中），它会强制用 HTTPS 方式访问。  该扩展同时提供  Firefox 版本  和  Chrome 版本  。  补充说明：  为啥 HTTPS Everywhere 要依靠一个规则集，为啥不对任何网站自动检测是否有 HTTPS？其官网的回复在“  这里  ”    
+   俺博客上，和本文相关的帖子（需翻墙）
+   ：   扫盲 HTTPS 和 SSL/TLS 协议  （系列）     
+
+    版权声明
+     本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者  编程随想  和本文原始地址：   https://program-think.blogspot.com/2015/10/Blog-Enable-HTTPS.html 
+    
+    
+  
+  
+    
+         
+    
+    
+    
+ 
+    
+  
+
+" />
+    <meta property="og:description" content="
+
+      博客全程启用 HTTPS 加密  
+  
+    
+      
+    
+  
+  
+      
+       ★引子 
+  沦陷日长假的第一天，俺打算上博客回复读者评论。通常俺会先登录到 Blogger 的管理界面，清理一下被 Google 误判为垃圾广告的读者评论。结果在管理界面的首页，就看到了 Blogger 的最新消息——  HTTPS support coming to Blogspot   可把俺高兴坏了（好几年前，俺就盼着这一天）  在长假的头两天，俺对博客界面做了一些升级（具体下面会说）。第3天观察了一下，看大伙儿有没有碰到啥问题或 Bug，然后今天发一篇“博客通告”，跟大伙儿打个招呼。 
+       
+         ★关于 Blogspot 的升级 
+  简而言之，今后搭建在 Blogspot 上的博客，都可以使用 HTTPS 方式访问。原有的 HTTP 方式依然保留，所以实际上同时支持这两种协议。  对于博客的博主，需要先到管理界面，启用一下 HTTPS 的选项，就 OK 了。         ★关于俺博客的升级 
+  这两天做了如下几处修改。  （ 
+   俺仅仅针对博客的【桌面版】界面进行定制。俺一直没有时间去定制【手机版】的界面
+   ）        ◇自动重定向到 HTTPS 
+  如果你以 HTTP 协议打开任何一个博客页面，俺会使用 JS 脚本自动重定向到同一个页面的 HTTPS 协议。  因为俺是基于 JS 实现重定向，如果浏览器禁用了 JS，俺就没辙了。        ◇博文中的“站内链接”替换为 HTTPS 
+  博客的老读者应该知道，俺经常在博文中添加交叉链接，方便你从一篇博文跳转到另一篇相关的博文。  当读者点击某个站内链接之后，如果该链接是 http:// 开头的，在新页面打开之后，就会多增加一次跳转。为了节省大伙儿的时间，俺就预先把站内链接全部替换为 https:// 开头。  这个功能是在博文加载时，用 JS 脚本实现的。（该功能同样需要依赖 JS 脚本）        ◇评论中的“站内链接”替换为 HTTPS 
+  这个改造跟前一个类似。  因为某些读者可能会在评论中贴出某篇博文的链接，而且是 http:// 开头的。俺也用 JS 脚本统一替换为 https:// 开头  （该功能同样需要依赖 JS 脚本）        ◇上述升级的好处 
+  经过上述改造之后，所有的站内链接都是 HTTPS 的。因此， 
+   读者在博客中浏览或者发评论时，网络流量【全都是】加密的
+   。         ★HTTPS 有啥好处？ 
+       ◇对于网民而言 
+  简而言之，HTTPS 是【强加密】滴。因此，当你浏览 HTTPS 协议的网页，从“你的浏览器”到“目标网站”之间的数据传输，都是强加密的。  传输过程的强加密带来如下好处：  1. 可以防止对你的上网行为的偷窥（术语称为“嗅探”）  举例：  俺博客的读者，大部分都在墙内，因此都是采用翻墙的方式访问本博客。原先 Blogspot 不支持 HTTPS，所以你在俺博客浏览的时候，相关的网络流量，会被翻墙工具看到。如今有了全程 HTTPS 加密，翻墙工具（包括对应的代理服务器或 VPN 服务器）就无法看到你（访问俺博客）的网络流量。   2. 可以防范“流量注入”的攻击行为  举例：  天朝的某些流氓的 ISP 会在你上网的页面中植入广告。他们用的就是“流量注入”的伎俩。  一旦你访问的网站是全程 HTTPS 加密的，ISP 就【无法】针对该网站的内容进行注入。   HTTPS 的底层实现依赖于 TLS/SSL。具体的技术细节可以参见俺的另一个系列《  扫盲 HTTPS 和 SSL/TLS 协议  》（该系列尚未写完）        ◇对于站长和博主而言 
+  除了前面提到的安全性，启用 HTTPS 还有助于 SEO。  大约一年前（2014年8月），Google 调整了搜索引擎的算法，提升了 HTTPS 网址的权重。具体介绍参见 Google 的公告（在“  这里  ”）。  所以，启用 HTTPS 有助于稍微提升一下你的网站在 Google 搜索结果中的排名。  （除了 Google，其它搜索引擎说不定也会采取类似的算法调整）         ★你需要做些啥？ 
+       ◇改一下浏览器书签 
+  如果你曾经在浏览器的“书签/收藏夹”中收录了俺博客，你需要重新修改一下博客对应的网址（把 http:// 改为 https://）  （其实不改的话，也可以照样打开。但是会多一次跳转，多浪费了你一丁点时间）        ◇碰到问题的话，给俺反馈 
+  这次升级之后，如果你发现博客界面或功能有啥异样，恳请给个反馈（到博客留言）。俺先行谢过。         ★Blogspot 的博主可能会碰到的问题 
+  （如果你【不是】 Blogspot 上的博主，本节就不用看了）        ◇已知的限制 
+  Blogspot 有一个“绑定域名”的功能。很多博主用到了这个功能，把 Blogspot 上的博客内容绑定到自己的域名。  根据 Blogger 界面上的提示：在绑定的域名上，【不】支持 HTTPS 的访问。  因为俺博客没有绑定到自己的域名，所以这个限制与俺无关。（当年开博时，因为担心泄露身份，没有购买自己的域名）        ◇已知的 Bug 
+  根据俺这两天的观察，发现如下几个问题，有可能是 Blogspot 系统本身的 Bug。  1.  以 HTTPS 方式打开某篇博文，博文评论中的用户头像，有少数还是通过 HTTP 方式载入。这种情况下会导致浏览器给出警告（对于 HTTPS 加密页面中含有非加密的内容，比如图片，浏览器都会在地址栏显示一个警告）。  2.  使用 HTTPS 方式调用评论的 API，得到的 JSON 格式中，某些用户头像的网址，依然是 http:// 开头的。   这几个问题，可能会在几天之后被修复，也可能会一直存在。  俺等不及问题的修复，直接去改了“HTML 模板”中的一段 JS 脚本（这段脚本与加载评论有关），把头像的网址强制替换为 https:// 开头。  如果你也碰到类似问题，可以参考俺的修改——查看俺博客页面源代码，然后搜索： 
+   Avatar URL force HTTPS
+   （只要略懂 JS 代码，应该能看明白）         ★相关的工具 
+       ◇Qualys Lab Tool 
+  这是一个 Web 工具，网址是：  https://www.ssllabs.com/ssltest/   该工具可以用来测试任何一个支持 HTTPS 的网站，并给出很详细的技术评估结果（包括潜在的安全隐患）。        ◇HTTPS Everywhere 
+  经某热心读者提醒，顺便再推荐一个浏览器扩展——  HTTPS Everywhere   如果某个网站同时支持 HTTPS 和 HTTP（并且该网站包含在它的 ruleset 中），它会强制用 HTTPS 方式访问。  该扩展同时提供  Firefox 版本  和  Chrome 版本  。  补充说明：  为啥 HTTPS Everywhere 要依靠一个规则集，为啥不对任何网站自动检测是否有 HTTPS？其官网的回复在“  这里  ”    
+   俺博客上，和本文相关的帖子（需翻墙）
+   ：   扫盲 HTTPS 和 SSL/TLS 协议  （系列）     
+
+    版权声明
+     本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者  编程随想  和本文原始地址：   https://program-think.blogspot.com/2015/10/Blog-Enable-HTTPS.html 
+    
+    
+  
+  
+    
+         
+    
+    
+    
+ 
+    
+  
+
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="博客全程启用 HTTPS 加密" />
+    <meta property="twitter:title" content="博客全程启用 HTTPS 加密" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fprogram-think.blogspot.com%2F2015%2F10%2FBlog-Enable-HTTPS.html" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://program-think.blogspot.com/2015/10/Blog-Enable-HTTPS.html" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://program-think.blogspot.com/2015/10/Blog-Enable-HTTPS.html&text=博客全程启用 HTTPS 加密&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://program-think.blogspot.com/2015/10/Blog-Enable-HTTPS.html&title=博客全程启用 HTTPS 加密" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://program-think.blogspot.com/2015/10/Blog-Enable-HTTPS.html&title=博客全程启用 HTTPS 加密" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=博客全程启用 HTTPS 加密&body=
+
+      博客全程启用 HTTPS 加密  
+  
+    
+      
+    
+  
+  
+      
+       ★引子 
+  沦陷日长假的第一天，俺打算上博客回复读者评论。通常俺会先登录到 Blogger 的管理界面，清理一下被 Google 误判为垃圾广告的读者评论。结果在管理界面的首页，就看到了 Blogger 的最新消息——  HTTPS support coming to Blogspot   可把俺高兴坏了（好几年前，俺就盼着这一天）  在长假的头两天，俺对博客界面做了一些升级（具体下面会说）。第3天观察了一下，看大伙儿有没有碰到啥问题或 Bug，然后今天发一篇“博客通告”，跟大伙儿打个招呼。 
+       
+         ★关于 Blogspot 的升级 
+  简而言之，今后搭建在 Blogspot 上的博客，都可以使用 HTTPS 方式访问。原有的 HTTP 方式依然保留，所以实际上同时支持这两种协议。  对于博客的博主，需要先到管理界面，启用一下 HTTPS 的选项，就 OK 了。         ★关于俺博客的升级 
+  这两天做了如下几处修改。  （ 
+   俺仅仅针对博客的【桌面版】界面进行定制。俺一直没有时间去定制【手机版】的界面
+   ）        ◇自动重定向到 HTTPS 
+  如果你以 HTTP 协议打开任何一个博客页面，俺会使用 JS 脚本自动重定向到同一个页面的 HTTPS 协议。  因为俺是基于 JS 实现重定向，如果浏览器禁用了 JS，俺就没辙了。        ◇博文中的“站内链接”替换为 HTTPS 
+  博客的老读者应该知道，俺经常在博文中添加交叉链接，方便你从一篇博文跳转到另一篇相关的博文。  当读者点击某个站内链接之后，如果该链接是 http:// 开头的，在新页面打开之后，就会多增加一次跳转。为了节省大伙儿的时间，俺就预先把站内链接全部替换为 https:// 开头。  这个功能是在博文加载时，用 JS 脚本实现的。（该功能同样需要依赖 JS 脚本）        ◇评论中的“站内链接”替换为 HTTPS 
+  这个改造跟前一个类似。  因为某些读者可能会在评论中贴出某篇博文的链接，而且是 http:// 开头的。俺也用 JS 脚本统一替换为 https:// 开头  （该功能同样需要依赖 JS 脚本）        ◇上述升级的好处 
+  经过上述改造之后，所有的站内链接都是 HTTPS 的。因此， 
+   读者在博客中浏览或者发评论时，网络流量【全都是】加密的
+   。         ★HTTPS 有啥好处？ 
+       ◇对于网民而言 
+  简而言之，HTTPS 是【强加密】滴。因此，当你浏览 HTTPS 协议的网页，从“你的浏览器”到“目标网站”之间的数据传输，都是强加密的。  传输过程的强加密带来如下好处：  1. 可以防止对你的上网行为的偷窥（术语称为“嗅探”）  举例：  俺博客的读者，大部分都在墙内，因此都是采用翻墙的方式访问本博客。原先 Blogspot 不支持 HTTPS，所以你在俺博客浏览的时候，相关的网络流量，会被翻墙工具看到。如今有了全程 HTTPS 加密，翻墙工具（包括对应的代理服务器或 VPN 服务器）就无法看到你（访问俺博客）的网络流量。   2. 可以防范“流量注入”的攻击行为  举例：  天朝的某些流氓的 ISP 会在你上网的页面中植入广告。他们用的就是“流量注入”的伎俩。  一旦你访问的网站是全程 HTTPS 加密的，ISP 就【无法】针对该网站的内容进行注入。   HTTPS 的底层实现依赖于 TLS/SSL。具体的技术细节可以参见俺的另一个系列《  扫盲 HTTPS 和 SSL/TLS 协议  》（该系列尚未写完）        ◇对于站长和博主而言 
+  除了前面提到的安全性，启用 HTTPS 还有助于 SEO。  大约一年前（2014年8月），Google 调整了搜索引擎的算法，提升了 HTTPS 网址的权重。具体介绍参见 Google 的公告（在“  这里  ”）。  所以，启用 HTTPS 有助于稍微提升一下你的网站在 Google 搜索结果中的排名。  （除了 Google，其它搜索引擎说不定也会采取类似的算法调整）         ★你需要做些啥？ 
+       ◇改一下浏览器书签 
+  如果你曾经在浏览器的“书签/收藏夹”中收录了俺博客，你需要重新修改一下博客对应的网址（把 http:// 改为 https://）  （其实不改的话，也可以照样打开。但是会多一次跳转，多浪费了你一丁点时间）        ◇碰到问题的话，给俺反馈 
+  这次升级之后，如果你发现博客界面或功能有啥异样，恳请给个反馈（到博客留言）。俺先行谢过。         ★Blogspot 的博主可能会碰到的问题 
+  （如果你【不是】 Blogspot 上的博主，本节就不用看了）        ◇已知的限制 
+  Blogspot 有一个“绑定域名”的功能。很多博主用到了这个功能，把 Blogspot 上的博客内容绑定到自己的域名。  根据 Blogger 界面上的提示：在绑定的域名上，【不】支持 HTTPS 的访问。  因为俺博客没有绑定到自己的域名，所以这个限制与俺无关。（当年开博时，因为担心泄露身份，没有购买自己的域名）        ◇已知的 Bug 
+  根据俺这两天的观察，发现如下几个问题，有可能是 Blogspot 系统本身的 Bug。  1.  以 HTTPS 方式打开某篇博文，博文评论中的用户头像，有少数还是通过 HTTP 方式载入。这种情况下会导致浏览器给出警告（对于 HTTPS 加密页面中含有非加密的内容，比如图片，浏览器都会在地址栏显示一个警告）。  2.  使用 HTTPS 方式调用评论的 API，得到的 JSON 格式中，某些用户头像的网址，依然是 http:// 开头的。   这几个问题，可能会在几天之后被修复，也可能会一直存在。  俺等不及问题的修复，直接去改了“HTML 模板”中的一段 JS 脚本（这段脚本与加载评论有关），把头像的网址强制替换为 https:// 开头。  如果你也碰到类似问题，可以参考俺的修改——查看俺博客页面源代码，然后搜索： 
+   Avatar URL force HTTPS
+   （只要略懂 JS 代码，应该能看明白）         ★相关的工具 
+       ◇Qualys Lab Tool 
+  这是一个 Web 工具，网址是：  https://www.ssllabs.com/ssltest/   该工具可以用来测试任何一个支持 HTTPS 的网站，并给出很详细的技术评估结果（包括潜在的安全隐患）。        ◇HTTPS Everywhere 
+  经某热心读者提醒，顺便再推荐一个浏览器扩展——  HTTPS Everywhere   如果某个网站同时支持 HTTPS 和 HTTP（并且该网站包含在它的 ruleset 中），它会强制用 HTTPS 方式访问。  该扩展同时提供  Firefox 版本  和  Chrome 版本  。  补充说明：  为啥 HTTPS Everywhere 要依靠一个规则集，为啥不对任何网站自动检测是否有 HTTPS？其官网的回复在“  这里  ”    
+   俺博客上，和本文相关的帖子（需翻墙）
+   ：   扫盲 HTTPS 和 SSL/TLS 协议  （系列）     
+
+    版权声明
+     本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者  编程随想  和本文原始地址：   https://program-think.blogspot.com/2015/10/Blog-Enable-HTTPS.html 
+    
+    
+  
+  
+    
+         
+    
+    
+    
+ 
+    
+  
+
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://program-think.blogspot.com/2015/10/Blog-Enable-HTTPS.html" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://program-think.blogspot.com/2015/10/Blog-Enable-HTTPS.html&title=博客全程启用 HTTPS 加密&caption=
+
+      博客全程启用 HTTPS 加密  
+  
+    
+      
+    
+  
+  
+      
+       ★引子 
+  沦陷日长假的第一天，俺打算上博客回复读者评论。通常俺会先登录到 Blogger 的管理界面，清理一下被 Google 误判为垃圾广告的读者评论。结果在管理界面的首页，就看到了 Blogger 的最新消息——  HTTPS support coming to Blogspot   可把俺高兴坏了（好几年前，俺就盼着这一天）  在长假的头两天，俺对博客界面做了一些升级（具体下面会说）。第3天观察了一下，看大伙儿有没有碰到啥问题或 Bug，然后今天发一篇“博客通告”，跟大伙儿打个招呼。 
+       
+         ★关于 Blogspot 的升级 
+  简而言之，今后搭建在 Blogspot 上的博客，都可以使用 HTTPS 方式访问。原有的 HTTP 方式依然保留，所以实际上同时支持这两种协议。  对于博客的博主，需要先到管理界面，启用一下 HTTPS 的选项，就 OK 了。         ★关于俺博客的升级 
+  这两天做了如下几处修改。  （ 
+   俺仅仅针对博客的【桌面版】界面进行定制。俺一直没有时间去定制【手机版】的界面
+   ）        ◇自动重定向到 HTTPS 
+  如果你以 HTTP 协议打开任何一个博客页面，俺会使用 JS 脚本自动重定向到同一个页面的 HTTPS 协议。  因为俺是基于 JS 实现重定向，如果浏览器禁用了 JS，俺就没辙了。        ◇博文中的“站内链接”替换为 HTTPS 
+  博客的老读者应该知道，俺经常在博文中添加交叉链接，方便你从一篇博文跳转到另一篇相关的博文。  当读者点击某个站内链接之后，如果该链接是 http:// 开头的，在新页面打开之后，就会多增加一次跳转。为了节省大伙儿的时间，俺就预先把站内链接全部替换为 https:// 开头。  这个功能是在博文加载时，用 JS 脚本实现的。（该功能同样需要依赖 JS 脚本）        ◇评论中的“站内链接”替换为 HTTPS 
+  这个改造跟前一个类似。  因为某些读者可能会在评论中贴出某篇博文的链接，而且是 http:// 开头的。俺也用 JS 脚本统一替换为 https:// 开头  （该功能同样需要依赖 JS 脚本）        ◇上述升级的好处 
+  经过上述改造之后，所有的站内链接都是 HTTPS 的。因此， 
+   读者在博客中浏览或者发评论时，网络流量【全都是】加密的
+   。         ★HTTPS 有啥好处？ 
+       ◇对于网民而言 
+  简而言之，HTTPS 是【强加密】滴。因此，当你浏览 HTTPS 协议的网页，从“你的浏览器”到“目标网站”之间的数据传输，都是强加密的。  传输过程的强加密带来如下好处：  1. 可以防止对你的上网行为的偷窥（术语称为“嗅探”）  举例：  俺博客的读者，大部分都在墙内，因此都是采用翻墙的方式访问本博客。原先 Blogspot 不支持 HTTPS，所以你在俺博客浏览的时候，相关的网络流量，会被翻墙工具看到。如今有了全程 HTTPS 加密，翻墙工具（包括对应的代理服务器或 VPN 服务器）就无法看到你（访问俺博客）的网络流量。   2. 可以防范“流量注入”的攻击行为  举例：  天朝的某些流氓的 ISP 会在你上网的页面中植入广告。他们用的就是“流量注入”的伎俩。  一旦你访问的网站是全程 HTTPS 加密的，ISP 就【无法】针对该网站的内容进行注入。   HTTPS 的底层实现依赖于 TLS/SSL。具体的技术细节可以参见俺的另一个系列《  扫盲 HTTPS 和 SSL/TLS 协议  》（该系列尚未写完）        ◇对于站长和博主而言 
+  除了前面提到的安全性，启用 HTTPS 还有助于 SEO。  大约一年前（2014年8月），Google 调整了搜索引擎的算法，提升了 HTTPS 网址的权重。具体介绍参见 Google 的公告（在“  这里  ”）。  所以，启用 HTTPS 有助于稍微提升一下你的网站在 Google 搜索结果中的排名。  （除了 Google，其它搜索引擎说不定也会采取类似的算法调整）         ★你需要做些啥？ 
+       ◇改一下浏览器书签 
+  如果你曾经在浏览器的“书签/收藏夹”中收录了俺博客，你需要重新修改一下博客对应的网址（把 http:// 改为 https://）  （其实不改的话，也可以照样打开。但是会多一次跳转，多浪费了你一丁点时间）        ◇碰到问题的话，给俺反馈 
+  这次升级之后，如果你发现博客界面或功能有啥异样，恳请给个反馈（到博客留言）。俺先行谢过。         ★Blogspot 的博主可能会碰到的问题 
+  （如果你【不是】 Blogspot 上的博主，本节就不用看了）        ◇已知的限制 
+  Blogspot 有一个“绑定域名”的功能。很多博主用到了这个功能，把 Blogspot 上的博客内容绑定到自己的域名。  根据 Blogger 界面上的提示：在绑定的域名上，【不】支持 HTTPS 的访问。  因为俺博客没有绑定到自己的域名，所以这个限制与俺无关。（当年开博时，因为担心泄露身份，没有购买自己的域名）        ◇已知的 Bug 
+  根据俺这两天的观察，发现如下几个问题，有可能是 Blogspot 系统本身的 Bug。  1.  以 HTTPS 方式打开某篇博文，博文评论中的用户头像，有少数还是通过 HTTP 方式载入。这种情况下会导致浏览器给出警告（对于 HTTPS 加密页面中含有非加密的内容，比如图片，浏览器都会在地址栏显示一个警告）。  2.  使用 HTTPS 方式调用评论的 API，得到的 JSON 格式中，某些用户头像的网址，依然是 http:// 开头的。   这几个问题，可能会在几天之后被修复，也可能会一直存在。  俺等不及问题的修复，直接去改了“HTML 模板”中的一段 JS 脚本（这段脚本与加载评论有关），把头像的网址强制替换为 https:// 开头。  如果你也碰到类似问题，可以参考俺的修改——查看俺博客页面源代码，然后搜索： 
+   Avatar URL force HTTPS
+   （只要略懂 JS 代码，应该能看明白）         ★相关的工具 
+       ◇Qualys Lab Tool 
+  这是一个 Web 工具，网址是：  https://www.ssllabs.com/ssltest/   该工具可以用来测试任何一个支持 HTTPS 的网站，并给出很详细的技术评估结果（包括潜在的安全隐患）。        ◇HTTPS Everywhere 
+  经某热心读者提醒，顺便再推荐一个浏览器扩展——  HTTPS Everywhere   如果某个网站同时支持 HTTPS 和 HTTP（并且该网站包含在它的 ruleset 中），它会强制用 HTTPS 方式访问。  该扩展同时提供  Firefox 版本  和  Chrome 版本  。  补充说明：  为啥 HTTPS Everywhere 要依靠一个规则集，为啥不对任何网站自动检测是否有 HTTPS？其官网的回复在“  这里  ”    
+   俺博客上，和本文相关的帖子（需翻墙）
+   ：   扫盲 HTTPS 和 SSL/TLS 协议  （系列）     
+
+    版权声明
+     本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者  编程随想  和本文原始地址：   https://program-think.blogspot.com/2015/10/Blog-Enable-HTTPS.html 
+    
+    
+  
+  
+    
+         
+    
+    
+    
+ 
+    
+  
+
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=博客全程启用 HTTPS 加密&url=https://program-think.blogspot.com/2015/10/Blog-Enable-HTTPS.html" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>博客全程启用 HTTPS 加密</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2015-10-04
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#编程随想">
+          编程随想
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://program-think.blogspot.com/2015/10/Blog-Enable-HTTPS.html" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="编程随想的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#编程随想 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <div class="post hentry uncustomized-post-template">
+<a name="7832740516169759871">
+ </a>   <h1 class="post-title entry-title" id="https---"> <a href="https://program-think.blogspot.com/2015/10/Blog-Enable-HTTPS.html"> 博客全程启用 HTTPS 加密 </a> </h1>
+  <div class="post-header">
+    <div class="post-header-line-1">
+      <div class="post-inner-index"></div>
+    </div>
+  </div>
+  <div class="post-body entry-content">
+    <center> <img alt="不见图 请翻墙" src="https://lh6.googleusercontent.com/2UOkEgaXLx6jfjKYBC_LZ38TA8ferB9CZBFCYY5mXQqxtdb7yxvyt_OPCs-yXu4vNq6F7zUji5BQpzdtC9XmBizQn0Ody2Jwd6VDM_v9SOrilIOcIJZSmreiXNPi_7vCwnoOVN6qdg" /> </center>
+ <br />     <h2 id="section"> ★引子 </h2>
+ <br /> 沦陷日长假的第一天，俺打算上博客回复读者评论。通常俺会先登录到 Blogger 的管理界面，清理一下被 Google 误判为垃圾广告的读者评论。结果在管理界面的首页，就看到了 Blogger 的最新消息—— <a href="https://googleonlinesecurity.blogspot.com/2015/09/https-support-coming-to-blogspot.html" rel="nofollow" target="_blank"> HTTPS support coming to Blogspot </a> <br /> 可把俺高兴坏了（好几年前，俺就盼着这一天） <br /> 在长假的头两天，俺对博客界面做了一些升级（具体下面会说）。第3天观察了一下，看大伙儿有没有碰到啥问题或 Bug，然后今天发一篇“博客通告”，跟大伙儿打个招呼。 <a name="more">
+  </a>     <!--program-think-->
+ <br /> <br /> <br />     <h2 id="blogspot--"> ★关于 Blogspot 的升级 </h2>
+ <br /> 简而言之，今后搭建在 Blogspot 上的博客，都可以使用 HTTPS 方式访问。原有的 HTTP 方式依然保留，所以实际上同时支持这两种协议。 <br /> 对于博客的博主，需要先到管理界面，启用一下 HTTPS 的选项，就 OK 了。 <br /> <br /> <br />     <h2 id="section-1"> ★关于俺博客的升级 </h2>
+ <br /> 这两天做了如下几处修改。 <br /> （ <b>
+   俺仅仅针对博客的【桌面版】界面进行定制。俺一直没有时间去定制【手机版】的界面
+  </b> ） <br /> <br />     <h3 id="https-"> ◇自动重定向到 HTTPS </h3>
+ <br /> 如果你以 HTTP 协议打开任何一个博客页面，俺会使用 JS 脚本自动重定向到同一个页面的 HTTPS 协议。 <br /> 因为俺是基于 JS 实现重定向，如果浏览器禁用了 JS，俺就没辙了。 <br /> <br />     <h3 id="https--1"> ◇博文中的“站内链接”替换为 HTTPS </h3>
+ <br /> 博客的老读者应该知道，俺经常在博文中添加交叉链接，方便你从一篇博文跳转到另一篇相关的博文。 <br /> 当读者点击某个站内链接之后，如果该链接是 http:// 开头的，在新页面打开之后，就会多增加一次跳转。为了节省大伙儿的时间，俺就预先把站内链接全部替换为 https:// 开头。 <br /> 这个功能是在博文加载时，用 JS 脚本实现的。（该功能同样需要依赖 JS 脚本） <br /> <br />     <h3 id="https--2"> ◇评论中的“站内链接”替换为 HTTPS </h3>
+ <br /> 这个改造跟前一个类似。 <br /> 因为某些读者可能会在评论中贴出某篇博文的链接，而且是 http:// 开头的。俺也用 JS 脚本统一替换为 https:// 开头 <br /> （该功能同样需要依赖 JS 脚本） <br /> <br />     <h3 id="section-2"> ◇上述升级的好处 </h3>
+ <br /> 经过上述改造之后，所有的站内链接都是 HTTPS 的。因此， <b>
+   读者在博客中浏览或者发评论时，网络流量【全都是】加密的
+  </b> 。 <br /> <br /> <br />     <h2 id="https--"> ★HTTPS 有啥好处？ </h2>
+ <br />     <h3 id="section-3"> ◇对于网民而言 </h3>
+ <br /> 简而言之，HTTPS 是【强加密】滴。因此，当你浏览 HTTPS 协议的网页，从“你的浏览器”到“目标网站”之间的数据传输，都是强加密的。 <br /> 传输过程的强加密带来如下好处： <br /> 1. 可以防止对你的上网行为的偷窥（术语称为“嗅探”） <br /> 举例： <br /> 俺博客的读者，大部分都在墙内，因此都是采用翻墙的方式访问本博客。原先 Blogspot 不支持 HTTPS，所以你在俺博客浏览的时候，相关的网络流量，会被翻墙工具看到。如今有了全程 HTTPS 加密，翻墙工具（包括对应的代理服务器或 VPN 服务器）就无法看到你（访问俺博客）的网络流量。 <br /> <br /> 2. 可以防范“流量注入”的攻击行为 <br /> 举例： <br /> 天朝的某些流氓的 ISP 会在你上网的页面中植入广告。他们用的就是“流量注入”的伎俩。 <br /> 一旦你访问的网站是全程 HTTPS 加密的，ISP 就【无法】针对该网站的内容进行注入。 <br /> <br /> HTTPS 的底层实现依赖于 TLS/SSL。具体的技术细节可以参见俺的另一个系列《 <a href="https://program-think.blogspot.com/2014/11/https-ssl-tls-0.html"> 扫盲 HTTPS 和 SSL/TLS 协议 </a> 》（该系列尚未写完） <br /> <br />     <h3 id="section-4"> ◇对于站长和博主而言 </h3>
+ <br /> 除了前面提到的安全性，启用 HTTPS 还有助于 SEO。 <br /> 大约一年前（2014年8月），Google 调整了搜索引擎的算法，提升了 HTTPS 网址的权重。具体介绍参见 Google 的公告（在“ <a href="http://googlewebmastercentral.blogspot.com/2014/08/https-as-ranking-signal.html" rel="nofollow" target="_blank"> 这里 </a> ”）。 <br /> 所以，启用 HTTPS 有助于稍微提升一下你的网站在 Google 搜索结果中的排名。 <br /> （除了 Google，其它搜索引擎说不定也会采取类似的算法调整） <br /> <br /> <br />     <h2 id="section-5"> ★你需要做些啥？ </h2>
+ <br />     <h3 id="section-6"> ◇改一下浏览器书签 </h3>
+ <br /> 如果你曾经在浏览器的“书签/收藏夹”中收录了俺博客，你需要重新修改一下博客对应的网址（把 http:// 改为 https://） <br /> （其实不改的话，也可以照样打开。但是会多一次跳转，多浪费了你一丁点时间） <br /> <br />     <h3 id="section-7"> ◇碰到问题的话，给俺反馈 </h3>
+ <br /> 这次升级之后，如果你发现博客界面或功能有啥异样，恳请给个反馈（到博客留言）。俺先行谢过。 <br /> <br /> <br />     <h2 id="blogspot---1"> ★Blogspot 的博主可能会碰到的问题 </h2>
+ <br /> （如果你【不是】 Blogspot 上的博主，本节就不用看了） <br /> <br />     <h3 id="section-8"> ◇已知的限制 </h3>
+ <br /> Blogspot 有一个“绑定域名”的功能。很多博主用到了这个功能，把 Blogspot 上的博客内容绑定到自己的域名。 <br /> 根据 Blogger 界面上的提示：在绑定的域名上，【不】支持 HTTPS 的访问。 <br /> 因为俺博客没有绑定到自己的域名，所以这个限制与俺无关。（当年开博时，因为担心泄露身份，没有购买自己的域名） <br /> <br />     <h3 id="bug-"> ◇已知的 Bug </h3>
+ <br /> 根据俺这两天的观察，发现如下几个问题，有可能是 Blogspot 系统本身的 Bug。 <br /> 1. <br /> 以 HTTPS 方式打开某篇博文，博文评论中的用户头像，有少数还是通过 HTTP 方式载入。这种情况下会导致浏览器给出警告（对于 HTTPS 加密页面中含有非加密的内容，比如图片，浏览器都会在地址栏显示一个警告）。 <br /> 2. <br /> 使用 HTTPS 方式调用评论的 API，得到的 JSON 格式中，某些用户头像的网址，依然是 http:// 开头的。 <br /> <br /> 这几个问题，可能会在几天之后被修复，也可能会一直存在。 <br /> 俺等不及问题的修复，直接去改了“HTML 模板”中的一段 JS 脚本（这段脚本与加载评论有关），把头像的网址强制替换为 https:// 开头。 <br /> 如果你也碰到类似问题，可以参考俺的修改——查看俺博客页面源代码，然后搜索： <b>
+   Avatar URL force HTTPS
+  </b> （只要略懂 JS 代码，应该能看明白） <br /> <br /> <br />     <h2 id="section-9"> ★相关的工具 </h2>
+ <br />     <h3 id="qualys-lab-tool-"> ◇Qualys Lab Tool </h3>
+ <br /> 这是一个 Web 工具，网址是： <a href="https://www.ssllabs.com/ssltest/" rel="nofollow" target="_blank"> https://www.ssllabs.com/ssltest/ </a> <br /> 该工具可以用来测试任何一个支持 HTTPS 的网站，并给出很详细的技术评估结果（包括潜在的安全隐患）。 <br /> <br />     <h3 id="https-everywhere-"> ◇HTTPS Everywhere </h3>
+ <br /> 经某热心读者提醒，顺便再推荐一个浏览器扩展—— <a href="https://en.wikipedia.org/wiki/HTTPS_Everywhere" rel="nofollow" target="_blank"> HTTPS Everywhere </a> <br /> 如果某个网站同时支持 HTTPS 和 HTTP（并且该网站包含在它的 ruleset 中），它会强制用 HTTPS 方式访问。 <br /> 该扩展同时提供 <a href="https://addons.mozilla.org/en/firefox/addon/https-everywhere/" rel="nofollow" target="_blank"> Firefox 版本 </a> 和 <a href="https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp" rel="nofollow" target="_blank"> Chrome 版本 </a> 。 <br /> 补充说明： <br /> 为啥 HTTPS Everywhere 要依靠一个规则集，为啥不对任何网站自动检测是否有 HTTPS？其官网的回复在“ <a href="https://www.eff.org/https-everywhere/faq#faq-Why-use-a-whitelist-of-sites-that-support-HTTPS?-Why-can%27t-you-try-to-use-HTTPS-for-every-last-site,-and-only-fall-back-to-HTTP-if-it-isn%27t-available?" rel="nofollow" target="_blank"> 这里 </a> ” <br /> <br /> <br /> <b>
+   俺博客上，和本文相关的帖子（需翻墙）
+  </b> ： <br /> <a href="https://program-think.blogspot.com/2014/11/https-ssl-tls-0.html"> 扫盲 HTTPS 和 SSL/TLS 协议 </a> （系列）     <div class="post-copyright">
+<b>
+    版权声明
+   </b> <br /> 本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者 <a href="mailto:program.think@gmail.com"> 编程随想 </a> 和本文原始地址： <br /> <a href="https://program-think.blogspot.com/2015/10/Blog-Enable-HTTPS.html" id="OriginalPostUrl"> https://program-think.blogspot.com/2015/10/Blog-Enable-HTTPS.html </a>
+    </div>
+    <div style="clear: both;"></div>
+  </div>
+  <div class="post-footer" style="margin-bottom:50px;">
+    <div class="post-footer-line post-footer-line-1" style="display:none;">
+<span class="post-author vcard"> </span> <span class="reaction-buttons"> </span> <span class="star-ratings"> </span> <span class="post-icons"> </span> <span class="post-backlinks post-comment-link"> </span>
+    </div>
+    <div class="post-footer-line post-footer-line-2 post-toolbar"></div>
+    <div class="post-footer-line post-footer-line-3">
+<span class="post-location"> </span>
+    </div>
+  </div>
+</div>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#编程随想 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2021-05-09/%E5%88%86%E4%BA%AB%E5%90%84%E7%B1%BB%E7%94%B5%E5%AD%90%E4%B9%A6-%E6%94%BF%E6%B2%BB-IT-%E7%A7%91%E6%99%AE-%E5%8E%86%E5%8F%B2-%E7%AD%89-97%E6%9C%AC/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-01-15/%E5%8D%9A%E5%AE%A2%E5%BC%80%E5%BC%A0%E5%8F%8A%E6%9C%AC%E5%8D%9A%E5%AE%A2%E5%86%85%E5%AE%B9%E7%AE%80%E4%BB%8B/">最早</a>--</span>
+    
+      <li>
+        <time>2015-10-19</time>
+        <a href="https://nodebe4.github.io/opinion/2015-10-19/%E7%A7%91%E5%AD%A6%E6%98%AF%E4%BB%80%E4%B9%88-%E5%85%BC%E8%B0%88-%E9%9D%9E%E7%A7%91%E5%AD%A6-%E4%BC%AA%E7%A7%91%E5%AD%A6-%E5%8F%8D%E7%A7%91%E5%AD%A6-%E5%92%8C%E4%B8%80%E4%BA%9B%E5%B8%B8%E8%A7%81%E8%B0%AC%E8%AF%AF/">
+          科学是什么？——兼谈“非科学、伪科学、反科学”和一些常见谬误
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2015-10-09</time>
+        <a href="https://nodebe4.github.io/opinion/2015-10-09/%E6%89%AB%E7%9B%B2-VeraCrypt-%E8%B7%A8%E5%B9%B3%E5%8F%B0%E7%9A%84-TrueCrypt-%E6%9B%BF%E4%BB%A3%E5%93%81/">
+          扫盲 VeraCrypt——跨平台的 TrueCrypt 替代品
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2015-09-27</time>
+        <a href="https://nodebe4.github.io/opinion/2015-09-27/%E8%81%8A%E8%81%8A%E4%BA%8C%E6%88%98%E4%B8%AD%E7%9A%84%E6%97%A5%E6%9C%AC-%E5%88%86%E6%9E%90%E5%90%84%E6%96%B9%E9%9D%A2%E7%9A%84%E4%BC%98%E5%8A%BF%E5%8A%A3%E5%8A%BF/">
+          聊聊二战中的日本——分析各方面的优势劣势
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2015-09-15</time>
+        <a href="https://nodebe4.github.io/opinion/2015-09-15/%E4%BA%8C%E6%88%98%E4%B8%AD%E6%97%A5%E6%9C%AC%E6%98%AF%E5%A6%82%E4%BD%95%E5%B4%A9%E6%BA%83%E7%9A%84-%E5%85%BC%E8%B0%88%E4%B8%AD%E5%9B%BD%E6%88%98%E5%8C%BA%E7%9A%84%E4%BD%9C%E7%94%A8%E8%A2%AB%E5%A4%B8%E5%A4%A7/">
+          二战中日本是如何崩溃的？——兼谈中国战区的作用被夸大
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2015-10-04/%E6%94%BF%E8%A7%81%E4%BC%97%E5%8C%85%E7%BF%BB%E8%AF%91%E8%AE%A1%E5%88%92-%E4%B8%80%E8%B5%B7%E6%9D%A5%E7%BF%BB%E8%AF%91%E8%8B%B1%E6%96%87%E5%AD%A6%E6%9C%AF%E8%91%97%E4%BD%9C%E5%90%A7/">
+            前一篇：政见众包翻译计划 | 一起来翻译英文学术著作吧
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2015-10-05/%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E6%97%A5%E6%9C%AC%E6%96%B0%E5%AE%89%E4%BF%9D%E6%B3%95%E6%A1%88%E4%B8%8E%E4%BF%AE%E5%AE%AA%E4%BA%8B%E4%B8%9A/">
+            後一篇：如何理解日本新安保法案与修宪事业？
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2015-10-04/%E6%94%BF%E8%A7%81%E4%BC%97%E5%8C%85%E7%BF%BB%E8%AF%91%E8%AE%A1%E5%88%92-%E4%B8%80%E8%B5%B7%E6%9D%A5%E7%BF%BB%E8%AF%91%E8%8B%B1%E6%96%87%E5%AD%A6%E6%9C%AF%E8%91%97%E4%BD%9C%E5%90%A7/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2015-10-05/%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E6%97%A5%E6%9C%AC%E6%96%B0%E5%AE%89%E4%BF%9D%E6%B3%95%E6%A1%88%E4%B8%8E%E4%BF%AE%E5%AE%AA%E4%BA%8B%E4%B8%9A/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2015-10-09/%E6%89%AB%E7%9B%B2-VeraCrypt-%E8%B7%A8%E5%B9%B3%E5%8F%B0%E7%9A%84-TrueCrypt-%E6%9B%BF%E4%BB%A3%E5%93%81/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2015-09-27/%E8%81%8A%E8%81%8A%E4%BA%8C%E6%88%98%E4%B8%AD%E7%9A%84%E6%97%A5%E6%9C%AC-%E5%88%86%E6%9E%90%E5%90%84%E6%96%B9%E9%9D%A2%E7%9A%84%E4%BC%98%E5%8A%BF%E5%8A%A3%E5%8A%BF/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2015-10-04/%E6%94%BF%E8%A7%81%E4%BC%97%E5%8C%85%E7%BF%BB%E8%AF%91%E8%AE%A1%E5%88%92-%E4%B8%80%E8%B5%B7%E6%9D%A5%E7%BF%BB%E8%AF%91%E8%8B%B1%E6%96%87%E5%AD%A6%E6%9C%AF%E8%91%97%E4%BD%9C%E5%90%A7/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2015-10-05/%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E6%97%A5%E6%9C%AC%E6%96%B0%E5%AE%89%E4%BF%9D%E6%B3%95%E6%A1%88%E4%B8%8E%E4%BF%AE%E5%AE%AA%E4%BA%8B%E4%B8%9A/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<编程随想>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2015-10-09/%E6%89%AB%E7%9B%B2-VeraCrypt-%E8%B7%A8%E5%B9%B3%E5%8F%B0%E7%9A%84-TrueCrypt-%E6%9B%BF%E4%BB%A3%E5%93%81/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<编程随想>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2015-09-27/%E8%81%8A%E8%81%8A%E4%BA%8C%E6%88%98%E4%B8%AD%E7%9A%84%E6%97%A5%E6%9C%AC-%E5%88%86%E6%9E%90%E5%90%84%E6%96%B9%E9%9D%A2%E7%9A%84%E4%BC%98%E5%8A%BF%E5%8A%A3%E5%8A%BF/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

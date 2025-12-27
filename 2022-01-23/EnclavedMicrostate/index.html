@@ -1,0 +1,2545 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>EnclavedMicrostate在2022-01-17~2022-01-23的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="EnclavedMicrostate在2022-01-17~2022-01-23的言论" />
+    <meta property="twitter:title" content="EnclavedMicrostate在2022-01-17~2022-01-23的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FAskHistorians%2Fcomments%2Fs662m5%2Fwhat_were_toilets_like_in_various_eras_of_history%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/AskHistorians/comments/s662m5/what_were_toilets_like_in_various_eras_of_history/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/AskHistorians/comments/s662m5/what_were_toilets_like_in_various_eras_of_history/&text=EnclavedMicrostate在2022-01-17~2022-01-23的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/AskHistorians/comments/s662m5/what_were_toilets_like_in_various_eras_of_history/&title=EnclavedMicrostate在2022-01-17~2022-01-23的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/AskHistorians/comments/s662m5/what_were_toilets_like_in_various_eras_of_history/&title=EnclavedMicrostate在2022-01-17~2022-01-23的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=EnclavedMicrostate在2022-01-17~2022-01-23的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/AskHistorians/comments/s662m5/what_were_toilets_like_in_various_eras_of_history/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/AskHistorians/comments/s662m5/what_were_toilets_like_in_various_eras_of_history/&title=EnclavedMicrostate在2022-01-17~2022-01-23的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=EnclavedMicrostate在2022-01-17~2022-01-23的言论&url=https://old.reddit.com/r/AskHistorians/comments/s662m5/what_were_toilets_like_in_various_eras_of_history/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>EnclavedMicrostate在2022-01-17~2022-01-23的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-01-23
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: EnclavedMicrostate</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/AskHistorians/comments/s662m5/what_were_toilets_like_in_various_eras_of_history/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#75-what-were-toilets-like-in-various-eras-of-history-submitted-on-2022-01-17-2306280800" id="markdown-toc-75-what-were-toilets-like-in-various-eras-of-history-submitted-on-2022-01-17-2306280800">75: What were toilets like in various eras of history?, submitted on 2022-01-17 23:06:28+08:00.</a></li>
+  <li><a href="#76-why-didnt-ming-china--joseon-korea-intervene-during-japans-sengoku-jidai-submitted-on-2022-01-18-1450000800" id="markdown-toc-76-why-didnt-ming-china--joseon-korea-intervene-during-japans-sengoku-jidai-submitted-on-2022-01-18-1450000800">76: Why didn’t Ming China &amp; Joseon Korea intervene during Japan’s Sengoku Jidai?, submitted on 2022-01-18 14:50:00+08:00.</a></li>
+  <li><a href="#77-who-is-better-alexander-the-great-or-ghengis-khan-and-why--submitted-on-2022-01-18-2116270800" id="markdown-toc-77-who-is-better-alexander-the-great-or-ghengis-khan-and-why--submitted-on-2022-01-18-2116270800">77: Who is better ALexander The Great or ghengis khan and why ?, submitted on 2022-01-18 21:16:27+08:00.</a></li>
+  <li><a href="#78-throughout-human-history-who-has-been-treated-the-worse-women-or-black-people-submitted-on-2022-01-18-2226170800" id="markdown-toc-78-throughout-human-history-who-has-been-treated-the-worse-women-or-black-people-submitted-on-2022-01-18-2226170800">78: Throughout Human History: Who has been treated the worse: Women or Black people?, submitted on 2022-01-18 22:26:17+08:00.</a></li>
+  <li><a href="#79-how-were-home-addresses--mail-delivery-handled-in-ancient-chinese-cities-submitted-on-2022-01-20-1113360800" id="markdown-toc-79-how-were-home-addresses--mail-delivery-handled-in-ancient-chinese-cities-submitted-on-2022-01-20-1113360800">79: How were home addresses / mail delivery handled in ancient Chinese cities?, submitted on 2022-01-20 11:13:36+08:00.</a></li>
+  <li><a href="#80-why-do-governments-deal-with-states-near-international-borders-so-heavy-handedly-submitted-on-2022-01-20-1524360800" id="markdown-toc-80-why-do-governments-deal-with-states-near-international-borders-so-heavy-handedly-submitted-on-2022-01-20-1524360800">80: Why do governments deal with states near international borders so heavy-handedly?, submitted on 2022-01-20 15:24:36+08:00.</a></li>
+  <li><a href="#81-the-destruction-of-the-southern-shaolin-temple-by-the-qing-is-a-central-event-in-hong-kong-martial-arts-movies-but-this-temple-might-not-have-existed-where-did-this-myth-come-from-and-what-role-did-it-play-in-martial-arts-history-submitted-on-2022-01-20-1532310800" id="markdown-toc-81-the-destruction-of-the-southern-shaolin-temple-by-the-qing-is-a-central-event-in-hong-kong-martial-arts-movies-but-this-temple-might-not-have-existed-where-did-this-myth-come-from-and-what-role-did-it-play-in-martial-arts-history-submitted-on-2022-01-20-1532310800">81: The destruction of the Southern Shaolin Temple by the Qing is a central event in Hong Kong martial arts movies, but this temple might not have existed. Where did this myth come from, and what role did it play in martial arts history?, submitted on 2022-01-20 15:32:31+08:00.</a></li>
+  <li><a href="#introduction-and-theory" id="markdown-toc-introduction-and-theory">Introduction and Theory</a></li>
+  <li><a href="#the-history" id="markdown-toc-the-history">The History</a></li>
+  <li><a href="#the-myth" id="markdown-toc-the-myth">The Myth</a></li>
+  <li><a href="#sources-and-further-reading" id="markdown-toc-sources-and-further-reading">Sources and Further Reading</a></li>
+  <li><a href="#82-what-was-the-worst-time-to-be-alive-in-history-and-what-was-the-best-submitted-on-2022-01-20-2340390800" id="markdown-toc-82-what-was-the-worst-time-to-be-alive-in-history-and-what-was-the-best-submitted-on-2022-01-20-2340390800">82: What was the worst time to be alive in history? And what was the best?, submitted on 2022-01-20 23:40:39+08:00.</a></li>
+  <li><a href="#83-what-languages-did-people-in-france-speak-before-the-french-revolution-submitted-on-2022-01-22-0953450800" id="markdown-toc-83-what-languages-did-people-in-france-speak-before-the-french-revolution-submitted-on-2022-01-22-0953450800">83: What language(s) did people in France speak before the French Revolution?, submitted on 2022-01-22 09:53:45+08:00.</a></li>
+  <li><a href="#84-how-does-the-current-situation-with-russia-regarding-ukraine-compare-to-the-cold-war-submitted-on-2022-01-22-1014010800" id="markdown-toc-84-how-does-the-current-situation-with-russia-regarding-ukraine-compare-to-the-cold-war-submitted-on-2022-01-22-1014010800">84: How does the current situation with Russia, regarding Ukraine, compare to the Cold War?, submitted on 2022-01-22 10:14:01+08:00.</a></li>
+  <li><a href="#85-hololive-super-expo-2022-official-penlight-color-summary-submitted-on-2022-01-22-1025500800" id="markdown-toc-85-hololive-super-expo-2022-official-penlight-color-summary-submitted-on-2022-01-22-1025500800">85: hololive SUPER EXPO 2022 official penlight color summary, submitted on 2022-01-22 10:25:50+08:00.</a></li>
+  <li><a href="#86-about-how-many-manchus-lived-in-china-proper-during-qing-rule-and-why-did-seemingly-so-many-move-to-china-proper-after-its-conquest-submitted-on-2022-01-22-1251190800" id="markdown-toc-86-about-how-many-manchus-lived-in-china-proper-during-qing-rule-and-why-did-seemingly-so-many-move-to-china-proper-after-its-conquest-submitted-on-2022-01-22-1251190800">86: About how many Manchus lived in China proper during Qing rule, and why did seemingly so many move to China proper after its conquest?, submitted on 2022-01-22 12:51:19+08:00.</a></li>
+  <li><a href="#i-the-weird-mess-that-is-manchu-demography" id="markdown-toc-i-the-weird-mess-that-is-manchu-demography">I: The Weird Mess that is Manchu Demography</a></li>
+  <li><a href="#ii-movement-to-china-proper" id="markdown-toc-ii-movement-to-china-proper">II: Movement to China Proper</a></li>
+  <li><a href="#sources-and-further-reading-1" id="markdown-toc-sources-and-further-reading-1">Sources and Further Reading</a></li>
+  <li><a href="#87-what-would-lincoln-have-thought-of-fascism-apologies-in-advanced-if-this-is-a-dumb-question-submitted-on-2022-01-22-1622040800" id="markdown-toc-87-what-would-lincoln-have-thought-of-fascism-apologies-in-advanced-if-this-is-a-dumb-question-submitted-on-2022-01-22-1622040800">87: What would Lincoln have thought of fascism? Apologies in advanced if this is a dumb question., submitted on 2022-01-22 16:22:04+08:00.</a></li>
+  <li><a href="#88-whats-the-best-book-on-modern-us-china-relations-submitted-on-2022-01-23-0734530800" id="markdown-toc-88-whats-the-best-book-on-modern-us-china-relations-submitted-on-2022-01-23-0734530800">88: What’s the best book on modern US-China relations?, submitted on 2022-01-23 07:34:53+08:00.</a></li>
+  <li><a href="#89-did-asbestos-save-more-people-than-it-killed-submitted-on-2022-01-23-1123430800" id="markdown-toc-89-did-asbestos-save-more-people-than-it-killed-submitted-on-2022-01-23-1123430800">89: Did asbestos save more people than it killed?, submitted on 2022-01-23 11:23:43+08:00.</a></li>
+  <li><a href="#90-are-there-any-historical-either-historical-or-paleo-genetic-clues-on-when-poop-aversion-first-became-ubiquitous-across-most-cultures-submitted-on-2022-01-23-1152430800" id="markdown-toc-90-are-there-any-historical-either-historical-or-paleo-genetic-clues-on-when-poop-aversion-first-became-ubiquitous-across-most-cultures-submitted-on-2022-01-23-1152430800">90: Are there any historical (either historical or paleo-genetic) clues on when “poop aversion” first became ubiquitous across most cultures?, submitted on 2022-01-23 11:52:43+08:00.</a></li>
+  <li><a href="#91-outside-of-civil-wars-do-we-know-of-any-pre-modern-or-early-modern-societies-which-had-homicide-levels-similar-to-the-most-violent-nations-today-submitted-on-2022-01-23-1213330800" id="markdown-toc-91-outside-of-civil-wars-do-we-know-of-any-pre-modern-or-early-modern-societies-which-had-homicide-levels-similar-to-the-most-violent-nations-today-submitted-on-2022-01-23-1213330800">91: Outside of civil wars, do we know of any pre modern or early modern societies which had homicide levels similar to the most violent nations today?, submitted on 2022-01-23 12:13:33+08:00.</a></li>
+  <li><a href="#92-im-not-great-at-editing-but-i-thought-of-this-meme-and-had-to-post-it--submitted-on-2022-01-23-2143140800" id="markdown-toc-92-im-not-great-at-editing-but-i-thought-of-this-meme-and-had-to-post-it--submitted-on-2022-01-23-2143140800">92: I’m not great at editing but I thought of this meme and had to post it-, submitted on 2022-01-23 21:43:14+08:00.</a></li>
+  <li><a href="#93-hobby-scuffles-week-of-january-24-2022-submitted-on-2022-01-23-2300220800" id="markdown-toc-93-hobby-scuffles-week-of-january-24-2022-submitted-on-2022-01-23-2300220800">93: [Hobby Scuffles] Week of January 24, 2022, submitted on 2022-01-23 23:00:22+08:00.</a></li>
+</ul>
+
+<h3 id="75-what-were-toilets-like-in-various-eras-of-history-submitted-on-2022-01-17-2306280800">75: <a href="https://old.reddit.com/r/AskHistorians/comments/s662m5/what_were_toilets_like_in_various_eras_of_history/">What were toilets like in various eras of history?</a>, submitted on 2022-01-17 23:06:28+08:00.</h3>
+
+<p>—– <strong>75.1</strong> —–2022-01-18 00:47:44+08:00:</p>
+
+<p>Apologies, but we have removed your question in its current form as it breaks our <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">rules concerning the scope of questions</a>. However, it might be that an altered version of your question would fit within our rules, and we encourage you to reword your question to fit the rule. While we do allow questions which ask about general topics without specific bounding by time or space, we do ask that they be clearly phrased and presented in a way that can be answered by an individual historian focusing on only one example which they can write about in good detail.</p>
+
+<p>So for example, if you wanted to ask, “<em>Have people always rebelled against health rules in pandemics?</em>” we would remove the question. As phrased, it asks broadly about many places collectively. However if you ask “<em>In the time and place you study, how did people rebel against health rules in a pandemic?</em>” we would allow the question. As phrased, while still asking broadly, it does so in a way that clearly invites a given expert to write exclusively about their topic of focus! We encourage you to think about rewording your question to fit this rule, and thank you for your understanding. If you are unsure of how best to reshape your question to fit these requirements, <a href="https://www.reddit.com/message/compose/?to=/r/AskHistorians">please reach out to us for assistance</a>.</p>
+
+<h3 id="76-why-didnt-ming-china--joseon-korea-intervene-during-japans-sengoku-jidai-submitted-on-2022-01-18-1450000800">76: <a href="https://old.reddit.com/r/AskHistorians/comments/s6r5id/why_didnt_ming_china_joseon_korea_intervene/">Why didn’t Ming China &amp; Joseon Korea intervene during Japan’s Sengoku Jidai?</a>, submitted on 2022-01-18 14:50:00+08:00.</h3>
+
+<p>—– <strong>76.1</strong> —–2022-01-19 01:44:17+08:00:</p>
+
+<p>Sorry, but we have removed your response, as we expect answers in this subreddit to be <a href="https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/">in-depth and comprehensive</a>, and to demonstrate a <a href="https://www.reddit.com/r/AskHistorians/comments/g3peg6/rules_roundtable_x_informed_complete_answers_the/">familiarity</a> with the <a href="https://www.reddit.com/r/AskHistorians/comments/fj1ieh/rules_roundtable_v_sources_what_is_required/">current, academic understanding</a> of the topic at hand. Before contributing again, please take the time to better familiarize yourself with <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_write_an_in-depth_answer">the rules</a>, as well as our expectations for an answer such as featured on <a href="http://www.twitter.com/askhistorians">Twitter</a> or in the <a href="http://www.reddit.com/r/AskHistorians/search?q=title%3A%22Sunday+Digest%22&amp;restrict_sr=on&amp;sort=new&amp;t=all">Sunday Digest</a>.</p>
+
+<h3 id="77-who-is-better-alexander-the-great-or-ghengis-khan-and-why--submitted-on-2022-01-18-2116270800">77: <a href="https://old.reddit.com/r/AskHistorians/comments/s6xb51/who_is_better_alexander_the_great_or_ghengis_khan/">Who is better ALexander The Great or ghengis khan and why ?</a>, submitted on 2022-01-18 21:16:27+08:00.</h3>
+
+<p>—– <strong>77.1</strong> —–2022-01-18 22:37:44+08:00:</p>
+
+<p>This submission has been removed because it violates the <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions">rule on poll-type questions</a>. These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the “most”, the “worst”, “unknown”, or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult <a href="https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/">this Roundtable discussion</a>.</p>
+
+<p>For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.</p>
+
+<h3 id="78-throughout-human-history-who-has-been-treated-the-worse-women-or-black-people-submitted-on-2022-01-18-2226170800">78: <a href="https://old.reddit.com/r/AskHistorians/comments/s6yqgt/throughout_human_history_who_has_been_treated_the/">Throughout Human History: Who has been treated the worse: Women or Black people?</a>, submitted on 2022-01-18 22:26:17+08:00.</h3>
+
+<p>—– <strong>78.1</strong> —–2022-01-18 22:38:30+08:00:</p>
+
+<p>This submission has been removed because it violates the <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions">rule on poll-type questions</a>. These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the “most”, the “worst”, “unknown”, or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult <a href="https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/">this Roundtable discussion</a>.</p>
+
+<p>For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.</p>
+
+<h3 id="79-how-were-home-addresses--mail-delivery-handled-in-ancient-chinese-cities-submitted-on-2022-01-20-1113360800">79: <a href="https://old.reddit.com/r/AskHistorians/comments/s88meg/how_were_home_addresses_mail_delivery_handled_in/">How were home addresses / mail delivery handled in ancient Chinese cities?</a>, submitted on 2022-01-20 11:13:36+08:00.</h3>
+
+<p>—– <strong>79.1</strong> —–2022-01-21 13:13:52+08:00:</p>
+
+<blockquote>
+  <p>Sir Robert Hart (British) founded the Imperial Post in 1896</p>
+</blockquote>
+
+<p>Irish, technically – it’s why Chinese postboxes are painted green!</p>
+
+<h3 id="80-why-do-governments-deal-with-states-near-international-borders-so-heavy-handedly-submitted-on-2022-01-20-1524360800">80: <a href="https://old.reddit.com/r/AskHistorians/comments/s8d92v/why_do_governments_deal_with_states_near/">Why do governments deal with states near international borders so heavy-handedly?</a>, submitted on 2022-01-20 15:24:36+08:00.</h3>
+
+<p>—– <strong>80.1</strong> —–2022-01-20 17:12:58+08:00:</p>
+
+<p>This submission has been removed because it involves current events.  To keep from discussion of politics, we have a <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events">20-year rule</a> here.  You may want to try /r/ask_politics, /r/NeutralPolitics, or another current-events focused sub. For further explanation of this rule, feel free to consult <a href="https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/">this Rules Roundtable</a>.</p>
+
+<h3 id="81-the-destruction-of-the-southern-shaolin-temple-by-the-qing-is-a-central-event-in-hong-kong-martial-arts-movies-but-this-temple-might-not-have-existed-where-did-this-myth-come-from-and-what-role-did-it-play-in-martial-arts-history-submitted-on-2022-01-20-1532310800">81: <a href="https://old.reddit.com/r/AskHistorians/comments/s8ddl3/the_destruction_of_the_southern_shaolin_temple_by/">The destruction of the Southern Shaolin Temple by the Qing is a central event in Hong Kong martial arts movies, but this temple might not have existed. Where did this myth come from, and what role did it play in martial arts history?</a>, submitted on 2022-01-20 15:32:31+08:00.</h3>
+
+<p>—– <strong>81.1</strong> —–2022-01-21 02:44:57+08:00:</p>
+
+<h3 id="introduction-and-theory">Introduction and Theory</h3>
+
+<p>I cannot claim to be a particular specialist in martial arts or in its historiography – my greatest hands-on experience has been about two years of Wing Chun I did before the age of 10; my attempts to actually look into the history of this topic has been marred by just how barren a lot of the historiography is.</p>
+
+<p>But the explanation of that comparative barrenness is part of the answer to your question, because it explains how the myth has continued to have such presence and currency. As Paul Bowman puts it, when it comes to the writing of the history of martial arts, there are in effect</p>
+
+<blockquote>
+  <p>two different kinds of discourse, each claiming to be knowledge: ideological and mystical, on the one hand, versus verifiable and somewhat more prosaic, on the other.</p>
+</blockquote>
+
+<p>And in turn, there are distinct priorities and desires among the proponents of each. By and large, hands-on practitioners of martial arts will repeat the stories told within their own discipline(s), not least because they form part of the overall ‘package’ of being a practitioner. Academic historians of martial arts, however, will be looking critically at what can be verified through reliable sources, irrespective of what is believed by the practitioners. Indeed, academic <em>anythings</em> will do that – specialists in the human body, for instance, will investigate the actual, empirically verifiable effects of martial arts on the body and the mechanisms by which those effects occur, irrespective of what the specific claims made by practitioners may be.</p>
+
+<p>Before continuing, it is worth making two digressions to set the scene a bit. The first is to echo Bowman’s point that although these discourses are incompatible, neither is more legitimate inherently. The invented traditions of various disciplines as they exist today are nevertheless important to those disciplines as they exist, and even if they are in a sense ‘lies’ they are still the basis of sincerely held beliefs about particular practices; yet it is still important to have a grasp of verifiable reality when it comes to the various dimensions of martial arts.</p>
+
+<p>The second is to note that the majority of contemporary historical writing on East Asian martial arts is non-academic in nature and written by present-day practitioners – <a href="https://www.reddit.com/r/AskHistorians/comments/dca5b9/historiographic_question_what_is_new_military/f288xkw/">not unlike military history in the 19th and early 20th centuries</a> – with serious academic approaches being comparatively recent. However, it is quite fortunate that much of this academic material, precisely because it is competing with repeated myths and received wisdom, is relatively accessible – for instance, the journal <em>Martial Arts Studies</em> is open-access, and so too is the article I’m drawing on by Paul Bowman. What it means is that both compete in the same arena, and there is arguably no real middle ground: practitioners themselves will have difficulty accepting that their disciplines’ received knowledge is at best inaccurate and at worst complete bunk; academics will understandably be miffed at the suggestion that they ought to treat this received wisdom as having equal value to what is actually verifiable.</p>
+
+<p>This sets the scene for <em>why</em> the myth has persisted: for the martial arts practitioner, whether there actually was a Southern Shaolin Temple or not is irrelevant, because it did exist in the context of their own perspective on their own practiced tradition. The historian cannot change the practitioner’s mind because the two are operating on different wavelengths, so to speak. As for <em>how</em>, that’s a different question that we can dig into a bit.</p>
+
+<h3 id="the-history">The History</h3>
+
+<p>We can, with decent certainty, say that the Qing were not particularly keen on the original Shaolin Monastery in Henan or its attendant branches, for two principal reasons.</p>
+
+<p>The first was that, like many other Eurasian powers of the Early Modern period, the Qing liked to rationalise their domains and constituents, and disliked entities that lay somewhat beyond their power. The Shaolin Monastery was only one of many Chinese Buddhist institutions over which the Qing did not necessarily exert direct control, and which which were themselves only one part of a general distrust of independent religious institutions that also broadly applied to Daoist temples. The second was that, like many Buddhist and Daoist temples with a martial arm, the Shaolin Monastery had contributed troops to support the Ming in the previous dynasty’s wars, albeit against the Shun rebels of Li Zicheng rather than the Manchus in the case of Shaolin. Despite not being one of the temples that supplied troops to the ‘Southern’ Ming during the Qing conquest of south China (of which there were many), the Shaolin Temple was nevertheless perceived as a potential locus of Ming loyalism, not just by the Qing state itself but also by elites who objected to what they saw as illegitimate alien rule. Thanks in part to the romantic writings of resentful ex-Ming officials, there came to be a pervasive but frankly impossible myth that the Shaolin monks had rebelled against Qing rule and that the monastery’s destitute state in the late 17th century was a result of imperial reprisals that had stopped just short of ordering its total dissolution.</p>
+
+<p>The reality was that by the time that Qing rule extended over Henan, the Shaolin Monastery had already been in pretty dire straits. In supplying troops to the Ming to fight off Li Zicheng, the Shaolin Monastery lost many of its monks in battle against Li and his allies, but its troubles did not end there, as it was subsequently preyed on by local warlords who had emerged in the absence of Ming authority. According to local chronicles, one such warlord named Li Jiyu pretended to patronise the monastery, and at one stage requested that certain ceremonies be held for his birthday. While the monks performed these, Li had his troops charge in, and they slaughtered the disarmed monks and destroyed much of the temple’s infrastructure. Some further damage may have been caused by the Qing army as it marched south through Henan in the 1640s, though the record of this is at best rather oblique. Left destitute, the monastery remained dilapidated for nearly a century, with decades of neglect under relatively apathetic Qing rule. The Qing did eventually patronise the monastery somewhat, but only from 1704 onward, although these contributions could be significant: the Yongzheng Emperor paid for substantial renovations in 1735, and in return the temple hosted the Qianlong Emperor during his first Southern Inspection in 1750. But while the core monastery saw some Qing patronage, its subsidiary shrines in the region were destroyed and dispersed as basically a final nail in the coffin for its power as a local institution. It never really regained its former prestige either, with nobody holding the post of head abbott between 1664 and <em>1999</em>. The Qing remained consistently suspicious of the monastery, which was often suspected of colluding with various dissident groups at least as late as the Eight Trigrams revolt in 1813, when official communications expressed concern that the monastery might harbour fugitive sectarian rebels.</p>
+
+<p>Thanks to the earlier depredations, the Shaolin Monastery as a military entity had very much collapsed. The same chronicler who recorded the destruction of the temple by Li Jiyu reported visiting the temple some time between the late 1650s and 1670s, where he requested that two novices demonstrate their skills for him. ‘Their performance was no better than that of street beggars. It was not worth watching.’ While the monastery retained its legendary reputation for martial prowess, the Qing were not eager to allow it to be taken seriously; in 1775 the Qianlong Emperor officially forbade officials and officers from involving Buddhist monks in the army, in response to news that the governor of Henan had taken on Shaolin monks as army instructors. ‘Having monks train his soldiers is not only beyond one’s authority,’ wrote the emperor, ‘it also makes him into a laughing stock.’</p>
+
+<p>—– <strong>81.2</strong> —–2022-01-21 02:45:13+08:00:</p>
+
+<h3 id="the-myth">The Myth</h3>
+
+<p>The Qing conquest of China was, to say the least, a deeply traumatic event for many Han Chinese, especially as it involved the overthrow of the Ming, a state that had built itself on ‘de-Mongolification’ in the wake of Yuan rule, and which had upheld a sort of cosmically-ordained division between the ‘civilised’ and ‘barbarian’ worlds, made particularly potent by the construction of the Great Wall. Manifestations of anti-Qing sentiment often came in fits and starts, but it is probably fair to say that the Qing never could – and never did – feel entirely safe from a proto-nationalist uprising by any of their non-Manchu subjects. More importantly for the purposes of analysing the history of Shaolin, many organisations in southern China that pitched themselves as anti-Qing liked, for the purposes of PR and credibility, to claim continuity with movements and entities that had resisted the Qing invasion. Perhaps most prominent among these was – indeed, is – the Heaven and Earth Society in Fujian, splinters of which became the triad crime gangs, and which claims to have been formed when the Qing invaded southern China in the 1650s. There is, in fact, no verifiable truth to this: the Heaven and Earth Society came into existence in the early 1760s as a community mutual aid organisation, and only began anti-Qing agitation later in the decade, well after their foundation. What it goes to show, though, is that stories of an anti-Shaolin reprisal by the Qing were rooted in a pervasive anti-Qing attitude that was particularly prevalent in south Chinese society.</p>
+
+<p>The origin story of the Heaven and Earth Society that eventually developed involves, surprise surprise, the Shaolin Monastery, and it seems to have been at least partly responsible for cementing the narrative that the Shaolin Monastery was destroyed during the Kangxi reign (1661-1722) and its practitioners scattered across southern China. That this was specifically a <em>Southern</em> Shaolin Monastery is not always consistently clear, and some versions of the myth – including its earliest attested form in 1811 – claim or at least strongly imply it was the original Shaolin Monastery in Henan. However, the idea that this was a branch monastery – given the perhaps suspect timeframe of the destruction if it was supposed to be the original one – seems nevertheless to have gained prominence as a result. This did, however, have the perhaps unintended effect of leading to <em>several</em> monasteries claiming to be the rebuilt Southern Shaolin Monastery. According to Zhou Weiliang, at least three Buddhist temples in Fujian alleged that they were entitled to the moniker, with relatively little to actually show for it. But this claim nevertheless had currency, particularly in a region and in a time where it was possible to insinuate anti-Qing connections comparatively openly and expect that the extent of public support would outweigh the risks of official opposition.</p>
+
+<p>To tie this in to the Hong Kong film industry, most of the prominent works in HK martial arts cinema find their roots in Wing Chun and its practitioners – more specifically, Ip Man’s branch of Wing Chun – and Wing Chun basically replicates the Heaven and Earth Society’s founding myth in claiming to have originated from monks fleeing the destroyed Southern Shaolin Monastery. Judkins and Nielson argue that the claim of Shaolin origins among martial arts clans dates to at least the 1890s, when the trope also starts to appear in martial arts novels; this would track with a broader uptick in anti-Qing sentiments that would eventually lead to the empire’s downfall, and which became particularly acute in the wake of the First Sino-Japanese War in 1894-5. That said, the Shaolin aspect of the Heaven and Earth Society’s origin myth is attested as early as 1811, so the development in the 1890s ought to be understood as involving the adoption of this myth by martial arts groups, and not its original invention.</p>
+
+<p>On top of this, modern East Asian martial arts owe a lot to Japan, in that Japanese martial arts in the early 20th century were perhaps the most formalised and professionalised, thereby setting expectations for martial arts in the rest of Asia, and also in that martial arts became a way for East Asian countries to assert a sense of identity in response to the Japanese ascendancy in the region. Before the term <em>Wushu</em> (literally ‘martial arts’) was established as the standard by the Communist PRC, the Nationalist ROC referred to Chinese martial arts as <em>Guoshu</em>, literally ‘national arts’ (or ‘the national art’). As an aside, a comparable dynamic can be seen with Taekwondo, which, despite its internal narrative of being an ancient Korean art, is functionally a branch of Shōtōkan karate which was given a Korean nationalist rebranding after the end of the Japanese occupation of Korea in 1945, and used as part of the two new Korean states’ attempts at nation-building in the post-colonial period.</p>
+
+<p>Tying that back to Hong Kong, it is easy to retroject contemporary Hong Kong’s tense relationship with Chinese nationhood back into the twentieth century, when the situation was actually a bit more clear-cut. Later nationalist claims of Manchu ‘Sinicisation’ aside, the essential foreignness of the Qing in their early decades has always been quietly understood (well, ‘believed’ is perhaps more appropriate), and so the story of the Shaolin monastery’s destruction takes on a certain character of nationalist resistance – one with particular currency amid the rise of the Japanese Empire and the longer-term traumas this left, and also amid the continued British colonial presence in Hong Kong. Lest we forget that 1967 saw massive left-wing protests against British rule in which 51 Hongkongers were killed by British police; just four years later Bruce Lee burst onto the cinematic scene in <em>The Big Boss</em>.</p>
+
+<p>An undercurrent of Chinese nationalism pervades a not insubstantial amount of Hong Kong martial arts cinema, and it is probably no surprise that Japan and the Japanese can be found as the antagonists in some of the more iconic works in the genre: 1972’s <em>Fist of Fury</em> sees Bruce Lee beating up karate students in post-WW1 Shanghai; 2008’s <em>Ip Man</em> is set largely during the Japanese occupation of southern China; the now somewhat obscure (but at the time quite popular) <em>Apkido</em>, also from 1972, is set in prewar, Japanese-ruled Korea. You can even find subtle hints in films that don’t directly address the Japanese Empire: Bruce Lee’s self-produced <em>Way of the Dragon</em> (1972 again) has a number of scenes where Bruce demonstrates the superiority of kung fu over karate, first against the employees at the restaurant he’s protecting, and then against the thugs hired by the mafia boss (including Chuck Norris); Stephen Chow’s <em>Kung Fu Hustle</em> (2004) evokes the overall period setting of 1940s Shanghai even if the Japanese – indeed, any sort of political or military situation – are curiously absent. Going all the way back to the Shaolin temple, then, it forms part of a motif common across the genre where kung fu isn’t just a cool fighting style, it’s also an assertion of (Han) Chinese resilience.</p>
+
+<p>—– <strong>81.3</strong> —–2022-01-21 02:50:45+08:00:</p>
+
+<h3 id="sources-and-further-reading">Sources and Further Reading</h3>
+
+<ul>
+  <li>
+    <p>Paul Bowman, ‘Making Martial Arts History Matter’, <em>The International Journal of the History of Sport</em>, 33:9 (2016) – <a href="https://www.tandfonline.com/doi/full/10.1080/09523367.2016.1212842">open-access link here</a></p>
+  </li>
+  <li>
+    <p>Peter Lorge, <em>Chinese Martial Arts: From Antiquity to the Twenty-First Century</em> (2011)</p>
+  </li>
+  <li>
+    <p>Meir Shahar, <em>The Shaolin Monastery: History, Religion, and the Chinese Martial Arts</em> (2008)</p>
+  </li>
+  <li>
+    <p>Benjamin N. Judkins, Jon Nielson, <em>The Creation of Wing Chun: A Social History of the Southern Chinese Martial Arts</em> (2015)</p>
+  </li>
+  <li>
+    <p>Benjamin N. Judkins, <a href="https://chinesemartialstudies.com/2015/12/07/conference-report-religion-violence-and-existence-of-the-southern-shaolin-temple/">‘Conference Report: Religion, Violence, and Existence of the Southern Shaolin Temple’</a>, on his blog <em>Kung Fu Tea: Martial Arts History, Wing Chun and Chinese Martial Studies</em>, 2015</p>
+  </li>
+  <li>
+    <p>Dian Murray, Qin Baoqi, <em>The Origins of the Tiandihui: The Chinese Triads in Legend and History</em> (1994)</p>
+  </li>
+</ul>
+
+<h3 id="82-what-was-the-worst-time-to-be-alive-in-history-and-what-was-the-best-submitted-on-2022-01-20-2340390800">82: <a href="https://old.reddit.com/r/AskHistorians/comments/s8lrd9/what_was_the_worst_time_to_be_alive_in_history/">What was the worst time to be alive in history? And what was the best?</a>, submitted on 2022-01-20 23:40:39+08:00.</h3>
+
+<p>—– <strong>82.1</strong> —–2022-01-20 23:43:55+08:00:</p>
+
+<p>This submission has been removed because it violates the <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions">rule on poll-type questions</a>. These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the “most”, the “worst”, “unknown”, or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult <a href="https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/">this Roundtable discussion</a>.</p>
+
+<p>For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.</p>
+
+<h3 id="83-what-languages-did-people-in-france-speak-before-the-french-revolution-submitted-on-2022-01-22-0953450800">83: <a href="https://old.reddit.com/r/AskHistorians/comments/s9r5do/what_languages_did_people_in_france_speak_before/">What language(s) did people in France speak before the French Revolution?</a>, submitted on 2022-01-22 09:53:45+08:00.</h3>
+
+<p>—– <strong>83.1</strong> —–2022-01-22 20:36:57+08:00:</p>
+
+<p>Answers in the subreddit are expected to be in-depth and comprehensive, as laid out in the <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_write_an_in-depth_answer">subreddit rules</a>. There is no hard and fast definition of that, but in evaluating what you know on the topic, and what you are planning to post, consider whether your answer will <em>demonstrate</em> these four qualities to a reader:</p>
+
+<ul>
+  <li><a href="https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/">Do I have the expertise needed to answer this question?</a></li>
+  <li><a href="https://www.reddit.com/r/AskHistorians/comments/g3peg6/rules_roundtable_x_informed_complete_answers_the/">Have I done research on this question?</a></li>
+  <li><a href="https://www.reddit.com/r/AskHistorians/comments/fj1ieh/rules_roundtable_v_sources_what_is_required/">Can I cite academic quality primary and secondary sources?</a></li>
+  <li><a href="https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/">Can I answer follow-up questions?</a></li>
+</ul>
+
+<p>If you have further questions, please <a href="https://www.reddit.com/message/compose/?to=/r/AskHistorians">reach out to us via modmail</a>. Thank you!</p>
+
+<h3 id="84-how-does-the-current-situation-with-russia-regarding-ukraine-compare-to-the-cold-war-submitted-on-2022-01-22-1014010800">84: <a href="https://old.reddit.com/r/AskHistorians/comments/s9rjmb/how_does_the_current_situation_with_russia/">How does the current situation with Russia, regarding Ukraine, compare to the Cold War?</a>, submitted on 2022-01-22 10:14:01+08:00.</h3>
+
+<p>—– <strong>84.1</strong> —–2022-01-22 11:00:48+08:00:</p>
+
+<p>This submission has been removed because it violates our <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events">‘20-Year Rule’</a>. To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult <a href="https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/">this Rules Roundtable</a>.</p>
+
+<h3 id="85-hololive-super-expo-2022-official-penlight-color-summary-submitted-on-2022-01-22-1025500800">85: <a href="https://old.reddit.com/r/Hololive/comments/s9rrsh/hololive_super_expo_2022_official_penlight_color/">hololive SUPER EXPO 2022 official penlight color summary</a>, submitted on 2022-01-22 10:25:50+08:00.</h3>
+
+<p>—– <strong>85.1</strong> —–2022-03-25 19:13:35+08:00:</p>
+
+<p>I come to you 2 months later to report that the audience did in fact switch to red during the song.</p>
+
+<h3 id="86-about-how-many-manchus-lived-in-china-proper-during-qing-rule-and-why-did-seemingly-so-many-move-to-china-proper-after-its-conquest-submitted-on-2022-01-22-1251190800">86: <a href="https://old.reddit.com/r/AskHistorians/comments/s9ugbx/about_how_many_manchus_lived_in_china_proper/">About how many Manchus lived in China proper during Qing rule, and why did seemingly so many move to China proper after its conquest?</a>, submitted on 2022-01-22 12:51:19+08:00.</h3>
+
+<p>—– <strong>86.1</strong> —–2022-01-23 15:35:46+08:00:</p>
+
+<h3 id="i-the-weird-mess-that-is-manchu-demography">I: The Weird Mess that is Manchu Demography</h3>
+
+<p>Population figures for the Manchus under Qing rule aren’t difficult to reconstruct for a historian with access to the source material, but the secondary sources don’t always do a lot of in-depth enumerating, particularly for certain periods like the late 18th century where a population figure might be very useful for comparative purposes. It has only been comparatively recently that there has been significant English-language scholarship looking into Manchu demography in depth. Before we continue it is worth pointing out that Manchu demography is tied up in broader Banner demography, producing a bit of a Russian nesting doll sort of issue: the Banners were divided into Manchu Banners, Mongol Banners, and Hanjun (‘Martial Han’) Banners, and even then the Manchu Banners included a handful of non-Manchu but broadly Tungusic peoples; there were also ‘bondservant companies’ not organised into full Banners but instead attached to the other Banners, primarily the Manchus. Not all the sources on population figures divide helpfully between those four categories, although the more detailed ones do.</p>
+
+<p>In terms of sources, there are two broad sorts. The most regular are estimates in contemporary writings, which you would hope would give at least a good sense of trends over time. But these tend to vary heavily, in large part because they don’t consistently choose the same metric: are they counting just Manchus, or all ‘free’ Bannermen, or the total population of Bannermen including enslaved and bonded people, and were they excluding unemployed Bannermen or and only counting those in military or civil service? Rarer, but more useful, are a few detailed surveys of the Banner population carried out at the court’s behest.</p>
+
+<p>While these surveys are very precise, they are, it should be noted, very precise on one particular bit of data, that being the number of <em>ding</em> 丁 (able-bodied males) in the Banners. What we don’t know is the dependency ratio, where estimates range from as little as 1:3 to as much as 1:9, with the latter figure generally incorporating slaves and bondservants who formed their own households for some purposes, but were counted in ‘free’ Manchu households for others. Mark Elliott, in <em>The Manchu Way</em> (2001), opts to offer around 1:2.75 as a low-end estimate, and 1:6 as a high-end estimate. Using the precise breakdowns found in Qing documents in 1648 and 1720, he gives the following figures:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Year</th>
+      <th>Manchus</th>
+      <th>Mongols</th>
+      <th>Hanjun</th>
+      <th>Bondservants and Others</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1648</td>
+      <td>206,961-389,436</td>
+      <td>107,729-202,712</td>
+      <td>171,591-322,881</td>
+      <td>812,002-1,527,937</td>
+    </tr>
+    <tr>
+      <td>1720</td>
+      <td>576,786-1,083,480</td>
+      <td>230,508-433,747</td>
+      <td>766,279-1,442,747</td>
+      <td>1,025,202-1,929,113</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>What complicates these figures further is that not all bondservants were Han. Indeed, perhaps half would have been Manchus at the time these sets of data were compiled. Which means that while the ‘free’ Manchu population would have gone from around 200-400k to 570k-1m, the <em>total</em> Manchu population would likely have been closer to 600k-1.1m in 1648, and 1.1m-2m in 1720.</p>
+
+<p>David Porter carries the demographic data through into the nineteenth century, though he only counts <em>ding</em> and avoids the dependency issue; I’ve reproduced his data, in conjunction with An’s, below:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Year</th>
+      <th>Manchus</th>
+      <th>Mongols</th>
+      <th>Hanjun</th>
+      <th>Bondservants and Slaves</th>
+      <th>‘Post-Conquest Han’*</th>
+      <th>Misc. Others*</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1648</td>
+      <td>55,330</td>
+      <td>28,785</td>
+      <td>45,849</td>
+      <td>216,967</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>1657</td>
+      <td>49,695</td>
+      <td>26,053</td>
+      <td>78,782</td>
+      <td>237,338</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>1720</td>
+      <td>154,117</td>
+      <td>61,562</td>
+      <td>204,870</td>
+      <td>239,494</td>
+      <td>34,440</td>
+      <td>5,577</td>
+    </tr>
+    <tr>
+      <td>1788</td>
+      <td>201,373</td>
+      <td>72,761</td>
+      <td>148,945</td>
+      <td>67,608</td>
+      <td>31,635</td>
+      <td>6,353</td>
+    </tr>
+    <tr>
+      <td>1818</td>
+      <td>222,968</td>
+      <td>72,128</td>
+      <td>143,554</td>
+      <td>50,163</td>
+      <td>29,893</td>
+      <td>4,346</td>
+    </tr>
+    <tr>
+      <td>1887</td>
+      <td>229,011</td>
+      <td>75,367</td>
+      <td>143,322</td>
+      <td>27,172</td>
+      <td>32,680</td>
+      <td>4,796</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>* Where known</p>
+
+<p>What is important to note is the decline in both Hanjun and bondservant categories there: the late Qianlong period saw a substantial effort to expel certain non-Manchus and Mongols from the Banners for reasons that are debated and which I won’t really get into now. This complicates things as far as Manchu demography goes. Porter suggests bondservants were overwhelmingly Han, which was probably true for his period of coverage in the later eighteenth into nineteenth centuries, but in the Kangxi and Yongzheng periods at least, it seems plausible enough – albeit near-impossible to definitively prove – that most bondservants were ethnically Manchu, but that there was a gradual move to elevate ethnic-Manchu bondservant companies into the ranks of the ‘free’ Manchu Banners. This, then, means that the shorthand of adding half the bondservants probably no longer works past a certain point, and there seems to be no clear answer on what the ethnic makeup of the bondservant companies was after their dramatic slashing in the Qianlong reign.</p>
+
+<p>Still, assuming we can reuse the 1:3 to 1:6 dependency ratios, then I’d give as estimates for the Manchu population in 1788, 1818 and 1887, rounding to 3 significant figures:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Year</th>
+      <th>Excluding Bondservants</th>
+      <th>Assuming 50% of Bondservants are Manchu</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1788</td>
+      <td>805,000-1,410,000</td>
+      <td>941,000-1,650,000</td>
+    </tr>
+    <tr>
+      <td>1818</td>
+      <td>892,000-1,560,000</td>
+      <td>992,000-1,740,000</td>
+    </tr>
+    <tr>
+      <td>1887</td>
+      <td>916,000-1,600,000</td>
+      <td>970,000-1,700,000</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>With all that, then, it seems reasonable to say that by the end of the Qing, the Manchu population was somewhere in the realm of that 1887 estimate, probably a bit larger.</p>
+
+<p>Now, a fair point that can be raised is that this is the <em>total</em> number of Manchus in the entirety of the Qing, not just those in China proper. Elliott, unfortunately, only looks at China Proper and doesn’t give any figures for Bannermen in Manchuria/the Northeast or in Xinjiang. There is a breakdown of troop deployments by Rhoads, based on the 1887 Banner census and Thomas Wade’s 1825 report on the Qing military, although he seems to use ‘northwest China’ to cover the garrisons in Xinjiang and Mongolia, not just what we would more conventionally term ‘northwest China’ (i.e. Gansu, Shaanxi, and environs). Per Rhoads, of 260,000 deployed Banner troops, 150,000 were in Beijing and 110,000 were not. Of these 110,000, 16,000 are placed by Rhoads in ‘northwest China’, and 37,000 in Manchuria. Checking Wade’s figures, based on the 1825 Banner payrolls, of 236,000 privates there were about 13,600 in ‘Turkestan’ (i.e. presumably both Mongolia and Xinjiang) and 40,800 in Manchuria, which would seem to affirm the above read of Rhoads’ categorisation. So in short, in 1887 there were around 207,000 Banner troops in China Proper and 53,000 in other parts of the empire; assuming (not entirely correctly) a homogeneous ethnic distribution, that’d mean 80% of the Banner population was in China proper, which in absolute numbers would be about 700,000-1,350,000 people.</p>
+
+<p>—– <strong>86.2</strong> —–2022-01-23 15:41:34+08:00:</p>
+
+<h3 id="ii-movement-to-china-proper">II: Movement to China Proper</h3>
+
+<p>We need to understand that Manchus did not have a particularly substantial degree of economic or political freedom under Qing rule. Bannermen were, discursively, ‘slaves of the emperor’, though we need to comprehend this within broader Northeast Asian discourses of slavery. I discuss these at greater length <a href="https://www.reddit.com/r/AskHistorians/comments/jy7m9j/did_china_ever_have_slavery/gd2j5r1/">here</a>, but in short, pre-conquest Jurchen/Manchu society was nominally organised as basically a pyramid of political and economic bondage, in which freeholders (<em>jušen</em>) were subordinated to elites (<em>irgen</em>) in what was understood to be the same way that slaves (<em>aha</em>) and household servants (<em>booi</em>) were themselves bonded to the freeholders; in turn, higher-level political leaders claimed to exercise the same kind of authority over the mid-level elites. While the stratification of Manchu society eroded considerably in the decades after the conquest of China, the discursive idea of bondage to the will of the leader remained: the emperor was understood as holding authority over the lives of the Bannermen at a fundamentally intimate level.</p>
+
+<p>As such, Manchus didn’t <em>choose</em> to migrate to China proper as such. Because all Manchus were in the Banners, they were, at least from a legal standpoint, bound to the emperor’s will. As such, those who were not assigned to the Manchurian garrisons were <em>ordered</em> to relocate to China Proper and settle primarily in Beijing. The subsequent dispersal of the Banners into provincial garrisons is an interesting point in itself, as originally, Bannermen were supposed to be rotated in and out of these garrisons on the regular. The problem, however, was that this was not particularly practicable without state subsidies, and it also raised quite a serious <em>moral</em> problem because of the practicalities of, well, human mortality – like many other societies in the broader Asian region, Manchu burial practices emphasised burying families together, and if a member of a household died during a provincial posting and had to be buried there, the rest of the family would find themselves having to leave their loved one’s grave behind. The eventual ‘fixing’ of the garrisons, then, was never fully intended, but emerged as a practical consequence of their creation in the first place.</p>
+
+<p>Why have these garrisons at all? To put it simply, the Qing were basically an occupying force. With the Banners being the loyal soldier-administrator caste of the empire, their distribution in populous and/or strategically-vital locations was a critical part of maintaining state security. This was in fact not a fundamental Qing innovation, as earlier ‘conquest dynasties’, most prominently the Jurchen Jin and Mongol Yuan, had also established interior garrison forces, implicitly out of fear of domestic insurrection. Such fears were far from unfounded: rebellions of various origin would plague the Qing for most of their existence, and even if we only count Han uprisings, the longest reprieve was between 1683 and 1774 – a good run, to be sure, but one in which there were nevertheless notable revolt scares, particularly the Zeng Jing conspiracy of 1727 and the queue-cutting panic of 1768. As the elite mobile arm of the Qing military, the Banners were expected to be able to decisively respond to domestic crisis when called upon.</p>
+
+<h3 id="sources-and-further-reading-1">Sources and Further Reading</h3>
+
+<ul>
+  <li>
+    <p>Mark C. Elliott, Cameron Campbell, and James Lee, ‘A Demographic estimate of the population of the Qing eight banners’, <em>Études Chinoises: Bulletin de l’Association Française D’études Chinoises</em> 35:1 (2016) <a href="https://dash.harvard.edu/bitstream/handle/1/34391735/10421826.pdf?isAllowed=y&amp;sequence=2">Open-access link</a></p>
+  </li>
+  <li>
+    <p>Mark C. Elliott, <em>The Manchu Way: Ethnicity and Identity in the Qing Eight Banners</em> (2001)</p>
+  </li>
+  <li>
+    <p>David C. Porter, ‘Ethnic and Status Identity in Qing China: The Hanjun Eight Banners’ (PhD thesis, 2018)</p>
+  </li>
+  <li>
+    <p>Edward J. M. Rhoads, <em>Manchus and Han: Ethnic Relations and Political Power in Late Qing and Early Republican China, 1862-1928</em> (2001) <a href="https://uw.manifoldapp.org/read/untitled-88783134-3ba9-49ab-95e5-0b51ee6d035b/section/498fd67d-ad4c-44c1-8f99-a490905b2a34">Open-access link</a></p>
+  </li>
+</ul>
+
+<h3 id="87-what-would-lincoln-have-thought-of-fascism-apologies-in-advanced-if-this-is-a-dumb-question-submitted-on-2022-01-22-1622040800">87: <a href="https://old.reddit.com/r/AskHistorians/comments/s9xu53/what_would_lincoln_have_thought_of_fascism/">What would Lincoln have thought of fascism? Apologies in advanced if this is a dumb question.</a>, submitted on 2022-01-22 16:22:04+08:00.</h3>
+
+<p>—– <strong>87.1</strong> —–2022-01-22 18:18:38+08:00:</p>
+
+<p>Sorry, but your submission has been removed because we <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F">don’t allow hypothetical questions</a>. If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule <a href="https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/">here</a>.</p>
+
+<h3 id="88-whats-the-best-book-on-modern-us-china-relations-submitted-on-2022-01-23-0734530800">88: <a href="https://old.reddit.com/r/AskHistorians/comments/safd6d/whats_the_best_book_on_modern_uschina_relations/">What’s the best book on modern US-China relations?</a>, submitted on 2022-01-23 07:34:53+08:00.</h3>
+
+<p>—– <strong>88.1</strong> —–2022-01-23 20:08:25+08:00:</p>
+
+<p>This submission has been removed because it violates our <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events">‘20-Year Rule’</a>. To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult <a href="https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/">this Rules Roundtable</a>.</p>
+
+<h3 id="89-did-asbestos-save-more-people-than-it-killed-submitted-on-2022-01-23-1123430800">89: <a href="https://old.reddit.com/r/AskHistorians/comments/sajwfy/did_asbestos_save_more_people_than_it_killed/">Did asbestos save more people than it killed?</a>, submitted on 2022-01-23 11:23:43+08:00.</h3>
+
+<p>—– <strong>89.1</strong> —–2022-01-23 19:48:45+08:00:</p>
+
+<p>This submission has been removed because it violates the <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions">rule on poll-type questions</a>. These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the “most”, the “worst”, “unknown”, or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult <a href="https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/">this Roundtable discussion</a>.</p>
+
+<p>For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.</p>
+
+<h3 id="90-are-there-any-historical-either-historical-or-paleo-genetic-clues-on-when-poop-aversion-first-became-ubiquitous-across-most-cultures-submitted-on-2022-01-23-1152430800">90: <a href="https://old.reddit.com/r/AskHistorians/comments/sakfs5/are_there_any_historical_either_historical_or/">Are there any historical (either historical or paleo-genetic) clues on when “poop aversion” first became ubiquitous across most cultures?</a>, submitted on 2022-01-23 11:52:43+08:00.</h3>
+
+<p>—– <strong>90.1</strong> —–2022-01-23 19:48:39+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="91-outside-of-civil-wars-do-we-know-of-any-pre-modern-or-early-modern-societies-which-had-homicide-levels-similar-to-the-most-violent-nations-today-submitted-on-2022-01-23-1213330800">91: <a href="https://old.reddit.com/r/AskHistorians/comments/saktr3/outside_of_civil_wars_do_we_know_of_any_pre/">Outside of civil wars, do we know of any pre modern or early modern societies which had homicide levels similar to the most violent nations today?</a>, submitted on 2022-01-23 12:13:33+08:00.</h3>
+
+<p>—– <strong>91.1</strong> —–2022-01-23 19:48:55+08:00:</p>
+
+<p>This submission has been removed because it violates our <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events">‘20-Year Rule’</a>. To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult <a href="https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/">this Rules Roundtable</a>.</p>
+
+<h3 id="92-im-not-great-at-editing-but-i-thought-of-this-meme-and-had-to-post-it--submitted-on-2022-01-23-2143140800">92: <a href="https://old.reddit.com/r/Hololive/comments/satxsx/im_not_great_at_editing_but_i_thought_of_this/">I’m not great at editing but I thought of this meme and had to post it-</a>, submitted on 2022-01-23 21:43:14+08:00.</h3>
+
+<p>—– <strong>92.1</strong> —–2022-01-24 12:13:10+08:00:</p>
+
+<p>To add some etymological detail for those who might not know, the ‘Calli’ part of ‘Calliope’ is the same ‘calli’ in ‘calligraphy’, and is ancient Greek for ‘good’ or ‘beautiful’. The muse Calliope (Kalliópē) gets her name from <em>kallós</em> (‘good’/’beautiful’) + <em>óps</em> (‘voice’), which I presume is why Calli’s name was originally written with the kanji 美声 which is, well, ‘beautiful voice’ – until it got changed of course. Anyway, ‘calligraphy’ derives from <em>kallós</em> + <em>gráphō</em> (‘writing’), so is ‘beautiful writing’.</p>
+
+<h3 id="93-hobby-scuffles-week-of-january-24-2022-submitted-on-2022-01-23-2300220800">93: <a href="https://old.reddit.com/r/HobbyDrama/comments/savgsm/hobby_scuffles_week_of_january_24_2022/">[Hobby Scuffles] Week of January 24, 2022</a>, submitted on 2022-01-23 23:00:22+08:00.</h3>
+
+<p>—– <strong>93.1</strong> —–2022-01-30 14:37:39+08:00:</p>
+
+<p>It depends how you define ‘big’ I suppose, and also what a ‘lack of popularity’ would be.</p>
+
+<p>Compared to Nijisanji, Hololive has more total subs and fewer members, meaning a markedly higher average sub count, but even then, neither agency really has many members who would be considered ‘unpopular’ by most metrics. Only one of Nijisanji’s active JP Livers is below 100k subs, which is already a pretty decent milestone in its own right; almost all of Hololive’s members are above 400k except Sana who got rather badly hit by Youtube’s automated systems around debut and didn’t take off to the same extent as the rest of EN Council. Which on some level kind of illustrates Connor’s point, which is that these agencies are big and have established fanbases following the agency as a whole, which means anyone debuting into them gets a massive initial wave of interest that they can just sort of ride along. That said, I don’t know that his point is necessarily all that accurate. Any of these agencies are capable of doing background checks for one, and for another most of the people they take on these days have some degree of established following in some kind of online content creation. In the case of Hololive, quite a lot of the time the initial subscriber rush mainly just brought them up to where they had been on their old channels.</p>
+
+<p>Although pivoting a bit to the ‘big’ side, there’s definitely a few agencies that have shuttered various elements for one reason or another. Brave Group, formerly Unlimited, was haemorrhaging views and subs across the board over the Game Club Project recasting fiasco in mid-2019 (<a href="https://www.reddit.com/r/VirtualYoutubers/comments/kp728d/fans_fantasy_and_vice_why_the_gamebu_controversy/">see here for a quick rundown</a>), and so in late 2020 it pretty much let go of most of its subunits. Most of them were simply dissolved but a couple got transferred to a subdivision of Bandai Namco. Probably the more infamous case was Activ8 in 2019/20. After the issues with the Multiple Ai Project (basically adding extra VAs for Kizuna Ai and then quietly firing the original in July 2019, something that viewers did not take kindly to), Activ8 ended up massively in the red by the end of 2019, and did a major restructuring at the end of April 2020 and pulled Kizuna Ai out of upd8, which was, uh, Activ8’s own agency. They also either fired or induced Oda Nobuhime to quit, and the two 774 Inc. subunits affiliated with upd8 pulled out. Activ8 didn’t drop upd8 outright as such, but they essentially divested themselves of any significant involvement from that point, and it basically trundled on as a loose association of indies until the end of 2020. So it depends how you define ‘dropping’ and also what causes you attribute, but I would say there have been times where agencies have cut unprofitable segments loose.</p>
+
+<p>—– <strong>93.2</strong> —–2022-01-30 14:58:40+08:00:</p>
+
+<p>It’s important to distinguish here between Hololive CN, that is the branch of 6 members streaming in Mandarin, and Hololive’s Chinese audience. We don’t know about how Hololive CN the branch of Hololive was doing financially, which for all we know could have been entirely solvent. But we’re not just talking about Hololive CN, we’re talking about the broader Chinese audience, which complicates the picture as a large portion of Hololive JP had Chinese-facing activities via bilibili as well as a large Chinese fan community. Pulling out of China wasn’t just weighing the monetary value of HoloCN against that of Coco (and also Haachama), but about cutting an entire market and fanbase for the entire agency.</p>
+
+<p>More importantly, even if we were to accept the conceit that HoloCN was shut down because it was less lucrative than Coco, that wouldn’t mean it was shut down for being objectively unpopular, but rather because it was not <em>as</em> popular as Hololive’s top earner and Hololive <em>had</em> to choose between the two, not because it was financially insolvent and couldn’t afford to drag ‘dead weight’ along, but because an ongoing scandal was forcing it to pick. Given that the original prompt was asking if any major agencies cut someone loose for not being popular enough, it’s pretty clear that HoloCN wouldn’t count given the one-or-the-other nature of the conundrum.</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-01-28</time>
+        <a href="https://nodebe4.github.io/opinion/2022-01-28/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-01-24~2022-01-30的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-01-23</time>
+        <a href="https://nodebe4.github.io/opinion/2022-01-23/theoryofdoom/">
+          theoryofdoom在2022-01-17~2022-01-23的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-01-22</time>
+        <a href="https://nodebe4.github.io/opinion/2022-01-22/Spinkcat/">
+          Spinkcat在2022-01-17~2022-01-23的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-01-22</time>
+        <a href="https://nodebe4.github.io/opinion/2022-01-22/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-01-17~2022-01-23的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-01-22/%E4%B8%AD%E5%9C%8B%E5%BB%A0%E5%95%86%E5%B0%8D%E7%BE%8E%E5%87%BA%E5%8F%A3%E7%AA%98%E5%A2%83-%E7%B2%B5%E8%AA%9E-%E9%80%8F%E8%A6%96%E8%B2%A1%E7%B6%93-0027-SinoInsider-20220122/">
+            前一篇：中國廠商對美出口窘境（粵語）｜透視財經【0027】SinoInsider 20220122
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-01-23/realcaixia/">
+            後一篇：Twitter @蔡霞: 2022-01-17~2022-01-23
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-01-22/%E4%B8%AD%E5%9C%8B%E5%BB%A0%E5%95%86%E5%B0%8D%E7%BE%8E%E5%87%BA%E5%8F%A3%E7%AA%98%E5%A2%83-%E7%B2%B5%E8%AA%9E-%E9%80%8F%E8%A6%96%E8%B2%A1%E7%B6%93-0027-SinoInsider-20220122/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-01-23/realcaixia/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-01-23/theoryofdoom/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-01-22/Spinkcat/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-01-22/%E4%B8%AD%E5%9C%8B%E5%BB%A0%E5%95%86%E5%B0%8D%E7%BE%8E%E5%87%BA%E5%8F%A3%E7%AA%98%E5%A2%83-%E7%B2%B5%E8%AA%9E-%E9%80%8F%E8%A6%96%E8%B2%A1%E7%B6%93-0027-SinoInsider-20220122/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-01-23/realcaixia/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-01-23/theoryofdoom/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-01-22/Spinkcat/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

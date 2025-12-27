@@ -1,0 +1,3436 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Data Factories – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+  
+     Data Factories 
+    
+  Posted on             Tuesday, October 2, 2018 
+            Friday, October 5, 2018 
+     Author  by  Ben Thompson   
+    
+    
+  
+  
+  
+    I’m generally annoyed by the cliché “If you’re not paying you’re the product”;  Derek Powazek has explained  why the implications of this statement are usually misleading and often wrong, something that is particularly problematic in the context of  Aggregators  . After all, if a company’s market power flows from controlling demand — that is, users — that means said company is incentivized to keep those users satisfied; it is suppliers that have to “take it or leave it”.
+    This explains why the idea of an Aggregator being a monopoly is hard to get one’s head around; in the physical world where market power comes from controlling distribution — think AT&amp;T, or your local cable company, or a utility company — there is no incentive to treat end users well, because users have no choice in the matter. On the Internet, though, where distribution is effectively free, alternatives are only a click away; Aggregators are extremely motivated to make sure that click doesn’t happen, which means giving the users what they want (the technical term is “increasing engagement”). Users are a priority, not a product.
+    And yet, as is so often the case, clichés persist because there is some truth to them. Facebook and Google — the two  Super Aggregators  — make money through ads, and advertisers come to Facebook and Google because they want to reach consumers. From an advertiser perspective users — or to be more precise, access to users’ attention — is a product they are absolutely paying for.
+     Views on Facebook 
+    This seeming dichotomy — prioritizing users on one hand, and selling access to their attention on the other — makes more sense if you first think of Super Aggregators as two distinct businesses: Aggregator and advertising-seller. To use Facebook as an example (as I will for the rest of the article, although nearly everything applies to Google as well), it is both an Aggregator that content providers clamor to reach, as well as the gatekeeper for consumers advertisers wish to sell to:
+      
+    Still, this isn’t quite right, because Facebook the company is not simply the so-called “Blue App” but also several other businesses, most notably Instagram and WhatsApp (there is also Messenger, but given its user-facing network is the same as the Blue App I don’t really consider it to be distinct). Once you add those to the mix Facebook the company looks like this:
+      
+    You’ll note that I’ve taken to using the term “Blue App” to distinguish Facebook the network from Facebook the company; the question, though, is what exactly is the company anyways?
+     The Data Factory 
+    At a superficial level, Facebook is a sort of holding company for social networks; back in 2014 I called it  The Social Conglomerate  . That, though, is very much a user-centric perspective; to that end, if you consider the advertising perspective, you could argue that Facebook the company is an advertising dashboard and sales force.
+    I think, though, that sells short the functionality of Facebook the company. Specifically, Facebook is a data factory.  Wikipedia  defines a factory thusly:
+    
+      A factory or manufacturing plant is an industrial site, usually consisting of buildings and machinery, or more commonly a complex having several buildings, where workers manufacture goods or operate machines processing one product into another.
+    
+    Facebook quite clearly isn’t an industrial site (although it operates multiple data centers with lots of buildings and machinery), but it most certainly processes data from its raw form to something uniquely valuable both to Facebook’s products (and by extension its users and content suppliers) and also advertisers (and again, all of this analysis applies to Google as well):
+    
+      Users are better able to connect with others, find content they are interested in, form groups and manage events, etc., thanks to Facebook’s data.
+      Content providers are able to reach far more readers than they would on their own, most of whom would not even be aware those content providers exist, much less visit of their own volition.
+      Advertisers are able to maximize the return on their advertising dollar by only showing ads to individuals they believe are predisposed to like their product, making it more viable than ever before to target niches (to the benefit of their customers as well).
+    
+    And then, in exchange for these benefits that derive from data, Facebook sucks in data from all three entities:
+    
+      Users provide Facebook with data directly, both through information and media they upload, and also through their actions on Facebook properties.
+      Content is not simply data in its own right, but also a catalyst for generating user action data.
+      Advertisers, like content providers, not only provide data in its own right, which acts as a catalyst for generating user action data, but also upload huge amounts of data directly in order to better target prospective customers.
+    
+    Those aren’t the only avenues through which Facebook collects data: the company has deals with multiple third-party data collection companies, gathering everything from web traffic to offline store receipts, and also has incentivized an untold number of websites — particularly content providers — to include Facebook links on their sites that collect data from those sites.
+    That results in a much fuller picture of Facebook’s business:
+      
+    Data comes in from anywhere, and value — also in the form of data — flows out, transformed by the data factory.
+     Regulating the Internet 
+    Two weeks ago, in  The European Union Versus the Internet  , I argued that effective regulation of tech companies, particularly Super Aggregators like Facebook and Google, had to work with the fundamental principles of the Internet, not against them; otherwise, the likely outcome would be to entrench these Internet giants with little gain to consumers.
+    First and foremost regulators need to understand that the power of Aggregators comes from controlling demand, not supply. Specifically, consumers voluntarily use Google and Facebook, and “suppliers” like content providers, advertisers, and users themselves, have no choice but to go where consumers are. To that end:
+    
+      Facebook’s ultimate threat can never come from publishers or advertisers, but rather demand — that is, users. The real danger, though, is not from users also using competing social networks (although Facebook has always been paranoid about exactly that); that is not enough to break the virtuous cycle. Rather, the only thing that could undo Facebook’s power is users actively rejecting the app. And, I suspect, the only way users would do that en masse would be if it became accepted fact that Facebook is actively bad for you — the online equivalent of smoking.
+      For Facebook, the Cambridge Analytica scandal was akin to the Surgeon General’s report on smoking: the threat was not that regulators would act, but that users would, and nothing could be more fatal. That is because the regulatory corollary of Aggregation Theory is that the ultimate form of regulation is user generated.
+      If regulators, EU or otherwise, truly want to constrain Facebook and Google — or, for that matter, all of the other ad networks and companies that in reality are far more of a threat to user privacy — then the ultimate force is user demand, and the lever is demanding transparency on exactly what these companies are doing.
+    
+    What, though, does transparency mean in the context of enabling “user generated regulation”, and what might meaningful regulation look like that achieves the goal of forcing said transparency in a way that fosters competition instead of inhibiting it? The answer goes back to data factories.
+     Raw Data Versus Processed Data 
+    The first challenge with a data factory is that it is impossible to peer inside. Both  Facebook  and  Google  offer customers ways to view their data, but not only is the presentation overwhelming, the data is precisely what you gave them. It is the raw inputs.
+    Advertisers, interestingly enough,  cannot download custom audiences  once uploaded, but given that data is (also) their business, it is extremely likely that they retain the list of email addresses they uploaded in the first place; the same thing applies to 3rd party data providers. Websites, meanwhile, are completely in the dark: that Facebook badge or like button may provide a page view or two, but it doesn’t give any data back in return.
+    What no one gets is the final product: the melding of all that data from all those sources to build a far more detailed profile of every Facebook user than they provided on their own. There is no question, though, that it is happening. Last week  Gizmodo had an excellent write-up  of  a paper in the journal Proceedings on Privacy Enhancing Technologies  detailing how Facebook users could be targeted for ads with a whole host of information that was never provided by the user, including landline numbers, unpublished email addresses, and phone numbers provided for two-factor authentication:
+    
+      They found that when a user gives Facebook a phone number for two-factor authentication or in order to receive alerts about new log-ins to a user’s account, that phone number became targetable by an advertiser within a couple of weeks. So users who want their accounts to be more secure are forced to make a privacy trade-off and allow advertisers to more easily find them on the social network. When asked about this, a Facebook spokesperson said that “we use the information people provide to offer a more personalized experience, including showing more relevant ads.” She said users bothered by this can set up two-factor authentication without using their phone numbers; Facebook stopped making a phone number mandatory for two-factor authentication  four months ago  .
+    
+    That quote from the spokesperson is an acknowledgement of the data factory: Facebook doesn’t care where it gets data, it is all just an input in service of the output — a targetable profile.
+    This lack of care about what precisely goes into a finished product is hardly unique to Facebook. One of the most famous examples is Nike:
+    
+         
+According to the Internet, this is the photo from Life Magazine. I could not find a copy to be sure.
+      
+    
+    That image is from the June, 1986, issue of Life Magazine, which detailed how children in Pakistan were manufacturing soccer balls for pennies a day. Nike executives, in a refrain that is vaguely familiar, were initially aggrieved; after all, soccer balls were not inflated until after they were shipped, which meant the photo was staged.
+    That was surely correct, and yet such a complaint utterly missed the point: Nike didn’t really care where it got its soccer balls, or shoes or clothes or anything else. It simply paid the factory owners and washed its hands of the problem. That photo, and the decades of protests and boycotts that followed, forced the company to do better.
+     The Privacy Obstacle 
+    Unfortunately, while Nike could not stop a photographer from traveling to Pakistan (and, truth be told, stage a photo), the general public has no way to see inside the Facebook or Google factories — and this is where regulators come in.
+    The most important thing that regulators could do is force Facebook and Google — and all data collectors — to disclose their factory output. Give users the ability to see not simply what they put in — which again, Google and Facebook do (and which GDPR requires), but also what comes out after all of the inputs are mixed and matched.
+    Make no mistake, no company will do this on its own, and not simply for business reasons. Note the Facebook spokesman’s response to Gizmodo when asked about the use of uploaded contact information:
+    
+      “People own their address books,” a Facebook spokesperson said by email. “We understand that in some cases this may mean that another person may not be able to control the contact information someone else uploads about them.”
+    
+    This gets at how it is privacy regulations in particular go wrong: in the attempt to make rules that protect people without their agency, those wishing to take said agency cannot even know what exactly Facebook knows about them because, well, privacy. Meanwhile, websites throw up pop-ups and overlays that no one reads, or ban entire continents, not because their users care but because a regulator said so.
+     Privacy Realities 
+    Here is the other reality regulators need to grapple with: most users don’t care about privacy, particularly if it saves them money. I came across this tweet in response to an interview clip of Tim Cook talking about privacy and it rather succinctly made the point:
+      
+    Frankly, I don’t blame the apathy of most users: what Facebook and Google and all of the other ad-supported services and sites on the Internet provide is immensely valuable. Moreover, I’m the first (and often only!) to defend personalized ads: I think they are a critical component of building a future where anyone can build a niche business thanks to the Internet making the entire world an addressable market — if only they can find their customers.
+    At the same time, most users truly have no idea what data these companies hold. Might they change their minds if they actually saw the processed data, not simply the raw inputs? I don’t know, but I do think it is their decision to make.
+    Moreover, establishing clear requirements that users be able to view not only the data they uploaded but their entire processed profile — the output of the data factory — would be far less burdensome to new and smaller companies that seek to challenge these behemoths. Data export controls could be built in from the start, even as they are free to build factories as complex as the big companies they are challenging — or, as a potential selling point, show off that they don’t have a factory at all. This is much easier than trying to abide by rules that apply to every user — whether they want the protection or not — and which were designed with Facebook and Google in mind, not an understaffed startup.
+    Indeed, that is the crux of the matter: regulators need to trust users to take care of their own privacy, and enable them to do so — and, by extension, create the conditions for users to actually know what is going on with their data. And, if they decide they don’t care, so be it. The market will have spoken, an outcome that should be the regulator’s goal in the first place.
+    
+      
+         Share 
+        
+          
+              Facebook  
+              Twitter  
+              LinkedIn  
+              Email  
+            
+          
+        
+      
+    
+    
+       
+     Related
+     
+    
+  
+  
+
+" />
+    <meta property="og:description" content="
+  
+     Data Factories 
+    
+  Posted on             Tuesday, October 2, 2018 
+            Friday, October 5, 2018 
+     Author  by  Ben Thompson   
+    
+    
+  
+  
+  
+    I’m generally annoyed by the cliché “If you’re not paying you’re the product”;  Derek Powazek has explained  why the implications of this statement are usually misleading and often wrong, something that is particularly problematic in the context of  Aggregators  . After all, if a company’s market power flows from controlling demand — that is, users — that means said company is incentivized to keep those users satisfied; it is suppliers that have to “take it or leave it”.
+    This explains why the idea of an Aggregator being a monopoly is hard to get one’s head around; in the physical world where market power comes from controlling distribution — think AT&amp;T, or your local cable company, or a utility company — there is no incentive to treat end users well, because users have no choice in the matter. On the Internet, though, where distribution is effectively free, alternatives are only a click away; Aggregators are extremely motivated to make sure that click doesn’t happen, which means giving the users what they want (the technical term is “increasing engagement”). Users are a priority, not a product.
+    And yet, as is so often the case, clichés persist because there is some truth to them. Facebook and Google — the two  Super Aggregators  — make money through ads, and advertisers come to Facebook and Google because they want to reach consumers. From an advertiser perspective users — or to be more precise, access to users’ attention — is a product they are absolutely paying for.
+     Views on Facebook 
+    This seeming dichotomy — prioritizing users on one hand, and selling access to their attention on the other — makes more sense if you first think of Super Aggregators as two distinct businesses: Aggregator and advertising-seller. To use Facebook as an example (as I will for the rest of the article, although nearly everything applies to Google as well), it is both an Aggregator that content providers clamor to reach, as well as the gatekeeper for consumers advertisers wish to sell to:
+      
+    Still, this isn’t quite right, because Facebook the company is not simply the so-called “Blue App” but also several other businesses, most notably Instagram and WhatsApp (there is also Messenger, but given its user-facing network is the same as the Blue App I don’t really consider it to be distinct). Once you add those to the mix Facebook the company looks like this:
+      
+    You’ll note that I’ve taken to using the term “Blue App” to distinguish Facebook the network from Facebook the company; the question, though, is what exactly is the company anyways?
+     The Data Factory 
+    At a superficial level, Facebook is a sort of holding company for social networks; back in 2014 I called it  The Social Conglomerate  . That, though, is very much a user-centric perspective; to that end, if you consider the advertising perspective, you could argue that Facebook the company is an advertising dashboard and sales force.
+    I think, though, that sells short the functionality of Facebook the company. Specifically, Facebook is a data factory.  Wikipedia  defines a factory thusly:
+    
+      A factory or manufacturing plant is an industrial site, usually consisting of buildings and machinery, or more commonly a complex having several buildings, where workers manufacture goods or operate machines processing one product into another.
+    
+    Facebook quite clearly isn’t an industrial site (although it operates multiple data centers with lots of buildings and machinery), but it most certainly processes data from its raw form to something uniquely valuable both to Facebook’s products (and by extension its users and content suppliers) and also advertisers (and again, all of this analysis applies to Google as well):
+    
+      Users are better able to connect with others, find content they are interested in, form groups and manage events, etc., thanks to Facebook’s data.
+      Content providers are able to reach far more readers than they would on their own, most of whom would not even be aware those content providers exist, much less visit of their own volition.
+      Advertisers are able to maximize the return on their advertising dollar by only showing ads to individuals they believe are predisposed to like their product, making it more viable than ever before to target niches (to the benefit of their customers as well).
+    
+    And then, in exchange for these benefits that derive from data, Facebook sucks in data from all three entities:
+    
+      Users provide Facebook with data directly, both through information and media they upload, and also through their actions on Facebook properties.
+      Content is not simply data in its own right, but also a catalyst for generating user action data.
+      Advertisers, like content providers, not only provide data in its own right, which acts as a catalyst for generating user action data, but also upload huge amounts of data directly in order to better target prospective customers.
+    
+    Those aren’t the only avenues through which Facebook collects data: the company has deals with multiple third-party data collection companies, gathering everything from web traffic to offline store receipts, and also has incentivized an untold number of websites — particularly content providers — to include Facebook links on their sites that collect data from those sites.
+    That results in a much fuller picture of Facebook’s business:
+      
+    Data comes in from anywhere, and value — also in the form of data — flows out, transformed by the data factory.
+     Regulating the Internet 
+    Two weeks ago, in  The European Union Versus the Internet  , I argued that effective regulation of tech companies, particularly Super Aggregators like Facebook and Google, had to work with the fundamental principles of the Internet, not against them; otherwise, the likely outcome would be to entrench these Internet giants with little gain to consumers.
+    First and foremost regulators need to understand that the power of Aggregators comes from controlling demand, not supply. Specifically, consumers voluntarily use Google and Facebook, and “suppliers” like content providers, advertisers, and users themselves, have no choice but to go where consumers are. To that end:
+    
+      Facebook’s ultimate threat can never come from publishers or advertisers, but rather demand — that is, users. The real danger, though, is not from users also using competing social networks (although Facebook has always been paranoid about exactly that); that is not enough to break the virtuous cycle. Rather, the only thing that could undo Facebook’s power is users actively rejecting the app. And, I suspect, the only way users would do that en masse would be if it became accepted fact that Facebook is actively bad for you — the online equivalent of smoking.
+      For Facebook, the Cambridge Analytica scandal was akin to the Surgeon General’s report on smoking: the threat was not that regulators would act, but that users would, and nothing could be more fatal. That is because the regulatory corollary of Aggregation Theory is that the ultimate form of regulation is user generated.
+      If regulators, EU or otherwise, truly want to constrain Facebook and Google — or, for that matter, all of the other ad networks and companies that in reality are far more of a threat to user privacy — then the ultimate force is user demand, and the lever is demanding transparency on exactly what these companies are doing.
+    
+    What, though, does transparency mean in the context of enabling “user generated regulation”, and what might meaningful regulation look like that achieves the goal of forcing said transparency in a way that fosters competition instead of inhibiting it? The answer goes back to data factories.
+     Raw Data Versus Processed Data 
+    The first challenge with a data factory is that it is impossible to peer inside. Both  Facebook  and  Google  offer customers ways to view their data, but not only is the presentation overwhelming, the data is precisely what you gave them. It is the raw inputs.
+    Advertisers, interestingly enough,  cannot download custom audiences  once uploaded, but given that data is (also) their business, it is extremely likely that they retain the list of email addresses they uploaded in the first place; the same thing applies to 3rd party data providers. Websites, meanwhile, are completely in the dark: that Facebook badge or like button may provide a page view or two, but it doesn’t give any data back in return.
+    What no one gets is the final product: the melding of all that data from all those sources to build a far more detailed profile of every Facebook user than they provided on their own. There is no question, though, that it is happening. Last week  Gizmodo had an excellent write-up  of  a paper in the journal Proceedings on Privacy Enhancing Technologies  detailing how Facebook users could be targeted for ads with a whole host of information that was never provided by the user, including landline numbers, unpublished email addresses, and phone numbers provided for two-factor authentication:
+    
+      They found that when a user gives Facebook a phone number for two-factor authentication or in order to receive alerts about new log-ins to a user’s account, that phone number became targetable by an advertiser within a couple of weeks. So users who want their accounts to be more secure are forced to make a privacy trade-off and allow advertisers to more easily find them on the social network. When asked about this, a Facebook spokesperson said that “we use the information people provide to offer a more personalized experience, including showing more relevant ads.” She said users bothered by this can set up two-factor authentication without using their phone numbers; Facebook stopped making a phone number mandatory for two-factor authentication  four months ago  .
+    
+    That quote from the spokesperson is an acknowledgement of the data factory: Facebook doesn’t care where it gets data, it is all just an input in service of the output — a targetable profile.
+    This lack of care about what precisely goes into a finished product is hardly unique to Facebook. One of the most famous examples is Nike:
+    
+         
+According to the Internet, this is the photo from Life Magazine. I could not find a copy to be sure.
+      
+    
+    That image is from the June, 1986, issue of Life Magazine, which detailed how children in Pakistan were manufacturing soccer balls for pennies a day. Nike executives, in a refrain that is vaguely familiar, were initially aggrieved; after all, soccer balls were not inflated until after they were shipped, which meant the photo was staged.
+    That was surely correct, and yet such a complaint utterly missed the point: Nike didn’t really care where it got its soccer balls, or shoes or clothes or anything else. It simply paid the factory owners and washed its hands of the problem. That photo, and the decades of protests and boycotts that followed, forced the company to do better.
+     The Privacy Obstacle 
+    Unfortunately, while Nike could not stop a photographer from traveling to Pakistan (and, truth be told, stage a photo), the general public has no way to see inside the Facebook or Google factories — and this is where regulators come in.
+    The most important thing that regulators could do is force Facebook and Google — and all data collectors — to disclose their factory output. Give users the ability to see not simply what they put in — which again, Google and Facebook do (and which GDPR requires), but also what comes out after all of the inputs are mixed and matched.
+    Make no mistake, no company will do this on its own, and not simply for business reasons. Note the Facebook spokesman’s response to Gizmodo when asked about the use of uploaded contact information:
+    
+      “People own their address books,” a Facebook spokesperson said by email. “We understand that in some cases this may mean that another person may not be able to control the contact information someone else uploads about them.”
+    
+    This gets at how it is privacy regulations in particular go wrong: in the attempt to make rules that protect people without their agency, those wishing to take said agency cannot even know what exactly Facebook knows about them because, well, privacy. Meanwhile, websites throw up pop-ups and overlays that no one reads, or ban entire continents, not because their users care but because a regulator said so.
+     Privacy Realities 
+    Here is the other reality regulators need to grapple with: most users don’t care about privacy, particularly if it saves them money. I came across this tweet in response to an interview clip of Tim Cook talking about privacy and it rather succinctly made the point:
+      
+    Frankly, I don’t blame the apathy of most users: what Facebook and Google and all of the other ad-supported services and sites on the Internet provide is immensely valuable. Moreover, I’m the first (and often only!) to defend personalized ads: I think they are a critical component of building a future where anyone can build a niche business thanks to the Internet making the entire world an addressable market — if only they can find their customers.
+    At the same time, most users truly have no idea what data these companies hold. Might they change their minds if they actually saw the processed data, not simply the raw inputs? I don’t know, but I do think it is their decision to make.
+    Moreover, establishing clear requirements that users be able to view not only the data they uploaded but their entire processed profile — the output of the data factory — would be far less burdensome to new and smaller companies that seek to challenge these behemoths. Data export controls could be built in from the start, even as they are free to build factories as complex as the big companies they are challenging — or, as a potential selling point, show off that they don’t have a factory at all. This is much easier than trying to abide by rules that apply to every user — whether they want the protection or not — and which were designed with Facebook and Google in mind, not an understaffed startup.
+    Indeed, that is the crux of the matter: regulators need to trust users to take care of their own privacy, and enable them to do so — and, by extension, create the conditions for users to actually know what is going on with their data. And, if they decide they don’t care, so be it. The market will have spoken, an outcome that should be the regulator’s goal in the first place.
+    
+      
+         Share 
+        
+          
+              Facebook  
+              Twitter  
+              LinkedIn  
+              Email  
+            
+          
+        
+      
+    
+    
+       
+     Related
+     
+    
+  
+  
+
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Data Factories" />
+    <meta property="twitter:title" content="Data Factories" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2018%2Fdata-factories%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2018/data-factories/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2018/data-factories/&text=Data Factories&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2018/data-factories/&title=Data Factories" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2018/data-factories/&title=Data Factories" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Data Factories&body=
+  
+     Data Factories 
+    
+  Posted on             Tuesday, October 2, 2018 
+            Friday, October 5, 2018 
+     Author  by  Ben Thompson   
+    
+    
+  
+  
+  
+    I’m generally annoyed by the cliché “If you’re not paying you’re the product”;  Derek Powazek has explained  why the implications of this statement are usually misleading and often wrong, something that is particularly problematic in the context of  Aggregators  . After all, if a company’s market power flows from controlling demand — that is, users — that means said company is incentivized to keep those users satisfied; it is suppliers that have to “take it or leave it”.
+    This explains why the idea of an Aggregator being a monopoly is hard to get one’s head around; in the physical world where market power comes from controlling distribution — think AT&amp;T, or your local cable company, or a utility company — there is no incentive to treat end users well, because users have no choice in the matter. On the Internet, though, where distribution is effectively free, alternatives are only a click away; Aggregators are extremely motivated to make sure that click doesn’t happen, which means giving the users what they want (the technical term is “increasing engagement”). Users are a priority, not a product.
+    And yet, as is so often the case, clichés persist because there is some truth to them. Facebook and Google — the two  Super Aggregators  — make money through ads, and advertisers come to Facebook and Google because they want to reach consumers. From an advertiser perspective users — or to be more precise, access to users’ attention — is a product they are absolutely paying for.
+     Views on Facebook 
+    This seeming dichotomy — prioritizing users on one hand, and selling access to their attention on the other — makes more sense if you first think of Super Aggregators as two distinct businesses: Aggregator and advertising-seller. To use Facebook as an example (as I will for the rest of the article, although nearly everything applies to Google as well), it is both an Aggregator that content providers clamor to reach, as well as the gatekeeper for consumers advertisers wish to sell to:
+      
+    Still, this isn’t quite right, because Facebook the company is not simply the so-called “Blue App” but also several other businesses, most notably Instagram and WhatsApp (there is also Messenger, but given its user-facing network is the same as the Blue App I don’t really consider it to be distinct). Once you add those to the mix Facebook the company looks like this:
+      
+    You’ll note that I’ve taken to using the term “Blue App” to distinguish Facebook the network from Facebook the company; the question, though, is what exactly is the company anyways?
+     The Data Factory 
+    At a superficial level, Facebook is a sort of holding company for social networks; back in 2014 I called it  The Social Conglomerate  . That, though, is very much a user-centric perspective; to that end, if you consider the advertising perspective, you could argue that Facebook the company is an advertising dashboard and sales force.
+    I think, though, that sells short the functionality of Facebook the company. Specifically, Facebook is a data factory.  Wikipedia  defines a factory thusly:
+    
+      A factory or manufacturing plant is an industrial site, usually consisting of buildings and machinery, or more commonly a complex having several buildings, where workers manufacture goods or operate machines processing one product into another.
+    
+    Facebook quite clearly isn’t an industrial site (although it operates multiple data centers with lots of buildings and machinery), but it most certainly processes data from its raw form to something uniquely valuable both to Facebook’s products (and by extension its users and content suppliers) and also advertisers (and again, all of this analysis applies to Google as well):
+    
+      Users are better able to connect with others, find content they are interested in, form groups and manage events, etc., thanks to Facebook’s data.
+      Content providers are able to reach far more readers than they would on their own, most of whom would not even be aware those content providers exist, much less visit of their own volition.
+      Advertisers are able to maximize the return on their advertising dollar by only showing ads to individuals they believe are predisposed to like their product, making it more viable than ever before to target niches (to the benefit of their customers as well).
+    
+    And then, in exchange for these benefits that derive from data, Facebook sucks in data from all three entities:
+    
+      Users provide Facebook with data directly, both through information and media they upload, and also through their actions on Facebook properties.
+      Content is not simply data in its own right, but also a catalyst for generating user action data.
+      Advertisers, like content providers, not only provide data in its own right, which acts as a catalyst for generating user action data, but also upload huge amounts of data directly in order to better target prospective customers.
+    
+    Those aren’t the only avenues through which Facebook collects data: the company has deals with multiple third-party data collection companies, gathering everything from web traffic to offline store receipts, and also has incentivized an untold number of websites — particularly content providers — to include Facebook links on their sites that collect data from those sites.
+    That results in a much fuller picture of Facebook’s business:
+      
+    Data comes in from anywhere, and value — also in the form of data — flows out, transformed by the data factory.
+     Regulating the Internet 
+    Two weeks ago, in  The European Union Versus the Internet  , I argued that effective regulation of tech companies, particularly Super Aggregators like Facebook and Google, had to work with the fundamental principles of the Internet, not against them; otherwise, the likely outcome would be to entrench these Internet giants with little gain to consumers.
+    First and foremost regulators need to understand that the power of Aggregators comes from controlling demand, not supply. Specifically, consumers voluntarily use Google and Facebook, and “suppliers” like content providers, advertisers, and users themselves, have no choice but to go where consumers are. To that end:
+    
+      Facebook’s ultimate threat can never come from publishers or advertisers, but rather demand — that is, users. The real danger, though, is not from users also using competing social networks (although Facebook has always been paranoid about exactly that); that is not enough to break the virtuous cycle. Rather, the only thing that could undo Facebook’s power is users actively rejecting the app. And, I suspect, the only way users would do that en masse would be if it became accepted fact that Facebook is actively bad for you — the online equivalent of smoking.
+      For Facebook, the Cambridge Analytica scandal was akin to the Surgeon General’s report on smoking: the threat was not that regulators would act, but that users would, and nothing could be more fatal. That is because the regulatory corollary of Aggregation Theory is that the ultimate form of regulation is user generated.
+      If regulators, EU or otherwise, truly want to constrain Facebook and Google — or, for that matter, all of the other ad networks and companies that in reality are far more of a threat to user privacy — then the ultimate force is user demand, and the lever is demanding transparency on exactly what these companies are doing.
+    
+    What, though, does transparency mean in the context of enabling “user generated regulation”, and what might meaningful regulation look like that achieves the goal of forcing said transparency in a way that fosters competition instead of inhibiting it? The answer goes back to data factories.
+     Raw Data Versus Processed Data 
+    The first challenge with a data factory is that it is impossible to peer inside. Both  Facebook  and  Google  offer customers ways to view their data, but not only is the presentation overwhelming, the data is precisely what you gave them. It is the raw inputs.
+    Advertisers, interestingly enough,  cannot download custom audiences  once uploaded, but given that data is (also) their business, it is extremely likely that they retain the list of email addresses they uploaded in the first place; the same thing applies to 3rd party data providers. Websites, meanwhile, are completely in the dark: that Facebook badge or like button may provide a page view or two, but it doesn’t give any data back in return.
+    What no one gets is the final product: the melding of all that data from all those sources to build a far more detailed profile of every Facebook user than they provided on their own. There is no question, though, that it is happening. Last week  Gizmodo had an excellent write-up  of  a paper in the journal Proceedings on Privacy Enhancing Technologies  detailing how Facebook users could be targeted for ads with a whole host of information that was never provided by the user, including landline numbers, unpublished email addresses, and phone numbers provided for two-factor authentication:
+    
+      They found that when a user gives Facebook a phone number for two-factor authentication or in order to receive alerts about new log-ins to a user’s account, that phone number became targetable by an advertiser within a couple of weeks. So users who want their accounts to be more secure are forced to make a privacy trade-off and allow advertisers to more easily find them on the social network. When asked about this, a Facebook spokesperson said that “we use the information people provide to offer a more personalized experience, including showing more relevant ads.” She said users bothered by this can set up two-factor authentication without using their phone numbers; Facebook stopped making a phone number mandatory for two-factor authentication  four months ago  .
+    
+    That quote from the spokesperson is an acknowledgement of the data factory: Facebook doesn’t care where it gets data, it is all just an input in service of the output — a targetable profile.
+    This lack of care about what precisely goes into a finished product is hardly unique to Facebook. One of the most famous examples is Nike:
+    
+         
+According to the Internet, this is the photo from Life Magazine. I could not find a copy to be sure.
+      
+    
+    That image is from the June, 1986, issue of Life Magazine, which detailed how children in Pakistan were manufacturing soccer balls for pennies a day. Nike executives, in a refrain that is vaguely familiar, were initially aggrieved; after all, soccer balls were not inflated until after they were shipped, which meant the photo was staged.
+    That was surely correct, and yet such a complaint utterly missed the point: Nike didn’t really care where it got its soccer balls, or shoes or clothes or anything else. It simply paid the factory owners and washed its hands of the problem. That photo, and the decades of protests and boycotts that followed, forced the company to do better.
+     The Privacy Obstacle 
+    Unfortunately, while Nike could not stop a photographer from traveling to Pakistan (and, truth be told, stage a photo), the general public has no way to see inside the Facebook or Google factories — and this is where regulators come in.
+    The most important thing that regulators could do is force Facebook and Google — and all data collectors — to disclose their factory output. Give users the ability to see not simply what they put in — which again, Google and Facebook do (and which GDPR requires), but also what comes out after all of the inputs are mixed and matched.
+    Make no mistake, no company will do this on its own, and not simply for business reasons. Note the Facebook spokesman’s response to Gizmodo when asked about the use of uploaded contact information:
+    
+      “People own their address books,” a Facebook spokesperson said by email. “We understand that in some cases this may mean that another person may not be able to control the contact information someone else uploads about them.”
+    
+    This gets at how it is privacy regulations in particular go wrong: in the attempt to make rules that protect people without their agency, those wishing to take said agency cannot even know what exactly Facebook knows about them because, well, privacy. Meanwhile, websites throw up pop-ups and overlays that no one reads, or ban entire continents, not because their users care but because a regulator said so.
+     Privacy Realities 
+    Here is the other reality regulators need to grapple with: most users don’t care about privacy, particularly if it saves them money. I came across this tweet in response to an interview clip of Tim Cook talking about privacy and it rather succinctly made the point:
+      
+    Frankly, I don’t blame the apathy of most users: what Facebook and Google and all of the other ad-supported services and sites on the Internet provide is immensely valuable. Moreover, I’m the first (and often only!) to defend personalized ads: I think they are a critical component of building a future where anyone can build a niche business thanks to the Internet making the entire world an addressable market — if only they can find their customers.
+    At the same time, most users truly have no idea what data these companies hold. Might they change their minds if they actually saw the processed data, not simply the raw inputs? I don’t know, but I do think it is their decision to make.
+    Moreover, establishing clear requirements that users be able to view not only the data they uploaded but their entire processed profile — the output of the data factory — would be far less burdensome to new and smaller companies that seek to challenge these behemoths. Data export controls could be built in from the start, even as they are free to build factories as complex as the big companies they are challenging — or, as a potential selling point, show off that they don’t have a factory at all. This is much easier than trying to abide by rules that apply to every user — whether they want the protection or not — and which were designed with Facebook and Google in mind, not an understaffed startup.
+    Indeed, that is the crux of the matter: regulators need to trust users to take care of their own privacy, and enable them to do so — and, by extension, create the conditions for users to actually know what is going on with their data. And, if they decide they don’t care, so be it. The market will have spoken, an outcome that should be the regulator’s goal in the first place.
+    
+      
+         Share 
+        
+          
+              Facebook  
+              Twitter  
+              LinkedIn  
+              Email  
+            
+          
+        
+      
+    
+    
+       
+     Related
+     
+    
+  
+  
+
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2018/data-factories/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2018/data-factories/&title=Data Factories&caption=
+  
+     Data Factories 
+    
+  Posted on             Tuesday, October 2, 2018 
+            Friday, October 5, 2018 
+     Author  by  Ben Thompson   
+    
+    
+  
+  
+  
+    I’m generally annoyed by the cliché “If you’re not paying you’re the product”;  Derek Powazek has explained  why the implications of this statement are usually misleading and often wrong, something that is particularly problematic in the context of  Aggregators  . After all, if a company’s market power flows from controlling demand — that is, users — that means said company is incentivized to keep those users satisfied; it is suppliers that have to “take it or leave it”.
+    This explains why the idea of an Aggregator being a monopoly is hard to get one’s head around; in the physical world where market power comes from controlling distribution — think AT&amp;T, or your local cable company, or a utility company — there is no incentive to treat end users well, because users have no choice in the matter. On the Internet, though, where distribution is effectively free, alternatives are only a click away; Aggregators are extremely motivated to make sure that click doesn’t happen, which means giving the users what they want (the technical term is “increasing engagement”). Users are a priority, not a product.
+    And yet, as is so often the case, clichés persist because there is some truth to them. Facebook and Google — the two  Super Aggregators  — make money through ads, and advertisers come to Facebook and Google because they want to reach consumers. From an advertiser perspective users — or to be more precise, access to users’ attention — is a product they are absolutely paying for.
+     Views on Facebook 
+    This seeming dichotomy — prioritizing users on one hand, and selling access to their attention on the other — makes more sense if you first think of Super Aggregators as two distinct businesses: Aggregator and advertising-seller. To use Facebook as an example (as I will for the rest of the article, although nearly everything applies to Google as well), it is both an Aggregator that content providers clamor to reach, as well as the gatekeeper for consumers advertisers wish to sell to:
+      
+    Still, this isn’t quite right, because Facebook the company is not simply the so-called “Blue App” but also several other businesses, most notably Instagram and WhatsApp (there is also Messenger, but given its user-facing network is the same as the Blue App I don’t really consider it to be distinct). Once you add those to the mix Facebook the company looks like this:
+      
+    You’ll note that I’ve taken to using the term “Blue App” to distinguish Facebook the network from Facebook the company; the question, though, is what exactly is the company anyways?
+     The Data Factory 
+    At a superficial level, Facebook is a sort of holding company for social networks; back in 2014 I called it  The Social Conglomerate  . That, though, is very much a user-centric perspective; to that end, if you consider the advertising perspective, you could argue that Facebook the company is an advertising dashboard and sales force.
+    I think, though, that sells short the functionality of Facebook the company. Specifically, Facebook is a data factory.  Wikipedia  defines a factory thusly:
+    
+      A factory or manufacturing plant is an industrial site, usually consisting of buildings and machinery, or more commonly a complex having several buildings, where workers manufacture goods or operate machines processing one product into another.
+    
+    Facebook quite clearly isn’t an industrial site (although it operates multiple data centers with lots of buildings and machinery), but it most certainly processes data from its raw form to something uniquely valuable both to Facebook’s products (and by extension its users and content suppliers) and also advertisers (and again, all of this analysis applies to Google as well):
+    
+      Users are better able to connect with others, find content they are interested in, form groups and manage events, etc., thanks to Facebook’s data.
+      Content providers are able to reach far more readers than they would on their own, most of whom would not even be aware those content providers exist, much less visit of their own volition.
+      Advertisers are able to maximize the return on their advertising dollar by only showing ads to individuals they believe are predisposed to like their product, making it more viable than ever before to target niches (to the benefit of their customers as well).
+    
+    And then, in exchange for these benefits that derive from data, Facebook sucks in data from all three entities:
+    
+      Users provide Facebook with data directly, both through information and media they upload, and also through their actions on Facebook properties.
+      Content is not simply data in its own right, but also a catalyst for generating user action data.
+      Advertisers, like content providers, not only provide data in its own right, which acts as a catalyst for generating user action data, but also upload huge amounts of data directly in order to better target prospective customers.
+    
+    Those aren’t the only avenues through which Facebook collects data: the company has deals with multiple third-party data collection companies, gathering everything from web traffic to offline store receipts, and also has incentivized an untold number of websites — particularly content providers — to include Facebook links on their sites that collect data from those sites.
+    That results in a much fuller picture of Facebook’s business:
+      
+    Data comes in from anywhere, and value — also in the form of data — flows out, transformed by the data factory.
+     Regulating the Internet 
+    Two weeks ago, in  The European Union Versus the Internet  , I argued that effective regulation of tech companies, particularly Super Aggregators like Facebook and Google, had to work with the fundamental principles of the Internet, not against them; otherwise, the likely outcome would be to entrench these Internet giants with little gain to consumers.
+    First and foremost regulators need to understand that the power of Aggregators comes from controlling demand, not supply. Specifically, consumers voluntarily use Google and Facebook, and “suppliers” like content providers, advertisers, and users themselves, have no choice but to go where consumers are. To that end:
+    
+      Facebook’s ultimate threat can never come from publishers or advertisers, but rather demand — that is, users. The real danger, though, is not from users also using competing social networks (although Facebook has always been paranoid about exactly that); that is not enough to break the virtuous cycle. Rather, the only thing that could undo Facebook’s power is users actively rejecting the app. And, I suspect, the only way users would do that en masse would be if it became accepted fact that Facebook is actively bad for you — the online equivalent of smoking.
+      For Facebook, the Cambridge Analytica scandal was akin to the Surgeon General’s report on smoking: the threat was not that regulators would act, but that users would, and nothing could be more fatal. That is because the regulatory corollary of Aggregation Theory is that the ultimate form of regulation is user generated.
+      If regulators, EU or otherwise, truly want to constrain Facebook and Google — or, for that matter, all of the other ad networks and companies that in reality are far more of a threat to user privacy — then the ultimate force is user demand, and the lever is demanding transparency on exactly what these companies are doing.
+    
+    What, though, does transparency mean in the context of enabling “user generated regulation”, and what might meaningful regulation look like that achieves the goal of forcing said transparency in a way that fosters competition instead of inhibiting it? The answer goes back to data factories.
+     Raw Data Versus Processed Data 
+    The first challenge with a data factory is that it is impossible to peer inside. Both  Facebook  and  Google  offer customers ways to view their data, but not only is the presentation overwhelming, the data is precisely what you gave them. It is the raw inputs.
+    Advertisers, interestingly enough,  cannot download custom audiences  once uploaded, but given that data is (also) their business, it is extremely likely that they retain the list of email addresses they uploaded in the first place; the same thing applies to 3rd party data providers. Websites, meanwhile, are completely in the dark: that Facebook badge or like button may provide a page view or two, but it doesn’t give any data back in return.
+    What no one gets is the final product: the melding of all that data from all those sources to build a far more detailed profile of every Facebook user than they provided on their own. There is no question, though, that it is happening. Last week  Gizmodo had an excellent write-up  of  a paper in the journal Proceedings on Privacy Enhancing Technologies  detailing how Facebook users could be targeted for ads with a whole host of information that was never provided by the user, including landline numbers, unpublished email addresses, and phone numbers provided for two-factor authentication:
+    
+      They found that when a user gives Facebook a phone number for two-factor authentication or in order to receive alerts about new log-ins to a user’s account, that phone number became targetable by an advertiser within a couple of weeks. So users who want their accounts to be more secure are forced to make a privacy trade-off and allow advertisers to more easily find them on the social network. When asked about this, a Facebook spokesperson said that “we use the information people provide to offer a more personalized experience, including showing more relevant ads.” She said users bothered by this can set up two-factor authentication without using their phone numbers; Facebook stopped making a phone number mandatory for two-factor authentication  four months ago  .
+    
+    That quote from the spokesperson is an acknowledgement of the data factory: Facebook doesn’t care where it gets data, it is all just an input in service of the output — a targetable profile.
+    This lack of care about what precisely goes into a finished product is hardly unique to Facebook. One of the most famous examples is Nike:
+    
+         
+According to the Internet, this is the photo from Life Magazine. I could not find a copy to be sure.
+      
+    
+    That image is from the June, 1986, issue of Life Magazine, which detailed how children in Pakistan were manufacturing soccer balls for pennies a day. Nike executives, in a refrain that is vaguely familiar, were initially aggrieved; after all, soccer balls were not inflated until after they were shipped, which meant the photo was staged.
+    That was surely correct, and yet such a complaint utterly missed the point: Nike didn’t really care where it got its soccer balls, or shoes or clothes or anything else. It simply paid the factory owners and washed its hands of the problem. That photo, and the decades of protests and boycotts that followed, forced the company to do better.
+     The Privacy Obstacle 
+    Unfortunately, while Nike could not stop a photographer from traveling to Pakistan (and, truth be told, stage a photo), the general public has no way to see inside the Facebook or Google factories — and this is where regulators come in.
+    The most important thing that regulators could do is force Facebook and Google — and all data collectors — to disclose their factory output. Give users the ability to see not simply what they put in — which again, Google and Facebook do (and which GDPR requires), but also what comes out after all of the inputs are mixed and matched.
+    Make no mistake, no company will do this on its own, and not simply for business reasons. Note the Facebook spokesman’s response to Gizmodo when asked about the use of uploaded contact information:
+    
+      “People own their address books,” a Facebook spokesperson said by email. “We understand that in some cases this may mean that another person may not be able to control the contact information someone else uploads about them.”
+    
+    This gets at how it is privacy regulations in particular go wrong: in the attempt to make rules that protect people without their agency, those wishing to take said agency cannot even know what exactly Facebook knows about them because, well, privacy. Meanwhile, websites throw up pop-ups and overlays that no one reads, or ban entire continents, not because their users care but because a regulator said so.
+     Privacy Realities 
+    Here is the other reality regulators need to grapple with: most users don’t care about privacy, particularly if it saves them money. I came across this tweet in response to an interview clip of Tim Cook talking about privacy and it rather succinctly made the point:
+      
+    Frankly, I don’t blame the apathy of most users: what Facebook and Google and all of the other ad-supported services and sites on the Internet provide is immensely valuable. Moreover, I’m the first (and often only!) to defend personalized ads: I think they are a critical component of building a future where anyone can build a niche business thanks to the Internet making the entire world an addressable market — if only they can find their customers.
+    At the same time, most users truly have no idea what data these companies hold. Might they change their minds if they actually saw the processed data, not simply the raw inputs? I don’t know, but I do think it is their decision to make.
+    Moreover, establishing clear requirements that users be able to view not only the data they uploaded but their entire processed profile — the output of the data factory — would be far less burdensome to new and smaller companies that seek to challenge these behemoths. Data export controls could be built in from the start, even as they are free to build factories as complex as the big companies they are challenging — or, as a potential selling point, show off that they don’t have a factory at all. This is much easier than trying to abide by rules that apply to every user — whether they want the protection or not — and which were designed with Facebook and Google in mind, not an understaffed startup.
+    Indeed, that is the crux of the matter: regulators need to trust users to take care of their own privacy, and enable them to do so — and, by extension, create the conditions for users to actually know what is going on with their data. And, if they decide they don’t care, so be it. The market will have spoken, an outcome that should be the regulator’s goal in the first place.
+    
+      
+         Share 
+        
+          
+              Facebook  
+              Twitter  
+              LinkedIn  
+              Email  
+            
+          
+        
+      
+    
+    
+       
+     Related
+     
+    
+  
+  
+
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Data Factories&url=https://stratechery.com/2018/data-factories/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Data Factories</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2018-10-02
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2018/data-factories/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <article class="post-3727 post type-post status-publish format-standard has-post-thumbnail hentry category-articles topics-networks topics-regulation topics-search topics-social topics-technologies concepts-advertising concepts-aggregation-theory concepts-antitrust concepts-business-models concepts-commoditizing-suppliers concepts-distribution-and-transaction-costs concepts-owning-customer-relationship concepts-privacy concepts-technology-and-society companies-facebook companies-google companies-instagram companies-whatsapp" id="post-3727">
+  <header class="entry-header">
+    <h1 class="entry-title" id="data-factories-"> Data Factories </h1>
+    <div class="entry-meta">
+<span class="posted-on"> <span class="screen-reader-text"> Posted on </span>           <time class="entry-date published" datetime="2018-10-02T09:46:10-07:00"> Tuesday, October 2, 2018 </time>
+           <time class="updated" datetime="2018-10-05T05:56:29-07:00"> Friday, October 5, 2018 </time>
+ </span> <span class="byline"> <span class="author vcard"> <span class="screen-reader-text"> Author </span> by <a class="url fn n" href="https://stratechery.com/author/stratechery/"> Ben Thompson </a> </span> </span>
+    </div>
+    <!-- .entry-meta -->
+  </header>
+  <!-- .entry-header -->
+  <div class="entry-content">
+    <p>I’m generally annoyed by the cliché “If you’re not paying you’re the product”; <a href="http://powazek.com/posts/3229"> Derek Powazek has explained </a> why the implications of this statement are usually misleading and often wrong, something that is particularly problematic in the context of <a href="https://stratechery.com/2015/aggregation-theory/"> Aggregators </a> . After all, if a company’s market power flows from controlling demand — that is, users — that means said company is incentivized to keep those users satisfied; it is suppliers that have to “take it or leave it”.</p>
+    <p>This explains why the idea of an Aggregator being a monopoly is hard to get one’s head around; in the physical world where market power comes from controlling distribution — think AT&amp;T, or your local cable company, or a utility company — there is no incentive to treat end users well, because users have no choice in the matter. On the Internet, though, where distribution is effectively free, alternatives are only a click away; Aggregators are extremely motivated to make sure that click doesn’t happen, which means giving the users what they want (the technical term is “increasing engagement”). Users are a priority, not a product.</p>
+    <p>And yet, as is so often the case, clichés persist because there is some truth to them. Facebook and Google — the two <a href="https://stratechery.com/2017/the-super-aggregators-and-the-russians/"> Super Aggregators </a> — make money through ads, and advertisers come to Facebook and Google because they want to reach consumers. From an advertiser perspective users — or to be more precise, access to users’ attention — is a product they are absolutely paying for.</p>
+    <h4 id="views-on-facebook-"> Views on Facebook </h4>
+    <p>This seeming dichotomy — prioritizing users on one hand, and selling access to their attention on the other — makes more sense if you first think of Super Aggregators as two distinct businesses: Aggregator and advertising-seller. To use Facebook as an example (as I will for the rest of the article, although nearly everything applies to Google as well), it is both an Aggregator that content providers clamor to reach, as well as the gatekeeper for consumers advertisers wish to sell to:</p>
+    <p><a href="https://stratechery.com/wp-content/uploads/2018/10/Paper.stratechery-Year-One.326-copy-1.png"> <img alt="Two views on Facebook's business" class="aligncenter size-large wp-image-3731" height="281" sizes="(max-width: 640px) 100vw, 640px" src="https://stratechery.com/wp-content/uploads/2018/10/Paper.stratechery-Year-One.326-copy-1-1024x449.png" srcset="https://stratechery.com/wp-content/uploads/2018/10/Paper.stratechery-Year-One.326-copy-1-1024x449.png 1024w, https://stratechery.com/wp-content/uploads/2018/10/Paper.stratechery-Year-One.326-copy-1-300x132.png 300w, https://stratechery.com/wp-content/uploads/2018/10/Paper.stratechery-Year-One.326-copy-1-768x337.png 768w, https://stratechery.com/wp-content/uploads/2018/10/Paper.stratechery-Year-One.326-copy-1-1200x526.png 1200w, https://stratechery.com/wp-content/uploads/2018/10/Paper.stratechery-Year-One.326-copy-1.png 1300w" width="640" /> </a></p>
+    <p>Still, this isn’t quite right, because Facebook the company is not simply the so-called “Blue App” but also several other businesses, most notably Instagram and WhatsApp (there is also Messenger, but given its user-facing network is the same as the Blue App I don’t really consider it to be distinct). Once you add those to the mix Facebook the company looks like this:</p>
+    <p><a href="https://stratechery.com/wp-content/uploads/2018/10/Paper.stratechery-Year-One.328.png"> <img alt="Facebook's conglomerate" class="aligncenter size-large wp-image-3730" height="399" sizes="(max-width: 640px) 100vw, 640px" src="https://stratechery.com/wp-content/uploads/2018/10/Paper.stratechery-Year-One.328-1024x638.png" srcset="https://stratechery.com/wp-content/uploads/2018/10/Paper.stratechery-Year-One.328-1024x638.png 1024w, https://stratechery.com/wp-content/uploads/2018/10/Paper.stratechery-Year-One.328-300x187.png 300w, https://stratechery.com/wp-content/uploads/2018/10/Paper.stratechery-Year-One.328-768x479.png 768w, https://stratechery.com/wp-content/uploads/2018/10/Paper.stratechery-Year-One.328-1011x630.png 1011w, https://stratechery.com/wp-content/uploads/2018/10/Paper.stratechery-Year-One.328.png 1300w" width="640" /> </a></p>
+    <p>You’ll note that I’ve taken to using the term “Blue App” to distinguish Facebook the network from Facebook the company; the question, though, is what exactly is the company anyways?</p>
+    <h4 id="the-data-factory-"> The Data Factory </h4>
+    <p>At a superficial level, Facebook is a sort of holding company for social networks; back in 2014 I called it <a href="https://stratechery.com/2014/social-conglomerate/"> The Social Conglomerate </a> . That, though, is very much a user-centric perspective; to that end, if you consider the advertising perspective, you could argue that Facebook the company is an advertising dashboard and sales force.</p>
+    <p>I think, though, that sells short the functionality of Facebook the company. Specifically, Facebook is a data factory. <a href="https://en.wikipedia.org/wiki/Factory"> Wikipedia </a> defines a factory thusly:</p>
+    <blockquote>
+      <p>A factory or manufacturing plant is an industrial site, usually consisting of buildings and machinery, or more commonly a complex having several buildings, where workers manufacture goods or operate machines processing one product into another.</p>
+    </blockquote>
+    <p>Facebook quite clearly isn’t an industrial site (although it operates multiple data centers with lots of buildings and machinery), but it most certainly processes data from its raw form to something uniquely valuable both to Facebook’s products (and by extension its users and content suppliers) and also advertisers (and again, all of this analysis applies to Google as well):</p>
+    <ul>
+      <li>Users are better able to connect with others, find content they are interested in, form groups and manage events, etc., thanks to Facebook’s data.</li>
+      <li>Content providers are able to reach far more readers than they would on their own, most of whom would not even be aware those content providers exist, much less visit of their own volition.</li>
+      <li>Advertisers are able to maximize the return on their advertising dollar by only showing ads to individuals they believe are predisposed to like their product, making it more viable than ever before to target niches (to the benefit of their customers as well).</li>
+    </ul>
+    <p>And then, in exchange for these benefits that derive from data, Facebook sucks in data from all three entities:</p>
+    <ul>
+      <li>Users provide Facebook with data directly, both through information and media they upload, and also through their actions on Facebook properties.</li>
+      <li>Content is not simply data in its own right, but also a catalyst for generating user action data.</li>
+      <li>Advertisers, like content providers, not only provide data in its own right, which acts as a catalyst for generating user action data, but also upload huge amounts of data directly in order to better target prospective customers.</li>
+    </ul>
+    <p>Those aren’t the only avenues through which Facebook collects data: the company has deals with multiple third-party data collection companies, gathering everything from web traffic to offline store receipts, and also has incentivized an untold number of websites — particularly content providers — to include Facebook links on their sites that collect data from those sites.</p>
+    <p>That results in a much fuller picture of Facebook’s business:</p>
+    <p><a href="https://stratechery.com/wp-content/uploads/2018/10/Paper.stratechery-Year-One.329.png"> <img alt="The Facebook Data Factory" class="aligncenter size-large wp-image-3732" height="421" sizes="(max-width: 640px) 100vw, 640px" src="https://stratechery.com/wp-content/uploads/2018/10/Paper.stratechery-Year-One.329-1024x674.png" srcset="https://stratechery.com/wp-content/uploads/2018/10/Paper.stratechery-Year-One.329-1024x674.png 1024w, https://stratechery.com/wp-content/uploads/2018/10/Paper.stratechery-Year-One.329-300x198.png 300w, https://stratechery.com/wp-content/uploads/2018/10/Paper.stratechery-Year-One.329-768x506.png 768w, https://stratechery.com/wp-content/uploads/2018/10/Paper.stratechery-Year-One.329-957x630.png 957w, https://stratechery.com/wp-content/uploads/2018/10/Paper.stratechery-Year-One.329.png 1300w" width="640" /> </a></p>
+    <p>Data comes in from anywhere, and value — also in the form of data — flows out, transformed by the data factory.</p>
+    <h4 id="regulating-the-internet-"> Regulating the Internet </h4>
+    <p>Two weeks ago, in <a href="https://stratechery.com/2018/the-european-union-versus-the-internet/"> The European Union Versus the Internet </a> , I argued that effective regulation of tech companies, particularly Super Aggregators like Facebook and Google, had to work with the fundamental principles of the Internet, not against them; otherwise, the likely outcome would be to entrench these Internet giants with little gain to consumers.</p>
+    <p>First and foremost regulators need to understand that the power of Aggregators comes from controlling demand, not supply. Specifically, consumers voluntarily use Google and Facebook, and “suppliers” like content providers, advertisers, and users themselves, have no choice but to go where consumers are. To that end:</p>
+    <blockquote>
+      <p>Facebook’s ultimate threat can never come from publishers or advertisers, but rather demand — that is, users. The real danger, though, is not from users also using competing social networks (although Facebook has always been paranoid about exactly that); that is not enough to break the virtuous cycle. Rather, the only thing that could undo Facebook’s power is users actively rejecting the app. And, I suspect, the only way users would do that en masse would be if it became accepted fact that Facebook is actively bad for you — the online equivalent of smoking.</p>
+      <p>For Facebook, the Cambridge Analytica scandal was akin to the Surgeon General’s report on smoking: the threat was not that regulators would act, but that users would, and nothing could be more fatal. That is because the regulatory corollary of Aggregation Theory is that the ultimate form of regulation is user generated.</p>
+      <p>If regulators, EU or otherwise, truly want to constrain Facebook and Google — or, for that matter, all of the other ad networks and companies that in reality are far more of a threat to user privacy — then the ultimate force is user demand, and the lever is demanding transparency on exactly what these companies are doing.</p>
+    </blockquote>
+    <p>What, though, does transparency mean in the context of enabling “user generated regulation”, and what might meaningful regulation look like that achieves the goal of forcing said transparency in a way that fosters competition instead of inhibiting it? The answer goes back to data factories.</p>
+    <h4 id="raw-data-versus-processed-data-"> Raw Data Versus Processed Data </h4>
+    <p>The first challenge with a data factory is that it is impossible to peer inside. Both <a href="https://www.facebook.com/settings?tab=your_facebook_information"> Facebook </a> and <a href="https://myaccount.google.com/dashboard"> Google </a> offer customers ways to view their data, but not only is the presentation overwhelming, the data is precisely what you gave them. It is the raw inputs.</p>
+    <p>Advertisers, interestingly enough, <a href="https://www.facebook.com/business/help/community/question/?id=10153634450022812"> cannot download custom audiences </a> once uploaded, but given that data is (also) their business, it is extremely likely that they retain the list of email addresses they uploaded in the first place; the same thing applies to 3rd party data providers. Websites, meanwhile, are completely in the dark: that Facebook badge or like button may provide a page view or two, but it doesn’t give any data back in return.</p>
+    <p>What no one gets is the final product: the melding of all that data from all those sources to build a far more detailed profile of every Facebook user than they provided on their own. There is no question, though, that it is happening. Last week <a href="https://gizmodo.com/facebook-is-giving-advertisers-access-to-your-shadow-co-1828476051"> Gizmodo had an excellent write-up </a> of <a href="https://mislove.org/publications/PII-PETS.pdf"> a paper in the journal Proceedings on Privacy Enhancing Technologies </a> detailing how Facebook users could be targeted for ads with a whole host of information that was never provided by the user, including landline numbers, unpublished email addresses, and phone numbers provided for two-factor authentication:</p>
+    <blockquote>
+      <p>They found that when a user gives Facebook a phone number for two-factor authentication or in order to receive alerts about new log-ins to a user’s account, that phone number became targetable by an advertiser within a couple of weeks. So users who want their accounts to be more secure are forced to make a privacy trade-off and allow advertisers to more easily find them on the social network. When asked about this, a Facebook spokesperson said that “we use the information people provide to offer a more personalized experience, including showing more relevant ads.” She said users bothered by this can set up two-factor authentication without using their phone numbers; Facebook stopped making a phone number mandatory for two-factor authentication <a href="https://www.facebook.com/notes/facebook-security/two-factor-authentication-for-facebook-now-easier-to-set-up/10155341377090766/"> four months ago </a> .</p>
+    </blockquote>
+    <p>That quote from the spokesperson is an acknowledgement of the data factory: Facebook doesn’t care where it gets data, it is all just an input in service of the output — a targetable profile.</p>
+    <p>This lack of care about what precisely goes into a finished product is hardly unique to Facebook. One of the most famous examples is Nike:</p>
+    <figure aria-describedby="caption-attachment-3728" class="wp-caption aligncenter" id="attachment_3728" style="width: 640px">
+<a href="https://stratechery.com/wp-content/uploads/2018/10/P1-BP885_NIKE3_GR_20140421170339.jpg"> <img alt="A boy sewing Nike soccer balls" class="size-large wp-image-3728" height="418" sizes="(max-width: 640px) 100vw, 640px" src="https://stratechery.com/wp-content/uploads/2018/10/P1-BP885_NIKE3_GR_20140421170339-1024x668.jpg" srcset="https://stratechery.com/wp-content/uploads/2018/10/P1-BP885_NIKE3_GR_20140421170339-1024x668.jpg 1024w, https://stratechery.com/wp-content/uploads/2018/10/P1-BP885_NIKE3_GR_20140421170339-300x196.jpg 300w, https://stratechery.com/wp-content/uploads/2018/10/P1-BP885_NIKE3_GR_20140421170339-768x501.jpg 768w, https://stratechery.com/wp-content/uploads/2018/10/P1-BP885_NIKE3_GR_20140421170339-966x630.jpg 966w, https://stratechery.com/wp-content/uploads/2018/10/P1-BP885_NIKE3_GR_20140421170339.jpg 1242w" width="640" /> </a>       <figcaption class="wp-caption-text" id="caption-attachment-3728">
+According to the Internet, this is the photo from Life Magazine. I could not find a copy to be sure.
+      </figcaption>
+    </figure>
+    <p>That image is from the June, 1986, issue of Life Magazine, which detailed how children in Pakistan were manufacturing soccer balls for pennies a day. Nike executives, in a refrain that is vaguely familiar, were initially aggrieved; after all, soccer balls were not inflated until after they were shipped, which meant the photo was staged.</p>
+    <p>That was surely correct, and yet such a complaint utterly missed the point: Nike didn’t really care where it got its soccer balls, or shoes or clothes or anything else. It simply paid the factory owners and washed its hands of the problem. That photo, and the decades of protests and boycotts that followed, forced the company to do better.</p>
+    <h4 id="the-privacy-obstacle-"> The Privacy Obstacle </h4>
+    <p>Unfortunately, while Nike could not stop a photographer from traveling to Pakistan (and, truth be told, stage a photo), the general public has no way to see inside the Facebook or Google factories — and this is where regulators come in.</p>
+    <p>The most important thing that regulators could do is force Facebook and Google — and all data collectors — to disclose their factory output. Give users the ability to see not simply what they put in — which again, Google and Facebook do (and which GDPR requires), but also what comes out after all of the inputs are mixed and matched.</p>
+    <p>Make no mistake, no company will do this on its own, and not simply for business reasons. Note the Facebook spokesman’s response to Gizmodo when asked about the use of uploaded contact information:</p>
+    <blockquote>
+      <p>“People own their address books,” a Facebook spokesperson said by email. “We understand that in some cases this may mean that another person may not be able to control the contact information someone else uploads about them.”</p>
+    </blockquote>
+    <p>This gets at how it is privacy regulations in particular go wrong: in the attempt to make rules that protect people without their agency, those wishing to take said agency cannot even know what exactly Facebook knows about them because, well, privacy. Meanwhile, websites throw up pop-ups and overlays that no one reads, or ban entire continents, not because their users care but because a regulator said so.</p>
+    <h4 id="privacy-realities-"> Privacy Realities </h4>
+    <p>Here is the other reality regulators need to grapple with: most users don’t care about privacy, particularly if it saves them money. I came across this tweet in response to an interview clip of Tim Cook talking about privacy and it rather succinctly made the point:</p>
+    <p><a href="https://twitter.com/Mantisness/status/1046891343060951040"> <img alt="A tweet from someone that would sacrifice privacy for cheaper iPhones" class="aligncenter size-large wp-image-3733" height="948" sizes="(max-width: 640px) 100vw, 640px" src="https://stratechery.com/wp-content/uploads/2018/10/Screen-Shot-2018-10-02-at-11.34.10-PM-691x1024.png" srcset="https://stratechery.com/wp-content/uploads/2018/10/Screen-Shot-2018-10-02-at-11.34.10-PM-691x1024.png 691w, https://stratechery.com/wp-content/uploads/2018/10/Screen-Shot-2018-10-02-at-11.34.10-PM-202x300.png 202w, https://stratechery.com/wp-content/uploads/2018/10/Screen-Shot-2018-10-02-at-11.34.10-PM-768x1139.png 768w, https://stratechery.com/wp-content/uploads/2018/10/Screen-Shot-2018-10-02-at-11.34.10-PM-425x630.png 425w, https://stratechery.com/wp-content/uploads/2018/10/Screen-Shot-2018-10-02-at-11.34.10-PM.png 974w" width="640" /> </a></p>
+    <p>Frankly, I don’t blame the apathy of most users: what Facebook and Google and all of the other ad-supported services and sites on the Internet provide is immensely valuable. Moreover, I’m the first (and often only!) to defend personalized ads: I think they are a critical component of building a future where anyone can build a niche business thanks to the Internet making the entire world an addressable market — if only they can find their customers.</p>
+    <p>At the same time, most users truly have no idea what data these companies hold. Might they change their minds if they actually saw the processed data, not simply the raw inputs? I don’t know, but I do think it is their decision to make.</p>
+    <p>Moreover, establishing clear requirements that users be able to view not only the data they uploaded but their entire processed profile — the output of the data factory — would be far less burdensome to new and smaller companies that seek to challenge these behemoths. Data export controls could be built in from the start, even as they are free to build factories as complex as the big companies they are challenging — or, as a potential selling point, show off that they don’t have a factory at all. This is much easier than trying to abide by rules that apply to every user — whether they want the protection or not — and which were designed with Facebook and Google in mind, not an understaffed startup.</p>
+    <p>Indeed, that is the crux of the matter: regulators need to trust users to take care of their own privacy, and enable them to do so — and, by extension, create the conditions for users to actually know what is going on with their data. And, if they decide they don’t care, so be it. The market will have spoken, an outcome that should be the regulator’s goal in the first place.</p>
+    <div class="sharedaddy sd-sharing-enabled">
+      <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
+        <h3 class="sd-title" id="share-"> Share </h3>
+        <div class="sd-content">
+          <ul>
+            <li class="share-facebook"><a class="share-facebook sd-button share-icon" data-shared="sharing-facebook-3727" href="https://stratechery.com/2018/data-factories/?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Facebook"> <span> Facebook </span> </a></li>
+            <li class="share-twitter"><a class="share-twitter sd-button share-icon" data-shared="sharing-twitter-3727" href="https://stratechery.com/2018/data-factories/?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Twitter"> <span> Twitter </span> </a></li>
+            <li class="share-linkedin"><a class="share-linkedin sd-button share-icon" data-shared="sharing-linkedin-3727" href="https://stratechery.com/2018/data-factories/?share=linkedin" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on LinkedIn"> <span> LinkedIn </span> </a></li>
+            <li class="share-email"><a class="share-email sd-button share-icon" data-shared="" href="https://stratechery.com/2018/data-factories/?share=email" rel="nofollow noopener noreferrer" target="_blank" title="Click to email this to a friend"> <span> Email </span> </a></li>
+            <li class="share-end"></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="jp-relatedposts" id="jp-relatedposts">
+      <h3 class="jp-relatedposts-headline" id="related"> <em>
+     Related
+    </em> </h3>
+    </div>
+  </div>
+  <!-- .entry-content -->
+</article>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2018-10-24</time>
+        <a href="https://nodebe4.github.io/opinion/2018-10-24/The_Problem_with_Facebook_and_Virtual_Reality/">
+          The Problem with Facebook and Virtual Reality
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2018-10-10</time>
+        <a href="https://nodebe4.github.io/opinion/2018-10-10/The_Battle_for_the_Home/">
+          The Battle for the Home
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2018-09-25</time>
+        <a href="https://nodebe4.github.io/opinion/2018-09-25/Instagrams_CEO/">
+          Instagram’s CEO
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2018-09-18</time>
+        <a href="https://nodebe4.github.io/opinion/2018-09-18/The_European_Union_Versus_the_Internet/">
+          The European Union Versus the Internet
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2018-10-02/%E4%B8%AD%E8%AF%84%E5%91%A8%E5%88%8A-%E7%AC%AC81%E6%9C%9F/">
+            前一篇：《中评周刊》第81期
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2018-10-04/%E4%B8%BA-%E4%BA%9A%E6%B4%B2%E5%90%88%E4%BD%9C%E5%B9%B3%E5%8F%B0%E4%B8%BB%E4%B9%89%E7%9A%84%E6%92%AD%E7%A7%8D-%E5%BC%95%E6%B0%B4-%E5%90%88%E4%BD%9C%E6%9D%BE2%E7%AC%AC%E4%BA%8C%E5%A4%A9/">
+            後一篇：为”亚洲合作平台主义的播种“引水——合作松2第二天
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2018-10-02/%E4%B8%AD%E8%AF%84%E5%91%A8%E5%88%8A-%E7%AC%AC81%E6%9C%9F/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2018-10-04/%E4%B8%BA-%E4%BA%9A%E6%B4%B2%E5%90%88%E4%BD%9C%E5%B9%B3%E5%8F%B0%E4%B8%BB%E4%B9%89%E7%9A%84%E6%92%AD%E7%A7%8D-%E5%BC%95%E6%B0%B4-%E5%90%88%E4%BD%9C%E6%9D%BE2%E7%AC%AC%E4%BA%8C%E5%A4%A9/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2018-10-10/The_Battle_for_the_Home/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2018-09-25/Instagrams_CEO/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2018-10-02/%E4%B8%AD%E8%AF%84%E5%91%A8%E5%88%8A-%E7%AC%AC81%E6%9C%9F/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2018-10-04/%E4%B8%BA-%E4%BA%9A%E6%B4%B2%E5%90%88%E4%BD%9C%E5%B9%B3%E5%8F%B0%E4%B8%BB%E4%B9%89%E7%9A%84%E6%92%AD%E7%A7%8D-%E5%BC%95%E6%B0%B4-%E5%90%88%E4%BD%9C%E6%9D%BE2%E7%AC%AC%E4%BA%8C%E5%A4%A9/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2018-10-10/The_Battle_for_the_Home/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2018-09-25/Instagrams_CEO/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

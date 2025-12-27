@@ -1,0 +1,2456 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>EnclavedMicrostate在2022-12-26~2023-01-01的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="EnclavedMicrostate在2022-12-26~2023-01-01的言论" />
+    <meta property="twitter:title" content="EnclavedMicrostate在2022-12-26~2023-01-01的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FHololive%2Fcomments%2Fzvo1fc%2Fsomewhere_in_hong_kong%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/Hololive/comments/zvo1fc/somewhere_in_hong_kong/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/Hololive/comments/zvo1fc/somewhere_in_hong_kong/&text=EnclavedMicrostate在2022-12-26~2023-01-01的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/Hololive/comments/zvo1fc/somewhere_in_hong_kong/&title=EnclavedMicrostate在2022-12-26~2023-01-01的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/Hololive/comments/zvo1fc/somewhere_in_hong_kong/&title=EnclavedMicrostate在2022-12-26~2023-01-01的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=EnclavedMicrostate在2022-12-26~2023-01-01的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/Hololive/comments/zvo1fc/somewhere_in_hong_kong/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/Hololive/comments/zvo1fc/somewhere_in_hong_kong/&title=EnclavedMicrostate在2022-12-26~2023-01-01的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=EnclavedMicrostate在2022-12-26~2023-01-01的言论&url=https://old.reddit.com/r/Hololive/comments/zvo1fc/somewhere_in_hong_kong/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>EnclavedMicrostate在2022-12-26~2023-01-01的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2023-01-01
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: EnclavedMicrostate</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/Hololive/comments/zvo1fc/somewhere_in_hong_kong/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#1008-somewhere-in-hong-kong-submitted-on-2022-12-26-2217360800" id="markdown-toc-1008-somewhere-in-hong-kong-submitted-on-2022-12-26-2217360800">1008: Somewhere in Hong Kong, submitted on 2022-12-26 22:17:36+08:00.</a></li>
+  <li><a href="#1009-what-kind-of-impact-did-the-lord-of-the-rings-trilogy-2001-2003-have-on-new-zealands-tourism-industry-international-reputation-and-internal-national-pride-submitted-on-2022-12-27-0922010800" id="markdown-toc-1009-what-kind-of-impact-did-the-lord-of-the-rings-trilogy-2001-2003-have-on-new-zealands-tourism-industry-international-reputation-and-internal-national-pride-submitted-on-2022-12-27-0922010800">1009: What kind of impact did the Lord of the Rings trilogy (2001-2003) have on New Zealand’s tourism industry, international reputation, and internal, national pride?, submitted on 2022-12-27 09:22:01+08:00.</a></li>
+  <li><a href="#1010-could-the-usa-have-won-a-war-against-the-ussr-right-after-wwii-by-using-nuclear-weapons-submitted-on-2022-12-28-1508090800" id="markdown-toc-1010-could-the-usa-have-won-a-war-against-the-ussr-right-after-wwii-by-using-nuclear-weapons-submitted-on-2022-12-28-1508090800">1010: Could the USA have won a war against the USSR, right after WWII by using nuclear weapons?, submitted on 2022-12-28 15:08:09+08:00.</a></li>
+  <li><a href="#1011-how-did-american-opium-smugglers-operate-their-business-in-the-19th-century-submitted-on-2022-12-28-1610390800" id="markdown-toc-1011-how-did-american-opium-smugglers-operate-their-business-in-the-19th-century-submitted-on-2022-12-28-1610390800">1011: How did American opium smugglers operate their business in the 19th century?, submitted on 2022-12-28 16:10:39+08:00.</a></li>
+  <li><a href="#sources-and-further-reading" id="markdown-toc-sources-and-further-reading">Sources and Further Reading:</a></li>
+  <li><a href="#1012-best-hand-to-hand-combat-rules-in-rpg-or-wargame-submitted-on-2022-12-29-0015200800" id="markdown-toc-1012-best-hand-to-hand-combat-rules-in-rpg-or-wargame-submitted-on-2022-12-29-0015200800">1012: Best hand to hand combat rules in RPG or Wargame?, submitted on 2022-12-29 00:15:20+08:00.</a></li>
+  <li><a href="#1013-what-opinion-on-vtubers-will-leave-you-like-this-submitted-on-2022-12-29-0551060800" id="markdown-toc-1013-what-opinion-on-vtubers-will-leave-you-like-this-submitted-on-2022-12-29-0551060800">1013: What opinion on Vtubers will leave you like this?, submitted on 2022-12-29 05:51:06+08:00.</a></li>
+  <li><a href="#1014-was-the-great-wall-of-china-effective-submitted-on-2022-12-30-1002210800" id="markdown-toc-1014-was-the-great-wall-of-china-effective-submitted-on-2022-12-30-1002210800">1014: Was the Great Wall of China effective?, submitted on 2022-12-30 10:02:21+08:00.</a></li>
+  <li><a href="#1015-meta-rhobbydrama-janfeb-town-hall-submitted-on-2022-12-31-2300190800" id="markdown-toc-1015-meta-rhobbydrama-janfeb-town-hall-submitted-on-2022-12-31-2300190800">1015: [Meta] r/HobbyDrama Jan/Feb Town Hall, submitted on 2022-12-31 23:00:19+08:00.</a></li>
+  <li><a href="#1016-noefure-planetes-new-year-love-submitted-on-2022-12-31-2356570800" id="markdown-toc-1016-noefure-planetes-new-year-love-submitted-on-2022-12-31-2356570800">1016: NoeFure Planetes New Year Love, submitted on 2022-12-31 23:56:57+08:00.</a></li>
+  <li><a href="#1017-will-enid-ever-get-idol-costumes-submitted-on-2023-01-01-0144590800" id="markdown-toc-1017-will-enid-ever-get-idol-costumes-submitted-on-2023-01-01-0144590800">1017: Will EN/ID ever get idol costumes?, submitted on 2023-01-01 01:44:59+08:00.</a></li>
+  <li><a href="#1018-historically-why-did-the-chinese-lose-so-many-battles-to-nomadic-tribes-submitted-on-2023-01-01-0210030800" id="markdown-toc-1018-historically-why-did-the-chinese-lose-so-many-battles-to-nomadic-tribes-submitted-on-2023-01-01-0210030800">1018: Historically, why did the Chinese lose so many battles to nomadic tribes?, submitted on 2023-01-01 02:10:03+08:00.</a></li>
+  <li><a href="#1019-hobby-scuffles-week-of-january-2-2023-submitted-on-2023-01-01-2230110800" id="markdown-toc-1019-hobby-scuffles-week-of-january-2-2023-submitted-on-2023-01-01-2230110800">1019: [Hobby Scuffles] Week of January 2, 2023, submitted on 2023-01-01 22:30:11+08:00.</a></li>
+</ul>
+
+<h3 id="1008-somewhere-in-hong-kong-submitted-on-2022-12-26-2217360800">1008: <a href="https://old.reddit.com/r/Hololive/comments/zvo1fc/somewhere_in_hong_kong/">Somewhere in Hong Kong</a>, submitted on 2022-12-26 22:17:36+08:00.</h3>
+
+<p>—– <strong>1008.1</strong> —–2022-12-27 11:21:23+08:00:</p>
+
+<p>Might want to <a href="https://twitter.com/StarSkyVT/status/1607219414684008450">credit the source</a> – unless you are also the source.</p>
+
+<h3 id="1009-what-kind-of-impact-did-the-lord-of-the-rings-trilogy-2001-2003-have-on-new-zealands-tourism-industry-international-reputation-and-internal-national-pride-submitted-on-2022-12-27-0922010800">1009: <a href="https://old.reddit.com/r/AskHistorians/comments/zw2r3s/what_kind_of_impact_did_the_lord_of_the_rings/">What kind of impact did the Lord of the Rings trilogy (2001-2003) have on New Zealand’s tourism industry, international reputation, and internal, national pride?</a>, submitted on 2022-12-27 09:22:01+08:00.</h3>
+
+<p>—– <strong>1009.1</strong> —–2022-12-27 20:06:31+08:00:</p>
+
+<p>This submission has been removed because it violates our <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events">‘20-Year Rule’</a>. To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult <a href="https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/">this Rules Roundtable</a>.</p>
+
+<h3 id="1010-could-the-usa-have-won-a-war-against-the-ussr-right-after-wwii-by-using-nuclear-weapons-submitted-on-2022-12-28-1508090800">1010: <a href="https://old.reddit.com/r/AskHistorians/comments/zx35j5/could_the_usa_have_won_a_war_against_the_ussr/">Could the USA have won a war against the USSR, right after WWII by using nuclear weapons?</a>, submitted on 2022-12-28 15:08:09+08:00.</h3>
+
+<p>—– <strong>1010.1</strong> —–2022-12-28 15:36:46+08:00:</p>
+
+<p>Sorry, but your submission has been removed because we <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F">don’t allow hypothetical questions</a>. If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule <a href="https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/">here</a>.</p>
+
+<h3 id="1011-how-did-american-opium-smugglers-operate-their-business-in-the-19th-century-submitted-on-2022-12-28-1610390800">1011: <a href="https://old.reddit.com/r/AskHistorians/comments/zx460b/how_did_american_opium_smugglers_operate_their/">How did American opium smugglers operate their business in the 19th century?</a>, submitted on 2022-12-28 16:10:39+08:00.</h3>
+
+<p>—– <strong>1011.1</strong> —–2022-12-28 17:39:19+08:00:</p>
+
+<p>While the production of opium in India was controlled through an East India Company monopoly, once a chest of opium reached the auction houses at Calcutta it was, for all intents and purposes, on the open market. The opium trade between the British Empire and the Qing is thus best seen not as an exchange between two actors but rather a much more multilateral affair, in which opium was produced in British India and found its end users in various places in China, but where its journey could involve a variety of interests both within and without those two empires. Granted, the ‘country trade’ that linked Calcutta and Canton was largely dominated by British subjects, but this was not solely restricted to white British merchants: Zoroastrian Parsis worked both as partners of British firms and in pursuit of their own interests, with magnates such as Jamsetjee Jeejeebhoy and Rustomjee Cowasjee running their own opium smuggling businesses. And there were some Americans who were able to operate ‘country’ ships – for instance, the US Consul in China, Benjamin Wilcocks, co-owned at least one opium clipper with his brother, which was used to ship opium to China under British flag during the War of 1812. By the 1830s, the American firm Russell &amp; Co., which bought up its predecessor, Perkins &amp; Co., would account for roughly one fifth of Indian opium exports to China, 
+buying opium at auction in Calcutta and smuggling it up the Pearl River Delta.</p>
+
+<p>But we ought to expand our view a little further, because while the EIC held a monopoly on opium production <em>within its directly-administered territory</em>, it did <em>not</em> have a monopoly on opium on the global market. The princely states of Malwa produced their own opium without Company oversight and exported it via Portuguese Goa, leading to a period of price competition after about 1818, during which the EIC did essentially lose its ability to exert unilateral control over opium prices. The independent state of Sindh produced its own opium as well, which directly contributed to its conquest by the EIC in 1843. Central Asian states like Kokand and Afghanistan had domestic opium industries – indeed, Kokandi opium smuggling in Xinjiang led to the Qing signing a commercial treaty with Kokand in 1835 that was <em>remarkably</em> similar to the terms of the later Treaty of Nanjing and Treaty of the Bogue that would be signed with Britain later. And finally, there was the Ottoman Empire, which produced a modest though not insignificant quantity of opium of its own, ranging from around 2500-3000 chests a year, for sale at Smyrna (now İzmir).</p>
+
+<p>While the quantity of Indian opium exported to China far exceeded Turkish supplies, Smyrna nevertheless provided an opium source for businessmen outside the British empire, even before the annexation of Sindh cut off most of the independent supply to Goa, with the harvest season providing opium from late July/early August to spring early the next year. American merchants originally worked with the British Levant Company, but increasingly operated independently after 1800, becoming the chief supplier of Turkish opium to China. Figures from 1829 show that of 2700 chests of opium sold in Smyrna, 1300 were purchased by American merchants for shipment to China (1100 by the consortium of Perkins &amp; Co., J. &amp; T.H. Perkins, and Bryant &amp; Sturgis; the remainder by Joseph Peabody), 5-600 by Dutch merchants for shipment to Batavia (now Jakarta), and the remainder went to the European market.</p>
+
+<p>It’s worth briefly discussing the Perkins-Bryant-Sturgis consortium because this does directly bear on part of your question. In effect, this consortium, dominated by the Perkins family, was one that stretched across multiple cities. While J. &amp; T.H. Perkins and Bryand &amp; Sturgis were headquartered in Boston, Perkins &amp; Co. was a branch of the Perkins company based out of Canton; moreover, some members of the Perkins family had settled in Smyrna, creating personal ties to the city. Perkins ships thus linked three nodes not just of the Perkins’ business network, but indeed of the family itself. Indeed, the Smyrna connection was been vital to the Perkins family’s involvement in Turkish opium: it was thanks to having a branch of the company in Canton reporting on a growing import market, while a branch of the family in Smyrna reported on a growing export market, that the company experimented with shipping opium in the first place. But there was a complication created by the circumstances of Smyrna itself, which was often visited by infectious disease. While Perkins ships did sometimes buy opium directly from Smyrna, it was often the case that they would pick up Turkish opium further west, commissioning other merchants to move shipments to safer middleman ports such in the Western Mediterranean or even as far afield as London, offloading the risk onto their own set of middlemen.</p>
+
+<p>The US role in opium smuggling in China is often badly understated, but its impact was arguably pretty considerable: until about 1800, the East India Company had been able to keep opium prices artificially high through being essentially the only supplier of opium to China outside of small-scale smuggling from Central Asia (and even then it is unclear how far that smuggled opium spread outside of Xinjiang). But the growth of Malwa and Turkish opium destroyed this EIC monopoly, and forced a change of strategy, as the Company, heavily reliant on revenues generated by duties on its opium exports, found that it was being outcompeted on price and so would have to instead compete on quantity. Arguably, it was the rise of the American trade in Turkish opium that led to the EIC changing tack from producing limited quantities of heavily marked-up product to simply flooding the Chinese market instead, with all the ails that followed. In turn, American firms drove competition in the ‘country trade’ selling Indian opium, securing a significant stake in all areas of the opium commerce.</p>
+
+<h3 id="sources-and-further-reading">Sources and Further Reading:</h3>
+
+<ul>
+  <li>
+    <p>Stephen Platt, <em>Imperial Twilight</em> (2018)</p>
+  </li>
+  <li>
+    <p>Gregory Blue, ‘Opium for China: The British Connection’, in Timothy Brook and Bob Tadashi Wakabayashi (eds.), <em>Opium Regimes</em> (2000)</p>
+  </li>
+  <li>
+    <p>Jacques M. Downs, ‘American Merchants and the China Opium Trade, 1800-1840’ (1968)</p>
+  </li>
+  <li>
+    <p>Charles C. Stelle, ‘American Trade in Opium to China, 1821-39’ (1941)</p>
+  </li>
+</ul>
+
+<h3 id="1012-best-hand-to-hand-combat-rules-in-rpg-or-wargame-submitted-on-2022-12-29-0015200800">1012: <a href="https://old.reddit.com/r/wargaming/comments/zxdkge/best_hand_to_hand_combat_rules_in_rpg_or_wargame/">Best hand to hand combat rules in RPG or Wargame?</a>, submitted on 2022-12-29 00:15:20+08:00.</h3>
+
+<p>—– <strong>1012.1</strong> —–2022-12-30 22:25:00+08:00:</p>
+
+<p>I generally like the combat system in Craig Woodfield’s <em>Ronin</em> and <em>En Garde</em> – models have a combat pool, and at the start of each round of combat they split this pool between Attack and Defence tokens. You then roll for initiative, with each player rolling 1D6; an Attack token can be used to enhance the initiative roll, with the enhancing player rolling 2D6 and discarding the lower. The player with initiative can then make one attack by expending an Attack token, rolling 2D6 and adding any modifiers; the defender rolls 1D6 and adds theirs. If the attack score exceeds the defence, the defending figure takes a wound, whose severity depends on how much the difference is. An additional Attack token can be used to enhance an attack, allowing the attacker to roll 3D6 and discard the lowest, while a Defence token can be used to enhance defence, allowing the defender to roll 2D6 and keep both. Basically, Defence tokens are how you will realistically survive attacks, so it creates an interesting quandary over how many attacks to take and how many defences.</p>
+
+<h3 id="1013-what-opinion-on-vtubers-will-leave-you-like-this-submitted-on-2022-12-29-0551060800">1013: <a href="https://old.reddit.com/r/VirtualYoutubers/comments/zxm5b6/what_opinion_on_vtubers_will_leave_you_like_this/">What opinion on Vtubers will leave you like this?</a>, submitted on 2022-12-29 05:51:06+08:00.</h3>
+
+<p>—– <strong>1013.1</strong> —–2022-12-29 19:53:16+08:00:</p>
+
+<p>I mean they have happened, and then people wouldn’t shut up about them, and so they’ve gone much more private at the very least, assuming they didn’t break up altogether. Crossick, Noefure, and Okakoro all sort of went that way.</p>
+
+<h3 id="1014-was-the-great-wall-of-china-effective-submitted-on-2022-12-30-1002210800">1014: <a href="https://old.reddit.com/r/AskHistorians/comments/zynsu5/was_the_great_wall_of_china_effective/">Was the Great Wall of China effective?</a>, submitted on 2022-12-30 10:02:21+08:00.</h3>
+
+<p>—– <strong>1014.1</strong> —–2022-12-30 11:43:47+08:00:</p>
+
+<p>I’m sure others can chime in with other perspectives, but to bring up <a href="https://www.reddit.com/r/AskHistorians/comments/k3069r/was_the_great_wall_of_china_effective_we_all_know/gdyv0c7/">one of my old posts</a>, the answer would seem to be yes. The ‘Great Wall’, insofar as we can speak of one, was built by the Ming to deter steppe raiders and to avert a steppe conquest, and in that regard it was mostly successful. While the Ming did start seeing Manchu raids after the 1620s, the logistical difficulties of sustaining forces south of the wall meant the Manchus couldn’t actually hold any territory. Ultimately, the Ming fell to domestic, not external causes; the Manchus crossed the wall <em>after</em> the Ming collapse.</p>
+
+<p>—– <strong>1014.2</strong> —–2022-12-31 00:12:09+08:00:</p>
+
+<p>It’s also outright wrong. While several Chinese states engaged in wall-building, there was no chronologically and territorially continuous structure across northern China until the Ming (although the intellectual notion of a northern frontier persisted even in periods where no functional wall existed). There is no hard evidence suggesting the death count of wall-building labourers outside of perhaps the period after the collapse of the Jin state in the early 300s, and this was associated with all kinds of fortification works by competing states within China, rather than frontier walls across the north. And then we have to note that the Mongols entered China at a time when it <em>did not have a frontier wall</em>; the Manchus conquered China <em>after its previous government collapsed</em>. You’ve hit the nail on the head here with regards to the lazy reuse of oriental stereotyping.</p>
+
+<p>—– <strong>1014.3</strong> —–2022-12-31 00:12:47+08:00:</p>
+
+<p>No. Raiders are typically not deterred by reminders of the fact that they are committing theft.</p>
+
+<h3 id="1015-meta-rhobbydrama-janfeb-town-hall-submitted-on-2022-12-31-2300190800">1015: <a href="https://old.reddit.com/r/HobbyDrama/comments/zzvwe3/meta_rhobbydrama_janfeb_town_hall/">[Meta] r/HobbyDrama Jan/Feb Town Hall</a>, submitted on 2022-12-31 23:00:19+08:00.</h3>
+
+<p>—– <strong>1015.1</strong> —–2022-12-31 23:29:27+08:00:</p>
+
+<p>No, we would never. Never at all. Why would you suggest such a thing? Revisionist history is what this is!</p>
+
+<h3 id="1016-noefure-planetes-new-year-love-submitted-on-2022-12-31-2356570800">1016: <a href="https://old.reddit.com/r/Hololive/comments/zzx36p/noefure_planetes_new_year_love/">NoeFure Planetes New Year Love</a>, submitted on 2022-12-31 23:56:57+08:00.</h3>
+
+<p>—– <strong>1016.1</strong> —–2023-01-01 00:21:17+08:00:</p>
+
+<p>An unexpectedly sweet HoloGra moment.</p>
+
+<p>—– <strong>1016.2</strong> —–2023-01-01 00:21:48+08:00:</p>
+
+<p>You could make the case for OkaKoro, but NoeFure has always been unambiguous in a way OkaKoro hasn’t.</p>
+
+<p>—– <strong>1016.3</strong> —–2023-01-01 00:35:52+08:00:</p>
+
+<p><a href="https://youtu.be/4TaTV1EQ2Zs?t=482">I don’t see Flare as an idol, I see her as a woman… With Flare, <em>kiss noises</em>…</a></p>
+
+<h3 id="1017-will-enid-ever-get-idol-costumes-submitted-on-2023-01-01-0144590800">1017: <a href="https://old.reddit.com/r/Hololive/comments/zzzfpm/will_enid_ever_get_idol_costumes/">Will EN/ID ever get idol costumes?</a>, submitted on 2023-01-01 01:44:59+08:00.</h3>
+
+<p>—– <strong>1017.1</strong> —–2023-01-01 01:52:55+08:00:</p>
+
+<p>I hope they will; I don’t know if they will. There’s historically been a lot of mixed messaging from the talents (at least in EN) on whether the non-JP branches are idol things (Kiara’s generally suggested no, Calli’s generally suggested yes), and I would imagine that they’d have a clearer line if it was an official position. That said, the idol stuff was basically sprung on Gens 1-3 shortly before 1st Fes and only became formally ingrained subsequently, so there’s no reason that we couldn’t end up with idol outfits of some kind, if not for 4th Fes then some time later on. Potentially it may end up just being opt-in, especially for those who can or will do a lot of 3d collab concert activities. But as said, we don’t know what goes on behind the scenes. But I do hold out hope.</p>
+
+<p>^(Ouch my arms turns out holding IRyS out for any length of time really does a number on you)</p>
+
+<p>—– <strong>1017.2</strong> —–2023-01-01 02:09:36+08:00:</p>
+
+<p>Boy have I got some news about AZKi’s idol outfit…</p>
+
+<p>—– <strong>1017.3</strong> —–2023-01-01 02:10:07+08:00:</p>
+
+<p>I can neither confirm nor deny.</p>
+
+<h3 id="1018-historically-why-did-the-chinese-lose-so-many-battles-to-nomadic-tribes-submitted-on-2023-01-01-0210030800">1018: <a href="https://old.reddit.com/r/AskHistorians/comments/zzzzxu/historically_why_did_the_chinese_lose_so_many/">Historically, why did the Chinese lose so many battles to nomadic tribes?</a>, submitted on 2023-01-01 02:10:03+08:00.</h3>
+
+<p>—– <strong>1018.1</strong> —–2023-01-01 12:40:05+08:00:</p>
+
+<p>/u/0neDividedbyZer0 has written a pretty good answer covering some aspects of the question, but there are a couple of pieces of the puzzle that I think ought to be added.</p>
+
+<p>The main one is that pastoral nomadic societies are <em>extremely</em> optimised for military mobilisation, as an extension of the way nomadic lifestyles are sustained. Firstly, just about every member of a nomadic society – women as well as men, mind you – learned to ride as a natural consequence of these societies’ mobility. Men especially, but often women too, would learn archery for hunting. In other words, just about everyone in a pastoral nomadic society didn’t just know how to ride and shoot, they rode and shot <em>constantly</em> out of necessity. The skills necessary to survive on the steppe were the vital skills of premodern combat, more or less by sheer coincidence. Secondly, the amount of labour input required in pastoral nomadic food production was not particularly high nor particularly intensive, which meant that compared to a sedentary polity, a nomadic society could afford to devote a lot more people to fighting relative to food production. Thirdly, as long as you were militarily successful, warfare <em>was</em> a form of food production, in that a highly mobile army ranging across a wide area could steal a <em>lot</em> of food as booty, so that you didn’t need as much livestock in your home herds to feed them anyway. Because of this, a comparatively huge proportion of a nomadic society’s population could be sent to fight: Nikolai Kradin estimates that they could mobilise up to 75% of their adult male population, which depending on how you assess dependency ratios translates to just under 20% of the population at large. This theoretical upper limit substantially exceeds most sedentary polities’ capacities before the 20th century: for a point of comparison, Metropolitan France mobilised 8 million men out of around 40 million people in WWI, and even then, not all of them were fighting troops, and not all were mobilised simultaneously, <em>and</em> this mobilisation placed an extraordinary strain on France as a country, whereas large-scale mobilisations of steppe nomadic warriors were a matter of course.</p>
+
+<p>Another, though, is that vulnerability to nomads was not a uniquely Chinese problem – European, Middle Eastern and South Asian polities similarly struggled. For a bit more detail you may want to have a look at some of my other past answers:</p>
+
+<p>https://www.reddit.com/r/AskHistorians/comments/ojwh1l/has_there_ever_been_a_nation_or_group_where_every/h54e9px/</p>
+
+<p>https://www.reddit.com/r/AskHistorians/comments/ncau53/what_led_to_the_decline_of_nomadic_people_horse/gy4qneo/</p>
+
+<p>https://www.reddit.com/r/AskHistorians/comments/mhb2tl/why_wasnt_mongolia_invaded_or_annexed_any_time/gt0k2dc/</p>
+
+<h3 id="1019-hobby-scuffles-week-of-january-2-2023-submitted-on-2023-01-01-2230110800">1019: <a href="https://old.reddit.com/r/HobbyDrama/comments/100kt5g/hobby_scuffles_week_of_january_2_2023/">[Hobby Scuffles] Week of January 2, 2023</a>, submitted on 2023-01-01 22:30:11+08:00.</h3>
+
+<p>—– <strong>1019.1</strong> —–2023-01-02 14:52:17+08:00:</p>
+
+<p>Lies! Slander! Libel! All the words for bad untruths!</p>
+
+<p>—– <strong>1019.2</strong> —–2023-01-02 15:54:09+08:00:</p>
+
+<blockquote>
+  <p>AFAIK Nijisanji is still bigger in Japan.</p>
+</blockquote>
+
+<p>So, it gets Complexicated depending on what metrics you use and how deep you delve. Here I’m going off sub counts:</p>
+
+<p>Last I checked Niji claims around 60m total subscribers across its roughly 170 YT channels; Holo claims around 69 million across 71. Holo’s international branches account for a little over 23 million as of current count, so more or less exactly a third. NijiEN accounts for about 14.5 million, or just under a quarter. So in that sense, Nijisanji’s Japanese branch draws a bigger proportion of Nijisanji viewership compared to Hololive’s Japanese branches for Hololive. However, the overall sizes of their Japanese branches, going by pure subscriber numbers, are more or less exactly the same at around 46 million. (Indeed, Niji might be very slightly smaller.)</p>
+
+<p>What then complicates this further is that Nijisanji’s Japanese branch is much bigger in terms of total membership (141) compared to Hololive’s (35 Hololive and 13 Holostars for 48 total). The big open question when it comes to viewership practices is how many people subscribe to how many channels. A so-called ‘DD’ (<em>daredemo daisuki</em>, ‘loves anyone’) may well subscribe to everyone as a sign of support, but a DD for Nijisanji will add 141 subscribers to the total count while one for Hololive will add 48. So I think it’s likely, but not certain, that the subscriber overlap inflates Nijisanji’s total viewership figures to a greater extent than Hololive’s, <em>especially</em> if we account for the trend of existing agency fans mass-subbing to a new talent pre-debut rather than new debutants starting from scratch. All of Nijisanji EN’s most recent group of 6 debutants, XSoleil, hit 100k subscribers from pre-debut hype, but those 600k total subscrip<em>tions</em> came from 100k subscri<em>bers</em>, if that makes sense. The same, of course, is true of HoloEN Council getting at least 200k each pre-debut.</p>
+
+<p>But then the elephant in the room is overseas viewership of Japanese talents and Japanese viewership of non-overseas talents, and in that situation we can’t really extrapolate from individual members’ occasional statements too much. Stream donation currency breakdowns might be the only viable route, but I’ve only ever seen it done by Hololive stats nerds and not for Niji. It’s probably reasonable to say that overseas viewership accounts for more of HoloJP’s audience than it does for NijiJP, but how far is unclear. Presumably that counteracts the statistical effect of subscriber overlaps a bit if we’re trying to ascertain audience sizes within Japan, but in the end, there’s a lot of variables to control for, not all of which are possible to mine the stats for directly.</p>
+
+<p>I’ll add also that there are sites like VStats that have <a href="https://www.vstats.jp/leaderboard/today">daily top 50 leaderboards for maximum and average stream viewership</a>, and a quick scroll suggests that Hololive usually dominates the top 25, except on major event days. For instance the free part of Day 1 of Nijisanji’s end-of-year event on <a href="https://www.vstats.jp/leaderboard/2022-12-29">29 December</a> got a whopping 242k maximum concurrent viewers, while Hololive’s <a href="https://www.vstats.jp/leaderboard/2022-12-31">end-of-year event on 31 December</a> got 197k. So Niji can definitely get a lot of viewers together for agency-wide events, but the maximum viewership of any individual talent tends to be lower than their Hololive equivalents.</p>
+
+<p>—– <strong>1019.3</strong> —–2023-01-03 01:07:27+08:00:</p>
+
+<p>It’ll depend obviously, but at the same time, Salome didn’t hit the VTuber record for fastest to 1m subs based purely off organic success. Niji hardly lacks brand identity, and especially when we look at more recent talent waves, which have been concentrated in the EN branch, there’s a lot of existing audience recycling at work. And I don’t want to say this as some kind of bad thing; rather, I raise it as something that complicates the superficial numbers considerably.</p>
+
+<p>EDIT: Your point about people generally watching one Liver is noted, though, but I think this highlights another way that sub numbers obfuscate things – a lot of people might be hardcore viewers of a particular talent <em>but</em> still have subscriptions to several. Some madlad over a year ago went and <a href="https://www.reddit.com/r/Hololive/comments/qalzhg/hololive_data_science_how_much_overlap_is_there/">compared unique commenters on VODs for all five members of HoloMyth to work out the overlap between them</a>, and while frustratingly the raw numbers aren’t there and there’s no number for people who <em>exclusively</em> commented on one member’s VODs, for each given combination the overlap was always smaller than either member individually. In other words, to lift one example, more people commented on Ina VODs but not Ame VODs, or on Ame VODs but not Ina VODs, than commented on both. The <a href="https://www.reddit.com/r/Hololive/comments/qke1pa/hololive_data_science_part_2_i_collected_almost/">sequel to that looked at chatters</a>, but that showed much higher levels of overlap – more people chatted on both Ame and Ina’s streams than just chatted on Ina’s, though more people still only chatted on Ame’s streams than on both.</p>
+
+<p>But I think there’s an explanation for why these stats differ, and it’s that chatting and commenting are distinctly different forms of engagement. Chatting means you’re watching the stream live, which means you’ve got a narrower range of choices because it’s entirely dependent on who is streaming at a given moment. Let’s imagine someone who mainly watches Mumei, and is online when she’s not streaming. If they decide they want to watch a stream live, they’ll go with whoever is streaming at that moment even if it’s not Mumei, and are likely to engage in chat as well; in order to be able to do so, they will likely be subscribed to a wider set of talents. If they decide to watch a VOD, though, they’ll probably watch a Mumei VOD specifically, and may comment on that. So that would go some way to explaining how both of our points can be true at once: people can <em>mainly</em> be viewers of a particular talent, but still contribute to some of the metrics of other talents by virtue of spreading themselves out to catch more streams.</p>
+
+<p>So yes, people can be into a particular Niji talent rather than the Niji brand as a whole. But it’s more than likely they’re subbed to more Niji members than just their oshi, just to increase the chances that <em>someone</em> that they know they enjoy watching will be streaming at a convenient time. On the flip side, a similar dynamic can exist with Hololive too: there are some people who pretty much primarily watch one specific talent or a group of them, but still have subscriptions across the agency to cover more ground.</p>
+
+<p>—– <strong>1019.4</strong> —–2023-01-03 08:48:17+08:00:</p>
+
+<p>I don’t think I’m following the numbers here. If a healthy rate is 3 bowel movements every 2 days, that’s around 550 a year.</p>
+
+<p>—– <strong>1019.5</strong> —–2023-01-03 09:08:43+08:00:</p>
+
+<p>Right – what threw me off was this line:</p>
+
+<blockquote>
+  <p>To be fair, doctors do find that to have a healthy set of bowel movements (basically you’re not constipated) is to have at least 3 bowel movements in a day, or like every other day.</p>
+</blockquote>
+
+<p>I assume, then, it should have been ‘at least three bowel movements in a week’?</p>
+
+<p>—– <strong>1019.6</strong> —–2023-01-05 17:41:02+08:00:</p>
+
+<p>There are identical flavours of funky that have existed before, but not in this combination nor as strongly. <em>Most</em> of HoloJP’s generations have debuted within a week, but there are a few exceptions, usually easily explained:</p>
+
+<ul>
+  <li>Gen 0 consists of solo debutants within HoloPro (Sora, Roboco, Miko, AZKi, Suisei) and was defined retrospectively.</li>
+  <li>Gen 1 <em>technically</em> was spread out: Mel debuted on Youtube on 13 May 2018, while the others (Aki, Matsuri, Fubuki, Haato, and Chris) debuted over the course of 1-3 June. However, Mel was not originally part of Gen 1; it was Chris’ termination a week or so later led to her being retconned into Gen 1 despite originally being a standalone. The ‘official’ Gen 1 was always supposed to have been the five who debuted between 1 and 3 June.</li>
+  <li>Gen 2 had quite a spread out run of debuts: Aqua on 8 August, Shion on 17/08, Ayame on 03/09, Choco on 05/09 and Subaru on 16/09. But this wasn’t really a separation into different batches.</li>
+  <li>Gamers is weird by virtue of being a spinoff branch: Mio debuted on 7 December 2018, while Okayu and Korone debuted a week apart on 6 and 13 April, respectively. This makes it a very close precedent for Tempus given the 5-month gap, but there is a noticeable difference in Tempus being ‘core’ generations/units within Holostars English and having two sets of four members, whereas Gamers was always a HoloJP spinoff with three members total; in essence it was originally an extra solo member with Mio (plus existing member Fubuki), with an extra pair added later.</li>
+  <li>Gen 3 <em>did</em> split between two batches: Pekora and Rushia on 17 and 18 July 2019, and Flare, Noel, and Marine on 8, 9, and 11 August. This is the next closest Tempus precedent, but the gap was a lot closer.</li>
+  <li>Gen 4 all debuted between 27 December 2019 (Kanata) and 4 January 2020 (Luna).</li>
+  <li>Gen 5 debuted on consecutive days from 12 August 2020 (Lamy) to 16 August (Polka).</li>
+  <li>Gen 6 debuted on consecutive days from 26 November 2021 (La+) to 30 November (Iroha).</li>
+</ul>
+
+<p>So while yes, <em>technically</em> five of eight generations didn’t follow an ‘everyone debuts in a week’ format:</p>
+
+<ul>
+  <li>Gen 0 was an after-the-fact thing;</li>
+  <li>Gen 1 <em>would</em> have were it not for the stuff around Hitomi Chris;</li>
+  <li>Gen 2 still had a spread debut rather than two batches like Tempus;</li>
+  <li>Gamers did have two batches like Tempus, but with far fewer people total;</li>
+  <li>Gen 3 did two batches, but less than a month apart.</li>
+</ul>
+
+<p>If we consider Gen 0 and Gamers as complete outliers structurally, then Gen 3 is the <em>only</em> conventional HoloJP generation to have intentionally debuted in two distinct batches. So Tempus being a full gen split into two batches 5 months apart is a half-and-half between what happened with Gamers and what happened with Gen 3. Individual elements are precedented, but the combination isn’t.</p>
+
+<p>—– <strong>1019.7</strong> —–2023-01-05 20:56:25+08:00:</p>
+
+<p>It’s similar and it also isn’t in that Niji presumably has its roster of however many talents picked out, and then debuts them with a couple months’ delay. Whereas what seems to have happened with Tempus is that they must have felt 6 was too many to start off with but they still wanted those 6, and so further emphasised <em>more</em> auditions to add in an extra 2.</p>
+
+<p>—– <strong>1019.8</strong> —–2023-01-05 21:36:35+08:00:</p>
+
+<p>Holostars is about as neatly organised as a bowl of spaghetti being jostled by a jackhammer.</p>
+
+<p>—– <strong>1019.9</strong> —–2023-01-06 11:15:59+08:00:</p>
+
+<p>So there’s three ways to talk about ‘Sub Rosa’.</p>
+
+<p>The first is to genuinely say yes, it was considered one of the worst episodes of the show, certainly of that season. IMDB has it as the second-worst TNG episode at a whopping 4.8/10, which, to its slight credit, is a significant stretch ahead of the dead-last episode, the Season 2 clip-show episode ‘Shades of Grey’, which sits at a 3.3. But there are other good candidates for worst episode: the horrendously racist ‘Code of Honour’ in Season 1, or the… not necessarily <em>racist</em> but certainly stereotype-laden ‘Up the Long Ladder’ in Season 2.</p>
+
+<p>The second is to approach it as a ‘so bad it’s good’. The stilted dialogue, the absurd worldbuilding, the <em>terrible</em> false accent on the ‘Scottish’ groundskeeper, and, best of all, the <em>entire</em> scene with Crusher’s reanimating grandmother. It’s definitely not The Animated Series or ‘Spock’s Brain’ levels of ‘so bad it’s good’, but it can certainly be approached in an ironic fashion.</p>
+
+<p>The third is to really contextualise it within the seventh season of TNG as a piece of media. Firstly, let’s look at production. For seasons 6 and 7 there were now two ongoing Trek series (DS9 started midway through TNG S6), and that meant that writers were spread thinner, with double the episodes to fill out. On top of that, by Season 7 quite a few of the key production staff were looking ahead to Voyager and to the TNG films, which again meant a little less focus on the core show. Now, that doesn’t explain <em>all</em> of it: officially, the story was done by Jeri Taylor, who wrote ‘Unification’ and ‘The Drumhead’, so that should be good, right? Except Taylor was inspired by a submission from Jeanna Gallo, a fanzine contributor, and so the story isn’t wholly Taylor’s idea – it’s essentially a staff writer trying to adapt a fanfic. Then we have to consider that the story was adapted to teleplay format by Brannon Braga, who actually wrote some very good mind-bendy scripts (‘Phantasms’ is his, and so is ‘Cause and Effect’), but is otherwise pretty infamous as Rick Berman’s right-hand yes-man as far as creative decisions went. As a writer he seems to have been pretty good, but as an adapter he seems to have been behind a lot of mid-tier to poor episodes. To take S5, although he wrote ‘Cause and Effect’ which is fantastic, of his three adapted scripts – ‘The Game’, ‘Power Play’, and ‘Imaginary Friend’ – two of those are generally regarded as sub-par.</p>
+
+<p>But we can also look at Season 7 more thematically, and in that regard, Sub Rosa is uniquely poor in execution, but in concept it is largely in line with much of the rest of the season. Season 7’s big underlying theme is tying up loose ends. TNG’s primary draw, even through its very uneven first two seasons, had been a well-defined cast of characters, that had maintained that definition despite the revolving door of staff and guest writers behind the show’s 178 episodes. Part of that was that backstory details would be drip-fed as required by a given episode, which meant you didn’t have to follow a very strict character backstory for anyone for the most part, nor did you even have to reference such details in a later story. Probably the only characters who had received relatively fleshed-out backstories over the first six seasons were Data (but his backstory is pretty short) and Worf (because his is relatively convoluted). But with the show now approaching a definite conclusion, the writers suddenly felt like adding in a load of backstory now that a) it was their last chance and b) it wouldn’t mess up any future scripts as they wouldn’t exist. This manifests in two ways: first is a general focus on people’s backstories; the second is a motif revolving around family, and especially of letting go of them. Some episodes may not deal with character backstories, but they fit into a pattern in which some episodes – especially in the first half or so – emphasise the main cast’s parents and grandparents, while those in the latter half focus more on their children.</p>
+
+<ul>
+  <li>1: ‘Descent Part II’ – Data defeats Lore for good.</li>
+  <li>3: ‘Interface’ – Geordi tries to rescue his mother, and ultimately has to accept her death.</li>
+  <li>7: ‘Dark Page’ – Troi uncovers her mother’s repressed memories about her first daughter, who died as a child.</li>
+  <li>8: ‘Attached’ – Picard and Crusher work through their ambiguous relationship status.</li>
+  <li>10: ‘Inheritance’ – Data meets his ‘mother’; she is also an android but he chooses not to reveal this to her.</li>
+  <li>12: ‘The Pegasus’ – Riker deals with a dark part of his past.</li>
+  <li>13: ‘Homeward’ – We meet Worf’s human adoptive brother, whom he has to say goodbye to as he chooses to live with the people of Boraal II.</li>
+  <li>14: ‘Sub Rosa’ – Crusher’s grandmother, only ever mentioned off-screen, also dies off screen; she is briefly resurrected; Crusher also has sex with her grandmother’s sex ghost boyfriend.</li>
+  <li>18: ‘Eye of the Beholder’ – A murder mystery involving the construction of the Enterprise-D itself.</li>
+  <li>20: ‘Journey’s End’ – Wesley leaves Starfleet to join the Traveller.</li>
+  <li>21: ‘Firstborn’ – Worf works on his relationship with Alexander, and confronts a future Alexander who believes he was raised poorly.</li>
+  <li>22: ‘Bloodlines’ – Picard finds out about an illegitimate son – it turns out that he’s not.</li>
+  <li>23: ‘Emergence’ – The Enterprise has holo-babies.</li>
+</ul>
+
+<p>The above is just the most obvious and superficial cases, but 9 of 26 episodes of S7 focus specifically on throwing in new character backstories, 7 of which specifically involve family; then there are at least three further episodes that specifically revolve around characters’ children (if we count the Enterprise itself as a character). So in that sense, Sub Rosa is merely the worst-executed of a set of thematically very similar episodes about dealing with the loss of a family member, often where that family member has only just been introduced for the first time. ‘You’re not Nana! Nana’s dead!’ is an extremely weird line with an equally stilted delivery by Gates McFadden in the take that made it to air, but we can also read it as part of those wider Season 7 motifs of letting go of family members.</p>
+
+<p>That doesn’t make Sub Rosa a <em>good</em> episode, but it is to say (in reiteration) that what’s unique is its execution and not its concept.</p>
+
+<p>—– <strong>1019.10</strong> —–2023-01-06 11:28:08+08:00:</p>
+
+<p>The episode revolves around Beverley Crusher, the ship’s doctor on TNG except during Season 2. Like most TNG characters her family backstory was generally left obscure until it was needed for an episode, and then written in specifically for it. This is one of those cases: her grandmother (frequently mentioned but never seen on-screen before) has recently died, and we also discover that the women of Crusher’s family had made it a point to keep and pass on their maiden name of Howard, except Crusher herself. This latter point is not at all plot-relevant but a lot of the characters harp on it for some reason.</p>
+
+<p>The Enterprise-D stops by the planet of Caldos IV, where Crusher’s grandmother lived, which is a Federation colony planet terraformed specifically to resemble the Scottish highlands, and where everyone dresses like it’s the 1880s, even the aliens. Yes, just roll with it. The Enterprise is there to perform repairs on the planet’s climate control systems, but it just so happens to coincide with the grandmother’s funeral. As Crusher is sorting through her grandmother’s belongings, she is told by the groundskeeper not to stay in the house, which is haunted, and also to never light her grandmother’s candle. She does not heed the warning, and lights it anyway, summoning a creature taking the form of a man named Ronin. Ronin reveals that he’s boinked every woman in the Howard line since the first one to obtain his candle. Then Ronin has, er, ghost sex with her? This ultimately leads to her being so head-over-heels for him that she decides to retire from spacefaring to live on Caldos IV. Picard is not best pleased and beams down intending to meet Ronin; Ronin attacks him but Crusher comes to Picard’s defence.</p>
+
+<p>The B-plot involves a couple of the ship crew working on the weather system problem, and discovering that there is an abnormal energy source coming from within Crusher’s grandmother’s grave that is causing issues. Turns out, Nana’s alive! Sort of – she’s kind of possessed by Ronin, who’s a sort of energy-vampire, I guess? Crusher convinces Ronin to stop possessing her grandmother, and then shoots and destroys the candle that serves as his vessel, killing him. Somehow she is torn over this, remarking, in relation to her grandmother’s journals, that ‘whatever else he might have done, he made her very happy.’</p>
+
+<p>—– <strong>1019.11</strong> —–2023-01-06 11:30:14+08:00:</p>
+
+<blockquote>
+  <p>where the episode is actually very good but it’s in some way a gross violation of what Star Trek’s supposed to be.</p>
+</blockquote>
+
+<p>I disagree vehemently with this assessment: <em>Sisko</em> is violating what Star<em>fleet</em> is supposed to be. But Star <em>Trek</em> isn’t about unironically parroting a frequently-shifting notion of Starfleet’s ethos: it is ultimately a series about moral quandaries in a science-fiction setting, in which Starfleet symbolises a particular ideal. But ideals and realities can clash, and ‘In the Pale Moonlight’ is a frank treatment of how that can play out. A moral quandary stuck between ideals and realities is <em>quintessential</em> Star Trek.</p>
+
+<p>—– <strong>1019.12</strong> —–2023-01-06 12:31:44+08:00:</p>
+
+<p>I wrote <a href="https://www.reddit.com/r/HobbyDrama/comments/100kt5g/hobby_scuffles_week_of_january_2_2023/j35appx/">a longer comment</a> about this, but to summarise:</p>
+
+<ul>
+  <li>The episode’s essential concept (revisiting or straight up creating a character’s family-related backstory) is a common motif in S7, so in that regard the episode’s not unique.</li>
+  <li>Because there was now a spinoff show, the writers were spread thinner than in previous seasons.</li>
+  <li>The basics of the story seem to have been based on a submission by a fanfic author, which was then reworked into a more developed story by an experienced staff writer, but it’s not clear how far that fixed it.</li>
+  <li>The adaptation from story to screenplay was by someone with a mixed track record on that front.</li>
+</ul>
+
+<p>—– <strong>1019.13</strong> —–2023-01-06 20:16:10+08:00:</p>
+
+<p>The story idea came from a fanfic author.</p>
+
+<p>—– <strong>1019.14</strong> —–2023-01-06 21:15:58+08:00:</p>
+
+<p>One of the things that all three Trek animated series so far – TAS, Lower Decks, and Prodigy – have in common is a real sense of the aesthetic freedom offered by animation as a medium compared to live action. Despite the immensely low budget of TAS, the deliberate inclusion of very distinctively alien characters (including as bridge crew no less), and the really wacky spaceship designs, speak to the ambition of the creators to really make stuff that would never be achievable with practical effects of the time. Lower Decks similarly exploits that with Dr Migleemo and Dr T’ana; Prodigy’s entire core cast is specifically made to be animated.</p>
+
+<p>—– <strong>1019.15</strong> —–2023-01-06 23:03:07+08:00:</p>
+
+<p>Ronin is a being that can assume the <em>appearance</em> of an adult human man, but the ‘intercourse’ consists of his dissolving into a luminous green vapour and temporarily attaching himself to his corporeal consort and bringing them to a, shall we say, euphoric state in the process. It is stated that although at a basic level, Ronin is tethered to the candle, he also needs to partly tether himself to a human host to sustain the appearance of human form. Thus, Ronin is in the candle, in the grandmother, <em>and</em> outside them interacting with Crusher, all at the same time.</p>
+
+<p>—– <strong>1019.16</strong> —–2023-01-06 23:41:07+08:00:</p>
+
+<p>I disagree, on two grounds. The first is that the concept ultimately still revolves around a newly-introduced set of revelations around Crusher’s family history, which, again, is a very common S7 motif. The second is also that I can imagine the concept actually working: at its core, it’s Star Trek Does Gothic Horror, with a plot involving a ghost that has been manipulating the women of the Crusher family for generations. The one-sentence pitch is not unreasonable. The problem is the execution: the weird attempts to show sex without sex and constantly talking about eroticism that the show, by virtue of rating standards, cannot actually display; the ghost using the grandmother’s body as a conduit to mess with the planet’s weather; the possessed grandmother <em>coming back to life and using Palpatine lightning on people</em>… just… <em>aaaaaaa</em></p>
+
+<p>But this was not how the pitch <em>had</em> to go: had Ronin been creepy rather than charming; had the clear exploitativeness of the relationship been foregrounded rather than ending on the note that the grandmother was happy because of Ronin; had the B-plot been less involved; etc. then we might have actually had a middling to decent episode. Instead, the writers took the pitch and tried to make it a twisted love story instead of horror. I personally think if Braga had written this one instead of Taylor, it’d probably have been at least 40% better: Braga’s output was uneven but he was a <em>very</em> good writer of horror episodes and other sorts of mindbendy nonsense – ‘Frame of Mind’ and ‘Phantasms’ on TNG, ‘Prey’ and ‘Latent Image’ on Voyager, and several Xindi arc episodes on Enterprise. Taylor, on the other hand, was definitely a good general writer, and IMO her tenure on Voyager produced one of the most consistent periods in that show’s oeuvre, but she also wrote the odd dud – the big one that springs to mind is Voyager’s ‘Elogium’, co-written with Kenneth Biller. If Braga had handled the story from the start, we might have got an interesting, if not necessarily groundbreaking, take on Gothic horror. Instead… we got Sub Rosa.</p>
+
+<p>—– <strong>1019.17</strong> —–2023-01-07 00:28:42+08:00:</p>
+
+<p>Is not the part where it involves a ghost doing weird shit with Crusher’s family part of the episode concept?</p>
+
+<p>—– <strong>1019.18</strong> —–2023-01-07 21:19:36+08:00:</p>
+
+<p>Your guess is as good as mine.</p>
+
+<p>—– <strong>1019.19</strong> —–2023-01-07 21:42:16+08:00:</p>
+
+<p>The Silent Hill Wiki Guy? You have piqued my curiosity.</p>
+
+<p>—– <strong>1019.20</strong> —–2023-01-07 22:45:29+08:00:</p>
+
+<p>Cheers!</p>
+
+<p>—– <strong>1019.21</strong> —–2023-01-08 01:33:02+08:00:</p>
+
+<p>It’s terrifying to think that the relevant information here is approaching 32 months old (no, 2021 was <em>not</em> 2 years ago), but anyway, a couple months back over on r/AskHistorians I <a href="https://www.reddit.com/r/AskHistorians/comments/ybv8rr/is_the_qing_conquest_theory_that_the_qing_dynasty/">answered a question about the ‘Qing conquest theory’</a>, a school of thought primarily in Mainland Chinese historiography that asserts that China’s economy fell behind that of Western Europe in the Early Modern period due to restrictive policies implemented by the Qing (1636-1912). <em>Or is it</em>? Because as I noted in that answer, this appears to have derived entirely from a Wikipedia article written in 2010, whose characterisation of a distinct theory was regarded as dubious <em>very</em> quickly. But the page was never deleted or amended despite several arguments, years apart, and what’s more, the notion of a ‘Qing conquest theory’ has since been brought up in <em>actual academic publications</em>, even if only in passing and usually dismissed, but still forming a citogenesis cycle. The essential issue is that basically, whoever first wrote the article clearly thought that their own characterisation of several distinct pieces of Chinese-language scholarship deserved a neologism to encompass it, rather than wait for any kind of self-identification on the part of the scholars cited. The article is so clearly the pet project of the original author (Teeninvestor, who has not edited either the article or the talk page since August 2010) that its citations have <em>never</em> been updated to include any further scholarship on either side of the supposed debate, while most of its original Chinese citations have been lost due to link rot.</p>
+
+<p>And this is where I draw our attention to the <a href="https://en.wikipedia.org/wiki/Talk:Qing_conquest_theory">Wikipedia talk page</a> that chronicles the arguments. Because dear lord, I revisited it today and only just realised how <em>much</em> went on here. The fascinating thing to me is just how <em>long</em> some of these users have been invested in it, coming back to new iterations of the conversation literally years later. Kanguole, the first advocate for removal in August 2010, was one of the last people to contribute to the last thread which concluded in May <em>2021</em>. This person has spent over a <em>decade</em> fighting the good fight against this article and being a consistent voice for its retraction. The runner-up is ch, who was also in the May 2021 thread but was first involved in September 2013, and who has also been pro-deletion but slightly more willing to compromise. Moonraker12, on the other hand, only appeared in May 2021, primarily to defend the article, and rather naturally got themselves embroiled in argument with Kanguole while ch tried to strike a balance. AXONOV couldn’t help putting in their oar too and getting everyone horrendously confused. And all the while, nobody has been able to agree on making any fundamental changes to the article, so there it sits, sowing confusion and uncertainty across the web.</p>
+
+<p>All this to say, boy am I glad I’m not a Wikipedia editor, and also a personal message to Kanguole: keep fighting the good fight!</p>
+
+<p>—– <strong>1019.22</strong> —–2023-01-08 19:57:36+08:00:</p>
+
+<p>It’s not the longest I’ve seen, but definitely among the more acrimonious.</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2023-01-01</time>
+        <a href="https://nodebe4.github.io/opinion/2023-01-01/theoryofdoom/">
+          theoryofdoom在2022-12-26~2023-01-01的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-01-01</time>
+        <a href="https://nodebe4.github.io/opinion/2023-01-01/Spinkcat/">
+          Spinkcat在2022-12-26~2023-01-01的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-12-31</time>
+        <a href="https://nodebe4.github.io/opinion/2022-12-31/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-12-26~2023-01-01的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-12-25</time>
+        <a href="https://nodebe4.github.io/opinion/2022-12-25/Spinkcat/">
+          Spinkcat在2022-12-19~2022-12-25的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-12-31/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E8%A2%AB%E5%88%A0%E9%99%A4%E8%A2%AB%E5%B1%8F%E8%94%BD%E7%9A%84-%E9%83%BD%E6%98%AF%E5%8E%86%E5%8F%B2%E7%9A%84%E4%BA%B2%E5%8E%86%E8%80%85-2022%E5%B9%B4%E5%BA%A6404%E6%96%87%E7%AB%A0/">
+            前一篇：【年终专题】被删除被屏蔽的，都是历史的亲历者……2022年度404文章
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2023-01-01/HeQinglian/">
+            後一篇：Twitter @He Qinglian: 2022-12-26~2023-01-01
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-12-31/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E8%A2%AB%E5%88%A0%E9%99%A4%E8%A2%AB%E5%B1%8F%E8%94%BD%E7%9A%84-%E9%83%BD%E6%98%AF%E5%8E%86%E5%8F%B2%E7%9A%84%E4%BA%B2%E5%8E%86%E8%80%85-2022%E5%B9%B4%E5%BA%A6404%E6%96%87%E7%AB%A0/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2023-01-01/HeQinglian/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2023-01-01/Spinkcat/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-12-31/ForeignAffairsMag/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-12-31/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E8%A2%AB%E5%88%A0%E9%99%A4%E8%A2%AB%E5%B1%8F%E8%94%BD%E7%9A%84-%E9%83%BD%E6%98%AF%E5%8E%86%E5%8F%B2%E7%9A%84%E4%BA%B2%E5%8E%86%E8%80%85-2022%E5%B9%B4%E5%BA%A6404%E6%96%87%E7%AB%A0/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2023-01-01/HeQinglian/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2023-01-01/Spinkcat/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-12-31/ForeignAffairsMag/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

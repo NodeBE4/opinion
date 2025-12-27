@@ -1,0 +1,3043 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>The 2021 Stratechery Year in Review – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+The 2021 Stratechery Year in Review
+——
+" />
+    <meta property="og:description" content="
+The 2021 Stratechery Year in Review
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="The 2021 Stratechery Year in Review" />
+    <meta property="twitter:title" content="The 2021 Stratechery Year in Review" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2021%2Fthe-2021-stratechery-year-in-review%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2021/the-2021-stratechery-year-in-review/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2021/the-2021-stratechery-year-in-review/&text=The 2021 Stratechery Year in Review&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2021/the-2021-stratechery-year-in-review/&title=The 2021 Stratechery Year in Review" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2021/the-2021-stratechery-year-in-review/&title=The 2021 Stratechery Year in Review" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=The 2021 Stratechery Year in Review&body=
+The 2021 Stratechery Year in Review
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2021/the-2021-stratechery-year-in-review/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2021/the-2021-stratechery-year-in-review/&title=The 2021 Stratechery Year in Review&caption=
+The 2021 Stratechery Year in Review
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=The 2021 Stratechery Year in Review&url=https://stratechery.com/2021/the-2021-stratechery-year-in-review/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>The 2021 Stratechery Year in Review</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2021-12-20
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2021/the-2021-stratechery-year-in-review/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1640002301000-->
+<p><a href="https://stratechery.com/2021/the-2021-stratechery-year-in-review/">The 2021 Stratechery Year in Review</a>
+——</p>
+
+<div>
+  <p>There is a perspective in which 2021 was an absolute drag: COVID dragged on, vaccines became politicized, new variants emerged, and while tech continued to provide the infrastructure that kept the economy moving, it also provided the infrastructure for all of those things that made this year feel so difficult.</p>
+  <p>At the same time, 2021 also provided a glimpse of a future beyond our current smartphone and social media-dominated paradigm: there was the Metaverse, and crypto, and <a href="https://stratechery.com/2021/the-great-bifurcation/">my contention they are related</a>. Sure, the old paradigm is increasingly dominated by regulation and politics, a topic that is so soul-sucking that it temporarily made me want to post less, but the brilliance of the Internet, and of business-models like that which undergirds Stratechery, is that freedom to not only write what you want, but build what you want, and be what you want, is greater than ever.</p>
+  <p><a href="https://stratechery.com/2021/internet-3-0-and-the-beginning-of-tech-history/"><img loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2021/01/internet30-2.png?resize=640%2C483&#038;ssl=1" alt="A drawing of Internet 3.0 and Open Protocols" width="640" height="483" class="aligncenter size-large wp-image-5531" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2021/01/internet30-2.png?resize=1024%2C772&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/01/internet30-2.png?resize=300%2C226&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/01/internet30-2.png?resize=768%2C579&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/01/internet30-2.png?resize=836%2C630&amp;ssl=1 836w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/01/internet30-2.png?w=1280&amp;ssl=1 1280w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></a></p>
+  <p>This year Stratechery published 40 free Weekly Articles and 121 Daily Updates, including 13 interviews. I also launched <a href="https://stratechery.com/2021/passport">Passport</a>, the new back-end for Stratechery and <a href="https://dithering.fm">Dithering</a>, the twice-a-week for-pay podcast I host with <a href="https://daringfireball.net/">John Gruber</a>; Passport remains under development, so stay tuned for updates in 2022.</p>
+  <p><a href="https://stratechery.com/2021/passport/"><img loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-10.png?resize=640%2C79&#038;ssl=1" alt="Passport is the new back-end for Stratechery" width="640" height="79" class="aligncenter size-large wp-image-6447" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-10.png?resize=1024%2C126&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-10.png?resize=300%2C37&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-10.png?resize=768%2C94&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-10.png?resize=1200%2C147&amp;ssl=1 1200w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/06/passport-10.png?w=1280&amp;ssl=1 1280w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></a></p>
+  <p>Today, as per tradition, I summarize the most popular and most important posts of the year on Stratechery.</p>
+  <p>You can find previous years here: <a href="https://stratechery.com/2020/the-2020-stratechery-year-in-review/">2020</a> | <a href="https://stratechery.com/2019/the-2019-stratechery-year-in-review/">2019</a> | <a href="https://stratechery.com/2018/the-2018-stratechery-year-in-review/">2018</a> | <a href="https://stratechery.com/2017/the-2017-stratechery-year-in-review/">2017</a> | <a href="https://stratechery.com/2016/the-2016-stratechery-year-in-review/">2016</a> | <a href="https://stratechery.com/2015/the-stratechery-2015-year-in-review/">2015</a> | <a href="https://stratechery.com/2014/stratechery-2014-year-review/">2014</a> | <a href="http://stratechery.com/2013/stratechery-2013-year-review/">2013</a></p>
+  <p>On to 2021:</p>
+  <h4 id="the-five-most-viewed-articles">The Five Most-Viewed Articles</h4>
+  <p>The five most-viewed articles on Stratechery according to page views:</p>
+  <ol>
+    <li><a href="https://stratechery.com/2021/clubhouses-inevitability/">Clubhouse’s Inevitability</a> — I was very bullish on Clubhouse; unfortunately, it looks like I got this one completely wrong. I admitted to my error and explained my thinking in <a href="https://stratechery.com/2021/market-making-and-time-horizons-clubhouse-struggling-what-did-i-get-wrong/">this Update</a>.</li>
+    <li><a href="https://stratechery.com/2021/the-relentless-jeff-bezos/">The Relentless Jeff Bezos</a> — Jeff Bezos is retiring, and will go down as one of the great CEO’s in tech history, in part because of how he transformed Amazon into a tech company in every respect.</li>
+    <li><a href="https://stratechery.com/2021/intel-problems/">Intel Problems</a> — Intel is in much more danger than its profits suggest; the problems are a long time in the making, and the solution is to split up the company. <em>See also, <a href="https://stratechery.com/2021/intel-unleashed-gelsinger-on-intel-idm-2-0/">Intel Unleashed, Gelsinger on Intel, IDM 2.0</a> and <a href="https://stratechery.com/2021/intel-vs-tsmc-how-samsung-and-tsmc-won-mad-chips/">Intel vs. TSMC, How Samsung and TSMC Won, MAD Chips</a>.</em></li>
+    <li><a href="https://stratechery.com/2021/internet-3-0-and-the-beginning-of-tech-history/">Internet 3.0 and the Beginning of (Tech) History</a> — The actions taken by Big Tech have a resonance that goes beyond the context of domestic U.S. politics. Even if they were right, they will still push the world to Internet 3.0.</li>
+    <li><a href="https://stratechery.com/2021/apples-mistake/">Apple’s Mistake</a> — While it’s possible to understand Apple’s motivations behind its decision to enable on-device scanning, the company had a better way to satisfy its societal obligations while preserving user privacy. <em>See also, <a href="https://stratechery.com/2021/apple-versus-governments-apples-legitimate-privacy-claims-privacy-and-paranoia/">Apple Versus Governments, Apple’s Legitimate Privacy Claims, Privacy and Paranoia</a>, <a href="https://stratechery.com/2021/apples-point-of-view-nfts-and-status-nfts-and-standard-formats/">Apple’s Point-of-View, NFTs and Status, NFTs and Standard Formats</a>, and <a href="https://stratechery.com/2021/apples-point-of-view-nfts-and-status-nfts-and-standard-formats/">Facebook Messenger Updates, WhatsApp vs. Apple, Facebook’s CSAM Approach</a>.</em></li>
+  </ol>
+  <p><a href="https://stratechery.com/2021/intel-problems/"><img loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2021/01/intel-1.png?resize=640%2C388&#038;ssl=1" alt="" width="640" height="388" class="aligncenter size-large wp-image-5595" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2021/01/intel-1.png?resize=1024%2C621&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/01/intel-1.png?resize=300%2C182&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/01/intel-1.png?resize=768%2C466&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/01/intel-1.png?resize=1039%2C630&amp;ssl=1 1039w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/01/intel-1.png?w=1280&amp;ssl=1 1280w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></a></p>
+  <h4 id="the-next-revolution">The Next Revolution</h4>
+  <p>Several posts throughout the year wrestled with the theory of the next revolution, from memes to metaverses:</p>
+  <ul>
+    <li><a href="https://stratechery.com/2021/internet-3-0-and-the-beginning-of-tech-history/">Internet 3.0 and the Beginning of (Tech) History</a> — The actions taken by Big Tech have a resonance that goes beyond the context of domestic U.S. politics. Even if they were right, they will still push the world to Internet 3.0.</li>
+    <li><a href="https://stratechery.com/2021/mistakes-and-memes/">Mistakes and Memes</a> — Information on the Internet is conveyed by memes, which can be anything and everything. The real world impacts are only now being understood.</li>
+    <li><a href="https://stratechery.com/2021/the-death-and-birth-of-technological-revolutions/">The Death and Birth of Technological Revolutions</a> — Carlota Perez documents technological revolutions, and thinks we’re in the middle of the current one; what, though, if we are nearing its maturation? Is crypto next?</li>
+    <li><a href="https://stratechery.com/2021/sequoia-productive-capital/">Sequoia Productive Capital</a> — Sequoia’s transformation of its venture capital model is actually a shift from financial capital to productive capital.</li>
+    <li><a href="https://stratechery.com/2021/the-great-bifurcation/">The Great Bifurcation</a> — Tracing the evolution of tech’s three eras, and why the fourth era — the Metaverse — is defined by its bifurcation with the physical world.</li>
+  </ul>
+  <h4 id="the-metaverse">The Metaverse</h4>
+  <p>Several posts this year worked to define the Metaverse and understand its role in the future:</p>
+  <ul>
+    <li><a href="https://stratechery.com/2021/the-roblox-microverse/">The Roblox Microverse</a> — Roblox is something new and interesting that abstracts away the platforms underneath it.</li>
+    <li><a href="https://stratechery.com/2021/metaverses/">Metaverses</a> — The Metaverse of Snow Crash is not a good analogy for the future, as the Internet breaks down into Stephenson’s dystopia.</li>
+    <li><a href="https://stratechery.com/2021/meta/">Meta</a> — Facebook’s reorganization into Meta is the ultimate bet on the power of founder control. <em>See also <a href="https://stratechery.com/2021/an-interview-with-mark-zuckerberg-about-the-metaverse/">my interview with Meta CEO Mark Zuckerberg</a>.</em></li>
+    <li><a href="https://stratechery.com/2021/microsoft-and-the-metaverse/">Microsoft and the Metaverse</a> — Defining the Metaverse, and explaining why Microsoft is well-placed for the virtual reality opportunity. <em>See also, <a href="https://stratechery.com/2021/enterprise-metaverses-horizon-workrooms-workrooms-facebook-problem/">Enterprise Metaverses, Horizon Workrooms, Workrooms’ Facebook Problem</a>.</em></li>
+    <li><a href="https://stratechery.com/2021/unity-weta-and-faceless-platforms/">Unity, Weta, and Faceless Platforms</a> — Unity’s acquisition of Weta digital makes sense for both sides, and positions Unity to be an essential platform for tech’s future. <em>See also <a href="https://stratechery.com/2021/unity-buys-weta-digital-an-interview-with-unity-ceo-john-riccitiello/">my interview with Unity CEO John Riccitiello</a>.</em></li>
+  </ul>
+  <p><a href="https://stratechery.com/2021/unity-weta-and-faceless-platforms/"><img loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2021/11/unity-3.png?resize=640%2C464&#038;ssl=1" alt="A drawing of Unity and Weta&#039;s Convergence" width="640" height="464" class="aligncenter size-large wp-image-8056" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2021/11/unity-3.png?resize=1024%2C742&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/11/unity-3.png?resize=300%2C218&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/11/unity-3.png?resize=768%2C557&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/11/unity-3.png?resize=869%2C630&amp;ssl=1 869w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/11/unity-3.png?w=1280&amp;ssl=1 1280w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></a></p>
+  <h4 id="politics--regulation">Politics &amp; Regulation</h4>
+  <p>A lot of time — perhaps too much — was spent on politics and regulation:</p>
+  <ul>
+    <li><a href="https://stratechery.com/2021/trump-and-twitter/">Trump and Twitter</a> — After <a href="https://stratechery.com/2020/zuckerbergs-choice-zuckerbergs-power-zuckerbergs-conviction/">defending Trump’s right to social media</a> I finally sided with those who thought that Twitter should suspend his account; I really don’t know that I got this right, especially after Twitter and Facebook ramped up censorship throughout the year, instead of stepping back. <em>See also <a href="https://stratechery.com/2021/intel-vs-tsmc-how-samsung-and-tsmc-won-mad-chips/">Facebook and Twitter Suspend Trump, Parler Suspended Everywhere, Context and Culture</a>, <a href="https://stratechery.com/2021/russia-google-and-apple-the-app-firewall-laptop-assumptions/">Russia, Google and Apple; The App Firewall; Laptop Assumptions</a>, and <a href="https://stratechery.com/2021/russia-google-and-apple-the-app-firewall-laptop-assumptions/">Facebook Files, Continued; Misinformation and Vaccinations; Fact-Checking and the Unknown</a>.</em></li>
+    <li><a href="https://stratechery.com/2021/moderation-in-infrastructure/">Moderation in Infrastructure</a> — Infrastructure companies need a distinct approach to moderation that focuses on neutrality and due process. <em>See also my interviews with <a href="https://stratechery.com/2021/interviews-with-patrick-collison-brad-smith-thomas-kurian-and-matthew-prince-on-moderation-in-infrastructure/">Stripe CEO Patrick Collison, Microsoft President Brad Smith, Google Cloud CEO Thomas Kurian, and Cloudflare CEO Matthew Prince</a>.</em></li>
+    <li><a href="https://stratechery.com/2021/the-webs-missing-interoperability/">The Web’s Missing Interoperability</a> — Truly unlocking competition in tech means increasing interoperability; an absolutist approach to privacy is doing the exact opposite.</li>
+    <li><a href="https://stratechery.com/2021/regulators-and-reality/">Regulators and Reality</a> — The FTC’s new Facebook case isn’t any better than the old one, even as there are ever more questions about the potential harm of regulatory interference. <em>See also, <a href="https://stratechery.com/2021/facebook-complaint-dismissed-anti-monopoly-vs-antitrust-revisited-where-facebook-lost/">Facebook Complaint Dismissed; Anti-Monopoly vs. Antitrust, Revisited; Where Facebook Lost</a>.</em></li>
+    <li><a href="https://stratechery.com/2021/facebook-political-problems/">Facebook Political Problems</a> — Facebook’s political problems stem directly from its size and drive for growth; they are societal issues, not antitrust ones. <em>See also, <a href="https://stratechery.com/2021/the-facebook-files-instagram-and-teens-facebook-versus-app-stores/">The Facebook Files, Instagram and Teens, Facebook versus App Stores</a>.</em></li>
+  </ul>
+  <p><a href="https://stratechery.com/2021/clubhouses-inevitability/"><img loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2021/02/WAclubhouse-9-768x575-1.png?resize=640%2C479&#038;ssl=1" alt="A drawing of Clubhouse&#039;s Similarity to Twitter, Instagram, and TikTok" width="640" height="479" class="aligncenter size-full wp-image-5832" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2021/02/WAclubhouse-9-768x575-1.png?w=768&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/02/WAclubhouse-9-768x575-1.png?resize=300%2C225&amp;ssl=1 300w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></a></p>
+  <h4 id="the-app-store">The App Store</h4>
+  <p>The regulatory question that received the most attention this year was the App Store, thanks in large part to Apple’s legal tussle with Epic:</p>
+  <ul>
+    <li><a href="https://stratechery.com/2021/app-store-arguments/">App Store Arguments</a> — There are all kinds of arguments to make about the App Store, and nearly all of them are good ones; that’s why the best solution can only come from Apple.</li>
+    <li><a href="https://stratechery.com/2021/integrated-apple-and-app-store-risk/">Integrated Apple and App Store Risk</a> — WWDC highlighted how Apple’s differentiation is based on integration; the company ought not risk that differentiation for exploitive App Store policies.</li>
+    <li><a href="https://stratechery.com/2021/the-cicilline-salvo/">The Cicilline Salvo</a> — A package of new proposed laws for regulating tech companies are in part a negotiating ploy, but also an indicator of change.</li>
+    <li><a href="https://stratechery.com/2021/the-app-store-trap-and-tech-epochs/">Tech Epochs and the App Store Trap</a> — Centralized control is useful at the beginning of an economy, but limits innovation in the long run. That is as true for China as it is for the App Store.</li>
+    <li><a href="https://stratechery.com/2021/the-apple-v-epic-decision/">The Apple v. Epic Decision</a> — Understanding Apple’s victory in Apple v. Epic, and the limitations of the injunction on anti-steering provisions. <em>See also, <a href="https://stratechery.com/2021/apples-settlement-explicit-imprimatur-additional-notes/">Apple’s Settlement, Explicit Imprimatur, Additional Notes</a>, <a href="https://stratechery.com/2021/apples-app-store-concession-why-this-is-a-big-deal-devil-in-the-details/">Apple’s App Store Concession, Why This is a Big Deal, Devil in the Details</a>, and <a href="https://stratechery.com/2021/apples-app-store-concession-why-this-is-a-big-deal-devil-in-the-details/">Apple Makes the Rules, Reader and Productivity Apps, High-spending Gamers</a>.</em></li>
+  </ul>
+  <h4 id="creator-power">Creator Power</h4>
+  <p>A yearly theme on Stratechery is creator power, and the opportunities unlocked by the Internet:</p>
+  <ul>
+    <li><a href="https://stratechery.com/2021/publishing-is-back-to-the-future/">Publishing is Back to the Future</a> — Journalism cannot afford to be divorced from business realities; that applies to Australia, the New York Times, and even Andreessen Horowitz.</li>
+    <li><a href="https://stratechery.com/2021/sovereign-writers-and-substack/">Sovereign Writers and Substack</a> — Substack is at the center of media controversy, most of which misses the point that sovereign writers — not Substack — are in control.</li>
+    <li><a href="https://stratechery.com/2021/non-fungible-taylor-swift/">Non-Fungible Taylor Swift</a> — Taylor Swift, like Dave Chappelle, is leveraging the power of the Internet to take control of their art.</li>
+    <li><a href="https://stratechery.com/2021/spotifys-surprise/">Spotify’s Surprise</a> — Spotify’s new subscription podcast offerings embrace the open ecosystem of podcasts in multiple ways. <em>See also, <a href="https://stratechery.com/2021/podcast-subscriptions-vs-the-app-store/">Podcast Subscriptions vs. the App Store</a>.</em></li>
+    <li><a href="https://stratechery.com/2021/market-making-on-the-internet/">Market-Making on the Internet</a> — More and more opportunities on the web come from market marking, not for advertisers, but for real goods and services paid for with real money.</li>
+  </ul>
+  <p><a href="https://stratechery.com/2021/market-making-on-the-internet/"><img loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2021/05/orthogonality3-768x487-1.png?resize=640%2C406&#038;ssl=1" alt="A drawing of the Creator Carrying Audiences to Different Mediums" width="640" height="406" class="aligncenter size-full wp-image-6329" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2021/05/orthogonality3-768x487-1.png?w=768&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/05/orthogonality3-768x487-1.png?resize=300%2C190&amp;ssl=1 300w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></a></p>
+  <h4 id="company-analysis">Company Analysis</h4>
+  <p>While most Stratechery company analysis happens in the Update, there were a number of relevant Articles as well:</p>
+  <ul>
+    <li><a href="https://stratechery.com/2021/the-lightness-of-windows/">The Lightness of Windows</a> — The Windows 11 announcement was fun and interesting, but there is a reason that Windows is no longer the center of Microsoft’s business.</li>
+    <li><a href="https://stratechery.com/2021/instagrams-evolution/">Instagram’s Evolution</a> — Instagram’s shift away from being a photo-sharing app is very much inline with the service’s continuous evolution.</li>
+    <li><a href="https://stratechery.com/2021/distribution-and-demand/">Distribution and Demand</a> — Distribution on the Internet is free; what matters is controlling demand. AT&amp;T and Verizon didn’t understand the distinction. <em>See also, <a href="https://stratechery.com/2021/atts-original-bad-deal-discovery-warnermedia-the-streaming-landscape/">AT&amp;T’s Original Bad Deal, Discovery + WarnerMedia, The Streaming Landscape</a>.</em></li>
+    <li><a href="https://stratechery.com/2021/cloudflares-disruption/">Cloudflare’s Disruption</a> — Cloudflare’s new storage offering is potentially disruptive both economically and strategically. <em>See also: <a href="https://stratechery.com/2021/cloudflare-on-the-edge/">Cloudflare on the Edge</a> — Cloudflare is uniquely positioned to become a major player in an Internet 3.0 world, where politics matter more than economics.</em></li>
+    <li><a href="https://stratechery.com/2021/the-amazon-empire-strikes-back/">The Amazon Empire Strikes Back</a> — Amazon’s logistics investment makes the company increasingly attractive to 3rd party merchants.</li>
+  </ul>
+  <p><a href="https://stratechery.com/2021/cloudflares-disruption/"><img loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2021/09/cloudflare-2.png?resize=640%2C401&#038;ssl=1" alt="A drawing of Cloudflare&#039;s Modular Cloud" width="640" height="401" class="aligncenter size-large wp-image-7718" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2021/09/cloudflare-2.png?resize=1024%2C641&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/09/cloudflare-2.png?resize=300%2C188&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/09/cloudflare-2.png?resize=768%2C481&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/09/cloudflare-2.png?resize=1007%2C630&amp;ssl=1 1007w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/09/cloudflare-2.png?w=1280&amp;ssl=1 1280w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></a></p>
+  <h4 id="stratechery-interviews">Stratechery Interviews</h4>
+  <p>This year’s Stratechery interviews included:</p>
+  <ul>
+    <li><a href="https://stratechery.com/2021/apple-earnings-an-interview-with-jay-goldberg-about-chips-and-intel/">Jay Goldberg</a> about chips, Intel, and Apple.</li>
+    <li><a href="https://stratechery.com/2021/an-interview-with-eric-seufert-about-apple-facebook-and-mobile-advertising/">Eric Seufert</a> about advertising and Apple versus Facebook (and a <a href="https://stratechery.com/2021/an-interview-with-eric-seufert-about-the-impact-of-att/">follow-up interview</a> about the impact of ATT).</li>
+    <li><a href="https://stratechery.com/2021/interviews-with-patrick-collison-brad-smith-thomas-kurian-and-matthew-prince-on-moderation-in-infrastructure/">Patrick Collison, Brad Smith, Thomas Kurian, and Matthew Prince</a> about moderation in infrastructure.</li>
+    <li><a href="https://stratechery.com/2021/an-interview-with-dan-wang-about-china-the-u-s-and-technology/">Dan Wang</a> about the U.S. and China (and a <a href="https://stratechery.com/2021/an-interview-with-dan-wang-about-chinas-tech-crackdown/">follow-up interview</a> about China’s tech crackdown).</li>
+    <li><a href="https://stratechery.com/2021/clubhouse-enables-creator-payments-artists-and-cultists-an-interview-with-nathan-hubbard/">Nathan Hubbard</a> about Taylor Swift and the future of music.</li>
+    <li><a href="https://stratechery.com/2021/an-interview-with-brad-stone-about-amazon-unbound/">Brad Stone</a> about Amazon and Jeff Bezos.</li>
+    <li><a href="https://stratechery.com/2021/an-interview-with-google-ceo-sundar-pichai/">Sundar Pichai</a> about the future of Google. <em>See also <a href="https://stratechery.com/2021/evaluating-sundar-pichai-ec-announces-new-google-investigation-amazon-blocks-floc/">Evaluating Sundar Pichai, EC Announces New Google Investigation, Amazon Blocks FLoC</a></em>.</li>
+    <li><a href="https://stratechery.com/2021/facebooks-metaverse-opportunity-an-interview-with-matthew-ball-about-the-multiverse/">Matthew Ball</a> about the Metaverse.</li>
+    <li><a href="https://stratechery.com/2021/an-interview-with-zeynep-tufekci-about-lessons-from-the-pandemic-and-the-crisis-of-authority/">Zeynep Tufekci</a> about the pandemic and the crisis of authority</li>
+    <li><a href="https://stratechery.com/2021/an-interview-with-mark-zuckerberg-about-the-metaverse/">Mark Zuckerberg</a> about the Metaverse.</li>
+    <li><a href="https://stratechery.com/2021/an-interview-with-mark-zuckerberg-about-the-metaverse/">John Riccitiello</a> about Unity’s acquisition of Weta.</li>
+  </ul>
+  <p><a href="https://stratechery.com/2021/new-defaults/"><img loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2021/01/defaults-1.png?resize=640%2C407&#038;ssl=1" alt="A drawing of Authoritarianism Hill, Dime-Store Ditch, and Freedom Mountain" width="640" height="407" class="aligncenter size-large wp-image-5518" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2021/01/defaults-1.png?resize=1024%2C651&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/01/defaults-1.png?resize=300%2C191&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/01/defaults-1.png?resize=768%2C488&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/01/defaults-1.png?resize=991%2C630&amp;ssl=1 991w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/01/defaults-1.png?w=1280&amp;ssl=1 1280w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></a></p>
+  <p>Plus, an interview of me on the <a href="https://stratechery.com/2021/ben-thompson-on-the-good-time-clubhouse-show/">Good Time Clubhouse Show</a>.</p>
+  <h4 id="the-year-in-daily-updates">The Year in Daily Updates</h4>
+  <p>Fifteen of my favorite Daily Updates:</p>
+  <ul>
+    <li><a href="">The WhatsApp Kerfuffle, Comparing Messaging Services, Network Effects</a> — Some number of people are downloading alternative messaging apps after WhatsApp changed its privacy policy; Facebook’s problem is a narrative one, not a factual one.</li>
+    <li><a href="https://stratechery.com/2021/facebooks-earnings-zuckerberg-vs-cook-apple-and-facebook-parallels/">Facebook’s Earnings, Zuckerberg vs. Cook, Apple and Facebook Parallels</a> — Zooming in on Facebook’s earnings, and zooming out on the unfolding fight between Apple and Facebook and their chief executives. <em>See also, <a href="https://stratechery.com/2021/interoperability-defined-applovin-files-s-1-the-facebook-shopify-value-chain/">Interoperability Defined, AppLovin Files S-1, The Facebook-Shopify Value Chain</a>.</em></li>
+    <li><a href="https://stratechery.com/2021/mistakes-memes-and-foreign-ground-coronavirus-context-the-new-york-times-and-the-china-model/">Mistakes, Memes, and Foreign Ground; Coronavirus Context; The New York Times and the China Model</a> — Considering a world of memes is uncomfortable, and perhaps explains why journalists want a world of information control. The problem is that we will never be better at this than China.</li>
+    <li><a href="https://stratechery.com/2021/google-makes-deal-with-news-corp-facebook-blocks-news-in-australia-microsofts-cynicism/">Google Makes Deal With News Corp, Facebook Blocks News in Australia, Microsoft’s Cynicism</a> — Google gives in in Australia, not to the government, but to News Corp. Facebook, meanwhile, pulls out; they are right on the merits, but terrible at the politics.</li>
+    <li><a href="https://stratechery.com/2021/nonfungible-tokens-nba-top-shot-the-creation-of-consumption/">Nonfungible Tokens, NBA Top Shot, The Creation of Consumption</a> — NFTs are useful not simply because they are unique, but because they are an easy-to-understand way to understand the importance of blockchains. <em>See also, <a href="https://stratechery.com/2021/constitutiondao-the-need-for-trust-memes-and-reality/">ConstitutionDAO, The Need for Trust, Memes and Reality</a> and <a href="https://stratechery.com/2021/apples-macbook-pro-event-the-bitcoin-futures-etf-bitcoin-regulation-and-utility/">Apple’s MacBook Pro Event; The Bitcoin Futures ETF; Bitcoin, Regulation, and Utility</a>.</em></li>
+    <li><a href="https://stratechery.com/2021/spotify-stream-on-spotifys-advertising-play-additional-notes-on-stream-on/">Spotify Stream On, Spotify’s Advertising Play, Additional Notes on Stream On</a> — Spotify’s Stream On event advertised Spotify’s ambitions to become an Aggregator. The plans were impressive, but should Spotify go even further?</li>
+    <li><a href="https://stratechery.com/2021/the-automotive-chip-shortage-cheap-and-complex-a-useful-crisis/">The Automotive Chip Shortage, Cheap and Complex, A Useful Crisis</a> — The chip shortage facing the automobile industry has more to do with the auto industry’s failure to understand chips than a lack of U.S. capacity; still, a crisis in one area might fix another. <em>See also, <a href="https://stratechery.com/2021/mark-liu-at-tsia-tsmcs-100-billion-economics-versus-politics/">Mark Liu at TSIA, TSMC’s $100 Billion, Economics Versus Politics</a>, <a href="https://stratechery.com/2021/tsmc-earnings-semiconductor-economics-and-auto-microcontrollers-tsmcs-advantage/">TSMC Earnings, Semiconductor Economics and Auto Microcontrollers, TSMC’s Advantage</a>, and <a href="https://stratechery.com/2021/mark-liu-in-time-taiwan-and-china-tsmc-and-the-u-s/">Mark Liu in Time, Taiwan and China, TSMC and the U.S.</a></em></li>
+    <li><a href="https://stratechery.com/2021/a-pandemic-year-coronavirus-and-information-zeynep-tufekci-cuts-through/">A Pandemic Year, Coronavirus and Information, Zeynep Tufekci Cuts Through</a> — Looking back on the pandemic through the lens of Stratechery’s Articles about information. Plus, why Zeynep Tufekci is the writer of the year. <em>See also <a href="https://stratechery.com/2021/new-defaults/">New Defaults</a> and <a href="https://stratechery.com/2021/pandemic-progress/">Pandemic Progress</a>.</em></li>
+    <li><a href="https://stratechery.com/2021/nvidia-grace-gpu-use-cases-arm-and-integration/">Nvidia Grace, GPU Use Cases, ARM and Integration</a> — Nvidia’s database CPU is not a challenger to Intel; it is the vision undergirding it that is the real threat. <em>See also <a href="https://stratechery.com/2021/nvidias-gtc-keynote-the-nvidia-stack-the-omniverse/">Nvidia’s GTC Keynote, The Nvidia Stack, The Omniverse</a> and <a href="https://stratechery.com/2021/ftc-sues-to-block-nvidia-arm-acquisition-innovation-and-the-data-center-arms-future/">FTC Sues to Block Nvidia ARM Acquisition, Innovation and the Data Center, ARM’s Future</a>.</em></li>
+    <li><a href="https://stratechery.com/2021/didi-removed-from-app-stores-china-vs-tech-caid-and-chinese-privacy/">Didi Removed From App Stores, China vs. Tech, CAID and Chinese Privacy</a> — China’s move against Didi didn’t happen in isolation: it’s the latest in a series of moves that should give investors pause. <em>See also, <a href="https://stratechery.com/2021/bytedances-new-board-member-the-tiktok-question-chinas-innovation-risk/">ByteDance’s New Board Member, The TikTok Question, China’s Innovation Risk</a>.</em></li>
+    <li><a href="https://stratechery.com/2021/square-buys-afterpay-network-effects-apple-and-the-cost-of-time/">Square Buys Afterpay, Network Effects, Apple and the Cost of Time</a> — Afterpay is a leading market in “Buy Now Pay Later”; Square’s purchase makes a lot of sense, and the price is worth the time it would take to build a competitor.</li>
+    <li><a href="https://stratechery.com/2021/mlb-versus-sinclair-what-happened-to-sinclair-the-problem-for-sports-leagues/">MLB Versus Sinclair, What Happened to Sinclair, The Problem for Sports Leagues</a> — The Internet has uniquely impacted regional sports networks, thanks to the reality of free distribution. Sports leagues will need to adapt. <em>See also, <a href="https://stratechery.com/2021/formula-1-and-netflix-netflix-and-sports-youtube-tv-vs-espn/">Formula 1 and Netflix, Netflix and Sports, YouTube TV vs. ESPN</a>.</em></li>
+    <li><a href="https://stratechery.com/2021/zillow-pauses-home-buying-opendoors-advantage-crypto-and-energy/">Zillow Pauses Home-Buying, Opendoor’s Advantage, Crypto and Energy</a> — Zillow’s halt in buying new homes is a reminder that core competency can out-compete an Aggregator’s advantage; then, feedback on crypto and energy. <em>See also, <a href="https://stratechery.com/2021/zillow-shuts-down-offers-where-zillow-went-wrong-reflecting-on-zillow-aggregation-and-integration/">Zillow Shuts Down Offers; Where Zillow Went Wrong; Reflecting on Zillow, Aggregation, and Integration</a> and <a href="https://stratechery.com/2021/opendoor-earnings-opendoors-pricing-opendoors-scalability/">Opendoor Earnings, Opendoor’s Pricing, Opendoor’s Scalability</a>.</em></li>
+    <li><a href="https://stratechery.com/2021/adobe-max-photoshop-on-the-web-photoshop-and-nfts/">Adobe Max, Photoshop on the Web, Photoshop and NFTs</a> — Adobe Max suggested that Adobe is finally starting to build its products as a service, not just selling them that way. Plus, Photoshop on the Web leans into Photoshop’s complexity, and Photoshop’s NFT authenticity feature is compelling.</li>
+    <li><a href="https://stratechery.com/2021/the-information-on-apple-in-china-apples-deal-evaluating-apples-china-risk/">The Information on Apple in China, Apple’s Deal, Evaluating Apple’s China Risk</a> — The Information has a report on a deal Apple made with the Chinese government; this explains multiple things over the last five years, and may indicate that Apple’s position is fairly secure.</li>
+  </ul>
+  <p><a href="https://stratechery.com/2021/square-buys-afterpay-network-effects-apple-and-the-cost-of-time/"><img loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2021/08/afterpay-4.png?resize=640%2C241&#038;ssl=1" alt="A drawing of The Square/Afterpay Network Effect" width="640" height="241" class="aligncenter size-large wp-image-7398" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2021/08/afterpay-4.png?resize=1024%2C385&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/08/afterpay-4.png?resize=300%2C113&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/08/afterpay-4.png?resize=768%2C289&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/08/afterpay-4.png?resize=1200%2C451&amp;ssl=1 1200w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/08/afterpay-4.png?w=1280&amp;ssl=1 1280w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></a></p>
+  <hr />
+  <p>I am so grateful to the Stratechery (and Dithering!) subscribers that make it possible for me to do this as a job. I wish all of you a Merry Christmas and Happy New Year, and I’m looking forward to a great 2022!</p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2022-01-18</time>
+        <a href="https://nodebe4.github.io/opinion/2022-01-18/The-Intel-Split/">
+          The Intel Split
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-01-05</time>
+        <a href="https://nodebe4.github.io/opinion/2022-01-05/OpenSea,-Web3,-and-Aggregation-Theory/">
+          OpenSea, Web3, and Aggregation Theory
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-12-14</time>
+        <a href="https://nodebe4.github.io/opinion/2021-12-14/The-Great-Bifurcation/">
+          The Great Bifurcation
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-12-06</time>
+        <a href="https://nodebe4.github.io/opinion/2021-12-06/The-Amazon-Empire-Strikes-Back/">
+          The Amazon Empire Strikes Back
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2021-12-20/%E5%9C%8D%E7%88%90%E5%B0%8F%E7%82%92-%E6%B6%88%E5%A4%B1%E7%9A%84%E9%9D%92%E6%98%A5-%E9%87%9D%E5%B0%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%B6%B2%E7%B5%A1%E4%BF%9D%E8%AD%B7%E6%8E%AA%E6%96%BD%E7%9A%84%E8%83%8C%E5%BE%8C-%E5%9C%8D%E7%88%90-CityU/">
+            前一篇：圍爐小炒：“消失的青春“：針對未成年人網絡保護措施的背後|圍爐·CityU
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2021-12-20/%E8%82%85%E8%AA%AA-%E5%8F%B0%E7%81%A3%E5%92%8C%E4%B8%AD%E5%9C%8B-%E7%B5%B1%E4%B8%80%E5%A5%BD%E9%82%84%E6%98%AF%E5%88%86%E8%A3%82%E5%A5%BD/">
+            後一篇：肅說：台灣和中國 統一好還是分裂好？
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2021-12-20/%E5%9C%8D%E7%88%90%E5%B0%8F%E7%82%92-%E6%B6%88%E5%A4%B1%E7%9A%84%E9%9D%92%E6%98%A5-%E9%87%9D%E5%B0%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%B6%B2%E7%B5%A1%E4%BF%9D%E8%AD%B7%E6%8E%AA%E6%96%BD%E7%9A%84%E8%83%8C%E5%BE%8C-%E5%9C%8D%E7%88%90-CityU/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2021-12-20/%E8%82%85%E8%AA%AA-%E5%8F%B0%E7%81%A3%E5%92%8C%E4%B8%AD%E5%9C%8B-%E7%B5%B1%E4%B8%80%E5%A5%BD%E9%82%84%E6%98%AF%E5%88%86%E8%A3%82%E5%A5%BD/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-01-05/OpenSea,-Web3,-and-Aggregation-Theory/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2021-12-14/The-Great-Bifurcation/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2021-12-20/%E5%9C%8D%E7%88%90%E5%B0%8F%E7%82%92-%E6%B6%88%E5%A4%B1%E7%9A%84%E9%9D%92%E6%98%A5-%E9%87%9D%E5%B0%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%B6%B2%E7%B5%A1%E4%BF%9D%E8%AD%B7%E6%8E%AA%E6%96%BD%E7%9A%84%E8%83%8C%E5%BE%8C-%E5%9C%8D%E7%88%90-CityU/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2021-12-20/%E8%82%85%E8%AA%AA-%E5%8F%B0%E7%81%A3%E5%92%8C%E4%B8%AD%E5%9C%8B-%E7%B5%B1%E4%B8%80%E5%A5%BD%E9%82%84%E6%98%AF%E5%88%86%E8%A3%82%E5%A5%BD/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-01-05/OpenSea,-Web3,-and-Aggregation-Theory/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2021-12-14/The-Great-Bifurcation/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

@@ -1,0 +1,960 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>延续 昨日 的假新闻、宣传的议题，近期也有一些值得关注的中国利用互联网进行信息操弄的调查披露。中国政府正在加强其在影响力行动（influence operations，IO） – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+延续 昨日 的假新闻、宣传的议题，近期也有一些值得关注的中国利用互联网进行信息操弄的调查披露。中国政府正在加强其在影响力行动（influence operations，IO）…
+——
+" />
+    <meta property="og:description" content="
+延续 昨日 的假新闻、宣传的议题，近期也有一些值得关注的中国利用互联网进行信息操弄的调查披露。中国政府正在加强其在影响力行动（influence operations，IO）…
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="延续 昨日 的假新闻、宣传的议题，近期也有一些值得关注的中国利用互联网进行信息操弄的调查披露。中国政府正在加强其在影响力行动（influence operations，IO）" />
+    <meta property="twitter:title" content="延续 昨日 的假新闻、宣传的议题，近期也有一些值得关注的中国利用互联网进行信息操弄的调查披露。中国政府正在加强其在影响力行动（influence operations，IO）" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Ft.me%2Fthesoc%2F464" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://t.me/thesoc/464" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://t.me/thesoc/464&text=延续 昨日 的假新闻、宣传的议题，近期也有一些值得关注的中国利用互联网进行信息操弄的调查披露。中国政府正在加强其在影响力行动（influence operations，IO）&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://t.me/thesoc/464&title=延续 昨日 的假新闻、宣传的议题，近期也有一些值得关注的中国利用互联网进行信息操弄的调查披露。中国政府正在加强其在影响力行动（influence operations，IO）" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://t.me/thesoc/464&title=延续 昨日 的假新闻、宣传的议题，近期也有一些值得关注的中国利用互联网进行信息操弄的调查披露。中国政府正在加强其在影响力行动（influence operations，IO）" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=延续 昨日 的假新闻、宣传的议题，近期也有一些值得关注的中国利用互联网进行信息操弄的调查披露。中国政府正在加强其在影响力行动（influence operations，IO）&body=
+延续 昨日 的假新闻、宣传的议题，近期也有一些值得关注的中国利用互联网进行信息操弄的调查披露。中国政府正在加强其在影响力行动（influence operations，IO）…
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://t.me/thesoc/464" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://t.me/thesoc/464&title=延续 昨日 的假新闻、宣传的议题，近期也有一些值得关注的中国利用互联网进行信息操弄的调查披露。中国政府正在加强其在影响力行动（influence operations，IO）&caption=
+延续 昨日 的假新闻、宣传的议题，近期也有一些值得关注的中国利用互联网进行信息操弄的调查披露。中国政府正在加强其在影响力行动（influence operations，IO）…
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=延续 昨日 的假新闻、宣传的议题，近期也有一些值得关注的中国利用互联网进行信息操弄的调查披露。中国政府正在加强其在影响力行动（influence operations，IO）&url=https://t.me/thesoc/464" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>延续 昨日 的假新闻、宣传的议题，近期也有一些值得关注的中国利用互联网进行信息操弄的调查披露。中国政府正在加强其在影响力行动（influence operations，IO）</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2024-02-27
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#The Sociologist">
+          The Sociologist
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://t.me/thesoc/464" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="The Sociologist的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#The Sociologist 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1709025067000-->
+<p><a href="https://t.me/thesoc/464">延续 昨日 的假新闻、宣传的议题，近期也有一些值得关注的中国利用互联网进行信息操弄的调查披露。中国政府正在加强其在影响力行动（influence operations，IO）…</a>
+——</p>
+
+<div>
+  <p>延续 <a href="https://t.me/thesoc/463" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">昨日</a> 的假新闻、宣传的议题，近期也有一些值得关注的中国利用互联网进行信息操弄的调查披露。<br /><br />中国政府正在加强其在影响力行动（<a href="https://carnegieendowment.org/2021/06/28/measuring-effects-of-influence-operations-key-findings-and-gaps-from-empirical-research-pub-84824" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">influence operations</a>，IO）领域的侵略性活动，包括线下实体和线上网络。<br /><br />根据微软威胁情报（Microsoft Threat Intelligence）去年 9 月发布的 <a href="https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1aFyW" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">报告</a>，中国的影响力行动正在改变策略，增加网络领域中的活动量。 去年 11 月，社交媒体平台 Facebook、Instagram 和 WhatsApp 的母公司 Meta 发布的 <a href="https://scontent-sjc3-1.xx.fbcdn.net/v/t39.8562-6/406961197_3573768156197610_1503341237955279091_n.pdf?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=b8d81d&amp;_nc_ohc=ov1yoGD30OsAX-c5IXt&amp;_nc_ht=scontent-sjc3-1.xx&amp;oh=00_AfDcKdItCvECjSNQ00fZBgIhZ8XY3-1iVChe_aUD5txr4g&amp;oe=65E372D2" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">报告</a> 中宣布，删除了五个从事「协调不真实行为」（Coordinated Inauthentic Behavior）并以外国受众为目标的网络，其中中国的 IO 活动明显增加。 对于相关问题，《外交家》（The Diplomat）也做出 <a href="https://thediplomat.com/2023/09/chinas-increasingly-aggressive-tactics-for-foreign-disinformation-campaigns/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">延伸报道</a>。<br /><br />2023 年 10 月 25 日，意大利《罗马日报》（Il Foglio）发表了一篇 <a href="https://web.telegram.org/a/%20https://www.ilfoglio.it/esteri/2023/10/25/news/la-fabbrica-dei-contenuti-pro-cina-5826677/%20" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">文章</a>，揭露了一组由六个网站组成的小型网络集合，这些网站冒充意大利受众的新闻机构，但与意大利真实新闻不符。《罗马日报》的调查证实，这些网站没有注册为新闻机构，而意大利法律要求在其国内运营的任何新闻机构都必须注册。<br /><br />这些被揭露的域名，使用了特定的命名规则——意大利城市名称的当地拼写（如 Roma 或 Milano），后面加上普通词汇（如 moda、money 或 journal）。这些域名托管的网站，在结构、布局和内容大同小异，为一般性的政治、犯罪和娱乐文章，夹杂相对较多与中国有关的新闻，甚至直接来自中国的新闻机构。<br /><br />《罗马日报》声称，根据内容分析，以及六个域名解析到中国大型企业腾讯拥有的一个未指定 IP 地址，小型网络集合可能由中国政府运营；此外，可能存在与这六个域名链接的更广泛的网站，但没有公开披露更多信息。<br /><br />2023 年 11 月 13 日，韩国国家网络安全中心（NCSC）也发布了一份 <a href="https://www.ncsc.go.kr:4018/main/cop/bbs/selectBoardArticle.do?bbsId=SecurityAdvice_main&amp;nttId=88028&amp;menuNo=020000&amp;subMenuNo=020200&amp;thirdMenuNo=" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">报告</a>，揭露了 18 个冒充韩国当地新闻机构的韩语网站。报告称，这些网站是中国公关公司深圳市海卖云享传媒有限公司（Shenzhen Haimaiyunxiang Media Co. Ltd）所为，这些网站与《罗马日报》曝光的六个意大利语网站对比，从技术结构到操作手法都非常相似。<br /><br />这些动作引起了公民实验室（Citizen Lab）高级研究员 Alberto Fittarelli 的兴趣并开始调查，研究结果发布于近期（2月7日）公布的报告《纸墙：中国网站冒充地方新闻机构，以亲北京内容吸引全球受众》（<a href="https://citizenlab.ca/2024/02/paperwall-chinese-websites-posing-as-local-news-outlets-with-pro-beijing-content/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">PAPERWALL: Chinese Websites Posing as Local News Outlets Target Global Audiences with Pro-Beijing Content</a>）中，揭露了在全球范围内，中国通过假冒当地新闻机构，大量的搜刮新闻内容，传播亲北京政权的言论，对持不同政见者攻击和编撰虚假信息的一系列行动。<br /><br />「公民实验室」是加拿大多伦多大学蒙克国际研究中心（Munk School of Global Affairs &amp; Public Policy, University of Toronto）的一个跨学科实验室，专注于信息与通信技术、人权和全球安全交叉领域的研究、开发、高层战略政策和法律参与。该实验室采用混合方法进行研究，结合政治学、法学、计算机科学和地区研究的实践。研究包括调查针对公民社会的数字间谍活动、记录互联网过滤和其他影响在线言论自由的技术和实践、分析流行应用程序的隐私、安全和信息控制，以及研究与公司和国家机构之间在个人数据和其他监控活动方面的关系有关的透明度和问责机制。<br /><br />他们的研究中不乏对中国的审查、隐私侵害、网络安全漏洞等问题的关注，例如去年曝光的 <a href="https://citizenlab.ca/2023/08/%e6%90%9c%e7%8b%97%e9%94%ae%e7%9b%98%e5%8a%a0%e5%af%86%e6%bc%8f%e6%b4%9e%e5%af%bc%e8%87%b4%e6%8c%89%e9%94%ae%e8%a2%ab%e7%bd%91-zh-cn/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">腾讯搜狗输入法</a> 存在加密漏洞容易暴露输入内容，获得了不少关注。；而对于微信（<a href="https://citizenlab.ca/page/1/?s=wechat" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">WeChat</a>）的安全和隐私问题，也有长期追踪研究。<br /><br />此次公民实验室公布的报告中，将中国网站冒充其他国家当地新闻机构、并以毛细血管式的方式有针对性地输出叙事的行动称为「纸墙」（Paperwall）。<br /><br />调查显示，目前至少有 123 个「纸墙」网站，包含多种语言，与四大洲至少 30 个国家的地点相连。所有网站的内容和图片略有不同，但运作方式相同，有时参与协调活动，向海外推送中国的虚假信息，诋毁持不同政见者。<br /><br />所有的「纸墙」网站都冒充了当地报纸，使用类似于「Rome Journal」、「Eiffel Post」、「BritishFT」、「Cordova Press」和「Incheon Focus」等具有当地特色的名称。它们以目标语言发布日常内容，通常是不注明出处地从合法新闻机构，以及注明出处地从中国国家媒体（如 CGTN、《环球时报》）和和商业新闻稿（其中大部分与加密货币有关）中截取的内容。<br /><br />除了亲北京的内容外，「纸墙」网站偶尔也会转贴直接攻击中国政权持不同政见者的内容，以及纯粹的虚假信息和阴谋论，通常都带有反美倾向。<br /><br />不知情的读者从「纸墙」网站阅读到真实网站复制粘贴过来的真实新闻，没有报道来源，虚假信息则播撒在其中。这些虚假信息在部分目标国家的所有「纸墙」网站上都是英文的。例如关于美国政府在泰缅边境进行人体实验的阴谋论；以及对北京政权的外国批评者进行人身攻击——出生于中国的病毒学家闫丽梦因指控中国政府隐瞒 Covid-19 的人工起源而闻名，虽然国际科学界已经推翻了她的理论，但「纸墙」网站仍然假借舆论压力诋毁她，阻止她获得宾夕法尼亚大学教职。<br /><br />在传播范围方面，公民实验室在大多数欧盟国家发现了「纸墙」网站，此外还有土耳其（Cappadocia Post、Anadolu Ha）、巴西（Financeiro Post、Brazil Industry）、韩国（Seoul PR、Daegu Journal）、日本（Nikko News、Fujiyama Times）、俄罗斯（Find Moscow、Rostov Life）、墨西哥、阿根廷、美国、厄瓜多尔。<br /><br />上文提及的韩国 NCSC 发现的公关公司深圳海卖，公民实验室团队也发现，海卖的数字基础设施与「纸墙」网站之间存在若干联系，包括相同的广告 ID。<br /><br />此外，「纸墙」也与此前的中国 IO 有关联。123 个域名中有 98 个的反向链接直接指向 Times Newswire 网站，该网站表面上是一家中国新闻媒体，2023 年被谷歌旗下网络安全公司 Mandiant <a href="https://www.mandiant.com/resources/blog/pro-prc-information-operations-campaign-haienergy" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">标记</a>。<br /><br />Times Newswire 通过合法美国新闻网站的子域名网络传播内容，展开「HaiEnergy」宣传行动，其目标包括美国前众议院议长 Nancy Pelosi。行动名称「HaiEnergy」源于该活动使用的上海海讯社科技有限公司的基础设施和公关公司宣传的「正能量套餐」服务，「正能量」一词是习近平时代的一个重要术语，指正面描绘中国共产党、中国政府及其政策的信息。<br /><br />（未完，见 <a href="https://t.me/thesoc/465" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">下篇</a>）</p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#The Sociologist 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-05/%E7%BA%A6%E7%BF%B0%E9%9C%8D%E6%99%AE%E9%87%91%E6%96%AF%E5%A4%A7%E5%AD%A6%E9%AB%98%E7%AD%89%E5%9B%BD%E9%99%85%E7%A0%94%E7%A9%B6%E9%99%A2-SAIS-%E4%B8%AD%E5%9B%BD%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83%E5%8E%BB%E5%B9%B4-9-%E6%9C%88%E6%B1%87%E7%BC%96%E5%87%BA%E7%89%88%E4%BA%86-Studying-Ch/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2019-05-25/Hello,-World!-%E7%A4%BE%E4%BC%9A%E5%AD%A6%E4%BA%BA/">最早</a>--</span>
+    
+      <li>
+        <time>2024-05-07</time>
+        <a href="https://nodebe4.github.io/opinion/2024-05-07/%E6%8D%AE%E8%BF%91%E6%9C%9F-%E6%97%A5%E7%BB%8F%E4%BA%9A%E6%B4%B2-Nikkei-Asia-%E6%8A%A5%E9%81%93-%E4%B8%AD%E5%9B%BD%E5%B0%91%E6%95%B0%E5%87%A0%E5%AE%B6%E4%BB%8D%E5%9D%9A%E6%8C%81%E5%8F%91%E8%A1%A8%E5%B0%96%E9%94%90%E6%8A%A5%E9%81%93%E7%9A%84%E6%96%B0%E9%97%BB%E5%AA%92%E4%BD%93-%E6%AD%A3%E8%A2%AB%E8%BF%AB/">
+          据近期《日经亚洲》（Nikkei Asia）报道 ，中国少数几家仍坚持发表尖锐报道的新闻媒体，正被迫退出国际新闻评奖，以免被当局指责“勾结外国势力”。总部位于北京
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-02-27</time>
+        <a href="https://nodebe4.github.io/opinion/2024-02-27/(%E6%8E%A5-%E4%B8%8A%E7%AF%87)Mandiant-%E6%8C%87%E5%87%BA%E7%BC%BA%E4%B9%8F%E6%8A%80%E6%9C%AF%E8%AF%81%E6%8D%AE%E5%B0%86%E6%B5%B7%E8%AE%AF%E4%B8%8E-Times-Newswire-%E6%98%8E%E7%A1%AE%E8%81%94%E7%B3%BB%E8%B5%B7%E6%9D%A5/">
+          (接 上篇)Mandiant 指出缺乏技术证据将海讯与 Times Newswire 明确联系起来，公民实验室也表示无法确认 Times Newswire 背后的操作者是否就是操作「纸墙」的公司
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-02-26</time>
+        <a href="https://nodebe4.github.io/opinion/2024-02-26/%E5%9C%A8%E8%BF%99%E4%B8%AA%E9%A2%91%E9%81%93%E8%AE%B8%E4%B9%85%E6%B2%A1%E6%9C%89%E9%A2%91%E7%B9%81%E6%9B%B4%E6%96%B0%E7%9A%84%E8%BF%99%E4%B8%A4%E5%B9%B4%E9%87%8C-%E7%A4%BE%E4%BC%9A-%E6%8A%80%E6%9C%AF-%E7%9A%84%E6%9C%80%E5%A4%A7%E8%AE%AE%E9%A2%98-%E4%BB%8E%E8%BF%87%E5%BE%80%E8%A2%AB%E8%AE%A8%E8%AE%BA%E5%BE%88%E5%A4%9A%E7%9A%84%E7%A4%BE%E7%BE%A4-%E5%AA%92%E4%BD%93%E7%9A%84%E6%89%8B%E6%AE%B5%E8%BF%9B/">
+          在这个频道许久没有频繁更新的这两年里，「社会-技术」的最大议题，从过往被讨论很多的社群、媒体的手段进步对信息沟通对生产生活方式的冲击，转移到人工智能伦
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-08-07</time>
+        <a href="https://nodebe4.github.io/opinion/2023-08-07/%E4%B8%A4%E5%A4%A9%E5%89%8D-2023%E5%B9%B48%E6%9C%885%E6%97%A5-%E5%9C%A8%E8%8B%B1%E5%9B%BD%E4%BC%A6%E6%95%A6%E4%B8%9C%E5%8C%BA%E7%9A%84%E7%BA%A2%E7%A0%96%E5%B7%B7-Brick-Lane-%E4%B8%BB%E8%A1%97E15YF-%E7%BA%A6%E6%9C%899%E5%90%8D%E4%B8%AD/">
+          两天前，2023年8月5日，在英国伦敦东区的红砖巷（Brick Lane）主街E15YF，约有9名中国留学生在夜晚来到这里，将一面涂鸦墙完全涂白，将事先准备的有打印字体的镂
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2024-02-27/%E5%81%9A%E4%BA%BA%E7%94%9F-%E5%9F%B7%E8%A1%8C%E9%95%B7-%E4%BA%BA%E7%94%9F%E7%84%A1%E9%99%90%E8%B2%AC%E4%BB%BB%E5%85%AC%E5%8F%B8-112-1%E4%BA%BA%E6%96%87%E5%A4%A7%E9%81%93%E9%80%9A-%E4%BA%BA%E6%96%87%E7%94%A2%E6%A5%AD%E8%81%B7%E6%B6%AF%E9%9D%A2%E9%9D%A2%E8%A7%80/">
+            前一篇：做人生「執行長」—人生無限責任公司｜112-1人文大道通：人文產業職涯面面觀
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2024-02-27/(%E6%8E%A5-%E4%B8%8A%E7%AF%87)Mandiant-%E6%8C%87%E5%87%BA%E7%BC%BA%E4%B9%8F%E6%8A%80%E6%9C%AF%E8%AF%81%E6%8D%AE%E5%B0%86%E6%B5%B7%E8%AE%AF%E4%B8%8E-Times-Newswire-%E6%98%8E%E7%A1%AE%E8%81%94%E7%B3%BB%E8%B5%B7%E6%9D%A5/">
+            後一篇：(接 上篇)Mandiant 指出缺乏技术证据将海讯与 Times Newswire 明确联系起来，公民实验室也表示无法确认 Times Newswire 背后的操作者是否就是操作「纸墙」的公司
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2024-02-27/%E5%81%9A%E4%BA%BA%E7%94%9F-%E5%9F%B7%E8%A1%8C%E9%95%B7-%E4%BA%BA%E7%94%9F%E7%84%A1%E9%99%90%E8%B2%AC%E4%BB%BB%E5%85%AC%E5%8F%B8-112-1%E4%BA%BA%E6%96%87%E5%A4%A7%E9%81%93%E9%80%9A-%E4%BA%BA%E6%96%87%E7%94%A2%E6%A5%AD%E8%81%B7%E6%B6%AF%E9%9D%A2%E9%9D%A2%E8%A7%80/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2024-02-27/(%E6%8E%A5-%E4%B8%8A%E7%AF%87)Mandiant-%E6%8C%87%E5%87%BA%E7%BC%BA%E4%B9%8F%E6%8A%80%E6%9C%AF%E8%AF%81%E6%8D%AE%E5%B0%86%E6%B5%B7%E8%AE%AF%E4%B8%8E-Times-Newswire-%E6%98%8E%E7%A1%AE%E8%81%94%E7%B3%BB%E8%B5%B7%E6%9D%A5/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2024-02-27/(%E6%8E%A5-%E4%B8%8A%E7%AF%87)Mandiant-%E6%8C%87%E5%87%BA%E7%BC%BA%E4%B9%8F%E6%8A%80%E6%9C%AF%E8%AF%81%E6%8D%AE%E5%B0%86%E6%B5%B7%E8%AE%AF%E4%B8%8E-Times-Newswire-%E6%98%8E%E7%A1%AE%E8%81%94%E7%B3%BB%E8%B5%B7%E6%9D%A5/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2024-02-26/%E5%9C%A8%E8%BF%99%E4%B8%AA%E9%A2%91%E9%81%93%E8%AE%B8%E4%B9%85%E6%B2%A1%E6%9C%89%E9%A2%91%E7%B9%81%E6%9B%B4%E6%96%B0%E7%9A%84%E8%BF%99%E4%B8%A4%E5%B9%B4%E9%87%8C-%E7%A4%BE%E4%BC%9A-%E6%8A%80%E6%9C%AF-%E7%9A%84%E6%9C%80%E5%A4%A7%E8%AE%AE%E9%A2%98-%E4%BB%8E%E8%BF%87%E5%BE%80%E8%A2%AB%E8%AE%A8%E8%AE%BA%E5%BE%88%E5%A4%9A%E7%9A%84%E7%A4%BE%E7%BE%A4-%E5%AA%92%E4%BD%93%E7%9A%84%E6%89%8B%E6%AE%B5%E8%BF%9B/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2024-02-27/%E5%81%9A%E4%BA%BA%E7%94%9F-%E5%9F%B7%E8%A1%8C%E9%95%B7-%E4%BA%BA%E7%94%9F%E7%84%A1%E9%99%90%E8%B2%AC%E4%BB%BB%E5%85%AC%E5%8F%B8-112-1%E4%BA%BA%E6%96%87%E5%A4%A7%E9%81%93%E9%80%9A-%E4%BA%BA%E6%96%87%E7%94%A2%E6%A5%AD%E8%81%B7%E6%B6%AF%E9%9D%A2%E9%9D%A2%E8%A7%80/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2024-02-27/(%E6%8E%A5-%E4%B8%8A%E7%AF%87)Mandiant-%E6%8C%87%E5%87%BA%E7%BC%BA%E4%B9%8F%E6%8A%80%E6%9C%AF%E8%AF%81%E6%8D%AE%E5%B0%86%E6%B5%B7%E8%AE%AF%E4%B8%8E-Times-Newswire-%E6%98%8E%E7%A1%AE%E8%81%94%E7%B3%BB%E8%B5%B7%E6%9D%A5/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<The Sociologist>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2024-02-27/(%E6%8E%A5-%E4%B8%8A%E7%AF%87)Mandiant-%E6%8C%87%E5%87%BA%E7%BC%BA%E4%B9%8F%E6%8A%80%E6%9C%AF%E8%AF%81%E6%8D%AE%E5%B0%86%E6%B5%B7%E8%AE%AF%E4%B8%8E-Times-Newswire-%E6%98%8E%E7%A1%AE%E8%81%94%E7%B3%BB%E8%B5%B7%E6%9D%A5/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<The Sociologist>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2024-02-26/%E5%9C%A8%E8%BF%99%E4%B8%AA%E9%A2%91%E9%81%93%E8%AE%B8%E4%B9%85%E6%B2%A1%E6%9C%89%E9%A2%91%E7%B9%81%E6%9B%B4%E6%96%B0%E7%9A%84%E8%BF%99%E4%B8%A4%E5%B9%B4%E9%87%8C-%E7%A4%BE%E4%BC%9A-%E6%8A%80%E6%9C%AF-%E7%9A%84%E6%9C%80%E5%A4%A7%E8%AE%AE%E9%A2%98-%E4%BB%8E%E8%BF%87%E5%BE%80%E8%A2%AB%E8%AE%A8%E8%AE%BA%E5%BE%88%E5%A4%9A%E7%9A%84%E7%A4%BE%E7%BE%A4-%E5%AA%92%E4%BD%93%E7%9A%84%E6%89%8B%E6%AE%B5%E8%BF%9B/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

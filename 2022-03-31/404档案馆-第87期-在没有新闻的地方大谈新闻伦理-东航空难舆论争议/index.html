@@ -1,0 +1,913 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>【404档案馆】第87期：在没有新闻的地方大谈新闻伦理——东航空难舆论争议 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+【404档案馆】第87期：在没有新闻的地方大谈新闻伦理——东航空难舆论争议
+——
+" />
+    <meta property="og:description" content="
+【404档案馆】第87期：在没有新闻的地方大谈新闻伦理——东航空难舆论争议
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="【404档案馆】第87期：在没有新闻的地方大谈新闻伦理——东航空难舆论争议" />
+    <meta property="twitter:title" content="【404档案馆】第87期：在没有新闻的地方大谈新闻伦理——东航空难舆论争议" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fmatters.news%2F%40ChinaDT%2F404%25E6%25A1%25A3%25E6%25A1%2588%25E9%25A6%2586-%25E7%25AC%25AC87%25E6%259C%259F-%25E5%259C%25A8%25E6%25B2%25A1%25E6%259C%2589%25E6%2596%25B0%25E9%2597%25BB%25E7%259A%2584%25E5%259C%25B0%25E6%2596%25B9%25E5%25A4%25A7%25E8%25B0%2588%25E6%2596%25B0%25E9%2597%25BB%25E4%25BC%25A6%25E7%2590%2586-%25E4%25B8%259C%25E8%2588%25AA%25E7%25A9%25BA%25E9%259A%25BE%25E8%2588%2586%25E8%25AE%25BA%25E4%25BA%2589%25E8%25AE%25AE-bafyreicjgpy5vf3mhrwbwkvsgz6foi2imrdvw7il6grnm3xt37py4osdzm" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC87%E6%9C%9F-%E5%9C%A8%E6%B2%A1%E6%9C%89%E6%96%B0%E9%97%BB%E7%9A%84%E5%9C%B0%E6%96%B9%E5%A4%A7%E8%B0%88%E6%96%B0%E9%97%BB%E4%BC%A6%E7%90%86-%E4%B8%9C%E8%88%AA%E7%A9%BA%E9%9A%BE%E8%88%86%E8%AE%BA%E4%BA%89%E8%AE%AE-bafyreicjgpy5vf3mhrwbwkvsgz6foi2imrdvw7il6grnm3xt37py4osdzm" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC87%E6%9C%9F-%E5%9C%A8%E6%B2%A1%E6%9C%89%E6%96%B0%E9%97%BB%E7%9A%84%E5%9C%B0%E6%96%B9%E5%A4%A7%E8%B0%88%E6%96%B0%E9%97%BB%E4%BC%A6%E7%90%86-%E4%B8%9C%E8%88%AA%E7%A9%BA%E9%9A%BE%E8%88%86%E8%AE%BA%E4%BA%89%E8%AE%AE-bafyreicjgpy5vf3mhrwbwkvsgz6foi2imrdvw7il6grnm3xt37py4osdzm&text=【404档案馆】第87期：在没有新闻的地方大谈新闻伦理——东航空难舆论争议&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC87%E6%9C%9F-%E5%9C%A8%E6%B2%A1%E6%9C%89%E6%96%B0%E9%97%BB%E7%9A%84%E5%9C%B0%E6%96%B9%E5%A4%A7%E8%B0%88%E6%96%B0%E9%97%BB%E4%BC%A6%E7%90%86-%E4%B8%9C%E8%88%AA%E7%A9%BA%E9%9A%BE%E8%88%86%E8%AE%BA%E4%BA%89%E8%AE%AE-bafyreicjgpy5vf3mhrwbwkvsgz6foi2imrdvw7il6grnm3xt37py4osdzm&title=【404档案馆】第87期：在没有新闻的地方大谈新闻伦理——东航空难舆论争议" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC87%E6%9C%9F-%E5%9C%A8%E6%B2%A1%E6%9C%89%E6%96%B0%E9%97%BB%E7%9A%84%E5%9C%B0%E6%96%B9%E5%A4%A7%E8%B0%88%E6%96%B0%E9%97%BB%E4%BC%A6%E7%90%86-%E4%B8%9C%E8%88%AA%E7%A9%BA%E9%9A%BE%E8%88%86%E8%AE%BA%E4%BA%89%E8%AE%AE-bafyreicjgpy5vf3mhrwbwkvsgz6foi2imrdvw7il6grnm3xt37py4osdzm&title=【404档案馆】第87期：在没有新闻的地方大谈新闻伦理——东航空难舆论争议" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=【404档案馆】第87期：在没有新闻的地方大谈新闻伦理——东航空难舆论争议&body=
+【404档案馆】第87期：在没有新闻的地方大谈新闻伦理——东航空难舆论争议
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC87%E6%9C%9F-%E5%9C%A8%E6%B2%A1%E6%9C%89%E6%96%B0%E9%97%BB%E7%9A%84%E5%9C%B0%E6%96%B9%E5%A4%A7%E8%B0%88%E6%96%B0%E9%97%BB%E4%BC%A6%E7%90%86-%E4%B8%9C%E8%88%AA%E7%A9%BA%E9%9A%BE%E8%88%86%E8%AE%BA%E4%BA%89%E8%AE%AE-bafyreicjgpy5vf3mhrwbwkvsgz6foi2imrdvw7il6grnm3xt37py4osdzm" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC87%E6%9C%9F-%E5%9C%A8%E6%B2%A1%E6%9C%89%E6%96%B0%E9%97%BB%E7%9A%84%E5%9C%B0%E6%96%B9%E5%A4%A7%E8%B0%88%E6%96%B0%E9%97%BB%E4%BC%A6%E7%90%86-%E4%B8%9C%E8%88%AA%E7%A9%BA%E9%9A%BE%E8%88%86%E8%AE%BA%E4%BA%89%E8%AE%AE-bafyreicjgpy5vf3mhrwbwkvsgz6foi2imrdvw7il6grnm3xt37py4osdzm&title=【404档案馆】第87期：在没有新闻的地方大谈新闻伦理——东航空难舆论争议&caption=
+【404档案馆】第87期：在没有新闻的地方大谈新闻伦理——东航空难舆论争议
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=【404档案馆】第87期：在没有新闻的地方大谈新闻伦理——东航空难舆论争议&url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC87%E6%9C%9F-%E5%9C%A8%E6%B2%A1%E6%9C%89%E6%96%B0%E9%97%BB%E7%9A%84%E5%9C%B0%E6%96%B9%E5%A4%A7%E8%B0%88%E6%96%B0%E9%97%BB%E4%BC%A6%E7%90%86-%E4%B8%9C%E8%88%AA%E7%A9%BA%E9%9A%BE%E8%88%86%E8%AE%BA%E4%BA%89%E8%AE%AE-bafyreicjgpy5vf3mhrwbwkvsgz6foi2imrdvw7il6grnm3xt37py4osdzm" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>【404档案馆】第87期：在没有新闻的地方大谈新闻伦理——东航空难舆论争议</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-03-31
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#中国数字时代">
+          中国数字时代
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC87%E6%9C%9F-%E5%9C%A8%E6%B2%A1%E6%9C%89%E6%96%B0%E9%97%BB%E7%9A%84%E5%9C%B0%E6%96%B9%E5%A4%A7%E8%B0%88%E6%96%B0%E9%97%BB%E4%BC%A6%E7%90%86-%E4%B8%9C%E8%88%AA%E7%A9%BA%E9%9A%BE%E8%88%86%E8%AE%BA%E4%BA%89%E8%AE%AE-bafyreicjgpy5vf3mhrwbwkvsgz6foi2imrdvw7il6grnm3xt37py4osdzm" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="中国数字时代的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#中国数字时代 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1648705455000-->
+<p><a href="https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC87%E6%9C%9F-%E5%9C%A8%E6%B2%A1%E6%9C%89%E6%96%B0%E9%97%BB%E7%9A%84%E5%9C%B0%E6%96%B9%E5%A4%A7%E8%B0%88%E6%96%B0%E9%97%BB%E4%BC%A6%E7%90%86-%E4%B8%9C%E8%88%AA%E7%A9%BA%E9%9A%BE%E8%88%86%E8%AE%BA%E4%BA%89%E8%AE%AE-bafyreicjgpy5vf3mhrwbwkvsgz6foi2imrdvw7il6grnm3xt37py4osdzm">【404档案馆】第87期：在没有新闻的地方大谈新闻伦理——东航空难舆论争议</a>
+——</p>
+
+<div>
+  <h1 id="section"><br /></h1>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/e6f3c68f-39ce-4fc7-a8de-5280e3e1967b.jpeg" data-asset-id="e6f3c68f-39ce-4fc7-a8de-5280e3e1967b" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p><a href="https://chinadigitaltimes.net/chinese/404-archives" rel="noopener noreferrer" target="_blank">《404档案馆》</a>讲述中国审查与反审查的故事，同时以文字、音频和视频的形式发布。播客节目可在 Apple Podcasts, Google Podcasts, Spotify 或泛用型播客客户端搜索“<a href="https://open.firstory.me/user/cdt" rel="noopener noreferrer" target="_blank">404档案馆</a>”进行收听，视频节目可在Youtube“<a href="https://www.youtube.com/channel/UCwXewCWwaK1-yec8niJLrqg" rel="noopener noreferrer" target="_blank">中国数字时代· 404档案馆</a>”频道收看。</p>
+  <p><br /></p>
+  <p><strong>撰文：卢斯</strong></p>
+  <p>欢迎来到404档案馆。在这里，我们一起穿越中国数字高墙。今天我们来关注东航空难所引发的舆论争议。</p>
+  <p>2022年3月21日，中国东方航空公司的一架航班号为MU5735的波音737客机，在广西梧州藤县坠毁；机上123名乘客和九名机组人员全部遇难。这是十多年来中国发生的最严重的一次空难。目前，这架飞机所载的两部飞行记录仪（俗称黑匣子）均已找到，并已被送往民航专业机构进行分析。事故的具体原因仍在调查之中。</p>
+  <p>由于飞机在失事之际机头几乎是垂直从高空落下，空难发生之始，人们纷纷猜测可能是人为原因例如维修保养不善导致了这起惨剧。</p>
+  <h2 id="section-1"><strong>官方失语，东航董事长答非所问</strong></h2>
+  <p>3月22日，在MU5735搜寻新闻发布会上，一名路透社记者就一些重大灾难事件中公众迫切想要了解的基础信息，也是官方需要第一时间向公众交代清楚的信息进行了提问。</p>
+  <blockquote>
+飞机的维修记录是怎样的？近期维修方面有没有发现什么问题？  </blockquote>
+  <blockquote>
+事故发生的时候天气怎么样？  </blockquote>
+  <blockquote>
+空难发生前机组有无和空管联系，如果有的话，说了什么？  </blockquote>
+  <blockquote>
+USNTSB（美国国家运输委员会）已经委派了调查者，会不会邀请他到中国帮忙调查？  </blockquote>
+  <figure class="embed-video">
+    <div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/U92z4nnQSH0?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+    </div>
+    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>然而，东航云南公司董事长孙世英给出的回答，不仅是照稿念，而且完全答非所问。</p>
+  <blockquote>
+当时飞机是在平飞巡航阶段。我们正在全面开展安全隐患大排查，目前航空运力充足，安排的检查也包括临时性、预防性措施。我们正在按照民航安全管理规定有序开展工作。  </blockquote>
+  <p>孙世英的敷衍回答引发了大量<a href="https://chinadigitaltimes.net/chinese/678562.html" rel="noopener noreferrer" target="_blank">网友的不满</a>。网友S说：孙董事长的回答充分说明了空难发生的根本原因。而网友“无敌超级不靠谱的非物质文化遗产”则讽刺道：董事长找了个纸上写得最接近的答案。还有人讽刺说：“不怨我们董事长，问问题之前记者也没给标准答案，怎么答？”而网友晏九九发出的质问也传达出人们对国企管理水平的震惊：“人的生命怎么能掌握在这么个董事长手里？”</p>
+  <p><a href="https://twitter.com/wangzhian8848/status/1506417122712629248" rel="noopener noreferrer" target="_blank">前央视调查记者王志安在推特上说</a>：“中国的空难调查太不透明了，大量人为造成的灾难都被所谓的行业信息管制遮蔽了。比如，十年前的宜春空难，还有包头东航空难，大连五七空难，全都是人为灾难。可公众大多毫不知晓。这些灾难有的我做过报道，有的做过调查但没能播出。”</p>
+  <p>东航空难发生后，官方控制的媒体一直在报道紧急救援人员赶往现场的情况。央视新闻的报道<a href="http://www.xhby.net/tuijian/202203/t20220322_7473613.shtml" rel="noopener noreferrer" target="_blank">《各种救援救灾物资运抵，供电、通信全力保障》</a>一文，事无巨细地罗列了面包、雨鞋、矿泉水、消毒酒精、牛奶等救灾物资的详细数量。</p>
+  <p>而另一家官媒中国网则发表了题为<a href="http://www.china.com.cn/opinion2020/2022-03/24/content_78127361.shtml" rel="noopener noreferrer" target="_blank">《东航空难调查是个复杂的过程，耐心等待便是最大支持》</a> 的报道。文章提到中国最高领导人习近平要求全力组织搜救的批示，但是对公众最为关心的涉及空难的原因，比如飞机状况、机组情况和天气原因则闭口不提。</p>
+  <p>中国媒体研究学者展江在接受香港大学中国传媒项目的<a href="https://chinamediaproject.org/2021/11/10/chinese-media-through-the-decades/" rel="noopener noreferrer" target="_blank">采访时说</a>：灾难发生以后，中国记者不被允许到现场采访报道，只有官方的电视台能进入拍摄。但这些官媒报道的重点是救援，而不是灾难本身。其重点是要积极向上，体现党和政府的及时反应，体现灾难面前对人民的关怀和救助。新闻必须放在主旋律中才能被报道。</p>
+  <h2 id="section-2"><strong>媒体报道，被批吃 “人血馒头”</strong></h2>
+  <p>面对官媒的失语，3月22日东航坠机次日，微信公众号“每日人物”发表了题为《MU5735航班上的人们》的文章。文章采访了航班乘客的亲友或曾经乘坐过该航班的乘客，通过接近信息源的当事人的讲述，试图还原和传递更多信息。文章一经发出即受到渴望了解真相的公众的欢迎，因而被大量转发。</p>
+  <p>然而，质疑声很快扑面而来。在微博上，诸如“吃人血馒头”、“暴露受害者隐私”的指责开始不绝于耳。微信公众号上，一篇题为<a href="https://mp.weixin.qq.com/s?__biz=MzIzMjY5ODQzOQ==&amp;mid=2247503485&amp;idx=1&amp;sn=5baf420235f7bdb6d6dc85df789f68c2&amp;chksm=e8926955dfe5e0437f2f91d786144a68f49b7ace6e79dfd7187919bbacb8a5ed030978a1fecb&amp;scene=21#wechat_redirect" rel="noopener noreferrer" target="_blank">《“人物”报道笔下的侵扰悲痛问题》</a> 的代表性文章，站在新闻伦理的制高点上，批评这篇报道给死者家属亲友造成了困扰。文章说：“快新闻更应该体现在事故救援报道上，而不是故事化的软新闻上。。。媒体是否真的需要如此匆忙？我们又是否真的如此需要故事？”</p>
+  <p>这类批评文章和论点很快形成了热点，《人物》的这篇报道先是被禁止分享，后来又遭到删除。</p>
+  <p>针对这一现象，公号<a href="https://chinadigitaltimes.net/chinese/678580.html" rel="noopener noreferrer" target="_blank">“中式没品笑话百科”</a>发表了《在讨论新闻伦理之前》的回应文章。文章说：诸如“黑心记者”、“媒体屁股歪”、“为了流量不择手段”此类的评论数不胜数，难以罗列。仿佛只要没有媒体，恶性事件就消失了，互联网就清净了，社会就变好了。</p>
+  <p>中国青年报冰点周刊在随后的一篇灾难调查报道<a href="https://chinadigitaltimes.net/chinese/678594.html" rel="noopener noreferrer" target="_blank">《姐姐姐夫都在那架飞机上，还有1岁半的外甥女》</a>中，采访了一位遇难人员的家属。为了规避可能的网络暴力和审查，文章特意在标题加上了“我愿意讲述”，又在文中加上“一位年轻人向我们表示，希望媒体能真实报道他们家的事”等字样，以规避风险。</p>
+  <h2 id="section-3"><strong>在没有新闻的地方大谈“新闻伦理”</strong></h2>
+  <p>针对这些所谓吃人血馒头的网络攻击，很多新闻从业者和前媒体人纷纷进行了反驳。</p>
+  <p>新闻从业者@啊熊姨说：</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/ac79cb16-0f19-4f14-a909-b2e65663bd53.jpeg" data-asset-id="ac79cb16-0f19-4f14-a909-b2e65663bd53" referrerpolicy="no-referrer" />    <figcaption>
+<span>微博截图</span>
+    </figcaption>
+  </figure>
+  <p><a href="https://chinadigitaltimes.net/chinese/678552.html" rel="noopener noreferrer" target="_blank">资深媒体人和学者李思磐</a> 基于自己的从业经验认为，一个常用的言论审查办法是：批评新闻媒体的报道伦理，以压制其报道。</p>
+  <p>她还说：</p>
+  <blockquote>
+灾难新闻应该报道什么？是否仅仅只有零度情感的科普？灾难发生时，往往伴随着全社会的人道主义情感体验，这也是人们感觉到跟其他人是一个共同体的时刻。因此，报道罹难者遗族（的追念与悲伤），是常见的报道题材。对活生生的、具体的生命逝去的哀痛和共情，也是推动原因调查、追责、善后和隐患排查纠正的重要动力。  </blockquote>
+  <blockquote>
+如果一件事情不被记录，那么它就等于没有发生。正如老生常谈的“新闻是历史的初稿”，已有的报道包括了场景再现（现场）、情感抚慰（幸存者与逝者故事）、动员社会的协作、信息服务（寻人、献血、医疗、志愿者、所需物资、避难所与救助点）、调查问责、解释（就是大家说的科普）、分析与排查隐患、善后相关的跟进等等。这不仅仅是逝者的历史，这是全社会共同活过的历史。  </blockquote>
+  <p><a href="https://twitter.com/dongdong_2019/status/1506327505267232769" rel="noopener noreferrer" target="_blank">专栏作者张丰说</a>：“连个像样的发布会都没有，有什么必要指责记者的报道不完美呢。”而前调查记者江雪说：“媒体环境沦丧若此，没见到对权力的质疑，反过来，指责媒体倒成了流行和时尚？”</p>
+  <p>前记者石扉客的一篇旧文<a href="https://chinadigitaltimes.net/chinese/678554.html" rel="noopener noreferrer" target="_blank">《没有任何理由可以阻挡记者报道灾难现场》</a>也被再度传播。文章说：“重大事件里媒体缺席才是对媒体伦理最严重的伤害。不要把新闻伦理无限扩大化，不要太苛责媒体，不要把“多事”、“碍事”的帽子随便戴在媒体头上，更不要担心谁来管媒体和记者。中国最不缺的，就是管媒体和记者的人。”</p>
+  <p>评论员宋志标也在其公众号旧闻评论上撰文<a href="https://chinadigitaltimes.net/chinese/678588.html" rel="noopener noreferrer" target="_blank">《东航空难与‘免打扰’式新闻伦理》</a>，发表了自己的看法。他说：</p>
+  <blockquote>
+将遇难者的人物报道污名化为“吃人血馒头”，实际上配合了某些精明的算计，那就是控制住灾难事件的信息流，调控舆论的导向。以所谓不讲“新闻伦理”的名义矮化媒体报道，在没有新闻的地方大谈“新闻伦理”，竟成了浑水摸鱼的好手段。  </blockquote>
+  <p><br /></p>
+  <p>中国数字时代 CDT 致力于记录和传播中文互联网上被审查的信息，以及人们与审查对抗的努力。欢迎大家通过<a href="http://https//t.me/cdtmedia_bot" rel="noopener noreferrer" target="_blank">电报（Telegram）平台</a> 向我们投稿，为记录和对抗中国网络审查作出你的贡献！投稿地址请见本期播客的文字简介。阅读更多内容，请访问我们的网站 CDT.MEDIA.</p>
+  <p><br /></p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#中国数字时代 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-02-12/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC276%E6%9C%9F-%E5%94%B1%E7%A6%81%E6%AD%8C-%E5%88%B0-%E7%A6%81%E6%AD%A2%E5%90%90%E6%A7%BD-%E8%A7%81%E8%AF%81%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E5%8F%98%E8%BF%81%E7%9A%84%E6%98%A5%E6%99%9A/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2021-12-14/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E4%B8%93%E8%AE%BF-%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3%E5%AF%B9%E8%AF%9D-%E8%A7%A3%E6%9E%84%E6%96%B0%E7%96%86%E9%95%87%E5%8E%8B-%E7%AC%AC%E4%B8%80%E4%BD%9C%E8%80%85%E8%AE%B8%E7%A7%80%E4%B8%AD/">最早</a>--</span>
+    
+      <li>
+        <time>2022-04-14</time>
+        <a href="https://nodebe4.github.io/opinion/2022-04-14/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC89%E6%9C%9F-%E4%B8%8A%E6%B5%B7-%E5%A4%A7%E6%B8%85%E9%9B%B6%E8%BF%90%E5%8A%A8-%E8%A2%AB%E6%8E%A7%E5%88%B6%E7%9A%84%E4%B8%8E%E8%A2%AB%E6%B8%85%E9%99%A4%E7%9A%84/">
+          【404档案馆】第89期：上海“大清零运动”：被控制的与被清除的
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-03-31</time>
+        <a href="https://nodebe4.github.io/opinion/2022-03-31/%E6%8B%9B%E8%81%98%E5%90%AF%E4%BA%8B-%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3%E8%AF%9A%E8%81%98%E6%92%AD%E5%AE%A2-404%E6%A1%A3%E6%A1%88%E9%A6%86-%E4%B8%BB%E6%92%AD/">
+          【招聘启事】中国数字时代诚聘播客《404档案馆》主播
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-03-29</time>
+        <a href="https://nodebe4.github.io/opinion/2022-03-29/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC85%E6%9C%9F-%E6%B6%88%E5%A4%B1%E7%9A%84%E4%B9%8C%E8%A1%A3-%E4%B8%B0%E5%8E%BF%E9%93%81%E9%93%BE%E5%A5%B3%E8%83%8C%E5%90%8E%E7%9A%84%E5%9B%BD%E5%AE%B6%E6%9A%B4%E5%8A%9B/">
+          【404档案馆】第85期：消失的乌衣：丰县铁链女背后的国家暴力
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-03-23</time>
+        <a href="https://nodebe4.github.io/opinion/2022-03-23/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC84%E6%9C%9F-%E4%BF%84%E7%BD%97%E6%96%AF%E8%83%9C%E5%88%A9%E4%BA%86-%E6%99%AE%E4%BA%AC%E8%83%9C%E5%88%A9%E4%BA%86-%E4%B8%AD%E5%9B%BD%E8%88%86%E8%AE%BA%E6%80%AA%E7%9B%B8%E7%9A%84%E9%AB%98%E5%A2%99%E6%98%AF%E5%A6%82%E4%BD%95%E5%BB%BA%E6%88%90%E7%9A%84/">
+          【404档案馆】第84期：“俄罗斯胜利了，普京胜利了！”——中国舆论怪相的高墙是如何建成的？
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-03-30/%E5%B0%8F%E5%A4%8F%E6%8C%91%E6%88%B0%E5%91%A8%E5%AD%9D%E6%AD%A3-%E6%99%AE%E4%BA%AC%E6%A0%B8%E5%A8%81%E8%84%85-%E6%98%AF%E5%90%A6%E8%A9%B2%E8%A2%AB%E6%96%AC%E9%A6%96/">
+            前一篇：小夏挑戰周孝正：普京核威脅 是否該被斬首？
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-03-31/%E6%8B%9B%E8%81%98%E5%90%AF%E4%BA%8B-%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3%E8%AF%9A%E8%81%98%E6%92%AD%E5%AE%A2-404%E6%A1%A3%E6%A1%88%E9%A6%86-%E4%B8%BB%E6%92%AD/">
+            後一篇：【招聘启事】中国数字时代诚聘播客《404档案馆》主播
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-03-30/%E5%B0%8F%E5%A4%8F%E6%8C%91%E6%88%B0%E5%91%A8%E5%AD%9D%E6%AD%A3-%E6%99%AE%E4%BA%AC%E6%A0%B8%E5%A8%81%E8%84%85-%E6%98%AF%E5%90%A6%E8%A9%B2%E8%A2%AB%E6%96%AC%E9%A6%96/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-03-31/%E6%8B%9B%E8%81%98%E5%90%AF%E4%BA%8B-%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3%E8%AF%9A%E8%81%98%E6%92%AD%E5%AE%A2-404%E6%A1%A3%E6%A1%88%E9%A6%86-%E4%B8%BB%E6%92%AD/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-03-31/%E6%8B%9B%E8%81%98%E5%90%AF%E4%BA%8B-%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3%E8%AF%9A%E8%81%98%E6%92%AD%E5%AE%A2-404%E6%A1%A3%E6%A1%88%E9%A6%86-%E4%B8%BB%E6%92%AD/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-03-29/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC85%E6%9C%9F-%E6%B6%88%E5%A4%B1%E7%9A%84%E4%B9%8C%E8%A1%A3-%E4%B8%B0%E5%8E%BF%E9%93%81%E9%93%BE%E5%A5%B3%E8%83%8C%E5%90%8E%E7%9A%84%E5%9B%BD%E5%AE%B6%E6%9A%B4%E5%8A%9B/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-03-30/%E5%B0%8F%E5%A4%8F%E6%8C%91%E6%88%B0%E5%91%A8%E5%AD%9D%E6%AD%A3-%E6%99%AE%E4%BA%AC%E6%A0%B8%E5%A8%81%E8%84%85-%E6%98%AF%E5%90%A6%E8%A9%B2%E8%A2%AB%E6%96%AC%E9%A6%96/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-03-31/%E6%8B%9B%E8%81%98%E5%90%AF%E4%BA%8B-%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3%E8%AF%9A%E8%81%98%E6%92%AD%E5%AE%A2-404%E6%A1%A3%E6%A1%88%E9%A6%86-%E4%B8%BB%E6%92%AD/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<中国数字时代>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-03-31/%E6%8B%9B%E8%81%98%E5%90%AF%E4%BA%8B-%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3%E8%AF%9A%E8%81%98%E6%92%AD%E5%AE%A2-404%E6%A1%A3%E6%A1%88%E9%A6%86-%E4%B8%BB%E6%92%AD/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<中国数字时代>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-03-29/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC85%E6%9C%9F-%E6%B6%88%E5%A4%B1%E7%9A%84%E4%B9%8C%E8%A1%A3-%E4%B8%B0%E5%8E%BF%E9%93%81%E9%93%BE%E5%A5%B3%E8%83%8C%E5%90%8E%E7%9A%84%E5%9B%BD%E5%AE%B6%E6%9A%B4%E5%8A%9B/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

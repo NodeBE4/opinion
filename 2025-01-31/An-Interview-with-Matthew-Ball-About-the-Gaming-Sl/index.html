@@ -1,0 +1,3117 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>An Interview with Matthew Ball About the Gaming Slump – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+An Interview with Matthew Ball About the Gaming Slump
+——
+" />
+    <meta property="og:description" content="
+An Interview with Matthew Ball About the Gaming Slump
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="An Interview with Matthew Ball About the Gaming Slump" />
+    <meta property="twitter:title" content="An Interview with Matthew Ball About the Gaming Slump" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2025%2Fan-interview-with-matthew-ball-about-the-gaming-slump%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2025/an-interview-with-matthew-ball-about-the-gaming-slump/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2025/an-interview-with-matthew-ball-about-the-gaming-slump/&text=An Interview with Matthew Ball About the Gaming Slump&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2025/an-interview-with-matthew-ball-about-the-gaming-slump/&title=An Interview with Matthew Ball About the Gaming Slump" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2025/an-interview-with-matthew-ball-about-the-gaming-slump/&title=An Interview with Matthew Ball About the Gaming Slump" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=An Interview with Matthew Ball About the Gaming Slump&body=
+An Interview with Matthew Ball About the Gaming Slump
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2025/an-interview-with-matthew-ball-about-the-gaming-slump/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2025/an-interview-with-matthew-ball-about-the-gaming-slump/&title=An Interview with Matthew Ball About the Gaming Slump&caption=
+An Interview with Matthew Ball About the Gaming Slump
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=An Interview with Matthew Ball About the Gaming Slump&url=https://stratechery.com/2025/an-interview-with-matthew-ball-about-the-gaming-slump/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>An Interview with Matthew Ball About the Gaming Slump</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2025-01-31
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2025/an-interview-with-matthew-ball-about-the-gaming-slump/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1738323050000-->
+<p><a href="https://stratechery.com/2025/an-interview-with-matthew-ball-about-the-gaming-slump/">An Interview with Matthew Ball About the Gaming Slump</a>
+——</p>
+
+<div>
+  <div class="wp-block-group has-border-color is-nowrap is-layout-flex wp-container-core-group-is-layout-2 wp-block-group-is-layout-flex" style="border-color:#DDDDDD;border-width:1px;border-radius:5px;padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--30)">
+    <div class="wp-block-group wp-container-content-1 has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+      <p class="has-small-font-size"><strong>Listen to this post:</strong></p>
+      <div class="wp-block-passport-podcast-player">
+        <div class="wp-block-passport-podcast-player-logged-out-view"></div>
+      </div>
+    </div>
+  </div>
+  <p>Good morning,</p>
+  <p>I am pleased to welcome <a href="https://twitter.com/ballmatthew">Matthew Ball</a> back for a Stratechery Interview. Ball is the former head of strategy for Amazon Studios, and a former director of The Chernin Group’s Otter Media. He is currently the Managing Partner of EpyllionCo, an early stage venture fund, and is a Venture Partner at Makers Fund, as well as the author of the best-selling book <a href="https://www.matthewball.vc/metaversebook">The Metaverse</a>. I have previously interviewed Ball in <a href="https://stratechery.com/2024/an-interview-with-matthew-ball-about-the-vision-pro-and-the-state-of-gaming/">2024</a>, <a href="https://stratechery.com/2023/an-interview-with-matthew-ball-about-disney-streaming-and-the-metaverse/">2023</a>, <a href="https://stratechery.com/2022/an-interview-with-the-metaverse-author-matthew-ball/">2022</a>, <a href="https://stratechery.com/2021/facebooks-metaverse-opportunity-an-interview-with-matthew-ball-about-the-multiverse/">2021</a>, and <a href="https://stratechery.com/2020/an-interview-with-matthew-ball-about-bob-iger-and-disney/">2020</a>.</p>
+  <p>Ball recently published his annual gaming industry review, this time as a <a href="https://static1.squarespace.com/static/5d8e9007bc3d0e18a4c49673/t/679ab063e7b4b332a44094d6/1738190977849/Gaming2025_v29-compressed.pdf">225 slide presentation</a>; that sounds overwhelming, but the entire thing is very well-organized and has a strong narrative. We discuss many of the topics in that deck in this interview, including why the gaming industry is struggling, the TikTok effect, why the PC — and Discord and Steam — are bright spots, and how China is doing to gaming what it has done to every other industry. We also touch on the one year anniversary of the Vision Pro, our experience with Meta’s Orion, and AI’s impact on entertainment.</p>
+  <p>As a reminder, all Stratechery content, including interviews, is available as a podcast; click the link at the top of this email to add Stratechery to your podcast player.</p>
+  <p>On to the Interview:</p>
+  <h3 class="wp-block-heading" id="an-interview-with-matthew-ball-about-the-gaming-slump">An Interview with Matthew Ball About the Gaming Slump</h3>
+  <p><em>This interview is lightly edited for clarity and length.</em></p>
+  <div align="center">
+    <p><strong>Topics:</strong></p>
+<a href="#ai">AI in Entertainment</a> | <a href="#gaming">The State of Gaming</a> | <a href="#competition">Gaming’s Perfect Competition</a> | <a href="#tiktok">The TikTok Effect</a> | <a href="#consoles">Consoles and the Switch Hope</a> | <a href="#discord">The Discord Opportunity</a> | <a href="#steam-china">Steam and China</a> | <a href="#app-store">App Store Pressure</a> | <a href="#avp">The Vision Pro Anniversary</a>
+  </div>
+<a name="ai"></a>  <p><a id="ai"></a></p>
+  <h4 class="wp-block-heading" id="ai-in-entertainment">AI in Entertainment</h4>
+  <p><strong>Matthew Ball, welcome back to Stratechery.</strong></p>
+  <p><strong>Matthew Ball:</strong> I’m excited to be here, had to secure my holiday Stratechery gift early for 2025.</p>
+  <p><strong>Yes! Well, January seems to be the time, you did release <a href="https://www.matthewball.co/all/stateofvideogaming2025">this incredible presentation on the current state of gaming</a>, which we’re going to spend a fair amount of time on, but before we get to that, given the upheaval this week, I have to ask, do you have any DeepSeek takes?</strong></p>
+  <p><strong>MB:</strong> I think it has been a phenomenal bellwether for takes, it has just so immediately brought to the surface everyone’s perspectives on market valuation, on China, on Biden, on Trump, over IP theft — it’s been pretty remarkable. I don’t know, it’s like the season finale of the first two years of ChatGPT Obsession.</p>
+  <p><strong>That is a great take, that is a good one. I love it. Yes, it’s like this was the end of the beginning, and now we’re moving forward. But what about you? Do you have any specific takes of your own, other than the great meta take?</strong></p>
+  <p><strong>MB:</strong> I think the big one that is really underpinning everything that’s happening in Hollywood right now, which is consistent with what we’re likely to talk about in video games, is that we have spent 25 years now, even the entertainment space, which is where I primarily focus, obsessed with these ideas of how technology is disrupting distribution, and to a lesser but still significant extent, monetization. That is to say, how content gets to a consumer and how it’s monetized.</p>
+  <p>During that entire time, there really has not been disruption in production, and as a result it’s now become old hat, but Twitter always gets upset every time prices go up. Netflix just cranked up its rack rate from $15.49 to $17.99, the critiques that this was supposed to be better than cable are abundant. This idea that we’re either paying as much as ever, or we’re needing to re-aggregate all of the content we used to get through one pipe, through another pipe, is commonplace. But no one ever promised that digital distribution was going to make content cheaper, and in fact, the competitive intensity of competition in parallel to the lowering barriers of entry, which allowed Apple and Amazon to enter, has necessarily resulted in over-investment in content, as more players are playing for a bigger pie, but one that’s more intensely fought after, and that has led to a massive increase in consumer surplus, even though prices are near record highs.</p>
+  <p>And so, now, after 10 years of the streaming wars, give or take, Microsoft exited the category 11 years ago, and really 20 years of video shifting to digital, there is now this renewed focus on, “Okay, how do we actually disrupt, not improve, but disrupt production?”, and that is leading to varying degrees of success, and a lot of controversy, and of course, the issues vary a little bit based on unions and IP ownership and participation and residual structures, but a real renewed focus on how these tools can actually be used to bring forward what we have lacked for 25 years, which is disruptions in production.</p>
+  <p><strong>When it goes back to the entertainment bit, you mentioned there’s potentially a disruptive angle, <a href="https://www.theringer.com/podcasts/the-town-with-matthew-belloni/2024/02/28/will-ai-video-replace-hollywood">my general thought has been</a> when it comes to highly produced content, the Hollywood sort of model, there may be aids in production to a certain bit, but that it’s going to stay relatively impervious, it’s going to go more and more high-end. There’s maybe an analogy here, to some of the gaming questions, of games that someone can build on their own, or they could build a Roblox game, or whatever it might be, even as AAA titles get grander and grander, and more and more expensive. Is that where you’re at as far as the AI impact on these industries right now?</strong></p>
+  <p><strong>MB:</strong> Certainly. I think, let’s stick with film for a second. When you take a look at a film like Deadpool &amp; Wolverine, a 2024 title that came out of Marvel Studios, it had, I believe, roughly 3000 shots with visual effects, and in many instances, those shots were primarily VFX. Which is to say that most of the entire frame is graphically rendered. When you go back to 2008 with an Iron Man, I think you’re at 600 or 700 VFX shots total, and at the same time, most of those frames are not actually rendered, it is a rendered supposition. You’re looking at Iron Man’s chest plate that might be VFX, not the entirety of the scene.</p>
+  <p>During that time, budgets have gone up a little bit, but putting out talent participations and those incentives, you’re seeing that the production cost is not altogether dissimilar. Sometimes it’s going from $180 million to $250 million, but we’re looking at roughly the same ballpark for what is a film that came out 20 or 17 years later. What we have used is advances in CGI to realize more sophisticated scenes, but more importantly, increase the number of scenes that are in a film without 10x-ing the cost. The expectation is very much that generative AI will likely drive that same outcome.</p>
+  <p>Now, the flip side of that is, of course, do you have that uncanny middle, which becomes more addressable for indies. Which is, you can finance a $200 million film if you have IP and marketing and distribution, and we know that if you keep a budget under $20 million or so, “Everything Everywhere All At Once” was around $25 million, that you can still have a superb return. The no man’s land is around 50, 70, 80, 100 million. So, the argument would be, yes, a $300 million film today might look like what would have been a $500 million film using generative AI, but now do we have films that today can barely use synthetic environments without going across $20 million, get up to the $50 or $60 or $70 million mark?</p>
+  <p>That is not just interesting when it comes to how the art form can change, Ben, it is interesting because the argument would be if you want a richly visualized immersive world, that is hard to do it under $20 million and so you have a scenario where perhaps the caliber, the quality of the narrative, the specificity of its programming, which is to say it’s not trying to be a movie everyone sees, it’s trying to be a movie for a few people, currently can’t be as big as a flagship Marvel movie. And so, the argument would be, if you can move those films from $20 to $50 or $70 effective with generative AI, you might-</p>
+  <p><strong>Right, right. So, they’re still costing the $20 million, but it’s the quality of a $70 million movie.</strong></p>
+  <p><strong>MB:</strong> Right. And then the argument becomes that will never look as good as a $200 or $300 million movie, but you may get the visual immersion close enough that the quality on the creative can carry you over the line, which is to say you’re compressing the significance of the difference on one variable, while maintaining your advantage on the other, fundamentally reshaping some of the market behavior.</p>
+  <p><strong>So, this is been the hole in movies that everyone’s been complaining about for the last 10, 15 years. It’s like this middle area that dominated in theater, is you just go to the theater and find something to your taste in the 90s, and just hasn’t existed. So, maybe there’s hope it will come back.</strong></p>
+  <p><strong>MB:</strong> There is. I’ll tell you as a sidebar story, one of the things that’s interesting there is often the headlines here are a little bit misleading. When you take a look at <a href="https://en.wikipedia.org/wiki/Get_Out">Get Out</a>, which is I think a $4 or $9 million movie, most of that was just a financing model. At the end of the day, that film did, I think $230 million worldwide, there was something like $40 or $50 million that went to talent participation, as a result. When you look <a href="https://en.wikipedia.org/wiki/Split_(2016_American_film)">at Split</a>, which was another M. Night Shyamalan film, Split was filmed for something like $20 million, which is a quarter of what <a href="https://en.wikipedia.org/wiki/Unbreakable_(film)">Unbreakable</a> starring Bruce Willis, the prequel, cost 15 years earlier, that was actually not production-related efficiencies per se, you’re not saying let’s have fewer key grips, let’s do less outdoor, fewer extras, it was primarily asking talent to convert 100% of their — or not 100, but nearly all of their compensation to equity participation, providing outsized outcomes.</p>
+  <p>So it’s actually not as true that we haven’t seen films at that middle ground, it’s just they have to be films which are primarily driven by talent, which can be converted to equity, but if you have a film which is going to be primarily from production in visual effects or sets, you can’t go to a vendor with a staff of 300, and say, “Would you like to ride some of the equity?”. So the argument here would be actually now you start to access through different production techniques, a different cost structure currently only available to indie or horror, as examples, but for the rest of the market.<a></a></p>
+  <h4 class="wp-block-heading" id="the-state-of-gaming">The State of Gaming</h4>
+  <p><strong>Let’s get to gaming. First off, my biggest compliment of this presentation was it was kind of annoying, and what I mean is as I was going through it, I was writing down a series of questions I wanted to ask you. I’m like, “Oh, this is going to be a good one, I’m going to get him on this one”, and then several slides later you would comprehensively answer my question. So everyone should definitely go check it out, we’ll have <a href="https://www.matthewball.co/all/stateofvideogaming2025">a link here in the show notes</a>, but I’m going to assume the people listening have not seen it. I’m going to ask you to walk me through it at a high level to start. What are your high level takeaways? And since a lot of people did hear <a href="https://stratechery.com/2024/an-interview-with-matthew-ball-about-the-vision-pro-and-the-state-of-gaming/">our interview a year ago</a>, there’s some things that are similar, what in particular has shifted or changed over the last year in your view of the market?</strong></p>
+  <p><strong>MB:</strong> Well, first and foremost, thank you for the compliment. The general thesis is this, from 2011 to 2021, the video game industry soared. Compound annual growth was in excess of 9.7% for that entire decade, that was more than twice the rate of the preceding 20 years. That was 3x the rate of world real GDP growth over that duration, that was twice the rate of growth of real US GDP, even though that was an all time ripping decade for the country in the modern era.</p>
+  <p>No industry has the right to grow at such a rate, let alone so reliably and for such a duration and it reflected the fact that the industry had a unique number of creative commercial and technological achievements that often compounded against one another. You had the rise of mobile gaming, which added billions of players to the market, and billions of new hours. You had the emergence of cross-platform gaming, which united previously separated ecosystems, allowing networks to grow and allowing strengthen. You had the emergence of new genres, such as the battle royale, most prominent in Fortnite, and Free Fire, and Call of Duty Warzone. You had the real proliferation of free-to-play, which reduced the access barriers to gaming, the coincident emergence or proliferation of microtransactions, which demonstrated routine abilities to raise average spend per user by shifting to more of a whale monetization model.</p>
+  <p>All of these worked in concert, but what’s happened since 2021? Since 2021, there has been no growth in that industry. It finished 2021 at roughly $200 billion nominally. At the time, the expectation was that growth would continue at or above that prior 10-year rate which meant in 2022, revenue should have grown from $200 to $220 billion. By 2023, it would’ve added another $22 billion. By the end of 2024, we would’ve had another $24 billion, which means 2024, at the median estimate, would have been a market worth roughly $260 billion, a 30% increase over 2021, representing the addition of $60 billion in incremental annual revenue powered by billions of new player hours, and hundreds, or at least tens of millions of new players. That did not happen. There are a bunch of interesting reasons why that did not happen.</p>
+  <p><strong>Isn’t the easiest thing to say mobile saturated? Apple’s been flat for the exact same time period.</strong></p>
+  <p><strong>MB:</strong> So, that’s very much part of it, and I think the reason why — let me give you some of the background stats. We’ve had an unprecedented number of layoffs, 8,500 in 2022, 10,500 in 2023, close to 15,000 in 2024 and by the way, those are only counted layoffs. It excludes companies that did not report, the many startups that closed unknown, the companies that said were undertaking layoffs but did not specify a headcount. We’ve had an unprecedented number of game cancellations, we’ve had tons of games shut down after launch.</p>
+  <p>The cause of this is not as simple as mobile saturating, it’s important to acknowledge that, that’s one of the chief aspects. We added 3 billion gamers over 15 years, when that stops, you’re going to get some whiplash, but it is simultaneously the exhaustion of nearly all of the growth engines I mentioned. Mobile is one, but all of the games that started going cross-platform, therefore strengthening their network effects in 2017, they’ve done it by now. All of the games that woke up and said, “Wow, we should go free-to-play”, or, “We should add a battle pass”, or, “Maybe we should have a battle royale spinoff”, they’ve mostly done that. And so we really had these 8, 9, 10 intersecting variables all basically exhaust concurrently.</p>
+  <p>That’s great on the run-up, hence 9.7% compound annual growth, 3x world real GDP growth, but when you lose all of those, and in parallel the supposed replacement vectors, whether that was cloud gaming, subscription gaming, AR, VR, LBE [location-based entertainment], esports, sports betting — when those don’t manifest, and you expect everyone budgets for growth, you get today’s dismay.</p>
+  <p><strong>One of the most interesting insights <a href="https://www.matthewball.co/all/gaming2024">you had last year</a> is the extent to which players are still playing old games, and you have things like a Fortnite or a Minecraft or whatever it might be, that people — it just eats up all the time. And so the actual time availability for new titles is small and shrinking and desperately fought over, is that still a major trend driving this?</strong></p>
+  <p><strong>MB:</strong> Certainly. I’ll give you some case points for those who haven’t read the deck. Since January of 2021, the top five franchises on PC, which by the way are between 6 and 22 years old, have averaged 30% of playtime for four years straight. On PlayStation and Xbox, the top five franchises, which are mostly the same franchises on PC, and are 7 to 31 years old, are roughly 43%. Again, we’re talking about four straight monthly years at their peaks, which happened to be in the holiday at a period in time in which total playtime goes up, the expectation of new game sampling through retail sales and gifts goes up, those titles typically eclipse 50% of total playtime. When you add in the next five titles, you’re adding between 10 and 15% and so you have a market that for all intents and purposes, 60% of addressable playtime is highly, highly captive.</p>
+  <p>The remainder is intensely fought after. There were 20,000 titles released on Steam; consoles, of course have only a few hundred titles, but what’s more important is that even still, that remainder is not primarily spent on new games. In 2023, 6.5% of total playtime on PC and console across 37 top markets tracked by Nuzu, limited to 18+ because you can’t track under 18, 6.5% of total playtime was on new games that weren’t annual releases like FIFA or Call of Duty, and that 6.5% of playtime went to four games in half. So you’re actually looking at a market that has tens of billions spent in content development annually, tens of billions more or several billion in marketing going for a very, very fraction of unclaimed time. That is winner-takes-all even in that subsegment.</p>
+  <p>And so yes, this is where you see when you don’t have $60 billion in incremental revenue, you don’t have billions of new player hours, you don’t have new gamers who have yet to really sign up for an ecosystem. It’s rough.<a></a></p>
+  <h4 class="wp-block-heading" id="gamings-perfect-competition">Gaming’s Perfect Competition</h4>
+  <p><strong>Yeah, I was just going to mention that bit about the new gamers because when you go to a new social network, there’s a gold rush for status on that social network, and if TikTok were to go away, <a href="https://stratechery.com/2025/tiktok-ban-approaches-generational-implications-xiaohongshu/">then there’s real loss</a>. Yeah, sure, you can go to Reels, but you might not have the same following or the same sort of prominence there. And there’s a bit where if you’re a new title, particularly if you want to do something that has some sort of network effect, if there’s new gamers to capture who aren’t already committed to or don’t have a network on other games, it’s a lot easier to get started, and now it’s not just that you are having to watch a game, you’re having to peel people away and ask them to restart the skill tree, restart finding people to play with all, these pieces and yeah, it sounds like a terrible industry.</strong></p>
+  <p><strong>MB:</strong> I don’t know that I’d say it’s a terrible industry, but it has certainly become challenging, and I will say I’ve had a lot of conversations with game creatives and the platforms, especially since this piece has come out, and one thing that I think is true is we are, in many respects, seeing the benefits of competition, which is that margins have plummeted, new entrants have multiplied. The level of investment has never been as high, and no game maker is taking for granted, and I know that this is controversial to gamers, but no game maker is actually taking it for granted, that the 25 million people who bought their title in 2022 will show up in 2025 to buy the sequel, that’s one of the reasons why budgets have exploded. It’s one of the reasons why cinematics motion capture in video games has doubled entry to entry, it’s one of the reasons why game makers are investing in visual fidelity beyond the point of practical financial return is for that reason. How do we get Ben, whether he’s never played before, which was an active choice, or did play before, but therefore, we have to resell him on a $70 and 30 hour purchase to come back, and that has made things tough.</p>
+  <p><strong>Well, you mentioned also that $70 price. In real terms, that’s down. The complete lack of pricing power is another example of your point of this is basically perfect competition in many respects.</strong></p>
+  <p><strong>MB:</strong> Right. And game makers are upset about me saying that the game prices need to go up. But I look at this from a very economical example, which is we have a category that year after year after year struggles to maintain its pricing power with inflation, and that means in the strictest possible terms that the market considers these gain worth less every year. Not worthless, of course, but worth less.</p>
+  <p>A concert ticket in 2000 was $45, it’s now $147. A movie ticket price was $4.80 in 2000, and right now it’s close to $10.90. When you take a look at any of these categories in movies, they’ve been pretty consistent in keeping real prices through nominal price increases. In other luxury media categories, like concerts or sporting events, they’ve doubled or tripled — in gaming, we have seen massive deflation. Someone sent me this photo that I’ve now put in my deck of <a href="https://x.com/ballmatthew/status/1884254534471672266">a Toys ‘R’ Us ad from 1992</a>, I’ll give you the prices, Ben. Mortal Kombat in 1992 for the Super Nintendo — by the way, this title probably cost a million to develop, probably had 30 people on it — $69.99.</p>
+  <p><strong>Wow.</strong></p>
+  <p><strong>MB:</strong> NBA $69.99, Monopoly, $54.99, Mario Paint, just a art program was $59.99. Most titles today run between $40 or $69. On an equivalent basis, Mortal Kombat’s $157 bucks today, NBA is $152. And so this is where I get into the funny point where people say, “Yes, but games those days didn’t have microtransactions”. Do you play NBA2k, Ben?</p>
+  <p><strong>I did a lot in the past, not as much anymore, but I did not make any microtransactions.</strong></p>
+  <p><strong>MB:</strong> But something tells me that the median customer, because this is important, if we’re talking about the substitution of a rack rate price into a monetization model, something tells me that the median player is not cranking out $87 in microtransactions on their $70 NBA point.</p>
+  <p><strong>Right.</strong></p>
+  <p><strong>MB:</strong> And yes, people say, “Well, games sell more than they did, the TAM [total addressable market] has grown”. And the problem is the TAM has grown, but when you take a look at Halo 1 comes out in 2001, it’s a $15 million game. Right now, we’re looking at titles that range between $200, $300, $500 million or more to produce. Their expectation of GTA is a billion plus, and it’ll make its money back certainly but if you’re saying that your purchasing power has fallen by a third, your budget has gone up by 100 or at least 25x, your addressable market has tripled, and your competition has grown 2000x, you start to see some of these effects.</p>
+  <p><strong>It reminds me of the airline industry, is actually what I was thinking about when I was going through your deck, where especially previously, you had tons of competition, it’s a very romantic business, so everyone wants to get into it. With airlines, there’s a bit where it’s easy to spin up an airline because your assets are worth a lot so if you go bankrupt, everyone’s fine because someone else will take them on, it’s all good. What was the answer to that? How did U.S. airlines start making sustainable profits? Well, consolidation. Is there a bit where this is an industry that right now it’s great for gamers, but it’s not going to be good for business unless there is a meaningful consolidation, or is the fact that it is, the barrier to entry is so low and you have something like Steam, which I want to ask you a couple more questions about where anyone can get, you mentioned those 20,000 titles, that you’re actually never going to get to that balance point?</strong></p>
+  <p><strong>MB:</strong> There is certainly evidence that the top performers in these catalogs are seeing outstanding profits. Activision, for example. Let’s put in this in context. Over the last 25 years, there has actually been no franchise more successful than Call of Duty, which was created in 2002. Most of the estimates confirmed a few years ago, but pulled forward suggest it’s done probably $40 to $45 billion in top line. That exceeds all of the revenue of the Marvel Cinematic Universe. Of course, some is missing because it’s attributed revenue from Disney+ but if you sum up every franchise created over the last 30 years, including Pokémon, including Harry Potter, Mortal Kombat, Activision’s Call of Duty is probably number one or number two, and when they sold to Microsoft, they had roughly 35 to 40% EBITDA margins. You have a high grosser, reliable, durable, over a quarter century outstanding EBITDA margins and by the way, there is no media company in the West that created more enterprise value than Activision from ’93 when Bobby Kotick bought half of it for half a million dollars through to the exit at a $75 billion enterprise value. There’s not much evidence that that has been whittled away by competition.</p>
+  <p>What I will say is that there is real evidence of market correction. In 2021 and 2022, video game funding from venture capital and private equity was roughly $3.5 billion per quarter at peak. It has been three to four years since that period, which means most of those funds have been exhausted. The replacement rate that is private funding of new content development studios is now half a billion. So quarterly, we have a $3 billion reduction in total content going into the market. Meanwhile, we see across the industry, massive game cancellations and clear scrutiny on the budgets of these titles. This is evidence of market correction where, perhaps, the consumer surplus became too high and the market is self-correcting its margin profile.</p>
+  <p>Now, in parallel, we see some of the players in various forms of distress. Ubisoft is one such example, and we see that consolidation around the extant ecosystems, whether that’s Microsoft or Fortnite in Roblox, which should mean that the Call of Duty performance levels will be replicated a little bit more across the industry. So I don’t know that it’s primarily a roll-up, though. I think your analogy is a good one, but it’s just to say that the market may have said in 2022, “This year was a blip”, in ’23, “This year is a blip”,…</p>
+  <p><strong>But now it’s real.</strong></p>
+  <p><strong>MB:</strong> By 2024, they get it.<a></a></p>
+  <h4 class="wp-block-heading" id="the-tiktok-effect">The TikTok Effect</h4>
+  <p><strong>I did mention TikTok, I thought it was really interesting you had some stats in there that this is actually just a pure, particularly in mobile, people just watch more short-form video. Time is the finite resource, and if these apps are so compelling, it’s almost like a replay of the Meta thing where Meta had to deal with ATT and TikTok at the same time. Turns out the gaming industry had the exact same problem, they had to deal with ATT and they had to deal with TikTok just literally stealing time.</strong></p>
+  <p><strong>MB:</strong> Quite right, and the numbers here are helpful because I think every time you have this conversation, people intuitively go to TikTok, but it’s helpful to quantify because when you’re talking about the degree to which this category has contracted. Let me give you some of the numbers, by the way. In 2024, there were fewer mobile game downloads in the United States than any year since 2014.</p>
+  <p><strong>That’s amazing.</strong></p>
+  <p><strong>MB:</strong> In 2014, barely half of Americans had a smartphone, and we weren’t nearly as addicted to them per user as we are, so you had a decade-low of mobile game installs. By the way, at the same time, we are at a decade-low of the number of mobile games in the App Store, that’s crazy. In 2014, there were a billion-and-a-half smartphone owners globally, there’s now four-and-a-half billion, and there are fewer apps. Unsurprisingly, we have a record low for how many new mobile games enter the store. Some of that is about market maturation, market saturation, growing strength of the largest players. Some of that is exacerbated by IDFA, as you point out.</p>
+  <p>But the TikTok thing, when you move from abstraction to specifics is terrifying. So I’ll give you the numbers since 2020 H2 and H1 of 2021, which is when U.S. mobile gaming spend peaked, just isolating on U.S. adults, because again, we can’t track children, just U.S. adults spend 35 million more hours every day watching TikTok.</p>
+  <p>Now, the common response is, well, that makes sense. TikTok has cannibalized everyone, as you say, and in the United States, again, U.S. adults, Facebook usage is down marginally, but YouTube has exploded. Instagram primarily through Reels, has exploded, just as YouTube’s primarily propelled by Shorts. When you add up those four platforms alone, TikTok, Instagram, Facebook, and YouTube, the American adult population since the end of 2020, early 2021 is watching 100 million more hours of short form social video per day, 260 million Americans watching 33 more minutes a day, no one can hide from that.</p>
+  <p><strong>If you think about it, when you’re consuming that short form video, that was the sweet spot for casual mobile gaming. It’s just gone.</strong></p>
+  <p><strong>MB:</strong> Quite right. But I would say on top of that, again, no one can escape it because let’s go through the mechanics. I play a lot of Call of Duty Warzone, I play a lot of Fortnite Battle Royale. Obviously, there’s some mobile distribution strengths there, but think about this from the human leisure allocation. Yes, you’re on the tube for five minutes. Candy Crush is a really fulfilling use of five minutes, but TikTok is too. Without saying one is better than the other, you can understand how the rise of TikTok is going to cannibalize some of that time.</p>
+  <p>But even when you’re saying, I have a lunch break, or I have 25 minutes at home, AAA social games take 3 to 5 minutes to boot up, you have to get sorted into a lobby, you might then play and die after 3 minutes, and now all of a sudden you’ve got 15 idle minutes. TikTok isn’t just perfect for hyper casual games, it offers three things that are outstanding. One is infinite flexibility on session time. You have 90 seconds or you have 90 minutes, most people will find that TikTok is a good use at that time. Number two is, well, I just hit it. It’s reliable, not just flexible in session time. And number three is that the algorithm ensures custom experiences that the games just cannot as reliably deliver. It may be a bad game of Candy Crush, you don’t like it, the mechanic, you might land on a different part of the map.</p>
+  <p>Those three things have hit everyone, and I think one of the things that has been most surprising in the marketplace is when you take a look worldwide since the start of Q1 2021, if we just take a look at the so-called single A, double A, triple A layer on PC, PlayStation, Xbox, worldwide, it looks like total time played is down 32%, PC down 21%, console down 43%. Now, yes, Q1 2021 is still partly COVID.</p>
+  <p><strong>An aberration, yes,</strong></p>
+  <p><strong>MB:</strong> But we’re down 10% year-over-year just from the end of 2023. And so globally, we have seen all of these forces. We saw the end of player addition, we saw the emergence of new, outstanding competitors, new competitors, and we actually have seen not just on the margin, but material evidence that players are shifting to other forms of entertainment at least part of the time. In the United States, the gamer population on a weekly basis is sub-2019. That’s not COVID, Ben, that’s 2019, and so that’s where the industry says we actually need new growth engines.<a></a></p>
+  <h4 class="wp-block-heading" id="consoles-and-the-switch-hope">Consoles and the Switch Hope</h4>
+  <p><strong>Consoles have done better than mobile, but one of the points you made is that’s mostly all Switch, and one of the problems with the Switch is it doesn’t run AAA games very well. <a href="https://www.nintendo.com/us/whatsnew/nintendo-switch-2-to-be-released-in-2025/">So the Switch 2 is coming</a>, it has a much better graphics chip, it’s still not top of the line, but it’s decent. Is that the great hope? And are we going to have basically since the Super Nintendo, the best ever embrace of a Nintendo platform by third party publishers?</strong></p>
+  <p><strong>MB:</strong> That’s certainly the expectation. To put this in perspective, the Switch was obviously an outstanding success. I think it’s important to recognize that it has been such a success for Nintendo, not just because of its sales figures, but because it is primarily purchased to play Nintendo games. Now, that sounds intuitive, but generally 55% of all software sold on the Switch is made by Nintendo. That compares to the traditional platform median of about 10%, and so that means that when Sony sells 10 units, they get 30% cut, that’s their store distribution fee on all 10 of those units, but they get 100% of the revenue from one out of those 10 units because they made that one out of 10. For Nintendo, they’re getting 30% on all units, but they’re getting 100% on five-and-a-half out of every 10 units and so we have this perfect example of an ecosystem that was unparalleled in its market positioning as a portable handheld that had an all time content release slate from Nintendo, and which primarily sold Nintendo titles, therefore, making an outstanding business for Nintendo.</p>
+  <p><strong>Yeah, the underrated thing about the Switch is that the Wii U was a flop, but the Wii U had amazing Nintendo games, and so they had this huge plate of games, they just ported it over to the Switch and the content library was really good very early on.</strong></p>
+  <p><strong>MB:</strong> The best-selling Nintendo Switch title is Mario Kart 8, which is a Wii U title, which came out in 2014.</p>
+  <p><strong>Yep.</strong></p>
+  <p><strong>MB:</strong> But so as a result, that’s not just because players wanted to play the Switch and they couldn’t find, or they only wanted to play Nintendo games. It’s most of the best titles over the last decade are not on the Switch. Elden Ring, Valorant, Destiny, Cyberpunk, Baldur’s Gate, Diablo, PUBG, Red Dead Redemption, Roblox isn’t on the Switch, if you can believe it, and that’s primarily because the device, by finding its product market fit, made technical decisions around weight, around price, around battery life that didn’t support it.</p>
+  <p>The expectation is that the Switch 2 will be good enough, if not great enough to run almost all third-party software, which should lead to more hardware unit sales for Nintendo, while also meaning that the most successful console of the last decade, the second most successful console of all time, which has been mostly off limits to game makers, will suddenly be addressable.</p>
+  <p>The challenge there, of course, is we are talking about some customers who were previously not accessible because they only had a Switch. We’re talking about some hours in the day that will now be more hotly contested. Whether that’s growth for the industry or just a new place for competition that maybe adds one to two points of per annum growth is a very different question.</p>
+  <p><strong>Right. Well, is this a place where everyone assumes, “Oh, Sony’s got it figured it out, they had the exclusive strategy, and who knows what Microsoft is doing. They’re going to do the Xbox Pass and now they’re putting it in games everywhere and it’s a flop”, or are they actually sneakily better positioned? Yeah, we have games on Switch right away, we don’t care, we’re not here to protect the Xbox. What is the relative position of Microsoft and Sony in this new world?</strong></p>
+  <p><strong>MB:</strong> I think the interesting point is threefold. Number one is we were just talking about the Switch, and the Switch over the last 15 years is essentially the only source of growth in the console market. When you take a look at what the FCC and DOJ and CMA designated as a high performance console, where we’re primarily talking about what used to be the N64 and Super Nintendo, but then was just the Xbox and PlayStation high performance consoles, there were fewer of those units sold in Gen-8, which began in 2012, and 2013 and Gen-7, which began in 2005, fewer units sold than was in 2000 Gen-6. This is when the PS2 came out, when the GameCube came out. The global middle class has grown by roughly, I think 16, 17%. The average wealth of the middle class has grown, and yet we have not seen that market grow. The only areas of growth over the last 20 years are in the Nintendo Switch.</p>
+  <p>At the same time, the Nintendo Switch does not even drive aggregate growth to North American or European console sales, and what we saw in Japan and rest of world is that the growth of the Switch cannibalized the base for the other players. The reason why I say this is point number one, we have to accept that the console market has 20 years of evidence of non-growth. We can always come up with reasons why next time might be different, but we have to acknowledge that reality.</p>
+  <p>The second point is that we also have evidence of how competition has affected that. PlayStation has at present 7% operating income margins, that is below median, that is not high certainly, and it is not what you expect from $100 million MAU platform with $30 billion in revenue that is considered its category winner. And by the way, PlayStation’s revenue is up 67% since 2019, but profits are down 6%, and so we have the second piece of corroborating evidence, which is the market is not growing and what does presently defined scale look like? Not software margins, in fact nothing near it, declining profit dollars even as revenue grows.</p>
+  <p>And then third, we see that nearly all of the biggest titles globally are either mobile only — Free Fire by the way, is 155 million daily users, PUBG 150 million daily active users, Fortnite has between 20 and 30 million daily, they have a hundred million monthly, PlayStation has 45 million daily users — and we’re talking about just some games just on mobile that are several times that size. And most of the most successful titles are entirely hardware-agnostic, you have that third piece of corroboration.</p>
+  <p>Number one, no growth. Number two, the margin profile is not working, certainly not at software levels and then number three, the biggest things are multiples bigger and completely untethered from an ecosystem.<a></a></p>
+  <h4 class="wp-block-heading" id="the-discord-opportunity">The Discord Opportunity</h4>
+  <p><strong>So the one device that is growing though is the PC, and you see Sony putting their games on there obviously, Microsoft’s always been on there. Why is the PC doing so well?</strong></p>
+  <p><strong>MB:</strong> The PC’s doing so well for a bunch of different reasons. Number one is just the fact that it is a superior use case for many gamers. Why? Because you can simultask. What does that mean? You can Alt+Tab to YouTube for player tips, you can Alt+Tab to WhatsApp and Signal, you can Alt+Tab to Discord, it serves as a game launcher, you have modding integration.</p>
+  <p>But most importantly, it is the largest platform today, which means your social graph is available anywhere else. Because it’s a PC-dominant stack, there’s essentially no title you can’t play, which means on Steam there’s 110,000 available games to play, including every early access title. So you now have an ecosystem where you have greater functionality, a larger library, more of your friends, access to exclusive games and by the way, if you are competitive, it is demonstrably better for competitive play. And if you are on a low budget, you can flex your price basically down to zero, it’s no incremental cost and if you care about hyper performance, the highest end gets you more.</p>
+  <p>And so we’re seeing this on the content side, we’re seeing it on the performance side, we’re seeing this on the cost side, and we’re seeing this on the network side, right? Your player network.</p>
+  <p><strong>So, is it time to bring back the <a href="https://en.wikipedia.org/wiki/Steam_Machine_(computer)">Steam console</a>?</strong></p>
+  <p><strong>MB:</strong> Well, it certainly looks like Steam is doing that and primarily through third-party relationships. They launched the Steam Machine, I think it was in 2013, 2014, but it’s important to put into context how different they are. In 2014, Steam had roughly 25 million MAUs they were doing low single-digit billions. In 2024, they have 200 million MAUs, they’re doing about 6-to-7 billion hours of entertainment and there’s no one on Earth, for the most part, that isn’t supporting them because they have become such a critical distribution point.</p>
+  <p>Moreover, there’s roughly $100 to $150 billion in player entitlements that are already there, those are games that players have purchased over the last 20 years and so whereas most consoles certainly a new one, but even the old ones say, “Buy this so that you can play next-gen games here or some of your library”. Steam is saying, “When you buy one of these devices, which by the way is probably manufactured by Logitech, or Samsung, another OEM, you can extend your hundreds if not thousands of dollars of two decades of purchases and all of your friend network and by the way, all of your social signals, your game achievements, your avatars and decals, you can extend them too”. That’s a powerful system to launch.</p>
+  <p><strong>I did want to touch on Discord real quick. Explain this Discord power and the network sort of bit? And then I have sort of an extra take I want to tack onto that.</strong></p>
+  <p><strong>MB:</strong> Discord is a fascinating platform in this regard. I think everyone is generally familiar that Discord began primarily as a gaming-centric platform during the pandemic as most Gen Z and some Gen Alpha flocked to it as a form of social tether. They kind of diverged from that, they became a general entertainment platform. They’ve since refocused to gaming and we can understand why, they have roughly 200 million MAUs, they’ve got 80 or 85 million DAUs. But this is a gamer hyper-indexed platform, they shared a bunch of research with me and it’s showing that roughly 90% of their players game one in every two days throughout the month. They’re mostly gaming on multiple different platforms, hyper-engaged, and more importantly, they exhibit well above median game diversity.</p>
+  <p>I mentioned some figures earlier, but the top five games, I’m not talking about the top five franchise, but the top five games on PC and console are about half of all play time. On Discord, it’s 30%. The tail of games outside the top 10 are 35% across the world on PC and console, but it’s 60% for Discord. Now again, you might say, “Well, that’s sample bias”, but that’s what I said, “Well, we’re talking about sample bias of 200 million gamers”.</p>
+  <p><strong>Right. Well, I mean this is the point that’s so interesting is you have another slide in there, this is a famous slide, it always shows up in all sorts of different mediums, which is the mismatch between time spent and the capture of advertising dollars and we saw this back in the day when it came to the Internet, we’ve seen it with audio, we’ve seen it with video.</strong></p>
+  <p><strong>MB:</strong> Mary Meeker’s prize, yeah.</p>
+  <p><strong>That’s right. That’s right, <a href="https://stratechery.com/2019/spotifys-podcast-aggregation-play/">it’s a very, very famous chart</a>. And the funny thing about it is those charts when they exist, it’s usually like, “Why can’t the existing players capture it like they did before?”. Like in print, you had print dollars to digital dimes, why can’t the newspapers get the same advertising? And what ends up happening is it’s the discovery mechanism that gets the advertising. So Facebook gets all the print advertising, or Google, or whatever it might be and this, when I was going through it that’s just sort of leaped out at me, you had the slide of the mismatch, “Where’s the advertising?” — people are trying to cram advertising in games, or virtual billboards, or whatever it might be. But then you had this bit about Discord having already high game diversity and one of the best clearly discovery mechanisms for different games. I mean it feels like this is, if you had to bet, where does that gap get closed? It’s going to get closed on Discord.</strong></p>
+  <p><strong>MB:</strong> I think that’s right and it was amazing, I was digging into this, they have 40 million Discord users who are streaming to their friends and this is important — we’re not talking about Twitch style broadcast, it’s not one-to-many, let alone one-to-the-unknown, this is about people who are in servers with five or 200 people who just say, “I’m going to stream my game”. You have 50 million users who are watching those streams, it’s no coincidence that game discovery is high because gaming behavior right now is group and social network based. Yes, you can learn about God of War from a streamer on Twitch, but when the people you play and talk to all the time are showing off a title and then I actually have platform incentives, this is their ad product quest to try it and in fact then you streaming it to me will earn things if you can convince me to launch the game, that’s a really, really powerful mechanism.</p>
+  <p>The reason why I have Discord in here is it’s in the growth section, it’s how can this category grow? And if you say that you have a category where the TAM has not grown, player time has not grown, players have not grown, game playing is not matching the diversity of new product, and you say you now have a channel that through rewarded advertising of a product that is clearly demonstrating product-market fit and provides enduring value to the users, unique avatars, and skins, and items. I actually believe that that can bring a lot of health to the ecosystem.</p>
+  <p><strong>That’s the whole bit, and obviously I’m going to think in terms of is this as <a href="https://stratechery.com/2015/aggregation-theory/">a potential aggregator</a>? What you need for an aggregated marketplace is you need dispersed supply, because if the supply is consolidated and it has power, you can’t make the play. Spotify might be worth a lot, but the reality is <a href="https://stratechery.com/2018/lessons-from-spotify/">they’re fundamentally constrained</a> because the supply is so consolidated, and so their bargaining power they could bring to bear is much higher than the web versus Google, where there was no consolidation at all, just a gazillion websites. And the other thing you sort of need is, I don’t know if desperation is the right word, but you need this hunger for growth, and it does feel like it’s a really primed opportunity where in a world where you’re just growing naturally because there’s more players or there’s more opportunities, you are wary of plugging into Discord and putting yourself and realizing you’re getting aggregated. It’s like, “We’re already plugged into Steam, we have to be there”, but now if you need growth, it doesn’t matter where you get it, you will go where you get it and it’s a big opportunity if you’re the platform that can provide that.</strong></p>
+  <p><strong>MB:</strong> I think that’s right. I would add that one of the problems for game user acquisition is that there are not super natural platforms to do. In mobile it makes sense, you have a mobile install ad that’s running on a mobile application, but when you’re playing a mobile game, it’s not an intuitive place to put a Call of Duty or a God of War-Ragnarok install ad, because you can’t install from your mobile device. And by the way, the install is going to run 10 to 60 gigabytes on another platform and take several hours. Running that ad on Twitter is helpful, but again, that’s a brutal conversion funnel. Go get your Xbox, go get your Windows PC, go boot up the install, manage it, log in, authenticate.</p>
+  <p>It’s not necessarily that Discord obviates those hurdles, but it is targeted to a group of people who are already running their game client most of the time, already on the platform where they make the purchases, already driving intent-related behavior, already inclined to see if their friends already have that game. So now you actually have a platform, a time, a device, that is hyper-tuned and not awkward, and so some people will say, “Okay, just talking about new surface area for game makers to spend money to acquire customers that they may not get insufficient numbers to pay for the advertising to begin with, let alone the production costs”, and I would say something more hopeful which is, “If you believe in advertising and you believe in targeting, we are actually talking about the first real distribution platform that isn’t just running an ad on a console and isn’t just putting up a billboard in Manhattan that can actually deliver customers to you”.</p>
+  <p>There’s a cynical view of saying that’s great, we’re talking about more spend to an already successful company, I actually think that it can help remedy some of those discovery problems.<a></a></p>
+  <h4 class="wp-block-heading" id="steam-and-china">Steam and China</h4>
+  <p><strong>Yeah, for sure. I mean because Steam is obviously the other dominant player in this space but if Steam and Discord were the same company, it would be ridiculous. But they get a bit of basically every purchase, how important is the social graph there?</strong></p>
+  <p><strong>MB:</strong> So Steam is one of the most successful and certainly most profitable companies in the software ecosystem globally, it is probably one of the most defensible, it’s remarkable, it’s astonishing. The general estimate is that they’re doing roughly $11 billion in game sales annually, but on top of that, they’re doing another $10 billion or so, maybe $12 billion in microtransactions. We’re talking about a $22 billion top line gross merchandise value platform.</p>
+  <p>They have 350 total employees, Ben, but 250 of those, and this came out in a lawsuit, are working on VR hardware and the games that they make, Counter-Strike and Dota. The platform has won hundred or so employees, they take a 20% to 30% cut of game sales. You are talking about a company that not only blows away big tech on revenue-per-head and cashflow-per-head, but we’re not just talking about the law of small numbers, we’re talking about $20 billion in top line.</p>
+  <p><strong>It’s amazing.</strong></p>
+  <p><strong>MB:</strong> And they cannot stop growing, they cannot stop strengthening. And I’ll tell you the clearest example of that strength, which is Take-Two, which makes Grand Theft Auto and NBA 2K announced a few weeks ago that they were closing down their PC store.</p>
+  <p>Over the last 10 years, everyone who has tried to avoid Steam has basically flopped. Activision testified in court that it was a, <a href="https://kotaku.com/call-of-duty-steam-xbox-exclusive-microsoft-ftc-trial-1850638269">“Resounding failure to skip Steam”</a>. Why? Because they wanted the extra margin from selling their games directly, but they lost more customers than they gained in margin and Steam continued to grow. Ubisoft, in its financial straits has gone back to Steam, EA spent 2011 to 2018 not distributing on that store, everyone has relented and most recently, it’s not just that Take-Two said, “We’re going to go on Steam”, they said, “We’re not even going to maintain our store”, and they did this perhaps less than 18 months from the PC release of Grand Theft Auto.</p>
+  <p><strong>Right, which is going to be bonkers.</strong></p>
+  <p><strong>MB:</strong> There’s an expectation that, and it’s launching on PC late, but the fact that the most powerful title the industry has ever seen has said, “We’re not even going to keep our store open as optionality for what will be an all-time opportunity for customer acquisition, we instead have to go on Steam and pay 20% of revenue”, is a reflection of Steam’s control over distribution, the strength of its social graph, and the strength of the social signals that have been accumulated from Ben and Matt spending 20 years and tens of thousands of hours earning things and that has produced what is one of the most successful businesses ever.</p>
+  <p><strong>Well, by far the most successful U.S. Internet business in China too. I mean, they’re not blocked, they’re actually bigger there than here.</strong></p>
+  <p><strong>MB:</strong> One piece of feedback that I’ve received is, first I had no idea Steam was so popular in China. And two, how on earth is that permitted? Everyone has known that Steam has been operating in China outside of firewalls for quite some time. But to put this in perspective, roughly 35% of all players of Steam are using the Steam client in Chinese language or dialects. That probably understates the number of Chinese players because many of whom still change to English to play a game, and so we’re saying that most of their users are English. There was this controversy recently where Black Myth: Wukong, a Chinese game that most of the rest of the world thinks is okay to maybe great, resoundingly won Steam’s Player Choice Awards. Everyone decried Chinese bots stole this award and I keep telling people, “No, it’s actually a Chinese platform”, and right now you have 70 million Chinese resident players on this platform.</p>
+  <p>Steam has 6 billion hours of engagement per month, which means roughly 2 billion hours of engagement. Which isn’t just playtime, it’s not consuming media, it’s comms, it’s social comms and messages.</p>
+  <p>Valve in Bellevue, Washington is managing on its servers 2 billion hours of Chinese communications every month, they are distributing 110,000 total games, 20,000 new games a year, and China only approves 1,000 games total in that market. It was one thing when Steam had a few million Chinese users, it’s another thing when you say it’s become that scale and no one seems to understand how and why.</p>
+  <p><strong>I guess there was a big controversy about where are they going, and I think it was around 2020, 2021 where they did crack down on the Chinese clients to abide by Chinese law, and I guess they played it right. No one wants to upset the gamers, I think we’ve all learned that in lots of areas and as long as they’re going to play ball, China seems okay with it, but it really is quite striking.</strong></p>
+  <p><strong>MB:</strong> I think the nice thing about that is the economic opportunity to indie developers has been extraordinary. I’m not saying that most of the game sales to the Chinese gamers are coming at the indie level, but of course there’s some incremental revenue that’s available to foreign publishers as a result of foreign game sales into a market that couldn’t otherwise access. If you are one of the major publishers, if you’re distributing “lawfully” you are going through Chinese publishers, and therefore you’re not getting 80 cents on the dollar as you do from Steam when you sell through Steam to a Chinese citizen, you’re getting 40%, 50% at best and then of course you’re not owning and seeing the same customer data.</p>
+  <p>So this is a real economic boon that also raises that question of if that crackdown happened, which has happened many times in the past, both focused on Steam and not, the potential could be, cataclysmic is too doomful, but the one to two years of scattering and resettling and reorganizing would be devastating.</p>
+  <p><strong>Yeah, I mean you have been making these additional points. <a href="https://www.matthewball.co/all/wukong">You wrote about Black Myth: Wukong</a> and the idea of, you’ve seen it happen in other mediums, but gaming is becoming more culturally referential, people want to play games from their culture, and it’s sort of this general split that’s happening. Every time it happens it’s probably to the detriment of the dominant US companies, but it’s very much happening with Chinese games as well.</strong></p>
+  <p><strong>MB:</strong> Yes, but it’s even worse in this instance. Which is to say that when we have historically seen China’s domestic capabilities in a given entertainment market mature, it has been to the exclusion of foreign product that was previously imported. In 2011 to 2013, Hollywood produced 5.3 out of the top 10 films in the market per year. From 2021 to 2013, it was 1.3 of the top 10 films, last year it was zero. The maturation of that domestic industry has pushed out that product. If you take a look at a market like India, which has always had a robust domestic capability, only three of the top 50 films ever come from outside of Bollywood. So we’ve seen that in the Chinese marketplace, in excess of 80% of all revenues are from Chinese produced games.</p>
+  <p>The exception is that Bollywood films and Chinese films are not particularly successful outside of their home markets. Wolf Warrior 2 did $800 million worldwide at the box office, but $800 million in China. But when you take a look at what has happened in gaming, we are seeing those companies have gone from 0.5% of the worldwide gaming market in 2011 to 13.5% in 2024 during a time in which the market doubled.</p>
+  <p><strong>And these are titles that are started in China as opposed to some of the China’s investment in game developers that are big in the West.</strong></p>
+  <p><strong>MB:</strong> A portion of that is Chinese acquired, such as Riot, which is based in Santa Monica but has been owned by Tencent since 2009, I think. So for all intents and purposes, you would still actually say that given the actual arc of when League of Legends took off, that has almost all been under Chinese ownership even if it was acquisition.</p>
+  <p>But if you take a look at a title like Genshin Impact, Genshin Impact is probably one of the five or six titles to ever do $9 billion lifetime globally. By the way, Grand Theft Auto V is generally estimated at $9.5 billion since 2013, one of the most successful titles of all time. Genshin Impact, which came up four years ago, has done $9 billion globally, and four of that has come from outside of China. Marvel Rivals is perhaps one of the biggest games of the last five years, it’s a license of American IP, but that is a mainland, not Hong Kong, mainland China studio.</p>
+  <p>These examples are becoming more and more numerous, and they are also coming from Southeast Asia or Brazil, and so this is part of the last challenge is it’s not just that cost went up, it’s not just that players are more few, it’s not just that playtime has become more scarce. It’s that when you look at the total TAM over the last 15 years and you say the market has grown 160%, that’s true but if you are a foreign developer, the actual addressable market is a fraction of that, partly because you can’t distribute in China, and that has come with outstanding competition from these foreign markets and the cost advantages of those are remarkable.</p>
+  <p>I’ll give you one last example from software. This is a Japanese publisher, but it’s helpful because we have greater disclosures there. FromSoftware made Elden Ring, they also made Armored Core 6, one of the best, most talented game developers of all time. They announced that their entry level staff was receiving a I think 17% pay increase as a result of the last two years of success, which was great. We have an industry that has had rampant layoffs, it’s really nice for a publisher to say, “We are not only not doing layoffs, we’re going to give a voluntary and very large boost in employment”, and as you know in Japan, the entry-level can actually last quite some time. This isn’t an 18-month rotational.</p>
+  <p>The average compensation of entry-level staff FromSoftware is $20,000 a year U.S., and so that’s a really meaningful increase, but that’s a fraction of what’s happening in the West. So we have abundant growth in production supply, massive improvements in foreign and emerging market capability, a customer base locally which is large and vibrant enough to support ongoing development, whereas the rest of the world is subtracting that cost.</p>
+  <p><strong>That’s the key thing. You have the money internally, so when you go abroad it’s just from this total position of strength and to your point, I didn’t really think through or appreciate you’re benefiting from protectionism, and so that local market, it’s not just that you’re making money there, you are more able to make money because the number of foreign games that are even allowed in are fewer, and it’s like a replay of what we’ve seen in lots of other arenas.</strong></p>
+  <p><strong>MB:</strong> Yeah, and this has been some of the most interesting feedback that I’ve received from people outside of the gaming industry, which is you mentioned earlier that this reminded you of the airline industry, and I had a very prominent VC reach out and say, “This could have been a deck on aerospace and defense”. Someone else reached out in private equity and now government said, “This looks like agriculture”, and it has been really remarkable because first and foremost, I take that as a compliment that someone can so clearly learn lessons that I was not tailoring towards and who has deep expertise in those other fields and can still apply them. But it also shows you a lot of, and I think this is in many ways what Stratechery is about, which is that these industry structures and what happens after hyper-growth and low barriers to entry and digital disruption all actually do converge on the same primitives, whether that’s entertainment in Hollywood or agriculture, heavy machinery, we start to see the same things.</p>
+  <p>That’s the tough part here is that the industry, like many others, whether that’s electrification or automation or artificial intelligence, is now seeking for what is that new opportunity. Without it, it’s becoming harder to imagine massive player growth, massive playtime growth and is certainly becoming hard to identify how a new company might find oxygen. That is happening, don’t get me wrong, there have been some outstanding darn successes, sometimes with studios with one or even 30 people. Palworld, one of the biggest games of last year, Lethal Company’s done I think $200 million in revenue and it’s one guy who made it primarily using asset stores. Very little of the art was his own, he just licensed objects from the community. These successes are outstanding, but the exceptions are relatively few and the volume of competition is so high that until we find those and there is a lot of effort there, it has become hard and challenging.<a></a></p>
+  <h4 class="wp-block-heading" id="app-store-pressure">App Store Pressure</h4>
+  <p><strong>I mean there’s so many questions here. You’ve talked about the potential for user-generated content. Obviously, Roblox is here. The problem is, is Roblox going to ever make money? <a href="https://www.matthewball.co/all/roblox2024">It seems to be an open question</a>.</strong></p>
+  <p><strong>MB:</strong> They’re a lot more profitable than I think is generally understood.</p>
+  <p><strong>This shows up in the accounting.</strong></p>
+  <p><strong>MB:</strong> Yeah, I mean, let me put it this way. They’re going to do about $4.5 billion in top line this year, and they’ll put out a billion in OCF [operating cash flow]. I think to argue that that is not a business that is working, let alone one that’s enviable, would be completely a misdirection. There is obviously that famous [John] Malone quote, which I think he took from a managerial scientist who I can’t remember the name of [Alfred Rappaport], which is, “Profit is opinion, cash is a fact,” and that’s very much true.</p>
+  <p>Now, there are some reasons why the cash is so high that relate to generally accepted accounting principles. They amortize virtual goods for 24 or 25 months, which means that their bookings and their revenue have a severe disconnect. But there’s another one which is roughly I think 30% of their revenue is then paid out as cash-based or stock-based comp, which of course shields cash flow but is a very real expense, so there are some good reasons and bad reasons.</p>
+  <p>I will say two concluding points there though is again, a billion on $4.5 billion is pretty great for operating cash flow and secondarily, a lot of this comes from the fact that any UGC platform that actually pays its developers but first has to pay 30% of revenue to app stores is going to have a hard time.</p>
+  <p><strong>Well, this is another bit that I skipped over, but a reason for there to be so much more pressure on the App Store platforms is it’s fine to put up with 30% when you’re growing. When you’re not growing, suddenly all eyes go towards that line item and it’s like, well, maybe I should give my local regulator a call.</strong></p>
+  <p><strong>MB:</strong> Well, it’s not just that. I mean I’m very sympathetic to the argument that the app stores might now be punished for their success. I’m very sympathetic to the argument that they ran a platform that created a $100 billion dollar new market for mobile games, which they did as a result of Google Play and the App Store, not all of which is due to the App Store model, but some of it, a lot of it is hardware and operating system and interface.</p>
+  <p>But we should recognize some of the stated facts I said earlier. We are at a decade-low for game installation in the United States despite a tripling of the player base. We are at a decade-low for the number of games in the App Store despite that player base. We are at a decade-low of new games being launched. It is very clear that the app stores are not helping game developers like they used to. It’s very clear that the market has massively ossified.</p>
+  <p>It is less clear the extent to which open competition would remedy those issues, but I, for one, believe that the argument that they’re providing the value that they used to is patently obviously incorrect. I think that if you said we had the introduction of new competitors whose sole raison d’etre was to drive installs for mobile games, to prove discovery, to prove new business models, to prove better economics, that would be great for developers. It could only improve discovery, it could only improve margins, and it could only create new competitive pressures that would motivate to companies to work harder to remedy the aforementioned problems, which are not good. They’re plainly not good.<a></a></p>
+  <h4 class="wp-block-heading" id="the-vision-pro-anniversary">The Vision Pro Anniversary</h4>
+  <p><strong>Well, I do have to ask you, in two days, it is the year anniversary of the release of the <a href="https://stratechery.com/2024/the-apple-vision-pro/">Apple Vision Pro</a>. You are <a href="https://www.ballmetaversebook.com/">the metaverse guy</a>, we also didn’t talk <a href="https://stratechery.com/2024/an-interview-with-meta-cto-andrew-bosworth-about-orion-and-reality-labs/">about Orion</a>, Facebook’s AR glasses. We’ve gone over time, but what I need your high-level take of where we’re at.</strong></p>
+  <p><strong>MB:</strong> I’m trying to think of what’s the thing that’s not going to go viral. The answer is I didn’t realize it was the one-year anniversary, just as I can’t tell you the last time I pulled the device out of my drawer.</p>
+  <p><strong>(laughing) I was going to ask that, but you layered it on.</strong></p>
+  <p><strong>MB:</strong> There was this funny quote that <a href="https://www.matthewball.co/all/sweeneystephenson">I did an interview with Tim Sweeney and Neal Stephenson in July of last year</a>, and I asked them both what they thought of the Vision Pro. Neither had tried it and I asked Neal why he hadn’t tried it. Neal Stephenson is the author of Snow Crash and coined the term metaverse and he just said, “I don’t need another HMD [head-mounted display] that sits in my drawer, the drawer of unused devices”.</p>
+  <p>The truth of the matter is I understand the ways in which everyone can try to rationalize what the Vision Pro has and hasn’t done that. Apple had low expectations, they manufactured it in low supply because they knew it was not going to sell very highly. That at $3,500 it’s not being pushed as that device, I get that. I also think there’s no math that suggests the device costs less than $25 billion to develop, probably much more and I think it’s unquestionably obvious that that product is not yet working in the marketplace. I think it’s addressable.</p>
+  <p><strong>Well, here’s a crazy thing someone pointed out to me, a developer noted that Apple has not released a new Apple Vision Pro app since launch. So all the apps that were iPad apps at launch are still iPad apps. It feels like Apple gave up, there’s just no real sense of them, and I mean maybe that’s unfair or maybe they’re very smart, maybe they’re like, “Yeah, put a lot of effort, it didn’t work out, let’s move on”.</strong></p>
+  <p><strong>MB:</strong> The most generous, and I think that this is truth, a lot of people ask this question of Apple doesn’t ship beta devices, they ship devices when they’ve cracked the interface. Why did they release the Vision Pro? The name gives it away. Why did you release a pro version of a device before you actually had the regular stock version? The iPhone Pro came out five years after I think the original iPhone, the AirPod Pros were a few years, the iPad Pro was a few years, the Watch Ultra came out. Usually they have a basic entry level device before they have a Pro and in this instance, they launched the Pro before the regular issue.</p>
+  <p>That reflects the technological difficulty, certainly the cost profile of the components. But I think the other answer is that obviously Steve [Jobs] and others felt like they had fundamentally cracked the interface and the form factor for the iPhone when they shipped it. The complexity of the Vision Pro I think has led people to believe that this is actually something very difficult to just do in isolation in your lab. What’s the interface? What’s the software? What’s the use case? What’s the right trade-off between weight distribution, form, fit? How much of this is going to be about a high-quality screen versus the portability to do a jumping jack? And I think that one argument is we had to learn, we had to ship this — the iOS or the visionOS updates have been pretty remarkable.</p>
+  <p><strong>That’s true.</strong></p>
+  <p><strong>MB:</strong> The avatar codecs have improved massively. It is absolutely indicting that there have not been more advances in Apple’s own software for native applications that sits alongside an absolute withering of native app launches for the device. But it is clear that they are learning a lot. As they ship it, we will see with the next version, how fundamental those lessons have been. My guess is they will drop the exterior display, EyeSight, which would probably shave several hundred dollars of BOM cost out of it. It would probably reduce the cost of AppleCare, it would probably make the device much lighter and therefore much better weight distributed. So we’ll see.</p>
+  <p><strong>And they did ship the Mac screen — <a href="https://stratechery.com/2024/apple-earnings-ai-capex-and-r-the-vision-pro-gets-a-killer-app/">it’s amazing</a>. It actually is a great feature where you get this huge widespread display, that’s where I think they should have been all along on productivity. I see this as a Mac in the Mac vein of things as opposed to being the iOS vein of things. Maybe that’s the pivot that’s going to happen. But hey, speaking of the drawer of objects, if the Orion glasses were for sale, would you buy them?</strong></p>
+  <p><strong>MB:</strong> I wouldn’t, and I’ll tell you the simple reason why. And I actually thought that this was the aspect of the device that was most undercovered coming out is those devices have a very unique, have a very challenge for that form factor, which is the difficulty with glasses is glasses happen to be an object that are frequently lost and more frequently damaged. A $10,000 price point and the return for that utility and for its amazement, I actually think is fine for a certain subset of the population, obviously, and of course the goal is to get down to $5,000 or $6,000, but there’s a separate issue, which is how resilient do they need to be and how easily are they repaired.</p>
+  <p>I think the Vision Pro at $4,000 is still really expensive, very easy to break, but you’re not putting it in your bag, you’re not bringing it on the bus, you’re not accidentally forgetting that it’s in your back pocket and then you sit down in your car and you’ve cracked it. There is a fundamental requirement here that laptops don’t face, that consoles don’t face, which is resiliency and it just happens that silica glass, most of the other construct of the external sensors, they require so much. And again, I haven’t asked Meta here, so maybe they’ll say, actually these are a lot more resilient than you think. The price point has to be such that repairs and replacements are digestible.</p>
+  <p>Again, that’s not something that I think most people worry about, but the more important thing is your Vision Pro can experience awful damage, but it’s actually very difficult to do catastrophic damage to your Vision Pro. You can drop the EyeSight and crack the entire external screen, but you’ve not destroyed the device. If you sit on your glasses or fundamentally drop something on the lens, you probably have several thousand dollars of repairs, if not a complete destruction of the device, and I think that’s one of the primary impediments. But look, I agreed with your take. I understand why people get upset about saying an un-shippable device that’s still a few years away is a false demo, it was remarkable. It was, and we finally got a sense of what is starting to come into view.</p>
+  <p><strong>To know that it’s possible. It was such a tangible, “Okay, I don’t know how we’re going to get there, but there is definitely a there there”.</strong></p>
+  <p><strong>MB:</strong> And by the way, Ben, we can separate even what the neural interface is even separable from the advances of the optical AR display, which is to say the utility of that for doing any design work on your legacy Windows PC is real too. The advances that come from that neural interface for the population requires accessibility hardware is outstanding and what they were showing was a lightweight version of a thing designed to be worn while you were at the gym and on the go. Those technological advances I think are as much of a reason for inspiration as was the quality, color, resolution and environmental flexibility of that optical AR display.</p>
+  <p><strong>Well, I think this is to take it full circle too, this is where <a href="https://stratechery.com/2024/the-gen-ai-bridge-to-the-future/">the AI stuff is just going to be so critical</a>. The interface is totally wrong for Orion right now, it’s cribbed from the VR headsets, it’s too much in your face. You only want stuff at the time you’re supposed to get it, you want the right thing at the right time and it ties to your game thing too. I thought your discussion about labor costs and the challenges and fundamental competitive constraints on US companies in particular was very striking. If you can solve that, if you can fix your asset problem, <a href="https://stratechery.com/2022/dall-e-the-metaverse-and-zero-marginal-content/">your asset generation issues with AI</a>, maybe that is actually the key. It’s completely reworking the cost structure. Can the existing companies do that? Is this going to be an opportunity for new companies that make games in a different way? I guess I’ll have to ask you the next time you’re on.</strong></p>
+  <p><strong>MB:</strong> That sounds great. I look forward to it.</p>
+  <hr class="wp-block-separator has-alpha-channel-opacity" />
+  <p>This Daily Update Interview is also available as a podcast. To receive it in your podcast player, <a href="https://stratechery.passport.online/member">visit Stratechery</a>.</p>
+  <p>The Daily Update is intended for a single recipient, but occasional forwarding is totally fine! If you would like to order multiple subscriptions for your team with a group discount (minimum 5), please contact me directly.</p>
+  <p>Thanks for being a supporter, and have a great day!</p>
+  <p></p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2025-02-04</time>
+        <a href="https://nodebe4.github.io/opinion/2025-02-04/Apple-Earnings,-OpenAI-Deep-Research,-The-Unbundli/">
+          Apple Earnings, OpenAI Deep Research, The Unbundling of Substantiation
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2025-02-03</time>
+        <a href="https://nodebe4.github.io/opinion/2025-02-03/The-De-Minimis-Loophole,-Impact-on-Amazon-and-Meta/">
+          The De Minimis Loophole, Impact on Amazon and Meta, AI and Abundance
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2025-01-30</time>
+        <a href="https://nodebe4.github.io/opinion/2025-01-30/Microsoft-Earnings,-Meta-Earnings/">
+          Microsoft Earnings, Meta Earnings
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2025-01-29</time>
+        <a href="https://nodebe4.github.io/opinion/2025-01-29/Asianometry-on-Japan-s-Chemical-Dominance,-Stratec/">
+          Asianometry on Japan’s Chemical Dominance, Stratechery Updates, and Chinese New Year Schedule Changes
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2025-01-30/Microsoft-Earnings,-Meta-Earnings/">
+            前一篇：Microsoft Earnings, Meta Earnings
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2025-01-31/EP-133-%E4%B8%AD%E5%9B%BD%E4%BB%BF%E5%88%B6%E8%8D%AF%E4%B8%8E%E9%9B%86%E9%87%87%E5%88%B6%E5%BA%A6%E5%87%BA%E4%BA%86%E4%BB%80%E4%B9%88%E9%97%AE%E9%A2%98-%E6%96%87%E5%AD%97%E7%89%88/">
+            後一篇：EP-133 中国仿制药与集采制度出了什么问题？（文字版）
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2025-01-30/Microsoft-Earnings,-Meta-Earnings/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2025-01-31/EP-133-%E4%B8%AD%E5%9B%BD%E4%BB%BF%E5%88%B6%E8%8D%AF%E4%B8%8E%E9%9B%86%E9%87%87%E5%88%B6%E5%BA%A6%E5%87%BA%E4%BA%86%E4%BB%80%E4%B9%88%E9%97%AE%E9%A2%98-%E6%96%87%E5%AD%97%E7%89%88/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2025-02-03/The-De-Minimis-Loophole,-Impact-on-Amazon-and-Meta/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2025-01-30/Microsoft-Earnings,-Meta-Earnings/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2025-01-30/Microsoft-Earnings,-Meta-Earnings/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2025-01-31/EP-133-%E4%B8%AD%E5%9B%BD%E4%BB%BF%E5%88%B6%E8%8D%AF%E4%B8%8E%E9%9B%86%E9%87%87%E5%88%B6%E5%BA%A6%E5%87%BA%E4%BA%86%E4%BB%80%E4%B9%88%E9%97%AE%E9%A2%98-%E6%96%87%E5%AD%97%E7%89%88/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2025-02-03/The-De-Minimis-Loophole,-Impact-on-Amazon-and-Meta/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2025-01-30/Microsoft-Earnings,-Meta-Earnings/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

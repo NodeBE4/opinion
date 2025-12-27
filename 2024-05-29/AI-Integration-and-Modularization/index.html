@@ -1,0 +1,3008 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>AI Integration and Modularization – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+AI Integration and Modularization
+——
+" />
+    <meta property="og:description" content="
+AI Integration and Modularization
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="AI Integration and Modularization" />
+    <meta property="twitter:title" content="AI Integration and Modularization" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2024%2Fai-integration-and-modularization%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2024/ai-integration-and-modularization/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2024/ai-integration-and-modularization/&text=AI Integration and Modularization&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2024/ai-integration-and-modularization/&title=AI Integration and Modularization" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2024/ai-integration-and-modularization/&title=AI Integration and Modularization" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=AI Integration and Modularization&body=
+AI Integration and Modularization
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2024/ai-integration-and-modularization/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2024/ai-integration-and-modularization/&title=AI Integration and Modularization&caption=
+AI Integration and Modularization
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=AI Integration and Modularization&url=https://stratechery.com/2024/ai-integration-and-modularization/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>AI Integration and Modularization</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2024-05-29
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2024/ai-integration-and-modularization/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1717000447000-->
+<p><a href="https://stratechery.com/2024/ai-integration-and-modularization/">AI Integration and Modularization</a>
+——</p>
+
+<div>
+  <p>Satya Nadella, in last week’s <a href="https://stratechery.com/2024/interviews-with-microsoft-ceo-satya-nadella-and-cto-kevin-scott-about-the-ai-platform-shift/">Stratechery Interview</a>, said in response to a question about Google and AI:</p>
+  <blockquote>
+    <p>I look at it and say, look, I think there’s room always for somebody to vertically integrate. I always go back, there’s what is the Gates/Grove model, and then let’s call it the Apple or maybe the new Google model, which is the vertical integration model. I think both of them have plays.</p>
+  </blockquote>
+  <p>One of the earliest economists to explore the question of integration versus modularization was Ronald Coase in his seminal paper <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/j.1468-0335.1937.tb00002.x">The Nature of the Firm</a>; Coase concluded:</p>
+  <blockquote>
+    <p>When we are considering how large a firm will be the principle of marginalism works smoothly. The question always is, will it pay to bring an extra exchange transaction under the organising authority? At the margin, the costs of organising within the firm will be equal either to the costs of organising in another firm or to the costs involved in leaving the transaction to be “organised” by the price mechanism.</p>
+  </blockquote>
+  <p>It was Professor Clayton Christensen who extended the analysis of integration versus modularization beyond the economists’ domain of measurable costs to the more ineffable realm of innovation. From <a href="https://claytonchristensen.com/books/the-innovators-solution/">The Innovator’s Solution</a>:</p>
+  <blockquote>
+    <p><a href="https://claytonchristensen.com/books/the-innovators-solution/"><img fetchpriority="high" decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/05/integration-modularization-ai-1.png?resize=640%2C372&#038;ssl=1" alt="The improvement of integrated versus modular systems over time according to Professor Christensen" width="640" height="372" class="aligncenter size-full wp-image-13034" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/05/integration-modularization-ai-1.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/05/integration-modularization-ai-1.png?resize=300%2C174&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/05/integration-modularization-ai-1.png?resize=1024%2C594&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/05/integration-modularization-ai-1.png?resize=768%2C446&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/05/integration-modularization-ai-1.png?resize=1085%2C630&amp;ssl=1 1085w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></a></p>
+    <p>The left side of figure 5-1 indicates that when there is a performance gap — when product functionality and reliability are not yet good enough to address the needs of customers in a given tier of the market — companies must compete by making the best possible products. In the race to do this, firms that build their products around proprietary, interdependent architectures enjoy an important competitive advantage against competitors whose product architectures are modular, because the standardization inherent in modularity takes too many degrees of design freedom away from engineers, and they cannot not optimize performance.</p>
+    <p>To close the performance gap with each new product generation, competitive forces compel engineers to fit the pieces of their systems together in ever-more-efficient ways in order to wring the most performance possible out of the technology that is available. When firms must compete by making the best possible products, they cannot simply assemble standardized components, because from an engineering point of view, standardization of interfaces (meaning fewer degrees of design freedom) would force them to hack away from the frontier of what is technologically possible. When the product is not good enough, backing off from the best that can be done means that you’ll fall behind.</p>
+    <p>Companies that compete with proprietary, interdependent architectures must be integrated: They must control the design and manufacture of every critical component of the system in order to make any piece of the system. As an illustration, during the early days of the mainframe computer industry, when functionality and reliability were not yet good enough to satisfy the needs of mainstream customers, you could not have existed as an independent contract manufacturer of mainframe computers because the way the machines were designed depended on the art that would be used in manufacturing, and vice versa. There was no clean interface between design and manufacturing. Similarly, you could not have existed as an independent supplier of operating systems, core memory, or logic circuitry to the mainframe industry because these key subsystems had to be interdependently and iteratively designed, too.</p>
+  </blockquote>
+  <p>I made my own contribution to this literature in 2013’s <a href="https://stratechery.com/2013/clayton-christensen-got-wrong/">What Clayton Christensen Got Wrong</a>. My dispute wasn’t with the above excerpt, but rather the follow-on argument that integrated solutions would eventually overshoot customers and be disrupted by modular alternatives; it was on this basis that Christensen regularly predicted that Apple would lose its lead in smartphones, but I didn’t think that would happen in a consumer market where there were costs to modularization beyond those measured by economists:</p>
+  <blockquote>
+    <p>The issue I have with this analysis of vertical integration — and this is exactly what I was taught at business school — is that the only considered costs are financial. But there are other, more difficult to quantify costs. Modularization incurs costs in the design and experience of using products that cannot be overcome, yet cannot be measured. Business buyers — and the analysts who study them — simply ignore them, but consumers don’t. Some consumers inherently know and value quality, look-and-feel, and attention to detail, and are willing to pay a premium that far exceeds the financial costs of being vertically integrated.</p>
+  </blockquote>
+  <p>This ended up being correct as far as smartphones are concerned, and even computers: yes, Windows-based modular computers dominated the first 30 years of computing, but today the Mac is dominant amongst consumers, something Microsoft implicitly admitted <a href="https://stratechery.com/2024/windows-returns/">in their framing of Copilot+ PCs</a>. Both smartphones and PCs, though, are physical devices you hold in your hands; does the assumption that integration wins in the beginning — and sometimes even the end — hold in AI?</p>
+  <h3 id="integrated-versus-modular-ai">Integrated Versus Modular AI</h3>
+  <p>The integrated versus modular dichotomy in PCs looked like this:</p>
+  <p><img decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/05/integration-modularization-ai-2.png?resize=640%2C428&#038;ssl=1" alt="Integrated versus modular in PCs" width="640" height="428" class="aligncenter size-full wp-image-13041" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/05/integration-modularization-ai-2.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/05/integration-modularization-ai-2.png?resize=300%2C201&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/05/integration-modularization-ai-2.png?resize=1024%2C685&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/05/integration-modularization-ai-2.png?resize=768%2C514&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/05/integration-modularization-ai-2.png?resize=942%2C630&amp;ssl=1 942w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>Apple briefly experimented with modularization in the 1990s, and it nearly bankrupted them; eventually the company went in the opposite direction and integrated all the way down to the processor, following the path set by the iPhone:</p>
+  <p><img decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/05/integration-modularization-ai-3.png?resize=640%2C436&#038;ssl=1" alt="Integrated versus modular in smartphones" width="640" height="436" class="aligncenter size-full wp-image-13040" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/05/integration-modularization-ai-3.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/05/integration-modularization-ai-3.png?resize=300%2C204&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/05/integration-modularization-ai-3.png?resize=1024%2C698&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/05/integration-modularization-ai-3.png?resize=768%2C523&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/05/integration-modularization-ai-3.png?resize=925%2C630&amp;ssl=1 925w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>The similarities between these two images should be striking; Mark Zuckerberg is counting on the same pattern repeating itself for headset computers, with Meta <a href="https://stratechery.com/2024/meta-and-open/">as the open alternative</a>. When it comes to AI, though, Google is, as Nadella noted, the integrated player:</p>
+  <p><img loading="lazy" decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/05/integration-modularization-ai-4.png?resize=640%2C401&#038;ssl=1" alt="Google&#039;s integrated AI stack" width="640" height="401" class="aligncenter size-full wp-image-13039" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/05/integration-modularization-ai-4.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/05/integration-modularization-ai-4.png?resize=300%2C188&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/05/integration-modularization-ai-4.png?resize=1024%2C642&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/05/integration-modularization-ai-4.png?resize=768%2C481&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/05/integration-modularization-ai-4.png?resize=1005%2C630&amp;ssl=1 1005w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>Google trains and runs its Gemini family of models on its own TPU processors, which are only available on Google’s cloud infrastructure. Developers can access Gemini through Vertex AI, Google’s fully-managed AI development platform; and, to the extent Vertex AI is similar to Google’s internal development environment, that is the platform on which Google is building its own consumer-facing AI apps. It’s all Google, from top-to-bottom, and there is evidence that this integration is paying off: Gemini 1.5’s industry leading 2 million token context window almost certainly required joint innovation between Google’s infrastructure team and its model-building team.</p>
+  <p>On the other extreme is AWS, which doesn’t have any of its own models; instead its focus has been on its Bedrock managed development platform, which lets you use any model. Amazon’s other focus has been on developing its own chips, although the vast majority of its AI business runs on Nvidia GPUs.</p>
+  <p><img loading="lazy" decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/05/integration-modularization-ai-5.png?resize=640%2C407&#038;ssl=1" alt="AWS&#039;s modular AI stack" width="640" height="407" class="aligncenter size-full wp-image-13038" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/05/integration-modularization-ai-5.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/05/integration-modularization-ai-5.png?resize=300%2C191&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/05/integration-modularization-ai-5.png?resize=1024%2C650&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/05/integration-modularization-ai-5.png?resize=768%2C488&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/05/integration-modularization-ai-5.png?resize=992%2C630&amp;ssl=1 992w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>Microsoft is in the middle, thanks to its close ties to OpenAI and its models. The company added Azure Models-as-a-Service last year, but its primary focus for both external customers and its own internal apps has been building on top of OpenAI’s GPT family of models; Microsoft has also launched its own chip for inference, but the vast majority of its workloads run on Nvidia.</p>
+  <p><img loading="lazy" decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/05/integration-modularization-ai-6.png?resize=640%2C395&#038;ssl=1" alt="Microsoft&#039;s somewhat integrated AI stack" width="640" height="395" class="aligncenter size-full wp-image-13037" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/05/integration-modularization-ai-6.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/05/integration-modularization-ai-6.png?resize=300%2C185&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/05/integration-modularization-ai-6.png?resize=1024%2C631&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/05/integration-modularization-ai-6.png?resize=768%2C473&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/05/integration-modularization-ai-6.png?resize=1022%2C630&amp;ssl=1 1022w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>Finally there is Meta, which only builds for itself; that means the most important point of integration is between the apps and the model; that’s why Llama 3, for example, was optimized for low inference costs, even at the expense of higher training costs. This also means that Meta can skip the managed service layer completely.</p>
+  <p><img loading="lazy" decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/05/integration-modularization-ai-7.png?resize=640%2C401&#038;ssl=1" alt="Meta&#039;s mostly integrated AI stack" width="640" height="401" class="aligncenter size-full wp-image-13036" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/05/integration-modularization-ai-7.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/05/integration-modularization-ai-7.png?resize=300%2C188&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/05/integration-modularization-ai-7.png?resize=1024%2C641&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/05/integration-modularization-ai-7.png?resize=768%2C481&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/05/integration-modularization-ai-7.png?resize=1007%2C630&amp;ssl=1 1007w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>One other company to highlight is Databricks (whose CEO I spoke to <a href="https://stratechery.com/2024/an-interview-with-databricks-ceo-ali-ghodsi-about-building-enterprise-ai/">earlier this month</a>). Databricks, thanks to <a href="https://stratechery.com/2023/friction-follow-up-databricks-acquires-mosaicml/">its acquisition of MosaicML</a>, helps customers train their own LLMs on their own data, which is, of course, housed on Databricks, which itself sits on top of the hyperscalers:</p>
+  <p><img loading="lazy" decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/05/integration-modularization-ai-8.png?resize=640%2C403&#038;ssl=1" alt="Databrick&#039;s customized model AI stack" width="640" height="403" class="aligncenter size-full wp-image-13035" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/05/integration-modularization-ai-8.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/05/integration-modularization-ai-8.png?resize=300%2C189&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/05/integration-modularization-ai-8.png?resize=1024%2C644&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/05/integration-modularization-ai-8.png?resize=768%2C483&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/05/integration-modularization-ai-8.png?resize=1002%2C630&amp;ssl=1 1002w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>Databricks is worth highlighting because of the primacy its approach places on data; data and model are the point of integration.</p>
+  <h3 id="big-tech-implications">Big Tech Implications</h3>
+  <h4 id="google">Google</h4>
+  <p>The first takeaway from this analysis is that Google’s strategy truly is unique: they are, as Nadella noted, the Apple of AI. The bigger question is if this matters: as I noted above, integration has proven to be a sustainable differentiation in (1) the consumer market, where the buyer is the user, and thus values the user experience benefits that come from integration, and when (2) those user experience benefits are manifested in devices.</p>
+  <p>Google is certainly building products for the consumer market, but those products are not devices; they are Internet services. And, as you might have noticed, the historical discussion didn’t really mention the Internet. Both Google and Meta, the two biggest winners of the Internet epoch, built their services on commodity hardware. Granted, those services scaled thanks to the deep infrastructure work undertaken by both companies, but even there Google’s more customized approach has been at least rivaled by Meta’s more open approach. What is notable is that both companies are integrating their models and their apps, as is OpenAI with ChatGPT.</p>
+  <p>The second question for Google is if they are even good at making products anymore; part of what makes Apple so remarkable is not only that the company is integrated, but also that it maintained its standard for excellence for so long even as it continued to release groundbreaking new products beyond the iPhone, like the Apple Watch and AirPods. It may be the case that selling hardware, which has to be perfect every year to justify a significant outlay of money by consumers, provides a much better incentive structure for maintaining excellence and execution than does being an Aggregator that users access for free.</p>
+  <p>What this analysis also highlights is the potential for <a href="https://stratechery.com/2023/googles-true-moonshot/">Google’s True Moonshot</a>: actually putting weight behind the company’s Pixel phones as a vertically-integrated iPhone rival. From that Article:</p>
+  <blockquote>
+    <p>Google’s collection of moonshots — from Waymo to Google Fiber to Nest to Project Wing to Verily to Project Loon (and the list goes on) — have mostly been science projects that have, for the most part, served to divert profits from Google Search away from shareholders. Waymo is probably the most interesting, but even if it succeeds, it is ultimately a car service rather far afield from Google’s mission statement “to organize the world’s information and make it universally accessible and useful.”</p>
+    <p>What, though, if the mission statement were the moonshot all along? What if “I’m Feeling Lucky” were not a whimsical button on a spartan home page, but the default way of interacting with all of the world’s information? What if an AI Assistant were so good, and so natural, that anyone with seamless access to it simply used it all the time, without thought?</p>
+    <p>That, needless to say, is probably the only thing that truly scares Apple. Yes, Android has its advantages to iOS, but they aren’t particularly meaningful to most people, and even for those that care — like me — they are not large enough to give up on iOS’s overall superior user experience. The only thing that drives meaningful shifts in platform marketshare are paradigm shifts, and while I doubt the v1 version of Pixie [Google’s rumored Pixel-only AI assistant] would be good enough to drive switching from iPhone users, there is at least a path to where it does exactly that.</p>
+    <p>Of course Pixel would need to win in the Android space first, and that would mean massively more investment by Google in go-to-market activities in particular, from opening stores to subsidizing carriers to ramping up production capacity. It would not be cheap, which is why it’s no surprise that Google hasn’t truly invested to make Pixel a meaningful player in the smartphone space.</p>
+    <p>The potential payoff, though, is astronomical: a world with Pixie everywhere means a world where Google makes real money from selling hardware, in addition to services for enterprises and schools, and cloud services that leverage Google’s infrastructure to provide the same capabilities to businesses. Moreover, it’s a world where Google is truly integrated: the company already makes the chips, in both its phones and its data centers, it makes the models, and it does it all with the largest collection of data in the world.</p>
+  </blockquote>
+  <p>As <a href="https://stratechery.com/2024/google-earnings-googles-re-org-googles-true-moonshot/">I noted in an Update</a> last month, Google’s <a href="https://blog.google/inside-google/company-announcements/building-ai-future-april-2024/">recent reorg</a> points in this direction, although <a href="https://stratechery.com/2024/google-i-o-googles-strengths-and-weaknesses-ai-search/">Google I/O</a> didn’t provide any hints that this shift in strategy might be coming; instead, the big focus was a new AI-driven search experience, which, needless to say, has seen mixed results. Indeed, the fact that Google is being mocked mercilessly for messed-up AI answers gets at why <a href="https://stratechery.com/2023/ai-and-the-big-five/">consumer-facing AI may be disruptive for the company</a>: the reason why incumbents find it hard to respond to disruptive technologies is because they are, at least at the beginning, not good enough for the incumbent’s core offering. Time will tell if this gives more fuel to a shift in smartphone strategies, or makes the company more reticent.</p>
+  <p>The enterprise space is a different question: while <a href="https://stratechery.com/2024/gemini-1-5-and-googles-nature/">I was very impressed with Google’s enterprise pitch</a>, which benefits from its integration with Google’s infrastructure without all of the overhead of potentially disrupting the company’s existing products, it’s going to be a heavy lift to overcome data gravity, i.e. the fact that many enterprise customers will simply find it easier to use AI services on the same clouds where they already store their data (Google does, of course, also support non-Gemini models). To the extent Google wins in enterprise it may be by capturing the next generation of startups that are AI first and, by definition, data light; a new company has the freedom to base its decision on infrastructure and integration.</p>
+  <h4 id="aws">AWS</h4>
+  <p>Amazon is certainly hoping that argument is correct: the company is operating as if everything in the AI value chain is modular and ultimately a commodity, which insinuates that it believes that data gravity will matter most. What is difficult to separate is to what extent this is the correct interpretation of the strategic landscape versus a convenient interpretation of the facts that happens to perfectly align with Amazon’s strengths and weaknesses, including infrastructure that is heavily optimized for commodity workloads.</p>
+  <h4 id="microsoft">Microsoft</h4>
+  <p>Microsoft, meanwhile, is, as I noted above, in the middle, but not entirely by choice. <a href="https://stratechery.com/2023/google-earnings-microsoft-earnings-ai-leverage/">Last October</a> on <a href="https://seekingalpha.com/article/4643129-microsoft-corporation-msft-q1-2024-earnings-call-transcript">the company’s earnings call</a> Nadella talked extensively about how the company was optimizing its infrastructure around OpenAI:</p>
+  <blockquote>
+    <p>It is true that the approach we have taken is a full stack approach all the way from whether it’s ChatGPT or Bing Chat or all our Copilots, all share the same model. So in some sense, one of the things that we do have is very, very high leverage of the one model that we used, which we trained, and then the one model that we are doing inferencing at scale. And that advantage sort of trickles down all the way to both utilization internally, utilization of third parties, and also over time, you can see the sort of stack optimization all the way to the silicon, because the abstraction layer to which the developers are riding is much higher up than low-level kernels, if you will.</p>
+    <p>So, therefore, I think there is a fundamental approach we took, which was a technical approach of saying we’ll have Copilots and Copilot stack all available. That doesn’t mean we don’t have people doing training for open source models or proprietary models. We also have a bunch of open source models. We have a bunch of fine-tuning happening, a bunch of RLHF happening. So there’s all kinds of ways people use it. But the thing is, we have scale leverage of one large model that was trained and one large model that’s being used for inference across all our first-party SaaS apps, as well as our API in our Azure AI service…</p>
+    <p>The lesson learned from the cloud side is — we’re not running a conglomerate of different businesses, it’s all one tech stack up and down Microsoft’s portfolio, and that, I think, is going to be very important because that discipline, given what the spend like — it will look like for this AI transition any business that’s not disciplined about their capital spend accruing across all their businesses could run into trouble.</p>
+  </blockquote>
+  <p>Then, one month later, <a href="https://stratechery.com/2023/openais-misalignment-and-microsofts-gain/">OpenAI nearly imploded</a> and Microsoft had to face the reality that it is exceptionally risky to pin your strategy on integrating with a partner you don’t control; much of the company’s rhetoric — including the Nadella quote I opened this Article with — and actions since then has been focused on abstracting models away, particularly through the company’s own managed AI development platform, in an approach that looks more similar to Amazon’s. I suspect the company would actually like to lean more into integration, and perhaps still is (including <a href="https://stratechery.com/2024/microsoft-and-inflection-ai-inflection-oddities-the-acquisition-that-isnt/">acqui-hiring its own model and model-building team</a>), but it has to hedge its bets.</p>
+  <h4 id="nvidia">Nvidia</h4>
+  <p>All of this is, I think, good news for Nvidia. One <a href="https://stratechery.com/2024/nvidia-waves-and-moats/">underdiscussed implication of the rise of LLMs</a> is that <a href="https://stratechery.com/2021/nvidias-gtc-keynote-the-nvidia-stack-the-omniverse/">Nvidia’s CUDA moat</a> has been diminished; the vast majority of development in AI is no longer happening with CUDA libraries, but rather on top of LLMs. That does, in theory, make it more likely that alternative GPU providers, whether that be AMD or hyperscalers’ internal efforts, put a dent in Nvidia’s dominance and margins.</p>
+  <p>Nvidia, though, is hardly resting on its moat: the company is making its GPUs more flexible over time, promising that its next generation of chips will ship in double the configurations of the current generation, including a renewed emphasis on ethernet networking. This approach will maximize the Nvidia’s addressable market, driving more revenue which the company is funneling back into a one-year iteration cycle that promises to keep the chip-maker ahead of the alternatives.</p>
+  <p>I suspect that the only way to overcome this performance advantage, at least in the near term, will be through true vertical integration a la Google; to put it another way, while Google’s TPUs will remain a strong alternative, I am skeptical that hyperscaler internal chip efforts will be a major threat for the foreseeable future. Absent full stack integration those efforts are basically reduced to trying to make better chips than Nvidia, and good luck with that! Even AMD is discovering that <a href="https://stratechery.com/2024/nvidia-earnings-amd-earnings-nvidias-goldilocks-pitch/">a good portion of its GPU sales are a function of Nvidia scarcity</a>.</p>
+  <h4 id="meta">Meta</h4>
+  <p>This also explains Meta’s open source approach to Llama: the company is focused on products, which do benefit from integration, but there are also benefits that come from widespread usage, particularly in terms of optimization and complementary software. Open source accrues those benefits without imposing any incentives that detract from Meta’s product efforts (and don’t forget that Meta is receiving some portion of revenue from hyperscalers serving Llama models).</p>
+  <h3 id="ai-or-agi">AI or AGI</h3>
+  <p>The one company that I have not mentioned so far — at least in the context of AI — is Apple. The iPhone maker, like Amazon, appears to be betting that AI will be a feature or an app; like Amazon, it’s not clear to what extent this is strategic foresight versus motivated reasoning.</p>
+  <p>It does, though, get at the biggest question of all: LLMs are already incredible, and there is years of work to be done to fully productize the capabilities that exist today; are even better LLMs, though, capable of disrupting not just search but all of computing? To the extent that the answer is yes, the greater advantage I think that Google’s integrated approach will have, for the reasons Christensen laid out: achieving something approaching AGI, whatever that means, will require maximizing every efficiency and optimization, which rewards the integrated approach.</p>
+  <p>I am skeptical: I think that models will certainly differ, but not in a large enough way to not be treated as commodities; the most value will be derived from building platforms <a href="https://stratechery.com/2024/interviews-with-microsoft-ceo-satya-nadella-and-cto-kevin-scott-about-the-ai-platform-shift/">that treat models like processors</a>, delivering performance improvements to developers who never need to know what is going on under the hood. This will mean the biggest benefits will accrue to horizontal reach — on the API layer, the model layer, and the GPU layer — as opposed to vertical integration; it is up to Google to prove me wrong.</p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2024-07-01</time>
+        <a href="https://nodebe4.github.io/opinion/2024-07-01/Summer-Break-Week-of-July-1st/">
+          Summer Break: Week of July 1st
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-06-10</time>
+        <a href="https://nodebe4.github.io/opinion/2024-06-10/Apple-Intelligence-is-Right-On-Time/">
+          Apple Intelligence is Right On Time
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-05-21</time>
+        <a href="https://nodebe4.github.io/opinion/2024-05-21/Windows-Returns/">
+          Windows Returns
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-05-13</time>
+        <a href="https://nodebe4.github.io/opinion/2024-05-13/The-Great-Flattening/">
+          The Great Flattening
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2024-05-24/EP-097-%E4%B8%81%E5%AD%A6%E8%89%AF-%E4%B8%AD%E7%BE%8E%E4%BA%A4%E6%B5%81%E7%9A%84%E5%8E%86%E5%8F%B2%E6%80%A7%E8%B5%A4%E5%AD%97-%E6%96%87%E5%AD%97%E7%89%88/">
+            前一篇：EP-097 丁学良：中美交流的历史性赤字（文字版）
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2024-05-29/%E7%B6%93%E5%85%B8%E9%87%8D%E6%BA%AB-%E6%9D%8E%E8%82%85%E6%8C%91%E6%88%B0%E5%91%A8%E5%AD%9D%E6%AD%A3-%E5%91%8A%E8%A8%B4%E4%BD%A0%E4%B8%80%E5%80%8B%E7%9C%9F%E5%AF%A6%E7%9A%84%E6%AF%9B%E6%99%82%E4%BB%A3/">
+            後一篇：🌟【經典重溫】李肅挑戰周孝正：告訴你一個真實的毛時代
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2024-05-24/EP-097-%E4%B8%81%E5%AD%A6%E8%89%AF-%E4%B8%AD%E7%BE%8E%E4%BA%A4%E6%B5%81%E7%9A%84%E5%8E%86%E5%8F%B2%E6%80%A7%E8%B5%A4%E5%AD%97-%E6%96%87%E5%AD%97%E7%89%88/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2024-05-29/%E7%B6%93%E5%85%B8%E9%87%8D%E6%BA%AB-%E6%9D%8E%E8%82%85%E6%8C%91%E6%88%B0%E5%91%A8%E5%AD%9D%E6%AD%A3-%E5%91%8A%E8%A8%B4%E4%BD%A0%E4%B8%80%E5%80%8B%E7%9C%9F%E5%AF%A6%E7%9A%84%E6%AF%9B%E6%99%82%E4%BB%A3/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2024-06-10/Apple-Intelligence-is-Right-On-Time/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2024-05-21/Windows-Returns/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2024-05-24/EP-097-%E4%B8%81%E5%AD%A6%E8%89%AF-%E4%B8%AD%E7%BE%8E%E4%BA%A4%E6%B5%81%E7%9A%84%E5%8E%86%E5%8F%B2%E6%80%A7%E8%B5%A4%E5%AD%97-%E6%96%87%E5%AD%97%E7%89%88/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2024-05-29/%E7%B6%93%E5%85%B8%E9%87%8D%E6%BA%AB-%E6%9D%8E%E8%82%85%E6%8C%91%E6%88%B0%E5%91%A8%E5%AD%9D%E6%AD%A3-%E5%91%8A%E8%A8%B4%E4%BD%A0%E4%B8%80%E5%80%8B%E7%9C%9F%E5%AF%A6%E7%9A%84%E6%AF%9B%E6%99%82%E4%BB%A3/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2024-06-10/Apple-Intelligence-is-Right-On-Time/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2024-05-21/Windows-Returns/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

@@ -1,0 +1,2247 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>ForeignAffairsMag在2022-05-23~2022-05-29的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="ForeignAffairsMag在2022-05-23~2022-05-29的言论" />
+    <meta property="twitter:title" content="ForeignAffairsMag在2022-05-23~2022-05-29的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2Fpodcast%2Fcomments%2Fuvx64j%2Fweekly_podcast_thread_may_23_2022_please_share%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/podcast/comments/uvx64j/weekly_podcast_thread_may_23_2022_please_share/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/podcast/comments/uvx64j/weekly_podcast_thread_may_23_2022_please_share/&text=ForeignAffairsMag在2022-05-23~2022-05-29的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/podcast/comments/uvx64j/weekly_podcast_thread_may_23_2022_please_share/&title=ForeignAffairsMag在2022-05-23~2022-05-29的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/podcast/comments/uvx64j/weekly_podcast_thread_may_23_2022_please_share/&title=ForeignAffairsMag在2022-05-23~2022-05-29的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=ForeignAffairsMag在2022-05-23~2022-05-29的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/podcast/comments/uvx64j/weekly_podcast_thread_may_23_2022_please_share/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/podcast/comments/uvx64j/weekly_podcast_thread_may_23_2022_please_share/&title=ForeignAffairsMag在2022-05-23~2022-05-29的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=ForeignAffairsMag在2022-05-23~2022-05-29的言论&url=https://old.reddit.com/r/podcast/comments/uvx64j/weekly_podcast_thread_may_23_2022_please_share/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>ForeignAffairsMag在2022-05-23~2022-05-29的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-05-27
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: ForeignAffairsMag</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/podcast/comments/uvx64j/weekly_podcast_thread_may_23_2022_please_share/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#251-weekly-podcast-thread-may-23-2022---please-share-your-show-here-submitted-on-2022-05-23-1830100800" id="markdown-toc-251-weekly-podcast-thread-may-23-2022---please-share-your-show-here-submitted-on-2022-05-23-1830100800">251: Weekly Podcast Thread May 23, 2022 - Please Share Your Show Here!, submitted on 2022-05-23 18:30:10+08:00.</a></li>
+  <li><a href="#252-pakistan-reaps-what-it-sowed-how-the-countrys-support-for-the-taliban-backfired-submitted-on-2022-05-24-0135360800" id="markdown-toc-252-pakistan-reaps-what-it-sowed-how-the-countrys-support-for-the-taliban-backfired-submitted-on-2022-05-24-0135360800">252: Pakistan Reaps What It Sowed: How the Country’s Support for the Taliban Backfired, submitted on 2022-05-24 01:35:36+08:00.</a></li>
+  <li><a href="#253-how-to-make-bidens-free-world-strategy-work-its-not-as-simple-as-pitting-democracy-against-autocracy-submitted-on-2022-05-24-2335150800" id="markdown-toc-253-how-to-make-bidens-free-world-strategy-work-its-not-as-simple-as-pitting-democracy-against-autocracy-submitted-on-2022-05-24-2335150800">253: How to Make Biden’s Free World Strategy Work: It’s Not as Simple as Pitting Democracy Against Autocracy, submitted on 2022-05-24 23:35:15+08:00.</a></li>
+  <li><a href="#254-how-to-build-putin-a-gilded-bridge-out-of-ukraine-the-lessons-of-the-soviet-retreat-from-afghanistan-submitted-on-2022-05-24-2338200800" id="markdown-toc-254-how-to-build-putin-a-gilded-bridge-out-of-ukraine-the-lessons-of-the-soviet-retreat-from-afghanistan-submitted-on-2022-05-24-2338200800">254: How to Build Putin a Gilded Bridge Out of Ukraine: The Lessons of the Soviet Retreat From Afghanistan, submitted on 2022-05-24 23:38:20+08:00.</a></li>
+  <li><a href="#255-putin-is-going-to-lose-his-war-and-the-world-should-prepare-for-instability-in-russia-submitted-on-2022-05-25-2150220800" id="markdown-toc-255-putin-is-going-to-lose-his-war-and-the-world-should-prepare-for-instability-in-russia-submitted-on-2022-05-25-2150220800">255: Putin Is Going to Lose His War: And the World Should Prepare for Instability in Russia, submitted on 2022-05-25 21:50:22+08:00.</a></li>
+  <li><a href="#256-anders-aslund-putin-is-going-to-lose-his-war-in-ukraine-submitted-on-2022-05-25-2152040800" id="markdown-toc-256-anders-aslund-putin-is-going-to-lose-his-war-in-ukraine-submitted-on-2022-05-25-2152040800">256: Anders Aslund: Putin Is Going to Lose His War in Ukraine, submitted on 2022-05-25 21:52:04+08:00.</a></li>
+  <li><a href="#257-how-australia-passed-gun-control-submitted-on-2022-05-25-2222150800" id="markdown-toc-257-how-australia-passed-gun-control-submitted-on-2022-05-25-2222150800">257: How Australia Passed Gun Control, submitted on 2022-05-25 22:22:15+08:00.</a></li>
+  <li><a href="#258-how-australia-passed-gun-control-the-port-arthur-massacre-and-beyond-submitted-on-2022-05-25-2226200800" id="markdown-toc-258-how-australia-passed-gun-control-the-port-arthur-massacre-and-beyond-submitted-on-2022-05-25-2226200800">258: How Australia Passed Gun Control: The Port Arthur Massacre and Beyond, submitted on 2022-05-25 22:26:20+08:00.</a></li>
+  <li><a href="#259-putin-against-history-how-his-war-has-erased-russias-pastand-endangered-its-future-submitted-on-2022-05-26-2305560800" id="markdown-toc-259-putin-against-history-how-his-war-has-erased-russias-pastand-endangered-its-future-submitted-on-2022-05-26-2305560800">259: Putin Against History: How His War Has Erased Russia’s Past—And Endangered Its Future, submitted on 2022-05-26 23:05:56+08:00.</a></li>
+  <li><a href="#260-every-city-needs-a-chief-heat-officer-a-first-step-toward-adapting-to-deadly-high-temperatures-submitted-on-2022-05-26-2314070800" id="markdown-toc-260-every-city-needs-a-chief-heat-officer-a-first-step-toward-adapting-to-deadly-high-temperatures-submitted-on-2022-05-26-2314070800">260: Every City Needs a Chief Heat Officer: A First Step Toward Adapting to Deadly High Temperatures, submitted on 2022-05-26 23:14:07+08:00.</a></li>
+  <li><a href="#261-what-putin-got-wrong-about-ukraine-russia-and-the-west-a-conversation-with-stephen-kotkin-submitted-on-2022-05-27-0203460800" id="markdown-toc-261-what-putin-got-wrong-about-ukraine-russia-and-the-west-a-conversation-with-stephen-kotkin-submitted-on-2022-05-27-0203460800">261: What Putin Got Wrong About Ukraine, Russia, and the West: A Conversation With Stephen Kotkin, submitted on 2022-05-27 02:03:46+08:00.</a></li>
+  <li><a href="#262-what-putin-got-wrong-about-ukraine-russia-and-the-west-a-conversation-with-stephen-kotkin-submitted-on-2022-05-27-0207460800" id="markdown-toc-262-what-putin-got-wrong-about-ukraine-russia-and-the-west-a-conversation-with-stephen-kotkin-submitted-on-2022-05-27-0207460800">262: What Putin Got Wrong About Ukraine, Russia, and the West: A Conversation With Stephen Kotkin, submitted on 2022-05-27 02:07:46+08:00.</a></li>
+  <li><a href="#263-what-putin-got-wrong-about-ukraine-russia-and-the-west-a-conversation-with-stephen-kotkin-submitted-on-2022-05-27-0217040800" id="markdown-toc-263-what-putin-got-wrong-about-ukraine-russia-and-the-west-a-conversation-with-stephen-kotkin-submitted-on-2022-05-27-0217040800">263: What Putin Got Wrong About Ukraine, Russia, and the West: A Conversation With Stephen Kotkin, submitted on 2022-05-27 02:17:04+08:00.</a></li>
+</ul>
+
+<h3 id="251-weekly-podcast-thread-may-23-2022---please-share-your-show-here-submitted-on-2022-05-23-1830100800">251: <a href="https://old.reddit.com/r/podcast/comments/uvx64j/weekly_podcast_thread_may_23_2022_please_share/">Weekly Podcast Thread May 23, 2022 - Please Share Your Show Here!</a>, submitted on 2022-05-23 18:30:10+08:00.</h3>
+
+<p>—– <strong>251.1</strong> —–2022-05-23 22:30:37+08:00:</p>
+
+<p><a href="https://podcasts.apple.com/us/podcast/the-foreign-affairs-interview/id1623855270"><strong>[International Relations, Discussion] The Foreign Affairs Interview</strong></a><br />
+The first episode of our new podcast, “The Foreign Affairs Interview,” will be available May 26! Hosted by editor Daniel Kurtz-Phelan, the biweekly podcast will offer the same authoritative analysis that you find in the magazine and on the website.</p>
+
+<h3 id="252-pakistan-reaps-what-it-sowed-how-the-countrys-support-for-the-taliban-backfired-submitted-on-2022-05-24-0135360800">252: <a href="https://old.reddit.com/r/afghanistan/comments/uw5o6c/pakistan_reaps_what_it_sowed_how_the_countrys/">Pakistan Reaps What It Sowed: How the Country’s Support for the Taliban Backfired</a>, submitted on 2022-05-24 01:35:36+08:00.</h3>
+
+<p>—– <strong>252.1</strong> —–2022-05-24 01:35:59+08:00:</p>
+
+<p>Find Foreign Affairs on Telegram: <a href="https://t.me/Foreign_Affairs_Magazine">https://t.me/Foreign_Affairs_Magazine</a></p>
+
+<h3 id="253-how-to-make-bidens-free-world-strategy-work-its-not-as-simple-as-pitting-democracy-against-autocracy-submitted-on-2022-05-24-2335150800">253: <a href="https://old.reddit.com/r/geopolitics/comments/uwtlup/how_to_make_bidens_free_world_strategy_work_its/">How to Make Biden’s Free World Strategy Work: It’s Not as Simple as Pitting Democracy Against Autocracy</a>, submitted on 2022-05-24 23:35:15+08:00.</h3>
+
+<p>—– <strong>253.1</strong> —–2022-05-24 23:36:25+08:00:</p>
+
+<p>[SS from the article by Hal Brands, Professor of Global Affairs at the Johns Hopkins School of Advanced International Studies and a Senior Fellow at the American Enterprise Institute.]</p>
+
+<p>“Crises illuminate the contours of world affairs, and the war in Ukraine has had a clarifying effect on the Biden administration’s approach to the world. Since taking office, U.S. President Joe Biden has argued that the struggle between democracy and autocracy is the defining clash of our time, even as critics and some members of his administration haven’t always agreed. For Biden, at least, the Russian invasion and the world’s response to it has proved that he was right all along.</p>
+
+<p>In his State of Union address in early March, Biden described the war in Ukraine as a battle between freedom and tyranny. In Warsaw a few weeks later, in another speech replete with Cold War echoes, the president announced that Washington would lead the free world to victory in a great struggle “between democracy and autocracy, between liberty and repression, between a rules-based order and one governed by brute force.”</p>
+
+<p>Biden has good reason to be hitting these themes hard. The Russian invasion has shown how deeply the struggle to shape global order is rooted in opposing conceptions of domestic order. It has clarified and intensified the struggle between advanced democracies and Eurasian autocracies. And it has given Biden’s foreign policy, which seemed headed for frustration if not outright failure just a few months ago, a new lease on life. Yet critics of the democracy-autocracy thesis aren’t wrong to argue that the world isn’t quite so simple. Winning this contest of systems will require crafting a strategy that takes these complexities into account.</p>
+
+<p>Biden must first specify what Washington opposes—not the existence of autocracy but that combination of tyranny, power, and hostility that so threatens the United States and the international order it has built. He must then flesh out his concept of the “free world,” a familiar term that can be more flexible than it sounds. Finally, his administration must address four key problems that this framing implies. A free-world strategy can help Washington prevent this century from becoming an age of autocratic advantage—but it raises pointed questions about who’s in, who’s out, and how to navigate a world that is increasingly divided and stubbornly interdependent at the same time.”</p>
+
+<p>Find Foreign Affairs on Telegram: <a href="https://t.me/Foreign_Affairs_Magazine">https://t.me/Foreign_Affairs_Magazine</a></p>
+
+<h3 id="254-how-to-build-putin-a-gilded-bridge-out-of-ukraine-the-lessons-of-the-soviet-retreat-from-afghanistan-submitted-on-2022-05-24-2338200800">254: <a href="https://old.reddit.com/r/UkrainianConflict/comments/uwtoia/how_to_build_putin_a_gilded_bridge_out_of_ukraine/">How to Build Putin a Gilded Bridge Out of Ukraine: The Lessons of the Soviet Retreat From Afghanistan</a>, submitted on 2022-05-24 23:38:20+08:00.</h3>
+
+<p>—– <strong>254.1</strong> —–2022-05-24 23:38:41+08:00:</p>
+
+<p>Find Foreign Affairs on Telegram: <a href="https://t.me/Foreign_Affairs_Magazine">https://t.me/Foreign_Affairs_Magazine</a></p>
+
+<h3 id="255-putin-is-going-to-lose-his-war-and-the-world-should-prepare-for-instability-in-russia-submitted-on-2022-05-25-2150220800">255: <a href="https://old.reddit.com/r/UkrainianConflict/comments/uxhtrp/putin_is_going_to_lose_his_war_and_the_world/">Putin Is Going to Lose His War: And the World Should Prepare for Instability in Russia</a>, submitted on 2022-05-25 21:50:22+08:00.</h3>
+
+<p>—– <strong>255.1</strong> —–2022-05-25 21:50:38+08:00:</p>
+
+<p>Find Foreign Affairs on Telegram: <a href="https://t.me/Foreign_Affairs_Magazine">https://t.me/Foreign_Affairs_Magazine</a></p>
+
+<h3 id="256-anders-aslund-putin-is-going-to-lose-his-war-in-ukraine-submitted-on-2022-05-25-2152040800">256: <a href="https://old.reddit.com/r/europe/comments/uxhuwx/anders_aslund_putin_is_going_to_lose_his_war_in/">Anders Aslund: Putin Is Going to Lose His War in Ukraine</a>, submitted on 2022-05-25 21:52:04+08:00.</h3>
+
+<p>—– <strong>256.1</strong> —–2022-05-25 21:52:16+08:00:</p>
+
+<p>Find Foreign Affairs on Telegram: <a href="https://t.me/Foreign_Affairs_Magazine">https://t.me/Foreign_Affairs_Magazine</a></p>
+
+<h3 id="257-how-australia-passed-gun-control-submitted-on-2022-05-25-2222150800">257: <a href="https://old.reddit.com/r/politics/comments/uxihp1/how_australia_passed_gun_control/">How Australia Passed Gun Control</a>, submitted on 2022-05-25 22:22:15+08:00.</h3>
+
+<p>—– <strong>257.1</strong> —–2022-05-25 22:22:49+08:00:</p>
+
+<p>How did Australia succeed in passing gun-control reforms, and what can the United States learn from that example today? Revisit R. James Breiding’s 2017 article here.</p>
+
+<h3 id="258-how-australia-passed-gun-control-the-port-arthur-massacre-and-beyond-submitted-on-2022-05-25-2226200800">258: <a href="https://old.reddit.com/r/TrueReddit/comments/uxikqi/how_australia_passed_gun_control_the_port_arthur/">How Australia Passed Gun Control: The Port Arthur Massacre and Beyond</a>, submitted on 2022-05-25 22:26:20+08:00.</h3>
+
+<p>—– <strong>258.1</strong> —–2022-05-25 22:27:28+08:00:</p>
+
+<p>[SS from the article by R. James Breiding]</p>
+
+<p>“It has been 21 years since Carolyn Loughton lay helplessly with her lifeless daughter in her arms and Australians woke up to the need to reform their gun laws. Few Australians would deny that their country is safer today as a consequence of gun control. In the 18 years before the 1996 reforms, Australia suffered 13 gun massacres. Since then, there has not been a single one. But how did Australia succeed in passing these reforms, and what can the United States learn from them today?”</p>
+
+<p>From the archive: Revisit R. James Breiding’s 2017 article here.</p>
+
+<h3 id="259-putin-against-history-how-his-war-has-erased-russias-pastand-endangered-its-future-submitted-on-2022-05-26-2305560800">259: <a href="https://old.reddit.com/r/UkrainianConflict/comments/uy9oqv/putin_against_history_how_his_war_has_erased/">Putin Against History: How His War Has Erased Russia’s Past—And Endangered Its Future</a>, submitted on 2022-05-26 23:05:56+08:00.</h3>
+
+<p>—– <strong>259.1</strong> —–2022-05-26 23:06:12+08:00:</p>
+
+<p>Find Foreign Affairs on Telegram: <a href="https://t.me/Foreign_Affairs_Magazine">https://t.me/Foreign_Affairs_Magazine</a></p>
+
+<h3 id="260-every-city-needs-a-chief-heat-officer-a-first-step-toward-adapting-to-deadly-high-temperatures-submitted-on-2022-05-26-2314070800">260: <a href="https://old.reddit.com/r/TrueReddit/comments/uy9v2w/every_city_needs_a_chief_heat_officer_a_first/">Every City Needs a Chief Heat Officer: A First Step Toward Adapting to Deadly High Temperatures</a>, submitted on 2022-05-26 23:14:07+08:00.</h3>
+
+<p>—– <strong>260.1</strong> —–2022-05-26 23:15:45+08:00:</p>
+
+<p>[SS from the article by Kathy Baughman McLeod, Director of the Atlantic Council’s Adrienne Arsht–Rockefeller Foundation Resilience Center]</p>
+
+<p>“Global warming is already harming the current and future U.S. workforce. Extreme heat costs the United States more than $100 billion per year due to reduced worker productivity: people get sick, slow down, and make mistakes due to the physical effects of heat. Children’s school performance can decline as temperatures soar. According to researchers at the University of California at Los Angeles, each one degree Fahrenheit increase in temperature during the academic school year reduces the amount learned that year by one percent—and students from low-income and minority groups are the ones most affected.</p>
+
+<p>City dwellers—some 55 percent of the world’s population, or about 4.2 billion people—are especially vulnerable to the effects of climate change. The asphalt, cement, glass, and steel that are features of most urban areas are especially efficient at absorbing, retaining, and emanating heat. The so-called heat island effect can cause temperatures up to seven degrees Fahrenheit hotter in urban environments than in suburbs and rural regions, which have more green space and foliage.</p>
+
+<p>A relatively simple way in which cities can protect their residents is by putting someone in charge of responding to the most harmful effects of climate change.  After all, cities have departments for fighting fires and for coordinating responses to regional floods, earthquakes, and hurricanes. But just a handful of cities in the world have someone whose job it is to craft and implement plans to respond to rising temperatures. To save lives, every municipal leader should appoint a chief heat officer, or CHO.”</p>
+
+<h3 id="261-what-putin-got-wrong-about-ukraine-russia-and-the-west-a-conversation-with-stephen-kotkin-submitted-on-2022-05-27-0203460800">261: <a href="https://old.reddit.com/r/u_ForeignAffairsMag/comments/uydk40/what_putin_got_wrong_about_ukraine_russia_and_the/">What Putin Got Wrong About Ukraine, Russia, and the West: A Conversation With Stephen Kotkin</a>, submitted on 2022-05-27 02:03:46+08:00.</h3>
+
+<p>—– <strong>261.1</strong> —–2022-05-27 02:05:03+08:00:</p>
+
+<p>Listen to the first episode of our new podcast, “The Foreign Affairs Interview,” featuring a conversation with Stephen Kotkin on Russian history, Putin’s leadership, and what will happen next in Ukraine.</p>
+
+<h3 id="262-what-putin-got-wrong-about-ukraine-russia-and-the-west-a-conversation-with-stephen-kotkin-submitted-on-2022-05-27-0207460800">262: <a href="https://old.reddit.com/r/UkrainianConflict/comments/uydn8t/what_putin_got_wrong_about_ukraine_russia_and_the/">What Putin Got Wrong About Ukraine, Russia, and the West: A Conversation With Stephen Kotkin</a>, submitted on 2022-05-27 02:07:46+08:00.</h3>
+
+<p>—– <strong>262.1</strong> —–2022-05-27 02:08:28+08:00:</p>
+
+<p>[SS]</p>
+
+<p>In the first episode of “The Foreign Affairs Interview,” editor Dan Kurtz Phelan sits down with historian Stephen Kotkin to discuss the war in Ukraine, Russian capabilities and ambitions, and why Putin underestimated the West.</p>
+
+<h3 id="263-what-putin-got-wrong-about-ukraine-russia-and-the-west-a-conversation-with-stephen-kotkin-submitted-on-2022-05-27-0217040800">263: <a href="https://old.reddit.com/r/geopolitics/comments/uydujl/what_putin_got_wrong_about_ukraine_russia_and_the/">What Putin Got Wrong About Ukraine, Russia, and the West: A Conversation With Stephen Kotkin</a>, submitted on 2022-05-27 02:17:04+08:00.</h3>
+
+<p>—– <strong>263.1</strong> —–2022-05-27 02:17:32+08:00:</p>
+
+<p>[SS]</p>
+
+<p>“If you’re Putin, you’re holding out not just for those weaknesses that you perceive or hope are there … Something else could happen in the world that could come to your rescue.”</p>
+
+<p>Listen to the first episode of our new podcast, “The Foreign Affairs Interview,” featuring a conversation with Stephen Kotkin on Russian history, Putin’s leadership, and what will happen next in Ukraine.</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-05-29</time>
+        <a href="https://nodebe4.github.io/opinion/2022-05-29/EnclavedMicrostate/">
+          EnclavedMicrostate在2022-05-23~2022-05-29的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-05-28</time>
+        <a href="https://nodebe4.github.io/opinion/2022-05-28/theoryofdoom/">
+          theoryofdoom在2022-05-23~2022-05-29的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-05-22</time>
+        <a href="https://nodebe4.github.io/opinion/2022-05-22/Spinkcat/">
+          Spinkcat在2022-05-16~2022-05-22的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-05-22</time>
+        <a href="https://nodebe4.github.io/opinion/2022-05-22/EnclavedMicrostate/">
+          EnclavedMicrostate在2022-05-16~2022-05-22的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-05-25/%E4%B8%81%E5%86%A0%E4%B8%AD%E6%95%99%E6%8E%88%E7%9A%84%E5%AD%B8%E6%80%9D%E6%AD%B7%E7%A8%8B-110-2-%E6%88%91%E7%9A%84%E5%AD%B8%E6%80%9D%E6%AD%B7%E7%A8%8B/">
+            前一篇：丁冠中教授的學思歷程 | 110-2 我的學思歷程
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-05-27/SpeechFreedomCN/">
+            後一篇：Twitter @中国文字狱事件盘点: 2022-05-23~2022-05-29
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-05-25/%E4%B8%81%E5%86%A0%E4%B8%AD%E6%95%99%E6%8E%88%E7%9A%84%E5%AD%B8%E6%80%9D%E6%AD%B7%E7%A8%8B-110-2-%E6%88%91%E7%9A%84%E5%AD%B8%E6%80%9D%E6%AD%B7%E7%A8%8B/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-05-27/SpeechFreedomCN/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-05-28/theoryofdoom/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-05-22/Spinkcat/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-05-25/%E4%B8%81%E5%86%A0%E4%B8%AD%E6%95%99%E6%8E%88%E7%9A%84%E5%AD%B8%E6%80%9D%E6%AD%B7%E7%A8%8B-110-2-%E6%88%91%E7%9A%84%E5%AD%B8%E6%80%9D%E6%AD%B7%E7%A8%8B/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-05-27/SpeechFreedomCN/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-05-28/theoryofdoom/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-05-22/Spinkcat/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

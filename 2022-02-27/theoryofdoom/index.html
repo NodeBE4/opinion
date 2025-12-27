@@ -1,0 +1,2667 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>theoryofdoom在2022-02-21~2022-02-27的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="theoryofdoom在2022-02-21~2022-02-27的言论" />
+    <meta property="twitter:title" content="theoryofdoom在2022-02-21~2022-02-27的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2Fgeopolitics%2Fcomments%2Fsx4wo8%2Fbond_between_china_and_russia_alarms_us_and%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/geopolitics/comments/sx4wo8/bond_between_china_and_russia_alarms_us_and/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/geopolitics/comments/sx4wo8/bond_between_china_and_russia_alarms_us_and/&text=theoryofdoom在2022-02-21~2022-02-27的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/geopolitics/comments/sx4wo8/bond_between_china_and_russia_alarms_us_and/&title=theoryofdoom在2022-02-21~2022-02-27的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/geopolitics/comments/sx4wo8/bond_between_china_and_russia_alarms_us_and/&title=theoryofdoom在2022-02-21~2022-02-27的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=theoryofdoom在2022-02-21~2022-02-27的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/geopolitics/comments/sx4wo8/bond_between_china_and_russia_alarms_us_and/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/geopolitics/comments/sx4wo8/bond_between_china_and_russia_alarms_us_and/&title=theoryofdoom在2022-02-21~2022-02-27的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=theoryofdoom在2022-02-21~2022-02-27的言论&url=https://old.reddit.com/r/geopolitics/comments/sx4wo8/bond_between_china_and_russia_alarms_us_and/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>theoryofdoom在2022-02-21~2022-02-27的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-02-27
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: theoryofdoom</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/geopolitics/comments/sx4wo8/bond_between_china_and_russia_alarms_us_and/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#115-bond-between-china-and-russia-alarms-us-and-europe-amid-ukraine-crisis-submitted-on-2022-02-21-0023500800" id="markdown-toc-115-bond-between-china-and-russia-alarms-us-and-europe-amid-ukraine-crisis-submitted-on-2022-02-21-0023500800">115: Bond Between China and Russia Alarms U.S. and Europe Amid Ukraine Crisis, submitted on 2022-02-21 00:23:50+08:00.</a></li>
+  <li><a href="#116-police-wants-to-get-inside-this-ottawa-restaurant-and-even-threatens-to-smash-the-windows-their-crime-serving-food-and-coffee-to-protesters-this-is-absolutely-insane-submitted-on-2022-02-21-0254010800" id="markdown-toc-116-police-wants-to-get-inside-this-ottawa-restaurant-and-even-threatens-to-smash-the-windows-their-crime-serving-food-and-coffee-to-protesters-this-is-absolutely-insane-submitted-on-2022-02-21-0254010800">116: Police wants to get inside this Ottawa restaurant and even threatens to smash the windows. Their crime? Serving food and coffee to protesters. This is absolutely insane., submitted on 2022-02-21 02:54:01+08:00.</a></li>
+  <li><a href="#117-its-getting-increasingly-difficult-to-tell-the-difference-between-real-wokeism-and-fake-wokeism-because-everything-is-so-absurd-lately-submitted-on-2022-02-21-0311500800" id="markdown-toc-117-its-getting-increasingly-difficult-to-tell-the-difference-between-real-wokeism-and-fake-wokeism-because-everything-is-so-absurd-lately-submitted-on-2022-02-21-0311500800">117: It’s getting increasingly difficult to tell the difference between “real” wokeism and “fake” wokeism because everything is so absurd lately, submitted on 2022-02-21 03:11:50+08:00.</a></li>
+  <li><a href="#118-vladikavkaz-submitted-on-2022-02-21-0414470800" id="markdown-toc-118-vladikavkaz-submitted-on-2022-02-21-0414470800">118: Vladikavkaz, submitted on 2022-02-21 04:14:47+08:00.</a></li>
+  <li><a href="#119-couples-where-1-wears-a-mask-and-1-doesnt-submitted-on-2022-02-21-1151520800" id="markdown-toc-119-couples-where-1-wears-a-mask-and-1-doesnt-submitted-on-2022-02-21-1151520800">119: Couples where 1 wears a mask and 1 doesn’t…, submitted on 2022-02-21 11:51:52+08:00.</a></li>
+  <li><a href="#120-any-thoughts-on-canada-right-now-submitted-on-2022-02-21-1229100800" id="markdown-toc-120-any-thoughts-on-canada-right-now-submitted-on-2022-02-21-1229100800">120: Any thoughts on Canada right now?, submitted on 2022-02-21 12:29:10+08:00.</a></li>
+  <li><a href="#121-when-will-chicago-end-vaccine-card-requirement-heres-what-we-know-submitted-on-2022-02-21-2011320800" id="markdown-toc-121-when-will-chicago-end-vaccine-card-requirement-heres-what-we-know-submitted-on-2022-02-21-2011320800">121: When Will Chicago End Vaccine Card Requirement? Here’s What We Know, submitted on 2022-02-21 20:11:32+08:00.</a></li>
+  <li><a href="#122-what-will-happen-if-turkey-decides-to-block-the-bosporus-straits-for-russian-ships-submitted-on-2022-02-22-0409250800" id="markdown-toc-122-what-will-happen-if-turkey-decides-to-block-the-bosporus-straits-for-russian-ships-submitted-on-2022-02-22-0409250800">122: What will happen if Turkey decides to block the Bosporus straits for Russian ships?, submitted on 2022-02-22 04:09:25+08:00.</a></li>
+  <li><a href="#123-chicago-expected-to-provide-update-on-mask-mandate-this-week-submitted-on-2022-02-22-1956400800" id="markdown-toc-123-chicago-expected-to-provide-update-on-mask-mandate-this-week-submitted-on-2022-02-22-1956400800">123: Chicago Expected to Provide Update on Mask Mandate This Week, submitted on 2022-02-22 19:56:40+08:00.</a></li>
+  <li><a href="#124-chicago-to-lift-mask-and-vaccine-mandates-on-feb-28-but-keep-masks-in-schools-for-now-submitted-on-2022-02-23-0312290800" id="markdown-toc-124-chicago-to-lift-mask-and-vaccine-mandates-on-feb-28-but-keep-masks-in-schools-for-now-submitted-on-2022-02-23-0312290800">124: Chicago to lift mask and vaccine mandates on Feb. 28, but keep masks in schools for now, submitted on 2022-02-23 03:12:29+08:00.</a></li>
+  <li><a href="#125-what-corporate-buzzwordsphrases-make-your-skin-crawl-submitted-on-2022-02-24-0152230800" id="markdown-toc-125-what-corporate-buzzwordsphrases-make-your-skin-crawl-submitted-on-2022-02-24-0152230800">125: What corporate buzzwords/phrases make your skin crawl?, submitted on 2022-02-24 01:52:23+08:00.</a></li>
+  <li><a href="#126-people-informally-talk-about-russias-invasion-of-ukraine-as-starting-wwiii-how-similar-is-this-to-nazi-germanys-invasion-of-poland-effectively-starting-wwii-submitted-on-2022-02-24-0223110800" id="markdown-toc-126-people-informally-talk-about-russias-invasion-of-ukraine-as-starting-wwiii-how-similar-is-this-to-nazi-germanys-invasion-of-poland-effectively-starting-wwii-submitted-on-2022-02-24-0223110800">126: People informally talk about Russia’s invasion of Ukraine as “starting WWIII.” How similar is this to Nazi Germany’s invasion of Poland, effectively starting WWII?, submitted on 2022-02-24 02:23:11+08:00.</a></li>
+  <li><a href="#127-how-ukraine-was-betrayed-in-budapest-submitted-on-2022-02-24-0755140800" id="markdown-toc-127-how-ukraine-was-betrayed-in-budapest-submitted-on-2022-02-24-0755140800">127: How Ukraine Was Betrayed in Budapest, submitted on 2022-02-24 07:55:14+08:00.</a></li>
+  <li><a href="#128-ukraine-megathread---all-new-posts-go-here-so-long-as-it-is-stickied-submitted-on-2022-02-24-2235220800" id="markdown-toc-128-ukraine-megathread---all-new-posts-go-here-so-long-as-it-is-stickied-submitted-on-2022-02-24-2235220800">128: Ukraine Megathread - (All new posts go here so long as it is stickied), submitted on 2022-02-24 22:35:22+08:00.</a></li>
+  <li><a href="#129-cdc-to-update-masking-guidance-as-soon-as-friday-submitted-on-2022-02-25-0559300800" id="markdown-toc-129-cdc-to-update-masking-guidance-as-soon-as-friday-submitted-on-2022-02-25-0559300800">129: CDC to update masking guidance as soon as Friday, submitted on 2022-02-25 05:59:30+08:00.</a></li>
+  <li><a href="#130-putin-is-attacking-more-than-just-ukraine--summary-and-implications-of-recent-reports-submitted-on-2022-02-25-1205130800" id="markdown-toc-130-putin-is-attacking-more-than-just-ukraine--summary-and-implications-of-recent-reports-submitted-on-2022-02-25-1205130800">130: “Putin is attacking more than just Ukraine” | Summary and implications of recent reports, submitted on 2022-02-25 12:05:13+08:00.</a></li>
+  <li><a href="#131-cdc-changes-mask-guidance-submitted-on-2022-02-26-0735210800" id="markdown-toc-131-cdc-changes-mask-guidance-submitted-on-2022-02-26-0735210800">131: CDC Changes Mask Guidance, submitted on 2022-02-26 07:35:21+08:00.</a></li>
+  <li><a href="#132-pritzker-illinois-school-mask-mandate-being-lifted-on-monday-submitted-on-2022-02-26-0821250800" id="markdown-toc-132-pritzker-illinois-school-mask-mandate-being-lifted-on-monday-submitted-on-2022-02-26-0821250800">132: Pritzker: Illinois school mask mandate being lifted on Monday, submitted on 2022-02-26 08:21:25+08:00.</a></li>
+  <li><a href="#133-young-russian-soldier-cries-as-the-local-residents-of-sumy-tell-him-that-he-is-not-welcome-in-their-country-submitted-on-2022-02-26-1707110800" id="markdown-toc-133-young-russian-soldier-cries-as-the-local-residents-of-sumy-tell-him-that-he-is-not-welcome-in-their-country-submitted-on-2022-02-26-1707110800">133: Young Russian soldier cries as the local residents of Sumy tell him that he is not welcome in their country, submitted on 2022-02-26 17:07:11+08:00.</a></li>
+  <li><a href="#134-im-a-russian-living-in-america-getting-shit-for-being-russian-ama-submitted-on-2022-02-26-2235400800" id="markdown-toc-134-im-a-russian-living-in-america-getting-shit-for-being-russian-ama-submitted-on-2022-02-26-2235400800">134: I’m a Russian, living in America, getting shit for being Russian. AMA, submitted on 2022-02-26 22:35:40+08:00.</a></li>
+  <li><a href="#135-are-we-ready-to-leave-masks-behind-its-going-to-be-weird-submitted-on-2022-02-27-0039320800" id="markdown-toc-135-are-we-ready-to-leave-masks-behind-its-going-to-be-weird-submitted-on-2022-02-27-0039320800">135: Are we ready to leave masks behind? ‘It’s going to be weird’, submitted on 2022-02-27 00:39:32+08:00.</a></li>
+  <li><a href="#136-you-cant-make-this-shit-up-submitted-on-2022-02-27-0149000800" id="markdown-toc-136-you-cant-make-this-shit-up-submitted-on-2022-02-27-0149000800">136: You can’t make this shit up…, submitted on 2022-02-27 01:49:00+08:00.</a></li>
+  <li><a href="#137-who-is-the-best-male-character-who-isnt-a-tough-badass-submitted-on-2022-02-27-0236050800" id="markdown-toc-137-who-is-the-best-male-character-who-isnt-a-tough-badass-submitted-on-2022-02-27-0236050800">137: Who is the best male character who ISN’T a tough badass?, submitted on 2022-02-27 02:36:05+08:00.</a></li>
+  <li><a href="#138-another-captive-russian-solgier-being-interrogated-in-ukraine-submitted-on-2022-02-27-0347500800" id="markdown-toc-138-another-captive-russian-solgier-being-interrogated-in-ukraine-submitted-on-2022-02-27-0347500800">138: Another captive Russian solgier being interrogated in Ukraine., submitted on 2022-02-27 03:47:50+08:00.</a></li>
+  <li><a href="#139-near-future-predictions-of-the-world-after-the-russian-invasion-of-ukraine-2022-submitted-on-2022-02-27-1109160800" id="markdown-toc-139-near-future-predictions-of-the-world-after-the-russian-invasion-of-ukraine-2022-submitted-on-2022-02-27-1109160800">139: Near-future predictions of the world after the Russian invasion of Ukraine (2022), submitted on 2022-02-27 11:09:16+08:00.</a></li>
+</ul>
+
+<h3 id="115-bond-between-china-and-russia-alarms-us-and-europe-amid-ukraine-crisis-submitted-on-2022-02-21-0023500800">115: <a href="https://old.reddit.com/r/geopolitics/comments/sx4wo8/bond_between_china_and_russia_alarms_us_and/">Bond Between China and Russia Alarms U.S. and Europe Amid Ukraine Crisis</a>, submitted on 2022-02-21 00:23:50+08:00.</h3>
+
+<p>—– <strong>115.1</strong> —–2022-02-21 00:28:06+08:00:</p>
+
+<p>Submission Statement:</p>
+
+<p>There is growing concern among leaders and stakeholders in Washington and Europe on the future of Sino-Russian relations.  Sino-Russian relations have historically been tenuous at best, facing numerous and significant challenges even throughout the Cold War.  Yet, the status quo appears to be changing.  In a <a href="https://archive.fo/o4hU9">recent a forward-looking joint statement</a> from Vladimir Putin and Xi Jinping suggests the possibility for <a href="https://archive.fo/My2Fq">significantly more</a> based on shared interests.  Ukraine was not mentioned, though Xi explicitly backed Russia’s opposition to any further enlargement of NATO membership.  Likewise, Putin echoed Xi’s opposition to Taiwan’s having “any form of independence.”  This article examines the relationship between Russia and China and considers implications to Western interests.</p>
+
+<ul>
+  <li><a href="https://www.nytimes.com/2022/02/20/us/politics/russia-china-ukraine-biden.html">Source</a></li>
+  <li><a href="https://archive.fo/JQjk3">No Pay-Wall</a></li>
+</ul>
+
+<p>Further Reading:</p>
+
+<ul>
+  <li><a href="https://archive.fo/o4hU9">Joint Statement</a></li>
+  <li><a href="https://archive.fo/My2Fq">What Is - and isn’t - in the Joint Statement from Putin and Xi</a></li>
+</ul>
+
+<p>—– <strong>115.2</strong> —–2022-02-21 00:52:01+08:00:</p>
+
+<p>That’s a very good observation.  I think that article’s characterizing Wang’s statements as “humiliating” to Vladimir Putin are hyperbolic, but I agree that China would have reservations about supporting Russia invading Ukraine under the current circumstances.  Read together in context, what should be taken from the joint statement and Wang’s comments is that Putin stands to lose future Chinese cooperation if he acts too precipitously in Ukraine and it plays out badly.  But there’s a lot left open to question, too.</p>
+
+<p>—– <strong>115.3</strong> —–2022-02-21 01:08:18+08:00:</p>
+
+<p>That doesn’t make sense.  China regards Taiwan as a part of China.  See generally, “One China” policy.  Russia does not recognize the additional parts of Ukraine it purportedly considers invading as its own.  The issue is whether, if Russia further invades Ukraine and annexes it outright without answer from NATO, what precedent does that set for China’s interests related to Taiwan?  Will Western interests stand behind Taiwan or not?  That’s one of the main unresolved questions.</p>
+
+<p>—– <strong>115.4</strong> —–2022-02-21 01:17:02+08:00:</p>
+
+<blockquote>
+  <p>First, China eclipsed Russian power quite some time ago, but Russia would refuse to be the junior partner in such an arrangement for a variety of reasons.</p>
+</blockquote>
+
+<p>I agree with the above.  Somewhat related to your second point, from a tactical perspective, Beijing sees Russia as a relationship of temporal convenience — and little more.  The current extent to which Russia and China are cooperating is alarming to most in the West who are paying attention.  But, Russia’s unwillingness to be the servient partner is an existential barrier to long-term Sino-Russian cooperation.</p>
+
+<p>Geopolitical reality precludes anything long term.  This is also an unresolved challenge for China’s envisioned future of Belt and Road.</p>
+
+<p>—– <strong>115.5</strong> —–2022-02-21 01:30:40+08:00:</p>
+
+<blockquote>
+  <p>People keep repeating this, but it has little basis in reality. All the border disputes were settled in 2004. There is almost no practical reason for this either.</p>
+</blockquote>
+
+<p>I agree with this as well, though China’s interest in Siberia has less to do with border conflicts and more to do with over-land transportation.  Namely, moving cargo across the former Soviet rail network, as demonstrated by China’s Khorgos-based land port.</p>
+
+<p>—– <strong>115.6</strong> —–2022-02-21 04:53:25+08:00:</p>
+
+<p>Additional Further Reading, alternative perspective:</p>
+
+<ul>
+  <li><a href="https://thediplomat.com/2022/02/why-china-will-not-support-a-russian-invasion-of-ukraine/">Why China Will Not Support a Russian Invasion of Ukraine</a></li>
+</ul>
+
+<p>I make no comment on this article, but it has been shared elsewhere and offers a perspective on these issues.</p>
+
+<p>—– <strong>115.7</strong> —–2022-02-21 08:06:44+08:00:</p>
+
+<blockquote>
+  <p>What does Russia want from Ukraine?</p>
+</blockquote>
+
+<p><a href="https://www.reddit.com/r/geopolitics/comments/s77r57/russia_moves_more_troops_westward_amid_ukraine/ht8mmw4/?context=3">Here’s what Russia wants from Ukraine</a>.</p>
+
+<p>—– <strong>115.8</strong> —–2022-02-21 20:20:35+08:00:</p>
+
+<p>Thank you.  It’s just a matter of recognizing where the pieces sit on the chessboard, and being able to anticipate the next couple of moves.</p>
+
+<h3 id="116-police-wants-to-get-inside-this-ottawa-restaurant-and-even-threatens-to-smash-the-windows-their-crime-serving-food-and-coffee-to-protesters-this-is-absolutely-insane-submitted-on-2022-02-21-0254010800">116: <a href="https://old.reddit.com/r/walkaway/comments/sx8cr2/police_wants_to_get_inside_this_ottawa_restaurant/">Police wants to get inside this Ottawa restaurant and even threatens to smash the windows. Their crime? Serving food and coffee to protesters. This is absolutely insane.</a>, submitted on 2022-02-21 02:54:01+08:00.</h3>
+
+<p>—– <strong>116.1</strong> —–2022-02-21 08:09:29+08:00:</p>
+
+<p>A <a href="https://www.youtube.com/watch?v=5efyUt5YDU0">notable reality check</a>.</p>
+
+<h3 id="117-its-getting-increasingly-difficult-to-tell-the-difference-between-real-wokeism-and-fake-wokeism-because-everything-is-so-absurd-lately-submitted-on-2022-02-21-0311500800">117: <a href="https://old.reddit.com/r/stupidpol/comments/sx8rxg/its_getting_increasingly_difficult_to_tell_the/">It’s getting increasingly difficult to tell the difference between “real” wokeism and “fake” wokeism because everything is so absurd lately</a>, submitted on 2022-02-21 03:11:50+08:00.</h3>
+
+<p>—– <strong>117.1</strong> —–2022-02-21 09:07:36+08:00:</p>
+
+<p>Being woke is no more than a Nietzschen power play, where the “oppressed” — or those purportedly speaking on their behalf — invent “injustice” by something approximating divine revelation.  Its primary purpose is to keep the working and middle classes fighting amongst themselves, rather than against the billionaires and ruling classes.  In the same way you distract babies with shiny objects or cats with laser pointers, so too the ruling elites distract working/middle class liberals with identity politics.</p>
+
+<h3 id="118-vladikavkaz-submitted-on-2022-02-21-0414470800">118: <a href="https://old.reddit.com/r/russia/comments/sxa8lm/vladikavkaz/">Vladikavkaz</a>, submitted on 2022-02-21 04:14:47+08:00.</h3>
+
+<p>—– <strong>118.1</strong> —–2022-02-21 12:32:41+08:00:</p>
+
+<p>No, more like Whitefish, Montana.  Or Banff, Alberta.  Eastern United States doesn’t have mountains like that.</p>
+
+<h3 id="119-couples-where-1-wears-a-mask-and-1-doesnt-submitted-on-2022-02-21-1151520800">119: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/sxjum0/couples_where_1_wears_a_mask_and_1_doesnt/">Couples where 1 wears a mask and 1 doesn’t…</a>, submitted on 2022-02-21 11:51:52+08:00.</h3>
+
+<p>—– <strong>119.1</strong> —–2022-02-21 12:03:24+08:00:</p>
+
+<blockquote>
+  <p>My SO is a rule follower no matter how dumb the rule is.  Fine with me, do what you’re comfortable with.</p>
+</blockquote>
+
+<p>Ha.  I can relate, from past relationships.  And yes, fine with me too, so long as you don’t try to make me comply.</p>
+
+<p>Edit: It is hilarious how quickly people have down-voted this, assuming that the only thing I was talking about was masks.</p>
+
+<p>I was thinking about complying with “rules” at my last significant other’s parents’ house on holiday visits, all pre-COVID.  Rules like “don’t argue with my dad about politics,” or “don’t correct my dad when he says something stupid because it will make everyone uncomfortable and he already doesn’t like you.”</p>
+
+<p>—– <strong>119.2</strong> —–2022-02-21 20:01:25+08:00:</p>
+
+<blockquote>
+  <p>thalidomide</p>
+</blockquote>
+
+<p>I doubt you even know what that is.  Another post like that and you’ll be permanently banned.</p>
+
+<h3 id="120-any-thoughts-on-canada-right-now-submitted-on-2022-02-21-1229100800">120: <a href="https://old.reddit.com/r/geopolitics/comments/sxkjrw/any_thoughts_on_canada_right_now/">Any thoughts on Canada right now?</a>, submitted on 2022-02-21 12:29:10+08:00.</h3>
+
+<p>—– <strong>120.1</strong> —–2022-02-21 12:34:04+08:00:</p>
+
+<p>Domestic politics.</p>
+
+<h3 id="121-when-will-chicago-end-vaccine-card-requirement-heres-what-we-know-submitted-on-2022-02-21-2011320800">121: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/sxs2pd/when_will_chicago_end_vaccine_card_requirement/">When Will Chicago End Vaccine Card Requirement? Here’s What We Know</a>, submitted on 2022-02-21 20:11:32+08:00.</h3>
+
+<p>—– <strong>121.1</strong> —–2022-02-21 20:19:25+08:00:</p>
+
+<p>Allison Arwady once again tries to re-assert her relevance, in a press conference betraying the extent to which her relevance wanes precipitously.</p>
+
+<p>As if the last three plus months have meant nothing, Arwady makes reference to free-floating notions of “risk,” based on metrics set according to pre-omicron hypothesized correlations (e.g., between cases and hospitalizations or fatalities).  Meanwhile, Chicagoans are increasingly unable to suspend disbelief, in order to take her incompetence seriously.</p>
+
+<p>—– <strong>121.2</strong> —–2022-02-21 21:43:09+08:00:</p>
+
+<p>That’s to be expected.</p>
+
+<p>—– <strong>121.3</strong> —–2022-02-22 08:39:36+08:00:</p>
+
+<p>Policy ought to be downstream from science, but that means that if your proposed mitigation efforts are empirical failures you take notice.</p>
+
+<p>—– <strong>121.4</strong> —–2022-02-22 10:43:29+08:00:</p>
+
+<p>I agree the level of overreach will have generationally significant implications.  But I also know that an abundance of people blindly follow those in a position of “authority,” based solely on the fact that the “authority” holds such a position.</p>
+
+<h3 id="122-what-will-happen-if-turkey-decides-to-block-the-bosporus-straits-for-russian-ships-submitted-on-2022-02-22-0409250800">122: <a href="https://old.reddit.com/r/geopolitics/comments/sy3230/what_will_happen_if_turkey_decides_to_block_the/">What will happen if Turkey decides to block the Bosporus straits for Russian ships?</a>, submitted on 2022-02-22 04:09:25+08:00.</h3>
+
+<p>—– <strong>122.1</strong> —–2022-02-22 10:56:16+08:00:</p>
+
+<p>This idea was proposed, in response to Russian naval vessels entering the Black Sea to resupply Assad.  Russia would likely interpret doing so as an act of war, which is why Turkey’s membership in NATO remains relevant to at least this extent.</p>
+
+<h3 id="123-chicago-expected-to-provide-update-on-mask-mandate-this-week-submitted-on-2022-02-22-1956400800">123: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/sylu2b/chicago_expected_to_provide_update_on_mask/">Chicago Expected to Provide Update on Mask Mandate This Week</a>, submitted on 2022-02-22 19:56:40+08:00.</h3>
+
+<p>—– <strong>123.1</strong> —–2022-02-22 20:20:32+08:00:</p>
+
+<p>Very little has changed between last week and today.  But in the remaining days before the statewide mandate is set to expire, at least Chicago anticipates that it will “provide an update.”</p>
+
+<blockquote>
+  <p>As Illinois aims to lift its mask mandate by Feb. 28, a similar decision could be announced soon in Chicago, although the city is taking a different approach and not providing a specific timeline for such a move.</p>
+
+  <p>. . .</p>
+
+  <p>Chicago Department of Public Health Commissioner Dr. Allison Arwady said the city is relying on a set of metrics to determine when restrictions can be lifted, and three out of four key metrics must be met to move forward with easing restrictions.</p>
+</blockquote>
+
+<p>When the Bush administration used that argument in Iraq, he was excoriated.  Yet now, it’s somehow acceptable in the context of COVID-19?</p>
+
+<p>What <em>exactly</em> will be updated?  Arwady’s ability to make sense of such elusive, nebulous concepts of “cause” and “effect”?  Or perhaps the deficits in Arwady’s basic comprehension, related to hypothesized assumptions about the relationship between cases and fatalities, based on pre-omicron speculation?</p>
+
+<p>This city has suffered her ineptitude far too long.  Arwady must resign.  Everything about Arwady’s so-called guidance is nonsensical, exhausting absurdity.  Even down to the language used to describe this process of rule by administrative decree of the “public health” apparatus.</p>
+
+<p>—– <strong>123.2</strong> —–2022-02-23 13:51:09+08:00:</p>
+
+<blockquote>
+  <p>It is a very loud 10%, though (personally, I’d estimate it to be about 15%).</p>
+</blockquote>
+
+<p>It’s a very loud 25% or so in the city of Chicago, of whom less than 1/5th actually believe the mandates made a difference.  4/5 of them individually, one on one, and they will tell you what they see in the data: that mask mandates made no difference whatsoever.</p>
+
+<p>—– <strong>123.3</strong> —–2022-02-24 07:45:24+08:00:</p>
+
+<p>Yep.  A fraction of a fraction.</p>
+
+<h3 id="124-chicago-to-lift-mask-and-vaccine-mandates-on-feb-28-but-keep-masks-in-schools-for-now-submitted-on-2022-02-23-0312290800">124: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/syvnnd/chicago_to_lift_mask_and_vaccine_mandates_on_feb/">Chicago to lift mask and vaccine mandates on Feb. 28, but keep masks in schools for now</a>, submitted on 2022-02-23 03:12:29+08:00.</h3>
+
+<p>—– <strong>124.1</strong> —–2022-02-23 13:16:45+08:00:</p>
+
+<blockquote>
+  <p>At least the real reason for keeping masks in schools is right below the headline - “Rather than risk yet another confrontation with the Chicago Teachers Union”</p>
+</blockquote>
+
+<p>I am no teacher’s union defender.  As you may have guessed.  But to their credit, they were one of the few relevant stakeholders who emphasized the need for increased ventilation.  They negotiated hard on this point, too.</p>
+
+<p>That being said, to the extent they lobbied the city to keep the mask mandate in place, I disapprove of their conduct.  Obviously.</p>
+
+<p>—– <strong>124.2</strong> —–2022-02-23 20:29:08+08:00:</p>
+
+<p>Well that was the point of this entire exercise in idiocy.</p>
+
+<p>—– <strong>124.3</strong> —–2022-02-24 08:23:45+08:00:</p>
+
+<p>Your username is excellent.  Now that we have that out of the way, I disapprove of the Chicago Teachers Union’s efforts to delay the return to in-person instruction.</p>
+
+<h3 id="125-what-corporate-buzzwordsphrases-make-your-skin-crawl-submitted-on-2022-02-24-0152230800">125: <a href="https://old.reddit.com/r/AskReddit/comments/sznfsz/what_corporate_buzzwordsphrases_make_your_skin/">What corporate buzzwords/phrases make your skin crawl?</a>, submitted on 2022-02-24 01:52:23+08:00.</h3>
+
+<p>—– <strong>125.1</strong> —–2022-02-24 20:01:00+08:00:</p>
+
+<p>All of them.</p>
+
+<h3 id="126-people-informally-talk-about-russias-invasion-of-ukraine-as-starting-wwiii-how-similar-is-this-to-nazi-germanys-invasion-of-poland-effectively-starting-wwii-submitted-on-2022-02-24-0223110800">126: <a href="https://old.reddit.com/r/geopolitics/comments/szo5vl/people_informally_talk_about_russias_invasion_of/">People informally talk about Russia’s invasion of Ukraine as “starting WWIII.” How similar is this to Nazi Germany’s invasion of Poland, effectively starting WWII?</a>, submitted on 2022-02-24 02:23:11+08:00.</h3>
+
+<p>—– <strong>126.1</strong> —–2022-02-24 08:16:56+08:00:</p>
+
+<p>Hitler’s “Lebensraum” justification for invading Poland bears many of the same hallmarks of Putin’s invading Ukraine, at least if you take Kremlin rhetoric at face value.  There are those who believe such things.  But what is at issue here, for Russia, is natural gas, and Russia’s control of its supply to the European continent.  Hitler wasn’t after that.</p>
+
+<h3 id="127-how-ukraine-was-betrayed-in-budapest-submitted-on-2022-02-24-0755140800">127: <a href="https://old.reddit.com/r/geopolitics/comments/szvxx3/how_ukraine_was_betrayed_in_budapest/">How Ukraine Was Betrayed in Budapest</a>, submitted on 2022-02-24 07:55:14+08:00.</h3>
+
+<p>—– <strong>127.1</strong> —–2022-02-24 08:06:48+08:00:</p>
+
+<p>Submission Statement:</p>
+
+<p>Echoing <a href="https://www.reddit.com/r/geopolitics/comments/rbkr9q/why_ukraine_matters/">what I wrote almost three months ago</a>, this WSJ Editorial Board article explains how Ukraine was betrayed in Budapest.  As many of you now know, the Budapest Memorandum was a 1994 “agreement,” wherein Ukraine surrendered its nuclear weapons inherited from the Soviet Union in exchange for a worthless promise from Russia to respect its territorial integrity and sovereignty.  Two decades later, Vladimir Putin vitiated both without resistance.  In so doing, Putin has dealt the single greatest blow to nuclear non-proliferation since the USSR’s collapse.</p>
+
+<p>—– <strong>127.2</strong> —–2022-02-24 08:44:39+08:00:</p>
+
+<p>That’s the problem, isn’t it?  Rule of the jungle prevailing, to the exclusion of the rule of law.</p>
+
+<p>—– <strong>127.3</strong> —–2022-02-24 09:32:35+08:00:</p>
+
+<p>Related: <a href="https://www.wsj.com/articles/putin-green-energy-price-independence-gas-lng-fracking-russia-ukraine-invasion-europe-germany-nord-stream-11645650131?fbclid=IwAR0Kvhx1G5RKWyI89LrCzP5NxKqMjNoPmG5gQODcz6Ig4-REJ2zqibzpP5c">How to Beat Putin With Natural Gas</a></p>
+
+<p>—– <strong>127.4</strong> —–2022-02-24 10:10:39+08:00:</p>
+
+<p>Your point doesn’t address what I said.  The abstract, free-floating concept of “international law” is little more than the sum of high ideals and unenforceable expectations.</p>
+
+<p>My point was more concrete.  As George H. W. Bush did, I distinguished between the rule of law and rule of the jungle; a reference to <a href="https://www.youtube.com/watch?v=KJ6qpFpIFkY">this speech</a> that George H. W. Bush gave in 1991, after Saddam Hussein invaded Kuwait.  The rule of law only governs the conduct of nations when their word is backed up with force.</p>
+
+<p>In the context of Ukraine, it comes down to this: Does the United States keep its word?  Are its promises credible?  If Biden is unwilling to enforce the Budapest Memorandum’s security guarantee, we cannot reasonably expect another country to rely on the United States’ promises in foreign policy negotiations.</p>
+
+<p>—– <strong>127.5</strong> —–2022-02-24 10:59:24+08:00:</p>
+
+<p>That language is what it is.</p>
+
+<p>—– <strong>127.6</strong> —–2022-02-24 12:20:57+08:00:</p>
+
+<blockquote>
+  <p>Rule of Law completely constrains the actions of all countries at all times</p>
+</blockquote>
+
+<p>That’s not how treaties, agreements and the like between countries work.  A country is only bound, to the extent it agrees to be bound.  It’s not as if the UN can just legislate without regard to other countries sovereignty, for example.  It’s possible you meant to communicate that, but it wasn’t clear based on what you said.</p>
+
+<blockquote>
+  <p>And it is evolving slowly in terms of how constraining it is. Of course all law needs enforcement, but the means of enforcement and how equitable they are, are also evolving.</p>
+</blockquote>
+
+<p>In international relations, you can only expect what you can enforce.</p>
+
+<p>—– <strong>127.7</strong> —–2022-02-24 12:40:59+08:00:</p>
+
+<p>No question there’s limits to what any international agreement can achieve.  Might makes right in anarchy, which touches upon what you’d referenced earlier.  The challenge is figuring out how can conflict be resolved between states with different levels of power, in the absence of war.  That’s a harder sell with some actors than with others.</p>
+
+<p>—– <strong>127.8</strong> —–2022-02-24 12:41:19+08:00:</p>
+
+<p>Jimmy Carter or Joe Biden.</p>
+
+<p>—– <strong>127.9</strong> —–2022-02-24 12:44:46+08:00:</p>
+
+<p>I think you’re suggesting that states that cannot engage in conventional warfare should rationally pursue nuclear programs, to underwrite their security against invasion.  A lot of others have made that argument, for many years.  Countering it is a much harder sell when the United States, or a particular administration that currently holds the executive branch, fails to live up to its promises.</p>
+
+<p>—– <strong>127.10</strong> —–2022-02-24 12:56:37+08:00:</p>
+
+<p>In the status quo, too much weight is given to the complaints of bad-faith actors on the international stage.  Putin would be a case study in such misconduct.  For example, Putin claims that some promise was conveyed to Boris Yeltisin at some point relating to not expanding NATO membership.  No such promise was ever made.  Putin uses that fictitious “broken promise” as justification to break promises made on Russia’s behalf.  But Russia is hardly the only one.  Only the most visible at the moment.</p>
+
+<p>—– <strong>127.11</strong> —–2022-02-24 12:57:28+08:00:</p>
+
+<p>Given that, would you prefer the United States set the rules?  Or China?  Russia?</p>
+
+<p>—– <strong>127.12</strong> —–2022-02-24 13:02:28+08:00:</p>
+
+<p>Gaddafi had made substantial steps towards a nuclear program.  He voluntarily disarmed and dismantled his nuclear program, during the Bush years in exchange for security assurances.</p>
+
+<p>What happened in Libya under Hillary Clinton’s time as Secretary of State was a catastrophic blow to nonproliferation efforts.  Gaddafi, after all, disarmed in reliance on the promise of the United States.  Then what occurred, occurred.  The world took notice. 
+ None can credibly claim that because Gaddafi didn’t have nukes fully developed, what occurred was irrelevant to nuclear non-proliferation.</p>
+
+<h3 id="128-ukraine-megathread---all-new-posts-go-here-so-long-as-it-is-stickied-submitted-on-2022-02-24-2235220800">128: <a href="https://old.reddit.com/r/geopolitics/comments/t0cgvt/ukraine_megathread_all_new_posts_go_here_so_long/">Ukraine Megathread - (All new posts go here so long as it is stickied)</a>, submitted on 2022-02-24 22:35:22+08:00.</h3>
+
+<p>—– <strong>128.1</strong> —–2022-02-27 05:58:11+08:00:</p>
+
+<blockquote>
+  <p>How are you guys keeping up with what’s happening? It feels so chaotic and hard to navigate all the news on any site.</p>
+</blockquote>
+
+<p>Certain media sources I think are reliable, like <a href="https://www.sueddeutsche.de/politik/krieg-ukraine-russland-kiew-selenskij-putin-liveblog-1.5533918">Süddeutsche Zeitung</a>, <a href="https://www.faz.net/aktuell/politik/ausland/vier-ukrainer-fliehen-in-einem-taxi-vor-dem-krieg-gegen-russland-17834329.html">Frankfurter Allegemien</a> as well as the range of OSINT that’s out there if you know <a href="https://www.secjuice.com/brief-guide-to-osint/#:~:text=Threat%20Intelligence%20Feed-,Open%20Source%20Intelligence%20Techniques,-I%20am%20aware">how to look</a>.</p>
+
+<h3 id="129-cdc-to-update-masking-guidance-as-soon-as-friday-submitted-on-2022-02-25-0559300800">129: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/t0mmhw/cdc_to_update_masking_guidance_as_soon_as_friday/">CDC to update masking guidance as soon as Friday</a>, submitted on 2022-02-25 05:59:30+08:00.</h3>
+
+<p>—– <strong>129.1</strong> —–2022-02-25 11:56:12+08:00:</p>
+
+<p>I agree.  I am sick of wearing masks to fly or take the train.</p>
+
+<h3 id="130-putin-is-attacking-more-than-just-ukraine--summary-and-implications-of-recent-reports-submitted-on-2022-02-25-1205130800">130: <a href="https://old.reddit.com/r/geopolitics/comments/t0uepj/putin_is_attacking_more_than_just_ukraine_summary/">“Putin is attacking more than just Ukraine” | Summary and implications of recent reports</a>, submitted on 2022-02-25 12:05:13+08:00.</h3>
+
+<p>—– <strong>130.1</strong> —–2022-02-25 13:22:46+08:00:</p>
+
+<p>When you see a mega-thread, that means post stuff related to that topic there. But even if you had, this is blogspam.</p>
+
+<h3 id="131-cdc-changes-mask-guidance-submitted-on-2022-02-26-0735210800">131: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/t1hvgo/cdc_changes_mask_guidance/">CDC Changes Mask Guidance</a>, submitted on 2022-02-26 07:35:21+08:00.</h3>
+
+<p>—– <strong>131.1</strong> —–2022-02-27 00:17:41+08:00:</p>
+
+<p>There is nothing to which the CDC can point, to substantiate the change.  Their initial guidance on masks was based on a combination of incompetence, politics and pseudoscience.  The fact that something was normalized doesn’t mean it was scientifically legitimate.  It just means a bunch of people with purported letters after their name said to do something and then they did it.</p>
+
+<p>The CDC’s guidance on this issue was conspicuously devoid of all the types of scientific evidence needed to justify this type of recommendation.  For example, if you’re going to recommend “masks” to prevent transmission of COVID, then you need to undertake at least some kind of analysis to determine what masks are out there and how they perform.  Then you need to set up some independent criteria so that masks can be graded according to their performance.  This needed to happen for both modalities of transmission recognised by current research (read: respiratory droplets and aerosolized molecular viral particles).  To do so, you’d need a whole team of fluid dynamics experts, at the very least, to evaluate performance both generally and in specific settings.</p>
+
+<p>Nothing of the sort happened.  Instead, all that happened was an incompetent bureaucrat declared himself to be “the science,” as if science works that way.  Hint: it does not.  If you’re going to hold out devices as suitable for particular medical purposes, you have to have evidence to do that.  Otherwise, you’re engaged in what amounts to fraud in this country.  We do not let people just make things up and offer them to the public, under circumstances where the public can rely on those misrepresentations to their detriment, without facing legal risk.</p>
+
+<p>Edit: If you think downvoting what I said is going to have any impact whatsoever on what the data on this issue both do and do not say, you will be disappointed to learn that it does not.  Further, if you think you can do better than the guy who cited the two articles I addressed, good luck.  Because he did about as good of a job as anyone could on this issue.</p>
+
+<p>—– <strong>131.2</strong> —–2022-02-27 01:49:02+08:00:</p>
+
+<p>I’m not going to spend my saturday shooting down junk science, but since you sent those two . . . let’s review.</p>
+
+<ul>
+  <li><a href="https://www.cdc.gov/mmwr/volumes/71/wr/mm7106e1.htm?s_cid=mm7106e1_w">Andrejko 2022</a>.</li>
+</ul>
+
+<p>Read the first sentence of your article’s summary, whereupon you will learn that “[f]ace masks or respirators (N95/KN95s) effectively filter virus-sized particles in laboratory settings. The real-world effectiveness of face coverings to prevent acquisition of SARS-CoV-2 infection has not been widely studied.”  Realize that “filtering” — according to some vague, incoherent level of efficacy — molecular viral particles that are aerosolized is not the same thing as actually reducing community spread or reducing the probability that you will contract COVID-19.  Hence the second sentence.</p>
+
+<p>The sole context where it has was purportedly was, was in Bangladesh, that study being <a href="https://www.science.org/doi/10.1126/science.abi9069">Abaluck 2021</a>.  Except that study did not show masks work.  In fact, its data plainly and clearly says the opposite based on the lack of any statistically significant difference between the control and treatment groups.  According to the authors, what they actually found was that “[m]ask distribution with promotion was a scalable and effective method to reduce symptomatic SARS-CoV-2 infections,” based on meager differences in “symptomatic seroprevalence” among certain cohorts.  Which is a nice way to use fancy language to say that mask wearing is probably associated with some unknown external factor, but they failed to find evidence indicating that masks themselves are causally associated with any identifiable benefit relating to reducing COVID community spread.  This is a case study in fake science.</p>
+
+<p>As you will learn upon reading the article you linked, that article being Andrejko 2022, its results are consistent with what the underlying data out of Bangladesh indicate.  It only finds that “use of a face mask or respirator in an indoor public setting was associated with lower odds” of a positive PCR test.  I will leave for another day the problems with their criteria for what they’re counting as a positive PCR test as compared to what others have.  The point is that your article fails to provide any evidence whatsoever that masks themselves are causally associated with any identifiable benefit relating to reducing COVID community spread.  As in Bangladesh, the act of wearing masks might make people engage in other behaviour which may to some unknown extent have some unknown result that reduced the probability of contracting COVID.  But that’s it. Your “study” does not say what you think it says.</p>
+
+<ul>
+  <li><a href="https://www.pnas.org/content/118/4/e2014564118">Howard 2021</a>.</li>
+</ul>
+
+<p>This “narrative review” is worthless garbage.  They didn’t actually undertake any research and therefore didn’t move the ball forward relating to the science of mask efficacy in any way.  Instead, they went out and searched on Google Scholar or somewhere else to find all the worthless articles that have been published on this issue, relating to mask mandates and usage, for the purpose of offering what they hold out as no more than a public policy recommendation.</p>
+
+<p>As an example of that article’s unmitigated worthlessness, review one of their purported public policy recommendations:</p>
+
+<blockquote>
+  <p>Given the current shortages of medical masks, we recommend the adoption of public cloth mask wearing, as an effective form of source control . . . .</p>
+</blockquote>
+
+<p>Do a ctrl+f if you are unable to identify that sentence.  The fact that you cited that study, or any study recommending cloth masks at this stage in the game, is surprising when <a href="https://twitter.com/DrLeanaWen/status/1473045198980665344?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1473045198980665344%7Ctwgr%5E%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fd-41205633983298031174.ampproject.net%2F2110212130002%2Fframe.html">even this pundit doctor</a> has been forced to concede that cloth masks do not work.  The CDC has “clarified” its stance on cloth masks and there is literally no one on this earth who can even pretend their efficacy for any COVID-related purpose is empirically supported.</p>
+
+<p>Hilariously, however, all the studies that ever found any such benefit might be even associated with cloth-mask wearing suffer the same deficit as the study in Bangladesh.  In the first instance, the data state that virus is as virus does.  Which is the norm.  Not the exception.  But to the degree there is any difference from the control group, that difference is only attributable to external factors, which include as I said above, the fact that wearing masks might make people engage in other behaviour which may to some unknown extent have some unknown result that reduced the probability of contracting COVID.  Evidence to support the alleged efficacy of masks themselves remains unobtained.</p>
+
+<p>Now I know you probably googled some relevant terms and tried to find something you thought would contradict what I said.  But you didn’t do that and you won’t be able to.  Because the state of the science is exactly where I said it was.</p>
+
+<p>—– <strong>131.3</strong> —–2022-02-27 01:51:44+08:00:</p>
+
+<blockquote>
+  <p>I don’t care about laboratory studies in regards to masks.</p>
+</blockquote>
+
+<p>There are plenty of laboratory studies regarding masks.  The problem is that there isn’t a single one of them that demonstrates any mask confers any empirical benefit relating to reducing the probability of transmission for or reducing the probability of becoming infected with the SARS-CoV-2 virus (or any variant thereof).</p>
+
+<p>—– <strong>131.4</strong> —–2022-02-27 04:22:08+08:00:</p>
+
+<p>I’ll keep eating <a href="https://www.cdc.gov/foodsafety/communication/oysters-and-vibriosis.html">raw oysters</a>, <a href="https://www.cdc.gov/foodsafety/foods-linked-illness.html#:~:text=Eating%20raw%20or%20lightly%20cooked%20sprouts%2C%20such%20as%20alfalfa%2C%20bean%2C%20or%20any%20other%20sprout">raw sprouts</a>, <a href="https://www.foodsafety.gov/keep-food-safe/food-safety-by-type-food#:~:text=But%20raw%20seafood%20can%20contain%20toxins%20such%20as%20mercury%20or%20bacteria%20that%20can%20be%20destroyed%20only%20by%20cooking%20to%20the%20proper%20temperature.">sushi</a> which I will note the mercury content in fish such as tuna is not reduced by cooking to any temperature, rare <a href="https://www.foodsafety.gov/keep-food-safe/food-safety-by-type-food#:~:text=Raw%20meat%20may%20contain%20parasites%20and%20bacteria%20such%20as%20E.%20coli%20and%20Salmonella.">steak, and raw beef carpaccio and tartare</a> and whatever else I please without regard to what the CDC says on those or any other issues.</p>
+
+<p>—– <strong>131.5</strong> —–2022-02-27 04:23:21+08:00:</p>
+
+<blockquote>
+  <p>So you won’t eat medium cooked burgers?</p>
+</blockquote>
+
+<p>Absolutely not.  I eat them medium rare.</p>
+
+<h3 id="132-pritzker-illinois-school-mask-mandate-being-lifted-on-monday-submitted-on-2022-02-26-0821250800">132: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/t1iv1a/pritzker_illinois_school_mask_mandate_being/">Pritzker: Illinois school mask mandate being lifted on Monday</a>, submitted on 2022-02-26 08:21:25+08:00.</h3>
+
+<p>—– <strong>132.1</strong> —–2022-02-26 12:24:59+08:00:</p>
+
+<p>I’ll bet he’ll be selling beachfront property in Iowa, next.</p>
+
+<p>—– <strong>132.2</strong> —–2022-02-26 12:27:44+08:00:</p>
+
+<p>My vote is for the least authoritarian candidate in the race, always.  I would use the word “fascist” but for some strange reason, people don’t seem to <a href="http://i0.kym-cdn.com/photos/images/original/001/189/715/161.jpg">understand what that word means anymore</a>.</p>
+
+<p>—– <strong>132.3</strong> —–2022-02-26 23:58:57+08:00:</p>
+
+<p>Permanently banned for multiple, obvious rule violations and probable ban evasion.</p>
+
+<p>—– <strong>132.4</strong> —–2022-02-27 00:04:35+08:00:</p>
+
+<p>Building up multi-accounts with 4k of illusory karma for what very obviously appears to be the specific and deliberate purpose of menacing people you disagree with in a subreddit numerous other accounts of yours have been banned from does not look good.</p>
+
+<p>There is no rational reason why you could think that you can repeatedly violate the most basic rules of this sub, over and over again, and get away with it.</p>
+
+<p>—– <strong>132.5</strong> —–2022-02-27 06:50:01+08:00:</p>
+
+<blockquote>
+  <p>Don’t know why that user was banned</p>
+</blockquote>
+
+<p>Then read what I wrote and comprehend it.  One person is engaged in multi-accounting for the purpose of circumventing a prior ban for numerous conduct violations, and the other is not.  This concept is simple.  Just because you come in and say things some people agree with doesn’t mean you can violate Rule 1 with a multi-account you created for that specific purpose.</p>
+
+<p>—– <strong>132.6</strong> —–2022-02-27 14:48:06+08:00:</p>
+
+<p>There is no world in which any rational person could reach that conclusion.  Your tantrum is unavailing.</p>
+
+<h3 id="133-young-russian-soldier-cries-as-the-local-residents-of-sumy-tell-him-that-he-is-not-welcome-in-their-country-submitted-on-2022-02-26-1707110800">133: <a href="https://old.reddit.com/r/PublicFreakout/comments/t1srm8/young_russian_soldier_cries_as_the_local/">Young Russian soldier cries as the local residents of Sumy tell him that he is not welcome in their country</a>, submitted on 2022-02-26 17:07:11+08:00.</h3>
+
+<p>—– <strong>133.1</strong> —–2022-02-27 00:23:54+08:00:</p>
+
+<p>You can’t make a soldier by putting a boy in a uniform and a gun in his hand.  Russia’s conscripted army has no desire to be in Ukraine, but they’ll face prison, court-martial or worse if they desert or dodge the draft.  What Vladimir Putin is doing to Ukraine is barbaric.  So is what he is doing to the teenagers and young men drafted into his military.</p>
+
+<h3 id="134-im-a-russian-living-in-america-getting-shit-for-being-russian-ama-submitted-on-2022-02-26-2235400800">134: <a href="https://old.reddit.com/r/AskARussian/comments/t1ygrb/im_a_russian_living_in_america_getting_shit_for/">I’m a Russian, living in America, getting shit for being Russian. AMA</a>, submitted on 2022-02-26 22:35:40+08:00.</h3>
+
+<p>—– <strong>134.1</strong> —–2022-02-27 05:49:11+08:00:</p>
+
+<blockquote>
+  <p>They attack and try to destroy each other’s restaurants, cafes in America… As if it somehow helps win the war 7000 miles away</p>
+</blockquote>
+
+<p>I have seen this happen to a place I used to dine at frequently where I lived at the time.  When war breaks out, people get the nationalist fever and leads to them doing very stupid things.</p>
+
+<h3 id="135-are-we-ready-to-leave-masks-behind-its-going-to-be-weird-submitted-on-2022-02-27-0039320800">135: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/t21675/are_we_ready_to_leave_masks_behind_its_going_to/">Are we ready to leave masks behind? ‘It’s going to be weird’</a>, submitted on 2022-02-27 00:39:32+08:00.</h3>
+
+<p>—– <strong>135.1</strong> —–2022-02-27 01:50:08+08:00:</p>
+
+<blockquote>
+  <p>I’m going to keep wearing my N95.</p>
+</blockquote>
+
+<p>You do you.  People engage in ritualistic practices which provide no empirical benefit all the time.  But that’s all you’re doing.</p>
+
+<p>—– <strong>135.2</strong> —–2022-02-27 01:56:42+08:00:</p>
+
+<p>Some people go to confession.  Other people put on N95 face masks.  No evidence exists to suggest that either is more likely to make your life better.</p>
+
+<p>—– <strong>135.3</strong> —–2022-02-27 03:53:29+08:00:</p>
+
+<p>You’re quite right.  And there will be a day of political reckoning for all of this.  Signs that change is coming can be seen at every level of political polling.  They include, but are not limited to, Joe Biden’s approval rating nationally and by independent voters, the percentage of Americans who think this country is on the wrong track and/or headed in the wrong direction, the extent to which Anthony Fauci and the relevant lettered agencies he is associated with are regarded as non-credible by the American public, the extent to which promulgators of conspiracy theories and fake news are regarded as more credible than either Fauci or those lettered agencies, and the list goes on.  That is not to imply I agree with any of the foregoing, so much as to state what reality is.  The damage this has caused to the credibility of our institutions is astonishing.</p>
+
+<p>—– <strong>135.4</strong> —–2022-02-27 04:03:50+08:00:</p>
+
+<blockquote>
+  <p>Your statements make it seem that you want everyone to move forward the way you see fit.</p>
+</blockquote>
+
+<p>I want people to live their lives in freedom, where they are free to choose how to structure their days, their employment, their family’s activities and their lives in general; without imperious bureaucratic restraint from a pencil-pushing gnat at any level of the federal government with the unmitigated audacity to declare himself “the science,” or anyone else who would submit to his rule or decree.</p>
+
+<p>Warnings of <a href="https://www.telegraph.co.uk/news/2021/06/12/must-beware-cynical-bid-terrify-britain-loving-lockdown/">normalizing this state of collective insanity</a>, such as Janet Daley’s of last year, have gone unheeded.  The time is now to say what must be said, to let facts be set forth in a candid world that free people may decide for themselves what is in their best interest, under circumstances where they are apprised of the facts as they are (as opposed to how they have been misrepresented by political actors holding themselves out as non-partisan).</p>
+
+<p>—– <strong>135.5</strong> —–2022-02-27 04:12:11+08:00:</p>
+
+<blockquote>
+  <p>My biggest hope is that people don’t care if someone is wearing or not wearing.</p>
+</blockquote>
+
+<p>I cannot envision the world where getting angry at people <em>because</em> they are wearing masks is normalized.  People can wear whatever they want on their face or otherwise, whether masks, beards, piercings, religious attire or even furry cosplay items.  The issue isn’t what people decide to do for themselves, it’s what the government makes them do and the basis for it.</p>
+
+<p>—– <strong>135.6</strong> —–2022-02-27 04:47:57+08:00:</p>
+
+<p>January of this year.  During that time, there was neither a mask nor vaccine mandate in effect where I was and I saw those very few people who chose to wear masks treated no differently than anyone else.  I do not work in a small town or travel to rural areas with any level of frequency, however.</p>
+
+<p>—– <strong>135.7</strong> —–2022-02-27 04:57:49+08:00:</p>
+
+<p>Seems like it would depend on the area.  I’d imagine you’d have a harder time in, say, corn country than in Galena, IL.  The rural area I was in was obviously not in Illinois.  Much further north and west.</p>
+
+<p>—– <strong>135.8</strong> —–2022-02-27 05:45:50+08:00:</p>
+
+<p>Maybe somewhere like rural Oklahoma or the middle if nowhere in Arkansas, perhaps.  It would surprise me in Illinois, however.</p>
+
+<p>—– <strong>135.9</strong> —–2022-02-27 06:59:39+08:00:</p>
+
+<blockquote>
+  <p>I HAVE witnessed people being accosted for wearing a mask, even during mandates.</p>
+</blockquote>
+
+<p>When, where and in what context?</p>
+
+<p>—– <strong>135.10</strong> —–2022-02-27 07:25:13+08:00:</p>
+
+<p>I’ve been to Florida since the pandemic and after Ron DeSantis lifted the mandates.  I didn’t see that kind of behavior there.</p>
+
+<p>I have only seen a few, isolated videos of idiot kids trying to make viral videos harassing people with masks on.  I do not see evidence this is any kind of a norm.  But to the extent it occurs, it obviously shouldn’t.</p>
+
+<p>—– <strong>135.11</strong> —–2022-02-27 07:34:23+08:00:</p>
+
+<p>I’ve driven through southern Illinois, but that’s about it.  The rural area I was referring to was about 1,700 miles northwest of Chicago.</p>
+
+<p>—– <strong>135.12</strong> —–2022-02-27 08:14:53+08:00:</p>
+
+<blockquote>
+  <p>I honestly don’t think it is the norm–I actually think it’s much more common for the pro-maskers to try to shame the non-maskers–but since the “anti-maskers” are believed to all be of a certain political persuasion</p>
+</blockquote>
+
+<p>That is consistent with my personal experience and what I have seen and heard from others as well.  I can still recall the time when some neurotic, mentally ill woman shrieked at me while outside and I was across the street, when I still lived around Northwestern’s downtown campus.  I was not wearing a mask and would never do so outside.  She was wearing one of those plexiglass face masks, an n95 respirator, purple latex gloves and something similar to safety goggles.  I felt sorry for how stupid she looked, sounded and acted.</p>
+
+<h3 id="136-you-cant-make-this-shit-up-submitted-on-2022-02-27-0149000800">136: <a href="https://old.reddit.com/r/walkaway/comments/t22r5n/you_cant_make_this_shit_up/">You can’t make this shit up…</a>, submitted on 2022-02-27 01:49:00+08:00.</h3>
+
+<p>—– <strong>136.1</strong> —–2022-02-27 06:28:20+08:00:</p>
+
+<p>These people are morally, constitutionally and psychologically weak.</p>
+
+<h3 id="137-who-is-the-best-male-character-who-isnt-a-tough-badass-submitted-on-2022-02-27-0236050800">137: <a href="https://old.reddit.com/r/AskReddit/comments/t23tjx/who_is_the_best_male_character_who_isnt_a_tough/">Who is the best male character who ISN’T a tough badass?</a>, submitted on 2022-02-27 02:36:05+08:00.</h3>
+
+<p>—– <strong>137.1</strong> —–2022-02-27 06:15:17+08:00:</p>
+
+<p>President David Palmer from 24.</p>
+
+<h3 id="138-another-captive-russian-solgier-being-interrogated-in-ukraine-submitted-on-2022-02-27-0347500800">138: <a href="https://old.reddit.com/r/PublicFreakout/comments/t25elq/another_captive_russian_solgier_being/">Another captive Russian solgier being interrogated in Ukraine.</a>, submitted on 2022-02-27 03:47:50+08:00.</h3>
+
+<p>—– <strong>138.1</strong> —–2022-02-27 14:58:12+08:00:</p>
+
+<blockquote>
+  <p>Good evidence to counter Russian claims of none invasion from Russians.</p>
+</blockquote>
+
+<p>Yes, but more importantly it is critical to countering Russian claims that the Ukrainians are arming psychopaths to engage in war crimes in the street.  The depths of Russian disinformation and propaganda are unmatched.</p>
+
+<p>That kid was born in 2002.  His parents are going to want to know what happened to him.  The more videos like this are out there, the more opposition Putin will face.</p>
+
+<p>Putin’s barbarism must end.  95/100 Russians wanted nothing to do with this idiotic war.</p>
+
+<h3 id="139-near-future-predictions-of-the-world-after-the-russian-invasion-of-ukraine-2022-submitted-on-2022-02-27-1109160800">139: <a href="https://old.reddit.com/r/geopolitics/comments/t2efsj/nearfuture_predictions_of_the_world_after_the/">Near-future predictions of the world after the Russian invasion of Ukraine (2022)</a>, submitted on 2022-02-27 11:09:16+08:00.</h3>
+
+<p>—– <strong>139.1</strong> —–2022-02-28 08:46:30+08:00:</p>
+
+<p>post to /r/geopolitics2</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-03-06</time>
+        <a href="https://nodebe4.github.io/opinion/2022-03-06/EnclavedMicrostate/">
+          EnclavedMicrostate在2022-02-28~2022-03-06的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-03-05</time>
+        <a href="https://nodebe4.github.io/opinion/2022-03-05/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-02-28~2022-03-06的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-02-27</time>
+        <a href="https://nodebe4.github.io/opinion/2022-02-27/Spinkcat/">
+          Spinkcat在2022-02-21~2022-02-27的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-02-27</time>
+        <a href="https://nodebe4.github.io/opinion/2022-02-27/EnclavedMicrostate/">
+          EnclavedMicrostate在2022-02-21~2022-02-27的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-02-27/realcaixia/">
+            前一篇：Twitter @蔡霞: 2022-02-21~2022-02-27
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-02-27/wangdan1989/">
+            後一篇：Twitter @王丹: 2022-02-21~2022-02-27
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-02-27/realcaixia/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-02-27/wangdan1989/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-03-05/ForeignAffairsMag/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-02-27/Spinkcat/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-02-27/realcaixia/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-02-27/wangdan1989/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-03-05/ForeignAffairsMag/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-02-27/Spinkcat/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

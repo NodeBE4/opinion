@@ -1,0 +1,2437 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Spinkcat在2023-02-27~2023-03-05的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Spinkcat在2023-02-27~2023-03-05的言论" />
+    <meta property="twitter:title" content="Spinkcat在2023-02-27~2023-03-05的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FChina_irl%2Fcomments%2F11f1cmg%2F%E6%AF%9B%E5%88%B0%E5%BA%95%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%8D%E5%8F%AF%E6%9B%BF%E4%BB%A3%E7%9A%84%E5%8A%9F%E7%BB%A9%E6%B0%B4%E6%9C%A8%E7%9A%84%E6%AF%9B%E5%90%B9%E7%9C%9F%E6%98%AF%E8%AE%A9%E4%BA%BA%E5%A4%A7%E5%BC%80%E7%9C%BC%E7%95%8C%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/China_irl/comments/11f1cmg/毛到底有哪些不可替代的功绩水木的毛吹真是让人大开眼界/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/China_irl/comments/11f1cmg/毛到底有哪些不可替代的功绩水木的毛吹真是让人大开眼界/&text=Spinkcat在2023-02-27~2023-03-05的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/China_irl/comments/11f1cmg/毛到底有哪些不可替代的功绩水木的毛吹真是让人大开眼界/&title=Spinkcat在2023-02-27~2023-03-05的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/China_irl/comments/11f1cmg/毛到底有哪些不可替代的功绩水木的毛吹真是让人大开眼界/&title=Spinkcat在2023-02-27~2023-03-05的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Spinkcat在2023-02-27~2023-03-05的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/China_irl/comments/11f1cmg/毛到底有哪些不可替代的功绩水木的毛吹真是让人大开眼界/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/China_irl/comments/11f1cmg/毛到底有哪些不可替代的功绩水木的毛吹真是让人大开眼界/&title=Spinkcat在2023-02-27~2023-03-05的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Spinkcat在2023-02-27~2023-03-05的言论&url=https://old.reddit.com/r/China_irl/comments/11f1cmg/毛到底有哪些不可替代的功绩水木的毛吹真是让人大开眼界/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Spinkcat在2023-02-27~2023-03-05的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2023-03-03
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://www.reddit.com/user/Spinkcat/" style="font-size:14px;">作者: Spinkcat</a>
+        </span>
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/China_irl/comments/11f1cmg/毛到底有哪些不可替代的功绩水木的毛吹真是让人大开眼界/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#2019-毛到底有哪些不可替代的功绩水木的毛吹真是让人大开眼界-submitted-on-2023-03-01-1926540800" id="markdown-toc-2019-毛到底有哪些不可替代的功绩水木的毛吹真是让人大开眼界-submitted-on-2023-03-01-1926540800">2019: 毛到底有哪些不可替代的功绩？水木的毛吹真是让人大开眼界, submitted on 2023-03-01 19:26:54+08:00.</a></li>
+  <li><a href="#2020-发现我的狗很有某人的风范-submitted-on-2023-03-02-0654280800" id="markdown-toc-2020-发现我的狗很有某人的风范-submitted-on-2023-03-02-0654280800">2020: 发现我的狗很有某人的风范, submitted on 2023-03-02 06:54:28+08:00.</a></li>
+  <li><a href="#2021-金灿荣俄罗斯的责任我们也得说-submitted-on-2023-03-02-1034330800" id="markdown-toc-2021-金灿荣俄罗斯的责任我们也得说-submitted-on-2023-03-02-1034330800">2021: 金灿荣：俄罗斯的责任我们也得说, submitted on 2023-03-02 10:34:33+08:00.</a></li>
+  <li><a href="#2022-仔细思考一下涓流效应其实是一个很难蚌的经济学理论-submitted-on-2023-03-03-2359310800" id="markdown-toc-2022-仔细思考一下涓流效应其实是一个很难蚌的经济学理论-submitted-on-2023-03-03-2359310800">2022: 仔细思考一下，涓流效应其实是一个很难蚌的经济学理论, submitted on 2023-03-03 23:59:31+08:00.</a></li>
+</ul>
+
+<h3 id="2019-毛到底有哪些不可替代的功绩水木的毛吹真是让人大开眼界-submitted-on-2023-03-01-1926540800">2019: <a href="https://old.reddit.com/r/China_irl/comments/11f1cmg/毛到底有哪些不可替代的功绩水木的毛吹真是让人大开眼界/">毛到底有哪些不可替代的功绩？水木的毛吹真是让人大开眼界</a>, submitted on 2023-03-01 19:26:54+08:00.</h3>
+
+<p>—– <strong>2019.1</strong> —–2023-03-02 00:47:37+08:00:</p>
+
+<p>毛对党有大功，带领中共走对方向建立政权。</p>
+
+<p>对国家无功有大过。</p>
+
+<p>目前国内描述他的功绩，许多都建立在党国和社会主义叙事上。</p>
+
+<p>如果否定党国一体，以及否定社会主义叙事，会发现毛对社会的负面影响极大。</p>
+
+<p>外交和内政几乎一团糟。</p>
+
+<p>朝鲜战争虽然也有被苏联绑定的意味，但这种对外政治投资，不但导致儿子被杀，还引爆了后来他与彭德怀的矛盾。</p>
+
+<p>当然这种矛盾的主要导火索是因为建国早期一系列政策让决策层出现分歧。</p>
+
+<p>可后来的发展可以说是灾难连锁。</p>
+
+<p>大跃进的分歧进而引发文革，内部斗争波及全国十余年。</p>
+
+<p>并且投名状没有从苏联那得到长期的好处，很快就跟苏联交恶。</p>
+
+<p>留了金氏朝鲜这个大炸弹，不但给中国东北发展留下一个极其危险的不稳定因素，还因此难以与韩国发展出地缘性的政治关系。</p>
+
+<p>未来无论朝鲜持核武怎么解体，中韩都是被波及最大的国家。东北更是中国最主要的粮仓，武器或核问题扩散，对子孙后代都是有极大威胁的。</p>
+
+<p>而韩国人在本世纪内追溯朝鲜政权存在的情况，溯源就会发现来自于中国干预，所以说毛留下一个没收益还长期倒欠的政治外债。</p>
+
+<p>反而是有人依然采用或陷入国内内宣回护的党国叙事逻辑，把这种吃力不太好还祸害几代人的决策，当做是打击美帝国主义的壮举。</p>
+
+<p>朝鲜战争还导致本来可以缓慢进展的社会主义改革，因为对外与美国敌对，导致中国与欧美战后为主的市场断轨。</p>
+
+<p>中共建政早期本身并不打算立刻就跟历史上一样高强度整顿，反而打算很大程度容许市场与资本的存在，这也是陈云的鸟笼经济的根本。</p>
+
+<p>但是外部市场彻底封闭，进而刺激了国内的矛盾与逼改进程，结果后来社会主义国家里的苏联核心，在后来还与中国交恶，我们没捞到足够多的好处，反而承担了长期资本与社会主义国家的双向封闭，还有数十万国人的伤亡。</p>
+
+<p>如果跳脱官方的叙事，可以看得出这一系列操作就跟我们现代看鸦片战争一样蠢。</p>
+
+<p>实际上犯错不怕，人不可能不犯错。</p>
+
+<p>但毛走错一步后，对问题的反应每一次都是错的，跟合作对象不断走向对立。</p>
+
+<p>表面有利于自己，实际却是祸害集体，最初从阶级敌人到可拉拢的资产阶级。</p>
+
+<p>然后是老大哥，再到内部的战友，然后是接班人们，慢慢扩大到全国。</p>
+
+<p>所以说，毛在四十年代末或五十年代刚开始时死了，他的评价会好不少，建政期间的杀戮还是斗争，因为时代背景会被另论。</p>
+
+<p>唯独建立政权后，毛的决策几乎是一步错，步步错，能每次都错也是神奇，说明他这个人的立场与利益已经与社会发展互相抵触了。</p>
+
+<p>也因为毛与中共的建政权威绑定太深，导致党内即便意识到了毛个人立场带来的问题，以至于无法转向，也没有任何安全或可执行的渠道去换掉毛，哪怕林立果政变都提及毛威望太高，不是特别建议直接杀死。</p>
+
+<p>到邓小平时代也遇到这个问题，哪怕明面上已经是全面否定毛泽东的制度和价值观，但仍然不能做到完全否定，还要三七开来为政权的合法性做论述，也说明中共建国的法理根基很薄弱，而这个薄弱除了意识形态上站不住脚根，还要很大程度问题来自于毛的对外判断失误，引发的一系列激进政治矛盾。</p>
+
+<p>国内吹捧毛，多数其实不是认真称赞毛个人在中共建政时的正确决策。</p>
+
+<p>而是在以古代王朝吹捧开国皇帝的口吻一样。</p>
+
+<p>但我们是一个现代国家，毛泽东也不是皇帝，所以这些吹捧如果放到一个公开公平的舆论环境，根本就经不起推敲，国内毛有人追捧，很大原因是不让说黑料，也缺乏公开讨论的余地。</p>
+
+<p>—– <strong>2019.2</strong> —–2023-03-02 14:25:45+08:00:</p>
+
+<p>建政时期毛体现出来的地方，的确是很有能力的，判断正确路线正确，但主要还是农村包围城市的生存路线问题，所以毛泽东在路线选择上的正确的褒奖大抵没问题，且最终导向的结果都是有利于政权的。</p>
+
+<p>至于考虑环境，没有西安事变和日本入侵，中共大概率是活不下来进行发展的，但西安事变有一定蒋介石自己作出来的成分，张学良兵谏后中共能利用起来也是运气的一部分。</p>
+
+<p>很多时候国内其实是不大接受或者允许中共运气成分的，尤其是张学良和抗日问题。</p>
+
+<p>张学良说他不抗日，所以国内风评不好，但是没张学良中共就没机会在西安事变后翻身，这就处于两难局面，因此国内出现一种没有西安事变，中共也能安然生存且发展壮大的话术，其实按理来讲是不大可能的，即便没被完全消灭，也不可能发展到内战的规模了。</p>
+
+<p>而抗日战争这个大背景更是不能提，毛自己其实到很坦然，但是现代为了维护中共的历史叙事观的神圣性，必须强调中共是中国人民的选择，宣传教育上大有淡化国军，放大中共，但嘴上又没说是中共一手领导全国人民抗战，故意造成一种他没说，让你以为是他领导的这种错觉，等你回过味来还不能说他摘桃子。</p>
+
+<p>国内其实就不是很愿意敢于正面谈这个事实，因为要维护中共是人民选择的这个宣传，就必须刨除客观因素。</p>
+
+<p>客观因素是什么呢，蒋介石抗日消耗巨大，基本怕在江浙一带遭兵革屠戮，到后面已经没钱了，跟中共发展地方后有充足财源对比，实际并没有太多优势，续航能力不足。</p>
+
+<p>然后犯了几个错误，导致没有资源补救，国民党就无可避免的败退下来，输在财政上，其实知乎早期讨论有很多人是认真描述了这个客观情况的。</p>
+
+<p>但国内的宣传话术，就必须描述为是中共军队料事如神，总是出其不意能打赢，更早期长征时期的比如四渡赤水。</p>
+
+<p>包括林彪和毛泽东等人指挥的战术和战略决策，的确是很漂亮的判断，我其实不反对称赞这些客观上的事实，只反对国内的主观历史叙事话术，这种刨去客观环境的描述，其实对人们了解历史并不有利（比如国军围剿方案和蒋介石军事作风刚好正中毛的风格下怀）</p>
+
+<p>因为单方面主观夸奖过高，一旦你的政权失势，这种话术失效，本来可能很不错的教科书战役，如四渡赤水，就又被人恨乌及乌逆反心理给踩低，就像现在对蒋介石军事能力要扁低到运输大队长一样。</p>
+
+<p>但是当时很多人其实不知道，就是想办法跑路求存而已，并非预先设计，而是到了正确的时间做了正确的事（但老实说，就这，很多时候一群人都做不到），四渡赤水就算是一个例子，后来被强调，是因为这是以毛泽东的视角作为军权巩固的一个象征，而毛与中共的成功绑定，所以毛泽东的军事叙事观，也自然成为中共的军事叙事观。</p>
+
+<p>就好比蒋介石围剿说他怎么都玩不过中共，可能吗？肯定不正确，否则中共不用不断转移跑路。</p>
+
+<p>那为什么一直难以围剿？因为蒋介石所处的位置，只能靠整合大规模兵力进行地毯式扫荡，才能逼迫中共转移或消灭，而前几次蒋介石动员兵力有限，又依赖地方兵力，蒋介石又不是地方武装，他一时也抽不出手调动大量资源。</p>
+
+<p>等到后面蒋介石开始大规模动员，走一步一个脚印的徐进战略，稳固好避免中共反复迂回，开始走堡垒战术进行逼近筑“墙”，中共主力就只能进行转移，被逼到没办法只能铤而走险进行长征。</p>
+
+<p>所以49年前，其实毛泽东或中共、蒋介石与国民党，许多本来正确或精彩的操作，一旦涉及到49年后建立政权的政治正确与历史叙事神圣性，全都会被戏剧化，进而出现失真。</p>
+
+<p>人们追捧的是这种失真带来的归属感，而不是真正从历史角度是感受当时事态的发展来用上帝视角作评价。</p>
+
+<p>—– <strong>2019.3</strong> —–2023-03-02 15:16:39+08:00:</p>
+
+<p>大跃进的历史链条其实很简单。</p>
+
+<p>朝鲜战争导致美国对中国开始全面贸易封锁，但是战争之前，建政初期，中国的进出口总额有66.5%来自于欧美这些资本主义国家。</p>
+
+<p>而中共建政早期，并不是说跟后来宣传一样跟私营经济势不两立，而是预期有一个很长的过渡期。</p>
+
+<p>那什么导致这种过渡期瞬间结束了？</p>
+
+<p>就是因为朝鲜战争的经济问题，导致资源短缺，而中共要反制裁美国的禁运政策，这个时候就需要控制私营企业去配合，然后不断加码，最后政治化，演变成了强制公私合营与赎买现象。</p>
+
+<p>三反五反就是配合朝鲜战争背景，外部贸易与进出口问题被堵死，导致内部产生一系列变化的一种政治运动，用来名正言顺给各类社会主义改造提供政治正确。</p>
+
+<p>到后面百家争鸣、百花齐放的双百，现在的人说是毛主席真伟大，故意引蛇出洞。</p>
+
+<p>其实就是没想到之前朝鲜战争后内外部环境变化，执行了的加速社会主义改造，居然有这么多党内外人士反对，说引蛇出洞只是给自己脸上贴金找台阶而已。</p>
+
+<p>到五十年代后半段，没有了对外贸易的资源输入与本地出口，内部生产上，私营经济逐步被取代，短期掠夺的资源让政权有了一种可控的感觉，但发展却开始减缓（因为负责生产消费的个体与企业都被控制了），就需要想办法让政府干预增长，而实际上他们大部分人并不懂经济。</p>
+
+<p>大跃进本身大家都知道了，我这里不赘述。</p>
+
+<p>到后面内部回过味，发现不对劲，开始有人反冒进，但毛泽东一直对反冒进心里不大喜欢，甚至后来南宁会议开始反“反冒进”，负负得正了等于。</p>
+
+<p>再到庐山会议上，本来是纠左，结果变反右，彭德怀等人被处理，对党内是一个很严重的事，因为第一彭德怀并不是跟毛对着干，而是去捋顺毛驴，只是提意见。第二彭德怀说的没错。第三彭德怀朝鲜战争结束有威望，党内地位提升的明显。第四就是党内过去虽然是毛说了算，但大体还是有集体商议的。</p>
+
+<p>庐山会议直接把这个四点全部扣死，硬是打成反党集团，并且是以反对大跃进名义坐实的。</p>
+
+<p>这就直接把大跃进这辆车的油门踩到底，一直到出问题大饥荒才反应过来肯放弃。</p>
+
+<p>但是放弃的体现，最终是从刘少奇等人，再到行政部门上反馈上去的，在毛泽东看来这就是彭德怀第二。</p>
+
+<p>这就变成了行政端国务院官僚和毛的个人利益得失的问题，国务院的官僚系统希望从理论和政治上解决名不正言不顺的问题，刘少奇的身份就很重要。</p>
+
+<p>但推行的政策三自一包，按毛泽东的定性就是想搞垮社会主义。</p>
+
+<p>毛这里还认为实行社会主义与无产阶级，不能没有民主集中制，而民主集中制的最大受益者就是他个人。</p>
+
+<p>因此到后期，就变成了三自一包背后带来的东西，实质性是否定毛泽东的三面红旗与个人利益。</p>
+
+<p>刘少奇从位置上来说，只能是源自于工作和行政角度考虑，也是对毛泽东捋顺毛驴，但任何有潜在威胁的行为，都被毛泽东视为威胁，然后就不断加码处理，到最后公开化上纲上线。</p>
+
+<p>从这里开始就变成了一个系统性问题，对于刘少奇本身，毛泽东之前把他扶的太高，想拉下马要做的文章和运动规模也必然非常之大，彭德怀在庐山会议被处理，已经引发一次反右运动。</p>
+
+<p>刘少奇被拉下来，连带整个国务院官僚系统被整肃，其体现结果就是文化大革命。</p>
+
+<p>最后就一直斗到毛泽东死。</p>
+
+<p>国家是需要有人管理的，毛泽东维护个人利益但是不傻，他有时候是清楚知道自己的理想主义与个人利益和国家发展有冲突，所以也会减速，但是后面明显收不住，收不住就干脆不收了。</p>
+
+<p>行政运作就变成了国务院由周恩来来处理，维持一定程度的社会运作，政治上的事毛不断扶持一派拉扯一派互斗，林彪死后，毛基本开始维持内外朝。</p>
+
+<p>也即四人帮、毛远新为主的“内朝”，意图扶持毛远新上位，“外朝”由华国锋、汪东兴等人维持，但毛泽东一死，华国锋这些人就反水，拿掉了毛泽东的嫡系。</p>
+
+<p>跟着华国锋和汪东兴这些希望借毛的威望和模式继续搞下去，结果又被国务院的官僚逐渐挤兑出政治舞台，邓既是毛原本在建立政权和发展过程里的嫡系，但也有一定自己的独立性，并且在建政后的发展里和国务院走得近，却又跟四人帮这些不对付。</p>
+
+<p>属于一个既用也好用，军政都有经验，背景相对靠得住的人，这也是邓小平几次下台还能被毛拉上来用以跟其他人平衡的原因。</p>
+
+<p>但是毛泽东到最后其实是铁了心想彻底搞死邓了（政治生涯或物理上的），但江青来不及实施，毛泽东就死了，救了邓。</p>
+
+<p>跟着就是邓陈等人逐渐获得话语权，胡赵在中央和地方发力，敲定改革开放，这就是改开现代史的部分了。</p>
+
+<p>以上大体就是建政后主要政治运动，再到毛泽东派系完全覆灭的一个过程。</p>
+
+<p>—– <strong>2019.4</strong> —–2023-03-02 15:30:25+08:00:</p>
+
+<p>虽然说是被苏联绑定了，但归根结底问题还是毛的政治观念和立场问题</p>
+
+<p>毛泽东是斯大林的好学生，他的政治取向是更愿意靠拢向苏联和斯大林的，一个社会主义国家，价值观和立场上肯定是更靠近苏联，在毛的视角看来，除了苏联也别无依靠，需要外部援助，苏联就是个很好的富哥。</p>
+
+<p>斯大林的行为更接近于要求交投名状，中方则是看情况下菜碟，苏联干预他们就介入，苏联也的确需要中国作为稳定的盟友施加在亚洲的影响力，没有苏联在冷战下需要亚洲桥头堡的刚需，毛泽东也不会选择出兵，在东北利益交换反而是其次。</p>
+
+<p>因为中共当时面临的是刚刚建立一个新政权，资源和管理经验严重不足，依赖外部帮助的时候，而毛泽东个人利益上也很看重输出意识形态与革命的身份。</p>
+
+<p>—– <strong>2019.5</strong> —–2023-03-06 20:35:57+08:00:</p>
+
+<p>对私营经济铁拳出击后，短期内掌握了大量的资源与经济权力，对外封闭时，这些资源让他么觉得自己又行了，对内呢，要有一个交代。</p>
+
+<p>既然不跟外国人做生意了，就自己搞起发展计划来。</p>
+
+<p>政党给自己定了每年应当实现的增长数字，达不到了，怎么办？</p>
+
+<p>那就要开始拔苗助长了，吹风促进，过热冒进，希望毕其功于一役。</p>
+
+<p>在基本意识形态和理想主义的作用下，出现了各种不切实际的大跃进目标。</p>
+
+<p>当然哪怕不是现在积极实现，本身社会主义的政治理念也是存在的。</p>
+
+<p>只不过大跃进本身，不完全是外部环境变化憋出来的，而是外部环境变化后一系列内部运动，加速催生了这种现象，以中共体制和毛这个人的存在，就算不对私营经济出手，大概率还是会有的。</p>
+
+<p>早期大跃进的过于乐观，我觉得有这样一个演变过程，最初觉得外部封锁了，政策改变，对右派和私营经济出手，会不会有什么不好影响的问题（双百运动）</p>
+
+<p>结果觉得好像不靠外面也能办事，是因为收缴生产资料和控制生产秩序后，大量资源的涌现让他们有了一种自信，浮夸风就是当时的体现，浮夸风的基础就是短期资源盈余，而生产效率被腰斩的问题还没体现。</p>
+
+<p>等体现出来时，大锅饭就吃不起了，开始闹饥荒了。（早期公共食堂是确实有饭吃的）</p>
+
+<p>如果中国是个小国，他们能从民间掠夺的资源未必够他们有信心基础展开浮夸风和跃进运动，转向也能更快，但中国当时几个亿人口，吃饭的嘴也多，但生产效率还很低，生产一被拦腰斩断，问题堆积的也更大。</p>
+
+<p>毛泽东建政后主政的两个阶段，第一阶段完全倒向苏联，换取了有限的技术和资源，随后政治和经济上恶化了内部相对缓和的环境，被迫用激进手法快速推动社会适合他们管控，并且随后在缺乏治国经验和过度自信后，造成了更大规模的悲剧。</p>
+
+<p>跟着毛泽东为了维护他一直以来的政治路线，必须持续对内发动政治运动。第二阶段则是在执政中后期，完全与苏联交恶且转向美国。</p>
+
+<p>毛死前其实也意识到了国内状况必须改，但不愿意改，因为这涉及到他的个人政治立场和利益，一开始投靠苏联后带来的连锁反应，已经让他无法回头了，所以华国锋的洋跃进，就是在试图不否定毛路线前提下，进行对旧有体制的缝缝补补，直到彻底失败被边缘化。</p>
+
+<p>—– <strong>2019.6</strong> —–2023-03-06 21:01:30+08:00:</p>
+
+<p>可能性很小吧，华国锋他们是毛一死就立刻谋划处理四人帮，大概率是之前已经私下沟通过了。</p>
+
+<p>四人帮这面不是完全没有反应，但按照已有资料来看，都没有华国锋等人快，可能党内有资料记录但没公开或者压根没被记录。</p>
+
+<p>毛远新要不要被外放出去这件事就发生过争执，可能此时四人帮的警戒心还没到最高，十月份毛远新想起要调兵，还让民兵准备，尤其是上海的，结果叶剑英职权和威望更高，一下给覆盖了。</p>
+
+<p>除非华国锋反应比他们慢，毛远新的军队威望和职务能覆盖叶剑英的命令。</p>
+
+<p>或者四人帮集体跑到上海，还能让当地的官僚与军队服从命令，能跟北京形成对立局势，单纯靠北京方面，机会渺茫。</p>
+
+<p>毛泽东晚年可能没预期到他一死，华国锋等人就先斗起他的嫡系，而且他对毛远新的安排也是偏慢的，他也应该没预期到自己恶化的这么快。</p>
+
+<p>从时间上来看，毛泽东身体健康从1974年迅速恶化，然后开始对毛远新加速提拔，1975年基本上已经无法独立自理，76年按现在说法算半瘫痪了。</p>
+
+<p>毛远新恰巧是75年结束在辽宁军队和党务系统的锻炼，被毛泽东拉回中央，他让毛远新代行很多扩大会议，应该是希望他把这群人的班底接过来，但显然不大可能。</p>
+
+<p>如果毛泽东多活三五年，毛远新是可以在中央站稳脚跟的，但是第二年毛泽东就死了，叶剑英等人希望调毛远新外放离开北京，可能也是考虑毛远新的影响力，怕自己翻车，好在最后毛远新也没翻起风浪。</p>
+
+<p>毛可能预期他死后，主要对四人帮和毛远新的接班压力，来自于邓在内的等国务院”保守派“，所以毛泽东死前最后研究的就是要不要彻底打倒邓小平。</p>
+
+<p>最后他下决定是要彻底边缘化邓小平，毛远新一手抓，江青也很积极，结果就要落实了，毛泽东死了，无暇顾及。</p>
+
+<p>没料到他安排在国务院和军队的”外朝“嫡系反水，也没提前安排好后事，挺像刘彻托孤霍光，但这个霍光等都不等，直接反手就废帝。</p>
+
+<p>结果被陈云和邓小平等人给黄雀在后了。</p>
+
+<p>—– <strong>2019.7</strong> —–2023-03-08 01:35:48+08:00:</p>
+
+<p>堡垒战术是常规军事思想的体现，受过军事训练的将领如果有需要肯定想得到，但非常依赖资源，五次围剿里，蒋介石开始侧重接手后，国民党实际都一直尝试该路线，战略进攻合围，战术寻求决战。</p>
+
+<p>但是资源不足无法形成合围寻找主力快速决战，这个是经常被忽略的，国民党也不是德国顾问来了突然开窍。</p>
+
+<p>因为兵力动员规模超过三十万后，仍然不足以进行分兵合围逼迫中共主力决战，反而被运动战穿插迂回消灭留守部队，第四次反围剿时，南丰等地已经开始进行就地固守，中共强攻也造成了不小损失。</p>
+
+<p>德国顾问就职后，刚好蒋介石以塘沽协定抽出手来，开始大规模集中资源用于围剿。</p>
+
+<p>林彪就指出了堡垒战术的不可持续性：</p>
+
+<blockquote>
+  <p>有些负责同志把敌人在五次“围剿”中的堡垒政策看成了很机械的，以为敌人是在任何条件下都是三四百米一进、三五里一推的步步为营，这种观察是显然没有看到敌人在政治上财政上的困难，不允许它完全采用这种方法。</p>
+
+  <p>敌人每推进一步，须做一步的堡垒，但每期堡垒至少需四日才能完成，它如完全用这个方法前进，它将要耗费若干年月的时间，若干数量的兵力，若干巨大的经费才能把我们苏区蚕食尽呢？</p>
+
+  <p>同时我们的苏区虽一区域被其侵占而缩小了，而在其他地方我们的苏区仍可继续发展着。在事实上，敌人在过去、在现在，也没有完全采用三四百米一推的方法。</p>
+</blockquote>
+
+<p>谁想到蒋介石下了血本，大量资源集中进行战术防守战略逼近，蚕食中共控制的根据地，没有空间留给他们进行穿插，加上李德的战略误判，以及中共内部此时矛盾和斗争问题。</p>
+
+<p>另外是否是德国顾问制定，也只是有相关说法，从实际角度来说，是蒋介石、柳维垣、戴岳等人一起开会制定的。</p>
+
+<p>再有毛泽东等人的军事问题，博古侄子写的东西作为诸多参考物可以看，把主观性的评价当作绝对客观就不切实际了。</p>
+
+<p>军事作战不是手里拿曾希圣和曹祥仁破译的密码就跟游戏开全图挂一样，要真那么简单毛泽东就能在红军内做大做强，就不用争路线了，政权核心实权人物的斗争都是要经过能力考研的，党内中高层干部接受和服从毛也是有原因的。</p>
+
+<p>与毛立场对立的情况与舆论环境，评价毛的能力又跟墙内评价蒋介石一样，过度为了破神话和形象而压低甚至扁低，综合客观历史发展事实，都能发现有不对劲的地方。</p>
+
+<h3 id="2020-发现我的狗很有某人的风范-submitted-on-2023-03-02-0654280800">2020: <a href="https://old.reddit.com/r/China_irl/comments/11fkybk/发现我的狗很有某人的风范/">发现我的狗很有某人的风范</a>, submitted on 2023-03-02 06:54:28+08:00.</h3>
+
+<p>—– <strong>2020.1</strong> —–2023-03-02 16:07:48+08:00:</p>
+
+<p>图一还是图二？</p>
+
+<h3 id="2021-金灿荣俄罗斯的责任我们也得说-submitted-on-2023-03-02-1034330800">2021: <a href="https://old.reddit.com/r/China_irl/comments/11fqbt0/金灿荣俄罗斯的责任我们也得说/">金灿荣：俄罗斯的责任我们也得说</a>, submitted on 2023-03-02 10:34:33+08:00.</h3>
+
+<p>—– <strong>2021.1</strong> —–2023-03-02 16:14:03+08:00:</p>
+
+<p>好分，张维为脸上写了难绷两个字。</p>
+
+<h3 id="2022-仔细思考一下涓流效应其实是一个很难蚌的经济学理论-submitted-on-2023-03-03-2359310800">2022: <a href="https://old.reddit.com/r/real_China_irl/comments/11h47wo/仔细思考一下涓流效应其实是一个很难蚌的经济学理论/">仔细思考一下，涓流效应其实是一个很难蚌的经济学理论</a>, submitted on 2023-03-03 23:59:31+08:00.</h3>
+
+<p>—– <strong>2022.1</strong> —–2023-03-06 20:09:49+08:00:</p>
+
+<p>因为实际刺激的是全球经济市场，而不单独是国内市场。</p>
+
+<p>富人或者企业的持有者获得减税，最后还是要回归到降低生产与财富持有成本，他们因此会选择将市场与资产分布到全球范围内。</p>
+
+<p>也就是说这些资金最后大概率流出了国内，可能在国外进行更好的生产来获取财富，然后反馈回国内，但是这样环节过多，就无法判断哪部分是政策本身带来的有效执行。</p>
+
+<p>现代社会其实每个持有超量财富的人，注定根本不可能靠个人消费带动经济增长，因此每个这种巨富的个人或企业，他们实际都自己担当了一个投资节点，可以更好的促进产业发展，因为他们能承担更多风险在一些中长期内毫无收益，且耗费巨大的新兴产业。</p>
+
+<p>产业发展离不开这种模式，我不同意有观点认为这部分人手上的钱是“一潭死水“，相反钱到了他们手里就不再是传统税收、市场环节里的等价媒介，而是一种定向投资的资源。</p>
+
+<p>如果全都要依赖从这些巨富个体手中获取大量财富用于处理财政失衡，结果只会是融资、投资市场的停滞，投资者希望看到的是未来潜在盈利的市场，投资者也会自己承担损失，而不需要政府用税收承担。</p>
+
+<p>法定税收是个非常严谨的领域，没有税率增长和扩张，很难合法从各个领域征税。</p>
+
+<p>如果政府要不断承担一个主动性很高的积极介入角色，不可能靠无限加税给全社会来处理，尤其是政府无法有效进行财富分配时，单独对中产和富裕阶层征税，既达不到足够的税收量，也可能导致他们作为”投资节点“的活跃度下降。</p>
+
+<p>这也是为什么MMT理论有市场的原因，但MMT不能单独的对应整个现代政府财政发展的模式，还需要多种方案复合才行，因为MMT某种意义上来说一定会崩，可是只要经济不断发展，确保未来有税收就可以了，那么税收的增长基础在哪？</p>
+
+<p>过去是以经济发展作为税收的增长基本盘，但慢慢的科技摸到极限，就要看人口规模和结构，但发达国家几乎没有不面临人口增长下降的情况，也就是说个体生产对经济的影响是越来越少的，自己国家内没有那么多未发达人口可以进行转化。</p>
+
+<p>除非是对外拓展市场，然后提高本国劳动待遇，在产生消费的同时进行征税，确保税收基础跟得上债务利息。</p>
+
+<p>这样问题就回归到一个基本问题上了，这些财政措施，都要涉及到一个企业对外的环节部分，政府是没法进行有效税收，加税给企业他们会外流，不加税全球化下国内必然不可能有对应的劳动岗位。</p>
+
+<p>那么反过来想，全球化其实反而能通过降低生产成本，让物价廉价，然后反过来输出到国内，降低生活必需品的刚性开支，而通过全球化发展，其他国家慢慢形成有消费能力的阶级群体，本国生产的产品就又多了一个市场，从而确保了经济增长。</p>
+
+<p>因此开拓外部市场就有必要性，但是光这样也不行，还要依靠基础科技的增长来带动经济活动产能上限的增长。</p>
+
+<p>经济活动总产值，依赖基础科技带来的生产力X人口基数（与对应结构），这两个铁壁的增速，前者依赖富裕阶层的投资和企业实用化，后者依赖移民，单纯靠内源性的传统模式已经不可能有积极增长，外源性的开拓除了前两者外，就是要靠全球化推动其他市场的发展，增加本地企业的市场需求，以及在发展阶段获得廉价的产品。</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2023-03-05</time>
+        <a href="https://nodebe4.github.io/opinion/2023-03-05/EnclavedMicrostate/">
+          EnclavedMicrostate在2023-02-27~2023-03-05的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-03-04</time>
+        <a href="https://nodebe4.github.io/opinion/2023-03-04/ForeignAffairsMag/">
+          ForeignAffairsMag在2023-02-27~2023-03-05的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-02-26</time>
+        <a href="https://nodebe4.github.io/opinion/2023-02-26/theoryofdoom/">
+          theoryofdoom在2023-02-20~2023-02-26的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-02-25</time>
+        <a href="https://nodebe4.github.io/opinion/2023-02-25/Spinkcat/">
+          Spinkcat在2023-02-20~2023-02-26的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2023-03-03/SpeechFreedomCN/">
+            前一篇：Twitter @中国文字狱事件盘点: 2023-02-27~2023-03-05
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2023-03-03/realcaixia/">
+            後一篇：Twitter @蔡霞: 2023-02-27~2023-03-05
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2023-03-03/SpeechFreedomCN/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2023-03-03/realcaixia/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2023-03-04/ForeignAffairsMag/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2023-02-26/theoryofdoom/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2023-03-03/SpeechFreedomCN/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2023-03-03/realcaixia/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2023-03-04/ForeignAffairsMag/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2023-02-26/theoryofdoom/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

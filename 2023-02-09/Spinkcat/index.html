@@ -1,0 +1,2320 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Spinkcat在2023-02-06~2023-02-12的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Spinkcat在2023-02-06~2023-02-12的言论" />
+    <meta property="twitter:title" content="Spinkcat在2023-02-06~2023-02-12的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FChina_irl%2Fcomments%2F10viuar%2F%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B6%8A%E6%9D%A5%E8%B6%8A%E8%AE%A4%E5%90%8C%E6%B4%BC%E5%9C%B0%E8%BF%99%E4%B8%AA%E9%AD%94%E6%80%94%E8%AF%8D%E6%B1%87%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/China_irl/comments/10viuar/我为什么越来越认同洼地这个魔怔词汇/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/China_irl/comments/10viuar/我为什么越来越认同洼地这个魔怔词汇/&text=Spinkcat在2023-02-06~2023-02-12的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/China_irl/comments/10viuar/我为什么越来越认同洼地这个魔怔词汇/&title=Spinkcat在2023-02-06~2023-02-12的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/China_irl/comments/10viuar/我为什么越来越认同洼地这个魔怔词汇/&title=Spinkcat在2023-02-06~2023-02-12的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Spinkcat在2023-02-06~2023-02-12的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/China_irl/comments/10viuar/我为什么越来越认同洼地这个魔怔词汇/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/China_irl/comments/10viuar/我为什么越来越认同洼地这个魔怔词汇/&title=Spinkcat在2023-02-06~2023-02-12的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Spinkcat在2023-02-06~2023-02-12的言论&url=https://old.reddit.com/r/China_irl/comments/10viuar/我为什么越来越认同洼地这个魔怔词汇/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Spinkcat在2023-02-06~2023-02-12的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2023-02-09
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://www.reddit.com/user/Spinkcat/" style="font-size:14px;">作者: Spinkcat</a>
+        </span>
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/China_irl/comments/10viuar/我为什么越来越认同洼地这个魔怔词汇/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#2005-我为什么越来越认同洼地这个魔怔词汇-submitted-on-2023-02-07-0531490800" id="markdown-toc-2005-我为什么越来越认同洼地这个魔怔词汇-submitted-on-2023-02-07-0531490800">2005: 我为什么越来越认同“洼地”这个魔怔词汇, submitted on 2023-02-07 05:31:49+08:00.</a></li>
+  <li><a href="#2006-转移支付是错的-submitted-on-2023-02-08-1608190800" id="markdown-toc-2006-转移支付是错的-submitted-on-2023-02-08-1608190800">2006: 转移支付是错的！, submitted on 2023-02-08 16:08:19+08:00.</a></li>
+  <li><a href="#2007-话说突然想到墙内这么恨清是不是因为觉得清导致中国落后害得中国这么惨-submitted-on-2023-02-09-0237570800" id="markdown-toc-2007-话说突然想到墙内这么恨清是不是因为觉得清导致中国落后害得中国这么惨-submitted-on-2023-02-09-0237570800">2007: 话说突然想到墙内这么恨清，是不是因为觉得清导致中国落后害得中国这么惨, submitted on 2023-02-09 02:37:57+08:00.</a></li>
+</ul>
+
+<h3 id="2005-我为什么越来越认同洼地这个魔怔词汇-submitted-on-2023-02-07-0531490800">2005: <a href="https://old.reddit.com/r/China_irl/comments/10viuar/我为什么越来越认同洼地这个魔怔词汇/">我为什么越来越认同“洼地”这个魔怔词汇</a>, submitted on 2023-02-07 05:31:49+08:00.</h3>
+
+<p>—– <strong>2005.1</strong> —–2023-02-09 05:15:34+08:00:</p>
+
+<p>凡事重在建设，都是人，一个鼻子两个眼睛，差的是有够差的，但差有差的活法，别人好的也的确是好，我们是该羡慕，可没什么是永远不变的，障碍不打就不倒，逆流直上才是真。</p>
+
+<p>洼地？我偏要把这个大坑给填平咯。</p>
+
+<h3 id="2006-转移支付是错的-submitted-on-2023-02-08-1608190800">2006: <a href="https://old.reddit.com/r/China_irl/comments/10wr5ea/转移支付是错的/">转移支付是错的！</a>, submitted on 2023-02-08 16:08:19+08:00.</h3>
+
+<p>—– <strong>2006.1</strong> —–2023-02-08 21:09:03+08:00:</p>
+
+<p>转移支付本身概念没问题，有问题的是配套措施。</p>
+
+<p>中共的转移支付逻辑，不是通过转移支付手段把贫穷地区在无外部资源输入的情况下扶持起来。</p>
+
+<p>而是吊着他们有口气喘就行，甚至会借转移支付限制某些有潜力的地区脱离他们认为的地位自行发展。</p>
+
+<p>再有就是转移支付的背景，是禁止人口自由流动，无法通过所在地纳税享有全国性基本公共服务为前提，变相把人与土地绑死，这种情况下被迫用转移支付吊着一口气给出不来也无法改变自身的穷困省份人口。</p>
+
+<p>合理的转移支付，应该是在允许人口流动的前提下，该地区无外部资源自行建设，政府承担一个投资者角色去建设当地，为地方提供启动资金。</p>
+
+<p>现在中共只是靠分税制收缴全国财权，他们认为你这个地方发展不起来，你可能需要100%的资金，但他只给你60%。</p>
+
+<p>给没给钱？的确给了。</p>
+
+<p>但是够不够启动发展的，不够。</p>
+
+<p>也就是说并没有真正改善穷富省份有区别的核心问题，相反助长了这种情况发生。</p>
+
+<p>又要绑住一大群人在当地，又不肯给足额的发展资金、政策，别说西部穷省了，东北这种基础底子强的，转移支付和配套政策实际都是限制当地发展。</p>
+
+<h3 id="2007-话说突然想到墙内这么恨清是不是因为觉得清导致中国落后害得中国这么惨-submitted-on-2023-02-09-0237570800">2007: <a href="https://old.reddit.com/r/China_irl/comments/10x70bx/话说突然想到墙内这么恨清是不是因为觉得清导致中国落后害得中国这么惨/">话说突然想到墙内这么恨清，是不是因为觉得清导致中国落后害得中国这么惨</a>, submitted on 2023-02-09 02:37:57+08:00.</h3>
+
+<p>—– <strong>2007.1</strong> —–2023-02-09 07:11:34+08:00:</p>
+
+<p>其实不谈现在网上的各种印象，在老一代革命出身的人眼里，也提到了类似认知。</p>
+
+<p>倒不是闭关锁国或别的什么的网上常见舆论，而是指清朝在洋务运动后，没有立刻转型放权，君主立宪一直拖延到非常晚期才做，进而导致革命党出现，人心惶惶后被迫改革，结果半途而废，直接导致权力真空，出现了长期的混乱。</p>
+
+<p>清朝对后世的负面直接影响，主要来自于鸦片战争后，明明与日本同期进行改革，日本完成了全面转型，清廷内部保守派却一直在致力于拖延改革，哪怕满人内部出现过改革主义者，却也遭到了扑杀或排挤，导致清国十九世纪下半叶变成了“学其体而不用其骨”的局面。</p>
+
+<p>一旦真正的改革需求到不可遏制时，既无法镇压重新走上改革道路，也无法从容妥协放权换取稳定。</p>
+
+<p>反而是压一半，做一半，进退两难的情况下权力中枢崩溃。</p>
+
+<p>可以说中国二十世纪上半叶的混乱，是清廷一手导致的，也让中国成为一个易于被日本盯上入侵的目标。</p>
+
+<p>—– <strong>2007.2</strong> —–2023-02-15 23:55:36+08:00:</p>
+
+<p>社会经济发展的同时，带来了大量资源。</p>
+
+<p>而众所周知，相对落后的农业国更倾向于威权主义与社会。</p>
+
+<p>这就导致从农业快速过渡到工业社会时（或工业社会往更高级形态发展时），社会的实际状况与制度出现不匹配的状况。</p>
+
+<p>也就是说，制度对比社会意识形态的改变是有很强延迟性的，从历史角度来说几十年就是一刹那而已，非常短暂。</p>
+
+<p>但是对一个人来讲就是一生，因而很容易被人误判为威权主义崛起是一种趋势。</p>
+
+<p>而另一方面，威权主义也的确会随发展中国家经济增长而强势。</p>
+
+<p>因为在社会形态过渡期间，有延迟性的制度，仍然由威权主义者控制。</p>
+
+<p>威权主义者此时便可以利用社会高速发展的经济获取大量资源，从而在国际和国内获得更多话语权（比如习近平早期对外大规模借贷，亚投行到一带一路等，以及资金增加扩大对内控制）</p>
+
+<p>但这些行为往往不产生经济效益，也不符合社会经济上发展规律，而观察者恰巧生存在这个时间点。</p>
+
+<p>—– <strong>2007.3</strong> —–2023-02-20 09:31:00+08:00:</p>
+
+<p>国内除了少数人外，多数人都是墙头草，风往哪吹就往哪倒，谁上台唱什么曲就听什么戏。</p>
+
+<p>嘴上说不要现代民主，是因为权力没在自己手上，一旦把权往下放，他们万万不会再放手。</p>
+
+<p>说白了，民众并不傻，但也没有主观改变的意愿，封闭环境里有什么就说什么，跟风摆而已，改革开放前那么多年计划经济，吃到好处就没人愿意回头，自由化放权符合现代社会发展的生产力需求，这种需求已经一定程度体现在社会各个方面。</p>
+
+<p>苏联转型到俄罗斯，仍然有大量威权主义者，中国也无可避免。</p>
+
+<p>也因此，新政权或者有志者，更应该团结意识形态与手腕，尽可能避免保守派换皮后建立一个不那么进步的威权政府，要比威权主义者更有现实感的推行自由化。</p>
+
+<p>而苏联缺乏经济基础，没有现代化的产业与社会演化，这一点是中国与苏联不同的，中国走在资本主义道路上，社会的形态发展基本充分，苏联改制相当于日本二战刚结束后半死不活，中国则类似到了日本八九十年代前夕，发展到一定高度后，人的观念和社会的生产结构发生了不可逆的变化。</p>
+
+<p>那么改制自由化的需求就更高更普遍，但因为人口过于庞大，也无可避免会出现保守主义者换皮上位的可能，这是最值得警惕的。</p>
+
+<p>威权保守派狡猾残忍，推行自由化的人要比他们更狡猾决绝。</p>
+
+<p>虽然历史趋势上，就算有一个威权政府上台，迟早也要回归到自由化路线，但是我们没有必要非等一辈子浪费时间，因此这一代人的主观行动就决定了下一代有多早能享受到更自由化的生活，我们也该在老龄化完全腐蚀社会前，尽早结束威权政府管控的旧社会，在未来全球竞争里尽早拿到一个好的位置。</p>
+
+<p>至于刘仲敬说的四分五裂，跟小政府分权是不完全是一回事，那是他的个人政治主张，不具备现实实现的可能性。</p>
+
+<p>回归小政府是社会生产结构带来的必然结果，因为社会太过庞大，政府并不是真正意义变小了，而是分权于各地，而非集中在一个大的中央政府手里。</p>
+
+<p>因此“小政府”的描述在我看来不严谨，它实际上是一个平权政府，减少政府非必要开支与管控，因为一个要管理十几亿人所有事项的政府，必然是极其庞大和臃肿的，这只会带来效率问题，进而妨碍社会自行高效率运转。</p>
+
+<p>中央政府职责更多应该是集中于全国性政策，而不是“因为是中央政府所以大小事务咸决于之”。</p>
+
+<p>—– <strong>2007.4</strong> —–2023-02-20 09:59:43+08:00:</p>
+
+<p>没必要，欧美发达国家也不是靠这种体制发展，威权只是延续农业时代社会底层运作逻辑的一种体现，过去的直接制度和阶级体现就是王权封建社会。</p>
+
+<p>只不过共和化后，威权转型为独裁、专制，从个人到小圈子集体的区别，骨子里变化不大。</p>
+
+<p>正确来讲，需要的是良好的治理，因为集中力量办事客观存在，但这是基于做的正确，而不是集中力量，只要做的正确了，资源倾斜集中力量在全球任何政府体制里都存在，与民主化无必然关系。</p>
+
+<p>区别在于，一个社会利益持份者足够多时，假设你不通过对内获取合法性与支持，让集体有一个共识，一意孤行的施政只会带来社会撕裂。</p>
+
+<p>因此会出现大量的反对者，对反对者又需要镇压，进而导致社会矛盾积聚，甚至走向内战，那么这种可能导致社会撕裂与内战的所谓集中力量办大事，是不是还有必要呢？</p>
+
+<p>面对这个问题，专制集体要么是到时候放权，要么是留一条路出来，装硬汉到最后的，会让矛盾升级到不可调和，到时候就是身死族灭的大祸，并且留下一地鸡毛，让集权时不改革的弊病，直接无缓冲下坠到整个社会。</p>
+
+<p>但反过来如果你得到了普遍支持，这种合法性对政策的推动也会远大于独裁专制下威权化压制社会反对声音得来的所谓“力量”。</p>
+
+<p>一个议题，有充足数量的人反对时，就说明推广缺乏落实基础，但如果反对的人很少， 不足以形成大规模的矛盾，这个时候选举上台的政权其实是可以靠制度赋予的权力强行推行的。</p>
+
+<p>也就是说，民选制度虽然考虑不同阶层利益，但也赋予了执政者一定程度的决定权，只不过如果社会后来认为这些政策不利于社会长期发展，下一任上台就会取消或者修改细节，比如经典的奥巴马医保就是靠制度优势强推，但共和党上台也不是说一味否定，只是认为社会有这个需要，但细节不该如此。</p>
+
+<p>再者是，的确存在威权主义社会的普遍情况，因为很多人适应的就是威权主义，会天然地支持这种社会管理模式。</p>
+
+<p>而反过来讲，宪政民主的本质，是一套适用于工业化精细分工的社会制度，只有当社会生产力的硬件水平有需求时，宪政民主制度才有市场。</p>
+
+<p>因此生产力落后的农业国与半工业国，社会成员个体都是习惯于威权主义的生产模式，因为威权主义只能管理少数产业分工，而一个人价值观和技巧学习基本都在前半生成型，所以对新社会与制度普遍都是抵触的，也给了威权主义制度生存和“被需求的空间”。</p>
+
+<p>新中国实际具备了宪政民主的基础，但仍然无法完全脱离威权主义，因为有数亿人口仍然从事农业生产，计划经济的推行其实就是源于习惯威权主义者的软弱性，以及政权拳头大双重作用下的结果。</p>
+
+<p>是人都没法想象美国人会老实接受政府强加这种制度，国内少数脱离威权主义观念的人，在当时也是有很大抵触的，可并不足以形成一种反对浪潮，这就是大环境下多数人是被动的威权主义者的体现。</p>
+
+<p>我们也都没听说过，有哪些个国家开始不可逆走向宪政民主化时，会有威权政府的威权主义支持者出来死节，也说明了威权主义本质是服从与被服从，人会自我驯化的一个体现而已，是不需要考虑持份者意见的。</p>
+
+<p>所以新中国实行宪政民主，本质还是会回到威权主义道路上，但是会把这个曲折提前三四十年，首先宪政民主下就不可能强行推动计划经济，那就还是走改革开放的老路，社会的发展更早，自然也会更好。</p>
+
+<p>虽然有威权主义的内核，这也是无可避免的。</p>
+
+<p>但我们可以通过尽早发展经济，改变社会生产力的底层逻辑，来促使威权主义褪色，也是到当代社会正在发生的变革。</p>
+
+<p>那么从这点看，前三十年大体上是没什么意义的垃圾时间，甚至反思都不彻底，现代的威权主义者仍然想走回老路。</p>
+
+<p>到最后也就又涉及一个问题，威权主义者在面临放权的抉择时，要么放权换来和平的社会变革，要么就是坚决不放权，宁可为了维护自己利益也要拖整个社会与国家未来发展下水。</p>
+
+<p>前者在全球各地是稀少的，后者却比比皆是，数不胜数。</p>
+
+<p>由此可见，我们所处在什么样的一个环境和未来当中。</p>
+
+<p>—– <strong>2007.5</strong> —–2023-02-21 19:37:28+08:00:</p>
+
+<p>殖民目的是原材料，原材料能变现来自于技术与商业的进步，也就是生产力的进步。</p>
+
+<p>就像非洲土著，有煤炭他们也没法变现，而殖民时代的兴起就是因为工业化开始后，许多有技术和商业需求的国家缺乏资源。</p>
+
+<p>在殖民之前，这些资源没有任何技术和概念高效利用起来，殖民之后，殖民者为了维护设备与当地业务，会投入大量资源进行在地化建设，反而提供了利用资源的技术与认知。</p>
+
+<p>也就是说，很多资源在殖民之前，对当地人来说是无甚作用。</p>
+
+<p>但殖民掠夺现象是客观存在的，却不代表欧美国家是靠殖民掠夺发展起来，殖民仅仅是因为那个年代的国际和对内政治道德允许他们这样做，就跟古人童婚一样。</p>
+
+<p>有趣的地方是，正因为殖民行为才赋予了许多殖民地资源价值，让这些殖民地开始现代化。</p>
+
+<p>伴随殖民地时代的结束，其中一个主要原因就是殖民不如购买，到十九世纪末期，许多地方更愿意发展势力范围组成关税区，到一二战后干脆殖民地模式彻底没落。</p>
+
+<p>从殖民地掠夺如果说是获取原材料，那么必须要有一个消费对象才行，否则就会造成过剩，而一个国家本土人口有限，因此后来对外贸易，或者说培育能进行贸易的对象，反而是许多老牌工业国家的常态。</p>
+
+<p>无论对内还是对外殖民，许多国家都做过，但是为什么清朝靠压榨内部也发展不起来，这一点其实已经说明，所谓的殖民掠夺说法站不住脚。</p>
+
+<p>单纯靠殖民掠夺来发展这种论调，是默认全世界的资源与财富是等价的，只需要欧美殖民者到处靠枪杆子搬运，就能持续赋予发展几百年，跟现在说美国靠美军维护美元和控制石油一样。</p>
+
+<p>完全忽略了美元强势的基础，根本原因是美国的产业和庞大的消费市场，是个既生产全球种类最全也最广泛，还有全球最大和单体力度消费最高的市场。</p>
+
+<p>美元就像一张在该市场的兑换券，你进入该最大市场持券能购买和消费，包括其他进入该市场的国家，你也可以场外靠这个与他们贸易，然后他们也能重新到美国市场贸易，这是美元的核心强势基础。</p>
+
+<p>—– <strong>2007.6</strong> —–2023-02-22 04:39:02+08:00:</p>
+
+<p>部分，但绝大部分殖民地消费不起这些工业国的产品。（或不足以承担全部消费需求）</p>
+
+<p>以鸦片战争为例，同时期清朝对外顺差，因为社会形态差异过大，虽然英国方面认为是个庞大的市场，但中国自耕农是消费不起欧洲工业产品的。</p>
+
+<p>中国通过压低人均生活水平和阻断技术生产力的应用，将平民消费与收入水平压到非常低的程度，无法消费进阶工业品，导致双方贸易期间的货币结构出问题，交易媒介越来越少，成本也在提高。</p>
+
+<p>英国也有通过发展殖民地的方法，把殖民地人口利用起来，发展了海外市场，典型的如英国的纺织工业。</p>
+
+<p>包括银矿在内，单独靠欧洲的银矿是不足以让欧陆各国与中国进行长期的大宗商品贸易，南美洲等欧陆国家殖民地独立后，这些产银地的丢失，让英国以外的国家都退出了与中国贸易。</p>
+
+<p>唯独英国靠掌握印度棉花的原材料生产，能对中国进行大规模的出口，从而形成一定程度的贸易平衡。</p>
+
+<p>但是中国的地生活水平与庞大领土，本土也生产了相当多原材料，在缺乏远距离运输技术的情况下，进口产品不像现在一样容易覆盖到全国。</p>
+
+<p>最后出现供过于求，中国市场根本没能力消化大量棉花，贸易平衡再次被打断。</p>
+
+<p>中国方面的行商制，卡死了外部商贸进入中国的可能性，都要通过这道关卡，而得到许可的行商内部往往串联形成垄断，进一步压低了在华贸易的价值。</p>
+
+<p>也就是说，社会形态差异太大，日用品难以被输入，输入后被抽高关税且平民无法消费，庞大的市场就无从谈起，最后这种贸易平衡需求就落到了少数奢侈品上。</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2023-02-12</time>
+        <a href="https://nodebe4.github.io/opinion/2023-02-12/EnclavedMicrostate/">
+          EnclavedMicrostate在2023-02-06~2023-02-12的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-02-11</time>
+        <a href="https://nodebe4.github.io/opinion/2023-02-11/ForeignAffairsMag/">
+          ForeignAffairsMag在2023-02-06~2023-02-12的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-02-08</time>
+        <a href="https://nodebe4.github.io/opinion/2023-02-08/theoryofdoom/">
+          theoryofdoom在2023-02-06~2023-02-12的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-02-04</time>
+        <a href="https://nodebe4.github.io/opinion/2023-02-04/theoryofdoom/">
+          theoryofdoom在2023-01-30~2023-02-05的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2023-02-08/%E9%A6%99%E6%B8%AF%E9%81%93%E5%88%A5%E5%BC%8F-%E5%BF%97%E5%85%89%E9%BA%B5%E6%AA%94-%E6%9C%80%E5%BE%8C%E4%B8%80%E7%A2%97%E5%BF%83%E6%A9%9F/">
+            前一篇：【香港道別式】志光麵檔 最後一碗心機
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2023-02-09/%E7%AC%AC%E4%B8%83%E5%B1%8A%E7%BD%91%E7%BB%9C%E7%A4%BE%E4%BC%9A%E5%B9%B4%E4%BC%9A-%E6%97%A7%E9%87%91%E5%B1%B1%E8%AE%BA%E5%9D%9B-%E4%B8%BB%E9%A2%98%E6%BC%94%E8%AE%B2-Livid-%E5%88%98%E6%98%95-%E5%A6%82%E4%BD%95%E6%8B%A5%E6%9C%89%E4%B8%80%E4%B8%AA%E5%AE%8C%E5%85%A8%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84%E8%B5%9B%E5%8D%9A%E7%A9%BA%E9%97%B4/">
+            後一篇：第七届网络社会年会 旧金山论坛 主题演讲｜Livid（刘昕）：如何拥有一个完全属于自己的赛博空间？
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2023-02-08/%E9%A6%99%E6%B8%AF%E9%81%93%E5%88%A5%E5%BC%8F-%E5%BF%97%E5%85%89%E9%BA%B5%E6%AA%94-%E6%9C%80%E5%BE%8C%E4%B8%80%E7%A2%97%E5%BF%83%E6%A9%9F/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2023-02-09/%E7%AC%AC%E4%B8%83%E5%B1%8A%E7%BD%91%E7%BB%9C%E7%A4%BE%E4%BC%9A%E5%B9%B4%E4%BC%9A-%E6%97%A7%E9%87%91%E5%B1%B1%E8%AE%BA%E5%9D%9B-%E4%B8%BB%E9%A2%98%E6%BC%94%E8%AE%B2-Livid-%E5%88%98%E6%98%95-%E5%A6%82%E4%BD%95%E6%8B%A5%E6%9C%89%E4%B8%80%E4%B8%AA%E5%AE%8C%E5%85%A8%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84%E8%B5%9B%E5%8D%9A%E7%A9%BA%E9%97%B4/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2023-02-11/ForeignAffairsMag/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2023-02-08/theoryofdoom/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2023-02-08/%E9%A6%99%E6%B8%AF%E9%81%93%E5%88%A5%E5%BC%8F-%E5%BF%97%E5%85%89%E9%BA%B5%E6%AA%94-%E6%9C%80%E5%BE%8C%E4%B8%80%E7%A2%97%E5%BF%83%E6%A9%9F/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2023-02-09/%E7%AC%AC%E4%B8%83%E5%B1%8A%E7%BD%91%E7%BB%9C%E7%A4%BE%E4%BC%9A%E5%B9%B4%E4%BC%9A-%E6%97%A7%E9%87%91%E5%B1%B1%E8%AE%BA%E5%9D%9B-%E4%B8%BB%E9%A2%98%E6%BC%94%E8%AE%B2-Livid-%E5%88%98%E6%98%95-%E5%A6%82%E4%BD%95%E6%8B%A5%E6%9C%89%E4%B8%80%E4%B8%AA%E5%AE%8C%E5%85%A8%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84%E8%B5%9B%E5%8D%9A%E7%A9%BA%E9%97%B4/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2023-02-11/ForeignAffairsMag/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2023-02-08/theoryofdoom/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

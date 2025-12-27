@@ -1,0 +1,1829 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>立大文集事务 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="「立人大学」将满 5 岁。最近，几位小伙伴把从虎口中保留下来的 200 多本《大學 在人間》陆陆续续赠送出去，谢谢参与过、支持过、关注过立大的各位朋友。立大赠书已结束，截止到 7 月 15 日有 160 余位朋友登记领取文集，由于数量有限，没有拿到纸质版《大學 在人間》的朋友可以从这里获取电子版。
+" />
+    <meta property="og:description" content="「立人大学」将满 5 岁。最近，几位小伙伴把从虎口中保留下来的 200 多本《大學 在人間》陆陆续续赠送出去，谢谢参与过、支持过、关注过立大的各位朋友。立大赠书已结束，截止到 7 月 15 日有 160 余位朋友登记领取文集，由于数量有限，没有拿到纸质版《大學 在人間》的朋友可以从这里获取电子版。
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="立大文集事务" />
+    <meta property="twitter:title" content="立大文集事务" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fnodebe4.github.io%2Fopinion%2F2016-07-15%2Flidawenji%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://nodebe4.github.io/opinion/2016-07-15/lidawenji/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://nodebe4.github.io/opinion/2016-07-15/lidawenji/&text=觀點-從草根到大師 git.io/JJCxS&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://nodebe4.github.io/opinion/2016-07-15/lidawenji/&title=觀點-從草根到大師 git.io/JJCxS" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://nodebe4.github.io/opinion/2016-07-15/lidawenji/&title=觀點-從草根到大師 git.io/JJCxS" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=觀點-從草根到大師 git.io/JJCxS&body=「立人大学」将满 5 岁。最近，几位小伙伴把从虎口中保留下来的 200 多本《大學 在人間》陆陆续续赠送出去，谢谢参与过、支持过、关注过立大的各位朋友。立大赠书已结束，截止到 7 月 15 日有 160 余位朋友登记领取文集，由于数量有限，没有拿到纸质版《大學 在人間》的朋友可以从这里获取电子版。
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://nodebe4.github.io/opinion/2016-07-15/lidawenji/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://nodebe4.github.io/opinion/2016-07-15/lidawenji/&title=觀點-從草根到大師 git.io/JJCxS&caption=「立人大学」将满 5 岁。最近，几位小伙伴把从虎口中保留下来的 200 多本《大學 在人間》陆陆续续赠送出去，谢谢参与过、支持过、关注过立大的各位朋友。立大赠书已结束，截止到 7 月 15 日有 160 余位朋友登记领取文集，由于数量有限，没有拿到纸质版《大學 在人間》的朋友可以从这里获取电子版。
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=觀點-從草根到大師 git.io/JJCxS&url=https://nodebe4.github.io/opinion/2016-07-15/lidawenji/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>立大文集事务</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2016-07-15
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: 立人</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#立人大学">
+          立人大学
+        </a>
+      </li>
+    </ul>
+
+    
+
+    <span style="float: right;" title="文集的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#立人大学 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+      <iframe id="player-" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/" frameborder="0" allowfullscreen></iframe>
+    
+    <p>「立人大学」将满 5 岁。最近，几位小伙伴把从虎口中保留下来的 200 多本《大學 在人間》陆陆续续赠送出去，谢谢参与过、支持过、关注过立大的各位朋友。<a href="https://lirencollege.github.io/2016/07/02/zengshu/">立大赠书</a>已结束，截止到 7 月 15 日有 160 余位朋友登记领取文集，由于数量有限，没有拿到纸质版《大學 在人間》的朋友可以从<a href="https://github.com/LirenCollege/LirenCollege.github.io/releases">这里</a>获取电子版。</p>
+
+<p>半年前至今，我们一直在搜集整理 2012~2014 年的文字资料，延用《大學 在人間》名字，再编辑一本<a href="https://www.gitbook.com/read/book/lrc/lrc">续集</a>，以电子化形式呈现给大家。续集包括了已成文字的讲课内容、学员调研报告、个人随记等内容。这些文字整理是一件庞杂的事情，每篇都要进行重新编辑校对。整理的过程中，有小伙伴提出在这本文集之外搭建一个网站作为精简版文集，选择四年部分文章放在上面，于是就有了<a href="https://lirencollege.github.io">大学在人间</a>这个网站。</p>
+
+<p>原本计划在这份电子文集中也包含研修班、文学院的资料，鉴于几位伙伴精力有限，暂定以游学班资料为主。</p>
+
+<p>凡是都要有始有终，立人大学在高压之下被迫解散地那么匆忙，一年过去，是应该画出一个分号了。以两份文集为四年的结果，同时也以此重新开启我们的自我教育、自我成长。</p>
+
+<p>by 立人丙</p>
+
+<hr />
+
+<h3 id="附录一部分留言">附录一：部分留言</h3>
+
+<p>在赠书登记中，有朋友留言道：</p>
+
+<blockquote>
+  <p>对立人大学的办学理念，人文学科的重视很赞同。一直很关注立人大学和图书馆的事情，14 年被关的时候很惋惜。</p>
+</blockquote>
+
+<blockquote>
+  <p>看到有人为教育站出来很感恩，希望所有对教育抱有真热情的人都能勇敢为教育出来，为了下一代，为了未来！</p>
+</blockquote>
+
+<p>也有朋友虽未能参加「立人大学」活动，但自己也做起图书馆阅读：</p>
+
+<blockquote>
+  <p>2013 年大三接触立人，阅读立人书记，为 2014 立人大学准备，但未能得到回复，暑假一人到成都，想拜见英强先生，但最后，只取得电话沟通。回学校后，组织自家家乡的图书馆，几位好朋友每月筹款，每月购买书籍，2015 启动，进行沉淀。</p>
+</blockquote>
+
+<p>也有朋友留言，坚持「立人」活动继续做下去：</p>
+
+<blockquote>
+  <p>立人是不是可以建立一个微博、微信公共号，或者 QQ 群，甚至是独立网站，方便我们学习体会感悟实践……</p>
+</blockquote>
+
+<blockquote>
+  <p>希望能与立人再深入交流办学、办事策略。
+建议你们换面，从新来过，通过网络的手段。线下困难太大了。还有其他方式可以实现你们的目标的。
+斗争还是要讲究策略。
+望，振作。</p>
+</blockquote>
+
+<h3 id="附录二获得书籍的朋友名单">附录二：获得书籍的朋友名单</h3>
+
+<h4 id="自取名单">自取名单</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th>姓名</th>
+      <th>书籍</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>刘z</td>
+      <td>立大笔记本，王康文集，赵越胜文集</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>李hj</td>
+      <td>立大笔记本，赵越胜文集</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>焦zh</td>
+      <td>立大笔记本，赵越胜文集，大学在人间</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>王sy</td>
+      <td>立大笔记本</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>王yw</td>
+      <td>大学在人间</td>
+    </tr>
+  </tbody>
+</table>
+
+<h4 id="补充名单">补充名单</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th>姓名</th>
+      <th>手机号</th>
+      <th>通讯地址</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>宋</td>
+      <td>182xxxxxx16</td>
+      <td>北京市</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>闫</td>
+      <td>156xxxxxx68</td>
+      <td>山东济</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>张</td>
+      <td>173xxxxxx91</td>
+      <td>上海市</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>牛</td>
+      <td>189xxxxxx20</td>
+      <td>河南省</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>杨</td>
+      <td>136xxxxxx70</td>
+      <td>江苏省</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>邓</td>
+      <td>139xxxxxx31</td>
+      <td>湖北省</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>李</td>
+      <td>170xxxxxx77</td>
+      <td>四川省</td>
+    </tr>
+  </tbody>
+</table>
+
+<h4 id="邮寄名单">邮寄名单</h4>
+
+<p><del>如果你登记了但不在发货名单里，请与 rolling404@gmail.com 联系。书籍数量众多，个人力量有限，难免錯漏，请多海涵。</del></p>
+
+<p><del>书籍已于 7 月 15 日全部发出。原本预想到付，但是考虑到付运费是预付的两倍多，因此小伙伴先行垫付了，请收到书的小伙伴将运费 8 元转到以下账户，支付宝和微信都可以。</del></p>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th>姓名</th>
+      <th>手机号</th>
+      <th>通讯地址</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>詹</td>
+      <td>189xxxxxx49</td>
+      <td>安徽省</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>贾</td>
+      <td>186xxxxxx85</td>
+      <td>北京北</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>丁</td>
+      <td>135xxxxxx60</td>
+      <td>北京市</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>房</td>
+      <td>185xxxxxx73</td>
+      <td>北京市</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>黄</td>
+      <td>152xxxxxx55</td>
+      <td>北京市</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>黎</td>
+      <td>185xxxxxx65</td>
+      <td>北京市</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>李</td>
+      <td>137xxxxxx71</td>
+      <td>北京市</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>刘</td>
+      <td>188xxxxxx69</td>
+      <td>北京市</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>龙</td>
+      <td>135xxxxxx04</td>
+      <td>北京市</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>孙</td>
+      <td>138xxxxxx71</td>
+      <td>北京市</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>王</td>
+      <td>153xxxxxx64</td>
+      <td>北京市</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>魏</td>
+      <td>133xxxxxx15</td>
+      <td>北京市</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>吴</td>
+      <td>185xxxxxx60</td>
+      <td>北京市</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>杨</td>
+      <td>131xxxxxx62</td>
+      <td>北京市</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>袁</td>
+      <td>186xxxxxx70</td>
+      <td>北京市</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>张</td>
+      <td>155xxxxxx08</td>
+      <td>北京市</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>S</td>
+      <td>139xxxxxx03</td>
+      <td>成都市</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>大</td>
+      <td>181xxxxxx28</td>
+      <td>成都市</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>何</td>
+      <td>184xxxxxx88</td>
+      <td>成都市</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>刘</td>
+      <td>186xxxxxx01</td>
+      <td>成都市</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>巴</td>
+      <td>181xxxxxx69</td>
+      <td>佛山禅</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>张</td>
+      <td>186xxxxxx23</td>
+      <td>福建省</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>柏</td>
+      <td>158xxxxxx65</td>
+      <td>广东省</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>蔡</td>
+      <td>135xxxxxx82</td>
+      <td>广东省</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>曾</td>
+      <td>136xxxxxx19</td>
+      <td>广东省</td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>曾</td>
+      <td>157xxxxxx35</td>
+      <td>广东省</td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>关</td>
+      <td>136xxxxxx27</td>
+      <td>广东省</td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>黄</td>
+      <td>137xxxxxx40</td>
+      <td>广东省</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>黄</td>
+      <td>187xxxxxx32</td>
+      <td>广东省</td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>江</td>
+      <td>135xxxxxx71</td>
+      <td>广东省</td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>梁</td>
+      <td>188xxxxxx50</td>
+      <td>广东省</td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>卢</td>
+      <td>189xxxxxx57</td>
+      <td>广东省</td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>罗</td>
+      <td>132xxxxxx86</td>
+      <td>广东省</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>罗</td>
+      <td>189xxxxxx09</td>
+      <td>广东省</td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>庞</td>
+      <td>155xxxxxx41</td>
+      <td>广东省</td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>舒</td>
+      <td>188xxxxxx34</td>
+      <td>广东省</td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>田</td>
+      <td>186xxxxxx62</td>
+      <td>广东省</td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>汪</td>
+      <td>156xxxxxx50</td>
+      <td>广东省</td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>谢</td>
+      <td>139xxxxxx08</td>
+      <td>广东省</td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>张</td>
+      <td>156xxxxxx19</td>
+      <td>广东省</td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>朱</td>
+      <td>156xxxxxx87</td>
+      <td>广东省</td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>朱</td>
+      <td>188xxxxxx33</td>
+      <td>广东省</td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>珠</td>
+      <td>134xxxxxx92</td>
+      <td>广东省</td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>邹</td>
+      <td>132xxxxxx85</td>
+      <td>广东省</td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>高</td>
+      <td>156xxxxxx24</td>
+      <td>广西桂</td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>罗</td>
+      <td>181xxxxxx03</td>
+      <td>广西壮</td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>陈</td>
+      <td>185xxxxxx64</td>
+      <td>广州市</td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>扣</td>
+      <td>138xxxxxx57</td>
+      <td>广州市</td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>王</td>
+      <td>132xxxxxx18</td>
+      <td>广州市</td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>赵</td>
+      <td>132xxxxxx23</td>
+      <td>广州市</td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>赵</td>
+      <td>188xxxxxx08</td>
+      <td>广州市</td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>李</td>
+      <td>153xxxxxx15</td>
+      <td>贵州省</td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>蔡</td>
+      <td>182xxxxxx77</td>
+      <td>海南省</td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>冯</td>
+      <td>159xxxxxx87</td>
+      <td>河北省</td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>王</td>
+      <td>138xxxxxx40</td>
+      <td>河北省</td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>王</td>
+      <td>139xxxxxx27</td>
+      <td>河北省</td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>李</td>
+      <td>132xxxxxx27</td>
+      <td>河北邢</td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>白</td>
+      <td>180xxxxxx88</td>
+      <td>河南省</td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>韩</td>
+      <td>180xxxxxx27</td>
+      <td>河南省</td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>苏</td>
+      <td>156xxxxxx31</td>
+      <td>河南省</td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>孙</td>
+      <td>152xxxxxx00</td>
+      <td>河南省</td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>王</td>
+      <td>186xxxxxx23</td>
+      <td>河南省</td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>杨</td>
+      <td>135xxxxxx52</td>
+      <td>河南省</td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>张</td>
+      <td>188xxxxxx73</td>
+      <td>河南省</td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>高</td>
+      <td>151xxxxxx90</td>
+      <td>黑龙江</td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>焦</td>
+      <td>158xxxxxx35</td>
+      <td>黑龙江</td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>曾</td>
+      <td>150xxxxxx97</td>
+      <td>湖北省</td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>陈</td>
+      <td>177xxxxxx30</td>
+      <td>湖北省</td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>陈</td>
+      <td>188xxxxxx11</td>
+      <td>湖北省</td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>范</td>
+      <td>159xxxxxx05</td>
+      <td>湖北省</td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>黄</td>
+      <td>158xxxxxx96</td>
+      <td>湖北省</td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>骆</td>
+      <td>187xxxxxx54</td>
+      <td>湖北省</td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>明</td>
+      <td>186xxxxxx76</td>
+      <td>湖北省</td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>裴</td>
+      <td>139xxxxxx23</td>
+      <td>湖北省</td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>彭</td>
+      <td>132xxxxxx86</td>
+      <td>湖北省</td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>王</td>
+      <td>136xxxxxx95</td>
+      <td>湖北省</td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>王</td>
+      <td>182xxxxxx94</td>
+      <td>湖北省</td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>吴</td>
+      <td>137xxxxxx47</td>
+      <td>湖北省</td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>谢</td>
+      <td>189xxxxxx78</td>
+      <td>湖北省</td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>叶</td>
+      <td>152xxxxxx86</td>
+      <td>湖北省</td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>张</td>
+      <td>189xxxxxx61</td>
+      <td>湖北省</td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>周</td>
+      <td>159xxxxxx80</td>
+      <td>湖北省</td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>刘</td>
+      <td>186xxxxxx16</td>
+      <td>湖南省</td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>林</td>
+      <td>156xxxxxx38</td>
+      <td>吉林省</td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>葛</td>
+      <td>187xxxxxx47</td>
+      <td>江苏省</td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>顾</td>
+      <td>138xxxxxx41</td>
+      <td>江苏省</td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>刘</td>
+      <td>183xxxxxx39</td>
+      <td>江苏省</td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>夏</td>
+      <td>133xxxxxx67</td>
+      <td>江苏省</td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>袁</td>
+      <td>153xxxxxx81</td>
+      <td>江苏省</td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>张</td>
+      <td>186xxxxxx22</td>
+      <td>江苏省</td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>王</td>
+      <td>152xxxxxx89</td>
+      <td>江西南</td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>陈</td>
+      <td>130xxxxxx75</td>
+      <td>江西省</td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>李</td>
+      <td>131xxxxxx19</td>
+      <td>江西省</td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>许</td>
+      <td>132xxxxxx40</td>
+      <td>江西省</td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>周</td>
+      <td>136xxxxxx93</td>
+      <td>江西省</td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>袁</td>
+      <td>156xxxxxx77</td>
+      <td>焦作市</td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>阿</td>
+      <td>157xxxxxx78</td>
+      <td>内蒙古</td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>黄</td>
+      <td>136xxxxxx65</td>
+      <td>厦门市</td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>李</td>
+      <td>159xxxxxx15</td>
+      <td>厦门市</td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>丁</td>
+      <td>136xxxxxx00</td>
+      <td>山东省</td>
+    </tr>
+    <tr>
+      <td>101</td>
+      <td>曲</td>
+      <td>186xxxxxx04</td>
+      <td>山东省</td>
+    </tr>
+    <tr>
+      <td>102</td>
+      <td>王</td>
+      <td>186xxxxxx77</td>
+      <td>山东省</td>
+    </tr>
+    <tr>
+      <td>103</td>
+      <td>詹</td>
+      <td>139xxxxxx29</td>
+      <td>山东省</td>
+    </tr>
+    <tr>
+      <td>104</td>
+      <td>尉</td>
+      <td>186xxxxxx55</td>
+      <td>山西省</td>
+    </tr>
+    <tr>
+      <td>105</td>
+      <td>张</td>
+      <td>188xxxxxx87</td>
+      <td>山西省</td>
+    </tr>
+    <tr>
+      <td>106</td>
+      <td>赵</td>
+      <td>158xxxxxx84</td>
+      <td>山西省</td>
+    </tr>
+    <tr>
+      <td>107</td>
+      <td>张</td>
+      <td>153xxxxxx01</td>
+      <td>陕西省</td>
+    </tr>
+    <tr>
+      <td>108</td>
+      <td>叶</td>
+      <td>156xxxxxx27</td>
+      <td>上海普</td>
+    </tr>
+    <tr>
+      <td>109</td>
+      <td>d</td>
+      <td>136xxxxxx35</td>
+      <td>上海市</td>
+    </tr>
+    <tr>
+      <td>110</td>
+      <td>胡</td>
+      <td>139xxxxxx25</td>
+      <td>上海市</td>
+    </tr>
+    <tr>
+      <td>111</td>
+      <td>刘</td>
+      <td>188xxxxxx73</td>
+      <td>上海市</td>
+    </tr>
+    <tr>
+      <td>112</td>
+      <td>骆</td>
+      <td>131xxxxxx25</td>
+      <td>上海市</td>
+    </tr>
+    <tr>
+      <td>113</td>
+      <td>沈</td>
+      <td>150xxxxxx01</td>
+      <td>上海市</td>
+    </tr>
+    <tr>
+      <td>114</td>
+      <td>盛</td>
+      <td>134xxxxxx14</td>
+      <td>上海市</td>
+    </tr>
+    <tr>
+      <td>115</td>
+      <td>盛</td>
+      <td>155xxxxxx77</td>
+      <td>上海市</td>
+    </tr>
+    <tr>
+      <td>116</td>
+      <td>王</td>
+      <td>135xxxxxx76</td>
+      <td>上海市</td>
+    </tr>
+    <tr>
+      <td>117</td>
+      <td>王</td>
+      <td>138xxxxxx40</td>
+      <td>上海市</td>
+    </tr>
+    <tr>
+      <td>118</td>
+      <td>伍</td>
+      <td>137xxxxxx98</td>
+      <td>上海市</td>
+    </tr>
+    <tr>
+      <td>119</td>
+      <td>杨</td>
+      <td>139xxxxxx89</td>
+      <td>上海市</td>
+    </tr>
+    <tr>
+      <td>120</td>
+      <td>袁</td>
+      <td>152xxxxxx34</td>
+      <td>上海市</td>
+    </tr>
+    <tr>
+      <td>121</td>
+      <td>张</td>
+      <td>170xxxxxx04</td>
+      <td>上海市</td>
+    </tr>
+    <tr>
+      <td>122</td>
+      <td>w</td>
+      <td>185xxxxxx97</td>
+      <td>深圳市</td>
+    </tr>
+    <tr>
+      <td>123</td>
+      <td>龚</td>
+      <td>135xxxxxx02</td>
+      <td>深圳市</td>
+    </tr>
+    <tr>
+      <td>124</td>
+      <td>秦</td>
+      <td>188xxxxxx53</td>
+      <td>深圳市</td>
+    </tr>
+    <tr>
+      <td>125</td>
+      <td>伍</td>
+      <td>183xxxxxx91</td>
+      <td>深圳市</td>
+    </tr>
+    <tr>
+      <td>126</td>
+      <td>施</td>
+      <td>151xxxxxx07</td>
+      <td>四川成</td>
+    </tr>
+    <tr>
+      <td>127</td>
+      <td>陈</td>
+      <td>182xxxxxx52</td>
+      <td>四川省</td>
+    </tr>
+    <tr>
+      <td>128</td>
+      <td>丁</td>
+      <td>186xxxxxx04</td>
+      <td>四川省</td>
+    </tr>
+    <tr>
+      <td>129</td>
+      <td>胡</td>
+      <td>186xxxxxx66</td>
+      <td>四川省</td>
+    </tr>
+    <tr>
+      <td>130</td>
+      <td>李</td>
+      <td>137xxxxxx98</td>
+      <td>四川省</td>
+    </tr>
+    <tr>
+      <td>131</td>
+      <td>刘</td>
+      <td>152xxxxxx17</td>
+      <td>四川省</td>
+    </tr>
+    <tr>
+      <td>132</td>
+      <td>税</td>
+      <td>189xxxxxx58</td>
+      <td>四川省</td>
+    </tr>
+    <tr>
+      <td>133</td>
+      <td>王</td>
+      <td>139xxxxxx00</td>
+      <td>四川省</td>
+    </tr>
+    <tr>
+      <td>134</td>
+      <td>杨</td>
+      <td>151xxxxxx47</td>
+      <td>四川省</td>
+    </tr>
+    <tr>
+      <td>135</td>
+      <td>高</td>
+      <td>139xxxxxx01</td>
+      <td>太原市</td>
+    </tr>
+    <tr>
+      <td>136</td>
+      <td>胡</td>
+      <td>187xxxxxx27</td>
+      <td>天津市</td>
+    </tr>
+    <tr>
+      <td>137</td>
+      <td>徐</td>
+      <td>137xxxxxx61</td>
+      <td>武汉市</td>
+    </tr>
+    <tr>
+      <td>138</td>
+      <td>扶</td>
+      <td>158xxxxxx82</td>
+      <td>西藏自</td>
+    </tr>
+    <tr>
+      <td>139</td>
+      <td>罗</td>
+      <td>189xxxxxx65</td>
+      <td>云南大</td>
+    </tr>
+    <tr>
+      <td>140</td>
+      <td>陈</td>
+      <td>138xxxxxx57</td>
+      <td>浙江省</td>
+    </tr>
+    <tr>
+      <td>141</td>
+      <td>林</td>
+      <td>139xxxxxx47</td>
+      <td>浙江省</td>
+    </tr>
+    <tr>
+      <td>142</td>
+      <td>任</td>
+      <td>135xxxxxx89</td>
+      <td>浙江省</td>
+    </tr>
+    <tr>
+      <td>143</td>
+      <td>盛</td>
+      <td>188xxxxxx30</td>
+      <td>浙江省</td>
+    </tr>
+    <tr>
+      <td>144</td>
+      <td>舒</td>
+      <td>135xxxxxx93</td>
+      <td>浙江省</td>
+    </tr>
+    <tr>
+      <td>145</td>
+      <td>王</td>
+      <td>139xxxxxx99</td>
+      <td>浙江省</td>
+    </tr>
+    <tr>
+      <td>146</td>
+      <td>王</td>
+      <td>153xxxxxx30</td>
+      <td>浙江省</td>
+    </tr>
+    <tr>
+      <td>147</td>
+      <td>王</td>
+      <td>187xxxxxx49</td>
+      <td>浙江省</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>謝</td>
+      <td>186xxxxxx28</td>
+      <td>浙江省</td>
+    </tr>
+    <tr>
+      <td>149</td>
+      <td>杨</td>
+      <td>137xxxxxx36</td>
+      <td>浙江省</td>
+    </tr>
+    <tr>
+      <td>150</td>
+      <td>杨</td>
+      <td>156xxxxxx39</td>
+      <td>浙江省</td>
+    </tr>
+    <tr>
+      <td>151</td>
+      <td>姚</td>
+      <td>157xxxxxx09</td>
+      <td>浙江省</td>
+    </tr>
+    <tr>
+      <td>152</td>
+      <td>朱</td>
+      <td>186xxxxxx37</td>
+      <td>浙江省</td>
+    </tr>
+    <tr>
+      <td>153</td>
+      <td>陆</td>
+      <td>132xxxxxx98</td>
+      <td>浙江台</td>
+    </tr>
+    <tr>
+      <td>154</td>
+      <td>郭</td>
+      <td>183xxxxxx45</td>
+      <td>浙江温</td>
+    </tr>
+    <tr>
+      <td>155</td>
+      <td>殷</td>
+      <td>186xxxxxx13</td>
+      <td>中国政</td>
+    </tr>
+    <tr>
+      <td>156</td>
+      <td>付</td>
+      <td>136xxxxxx03</td>
+      <td>重庆市</td>
+    </tr>
+    <tr>
+      <td>157</td>
+      <td>李</td>
+      <td>139xxxxxx64</td>
+      <td>重庆市</td>
+    </tr>
+    <tr>
+      <td>158</td>
+      <td>李</td>
+      <td>157xxxxxx68</td>
+      <td>重庆市</td>
+    </tr>
+    <tr>
+      <td>159</td>
+      <td>刘</td>
+      <td>150xxxxxx46</td>
+      <td>重庆市</td>
+    </tr>
+    <tr>
+      <td>160</td>
+      <td>谭</td>
+      <td>181xxxxxx21</td>
+      <td>重庆市</td>
+    </tr>
+  </tbody>
+</table>
+
+<h4 id="说明">说明</h4>
+
+<p>总计发送《大学在人间》197本、立大笔记本34本</p>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#立人大学 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2017-10-01/freehere/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2011-07-01/kaimu/">最早</a>--</span>
+    
+      <li>
+        <time>2016-08-29</time>
+        <a href="https://nodebe4.github.io/opinion/2016-08-29/jianyi/">
+          【教育自救】给不甘堕落的大学生的七个建议
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2016-08-27</time>
+        <a href="https://nodebe4.github.io/opinion/2016-08-27/jiaoyuzijiu/">
+          【教育自救】不要把青春和你的大学一起烂掉
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2016-07-02</time>
+        <a href="https://nodebe4.github.io/opinion/2016-07-02/zengshu/">
+          赠送《大學 在人間》
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2014-07-22</time>
+        <a href="https://nodebe4.github.io/opinion/2014-07-22/dengweisheng/">
+          Rawls 的正義理論
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2016-07-15/%E8%A7%82%E5%BF%B5%E7%A7%A9%E5%BA%8F%E7%BB%99%E5%AE%9A%E4%B8%8B%E7%9A%84%E7%99%BE%E5%B9%B4%E7%BB%8F%E6%B5%8E%E5%8F%B2%E5%88%86%E6%9E%90/">
+            前一篇：观念秩序给定下的百年经济史分析
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2016-07-16/1960%E5%B9%B4-%E5%9C%9F%E8%80%B3%E5%85%B6%E5%85%B1%E5%92%8C%E5%9B%BD%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%86%9B%E4%BA%8B%E6%94%BF%E5%8F%98/">
+            後一篇：1960年：土耳其共和国第一次军事政变
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2016-07-15/%E8%A7%82%E5%BF%B5%E7%A7%A9%E5%BA%8F%E7%BB%99%E5%AE%9A%E4%B8%8B%E7%9A%84%E7%99%BE%E5%B9%B4%E7%BB%8F%E6%B5%8E%E5%8F%B2%E5%88%86%E6%9E%90/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2016-07-16/1960%E5%B9%B4-%E5%9C%9F%E8%80%B3%E5%85%B6%E5%85%B1%E5%92%8C%E5%9B%BD%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%86%9B%E4%BA%8B%E6%94%BF%E5%8F%98/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2016-08-27/jiaoyuzijiu/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2016-07-02/zengshu/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2016-07-15/%E8%A7%82%E5%BF%B5%E7%A7%A9%E5%BA%8F%E7%BB%99%E5%AE%9A%E4%B8%8B%E7%9A%84%E7%99%BE%E5%B9%B4%E7%BB%8F%E6%B5%8E%E5%8F%B2%E5%88%86%E6%9E%90/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2016-07-16/1960%E5%B9%B4-%E5%9C%9F%E8%80%B3%E5%85%B6%E5%85%B1%E5%92%8C%E5%9B%BD%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%86%9B%E4%BA%8B%E6%94%BF%E5%8F%98/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<立人大学>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2016-08-27/jiaoyuzijiu/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<立人大学>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2016-07-02/zengshu/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

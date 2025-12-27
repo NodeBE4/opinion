@@ -1,0 +1,2666 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Yvan888在2019-06-24~2019-06-30的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Yvan888在2019-06-24~2019-06-30的言论" />
+    <meta property="twitter:title" content="Yvan888在2019-06-24~2019-06-30的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FChina_irl%2Fcomments%2Fc4hf0i%2F%E7%8E%B0%E5%9C%A8%E5%9B%BD%E5%86%85%E9%AB%98%E6%A0%A1%E7%9A%84%E9%97%AE%E9%A2%98%E6%9C%89%E5%A4%9A%E5%A4%A7%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/China_irl/comments/c4hf0i/现在国内高校的问题有多大/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/China_irl/comments/c4hf0i/现在国内高校的问题有多大/&text=Yvan888在2019-06-24~2019-06-30的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/China_irl/comments/c4hf0i/现在国内高校的问题有多大/&title=Yvan888在2019-06-24~2019-06-30的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/China_irl/comments/c4hf0i/现在国内高校的问题有多大/&title=Yvan888在2019-06-24~2019-06-30的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Yvan888在2019-06-24~2019-06-30的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/China_irl/comments/c4hf0i/现在国内高校的问题有多大/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/China_irl/comments/c4hf0i/现在国内高校的问题有多大/&title=Yvan888在2019-06-24~2019-06-30的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Yvan888在2019-06-24~2019-06-30的言论&url=https://old.reddit.com/r/China_irl/comments/c4hf0i/现在国内高校的问题有多大/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Yvan888在2019-06-24~2019-06-30的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2019-06-24
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://www.reddit.com/user/Yvan888/" style="font-size:14px;">作者: Yvan888</a>
+        </span>
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/China_irl/comments/c4hf0i/现在国内高校的问题有多大/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#347-现在国内高校的问题有多大-submitted-on-2019-06-24-1105410800" id="markdown-toc-347-现在国内高校的问题有多大-submitted-on-2019-06-24-1105410800">347: 现在国内高校的问题有多大？, submitted on 2019-06-24 11:05:41+08:00.</a></li>
+  <li><a href="#348-駐英大使中國從未用科技監控百姓-submitted-on-2019-06-24-2047420800" id="markdown-toc-348-駐英大使中國從未用科技監控百姓-submitted-on-2019-06-24-2047420800">348: 駐英大使：中國從未用科技監控百姓, submitted on 2019-06-24 20:47:42+08:00.</a></li>
+  <li><a href="#349-i-love-this-so-much-submitted-on-2019-06-24-2049460800" id="markdown-toc-349-i-love-this-so-much-submitted-on-2019-06-24-2049460800">349: I love this so much, submitted on 2019-06-24 20:49:46+08:00.</a></li>
+  <li><a href="#350-do-you-like-this-place-do-you-want-to-living-there-submitted-on-2019-06-24-2304100800" id="markdown-toc-350-do-you-like-this-place-do-you-want-to-living-there-submitted-on-2019-06-24-2304100800">350: Do you like this place? Do you want to living there?, submitted on 2019-06-24 23:04:10+08:00.</a></li>
+  <li><a href="#351-despite-living-here-for-years-i-find-many-chinese-still-hold-on-to-staunch-pro-china-stances-submitted-on-2019-06-24-2307190800" id="markdown-toc-351-despite-living-here-for-years-i-find-many-chinese-still-hold-on-to-staunch-pro-china-stances-submitted-on-2019-06-24-2307190800">351: Despite living here for years, I find many Chinese still hold on to staunch pro china stances, submitted on 2019-06-24 23:07:19+08:00.</a></li>
+  <li><a href="#352-香港这座城市还有救吗-这种文章竟然有100k赞-submitted-on-2019-06-25-0620560800" id="markdown-toc-352-香港这座城市还有救吗-这种文章竟然有100k赞-submitted-on-2019-06-25-0620560800">352: 《香港这座城市还有救吗？》– 这种文章竟然有100k+赞?, submitted on 2019-06-25 06:20:56+08:00.</a></li>
+  <li><a href="#353-其实我觉得推广世俗化是好的但是-submitted-on-2019-06-25-1227300800" id="markdown-toc-353-其实我觉得推广世俗化是好的但是-submitted-on-2019-06-25-1227300800">353: 其实我觉得推广世俗化是好的，但是, submitted on 2019-06-25 12:27:30+08:00.</a></li>
+  <li><a href="#354-thousands-march-in-taiwan-to-protest-pro-beijing-media-submitted-on-2019-06-25-1520230800" id="markdown-toc-354-thousands-march-in-taiwan-to-protest-pro-beijing-media-submitted-on-2019-06-25-1520230800">354: Thousands March in Taiwan to Protest Pro-Beijing Media, submitted on 2019-06-25 15:20:23+08:00.</a></li>
+  <li><a href="#355-america-must-prepare-for-the-coming-chinese-empire-submitted-on-2019-06-25-2212510800" id="markdown-toc-355-america-must-prepare-for-the-coming-chinese-empire-submitted-on-2019-06-25-2212510800">355: America Must Prepare for the Coming Chinese Empire, submitted on 2019-06-25 22:12:51+08:00.</a></li>
+  <li><a href="#356-students-shouting-the-slogan-obey-orders-obey-commands-submitted-on-2019-06-26-0023580800" id="markdown-toc-356-students-shouting-the-slogan-obey-orders-obey-commands-submitted-on-2019-06-26-0023580800">356: Students Shouting The Slogan “obey Orders, Obey Commands”, submitted on 2019-06-26 00:23:58+08:00.</a></li>
+  <li><a href="#357-meanwhile-in-china-submitted-on-2019-06-27-0031200800" id="markdown-toc-357-meanwhile-in-china-submitted-on-2019-06-27-0031200800">357: meanwhile in china.., submitted on 2019-06-27 00:31:20+08:00.</a></li>
+  <li><a href="#358-only-300-iq-will-understand-submitted-on-2019-06-27-1405320800" id="markdown-toc-358-only-300-iq-will-understand-submitted-on-2019-06-27-1405320800">358: Only 300 IQ will understand, submitted on 2019-06-27 14:05:32+08:00.</a></li>
+  <li><a href="#359-rthe_donald-被强行隔离-quarantined-without-warning-submitted-on-2019-06-27-1831320800" id="markdown-toc-359-rthe_donald-被强行隔离-quarantined-without-warning-submitted-on-2019-06-27-1831320800">359: /r/The_Donald 被强行隔离 quarantined without warning, submitted on 2019-06-27 18:31:32+08:00.</a></li>
+  <li><a href="#360-im-22f-in-the-middle-of-china-8000-km-from-home-and-im-drinking-coffe-by-myself-after-hours-of-walking-randomly-to-get-away-from-my-bf-ama-submitted-on-2019-06-27-2204460800" id="markdown-toc-360-im-22f-in-the-middle-of-china-8000-km-from-home-and-im-drinking-coffe-by-myself-after-hours-of-walking-randomly-to-get-away-from-my-bf-ama-submitted-on-2019-06-27-2204460800">360: I’m (22f) in the middle of china, 8000 km from home, and i’m drinking coffe by myself after hours of walking randomly to get away from my bf. Ama, submitted on 2019-06-27 22:04:46+08:00.</a></li>
+  <li><a href="#361-我的中文口音怎么样我学了汉语两年了有人能给我关于我的口音和发音的反馈吗-submitted-on-2019-06-28-0014330800" id="markdown-toc-361-我的中文口音怎么样我学了汉语两年了有人能给我关于我的口音和发音的反馈吗-submitted-on-2019-06-28-0014330800">361: 我的中文口音怎么样？我学了汉语两年了。有人能给我关于我的口音和发音的反馈吗？, submitted on 2019-06-28 00:14:33+08:00.</a></li>
+  <li><a href="#362-民主党第一轮总统辩论day-2-submitted-on-2019-06-28-2003560800" id="markdown-toc-362-民主党第一轮总统辩论day-2-submitted-on-2019-06-28-2003560800">362: 民主党第一轮总统辩论day 2, submitted on 2019-06-28 20:03:56+08:00.</a></li>
+  <li><a href="#363-a-normal-school-day-in-russia-submitted-on-2019-06-28-2116420800" id="markdown-toc-363-a-normal-school-day-in-russia-submitted-on-2019-06-28-2116420800">363: A normal school day in Russia, submitted on 2019-06-28 21:16:42+08:00.</a></li>
+  <li><a href="#364-tension-between-canada-and-china-at-g20-hilarious-vid-of-xi-and-trudeau-submitted-on-2019-06-28-2221180800" id="markdown-toc-364-tension-between-canada-and-china-at-g20-hilarious-vid-of-xi-and-trudeau-submitted-on-2019-06-28-2221180800">364: Tension between Canada and China at G20 (Hilarious vid of Xi and Trudeau), submitted on 2019-06-28 22:21:18+08:00.</a></li>
+  <li><a href="#365-japanese-prime-minister-shinzo-abe-raised-concerns-about-hong-kong-with-chinese-president-xi-jinping-submitted-on-2019-06-29-0612050800" id="markdown-toc-365-japanese-prime-minister-shinzo-abe-raised-concerns-about-hong-kong-with-chinese-president-xi-jinping-submitted-on-2019-06-29-0612050800">365: Japanese Prime Minister Shinzo Abe raised concerns about Hong Kong with Chinese President Xi Jinping, submitted on 2019-06-29 06:12:05+08:00.</a></li>
+  <li><a href="#366-medical-service-is-dangerous-and-over-treating-in-china-the-nurse-havent-covered-her-nose-and-all-the-patient-dont-wear-mask-submitted-on-2019-06-29-1111260800" id="markdown-toc-366-medical-service-is-dangerous-and-over-treating-in-china-the-nurse-havent-covered-her-nose-and-all-the-patient-dont-wear-mask-submitted-on-2019-06-29-1111260800">366: medical service is dangerous and over treating in china, the nurse havent covered her nose and all the patient dont wear mask.., submitted on 2019-06-29 11:11:26+08:00.</a></li>
+  <li><a href="#367-要么准备武器要么准备后事-submitted-on-2019-06-29-1539040800" id="markdown-toc-367-要么准备武器要么准备后事-submitted-on-2019-06-29-1539040800">367: 要么准备武器，要么准备后事, submitted on 2019-06-29 15:39:04+08:00.</a></li>
+  <li><a href="#368-各位对特赦令怎么看-submitted-on-2019-06-29-2037500800" id="markdown-toc-368-各位对特赦令怎么看-submitted-on-2019-06-29-2037500800">368: 各位对特赦令怎么看？, submitted on 2019-06-29 20:37:50+08:00.</a></li>
+  <li><a href="#369-每日新闻-629-大赦天下-submitted-on-2019-06-29-2249300800" id="markdown-toc-369-每日新闻-629-大赦天下-submitted-on-2019-06-29-2249300800">369: [每日新闻] 6/29 大赦天下, submitted on 2019-06-29 22:49:30+08:00.</a></li>
+  <li><a href="#370-how-do-chinese-people-perceive-the-automobile-market-do-they-view-foreign-cars-as-premium-why-are-local-car-brands-not-in-the-top-3-of-brand-market-share-submitted-on-2019-06-30-0224130800" id="markdown-toc-370-how-do-chinese-people-perceive-the-automobile-market-do-they-view-foreign-cars-as-premium-why-are-local-car-brands-not-in-the-top-3-of-brand-market-share-submitted-on-2019-06-30-0224130800">370: How do Chinese people perceive the Automobile market? Do they view foreign cars as premium? Why are local car brands not in the top 3 of brand market share?, submitted on 2019-06-30 02:24:13+08:00.</a></li>
+  <li><a href="#371-中国大学-submitted-on-2019-06-30-0341150800" id="markdown-toc-371-中国大学-submitted-on-2019-06-30-0341150800">371: 中国大学, submitted on 2019-06-30 03:41:15+08:00.</a></li>
+  <li><a href="#372-开个脑洞-中美冲突会不会是领导人在演戏给我们看-submitted-on-2019-06-30-0343490800" id="markdown-toc-372-开个脑洞-中美冲突会不会是领导人在演戏给我们看-submitted-on-2019-06-30-0343490800">372: 开个脑洞 中美冲突会不会是领导人在演戏给我们看, submitted on 2019-06-30 03:43:49+08:00.</a></li>
+  <li><a href="#373-inside-chinas-thought-transformation-camps---bbc-news-2019-mini-doc-for-the-first-time-in-history-china-has-felt-they-have-polished-their-religious-transformation-camps-enough-to-show-the-worldthey-needed-to-do-way-more-polishing-shocking-submitted-on-2019-06-30-0501260800" id="markdown-toc-373-inside-chinas-thought-transformation-camps---bbc-news-2019-mini-doc-for-the-first-time-in-history-china-has-felt-they-have-polished-their-religious-transformation-camps-enough-to-show-the-worldthey-needed-to-do-way-more-polishing-shocking-submitted-on-2019-06-30-0501260800">373: Inside China’s ‘thought transformation’ camps - BBC News (2019) [MINI DOC, For the first time in history China has felt they have polished their religious transformation camps enough to show the world..They needed to do way more polishing. Shocking!], submitted on 2019-06-30 05:01:26+08:00.</a></li>
+  <li><a href="#374-trump-after-g20-xi-is-a-brilliant-leader-one-of-the-great-leaders-in-200-years-in-china-submitted-on-2019-06-30-0513240800" id="markdown-toc-374-trump-after-g20-xi-is-a-brilliant-leader-one-of-the-great-leaders-in-200-years-in-china-submitted-on-2019-06-30-0513240800">374: Trump after G20: Xi is a brilliant leader, one of the great leaders in 200 years in China, submitted on 2019-06-30 05:13:24+08:00.</a></li>
+  <li><a href="#375-today-in-hong-kong-submitted-on-2019-06-30-1729240800" id="markdown-toc-375-today-in-hong-kong-submitted-on-2019-06-30-1729240800">375: Today in Hong Kong, submitted on 2019-06-30 17:29:24+08:00.</a></li>
+  <li><a href="#376-china-it-joke-job-requirement-age-20-exp-30-submitted-on-2019-06-30-1933260800" id="markdown-toc-376-china-it-joke-job-requirement-age-20-exp-30-submitted-on-2019-06-30-1933260800">376: china IT joke job requirement: age &lt;20, exp &gt;30, submitted on 2019-06-30 19:33:26+08:00.</a></li>
+  <li><a href="#377-hong-kongers-marched-today-to-show-support-for-the-local-police-and-the-chinese-government-submitted-on-2019-06-30-2315530800" id="markdown-toc-377-hong-kongers-marched-today-to-show-support-for-the-local-police-and-the-chinese-government-submitted-on-2019-06-30-2315530800">377: Hong Kongers marched today to show support for the local police and the Chinese Government., submitted on 2019-06-30 23:15:53+08:00.</a></li>
+  <li><a href="#378-为什么土豆这么不受欢迎-submitted-on-2019-06-30-2344110800" id="markdown-toc-378-为什么土豆这么不受欢迎-submitted-on-2019-06-30-2344110800">378: 为什么土豆这么不受欢迎, submitted on 2019-06-30 23:44:11+08:00.</a></li>
+  <li><a href="#379-这是长公主被bully了吗-submitted-on-2019-06-30-2359580800" id="markdown-toc-379-这是长公主被bully了吗-submitted-on-2019-06-30-2359580800">379: 这是长公主被bully了吗？, submitted on 2019-06-30 23:59:58+08:00.</a></li>
+</ul>
+
+<h3 id="347-现在国内高校的问题有多大-submitted-on-2019-06-24-1105410800">347: <a href="https://old.reddit.com/r/China_irl/comments/c4hf0i/现在国内高校的问题有多大/">现在国内高校的问题有多大？</a>, submitted on 2019-06-24 11:05:41+08:00.</h3>
+
+<p>—– <strong>347.1</strong> —–2019-06-25 04:09:35+08:00:</p>
+
+<p>北京天子脚下，不好说，可以来南方这边听一下吧</p>
+
+<p>—– <strong>347.2</strong> —–2019-06-26 02:27:25+08:00:</p>
+
+<p>美国有些课的出席率也不高</p>
+
+<p>—– <strong>347.3</strong> —–2019-06-26 02:30:08+08:00:</p>
+
+<p>又一个“自以为看破红尘/社会”的人</p>
+
+<p>天天说这个没用那个没用，身体倒是很诚实地往里挤</p>
+
+<p>—– <strong>347.4</strong> —–2019-06-29 02:24:37+08:00:</p>
+
+<p>现在“读书无用论”、“韭菜论”、“丧文化”很流行啊，没人拦着你信 🤷‍♂️</p>
+
+<h3 id="348-駐英大使中國從未用科技監控百姓-submitted-on-2019-06-24-2047420800">348: <a href="https://old.reddit.com/r/saraba1st/comments/c4n6s4/駐英大使中國從未用科技監控百姓/">駐英大使：中國從未用科技監控百姓</a>, submitted on 2019-06-24 20:47:42+08:00.</h3>
+
+<p>—– <strong>348.1</strong> —–2019-06-25 04:25:40+08:00:</p>
+
+<p>为什么这个驻英大使这么多新闻呢？貌似比驻其他国家的大使甚至驻美大使都要高出不少</p>
+
+<h3 id="349-i-love-this-so-much-submitted-on-2019-06-24-2049460800">349: <a href="https://old.reddit.com/r/Cyberpunk/comments/c4n7zr/i_love_this_so_much/">I love this so much</a>, submitted on 2019-06-24 20:49:46+08:00.</h3>
+
+<p>—– <strong>349.1</strong> —–2019-06-25 04:29:30+08:00:</p>
+
+<p>延安路 北京路  lol</p>
+
+<h3 id="350-do-you-like-this-place-do-you-want-to-living-there-submitted-on-2019-06-24-2304100800">350: <a href="https://old.reddit.com/r/China/comments/c4pep7/do_you_like_this_place_do_you_want_to_living_there/">Do you like this place? Do you want to living there?</a>, submitted on 2019-06-24 23:04:10+08:00.</h3>
+
+<p>—– <strong>350.1</strong> —–2019-06-25 04:33:07+08:00:</p>
+
+<blockquote>
+  <p>hence young Chinese getting bigger and taller than in the past</p>
+</blockquote>
+
+<p>don’t forget the meet: the larger consumption of meet, especially beef (but not pork)</p>
+
+<p>—– <strong>350.2</strong> —–2019-06-25 04:36:09+08:00:</p>
+
+<p>tbh the western obsession with cheese is still mysterious to me</p>
+
+<p>As Chinese, I can live w/o rice or any other ingredients in Chinese cuisines…</p>
+
+<p>—– <strong>350.3</strong> —–2019-06-25 04:43:27+08:00:</p>
+
+<blockquote>
+  <p>ended up beating my dad by 6 inches (in both dick and height)</p>
+</blockquote>
+
+<p>Did you compare THAT with your dad? LOL</p>
+
+<p>China is still on track tho. My generation (90’s) increased a lot but I’m still amazed by the younger generation (00’s). Some of them have 180+ in middle school, especially in the north</p>
+
+<p>Edit: Some Chinese are Lactose intolerance tho, I always feel dizzy after drinking too much milk</p>
+
+<p>—– <strong>350.4</strong> —–2019-06-25 04:50:59+08:00:</p>
+
+<blockquote>
+  <p>essential fats</p>
+</blockquote>
+
+<p>but why you guys hate the fat in the meat, because it’s the different sort of fat (trans fat)?</p>
+
+<p>Lots of people here complain the meat in China contains fat, but to us, we prefer the meat fixed with fat</p>
+
+<p>I’ve worked in the western style kitchen and it’s surprising that they will remove the fat in the meat carefully but ended with mixing a ton of sugar, cheese, and oil… really confuse</p>
+
+<p>I drew a conclusion with my Chinese fellows: the westerners hate the solid fat but don’t mind the liquid fat lol</p>
+
+<p>—– <strong>350.5</strong> —–2019-06-25 05:10:19+08:00:</p>
+
+<p>Just my opinion, but Korean society / personality has a mysterious consistency and accepted a foreign feature quickly once it’s started, another example is K-pop</p>
+
+<p>Now Korea is a cult of cheese now, cheesecake, cheese snack, cheese chips, cheese hot pot (I hate this one)</p>
+
+<p>I love banana milk tho</p>
+
+<hr />
+
+<p>[unrelated topic] I’ve read some news from Sinoinisider and smell similar because one of their top advisers is <a href="https://www.wikiwand.com/zh-sg/%E6%98%8E%E5%B1%85%E6%AD%A3">明巨正</a>(Taiwan’s political science professor). You can get access to his report from youtube channel like <a href="https://www.youtube.com/watch?v=a__9IEY5aWU">this</a> for free</p>
+
+<p>—– <strong>350.6</strong> —–2019-06-25 13:07:17+08:00:</p>
+
+<p>There is a small group of Chinese feeling it gross too but definitely not the general case (anyway I can understand your feeling tho)</p>
+
+<p>It’s more about the texture than taste imo</p>
+
+<p>In China we eat the meat (with fat) with rice. If you eat it lonely, then it’s grosser</p>
+
+<h3 id="351-despite-living-here-for-years-i-find-many-chinese-still-hold-on-to-staunch-pro-china-stances-submitted-on-2019-06-24-2307190800">351: <a href="https://old.reddit.com/r/China/comments/c4pgoo/despite_living_here_for_years_i_find_many_chinese/">Despite living here for years, I find many Chinese still hold on to staunch pro china stances</a>, submitted on 2019-06-24 23:07:19+08:00.</h3>
+
+<p>—– <strong>351.1</strong> —–2019-06-25 03:46:25+08:00:</p>
+
+<p>Am Chinese… This is a HUGE topic which I can list 20+ points. I just picked the ones that are rarely mentioned</p>
+
+<ol>
+  <li>
+    <p>Their bodies are living in the west but their brains are living in China. They <em>only</em> read the news from China because of the language barrier or culture preference</p>
+  </li>
+  <li>
+    <p><a href="https://www.wikiwand.com/en/Century_of_humiliation">The Century of Humiliation</a> makes Chinese are extremely sensitive to the criticism or even opinions from the west. That’s why <em>mind your business</em> mindset prevails in China (another reason is the traditional Chinese culture which is different from the western civil society) and they believe that the HK/TW/XJ/TB issues are 100% the aftermath of western imperialism/colonialism and should be solved after the turning-back of China. I bet that you were depicted as a bad guy in their brains. I know, someone will argue that China should not hinge on the past. As I have explained many times here, China has a <a href="https://www.hofstede-insights.com/country/china/">long-term orientation</a> and their measurement of history is based on thousands of years. That is, when you think, it’s <em>already</em> 100 years, they think, it’s <em>only</em> 100 years.</p>
+  </li>
+  <li>
+    <p>I figure out China has an anachronistic mindset from personal behavior to foreign policy. To some extent, China is like the 18 century’s USA. They are having their own versions of <em>Isolationism</em>, <em>Trail of Tears</em>, and <em>Manifest Destiny</em>. When you analyze China’s issues, you should not use the prevailing liberalism and contemporary universal values in the west. When you use the ideologies I mentioned above, you probably can understand it more easily.</p>
+  </li>
+</ol>
+
+<p>PS. This is just an academic discussion.</p>
+
+<p>PS. One day China will adjust itself to the contemporary ideology but at first, there must be no GFW</p>
+
+<p>—– <strong>351.2</strong> —–2019-06-25 04:05:10+08:00:</p>
+
+<blockquote>
+  <p>China is really a civilization masquerading as a country.</p>
+</blockquote>
+
+<p>lol are you Chinese or not? It’s the second time I see this description in the west, the first time is from <a href="https://www.ted.com/talks/martin_jacques_understanding_the_rise_of_china/transcript?language=en">Martin Jacques’ speech</a></p>
+
+<p>—– <strong>351.3</strong> —–2019-06-26 04:29:26+08:00:</p>
+
+<p>actually the <em>Chinese medicine</em> sometimes make sense, I mean, it depends on the specific incident, some of them are fake but some of them are kinda true</p>
+
+<p>Chinese medicine is <em>empirical science</em> and western medicine is <em>experimental science</em></p>
+
+<h3 id="352-香港这座城市还有救吗-这种文章竟然有100k赞-submitted-on-2019-06-25-0620560800">352: <a href="https://old.reddit.com/r/China_irl/comments/c4x0f1/香港这座城市还有救吗_这种文章竟然有100k赞/">《香港这座城市还有救吗？》– 这种文章竟然有100k+赞?</a>, submitted on 2019-06-25 06:20:56+08:00.</h3>
+
+<p>—– <strong>352.1</strong> —–2019-06-25 06:52:56+08:00:</p>
+
+<p>原来还是能看到的吗？我以为已经被remove就没理</p>
+
+<h3 id="353-其实我觉得推广世俗化是好的但是-submitted-on-2019-06-25-1227300800">353: <a href="https://old.reddit.com/r/China_irl/comments/c52fd6/其实我觉得推广世俗化是好的但是/">其实我觉得推广世俗化是好的，但是</a>, submitted on 2019-06-25 12:27:30+08:00.</h3>
+
+<p>—– <strong>353.1</strong> —–2019-06-25 13:19:51+08:00:</p>
+
+<p>其实要看怎么的世俗化了，我觉得新疆的一些宗教化的根源是对汉文化/tg的排斥，我并不认为新疆那种宗教化跟中东是一样的，如果在平行宇宙中有一个独立的新疆，那么他们肯定是一个正常的中亚国家，所以你去看看中亚国家的世俗程度就能知道新疆的未来会怎么样</p>
+
+<p>—– <strong>353.2</strong> —–2019-06-25 23:55:00+08:00:</p>
+
+<blockquote>
+  <p>发达国家基督教哪里衰弱了？</p>
+</blockquote>
+
+<p>这个要看地方</p>
+
+<p>欧洲现在的基督教势力已经薄弱了非常多，许多国家的无神论者超过50%，这是 r/europe 里面的一个<a href="https://www.reddit.com/r/europe/comments/bzefy1/christianity_as_default_is_gone_the_rise_of_a/?utm_source=share&amp;utm_medium=web2x">关于欧洲宗教势力变化的图表和讨论</a>，你可以去看看他们特别是年轻一代对宗教的认知</p>
+
+<p>美国则保守势力和自由势力对半分，红州很多还是bible州，不过随着时间推移应该也会变</p>
+
+<p>总体上而言，我认为人类最终，世俗/无神论是会超过宗教很多的，这点欧洲一直给我信心</p>
+
+<p>若中国明天立即放开宗教，则基督教等外来教肯定会在短时间内上升很多并持续至少半个世纪，但几百年后则肯定又会回归到极度世俗化当中，就像当年的佛教一样</p>
+
+<p>—– <strong>353.3</strong> —–2019-06-28 04:03:54+08:00:</p>
+
+<p>若这么讲，中国的无神论也不多，中国更多是泛神论\不可知论\祖先崇拜</p>
+
+<p>严格的无神论，学识和逻辑的要求是很高的</p>
+
+<h3 id="354-thousands-march-in-taiwan-to-protest-pro-beijing-media-submitted-on-2019-06-25-1520230800">354: <a href="https://old.reddit.com/r/China/comments/c54fx8/thousands_march_in_taiwan_to_protest_probeijing/">Thousands March in Taiwan to Protest Pro-Beijing Media</a>, submitted on 2019-06-25 15:20:23+08:00.</h3>
+
+<p>—– <strong>354.1</strong> —–2019-06-26 05:01:25+08:00:</p>
+
+<p>Are you arguing the pro-BJ media are dishonest?</p>
+
+<p>What about the reliability of the deep-green-media (extremely pro-independence)? or even any biased western media?</p>
+
+<p>What do you think of Trump supporters to protest the “fake news” such as BBC, CNN? Or anti-Trump-ers to protest Fox?</p>
+
+<p>I think they have the right to protest but no one has the right to close these media.</p>
+
+<p>Or, do you have any other opinion? Hope I didn’t misunderstand your argument</p>
+
+<p>—– <strong>354.2</strong> —–2019-06-27 08:16:55+08:00:</p>
+
+<p>?</p>
+
+<h3 id="355-america-must-prepare-for-the-coming-chinese-empire-submitted-on-2019-06-25-2212510800">355: <a href="https://old.reddit.com/r/geopolitics/comments/c595r9/america_must_prepare_for_the_coming_chinese_empire/">America Must Prepare for the Coming Chinese Empire</a>, submitted on 2019-06-25 22:12:51+08:00.</h3>
+
+<p>—– <strong>355.1</strong> —–2019-06-30 05:44:37+08:00:</p>
+
+<blockquote>
+  <p>India is neither friend or foe to the U.S</p>
+</blockquote>
+
+<p>exactly the same scenario as Sino-US one. Frienemy 🤷‍♂️</p>
+
+<h3 id="356-students-shouting-the-slogan-obey-orders-obey-commands-submitted-on-2019-06-26-0023580800">356: <a href="https://old.reddit.com/r/China/comments/c5b0tq/students_shouting_the_slogan_obey_orders_obey/">Students Shouting The Slogan “obey Orders, Obey Commands”</a>, submitted on 2019-06-26 00:23:58+08:00.</h3>
+
+<p>—– <strong>356.1</strong> —–2019-06-26 04:46:40+08:00:</p>
+
+<p>hahaha cute</p>
+
+<h3 id="357-meanwhile-in-china-submitted-on-2019-06-27-0031200800">357: <a href="https://old.reddit.com/r/China/comments/c5rynn/meanwhile_in_china/">meanwhile in china..</a>, submitted on 2019-06-27 00:31:20+08:00.</h3>
+
+<p>—– <strong>357.1</strong> —–2019-06-28 04:02:24+08:00:</p>
+
+<p>好人一生平安</p>
+
+<h3 id="358-only-300-iq-will-understand-submitted-on-2019-06-27-1405320800">358: <a href="https://old.reddit.com/r/dankmemes/comments/c61um3/only_300_iq_will_understand/">Only 300 IQ will understand</a>, submitted on 2019-06-27 14:05:32+08:00.</h3>
+
+<p>—– <strong>358.1</strong> —–2019-06-28 06:49:47+08:00:</p>
+
+<p>actually not that different. The majority places of China are free market with socialism characteristics, no matter it’s BJ or else where. The real special economy zones are Hong Kong and Macau. Am Chinese</p>
+
+<h3 id="359-rthe_donald-被强行隔离-quarantined-without-warning-submitted-on-2019-06-27-1831320800">359: <a href="https://old.reddit.com/r/China_irl/comments/c63wl0/rthe_donald_被强行隔离_quarantined_without_warning/">/r/The_Donald 被强行隔离 quarantined without warning</a>, submitted on 2019-06-27 18:31:32+08:00.</h3>
+
+<p>—– <strong>359.1</strong> —–2019-06-28 03:30:27+08:00:</p>
+
+<p>去TD里面看了看，里面可欢了 lol</p>
+
+<h3 id="360-im-22f-in-the-middle-of-china-8000-km-from-home-and-im-drinking-coffe-by-myself-after-hours-of-walking-randomly-to-get-away-from-my-bf-ama-submitted-on-2019-06-27-2204460800">360: <a href="https://old.reddit.com/r/casualiama/comments/c65wvb/im_22f_in_the_middle_of_china_8000_km_from_home/">I’m (22f) in the middle of china, 8000 km from home, and i’m drinking coffe by myself after hours of walking randomly to get away from my bf. Ama</a>, submitted on 2019-06-27 22:04:46+08:00.</h3>
+
+<p>—– <strong>360.1</strong> —–2019-06-28 06:36:01+08:00:</p>
+
+<blockquote>
+  <p>plus its mostly served hot</p>
+</blockquote>
+
+<p>I’m Chinese from T1 city so I can just speak of T1,2 cities… I bet you almost all the milktea shops here provide lots of cold drinks. Milktea is a popular culture of young generations. The most famous shops are 一点点，皇茶，喜茶，丧茶 etc.</p>
+
+<p>—– <strong>360.2</strong> —–2019-06-29 01:54:06+08:00:</p>
+
+<p>lol it sounds weird to me but I haven’t lived in the less-developed areas in China so you might be right… I just hope you figured out the right ones</p>
+
+<p>for example <a href="http://www.a-little-tea.com/rqyp/list_8_2.html">一点点</a></p>
+
+<h3 id="361-我的中文口音怎么样我学了汉语两年了有人能给我关于我的口音和发音的反馈吗-submitted-on-2019-06-28-0014330800">361: <a href="https://old.reddit.com/r/China_irl/comments/c67gge/我的中文口音怎么样我学了汉语两年了有人能给我关于我的口音和发音的反馈吗/">我的中文口音怎么样？我学了汉语两年了。有人能给我关于我的口音和发音的反馈吗？</a>, submitted on 2019-06-28 00:14:33+08:00.</h3>
+
+<p>—– <strong>361.1</strong> —–2019-06-28 03:59:54+08:00:</p>
+
+<p>r/ChineseLanguage</p>
+
+<h3 id="362-民主党第一轮总统辩论day-2-submitted-on-2019-06-28-2003560800">362: <a href="https://old.reddit.com/r/China_irl/comments/c6jdfn/民主党第一轮总统辩论day_2/">民主党第一轮总统辩论day 2</a>, submitted on 2019-06-28 20:03:56+08:00.</h3>
+
+<p>—– <strong>362.1</strong> —–2019-06-29 11:37:56+08:00:</p>
+
+<p>The Economist上期还专门报道了Yang呢。。。怎么雷声大雨点小</p>
+
+<h3 id="363-a-normal-school-day-in-russia-submitted-on-2019-06-28-2116420800">363: <a href="https://old.reddit.com/r/ANormalDayInRussia/comments/c6k2tm/a_normal_school_day_in_russia/">A normal school day in Russia</a>, submitted on 2019-06-28 21:16:42+08:00.</h3>
+
+<p>—– <strong>363.1</strong> —–2019-06-29 02:43:19+08:00:</p>
+
+<p>genuis</p>
+
+<h3 id="364-tension-between-canada-and-china-at-g20-hilarious-vid-of-xi-and-trudeau-submitted-on-2019-06-28-2221180800">364: <a href="https://old.reddit.com/r/China/comments/c6kroh/tension_between_canada_and_china_at_g20_hilarious/">Tension between Canada and China at G20 (Hilarious vid of Xi and Trudeau)</a>, submitted on 2019-06-28 22:21:18+08:00.</h3>
+
+<p>—– <strong>364.1</strong> —–2019-06-29 02:13:45+08:00:</p>
+
+<blockquote>
+  <p>European Union.
+France.
+Germany.</p>
+</blockquote>
+
+<p>wow I didn’t know they are independent participants in G20. Thx…</p>
+
+<p>Edit: actually it makes sense. I just didn’t notice it before</p>
+
+<h3 id="365-japanese-prime-minister-shinzo-abe-raised-concerns-about-hong-kong-with-chinese-president-xi-jinping-submitted-on-2019-06-29-0612050800">365: <a href="https://old.reddit.com/r/China/comments/c6qj6z/japanese_prime_minister_shinzo_abe_raised/">Japanese Prime Minister Shinzo Abe raised concerns about Hong Kong with Chinese President Xi Jinping</a>, submitted on 2019-06-29 06:12:05+08:00.</h3>
+
+<p>—– <strong>365.1</strong> —–2019-06-30 00:12:22+08:00:</p>
+
+<p>tbh I don’t think it’s a big deal</p>
+
+<p>It’s a typical political claims and that’s all</p>
+
+<h3 id="366-medical-service-is-dangerous-and-over-treating-in-china-the-nurse-havent-covered-her-nose-and-all-the-patient-dont-wear-mask-submitted-on-2019-06-29-1111260800">366: <a href="https://old.reddit.com/r/China/comments/c6tpkw/medical_service_is_dangerous_and_over_treating_in/">medical service is dangerous and over treating in china, the nurse havent covered her nose and all the patient dont wear mask..</a>, submitted on 2019-06-29 11:11:26+08:00.</h3>
+
+<p>—– <strong>366.1</strong> —–2019-06-29 15:16:08+08:00:</p>
+
+<p>This is actually a popular opinion within Chinese: the medial service in the US is too expensive and in Canada/Australia are too slow</p>
+
+<p>I’m personally not sure about it tho, because unfortunately and also luckily, I didn’t have a chance to experience them lol</p>
+
+<p>—– <strong>366.2</strong> —–2019-06-29 15:19:00+08:00:</p>
+
+<p>Everywhere in China is overcrowded, man</p>
+
+<p>—– <strong>366.3</strong> —–2019-06-29 23:57:51+08:00:</p>
+
+<p>tbh the military hospital (PLA hospital) is also open for the citizens</p>
+
+<h3 id="367-要么准备武器要么准备后事-submitted-on-2019-06-29-1539040800">367: <a href="https://old.reddit.com/r/saraba1st/comments/c6w3f3/要么准备武器要么准备后事/">要么准备武器，要么准备后事</a>, submitted on 2019-06-29 15:39:04+08:00.</h3>
+
+<p>—– <strong>367.1</strong> —–2019-06-30 10:11:25+08:00:</p>
+
+<blockquote>
+  <p>毕竟前有WTO 的承诺条款打折扣钻空子，后有宣布中英联合声明是历史文件没有效力</p>
+</blockquote>
+
+<p>I really hate whataboutism, but come on</p>
+
+<p>美国在伊朗协议等问题上也反悔了，中美两个真的是50笑100的感觉</p>
+
+<p>—– <strong>367.2</strong> —–2019-06-30 10:13:18+08:00:</p>
+
+<blockquote>
+  <p>為在國際市場上其實已經是半殘廢，就算現在立即停止制裁，恐怕至少也要五六年的時間才能復原</p>
+</blockquote>
+
+<p>怎么说？华为5G方面刚多拿了50订单，手机方面我刚去了reddit和youtube各地方看，都是狂欢一片，怎么也看不出要5、6年时间才恢复。。。不要自欺欺人</p>
+
+<p>—– <strong>367.3</strong> —–2019-06-30 10:15:39+08:00:</p>
+
+<p>我觉得可能跟Trump的中期选举有关，也跟XJP现在的内部压力有关</p>
+
+<p>相当于是双方各取所需，整理“内乱”，一完事了可能立刻回马枪杀到一起</p>
+
+<p>—– <strong>367.4</strong> —–2019-06-30 10:17:59+08:00:</p>
+
+<p>整个华为事件合着就是五眼联盟中的四眼（美加澳西）加个日本是绝对的反方，君不见德法甚至英国都耍两面派，还西方体制</p>
+
+<p>西方体制是更加文明，但不等于他们没有弱点。。。回观历史，很多时候获胜的往往不是更加文明的那方</p>
+
+<p>—– <strong>367.5</strong> —–2019-06-30 20:40:52+08:00:</p>
+
+<p>这些报道我也看过，但我针对的是</p>
+
+<blockquote>
+  <p>恐怕至少也要五六年的時間才能復原</p>
+</blockquote>
+
+<p>这句话，就是5-6年的预估在我看来可能偏长了。yt和rd我不是去看新闻的，是看消费者们的心态和立场的（当然，严谨的消费者心态应该经过严谨的调查）</p>
+
+<h3 id="368-各位对特赦令怎么看-submitted-on-2019-06-29-2037500800">368: <a href="https://old.reddit.com/r/China_irl/comments/c6ygtu/各位对特赦令怎么看/">各位对特赦令怎么看？</a>, submitted on 2019-06-29 20:37:50+08:00.</h3>
+
+<p>—– <strong>368.1</strong> —–2019-06-30 06:46:05+08:00:</p>
+
+<p>不是开头，第九次了</p>
+
+<p>https://zh.wikipedia.org/wiki/中华人民共和国特赦</p>
+
+<h3 id="369-每日新闻-629-大赦天下-submitted-on-2019-06-29-2249300800">369: <a href="https://old.reddit.com/r/China_irl/comments/c6zsvv/每日新闻_629_大赦天下/">[每日新闻] 6/29 大赦天下</a>, submitted on 2019-06-29 22:49:30+08:00.</h3>
+
+<p>—– <strong>369.1</strong> —–2019-06-30 01:35:23+08:00:</p>
+
+<p>大赦天下是真的因为70周年吗？还是背后有什么政治妥协？党内斗争的筹码？结果？</p>
+
+<p>—– <strong>369.2</strong> —–2019-06-30 02:47:17+08:00:</p>
+
+<p>不过抛开体制的不同，“总统赦免”其实在美国等西方国家也是有的</p>
+
+<h3 id="370-how-do-chinese-people-perceive-the-automobile-market-do-they-view-foreign-cars-as-premium-why-are-local-car-brands-not-in-the-top-3-of-brand-market-share-submitted-on-2019-06-30-0224130800">370: <a href="https://old.reddit.com/r/China/comments/c72qmc/how_do_chinese_people_perceive_the_automobile/">How do Chinese people perceive the Automobile market? Do they view foreign cars as premium? Why are local car brands not in the top 3 of brand market share?</a>, submitted on 2019-06-30 02:24:13+08:00.</h3>
+
+<p>—– <strong>370.1</strong> —–2019-06-30 04:38:47+08:00:</p>
+
+<p>I’m not an expert in this field but AFAIK Korea is extremely nationalistic which is actually severer than Chinese’s IMO.</p>
+
+<p>We Chinese love the foreign cars just like we love Apple, and we will not let the nationalism affect our consuming choices. Plus, the face culture I guess? Because car is the face of Chinese, especially lots of them drive their cars for business, better brand of the cars is a proof of their healthy financial situation to convince the potential businessmen to invest on them or deal with them. I know it’s stupid tho 🤷‍♂️ On the contrary, lots of people from the first world would think more economically</p>
+
+<p>However, I think Chinese automobile market will follow the steps of its smartphone counterpart, i.e., from foreign product dominating to 50-50</p>
+
+<p>10 years ago, Chinese people were zealous to the foreign cars, Germany/French brands were classic and reliable, American brands were fancy and powerful, Japanese brands were economic and trusty, and even Korean brands were much better than domestic ones. Now, there is still a foreign brands privilege within Chinese but it’s dwindling year by year.</p>
+
+<p>The backward of Chinese cars should be largely attributed to the lack of traditional automobile technologies (esp. internal combustion engine) which the Japanese/European companies have been working on for decades or even a century.</p>
+
+<p>However, with the (relatively) rising of qualify control of Chinese car manufacturing, the oversea acquisition of foreign automobile companies (<a href="https://www.nytimes.com/2010/08/03/business/global/03volvo.html">example: Geely’s Completely Acquisition of Volvo From Ford</a>) and the trends of new energy car, we can forecast the Chinese will be more willing to buy Chinese cars, just like we are willing to buy domestic smartphone brands such as Huawei, Xiaomi, Oppo, Vivo, Oneplus, etc now. For instance, while Chinese traces Tesla now, lots of them figure out <a href="https://www.nio.com">NIO</a> is not a bad choice. Actually, if you widen the picture, the game is already on, such as <a href="https://www.youtube.com/watch?v=VQM0O9Umu48">BYD Double Deck Battery Electric Bus In London</a>. I mean, the new energy car is a game changer because the traditional automobile manufacturers are losing lots of their existing advantages.</p>
+
+<p>—– <strong>370.2</strong> —–2019-06-30 06:16:05+08:00:</p>
+
+<p>You’re right, the lifetime of automobile is much longer, so is its duration of brand reputation. I think we can take the rising pattern of Japanese/Korean automobiles for reference in this case</p>
+
+<p>However, the business model of automobile changes fast too. It’s not only involving the manufacturing but also a connection with 5G, AI, and IoT. Lots of tech giants are investing heavily in automobile because they believe it would be a new core platform of IoT ecosystem.</p>
+
+<p>China’s domestic policy, such as the automobile emission policy, are pushing Chinese to change their cars to the new energy ones. They’re increasing the changing rate of domestic automobile market.</p>
+
+<p>Anyway, I’m not a big fan of automobile tho. But I hear my dad, who loves automobile, kept talking about the rising of quality of domestic automobile since 5 years ago so I think it can reflect a bit the changing word-of-mouth among Chinese customers, although my family still owns the old-school British MG7 lol</p>
+
+<h3 id="371-中国大学-submitted-on-2019-06-30-0341150800">371: <a href="https://old.reddit.com/r/ChineseLanguage/comments/c73mlr/中国大学/">中国大学</a>, submitted on 2019-06-30 03:41:15+08:00.</h3>
+
+<p>—– <strong>371.1</strong> —–2019-06-30 09:48:28+08:00:</p>
+
+<p>exchange student? one year?</p>
+
+<p>Definitely Tsinghua… but the difficulty of CS there might be abreast of with MIT/Stanford… prepare well</p>
+
+<h3 id="372-开个脑洞-中美冲突会不会是领导人在演戏给我们看-submitted-on-2019-06-30-0343490800">372: <a href="https://old.reddit.com/r/saraba1st/comments/c73npy/开个脑洞_中美冲突会不会是领导人在演戏给我们看/">开个脑洞 中美冲突会不会是领导人在演戏给我们看</a>, submitted on 2019-06-30 03:43:49+08:00.</h3>
+
+<p>—– <strong>372.1</strong> —–2019-06-30 05:27:55+08:00:</p>
+
+<p>这的确是一个长期的趋势没错</p>
+
+<p>美国社会的撕裂，很大一部分原因就在于，美国的中下阶级跟美国的跨国集团资本家是有结构性矛盾的</p>
+
+<p>不过我不认为会来得那么快，起码在有生之年，“国家”这一种事物仍然是很重要的东西，但在（相对人类历史长度而言）不远的未来必会被灭亡</p>
+
+<p>—– <strong>372.2</strong> —–2019-06-30 06:25:22+08:00:</p>
+
+<p>这么说吧，现在其实跨国集团已经初步形成了，不过他们很多还需要“国家”作为一个管理工具</p>
+
+<p>而民族主义也处于另一个再次抬头的阶段，跟跨国集团所更加喜欢的自由主义有点冲突</p>
+
+<p>我的意思是，在我们的一生里面，人类不会进入到完全脱离”国家“的阶段</p>
+
+<p>—– <strong>372.3</strong> —–2019-06-30 06:26:34+08:00:</p>
+
+<p>。。。你《货币战争》看多了吧</p>
+
+<p>—– <strong>372.4</strong> —–2019-06-30 10:34:04+08:00:</p>
+
+<p>英文又怎么了？英文更多伪史，比如《货币战争》就是抄袭别人英文阴谋论的</p>
+
+<ul>
+  <li>
+    <p>Descent Into Slavery by Des Griffin &amp; Chapter Five</p>
+  </li>
+  <li>
+    <p>The Money Master</p>
+  </li>
+  <li>
+    <p>The House of Rothschild by Niall Ferguson</p>
+  </li>
+</ul>
+
+<p>🤷‍♂️</p>
+
+<p>—– <strong>372.5</strong> —–2019-06-30 11:30:53+08:00:</p>
+
+<p>我其实不是只看到Rothschild才提起《货币战争》，而是你这个comment的味道闻起来跟货币战争很像，主旨就是“世界上所有的大事都是背后的财团操控的”</p>
+
+<p>Edit：大哥，我翻看了你以前的comment，虽然也有点这个货币战争的味道，但比你在这楼里面的话语更有建设性，若你觉得自二战起以来的任何事情，从纳粹到冷战到全球化都是国际财团一手操控的，那我也没什么好说的，因为你在无视人类历史的复杂性和随机性</p>
+
+<p>所以，若你是错的，那我固然坚持我的看法，若你是对的，那我也没什么兴趣辩论，因为“敌人”都那么强大了，我也没什么推翻的想法 lol</p>
+
+<h3 id="373-inside-chinas-thought-transformation-camps---bbc-news-2019-mini-doc-for-the-first-time-in-history-china-has-felt-they-have-polished-their-religious-transformation-camps-enough-to-show-the-worldthey-needed-to-do-way-more-polishing-shocking-submitted-on-2019-06-30-0501260800">373: <a href="https://old.reddit.com/r/Documentaries/comments/c74jp8/inside_chinas_thought_transformation_camps_bbc/">Inside China’s ‘thought transformation’ camps - BBC News (2019) [MINI DOC, For the first time in history China has felt they have polished their religious transformation camps enough to show the world..They needed to do way more polishing. Shocking!]</a>, submitted on 2019-06-30 05:01:26+08:00.</h3>
+
+<p>—– <strong>373.1</strong> —–2019-07-01 04:25:03+08:00:</p>
+
+<p>Sorry I’m not going to defend XJ camps but your words make me laugh</p>
+
+<p>Indians dropped from 100% to <a href="https://en.wikipedia.org/wiki/Modern_social_statistics_of_Native_Americans">1%</a> nowadays of course you can just give them reservations and nobody calls for independence movement. If China use your logic, whether they can decrease Uyghurs population to 1% of XJ and then give them reservations for compensation?</p>
+
+<p>Oh sorry, I forgot to mention that China, at least Qing dynasty, <a href="https://en.wikipedia.org/wiki/Qing_dynasty">begin to govern XJ in the mid-18th century</a>, when the US HASN’T been founded. Not to mention China has governed XJ several times dating back to thousands of years ago such as Tang and Han dynasty.</p>
+
+<p>—– <strong>373.2</strong> —–2019-07-01 07:23:03+08:00:</p>
+
+<p>ok, but sounds same as Han’s colonization in XJ</p>
+
+<h3 id="374-trump-after-g20-xi-is-a-brilliant-leader-one-of-the-great-leaders-in-200-years-in-china-submitted-on-2019-06-30-0513240800">374: <a href="https://old.reddit.com/r/China/comments/c74oof/trump_after_g20_xi_is_a_brilliant_leader_one_of/">Trump after G20: Xi is a brilliant leader, one of the great leaders in 200 years in China</a>, submitted on 2019-06-30 05:13:24+08:00.</h3>
+
+<p>—– <strong>374.1</strong> —–2019-06-30 21:27:11+08:00:</p>
+
+<p>They are the products of struggle within the party.</p>
+
+<h3 id="375-today-in-hong-kong-submitted-on-2019-06-30-1729240800">375: <a href="https://old.reddit.com/r/China/comments/c7b9t6/today_in_hong_kong/">Today in Hong Kong</a>, submitted on 2019-06-30 17:29:24+08:00.</h3>
+
+<p>—– <strong>375.1</strong> —–2019-06-30 21:02:34+08:00:</p>
+
+<p>Anti-Extradition Protest</p>
+
+<p>Their estimated turnout: 103k</p>
+
+<p>Police estimate: 24k</p>
+
+<p>Sounds police is fair to both sides lol</p>
+
+<p>—– <strong>375.2</strong> —–2019-07-01 03:36:26+08:00:</p>
+
+<p>good question. I want to know too</p>
+
+<h3 id="376-china-it-joke-job-requirement-age-20-exp-30-submitted-on-2019-06-30-1933260800">376: <a href="https://old.reddit.com/r/China/comments/c7c3j4/china_it_joke_job_requirement_age_20_exp_30/">china IT joke job requirement: age &lt;20, exp &gt;30</a>, submitted on 2019-06-30 19:33:26+08:00.</h3>
+
+<p>—– <strong>376.1</strong> —–2019-07-01 03:57:02+08:00:</p>
+
+<p><del>669</del> 996?</p>
+
+<p>—– <strong>376.2</strong> —–2019-07-01 03:57:53+08:00:</p>
+
+<p>Is it a satire?</p>
+
+<h3 id="377-hong-kongers-marched-today-to-show-support-for-the-local-police-and-the-chinese-government-submitted-on-2019-06-30-2315530800">377: <a href="https://old.reddit.com/r/pics/comments/c7fms1/hong_kongers_marched_today_to_show_support_for/">Hong Kongers marched today to show support for the local police and the Chinese Government.</a>, submitted on 2019-06-30 23:15:53+08:00.</h3>
+
+<p>—– <strong>377.1</strong> —–2019-07-01 09:55:03+08:00:</p>
+
+<p>fair game tho</p>
+
+<h3 id="378-为什么土豆这么不受欢迎-submitted-on-2019-06-30-2344110800">378: <a href="https://old.reddit.com/r/China_irl/comments/c7fy9c/为什么土豆这么不受欢迎/">为什么土豆这么不受欢迎</a>, submitted on 2019-06-30 23:44:11+08:00.</h3>
+
+<p>—– <strong>378.1</strong> —–2019-07-01 01:28:09+08:00:</p>
+
+<p>好惨 lol 土豆在加拿大境内也不得民心呐</p>
+
+<h3 id="379-这是长公主被bully了吗-submitted-on-2019-06-30-2359580800">379: <a href="https://old.reddit.com/r/China_irl/comments/c7g4ek/这是长公主被bully了吗/">这是长公主被bully了吗？</a>, submitted on 2019-06-30 23:59:58+08:00.</h3>
+
+<p>—– <strong>379.1</strong> —–2019-07-01 04:54:44+08:00:</p>
+
+<p>Ivanka的确蛮花瓶的</p>
+
+<p>—– <strong>379.2</strong> —–2019-07-01 09:36:59+08:00:</p>
+
+<p>但问题是Trump一心想推她到政治舞台上啊，看归看，真刀实枪时就不一样了</p>
+
+<p>—– <strong>379.3</strong> —–2019-07-01 09:37:31+08:00:</p>
+
+<p>B级大学怎么分。。。30-50？</p>
+
+<p>—– <strong>379.4</strong> —–2019-07-01 21:53:39+08:00:</p>
+
+<p>我觉得S已经稳坐前三了，S是前面唯一的一个真正全能型的名校（每个大领域都是靠前的排名）</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2019-07-01</time>
+        <a href="https://nodebe4.github.io/opinion/2019-07-01/Yvan888/">
+          Yvan888在2019-07-01~2019-07-07的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-06-30</time>
+        <a href="https://nodebe4.github.io/opinion/2019-06-30/Spinkcat/">
+          Spinkcat在2019-06-24~2019-06-30的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-06-22</time>
+        <a href="https://nodebe4.github.io/opinion/2019-06-22/Spinkcat/">
+          Spinkcat在2019-06-17~2019-06-23的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-06-17</time>
+        <a href="https://nodebe4.github.io/opinion/2019-06-17/Yvan888/">
+          Yvan888在2019-06-17~2019-06-23的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2019-06-23/%E4%BA%92%E8%81%94%E7%BD%91%E6%95%B0%E5%AD%97%E5%AE%A3%E4%BC%A0%E6%88%98-%E4%BA%8C-%E6%95%B0%E5%AD%97%E4%B8%96%E7%95%8C%E9%87%8C%E7%9A%84%E6%B0%B4%E5%86%9B%E4%BB%AC%E5%A6%82%E4%BD%95%E4%BB%8B%E5%85%A5%E7%8E%B0%E5%AE%9E%E4%B8%96%E7%95%8C%E9%87%8C%E7%9A%84%E6%94%BF%E6%B2%BB/">
+            前一篇：互联网数字宣传战（二）：数字世界里的水军们如何介入现实世界里的政治
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2019-06-24/%E7%A7%A6%E6%99%96-%E4%B8%9C%E9%9D%9E%E7%9A%84%E5%91%BC%E5%94%A4/">
+            後一篇：秦晖：东非的呼唤
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2019-06-23/%E4%BA%92%E8%81%94%E7%BD%91%E6%95%B0%E5%AD%97%E5%AE%A3%E4%BC%A0%E6%88%98-%E4%BA%8C-%E6%95%B0%E5%AD%97%E4%B8%96%E7%95%8C%E9%87%8C%E7%9A%84%E6%B0%B4%E5%86%9B%E4%BB%AC%E5%A6%82%E4%BD%95%E4%BB%8B%E5%85%A5%E7%8E%B0%E5%AE%9E%E4%B8%96%E7%95%8C%E9%87%8C%E7%9A%84%E6%94%BF%E6%B2%BB/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2019-06-24/%E7%A7%A6%E6%99%96-%E4%B8%9C%E9%9D%9E%E7%9A%84%E5%91%BC%E5%94%A4/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2019-06-30/Spinkcat/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2019-06-22/Spinkcat/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2019-06-23/%E4%BA%92%E8%81%94%E7%BD%91%E6%95%B0%E5%AD%97%E5%AE%A3%E4%BC%A0%E6%88%98-%E4%BA%8C-%E6%95%B0%E5%AD%97%E4%B8%96%E7%95%8C%E9%87%8C%E7%9A%84%E6%B0%B4%E5%86%9B%E4%BB%AC%E5%A6%82%E4%BD%95%E4%BB%8B%E5%85%A5%E7%8E%B0%E5%AE%9E%E4%B8%96%E7%95%8C%E9%87%8C%E7%9A%84%E6%94%BF%E6%B2%BB/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2019-06-24/%E7%A7%A6%E6%99%96-%E4%B8%9C%E9%9D%9E%E7%9A%84%E5%91%BC%E5%94%A4/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2019-06-30/Spinkcat/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2019-06-22/Spinkcat/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

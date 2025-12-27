@@ -1,0 +1,2415 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>EnclavedMicrostate在2022-02-14~2022-02-20的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="EnclavedMicrostate在2022-02-14~2022-02-20的言论" />
+    <meta property="twitter:title" content="EnclavedMicrostate在2022-02-14~2022-02-20的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FAskHistorians%2Fcomments%2Fsrr3zw%2Fwas_there_a_time_in_history_where_a_country_or%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/AskHistorians/comments/srr3zw/was_there_a_time_in_history_where_a_country_or/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/AskHistorians/comments/srr3zw/was_there_a_time_in_history_where_a_country_or/&text=EnclavedMicrostate在2022-02-14~2022-02-20的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/AskHistorians/comments/srr3zw/was_there_a_time_in_history_where_a_country_or/&title=EnclavedMicrostate在2022-02-14~2022-02-20的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/AskHistorians/comments/srr3zw/was_there_a_time_in_history_where_a_country_or/&title=EnclavedMicrostate在2022-02-14~2022-02-20的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=EnclavedMicrostate在2022-02-14~2022-02-20的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/AskHistorians/comments/srr3zw/was_there_a_time_in_history_where_a_country_or/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/AskHistorians/comments/srr3zw/was_there_a_time_in_history_where_a_country_or/&title=EnclavedMicrostate在2022-02-14~2022-02-20的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=EnclavedMicrostate在2022-02-14~2022-02-20的言论&url=https://old.reddit.com/r/AskHistorians/comments/srr3zw/was_there_a_time_in_history_where_a_country_or/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>EnclavedMicrostate在2022-02-14~2022-02-20的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-02-20
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: EnclavedMicrostate</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/AskHistorians/comments/srr3zw/was_there_a_time_in_history_where_a_country_or/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#134-was-there-a-time-in-history-where-a-country-or-group-of-people-rendered-aid-or-defended-their-enemies-due-to-natural-calamity-or-other-hardship-submitted-on-2022-02-14-0345210800" id="markdown-toc-134-was-there-a-time-in-history-where-a-country-or-group-of-people-rendered-aid-or-defended-their-enemies-due-to-natural-calamity-or-other-hardship-submitted-on-2022-02-14-0345210800">134: was there a time in history where a country or group of people rendered aid or defended their enemies due to natural calamity or other hardship?, submitted on 2022-02-14 03:45:21+08:00.</a></li>
+  <li><a href="#135-what-do-we-refer-to-ancient-societiescivilizations-that-started-using-writing-system-submitted-on-2022-02-14-0551570800" id="markdown-toc-135-what-do-we-refer-to-ancient-societiescivilizations-that-started-using-writing-system-submitted-on-2022-02-14-0551570800">135: What do we refer to ancient societies/civilizations that started using writing system?, submitted on 2022-02-14 05:51:57+08:00.</a></li>
+  <li><a href="#136-are-there-notable-examples-of-architects-reviving-styles-from-bygone-eras-before-neo-classicism-submitted-on-2022-02-14-1034550800" id="markdown-toc-136-are-there-notable-examples-of-architects-reviving-styles-from-bygone-eras-before-neo-classicism-submitted-on-2022-02-14-1034550800">136: Are there notable examples of architects reviving styles from bygone eras before neo-classicism?, submitted on 2022-02-14 10:34:55+08:00.</a></li>
+  <li><a href="#137-mindless-monday-14-february-2022-submitted-on-2022-02-14-2000180800" id="markdown-toc-137-mindless-monday-14-february-2022-submitted-on-2022-02-14-2000180800">137: Mindless Monday, 14 February 2022, submitted on 2022-02-14 20:00:18+08:00.</a></li>
+  <li><a href="#138-any-good-books-providing-an-overview-of-chinese-history-preferably-with-maps-submitted-on-2022-02-15-0407550800" id="markdown-toc-138-any-good-books-providing-an-overview-of-chinese-history-preferably-with-maps-submitted-on-2022-02-15-0407550800">138: Any good books providing an overview of Chinese history, preferably with maps?, submitted on 2022-02-15 04:07:55+08:00.</a></li>
+  <li><a href="#139-im-a-movie-fan-in-the-1950s-1970s-in-the-age-before-vhs-if-i-happened-to-miss-out-on-a-film-while-it-was-in-cinemas-am-i-fairly-certain-that-i-will-never-be-able-to-see-it-or-is-it-likely-for-a-theater-to-play-it-again-fairly-soon-submitted-on-2022-02-15-0756100800" id="markdown-toc-139-im-a-movie-fan-in-the-1950s-1970s-in-the-age-before-vhs-if-i-happened-to-miss-out-on-a-film-while-it-was-in-cinemas-am-i-fairly-certain-that-i-will-never-be-able-to-see-it-or-is-it-likely-for-a-theater-to-play-it-again-fairly-soon-submitted-on-2022-02-15-0756100800">139: I’m a movie fan in the 1950s-1970s. In the age before VHS, if I happened to miss out on a film while it was in cinemas, am I fairly certain that I will never be able to see it? Or is it likely for a theater to play it again fairly soon?, submitted on 2022-02-15 07:56:10+08:00.</a></li>
+  <li><a href="#140-how-accurate-is-hakims-a-marxist-leninist-video-on-why-did-the-ussr-fall-submitted-on-2022-02-15-0923530800" id="markdown-toc-140-how-accurate-is-hakims-a-marxist-leninist-video-on-why-did-the-ussr-fall-submitted-on-2022-02-15-0923530800">140: How accurate is Hakim’s (a Marxist-Leninist) video on “Why Did the USSR Fall?”, submitted on 2022-02-15 09:23:53+08:00.</a></li>
+  <li><a href="#141-the-romulan-invasion-force-in-unification-was-small-because-they-were-relying-on-previously-seeded-infiltrators-submitted-on-2022-02-15-0930220800" id="markdown-toc-141-the-romulan-invasion-force-in-unification-was-small-because-they-were-relying-on-previously-seeded-infiltrators-submitted-on-2022-02-15-0930220800">141: The Romulan invasion force in Unification was small because they were relying on previously seeded infiltrators, submitted on 2022-02-15 09:30:22+08:00.</a></li>
+  <li><a href="#142-how-did-a-society-as-ancient-and-advanced-as-imperial-china-fall-so-badly-behind-in-weapon-development-that-britain-crushed-them-in-the-opium-wars-submitted-on-2022-02-15-1618580800" id="markdown-toc-142-how-did-a-society-as-ancient-and-advanced-as-imperial-china-fall-so-badly-behind-in-weapon-development-that-britain-crushed-them-in-the-opium-wars-submitted-on-2022-02-15-1618580800">142: How did a society as ancient and advanced as Imperial China fall so badly behind in weapon development that Britain crushed them in the Opium Wars?, submitted on 2022-02-15 16:18:58+08:00.</a></li>
+  <li><a href="#143-what-are-some-examples-of-male-platonic-love-submitted-on-2022-02-16-1002010800" id="markdown-toc-143-what-are-some-examples-of-male-platonic-love-submitted-on-2022-02-16-1002010800">143: What are some examples of male platonic love?, submitted on 2022-02-16 10:02:01+08:00.</a></li>
+  <li><a href="#144-how-many-americans-participated-in-the-1837-candian-revolution-and-can-i-use-it-as-an-example-of-filibustering-submitted-on-2022-02-16-1035580800" id="markdown-toc-144-how-many-americans-participated-in-the-1837-candian-revolution-and-can-i-use-it-as-an-example-of-filibustering-submitted-on-2022-02-16-1035580800">144: How many Americans participated in the 1837 Candian revolution, and can I use it as an example of filibustering?, submitted on 2022-02-16 10:35:58+08:00.</a></li>
+  <li><a href="#145-how-different-would-911-be-if-it-happened-in-the-middle-of-the-night-submitted-on-2022-02-16-1110290800" id="markdown-toc-145-how-different-would-911-be-if-it-happened-in-the-middle-of-the-night-submitted-on-2022-02-16-1110290800">145: How different would 9/11 be if it happened in the middle of the night?, submitted on 2022-02-16 11:10:29+08:00.</a></li>
+  <li><a href="#146-tng-mixes-it-up-with-another-series-submitted-on-2022-02-17-1516190800" id="markdown-toc-146-tng-mixes-it-up-with-another-series-submitted-on-2022-02-17-1516190800">146: Tng mixes it up with another series, submitted on 2022-02-17 15:16:19+08:00.</a></li>
+  <li><a href="#147-todays-the-midpoint-of-the-hk-rushia-bus-journey-and-that-last-day-that-its-on-route-208-so-i-took-the-opportunity-to-snap-a-few-last-photos-before-it-heads-off-to-other-routes-for-the-next-four-weeks-apologies-for-potato-quality-and-るしあ大好きだよ-submitted-on-2022-02-17-1922070800" id="markdown-toc-147-todays-the-midpoint-of-the-hk-rushia-bus-journey-and-that-last-day-that-its-on-route-208-so-i-took-the-opportunity-to-snap-a-few-last-photos-before-it-heads-off-to-other-routes-for-the-next-four-weeks-apologies-for-potato-quality-and-るしあ大好きだよ-submitted-on-2022-02-17-1922070800">147: Today’s the midpoint of the HK Rushia bus’ journey and that last day that it’s on Route 208, so I took the opportunity to snap a few last photos before it heads off to other routes for the next four weeks! Apologies for potato quality, and #るしあ大好きだよ!, submitted on 2022-02-17 19:22:07+08:00.</a></li>
+  <li><a href="#148-did-alexander-the-great-get-valuable-intelligence-for-his-invasion-of-persia-by-reading-xenophons-anabasis-the-10000-mercenaries-under-xenophon-seemed-to-follow-a-similar-route-and-gave-detailed-first-hand-descriptions-of-besting-the-persians-in-battle-submitted-on-2022-02-18-0857380800" id="markdown-toc-148-did-alexander-the-great-get-valuable-intelligence-for-his-invasion-of-persia-by-reading-xenophons-anabasis-the-10000-mercenaries-under-xenophon-seemed-to-follow-a-similar-route-and-gave-detailed-first-hand-descriptions-of-besting-the-persians-in-battle-submitted-on-2022-02-18-0857380800">148: Did Alexander the great get valuable intelligence for his invasion of Persia by reading Xenophon’s Anabasis? The 10,000 mercenaries under Xenophon seemed to follow a similar route, and gave detailed first-hand descriptions of besting the Persians in battle., submitted on 2022-02-18 08:57:38+08:00.</a></li>
+  <li><a href="#1-xenophon-in-alexanders-campaigns" id="markdown-toc-1-xenophon-in-alexanders-campaigns">1: Xenophon in Alexander’s campaigns</a></li>
+  <li><a href="#2-xenophon-in-alexander-historiography" id="markdown-toc-2-xenophon-in-alexander-historiography">2: Xenophon in Alexander historiography</a></li>
+  <li><a href="#sources-and-further-reading" id="markdown-toc-sources-and-further-reading">Sources and Further Reading</a></li>
+  <li><a href="#149-lmao-the-look-on-subarus-face-says-it-all-submitted-on-2022-02-19-2223410800" id="markdown-toc-149-lmao-the-look-on-subarus-face-says-it-all-submitted-on-2022-02-19-2223410800">149: LMAO! The look on Subaru’s face says it all!, submitted on 2022-02-19 22:23:41+08:00.</a></li>
+  <li><a href="#150-danchou-is-excited-tonight-submitted-on-2022-02-20-2241450800" id="markdown-toc-150-danchou-is-excited-tonight-submitted-on-2022-02-20-2241450800">150: Danchou is excited tonight, submitted on 2022-02-20 22:41:45+08:00.</a></li>
+  <li><a href="#151-hobby-scuffles-week-of-february-21-2022-submitted-on-2022-02-20-2300290800" id="markdown-toc-151-hobby-scuffles-week-of-february-21-2022-submitted-on-2022-02-20-2300290800">151: [Hobby Scuffles] Week of February 21, 2022, submitted on 2022-02-20 23:00:29+08:00.</a></li>
+</ul>
+
+<h3 id="134-was-there-a-time-in-history-where-a-country-or-group-of-people-rendered-aid-or-defended-their-enemies-due-to-natural-calamity-or-other-hardship-submitted-on-2022-02-14-0345210800">134: <a href="https://old.reddit.com/r/AskHistorians/comments/srr3zw/was_there_a_time_in_history_where_a_country_or/">was there a time in history where a country or group of people rendered aid or defended their enemies due to natural calamity or other hardship?</a>, submitted on 2022-02-14 03:45:21+08:00.</h3>
+
+<p>—– <strong>134.1</strong> —–2022-02-14 12:34:41+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="135-what-do-we-refer-to-ancient-societiescivilizations-that-started-using-writing-system-submitted-on-2022-02-14-0551570800">135: <a href="https://old.reddit.com/r/AskHistorians/comments/sru10k/what_do_we_refer_to_ancient/">What do we refer to ancient societies/civilizations that started using writing system?</a>, submitted on 2022-02-14 05:51:57+08:00.</h3>
+
+<p>—– <strong>135.1</strong> —–2022-02-14 12:34:51+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="136-are-there-notable-examples-of-architects-reviving-styles-from-bygone-eras-before-neo-classicism-submitted-on-2022-02-14-1034550800">136: <a href="https://old.reddit.com/r/AskHistorians/comments/srznck/are_there_notable_examples_of_architects_reviving/">Are there notable examples of architects reviving styles from bygone eras before neo-classicism?</a>, submitted on 2022-02-14 10:34:55+08:00.</h3>
+
+<p>—– <strong>136.1</strong> —–2022-02-14 12:35:12+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="137-mindless-monday-14-february-2022-submitted-on-2022-02-14-2000180800">137: <a href="https://old.reddit.com/r/badhistory/comments/ss8zem/mindless_monday_14_february_2022/">Mindless Monday, 14 February 2022</a>, submitted on 2022-02-14 20:00:18+08:00.</h3>
+
+<p>—– <strong>137.1</strong> —–2022-02-15 10:53:08+08:00:</p>
+
+<p>The hoped-for price rise <a href="https://www.marketwatch.com/story/crypto-companies-spent-millions-on-super-bowl-ads-but-it-didnt-lift-bitcoin-prices-monday-11644876991">failed to materialise</a>, so things are definitely trending downward. Just… could they trend <em>faster</em> please?</p>
+
+<p>—– <strong>137.2</strong> —–2022-02-15 17:25:06+08:00:</p>
+
+<p>I imagine this will be of especial interest to /u/lothernseaguard, but <a href="https://twitter.com/EMicrostate/status/1493513743556169728">Quora seems to be making a limited attempt to silence criticism over the Kevin Richardson fiasco.</a></p>
+
+<h3 id="138-any-good-books-providing-an-overview-of-chinese-history-preferably-with-maps-submitted-on-2022-02-15-0407550800">138: <a href="https://old.reddit.com/r/AskHistorians/comments/ssjzbr/any_good_books_providing_an_overview_of_chinese/">Any good books providing an overview of Chinese history, preferably with maps?</a>, submitted on 2022-02-15 04:07:55+08:00.</h3>
+
+<p>—– <strong>138.1</strong> —–2022-02-15 10:27:48+08:00:</p>
+
+<p>Harvard’s six-volume <em>History of Imperial China</em> series is probably going to be one of the more helpful options for this while still not being beyond a reasonable budget as long as you’re aware you’re getting up to six books. They’re broadly up to date historiographically for the mid-late 2000s, and while they have a relatively thematic and analytical focus over narrative, they are intended to have decent readability for the more general reader, so most of the volumes have a good smattering of maps, figures, and illustrations.</p>
+
+<h3 id="139-im-a-movie-fan-in-the-1950s-1970s-in-the-age-before-vhs-if-i-happened-to-miss-out-on-a-film-while-it-was-in-cinemas-am-i-fairly-certain-that-i-will-never-be-able-to-see-it-or-is-it-likely-for-a-theater-to-play-it-again-fairly-soon-submitted-on-2022-02-15-0756100800">139: <a href="https://old.reddit.com/r/AskHistorians/comments/ssotsp/im_a_movie_fan_in_the_1950s1970s_in_the_age/">I’m a movie fan in the 1950s-1970s. In the age before VHS, if I happened to miss out on a film while it was in cinemas, am I fairly certain that I will never be able to see it? Or is it likely for a theater to play it again fairly soon?</a>, submitted on 2022-02-15 07:56:10+08:00.</h3>
+
+<p>—– <strong>139.1</strong> —–2022-02-15 11:15:21+08:00:</p>
+
+<p>Sorry, but this response has been removed because we <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_personal_anecdotes">do not allow the personal anecdotes or second-hand stories</a> of users to form the basis of a response. While they can sometimes be quite interesting, the medium and anonymity of this forum does not allow for them to be properly contextualized, nor the source vetted or contextualized.  A more thorough explanation for the reasoning behind this rule can be found in <a href="https://www.reddit.com/r/AskHistorians/comments/fj1kw7/rules_roundtable_vii_no_personal_anecdotes/">this Rules Roundtable</a>. For users who <em>are</em> interested in this more personal type of answer, we would suggest you consider /r/AskReddit.</p>
+
+<h3 id="140-how-accurate-is-hakims-a-marxist-leninist-video-on-why-did-the-ussr-fall-submitted-on-2022-02-15-0923530800">140: <a href="https://old.reddit.com/r/badhistory/comments/ssqpp1/how_accurate_is_hakims_a_marxistleninist_video_on/">How accurate is Hakim’s (a Marxist-Leninist) video on “Why Did the USSR Fall?”</a>, submitted on 2022-02-15 09:23:53+08:00.</h3>
+
+<p>—– <strong>140.1</strong> —–2022-02-15 10:44:36+08:00:</p>
+
+<p>Thank you for your submission to /r/badhistory! Unfortunately, it has been removed for the following reason(s):</p>
+
+<p>Your submission is in violation of <strong>Rule 2</strong>. Your submission Is a debunk/debate request. These should be made in the weekly Saturday Symposium post and are no longer allowed as posts.</p>
+
+<p>If you feel this was done in error, or would like better clarification or need further assistance, please don’t hesitate to <a href="https://www.reddit.com/message/compose?to=/r/badhistory&amp;subject=Question regarding the removal of this submission by /u/Budo3&amp;message=I have a question regarding the removal of [this submission](https://www.reddit.com/r/badhistory/comments/ssqpp1/-/\)">message the moderators.</a></p>
+
+<h3 id="141-the-romulan-invasion-force-in-unification-was-small-because-they-were-relying-on-previously-seeded-infiltrators-submitted-on-2022-02-15-0930220800">141: <a href="https://old.reddit.com/r/DaystromInstitute/comments/ssqucd/the_romulan_invasion_force_in_unification_was/">The Romulan invasion force in Unification was small because they were relying on previously seeded infiltrators</a>, submitted on 2022-02-15 09:30:22+08:00.</h3>
+
+<p>—– <strong>141.1</strong> —–2022-02-15 13:59:42+08:00:</p>
+
+<blockquote>
+  <p>As for the incompetence of the Zhat Vash, I doubt they’d ignore Data. On the off chance that Maddox got his way and he was disassembled, studied, and could be replicated, that seems like a pretty massive issue for anti-synthetic fanatics…</p>
+</blockquote>
+
+<p>Leading to a bit of an interesting crackpot theory: what if Data’s trial was at least in part engineered by the Zhat Vash, perhaps some strings pulled here and there especially as regards Captain Louvois? It’d be the sort of thing where Romulan intrigue wouldn’t be expected because it’s seemingly so benign, but where it would at least delay the replication of synthetic life for a while and buy time.</p>
+
+<p>—– <strong>141.2</strong> —–2022-02-16 00:16:57+08:00:</p>
+
+<p>Like I said, it’s not a ploy to <em>prevent</em> synthetic development, it’s one to <em>delay</em> that development until such time as the Zhat Vash can put a concrete plan in action. Within the events in the episode ‘The Measure of a Man’, the <em>Enterprise-D</em> is operating in core Federation territory, and it is unclear how high up Zhat Vash infiltration may have occurred by that stage. They obviously aren’t omnipotent, and perhaps at this stage they don’t have anyone on the ground who is able to get in a position to straight up destroy Data. If so, there are two options: let Maddox disassemble Data and replicate him – the worst case scenario – or allow Data to be legally protected so that he can’t be replicated by anyone, at least in the short to medium term.</p>
+
+<p>—– <strong>141.3</strong> —–2022-02-16 00:36:25+08:00:</p>
+
+<p>Killing Data within Federation territory would be an obvious act of aggression against the Federation itself. The Zhat Vash may have an ideological outlook but they are also part of the Romulan Empire, and provoking a war in pursuit of their narrower goal would not be ideal if there were potential options that did <em>not</em> risk starting a war. All I’m proposing is that it is within the realm of plausibility that the Zhat Vash might have pursued a policy of containment rather than total eradication, waiting for a more opportune moment. Both options achieve the ideological goal, but one sacrifices a bit of time in exchange for security.</p>
+
+<p>In reference to the trial, perhaps I was too vague in suggesting that they orchestrated the <em>entire</em> thing, more that they pulled strings to perhaps help convince Louvois to go ahead with the trial and to rule in Data’s favour. They wouldn’t have deliberately created a scenario where Maddox even <em>might</em> have the opportunity to reverse-engineer Data; rather, Maddox’s attempt to requisition him would have been an unexpected development but also an opportunity.</p>
+
+<p>EDIT: Now, if the trial had gone the other way, or not at all, and Maddox <em>did</em> get access to Data’s internals, <em>then</em> the Zhat Vash may have gone to the nuclear option.</p>
+
+<h3 id="142-how-did-a-society-as-ancient-and-advanced-as-imperial-china-fall-so-badly-behind-in-weapon-development-that-britain-crushed-them-in-the-opium-wars-submitted-on-2022-02-15-1618580800">142: <a href="https://old.reddit.com/r/AskHistorians/comments/ssy38a/how_did_a_society_as_ancient_and_advanced_as/">How did a society as ancient and advanced as Imperial China fall so badly behind in weapon development that Britain crushed them in the Opium Wars?</a>, submitted on 2022-02-15 16:18:58+08:00.</h3>
+
+<p>—– <strong>142.1</strong> —–2022-02-16 14:26:30+08:00:</p>
+
+<p>This is a subject I’ve discussed in several past answers (which I will link in a moment), but to begin with I need to stress that ‘a society as ancient and advanced as Imperial China’ is, to put it bluntly, a meaningless phrase. <em>All</em> societies are theoretically equally ‘ancient’, and ‘advancement’ is its own can of arbitrarily-defined, meaningless worms. We may as well ask how a society as ‘ancient and advanced’ as Rome fell to the Turks in 1453. Presenting imperial China as an ‘ancient’ society also massively flattens the real changes that occurred in state and society over the over two millennia between the foundation of the first imperial state in 221 BCE and the end of the last imperial state(s) in the 1910s. (See <a href="https://www.reddit.com/r/AskHistorians/comments/s4uur3/did_the_various_ruling_dynasties_of_china_ever/hsv34aa/">this answer</a> for a bit more on that.)</p>
+
+<p>On the question of specifically military developments, Tonio Andrade’s <em>The Gunpowder Age</em> (2016) is far from the final word on the topic, but it is one of the more comprehensive ones. One of the major ideas Andrade puts forward is that the locus of military technological innovation shifted back and forth between Europe and East Asia in the medieval and Early Modern periods: gunpowder weapons were first developed in China, then were brought to Europe by the Mongols in the 14th century, European iterations on these weapons were then brought to Asia in the 16th century, where Asian states iterated on these imports, and many were arguably ahead of European states in some respects until the end of the 17th century. Some polities maintained parity well into the 18th century (Indian states especially); some fell behind by the middle of the 17th (Japan particularly). Andrade puts the Qing divergence in terms of field weapons as starting mainly around 1750; I personally date it more to around 1700. However, he also notes that East Asian polities lagged considerably further behind in naval and fortifications technology – two very important things for the Opium Wars, where the Qing was being attacked (so some better fortifications would have been nice) by sea (for which a more competitive navy would have been nice). Discussion of those are their own, separate issue which I don’t feel fully qualified to comment on.</p>
+
+<p>But as for development on land, I discuss some of the issues <a href="https://www.reddit.com/r/AskHistorians/comments/okp0aj/why_were_qing_china_and_southeast_asia_never_able/h5a1cmz/">here</a> and to an extent <a href="https://www.reddit.com/r/AskHistorians/comments/o9qve6/dear_early_modern_historians_were_the/h3fb1me/">here</a>. One issue I could have discussed in the first answer is finance, but that comes through in the second.</p>
+
+<h3 id="143-what-are-some-examples-of-male-platonic-love-submitted-on-2022-02-16-1002010800">143: <a href="https://old.reddit.com/r/AskHistorians/comments/stjzhr/what_are_some_examples_of_male_platonic_love/">What are some examples of male platonic love?</a>, submitted on 2022-02-16 10:02:01+08:00.</h3>
+
+<p>—– <strong>143.1</strong> —–2022-02-16 11:31:05+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="144-how-many-americans-participated-in-the-1837-candian-revolution-and-can-i-use-it-as-an-example-of-filibustering-submitted-on-2022-02-16-1035580800">144: <a href="https://old.reddit.com/r/AskHistorians/comments/stko0l/how_many_americans_participated_in_the_1837/">How many Americans participated in the 1837 Candian revolution, and can I use it as an example of filibustering?</a>, submitted on 2022-02-16 10:35:58+08:00.</h3>
+
+<p>—– <strong>144.1</strong> —–2022-02-16 11:31:21+08:00:</p>
+
+<p>Hi there - unfortunately we have had to remove your question, because <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework">/r/AskHistorians isn’t here to do your homework for you</a>. However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself.</p>
+
+<p>If you have indeed asked a homework question, you should consider resubmitting a question more focused on finding resources and seeking clarification on confusing issues: tell us what you’ve researched so far, what resources you’ve consulted, and what you’ve learned, and we are more likely to approve your question. Please see this <a href="https://www.reddit.com/r/AskHistorians/comments/hplxyf/rules_roundtable_xx_the_no_homework_rule/">Rules Roundtable</a> thread for more information on what makes for the kind of homework question we’d approve. Additionally, if you’re not sure where to start in terms of finding and understanding sources in general, we have a six-part series, “<a href="https://www.reddit.com/r/AskHistorians/wiki/theory#wiki_monday_methods.3A_finding_and_understanding_sources">Finding and Understanding Sources</a>”, which has a wealth of information that may be useful for finding and understanding information for your essay. Finally, other subreddits are likely to be more suitable for help with homework - try looking for help at /r/HomeworkHelp.</p>
+
+<p>Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you <strong>wait for 7 days</strong> and then ask a less open-ended question on the same topic.</p>
+
+<h3 id="145-how-different-would-911-be-if-it-happened-in-the-middle-of-the-night-submitted-on-2022-02-16-1110290800">145: <a href="https://old.reddit.com/r/AskHistorians/comments/stldmw/how_different_would_911_be_if_it_happened_in_the/">How different would 9/11 be if it happened in the middle of the night?</a>, submitted on 2022-02-16 11:10:29+08:00.</h3>
+
+<p>—– <strong>145.1</strong> —–2022-02-16 11:31:29+08:00:</p>
+
+<p>Sorry, but your submission has been removed because we <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F">don’t allow hypothetical questions</a>. If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule <a href="https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/">here</a>.</p>
+
+<h3 id="146-tng-mixes-it-up-with-another-series-submitted-on-2022-02-17-1516190800">146: <a href="https://old.reddit.com/r/risa/comments/suitpp/tng_mixes_it_up_with_another_series/">Tng mixes it up with another series</a>, submitted on 2022-02-17 15:16:19+08:00.</h3>
+
+<p>—– <strong>146.1</strong> —–2022-02-17 16:19:53+08:00:</p>
+
+<p>Quark.</p>
+
+<h3 id="147-todays-the-midpoint-of-the-hk-rushia-bus-journey-and-that-last-day-that-its-on-route-208-so-i-took-the-opportunity-to-snap-a-few-last-photos-before-it-heads-off-to-other-routes-for-the-next-four-weeks-apologies-for-potato-quality-and-るしあ大好きだよ-submitted-on-2022-02-17-1922070800">147: <a href="https://old.reddit.com/r/Hololive/comments/sumjbp/todays_the_midpoint_of_the_hk_rushia_bus_journey/">Today’s the midpoint of the HK Rushia bus’ journey and that last day that it’s on Route 208, so I took the opportunity to snap a few last photos before it heads off to other routes for the next four weeks! Apologies for potato quality, and #るしあ大好きだよ!</a>, submitted on 2022-02-17 19:22:07+08:00.</h3>
+
+<p>—– <strong>147.1</strong> —–2022-02-17 19:22:16+08:00:</p>
+
+<p>I was a little apprehensive when heading out because apparently the bus did get vandalised a few days ago, but if it was it’s been patched up very convincingly!</p>
+
+<p>—– <strong>147.2</strong> —–2022-02-17 20:53:10+08:00:</p>
+
+<p>I did actually take <a href="https://imgur.com/mKKTYb2">a photo of the back</a> but it seems to have failed to upload – but no visible damage there as far as I could tell.</p>
+
+<p>—– <strong>147.3</strong> —–2022-02-17 22:16:44+08:00:</p>
+
+<p>(tagging in /u/HashiriyaR32)</p>
+
+<p>Nope, it’s the same bus with the same number plate as when it started.</p>
+
+<p>—– <strong>147.4</strong> —–2022-02-18 12:13:27+08:00:</p>
+
+<p>For some, maybe. Not here, at least not badly enough to stop the Rushia bus.</p>
+
+<h3 id="148-did-alexander-the-great-get-valuable-intelligence-for-his-invasion-of-persia-by-reading-xenophons-anabasis-the-10000-mercenaries-under-xenophon-seemed-to-follow-a-similar-route-and-gave-detailed-first-hand-descriptions-of-besting-the-persians-in-battle-submitted-on-2022-02-18-0857380800">148: <a href="https://old.reddit.com/r/AskHistorians/comments/sv4k5i/did_alexander_the_great_get_valuable_intelligence/">Did Alexander the great get valuable intelligence for his invasion of Persia by reading Xenophon’s Anabasis? The 10,000 mercenaries under Xenophon seemed to follow a similar route, and gave detailed first-hand descriptions of besting the Persians in battle.</a>, submitted on 2022-02-18 08:57:38+08:00.</h3>
+
+<p>—– <strong>148.1</strong> —–2022-02-18 15:01:25+08:00:</p>
+
+<h3 id="1-xenophon-in-alexanders-campaigns">1: Xenophon in Alexander’s campaigns</h3>
+
+<p>The simple, disappointing answer is that we cannot be sure if Alexander drew on Xenophon’s <em>Anabasis</em>, or even if he read it at all. The principal argument on this front comes from Kevin McGroarty, who finds little to substantiate the often-held presumption that the corpus of Xenophon had a concrete influence on Alexander’s campaigns. The broader article has issues, but it does raise quite convincing points in relation to the <em>Anabasis</em> specifically:</p>
+
+<ul>
+  <li>
+    <p>Plutarch, who describes Alexander as a prolific reader at <em>Life of Alexander</em> 8, does not list the <em>Anabasis</em>, or indeed any of Xenophon’s works, among the texts he was sent by Harpalos during his later campaigns. This, to be fair, is explicable if Alexander already had copies or a copy at the time. More significantly, he writes that it was Homer’s <em>Iliad</em> which he regarded as his principal advice text on military affairs.</p>
+  </li>
+  <li>
+    <p>Of the five main literary sources on Alexander (Arrian, Plutarch, Diodoros, Curtius, Justin) <em>only</em> Arrian mentions Xenophon in the text, and where he does, these references do not require Alexander to have actually read the <em>Anabasis</em>. For instance, Arrian has Alexander give a speech before the Battle of Issos referring to Xenophon, but he only needs to have <em>heard of</em> Xenophon and his career to do so; both Xenophon and Arrian describe crossing the Euphrates with rafts made from leather tent skins wrapped over hay, but that doesn’t mean Alexander learned it directly from Xenophon. More broadly, Arrian explicitly modelled <em>himself</em> on Xenophon (more on this later), so such parallels can easily be understood as being deliberately inserted by Arrian in his work, the (ahem) <em>Anabasis of Alexander</em>. There is little to suggest that Alexander relied on Xenophon’s topographical information, as there are few viable routes anyway and so it is quite logical that Alexander’s army would have followed a similar one to Cyrus the Younger’s. Plus, there’s evidence to suggest that he wasn’t following Cyrus’ route exactly: both Alexander and Cyrus circumvented the Cilician Gates, but whereas Cyrus is supposed to have planned in advance to go around, Alexander was stopped at the Gates and launched a night attack to reopen them. There are more examples for which you may wish to read the article itself.</p>
+  </li>
+</ul>
+
+<p>I would also add to this the very real possibility that Alexander did not know that Xenophon wrote the <em>Anabasis</em>. This may sound strange, but it is reasonably clear that Xenophon originally had the <em>Anabasis</em> published under a pseudonym, ‘Themistogenes of Syracuse’. This is a claim he makes in Book 3 of the <em>Hellenika</em>, which was completed some time after 362 BCE. However, the earliest <em>surviving</em> argument that ‘Themistogenes’ was merely a pseudonym is from Plutarch in the early 2nd century CE. As such, it is entirely within the realm of plausibility that the text we now understand to be Xenophon’s <em>Anabasis</em> was, in the period of Alexander’s life, still widely presumed to have been written by an actual Themistogenes. Or to put it another way, Alexander might not have read Xenophon’s <em>Anabasis</em> because at the time, Xenophon’s <em>Anabasis</em> may not have been known to exist!</p>
+
+<p>But that is not to say Alexander read none of Xenophon, far from it. While McGroarty argues that no definitive proof can be found that Alexander was influenced by the <em>Anabasis</em>, and also argues against influence from the <em>Cyropaedia</em> (also more on this later), he does propose that we can see influence from the <em>Agesilaos</em>, Xenophon’s eulogy of his long-time friend, the Eurypontid king of Sparta who died in 358 BCE. Agesilaos’ campaign in Asia Minor in the early 390s, which precipitated the Corinthian War in 395, receives a brief description in the <em>Agesilaos</em>, in which he is described as having focussed on forming friendships and alliances with local elites and communities. And, in Asia Minor, Alexander focussed on limiting the disruption caused to local society: he is supposed to have barred his troops from pillaging, left tax rates unchanged, and allowed locals to return to their fields. After Mithrenes, the garrison commander of Sardis, submitted to him, Alexander rewarded him considerably, later making him satrap of Armenia. As with the <em>Anabasis</em>, Alexander doesn’t have to have actually read the <em>Agesilaos</em> to have grasped the potential usefulness of a hearts-and-minds approach. But unlike the <em>Anabasis</em>, where choices that can be explained as lessons from the text can just as easily be explained as the logical result of sound military thinking, Agesilaos’ friendly behaviour towards non-Greeks was remarked as somewhat unusual, and so it seems reasonably plausible that Alexander was might have drawn on his example. Perhaps through the <em>Agesilaos</em>, but if not then still perhaps through Xenophon’s <em>Hellenika</em>, but equally plausibly from other, lost historical works that circulated in his time.</p>
+
+<p>But the majority of the discussion around Alexander’s familiarity with Xenophon does not relate to his historical works, but rather his pseudohistorical work, the <em>Cyropaedia</em> (or <em>Kurou Paideia</em> (‘Education of Cyrus’) if you prefer). The <em>Cyropaedia</em> <a href="https://www.reddit.com/r/AskHistorians/comments/fzxp15/how_accurate_is_xenophons_cyropaedia_how_do_we/">was probably never intended as a work of history</a>, as /u/Trevor_Culley points out in the linked answer: rather, it is a rumination on kingship and empire conveyed through a historical romance. Much ink has been spilled discussing direct parallels between the behaviour of Cyrus in the <em>Cyropaedia</em> and the known activities of Alexander, but once again these parallels have their limits in that it’s not entirely clear that you would actually have to have read the text to do the thing, nor that the <em>Cyropaedia</em> was the specific text consulted. Nevertheless, there is evidence to suggest that even if he never read the work in its entirety or directly, he was accompanied by people who had. Christopher Kegerreis, for instance, has argued that the <em>Cyropaedia</em> was well-known to Alexander’s courtiers, particularly in relation to the <em>proskynesis</em> debate at Samarkand in 327, where the anti-<em>proskynesis</em> argument delivered by Kallisthenes, in all versions of the event, seems to draw on or allude to the <em>Cyropaedia</em>. Kegerreis also cites the example of two lost texts titled the <em>Education of Alexander</em>, work modelled on the <em>Cyropaedia</em>. One, according to Diogenes Laertius, was written by the Cynic philosopher Onesikritos who accompanied him on campaign; the other, according to the Byzantine <em>Suda</em>, was written by Marsyas, a brother of Antigonos Monophthalmos and a childhood companion of Alexander’s.</p>
+
+<p>Yet even so, the evidence for a wider appreciation of the <em>Cyropaedia</em> in Alexander’s inner circle remains in some respect tenuous. The <em>proskynesis</em> debacle may never have happened, as I note in <a href="https://www.reddit.com/r/AskHistorians/comments/l7ehi3/relationship_between_alexander_the_great_and_his/glicfea/">a previous answer</a>: there is a revisionist position arguing that this debate was in fact a Roman-era fabrication or embellishment inserted into the Alexander narrative, emerging from questions raised over the deification of early Roman emperors (and proto-emperors) – Julius Caesar, Augustus, and most infamously Claudius (whose deification was brutally mocked in Seneca’s <em>Apocolocyntosis</em>). As Kegerreis himself notes, there is uncertainty over when Onesikritos wrote his version of the <em>Education of Alexander</em> and therefore when he might have read the <em>Cyropaedia</em> – its existence is not suggested before around 306/5 BCE, which means he may well have only worked on it well after Alexander was dead, and perhaps only then consulted the <em>Cyropaedia</em>. Marsyas joined Antigonos when he was made satrap of Phrygia in 331, and so stopped working on the <em>Education of Alexander</em> as he was no longer part of the royal retinue and probably could no longer expect reciprocal reward for its continuation, so his level of contact with Alexander during the latter’s reign was very limited past a certain point. The evidence suggesting Alexander had exposure to the <em>Cyropaedia</em> is thus mainly circumstantial: biographical information about Kallisthenes, Onesikritos, and Marsyas suggest that the <em>Cyropaedia</em> could <em>possibly</em> have been part of his childhood curriculum, but is impossible to affirm; even if these men had read the <em>Cryopaedia</em> on their own later in life, it is hard to say how much they influenced Alexander. At best, it is decently clear that Marsyas had read the <em>Cyropaedia</em> when he first travelled with Alexander, and was writing a <em>Cyropaedia</em>-based work in praise of Alexander when the two campaigned together, so there was likely at least <em>some</em> transmission of the <em>Cyropaedia</em> to Alexander by that vector. But it doesn’t definitively prove that Alexander himself had read the <em>Cyropaedia</em>, nor that he would therefore have fully comprehended Marsyas’ intention in composing his text.</p>
+
+<p>The only really ‘safe’ conclusion to be made is that Xenophon was a pretty prominent writer by the time of his death and it is nigh-impossible that Alexander could have somehow avoided his corpus entirely. Yet it is also nigh-impossible to concretely point to any evidence that Alexander directly and specifically drew on anything Xenophon had written. We can only speculate that certain things Alexander did <em>might</em> have been connected with something Xenophontic.</p>
+
+<p>—– <strong>148.2</strong> —–2022-02-18 15:31:24+08:00:</p>
+
+<h3 id="2-xenophon-in-alexander-historiography">2: Xenophon in Alexander historiography</h3>
+
+<p>And yet, Xenophon consistently looms large in the Alexander historiography. Why?</p>
+
+<p>It is hard to understate the role played in this by Arrian of Nikomedia. Arrian’s <em>Anabasis of Alexander</em> was, for much of the 20th century, considered the definitive account of Alexander’s campaigns, and while it has always been somewhat scrutinised, scrutiny has not translated into outright criticism until the last few decades. Arrian’s work belongs to what is sometimes termed the ‘official’ corpus of sources on Alexander, the other principal representative of which is Plutarch’s <em>Life of Alexander</em>. These accounts, written in Attic dialect by Greek citizens in the Roman Empire active in elite circles during the Nerva-Antonine period (indeed, Arrian even served a term as Consul), draw principally on pro-Alexander sources by close courtiers, and portray Alexander as a Greek hero on whom contemporary Roman emperors might model themselves. This contrasts them with the ‘Vulgate’ tradition, consisting principally of Book 17 of Diodoros of Sicily’s <em>Library of History</em>, Quintus Curtius Rufus’ <em>History of Alexander the Great</em>, and Books 11 and 12 of Justin’s <em>Epitome of the Philippic Histories of Pompeius Trogus</em>, works based more heavily on southern Greek writers that were more hostile to Alexander, and generally less tied up with the myth-making around Alexander undertaken by the Greeks of the Aegean and Asia Minor.</p>
+
+<p>Moreover, Arrian modelled himself on Xenophon in several ways. Stadler goes into more depth on this, but for our specific purposes, while the <em>Anabasis of Alexander</em> and the <em>Indika</em> are the only works of Arrian that survive in full, the <em>Anabasis of Alexander</em> is chock full of allusions to Xenophon, with several speeches clearly modelled on those found in the <em>Anabasis</em> and <em>Cyropaedia</em>, and courses of events sometimes altered to fit Xenophontic precedents. In a digression in Book 1 of the <em>Anabasis of Alexander</em> where Arrian delivers his statement of purpose for the work, he even declares that it was his intent to do for Alexander what Homer did for Achilles, and what Xenophon did for himself: glorify Alexander’s deeds with comparably glorious writing. Parallels between Xenophon and Alexander are thus far from the exclusive province of modern historians, but in fact baked into one of our principal sources on Alexander’s career.</p>
+
+<p>What Arrian and Plutarch were also doing was trying to claim Alexander into the broader history of the Greeks, situating him alongside great Greek figures such as Achilles, Xenophon, Epaminondas and the like. But that is a perspective that really only makes sense in the context of a world in which ‘Greek’ as a catch-all identity had emerged out of the Hellenistic world and become reified under the Romans. In Alexander’s own time, the Macedonians were still considered by many Greeks to be non- or at best semi-Greek, and the Macedonians themselves considered themselves at least somewhat set apart from the Greeks. Arrian and Plutarch push hard on the importance of Alexander’s highly Hellenised education as proof of Greekness, but there is no particular reason why we should regard Alexander’s intellectual influences as being exclusively or even primarily southern Greek. Macedonia lay at a crossroads between the Greek, Persian, and Iron-Age Balkan worlds, after all, and our sources, even the ‘official’ tradition with its Panhellenic gloss, are pretty clear that Alexander readily and consciously absorbed Egyptian and Persian intellectual, cultural, and religious influences during his campaigns. Emphasising Xenophon, the ‘Attic Muse’, as an influence on Alexander can be understood as a means by which not only Arrian, but arguably even modern historians writing about Alexander, have tried to claim Alexander into a narrowly Greek paradigm, and erode or erase notions of Macedonian distinctiveness or of Alexander taking a more multicultural approach to rule.</p>
+
+<p>And therein lies the broader question: why should we <em>want</em> to find evidence of Xenophon in Alexander’s campaigns? Is it mere intellectual curiosity, or is there an aspect in which those trying to find such influences are seeking to affirm the romantic but subtly chauvinistic notion of Alexander as the all-Greek hero?</p>
+
+<h3 id="sources-and-further-reading">Sources and Further Reading</h3>
+
+<ul>
+  <li>
+    <p>Kieran McGroarty, ‘Did Alexander the Great read Xenophon?’ <em>Hermathena</em> 181 (2006), pp. 105-124</p>
+  </li>
+  <li>
+    <p>Christopher Kegerreis, ‘The Cyropaedia among Alexander’s Lost Historians’. <em>The Ancient World</em> 46:2 (2015), pp. 134-161 (<a href="https://www.academia.edu/28801241/The_Cyropaedia_among_Alexanders_Lost_Historians">academia.edu link here</a>)</p>
+  </li>
+  <li>
+    <p>Bogdan Burliga, ‘Xenophon’s Cyrus, Alexander φιλόκυρος. How carefully did Alexander the Great study the Cyropaedia?’ <em>Miscellanea Anthropologica et Sociologica</em> 15:3 (2014), pp. 134–146</p>
+  </li>
+  <li>
+    <p>Philip A. Stadler, ‘Flavius Arrianus: the New Xenophon’. <em>GRBS</em> 8 (1967), pp. 155-161</p>
+  </li>
+  <li>
+    <p>Hugh Bowden, <a href="https://kclpure.kcl.ac.uk/portal/files/10596101/On_Kissing_and_Making_Up.pdf">‘On Kissing and Making Up: Court Protocol and Historiography in Alexander the Great’s “Experiment with Proskynesis”’</a>. <em>Bulletin of the Institute of Classical Studies</em>, 56:2 (2013), pp. 55-77</p>
+  </li>
+</ul>
+
+<p>—– <strong>148.3</strong> —–2022-02-22 08:33:17+08:00:</p>
+
+<p>As with Xenophon, we legitimately cannot know, because we cannot definitively link any of Alexander’s actions with the advice given in any specific text unless said text is specifically mentioned <em>and</em> we can prove that the quotation is genuine. After that we can at most speculatively suggest that Alexander <em>may</em> have had familiarity with certain texts based on certain behaviours and patterns of behaviour, and that has quite serious limits.</p>
+
+<p>Also as with Xenophon, we need to be sceptical of claims that Alexander had a particular affinity for the Homeric epics because of how specifically <em>Greek</em> that would have been. Allusions to Homer cut across both the ‘official’ and ‘Vulgate’ source traditions, but it is the ‘official’ tradition that really plays up Alexander’s connections with Achilles. This is also, critically, what we would expect the ‘official’ tradition to do because of its attempt to portray Alexander not as an aspiring universal ruler emerging from a Macedonian context, but as a quintessentially Greek hero fighting for a specifically Greek cause.</p>
+
+<p>In practical terms, there are two principal ways in which Homer and his subject matter crop up in writings on Alexander: the first is where Alexander is said to have honoured them; the second is where the <em>Iliad</em> and/or Achilles are cited as models for Alexander’s behaviour. There are appropriate levels of scepticism with which to treat both of these kinds of motif.</p>
+
+<p>In terms of the honouring of Homer and Achilles, we have:</p>
+
+<ul>
+  <li>
+    <p>Plutarch relaying the claim that Alexander slept next to a copy of the <em>Iliad</em> annotated by Aristotle. This is something that for Plutarch and his audience would have denoted an extremely intimate connection to both a fundamental cornerstone of Greek culture and to contemporary intellectual currents. Which again, is deeply tied in with Greek attempts to claim Alexander as exclusively theirs while erasing the nuances of his background and reign.</p>
+  </li>
+  <li>
+    <p>All the sources describing Alexander as visiting the tombs of Homeric heroes and performing certain rites there after landing in Asia Minor. These are described slightly differently between them: in Arrian, ‘some said’ that Alexander placed a wreath on the tomb of Achilles while Hephaistion placed one on the tomb of Patroklos, while Diodoros says that he performed offerings at the tombs of Achilles, Ajax, and other unspecified heroes, and Justin simply says he sacrificed at the tombs of Homeric heroes around then-modern Troy. Plutarch describes the rites performed at Achilles’ tomb in elaborate detail, but claims it was only Achilles to whom such rites were performed. The presence of the event in both source traditions suggests it very much did happen, but there is plenty of reason to consider Arrian and Plutarch’s versions to involve considerable embellishment. In Arrian’s case, the ‘some say’ is a vital clue here: these ancient historians had their own sources, and when they choose to use ‘some say’ rather than actually name-dropping their source, it is a tell-tale sign that their source is either not one of the better ones, or even outright hearsay. In Plutarch’s, we have the problem of narrative spin-doctoring: he is the author most likely to overstate Alexander’s connection to Achilles. The open question of sorts here is how far Alexander’s actions in relation to the tombs derived from sincere devotion, and how far it was a performative act intended to bolster the image of his campaign as a grand Panhellenic endeavour. Even if we regard Arrian or Plutarch’s descriptions of the specific offerings as accurate, we need not accept their implied narrative that these were offerings made out of Alexander’s lifelong immersion in Greek culture, as opposed to a cynical power-play.</p>
+  </li>
+</ul>
+
+<p>In terms of Homer and/or Achilles providing a model for Alexander’s behaviour:</p>
+
+<ul>
+  <li>
+    <p>Plutarch claims he founded Alexandria based on a line from the <em>Odyssey</em> referring to the island of Pharos on the north coast of Egypt. Again, see above on Plutarch trying to play up Alexander’s Panhellenism, especially given Alexandria’s subsequent status as a Panhellenic metropolis.</p>
+  </li>
+  <li>
+    <p>Arrian claims that Alexander modelled his relationship with Hephaistion on that between Achilles and Patroklos, something that is brought up in the context of his reaction to Hephaistion’s death. This has a consistent ‘some say’ problem where Arrian alleges (on no explicit basis) that Achilles was Alexander’s childhood hero and he had modelled himself on Achilles all along, and uses that assertion as the basis for evaluating the claims of unspecified sources about Alexander’s behaviour in response to Hephaistion’s death. And again, we need to be wary because Arrian is exactly whom we would expect to overtly tie Alexander into the Homeric canon.</p>
+  </li>
+  <li>
+    <p>Diodoros mentions Achilles only once after the sacrifices at Troy, that being during Alexander’s riverine departure from India in 326/5, where after a treacherous passage on the confluence of the Hydaspes and the Indus, Alexander is supposed to have remarked that, like Achilles, he had done battle with a river. This is a claim nigh-impossible to substantiate, but as a throwaway anecdote it is easier to accept than a claim about Alexander’s fundamental behaviour.</p>
+  </li>
+  <li>
+    <p>Curtius twice mentions Alexander modelling himself after Achilles based on the Argeads’ claim to descent from him: once following the siege of Gaza in 322, where he claims that Alexander had the city’s former governor, Betis (or Batis), dragged around the captured city by horses with hooks driven through his ankles, in emulation of Achilles’ treatment of Hector; again in 327, when he is said to have cited the example of Achilles and Briseis as justification for marrying Roxana (how that is supposed to work is beyond me, as well). Curtius is notoriously bad with fact-checking so the Betis claim is rather dubious, while the Roxane element is a bit vague as well in parts. Unlike the others, Curtius isn’t trying to glorify Alexander as a Panhellenic hero, but that doesn’t necessarily legitimise the ‘official’ tradition’s emphasis on Homer, because Curtius is narrating completely different episodes.</p>
+  </li>
+</ul>
+
+<p>An unfortunate reality of dealing with Alexander is that we essentially know nothing about him. Which sounds weird, but the fact is that with so many different sources saying so many different things, and all having their own merits and (considerably greater) flaws, it is nigh impossible to reconcile the accounts we have. In effect, we know too much to actually know anything. This effect is more pronounced in some areas than others, and I would suggest that Alexander’s relationship to the Homeric epics is one of them.</p>
+
+<h3 id="149-lmao-the-look-on-subarus-face-says-it-all-submitted-on-2022-02-19-2223410800">149: <a href="https://old.reddit.com/r/Hololive/comments/swb7dv/lmao_the_look_on_subarus_face_says_it_all/">LMAO! The look on Subaru’s face says it all!</a>, submitted on 2022-02-19 22:23:41+08:00.</h3>
+
+<p>—– <strong>149.1</strong> —–2022-02-20 18:29:23+08:00:</p>
+
+<p>Hm, would I use ‘straight’ to describe Flare…</p>
+
+<h3 id="150-danchou-is-excited-tonight-submitted-on-2022-02-20-2241450800">150: <a href="https://old.reddit.com/r/Hololive/comments/sx2ogy/danchou_is_excited_tonight/">Danchou is excited tonight</a>, submitted on 2022-02-20 22:41:45+08:00.</h3>
+
+<p>—– <strong>150.1</strong> —–2022-02-21 17:05:49+08:00:</p>
+
+<p>Considering that Flare posted a 30-second video last night <a href="https://www.youtube.com/watch?v=I9nD2UC_qj8">literally titled “NoeFure TeeTee”</a> I’d say that they’re still as together as they’ve always been.</p>
+
+<h3 id="151-hobby-scuffles-week-of-february-21-2022-submitted-on-2022-02-20-2300290800">151: <a href="https://old.reddit.com/r/HobbyDrama/comments/sx32a1/hobby_scuffles_week_of_february_21_2022/">[Hobby Scuffles] Week of February 21, 2022</a>, submitted on 2022-02-20 23:00:29+08:00.</h3>
+
+<p>—– <strong>151.1</strong> —–2022-02-25 11:57:59+08:00:</p>
+
+<p>Also responding to /u/Periwinkle_Twinkles:</p>
+
+<p>I believe there are at least two other incidents (‘other’ in scare quotes because the evidence broadly points to Rushia and mafumafu just being friends), but the most substantial was that with Tokoyami Towa back in March 2020. Cover issued a somewhat noncommital statement, and that was about it; Towa ended up booming like the rest in 2020-21 albeit with, at least to begin with, a relatively higher proportion of overseas fans who had supported her during the incident and stuck with her channel in the long run.</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-02-26</time>
+        <a href="https://nodebe4.github.io/opinion/2022-02-26/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-02-21~2022-02-27的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-02-20</time>
+        <a href="https://nodebe4.github.io/opinion/2022-02-20/theoryofdoom/">
+          theoryofdoom在2022-02-14~2022-02-20的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-02-19</time>
+        <a href="https://nodebe4.github.io/opinion/2022-02-19/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-02-14~2022-02-20的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-02-17</time>
+        <a href="https://nodebe4.github.io/opinion/2022-02-17/Commodify/">
+          Commodify在2022-02-14~2022-02-20的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-02-19/%E8%A7%A3%E8%AE%804.2%E8%90%AC%E5%AD%97-%E5%AE%A2%E8%A7%80%E8%A9%95%E5%83%B9%E7%BF%92%E8%BF%91%E5%B9%B3/">
+            前一篇：解讀4.2萬字《客觀評價習近平》
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-02-20/SpeechFreedomCN/">
+            後一篇：Twitter @中国文字狱事件盘点: 2022-02-14~2022-02-20
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-02-19/%E8%A7%A3%E8%AE%804.2%E8%90%AC%E5%AD%97-%E5%AE%A2%E8%A7%80%E8%A9%95%E5%83%B9%E7%BF%92%E8%BF%91%E5%B9%B3/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-02-20/SpeechFreedomCN/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-02-20/theoryofdoom/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-02-19/ForeignAffairsMag/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-02-19/%E8%A7%A3%E8%AE%804.2%E8%90%AC%E5%AD%97-%E5%AE%A2%E8%A7%80%E8%A9%95%E5%83%B9%E7%BF%92%E8%BF%91%E5%B9%B3/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-02-20/SpeechFreedomCN/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-02-20/theoryofdoom/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-02-19/ForeignAffairsMag/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

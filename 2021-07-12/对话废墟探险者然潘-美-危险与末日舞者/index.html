@@ -1,0 +1,1086 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>对话废墟探险者然潘：美、危险与末日舞者 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+对话废墟探险者然潘：美、危险与末日舞者
+——
+" />
+    <meta property="og:description" content="
+对话废墟探险者然潘：美、危险与末日舞者
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="对话废墟探险者然潘：美、危险与末日舞者" />
+    <meta property="twitter:title" content="对话废墟探险者然潘：美、危险与末日舞者" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fmatters.news%2F%40weiluflame%2F%25E5%25AF%25B9%25E8%25AF%259D%25E5%25BA%259F%25E5%25A2%259F%25E6%258E%25A2%25E9%2599%25A9%25E8%2580%2585%25E7%2584%25B6%25E6%25BD%2598-%25E7%25BE%258E-%25E5%258D%25B1%25E9%2599%25A9%25E4%25B8%258E%25E6%259C%25AB%25E6%2597%25A5%25E8%2588%259E%25E8%2580%2585-bafyreigabgalhki65h6gjovwqnghorz2d2qezm7jbnxwtmkn6acodvnntq" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://matters.news/@weiluflame/%E5%AF%B9%E8%AF%9D%E5%BA%9F%E5%A2%9F%E6%8E%A2%E9%99%A9%E8%80%85%E7%84%B6%E6%BD%98-%E7%BE%8E-%E5%8D%B1%E9%99%A9%E4%B8%8E%E6%9C%AB%E6%97%A5%E8%88%9E%E8%80%85-bafyreigabgalhki65h6gjovwqnghorz2d2qezm7jbnxwtmkn6acodvnntq" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://matters.news/@weiluflame/%E5%AF%B9%E8%AF%9D%E5%BA%9F%E5%A2%9F%E6%8E%A2%E9%99%A9%E8%80%85%E7%84%B6%E6%BD%98-%E7%BE%8E-%E5%8D%B1%E9%99%A9%E4%B8%8E%E6%9C%AB%E6%97%A5%E8%88%9E%E8%80%85-bafyreigabgalhki65h6gjovwqnghorz2d2qezm7jbnxwtmkn6acodvnntq&text=对话废墟探险者然潘：美、危险与末日舞者&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://matters.news/@weiluflame/%E5%AF%B9%E8%AF%9D%E5%BA%9F%E5%A2%9F%E6%8E%A2%E9%99%A9%E8%80%85%E7%84%B6%E6%BD%98-%E7%BE%8E-%E5%8D%B1%E9%99%A9%E4%B8%8E%E6%9C%AB%E6%97%A5%E8%88%9E%E8%80%85-bafyreigabgalhki65h6gjovwqnghorz2d2qezm7jbnxwtmkn6acodvnntq&title=对话废墟探险者然潘：美、危险与末日舞者" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://matters.news/@weiluflame/%E5%AF%B9%E8%AF%9D%E5%BA%9F%E5%A2%9F%E6%8E%A2%E9%99%A9%E8%80%85%E7%84%B6%E6%BD%98-%E7%BE%8E-%E5%8D%B1%E9%99%A9%E4%B8%8E%E6%9C%AB%E6%97%A5%E8%88%9E%E8%80%85-bafyreigabgalhki65h6gjovwqnghorz2d2qezm7jbnxwtmkn6acodvnntq&title=对话废墟探险者然潘：美、危险与末日舞者" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=对话废墟探险者然潘：美、危险与末日舞者&body=
+对话废墟探险者然潘：美、危险与末日舞者
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://matters.news/@weiluflame/%E5%AF%B9%E8%AF%9D%E5%BA%9F%E5%A2%9F%E6%8E%A2%E9%99%A9%E8%80%85%E7%84%B6%E6%BD%98-%E7%BE%8E-%E5%8D%B1%E9%99%A9%E4%B8%8E%E6%9C%AB%E6%97%A5%E8%88%9E%E8%80%85-bafyreigabgalhki65h6gjovwqnghorz2d2qezm7jbnxwtmkn6acodvnntq" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://matters.news/@weiluflame/%E5%AF%B9%E8%AF%9D%E5%BA%9F%E5%A2%9F%E6%8E%A2%E9%99%A9%E8%80%85%E7%84%B6%E6%BD%98-%E7%BE%8E-%E5%8D%B1%E9%99%A9%E4%B8%8E%E6%9C%AB%E6%97%A5%E8%88%9E%E8%80%85-bafyreigabgalhki65h6gjovwqnghorz2d2qezm7jbnxwtmkn6acodvnntq&title=对话废墟探险者然潘：美、危险与末日舞者&caption=
+对话废墟探险者然潘：美、危险与末日舞者
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=对话废墟探险者然潘：美、危险与末日舞者&url=https://matters.news/@weiluflame/%E5%AF%B9%E8%AF%9D%E5%BA%9F%E5%A2%9F%E6%8E%A2%E9%99%A9%E8%80%85%E7%84%B6%E6%BD%98-%E7%BE%8E-%E5%8D%B1%E9%99%A9%E4%B8%8E%E6%9C%AB%E6%97%A5%E8%88%9E%E8%80%85-bafyreigabgalhki65h6gjovwqnghorz2d2qezm7jbnxwtmkn6acodvnntq" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>对话废墟探险者然潘：美、危险与末日舞者</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2021-07-12
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: 围炉weiluflame</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#围炉">
+          围炉
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://matters.news/@weiluflame/%E5%AF%B9%E8%AF%9D%E5%BA%9F%E5%A2%9F%E6%8E%A2%E9%99%A9%E8%80%85%E7%84%B6%E6%BD%98-%E7%BE%8E-%E5%8D%B1%E9%99%A9%E4%B8%8E%E6%9C%AB%E6%97%A5%E8%88%9E%E8%80%85-bafyreigabgalhki65h6gjovwqnghorz2d2qezm7jbnxwtmkn6acodvnntq" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="围炉的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#围炉 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1626066824000-->
+<p><a href="https://matters.news/@weiluflame/%E5%AF%B9%E8%AF%9D%E5%BA%9F%E5%A2%9F%E6%8E%A2%E9%99%A9%E8%80%85%E7%84%B6%E6%BD%98-%E7%BE%8E-%E5%8D%B1%E9%99%A9%E4%B8%8E%E6%9C%AB%E6%97%A5%E8%88%9E%E8%80%85-bafyreigabgalhki65h6gjovwqnghorz2d2qezm7jbnxwtmkn6acodvnntq">对话废墟探险者然潘：美、危险与末日舞者</a>
+——</p>
+
+<div>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/7757345a-e2b8-40b7-bd65-80b93edbd4b4.webp" data-asset-id="7757345a-e2b8-40b7-bd65-80b93edbd4b4" referrerpolicy="no-referrer" />    <figcaption>
+<span>然潘与火车墓地</span>
+    </figcaption>
+  </figure>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/84fbca02-5917-4952-8848-a1456ceba67d.png" data-asset-id="84fbca02-5917-4952-8848-a1456ceba67d" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>然潘，中英文废墟探险专职供稿人，自由撰稿人，摄影师。走过废弃医院与银行，穿过寂静的地下铁，走进墓地与殡仪馆。解构规则，重构空间，借助建筑遗留参观日常与历史，用身体丈量城市的时间与空间。当现实与历史的时间线反复纠缠时，她如何看待废墟，又如何面对生活。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/8d253d6d-205b-4fae-9250-c990c23b7229.png" data-asset-id="8d253d6d-205b-4fae-9250-c990c23b7229" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>炉=围炉</p>
+  <p>然=然潘</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>炉 | 想请你简单介绍一下废墟探索文化。是什么契机让你接触到废墟探索？</code></pre></div>  </div>
+  <p>然 | 其实没有一个具体的时间点，但是我一直喜欢废墟、世界末日的这种审美。有两件让我印象比较深刻的事。第一个是搏击俱乐部里面的一段话：“<strong>在我想象中的未来里，你在洛克菲勒废墟构成的峡谷中猎麋；你沿着Sears大厦外面的爬藤向上攀岩；你向下望，在地面舂米的人非常非常渺小；还有人在废弃的高速路上晒着鹿肉条</strong>。”这段话当时给我非常震撼的感受。第二个是我2014年在网上看到一组废弃火车的照片，觉得特别好看，非常入迷，于是去搜了一下，才知道什么是废墟探索。这个行业在国外叫做“城市探险”，有这么一群人经常去废墟里面拍照片、探险。最开始我在身边搜了一些废弃的游乐场、工厂、民宅，有时候出去玩就顺便去看一下。后来玩的越来越多，就也逐渐知道了要怎么玩才有意思。</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>炉 | 在废墟探索这个领域中有没有什么规则？</code></pre></div>  </div>
+  <p>然 | 有一些很基本的规则。第一条是“<strong>除了照片什么都不带走，除了脚印什么都不留下</strong>”，这个和游客的守则也是一样的，不能从废墟里面拿东西，也不能乱丢垃圾。第二个是，<strong>不能在网上公开废墟的具体地点</strong>。因为保存非常完好的废墟，一旦在网上公开，就可能被人破坏。有一些青少年非常喜欢去砸、去破坏，例如他们会去砸废墟教堂里很大的彩色玻璃窗，把很多废墟里非常漂亮的东西砸了，就会非常可惜。另外国外也有一些人很喜欢烧东西，可能会把废墟烧毁，对周围的居民也造成安全隐患。也是因此大家找废墟都是通过自己在网上检索，有一定的难度。</p>
+  <p>但是最近和一个朋友聊起废墟探险这些守则，他感觉非常惊讶，因为废墟探险这项活动已经是走在法律的灰色地带了，我们却还是要遵守这些条条框框，有一种给自我设限的感觉。后来看到网上的一些城市探险者，也没有严格遵守这些守则。比如有一条守则是进入废墟的时候不能破坏废墟，但有些人第一次发现一个地方，就是把玻璃砸了进去才发现的。但是真正尊重废墟的人，是不应该这样做的。所以对这些守则的遵守，也要看大家对于废墟的感受和尊重。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/54f6bd56-d3cc-4be3-92fd-f463591a0769.webp" data-asset-id="54f6bd56-d3cc-4be3-92fd-f463591a0769" referrerpolicy="no-referrer" />    <figcaption>
+<span>底特律礼拜堂</span>
+    </figcaption>
+  </figure>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>炉 | 现在从事废墟探险这个行业的人多吗？</code></pre></div>  </div>
+  <p>然 | 越来越多，有很多人喜欢看城市探险者传到网上的视频、文章，也有人愿意亲身去尝试一下，但是实际去探险和看着还是两回事。我爸妈就是一个很好的例子。我是探险了几年之后才开始告诉他们我在做这个事情的，一开始他们不太能接受，倒不是反对我玩这个，而是他们不明白我为什么要去这些地方，他们看了照片之后觉得一般好看，也就那么回事吧。到后来有接受了一些采访、发表文章，他们才逐渐开始了解废墟探险。但比如说上次我去看暴风雪，出来的时候我的第一条短信是给我妈报平安，发了一张照片。然后我妈回复说“挺不错的”，然后给我发了一张他们去爬山的照片。那个山不是五大名山，是完全没听说过的小山，我妈就说他们登顶了。我当时忽然明白，原来在他们心目中，我去暴风雪和他们去这个我没听说过的山是一种相似的行为。</p>
+  <p>[暴风雪：哈萨克斯坦境内的拜科努尔航天发射场内的一架废弃的航天飞机。这座来自前苏联军备竞赛时期的航天飞机是暴风雪计划的一部分，Buran Project，建于上世纪七八十年代，苏联解体后被扔在Baikonur不了了之。——然潘]</p>
+  <p>有一次我在美国探险的时候，我的一个好朋友说什么都不肯和我一起进那个废弃的教堂。那个教堂其实并不危险，但是要从地下室爬进去。她说，虽然平时看你在网上发照片挺好看的，但是这个教堂也太脏了，要是稍微干净一点，我还能和你一起去。总的来说，大众在观看废墟探险视频、文章时的接受度挺高的，但是在亲身实践的时候接受度就低一点。</p>
+  <p>其中一个原因是这个活动有危险性，相对比较适合年轻人，如果是叔叔辈的人，可能就不是很愿意来玩。当然不是说年纪大的人不能玩。我认识的年纪最大的城市探险者是一个六十多岁的老师，她是退休之后才接触的废墟探险。我很佩服她，希望我六十多岁也能和她一样精力充沛。说回来，叔叔辈的人一般对废墟探险没什么兴趣。我有一次和一个国内的同事聊天，他说你写的这个倒是挺有意思的，但是太小众了，如果要写北美自驾、欧洲十天，我们就立刻买票去玩了。所以感觉大部分人对于废墟探险就是看个热闹，真的玩的人可能就只有十分之一。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/6ac0ecb9-673e-4bb0-9feb-2ca9986b460d.webp" data-asset-id="6ac0ecb9-673e-4bb0-9feb-2ca9986b460d" referrerpolicy="no-referrer" />    <figcaption>
+<span>废弃的钟楼</span>
+    </figcaption>
+  </figure>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>炉 | 在废墟探险的过程中，摄影有没有带给你新的视角？</code></pre></div>  </div>
+  <p> 然 | 有的。我探险的前两年没有摄影，一来是我当时满足于进去看一看的状态，二来是我当时还是一个写作者，完全没想到自己有一天会拿一个相机去拍这些东西。2016年圣诞，我开始了第一次完全以废墟探险为目的公路旅行，带了一个小相机。拍照的时候用长曝光，场景就会均匀地亮起来，但是有一些地方会特别地亮。于是就想，这些地方居然有光，那么会不会这些地方上面还有别的空间？就会再往上爬两层，有时候就会发现别的东西。</p>
+  <p>后来我就升级了相机系统，开始好好拍了。在国外的城市探险者拍出的照片大多数是一些大场景，比如拍废弃教堂，就会四四方方规规矩矩地拍它的主堂，都是横平竖直的照片。这种场景会给没有看过的人带来震撼，但是看多了就有点腻了。所以我会选择别人看不到的、不太注意的角度拍摄，也因此看到了不同角度的景色。</p>
+  <p>我对自己的一个小要求是，每个废弃建筑拍二十到三十张照片，所以我就会注意到很多很多的细节。比如说电影院后台有没带走的胶片，我就会去翻着看一看，再比如说废弃宾馆留有当年住客的信，或者住客给前台写的一句感谢的话，我也会注意到。还有一些建筑废弃后又被卖出去了，于是又加了一些东西重新启用，没过几年又废弃了。于是这些建筑就有着两个不同时期的痕迹，很多杂糅的小细节。如果我没有要求自己拍二三十张照片，就会错过这些细节。</p>
+  <p>我非常喜欢那种有温度的照片，比如在废弃民宅里看到很多细节，非常打动人，但是我现在还是拍不出自己想象中的那种照片。有一次我在废弃民宅里看到家庭影带，是七几年的录影带，拍完之后拿回去一看，还是没有什么灵魂的一张照片，还挺失望的。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/444bdee2-8894-48cb-938a-e2ee83108461.webp" data-asset-id="444bdee2-8894-48cb-938a-e2ee83108461" referrerpolicy="no-referrer" />    <figcaption>
+<span>民宅里的家庭影带</span>
+    </figcaption>
+  </figure>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>炉 | 最难忘的经历是什么？</code></pre></div>  </div>
+  <p>然 | 我觉得最难忘的经历还是去看暴风雪。因为这个是我目前做过难度级别最高的探险，而且航天飞船在全世界就那么两台。看见暴风雪真的非常的震撼，它特别大，看照片的时候根本无法想象它有多大。我进去的时候是在找一个通向顶层的楼梯，结果忽然间进入一个什么都看不见的地方，但是我能够感受到这一定是一个特别大的空间。和我一起去的朋友可能也是那种感觉，然后我们就用红光手电扫了一下，暴风雪果然就在眼前。不论我之前看到多少照片，在亲眼看到它的时候还是很震撼、很激动。</p>
+  <p>另一个原因就是这个计划真的难度很高，之前我们计划了六个月，还特意进行了体能训练。到邻近出发还是反复修改了计划。我们出发前三天，哈萨克斯坦租车公司打电话面试，之后和我们说不能租给我们车，我们当时就慌了。我们想了很多方法，比如到达之后再租车，或者坐火车，但是都不可行。最后我们发现可以在另一个小镇降落，然后开车去拜科努尔。所以我们重新定宾馆、买机票，再做行前准备。在旅程中变数非常多，行前我们在卫星地图上找了两个导弹发射点，准备作为两个休息点，但是我们到了以后才发现两个导弹发射点正在被拆除，没办法休息和储存食物。整个行程都在不断地改变。我当时和朋友解释，中国有一句古话叫做“计划赶不上变化”。你有你的计划，这个世界另有计划。</p>
+  <p>除此以外还要冒着被抓的风险，俄罗斯士兵会去定点巡逻，每隔三四个小时会开着吉普在附近巡逻，也会进到基地里找有没有人。如果被抓的话，首先会要求你删照片，或者毁坏你的相机储存卡，这一点对大家的打击就非常致命了。另外是你会在看守所呆一晚上，他们要处理一些程序。再有就是会以间谍罪起诉。但这个是国际通用的，如果你在印度不小心进入到尼泊尔的领地了，也算是间谍罪。但是间谍罪的下一步如何处理，是每个人都不一样的，有的再也进不了俄罗斯境内了，也有的会直接被放出来。</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>炉 | 为什么冒着生命危险也要看到暴风雪？</code></pre></div>  </div>
+  <p>然 | 冒着生命危险有些夸张了，它和其他极限运动其实是一样的。比如去爬珠峰的人，一定也是有计划的，会把行程的安全性最大化。另外大家也会在心里预估自己愿意承担的风险。比如有些人在探险的时候会觉得“上庭或是交罚单无所谓，只要不受伤就行了”。当然我也有朋友的原则就是不能被抓，因为他的工作是和核能有关的，被抓就有可能造成失业。</p>
+  <p>另外一点是，暴风雪确实特别震撼，你不管问任何一个城市探险者，提到航天飞船，他们都会知道这个地方，这个地方对我们的吸引力是非常非常大的，基本上可以算是城市探险的最高峰。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/dfdb062a-966a-4bdc-872e-939ae622a413.webp" data-asset-id="dfdb062a-966a-4bdc-872e-939ae622a413" referrerpolicy="no-referrer" />    <figcaption>
+<span>暴风雪机库[ 探险笔记 ] 暴风雪不相信眼泪 Baikonur Buran Projecthttps://www.douban.com/note/737640338/</span>
+    </figcaption>
+  </figure>
+  <p><br /></p>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>炉 | 你在豆瓣文章里提到从暴风雪出来经过荒原的时候有和宇宙联通的感觉，废墟探险又是一种很特殊的，像是站在人类边缘的感受，我想问问你有没有哪些和宇宙，生命或是自然相连结的体验？</code></pre></div>  </div>
+  <p>然 | 我2018年夏天的时候去纽约的哈德逊河谷精神病院，那个精神病院比较像国内的大学结构，是一片被废弃的楼。在楼与楼之间的小路、停车场都变成了森林，那片建筑就陷在了密林之间。我去的时候，在一栋楼之前看到了一头小鹿，它当时也在看着我，我们俩互相看着对方几分钟，它就跑开了，我没有来得及拿相机拍照，那个对视就特别奇妙，那时我第一次感受到这确实是一个人类消失后的世界。后来也遇到过不少别的小动物，比如说上次去肺结核医院，我在楼梯上狭路相逢了一只小浣熊，那只小浣熊就侧着身看着我，我也看着它，看了半天，那个楼梯它上不来我也下不去，后来我叫了一声它就跑了，我觉得它还挺聪明的，它歪着头在那看了半天看我会不会给它让路。    </p>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>炉 | 你觉得废墟中的自然景观还是人文情怀更吸引你？</code></pre></div>  </div>
+  <p>然 | 我觉得这两个都挺吸引我的。自然景观的震撼更多的还是美学上的，美学上的吸引力是让我开始探险的原因之一。人文的震撼到后期我才慢慢感受到。有一次在罗克兰的精神病院，人文方面的冲击特别大，那个地方当时已经被破坏得差不多了，也面临拆除，美学上的意义比较弱。我走到侧翼的时候，看到了精神病儿童的照片，我当时觉得这些人好像和平常人也没什么区别。穿的衣服也很漂亮，有的腼腆有的活泼，院长带着他们做游戏，看起来好像是一个幼儿园。但是后来却在网上看到了一些患者在网上的留言，回忆当年这个地方有多么糟糕。 </p>
+  <p>还有哈德逊河谷病院是一个名叫Thomas Kirkbride 的医生倡导设计的，他的理念是争取让每一间病房都接触到阳光，所以它是一个展开式的结构，每一间房间都有窗户，当时据说对精神病治疗有好处，依照这个理念，当时在北美建了一百多座相同结构的精神病院。这也是人文情怀才能带来的感受。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/4af6681d-620c-4365-9233-b348c1a24809.webp" data-asset-id="4af6681d-620c-4365-9233-b348c1a24809" referrerpolicy="no-referrer" />    <figcaption>
+<span>精神病院里的旧照片</span>
+    </figcaption>
+  </figure>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>炉 | 对你来说，什么样的探险是比较令你满意的？</code></pre></div>  </div>
+  <p>然 | 对于我来说一次比较完美的探险，除了照片拍得好，也就是一定要有美学上的感受之外，。背后一定要有深刻的故事。，如果说暴风雪的话，就和前苏联航天发展和军备竞赛有关。如果说哈德逊河谷医院的话，其实就是精神病的发展的历程。当年倡导的治疗方式现在被证明是无效的。另外我也希望目的地的进入难度大一些，危险性高一些。这三点对我来说缺一不可。</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>炉 | 城市探险的过程中觉得最大的恐惧来源是什么？</code></pre></div>  </div>
+  <p>然 | 如果单纯说废墟内部，我觉得黑暗和未知这两点都有，一方面人类对黑暗有天生的恐惧感的，就比如说你摘下眼镜，常常会陷入听不清看不见的迷茫；另一方面其实还是会自己吓自己，比如常常还是会转头看看背后有没有东西突然出现。我还记得有一次我和朋友是去一个地下隧道里面，当时我背的背包外面挂了一些东西，那个时候正好掉下来了，我当时吓得跳了起来。如果在日光下行走，大概不会有这么大的反应。我觉得这一点可能我永远都没有办法克服。</p>
+  <p>另外一点就是，人类天性还是比较向往那种安全稳定舒适的环境。这种废弃的建筑，一般都是年久失修的，总还是对自己的安全有担忧，比如会恐惧前面的地板突然断裂然后摔下去。这我觉得还是和极限运动差不多，比如说像跑酷，你知道它是有危险的，但在某种程度上说你知道你能征服这种危险。总结来说我觉得还是人类天然的恐惧感，比如说对黑暗，或者对未知的，不安全的恐惧。</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>炉 | 你怕鬼吗？</code></pre></div>  </div>
+  <p>然 | 我以前是怕的，我以前不仅怕鬼，还恐高。但是我以前又真的很好奇，就会专门找一些灵异的地方去看，比如说会测到什么神奇的电波，或者听到什么声音。但是真的去到那里了之后又会发现往往什么都没有。久而久之，我就不再怕了。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/e81478dc-a712-4456-a325-601cf1a8cd93.webp" data-asset-id="e81478dc-a712-4456-a325-601cf1a8cd93" referrerpolicy="no-referrer" />    <figcaption>
+<span>流浪汉带着小孩居住在废墟里</span>
+    </figcaption>
+  </figure>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>炉 | 我总觉得废墟探险是和人类社会有距离感的活动，就好像你能随时跳到社会之外，用另外一种视角来观察人类社会，你会不会因此对人类社会有一些独特的感受？</code></pre></div>  </div>
+  <p>然 | 我觉得这些废弃建筑并不是完全脱离人类世界，它其实是在人类世界包裹中的另外一个世界，它就像是玩游戏的时候，突然找到一个隐藏的玩法，<strong>就像是社会中的社会，世界里的世界</strong>。它在我们日常生活的世界中，它能反应出来我们这个社会中的东西。比如说废弃剧院，当年看剧的人很多，但是当电影发展起来以后，戏剧因为偏贵，大众就会趋向于电影院，很多剧院就慢慢废弃了。它是人类发展的必经之路吧。</p>
+  <p>我之前读到一个概念叫“异托邦”，它描述的是一种文化体系或者说现象，令人不安的，无法兼容的，或者说尚在转变中的另类文化体系或者现象，它是真实存在的，但是你要用想象去理解。它会反映出来外面世界的运动，在异托邦里发生的事情也会传达到外部的世界中。<strong>这个异托邦的概念对我来说就非常像城市探险，通过废墟探险，进入到另外一个世界，就像时间被冷冻住了，你能看到过去的历史，但是跟你熟悉的社会又有一些不一样，你可能会产生一些怀疑，是不是这个地方有过另外一条时间线</strong>。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/396dd213-6d0f-463d-9078-f565e2f319b7.png" data-asset-id="396dd213-6d0f-463d-9078-f565e2f319b7" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>幻想我们居住生活过的房屋、学校、工作场所，有一天破败了，也成为这样一座座废墟。后人也带着满满的好奇心进来探索，看见我们留下的信件、照片、衣物……从残留着温度的小物件里，窥见主人曾经细碎的喜怒哀乐与想望。我想我会希望有这么一天。在废墟里，我们与逝去之人对话，也永久地存在于另一个世界。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/e5e9f127-2aad-4e49-8c28-4f0a660f25e3.png" data-asset-id="e5e9f127-2aad-4e49-8c28-4f0a660f25e3" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p><br /></p>
+  <p>图 | 然潘</p>
+  <p>文 | 吴越 程心悦</p>
+  <p>微信编辑 | 宋玥</p>
+  <p>Matters编辑 | Marks</p>
+  <p>围炉 (ID：weilu_flame)</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/07122577-afd6-46ad-ad6c-f2ee7a0166e2.png" data-asset-id="07122577-afd6-46ad-ad6c-f2ee7a0166e2" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>文中图片未经同意，请勿用作其他用途</p>
+  <p>欢迎您在文章下方评论，与围炉团队和其他读者交流讨论</p>
+  <p>欲了解围炉、阅读更多文章，请关注本公众号并在公众号页面点击相应菜单栏目</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/befd6037-7ff7-4acf-ad09-39e1a2c811c5.png" data-asset-id="befd6037-7ff7-4acf-ad09-39e1a2c811c5" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/2b3a9d07-b5f2-4941-b798-2cdfd1149be9.jpeg" data-asset-id="2b3a9d07-b5f2-4941-b798-2cdfd1149be9" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p><br /></p>
+  <p><br /></p>
+  <p><br /></p>
+  <p><br /></p>
+  <p><br /></p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#围炉 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2024-10-03/%E5%AF%B9%E8%AF%9D%E5%A5%B3%E6%80%A7%E6%B0%91%E5%B7%A5-%E5%9C%A8%E5%9F%8E%E5%B8%82%E9%87%8C-%E5%9C%A8%E5%B7%A5%E4%BD%9C%E5%92%8C%E5%AE%B6%E5%BA%AD%E4%B9%8B%E9%97%B4-%E5%9B%B4%E7%82%89-CU/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2021-03-23/%E5%AF%B9%E8%AF%9D%E9%BB%84%E6%B3%93%E7%BF%94-%E8%87%B4%E5%8A%9B%E4%BA%8E%E5%9F%B9%E8%82%B2%E4%B8%96%E7%95%8C%E5%85%AC%E6%B0%91%E7%9A%84%E4%B8%AD%E5%8D%97%E5%B1%8B%E5%88%9B%E5%A7%8B%E4%BA%BA-%E8%AE%B2%E5%BA%A7%E6%91%98%E8%A6%81/">最早</a>--</span>
+    
+      <li>
+        <time>2021-07-23</time>
+        <a href="https://nodebe4.github.io/opinion/2021-07-23/%E5%B0%8D%E8%A9%B1%E8%97%9D%E8%A1%93%E5%AE%B6%E8%92%B2%E8%8B%B1%E7%91%8B-%E6%9C%9F%E5%BE%85%E6%96%B0%E8%BA%AB%E4%BB%BD%E5%88%B0%E4%BE%86-%E5%9C%8D%E7%88%90-Joint-U/">
+          對話藝術家蒲英瑋： 期待新身份到來｜圍爐 · Joint U
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-07-21</time>
+        <a href="https://nodebe4.github.io/opinion/2021-07-21/%E5%AF%B9%E8%AF%9D%E5%BB%96%E4%BC%9F%E6%A3%A0-%E7%95%B0%E6%89%98%E9%82%A6%E9%9D%A2%E5%90%91%E8%87%AA%E6%88%91-%E5%9C%8D%E7%88%90-CUHK/">
+          对话廖伟棠：異托邦面向自我 |圍爐 · CUHK
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-07-12</time>
+        <a href="https://nodebe4.github.io/opinion/2021-07-12/%E5%AF%B9%E8%AF%9D-%E5%90%8E%E7%94%9F%E4%BB%B7%E5%80%BC-%E5%85%B1%E5%90%8C%E5%8F%91%E8%B5%B7%E4%BA%BA%E4%B9%8B%E4%B8%80%E6%9D%A8%E5%AD%90%E6%9B%A6-%E6%8A%8A%E6%80%A7%E5%88%AB%E4%BD%9C%E4%B8%BA%E6%96%B9%E6%B3%95-%E5%9B%B4%E7%82%89-CUHK/">
+          对话「后生价值」共同发起人之一杨子曦：把性别作为方法 | 围炉·CUHK
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-07-07</time>
+        <a href="https://nodebe4.github.io/opinion/2021-07-07/%E5%9B%B4%E7%82%89%E5%B0%8F%E7%82%92-%E5%BD%93%E6%88%91%E4%BB%AC%E8%AE%A8%E8%AE%BA%E8%BA%BA%E5%B9%B3%E6%97%B6/">
+          围炉小炒 | 当我们讨论躺平时
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2021-07-12/%E5%AF%B9%E8%AF%9D-%E5%90%8E%E7%94%9F%E4%BB%B7%E5%80%BC-%E5%85%B1%E5%90%8C%E5%8F%91%E8%B5%B7%E4%BA%BA%E4%B9%8B%E4%B8%80%E6%9D%A8%E5%AD%90%E6%9B%A6-%E6%8A%8A%E6%80%A7%E5%88%AB%E4%BD%9C%E4%B8%BA%E6%96%B9%E6%B3%95-%E5%9B%B4%E7%82%89-CUHK/">
+            前一篇：对话「后生价值」共同发起人之一杨子曦：把性别作为方法 | 围炉·CUHK
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2021-07-12/%E4%B8%80%E4%BD%8D%E9%9D%92%E5%B9%B4%E8%A8%98%E8%80%85%E7%9A%84%E8%BF%BD%E7%B4%A2-%E7%9C%9F%E7%9B%B8%E8%A3%BD%E9%80%A0-%E6%8E%A8%E8%96%A6%E5%BA%8F/">
+            後一篇：一位青年記者的追索：《真相製造》推薦序
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2021-07-12/%E5%AF%B9%E8%AF%9D-%E5%90%8E%E7%94%9F%E4%BB%B7%E5%80%BC-%E5%85%B1%E5%90%8C%E5%8F%91%E8%B5%B7%E4%BA%BA%E4%B9%8B%E4%B8%80%E6%9D%A8%E5%AD%90%E6%9B%A6-%E6%8A%8A%E6%80%A7%E5%88%AB%E4%BD%9C%E4%B8%BA%E6%96%B9%E6%B3%95-%E5%9B%B4%E7%82%89-CUHK/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2021-07-12/%E4%B8%80%E4%BD%8D%E9%9D%92%E5%B9%B4%E8%A8%98%E8%80%85%E7%9A%84%E8%BF%BD%E7%B4%A2-%E7%9C%9F%E7%9B%B8%E8%A3%BD%E9%80%A0-%E6%8E%A8%E8%96%A6%E5%BA%8F/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2021-07-21/%E5%AF%B9%E8%AF%9D%E5%BB%96%E4%BC%9F%E6%A3%A0-%E7%95%B0%E6%89%98%E9%82%A6%E9%9D%A2%E5%90%91%E8%87%AA%E6%88%91-%E5%9C%8D%E7%88%90-CUHK/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2021-07-12/%E5%AF%B9%E8%AF%9D-%E5%90%8E%E7%94%9F%E4%BB%B7%E5%80%BC-%E5%85%B1%E5%90%8C%E5%8F%91%E8%B5%B7%E4%BA%BA%E4%B9%8B%E4%B8%80%E6%9D%A8%E5%AD%90%E6%9B%A6-%E6%8A%8A%E6%80%A7%E5%88%AB%E4%BD%9C%E4%B8%BA%E6%96%B9%E6%B3%95-%E5%9B%B4%E7%82%89-CUHK/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2021-07-12/%E5%AF%B9%E8%AF%9D-%E5%90%8E%E7%94%9F%E4%BB%B7%E5%80%BC-%E5%85%B1%E5%90%8C%E5%8F%91%E8%B5%B7%E4%BA%BA%E4%B9%8B%E4%B8%80%E6%9D%A8%E5%AD%90%E6%9B%A6-%E6%8A%8A%E6%80%A7%E5%88%AB%E4%BD%9C%E4%B8%BA%E6%96%B9%E6%B3%95-%E5%9B%B4%E7%82%89-CUHK/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2021-07-12/%E4%B8%80%E4%BD%8D%E9%9D%92%E5%B9%B4%E8%A8%98%E8%80%85%E7%9A%84%E8%BF%BD%E7%B4%A2-%E7%9C%9F%E7%9B%B8%E8%A3%BD%E9%80%A0-%E6%8E%A8%E8%96%A6%E5%BA%8F/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<围炉>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2021-07-21/%E5%AF%B9%E8%AF%9D%E5%BB%96%E4%BC%9F%E6%A3%A0-%E7%95%B0%E6%89%98%E9%82%A6%E9%9D%A2%E5%90%91%E8%87%AA%E6%88%91-%E5%9C%8D%E7%88%90-CUHK/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<围炉>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2021-07-12/%E5%AF%B9%E8%AF%9D-%E5%90%8E%E7%94%9F%E4%BB%B7%E5%80%BC-%E5%85%B1%E5%90%8C%E5%8F%91%E8%B5%B7%E4%BA%BA%E4%B9%8B%E4%B8%80%E6%9D%A8%E5%AD%90%E6%9B%A6-%E6%8A%8A%E6%80%A7%E5%88%AB%E4%BD%9C%E4%B8%BA%E6%96%B9%E6%B3%95-%E5%9B%B4%E7%82%89-CUHK/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

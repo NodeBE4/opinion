@@ -1,0 +1,3536 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>博客界面升级（重新实现【全站搜索】，比 Google 更准确地搜索评论） – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+
+      博客界面升级（重新实现【全站搜索】，比 Google 更准确地搜索评论）  
+  
+    
+      
+    
+  
+  
+     ★先插播一个通知 
+ 最近2周有不少读者反馈说：在匿名评论的时候，博客界面上会要求输入“验证码”。而且那个“验证码”非常难看懂。  在此俺特地声明：这个变态的验证码，【不是】俺加入的，而是 Google 的 BlogSpot 平台加入。某热心读者在其它的 BlogSpot 博客上进行测试“匿名留言”，也出现了验证码。  关于 Blogspot 平台的验证码，有如下几种可能：  1. Google 要加强打击“垃圾广告”（如果是这种情况，倒也无可厚非）  2. Google 通过增加匿名留言的难度，变相鼓励用户登录 Google 帐号（如果是这种情况，那就违背了“一切以用户为中心”的信条）         ★为啥又要加新功能？ 
+  十月中旬发那篇《  博客界面升级——增加“界面定制”、“文章目录”、“自动刷评论”、“全屏显示”等  》的时候，就已经有读者来抱怨，说俺不好好写博文，整这些界面干嘛。  所以，在此稍微解释一下：  在俺这个博客，有很多读者是通过“博客的评论功能”进行交流。把“评论相关的界面功能”完善一下，可以提高大伙儿的效率（也包括俺本人的效率）。俺的效率提高了，才能有更多的时间写原创博文。套用一句老话就是【磨刀不误砍柴功】。（类似的观点，在去年的博文《  磨刀不误砍柴功——聊聊个人 IT 基础设施的完善  》也提到过）  
+       
+        ★原先的“博客站内搜索”，有啥问题？ 
+  大约在3年前，俺就在博客侧边栏放置了一个“博客站内搜索”。调用的是 Google 和 Bing 的搜索接口。说白了就是利用“site 语法”来搜索某个域名下的内容（关于“site 语法”的使用，可以参见《  如何挖掘网络资源  》这个系列）。  原先这种方式，主要有如下几个缺点：  1. 无法精确地搜索“读者评论”（这是最主要的缺点，好多人提过。比如：无法搜索某个读者发过的所有评论）  2. 除了“关键字”，没有其它的搜索条件  3. Bing 的搜索质量比较差  4. Google 的搜索质量虽然比较好，但如果是基于 TOR 访问 Google，经常会碰到“变态的验证码界面”（具体原因参见《  解答 Google 搜索的常见问题  》）   为啥俺非常看重“搜索读者评论”这一条？因为俺博客的评论，主要用途之一是：提供某种形式的“问答”。但是捏，大多数的问题，其实都被重复提问过多次了。每次回答这种“老调重弹”，就感觉很浪费时间、特别不爽。  这次全新实现的“站内搜索”，可以精确地根据“关键词、时间段、用户名”来对评论进行搜索。以后想要来俺博客提问的网友，建议先搜一下，说不定你要问的问题，之前已经有人问过了。         ★新的“博客站内搜索”，增加了哪些功能？ 
+       ◇增加了一个“全站搜索界面” 
+  首先，增加了一个“全站搜索界面”，网址是 
+   
+    https://program-think.blogspot.com/p/search.html
+   
+    此界面上提供了三个搜索条件：“搜索关键词、关键词所在的位置、时间段”  对于【关键词所在的位置】，包括如下几个选项：  任何位置（这项类似与普通搜索引擎的行为）  博文内容  博文标题  评论内容（这项是根据关键词搜索评论）  评论作者的名称（这项是根据用户名搜索评论，针对那些“起了网名，但是没登录过的读者”）  评论作者的网址（这项是根据用户名搜索评论，针对那些“已经登录过的读者”）   
+   通过这个选项，就可以实现本文标题号称的【比 Google 更准确地搜索评论】。
+          ◇增加了“评论区的入口” 
+  在评论区中，原先已经有两个“过滤按钮”，如今在这两个旁边，增加了一个“搜索按钮”。  点击此按钮之后，自动打开“全站搜索界面”，并且自动把相关的搜索选项都帮你填好。你只需等着出结果。        ◇调整了“侧边栏的入口” 
+  原先侧边栏有两个搜索框（分别对应 Google 和 Bing）。如今这两个去掉了，换成单一的搜索框——使用时，会自动打开“全站搜索界面”。         ★目前的局限性 
+       ◇性能的问题 
+  再次唠叨一下：Google 的 Blogspot 平台只提供“客户端页面的定制”，【不提供】“服务端定制”。  所以，这次增加的“全站搜索”，完全依靠 JS 脚本来实现（苦逼得很）。好在 Blogspot 提供了某些 Feed（RSS/Atom）接口。俺就靠着这些接口，勉强实现了“全站搜索”。  由于功能全部在客户端实现，性能肯定要打折扣——速度肯定比不上“Google、百度”之类的搜索引擎。一般而言，“如果你在墙外”或者“你的翻墙通道够快”，使用这个“全站搜索”应该没啥问题。反之， 
+   如果你在墙内并且翻墙速度很慢，用这个功能恐怕够呛
+   。  不过捏，考虑到如今大伙儿的翻墙水平越来越高，搞定一个速度快的翻墙通道，应该不是太难的事情。        ◇搜索结果排序的问题 
+  这次的时间仓促，俺没有考虑对搜索结果的优劣进行排序。目前只是按照时间倒序显示（最新的在最前面），然后把博主的留言放在其它读者留言之前。  对“搜索结果排序”有研究的同学，欢迎提建议 :)         ★欢迎大伙儿反馈 
+  由于新功能刚刚上线，Bug 难免。还望大伙儿多包涵。如能及时反馈 Bug，俺先行谢过。  另外，也欢迎大伙儿多提意见和建议。         ★下一步的计划 
+  “搜索功能”完成之后，还有另一个比较大的功能（也是很多读者提过的）——自动显示评论的“已读/未读”状态。这个涉及到“客户端存储”，而且需要的存储信息量比较大。俺还在考虑到底用 cookie 还是 HTML5 新增的“本地存储功能”（localStorage）——这两者各有利弊。  对 HTML5 的本地存储，俺还不太熟悉。在这方面有经验的同学，欢迎提建议。    
+   俺博客上，和本文相关的帖子（需翻墙）
+   ：   博客界面升级（增加“界面定制”、“文章目录”、“自动刷评论”、“全屏显示”等）    博客评论功能升级（增加“留言过滤”、“200条之后自动加载”等）    博客评论功能升级（引入 BBCode 语法），顺便分享一下实现方法      
+
+    版权声明
+     本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者  编程随想  和本文原始地址：   https://program-think.blogspot.com/2014/11/custom-blogger-search.html 
+    
+    
+  
+  
+    
+         
+    
+    
+    
+ 
+    
+  
+
+" />
+    <meta property="og:description" content="
+
+      博客界面升级（重新实现【全站搜索】，比 Google 更准确地搜索评论）  
+  
+    
+      
+    
+  
+  
+     ★先插播一个通知 
+ 最近2周有不少读者反馈说：在匿名评论的时候，博客界面上会要求输入“验证码”。而且那个“验证码”非常难看懂。  在此俺特地声明：这个变态的验证码，【不是】俺加入的，而是 Google 的 BlogSpot 平台加入。某热心读者在其它的 BlogSpot 博客上进行测试“匿名留言”，也出现了验证码。  关于 Blogspot 平台的验证码，有如下几种可能：  1. Google 要加强打击“垃圾广告”（如果是这种情况，倒也无可厚非）  2. Google 通过增加匿名留言的难度，变相鼓励用户登录 Google 帐号（如果是这种情况，那就违背了“一切以用户为中心”的信条）         ★为啥又要加新功能？ 
+  十月中旬发那篇《  博客界面升级——增加“界面定制”、“文章目录”、“自动刷评论”、“全屏显示”等  》的时候，就已经有读者来抱怨，说俺不好好写博文，整这些界面干嘛。  所以，在此稍微解释一下：  在俺这个博客，有很多读者是通过“博客的评论功能”进行交流。把“评论相关的界面功能”完善一下，可以提高大伙儿的效率（也包括俺本人的效率）。俺的效率提高了，才能有更多的时间写原创博文。套用一句老话就是【磨刀不误砍柴功】。（类似的观点，在去年的博文《  磨刀不误砍柴功——聊聊个人 IT 基础设施的完善  》也提到过）  
+       
+        ★原先的“博客站内搜索”，有啥问题？ 
+  大约在3年前，俺就在博客侧边栏放置了一个“博客站内搜索”。调用的是 Google 和 Bing 的搜索接口。说白了就是利用“site 语法”来搜索某个域名下的内容（关于“site 语法”的使用，可以参见《  如何挖掘网络资源  》这个系列）。  原先这种方式，主要有如下几个缺点：  1. 无法精确地搜索“读者评论”（这是最主要的缺点，好多人提过。比如：无法搜索某个读者发过的所有评论）  2. 除了“关键字”，没有其它的搜索条件  3. Bing 的搜索质量比较差  4. Google 的搜索质量虽然比较好，但如果是基于 TOR 访问 Google，经常会碰到“变态的验证码界面”（具体原因参见《  解答 Google 搜索的常见问题  》）   为啥俺非常看重“搜索读者评论”这一条？因为俺博客的评论，主要用途之一是：提供某种形式的“问答”。但是捏，大多数的问题，其实都被重复提问过多次了。每次回答这种“老调重弹”，就感觉很浪费时间、特别不爽。  这次全新实现的“站内搜索”，可以精确地根据“关键词、时间段、用户名”来对评论进行搜索。以后想要来俺博客提问的网友，建议先搜一下，说不定你要问的问题，之前已经有人问过了。         ★新的“博客站内搜索”，增加了哪些功能？ 
+       ◇增加了一个“全站搜索界面” 
+  首先，增加了一个“全站搜索界面”，网址是 
+   
+    https://program-think.blogspot.com/p/search.html
+   
+    此界面上提供了三个搜索条件：“搜索关键词、关键词所在的位置、时间段”  对于【关键词所在的位置】，包括如下几个选项：  任何位置（这项类似与普通搜索引擎的行为）  博文内容  博文标题  评论内容（这项是根据关键词搜索评论）  评论作者的名称（这项是根据用户名搜索评论，针对那些“起了网名，但是没登录过的读者”）  评论作者的网址（这项是根据用户名搜索评论，针对那些“已经登录过的读者”）   
+   通过这个选项，就可以实现本文标题号称的【比 Google 更准确地搜索评论】。
+          ◇增加了“评论区的入口” 
+  在评论区中，原先已经有两个“过滤按钮”，如今在这两个旁边，增加了一个“搜索按钮”。  点击此按钮之后，自动打开“全站搜索界面”，并且自动把相关的搜索选项都帮你填好。你只需等着出结果。        ◇调整了“侧边栏的入口” 
+  原先侧边栏有两个搜索框（分别对应 Google 和 Bing）。如今这两个去掉了，换成单一的搜索框——使用时，会自动打开“全站搜索界面”。         ★目前的局限性 
+       ◇性能的问题 
+  再次唠叨一下：Google 的 Blogspot 平台只提供“客户端页面的定制”，【不提供】“服务端定制”。  所以，这次增加的“全站搜索”，完全依靠 JS 脚本来实现（苦逼得很）。好在 Blogspot 提供了某些 Feed（RSS/Atom）接口。俺就靠着这些接口，勉强实现了“全站搜索”。  由于功能全部在客户端实现，性能肯定要打折扣——速度肯定比不上“Google、百度”之类的搜索引擎。一般而言，“如果你在墙外”或者“你的翻墙通道够快”，使用这个“全站搜索”应该没啥问题。反之， 
+   如果你在墙内并且翻墙速度很慢，用这个功能恐怕够呛
+   。  不过捏，考虑到如今大伙儿的翻墙水平越来越高，搞定一个速度快的翻墙通道，应该不是太难的事情。        ◇搜索结果排序的问题 
+  这次的时间仓促，俺没有考虑对搜索结果的优劣进行排序。目前只是按照时间倒序显示（最新的在最前面），然后把博主的留言放在其它读者留言之前。  对“搜索结果排序”有研究的同学，欢迎提建议 :)         ★欢迎大伙儿反馈 
+  由于新功能刚刚上线，Bug 难免。还望大伙儿多包涵。如能及时反馈 Bug，俺先行谢过。  另外，也欢迎大伙儿多提意见和建议。         ★下一步的计划 
+  “搜索功能”完成之后，还有另一个比较大的功能（也是很多读者提过的）——自动显示评论的“已读/未读”状态。这个涉及到“客户端存储”，而且需要的存储信息量比较大。俺还在考虑到底用 cookie 还是 HTML5 新增的“本地存储功能”（localStorage）——这两者各有利弊。  对 HTML5 的本地存储，俺还不太熟悉。在这方面有经验的同学，欢迎提建议。    
+   俺博客上，和本文相关的帖子（需翻墙）
+   ：   博客界面升级（增加“界面定制”、“文章目录”、“自动刷评论”、“全屏显示”等）    博客评论功能升级（增加“留言过滤”、“200条之后自动加载”等）    博客评论功能升级（引入 BBCode 语法），顺便分享一下实现方法      
+
+    版权声明
+     本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者  编程随想  和本文原始地址：   https://program-think.blogspot.com/2014/11/custom-blogger-search.html 
+    
+    
+  
+  
+    
+         
+    
+    
+    
+ 
+    
+  
+
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="博客界面升级（重新实现【全站搜索】，比 Google 更准确地搜索评论）" />
+    <meta property="twitter:title" content="博客界面升级（重新实现【全站搜索】，比 Google 更准确地搜索评论）" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fprogram-think.blogspot.com%2F2014%2F11%2Fcustom-blogger-search.html" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://program-think.blogspot.com/2014/11/custom-blogger-search.html" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://program-think.blogspot.com/2014/11/custom-blogger-search.html&text=博客界面升级（重新实现【全站搜索】，比 Google 更准确地搜索评论）&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://program-think.blogspot.com/2014/11/custom-blogger-search.html&title=博客界面升级（重新实现【全站搜索】，比 Google 更准确地搜索评论）" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://program-think.blogspot.com/2014/11/custom-blogger-search.html&title=博客界面升级（重新实现【全站搜索】，比 Google 更准确地搜索评论）" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=博客界面升级（重新实现【全站搜索】，比 Google 更准确地搜索评论）&body=
+
+      博客界面升级（重新实现【全站搜索】，比 Google 更准确地搜索评论）  
+  
+    
+      
+    
+  
+  
+     ★先插播一个通知 
+ 最近2周有不少读者反馈说：在匿名评论的时候，博客界面上会要求输入“验证码”。而且那个“验证码”非常难看懂。  在此俺特地声明：这个变态的验证码，【不是】俺加入的，而是 Google 的 BlogSpot 平台加入。某热心读者在其它的 BlogSpot 博客上进行测试“匿名留言”，也出现了验证码。  关于 Blogspot 平台的验证码，有如下几种可能：  1. Google 要加强打击“垃圾广告”（如果是这种情况，倒也无可厚非）  2. Google 通过增加匿名留言的难度，变相鼓励用户登录 Google 帐号（如果是这种情况，那就违背了“一切以用户为中心”的信条）         ★为啥又要加新功能？ 
+  十月中旬发那篇《  博客界面升级——增加“界面定制”、“文章目录”、“自动刷评论”、“全屏显示”等  》的时候，就已经有读者来抱怨，说俺不好好写博文，整这些界面干嘛。  所以，在此稍微解释一下：  在俺这个博客，有很多读者是通过“博客的评论功能”进行交流。把“评论相关的界面功能”完善一下，可以提高大伙儿的效率（也包括俺本人的效率）。俺的效率提高了，才能有更多的时间写原创博文。套用一句老话就是【磨刀不误砍柴功】。（类似的观点，在去年的博文《  磨刀不误砍柴功——聊聊个人 IT 基础设施的完善  》也提到过）  
+       
+        ★原先的“博客站内搜索”，有啥问题？ 
+  大约在3年前，俺就在博客侧边栏放置了一个“博客站内搜索”。调用的是 Google 和 Bing 的搜索接口。说白了就是利用“site 语法”来搜索某个域名下的内容（关于“site 语法”的使用，可以参见《  如何挖掘网络资源  》这个系列）。  原先这种方式，主要有如下几个缺点：  1. 无法精确地搜索“读者评论”（这是最主要的缺点，好多人提过。比如：无法搜索某个读者发过的所有评论）  2. 除了“关键字”，没有其它的搜索条件  3. Bing 的搜索质量比较差  4. Google 的搜索质量虽然比较好，但如果是基于 TOR 访问 Google，经常会碰到“变态的验证码界面”（具体原因参见《  解答 Google 搜索的常见问题  》）   为啥俺非常看重“搜索读者评论”这一条？因为俺博客的评论，主要用途之一是：提供某种形式的“问答”。但是捏，大多数的问题，其实都被重复提问过多次了。每次回答这种“老调重弹”，就感觉很浪费时间、特别不爽。  这次全新实现的“站内搜索”，可以精确地根据“关键词、时间段、用户名”来对评论进行搜索。以后想要来俺博客提问的网友，建议先搜一下，说不定你要问的问题，之前已经有人问过了。         ★新的“博客站内搜索”，增加了哪些功能？ 
+       ◇增加了一个“全站搜索界面” 
+  首先，增加了一个“全站搜索界面”，网址是 
+   
+    https://program-think.blogspot.com/p/search.html
+   
+    此界面上提供了三个搜索条件：“搜索关键词、关键词所在的位置、时间段”  对于【关键词所在的位置】，包括如下几个选项：  任何位置（这项类似与普通搜索引擎的行为）  博文内容  博文标题  评论内容（这项是根据关键词搜索评论）  评论作者的名称（这项是根据用户名搜索评论，针对那些“起了网名，但是没登录过的读者”）  评论作者的网址（这项是根据用户名搜索评论，针对那些“已经登录过的读者”）   
+   通过这个选项，就可以实现本文标题号称的【比 Google 更准确地搜索评论】。
+          ◇增加了“评论区的入口” 
+  在评论区中，原先已经有两个“过滤按钮”，如今在这两个旁边，增加了一个“搜索按钮”。  点击此按钮之后，自动打开“全站搜索界面”，并且自动把相关的搜索选项都帮你填好。你只需等着出结果。        ◇调整了“侧边栏的入口” 
+  原先侧边栏有两个搜索框（分别对应 Google 和 Bing）。如今这两个去掉了，换成单一的搜索框——使用时，会自动打开“全站搜索界面”。         ★目前的局限性 
+       ◇性能的问题 
+  再次唠叨一下：Google 的 Blogspot 平台只提供“客户端页面的定制”，【不提供】“服务端定制”。  所以，这次增加的“全站搜索”，完全依靠 JS 脚本来实现（苦逼得很）。好在 Blogspot 提供了某些 Feed（RSS/Atom）接口。俺就靠着这些接口，勉强实现了“全站搜索”。  由于功能全部在客户端实现，性能肯定要打折扣——速度肯定比不上“Google、百度”之类的搜索引擎。一般而言，“如果你在墙外”或者“你的翻墙通道够快”，使用这个“全站搜索”应该没啥问题。反之， 
+   如果你在墙内并且翻墙速度很慢，用这个功能恐怕够呛
+   。  不过捏，考虑到如今大伙儿的翻墙水平越来越高，搞定一个速度快的翻墙通道，应该不是太难的事情。        ◇搜索结果排序的问题 
+  这次的时间仓促，俺没有考虑对搜索结果的优劣进行排序。目前只是按照时间倒序显示（最新的在最前面），然后把博主的留言放在其它读者留言之前。  对“搜索结果排序”有研究的同学，欢迎提建议 :)         ★欢迎大伙儿反馈 
+  由于新功能刚刚上线，Bug 难免。还望大伙儿多包涵。如能及时反馈 Bug，俺先行谢过。  另外，也欢迎大伙儿多提意见和建议。         ★下一步的计划 
+  “搜索功能”完成之后，还有另一个比较大的功能（也是很多读者提过的）——自动显示评论的“已读/未读”状态。这个涉及到“客户端存储”，而且需要的存储信息量比较大。俺还在考虑到底用 cookie 还是 HTML5 新增的“本地存储功能”（localStorage）——这两者各有利弊。  对 HTML5 的本地存储，俺还不太熟悉。在这方面有经验的同学，欢迎提建议。    
+   俺博客上，和本文相关的帖子（需翻墙）
+   ：   博客界面升级（增加“界面定制”、“文章目录”、“自动刷评论”、“全屏显示”等）    博客评论功能升级（增加“留言过滤”、“200条之后自动加载”等）    博客评论功能升级（引入 BBCode 语法），顺便分享一下实现方法      
+
+    版权声明
+     本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者  编程随想  和本文原始地址：   https://program-think.blogspot.com/2014/11/custom-blogger-search.html 
+    
+    
+  
+  
+    
+         
+    
+    
+    
+ 
+    
+  
+
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://program-think.blogspot.com/2014/11/custom-blogger-search.html" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://program-think.blogspot.com/2014/11/custom-blogger-search.html&title=博客界面升级（重新实现【全站搜索】，比 Google 更准确地搜索评论）&caption=
+
+      博客界面升级（重新实现【全站搜索】，比 Google 更准确地搜索评论）  
+  
+    
+      
+    
+  
+  
+     ★先插播一个通知 
+ 最近2周有不少读者反馈说：在匿名评论的时候，博客界面上会要求输入“验证码”。而且那个“验证码”非常难看懂。  在此俺特地声明：这个变态的验证码，【不是】俺加入的，而是 Google 的 BlogSpot 平台加入。某热心读者在其它的 BlogSpot 博客上进行测试“匿名留言”，也出现了验证码。  关于 Blogspot 平台的验证码，有如下几种可能：  1. Google 要加强打击“垃圾广告”（如果是这种情况，倒也无可厚非）  2. Google 通过增加匿名留言的难度，变相鼓励用户登录 Google 帐号（如果是这种情况，那就违背了“一切以用户为中心”的信条）         ★为啥又要加新功能？ 
+  十月中旬发那篇《  博客界面升级——增加“界面定制”、“文章目录”、“自动刷评论”、“全屏显示”等  》的时候，就已经有读者来抱怨，说俺不好好写博文，整这些界面干嘛。  所以，在此稍微解释一下：  在俺这个博客，有很多读者是通过“博客的评论功能”进行交流。把“评论相关的界面功能”完善一下，可以提高大伙儿的效率（也包括俺本人的效率）。俺的效率提高了，才能有更多的时间写原创博文。套用一句老话就是【磨刀不误砍柴功】。（类似的观点，在去年的博文《  磨刀不误砍柴功——聊聊个人 IT 基础设施的完善  》也提到过）  
+       
+        ★原先的“博客站内搜索”，有啥问题？ 
+  大约在3年前，俺就在博客侧边栏放置了一个“博客站内搜索”。调用的是 Google 和 Bing 的搜索接口。说白了就是利用“site 语法”来搜索某个域名下的内容（关于“site 语法”的使用，可以参见《  如何挖掘网络资源  》这个系列）。  原先这种方式，主要有如下几个缺点：  1. 无法精确地搜索“读者评论”（这是最主要的缺点，好多人提过。比如：无法搜索某个读者发过的所有评论）  2. 除了“关键字”，没有其它的搜索条件  3. Bing 的搜索质量比较差  4. Google 的搜索质量虽然比较好，但如果是基于 TOR 访问 Google，经常会碰到“变态的验证码界面”（具体原因参见《  解答 Google 搜索的常见问题  》）   为啥俺非常看重“搜索读者评论”这一条？因为俺博客的评论，主要用途之一是：提供某种形式的“问答”。但是捏，大多数的问题，其实都被重复提问过多次了。每次回答这种“老调重弹”，就感觉很浪费时间、特别不爽。  这次全新实现的“站内搜索”，可以精确地根据“关键词、时间段、用户名”来对评论进行搜索。以后想要来俺博客提问的网友，建议先搜一下，说不定你要问的问题，之前已经有人问过了。         ★新的“博客站内搜索”，增加了哪些功能？ 
+       ◇增加了一个“全站搜索界面” 
+  首先，增加了一个“全站搜索界面”，网址是 
+   
+    https://program-think.blogspot.com/p/search.html
+   
+    此界面上提供了三个搜索条件：“搜索关键词、关键词所在的位置、时间段”  对于【关键词所在的位置】，包括如下几个选项：  任何位置（这项类似与普通搜索引擎的行为）  博文内容  博文标题  评论内容（这项是根据关键词搜索评论）  评论作者的名称（这项是根据用户名搜索评论，针对那些“起了网名，但是没登录过的读者”）  评论作者的网址（这项是根据用户名搜索评论，针对那些“已经登录过的读者”）   
+   通过这个选项，就可以实现本文标题号称的【比 Google 更准确地搜索评论】。
+          ◇增加了“评论区的入口” 
+  在评论区中，原先已经有两个“过滤按钮”，如今在这两个旁边，增加了一个“搜索按钮”。  点击此按钮之后，自动打开“全站搜索界面”，并且自动把相关的搜索选项都帮你填好。你只需等着出结果。        ◇调整了“侧边栏的入口” 
+  原先侧边栏有两个搜索框（分别对应 Google 和 Bing）。如今这两个去掉了，换成单一的搜索框——使用时，会自动打开“全站搜索界面”。         ★目前的局限性 
+       ◇性能的问题 
+  再次唠叨一下：Google 的 Blogspot 平台只提供“客户端页面的定制”，【不提供】“服务端定制”。  所以，这次增加的“全站搜索”，完全依靠 JS 脚本来实现（苦逼得很）。好在 Blogspot 提供了某些 Feed（RSS/Atom）接口。俺就靠着这些接口，勉强实现了“全站搜索”。  由于功能全部在客户端实现，性能肯定要打折扣——速度肯定比不上“Google、百度”之类的搜索引擎。一般而言，“如果你在墙外”或者“你的翻墙通道够快”，使用这个“全站搜索”应该没啥问题。反之， 
+   如果你在墙内并且翻墙速度很慢，用这个功能恐怕够呛
+   。  不过捏，考虑到如今大伙儿的翻墙水平越来越高，搞定一个速度快的翻墙通道，应该不是太难的事情。        ◇搜索结果排序的问题 
+  这次的时间仓促，俺没有考虑对搜索结果的优劣进行排序。目前只是按照时间倒序显示（最新的在最前面），然后把博主的留言放在其它读者留言之前。  对“搜索结果排序”有研究的同学，欢迎提建议 :)         ★欢迎大伙儿反馈 
+  由于新功能刚刚上线，Bug 难免。还望大伙儿多包涵。如能及时反馈 Bug，俺先行谢过。  另外，也欢迎大伙儿多提意见和建议。         ★下一步的计划 
+  “搜索功能”完成之后，还有另一个比较大的功能（也是很多读者提过的）——自动显示评论的“已读/未读”状态。这个涉及到“客户端存储”，而且需要的存储信息量比较大。俺还在考虑到底用 cookie 还是 HTML5 新增的“本地存储功能”（localStorage）——这两者各有利弊。  对 HTML5 的本地存储，俺还不太熟悉。在这方面有经验的同学，欢迎提建议。    
+   俺博客上，和本文相关的帖子（需翻墙）
+   ：   博客界面升级（增加“界面定制”、“文章目录”、“自动刷评论”、“全屏显示”等）    博客评论功能升级（增加“留言过滤”、“200条之后自动加载”等）    博客评论功能升级（引入 BBCode 语法），顺便分享一下实现方法      
+
+    版权声明
+     本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者  编程随想  和本文原始地址：   https://program-think.blogspot.com/2014/11/custom-blogger-search.html 
+    
+    
+  
+  
+    
+         
+    
+    
+    
+ 
+    
+  
+
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=博客界面升级（重新实现【全站搜索】，比 Google 更准确地搜索评论）&url=https://program-think.blogspot.com/2014/11/custom-blogger-search.html" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>博客界面升级（重新实现【全站搜索】，比 Google 更准确地搜索评论）</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2014-11-04
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#编程随想">
+          编程随想
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://program-think.blogspot.com/2014/11/custom-blogger-search.html" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="编程随想的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#编程随想 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <div class="post hentry uncustomized-post-template">
+<a name="4103248440922080159">
+ </a>   <h1 class="post-title entry-title" id="google---"> <a href="https://program-think.blogspot.com/2014/11/custom-blogger-search.html"> 博客界面升级（重新实现【全站搜索】，比 Google 更准确地搜索评论） </a> </h1>
+  <div class="post-header">
+    <div class="post-header-line-1">
+      <div class="post-inner-index"></div>
+    </div>
+  </div>
+  <div class="post-body entry-content">
+    <h2 id="section"> ★先插播一个通知 </h2>
+ 最近2周有不少读者反馈说：在匿名评论的时候，博客界面上会要求输入“验证码”。而且那个“验证码”非常难看懂。 <br /> 在此俺特地声明：这个变态的验证码，【不是】俺加入的，而是 Google 的 BlogSpot 平台加入。某热心读者在其它的 BlogSpot 博客上进行测试“匿名留言”，也出现了验证码。 <br /> 关于 Blogspot 平台的验证码，有如下几种可能： <br /> 1. Google 要加强打击“垃圾广告”（如果是这种情况，倒也无可厚非） <br /> 2. Google 通过增加匿名留言的难度，变相鼓励用户登录 Google 帐号（如果是这种情况，那就违背了“一切以用户为中心”的信条） <br /> <br /> <br />     <h2 id="section-1"> ★为啥又要加新功能？ </h2>
+ <br /> 十月中旬发那篇《 <a href="https://program-think.blogspot.com/2014/10/custom-blogger-ui.html"> 博客界面升级——增加“界面定制”、“文章目录”、“自动刷评论”、“全屏显示”等 </a> 》的时候，就已经有读者来抱怨，说俺不好好写博文，整这些界面干嘛。 <br /> 所以，在此稍微解释一下： <br /> 在俺这个博客，有很多读者是通过“博客的评论功能”进行交流。把“评论相关的界面功能”完善一下，可以提高大伙儿的效率（也包括俺本人的效率）。俺的效率提高了，才能有更多的时间写原创博文。套用一句老话就是【磨刀不误砍柴功】。（类似的观点，在去年的博文《 <a href="https://program-think.blogspot.com/2013/10/personal-it-infrastructure.html"> 磨刀不误砍柴功——聊聊个人 IT 基础设施的完善 </a> 》也提到过） <br /> <a name="more">
+  </a>     <!--program-think-->
+ <br /> <br />     <h2 id="section-2"> ★原先的“博客站内搜索”，有啥问题？ </h2>
+ <br /> 大约在3年前，俺就在博客侧边栏放置了一个“博客站内搜索”。调用的是 Google 和 Bing 的搜索接口。说白了就是利用“site 语法”来搜索某个域名下的内容（关于“site 语法”的使用，可以参见《 <a href="https://program-think.blogspot.com/2013/03/internet-resource-discovery-0.html"> 如何挖掘网络资源 </a> 》这个系列）。 <br /> 原先这种方式，主要有如下几个缺点： <br /> 1. 无法精确地搜索“读者评论”（这是最主要的缺点，好多人提过。比如：无法搜索某个读者发过的所有评论） <br /> 2. 除了“关键字”，没有其它的搜索条件 <br /> 3. Bing 的搜索质量比较差 <br /> 4. Google 的搜索质量虽然比较好，但如果是基于 TOR 访问 Google，经常会碰到“变态的验证码界面”（具体原因参见《 <a href="https://program-think.blogspot.com/2013/03/internet-resource-discovery-3.html"> 解答 Google 搜索的常见问题 </a> 》） <br /> <br /> 为啥俺非常看重“搜索读者评论”这一条？因为俺博客的评论，主要用途之一是：提供某种形式的“问答”。但是捏，大多数的问题，其实都被重复提问过多次了。每次回答这种“老调重弹”，就感觉很浪费时间、特别不爽。 <br /> 这次全新实现的“站内搜索”，可以精确地根据“关键词、时间段、用户名”来对评论进行搜索。以后想要来俺博客提问的网友，建议先搜一下，说不定你要问的问题，之前已经有人问过了。 <br /> <br /> <br />     <h2 id="section-3"> ★新的“博客站内搜索”，增加了哪些功能？ </h2>
+ <br />     <h3 id="section-4"> ◇增加了一个“全站搜索界面” </h3>
+ <br /> 首先，增加了一个“全站搜索界面”，网址是 <b>
+   <a href="https://program-think.blogspot.com/p/search.html">
+    https://program-think.blogspot.com/p/search.html
+   </a>
+  </b> <br /> 此界面上提供了三个搜索条件：“搜索关键词、关键词所在的位置、时间段” <br /> 对于【关键词所在的位置】，包括如下几个选项： <br /> 任何位置（这项类似与普通搜索引擎的行为） <br /> 博文内容 <br /> 博文标题 <br /> 评论内容（这项是根据关键词搜索评论） <br /> 评论作者的名称（这项是根据用户名搜索评论，针对那些“起了网名，但是没登录过的读者”） <br /> 评论作者的网址（这项是根据用户名搜索评论，针对那些“已经登录过的读者”） <br /> <br /> <b>
+   通过这个选项，就可以实现本文标题号称的【比 Google 更准确地搜索评论】。
+  </b> <br /> <br />     <h3 id="section-5"> ◇增加了“评论区的入口” </h3>
+ <br /> 在评论区中，原先已经有两个“过滤按钮”，如今在这两个旁边，增加了一个“搜索按钮”。 <br /> 点击此按钮之后，自动打开“全站搜索界面”，并且自动把相关的搜索选项都帮你填好。你只需等着出结果。 <br /> <br />     <h3 id="section-6"> ◇调整了“侧边栏的入口” </h3>
+ <br /> 原先侧边栏有两个搜索框（分别对应 Google 和 Bing）。如今这两个去掉了，换成单一的搜索框——使用时，会自动打开“全站搜索界面”。 <br /> <br /> <br />     <h2 id="section-7"> ★目前的局限性 </h2>
+ <br />     <h3 id="section-8"> ◇性能的问题 </h3>
+ <br /> 再次唠叨一下：Google 的 Blogspot 平台只提供“客户端页面的定制”，【不提供】“服务端定制”。 <br /> 所以，这次增加的“全站搜索”，完全依靠 JS 脚本来实现（苦逼得很）。好在 Blogspot 提供了某些 Feed（RSS/Atom）接口。俺就靠着这些接口，勉强实现了“全站搜索”。 <br /> 由于功能全部在客户端实现，性能肯定要打折扣——速度肯定比不上“Google、百度”之类的搜索引擎。一般而言，“如果你在墙外”或者“你的翻墙通道够快”，使用这个“全站搜索”应该没啥问题。反之， <b>
+   如果你在墙内并且翻墙速度很慢，用这个功能恐怕够呛
+  </b> 。 <br /> 不过捏，考虑到如今大伙儿的翻墙水平越来越高，搞定一个速度快的翻墙通道，应该不是太难的事情。 <br /> <br />     <h3 id="section-9"> ◇搜索结果排序的问题 </h3>
+ <br /> 这次的时间仓促，俺没有考虑对搜索结果的优劣进行排序。目前只是按照时间倒序显示（最新的在最前面），然后把博主的留言放在其它读者留言之前。 <br /> 对“搜索结果排序”有研究的同学，欢迎提建议 :) <br /> <br /> <br />     <h2 id="section-10"> ★欢迎大伙儿反馈 </h2>
+ <br /> 由于新功能刚刚上线，Bug 难免。还望大伙儿多包涵。如能及时反馈 Bug，俺先行谢过。 <br /> 另外，也欢迎大伙儿多提意见和建议。 <br /> <br /> <br />     <h2 id="section-11"> ★下一步的计划 </h2>
+ <br /> “搜索功能”完成之后，还有另一个比较大的功能（也是很多读者提过的）——自动显示评论的“已读/未读”状态。这个涉及到“客户端存储”，而且需要的存储信息量比较大。俺还在考虑到底用 cookie 还是 HTML5 新增的“本地存储功能”（localStorage）——这两者各有利弊。 <br /> 对 HTML5 的本地存储，俺还不太熟悉。在这方面有经验的同学，欢迎提建议。 <br /> <br /> <br /> <b>
+   俺博客上，和本文相关的帖子（需翻墙）
+  </b> ： <br /> <a href="https://program-think.blogspot.com/2014/10/custom-blogger-ui.html"> 博客界面升级（增加“界面定制”、“文章目录”、“自动刷评论”、“全屏显示”等） </a> <br /> <a href="https://program-think.blogspot.com/2014/09/custom-blogger-comment.html"> 博客评论功能升级（增加“留言过滤”、“200条之后自动加载”等） </a> <br /> <a href="https://program-think.blogspot.com/2012/09/custom-blogger-comment.html"> 博客评论功能升级（引入 BBCode 语法），顺便分享一下实现方法 </a>     <div class="post-copyright">
+<b>
+    版权声明
+   </b> <br /> 本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者 <a href="mailto:program.think@gmail.com"> 编程随想 </a> 和本文原始地址： <br /> <a href="https://program-think.blogspot.com/2014/11/custom-blogger-search.html" id="OriginalPostUrl"> https://program-think.blogspot.com/2014/11/custom-blogger-search.html </a>
+    </div>
+    <div style="clear: both;"></div>
+  </div>
+  <div class="post-footer" style="margin-bottom:50px;">
+    <div class="post-footer-line post-footer-line-1" style="display:none;">
+<span class="post-author vcard"> </span> <span class="reaction-buttons"> </span> <span class="star-ratings"> </span> <span class="post-icons"> </span> <span class="post-backlinks post-comment-link"> </span>
+    </div>
+    <div class="post-footer-line post-footer-line-2 post-toolbar"></div>
+    <div class="post-footer-line post-footer-line-3">
+<span class="post-location"> </span>
+    </div>
+  </div>
+</div>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#编程随想 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2021-05-09/%E5%88%86%E4%BA%AB%E5%90%84%E7%B1%BB%E7%94%B5%E5%AD%90%E4%B9%A6-%E6%94%BF%E6%B2%BB-IT-%E7%A7%91%E6%99%AE-%E5%8E%86%E5%8F%B2-%E7%AD%89-97%E6%9C%AC/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-01-15/%E5%8D%9A%E5%AE%A2%E5%BC%80%E5%BC%A0%E5%8F%8A%E6%9C%AC%E5%8D%9A%E5%AE%A2%E5%86%85%E5%AE%B9%E7%AE%80%E4%BB%8B/">最早</a>--</span>
+    
+      <li>
+        <time>2014-11-08</time>
+        <a href="https://nodebe4.github.io/opinion/2014-11-08/%E6%89%AB%E7%9B%B2-HTTPS-%E5%92%8C-SSL-TLS-%E5%8D%8F%E8%AE%AE-1-%E8%83%8C%E6%99%AF%E7%9F%A5%E8%AF%86-%E5%8D%8F%E8%AE%AE%E7%9A%84%E9%9C%80%E6%B1%82-%E8%AE%BE%E8%AE%A1%E7%9A%84%E9%9A%BE%E7%82%B9/">
+          扫盲 HTTPS 和 SSL-TLS 协议[1]：背景知识、协议的需求、设计的难点
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2014-11-08</time>
+        <a href="https://nodebe4.github.io/opinion/2014-11-08/%E6%89%AB%E7%9B%B2-HTTPS-%E5%92%8C-SSL-TLS-%E5%8D%8F%E8%AE%AE-0-%E5%BC%95%E5%AD%90/">
+          扫盲 HTTPS 和 SSL-TLS 协议[0]：引子
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2014-10-29</time>
+        <a href="https://nodebe4.github.io/opinion/2014-10-29/%E6%AF%8F%E5%91%A8%E8%BD%AC%E8%BD%BD-%E5%85%9A%E5%9B%BD%E7%BA%A2%E4%BA%BA%E5%91%A8%E5%B0%8F%E5%B9%B3%E6%83%A8%E9%81%AD%E5%9B%B4%E8%A7%82-%E7%BD%91%E5%8F%8B%E7%A7%B0-%E8%AF%B7%E4%B8%8D%E8%A6%81%E8%BE%9C%E8%B4%9F%E8%BF%99%E4%B8%AA%E5%82%BB%E9%80%BC/">
+          每周转载：党国红人周小平惨遭围观——网友称：请不要辜负这个傻逼
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2014-10-23</time>
+        <a href="https://nodebe4.github.io/opinion/2014-10-23/%E8%B0%88%E9%9D%A9%E5%91%BD-8-%E5%AF%B9-%E9%9D%9E%E6%9A%B4%E5%8A%9B%E9%9D%A9%E5%91%BD-%E7%9A%84%E7%A7%8D%E7%A7%8D-%E8%AF%AF%E8%A7%A3/">
+          谈革命[8]：对“非暴力革命”的种种【误解】
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2014-11-04/%E6%94%BF%E8%A7%81%E5%90%88%E8%BE%91-2014%E5%B9%B4%E5%A4%8F/">
+            前一篇：政见合辑·2014年夏
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2014-11-04/How_Apple_Creates_Leverage_and_the_Future_of_Apple_Pay/">
+            後一篇：How Apple Creates Leverage, and the Future of Apple Pay
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2014-11-04/%E6%94%BF%E8%A7%81%E5%90%88%E8%BE%91-2014%E5%B9%B4%E5%A4%8F/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2014-11-04/How_Apple_Creates_Leverage_and_the_Future_of_Apple_Pay/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2014-11-08/%E6%89%AB%E7%9B%B2-HTTPS-%E5%92%8C-SSL-TLS-%E5%8D%8F%E8%AE%AE-0-%E5%BC%95%E5%AD%90/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2014-10-29/%E6%AF%8F%E5%91%A8%E8%BD%AC%E8%BD%BD-%E5%85%9A%E5%9B%BD%E7%BA%A2%E4%BA%BA%E5%91%A8%E5%B0%8F%E5%B9%B3%E6%83%A8%E9%81%AD%E5%9B%B4%E8%A7%82-%E7%BD%91%E5%8F%8B%E7%A7%B0-%E8%AF%B7%E4%B8%8D%E8%A6%81%E8%BE%9C%E8%B4%9F%E8%BF%99%E4%B8%AA%E5%82%BB%E9%80%BC/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2014-11-04/%E6%94%BF%E8%A7%81%E5%90%88%E8%BE%91-2014%E5%B9%B4%E5%A4%8F/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2014-11-04/How_Apple_Creates_Leverage_and_the_Future_of_Apple_Pay/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<编程随想>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2014-11-08/%E6%89%AB%E7%9B%B2-HTTPS-%E5%92%8C-SSL-TLS-%E5%8D%8F%E8%AE%AE-0-%E5%BC%95%E5%AD%90/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<编程随想>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2014-10-29/%E6%AF%8F%E5%91%A8%E8%BD%AC%E8%BD%BD-%E5%85%9A%E5%9B%BD%E7%BA%A2%E4%BA%BA%E5%91%A8%E5%B0%8F%E5%B9%B3%E6%83%A8%E9%81%AD%E5%9B%B4%E8%A7%82-%E7%BD%91%E5%8F%8B%E7%A7%B0-%E8%AF%B7%E4%B8%8D%E8%A6%81%E8%BE%9C%E8%B4%9F%E8%BF%99%E4%B8%AA%E5%82%BB%E9%80%BC/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

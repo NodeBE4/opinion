@@ -1,0 +1,2329 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>EnclavedMicrostate在2022-11-21~2022-11-27的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="EnclavedMicrostate在2022-11-21~2022-11-27的言论" />
+    <meta property="twitter:title" content="EnclavedMicrostate在2022-11-21~2022-11-27的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FHobbyDrama%2Fcomments%2Fz187cz%2Ftabletop_gamingwarhammer_40k_leagues_of_brokaan%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/HobbyDrama/comments/z187cz/tabletop_gamingwarhammer_40k_leagues_of_brokaan/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/HobbyDrama/comments/z187cz/tabletop_gamingwarhammer_40k_leagues_of_brokaan/&text=EnclavedMicrostate在2022-11-21~2022-11-27的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/HobbyDrama/comments/z187cz/tabletop_gamingwarhammer_40k_leagues_of_brokaan/&title=EnclavedMicrostate在2022-11-21~2022-11-27的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/HobbyDrama/comments/z187cz/tabletop_gamingwarhammer_40k_leagues_of_brokaan/&title=EnclavedMicrostate在2022-11-21~2022-11-27的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=EnclavedMicrostate在2022-11-21~2022-11-27的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/HobbyDrama/comments/z187cz/tabletop_gamingwarhammer_40k_leagues_of_brokaan/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/HobbyDrama/comments/z187cz/tabletop_gamingwarhammer_40k_leagues_of_brokaan/&title=EnclavedMicrostate在2022-11-21~2022-11-27的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=EnclavedMicrostate在2022-11-21~2022-11-27的言论&url=https://old.reddit.com/r/HobbyDrama/comments/z187cz/tabletop_gamingwarhammer_40k_leagues_of_brokaan/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>EnclavedMicrostate在2022-11-21~2022-11-27的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-11-27
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: EnclavedMicrostate</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/HobbyDrama/comments/z187cz/tabletop_gamingwarhammer_40k_leagues_of_brokaan/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#937-tabletop-gamingwarhammer-40k-leagues-of-brokaan-how-warhammer-40ks-newest-army-nearly-ended-up-being-the-most-obscenely-broken-army-this-edition-has-ever-seen-submitted-on-2022-11-22-0345360800" id="markdown-toc-937-tabletop-gamingwarhammer-40k-leagues-of-brokaan-how-warhammer-40ks-newest-army-nearly-ended-up-being-the-most-obscenely-broken-army-this-edition-has-ever-seen-submitted-on-2022-11-22-0345360800">937: [Tabletop gaming/Warhammer 40k] Leagues of Brokaan: how warhammer 40k’s newest army nearly ended up being the most obscenely broken army this edition has ever seen., submitted on 2022-11-22 03:45:36+08:00.</a></li>
+  <li><a href="#938-other-than-china-and-japan-did-other-east-asian-countries-go-into-isolation-if-so-why-submitted-on-2022-11-22-0802030800" id="markdown-toc-938-other-than-china-and-japan-did-other-east-asian-countries-go-into-isolation-if-so-why-submitted-on-2022-11-22-0802030800">938: other than china and japan, did other east asian countries go into isolation, if so, why?, submitted on 2022-11-22 08:02:03+08:00.</a></li>
+  <li><a href="#939-nomadic-neural-network---weekly-discussion-thread-november-22nd-2022-submitted-on-2022-11-22-0931040800" id="markdown-toc-939-nomadic-neural-network---weekly-discussion-thread-november-22nd-2022-submitted-on-2022-11-22-0931040800">939: Nomadic Neural Network - Weekly Discussion Thread, November 22nd, 2022, submitted on 2022-11-22 09:31:04+08:00.</a></li>
+  <li><a href="#940-spock-violated-valeris-body-mind-and-her-rights-submitted-on-2022-11-22-0940210800" id="markdown-toc-940-spock-violated-valeris-body-mind-and-her-rights-submitted-on-2022-11-22-0940210800">940: Spock violated Valeris’ body, mind, and her rights, submitted on 2022-11-22 09:40:21+08:00.</a></li>
+  <li><a href="#941-petition-to-change-the-cavalry-unit-to-the-dragoon-unit-submitted-on-2022-11-24-0010080800" id="markdown-toc-941-petition-to-change-the-cavalry-unit-to-the-dragoon-unit-submitted-on-2022-11-24-0010080800">941: Petition to change the “Cavalry” unit to the Dragoon unit, submitted on 2022-11-24 00:10:08+08:00.</a></li>
+  <li><a href="#942-in-the-klingon-lexicon-the-term-for-pair-is-changeng-submitted-on-2022-11-24-0433190800" id="markdown-toc-942-in-the-klingon-lexicon-the-term-for-pair-is-changeng-submitted-on-2022-11-24-0433190800">942: In the Klingon lexicon, the term for “pair” is “chang`eng”., submitted on 2022-11-24 04:33:19+08:00.</a></li>
+  <li><a href="#943-scientists-recently-authenticated-several-3rd-century-roman-coins-showing-an-otherwise-unattested-emperor-sponsian-if-he-did-in-fact-exist-what-was-his-likely-fate-submitted-on-2022-11-24-0949150800" id="markdown-toc-943-scientists-recently-authenticated-several-3rd-century-roman-coins-showing-an-otherwise-unattested-emperor-sponsian-if-he-did-in-fact-exist-what-was-his-likely-fate-submitted-on-2022-11-24-0949150800">943: Scientists recently authenticated several 3rd century Roman coins showing an otherwise-unattested emperor Sponsian. If he did in fact exist, what was his likely fate?, submitted on 2022-11-24 09:49:15+08:00.</a></li>
+  <li><a href="#944-what-did-the-byzantines-call-china-submitted-on-2022-11-25-0340040800" id="markdown-toc-944-what-did-the-byzantines-call-china-submitted-on-2022-11-25-0340040800">944: What did the Byzantines call China?, submitted on 2022-11-25 03:40:04+08:00.</a></li>
+  <li><a href="#945-nendroids-of-noel-and-flare-are-now-open-for-preorders-submitted-on-2022-11-25-1103580800" id="markdown-toc-945-nendroids-of-noel-and-flare-are-now-open-for-preorders-submitted-on-2022-11-25-1103580800">945: Nendroids of Noel and Flare are now open for preorders!, submitted on 2022-11-25 11:03:58+08:00.</a></li>
+  <li><a href="#946-motoaki-tanigo-then-vs-yagoo-now-submitted-on-2022-11-25-1802570800" id="markdown-toc-946-motoaki-tanigo-then-vs-yagoo-now-submitted-on-2022-11-25-1802570800">946: Motoaki Tanigo then vs. YAGOO now., submitted on 2022-11-25 18:02:57+08:00.</a></li>
+  <li><a href="#947-friday-free-for-all--november-25-2022-submitted-on-2022-11-25-2200100800" id="markdown-toc-947-friday-free-for-all--november-25-2022-submitted-on-2022-11-25-2200100800">947: Friday Free-for-All | November 25, 2022, submitted on 2022-11-25 22:00:10+08:00.</a></li>
+  <li><a href="#948-why-is-han-chinese-considered-a-single-ethnic-group-despite-having-multiple-languages-and-customs-across-its-population-submitted-on-2022-11-26-0028180800" id="markdown-toc-948-why-is-han-chinese-considered-a-single-ethnic-group-despite-having-multiple-languages-and-customs-across-its-population-submitted-on-2022-11-26-0028180800">948: Why is Han Chinese considered a single ethnic group despite having multiple languages and customs across its population?, submitted on 2022-11-26 00:28:18+08:00.</a></li>
+  <li><a href="#sources-and-further-reading" id="markdown-toc-sources-and-further-reading">Sources and Further Reading</a></li>
+  <li><a href="#949-zeta-denying-reality-once-again-submitted-on-2022-11-26-2039380800" id="markdown-toc-949-zeta-denying-reality-once-again-submitted-on-2022-11-26-2039380800">949: Zeta denying reality once again, submitted on 2022-11-26 20:39:38+08:00.</a></li>
+  <li><a href="#950-hobby-scuffles-week-of-november-28-2022-submitted-on-2022-11-27-2300170800" id="markdown-toc-950-hobby-scuffles-week-of-november-28-2022-submitted-on-2022-11-27-2300170800">950: [Hobby Scuffles] Week of November 28, 2022, submitted on 2022-11-27 23:00:17+08:00.</a></li>
+</ul>
+
+<h3 id="937-tabletop-gamingwarhammer-40k-leagues-of-brokaan-how-warhammer-40ks-newest-army-nearly-ended-up-being-the-most-obscenely-broken-army-this-edition-has-ever-seen-submitted-on-2022-11-22-0345360800">937: <a href="https://old.reddit.com/r/HobbyDrama/comments/z187cz/tabletop_gamingwarhammer_40k_leagues_of_brokaan/">[Tabletop gaming/Warhammer 40k] Leagues of Brokaan: how warhammer 40k’s newest army nearly ended up being the most obscenely broken army this edition has ever seen.</a>, submitted on 2022-11-22 03:45:36+08:00.</h3>
+
+<p>—– <strong>937.1</strong> —–2022-11-24 04:01:56+08:00:</p>
+
+<blockquote>
+  <p>Another fun result of the “No deploying within 1” of the enemy” rule was that getting out of transports was impossible if the enemy was near the egress points of the vehicle. You could surround a transport with infantry, then destroy the transport, watching the entire squad inside die instantly as you essentially leaned against the hatches.</p>
+
+</blockquote>
+
+<p>I mean, there’s a certain validity to that. Dismount your guys! Infantry were meant to fight on their legs, not in metal boxes!</p>
+
+<h3 id="938-other-than-china-and-japan-did-other-east-asian-countries-go-into-isolation-if-so-why-submitted-on-2022-11-22-0802030800">938: <a href="https://old.reddit.com/r/AskHistorians/comments/z1eogy/other_than_china_and_japan_did_other_east_asian/">other than china and japan, did other east asian countries go into isolation, if so, why?</a>, submitted on 2022-11-22 08:02:03+08:00.</h3>
+
+<p>—– <strong>938.1</strong> —–2022-11-22 18:53:28+08:00:</p>
+
+<p>No, because China and Japan did not go into isolation. In the case of Japan, ‘isolationism’ was used after the restoration to characterise Tokugawa policy as a way of discrediting the old regime, and, as /u/ParallelPain notes, <a href="https://www.reddit.com/r/AskHistorians/comments/iaxh4j/why_did_japan_decide_to_be_isolationist_during/">does not capture the finer points of Japan’s engagement with the outside world</a>. In the case of China, we ought not to conflate the policy of the Ming, which, per /u/_dk, imposed <a href="https://www.reddit.com/r/AskHistorians/comments/2a9tgx/what_is_the_history_of_the_ming_dynastys_haijin/citfco1/?context=999">strict but not total constraints on maritime trade</a>, with the Qing, which, as an expansionist Eurasian empire, was <em>deeply</em> tied in with the global economy, as I cover <a href="https://www.reddit.com/r/AskHistorians/comments/c1we9g/why_was_the_treaty_port_system_operated_so/ergraoq/">here</a>. Arguably the only ‘isolationist’ state was Korea, but even then the Koreans maintained trade relations within East Asia even if it didn’t engage with the European powers. The notion that East Asian countries became these hermetically sealed entities has long been used both from within and without as a means of discrediting certain policies, but it is, on the whole, factually unsustainable.</p>
+
+<h3 id="939-nomadic-neural-network---weekly-discussion-thread-november-22nd-2022-submitted-on-2022-11-22-0931040800">939: <a href="https://old.reddit.com/r/VirtualYoutubers/comments/z1gmh2/nomadic_neural_network_weekly_discussion_thread/">Nomadic Neural Network - Weekly Discussion Thread, November 22nd, 2022</a>, submitted on 2022-11-22 09:31:04+08:00.</h3>
+
+<p>—– <strong>939.1</strong> —–2022-11-27 19:12:41+08:00:</p>
+
+<p>Or… both are significant.</p>
+
+<h3 id="940-spock-violated-valeris-body-mind-and-her-rights-submitted-on-2022-11-22-0940210800">940: <a href="https://old.reddit.com/r/DaystromInstitute/comments/z1gtpu/spock_violated_valeris_body_mind_and_her_rights/">Spock violated Valeris’ body, mind, and her rights</a>, submitted on 2022-11-22 09:40:21+08:00.</h3>
+
+<p>—– <strong>940.1</strong> —–2022-11-22 20:42:12+08:00:</p>
+
+<p>Three cheers for Gene’s Vision, everyone!</p>
+
+<h3 id="941-petition-to-change-the-cavalry-unit-to-the-dragoon-unit-submitted-on-2022-11-24-0010080800">941: <a href="https://old.reddit.com/r/civ/comments/z2t29u/petition_to_change_the_cavalry_unit_to_the/">Petition to change the “Cavalry” unit to the Dragoon unit</a>, submitted on 2022-11-24 00:10:08+08:00.</h3>
+
+<p>—– <strong>941.1</strong> —–2022-11-24 09:15:27+08:00:</p>
+
+<p>Yes and no. Dragoons as originally conceived in the 17th century were mounted infantry, but dragoons and other ordinary ‘horse’ basically met in the middle by the early 18th century, largely fighting in close quarters in battle but retaining the ability to skirmish with firearms.</p>
+
+<h3 id="942-in-the-klingon-lexicon-the-term-for-pair-is-changeng-submitted-on-2022-11-24-0433190800">942: <a href="https://old.reddit.com/r/tlhInganHol/comments/z2zqij/in_the_klingon_lexicon_the_term_for_pair_is/">In the Klingon lexicon, the term for “pair” is “chang`eng”.</a>, submitted on 2022-11-24 04:33:19+08:00.</h3>
+
+<p>—– <strong>942.1</strong> —–2022-11-24 09:21:19+08:00:</p>
+
+<p>It’s a classic joke among linguists, orthographers and the like that ‘ghoti’ is a legitimate spelling of ‘fish’, as long as you pronounce:</p>
+
+<ul>
+  <li>‘gh’ like in ‘cough’ where it makes a ‘f’ sound,</li>
+  <li>‘o’ like in ‘women’ where it makes an ‘i’ sound, and</li>
+  <li>‘ti’ like in ‘initial’ where it makes a ‘sh’ sound.</li>
+</ul>
+
+<p>Mark Okrand, creator of Klingon, thus decided ‘ghotI’’ would be Klingon for ‘fish’.</p>
+
+<h3 id="943-scientists-recently-authenticated-several-3rd-century-roman-coins-showing-an-otherwise-unattested-emperor-sponsian-if-he-did-in-fact-exist-what-was-his-likely-fate-submitted-on-2022-11-24-0949150800">943: <a href="https://old.reddit.com/r/AskHistorians/comments/z3723i/scientists_recently_authenticated_several_3rd/">Scientists recently authenticated several 3rd century Roman coins showing an otherwise-unattested emperor Sponsian. If he did in fact exist, what was his likely fate?</a>, submitted on 2022-11-24 09:49:15+08:00.</h3>
+
+<p>—– <strong>943.1</strong> —–2022-11-30 08:31:42+08:00:</p>
+
+<p>Thanks for the tag! I’d like to throw in the additional detail that while genitives are not standard for Latin inscriptions on Roman coins, they <em>are</em> standard for Greek inscriptions on Hellenistic coins. Alexander-style tetradrachms for instance will have the issuing king’s name in genitive: <a href="https://www.baldwin.co.uk/wp-content/uploads/2020/02/C201001272-1-20200207130607.jpg">Alexandrou</a>, <a href="https://upload.wikimedia.org/wikipedia/commons/9/92/AntiochusIVEpiphanes.jpg">Antiochou</a>, et cetera. This convention was also carried over into some Roman coins with Greek legends, although even by the third century the nominative was standard: compare <a href="https://www.wildwinds.com/coins/ric/tiberius/RPC_4005.jpg">Tiberiou (genitive)</a> with <a href="https://www.wildwinds.com/coins/ric/septimius_severus/Syd_389_var.jpg">Ceoueros (nominative)</a> This, in my view at least, lends credence to the ‘clueless forger’ explanation, although it doesn’t necessarily say whether this was an 18th century Hellenist doing a bad job of faking Latin, or a 3rd century forger misusing the older Greek conventions.</p>
+
+<h3 id="944-what-did-the-byzantines-call-china-submitted-on-2022-11-25-0340040800">944: <a href="https://old.reddit.com/r/AskHistorians/comments/z3sr4t/what_did_the_byzantines_call_china/">What did the Byzantines call China?</a>, submitted on 2022-11-25 03:40:04+08:00.</h3>
+
+<p>—– <strong>944.1</strong> —–2022-11-25 03:41:13+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="945-nendroids-of-noel-and-flare-are-now-open-for-preorders-submitted-on-2022-11-25-1103580800">945: <a href="https://old.reddit.com/r/Hololive/comments/z4268o/nendroids_of_noel_and_flare_are_now_open_for/">Nendroids of Noel and Flare are now open for preorders!</a>, submitted on 2022-11-25 11:03:58+08:00.</h3>
+
+<p>—– <strong>945.1</strong> —–2022-11-25 18:06:34+08:00:</p>
+
+<p><em>looks at last image</em></p>
+
+<p><em>clutches pearls</em></p>
+
+<p>What lewdness!</p>
+
+<h3 id="946-motoaki-tanigo-then-vs-yagoo-now-submitted-on-2022-11-25-1802570800">946: <a href="https://old.reddit.com/r/Hololive/comments/z49ozy/motoaki_tanigo_then_vs_yagoo_now/">Motoaki Tanigo then vs. YAGOO now.</a>, submitted on 2022-11-25 18:02:57+08:00.</h3>
+
+<p>—– <strong>946.1</strong> —–2022-11-26 06:21:05+08:00:</p>
+
+<p>She even has two Flare dakimakuras.</p>
+
+<p>—– <strong>946.2</strong> —–2022-11-26 08:39:51+08:00:</p>
+
+<p>True.</p>
+
+<h3 id="947-friday-free-for-all--november-25-2022-submitted-on-2022-11-25-2200100800">947: <a href="https://old.reddit.com/r/AskHistorians/comments/z4e2c3/friday_freeforall_november_25_2022/">Friday Free-for-All | November 25, 2022</a>, submitted on 2022-11-25 22:00:10+08:00.</h3>
+
+<p>—– <strong>947.1</strong> —–2022-11-26 02:22:07+08:00:</p>
+
+<p>This is a niche one, but it’s the idea that the Treaty of Tientsin (Tianjin) in 1858 legalised opium in China. Opium does not appear in the text of <em>any</em> of the four versions of the treaty. Moreover, the Treaty of Tientsin was, rather infamously, not ratified by the Xianfeng Emperor, leading to a resumption of hostilities in 1859-60 that concluded in the Convention of Peking, whose first stipulation was that the Qing court had to ratify the earlier treaty. And yet, opium trading was legal all throughout this latter stage of hostilities. If the Qing refused to ratify the opium-legalising treaty, why was opium legal? Instead, it seems that opium was pretty quietly legalised domestically, quite probably to allow it to be taxed to raise funds for fighting the Taiping. There’s nothing to indicate it was ever forcibly legalised by treaty.</p>
+
+<h3 id="948-why-is-han-chinese-considered-a-single-ethnic-group-despite-having-multiple-languages-and-customs-across-its-population-submitted-on-2022-11-26-0028180800">948: <a href="https://old.reddit.com/r/AskHistorians/comments/z4himu/why_is_han_chinese_considered_a_single_ethnic/">Why is Han Chinese considered a single ethnic group despite having multiple languages and customs across its population?</a>, submitted on 2022-11-26 00:28:18+08:00.</h3>
+
+<p>—– <strong>948.1</strong> —–2022-11-26 22:52:27+08:00:</p>
+
+<p>There’s any number of angles that may be taken here, and with the field of what we might term ‘critical Han studies’ being a relatively diverse one in terms of perspective, do please bear in mind that the one which I offer here is not the only one that exists. What I posit is that the expansiveness of Han identity is due to the following combination of factors:</p>
+
+<ol>
+  <li>Han as an identity has historically been a political construct as well as a cultural one.</li>
+  <li>Han identity has not been constructed purely on the basis of recognised in-group similarities, but also by way of contrast against an equally constructed Other.</li>
+  <li>Han identity in its current form is a relatively recent construction emerging out of specific conditions that <em>made</em> it expansive, and thus relatively tolerant of internal variation.</li>
+</ol>
+
+<p>As a primer, /u/Drdickles and I both discussed a similar question <a href="https://www.reddit.com/r/AskHistorians/comments/es9kd4/how_did_the_modern_chinese_concept_of_nationhood/">here</a>, and /u/hellcatfighter covers a similar topic <a href="https://www.reddit.com/r/AskHistorians/comments/b72sez/why_was_the_qing_dynasty_so_expansionist/f17ft9j/?context=999">here</a> and in a linked answer. But there is some scope for going more in-depth on your specific framing of the question, and we can go in the order of the points above.</p>
+
+<p>Firstly, there has always fundamentally been a political dimension to how Han identity has been constructed, especially if we take a relatively state-driven, top-down approach. For instance, during the 11th century, when China was mostly ruled by the Song Empire apart from a small portion of the north ruled by the Khitan Liao, Han-ness was often defined as deriving from a relationship with the Song state. The Liao came to use the phrases <em>Han’er</em> and <em>Hanren</em> exclusively for former Song subjects who had been captured by or defected to the Liao, and while the Song did use <em>Han’er</em> and <em>Hanren</em> in formal communications with the Liao to describe what we might term ‘ethnic Chinese’ under Liao rule, internal writing generally lumped Liao-ruled Chinese under the labels of <em>Fan</em> (‘barbarian’) or <em>Beiren</em> (‘northerners’), set apart from the main body of Han Chinese. And yet a state-imposed category of Han could be expansive as well as restrictive: the Mongol Yuan used the term <em>Hanren</em> to encompass all of the subjects of the conquered Jin Empire, which included ‘ethnic Chinese’ but also Jurchens, Khitans, and Koreanic peoples like the Balhae and Goguryeo, while at the same time reserving <em>Nanren</em> for former Song subjects. We will return to this later, but bear in mind that ‘Han’ has a long history of fungibility and reconstruction.</p>
+
+<p>But we can make a similar argument from a more bottom-up standpoint. Inclusion within and exclusion from the ‘Han’ label could be deeply tied in with political and social interests. For example, the Tanka people of southern China (or Danjia in Mandarin) were not, by the Ming period, meaningfully linguistically or ethnically distinct from their neighbours in Guangdong or Fujian, but while not excluded from the Han label outright, they were nevertheless classified as distinct from the label of <em>min</em>, a somewhat ambiguous term best translated as a ‘person of full competence’. The reason for this was that the Tanka failed to satisfy certain criteria: they did not own property ashore, and in particular did not maintain graveyards. With the veneration of one’s ancestors being so deeply embedded in Han cultural norms, the lack of recognisable burial practices was a particular point of difference to grab onto. But identity as Tanka could be shed – albeit over the course of a couple of generations – by managing to purchase land and adopt a sedentary lifestyle, giving an opportunity for the better-off – particularly those who were able to accrue wealth through coastal trading – to secure a position within the locally-dominant ethnic group. This is not the only case of this kind of fluidity in identity at the fringes of the Han group, but it’s perhaps the most salient example.</p>
+
+<p>Secondly, Han identity was often defined in opposition to a construed external Other rather than purely on its own merits. We see this for instance in the case of the Ming, whose categorisation of the Han was simultaneously both expansive and restrictive: expansive in the sense that it sought to encompass both halves of the ‘ethnic Chinese’ supergroup that had been bifurcated by the Jin and latterly the Yuan, but restrictive in that in so doing, it excluded the various Inner Asian peoples that had formed part of the social and cultural fabric of northern China for centuries. The realignment of ‘Han’ with what might be termed an ‘ethnic’ in-group was in many ways a Ming construction, and it was one that emerged out of a deliberate move towards what some have termed a ‘de-Mongolification’ of Chinese institutions and society towards an invented autochthonous ideal. The Han were Han not just because they shared a common written language, certain basic cultural practices like ancestor worship, and a broadly similar socioeconomic base in the form of sedentary agrarianism, but also because these things they shared were things <em>not</em> shared by people who were construed as non-Han. Exclusion also characterised late Qing discourses of ethnicity as Han nationalism emerged as a force to challenge the Manchu-led pluralism of the Qing state: ethnocentric writers like Zhang Binglin and Liang Qichao seized on various forms of racial invective – the former more than the latter, to be sure – and emphasised Han distinctness from their Manchu overlords. The period leading up to the 1911 Revolution would be characterised in large part by specifically acts emphasising Han nativism, with the most visible being defiance of the Qing’s court edicts mandating that Han men adopt Manchu hairstyles.</p>
+
+<p>Finally, as the answers linked earlier go into in more detail, Han identity as a modern construction is an intentionally somewhat expansive one. Just as the Yuan took over Jin and Song definitions of ethnic categorisation, the Qing largely took over what had been an already somewhat reified conception of Han identity from the Ming. The 18th century saw the Qing court, particularly under the Qianlong Emperor, emphasise a stronger reification of the boundaries between Han and other groups, such as through the large-scale (though incomplete) dissolution of the Han Banners, who existed ambiguously between Han and Manchu. Anti-Qing movements of the 19th century tended to find themselves quickly adopting a relatively broad-tent approach despite often being led by members of marginalised Han subgroups. The Taiping leadership was dominated by Hakkas, but took a broadly pan-Han stance very early on, specifically championing Han self-rule and the end of Manchu domination. Sun Yat-Sen, who similarly called for Han majority rule, was a Hakka. Liang Qichao and Kang Youwei, the constitutionalist leaders who tried to dismantle the Manchu state from within in 1898, were Cantonese. These people saw no contradiction between holding an overarching Han identity and a sub-identity within that, but more importantly their political goals were suited by having as many people as possible included while still rejecting the Manchus. This in turn explains the later rhetorical shift that Liang and Sun underwent, as they moved towards the notion of a multiethnic nation that was nevertheless Han-dominated: the ideal was to be as inclusive as possible while still retaining some kind of conceptual boundary that made holding these individual identities relevant, and while also continuing to vilify the Qing state over its ethnic policy. For Chinese nationalists, China would be a sort of ‘national empire’ or ‘imperial nation’ – the Han, as the numerical supermajority, would bind together a disparate group of ethnicities under a single national umbrella. We could, if we wanted to, take this same model down a layer: the Han would, itself, be a composite entity with a certain idalise, albeit one with somewhat stronger cultural ties between its constituent parts.</p>
+
+<p>Han identity, like any other comparable identity, is one that is essentially artificial, but that it is artificial does not make it meaningless. The only real criteria for an ethnic identity to exist is for people to hold it, and in the case of the Han, that criterion is largely satisfied, at least within mainland China. At the global level however, things are more complicated: the political dynamics that have shaped Han identity in China have been, quite obviously, local ones, and so the conception of Han ethnicity, or just Chinese identification in general, is quite different in the case of diaspora communities, and of Sinitic areas outside the PRC ‘core’ such as Hong Kong and Taiwan. In such communities, identity distinctions below the Han super-label can be much more pressing: consider anti-mainlander sentiments in Hong Kong or the continued insularity of some Hakka communities, or the <em>waishengren</em> vs <em>benshengren</em> divide on Taiwan. Weird as it may be to say, China does not have a monopoly on Chineseness, and we ought not to universalise the PRC’s construction of ethnicity.</p>
+
+<h3 id="sources-and-further-reading">Sources and Further Reading</h3>
+
+<ul>
+  <li>Pamela Crossley, <em>A Translucent Mirror</em> (1999)</li>
+  <li>Pamela Crossley, Donald Sutton, and Helen Siu (eds.), <em>Empire at the Margins</em> (2006)</li>
+  <li>Thomas Mullaney, James Leibold, and Stéphane Gros (eds.), <em>Critical Han Studies</em> (2012)</li>
+</ul>
+
+<p>—– <strong>948.2</strong> —–2022-11-27 06:12:51+08:00:</p>
+
+<p>In essence I’m just referring to ethnic and national identities as a whole. Britishness is artificial, and so too is Frenchness or Germanness, and I mean that in the sense that these were constructed by humans, often relatively recently, rather than being essential, inherent, or continuous.</p>
+
+<p>—– <strong>948.3</strong> —–2022-11-27 17:10:03+08:00:</p>
+
+<p>I would not. As I lay out pretty overtly in pretty much all of the paragraphs, Han identity has been consistently malleable in response to the conditions created by political discontinuities, <em>especially</em> as a result of the period of political division during the Song-Liao-Jin era. If anything it is an attempt to <em>assert</em> rather than to affirm political unity.</p>
+
+<p>—– <strong>948.4</strong> —–2022-11-28 21:49:40+08:00:</p>
+
+<p>Yes, that is my point: I <em>am</em> saying that all ethnic identities are artificial and constructed.</p>
+
+<h3 id="949-zeta-denying-reality-once-again-submitted-on-2022-11-26-2039380800">949: <a href="https://old.reddit.com/r/Hololive/comments/z56lyq/zeta_denying_reality_once_again/">Zeta denying reality once again</a>, submitted on 2022-11-26 20:39:38+08:00.</h3>
+
+<p>—– <strong>949.1</strong> —–2022-11-27 03:50:56+08:00:</p>
+
+<p><a href="https://www.reddit.com/r/Hololive/comments/jmn4fe/cat_ears/">RIP Okayu’s hearing</a></p>
+
+<h3 id="950-hobby-scuffles-week-of-november-28-2022-submitted-on-2022-11-27-2300170800">950: <a href="https://old.reddit.com/r/HobbyDrama/comments/z639kh/hobby_scuffles_week_of_november_28_2022/">[Hobby Scuffles] Week of November 28, 2022</a>, submitted on 2022-11-27 23:00:17+08:00.</h3>
+
+<p>—– <strong>950.1</strong> —–2022-11-29 03:07:21+08:00:</p>
+
+<p>I’m close to finished on my second unit of British troops for my 1860s expeditionary force, but not close enough for photos, alas…</p>
+
+<p>—– <strong>950.2</strong> —–2022-11-30 05:03:00+08:00:</p>
+
+<p>I presume you’re in the US? It’s interesting how US wargaming tends to cohere more around gaming store spaces as opposed to clubs, which are the norm here in the UK. It seems like the sort of thing where the setup is harder but there’s a longer-term payoff in terms of stability.</p>
+
+<p>—– <strong>950.3</strong> —–2022-11-30 08:34:00+08:00:</p>
+
+<p>Numismatics news! Some may have run across mainstream media reports that the authentication of a gold coin has definitely proved the existence of the 3rd century Roman pretender emperor, Sponsian[us]. Well, it’s <em>probably</em> bullshit. Numismatists like <a href="https://twitter.com/MPilekic/status/1595930248343949313">Marjano Pilekic</a> and <a href="https://twitter.com/WienandJohannes/status/1596528438143488001">Johannes Wienand</a> have weighed in, and their conclusion is pretty damning: none of the existing evidence pointing to forgery has been debunked, and the new information (soil residue that suggests burial and wear patterns suggesting circulation) are entirely undefinitive and still explainable by contamination and by deliberately-induced wear. At most it is proved (if it even is) that the coin is old, but even if it is, that doesn’t prove it wasn’t some kind of fake created in the 3rd century.</p>
+
+<p>—– <strong>950.4</strong> —–2022-11-30 09:11:00+08:00:</p>
+
+<p>So, two things, one in agreement and one in disagreement. The disagreement is that, as Erin Horakova’s article <a href="http://strangehorizons.com/non-fiction/columns/freshly-rememberd-kirk-drift/">Kirk Drift</a> gets into, Kirk’s womanising is actually a fanonical invention that ascended into semi-canon status within the films, rather than being original to TOS. The agreement comes from bringing up Season 2, Episode 13, ‘Obsession’, an episode which was directly inspired by <em>MobyDick</em>, but casts <em>Kirk</em> in the role of Ahab, in relentless pursuit of a cloudlike entity that killed members of his old crew. Viewed in light of that episode, <em>Wrath of Khan</em> serves as inversion as well as deconstruction, putting Kirk in the position of the hunted.</p>
+
+<p>—– <strong>950.5</strong> —–2022-11-30 18:08:38+08:00:</p>
+
+<p>Sponsian was 3rd century Dacia’s Goncharov.</p>
+
+<p>—– <strong>950.6</strong> —–2022-12-01 18:02:22+08:00:</p>
+
+<p>It’s slightly but not hugely complicated. Nijisanji’s Axia Krone had been on hiatus since August, having been, it seems, increasingly at odds with his viewers. He posted <a href="https://www.youtube.com/watch?v=PGvMKhAHEGw">this rant</a> (solely in Japanese unfortunately), in which he made clear that he was not happy with how viewers in chat seemed to be treating him like parents would treat a rebellious teen, and that he was weirded out by it. Today, he announced that he had privately graduated (i.e. retired) on 30 November, essentially citing creative differences (the more precise wording is along the lines that his own interests and the company’s direction were misaligned), and that his accounts would go private on 7 December. It’s not entirely clear if the graduation announcement essentially extended out of the hiatus announcement or if there were additional behind-the-scenes issues during the hiatus that led to him escalating from hiatus to outright departure.</p>
+
+<p>For a little further background context, Axia was part of the unit Eden-Gumi, who debuted as a group in July 2021. Eden-Gumi has been pretty successful by mainstream VTuber standards, but this came with a fair share of controversy over apparent favouritism in terms of merch and promotions vis-a-vis less popular but more established members (something that also came up during the <a href="https://www.reddit.com/r/HobbyDrama/comments/uq7vr6/hobby_scuffles_week_of_may_16_2022/i9bb731/?context=999">Luxiem/Noctyx merch drama</a> early this year). One other Eden-Gumi member, Lauren Iroas, has also been a bit of a drama magnet: he was the subject of the <a href="https://www.reddit.com/r/HobbyDrama/comments/v0cylk/hobby_scuffles_week_of_may_30_2022/iavjjy0/">nipple teasing porn piracy debacle</a> and also fell in hot water over <a href="https://www.reddit.com/r/VirtualYoutubers/comments/v64f8h/w_w_w_w_weekly_discussion_thread_june_6th_2022/ibuq2xl/">using an ethnic slur on stream</a>. It’s possible the sort of controversy by association contributed to the hiatus, but it’s not necessarily so; just thought it was worth including as Eden-Gumi has not been the most unacrimonious of units.</p>
+
+<p>—– <strong>950.7</strong> —–2022-12-02 16:46:02+08:00:</p>
+
+<blockquote>
+  <p>This is a huge overstepping of boundaries - most vtubers keep their private lives private for very important reasons.</p>
+</blockquote>
+
+<p>I would contend, personally at least, that while doing that kind of digging is an overstepping, it’s not necessarily a gigantic one – the major overstepping is not keeping the information to yourself once you have it. VTubing is a pseudonymous and not an anonymous activity, and especially with bigger agency VTubers, finding someone’s prior online activities can be very easy. But despite this – or even because of it – a general policy of ‘don’t ask, don’t tell’ prevails, and just because you may have been curious to find out for yourself does not entitle you to go out shouting that info out into the open.</p>
+
+<p>—– <strong>950.8</strong> —–2022-12-04 21:27:00+08:00:</p>
+
+<blockquote>
+  <p>Second, there’s a difference between using a fan creation that was already on the open and giving credit and using something that was created explicitely for the brand of the VTuber</p>
+</blockquote>
+
+<p>That works on some level, but I feel like that you will very quickly get an emergent implicit contract: if you are a fanartist, you go in with the understanding that if you post your art, it will have a chance of being used by the depicted creator with no material return. The only difference would be an explicit invitation to produce free content in Jaiden’s case versus an implicit one in holo’s, but I don’t think this is particularly significant: Holo is still essentially soliciting volunteer labour from fans in exchange for no monetary reward, just in a more open-ended way.</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-12-02</time>
+        <a href="https://nodebe4.github.io/opinion/2022-12-02/theoryofdoom/">
+          theoryofdoom在2022-11-28~2022-12-04的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-11-27</time>
+        <a href="https://nodebe4.github.io/opinion/2022-11-27/Spinkcat/">
+          Spinkcat在2022-11-21~2022-11-27的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-11-25</time>
+        <a href="https://nodebe4.github.io/opinion/2022-11-25/theoryofdoom/">
+          theoryofdoom在2022-11-21~2022-11-27的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-11-20</time>
+        <a href="https://nodebe4.github.io/opinion/2022-11-20/EnclavedMicrostate/">
+          EnclavedMicrostate在2022-11-14~2022-11-20的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-11-26/SpeechFreedomCN/">
+            前一篇：Twitter @中国文字狱事件盘点: 2022-11-21~2022-11-27
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-11-27/HeQinglian/">
+            後一篇：Twitter @He Qinglian: 2022-11-21~2022-11-27
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-11-26/SpeechFreedomCN/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-11-27/HeQinglian/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-11-27/Spinkcat/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-11-25/theoryofdoom/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-11-26/SpeechFreedomCN/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-11-27/HeQinglian/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-11-27/Spinkcat/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-11-25/theoryofdoom/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

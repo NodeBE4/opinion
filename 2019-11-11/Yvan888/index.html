@@ -1,0 +1,2615 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Yvan888在2019-11-11~2019-11-17的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Yvan888在2019-11-11~2019-11-17的言论" />
+    <meta property="twitter:title" content="Yvan888在2019-11-11~2019-11-17的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FChina%2Fcomments%2Fdul426%2Fpolice_on_video_shot_protester_directly_in_the%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/China/comments/dul426/police_on_video_shot_protester_directly_in_the/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/China/comments/dul426/police_on_video_shot_protester_directly_in_the/&text=Yvan888在2019-11-11~2019-11-17的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/China/comments/dul426/police_on_video_shot_protester_directly_in_the/&title=Yvan888在2019-11-11~2019-11-17的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/China/comments/dul426/police_on_video_shot_protester_directly_in_the/&title=Yvan888在2019-11-11~2019-11-17的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Yvan888在2019-11-11~2019-11-17的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/China/comments/dul426/police_on_video_shot_protester_directly_in_the/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/China/comments/dul426/police_on_video_shot_protester_directly_in_the/&title=Yvan888在2019-11-11~2019-11-17的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Yvan888在2019-11-11~2019-11-17的言论&url=https://old.reddit.com/r/China/comments/dul426/police_on_video_shot_protester_directly_in_the/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Yvan888在2019-11-11~2019-11-17的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2019-11-11
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://www.reddit.com/user/Yvan888/" style="font-size:14px;">作者: Yvan888</a>
+        </span>
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/China/comments/dul426/police_on_video_shot_protester_directly_in_the/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#647-police-on-video-shot-protester-directly-in-the-abdomen-fires-at-2-times-more-at-others-submitted-on-2019-11-11-0941530800" id="markdown-toc-647-police-on-video-shot-protester-directly-in-the-abdomen-fires-at-2-times-more-at-others-submitted-on-2019-11-11-0941530800">647: Police on video shot protester directly in the abdomen, fires at 2 times more at others, submitted on 2019-11-11 09:41:53+08:00.</a></li>
+  <li><a href="#648-chinese-reply-fragmented-words-in-comments-to-resemble-glory-to-hongkong-in-one-of-the-largest-website-in-mainland-china-submitted-on-2019-11-11-1113110800" id="markdown-toc-648-chinese-reply-fragmented-words-in-comments-to-resemble-glory-to-hongkong-in-one-of-the-largest-website-in-mainland-china-submitted-on-2019-11-11-1113110800">648: Chinese reply fragmented words in comments to resemble “Glory to HongKong” in one of the largest website in mainland China., submitted on 2019-11-11 11:13:11+08:00.</a></li>
+  <li><a href="#649-hk-police-officer-attempts-to-dispel-protesters-by-driving-at-them-with-motorcycle-submitted-on-2019-11-11-1135030800" id="markdown-toc-649-hk-police-officer-attempts-to-dispel-protesters-by-driving-at-them-with-motorcycle-submitted-on-2019-11-11-1135030800">649: HK Police officer attempts to dispel protesters by driving at them with motorcycle, submitted on 2019-11-11 11:35:03+08:00.</a></li>
+  <li><a href="#650-港警開火放3槍西灣河1人重傷-submitted-on-2019-11-11-1302420800" id="markdown-toc-650-港警開火放3槍西灣河1人重傷-submitted-on-2019-11-11-1302420800">650: 港警開火放3槍：西灣河1人重傷, submitted on 2019-11-11 13:02:42+08:00.</a></li>
+  <li><a href="#651-a-hong-kong-man-was-lit-on-fire-submitted-on-2019-11-11-1500260800" id="markdown-toc-651-a-hong-kong-man-was-lit-on-fire-submitted-on-2019-11-11-1500260800">651: a Hong Kong man was lit on fire, submitted on 2019-11-11 15:00:26+08:00.</a></li>
+  <li><a href="#652-有没有在香港的网友香港民意现在究竟是怎样-submitted-on-2019-11-11-1800460800" id="markdown-toc-652-有没有在香港的网友香港民意现在究竟是怎样-submitted-on-2019-11-11-1800460800">652: 有没有在香港的网友，香港民意现在究竟是怎样？, submitted on 2019-11-11 18:00:46+08:00.</a></li>
+  <li><a href="#653-my-great-grandfather-lived-in-beijing-from-1922-1924-found-photos-submitted-on-2019-11-11-1846520800" id="markdown-toc-653-my-great-grandfather-lived-in-beijing-from-1922-1924-found-photos-submitted-on-2019-11-11-1846520800">653: My great grandfather lived in Beijing from 1922-1924. Found photos., submitted on 2019-11-11 18:46:52+08:00.</a></li>
+  <li><a href="#654-16-inch-macbook-pro-debut-likely-this-week-as-apple-appears-to-be-holding-private-press-briefings-submitted-on-2019-11-12-0229580800" id="markdown-toc-654-16-inch-macbook-pro-debut-likely-this-week-as-apple-appears-to-be-holding-private-press-briefings-submitted-on-2019-11-12-0229580800">654: 16-inch MacBook Pro debut likely this week as Apple appears to be holding private press briefings, submitted on 2019-11-12 02:29:58+08:00.</a></li>
+  <li><a href="#655-china-censors-edward-snowdens-new-book---he-responds-by-posting-every-censored-part-submitted-on-2019-11-12-1352590800" id="markdown-toc-655-china-censors-edward-snowdens-new-book---he-responds-by-posting-every-censored-part-submitted-on-2019-11-12-1352590800">655: China censors Edward Snowden’s new book - he responds by posting every censored part, submitted on 2019-11-12 13:52:59+08:00.</a></li>
+  <li><a href="#656-斯诺登的新书中文版遭大量删减-submitted-on-2019-11-12-2139150800" id="markdown-toc-656-斯诺登的新书中文版遭大量删减-submitted-on-2019-11-12-2139150800">656: 斯诺登的新书中文版遭大量删减, submitted on 2019-11-12 21:39:15+08:00.</a></li>
+  <li><a href="#657-请问youtube怎么也在搞言论审查起来了写出共匪这两个字就会被自动删除你们有没有这种情况-submitted-on-2019-11-13-0042380800" id="markdown-toc-657-请问youtube怎么也在搞言论审查起来了写出共匪这两个字就会被自动删除你们有没有这种情况-submitted-on-2019-11-13-0042380800">657: 请问YouTube怎么也在搞言论审查起来了？写出“共匪”这两个字就会被自动删除，你们有没有这种情况？, submitted on 2019-11-13 00:42:38+08:00.</a></li>
+  <li><a href="#658-man-refuses-to-believe-rowan-atkinson-is-mr-bean-submitted-on-2019-11-13-0200130800" id="markdown-toc-658-man-refuses-to-believe-rowan-atkinson-is-mr-bean-submitted-on-2019-11-13-0200130800">658: Man refuses to believe Rowan Atkinson is Mr. Bean, submitted on 2019-11-13 02:00:13+08:00.</a></li>
+  <li><a href="#659-本学生关于这段时间香港发生的事情的一些理解不知对不对-submitted-on-2019-11-13-2017260800" id="markdown-toc-659-本学生关于这段时间香港发生的事情的一些理解不知对不对-submitted-on-2019-11-13-2017260800">659: 本学生关于这段时间香港发生的事情的一些理解，不知对不对, submitted on 2019-11-13 20:17:26+08:00.</a></li>
+  <li><a href="#660-翻译-translation-thread-2019-11-13-submitted-on-2019-11-13-2304290800" id="markdown-toc-660-翻译-translation-thread-2019-11-13-submitted-on-2019-11-13-2304290800">660: 翻译 Translation Thread! 2019-11-13, submitted on 2019-11-13 23:04:29+08:00.</a></li>
+  <li><a href="#661-想问一下大家会如何在国内网上评论一些事情-submitted-on-2019-11-14-0853070800" id="markdown-toc-661-想问一下大家会如何在国内网上评论一些事情-submitted-on-2019-11-14-0853070800">661: 想问一下，大家会如何在国内网上评论一些事情？, submitted on 2019-11-14 08:53:07+08:00.</a></li>
+  <li><a href="#662-这里有多少去过香港的印象如何对你在香港议题上的看法有影响吗-submitted-on-2019-11-14-1222270800" id="markdown-toc-662-这里有多少去过香港的印象如何对你在香港议题上的看法有影响吗-submitted-on-2019-11-14-1222270800">662: 这里有多少去过香港的？印象如何，对你在香港议题上的看法有影响吗, submitted on 2019-11-14 12:22:27+08:00.</a></li>
+  <li><a href="#663-chinese-students-in-korea-triggered-by-hk-posters-and-decide-to-project-their-soft-power-by-writing-stuff-like-dokdo-belongs-to-japan-and-theyre-against-koreas-independance-from-north-korea-submitted-on-2019-11-14-2116290800" id="markdown-toc-663-chinese-students-in-korea-triggered-by-hk-posters-and-decide-to-project-their-soft-power-by-writing-stuff-like-dokdo-belongs-to-japan-and-theyre-against-koreas-independance-from-north-korea-submitted-on-2019-11-14-2116290800">663: Chinese students in Korea triggered by HK posters and decide to project their soft power by writing stuff like “Dokdo belongs to Japan” and they’re against Korea’s independance from North Korea., submitted on 2019-11-14 21:16:29+08:00.</a></li>
+  <li><a href="#664-请允许我介绍一下我自己-submitted-on-2019-11-14-2253010800" id="markdown-toc-664-请允许我介绍一下我自己-submitted-on-2019-11-14-2253010800">664: 请允许我介绍一下我自己。。。, submitted on 2019-11-14 22:53:01+08:00.</a></li>
+  <li><a href="#665-china-completes-crucial-landing-test-for-first-mars-mission-in-2020-submitted-on-2019-11-14-2300440800" id="markdown-toc-665-china-completes-crucial-landing-test-for-first-mars-mission-in-2020-submitted-on-2019-11-14-2300440800">665: China completes crucial landing test for first Mars mission in 2020, submitted on 2019-11-14 23:00:44+08:00.</a></li>
+  <li><a href="#666-time-to-stop-referring-to-xi-as-president-it-should-be-chairman-or-general-secretary-submitted-on-2019-11-15-0015230800" id="markdown-toc-666-time-to-stop-referring-to-xi-as-president-it-should-be-chairman-or-general-secretary-submitted-on-2019-11-15-0015230800">666: Time to stop referring to Xi as president, it should be chairman or general secretary., submitted on 2019-11-15 00:15:23+08:00.</a></li>
+  <li><a href="#667-hong-kong-protests-70-year-old-man-hit-by-brick-during-clashes-in-sheung-shui-dies-in-hospital-submitted-on-2019-11-15-0056000800" id="markdown-toc-667-hong-kong-protests-70-year-old-man-hit-by-brick-during-clashes-in-sheung-shui-dies-in-hospital-submitted-on-2019-11-15-0056000800">667: Hong Kong protests: 70-year-old man hit by brick during clashes in Sheung Shui dies in hospital, submitted on 2019-11-15 00:56:00+08:00.</a></li>
+  <li><a href="#668-ohio-house-passes-bill-allowing-student-answers-to-be-scientifically-wrong-due-to-religion-submitted-on-2019-11-15-0233080800" id="markdown-toc-668-ohio-house-passes-bill-allowing-student-answers-to-be-scientifically-wrong-due-to-religion-submitted-on-2019-11-15-0233080800">668: Ohio House passes bill allowing student answers to be scientifically wrong due to religion, submitted on 2019-11-15 02:33:08+08:00.</a></li>
+  <li><a href="#669-rip-被砖头砸中的老人不治身亡-submitted-on-2019-11-15-0539280800" id="markdown-toc-669-rip-被砖头砸中的老人不治身亡-submitted-on-2019-11-15-0539280800">669: R.I.P 被砖头砸中的老人不治身亡, submitted on 2019-11-15 05:39:28+08:00.</a></li>
+  <li><a href="#670-chinese-embassy-has-threatened-swedish-government-with-consequenses-if-they-attend-the-prize-ceremony-of-a-chinese-activist-swedish-officials-have-announced-that-they-will-not-succumb-to-these-threats-submitted-on-2019-11-15-1935000800" id="markdown-toc-670-chinese-embassy-has-threatened-swedish-government-with-consequenses-if-they-attend-the-prize-ceremony-of-a-chinese-activist-swedish-officials-have-announced-that-they-will-not-succumb-to-these-threats-submitted-on-2019-11-15-1935000800">670: Chinese embassy has threatened Swedish government with “consequenses” if they attend the prize ceremony of a chinese activist. Swedish officials have announced that they will not succumb to these threats., submitted on 2019-11-15 19:35:00+08:00.</a></li>
+  <li><a href="#671-香港人權法案參院啟動最快本月完成立法習近平指平亂是香港最緊迫任務美國uscc警告中共出兵立即取消香港特殊經濟地位獨家分析香港壓力模型-submitted-on-2019-11-15-2002350800" id="markdown-toc-671-香港人權法案參院啟動最快本月完成立法習近平指平亂是香港最緊迫任務美國uscc警告中共出兵立即取消香港特殊經濟地位獨家分析香港壓力模型-submitted-on-2019-11-15-2002350800">671: 香港人權法案參院啟動，最快本月完成立法！習近平指平亂是香港“最緊迫”任務，美國USCC警告：中共出兵，立即取消香港特殊經濟地位！獨家分析：香港壓力模型, submitted on 2019-11-15 20:02:35+08:00.</a></li>
+  <li><a href="#672-台湾价值台湾民族和台湾独立-submitted-on-2019-11-15-2248530800" id="markdown-toc-672-台湾价值台湾民族和台湾独立-submitted-on-2019-11-15-2248530800">672: 台湾价值，台湾民族和台湾独立, submitted on 2019-11-15 22:48:53+08:00.</a></li>
+  <li><a href="#673-this-is-why-a-conflict-between-china-and-america-could-quickly-spiral-out-of-control-submitted-on-2019-11-16-0003340800" id="markdown-toc-673-this-is-why-a-conflict-between-china-and-america-could-quickly-spiral-out-of-control-submitted-on-2019-11-16-0003340800">673: This Is Why A Conflict Between China and America Could Quickly Spiral Out Of Control, submitted on 2019-11-16 00:03:34+08:00.</a></li>
+  <li><a href="#674-trump-associate-roger-stone-has-been-found-guilty-submitted-on-2019-11-16-0053390800" id="markdown-toc-674-trump-associate-roger-stone-has-been-found-guilty-submitted-on-2019-11-16-0053390800">674: Trump associate Roger Stone has been found guilty, submitted on 2019-11-16 00:53:39+08:00.</a></li>
+  <li><a href="#675-突發駐港中共解放軍下午突衝出軍營-九龍塘清理路障傳媒追訪答不要問了-不需要採訪-submitted-on-2019-11-16-1955440800" id="markdown-toc-675-突發駐港中共解放軍下午突衝出軍營-九龍塘清理路障傳媒追訪答不要問了-不需要採訪-submitted-on-2019-11-16-1955440800">675: 突發：駐港中共解放軍下午突衝出軍營 九龍塘清理路障傳媒追訪答：不要問了！ 不需要採訪！, submitted on 2019-11-16 19:55:44+08:00.</a></li>
+  <li><a href="#676-weekly-rchina-discussion-thread---november-17-2019-submitted-on-2019-11-17-0005080800" id="markdown-toc-676-weekly-rchina-discussion-thread---november-17-2019-submitted-on-2019-11-17-0005080800">676: Weekly /r/China Discussion Thread - November 17, 2019, submitted on 2019-11-17 00:05:08+08:00.</a></li>
+  <li><a href="#677-is-there-an-app-for-that-submitted-on-2019-11-17-0457460800" id="markdown-toc-677-is-there-an-app-for-that-submitted-on-2019-11-17-0457460800">677: Is there an app for that!?!?, submitted on 2019-11-17 04:57:46+08:00.</a></li>
+  <li><a href="#678-muslim-students-in-china-returned-home-to-find-loved-ones-had-vanished-into-camps-for-thinking-unhealthy-thoughts-leaked-documents-reveal-freedom-is-only-possible-when-the-virus-in-their-thinking-is-eradicated-submitted-on-2019-11-17-2302130800" id="markdown-toc-678-muslim-students-in-china-returned-home-to-find-loved-ones-had-vanished-into-camps-for-thinking-unhealthy-thoughts-leaked-documents-reveal-freedom-is-only-possible-when-the-virus-in-their-thinking-is-eradicated-submitted-on-2019-11-17-2302130800">678: Muslim students in China returned home to find loved ones had vanished into camps for thinking ‘unhealthy thoughts’, leaked documents reveal. ‘Freedom is only possible when the ‘virus’ in their thinking is eradicated’., submitted on 2019-11-17 23:02:13+08:00.</a></li>
+</ul>
+
+<h3 id="647-police-on-video-shot-protester-directly-in-the-abdomen-fires-at-2-times-more-at-others-submitted-on-2019-11-11-0941530800">647: <a href="https://old.reddit.com/r/China/comments/dul426/police_on_video_shot_protester_directly_in_the/">Police on video shot protester directly in the abdomen, fires at 2 times more at others</a>, submitted on 2019-11-11 09:41:53+08:00.</h3>
+
+<p>—– <strong>647.1</strong> —–2019-11-11 12:07:35+08:00:</p>
+
+<p>tbh not that quick</p>
+
+<p>The protest has been for months</p>
+
+<h3 id="648-chinese-reply-fragmented-words-in-comments-to-resemble-glory-to-hongkong-in-one-of-the-largest-website-in-mainland-china-submitted-on-2019-11-11-1113110800">648: <a href="https://old.reddit.com/r/China/comments/dum9zf/chinese_reply_fragmented_words_in_comments_to/">Chinese reply fragmented words in comments to resemble “Glory to HongKong” in one of the largest website in mainland China.</a>, submitted on 2019-11-11 11:13:11+08:00.</h3>
+
+<p>—– <strong>648.1</strong> —–2019-11-11 22:17:10+08:00:</p>
+
+<p>“Typos” *</p>
+
+<p>—– <strong>648.2</strong> —–2019-11-11 22:17:41+08:00:</p>
+
+<p>It’s</p>
+
+<p>—– <strong>648.3</strong> —–2019-11-11 22:18:52+08:00:</p>
+
+<p>I heard that they’re three inharmonious groups were blocked in douban</p>
+
+<h3 id="649-hk-police-officer-attempts-to-dispel-protesters-by-driving-at-them-with-motorcycle-submitted-on-2019-11-11-1135030800">649: <a href="https://old.reddit.com/r/China/comments/dumjp4/hk_police_officer_attempts_to_dispel_protesters/">HK Police officer attempts to dispel protesters by driving at them with motorcycle</a>, submitted on 2019-11-11 11:35:03+08:00.</h3>
+
+<p>—– <strong>649.1</strong> —–2019-11-11 18:34:18+08:00:</p>
+
+<p>tbh nowadays I more and more doubt the credibility of the number of upvotes on Weibo and Tik Tok on these related incidents</p>
+
+<p>The government can easily fake the comment a and upvotes given their total control ability to produce a plausible supporting-government environment and put the people to their side. We can see enormous examples under XJP-related contents.</p>
+
+<p>But, of course, by my understanding of the great amount of Chinese nationalists, I wouldn’t be surprised if they’re true</p>
+
+<h3 id="650-港警開火放3槍西灣河1人重傷-submitted-on-2019-11-11-1302420800">650: <a href="https://old.reddit.com/r/China_irl/comments/dunkcs/港警開火放3槍西灣河1人重傷/">港警開火放3槍：西灣河1人重傷</a>, submitted on 2019-11-11 13:02:42+08:00.</h3>
+
+<p>—– <strong>650.1</strong> —–2019-11-11 19:43:25+08:00:</p>
+
+<p>百姓持枪是为了当政府被大多数不满意时 能推翻政府</p>
+
+<p>—– <strong>650.2</strong> —–2019-11-11 19:45:35+08:00:</p>
+
+<p>我也觉得还没到要掏枪的程度</p>
+
+<p>有点太急</p>
+
+<p>—– <strong>650.3</strong> —–2019-11-11 20:06:52+08:00:</p>
+
+<p>根据<a href="https://youtu.be/oBokOcku_N0">bbc视频</a> ，就目前所知道的信息看</p>
+
+<p>对第一个白衣人，因其无任何的生命威胁性和强烈进攻意图，没必要拔枪</p>
+
+<p>对第二个黑衣人，因其有抢枪企图，有射击的正当性</p>
+
+<p>—– <strong>650.4</strong> —–2019-11-12 01:04:24+08:00:</p>
+
+<p>那是因为第二修正案时是枪支为主流 是有其历史沿革的</p>
+
+<p>而且 不会说政府有核弹 你要每个人都有核弹吧？</p>
+
+<p>说出“让人民持枪为了更好打击人民”这种话 你只是为了反而反而已</p>
+
+<h3 id="651-a-hong-kong-man-was-lit-on-fire-submitted-on-2019-11-11-1500260800">651: <a href="https://old.reddit.com/r/China/comments/duoqhz/a_hong_kong_man_was_lit_on_fire/">a Hong Kong man was lit on fire</a>, submitted on 2019-11-11 15:00:26+08:00.</h3>
+
+<p>—– <strong>651.1</strong> —–2019-11-11 20:29:21+08:00:</p>
+
+<p>It happens when the people cannot discuss issues and change the society via official channels which should be provided by the government</p>
+
+<h3 id="652-有没有在香港的网友香港民意现在究竟是怎样-submitted-on-2019-11-11-1800460800">652: <a href="https://old.reddit.com/r/China_irl/comments/duqcqj/有没有在香港的网友香港民意现在究竟是怎样/">有没有在香港的网友，香港民意现在究竟是怎样？</a>, submitted on 2019-11-11 18:00:46+08:00.</h3>
+
+<p>—– <strong>652.1</strong> —–2019-11-11 19:56:24+08:00:</p>
+
+<p>听闻黄蓝立场 有很多港人因此人际关系剧变 是这样吗？</p>
+
+<p>—– <strong>652.2</strong> —–2019-11-11 20:11:09+08:00:</p>
+
+<p>Make sense</p>
+
+<p>我家有人在香港 听闻很多亲人好友不再来往</p>
+
+<p>年轻人有蓝的是不是非常少？</p>
+
+<p>我认识的香港年轻人有蓝的 但怀疑他不会在大多数香港人面前表态</p>
+
+<p>—– <strong>652.3</strong> —–2019-11-11 20:13:16+08:00:</p>
+
+<p>不如说 从一开始部分建制派和全体陆媒 把五大诉求等同于港独时 就已经想往敌我矛盾方面走了</p>
+
+<p>—– <strong>652.4</strong> —–2019-11-12 01:02:21+08:00:</p>
+
+<p>泛民本质就是跟中共就无法共存啊……我何时否认过？</p>
+
+<p>—– <strong>652.5</strong> —–2019-11-12 02:25:54+08:00:</p>
+
+<blockquote>
+  <p>我反而覺得是中共覺得泛民無法與他共存</p>
+</blockquote>
+
+<p>That’s true</p>
+
+<p><a href="https://www.reddit.com/r/China_irl/comments/dtehvc/为什么网上大部分中国人都支持六四事件政府处理事件的做法而官方却不让中国人讨论接机来一波警惕颜色革命的/f6wglum?utm_source=share&amp;utm_medium=web2x">my previous comment</a></p>
+
+<h3 id="653-my-great-grandfather-lived-in-beijing-from-1922-1924-found-photos-submitted-on-2019-11-11-1846520800">653: <a href="https://old.reddit.com/r/China/comments/duqrni/my_great_grandfather_lived_in_beijing_from/">My great grandfather lived in Beijing from 1922-1924. Found photos.</a>, submitted on 2019-11-11 18:46:52+08:00.</h3>
+
+<p>—– <strong>653.1</strong> —–2019-11-11 22:15:12+08:00:</p>
+
+<p>I really like the combination of Western hat and Chinese style clothes ￼￼</p>
+
+<h3 id="654-16-inch-macbook-pro-debut-likely-this-week-as-apple-appears-to-be-holding-private-press-briefings-submitted-on-2019-11-12-0229580800">654: <a href="https://old.reddit.com/r/apple/comments/duwkbo/16inch_macbook_pro_debut_likely_this_week_as/">16-inch MacBook Pro debut likely this week as Apple appears to be holding private press briefings</a>, submitted on 2019-11-12 02:29:58+08:00.</h3>
+
+<p>—– <strong>654.1</strong> —–2019-11-12 06:30:07+08:00:</p>
+
+<p>Keep hooking</p>
+
+<h3 id="655-china-censors-edward-snowdens-new-book---he-responds-by-posting-every-censored-part-submitted-on-2019-11-12-1352590800">655: <a href="https://old.reddit.com/r/China/comments/dv5q8o/china_censors_edward_snowdens_new_book_he/">China censors Edward Snowden’s new book - he responds by posting every censored part</a>, submitted on 2019-11-12 13:52:59+08:00.</h3>
+
+<p>—– <strong>655.1</strong> —–2019-11-12 22:07:17+08:00:</p>
+
+<p>The Chinese government censorship can ALWAYS help me find the good stuffs, no matter it’s political documents, sensitive books, movies, or animes</p>
+
+<p>Thanks XD</p>
+
+<p>—– <strong>655.2</strong> —–2019-11-12 22:12:15+08:00:</p>
+
+<p>I’m not sure whether I didn’t express it clearly​ but try one more time.</p>
+
+<p>Wumao understand Snowden is the opposite of China’s government’s behaviors</p>
+
+<p>They are happy because they think it shows the double standard and hypocrisy of the US</p>
+
+<p><em>China has censorship but it always claims it has censorship so China is sincere</em></p>
+
+<p>VS</p>
+
+<p><em>The US also has censorship but they always act like the fighter of the freedom of speech so the US is evil</em></p>
+
+<h3 id="656-斯诺登的新书中文版遭大量删减-submitted-on-2019-11-12-2139150800">656: <a href="https://old.reddit.com/r/China_irl/comments/dva3i7/斯诺登的新书中文版遭大量删减/">斯诺登的新书中文版遭大量删减</a>, submitted on 2019-11-12 21:39:15+08:00.</h3>
+
+<p>—– <strong>656.1</strong> —–2019-11-12 22:25:56+08:00:</p>
+
+<p>你有点帮别人加戏</p>
+
+<h3 id="657-请问youtube怎么也在搞言论审查起来了写出共匪这两个字就会被自动删除你们有没有这种情况-submitted-on-2019-11-13-0042380800">657: <a href="https://old.reddit.com/r/China_irl/comments/dvci7v/请问youtube怎么也在搞言论审查起来了写出共匪这两个字就会被自动删除你们有没有这种情况/">请问YouTube怎么也在搞言论审查起来了？写出“共匪”这两个字就会被自动删除，你们有没有这种情况？</a>, submitted on 2019-11-13 00:42:38+08:00.</h3>
+
+<p>—– <strong>657.1</strong> —–2019-11-13 03:01:18+08:00:</p>
+
+<p>其实大部分推特和油管上的控评都是智能的</p>
+
+<p>一是vpn问题会认为你是bot</p>
+
+<p>二是可能用词太激进</p>
+
+<p>可笑的是</p>
+
+<p>部分陆人认为推特油管跟西方合作，助纣为虐</p>
+
+<p>部分西人认为推特油管跟中共合作，助纣为虐</p>
+
+<p>funny</p>
+
+<p>—– <strong>657.2</strong> —–2019-11-14 09:39:30+08:00:</p>
+
+<p>据我所知 好像那段时间香港问题特别多 有很多短时间新设立的账号在发布香港内容 西方这边认为是中共搞鬼 就设计了新算法封账号</p>
+
+<p>我不知道你这个是什么原因 如果是一直没有关注政治 突然参与 也有可能那段时间会被算法打入冷宫？</p>
+
+<p>不过我自己也不清楚其中的运行机制 如果说西方不公平操作 那也不是没可能的事情</p>
+
+<h3 id="658-man-refuses-to-believe-rowan-atkinson-is-mr-bean-submitted-on-2019-11-13-0200130800">658: <a href="https://old.reddit.com/r/dontyouknowwhoiam/comments/dvdmiz/man_refuses_to_believe_rowan_atkinson_is_mr_bean/">Man refuses to believe Rowan Atkinson is Mr. Bean</a>, submitted on 2019-11-13 02:00:13+08:00.</h3>
+
+<p>—– <strong>658.1</strong> —–2019-11-13 10:59:24+08:00:</p>
+
+<p>Is he a stutter?</p>
+
+<p><a href="https://www.stutteringhelp.org/content/who-knew-mr-bean#">source</a></p>
+
+<h3 id="659-本学生关于这段时间香港发生的事情的一些理解不知对不对-submitted-on-2019-11-13-2017260800">659: <a href="https://old.reddit.com/r/China_irl/comments/dvqxky/本学生关于这段时间香港发生的事情的一些理解不知对不对/">本学生关于这段时间香港发生的事情的一些理解，不知对不对</a>, submitted on 2019-11-13 20:17:26+08:00.</h3>
+
+<p>—– <strong>659.1</strong> —–2019-11-14 06:52:21+08:00:</p>
+
+<p>只有瞎的人才会认为五大是港独</p>
+
+<p>不过港独的确也不是没有 大概2010年前后出现的 但还不是被逼的吗？</p>
+
+<p>现在港独仍是极小数 这次过后 就等着吧</p>
+
+<p>要我说还是挺活该的 一天到晚问中国为什么这么多问题 也不想想这些问题是不是自己造成的</p>
+
+<p>—– <strong>659.2</strong> —–2019-11-14 06:53:20+08:00:</p>
+
+<p>新词一套套 新瓶装旧酒</p>
+
+<h3 id="660-翻译-translation-thread-2019-11-13-submitted-on-2019-11-13-2304290800">660: <a href="https://old.reddit.com/r/ChineseLanguage/comments/dvszyn/翻译_translation_thread_20191113/">翻译 Translation Thread! 2019-11-13</a>, submitted on 2019-11-13 23:04:29+08:00.</h3>
+
+<p>—– <strong>660.1</strong> —–2019-11-15 09:56:58+08:00:</p>
+
+<p>外饰 literally <em>Exterior decoration</em></p>
+
+<p>—– <strong>660.2</strong> —–2019-11-15 09:57:35+08:00:</p>
+
+<p>不幸</p>
+
+<p>—– <strong>660.3</strong> —–2019-11-15 10:00:56+08:00:</p>
+
+<p><del>rèn aì jiāo</del></p>
+
+<p>rén aì jiāo</p>
+
+<p>Maybe you can go to some pronunciation websites for voice?</p>
+
+<p>I don’t see this name has any special meaning, 娇 roughly means <em>tender</em></p>
+
+<h3 id="661-想问一下大家会如何在国内网上评论一些事情-submitted-on-2019-11-14-0853070800">661: <a href="https://old.reddit.com/r/China_irl/comments/dw1kui/想问一下大家会如何在国内网上评论一些事情/">想问一下，大家会如何在国内网上评论一些事情？</a>, submitted on 2019-11-14 08:53:07+08:00.</h3>
+
+<p>—– <strong>661.1</strong> —–2019-11-14 11:24:25+08:00:</p>
+
+<p>说来惭愧 我并没混过虎扑 更别提防区了</p>
+
+<p>—– <strong>661.2</strong> —–2019-11-14 19:54:28+08:00:</p>
+
+<p>试问永封后有可能开另一个账号吗？因为现在账号都跟个人信息如手机等绑定</p>
+
+<p>—– <strong>661.3</strong> —–2019-11-14 19:57:11+08:00:</p>
+
+<p>我以前也差不定</p>
+
+<p>现在就禁1-3天</p>
+
+<p>现在也少说了</p>
+
+<p>一是 还是免得留太多案底 上面现在对信息的保留很严重</p>
+
+<p>二是 说透被封 不说透又隔靴搔痒 没意思</p>
+
+<p>—– <strong>661.4</strong> —–2019-11-20 09:32:53+08:00:</p>
+
+<p>最近是香港有关</p>
+
+<p>其实没怎么发</p>
+
+<p>就说了句“国内民族情绪很严重”都被删</p>
+
+<h3 id="662-这里有多少去过香港的印象如何对你在香港议题上的看法有影响吗-submitted-on-2019-11-14-1222270800">662: <a href="https://old.reddit.com/r/China_irl/comments/dw44wx/这里有多少去过香港的印象如何对你在香港议题上的看法有影响吗/">这里有多少去过香港的？印象如何，对你在香港议题上的看法有影响吗</a>, submitted on 2019-11-14 12:22:27+08:00.</h3>
+
+<p>—– <strong>662.1</strong> —–2019-11-15 00:23:19+08:00:</p>
+
+<p>说得别人白拿一样 wth</p>
+
+<p>—– <strong>662.2</strong> —–2019-11-15 00:28:38+08:00:</p>
+
+<p>我会粤语</p>
+
+<p>去香港起码十次 印象一直都不错 非常有国际化的味道（文化/语言/政策/等）</p>
+
+<p>再加上个人非常喜欢赛博朋克的城市构造 辨识度很高（相反 有些内地朋友不喜欢香港是因为感觉乱糟糟的）</p>
+
+<p>不过港人也的确有股戾气和小市民气 文化和地域原因都有</p>
+
+<p>虽然我个人没受过什么歧视 按照我观察身边讲国语的游客也不会被特殊对待 但是我也不想以偏概全 毕竟看看香港本地论坛那一声声“支那” 可想而知部分人的确很恶心中国（文化上、制度上、价值观上等…虽然我觉得制度上那part可以理解）</p>
+
+<p>不过有时候对于部分的服务粗燥也没必要过于敏感 毕竟他们对包括内地人都这样 节奏超快 生活艰难 几十年如一日 不是不能理解</p>
+
+<p>—– <strong>662.3</strong> —–2019-11-15 23:03:29+08:00:</p>
+
+<p>蝗虫远比不上支那好吗？</p>
+
+<p>支那是有历史性的蔑称，而且打击面是全部华人，跟N-word是一样的</p>
+
+<p>蝗虫更多是指自由行的旅客，当然，也有延伸到全世界的国人旅客，但不是主要涵义</p>
+
+<p>而且，国人旅客也的确很多行为不妥当，这又不是香港一家是这样认为的，差不多全世界都这样看，只是不说而已。喊蝗虫是不应该，但国人素质也要自己提高</p>
+
+<p>—– <strong>662.4</strong> —–2019-11-16 03:47:08+08:00:</p>
+
+<p>这个“优惠政策”呢…其实众说纷纭，大陆宣传是一直在让利，但香港部分人可不这么认为，比如<a href="https://youtu.be/VJ74LTGJ-58">这个</a>。</p>
+
+<p>具体计算我没研究过，但即使是让利，又如何？难道你吃泰国米，甚至泰国免费供你米，你就不追求自己想要的东西了吗？</p>
+
+<p>另外，香港人的确有部分人有优越感，但这次诉求跟优越感又有何关？你何时明白，其实挑拨陆港关系的，恰恰是很多陆媒？</p>
+
+<p>—– <strong>662.5</strong> —–2019-11-16 09:29:43+08:00:</p>
+
+<p>你只看到嘲讽大陆的香港人</p>
+
+<p>你可曾看到 旅游时用着半生不熟的国语努力指路的香港人？</p>
+
+<p>你可曾看到 汶川地震捐款的香港人？</p>
+
+<p>你可曾看到 每年纪念六四的香港人？</p>
+
+<p>你又可曾知道 改革开放早期 许多商业模式和规则都是香港帮助引进的 直到今天 香港作为国际贸易港 还是中共的白手套 从自由世界源源不断地获取资源</p>
+
+<p>国内打开网站 南北对骂也是昏天暗地 怎么到了香港这里就特殊了？大家发展阶段不同 价值观不同 更多摩擦本应是应当理解之事 如何不能包容？</p>
+
+<p>国内宣传 一天到晚就把这些不和谐事情放大 虽然香港的部分媒体如苹果也彼此彼此 但很可惜 中间派根本就被两边政治阻碍 无法消融恶感</p>
+
+<p>我很明显感觉到 2014年占中后 陆媒就开始不断集中说香港人如何优越感 虽然这么说有点阴谋论 但是我认为有舆论战的嫌疑</p>
+
+<p>—– <strong>662.6</strong> —–2019-11-16 10:21:25+08:00:</p>
+
+<p>一句话 港人是部分人有优越感 但我不认为很严重 更不认为是什么大问题 over</p>
+
+<h3 id="663-chinese-students-in-korea-triggered-by-hk-posters-and-decide-to-project-their-soft-power-by-writing-stuff-like-dokdo-belongs-to-japan-and-theyre-against-koreas-independance-from-north-korea-submitted-on-2019-11-14-2116290800">663: <a href="https://old.reddit.com/r/China/comments/dw9eis/chinese_students_in_korea_triggered_by_hk_posters/">Chinese students in Korea triggered by HK posters and decide to project their soft power by writing stuff like “Dokdo belongs to Japan” and they’re against Korea’s independance from North Korea.</a>, submitted on 2019-11-14 21:16:29+08:00.</h3>
+
+<p>—– <strong>663.1</strong> —–2019-11-15 07:54:06+08:00:</p>
+
+<p>I heard the young generation has changed a lot</p>
+
+<h3 id="664-请允许我介绍一下我自己-submitted-on-2019-11-14-2253010800">664: <a href="https://old.reddit.com/r/ChineseLanguage/comments/dwak6g/请允许我介绍一下我自己/">请允许我介绍一下我自己。。。</a>, submitted on 2019-11-14 22:53:01+08:00.</h3>
+
+<p>—– <strong>664.1</strong> —–2019-11-15 01:16:18+08:00:</p>
+
+<p>Is this the equivalent of <em>ok boomer</em>? A satire?</p>
+
+<p>—– <strong>664.2</strong> —–2019-11-15 01:17:02+08:00:</p>
+
+<p>请问KTV在西方火吗？</p>
+
+<p>—– <strong>664.3</strong> —–2019-11-15 05:53:51+08:00:</p>
+
+<p>我也觉得不火，哈哈，不过我有一个美国教授说他最喜欢KTV，很迷。</p>
+
+<p>感觉KTV应该挺符合西方人性格的，也不知道为啥不火？以前德国朋友说，一起去唱歌太害羞 🤦‍♂️</p>
+
+<h3 id="665-china-completes-crucial-landing-test-for-first-mars-mission-in-2020-submitted-on-2019-11-14-2300440800">665: <a href="https://old.reddit.com/r/tech/comments/dwanqi/china_completes_crucial_landing_test_for_first/">China completes crucial landing test for first Mars mission in 2020</a>, submitted on 2019-11-14 23:00:44+08:00.</h3>
+
+<p>—– <strong>665.1</strong> —–2019-11-15 15:09:01+08:00:</p>
+
+<p>I mean, this kind of insane race would only happen during Cold War, even if Sino-US nowadays becomes more and more rival, but it’s still far away from Cold War</p>
+
+<p>—– <strong>665.2</strong> —–2019-11-15 23:01:49+08:00:</p>
+
+<p>Trade war is more for so-called fair trading but not decoupling, at least up to now</p>
+
+<p>The method is the same</p>
+
+<p>But the motivations behind are the opposite</p>
+
+<h3 id="666-time-to-stop-referring-to-xi-as-president-it-should-be-chairman-or-general-secretary-submitted-on-2019-11-15-0015230800">666: <a href="https://old.reddit.com/r/China/comments/dwbo1p/time_to_stop_referring_to_xi_as_president_it/">Time to stop referring to Xi as president, it should be chairman or general secretary.</a>, submitted on 2019-11-15 00:15:23+08:00.</h3>
+
+<p>—– <strong>666.1</strong> —–2019-11-15 08:18:33+08:00:</p>
+
+<p>I don’t think so</p>
+
+<p><em>Mao</em> is <em>Chairman Mao</em></p>
+
+<h3 id="667-hong-kong-protests-70-year-old-man-hit-by-brick-during-clashes-in-sheung-shui-dies-in-hospital-submitted-on-2019-11-15-0056000800">667: <a href="https://old.reddit.com/r/worldnews/comments/dwc95r/hong_kong_protests_70yearold_man_hit_by_brick/">Hong Kong protests: 70-year-old man hit by brick during clashes in Sheung Shui dies in hospital</a>, submitted on 2019-11-15 00:56:00+08:00.</h3>
+
+<p>—– <strong>667.1</strong> —–2019-11-15 15:01:28+08:00:</p>
+
+<p>Two wrongs get a right?</p>
+
+<h3 id="668-ohio-house-passes-bill-allowing-student-answers-to-be-scientifically-wrong-due-to-religion-submitted-on-2019-11-15-0233080800">668: <a href="https://old.reddit.com/r/news/comments/dwdojt/ohio_house_passes_bill_allowing_student_answers/">Ohio House passes bill allowing student answers to be scientifically wrong due to religion</a>, submitted on 2019-11-15 02:33:08+08:00.</h3>
+
+<p>—– <strong>668.1</strong> —–2019-11-15 13:24:33+08:00:</p>
+
+<p>Can I create a religion by myself so that I can answer whatever and wherever I want cuz all of them are belong to the “bible” written by me?</p>
+
+<h3 id="669-rip-被砖头砸中的老人不治身亡-submitted-on-2019-11-15-0539280800">669: <a href="https://old.reddit.com/r/China_irl/comments/dwgb83/rip_被砖头砸中的老人不治身亡/">R.I.P 被砖头砸中的老人不治身亡</a>, submitted on 2019-11-15 05:39:28+08:00.</h3>
+
+<p>—– <strong>669.1</strong> —–2019-11-15 06:07:45+08:00:</p>
+
+<p>双方一直等对方落入道德洼地</p>
+
+<p>虽然前几天警察部分行为过了线，不过现在看来示威者一方在道德层面上更加维持不了</p>
+
+<p>我认为这是无大台去中心化的一大劣势，即没有领导人约束活动和抓住主导方针，也没有统一口径来为一些行为道歉和谴责，部分地方性的示威者群体极容易做出过激行为，长期来讲概率上会比警方更加容易失控</p>
+
+<p>—– <strong>669.2</strong> —–2019-11-15 06:39:09+08:00:</p>
+
+<p>双方都不可能轻易下场 台阶和沟通平台都早就没了</p>
+
+<p>不过我也不觉得很失控 无论是横比还是纵比</p>
+
+<p>现在 伊拉克 智利 甚至西班牙加泰隆尼亚 法国黄马甲 都是死了十几到几百人不等的 当年港英六七暴动也死了200+人 现在香港这样的伤亡还只是小case</p>
+
+<p>另外 香港这次的行动 尽管带来了部分生活不便 但是也没有造成社会整体失序 恒生指数持平 楼照开 马照跑 舞照跳 罢工行为也没有广泛响应 虽然香港多数人支持这次示威 但没有魄力全部罢工 激进示威者们更多是学生们 罢别人的工 用中共老话说 还没得到工农阶级的全体支持 更别提下一步革命了</p>
+
+<p>—– <strong>669.3</strong> —–2019-11-15 07:12:19+08:00:</p>
+
+<blockquote>
+  <p>諗到可以咁spin</p>
+</blockquote>
+
+<p>连登还真是毒瘤啊 这样打舆论战 终有一天会backfire</p>
+
+<h3 id="670-chinese-embassy-has-threatened-swedish-government-with-consequenses-if-they-attend-the-prize-ceremony-of-a-chinese-activist-swedish-officials-have-announced-that-they-will-not-succumb-to-these-threats-submitted-on-2019-11-15-1935000800">670: <a href="https://old.reddit.com/r/worldnews/comments/dwpjuz/chinese_embassy_has_threatened_swedish_government/">Chinese embassy has threatened Swedish government with “consequenses” if they attend the prize ceremony of a chinese activist. Swedish officials have announced that they will not succumb to these threats.</a>, submitted on 2019-11-15 19:35:00+08:00.</h3>
+
+<p>—– <strong>670.1</strong> —–2019-11-15 23:27:20+08:00:</p>
+
+<p>Do you know how lots of third world countries think of IMF? Which could be replaced by OBOR in your argument?</p>
+
+<h3 id="671-香港人權法案參院啟動最快本月完成立法習近平指平亂是香港最緊迫任務美國uscc警告中共出兵立即取消香港特殊經濟地位獨家分析香港壓力模型-submitted-on-2019-11-15-2002350800">671: <a href="https://old.reddit.com/r/China_irl/comments/dwptq5/香港人權法案參院啟動最快本月完成立法習近平指平亂是香港最緊迫任務美國uscc警告中共出兵立即取消香港/">香港人權法案參院啟動，最快本月完成立法！習近平指平亂是香港“最緊迫”任務，美國USCC警告：中共出兵，立即取消香港特殊經濟地位！獨家分析：香港壓力模型</a>, submitted on 2019-11-15 20:02:35+08:00.</h3>
+
+<p>—– <strong>671.1</strong> —–2019-11-16 04:45:11+08:00:</p>
+
+<p>又把反华跟反共划等号 你立场如何是你自由 但这两个议题客观上就是不一样的</p>
+
+<p>当党的概念锁住了国的概念 甚至中华文明和华人的概念 那不喜欢这个党的人自然谋求高度自治乃至独立咯</p>
+
+<p>其实港人没谁觉得真能成功 只不过就是不爽而已 不然还来<strong>揽炒</strong>一说？</p>
+
+<h3 id="672-台湾价值台湾民族和台湾独立-submitted-on-2019-11-15-2248530800">672: <a href="https://old.reddit.com/r/China_irl/comments/dwrrj7/台湾价值台湾民族和台湾独立/">台湾价值，台湾民族和台湾独立</a>, submitted on 2019-11-15 22:48:53+08:00.</h3>
+
+<p>—– <strong>672.1</strong> —–2019-11-16 04:34:07+08:00:</p>
+
+<p>很正常啊</p>
+
+<p>本来民族这种东西就是半血统半虚构的</p>
+
+<p>人类社会的所有东西 包括 国家 法律 文化 社会关系意识形态等 都是建立在群体的共同想象之上 想象是人类社会发展的源动力</p>
+
+<p>所以 只要大家都信一样东西 那么这个东西就是真的 比如 美利坚民族 中华民族 台湾民族 香港族群 这种完全虚构的东西 跟 汉族 这种血统为基础的概念 还是有点区别</p>
+
+<p>btw 我看过台湾对中国概念的解构的文章 不谈立场的话 还是有一定实力的</p>
+
+<h3 id="673-this-is-why-a-conflict-between-china-and-america-could-quickly-spiral-out-of-control-submitted-on-2019-11-16-0003340800">673: <a href="https://old.reddit.com/r/China/comments/dwss4a/this_is_why_a_conflict_between_china_and_america/">This Is Why A Conflict Between China and America Could Quickly Spiral Out Of Control</a>, submitted on 2019-11-16 00:03:34+08:00.</h3>
+
+<p>—– <strong>673.1</strong> —–2019-11-16 05:08:32+08:00:</p>
+
+<p>Rare insightful analysis in this sub</p>
+
+<p>Thanks</p>
+
+<h3 id="674-trump-associate-roger-stone-has-been-found-guilty-submitted-on-2019-11-16-0053390800">674: <a href="https://old.reddit.com/r/news/comments/dwthfg/trump_associate_roger_stone_has_been_found_guilty/">Trump associate Roger Stone has been found guilty</a>, submitted on 2019-11-16 00:53:39+08:00.</h3>
+
+<p>—– <strong>674.1</strong> —–2019-11-16 04:25:32+08:00:</p>
+
+<p>wth their lips have same color 🧐</p>
+
+<h3 id="675-突發駐港中共解放軍下午突衝出軍營-九龍塘清理路障傳媒追訪答不要問了-不需要採訪-submitted-on-2019-11-16-1955440800">675: <a href="https://old.reddit.com/r/China_irl/comments/dx6068/突發駐港中共解放軍下午突衝出軍營_九龍塘清理路障傳媒追訪答不要問了_不需要採訪/">突發：駐港中共解放軍下午突衝出軍營 九龍塘清理路障傳媒追訪答：不要問了！ 不需要採訪！</a>, submitted on 2019-11-16 19:55:44+08:00.</h3>
+
+<p>—– <strong>675.1</strong> —–2019-11-17 12:10:18+08:00:</p>
+
+<p>抗美援朝志愿军是真的志愿军吗</p>
+
+<h3 id="676-weekly-rchina-discussion-thread---november-17-2019-submitted-on-2019-11-17-0005080800">676: <a href="https://old.reddit.com/r/China/comments/dx8oyq/weekly_rchina_discussion_thread_november_17_2019/">Weekly /r/China Discussion Thread - November 17, 2019</a>, submitted on 2019-11-17 00:05:08+08:00.</h3>
+
+<p>—– <strong>676.1</strong> —–2019-11-18 09:32:56+08:00:</p>
+
+<p>What’s 1450?</p>
+
+<h3 id="677-is-there-an-app-for-that-submitted-on-2019-11-17-0457460800">677: <a href="https://old.reddit.com/r/ChineseLanguage/comments/dxcldy/is_there_an_app_for_that/">Is there an app for that!?!?</a>, submitted on 2019-11-17 04:57:46+08:00.</h3>
+
+<p>—– <strong>677.1</strong> —–2019-11-17 08:29:44+08:00:</p>
+
+<p>Google translate</p>
+
+<p>Or</p>
+
+<p>Eudic</p>
+
+<h3 id="678-muslim-students-in-china-returned-home-to-find-loved-ones-had-vanished-into-camps-for-thinking-unhealthy-thoughts-leaked-documents-reveal-freedom-is-only-possible-when-the-virus-in-their-thinking-is-eradicated-submitted-on-2019-11-17-2302130800">678: <a href="https://old.reddit.com/r/worldnews/comments/dxnioe/muslim_students_in_china_returned_home_to_find/">Muslim students in China returned home to find loved ones had vanished into camps for thinking ‘unhealthy thoughts’, leaked documents reveal. ‘Freedom is only possible when the ‘virus’ in their thinking is eradicated’.</a>, submitted on 2019-11-17 23:02:13+08:00.</h3>
+
+<p>—– <strong>678.1</strong> —–2019-11-18 03:28:29+08:00:</p>
+
+<p><a href="https://www.douban.com/doubanapp/dispatch/book/4820710?dt_dapp=1">it’s actually an extremely populous book in mainland China </a></p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2019-11-18</time>
+        <a href="https://nodebe4.github.io/opinion/2019-11-18/Yvan888/">
+          Yvan888在2019-11-18~2019-11-24的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-11-17</time>
+        <a href="https://nodebe4.github.io/opinion/2019-11-17/Spinkcat/">
+          Spinkcat在2019-11-11~2019-11-17的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-11-10</time>
+        <a href="https://nodebe4.github.io/opinion/2019-11-10/Spinkcat/">
+          Spinkcat在2019-11-04~2019-11-10的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-11-04</time>
+        <a href="https://nodebe4.github.io/opinion/2019-11-04/Yvan888/">
+          Yvan888在2019-11-04~2019-11-10的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2019-11-10/%E8%A7%A3%E8%AE%80%E5%9B%9B%E4%B8%AD%E5%85%A8%E6%9C%83%E5%85%AC%E5%A0%B1-%E6%98%8E%E5%B1%85%E6%AD%A3-%E9%80%8F%E8%A6%96%E4%B8%AD%E5%9C%8B-0052-SinoInsider-20191111/">
+            前一篇：解讀四中全會公報 | 明居正「透視中國」【0052】SinoInsider 20191111
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2019-11-11/%E7%A8%8B%E6%99%93%E5%86%9C-%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E8%BD%AC%E5%9E%8B%E6%9C%80%E5%A5%BD-%E4%B8%AD%E5%9B%BD%E7%9A%84%E9%99%B7%E9%98%B1%E4%B8%8E%E5%9B%B0%E5%A2%83-20191112-%E7%AC%AC43%E9%9B%86/">
+            後一篇：程晓农：什么样的转型最好？（中国的陷阱与困境｜20191112 第43集）
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2019-11-10/%E8%A7%A3%E8%AE%80%E5%9B%9B%E4%B8%AD%E5%85%A8%E6%9C%83%E5%85%AC%E5%A0%B1-%E6%98%8E%E5%B1%85%E6%AD%A3-%E9%80%8F%E8%A6%96%E4%B8%AD%E5%9C%8B-0052-SinoInsider-20191111/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2019-11-11/%E7%A8%8B%E6%99%93%E5%86%9C-%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E8%BD%AC%E5%9E%8B%E6%9C%80%E5%A5%BD-%E4%B8%AD%E5%9B%BD%E7%9A%84%E9%99%B7%E9%98%B1%E4%B8%8E%E5%9B%B0%E5%A2%83-20191112-%E7%AC%AC43%E9%9B%86/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2019-11-17/Spinkcat/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2019-11-10/Spinkcat/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2019-11-10/%E8%A7%A3%E8%AE%80%E5%9B%9B%E4%B8%AD%E5%85%A8%E6%9C%83%E5%85%AC%E5%A0%B1-%E6%98%8E%E5%B1%85%E6%AD%A3-%E9%80%8F%E8%A6%96%E4%B8%AD%E5%9C%8B-0052-SinoInsider-20191111/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2019-11-11/%E7%A8%8B%E6%99%93%E5%86%9C-%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E8%BD%AC%E5%9E%8B%E6%9C%80%E5%A5%BD-%E4%B8%AD%E5%9B%BD%E7%9A%84%E9%99%B7%E9%98%B1%E4%B8%8E%E5%9B%B0%E5%A2%83-20191112-%E7%AC%AC43%E9%9B%86/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2019-11-17/Spinkcat/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2019-11-10/Spinkcat/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

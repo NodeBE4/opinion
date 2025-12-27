@@ -1,0 +1,2352 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Yvan888在2020-02-03~2020-02-09的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Yvan888在2020-02-03~2020-02-09的言论" />
+    <meta property="twitter:title" content="Yvan888在2020-02-03~2020-02-09的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FChina%2Fcomments%2Fey4qtc%2Fchina_accuses_us_of_spreading_panic_and_not%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/China/comments/ey4qtc/china_accuses_us_of_spreading_panic_and_not/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/China/comments/ey4qtc/china_accuses_us_of_spreading_panic_and_not/&text=Yvan888在2020-02-03~2020-02-09的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/China/comments/ey4qtc/china_accuses_us_of_spreading_panic_and_not/&title=Yvan888在2020-02-03~2020-02-09的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/China/comments/ey4qtc/china_accuses_us_of_spreading_panic_and_not/&title=Yvan888在2020-02-03~2020-02-09的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Yvan888在2020-02-03~2020-02-09的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/China/comments/ey4qtc/china_accuses_us_of_spreading_panic_and_not/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/China/comments/ey4qtc/china_accuses_us_of_spreading_panic_and_not/&title=Yvan888在2020-02-03~2020-02-09的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Yvan888在2020-02-03~2020-02-09的言论&url=https://old.reddit.com/r/China/comments/ey4qtc/china_accuses_us_of_spreading_panic_and_not/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Yvan888在2020-02-03~2020-02-09的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2020-02-03
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://www.reddit.com/user/Yvan888/" style="font-size:14px;">作者: Yvan888</a>
+        </span>
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/China/comments/ey4qtc/china_accuses_us_of_spreading_panic_and_not/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#791-china-accuses-us-of-spreading-panic-and-not-offering-help-after-rejecting-their-offer-of-help-submitted-on-2020-02-03-1742310800" id="markdown-toc-791-china-accuses-us-of-spreading-panic-and-not-offering-help-after-rejecting-their-offer-of-help-submitted-on-2020-02-03-1742310800">791: China accuses US of spreading panic and not offering help… after rejecting their offer of help, submitted on 2020-02-03 17:42:31+08:00.</a></li>
+  <li><a href="#792-low-key-piece-of-shit-i-see-this-guy-licking-his-hands-and-touching-the-poles-every-morning-submitted-on-2020-02-03-2014560800" id="markdown-toc-792-low-key-piece-of-shit-i-see-this-guy-licking-his-hands-and-touching-the-poles-every-morning-submitted-on-2020-02-03-2014560800">792: Low-key piece of shit… I see this guy licking his hands and touching the poles every morning., submitted on 2020-02-03 20:14:56+08:00.</a></li>
+  <li><a href="#793-zt-对本次疫情的结构性反思谣言官僚和国家主义-submitted-on-2020-02-04-0422540800" id="markdown-toc-793-zt-对本次疫情的结构性反思谣言官僚和国家主义-submitted-on-2020-02-04-0422540800">793: ZT 对本次疫情的结构性反思：谣言、官僚和国家主义, submitted on 2020-02-04 04:22:54+08:00.</a></li>
+  <li><a href="#794-许章润新作愤怒的人民已不再恐惧-submitted-on-2020-02-04-1917440800" id="markdown-toc-794-许章润新作愤怒的人民已不再恐惧-submitted-on-2020-02-04-1917440800">794: 许章润新作：愤怒的人民已不再恐惧, submitted on 2020-02-04 19:17:44+08:00.</a></li>
+  <li><a href="#795-the-world-and-china-submitted-on-2020-02-04-2046110800" id="markdown-toc-795-the-world-and-china-submitted-on-2020-02-04-2046110800">795: The world and China, submitted on 2020-02-04 20:46:11+08:00.</a></li>
+  <li><a href="#796-hong-kongers-have-to-form-their-own-team-checking-body-temperatures-of-the-chinese-people-at-the-border-because-the-government-had-refused-to-close-it-submitted-on-2020-02-05-1013220800" id="markdown-toc-796-hong-kongers-have-to-form-their-own-team-checking-body-temperatures-of-the-chinese-people-at-the-border-because-the-government-had-refused-to-close-it-submitted-on-2020-02-05-1013220800">796: Hong Kongers have to form their own team checking body temperatures of the Chinese people at the border because the government had refused to close it, submitted on 2020-02-05 10:13:22+08:00.</a></li>
+  <li><a href="#797-china-ill-never-forgive-the-japanese-submitted-on-2020-02-05-1351140800" id="markdown-toc-797-china-ill-never-forgive-the-japanese-submitted-on-2020-02-05-1351140800">797: China: I’ll never forgive the japanese, submitted on 2020-02-05 13:51:14+08:00.</a></li>
+  <li><a href="#798-xi-jinping-is-nowhere-to-be-seen-amid-coronavirus-outbreak---cnn-submitted-on-2020-02-05-1640590800" id="markdown-toc-798-xi-jinping-is-nowhere-to-be-seen-amid-coronavirus-outbreak---cnn-submitted-on-2020-02-05-1640590800">798: Xi Jinping is nowhere to be seen amid coronavirus outbreak - CNN, submitted on 2020-02-05 16:40:59+08:00.</a></li>
+  <li><a href="#799-翻译-translation-thread-2020-02-05-submitted-on-2020-02-05-2304360800" id="markdown-toc-799-翻译-translation-thread-2020-02-05-submitted-on-2020-02-05-2304360800">799: 翻译 Translation Thread! 2020-02-05, submitted on 2020-02-05 23:04:36+08:00.</a></li>
+  <li><a href="#800-dont-think-he-understood-the-concept-of-looking-to-his-right-originally-posted-by-anonymousv471-submitted-on-2020-02-06-0317240800" id="markdown-toc-800-dont-think-he-understood-the-concept-of-looking-to-his-right-originally-posted-by-anonymousv471-submitted-on-2020-02-06-0317240800">800: Dont think he understood the concept of looking to his right. (Originally posted by Anonymousv471), submitted on 2020-02-06 03:17:24+08:00.</a></li>
+  <li><a href="#801-大家有什么想问美国前国防部长马蒂斯的问题-submitted-on-2020-02-06-0928040800" id="markdown-toc-801-大家有什么想问美国前国防部长马蒂斯的问题-submitted-on-2020-02-06-0928040800">801: 大家有什么想问美国前国防部长马蒂斯的问题？, submitted on 2020-02-06 09:28:04+08:00.</a></li>
+  <li><a href="#802-朋友在美国与爱国反共人士的争辩-submitted-on-2020-02-06-1013330800" id="markdown-toc-802-朋友在美国与爱国反共人士的争辩-submitted-on-2020-02-06-1013330800">802: 朋友在美国与“爱国反共”人士的争辩, submitted on 2020-02-06 10:13:33+08:00.</a></li>
+  <li><a href="#803-nothing-will-change-right-submitted-on-2020-02-07-0257040800" id="markdown-toc-803-nothing-will-change-right-submitted-on-2020-02-07-0257040800">803: Nothing Will Change, Right?, submitted on 2020-02-07 02:57:04+08:00.</a></li>
+  <li><a href="#804-we-want-freedom-of-speech-trends-on-weibo-for-30-mins-following-li-wenliangs-death-submitted-on-2020-02-07-0339130800" id="markdown-toc-804-we-want-freedom-of-speech-trends-on-weibo-for-30-mins-following-li-wenliangs-death-submitted-on-2020-02-07-0339130800">804: “We want freedom of speech” trends on Weibo for 30 mins, following Li Wenliang’s death, submitted on 2020-02-07 03:39:13+08:00.</a></li>
+  <li><a href="#805-经中央批准国家监察委员会决定派出调查组赴湖北省武汉市就群众反映的涉及李文亮医生的有关问题作全面调查-submitted-on-2020-02-07-1339240800" id="markdown-toc-805-经中央批准国家监察委员会决定派出调查组赴湖北省武汉市就群众反映的涉及李文亮医生的有关问题作全面调查-submitted-on-2020-02-07-1339240800">805: 经中央批准，国家监察委员会决定派出调查组赴湖北省武汉市，就群众反映的涉及李文亮医生的有关问题作全面调查。, submitted on 2020-02-07 13:39:24+08:00.</a></li>
+  <li><a href="#806-求一个能真正读懂中国经济的书-submitted-on-2020-02-07-2143110800" id="markdown-toc-806-求一个能真正读懂中国经济的书-submitted-on-2020-02-07-2143110800">806: 求一个能真正读懂中国经济的书, submitted on 2020-02-07 21:43:11+08:00.</a></li>
+  <li><a href="#807-王沪宁比起张春桥你们觉得哪个厉害-submitted-on-2020-02-08-0549070800" id="markdown-toc-807-王沪宁比起张春桥你们觉得哪个厉害-submitted-on-2020-02-08-0549070800">807: 王沪宁比起张春桥你们觉得哪个厉害？, submitted on 2020-02-08 05:49:07+08:00.</a></li>
+</ul>
+
+<h3 id="791-china-accuses-us-of-spreading-panic-and-not-offering-help-after-rejecting-their-offer-of-help-submitted-on-2020-02-03-1742310800">791: <a href="https://old.reddit.com/r/China/comments/ey4qtc/china_accuses_us_of_spreading_panic_and_not/">China accuses US of spreading panic and not offering help… after rejecting their offer of help</a>, submitted on 2020-02-03 17:42:31+08:00.</h3>
+
+<p>—– <strong>791.1</strong> —–2020-02-04 07:17:36+08:00:</p>
+
+<p>tbh there are indeed some hyper-wumao social media accounts claiming the possibility of biochemical warfare from the US because of the great timing and the US’s travel ban as a part of anti-China trade war</p>
+
+<p>I thought when reading: are you serious? 🤥</p>
+
+<p>—– <strong>791.2</strong> —–2020-02-04 07:38:13+08:00:</p>
+
+<p>Another reason is that these wumao social media accounts need to concoct these stories to feed their subscribers and maintain their influences</p>
+
+<h3 id="792-low-key-piece-of-shit-i-see-this-guy-licking-his-hands-and-touching-the-poles-every-morning-submitted-on-2020-02-03-2014560800">792: <a href="https://old.reddit.com/r/iamatotalpieceofshit/comments/ey6ayt/lowkey_piece_of_shit_i_see_this_guy_licking_his/">Low-key piece of shit… I see this guy licking his hands and touching the poles every morning.</a>, submitted on 2020-02-03 20:14:56+08:00.</h3>
+
+<p>—– <strong>792.1</strong> —–2020-02-04 05:19:34+08:00:</p>
+
+<p>Plot twist: he’s a coronavirus infector</p>
+
+<h3 id="793-zt-对本次疫情的结构性反思谣言官僚和国家主义-submitted-on-2020-02-04-0422540800">793: <a href="https://old.reddit.com/r/China_irl/comments/eyd8qf/zt_对本次疫情的结构性反思谣言官僚和国家主义/">ZT 对本次疫情的结构性反思：谣言、官僚和国家主义</a>, submitted on 2020-02-04 04:22:54+08:00.</h3>
+
+<p>—– <strong>793.1</strong> —–2020-02-04 06:49:24+08:00:</p>
+
+<p>Plot twist: 习总感染了coronavirus</p>
+
+<p>—– <strong>793.2</strong> —–2020-02-04 20:22:18+08:00:</p>
+
+<p>怎么说？</p>
+
+<h3 id="794-许章润新作愤怒的人民已不再恐惧-submitted-on-2020-02-04-1917440800">794: <a href="https://old.reddit.com/r/saraba1st/comments/eyold1/许章润新作愤怒的人民已不再恐惧/">许章润新作：愤怒的人民已不再恐惧</a>, submitted on 2020-02-04 19:17:44+08:00.</h3>
+
+<p>—– <strong>794.1</strong> —–2020-02-05 11:01:53+08:00:</p>
+
+<p>I learned NOTHING new in this bookish article</p>
+
+<p>Waste my time</p>
+
+<h3 id="795-the-world-and-china-submitted-on-2020-02-04-2046110800">795: <a href="https://old.reddit.com/r/China/comments/eypiya/the_world_and_china/">The world and China</a>, submitted on 2020-02-04 20:46:11+08:00.</h3>
+
+<p>—– <strong>795.1</strong> —–2020-02-05 09:47:50+08:00:</p>
+
+<p>The luxun explanation is outmoded af being used here</p>
+
+<p>—– <strong>795.2</strong> —–2020-02-05 09:49:36+08:00:</p>
+
+<p>I learned from weibo that it’s because Japan is one of the few countries that haven’t had the travel ban and gave tons of stuffs to China. And/or, the author of this manga is Japanese</p>
+
+<p>Not sure how true it is</p>
+
+<p>—– <strong>795.3</strong> —–2020-02-05 09:53:25+08:00:</p>
+
+<p>Not sure the reason</p>
+
+<p>—– <strong>795.4</strong> —–2020-02-05 10:33:40+08:00:</p>
+
+<p>I’m impressed by your “brain hole” lol</p>
+
+<h3 id="796-hong-kongers-have-to-form-their-own-team-checking-body-temperatures-of-the-chinese-people-at-the-border-because-the-government-had-refused-to-close-it-submitted-on-2020-02-05-1013220800">796: <a href="https://old.reddit.com/r/China/comments/ez1spu/hong_kongers_have_to_form_their_own_team_checking/">Hong Kongers have to form their own team checking body temperatures of the Chinese people at the border because the government had refused to close it</a>, submitted on 2020-02-05 10:13:22+08:00.</h3>
+
+<p>—– <strong>796.1</strong> —–2020-02-05 19:27:16+08:00:</p>
+
+<p>So nowadays HK society is politicalizing everything</p>
+
+<h3 id="797-china-ill-never-forgive-the-japanese-submitted-on-2020-02-05-1351140800">797: <a href="https://old.reddit.com/r/PewdiepieSubmissions/comments/ez4q0n/china_ill_never_forgive_the_japanese/">China: I’ll never forgive the japanese</a>, submitted on 2020-02-05 13:51:14+08:00.</h3>
+
+<p>—– <strong>797.1</strong> —–2020-02-06 07:44:14+08:00:</p>
+
+<p>I don’t see the relation between the title and the image?</p>
+
+<h3 id="798-xi-jinping-is-nowhere-to-be-seen-amid-coronavirus-outbreak---cnn-submitted-on-2020-02-05-1640590800">798: <a href="https://old.reddit.com/r/China/comments/ez6k1i/xi_jinping_is_nowhere_to_be_seen_amid_coronavirus/">Xi Jinping is nowhere to be seen amid coronavirus outbreak - CNN</a>, submitted on 2020-02-05 16:40:59+08:00.</h3>
+
+<p>—– <strong>798.1</strong> —–2020-02-05 19:50:11+08:00:</p>
+
+<p>Just a reminder: Xi didn’t show up in public and TV over one month in the year before his presidency</p>
+
+<p>By the rumor, it’s due to a failed assassination by a truck assigned by Zhou Yongkang, ending up hurting Xi’s arm</p>
+
+<p>—– <strong>798.2</strong> —–2020-02-06 00:33:58+08:00:</p>
+
+<p>What’s huangdao?</p>
+
+<p>—– <strong>798.3</strong> —–2020-02-06 06:33:47+08:00:</p>
+
+<p>Yes definitely BXL and ZYK</p>
+
+<p>actually there are two assassinations that I heard are kinda credible</p>
+
+<h3 id="799-翻译-translation-thread-2020-02-05-submitted-on-2020-02-05-2304360800">799: <a href="https://old.reddit.com/r/ChineseLanguage/comments/ezaty0/翻译_translation_thread_20200205/">翻译 Translation Thread! 2020-02-05</a>, submitted on 2020-02-05 23:04:36+08:00.</h3>
+
+<p>—– <strong>799.1</strong> —–2020-02-08 06:27:27+08:00:</p>
+
+<p>Definitely YES and it’s common</p>
+
+<p>—– <strong>799.2</strong> —–2020-02-08 06:30:08+08:00:</p>
+
+<p>5V DC power supply outputs</p>
+
+<h3 id="800-dont-think-he-understood-the-concept-of-looking-to-his-right-originally-posted-by-anonymousv471-submitted-on-2020-02-06-0317240800">800: <a href="https://old.reddit.com/r/IdiotsInCars/comments/ezepez/dont_think_he_understood_the_concept_of_looking/">Dont think he understood the concept of looking to his right. (Originally posted by Anonymousv471)</a>, submitted on 2020-02-06 03:17:24+08:00.</h3>
+
+<p>—– <strong>800.1</strong> —–2020-02-06 07:54:58+08:00:</p>
+
+<p>Technically yes but no one follows it</p>
+
+<h3 id="801-大家有什么想问美国前国防部长马蒂斯的问题-submitted-on-2020-02-06-0928040800">801: <a href="https://old.reddit.com/r/China_irl/comments/ezkf4z/大家有什么想问美国前国防部长马蒂斯的问题/">大家有什么想问美国前国防部长马蒂斯的问题？</a>, submitted on 2020-02-06 09:28:04+08:00.</h3>
+
+<p>—– <strong>801.1</strong> —–2020-02-06 18:50:24+08:00:</p>
+
+<p>具体美国国内哪方是hardliner？</p>
+
+<p>—– <strong>801.2</strong> —–2020-02-07 04:24:19+08:00:</p>
+
+<p>反而智库强硬些 军方两者都有 意想不到啊 我以为反过来</p>
+
+<h3 id="802-朋友在美国与爱国反共人士的争辩-submitted-on-2020-02-06-1013330800">802: <a href="https://old.reddit.com/r/China_irl/comments/ezl1m5/朋友在美国与爱国反共人士的争辩/">朋友在美国与“爱国反共”人士的争辩</a>, submitted on 2020-02-06 10:13:33+08:00.</h3>
+
+<p>—– <strong>802.1</strong> —–2020-02-06 18:52:22+08:00:</p>
+
+<p>自己立个靶子打有意思吗？自淫？</p>
+
+<h3 id="803-nothing-will-change-right-submitted-on-2020-02-07-0257040800">803: <a href="https://old.reddit.com/r/China/comments/ezwzth/nothing_will_change_right/">Nothing Will Change, Right?</a>, submitted on 2020-02-07 02:57:04+08:00.</h3>
+
+<p>—– <strong>803.1</strong> —–2020-02-07 05:11:29+08:00:</p>
+
+<p>This is a good question</p>
+
+<p><strong>IMO the thing does change <em>a bit</em></strong></p>
+
+<p>Generally speaking, I hate the people who always say <em>Chinese people will wake up; CCP will fall</em> under each negative news of China, including the Tianjin explosion, NBA tweet, HK protest, etc.</p>
+
+<p>However, in this case, I hold an opposite opinion, especially after the Hubei Red Cross scandal, the fake news of the traditional Chinese medicine posted by CCP mouthpiece, the malpractice of Dali local government, and the death of the whistleblower. The people are angry about the government and even the whole system. Because:</p>
+
+<p>(1) Every person is involved in this plague (different from the Tianjin explosion). The death number is huge. The impact is huge. The involvement is comprehensive, far-ranging and ongoing so you can test how each component of the whole bureaucratic system works, while the Tianjin explosion can be attributed to the lack of safety regulation of the local government or even the local company.</p>
+
+<p>(2) The white-or-black is clear. There is no room for any foreign intervention excuse (different from HK protest) or any ideology chasm (different from NBA tweet). The target is clear: save the people efficiently and timely. It’s a basic humanism that every Chinese can be deeply engaged with. If a government cannot satisfy this fundamental requirement, how can the people trust you?</p>
+
+<p>Unfortunately, the Chinese government did really badly this time, compared to their performance in the 2008 Sichuan earthquake. The social influence is larger than my expectation, I saw some young people post online that it’s their <em>first time</em> to be disappointed about this country and question the efficiency of the bureaucratic system.</p>
+
+<p>Don’t get me wrong, I’m not saying the people will be strongly against CCP/Xi or even start a revolution tomorrow. But at least the credibility of CCP is dramatically damaged in this incident. <strong>The domestic endorsement of CCP is pretty strong and ascending from 2008 to now and I thought it would go down after one or two decades if China has a recession at that time. But now, the hands of the clock may run faster.</strong></p>
+
+<p>—– <strong>803.2</strong> —–2020-02-07 06:30:42+08:00:</p>
+
+<p>You’re right. There are lots of people satisfying with the current arrangements and governing and feeling proud of the stuffs such as the speed of hospital construction. But the satisfied people would be <em>much larger</em> if the government can handle it more skillfully.</p>
+
+<p>The young generation, though might be as nationalism​ as their elders (or even more patriotic), are less easy to be fooled.</p>
+
+<p>—– <strong>803.3</strong> —–2020-02-07 07:10:23+08:00:</p>
+
+<p>exactly my thought, 集中力量办大事 is the most important selling point of Chinese model but they didn’t 办 well this 大事</p>
+
+<p>—– <strong>803.4</strong> —–2020-02-07 19:02:43+08:00:</p>
+
+<p>There will be recession this time but I don’t think the people will blame the government too much because neither plague nor trade war is the government’s fault (at least in their eyes).</p>
+
+<p>I am talking about a longer, possible recession one or two decades later due to the demographic crisis caused by one child policy and other social instabilities. Since economic blooming is the biggest foundation of CCP governing and one child policy is a big “achievement” of CCP, these recessions will probably impair them a lot. Of course, it depends on the actual performance and the scapegoat at that time, who knows.</p>
+
+<p>—– <strong>803.5</strong> —–2020-02-07 19:24:52+08:00:</p>
+
+<p>What if they think, in this critical moment of the plague, they should show solidarity and fight together with CCP? What if they think, the long recession is a fault of the US’s trade war or something and should work together to fight back?</p>
+
+<p>Yes, sure, recession and unemployment is a huge social instability factor to CCP but I just don’t think it must turn out to be anti-CCP. Conversely, it has a small possibility to lead a stronger nationalism if the scapegoat is set deliberately and successfully.</p>
+
+<p>Also, don’t forget three years of famine, ten years of the cultural revolution, and the 1989 TAM protest, all of them are severe and unprecedented social instabilities but CCP still keeps the throne firmly.</p>
+
+<p>Edit: from the abstract of your link, it says,</p>
+
+<blockquote>
+  <p>However, they have so far been unwilling or unable to make fundamental reforms to address procedural injustices</p>
+</blockquote>
+
+<p>But, for example, there is still a large group of Chinese don’t think the western reforms and procedural justice is a good thing… There is a huge gap of ideology and culture so the judgment​ would​ be ​different</p>
+
+<h3 id="804-we-want-freedom-of-speech-trends-on-weibo-for-30-mins-following-li-wenliangs-death-submitted-on-2020-02-07-0339130800">804: <a href="https://old.reddit.com/r/China/comments/ezxo3i/we_want_freedom_of_speech_trends_on_weibo_for_30/">“We want freedom of speech” trends on Weibo for 30 mins, following Li Wenliang’s death</a>, submitted on 2020-02-07 03:39:13+08:00.</h3>
+
+<p>—– <strong>804.1</strong> —–2020-02-07 17:20:07+08:00:</p>
+
+<p>大部分受过教育的中国人知道中国宪法包括言论结社宗教等自由，也知道中国的实际制度没有按宪法运行</p>
+
+<p>但分歧在于，简单地说，有的人认为这是正常的并且是一个权宜之计，也有的人认为这是不正常的。前者可能比较难理解，它涉及中国国情的很多方面</p>
+
+<p>另外，在一个能随便修宪的国度（xjp），没有人会对宪法很认真。更别提中国除了国法还有党规，这是一种隐藏的双轨制</p>
+
+<h3 id="805-经中央批准国家监察委员会决定派出调查组赴湖北省武汉市就群众反映的涉及李文亮医生的有关问题作全面调查-submitted-on-2020-02-07-1339240800">805: <a href="https://old.reddit.com/r/China_irl/comments/f06296/经中央批准国家监察委员会决定派出调查组赴湖北省武汉市就群众反映的涉及李文亮医生的有关问题作全面调查/">经中央批准，国家监察委员会决定派出调查组赴湖北省武汉市，就群众反映的涉及李文亮医生的有关问题作全面调查。</a>, submitted on 2020-02-07 13:39:24+08:00.</h3>
+
+<p>—– <strong>805.1</strong> —–2020-02-07 17:10:31+08:00:</p>
+
+<p>中国从古到今一直是这种 错了也只是地方的错 中央永远光伟正的形象 好奇什么时候或者什么时间才会让人们质疑从上到下的整个体制</p>
+
+<h3 id="806-求一个能真正读懂中国经济的书-submitted-on-2020-02-07-2143110800">806: <a href="https://old.reddit.com/r/China_irl/comments/f0ane3/求一个能真正读懂中国经济的书/">求一个能真正读懂中国经济的书</a>, submitted on 2020-02-07 21:43:11+08:00.</h3>
+
+<p>—– <strong>806.1</strong> —–2020-02-08 07:37:45+08:00:</p>
+
+<p>怎么可能一本书全部说透?</p>
+
+<p>《八次危机》可一读?</p>
+
+<p>—– <strong>806.2</strong> —–2020-02-08 15:03:13+08:00:</p>
+
+<blockquote>
+  <p>时运变迁</p>
+</blockquote>
+
+<p>搜了下<a href="https://www.goodreads.com/en/book/show/2248788.Changing_Fortunes">外网</a>评价不高啊…</p>
+
+<h3 id="807-王沪宁比起张春桥你们觉得哪个厉害-submitted-on-2020-02-08-0549070800">807: <a href="https://old.reddit.com/r/China_irl/comments/f0hjdf/王沪宁比起张春桥你们觉得哪个厉害/">王沪宁比起张春桥你们觉得哪个厉害？</a>, submitted on 2020-02-08 05:49:07+08:00.</h3>
+
+<p>—– <strong>807.1</strong> —–2020-02-08 07:36:02+08:00:</p>
+
+<p>先定义一下“厉害”: 文采? 权术? 治国?</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2020-05-01</time>
+        <a href="https://nodebe4.github.io/opinion/2020-05-01/Spinkcat/">
+          Spinkcat在2020-04-27~2020-05-03的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-04-13</time>
+        <a href="https://nodebe4.github.io/opinion/2020-04-13/theoryofdoom/">
+          theoryofdoom在2020-04-13~2020-04-19的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-01-27</time>
+        <a href="https://nodebe4.github.io/opinion/2020-01-27/Yvan888/">
+          Yvan888在2020-01-27~2020-02-02的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-12-18</time>
+        <a href="https://nodebe4.github.io/opinion/2019-12-18/Yvan888/">
+          Yvan888在2019-12-16~2019-12-22的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2020-02-02/%E5%AF%B9%E6%9C%AC%E6%AC%A1%E7%96%AB%E6%83%85%E7%9A%84%E7%BB%93%E6%9E%84%E6%80%A7%E5%8F%8D%E6%80%9D-%E8%B0%A3%E8%A8%80-%E5%AE%98%E5%83%9A%E4%B8%8E%E5%9B%BD%E5%AE%B6%E4%B8%BB%E4%B9%89-%E4%B8%8B/">
+            前一篇：对本次疫情的结构性反思：谣言、官僚与国家主义（下）
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2020-02-03/%E7%BF%92%E8%BF%91%E5%B9%B3%E7%9A%84%E5%B0%8D%E6%89%8B%E8%97%89%E6%A9%9F%E5%88%A9%E7%94%A8%E6%AD%A6%E6%BC%A2%E7%96%AB%E6%83%85-%E6%9B%B4%E5%A4%9A%E6%8E%A9%E8%93%8B%E7%96%AB%E6%83%85%E7%9C%9F%E7%9B%B8%E7%9A%84%E8%B7%A1%E8%B1%A1%E6%B5%AE%E7%8F%BE/">
+            後一篇：習近平的對手藉機利用武漢疫情；更多掩蓋疫情真相的跡象浮現
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2020-02-02/%E5%AF%B9%E6%9C%AC%E6%AC%A1%E7%96%AB%E6%83%85%E7%9A%84%E7%BB%93%E6%9E%84%E6%80%A7%E5%8F%8D%E6%80%9D-%E8%B0%A3%E8%A8%80-%E5%AE%98%E5%83%9A%E4%B8%8E%E5%9B%BD%E5%AE%B6%E4%B8%BB%E4%B9%89-%E4%B8%8B/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2020-02-03/%E7%BF%92%E8%BF%91%E5%B9%B3%E7%9A%84%E5%B0%8D%E6%89%8B%E8%97%89%E6%A9%9F%E5%88%A9%E7%94%A8%E6%AD%A6%E6%BC%A2%E7%96%AB%E6%83%85-%E6%9B%B4%E5%A4%9A%E6%8E%A9%E8%93%8B%E7%96%AB%E6%83%85%E7%9C%9F%E7%9B%B8%E7%9A%84%E8%B7%A1%E8%B1%A1%E6%B5%AE%E7%8F%BE/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2020-04-13/theoryofdoom/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2020-01-27/Yvan888/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2020-02-02/%E5%AF%B9%E6%9C%AC%E6%AC%A1%E7%96%AB%E6%83%85%E7%9A%84%E7%BB%93%E6%9E%84%E6%80%A7%E5%8F%8D%E6%80%9D-%E8%B0%A3%E8%A8%80-%E5%AE%98%E5%83%9A%E4%B8%8E%E5%9B%BD%E5%AE%B6%E4%B8%BB%E4%B9%89-%E4%B8%8B/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2020-02-03/%E7%BF%92%E8%BF%91%E5%B9%B3%E7%9A%84%E5%B0%8D%E6%89%8B%E8%97%89%E6%A9%9F%E5%88%A9%E7%94%A8%E6%AD%A6%E6%BC%A2%E7%96%AB%E6%83%85-%E6%9B%B4%E5%A4%9A%E6%8E%A9%E8%93%8B%E7%96%AB%E6%83%85%E7%9C%9F%E7%9B%B8%E7%9A%84%E8%B7%A1%E8%B1%A1%E6%B5%AE%E7%8F%BE/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2020-04-13/theoryofdoom/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2020-01-27/Yvan888/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

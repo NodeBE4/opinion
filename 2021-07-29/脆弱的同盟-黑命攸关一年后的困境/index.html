@@ -1,0 +1,600 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>脆弱的同盟：黑命攸关一年后的困境 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+脆弱的同盟：黑命攸关一年后的困境
+——
+" />
+    <meta property="og:description" content="
+脆弱的同盟：黑命攸关一年后的困境
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="脆弱的同盟：黑命攸关一年后的困境" />
+    <meta property="twitter:title" content="脆弱的同盟：黑命攸关一年后的困境" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fgravitysworm.com%2Fpost%2F658059911445495808" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://gravitysworm.com/post/658059911445495808" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://gravitysworm.com/post/658059911445495808&text=脆弱的同盟：黑命攸关一年后的困境&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://gravitysworm.com/post/658059911445495808&title=脆弱的同盟：黑命攸关一年后的困境" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://gravitysworm.com/post/658059911445495808&title=脆弱的同盟：黑命攸关一年后的困境" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=脆弱的同盟：黑命攸关一年后的困境&body=
+脆弱的同盟：黑命攸关一年后的困境
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://gravitysworm.com/post/658059911445495808" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://gravitysworm.com/post/658059911445495808&title=脆弱的同盟：黑命攸关一年后的困境&caption=
+脆弱的同盟：黑命攸关一年后的困境
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=脆弱的同盟：黑命攸关一年后的困境&url=https://gravitysworm.com/post/658059911445495808" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>脆弱的同盟：黑命攸关一年后的困境</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2021-07-29
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#萬有引力之蟲">
+          萬有引力之蟲
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://gravitysworm.com/post/658059911445495808" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="萬有引力之蟲的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#萬有引力之蟲 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1627574836000-->
+<p><a href="https://gravitysworm.com/post/658059911445495808">脆弱的同盟：黑命攸关一年后的困境</a>
+——</p>
+
+<div>
+  <p>媒体版本：<a href="https://www.thepaper.cn/newsDetail_forward_13762409" target="_blank">https://www.thepaper.cn/newsDetail_forward_13762409</a></p>
+  <p>7月15日，“黑命攸关”（BLM）的全国性协调组织就目前燃烧的古巴抗议局势发表了一项<a href="https://www.instagram.com/p/CRU5kYYp-UU/" target="_blank">声明</a>，谴责美国几十年的干预伤害了古巴人民，包括古巴有色人种的自决。这则声明立即引发了舆论反弹，大量中间派、保守派和另类右翼媒体将之解读为“黑人运动与古巴共产主义政府合谋”，大量网民留言要求帐号管理者将“不实声明”删除。而进步派这头，则是一片尴尬的沉默。</p>
+  <p>这已经不是黑命攸关第一次因为对国际事务表态受到抨击。今年更早些时候，BLM还因为声援<a href="https://twitter.com/Blklivesmatter/status/1394289672101064704" target="_blank">巴勒斯坦</a>而被再次频繁打上“反犹”的标签。但BLM对BDS运动（BDS，Boycott，Divestment and Sanctions Movement发起于2005年，倡议对以色列进行抵制、撤资和经济制裁，反对以色列对巴勒斯坦人的种族隔离）的支持由来<a href="https://www.politifact.com/article/2020/aug/24/ask-politifact-black-lives-matter-anti-semitic/" target="_blank">已久</a>，“反犹”的论述也早就固化成保守派用来污名<a href="https://www.nytimes.com/2019/09/16/us/womens-march-anti-semitism.html" target="_blank">女权</a>和反种族主义运动的惯用策略，其有效性在过去几年已经大打折扣。相较之下，古巴问题涉及威权、种族、移民等多个矛盾面向，是个左翼更难抉择和发声的场域，也就更容易被右翼劫持成为反运动的武器。</p>
+  <p>与其他左翼组织更复杂的<a href="https://www.leftvoice.org/end-the-u-s-embargo-of-cuba-support-the-revolution-and-the-right-to-protest/" target="_blank">声明</a>相比，BLM的表态确有简单站队问题，也正如一些进步派评论所言，这很容易成为美国中心的文字游戏，本质上与工具化他国的美国当局并无不同。但借由古巴问题对BLM合法性的攻击，远非就事论事，更别说引发就国际团结进行的建设性反思。这折射出自去年以来，右翼在种族平权问题上娴熟的翻盘策略，以及这场史无前例的抵抗运动在当下所遭遇的媒体关注消散、同盟者倒戈、运动势能流失等问题。尽管针对黑人的暴力并未消除，制度性的成果远未达成，大规模社会运动出现的可能性却在持续走低，国际连结浮于纸面。</p>
+  <p><strong>舆论倒退与脆弱的跨种族同盟</strong></p>
+  <p>舆论支持度的倒退已是BLM推动过程中的最大阻力。根据538网站的调查<a href="https://fivethirtyeight.com/features/how-views-on-black-lives-matter-have-changed-and-why-that-makes-police-reform-so-hard/" target="_blank">统计</a>，从去年到今年三月，全体美国人对BLM的支持从六成缩水到了一半，同期对当地警察和执法机构的信任度则跃升了13个百分点到近七成，这导致对警察的信任要高出对BLM运动的信任两成。事实上，这一舆论上的“死亡交叉”趋势，即民众相对抗议方更信任警方，早在去年盛夏就出现了。只不过沉浸在运动“成果”中的人们，忽略了公共舆论上的微妙递归。</p>
+  <p>在一些更长远的政策问题，比如警察系统改革上，民众的支持度也在消退。去年夏天的抗议把削减警费 (Defund the Police)的口号推到了舆论焦点，但无论何时，支持警费转移到其他社会机构的人口数量一直都没有超过一半，哪怕黑人社区对此也态度暧昧。目前，全国范围内削减警费的<a href="https://www.usatoday.com/story/news/politics/2021/03/07/usa-today-ipsos-poll-just-18-support-defund-police-movement/4599232001/" target="_blank">支持率</a>仅为18%，哪怕黑人的支持率也只不过28% 。纽约市长选举的过程，进一步证明了警察系统改革的迟缓和公众压力的<a href="https://www.newyorker.com/news/our-local-correspondents/policing-politics-takes-over-the-new-york-city-mayoral-race" target="_blank">消失</a>。面对谋杀、枪杀、偷车和仇恨犯罪率的<a href="https://www.gothamgazette.com/city/10549-defund-the-nypd-stalled-de-blasio-final-budget-gun-violence" target="_blank">大幅上升</a>，选民开始向往社区安全而非平等，绝大部分候选人也都努力和削减警费的倡议保持着距离，市政厅外左翼的占领运动依旧，但规模不可同日而语。</p>
+  <p>由于黑人群体对BLM的支持一直都在接近九成的超高水平，人口总体的支持趋势也低估了其他族裔支持率的缩水。一年来，拉丁裔和亚裔对黑人问题的看法并未发生大的进步。特别对亚裔来说，不断发生的仇恨犯罪让他们和非裔之间的关系更加紧张。对白人而言，其对运动的支持度则完全倒退到了去年弗洛伊德被杀害之前，仿佛这一年多的暴力与抵抗从未发生过一样。</p>
+  <p>2020年，BLM在全球各个城市迅速蔓延的关键因素之一，在于普通人之间跨种族支持同盟的涌现。去年夏天，美国总人口的<a href="https://www.pewresearch.org/fact-tank/2020/06/24/recent-protest-attendees-are-more-racially-and-ethnically-diverse-younger-than-americans-overall/" target="_blank">6%</a>都参与了至少一次支持种族平权的线下集会或抗议。由于杀害弗洛伊德影像的冲击导致白人种族愧疚感的蔓延，抗议者中的六分之一还是共和党。不同的调查均表明，白人在当时的参与者中占据了一半，拉丁裔和亚裔的参与度也比其自身在美国的人口占比要高。弗洛伊德之死也为各个族裔打开了反思自身特权和在种族资本主义中特殊地位的窗口。一时间，各种线上讨论和跨种族支持活动纷至沓来。社会学学者Dana Fisher带领的调研团队一度乐观地<a href="https://www.brookings.edu/blog/how-we-rise/2020/07/08/the-diversity-of-the-recent-black-lives-matter-protests-is-a-good-sign-for-racial-equity/" target="_blank">表示</a>，相比2014年的BLM、2016年后的女权和反枪支暴力游行，2020年的BLM是她们见过的种族最多元的运动。然而现在看来，这种动员在激活已有运动社群的同时，在普通公众身上却未能带来长久的实际效果。与去年普通人主导的抗议场面相比，今年还在持续的运动基本都是核心组织在支撑。</p>
+  <p>这给社会运动分析带来了新的谜团和困境。既往的学术研究在社会运动的舆论影响上并未达成普遍共识，一些做出显著公共舆论效果的研究数据往往跨度几十年，并不能排除是人们代际更替的自然变化；一些研究只发现了抗议对个体态度的间接影响，比如改变普通人的政治效能，而非对问题的直接立场；另外一些则发现同样的抗议，对不同人群和在不同接触媒介下的影响是相反的，比如亲身经历抗议和阅读媒体抗议新闻的影响相反。BLM的经历则象征着一种新的机制：街头抗议在短期似乎带来了显著的正面效果，但其效果过了仅仅一个季度就大打折扣。</p>
+  <p><strong>从反封锁到反批判种族理论运动</strong></p>
+  <p>BLM动力的受阻，也为保守派提供了机遇。20世纪以来欧美社会运动的发展不断表明，左翼在明面上的社会运动，常常成为右翼学习的契机和私下动员的关键节点，右翼运动，特别是1970年代以降的新右翼的核心也常常聚焦在其<a href="https://doi.org/10.1146/annurev.soc.012809.102602" target="_blank">共同的敌人</a>（"what they are against"），而非自己创设的议题，这使得学习其意识形态敌人的策略成为更破切的需求。</p>
+  <p>比如1920年代以来，<a href="https://global.oup.com/academic/product/mothers-of-massive-resistance-9780190271718?cc=us&amp;lang=en&amp;" target="_blank">保守派女性</a>一直都借鉴禁酒和女权运动的经验，比如集体写抗议信和自办媒体来推行支持种族隔离的社会政策；1970年代美国富人针对<a href="https://www.sup.org/books/title/?id=15910" target="_blank">房产税</a>的抗议，借鉴了之前左翼福利运动要求政府出面保护社会普通大众利益的话语；英美激进右翼则学习了左翼的艺术抵抗，比如音乐表演、制作独立刊物等。偶尔，进步一方也会反过来借鉴保守派的话语来为自己求得更多的生存空间，比如1980年代后美国男同性恋运动中，有部分组织吸收保守主义话术，以性少数家庭为国家<a href="https://press.princeton.edu/books/paperback/9781935408345/family-values" target="_blank">节省福利</a>开支为由推动议题。然而，这样的策略不仅让男同成为性少数群体中的既得利益者，还使得运动被保守派议程所吸收。</p>
+  <p>在更晚近的运动中，另类右翼会采用激进左翼的方式进行快闪类行动，右翼<a href="https://press.princeton.edu/books/paperback/9780691163666/becoming-right" target="_blank">学生社团</a>借鉴左翼学生组织的行为艺术；反移民运动<a href="https://www.adl.org/blog/far-right-trolls-recast-no-means-no-and-my-body-my-choice-as-anti-immigrant-memes" target="_blank">改编</a>女权关于身体自主性的话语抗议无证移民；反跨运动则会学习进步派冲击计划生育诊所的行动，来<a href="https://www.theguardian.com/society/2021/jul/18/dozens-arrested-in-los-angeles-as-anti-trans-protest-outside-spa-turns-violent" target="_blank">冲击</a>支持跨性别群体的小商铺。疫情以来的各类社会运动，保守派似乎都慢了半拍，但正是这个微妙的时间差，让保守派的运动得以暗中窥伺蓄力，培育出颠覆议题的生命力。</p>
+  <p>BLM的街头运动暂告一个段落后，保守派开始以各种方式瓦解和扭转已有的运动势能。其最成功的议题操作莫过于在去年7月通过福克斯打响抵制批判种族理论 (critical race theory, CRT) 的议程，短短大半年就让CRT成为了<a href="https://newrepublic.com/article/162779/critical-race-theory-conservative-media-wedge" target="_blank">新文化战争</a>的鳌头（见思想周报的<a href="https://www.thepaper.cn/newsDetail_forward_13333314" target="_blank">总结</a>）。尽管政治格局看似是民主党的阵地，今年来共和党在田纳西、爱达荷、亚利桑那等<a href="https://www.brookings.edu/blog/fixgov/2021/07/02/why-are-states-banning-critical-race-theory/" target="_blank">近30州</a>推动了禁止在公立学校教授和讨论CRT的法案。CRT的概念由Kimberlé Crenshaw提出，是1970年代法学领域用于解释后种族主义社会白人至上主义持续存在的理论，后来逐步被其他学科所借鉴。在保守派立法者心目中，他们打击的并非一个特定的学校课程，而是教育领域任何试图揭露种族主义现象的努力，这些实践被解读为制造社会的种族对立。</p>
+  <p>除了立法斗争，反CRT运动的焦点在地方学区的代表会议上，这些会议一般每月举行一次，是普通家长提出关于学区教育诉求的重要渠道。在保守派智库和律师的支持下，反对CRT的家长经常与学区负责人和教师代表出现严重争执，不少会议陷入混战。更多的诉讼被发起，试图驱逐已有的支持平权的成员。抗议者还试图不断向当地公共部门索要教育记录，试图瘫痪行政体系。另外，一线抗议往往在城郊的学区展开，这里保守派势力更强，参与过BLM抗议的人口比率也低，进步派经验不足，容易营造反对者一手遮天的假象。</p>
+  <figure class="tmblr-full" data-orig-height="929" data-orig-width="1592">
+<img src="https://64.media.tumblr.com/d3877a54d66ec0f95834f1476927b19e/752f8263bdca7aba-52/s540x810/51038ce87b236eb8d18c080e337d26d73aeb111c.jpg" data-orig-height="929" data-orig-width="1592" />
+  </figure>
+  <p><em>被白人女性主导的学区会议。图片来源：<a href="https://www.nationalreview.com/corner/it-isnt-just-conservative-parents-opposing-critical-race-theory-in-schools/" target="_blank">https://www.nationalreview.com/corner/it-isnt-just-conservative-parents-opposing-critical-race-theory-in-schools/</a> </em><br /></p>
+  <p>查阅各类媒体资料不难发现，很多保守派女性站在了反CRT运动的前线，围堵学区会议的学生家长中，白人女性占到了<a href="https://www.azcentral.com/story/news/local/arizona/2021/07/21/podcast-critical-race-theory-fuels-political-activism-school-board-meetings/8021954002/" target="_blank">绝对多数</a>。核心组织之一“拒绝左转” (No Left Turn) 的创始人Elana Yaron Fishbein已经成为新的运动偶像人物。毕业于宾大社会工作系的Fishbein，<a href="https://www.noleftturn.us/about-us/" target="_blank">声称</a>自己孩子所在的宾州Lower Merion学区因为BLM抗议而恶意夹塞多元性教学，她因此愤而发起了运动。这对应了保守派运动史中，白人女性往往通过强化自己家庭教育者的刻板印象，构建起自身在学校场合发言的合法性。男性为主导的立法过程背后，是白人女性在协调具体行动的执行。史蒂芬·班农视这些被称作城郊妈妈 (suburban moms) 的参与者为保守派草根布局，重返国会的<a href="https://www.politico.com/news/2021/06/23/trumpworld-critical-race-theory-495712" target="_blank">关键</a>。由于社会运动对女性身体与地位的规训，她们的参与不被认为是具备暴力威胁的，因而也获得了更高的道德合法性。</p>
+  <p>为了夸大实际的舆论支持，反CRT运动延续了保守派历史悠久的人造草皮策略，通过建制输血来制造民间运动的假象。近来，美国全国涌现出<a href="https://www.nbcnews.com/news/us-news/critical-race-theory-invades-school-boards-help-conservative-groups-n1270794" target="_blank">一百多</a>个组织声称要抵制公立学校的种族和性别平权教育，绝大部分并非草根家长创办。它们往往互相<a href="https://undoctrinate.org/solutions/" target="_blank">引用</a>、导流，然后由福克斯网来进行传媒放大，像极了911后反穆斯林网络<a href="https://press.princeton.edu/books/paperback/9780691173634/terrified" target="_blank">兴起</a>的过程。例如，一个看似是纽约普通家长们发起的项目"预备学校问责" (Prep School Accountability)，被<a href="https://www.vice.com/en/article/g5g5ny/researcher-uncovers-critical-race-theory-astroturfing-campaign" target="_blank">发现</a>背后是维护企业与保守派利益的著名游说公司Berman and Company。此公司负责人Richard Berman名下创办有各种伪装的社会运动组织，多年来专注于打击劳工、环保、动保等多方面的运动，被运动家们称之为人造草皮行业的漫威反派金并 (Kingpin)。这也从侧面证明保守派行动网络的高变异性，同样的组织会在不同时期投资不同的保守派议题。反CRT运动的资方之一传统基金会 (Heritage Foundation) 同时是近些年来的<a href="https://www.heritage.org/gender" target="_blank">反跨</a>先锋组织，另一个资方<a href="https://www.freedomworks.org/content/bidens-critical-race-theory-education-plan-runs-counter-americas-founding-principles" target="_blank">FreedomWorks</a>则介入过反气候变化和奥巴马医保议题。 </p>
+  <p>疫情以来的保守派运作方式也存在高度延续性。为了扩大反CRT项目的影响力，Berman and Company伪造了家长的推特帐号，并租用涂刷过的车辆在纽约的各种预备学校前经过，福克斯则将之拼凑成报道，声称“一群受够了的家长”决定行动起来。建立新组织、租车巡游加伪造社交帐号的做法和去年的反居家隔离抗议如出一辙。</p>
+  <p><strong>机遇窗口与运动联盟的未来</strong></p>
+  <p>目前数据最完善的<a href="https://mappingpoliceviolence.org/" target="_blank">Mapping police violence</a>团队和华盛顿邮报的<a href="https://www.washingtonpost.com/graphics/investigations/police-shootings-database/" target="_blank">统计</a>均显示，与2020年相比，2021年警察针对普通人的暴力，以及专门针对黑人暴力的趋势都没有任何改善。为何相似的困境带来不了相似的抵抗？</p>
+  <p>在政治学者<a href="https://www.washingtonpost.com/politics/2021/07/12/dont-expect-mass-black-lives-matter-protests-again-this-summer/" target="_blank">Geneva Cole</a>看来，除了保守派的反击，公众压力的退潮，问题的关键还在于弗洛伊德事件人证齐全，天时地利，动员结构很难被复制。今年夏天，全国性媒体对黑命攸关的追踪已经趋向为零，即使有报道，也往往采用间接甚至负面的论述。除了对BLM古巴表态的声讨，在七月，媒体提及BLM最多次的事件，居然是极端右翼组织“骄傲男孩”（Proud Boys）负责人因为焚烧BLM标语被控有罪，这些报道与BLM的核心诉求并无太大关系，反而助长看客的猎奇心理。</p>
+  <p>去年疫情肆虐期间的居家工作，让更多人有闲暇深度跟踪新闻、线上沟通和出门抗议。吊诡的是，正因为美国多地解封重开，对日常生活的回归让出门旅行和再就业等短期需求盖过了抗议的诉求。尽管在社运<a href="https://countingcrowds.org/2021/04/29/protest-themes-in-bidens-first-100-days/" target="_blank">数据库</a>中，今年上半年的抗议次数比起去年同期并没有显著下降，种族和警权为主题的抗议比率依然很高，两个时期抗议的规模却大相径庭。<a href="https://docs.google.com/spreadsheets/d/1yVHVe8fb3x5ipiiLZR2ZsHbePcrZwnw9OZL2zLtJbIY/edit#gid=1538635238" target="_blank">今年五月</a>爆发了全美对巴勒斯坦的声援集会，得益于20世纪黑权运动（Black Power Movement）与巴勒斯坦的<a href="https://www.sup.org/books/title/?id=29556" target="_blank">国际团结</a>历史，许多BLM运动家也全情<a href="https://www.npr.org/2021/06/07/1003872848/the-complicated-history-behind-blms-solidarity-with-the-pro-palestinian-movement" target="_blank">投入</a>。但尽管如此，全部社运参与人数只有<a href="https://docs.google.com/spreadsheets/d/1pZo5p9EKZJ87IvPVjIp50nQQPET_ucV8vKVfZ6NpOvg/edit#gid=1538635238" target="_blank">去年五月</a>单纯与弗洛伊德相关的抗议人数的四成。</p>
+  <figure class="tmblr-full" data-orig-height="1143" data-orig-width="1600">
+<img src="https://64.media.tumblr.com/1a742ffad0ab4adeedcb9c3f5412a99d/752f8263bdca7aba-25/s540x810/647ec0d56f91e9fd395552d04273521d144ebf91.png" data-orig-height="1143" data-orig-width="1600" />
+  </figure>
+  <p><em>数据来源：<a href="https://countingcrowds.org/2021/06/14/pro-palestine-movement-of-2021/" target="_blank">https://countingcrowds.org/2021/06/14/pro-palestine-movement-of-2021/</a> </em></p>
+  <p>留给种族平权运动家们更重要的主题，还有对<a href="https://journals.sagepub.com/doi/full/10.1177/1088868320918698" target="_blank">运动同盟</a>更审慎和长远的考量。普通人的同情容易瞬间爆发，又转瞬即逝。特别对白人男性为典型的优势群体来说，以“反思特权”主导的运动传播方式往往划入表演性的<a href="https://y.dsausa.org/the-activist/that-isnt-allyship-youre-just-self-interested/" target="_blank">自我感动</a>。研究也<a href="https://academic.oup.com/socpro/article/68/2/358/5809595?login=true" target="_blank">表明</a>，自认为是边缘群体同盟的运动参与者，多数认为自身是独特的具有反思性的例外，将与弱势群体的朋友关系脑补为一种政治立场，并倾向于以过来人的身份对运动指点江山。比起与边缘群体并肩作战，在社交场合搭建一个支持正义的人设才是许多人成为同盟的动力。</p>
+  <p>当潮水退却，BLM需要重新甄别和搭建真正的同盟。不过乐观地看，恰恰在实践的低谷，清晰的动员骨架才会凸显出来。 </p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#萬有引力之蟲 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-07-18/%E9%9F%A7%E6%80%A7%E7%9A%84%E8%89%BA%E6%9C%AF-%E5%BA%9F%E9%99%A4%E8%AD%A6%E5%AF%9F%E5%9F%8E%E8%BF%90%E5%8A%A8%E7%9A%84%E5%90%AF%E7%A4%BA/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2017-11-06/%E5%8D%A0%E9%A2%86%E7%9A%84%E7%BB%84%E7%BB%87%E9%81%97%E4%BA%A7/">最早</a>--</span>
+    
+      <li>
+        <time>2022-05-05</time>
+        <a href="https://nodebe4.github.io/opinion/2022-05-05/%E5%9B%BD%E4%BC%9A%E5%B1%B1%E5%90%8E%E7%BE%8E%E5%9B%BD%E5%8F%B3%E7%BF%BC%E7%9A%84%E6%9A%97%E6%B5%81%E4%B8%8E%E9%80%86%E8%A2%AD/">
+          国会山后美国右翼的暗流与逆袭
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-02-22</time>
+        <a href="https://nodebe4.github.io/opinion/2022-02-22/%E6%B8%B8%E6%88%8F%E9%9B%B6%E5%B7%A5-%E6%B2%A1%E6%9C%89%E6%B8%B8%E6%88%8F-%E4%B8%8D%E4%BC%BC%E9%9B%B6%E5%B7%A5/">
+          游戏零工：没有游戏，不似零工
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-05-17</time>
+        <a href="https://nodebe4.github.io/opinion/2021-05-17/%E6%9C%AA%E6%9D%A5%E5%B7%A5%E4%BD%9C%E5%A4%B9%E7%BC%9D%E4%B8%AD%E7%9A%84%E5%8C%BB%E7%96%97%E7%85%A7%E6%8A%A4/">
+          未来工作夹缝中的医疗照护
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-02-28</time>
+        <a href="https://nodebe4.github.io/opinion/2021-02-28/%E8%8B%B1%E5%9B%BD%E4%BC%98%E6%AD%A5%E7%AB%8B%E6%B3%95%E8%83%8C%E5%90%8E%E7%9A%84%E9%9B%B6%E5%B7%A5%E5%88%86%E5%8C%96/">
+          英国优步立法背后的零工分化
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2021-07-29/20191209-TaiwaneseFormosan-Han-A-Concept-from-Hist/">
+            前一篇：20191209 TaiwaneseFormosan Han A Concept from History Il V2
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2021-07-30/jenjpan/">
+            後一篇：Twitter @Jennifer Pan: 2021-07-26~2021-08-01
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2021-07-29/20191209-TaiwaneseFormosan-Han-A-Concept-from-Hist/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2021-07-30/jenjpan/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-02-22/%E6%B8%B8%E6%88%8F%E9%9B%B6%E5%B7%A5-%E6%B2%A1%E6%9C%89%E6%B8%B8%E6%88%8F-%E4%B8%8D%E4%BC%BC%E9%9B%B6%E5%B7%A5/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2021-05-17/%E6%9C%AA%E6%9D%A5%E5%B7%A5%E4%BD%9C%E5%A4%B9%E7%BC%9D%E4%B8%AD%E7%9A%84%E5%8C%BB%E7%96%97%E7%85%A7%E6%8A%A4/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2021-07-29/20191209-TaiwaneseFormosan-Han-A-Concept-from-Hist/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2021-07-30/jenjpan/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<萬有引力之蟲>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-02-22/%E6%B8%B8%E6%88%8F%E9%9B%B6%E5%B7%A5-%E6%B2%A1%E6%9C%89%E6%B8%B8%E6%88%8F-%E4%B8%8D%E4%BC%BC%E9%9B%B6%E5%B7%A5/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<萬有引力之蟲>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2021-05-17/%E6%9C%AA%E6%9D%A5%E5%B7%A5%E4%BD%9C%E5%A4%B9%E7%BC%9D%E4%B8%AD%E7%9A%84%E5%8C%BB%E7%96%97%E7%85%A7%E6%8A%A4/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

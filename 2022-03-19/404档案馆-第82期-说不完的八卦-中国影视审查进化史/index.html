@@ -1,0 +1,878 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>【404档案馆】第82期：“说不完的八卦”：中国影视审查进化史 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+【404档案馆】第82期：“说不完的八卦”：中国影视审查进化史
+——
+" />
+    <meta property="og:description" content="
+【404档案馆】第82期：“说不完的八卦”：中国影视审查进化史
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="【404档案馆】第82期：“说不完的八卦”：中国影视审查进化史" />
+    <meta property="twitter:title" content="【404档案馆】第82期：“说不完的八卦”：中国影视审查进化史" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fmatters.news%2F%40ChinaDT%2F404%25E6%25A1%25A3%25E6%25A1%2588%25E9%25A6%2586-%25E7%25AC%25AC82%25E6%259C%259F-%25E8%25AF%25B4%25E4%25B8%258D%25E5%25AE%258C%25E7%259A%2584%25E5%2585%25AB%25E5%258D%25A6-%25E4%25B8%25AD%25E5%259B%25BD%25E5%25BD%25B1%25E8%25A7%2586%25E5%25AE%25A1%25E6%259F%25A5%25E8%25BF%259B%25E5%258C%2596%25E5%258F%25B2-bafyreib3wzyfk66vjswuikqkcgaqadee6c6wwg3ik2dxvv3bz25pao3fqy" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC82%E6%9C%9F-%E8%AF%B4%E4%B8%8D%E5%AE%8C%E7%9A%84%E5%85%AB%E5%8D%A6-%E4%B8%AD%E5%9B%BD%E5%BD%B1%E8%A7%86%E5%AE%A1%E6%9F%A5%E8%BF%9B%E5%8C%96%E5%8F%B2-bafyreib3wzyfk66vjswuikqkcgaqadee6c6wwg3ik2dxvv3bz25pao3fqy" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC82%E6%9C%9F-%E8%AF%B4%E4%B8%8D%E5%AE%8C%E7%9A%84%E5%85%AB%E5%8D%A6-%E4%B8%AD%E5%9B%BD%E5%BD%B1%E8%A7%86%E5%AE%A1%E6%9F%A5%E8%BF%9B%E5%8C%96%E5%8F%B2-bafyreib3wzyfk66vjswuikqkcgaqadee6c6wwg3ik2dxvv3bz25pao3fqy&text=【404档案馆】第82期：“说不完的八卦”：中国影视审查进化史&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC82%E6%9C%9F-%E8%AF%B4%E4%B8%8D%E5%AE%8C%E7%9A%84%E5%85%AB%E5%8D%A6-%E4%B8%AD%E5%9B%BD%E5%BD%B1%E8%A7%86%E5%AE%A1%E6%9F%A5%E8%BF%9B%E5%8C%96%E5%8F%B2-bafyreib3wzyfk66vjswuikqkcgaqadee6c6wwg3ik2dxvv3bz25pao3fqy&title=【404档案馆】第82期：“说不完的八卦”：中国影视审查进化史" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC82%E6%9C%9F-%E8%AF%B4%E4%B8%8D%E5%AE%8C%E7%9A%84%E5%85%AB%E5%8D%A6-%E4%B8%AD%E5%9B%BD%E5%BD%B1%E8%A7%86%E5%AE%A1%E6%9F%A5%E8%BF%9B%E5%8C%96%E5%8F%B2-bafyreib3wzyfk66vjswuikqkcgaqadee6c6wwg3ik2dxvv3bz25pao3fqy&title=【404档案馆】第82期：“说不完的八卦”：中国影视审查进化史" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=【404档案馆】第82期：“说不完的八卦”：中国影视审查进化史&body=
+【404档案馆】第82期：“说不完的八卦”：中国影视审查进化史
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC82%E6%9C%9F-%E8%AF%B4%E4%B8%8D%E5%AE%8C%E7%9A%84%E5%85%AB%E5%8D%A6-%E4%B8%AD%E5%9B%BD%E5%BD%B1%E8%A7%86%E5%AE%A1%E6%9F%A5%E8%BF%9B%E5%8C%96%E5%8F%B2-bafyreib3wzyfk66vjswuikqkcgaqadee6c6wwg3ik2dxvv3bz25pao3fqy" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC82%E6%9C%9F-%E8%AF%B4%E4%B8%8D%E5%AE%8C%E7%9A%84%E5%85%AB%E5%8D%A6-%E4%B8%AD%E5%9B%BD%E5%BD%B1%E8%A7%86%E5%AE%A1%E6%9F%A5%E8%BF%9B%E5%8C%96%E5%8F%B2-bafyreib3wzyfk66vjswuikqkcgaqadee6c6wwg3ik2dxvv3bz25pao3fqy&title=【404档案馆】第82期：“说不完的八卦”：中国影视审查进化史&caption=
+【404档案馆】第82期：“说不完的八卦”：中国影视审查进化史
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=【404档案馆】第82期：“说不完的八卦”：中国影视审查进化史&url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC82%E6%9C%9F-%E8%AF%B4%E4%B8%8D%E5%AE%8C%E7%9A%84%E5%85%AB%E5%8D%A6-%E4%B8%AD%E5%9B%BD%E5%BD%B1%E8%A7%86%E5%AE%A1%E6%9F%A5%E8%BF%9B%E5%8C%96%E5%8F%B2-bafyreib3wzyfk66vjswuikqkcgaqadee6c6wwg3ik2dxvv3bz25pao3fqy" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>【404档案馆】第82期：“说不完的八卦”：中国影视审查进化史</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-03-19
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#中国数字时代">
+          中国数字时代
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC82%E6%9C%9F-%E8%AF%B4%E4%B8%8D%E5%AE%8C%E7%9A%84%E5%85%AB%E5%8D%A6-%E4%B8%AD%E5%9B%BD%E5%BD%B1%E8%A7%86%E5%AE%A1%E6%9F%A5%E8%BF%9B%E5%8C%96%E5%8F%B2-bafyreib3wzyfk66vjswuikqkcgaqadee6c6wwg3ik2dxvv3bz25pao3fqy" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="中国数字时代的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#中国数字时代 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1647722069000-->
+<p><a href="https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC82%E6%9C%9F-%E8%AF%B4%E4%B8%8D%E5%AE%8C%E7%9A%84%E5%85%AB%E5%8D%A6-%E4%B8%AD%E5%9B%BD%E5%BD%B1%E8%A7%86%E5%AE%A1%E6%9F%A5%E8%BF%9B%E5%8C%96%E5%8F%B2-bafyreib3wzyfk66vjswuikqkcgaqadee6c6wwg3ik2dxvv3bz25pao3fqy">【404档案馆】第82期：“说不完的八卦”：中国影视审查进化史</a>
+——</p>
+
+<div>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/6dc530d9-21ed-49ff-9a0c-ffb86cdf44ec.jpeg" data-asset-id="6dc530d9-21ed-49ff-9a0c-ffb86cdf44ec" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p><a href="https://chinadigitaltimes.net/space/404%E6%A1%A3%E6%A1%88%E9%A6%86" rel="noopener noreferrer" target="_blank">《404档案馆》</a>讲述中国审查与反审查的故事，同时以文字、音频和视频的形式发布。播客节目可在 Apple Podcasts, Google Podcasts, Spotify 或泛用型播客客户端搜索“<a href="https://anchor.fm/chinadigitaltimes" rel="noopener noreferrer" target="_blank">404档案馆</a>”进行收听，视频节目可在Youtube“<a href="https://www.youtube.com/channel/UCwXewCWwaK1-yec8niJLrqg" rel="noopener noreferrer" target="_blank">中国数字时代· 404档案馆</a>”频道收看。</p>
+  <p><br /></p>
+  <p><strong>撰文：西西弗斯推大石</strong></p>
+  <p>欢迎来到404档案馆。在这里，我们一起穿越中国数字高墙。今天我们来关注中国影视审查的进化史。</p>
+  <p>今年2月，热门美剧《老友记》在中国多个视频网站上线。然而，这部经典美剧的众多中国粉丝没有开心多久，就发现在美国属于阖家欢的剧情受到了多处严重删减，以至于<a href="https://chinadigitaltimes.net/chinese/676786.html" rel="noopener noreferrer" target="_blank">剧情有时候都被打断</a>。这些中国视频网站更是“发明”了改变翻译的删减，比如<a href="https://chinadigitaltimes.net/chinese/676856.html" rel="noopener noreferrer" target="_blank">将女性“多重高潮”翻译为“说不完的八卦”</a>。不久之后，入选今年柏林电影节主竞赛单元的<a href="https://new.qq.com/omn/20220221/20220221A093O000.html" rel="noopener noreferrer" target="_blank">中国电影《隐入尘烟》突然宣布撤档</a>，原因未知。因为本片涉及农村题材，突然撤档引发了网民将本片和徐州铁链女的联想，猜想是否因为题材敏感被突然禁止。但这样的猜想无从证实，因为不管是片方还是官方，都不会对此给出任何解释。</p>
+  <p>删减、下架、不明原因的消失，成为了中国影视行业最近几年的常态。无论是上面提到的美剧、文艺片，还是像《芳华》、《八佰》这样的商业大片，都遭遇了审查制度突如其来的刁难。与此同时，院线里，红色主旋律电影的比重越来越高，而且也收获了大量票房。2021年十一档期上映的《长津湖》，以57.75亿人民币成为中国影史票房最高的电影；而位居第二的，是讲述虚构的海外撤侨行动的《战狼2》。</p>
+  <p>就在十年前，简体中文互联网上对于影视作品的删减，主流还保持着愤怒的态度，<a href="https://jikipedia.com/definition/935754748" rel="noopener noreferrer" target="_blank">“光腚总菊”</a>就是当时流行的讽刺主管电影审查的广电总局的讽刺称呼。而现在，不仅对于影视作品的删减越来越严重，连对于删减的讨论也被越来越严格禁止；愤怒的痕迹被抹掉，剩下的声音多是麻木，而主旋律作品的良好市场表现也改变了中国影视行业的生态。</p>
+  <h2 id="section"><strong>一、从“七君子上书”到“技术原因”：院线上映控制的进化</strong></h2>
+  <p>那么，从“光腚总菊”到自我阉割，审查制度是如何一步步改变了中国的文艺创作？</p>
+  <p>电影，尤其是在院线上映的电影，由于其巨大的影响力，一直受到官方的严格审查。2016年前，电影审查的法律依据是<a href="https://zh.wikisource.org/wiki/%E7%94%B5%E5%BD%B1%E7%AE%A1%E7%90%86%E6%9D%A1%E4%BE%8B_(2001%E5%B9%B4)" rel="noopener noreferrer" target="_blank">《电影审查条例》</a>，其中明文规定“国家实行电影审查制度”，只有经过审查，取得了《电影片公映许可证》的影片才能上映。这就是人们常说的“龙标”。2003年，七位中国电影人联名签署要求用电影分级取代电影审查的讨论提纲，提交电影局，被称为<a href="https://www.sohu.com/a/304690594_100048878" rel="noopener noreferrer" target="_blank">“七君子上书”事件</a>。这七人中包括了著名独立电影导演贾樟柯、娄烨、王小帅、电影批评家张献民等。虽然这一讨论提纲不出所料地没有产生政策改变，但七位电影人的勇敢和当时相对开放的媒体环境，还是让电影分级制度取代审查制度的话题引发了广泛的讨论。</p>
+  <p>2017年，《电影审查条例》被<a href="http://www.npc.gov.cn/zgrdw/npc/xinwen/2016-11/07/content_2001625.htm" rel="noopener noreferrer" target="_blank">《电影产业促进法》</a>所取代。从法律层级上讲，《电影产业促进法》属于人大立法，高于《电影审查条例》的国务院法规性质。内容上，被呼吁多年的电影分级制度并没有出现在法律中；相反地是，对于电影题材的禁令由十条增加到了十三条，并且规定“特殊题材”电影需要交给国务院或省区市电影主管部门审查。而且，这一法规并没有对何为“特殊题材”进行规定。同时，它还要求从业人员要“德艺双馨”，为封杀所谓的“劣迹艺人”提供了法律依据。2018年，官方对于电影审查的重视进一步提高；在当年的机构改革中，<a href="https://www.dw.com/zh/%E6%9C%BA%E6%9E%84%E6%94%B9%E9%9D%A9%E4%B8%AD%E5%AE%A3%E9%83%A8%E7%9B%B4%E6%8E%A5%E7%AE%A1%E7%90%86%E6%96%B0%E9%97%BB%E5%87%BA%E7%89%88%E5%92%8C%E7%94%B5%E5%BD%B1/a-43066850" rel="noopener noreferrer" target="_blank">电影工作被划归为共产党系统中的中宣部直接管理</a>。中国媒体学者展江认为这是“党的权力的进一步扩大“。</p>
+  <p>这一系列的制度变化不断体现在院线电影当中。从2019年开始，中国院线电影开始被以所谓“技术原因”为由大量撤档。其中包括了《八佰》、《少年的你》等商业大片，也有徐皓峰导演的《刀背藏身》等文艺片。<a href="https://chinadigitaltimes.net/chinese/620508.html" rel="noopener noreferrer" target="_blank">根据BBC中文网的报道</a>，数名业内人士都表示审查的尺度在变得越来越严，而且其标准更加难以捉摸。</p>
+  <p>国产片如此，<a href="https://chinadigitaltimes.net/chinese/664306.html" rel="noopener noreferrer" target="_blank">引进片自然也不能例外</a>。随着中韩外交关系交恶，韩国电影从2015年到2021年均未被引入国内院线放映。而因为所谓“辱华”的原因，由华裔导演赵婷执导、全球热门的电影《无依之地》，以及昆汀的《好莱坞往事》及之后的漫威电影《尚气》，均无缘在国内影院与观众见面，</p>
+  <p>与审查收紧同步的，是对于主旋律宣传的更加重视。2021年，官方在<a href="http://www.gov.cn/xinwen/2021-03/13/content_5592681.htm" rel="noopener noreferrer" target="_blank">《十四五规划中》</a>提出要“每年重点推出10部左右叫好又叫座的电影精品力作，每年票房过亿元国产影片达到50部左右”。这里的所谓“电影精品”指向的是主旋律大片。在《湄公河行动》、《战狼2》等民族主义影片获得良好市场反响之后，在2019年中华人民共和国成立60周年、2021年中共建党百年的相关档期，都安排了国家主推、与著名商业导演合作的主旋律影片上映。<a href="https://www.wainao.me/wainao-reads/evolving-censorship-of-chinese-film-02212022" rel="noopener noreferrer" target="_blank">根据媒体《歪脑》的报道</a>，这些影片已经成为国家整体宣传的一部分，按部就班地拍摄和宣发，最终也都取得了非常好的票房成绩。</p>
+  <h2 id="section-1"><strong>二、关上绕开审查的窄门：对电影节参展的审查演化</strong></h2>
+  <p>在院线之外，国际电影节也是展示电影艺术成就的舞台。在80年代到90年代，刚走出 “文革”寒冬的中国电影，一度在国际电影节上大放光芒。例如，张艺谋导演的《红高粱》获得柏林电影节金熊奖，《秋菊打官司》获得威尼斯电影节金狮奖，1993年陈凯歌导演的《霸王别姬》更是获得了戛纳电影节金棕榈奖，成为中国电影艺术成就的高峰。然而，当时这些导演却被国内一些人批评为<a href="http://ent.sina.com.cn/r/m/2003-10-23/0938219551.html" rel="noopener noreferrer" target="_blank">“靠丑化中国人来取悦外国评委”</a>，相关影片在国内也无法上映。</p>
+  <p>之后一代的导演，比如贾樟柯、娄烨，用更加个人的视角所呈现的故事，也受到了国际电影节的欢迎。贾樟柯导演的《三峡好人》获得威尼斯电影节金狮奖，《天注定》获得戛纳电影节最佳编剧，娄烨和贾樟柯的其他影片也多次入选顶级电影节主竞赛单元。然而，这一代导演面对的，不仅是批评和影片无法在国内上映的结果，还有禁止拍摄电影的惩罚。其中最为知名的例子，当属娄烨在2006年拍摄的电影《颐和园》。因为片中涉及大量性爱场面和对于六四事件、柏林墙倒塌的直接呈现，该片被电影局以所谓“技术原因”拒绝发放公映许可。之后，娄烨依旧携本片参加了戛纳电影节，因此<a href="http://cul.sohu.com/20090522/n264107690.shtml" rel="noopener noreferrer" target="_blank">被处以5年内不得从事电影相关行业的处罚</a>。</p>
+  <p>2017年的《电影产业促进法》，不仅继承了《电影审查条例》对未通过审查参加国外影展的5年禁止从事电影行业的限制，还加重了罚金。同时，涉及所谓 “劣迹艺人” 的条款和不成文的封杀威胁，使得近几年极少出现导演未经审查私自参加境外电影节的情况。2019年，已经贵为所谓 “国师” 的导演张艺谋执导了文革题材的电影《一秒钟》；该片在柏林电影节前几天因为 “技术原因” 临时退赛，引发电影界一片哗然。在当届电影闭幕式上，<a href="https://www.bilibili.com/video/BV1Nb41117iX/" rel="noopener noreferrer" target="_blank">评委会主席比诺什为张艺谋朗读了一封信</a>，其中写道： “我们需要艺术家来帮助我们理解历史与情感，《一秒钟》作为电影艺术，可以成为我们生活与思想真正的转变。” </p>
+  <h2 id="section-2"><strong>三、层层加码的自我审查：网络如何让我们更不自由</strong></h2>
+  <p>随着流媒体的发展，影视作品的观看方式也发生了很大的变化，电影院和电视都不再是观看影视的仅有途径，网络成为了新兴的流量聚集地。而在重重审查的中国影视环境中，互联网一度被赋予提供更多自由的希望；通过电驴、迅雷的下载工具下载无法过审的盗版影视资源，配上字幕组制作的字幕观看，成为一代中国网民的记忆。</p>
+  <p>随着版权意识和保护力度的提高，正版引进一度也在冲击着审查制度的尺度。据影评人波米评论，中国视频网站一度可以观看无法在院线过审引进的一些美国正版R级（也就是限制级）电影。搜狐也曾购买了《老友记》的版权，且并未被发现有删减问题。</p>
+  <p>然而好景不长，随着视频网站流量一起上升的，还有官方的审查尺度。<a href="http://gbdsj.gd.gov.cn/zwgk/zcfg/content/post_3072073.html" rel="noopener noreferrer" target="_blank">关于互联网影视的限制不断出台</a>，视频网站的自我审查也越发夸张。开头提到的《老友记》在腾讯、爱奇艺、优酷、B站同时上线后，一开始B站还是按照“多重高潮”的原意进行翻译，但在看到同行的“和谐版”翻译之后，<a href="https://www.zhihu.com/question/516054437/answer/2344438994" rel="noopener noreferrer" target="_blank">又自行将其改为了和同行一样的“聊不完的八卦”</a>。这些视频平台自我审查的“求生欲”，可见一斑。</p>
+  <p>导演娄烨说：<a href="http://www.ar7y.com/aelyl/22368.html" rel="noopener noreferrer" target="_blank">“最好的电影是自由的电影”</a>。然而，从院线到电影节，从大银幕到小屏幕，中国电影审查日趋严厉。而这背后，是共产党权力对于自由表达空间的不断挤压。</p>
+  <p><br /></p>
+  <p>中国数字时代 CDT 致力于记录和传播中文互联网上被审查的信息，以及人们与审查对抗的努力。我们邀请您参加敏感词开源研究项目和404文章存档项目，为记录和对抗中国网络审查作出你的贡献！详情请访问我们的网站 CDT.MEDIA.</p>
+  <p><br /></p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#中国数字时代 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-02-12/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC276%E6%9C%9F-%E5%94%B1%E7%A6%81%E6%AD%8C-%E5%88%B0-%E7%A6%81%E6%AD%A2%E5%90%90%E6%A7%BD-%E8%A7%81%E8%AF%81%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E5%8F%98%E8%BF%81%E7%9A%84%E6%98%A5%E6%99%9A/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2021-12-14/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E4%B8%93%E8%AE%BF-%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3%E5%AF%B9%E8%AF%9D-%E8%A7%A3%E6%9E%84%E6%96%B0%E7%96%86%E9%95%87%E5%8E%8B-%E7%AC%AC%E4%B8%80%E4%BD%9C%E8%80%85%E8%AE%B8%E7%A7%80%E4%B8%AD/">最早</a>--</span>
+    
+      <li>
+        <time>2022-03-29</time>
+        <a href="https://nodebe4.github.io/opinion/2022-03-29/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC85%E6%9C%9F-%E6%B6%88%E5%A4%B1%E7%9A%84%E4%B9%8C%E8%A1%A3-%E4%B8%B0%E5%8E%BF%E9%93%81%E9%93%BE%E5%A5%B3%E8%83%8C%E5%90%8E%E7%9A%84%E5%9B%BD%E5%AE%B6%E6%9A%B4%E5%8A%9B/">
+          【404档案馆】第85期：消失的乌衣：丰县铁链女背后的国家暴力
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-03-23</time>
+        <a href="https://nodebe4.github.io/opinion/2022-03-23/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC84%E6%9C%9F-%E4%BF%84%E7%BD%97%E6%96%AF%E8%83%9C%E5%88%A9%E4%BA%86-%E6%99%AE%E4%BA%AC%E8%83%9C%E5%88%A9%E4%BA%86-%E4%B8%AD%E5%9B%BD%E8%88%86%E8%AE%BA%E6%80%AA%E7%9B%B8%E7%9A%84%E9%AB%98%E5%A2%99%E6%98%AF%E5%A6%82%E4%BD%95%E5%BB%BA%E6%88%90%E7%9A%84/">
+          【404档案馆】第84期：“俄罗斯胜利了，普京胜利了！”——中国舆论怪相的高墙是如何建成的？
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-03-12</time>
+        <a href="https://nodebe4.github.io/opinion/2022-03-12/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC80%E6%9C%9F-%E6%B2%A1%E6%9C%89%E6%AF%94%E6%88%98%E4%BA%89%E6%9B%B4%E4%BD%8E%E7%BA%A7%E7%9A%84%E4%BE%B5%E7%95%A5-%E4%B8%AD%E5%9B%BD%E4%B8%A5%E5%AF%86%E5%AE%A1%E6%9F%A5%E4%B8%8E%E7%8B%82%E7%83%AD%E6%8C%BA%E4%BF%84%E6%83%85%E7%BB%AA%E7%BC%9D%E9%9A%99%E4%B8%AD%E7%9A%84%E5%8F%8D%E6%88%98%E4%B9%8B%E5%A3%B0/">
+          【404档案馆】第80期：“没有比战争更低级的侵略”——中国严密审查与狂热挺俄情绪缝隙中的反战之声
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-03-12</time>
+        <a href="https://nodebe4.github.io/opinion/2022-03-12/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC78%E6%9C%9F-%E5%AF%B9%E4%BF%84%E4%B8%8D%E5%88%A9-%E4%BA%B2%E8%A5%BF%E6%96%B9%E7%9A%84%E4%B8%8D%E5%8F%91-%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%98%E4%BA%89%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%88%86%E8%AE%BA/">
+          【404档案馆】第78期：“对俄不利、亲西方的不发”——乌克兰战争里的中国舆论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-03-19/%E6%AD%8C%E8%8E%89%E4%BA%9E%E7%9A%84%E5%A5%BD%E5%A5%87%E4%B8%AD%E5%B3%B6-35-%E6%88%91%E8%80%B3%E6%9C%B5%E6%83%B3%E6%97%85%E8%A1%8C-%E9%9A%94%E9%9B%A2%E5%B0%88%E7%94%A8%E7%9A%84%E5%A4%8F%E5%A8%81%E5%A4%B7%E6%AD%8C%E5%96%AE-%E5%98%89%E8%B3%93-%E8%B3%87%E6%B7%B1%E9%9F%B3%E6%A8%82%E6%96%87%E5%8C%96%E4%BA%BA-%E9%BB%83%E5%BF%97%E6%B7%99/">
+            前一篇：【歌莉亞的好奇中島】#35　我耳朵想旅行？隔離專用的夏威夷歌單（嘉賓：資深音樂文化人　黃志淙）
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-03-19/%E5%86%8D%E8%AB%87%E5%8F%8D%E9%80%81%E4%B8%AD%E9%81%8B%E5%8B%95%E7%9A%84%E9%87%8D%E5%A4%A7%E7%AD%96%E7%95%A5%E5%A4%B1%E8%AA%A4/">
+            後一篇：再談反送中運動的重大策略失誤
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-03-19/%E6%AD%8C%E8%8E%89%E4%BA%9E%E7%9A%84%E5%A5%BD%E5%A5%87%E4%B8%AD%E5%B3%B6-35-%E6%88%91%E8%80%B3%E6%9C%B5%E6%83%B3%E6%97%85%E8%A1%8C-%E9%9A%94%E9%9B%A2%E5%B0%88%E7%94%A8%E7%9A%84%E5%A4%8F%E5%A8%81%E5%A4%B7%E6%AD%8C%E5%96%AE-%E5%98%89%E8%B3%93-%E8%B3%87%E6%B7%B1%E9%9F%B3%E6%A8%82%E6%96%87%E5%8C%96%E4%BA%BA-%E9%BB%83%E5%BF%97%E6%B7%99/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-03-19/%E5%86%8D%E8%AB%87%E5%8F%8D%E9%80%81%E4%B8%AD%E9%81%8B%E5%8B%95%E7%9A%84%E9%87%8D%E5%A4%A7%E7%AD%96%E7%95%A5%E5%A4%B1%E8%AA%A4/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-03-23/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC84%E6%9C%9F-%E4%BF%84%E7%BD%97%E6%96%AF%E8%83%9C%E5%88%A9%E4%BA%86-%E6%99%AE%E4%BA%AC%E8%83%9C%E5%88%A9%E4%BA%86-%E4%B8%AD%E5%9B%BD%E8%88%86%E8%AE%BA%E6%80%AA%E7%9B%B8%E7%9A%84%E9%AB%98%E5%A2%99%E6%98%AF%E5%A6%82%E4%BD%95%E5%BB%BA%E6%88%90%E7%9A%84/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-03-12/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC80%E6%9C%9F-%E6%B2%A1%E6%9C%89%E6%AF%94%E6%88%98%E4%BA%89%E6%9B%B4%E4%BD%8E%E7%BA%A7%E7%9A%84%E4%BE%B5%E7%95%A5-%E4%B8%AD%E5%9B%BD%E4%B8%A5%E5%AF%86%E5%AE%A1%E6%9F%A5%E4%B8%8E%E7%8B%82%E7%83%AD%E6%8C%BA%E4%BF%84%E6%83%85%E7%BB%AA%E7%BC%9D%E9%9A%99%E4%B8%AD%E7%9A%84%E5%8F%8D%E6%88%98%E4%B9%8B%E5%A3%B0/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-03-19/%E6%AD%8C%E8%8E%89%E4%BA%9E%E7%9A%84%E5%A5%BD%E5%A5%87%E4%B8%AD%E5%B3%B6-35-%E6%88%91%E8%80%B3%E6%9C%B5%E6%83%B3%E6%97%85%E8%A1%8C-%E9%9A%94%E9%9B%A2%E5%B0%88%E7%94%A8%E7%9A%84%E5%A4%8F%E5%A8%81%E5%A4%B7%E6%AD%8C%E5%96%AE-%E5%98%89%E8%B3%93-%E8%B3%87%E6%B7%B1%E9%9F%B3%E6%A8%82%E6%96%87%E5%8C%96%E4%BA%BA-%E9%BB%83%E5%BF%97%E6%B7%99/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-03-19/%E5%86%8D%E8%AB%87%E5%8F%8D%E9%80%81%E4%B8%AD%E9%81%8B%E5%8B%95%E7%9A%84%E9%87%8D%E5%A4%A7%E7%AD%96%E7%95%A5%E5%A4%B1%E8%AA%A4/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<中国数字时代>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-03-23/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC84%E6%9C%9F-%E4%BF%84%E7%BD%97%E6%96%AF%E8%83%9C%E5%88%A9%E4%BA%86-%E6%99%AE%E4%BA%AC%E8%83%9C%E5%88%A9%E4%BA%86-%E4%B8%AD%E5%9B%BD%E8%88%86%E8%AE%BA%E6%80%AA%E7%9B%B8%E7%9A%84%E9%AB%98%E5%A2%99%E6%98%AF%E5%A6%82%E4%BD%95%E5%BB%BA%E6%88%90%E7%9A%84/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<中国数字时代>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-03-12/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC80%E6%9C%9F-%E6%B2%A1%E6%9C%89%E6%AF%94%E6%88%98%E4%BA%89%E6%9B%B4%E4%BD%8E%E7%BA%A7%E7%9A%84%E4%BE%B5%E7%95%A5-%E4%B8%AD%E5%9B%BD%E4%B8%A5%E5%AF%86%E5%AE%A1%E6%9F%A5%E4%B8%8E%E7%8B%82%E7%83%AD%E6%8C%BA%E4%BF%84%E6%83%85%E7%BB%AA%E7%BC%9D%E9%9A%99%E4%B8%AD%E7%9A%84%E5%8F%8D%E6%88%98%E4%B9%8B%E5%A3%B0/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

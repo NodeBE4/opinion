@@ -1,0 +1,2491 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Yvan888在2019-10-07~2019-10-13的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Yvan888在2019-10-07~2019-10-13的言论" />
+    <meta property="twitter:title" content="Yvan888在2019-10-07~2019-10-13的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FChina_irl%2Fcomments%2Fdf0plf%2F%E8%BF%99%E6%AC%A1nba%E7%9A%84%E6%84%8F%E4%B9%89%E6%AF%94%E6%83%B3%E8%B1%A1%E4%B8%AD%E7%9A%84%E8%A6%81%E5%A4%A7%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/China_irl/comments/df0plf/这次nba的意义比想象中的要大/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/China_irl/comments/df0plf/这次nba的意义比想象中的要大/&text=Yvan888在2019-10-07~2019-10-13的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/China_irl/comments/df0plf/这次nba的意义比想象中的要大/&title=Yvan888在2019-10-07~2019-10-13的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/China_irl/comments/df0plf/这次nba的意义比想象中的要大/&title=Yvan888在2019-10-07~2019-10-13的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Yvan888在2019-10-07~2019-10-13的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/China_irl/comments/df0plf/这次nba的意义比想象中的要大/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/China_irl/comments/df0plf/这次nba的意义比想象中的要大/&title=Yvan888在2019-10-07~2019-10-13的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Yvan888在2019-10-07~2019-10-13的言论&url=https://old.reddit.com/r/China_irl/comments/df0plf/这次nba的意义比想象中的要大/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Yvan888在2019-10-07~2019-10-13的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2019-10-08
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://www.reddit.com/user/Yvan888/" style="font-size:14px;">作者: Yvan888</a>
+        </span>
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/China_irl/comments/df0plf/这次nba的意义比想象中的要大/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#537-这次nba的意义比想象中的要大-submitted-on-2019-10-08-2228040800" id="markdown-toc-537-这次nba的意义比想象中的要大-submitted-on-2019-10-08-2228040800">537: 这次nba的意义比想象中的要大, submitted on 2019-10-08 22:28:04+08:00.</a></li>
+  <li><a href="#538-i-dont-have-the-prettiest-notes-but-im-enjoying-that-more-apps-are-going-dark-submitted-on-2019-10-09-0217090800" id="markdown-toc-538-i-dont-have-the-prettiest-notes-but-im-enjoying-that-more-apps-are-going-dark-submitted-on-2019-10-09-0217090800">538: I don’t have the prettiest notes, but I’m enjoying that more apps are going dark!, submitted on 2019-10-09 02:17:09+08:00.</a></li>
+  <li><a href="#539-胡锡进nba需要付出代价-但停止合作无需成风潮-submitted-on-2019-10-09-1221360800" id="markdown-toc-539-胡锡进nba需要付出代价-但停止合作无需成风潮-submitted-on-2019-10-09-1221360800">539: 胡锡进:NBA需要付出代价 但停止合作无需成风潮, submitted on 2019-10-09 12:21:36+08:00.</a></li>
+  <li><a href="#540-有没有人用过品葱论坛-submitted-on-2019-10-09-1257450800" id="markdown-toc-540-有没有人用过品葱论坛-submitted-on-2019-10-09-1257450800">540: 有没有人用过品葱论坛, submitted on 2019-10-09 12:57:45+08:00.</a></li>
+  <li><a href="#541-satellite-images-reveal-china-is-destroying-muslim-graveyards-where-generations-of-uighur-families-are-buried-and-replaces-them-with-car-parks-and-playgrounds-to-eradicate-the-ethnic-groups-identity-submitted-on-2019-10-09-1833170800" id="markdown-toc-541-satellite-images-reveal-china-is-destroying-muslim-graveyards-where-generations-of-uighur-families-are-buried-and-replaces-them-with-car-parks-and-playgrounds-to-eradicate-the-ethnic-groups-identity-submitted-on-2019-10-09-1833170800">541: Satellite images reveal China is destroying Muslim graveyards where generations of Uighur families are buried and replaces them with car parks and playgrounds ‘to eradicate the ethnic group’s identity’, submitted on 2019-10-09 18:33:17+08:00.</a></li>
+  <li><a href="#542-中国不让讨论美国不放下偏见nba这个问题无解-submitted-on-2019-10-09-2227050800" id="markdown-toc-542-中国不让讨论美国不放下偏见nba这个问题无解-submitted-on-2019-10-09-2227050800">542: 中国不让讨论，美国不放下偏见，NBA这个问题无解！, submitted on 2019-10-09 22:27:05+08:00.</a></li>
+  <li><a href="#543-dutch-parliament-passes-motion-supporting-taiwans-international-participation-submitted-on-2019-10-09-2251540800" id="markdown-toc-543-dutch-parliament-passes-motion-supporting-taiwans-international-participation-submitted-on-2019-10-09-2251540800">543: Dutch parliament passes motion supporting Taiwan’s international participation, submitted on 2019-10-09 22:51:54+08:00.</a></li>
+  <li><a href="#544-blizzard-employees-staged-a-walkout-after-the-company-banned-a-gamer-for-pro-hong-kong-views-submitted-on-2019-10-10-0445170800" id="markdown-toc-544-blizzard-employees-staged-a-walkout-after-the-company-banned-a-gamer-for-pro-hong-kong-views-submitted-on-2019-10-10-0445170800">544: Blizzard Employees Staged a Walkout After the Company Banned a Gamer for Pro-Hong Kong Views, submitted on 2019-10-10 04:45:17+08:00.</a></li>
+  <li><a href="#545-immigrants-from-china-what-was-a-peice-of-media-you-didnt-know-was-censored-until-you-left-china-submitted-on-2019-10-10-0848090800" id="markdown-toc-545-immigrants-from-china-what-was-a-peice-of-media-you-didnt-know-was-censored-until-you-left-china-submitted-on-2019-10-10-0848090800">545: Immigrants from china, what was a peice of media you didnt know was censored until you left china?, submitted on 2019-10-10 08:48:09+08:00.</a></li>
+  <li><a href="#546-martial-law-lite-hong-kong-has-echoes-of-pre-tiananmen-days-submitted-on-2019-10-10-1434370800" id="markdown-toc-546-martial-law-lite-hong-kong-has-echoes-of-pre-tiananmen-days-submitted-on-2019-10-10-1434370800">546: Martial law lite: Hong Kong has echoes of pre-Tiananmen days, submitted on 2019-10-10 14:34:37+08:00.</a></li>
+  <li><a href="#547-china-anger-over-hong-kong-ensnares-apple-nba-activision-blizzard-submitted-on-2019-10-10-1736450800" id="markdown-toc-547-china-anger-over-hong-kong-ensnares-apple-nba-activision-blizzard-submitted-on-2019-10-10-1736450800">547: China anger over Hong Kong ensnares Apple, NBA, Activision Blizzard, submitted on 2019-10-10 17:36:45+08:00.</a></li>
+  <li><a href="#548-虎扑这群人疯了吧是要复辟文革吗-submitted-on-2019-10-10-2051400800" id="markdown-toc-548-虎扑这群人疯了吧是要复辟文革吗-submitted-on-2019-10-10-2051400800">548: 虎扑这群人疯了吧??是要复辟文革吗??, submitted on 2019-10-10 20:51:40+08:00.</a></li>
+  <li><a href="#549-south-park-declares-f-the-chinese-government-in-300th-episode-after-the-show-was-banned-in-china-submitted-on-2019-10-10-2148460800" id="markdown-toc-549-south-park-declares-f-the-chinese-government-in-300th-episode-after-the-show-was-banned-in-china-submitted-on-2019-10-10-2148460800">549: ‘South Park’ declares ‘F— the Chinese government’ in 300th episode after the show was banned in China, submitted on 2019-10-10 21:48:46+08:00.</a></li>
+  <li><a href="#550-this-image-is-illegal-in-china-tiananmen-square-1989-massacre-submitted-on-2019-10-10-2234380800" id="markdown-toc-550-this-image-is-illegal-in-china-tiananmen-square-1989-massacre-submitted-on-2019-10-10-2234380800">550: This image is illegal in China. Tiananmen Square 1989 massacre, submitted on 2019-10-10 22:34:38+08:00.</a></li>
+  <li><a href="#551-how-to-use-notability-for-web-research-submitted-on-2019-10-11-0609340800" id="markdown-toc-551-how-to-use-notability-for-web-research-submitted-on-2019-10-11-0609340800">551: How to use Notability for web research, submitted on 2019-10-11 06:09:34+08:00.</a></li>
+  <li><a href="#552-14-billion-people-have-never-seen-this-image-submitted-on-2019-10-11-0627220800" id="markdown-toc-552-14-billion-people-have-never-seen-this-image-submitted-on-2019-10-11-0627220800">552: 1.4 Billion People have Never seen this Image…, submitted on 2019-10-11 06:27:22+08:00.</a></li>
+  <li><a href="#553-温家宝谈政体改革-强调文革悲剧很可能再次上演-submitted-on-2019-10-11-1006350800" id="markdown-toc-553-温家宝谈政体改革-强调文革悲剧很可能再次上演-submitted-on-2019-10-11-1006350800">553: 温家宝谈政体改革 强调文革悲剧很可能再次上演, submitted on 2019-10-11 10:06:35+08:00.</a></li>
+  <li><a href="#554-你们喷中国敏感为什么不想想美国-submitted-on-2019-10-11-1234250800" id="markdown-toc-554-你们喷中国敏感为什么不想想美国-submitted-on-2019-10-11-1234250800">554: 你们喷中国敏感，为什么不想想美国？, submitted on 2019-10-11 12:34:25+08:00.</a></li>
+</ul>
+
+<h3 id="537-这次nba的意义比想象中的要大-submitted-on-2019-10-08-2228040800">537: <a href="https://old.reddit.com/r/China_irl/comments/df0plf/这次nba的意义比想象中的要大/">这次nba的意义比想象中的要大</a>, submitted on 2019-10-08 22:28:04+08:00.</h3>
+
+<p>—– <strong>537.1</strong> —–2019-10-09 09:24:23+08:00:</p>
+
+<p>两遍舆论都一直有追踪</p>
+
+<p>西方不懂中国</p>
+
+<p>但中国更加不懂西方</p>
+
+<p>不管是文化还是意识形态</p>
+
+<p>不看好未来</p>
+
+<h3 id="538-i-dont-have-the-prettiest-notes-but-im-enjoying-that-more-apps-are-going-dark-submitted-on-2019-10-09-0217090800">538: <a href="https://old.reddit.com/r/ipad/comments/df3w17/i_dont_have_the_prettiest_notes_but_im_enjoying/">I don’t have the prettiest notes, but I’m enjoying that more apps are going dark!</a>, submitted on 2019-10-09 02:17:09+08:00.</h3>
+
+<p>—– <strong>538.1</strong> —–2019-10-09 09:20:49+08:00:</p>
+
+<p>tbh I always feel my handwriting working better on Notability than Goodnotes, not sure whehter it’s my problem</p>
+
+<p>because actually I really prefer the Goodnotes’ layout</p>
+
+<h3 id="539-胡锡进nba需要付出代价-但停止合作无需成风潮-submitted-on-2019-10-09-1221360800">539: <a href="https://old.reddit.com/r/China_irl/comments/dfbvu0/胡锡进nba需要付出代价_但停止合作无需成风潮/">胡锡进:NBA需要付出代价 但停止合作无需成风潮</a>, submitted on 2019-10-09 12:21:36+08:00.</h3>
+
+<p>—– <strong>539.1</strong> —–2019-10-10 03:30:59+08:00:</p>
+
+<p>民族主义，既能载舟，亦能覆舟</p>
+
+<h3 id="540-有没有人用过品葱论坛-submitted-on-2019-10-09-1257450800">540: <a href="https://old.reddit.com/r/China_irl/comments/dfc8m5/有没有人用过品葱论坛/">有没有人用过品葱论坛</a>, submitted on 2019-10-09 12:57:45+08:00.</h3>
+
+<p>—– <strong>540.1</strong> —–2019-10-10 03:28:54+08:00:</p>
+
+<p>现在国内还有什么论坛不红呢？虎扑？知乎？微博？我怀疑国家特别关照那些年轻人多的论坛</p>
+
+<p>—– <strong>540.2</strong> —–2019-10-11 09:32:21+08:00:</p>
+
+<p>我个人是不用虎扑的 不知道那里的历史变化</p>
+
+<p>反正 知乎 微博 是一年年从比较自由派变得比较红 但一直都是在我认为合理的程度内 但这两年来 太过激了</p>
+
+<p>连一些传统的保守派都出来降温</p>
+
+<h3 id="541-satellite-images-reveal-china-is-destroying-muslim-graveyards-where-generations-of-uighur-families-are-buried-and-replaces-them-with-car-parks-and-playgrounds-to-eradicate-the-ethnic-groups-identity-submitted-on-2019-10-09-1833170800">541: <a href="https://old.reddit.com/r/worldnews/comments/dff5pq/satellite_images_reveal_china_is_destroying/">Satellite images reveal China is destroying Muslim graveyards where generations of Uighur families are buried and replaces them with car parks and playgrounds ‘to eradicate the ethnic group’s identity’</a>, submitted on 2019-10-09 18:33:17+08:00.</h3>
+
+<p>—– <strong>541.1</strong> —–2019-10-11 07:25:05+08:00:</p>
+
+<p>not to say lots of European outside Germany at that times hated Jews too</p>
+
+<h3 id="542-中国不让讨论美国不放下偏见nba这个问题无解-submitted-on-2019-10-09-2227050800">542: <a href="https://old.reddit.com/r/China_irl/comments/dfhsqv/中国不让讨论美国不放下偏见nba这个问题无解/">中国不让讨论，美国不放下偏见，NBA这个问题无解！</a>, submitted on 2019-10-09 22:27:05+08:00.</h3>
+
+<p>—– <strong>542.1</strong> —–2019-10-10 03:27:30+08:00:</p>
+
+<p>说的很好，国内什么东西都用民族主义那一套，现在自己被绑在上面下不来了，而且用多了效果就没那么明显了</p>
+
+<p>可惜习已经不久前定性了，什么鬼长期斗争，除非换一届换个大方向，不然只会越来越紧</p>
+
+<h3 id="543-dutch-parliament-passes-motion-supporting-taiwans-international-participation-submitted-on-2019-10-09-2251540800">543: <a href="https://old.reddit.com/r/China/comments/dfi4i8/dutch_parliament_passes_motion_supporting_taiwans/">Dutch parliament passes motion supporting Taiwan’s international participation</a>, submitted on 2019-10-09 22:51:54+08:00.</h3>
+
+<p>—– <strong>543.1</strong> —–2019-10-11 12:02:15+08:00:</p>
+
+<p>tbh every time I check the map, it always amazes me that China didn’t occupy such a “close” Taiwan island until Ming dynasty</p>
+
+<p>Maybe that’s the difference between continental civilization (China) and marine civilization (the west)</p>
+
+<p>—– <strong>543.2</strong> —–2019-10-11 12:03:19+08:00:</p>
+
+<p>tbh every time I check the map, it always amazes me that China didn’t occupy such a “close” Taiwan island until Ming dynasty</p>
+
+<p>Maybe that’s the difference between continental civilization (China) and marine civilization (the west)</p>
+
+<h3 id="544-blizzard-employees-staged-a-walkout-after-the-company-banned-a-gamer-for-pro-hong-kong-views-submitted-on-2019-10-10-0445170800">544: <a href="https://old.reddit.com/r/news/comments/dfn3yi/blizzard_employees_staged_a_walkout_after_the/">Blizzard Employees Staged a Walkout After the Company Banned a Gamer for Pro-Hong Kong Views</a>, submitted on 2019-10-10 04:45:17+08:00.</h3>
+
+<p>—– <strong>544.1</strong> —–2019-10-11 07:16:22+08:00:</p>
+
+<p>Thank you. Am chinese</p>
+
+<h3 id="545-immigrants-from-china-what-was-a-peice-of-media-you-didnt-know-was-censored-until-you-left-china-submitted-on-2019-10-10-0848090800">545: <a href="https://old.reddit.com/r/AskReddit/comments/dfqct8/immigrants_from_china_what_was_a_peice_of_media/">Immigrants from china, what was a peice of media you didnt know was censored until you left china?</a>, submitted on 2019-10-10 08:48:09+08:00.</h3>
+
+<p>—– <strong>545.1</strong> —–2019-10-11 07:54:08+08:00:</p>
+
+<blockquote>
+  <p>it was described as a place full of rebels with guns who’d shoot at them if they tried.</p>
+</blockquote>
+
+<p>I’m mainland Chinese, tbh nearly none of us would regard modern Taiwan as a dangerous place.</p>
+
+<p>Are you sure that you were not talking about Taiwan in last century​ (before 1992)?</p>
+
+<p>—– <strong>545.2</strong> —–2019-10-11 09:12:33+08:00:</p>
+
+<p>I’m Chinese student studying in the US. I was and still is a fan of politics and some of my older acquaintances working in the government so I had motivation and chance to probe more within China than my peers (tho pretty sure there are lots of my Chinese politics-savvy fellows knowing more than me; all the schools I was in are prestigious ones in China)</p>
+
+<p><strong>What I knew before coming to the states:</strong></p>
+
+<ul>
+  <li>
+    <p><em>Great Leap Forward</em>: taught in middle and high school and depicted as a wrong and uncontrolled government social test</p>
+  </li>
+  <li>
+    <p><em>Cultural Revolution</em>: taught in middle and high school but depicted as Mao Zedong being deceived by others and mistakenly started Cultural Revolution, though I knew it’s a byproduct of the power struggle within the party (Mao Zedong vs Liu Shaoqi)</p>
+  </li>
+  <li>
+    <p><em>Three-anti and Five-anti Campaigns etc</em>: taught in middle and high school but covered little</p>
+  </li>
+  <li>
+    <p><em>Fa Lungong Suppression</em>: all Chinese know FLG but some may hold a different opinion</p>
+  </li>
+  <li>
+    <p><em>Tiananmen Protest</em>: censored within China; some of us know it but some may hold a different opinion; I knew it when in middle school grade 2 but my view changed several times, from support to against to support (now)</p>
+  </li>
+  <li>
+    <p><em>Some other details about the scandal and power struggle within the party etc</em></p>
+  </li>
+</ul>
+
+<p><strong>What I didn’t know until coming to the states:</strong></p>
+
+<ul>
+  <li>
+    <p><em>IP Violation and Chinese Spy Narrative</em>: I’m still not that sure the extent of IP violation and spying from China (i.e. even if there exists such a thing, whether it’s a pure ill but natural IP domestic environment or deliberate government-led activity, whether it’s a natural prosecution from the American administration or an excuse for an upper-hand in the Sino-US trade war negotiation just as what has happened during the Japan-US trade war in last century) but these western narratives and evidences allow me to understand the American angry towards Chinese government and companies instead of being manipulated by the one-side nationalism propaganda. I can bet that such stories would not be told within the Great Firewall and all the Chinese citizens know is just the never-ending merchandise attacks from the US to maintain its evil hegemony</p>
+  </li>
+  <li>
+    <p><em>The West Is Not Hostile to Chinese People</em>: China was stuck in an anachronous world view rooted from <a href="https://en.wikipedia.org/wiki/Century_of_humiliation">Century of Humilitation</a> (1840-1945; from Opium war to the end of Sino-Japan war), enforced by the thousands of years of the Great Unification tradition, and manipulated by the government. We dismiss the fact that the west turns from imperialism to liberalism. That’s why some Chinese hate the western impugns on Xinjiang/Tibet/Taiwan/HK for human rights and freedom because lots of them think it’s just a hypocritical excuse for the west to play Divide and Conquer game on China again just like one century ago. Also, though Chinese people know the difference between country and regime they sometimes don’t buy the western reports on CCP because they’re afraid ending up in chaos like the Soviet Union, Ukraine, Syria, Iraq and so on under the euphuism of fighting for freedom and democracy (the countries I listed above are the counterexamples of democracy and freedom used by CCP to persuade the people to resist the western ideology). It’s hard for Chinese people to distinguish the attack between towards the regime (Korean war, Vietnamese war, <a href="https://en.wikipedia.org/wiki/United_States_bombing_of_the_Chinese_embassy_in_Belgrade">United States bombing of the Chinese embassy in Belgrade</a>, the ​high-tech embargo on China, … just too much) and towards the civilization.</p>
+  </li>
+</ul>
+
+<p>I used to hate the west because I’m also a guy suffering from these propagandas but after coming to the states, staying on this land, and communicating with some westerners, I can more and more understand the mindset and feeling from the west. Surprisingly, after imbibing the different ideologies, you will have an exactly different view on the facts you have known before. For example, I knew the western impugns on China’s movement on Xinjiang and though it’s an epitome of western soft-power hegemony but now I felt sad for the inhuman treatment to the Uigurs. Although I still support some traditional Chinese opinions, such as the country’s unification, I begin to bring these thoughts and explain the western view to my Chinese friends to alleviate their blind and insane nationalism.</p>
+
+<p>—– <strong>545.3</strong> —–2019-10-11 11:33:13+08:00:</p>
+
+<p>tbh that’s how some Chinese views the western impugns on China too (I know the west changed a lot tho</p>
+
+<p>—– <strong>545.4</strong> —–2019-10-11 11:36:03+08:00:</p>
+
+<p>Besides the cultural different and deliberate propaganda from CCP</p>
+
+<p>There is one more reason: China is a nation-state, unlike the US</p>
+
+<p>(Am Chinese)</p>
+
+<h3 id="546-martial-law-lite-hong-kong-has-echoes-of-pre-tiananmen-days-submitted-on-2019-10-10-1434370800">546: <a href="https://old.reddit.com/r/geopolitics/comments/dfu0wr/martial_law_lite_hong_kong_has_echoes_of/">Martial law lite: Hong Kong has echoes of pre-Tiananmen days</a>, submitted on 2019-10-10 14:34:37+08:00.</h3>
+
+<p>—– <strong>546.1</strong> —–2019-10-11 12:46:06+08:00:</p>
+
+<blockquote>
+  <p>but could be advantageous for China in the long term</p>
+</blockquote>
+
+<p>How?</p>
+
+<p>I think lots of MNC APAC HQ and international captial will flee from HK to SGP instead of SH, so CCP has weaker control over them</p>
+
+<p>SH cannot replace HK wholly due to different constitution</p>
+
+<p>CCP still need HK, an international hub, to be the white glove to secure the financial/material/informative resources​ from the free world</p>
+
+<p>—– <strong>546.2</strong> —–2019-10-17 10:02:02+08:00:</p>
+
+<p>I don’t think there is a mutually​ exclusive relationship between building APAC HQ in SGP and earning money in China, and SGP is sometimes also included in the Greater China area.</p>
+
+<p>Not to mention that, SGP can be the HQ projecting to SEA and India market too, which have a similarly​ huge amount of customers</p>
+
+<p>—– <strong>546.3</strong> —–2019-10-17 10:03:31+08:00:</p>
+
+<p>I don’t think there is a mutually exclusive relationship between building APAC HQ in SGP and earning money in China, and SGP is sometimes also included in the Greater China area.</p>
+
+<p>Not to mention that, SGP can be the HQ projecting to SEA and India market too, which have a similarly​ huge amount of customers</p>
+
+<h3 id="547-china-anger-over-hong-kong-ensnares-apple-nba-activision-blizzard-submitted-on-2019-10-10-1736450800">547: <a href="https://old.reddit.com/r/China/comments/dfvk35/china_anger_over_hong_kong_ensnares_apple_nba/">China anger over Hong Kong ensnares Apple, NBA, Activision Blizzard</a>, submitted on 2019-10-10 17:36:45+08:00.</h3>
+
+<p>—– <strong>547.1</strong> —–2019-10-11 09:42:11+08:00:</p>
+
+<p>That’s what happen when you abuse <em>nationalism</em></p>
+
+<p>Now CCP is stuck in it</p>
+
+<h3 id="548-虎扑这群人疯了吧是要复辟文革吗-submitted-on-2019-10-10-2051400800">548: <a href="https://old.reddit.com/r/China_irl/comments/dfxkh0/虎扑这群人疯了吧是要复辟文革吗/">虎扑这群人疯了吧??是要复辟文革吗??</a>, submitted on 2019-10-10 20:51:40+08:00.</h3>
+
+<p>—– <strong>548.1</strong> —–2019-10-11 10:58:22+08:00:</p>
+
+<p>以前是大事化小 现在是小事化大 (而且下不来)</p>
+
+<p>—– <strong>548.2</strong> —–2019-10-11 11:01:38+08:00:</p>
+
+<p>中国怎么会跟苏联一样呢?</p>
+
+<p>中国现在的经济已经跟世界/西方高度接轨了, 根本不会发生苏联那种经济问题</p>
+
+<p>当然, 不是全没问题, 问题大多是民族问题, 但老实讲, 民族问题现在也搞不太好, 只是一直压着而已, 所以没差</p>
+
+<p>—– <strong>548.3</strong> —–2019-10-11 11:03:17+08:00:</p>
+
+<blockquote>
+  <p>不过幸运的是沉默的大多数还是有自己的想法的</p>
+</blockquote>
+
+<p>这句话是对的 但我一直很好奇程度和比例有多少 因为香港事件以来 我身边很多中立甚至是比较反动的 都被推向了民族主义那边</p>
+
+<p>—– <strong>548.4</strong> —–2019-10-11 12:07:38+08:00:</p>
+
+<p>中国基数大 一个帖子几百人我也看不出啥 又没得做舆论普查</p>
+
+<p>—– <strong>548.5</strong> —–2019-10-11 12:08:05+08:00:</p>
+
+<blockquote>
+  <p>双面人</p>
+</blockquote>
+
+<p>这跟我父母的解释倒是不谋而合。哈哈</p>
+
+<p>党内也多是双面人</p>
+
+<h3 id="549-south-park-declares-f-the-chinese-government-in-300th-episode-after-the-show-was-banned-in-china-submitted-on-2019-10-10-2148460800">549: <a href="https://old.reddit.com/r/worldnews/comments/dfy9md/south_park_declares_f_the_chinese_government_in/">‘South Park’ declares ‘F— the Chinese government’ in 300th episode after the show was banned in China</a>, submitted on 2019-10-10 21:48:46+08:00.</h3>
+
+<p>—– <strong>549.1</strong> —–2019-10-11 07:42:37+08:00:</p>
+
+<p>I’m Chinese, most of us don’t like the Chinese-Customized Hollywood Movies</p>
+
+<p>We just NEED the normal Hollywood movies, like you</p>
+
+<p>Not sure why it happens, maybe it can help them pass the China’s movie importation test</p>
+
+<h3 id="550-this-image-is-illegal-in-china-tiananmen-square-1989-massacre-submitted-on-2019-10-10-2234380800">550: <a href="https://old.reddit.com/r/pics/comments/dfyw13/this_image_is_illegal_in_china_tiananmen_square/">This image is illegal in China. Tiananmen Square 1989 massacre</a>, submitted on 2019-10-10 22:34:38+08:00.</h3>
+
+<p>—– <strong>550.1</strong> —–2019-10-11 10:15:53+08:00:</p>
+
+<blockquote>
+  <p>They don’t believe Tienanmen Square happened</p>
+</blockquote>
+
+<p>Am Chinese, and it’s pretty common that Chinese people don’t know TAM and/or hold a different opinion on TAM (i.e. they know it happened but don’t endorse it)</p>
+
+<p>But, really, I cannot believe some of them denying the existence of TAM… I have NEVER encountered one of them in my life</p>
+
+<h3 id="551-how-to-use-notability-for-web-research-submitted-on-2019-10-11-0609340800">551: <a href="https://old.reddit.com/r/notabilityapp/comments/dg5ex1/how_to_use_notability_for_web_research/">How to use Notability for web research</a>, submitted on 2019-10-11 06:09:34+08:00.</h3>
+
+<p>—– <strong>551.1</strong> —–2019-10-11 12:10:46+08:00:</p>
+
+<p>for web research, I would recommend OneNote which has both fancy web clipper and versatile writing, drawing, ​and typing functions</p>
+
+<p>Notability is more focused on writing</p>
+
+<h3 id="552-14-billion-people-have-never-seen-this-image-submitted-on-2019-10-11-0627220800">552: <a href="https://old.reddit.com/r/pics/comments/dg5mze/14_billion_people_have_never_seen_this_image/">1.4 Billion People have Never seen this Image…</a>, submitted on 2019-10-11 06:27:22+08:00.</h3>
+
+<p>—– <strong>552.1</strong> —–2019-10-11 12:12:57+08:00:</p>
+
+<p>You ruined my night</p>
+
+<h3 id="553-温家宝谈政体改革-强调文革悲剧很可能再次上演-submitted-on-2019-10-11-1006350800">553: <a href="https://old.reddit.com/r/China_irl/comments/dg8e9t/温家宝谈政体改革_强调文革悲剧很可能再次上演/">温家宝谈政体改革 强调文革悲剧很可能再次上演</a>, submitted on 2019-10-11 10:06:35+08:00.</h3>
+
+<p>—– <strong>553.1</strong> —–2019-10-11 10:31:49+08:00:</p>
+
+<p>上次看 是在谈薄熙来</p>
+
+<p>现在看来 习薄根本没区别</p>
+
+<p>不管这个舆论的紧迫趋势 是主动还是被迫</p>
+
+<p>—– <strong>553.2</strong> —–2019-10-11 12:06:43+08:00:</p>
+
+<p>我不认为他是做样子 反贪 压房价 都是他真想为中国做实事的 (当然 反贪也有夺权 不矛盾)</p>
+
+<p>可是 路线错了 做得越多越反动 试问带来三年灾害等高官 不也是想做实事吗? 可惜无能</p>
+
+<p>—– <strong>553.3</strong> —–2019-10-11 12:30:57+08:00:</p>
+
+<p>我的意思是 他反贪不完全是为了(打压政敌)集权 这几年国内官场的确清净了不少 现在的问题反而是 谁都怕负责任然后谁都不想干活</p>
+
+<p>—– <strong>553.4</strong> —–2019-10-12 00:57:23+08:00:</p>
+
+<blockquote>
+  <p>无论任何政治体制，当权者做事唯一目的就是维持权力</p>
+</blockquote>
+
+<p>那是因为你极端简化了 人的追求的多样性</p>
+
+<h3 id="554-你们喷中国敏感为什么不想想美国-submitted-on-2019-10-11-1234250800">554: <a href="https://old.reddit.com/r/China_irl/comments/dga0gj/你们喷中国敏感为什么不想想美国/">你们喷中国敏感，为什么不想想美国？</a>, submitted on 2019-10-11 12:34:25+08:00.</h3>
+
+<p>—– <strong>554.1</strong> —–2019-10-11 13:26:30+08:00:</p>
+
+<p>首先, 香港大多数人是五大诉求并不是港独, NBA那位仁兄也完全没说是支持港独, 我也不认为他支持港独 (当然, 我知道国内很多人不管知不知道香港的五大诉求, 都把这次事件斥之为港独). 虽然现在香港社会戾气越来越重了, 某些港人连带着对大陆人甚至是中国这个身份都产生厌恶, 但你要明白这种厌恶从何而来, 毕竟香港激进本土派是2010年前后才出现的东西, 不像西藏新疆台湾是历史遗留问题, 做了英殖民地那么久那会也完全没有独立的声音啊. 归根到底, 香港人反的是政权, 不是国家/文明.</p>
+
+<p>西方的政治正确确实是有矫枉过正之嫌, 但我更加不能理解知乎等网站对这现象的抨击, 因为中国现在是政治正确太少而不是太多, 而且明明许多中国人在西方享受着政治正确的好处 (别提什么亚裔被其他少数族裔骑头上, 若当年没政治正确, 全部少数族裔都没得入这门, 包括亚裔)</p>
+
+<p>中国的确是因为百年耻辱很敏感被干涉内政, 不过现在的西方又不是以前百年耻辱的帝国主义, 国际社会很看重权力的互相监督, 中国现在身为大国, 被人显微镜般监督是很正常的. 至少, 我不认为西方媒体和社会这种举动是对中国的双标, 你去看看这次西方媒体对印度在克什米尔行动和土耳其在叙利亚行动, 一样的谴责, 评论区里也很多印度人在骂西方圣母. 西方媒体和社会也一样对特朗普等领导人往死里diss.</p>
+
+<p>很多时候, 国人批判西方很多的缺点, 真的是百步笑十步. 中国很多东西不报道, 或者习以为常, 比如维权律师被抓或者现在越来越猖狂的网上删帖, 所以大家都竟然觉得没啥, 然后对西方这种像你举例的什么LGBT不当言论, 像抓住救命稻草般猛烈攻击企图证明别人也很辣鸡. 你不觉得这种做法和心态很不正常吗? 是怎么培养起来的?</p>
+
+<p>最后, 很多国人说, 那我就一定要按照我规则行事, 就不按你规则行事, 我就觉得两种规则和观念没有谁对谁错. 这种论调我也不能说错, 反正例子不是没有, 就是极端穆斯林. 问题是这种对抗是不是必要的? 是不是对自己有利的? 反正西方人也很难理解啊, 为什么民主自由这种我们认为对中国还是世界都有利的东西, 你们这么反感, 而且反而要刀剑相向? 为什么我们只是反感专制, 并且支持中国人民有更好的生活, 你们却不领情?</p>
+
+<hr />
+
+<p>最后, 如果你坚持中国现在体制更优并且一定不走西方道路并且香港就是在争取港独的话, 那我想说:</p>
+
+<p>即使从这个观点来看, 中国这次对NBA等外国企业的全方位谴责制裁也是很失策的, 这次谴责和制裁, 在西方激起了非常大的负面反应. 很多西方人开始质疑跟中国做生意在开始影响到了他们自己所一直珍惜的舆论自由等权力. 他们会重新审视中国跟西方相互的一切往来, 不一定明天立刻见效, 但长久而言, 这种民意的影响是很深远的. 中国因为体质原因和后来的改革开放, 不理解西方的社会舆论对政府有多大影响(比如越南战争撤兵), 也不理解西方对意识形态的重视(总以为钱可以联系一切). 一旦西方社会的“跟中国来往得不偿失”的社会共识形成, 那就真的是新一轮冷战了. 这次如果站在中国政权, 我认为更加合理的做法是, 谴责制裁那位仁兄就好, 没必要把整个NBA拉上水. 这样不至于在西方激起广泛讨论. 就像以前好莱坞明星也发表过支持达赖喇嘛一样, 你见过把整个好莱坞都禁了的吗? 什么都这么硬, 还搞个毛线外交, 去当上帝得了.</p>
+
+<p>—– <strong>554.2</strong> —–2019-10-12 01:06:23+08:00:</p>
+
+<p>问题是为什么要冷战？别人现在是要歧视压制你民族吗？别人是不想一个专制政体做大</p>
+
+<p>没错，欧洲大陆国家的确跟昂格鲁不是一起的，但西方诸国以及日韩台（以及程度比较低的印度和东南亚）都是共享一个自由主义意识形态的</p>
+
+<p>用中共语术来划分，他们这种意识形态下面的斗争，是人民内部矛盾，而跟专政政体，那就是敌我矛盾。西方拉中国到WTO是为了想同化中国到他们的意识形态（虽然国内这几年把别人这种战略拉拢称作中国忽悠战略成功/西方傻逼）。没人希望看到冷战，但不代表世界会看着一个专政政体做大。关键是，这样的专政政体，长远而言，对中国也无利。什么时候，中国这种舆论封锁等操作再展现世人看几次，那就真的把你说的欧洲大陆国家推到美国那一边了。最终，还是美国得利，就像当年欧洲二战和苏联崩溃后，技术和资本都逃到美国那边一样。</p>
+
+<p>另外，现在中国工业能力的确强，但别忘了，我们不像苏联一样有自己半个世界的营地哦。冷战？你的工业原材料呢？你的盟友呢？</p>
+
+<p>btw 你真的理解美国军费构成吗？美国军费很多是维护旧装备以及全球上百军事基地的支出，跟中国这种基本投入到更新换代的军费是两码事。而且美国军费贪污也很严重，上次会计审查五角大楼，一个咖啡机还是什么东东就上百刀</p>
+
+<p>—– <strong>554.3</strong> —–2019-10-12 01:24:30+08:00:</p>
+
+<p>你说的很多也是对的</p>
+
+<p>香港问题，就是两地长期的制度和政治间隔，渗透到经济甚至是文化间隔上，跟台湾也有点像（虽然不完全一样）</p>
+
+<p>香港人以前的国家意识也是很浓的，你看看当年多么多的爱国电影和歌曲。我认为港人的爱国意识逐渐淡薄，除了两地间隔外，还有一个原因是，全球意识形态的演进。两百年前到五十年前，是民族主义盛行的阶段，现在则起码一部分国家转到了自由主义的阶段（西方日韩台等），而香港也受这种风气影响很大。</p>
+
+<p>所以这种间隔的修复，更多是靠中间派/中立媒体等，靠两地政治和文化的趋同去修补。问题是以何种手段，中国大陆肯定是那种我是中央你要全听我的，而且一开始香港建制派与中央就已经把五大等同于港独，把台阶拆掉了。香港台湾等中间派更多是倾向于，互相交流，但这种中间派的声音被两方的鹰派都一同冲淡了</p>
+
+<p>他们很多人的看法，就像是当年辛亥革命时期，想各省独立于大清政府一样，也想像当年国共两党一样获取外国援助打倒腐朽政权（英美国旗）。他们绝大部分人都还是认同自己是中华文明，但不太认同政权的做法，在这不认同派中，大部分人认为香港应该提高自己的议价能力和自治地位（双普选），另外一小部分激进派认为就应该先独立像当年辛亥革命一样，然后再去想办法（港独）</p>
+
+<p>—– <strong>554.4</strong> —–2019-10-17 09:58:38+08:00:</p>
+
+<blockquote>
+  <p>香港学生没有被洗脑</p>
+</blockquote>
+
+<p>就一个小小香港，一个从来都生产爱国歌曲电影的地方，一个从来没有原始独立基因的地方，在回归不到25年，就一半的人严重反感你政府，甚至2010后本土派独立派愈加壮大。别说什么洗脑了，如果在主场优势情况下，都超过一半人被人策反，那就是你自己能力的问题</p>
+
+<blockquote>
+  <p>yes california</p>
+</blockquote>
+
+<p>这是非常中国的想法。。。</p>
+
+<blockquote>
+  <p>通识教育的课本主编戴耀廷还直接接受美国民主基金会的资助呢</p>
+</blockquote>
+
+<p>是又如何？我想也没人掩饰？因为从来没有人说过，意识形态的斗争已经停止了。当年克林顿让中国加入WTO，也是想走亲和接触路线让中国成为西方盟友（虽然国内经常以战忽局沾沾自喜）。美国，从放弃孤立主义那一刻起，就一刻也没停止过输出价值观改造全世界的梦想和脚步，对中国如此，对印度俄罗斯中东非洲也如此</p>
+
+<blockquote>
+  <p>越南战争撤兵是因为打不过了才撤的兵，要是打赢了就算民众反对他们也不会撤兵的，要知道伊拉克战争打了8年才撤兵。如果社会舆论真的有用，越南战争，朝鲜战争，伊拉克战争从一开始就不会发生，毕竟民众可是从一开始就反对的。</p>
+</blockquote>
+
+<p>打不过只是相对而言的。再者，民众反对也有量与质的区别。</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2019-10-16</time>
+        <a href="https://nodebe4.github.io/opinion/2019-10-16/Yvan888/">
+          Yvan888在2019-10-14~2019-10-20的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-10-13</time>
+        <a href="https://nodebe4.github.io/opinion/2019-10-13/Spinkcat/">
+          Spinkcat在2019-10-07~2019-10-13的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-10-06</time>
+        <a href="https://nodebe4.github.io/opinion/2019-10-06/Spinkcat/">
+          Spinkcat在2019-09-30~2019-10-06的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-09-29</time>
+        <a href="https://nodebe4.github.io/opinion/2019-09-29/Spinkcat/">
+          Spinkcat在2019-09-23~2019-09-29的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2019-10-07/%E6%94%BF%E6%B2%BB%E8%A7%80%E5%AF%9F-%E4%B8%AD%E5%85%B1%E5%8D%81%E4%B8%80%E6%94%BF%E6%B2%BB%E5%8B%95%E6%85%8B%E5%A6%A5%E5%8D%94%E8%88%87%E5%8D%B1%E6%A9%9F/">
+            前一篇：政治觀察：中共十一政治動態妥協與危機
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2019-10-08/%E4%B8%AD%E5%9C%8B%E5%9C%A8-%E9%A1%9E%E7%B4%8D%E7%B2%B9-%E7%9A%84%E8%B7%AF%E4%B8%8A%E7%8B%82%E5%A5%94/">
+            後一篇：中國在「類納粹」的路上狂奔
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2019-10-07/%E6%94%BF%E6%B2%BB%E8%A7%80%E5%AF%9F-%E4%B8%AD%E5%85%B1%E5%8D%81%E4%B8%80%E6%94%BF%E6%B2%BB%E5%8B%95%E6%85%8B%E5%A6%A5%E5%8D%94%E8%88%87%E5%8D%B1%E6%A9%9F/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2019-10-08/%E4%B8%AD%E5%9C%8B%E5%9C%A8-%E9%A1%9E%E7%B4%8D%E7%B2%B9-%E7%9A%84%E8%B7%AF%E4%B8%8A%E7%8B%82%E5%A5%94/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2019-10-13/Spinkcat/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2019-10-06/Spinkcat/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2019-10-07/%E6%94%BF%E6%B2%BB%E8%A7%80%E5%AF%9F-%E4%B8%AD%E5%85%B1%E5%8D%81%E4%B8%80%E6%94%BF%E6%B2%BB%E5%8B%95%E6%85%8B%E5%A6%A5%E5%8D%94%E8%88%87%E5%8D%B1%E6%A9%9F/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2019-10-08/%E4%B8%AD%E5%9C%8B%E5%9C%A8-%E9%A1%9E%E7%B4%8D%E7%B2%B9-%E7%9A%84%E8%B7%AF%E4%B8%8A%E7%8B%82%E5%A5%94/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2019-10-13/Spinkcat/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2019-10-06/Spinkcat/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

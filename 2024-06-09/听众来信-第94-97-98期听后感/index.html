@@ -1,0 +1,1510 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>听众来信-第94、97、98期听后感 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+听众来信-第94、97、98期听后感
+——
+" />
+    <meta property="og:description" content="
+听众来信-第94、97、98期听后感
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="听众来信-第94、97、98期听后感" />
+    <meta property="twitter:title" content="听众来信-第94、97、98期听后感" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fwww.bumingbai.net%2F2024%2F06%2Fwrite-to-bumingbai-08%2F%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dwrite-to-bumingbai-08" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://www.bumingbai.net/2024/06/write-to-bumingbai-08/?utm_source=rss&utm_medium=rss&utm_campaign=write-to-bumingbai-08" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://www.bumingbai.net/2024/06/write-to-bumingbai-08/?utm_source=rss&utm_medium=rss&utm_campaign=write-to-bumingbai-08&text=听众来信-第94、97、98期听后感&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://www.bumingbai.net/2024/06/write-to-bumingbai-08/?utm_source=rss&utm_medium=rss&utm_campaign=write-to-bumingbai-08&title=听众来信-第94、97、98期听后感" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.bumingbai.net/2024/06/write-to-bumingbai-08/?utm_source=rss&utm_medium=rss&utm_campaign=write-to-bumingbai-08&title=听众来信-第94、97、98期听后感" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=听众来信-第94、97、98期听后感&body=
+听众来信-第94、97、98期听后感
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://www.bumingbai.net/2024/06/write-to-bumingbai-08/?utm_source=rss&utm_medium=rss&utm_campaign=write-to-bumingbai-08" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://www.bumingbai.net/2024/06/write-to-bumingbai-08/?utm_source=rss&utm_medium=rss&utm_campaign=write-to-bumingbai-08&title=听众来信-第94、97、98期听后感&caption=
+听众来信-第94、97、98期听后感
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=听众来信-第94、97、98期听后感&url=https://www.bumingbai.net/2024/06/write-to-bumingbai-08/?utm_source=rss&utm_medium=rss&utm_campaign=write-to-bumingbai-08" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>听众来信-第94、97、98期听后感</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2024-06-09
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#不明白播客">
+          不明白播客
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://www.bumingbai.net/2024/06/write-to-bumingbai-08/?utm_source=rss&utm_medium=rss&utm_campaign=write-to-bumingbai-08" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="不明白播客的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#不明白播客 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1717955280000-->
+<p><a href="https://www.bumingbai.net/2024/06/write-to-bumingbai-08/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=write-to-bumingbai-08">听众来信-第94、97、98期听后感</a>
+——</p>
+
+<div>
+  <p><em>编者按：《不明白播客》从官网和各个社交媒体网站搜集了听众们对最近几期单集的感想，获得听众许可后后特在听众栏目刊出。</em></p>
+  <p><strong>EP-094 美国应该封禁TikTok吗？</strong></p>
+  <p>袁莉及不明白播客的编辑：</p>
+  <p>你好。我是一名在中国大陆的忠实听众，非常喜欢你的播客节目。</p>
+  <p>我在听到第94期有关美国封禁TIKTOK这期节目时，总觉得嘉宾有些问题没有说透，有一些个人的想法想要分享。</p>
+  <p>我是一名IT工作者，也关心政治、中美关系、中国政治改革相关的议题。所以我可以从IT技术角度与中美关系这两个角度谈一下我对这次美国要封禁TIKTOK的想法。有关封禁这个词，我认为还是表达的有些不准确，美国并不是要国民彻底不用这个应用，而是讲这个应用要由美国公司接手它的管理运营，具体原因我总结有以下两点：</p>
+  <p>首先从产品与技术角度，我想首先声明一点，TIKTOK或在中国大陆叫抖音的这个软件，本质上它是一个媒体类的产品。你可以理解它就是一个装在手机上、电脑上、平板上的可点播节目、收藏节目、或由它自行向你推荐节目的电视机。如果你能理解这一点儿，就可以明白为什么美国要封禁这个TIKTOK了。</p>
+  <p>因为在美国这样的言论自由国家，新闻媒体做为第四权力，是拥有很大的自由度的。而TIKTOK做为一个媒体类产品，它向用户推送的媒体信息，是否是随机与没有特定选择的呢？答案是不，TIKTOK之所以这些年快速成长，主要是字节跳动公司采用了一个从今日头条就开始使用的一套用户识别与推荐算法，通过识别用户的性别、年龄、所在地区、所属行业、生活与消费习惯、个人爱好、政治倾向等一系列个性标签，据此向用户推送投其所好的媒体内容。并且，这个算法还可以根据字节跳动公司运营的需要，向用户推送能给它带来收益的媒体内容，比如房产销售、汽车销售、旅游产品推广等。</p>
+  <p>根据这个特点，所有原来纸质媒体、电视、广播等媒体对于不特定用户的内容发布，演变成为了能向特定用户推送特定信息的媒体产品，并且由于字节跳动对于用户生产的媒体信息，不像在中国大陆地区的抖音一样进行内容审核，所以在一定程度上，TIKTOK用户在被其推送的信息包围时，就产生了信息茧房，使得用户对于社会、族群、公共事务等很多问题上，受到了TIKTOK推送机制的影响。这个问题在字节跳动受到美国国会质询后所采取的行动就进行了证明，字节跳动向TIKTOK用户发送通知，说TIKTOK受到了不公正待遇，要求TIKTOK用户给所在州参议员打电话，要求不要对TIKTOK进行限制。而TIKTOK用户受到了字节跳动的煽动，纷纷给参议员打电话，导致很多参议员无法正常工作。这个行动正好正明了，如果一个社交媒体在信息发布时进行了媒体控制，能给所在国的行政、执法造成多大的干扰。</p>
+  <p>而更加重要的问题，这个给用户推送特定信息的算法，是受中共管制的。因为做为TIKTOK的出产方，字节跳动是一家中国公司，而根据商务部 科技部2023年12月21日发布的2023年第57号公告， 关于公布《中国禁止出口限制出口技术目录》的公告中，属于军民两用技术的，纳入出口管制管理。在限制出口部分，序号：96，行业领域：软件和信息技术服务业，编号：086501X，技术名称：信息处理技术，控制要点：第18条，原文是：基于数据分析的个性化信息推送服务技术（基于海量数据持续训练优化的用户个性化偏好学习技术、用户个性化偏好实时感知技术、信息内容特征建模技术、用户偏好与信息内容匹配分析技术、用于支撑推荐算法的大规模分布式实时计算技术等）。这实际上就是中共在针对美国审查TIKTOK时，发布的一个法规性文件。这就实际上造成了做为字节跳动的子公司也好，合作公司也好，在美国运营的TIKTOK产品，其核心的推荐算法，被中共要求不能出口。这就意味着，即使字节跳动为了运营与收益考虑，想与美国政府进行妥协，这条技术上出口的路被堵死了。字节跳动做为中国公司，是万万不敢与中共耍这个心眼的。</p>
+  <p>这也就解释了为什么在特朗普时期审查TIKTOK时，TIKTOK曾经提出一个解决方案，将应用服务器、数据库，以及相关的网络设备都迁移到美国供应商的网络设备与服务器上时，美国政府不接受这个方案了。因为即使这些视频内容全存在美国服务器上，但什么内容在什么时间向什么人推送，还是受到字节跳动这家中国母公司控制的，而这个公司的推荐机制美国政府是无法干涉、无法审查的，因为它被中共法规给管制了。</p>
+  <p>这就形成了现在的这个局面，美国用户，犹其是年青人，这批拥有言论自由、游行示威自由、甚至有持枪权力的TIKTOK用户，他们随时可能在反恐、总统与州长竞选、对外关系等各种公共议题上表达意见时，是受到了一个与美国完全不同、甚至是相反的政体控制的媒体进行定向投送，这极有可能对美国的宪政与民主体制造成威胁。</p>
+  <p>第二点，从政治角度。如果中美关系如同习近平在公开场合讲的中美合作是主流，不要搞对抗，那么说到底，两国交往中应拥有的一个最基本原则，就是公平与公正。如果中共要求美国不封禁TIKTOK，那美国也应该有权利向中共要求，让中国公民可以不受限制的访问google、facebook、twitter等美国社交网站与纽约时报中文网等美国媒体、还有美国的电视、广播等媒体。因为中华人民共和国宪法中明文写着中国公民具有言论自由等多项权力，并且中国做为联合国常任理事国，也签署了联合国的人权公约，为什么不执行呢？中国大陆的抖音产品，同属字节跳动，经常出现封禁言论、删除已发布视频的行为，但中共目前既不让中国人使用TIKTOK，也不让中国公民自由接触国际互联网，怎么能提出让美国不限制一家受它控制的媒体公司呢？这对中国公民公平么？对美国公民公平么？这公正么？</p>
+  <p>这个问题想要彻底解决，我认为只有两个办法：</p>
+  <p>第一就是美国目前的做法，把TIKTOK真正掌握在美国人自己手中，受美国法律管理。</p>
+  <p>第二就是中共修订宪法，将序言中所有的人名与相关的内容都删掉，中共做为一个政党，与现在的民主政党、台湾的国民党、民进党一起选举，凭为人民服务的口号来争取竞选获胜并进行执政，这样既保持了马克思主义本色，也从实际行动上证明了第二共产国际的理论，并不违背共产党建党时所提出的建设一个平等、没有剥削的美好社会。</p>
+  <p>就目前看来，第一条还是比较具有实践性。第二条做为中共来说，这批庙堂上的权贵，早就忘了初心，只记得眼下的利益，是不太可能这样做的</p>
+  <p>——@idiot via 官网</p>
+  <p><strong>EP-097 丁学良：中美交流的历史性赤字</strong></p>
+  <p>在这一集里嘉宾提到，如果中国真想要五年五万美国青年来访，应该拿出诚意来，解决问题，其中一个是“不如给他们一个会议室，在这里给他们自由的网络”。</p>
+  <p>在这个本来就特权横行的地方，给他们特权，并不能帮助他们看到真实的中国。从中国任何一个中国大城市中心开车往外走一小时，才开始看到真实的中国的样子。</p>
+  <p>给他们特权，只会让他们蒙上双眼，回去诉说“太先进了”的故事，或者在这使用特权捞上一笔，对改变真实的中国没有任何帮助。</p>
+  <p>——@jimmytanx via threads</p>
+  <p><strong>EP-098 王超华：从六四到白纸——国家纪念的意义</strong></p>
+  <p>今年初在維也納，與一個在美英求學長大的成都人聊到六四，對方直言「美國政府也殺了很多學生啊」</p>
+  <p>比起辯論，我更想聽到的是真誠的想法和交流。而當時困惑的我好像在這集Podcast找到了部分答案。</p>
+  <p>『控制記憶，從控制敘述歷史開始』</p>
+  <p>若拿美國對比，美國社會仍然可以認識到七零年代肯特大學生被槍殺是一個傷痛、罪惡與爭議的記憶，大眾可以公開辯論與省思。</p>
+  <p>六四不是，從上到下、基層官員都在抹滅記憶，曾經民眾會帶著好奇心去參與香港維園的燭光晚會，但現在連香港都受壓制。六四被淡忘、不被定義為悲劇、不被中國舉國紀念，官方的封鎖是最主要的責任源。</p>
+  <p>我跟那位成都女生是旅遊中短暫認識並無交情。我的提問必須鼓起勇氣，而我基於「為了控訴中共的邪惡」開啟話題，其實也只是在滿足我單方面的需求，於是任何質疑在那一時刻都顯得（對個人）冒犯。後續的懊惱不僅是我沒提出正確的解讀，更多是我搞砸了一個可能的友誼。如果說如何思考與敘述六四是一個過程，但我再也無法開啟這場交流。</p>
+  <p>——@charm0212 via threads</p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#不明白播客 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-28/EP-137-%E8%AE%B8%E6%88%90%E9%92%A2-DeepSeek-%E6%B0%91%E4%BC%81%E5%BA%A7%E8%B0%88%E4%BC%9A%E8%83%BD%E5%90%A6%E9%87%8D%E6%8C%AF%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E-(%E6%96%87%E5%AD%97%E7%89%88/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2022-10-09/EP-020-%E8%94%A1%E9%9C%9E-%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E5%AF%B9%E4%B8%AD%E5%85%B1%E7%BB%9D%E6%9C%9B/">最早</a>--</span>
+    
+      <li>
+        <time>2024-06-14</time>
+        <a href="https://nodebe4.github.io/opinion/2024-06-14/EP-100-%E9%82%A3%E4%BA%9B%E4%B8%BA%E7%BE%8E%E5%9B%BD%E5%B7%A5%E4%BD%9C%E7%AD%BE%E8%AF%81%E7%84%A6%E8%99%91%E6%8A%91%E9%83%81%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA-%E4%B8%8B-(%E6%96%87%E5%AD%97%E7%89%88/">
+          EP-100 那些为美国工作签证焦虑抑郁的年轻人（下）(文字版）
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-06-10</time>
+        <a href="https://nodebe4.github.io/opinion/2024-06-10/EP-099-%E9%82%A3%E4%BA%9B%E4%B8%BA%E7%BE%8E%E5%9B%BD%E5%B7%A5%E4%BD%9C%E7%AD%BE%E8%AF%81%E7%84%A6%E8%99%91%E6%8A%91%E9%83%81%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA-%E4%B8%8A-%E6%96%87%E5%AD%97%E7%89%88/">
+          EP-099 那些为美国工作签证焦虑抑郁的年轻人（上）（文字版）
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-06-07</time>
+        <a href="https://nodebe4.github.io/opinion/2024-06-07/EP-099-%E9%82%A3%E4%BA%9B%E4%B8%BA%E7%BE%8E%E5%9B%BD%E5%B7%A5%E4%BD%9C%E7%AD%BE%E8%AF%81%E7%84%A6%E8%99%91%E6%8A%91%E9%83%81%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA-%E4%B8%8A/">
+          EP-099 那些为美国工作签证焦虑抑郁的年轻人（上）
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-05-31</time>
+        <a href="https://nodebe4.github.io/opinion/2024-05-31/EP-098-%E7%8E%8B%E8%B6%85%E5%8D%8E-%E4%BB%8E%E5%85%AD%E5%9B%9B%E5%88%B0%E7%99%BD%E7%BA%B8-%E5%9B%BD%E5%AE%B6%E7%BA%AA%E5%BF%B5%E7%9A%84%E6%84%8F%E4%B9%89-%E6%96%87%E5%AD%97%E7%89%88/">
+          EP-098 王超华：从六四到白纸——国家纪念的意义（文字版）
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2024-06-07/EP-099-%E9%82%A3%E4%BA%9B%E4%B8%BA%E7%BE%8E%E5%9B%BD%E5%B7%A5%E4%BD%9C%E7%AD%BE%E8%AF%81%E7%84%A6%E8%99%91%E6%8A%91%E9%83%81%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA-%E4%B8%8A/">
+            前一篇：EP-099 那些为美国工作签证焦虑抑郁的年轻人（上）
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2024-06-10/Apple-Intelligence-is-Right-On-Time/">
+            後一篇：Apple Intelligence is Right On Time
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2024-06-07/EP-099-%E9%82%A3%E4%BA%9B%E4%B8%BA%E7%BE%8E%E5%9B%BD%E5%B7%A5%E4%BD%9C%E7%AD%BE%E8%AF%81%E7%84%A6%E8%99%91%E6%8A%91%E9%83%81%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA-%E4%B8%8A/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2024-06-10/Apple-Intelligence-is-Right-On-Time/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2024-06-10/EP-099-%E9%82%A3%E4%BA%9B%E4%B8%BA%E7%BE%8E%E5%9B%BD%E5%B7%A5%E4%BD%9C%E7%AD%BE%E8%AF%81%E7%84%A6%E8%99%91%E6%8A%91%E9%83%81%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA-%E4%B8%8A-%E6%96%87%E5%AD%97%E7%89%88/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2024-06-07/EP-099-%E9%82%A3%E4%BA%9B%E4%B8%BA%E7%BE%8E%E5%9B%BD%E5%B7%A5%E4%BD%9C%E7%AD%BE%E8%AF%81%E7%84%A6%E8%99%91%E6%8A%91%E9%83%81%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA-%E4%B8%8A/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2024-06-07/EP-099-%E9%82%A3%E4%BA%9B%E4%B8%BA%E7%BE%8E%E5%9B%BD%E5%B7%A5%E4%BD%9C%E7%AD%BE%E8%AF%81%E7%84%A6%E8%99%91%E6%8A%91%E9%83%81%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA-%E4%B8%8A/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2024-06-10/Apple-Intelligence-is-Right-On-Time/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<不明白播客>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2024-06-10/EP-099-%E9%82%A3%E4%BA%9B%E4%B8%BA%E7%BE%8E%E5%9B%BD%E5%B7%A5%E4%BD%9C%E7%AD%BE%E8%AF%81%E7%84%A6%E8%99%91%E6%8A%91%E9%83%81%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA-%E4%B8%8A-%E6%96%87%E5%AD%97%E7%89%88/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<不明白播客>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2024-06-07/EP-099-%E9%82%A3%E4%BA%9B%E4%B8%BA%E7%BE%8E%E5%9B%BD%E5%B7%A5%E4%BD%9C%E7%AD%BE%E8%AF%81%E7%84%A6%E8%99%91%E6%8A%91%E9%83%81%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA-%E4%B8%8A/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

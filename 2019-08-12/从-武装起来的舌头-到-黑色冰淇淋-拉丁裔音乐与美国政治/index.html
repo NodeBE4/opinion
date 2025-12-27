@@ -1,0 +1,596 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>从“武装起来的舌头”到“黑色冰淇淋”：拉丁裔音乐与美国政治 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+从“武装起来的舌头”到“黑色冰淇淋”：拉丁裔音乐与美国政治
+——
+" />
+    <meta property="og:description" content="
+从“武装起来的舌头”到“黑色冰淇淋”：拉丁裔音乐与美国政治
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="从“武装起来的舌头”到“黑色冰淇淋”：拉丁裔音乐与美国政治" />
+    <meta property="twitter:title" content="从“武装起来的舌头”到“黑色冰淇淋”：拉丁裔音乐与美国政治" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fgravitysworm.com%2Fpost%2F186961289607" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://gravitysworm.com/post/186961289607" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://gravitysworm.com/post/186961289607&text=从“武装起来的舌头”到“黑色冰淇淋”：拉丁裔音乐与美国政治&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://gravitysworm.com/post/186961289607&title=从“武装起来的舌头”到“黑色冰淇淋”：拉丁裔音乐与美国政治" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://gravitysworm.com/post/186961289607&title=从“武装起来的舌头”到“黑色冰淇淋”：拉丁裔音乐与美国政治" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=从“武装起来的舌头”到“黑色冰淇淋”：拉丁裔音乐与美国政治&body=
+从“武装起来的舌头”到“黑色冰淇淋”：拉丁裔音乐与美国政治
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://gravitysworm.com/post/186961289607" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://gravitysworm.com/post/186961289607&title=从“武装起来的舌头”到“黑色冰淇淋”：拉丁裔音乐与美国政治&caption=
+从“武装起来的舌头”到“黑色冰淇淋”：拉丁裔音乐与美国政治
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=从“武装起来的舌头”到“黑色冰淇淋”：拉丁裔音乐与美国政治&url=https://gravitysworm.com/post/186961289607" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>从“武装起来的舌头”到“黑色冰淇淋”：拉丁裔音乐与美国政治</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2019-08-12
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#萬有引力之蟲">
+          萬有引力之蟲
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://gravitysworm.com/post/186961289607" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="萬有引力之蟲的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#萬有引力之蟲 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1565634100000-->
+<p><a href="https://gravitysworm.com/post/186961289607">从“武装起来的舌头”到“黑色冰淇淋”：拉丁裔音乐与美国政治</a>
+——</p>
+
+<div>
+  <p><em>帮朋友的黑胶音乐报纸《唱片日常》写的，也是为了舒缓下自己的糟糕情绪。和部分朋友类似，大半个夏天我也都困在严重的失语状态中，只能写一些和自身利益不那么相关的文章。如梗在喉的原因很多，除了官方镇压和左翼论述断裂带来的情绪波动，还包括意识到社运研究与研究者的滞后与自大，目睹夹带智识优越感的社交媒体友尽表演，和主动被动卷入节节败退的国内运动局势。五年前，雨伞和之后的政治消沉曾让我打定主意做一名社运研究者，但今夏的反送中及其激起的连锁反应，又让我重新陷入怀疑。当运动提前于理论和经验研究，分析不仅只是一种维护学术人格的自恋，而且进一步反噬着人的行动力和现实感。于是，失语似乎成了最不坏的选择。</em></p>
+  <p>正文：</p>
+  <p>在美国，音乐与政治的互动本不是什么新鲜的话题。几十年的民权运动和新社会运动史为音乐创作积累了丰厚的素材，研究歌曲、音乐人和社会运动的著作也不在少数。然而，之前的这种社会关注又是较为狭隘的，主要的注意力集中在黑人与白人音乐的二元论述中，其他少数族裔音乐与政治思潮之间的联系鲜有人提及。即使偶尔被讲述，它们也是以一个模糊的“有色人种”身份被内嵌于族裔团结的历史框架中。</p>
+  <p>2016年后美国民粹政治的崛起和持续的难民危机，将极右翼和反移民问题推到头条的同时，也意外让新一代西裔独立音乐人走到了台前。他们在社会议题上的发声，也向更多人普及了美国西裔音乐背后的政治意识。</p>
+  <p><strong>“武装起来的舌头”：美国的拉丁裔朋克</strong></p>
+  <p>作为诸多音乐流派中最具政治性的一支，朋克的诞生历史中就有西裔的深度参与。1960年代，来自秘鲁利马的Los Saicos和美国密歇根州的西裔组合? and the Mysterians直接启发过MC5和The Stooges等更著名的乐队，后者则更被一些人认为是真正的朋克乐始祖。不过，拉丁裔朋克音乐形成独立体系要到1970年代末。此时，北美和西欧的朋克已经如日中天，吸引了大量白人青年参与其中。但主流朋克文化单向度的反叛又常与种族歧视和法西斯主义并驾齐驱，作为闯入者的西裔只能自立门户。</p>
+  <p>西裔移民大本营之一的东洛杉矶社区（East L.A.，2010年时西裔人口占97%），也理所当然成为了拉丁裔朋克的发源地。由于洛杉矶的正规演出场所被主流乐队垄断，乐手们往往在自家后院或地下室搭建临时舞台进行表演，并坚持使用西班牙语作为符号抵抗，以区别同一时期白人主导的文化空间。遵循自我组织、经营、创作、宣传的DIY原则，以The Plugz为代表的乐队开始尝试独立发行路线，他们自行创立的唱片公司，比如Fatima和Zyanya，为之后几十年其他乐队的独立经营提供了示范。</p>
+  <p>90年代随着中美洲移民的增多，欧美反移民意识的回潮，美国毒品战争和洛杉矶骚乱的影响，拉丁裔朋克有了更广的创作主题和抗议目标，影响力也从洛杉矶辐射到了全美各大城市。来自芝加哥的全拉丁裔乐队Los Crudos是这一时期的标杆性组合。主唱Martin Sorrondeguy是乌拉圭移民二代，母亲早年从事激进社会主义行动，在1973年乌拉圭政变前逃亡美国。Sorrondeguy从小在政治性的环境中长大，他对左翼政治议题的介入也贯穿了其音乐生涯。</p>
+  <figure data-orig-width="838" data-orig-height="1200" class="tmblr-full">
+<img src="https://64.media.tumblr.com/1cdc18574933293e0960faaca2d621a3/41e20cfde6863199-df/s540x810/24b40f6da95f7c9f75bae7a3e0a87a6e6403ac72.jpg" data-orig-width="838" data-orig-height="1200" />
+  </figure>
+  <p>Los Crudos的歌词有着浓烈的激进政治色彩，其著名歌曲Times of Misery开篇就直指“政府是所有人共同的疾病”。在他们看来，音乐是武装起来的舌头（Armed Tongue）。但这批拉丁裔朋克又不满足于仅仅通过歌曲创作传达政治信息。90年代，北美自由贸易协定的通过和墨西哥查巴达震撼世界的起义，在冷战终结的气氛中重新唤起激进左翼的信心，也成为了不少拉丁裔朋克乐队跨境动员的契机。Los Crudos和同一时期的Arma Contra Arma、Tras de Nada等联手，发起南美洲无证移民的声援运动，自行收留各地的难民，还通过巡演帮助查巴达等革命组织筹款。1998年，Sorrondeguy拍摄了纪录片Beyond The Scream，现在依然是了解拉丁裔朋克历史的首选影片。</p>
+  <p>过去五年挑大梁的拉丁裔政治朋克，非Downtown Boys莫属。这支2014年出道的普罗维登斯乐队目前发行了三张专辑, 和，在进步政治的光谱上走得比前辈们更宽阔和彻底。如果说90年代的拉丁裔朋克主要关注和自己族裔更相关的移民权利和拉美社会运动，Downtown Boys的歌词则涉足了大规模监禁、女权、劳工与资本主义等多个相互交叉的主题。事实上，乐队的成员们在其他方面也都各有专长。主唱Victoria Ruiz先后任职于多个NGO，致力于限制警权扩张。她和另一成员Joey L DeFrancesco因为组织酒店工会而相识，后者既是行动者，也是Jacobin、Commune等左翼刊物的撰稿人。</p>
+  <figure data-orig-width="1280" data-orig-height="720" class="tmblr-full">
+<img src="https://64.media.tumblr.com/7a9c7cf880600eafd4b5547de11b629e/41e20cfde6863199-be/s540x810/5d8fa74f992b1b18434bbcff647e7d454f69ef30.jpg" data-orig-width="1280" data-orig-height="720" />
+  </figure>
+  <p><strong>Roberto Carlos Lange与“黑色冰淇淋”</strong></p>
+  <p>如果说拉丁裔朋克随着过去四十年的发展已经演变为一个成熟的流派，艺名为Helado Negro（意为“黑色冰淇淋”）的Roberto Carlos Lange则在独立电音中开辟出属于西裔的领地。作为成长在佛罗里达州的厄瓜多尔移民二代，Lange的歌词揭露着无所不在的白人凝视，以及在这种凝视下少数族裔精神上的焦灼和反抗。与这套政治性主题相匹配的，不再是横冲直撞的硬核朋克，而是难以定义的混合了电音、民歌、噪音、拉丁舞曲的新音乐风格，这也与拉美艺术中Mestizaje （混合）的气质相一致。</p>
+  <p>虽然第一张专辑发布于2009年，Lange进入主流媒体视线要到2017年，特朗普攻击墨西哥移民后不久，Lange重新发行了自己之前一年专辑中的英文歌曲Young, Latin and Proud，被媒体誉为一代西裔的圣歌。创作期间，居住在布鲁克林的Lange目睹和参与了Black Lives Matter抗议。自此以后，他也开始更公开地表明自己的左翼政治立场，包括对桑德斯的支持。</p>
+  <p>今年3月，Lange发行第六张录音室专辑，采用一贯的混搭风，也延续着其忧郁、隐晦却骨子里激进的政治色彩。与Downtown Boys的直白相反，它的政治线索都埋藏在个人化的表达里：Lange朋友们发来的生活录音中，混杂着抗议美国移民和海关执法局运动的现场音频。看似随意的专辑名，则截取自美籍安提瓜裔女作家牙买加·琴凯德（Jamaica Kincaid）1978年在纽约客上发表的短文《<a href="https://www.newyorker.com/magazine/1978/06/26/girl" target="_blank">女孩</a>》，模仿移民母亲的口吻教育女儿如何成为一个称职的家庭主妇。“母亲”对女儿的教诲折射的不仅是父权制在代际传递中的稳定性，也同时暗示了其与欧洲殖民主义的同构性。</p>
+  <figure data-orig-width="1200" data-orig-height="1200" class="tmblr-full">
+<img src="https://64.media.tumblr.com/c34553040ebb23494f67dab5a656ff7e/41e20cfde6863199-d0/s540x810/25a2cf52512912e196029df24baa6a99b52b2176.jpg" data-orig-width="1200" data-orig-height="1200" />
+  </figure>
+  <p>2014年起，Lange公开的演出中频繁出现一种他称之为Tinsel Mammals（亮片哺乳动物）的诡异行为艺术：一群不断变换着体态的闪光人形体随着旋律在舞台上移动。就连的封面，也是Lange打扮成的一个Tinsel Mammals。Lange并未详细解释过Tinsel Mammals的含义，但这种去性别、去种族、去国族和阶级，甚至非人的存在，似乎暗示着他对教条化与狭隘化了的身份政治的失望。当拉丁裔朋克用嚎叫宣告自己的存在感，Lange反其道而行之，试图消失进另一个平行空间中，只留下余音带来的质问。</p>
+  <p><strong>拉丁裔音乐与美国族裔政治：融合与抵制</strong></p>
+  <p>拉丁裔音乐人，特别是新生代通过创作致力打破的，也是西班牙裔在美国种族秩序中局外人的角色。美国历史上，对拉丁裔的划分和定义本身体现着一百多年来政治精英围绕族裔政治所进行的角力。直到现在，美国的主流舆论并不把西班牙裔作为默认的“种族”。在人口普查中，拉丁是一类族裔的总称。自认为有拉丁血统的人可以隶属于白人、黑人、亚裔、印第安土著和太平洋群岛这五个基本类别中的任何一类，这也导致了社会调查中“非拉丁裔白人”这个奇异类别的出现。但事实上，目前高达三分之二的西裔会在这个问题上回答“其他种族”，并填上“墨西哥人”、“西班牙裔”、“古巴人”等答案。2006年因为抗议反移民法案而席卷全美的拉丁裔大游行，是拉丁裔作为一股统一的族群力量介入美国政治的最强音。此后十年，学界开始重视拉丁裔的政治参与问题。2018年中期选举，拉丁裔的投票选民数量比四年前几乎翻了一番。拉丁裔音乐史被发现和重述的过程，确实也是后2016年代政治情绪的映射。</p>
+  <p>相比西裔在文化同化面前的警惕与抵制，亚裔，特别是东亚裔与美国主流音乐文化互动的方式，却往往只是更深地将自己埋进已有的文化线索。美剧《初来乍到》描绘的是90年代台湾移民家庭的故事，其中一集中，11岁的主角Eddie痴迷于黑人说唱的时候，年长他的Justin已经热爱上了西雅图白人主导的垃圾乐风潮。亚裔似乎只能在已有的文化秩序中选边站队，而不具备开创新风格的能力，更不用说通过音乐产生明确的政治表达。现实中亚裔的独立音乐人并不少，但他们的风格往往与既有的市场取向高度一致。主流文化工业，似乎也颇为接受亚裔这种融合的努力。著名评论家Ta-Nehisi Coates曾错误地以为有一半韩国血统的Karen O是一个“白人女孩”。推崇全民基本收入而走红的总统候选人杨安泽，因为在推特<a href="https://twitter.com/andrewyang/status/1111422767490985985?lang=en" target="_blank">晒出</a>自己青少年时期的偶像The Smiths和The Cure，而收获了更多年轻人的支持。</p>
+  <p>拉丁裔对于主流文化的拒绝，根植于墨西哥革命以降劳工无政府主义和跨境联合的历史，也体现了西裔社区独特的现实优势。比支离破碎的亚洲语言更统一的西班牙和葡萄牙语，发达的移民电台和媒体，让西裔的跨族裔动员要比亚裔来得容易的多。逐步成长起来的拉丁裔二代移民，比一代移民更少担心物质上的匮乏和公民权上的排斥，也有更多的资源和底气探索属于自己的艺术和政治风格。</p>
+  <p>在媒体采访中Lange曾提到，他选择“黑色冰淇淋”作为艺名，是因为这种食品“来自一个不存在的国家”。这种瓦坎达式的自嘲，并不能给西裔的认同和政治行动提供多少有效的进路。但它确实指出了某种后种族社会持久的伤痛，当冷战记忆、殖民意识、第三世界主义、彰明较著的种族主义一起慢慢瓦解，换来的却只是一个没有种族主义者的种族主义社会。也许问题不在于未来难以企及，而在于未来想象的无所依傍。</p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#萬有引力之蟲 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-07-18/%E9%9F%A7%E6%80%A7%E7%9A%84%E8%89%BA%E6%9C%AF-%E5%BA%9F%E9%99%A4%E8%AD%A6%E5%AF%9F%E5%9F%8E%E8%BF%90%E5%8A%A8%E7%9A%84%E5%90%AF%E7%A4%BA/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2017-11-06/%E5%8D%A0%E9%A2%86%E7%9A%84%E7%BB%84%E7%BB%87%E9%81%97%E4%BA%A7/">最早</a>--</span>
+    
+      <li>
+        <time>2019-10-08</time>
+        <a href="https://nodebe4.github.io/opinion/2019-10-08/%E6%97%B6%E4%BB%A3%E6%B8%B8%E6%88%8F/">
+          时代游戏
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-08-30</time>
+        <a href="https://nodebe4.github.io/opinion/2019-08-30/%E7%A7%8D%E6%97%8F%E4%B8%8E%E5%8A%B3%E5%B7%A5%E6%94%BF%E6%B2%BB%E5%A6%82%E4%BD%95%E6%92%95%E8%A3%82%E7%BE%8E%E5%9B%BD%E5%B7%A5%E4%BC%9A/">
+          种族与劳工政治如何撕裂美国工会
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-06-22</time>
+        <a href="https://nodebe4.github.io/opinion/2019-06-22/%E5%82%AC%E6%B3%AA%E5%BC%B9%E4%B8%8E%E9%98%B2%E6%9A%B4%E5%B7%A5%E4%B8%9A%E7%9A%84%E5%8E%86%E5%8F%B2/">
+          催泪弹与防暴工业的历史
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-06-03</time>
+        <a href="https://nodebe4.github.io/opinion/2019-06-03/%E5%90%8E%E5%86%B7%E6%88%98%E5%B9%B4%E4%BB%A3%E7%9A%84%E5%85%AB%E4%B9%9D%E5%85%AD%E5%9B%9B/">
+          后冷战年代的八九六四
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2019-08-12/%E9%AD%94%E5%B9%BB%E8%B4%B5%E5%B7%9E-%E5%9C%A8%E5%AF%86%E5%A6%82%E7%80%91%E5%B8%83%E7%9A%84%E9%AB%98%E6%A5%BC%E4%B8%8B-%E5%8F%AA%E8%B7%B3%E8%88%9E-%E4%B8%8D%E8%AF%B4%E8%AF%9D-%E8%AE%B0%E8%B4%B5%E9%98%B3%E8%8A%B1%E6%9E%9C%E5%9B%AD%E7%94%B0%E9%87%8E/">
+            前一篇：魔幻贵州｜在密如瀑布的高楼下，只跳舞，不说话——记贵阳花果园田野
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2019-08-12/%E8%87%AA%E7%94%B1%E6%99%82%E5%A0%B1-%E5%8F%8D%E9%80%81%E4%B8%AD-%E6%AE%BA%E4%BA%BA%E6%BB%85%E5%8F%A3-%E6%98%8E%E5%B1%85%E6%AD%A3-%E4%B8%AD%E5%9C%8B%E6%81%90%E5%8F%96%E6%9E%97%E9%84%AD%E6%9C%88%E5%A8%A5%E6%80%A7%E5%91%BD/">
+            後一篇：自由時報：反送中》殺人滅口？明居正：中國恐取林鄭月娥性命
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2019-08-12/%E9%AD%94%E5%B9%BB%E8%B4%B5%E5%B7%9E-%E5%9C%A8%E5%AF%86%E5%A6%82%E7%80%91%E5%B8%83%E7%9A%84%E9%AB%98%E6%A5%BC%E4%B8%8B-%E5%8F%AA%E8%B7%B3%E8%88%9E-%E4%B8%8D%E8%AF%B4%E8%AF%9D-%E8%AE%B0%E8%B4%B5%E9%98%B3%E8%8A%B1%E6%9E%9C%E5%9B%AD%E7%94%B0%E9%87%8E/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2019-08-12/%E8%87%AA%E7%94%B1%E6%99%82%E5%A0%B1-%E5%8F%8D%E9%80%81%E4%B8%AD-%E6%AE%BA%E4%BA%BA%E6%BB%85%E5%8F%A3-%E6%98%8E%E5%B1%85%E6%AD%A3-%E4%B8%AD%E5%9C%8B%E6%81%90%E5%8F%96%E6%9E%97%E9%84%AD%E6%9C%88%E5%A8%A5%E6%80%A7%E5%91%BD/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2019-08-30/%E7%A7%8D%E6%97%8F%E4%B8%8E%E5%8A%B3%E5%B7%A5%E6%94%BF%E6%B2%BB%E5%A6%82%E4%BD%95%E6%92%95%E8%A3%82%E7%BE%8E%E5%9B%BD%E5%B7%A5%E4%BC%9A/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2019-06-22/%E5%82%AC%E6%B3%AA%E5%BC%B9%E4%B8%8E%E9%98%B2%E6%9A%B4%E5%B7%A5%E4%B8%9A%E7%9A%84%E5%8E%86%E5%8F%B2/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2019-08-12/%E9%AD%94%E5%B9%BB%E8%B4%B5%E5%B7%9E-%E5%9C%A8%E5%AF%86%E5%A6%82%E7%80%91%E5%B8%83%E7%9A%84%E9%AB%98%E6%A5%BC%E4%B8%8B-%E5%8F%AA%E8%B7%B3%E8%88%9E-%E4%B8%8D%E8%AF%B4%E8%AF%9D-%E8%AE%B0%E8%B4%B5%E9%98%B3%E8%8A%B1%E6%9E%9C%E5%9B%AD%E7%94%B0%E9%87%8E/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2019-08-12/%E8%87%AA%E7%94%B1%E6%99%82%E5%A0%B1-%E5%8F%8D%E9%80%81%E4%B8%AD-%E6%AE%BA%E4%BA%BA%E6%BB%85%E5%8F%A3-%E6%98%8E%E5%B1%85%E6%AD%A3-%E4%B8%AD%E5%9C%8B%E6%81%90%E5%8F%96%E6%9E%97%E9%84%AD%E6%9C%88%E5%A8%A5%E6%80%A7%E5%91%BD/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<萬有引力之蟲>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2019-08-30/%E7%A7%8D%E6%97%8F%E4%B8%8E%E5%8A%B3%E5%B7%A5%E6%94%BF%E6%B2%BB%E5%A6%82%E4%BD%95%E6%92%95%E8%A3%82%E7%BE%8E%E5%9B%BD%E5%B7%A5%E4%BC%9A/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<萬有引力之蟲>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2019-06-22/%E5%82%AC%E6%B3%AA%E5%BC%B9%E4%B8%8E%E9%98%B2%E6%9A%B4%E5%B7%A5%E4%B8%9A%E7%9A%84%E5%8E%86%E5%8F%B2/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

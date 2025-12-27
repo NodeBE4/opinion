@@ -1,0 +1,2296 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>EnclavedMicrostate在2023-02-13~2023-02-19的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="EnclavedMicrostate在2023-02-13~2023-02-19的言论" />
+    <meta property="twitter:title" content="EnclavedMicrostate在2023-02-13~2023-02-19的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FVirtualYoutubers%2Fcomments%2F111cgme%2Fprofessionally_penalizing_paparazzi_weekly%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/VirtualYoutubers/comments/111cgme/professionally_penalizing_paparazzi_weekly/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/VirtualYoutubers/comments/111cgme/professionally_penalizing_paparazzi_weekly/&text=EnclavedMicrostate在2023-02-13~2023-02-19的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/VirtualYoutubers/comments/111cgme/professionally_penalizing_paparazzi_weekly/&title=EnclavedMicrostate在2023-02-13~2023-02-19的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/VirtualYoutubers/comments/111cgme/professionally_penalizing_paparazzi_weekly/&title=EnclavedMicrostate在2023-02-13~2023-02-19的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=EnclavedMicrostate在2023-02-13~2023-02-19的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/VirtualYoutubers/comments/111cgme/professionally_penalizing_paparazzi_weekly/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/VirtualYoutubers/comments/111cgme/professionally_penalizing_paparazzi_weekly/&title=EnclavedMicrostate在2023-02-13~2023-02-19的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=EnclavedMicrostate在2023-02-13~2023-02-19的言论&url=https://old.reddit.com/r/VirtualYoutubers/comments/111cgme/professionally_penalizing_paparazzi_weekly/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>EnclavedMicrostate在2023-02-13~2023-02-19的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2023-02-19
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: EnclavedMicrostate</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/VirtualYoutubers/comments/111cgme/professionally_penalizing_paparazzi_weekly/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#1107-professionally-penalizing-paparazzi---weekly-discussion-thread-13th-of-feb-2023-submitted-on-2023-02-13-2354450800" id="markdown-toc-1107-professionally-penalizing-paparazzi---weekly-discussion-thread-13th-of-feb-2023-submitted-on-2023-02-13-2354450800">1107: Professionally Penalizing Paparazzi - Weekly Discussion Thread, 13th of Feb, 2023, submitted on 2023-02-13 23:54:45+08:00.</a></li>
+  <li><a href="#1108-why-were-chinese-men-so-obsessed-with-the-idea-of-widow-chastity-submitted-on-2023-02-14-0630170800" id="markdown-toc-1108-why-were-chinese-men-so-obsessed-with-the-idea-of-widow-chastity-submitted-on-2023-02-14-0630170800">1108: Why were Chinese men so obsessed with the idea of widow chastity?, submitted on 2023-02-14 06:30:17+08:00.</a></li>
+  <li><a href="#1109-are-there-parallels-between-england-today-and-the-rise-of-the-nazis-submitted-on-2023-02-14-2002030800" id="markdown-toc-1109-are-there-parallels-between-england-today-and-the-rise-of-the-nazis-submitted-on-2023-02-14-2002030800">1109: Are there parallels between England today and the rise of the Nazis?, submitted on 2023-02-14 20:02:03+08:00.</a></li>
+  <li><a href="#1110-the-tianjing-incident-was-a-major-set-back-for-the-taiping-but-what-other-kind-of-major-set-backs-did-the-taiping-face-submitted-on-2023-02-16-0248220800" id="markdown-toc-1110-the-tianjing-incident-was-a-major-set-back-for-the-taiping-but-what-other-kind-of-major-set-backs-did-the-taiping-face-submitted-on-2023-02-16-0248220800">1110: The Tianjing Incident was a major set back for the Taiping, but what other kind of major set backs did the Taiping Face?, submitted on 2023-02-16 02:48:22+08:00.</a></li>
+  <li><a href="#1111-different-types-of-german-units-submitted-on-2023-02-16-0721380800" id="markdown-toc-1111-different-types-of-german-units-submitted-on-2023-02-16-0721380800">1111: Different types of German units, submitted on 2023-02-16 07:21:38+08:00.</a></li>
+  <li><a href="#1112-how-do-people-paint-so-many-miniatures-submitted-on-2023-02-16-2239340800" id="markdown-toc-1112-how-do-people-paint-so-many-miniatures-submitted-on-2023-02-16-2239340800">1112: How do people paint so many miniatures?, submitted on 2023-02-16 22:39:34+08:00.</a></li>
+  <li><a href="#1113-jewish-minorities-have-lived-in-china-and-india-for-thousands-of-years-historically-did-they-face-any-anti-semitism-like-the-jewish-people-living-in-europe-did-submitted-on-2023-02-16-2348020800" id="markdown-toc-1113-jewish-minorities-have-lived-in-china-and-india-for-thousands-of-years-historically-did-they-face-any-anti-semitism-like-the-jewish-people-living-in-europe-did-submitted-on-2023-02-16-2348020800">1113: Jewish minorities have lived in China and India for thousands of years. Historically did they face any anti-Semitism like the Jewish people living in Europe did?, submitted on 2023-02-16 23:48:02+08:00.</a></li>
+  <li><a href="#1114-gura-in-a-yukata-submitted-on-2023-02-17-1012110800" id="markdown-toc-1114-gura-in-a-yukata-submitted-on-2023-02-17-1012110800">1114: Gura in a Yukata, submitted on 2023-02-17 10:12:11+08:00.</a></li>
+  <li><a href="#1115-guide-to-khaki-submitted-on-2023-02-17-1045560800" id="markdown-toc-1115-guide-to-khaki-submitted-on-2023-02-17-1045560800">1115: Guide to KHAKI, submitted on 2023-02-17 10:45:56+08:00.</a></li>
+  <li><a href="#1116-is-british-comedy-nowshitter-submitted-on-2023-02-19-0503090800" id="markdown-toc-1116-is-british-comedy-nowshitter-submitted-on-2023-02-19-0503090800">1116: Is British comedy now….shitter?, submitted on 2023-02-19 05:03:09+08:00.</a></li>
+  <li><a href="#1117-why-did-the-manchus-fail-to-preserve-their-language-during-the-qing-dynasty-submitted-on-2023-02-19-0700000800" id="markdown-toc-1117-why-did-the-manchus-fail-to-preserve-their-language-during-the-qing-dynasty-submitted-on-2023-02-19-0700000800">1117: Why did the Manchus fail to preserve their language during the Qing dynasty?, submitted on 2023-02-19 07:00:00+08:00.</a></li>
+  <li><a href="#1118-hobby-scuffles-week-of-february-20-2023-submitted-on-2023-02-19-2230300800" id="markdown-toc-1118-hobby-scuffles-week-of-february-20-2023-submitted-on-2023-02-19-2230300800">1118: [Hobby Scuffles] Week of February 20, 2023, submitted on 2023-02-19 22:30:30+08:00.</a></li>
+</ul>
+
+<h3 id="1107-professionally-penalizing-paparazzi---weekly-discussion-thread-13th-of-feb-2023-submitted-on-2023-02-13-2354450800">1107: <a href="https://old.reddit.com/r/VirtualYoutubers/comments/111cgme/professionally_penalizing_paparazzi_weekly/">Professionally Penalizing Paparazzi - Weekly Discussion Thread, 13th of Feb, 2023</a>, submitted on 2023-02-13 23:54:45+08:00.</h3>
+
+<p>—– <strong>1107.1</strong> —–2023-02-16 17:14:15+08:00:</p>
+
+<blockquote>
+  <p>PK girls</p>
+</blockquote>
+
+<p><em>snrks in Cantonese</em></p>
+
+<p>—– <strong>1107.2</strong> —–2023-02-17 10:52:56+08:00:</p>
+
+<p>It’s what sometimes gets known as a ‘glass cliff’ – women who get to be put in places of corporate responsibility are often there because they will be the ones to take the fall if, or more often when, something goes wrong.</p>
+
+<p>—– <strong>1107.3</strong> —–2023-02-21 17:46:54+08:00:</p>
+
+<blockquote>
+  <p>Classical opera BGM playing in the background</p>
+</blockquote>
+
+<p>It’s Beethoven’s Symphony No. 9 (the Ode to Joy), a choral symphony, not an opera.</p>
+
+<h3 id="1108-why-were-chinese-men-so-obsessed-with-the-idea-of-widow-chastity-submitted-on-2023-02-14-0630170800">1108: <a href="https://old.reddit.com/r/AskHistorians/comments/111m35g/why_were_chinese_men_so_obsessed_with_the_idea_of/">Why were Chinese men so obsessed with the idea of widow chastity?</a>, submitted on 2023-02-14 06:30:17+08:00.</h3>
+
+<p>—– <strong>1108.1</strong> —–2023-02-14 18:16:12+08:00:</p>
+
+<p>Your comment has been removed due to violations of the <a href="https://www.reddit.com/r/AskHistorians/wiki/rules">subreddit’s rules</a>. We expect answers to provide <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_write_an_in-depth_answer">in-depth and comprehensive insight</a> into the topic at hand and to <a href="https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/">be free of significant errors or misunderstandings</a> while doing so. Before contributing again, please take the time to better familiarize yourself with the <a href="https://www.reddit.com/r/AskHistorians/wiki/rules">subreddit rules</a> and <a href="https://www.reddit.com/r/AskHistorians/wiki/faq/meta#wiki_rules_discussion">expectations</a> for an answer.</p>
+
+<h3 id="1109-are-there-parallels-between-england-today-and-the-rise-of-the-nazis-submitted-on-2023-02-14-2002030800">1109: <a href="https://old.reddit.com/r/AskHistorians/comments/1123qkg/are_there_parallels_between_england_today_and_the/">Are there parallels between England today and the rise of the Nazis?</a>, submitted on 2023-02-14 20:02:03+08:00.</h3>
+
+<p>—– <strong>1109.1</strong> —–2023-02-14 20:16:16+08:00:</p>
+
+<p>This submission has been removed because it involves current events.  To keep from discussion of politics, we have a <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events">20-year rule</a> here.  You may want to try /r/ask_politics, /r/NeutralPolitics, or another current-events focused sub. For further explanation of this rule, feel free to consult <a href="https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/">this Rules Roundtable</a>.</p>
+
+<h3 id="1110-the-tianjing-incident-was-a-major-set-back-for-the-taiping-but-what-other-kind-of-major-set-backs-did-the-taiping-face-submitted-on-2023-02-16-0248220800">1110: <a href="https://old.reddit.com/r/AskHistorians/comments/1135dj8/the_tianjing_incident_was_a_major_set_back_for/">The Tianjing Incident was a major set back for the Taiping, but what other kind of major set backs did the Taiping Face?</a>, submitted on 2023-02-16 02:48:22+08:00.</h3>
+
+<p>—– <strong>1110.1</strong> —–2023-02-16 06:41:09+08:00:</p>
+
+<p>Were I being glib, I’d call the fact that the Taiping lost their biggest setback by far, but somehow I feel like that’s not quite the question you’re asking. Now, the definition of what makes a setback ‘major’ is going to be one that can be quibbled over endlessly, so if you disagree with my choices that is fundamentally a you problem, this is my opinion gosh darn it and you asked for it.</p>
+
+<p>If we’re going to talk about setbacks in terms of individual historical moments, then the closest analogue to the so-called ‘Tianjing Incident’ would probably be the Taiping loss of Anqing in September 1861, following a year-long siege by the Hunan Army. For the early part of the war, the Taiping were able to draw on most of the lower Yangtze basin as their economic base, as well as using it for strategic depth against Qing counteroffensives downriver towards Nanjing. Wuchang, which changed hands several times, was lost permanently to the Taiping by 1856, but there was still around 600km along the Yangtze from there to Nanjing. Anqing, which stood at the halfway mark between these two cities, served two purposes. Firstly, it served as a stronghold protecting the region between it and Nanjing, keeping that region firmly within Taiping control. Secondly, it remained viable as a forward staging ground for operations upriver, including onto Lake Poyang, which was critical for maintaining lines of communication in northern Jiangxi. When Anqing fell, effectively the entire western half of the Heavenly Kingdom collapsed almost overnight. More or less all Taiping territory upriver from Anqing, including Jiangxi, would effectively be back in Qing hands by the end of the year.</p>
+
+<p>The Taiping did make attempts to relieve the siege. For one, harassing attacks against the Hunan Army were attempted, in hopes that sufficient losses would induce them to withdraw. But perhaps the boldest attempt took the form of an attempted attack on Wuchang, which had been left with a minimal garrison thanks to the Hunan Army’s investment of Anqing. With one army under Chen Yucheng marching on the northern bank of the Yangtze, and another under Li Xiucheng on the south, they would converge on the under-defended city, cutting the Hunan Army’s line of retreat, and then march back downriver to crush it once and for all. However, the armies, which set out in October 1860, faced unexpected challenges. After capturing Huangzhou in March, Chen found that the city of Hankou, on the opposite bank of the Yangtze, was now a treaty port subject to vaguely-defined protections by the British, and so, pressured by British diplomats, he chose not to press the attack until he had received instructions from Nanjing. This bought time for the defenders of the cities, who were reinforced while Chen was forced to remain in place. Li, meanwhile, chose to take a relatively circuitous path through Jiangxi and Hubei in order to gather additional recruits, losing valuable time. When he arrived near Wuchang in May, he found that the Hunanese fleet had firm control over the river, and was unable to get the British consulate to deliver messages to and from Chen (that is to say that they willingly received the letters, and then chose to keep hold of them instead). Having lost the initiative and with no ability to coordinate, Li retreated in June. Chen, for his part, had abandoned the attempt against Wuchang back in April, and attempted to relieve the siege directly, circumvallating the Hunan Army’s own siege lines. However, he himself was hemmed in by a Qing cavalry force that lay across his potential line of retreat to Taiping-held Tongcheng. In May, Hong Rengan was tasked with defeating the imperial cavalry and reopening communications between Tongcheng and Chen’s forces, but he failed, and Chen would then retreat into northern Anhui, where he would later be betrayed by a local warlord whom he was attempting to ally with.</p>
+
+<p>But as the above chronology suggests, there was another, more persistent setback, less a singular moment and more a perennial problem, and that was the abject failure of Taiping diplomacy. The failure of the Taiping to solicit British, French, or American support in 1853-4 was arguably an integral factor in the former two countries going to war with the Qing in 1856-60 for expanded trade access, which meant that while they were fighting against the Qing in the <em>short</em> term, in the <em>long</em> term they were staking on a Qing victory against the Taiping. After all, what reason was there to believe that the Taiping would honour treaties that had been signed by the Qing, their mortal enemies? Whether any diplomatic overtures after 1856 could have made a difference is an open question, but in the event, the foreign community in China by and large opposed the Taiping, and in turn influenced their home governments to do the same. As we have seen, British chicanery around the treaty ports doomed the Taiping attempt to relieve Anqing, and even before outright military intervention in 1862-4, Britain and France were giving more than tacit support to the Qing militarily: the Taiping were prevented from taking Shanghai in 1860, and in early 1862 foreign steamers shipped the newly-formed Anhui Army from Anqing to Shanghai to support the city’s defence. It is an open question as to how integral foreign support was to the Qing’s victory, but you could make a decent case for there being somewhat more certainty going the other way: the Taiping’s defeat can be attributed in no small part to the failure of foreign support to materialise.</p>
+
+<h3 id="1111-different-types-of-german-units-submitted-on-2023-02-16-0721380800">1111: <a href="https://old.reddit.com/r/wwi/comments/113boxx/different_types_of_german_units/">Different types of German units</a>, submitted on 2023-02-16 07:21:38+08:00.</h3>
+
+<p>—– <strong>1111.1</strong> —–2023-02-16 08:11:58+08:00:</p>
+
+<blockquote>
+  <p>(as opposed to “Schutzen” who used Muskets in that period)</p>
+</blockquote>
+
+<p>As a slightly pedantic correction, this does depend on which German state you’re looking at, but Schützen were still skirmishers. In the (Napoleonic) Prussian army, Schützen were designated marksmen and skirmishers within line regiments, often issued with rifles; this distinguished them from Jäger who were full-sized skirmisher battalions. In the Austrian army, Landwehr skirmisher companies were designated as Schützen, while regular skirmisher battalions were Jäger. As a general rule though, Schütze was a term specifically applied to <em>rifle</em>men as opposed to musketeers.</p>
+
+<h3 id="1112-how-do-people-paint-so-many-miniatures-submitted-on-2023-02-16-2239340800">1112: <a href="https://old.reddit.com/r/wargaming/comments/113s486/how_do_people_paint_so_many_miniatures/">How do people paint so many miniatures?</a>, submitted on 2023-02-16 22:39:34+08:00.</h3>
+
+<p>—– <strong>1112.1</strong> —–2023-02-19 04:10:03+08:00:</p>
+
+<p>My local club likes to refer to the ‘three-foot rule’ – if it looks good from 3 feet away, then it looks good.</p>
+
+<p>I’ll also note that the size of a historicals army may seem daunting, but it depends what kind of game you’re playing. If you’re going full-on big battles then yes, you may well be looking at three-digit numbers for each side, but for a larger skirmish game like <em>Sharp Practice</em> or <em>Rebels and Patriots</em>, 40-60 per side is much more typical. And then you have some micro-skirmish sets like <em>Dead Man’s Hand</em> or <em>A Fistful of Lead</em> (both Wild West games to be fair) where you can get a game in with as few as 6-10 figures. So it’s really a matter of not just the individual figure scale, but also the scale of engagement you’re interested in.</p>
+
+<h3 id="1113-jewish-minorities-have-lived-in-china-and-india-for-thousands-of-years-historically-did-they-face-any-anti-semitism-like-the-jewish-people-living-in-europe-did-submitted-on-2023-02-16-2348020800">1113: <a href="https://old.reddit.com/r/AskHistorians/comments/113tnkx/jewish_minorities_have_lived_in_china_and_india/">Jewish minorities have lived in China and India for thousands of years. Historically did they face any anti-Semitism like the Jewish people living in Europe did?</a>, submitted on 2023-02-16 23:48:02+08:00.</h3>
+
+<p>—– <strong>1113.1</strong> —–2023-02-26 19:03:08+08:00:</p>
+
+<p>Interestingly, you can also detect some form of that narrative in some Taiping texts: there’s one proclamation in which Yang Xiuqing alleges that the Qing were an extractive colonial regime redirecting Chinese wealth to Manchuria, and there’s a manifesto in which Hong Rengan, showing off his knowledge of world affairs, likens Manchu rule over China to Turkic rule over Iran in the Qajar empire. So I do wonder how far Social Darwinism and the like managed to serve as an independent source of a narrative of the Manchu Qing as a distinct and separate imperial conqueror, as opposed to contributing to an already widely-known narrative.</p>
+
+<p>—– <strong>1113.2</strong> —–2023-02-26 22:37:17+08:00:</p>
+
+<p>Yeah, it definitely can’t be denied that there was some kind of shift occasioned by intellectual exchange with the West, but it can be all too easy to dismiss existing anti-Qing narratives simply because, to be fair, they are very hard to detect except in moments of exceptional rupture like the Taiping uprising and the contemporaneous revolts in Yunnan. It’s all just a bit hazy and frustrating.</p>
+
+<h3 id="1114-gura-in-a-yukata-submitted-on-2023-02-17-1012110800">1114: <a href="https://old.reddit.com/r/Hololive/comments/1147yht/gura_in_a_yukata/">Gura in a Yukata</a>, submitted on 2023-02-17 10:12:11+08:00.</h3>
+
+<p>—– <strong>1114.1</strong> —–2023-02-17 19:17:16+08:00:</p>
+
+<p>Cheongsam is Cantonese for ‘long dress’; Qipao is Mandarin for ‘banner robe’; both refer to the same dress style.</p>
+
+<p>—– <strong>1114.2</strong> —–2023-02-17 19:58:35+08:00:</p>
+
+<p>It’s a dress with an interesting if complex history relating to ethnic minority groups in China, the Discourse around which is, er, look it’s complicated.</p>
+
+<h3 id="1115-guide-to-khaki-submitted-on-2023-02-17-1045560800">1115: <a href="https://old.reddit.com/r/coolguides/comments/1148msi/guide_to_khaki/">Guide to KHAKI</a>, submitted on 2023-02-17 10:45:56+08:00.</h3>
+
+<p>—– <strong>1115.1</strong> —–2023-02-17 18:47:34+08:00:</p>
+
+<p>We need to add in a mediating layer here, that being Hindustani (Hindi/Urdu), which loaned <em>khaki</em> for ‘dirt’, and then transmitted it to English in the 1840s, when the East India Company military started to use the term to describe ‘drab’ uniforms in earth tones.</p>
+
+<h3 id="1116-is-british-comedy-nowshitter-submitted-on-2023-02-19-0503090800">1116: <a href="https://old.reddit.com/r/CasualUK/comments/115r7ki/is_british_comedy_nowshitter/">Is British comedy now….shitter?</a>, submitted on 2023-02-19 05:03:09+08:00.</h3>
+
+<p>—– <strong>1116.1</strong> —–2023-02-19 08:15:45+08:00:</p>
+
+<p>What is this channel, by the way? I’m intrigued.</p>
+
+<p>—– <strong>1116.2</strong> —–2023-02-19 09:29:47+08:00:</p>
+
+<p>Cheers!</p>
+
+<h3 id="1117-why-did-the-manchus-fail-to-preserve-their-language-during-the-qing-dynasty-submitted-on-2023-02-19-0700000800">1117: <a href="https://old.reddit.com/r/AskHistorians/comments/115uq2l/why_did_the_manchus_fail_to_preserve_their/">Why did the Manchus fail to preserve their language during the Qing dynasty?</a>, submitted on 2023-02-19 07:00:00+08:00.</h3>
+
+<p>—– <strong>1117.1</strong> —–2023-02-19 07:39:48+08:00:</p>
+
+<p>More may of course be said, but I address aspects of your question in these past answers:</p>
+
+<ul>
+  <li>
+    <p>https://www.reddit.com/r/AskHistorians/comments/ly2n9i/why_didnt_the_manchu_language_dominate_china/gprbx9h/</p>
+  </li>
+  <li>
+    <p>https://www.reddit.com/r/AskHistorians/comments/jppetx/for_a_clanethnic_group_that_ruled_over_china_for/gbgde0x/</p>
+  </li>
+  <li>
+    <p>https://www.reddit.com/r/AskHistorians/comments/xlniq6/did_cixi_speakreadwrite_manchu/ipy8zjx/</p>
+  </li>
+</ul>
+
+<p>The real Reddit-dwelling Manchu studies specialist, though, is /u/shkencorebreaks, whose answers you may find also – if not more – useful:</p>
+
+<ul>
+  <li>
+    <p>https://www.reddit.com/r/AskHistorians/comments/xktjdh/how_did_the_translation_of_ming_and_preming_texts/ipl6644/?context=999</p>
+  </li>
+  <li>
+    <p>https://www.reddit.com/r/AskHistorians/comments/u4tkfm/did_the_manchu_qing_empire_know_of_its_connection/i5ttnmy/?context=999</p>
+  </li>
+</ul>
+
+<h3 id="1118-hobby-scuffles-week-of-february-20-2023-submitted-on-2023-02-19-2230300800">1118: <a href="https://old.reddit.com/r/HobbyDrama/comments/116c1wp/hobby_scuffles_week_of_february_20_2023/">[Hobby Scuffles] Week of February 20, 2023</a>, submitted on 2023-02-19 22:30:30+08:00.</h3>
+
+<p>—– <strong>1118.1</strong> —–2023-02-20 21:27:00+08:00:</p>
+
+<p>I was going to gripe about Star Trek but that was going to be an in-fandom thing, so wouldn’t fit. So it’s VTuber time.</p>
+
+<p>Honestly, my biggest bugbear is the assertion that VTubing is somehow indelibly inseparable from ‘idol culture’. Now, /u/ZekesLeftNipple below has explained why ‘idol culture’ is unfairly maligned, so I won’t go over that part; what I will go over is the fact that the narrative that VTubers are just a new form of idols is  not as straightforward as it may appear, even if I will not deny that the links do exist.</p>
+
+<p>If we look at the genealogy of VTubing, then yes, idols have absolutely been a part of that, but not all VTubers are directly or indirectly idol-related. Kizuna AI <em>was</em> explicitly idol-influenced, while Hololive’s Tokino Sora has stated that she was interested in becoming an idol and joined Hololive because of that, but otherwise, most early VTubers were a mixture of established livestreamers and tech enthusiasts, with idol types as exceptions. The Japanese VTuber scene, both creators and fans, built itself out of a variety of subcultures: anime, livestreaming, let’s plays, utaite (cover singers), Vocaloids, and yes, idols, but not all of them are present in equal measure in all cases. Within Japan, Hololive is basically the only particularly prominent VTuber agency to have any kind of explicit idol imagery, and critically, it doesn’t have a monopoly on the domestic market, as it very much jostles for space both with Nijisanji and a variety of smaller players. Nijisanji, for its part, does concerts but very much does not advertise itself as being idol-related, which is basically true of other variety agencies like 774. Then there’s VSPO, which I believe is now the third-largest of the agencies by audience size (though it is also now technically a sub-agency under Brave Group), which is exclusively a gaming network, no idols to be found. To illustrate my point here, Nijisanji’s Honma Himawari <a href="https://youtu.be/7dGJ4BfRg2E?t=252">explicitly highlighted Hololive’s idol image as something she was particularly struck by</a> in a guest appearance on one of Omaru Polka’s <em>Legend of Polka</em> variety segments back in October 2021. This is not the sort of thing you would observe if idols and the broader idol culture were fundamentally ingrained into VTubing.</p>
+
+<p>The prominence of the idol narrative in English-language discussion is, IMO, very much a product of the nature of the English-language space, thanks to Hololive English’s first generation, Myth, being the major popularisers of VTubing in the Anglosphere. Myth’s semi-ironic references to themselves as idols did a lot to shape the view of VTubers in the West, particularly during the year or so that Myth completely dominated the EN scene. And this was despite the existence of quite an old pre-Myth EN VTubing scene – Ironmouse, whom many will have heard of, began streaming using FaceRig on 17 August 2017, and as such in fact predates <em>all</em> of Hololive. But if you look at things like <a href="https://www.youtube.com/watch?v=vzodvcvUxbQ">her recent birthday concert</a> or <a href="https://www.reddit.com/r/VShojo/comments/rj5f9w/congratulations_to_nyanners_ironmouse_and/">her appearance on VILLS with Silvervale and Nyanners</a>, she’s definitely happy to lean into it. More recently, the not-so-subtly-named Idol Corp., based in Israel, has been carving its own niche in the EN scene, as a post-Myth ‘idol’ agency. But plenty of EN VTubers <em>don’t</em> do this. NijiEN definitely isn’t an idol agency, and neither are most indies: someone like <a href="https://t.co/nvdgYkOQKP">Froot</a> or <a href="https://t.co/0t4TJZLwnM">obkatiekat</a> would never be mistaken for idols by anyone.</p>
+
+<p>The essential problem with this narrative of course is that it leads people to project a lot of ideas onto VTubers that simply aren’t universally applicable, and which are outright wrong when the inaccurate stereotypical image of ‘idols’, as described in the linked post, is the one being held. VTubers as a whole are <em>far</em> more varied and nuanced than can be captured by the idea of ‘idol culture’, and while I will not demand that everyone starts watching them, I will say that it would be helpful if outsiders didn’t just make assumptions based on a particular, distinct cultural phenomenon.</p>
+
+<p>—– <strong>1118.2</strong> —–2023-02-21 02:46:30+08:00:</p>
+
+<p>It’s certainly the perception from people I know through entirely non-fandom spaces, so it’s true to my own experience at least.</p>
+
+<p>—– <strong>1118.3</strong> —–2023-02-21 17:54:38+08:00:</p>
+
+<p>/r/worldbuilding has the effectively-official policy that you can post AI art if you can cite all the references. It is, in effect, a way of saying you cannot post AI art.</p>
+
+<p>—– <strong>1118.4</strong> —–2023-02-22 03:32:37+08:00:</p>
+
+<p>Listening through eyes is certainly an advanced skill.</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2023-02-23</time>
+        <a href="https://nodebe4.github.io/opinion/2023-02-23/EnclavedMicrostate/">
+          EnclavedMicrostate在2023-02-20~2023-02-26的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-02-19</time>
+        <a href="https://nodebe4.github.io/opinion/2023-02-19/Spinkcat/">
+          Spinkcat在2023-02-13~2023-02-19的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-02-18</time>
+        <a href="https://nodebe4.github.io/opinion/2023-02-18/theoryofdoom/">
+          theoryofdoom在2023-02-13~2023-02-19的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-02-18</time>
+        <a href="https://nodebe4.github.io/opinion/2023-02-18/ForeignAffairsMag/">
+          ForeignAffairsMag在2023-02-13~2023-02-19的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2023-02-18/theoryofdoom/">
+            前一篇：theoryofdoom在2023-02-13~2023-02-19的言论
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2023-02-19/HeQinglian/">
+            後一篇：Twitter @He Qinglian: 2023-02-13~2023-02-19
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2023-02-18/theoryofdoom/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2023-02-19/HeQinglian/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2023-02-19/Spinkcat/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2023-02-18/theoryofdoom/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2023-02-18/theoryofdoom/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2023-02-19/HeQinglian/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2023-02-19/Spinkcat/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2023-02-18/theoryofdoom/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

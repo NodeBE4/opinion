@@ -1,0 +1,3136 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>An Interview with Jon Yu About YouTube and Making Semiconductors – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+An Interview with Jon Yu About YouTube and Making Semiconductors
+——
+" />
+    <meta property="og:description" content="
+An Interview with Jon Yu About YouTube and Making Semiconductors
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="An Interview with Jon Yu About YouTube and Making Semiconductors" />
+    <meta property="twitter:title" content="An Interview with Jon Yu About YouTube and Making Semiconductors" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2025%2Fan-interview-with-jon-yu-about-youtube-and-making-semiconductors%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2025/an-interview-with-jon-yu-about-youtube-and-making-semiconductors/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2025/an-interview-with-jon-yu-about-youtube-and-making-semiconductors/&text=An Interview with Jon Yu About YouTube and Making Semiconductors&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2025/an-interview-with-jon-yu-about-youtube-and-making-semiconductors/&title=An Interview with Jon Yu About YouTube and Making Semiconductors" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2025/an-interview-with-jon-yu-about-youtube-and-making-semiconductors/&title=An Interview with Jon Yu About YouTube and Making Semiconductors" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=An Interview with Jon Yu About YouTube and Making Semiconductors&body=
+An Interview with Jon Yu About YouTube and Making Semiconductors
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2025/an-interview-with-jon-yu-about-youtube-and-making-semiconductors/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2025/an-interview-with-jon-yu-about-youtube-and-making-semiconductors/&title=An Interview with Jon Yu About YouTube and Making Semiconductors&caption=
+An Interview with Jon Yu About YouTube and Making Semiconductors
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=An Interview with Jon Yu About YouTube and Making Semiconductors&url=https://stratechery.com/2025/an-interview-with-jon-yu-about-youtube-and-making-semiconductors/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>An Interview with Jon Yu About YouTube and Making Semiconductors</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2025-01-20
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2025/an-interview-with-jon-yu-about-youtube-and-making-semiconductors/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1737389816000-->
+<p><a href="https://stratechery.com/2025/an-interview-with-jon-yu-about-youtube-and-making-semiconductors/">An Interview with Jon Yu About YouTube and Making Semiconductors</a>
+——</p>
+
+<div>
+  <p>Good morning,</p>
+  <p>Today’s Stratechery Interview is with Jon Yu. Jon is the man behind <a href="https://www.youtube.com/@Asianometry">Asianometry</a>, one of the best tech YouTube channels in the world. Jon is very curious about technology — and a whole bunch of other topics, particularly in Asia — and does intense research and shares what he learns through narrated YouTube videos.</p>
+  <p>I also just announced that <a href="link">Asianometry is joining the Stratechery Plus bundle</a>. Jon will continue making YouTube videos, but transcripts and podcast versions of his videos will be exclusively available to Stratechery Plus subscribers; you can elect to receive emails from Asianometry or add the podcast to your podcast player on the <a href="https://asianometry.passport.online/member/">Asianometry Passport site</a>.</p>
+  <p>I’m very excited about this addition; Jon is a great teacher about everything from <a href="https://www.youtube.com/watch?v=Pt9NEnWmyMo&amp;list=PLKtxx9TnH76QY5FjmO3NaUkVJvTPN9Vmg">semiconductors</a> and <a href="https://www.youtube.com/watch?v=loiltpe6q-s&amp;list=PLKtxx9TnH76SRC7ZbOu2Nsg5mC72fy-GZ">TSMC</a> to <a href="https://www.youtube.com/watch?v=MgDZQy0nN-Y&amp;list=PLKtxx9TnH76QV56t5_ty1TDWQ2xmv75bs">computer history</a> and <a href="https://www.youtube.com/watch?v=XQmXsbUYf9o&amp;list=PLKtxx9TnH76Qod2z94xcDNV95_ItzIM-S">company profiles</a>, and non-tech topics like <a href="https://www.youtube.com/watch?v=x02pq2HeKQY&amp;list=PLKtxx9TnH76Rxv5BOgJs_DHvlHxlcPhfo">Taiwan</a>, <a href="https://www.youtube.com/watch?v=aL_kzMlqgt4&amp;list=PLKtxx9TnH76T_4R7Lxs8QoDr64zlvt8SS">China</a>, <a href="https://www.youtube.com/watch?v=K_0rF3OCxD0&amp;list=PLKtxx9TnH76RTpIBp5WGyun3Nn85sQxLK">Japan</a> and more. There is an absolute wealth of information on his channel, which is very well-organized with <a href="https://www.youtube.com/@Asianometry/playlists">extensive playlists</a>.</p>
+  <p>In this interview we discuss Jon’s background and how he got started on YouTube, and then I ask him to teach all of us about how semiconductors are made. We cover all of the major steps in the process, and touch on the relevant equipment makers and quite a bit of history. I learned a lot in this interview, particularly about the importance of chemicals and Japan’s dominance in that part of the process, and how TSMC works to spur competition amongst semiconductor equipment makers.</p>
+  <p>As a reminder, all Stratechery content, including interviews, is available as a podcast; click the link at the top of this email to add Stratechery to your podcast player.</p>
+  <p>On to the Interview:</p>
+  <h3 class="wp-block-heading" id="an-interview-with-jon-yu-about-making-semiconductors">An Interview with Jon Yu About Making Semiconductors</h3>
+  <p><em>This interview is lightly edited for clarity and length.</em></p>
+  <p><strong>Topics:</strong></p>
+  <p><a href="#youtube">Starting a YouTube Channel</a> | <a href="#silicon">Why Chips Are Made of Silicon</a> | <a href="#fabricating">Fabricating a Chip</a> | <a href="#tsmc-intel">When TSMC Passed Intel</a> | <a href="#assembly">Assembling a Chip</a> | <a href="#supply">The Semi Supply Chain</a> | <a href="#misc">China, Intel, TSMC, Rapidus</a> | <a href="#cars">Consumer Electronic Cars</a></p>
+  <p><a id="youtube"></a></p>
+  <h4 class="wp-block-heading" id="starting-a-youtube-channel">Starting a YouTube Channel</h4>
+  <p><strong>Jon Yu, welcome to Stratechery.</strong></p>
+  <p><strong>JY:</strong> Hello. Glad to be here.</p>
+  <p><strong>There’s going to be a nice long intro here before this interview, introducing you and your work to the Stratechery readers. Not just your work, but also your work for Stratechery, which we can get to in a moment. But I always like to start these interviews by learning more about the person themself. Where’d you grow up? What inspired you to start a YouTube channel focused on technology in Asia? Was that always a focus? Or did you sort of stumble onto this?</strong></p>
+  <p><strong>JY:</strong> It was always the focus. I grew up in Southern California, and then worked in the Valley for about 10 years after college. I was just like an ordinary guy on the street, and then kind of burnt out and thought to myself, “You know what? I should go to Asia” — I didn’t even know, I just called it Asia.</p>
+  <p><strong>Yup. I wrote an Article <a href="https://stratechery.com/2024/a-chance-to-build/">a few weeks ago</a> about building things. There’s different aspects, some are China-specific, some are in Taiwan or Indonesia and I’m like, “You know what? I’m just going to use Asia, and we’re going to roll with it”. It’s way too broad, but it works sometimes.</strong></p>
+  <p><strong>JY:</strong> I know, right? I would go to these cities, and I had no idea necessarily the difference between these cities. I just picked one and then jumped, ended up — Taiwan gave me the best offer work-wise, so flew over there thinking I would be there for six months, and that was eight years ago. So, I ended up staying for a while.</p>
+  <p>I think about a few months in, I went on a trip to Japan with my mother, and my mother asked me, “I don’t really know what you’re doing over there in Asia, in Taiwan, and you should share that with us”. I was like, “Okay, mom, I’ll open a YouTube channel for you”. Asianometry started out as a tourism channel, where basically I would go to some — like the <a href="https://www.tripadvisor.com/Attraction_Review-g13806457-d6749680-Reviews-Cihu_Memorial_Sculpture_Park-Daxi_District_Taoyuan.html">Daxi Statue park</a>, and <a href="https://youtu.be/E9LZ4GGgTcg?si=JxUo0tZAAsC0A6n5">I would film the video</a>, and I would say, “Mom, this is this statue and that’s that statue”, and eventually you just run out of things to film, to visit.</p>
+  <p><strong>If you accrue travel costs while making videos, it gets much more expensive.</strong></p>
+  <p><strong>JY:</strong> Oh, immensely expensive. The return on invested cost is already terrible on a YouTube video, and then suddenly, we’re spending hundreds of dollars to travel.</p>
+  <p>Anyways, you run out of things to talk about, and I still had the channel, so I figured, “Hey, I’ll make videos about Asia”. I started out only about China and Taiwan, but then the comments, YouTube comments were just so brutal. They’re just like, “This channel should be called Chinanometry, not Asianometry.” That forced me, I was forced to export my research to other countries.</p>
+  <p><strong>Well, I mean, <a href="https://www.dwarkeshpatel.com/p/dylan-jon">you’re pretty well-known</a>, I think, amongst — some of my readers know who you are in Silicon Valley, particularly for your work on semiconductors and things along those lines. Was that just a, “This is something that Asia is really good at”, you sort of stumbled into it?</strong></p>
+  <p><strong>JY:</strong> Well, half and half, I think. If you’re in Asia, in Taiwan in particular, it’s really hard to avoid, to not notice TSMC so I covered TSMC pretty early on. But then also secondarily, my father is an analog chip designer, and occasionally, we’ll talk about the work that he did and the work that he does for a while. So, it was in the blood but in the environment too.</p>
+  <p><strong>Yeah. Well, I was going to ask you what’s been the most surprising part of your YouTube experience, but I think the fact that you’re sitting here and you have hundreds of thousands of views on your videos these days about chips, when you started out doing a sort of tourism channel for your mom, that might be the answer. But beyond that, what has been the most interesting thing about being a YouTuber?</strong></p>
+  <p><strong>JY:</strong> You get really into the dynamics of the algorithm, you get an understanding of the shortfalls of the algorithm, you can grow really fast. But people, it’s kind of a dog-eat-dog world out there. I’ve learned a lot from you, especially in terms of consistency and continuing to bring something to the table every week or every few days. So, that’s something that’s really surprised me, and I think that’s also just surprised that I can keep going at this pace. It’s been eight years now, so it’s a while.</p>
+  <p><strong>Yeah. There’s a lot I could relate to. I was only going to come to Taiwan for a year, and here we are both sitting here. And yeah, the job I’ve had longer than anything else, and it’s like if you would’ve told me in 2013, “Are you still coming me up with stuff to write about?”, at the beginning, you’re like, “Wait, once I cover what I want to write about, then what?”, turns out the technology sector is a good foundation for always having new things to explore and explain.</strong></p>
+  <p><strong>JY:</strong> Yeah. But I do feel sometimes I go back to my older videos, I would go to some beautiful topic and I look to myself, and I’d be like, “Man, I wish I could do that again with what I know now”, it would probably be three times longer, but it would be beautiful.</p>
+  <p><strong>Well, that’s kind of what I want to do in this interview, because I write a lot <a href="https://stratechery.com/topic/chips/">about semiconductors</a>, and <a href="https://stratechery.com/company/tsmc/">obviously TSMC</a>. I was going through, number one, everything I want to ask you about, you already have a video about, so we’ll have lots of links throughout this interview. But at the same time, I’m like, some of these videos, like your current videos have, like I said, hundreds of thousands of views. Some of these ones that are really pertinent have 50,000 views. I’m like, “Wait, you guys have to go back and go through this library”. I don’t know, maybe you have an excuse to remake some of them.</strong></p>
+  <p><strong>JY:</strong> Yeah, that would be fun, but there’s always new ideas coming up. One thing I’m surprised me, I guess to go back to your question, there’s always more ideas. My list is hundreds of topics long, I’m going insane every day I add more.</p>
+  <p><strong>Has YouTube changed? Is there a bit where chasing the algorithm and that changes, and you mentioned the comments being brutal and bullying you into covering more things. Is that a consistency of the YouTube experience, or has it changed in the eight years you’ve been doing it?</strong></p>
+  <p><strong>JY:</strong> I think early on, the YouTube channel, it was much easier to just go big with certain topics. I think there’s still certain keywords or things or topics, strategies that sort of work. For example, calling out a country still works to some extent. Analyzing deeply something that no one else has looked at, good to some extent. I think that’s still tried and true, and I still like to do that. I noticed that I don’t do as well if I make an Nvidia video nowadays-</p>
+  <p><strong>Right. There’s a lot of people making Nvidia videos.</strong></p>
+  <p><strong>JY:</strong> Because everyone makes videos of those.</p>
+  <p><strong>Yup.</strong></p>
+  <p><strong>JY:</strong> But no one else is going to do a video about the [<a href="https://www.youtube.com/watch?v=19l7WkkwYi8">Japanese whisky</a>]. Anyone wants to search that, I’m there. In some ways, it’s still the same, but in some ways, it’s just more challenging because there are a lot of more people.</p>
+  <p><a id="silicon"></a></p>
+  <h4 class="wp-block-heading" id="why-chips-are-made-of-silicon">Why Chips Are Made of Silicon</h4>
+  <p><strong>Yeah, that makes sense. Like I said, what I think would be interesting is go through — I’ve noticed as people become more interested in semiconductors, you start out with a very reductive view. It’s like, “Well, Nvidia is the most valuable company in the world, oh, TSMC makes video chips, they must be the most valuable. Oh, TSMC depends on the ASML, I’ve heard that name, that must be the most valuable”. I think it’d be interesting to explore and lay out the overall process and market constraints around this that drives differentiation. So I was thinking about, “Okay, where to start?”, I want to talk through the semiconductor process. We could start with silicon and the <a href="https://en.wikipedia.org/wiki/Czochralski_method">Czochralski process</a></strong>. <strong>Let’s do this. Sand. How does sand become a wafer? Let’s start at the very beginning. And like I said, let’s talk about it, and the historical aspect, we can sort of dip in and out on each one.</strong></p>
+  <p><strong>JY:</strong> Yeah. I think if you want to go back to it, a lot of people will start with the transistor, <a href="https://www.youtube.com/watch?v=Pzy_KOBddRA">the first transistor</a>, which is a solid state switch essentially. Now, switches existed within history to build electronics, and people have been building electronics since, I would say, the 1800s.</p>
+  <p>I would say the thing is that the solid state transistor was a interesting thing because it used a semiconductor material, which is at the time I believe it was germanium or something. The germanium one didn’t quite work out in the market because it had difficulties at higher temperatures and higher frequencies, and that’s why <a href="https://www.youtube.com/watch?v=sIRfWyyOFPg&amp;t=3s">silicon becomes more prominent</a> in that feature.</p>
+  <p>Now, silicon is not the best semiconductor. It’s not perfect for a lot of different things for transporting charge carriers, like electrons or electron holes, but what it is good is that it scales, and it has good — its derivatives are really good for protecting the transistor from outside contamination. I think that helped the industry latch onto it as a process. You would see these introductions of various historical events, for example, like the planar process and Fairchild Semiconductor, that would help develop silicon as this core product within the industry.</p>
+  <p>So at the very heart of it, at the very beginning, you create the silicon, and you turn it into a melt and you can use as melt the dip using a sea crystal to build what is called a boule and it’s this massive thick thing.</p>
+  <p><strong>The long cylinder of silicon, yup.</strong></p>
+  <p><strong>JY:</strong> Yeah. And that’s a special part of silicon that helps make it special in the industry. For example, there are other materials, like <a href="https://www.youtube.com/watch?v=yHn_LvwQMcg">silicon carbide</a>. Silicon carbide doesn’t necessarily turn into a boule, you can’t dip it, you can’t use the Czochralski process to create this massive single crystal that basically you can chop up and turn into wafers.</p>
+  <p><strong>Right. And just for context, silicon carbide, that’s the material <a href="https://stratechery.com/2024/an-interview-with-meta-cto-andrew-bosworth-about-orion-and-reality-labs/">that Meta is using for the lenses in their AR glasses</a> and actually, what you just said is one of their biggest challenges in bringing these AR glasses to market, which is it’s really hard to make silicon carbide. It doesn’t have this reproducible way that traditional silicon does where you can make these long crystals that are easily sliced up into wafers, and they’re like, “Can other people use silicon carbide, so people can figure out a good process here?”, that’s one of their big challenges.</strong></p>
+  <p><strong>JY:</strong> I know, right? And I think it reminds you of the fact that silicon is sort of a miracle material and that’s why it’s been so consistently used throughout history. It really has all these special properties that help make it a unique material for all these scalable processes.</p>
+  <p><strong>No, it’s a good point. This applies to electronics generally. You might have something that is, in a narrow technical sense, not the best, but manufacturability is really important and durability is really important. Those are some of the things that really, really set silicon apart.</strong></p>
+  <p><strong>JY:</strong> Yeah, I agree.</p>
+  <p><a id="fabricating"></a></p>
+  <h4 class="wp-block-heading" id="fabricating-a-chip">Fabricating a Chip</h4>
+  <p><strong>Well, let’s go through this. You have a set of companies, they make the wafers, they deliver them to TSMC. This is just a piece of, it’s not glass, but it’s a piece of silicon. How is the transistor actually created and put on that? What are the steps? What companies are involved in that? I just want to get deeper into this actual process for people who, particularly people who don’t really know how this works.</strong></p>
+  <p><strong>JY:</strong> I think what they’ll do is that they’ll, at first — silicon manufacturing is basically broken down into a bunch of repeated processes. It’s a bunch of recipes put together by TSMC. TSMC is the integrator of all this equipment, and the equipment comes from various different companies like you mentioned. And I found it really helpful to break it down into a framework of what those steps would be. You have deposition.</p>
+  <p><strong>What is deposition?</strong></p>
+  <p><strong>JY:</strong> I do love this about the semiconductor industry, at least the terms make sense. It’s about laying down or depositing a thin layer of material. Now, what that material layer is going to be is then specified in the type of deposition. These tools are provided usually by Applied Materials or Tokyo Electron, and what they do is they have these certain sub-sectors of different deposition techniques. You would have, for example, oxidation, which is where you take advantage of silicon’s ability to grow and oxide by reacting it with water to create an oxide layer to protect the transistor or whatever is on the silicon from outside contamination, now that’s deposition. And then you would move that to — you would pattern a layer, whatever that layer would be <a href="https://www.youtube.com/watch?v=1fOA85xtYxs">with lithography</a>.</p>
+  <p><strong>Got it. And this is the one that most people know about, which is where ASML enters the game.</strong></p>
+  <p><strong>JY:</strong> Yeah. But then there’s also an underrated product that I should mention is photoresist. Photoresist is provided by company JSR, which is one of the dominant photoresists of our current generation. In fact, Japanese companies almost have, they have <a href="https://www.youtube.com/watch?v=3T4FpRm2uwk">a monopoly on photoresist</a>, a complete monopoly I think for 20 years.</p>
+  <p><strong>And this photoresist, that’s another layer that’s sort of put on before the lithography?</strong></p>
+  <p><strong>JY:</strong> It’s a liquid that you pour onto the wafer and then it absorbs the light in a way to preserve the pattern from the light because you have to preserve it, you can’t just dump it on the silicon. If you do it on the photoresist and the photoresist is baked to resist, ergo the name, an acid that comes later, which is the etch layer or step, which we’ll talk later.</p>
+  <p><strong>Got it. This Japanese angle is interesting. And actually the other thing I’m getting from you and I think is underrated is a lot this stuff isn’t just equipment, it’s a lot of chemicals and it’s a lot of material science is probably the more underrated IP aspect, which is very, very well hidden and sort of preserved to your point about these companies retaining very dominant positions.</strong></p>
+  <p><strong>JY:</strong> Yeah. TSMC splits their supply chain into equipment and materials and I’ve been told the materials is basically almost all Japanese. The Japanese have a very, very tight grip on materials, photoresist, all these different things for reasons that we can go into later, but it’s part cultural part economics and stuff like that.</p>
+  <p><strong>Okay. How does the lithography enter the equation then?</strong></p>
+  <p><strong>JY:</strong> The lithography is, basically the goal is to transfer the pattern of the design or the pattern where the transistors would be, how they’ll actually look, and transfer that onto the wafer, onto the deposited layer that you have here and that’s one half of another step <a href="https://www.youtube.com/watch?v=po-nlRUQkbI">called etch</a>. They used to call it litho-etch-litho-etch. Litho is you put the pattern down, etch is that you basically solidify it into the layer. Could be silicon, could be another metal layer, could be different things. That’s why I think etch is very underrated, but I think litho is probably — it consumes a lot of the value chain, but it probably shouldn’t consume so much of the attention.</p>
+  <p><strong>Etch is like Lam Research. Are they the dominant player there?</strong></p>
+  <p><strong>JY:</strong> Generally it’s a bunch of different players because etch is very varied, but yes, Lam is one of the big ones.</p>
+  <p><strong>I think you actually probably gave the answer. Etch might be really hard, but there’s more competitors in the space and especially once we moved to DUV, there was, again, the Japanese dominated that for a long time. ASML was more behind and came up, but then you got to EUV and that’s where ASML leaped ahead sort of in conjunction with TSMC, it was really a hand-in-hand thing there.</strong></p>
+  <p><strong>JY:</strong> Well, I think it’s important to note that also DUV, one of the breakthrough products of ASML was during the DUV days and their big innovation within the DUV space was the focus on productivity. ASML really focused on not necessarily making the most incredible litho machine, but making a machine that was very productive, which was their TWINSCAN thing where they would be able to process more wafers per hour than even the Japanese could do and that really caught them off guard, especially in the early 2000s.</p>
+  <p><strong>And this really happened with the shift from 200 millimeter wafers to 300 millimeter wafers?</strong></p>
+  <p><strong>JY:</strong> Yeah. And <a href="https://www.youtube.com/watch?v=SB8qIO6Ti_M">one of the big failings</a> I think of Canon and Nikon was partially that they didn’t really handle that transition well, and also because they were all vertically integrated and ASML is a much more horizontally integrated supplier that was able to take the best stuff and kind of use that where Canon and Nikon kind of fell short there.</p>
+  <p><a id="tsmc-intel"></a></p>
+  <h4 class="wp-block-heading" id="when-tsmc-passed-intel">When TSMC Passed Intel</h4>
+  <p><strong>Well, I think the other thing too is because Canon and Nikon were big Intel suppliers, and Intel just wasn’t that worried about productivity because they made so much margin on their chips, and they were only making it for themselves and so Intel wasn’t really pressuring Canon and Nikon to sort of go faster, whereas at TSMC it’s like it’s a pure direct line from our productivity to our revenue numbers and so there was a real meeting of the minds there where TSMC wanted less vertical integration because they wanted to be able to incorporate best of breed up and down the stack, and they also wanted to go way faster, and so it was a real opening and opportunity. ASML is really important for TSMC with EUV, but TSMC was really important for ASML in terms of ASML getting to its large market share in the first place by capitalizing on that wafer transition.</strong></p>
+  <p><strong>JY:</strong> Yeah, it’s a very weird relationship between these two companies. They’re technically corporately siblings, and you have the sibling tensions of all that entails. Its fun.</p>
+  <p><strong>Is that a real thing? Because they’re both downstream <a href="https://www.youtube.com/watch?v=4UG87ZLB4AY">from Philips</a>, that’s sort of the relationship you’re talking about. Why isn’t Philips a dominant sort of semiconductor name today when you had these two companies come out of them?</strong></p>
+  <p><strong>JY:</strong> Oh, that’s a funny story. To hear it from the ASML people, Philips was just a failure of a company. They were too bureaucratic, too solidified in their ways. They’re almost like, I guess the Japanese in the 1990s and they really deserve to, Philips kind of lived their life and deserve to wind down and they sold those stakes way too early as it turns out. But they weren’t the first, they wouldn’t be alone in believing that TSMC and ASML had reached the peak a little bit too early.</p>
+  <p><strong>Is there an aspect where this 200 to 300 millimeter wafer transition and the increase in efficiency and speed that it allowed for, was that actually, if you were to really zoom out, was that when TSMC started to pass Intel? This was still a good decade before their process surpassed Intel, but is there a bit where just the speed and efficiency, and the learning and the iteration that was downstream from increased velocity was in the long run when this changing of the guard began?</strong></p>
+  <p><strong>JY:</strong> I think it’s kind of tough to make a call like that. I think someone at Intel once told me that TSMC wasn’t necessarily faster than or ahead of Intel in the sense that their digital logic products, they’re making better digital logic products. I think because the market that they were operating in at the time incentivized them to go for lagging-edge and trailing-edge chips, but in that area they were very good at that. They built a flow and a process and nodes that were customized to serving external customers.</p>
+  <p>This changed when the mobile industry started to become more of a thing and Intel missed that, but once it became more clear that mobile chips needed to get more speed, that’s when Intel or TSMC decided that, yes, we need to actually start going up this node process. I think trying to distinguish when TSMC would start to surpass Intel, that’s tough to kind of find that because they was always so different from one another in these early years, and you wouldn’t really say that they were competing basically until what, 2007, 2008.</p>
+  <p><strong>Yeah, they’re hardly competing today, in some respects. I guess the most direct place of competition until Intel’s foundry really gets going is via AMD and Intel to a sense. But here’s another question. There’s a bit where Intel famously, a lot of these technologies, they brought them to market first, and you think about how do you bring new technologies? Being highly integrated is at least theoretically an advantage, but you have this bit where TSMC is not highly integrated, they’re looking for all these different pieces, but they’re very process-oriented and they’re very efficient and setting it all up, but is there just a bit where the complexity got so high that the integration tax was too large and process actually mattered, iteration speed mattered more than anything else?</strong></p>
+  <p><strong>JY:</strong> Integration tax, I think it’s debatable, I think right up until the 10 nanometer or 14 nanometer fiasco. Right before the 14 nanometer fiasco, you could argue that Intel was two generations ahead of TSMC and they were going so fast. I think what happened wasn’t less of an organization failure in the sense that they were too arrogant to push ahead of the technology, but I think if there’s one aspect where I say the integration of Intel failed them was that when 10 nanometer really started to fall apart, the product side of the company had already built products for a 10 nanometer spec that was not feasible, was not possible. And that basically froze the company as they had to break down the product, redesign it, and that took two years.</p>
+  <p>You could say that’s when the vertical integration of Intel really started biting them in the butt. But prior to that, I would say 2011, as recently as 2011, when they were doing 22 nanometer, <a href="https://www.youtube.com/watch?v=i3dDslo9ibw">the second generation FinFET</a> and all that, they were really killing it.</p>
+  <p><strong>That’s right.</strong></p>
+  <p><strong>JY:</strong> They’re going really far ahead.</p>
+  <p><strong>No, I mean they were so far ahead with FinFET. It’s under-appreciated how relatively recent that was. You actually said something really interesting about the sort of arrogance bit, because I think the common perception of Intel is they refused to leap ahead and they didn’t adopt EUV. But actually there’s an underrated aspect here, which was there were other aspects they were trying to go ahead too far too quickly.</strong></p>
+  <p><strong>JY:</strong> Yeah, well, they really thought themselves as the purveyors of <a href="https://www.youtube.com/watch?v=nRJgvX6P8dI">Moore’s Law</a>. They were the most advanced manufacturing company in the world, Moore’s Law was theirs, and they had to keep pushing the boundaries. And they’ve already done it many, many times the tick-tock —</p>
+  <p><strong>The tick-tock strategy, yes. Improve design, improve process, improve design, improve process.</strong></p>
+  <p><strong>JY:</strong> That had really gone well for a couple years and that was really killing it. That arrogance jumped ahead of what the technology was capable of in 2012, 2013, when Intel was working out 14 nanometer, 10 nanometer because they do that in parallel. The EUV was not ready and EUV wasn’t even close to ready. EUV because of the power source, the power source wasn’t even close to ready and it was really flat, flat, flat for years and then suddenly it was a huge jump. It was a mess-up, but they probably-</p>
+  <p><strong>What were some of those leaps they were trying to make in a world where EUV was not ready? They were trying to get to EUV eventually, but there was a cobalt issue and some other things along those lines. What were some of the roadblocks that they ran into?</strong></p>
+  <p><strong>JY:</strong> I would generally say it’s like we don’t really know. Intel has never been really clear. <a href="https://semianalysis.com/2024/12/09/intel-on-the-brink-of-death/">Dylan [Patel]’s</a> pretty clear, pretty insistent that it was cobalt, but I think in generally, you could just say the whole spec was ambitious. There was a slide that I saw from the Intel Technology Investor meeting where they looked at density, and they’re saying 14 nanometer is going to be another two-time shrink within two years or something on top of 14, or 10 would be a double shrink on 14 and that simply was too much and it was too far ahead of what was possible. TSMC would never do that sort of thing because they’re much more incremental and they would go year after year, very slow and now that sort of taking too much step is kind of the reason why they couldn’t do it.</p>
+  <p><strong>Right. And of course they’re trying to recover by taking massive amounts of steps in a very short amount of time. I guess maybe the cure will work out better than the disease.</strong></p>
+  <p><strong>JY:</strong> We shall see about that.</p>
+  <p><a id="assembly"></a></p>
+  <h4 class="wp-block-heading" id="assembling-a-chip">Assembling a Chip</h4>
+  <p><strong>All right, let’s go back to the process. You have the silicon wafer, you have this deposition step, you have the mask, which is the pattern for the chip that the light source shines through, you etch it onto the chip. Then you mentioned once you’ve etched a layer on, it’s going through multiple times. How many times is the step generally repeated as you’re sort of building up a chip?</strong></p>
+  <p><strong>JY:</strong> Hundreds of times I think, and I’ve heard N2 is something like 20% more steps than N3 and N3 was something like 700, 800 steps. It’s a lot of steps and these include a lot of different things and they also have to have incredibly high yields each individual step or else the end product will be terrible.</p>
+  <p><strong>Is this where a lot of the yield problems happen, is in this sort of recycling of steps?</strong></p>
+  <p><strong>JY:</strong> I think yield problems — I mean they’re never going to tell me, but I generally understand the yield problems come from the new introduced steps or interactions between different steps that don’t end up working well or they come out of the end as they have no idea where it is and then they have to go back and they revert. It’s a lot of different things that they introduced into — if you think about it, the TSMC node is basically an accumulation of nodes that work basically from the very beginning. They’re slowly extending it, testing it, see if it’s going to work. If it doesn’t work, they’ll cut it off and then they’re adding these new steps to see if you can achieve a better process.</p>
+  <p><strong>You still have to connect these transistors together. It used to be different pieces you would actually wire them together. What is that layer made of and how is that actually accomplished where you have all these transistors etched on a chip, but you have to connect them? There’s a communication layer, there’s a power layer. How does all that work?</strong></p>
+  <p><strong>JY:</strong> That’s done using something <a href="https://www.youtube.com/watch?v=XHrQ-Pmvwao">called metalization</a> and metalization is kind of like, that’s a whole journey in of itself. It used to be they used aluminum to deposit, they would pattern where the wires go and then deposit aluminum in between the transistors as if it’s just another thing, but then they moved to copper because the resistance of the aluminum wires got too high that you started getting delays in how the signals were sent. So they moved to copper, but copper has its own problems where it leaches into the silicon.</p>
+  <p>So what they did is that they had IBM develop this wonderful copper lining that protects the copper from leaching to the silicon, and the whole industry followed what IBM did and copper has to be done in a weird inverse way, but that’s served us well for 20 more years and now I think the industry is probably looking more <a href="https://en.wikipedia.org/wiki/Ruthenium">at ruthenium</a>, which is going to be the next big jump in interconnects beyond copper.</p>
+  <p><strong>Is lithography used for these interconnects or is that different? How is the actual pattern established and laid down?</strong></p>
+  <p><strong>JY:</strong> Yeah, it used lithography. EUV is used for what very small percentage of the steps within—</p>
+  <p><strong>Right. They still use the old DUV for as much as possible because it’s much cheaper.</strong></p>
+  <p><strong>JY:</strong> Yeah. Like 80, 90% I would say much higher levels of the metal layer. So it’s M1, M2, M3, M4, all that M1, M2 layers might be done with EUV and then the rest would be done with DUV.</p>
+  <p><strong>So then how does the power layer into this? Right now — we can get to backside power in a moment — but right now you have the transistor layer, you have the communications layer, and then power goes on top of that?</strong></p>
+  <p><strong>JY:</strong> Power is interspersed with the communication wires. They also go through the same wires and they go through the same thing. You have these big interconnects or big wires at the beginning and then they slowly get smaller and smaller until they finally reach the individual transistor, and <a href="https://www.youtube.com/watch?v=fc_xzN6UErI">you mentioned backside power</a>. That is the situation where they got to take that whole network, split it out and move that underneath the wafer and save a lot of space.</p>
+  <p><strong>But the problem is, now you’ve done a lot of work. If the most difficult layer is the transistor layer, but you already laid down all the power bit, then you’re throwing a lot more away if the chip screws up or if something goes wrong in that middle layer. Is that right?</strong></p>
+  <p><strong>JY:</strong> Yeah, and it is a wafer bonding technology and wafer bonding is relatively young.</p>
+  <p><strong>What is wafer bonding?</strong></p>
+  <p><strong>JY:</strong> <a href="https://www.youtube.com/watch?v=2ACiuKgYUkI">Wafer bonding</a> is where you take two wafers and you smack them together and there’s various ways to do it. It really, it blows your mind how much detail they’ve gone into this, but you can bond them using <a href="https://en.wikipedia.org/wiki/Van_der_Waals_force">Van der Waals forces</a>. You can heat them up, you can use glue, you can use a whole bunch of different things.</p>
+  <p>But at the core of it, the concept is you take two wafers and you smack them together and you would take, in the case of backside power, you’re taking this power network and you’re just melding it to the bottom of the transistor layer and making it into a thinned transistor layer to connect the transistors to the power. Hope that makes sense.</p>
+  <p><a id="supply"></a></p>
+  <h4 class="wp-block-heading" id="the-semi-supply-chain">The Semi Supply Chain</h4>
+  <p><strong>How do you find out about this stuff? And to what extent is the knowledge of how to do this kept internal versus it becomes shared across the industry and people know how to do that? What is the give and take in terms of, “I want to learn from other people, they can learn from me”, versus, “This is super important intellectual property that keeps us unique and no one else can know?”.</strong></p>
+  <p><strong>JY:</strong> It’s a very interesting question. I think it’s like, one example that comes to mind is the copper interconnect technique. As you mentioned, the way to keep the copper from leaching into the silicon is very strange, it doesn’t really make sense. It’s <a href="https://en.wikipedia.org/wiki/Copper_interconnects">called Damascene</a> and IBM developed it, but all the other American semiconductor companies quickly developed it afterwards.</p>
+  <p>Partially it’s because of diffusion through employees, there’s inter-corporate organizations where they all mix and they chat, there’s like a feeling within the industry that it’s time to adopt this and they all work towards it. But then they all have their own different styles, I guess, to fill their own proprietary specialty in it and you can definitely see this within definitely the packaging industry for sure.</p>
+  <p>So I would say you have big ideas and concepts that are shared within conferences, within conversations over the years, but then the small details, which is where the juice is squeezed, that is developed within the companies and they’ll keep that to themselves.</p>
+  <p><strong>Actually, I want to tie this into the question about the Japanese companies before. Is there an aspect where almost the more mechanical bits are, “Look, if you know what to do, you can internally then figure out how to actually do that”, but is it a bit about chemicals and that nature? You might know what to do, but if you don’t actually have the recipe, you’re not going to figure it out. Is that tied into why that’s been so much more resistant to competition?</strong></p>
+  <p><strong>JY:</strong> Precisely. It’s one of the big ones, and the other thing is that no one just wants to spend their life spending 20 years studying a chemical or cycling through all these chemical recipes to find out what might work. A lot of these are like there’s one person in America who might know this type of resist, this chemically-activated resist or whatever — maybe okay, maybe 5 or 10. But then in Japan you can take a whole bunch of PhDs and say, “This is your life now, you will study this for 30 years” — and they’ll do that. Then that’s how these companies like JSR build immense, immense moats that are basically impenetrable because no one else wants to do that work and no one else has an IP.</p>
+  <p><strong>So is there a case that JSR has a bigger moat than ASML?</strong></p>
+  <p><strong>JY:</strong> Oh, that’s a tough one. I would say yes. In some ways Tokyo Ohka and JSR are more moat-y than ASML because there are alternatives.</p>
+  <p><strong>But as far as the steps go, are the same chemicals used from the chemical perspective? Are those all used in trailing-edge as well as leading-edge, or is there any differentiation in that regard? Whereas obviously for the equipment, EUV is only used on the leading-edge. You’re not going to use it for your 28 nanometer chip or whatever it might be. The chemicals is that just — that’s a commonality, it’s used for everything?</strong></p>
+  <p><strong>JY:</strong> No, the chemicals are tuned for the process. So what will happen with TSMC is TSMC’s people will work with the JSR, Tokyo Ohka’s people. They’ll be like, “Okay, this is what the node’s going to do, I have a good idea of what we want with this resist”, and the JSR guys will say, “Oh yes sir, yes sir”, and they’ll come up with this very special formulation that works precisely with the dose that you want it to with all that, and then once TSMC accepts it for the node, then JSR starts raising prices.</p>
+  <p><strong>TSMC knows what they’re getting into. But I think actually I love that example because I think it speaks to what is unique about TSMC. It’s this, I’ve talked about they’re a customer service organization for fabless chip companies and they’re very collaborative and they’re going to work with you to, they have the IP libraries, but they’re going to get it working on their process. But what you’re speaking to is this deep level of collaboration on the process side and actually you say systems integrator, that sounds low brow, but in fact it’s essential to how this all works and comes together.</strong></p>
+  <p><strong>JY:</strong> Yeah, and I think a lot of this stuff is so optimized now. You can’t really just pull something off the shelf and I think these chemicals are insane. You can imagine. They look, if you imagine these are insane molecules made of a whole bunch of different things and you have arms of molecules, they’re designed to do certain things when the light activates them or something like that.</p>
+  <p><strong>It’s pretty nuts.</strong></p>
+  <p><strong>JY:</strong> It’s very moat-y.</p>
+  <p><strong>The chemical part I think is very underrated, I would say I underrated it, this has been actually pretty illuminating. I do have one question — what is ion doping?</strong></p>
+  <p><strong>JY:</strong> So what you would do is that you would use an ion beam to basically dope the parts of a transistor because a transistor silicon by itself won’t send a current from one side to the other. So what you need to do is that you need to embed certain elements within that silicon at different sides to make it electrically active. And this is done with an <a href="https://youtu.be/p5JQX1BvsDI">ion beam</a>.</p>
+  <p><strong>Who makes the ion beam?</strong></p>
+  <p><strong>JY:</strong> Oh, that’s a good question. There’s a lot of different companies, I wasn’t able really to find a big company that does it, it’s not like a new technology.</p>
+  <p><strong>So you have these three layers. You have the transistor layer, you have the communications layer, you have the power layer. Is this when you can start testing it and see when it actually works? How is the whole testing, dicing, and binning or can you be testing throughout so you know when you can toss it and when you cannot?</strong></p>
+  <p><strong>JY:</strong> My understanding is that they do testing more at end of certain stages, they’ll do checkpoints and because they never want to have a situation where you do the whole thing and then you test it at the end and you’re like, “Okay, this doesn’t work”, and we don’t know why. But I know that that does happen.</p>
+  <p><strong>Got it. So with these big five companies, where do they fit in this stack? And I know you mentioned JSR, who I don’t have in my big five, but I guess I’m more focused on the manufacturing aspect. In the steps we talked about, so where is, I mentioned it, but where is LAM Research?</strong></p>
+  <p><strong>JY:</strong> These companies, they just all interact with each — they’re all merged with each other nowadays, so they all do the same thing. So you could look it up and it’d be like LAM has a deposition product, Applied as a deposition product, Tokyo Electron has a deposition product and that’s what I generally have seen. And it seems strange as a deliberate strategy, I would say, on the side of the semiconductor makers, but they all have their own products to step on each other’s sides.</p>
+  <p><strong>So in a typical process, do you go all in with one company or you pick best of breed from all the different ones?</strong></p>
+  <p><strong>JY:</strong> TSMC tends to do, what they will do is that they never want a single supplier. So what they’ll do is that if one supplier is working for a deposition, right, they do CVD for a particular deposition product. What they’ll do is that they’ll go to another company, another one of their, like Tokyo Electron for example. They’ll say, “We are using Applied for this” or “We’re using LAM for this”, “Can you make a product to do this as well and hit this spec at this price, and we’ll buy it from you?”, so what they do is that they really play each other off in the center of such a way and they do this for almost every supplier with the exception of two.</p>
+  <p><strong>Got it. So TSMC is really breeding this commonality of competition to keep their costs down. Well, I’m sure that drives them crazy as far as ASML goes. You mentioned two, what’s the other one? If ASML is one that’s unique, what’s the other one?</strong></p>
+  <p><strong>JY:</strong> Within the company they have something called “Shuang A”. So “Shuang” means double, so there’s ASML and Applied Materials.</p>
+  <p><strong>What does Applied Materials do that’s so special?</strong></p>
+  <p><strong>JY:</strong> I was not told what that was, I’ll try to find out.</p>
+  <p><a id="misc"></a></p>
+  <h4 class="wp-block-heading" id="china-intel-tsmc-rapidus">China, Intel, TSMC, Rapidus</h4>
+  <p><strong>Oh, very interesting. That is interesting. So with this understanding and perspective, what does that mean in the context of China? I will say one thing. I mean there’s the chemical aspect, which I think is very interesting and probably under-appreciated. The other thing though is there’s a bit where TSMC breeding multiple suppliers in different areas, in some respects it’s a diffusion of the technology that maybe makes it harder to control or that also speaks to the possibility of Chinese companies learning how to do these different steps. What’s your overall view of China’s prospects in coming up in semiconductors broadly?</strong></p>
+  <p><strong>JY:</strong> I think the core concept is that the core concept is not secret. So the product and what the machine and the equipment will do, most people will already know. There’s <a href="https://youtube.com/playlist?list=PLKtxx9TnH76RYHY7L1YzEHEQJJ01GF-VF&amp;si=q-DvOovEzW4RAxM_">so much documentation on EUV</a>, how it works, how the layers are built on the mirrors, all that is already known. The secret is how to turn that into a commercial venture and how to turn that into a profitable commercial venture. TSMC can guarantee a second source, a potential second source because they say, “We’ll buy that from you, if that passes our test, we’ll buy that from you and we’ll pay money for it”.</p>
+  <p>So I think in the case of China’s, they’ll probably know how to do this stuff and I’ve read their textbooks and they seem to know it pretty well. So I think the secret more is, can they move that from an academic sense to an actual doing it sense? That is much more challenging because that requires volume, that requires manufacturing, that requires wafers, and also lots of capital risk on behalf of the buyer.</p>
+  <p>So I get this question a lot in terms of what China can rise up for. I think nothing’s impossible, it’s made by man, it can be done. It’s required to be done economically, exportably, to be in a way to export, that’s much more challenging and I think right now the wafer volumes aren’t there yet.</p>
+  <p><strong>Where can China realistically get to? I guess there’s two questions. Number one is if they have access to western equipment, SMIC can make a 7 nanometer chip. They might not be able to make it profitably or with high yields, but they can make it versus the, “We don’t have access to equipment anymore, we have to actually make the equipment itself”. What are the barriers there? What’s the hardest part to catch up with? Or is it actually, we’re missing the whole point because it’s actually the chemicals and the materials engineering?</strong></p>
+  <p><strong>JY:</strong> The chemicals, I think they’re so far behind, I can’t even imagine anyone catching up to Japan in terms of chemicals.</p>
+  <p>It really is interesting to me is the role that the equipment makers play in building the process node. A guy at TSMC’s lithography bay, even the manager, even a higher level manager, has no idea how the machine works. Conceptually, they don’t know how to use it necessarily, they rely on to be told by other people within the ecosystem, the equipment manufacturer or their R&amp;D guy to say how to use this machine.</p>
+  <p>So surprisingly little fundamental core knowledge of that is within the industry. So cutting that off to some extent will be immensely damaging because you can’t just say, “We’re going to just rebuild this node with a different machine”, that basically, that introduces so much new uncertainty into the flow that makes even me anxious. So it’s pretty crazy.</p>
+  <p><strong>So do you think that, I don’t want to put you on the spot, but broadly from a timeframe perspective, if China did get Western equipment, is it maybe a bit longer to catch up than people might think?</strong></p>
+  <p><strong>JY:</strong> It probably will. <a href="https://www.youtube.com/watch?v=cxrkC-pMH_s">I’ve done videos</a> on how the Soviets and the East Germans managed to procure special banned equipment over the years. They’re pretty good at it. So it’s like I would not be surprised to see these things starting to pop up and I would not be super surprised to see a gap to be like three years and that three years will be gone before you know it, right? Three to five years gone before you know it. You will never know. You’ll say, “Oh my gosh, they caught up so fast”. Well, from the beginning you already said it was going to be three to five years and now it’s three to five years.</p>
+  <p><strong>So <a href="https://stratechery.com/2024/intels-death-and-potential-revival/">where is Intel</a> in all this? We touched on that a little bit, where they went wrong. They got stuck at the 14 to 10 nanometer transition, EUV wasn’t ready at the beginning. Then had to rework it, the ways they tried to leap ahead didn’t work. Can they catch up? Are you feeling good about 18A, can they actually leap ahead as you talked about?</strong></p>
+  <p><strong>JY:</strong> I’m not going to answer that, I feel 18A looks good on a conceptual level, but Intel has always been really good at introducing concepts to the industry that no one will pick up. So it’s very, they don’t know how to do Foundry, that is for sure.</p>
+  <p><strong>What’s the bigger failing here because when it comes to Foundry? We just talked about two sides, there’s the customer service side, which they’re not great at, but there’s also the integration bit. Is there a bit where they’re actually, they’re not sufficiently used to leveraging and leaning on and depending on suppliers to the extent that TSMC was because they wanted to do it all themself and know it all themself? Or am I overrating that?</strong></p>
+  <p><strong>JY:</strong> There is an arrogance I think on the case of Intel at least for last couple years, up to a certain couple of years. How is it now? Who knows? I mean, a lot of people say Pat Gelsinger changed the culture, did they change that part of the culture? I don’t know, but I think the main issue is that like Morris Chang said it best, “TSMC has learned to dance with 400 different partners, Intel has only danced alone”.</p>
+  <p>So I struggle to really understand how you can really re-engineer an entire company to become so vertically focused and so focused on this one thing to becoming so broad and ecosystem oriented. It’s very strange. I am not going to say they can’t do it because the Intel bulls will come after me, but I think it’s going to be interesting ride.</p>
+  <p><strong>I really actually think this has been a very illuminating, I think to your point. There is this bit about this integration background, and to your point when you’re describing this TSMC process about TSMC, not even people at TSMC knowing how particular steps work, but bringing in and depending on other entities to do that and you can see why they did that before when they were behind because that was the way to catch up and it turned out in the long run that ended up to be the way to get ahead as well. That’s a cultural learning for TSMC that’s been embedded for 40 years and it’s just totally the opposite way that Intel has always sort of operated.</strong></p>
+  <p><strong>JY:</strong> It definitely is, and I think it’s like what they’ll do is that they’re so perceptive on pushing problems up to back to the company. I think I recall that one of the bigger breakthroughs within EUV was discovered, on how to keep the container lenses clean was discovered not within the R&amp;D section, but basically by accident and it’s circulated from there. So it’s like these bringing in the equipment vendors, bringing in your ecosystem partners to work with them and help develop your process node is such a clear, it’s so important and that’s very difficult for a lot of different companies and it takes humility with a dose of you have to be humble and confident at the same time and that’s very challenging.</p>
+  <p><strong>Do you think TSMC — or is this going to fall on the equipment vendors and the chemical manufacturers — can push innovation in the long run? Because I think the flip side of the Intel arrogance is a lot of that arrogance was well-earned. Like we mentioned FinFET before, a tremendous breakthrough. You’re basically making these transistors 3D and Intel pushed that forward. Intel birthed the idea of EUV way back when and ASML brought it to market. But can TSMC in the long run push us through similar barriers or does this approach only work as fast following to a certain extent?</strong></p>
+  <p><strong>JY:</strong> Yeah, I think that’s one of the big questions, even the people within TSMC are aware of this. There’s a need for crazy left field thinking that Intel brought to the table, very ambitious, like moonshot thinking that Intel really did bring to the table. Everyone wants to see Intel succeed and become a viable second option. I think the question is can they do it? I don’t know. But the ideas I think for that they brought were always illuminating and always pushed the industry forward and I don’t think TSMC has the culture for that.</p>
+  <p><strong>Is there a bit, we’re a little too hard on Intel where they just kept making these huge leaps and one of the leaps, they didn’t cross the chasm, they fell down and maybe we should have a little more grace for the fact that they ran into a wall because at least they were trying to jump over it, as it were?</strong></p>
+  <p><strong>JY:</strong> Yeah, there’s one half of that I agree, but then there’s other half is that there were also, we should never forget that they were a monopolist, an arrogant monopolist that tried to kill competitors and did anti-competitive pricing things against AMD. We should never forget that part that they were also trying to evade other markets and they victimized Compaq and all these other companies, so let’s not forget that part too.</p>
+  <p><strong>I have a somewhat related question, but what is Japan doing <a href="https://stratechery.com/2024/rapidus-the-end-of-economic-rationality-ai-disruption/">with Rapidus</a>? Do they have any chance to build this other alternative supplier? They’re trying to build a two nanometer process in Hokkaido? Any takes on that?</strong></p>
+  <p><strong>JY:</strong> Dylan and I like to say, basically we have a group chat and where all of us together and we like to call Rapidus, the maker of fine artisanal wafers. We’re going to make these beautiful artisanal wafers like Samurai swords and each one’s going to be absolutely perfect and I have full confidence that Japan can make an absolutely perfect N2 wafer, like 10, but then it’s like can they make 10,000? That’s a bigger question. I don’t know if they’re there yet, but they’re going to spend a lot of money on it. I think they’re going to try, we’re going to see. They’ll have customers, but I don’t think they’re not going to be ultra successful. It’s not exactly SMIC.</p>
+  <p><strong>Are these TSMC fabs in America a viable second source or is it one of those things where, “Once TSMC Taiwan goes down, these fabs are not worth nearly as much”?</strong></p>
+  <p><strong>JY:</strong> I’m sure they’ll have value. There’s <a href="https://www.nytimes.com/2024/12/29/business/tsmc-phoenix-taiwan.html">so many Taiwanese over there working on it</a>, I’m sure they have some value, I hope so. But you could argue there is a very viable argument to say that without the R&amp;D flowing from Hsinchu, the fab won’t be commercially viable within two years. But then, in such a scenario where you’re saying what you’re saying is happening, then I think there’s very different things going on and all the assumptions should be reconsidered.</p>
+  <p><strong>Then there will be much bigger problems you have to think about. What makes memory different from logic? Why isn’t TSMC just manufacturing all the memory? Why is that SK Hynix or Samsung or Micron? What is different about that process versus making logic chips?</strong></p>
+  <p><strong>JY:</strong> <a href="https://youtu.be/uPualBNf1nM">Memory is a lot more repetitive</a> and there’s a lot more emphasis on materials, there’s a lot more emphasis on processes than necessarily innovation. Taiwan tried to build a memory industry, a DRAM industry and ITRI [Industrial Technology Research Institute] couldn’t make it happen. The failure of ITRI post-TSMC is actually something to be talked about someday, but it’s like they tried to get all these small memory makers to come work together to challenge Samsung and it was a massive failure. Memory is so much more economies of scale oriented and Samsung has Samsung money, so they really carved the market there.</p>
+  <p><strong>Samsung just famously, every time there was a down market, which happens with memory because it’s more of a commodity, they would just invest through it. And so, every time the market came back they’d have a larger and larger share. Is logic at that point? I think one of the most interesting parts of TSMC history was 2008 when the great financial crisis hit, TSMC management wants to pull back and Morris Chang comes back to the company and he’s like, “No. Did you see what Apple just introduced? We’re actually doubling down”, that was a bit where they invested through a downturn and really emerged on top. Was that a transformation where logic was more a specialty thing that’s why Intel moved to logic, they abandoned memory, and now it became more of a commodity and that was also it became more memory-like than it used to be or does that not make sense?</strong></p>
+  <p><strong>JY:</strong> It’s interesting, this funny thing about that. Morris Chang saw the opportunity from the iPhone, he also didn’t think the iPhone itself would be successful. He was one of those guys like Steve Ballmer, this is what I’ve heard, he was one of those guys that <a href="https://www.youtube.com/watch?v=eywi0h_Y5_U">Steve Ballmer were being like</a>, “This is the $600 phone, no one will buy it”.</p>
+  <p>I’m amenable to the belief that logic will always have value at some point, there’ll always be differentiation. So you could say maybe you could make an argument that TSMC thought N2 wouldn’t be a valuable node, that’s why they built a smaller fab for it, but then suddenly AI became a thing and now they’re pivoting on that as fast as we can possibly see. So it’s really fascinating, I don’t buy the fact that logic will become like memory.</p>
+  <p><strong>But the volumes are becoming almost more memory-like particularly in some regards.</strong></p>
+  <p><strong>JY:</strong> In some regards, yeah, maybe because memory is becoming more like logic in some ways.</p>
+  <p><strong>That’s interesting. How so? Use it like the high bandwidth memory and things like that?</strong></p>
+  <p><strong>JY:</strong> Yeah. They’ll have elements of logic where you need to manage the flow of data and stuff like that, and they’re very complicated too, they’re very complicated stacks and there’s a lot of crossover now, tt’s very fascinating.</p>
+  <p><a id="cars"></a></p>
+  <h4 class="wp-block-heading" id="consumer-electronic-cars">Consumer Electronic Cars</h4>
+  <p><strong>Well, we’ve dived super deep into the old Jon Y catalog. You’ve been doing a lot recently about cars and electric cars. Is this just a, “They’re computers on wheels”, is that the framing or what do you find interesting about this space and that is piquing your interest?</strong></p>
+  <p><strong>JY:</strong> A couple years ago, I think I was, someone who visited from China told me that <a href="https://www.youtube.com/watch?v=04rvKCoZWLM">these cars are coming</a> and these cars are — when Xiaomi started making cars themselves, I was like, they’re trying to make cars more like consumer electronics. They’re trying to make it like drones or Bluetooth stereos and I think that’s something I wanted to call out and I tried to call out as soon as I can, and I’ve been really interested, I was like I’ll pull it on the side because it’s a technology that integrates all these different things together and you could argue that turning it into a consumable is kind of anathema to what the United States has really seen what cars would be, and can be, and I think that’s something that’s very fascinating. That’s a very Asia-focused car philosophy in my opinion and these cars are coming. I mean, everyone keeps saying it, everyone keeps talking about it, and I feel like there’s not enough movement from domestic old legacy car makers to change and it makes me sad.</p>
+  <p><strong>And this is thinking about cars as almost more like the OEM model like consumer electronics, “We’re going to just build out a standard platform”, whatever differentiation there is can come from software and that’s how you have a Xiaomi car, right?</strong></p>
+  <p><strong>JY:</strong> Yeah. Have you tried one of the <a href="https://en.wikipedia.org/wiki/Luxgen_n7">Luxgen n7 cars</a>? I rode in one recently.</p>
+  <p><strong>I’ve been in some of the Luxgen vans, but I haven’t actually driven any of them.</strong></p>
+  <p><strong>JY:</strong> The new n7 is built on their Foxconn platform or whatever, and it’s like an amazing car. When I rode that and it’s like $30,000, it’s a very good car. It’s $30,000 and I rode that car, I’m like, “This is not a Chinese car”, Chinese didn’t make this — Taiwanese Foxconn made it. They’re new to the cars, this is a really good car and I’m just like, I mean you would think that the Chinese know something special, but I would argue that it’s the concept of the car as this electronics thing is that’s the true differentiator. And if so, it would require so much more work, I would think, on the behalf of the product makers to make a better car here, a competitive EV.</p>
+  <p><strong>It’s almost what they don’t know and it’s precisely because the traditional automakers, because making an engine was really hard, and so it’s very difficult to accept the idea that your highly differentiated expertise and what you’re good at is actually now an obstacle to success because of the cost that goes into it and the wear and tear inherent to that. And actually no, the solution is to make it as simple as possible and then consumers just want cool software, that can be enough.</strong></p>
+  <p><strong>JY:</strong> And that makes me sad that in some ways that <a href="https://www.bloomberg.com/news/features/2024-03-06/apple-car-s-crash-design-details-tim-cook-s-indecision-failed-tesla-deal">Apple left the car industry</a>, it would’ve been really fascinating to see.</p>
+  <p><strong>I think the Foxconn connection there was clear. It’s like, yeah, you build us the standard platform, we will do our software on top. I agree, it’s almost like the TV thing, they were rumored to do a TV for years and years, 10, 15 years ago is always the talk and you wonder maybe they should have done that because what platform does that give you to do other stuff in the future? You have to run the same thing about a car. Even if it was started out not being fully self-driving, that gets you down the road to eventually do that.</strong></p>
+  <p><strong>JY:</strong> Yeah, I mean, maybe that’s one of the downsides of the Tim Cook era, they did good on extending the life of their single core product, but I don’t know, they didn’t have the, I felt like maybe they fell short going as crazy as doing some crazy stuff. I think [John] Gruber mentioned that before — one of the losses of Jobs is that they didn’t do weird stuff enough.</p>
+  <p><strong>Yeah, weird stuff is valuable.</strong></p>
+  <p><strong>All right, well if anyone wanted to jump into the Jon Y library, the semiconductor stuff’s amazing. We’re going to have a ton of links to it, you’re doing more on cars. Are there any other pet topics that just stick out to you? This is some of my favorite stuff to do. You mentioned actually the Soviet economic issues. Those were some really interesting videos, what else is in the must-see list?</strong></p>
+  <p><strong>JY:</strong> I have an <a href="https://youtube.com/playlist?list=PLKtxx9TnH76RxFCmduUSuZdCou-HKoiqS&amp;si=A00ZWiCVFhWCBvN-">extended series on water desalination technologies</a> and that turned out to be looking at the water desalination progression from the economics of desalinating water at a scale to feed a country is fascinating and I think people should learn that.</p>
+  <p>One of my favorite videos in recent days was looking at the <a href="https://www.youtube.com/watch?v=Dd9q30yjEqc">Saudi and Middle Eastern water supply</a> technologies to desalinate water at millions and millions of gallons of scale and looking at a lot of that is basically filled by cheap energy and it’s probably not economical, and I think it was fun. I think water is something that a lot of people need to pay attention to and where your water comes from and how it’s being made. And I have what, 12 videos on it, it’s really fun.</p>
+  <p><strong>Well, I mean, what I think is clear in this conversation, and I think everyone should pay attention to, is if you want to understand how something works and you want it in a 20, 25-minute or an adjustable video, Jon is your resource. I’ve learned a ton from you, I started out asking you questions that I already knew the answer to, but I knew the answer because I watched your videos. So everyone should follow, you can now get access. You can listen via podcast, you can actually read the transcripts, but the YouTube videos are the bread and butter, everyone should go and subscribe. Jon, it’s great to have you on board. You’ve done a great job with Stratechery videos and I’m super excited to be working together going forward.</strong></p>
+  <p><strong>JY:</strong> Thank you. I’m really excited to be working with you and it’s going to be fun. It’s going to be a great 2025 and beyond.</p>
+  <hr class="wp-block-separator has-alpha-channel-opacity" />
+  <p>This Daily Update Interview is also available as a podcast. To receive it in your podcast player, <a href="https://stratechery.passport.online/member">visit Stratechery</a>.</p>
+  <p>The Daily Update is intended for a single recipient, but occasional forwarding is totally fine! If you would like to order multiple subscriptions for your team with a group discount (minimum 5), please contact me directly.</p>
+  <p>Thanks for being a supporter, and have a great day!</p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2025-01-22</time>
+        <a href="https://nodebe4.github.io/opinion/2025-01-22/Stargate,-The-End-of-Microsoft-and-OpenAI/">
+          Stargate, The End of Microsoft and OpenAI
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2025-01-21</time>
+        <a href="https://nodebe4.github.io/opinion/2025-01-21/Stratechery-Updates,-DeepSeek-R1,-DeepSeek-Implica/">
+          Stratechery Updates, DeepSeek-R1, DeepSeek Implications
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2025-01-20</time>
+        <a href="https://nodebe4.github.io/opinion/2025-01-20/Stratechery-Plus-+-Asianometry/">
+          Stratechery Plus + Asianometry
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2025-01-17</time>
+        <a href="https://nodebe4.github.io/opinion/2025-01-17/No-Update-Delayed-Interview/">
+          No Update: Delayed Interview
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2025-01-20/Stratechery-Plus-+-Asianometry/">
+            前一篇：Stratechery Plus + Asianometry
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2025-01-20/%E7%A6%81%E5%BF%8C%E5%8F%B2%E8%A9%B1-%E6%9D%8E%E9%8A%B3%E6%97%A5%E8%A8%98%E7%A7%98%E5%AF%8666-%E6%AF%9B%E7%9A%84%E7%A7%98%E6%9B%B8%E5%B9%AB-%E5%BC%B5%E7%8E%89%E9%B3%B3-%E6%AF%9B%E6%BE%A4%E6%9D%B1%E6%9C%80%E5%BE%8C%E7%9A%84%E5%A5%B3%E4%BA%BA/">
+            後一篇：禁忌史話：李銳日記秘密66｜「毛的秘書幫」張玉鳳：毛澤東最後的女人
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2025-01-20/Stratechery-Plus-+-Asianometry/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2025-01-20/%E7%A6%81%E5%BF%8C%E5%8F%B2%E8%A9%B1-%E6%9D%8E%E9%8A%B3%E6%97%A5%E8%A8%98%E7%A7%98%E5%AF%8666-%E6%AF%9B%E7%9A%84%E7%A7%98%E6%9B%B8%E5%B9%AB-%E5%BC%B5%E7%8E%89%E9%B3%B3-%E6%AF%9B%E6%BE%A4%E6%9D%B1%E6%9C%80%E5%BE%8C%E7%9A%84%E5%A5%B3%E4%BA%BA/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2025-01-21/Stratechery-Updates,-DeepSeek-R1,-DeepSeek-Implica/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2025-01-20/Stratechery-Plus-+-Asianometry/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2025-01-20/Stratechery-Plus-+-Asianometry/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2025-01-20/%E7%A6%81%E5%BF%8C%E5%8F%B2%E8%A9%B1-%E6%9D%8E%E9%8A%B3%E6%97%A5%E8%A8%98%E7%A7%98%E5%AF%8666-%E6%AF%9B%E7%9A%84%E7%A7%98%E6%9B%B8%E5%B9%AB-%E5%BC%B5%E7%8E%89%E9%B3%B3-%E6%AF%9B%E6%BE%A4%E6%9D%B1%E6%9C%80%E5%BE%8C%E7%9A%84%E5%A5%B3%E4%BA%BA/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2025-01-21/Stratechery-Updates,-DeepSeek-R1,-DeepSeek-Implica/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2025-01-20/Stratechery-Plus-+-Asianometry/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

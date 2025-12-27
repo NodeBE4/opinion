@@ -1,0 +1,2291 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>theoryofdoom在2022-05-23~2022-05-29的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="theoryofdoom在2022-05-23~2022-05-29的言论" />
+    <meta property="twitter:title" content="theoryofdoom在2022-05-23~2022-05-29的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FCoronavirusIllinois%2Fcomments%2Fuvzzpm%2Fa_series_of_covid19_cases_with_findings_in_the%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/CoronavirusIllinois/comments/uvzzpm/a_series_of_covid19_cases_with_findings_in_the/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/CoronavirusIllinois/comments/uvzzpm/a_series_of_covid19_cases_with_findings_in_the/&text=theoryofdoom在2022-05-23~2022-05-29的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/CoronavirusIllinois/comments/uvzzpm/a_series_of_covid19_cases_with_findings_in_the/&title=theoryofdoom在2022-05-23~2022-05-29的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/CoronavirusIllinois/comments/uvzzpm/a_series_of_covid19_cases_with_findings_in_the/&title=theoryofdoom在2022-05-23~2022-05-29的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=theoryofdoom在2022-05-23~2022-05-29的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/CoronavirusIllinois/comments/uvzzpm/a_series_of_covid19_cases_with_findings_in_the/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/CoronavirusIllinois/comments/uvzzpm/a_series_of_covid19_cases_with_findings_in_the/&title=theoryofdoom在2022-05-23~2022-05-29的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=theoryofdoom在2022-05-23~2022-05-29的言论&url=https://old.reddit.com/r/CoronavirusIllinois/comments/uvzzpm/a_series_of_covid19_cases_with_findings_in_the/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>theoryofdoom在2022-05-23~2022-05-29的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-05-28
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: theoryofdoom</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/uvzzpm/a_series_of_covid19_cases_with_findings_in_the/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#265-a-series-of-covid-19-cases-with-findings-in-the-gastrointestinal-and-hepatobiliary-system-submitted-on-2022-05-23-2117020800" id="markdown-toc-265-a-series-of-covid-19-cases-with-findings-in-the-gastrointestinal-and-hepatobiliary-system-submitted-on-2022-05-23-2117020800">265: A Series of COVID-19 Cases With Findings in the Gastrointestinal and Hepatobiliary System, submitted on 2022-05-23 21:17:02+08:00.</a></li>
+  <li><a href="#266-is-pandemic-over-one-third-in-us-survey-say-yes-submitted-on-2022-05-24-0632480800" id="markdown-toc-266-is-pandemic-over-one-third-in-us-survey-say-yes-submitted-on-2022-05-24-0632480800">266: Is pandemic over? One-third in US survey say yes, submitted on 2022-05-24 06:32:48+08:00.</a></li>
+  <li><a href="#267-unofficial-daily-update-for-2022-05-24-3988-new-cases-submitted-on-2022-05-25-0200210800" id="markdown-toc-267-unofficial-daily-update-for-2022-05-24-3988-new-cases-submitted-on-2022-05-25-0200210800">267: Unofficial Daily Update for 2022-05-24. 3988 New Cases., submitted on 2022-05-25 02:00:21+08:00.</a></li>
+  <li><a href="#268-on-twitter-leftists-are-calling-for-the-recent-shooter-to-have-his-pictures-taken-down-saying-things-such-as--dont-make-shooters-famous-is-it-because-hes-not-white-nor-a-conservative-submitted-on-2022-05-25-0647070800" id="markdown-toc-268-on-twitter-leftists-are-calling-for-the-recent-shooter-to-have-his-pictures-taken-down-saying-things-such-as--dont-make-shooters-famous-is-it-because-hes-not-white-nor-a-conservative-submitted-on-2022-05-25-0647070800">268: On Twitter, leftists are calling for the recent shooter to have his pictures taken down. Saying things such as “ don’t make shooters famous!” Is it because he’s not white nor a conservative?, submitted on 2022-05-25 06:47:07+08:00.</a></li>
+  <li><a href="#269-books-to-restore-my-faith-in-humanity-submitted-on-2022-05-25-0800230800" id="markdown-toc-269-books-to-restore-my-faith-in-humanity-submitted-on-2022-05-25-0800230800">269: Books to restore my faith in humanity, submitted on 2022-05-25 08:00:23+08:00.</a></li>
+  <li><a href="#270-flight-to-florida-is-still-accelerating-despite-ny-covid-19-reopening-push-submitted-on-2022-05-25-0847000800" id="markdown-toc-270-flight-to-florida-is-still-accelerating-despite-ny-covid-19-reopening-push-submitted-on-2022-05-25-0847000800">270: Flight to Florida is still accelerating despite NY COVID-19 reopening push, submitted on 2022-05-25 08:47:00+08:00.</a></li>
+  <li><a href="#271-im-ashamed-to-admit-its-been-nearly-a-decade-since-ive-read-a-book-for-pleasure-ill-read-the-book-in-the-comment-with-the-most-upvotes-after-1-week-submitted-on-2022-05-25-1112170800" id="markdown-toc-271-im-ashamed-to-admit-its-been-nearly-a-decade-since-ive-read-a-book-for-pleasure-ill-read-the-book-in-the-comment-with-the-most-upvotes-after-1-week-submitted-on-2022-05-25-1112170800">271: I’m ashamed to admit it’s been nearly a decade since I’ve read a book for pleasure. I’ll read the book in the comment with the most upvotes after 1 week., submitted on 2022-05-25 11:12:17+08:00.</a></li>
+  <li><a href="#272-china-follows-biden-remarks-by-announcing-taiwan-military-drills-submitted-on-2022-05-25-1956490800" id="markdown-toc-272-china-follows-biden-remarks-by-announcing-taiwan-military-drills-submitted-on-2022-05-25-1956490800">272: China Follows Biden Remarks by Announcing Taiwan Military Drills, submitted on 2022-05-25 19:56:49+08:00.</a></li>
+  <li><a href="#273-unofficial-daily-update-for-2022-05-25-6406-new-cases-submitted-on-2022-05-26-0200180800" id="markdown-toc-273-unofficial-daily-update-for-2022-05-25-6406-new-cases-submitted-on-2022-05-26-0200180800">273: Unofficial Daily Update for 2022-05-25. 6406 New Cases., submitted on 2022-05-26 02:00:18+08:00.</a></li>
+  <li><a href="#274-how-do-you-feel-about-beto-orourke-interrupting-the-town-hall-meeting-to-speak-submitted-on-2022-05-26-0858250800" id="markdown-toc-274-how-do-you-feel-about-beto-orourke-interrupting-the-town-hall-meeting-to-speak-submitted-on-2022-05-26-0858250800">274: How do you feel about Beto O’Rourke interrupting the town hall meeting to speak?, submitted on 2022-05-26 08:58:25+08:00.</a></li>
+  <li><a href="#275-unofficial-daily-update-for-2022-05-26-6358-new-cases-submitted-on-2022-05-27-0200180800" id="markdown-toc-275-unofficial-daily-update-for-2022-05-26-6358-new-cases-submitted-on-2022-05-27-0200180800">275: Unofficial Daily Update for 2022-05-26. 6358 New Cases., submitted on 2022-05-27 02:00:18+08:00.</a></li>
+  <li><a href="#276-what-is-the-most-embarrassing-thing-youve-ever-witnessed-submitted-on-2022-05-27-0451160800" id="markdown-toc-276-what-is-the-most-embarrassing-thing-youve-ever-witnessed-submitted-on-2022-05-27-0451160800">276: What is the most embarrassing thing you’ve ever witnessed?, submitted on 2022-05-27 04:51:16+08:00.</a></li>
+  <li><a href="#277-chicago-covid-update-city-now-in-cdcs-high-risk-level-along-with-several-local-counties-submitted-on-2022-05-27-0946410800" id="markdown-toc-277-chicago-covid-update-city-now-in-cdcs-high-risk-level-along-with-several-local-counties-submitted-on-2022-05-27-0946410800">277: Chicago COVID update: City now in CDC’s high risk level along with several local counties, submitted on 2022-05-27 09:46:41+08:00.</a></li>
+  <li><a href="#278-how-do-i-get-rid-of-the-destructive-mindset-that-applied-and-statistics-are-lesser-than-pure-math-submitted-on-2022-05-27-1023470800" id="markdown-toc-278-how-do-i-get-rid-of-the-destructive-mindset-that-applied-and-statistics-are-lesser-than-pure-math-submitted-on-2022-05-27-1023470800">278: How do I get rid of the destructive mindset that Applied and Statistics are “lesser” than Pure Math, submitted on 2022-05-27 10:23:47+08:00.</a></li>
+  <li><a href="#279-as-russian-forces-retreated-mock-executions-and-beatings-increased-in-ukraine-submitted-on-2022-05-27-2018320800" id="markdown-toc-279-as-russian-forces-retreated-mock-executions-and-beatings-increased-in-ukraine-submitted-on-2022-05-27-2018320800">279: As Russian Forces Retreated, Mock Executions and Beatings Increased in Ukraine, submitted on 2022-05-27 20:18:32+08:00.</a></li>
+  <li><a href="#280-user-blocked-modteam-their-content-in-our-sub-does-not-show-up-on-their-profile-when-we-view-submitted-on-2022-05-28-2132010800" id="markdown-toc-280-user-blocked-modteam-their-content-in-our-sub-does-not-show-up-on-their-profile-when-we-view-submitted-on-2022-05-28-2132010800">280: User blocked modteam, their content in our sub does not show up on their profile when we view, submitted on 2022-05-28 21:32:01+08:00.</a></li>
+</ul>
+
+<h3 id="265-a-series-of-covid-19-cases-with-findings-in-the-gastrointestinal-and-hepatobiliary-system-submitted-on-2022-05-23-2117020800">265: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/uvzzpm/a_series_of_covid19_cases_with_findings_in_the/">A Series of COVID-19 Cases With Findings in the Gastrointestinal and Hepatobiliary System</a>, submitted on 2022-05-23 21:17:02+08:00.</h3>
+
+<p>—– <strong>265.1</strong> —–2022-05-24 12:13:46+08:00:</p>
+
+<p>Removed.  Misleading.</p>
+
+<h3 id="266-is-pandemic-over-one-third-in-us-survey-say-yes-submitted-on-2022-05-24-0632480800">266: <a href="https://old.reddit.com/r/LockdownSkepticism/comments/uwc8lp/is_pandemic_over_onethird_in_us_survey_say_yes/">Is pandemic over? One-third in US survey say yes</a>, submitted on 2022-05-24 06:32:48+08:00.</h3>
+
+<p>—– <strong>266.1</strong> —–2022-05-24 12:46:20+08:00:</p>
+
+<p>There are still numerous subreddits that run bots, to discover activity in places like this.</p>
+
+<p>—– <strong>266.2</strong> —–2022-05-24 19:32:13+08:00:</p>
+
+<p>How?</p>
+
+<h3 id="267-unofficial-daily-update-for-2022-05-24-3988-new-cases-submitted-on-2022-05-25-0200210800">267: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/uwwvjd/unofficial_daily_update_for_20220524_3988_new/">Unofficial Daily Update for 2022-05-24. 3988 New Cases.</a>, submitted on 2022-05-25 02:00:21+08:00.</h3>
+
+<p>—– <strong>267.1</strong> —–2022-05-25 13:02:53+08:00:</p>
+
+<p>We’ll see the ebb and flow for the foreseeable future.  For all intents and purposes, the pandemic is over.</p>
+
+<h3 id="268-on-twitter-leftists-are-calling-for-the-recent-shooter-to-have-his-pictures-taken-down-saying-things-such-as--dont-make-shooters-famous-is-it-because-hes-not-white-nor-a-conservative-submitted-on-2022-05-25-0647070800">268: <a href="https://old.reddit.com/r/libsofreddit/comments/ux379g/on_twitter_leftists_are_calling_for_the_recent/">On Twitter, leftists are calling for the recent shooter to have his pictures taken down. Saying things such as “ don’t make shooters famous!” Is it because he’s not white nor a conservative?</a>, submitted on 2022-05-25 06:47:07+08:00.</h3>
+
+<p>—– <strong>268.1</strong> —–2022-05-25 13:01:28+08:00:</p>
+
+<p>I’m pretty sure the Columbine shooters weren’t “conservatives” either.  But it is hard to wrap my head around how anyone can be thinking about race.  Politicizing these incidents is a cultural and moral sickness, the cure for which is neither legislative nor technological.</p>
+
+<h3 id="269-books-to-restore-my-faith-in-humanity-submitted-on-2022-05-25-0800230800">269: <a href="https://old.reddit.com/r/suggestmeabook/comments/ux4lr9/books_to_restore_my_faith_in_humanity/">Books to restore my faith in humanity</a>, submitted on 2022-05-25 08:00:23+08:00.</h3>
+
+<p>—– <strong>269.1</strong> —–2022-05-25 19:41:49+08:00:</p>
+
+<p>The Brother’s Karamazov, by Fyodor Dostoevsky.</p>
+
+<p>People are not inherently good, but most have at least some redeeming qualities.  What matters is how people choose to live their lives.</p>
+
+<h3 id="270-flight-to-florida-is-still-accelerating-despite-ny-covid-19-reopening-push-submitted-on-2022-05-25-0847000800">270: <a href="https://old.reddit.com/r/LockdownSkepticism/comments/ux5ghw/flight_to_florida_is_still_accelerating_despite/">Flight to Florida is still accelerating despite NY COVID-19 reopening push</a>, submitted on 2022-05-25 08:47:00+08:00.</h3>
+
+<p>—– <strong>270.1</strong> —–2022-05-25 19:32:19+08:00:</p>
+
+<p>Left-wing governors coordinated their policies so people wouldn’t flee to adjacent states.  It turns out that when you destroy your state’s economy based on pseudoscience, people leave.  And they don’t come back.</p>
+
+<p>Which is to say nothing of how insane the democratic party has become on social issues.</p>
+
+<h3 id="271-im-ashamed-to-admit-its-been-nearly-a-decade-since-ive-read-a-book-for-pleasure-ill-read-the-book-in-the-comment-with-the-most-upvotes-after-1-week-submitted-on-2022-05-25-1112170800">271: <a href="https://old.reddit.com/r/suggestmeabook/comments/ux82u8/im_ashamed_to_admit_its_been_nearly_a_decade/">I’m ashamed to admit it’s been nearly a decade since I’ve read a book for pleasure. I’ll read the book in the comment with the most upvotes after 1 week.</a>, submitted on 2022-05-25 11:12:17+08:00.</h3>
+
+<p>—– <strong>271.1</strong> —–2022-05-25 19:37:10+08:00:</p>
+
+<blockquote>
+  <p>You must be joking. This isn’t even a top 10 must read unless you’re in high school and only read the requirements.</p>
+</blockquote>
+
+<p>Explain your thought process here.</p>
+
+<p>—– <strong>271.2</strong> —–2022-05-25 19:38:06+08:00:</p>
+
+<p>by David Mitchell</p>
+
+<h3 id="272-china-follows-biden-remarks-by-announcing-taiwan-military-drills-submitted-on-2022-05-25-1956490800">272: <a href="https://old.reddit.com/r/geopolitics/comments/uxfpht/china_follows_biden_remarks_by_announcing_taiwan/">China Follows Biden Remarks by Announcing Taiwan Military Drills</a>, submitted on 2022-05-25 19:56:49+08:00.</h3>
+
+<p>—– <strong>272.1</strong> —–2022-05-25 20:05:12+08:00:</p>
+
+<p>Submission Statement: Taiwan continues to be a fractious issue, in Sino-American bilateral relations.  Biden indicated in Tokyo that the United States would defend Taiwan militarily, in the event of any Chinese attack.  According to Wang Wenbin (Chinese foreign ministry spokesman), doing so would “incur irreparable consequences and unbearable cost.”  Further threats were issued by Chinese diplomats.  For example, according to Yang Jiechi (Chinese diplomat), if the United States “goes further and further down the wrong road, it will certainly lead to a dangerous situation.”</p>
+
+<p>—– <strong>272.2</strong> —–2022-05-25 20:09:32+08:00:</p>
+
+<p>That’s a surprisingly useful video.  It gets a few things wrong, but explains in an easy to understand format that is widely accessible to most.</p>
+
+<h3 id="273-unofficial-daily-update-for-2022-05-25-6406-new-cases-submitted-on-2022-05-26-0200180800">273: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/uxn572/unofficial_daily_update_for_20220525_6406_new/">Unofficial Daily Update for 2022-05-25. 6406 New Cases.</a>, submitted on 2022-05-26 02:00:18+08:00.</h3>
+
+<p>—– <strong>273.1</strong> —–2022-05-26 12:32:58+08:00:</p>
+
+<blockquote>
+  <p>Ok who’s gonna make the monkeypox tracker bot?</p>
+</blockquote>
+
+<p>There won’t be a need.</p>
+
+<h3 id="274-how-do-you-feel-about-beto-orourke-interrupting-the-town-hall-meeting-to-speak-submitted-on-2022-05-26-0858250800">274: <a href="https://old.reddit.com/r/AskReddit/comments/uxvrfa/how_do_you_feel_about_beto_orourke_interrupting/">How do you feel about Beto O’Rourke interrupting the town hall meeting to speak?</a>, submitted on 2022-05-26 08:58:25+08:00.</h3>
+
+<p>—– <strong>274.1</strong> —–2022-05-26 13:46:35+08:00:</p>
+
+<p>I think O’Rourke is talking at cross purposes.  On the one hand, results he is hoping for.  On the other, processes to be set in motion.  They are not even close to the same thing.</p>
+
+<p>https://youtu.be/26QxO49Ycx0</p>
+
+<h3 id="275-unofficial-daily-update-for-2022-05-26-6358-new-cases-submitted-on-2022-05-27-0200180800">275: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/uydhd4/unofficial_daily_update_for_20220526_6358_new/">Unofficial Daily Update for 2022-05-26. 6358 New Cases.</a>, submitted on 2022-05-27 02:00:18+08:00.</h3>
+
+<p>—– <strong>275.1</strong> —–2022-05-27 20:16:01+08:00:</p>
+
+<p>The time may still come that you do, but susceptibility to infection was never thought to be universal.  Even the most ambitious estimates topped out at around 85% on the high end of the most vulnerable age demographic.  Actual data indicate, on the other hand, susceptibility is a lot lower than that for nearly everyone.</p>
+
+<p>This is not to say COVID isn’t infectious.  It is extremely infectious.  But it isn’t going to infect every last person there is.</p>
+
+<h3 id="276-what-is-the-most-embarrassing-thing-youve-ever-witnessed-submitted-on-2022-05-27-0451160800">276: <a href="https://old.reddit.com/r/AskReddit/comments/uyh7c7/what_is_the_most_embarrassing_thing_youve_ever/">What is the most embarrassing thing you’ve ever witnessed?</a>, submitted on 2022-05-27 04:51:16+08:00.</h3>
+
+<p>—– <strong>276.1</strong> —–2022-05-27 20:52:02+08:00:</p>
+
+<p>I had an elementary school teacher like that.  Today, that woman would be regarded as a textbook “Karen.”  At the time, however, memes weren’t a thing.</p>
+
+<p>She hated me because I was always bored out of my mind in her class, except when I was calling out her mistakes — of which there was no shortage.  One day, she unilaterally decided to take everything out of my cubby because it was “messy.”  My cubby was not messy.  Another time, she lost an assignment I turned in and lied about it.  She often tried to claim I was late when I was not.  I didn’t realize how much of a malicious bitch she was at the time, but I got all kinds of special treatment like that from her.</p>
+
+<p>One day I’d had enough of it and I called her out for being unfair.  A sequence of “disciplinary” escalation followed, which culminated in my parents going to school for a “conference.”  Other students corroborated what I said.  She broke down in tears and supplied numerous excuses for her behaviour.  She quit teaching the next year.</p>
+
+<h3 id="277-chicago-covid-update-city-now-in-cdcs-high-risk-level-along-with-several-local-counties-submitted-on-2022-05-27-0946410800">277: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/uyn5dc/chicago_covid_update_city_now_in_cdcs_high_risk/">Chicago COVID update: City now in CDC’s high risk level along with several local counties</a>, submitted on 2022-05-27 09:46:41+08:00.</h3>
+
+<p>—– <strong>277.1</strong> —–2022-05-27 19:50:04+08:00:</p>
+
+<p>Another ambiguous statement from a so called public health “expert” that should have resigned long ago.</p>
+
+<h3 id="278-how-do-i-get-rid-of-the-destructive-mindset-that-applied-and-statistics-are-lesser-than-pure-math-submitted-on-2022-05-27-1023470800">278: <a href="https://old.reddit.com/r/math/comments/uynuhc/how_do_i_get_rid_of_the_destructive_mindset_that/">How do I get rid of the destructive mindset that Applied and Statistics are “lesser” than Pure Math</a>, submitted on 2022-05-27 10:23:47+08:00.</h3>
+
+<p>—– <strong>278.1</strong> —–2022-05-27 20:07:06+08:00:</p>
+
+<p>Every time you question yourself, just look at how much money you make in the private sector as compared to academia.</p>
+
+<p>Illusions of prestige are for academics in ivory towers.  It’s one thing to feel that way as an undergrad or in grad school, but money is in the private sector.</p>
+
+<p>Also, your impact in the private sector is likely to be a lot greater than it ever could be in academia.  “Pure math guy” that never moved the ball forward in the field can have his ego, because that’s all he’ll have.  Money aside, industry will not turn based on anything he says (directly at least).  It might with you, in the private sector.</p>
+
+<h3 id="279-as-russian-forces-retreated-mock-executions-and-beatings-increased-in-ukraine-submitted-on-2022-05-27-2018320800">279: <a href="https://old.reddit.com/r/geopolitics/comments/uywzm6/as_russian_forces_retreated_mock_executions_and/">As Russian Forces Retreated, Mock Executions and Beatings Increased in Ukraine</a>, submitted on 2022-05-27 20:18:32+08:00.</h3>
+
+<p>—– <strong>279.1</strong> —–2022-05-27 20:20:54+08:00:</p>
+
+<p>No Paywall: https://archive.ph/mg6pZ</p>
+
+<ul>
+  <li>NOTE - As I have previously stated, if the above link doesn’t work for you, it’s due to a restriction to which you’re subject (whether by your government, your ISP or the like).</li>
+</ul>
+
+<p>—– <strong>279.2</strong> —–2022-05-27 20:31:45+08:00:</p>
+
+<p>Submission Statement:</p>
+
+<p>This WSJ article details certain of the Russian military’s war crimes in Ukraine, here focusing on those in Novyi Bykiv, a small settlement dotted with one-story houses 50 miles east of Kyiv.  War crimes committed there against Ukrainian included, beatings often rising to the level torture and mock/actual executions.  Ukrainian civilians have been specifically targeted, on suspicion that they might be acting as spies for the Ukrainian military.</p>
+
+<p>—– <strong>279.3</strong> —–2022-05-28 09:44:08+08:00:</p>
+
+<p>They certainly have.  The typical Internet Research Agency garbage is self evident, though.  Yevgeny Prigozhin is bad at his job.</p>
+
+<h3 id="280-user-blocked-modteam-their-content-in-our-sub-does-not-show-up-on-their-profile-when-we-view-submitted-on-2022-05-28-2132010800">280: <a href="https://old.reddit.com/r/ModSupport/comments/uznez7/user_blocked_modteam_their_content_in_our_sub/">User blocked modteam, their content in our sub does not show up on their profile when we view</a>, submitted on 2022-05-28 21:32:01+08:00.</h3>
+
+<p>—– <strong>280.1</strong> —–2022-05-28 23:41:54+08:00:</p>
+
+<p>This is another one of the terrible implications of Reddit’s ill-considered features.</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-05-29</time>
+        <a href="https://nodebe4.github.io/opinion/2022-05-29/Spinkcat/">
+          Spinkcat在2022-05-23~2022-05-29的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-05-29</time>
+        <a href="https://nodebe4.github.io/opinion/2022-05-29/EnclavedMicrostate/">
+          EnclavedMicrostate在2022-05-23~2022-05-29的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-05-27</time>
+        <a href="https://nodebe4.github.io/opinion/2022-05-27/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-05-23~2022-05-29的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-05-22</time>
+        <a href="https://nodebe4.github.io/opinion/2022-05-22/Spinkcat/">
+          Spinkcat在2022-05-16~2022-05-22的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-05-28/nathanlawkc/">
+            前一篇：Twitter @Nathan Law 羅冠聰: 2022-05-23~2022-05-29
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-05-28/%E6%AD%8C%E8%8E%89%E4%BA%9E%E7%9A%84%E5%A5%BD%E5%A5%87%E4%B8%AD%E5%B3%B6-39-%E5%89%8D%E4%B8%96-%E7%9A%84%E6%97%85%E8%A1%8C%E5%9B%9E%E6%86%B6-%E8%B8%8F%E5%85%A5%E4%B8%96%E7%95%8C%E5%90%84%E5%9C%B0%E7%9A%84%E7%A6%81%E5%8D%80-%E5%98%89%E8%B3%93-%E6%97%85%E8%A1%8C%E5%AF%AB%E4%BD%9C%E4%BA%BA-%E5%90%B3%E8%9A%8A%E8%9A%8A/">
+            後一篇：【歌莉亞的好奇中島】#39　「前世」的旅行回憶　踏入世界各地的禁區？（嘉賓：旅行寫作人　吳蚊蚊）
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-05-28/nathanlawkc/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-05-28/%E6%AD%8C%E8%8E%89%E4%BA%9E%E7%9A%84%E5%A5%BD%E5%A5%87%E4%B8%AD%E5%B3%B6-39-%E5%89%8D%E4%B8%96-%E7%9A%84%E6%97%85%E8%A1%8C%E5%9B%9E%E6%86%B6-%E8%B8%8F%E5%85%A5%E4%B8%96%E7%95%8C%E5%90%84%E5%9C%B0%E7%9A%84%E7%A6%81%E5%8D%80-%E5%98%89%E8%B3%93-%E6%97%85%E8%A1%8C%E5%AF%AB%E4%BD%9C%E4%BA%BA-%E5%90%B3%E8%9A%8A%E8%9A%8A/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-05-29/EnclavedMicrostate/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-05-27/ForeignAffairsMag/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-05-28/nathanlawkc/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-05-28/%E6%AD%8C%E8%8E%89%E4%BA%9E%E7%9A%84%E5%A5%BD%E5%A5%87%E4%B8%AD%E5%B3%B6-39-%E5%89%8D%E4%B8%96-%E7%9A%84%E6%97%85%E8%A1%8C%E5%9B%9E%E6%86%B6-%E8%B8%8F%E5%85%A5%E4%B8%96%E7%95%8C%E5%90%84%E5%9C%B0%E7%9A%84%E7%A6%81%E5%8D%80-%E5%98%89%E8%B3%93-%E6%97%85%E8%A1%8C%E5%AF%AB%E4%BD%9C%E4%BA%BA-%E5%90%B3%E8%9A%8A%E8%9A%8A/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-05-29/EnclavedMicrostate/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-05-27/ForeignAffairsMag/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

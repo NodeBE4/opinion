@@ -1,0 +1,2333 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Spinkcat在2020-11-23~2020-11-29的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Spinkcat在2020-11-23~2020-11-29的言论" />
+    <meta property="twitter:title" content="Spinkcat在2020-11-23~2020-11-29的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FChina_irl%2Fcomments%2Fk1n27n%2F%E9%BB%84%E4%B9%8B%E9%94%8B%E6%94%B6%E6%8A%BC%E8%A2%AB%E6%8C%87%E8%82%9A%E5%86%85%E6%9C%89%E5%BC%82%E7%89%A9_%E6%9A%82%E9%A1%BB%E5%8D%95%E7%8B%AC%E5%9B%9A%E7%A6%81%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/China_irl/comments/k1n27n/黄之锋收押被指肚内有异物_暂须单独囚禁/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/China_irl/comments/k1n27n/黄之锋收押被指肚内有异物_暂须单独囚禁/&text=Spinkcat在2020-11-23~2020-11-29的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/China_irl/comments/k1n27n/黄之锋收押被指肚内有异物_暂须单独囚禁/&title=Spinkcat在2020-11-23~2020-11-29的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/China_irl/comments/k1n27n/黄之锋收押被指肚内有异物_暂须单独囚禁/&title=Spinkcat在2020-11-23~2020-11-29的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Spinkcat在2020-11-23~2020-11-29的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/China_irl/comments/k1n27n/黄之锋收押被指肚内有异物_暂须单独囚禁/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/China_irl/comments/k1n27n/黄之锋收押被指肚内有异物_暂须单独囚禁/&title=Spinkcat在2020-11-23~2020-11-29的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Spinkcat在2020-11-23~2020-11-29的言论&url=https://old.reddit.com/r/China_irl/comments/k1n27n/黄之锋收押被指肚内有异物_暂须单独囚禁/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Spinkcat在2020-11-23~2020-11-29的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2020-11-28
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://www.reddit.com/user/Spinkcat/" style="font-size:14px;">作者: Spinkcat</a>
+        </span>
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/China_irl/comments/k1n27n/黄之锋收押被指肚内有异物_暂须单独囚禁/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#1172-黄之锋收押被指肚内有异物-暂须单独囚禁-submitted-on-2020-11-27-0447100800" id="markdown-toc-1172-黄之锋收押被指肚内有异物-暂须单独囚禁-submitted-on-2020-11-27-0447100800">1172: 黄之锋收押被指“肚内有异物” 暂须单独囚禁, submitted on 2020-11-27 04:47:10+08:00.</a></li>
+  <li><a href="#1173-中国鹤岗房价最低500元一平租房不要钱-submitted-on-2020-11-27-0756200800" id="markdown-toc-1173-中国鹤岗房价最低500元一平租房不要钱-submitted-on-2020-11-27-0756200800">1173: 中国鹤岗,房价最低500元一平,租房不要钱, submitted on 2020-11-27 07:56:20+08:00.</a></li>
+  <li><a href="#1174-李克强与金融创新的疑惑-submitted-on-2020-11-28-1222370800" id="markdown-toc-1174-李克强与金融创新的疑惑-submitted-on-2020-11-28-1222370800">1174: 李克强与金融创新的疑惑, submitted on 2020-11-28 12:22:37+08:00.</a></li>
+  <li><a href="#1175-债务周期最终会以什么方式终结-submitted-on-2020-11-28-2254160800" id="markdown-toc-1175-债务周期最终会以什么方式终结-submitted-on-2020-11-28-2254160800">1175: 债务周期最终会以什么方式终结, submitted on 2020-11-28 22:54:16+08:00.</a></li>
+</ul>
+
+<h3 id="1172-黄之锋收押被指肚内有异物-暂须单独囚禁-submitted-on-2020-11-27-0447100800">1172: <a href="https://old.reddit.com/r/China_irl/comments/k1n27n/黄之锋收押被指肚内有异物_暂须单独囚禁/">黄之锋收押被指“肚内有异物” 暂须单独囚禁</a>, submitted on 2020-11-27 04:47:10+08:00.</h3>
+
+<p>—– <strong>1172.1</strong> —–2020-11-27 10:58:57+08:00:</p>
+
+<p>吃了两碗粉。</p>
+
+<h3 id="1173-中国鹤岗房价最低500元一平租房不要钱-submitted-on-2020-11-27-0756200800">1173: <a href="https://old.reddit.com/r/China_irl/comments/k1qatj/中国鹤岗房价最低500元一平租房不要钱/">中国鹤岗,房价最低500元一平,租房不要钱</a>, submitted on 2020-11-27 07:56:20+08:00.</h3>
+
+<p>—– <strong>1173.1</strong> —–2020-11-27 10:17:20+08:00:</p>
+
+<p>小马你跟峰哥是怎么认识的？</p>
+
+<h3 id="1174-李克强与金融创新的疑惑-submitted-on-2020-11-28-1222370800">1174: <a href="https://old.reddit.com/r/China_irl/comments/k2h1xs/李克强与金融创新的疑惑/">李克强与金融创新的疑惑</a>, submitted on 2020-11-28 12:22:37+08:00.</h3>
+
+<p>—– <strong>1174.1</strong> —–2020-11-28 13:00:24+08:00:</p>
+
+<p>实际情况是没有实权执行不力，或者更全面的放大到整个改革制度的动机上，是整个体制的失败。</p>
+
+<p>中国政府是高度集权与极权体系，金融体系的开放，需要独立于行政权的立法与司法监督，如果没有这两个基础，你的金融是不可能做的非常繁荣并且稳定的，只能不断借助行政力量去修修补补。</p>
+
+<p>既然党和政府的权力考虑到政府的特殊性，不能被制衡，那毫无疑问开放或繁荣成熟的金融体系，也是无稽之谈了。</p>
+
+<p>但是为什么又要在这种背景下一定要去发展呢？是李克强等技术性官僚脑子一热犯傻吗？</p>
+
+<p>其实当然也不是，相反他们是很清楚中国迫切需要一个金融市场，最好是有大量的金融产品、服务、模式，这样可以搭建一条高效率利用资本的体系。</p>
+
+<p>中国现在很多钱，但是这些钱并不能通过各种有效的投资或金融产品来流动在社会各个产业与阶层之间。</p>
+
+<p>这就造成了大量的财富积聚，市面上正常的企业贷款流动性低，不良坏账比率难以控制，银行作为最传统的金融机构，他们借出的大量贷款，因为政治框架导致的一系列问题，更倾向于借给靠纳税人补贴的垄断性国企，这样不但容易保证赚回来，也符合党内扶持国企的政策。</p>
+
+<p>个人层面来讲，你一辈子净资产赚了五百万，但是你没有任何途径有效抗通胀，存在银行是比较低效率的做法，更多有投资需求的人会购买一些理财产品，还有进入股市。</p>
+
+<p>而因为中国缺乏这种稳定的金融体系，有今天没明天的各种产品，所以才导致中国房价在客观刚需下，成为一种最为常见的投资、理财硬通货。</p>
+
+<p>房子在政府的户籍制度下，可以稳定的增值，而且为了避免房价泄洪式崩溃，政府还会继续保这个指标，哪怕跌，也比其他如A股这种阴晴不定的东西强太多。</p>
+
+<p>李克强等技术性官僚，其实就是在明知道这个体系压根没法形成有效体系的前提下，尝试性为中国庞大的金融需求，看看能不能找到一些可能性，结果自然是体制性的问题，也必然归于体制性的失败。</p>
+
+<p>不讨论李克强完全掌权会做什么，但习近平完全掌权肯定不会搞司法独立和立法权不受政府控制这种体制改革，所以毫无疑问打一开始金融体系的成熟化就缺乏催生动力。</p>
+
+<p>看人事任免，李克强其实从2013-2014年左右就逐渐失势，彻底变成吉祥物，刚上任时的2年左右，已经是他最强势的时候了，金融和政府行政，习近平很早就通过各种小组绕开了国务院，直接给各部位下达命令，国务院虽然有起作用，但李克强肯定不是绝对领导者。</p>
+
+<p>我觉得当代中国其实已经迫切需求一个成熟稳定的金融体系，因为你看市面上能明显感觉到，各种企业资金链断裂，不纯粹是因为经营不善，而是市场上的投资者其实并不是那么多，很多人宁愿投房产，也不愿意去买基金或股票（A股老韭菜另算）。</p>
+
+<p>而更多的时候，即便不买股票，我们购买的一些保险、基金或其他形式的投资，这些公司都会拿这笔钱去做其他投资来利滚利，虽然消费者不会直接持有这些公司通过该业务赚钱后购买到的股权或分红，但事实上却是在推动了社会经济的发展，更多的中小企业可以从这些公司拿到投资，也能更稳定的生产，股市也可以进一步稳定。</p>
+
+<p>就我所观察到的，我认为我国虽然累积了大量的财富，但利用财富的效率，并没有匹配的增长，甚至有倒退的趋势。</p>
+
+<p>P2P和各种暴雷跑路，遏制的办法其实在发生前就可以介入监管与立法，但现在最大的问题就是，负责监管的政府，本身就是反监管的。</p>
+
+<p>没有立法与司法的监管，政府又不做或者不愿意违背自身集团利益，那结果其实显而易见，那些暴雷跑路的，有几个是一点身份没有，很多人都有白手套背景，有的还姓赵，钱又到谁裤腰带里，这是个需要解决的问号。</p>
+
+<p>那么我们怎么监管，找谁监管，如何开始，没有成熟金融体系的长期后果谁来承担，这都是必要考虑的。</p>
+
+<p>—– <strong>1174.2</strong> —–2020-11-28 17:02:09+08:00:</p>
+
+<p>其实不用金融常识，因为逻辑上是做不出来的，如果出来了也是缝合怪，其实金融创新就是做更多好的金融产品与服务，吸引热钱转移，然后让投资市场有更高效率能带动中小企或个人创业的上游资金需求，要不就是对个人理财的资金保值抗通胀。</p>
+
+<p>这些都是正常金融发展的必然环节，所以我认为没什么好创新的，太阳底下没有新鲜事，真创新必须是弄没有的东西，比如搞司法体系改革，有监管才有金融体系的稳定。</p>
+
+<p>马云前一段的事，其实就是中国金融与监管的两个极端，要么极端炒杠杆（客观上市场与企业的确迫切需求大量的资金，而监管体系和政府推动在这点上就是无能），要么极端监管谁也不许动，都是二极管思维，因为要改革只能走行政分权路线，等于要当局的命。</p>
+
+<p>P2P在中国或世界层面本身不谈，它对应的是一种需求，也即是个人或企业（P2P主要是个人）对自身资产需要一个合理分配，也即是诞生了金融需求，但市场上没有正常的金融服务与产品，P2P很多都是卷钱跑路，压根不是做生意，也有一部分是监管要么管死要么不管的极端行为导致不能维持稳定。</p>
+
+<p>金融创新国务院可以提议，但监管一般轮不到国务院，正常程序应该有个司法体系和立法机制，政府只负责执行，李克强又要提，这个体制又没接盘的能力，他还管不了全部国务院，那出事是个时间问题。</p>
+
+<p>没有降落伞的人要玩跳伞，摔死是个必然的结果，这是个现实的事。</p>
+
+<p>—– <strong>1174.3</strong> —–2020-11-28 17:04:45+08:00:</p>
+
+<p>谈归谈，但民众就是不挪窝，政府又不可能主动引爆房地产泡沫，金融市场不发达或稳健，企业和创业就很难长期发展，政府也拿不到优质税种。</p>
+
+<p>房地产出问题，土地财政模式崩溃， 政府短期大头收入全面下滑，但没有企业纳税，又没有长期税源，这两端任何一点出问题，都会造成连锁反应比如大量失业，从而降低消费，消费没了那更糟糕。</p>
+
+<p>能用的政策工具越来越少，有用的工具效果越来越弱，也不知道过几年怎么办。</p>
+
+<p>—– <strong>1174.4</strong> —–2020-11-29 11:05:30+08:00:</p>
+
+<p>司法独立是改善与建立金融体系的开始，并且需要对应的金融消费需求。</p>
+
+<p>政府是负责执行财政审批或立法内容的执行端，司法体系作为审裁部门，必须能不受第三方干预的自我裁断。</p>
+
+<p>一个金融判例，比如金融纠纷仲裁，如果你的司法不独立，怎么做到可以在之后接二连三的相似问题里，做得到有据可依有例可寻，而不是要政府每次都按照自己利益来量度尺度，其他想加入这个产业的投资者，只能知道明文规定可靠的法律条文，不可能猜测上意，今天允许明天不允许，指不定哪天就出不来了。</p>
+
+<p>马云最近蚂蚁金服的事就是典型，虽然大众批判马云高杠杆，但如果从法律上就立法约束，那么根本不会出现当局还要动用行政力量出来阻止这种模式，正因为很多金融服务的上市与推广，根本不是靠一套独立的立法、司法监管系统控制。</p>
+
+<p>所以才造成P2P还要各种长租中介商的问题暴雷，众多危机在一开始展开前，立法层面就有能力杜绝，但碍于政府的懒政或对这些相关背景人士在内部的影响力，能防患于未然的问题，统统成为他人钻漏洞借机捞金的渠道。</p>
+
+<p>法无禁止则可为，法无授权即禁止，如果不能做到独立的让司法自我运作，那么人人看的都是政府或政党的脸色，法律本身的框架就失去了意义，大家在参与金融创新时，看的是政府内部的风向与人际关系，而不是一个明文规定不能做的就是不能做。</p>
+
+<p>正因为金融服务是一种高度复杂涉及大量产权的产业，所以相关的法律条文也必须有对等的深度，而且条文本身不能成为橡皮图章，要专业人士能够独立的审议与运作，如果都听从政府管控，就始终是原地踏步。</p>
+
+<p>—– <strong>1174.5</strong> —–2020-11-29 11:16:53+08:00:</p>
+
+<p>房产是有限物质对应几乎无限的资金，是基于实际楼房来决定供应比例，所以过多资金挤进去而没有对应增长的楼盘数量（能负担高泡沫与增值的优质楼盘销售饱和后），泡沫自然会破裂。</p>
+
+<p>金融体系是无数种产品、服务与需求与大量涌入的资金形成一个平衡，当投资需求（各种意义上的，比如实业公司上市招股，或者投资公司基金招募。）低于涌入的金额时，泡沫才会产生。</p>
+
+<p>资金与对应的需求不能有太大的落差，否则任何产业都会造成泡沫，区别是不同产业的吸纳能力不同，所以无论什么领域，制造需求都是最核心的。</p>
+
+<p>国内要爆破的话，其实社会影响都接近，但不同的是，房地产大量资金集中，会导致投入产出比率低，过多热钱、人口集中在少数城市，经济会停滞，因为土地始终有限。</p>
+
+<p>金融产业先不考虑泡沫的话，没钱意味着大量的中小企业缺乏上游资金链，经济也活跃不起来，走不了更复杂的下一阶段，到最后还是衰退。</p>
+
+<p>所以对国内来说，房地产经济意义已经不大了，增长空间很小，负面影响大于正面经济价值，剩下的只是要让它不要破裂，金融市场附带的各种企业与个人，才是最需要钱的地方，同时还是一个比较好的蓄水池，而挪动这个过程，很多人就非常抗拒（参考A股股灾和P2P暴雷）。</p>
+
+<p>他们对金融市场不相信（没有稳健的法律体系保障），更乐意投资房子这种刚需不动产（基于户籍制度下人为设计的不公平资源分配制度），进一步造成政府想转移市场资金的目标不成功，房地产经济尾大不掉，威胁政府税收与经济的问题也日趋严重。</p>
+
+<p>—– <strong>1174.6</strong> —–2020-11-29 13:07:08+08:00:</p>
+
+<p>法律完善是诸多必要条件之一，中共既是立法者，也是执法者与审判者，这就造成了他们的行动不能反映市场与社会的全部客观需求，只会按照自己的利益立场来设置立法条件、法律内容并且按照自己利益进行裁决。</p>
+
+<p>所以立法能一定程度上促进监管，但不能改变核心机制缺失的关键问题，也即是自主性的独立司法，金融发展必然涉及对公权力的分割，这就是中共没法完全改革的核心问题，分权代表中共下台的开端，不分权意味着现代化的产业体系难以建立稳固，那么就到了请中共退出历史舞台的时候了。</p>
+
+<h3 id="1175-债务周期最终会以什么方式终结-submitted-on-2020-11-28-2254160800">1175: <a href="https://old.reddit.com/r/China_irl/comments/k2oxlk/债务周期最终会以什么方式终结/">债务周期最终会以什么方式终结</a>, submitted on 2020-11-28 22:54:16+08:00.</h3>
+
+<p>—– <strong>1175.1</strong> —–2020-11-29 15:58:03+08:00:</p>
+
+<p>是指中国的还是美国的，亦或者这种债务经济模式的终结？</p>
+
+<p>—– <strong>1175.2</strong> —–2020-11-30 16:40:29+08:00:</p>
+
+<p>中国债务问题其实经常谈到，我的看法一直是中央很稳，地方不稳，中国的财政体系与政权体系，是地方事多而财权少，中央财权多而需要承担责任少。</p>
+
+<p>这也是为什么中国的债务问题高，一方面是地方要发展经济，中央不能把自己的优秀水周给他们，只能另谋其他渠道，比如模仿香港的土地财政，还有就是野蛮发展时期的各种债务经济。</p>
+
+<p>现在的主要债务雪球，主要是来自次贷危机后，中国为了强撑经济推动的四万亿政策模式，不是单纯四万亿就堆高了债务，而是四万亿的形式，各地政府或搞大量的债务，比如城投债等来制造大量有经济活动的项目。</p>
+
+<p>基建建造有两个需要考虑的指标，一是需求度（包括利用率），二是政府的财政负担能力（包括后续维护与长期的人力保养）。</p>
+
+<p>现在问题就是，每次经济出问题要自然下滑，地方政府和中央政府都会出一系列的强刺激政策，制造大量的基建项目，从而拉动对民间物资与人力的采购，进而把许多的政府收入变相投入进去。</p>
+
+<p>但这种模式不是一种非常严谨或经过议会审议后的结果，相反是为了维持经济繁荣不衰落的产物，也就出现不少基建与实际需求不匹配，鬼城或几个亿修基建但没人用，甚至是年收入几千万或几亿的行政区域，修几个亿甚至几十个亿上百亿的建筑。</p>
+
+<p>然后这些“投资”，既然不是社会迫切需求的，也不是当地财政可以有效承担的，然后债务还无法偿还，错误的资金管理与“基建雪球”，直接造成了下一次经济问题到来时，地方政府又要堆一次债务去进行经济强刺激。</p>
+
+<p>这种经济吗啡热一段时间后，又得经历下一轮强刺激，到最后反馈越来越弱。</p>
+
+<p>这也是为什么虽然中央政府已经在强控债务，各种重组与定向对不良资产爆破，但总体债务增速仍然居高不下（比前几年好不少）。</p>
+
+<p>理论上中央政府是可以通过各种渠道无限发债的，但地方的财政承担能力，显然不可能永久性持续，美国是经济增长与衰落同时存在，被客观上的接受，但中国的经济大规模衰退与停滞，是会造成政权合法性危机的，那么自然要不断续命，哪怕是牺牲未来潜力的经济吗啡。</p>
+
+<p>中国的基建需求在零八年后，其实确实很高，所以四万亿负面影响不少，但整体上社会可以吃下，到后来经济分配的效率，民众的消费水平，内需的增长速度，都跟不上基建滚雪球的模式，政府相关的国企或其他方面债务在不断增加，但社会能消化掉的基建规模，其实越来越小，渐渐的就饱和了。</p>
+
+<p>到最后，很可能就是中央没事，但地方政府对基层的控制力越来越弱（现在不断加强其实就是一种忧虑的反馈，因为控制不了，所以要节省资源搞寒蝉效应降低管控社会的稳定成本），这方面表现很多，比如社会信用体系、鼓吹新时代先贤，对乡镇村等行政上的简化和集权，对行政村与自然村的合并优化，号召大学生重新上山下乡等等。</p>
+
+<p>债务利息不能不还，然后经济下滑还没到摊牌不在乎政权合法性也要强行执政的时候，那么就只能让债务雪球在可控增速内继续增长，没准之后产业升级或新工业革命能带来一波经济增长刺激。</p>
+
+<p>整体上却是向着乡镇里人口与财政资源集中到发达城市，城市资源与财政聚集到发达省会，省级别的资源流动到发达省份的趋势，比如四川都往成都流动，重庆都跑市区，河北都跑北京天津，变相来说是通过重新调集资源到一点，延续大城市或人口较多地区的控制力。</p>
+
+<p>而那些人口较少的地方，政府财政因为债务压力就渐渐跟不上，公共服务会减少，对基层的控制力也在下滑，慢慢就混乱从中诞生。</p>
+
+<p>所以总体上我认为中国的债务周期不会结束，而是会持续滚动，一直到社会维持不下去，造成政府连锁性破产为止，这个过程见到初期端倪可能要至少十年到十五年。</p>
+
+<p>这种债务周期其实逻辑链条是很明确的，政府举债应该是为了必须的公共服务，因为他们是进行花销而非盈利的组织，那么公共医疗与交通教育等福利，这些是显而易见的必需品。</p>
+
+<p>但中国政府则主要为靠基建建设举债，目的是维持经济的繁荣性，不断给经济进行政府行为输血，但是造的基建没有对等的盈利能力，相反是一种消耗资源的项目。</p>
+
+<p>那么，当基建数量多且饱和到政府难以有效刺激经济，甚至这种做法在危害经济时，就自然破了。</p>
+
+<p>不过考虑到我国的特殊政权模式，政府是可以通过行政手段将债务带来的财政危机进行转嫁的，比如农民宅基地，还有城市人口的养老或医疗资源，通过减少社保（尤其是医保的耗材）支出，在财政上做进一步优化，压榨空间给下一轮投入到基建款项注入血液。</p>
+
+<p>就目前阶段，成本转嫁是已经开始并且会成为一个长期路线（全民买单），医保耗材就是典型例子，三线或以外地区的公共部门也会能省则省，各地公务员比如教师拖欠薪金到现在也不是闻所未闻了。</p>
+
+<p>但当下经济还是可以续一段时间，中国的产业发展还是比较稳固的，在一些中高端领域有理想的收益，只是不太足够接盘。</p>
+
+<p>我看到前面有人提到MMT，我不是金融专业人员，但我认为财政主导是迟早要完蛋的，这种模式会逐渐衍生出变种（肯定不是MMT本身），而这种全球债务性的问题，伴随的将是民间生产力与自我组织能力达到一定高度后，政府的信用原地崩溃，进而造成政府这种组织的权力范围大幅度缩小。</p>
+
+<p>然后就是私人组织取代公权力组织，现代社会与人类普遍认为政府必须存在，必须有一个公共组织利用私人上缴的税金与交付的个人权力来服务大众，这种观念以后肯定会改变。</p>
+
+<p>假设未来的工种与产业数量无限膨胀，公共组织就会成为一种累赘，我们的消费产出，不应再受限于公共组织的行政剥削（前提是生产力与社会道德水平达到了这种程度，当代肯定没戏所以不用考虑）。</p>
+
+<p>那么政府通过发债来获取经济资源的形式，就可以通过两点来抵消，一是债务经济到极限，美国这样的政府组织原地崩溃，但因为生产力极为发达，社会的福利已经逐渐从公共服务转移到私有化（医疗、教育等正在发生，从历史上来看我们已经进入到初期阶段了）。</p>
+
+<p>所以不会造成社会大规模动乱，个人生产足以维持生活，公共秩序的维持更依赖自发性秩序与私人安保。类似例子其实当代就有，一些发达国家政府破产，但社会本身并没有瓦解变成疯狂麦克斯一样的景象，那么随时间推移，这种自治能力只会在社区里不断加强。</p>
+
+<p>货币的交易属性会从政府的公权力背景下剥离，很多人说是透支政府的未来收入与信用，但实际上只要你的社会可以在科技产业上良性发展，无论是经济下滑还是短期停滞，都只是先来后到的问题（比如，从长时间角度来说，中国和印度都变为发达国家，在未来一两百年里区别不大，但对我们这种寿命只有顶多一百年的个体而言显然就是不能忍）。</p>
+
+<p>所以为了短期生活更好我们要竞争。，这也是对现在中国债务问题批判与警惕的现实意义（不能从“长远而言我们都死了”的角度去看）</p>
+
+<p>政府组织透支政府信用的假设前提，是政府会永久性的存在，但如果从发展角度来说，政府这种组织结构注定会消失，货币属性会彻底改变，透支的概念也就不成立。</p>
+
+<p>债务经济核心是政府能通过该机制，与传统意义上的通胀脱钩，不会出现投入大量货币去执行经济政策，但反而造成了货币供给过高，进而导致通胀同步增长，反而引发萧条和通缩的问题。</p>
+
+<p>货币可以从税收单位，变成结算单位，前者就跟古代过渡到现代时一样，过去靠物品税收，便有了需要一些恒定硬通货的税收模式，黄铜、白银或黄金，然后再到纸笔来方便流通与结算。到更进一步的现代，货币的主要属性从纳税变成了结算，直接靠国债来变现发行货币，再刺激内需消费以及出口。</p>
+
+<p>当地有一个社区自治组织的劣化例子（模式上接近，但生产力不够达不到理想的产物），那就是日本的终身雇佣制，日本本身也是走高债务赤字路线，而部分社会福利的职能，其实是转嫁给做终身雇佣制的企业了，所以现在很多人批评MMT是凯恩斯主义还魂。</p>
+
+<p>但我认为这是一个过度产物，最终是要跟芝加哥学派等进行合流，比如新凯恩斯和芝加哥学派已经很多地方都趋同了，未来肯定是在一个事物上可以综合的应用不同学派的观点，而不是一个事物要么全对要么全错。（但凯恩斯主义在现代经济和未来经济发展所需的秩序里肯定是扯淡的，比如中国当下）</p>
+
+<p>—– <strong>1175.3</strong> —–2020-11-30 22:05:06+08:00:</p>
+
+<p>我也就是看热闹，真到了那个时候会具体发生什么都没法下结论。</p>
+
+<p>—– <strong>1175.4</strong> —–2020-12-02 12:17:27+08:00:</p>
+
+<p>议会是负责立法与审议财政预算的，并不负责具体执行财政预算的细节，这部分是政府的工作，很多预算案如果得不到一致共识，本质上就根本没有审批的必要，借助议题本身来做政治敲打，这才是议会的基本责任。</p>
+
+<p>整个民主与分权体系，就是利用彼此的斗争性，将一个均衡机制维持妥善，社会的经济与发展，实际上随着技术越来越发达，已经逐渐脱离了农业时代到早期工业时代什么都要依赖政府的行为，政府与立法的决策影响力，越来越弱，由“从上到下”的施加，变成了“从下到上”，民间有基础的反而会被体现出来。</p>
+
+<p>如果议会是互相谦让而不是尽一切努力为自己政治立场去做斗争，这种童话式的情景反而才是现实世界最不应该出现的，正因为是考虑到现实利益为出发点，所以才有制约力，靠分配公共资源来发展，只适用于早期工业社会，越发达的工业社会，议会越成熟，但同时作用也越小，反而更多是倾向于社会观念，而非纯粹经济发展。</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2020-12-13</time>
+        <a href="https://nodebe4.github.io/opinion/2020-12-13/Spinkcat/">
+          Spinkcat在2020-12-07~2020-12-13的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-12-06</time>
+        <a href="https://nodebe4.github.io/opinion/2020-12-06/Spinkcat/">
+          Spinkcat在2020-11-30~2020-12-06的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-11-15</time>
+        <a href="https://nodebe4.github.io/opinion/2020-11-15/Spinkcat/">
+          Spinkcat在2020-11-09~2020-11-15的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-11-08</time>
+        <a href="https://nodebe4.github.io/opinion/2020-11-08/Spinkcat/">
+          Spinkcat在2020-11-02~2020-11-08的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2020-11-27/%E9%AB%98%E7%89%86%E8%88%87%E9%9B%9E%E8%9B%8B-%E7%BF%92%E8%BF%91%E5%B9%B3%E8%88%87%E5%91%A8%E5%BA%AD%E5%80%91%E7%9A%84%E8%BC%83%E9%87%8F/">
+            前一篇：高牆與雞蛋 ——習近平與周庭們的較量
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2020-11-28/realcaixia/">
+            後一篇：Twitter @蔡霞: 2020-11-23~2020-11-29
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2020-11-27/%E9%AB%98%E7%89%86%E8%88%87%E9%9B%9E%E8%9B%8B-%E7%BF%92%E8%BF%91%E5%B9%B3%E8%88%87%E5%91%A8%E5%BA%AD%E5%80%91%E7%9A%84%E8%BC%83%E9%87%8F/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2020-11-28/realcaixia/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2020-12-06/Spinkcat/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2020-11-15/Spinkcat/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2020-11-27/%E9%AB%98%E7%89%86%E8%88%87%E9%9B%9E%E8%9B%8B-%E7%BF%92%E8%BF%91%E5%B9%B3%E8%88%87%E5%91%A8%E5%BA%AD%E5%80%91%E7%9A%84%E8%BC%83%E9%87%8F/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2020-11-28/realcaixia/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2020-12-06/Spinkcat/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2020-11-15/Spinkcat/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

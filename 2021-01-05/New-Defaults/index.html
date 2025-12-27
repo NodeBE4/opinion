@@ -1,0 +1,3025 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>New Defaults – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+New Defaults
+——
+" />
+    <meta property="og:description" content="
+New Defaults
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="New Defaults" />
+    <meta property="twitter:title" content="New Defaults" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2021%2Fnew-defaults%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2021/new-defaults/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2021/new-defaults/&text=New Defaults&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2021/new-defaults/&title=New Defaults" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2021/new-defaults/&title=New Defaults" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=New Defaults&body=
+New Defaults
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2021/new-defaults/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2021/new-defaults/&title=New Defaults&caption=
+New Defaults
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=New Defaults&url=https://stratechery.com/2021/new-defaults/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>New Defaults</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2021-01-05
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2021/new-defaults/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1609858352000-->
+<p><a href="https://stratechery.com/2021/new-defaults/">New Defaults</a>
+——</p>
+
+<div>
+  <p>One of the most well-known papers in behavioral economics is <a href="https://www.jstor.org/stable/2696456?seq=1">The Power of Suggestion: Inertia in 401(k) Participation and Savings Behavior</a> by Brigitte C. Madrian and Dennis F. Shea. From the introduction:</p>
+  <blockquote>
+    <p>In this paper we analyze the 401(k) savings behavior of employees in a large U. S. corporation before and after an interesting change in the company 401(k) plan. Before the plan change, employees who enrolled in the 401(k) plan were required to affirmatively elect participation. After the plan change, employees were automatically enrolled in the 401(k) plan immediately upon hire unless they made a negative election to opt out of the plan. Although none of the economic features of the plan changed, this switch to automatic and immediate enrollment dramatically changed the savings behavior of employees.</p>
+  </blockquote>
+  <p>I would certainly call a shift from 37 percent participation to 86 percent participation a dramatic shift! However, as Madrian and Shea note, there was a downside:</p>
+  <blockquote>
+    <p>For the NEW cohort, 80 percent of 401(k) contributions are allocated to the money market fund, while only 16 percent of contributions go into stock funds. In contrast, the other cohorts allocate roughly 70 percent of their 401(k) contributions to stock funds, with less than 10 percent earmarked for the money market fund</p>
+  </blockquote>
+  <p>The issue is that the money market fund was the default choice, which meant that while the new program helped people save more, it also led folks who would have chosen better-performing funds to earn far less than they would have. Defaults are powerful!</p>
+  <p>Just ask Facebook, which is conducting a (probably futile) <a href="https://about.fb.com/news/2020/12/speaking-up-for-small-businesses/">public relations campaign</a> against Apple over iOS 14’s impending “App Tracking Transparency” requirement. Apple told <a href="https://www.bloomberg.com/news/articles/2020-12-16/facebook-attacks-apple-s-ios-changes-in-full-page-newspaper-ads">Bloomberg</a>:</p>
+  <blockquote>
+    <p>Apple defended its iOS updates, saying it was “standing up” for people who use its devices. “Users should know when their data is being collected and shared across other apps and websites — and they should have the choice to allow that or not,” an Apple spokeswoman said in a statement. “App Tracking Transparency in iOS 14 does not require Facebook to change its approach to tracking users and creating targeted advertising, it simply requires they give users a choice.”</p>
+  </blockquote>
+  <p>In fact, users have had a choice for several years; Apple has given customers the ability to switch off their device’s “Identifier for Advertisers” (IDFA) since 2012. What makes iOS 14 different is the change in defaults: instead of users needing to turn IDFA off, every app has to explicitly ask for it to be turned on, and given <a href="https://stratechery.com/2020/privacy-labels-and-lookalike-audiences/">the arguably misleading way that this tracking is presented by the media generally and Apple specifically</a>, both Facebook and Apple expect customers to say no; indeed, Facebook <a href="https://stratechery.com/2020/facebooks-ios-14-announcement-understanding-the-idfa-the-real-showdown/">won’t even bother asking</a>. Changing the defaults can change the course of a multi-billion dollar company.</p>
+  <h4 id="china-control-and-quarantine">China, Control, and Quarantine</h4>
+  <p>One year ago, on January 5, 2020, Wuhan, Hubei province’s largest city, was <a href="http://en.hubei.gov.cn/news/newslist/201912/t20191220_1776155.shtml">set to host</a> the 3rd Session of the 13th Hubei Provincial People’s Congress and the 3rd Session of the 12th Hubei Provincial Committee of the Chinese People’s Political Consultative Conference, the two most important political gatherings of the year. Perhaps that is why the city reported no new cases of a mysterious respiratory illness that had started appearing the previous November for the following 11 days. Three weeks later, the entire city was locked down in a drastic attempt to contain the virus we now know as SARS-CoV-2.</p>
+  <p>Last week, meanwhile, came a lockdown of another sort; from the <a href="https://www.nytimes.com/2020/12/28/world/asia/china-Zhang-Zhan-covid-convicted.html">New York Times</a>:</p>
+  <blockquote>
+    <p>A Chinese court on Monday sentenced a citizen journalist who <a href="https://www.nytimes.com/2020/12/25/world/asia/china-coronavirus-citizen-journalist.html">documented the early days of the coronavirus</a> outbreak to four years in prison, sending a stark warning to those challenging the government’s official narrative of the pandemic. Zhang Zhan, the 37-year-old citizen journalist, was the first known person to face trial for chronicling China’s outbreak. Ms. Zhang, a former lawyer, had traveled to Wuhan from her home in Shanghai in February, at the height of China’s outbreak, to see the toll from the virus in the city where it first emerged. For several months she shared videos that showed crowded hospitals and residents worrying about their incomes…</p>
+    <p>Ms. Zhang’s trial, at the Shanghai Pudong New District People’s Court on Monday, lasted less than three hours. The official charge on which she was convicted was “picking quarrels and provoking trouble,” a vague charge commonly used against critics of the government. Prosecutors had initially recommended a sentence between four and five years.</p>
+  </blockquote>
+  <p>For all of the consternation in China about the the initial cover-up, Zhang’s case is a reminder that controlling information for political purposes is China’s default approach. It is worth noting, though, that the willingness to exert control can be useful, particularly during a pandemic. While Wuhan’s lockdown drew the most attention, and some degree of emulation, that wasn’t what actually stopped the virus’ spread. The <a href="https://www.wsj.com/articles/the-west-is-misinterpreting-wuhans-coronavirus-progressand-drawing-the-wrong-lessons-11585074966">Wall Street Journal explained in March</a>:</p>
+  <blockquote>
+    <p>The <em>cordon sanitaire</em> that began around Wuhan and two nearby cities on Jan. 23 helped slow the virus’s transmission to other parts of China, but didn’t really stop it in Wuhan itself, these experts say. Instead, the virus kept spreading among family members in homes, in large part because hospitals were too overwhelmed to handle all the patients, according to doctors and patients there.</p>
+    <p>What really turned the tide in Wuhan was a shift after Feb. 2 to a more aggressive and systematic quarantine regime whereby suspected or mild cases — and even healthy close contacts of confirmed cases — were sent to makeshift hospitals and temporary quarantine centers. The tactics required turning hundreds of hotels, schools and other places into quarantine centers, as well as building two new hospitals and creating 14 temporary ones in public buildings.</p>
+  </blockquote>
+  <p>These centralized quarantines were not optional, and they were effective: China had the coronavirus largely under control by late spring, and the economy has unsurprisingly bounced back; China is expected to be the only Group of 20 country to record positive growth for the year.</p>
+  <h4 id="the-wests-haphazard-approach">The West’s Haphazard Approach</h4>
+  <p>The United States (along with Europe, it should be noted), has not done so well. Actually, that’s being generous: by pursuing selective lockdowns and completely eschewing centralized quarantine, the West has managed to hurt its economies and kill its small businesses, without actually stopping the spread of the coronavirus. At the same time, as Tyler Cowen argued <a href="https://www.bloomberg.com/opinion/articles/2020-05-13/forced-quarantines-are-not-the-american-way">in Bloomberg last May</a>, centralized quarantines were never really a serious option:</p>
+  <blockquote>
+    <p>There has been surprisingly little debate in America about one strategy often cited as crucial for preventing and controlling the spread of Covid-19: coercive isolation and quarantine, even for mild cases. China, Singapore and South Korea separate people from their families if they test positive, typically sending them to dorms, makeshift hospitals or hotels. Vietnam and Hong Kong have gone further, sometimes isolating the close contacts of patients.</p>
+    <p>I am here to tell you that those practices are wrong, at least for the U.S. They are a form of detainment without due process, contrary to the spirit of the Constitution and, more important, to American notions of individual rights. Yes, those who test positive should have greater options for self-isolation than they currently do. But if a family wishes to stick together and care for each other, it is not the province of the government to tell them otherwise.</p>
+  </blockquote>
+  <p>Cowen’s first paragraph makes clear that the views in the second are widely held: no politician that I know of, in the U.S. or Europe, seriously argued for centralized quarantine, even though it was likely the only way to contain SARS-CoV-2. The very idea of governments locking up innocent civilians is counter to our default assumption that individual freedom is inviolate.</p>
+  <p>That, though, is why it is strange that so many have acquiesced to ever-tightening restrictions on information. It seems that over the last year to have a pro-free speech position has become the exception; the default is to push for censorship, if not by the government — thanks to that pesky First Amendment — then instead by private corporations. And meanwhile, said private corporations, eager to protect their money-making monopolies (in the <a href="https://stratechery.com/2020/anti-monopoly-vs-antitrust/">political sense if not the legal one</a>), are happy to comply; YouTube led the way, declaring in April that it would ban any coronavirus content that contradicted the same World Health Organization that tweeted on January 14th that there was no human-to-human transmission, but most tech companies have since fallen in line.</p>
+  <p>To be perfectly clear, I am in no way denying the presence of huge amounts of misinformation, which, by the way, continue to circulate widely despite tech companies’ best efforts. What concerns me is that this sort of dime store authoritarianism is resulting in the worst possible outcome:</p>
+  <p><img src="https://stratechery.com/wp-content/uploads/2021/01/defaults-1-1024x651.png" alt="Being half authoritarian and half free has been the worst outcome in terms of the pandemic" width="640" height="407" class="aligncenter size-large wp-image-5518" srcset="https://stratechery.com/wp-content/uploads/2021/01/defaults-1-1024x651.png 1024w, https://stratechery.com/wp-content/uploads/2021/01/defaults-1-300x191.png 300w, https://stratechery.com/wp-content/uploads/2021/01/defaults-1-768x488.png 768w, https://stratechery.com/wp-content/uploads/2021/01/defaults-1-991x630.png 991w, https://stratechery.com/wp-content/uploads/2021/01/defaults-1.png 1280w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+  <p>China’s control of information is not ideal — the Wuhan coverup is about as compelling an example as you will ever see of the downsides of information control — but at the same time, it would be dishonest to not recognize that authoritarianism can be effective in actually controlling a pandemic. The West, though, will neither do what it takes to contain the coronavirus, even as we flirt with information suppression at scale. What makes this nefarious is that the cost of the latter is often unseen — it is the ideas never broached, and the risks never taken. But how do you measure opportunity cost?</p>
+  <h4 id="vaccines-and-defaults">Vaccines and Defaults</h4>
+  <p>Here the coronavirus again provides a compelling example, this time in the form of Moderna’s RNA vaccines. David Wallace-Wells wrote in <a href="https://nymag.com/intelligencer/2020/12/moderna-covid-19-vaccine-design.html">New York Magazine</a> in December:</p>
+  <blockquote>
+    <p>You may be surprised to learn that of the trio of long-awaited coronavirus vaccines, the most promising, Moderna’s mRNA-1273, which reported a 94.5 percent efficacy rate on November 16, had been designed by January 13. This was just two days after the genetic sequence had been made public in an act of scientific and humanitarian generosity that resulted in China’s Yong-Zhen Zhang’s being temporarily forced out of his lab. In Massachusetts, the Moderna vaccine design took all of one weekend. It was completed before China had even acknowledged that the disease could be transmitted from human to human, more than a week before the first confirmed coronavirus case in the United States. By the time the first American death was announced a month later, the vaccine had already been manufactured and shipped to the National Institutes of Health for the beginning of its Phase I clinical trial. This is — as the country and the world are rightly celebrating — the fastest timeline of development in the history of vaccines. It also means that for the entire span of the pandemic in this country, which has already killed more than 250,000 Americans, we had the tools we needed to prevent it.</p>
+  </blockquote>
+  <p>As Wallace-Wells notes, this does not mean that the Moderna vaccine should have — or could have — been rolled out in January. It does, though, provide a powerful thought experiment about opportunity cost.</p>
+  <p>Opportunity cost is distinct from the costs normally calculated in a cost-benefit analysis: those costs are real costs, in that they are actually incurred. For example, if I want to buy a new sweater, it will cost me money. Opportunity cost, on the other hand, is the choice not made. To return to the sweater example, whatever funds I use to buy a sweater cannot be used to buy slacks — the slacks are the opportunity cost.</p>
+  <p>In the case of the vaccine, the opportunity costs of not deploying it the moment it was developed are enormous: hundreds of thousands of lives saved in the U.S. alone, millions around the world, and untold economic destruction avoided. Again, to be clear, I’m not saying this choice was available to us, and you can easily concoct another thought experiment where the vaccine goes horribly wrong. What makes this thought experiment worthwhile, though, is that it is such a powerful example of opportunity costs, and it is opportunity costs — the thing not learned — that are the biggest casualty of defaulting towards information control instead of free speech.</p>
+  <p>This isn’t the only mistaken default. Another topic that received minimal discussion was the concept of human challenge trials, where individuals could volunteer — and be richly compensated — to be exposed to the virus to more quickly test the vaccination’s efficacy. When I broached the idea <a href="https://twitter.com/benthompson/status/1256791915913031681">on Twitter</a>, plenty of folks were quick to cite the very real ethical concerns with the concept, but few seemed willing to acknowledge the opportunity costs incurred by waiting a single day longer than necessary, which ought to present ethical concerns of their own. There was also no discussion of making the vaccine broadly available in conjunction with Phase III trials, despite the fact that RNA-based vaccines are inherently safer than traditional vaccines based on weakened or inactivated viruses. Similarly, when <a href="https://twitter.com/benthompson/status/1334362824630394881">I expressed bafflement</a> that people weren’t outraged by the FDA’s delay in approving the vaccines, the response of many was to insist the agency was rightly prioritizing safety. What, though, about the safety of those suffering from a pandemic that was accelerating? At every step the default was a bias towards the status quo of no vaccine, no matter how great the opportunity cost may have been.</p>
+  <p>What is most dispiriting, though, is this chart from <a href="https://www.bloomberg.com/graphics/covid-vaccine-tracker-global-distribution/">Bloomberg</a>:</p>
+  <p><a href="https://www.bloomberg.com/graphics/covid-vaccine-tracker-global-distribution/"><img src="https://stratechery.com/wp-content/uploads/2021/01/defaults-2-1024x825.png" alt="A map of how many vaccines have been distributed in the U.S." width="640" height="516" class="aligncenter size-large wp-image-5519" srcset="https://stratechery.com/wp-content/uploads/2021/01/defaults-2-1024x825.png 1024w, https://stratechery.com/wp-content/uploads/2021/01/defaults-2-300x242.png 300w, https://stratechery.com/wp-content/uploads/2021/01/defaults-2-768x619.png 768w, https://stratechery.com/wp-content/uploads/2021/01/defaults-2-782x630.png 782w, https://stratechery.com/wp-content/uploads/2021/01/defaults-2.png 1280w" sizes="(max-width: 640px) 100vw, 640px" /></a></p>
+  <p>As of this morning only 30% of distributed vaccines have been administered; that’s not quite as bad as it seems given the U.S. policy to hold back the second shot in reserve (itself <a href="https://www.nytimes.com/2021/01/03/health/coronavirus-vaccine-doses.html">a conservative decision</a> that seems driven by the <a href="https://marginalrevolution.com/marginalrevolution/2021/01/first-doses-first-show-your-work.html">status quo default</a>), but that still means millions of shots are unused and risk expiration. A major hold-up has been strict prioritization protocols, which prioritize equitable distribution over speed. It’s another misplaced default.</p>
+  <h4 id="technology-and-opportunity">Technology and Opportunity</h4>
+  <p>At this point many of you are surly muttering that this was the fastest vaccine development program in history, and that the U.S., for all of its struggles, has already vaccinated 1.42% of its population, the 3rd most in the world. Both are true, and worth celebrating.</p>
+  <p>At the same time, the timeline in that New York Magazine article is worth keeping in mind: the single most important reason these vaccines were developed so quickly was because of technological progress. <a href="https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/">This brilliant article</a> explains how mRNA vaccinations work in computer programming terms, but the entire concept is built on years of work. The <a href="https://www.health.harvard.edu/blog/why-are-mrna-vaccines-so-exciting-2020121021599">Harvard Health Blog</a> noted:</p>
+  <blockquote>
+    <p>Like every breakthrough, the science behind the mRNA vaccine builds on many previous breakthroughs, including:</p>
+    <ul>
+      <li>Understanding the structure of DNA and mRNA, and how they work to produce a protein.</li>
+      <li>Inventing technology to determine the genetic sequence of a virus.</li>
+      <li>Inventing technology to build an mRNA that would make a particular protein.</li>
+      <li>Overcoming all of the obstacles that could keep mRNA injected into the muscle of a person’s arm from finding its way to immune system cells deep within the body, and coaxing those cells to make the critical protein.</li>
+      <li>Information technology to transmit knowledge around the world at light-speed.</li>
+    </ul>
+    <p>Every one of these past discoveries depended on the willingness of scientists to persist in pursuing their longshot dreams — often despite enormous skepticism and even ridicule — and the willingness of society to invest in their research.</p>
+  </blockquote>
+  <p>Longshot dreams, enormous skepticism, and even ridicule certainly sound familiar to anyone associated with Silicon Valley, and there is an analogy to be made between how technology accelerated vaccine development, even in the face of conservative defaults, and how the technology industry broadly has driven U.S. economic growth for decades now, even in the face of stagnation elsewhere.</p>
+  <p>What makes software so compelling to anyone ambitious is that (1) the potential applications are limitless and (2) the limitations on creation are your own imagination, not external regulations. This certainly has its downsides, as anyone trying to get a software release out the door understands; you can add new features and fix bugs forever, because after all, it’s just software. At the same time, you can build anything you want, without asking for permission, and what could be more exciting than that?</p>
+  <p>I’m reminded of this old Steve Jobs interview:</p>
+  <div align="center">
+    <div id="v-iW3qG9PB-1" class="video-player">
+      <video id="v-iW3qG9PB-1-video" width="640" height="426" poster="https://videos.files.wordpress.com/iW3qG9PB/steve-jobs-secrets-of-life-kyfnvmf0bqw_dvd.original.jpg" controls="true" preload="metadata" dir="ltr" lang="en"><source src="https://videos.files.wordpress.com/iW3qG9PB/steve-jobs-secrets-of-life-kyfnvmf0bqw_dvd.mp4" type="video/mp4; codecs=&quot;avc1.64001E, mp4a.40.2&quot;" /><source src="https://videos.files.wordpress.com/iW3qG9PB/steve-jobs-secrets-of-life-kyfnvmf0bqw_fmt1.ogv" type="video/ogg; codecs=&quot;theora, vorbis&quot;" /><div>
+<img alt="Steve Jobs on the Secrets of Life" src="https://videos.files.wordpress.com/iW3qG9PB/steve-jobs-secrets-of-life-kyfnvmf0bqw_dvd.original.jpg" width="640" height="426" />
+        </div>        <p>Steve Jobs on the Secrets of Life</p>
+</video>
+    </div>
+  </div>
+  <p>Jobs was talking about life in general, but the potential he articulates is much more easily grasped in software; what is notable is that it was the software-driven companies that performed the best throughout the pandemic. Perhaps the assumption that any problem is solvable is a muscle that can be developed in software and applied to the real world? Amazon is a striking example in this regard: the so-called “tech” company hired over 400,000 new people in 2020, as it brought its massive logistics network to bear in the face of overwhelming demand; no wonder many have been joking on Twitter that the company should be in charge of the vaccination rollout.</p>
+  <p>Or, better yet, we ought to figure out how to export the Amazon mindset beyond the world of technology, but to do that we need new defaults.</p>
+  <h4 id="new-defaults">New Defaults</h4>
+  <p>Start with these three:</p>
+  <ul>
+    <li>First, it should be the default that free speech is a good thing, that more information is better than less information, and that the solution to misinformation is <a href="https://stratechery.com/2020/zero-trust-information/">improving our ability to tell the difference</a>, not futilely trying to be China-lite without any of the upside.</li>
+    <li>Second, it should be the default that the status quo is a bad thing; instead of justifying why something should be done, the burden of proof should rest on those who believe things should remain the same. This sounds radical, but given the fact that the world is undergoing <a href="https://stratechery.com/2019/the-internet-and-the-third-estate/">profound changes driven by the Internet</a>, it is the attempt to preserve the unsustainable that is radical.</li>
+    <li>Third, it should be the default to move fast, and value experimentation over perfection. The other opportunity cost of decisions not made is lessons not learned; given the speed with which information is disseminated, this cost is higher than ever.</li>
+  </ul>
+  <p>The urgency of this reset should come from where all of this started: China. Dan Wang wrote in his <a href="https://danwang.co/2020-letter/">2020 letter</a>:</p>
+  <blockquote>
+    <p>This year made me believe that China is the country with the most can-do spirit in the world. Every segment of society mobilized to contain the pandemic. One manufacturer expressed astonishment to me at how slowly western counterparts moved. US companies had to ask whether making masks aligned with the company’s core competence. Chinese companies simply decided that making money is their core competence, and therefore they should be making masks. The State Council reported that between March and May, China exported 70 billion masks and nearly 100,000 ventilators. Some of these masks had problems early on, but the manufacturers learned and fixed them or were culled by regulatory action, and China’s exports were able to grow when no one else could restart production. Soon enough, exports of masks were big enough to be seen in the export data.</p>
+  </blockquote>
+  <p>This, to be clear, was not the result of authoritarianism, but despite it; Taiwan exhibited <a href="https://stratechery.com/2020/compaq-and-coronavirus/">the exact same sort can-do attitude</a> alongside a free press, elections, and <a href="https://www.washingtonpost.com/world/asia_pacific/taiwan-pig-intestines-parliament-fight/2020/11/27/6eca3be0-3097-11eb-9dd6-2d0179981719_story.html">pig intestines in the legislature</a>. China, meanwhile, is increasing control of the private sector; the latest example is Alibaba and Jack Ma, who was <a href="https://www.cnbc.com/2021/01/04/jack-mas-disappearing-act-fuels-speculation-about-the-billionaires-whereabouts.html">last seen in October</a> criticizing the country’s regulators; China proceeded to kill Ant Group’s IPO, in a signal to any other billionaires with big ideas about who was boss, and Ma’s whereabouts are unknown. The U.S. can absolutely compete with this approach, not by imitating it, but by doing the exact opposite.</p>
+  <h4 id="intentions-versus-outcomes">Intentions Versus Outcomes</h4>
+  <p>A few years after Madrian and Shea’s landmark study, Richard Thaler, the Nobel-prize winning economist at the University of Chicago, devised a new approach for 401(k) enrollments that sought to overcome the downside of default choices (while preserving their upside). What I wanted to highlight, though, was this bit from the introduction of <a href="https://faculty.chicagobooth.edu/-/media/faculty/richard-thaler/assets/files/smartjpe.pdf">Save More Tomorrow: Using Behavioral Economics to Increase Employee Saving</a>:</p>
+  <blockquote>
+    <p>Economic theory generally assumes that people solve important problems as economists would. The life cycle theory of saving is a good example. Households are assumed to want to smooth consumption over the life cycle and are expected to solve the relevant optimization problem in each period before deciding how much to consume and how much to save. Actual household behavior might differ from this optimal plan for at least two reasons. First, the problem is a hard one, even for an economist, so households might fail to compute the correct savings rate. Second, even if the correct savings rate were known, households might lack the self-control to reduce current consumption in favor of future consumption…</p>
+    <p>For whatever reason, some employees at firms that offer only defined-contribution plans contribute little or nothing to the plan. In this paper, we take seriously the possibility that some of these low-saving workers are making a mistake. By calling their low-saving behavior a mistake, we mean that they might characterize the action the same way, just as someone who is 100 pounds overweight might agree that he or she weighs too much. We then use principles from psychology and behavioral economics to devise a program to help people save more.</p>
+  </blockquote>
+  <p>I suspect a similar story can be told about our slide to defaulting that free speech is bad, that the status quo should be the priority, and that perfect is preferable to good. These are mistakes, even as they are understandable. After all, misinformation is a bad thing, change is uncertain, and no one wants to be the one that screwed up. Everyone has good intentions; the mistake is in valuing intentions over outcomes.</p>
+  <p>To that end, the point of this article was not really to discuss the coronavirus or vaccinations: with regards to the latter, there is more to praise than to criticize, and I freely admit I am not an expert about either. And yet, that isn’t a reason to settle, or to not examine our defaults: why can’t we accomplish other big projects in a year? What else can we build with so much broad benefit so quickly? And critically, what can we change about our psychology and behavior to make that happen? New defaults are the best place to start.</p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2021-01-12</time>
+        <a href="https://nodebe4.github.io/opinion/2021-01-12/Internet-3.0-and-the-Beginning-of-(Tech)-History/">
+          Internet 3.0 and the Beginning of (Tech) History
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-01-07</time>
+        <a href="https://nodebe4.github.io/opinion/2021-01-07/Trump-and-Twitter/">
+          Trump and Twitter
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-12-22</time>
+        <a href="https://nodebe4.github.io/opinion/2020-12-22/The-2020-Stratechery-Year-in-Review/">
+          The 2020 Stratechery Year in Review
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-12-15</time>
+        <a href="https://nodebe4.github.io/opinion/2020-12-15/Social-Networking-2.0/">
+          Social Networking 2.0
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2021-01-04/619-%E5%86%AF%E5%B4%87%E4%B9%89-%E7%A0%B4%E8%A7%A3%E5%BD%93%E4%B8%8B%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%9E%81%E6%9D%83%E4%B8%BB%E4%B9%89%E5%9B%9E%E6%BD%AE/">
+            前一篇：619 冯崇义：破解当下中国的极权主义回潮
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2021-01-05/%E5%B7%9D%E6%99%AE%E6%9C%89%E5%92%A9%E5%BF%85%E5%8B%9D%E6%AE%BA%E6%89%8B%E9%90%A7-%E5%9C%8B%E8%AA%9E-%E5%AE%97%E5%BB%B6%E6%82%85%E8%AA%9E-0007-20210105/">
+            後一篇：川普有咩必勝殺手鐧 （國語）｜宗延悅語【0007】20210105
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2021-01-04/619-%E5%86%AF%E5%B4%87%E4%B9%89-%E7%A0%B4%E8%A7%A3%E5%BD%93%E4%B8%8B%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%9E%81%E6%9D%83%E4%B8%BB%E4%B9%89%E5%9B%9E%E6%BD%AE/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2021-01-05/%E5%B7%9D%E6%99%AE%E6%9C%89%E5%92%A9%E5%BF%85%E5%8B%9D%E6%AE%BA%E6%89%8B%E9%90%A7-%E5%9C%8B%E8%AA%9E-%E5%AE%97%E5%BB%B6%E6%82%85%E8%AA%9E-0007-20210105/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2021-01-07/Trump-and-Twitter/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2020-12-22/The-2020-Stratechery-Year-in-Review/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2021-01-04/619-%E5%86%AF%E5%B4%87%E4%B9%89-%E7%A0%B4%E8%A7%A3%E5%BD%93%E4%B8%8B%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%9E%81%E6%9D%83%E4%B8%BB%E4%B9%89%E5%9B%9E%E6%BD%AE/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2021-01-05/%E5%B7%9D%E6%99%AE%E6%9C%89%E5%92%A9%E5%BF%85%E5%8B%9D%E6%AE%BA%E6%89%8B%E9%90%A7-%E5%9C%8B%E8%AA%9E-%E5%AE%97%E5%BB%B6%E6%82%85%E8%AA%9E-0007-20210105/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2021-01-07/Trump-and-Twitter/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2020-12-22/The-2020-Stratechery-Year-in-Review/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

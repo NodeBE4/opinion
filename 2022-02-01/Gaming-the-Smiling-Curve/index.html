@@ -1,0 +1,2990 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Gaming the Smiling Curve – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+Gaming the Smiling Curve
+——
+" />
+    <meta property="og:description" content="
+Gaming the Smiling Curve
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Gaming the Smiling Curve" />
+    <meta property="twitter:title" content="Gaming the Smiling Curve" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2022%2Fgaming-the-smiling-curve%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2022/gaming-the-smiling-curve/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2022/gaming-the-smiling-curve/&text=Gaming the Smiling Curve&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2022/gaming-the-smiling-curve/&title=Gaming the Smiling Curve" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2022/gaming-the-smiling-curve/&title=Gaming the Smiling Curve" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Gaming the Smiling Curve&body=
+Gaming the Smiling Curve
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2022/gaming-the-smiling-curve/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2022/gaming-the-smiling-curve/&title=Gaming the Smiling Curve&caption=
+Gaming the Smiling Curve
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Gaming the Smiling Curve&url=https://stratechery.com/2022/gaming-the-smiling-curve/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Gaming the Smiling Curve</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-02-01
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2022/gaming-the-smiling-curve/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1643719553000-->
+<p><a href="https://stratechery.com/2022/gaming-the-smiling-curve/">Gaming the Smiling Curve</a>
+——</p>
+
+<div>
+  <p>Another week, another gaming acquisition. First <a href="https://stratechery.com/2022/take-two-acquires-zynga-the-new-york-times-buys-the-athletic/">Take-Two acquired Zynga</a>, then <a href="https://stratechery.com/2022/microsoft-acquires-activision-blizzard-notes-on-the-acquisition-an-interview-with-microsoft-gaming-ceo-phil-spencer/">Microsoft acquired Activision-Blizzard</a>, and now <a href="https://www.bloomberg.com/news/articles/2022-01-31/sony-buys-destiny-developer-bungie-for-3-6-billion">Sony just announced the acquisition of Bungie</a>.<sup id="rf1-8394"><a href="https://stratechery.com/2022/gaming-the-smiling-curve/#fn1-8394" title="I will save the Wordle acquisition for another day!" rel="footnote">1</a></sup> Each of these acquisitions is interesting in their own right, but taken as a set they paint a picture of industry evolution that extends far beyond gaming.</p>
+  <h4 id="take-two-and-mobile-consolidation">Take Two and Mobile Consolidation</h4>
+  <p>The straightforward explanation for Take Two’s acquisition of Zeynga is the fact that mobile captures more than 50% of gaming industry revenue <em>and</em> it is growing much faster (7% last year) than PC and console gaming (the gaming industry grew 1.4% as a whole); that is a problem for Take Two given that nearly all of the company’s revenue comes from PC and console series like <em>Grand Theft Auto</em>, <em>NBA 2K</em>, <em>Red Dead</em>, <em>Bordlerlands</em>, and more.</p>
+  <p>Zynga, meanwhile, was among the least prepared of the major mobile gaming companies for the changes wrought by Apple’s App Tracking Transparency (ATT) policy, which was introduced with iOS 14 and rolled out over the first half of 2021. In the pre-ATT world everyone from e-commerce sellers to app developers could effectively offload the collection and analysis of conversion data and subsequent targeting of advertising to Facebook, to the benefit of everyone involved: individual developers and retailers did not need to bear the risk or expense of collecting and analyzing data, and could instead collectively outsource that job to the Facebook <a href="https://stratechery.com/2018/data-factories/">data factory</a>, which had the benefit of making Facebook advertising that much more effective, not only to the benefit of Facebook’s bottom line but also to that of those that relied on its advertising platform.</p>
+  <p>ATT, meanwhile, didn’t ban data collection or analysis or targeting or any of the other aspects of advertising that many of its supporters object to; what it targeted was doing so collectively. That means that the policy has been a huge boon for fully integrated advertisers (i.e. advertisers that collect data, target, and show advertisements) like Google and Amazon. In this world the natural response has been consolidation; compare Zynga’s stock price over the last year to a company <a href="https://stratechery.com/2021/interoperability-defined-applovin-files-s-1-the-facebook-shopify-value-chain/">like AppLovin</a> which was ahead of the curve in buying up multiple parts of the ad stack and combining them with its own titles to maximize the value of first party data:</p>
+  <p><img src="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/02/gamingsmilingcurve-1.png?resize=640%2C248&#038;ssl=1" alt="Zynga versus AppLovin stock performance over the last year" width="640" height="248" class="aligncenter size-large wp-image-8395" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/02/gamingsmilingcurve-1.png?resize=1024%2C397&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/02/gamingsmilingcurve-1.png?resize=300%2C116&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/02/gamingsmilingcurve-1.png?resize=768%2C298&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/02/gamingsmilingcurve-1.png?resize=1200%2C465&amp;ssl=1 1200w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/02/gamingsmilingcurve-1.png?w=1280&amp;ssl=1 1280w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>AppLovin is down a bit with the general market drawdown, but it’s not an accident the company increased in price last fall while Zynga plummeted (the stock is up from its depths because of the not-yet-closed acquisition): one of <a href="https://mobiledevmemo.com/how-zynga-executed-its-stunning-turnaround/">the keys to Zynga’s turnaround</a> was buying small independent studios and letting them stay independent; that’s no longer a viable approach in a post-ATT world, and Take Two will have to centralize Zynga and only then leverage Zynga’s expertise to bring its valuable IP to mobile platforms in a much more complete way than it has previously.</p>
+  <h4 id="microsoft-and-xbox-game-pass">Microsoft and Xbox Game Pass</h4>
+  <p>Take Two wasn’t the only company taking advantage of a company with a plummeting stock price; Microsoft did the same with Activision Blizzard:</p>
+  <p><img loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/02/gamingsmilingcurve-2.png?resize=640%2C248&#038;ssl=1" alt="Activision&#039;s stock price over the last year" width="640" height="248" class="aligncenter size-large wp-image-8396" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/02/gamingsmilingcurve-2.png?resize=1024%2C397&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/02/gamingsmilingcurve-2.png?resize=300%2C116&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/02/gamingsmilingcurve-2.png?resize=768%2C298&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/02/gamingsmilingcurve-2.png?resize=1200%2C465&amp;ssl=1 1200w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/02/gamingsmilingcurve-2.png?w=1280&amp;ssl=1 1280w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>Activision Blizzard does own King Digital, which still provides over $2 billion in revenue from <em>Candy Crush</em> and its various spin-offs, but in this case the stock price decline was primarily due to <a href="https://news.bloomberglaw.com/daily-labor-report/activision-blizzard-sued-by-california-over-frat-boy-culture">major issues regarding Activision Blizzard’s internal culture, including a lawsuit by the state of California</a>. Microsoft, though, was well positioned to take advantage of Activision Blizzard’s troubles thanks to Xbox Game Pass.</p>
+  <p>Whenever a major platform acquires a developer on that platform, the first question users ask is if the platform owner will make the developer’s content exclusive. It’s an obvious question — why else would the platform owner buy it, given that they can still collect revenue from the developer, both directly via platform fees and indirectly via licensing fees? — but the answer is not always straightforward, thanks to the nature of software.</p>
+  <p>Software, including games, entails a massive investment in upfront development costs. You have to build (or license and adapt to) a game engine, write and build out the story, draw and develop the assets, etc. All of this is work that is both expensive and also only needs to be done once; it follows, then, that it is in the software developer’s economic interest to make the game available as widely as possible; after all, every additional copy of a game has zero marginal costs, which means that every additional copy of a game sold provides nothing but leverage on those fixed costs, and, once covered, pure profit (that noted, there are significant costs associated with supporting multiple platforms — I have seen estimates around 25~40% of extra costs, depending on the game — so going exclusive is not an entirely deadweight cost).</p>
+  <p>This makes the math around developer acquisitions a bit tricky for platform acquirers: to buy a gaming studio in order to make its games exclusive to the platform entails destroying a significant part of the game studio’s economic value; after all, you are acquiring a property like <em>Call of Duty</em> based on the revenue it grosses from PC, Xbox, and PlayStation — cutting off the latter means you overpaid. This is why it is not a surprise that Microsoft has already committed to keeping Activision Blizzard’s and <a href="https://stratechery.com/2020/microsoft-and-zenimax-microsoft-ignite-microsoft-and-covid/">ZeniMax’s</a> most popular cross-platform games on PlayStation.</p>
+  <p>What makes Microsoft’s acquisition spree particularly compelling, though, is that Microsoft is trying to create a new business model for gaming: for $15/month you can play all of the games Microsoft owns, and those of any third-party developer who wishes to join up, on any platform that supports them. This includes not only the Xbox console and Windows PCs,<sup id="rf2-8394"><a href="https://stratechery.com/2022/gaming-the-smiling-curve/#fn2-8394" title="Each of which have standalone $10/month plans" rel="footnote">2</a></sup> but also the nascent Xbox streaming service, which makes console-level games available on mobile and PC and, soon enough, smart TVs or a potential Xbox streaming stick. This is a business model that not only makes sense given the evolution of technology towards cloud-centric services, but is also <a href="https://stratechery.com/2017/microsofts-monopoly-hangover/">in-line with Microsoft’s core competency and fundamental nature</a>.</p>
+  <p>More importantly, at least in the context of this Article, is the freedom of movement this gives Microsoft when it comes to acquisitions: all of ZeniMax’s titles, and many of Activision Blizzard’s titles in the future, are still available on PlayStation and Steam as individual purchases; if that is how you want to pay then Microsoft will accept your money, and avoid the loss of cutting you off. All of those games, though, are also available on Xbox Game Pass, because Microsoft is betting that many gamers will realize it’s a pretty good deal, even as it aligns with the company’s corporate goals of creating lifelong customers paying via subscription.</p>
+  <h4 id="sony-and-exclusives">Sony and Exclusives</h4>
+  <p>Major deals like Sony’s acquisition of Bungie, the once-makers of Halo (while owned by Microsoft) and current developers of Destiny (for which they negotiated their freedom), obviously don’t come together in two weeks. It’s tempting, though, to view it as defensive: if Microsoft were to withdraw a property like the afore-mentioned <em>Call of Duty</em>, well, Sony can always take away <em>Destiny.</em></p>
+  <p>The truth, though, is that this is simply the most visible of a long-line of acquisitions, going back two decades to Sony’s 2001 acquisition of Naughty Dog, of studios that make content for consoles that is worth switching over. Naughty Dog has made <em>Crash Bandicoot</em>, <em>Uncharted</em>, and <em>The Last of Us</em>; Incognito made the <em>Twisted Metal</em> series; Guerrilla Games made the <em>Killzone</em> and <em>Horizon</em> series; Sucker Punch made <em>Sly Cooper</em>, <em>Infamous</em>, and the <em>Ghost of Tsushima</em>; Insomniac made <em>Ratchet and Clank</em> and <em>Spider-Man</em>; Bluepoint Games made <em>Shadow of the Colossus</em> and <em>Demon’s Souls</em>; all were PlayStation exclusives, credited with Sony’s dominance over the last two console generations.</p>
+  <p>Sony, rather than chasing Microsoft, appears set for a more Nintendo-like trajectory: customers will buy their consoles because they have exclusive games that you can’t get anywhere else; unlike Nintendo, Sony consoles are on the cutting edge technologically, which means that the remaining 3rd-party publishers like EA will continue to support them. Sure, Microsoft has a good subscription, but Sony has games you can’t get anywhere else (and, <a href="https://www.bloomberg.com/news/articles/2021-12-03/playstation-plans-new-service-to-take-on-xbox-game-pass">rumors suggest</a>, a new subscription service of its own, although it may not have the best titles available immediately, which makes sense given Sony’s strategy).</p>
+  <p>That is why I expect Bungie to continue to support <em>Destiny</em> across multiple platforms (PlayStation, Xbox, and PC), while new content beyond the upcoming <em>Witch Queen</em> expansion is probably going to come out on PlayStation first; whatever title lies beyond that, meanwhile, has a good chance of being PlayStation only (if you haven’t spent the money on supporting multiple platforms, it is an easier choice to be an exclusive).</p>
+  <h4 id="gaming-and-the-smiling-curve">Gaming and the Smiling Curve</h4>
+  <p>The Smiling Curve, as I first explained in <a href="https://stratechery.com/2014/publishers-smiling-curve/">this 2014 Article</a>, was a concept created by Acer founder Stan Shih to explain where the profits were in technological manufacturing; from <a href="http://en.wikipedia.org/wiki/Smiling_curve">Wikipedia</a>:</p>
+  <blockquote>
+    <p>A smiling curve is an illustration of value-adding potentials of different components of the value chain in an IT-related manufacturing industry…According to Shih’s observation, in the personal computer industry, both ends of the value chain command higher values added to the product than the middle part of the value chain. If this phenomenon is presented in a graph with a Y-axis for value-added and an X-axis for value chain (stage of production), the resulting curve appears like a “smile”.</p>
+    <p><a href="http://en.wikipedia.org/wiki/Smiling_curve"><img loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2014/10/Screenshot-2014-10-29-at-2.png?resize=640%2C496&#038;ssl=1" alt="" width="640" height="496" class="aligncenter size-full wp-image-1214" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2014/10/Screenshot-2014-10-29-at-2.png?w=963&amp;ssl=1 963w, https://i0.wp.com/stratechery.com/wp-content/uploads/2014/10/Screenshot-2014-10-29-at-2.png?resize=300%2C233&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2014/10/Screenshot-2014-10-29-at-2.png?resize=768%2C596&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2014/10/Screenshot-2014-10-29-at-2.png?resize=812%2C630&amp;ssl=1 812w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></a></p>
+  </blockquote>
+  <p>I argued at the time that this framework was applicable to the publishing industry:</p>
+  <blockquote>
+    <p>When people follow a link on Facebook (or Google or Twitter or even in an email), the page view that results is not generated because the viewer has any particular affinity for the publication that is hosting the link, and it is uncertain at best whether or not their affinity will increase once they’ve read the article. If anything, the reader is likely to ascribe any positive feelings to the author, perhaps taking a peek at their archives or Twitter feed.</p>
+    <p>Over time, as this cycle repeats itself and as people grow increasingly accustomed to getting most of their “news” from Facebook (or Google or Twitter), value moves to the ends, just like it did in the IT manufacturing industry or smartphone industry:</p>
+    <p><a href="https://stratechery.com/2014/publishers-smiling-curve/"><img loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2020/08/smilingcurve-1.png?resize=640%2C449&#038;ssl=1" alt="The Publishing Smiling Curve" width="640" height="449" class="aligncenter size-large wp-image-5164" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2020/08/smilingcurve-1.png?resize=1024%2C718&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2020/08/smilingcurve-1.png?resize=300%2C210&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2020/08/smilingcurve-1.png?resize=768%2C538&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2020/08/smilingcurve-1.png?resize=899%2C630&amp;ssl=1 899w, https://i0.wp.com/stratechery.com/wp-content/uploads/2020/08/smilingcurve-1.png?w=1280&amp;ssl=1 1280w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></a></p>
+  </blockquote>
+  <p>I think this framework is also the best way to think about all of these acquisitions. To generalize the concept, the top right of the curve are companies that have a direction connection with customers, including the <a href="https://stratechery.com/2015/aggregation-theory/">Aggregators</a>; the top left are highly differentiated content makers:</p>
+  <p><img loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/02/gamingsmilingcurve-3.png?resize=640%2C424&#038;ssl=1" alt="The Smiling Curve in gaming" width="640" height="424" class="aligncenter size-large wp-image-8397" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/02/gamingsmilingcurve-3.png?resize=1024%2C679&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/02/gamingsmilingcurve-3.png?resize=300%2C199&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/02/gamingsmilingcurve-3.png?resize=768%2C509&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/02/gamingsmilingcurve-3.png?resize=950%2C630&amp;ssl=1 950w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/02/gamingsmilingcurve-3.png?w=1280&amp;ssl=1 1280w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>When it comes to mobile gaming, the dominant Aggregators on the top right side of the curve are Apple and Google and their respective App Stores; the most cynical interpretation of ATT is that Facebook was superseding both to become the most important way in which people discovered apps, and Apple, thanks to its <a href="https://stratechery.com/2020/apple-epic-and-the-app-store/">OS-level control</a>, cut them off at the knees, pushing Facebook down to the middle. The response from content makers, then, has been to consolidate and increase the leverage that comes from differentiated content.</p>
+  <p>Xbox Game Pass, meanwhile, is an attempt to build a position as an Aggregator; the initiative will be successful to the extent that gamers play games because they are in Game Pass, and increasingly shun games that have to be purchased individually (incentivizing holdouts to join Microsoft’s subscription). Microsoft is kick-starting this effort by buying its own differentiated content and overlaying their long-term incentives over any individual game studio’s incentives to maximize their short-term revenue by selling a game individually.</p>
+  <p>Sony is pursuing a similar strategy, but with a different business model: whereas Microsoft is increasingly device-agnostic (of course it helps that they sell both Xbox consoles and Windows), Sony is doubling down on the integration of hardware and software. Their best content is designed to not only make money in its own right but to also persuade customers to buy PlayStation consoles; the more PlayStation consoles there are the more attractive the platform is to 3rd-party developers.</p>
+  <p>What is much less viable is anything in the middle. The original PlayStation was almost completely dependent on 3rd-party games, relying on technical superiority to build its user base and attract developers; that approach reached its limit with the relative disappointment that was the PlayStation 3, and Sony has been focused on exclusives ever since. Content developers like Zynga, meanwhile, can’t depend on companies in the middle either: Apple’s rules have ensured that anyone who is not an Aggregator has to figure out how to make money on their own. There is still a market for 3rd-party developers on consoles and PCs — Steam is a major Aggregator on the latter, challenged by not just Microsoft but also Epic, who all are competing for the best developers — but it is increasingly important that content be highly differentiated and costs tightly contained.</p>
+  <h4 id="the-upside-of-acquisitions">The Upside of Acquisitions</h4>
+  <p>There are a lot of seemingly scary implications in this analysis, including concepts like exclusives, lock-in, and the sense that the big are getting bigger. I think there is a strong argument, though, that the overall impact on consumers is on balance a positive one. Gaming, to a much greater extent than many other industries, is a zero sum game: time spent playing one title is time not spent playing another one. Moreover, the total cost of ownership for any particular gaming platform, relative to the time spent playing games, is a very favorable one. With regards to the latter point, the price of having access to everything is not an overwhelming one; with regards to the former the incentives to make a game that is truly exceptional, and thus truly differentiated, are higher than ever.</p>
+  <p>Phil Spencer, CEO of Microsoft Gaming, made an argument along these lines when I challenged him in a <a href="https://stratechery.com/2022/microsoft-acquires-activision-blizzard-notes-on-the-acquisition-an-interview-with-microsoft-gaming-ceo-phil-spencer/">Stratechery interview</a> about a potential loss of competition entailed in the company’s Activision Blizzard acquisition:</p>
+  <blockquote>
+    <p><strong>Phil Spencer:</strong> Ah. I mean, that’s maybe where we’ll differ in opinion. Some of this just comes down to the teams that become part of our team and our cultural journey with them that starts long ago. This will sound a little bit like a kind of gaming person, but I’ll say the thing that I have found that drives the teams internally to our organization is they want to do things they’ve never been able to do before. They want to reach more players of their creations than they’ve ever been able to create before. And I might argue the opposite, that the churn of “I need another holiday release next year” and then the year after and then the year after can be more stifle on creativity than the freedom that we’re able to give that says, “It’s not about one business model that works for us, it’s actually about multiple business models. It’s not about one screen that people will consume your game on. You pick the screen that’s right for you. And the input, if you want keyboard or mouse, you want touch, you want controller, you pick. You pick the subject matter that you want to work on.”</p>
+    <p>And frankly, when I look at the portfolio of games that we’ve been shipped over the last two or three years and some of the subject matter that our creators have decided to tackle, not always in the thinnest definition of what’s marketable at that time, I think those innovations and that kind of risk taking comes from having amazing teams that are thinking about what’s possible or even what’s not possible and how our tools and distribution can help them in creating things that they’ve never been able to create before. That’s what I feel.</p>
+    <p>Today, what I did after we announced this morning is I got to sit down with our studio leaders. The amount of energy they had for learning from other teams, because creators can get isolated because they’re so focused on the thing they’re doing right now. Now we get to sit there at the broadest level and have discussions about what people are thinking about, whether they’re challenging each other with sharing the learning that they have, what they aspire to go do. The energy in the room was awesome, it was a virtual room in a Teams call, but it was still awesome. I would say that that freedom to innovate, to try new things, because it’s not just down to one business model or one screen or even one device that somebody might buy is the thing that I found is most liberating for the teams here.</p>
+    <p><strong>Of course that’s the answer I would expect.</strong></p>
+    <p><strong>PS:</strong> (laughing)</p>
+    <p><strong>I think that one of the early questions about this deal is basically — the big company doesn’t think competition is particularly useful or valuable. “We want to give people freedom to explore.”</strong></p>
+    <p><strong>PS:</strong> Well, let me hit on that one. Sorry, I didn’t mean to interrupt, but let me hit on competition really quick, because I see competition as a little bit different. There’s a ton of competition in the games business. If I rewind 30 years ago, the video game business was dictated by who had shelf space at Egghead because there was such a constriction on distribution and funding and marketing of games that the portfolio of games I could choose from was so limited. I love the fact that when I look at the top 10 games that are being played, how many come from traditional places versus how many now are coming from creators that didn’t even exist 10 years ago. I love that there’s that creative turnover or just the diversity in where great games come from.</p>
+    <p>And then when I think about the platform side, the largest platforms for playing games or mobile devices, distribution on those devices are controlled by two companies. So for us, it’s how do we go invest in content and community so that we can actually have our distribution through our own content engagement that we have because the competition is out there and it’s so strong? I think the competition you talk about between individual teams and the competition to make the next paycheck, I understand maybe that’s motivating to certain teams, I’ve just found with our teams that they do much better work when our motivation is more about how many customers can we reach.</p>
+  </blockquote>
+  <p>Forgive the extended excerpt, but I think this is essential, particularly the second part: so much of our thinking about competition is rooted in the analog world, a world of scarcity where there really was limited shelf space or limited telephone lines or limited railroad access; that just isn’t the case on the Internet, where anyone has access to everyone. This has dramatically increased the power of creators, who can not only go direct, but also plays Aggregators off against each other — that is the realm of competition that matters. If we must accept a world where platforms like the App Store have total power within their domain, then the answer is to build up alternative Aggregators that have compelling content of their own, waging a proper fight for the only scarce resource there is on the Internet: time.</p>
+  <hr class="footnotes" />
+  <ol class="footnotes" style="list-style-type:decimal">
+    <li id="fn1-8394">
+      <p>I will save the Wordle acquisition for another day! <a href="https://stratechery.com/2022/gaming-the-smiling-curve/#rf1-8394" class="backlink" title="Return to footnote 1.">↩</a></p>
+    </li>
+    <li id="fn2-8394">
+      <p>Each of which have standalone $10/month plans <a href="https://stratechery.com/2022/gaming-the-smiling-curve/#rf2-8394" class="backlink" title="Return to footnote 2.">↩</a></p>
+    </li>
+  </ol>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2022-02-22</time>
+        <a href="https://nodebe4.github.io/opinion/2022-02-22/Shopify-s-Evolution/">
+          Shopify’s Evolution
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-02-08</time>
+        <a href="https://nodebe4.github.io/opinion/2022-02-08/Digital-Advertising-in-2022/">
+          Digital Advertising in 2022
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-01-18</time>
+        <a href="https://nodebe4.github.io/opinion/2022-01-18/The-Intel-Split/">
+          The Intel Split
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-01-05</time>
+        <a href="https://nodebe4.github.io/opinion/2022-01-05/OpenSea,-Web3,-and-Aggregation-Theory/">
+          OpenSea, Web3, and Aggregation Theory
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-02-01/707-%E9%BB%91%E6%9A%97%E6%97%A0%E8%BE%B9-%E4%BB%85%E5%89%A9%E7%9A%84%E4%B8%80%E4%B8%9D%E7%9C%9F%E5%AE%9E%E5%92%8C%E4%BA%AE%E5%85%89-%E7%BB%9D%E5%AF%B9%E4%B8%8D%E8%83%BD%E6%8B%B1%E6%89%8B%E7%9B%B8%E8%AE%A9-404%E6%A1%A3%E6%A1%88%E9%A6%86/">
+            前一篇：707 黑暗无边，仅剩的一丝真实和亮光，绝对不能拱手相让|404档案馆
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-02-02/%E5%88%80%E4%B8%8B%E7%9A%84%E9%A6%99%E6%B8%AF%E4%BA%BA-%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E8%89%BA%E6%9C%AF%E5%AE%B6%E6%9D%8E%E8%BF%AA%E6%9D%83/">
+            後一篇：刀下的香港人 马来西亚艺术家李迪权
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-02-01/707-%E9%BB%91%E6%9A%97%E6%97%A0%E8%BE%B9-%E4%BB%85%E5%89%A9%E7%9A%84%E4%B8%80%E4%B8%9D%E7%9C%9F%E5%AE%9E%E5%92%8C%E4%BA%AE%E5%85%89-%E7%BB%9D%E5%AF%B9%E4%B8%8D%E8%83%BD%E6%8B%B1%E6%89%8B%E7%9B%B8%E8%AE%A9-404%E6%A1%A3%E6%A1%88%E9%A6%86/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-02-02/%E5%88%80%E4%B8%8B%E7%9A%84%E9%A6%99%E6%B8%AF%E4%BA%BA-%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E8%89%BA%E6%9C%AF%E5%AE%B6%E6%9D%8E%E8%BF%AA%E6%9D%83/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-02-08/Digital-Advertising-in-2022/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-01-18/The-Intel-Split/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-02-01/707-%E9%BB%91%E6%9A%97%E6%97%A0%E8%BE%B9-%E4%BB%85%E5%89%A9%E7%9A%84%E4%B8%80%E4%B8%9D%E7%9C%9F%E5%AE%9E%E5%92%8C%E4%BA%AE%E5%85%89-%E7%BB%9D%E5%AF%B9%E4%B8%8D%E8%83%BD%E6%8B%B1%E6%89%8B%E7%9B%B8%E8%AE%A9-404%E6%A1%A3%E6%A1%88%E9%A6%86/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-02-02/%E5%88%80%E4%B8%8B%E7%9A%84%E9%A6%99%E6%B8%AF%E4%BA%BA-%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E8%89%BA%E6%9C%AF%E5%AE%B6%E6%9D%8E%E8%BF%AA%E6%9D%83/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-02-08/Digital-Advertising-in-2022/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-01-18/The-Intel-Split/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

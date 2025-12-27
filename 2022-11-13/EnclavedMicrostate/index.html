@@ -1,0 +1,2366 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>EnclavedMicrostate在2022-11-07~2022-11-13的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="EnclavedMicrostate在2022-11-07~2022-11-13的言论" />
+    <meta property="twitter:title" content="EnclavedMicrostate在2022-11-07~2022-11-13的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2Fvictoria3%2Fcomments%2Fynvirn%2Fvoter_fraud_in_action_the_nazi_party_is_projected%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/victoria3/comments/ynvirn/voter_fraud_in_action_the_nazi_party_is_projected/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/victoria3/comments/ynvirn/voter_fraud_in_action_the_nazi_party_is_projected/&text=EnclavedMicrostate在2022-11-07~2022-11-13的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/victoria3/comments/ynvirn/voter_fraud_in_action_the_nazi_party_is_projected/&title=EnclavedMicrostate在2022-11-07~2022-11-13的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/victoria3/comments/ynvirn/voter_fraud_in_action_the_nazi_party_is_projected/&title=EnclavedMicrostate在2022-11-07~2022-11-13的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=EnclavedMicrostate在2022-11-07~2022-11-13的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/victoria3/comments/ynvirn/voter_fraud_in_action_the_nazi_party_is_projected/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/victoria3/comments/ynvirn/voter_fraud_in_action_the_nazi_party_is_projected/&title=EnclavedMicrostate在2022-11-07~2022-11-13的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=EnclavedMicrostate在2022-11-07~2022-11-13的言论&url=https://old.reddit.com/r/victoria3/comments/ynvirn/voter_fraud_in_action_the_nazi_party_is_projected/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>EnclavedMicrostate在2022-11-07~2022-11-13的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-11-13
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: EnclavedMicrostate</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/victoria3/comments/ynvirn/voter_fraud_in_action_the_nazi_party_is_projected/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#914-voter-fraud-in-action-the-nazi-party-is-projected-to-get-192-million-votes-from-554-million-voters-while-the-big-tent-party-of-five-interest-groups-gets-none-at-all-submitted-on-2022-11-07-0051280800" id="markdown-toc-914-voter-fraud-in-action-the-nazi-party-is-projected-to-get-192-million-votes-from-554-million-voters-while-the-big-tent-party-of-five-interest-groups-gets-none-at-all-submitted-on-2022-11-07-0051280800">914: Voter fraud in action: The Nazi Party is projected to get 192 million votes from 55.4 million voters, while the big-tent party of five Interest Groups gets none at all., submitted on 2022-11-07 00:51:28+08:00.</a></li>
+  <li><a href="#915-scatterbrained-simp-supervisors---weekly-discussion-thread-november-8th-2022-submitted-on-2022-11-08-1040090800" id="markdown-toc-915-scatterbrained-simp-supervisors---weekly-discussion-thread-november-8th-2022-submitted-on-2022-11-08-1040090800">915: Scatterbrained Simp Supervisors - Weekly Discussion Thread, November 8th, 2022, submitted on 2022-11-08 10:40:09+08:00.</a></li>
+  <li><a href="#916-is-it-true-there-were-dead-bodies-of-workerssoldiers-within-the-great-wall-of-china-during-construction-submitted-on-2022-11-09-0144530800" id="markdown-toc-916-is-it-true-there-were-dead-bodies-of-workerssoldiers-within-the-great-wall-of-china-during-construction-submitted-on-2022-11-09-0144530800">916: Is it true there were dead bodies of workers/soldiers within the Great Wall of China during construction?, submitted on 2022-11-09 01:44:53+08:00.</a></li>
+  <li><a href="#917-what-did-pitched-combat-during-the-taiping-rebellion-look-like-how-would-it-compare-to-the-pitched-battles-of-europethe-american-civil-war-around-the-same-time-submitted-on-2022-11-09-0936480800" id="markdown-toc-917-what-did-pitched-combat-during-the-taiping-rebellion-look-like-how-would-it-compare-to-the-pitched-battles-of-europethe-american-civil-war-around-the-same-time-submitted-on-2022-11-09-0936480800">917: What did pitched combat during the Taiping rebellion look like? How would it compare to the pitched battles of Europe/the American Civil war around the same time?, submitted on 2022-11-09 09:36:48+08:00.</a></li>
+  <li><a href="#918-east-asia---ad-1802---wip---4983x6637-oc-submitted-on-2022-11-09-2359070800" id="markdown-toc-918-east-asia---ad-1802---wip---4983x6637-oc-submitted-on-2022-11-09-2359070800">918: East Asia - AD 1802 - WIP - [4983x6637] [OC], submitted on 2022-11-09 23:59:07+08:00.</a></li>
+  <li><a href="#919-got-a-certain-character-in-my-qing-run-submitted-on-2022-11-10-0607250800" id="markdown-toc-919-got-a-certain-character-in-my-qing-run-submitted-on-2022-11-10-0607250800">919: Got a certain character in my qing run, submitted on 2022-11-10 06:07:25+08:00.</a></li>
+  <li><a href="#920-are-there-any-theories-on-why-the-ancient-chinese-did-not-adopt-an-alphabetic-writing-system-submitted-on-2022-11-11-2316540800" id="markdown-toc-920-are-there-any-theories-on-why-the-ancient-chinese-did-not-adopt-an-alphabetic-writing-system-submitted-on-2022-11-11-2316540800">920: Are there any theories on why the ancient Chinese did not adopt an alphabetic writing system?, submitted on 2022-11-11 23:16:54+08:00.</a></li>
+  <li><a href="#921-if-alexander-the-great-slept-with-a-copy-of-the-iliad-under-his-pillow-as-according-to-legend-what-would-be-the-physical-form-of-his-copy---one-compact-scroll-a-pile-of-scrolls-something-else-entirely-submitted-on-2022-11-12-0813270800" id="markdown-toc-921-if-alexander-the-great-slept-with-a-copy-of-the-iliad-under-his-pillow-as-according-to-legend-what-would-be-the-physical-form-of-his-copy---one-compact-scroll-a-pile-of-scrolls-something-else-entirely-submitted-on-2022-11-12-0813270800">921: If Alexander the Great slept with a copy of the Iliad under his pillow, as according to legend, what would be the physical form of his copy - one compact scroll, a pile of scrolls, something else entirely?, submitted on 2022-11-12 08:13:27+08:00.</a></li>
+  <li><a href="#922-inexplicable-reserve-battalions--why-do-my-generals-not-command-up-to-their-capacity-submitted-on-2022-11-12-1757080800" id="markdown-toc-922-inexplicable-reserve-battalions--why-do-my-generals-not-command-up-to-their-capacity-submitted-on-2022-11-12-1757080800">922: Inexplicable reserve battalions – why do my generals not command up to their capacity?, submitted on 2022-11-12 17:57:08+08:00.</a></li>
+  <li><a href="#923-it-is-well-known-that-aristotle-one-of-the-greatest-philosophers-of-all-time-was-the-private-tutor-of-alexander-the-great-one-of-the-greatest-conquerors-of-all-time-this-relationship-seems-like-it-could-be-scripted-out-of-a-hollywood-movie-how-do-we-know-this-to-be-true-submitted-on-2022-11-13-0116100800" id="markdown-toc-923-it-is-well-known-that-aristotle-one-of-the-greatest-philosophers-of-all-time-was-the-private-tutor-of-alexander-the-great-one-of-the-greatest-conquerors-of-all-time-this-relationship-seems-like-it-could-be-scripted-out-of-a-hollywood-movie-how-do-we-know-this-to-be-true-submitted-on-2022-11-13-0116100800">923: It is well known that Aristotle, one of the greatest philosophers of all time, was the private tutor of Alexander the Great, one of the greatest conquerors of all time. This relationship seems like it could be scripted out of a Hollywood movie. How do we know this to be true?, submitted on 2022-11-13 01:16:10+08:00.</a></li>
+  <li><a href="#924-why-was-the-taiping-rebellion-a-heavenly-kingdom-instead-of-a-celestial-empire-why-did-it-seem-to-reject-traditional-naming-conventions-for-chinese-dynasties-submitted-on-2022-11-13-1531070800" id="markdown-toc-924-why-was-the-taiping-rebellion-a-heavenly-kingdom-instead-of-a-celestial-empire-why-did-it-seem-to-reject-traditional-naming-conventions-for-chinese-dynasties-submitted-on-2022-11-13-1531070800">924: Why was the Taiping rebellion a “heavenly kingdom” instead of a “celestial empire?” Why did it seem to reject traditional naming conventions for Chinese dynasties?, submitted on 2022-11-13 15:31:07+08:00.</a></li>
+  <li><a href="#925-hobby-scuffles-week-of-november-14-2022-submitted-on-2022-11-13-2300170800" id="markdown-toc-925-hobby-scuffles-week-of-november-14-2022-submitted-on-2022-11-13-2300170800">925: [Hobby Scuffles] Week of November 14, 2022, submitted on 2022-11-13 23:00:17+08:00.</a></li>
+</ul>
+
+<h3 id="914-voter-fraud-in-action-the-nazi-party-is-projected-to-get-192-million-votes-from-554-million-voters-while-the-big-tent-party-of-five-interest-groups-gets-none-at-all-submitted-on-2022-11-07-0051280800">914: <a href="https://old.reddit.com/r/victoria3/comments/ynvirn/voter_fraud_in_action_the_nazi_party_is_projected/">Voter fraud in action: The Nazi Party is projected to get 192 million votes from 55.4 million voters, while the big-tent party of five Interest Groups gets none at all.</a>, submitted on 2022-11-07 00:51:28+08:00.</h3>
+
+<p>—– <strong>914.1</strong> —–2022-11-07 01:03:18+08:00:</p>
+
+<p>Rule 5: The combined total of votes across all interest groups is something like 4x my voting population, but also the only party that will actually get these votes is the Nazis led by the Armed Forces. So that’s… interesting.</p>
+
+<p>—– <strong>914.2</strong> —–2022-11-07 02:17:34+08:00:</p>
+
+<p>I believe that that’s the Radical Party symbol. As for your second question, parties cause all Interest Groups within them to be counted as one, so you don’t get the legitimacy penalty that comes with having more than one group in government.</p>
+
+<p>—– <strong>914.3</strong> —–2022-11-07 03:16:05+08:00:</p>
+
+<p>Even so, the Nazis should not get <em>all</em> the votes.</p>
+
+<p>—– <strong>914.4</strong> —–2022-11-07 03:26:58+08:00:</p>
+
+<p>They join these parties if they have common ideological stances, either inherently or because of their leaders. So in this case, all five of the Interest Groups shown were either inherently or temporarily Radical, and were thus willing to join under that banner. If you unlock the option to have an Anarchist party, the Trade Unions might split off to form that, for instance.</p>
+
+<p>—– <strong>914.5</strong> —–2022-11-07 04:58:37+08:00:</p>
+
+<p>Universal Suffrage.</p>
+
+<p>—– <strong>914.6</strong> —–2022-11-07 05:37:16+08:00:</p>
+
+<p>Okay cool, so what about the other part which is the part where the Nazis get 100% of the vote?</p>
+
+<h3 id="915-scatterbrained-simp-supervisors---weekly-discussion-thread-november-8th-2022-submitted-on-2022-11-08-1040090800">915: <a href="https://old.reddit.com/r/VirtualYoutubers/comments/yp8v5t/scatterbrained_simp_supervisors_weekly_discussion/">Scatterbrained Simp Supervisors - Weekly Discussion Thread, November 8th, 2022</a>, submitted on 2022-11-08 10:40:09+08:00.</h3>
+
+<p>—– <strong>915.1</strong> —–2022-11-12 17:08:19+08:00:</p>
+
+<p>I mean, I’m kind of not too surprised. Fauna has said that she adopts older cats, and I think she’s been mentally and emotionally prepared for this going in. It wouldn’t surprise me if Clover isn’t even the first cat she’s lost this way.</p>
+
+<h3 id="916-is-it-true-there-were-dead-bodies-of-workerssoldiers-within-the-great-wall-of-china-during-construction-submitted-on-2022-11-09-0144530800">916: <a href="https://old.reddit.com/r/AskHistorians/comments/ypt90a/is_it_true_there_were_dead_bodies_of/">Is it true there were dead bodies of workers/soldiers within the Great Wall of China during construction?</a>, submitted on 2022-11-09 01:44:53+08:00.</h3>
+
+<p>—– <strong>916.1</strong> —–2022-11-09 18:56:48+08:00:</p>
+
+<p>The notion that the Great Wall contains human bodies is an interesting one, and goes in some unexpected directions.</p>
+
+<p>First, because it bears mentioning, when we use the phrase ‘Great Wall’ we are potentially referring to two separate concepts. The first is the rather clumsy colloquial use of the term to describe <em>every</em> frontier wall built by a Sinitic state (plus also the Mongolic Khitan Liao and the Tungusic Jurchen Jin), much though not all of which are now eroded beyond recognition; the second is specifically the largely-extant wall built in stages by the Ming between about 1470 and 1570. The issue is that there is a tendency to compress all of these into a single entity, but as I go into in <a href="https://www.reddit.com/r/AskHistorians/comments/wb8na3/when_it_comes_to_the_great_wall_of_china_what_is/">this answer</a>, even if we do use the phrase ‘Great Wall’ we need to understand that there have been <em>many</em> ‘Great Walls’, both geographically and chronologically discontinuous. So, in turn, there was not simply <em>a</em> construction of the Great Wall, because there have been <em>many</em> constructions, and the tale about human remains refers to the Qin walls of the late 3rd century BCE, and <em>not</em> the extant Ming walls of the 15th and 16th centuries CE.</p>
+
+<p>Under the Han, the walls built by the Qin were portrayed as symbolic of the tyrannical impulses of Qin Shi Huang and his exercise of Legalist philosophy, which in its political form advocated for absolutism and the ultimate power of the state, embodied in the person of the emperor. Per Arthur Waldron, this found its way into two parallel discursive traditions, one elite and one popular, around the construction of the Qin frontier walls. The elite tradition centred on the imperial court, where, according to the Han court historian Sima Qian, Qin Shi Huang’s right-hand man, Meng Tian, was made to commit suicide after the emperor’s death in 210 directly due to the wall construction. In the brief monologue Sima Qian has Meng Tian deliver before taking the fatal poison, he states that in building ramparts from Lintao to Liaodong, he must have cut across the veins of the earth, this being his capital crime. Sima Qian himself, however, regarded Meng Tian’s principal crime as his repeated conscription of labour and callous disregard for public welfare, but even then that was intimately tied with the massive mobilisation of labour towards wall construction.</p>
+
+<p>The popular vein focussed on how wall-building affected the local populace on a much more intimate level. Folk songs around the Qin walls became commonplace, with one song warning parents to abandon sons at birth as they would only end up suffering and dying as conscripted labour at the foot of the wall, and to celebrate the birth of daughters instead. This verse would be incorporated into a number of later ballads by elite writers. But it is important to note that the bodies lay <em>outside</em> the wall, not <em>in</em> it, in this telling.</p>
+
+<p>The story of bodies being <em>in</em> the wall relates to the legend of Lady Meng Jiang, a pretty famous tale in Chinese folklore, and one with a complex history. Its earliest form comes in a 4rd century BCE text, the <em>Zuo zhuan</em> (or <em>Commentary of Zuo</em>), which, yes, <em>predates</em> the Qin-era wall constructions. It is also incredibly brief, and consists solely of the statement that the anonymous widow of Qi Liang insisted that ritual propriety be observed by the state that had sent him to war. The connection with a wall – of any sort – was added by the Han scholar Liu Xiang ca. 18 BCE in the <em>Lienü zhuan</em> (<em>Biographies of Exemplary Women</em>), who states that she wept over her husband’s corpse at the foot of the city wall, which collapsed ten days later. Note that this was merely the wall of her city, not a frontier wall. Folk narratives around bodies being buried in frontier walls emerged during the Northern and Southern period (typically defined as 420-589 CE but some have stretched the term back to begin with the Three Kingdoms period starting in 220), when fortification was especially prolific and mortality was high. Only during the Tang period (618-907) do we see the older legend of Lady Meng Jiang (who also only began going by this name around this time) merge with much later motifs of mortality in building frontier walls, to produce the modern folk tale in which it was the Qin wall specifically that actually contained human bodies.</p>
+
+<p>As an aside, it is worth stressing, as u/itsallfolklore is wont to do, that the notion that folklore must contain a grain of truth is itself folklore. When I (well, technically Arthur Waldron as summarised by me) say that stories circulated about bodies buried in frontier walls, that does not mean that there were bodies, only that there were stories. We cannot definitively disprove that there may have been, but even if so the folk tales would be correct only by coincidence.</p>
+
+<p>The chronological compression of Great Walls is not a novel development, and indeed even the Ming walls, soon after they were built, found parts of the Meng Jiang myth projected on them. In the late 15th century, the fortifications at Shanhaiguan were alleged to have originally been built by the Qin and restored by the Ming (they were not; the Qin frontier was further north), and to have been where Meng Jiang found her husband, and one of the towers was dubbed the ‘husband-watching-tower’ as being the place from which she tried to spot him in the crowd. A shrine to Meng Jiang would be established (or possibly re-established) in the area in 1594, tying the Tang myth around the Qin wall into the Ming wall of the then-present.</p>
+
+<p>For further reading, the definitive treatment of the Great Wall in English remains Arthur Waldron’s <em>The Great Wall of China: From History to Myth</em> (1989).</p>
+
+<h3 id="917-what-did-pitched-combat-during-the-taiping-rebellion-look-like-how-would-it-compare-to-the-pitched-battles-of-europethe-american-civil-war-around-the-same-time-submitted-on-2022-11-09-0936480800">917: <a href="https://old.reddit.com/r/AskHistorians/comments/yq4yiz/what_did_pitched_combat_during_the_taiping/">What did pitched combat during the Taiping rebellion look like? How would it compare to the pitched battles of Europe/the American Civil war around the same time?</a>, submitted on 2022-11-09 09:36:48+08:00.</h3>
+
+<p>—– <strong>917.1</strong> —–2022-11-10 02:04:37+08:00:</p>
+
+<p>So, the unfortunate answer is we don’t really have a good sense of it, at least not at the scholarship level. And there are a few reasons for this. Firstly, operational military history has not had as much interest from historians of China as it has for histories of warfare in other contexts. Secondly, the Chinese historiographical tradition is not as tactically detailed as the European. European historians until the last century or two came from a background in which the elite served both military and civil functions, whereas for much of Chinese history, warfare and the martial sphere were considered beneath the literati elite. That is not to say we do not have some degree of detailed operational history for large parts of Chinese military history, but the focus of our sources tends to be somewhat elsewhere. I am certain we <em>could</em> reconstruct the Taiping War in terms of operational and tactical history from the sources we have, but as it stands, nobody really has done yet. Arguably the closest we get is from Jen Yu-Wen, who gives a decent accounting of campaigns in <em>The Taiping Revolutionary Movement</em>, but he really doesn’t cover <em>battles</em> in depth.</p>
+
+<p>Unfortunately, I may not be of much help here. For one I’m in grad school now and don’t have the same level of time or energy to devote to writing something totally original as an answer on the sub these days, and for another there is a source issue here, as surviving Taiping sources are light on tactical detail compared to Qing sources, and while the former isn’t too hard to muddle through, unfortunately my grasp of 19th century high-register clerical Chinese is something still being worked on, and I simply don’t have the necessary time and energy to work through these sources at the moment. What I will do, however, is point you to a few English-language sources that may be of help in at least getting a partial sense of the ‘face of battle’ in the Taiping conflict.</p>
+
+<ul>
+  <li>
+    <p>Stephen R. Platt’s <em>Autumn in the Heavenly Kingdom</em> is a relatively ‘big picture’ account, but it does include a decent amount of campaign and battle detail, just not a lot.</p>
+  </li>
+  <li>
+    <p>Augustus Lindley’s <em>Ti-Ping Tien-Kwoh</em> (1866) is both a history of the Taiping and a personal narrative, the latter of which encompasses a few field battles Lindley personally participated in on the Taiping side.</p>
+  </li>
+  <li>
+    <p>Andrew Wilson’s <em>The Ever-Victorious Army</em> (1868) is a triumphalist account of the Ever-Victorious Army under Charles Gordon, one which must be read with a mountain of salt, but which as an operational history should be at least decent.</p>
+  </li>
+  <li>
+    <p>Prosper Giquel’s <em>A Journal of the Chinese Civil War, 1864</em>, translated by Stephen Leibo in 1985, is about the Ever-Triumphant Army, officially the Franco-Chinese Corps of Zhejiang, which was the French equivalent of the Ever-Victorious Army. Giquel doesn’t go into huge tactical detail but he does have some material.</p>
+  </li>
+</ul>
+
+<p>A major caveat to the above sources is that they mostly concentrate on European or European-led units in the eastern theatre of the war, rather than the larger confrontations between the Taiping and the Hunanese militia in the west. Platt tries to balance between the two ends, and Lindley does record one or two confrontations further up the Yangtze to be fair, but be very aware that the focus here skews eastward towards the European-involved part of the fighting, rather than the more ‘peer’ conflict in the west.</p>
+
+<h3 id="918-east-asia---ad-1802---wip---4983x6637-oc-submitted-on-2022-11-09-2359070800">918: <a href="https://old.reddit.com/r/Map_Porn/comments/yqmyd0/east_asia_ad_1802_wip_4983x6637_oc/">East Asia - AD 1802 - WIP - [4983x6637] [OC]</a>, submitted on 2022-11-09 23:59:07+08:00.</h3>
+
+<p>—– <strong>918.1</strong> —–2022-11-10 05:42:29+08:00:</p>
+
+<p>So, <del>three</del> four suggestions, of varying levels of practicality:</p>
+
+<p>The first is to suggest not having a distinct colouration for China Proper vs other parts of the Qing Empire. That’s not to say that the Qing should be treated as a homogeneous, ‘flat’ entity, but by having China’s colour more saturated it implies a certain Sinocentrism when the Qing was itself a distinctly multi-constituent formation.</p>
+
+<p>Secondly, the Qing only controlled the west coast of Taiwan at this time. A quick browse of Qing-era maps like the ones <a href="https://qingmaps.org/">here</a> will show that the interior was unmapped and beyond state control, at this time still being ruled by independent indigenous polities.</p>
+
+<p>Thirdly, Japan was not really a singular entity: a gander at <a href="https://t.co/VkPyRIBKFV">this article</a>, which summarises the goals of the still-ongoing Digital Atlas of Tokugawa Japan, ought to reveal the serious complexity of the internal structures of rule during the Edo bakufu – in essence, Japan was less a unitary state than an unequal federation of states under Tokugawa hegemony.</p>
+
+<p>Looking specifically at the Pearl River Delta for a sec, there are places here that should be marked and places here that should not. In 1802, Hong Kong and Shenzhen did not meaningfully exist; on the flip-side, Macau is an absolutely vital inclusion that is very noticeable by its absence. Looking northward for a sec, there are plenty of ahistorical Russian place names in still-Qing-held Manchuria. I assume part of this is because of the WIP issue, but still, worth flagging.</p>
+
+<h3 id="919-got-a-certain-character-in-my-qing-run-submitted-on-2022-11-10-0607250800">919: <a href="https://old.reddit.com/r/victoria3/comments/yqx27a/got_a_certain_character_in_my_qing_run/">Got a certain character in my qing run</a>, submitted on 2022-11-10 06:07:25+08:00.</h3>
+
+<p>—– <strong>919.1</strong> —–2022-11-10 23:30:41+08:00:</p>
+
+<p>The game does generate some real personages, especially for generals. I got Moltke the Elder, Albrecht von Roon, Moltke the Younger, Paul von Hindenburg and Erich Ludendorff as Prussia.</p>
+
+<h3 id="920-are-there-any-theories-on-why-the-ancient-chinese-did-not-adopt-an-alphabetic-writing-system-submitted-on-2022-11-11-2316540800">920: <a href="https://old.reddit.com/r/AskHistorians/comments/ysdbij/are_there_any_theories_on_why_the_ancient_chinese/">Are there any theories on why the ancient Chinese did not adopt an alphabetic writing system?</a>, submitted on 2022-11-11 23:16:54+08:00.</h3>
+
+<p>—– <strong>920.1</strong> —–2022-11-12 02:59:14+08:00:</p>
+
+<blockquote>
+  <p>the short answer is</p>
+</blockquote>
+
+<p>Your comment has been removed due to violations of the <a href="https://www.reddit.com/r/AskHistorians/wiki/rules">subreddit’s rules</a>. We expect answers to provide <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_write_an_in-depth_answer">in-depth and comprehensive insight</a> into the topic at hand and to <a href="https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/">be free of significant errors or misunderstandings</a> while doing so. Before contributing again, please take the time to better familiarize yourself with the <a href="https://www.reddit.com/r/AskHistorians/wiki/rules">subreddit rules</a> and <a href="https://www.reddit.com/r/AskHistorians/wiki/faq/meta#wiki_rules_discussion">expectations</a> for an answer.</p>
+
+<h3 id="921-if-alexander-the-great-slept-with-a-copy-of-the-iliad-under-his-pillow-as-according-to-legend-what-would-be-the-physical-form-of-his-copy---one-compact-scroll-a-pile-of-scrolls-something-else-entirely-submitted-on-2022-11-12-0813270800">921: <a href="https://old.reddit.com/r/AskHistorians/comments/ysrje4/if_alexander_the_great_slept_with_a_copy_of_the/">If Alexander the Great slept with a copy of the Iliad under his pillow, as according to legend, what would be the physical form of his copy - one compact scroll, a pile of scrolls, something else entirely?</a>, submitted on 2022-11-12 08:13:27+08:00.</h3>
+
+<p>—– <strong>921.1</strong> —–2022-11-12 22:02:43+08:00:</p>
+
+<blockquote>
+  <p>Alexander had been fascinated by the Homeric epics since boyhood; one of his first acts after crossing into Asia Minor had been to visit the supposed site of Troy and reenact the funeral games of Patroclus. His former tutor Aristotle had composed or commissioned a special edition of the Iliad, which Alexander brought with him to Asia (Plutarch, Alexander 8.2; 26.2). We don’t know whether this was a full edition of the poem or a “greatest hits” compilation focused on Achilles, Alexander’s favorite character.</p>
+</blockquote>
+
+<p>It’s worth stressing that Alexander’s affinity for the Homeric epics is questionable on some counts. While all the main literary sources on Alexander include some degree of Homeric imagery, I think it is instructive that the only one they concur on is his decision to hold rites on arriving at Troy. Only Plutarch claims he quoted the <em>Odyssey</em> when founding Alexandria on the Nile; only Arrian likens his relationship with Hephaistion to Achilles and Patroklos, or draws directly on the Iliad to get into Alexander’s headspace; only Diodoros has him invoking Achilles at the Hydaspes; and only Curtius has Alexander order the governor of Gaza to be dragged round the wall by hooks through his ankles. There’s an argument to be made (in my view a strong one) that we ought to read the rites at Troy as an act of political cynicism during the more pan-Hellenic, pre-Gaugamela phase of Alexander’s career, and to essentially regard other Homeric references in the Alexander sources as largely later interpolations.</p>
+
+<p>Back to the original point at hand, though, it must be granted that the claim Alexander slept with an Aristotle-commissioned copy of the <em>Iliad</em> is reasonably well-supported within Plutarch, who explicitly cites Onesikritos (possibly referring to the <em>Education of Alexander</em>); that said, Plutarch’s assertion that ‘many trustworthy authorities’ attest to his storing it in a cask left behind at Issos is much tricker to accept at face value. One would have thought he’d be willing to let us know who these authorities were…</p>
+
+<p>—– <strong>921.2</strong> —–2022-11-13 01:15:17+08:00:</p>
+
+<p>You’ve hit the nail on the head there: Alexander seems to have felt a pressing need to actually perform Greekness because of an awareness that this was not actually taken for granted by his allies, many of whom had seen his father Philip as a marauding barbarian and would not have suddenly forgotten it the moment his son came to power.</p>
+
+<h3 id="922-inexplicable-reserve-battalions--why-do-my-generals-not-command-up-to-their-capacity-submitted-on-2022-11-12-1757080800">922: <a href="https://old.reddit.com/r/victoria3/comments/yt2mzz/inexplicable_reserve_battalions_why_do_my/">Inexplicable reserve battalions – why do my generals not command up to their capacity?</a>, submitted on 2022-11-12 17:57:08+08:00.</h3>
+
+<p>—– <strong>922.1</strong> —–2022-11-12 17:57:37+08:00:</p>
+
+<p>R5: My generals clearly have enough command capacity to actually command all the battalions in their regions, but don’t.</p>
+
+<p>​</p>
+
+<p>???</p>
+
+<p>—– <strong>922.2</strong> —–2022-11-12 18:40:19+08:00:</p>
+
+<p>Yes. North India HQ for me consists of a single state, South Bengal. It has 50 barracks, and I have a Field Marshal with 100 command limit assigned to that HQ. I am not at war; conscription centres are not activated.</p>
+
+<p>—– <strong>922.3</strong> —–2022-11-12 18:45:59+08:00:</p>
+
+<p>There is only one commander at that HQ, yes; however in image 3 I have the same issue in a different HQ with multiple generals whose combined command limits should be more than enough.</p>
+
+<p>—– <strong>922.4</strong> —–2022-11-12 18:54:39+08:00:</p>
+
+<p>Yeah, I’ve done that a couple times, but the number of battalions slipping into reserves seems to increase every few months and I don’t like having to take hits to my Armed Forces approval every time.</p>
+
+<p>—– <strong>922.5</strong> —–2022-11-13 03:09:03+08:00:</p>
+
+<p>Cheers!</p>
+
+<h3 id="923-it-is-well-known-that-aristotle-one-of-the-greatest-philosophers-of-all-time-was-the-private-tutor-of-alexander-the-great-one-of-the-greatest-conquerors-of-all-time-this-relationship-seems-like-it-could-be-scripted-out-of-a-hollywood-movie-how-do-we-know-this-to-be-true-submitted-on-2022-11-13-0116100800">923: <a href="https://old.reddit.com/r/AskHistorians/comments/ytcyw6/it_is_well_known_that_aristotle_one_of_the/">It is well known that Aristotle, one of the greatest philosophers of all time, was the private tutor of Alexander the Great, one of the greatest conquerors of all time. This relationship seems like it could be scripted out of a Hollywood movie. How do we know this to be true?</a>, submitted on 2022-11-13 01:16:10+08:00.</h3>
+
+<p>—– <strong>923.1</strong> —–2022-11-13 05:28:55+08:00:</p>
+
+<p>Aristotle’s education of Alexander is recounted principally by two ancient authors (whose work survives): Plutarch and Diogenes Laertios. If you want to really get into a load of epistemological weeds and a bunch of philosophical musing about what it means to ‘know’ anything, then sure, we don’t <em>know</em> Aristotle tutored Alexander, but by conventional methodology the weight of evidence is pretty clear that Aristotle was Alexander’s tutor and they shared a reasonably close bond.</p>
+
+<p>Aristotle met Alexander because he had been hired as his tutor by Alexander’s father, Philip II, in 343/2 BCE. This is where Plutarch starts things as regards Aristotle in the <em>Life of Alexander</em>, but Diogenes Laertios gives us a little more backstory. His short biography of Aristotle, citing the lost <em>Lives</em> of the mid-3rd century biographer Hermippos of Smyrna, suggests that Aristotle had been part of an Athenian embassy to the Philip’s court, and had been there in an official capacity. Whether this is necessarily true is a little unclear; what we do know is he had departed Athens around the time of his teacher Plato’s death in 348/7, and he seems to have hung around Asia Minor for a time before Philip sent his invitation. However, his connections with the Macedonian court actually went back further: his family was not from Athens but rather Stageira in the Chalkidike, and his father, Nikomachos, was the court physician of Philip’s father, Amyntas III. We don’t know if Aristotle lived with his father at this time, but it still meant he did actually have a few connections with the royal court to draw upon.</p>
+
+<p>Aristotle’s tutoring of Alexander is not recounted at immense length, but both authors regard it as having been reasonably extensive. As Plutarch put it, ‘the equipment that he had from Aristotle his teacher when he crossed over into Asia was more than what he had from his father Philip’. He singles out two particular areas where Aristotle’s instruction was influential: the first were the ‘acroamatic’ teachings, a rather unclear set of esoteric teachings which, according to an alleged letter from Alexander to his teacher, were instrumental to his manner of rule; the second was an interest in medicine, and Plutarch alleges that Alexander often administered treatment to his sick and wounded friends. He also states that among Alexander’s most prized possessions was an edition of the <em>Iliad</em> that he is supposed to have kept under his pillow, and which he later stored in a jewelled case looted from Darius III’s baggage after the Battle of Issos in 333 (possibly – Plutarch is somewhat evasive about his sources here). There are, however, certain caveats to keep in mind: Plutarch, especially in the early part of the <em>Life of Alexander</em>, seems to point to Alexander’s education by Aristotle as part of his portrayal of Alexander as a Panhellenic hero, by making him out to be a particularly devoted student of one of the most quintessentially Greek philosophers. But the image is more complicated than he makes out, as Plutarch himself would admit.</p>
+
+<p>Around 327, Alexander apparently began – if he had not done so already – to have an increasingly strained relationship with Aristotle, who had returned to Athens before Alexander left for Asia, but with whom it seems he was still corresponding. The ‘conspiracy of the pages’ in 327 saw Hermolaos, one of Alexander’s servants, attempt to assassinate him, and according to Plutarch this event was alleged to have been instigated by Kallisthenes, Aristotle’s great-nephew and one of Alexander’s courtiers. Kallisthenes was placed under arrest and was, in Plutarch’s account, supposed to have been put on trial with Aristotle in attendance when Alexander returned to Greece, but he died of disease while the army was in India. (Diogenes Laertios adds the grisly detail that Kallisthenes may have been thrown to a lion when it became clear he would not survive the journey.) Why exactly Plutarch regards this as a sign of growing hostility is a little unclear, and indeed it doesn’t really have much of a payoff.</p>
+
+<p>There was a persistent rumour in the ancient world that Aristotle had actually been partly responsible for Alexander’s death. Both Plutarch and Arrian include – but dismiss – a narrative in which Aristotle was supposed to have advised Antipatros, Alexander’s governor holding the fort in Macedonia and Greece, to assassinate the king, to unclear ends. Much ink has been spilled over the general credibility of this claim: Aristotle’s involvement is <em>probably</em> fictional, but the claim that there was a murder plot concocted by Antipatros – whose son Iollas was one of Alexander’s cup-bearers – has been treated by some as potentially credible, in spirit if not in practice. Christopher Blackwell’s <em>In the Absence of Alexander</em> makes a reasonably convincing argument for there having been a considerable erosion in Alexander’s authority in Greece, culminating in the effective takeover of that part of the empire by Antipatros, a process rather suddenly derailed by the total fragmentation of the empire anyway in the wake of Alexander’s death. While we cannot prove Antipatros <em>did</em> poison Alexander, it’s oddly plausible that he might have done. Alternatively, this was a claim fabricated entirely by Antipatros’ rivals, such as Alexander’s mother Olympias, as a means of discrediting his pretensions to power, and all of the preceding means nothing at all.</p>
+
+<p>What we do know, from Diogenes Laertios, is that whatever the relationship became by the end, it was, in the ancient world, a pretty well-attested one, with Aristotle’s surviving oeuvre by his day (ca. 200 CE) including a petition to Alexander and four volumes of correspondence with him. Unfortunately, these are simply not quoted or alluded to at length by any of the major literary sources, so our understanding of Aristotle’s influence on Alexander is pretty much limited to the following:</p>
+
+<ol>
+  <li>Aristotle taught Alexander from about 342 (when the latter was 14) for a period of at least half a decade, but was back in Athens by 335;</li>
+  <li>The two still corresponded for some time, but we’re not exactly sure when it may have stopped; and</li>
+  <li>There seems to have been a recognition that the two were increasingly strained in their relations by the time of the latter’s death, although in what way and on what grounds is not well articulated.</li>
+</ol>
+
+<p>A popular narrative is that it was Alexander’s abandonment of Panhellenism in favour of a more universalist, multicultural manner of rule that put off Aristotle, who had counselled a much more ethnocentric policy on Alexander’s part. While Plutarch, in <em>On the Fortune or Virtue of Alexander</em>, does suggest that Alexander differed from his tutor in this regard, there simply isn’t an explicit link in the sources between this political difference and their falling-out, presuming that this falling-out even took place at all.</p>
+
+<p>—– <strong>923.2</strong> —–2022-11-15 07:59:34+08:00:</p>
+
+<p>So, the relative distance between Alexander and the surviving sources is always one to account for, and it’s something I go into <a href="https://www.reddit.com/r/AskHistorians/comments/l06m2l/concerning_alexander_the_great_how_much_of_the/gjwy3ha/">here</a>. That said, these later authors weren’t making stuff up: they had their own sources, whom they often cited explicitly. This <em>complicates</em> our view of Alexander, and massively so, but it doesn’t mean we cannot know anything with certainty.</p>
+
+<h3 id="924-why-was-the-taiping-rebellion-a-heavenly-kingdom-instead-of-a-celestial-empire-why-did-it-seem-to-reject-traditional-naming-conventions-for-chinese-dynasties-submitted-on-2022-11-13-1531070800">924: <a href="https://old.reddit.com/r/AskHistorians/comments/ytuuwh/why_was_the_taiping_rebellion_a_heavenly_kingdom/">Why was the Taiping rebellion a “heavenly kingdom” instead of a “celestial empire?” Why did it seem to reject traditional naming conventions for Chinese dynasties?</a>, submitted on 2022-11-13 15:31:07+08:00.</h3>
+
+<p>—– <strong>924.1</strong> —–2022-11-13 21:05:02+08:00:</p>
+
+<p>This is a feature of Taiping ideology that was not analysed until comparatively recently, as on the surface it does seem like a mere bit of semantics. But you’re not wrong to point out that there might be something to it beyond that, and thankfully you haven’t been the first to notice.</p>
+
+<p>To cut straight to the chase, the Taiping fundamentally rejected the empire as an institution. Now, when we speak of ‘the Chinese Empire’ it is worth suggesting that we are discussing an ideologically continuous unit rather than a politically or territorially continuous one, and it was very much that ideological dimension to which the Taiping objected. This rejection was based on what Thomas Reilly, in <em>The Taiping Heavenly Kingdom</em>, terms ‘the blasphemy of empire’: the notion that the imperial system was fundamentally an affront to God and must, therefore, be cast out in its entirety. The origins of this belief are quite interesting in themselves. While we might connect it with Hong Xiuquan’s personal failings in the imperial examination system, this actually doesn’t have much to back it up, as the Taiping themselves instituted their own examinations very early on. Rather, the core of it appears to have been really quite semantic, and the result of a quirk of textual translation and transmission.</p>
+
+<p>Christian missionaries in China had struggled for some time with how to translate both the word and concept of God into Chinese, and had gone back and forth on a number of points. The term <em>shen</em> 神, while a direct translation of a term for ‘god’ or ‘spirit’, wasn’t seen as quite capturing the full majesty of a supreme monotheistic deity. <em>Tianzhu</em> 天主, literally ‘Lord of Heaven’, ultimately stuck in colloquial use, but its use was actually banned by papal bull in 1715, which interpreted this formulation as implying that God was the lord of Heaven <em>only</em>, as opposed to all creation. <em>Shangdi</em> 上帝, ‘High Sovereign’, was also opposed, but on the basis of having been derived from a term used in the Confucian canon for the head deity of an older, more henotheistic Chinese pantheon, but whose worship had since lapsed. The Protestants, however, were considerably less concerned about linguistic precision than in communicability, and broadly concurred on the use of the name <em>Shangdi</em> for God in their pamphlets and their Bible translations, such as the Gützlaff and Morrison Bibles.</p>
+
+<p>Hong Xiuquan was, as we should well know by this point, reasonably well-educated. While not an accredited scholar above the local examination level, he nevertheless would have had an intimate familiarity with the Neo-Confucian canon, principally the Four Books and Five Classics: the Four Books are discursive philosophical works laying out the core beliefs of Confucianism; the Five Classics are a series of texts covering history, poetry, ritual, and divination, which were to be interpreted through a Confucian lens. And the Five Classics in particular feature, very heavily, the god Shangdi as head of the pantheon, whereas the Four Books do not. Following his revelatory visions in 1837 and his reading of Liang Afa’s <em>Quanshi liangyan</em> 勸世良言 (‘Good Words for Admonishing the Age’) in 1843, Hong came to the realisation that the Shangdi of the Five Classics and the Shangdi of the Protestant Bible were one and the same – a belief that was <em>technically</em> true but not quite in the way he came to see it.</p>
+
+<p>But from that revelation sprang the belief that China had once been a monotheistic society, but that paganism had been introduced at some subsequent stage, with Confucius himself typically being blamed. The Five Classics thus remained canonical, but the Four Books, attributed to Confucius and his disciples, were condemned as corruptive. In turn, the imperial system built on the foundations of Confucian philosophy was irredeemably corrupt, built on heathen foundations. Moreover, the title of <em>Huangdi</em> 皇帝 for ‘Emperor’ was considered blasphemous in appropriating the character <em>di</em> 帝, committing sacrilege against God. As such, the Taiping were to have no emperors, but rather kings (王 <em>wang</em>), who did not impinge upon God’s majesty.</p>
+
+<p>To finally wrap back to the question as phrased, this in turn had implications for how the Taiping described their state. Theirs was specifically the Kingdom of Heaven on earth, hence <em>Tianguo</em> 天囯; it was to herald an age of Great Peace, hence <em>Taiping</em> 太平. It is not mere trivia that the Taiping specifically used a variant character for <em>guo</em>, that being 囯 as opposed to the more standard 國 or the 国 simplification now used in Simplified Chinese. You will notice that the inside character is 王, stressing the importance of humble <em>kingship</em>, rather than blasphemous emperorship, within the state. That said, it is worth adding that the Taiping state did also refer to itself as a <em>Tianchao</em> 天朝, but this gets into a certain complexity with the term <em>chao</em> itself. <em>Chao</em>, in the most general sense, means ‘court’. Its translation into English as ‘empire’ or ‘state’ or ‘dynasty’ tends to be more contextually framed. <em>Chao</em> was rarely if ever used in foreign relations, and most typically referred to the entity of the state within the context of the empire. After all, the Great Qing was simply 大清 <em>da Qing</em>, not 大清天朝 <em>da Qing tianchao</em>. So too for the Taiping, where the term <em>Tianchao</em> was often used in the context of pronouncements on domestic policy, but not to refer to the entirety of the kingdom.</p>
+
+<p>If you’d like to read a bit more into this, Thomas Reilly’s <em>The Taiping Heavenly Kingdom: Religion and the Blasphemy of Empire</em> is the principal source of this argument; Carl Kilcourse’s <em>Taiping Theology</em> revisits the argument and agrees with some though not all of its core conceits.</p>
+
+<p>—– <strong>924.2</strong> —–2022-11-13 22:24:52+08:00:</p>
+
+<p>I actually don’t know what the Kaifeng Jews used as their term for God, but the Hui used 真主 <em>Zhenzhu</em> (‘true god’).</p>
+
+<h3 id="925-hobby-scuffles-week-of-november-14-2022-submitted-on-2022-11-13-2300170800">925: <a href="https://old.reddit.com/r/HobbyDrama/comments/yu41tv/hobby_scuffles_week_of_november_14_2022/">[Hobby Scuffles] Week of November 14, 2022</a>, submitted on 2022-11-13 23:00:17+08:00.</h3>
+
+<p>—– <strong>925.1</strong> —–2022-11-15 17:43:30+08:00:</p>
+
+<p>Not even a hobby thing, but has anyone else seen <em>Weird: The Al Yankovic Story</em> yet? Personally, I went in very worried that it would be like those biopics that deliberately fictionalise things to make the lead look better, but I was very impressed by how true it stayed to actual history in the portrayal. Deeply moving, an 11/10 film.</p>
+
+<p>—– <strong>925.2</strong> —–2022-11-15 20:09:54+08:00:</p>
+
+<p>What it hit home for me is how much the recent rock biopics have felt the need to make their subjects seem more like Weird Al, rather than allowing their originality to come through. It seems to fit a formula because the formula began with Al.</p>
+
+<p>—– <strong>925.3</strong> —–2022-11-16 23:47:30+08:00:</p>
+
+<p>And <a href="https://www.youtube.com/watch?v=wBpzOIUac9k">Sakura Miko is stuck promoting ‘Baby Dance’ till the end of time</a></p>
+
+<p>—– <strong>925.4</strong> —–2022-11-17 00:03:26+08:00:</p>
+
+<p>It’s distressing that Miko comes off as less pon in the comparison…</p>
+
+<p>—– <strong>925.5</strong> —–2022-11-20 05:16:03+08:00:</p>
+
+<p>Every time I think there’s nothing more to say about <em>My Immortal</em>, someone comes out with a video with <em>more</em> information. <a href="https://www.youtube.com/watch?v=0JodBp-r9jM">Strange Æeons’ latest video</a> notes, among other things, the existence of a <em>third</em> fanfic by the authors of <em>My Immortal</em>, depicting a gothified Hermione as the main character.</p>
+
+<p>—– <strong>925.6</strong> —–2022-11-20 10:34:17+08:00:</p>
+
+<p>Oh dang, and I had even watched that one recently too – I’d completely missed that part!</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-11-15</time>
+        <a href="https://nodebe4.github.io/opinion/2022-11-15/Spinkcat/">
+          Spinkcat在2022-11-14~2022-11-20的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-11-15</time>
+        <a href="https://nodebe4.github.io/opinion/2022-11-15/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-11-14~2022-11-20的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-11-11</time>
+        <a href="https://nodebe4.github.io/opinion/2022-11-11/Spinkcat/">
+          Spinkcat在2022-11-07~2022-11-13的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-11-10</time>
+        <a href="https://nodebe4.github.io/opinion/2022-11-10/theoryofdoom/">
+          theoryofdoom在2022-11-07~2022-11-13的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-11-12/%E7%A6%81%E5%BF%8C%E5%8F%B2%E8%A9%B1-%E6%9D%8E%E9%8A%B3%E6%97%A5%E8%A8%98%E7%A7%98%E5%AF%86-15-%E4%B8%AD%E5%85%B1%E5%92%8C%E9%B4%89%E7%89%87-%E5%A4%A7%E7%85%99%E8%B3%A3%E5%88%B0%E5%93%AA%E8%A3%A1%E5%8E%BB/">
+            前一篇：禁忌史話：李銳日記秘密 15｜中共和鴉片：大煙賣到哪裡去？
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-11-13/HeQinglian/">
+            後一篇：Twitter @He Qinglian: 2022-11-07~2022-11-13
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-11-12/%E7%A6%81%E5%BF%8C%E5%8F%B2%E8%A9%B1-%E6%9D%8E%E9%8A%B3%E6%97%A5%E8%A8%98%E7%A7%98%E5%AF%86-15-%E4%B8%AD%E5%85%B1%E5%92%8C%E9%B4%89%E7%89%87-%E5%A4%A7%E7%85%99%E8%B3%A3%E5%88%B0%E5%93%AA%E8%A3%A1%E5%8E%BB/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-11-13/HeQinglian/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-11-15/ForeignAffairsMag/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-11-11/Spinkcat/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-11-12/%E7%A6%81%E5%BF%8C%E5%8F%B2%E8%A9%B1-%E6%9D%8E%E9%8A%B3%E6%97%A5%E8%A8%98%E7%A7%98%E5%AF%86-15-%E4%B8%AD%E5%85%B1%E5%92%8C%E9%B4%89%E7%89%87-%E5%A4%A7%E7%85%99%E8%B3%A3%E5%88%B0%E5%93%AA%E8%A3%A1%E5%8E%BB/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-11-13/HeQinglian/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-11-15/ForeignAffairsMag/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-11-11/Spinkcat/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

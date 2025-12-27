@@ -1,0 +1,3063 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Narratives – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+Narratives
+——
+" />
+    <meta property="og:description" content="
+Narratives
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Narratives" />
+    <meta property="twitter:title" content="Narratives" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2022%2Fnarratives%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2022/narratives/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2022/narratives/&text=Narratives&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2022/narratives/&title=Narratives" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2022/narratives/&title=Narratives" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Narratives&body=
+Narratives
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2022/narratives/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2022/narratives/&title=Narratives&caption=
+Narratives
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Narratives&url=https://stratechery.com/2022/narratives/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Narratives</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-11-14
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2022/narratives/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1668436577000-->
+<p><a href="https://stratechery.com/2022/narratives/">Narratives</a>
+——</p>
+
+<div>
+  <p>Two pieces of news dominated the tech industry last week: Elon Musk and Twitter, and Sam Bankman-Fried and FTX. Both showed how narratives can lead people astray. Another piece of news, though, flew under the radar: yet another development in AI, which is a reminder that the only narratives that last are rooted in product.</p>
+  <h3 id="twitter-and-the-wrong-narrative">Twitter and the Wrong Narrative</h3>
+  <p>I did give Elon Musk the benefit of the doubt.</p>
+  <p>Back in 2016 I wrote <a href="https://stratechery.com/2016/its-a-tesla/">It’s a Tesla</a>, marveling at the way Musk had built a brand that transcended far beyond a mere car company; what was remarkable about Musk’s approach is that said brand was a prerequisite to Tesla, in contrast to a company like Apple, the obvious analog as far as customer devotion goes. From 2021’s <a href="https://stratechery.com/2021/mistakes-and-memes/">Mistakes and Memes</a>:</p>
+  <blockquote>
+    <p>This comparison works as far as it goes, but it doesn’t tell the entire story: after all, Apple’s brand was derived from decades building products, which had made it the most profitable company in the world. Tesla, meanwhile, always seemed to be weeks from going bankrupt, at least until it issued ever more stock, strengthening the conviction of Tesla skeptics and shorts. That, though, was the crazy thing: you would think that issuing stock would lead to Tesla’s stock price slumping; after all, existing shares were being diluted. Time after time, though, Tesla announcements about stock issuances would lead to the stock going up. It didn’t make any sense, at least if you thought about the stock as representing a company.</p>
+    <p>It turned out, though, that TSLA was itself a meme, one about a car company, but also sustainability, and most of all, about Elon Musk himself. Issuing more stock was not diluting existing shareholders; it was extending the opportunity to propagate the TSLA meme to that many more people, and while Musk’s haters multiplied, so did his fans. The Internet, after all, is about abundance, not scarcity. The end result is that instead of infrastructure leading to a movement, a movement, via the stock market, funded the building out of infrastructure.</p>
+  </blockquote>
+  <p>TSLA is not at the level it was during the heights of the bull market, but Tesla is a real company, with real cars, and real profits; last quarter the electric car company made more money than Toyota (thanks in part to a special charge for Toyota; Toyota’s operating profit was still greater). SpaceX is a real company, with real rockets that land on real rafts, and while the company is not yet profitable, there is certainly a viable path to making money; the company’s impact on both humanity’s long-term potential and the U.S.’s national security is already profound.</p>
+  <p>Twitter, meanwhile, is a real product that has largely failed as company; <a href="https://stratechery.com/2022/back-to-the-future-of-twitter/">I wrote earlier this year</a> when Musk first made a bid:</p>
+  <blockquote>
+    <p>Twitter has, over 19 different funding rounds (including pre-IPO, IPO, and post-IPO), raised $4.4 billion in funding; meanwhile the company has lost a cumulative $861 million in its lifetime as a public company (i.e. excluding pre-IPO losses). During that time the company has held 33 earnings calls; the company reported a profit in only 14 of them.</p>
+    <p>Given this financial performance it is kind of amazing that the company was valued at $30 billion the day before Musk’s investment was revealed; such is the value of Twitter’s social graph and its cultural impact: despite there being no evidence that Twitter can even be sustainably profitable, much less return billions of dollars to shareholders, hope springs eternal that the company is on the verge of unlocking its potential. At the same time, these three factors — Twitter’s financials, its social graph, and its cultural impact — get at why Musk’s offer to take Twitter private is so intriguing.</p>
+  </blockquote>
+  <p>Stop right there: can you see where I opened the door for an error of omission as far as my analysis is concerned? Yes, Musk has successfully built two companies, and yes, Twitter is not a successful company; what followed in that Article, though, was my own vision of what Twitter might become. I should have taken the time to think more critically about Musk’s vision…which doesn’t appear to exist.</p>
+  <p>Oh sure, Musk and his coterie of advisors have narratives: bots are bad and blue checks are about status. And, to be fair, both are true as far as it goes. The problem with bots is self-explanatory, while those who actually need blue checks — brands, celebrities, and reliable news breakers — likely care about about them the least; the rest of us were happy to get our checkmark despite the fact there was no real risk of anyone impersonating us in any damaging way just because it made us feel special (speaking <a href="https://twitter.com/benthompson">for myself</a> anyway: I don’t much care about it now, but I was pretty delighted when I got it back in 2014 or so).</p>
+  <p>Of course Musk felt these problems more acutely than most: his high profile, active usage of Twitter, and popularity in crypto communities meant <a href="https://stratechery.com/2022/musk-twitter-and-bots-bot-experience-bot-science/">Musk tweets were the most likely place to encounter bots on the service</a>; meanwhile Musk’s own grievances with journalists generally could, one imagine, engender a certain antipathy for “Bluechecks”, given that the easiest way to get one was to work for a media organization. The problem, though, is that Musk’s Twitter experience — thought to be an asset, including by yours truly — isn’t really relevant to the actual day-to-day reality of the site as experience by Twitter’s actual users.</p>
+  <p>And so we got last week’s verified disaster, where Musk could have his revenge on bluechecks by selling them to everyone, with the most eager buyers being those eager to impersonate brands, celebrities, and Musk himself. It was certainly funny, and I believe Musk that <a href="https://twitter.com/elonmusk/status/1590785323105423360">Twitter usage was off the charts</a>, but it wasn’t a particularly prudent move for <a href="https://www.vox.com/recode/2022/11/9/23450150/twitter-elon-musk-advertising-problem-conference-call-peter-kafka-column">a company reliant on brand advertising</a> in the middle of an economic slowdown.</p>
+  <p>This is not, to be clear, to criticize Musk for acting, or even for acting quickly: Twitter needed a kick in the pants (and, even had the company not been sold, was almost certainly in line for significant layoffs), and it’s understandable that mistakes will be made; the point of rapid iteration is to learn more quickly, which is to say that Twitter has, for years, not been learning very much at all. Rather, what was concerning about this mistake in particular is the degree to which it was so clearly rooted in Musk’s personal grievances, which (1) were knowable before he acted and (2) were not the biggest problems facing Twitter. That was knowable by me as an analyst, and I regret not pointing them out.</p>
+  <p>Indeed, these aren’t the only Musk narratives that have bothered me; here is his <a href="https://twitter.com/elonmusk/status/1585619322239561728">letter to advertisers</a> posted on his first day on the job:</p>
+  <div align="center">
+    <blockquote class="twitter-tweet" data-dnt="true">
+      <p lang="en" dir="ltr">Dear Twitter Advertisers <a href="https://t.co/GMwHmInPAS">pic.twitter.com/GMwHmInPAS</a></p>
+      <p>— Elon Musk (@elonmusk) <a href="https://twitter.com/elonmusk/status/1585619322239561728?ref_src=twsrc%5Etfw">October 27, 2022</a></p>
+    </blockquote>
+    <p>      <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+&lt;/div&gt;      <blockquote>
+        <p>I wanted to reach out personally to share my motivation in acquiring Twitter. There has been much speculation about why I bought Twitter and what I think about advertising. Most of it has been wrong.</p>
+        <p>The reason I acquired Twitter is because it is important to the future of civilization to have a common digital town square, where a wide range of beliefs can be debated in a healthy manner, without resorting to violence. There is currently great danger that social media will splinter into far right wing and far left wing echo chambers that generate more hate and divide our society.</p>
+        <p>In the relentless pursuit of clicks, much of traditional media has fueled and catered to those polarized extremes, as they believe that is what brings in the money, but, in doing so, the opportunity for dialogue is lost.</p>
+        <p>This is why I bought Twitter. I didn’t do it because it would be easy. I didn’t do it to make more money. I did it to try to help humanity, whom I love. And I do so with humility, recognizing that failure in pursuing this goal, despite our best efforts, is a very real possibility.</p>
+        <p>That said, Twitter obviously cannnot become a free-for-all hellscape, where anything can be said with no consequences! In addition to adhering to the laws of the land, our platform must be warm and welcoming to all, where you can choose your desired experience according to your preferences, just as you can choose, for example, to see movies or play video games ranging from all ages to mature.</p>
+        <p>I also very much believe that advertising, when done right, can delight, entertain and inform you; it can show you a service or product or medical treatment that you never knew existed, but is right for you. For this to be true, it is essential to show Twitter users advertising that is as relevant as possible to their needs. Low relevancy ads are spam, but highly relevant ads are actually content!</p>
+        <p>Fundamentally, Twitter aspires to be the most respected advertising platform in the world that strengthens your brand and grows your enterprise. To everyone who has partnered with us, I thank you. Let us build something extraordinary together.</p>
+      </blockquote>
+      <p>All of this sounds good, and on closer examination is mostly wrong. Obviously relevant ads are better, but Twitter’s problem is not just poor execution in terms of its ad product but also that <a href="https://stratechery.com/2021/twitter-has-a-new-ceo-what-about-a-new-business-model/">it’s a terrible place for ads</a>. I do agree that giving users more control is a better approach to content moderation, but the obsession with the doing-it-for-the-clicks narrative ignores <a href="https://stratechery.com/2020/never-ending-niches/">the nichification of the media</a>. And, when it comes to the good of humanity, I think the biggest learning from Twitter is that putting together people who disagree with each other is actually a terrible idea; yes, <a href="https://stratechery.com/2022/two-apple-items-twitter-cash-flow-twitter-versus-advertisers/">it is why Twitter will never be replicated</a>, but also why it has likely been a net negative for society. The digital town square is the Internet broadly; Twitter is more akin to a digital cage match, perhaps best monetized on a <a href="https://stratechery.com/2021/twitter-has-a-new-ceo-what-about-a-new-business-model/">pay-per-view basis</a>.</p>
+      <p>In short, it seems clear that Musk has the wrong narrative, and that’s going to mean more mistakes. And, for my part, I should have noted that sooner.</p>
+      <h3 id="ftx-and-the-diversionary-narrative">FTX and the Diversionary Narrative</h3>
+      <p>Eric Newcomer wrote on Twitter with regards to the FTX blow-up:<sup id="rf1-10010"><a href="https://stratechery.com/2022/narratives/#fn1-10010" title="I gave a 15 minute overview of the FTX blow-up on Friday&#8217;s &lt;a href=&quot;https://dithering.fm&quot;&gt;Dithering&lt;/a&gt;." rel="footnote">1</a></sup></p>
+      <div align="center">
+        <blockquote class="twitter-tweet" data-dnt="true">
+          <p lang="en" dir="ltr">i have to admit i feel like i usually get some bad vibes before a major startup eats it, but this FTX thing was really a blind spot for me. i bought a lot of the glowing coverage.</p>
+          <p>— Eric Newcomer (@EricNewcomer) <a href="https://twitter.com/EricNewcomer/status/1590136550096269312?ref_src=twsrc%5Etfw">November 9, 2022</a></p>
+        </blockquote>
+        <p>          <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+&lt;/div&gt;          <div align="center">
+            <blockquote class="twitter-tweet" data-conversation="none" data-dnt="true">
+              <p lang="en" dir="ltr">interesting that crypto people seem more down on him since he wasn't really a true believer</p>
+              <p>— Eric Newcomer (@EricNewcomer) <a href="https://twitter.com/EricNewcomer/status/1590136584925753344?ref_src=twsrc%5Etfw">November 9, 2022</a></p>
+            </blockquote>
+            <p>              <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+&lt;/div&gt;              <div align="center">
+                <blockquote class="twitter-tweet" data-conversation="none" data-dnt="true">
+                  <p lang="en" dir="ltr">definitely i think the good democrat / guy with a real worldview (EA) was compelling to me. and plus the story of a smart trader who didn't buy into the crypto stuff. but man this is so crazy.</p>
+                  <p>— Eric Newcomer (@EricNewcomer) <a href="https://twitter.com/EricNewcomer/status/1590136748289323008?ref_src=twsrc%5Etfw">November 9, 2022</a></p>
+                </blockquote>
+                <p>                  <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+&lt;/div&gt;                  <p>There are a few different ways to interpret Sam Bankman-Fried’s political activism:<sup id="rf2-10010"><a href="https://stratechery.com/2022/narratives/#fn2-10010" title="Beyond the conspiracy theories that he was actually some sort of secret agent sent to destroy crypto, a close cousin of the conspiracy theory that Musk&#8217;s goal is to actually destroy Twitter; I mean, you can make a case for both!" rel="footnote">2</a></sup></p>
+                  <ul>
+                    <li>That he believed in the causes he supported sincerely and made a mistake with his business.</li>
+                    <li>That he supported the causes cynically as a way to curry favor and hide his fraud.</li>
+                    <li>That he believed he was some sort of savior gripped with an ends-justify-the-means mindset that led him to believe fraud was actually the right course of action.</li>
+                  </ul>
+                  <p>In the end, whichever explanation is true doesn’t really matter: the real world impact was that customers lost around $10 billion in assets, and counting. What is interesting is that all of the explanations are an outgrowth of the view that business ought to be about more than business: to simply want to make money is somehow wrong; business is only good insofar as it is dedicated to furthering goals that don’t have anything to do with the business in question.</p>
+                  <p>To put it another way, there tends to be cynicism about the idea of changing the world by building a business; entrepreneurs are judged by whether their intentions beyond business are sufficiently large and politically correct. That, though, is precisely why Bankman-Fried was viewed with such credulousness: he had the “right” ambitions and the “right” politics, so of course he was running the “right” business; he wasn’t one of those “true believers” who simply wanted to get rich off of blockchains.</p>
+                  <p>In the end, though, the person who arguably comes out of this disaster looking the best is Changpeng Zhao (CZ), the founder and CEO of Binance, and the person <a href="https://twitter.com/cz_binance/status/1589283421704290306">whose tweet</a> started the run that revealed FTX’s insolvency.<sup id="rf3-10010"><a href="https://stratechery.com/2022/narratives/#fn3-10010" title="Past performance is no guarantee of future results!" rel="footnote">3</a></sup> No one, as far as I know, holds up CZ as any sort of activist or political actor for anything outside of crypto; isn’t that better? Perhaps had Bankman-Fried done nothing but run Alameda Research and FTX there would have been more focus on his actual business; too many folks, though, including <a href="https://www.bloomberg.com/news/features/2022-04-03/sam-bankman-fried-ftx-s-crypto-billionaire-who-wants-to-give-his-fortune-away?sref=5KSwFgaY">journalists</a> and <a href="https://archive.ph/2022.11.10-002447/https://www.sequoiacap.com/article/sam-bankman-fried-spotlight/">venture capitalists</a>, were too busy looking at things everyone claims are important but which were, in the end, a diversion from massive fraud.</p>
+                  <h3 id="crypto-and-the-theory-narrative">Crypto and the Theory Narrative</h3>
+                  <p>I never wrote about Bankman-Fried; for what it’s worth, I always found his narrative suspect (this isn’t a brag, as I will explain in a moment). More broadly, I never wrote much about crypto-currency based financial applications either, beyond <a href="https://stratechery.com/2017/tulips-myths-and-cryptocurrencies/">this article</a> which was mostly about Bitcoin,<sup id="rf4-10010"><a href="https://stratechery.com/2022/narratives/#fn4-10010" title="Given Bitcoin&#8217;s performance in a high inflationary environment the argument that it is a legitimate store of value looks quite poor" rel="footnote">4</a></sup> and <a href="https://stratechery.com/2021/the-great-bifurcation/">this article</a> that argued that digital currencies didn’t make sense in the physical world but had utility in a virtual one.<sup id="rf5-10010"><a href="https://stratechery.com/2022/narratives/#fn5-10010" title="TBD" rel="footnote">5</a></sup> This was mostly a matter of uncertainty: yes, many of the financial instruments on exchanges like FTX were modeled on products that were first created on Wall Street, but at the end of the day Wall Street is undergirded by actual companies building actual products (and even then, things can quite obviously go sideways). Crypto-currency financial applications were undergirded by electricity and collective belief, and nothing more, and yet so many smart people seemed on-board.</p>
+                  <p>What I did write about was <a href="https://stratechery.com/2021/the-death-and-birth-of-technological-revolutions/">Technological Revolutions</a> and the possibility that crypto was the birth of something new; why <a href="https://stratechery.com/2022/opensea-raises-money-bans-nfts-openseas-value-cryptos-aggregators/">Aggregation Theory</a> would apply to crypto not despite, but because, of its decentralization; and <a href="https://stratechery.com/2021/internet-3-0-and-the-beginning-of-tech-history/">Internet 3.0</a> and the theory that political considerations would drive decentralization. That last Article was explicitly not about cryptocurrencies, but it certainly fit the general crypto narrative of decentralization being an important response to the increased centralization of the Web 2.0 era.</p>
+                  <p>What was weird in retrospect is that the <em>Internet 3.0</em> Article was written a week after the article about Aggregation Theory and OpenSea, where I wrote:</p>
+                  <blockquote>
+                    <p>One of the reasons that crypto is so interesting, at least in a theoretical sense, is that it seems like a natural antidote to Aggregators; <a href="https://stratechery.com/2017/tulips-myths-and-cryptocurrencies/">I’ve suggested as such</a>. After all, Aggregators are a product of abundance; scarcity is the opposite. The OpenSea example, though, is a reminder that I have forgotten one of my own arguments about Aggregators: demand matters more than supply…What is striking is that the primary way that most users interact with Web 3 are via centralized companies like Coinbase and FTX on the exchange side, Discord for communication and community, and OpenSea for NFTs. It is also not a surprise: centralized companies deliver a better user experience, which encompasses everything from UI to security to at least knocking down the value of your stolen assets on your behalf; a better user experience leads to more users, which increases power over supply, further enhancing the user experience, in the virtuous cycle described by <a href="https://stratechery.com/2015/aggregation-theory/">Aggregation Theory</a>.</p>
+                    <p>That Aggregation Theory applies to Web 3 is not some sort of condemnation of the idea; it is, perhaps, a challenge to the insistence that crypto is something fundamentally different than the web. That’s fine — as <a href="https://stratechery.com/2021/the-creator-opportunity-the-value-of-abundance-tv-and-sports-follow-up/">I wrote before the break</a>, the Internet is already pretty great, and its full value is only just starting to be exploited. And, as I argued in <a href="https://stratechery.com/2021/the-great-bifurcation/">The Great Bifurcation</a>, the most likely outcome is that crypto provides a useful layer on what already exists, as opposed to replacing it.</p>
+                  </blockquote>
+                  <p>Of the three Articles I listed, this one seems to be the most correct, and I think the reason is obvious: that was the only Article written about an actual product — OpenSea — while the other ones were about theory and narrative. When that narrative was likely wrong — that crypto is the foundation of a new technological revolution, for example — then the output that resulted was wrong, not unlike Musk’s wrong narrative leading to major mistakes at Twitter.</p>
+                  <p>What I regret more, though, was keeping quiet about my uncertainty about what exactly all of these folks were creating these complex financial products out of: here I suffered from my own diversionary narrative, paying too much heed to the reputation and viewpoint of people certain that there was a there there, instead of being honest that while I could see the utility of a blockchain as <a href="https://stratechery.com/2022/passport-update-independence-and-interoperability-web3-use-cases/">a distributed-but-very-slow database</a>, all of these financial instruments seemed to be based on, well, nothing.</p>
+                  <p>The FTX case is not, technically speaking, about cryptocurrency utility; it is a pretty straight-forward case of fraud. Moreover, it was, as I noted in passing in that OpenSea article, a problem of centralization, as opposed to true DeFi. Such disclaimers do, though, have a whiff of “communism just hasn’t been done properly”: I already made the case that centralization is an inevitability at scale, and in terms of utility, that’s the entire problem. An entire financial ecosystem with a void in terms of underlying assets may not be fraud in a legal sense, but it sure seems fraudulent in terms of intrinsic value. I am disappointed in myself for not saying so before.</p>
+                  <h3 id="ai-and-the-product-narrative">AI and the Product Narrative</h3>
+                  <p>Peter Thiel said in <a href="https://www.youtube.com/watch?v=-iYpmOV60ks">a 2018 debate with Reid Hoffman</a>:</p>
+                  <blockquote>
+                    <p>One axis that I am struck by is the centralization versus decentralization axis…for example, two of the areas of tech that people are very excited about in Silicon Valley today are crypto on the one hand and AI on the other. Even though I think these things are under-determined, I do think these two map in a way politically very tightly on this centralization-decentralization thing. Crypto is decentralizing, AI is centralizing, or if you want to frame in a more ideologically, you could say crypto is libertarian, and AI is communist…</p>
+                    <p>AI is communist in the sense it’s about big data, it’s about big governments controlling all the data, knowing more about you than you know about yourself, so a bureaucrat in Moscow could in fact set the prices of potatoes in Leningrad and hold the whole system together. If you look at the Chinese Communist Party, it loves AI and it hates crypto, so it actually fits pretty closely on that level, and I think that’s a purely technological version of this debate. There probably are ways that AI could be libertarian and there are ways that crypto could be communist, but I think that’s harder to do.</p>
+                  </blockquote>
+                  <p>This is a narrative that makes all kind of sense in theory; I just noted, though, that my crypto Article that holds up the best is based on a realized product, and my takeaway was the opposite: crypto in practice and at scale tends towards centralization. What has been an even bigger surprise, though, is the degree to which it is AI that appears to have the potential for far more decentralization than anyone thought. I wrote earlier this fall in <a href="https://stratechery.com/2022/the-ai-unbundling/">The AI Unbundling</a>:</p>
+                  <blockquote>
+                    <p>This, by extension, hints at an even more surprising takeaway: the widespread assumption — including by yours truly — that AI is fundamentally centralizing may be mistaken. If not just data but clean data was presumed to be a prerequisite, then it seemed obvious that massively centralized platforms with the resources to both harvest and clean data — Google, Facebook, etc. — would have a big advantage. This, I would admit, was also a conclusion I was particularly susceptible to, given my focus on Aggregation Theory and its description of how the Internet, contrary to initial assumptions, leads to centralization.</p>
+                    <p>The initial roll-out of large language models seemed to confirm this point of view: the two most prominent large language models have come from OpenAI and Google; while both describe how their text (GPT and GLaM, respectively) and image (DALL-E and Imagen, respectively) generation models work, you either access them through OpenAI’s controlled API, or in the case of Google don’t access them at all. But then came this summer’s unveiling of the aforementioned <a href="https://www.midjourney.com/">Midjourney</a>, which is free to anyone via its Discord bot. An even bigger surprise was the release of <a href="https://stability.ai/blog/stable-diffusion-public-release">Stable Diffusion</a>, which is not only free, but also open source — and the resultant models can be run on your own computer…</p>
+                    <p>What is important to note, though, is the direction of each project’s path, not where they are in the journey. To the extent that large language models (and I should note that while I’m focusing on image generation, there are a whole host of companies working on text output as well) are dependent not on carefully curated data, but rather on the Internet itself, is the extent to which AI will be democratized, for better or worse.</p>
+                  </blockquote>
+                  <p>Just as the theory of crypto was decentralization but the product manifestation tended towards centralization, the theory of AI was centralization but a huge amount of the product excitement over the last few months has been decentralized and open source. This does, in retrospect, make sense: the malleability of software, combined with the free corpus of data that is the Internet, is much more accessible and flexible than blockchains that require network effects to be valuable, and where a single coding error results in the loss of money.</p>
+                  <p>The relevance to this Article and introspection, though, is that this realization about AI is rooted in a product-based narrative, not theory. To that end, the third piece of news that happened last week was the release of Midjourney V4; the jump in quality and coherence is remarkable, even if the Midjourney aesthetic that was a hallmark of V3 is less distinct. Here is the image I used in <em>The AI Unbundling</em>, and a new version made with V4:</p>
+                  <p><img decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/11/narratives-1.png?resize=640%2C320&#038;ssl=1" alt="&quot;Paperboy on a bike&quot; with Midjourney V3 and V4" width="640" height="320" class="aligncenter size-full wp-image-10011" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/11/narratives-1.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/11/narratives-1.png?resize=300%2C150&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/11/narratives-1.png?resize=1024%2C511&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/11/narratives-1.png?resize=768%2C383&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/11/narratives-1.png?resize=1200%2C599&amp;ssl=1 1200w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+                  <p>One of the things I found striking about <a href="https://stratechery.com/2022/an-interview-with-midjourney-founder-david-holz-about-generative-ai-vr-and-silicon-valley/">my interview with MidJourney founder and CEO David Holz</a> was how Midjourney came out of a process of exploration and uncertainty:</p>
+                  <blockquote>
+                    <p>I had this goal, which was we needed to somehow create a more imaginative world. I mean, one of the biggest risks in the world I think is a collapse in belief, a belief in ourselves, a belief in the future. And part of that I think comes from a lack of imagination, a lack of imagination of what we can be, lack of imagination of what the future can be. And so this imagination thing I think is an important pillar of something that we need in the world. And I was thinking about this and I saw this, I’m like, “I can turn this into a force that can expand the imagination of the human species.” It was what we put on our company thing now. And that felt realistic. So that was really exciting.</p>
+                    <p><strong>Well, your prompt is, “/Imagine”, which is perfect.</strong></p>
+                    <p>So that was kind of the vision. But I mean, there is a lot of stuff we didn’t know. We didn’t know, how do people interact with this? What do they actually want out of it? What is the social thing? What is that? And there’s a lot of things. What are the mechanisms? What are the interfaces? What are the components that you build this experiences through? And so we kind of just have to go into that without too many opinions and just try things. And I kind of used a lot of lessons from Leap here, which was that instead of trying to go in and design a whole experience out of nothing, presupposing that you can somehow see 10 steps into the future, just make a bunch of things and see what’s cool and what people like. And then take a few of those and put them together.</p>
+                    <p>It’s amazing how you try 10 things and you find the three coolest pieces, and you put them together, it feels like a lot more than three things. It kind of multiplies out in complexity and detail and it feels like it has depth, even though it doesn’t seem like a lot. And so yeah, there’s something magic about finding three cool things and then starting to build a product out of that.</p>
+                  </blockquote>
+                  <p>In the end, the best way of knowing is starting by consciously not-knowing. Narratives are tempting but too often they are wrong, a diversion, or based on theory without any tether to reality. Narratives that are right, on the other hand, follow from products, which means that if you want to control the narrative in the long run, you have to build the product first, whether that be a software product, a publication, or a company.</p>
+                  <p>That does leave open the question of Musk, and the way he seemed to meme Tesla into existence, while building a rocket ship on the side. I suspect the distinction is that both companies are rooted in the physical world: physics has a wonderful grounding effect on the most fantastical of narratives. Digital services like Twitter, though, built as they are on infinitely malleable software, are ultimately about people and how they interact with each other. The paradox is that this makes narratives that much more alluring, even — especially! — if they are wrong.</p>
+                  <hr class="footnotes" />
+                  <ol class="footnotes" style="list-style-type:decimal">
+                    <li id="fn1-10010">
+                      <p>I gave a 15 minute overview of the FTX blow-up on Friday’s <a href="https://dithering.fm">Dithering</a>. <a href="https://stratechery.com/2022/narratives/#rf1-10010" class="backlink" title="Return to footnote 1.">↩</a></p>
+                    </li>
+                    <li id="fn2-10010">
+                      <p>Beyond the conspiracy theories that he was actually some sort of secret agent sent to destroy crypto, a close cousin of the conspiracy theory that Musk’s goal is to actually destroy Twitter; I mean, you can make a case for both! <a href="https://stratechery.com/2022/narratives/#rf2-10010" class="backlink" title="Return to footnote 2.">↩</a></p>
+                    </li>
+                    <li id="fn3-10010">
+                      <p>Past performance is no guarantee of future results! <a href="https://stratechery.com/2022/narratives/#rf3-10010" class="backlink" title="Return to footnote 3.">↩</a></p>
+                    </li>
+                    <li id="fn4-10010">
+                      <p>Given Bitcoin’s performance in a high inflationary environment the argument that it is a legitimate store of value looks quite poor <a href="https://stratechery.com/2022/narratives/#rf4-10010" class="backlink" title="Return to footnote 4.">↩</a></p>
+                    </li>
+                    <li id="fn5-10010">
+                      <p>TBD <a href="https://stratechery.com/2022/narratives/#rf5-10010" class="backlink" title="Return to footnote 5.">↩</a></p>
+                    </li>
+                  </ol>
+ &lt;/div&gt;</p>
+              </div>
+</p>
+          </div>
+</p>
+      </div>
+</p>
+  </div>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2022-12-12</time>
+        <a href="https://nodebe4.github.io/opinion/2022-12-12/Consoles-and-Competition/">
+          Consoles and Competition
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-12-05</time>
+        <a href="https://nodebe4.github.io/opinion/2022-12-05/AI-Homework/">
+          AI Homework
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-11-04</time>
+        <a href="https://nodebe4.github.io/opinion/2022-11-04/Stratechery-Plus-Adds-Sharp-China-with-Sinocism-s/">
+          Stratechery Plus Adds Sharp China with Sinocism’s Bill Bishop
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-10-31</time>
+        <a href="https://nodebe4.github.io/opinion/2022-10-31/Meta-Myths/">
+          Meta Myths
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-11-14/%E7%AC%AC%E4%B8%83%E5%B1%86%E7%B6%B2%E7%B5%A1%E7%A4%BE%E6%9C%83%E5%B9%B4%E6%9C%83-%E9%A6%99%E6%B8%AF%E8%AB%96%E5%A3%87-%E5%BE%90%E5%BE%90%E5%85%A5%E5%BA%95%E6%B5%81-%E5%9C%8D%E7%B9%9EP2P%E7%9A%84%E5%BE%AE%E5%9E%8B%E8%87%AA%E6%B2%BB%E8%97%9D%E8%A1%93%E5%AF%A6%E8%B8%90%E8%88%87%E8%A9%A2%E5%95%8F/">
+            前一篇：第七屆網絡社會年會｜[香港論壇] 徐徐入底流：圍繞P2P的微型自治藝術實踐與詢問
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-11-14/CUPodcast-10-ESG-%E5%82%BE%E5%91%A2%E5%95%B2-%E6%B0%A3%E5%80%99%E8%B3%A0%E5%84%9F%E5%88%97-COP27-%E8%AD%B0%E7%A8%8B-%E7%AA%AE%E5%9C%8B%E6%9C%89%E6%95%91%E4%BA%86%E5%97%8E/">
+            後一篇：【*CUPodcast】#10 ESG 傾呢啲：氣候賠償列 COP27 議程，窮國有救了嗎？
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-11-14/%E7%AC%AC%E4%B8%83%E5%B1%86%E7%B6%B2%E7%B5%A1%E7%A4%BE%E6%9C%83%E5%B9%B4%E6%9C%83-%E9%A6%99%E6%B8%AF%E8%AB%96%E5%A3%87-%E5%BE%90%E5%BE%90%E5%85%A5%E5%BA%95%E6%B5%81-%E5%9C%8D%E7%B9%9EP2P%E7%9A%84%E5%BE%AE%E5%9E%8B%E8%87%AA%E6%B2%BB%E8%97%9D%E8%A1%93%E5%AF%A6%E8%B8%90%E8%88%87%E8%A9%A2%E5%95%8F/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-11-14/CUPodcast-10-ESG-%E5%82%BE%E5%91%A2%E5%95%B2-%E6%B0%A3%E5%80%99%E8%B3%A0%E5%84%9F%E5%88%97-COP27-%E8%AD%B0%E7%A8%8B-%E7%AA%AE%E5%9C%8B%E6%9C%89%E6%95%91%E4%BA%86%E5%97%8E/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-12-05/AI-Homework/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-11-04/Stratechery-Plus-Adds-Sharp-China-with-Sinocism-s/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-11-14/%E7%AC%AC%E4%B8%83%E5%B1%86%E7%B6%B2%E7%B5%A1%E7%A4%BE%E6%9C%83%E5%B9%B4%E6%9C%83-%E9%A6%99%E6%B8%AF%E8%AB%96%E5%A3%87-%E5%BE%90%E5%BE%90%E5%85%A5%E5%BA%95%E6%B5%81-%E5%9C%8D%E7%B9%9EP2P%E7%9A%84%E5%BE%AE%E5%9E%8B%E8%87%AA%E6%B2%BB%E8%97%9D%E8%A1%93%E5%AF%A6%E8%B8%90%E8%88%87%E8%A9%A2%E5%95%8F/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-11-14/CUPodcast-10-ESG-%E5%82%BE%E5%91%A2%E5%95%B2-%E6%B0%A3%E5%80%99%E8%B3%A0%E5%84%9F%E5%88%97-COP27-%E8%AD%B0%E7%A8%8B-%E7%AA%AE%E5%9C%8B%E6%9C%89%E6%95%91%E4%BA%86%E5%97%8E/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-12-05/AI-Homework/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-11-04/Stratechery-Plus-Adds-Sharp-China-with-Sinocism-s/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

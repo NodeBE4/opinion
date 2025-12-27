@@ -1,0 +1,1560 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>EP-134 王维嘉：DeepSeek对中美AI竞争意味着什么？（文字版） – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+EP-134 王维嘉：DeepSeek对中美AI竞争意味着什么？（文字版）
+——
+" />
+    <meta property="og:description" content="
+EP-134 王维嘉：DeepSeek对中美AI竞争意味着什么？（文字版）
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="EP-134 王维嘉：DeepSeek对中美AI竞争意味着什么？（文字版）" />
+    <meta property="twitter:title" content="EP-134 王维嘉：DeepSeek对中美AI竞争意味着什么？（文字版）" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fwww.bumingbai.net%2F2025%2F02%2F134-wwj-text%2F%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3D134-wwj-text" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://www.bumingbai.net/2025/02/134-wwj-text/?utm_source=rss&utm_medium=rss&utm_campaign=134-wwj-text" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://www.bumingbai.net/2025/02/134-wwj-text/?utm_source=rss&utm_medium=rss&utm_campaign=134-wwj-text&text=EP-134 王维嘉：DeepSeek对中美AI竞争意味着什么？（文字版）&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://www.bumingbai.net/2025/02/134-wwj-text/?utm_source=rss&utm_medium=rss&utm_campaign=134-wwj-text&title=EP-134 王维嘉：DeepSeek对中美AI竞争意味着什么？（文字版）" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.bumingbai.net/2025/02/134-wwj-text/?utm_source=rss&utm_medium=rss&utm_campaign=134-wwj-text&title=EP-134 王维嘉：DeepSeek对中美AI竞争意味着什么？（文字版）" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=EP-134 王维嘉：DeepSeek对中美AI竞争意味着什么？（文字版）&body=
+EP-134 王维嘉：DeepSeek对中美AI竞争意味着什么？（文字版）
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://www.bumingbai.net/2025/02/134-wwj-text/?utm_source=rss&utm_medium=rss&utm_campaign=134-wwj-text" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://www.bumingbai.net/2025/02/134-wwj-text/?utm_source=rss&utm_medium=rss&utm_campaign=134-wwj-text&title=EP-134 王维嘉：DeepSeek对中美AI竞争意味着什么？（文字版）&caption=
+EP-134 王维嘉：DeepSeek对中美AI竞争意味着什么？（文字版）
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=EP-134 王维嘉：DeepSeek对中美AI竞争意味着什么？（文字版）&url=https://www.bumingbai.net/2025/02/134-wwj-text/?utm_source=rss&utm_medium=rss&utm_campaign=134-wwj-text" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>EP-134 王维嘉：DeepSeek对中美AI竞争意味着什么？（文字版）</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2025-02-04
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#不明白播客">
+          不明白播客
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://www.bumingbai.net/2025/02/134-wwj-text/?utm_source=rss&utm_medium=rss&utm_campaign=134-wwj-text" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="不明白播客的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#不明白播客 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1738671384000-->
+<p><a href="https://www.bumingbai.net/2025/02/134-wwj-text/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=134-wwj-text">EP-134 王维嘉：DeepSeek对中美AI竞争意味着什么？（文字版）</a>
+——</p>
+
+<div>
+  <div id="buzzsprout-player-16544898"></div>
+  <script src="https://www.buzzsprout.com/1982525/episodes/16544898-deepseek-ai.js?container_id=buzzsprout-player-16544898&#038;player=small" type="text/javascript" charset="utf-8"></script>
+  <p><strong>文字版全文：<br /></strong><br />03:07 DeepSeek是在“蒸馏”Open AI的大模型吗？<br />06:56 低成本训练路线能帮助中国AI追上美国吗？？<br />08:24 为什么说DeepSeek的成功是开源的胜利？<br />15:59 英伟达的股价暴跌是否说明AI算力的需求是泡沫？<br />21:28 美国的芯片出口管制政策失效了吗？<br />23:09 DeepSeek是中国模式的成功还是特例？<br />26:23 中国学生到美国留学还有意义吗？<br />31:41 假如人被AI取代，我们可以做什么？<br />36:23 嘉宾推荐</p>
+  <p>[00:00:02] <strong>袁莉: </strong>大家好，欢迎来到不明白播客，我是主持人袁莉。本周最热的话题毫无疑问是DeepSeek深度求索。这家位于杭州的初创企业上周发布的低成本人工智能模型DeepSeek在周一引发了美国股市地震。当天，所有与AI人工智能沾边的股票均重创，其中半导体公司英伟达股价当天下跌17%，市值蒸发5000多亿美元。从技术上，DeepSeek有哪些进步？如何合理评估它在人工智能发展史上的位置？他是抄了ChatGPT的作业，还是带来了颠覆性的创新？从地缘政治角度，这是否意味着芯片、算力不再是关键因素？美国对中国的技术管制已经失效？甚至像有的人说的，DeepSeek改变了中国的国运。</p>
+  <p>这一期我们请来了王维嘉先生。他在硅谷有三十多年的创业和投资经历，长期关注科技领域的创新项目。2019年，王维嘉出版了一本专门讨论人工智能的书，叫叫《暗知识：机器认知如何颠覆商业和社会》。维嘉你好。</p>
+  <p>[00:01:21] <strong>王维嘉: </strong>你好，袁莉。</p>
+  <p>[00:01:22] <strong>袁莉: </strong>这几天关于DeepSeek有非常多的评论，有些评价非常的高，觉得这是一个革命性、颠覆性的创新，也有一些评价比较低，觉得这不过是一个还不错的迭代更新，你会觉得把它放在什么样的位置上比较合适呢？</p>
+  <p>[00:01:38] <strong>王维嘉: </strong>它能引起股市这么大的震动，肯定不是一个特别小的创新。它重大的的方面就是大概把推理的成本降低了两个数量级，它的成本大概是OpenAI的30分之一，或者说是1%这个数量级了。科学技术上一般重大创新就是十倍。比如说人走路每小时走五公里，那汽车可以五十公里，这就是一个革命性的创新。从技术上来讲，美国现在发布出来的最新的模型大概是一年前做的训练，这一年当中呢，芯片的发展速度至少有五倍的加速，所以说DeepSeek有个100倍的加速呢，就大概相当于十倍，它的成本可能能比美国低到10分之1，我觉得这也是非常大的一个创新了，所以有人把它叫做拼多多嘛。</p>
+  <p>[00:02:42] <strong>袁莉: </strong>他们说AI界的拼多多。</p>
+  <p>[00:02:44] <strong>王维嘉: </strong>我觉得这个评论非常准确，从亚马逊到阿里到京东，已经把电子商务这套都摸熟了，然后出来一个拼多多，别人根本想不到它能赚钱，但它就是非常赚钱。我们抛开技术细节不谈，我觉得中国人在降本这方面全世界绝对第一。</p>
+  <p>[00:03:07] <strong>袁莉: </strong>DeepSeek出来以后，美国刚开始有很多很多人把它捧的很高很高，但是也很快有不少人出来说，其实就是抄作业。OpenAI就说他们发现DeepSeek涉嫌利用他们的专有模型进行蒸馏，侵犯知识产权。你能不能给大家解释一下什么叫做蒸馏？还有你怎么看这种指控呢？</p>
+  <p>[00:03:30] <strong>王维嘉: </strong>蒸馏是这样，因为大模型的参数，比如说最大的模型是1.75万亿参数，参数越多代表算力的要求就越高，使用起来越复杂。这种大模型就把全世界天文地理从古到今都用上了。但如果你只想要一个医学模型，不需要知道那么多事，要一个相对小的模型就行了，小模型就便宜。所以我就用大模型教小模型。这就叫蒸馏，实际上就是把某一方向的垂直知识从大模型里提炼出来，放到一个小模型里面，这样就不用从头训练小模型了。就像苏格拉底、亚里士多德全、达芬奇是全才。然后，他可以培养出一个数学老师，一个物理老师，一个化学老师，这就是蒸馏，就是师傅带徒弟。说蒸馏一般人不是特别理解，你说带徒弟就全明白了。</p>
+  <p>[00:04:33] <strong>袁莉: </strong>那你怎么看这样的指控呢？</p>
+  <p>[00:04:42] <strong>王维嘉: </strong>现在指控有两个方面，一个是说他们不止那么少的芯片，手里还有其被禁运的芯片。这件事儿，我没有任何证据，也没有去研究过，我觉得是完全可能的。现在中国的芯片走私基本上是公共常识，从新加坡、日本、韩国、台湾，这种走私肯定是有的。那一家公司拿到这样的芯片，我觉得是完全可能的。但是从它收费的价格上来看，它就是比OpenAI便宜3分之1，那你说它拿了非常贵的芯片，在API上收费很便宜，那不是亏本吗？人家有利润，就说明它的训练的确比较低才敢定这么低的价格。所以不管它偷没偷芯片或者用了多少芯片，成本是低的。至于有没有禁运芯片，我觉得这个事情谁都说不清楚。</p>
+  <p>第二，有没有用OpenAI的模型去蒸馏。我觉得在业界，实际上大家都在用，都在互相蒸馏。当然这里面有一个黑白线，在用OpenAI的API的时候有一个协议，就是你不可以用它来训练，如果违反了这个协议，那就是有问题。但是因为我见过的创业公司太多了，中国、美国，反正能工作再说。</p>
+  <p>[00:06:20] <strong>袁莉: </strong>先做出来再说，是吧？尤其在中国，而且美国的这个法律还治不到中国去。</p>
+  <p>[00:06:26] <strong>王维嘉: </strong>所以我觉得这些东西说不清楚，也没有任何证据，我觉得是完全有可能的，不能排除。但是你也不能确定，也许人家用的真的全是合规的芯片，然后一点儿没违反协议，这也是完全可能的。所以这东西说不清楚。我觉得讨论这个意义不是很大，也许美国政府的人从国家安全的角度可以，但像我们搞技术的，对这一点都没兴趣。</p>
+  <p>[00:06:56] <strong>袁莉: </strong>低成本训练模型的路线有没有可能帮助中国的人工智能发展追上美国？中国有可能会出现更多的DeepSeek吗？</p>
+  <p>[00:07:07] <strong>王维嘉: </strong>人工智能的发展这十来年里，降低成本一直是一个非常重要的方向。过去几年经常有各种，比如把成本降了一半的发明。降成本有几个方向，一个是芯片，每一代新的芯片都能把成本降一半，这就是黄仁勋老说的：the more you buy the more you save。另外算法上也经常有各种各样的突破，有节约两倍的，节约四倍的，但像他们这样一次能够将近一百倍，我觉得还是蛮大的一次突破。</p>
+  <p>能不能帮助中国缩小差距是很显然的。因为我用比较差的芯片，就可以达到好的芯片同样性能。但是这件事是这样的，因为它是开源的，所以全世界的人马上就都可以学会了，这就和中国学美国的技术一样的。只要是开源的，比如说美国的芯片比中国快十倍，那现在大家都用这个最好的算法，那美国整体还是比中国先进十倍。所以说我在想，会不会中国政府要求以后不要公开算法了。他们掐我脖子，我们也掐他们脖子。这是有可能的，这是我的瞎猜。</p>
+  <p>[00:08:24] <strong>袁莉: </strong>开源和闭源这两个模式在中美两国的AI企业中都有支持者，比如说OpenAI就是闭源，然后Meta，就是Faceboo是开源。这两者的区别是什么呢？在DeepSeek引发关注以后，MIT的这个首席人工智能科学家也说，并不是中国的人工智能超越了美国，而是开源模型正在超越专有模型。你认同这个说法吗？</p>
+  <p>[00:08:52] <strong>王维嘉: </strong>我用挖金矿给大家举个例子。比如现在可可西里发现金子了，然后无穷多的人去找金矿。先去找到金矿的人肯定不告诉你金矿在哪儿，对不对？最好连方向都不告诉你。就好像把一个很绿色的岛叫Iceland冰岛，把一个很冰的岛叫greenland格陵兰，就是为了不让你。这就是闭源。走在最前面发现的金子的人不想让人知道，从人性角度很能理解。</p>
+  <p>作为后来者怎么办呢？有一招可以这么做，比如说一共100个小分队去找金子，咱们这五十个小分队，结成一个开源。我只要在一个方向找到了金子，我就告诉大家，这个方向有金子的，大家全来这个方向一起来找，找到金子也要分享。这样找到金矿的可能性就大了。但是这开源里也分成几种，一个叫彻底开源，就是把源代码都开源，甚至把研究过程都告诉你。这是最彻底的开源。但是Deepseek不是这样的，它做的是权重开源，也就是模型开源。你可以拿着模型自己运行。这相当于挖矿的人告诉大家，这条路往西北二十六度这个方向有金子，但是具体我的金矿在哪儿，我是不告诉你的，你得自己挖。既然这个方向我发现了金矿，可能你们在其他地方都能发现金矿。</p>
+  <p>因为人多力量大。所以一般后来者会选择开源。OpenAI原来也是开源的，当ChatGPT发布以后，这个简直是万亿的市值，当然得自己捂起来了，就变成了闭源，这个非常非常容易理解。</p>
+  <p>像Meta，Facebook，它比较落后了。他选择了开源。至于开源能胜利还是闭源胜利？这真的很难说啊。开源的最大好处就是大家一起往前走，但开源有一个很大的问题。如果我告诉你这条路上有金矿，结果你发现金矿不告诉我怎么办？所以在开源社区里，绝大部分人是搭便车的，是自己占了便宜以后不和别人分享的。所以你要做开源的领袖，你最重要的就是你知道有90%的人是搭便车的，但你也要继续做这件事，所以说特别难，找到商业模式也很难。所以我觉得开源和闭源各有各的问题，不是哪个就一定好。比如DeepSeek现在发现这么大的一个金矿，它是不是继续开源，我觉得大家要拭目以待。</p>
+  <p>[00:11:43] <strong>袁莉: </strong>我和一个专门做AI研究的人讨论，他说OpenAI现在面临一个困境，它可能研究出来很多东西，但是不能说，他一说就像你刚才说的，就给大家指明了大致的方向，后来者就很容易知道往哪个方向去努力。</p>
+  <p>[00:12:06] <strong>王维嘉: </strong>他们指出的最重要的方向就是大语言模型这个方向。这方向实际上是谷歌2017年出来的。当时大家觉得语言处理过去就是翻译，这有什么用？才多大市场？所以他们就不研究了，没有再往下扎。但是OpenAI这些人觉得，那不行，语言是包含世界的，我们的思想边界就是语言的边界。维特根斯坦就是这样的理解。他们对这个理解更深，觉得要往这深挖。等ChatGPT一发布，大家就发现：哇，大语言模型这才是真正金矿。什么视觉处理、图片处理。机器人太小儿科了。其实OpenAI最早是要做机器人的，结果现在大家现在全拥到这上面了。</p>
+  <p>这就是你刚才说的问题，去年9月24号它发表O1 model的时候，它说在推理训练上使劲是正确方向，人们就又冲过来了。包括DeepSeek都是跟着OpenAI屁股后面追的，但他们又发现一条小路叫自动训练，不用人工了。这条小路是他们发现的。现在很多人也会跟着往前找，但是我觉得这两条大路还是OpenAI找出来的，这个是毫无疑问的。所以说创新还是有数量级的差别的。</p>
+  <p>[00:13:29] <strong>袁莉: </strong>我看你对DeepSeek的开源给了非常高的评价，为什么作为一个中国公司开源，你会评价这么高呢？</p>
+  <p>[00:13:36] <strong>王维嘉: </strong>原因就是在中国开源更难。我刚才说了，开源在全世界都很难，而且它是一个独特的西方的，特别美国的这样一种社区文化，你基本上是贡献。比如咱们都用wikipedia维基百科，我每年要给他们捐钱。大家用的很多。但是捐钱的有多少呢？</p>
+  <p>[00:13:57] <strong>袁莉: </strong>非常少，1%。</p>
+  <p>[00:13:59] <strong>王维嘉: </strong>1%。但是这东西对我们都有用，对我们俩来说，离了维基百科可能都不能活了。这么好的一个东西，它面临着生存问题，如果不是捐钱就真的活不下去。在中国更不要。这东西没好处，不能赚钱，中国人不愿意做。所以我觉得这种精神在中国极为稀缺，我作为一个技术理工男，对他们有有一种尊敬，我觉得这帮小孩确实很了不起。</p>
+  <p>[00:14:29] <strong>袁莉: </strong>尤其我看三十六氪的两篇采访，记者就不停的问，你有电费，你要养人，你有各种成本，你的商业化的模式是什么，就不停不停地问，这个人就不停地说赚钱不是我想的事情。</p>
+  <p>[00:14:44] <strong>王维嘉: </strong>你看中国的公司，过去说因为中国是没钱，不能做这些异想天开的事。但今天的阿里、百度、腾讯，他们账上也几百亿、上千亿美金，他们有没有做这种天马行空的事？我觉得很少。我觉得这不是钱的问题，完全是一个民族的精神的问题。所以我觉得这帮小孩特别可贵，就是在这儿。</p>
+  <p>[00:15:12] <strong>袁莉: </strong>大家好，我是袁莉，你们刚刚听到的精彩对话背后有几十个小时的精心准备和制作，这需要阅读大量资料，花时间与采访对象沟通，只有这样才能问出好的问题，才可能进行有深度的对话。不明白播客会继续致力于制作高品质的新闻内容，让中国人听到深刻的思考、真实的情感。在这个灰暗不确定的年代，听到彼此心中的一点坚持。请大家继续支持不明白播客，让我们把这个事业长期地进行下去。欢迎听众朋友们到我们本期的内容简介里点击捐赠链接，或者访问我们的网站，bumingbai.net的捐赠页面。</p>
+  <p>[00:15:59] <strong>袁莉: </strong>这几天股市的反应非常大，特别是英伟达的股价受到了重创，这是不是意味着英伟达或者说芯片算力以后就没有那么重要了呢？</p>
+  <p>[00:16:10] <strong>王维嘉: </strong>我觉得这是一种静态的思维。就是说我现在节省了一百倍，以后就只需要1%的芯片。但是你不知道的是，未来对芯片的需求几乎是无穷无尽的，你可以这样想：算力等于什么？等于智能。智能等于什么？等于财富。人对财富的追求是无穷无尽的。我认识很多大企业家，没有一个人觉得我钱赚够了。我有一个Billion，我一定要赚十个Billion，我十个Billion，我想赚100个Billion，我有了100个Billion，我还没有马斯克有钱，对吧？所以对于算力的需求，就是对钱的需求，是无穷无尽的。这是第一点。</p>
+  <p>从微观角度看，如果你能用一个10亿美元的模型做出一个初级的程序员，或者一个初级的会计，那现在比如因为DeepSeek这样的节省哈，你可能用一亿美元就能做出来了。但是我如果还花10亿美元，我就能训练出一个中级的工程师和中级的会计，要是花100亿美元就能训练出高级的工程师。所以我还是要花那么多钱，对于算力的需求是无穷的。只是等于把原来的AI的功能提前实现了。比如有了10万颗芯片，现在能做的事情一下子变多了，但是我还有更多的事想做，所以我还要花那么多钱。</p>
+  <p>你看昨天Meta和微软的财报发布。Meta要投650亿美元，微软要投800亿美元，几乎把他们的自由现金流全砸去买芯片了。回过头来回答你问题，为什么市场反映这么大？因为AI这次AI大革命是人类在一个十字路口上，在一个荒原上，谁都不知道前面的路在哪，谁都说不清楚。像OpenAI的Sam Altman这些人能够比我们多看几步，但大部分人是不清楚的。华尔街这些人相当于是金矿的探险队的资助者，他们住在城里头啊。探险队队长有时候跟他打个电报，说我们老板进展还比较顺利。那些探险队的队长，就是微软的CEO，Meta的CEO，伊隆马斯克这些人，他们在第一线。他们手下有好多分队去探险，然后每天回来给他们报告新的消息。所以他们在第一线就有很多real signal真实信号，或者是体感。你想这些人所在的都是上市公司，他把自己的所有现金流全部砸进去了。他不可能一拍脑袋做这种事，一定是看到了巨大的机会。所以这时候华尔街和第一线的这些操作者们之间有巨大的差距。包括这些分析员们，分析员们最多和我一样做做research，他们是没有体感的，有信息差，有认知差。</p>
+  <p>[00:19:19] <strong>袁莉: </strong>你那个流传很广的讲话里面谈到的Jevons paradox，现在在美国大家也谈很多，你能不能解释一下这是什么，为什么大家都在说这个呢？</p>
+  <p>[00:19:30] <strong>王维嘉: </strong>Jevons paradox杰文斯悖论，这是英国的经济学家在1860年发现的。当蒸汽机的效率提高了以后，按道理对煤炭的需求量应该减少，但事实上是大幅增加。我举个简单的例子，比如原来英国一共有100台蒸汽机，那一台蒸汽机一天消耗一吨煤，那一天就是100吨煤。这些蒸汽机又大又笨，就在矿井抽水。突然有工程师把它改进了十倍，现在一天烧100公斤煤，那按道理说100台蒸汽机原来是一百吨，现在十吨就够了。但事实上是什么呢？大家一看蒸汽机现在这么好用，这么便宜，而且变轻了，变小了，那是不是可以考虑除了矿井以外，可以做运输，拉火车、拉马车、煤、粮食等等。结果蒸汽机就从原来一百台变成一万台了，每台还是消耗100公斤煤，现在的煤炭需求就从原来的一百吨变成一千吨了。它的效率提高造成了它的耗煤量大幅增加。</p>
+  <p>我觉得DeepSeek实际上是同样一个道理。比如OpenAI可能已经能做出Agent来帮你规划你的所有的旅行，但是弄一次$200。你说这太贵了，我自己花个半个小时也可以。但如果一次$2，那你肯定让它做了。你可以这样想象，现在OpenAI一共有3亿用户，我不知道付费用户有多少，也许有1亿，一个月交20美元，假如你把你的账单、旅行，家里的杂事都给它，然后一个月收50块，那你肯定愿意付。而你愿意付的这个意愿就和手机一样，你就离不开了。全世界可能有50亿的人，或者是70亿的人愿意一个月付50块，那这个市场多大？</p>
+  <p>[00:21:28] <strong>袁莉: </strong>DeepSeek能够用性能不是最好的英伟达芯片开发出这么先进的技术，或者是这么有效率的技术，这是不是证明美国对中国的芯片出口管制失效呢？没有起到应有的效果呢？</p>
+  <p>[00:21:47] <strong>王维嘉: </strong>刚才我们说的这个走私怎么堵得住？这是一个。还有一个，算法都是公开的，你的算法上只要开源，只要发表，大家都在同一个水平。现在DeepSeek把它降到原来1%，现在所有美国的算法都可以借鉴，它的东西也可以达到这样。但是如果美国的芯片比中国还是快十倍，那整体来讲，美国的整个的大模型的能力还是要高十倍。这就今天Anthropic的CEO Amodei也在说：你走私几百个、几千个芯片可以，但是几百万个可能就比较困难了。所以我觉得这不能代表制裁失效，还是让中国很困难。或者反过来说，假如你现在说放开制裁，那你说中国这些公司该多高兴啊。</p>
+  <p>[00:22:40] <strong>袁莉: </strong>DeepSeek这一波走红会让美国政府反思对中国高科技的限制吗？因为好多人都说这是Sputnik moment斯普特尼克时刻，就是苏联放卫星的时候美国受到的震动。</p>
+  <p>[00:22:52] <strong>王维嘉: </strong>这次震动其实挺大的，最主要是因为股市。你想川普的这种人不懂技术的，但是他懂股市。这股市跌了两万亿，我认为我也不懂，我也和这些人没接触，但是我的感觉应该肯定是进一步加紧控制，肯定是这样。</p>
+  <p>[00:23:09] <strong>袁莉: </strong>我今天看了一个人写的文章，他说用英文来说，这个DeepSeek的成功是因为中国模式的优越性，还是中国模式下的一个特例呢？</p>
+  <p>[00:23:27] <strong>王维嘉: </strong>首先中国模式是举国体制。梁文锋他们和举国体制八竿子打不着，就完全一帮小孩，有技术理想，这是我很佩服他们的原因。如果是举国体制，他死定了。如果一开始就是政府要他干的，他肯定做不出这样的结果。所以我觉得是中国模式的特例，是受美国的开源社区技术理想主义的影响，我觉得这是No.1的文化价值。梁文锋的文化价值。</p>
+  <p>[00:23:59] <strong>袁莉: </strong>我也这么觉得，我觉得他非常特别，不像中国公司。所以有人就说，实际上这个深度求索更像真正的openAI。还有就是梁文锋最近受到了中国总理李强的接见，我不知道你愿意不愿意猜测一下，李强为什么要接见梁文锋呢？中国政府会想要把深度求索纳入自己宏伟的科技强国的计划吗？如果你是梁文锋，一下受到中国政府这么大的关注，接下来你会怎么做呢？</p>
+  <p>[00:24:33] <strong>王维嘉: </strong>这个很好理解，因为中国现在对人工智能很重视，政府高度重视，现在又做出这么大一个突破，等于是中国的第一，最牛的团队。所以如果讨论人工智能产业政策，那肯定请他来座谈，我觉得这都非常好理解。下一步政府对它是什么样一个要求，那我就不知道了。如果把它纳入举国体制，一切按国家的意思来，我觉得这个团队就完蛋了。</p>
+  <p>[00:25:05] <strong>袁莉: </strong>如果这个公司是你投的，它怎么面对政府的各种的示好，要给它资源什么之类的，要纳入举国体制，有没有办法不要？</p>
+  <p>[00:25:17] <strong>王维嘉: </strong>我觉得如果是一个创业公司的话，给资源肯定是会要的，给你钱，给你更多的芯片，把不多的芯片都堆到你这来。我猜测，就按着人性来，从常识出发，他是会要的。但是天下没有免费的午餐，我给你钱，给你资源，给你支持，那你是不是得听我的？各级的科委，主任，省长、部长，全得来视察，光接待他都受不了。所以我总体来讲，我觉得对他不是个好事。</p>
+  <p>[00:25:52] <strong>袁莉: </strong>嗯，我和一个AI的投资人聊，他说他最好就是推掉，不然的话就每天的各种参观的，接待的这种。</p>
+  <p>[00:26:01] <strong>王维嘉: </strong>推不掉的，你怎么能推掉？完全推不掉。而且如果政府真的给他提各种各样要求，他也没有力量去拒绝他。不可能的，完全不可能。所以这就是这问题。如果你在美国的话，我完全可以门一关，谁都不接见，总统来了我都不见，对不对？完全可以，没人把你怎么样，那在中国你怎么敢？</p>
+  <p>[00:26:23] <strong>袁莉: </strong>还有一个被广泛讨论的就是他的团队主要是中国本土大学培养的人才，比如清华、北大、中山大学、浙大这些的中国大学。这是否意味着美国这几年对中国的理工科学生的签证有很多的限制，这种政策其实没有什么用，甚至还适得其反呢？</p>
+  <p>[00:26:46] <strong>王维嘉: </strong>我觉得挺难说。如果这些最聪明的小孩到了美国来，我觉得他还是能上一个层次。当然他本来就很聪明。梁文锋他们主要是在六七个方面有改进，我觉得这些人足以胜任做这样的事。但我觉得如果他们能到美国来，对他们个人来讲肯定还是一个很大的提升。</p>
+  <p>比如说我在斯坦福读书。首先，我的导师们都是各个学科的开山鼻祖，像我当年做Neural Network神经网络，他们从1959年最早开始做，你和这些人耳濡目染在一起，他的格局，他问题的方法是完全不一样的。第二点，我当时刚刚到斯坦福，在中国的80年代，其实现在也有人这么说：咱们中国人是最聪明的。我到这一看，中国人是不笨，但是人家法国人、以色列人、印度人没有一个笨的，能进斯坦福、伯克利、哈佛的都是世界上顶尖的人。所以说中国人最聪明完全是bullshit。这些人原来在北大、清华可能是TOP，到了斯坦福来一看，哇，我就不过尔尔。和这些人的交流，我觉得也是非常大的进步。第三点就是整个社会的开放精神。比如在斯坦福和硅谷的交流啊，每天都非常密集和公司交流各种事情，因为宇宙的中心就是斯坦福，人工智能所有的事都发生在这儿。所以我觉得这些顶级聪明小孩如果能进这种学校，那对他们个人绝对是上一个台阶的概念，但这并不等于他们不出国就做不出这样的成绩，因为他聪明嘛。另外我刚才说的，现在交流也比较充分，就是读paper啊，还有GitHub这些开源的东西，他们在国内也能看到。但是整个格局我觉得可能还是受限制。</p>
+  <p>[00:28:45] <strong>袁莉: </strong>那说明美国的学生签证的政策还是有用的，对不对？就是对美国是有用的。</p>
+  <p>[00:28:51] <strong>王维嘉: </strong>我觉得签证是很复杂的一件事，我也想不清楚。到底是应不应该让中国最聪明的小孩来学这些最先进的科技，我也没去研究过。如果全都回到中国，那肯定对美国是损失，都留在美国，那肯定对中国的损失。到底多少会留下，多少人回去呢？就不知道了，所以这事儿就不好说了。</p>
+  <p>[00:29:16] <strong>袁莉: </strong>自从ChatGPT引领了AI热以后，相关的股票和投资飞涨，数以亿计的普通用户以及文字和代码工作者用大语言模型提升了他们的工作和生活效率。你刚才也说了，很多的企业也大力投资大预言模型和生成式AI，但是到目前为止，我们还没有看到特别盈利和成功的应用场景，你觉得什么样的企业和应用场景能够利用这项技术实现商业上的成功呢？就像当时那个互联网出来的时候，那么多人都在做，但是呢，这个最后成功挣钱的东西，还是用了好久。</p>
+  <p>[00:29:57] <strong>王维嘉: </strong>现在ChatGPT本身年收入已经可能几十亿，接近百亿了。就是这个run rate。然后Anthropic的CEO自己说，他们现在的收入一年中从一亿到了十亿。它的收入主要是写软件编码，我觉得编码是可能是第一个最能赚钱的，原来一个工程师能做一个人的事，现在一个人可以做十个人的事。你的coding，debugging，好多都让软件做了，你只要是把软件的架构搭好，然后有大的格局观，很快就可以把软件做出来。为什么过去软件工程师一直稀缺呢？你永远招不到足够多的软件工程师。但现在等于是AI替你做了。我觉得这对生产力是一个爆炸性的增长。</p>
+  <p>另外下面的Agent，比如说企业现在第一步先做的客服。原来你订机票给人工打电话多费钱。即使弄到印度去做也很费钱，而且口音也听不清楚。现在用AI做客服，一下就把这个问题全解决了。下面不光能做客服，还可以做销售，做Marketing市场。所以一个企业里几乎所有的工作，从律师到人事到工程师，全能AI做。AI现在一点点在蚕食人的工作，或者说放大人的能力。原来十个人做的事，现在一个人就能做了，还需要一到两年的时间吧。但是我觉的现在是在爆炸的前夜。</p>
+  <p>[00:31:31] <strong>袁莉: </strong>那你觉得这个浪潮的多大呢？是比互联网和大的吗？</p>
+  <p>[00:31:34] <strong>王维嘉: </strong>现在看来肯定比互联网大，我真的觉得可能比互联网大十倍。</p>
+  <p>[00:31:41] <strong>袁莉: </strong>我问一个很陈旧的问题，人就真的是要被替代了吗？</p>
+  <p>[00:31:46] <strong>王维嘉: </strong>那不一定。你看历史上所有的技术进步替代人，如果有一代人的时间的话，比如你现在生出小孩来，他就自动就学新的东西了。问题就在于如果替代的速度太快，现在被替代的这些人就比较惨，这是一个问题。当然从经济上呢，如果AI能够产生大量的财富的话，也可以用UBI这种方法。</p>
+  <p>[00:32:13] <strong>袁莉: </strong>就是每个月给你发钱，你就不用去想生计了。</p>
+  <p>[00:32:18] <strong>王维嘉: </strong>所以至少在美国这样国家，你的基本的温饱应该不会有问题。但是人的尊严不是吃饱饭就能得来的。但是我还要说，目前的AI，是只有智商没有情商的，所以人就可以做大量的情商性的工作。比如说你是一个特别有同理心的人，特别是女性，我觉得未来比男的要更有前途。男的可能就傻眼了，一个男的就是靠智力，女的呢，既有智力又有情商。你可以做心理辅导，或者陪伴各种各样的事。我觉得艺术会得到大发展，人可以去做艺术，所以我没有那么悲观。但是有一些比较routine性的工作，比如一些初级白领是会被替代的。</p>
+  <p>[00:33:11] <strong>袁莉: </strong>肯定有一些家长或者有一些年轻人说我小孩上大学应该报什么专业啊？</p>
+  <p>[00:33:23] <strong>王维嘉: </strong>我经常被问到这个问题啊，我觉得就学两个，一个语文，一个数学。首先现在这个literacy，叫博雅教育啊，甚至变得更重要了。</p>
+  <p>[00:33:35] <strong>袁莉: </strong>liberal arts education</p>
+  <p>[00:33:36] <strong>王维嘉: </strong>liberal arts education把你培养一个well rounded的人，这比以前任何时候都重要。具体的技术越来越不重要。为什么我说数学重要呢？数学不是技术，数学是一种理念。包括普通物理，或者是基本物理，它其实也是一种理念。所以说数学让你有逻辑的思维，然后liberal arts education让你是一个完整的人。</p>
+  <p>我觉得把语文和数学学好就行了。当然对中国人来讲，要把英文学好，因为不同的语言让你看到完全不同的世界。</p>
+  <p>[00:34:15] <strong>袁莉: </strong>那我们最后一个问题吧，你能不能分别站在美国和中国的角度，从DeepSeek这件事上能够吸取什么样的启发或者是教训呢？</p>
+  <p>[00:34:27] <strong>王维嘉: </strong>站在美国角度，我觉得美国这次反应的有点过度。美国可能觉得过去所有的创新，重要创新都是来自美国。现在有一个来自中国的，大家觉得不应该。其实你仔细想想，有100个小分队在可可西里不同的方向是找金矿，结果这个找到了。这里有一定的偶然因素，就和OpenAI当年发现了这个大预言模型是一个道理。谷歌也会说为什么不是我。微软说为什么不是我，是你们这帮小子。我觉得这和你在具体的世界的哪个位置没有关系，因为现在信息是比较流通的。所以我觉得对这个事应该有一个平常心。</p>
+  <p>对中国来说，你要看到除了运气以外，那么多模型，百模大战为什么是他们做出来呢？DeepSeek和这些模型的区别是什么？就是它的技术理想主义。我觉得西方的这种精神的影响，自由独立的精神影响，这种开源社区的公益精神的影响，这种纯粹的追求自己爱好更有可能有新的发现。这就是科学的精神。科学不是为了有用，而是我喜欢，或者为了美。这种东西目前中国人还是不太接受。我觉得这是一个稀有的案例，如果中国想为自己好的话，别把这个小嫩芽给掐死了。</p>
+  <p>[00:35:55] <strong>袁莉: </strong>我看三十六氪里面梁文锋接受采访的时候，说他为什么基金做那么成功，要去做AI。他说我就是想知道AI的边界在哪里，纯粹就是出于好奇心。我当时看了真的特别特别的有感触。</p>
+  <p>[00:36:13] <strong>王维嘉: </strong>这是去年7月的一个采访，我也看了，我看完以后就注意了，我觉得，哇，这在中国极为稀缺，在中国就是奇葩。</p>
+  <p>[00:36:23] <strong>袁莉: </strong>绝对奇葩。对，真的是。我们请每位嘉宾推荐三部书或者影视作品，你有什么推荐？</p>
+  <p>[00:36:31] <strong>王维嘉: </strong>我推荐两本中文的书，一本英文的书。一本是这个叫《消失的真实：现代社会的思想困境》，是金观涛写的。第二本书也是他写的，叫《真实与虚拟：后真相时代的哲学》。我为什么推荐这两本书呢？其实AI发展到了今天，全世界的人都有点懵，我们整个认知框架都被打碎了，不知道这个世界应该是什么样的，什么是真的，什么是假的，什么是善的，什么是恶的。无论是极权主义、还是自由主义、威权主义的意识形态，我觉得现在都有点不适应现在新的这个时代了。金观涛这些书是一个新的探索，能够给大家提供一个新的认知框架，我个人是受益无穷。我还推荐一本英文的书，是很老的一本书，是PeterThiel推荐读的。这本书出版25年了，叫The Sovereign Individual。这本书在二十五年前就预见到了今天的加密货币。我觉得特别牛，那时候还没有比特币，他就已经预见到了。中文可能叫《主权个人》。</p>
+  <p>[00:38:04] <strong>袁莉: </strong>好，谢谢，谢谢维嘉，也谢谢大家收听，我们下期再见。</p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#不明白播客 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-28/EP-137-%E8%AE%B8%E6%88%90%E9%92%A2-DeepSeek-%E6%B0%91%E4%BC%81%E5%BA%A7%E8%B0%88%E4%BC%9A%E8%83%BD%E5%90%A6%E9%87%8D%E6%8C%AF%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E-(%E6%96%87%E5%AD%97%E7%89%88/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2022-10-09/EP-020-%E8%94%A1%E9%9C%9E-%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E5%AF%B9%E4%B8%AD%E5%85%B1%E7%BB%9D%E6%9C%9B/">最早</a>--</span>
+    
+      <li>
+        <time>2025-02-11</time>
+        <a href="https://nodebe4.github.io/opinion/2025-02-11/EP-135-%E5%9F%BA%E5%B1%82%E5%8C%BB%E7%94%9F-%E6%AF%94%E9%9B%86%E9%87%87%E8%8D%AF%E6%9B%B4%E5%8F%AF%E6%80%95%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88-%E6%96%87%E5%AD%97%E7%89%88/">
+          EP-135 基层医生：比集采药更可怕的是什么？（文字版）
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2025-02-07</time>
+        <a href="https://nodebe4.github.io/opinion/2025-02-07/EP-135-%E5%9F%BA%E5%B1%82%E5%8C%BB%E7%94%9F-%E6%AF%94%E9%9B%86%E9%87%87%E8%8D%AF%E6%9B%B4%E5%8F%AF%E6%80%95%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88/">
+          EP-135 基层医生：比集采药更可怕的是什么？
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2025-02-01</time>
+        <a href="https://nodebe4.github.io/opinion/2025-02-01/EP-134-%E7%8E%8B%E7%BB%B4%E5%98%89-DeepSeek%E5%AF%B9%E4%B8%AD%E7%BE%8EAI%E7%AB%9E%E4%BA%89%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88/">
+          EP-134 王维嘉：DeepSeek对中美AI竞争意味着什么？
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2025-01-31</time>
+        <a href="https://nodebe4.github.io/opinion/2025-01-31/EP-133-%E4%B8%AD%E5%9B%BD%E4%BB%BF%E5%88%B6%E8%8D%AF%E4%B8%8E%E9%9B%86%E9%87%87%E5%88%B6%E5%BA%A6%E5%87%BA%E4%BA%86%E4%BB%80%E4%B9%88%E9%97%AE%E9%A2%98-%E6%96%87%E5%AD%97%E7%89%88/">
+          EP-133 中国仿制药与集采制度出了什么问题？（文字版）
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2025-02-03/The-De-Minimis-Loophole,-Impact-on-Amazon-and-Meta/">
+            前一篇：The De Minimis Loophole, Impact on Amazon and Meta, AI and Abundance
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2025-02-04/Apple-Earnings,-OpenAI-Deep-Research,-The-Unbundli/">
+            後一篇：Apple Earnings, OpenAI Deep Research, The Unbundling of Substantiation
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2025-02-03/The-De-Minimis-Loophole,-Impact-on-Amazon-and-Meta/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2025-02-04/Apple-Earnings,-OpenAI-Deep-Research,-The-Unbundli/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2025-02-07/EP-135-%E5%9F%BA%E5%B1%82%E5%8C%BB%E7%94%9F-%E6%AF%94%E9%9B%86%E9%87%87%E8%8D%AF%E6%9B%B4%E5%8F%AF%E6%80%95%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2025-02-01/EP-134-%E7%8E%8B%E7%BB%B4%E5%98%89-DeepSeek%E5%AF%B9%E4%B8%AD%E7%BE%8EAI%E7%AB%9E%E4%BA%89%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2025-02-03/The-De-Minimis-Loophole,-Impact-on-Amazon-and-Meta/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2025-02-04/Apple-Earnings,-OpenAI-Deep-Research,-The-Unbundli/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<不明白播客>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2025-02-07/EP-135-%E5%9F%BA%E5%B1%82%E5%8C%BB%E7%94%9F-%E6%AF%94%E9%9B%86%E9%87%87%E8%8D%AF%E6%9B%B4%E5%8F%AF%E6%80%95%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<不明白播客>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2025-02-01/EP-134-%E7%8E%8B%E7%BB%B4%E5%98%89-DeepSeek%E5%AF%B9%E4%B8%AD%E7%BE%8EAI%E7%AB%9E%E4%BA%89%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

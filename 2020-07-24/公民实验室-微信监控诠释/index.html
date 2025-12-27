@@ -1,0 +1,957 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>公民实验室：微信监控诠释 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+公民实验室：微信监控诠释
+——
+" />
+    <meta property="og:description" content="
+公民实验室：微信监控诠释
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="公民实验室：微信监控诠释" />
+    <meta property="twitter:title" content="公民实验室：微信监控诠释" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2F2049post.wordpress.com%2F2020%2F07%2F24%2Fv1tech1%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://2049post.wordpress.com/2020/07/24/v1tech1/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://2049post.wordpress.com/2020/07/24/v1tech1/&text=公民实验室：微信监控诠释&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://2049post.wordpress.com/2020/07/24/v1tech1/&title=公民实验室：微信监控诠释" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://2049post.wordpress.com/2020/07/24/v1tech1/&title=公民实验室：微信监控诠释" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=公民实验室：微信监控诠释&body=
+公民实验室：微信监控诠释
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://2049post.wordpress.com/2020/07/24/v1tech1/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://2049post.wordpress.com/2020/07/24/v1tech1/&title=公民实验室：微信监控诠释&caption=
+公民实验室：微信监控诠释
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=公民实验室：微信监控诠释&url=https://2049post.wordpress.com/2020/07/24/v1tech1/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+    
+
+
+
+<article class="post">
+  <h1>公民实验室：微信监控诠释</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2020-07-24
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#火光">
+          火光
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://2049post.wordpress.com/2020/07/24/v1tech1/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="火光的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#火光 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1595624700000-->
+<p><a href="https://2049post.wordpress.com/2020/07/24/v1tech1/">公民实验室：微信监控诠释</a>
+——</p>
+
+<div>
+  <div class="wp-block-jetpack-markdown">
+    <p><a href="https://citizenlab.ca/2020/05/%E5%BE%AE%E4%BF%A1%E7%9B%91%E6%8E%A7%E8%AF%A0%E9%87%8A/">原文链接</a></p>
+    <p><strong>作者</strong>： Miles Kenyon</p>
+    <p>公民实验室2020年5月7日<a href="https://citizenlab.ca/2020/05/we-chat-they-watch/">发布报告</a>指出，中国最流行的社交媒体软件微信是对平台上的文档和图像内容实施监控，并使用监控所得的数据训练其审查系统。本文是对该报告的概述，以及与研究团队的一些常见问答。</p>
+    <h1 id="section">研究摘要</h1>
+    <p><img src="https://citizenlab.ca/wp-content/uploads/2020/05/illustration1_web.png" alt="Illustration of photos being uploaded onto a phone." /></p>
+    <p><strong>微信监控非中国大陆区注册账号，并利用非中国大陆区账号之间的聊天记录训练微信针对中国大陆账号的审查系统。</strong></p>
+    <p>此前我们的研究发现微信针对使用中国大陆手机号码注册的账号进行审查。不在中国大陆的用户可能会认为微信针对政治内容的审查和监控并不会影响到他们。然而，在最新的研究中，我们发现微信国际账号之间的通讯会被监控，通讯中的政治敏感内容会被用于训练和扩大微信针对中国大陆账号的审查。我们通过技术分析，发现此监控针对通讯中的文档和图像内容。目前我们无法得知文字信息是否受到同样的监控，我们提示用户存在这种可能性。</p>
+    <p><img src="https://citizenlab.ca/wp-content/uploads/2020/05/illustration2_web.png" alt="Illustration of a sender and the receiver in a chat." /></p>
+    <p><strong>监控和审查均不会提示用户，缺乏透明。</strong></p>
+    <p><img src="https://citizenlab.ca/wp-content/uploads/2020/05/Illustration3_web2.png" alt="Illustration of a privacy policy." /></p>
+    <p><strong>微信对外公开的政策协议文件，个人信息请求，及微信的隐私专员均没有表明或解释微信会进行内容监控。</strong></p>
+    <h1 id="section-1">与研究团队的常见问答</h1>
+    <h2 id="section-2">微信如何进行审查？</h2>
+    <p>此前我们的<a href="https://citizenlab.ca/2016/12/%E4%B8%80app%E4%B8%A4%E5%88%B6%EF%BC%9A%E5%BE%AE%E4%BF%A1%E5%A6%82%E4%BD%95%E5%8C%BA%E5%88%AB%E5%AE%A1%E6%9F%A5%E4%B8%AD%E5%9B%BD%E5%8F%8A%E6%B5%B7%E5%A4%96%E7%94%A8%E6%88%B7/">研究发现</a>微信针对使用中国大陆手机号码注册的账号进行关键词和图片审查。</p>
+    <p>微信通过服务器端进行内容审查，审查机制存储在服务器上。信息从一方微信用户发送到另一方时，它会途径腾讯（微信的母公司）管理的服务器，服务器在把信息传递到接收方时会先检查该信息是否含有敏感词。</p>
+    <p><a href="https://citizenlab.ca/wp-content/uploads/2020/05/WeChat-FAQ-figure-1-1.png"><img src="https://citizenlab.ca/wp-content/uploads/2020/05/WeChat-FAQ-figure-1-1.png" alt="" /></a></p>
+    <p>图一： 客户端审查示意图</p>
+    <p>含有敏感词的信息会被屏蔽，微信不会对信息发送方或接收方进行屏蔽提示。以下截屏显示的是两个中国大陆注册微信账号的聊天界面。一个账号试图发送关键词"法轮功"，该关键词被屏蔽，但没有任何信息提示发送者或接收者信息被屏蔽了。</p>
+    <p><a href="https://citizenlab.ca/wp-content/uploads/2020/05/WeChat-FAQ-figure-2-1.png"><img src="https://citizenlab.ca/wp-content/uploads/2020/05/WeChat-FAQ-figure-2-1.png" alt="" /></a></p>
+    <p>图二: 一个账号试图发送关键词"法轮功"，该关键词被屏蔽，但没有任何信息提示发送者或接收者信息被屏蔽了。</p>
+    <h2 id="section-3">中国大陆微信账号与非中国大陆微信大陆账号有什么区别？</h2>
+    <p>中国大陆账号指的是最初注册时使用中国大陆手机号码注册的微信账号。非中国大陆账号指的是最初注册时使用任何除中国大陆以外的手机号码注册的微信账号（比如使用加拿大或者美国手机号码注册的微信号）。中国大陆注册账号适用的是中国大陆地区管辖区（主要是深圳市）的用户协议，并且会受到内容审查。非中国大陆账号适用的是除中国大陆以外的管辖区（主要是新加坡）的用户协议。<a href="https://citizenlab.ca/2019/07/cant-picture-this-2-an-analysis-of-wechats-realtime-image-filtering-in-chats/">此前研究</a>指出，非中国大陆账号不受审查影响。不过我们最新的研究表明，非中国大陆账号之间的文档和图像传输会受到监控，含有政治敏感内容的文档和图像会被添加到针对中国大陆账号的审查列表中。</p>
+    <h2 id="section-4">你是如何发现非中国大陆账号存在被监控行为的？</h2>
+    <p>我们曾被问非中国大陆注册账号是否只要不与中国注册账号通讯就不存在针对政治内容的监控。根据我们的研究，非中国大陆注册账号之间的通讯不受审查，所以我们当时的回答是"我们认为非中国大陆注册账号之间的通讯也不受监控。"然后我们开始好奇，如何用科学的方法测试是否不存在监控？</p>
+    <p>监控甚少无缘无故地发生，很多时候实施监控是为了其他目的，比如用来完善日后的审查机制等。基于<a href="https://citizenlab.ca/2019/07/cant-picture-this-2-an-analysis-of-wechats-realtime-image-filtering-in-chats/">此前的研究</a>，我们知道微信如何通过监控图像和文件来自动过滤敏感内容。研究非中国大陆注册账号的困难在于非中国大陆注册账号之间不存在内容审查，所以要测试它们是否受监控我们必须使用两个不同的聊天环境：第一个是非中国大陆注册账号之间的聊天环境，用以触发监控；第二个是含中国大陆注册账号在内的聊天环境，用于监测审查变化。当我们在仅含有非中国大陆账号的聊天环境中发送政治敏感内容，我们观察到第二个聊天环境中审查内容有所增多，这表明第一个聊天环境中的内容是受到监控的，即使它并不含有任何中国大陆账号。</p>
+    <h2 id="section-5">微信如何分析，标示，并存储敏感文件？</h2>
+    <p>文件会被扫描是否存在敏感文字。图像也会被扫描是否含有敏感文字，此外，图像还会被与系统现有的敏感图库比对，分析目标图片是否与图库内的其他图片相似。如果文件被系统定义为政治敏感，文件的MD5值会被标示。微信会储存这个MD5值，以备下次更有效率地过滤这些文件。</p>
+    <h2 id="md5-hashmd5">微信通过消息摘要算法版本5 （MD5 hash）来迅速辨识并标志敏感内容。MD5值是什么？</h2>
+    <p>MD5是一种数字指纹。MD5算法可以用来把体积大的文件缩小至一个"哈希值"。哈希值通常由一个短的随机字母和数字组成的字符串组成。按照MD5算法的不可逆性和唯一性设计，不同的文件应该拥有不同的MD5值，但实际上该算法在漏洞。由于微信使用MD5算法存储敏感文件的哈希值，我们利用了算法的漏洞来设计本研究。我们把两份内容不同的图像文件修改成一样的哈希值，其中一张图像含有政治敏感信息，另一张是普通的图像文件。我们的测试显示，敏感图像在非中国大陆注册账号中传输后，拥有一样哈希值但是不含有敏感信息的图像在中国大陆注册账号中被审查了。测试结果表明，非中国大陆注册账号间的通讯必然存在监控，因为非敏感图像的数字指纹不可能被微信系统标示成敏感信息。</p>
+    <p>下图展示了把文档或图像转换为MD5值的过程。在下图的例子中，两张不同的图像通过加密算法转换成两个唯一的MD5值。</p>
+    <p><a href="https://citizenlab.ca/wp-content/uploads/2020/05/WeChat-FAQ-figure-3-1.png"><img src="https://citizenlab.ca/wp-content/uploads/2020/05/WeChat-FAQ-figure-3-1-1024x368.png" alt="" /></a></p>
+    <p>图三：把文档适用MD5值标示的流程示意图</p>
+    <h2 id="section-6">这项研究存在哪些不足之处？</h2>
+    <p>其中一个不足指出是我们的技术分析只能表明图像和文件是否被监控。我们目前无法得知文字通讯信息是否被监控。在没有实质性证据前，我们提示用户有这个可能性。另一不足之处是我们的研究时间跨度数月。虽然我们持续稳定地观察到针对非中国大陆账号的监控行为，但我们无法判断这种监控行为是否恰好在我们研究进行的时期出现。这种监控行为也有可能已存在数年，或者一直存在。</p>
+    <h2 id="section-7">对于微信非中国大陆注册账号的用户来说，这项研究的结论意味着什么？</h2>
+    <p>在中国大陆以外的微信用户或许会以为微信的审查和监控机制并不影响他们。但是，我们的研究表明，用户不仅会因为政治敏感内容受到监控，用户所发的内容也会被用于训练微信针对中国大陆注册账号用户的审查系统。</p>
+    <h2 id="section-8">这些研究结果是否意味着中国政府在监控微信的国际用户？</h2>
+    <p>根据中国网络安全法，中国政府有权以国家安全和侦查犯罪为由要求互联网公司提供其接收到的或存储的信息。具体就微信而言，其中国用户适用的是中国大陆的用户协议以及隐私政策，而国际用户适用的是基于新加坡的用户协议和隐私政策。我们研究的初衷是希望了解这些签订基于新加坡的用户协议及隐私政策的微信国际用户之间的通讯时候会被分享和传输到微信位于中国的团队，或者腾讯其他位于中国的子公司。我们希望借此了解微信国际用户的通讯是否不受诸如微信针对中国大陆用户的监控。</p>
+    <p>我们的实验显示微信国际用户之间的交流通讯会被用于扩建微信针对中国大陆用户的审查系统。然而，我们的研究无法支持腾讯与中国政府分享微信国际用户通讯记录这样的说法。虽然我们的研究表明微信对国际用户实施内容监控，但我们没有其他确切证据明晰哪些内容被监控，监控的所有动机，以及微信与谁或哪些机构分享了这些监控数据。</p>
+    <h2 id="section-9">难道不是所有的社交媒体平台都或多或少存在监控吗？微信和其他社交媒体平台的行为有什么不同吗？</h2>
+    <p>本报告之所以特别指出微信存在的监控行为，是因为监控的内容的特殊性，监控针对的是在中国被视为政治敏感的内容。这当中包括批评政府以及呼吁人权关注的内容。微信的内容监控之所以独特，是因为所监控的内容对象不同，而且微信的监控系统也是有所选择地对用户实施。我们的研究显示非中国大陆微信账号之间传输的内容会受到监控，其中政治敏感的内容会被用于训练和扩大微信针对中国大陆账号的审查。据我们所知，目前社交媒体平台所采用的监控系统中，只有微信是利用对一类用户实施监控所获得的数据来增强其对另一类用户的监控和审查。</p>
+    <h2 id="section-10">这些研究结果如何帮助我们理解中国的数字审查？</h2>
+    <p>就我们所知，本研究是目前为止第一个提供实质技术证据证明微信（一款用户数量遍布全球的软件）对国际用户进行内容监控，并且通过这些监控来训练针对中国大陆注册用户的审查系统的研究。此前针对中国的数字审查的研究大多集中在中国以内审查如何进行或者哪些内容会被审查。近年来，中国公司日益全球化，這些公司在满足国际用户的需求的同时，需要在中国国内遵守内容管控相关的法律。我们的研究结果在这个大环境下显得尤其重要。</p>
+    <h2 id="section-11">中国的内容管控范围有多广？</h2>
+    <p>中国有一套针对互联网，应用程序，和媒体的内容管控系统。所有在中国境内运营的互联网平台都必须遵守当地针对内容管理的法律法规。互联网公司须对平台上的内容负责，如果内容不当，公司会面临被罚款或者运营牌照被吊销的后果。<br />这个系统的复杂之处在于当地与内容管理相关的法律法规界定模糊。比如，"扰乱社会秩序，破坏社会稳定"的内容是不被允许的，但对于什么内容"扰乱社会秩序，破坏社会稳定"没有明确定义。互联网公司可能会在重大事件期间收到政府指令，但<a href="https://netalert.me/harmonized-histories.html">我们的研究</a>显示中国目前并没有一份集中下发到公司的统一的关键词表。</p>
+    <p>公司需要自行审读有关条例和政府指令，自行鉴定如何过滤内容以及具体哪些内容需要被过滤。我们过去的研究显示，微信会在<a href="https://citizenlab.ca/2017/07/analyzing-censorship-of-the-death-of-liu-xiaobo-on-wechat-and-weibo/">敏感时期</a>和<a href="https://citizenlab.ca/2017/07/analyzing-censorship-of-the-death-of-liu-xiaobo-on-wechat-and-weibo/">重大事件</a>期间会广泛地审查内容，比如最近针对<a href="https://citizenlab.ca/2017/07/analyzing-censorship-of-the-death-of-liu-xiaobo-on-wechat-and-weibo/">新冠疫情</a>的讨论。</p>
+    <h2 id="section-12">研究结果指出哪些可能的法律问题？隐私协议难道不是应该告知用户相关的监控行为吗？</h2>
+    <p>包括苹果和谷歌在内的应用软件平台服务商会要求应用软件提供隐私条例。许多国家也有相关法律要求公司阐明它们如何收集，处理，和存储用户数据。我们的研究显示微信国际版本的隐私条例和用户协议并没有充分告知用户他们的数据会被如何使用。</p>
+    <p>针对这种情况，部分地区的隐私专员可以以误导用户为理由给公司开出罚单。不同地区有不同的罚款规定，罚款可从数百，到数千，乃至数百万元。在某些国家，比如加拿大，居民可能向联邦隐私专员提出申诉，隐私专员可以向公司提出如何改进服务的建议。</p>
+    <p>平台服务商，如苹果和谷歌， 可以基于误导消费者和不准确提供隐私条例的理由从平台上移除相关应用。</p>
+    <p>最后，政府机构可能会调查微信如何在程序中植入内容监控。调查结果可能会导致某些政府机构禁用微信，甚至基于国家安全的理由强制平台移除软件。</p>
+    <h2 id="section-13">这项研究与此前针对新冠病毒的审查研究有相关之处吗？</h2>
+    <p>我们<a href="https://citizenlab.ca/2020/03/censored-contagion-how-information-on-the-coronavirus-is-managed-on-chinese-social-media/">上一份报告</a>指出微信广泛审查与新冠病毒有关的内容。因为微信采取"<a href="https://citizenlab.ca/2016/11/wechat-china-censorship-one-app-two-systems/">一APP两制</a>"的审查系统，审查影响所有使用中国大陆手机号码注册的用户。</p>
+    <p>这一份报告指出的是，微信的内容管控并不限于中国大陆注册账号。微信针对非中国大陆注册账号进行了内容监控。我们并没有测试与新冠病毒相关的内容是否被监控和增加到针对中国大陆账号的审查列表中，但我们的研究结果表明微信有能力这样做。</p>
+    <p>以下截屏展示了我们在<a href="https://citizenlab.ca/2020/03/censored-contagion-how-information-on-the-coronavirus-is-managed-on-chinese-social-media/">上一份报告</a>中观察到的微信针对新冠肺炎的内容审查。一名用户试图发送同时含有"美国疾控中心" 和 "冠状病毒" 的信息，但由于"美国疾控中心"和"冠状病毒"这两个词组成了敏感词组，中国大陆微信账号并没有收到这些信息。</p>
+    <p><a href="https://citizenlab.ca/wp-content/uploads/2020/05/WeChat-FAQ-figure-4-1.png"><img src="https://citizenlab.ca/wp-content/uploads/2020/05/WeChat-FAQ-figure-4-1-1024x865.png" alt="" /></a></p>
+    <p>图四：针对新冠病毒关键词的审查，图片截取2020年1月1日至2月15日之间。</p>
+    <h2 id="section-14">你们未来的研究计划是什么？</h2>
+    <p>本次报告我们发现了微信如何在国际用户中监控文件和图像传输，我们会持续本项研究，并关注类似的监控行为是否发生在文字传输中。</p>
+    <h1 id="section-15">微信研究背景</h1>
+    <p>微信是中国目前最流行的社交软件之一。截至2019年末，微信拥有超过11亿海内外月活跃用户。微信2011年成立，是一款母公司腾讯运营的即时通讯软件，腾讯是中国其中一家规模最大的科技公司。</p>
+    <p>微信有多种功能，比如包括一对一和群组聊天在内的即时聊天功能，提供用户上传文字和图片等状态更新的微信朋友圈，以及类似博客的微信公众平台。</p>
+    <p>此前公民实验室的研究指出，微信针对使用中国大陆手机号码注册的账号实行内容审查。内容审查并不是静态的，而是随着事件发生发展而变化。</p>
+    <p><a href="https://citizenlab.ca/2016/12/%E4%B8%80app%E4%B8%A4%E5%88%B6%EF%BC%9A%E5%BE%AE%E4%BF%A1%E5%A6%82%E4%BD%95%E5%8C%BA%E5%88%AB%E5%AE%A1%E6%9F%A5%E4%B8%AD%E5%9B%BD%E5%8F%8A%E6%B5%B7%E5%A4%96%E7%94%A8%E6%88%B7/"><strong>"一APP两制" ：微信如何区别审查中国及海外用户</strong></a></p>
+    <p>关键词过滤仅仅针对那些用中国大陆手机号码注册微信号的用户，即便这些用户之后更改绑定的手机号，用海外手机号码绑定原有微信号，审查机制也依然存在。</p>
+    <p><a href="https://citizenlab.ca/2020/03/censored-contagion-how-information-on-the-coronavirus-is-managed-on-chinese-social-media/"><strong>中国社交媒体如何管控新型冠状病毒讨论</strong></a></p>
+    <p>针对直播软件YY和聊天软件微信的研究显示，两款软件均对该话题采取了广泛的审查。不仅内容敏感的词汇被过滤，甚至一些对病毒的中性的讨论和提及被审查。这样广泛的审查有可能导致公众无法获得能帮助其保护自身安全的信息。</p>
+    <p><a href="https://citizenlab.ca/2018/08/%e6%9c%aa%e9%98%85%e5%85%88%e7%84%9a%ef%bc%9a%e5%be%ae%e4%bf%a1%e6%9c%8b%e5%8f%8b%e5%9c%88%e5%9b%be%e7%89%87%e8%bf%87%e6%bb%a4%e5%8a%9f%e8%83%bd%e5%88%86%e6%9e%90/"><strong>"未阅先焚" ：微信朋友圈图片过滤功能分析</strong></a></p>
+    <p>微信采用了两种不同的算法过滤朋友圈中的敏感图片：一种是基于光学字符识别（Optical Character Recognition）的文字检测方法，该方法用以过滤包含敏感词的图片；另一种是基于图像相似度的对比，该算法用以过滤与微信不良图片数据库中的图片相似或吻合的图片。</p>
+    <p><a href="https://citizenlab.ca/2019/07/cant-picture-this-2-an-analysis-of-wechats-realtime-image-filtering-in-chats/"><strong>"未阅先焚" （二）：微信实时过滤图片功能分析</strong></a></p>
+    <p>我们发现微信实时自动过滤用户聊天中给传输的图片，微信分析图片中的文字以及比对图片是否与不良图片数据库中的现存图片相似。微信通过保存和更新敏感图片的MD5哈希值实现实时图片过滤。</p>
+    <p><a href="https://citizenlab.ca/2017/11/%e5%be%ae%e4%bf%a1%e8%bf%87%e6%bb%a4%e4%ba%86%e5%93%aa%e4%ba%9b%e5%8d%81%e4%b9%9d%e5%a4%a7%e5%85%b3%e9%94%ae%e8%af%8d%ef%bc%9f/"><strong>微信过滤了哪些"十九大"关键词？</strong></a></p>
+    <p>微信从与十九大开始一年多前就开始屏蔽有关的关键词，随着十九大日期逼近，该关键词库也在不断更新。关键词涵盖内容非常广泛，不仅包括了批评党代会，领导人以及党内斗争的言论，许多对中央政策和党意识形态的中性指称也被过滤。</p>
+    <p><a href="https://citizenlab.ca/2017/07/%e5%8b%bf%e5%bf%98%e6%99%93%e6%b3%a2%ef%bc%9a%e5%be%ae%e4%bf%a1%e5%92%8c%e5%be%ae%e5%8d%9a%e9%92%88%e5%af%b9%e5%88%98%e6%99%93%e6%b3%a2%e9%80%9d%e4%b8%96%e7%9a%84%e4%bf%a1%e6%81%af%e5%ae%a1%e6%9f%a5/"><strong>勿忘晓波：微信和微博针对刘晓波逝世的信息审查之分</strong></a></p>
+    <p>对微信和微博针对刘晓波逝世的信息审查的初步分析显示，在刘晓波去世後审查力度大幅增加，以至于任何对刘晓波的讨论乃至简单提及也不被允许。在微信上，刘晓波去世后，任何提及刘晓波名字的内容——不管是简体中文、繁体中文还是英文拼音——都会被过滤。我们在之前的研究曾发现，微信在群组聊天和朋友圈功能内会进行图片审查，而在刘晓波去世的这事件上，我们首次发现：微信在一对一聊天功能中也进行图片审查。在新浪微博上，刘晓波去世前，任何由刘晓波全名为关键词的搜索——包括简体中文、繁体中文及英文拼音——早以被屏蔽。在他去世后，单单是刘的名字"晓波"就足以触发审查。</p>
+    <p><a href="https://citizenlab.ca/2017/04/we-cant-chat-709-crackdown-discussions-blocked-on-weibo-and-wechat/"><strong>不能说的秘密：新浪微博和微信上被过滤的"709追捕"</strong></a></p>
+    <p>本研究记录了在微信和微博平台上针对"709事件"的审查。通过一系列测试，研究者发现了在这两个平台上被审查过滤的与"709追捕"相关的关键词。研究者在微信平台上发现了与"709事件"相关的图片审查。这是第一次针对微信平台的图片审查的系统记录。</p>
+  </div>
+  <nav class="wp-block-navigation">
+    <ul class="wp-block-navigation__container">
+      <li class="wp-block-navigation-link"><a class="wp-block-navigation-link__content" href="https://2049post.wordpress.com/v1index/"><span class="wp-block-navigation-link__label">返回创刊号目录</span></a></li>
+    </ul>
+  </nav>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#火光 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2020-12-31/%E7%AB%AF%E7%82%B9%E6%98%9F%E6%A1%88%E6%B6%88%E6%81%AF%E6%B1%87%E6%80%BB/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2020-07-24/%E5%85%AC%E6%B0%91%E5%AE%9E%E9%AA%8C%E5%AE%A4-%E5%BE%AE%E4%BF%A1%E7%9B%91%E6%8E%A7%E8%AF%A0%E9%87%8A/">最早</a>--</span>
+    
+      <li>
+        <time>2020-07-26</time>
+        <a href="https://nodebe4.github.io/opinion/2020-07-26/Twitter%E4%B8%AD%E6%96%87%E6%B0%B4%E5%86%9B-%E5%9C%A8%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84%E4%B8%96%E7%95%8C%E9%87%8C%E6%89%93%E4%B8%80%E5%9C%BA%E5%AE%A3%E4%BC%A0%E6%88%98/">
+          Twitter中文水军：在不存在的世界里打一场宣传战
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-07-25</time>
+        <a href="https://nodebe4.github.io/opinion/2020-07-25/%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3-%E5%85%B3%E4%BA%8E-Tor%E7%9A%84%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94/">
+          编程随想：关于 Tor的常见问题解答
+        </a>
+      </li>
+    
+    
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2020-07-24/%E8%AB%96%E6%9F%90%E4%BD%8D%E5%8F%B0%E7%81%A3%E4%BA%BA%E7%9A%84%E6%B0%91%E4%B8%BB%E4%BF%AE%E9%A4%8A%E7%BA%8C-%E8%A2%AB%E6%B0%91%E9%80%B2%E9%BB%A8%E6%B4%97%E8%85%A6%E7%9A%84%E5%8F%B0%E7%81%A3%E4%BA%BA/">
+            前一篇：論某位台灣人的民主修養續——被民進黨洗腦的台灣人
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2020-07-24/Subscribe!/">
+            後一篇：Subscribe!
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2020-07-24/%E8%AB%96%E6%9F%90%E4%BD%8D%E5%8F%B0%E7%81%A3%E4%BA%BA%E7%9A%84%E6%B0%91%E4%B8%BB%E4%BF%AE%E9%A4%8A%E7%BA%8C-%E8%A2%AB%E6%B0%91%E9%80%B2%E9%BB%A8%E6%B4%97%E8%85%A6%E7%9A%84%E5%8F%B0%E7%81%A3%E4%BA%BA/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2020-07-24/Subscribe!/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2020-07-25/%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3-%E5%85%B3%E4%BA%8E-Tor%E7%9A%84%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2020-07-24/%E8%AB%96%E6%9F%90%E4%BD%8D%E5%8F%B0%E7%81%A3%E4%BA%BA%E7%9A%84%E6%B0%91%E4%B8%BB%E4%BF%AE%E9%A4%8A%E7%BA%8C-%E8%A2%AB%E6%B0%91%E9%80%B2%E9%BB%A8%E6%B4%97%E8%85%A6%E7%9A%84%E5%8F%B0%E7%81%A3%E4%BA%BA/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2020-07-24/Subscribe!/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<火光>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2020-07-25/%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3-%E5%85%B3%E4%BA%8E-Tor%E7%9A%84%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94/">
+      <i>左</i>
+    </a>
+    
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

@@ -1,0 +1,1058 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>如约而至！钱钢老师课上的生日报演示 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+  
+     
+    
+    
+      
+        
+          
+             
+        如约而至！钱钢老师课上的生日报演示
+        
+            
+              
+                
+                  
+  
+                  
+                  
+                    
+                      
+                             
+  Yiwei Wang                                 
+ 
+                              
+                            
+
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+  
+
+" />
+    <meta property="og:description" content="
+  
+     
+    
+    
+      
+        
+          
+             
+        如约而至！钱钢老师课上的生日报演示
+        
+            
+              
+                
+                  
+  
+                  
+                  
+                    
+                      
+                             
+  Yiwei Wang                                 
+ 
+                              
+                            
+
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+  
+
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="如约而至！钱钢老师课上的生日报演示" />
+    <meta property="twitter:title" content="如约而至！钱钢老师课上的生日报演示" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fmedium.com%2Fbirthday-paper%2F%25E5%25A6%2582%25E7%25BA%25A6%25E8%2580%258C%25E8%2587%25B3-%25E9%2592%25B1%25E9%2592%25A2%25E8%2580%2581%25E5%25B8%2588%25E8%25AF%25BE%25E4%25B8%258A%25E7%259A%2584%25E7%2594%259F%25E6%2597%25A5%25E6%258A%25A5%25E6%25BC%2594%25E7%25A4%25BA-41d0e05902b6" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://medium.com/birthday-paper/%E5%A6%82%E7%BA%A6%E8%80%8C%E8%87%B3-%E9%92%B1%E9%92%A2%E8%80%81%E5%B8%88%E8%AF%BE%E4%B8%8A%E7%9A%84%E7%94%9F%E6%97%A5%E6%8A%A5%E6%BC%94%E7%A4%BA-41d0e05902b6" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://medium.com/birthday-paper/%E5%A6%82%E7%BA%A6%E8%80%8C%E8%87%B3-%E9%92%B1%E9%92%A2%E8%80%81%E5%B8%88%E8%AF%BE%E4%B8%8A%E7%9A%84%E7%94%9F%E6%97%A5%E6%8A%A5%E6%BC%94%E7%A4%BA-41d0e05902b6&text=如约而至！钱钢老师课上的生日报演示&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://medium.com/birthday-paper/%E5%A6%82%E7%BA%A6%E8%80%8C%E8%87%B3-%E9%92%B1%E9%92%A2%E8%80%81%E5%B8%88%E8%AF%BE%E4%B8%8A%E7%9A%84%E7%94%9F%E6%97%A5%E6%8A%A5%E6%BC%94%E7%A4%BA-41d0e05902b6&title=如约而至！钱钢老师课上的生日报演示" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://medium.com/birthday-paper/%E5%A6%82%E7%BA%A6%E8%80%8C%E8%87%B3-%E9%92%B1%E9%92%A2%E8%80%81%E5%B8%88%E8%AF%BE%E4%B8%8A%E7%9A%84%E7%94%9F%E6%97%A5%E6%8A%A5%E6%BC%94%E7%A4%BA-41d0e05902b6&title=如约而至！钱钢老师课上的生日报演示" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=如约而至！钱钢老师课上的生日报演示&body=
+  
+     
+    
+    
+      
+        
+          
+             
+        如约而至！钱钢老师课上的生日报演示
+        
+            
+              
+                
+                  
+  
+                  
+                  
+                    
+                      
+                             
+  Yiwei Wang                                 
+ 
+                              
+                            
+
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+  
+
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://medium.com/birthday-paper/%E5%A6%82%E7%BA%A6%E8%80%8C%E8%87%B3-%E9%92%B1%E9%92%A2%E8%80%81%E5%B8%88%E8%AF%BE%E4%B8%8A%E7%9A%84%E7%94%9F%E6%97%A5%E6%8A%A5%E6%BC%94%E7%A4%BA-41d0e05902b6" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://medium.com/birthday-paper/%E5%A6%82%E7%BA%A6%E8%80%8C%E8%87%B3-%E9%92%B1%E9%92%A2%E8%80%81%E5%B8%88%E8%AF%BE%E4%B8%8A%E7%9A%84%E7%94%9F%E6%97%A5%E6%8A%A5%E6%BC%94%E7%A4%BA-41d0e05902b6&title=如约而至！钱钢老师课上的生日报演示&caption=
+  
+     
+    
+    
+      
+        
+          
+             
+        如约而至！钱钢老师课上的生日报演示
+        
+            
+              
+                
+                  
+  
+                  
+                  
+                    
+                      
+                             
+  Yiwei Wang                                 
+ 
+                              
+                            
+
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+  
+
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=如约而至！钱钢老师课上的生日报演示&url=https://medium.com/birthday-paper/%E5%A6%82%E7%BA%A6%E8%80%8C%E8%87%B3-%E9%92%B1%E9%92%A2%E8%80%81%E5%B8%88%E8%AF%BE%E4%B8%8A%E7%9A%84%E7%94%9F%E6%97%A5%E6%8A%A5%E6%BC%94%E7%A4%BA-41d0e05902b6" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>如约而至！钱钢老师课上的生日报演示</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2016-07-24
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Yiwei Wang</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#生日报">
+          生日报
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://medium.com/birthday-paper/%E5%A6%82%E7%BA%A6%E8%80%8C%E8%87%B3-%E9%92%B1%E9%92%A2%E8%80%81%E5%B8%88%E8%AF%BE%E4%B8%8A%E7%9A%84%E7%94%9F%E6%97%A5%E6%8A%A5%E6%BC%94%E7%A4%BA-41d0e05902b6" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="生日报的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#生日报 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <article>
+  <section class="fa fb fc fd aj fe dj s"></section>
+ <span class="s"> </span>   <div>
+    <div class="t v ff fg fh de"></div>
+    <section class="fi fj fk fl fm">
+      <div class="n p">
+        <div class="ab ac ae af ag fn ai aj">
+          <div>
+            <h1 class="fo fp fq fr b fs ft fu fv fw fx fy fz ga gb gc gd ge gf gg gh ec" id="2401"> <strong class="ay">
+        如约而至！钱钢老师课上的生日报演示
+       </strong> </h1>
+            <div class="gi">
+              <div class="n dy gj gk gl">
+                <div class="o n">
+                  <div>
+<a href="/@YiweiWang?source=post_page-----41d0e05902b6--------------------------------" rel="noopener"> <img alt="Yiwei Wang" src="https://miro.medium.com/fit/c/96/96/0*0honRaQB_EtUGHAR.jpg" /> </a>
+                  </div>
+                  <div class="gp aj s">
+                    <div class="n">
+                      <div style="flex:1">
+<span class="cd ce gq cg ec">                             <div class="gr n o gs">
+<span class="cd ce gq cg bl gt gu gv gw gx ec"> <a class="ck cl au av aw ax ay az ba bb gy be ei ej" href="/@YiweiWang?source=post_page-----41d0e05902b6--------------------------------" rel="noopener"> Yiwei Wang </a> </span>                               <div class="er s ap h">
+<span> </span>
+                              </div>
+                            </div>
+ </span>
+                      </div>
+                    </div>
+ <span class="cd ce gq cg hp"> <span class="cd ce gq cg bl gt gu gv gw gx hp">                           <div>
+<a class="ck cl au av aw ax ay az ba bb gy be ei ej" href="/birthday-paper/如约而至-钱钢老师课上的生日报演示-41d0e05902b6?source=post_page-----41d0e05902b6--------------------------------" rel="noopener"> Jan 8, 2016 </a>                             <!-- -->
+ ·                             <!-- -->
+                            <!-- -->
+ 8                             <!-- -->
+ min read
+                          </div>
+ </span> </span>
+                  </div>
+                </div>
+                <div class="n hq hr hs ht hu hv hw hx z">
+                  <div class="n o">
+                    <div class="hy s ap"></div>
+                    <div class="hy s ap"></div>
+                    <div class="hy s ap"></div>
+                    <div class="hz s">
+                      <div class="ef">
+<span> <a class="ck cl au av aw ax ay az ba bb eg eh be ei ej" href="https://medium.com/m/signin?actionUrl=%2F_%2Fbookmark%2Fp%2F41d0e05902b6&amp;operation=register&amp;redirect=https%3A%2F%2Fmedium.com%2Fbirthday-paper%2F%E5%A6%82%E7%BA%A6%E8%80%8C%E8%87%B3-%E9%92%B1%E9%92%A2%E8%80%81%E5%B8%88%E8%AF%BE%E4%B8%8A%E7%9A%84%E7%94%9F%E6%97%A5%E6%8A%A5%E6%BC%94%E7%A4%BA-41d0e05902b6&amp;source=post_actions_header--------------------------bookmark_header-----------" rel="noopener"> </a> </span>
+                      </div>
+                    </div>
+                    <div class="ia s an"></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="f8c0">文／王一苇</p>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="5f09">半个世纪前，中国是什么样子？</p>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="b2d9">历史记录，不是没有。季羡林的《牛棚杂忆》、杨绛的《干校六记》，都是纪实。文学作品也多，王小波笔下那只特立独行的猪，就奔跑在那个年代。</p>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="fece">但作为80、90后，我们很难将它们和“大跃进”、“文革”这些历史书里语焉不详的内容挂钩。正如韩少功在《马桥词典》里写的，“我们不知道的东西，我们不能说它是存在的，至少我们没有充足的理由断定它存在。”</p>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="e4ae">唯一能把我们和那段历史连接起来的，是父母甚至祖辈的记忆 — — 而我们忙着学习玩耍活在当下，几乎没有人提起话头。</p>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="853c">钱钢老师的“生日报”计划，好像一架四两拨千斤的投石机，把我们抛入历史的隧道。而每个人都有独一无二的密码，解开其中的重重机关。</p>
+          <figure class="ja jb jc jd je jf fc fd paragraph-image">
+            <div class="jg jh ed ji aj">
+              <div class="fc fd iz">
+                <div class="jm s ed eq">
+                  <div class="jn jo s">
+                    <div class="dc jj t u v cx aj bl jk jl">
+<img alt="Image for post" src="https://miro.medium.com/max/700/1*E6_s5yH9PX3jlc5st8d7ZA.jpeg?q=20" />
+                    </div>
+ <img alt="Image for post" />
+                  </div>
+                </div>
+              </div>
+            </div>
+            <figcaption class="js jt fe fc fd ju jv cd ce gq cg hp">
+钱钢老师在课堂上讲授新闻史
+            </figcaption>
+          </figure>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="0523">无论是在香港大学、北京大学深圳研究生院、还是中山大学的课堂上，钱老师开讲第一堂课，大家甫听到“寻找生日报”的任务，都觉得新鲜。每一位来上课的同学都要寻找父母或自己出生当天的家乡报纸，从当年的报头、新闻甚至广告中搜集值得一谈的材料，在课上做10分钟的演讲。同学中大部分是80后和90后，他们的父母出生于五十到七十年代；还有一些已工作多年，有的也是七十年代生人。</p>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="98f0">在旧闻中寻找 “历史的蛛丝马迹”，是钱老师给同学们的挑战。</p>
+          <figure class="ja jb jc jd je jf fc fd paragraph-image">
+            <div class="jg jh ed ji aj">
+              <div class="fc fd iz">
+                <div class="jm s ed eq">
+                  <div class="jn jo s">
+                    <div class="dc jj t u v cx aj bl jk jl">
+<img alt="Image for post" src="https://miro.medium.com/max/700/1*HhOzJV36G-rRiq3M5obpIQ.jpeg?q=20" />
+                    </div>
+ <img alt="Image for post" />
+                  </div>
+                </div>
+              </div>
+            </div>
+            <figcaption class="js jt fe fc fd ju jv cd ce gq cg hp">
+钱钢老师在香港大学的课堂上教大家趣味“读报” 摄／韩笑
+            </figcaption>
+          </figure>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="e3a2">同学们要搜寻的历史，藏在图书馆和档案室的旧报纸里。全国各地的主要报纸，在香港大学图书馆的微缩胶卷室都能找到。这是一间恒温恒湿的“冰室”。密密麻麻的柜子里排列着全国及世界各地报纸的微缩胶卷，时间横跨至少半个世纪。</p>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="a7d3">冒着香港夏日的高温，穿着短袖的新闻系学生来到这里，哆哆嗦嗦打开写着“某某年某月”的胶卷盒子，取出带子放到投影机上。房间里极安静，只听得胶卷滚动时抚过卷轴的“沙沙”声。黑白的老报纸影像滑过眼前屏幕，定格，逐渐清晰。有的同学会生生地翻上几个小时，生怕一不小心就错过了什么精彩的沧海遗珠。从历史中抽身回神，才哀嚎一句，“都冻成狗了”。</p>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="f3f9">有些报纸只在当地有纸质版，比如内蒙古的《昭乌达报》、河北的《邢台报》等。为了寻找珍贵的老报纸，有的同学回到家乡档案馆，一本一本地翻阅，“报纸全是陈旧的味道”；有的费劲周折跑遍了图书馆档案馆，一路找到报社馆藏室，“好不容易都找到了，满手满脸灰”。“开门那一刻，书香味夹杂着尘土扑面而来”可不是什么诗意的体验，而是在预告你即将与年代标示杂乱的报纸集和满天飞舞的灰尘开启战斗。遇上不让复印文件的馆员，你还得“软磨硬泡”，直到他答应“只此一次、下不为例”。</p>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="7f03">神奇的是，拂开这些“豆腐块”上的灰尘，我们总能在字里行间找到历史与现实的勾连。</p>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="b647">来自广东的同学，从物资短缺的新闻联想到了自家的“侨汇”故事；一个武汉妹子在报上发现中苏交恶中苏联撤离“钢城”的材料，从而牵出了苏联与武钢“不得不说的历史”；甘肃姑娘看到报上讲阶级斗争“兴无灭资”，回家一问，竟引出外公亲笔自述“戴帽”13年的遭遇，给整个班的同学上了一堂生动的历史课。</p>
+          <figure class="ja jb jc jd je jf fc fd paragraph-image">
+            <div class="jg jh ed ji aj">
+              <div class="fc fd jw">
+                <div class="jm s ed eq">
+                  <div class="jn jo s">
+                    <div class="dc jj t u v cx aj bl jk jl">
+<img alt="Image for post" src="https://miro.medium.com/max/700/1*gkKqiFhJ985pGDPcUE1IJg.jpeg?q=20" />
+                    </div>
+ <img alt="Image for post" />
+                  </div>
+                </div>
+              </div>
+            </div>
+            <figcaption class="js jt fe fc fd ju jv cd ce gq cg hp">
+香港大学的同学在课上演示生日报 摄／江雪
+            </figcaption>
+          </figure>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="441d">有同学说，做生日报“就像翻看一部有温度有厚度的老电影”，情节、人物都带着年代感，甚至有些画面因“种种原因”而模糊不清，“但我们却从中剥离出真相”。</p>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="b504">收集、整理材料的过程，是每个人探索家史、深入了解祖辈和父辈的机会，也是了解历史、理解国情的开端。一位藏族同学从1958年母亲生日那天的《青海日报》上，看到反右运动的深入和大跃进创粮食高产纪录的夸张口号；而一位香港同学在两年后母亲生日的《星岛日报》和《华侨日报》上，检索出关于饥荒的记述。</p>
+          <figure class="ja jb jc jd je jf fc fd paragraph-image">
+            <div class="jg jh ed ji aj">
+              <div class="fc fd jw">
+                <div class="jm s ed eq">
+                  <div class="jx jo s">
+                    <div class="dc jj t u v cx aj bl jk jl">
+<img alt="Image for post" src="https://miro.medium.com/max/700/1*tMuApaf3lKxVERQSNerxuA.jpeg?q=20" />
+                    </div>
+ <img alt="Image for post" />
+                  </div>
+                </div>
+              </div>
+            </div>
+            <figcaption class="js jt fe fc fd ju jv cd ce gq cg hp">
+北京大学深圳研究生院的同学们在课堂上展示老报纸版面 摄／杜晨薇
+            </figcaption>
+          </figure>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="9899">“回到现场，是历史教学的关键，”钱老师如是说。“生日报演示为同学创造了触摸历史的机会，让他们初尝寻觅史料、考证史实、大海捞针、慧眼识珠的滋味。这方法帮助他们，将我讲述的新闻史转化为人的故事，更好把握每个历史节点的语境。”</p>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="b5ac">每学期课前两到三人的生日报演示成为同学们最期待的内容之一。短短十分钟，不乏演绎史料带来的欢声笑语，也有追忆故人泣不成声的静默时刻。“生日报”计划里，每一个人的故事都是宝藏，无论是对聆听者，还是对讲者自身。</p>
+          <figure class="ja jb jc jd je jf fc fd paragraph-image">
+            <div class="jg jh ed ji aj">
+              <div class="fc fd jw">
+                <div class="jm s ed eq">
+                  <div class="jn jo s">
+                    <div class="dc jj t u v cx aj bl jk jl">
+<img alt="Image for post" src="https://miro.medium.com/max/700/1*SLBfdKp7IvY8biA1fheaqA.jpeg?q=20" />
+                    </div>
+ <img alt="Image for post" />
+                  </div>
+                </div>
+              </div>
+            </div>
+            <figcaption class="js jt fe fc fd ju jv cd ce gq cg hp">
+2015届香港大学研究生同学们在生日报演示现场自弹自唱 摄／江雪
+            </figcaption>
+          </figure>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="d09f">每学期结束时，全班投票评选出最佳的生日报展示。为了拉票，大家各出绝招，或是“祭出”父母年轻时的照片，或是采用“说拉弹唱”的展示方式 — — 充满创意的演绎，使不能免于沉重的历史叙述，最终成为轻盈而饱满的回忆。</p>
+          <figure class="ja jb jc jd je jf fc fd paragraph-image">
+            <div class="jg jh ed ji aj">
+              <div class="fc fd jw">
+                <div class="jm s ed eq">
+                  <div class="jn jo s">
+                    <div class="dc jj t u v cx aj bl jk jl">
+<img alt="Image for post" src="https://miro.medium.com/max/700/1*PR2yN-FKEcRuOY_gVAz9wQ.jpeg?q=20" />
+                    </div>
+ <img alt="Image for post" />
+                  </div>
+                </div>
+              </div>
+            </div>
+            <figcaption class="js jt fe fc fd ju jv cd ce gq cg hp">
+钱钢老师为2014届港大研究生中生日报得票最高的慈美琳同学颁奖，奖品是钱老师从四十年代旧报中挖掘历史写成的文集《旧闻记者》
+            </figcaption>
+          </figure>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="2e20">钱老师的新闻课堂上，常请来不同专业领域的嘉宾。新京报社长助理、新京报传媒研究院常务副院长朱学东在港大听过几次生日报讲演，他认为这是一种“很特别的新闻史政治史学习” — — 在研究生日报的过程中，每个同学“既可以了解自己或父母出生时的社会背景，也可以在更宽广的视野中比对出中外聚焦的不同，以及这不同背后的政治经济文化根源。”</p>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="4648">知无知文化空间创始人谌洪果博士听过同学们的生日报后，感慨道：“我们活在历史中，活在传统中。没有历史和传统，当下就显得轻飘，未来就显得恍惚，生命就失去厚度”。生日报的形式，“将小人物的命运和大历史的事件鲜活地勾连起来，虽是滚滚红尘，但每一个具体生命的爱与痛，都不能忽视，都弥足珍贵。钱钢老师引导学生以这种独特的写作形式表明：对于在反思中前行的个体和民族而言，新闻不会成为旧闻，历史是为当下谱写，苦难不能白白承受。”</p>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="5336">复旦大学教授、FT中文网创刊总编辑张力奋说，“我在港大听过钱钢先生讲1949年后的中国新闻史。他以生日报折射当代中国记忆的断层与盲点，传递历史的薪火，为学子照亮新闻之路。”</p>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="e6f8">独立媒体人江雪老师听过同学们的生日报演示，发了一个朋友圈：“钱钢老师的新闻历史课，让九零后的孩子去寻找生日当天的报纸，未曾远去的历史与他们自身有了真实的连结……”</p>
+          <figure class="ja jb jc jd je jf fc fd paragraph-image">
+            <div class="jg jh ed ji aj">
+              <div class="fc fd jy">
+                <div class="jm s ed eq">
+                  <div class="jz jo s">
+                    <div class="dc jj t u v cx aj bl jk jl">
+<img alt="Image for post" src="https://miro.medium.com/max/700/1*q2XVwjpdBGOH1rLEVePVmw.jpeg?q=20" />
+                    </div>
+ <img alt="Image for post" />
+                  </div>
+                </div>
+              </div>
+            </div>
+            <figcaption class="js jt fe fc fd ju jv cd ce gq cg hp">
+钱钢老师、江雪老师与香港大学学生们在一起 摄／韩笑
+            </figcaption>
+          </figure>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="75f4">北京大学新闻与传播学院常务副院长徐泓教授有近半个世纪新闻从业经验，她对同学们的生日报则提出具体的要求，“小口切入，纵深挖掘”、“培养问题意识，要有好奇心”、“准确是第一要务”，这些精准总结也是我们这些准新闻从业者要培养的素质。</p>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="2cbc">“生日报”项目始于2011年在香港大学开设的《Readings in China media and society》研究生课程，至今已走过四载。它也是港大公开课《通传媒，识中国》、北京大学深圳研究生院《中国当代新闻史研究》课程和广州中山大学《当代中国新闻史》课程的必备节目。深研院的课程中，徐泓教授和钱老师一起指导学生们的史料搜索和演示。</p>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="20f3">今年1月开始，我们选取了同学演示中1958年至1976年的生日报，请他们整理成文，连续刊登在“尽知天下事”微信公号上，带你走进从大跃进到文革的昔日风云。第一篇将于1月11日发表。</p>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="c5ca">谨以此系列，纪念半个世纪前的历史。</p>
+          <blockquote class="ka kb kc">
+            <p class="ib ic kd id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="b4ee"><strong class="id ke">
+        下期预告：
+       </strong></p>
+            <p class="ib ic kd id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="a52a">1958年2月1日，中华人民共和国的三位部长同时被撤销职务，消息登上了《人民日报》。他们的名字，如今鲜被报章提起。</p>
+            <p class="ib ic kd id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="7cc4">PingWest品玩高级主笔刘鹏的父亲出生在这一天。2014年港大的课堂上，刘鹏以这一天为原点，分析家乡报纸《天津日报》和英文《南华早报》的版面文章，点出了“反右”与“大跃进”之间暗含的逻辑关系。引经据典之外，他还顺便谈了谈和广告栏里一家影院的“家族渊源”。</p>
+            <p class="ib ic kd id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="4230">敬请期待1月11日第一期“钱钢老师课上的生日报” — — 《在万劫不复的“大右派”们身后，“大跃进”的门打开了 — — 刘鹏父亲的生日报》。</p>
+          </blockquote>
+        </div>
+      </div>
+    </section>
+  </div>
+</article>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#生日报 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2016-09-01/%E8%B4%A3%E7%BC%96%E6%89%8B%E8%AE%B0-%E8%BF%9B%E5%85%A5%E5%8E%86%E5%8F%B2%E6%9A%97%E6%B2%B3/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2016-07-22/%E6%B5%99%E6%B1%9F%E6%97%A5%E6%8A%A5-%E4%B8%80%E4%B8%AA%E6%8A%A5%E5%A4%B4%E7%9A%84%E5%8F%98%E8%BF%81-%E9%92%B1%E9%92%A2%E8%80%81%E5%B8%88%E8%AF%BE%E4%B8%8A%E7%9A%84%E7%94%9F%E6%97%A5%E6%8A%A5-51/">最早</a>--</span>
+    
+      <li>
+        <time>2016-07-28</time>
+        <a href="https://nodebe4.github.io/opinion/2016-07-28/%E6%BE%B3%E9%97%A8%E4%B8%80%E4%BA%8C-%E4%B8%89%E4%BA%8B%E4%BB%B6-%E5%BD%93-%E5%9F%8E%E7%AE%A1-%E9%81%87%E4%B8%8A%E6%96%87%E9%9D%A9-%E9%92%B1%E9%92%A2%E8%80%81%E5%B8%88%E8%AF%BE%E4%B8%8A%E7%9A%84%E7%94%9F%E6%97%A5%E6%8A%A5-57/">
+          澳门一二·三事件：当“城管”遇上文革——钱钢老师课上的生日报【57】
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2016-07-24</time>
+        <a href="https://nodebe4.github.io/opinion/2016-07-24/%E5%8C%96%E5%A6%86%E5%AE%A4%E9%87%8C%E7%9A%84%E6%89%B9%E5%88%A4%E4%BC%9A-%E9%92%B1%E9%92%A2%E8%80%81%E5%B8%88%E8%AF%BE%E4%B8%8A%E7%9A%84%E7%94%9F%E6%97%A5%E6%8A%A5-56/">
+          化妆室里的批判会 — — 钱钢老师课上的生日报【56】
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2016-07-22</time>
+        <a href="https://nodebe4.github.io/opinion/2016-07-22/%E5%9B%9E%E5%88%B0%E6%AD%A6%E6%B1%89-%E5%9B%9E%E5%88%B0-%E4%B8%83-%E4%BA%8C-%E9%92%B1%E9%92%A2%E8%80%81%E5%B8%88%E8%AF%BE%E4%B8%8A%E7%9A%84%E7%94%9F%E6%97%A5%E6%8A%A5-54/">
+          回到武汉，回到“七·二〇”——钱钢老师课上的生日报【54】
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2016-07-22</time>
+        <a href="https://nodebe4.github.io/opinion/2016-07-22/%E6%B5%99%E6%B1%9F%E6%97%A5%E6%8A%A5-%E4%B8%80%E4%B8%AA%E6%8A%A5%E5%A4%B4%E7%9A%84%E5%8F%98%E8%BF%81-%E9%92%B1%E9%92%A2%E8%80%81%E5%B8%88%E8%AF%BE%E4%B8%8A%E7%9A%84%E7%94%9F%E6%97%A5%E6%8A%A5-51/">
+          浙江日报，一个报头的变迁 — — 钱钢老师课上的生日报【51】
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2016-07-24/%E6%88%98%E4%BA%89%E4%B8%AD-%E6%AF%94%E8%90%A8%E5%BE%B7%E6%9B%B4%E5%8E%89%E5%AE%B3%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88-%E6%94%BF%E8%AE%B0%E5%B9%B2%E8%B4%A7%E5%A4%A7%E6%8E%92%E6%A1%A3/">
+            前一篇：战争中，比萨德更厉害的是什么？| 政记干货大排档
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2016-07-24/%E5%8C%96%E5%A6%86%E5%AE%A4%E9%87%8C%E7%9A%84%E6%89%B9%E5%88%A4%E4%BC%9A-%E9%92%B1%E9%92%A2%E8%80%81%E5%B8%88%E8%AF%BE%E4%B8%8A%E7%9A%84%E7%94%9F%E6%97%A5%E6%8A%A5-56/">
+            後一篇：化妆室里的批判会 — — 钱钢老师课上的生日报【56】
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2016-07-24/%E6%88%98%E4%BA%89%E4%B8%AD-%E6%AF%94%E8%90%A8%E5%BE%B7%E6%9B%B4%E5%8E%89%E5%AE%B3%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88-%E6%94%BF%E8%AE%B0%E5%B9%B2%E8%B4%A7%E5%A4%A7%E6%8E%92%E6%A1%A3/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2016-07-24/%E5%8C%96%E5%A6%86%E5%AE%A4%E9%87%8C%E7%9A%84%E6%89%B9%E5%88%A4%E4%BC%9A-%E9%92%B1%E9%92%A2%E8%80%81%E5%B8%88%E8%AF%BE%E4%B8%8A%E7%9A%84%E7%94%9F%E6%97%A5%E6%8A%A5-56/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2016-07-24/%E5%8C%96%E5%A6%86%E5%AE%A4%E9%87%8C%E7%9A%84%E6%89%B9%E5%88%A4%E4%BC%9A-%E9%92%B1%E9%92%A2%E8%80%81%E5%B8%88%E8%AF%BE%E4%B8%8A%E7%9A%84%E7%94%9F%E6%97%A5%E6%8A%A5-56/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2016-07-22/%E5%9B%9E%E5%88%B0%E6%AD%A6%E6%B1%89-%E5%9B%9E%E5%88%B0-%E4%B8%83-%E4%BA%8C-%E9%92%B1%E9%92%A2%E8%80%81%E5%B8%88%E8%AF%BE%E4%B8%8A%E7%9A%84%E7%94%9F%E6%97%A5%E6%8A%A5-54/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2016-07-24/%E6%88%98%E4%BA%89%E4%B8%AD-%E6%AF%94%E8%90%A8%E5%BE%B7%E6%9B%B4%E5%8E%89%E5%AE%B3%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88-%E6%94%BF%E8%AE%B0%E5%B9%B2%E8%B4%A7%E5%A4%A7%E6%8E%92%E6%A1%A3/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2016-07-24/%E5%8C%96%E5%A6%86%E5%AE%A4%E9%87%8C%E7%9A%84%E6%89%B9%E5%88%A4%E4%BC%9A-%E9%92%B1%E9%92%A2%E8%80%81%E5%B8%88%E8%AF%BE%E4%B8%8A%E7%9A%84%E7%94%9F%E6%97%A5%E6%8A%A5-56/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<生日报>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2016-07-24/%E5%8C%96%E5%A6%86%E5%AE%A4%E9%87%8C%E7%9A%84%E6%89%B9%E5%88%A4%E4%BC%9A-%E9%92%B1%E9%92%A2%E8%80%81%E5%B8%88%E8%AF%BE%E4%B8%8A%E7%9A%84%E7%94%9F%E6%97%A5%E6%8A%A5-56/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<生日报>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2016-07-22/%E5%9B%9E%E5%88%B0%E6%AD%A6%E6%B1%89-%E5%9B%9E%E5%88%B0-%E4%B8%83-%E4%BA%8C-%E9%92%B1%E9%92%A2%E8%80%81%E5%B8%88%E8%AF%BE%E4%B8%8A%E7%9A%84%E7%94%9F%E6%97%A5%E6%8A%A5-54/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

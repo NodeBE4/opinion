@@ -1,0 +1,2368 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>EnclavedMicrostate在2022-10-10~2022-10-16的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="EnclavedMicrostate在2022-10-10~2022-10-16的言论" />
+    <meta property="twitter:title" content="EnclavedMicrostate在2022-10-10~2022-10-16的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FAskHistory%2Fcomments%2Fxzzric%2Fhas_there_ever_been_a_proven_case_of_arranged_war%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/AskHistory/comments/xzzric/has_there_ever_been_a_proven_case_of_arranged_war/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/AskHistory/comments/xzzric/has_there_ever_been_a_proven_case_of_arranged_war/&text=EnclavedMicrostate在2022-10-10~2022-10-16的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/AskHistory/comments/xzzric/has_there_ever_been_a_proven_case_of_arranged_war/&title=EnclavedMicrostate在2022-10-10~2022-10-16的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/AskHistory/comments/xzzric/has_there_ever_been_a_proven_case_of_arranged_war/&title=EnclavedMicrostate在2022-10-10~2022-10-16的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=EnclavedMicrostate在2022-10-10~2022-10-16的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/AskHistory/comments/xzzric/has_there_ever_been_a_proven_case_of_arranged_war/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/AskHistory/comments/xzzric/has_there_ever_been_a_proven_case_of_arranged_war/&title=EnclavedMicrostate在2022-10-10~2022-10-16的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=EnclavedMicrostate在2022-10-10~2022-10-16的言论&url=https://old.reddit.com/r/AskHistory/comments/xzzric/has_there_ever_been_a_proven_case_of_arranged_war/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>EnclavedMicrostate在2022-10-10~2022-10-16的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-10-16
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: EnclavedMicrostate</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/AskHistory/comments/xzzric/has_there_ever_been_a_proven_case_of_arranged_war/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#865-has-there-ever-been-a-proven-case-of-arranged-war-in-history-submitted-on-2022-10-10-0740070800" id="markdown-toc-865-has-there-ever-been-a-proven-case-of-arranged-war-in-history-submitted-on-2022-10-10-0740070800">865: Has there ever been a proven case of arranged war in history?, submitted on 2022-10-10 07:40:07+08:00.</a></li>
+  <li><a href="#866-incredibly-idiotic-isnt-even-a-burger-covered-in-disgusting-amounts-of-cheese-im-ashamed-to-say-that-i-would-absolutely-eat-this-and-succumb-to-whatever-ailment-it-brings-submitted-on-2022-10-10-0850390800" id="markdown-toc-866-incredibly-idiotic-isnt-even-a-burger-covered-in-disgusting-amounts-of-cheese-im-ashamed-to-say-that-i-would-absolutely-eat-this-and-succumb-to-whatever-ailment-it-brings-submitted-on-2022-10-10-0850390800">866: incredibly idiotic. isn’t even a burger. covered in disgusting amounts of cheese. I’m ashamed to say that I would absolutely eat this and succumb to whatever ailment it brings., submitted on 2022-10-10 08:50:39+08:00.</a></li>
+  <li><a href="#867-what-does-this-say-submitted-on-2022-10-10-1243470800" id="markdown-toc-867-what-does-this-say-submitted-on-2022-10-10-1243470800">867: What does this say, submitted on 2022-10-10 12:43:47+08:00.</a></li>
+  <li><a href="#868-how-did-the-weaker-goeth-to-the-potte-submitted-on-2022-10-10-1444320800" id="markdown-toc-868-how-did-the-weaker-goeth-to-the-potte-submitted-on-2022-10-10-1444320800">868: How did the weaker goeth to the potte?, submitted on 2022-10-10 14:44:32+08:00.</a></li>
+  <li><a href="#869-is-there-evidence-for-the-biblical-exodus-and-more-specifically-is-the-admonitions-of-ipuwer-evidence-of-the-exodus-submitted-on-2022-10-10-1502280800" id="markdown-toc-869-is-there-evidence-for-the-biblical-exodus-and-more-specifically-is-the-admonitions-of-ipuwer-evidence-of-the-exodus-submitted-on-2022-10-10-1502280800">869: Is there evidence for the biblical exodus and more specifically is the Admonitions of Ipuwer evidence of the exodus?, submitted on 2022-10-10 15:02:28+08:00.</a></li>
+  <li><a href="#870-mindless-monday-10-october-2022-submitted-on-2022-10-10-1900090800" id="markdown-toc-870-mindless-monday-10-october-2022-submitted-on-2022-10-10-1900090800">870: Mindless Monday, 10 October 2022, submitted on 2022-10-10 19:00:09+08:00.</a></li>
+  <li><a href="#871-moderator-of-an-unnamed-anti-racist-subreddit-takes-to-rmodsupport-to-demand-the-admins-explain-their-draconian-and-unjustifiable-removal-of-a-mod-for-violating-a-week-old-rule-shockingly-the-story-falls-apart-with-the-bombshell-revelation-of-checks-notes-the-subreddits-name-submitted-on-2022-10-11-0448150800" id="markdown-toc-871-moderator-of-an-unnamed-anti-racist-subreddit-takes-to-rmodsupport-to-demand-the-admins-explain-their-draconian-and-unjustifiable-removal-of-a-mod-for-violating-a-week-old-rule-shockingly-the-story-falls-apart-with-the-bombshell-revelation-of-checks-notes-the-subreddits-name-submitted-on-2022-10-11-0448150800">871: Moderator of an unnamed “anti-racist subreddit” takes to /r/ModSupport to demand the admins explain their “draconian” and “unjustifiable” removal of a mod for violating a week-old rule. Shockingly, the story falls apart with the bombshell revelation of (checks notes) the subreddit’s name., submitted on 2022-10-11 04:48:15+08:00.</a></li>
+  <li><a href="#872-voluntarist-vs-structuralist-submitted-on-2022-10-11-1335530800" id="markdown-toc-872-voluntarist-vs-structuralist-submitted-on-2022-10-11-1335530800">872: Voluntarist vs Structuralist, submitted on 2022-10-11 13:35:53+08:00.</a></li>
+  <li><a href="#873-how-did-new-age-and-offshoot-movement-become-so-obsessed-with-often-pseudo-native-american-culture-submitted-on-2022-10-11-2100030800" id="markdown-toc-873-how-did-new-age-and-offshoot-movement-become-so-obsessed-with-often-pseudo-native-american-culture-submitted-on-2022-10-11-2100030800">873: How did New Age and offshoot movement become so obsessed with (often pseudo-)“Native American” culture?, submitted on 2022-10-11 21:00:03+08:00.</a></li>
+  <li><a href="#874-is-there-a-good-english-language-book-about-the-taiping-rebellion-submitted-on-2022-10-12-0902070800" id="markdown-toc-874-is-there-a-good-english-language-book-about-the-taiping-rebellion-submitted-on-2022-10-12-0902070800">874: Is there a good english language book about the Taiping Rebellion?, submitted on 2022-10-12 09:02:07+08:00.</a></li>
+  <li><a href="#875-what-were-some-of-the-specific-reforms-that-japan-and-china-undertook-in-their-attempts-to-modernize-during-the-19th-and-20th-century-submitted-on-2022-10-12-1207270800" id="markdown-toc-875-what-were-some-of-the-specific-reforms-that-japan-and-china-undertook-in-their-attempts-to-modernize-during-the-19th-and-20th-century-submitted-on-2022-10-12-1207270800">875: What were some of the specific reforms that Japan and China undertook in their attempts to modernize during the 19th and 20th century?, submitted on 2022-10-12 12:07:27+08:00.</a></li>
+  <li><a href="#876-effectiveness-of-the-varangian-guard-hardradas-veteran-unit-submitted-on-2022-10-12-2030530800" id="markdown-toc-876-effectiveness-of-the-varangian-guard-hardradas-veteran-unit-submitted-on-2022-10-12-2030530800">876: Effectiveness of the Varangian guard. (Hardrada’s veteran unit), submitted on 2022-10-12 20:30:53+08:00.</a></li>
+  <li><a href="#877-please-help-me-identify-this-pottery-marking-submitted-on-2022-10-13-1759080800" id="markdown-toc-877-please-help-me-identify-this-pottery-marking-submitted-on-2022-10-13-1759080800">877: Please help me identify this pottery marking, submitted on 2022-10-13 17:59:08+08:00.</a></li>
+  <li><a href="#878-free-for-all-friday-14-october-2022-submitted-on-2022-10-14-1900090800" id="markdown-toc-878-free-for-all-friday-14-october-2022-submitted-on-2022-10-14-1900090800">878: Free for All Friday, 14 October 2022, submitted on 2022-10-14 19:00:09+08:00.</a></li>
+  <li><a href="#879-musashi-romance-and-wwii-submitted-on-2022-10-15-0244020800" id="markdown-toc-879-musashi-romance-and-wwii-submitted-on-2022-10-15-0244020800">879: Musashi (romance) and WWII, submitted on 2022-10-15 02:44:02+08:00.</a></li>
+  <li><a href="#880-why-did-the-british-lose-the-american-war-of-independence-according-to-the-british-in-the-late-18th-and-early-19th-century-submitted-on-2022-10-15-2206580800" id="markdown-toc-880-why-did-the-british-lose-the-american-war-of-independence-according-to-the-british-in-the-late-18th-and-early-19th-century-submitted-on-2022-10-15-2206580800">880: Why did the British lose the American War of Independence, according to the British in the late 18th and early 19th century?, submitted on 2022-10-15 22:06:58+08:00.</a></li>
+  <li><a href="#881-how-much-has-ancient-chinese-culture-changed-under-the-ccp-submitted-on-2022-10-16-1232020800" id="markdown-toc-881-how-much-has-ancient-chinese-culture-changed-under-the-ccp-submitted-on-2022-10-16-1232020800">881: How much has Ancient Chinese culture changed under the CCP?, submitted on 2022-10-16 12:32:02+08:00.</a></li>
+  <li><a href="#882-hobby-scuffles-week-of-october-17-2022-submitted-on-2022-10-16-2301240800" id="markdown-toc-882-hobby-scuffles-week-of-october-17-2022-submitted-on-2022-10-16-2301240800">882: [Hobby Scuffles] Week of October 17, 2022, submitted on 2022-10-16 23:01:24+08:00.</a></li>
+</ul>
+
+<h3 id="865-has-there-ever-been-a-proven-case-of-arranged-war-in-history-submitted-on-2022-10-10-0740070800">865: <a href="https://old.reddit.com/r/AskHistory/comments/xzzric/has_there_ever_been_a_proven_case_of_arranged_war/">Has there ever been a proven case of arranged war in history?</a>, submitted on 2022-10-10 07:40:07+08:00.</h3>
+
+<p>—– <strong>865.1</strong> —–2022-10-10 16:01:36+08:00:</p>
+
+<p>Bigger correction to add to /u/Trevor_Culley’s – it was 300 each, with 2 Argives surviving and 1 Spartan, and neither side could decide who won so they fought a full-sized battle anyway.</p>
+
+<h3 id="866-incredibly-idiotic-isnt-even-a-burger-covered-in-disgusting-amounts-of-cheese-im-ashamed-to-say-that-i-would-absolutely-eat-this-and-succumb-to-whatever-ailment-it-brings-submitted-on-2022-10-10-0850390800">866: <a href="https://old.reddit.com/r/StupidFood/comments/y016pd/incredibly_idiotic_isnt_even_a_burger_covered_in/">incredibly idiotic. isn’t even a burger. covered in disgusting amounts of cheese. I’m ashamed to say that I would absolutely eat this and succumb to whatever ailment it brings.</a>, submitted on 2022-10-10 08:50:39+08:00.</h3>
+
+<p>—– <strong>866.1</strong> —–2022-10-10 23:24:51+08:00:</p>
+
+<p>IDK, as long as there was <em>less</em> of it I’d eat it. Proportions are fine, total size is a big oof.</p>
+
+<h3 id="867-what-does-this-say-submitted-on-2022-10-10-1243470800">867: <a href="https://old.reddit.com/r/ChineseTranslation/comments/y05owc/what_does_this_say/">What does this say</a>, submitted on 2022-10-10 12:43:47+08:00.</h3>
+
+<p>—– <strong>867.1</strong> —–2022-10-10 16:21:39+08:00:</p>
+
+<p>It’s a eulogy of Mao Zedong:</p>
+
+<blockquote>
+  <p><strong>Founding Leader</strong></p>
+</blockquote>
+
+<blockquote>
+  <p>Mao Zedong (1893-1976), courtesy name Runzhi, native of Shaoshan in Hunan. A great leader of the Chinese people, Marxist, revolutionary of the unpropertied classes, statesman, strategist, theorist. Principal founder and leader of the Communist Party of China, the People’s Liberation Army of China, and the People’s Republic of China.</p>
+</blockquote>
+
+<h3 id="868-how-did-the-weaker-goeth-to-the-potte-submitted-on-2022-10-10-1444320800">868: <a href="https://old.reddit.com/r/AskHistorians/comments/y07qz5/how_did_the_weaker_goeth_to_the_potte/">How did the weaker goeth to the potte?</a>, submitted on 2022-10-10 14:44:32+08:00.</h3>
+
+<p>—– <strong>868.1</strong> —–2022-10-10 16:13:41+08:00:</p>
+
+<p>Apologies, but we have removed your question in its current form as it breaks our <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">rules concerning the scope of questions</a>. However, it might be that an altered version of your question would fit within our rules, and we encourage you to reword your question to fit the rule. While we do allow questions which ask about general topics without specific bounding by time or space, we do ask that they be clearly phrased and presented in a way that can be answered by an individual historian focusing on only one example which they can write about in good detail.</p>
+
+<p>So for example, if you wanted to ask, “<em>Have people always rebelled against health rules in pandemics?</em>” we would remove the question. As phrased, it asks broadly about many places collectively. However if you ask “<em>In the time and place you study, how did people rebel against health rules in a pandemic?</em>” we would allow the question. As phrased, while still asking broadly, it does so in a way that clearly invites a given expert to write exclusively about their topic of focus! We encourage you to think about rewording your question to fit this rule, and thank you for your understanding. If you are unsure of how best to reshape your question to fit these requirements, <a href="https://www.reddit.com/message/compose/?to=/r/AskHistorians">please reach out to us for assistance</a>.</p>
+
+<h3 id="869-is-there-evidence-for-the-biblical-exodus-and-more-specifically-is-the-admonitions-of-ipuwer-evidence-of-the-exodus-submitted-on-2022-10-10-1502280800">869: <a href="https://old.reddit.com/r/AskHistorians/comments/y081gc/is_there_evidence_for_the_biblical_exodus_and/">Is there evidence for the biblical exodus and more specifically is the Admonitions of Ipuwer evidence of the exodus?</a>, submitted on 2022-10-10 15:02:28+08:00.</h3>
+
+<p>—– <strong>869.1</strong> —–2022-10-10 16:13:36+08:00:</p>
+
+<p>Hi there - unfortunately we have had to remove your question, because <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework">/r/AskHistorians isn’t here to do your homework for you</a>. However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself.</p>
+
+<p>If you have indeed asked a homework question, you should consider resubmitting a question more focused on finding resources and seeking clarification on confusing issues: tell us what you’ve researched so far, what resources you’ve consulted, and what you’ve learned, and we are more likely to approve your question. Please see this <a href="https://www.reddit.com/r/AskHistorians/comments/hplxyf/rules_roundtable_xx_the_no_homework_rule/">Rules Roundtable</a> thread for more information on what makes for the kind of homework question we’d approve. Additionally, if you’re not sure where to start in terms of finding and understanding sources in general, we have a six-part series, “<a href="https://www.reddit.com/r/AskHistorians/wiki/theory#wiki_monday_methods.3A_finding_and_understanding_sources">Finding and Understanding Sources</a>”, which has a wealth of information that may be useful for finding and understanding information for your essay. Finally, other subreddits are likely to be more suitable for help with homework - try looking for help at /r/HomeworkHelp.</p>
+
+<p>Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you <strong>wait for 7 days</strong> and then ask a less open-ended question on the same topic.</p>
+
+<h3 id="870-mindless-monday-10-october-2022-submitted-on-2022-10-10-1900090800">870: <a href="https://old.reddit.com/r/badhistory/comments/y0bsdf/mindless_monday_10_october_2022/">Mindless Monday, 10 October 2022</a>, submitted on 2022-10-10 19:00:09+08:00.</h3>
+
+<p>—– <strong>870.1</strong> —–2022-10-12 04:57:49+08:00:</p>
+
+<blockquote>
+  <p>Obviously, the genocidal action must take a substantial toll on its target.</p>
+</blockquote>
+
+<p>Define ‘substantial’, because wherever you draw the line, <em>someone</em> will find <em>some event</em> that is <em>just shy</em> and ask why that arbitrarily doesn’t count.</p>
+
+<p>Or rather, the key thing is that genocide is about intentions and not about scope.</p>
+
+<blockquote>
+  <p>It’s not enough to prove that there have been cases of forced sterilization because, guess what, there’s been cases of forced sterilizations of Han women too, China is shitty to all of its people.</p>
+</blockquote>
+
+<p>Well, even beyond the sterilisations, the evidence for specific targeting of Uighurs and Kazakhs (as the principal representatives of Turkic Muslim groups) is extremely clear: there has been overt settlement of Han Chinese people in Xinjiang to out-populate the indigenous population, <em>only</em> Turkic-speakers and Muslims have been placed in concentration camps, there is active suppression of non-Mandarin languages and Islam, including the destruction of mosques, etc. It’s not like China is also trying to force Han Chinese people to drop Mandarin or blowing up Confucian sites at the same time that it’s suppressing Uighur and Kazakh and demolishing mosques.</p>
+
+<p>But on the sterilisation point, that there may be individual sterilisations of Han women does not change the broad trend, that being <a href="https://www.thinkglobalhealth.org/article/abortion-china">antinatalism towards Uighurs and Kazakhs and pronatalism towards Han women</a>, in which reproductive autonomy is curtailed <em>in general</em>, but in distinct ways with different populations, towards ends that are unavoidably eugenicist in nature.</p>
+
+<h3 id="871-moderator-of-an-unnamed-anti-racist-subreddit-takes-to-rmodsupport-to-demand-the-admins-explain-their-draconian-and-unjustifiable-removal-of-a-mod-for-violating-a-week-old-rule-shockingly-the-story-falls-apart-with-the-bombshell-revelation-of-checks-notes-the-subreddits-name-submitted-on-2022-10-11-0448150800">871: <a href="https://old.reddit.com/r/SubredditDrama/comments/y0pmm9/moderator_of_an_unnamed_antiracist_subreddit/">Moderator of an unnamed “anti-racist subreddit” takes to /r/ModSupport to demand the admins explain their “draconian” and “unjustifiable” removal of a mod for violating a week-old rule. Shockingly, the story falls apart with the bombshell revelation of (checks notes) the subreddit’s name.</a>, submitted on 2022-10-11 04:48:15+08:00.</h3>
+
+<p>—– <strong>871.1</strong> —–2022-10-11 16:08:52+08:00:</p>
+
+<p>Was it ever good? I can only ever remember it being a supremacist sub.</p>
+
+<h3 id="872-voluntarist-vs-structuralist-submitted-on-2022-10-11-1335530800">872: <a href="https://old.reddit.com/r/ChineseHistory/comments/y10s4o/voluntarist_vs_structuralist/">Voluntarist vs Structuralist</a>, submitted on 2022-10-11 13:35:53+08:00.</h3>
+
+<p>—– <strong>872.1</strong> —–2022-10-11 14:31:21+08:00:</p>
+
+<p>Your previous post was removed because it was explicitly soliciting for help with homework, which is, to put it simply, a bit ethically dubious.</p>
+
+<h3 id="873-how-did-new-age-and-offshoot-movement-become-so-obsessed-with-often-pseudo-native-american-culture-submitted-on-2022-10-11-2100030800">873: <a href="https://old.reddit.com/r/AskHistorians/comments/y18gn7/how_did_new_age_and_offshoot_movement_become_so/">How did New Age and offshoot movement become so obsessed with (often pseudo-)“Native American” culture?</a>, submitted on 2022-10-11 21:00:03+08:00.</h3>
+
+<p>—– <strong>873.1</strong> —–2022-10-11 23:58:36+08:00:</p>
+
+<p>Thank you for your response. Unfortunately, we have had to remove it due to violations of <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_answers">subreddit’s rules about answers needing to reflect current scholarship</a>. While we appreciate the effort you have put into this comment, there are nevertheless significant errors, misunderstandings, or omissions of the topic at hand <a href="https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/">which necessitated its removal</a>.</p>
+
+<p>We understand this can be discouraging, but we would also encourage you to consult <a href="https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/">this Rules Roundtable to better understand how the mod team evaluates answers on the sub</a>. If you are interested in feedback on improving future contributions, please feel free to <a href="https://www.reddit.com/message/compose?to=%2Fr%2FAskHistorians&amp;subject=Inquiry%20About%20Improving%20Future%20Responses">reach out to us via modmail</a>. Thank you for your understanding.</p>
+
+<h3 id="874-is-there-a-good-english-language-book-about-the-taiping-rebellion-submitted-on-2022-10-12-0902070800">874: <a href="https://old.reddit.com/r/AskHistorians/comments/y1ptp4/is_there_a_good_english_language_book_about_the/">Is there a good english language book about the Taiping Rebellion?</a>, submitted on 2022-10-12 09:02:07+08:00.</h3>
+
+<p>—– <strong>874.1</strong> —–2022-10-12 14:15:01+08:00:</p>
+
+<p>So, there is actually a <em>lot</em> of English-language scholarship on the Taiping both in absolute terms and in contextual – compared to basically any other 20-year period in Chinese history (at least before the 20th century), it is <em>incredibly</em> well-studied in many respects. <em>However</em> only a portion of that makes it out into published monograph form, rather than languishing as unpublished doctoral theses or theoretically accessible but often obscure journal articles. And then only a portion of <em>that</em> is general overview and/or narrative history rather than specialist studies aimed at a broadly academic readership. But, not to fear – it’s why I’m here.</p>
+
+<p>In terms of narrative histories, there are four main options to consider: Franz Michael and Chung-li Chang’s <em>The Taiping Rebellion, Volume I</em> (1966), Jen Yu-Wen’s <em>The Taiping Revolutionary Movement</em> (1973), Jonathan Spence’s <em>God’s Chinese Son</em> (1996), and Stephen R. Platt’s <em>Autumn in the Heavenly Kingdom</em> (2012).</p>
+
+<p>Michael and Chang’s book isn’t as problematic as one might fear from its considerable age. Taiping scholarship has only really gone through perhaps one noticeable paradigm shift since then, focussed more or less entirely on the framing and interpretation of Taiping Christianity, which is very important obviously but which I don’t think fundamentally undermines Michael and Chang’s narrative. In a broader sense however, the late 80s onwards also saw a shift towards much greater recognition of ethnic dynamics in the Qing period writ large, and that’s something that is especially noticeable by its absence in the older work.</p>
+
+<p>Jen’s book is prohibitively expensive, a bit dry, and overtly moralising, but it is also the most comprehensive chronology in English, and critically it gives coverage to a number of side theatres that most narratives disregard. This is what you read, <em>if you have every intention of becoming a Taiping specialist</em>. I bring this one up, however, because this book had a significant impact on the next two, which explicitly, if briefly, note that they are only going to offer a partial coverage, precisely because the complete chronology had already been offered by Jen back in the 70s.</p>
+
+<p>Spence’s book puts religion at the front and centre of the Taiping movement, and primarily follows the perspective of Hong Xiuquan. The result of this is a fascinating narrative that explains how Hong Xiuquan’s belief system emerged and in turn took hold within the religious environment of mid-19th century south China. However, these emphases also serve as its limitations: after covering the coups and purges of 1856 that gutted the Taiping leadership for the remainder of the decade, Spence’s coverage of the wider Taiping conflict becomes somewhat scattershot as he comes to focus mostly on Hong Xiuquan himself and his religious writings while isolated in his royal palace. The climactic phase of the conflict thus lies largely undiscussed, or at least very impressionistically.</p>
+
+<p>Platt’s book effectively picks up where Spence leaves off, and heretical as it may be among Sinologists for me to say this, his book manages to be even better written. Platt’s approach is informed quite a bit by the field of global history, and his Taiping War is thus not only situated in the context of the Qing Empire, but also the wider diplomatic and commercial environment of the Pacific amidst the Second Opium War and the American Civil War. That does not mean he is writing a massive comparative history, but rather that connectedness and connectivity is given an extremely prominent role, alongside the largely domestic narrative covering the Taiping reform attempts under Hong Rengan, and the Qing counteroffensive campaigns under Zeng Guofan. But Platt’s narrative is not totally comprehensive: when it comes to the war’s ‘eastern theatre’, he focusses almost exclusively on Jiangsu with very little mention of the campaigning in Zhejiang, amid a general sidelining of the French from the narrative (albeit likely for linguistic reasons); he also, as noted, chooses to start things <em>in medias res</em> in 1859, and while he does an extremely good job bringing the reader up to speed on what is relevant, one may ask whether something might be lost in not considering longer-term continuities within the Heavenly Kingdom.</p>
+
+<p>I would suggest that if you’re trying to understand the Taiping Heavenly Kingdom as a religious phenomenon, then read Spence. If you’re trying to understand the Taiping War as an event in the context of wider global history, then read Platt. If you’re trying to get a start-to-finish narrative, read both.</p>
+
+<p>I’ll also throw up some of the more specialist pieces if you want to dig into some more specific aspects:</p>
+
+<ul>
+  <li>
+    <p>Tobie Meyer-Fong, <em>What Remains</em> (2013) – A harrowing work discussing the civilian experience and commemoration of the Taiping War.</p>
+  </li>
+  <li>
+    <p>Carl Kilcourse, <em>Taiping Theology</em> (2017) – Pretty self-explanatory.</p>
+  </li>
+  <li>
+    <p>Chuck Wooldridge, <em>City of Virtues</em> (2016) – Not about the Taiping as such, but rather a history of Nanjing and its place in literary space, with one chapter devoted to the Taiping years and another to the post-Taiping reconstruction.</p>
+  </li>
+  <li>
+    <p>Prosper Giquel, Stephen Leibo, <em>A Journal of the Chinese Civil War, 1864</em> (1985) – A translation with commentary of one of the journals of the French naval officer Prosper Giquel, who organised and occasionally commanded the Franco-Chinese Corps of Zhejiang between 1862 and 1864. It’s preceded by a brisk but still reasonably detailed narrative history of the Franco-Chinese Corps and its antecedents, which serves as one of the only English-language writings on French involvement in the Taiping conflict.</p>
+  </li>
+</ul>
+
+<h3 id="875-what-were-some-of-the-specific-reforms-that-japan-and-china-undertook-in-their-attempts-to-modernize-during-the-19th-and-20th-century-submitted-on-2022-10-12-1207270800">875: <a href="https://old.reddit.com/r/AskHistorians/comments/y1tomy/what_were_some_of_the_specific_reforms_that_japan/">What were some of the specific reforms that Japan and China undertook in their attempts to modernize during the 19th and 20th century?</a>, submitted on 2022-10-12 12:07:27+08:00.</h3>
+
+<p>—– <strong>875.1</strong> —–2022-10-12 13:30:39+08:00:</p>
+
+<p>Hi there - unfortunately we have had to remove your question, because <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework">/r/AskHistorians isn’t here to do your homework for you</a>. However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself.</p>
+
+<p>If you have indeed asked a homework question, you should consider resubmitting a question more focused on finding resources and seeking clarification on confusing issues: tell us what you’ve researched so far, what resources you’ve consulted, and what you’ve learned, and we are more likely to approve your question. Please see this <a href="https://www.reddit.com/r/AskHistorians/comments/hplxyf/rules_roundtable_xx_the_no_homework_rule/">Rules Roundtable</a> thread for more information on what makes for the kind of homework question we’d approve. Additionally, if you’re not sure where to start in terms of finding and understanding sources in general, we have a six-part series, “<a href="https://www.reddit.com/r/AskHistorians/wiki/theory#wiki_monday_methods.3A_finding_and_understanding_sources">Finding and Understanding Sources</a>”, which has a wealth of information that may be useful for finding and understanding information for your essay. Finally, other subreddits are likely to be more suitable for help with homework - try looking for help at /r/HomeworkHelp.</p>
+
+<p>Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you <strong>wait for 7 days</strong> and then ask a less open-ended question on the same topic.</p>
+
+<h3 id="876-effectiveness-of-the-varangian-guard-hardradas-veteran-unit-submitted-on-2022-10-12-2030530800">876: <a href="https://old.reddit.com/r/WarCollege/comments/y22odf/effectiveness_of_the_varangian_guard_hardradas/">Effectiveness of the Varangian guard. (Hardrada’s veteran unit)</a>, submitted on 2022-10-12 20:30:53+08:00.</h3>
+
+<p>—– <strong>876.1</strong> —–2022-10-12 22:51:51+08:00:</p>
+
+<blockquote>
+  <p>Spartans were anything but ahead of their times. Most of the writing we have on Spartans were written by their rivals (Athenian nobility) whose driving motivation were:</p>
+</blockquote>
+
+<p>I mean, that isn’t really true of Xenophon, who was hardly anti-democratic nor some major Athenian flag-waver. But then again, he’s also <em>very</em> realistic about Spartan military ability in the <em>Hellenika</em>, so… make of that what you will.</p>
+
+<p>—– <strong>876.2</strong> —–2022-10-13 06:02:19+08:00:</p>
+
+<blockquote>
+  <p>Xenophon was still an Athenian general - i.e. a member of the aristocracy.</p>
+</blockquote>
+
+<p>Yeah sure, but not an anti-democrat by any means. You’ve subtly shifted the goalposts here – we <em>do</em> have Athenian voices who give a realistic rather than a romantic view of Sparta.</p>
+
+<h3 id="877-please-help-me-identify-this-pottery-marking-submitted-on-2022-10-13-1759080800">877: <a href="https://old.reddit.com/r/ChineseTranslation/comments/y2upax/please_help_me_identify_this_pottery_marking/">Please help me identify this pottery marking</a>, submitted on 2022-10-13 17:59:08+08:00.</h3>
+
+<p>—– <strong>877.1</strong> —–2022-10-13 22:01:43+08:00:</p>
+
+<p>大清雍正 – Great Qing Yongzheng, indicating the empire (Qing) and the reign period (Yongzheng i.e. 1722-35) in which the piece purports to have been made.</p>
+
+<h3 id="878-free-for-all-friday-14-october-2022-submitted-on-2022-10-14-1900090800">878: <a href="https://old.reddit.com/r/badhistory/comments/y3qrzh/free_for_all_friday_14_october_2022/">Free for All Friday, 14 October 2022</a>, submitted on 2022-10-14 19:00:09+08:00.</h3>
+
+<p>—– <strong>878.1</strong> —–2022-10-15 05:29:54+08:00:</p>
+
+<p>Also 1960s movie Zulus apparently. No really, their war chant is literally ripped straight from the audio of Cy Endfield’s <em>Zulu</em>. They shout ‘uSuthu!’ when emerging from the forest.</p>
+
+<h3 id="879-musashi-romance-and-wwii-submitted-on-2022-10-15-0244020800">879: <a href="https://old.reddit.com/r/badhistory/comments/y41ulq/musashi_romance_and_wwii/">Musashi (romance) and WWII</a>, submitted on 2022-10-15 02:44:02+08:00.</h3>
+
+<p>—– <strong>879.1</strong> —–2022-10-15 05:21:59+08:00:</p>
+
+<p>Thank you for your submission to /r/badhistory! Unfortunately, it has been removed for the following reason(s):</p>
+
+<p>Your submission is in violation of <strong>Rule 2</strong>. Your submission Is a question and should be directed at one of the weekly free for all posts or history subs that allows these like AskHistorians.</p>
+
+<p>If you feel this was done in error, or would like better clarification or need further assistance, please don’t hesitate to <a href="https://www.reddit.com/message/compose?to=/r/badhistory&amp;subject=Question regarding the removal of this submission by /u/VirusWest2463&amp;message=I have a question regarding the removal of [this submission](https://www.reddit.com/r/badhistory/comments/y41ulq/-/\)">message the moderators.</a></p>
+
+<h3 id="880-why-did-the-british-lose-the-american-war-of-independence-according-to-the-british-in-the-late-18th-and-early-19th-century-submitted-on-2022-10-15-2206580800">880: <a href="https://old.reddit.com/r/AskHistorians/comments/y4ovbg/why_did_the_british_lose_the_american_war_of/">Why did the British lose the American War of Independence, according to the British in the late 18th and early 19th century?</a>, submitted on 2022-10-15 22:06:58+08:00.</h3>
+
+<p>—– <strong>880.1</strong> —–2022-10-16 04:35:03+08:00:</p>
+
+<p>Apologies, but we have had to remove your comment. While we appreciate your interest in eventually providing a response, as it is not an answer unto itself, but rather a <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_partial_answers_or_.22placeholders.22">placeholder</a>, we have had to remove your comment. In the future, please only post a response when you have done so, rather than only promising to later. If you do return later to provide a full answer, and we hope you will, please post a new comment in this thread rather than editing this removed placeholder comment, as we may overlook it and thus not re-approve it even if it is up-to-scratch. <a href="https://www.reddit.com/r/AskHistorians/comments/g3peg6/rules_roundtable_x_informed_complete_answers_the/">This rule is explained in more depth here</a>.</p>
+
+<h3 id="881-how-much-has-ancient-chinese-culture-changed-under-the-ccp-submitted-on-2022-10-16-1232020800">881: <a href="https://old.reddit.com/r/AskHistorians/comments/y57mpy/how_much_has_ancient_chinese_culture_changed/">How much has Ancient Chinese culture changed under the CCP?</a>, submitted on 2022-10-16 12:32:02+08:00.</h3>
+
+<p>—– <strong>881.1</strong> —–2022-10-16 15:03:21+08:00:</p>
+
+<p>This submission has been removed because it violates our <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events">‘20-Year Rule’</a>. To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult <a href="https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/">this Rules Roundtable</a>.</p>
+
+<h3 id="882-hobby-scuffles-week-of-october-17-2022-submitted-on-2022-10-16-2301240800">882: <a href="https://old.reddit.com/r/HobbyDrama/comments/y5iyb2/hobby_scuffles_week_of_october_17_2022/">[Hobby Scuffles] Week of October 17, 2022</a>, submitted on 2022-10-16 23:01:24+08:00.</h3>
+
+<p>—– <strong>882.1</strong> —–2022-10-17 00:51:47+08:00:</p>
+
+<p>I finally got a new desk lamp, which means mini painting can resume… eventually.</p>
+
+<p>—– <strong>882.2</strong> —–2022-10-17 16:44:50+08:00:</p>
+
+<p>Last week’s thread (or the week before) saw a bit of discussion around the new Kenneth Branagh Poirot films, and one user asked why <em>Murder on the Orient Express</em> keeps being the one adapted instead of <em>The Murder of Roger Ackroyd</em>, which is an interesting enough question that I had a bit of a musing over. I suspect the answer is very simply that the nature of the twist works for the former much more easily on film. The main twist of <em>Orient Express</em>, that being that &gt;!the murder was carried out by <em>all twelve</em> of the other passengers besides Poirot, the doctor, Bouc, and Elena!&lt;, transfers easily to film because of the way the information is presented: you find things out as Poirot and Dr. Constantine do, and so the eventual reveal doesn’t rely on telling you that any prior information is outright <em>wrong</em>, even if there were some red herrings. By contrast, <em>Roger Ackroyd</em> relies on Dr. Sheppard, the book’s own narrator, not mentioning &gt;!what he does in the ten minutes between Ackroyd receiving the letter at 8:40 and Sheppard leaving the office at 8:50, why he took 10 minutes to leave Fernly rather than 5, what exactly he did in the office after the body was discovered, and why he went to the Three Boars afterward (which he doesn’t even tell us as it happens; he only admits to it when he is asked about it the next day).!&lt; Because of that, the impact of the discovery that &gt;!Sheppard did it!&lt; relies on the POV character missing out information by not writing it down as it happens. That’s a lot harder to transfer to film, and I’m unsurprised that ITV opted for a more conventional whodunnit format in their adaptation, even if I’m disappointed they didn’t try. There are plenty of unreliable narrator films of course, but with films you aren’t looking literally through the POV character’s eyes. That kind of missing info probably comes off more as contrivance by the filmmaker than an in-character decision or mistake like it would be in a narrated novel.</p>
+
+<p>Anyway, just some thoughts.</p>
+
+<p>—– <strong>882.3</strong> —–2022-10-18 00:06:28+08:00:</p>
+
+<p>Robert Ackroyd, brother of the more famously murdered Roger.</p>
+
+<p>—– <strong>882.4</strong> —–2022-10-18 18:49:40+08:00:</p>
+
+<p>CRWBY is the fandom term for the production crew, and yes, it is ‘crewby’.</p>
+
+<p>—– <strong>882.5</strong> —–2022-10-19 01:00:29+08:00:</p>
+
+<p>So, out of sheer curiosity, which of Singapore’s 4+ main languages was the dub done in?</p>
+
+<p>—– <strong>882.6</strong> —–2022-10-19 03:28:12+08:00:</p>
+
+<blockquote>
+  <p>They did actually adapt The Murder of Roger Ackroyd!</p>
+</blockquote>
+
+<p>I know, and as noted, I suspect the difficulty of adapting the twist to film was what led them to instead choose the safer (read: more cowardly) option of a more conventional whodunnit story.</p>
+
+<p>—– <strong>882.7</strong> —–2022-10-22 07:14:31+08:00:</p>
+
+<p>Sure, but I don’t even think that’s what Malleon was saying – the issue was <em>agreeing</em> to hire her.</p>
+
+<p>—– <strong>882.8</strong> —–2022-10-22 07:15:12+08:00:</p>
+
+<p>That’s what got me – if Delutaya’s timeline is accurate, Mikeneko’s insinuations would have been around the time Delu debuted her Live2D model, and surely far from coincidental.</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-10-16</time>
+        <a href="https://nodebe4.github.io/opinion/2022-10-16/theoryofdoom/">
+          theoryofdoom在2022-10-10~2022-10-16的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-10-16</time>
+        <a href="https://nodebe4.github.io/opinion/2022-10-16/Spinkcat/">
+          Spinkcat在2022-10-10~2022-10-16的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-10-14</time>
+        <a href="https://nodebe4.github.io/opinion/2022-10-14/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-10-10~2022-10-16的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-10-09</time>
+        <a href="https://nodebe4.github.io/opinion/2022-10-09/theoryofdoom/">
+          theoryofdoom在2022-10-03~2022-10-09的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-10-15/realcaixia/">
+            前一篇：Twitter @蔡霞: 2022-10-10~2022-10-16
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-10-16/HeQinglian/">
+            後一篇：Twitter @He Qinglian: 2022-10-10~2022-10-16
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-10-15/realcaixia/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-10-16/HeQinglian/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-10-16/Spinkcat/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-10-14/ForeignAffairsMag/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-10-15/realcaixia/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-10-16/HeQinglian/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-10-16/Spinkcat/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-10-14/ForeignAffairsMag/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

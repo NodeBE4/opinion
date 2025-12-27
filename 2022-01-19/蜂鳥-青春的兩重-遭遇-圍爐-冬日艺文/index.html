@@ -1,0 +1,1044 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>《蜂鳥》：青春的兩重“遭遇”｜圍爐·冬日艺文 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+《蜂鳥》：青春的兩重“遭遇”｜圍爐·冬日艺文
+——
+" />
+    <meta property="og:description" content="
+《蜂鳥》：青春的兩重“遭遇”｜圍爐·冬日艺文
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="《蜂鳥》：青春的兩重“遭遇”｜圍爐·冬日艺文" />
+    <meta property="twitter:title" content="《蜂鳥》：青春的兩重“遭遇”｜圍爐·冬日艺文" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fmatters.news%2F%40weiluflame%2F%25E8%259C%2582%25E9%25B3%25A5-%25E9%259D%2592%25E6%2598%25A5%25E7%259A%2584%25E5%2585%25A9%25E9%2587%258D-%25E9%2581%25AD%25E9%2581%2587-%25E5%259C%258D%25E7%2588%2590-%25E5%2586%25AC%25E6%2597%25A5%25E8%2589%25BA%25E6%2596%2587-bafyreidsgzaglkmbhb3keffkdpzzvos4vgo5czlu3xpy6cdi7pyfshucoe" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://matters.news/@weiluflame/%E8%9C%82%E9%B3%A5-%E9%9D%92%E6%98%A5%E7%9A%84%E5%85%A9%E9%87%8D-%E9%81%AD%E9%81%87-%E5%9C%8D%E7%88%90-%E5%86%AC%E6%97%A5%E8%89%BA%E6%96%87-bafyreidsgzaglkmbhb3keffkdpzzvos4vgo5czlu3xpy6cdi7pyfshucoe" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://matters.news/@weiluflame/%E8%9C%82%E9%B3%A5-%E9%9D%92%E6%98%A5%E7%9A%84%E5%85%A9%E9%87%8D-%E9%81%AD%E9%81%87-%E5%9C%8D%E7%88%90-%E5%86%AC%E6%97%A5%E8%89%BA%E6%96%87-bafyreidsgzaglkmbhb3keffkdpzzvos4vgo5czlu3xpy6cdi7pyfshucoe&text=《蜂鳥》：青春的兩重“遭遇”｜圍爐·冬日艺文&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://matters.news/@weiluflame/%E8%9C%82%E9%B3%A5-%E9%9D%92%E6%98%A5%E7%9A%84%E5%85%A9%E9%87%8D-%E9%81%AD%E9%81%87-%E5%9C%8D%E7%88%90-%E5%86%AC%E6%97%A5%E8%89%BA%E6%96%87-bafyreidsgzaglkmbhb3keffkdpzzvos4vgo5czlu3xpy6cdi7pyfshucoe&title=《蜂鳥》：青春的兩重“遭遇”｜圍爐·冬日艺文" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://matters.news/@weiluflame/%E8%9C%82%E9%B3%A5-%E9%9D%92%E6%98%A5%E7%9A%84%E5%85%A9%E9%87%8D-%E9%81%AD%E9%81%87-%E5%9C%8D%E7%88%90-%E5%86%AC%E6%97%A5%E8%89%BA%E6%96%87-bafyreidsgzaglkmbhb3keffkdpzzvos4vgo5czlu3xpy6cdi7pyfshucoe&title=《蜂鳥》：青春的兩重“遭遇”｜圍爐·冬日艺文" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=《蜂鳥》：青春的兩重“遭遇”｜圍爐·冬日艺文&body=
+《蜂鳥》：青春的兩重“遭遇”｜圍爐·冬日艺文
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://matters.news/@weiluflame/%E8%9C%82%E9%B3%A5-%E9%9D%92%E6%98%A5%E7%9A%84%E5%85%A9%E9%87%8D-%E9%81%AD%E9%81%87-%E5%9C%8D%E7%88%90-%E5%86%AC%E6%97%A5%E8%89%BA%E6%96%87-bafyreidsgzaglkmbhb3keffkdpzzvos4vgo5czlu3xpy6cdi7pyfshucoe" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://matters.news/@weiluflame/%E8%9C%82%E9%B3%A5-%E9%9D%92%E6%98%A5%E7%9A%84%E5%85%A9%E9%87%8D-%E9%81%AD%E9%81%87-%E5%9C%8D%E7%88%90-%E5%86%AC%E6%97%A5%E8%89%BA%E6%96%87-bafyreidsgzaglkmbhb3keffkdpzzvos4vgo5czlu3xpy6cdi7pyfshucoe&title=《蜂鳥》：青春的兩重“遭遇”｜圍爐·冬日艺文&caption=
+《蜂鳥》：青春的兩重“遭遇”｜圍爐·冬日艺文
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=《蜂鳥》：青春的兩重“遭遇”｜圍爐·冬日艺文&url=https://matters.news/@weiluflame/%E8%9C%82%E9%B3%A5-%E9%9D%92%E6%98%A5%E7%9A%84%E5%85%A9%E9%87%8D-%E9%81%AD%E9%81%87-%E5%9C%8D%E7%88%90-%E5%86%AC%E6%97%A5%E8%89%BA%E6%96%87-bafyreidsgzaglkmbhb3keffkdpzzvos4vgo5czlu3xpy6cdi7pyfshucoe" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>《蜂鳥》：青春的兩重“遭遇”｜圍爐·冬日艺文</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-01-19
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: 围炉weiluflame</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#围炉">
+          围炉
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://matters.news/@weiluflame/%E8%9C%82%E9%B3%A5-%E9%9D%92%E6%98%A5%E7%9A%84%E5%85%A9%E9%87%8D-%E9%81%AD%E9%81%87-%E5%9C%8D%E7%88%90-%E5%86%AC%E6%97%A5%E8%89%BA%E6%96%87-bafyreidsgzaglkmbhb3keffkdpzzvos4vgo5czlu3xpy6cdi7pyfshucoe" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="围炉的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#围炉 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1642604134000-->
+<p><a href="https://matters.news/@weiluflame/%E8%9C%82%E9%B3%A5-%E9%9D%92%E6%98%A5%E7%9A%84%E5%85%A9%E9%87%8D-%E9%81%AD%E9%81%87-%E5%9C%8D%E7%88%90-%E5%86%AC%E6%97%A5%E8%89%BA%E6%96%87-bafyreidsgzaglkmbhb3keffkdpzzvos4vgo5czlu3xpy6cdi7pyfshucoe">《蜂鳥》：青春的兩重“遭遇”｜圍爐·冬日艺文</a>
+——</p>
+
+<div>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/c1af3518-3a95-42d7-bf09-144ef60187cc.png" data-asset-id="c1af3518-3a95-42d7-bf09-144ef60187cc" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>《蜂鳥》是韓國導演金寶拉（Bora Kim）的首部劇情長片，影片講述了中學生恩熙和父母、姐姐和哥哥一起生活，同時也在尋覓未至的愛情，一切關係像島一樣漂浮。 這時，唯一能理解和撫慰她的中文老師英智出現在恩熙的生活裏。 隨著英智在1994年聖水大橋坍塌事故中喪失，恩熙的青春也結束了。 導演金寶拉是美國哥倫比亞大學電影製作碩士，現時既是導演也是編劇。 《蜂鳥》（House of Hummingbird，也譯為《我們與愛的距離》）是她的首部劇情長片，獲得2018年釜山影展奈派克獎與觀眾票選獎，以及2019年柏林影展新世代青少年單元評審團大獎。</p>
+  <p>這部電影敘寫青春的管道並不稀奇。 從1994春天到年末聖水大橋坍塌，導演借初二女生恩熙的視角用日記般的管道將動搖恩熙想法的事件和人物一一推出。 劇情主要以顛簸的家庭關係為覈心連結恩熙整個青春期生活，倏忽來去的愛情與友情也讓恩熙更加迷茫。 因而，在恩熙充滿壓抑和不斷試錯的生活裏，因緣際會出現的中文老師英智一句“相識滿天下，知心能幾人”便能引發許多觀眾的共鳴。</p>
+  <p>從我的視角來看，女主角恩熙漂浮在對成長的模糊感知中， 更重要的是“遭遇”（encounter）——這些遭遇構成了一個初二女生在大半年中體會/經歷的種種關係形成/構成的生活維度的多方面重疊——讓我們得以反思女主角在成長過程中兩種不同類型的“遭遇”即有組織的必然轉變與偶然邂逅重疊所面臨的差异問題， 也可以說是結構內外的差异問題。 進一步來說，這種差异指的是兩種遭遇類型產生的具體情境的差別及其帶來的極具個人色彩的獨特情感體驗，以及差异出現後對女主角的生活世界帶來何種影響。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/057a79fd-d4d6-4276-b3da-53bd9aad4345.webp" data-asset-id="057a79fd-d4d6-4276-b3da-53bd9aad4345" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <div class="language-plaintext ql-syntax highlighter-rouge" spellcheck="false"><div class="highlight"><pre class="highlight"><code>#1“有組織的必然轉變”：傳統男權家庭中的困境</code></pre></div>  </div>
+  <p>電影以一次誤解為開場，恩熙回家多次敲門卻無人應答進而從煩躁轉為委屈，最後卻發現是自己走錯樓層。 相信觀眾不需重回青春年代，這種心情也跟當代社畜的崩潰就在一瞬間不謀而合。 導演此處的設計意在點出恩熙在家中不受重視的地位，更不必說從家庭關係中得到理解和支持。 電影開場便借由恩熙的視角撕開了這個普通傳統韓國家庭中的一面——自己長期被哥哥家暴卻從不被重視，後來發現默默忍受比反抗的苦痛來得更少些。 叛逆的姐姐長期與家庭不和，蹺課晚歸後被父親言語淩辱。 父母因父親出軌爭執摔壞傢俱，第二天傷口貼著膠布卻還能在一起看電視。 若細看，電影在置景方面也暗藏波瀾，力圖提供畫面之外的再一種解釋，父母和好一起看電視的時候沙發底下還散落著檯燈的碎片。 一個家庭散裂的程度如此之深卻同時擁有如此快的修復速度，令人驚異。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/77b38568-a022-44ae-bd9e-a0d7a34a48af.webp" data-asset-id="77b38568-a022-44ae-bd9e-a0d7a34a48af" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>導演金寶拉在採訪中承認，電影裏初二女生恩熙遭遇的一切有她青春期的影子，也有許多通過訪談國中女生得來的生活片段。 她生長於韓國，後赴美留學，從大洋彼岸的生活經歷反而促使她回望自己的成長經歷，她塑造的主角恩熙是一個學業普通、樣貌普通的女生，但正是這種非典型性的選擇代表了普遍的社會整體境遇，才讓整部作品看起來並不像是一部刻意討論社會問題的青春電影。 這部作品採用平視的視角呈現上世紀末普通女性需要面對的青春期成長困境，又避免了一定程度上妖魔化這些困境所反映出來的社會問題，如此這般構築了恩熙這一立體可信的人物形象。 隨著情節發展，導演不斷從其他的角度來描繪這個家庭的生活圖景，原來家庭中每一個人都只不過是在普普通通的軌道上過著具有那個强烈的時代特色的普通生活——無論是學業優良的哥哥、叛逆的姐姐還是初嘗世事的恩熙都要在假期到家中經營的年糕店幫手。 他們熟練地製作、切割和包裝年糕時一系列的配合看起來又如此默契。 為生計忙碌勞作的家庭作坊、此時沒有時間與空間再去討論這些遺落在角落的隱晦感情。 當敘事的視角從個人轉變為到家庭時，觀眾不得不重新嘗試理解恩熙的多面處境。</p>
+  <p>家庭關係無法改變也無法選擇，它深深嵌入在恩熙的成長歷程中。 如果說“遭遇”是這部電影能將恩熙大半年裏經歷的事情如日記般娓娓道來的題眼，那不妨把家庭看作一股不可抗拒的力量，家庭關係的波動與恩熙的成長是一場又一場無法逃避的“遭遇”，迫使恩熙認識世界的管道發生有組織的必然轉變。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/070f9914-44e0-4ee0-83c5-ce861303d86c.webp" data-asset-id="070f9914-44e0-4ee0-83c5-ce861303d86c" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <div class="language-plaintext ql-syntax highlighter-rouge" spellcheck="false"><div class="highlight"><pre class="highlight"><code>#2“偶然邂逅”：漂浮不定的愛情與友情</code></pre></div>  </div>
+  <p>在這部影片裏，關於各種關係的定義十分微妙。 恩熙青春期的陣痛不僅僅是在父權制為主導的家庭關係中所遭遇的種種不公，她還需要體味愛情與友情的瞬息變化。 夏天恩熙在課餘時間和閨蜜智淑如膠似漆，在學校後面的蹦牀上肆意揮灑汗水。 然而在盜竊風波中智淑為了保全自己供出了恩熙的家庭住址和電話讓她一人承擔後果，原來一起度過美好時光的閨蜜也會背叛自己，即使後來和好，友情也不免出現裂痕。 朦朧的青春期友情就像在糖楓樹上割開口子，流出的是甜蜜的汁液，甜蜜和傷口並存，等到來年冬天即將過去，才沉澱成最甜的蜜漿。</p>
+  <p>初二的年紀也還不足以讓她深刻理解一段關係的意義，恩熙與有好感的男生志源在林蔭道間散步，在漆黑的樓梯間裏接吻像是她出於好奇探索成人世界的嘗試。 後來男生不告而別，又有一個女生進入了她的生活、為追求她做了不少感動的小事，而一個暑期過去，女孩之間朦朧的感情也無疾而終了。 從開始到結束，普通的女孩好像沒有權力取得愛情和友情遊戲中的特權，所有的情感隨著時間流逝也會突然消失不見。 這些青澀的感情在成人世界或許不值一提，卻並不是毫無意義，我們的身體在成熟心理在成長，有時卻不得不在回望青春時背負以往過剩的情感負擔。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/9f585111-166f-41b0-926d-628d42cb9ae4.webp" data-asset-id="9f585111-166f-41b0-926d-628d42cb9ae4" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/72d8e76e-4bbd-415e-925e-5322001a2f15.webp" data-asset-id="72d8e76e-4bbd-415e-925e-5322001a2f15" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>在恩熙被冤枉盜竊陷入人生低谷的時候，補習班中文老師英智進入了她的生活。 她在黑板上寫下“相識滿天下，知心能幾人”寬慰恩熙。 英智同與外界環境格格不入，她看似冷漠、抽烟、教育管道脫離應試、對恩熙的情感體貼入微卻不過分介入，金璽碧冷淡的眉眼勾勒出老師的形象簡單但足够飽滿。 同樣不被理解的兩人逐漸走到一起。 英智和恩熙原都喜歡漫畫、都曾遭受家暴，她們共同擁有對這個不公義的社會的敏感而一度成為知音，英智的出現為恩熙處處充滿斷裂感的生活帶來朦朧的美好。</p>
+  <p>電影進入後半程，導演便不再掩飾恩熙受到的創傷，她兩次使用傷口將這種創傷所造成的複雜後果表現得淋漓盡致。 第一次是恩熙被哥哥打了一耳光導致耳膜破裂，這一次傷痕讓恩熙放弃反抗哥哥的家暴選擇了妥協。 第二次恩熙的耳朵做了腫瘤手術，這道傷痕卻變成她在家中受到一絲關懷的保護傘。 這無疑是滑稽的——遭受淩辱默默承受變成生存之道、只有被看見的“弱者”才能得到憐憫。 這時是英智出現在醫院裏，握緊恩熙的手告訴她如果再挨打一定要奮起反抗。 傷口是傷害的結果，正是英智傳遞給恩熙何謂勇氣。 而在隱含的理解中，這一連串的事件導致恩熙打破了她應該如何對待不公義的理解邊界。 當不連續的破壞發生，或許會造成根本的創傷，或許能在不被察覺的情况下型塑一種微妙的心理波動。 這樣的突破令一個女孩身處家庭和社會權威和權力的困擾的中心重新思考身體的閾值和能力，並讓其後的“遭遇”變得不可預測。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/fc4ca2a5-0921-4f4c-924b-2694f4099d0a.webp" data-asset-id="fc4ca2a5-0921-4f4c-924b-2694f4099d0a" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/2feaec00-ed16-4868-b2bb-c7173dfca8d3.webp" data-asset-id="2feaec00-ed16-4868-b2bb-c7173dfca8d3" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>相較無可選擇的家庭“遭遇”，充滿未知的友情與愛情上的“相遇”為恩熙提供了另一個面向的“接觸地帶”，她得以用另外一副面孔來處理與身處家庭不一樣的遭遇； 再者，恩熙在如輕煙般易變又朦朧的青春期關係裏體驗快樂、刺激和動盪不安。 她在這種充滿不確定性的關係中學習所謂“成熟”的處理方法，不斷突破她對固有邊界的想像。 因而，這些“遭遇”無非都關於差异帶來的破裂、驚喜和衝擊。 兩重遭遇在影片中互相重疊隨著時間推進、變化，回溯這些遭遇，歸根到底，影片嘗試回應一種在不平等的境遇下借恩熙之口發出的懵懂的成長之問：我們如何賦予對青春期關係中道德評判的慷慨？ 我們如何處理成長過程中在確定與不確定中的徘徊？ 我們如何在困境中依舊懷有勇氣挑戰不公正的話語？</p>
+  <p>想起之前與好友看完《狗十三》，對方卻說這種心緒不具備相同經歷的人難以共情。 《過春天》也是如此，其驚險刺激是一大看點，其中微妙的情愫或被掩埋。 曾被譽為“年度最佳青春片”的《蜂鳥》勝在揭露問題後不忘描繪在片中人物種種遭遇後所產生的新的社會關係和變化。 恩熙與英智夜談時，英智寬慰恩熙“當你感到疲憊鬱悶的時候，雖然什麼都做不了，自己的手指卻還能動，人生就還有回轉的餘地。” 彼時她們正坐在首爾的棚戶區旁邊，鎖閉的鐵門上掛著工人為反對政府城市化建設拆遷“即使死也要……”的橫幅、兩種人生處境似乎遙遙呼應。 恩熙的初二一年如蜂鳥一般，努力振翅高飛，卻不得不梭巡在搖搖欲墜的親情、愛情和友情裏一窺成人世界的遊戲規則。 英智的出現則告訴恩熙人生還有另外一種活著的態度。 在一個毫無預兆的冬日，恩熙知曉老師英智在1994年韓國聖水大橋坍塌的事故中遇難。 夜晚在姐姐的陪伴下她來到漢江邊，行至此處，影片也由此渲染上極度憂傷的色彩。 影片的結尾，恩熙看著老師留給她的素描本，默默寫下“我的人生總有一天也會發光嗎？” 延續她的青春之問。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/6eb38813-d106-43fa-9813-0e96de3b7736.webp" data-asset-id="6eb38813-d106-43fa-9813-0e96de3b7736" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>文|陳可沂</p>
+  <p>圖|來自網絡</p>
+  <p>微信編輯|李婧軒</p>
+  <p>matters編輯| Marks</p>
+  <p>審稿|沈嚴銘</p>
+  <p>圍爐（ID:weilu_flame）</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/d7b62324-866e-42d0-bd7f-a02947aa0de8.png" data-asset-id="d7b62324-866e-42d0-bd7f-a02947aa0de8" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>文中圖片未經同意，請勿用作其他用途</p>
+  <p>歡迎您在文章下方評論，與圍爐團隊和其他讀者交流討論</p>
+  <p>欲瞭解圍爐、閱讀更多文章，請關注本公眾號並在公眾號頁面點擊相應選單欄目</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/76b0b55e-e23f-4326-a8ae-675f6332cf64.png" data-asset-id="76b0b55e-e23f-4326-a8ae-675f6332cf64" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/beca0197-4de5-470e-8d29-ae1e6790196c.png" data-asset-id="beca0197-4de5-470e-8d29-ae1e6790196c" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p><br /></p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#围炉 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2024-10-03/%E5%AF%B9%E8%AF%9D%E5%A5%B3%E6%80%A7%E6%B0%91%E5%B7%A5-%E5%9C%A8%E5%9F%8E%E5%B8%82%E9%87%8C-%E5%9C%A8%E5%B7%A5%E4%BD%9C%E5%92%8C%E5%AE%B6%E5%BA%AD%E4%B9%8B%E9%97%B4-%E5%9B%B4%E7%82%89-CU/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2021-03-23/%E5%AF%B9%E8%AF%9D%E9%BB%84%E6%B3%93%E7%BF%94-%E8%87%B4%E5%8A%9B%E4%BA%8E%E5%9F%B9%E8%82%B2%E4%B8%96%E7%95%8C%E5%85%AC%E6%B0%91%E7%9A%84%E4%B8%AD%E5%8D%97%E5%B1%8B%E5%88%9B%E5%A7%8B%E4%BA%BA-%E8%AE%B2%E5%BA%A7%E6%91%98%E8%A6%81/">最早</a>--</span>
+    
+      <li>
+        <time>2022-02-03</time>
+        <a href="https://nodebe4.github.io/opinion/2022-02-03/%E5%B0%8D%E8%A9%B1%E9%99%B3%E9%BA%9F-%E6%96%87%E5%8C%96-%E7%A0%B4%E5%A3%81%E4%BA%BA-%E7%AA%81%E7%A0%B4%E4%B8%AD%E8%A5%BF%E9%9A%94%E9%96%A1%E7%9A%84%E5%98%97%E8%A9%A6%E8%88%87%E5%9B%9E%E6%9C%9B-%E5%9C%8D%E7%88%90-NYUSH/">
+          對話陳麟：文化“破壁人”，突破中西隔閡的嘗試與回望|圍爐·NYUSH
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-01-28</time>
+        <a href="https://nodebe4.github.io/opinion/2022-01-28/%E5%9C%8D%E7%88%90%E5%A4%9C%E8%A9%B1-%E6%88%91%E4%B9%9F%E6%9B%BE%E8%99%95%E6%96%BC%E7%A4%BE%E6%9C%83%E9%82%8A%E7%B7%A3-%E5%9C%8D%E7%88%90-HKU/">
+          圍爐夜話：我也曾處於社會邊緣|圍爐·HKU
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-01-14</time>
+        <a href="https://nodebe4.github.io/opinion/2022-01-14/%E6%88%91%E6%98%AF%E8%AA%B0-%E9%97%9C%E4%BF%82%E6%9C%AC%E9%AB%94%E8%AB%96%E4%B8%AD%E7%9A%84-%E8%87%AA%E6%88%91-%E5%9C%8D%E7%88%90-%E5%86%AC%E6%97%A5%E6%96%87%E8%97%9D/">
+          我是誰？關係本體論中的“自我” | 圍爐· 冬日文藝
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-01-09</time>
+        <a href="https://nodebe4.github.io/opinion/2022-01-09/%E5%9B%9E%E5%AE%B6%E7%9A%84%E8%B7%AF-%E9%9B%AA%E8%B7%AF-%E8%A7%80%E5%BE%8C%E6%84%9F-%E5%9C%8D%E7%88%90-%E5%86%AC%E6%97%A5%E8%89%BA%E6%96%87/">
+          回家的路：《雪路》觀後感|圍爐·冬日艺文
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-01-19/700-%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%9D%83-%E5%85%AC%E6%B0%91%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90%E7%9A%84%E8%AF%9E%E7%94%9F-%E6%9B%BE%E9%87%91%E7%87%95/">
+            前一篇：700 中国女权：公民知识分子的诞生|曾金燕
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-01-19/%E8%AA%9E%E6%96%87%E9%99%B6%E8%A9%B1%E5%BB%8A-%E5%AE%89%E8%BF%AA%E8%A9%A9%E8%A9%B1-%E9%99%B3%E5%AF%85%E6%81%AA%E6%8C%AA%E5%A8%81%E7%B4%80%E9%81%8A/">
+            後一篇：【語文陶話廊】安迪詩話：陳寅恪挪威紀遊
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-01-19/700-%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%9D%83-%E5%85%AC%E6%B0%91%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90%E7%9A%84%E8%AF%9E%E7%94%9F-%E6%9B%BE%E9%87%91%E7%87%95/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-01-19/%E8%AA%9E%E6%96%87%E9%99%B6%E8%A9%B1%E5%BB%8A-%E5%AE%89%E8%BF%AA%E8%A9%A9%E8%A9%B1-%E9%99%B3%E5%AF%85%E6%81%AA%E6%8C%AA%E5%A8%81%E7%B4%80%E9%81%8A/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-01-28/%E5%9C%8D%E7%88%90%E5%A4%9C%E8%A9%B1-%E6%88%91%E4%B9%9F%E6%9B%BE%E8%99%95%E6%96%BC%E7%A4%BE%E6%9C%83%E9%82%8A%E7%B7%A3-%E5%9C%8D%E7%88%90-HKU/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-01-14/%E6%88%91%E6%98%AF%E8%AA%B0-%E9%97%9C%E4%BF%82%E6%9C%AC%E9%AB%94%E8%AB%96%E4%B8%AD%E7%9A%84-%E8%87%AA%E6%88%91-%E5%9C%8D%E7%88%90-%E5%86%AC%E6%97%A5%E6%96%87%E8%97%9D/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-01-19/700-%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%9D%83-%E5%85%AC%E6%B0%91%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90%E7%9A%84%E8%AF%9E%E7%94%9F-%E6%9B%BE%E9%87%91%E7%87%95/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-01-19/%E8%AA%9E%E6%96%87%E9%99%B6%E8%A9%B1%E5%BB%8A-%E5%AE%89%E8%BF%AA%E8%A9%A9%E8%A9%B1-%E9%99%B3%E5%AF%85%E6%81%AA%E6%8C%AA%E5%A8%81%E7%B4%80%E9%81%8A/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<围炉>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-01-28/%E5%9C%8D%E7%88%90%E5%A4%9C%E8%A9%B1-%E6%88%91%E4%B9%9F%E6%9B%BE%E8%99%95%E6%96%BC%E7%A4%BE%E6%9C%83%E9%82%8A%E7%B7%A3-%E5%9C%8D%E7%88%90-HKU/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<围炉>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-01-14/%E6%88%91%E6%98%AF%E8%AA%B0-%E9%97%9C%E4%BF%82%E6%9C%AC%E9%AB%94%E8%AB%96%E4%B8%AD%E7%9A%84-%E8%87%AA%E6%88%91-%E5%9C%8D%E7%88%90-%E5%86%AC%E6%97%A5%E6%96%87%E8%97%9D/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

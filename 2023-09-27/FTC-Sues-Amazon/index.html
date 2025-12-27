@@ -1,0 +1,3012 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>FTC Sues Amazon – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+FTC Sues Amazon
+——
+" />
+    <meta property="og:description" content="
+FTC Sues Amazon
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="FTC Sues Amazon" />
+    <meta property="twitter:title" content="FTC Sues Amazon" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2023%2Fftc-sues-amazon-fba-and-prime-pricing-punishment%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2023/ftc-sues-amazon-fba-and-prime-pricing-punishment/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2023/ftc-sues-amazon-fba-and-prime-pricing-punishment/&text=FTC Sues Amazon&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2023/ftc-sues-amazon-fba-and-prime-pricing-punishment/&title=FTC Sues Amazon" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2023/ftc-sues-amazon-fba-and-prime-pricing-punishment/&title=FTC Sues Amazon" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=FTC Sues Amazon&body=
+FTC Sues Amazon
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2023/ftc-sues-amazon-fba-and-prime-pricing-punishment/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2023/ftc-sues-amazon-fba-and-prime-pricing-punishment/&title=FTC Sues Amazon&caption=
+FTC Sues Amazon
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=FTC Sues Amazon&url=https://stratechery.com/2023/ftc-sues-amazon-fba-and-prime-pricing-punishment/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>FTC Sues Amazon</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2023-09-27
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2023/ftc-sues-amazon-fba-and-prime-pricing-punishment/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1695819578000-->
+<p><a href="https://stratechery.com/2023/ftc-sues-amazon-fba-and-prime-pricing-punishment/">FTC Sues Amazon</a>
+——</p>
+
+<div>
+  <p>From the <a href="https://www.wsj.com/tech/ftc-sues-amazon-alleging-illegal-online-marketplace-monopoly-6bd9af23">Wall Street Journal</a>:</p>
+  <blockquote>
+    <p>The Federal Trade Commission and 17 states on Tuesday sued Amazon, alleging the online retailer illegally wields monopoly power that keeps prices artificially high, locks sellers into its platform and harms its rivals. The FTC’s lawsuit, filed in Seattle federal court, marks a milestone in the Biden administration’s aggressive approach to enforcing antitrust laws and has been anticipated for months. The agency’s chair, Lina Khan, is a longtime critic of Amazon who wrote in the Yale Law Journal in 2017 that earlier generations of competition cops and courts abandoned the law’s concerns over conglomerates such as Amazon. Khan has had trouble convincing courts of her antitrust views, however. Having earlier lost cases against both Microsoft and Meta Platforms, she and her agency now face a crucial test in taking on Amazon.</p>
+    <p>The federal agency and the states alleged that Amazon violated antitrust laws by using anti-discounting measures that punished merchants for offering lower prices elsewhere. The government also said sellers on Amazon were compelled to use its logistics service if they want their goods to appear in Amazon Prime, the subscription program whose perks include faster shipping times. Such “tying,” the complaint says, illegally “restricts sellers’ choices” and “reduces product selection available to Amazon’s rivals.”</p>
+    <p>The FTC also said sellers feel they must use Amazon’s services such as advertising to be successful on the platform. Between being paid for its logistics program, advertising and other services, “Amazon now takes one of every $2 that a seller makes,” Khan said at a briefing with the media Tuesday.</p>
+  </blockquote>
+  <p>This is the key paragraph of the <a href="https://www.ftc.gov/system/files/ftc_gov/pdf/1910129AmazoneCommerceComplaintPublic.pdf">FTC’s (heavily redacted) complaint</a>:</p>
+  <blockquote>
+    <p>This case is about the illegal course of exclusionary conduct Amazon deploys to block competition, stunt rivals’ growth, and cement its dominance. The elements of this strategy are mutually reinforcing. Amazon uses a set of anti-discounting tactics to prevent rivals from growing by offering lower prices, and it uses coercive tactics involving its order fulfillment service to prevent rivals from gaining the scale they need to meaningfully compete. Amazon deploys this interconnected strategy to block off every major avenue of competition — including price, product selection, quality, and innovation — in the relevant markets for online superstores and online marketplace services.</p>
+  </blockquote>
+  <p>I will, for the sake of space, focus on these two complaints; I will note, though, that the extreme suspicion with which things like a subscriptions-based loyalty program (Prime), bundling (Prime), store-branded goods (Amazon Basics et al.), and advertising are presented hardly does the FTC’s case any good. Characterizing practices that have been common tactics in retail for literally decades as some sort of nefarious plot makes me question this paragraph from the <a href="https://www.ftc.gov/news-events/news/press-releases/2023/09/ftc-sues-amazon-illegally-maintaining-monopoly-power">press release</a>:</p>
+  <blockquote>
+    <p>The complaint alleges that Amazon violates the law not because it is big, but because it engages in a course of exclusionary conduct that prevents current competitors from growing and new competitors from emerging. By stifling competition on price, product selection, quality, and by preventing its current or future rivals from attracting a critical mass of shoppers and sellers, Amazon ensures that no current or future rival can threaten its dominance. Amazon’s far-reaching schemes impact hundreds of billions of dollars in retail sales every year, touch hundreds of thousands of products sold by businesses big and small and affect over a hundred million shoppers.</p>
+  </blockquote>
+  <p>That first sentence in particular made me think of this meme:</p>
+  <p><img decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2023/09/amazonftc-3.png?resize=640%2C295&#038;ssl=1" alt="A meme about the FTC claiming it isn&#039;t suing Amazon for being big" width="640" height="295" class="aligncenter size-full wp-image-11640" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2023/09/amazonftc-3.png?w=1144&amp;ssl=1 1144w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/09/amazonftc-3.png?resize=300%2C138&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/09/amazonftc-3.png?resize=1024%2C473&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/09/amazonftc-3.png?resize=768%2C354&amp;ssl=1 768w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>Set that aside for now, though; I actually think at least one of the complaints is compelling, if not convincing.</p>
+  <h3 id="fba-and-prime">FBA and Prime</h3>
+  <p>This complaint is not the compelling one; from the complaint:</p>
+  <blockquote>
+    <p>Amazon deploys yet another tactic as part of its monopolistic course of conduct. Amazon conditions sellers’ ability to be “Prime eligible” on their use of Amazon’s order fulfillment service. As with Amazon’s anti-discounting tactics, this coercive conduct forecloses Amazon’s rivals from drawing a critical mass of sellers or shoppers – thereby depriving them of the scale needed to compete effectively online.</p>
+    <p>Amazon makes Prime eligibility critical for sellers to fully reach Amazon’s enormous base of shoppers. In 2021, more than ██% of all units sold on Amazon in the United States were Prime eligible. Prime eligibility is critical for sellers in part because of the enormous reach of Amazon’s Prime subscription program. According to public reports, Mr. Bezos told Amazon executives that Prime was created in 2005 to “draw a moat around [Amazon’s] best customers.” Prime now blankets more than ██% of all U.S. households, with its reach extending as far as ██% in some zip codes.</p>
+    <p>Amazon requires sellers who want their products to be Prime eligible to use Amazon’s fulfillment service, Fulfillment by Amazon (“FBA”), even though many sellers would rather use an alternative fulfillment method to store and package customer orders.</p>
+  </blockquote>
+  <p>I find this charge ridiculous on its face. The core offering of Prime — the feature that it launched with 18 years ago — was a shipping guarantee. From the <a href="https://press.aboutamazon.com/2005/2/amazon-com-announces-record-free-cash-flow-fueled-by-lower-prices-and-free-shipping-introduces-new-express-shipping-program-amazon-prime">February 2005 press release</a>:</p>
+  <blockquote>
+    <p>Today the Company also introduced “Amazon Prime,” Amazon.com’s first ever membership program. For a flat membership fee of $79 per year, members get unlimited, express two-day shipping for free, with no minimum purchase requirement. Members also get one-day, overnight shipping for only $3.99 per item — order as late as 6:30PM ET.</p>
+    <p>“Amazon Prime is ‘all-you-can-eat’ express shipping,” said Jeff Bezos, founder and CEO of Amazon.com. “Though expensive for the Company in the short-term, it’s a significant benefit and more convenient for customers. With Amazon Prime, there’s no minimum purchase to think about, and no consolidating orders — two-day shipping becomes an everyday experience rather than an occasional indulgence.”</p>
+  </blockquote>
+  <p>It seems eminently reasonable to me that Amazon predicate inclusion in a program defined by a shipping guarantee on letting Amazon deliver your products. Prime was a massive risk at the time, dwarfed only by the many billions of dollars that Amazon has spent since then building out its logistics network. I see no basis on which a government regulator ought to demand that Amazon give out access to the Prime label and bear the reputation risk for 3rd-party delivery services that did not take those risks or make those investments. It’s absurd.</p>
+  <p>The FTC’s argument seems to be mostly based on the existence of an Amazon program called “Seller-Fulfilled Prime” that launched in 2015, before enrollment was shuttered in 2019, and suspended in 2020; Amazon <a href="https://sellercentral.amazon.com/seller-forums/discussions/t/b84ba574c99c39b7cda6566fddfe8375">announced it was coming back in 2023</a> (perhaps because of this case). Seller-Fulfilled Prime let sellers participate in the Prime program, as long as they delivered the goods themselves (i.e. didn’t use a 3rd-party fulfillment service) and passed Amazon’s stringent requirements. The FTC, based on internal emails (which are redacted), claims that Amazon killed the program because it reduced the company’s hold on merchants. A few points on this:</p>
+  <ul>
+    <li>First, Prime is Amazon’s brand and program; just because Amazon opened it up once doesn’t mean it ought be compelled to keep it open.</li>
+    <li>Second, this charge definitely feels downstream from a fishing expedition; I imagine those redacted emails are pretty spicy, because it’s hard to see any justification for this charge otherwise.</li>
+    <li>Three, look carefully at those dates: in 2019 <a href="https://stratechery.com/2019/day-two-to-one-day/">Amazon announced that Prime would shift to a one-day guarantee</a>, and in 2020 Amazon was in the middle of saving the country during lockdowns. Given the reputational risk attached to Prime those seem like relevant reasons to suspend the program.</li>
+  </ul>
+  <p>Ultimately, though, these arguments pale in comparison to the sheer audacity of the FTC’s insistence it ought to be able to simply take what Amazon has built and distribute it to whoever wants it.</p>
+  <h3 id="pricing-punishment">Pricing Punishment</h3>
+  <p>This charge is more compelling; from the complaint:</p>
+  <blockquote>
+    <p>One set of tactics stifles the ability of rivals to attract shoppers by offering lower prices. Amazon deploys a sophisticated surveillance network of web crawlers that constantly monitor the internet, searching for discounts that might threaten Amazon’s empire. When Amazon detects elsewhere online a product that is cheaper than a seller’s offer for the same product on Amazon, Amazon punishes that seller. It does so to prevent rivals from gaining business by offering shoppers or sellers lower prices…</p>
+    <p>The sanctions Amazon levies on sellers vary. For example, Amazon knocks these sellers out of the all-important “Buy Box,” the display from which a shopper can “Add to Cart” or “Buy Now” an Amazon-selected offer for a product. Nearly ██% of Amazon sales are made through the Buy Box and, as Amazon internally recognizes, eliminating a seller from the Buy Box causes that seller’s sales to “tank.” Another form of punishment is to bury discounting sellers so far down in Amazon’s search results that they become effectively invisible…</p>
+    <p>Moreover, Amazon’s one-two punch of seller punishments and high seller fees often forces sellers to use their inflated Amazon prices as a price floor everywhere else. As a result, Amazon’s conduct causes online shoppers to face artificially higher prices even when shopping somewhere other than Amazon. Amazon’s punitive regime distorts basic market signals: one of the ways sellers respond to Amazon’s fee hikes is by increasing their own prices off Amazon. An executive from another online retailer sums up this perverse dynamic: Amazon’s anti-discounting conduct █████████████████████████████████. Amazon’s illegal tactics mean that when Amazon raises its fees, others — competitors, sellers, and shoppers – suffer the harms.</p>
+    <p>Amazon’s tactics suppress rival online superstores’ ability to compete for shoppers by offering lower prices, thereby depriving American households of more affordable options. Amazon’s conduct also suppresses rival online marketplace service providers’ ability to compete for sellers by offering lower fees because sellers cannot pass along those savings to shoppers in the form of lower product prices.</p>
+  </blockquote>
+  <p>This all sounds bad and, at first glance, anti-competitive. Consider, though, what the FTC is implicitly asking:</p>
+  <ul>
+    <li>First, Amazon is <em>replacing</em> the offending merchants in the Buy Box with other merchants who offer lower prices (including, potentially, Amazon itself). It’s difficult to understand how this is bad for consumers.</li>
+    <li>Second, insisting that Amazon promote merchants who offer higher prices on Amazon and lower prices elsewhere is, once again, insisting that Amazon offer the fruits of its investments, both in terms of customer acquisition and in delivery speed, to merchants who are actively seeking to develop an Amazon competitor.</li>
+    <li>Third, most-favored nation clauses, which this is in practice if not in specifics (in fact, according to the FTC, these practices replaced MFN clauses) have consistently been found to be legal.</li>
+  </ul>
+  <p>Most importantly, though, this alleged illegality rests on Amazon being a monopoly, which means, as happens with all antitrust cases, we have a question of market definition. In this case the FTC has defined the relevant markets as “the online superstore market” and “the market for online marketplace services.” These definitions, conveniently enough, exclude all brick-and-mortar retailers (the word “omnichannel” doesn’t appear in the complaint), and all independent retailers, such as those hosted by Shopify. The FTC says that this narrow definition makes sense because of the convenience and selection that is exclusive to “online superstores”, thanks to the ability to ship things together; never-mind that other websites are only a click away, and that the entire reason you can ship things together is because most items on Amazon are Fulfilled by Amazon (see the previous complaint).</p>
+  <p>This definition is obviously going to be critical to this case: <a href="https://www.ben-evans.com/benedictevans/2019/12/amazons-market-share19">Benedict Evans ran the numbers</a> and, if you consider all of retail, then Amazon only has single-digits worth of marketshare; if you consider all of e-commerce Amazon has about 35% share. What is clear is that just about everything on Amazon is available elsewhere: the power the company has with regard to pricing is a function of the demand it delivers to merchants — demand that is not compelled of customers, but willingly given precisely because customers find Amazon’s service to be valuable.</p>
+  <h3 id="amazons-market-making">Amazon’s Market-Making</h3>
+  <p>That’s not to say that there aren’t merchants wholly beholden to Amazon; in 2019 an Amazon reseller named Molson Hart <a href="https://medium.com/@molson_hart/amazon-needs-a-competitor-and-walmart-aint-it-5997977b77b2">wrote an essay on Medium</a> complaining about Amazon’s fulfillment prices, and included this chart:</p>
+  <blockquote>
+    <p>We sell plush and construction toys on Amazon. Well, technically, we sell toys on our website, on eBay, on Walmart.com, to brick-and-mortar stores, and we sell on Amazon. But, really, we only sell on Amazon. In 2018, we had about $4,000,000 in sales but Amazon.com accounted for over 98% of that.</p>
+    <p><a href="https://medium.com/@molson_hart/amazon-needs-a-competitor-and-walmart-aint-it-5997977b77b2"><img decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2023/09/amazonftc-1.png?resize=640%2C395&#038;ssl=1" alt="How Amazon dominates the sale of one merchant" width="640" height="395" class="aligncenter size-full wp-image-11638" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2023/09/amazonftc-1.png?w=727&amp;ssl=1 727w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/09/amazonftc-1.png?resize=300%2C185&amp;ssl=1 300w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></a></p>
+    <p>Harvard Business School would call this “vendor/customer concentration”. In the e-commerce world, we call it being Amazon’s bitch.</p>
+    <p>While Amazon received $1.95 million from us last year, they are not afraid of losing our business for a couple of reasons. First, there are thousands of companies out there eager to take our place. Second, Amazon had $277 billion in gross merchandise revenue in 2018. Our $3.9 million in sales on Amazon accounted for .0014% of that. Finally, we have nowhere else to go and Amazon knows it.</p>
+  </blockquote>
+  <p>Hart <a href="https://www.youtube.com/watch?v=Pan9eNpVqVY">shared his entrepreneurship story on a podcast</a>, and I think it provides important context:</p>
+  <div align="center">
+    <div id="v-g4OK1LSH-1" class="video-player">
+      <video id="v-g4OK1LSH-1-video" width="640" height="360" poster="https://videos.files.wordpress.com/g4OK1LSH/molson-amazon-ftc_mp4_hd.original.jpg" controls="true" preload="metadata" dir="ltr" lang="en"><div>
+<img alt="" src="https://videos.files.wordpress.com/g4OK1LSH/molson-amazon-ftc_mp4_hd.original.jpg?resize=640%2C360" width="640" height="360" data-recalc-dims="1" />
+        </div></video>
+    </div>
+  </div>
+  <blockquote>
+    <p>In 2014-2015, you could sell literally anything you wanted on Amazon and it was profitable. You didn’t really need to do any data analysis. If you were buying in China and you didn’t do an absolutely abominable job sending it to Amazon, you were making money. When you’re selling into retail it’s different. On Amazon you could just sell commodities in 2014-2015 — literally a towel, you didn’t have to have a brand or anything — but to sell into retail, which is a developed market, I can’t call into Walmart and be like, “Hey, I’m this twenty-six year old kid and I’m going to sell you towels.” They’re like “No, we’re going to buy from branded manufacturers of towels and factories for towels and people who have an established business, some credibility in this industry.” So if we wanted to sell into retail we had to bring innovative products to the table, otherwise there was no incentive for them to take the risk on a young company with a young founder, etc.</p>
+    <p>So I figured out at one point, “Maybe instead of coming up with all of these innovative products, because innovation was really hard, maybe we could find stuff that is already popular in China or Japan or Korea and just bring it to America and re-brand it.” So then what I did is I just went onto Taobao — China’s Amazon — and went through tens of thousands of products. I looked at the top sellers in each category, toys, games, bikes, sporting goods, all that stuff, and anytime I saw a product that was selling really well in China that I had never seen before I put it into a bucket and said, “OK, we’re going to launch this in America.” So that’s what we did and by-and-large was a pretty effective strategy. That’s actually how Brain Flakes was born.</p>
+  </blockquote>
+  <p>Brain Flakes is <a href="https://viahart.com/">Hart’s biggest product</a>, and the biggest driver of that Amazon-dominated sales chart up above. The question I have with regards to that chart, though, and Hart’s griping about Amazon’s fees, is hasn’t Amazon earned the right to charge Hart whatever it deems appropriate? Hart himself admits that his entire business was predicated on Amazon’s marketplace model, a model that enabled individual entrepreneurs with smarts and hustle to build big businesses without a reputation or a brand. To put it another way, Hart’s business is dominated by Amazon <em>because Amazon made his entire business possible</em> (and if these complaints sound familiar, they echo <a href="https://stratechery.com/2020/email-addresses-and-razor-blades/">complaints about Facebook from companies built on Facebook</a>, <a href="https://stratechery.com/2018/the-bill-gates-line/">Yelp’s complaints that they have to acquire customers instead of relying on SEO</a>, or <a href="https://stratechery.com/2014/economic-power-age-abundance/">publishers the world over</a> blaming their commodity status on the same companies that made the market for them in the first place).</p>
+  <p>I am by no means here to pick on Hart or any of the millions of other 3rd-party merchants on Amazon: I salute their entrepreneurial grit. I fail, though, to see what exactly is anticompetitive in this story. What I see, much like the Prime program above, is massive investment by Amazon to create an entire category that dramatically increased the amount of commerce, and it’s unclear to me why they can’t conduct normal business activity to ensure they have competitive prices in that market.</p>
+  <p>That noted, the reason I find this part of the complaint compelling is that I do have unease about the use of enforced price matching and other non-organic means of limiting competition; that, along with acquisitions and digital advertising, was one of the three areas of concern I highlighted in <a href="https://stratechery.com/2019/where-warrens-wrong/">a 2019 Article</a> that explained what antitrust crusaders fail to understand about Aggregators who gain market power not through controlling supply but rather by harnessing demand. The issue, though, <a href="https://stratechery.com/2019/a-framework-for-regulating-competition-on-the-internet/">is that these concerns ought be addressed through new laws</a>; trying to apply antitrust regulations that were created for the analog world in a digital context simply doesn’t make sense, and very likely will, like so many other recent FTC actions, fail in court.</p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2023-10-18</time>
+        <a href="https://nodebe4.github.io/opinion/2023-10-18/China-Chips-and-Moore-s-Law/">
+          China Chips and Moore’s Law
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-09-28</time>
+        <a href="https://nodebe4.github.io/opinion/2023-09-28/AI,-Hardware,-and-Virtual-Reality/">
+          AI, Hardware, and Virtual Reality
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-09-12</time>
+        <a href="https://nodebe4.github.io/opinion/2023-09-12/Charter-Disney-Winners-and-Losers/">
+          Charter-Disney Winners and Losers
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-09-05</time>
+        <a href="https://nodebe4.github.io/opinion/2023-09-05/The-Rise-and-Fall-of-ESPN-s-Leverage/">
+          The Rise and Fall of ESPN’s Leverage
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2023-09-27/%E7%82%BA%E4%BB%80%E9%BA%BC%E8%AA%AA%E4%B8%AD%E5%85%B1%E5%B0%8D%E4%B8%AD%E5%9C%8B%E7%B6%93%E6%BF%9F%E7%9A%84%E7%99%BC%E5%B1%95%E9%9D%9E%E4%BD%86%E6%AF%AB%E7%84%A1%E8%B2%A2%E7%8D%BB%E5%8F%8D%E8%80%8C%E9%82%84%E6%89%AF%E4%BA%86%E5%BE%8C%E8%85%BF/">
+            前一篇：為什麼說中共對中國經濟的發展非但毫無貢獻反而還扯了後腿
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2023-09-27/%E6%84%9B%E5%9C%A8%E5%B7%A6%E5%8F%B3-%E5%BC%93%E9%81%93%E8%87%AA%E5%9C%A8%E4%BA%BA%E5%BF%83/">
+            後一篇：【愛在左右】弓道自在人心
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2023-09-27/%E7%82%BA%E4%BB%80%E9%BA%BC%E8%AA%AA%E4%B8%AD%E5%85%B1%E5%B0%8D%E4%B8%AD%E5%9C%8B%E7%B6%93%E6%BF%9F%E7%9A%84%E7%99%BC%E5%B1%95%E9%9D%9E%E4%BD%86%E6%AF%AB%E7%84%A1%E8%B2%A2%E7%8D%BB%E5%8F%8D%E8%80%8C%E9%82%84%E6%89%AF%E4%BA%86%E5%BE%8C%E8%85%BF/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2023-09-27/%E6%84%9B%E5%9C%A8%E5%B7%A6%E5%8F%B3-%E5%BC%93%E9%81%93%E8%87%AA%E5%9C%A8%E4%BA%BA%E5%BF%83/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2023-09-28/AI,-Hardware,-and-Virtual-Reality/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2023-09-12/Charter-Disney-Winners-and-Losers/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2023-09-27/%E7%82%BA%E4%BB%80%E9%BA%BC%E8%AA%AA%E4%B8%AD%E5%85%B1%E5%B0%8D%E4%B8%AD%E5%9C%8B%E7%B6%93%E6%BF%9F%E7%9A%84%E7%99%BC%E5%B1%95%E9%9D%9E%E4%BD%86%E6%AF%AB%E7%84%A1%E8%B2%A2%E7%8D%BB%E5%8F%8D%E8%80%8C%E9%82%84%E6%89%AF%E4%BA%86%E5%BE%8C%E8%85%BF/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2023-09-27/%E6%84%9B%E5%9C%A8%E5%B7%A6%E5%8F%B3-%E5%BC%93%E9%81%93%E8%87%AA%E5%9C%A8%E4%BA%BA%E5%BF%83/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2023-09-28/AI,-Hardware,-and-Virtual-Reality/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2023-09-12/Charter-Disney-Winners-and-Losers/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

@@ -1,0 +1,963 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>黑客组织“匿名者”重出江湖 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+黑客组织“匿名者”重出江湖
+——
+" />
+    <meta property="og:description" content="
+黑客组织“匿名者”重出江湖
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="黑客组织“匿名者”重出江湖" />
+    <meta property="twitter:title" content="黑客组织“匿名者”重出江湖" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2F2049post.wordpress.com%2F2020%2F08%2F18%2Fv4tech2%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://2049post.wordpress.com/2020/08/18/v4tech2/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://2049post.wordpress.com/2020/08/18/v4tech2/&text=黑客组织“匿名者”重出江湖&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://2049post.wordpress.com/2020/08/18/v4tech2/&title=黑客组织“匿名者”重出江湖" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://2049post.wordpress.com/2020/08/18/v4tech2/&title=黑客组织“匿名者”重出江湖" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=黑客组织“匿名者”重出江湖&body=
+黑客组织“匿名者”重出江湖
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://2049post.wordpress.com/2020/08/18/v4tech2/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://2049post.wordpress.com/2020/08/18/v4tech2/&title=黑客组织“匿名者”重出江湖&caption=
+黑客组织“匿名者”重出江湖
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=黑客组织“匿名者”重出江湖&url=https://2049post.wordpress.com/2020/08/18/v4tech2/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>黑客组织“匿名者”重出江湖</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2020-08-18
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#火光">
+          火光
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://2049post.wordpress.com/2020/08/18/v4tech2/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="火光的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#火光 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1597739129000-->
+<p><a href="https://2049post.wordpress.com/2020/08/18/v4tech2/">黑客组织“匿名者”重出江湖</a>
+——</p>
+
+<div>
+  <p><a href="https://www.theatlantic.com/technology/archive/2020/08/hacker-group-anonymous-returns/615058/" target="_blank" rel="noreferrer noopener">原文链接</a></p>
+  <p><strong>作者</strong>： <a href="https://www.theatlantic.com/author/dale-beran/" target="_blank" rel="noreferrer noopener">Dale Beran</a></p>
+  <p><strong>译者</strong>：CD</p>
+  <figure class="wp-block-image">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Anonymous_Idea.jpg/1200px-Anonymous_Idea.jpg" alt="" />
+  </figure>
+  <p>五月末，当乔治·佛洛伊德（George Floyd）被警暴致死引发的抗议持续发酵时，<a href="https://www.vice.com/en_us/article/wxq5mm/anonymous-minneapolis-george-floyd-protests" target="_blank" rel="noreferrer noopener">有报道宣称</a>，神秘的黑客组织“匿名者”（Anonymous） <a href="https://www.bbc.com/news/technology-52879000" target="_blank" rel="noreferrer noopener">重出江湖</a>.</p>
+  <p>这一传言始于一个<a href="https://www.facebook.com/watch/?v=285581555919237" target="_blank" rel="noreferrer noopener">视频</a>。视频上，一个身穿黑衣、戴着作为匿名者象征的盖伊·福克斯（Guy Fawkes）面具的人，用阴森而失真的声音说：“你们好，美国的公民们。这是匿名者给明尼阿波利斯警察局的消息。”蒙面人谈到了弗洛伊德被杀和普遍的警察行为失当问题，最后说道：“我们将把您的种种罪行揭露给全世界。我们是军团。等着我们。”</p>
+  <p>这段视频重新激起了人们对匿名者的热情，尤其是在年轻人之中。与该组织相关联的推特账号吸引了一大波新追随者，其中几个账号甚至增加了数以百万的粉丝。</p>
+  <p>2012年是匿名者组织的鼎盛时期。其时，参与者包括成千上万名活动家，其中有少数黑客。他们致力于左派自由主义的个人自由理想，反对公司和政府权力的强化。但在一批参与者被逮捕之后，匿名者组织逐渐淡出了人们的视线。</p>
+  <p>而现在，新一代年轻人渴望加入。“怎么报名参加匿名者组织？我就想帮忙打杂，比如给黑客们准备咖啡或者沙丁鱼。”一位英国活动家在推特上开玩笑说。这条推特获得了成千上万的赞和转发。</p>
+  <p>匿名者的铁杆粉丝们在TikTok上发布了混合视频，给神秘人配上闪亮的美甲和珠宝。还有人在聊天软件Discord上创建了虚拟空间，成千上万的粉丝可以在其中以meme和同人小说来宣扬黑客文化。推特上最大的匿名者帐户之一请求人们“停止向我们发送裸照”。</p>
+  <p>视频发布后，发生了一系列黑客事件。5月30日至31日，有人<a href="https://www.vice.com/en_us/article/889nw4/hackers-jammed-chicago-police-scanners-with-internet-classic-chocolate-rain" target="_blank" rel="noreferrer noopener">劫持了芝加哥警情扫描仪的信号</a>，播放N.W.A.的《去他妈的警察》（Fuck tha police）和作为匿名者组织非正式“国歌”的《巧克力雨》（Chocolate Rain，Tay Zonday 2007年的歌曲）两首歌。新闻媒体猜测，这是匿名者干的。而当明尼阿波利斯警察局的网站因DDoS攻击（一种用流量挤垮目标网站的攻击方式）下线时，社交媒体也将其归功于匿名者组织。</p>
+  <p>三周后的六月节，一个自称是匿名者的人公布了美国200多个警察局数百GB的内部档案。这一以#BlueLeaks为标签的黑客行动并没有发现多少警察枉法的信息，但是，它<a href="https://theintercept.com/2020/06/26/blueleaks-minneapolis-police-protest-fears/" target="_blank" rel="noreferrer noopener">透露了</a>在5月和6月的动乱期间，地方和联邦的执法团体是如何向明尼苏达州警察传播夸大其词的错误信息、并积极监视抗议者的社交媒体动态的。</p>
+  <p>我最近出版了一本书，详细介绍了匿名者组织复杂的起源。但直到上个月，我还以为该组织已经消失了。我对它的回归感到惊讶，并想知道它是怎么回归的，又为何回归——从谁制作了那个视频开始。没有花很长时间，我就找到了答案。</p>
+  <p>该视频带有水印，这对匿名者组织而言并不常见。在视频的转发副本中，水印被模糊处理；但原始帖子含有白色的水印：<a href="http://anonews.co" target="_blank" rel="noreferrer noopener">anonews.co</a>。这是一个新闻汇总网站，我通过它找到了网站的Facebook主页，5月28日<a href="https://www.facebook.com/997108126967413/videos/285581555919237" target="_blank" rel="noreferrer noopener">视频的第一版</a>就发布在上面。该主页属于一家名为Midialab Ltd.的英国公司。我给页面列出的电子邮件地址发了信，该公司的所有者当天就给了答复。此人要求匿名，但愿意帮我和该视频的创建者取得联系。</p>
+  <p>本来，我怀疑我会追踪到一个基于俄罗斯的、以促进网络舆论激进化和分裂化为己任的水军大本营。毕竟，5月29日，第一个报道该视频的正是俄罗斯国有媒体RT。还有匿名者推特账号下突然出现的数百万新粉丝？匿名者帐号自己都说，这其中许多都是机器人。</p>
+  <p>收到电子邮件后不到一个小时，我接到了来自离我家不远的马里兰州哈福德郡郊区的一个电话。电话另一端的那个人告诉我，他的名字叫约翰·威伯斯（John Vibes）。“嘿，伙计，”他说，“你很惊讶我是本地人吗？我就是制作那个视频的人。”</p>
+  <p>威伯斯告诉我，他作为一名派对推广员，在过去的十年里于巴尔的摩和费城组织过各种派对和狂欢活动，这使得他接触到了反主流文化思潮，以及政治行动主义思潮。“我写了不少关于警察暴行的东西，于是anonews.co的负责人联系了我。那人是一位英国的技术行业的企业家，他认同匿名者组织的政治观点，并希望为其提供支持。”作为自由撰稿人，威伯斯为anonews.co的新闻站——即其Facebook页面编写和制作视频。“我们主要是报道匿名者可能会感兴趣的新闻——银行系统，腐败，等等。”他说，“每个月几次，我们会挑选一些重要新闻，将其精神汇总到一个视频中。”</p>
+  <p>确实，anonews.co的Facebook页面会定期发布匿名者相关视频，其中许多都是威伯斯制作的。但他并不是最近的爆红视频中对着摄像机说话的面具人。该Facebook页面常常反复使用相同的视频，只是配上不同的语音。</p>
+  <p>威伯斯强调，他并不是黑客，而是为社交网络上和聊天室里的匿名者们发声的“新闻工作者”。创建Facebook页面是为了给相关消息提供一个平台。“显然，我们不是俄罗斯水军。”威伯斯说。</p>
+  <p>不过，与威伯斯的对话并不能让我确定“匿名者”是否真的回归了。五月和六月初的黑客事件被认为与该组织有关，主要是传言。视频也不是由匿名黑客发布的，而是由支持他们理念的活动家发布的。从某种意义上说，威伯斯只是另一位粉丝，做的只是混音工作。这一切，都只是烟雾弹吗？</p>
+  <p>但是，当我在上个月与匿名者组织的现任或前任黑客交谈时，他们都坚称匿名者确实正在重新活跃起来。要了解其中的原因和真正意义，需要先知道“匿名者”的两种不同解读。</p>
+  <p>一方面，匿名者组织是一个去中心化的技术活动家社区。他们组成小组，协作进行项目——他们称之为“行动”。</p>
+  <p>但是，匿名者还有第二个定义。匿名者成员会告诉你，匿名者没有任何成员；它不是一个组织，而是一面旗帜，人们在旗下结集。而且，就像海盗旗一样，任何人都可以将其装上自己的桅杆，以“匿名者”的名义行事。</p>
+  <p>“这是法外正义，”2008年<a href="https://www.vice.com/zh_CN/article/78x9w9/the-video-that-made-anonymous" target="_blank" rel="noreferrer noopener">匿名者反科学神教视频</a>的作者之一，格雷格·霍什（Gregg Housh）这样对我说。匿名者“初衷就是如此。在最初成立时，就是一群网络喷子……人们随心所欲，施行法外正义。它是完全开放的。任何人都可以成为匿名者。”</p>
+  <p>在威伯斯制作的新视频中，“匿名者”代表法律体系外的正义，就像是纠正普通法律程序无法纠正的错误的超级英雄。当常规执法者——警察——似乎已成为了罪恶来源的时候，这种想法十分吸引人。</p>
+  <p>我在“匿名者”的消息来源都告诉我一个事实：人们正涌回聊天室以协调新的“行动”。这就是匿名者组织一直以来的工作方式。视频的流行，激起了一波热情；然后，一个去中心化、无领导者的集体开始讨论该做什么。有时，它会采取表演性质的抗议活动，例如入侵警情扫描仪或暂时关闭某个网站。但也有很多时候，技术水平高超的黑客会窃取和公开内部文件，为某个政治目标提供实质性的支持证据——就像BlueLeaks的案例所示。</p>
+  <p>其实，多年来匿名者的参与群体和运动方向都发生了变化。要追溯匿名者的轨迹，则需要了解整个项目是如何开始的：匿名者，始于一个青少年的玩笑。</p>
+  <p>2000年代中期，奥布里·科特尔（Aubrey Cottle）是网络恶作剧爱好者之一。这些人自称为“巨魔”（trolls），主要在两个无政府状态的论坛活动：Something Awful和4chan。这些论坛上有成千上万的用户——主要是年轻男性；其中有一个铁杆小组，他们在同一个聊天室里闲聊，在网上争斗，并在现实生活中聚会。他们自称匿名者。这一名称源于4chan显示用户名的方式：如果用户未填写名字，默认即显示为“匿名者”。</p>
+  <p>2007年，一名男子出现在科特尔家门口。当时科特尔20岁，仍然和他的母亲一起居住在多伦多。科特尔说（部分得到他的一位朋友的证实），这名男子来自加拿大安全情报局——相当于加拿大的中央情报局。带着满腔好奇，科特尔把他带到自己的房间，里面到处都是硬盘、服务器设备和90年代黑客杂志《2600》的旧刊。</p>
+  <p>“你愿意用自己的能力对抗基地组织和恐怖组织吗？”那位特工问。科特尔的脑海中闪过许多想法：<em>这个家伙是来真的吗？我永远不会为联邦调查局工作。我应该删除电脑中的所有内容吗</em>？但最主要的是，他觉得自己像在诈骗。那个人高估了他。</p>
+  <p>“你想让我帮你袭击网上论坛？”科特尔问。</p>
+  <p>匿名的“巨魔”们喜欢对其他站点进行“袭击”。他们组成“军队”，涌入网络游戏和聊天室中搞破坏。像一个残酷的大哥哥，他们喜欢选择“软柿子”欺负，如年幼的孩子。他们热爱去一个名为“哈勃旅馆”（Habbo Hotel）的儿童游戏捣乱：一群游戏角色排好队站在虚拟泳池前，堵住路不让人过。</p>
+  <p>随着4chan开始打击组织网络袭击的行为，匿名者们迁移到了科特尔的4chan模仿站420chan。他创建此站是为了讨论他的主要兴趣话题：毒品和职业摔角。于是，科特尔成为了匿名者事实上的领导者，他也很喜欢这个角色。科特尔告诉我，正是在这段时间里，他为这个团体订立了一套带有玩笑性质的规则——这些规则后来成了臭名昭著的“互联网规则”。其中包括：3.我们是匿名者；4.匿名者是军团；5.匿名者永远不会原谅。</p>
+  <p>科特尔和他的朋友们也是首先开始使用盖伊·福克斯面具的人。之所以选择它，是因为他们喜欢《V字仇杀队》。这是2005年上映的一部由反乌托邦漫画改编的电影。电影的主人公V掩藏身份，用炸弹烧毁建筑，与未来的法西斯警察国家战斗。电影颠覆了原版盖伊·福克斯的故事——历史上的盖伊·福克斯因为在1605年企图炸毁议会大厦而在英国民间备受诋毁。</p>
+  <p>科特尔告诉加拿大安全情报局，他会考虑他们的提议（后来他拒绝了），然后就回到了他的网络霸凌大业中去。但是在当局访问科特尔后不久，匿名者就上了新闻：洛杉矶的福克斯（Fox）附属公司出了一个<a href="https://www.youtube.com/watch?v=128IR21ZQa0" target="_blank" rel="noreferrer noopener">针对匿名者的短片</a>，称他们为“打了兴奋剂的黑客”。该报道叙述的背景是一辆面包车爆炸的素材镜头，暗示匿名者可能是恐怖组织。</p>
+  <p>这个短片取悦了匿名者。他们进行黑客活动，主要是为了好玩。但现在在媒体——和政府——的眼中，他们成了一个神秘而强大的帮派，而且<em>无所不能</em>。这是人们眼中他们的形象，也是他们可以利用的东西。</p>
+  <p>在2007年的大部分时间，匿名者组织都在骚扰新纳粹电台的主持人哈尔·特纳（Hal Turner）。这并不是因为该组织在此时已政治化，而是因为特纳是一个“软柿子”。每周，匿名者都会打爆他的电话线，把他的网站挤下线，或给他家订购数百个比萨饼。但是，当匿名者完全入侵特纳的私人信息后，发现他竟然是联邦调查局的线人，于是这个乐子只好急刹车。</p>
+  <p>在特纳之后，匿名者需要一个新的目标，于是他们将兴趣转移到了科学神教（the Church of Scientology，或译为“山达基教”）身上，那是黑客们和信息自由活动家们自1990年代以来的宿敌。新一轮“行动”的催化剂是豪什制作的视频：它以福克斯新闻为灵感，暗示“匿名者”是一个强大的国际黑客集团。它以计算机语音宣布：“多年来，我们一直在注视着您；我们是军团。”</p>
+  <p>当视频迅速传播时，人们的热情达到了前所未有的高度。大量匿名者进入了聊天室——这些聊天室曾经是协调网络袭击的地方，这次则用来将人们引导到世界各地主要城市针对科学神教的<a href="https://abcnews.go.com/US/story?id=4513883&amp;page=1" target="_blank" rel="noreferrer noopener">一系列街头抗议活动</a>中去。匿名者指责科学神教用伪科学诈骗其信徒，并非法噤声批评者。我曾报道过的纽约的抗议活动，就有数百人参加，几乎所有人都戴着盖伊·福克斯的面具。</p>
+  <p>对于许多人来说，当他们意识到自己可以影响现实世界的变化时，“巨魔”那种玩世不恭的态度消失了。甚至出乎于匿名者自己意料之外，他们其实已经参与到了一场1980年代以来就愈演愈烈的冲突之中：一边是黑客们想利用互联网赋予个人更多权力；另一边则是政府和公司，想将互联网打造为收集个人数据的圆形监狱。</p>
+  <p>于是，匿名者运动分裂为网络“巨魔”和活动家两个派系。科特尔领导着“巨魔”一方，但他的队伍很快失去了对运动的控制。</p>
+  <p>2010年末是匿名者运动的分水岭。其时，支持朱利安·阿桑奇（Julian Assange）和维基解密（WikiLeaks）的匿名者行动“滚雪球”（Snowballed）演变成了对PayPal和Mastercard的大规模攻击，以抗议这两项服务封锁对WikiLeaks的捐款。媒体关注后，数千名匿名者再次涌入了他们曾经用来讨论怎样入侵电脑游戏的聊天室，只不过这次是讨论如何使大公司网站瘫痪。</p>
+  <p>不久，匿名者就发现，安全公司HBGary Federal、科技监控巨头Palantir、以及私人安全公司Berico Technologies，正计划用尼克松式的<a href="https://www.nytimes.com/2011/02/12/us/politics/12hackers.html" target="_blank" rel="noreferrer noopener">肮脏把戏</a>抹黑WikiLeaks。HBGary公司资料泄漏成了头条新闻，匿名者的名声也水涨船高。</p>
+  <p>参与这次黑客入侵的匿名者们组成了一个分支组织，<a href="https://slate.com/technology/2014/12/anonymous-vs-lulzsec-the-technology-snobs-favorite-hacker-group.html" target="_blank" rel="noreferrer noopener">LulzSec （Lols Security，笑话安全公司）</a>，并开始了一系列高调的黑客活动，专门针对索尼等大型公司和一些政府机构，因为他们感到这些组织在践踏个人自由——或者只是为了证明自己的能力。但在2012年，FBI逮捕了LulzSec成员之一，一名住在纽约市廉租房中的28岁男子赫克托·萨布·蒙塞古尔（Hector “Sabu” Monsegur）。萨布成为了一名警方线人，也是一场精心策划的钓鱼行动的中心人物。该行动导致<a href="https://www.politico.com/story/2012/03/fbi-busts-anonymous-lulzsec-ring-073670" target="_blank" rel="noreferrer noopener">该小组的许多主要参与者被捕</a>。（蒙塞古尔否认他与逮捕行动有关，但他并不否认他是FBI的线人。）</p>
+  <p>匿名者自此一蹶不振。小规模的匿名者小组仍然存在，但这面旗帜背后的能量消散了。</p>
+  <p>在接下来的几年中，匿名者最引人注目的黑客事件是支持2014年密苏里州弗格森市（Ferguson, Missouri）举行的抗议活动。抗议活动的起因是迈克尔·布朗（Michael Brown）被警察枪击死亡。为此，匿名者黑掉了市政府的网络服务器，还公布了警察局长的家庭住址。由于官员不愿透露布朗的死亡细节，匿名者公布了紧急派遣员讨论该事件的录音。但是，匿名者<a href="https://www.newyorker.com/tech/annals-of-technology/anonymous-got-wrong-ferguson" target="_blank" rel="noreferrer noopener">搞错了开枪者的名字</a>，损害了他们的声誉。</p>
+  <p>接着，匿名者组织遭遇了又一打击：极右翼。</p>
+  <p>弗雷德里克·布伦南（Fredrick Brennan）于2006年发现4chan时年仅12岁。我在写《恶之果》一书时曾对他进行采访。说到匿名者们涌入聊天室讨论如何攻击PayPal和Mastercard，弗雷德里克仍能回忆起当时的乐趣和同志情谊。但在余下的青少年时光里，他经济窘迫，换了一个又一个低薪的临时工作。最终，他觉得自己注定要成为一个社会底层，辍学、打光棍。于是，他于2013年创立了4chan的拷贝网站，8chan。该网站广受极右翼极端主义者欢迎，并成了他们的大本营。不过，布伦南设法摆脱了这种他描述为“毒性”的思想：转折点在去年，好几个自称是“法西斯光棍”的枪击案凶手都将8chan引为灵感来源。从那时起，布伦南开始逐步关闭8chan网站（现称为8kun）。</p>
+  <p>极右翼的种子一直潜藏在匿名者文化中。尽管匿名者巨魔军团最初（2007年）是以骚扰新纳粹分子起家的，但他们也会在入侵站点后涂鸦纳粹标志和种族主义言论，以抓人眼球。最终，他们针对的目标——新纳粹分子开始在4chan上招兵买马。</p>
+  <p>到了2016年，匿名者中的黑客活动家们又回到了他们曾经组织活动的场所——与4chan相邻的聊天室和论坛——开始进行后方保卫战。2018年，匿名者对<a href="https://www.theatlantic.com/magazine/archive/2020/06/qanon-nothing-can-stop-what-is-coming/610567/" target="_blank" rel="noreferrer noopener">“QAnon”</a>宣战。QAnon是一个荒谬的极右翼阴谋论（译者注：即认为美国政府内部存在着一个反对美国总统唐纳德·特朗普的“深层政府”），2017年由极右翼喷子在4chan上提出，此后竟一直流传进入了共和党主流话语中。</p>
+  <p>现在，一些匿名者黑客回到了他们曾于2000年代中期“巨魔”时代占领的网络平台上，致力于寻找并驱逐极右翼活动的组织者。</p>
+  <p>这一切对匿名者的未来有什么意义呢？</p>
+  <p>有的匿名者成员改变了行动模式。好几个人告诉我，他们现在低调行事，很少重复那个让许多人锒铛入狱的错误——即大肆宣传自己的所作所为。（但是，BlueLeaks行动并非如此。一位参与此事的黑客自称匿名者，一些匿名者小组也乐于宣称为此行动负责。）他们空前警惕，经常公开质疑他们当中有谁是警察或线人。他们不再通过古老的“互联网中继聊天”（IRC）组织活动，认为它已经不安全，而更喜欢使用更现代的、端到端的加密聊天工具，例如Wire，Gajim或Signal。对于社交媒体，他们几乎只使用推特，因为他们觉得其他公司在保护用户隐私方面做得不够。</p>
+  <p>年龄的增长也带来了节制。“一路走来，我们成长了很多——至少我是这样。”一位经营推特帐户@Anon2World的匿名者活动家告诉我。 “2010到2012年那时候，我们为了表明立场，会去破坏一切能破坏的东西；但现在我们意识到，那些行为可能会在无意中给人们带来负面影响。”</p>
+  <p>许多成员强调，这一次他们希望为“黑人的命也是命”（Black Lives Matter，BLM）的运动提供支持，就像在2014年弗格森市警暴抗议中所做的那样——那次尽管有失误，很多BLM活动家依然很感激匿名者的作为。从长期来看，匿名者大概会常年与我们同在，并在革命性的时刻——在可能促成变化的时刻——遍地开花。</p>
+  <p>不过，还有另一种可能性——匿名者将再次脱胎换骨。<br /></p>
+  <p>匿名者组织始于青少年的聊天室。这些少年们戴上了反法西斯超级英雄的面具，起初是为了取乐；但随着时间的流逝，他们先是学会了优雅地扮演匿名者的角色，之后，这一角色则成了他们的信念。</p>
+  <p>上个月，当新一代青少年们开始在Discord聊天室里讨论如何加入匿名者组织时，匿名者最大的推特帐户给出了一个简单的答案：自己动手。</p>
+  <p>许多新的匿名者铁粉来自TikTok和K-pop（韩国流行音乐）社区。5月底，K-pop粉丝用<a href="https://www.dallasnews.com/arts-entertainment/music/2020/06/01/dallas-police-app-crashes-after-k-pop-fans-flood-it-with-videos/" target="_blank" rel="noreferrer noopener">一段舞蹈视频</a>挤爆了达拉斯警察局的线索举报app。随后，在匿名者推特帐户的鼓动下，他们预定了几十万张<a href="https://www.nytimes.com/2020/06/21/style/tiktok-trump-rally-tulsa.html" target="_blank" rel="noreferrer noopener">特朗普在俄克拉荷马州塔尔萨市举行的政治集会的门票</a>。于是在那次倒霉的集会中，总统发现自己只能对着一大片空椅子讲话。</p>
+  <p>这种模式并不陌生：一群青少年在网上聚在一起，观看同一个媒体，然后意识到他们的人数如此之多，可以进行一些史诗级的恶作剧，或者成为一个政治团体——或者两者兼得。正如匿名者前成员杰克·戴维斯（Jake Davis）在推特上所说：“TikTok/Kpop…这些东西感觉就像是以前4chan入侵/袭击的网红版…等着吧，福克斯新闻肯定会再制作一个吓唬人的视频，称他们是打了兴奋剂的黑客 。”</p>
+  <p>在《V字仇杀队》里，2020年的一场瘟疫直接导致了法西斯独裁统治。最后，人人都戴上了盖伊·福克斯面具，去推翻独裁政权。</p>
+  <p>至少，这是电影版本的结尾。</p>
+  <p>如果说现实世界与屏幕另一端的虚拟世界之间曾经还有些区别，现在，这些区别似乎早已消失。</p>
+  <hr class="wp-block-separator" />
+  <p><a rel="noreferrer noopener" href="https://www.theatlantic.com/author/dale-beran/" target="_blank">Dale Beran</a>是美国巴尔的摩（Baltimore）作家。他的作品包括 <a rel="noreferrer noopener" href="https://www.amazon.com/dp/B07J4QMX6C/ref=dp-kindle-redirect?_encoding=UTF8&amp;btkr=1" target="_blank">《恶之果：恶毒的网络巨魔们是如何意外地用meme帮助唐纳德·特朗普当选的》</a>。</p>
+  <nav class="wp-block-navigation">
+    <ul class="wp-block-navigation__container">
+      <li class="wp-block-navigation-link"><a class="wp-block-navigation-link__content" href="https://2049post.wordpress.com/v4index/"><span class="wp-block-navigation-link__label">返回第四期目录</span></a></li>
+    </ul>
+  </nav>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#火光 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2020-12-31/%E7%AB%AF%E7%82%B9%E6%98%9F%E6%A1%88%E6%B6%88%E6%81%AF%E6%B1%87%E6%80%BB/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2020-07-24/%E5%85%AC%E6%B0%91%E5%AE%9E%E9%AA%8C%E5%AE%A4-%E5%BE%AE%E4%BF%A1%E7%9B%91%E6%8E%A7%E8%AF%A0%E9%87%8A/">最早</a>--</span>
+    
+      <li>
+        <time>2020-08-18</time>
+        <a href="https://nodebe4.github.io/opinion/2020-08-18/%E5%BC%A0%E9%B8%A3%E8%AE%BA%E4%B8%AD%E5%9B%BD%E4%BC%A0%E7%BB%9F%E6%94%BF%E6%B2%BB/">
+          张鸣论中国传统政治
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-08-18</time>
+        <a href="https://nodebe4.github.io/opinion/2020-08-18/%E6%97%A0%E5%9B%BD%E7%95%8C%E8%AE%B0%E8%80%85%E6%95%B0%E5%AD%97%E6%9C%8D%E5%8A%A1%E7%AB%99-%E4%B8%80-%E7%BD%91%E7%BB%9C%E5%8C%BF%E5%90%8D%E5%85%A5%E9%97%A8-%E6%80%8E%E6%A0%B7%E9%9A%90%E8%97%8F%E4%BD%A0%E7%9A%84%E8%BA%AB%E4%BB%BD/">
+          无国界记者数字服务站（一）：网络匿名入门——怎样隐藏你的身份
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-08-18</time>
+        <a href="https://nodebe4.github.io/opinion/2020-08-18/%E6%91%86%E8%84%B1%E8%BF%BD%E8%B8%AA%E8%80%85-%E6%82%A8%E7%9A%84%E8%A1%8C%E5%8A%A8%E5%BF%85%E9%A1%BB%E6%98%AF%E5%8C%BF%E5%90%8D%E7%9A%84-%E5%90%A6%E5%88%99%E6%B2%A1%E6%9C%89%E5%8F%AF%E6%8C%81%E7%BB%AD%E6%80%A7/">
+          摆脱追踪者：您的行动必须是匿名的，否则没有可持续性
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-08-18</time>
+        <a href="https://nodebe4.github.io/opinion/2020-08-18/%E5%96%9C%E6%8A%A5-%E8%8B%8F%E8%81%94%E7%AC%91%E8%AF%9D%E5%B7%B2%E7%BB%8F%E8%BF%87%E6%97%B6-%E6%96%B0%E8%8B%8F%E8%81%94%E7%AC%91%E8%AF%9D%E5%AE%9E%E7%8E%B0%E5%85%A8%E9%9D%A2%E8%87%AA%E8%B6%B3/">
+          喜报：苏联笑话已经过时，新苏联笑话实现全面自足！
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2020-08-18/%E6%91%86%E8%84%B1%E8%BF%BD%E8%B8%AA%E8%80%85-%E6%82%A8%E7%9A%84%E8%A1%8C%E5%8A%A8%E5%BF%85%E9%A1%BB%E6%98%AF%E5%8C%BF%E5%90%8D%E7%9A%84-%E5%90%A6%E5%88%99%E6%B2%A1%E6%9C%89%E5%8F%AF%E6%8C%81%E7%BB%AD%E6%80%A7/">
+            前一篇：摆脱追踪者：您的行动必须是匿名的，否则没有可持续性
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2020-08-18/%E6%97%A0%E5%9B%BD%E7%95%8C%E8%AE%B0%E8%80%85%E6%95%B0%E5%AD%97%E6%9C%8D%E5%8A%A1%E7%AB%99-%E4%B8%80-%E7%BD%91%E7%BB%9C%E5%8C%BF%E5%90%8D%E5%85%A5%E9%97%A8-%E6%80%8E%E6%A0%B7%E9%9A%90%E8%97%8F%E4%BD%A0%E7%9A%84%E8%BA%AB%E4%BB%BD/">
+            後一篇：无国界记者数字服务站（一）：网络匿名入门——怎样隐藏你的身份
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2020-08-18/%E6%91%86%E8%84%B1%E8%BF%BD%E8%B8%AA%E8%80%85-%E6%82%A8%E7%9A%84%E8%A1%8C%E5%8A%A8%E5%BF%85%E9%A1%BB%E6%98%AF%E5%8C%BF%E5%90%8D%E7%9A%84-%E5%90%A6%E5%88%99%E6%B2%A1%E6%9C%89%E5%8F%AF%E6%8C%81%E7%BB%AD%E6%80%A7/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2020-08-18/%E6%97%A0%E5%9B%BD%E7%95%8C%E8%AE%B0%E8%80%85%E6%95%B0%E5%AD%97%E6%9C%8D%E5%8A%A1%E7%AB%99-%E4%B8%80-%E7%BD%91%E7%BB%9C%E5%8C%BF%E5%90%8D%E5%85%A5%E9%97%A8-%E6%80%8E%E6%A0%B7%E9%9A%90%E8%97%8F%E4%BD%A0%E7%9A%84%E8%BA%AB%E4%BB%BD/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2020-08-18/%E6%97%A0%E5%9B%BD%E7%95%8C%E8%AE%B0%E8%80%85%E6%95%B0%E5%AD%97%E6%9C%8D%E5%8A%A1%E7%AB%99-%E4%B8%80-%E7%BD%91%E7%BB%9C%E5%8C%BF%E5%90%8D%E5%85%A5%E9%97%A8-%E6%80%8E%E6%A0%B7%E9%9A%90%E8%97%8F%E4%BD%A0%E7%9A%84%E8%BA%AB%E4%BB%BD/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2020-08-18/%E6%91%86%E8%84%B1%E8%BF%BD%E8%B8%AA%E8%80%85-%E6%82%A8%E7%9A%84%E8%A1%8C%E5%8A%A8%E5%BF%85%E9%A1%BB%E6%98%AF%E5%8C%BF%E5%90%8D%E7%9A%84-%E5%90%A6%E5%88%99%E6%B2%A1%E6%9C%89%E5%8F%AF%E6%8C%81%E7%BB%AD%E6%80%A7/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2020-08-18/%E6%91%86%E8%84%B1%E8%BF%BD%E8%B8%AA%E8%80%85-%E6%82%A8%E7%9A%84%E8%A1%8C%E5%8A%A8%E5%BF%85%E9%A1%BB%E6%98%AF%E5%8C%BF%E5%90%8D%E7%9A%84-%E5%90%A6%E5%88%99%E6%B2%A1%E6%9C%89%E5%8F%AF%E6%8C%81%E7%BB%AD%E6%80%A7/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2020-08-18/%E6%97%A0%E5%9B%BD%E7%95%8C%E8%AE%B0%E8%80%85%E6%95%B0%E5%AD%97%E6%9C%8D%E5%8A%A1%E7%AB%99-%E4%B8%80-%E7%BD%91%E7%BB%9C%E5%8C%BF%E5%90%8D%E5%85%A5%E9%97%A8-%E6%80%8E%E6%A0%B7%E9%9A%90%E8%97%8F%E4%BD%A0%E7%9A%84%E8%BA%AB%E4%BB%BD/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<火光>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2020-08-18/%E6%97%A0%E5%9B%BD%E7%95%8C%E8%AE%B0%E8%80%85%E6%95%B0%E5%AD%97%E6%9C%8D%E5%8A%A1%E7%AB%99-%E4%B8%80-%E7%BD%91%E7%BB%9C%E5%8C%BF%E5%90%8D%E5%85%A5%E9%97%A8-%E6%80%8E%E6%A0%B7%E9%9A%90%E8%97%8F%E4%BD%A0%E7%9A%84%E8%BA%AB%E4%BB%BD/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<火光>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2020-08-18/%E6%91%86%E8%84%B1%E8%BF%BD%E8%B8%AA%E8%80%85-%E6%82%A8%E7%9A%84%E8%A1%8C%E5%8A%A8%E5%BF%85%E9%A1%BB%E6%98%AF%E5%8C%BF%E5%90%8D%E7%9A%84-%E5%90%A6%E5%88%99%E6%B2%A1%E6%9C%89%E5%8F%AF%E6%8C%81%E7%BB%AD%E6%80%A7/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

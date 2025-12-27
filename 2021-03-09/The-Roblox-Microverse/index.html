@@ -1,0 +1,3021 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>The Roblox Microverse – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+The Roblox Microverse
+——
+" />
+    <meta property="og:description" content="
+The Roblox Microverse
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="The Roblox Microverse" />
+    <meta property="twitter:title" content="The Roblox Microverse" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2021%2Fthe-roblox-microverse%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2021/the-roblox-microverse/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2021/the-roblox-microverse/&text=The Roblox Microverse&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2021/the-roblox-microverse/&title=The Roblox Microverse" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2021/the-roblox-microverse/&title=The Roblox Microverse" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=The Roblox Microverse&body=
+The Roblox Microverse
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2021/the-roblox-microverse/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2021/the-roblox-microverse/&title=The Roblox Microverse&caption=
+The Roblox Microverse
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=The Roblox Microverse&url=https://stratechery.com/2021/the-roblox-microverse/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>The Roblox Microverse</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2021-03-09
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2021/the-roblox-microverse/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1615306117000-->
+<p><a href="https://stratechery.com/2021/the-roblox-microverse/">The Roblox Microverse</a>
+——</p>
+
+<div>
+  <div class="podcastlinks">
+<a href="https://stratechery.com/podcasts/">Manage your Stratechery subscription.</a>
+  </div>
+  <p>The degree to which Stratechery Weekly Articles are pre-planned varies; Eddy on Twitter, though, had this article pegged:</p>
+  <div align="center">
+    <blockquote class="twitter-tweet" data-dnt="true">
+      <p lang="en" dir="ltr">yeah or Roblox</p>
+      <p>— Ben Thompson (@benthompson) <a href="https://twitter.com/benthompson/status/1362047936079687684?ref_src=twsrc%5Etfw">February 17, 2021</a></p>
+    </blockquote>
+    <p>      <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+&lt;/div&gt;      <p>Tomorrow, after a number of delays, including switching from an IPO to a Direct Listing, is finally the day that <a href="https://www.wsj.com/articles/robloxs-builderman-ceo-heads-to-wall-street-with-an-army-of-young-game-creators-11614421800?mod=djemalertNEWS">Roblox goes public</a>; it’s a company I can’t wait to write about.</p>
+      <h4 id="the-evolution-of-video-games">The Evolution of Video Games</h4>
+      <p>The article Eddy was replying to was <a href="https://stratechery.com/2021/clubhouses-inevitability/">Clubhouse’s Inevitability</a>, particularly this chart:</p>
+      <blockquote>
+        <p>The most obvious difference between Clubhouse and podcasts is how much dramatically easier it is to both create a conversation and to listen to one. This step change is very much inline with the shift from blogging to Twitter, from website publishing to Instagram, or from YouTube to TikTok.</p>
+        <p><a href="https://stratechery.com/2021/clubhouses-inevitability/"><img loading="lazy" src="https://stratechery.com/wp-content/uploads/2021/02/WAclubhouse-9-1024x767.png" alt="A drawing of Clubhouse&#039;s Similarity to Twitter, Instagram, and TikTok" width="640" height="479" class="size-large wp-image-5598" srcset="https://stratechery.com/wp-content/uploads/2021/02/WAclubhouse-9-1024x767.png 1024w, https://stratechery.com/wp-content/uploads/2021/02/WAclubhouse-9-300x225.png 300w, https://stratechery.com/wp-content/uploads/2021/02/WAclubhouse-9-768x575.png 768w, https://stratechery.com/wp-content/uploads/2021/02/WAclubhouse-9-841x630.png 841w, https://stratechery.com/wp-content/uploads/2021/02/WAclubhouse-9.png 1280w" sizes="(max-width: 640px) 100vw, 640px" /></a></p>
+        <p>Secondly, like those successful networks, Clubhouse centralizes creation and consumption into a tight feedback loop. In fact, conversation consumers can, by raising their hand and being recognized by the moderator, become creators in a matter of seconds.</p>
+      </blockquote>
+      <p>Compare this to how Roblox describes their business in their <a href="https://www.sec.gov/Archives/edgar/data/1315098/000119312520298230/d87104ds1.htm">S-1</a>:</p>
+      <blockquote>
+        <p>An average of 36.2 million people from around the world come to Roblox every day to connect with friends. Together they play, learn, communicate, explore, and expand their friendships, all in 3D digital worlds that are entirely user-generated, built by our community of nearly 7 million active developers. We call this emerging category “human co-experience,” which we consider to be the new form of social interaction we envisioned back in 2004. Our platform is powered by user-generated content and draws inspiration from gaming, entertainment, social media, and even toys.</p>
+      </blockquote>
+      <p>Here’s the question, though: with regard to Eddy’s question, how might you fit video games onto this evolution of media framework? You could start with analog games, progress to video games, and then to casual games, as Eddy suggested, but it’s worth noting that video games preceded the web by many years; I think it makes more sense to make traditional video games the base unit. More importantly, that graphic was about <em>creation</em>, not consumption, and in that regard, video games fit quite nicely:</p>
+      <ul>
+        <li><strong>Step 0 — Pre-Internet:</strong> The primary way to distribute video games was on consoles, which were controlled by the console makers; computer gaming was more open, but still required significant distribution capabilities. This was the newspaper era of video game publishing.&lt;/p&gt;</li>
+        <li>
+          <p><strong>Step 1 — Democratization:</strong> The Internet made it possible to distribute games directly, meaning that anyone could be a publisher; over time the increase in broadband penetration made casual cloud-gaming (originally via Flash and later on Facebook) much more accessible.</p>
+        </li>
+        <li>
+          <p><strong>Step 2 — Aggregation:</strong> Mobile dramatically increased the market for video games by ensuring nearly everyone had a video game device in their pockets. Note that this increased the market in two ways: first, there were more potential players, and two, all potential players had more opportunities to play games. Mobile, though, meant App Stores. This was a boon in that it made it easy to distribute video games in a way that customers were willing to trust and experiment with, and built-in payments unlocked entirely new ways of making money. It also meant that App Stores were the only way to reach customers, and you had to pay 30% for the privilege (these advantages and disadvantages are, of course, the exact same).</p>
+        </li>
+        <li>
+          <p><strong>Step 3 — Transformation:</strong> This step is when the medium in question becomes something fundamentally different because of the Internet. I explained in <em>Clubhouse’s Inevitability</em>:</p>
+        </li>
+      </ul>
+      <blockquote>
+        <p>Even with the explosion of content resulting from democratizing publishing, what was actually published was roughly analogous to what might have been published in the pre-Internet world. A blog post was just an article; an Instagram post was just a photo; a YouTube video was just a TV episode; a podcast was just radio show. The final step was transformation: creating something entirely new that was simply not possible previously.</p>
+      </blockquote>
+      <p>Along those lines, a lot of video games, particularly mobile games, are just mobile versions of what has been available for decades; at the same time, video games have incorporated a lot of things that are only possible on the Internet. Multi-player games have been widespread for over twenty years, and the entire concept of in-app purchases has transformed business models. Both are uniquely enabled by the Internet. Even with that caveat, though, Roblox is something entirely new.</p>
+      <h4 id="the-metaverse">The Metaverse</h4>
+      <p>Back to the Roblox S-1:</p>
+      <blockquote>
+        <p>Some refer to our category as the metaverse, a term often used to describe the concept of persistent, shared, 3D virtual spaces in a virtual universe. The idea of a metaverse has been written about by futurists and science fiction authors for over 30 years. With the advent of increasingly powerful consumer computing devices, cloud computing, and high bandwidth internet connections, the concept of the metaverse is materializing.</p>
+      </blockquote>
+      <p>The term “Metaverse” was coined by Neil Stephensen in his seminal 1992 science fiction novel <a href="https://www.penguinrandomhouse.com/books/172832/snow-crash-by-neal-stephenson/">Snow Crash</a>:</p>
+      <blockquote>
+        <p>Like any place in Reality, the Street is subject to development. Developers can build their own small streets feeding off of the main one. They can build buildings, parks, signs, as well as things that do not exist in Reality, such as vast hovering overhead light shows, special neighborhoods where the rules of three-dimensional spacetime are ignored, and free-combat zones where people can go to hunt and kill each other.</p>
+        <p>The only difference is that since the Street does not really exist — it’s just a computer-graphics protocol written down on a piece of paper somewhere — none of these things is being physically built. They are, rather, pieces of software, made available to the public over the worldwide fiber-optics network. When Hiro goes into the Metaverse and looks down the Street and sees buildings and electric signs stretching off into the darkness, disappearing over the curve of the globe, he is actually staring at the graphic representations — the user interfaces — of a myriad different pieces of software that have been engineered by major corporations.</p>
+      </blockquote>
+      <p>The Roblox is but one company — more on this in a moment — but the way in which it describes its platform certainly approaches Stephenson’s vision:</p>
+      <blockquote>
+        <p>The Roblox Platform has a number of key characteristics:</p>
+        <ul>
+          <li><strong>Identity:</strong> All users have unique identities in the form of avatars that allow them to express themselves as whoever or whatever they want to be. These avatars are portable across experiences.</li>
+          <li><strong>Friends:</strong> Users interact with friends, some of whom they know in the real world and others who they meet on Roblox.</li>
+          <li><strong>Immersive:</strong> The experiences on Roblox are 3D and immersive. As we continue to improve the Roblox Platform, these experiences will become increasingly engaging and indistinguishable from the real world.</li>
+          <li><strong>Anywhere:</strong> Users, developers and creators on Roblox are from all over the world. Further, the Roblox Client operates on iOS, Android, PC, Mac, and Xbox, and supports VR experiences on PC using Oculus Rift, HTC Vive and Valve Index headsets.</li>
+          <li><strong>Low Friction:</strong> It is simple to set up an account on Roblox, and free for users to enjoy experiences on the platform. Users can quickly traverse between and within experiences either on their own or with their friends. It is also easy for developers to build experiences and then publish them to the Roblox Cloud so that they are then accessible to users on the Roblox Client across all platforms.</li>
+          <li><strong>Variety of Content:</strong> Roblox is a vast and expanding universe of developer and creator-built content. As of September 30, 2020, there were over 18 million experiences on Roblox, and in the twelve months ended September 30, 2020, over 12 million of these were experienced by our community. There are also millions of creator-built virtual items with which users can personalize their avatars.</li>
+          <li><strong>Economy:</strong> Roblox has a vibrant economy built on a currency called Robux. Users who choose to purchase Robux can spend the currency on experiences and on items for their avatar. Developers and creators earn Robux by building engaging experiences and compelling items that users want to purchase. Roblox enables developers and creators to convert Robux back into real-world currency.</li>
+          <li><strong>Safety:</strong> Multiple systems are integrated into the Roblox Platform to promote civility and ensure the safety of our users. These systems are designed to enforce real-world laws, and are designed to extend beyond minimum regulatory requirements.</li>
+        </ul>
+        <p>Growth at Roblox has been driven primarily by a significant investment in technology and two mutually reinforcing network effects: content and social.</p>
+      </blockquote>
+      <p>In short, Roblox isn’t a game at all: it is world in which one of the things you can do is play games, with a persistent identity, persistent set of friends, persistent money, all disconnected from the device that you use to access the world. <em>That</em> is the transformational change.</p>
+      <p>Think about all the previous evolutions of gaming:</p>
+      <ul>
+        <li>Video games required a console, PC, or phone</li>
+        <li>Networked games connected your console or computer or phone to another console or computer or phone</li>
+        <li>In-app purchases transformed the business model of games by leveraging the payment system provided by the console, PC, or phone</li>
+      </ul>
+      <p>It should be pointed out that while consoles and phones have fairly similar models, the open nature of the PC left room for Steam to capture the distribution and payment functionality; still, the device was the center of your gaming experience, and most games were silos. Some games have sought to break these walls down; Fortnite has been particularly aggressive in enabling cross-platform play.</p>
+      <p>Roblox, though, isn’t simply the same game everywhere, it’s the same persistent world everywhere, from PC to console (Xbox, not PlayStation) to smartphone, in which games happen to exist. It’s a metaverse…kind of.</p>
+      <h4 id="the-microverse">The Microverse</h4>
+      <p>The problem with invoking the “Metaverse” in the context of Roblox is that the traditional conception was a virtual world that rivaled the real world; anyone could plug into it from anywhere, with full interoperability. Roblox, though, is only Roblox.</p>
+      <p>That’s actually a benefit: by controlling everything Roblox can bring all of the disparate parts of gaming into one place; instead of one app for social interactions, another app for purchases, and a different app for every different game, everything is all in the same place. This also makes Roblox easier to develop for: by constraining graphics to a consistent toolbox it is very easy to build something new.</p>
+      <p><img loading="lazy" src="https://stratechery.com/wp-content/uploads/2021/03/roblox-2-695x1024.png" alt="Three Roblox games" width="640" height="943" class="aligncenter size-large wp-image-5661" srcset="https://stratechery.com/wp-content/uploads/2021/03/roblox-2-695x1024.png 695w, https://stratechery.com/wp-content/uploads/2021/03/roblox-2-204x300.png 204w, https://stratechery.com/wp-content/uploads/2021/03/roblox-2-768x1132.png 768w, https://stratechery.com/wp-content/uploads/2021/03/roblox-2-1042x1536.png 1042w, https://stratechery.com/wp-content/uploads/2021/03/roblox-2-428x630.png 428w, https://stratechery.com/wp-content/uploads/2021/03/roblox-2.png 1280w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+      <p>This creates the conditions for the interlocking feedback loops that characterize transformational products; by reducing the prominence and feature set of games, Roblox made it possible to create something bigger. A microverse.</p>
+      <p>This actually fits the patterns of other transformational products. The feed, for instance, relies on reducing all types of content, from posts to photos to links, to the same format, such that they can all be incorporated into a greater whole. It’s a reason why I think that Clubhouse being all audio actually gives it an advantage relative to Twitter: that leaves more room for user entrepreneurship, both in the kinds of rooms created and also norms around behavior (Twitter realized the same benefits relative to blogs with its 140-character constraint). Similarly, Roblox games aren’t really competitive with non-Roblox games: they’re “worse” in any sort of traditional sense, because the things that make them “better” are the parts that are enabled by imposing constraints.</p>
+      <h4 id="roblox-and-the-app-store">Roblox and the App Store</h4>
+      <p>That leads to perhaps the most surprising thing about Roblox:</p>
+      <p><img loading="lazy" src="https://stratechery.com/wp-content/uploads/2021/03/roblox-1-1024x734.png" alt="The Roblox &quot;App Store&quot;" width="640" height="459" class="aligncenter size-large wp-image-5660" srcset="https://stratechery.com/wp-content/uploads/2021/03/roblox-1-1024x734.png 1024w, https://stratechery.com/wp-content/uploads/2021/03/roblox-1-300x215.png 300w, https://stratechery.com/wp-content/uploads/2021/03/roblox-1-768x551.png 768w, https://stratechery.com/wp-content/uploads/2021/03/roblox-1-878x630.png 878w, https://stratechery.com/wp-content/uploads/2021/03/roblox-1.png 1280w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+      <p>That’s the screen you see when you launch the app, and I have to say, it looks an awful lot like an App Store! That’s a problem because Apple states in its <a href="https://developer.apple.com/app-store/review/guidelines/">App Store Guidelines</a> that “Creating an interface for displaying third-party apps, extensions, or plug-ins similar to the App Store or as a general-interest collection” is “unacceptable”.</p>
+      <p>On one hand, perhaps Roblox is fine because these are not 3rd-party App Store apps, unlike, say, <a href="https://www.nytimes.com/2020/06/18/technology/apple-ios-facebook-gaming-app.html">the rejected Facebook Gaming app</a>. But then again, Xbox Game Pass wants to launch 3rd-party games that run in the cloud, not on the iPhone at all, and Apple <a href="https://stratechery.com/2020/samsung-and-google-samsung-and-microsoft-xbox-game-pass-and-ios/">also said no</a>. I guess it is enough that these are, without question, Roblox games. They are <em>sui generis</em>.</p>
+      <p>Of course Apple (and Google) is still taking its share; Roblox has to pay 30% on every purchase of Robux, its in-game currency, as will every other would-be platform on top of their platform (like Clubhouse or Twitter). I very much hope, though, that Apple will be content with that: the reality is that Roblox apps really are something different, simpler in isolation than any one iOS app, yet something new and innovative as a collective. It’s a perfect example of the opportunity I wrote about in 2020’s <a href="https://stratechery.com/2020/the-end-of-the-beginning/">The End of the Beginning</a>:</p>
+      <blockquote>
+        <p>The implication of this view should at this point be obvious, even if it feels a tad bit heretical: there may not be a significant paradigm shift on the horizon, nor the associated generational change that goes with it. And, to the extent there are evolutions, it really does seem like the incumbents have insurmountable advantages: the hyperscalers in the cloud are best placed to handle the torrent of data from the Internet of Things, while new I/O devices like augmented reality, wearables, or voice are natural extensions of the phone.</p>
+        <p>In other words, today’s cloud and mobile companies — Amazon, Microsoft, Apple, and Google — may very well be the GM, Ford, and Chrysler of the 21st century. The beginning era of technology, where new challengers were started every year, has come to an end; however, that does not mean the impact of technology is somehow diminished: it in fact means the impact is only getting started.</p>
+        <p>Indeed, this is exactly what we see in consumer startups in particular: few companies are pure “tech” companies seeking to disrupt the dominant cloud and mobile players; rather, they take their presence as an assumption, and seek to transform society in ways that were previously impossible when computing was a destination, not a given. That is exactly what happened with the automobile: its existence stopped being interesting in its own right, while the implications of its existence changed everything.</p>
+      </blockquote>
+      <p>Roblox is the exact sort of platform that is only possible when you accept the reality that the platforms on which it rests aren’t going anywhere. The responsibility of those foundational platforms is to give room to let these microverses flourish, without legislating or taxing them to death.</p>
+ &lt;/div&gt;</p>
+  </div>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2021-03-22</time>
+        <a href="https://nodebe4.github.io/opinion/2021-03-22/Sovereign-Writers-and-Substack/">
+          Sovereign Writers and Substack
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-03-16</time>
+        <a href="https://nodebe4.github.io/opinion/2021-03-16/Moderation-in-Infrastructure/">
+          Moderation in Infrastructure
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-03-02</time>
+        <a href="https://nodebe4.github.io/opinion/2021-03-02/The-Web-s-Missing-Interoperability/">
+          The Web’s Missing Interoperability
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-02-15</time>
+        <a href="https://nodebe4.github.io/opinion/2021-02-15/Clubhouse-s-Inevitability/">
+          Clubhouse’s Inevitability
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2021-03-09/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%93%88%E8%B4%9D%E9%A9%AC%E6%96%AF%E6%B6%88%E5%A4%B1%E4%BA%86/">
+            前一篇：为什么哈贝马斯消失了？
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2021-03-09/%E6%9D%8E%E8%82%85%E6%8C%91%E6%88%B0%E5%91%A8%E5%AD%9D%E6%AD%A3-%E8%B5%B0%E5%90%91%E7%A0%B4%E6%BB%85%E7%9A%84%E7%A4%BE%E6%9C%83%E4%B8%BB%E7%BE%A9%E5%A4%A9%E5%A0%82%E5%A4%A2/">
+            後一篇：李肅挑戰周孝正：走向破滅的社會主義天堂夢
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2021-03-09/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%93%88%E8%B4%9D%E9%A9%AC%E6%96%AF%E6%B6%88%E5%A4%B1%E4%BA%86/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2021-03-09/%E6%9D%8E%E8%82%85%E6%8C%91%E6%88%B0%E5%91%A8%E5%AD%9D%E6%AD%A3-%E8%B5%B0%E5%90%91%E7%A0%B4%E6%BB%85%E7%9A%84%E7%A4%BE%E6%9C%83%E4%B8%BB%E7%BE%A9%E5%A4%A9%E5%A0%82%E5%A4%A2/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2021-03-16/Moderation-in-Infrastructure/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2021-03-02/The-Web-s-Missing-Interoperability/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2021-03-09/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%93%88%E8%B4%9D%E9%A9%AC%E6%96%AF%E6%B6%88%E5%A4%B1%E4%BA%86/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2021-03-09/%E6%9D%8E%E8%82%85%E6%8C%91%E6%88%B0%E5%91%A8%E5%AD%9D%E6%AD%A3-%E8%B5%B0%E5%90%91%E7%A0%B4%E6%BB%85%E7%9A%84%E7%A4%BE%E6%9C%83%E4%B8%BB%E7%BE%A9%E5%A4%A9%E5%A0%82%E5%A4%A2/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2021-03-16/Moderation-in-Infrastructure/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2021-03-02/The-Web-s-Missing-Interoperability/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

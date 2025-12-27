@@ -1,0 +1,2678 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>theoryofdoom在2022-03-14~2022-03-20的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="theoryofdoom在2022-03-14~2022-03-20的言论" />
+    <meta property="twitter:title" content="theoryofdoom在2022-03-14~2022-03-20的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2Fgeopolitics%2Fcomments%2Ftdnqkh%2Frussia_seeks_military_equipment_and_aid_from%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/geopolitics/comments/tdnqkh/russia_seeks_military_equipment_and_aid_from/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/geopolitics/comments/tdnqkh/russia_seeks_military_equipment_and_aid_from/&text=theoryofdoom在2022-03-14~2022-03-20的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/geopolitics/comments/tdnqkh/russia_seeks_military_equipment_and_aid_from/&title=theoryofdoom在2022-03-14~2022-03-20的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/geopolitics/comments/tdnqkh/russia_seeks_military_equipment_and_aid_from/&title=theoryofdoom在2022-03-14~2022-03-20的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=theoryofdoom在2022-03-14~2022-03-20的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/geopolitics/comments/tdnqkh/russia_seeks_military_equipment_and_aid_from/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/geopolitics/comments/tdnqkh/russia_seeks_military_equipment_and_aid_from/&title=theoryofdoom在2022-03-14~2022-03-20的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=theoryofdoom在2022-03-14~2022-03-20的言论&url=https://old.reddit.com/r/geopolitics/comments/tdnqkh/russia_seeks_military_equipment_and_aid_from/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>theoryofdoom在2022-03-14~2022-03-20的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-03-20
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: theoryofdoom</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/geopolitics/comments/tdnqkh/russia_seeks_military_equipment_and_aid_from/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#174-russia-seeks-military-equipment-and-aid-from-china-us-officials-say-submitted-on-2022-03-14-1111120800" id="markdown-toc-174-russia-seeks-military-equipment-and-aid-from-china-us-officials-say-submitted-on-2022-03-14-1111120800">174: Russia seeks military equipment and aid from China, U.S. officials say, submitted on 2022-03-14 11:11:12+08:00.</a></li>
+  <li><a href="#175-a-new-world-energy-order-is-emerging-from-putins-war-on-ukraine-submitted-on-2022-03-14-1953450800" id="markdown-toc-175-a-new-world-energy-order-is-emerging-from-putins-war-on-ukraine-submitted-on-2022-03-14-1953450800">175: A New World Energy Order Is Emerging From Putin’s War on Ukraine, submitted on 2022-03-14 19:53:45+08:00.</a></li>
+  <li><a href="#176-the-return-of-pax-americana-putins-war-is-fortifying-the-democratic-alliance-submitted-on-2022-03-14-2124110800" id="markdown-toc-176-the-return-of-pax-americana-putins-war-is-fortifying-the-democratic-alliance-submitted-on-2022-03-14-2124110800">176: The Return of Pax Americana?: Putin’s War Is Fortifying the Democratic Alliance, submitted on 2022-03-14 21:24:11+08:00.</a></li>
+  <li><a href="#177-rifts-in-global-systems-following-the-ukraine-war-submitted-on-2022-03-15-0056420800" id="markdown-toc-177-rifts-in-global-systems-following-the-ukraine-war-submitted-on-2022-03-15-0056420800">177: Rifts in global systems following the Ukraine war, submitted on 2022-03-15 00:56:42+08:00.</a></li>
+  <li><a href="#178-unofficial-daily-update-for-2022-03-14-697-new-cases-submitted-on-2022-03-15-0105040800" id="markdown-toc-178-unofficial-daily-update-for-2022-03-14-697-new-cases-submitted-on-2022-03-15-0105040800">178: Unofficial Daily Update for 2022-03-14. 697 New Cases., submitted on 2022-03-15 01:05:04+08:00.</a></li>
+  <li><a href="#179-russia-to-pay-off-foreign-debt-in-chinese-yuan-official-submitted-on-2022-03-15-0510100800" id="markdown-toc-179-russia-to-pay-off-foreign-debt-in-chinese-yuan-official-submitted-on-2022-03-15-0510100800">179: Russia to pay off foreign debt in Chinese yuan: Official, submitted on 2022-03-15 05:10:10+08:00.</a></li>
+  <li><a href="#180-the-economic-fallout-of-the-ukraine-war-in-the-middle-east-submitted-on-2022-03-16-0246420800" id="markdown-toc-180-the-economic-fallout-of-the-ukraine-war-in-the-middle-east-submitted-on-2022-03-16-0246420800">180: The Economic Fallout of the Ukraine War in the Middle East, submitted on 2022-03-16 02:46:42+08:00.</a></li>
+  <li><a href="#181-xi-jinpings-faltering-foreign-policy-the-war-in-ukraine-and-the-perils-of-strongman-rule-submitted-on-2022-03-16-2240510800" id="markdown-toc-181-xi-jinpings-faltering-foreign-policy-the-war-in-ukraine-and-the-perils-of-strongman-rule-submitted-on-2022-03-16-2240510800">181: Xi Jinping’s Faltering Foreign Policy: The War in Ukraine and the Perils of Strongman Rule, submitted on 2022-03-16 22:40:51+08:00.</a></li>
+  <li><a href="#182-unofficial-daily-update-for-2022-03-16-1031-new-cases-submitted-on-2022-03-17-0105050800" id="markdown-toc-182-unofficial-daily-update-for-2022-03-16-1031-new-cases-submitted-on-2022-03-17-0105050800">182: Unofficial Daily Update for 2022-03-16. 1031 New Cases., submitted on 2022-03-17 01:05:05+08:00.</a></li>
+  <li><a href="#183-the-false-promise-of-arming-insurgents-americas-spotty-record-warrants-caution-in-ukraine-submitted-on-2022-03-18-2321420800" id="markdown-toc-183-the-false-promise-of-arming-insurgents-americas-spotty-record-warrants-caution-in-ukraine-submitted-on-2022-03-18-2321420800">183: The False Promise of Arming Insurgents: America’s Spotty Record Warrants Caution in Ukraine, submitted on 2022-03-18 23:21:42+08:00.</a></li>
+  <li><a href="#184-could-any-expieraned-lifter-critique-my-dip-form-just-started-incorporating-these-into-my-training-today-excuse-my-ghetto-set-up-submitted-on-2022-03-19-0038000800" id="markdown-toc-184-could-any-expieraned-lifter-critique-my-dip-form-just-started-incorporating-these-into-my-training-today-excuse-my-ghetto-set-up-submitted-on-2022-03-19-0038000800">184: Could any expieraned lifter critique my dip form. Just started incorporating these into my training today. (Excuse my ghetto set up), submitted on 2022-03-19 00:38:00+08:00.</a></li>
+  <li><a href="#185-joe-bidens-historic-speech-from-1995-regarding-bosnia-sounds-so-relevant-in-context-of-todays-aggression-in-ukraine-also-mentioning-the-fear-of-future-wars-in-europe-submitted-on-2022-03-19-0642170800" id="markdown-toc-185-joe-bidens-historic-speech-from-1995-regarding-bosnia-sounds-so-relevant-in-context-of-todays-aggression-in-ukraine-also-mentioning-the-fear-of-future-wars-in-europe-submitted-on-2022-03-19-0642170800">185: Joe Biden’s historic speech from 1995 regarding Bosnia sounds so relevant in context of today’s aggression in Ukraine, also mentioning the fear of future wars in Europe., submitted on 2022-03-19 06:42:17+08:00.</a></li>
+  <li><a href="#186-chicagohenge-2022-when-and-where-you-can-see-it-this-weekend-submitted-on-2022-03-20-0016550800" id="markdown-toc-186-chicagohenge-2022-when-and-where-you-can-see-it-this-weekend-submitted-on-2022-03-20-0016550800">186: Chicagohenge 2022: When and Where You Can See It This Weekend, submitted on 2022-03-20 00:16:55+08:00.</a></li>
+  <li><a href="#187-fox-fauci-warns-americans-could-face-more-lockdowns-amid-spread-of-new-covid-19-variant-submitted-on-2022-03-20-0246550800" id="markdown-toc-187-fox-fauci-warns-americans-could-face-more-lockdowns-amid-spread-of-new-covid-19-variant-submitted-on-2022-03-20-0246550800">187: [Fox] Fauci warns Americans could face more lockdowns amid spread of new COVID-19 variant, submitted on 2022-03-20 02:46:55+08:00.</a></li>
+  <li><a href="#188-former-president-of-poland-in-the-long-term-china-wants-to-vassalise-russia-erdogan-is-playing-his-game-well-le-pen-will-get-a-beating-for-her-love-of-putin-submitted-on-2022-03-20-0514560800" id="markdown-toc-188-former-president-of-poland-in-the-long-term-china-wants-to-vassalise-russia-erdogan-is-playing-his-game-well-le-pen-will-get-a-beating-for-her-love-of-putin-submitted-on-2022-03-20-0514560800">188: Former President of Poland: In the long term, China wants to vassalise Russia. Erdogan is playing his game well. Le Pen will get a beating for her love of Putin., submitted on 2022-03-20 05:14:56+08:00.</a></li>
+  <li><a href="#189-have-american-sanctions-ever-actually-gotten-a-nation-to-change-its-leadership-submitted-on-2022-03-20-0842150800" id="markdown-toc-189-have-american-sanctions-ever-actually-gotten-a-nation-to-change-its-leadership-submitted-on-2022-03-20-0842150800">189: Have American sanctions ever actually gotten a nation to change its leadership?, submitted on 2022-03-20 08:42:15+08:00.</a></li>
+  <li><a href="#190-kwaśniewski-20-years-ago-i-had-a-face-to-face-conversation-with-putin-he-spoke-directly-about-the-reconstruction-of-great-russia-translated-interview-submitted-on-2022-03-20-2221050800" id="markdown-toc-190-kwaśniewski-20-years-ago-i-had-a-face-to-face-conversation-with-putin-he-spoke-directly-about-the-reconstruction-of-great-russia-translated-interview-submitted-on-2022-03-20-2221050800">190: Kwaśniewski: “20 years ago I had a face-to-face conversation with Putin. He spoke directly about the reconstruction of great Russia” [Translated Interview], submitted on 2022-03-20 22:21:05+08:00.</a></li>
+  <li><a href="#submission-statement" id="markdown-toc-submission-statement">Submission Statement:</a></li>
+  <li><a href="#russia" id="markdown-toc-russia">RUSSIA</a>    <ul>
+      <li><a href="#jacek-gądek---putin-has-been-in-power-for-22-years-do-you-think-that-you-planned-a-war-with-ukraine-from-the-beginning" id="markdown-toc-jacek-gądek---putin-has-been-in-power-for-22-years-do-you-think-that-you-planned-a-war-with-ukraine-from-the-beginning">Jacek Gądek: - Putin has been in power for 22 years. Do you think that you planned a war with Ukraine from the beginning?</a></li>
+      <li><a href="#what" id="markdown-toc-what">What?</a></li>
+      <li><a href="#why-now" id="markdown-toc-why-now">Why now?</a></li>
+      <li><a href="#after-almost-a-month-there-are-many-comments-that-putin-has-already-lost-this-war-but-isnt-that-wishful-thinking" id="markdown-toc-after-almost-a-month-there-are-many-comments-that-putin-has-already-lost-this-war-but-isnt-that-wishful-thinking">After almost a month, there are many comments that Putin has already lost this war. But isn’t that wishful thinking?</a></li>
+    </ul>
+  </li>
+  <li><a href="#ukraine" id="markdown-toc-ukraine">UKRAINE</a>    <ul>
+      <li><a href="#for-now-putin-is-leveling-ukraine-with-the-ground-and-killing-civilians-ukraine-will-have-the-potential-to-recover-from-this-rubble" id="markdown-toc-for-now-putin-is-leveling-ukraine-with-the-ground-and-killing-civilians-ukraine-will-have-the-potential-to-recover-from-this-rubble">For now, Putin is leveling Ukraine with the ground and killing civilians. Ukraine will have the potential to recover from this rubble?</a></li>
+      <li><a href="#but-when-this-is-a-distant-vision-as-the-bombs-keep-falling" id="markdown-toc-but-when-this-is-a-distant-vision-as-the-bombs-keep-falling">But when? This is a distant vision as the bombs keep falling.</a></li>
+      <li><a href="#what-are-the-minimum-conditions-for-ukraines-victory" id="markdown-toc-what-are-the-minimum-conditions-for-ukraines-victory">What are the minimum conditions for Ukraine’s victory?</a></li>
+      <li><a href="#zelenskiy-could-do-something-more-than-before" id="markdown-toc-zelenskiy-could-do-something-more-than-before">Zelenskiy could do something more than before?</a></li>
+    </ul>
+  </li>
+  <li><a href="#united-states" id="markdown-toc-united-states">UNITED STATES</a>    <ul>
+      <li><a href="#the-usa-and-president-joe-biden-are-authentic-leaders-of-the-free-world" id="markdown-toc-the-usa-and-president-joe-biden-are-authentic-leaders-of-the-free-world">The USA and President Joe Biden Are Authentic Leaders of the Free World?</a></li>
+      <li><a href="#initially-however-biden-shifted-responsibility-for-europe-to-the-shoulders-of-europe-itself-to-focus-on-rivalry-with-china" id="markdown-toc-initially-however-biden-shifted-responsibility-for-europe-to-the-shoulders-of-europe-itself-to-focus-on-rivalry-with-china">Initially, however, Biden shifted responsibility for Europe to the shoulders of Europe itself, to focus on rivalry with China?</a></li>
+      <li><a href="#the-prospect-of-a-nato-russia-conflict-is-not-excluded" id="markdown-toc-the-prospect-of-a-nato-russia-conflict-is-not-excluded">The prospect of a NATO-Russia conflict is not excluded?</a></li>
+    </ul>
+  </li>
+  <li><a href="#china" id="markdown-toc-china">CHINA</a>    <ul>
+      <li><a href="#which-side-is-china-on" id="markdown-toc-which-side-is-china-on">Which side is China on?</a></li>
+      <li><a href="#and-china-being-a-power-has-the-key-to-force-an-end-to-the-war" id="markdown-toc-and-china-being-a-power-has-the-key-to-force-an-end-to-the-war">And China, being a power, has the key to force an end to the war?</a></li>
+      <li><a href="#so-far-chinese-president-xi-jinping-has-talked-about-strategic-partnership-with-russia-and-friendship-without-borders-do-you-still-see-a-chance-for-china-to-be-dragged-over-to-the-west" id="markdown-toc-so-far-chinese-president-xi-jinping-has-talked-about-strategic-partnership-with-russia-and-friendship-without-borders-do-you-still-see-a-chance-for-china-to-be-dragged-over-to-the-west">So far, Chinese President Xi Jinping has talked about “strategic partnership” with Russia and “friendship without borders”. Do you still see a chance for China to be dragged over to the West?</a></li>
+      <li><a href="#can-the-us-force-china-not-to-support-russia-at-least" id="markdown-toc-can-the-us-force-china-not-to-support-russia-at-least">Can the US force China not to support Russia at least?</a></li>
+    </ul>
+  </li>
+  <li><a href="#germany" id="markdown-toc-germany">GERMANY</a>    <ul>
+      <li><a href="#-especially-in-the-spd-which-is-in-power-today-and-has-a-chancellor" id="markdown-toc--especially-in-the-spd-which-is-in-power-today-and-has-a-chancellor">.. especially in the SPD, which is in power today and has a chancellor.</a></li>
+      <li><a href="#do-you-know-the-current-chancellor-olaf-scholz" id="markdown-toc-do-you-know-the-current-chancellor-olaf-scholz">Do you know the current [chancellor] Olaf Scholz?</a></li>
+    </ul>
+  </li>
+  <li><a href="#turkey" id="markdown-toc-turkey">TURKEY</a>    <ul>
+      <li><a href="#turkey-has-a-significant-role-in-forcing-an-end-to-the-war" id="markdown-toc-turkey-has-a-significant-role-in-forcing-an-end-to-the-war">Turkey has a significant role in forcing an end to the war?</a></li>
+    </ul>
+  </li>
+  <li><a href="#european-union" id="markdown-toc-european-union">EUROPEAN UNION</a>    <ul>
+      <li><a href="#are-pro-mutinist-formations-and-politicians-now-bankrupt-in-the-european-union-irreversible" id="markdown-toc-are-pro-mutinist-formations-and-politicians-now-bankrupt-in-the-european-union-irreversible">Are pro-mutinist formations and politicians now bankrupt in the European Union? Irreversible?</a></li>
+      <li><a href="#and-you-can-get-away-from-it-at-all" id="markdown-toc-and-you-can-get-away-from-it-at-all">And you can get away from it at all?</a></li>
+    </ul>
+  </li>
+  <li><a href="#poland" id="markdown-toc-poland">POLAND</a>    <ul>
+      <li><a href="#the-pis-government-is-returning-to-the-west" id="markdown-toc-the-pis-government-is-returning-to-the-west">The PiS government is returning to the West?</a></li>
+      <li><a href="#do-you-see-the-reset-when-it-comes-to-polands-position-in-the-eu" id="markdown-toc-do-you-see-the-reset-when-it-comes-to-polands-position-in-the-eu">Do you see the reset when it comes to Poland’s position in the EU?</a></li>
+      <li><a href="#after-the-reset-however-the-system-returns-to-its-previous-stability" id="markdown-toc-after-the-reset-however-the-system-returns-to-its-previous-stability">After the reset, however, the system returns to its previous stability.</a></li>
+      <li><a href="#the-pis-governments-policy-towards-the-eu-will-not-be-as-before" id="markdown-toc-the-pis-governments-policy-towards-the-eu-will-not-be-as-before">The PiS government’s policy towards the EU will not be as before?</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="174-russia-seeks-military-equipment-and-aid-from-china-us-officials-say-submitted-on-2022-03-14-1111120800">174: <a href="https://old.reddit.com/r/geopolitics/comments/tdnqkh/russia_seeks_military_equipment_and_aid_from/">Russia seeks military equipment and aid from China, U.S. officials say</a>, submitted on 2022-03-14 11:11:12+08:00.</h3>
+
+<p>—– <strong>174.1</strong> —–2022-03-14 11:19:58+08:00:</p>
+
+<p>Submission Statement:</p>
+
+<p>This Washington Post article (hosted on Microsoft News) reports that Russia has sought military aid from China, including equipment.  China denies any such request was placed.  According to White House National Security Advisor Jake Sullivan, the Biden Administration is “communicating directly, privately” with Beijing on this matter and stated “that there will absolutely be consequences,” but Sullivan failed to offer meaningful details on the same.</p>
+
+<p>—– <strong>174.2</strong> —–2022-03-14 19:21:52+08:00:</p>
+
+<p>Trucks, generally, and fuel trucks, specifically, have been a big problem for Russia.  Logistics are their military’s main issue.</p>
+
+<p>—– <strong>174.3</strong> —–2022-03-14 19:47:28+08:00:</p>
+
+<p>Further Reading from the <a href="https://apnews.com/article/russia-ukraine-biden-business-europe-china-d7cfda44db57c0ff19109d66ed876c6a">Associated Press</a>:</p>
+
+<blockquote>
+  <p>The Biden administration is also accusing China of spreading Russian disinformation that could be a pretext for Russian President Vladimir Putin’s forces to attack Ukraine with chemical or biological weapons.</p>
+
+  <p>. . .</p>
+
+  <p>Biden administration officials say Beijing is spreading false Russian claims that Ukraine was running chemical and biological weapons labs with U.S. support. They say China is effectively providing cover if Russia moves ahead with a biological or chemical weapons attack on Ukrainians.</p>
+</blockquote>
+
+<p>https://apnews.com/article/russia-ukraine-biden-business-europe-china-d7cfda44db57c0ff19109d66ed876c6a</p>
+
+<h3 id="175-a-new-world-energy-order-is-emerging-from-putins-war-on-ukraine-submitted-on-2022-03-14-1953450800">175: <a href="https://old.reddit.com/r/geopolitics/comments/tdvqy4/a_new_world_energy_order_is_emerging_from_putins/">A New World Energy Order Is Emerging From Putin’s War on Ukraine</a>, submitted on 2022-03-14 19:53:45+08:00.</h3>
+
+<p>—– <strong>175.1</strong> —–2022-03-14 19:54:43+08:00:</p>
+
+<p>No Paywall: https://archive.ph/87zId</p>
+
+<p>Note that the above link may not work for you in certain countries, due to national laws.</p>
+
+<p>—– <strong>175.2</strong> —–2022-03-14 20:01:09+08:00:</p>
+
+<p>Submission Statement:</p>
+
+<p>This article considers geopolitical shifts underway amid Vladimir Putin’s war in Ukraine: Putin’s war has “re-drawn[]” the “energy and geopolitical map in Europe,” in perhaps the most significant way since the USSR’s collapse.  The EU has undertaken new effort to divest itself from Russia, the United States has acutely limited Russian oil imports and Saudi Arabia’s importance to American geopolitical strategy is renewed once more.  China, however, continues to prove a ready and willing market for Russian petrochemical commodities.</p>
+
+<ul>
+  <li>Source:https://www.bloomberg.com/news/articles/2022-03-11/a-new-world-energy-order-is-emerging-from-putin-s-war-on-ukraine</li>
+  <li>No-Paywall: https://archive.ph/87zId</li>
+</ul>
+
+<h3 id="176-the-return-of-pax-americana-putins-war-is-fortifying-the-democratic-alliance-submitted-on-2022-03-14-2124110800">176: <a href="https://old.reddit.com/r/geopolitics/comments/tdxfij/the_return_of_pax_americana_putins_war_is/">The Return of Pax Americana?: Putin’s War Is Fortifying the Democratic Alliance</a>, submitted on 2022-03-14 21:24:11+08:00.</h3>
+
+<p>—– <strong>176.1</strong> —–2022-03-15 11:47:54+08:00:</p>
+
+<p>Very little of this analysis is persuasive.</p>
+
+<p>Ukraine matters, for reasons I have previously stated.  Yet, the “international order” is not jeopardized by isolated conflicts between regional powers, even where one regional power is significantly more powerful than another.</p>
+
+<p>Russia’s invading Ukraine is a regional military conflict.  Other actors may be indirectly involved to varying degrees (e.g., Belarus, for Russia; and other countries, to the extent their citizens have volunteered themselves for Ukraine’s defense).  But this does not make a threat to the international order.  Putin is what he has always been, just as the international system exists in anarchy without American leadership.  To the extent there is a threat to the international order, it is the result of declining American leadership, after more than a decade of over-reach since 9/11.</p>
+
+<p>And in any case, there is no “fortifying” of any “alliiance,” whether “democratic” or otherwise.  Ostensibly new ideas seek to replace any pax Americana that ever may have existed; dangerous ideas that mirror the ones which impelled the world to war in the last century.  Our institutions and their integrity are the price of the ideals currently being advertised, to reset the postwar way of doing things.</p>
+
+<p>Reading this article is like watching a poker player who missed his flush on the turn bluff his way through the river.</p>
+
+<h3 id="177-rifts-in-global-systems-following-the-ukraine-war-submitted-on-2022-03-15-0056420800">177: <a href="https://old.reddit.com/r/geopolitics/comments/te23x5/rifts_in_global_systems_following_the_ukraine_war/">Rifts in global systems following the Ukraine war</a>, submitted on 2022-03-15 00:56:42+08:00.</h3>
+
+<p>—– <strong>177.1</strong> —–2022-03-15 11:05:28+08:00:</p>
+
+<p>This would be better submitted in response to the article already approved which focuses on these issues.</p>
+
+<h3 id="178-unofficial-daily-update-for-2022-03-14-697-new-cases-submitted-on-2022-03-15-0105040800">178: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/te2b5e/unofficial_daily_update_for_20220314_697_new_cases/">Unofficial Daily Update for 2022-03-14. 697 New Cases.</a>, submitted on 2022-03-15 01:05:04+08:00.</h3>
+
+<p>—– <strong>178.1</strong> —–2022-03-15 11:52:36+08:00:</p>
+
+<p>Misleading, misinformation.  The era of pseudo-expertise found among Twitter-based COVID-speculation is over.</p>
+
+<h3 id="179-russia-to-pay-off-foreign-debt-in-chinese-yuan-official-submitted-on-2022-03-15-0510100800">179: <a href="https://old.reddit.com/r/geopolitics/comments/te7wug/russia_to_pay_off_foreign_debt_in_chinese_yuan/">Russia to pay off foreign debt in Chinese yuan: Official</a>, submitted on 2022-03-15 05:10:10+08:00.</h3>
+
+<p>—– <strong>179.1</strong> —–2022-03-15 11:22:46+08:00:</p>
+
+<p>Misleading, doubtful reporting.  Removed.</p>
+
+<h3 id="180-the-economic-fallout-of-the-ukraine-war-in-the-middle-east-submitted-on-2022-03-16-0246420800">180: <a href="https://old.reddit.com/r/geopolitics/comments/tewlwc/the_economic_fallout_of_the_ukraine_war_in_the/">The Economic Fallout of the Ukraine War in the Middle East</a>, submitted on 2022-03-16 02:46:42+08:00.</h3>
+
+<p>—– <strong>180.1</strong> —–2022-03-16 19:41:04+08:00:</p>
+
+<p>Stop these crossposts.</p>
+
+<h3 id="181-xi-jinpings-faltering-foreign-policy-the-war-in-ukraine-and-the-perils-of-strongman-rule-submitted-on-2022-03-16-2240510800">181: <a href="https://old.reddit.com/r/geopolitics/comments/tfj6jl/xi_jinpings_faltering_foreign_policy_the_war_in/">Xi Jinping’s Faltering Foreign Policy: The War in Ukraine and the Perils of Strongman Rule</a>, submitted on 2022-03-16 22:40:51+08:00.</h3>
+
+<p>—– <strong>181.1</strong> —–2022-03-17 12:18:43+08:00:</p>
+
+<p>Perspectives such as those expressed in the article linked here give me pause.  I worry that some foreign policy stakeholders fail to understand how interests are perceived by their adversaries, which would result in avoidable strategic error.</p>
+
+<p>Basically, reading this article’s “analysis” feels like sipping the kool-aid.  For example, the article argues:</p>
+
+<blockquote>
+  <p>[T]he more powerful Xi becomes and the more direct authority he exerts over Beijing’s foreign policy, the more adverse the outcomes are for China’s long-term strategic interests.</p>
+</blockquote>
+
+<ul>
+  <li>
+    <p>Criticism of Xi Jinping will always be well received here, however much it may replace facts with adjectives and reasons with innuendo.  And that isn’t to say I disagree with all of those characterizations, because, as the author argues “Xi’s . . . support for Moscow” in invading Ukraine was a “major foreign policy misstep,” to the extent it ran afoul of American interests.  But, whether that support was in Xi’s long term best interests remains to be seen.</p>
+  </li>
+  <li>
+    <p>Further, Xi’s “decision to retaliate against EU officials last March in response to sanctions over human rights abuses in Xinjiang” did “cost Beijing a long-coveted investment deal with Europe,” but so what?  There will be other deals. The repercussions for Xi’s genocide in Xinjiang (costs imposed on him or China as a result) and with respect to the Uyghur Muslim population there (and the greater Uyghur diaspora) are miniscule in comparison to the scale and egregious nature of those human rights violations.  Xi clearly perceives that genocide to be in both his and China’s interests, and has failed to change course as a result of any sanction imposed as a result, by any western actor.  To wit, nothing whatsoever has changed.  The genocide continues.  Emphasizing one allegedly “coveted” trade deal with Europe when the Biden administration will do little more than bark is reaching too far.  Counting the wins where they accrue is important, but tremendous work remains to be done.</p>
+  </li>
+  <li>
+    <p>Additionally, Xi’s “threats toward Taiwan are,” in fact “driving Washington and Taipei closer together and forcing other regional powers, such as Australia and Japan, to declare their own compelling interest in Taiwan’s security.” But, consider that: (a) the “compelling” nature of that interest was already well established, (b) “declar[ing]” it now is unlikely to be perceived as anything other than what it is — purely symbolic and (c) the only thing that matters is whether the United States is willing to prevent forcible reunification, and based on what Biden is allowing to happen in Ukraine now, Biden is clearly unwilling to do anything with the military whatsoever.</p>
+  </li>
+</ul>
+
+<h3 id="182-unofficial-daily-update-for-2022-03-16-1031-new-cases-submitted-on-2022-03-17-0105050800">182: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/tfmtex/unofficial_daily_update_for_20220316_1031_new/">Unofficial Daily Update for 2022-03-16. 1031 New Cases.</a>, submitted on 2022-03-17 01:05:05+08:00.</h3>
+
+<p>—– <strong>182.1</strong> —–2022-03-17 11:47:59+08:00:</p>
+
+<p>Seasonal allergies.   I hate spring.</p>
+
+<h3 id="183-the-false-promise-of-arming-insurgents-americas-spotty-record-warrants-caution-in-ukraine-submitted-on-2022-03-18-2321420800">183: <a href="https://old.reddit.com/r/geopolitics/comments/th3svd/the_false_promise_of_arming_insurgents_americas/">The False Promise of Arming Insurgents: America’s Spotty Record Warrants Caution in Ukraine</a>, submitted on 2022-03-18 23:21:42+08:00.</h3>
+
+<p>—– <strong>183.1</strong> —–2022-03-19 14:01:24+08:00:</p>
+
+<blockquote>
+  <p>I wrote an article in January where I reached that exact same conclusion.</p>
+</blockquote>
+
+<p>Caution should be exercised for any strategy or method to pursue foreign policy objectives. But wholesale rejection of a method (arming opposition forces) based on purported failure “from Albania in the 1940s to Afghanistan in the 1980s” is unreasonable.</p>
+
+<p>The article alleges that “out of 35 U.S. attempts to covertly arm foreign dissidents during the Cold War, only four succeeded in bringing U.S. allies to power.”  I am only left to guess what that means, but at least these points should be obvious: regime change is rarely the goal and even if it was, “bringing . . . allies to power” involves considerably more than placing arms in the hands of some opposition force.</p>
+
+<p>Considerably more “attempts” to place weapons in the hands of the USSR’s enemies occurred during the Cold War.  Nearly all such instances were oriented towards something other than regime change, but to prevent foreseeable massacres by more powerful actors.</p>
+
+<p>At the time, I argued against arming anyone in Syria, despite considerable domestic political support for doing so.  There, other means were better suited towards achieving American objectives (at least to the extent the foreseeable costs of pursuing them were justified by probable benefits).</p>
+
+<p>Furnishing arms, as was considered at that time, involved uncertain and potentially incalculably high risk with almost no greater benefit than less precarious alternatives.  But Black market sales weren’t the concern there.  Nor are they ever really a concern, because it is logistically impractical to try to prevent it.  Future misuse or misappropriation are just inherent risks.</p>
+
+<p>In any event, Ukraine is not Syria.  Regime change is not the desired end for anyone, other than Vladimir Putin.  No appropriate analogy can be drawn to any case of Cold War appropriations to anti-Soviet opposition or insurgency.  There is an appropriate analogy to be drawn, however, to Bosnia.  There, earlier intervention might have shortened the conflict duration and resulted in fewer casualties in the long run.</p>
+
+<p>—– <strong>183.2</strong> —–2022-03-21 19:38:57+08:00:</p>
+
+<p>Тебе нужно перестать делать то, что ты делаешь.</p>
+
+<p>—– <strong>183.3</strong> —–2022-03-21 19:46:40+08:00:</p>
+
+<p>This comment section was out of hand and is locked as a result.  Users are reminded to keep comments up to par, refrain from exchanging insults or contributing to low-quality discourse.</p>
+
+<h3 id="184-could-any-expieraned-lifter-critique-my-dip-form-just-started-incorporating-these-into-my-training-today-excuse-my-ghetto-set-up-submitted-on-2022-03-19-0038000800">184: <a href="https://old.reddit.com/r/GYM/comments/th5j56/could_any_expieraned_lifter_critique_my_dip_form/">Could any expieraned lifter critique my dip form. Just started incorporating these into my training today. (Excuse my ghetto set up)</a>, submitted on 2022-03-19 00:38:00+08:00.</h3>
+
+<p>—– <strong>184.1</strong> —–2022-03-19 12:03:49+08:00:</p>
+
+<p>I see that he put weights on them, but my anxiety over those chairs was really high.</p>
+
+<h3 id="185-joe-bidens-historic-speech-from-1995-regarding-bosnia-sounds-so-relevant-in-context-of-todays-aggression-in-ukraine-also-mentioning-the-fear-of-future-wars-in-europe-submitted-on-2022-03-19-0642170800">185: <a href="https://old.reddit.com/r/geopolitics/comments/thh6qt/joe_bidens_historic_speech_from_1995_regarding/">Joe Biden’s historic speech from 1995 regarding Bosnia sounds so relevant in context of today’s aggression in Ukraine, also mentioning the fear of future wars in Europe.</a>, submitted on 2022-03-19 06:42:17+08:00.</h3>
+
+<p>—– <strong>185.1</strong> —–2022-03-20 00:24:59+08:00:</p>
+
+<p>You should submit some kind of original post explaining why you think this speech is relevant to Ukraine today, link the video and analyze it.  But you currently have no submission statement and just linking the video isn’t enough.</p>
+
+<h3 id="186-chicagohenge-2022-when-and-where-you-can-see-it-this-weekend-submitted-on-2022-03-20-0016550800">186: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/thymhh/chicagohenge_2022_when_and_where_you_can_see_it/">Chicagohenge 2022: When and Where You Can See It This Weekend</a>, submitted on 2022-03-20 00:16:55+08:00.</h3>
+
+<p>—– <strong>186.1</strong> —–2022-03-20 00:17:34+08:00:</p>
+
+<p>Not relevant to COVID, but something interesting to see if you’re in Chicago.</p>
+
+<h3 id="187-fox-fauci-warns-americans-could-face-more-lockdowns-amid-spread-of-new-covid-19-variant-submitted-on-2022-03-20-0246550800">187: <a href="https://old.reddit.com/r/LockdownCriticalLeft/comments/ti1w98/fox_fauci_warns_americans_could_face_more/">[Fox] Fauci warns Americans could face more lockdowns amid spread of new COVID-19 variant</a>, submitted on 2022-03-20 02:46:55+08:00.</h3>
+
+<p>—– <strong>187.1</strong> —–2022-03-20 09:45:14+08:00:</p>
+
+<p>There are rumors Fauci is going to retire or step down.  Those rumors correlate to political initiatives in congress that split his job into three roles, curing the tripartite conflicts of interest that he has exploited for decades to enrich himself.</p>
+
+<p>What’s funny is that Fauci doesn’t realize that the democrats will throw him away.  It’s just a matter of time.</p>
+
+<h3 id="188-former-president-of-poland-in-the-long-term-china-wants-to-vassalise-russia-erdogan-is-playing-his-game-well-le-pen-will-get-a-beating-for-her-love-of-putin-submitted-on-2022-03-20-0514560800">188: <a href="https://old.reddit.com/r/geopolitics/comments/ti524n/former_president_of_poland_in_the_long_term_china/">Former President of Poland: In the long term, China wants to vassalise Russia. Erdogan is playing his game well. Le Pen will get a beating for her love of Putin.</a>, submitted on 2022-03-20 05:14:56+08:00.</h3>
+
+<p>—– <strong>188.1</strong> —–2022-03-20 05:25:30+08:00:</p>
+
+<p>Link to the original article.  Post the translation in the comments.</p>
+
+<p>This is the link you should submit: https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28238646,kwasniewski-20-lat-temu-mialem-z-putinem-rozmowe-w-cztery-oczy.html</p>
+
+<p>This is the translation of that link to English, which you should use <em>exactly</em> as I have written it:</p>
+
+<blockquote>
+  <p>Kwaśniewski: “20 years ago I had a face-to-face conversation with Putin. He spoke directly about the reconstruction of great Russia” [Translated Interview]</p>
+</blockquote>
+
+<p>Be sure to post a submission statement.</p>
+
+<p>—– <strong>188.2</strong> —–2022-03-20 23:22:08+08:00:</p>
+
+<p>Just as an FYI, here’s what I was looking for:</p>
+
+<p>https://www.reddit.com/r/geopolitics/comments/tim3sd/kwa%C5%9Bniewski_20_years_ago_i_had_a_facetoface/</p>
+
+<p>You had a great find.  Please feel free to share similar content here in the future.</p>
+
+<h3 id="189-have-american-sanctions-ever-actually-gotten-a-nation-to-change-its-leadership-submitted-on-2022-03-20-0842150800">189: <a href="https://old.reddit.com/r/geopolitics/comments/ti97yf/have_american_sanctions_ever_actually_gotten_a/">Have American sanctions ever actually gotten a nation to change its leadership?</a>, submitted on 2022-03-20 08:42:15+08:00.</h3>
+
+<p>—– <strong>189.1</strong> —–2022-03-20 23:45:13+08:00:</p>
+
+<blockquote>
+  <p>Sanctions were only part of the reason.</p>
+</blockquote>
+
+<p>Milošević’s fall had almost nothing to do with Western sanctions.</p>
+
+<p>—– <strong>189.2</strong> —–2022-03-21 00:27:51+08:00:</p>
+
+<p>Milošević’s days were numbered, because of what he was doing and what it meant for the people to whom he was doing it.  Sanctions just happened to tag along to what was already inevitable.</p>
+
+<h3 id="190-kwaśniewski-20-years-ago-i-had-a-face-to-face-conversation-with-putin-he-spoke-directly-about-the-reconstruction-of-great-russia-translated-interview-submitted-on-2022-03-20-2221050800">190: <a href="https://old.reddit.com/r/geopolitics/comments/tim3sd/kwaśniewski_20_years_ago_i_had_a_facetoface/">Kwaśniewski: “20 years ago I had a face-to-face conversation with Putin. He spoke directly about the reconstruction of great Russia” [Translated Interview]</a>, submitted on 2022-03-20 22:21:05+08:00.</h3>
+
+<p>—– <strong>190.1</strong> —–2022-03-20 22:32:41+08:00:</p>
+
+<h1 id="submission-statement">Submission Statement:</h1>
+
+<p>This is an interview with the former president of Poland, Aleksander Kwasniewski.  According to Kwasniewski, in 2002 he had a long, private conversation with Vladimir Putin. Kwasniewski explains that Putin’s goal was to rebuild the Russian empire. Putin was unidimensionally focused on this point, which required conquest of Ukraine. Kwasniewski explains that over the years, Putin’s initial dream was became more and more a plan and then a reality.</p>
+
+<p>The interview is in Polish.  A translation will follow.</p>
+
+<p>Quick note as well.  The user u/boskee originally submitted a translation of this article to r/ukraine, where it was removed for reasons that defy rational explanation. The same user posted the same version here.  I encouraged him to share the original link with a submission statement, but after 24 hours I saw it hadn’t been done.  Because that user identified a worthwhile perspective to add to r/geopolitics, I have shared it here.</p>
+
+<p>—– <strong>190.2</strong> —–2022-03-20 22:37:32+08:00:</p>
+
+<p>Translation of Interview from: https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28238646,kwasniewski-20-lat-temu-mialem-z-putinem-rozmowe-w-cztery-oczy.html</p>
+
+<h1 id="russia">RUSSIA</h1>
+
+<blockquote>
+  <h3 id="jacek-gądek---putin-has-been-in-power-for-22-years-do-you-think-that-you-planned-a-war-with-ukraine-from-the-beginning">Jacek Gądek: - Putin has been in power for 22 years. Do you think that you planned a war with Ukraine from the beginning?</h3>
+
+  <p>Aleksander Kwaśniewski: - Did he plan this war at the beginning of his presidency? I doubt it. But he certainly dreamed of conquering Ukraine by then. Anyway, I have proof of that.</p>
+
+  <h3 id="what">What?</h3>
+
+  <p>In 2002, I had a long private, private conversation with Putin. He told me outright that for him one of the most important tasks was to rebuild a great Russia. Just as he believed that the collapse of the Soviet Union was the greatest catastrophe of the twentieth century, he also believed that great Russia should rebuild itself. He was a young president then, only in office for two years and had no instruments to take over Ukraine, but he has already talked about it. Both in conversation with me and then in public. Putin never really recognized Ukraine as a state and Ukrainians as a nation.</p>
+
+  <p>I think that in Putin the obsession with a great Russia, and therefore with the conquest of Ukraine, was growing. Over the years, he took advantage of successive opportunities, on the one hand, to rebuild the empire, and on the other, to test the West’s reaction. After the war with Georgia in 2008, this reaction was too weak, as in 2014 after the annexation of Crimea and the detachment of the Donbas. This only encouraged Putin to prepare a full-scale war with Ukraine. Putin’s initial dream became more and more a plan.</p>
+
+  <h3 id="why-now">Why now?</h3>
+
+  <p>I can see a couple of explanations. First: Putin is getting older and the younger one will not. Second: 22 years of monopoly means detachment from reality. Third: Putin looked at the world and found the time to be favorable.</p>
+
+  <p>According to Putin, the US is in a crisis because Joe Biden, as an elderly man, will not take harsh action. Because - according to Putin - in Europe after Angela Merkel’s era everything is weak and it will only be built anew. He decided that China would not stop him, because they themselves had similar plans for Taiwan. He also thought he had the money to finance the war, because Russia had accumulated huge surpluses by trading in oil and gas. Finally, he considered the election of an inexperienced actor to the presidency of Ukraine to make the war easier. Putin expected a blitzkrieg and started a war.</p>
+
+  <h3 id="after-almost-a-month-there-are-many-comments-that-putin-has-already-lost-this-war-but-isnt-that-wishful-thinking">After almost a month, there are many comments that Putin has already lost this war. But isn’t that wishful thinking?</h3>
+
+  <p>Putin will actually lose in the long run. Because - first of all - Ukraine is being born before our eyes, even if it is physically destroyed. It is no longer possible for Ukraine to be part of Russia except under occupation and terror, and Russia does not have the strength to occupy it as a whole. After 30 years of Ukraine’s independence, Putin finally helped her believe in her own identity, strength and pride. Ukrainians will be Russia’s enemies for many centuries.</p>
+
+  <p>Putin has already lost also because the world has noticed his true face. I cannot imagine that - even after the conclusion of a truce or peace - Putin would be able to return to the salons. He will always be considered a war criminal. But is it necessary to talk to Putin as the president of Russia? Yes you should. But you absolutely cannot believe him.</p>
+
+  <p>Putin also did not win in the short-term plan, because he was buried in a war - it could last for months. In the medium term, in turn, if Putin managed to take control of Kyiv and install obedient power there, he could strengthen his position in Russia with deceptive propaganda. But that would be a Pyrrhic success.</p>
+</blockquote>
+
+<p>This translation continues.</p>
+
+<p>—– <strong>190.3</strong> —–2022-03-20 22:40:53+08:00:</p>
+
+<p>Translation of Interview from: https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28238646,kwasniewski-20-lat-temu-mialem-z-putinem-rozmowe-w-cztery-oczy.html</p>
+
+<h1 id="ukraine">UKRAINE</h1>
+
+<blockquote>
+  <h3 id="for-now-putin-is-leveling-ukraine-with-the-ground-and-killing-civilians-ukraine-will-have-the-potential-to-recover-from-this-rubble">For now, Putin is leveling Ukraine with the ground and killing civilians. Ukraine will have the potential to recover from this rubble?</h3>
+
+  <p>There are examples of countries - like Poland - that were rising from the ruins. After the Second World War, despite the resignation from the Marshall Plan, Poland managed to rebuild it with great social effort. Under conditions of limited sovereignty, but without the threat of physical extermination, it was possible to rebuild Warsaw, create the foundations of industry and a lot of other great things. Ukraine’s potential is not less than ours.</p>
+
+  <p>If the war does not end with occupation, and the Ukrainians are able to live in their country, even at the cost of giving up NATO, but with a presence in the European Union, they will be able to rebuild the country. Especially with the help of the EU and encouraging Ukrainians to return to their homeland. Ukrainians are well educated, non-demoralized and do not suffer from laziness due to satiety.</p>
+
+  <h3 id="but-when-this-is-a-distant-vision-as-the-bombs-keep-falling">But when? This is a distant vision as the bombs keep falling.</h3>
+
+  <p>Maybe in a few years. Ukraine may emerge from the ruins more modern, identical, conscious and hungry for development.</p>
+
+  <h3 id="what-are-the-minimum-conditions-for-ukraines-victory">What are the minimum conditions for Ukraine’s victory?</h3>
+
+  <p>Today, resistance every day is a victory. The persistence of Kiev is a victory. The presence of President Volodymyr Zelensky in the capital and the actions of the state are everyday victories. Cease fire, although I do not believe it, would be a success. Limiting the number of victims - too. But Zelenskiy’s biggest problem will be if he can return to the pre-invasion state by February 24th on the negotiating table. This would mean accepting Ukraine’s lack of power over Crimea, Donetsk and Luhansk. Would that be accepted by the Ukrainians as a wise compromise or a betrayal? I cannot answer myself, but I know it would be a very risky moment for Zelensky.</p>
+
+  <p>So far, there are no such negotiations. Putin will fight in the belief that he will defeat Ukraine.</p>
+
+  <h3 id="zelenskiy-could-do-something-more-than-before">Zelenskiy could do something more than before?</h3>
+
+  <p>He is an excellent war-time leader and so keeps in touch with the nation. In terms of communication, it is phenomenal. He stays in Kiev, mobilizes and gives faith, builds morale - at the present stage, he can do nothing better.</p>
+
+  <p>His emphasis on the West is always on point. Generally, he always says the same thing, but uses different, very pertinent arguments. When he speaks in the US Congress, he admonishes the Americans: you are not helping to defend the skies over Ukraine, and yet your greatest misfortunes came from heaven - at Pearl Harbor as a result of the Japanese air raid and on September 11, when terrorists attacked the US. These are arguments that even a poorly educated American can understand.</p>
+
+  <p>In turn, speaking to the Germans, he emphasizes the expectations of the German leadership. He wisely builds arguments towards various partners, weaving symbolic and emotional elements. This is paying off, since the West - and mainly the US - are handing over more weapons.</p>
+</blockquote>
+
+<p>This translation continues.</p>
+
+<p>—– <strong>190.4</strong> —–2022-03-20 22:43:02+08:00:</p>
+
+<p>Translation of Interview from: https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28238646,kwasniewski-20-lat-temu-mialem-z-putinem-rozmowe-w-cztery-oczy.html</p>
+
+<h1 id="united-states">UNITED STATES</h1>
+
+<blockquote>
+  <h3 id="the-usa-and-president-joe-biden-are-authentic-leaders-of-the-free-world">The USA and President Joe Biden Are Authentic Leaders of the Free World?</h3>
+
+  <p>Let’s close our eyes and imagine that today the US President is Donald Trump. The man who undermined the rationality of NATO, insulted European allies, was fascinated by Putin and pursued a narcissistic, selfish policy. The very fact that Biden is the president is worth appreciating.</p>
+
+  <p>Biden is a man of principles and he tries to live by them. I read the book by Hunter Biden - Joe Biden’s very difficult son - “All Beautiful Things”. She is convinced that thanks to Joe Biden’s love and closeness to his son, it was possible to help a lost man. Biden never pushed his son away, though it might have been convenient for him.</p>
+
+  <p>He is a man of persistent persuasion - he reaches out to people, he explains. He does not impose his opinion, but it is thanks to him that the West speaks with one voice and NATO has become stronger. Biden fulfills his role beyond expectations. May he have enough health and energy, which is not easy at his age. We are really lucky to have Biden. If it weren’t for him, we’d be in a black hole.</p>
+
+  <h3 id="initially-however-biden-shifted-responsibility-for-europe-to-the-shoulders-of-europe-itself-to-focus-on-rivalry-with-china">Initially, however, Biden shifted responsibility for Europe to the shoulders of Europe itself, to focus on rivalry with China?</h3>
+
+  <p>Today I do not see such a temptation anymore. Putin, by starting a war in Ukraine, helped reverse the tendency to shift the main US interest from the Atlantic to the Pacific, which had already begun in US policy during the presidency of Barack Obama. For years, America has focused more and more on rivalry with China rather than on its presence in Europe. Therefore, at the NATO summit in Newport in 2014 - during the Obama presidency - a decision was made to increase state spending on the army to 2 percent. GDP. Trump then bluntly demanded that Europe increase its spending to focus on its own rivalry with China. Biden was also close to the idea until Putin started the war in Europe.</p>
+
+  <h3 id="the-prospect-of-a-nato-russia-conflict-is-not-excluded">The prospect of a NATO-Russia conflict is not excluded?</h3>
+
+  <p>Putin directly says that the main threat to Russia comes from NATO, because the Pact - as Putin lies - wants to destroy Russia and its great values. NATO must therefore be prepared for a scenario in which Russia attacks Lithuania, Latvia, Estonia or Poland. In the various scenarios that need to be considered, a NATO war against Russia is not out of the question. In fact, it has not been so close to this confrontation for a long time as it is today.</p>
+</blockquote>
+
+<p>This translation continues.</p>
+
+<p>—– <strong>190.5</strong> —–2022-03-20 22:50:35+08:00:</p>
+
+<p>Translation of Interview from: https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28238646,kwasniewski-20-lat-temu-mialem-z-putinem-rozmowe-w-cztery-oczy.html</p>
+
+<h1 id="china">CHINA</h1>
+
+<blockquote>
+  <h3 id="which-side-is-china-on">Which side is China on?</h3>
+
+  <p>They stand astride. On the one hand, they say that they are against war, but on the other hand, they are satisfied with the Russian argument that Ukraine is historically part of great Russia and should be with the motherland. And they say this because they took the same attitude towards Hong Kong and today towards Taiwan, where a great armed conflict is also threatened.</p>
+
+  <p>Over the years, China has maintained close political and economic contacts with Ukraine. They cannot completely turn away from Kiev, so they cannot. The Chinese ambassador to Kiev stated that China supports Ukraine and will not participate in any attack by it, but this is only said by the ambassador, not the head of the Ministry of Foreign Affairs or the president. China is watching the war and declares itself ready to play a role in finding a peaceful solution. However, we have not heard anything about Beijing’s specific actions in this direction, so they either do it in Chinese, that is, discreetly, or they do nothing.</p>
+
+  <h3 id="and-china-being-a-power-has-the-key-to-force-an-end-to-the-war">And China, being a power, has the key to force an end to the war?</h3>
+
+  <p>No, but China’s attitude is a very important factor that may make the situation of Ukraine very difficult or help it.</p>
+
+  <p>For China, any dispute between the US and, for example, Russia is beneficial because it involves America, which reduces the US involvement in the Pacific. The coming days will show where China will go and whether it wants to play an active role.</p>
+
+  <h3 id="so-far-chinese-president-xi-jinping-has-talked-about-strategic-partnership-with-russia-and-friendship-without-borders-do-you-still-see-a-chance-for-china-to-be-dragged-over-to-the-west">So far, Chinese President Xi Jinping has talked about “strategic partnership” with Russia and “friendship without borders”. Do you still see a chance for China to be dragged over to the West?</h3>
+
+  <p>It is not feasible. China will not join the West, but it can say: you wanted to wage trade wars with us, but it is not profitable for you, let’s cooperate pragmatically.</p>
+
+  <p>All the words Xi Jinping says about friendship with Russia are declarations - neighborly and marked by memories. China wants to make Russia vassal in the long run. After all, if we compare China’s economic, demographic and military power with Russia, Moscow has nothing to fear. Russia is experiencing a demographic catastrophe, it is depopulating, and Siberia is uninhabited, while there are several hundred million Chinese living across the river who would like to settle there.</p>
+
+  <p>Russians, weakened by the war with Ukraine, doomed to play the role of China’s vassal?
+The Russians stand no chance of a collision with China. Economically, Beijing is a growing power. Russia only has an advantage when it comes to nuclear weapons, but in 10-20 years and the latter advantage will disappear, because China is spending colossal money on arming.</p>
+
+  <p>What does Russia have? An army whose myth has just crumbled. It also has gas and oil, which, however, are increasingly being replaced by renewable energy sources. The Chinese will patiently but firmly exploit the weakness of Russia, which in the long term will suffer more and more losses in connection with the war with Ukraine and the sanctions of the West.</p>
+
+  <h3 id="can-the-us-force-china-not-to-support-russia-at-least">Can the US force China not to support Russia at least?</h3>
+
+  <p>China is a power that must be handled like an egg. After all, if the Chinese do not produce something, then entire production lines in the USA and Europe will stop. We saw it in the Covid-19 pandemic. China is economically keeping the whole world in check.</p>
+</blockquote>
+
+<h1 id="germany">GERMANY</h1>
+
+<blockquote>
+  <p>Will the anti-Russian shift in Germany continue and end in a move away from Russian gas and oil?
+It is difficult to predict today, but this turn must be taken seriously - it will have colossal consequences in German politics. In Germany - in politics and business - the Russlandversteher group has always been strong, people who “understand Russia.”</p>
+
+  <h3 id="-especially-in-the-spd-which-is-in-power-today-and-has-a-chancellor">.. especially in the SPD, which is in power today and has a chancellor.</h3>
+
+  <p>After the Russian aggression, the Germans who “understand Russia” are shattered - they are in a state of mental collapse because they absolutely did not expect a war. They expected Putin to press, demand and look for taunts, but he would behave rationally. Putin has become irrational, however, and for many pro-Russian politicians in Germany it is a shock. Prof. Klaus Bachmann points out that some of them are already moving to extremely anti-Russian positions, which is typical of neophytes.</p>
+
+  <p>The turnaround in Germany is happening and I am sure it will be permanent. But not instantaneous. When it comes to Russian gas and oil, not only Germany, but also other European countries - such as Greece, Romania, Bulgaria - depend on their supplies. Germany cannot give up Russian raw materials overnight, but the first decisions of Olaf Scholz’s government are to postpone the closure of nuclear power plants and thus reduce dependence on Russia.</p>
+
+  <p>Germany just needs energy from somewhere. After all, we are talking about the largest industrial economy in Europe. The British live off the capital market, others have income from tourism, and the Germans have to make cars or else they will slide into crisis.</p>
+
+  <h3 id="do-you-know-the-current-chancellor-olaf-scholz">Do you know the current [chancellor] Olaf Scholz?</h3>
+
+  <p>I know him and trust him. I know he is a very competent and reliable politician. If he promises something, then he does it. He will look for solutions, but giving up Russian oil and gas is not a monthly project.</p>
+</blockquote>
+
+<h1 id="turkey">TURKEY</h1>
+
+<blockquote>
+  <h3 id="turkey-has-a-significant-role-in-forcing-an-end-to-the-war">Turkey has a significant role in forcing an end to the war?</h3>
+
+  <p>Turkish President Recep Tayyip Erdogan is playing his game. It must be said that - disagreeing with his internal politics and attitude towards the EU - he plays it efficiently. Last year, with the support of Turkey, Azerbaijan successfully started recapture Nagorno-Karabakh. Armenia’s troops were defeated, and Azerbaijan took whatever he wanted, at the same time inviting the Russians to act as mirotors - peacekeepers that would separate the parties.</p>
+
+  <p>Erdogan has a plan to support those countries that belong to the broadly understood Turkish language and sphere of influence, while not openly conflicting with Russia.</p>
+
+  <p>Now Turkey is supplying weapons, including combat drones, to Ukraine. Erdogan also offers Turkey as a place for peace talks.</p>
+
+  <p>Erdogan’s attitude towards the war in Ukraine is as follows: we do not agree with this war and we give room for peace talks. But since this is not our war, let no one complain that we are selling - this is important: we are selling - our military equipment to Ukraine. Erdogan likes Russia’s long-term weakening. I think that regionally Erdogan will soon want to use it in Central Asia and the Caucasus.</p>
+</blockquote>
+
+<p>This translation continues.</p>
+
+<p>—– <strong>190.6</strong> —–2022-03-20 22:50:51+08:00:</p>
+
+<p>Translation of Interview from: https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28238646,kwasniewski-20-lat-temu-mialem-z-putinem-rozmowe-w-cztery-oczy.html</p>
+
+<h1 id="european-union">EUROPEAN UNION</h1>
+
+<blockquote>
+  <h3 id="are-pro-mutinist-formations-and-politicians-now-bankrupt-in-the-european-union-irreversible">Are pro-mutinist formations and politicians now bankrupt in the European Union? Irreversible?</h3>
+
+  <p>In the coming months, such formations will be in retreat in the EU. In France, if Marine Le Pen enters the second round of the presidential election - which would be the most convenient for Emmanuel Macron - he will get a whip for his love for Putin.</p>
+
+  <p>Matteo Salvini, as evidenced by his reaction to the President of Przemyśl being presented with Putin’s T-shirt, would like to run away and forget how he praised Putin.</p>
+
+  <h3 id="and-you-can-get-away-from-it-at-all">And you can get away from it at all?</h3>
+
+  <p>Many people would now like to escape from their fascination with Putin, because people in Europe see images of war and death, which are Putin’s fault. Everyone sees the one-sidedness of his aggression. Any arguments that Ukraine posed a threat to Russia are nonsense. Nobody will believe that Zelenskiy is a neo-Nazi. How could a Jew, whose family was largely lost in the Holocaust, be a Nazi? How could Zelenskiy, who grew up in the culture of the Russian language, want to attack Russia? After all, this is the Kremlin’s propaganda madness.</p>
+
+  <p>Pro-Putin politicians - I repeat - will be in retreat in the coming months, but if the war continues for a long time, then - unfortunately - knowing the nature of people, especially those who are fed up in Europe, we will be occupied with other topics, and the war will be relegated to the background. We can become indifferent - this is a great risk.</p>
+</blockquote>
+
+<h1 id="poland">POLAND</h1>
+
+<blockquote>
+  <h3 id="the-pis-government-is-returning-to-the-west">The PiS government is returning to the West?</h3>
+
+  <p>I hope. Today, everyone is aware that we need more unity, because in the face of such conflicts no one can handle it on his own. I think it will weaken anti-European aspirations and stop ideas of breaking up the EU or imitating Brexit, because it would be suicidal.</p>
+
+  <h3 id="do-you-see-the-reset-when-it-comes-to-polands-position-in-the-eu">Do you see the reset when it comes to Poland’s position in the EU?</h3>
+
+  <p>This reset is a fact of life. Information is spreading around the world that over 2 million refugees have already arrived in Poland and they are finding help - people are already waiting at the border with food and offer a roof over their heads. It is the open heart of Poles that builds the image of Poland as a country of solidarity. The help that Poles bring to refugees makes a colossal impression in the West. It must also be said here that in a similar vein there is talk of Slovaks or Romanians, but of course the most refugees are in our country.</p>
+
+  <h3 id="after-the-reset-however-the-system-returns-to-its-previous-stability">After the reset, however, the system returns to its previous stability.</h3>
+
+  <p>Social and political resets are not like computer and phone resets. The change has come and nothing will ever be the same as it was before this war. All the while, let’s hope it doesn’t extend westward. In worse scenarios, Western Ukraine will also be engulfed in war. There is also a risk that it cannot be ruled out with absolute certainty that Putin will decide to go to Lithuania, Latvia or Poland. Then it will not be possible to talk about a reset, but about a NATO-Russia war.</p>
+
+  <p>However, assuming that Ukraine - in a heroic battle and thanks to the support of the world - will force the Russians to withdraw, the world will certainly not be the same anymore. I cannot imagine that it would be possible to return to a similar policy with Russia, and especially with Putin’s Russia. It will be necessary to maintain sanctions for years and absolute distrust of the Kremlin.</p>
+
+  <h3 id="the-pis-governments-policy-towards-the-eu-will-not-be-as-before">The PiS government’s policy towards the EU will not be as before?</h3>
+
+  <p>Understanding the need for cooperation in the EU will mitigate politicians such as PiS leaders. In view of the threat from Russia, it is necessary to move from the sidelines towards the EU’s decision-making currents.</p>
+
+  <p>Tensions are to be expected in Poland. Long-term government policy must replace the reflexes of the heart. Over time, fatigue and - what is inevitable - will surely emerge - tensions that can be exploited by cynical politicians. It is at such moments of rehearsal that the characters come true. Some politicians will turn out to be cowards and selfish, others are dedicated and brave, even if we did not suspect them of it before.</p>
+</blockquote>
+
+<p>This is the last part of the translation.</p>
+
+<p>—– <strong>190.7</strong> —–2022-03-20 23:19:56+08:00:</p>
+
+<p>I think it’s really important to share non-English international perspectives, like these.  I would like to see more submissions from international sources.</p>
+
+<p>—– <strong>190.8</strong> —–2022-03-20 23:39:16+08:00:</p>
+
+<blockquote>
+  <p>The whole thing is about NATO.</p>
+</blockquote>
+
+<p>Why do you think that?</p>
+
+<p>—– <strong>190.9</strong> —–2022-03-21 00:14:23+08:00:</p>
+
+<p>Putin invaded Ukraine because he believes that a Ukraine affiliated with Western Europe or NATO is a threat to Russia.  Putin’s perceptions of threats to Russia is what this is all about.  NATO is one category of such threats, in his view.</p>
+
+<p>—– <strong>190.10</strong> —–2022-03-21 00:16:53+08:00:</p>
+
+<p>It’s really incredible to me that people writing for think tanks in Washington who have never spent more than a day in Eastern Europe think they can predict Putin’s next move.  It’s clear to me that they don’t understand why he moved in the first place.  Mike Baker’s perspective on this mirror’s my own.</p>
+
+<p>—– <strong>190.11</strong> —–2022-03-21 00:25:16+08:00:</p>
+
+<p>Kwasniewski’s take was harsh.  But, if by “we” you mean “Americans,” then it’s reasonable to question whether people writing for think tanks could possibly get anything right  in understanding Putin or his foreign policy.  That cohort, after all, only knows what other people writing for think tanks have said.  At the considerable risk of being profane, that kind of quasi-intellectual circle-jerk is dangerous because it creates strategic blind spots that can’t be overcome with more of that same thinking.</p>
+
+<p>There’s a tendency among Western-foreign policy types to try to project Western values and ideals on other people or assume that whenever other actors in the world aren’t acting according to those expectations, that they’re “insane” or have lost their mind.  The problem is that being crazy can’t be measured by conformity or nonconformity with Washington think-tank’s expectations.</p>
+
+<p>I have never seen more such strategic blindness than prior to Vladimir Putin’s invading Ukraine.</p>
+
+<p>—– <strong>190.12</strong> —–2022-03-21 08:24:44+08:00:</p>
+
+<p>People outside the United States are a lot more aware of the United States than the United States is aware of them.</p>
+
+<p>—– <strong>190.13</strong> —–2022-03-21 08:26:45+08:00:</p>
+
+<p>Credit to u/boskee, because this was his find.</p>
+
+<p>—– <strong>190.14</strong> —–2022-03-21 08:34:17+08:00:</p>
+
+<p>No.  There is <em>nothing</em> about Ukraine that was unpredictable, if people just listened to what Putin said and considered it in the context of his past actions.  But the problem is that the so-called “foreign policy” advisors Biden has surrounded himself with are too busy blowing smoke up one another’s posteriors to see the elephant in the room.</p>
+
+<p>—– <strong>190.15</strong> —–2022-03-21 08:35:00+08:00:</p>
+
+<p>Germany’s irrational hostility to nuclear energy is mainly to blame for that.</p>
+
+<p>—– <strong>190.16</strong> —–2022-03-21 09:26:55+08:00:</p>
+
+<blockquote>
+  <p>His own CIA director has been warning about this very thing for more than a decade.</p>
+</blockquote>
+
+<p>The CIA got it right, for sure.  I think with more resources, they would have done even better.</p>
+
+<p>—– <strong>190.17</strong> —–2022-03-21 19:52:23+08:00:</p>
+
+<p>Gates is correct.</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-03-27</time>
+        <a href="https://nodebe4.github.io/opinion/2022-03-27/EnclavedMicrostate/">
+          EnclavedMicrostate在2022-03-21~2022-03-27的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-03-25</time>
+        <a href="https://nodebe4.github.io/opinion/2022-03-25/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-03-21~2022-03-27的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-03-20</time>
+        <a href="https://nodebe4.github.io/opinion/2022-03-20/Spinkcat/">
+          Spinkcat在2022-03-14~2022-03-20的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-03-20</time>
+        <a href="https://nodebe4.github.io/opinion/2022-03-20/EnclavedMicrostate/">
+          EnclavedMicrostate在2022-03-14~2022-03-20的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-03-20/realcaixia/">
+            前一篇：Twitter @蔡霞: 2022-03-14~2022-03-20
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-03-20/wangdan1989/">
+            後一篇：Twitter @王丹: 2022-03-14~2022-03-20
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-03-20/realcaixia/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-03-20/wangdan1989/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-03-25/ForeignAffairsMag/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-03-20/Spinkcat/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-03-20/realcaixia/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-03-20/wangdan1989/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-03-25/ForeignAffairsMag/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-03-20/Spinkcat/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

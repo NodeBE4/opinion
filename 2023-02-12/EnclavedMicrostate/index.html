@@ -1,0 +1,2372 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>EnclavedMicrostate在2023-02-06~2023-02-12的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="EnclavedMicrostate在2023-02-06~2023-02-12的言论" />
+    <meta property="twitter:title" content="EnclavedMicrostate在2023-02-06~2023-02-12的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FHobbyDrama%2Fcomments%2F10unm05%2Fhobby_scuffles_week_of_february_5_2023%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/HobbyDrama/comments/10unm05/hobby_scuffles_week_of_february_5_2023/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/HobbyDrama/comments/10unm05/hobby_scuffles_week_of_february_5_2023/&text=EnclavedMicrostate在2023-02-06~2023-02-12的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/HobbyDrama/comments/10unm05/hobby_scuffles_week_of_february_5_2023/&title=EnclavedMicrostate在2023-02-06~2023-02-12的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/HobbyDrama/comments/10unm05/hobby_scuffles_week_of_february_5_2023/&title=EnclavedMicrostate在2023-02-06~2023-02-12的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=EnclavedMicrostate在2023-02-06~2023-02-12的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/HobbyDrama/comments/10unm05/hobby_scuffles_week_of_february_5_2023/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/HobbyDrama/comments/10unm05/hobby_scuffles_week_of_february_5_2023/&title=EnclavedMicrostate在2023-02-06~2023-02-12的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=EnclavedMicrostate在2023-02-06~2023-02-12的言论&url=https://old.reddit.com/r/HobbyDrama/comments/10unm05/hobby_scuffles_week_of_february_5_2023/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>EnclavedMicrostate在2023-02-06~2023-02-12的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2023-02-12
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: EnclavedMicrostate</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/HobbyDrama/comments/10unm05/hobby_scuffles_week_of_february_5_2023/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#1092-hobby-scuffles-week-of-february-5-2023-submitted-on-2023-02-06-0510000800" id="markdown-toc-1092-hobby-scuffles-week-of-february-5-2023-submitted-on-2023-02-06-0510000800">1092: [Hobby Scuffles] Week of February 5, 2023, submitted on 2023-02-06 05:10:00+08:00.</a></li>
+  <li><a href="#1093-who-were-the-greatest-italian-military-commanders-of-the-early-modern-era-1400-1800-submitted-on-2023-02-06-1012580800" id="markdown-toc-1093-who-were-the-greatest-italian-military-commanders-of-the-early-modern-era-1400-1800-submitted-on-2023-02-06-1012580800">1093: Who were the greatest Italian military commanders of the early modern era? (1400-1800), submitted on 2023-02-06 10:12:58+08:00.</a></li>
+  <li><a href="#1094-ah-yes-my-modern-attack-helicopter-with-who-knows-how-many-highly-explosive-rockets-and-possibly-multiple-machine-guns-can-barely-scratch-a-couple-1700s-dudes-with-rifles-submitted-on-2023-02-06-1908370800" id="markdown-toc-1094-ah-yes-my-modern-attack-helicopter-with-who-knows-how-many-highly-explosive-rockets-and-possibly-multiple-machine-guns-can-barely-scratch-a-couple-1700s-dudes-with-rifles-submitted-on-2023-02-06-1908370800">1094: Ah yes, my modern attack helicopter with who knows how many highly explosive rockets and possibly multiple machine guns, can barely scratch a couple 1700s dudes with rifles, submitted on 2023-02-06 19:08:37+08:00.</a></li>
+  <li><a href="#1095-dark-darker-darkest---weekly-discussion-thread-feb-6th-2023-submitted-on-2023-02-07-0026140800" id="markdown-toc-1095-dark-darker-darkest---weekly-discussion-thread-feb-6th-2023-submitted-on-2023-02-07-0026140800">1095: Dark Darker Darkest - Weekly Discussion Thread, Feb 6th, 2023, submitted on 2023-02-07 00:26:14+08:00.</a></li>
+  <li><a href="#1096-in-large-parts-of-chinese-history-china-has-been-united-but-then-it-falls-and-fractures-again-so-were-the-several-rises-and-falls-of-disparate-chinese-dynasties-one-continuous-state-evolution-or-can-they-be-treated-as-rise-of-different-empires-just-happening-to-lie-in-the-same-geographical-region-submitted-on-2023-02-08-0912210800" id="markdown-toc-1096-in-large-parts-of-chinese-history-china-has-been-united-but-then-it-falls-and-fractures-again-so-were-the-several-rises-and-falls-of-disparate-chinese-dynasties-one-continuous-state-evolution-or-can-they-be-treated-as-rise-of-different-empires-just-happening-to-lie-in-the-same-geographical-region-submitted-on-2023-02-08-0912210800">1096: In large parts of Chinese history, China has been united but then it falls and fractures again. So were the several rises and falls of disparate Chinese dynasties one continuous state evolution or can they be treated as rise of different empires just happening to lie in the same geographical region?, submitted on 2023-02-08 09:12:21+08:00.</a></li>
+  <li><a href="#1097-nijisanjis-zaion-lanza-has-been-suspended-submitted-on-2023-02-08-2006270800" id="markdown-toc-1097-nijisanjis-zaion-lanza-has-been-suspended-submitted-on-2023-02-08-2006270800">1097: NIJISANJI’s Zaion LanZa Has Been Suspended, submitted on 2023-02-08 20:06:27+08:00.</a></li>
+  <li><a href="#1098-alexander-the-great-was-likely-buried-alive-his-body-didnt-decompose-until-six-days-after-his-declared-death-its-theorized-he-suffered-from-gillian-barre-syndrome-gbs-leaving-one-completely-paralyzed-but-yet-of-sound-mind-and-consciousness-submitted-on-2023-02-09-0929510800" id="markdown-toc-1098-alexander-the-great-was-likely-buried-alive-his-body-didnt-decompose-until-six-days-after-his-declared-death-its-theorized-he-suffered-from-gillian-barre-syndrome-gbs-leaving-one-completely-paralyzed-but-yet-of-sound-mind-and-consciousness-submitted-on-2023-02-09-0929510800">1098: Alexander the Great was likely buried alive. His body didn’t decompose until six days after his declared “death.” It’s theorized he suffered from Gillian-Barre Syndrome (GBS), leaving one completely paralyzed but yet of sound mind and consciousness., submitted on 2023-02-09 09:29:51+08:00.</a></li>
+  <li><a href="#1099-yep-i-i-totally-understand-submitted-on-2023-02-09-1531250800" id="markdown-toc-1099-yep-i-i-totally-understand-submitted-on-2023-02-09-1531250800">1099: Yep I i totally understand, submitted on 2023-02-09 15:31:25+08:00.</a></li>
+  <li><a href="#1100-can-someone-translate-the-instructions-on-this-tea-please-submitted-on-2023-02-10-0619080800" id="markdown-toc-1100-can-someone-translate-the-instructions-on-this-tea-please-submitted-on-2023-02-10-0619080800">1100: Can someone translate the instructions on this tea please?, submitted on 2023-02-10 06:19:08+08:00.</a></li>
+  <li><a href="#1101-meta-can-we-get-two-new-regulations-regarding-bad-answers-in-this-sub-submitted-on-2023-02-10-1100060800" id="markdown-toc-1101-meta-can-we-get-two-new-regulations-regarding-bad-answers-in-this-sub-submitted-on-2023-02-10-1100060800">1101: [META] Can we get two new regulations regarding bad answers in this sub?, submitted on 2023-02-10 11:00:06+08:00.</a></li>
+  <li><a href="#1102-what-determines-real-estate-allocation-in-a-currency-free-society-submitted-on-2023-02-10-1303510800" id="markdown-toc-1102-what-determines-real-estate-allocation-in-a-currency-free-society-submitted-on-2023-02-10-1303510800">1102: What determines real estate allocation in a currency-free society?, submitted on 2023-02-10 13:03:51+08:00.</a></li>
+  <li><a href="#1103-why-did-malyasia-and-indonesia-and-brunei-end-up-as-separate-states-after-decolonisation-rather-than-a-single-state-both-regions-have-malay-as-a-lingua-franca-long-histories-of-connection-and-a-shared-border-on-borneo-was-it-just-continuity-from-the-colonial-period-or-was-there-more-at-work-submitted-on-2023-02-11-0151330800" id="markdown-toc-1103-why-did-malyasia-and-indonesia-and-brunei-end-up-as-separate-states-after-decolonisation-rather-than-a-single-state-both-regions-have-malay-as-a-lingua-franca-long-histories-of-connection-and-a-shared-border-on-borneo-was-it-just-continuity-from-the-colonial-period-or-was-there-more-at-work-submitted-on-2023-02-11-0151330800">1103: Why did Malyasia and Indonesia (and Brunei) end up as separate states after decolonisation, rather than a single state? Both regions have Malay as a lingua franca, long histories of connection, and a shared border on Borneo. Was it just continuity from the colonial period, or was there more at work?, submitted on 2023-02-11 01:51:33+08:00.</a></li>
+  <li><a href="#1104-why-isnt-chinese-history-as-popular-or-well-known-as-european-history-submitted-on-2023-02-11-1721350800" id="markdown-toc-1104-why-isnt-chinese-history-as-popular-or-well-known-as-european-history-submitted-on-2023-02-11-1721350800">1104: Why isn’t Chinese history as popular or well-known as European history?, submitted on 2023-02-11 17:21:35+08:00.</a></li>
+  <li><a href="#1105-is-the-legacy-of-artemisia-i-of-caria-significant-submitted-on-2023-02-12-0527330800" id="markdown-toc-1105-is-the-legacy-of-artemisia-i-of-caria-significant-submitted-on-2023-02-12-0527330800">1105: Is the legacy of Artemisia I of Caria significant?, submitted on 2023-02-12 05:27:33+08:00.</a></li>
+  <li><a href="#1106-hobby-scuffles-week-of-february-13-2023-submitted-on-2023-02-12-2300110800" id="markdown-toc-1106-hobby-scuffles-week-of-february-13-2023-submitted-on-2023-02-12-2300110800">1106: [Hobby Scuffles] Week of February 13, 2023, submitted on 2023-02-12 23:00:11+08:00.</a></li>
+</ul>
+
+<h3 id="1092-hobby-scuffles-week-of-february-5-2023-submitted-on-2023-02-06-0510000800">1092: <a href="https://old.reddit.com/r/HobbyDrama/comments/10unm05/hobby_scuffles_week_of_february_5_2023/">[Hobby Scuffles] Week of February 5, 2023</a>, submitted on 2023-02-06 05:10:00+08:00.</h3>
+
+<p>—– <strong>1092.1</strong> —–2023-02-06 09:29:10+08:00:</p>
+
+<p>Oh don’t worry, we are here, and we know it.</p>
+
+<p>—– <strong>1092.2</strong> —–2023-02-07 16:45:38+08:00:</p>
+
+<blockquote>
+  <p>“But wouldn’t Mandarin be better for work?”</p>
+</blockquote>
+
+<p>I mean the key thing to remember is that the standardisation of Chinese around Mandarin is a north-Chinese, Han-centric hegemonic initiative to destroy regional distinctiveness in pursuit of a singular national homogeny in an attempt to sustain the necrotic remnants of Manchu dynastic imperialism.</p>
+
+<p>/s but also not really</p>
+
+<p>—– <strong>1092.3</strong> —–2023-02-07 16:58:22+08:00:</p>
+
+<p>Honestly I’m surprised the comparison is to r/scp and not r/AskHistorians…</p>
+
+<p>—– <strong>1092.4</strong> —–2023-02-07 17:57:15+08:00:</p>
+
+<blockquote>
+  <p>even if I think people overstate it by indicating it was a veiled slur.</p>
+</blockquote>
+
+<p>So you can make the case that it’s <em>theoretically</em> not. In the Wade-Giles Romanisation of Mandairn, ‘Chang Cho’ corresponds to Pinyin ‘Zhang Zhuo’, and there <em>are</em> people today named that (typically 張卓/张卓).</p>
+
+<p>However, I am sceptical that Rowling was looking meaningfully at Mandarin names, or at their context, because if she had then she’d have been aware that bisyllabic given names are much more common. Moreover, the fact that ‘Cho Chang’ is <em>a</em> plausible name is not the same as saying it is the <em>only</em> plausible name that could have been chosen, and it’s the nature of that choice, not the plausibility of the outcome, that is being contended over. I can’t speculate over Rowling’s intentions because I’m not inside her brain, but I’ll certainly grant that ‘Cho Chang’ is, at the <em>very least</em>, distinctly ‘generic Asian’-sounding and at worst infantilisingly racist, even if Rowling wasn’t consciously evoking the particular slur being discussed.</p>
+
+<p>By way of clumsy and, I will fully admit, not particularly comparable analogy, it’d be like me naming a German character ‘Adolf Goering’ and saying ‘well Adolf is a real name, and there are still Goerings about, which means the name is plausible and there is no specific intention behind me choosing that particular first name and surname combination.’ Or, more frivolously, if I named a character ‘Gaylord Cockburn’ you would imagine some kind of intentionality to it. That’s how I see ‘Cho Chang’.</p>
+
+<p>—– <strong>1092.5</strong> —–2023-02-07 19:55:18+08:00:</p>
+
+<p>It absolutely doesn’t help that to Chinese cultural elites, non-Mandarin languages are essentially branded as ‘lesser’, or as relics to be consigned to the dustbin of linguistic extinction.</p>
+
+<p>—– <strong>1092.6</strong> —–2023-02-08 01:30:01+08:00:</p>
+
+<p>We are famously draconian.</p>
+
+<p>—– <strong>1092.7</strong> —–2023-02-11 08:39:17+08:00:</p>
+
+<p>A fast track to popularity, access to centralised resources, a group of like-minded people, business contacts, streamlined management and legal support, network arrangements that make things easier with hosting platforms…</p>
+
+<p>—– <strong>1092.8</strong> —–2023-02-11 08:51:39+08:00:</p>
+
+<p>While it’s true that evidence of experience is typically required, that’s not to say that only people with substantial <em>popularity</em> get in. Speaking for HoloID’s 3rd generation, Zeta and Kaela were very minor pre-Hololive, and I don’t think <em>anyone</em> knows who Kobo was beforehand. As for Tempus (base game), only Magni was <em>that</em> substantially followed. Altare and Axel were pretty minor, while Vesper had a bit more audience but was still relatively niche. Arguably HoloCouncil was unusual in just how heavy-hitting those that got in had been beforehand, but even that had one relatively obscure member (Bae). So yes, an existing presence is needed, but not a particularly substantial one.</p>
+
+<h3 id="1093-who-were-the-greatest-italian-military-commanders-of-the-early-modern-era-1400-1800-submitted-on-2023-02-06-1012580800">1093: <a href="https://old.reddit.com/r/AskHistorians/comments/10uusxe/who_were_the_greatest_italian_military_commanders/">Who were the greatest Italian military commanders of the early modern era? (1400-1800)</a>, submitted on 2023-02-06 10:12:58+08:00.</h3>
+
+<p>—– <strong>1093.1</strong> —–2023-02-06 16:54:46+08:00:</p>
+
+<p>This submission has been removed because it violates the <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions">rule on poll-type questions</a>. These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the “most”, the “worst”, “unknown”, or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult <a href="https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/">this Roundtable discussion</a>.</p>
+
+<p>For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.</p>
+
+<h3 id="1094-ah-yes-my-modern-attack-helicopter-with-who-knows-how-many-highly-explosive-rockets-and-possibly-multiple-machine-guns-can-barely-scratch-a-couple-1700s-dudes-with-rifles-submitted-on-2023-02-06-1908370800">1094: <a href="https://old.reddit.com/r/civ/comments/10v3zos/ah_yes_my_modern_attack_helicopter_with_who_knows/">Ah yes, my modern attack helicopter with who knows how many highly explosive rockets and possibly multiple machine guns, can barely scratch a couple 1700s dudes with rifles</a>, submitted on 2023-02-06 19:08:37+08:00.</h3>
+
+<p>—– <strong>1094.1</strong> —–2023-02-06 21:39:42+08:00:</p>
+
+<p>Muskets rather than rifles, one would have thought.</p>
+
+<h3 id="1095-dark-darker-darkest---weekly-discussion-thread-feb-6th-2023-submitted-on-2023-02-07-0026140800">1095: <a href="https://old.reddit.com/r/VirtualYoutubers/comments/10vatwp/dark_darker_darkest_weekly_discussion_thread_feb/">Dark Darker Darkest - Weekly Discussion Thread, Feb 6th, 2023</a>, submitted on 2023-02-07 00:26:14+08:00.</h3>
+
+<p>—– <strong>1095.1</strong> —–2023-02-10 06:14:39+08:00:</p>
+
+<p>Oh yes, absolutely. I remember virtually nothing of it but Yogscast defined a decent chunk of my tweens and early teens.</p>
+
+<h3 id="1096-in-large-parts-of-chinese-history-china-has-been-united-but-then-it-falls-and-fractures-again-so-were-the-several-rises-and-falls-of-disparate-chinese-dynasties-one-continuous-state-evolution-or-can-they-be-treated-as-rise-of-different-empires-just-happening-to-lie-in-the-same-geographical-region-submitted-on-2023-02-08-0912210800">1096: <a href="https://old.reddit.com/r/AskHistorians/comments/10wj2lk/in_large_parts_of_chinese_history_china_has_been/">In large parts of Chinese history, China has been united but then it falls and fractures again. So were the several rises and falls of disparate Chinese dynasties one continuous state evolution or can they be treated as rise of different empires just happening to lie in the same geographical region?</a>, submitted on 2023-02-08 09:12:21+08:00.</h3>
+
+<p>—– <strong>1096.1</strong> —–2023-02-09 06:16:53+08:00:</p>
+
+<p>So, there are any number of perspectives on this, but to lay out my <em>own</em> position, informed by my familiarity primarily with Qing scholarship, it is better to conceive of imperial China as comprising a contiguous set of political traditions claimed by a variety of non-consecutive states, rather than as a singular polity whose mantle passed between ruling families.</p>
+
+<p>The first and most obvious case to consider is, what happens when there is more than one empire at the same time? Because to be quite frank, there has almost never been a Chinese empire where power simply passed from one ruling house to another at the top. ‘Civil’ wars, or perhaps more accurately wars of imperial competition, were the norm rather than the exception; virtually never was there a peaceful transition of power between dynastic houses, with perhaps the only notable exception being the Sima clan’s usurpation of the state of Wei from the Cao family to found the state of Jin in 265 CE; even that was, however, effectively a bloodless coup coming at the tail end of a major civil war within Wei. Even seemingly ‘clean’ transitions involved the foundation of a new state outright, but new states didn’t necessarily emerge with ambitions of assuming hegemonic status. For instance, the state of Latter Jin was founded in 1618 and refounded as the Great Qing in 1636, but we don’t really know exactly when it began seriously intending to conquer the lands of the Ming Empire. For its part, the Ming Empire never assumed the full territorial scope of the Yuan, which in any event <em>did not simply end in 1368</em>. The Northern Yuan continued, albeit in an increasingly ceremonial capacity, until the surrender of Lighdan Khan to the Jurchens in 1634.</p>
+
+<p>To give an example of how empires overlapped temporally, the Qing conquest of the former Ming Empire actually serves as quite a good example. The Great Qing was, as noted above, founded in 1636. But at this juncture it only ruled over Manchuria, and not China proper. Its first permanent control of China proper came in 1644, when a rebel army besieged and captured Beijing, leading in turn to Qing forces being invited into China by Ming a frontier general, Wu Sangui, who defected to the Manchus. But if 1644 did not mark the beginning of the Qing Empire itself, neither did it mark the start of total Qing control of China: the completion of conquest was still more than a decade away. Nor did it mark the end of the Ming Empire, as branch lines of the Zhu clan declared a continued Ming Empire in southern China. The Qing would not stamp these remnants out in continental Asia until 1662, but that same year loyalist elements expelled the Dutch from Taiwan, leaving a Ming remnant across the strait. Formal control over southern China was delegated to three ‘feudatory’ states after 1655, but abolished in 1681 the wake of a revolt by these feudatories in the 1670s. Not until 1683 would the Ming loyalist remnants on Taiwan be stamped out.</p>
+
+<p>So, if we were to use the ‘continuous empire’ model, at which of these junctures do we consider the Ming to have ended and the Qing to have begun?</p>
+
+<ul>
+  <li>1636? But the Qing had yet to conquer <em>any</em> of China, which was still in Ming hands, however tenuously.</li>
+  <li>1644? But there was still a Ming emperor (well, at least three competing ones) ruling over territory the Qing didn’t yet control. Moreover, there was the rival Shun Empire, founded by the rebels who had dethroned the core Ming line that year.</li>
+  <li>1662? But the Qing had yet to administratively integrate the south, nor deal with the last Ming remnants.</li>
+  <li>1683? But this is just the reverse of the 1636 case – the Ming remnants on Taiwan hadn’t meaningfully contested Qing rule over China anyway.</li>
+</ul>
+
+<p>The answer is that it is a trick question. We should not use the ‘continuous empire’ model. That being said, imperial transitions still did happen at the <em>local</em> level. We <em>can</em> give dates for when one region passed from one empire to another. For instance, if you were to visit a museum on Taiwan today, typically Ming reign dates are used up to the Qing conquest <em>of Taiwan</em> in 1683, rather than switching over in 1644 per the traditional, arbitrary chronology which uses the capture of Beijing as the transitional point. As far as the modern Taiwanese are concerned, the Ming-Qing transition, in chronological terms, is marked in terms of a <em>local</em> transition of power, not an abstract shift in the rulership of ‘China’. And how would we speak of regions that were not consistently part of a ‘canonical’ empire? Is the history of Xinjiang part of Chinese history in general, or just between 60-220, 640-763, and from 1757 onward? Is the history of Yunnan ‘Chinese’ history, or only after 1253?</p>
+
+<p>The ‘continuous empire’ model breaks down further in scenarios where the ‘new’ state didn’t actually manage to fully ‘unite’ China, however defined. We have seen how the Ming didn’t actually conquer the Yuan outright, just displace it from China proper. But going back in time, the Song Empire, which united most of China by 960, failed to conquer what are now Hebei and Liaodong from the Khitan-ruled Great Liao, but despite the relatively limited territory the Liao held, this was enough to be a substantial hamper to Song prestige claims. This was further compounded when the Jurchen-ruled Jin state defeated the Liao and then conquered China up to the Huai River. So, who is ‘China’ in this instance? Classically, the traditional timeline of succession regards the Song as the legitimate successor to the Tang and completely sidelines the Liao and Jin, but that designation is completely arbitrary.</p>
+
+<p>But not only did these periods represent a time of political division, there’s also a strong case to be made that prolonged non-Han rule in the north was beginning to cause an ethnographic divide. The Song, Liao, and Jin all had somewhat different language to describe their own Sinitic subjects versus those in their rival state, and this administrative division may – though we do not know with certainty – have had effects on self-identification. This division continued under the Yuan, who designated people as <em>Hanren</em> or <em>Songren</em> depending on whether they or their male-line ancestors were subjects of the Jin or the Song at the time of conquest. Had the eventual Red Turban revolt that established the Ming failed to push far enough north, or had the emperor they installed been less totalising in his intent to ‘de-Mongolify’ China following his victory, we may well have ended up with a permanent bifurcation of the Han Chinese into two separate population groups, which may conceivably have ended up with divergent histories of statehood. The assertion of Song legitimacy is one that really only makes sense from the retrospective view of the unified rule of China by the Yuan, Ming, and Qing Empires, and the consolidation of China proper as both a geographical and a demographic space under the latter two empires.</p>
+
+<p>Even then, relics of that political division survive in modern English. The term ‘Cathay’, which derives from ‘Khitai’, originally referred specifically to <em>northern</em> China, i.e. the former Jin lands, while ‘China’, coined by Marco Polo, referred solely to the south that had been ruled by the Song. While near-synonymous today, there was nevertheless a time when European outsiders, based on accurate information about China’s administration under the Yuan, regarded the north-south division as a natural one, temporarily bridged by Mongolian imperialism. Such north-south divides threatened to recur afterward, especially under the Qing: the Three Feudatories revolt of the 1670s, the Taiping War in the 1850s-60s, and the 1911 Revolution, all threatened to once again split China between a Han-ruled south and a non-Han-ruled north, should neither side have succeeded in achieving total victory.</p>
+
+<p>Finally we just need to talk about the nomenclature here. There is no Chinese word that maps onto the same variety of meanings encompassed by the English word ‘China’; or, to put it another way, the English word ‘China’ is used to encompass a variety of meanings that exist as individual terms in Chinese, if they even do at all. Paradoxically, this flexibility is at times deliberately reabsorbed and appropriated by the more nationalistic strand of Chinese historians to argue that if a particular empire had <em>a</em> concept of a ‘China’ in some way, that it must therefore have been the <em>same</em> concept of China as used today. But even the term <em>Zhongguo</em> 中國, the closest analogue to ‘China’ that exists in Chinese, has had a variety of meanings over time. When first coined in the Warring States period, it was a plural meaning ‘the central state<strong>s</strong>’ that referred to the collective of the states that nominally recognised Zhou hegemony, or it was used in the singular to refer specifically to the Zhou as the nominal hegemon. Sometimes it was used to refer to a space defined by cultural cachet, at others to state boundaries. The Ming would use <em>Zhongguo</em> to denote a geographical region that we might term ‘China proper’, while excluding their outer imperial holdings, but the Qing used it more generally to refer to all of the territory under their rule. These are all different uses of the term <em>Zhongguo</em>, and its reuse over time is not in itself fundamentally convincing as to state continuity, especially when not all states agreed on what territory the term encompassed. Indeed, one thing to note is that the use of <em>Zhongguo</em> to describe the whole territory of a state may well be a Manchu calque: <em>dulimba-i gurun</em>, ‘central polity’, is a term with distinct Khitan and Jurchen precedents, and may have influenced <em>Zhongguo</em> rather than the other way around. Moreover, that these states did <em>not</em> simply reuse a shared term for their own territorial scope is indicative of the genuine notion that these were different empires. Empires with some shared political traditions, and overlapping territory, but nevertheless different.</p>
+
+<p>—– <strong>1096.2</strong> —–2023-02-09 06:20:21+08:00:</p>
+
+<p>If you want a perspective from someone with a bit more scholarly training and expertise, I’d recommend a read of <a href="https://worldhistoryconnected.press.uillinois.edu/5.2/perdue.html">this 2008 open-access article by Peter Perdue</a>, who covers many of the issues I do here but with a great deal more eloquence and concision. Nevertheless I hope the above has been at least decently thought-provoking.</p>
+
+<p>—– <strong>1096.3</strong> —–2023-02-09 10:33:55+08:00:</p>
+
+<p>And you presume correctly!</p>
+
+<p>—– <strong>1096.4</strong> —–2023-02-11 18:00:58+08:00:</p>
+
+<p>There’s absolutely a strand of ‘unificationist’ thinking in Chinese grand strategy, but the thing is, there was never a consistent geographical definition of what ‘China’ one was supposed to ‘unify’. In practice, this was usually <em>suspiciously</em> similar to the land encompassed by the empire claiming to have achieved ‘unification’, irrespective of additional conquests or missing breakaway regions. The Song did indeed fail to fully ‘unify’ China’s cultural space, but their policies of ethnographic classification that I mention in the above answer fall into a general pattern of essentialising ‘China’ into the lands of the Song Empire to the exclusion of their allegedly ‘lost’ territory; the Ming were arguably huffing from the same bottle of copium when they gave up on military interventionism in the steppe and built the Great Wall, or when they were forced out of Vietnam. In this regard, the PRC is actually relatively unusual – although the timescale is still a bit shorter – in that it has not dropped its irredentist claims to Taiwan.</p>
+
+<h3 id="1097-nijisanjis-zaion-lanza-has-been-suspended-submitted-on-2023-02-08-2006270800">1097: <a href="https://old.reddit.com/r/VirtualYoutubers/comments/10wv0df/nijisanjis_zaion_lanza_has_been_suspended/">NIJISANJI’s Zaion LanZa Has Been Suspended</a>, submitted on 2023-02-08 20:06:27+08:00.</h3>
+
+<p>—– <strong>1097.1</strong> —–2023-02-09 00:25:44+08:00:</p>
+
+<p>…<strong><em>yikes</em></strong></p>
+
+<h3 id="1098-alexander-the-great-was-likely-buried-alive-his-body-didnt-decompose-until-six-days-after-his-declared-death-its-theorized-he-suffered-from-gillian-barre-syndrome-gbs-leaving-one-completely-paralyzed-but-yet-of-sound-mind-and-consciousness-submitted-on-2023-02-09-0929510800">1098: <a href="https://old.reddit.com/r/Damnthatsinteresting/comments/10xhfim/alexander_the_great_was_likely_buried_alive_his/">Alexander the Great was likely buried alive. His body didn’t decompose until six days after his declared “death.” It’s theorized he suffered from Gillian-Barre Syndrome (GBS), leaving one completely paralyzed but yet of sound mind and consciousness.</a>, submitted on 2023-02-09 09:29:51+08:00.</h3>
+
+<p>—– <strong>1098.1</strong> —–2023-02-09 18:07:41+08:00:</p>
+
+<p>Huh. You’d think they’d also mention that Plutarch’s source was the account of Eumenes’ <em>brother</em>.</p>
+
+<h3 id="1099-yep-i-i-totally-understand-submitted-on-2023-02-09-1531250800">1099: <a href="https://old.reddit.com/r/Hololive/comments/10xop9z/yep_i_i_totally_understand/">Yep I i totally understand</a>, submitted on 2023-02-09 15:31:25+08:00.</h3>
+
+<p>—– <strong>1099.1</strong> —–2023-02-10 00:20:39+08:00:</p>
+
+<p>Don’t forget the existence of a character of East Asian descent, Cho Chang, whose precise background is not stated (hence endless uncertainty over whether she’s Chinese or Korean), and whose name sounds <em>at best</em> horrendously generic and <em>at worst</em> like it might have been a slightly altered racial slur.</p>
+
+<h3 id="1100-can-someone-translate-the-instructions-on-this-tea-please-submitted-on-2023-02-10-0619080800">1100: <a href="https://old.reddit.com/r/ChineseTranslation/comments/10y81xh/can_someone_translate_the_instructions_on_this/">Can someone translate the instructions on this tea please?</a>, submitted on 2023-02-10 06:19:08+08:00.</h3>
+
+<p>—– <strong>1100.1</strong> —–2023-02-10 06:30:46+08:00:</p>
+
+<p>Hot: Pour the contents of one sachet into the cup. Directly add 200 mL of hot water and stir until even.</p>
+
+<p>Cold: First use 60 mL of hot water and stir until even, then add 140 mL of cold water or ice.</p>
+
+<p>Concentration can be to one’s personal tastes, increase or reduce water accordingly.</p>
+
+<h3 id="1101-meta-can-we-get-two-new-regulations-regarding-bad-answers-in-this-sub-submitted-on-2023-02-10-1100060800">1101: <a href="https://old.reddit.com/r/AskHistorians/comments/10yeh01/meta_can_we_get_two_new_regulations_regarding_bad/">[META] Can we get two new regulations regarding bad answers in this sub?</a>, submitted on 2023-02-10 11:00:06+08:00.</h3>
+
+<p>—– <strong>1101.1</strong> —–2023-02-10 23:54:41+08:00:</p>
+
+<p>We as moderators judge the usefulness of replies on a case-by-case basis. Sometimes a follow up is useful only in the context of the original comment being responded to, while occasionally something does just slip through the cracks.</p>
+
+<h3 id="1102-what-determines-real-estate-allocation-in-a-currency-free-society-submitted-on-2023-02-10-1303510800">1102: <a href="https://old.reddit.com/r/DaystromInstitute/comments/10ygtg2/what_determines_real_estate_allocation_in_a/">What determines real estate allocation in a currency-free society?</a>, submitted on 2023-02-10 13:03:51+08:00.</h3>
+
+<p>—– <strong>1102.1</strong> —–2023-02-10 19:17:57+08:00:</p>
+
+<blockquote>
+  <p>Earth’s. Population for example might only be measured in 100 millions or low billions.</p>
+
+</blockquote>
+
+<p>But where are they going, and, more crucially, how? We know that a fully-crammed <em>Galaxy</em>-class can carry 15,000 people (and that’s its absolute max capacity); to even halve Earth’s population from 8 billion to 4 billion, you’d be looking at nearly 270,000 trips by Galaxy-class ships bursting at the gunwales. By 2400, Earth has had viable long-distance warp for 250 years; if we average things out, that still means 1000 Galaxy-class ships stuffed with emigrants leaving Earth every single year – 3 every day(!), assuming we see no migration <em>to</em> Earth either.</p>
+
+<p>—– <strong>1102.2</strong> —–2023-02-10 19:58:32+08:00:</p>
+
+<p>According to Pike that saw 30% of the human population wiped out, so assuming no demographic recovery by 2150, that still means that in order to get to 4 billion (i.e. lose 1.6 billion), you’d need a little over 100,000 Galaxy-class trips, or 400 per year, or at least one fully-laden Galaxy leaving Earth every day and an extra at the weekend.</p>
+
+<h3 id="1103-why-did-malyasia-and-indonesia-and-brunei-end-up-as-separate-states-after-decolonisation-rather-than-a-single-state-both-regions-have-malay-as-a-lingua-franca-long-histories-of-connection-and-a-shared-border-on-borneo-was-it-just-continuity-from-the-colonial-period-or-was-there-more-at-work-submitted-on-2023-02-11-0151330800">1103: <a href="https://old.reddit.com/r/AskHistorians/comments/10yy6ps/why_did_malyasia_and_indonesia_and_brunei_end_up/">Why did Malyasia and Indonesia (and Brunei) end up as separate states after decolonisation, rather than a single state? Both regions have Malay as a lingua franca, long histories of connection, and a shared border on Borneo. Was it just continuity from the colonial period, or was there more at work?</a>, submitted on 2023-02-11 01:51:33+08:00.</h3>
+
+<p>—– <strong>1103.1</strong> —–2023-02-11 17:07:46+08:00:</p>
+
+<p>While this is a very interesting chronology, it still leaves me in the dark on the <em>why</em> of things. What <em>about</em> those separate colonial histories meant that Malaysia and Indonesia ultimately reified into two distinct state formations?</p>
+
+<p>—– <strong>1103.2</strong> —–2023-02-11 20:21:18+08:00:</p>
+
+<p>Thank you! This really adds a lot of context to the period that I hadn’t been aware of, which does a lot to explain things.</p>
+
+<h3 id="1104-why-isnt-chinese-history-as-popular-or-well-known-as-european-history-submitted-on-2023-02-11-1721350800">1104: <a href="https://old.reddit.com/r/AskHistorians/comments/10zgy4q/why_isnt_chinese_history_as_popular_or_wellknown/">Why isn’t Chinese history as popular or well-known as European history?</a>, submitted on 2023-02-11 17:21:35+08:00.</h3>
+
+<p>—– <strong>1104.1</strong> —–2023-02-11 22:12:38+08:00:</p>
+
+<p>More may be said on the broader matter of Chinese history, but as I get into in <a href="https://www.reddit.com/r/AskHistorians/comments/wohtte/why_isnt_the_taiping_rebellion_more_well_known/ikcm7vb/?context=999">this answer</a>, given the way that history is generally understood, it makes sense (in the sense of, it is consistent with the internal logics of historical education as it currently exists) that history is taught in a <em>national</em> manner that emphasises narratives of national emergence and development. For instance, Rome is thus a part of British history in a way that it isn’t for Chinese history; imperial China is a part of Chinese history in a way that it isn’t for, say, French or German history. I would also note, drawing from <a href="https://www.reddit.com/r/AskHistorians/comments/wohtte/why_isnt_the_taiping_rebellion_more_well_known/ikcm7vb/?context=999">this answer</a>, that <strong>importance</strong> and <strong>scale</strong> ought not to be conflated. It is entirely reasonable to say, for instance, that the American Civil War was more important <em>to America</em> than the Taiping War, despite the disparity in mortality; indeed, I would allow that it may even have been more important globally than the Taiping War because of the place of the United States in the global networks of the time and the extent to which the war disrupted that place.</p>
+
+<h3 id="1105-is-the-legacy-of-artemisia-i-of-caria-significant-submitted-on-2023-02-12-0527330800">1105: <a href="https://old.reddit.com/r/AskHistorians/comments/10zyfit/is_the_legacy_of_artemisia_i_of_caria_significant/">Is the legacy of Artemisia I of Caria significant?</a>, submitted on 2023-02-12 05:27:33+08:00.</h3>
+
+<p>—– <strong>1105.1</strong> —–2023-02-12 18:25:31+08:00:</p>
+
+<p>Considering the ‘hometown hero’ aspect, surely Herodotos’ being a Halicarnanian himself would have been extra reason to have been familiar with Artemisia? Or is that biographical detail a speculative one, stated with excessive certainty by past scholars?</p>
+
+<h3 id="1106-hobby-scuffles-week-of-february-13-2023-submitted-on-2023-02-12-2300110800">1106: <a href="https://old.reddit.com/r/HobbyDrama/comments/110hnbw/hobby_scuffles_week_of_february_13_2023/">[Hobby Scuffles] Week of February 13, 2023</a>, submitted on 2023-02-12 23:00:11+08:00.</h3>
+
+<p>—– <strong>1106.1</strong> —–2023-02-14 03:14:28+08:00:</p>
+
+<p>So if you are interested in any one of</p>
+
+<ol>
+  <li>VTubers</li>
+  <li>The <em>Yakuza</em> series</li>
+  <li>The Bakumatsu period in Japanese history (which, oddly enough, has a genuine fandom around it)</li>
+</ol>
+
+<p>Then the sentence <a href="https://twitter.com/RGGStudio/status/1625177903205072897?t=HBMLOSgi7-aLiZqEY5pM_g&amp;s">Nyatasha Nyanners joins the Shinsengumi in Like a Dragon: Ishin!</a> will presumably make sense to you, at least in part.</p>
+
+<p>—– <strong>1106.2</strong> —–2023-02-17 00:00:05+08:00:</p>
+
+<p>So this isn’t exactly what you’re asking about, but if you’re a hardcore canonicity and continuity obsessive, then <em>Star Trek: Strange New Worlds</em> has partly demystified and partly re-complicated one of the most beloved episodes of <em>Deep Space Nine</em>. DS9 stuff is not spoilered, SNW stuff is.</p>
+
+<p>In the DS9 episode ‘Far Beyond the Stars’, Captain Sisko finds himself suddenly transplanted to 1950s New York as one Benny Russell, a middle-aged writer of science fiction working at the magazine <em>Incredible Tales</em>. He has run-ins with various coworkers and locals played by the same actors as the main cast of the show, but obviously playing different characters. Through the first part of the episode, Russell works on finishing the manuscript for his magnum opus, <em>Deep Space Nine</em>. While his coworkers love the story, the publisher refuses to print it because it depicts the captain as a Black man like himself, despite his best efforts to convince them otherwise. He breaks down and is carted off to a mental hospital, and suddenly wakes up again as Benjamin Sisko on the station. The episode ends with Sisko looking into the window, at a reflection of Benny Russell.</p>
+
+<p>The question of what it all means has been an old one, but the simplest theory was that this was simply a vision granted by the Prophets. The Prophets, who orchestrated Sisko’s birth by possessing his mother, are a race of aliens residing inside a wormhole who have no concept of linear time, but who have substantial powers to alter reality and especially to cause visions of the past, the future, and alternate presents. On the surface, at least, ‘it was a metaphorical vision’ seems to be the most reasonable read. But although sometimes the Prophets create visions that are pure metaphor, but in other instances they appear to put people in the role of a different, actual person, <em>Quantum Leap</em>-style, and so the idea that Benny Russell was a real person in-universe, or that DS9 <em>is</em> something he dreamed up, cannot be discounted. But, that being a particularly standalone DS9 episode, the mystery remained.</p>
+
+<blockquote>
+  <p>!In the <em>Strange New Worlds</em> episode ‘The Elysian Kingdom’, Dr M’Benga has a storybook that he reads to his fatally ill daughter, Rukiya, during the periods when it is safe for her to be taken out of transporter stasis. This book, <em>The Kingdom of Elysian</em>, is a fantasy story about the adventures of King Ridley and his court. The episode sees a powerful consciousness, nicknamed ‘Debra’, reach into Rukiya’s imagination and recreate the story using the members of the <em>Enterprise</em> crew, casting M’Benga (who, along with the chief engineer, Hemmer, is one of the only people not to have had his mind overridden by the story) as King Ridley. What actually happens in the episode besides that is immaterial, because, in the handful of closeups we get to see of the book, we see the name of its author: Benny Russell.!&lt;</p>
+</blockquote>
+
+<blockquote>
+  <p>!So now, if you are of the opinion that everything must be reconcilable, we now have some critical questions: did Benny Russell <em>actually exist</em>? And if so, did the manuscript of <em>Deep Space Nine</em>? Does <em>Strange New Worlds</em> take place in a timeline in which DS9 won’t? Or did the Prophets do some time travel shenanigans where they manipulated the <em>Deep Space Nine</em> manuscript into existence only <em>after</em> they had encountered the station? In answering one question, <em>so many more</em> have been raised!!&lt;</p>
+</blockquote>
+
+<p>—– <strong>1106.3</strong> —–2023-02-17 08:36:52+08:00:</p>
+
+<p>There’s definitely a Kelvin throwaway mention in Discovery S3, but yeah, nothing so far.</p>
+
+<p>—– <strong>1106.4</strong> —–2023-02-19 06:36:03+08:00:</p>
+
+<p>Japanese doesn’t <em>formally</em> have ‘-m’ as a terminal consonant; in theory its only terminal consonant is ‘-n’. As a result, loanwords will end either in a vowel sound, or in ‘-n’.</p>
+
+<p>—– <strong>1106.5</strong> —–2023-02-19 07:46:34+08:00:</p>
+
+<blockquote>
+  <p>It’s due to the way their alphabet works, I think. It’s all, like, syllabic.</p>
+</blockquote>
+
+<p>The word you’re looking for is ‘syllabary’ – a script in which characters map onto syllables rather than individual vowels and consonants.</p>
+
+<p>I’ll also add something I blanked on earlier (and tagging in /u/Xmgplays as well) – ん is pronounced /m/ when it precedes a m-, p-, or b- consonant. As such, コンプレックス could still be pronounced <em>kompureksu</em> even though it is spelled ‘konpureksu’. When the ‘plex’ part of ‘complex’ is taken out, however, you are left with コン <em>kon</em>, with no subsequent m-/p-/b- consonant to make it a /m/ sound. If ‘com’ were being loaned, then コム <em>komu</em> would indeed make more sense, but this is an abbreviation of a loan, like サンドイッチ <em>sandoicchi</em> becoming shortened to サンド <em>sando</em>, or, more pertinently, ‘personal computer’ being abbreviated to パソコン <em>pasokon</em>.</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2023-02-18</time>
+        <a href="https://nodebe4.github.io/opinion/2023-02-18/theoryofdoom/">
+          theoryofdoom在2023-02-13~2023-02-19的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-02-18</time>
+        <a href="https://nodebe4.github.io/opinion/2023-02-18/ForeignAffairsMag/">
+          ForeignAffairsMag在2023-02-13~2023-02-19的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-02-11</time>
+        <a href="https://nodebe4.github.io/opinion/2023-02-11/ForeignAffairsMag/">
+          ForeignAffairsMag在2023-02-06~2023-02-12的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-02-09</time>
+        <a href="https://nodebe4.github.io/opinion/2023-02-09/Spinkcat/">
+          Spinkcat在2023-02-06~2023-02-12的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2023-02-11/ForeignAffairsMag/">
+            前一篇：ForeignAffairsMag在2023-02-06~2023-02-12的言论
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2023-02-12/HeQinglian/">
+            後一篇：Twitter @He Qinglian: 2023-02-06~2023-02-12
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2023-02-11/ForeignAffairsMag/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2023-02-12/HeQinglian/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2023-02-18/ForeignAffairsMag/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2023-02-11/ForeignAffairsMag/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2023-02-11/ForeignAffairsMag/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2023-02-12/HeQinglian/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2023-02-18/ForeignAffairsMag/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2023-02-11/ForeignAffairsMag/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

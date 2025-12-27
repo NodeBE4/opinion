@@ -1,0 +1,2424 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>EnclavedMicrostate在2022-01-31~2022-02-06的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="EnclavedMicrostate在2022-01-31~2022-02-06的言论" />
+    <meta property="twitter:title" content="EnclavedMicrostate在2022-01-31~2022-02-06的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FAskHistorians%2Fcomments%2Fsglj5d%2Fwhy_is_it_that_in_oriental_board_games_such_as_go%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/AskHistorians/comments/sglj5d/why_is_it_that_in_oriental_board_games_such_as_go/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/AskHistorians/comments/sglj5d/why_is_it_that_in_oriental_board_games_such_as_go/&text=EnclavedMicrostate在2022-01-31~2022-02-06的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/AskHistorians/comments/sglj5d/why_is_it_that_in_oriental_board_games_such_as_go/&title=EnclavedMicrostate在2022-01-31~2022-02-06的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/AskHistorians/comments/sglj5d/why_is_it_that_in_oriental_board_games_such_as_go/&title=EnclavedMicrostate在2022-01-31~2022-02-06的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=EnclavedMicrostate在2022-01-31~2022-02-06的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/AskHistorians/comments/sglj5d/why_is_it_that_in_oriental_board_games_such_as_go/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/AskHistorians/comments/sglj5d/why_is_it_that_in_oriental_board_games_such_as_go/&title=EnclavedMicrostate在2022-01-31~2022-02-06的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=EnclavedMicrostate在2022-01-31~2022-02-06的言论&url=https://old.reddit.com/r/AskHistorians/comments/sglj5d/why_is_it_that_in_oriental_board_games_such_as_go/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>EnclavedMicrostate在2022-01-31~2022-02-06的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-02-06
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: EnclavedMicrostate</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/AskHistorians/comments/sglj5d/why_is_it_that_in_oriental_board_games_such_as_go/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#106-why-is-it-that-in-oriental-board-games-such-as-go-there-seems-to-be-less-of-a-gap-between-strong-male-and-female-players-unlike-in-western-chess-submitted-on-2022-01-31-0701350800" id="markdown-toc-106-why-is-it-that-in-oriental-board-games-such-as-go-there-seems-to-be-less-of-a-gap-between-strong-male-and-female-players-unlike-in-western-chess-submitted-on-2022-01-31-0701350800">106: Why is it that in oriental board games, such as Go, there seems to be less of a gap between strong male and female players, unlike in western chess?, submitted on 2022-01-31 07:01:35+08:00.</a></li>
+  <li><a href="#107-does-scientific-progress-really-progress-because-of-war-submitted-on-2022-01-31-0756230800" id="markdown-toc-107-does-scientific-progress-really-progress-because-of-war-submitted-on-2022-01-31-0756230800">107: Does scientific progress really progress because of war?, submitted on 2022-01-31 07:56:23+08:00.</a></li>
+  <li><a href="#108-whats-the-oldest-royal-bloodline-and-how-far-does-it-date-back-too-submitted-on-2022-01-31-0918010800" id="markdown-toc-108-whats-the-oldest-royal-bloodline-and-how-far-does-it-date-back-too-submitted-on-2022-01-31-0918010800">108: What’s the oldest royal bloodline and how far does it date back too?, submitted on 2022-01-31 09:18:01+08:00.</a></li>
+  <li><a href="#109-which-period-of-time-europeans-were-poor-and-uncivilized-as-the-rest-of-the-world-submitted-on-2022-01-31-0919550800" id="markdown-toc-109-which-period-of-time-europeans-were-poor-and-uncivilized-as-the-rest-of-the-world-submitted-on-2022-01-31-0919550800">109: Which period of time Europeans were poor and uncivilized as the rest of the world?, submitted on 2022-01-31 09:19:55+08:00.</a></li>
+  <li><a href="#110-how-accurate-is-the-claim-america-was-not-a-real-democracy-until-the-civil-rights-movement-made-it-one-submitted-on-2022-01-31-0958110800" id="markdown-toc-110-how-accurate-is-the-claim-america-was-not-a-real-democracy-until-the-civil-rights-movement-made-it-one-submitted-on-2022-01-31-0958110800">110: How accurate is the claim America was not a “real democracy” until the civil rights movement made it one?, submitted on 2022-01-31 09:58:11+08:00.</a></li>
+  <li><a href="#111-questions-about-the-taiping-movement-submitted-on-2022-01-31-1002000800" id="markdown-toc-111-questions-about-the-taiping-movement-submitted-on-2022-01-31-1002000800">111: Questions about the Taiping movement, submitted on 2022-01-31 10:02:00+08:00.</a></li>
+  <li><a href="#112-what-military-unit-in-history-had-the-longest-period-of-required-training-time-and-the-highest-casualty-rate-once-they-were-in-combat-submitted-on-2022-01-31-1051590800" id="markdown-toc-112-what-military-unit-in-history-had-the-longest-period-of-required-training-time-and-the-highest-casualty-rate-once-they-were-in-combat-submitted-on-2022-01-31-1051590800">112: What military unit in history had the longest period of required training time and the highest casualty rate once they were in combat?, submitted on 2022-01-31 10:51:59+08:00.</a></li>
+  <li><a href="#113-my-western-civ-teacher-repeatedly-stated-that-throughout-nearly-all-of-western-history-society-has-been-built-upon-only-two-traditions-the-judeo-christian-and-greco-roman-traditions-how-true-is-this-submitted-on-2022-02-01-1301230800" id="markdown-toc-113-my-western-civ-teacher-repeatedly-stated-that-throughout-nearly-all-of-western-history-society-has-been-built-upon-only-two-traditions-the-judeo-christian-and-greco-roman-traditions-how-true-is-this-submitted-on-2022-02-01-1301230800">113: My Western Civ teacher repeatedly stated that throughout nearly all of western history, society has been built upon only two traditions: The Judeo-Christian and Greco-Roman traditions. How true is this?, submitted on 2022-02-01 13:01:23+08:00.</a></li>
+  <li><a href="#114-did-alexander-try-to-abolish-egyptian-gods-as-well-submitted-on-2022-02-02-0421550800" id="markdown-toc-114-did-alexander-try-to-abolish-egyptian-gods-as-well-submitted-on-2022-02-02-0421550800">114: Did Alexander try to abolish Egyptian gods as well?, submitted on 2022-02-02 04:21:55+08:00.</a></li>
+  <li><a href="#115-deleted-submitted-on-2022-02-03-0933590800" id="markdown-toc-115-deleted-submitted-on-2022-02-03-0933590800">115: [Deleted], submitted on 2022-02-03 09:33:59+08:00.</a></li>
+  <li><a href="#116-how-much-chinese-history-was-actually-lost-during-the-cultural-revolution-submitted-on-2022-02-03-2051000800" id="markdown-toc-116-how-much-chinese-history-was-actually-lost-during-the-cultural-revolution-submitted-on-2022-02-03-2051000800">116: How much Chinese history was actually lost during the Cultural Revolution?, submitted on 2022-02-03 20:51:00+08:00.</a></li>
+  <li><a href="#117-authoritative-contemp-chinese-history-reads-submitted-on-2022-02-04-1135190800" id="markdown-toc-117-authoritative-contemp-chinese-history-reads-submitted-on-2022-02-04-1135190800">117: Authoritative Contemp. Chinese History Reads?, submitted on 2022-02-04 11:35:19+08:00.</a></li>
+  <li><a href="#118-modern-english-translations-of-platos-accounts-of-atlantis-in-the-timaeus-and-critias-regularly-state-9000-years-as-the-date-before-platos-time-of-writing-how-has-this-date-been-calibrated-from-platos-ancient-greek-into-the-standard-modern-english-translation-as-9000-years-submitted-on-2022-02-04-1337310800" id="markdown-toc-118-modern-english-translations-of-platos-accounts-of-atlantis-in-the-timaeus-and-critias-regularly-state-9000-years-as-the-date-before-platos-time-of-writing-how-has-this-date-been-calibrated-from-platos-ancient-greek-into-the-standard-modern-english-translation-as-9000-years-submitted-on-2022-02-04-1337310800">118: Modern English translations of Plato’s accounts of Atlantis in the Timaeus and Critias, regularly state “9,000 years” as the date before Plato’s time of writing. How has this date been calibrated from Plato’s ancient Greek into the standard modern English translation as “9,000 years”?, submitted on 2022-02-04 13:37:31+08:00.</a></li>
+  <li><a href="#119-why-did-the-use-of-slave-soldiers-ghilmans-mamluks-janissaries-etc-become-so-universal-amongst-muslim-empires-from-the-abbasid-period-onwards-and-why-was-this-phenomenon-unique-to-muslim-empires-submitted-on-2022-02-04-2032340800" id="markdown-toc-119-why-did-the-use-of-slave-soldiers-ghilmans-mamluks-janissaries-etc-become-so-universal-amongst-muslim-empires-from-the-abbasid-period-onwards-and-why-was-this-phenomenon-unique-to-muslim-empires-submitted-on-2022-02-04-2032340800">119: Why did the use of slave soldiers (ghilmans, mamluks, janissaries, etc.) become so universal amongst Muslim empires from the Abbasid period onwards? And why was this phenomenon unique to Muslim empires?, submitted on 2022-02-04 20:32:34+08:00.</a></li>
+  <li><a href="#120-friday-free-for-all--february-04-2022-submitted-on-2022-02-04-2200130800" id="markdown-toc-120-friday-free-for-all--february-04-2022-submitted-on-2022-02-04-2200130800">120: Friday Free-for-All | February 04, 2022, submitted on 2022-02-04 22:00:13+08:00.</a></li>
+  <li><a href="#121-popular-youtuber-forgotten-weapons-aka-gun-jesus-misfires-on-an-announcement-about-publishing-a-war-memoir-written-by-a-fascist-swedish-volunteer-to-the-neo-nazi-azov-battalion-in-ukraine-rforgottenweapons-reacts-submitted-on-2022-02-05-1353470800" id="markdown-toc-121-popular-youtuber-forgotten-weapons-aka-gun-jesus-misfires-on-an-announcement-about-publishing-a-war-memoir-written-by-a-fascist-swedish-volunteer-to-the-neo-nazi-azov-battalion-in-ukraine-rforgottenweapons-reacts-submitted-on-2022-02-05-1353470800">121: Popular Youtuber Forgotten Weapons aka Gun Jesus misfires on an announcement about publishing a war memoir written by a fascist Swedish volunteer to the neo-nazi Azov battalion in Ukraine. r/ForgottenWeapons reacts, submitted on 2022-02-05 13:53:47+08:00.</a></li>
+  <li><a href="#122-i-recently-read-that-carter-had-some-solar-panels-installed-on-the-white-house-which-reagan-later-had-removed-what-actually-happened-submitted-on-2022-02-05-1416510800" id="markdown-toc-122-i-recently-read-that-carter-had-some-solar-panels-installed-on-the-white-house-which-reagan-later-had-removed-what-actually-happened-submitted-on-2022-02-05-1416510800">122: I recently read that Carter had some solar panels installed on the White House, which Reagan later had removed. What actually happened?, submitted on 2022-02-05 14:16:51+08:00.</a></li>
+  <li><a href="#123-in-reality-how-vital-was-the-silk-road-to-europe-was-europe-essentially-subservient-to-the-chinese-dynasties-because-of-their-need-for-spice-and-luxury-products-for-royalty-or-was-the-trade-relationship-more-dynamic-submitted-on-2022-02-06-0747110800" id="markdown-toc-123-in-reality-how-vital-was-the-silk-road-to-europe-was-europe-essentially-subservient-to-the-chinese-dynasties-because-of-their-need-for-spice-and-luxury-products-for-royalty-or-was-the-trade-relationship-more-dynamic-submitted-on-2022-02-06-0747110800">123: In reality, how vital was the Silk Road to Europe? Was Europe essentially subservient to the Chinese dynasties because of their need for spice and luxury products for royalty, or was the trade relationship more dynamic?, submitted on 2022-02-06 07:47:11+08:00.</a></li>
+  <li><a href="#124-what-did-the-foreigners-think-of-cromwells-commonwealth-submitted-on-2022-02-06-1720480800" id="markdown-toc-124-what-did-the-foreigners-think-of-cromwells-commonwealth-submitted-on-2022-02-06-1720480800">124: What did the foreigners think of Cromwell’s commonwealth?, submitted on 2022-02-06 17:20:48+08:00.</a></li>
+  <li><a href="#125-what-do-heavy-cavalry-do-after-a-successful-charge-submitted-on-2022-02-06-1737090800" id="markdown-toc-125-what-do-heavy-cavalry-do-after-a-successful-charge-submitted-on-2022-02-06-1737090800">125: What do heavy cavalry do after a successful charge?, submitted on 2022-02-06 17:37:09+08:00.</a></li>
+  <li><a href="#126-what-authority-did-the-very-earliest-kings-and-lords-in-europe-claim-that-gave-them-their-power-over-their-subjects-submitted-on-2022-02-06-2331140800" id="markdown-toc-126-what-authority-did-the-very-earliest-kings-and-lords-in-europe-claim-that-gave-them-their-power-over-their-subjects-submitted-on-2022-02-06-2331140800">126: What authority did the very earliest kings and lords in Europe claim that gave them their power over their subjects?, submitted on 2022-02-06 23:31:14+08:00.</a></li>
+</ul>
+
+<h3 id="106-why-is-it-that-in-oriental-board-games-such-as-go-there-seems-to-be-less-of-a-gap-between-strong-male-and-female-players-unlike-in-western-chess-submitted-on-2022-01-31-0701350800">106: <a href="https://old.reddit.com/r/AskHistorians/comments/sglj5d/why_is_it_that_in_oriental_board_games_such_as_go/">Why is it that in oriental board games, such as Go, there seems to be less of a gap between strong male and female players, unlike in western chess?</a>, submitted on 2022-01-31 07:01:35+08:00.</h3>
+
+<p>—– <strong>106.1</strong> —–2022-01-31 11:19:21+08:00:</p>
+
+<p>This submission has been removed because it violates our <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events">‘20-Year Rule’</a>. To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult <a href="https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/">this Rules Roundtable</a>.</p>
+
+<h3 id="107-does-scientific-progress-really-progress-because-of-war-submitted-on-2022-01-31-0756230800">107: <a href="https://old.reddit.com/r/AskHistorians/comments/sgmo1t/does_scientific_progress_really_progress_because/">Does scientific progress really progress because of war?</a>, submitted on 2022-01-31 07:56:23+08:00.</h3>
+
+<p>—– <strong>107.1</strong> —–2022-01-31 11:19:32+08:00:</p>
+
+<p>Apologies, but we have removed your question in its current form as it breaks our <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">rules concerning the scope of questions</a>. However, it might be that an altered version of your question would fit within our rules, and we encourage you to reword your question to fit the rule. While we do allow questions which ask about general topics without specific bounding by time or space, we do ask that they be clearly phrased and presented in a way that can be answered by an individual historian focusing on only one example which they can write about in good detail.</p>
+
+<p>So for example, if you wanted to ask, “<em>Have people always rebelled against health rules in pandemics?</em>” we would remove the question. As phrased, it asks broadly about many places collectively. However if you ask “<em>In the time and place you study, how did people rebel against health rules in a pandemic?</em>” we would allow the question. As phrased, while still asking broadly, it does so in a way that clearly invites a given expert to write exclusively about their topic of focus! We encourage you to think about rewording your question to fit this rule, and thank you for your understanding. If you are unsure of how best to reshape your question to fit these requirements, <a href="https://www.reddit.com/message/compose/?to=/r/AskHistorians">please reach out to us for assistance</a>.</p>
+
+<h3 id="108-whats-the-oldest-royal-bloodline-and-how-far-does-it-date-back-too-submitted-on-2022-01-31-0918010800">108: <a href="https://old.reddit.com/r/AskHistorians/comments/sgoemk/whats_the_oldest_royal_bloodline_and_how_far_does/">What’s the oldest royal bloodline and how far does it date back too?</a>, submitted on 2022-01-31 09:18:01+08:00.</h3>
+
+<p>—– <strong>108.1</strong> —–2022-01-31 11:21:05+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="109-which-period-of-time-europeans-were-poor-and-uncivilized-as-the-rest-of-the-world-submitted-on-2022-01-31-0919550800">109: <a href="https://old.reddit.com/r/AskHistorians/comments/sgog2s/which_period_of_time_europeans_were_poor_and/">Which period of time Europeans were poor and uncivilized as the rest of the world?</a>, submitted on 2022-01-31 09:19:55+08:00.</h3>
+
+<p>—– <strong>109.1</strong> —–2022-01-31 11:21:18+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="110-how-accurate-is-the-claim-america-was-not-a-real-democracy-until-the-civil-rights-movement-made-it-one-submitted-on-2022-01-31-0958110800">110: <a href="https://old.reddit.com/r/AskHistorians/comments/sgp831/how_accurate_is_the_claim_america_was_not_a_real/">How accurate is the claim America was not a “real democracy” until the civil rights movement made it one?</a>, submitted on 2022-01-31 09:58:11+08:00.</h3>
+
+<p>—– <strong>110.1</strong> —–2022-01-31 11:33:41+08:00:</p>
+
+<p>Apologies, but we have had to remove your submission. We ask that questions in this subreddit be limited to those asking about history, or for historical answers. This is not a judgement of your question, but to receive the answer you are looking for, it would be better suited to /r/PoliticalScience.</p>
+
+<p>If you are interested in an historical answer, however, you are welcome to rework your question to fit the theme of this subreddit and resubmit it.</p>
+
+<h3 id="111-questions-about-the-taiping-movement-submitted-on-2022-01-31-1002000800">111: <a href="https://old.reddit.com/r/ChineseHistory/comments/sgpb8v/questions_about_the_taiping_movement/">Questions about the Taiping movement</a>, submitted on 2022-01-31 10:02:00+08:00.</h3>
+
+<p>—– <strong>111.1</strong> —–2022-01-31 12:00:46+08:00:</p>
+
+<p>1:</p>
+
+<p>Confucianism yes, hierarchy no. The Taiping, at least in their earlier years (to be honest, the analysis of change over time of Taiping ideology has never been that good), were not necessarily out to destroy the entire Chinese classical canon. Rather, they accepted the validity and primacy of the Five Classics, but considered the (Neo-)Confucian interpretation of that canon, i.e. the Four Books and associated derivations, to be corruptions of an originally ‘pure’ message. So for instance the supposedly egalitarian programme of land and resource distribution expressed in the <em>Land System of the Heavenly Dynasty</em> actually cribs from the <em>Book of Rites</em>. This programme, by the by, would have been <em>immensely</em> hierarchical if implemented, with all households organised as though part of armies, and the households of privates subordinated to those of various ascending ranks of officer. The saving grace, so to speak, for anyone under such a system would have been the regularity of promotions and, if warranted, demotions, that would keep people moving through the ranks on a nominally meritocratic basis.</p>
+
+<p>Of course, in parallel with what we might term Taiping anti-traditionalism, there was also a particularly violent strain of anti-Manchuism as well, as with later political upheavals in the late Qing. It would be reductionist to assert that either anti-traditionalism or anti-Manchuism were the <em>sole</em> cause of any of these upheavals.</p>
+
+<p>2:</p>
+
+<p>I mean, yes and no, in that it depends what you define ‘proto-Marxist’ as, not least given that Marxism stipulates a transition to capitalism in between feudalism and socialism. But if we use the <em>Land System of the Heavenly Dynasty</em> as our interpretive guide here, the Taiping were not aiming to establish true communal ownership as such or of worker-owned industry, because they ultimately did not intend to abolish the state nor, at least to begin with, to industrialise. Instead they were advocating a heavily planned and centralised agrarian economy.</p>
+
+<p>3:</p>
+
+<p>You can definitely argue that the period between the Taiping and the establishment of the PRC was one in which the working class in China proper had not seen much significant improvement in quality of life, but I don’t necessarily see the value or usefulness of such a comparison given the nearly century-length gap.</p>
+
+<p>—– <strong>111.2</strong> —–2022-01-31 20:45:11+08:00:</p>
+
+<p>I am not published, no.</p>
+
+<p>As for Marx, he did have some thoughts on the Taiping, although there hasn’t really been a consolidated discussion of them anywhere. Some excerpted quotations can be found in Stephen Platt’s <em>Autumn in the Heavenly Kingdom</em> and you can also find a discussion of his 1853 article on the Taiping <a href="https://understandingsociety.blogspot.com/2009/02/marx-and-taipings0.html">here</a>. Broadly speaking he didn’t really view the Taiping as a class revolution within China, so much as a reaction to Western imperialism.</p>
+
+<p>—– <strong>111.3</strong> —–2022-02-01 03:00:53+08:00:</p>
+
+<blockquote>
+  <p>that seems to obviate the peasant component in chinese communism and the peasant movement that was the backbone of the party after 1927.</p>
+</blockquote>
+
+<p>I don’t believe I disputed either of these. Rather, I stated, with regard to issue 2, that the Taiping did not in any way espouse an end goal of transitioning beyond the state as per ‘orthodox’ Marxism, and with regard to issue 3, that the ‘secular vestigial pre-disposition’ aspect was not at all defined, and would imply a continuity of conditions between 1850 and 1949 that I would not see as sustainable.</p>
+
+<p>—– <strong>111.4</strong> —–2022-02-01 10:50:29+08:00:</p>
+
+<p>This seems entirely to be confrontation for confrontation’s sake, over terms in the question that we <em>both</em> saw as ambiguous and therefore had our own interpretations of.</p>
+
+<p>When the question asks if the Taiping were proto-Marxist, I did not interpret that as meaning proto-Marxist-Leninist-Maoist, nor did I operate on the presumption that we ought to accept Marx’s schema dividing between European and non-European polities. When the question asks if there was some fundamental underlying continuity that lay behind both the Taiping and the Chinese Communists, I suggested that while on the one hand the Chinese working classes (are peasants not a working class?) did indeed not see any comparable enfranchisement between the conditions leading to the rise of the Taiping (hence 1850) and to the victory of the Communists (hence 1949). <em>Between</em> meaning <em>all the hundred-ish years encompassed between the two</em>. But at the same time there were broader conditions that were distinct – a limited degree of industrialisation, and also the end of Qing rule which removed a key racial/ethnic dimension as a cause of political tension.</p>
+
+<h3 id="112-what-military-unit-in-history-had-the-longest-period-of-required-training-time-and-the-highest-casualty-rate-once-they-were-in-combat-submitted-on-2022-01-31-1051590800">112: <a href="https://old.reddit.com/r/AskHistorians/comments/sgqbx0/what_military_unit_in_history_had_the_longest/">What military unit in history had the longest period of required training time and the highest casualty rate once they were in combat?</a>, submitted on 2022-01-31 10:51:59+08:00.</h3>
+
+<p>—– <strong>112.1</strong> —–2022-01-31 11:23:16+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="113-my-western-civ-teacher-repeatedly-stated-that-throughout-nearly-all-of-western-history-society-has-been-built-upon-only-two-traditions-the-judeo-christian-and-greco-roman-traditions-how-true-is-this-submitted-on-2022-02-01-1301230800">113: <a href="https://old.reddit.com/r/AskHistorians/comments/shmnf6/my_western_civ_teacher_repeatedly_stated_that/">My Western Civ teacher repeatedly stated that throughout nearly all of western history, society has been built upon only two traditions: The Judeo-Christian and Greco-Roman traditions. How true is this?</a>, submitted on 2022-02-01 13:01:23+08:00.</h3>
+
+<p>—– <strong>113.1</strong> —–2022-02-02 01:46:17+08:00:</p>
+
+<blockquote>
+  <p>Are we counting the Qing Dynasty? That was a Mongolian dynasty that conquered China.</p>
+</blockquote>
+
+<p>You might be confusing the Qing with the Yuan – both emerged outside of China Proper, but the Yuan were Mongolian whereas the Qing were Manchu in origin.</p>
+
+<h3 id="114-did-alexander-try-to-abolish-egyptian-gods-as-well-submitted-on-2022-02-02-0421550800">114: <a href="https://old.reddit.com/r/AskHistorians/comments/si4jpi/did_alexander_try_to_abolish_egyptian_gods_as_well/">Did Alexander try to abolish Egyptian gods as well?</a>, submitted on 2022-02-02 04:21:55+08:00.</h3>
+
+<p>—– <strong>114.1</strong> —–2022-02-02 11:31:55+08:00:</p>
+
+<p>We do not in fact know that Alexander destroyed Zoroastrian religious texts, as Zoroastrians did not codify their oral traditions in textual form until the 4th century AD under Sassanid rule. See these answers by /u/Trevor_Culley:</p>
+
+<ul>
+  <li>
+    <p>https://reddit.com/r/AskHistorians/comments/l6uxwa/many_historical_claims_regarding_zoroastrianism/gl570ke/?context=999</p>
+  </li>
+  <li>
+    <p>https://www.reddit.com/r/AskHistorians/comments/ly3wdr/what_are_some_persian_description_of_alexander/</p>
+  </li>
+</ul>
+
+<p>As for Alexander and Egyptian religion and political customs, /u/cleopatra_philopater notes in the following answers that Alexander made an effort to legitimise himself using Egyptian imagery:</p>
+
+<ul>
+  <li>
+    <p>https://www.reddit.com/r/AskHistorians/comments/9bc18o/after_the_death_of_cleopatra_did_the_title_of/e5206h9/?context=999</p>
+  </li>
+  <li>
+    <p>https://www.reddit.com/r/AskHistorians/comments/684omb/were_the_trappings_of_the_office_of_pharoah/dgxo9tm/?context=999</p>
+  </li>
+</ul>
+
+<p>—– <strong>114.2</strong> —–2022-02-02 13:28:37+08:00:</p>
+
+<p>You can repeat the assertion all you want, but the only evidence for this is in the form of claims from the Sassanid period about the supposed loss of texts. While we do have plenty of evidence of Persian writing, this is not known to have extended to religious scripture, particularly the Avesta, before the Sassanids.</p>
+
+<h3 id="115-deleted-submitted-on-2022-02-03-0933590800">115: <a href="https://old.reddit.com/r/Hololive/comments/sj680c/deleted/">[Deleted]</a>, submitted on 2022-02-03 09:33:59+08:00.</h3>
+
+<p>—– <strong>115.1</strong> —–2022-02-03 18:43:03+08:00:</p>
+
+<p>Mumei is an r/AskHistorians moderator confirmed.</p>
+
+<h3 id="116-how-much-chinese-history-was-actually-lost-during-the-cultural-revolution-submitted-on-2022-02-03-2051000800">116: <a href="https://old.reddit.com/r/AskHistorians/comments/sjidzv/how_much_chinese_history_was_actually_lost_during/">How much Chinese history was actually lost during the Cultural Revolution?</a>, submitted on 2022-02-03 20:51:00+08:00.</h3>
+
+<p>—– <strong>116.1</strong> —–2022-02-04 02:45:49+08:00:</p>
+
+<p>Apologies, but we have removed your response. While we appreciate your efforts here, we require that sources used in <a href="https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/">an answer demonstrate a level of quality which reflects the current, academic understanding of a topic</a>. While not <em>always</em> true, sources such as pop histories, glossy magazine articles, or personal blogs can often be quite problematic in the way that they simplify a topic, and <a href="https://www.reddit.com/r/AskHistorians/comments/fj1ieh/rules_roundtable_v_sources_what_is_required/">in using them we would expect the source engagement to be able to reflect their limitations, and be able to contextualize them with more academic sources as well</a>. Before contributing again, please take the time to better familiarize yourself with <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_write_an_in-depth_answer">the rules</a>, as well as our expectations for an answer such as featured on <a href="http://www.twitter.com/askhistorians">Twitter</a> or in the <a href="http://www.reddit.com/r/AskHistorians/search?q=title%3A%22Sunday+Digest%22&amp;restrict_sr=on&amp;sort=new&amp;t=all">Sunday Digest</a>.</p>
+
+<p>—– <strong>116.2</strong> —–2022-02-04 10:36:35+08:00:</p>
+
+<p>Yu Hua is a novelist, not a historian. His work is widely lauded as a cultural artefact, not a work of history. Memoirs are useful <em>primary</em> sources, but you need to be citing some actual historiographical material as the <em>basis</em> of your answer.</p>
+
+<p>—– <strong>116.3</strong> —–2022-02-04 19:23:35+08:00:</p>
+
+<p>A further response seeing as you opted to edit your comment:</p>
+
+<blockquote>
+  <p>Aren’t primary sources generally preferred over secondary?</p>
+</blockquote>
+
+<p>No. Primary sources, sometimes individual but usually aggregated, are the basis of historical knowledge, but the basis of historical <em>understanding</em> are secondary sources which take a bigger-picture view of the sources and operate in conversation with the work of other historians. There are certain fields and periods where an in-depth analysis of a limited body of primary evidence is the standard modus operandi, but even then it is critical to have an understanding of the methods by which this evidence has been interpreted, which is what secondary sources are critical to. These are historiographical in that firstly, they are critical engagements with the primary evidence, and secondly, they are critical engagements with the wider body of scholarship on a particular event, period, and/or subfield. Primary sources, especially memoirs, have agendas and narratives that need to be understood and engaged with in relation to the object of study; secondary sources have already done that understanding and engagement and produced a new narrative – one that can be quite close to or quite distinct from those of the primary material used – out of one or more such sources.</p>
+
+<p>In effect, a primary source in isolation cannot be used to answer the question of ‘how much Chinese history was actually lost during the Cultural Revolution’, because it is one person’s answer to that question divorced from context. You need to cite historians who have critically evaluated the primary evidence in light of how other historians have approached the same or similar subjects in order to produce a synthetic analysis.</p>
+
+<p>—– <strong>116.4</strong> —–2022-02-05 02:31:34+08:00:</p>
+
+<p>I’ve removed your comment to reduce clutter, but you might be interested in asking it as its own question or in the <a href="https://www.reddit.com/r/AskHistorians/comments/skdya4/friday_freeforall_february_04_2022/">Friday Free-for-All</a>.</p>
+
+<h3 id="117-authoritative-contemp-chinese-history-reads-submitted-on-2022-02-04-1135190800">117: <a href="https://old.reddit.com/r/ChineseHistory/comments/sk33x7/authoritative_contemp_chinese_history_reads/">Authoritative Contemp. Chinese History Reads?</a>, submitted on 2022-02-04 11:35:19+08:00.</h3>
+
+<p>—– <strong>117.1</strong> —–2022-02-04 22:14:02+08:00:</p>
+
+<p><em>The Search for Modern China</em>’s first edition goes up to the ’90s, but I believe the 3rd edition goes up to around 2010, so keep an eye out for that. Pamela Crossley’s <em>The Wobbling Pivot</em> may be a viable alternate option but I forget how much post-2000 detail it goes into.</p>
+
+<h3 id="118-modern-english-translations-of-platos-accounts-of-atlantis-in-the-timaeus-and-critias-regularly-state-9000-years-as-the-date-before-platos-time-of-writing-how-has-this-date-been-calibrated-from-platos-ancient-greek-into-the-standard-modern-english-translation-as-9000-years-submitted-on-2022-02-04-1337310800">118: <a href="https://old.reddit.com/r/AskHistorians/comments/sk5h0j/modern_english_translations_of_platos_accounts_of/">Modern English translations of Plato’s accounts of Atlantis in the Timaeus and Critias, regularly state “9,000 years” as the date before Plato’s time of writing. How has this date been calibrated from Plato’s ancient Greek into the standard modern English translation as “9,000 years”?</a>, submitted on 2022-02-04 13:37:31+08:00.</h3>
+
+<p>—– <strong>118.1</strong> —–2022-02-04 22:12:02+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="119-why-did-the-use-of-slave-soldiers-ghilmans-mamluks-janissaries-etc-become-so-universal-amongst-muslim-empires-from-the-abbasid-period-onwards-and-why-was-this-phenomenon-unique-to-muslim-empires-submitted-on-2022-02-04-2032340800">119: <a href="https://old.reddit.com/r/AskHistorians/comments/skc7m1/why_did_the_use_of_slave_soldiers_ghilmans/">Why did the use of slave soldiers (ghilmans, mamluks, janissaries, etc.) become so universal amongst Muslim empires from the Abbasid period onwards? And why was this phenomenon unique to Muslim empires?</a>, submitted on 2022-02-04 20:32:34+08:00.</h3>
+
+<p>—– <strong>119.1</strong> —–2022-02-05 02:15:24+08:00:</p>
+
+<blockquote>
+  <p>Very ironically, China only developed a “slave soldier” system during the Qing period in the form of the ujen cooha (“heavy troops” in Manchu), a unit of enormous Han Chinese men pressed into military service for the purpose of carrying cannons around the battlefield and operating the cumbersome muskets of the time period.</p>
+</blockquote>
+
+<p>Without getting too pedantic here, <em>ujen cooha</em> was simply the Manchu term for the Han Banners, who were enslaved only insofar as <em>all</em> Bannermen were enslaved in one form or another, as I discuss <a href="https://www.reddit.com/r/AskHistorians/comments/jy7m9j/did_china_ever_have_slavery/gd2j5r1/">here</a> and <a href="https://www.reddit.com/r/AskHistorians/comments/s9ugbx/about_how_many_manchus_lived_in_china_proper/htut7i2/?context=999">here</a>. The Han Banners were originally constituted from a mix of willing defectors and forced labour, but after their initial formation they were mostly hereditary, rather than sustained through purchase of chattel slaves in the manner of the Mamluks.</p>
+
+<h3 id="120-friday-free-for-all--february-04-2022-submitted-on-2022-02-04-2200130800">120: <a href="https://old.reddit.com/r/AskHistorians/comments/skdya4/friday_freeforall_february_04_2022/">Friday Free-for-All | February 04, 2022</a>, submitted on 2022-02-04 22:00:13+08:00.</h3>
+
+<p>—– <strong>120.1</strong> —–2022-02-05 12:27:13+08:00:</p>
+
+<p>There was almost a literal slap fight at the 1969 meeting of the American Historical Association between John King Fairbank, Harvard’s first specialist in Chinese history – and indeed a towering figure in Anglophone historiography of China – and Howard Zinn, who probably needs less introduction but is most famous for <em>A People’s History of the United States</em>. Zinn was part of the Radical Historians’ Caucus and was attempting to get the AHA to pass a resolution condemning US involvement in the Vietnam War, leading to a physical struggle for control of the microphone between Zinn and Fairbank which is almost invariably mentioned in any retrospective on the latter’s career.</p>
+
+<h3 id="121-popular-youtuber-forgotten-weapons-aka-gun-jesus-misfires-on-an-announcement-about-publishing-a-war-memoir-written-by-a-fascist-swedish-volunteer-to-the-neo-nazi-azov-battalion-in-ukraine-rforgottenweapons-reacts-submitted-on-2022-02-05-1353470800">121: <a href="https://old.reddit.com/r/SubredditDrama/comments/skzmhs/popular_youtuber_forgotten_weapons_aka_gun_jesus/">Popular Youtuber Forgotten Weapons aka Gun Jesus misfires on an announcement about publishing a war memoir written by a fascist Swedish volunteer to the neo-nazi Azov battalion in Ukraine. r/ForgottenWeapons reacts</a>, submitted on 2022-02-05 13:53:47+08:00.</h3>
+
+<p>—– <strong>121.1</strong> —–2022-02-06 12:42:44+08:00:</p>
+
+<p>In all sincerity, don’t look at Extra History; they are apparently a bit better than they used to be, but not by much. The main thing is they’re really bad at research, to the point where it takes so much effort to research whether their research is good that you may as well DIY it.</p>
+
+<p>—– <strong>121.2</strong> —–2022-02-06 14:49:26+08:00:</p>
+
+<blockquote>
+  <p>But once that political decision has been made, you have the next decision which is “how do we fight?” and that decision doesn’t have to be political.</p>
+</blockquote>
+
+<p>A lot of recent discussion of colonial warfare has been about arguing that that <em>isn’t</em> the case. Kim Wagner’s article on the development of expanding ammunition (the ‘Dum-Dum’ bullet) in the British Army has been the centrepiece of a huge discussion over whether military historians really talk about racism and other discourses of othering enough, and his main point in its is that the entire argument over ‘stopping power’ was based on the notion that ‘savage’ peoples were able to shrug off hits that would disable ‘civilised’ men, against whom the use of expanding ammunition was deemed immoral. Britain continued to advocate for the use of expanding ammo until Afghan troops who had captured British ammunition stockpiles started firing ‘Dum-Dum’ rounds back at the British, which <em>finally</em> got the British to stop producing them. To make a long story short, racism actively impacted how the British perceived that <em>ballistics and anatomy</em> worked. And when you expand to a wider scale, racism had and has an obvious effect on how states and armies believe they’re allowed to behave in different contexts. For instance, the Nazis’ whole genocidal agenda obviously impacted how they fought against the USSR, most significantly by leading them to prioritise destroying rather than cooperating with local populations that were less than enthusiastically pro-Soviet. I’m not expert enough on the specific field to say how far you can specifically cite things in the context of weapons development, but my uninformed perspective would suggest that Nazi nonsense about ‘Oriental hordes’ may have been a factor in deciding, for instance, that the MG42 ought to have an absurdly high rate of fire rather than something that used less ammo.</p>
+
+<p>—– <strong>121.3</strong> —–2022-02-06 14:53:21+08:00:</p>
+
+<p>I don’t know if you’ve listened to Robert Calvert’s <em>Captain Lockheed and the Starfighters</em>, but it’s got some very catchy bits as well as Arthur Brown vocals at points, and it is also about the F-104 in West German service. It’s certainly one of the more… unusual topics for a 70s concept album, especially when put next to something like <em>Jesus Christ Superstar</em> or <em>Journey to the Centre of the Earth</em>, but… it works.</p>
+
+<h3 id="122-i-recently-read-that-carter-had-some-solar-panels-installed-on-the-white-house-which-reagan-later-had-removed-what-actually-happened-submitted-on-2022-02-05-1416510800">122: <a href="https://old.reddit.com/r/AskHistorians/comments/sl015o/i_recently_read_that_carter_had_some_solar_panels/">I recently read that Carter had some solar panels installed on the White House, which Reagan later had removed. What actually happened?</a>, submitted on 2022-02-05 14:16:51+08:00.</h3>
+
+<p>—– <strong>122.1</strong> —–2022-02-05 21:13:32+08:00:</p>
+
+<p>Sorry, but we have removed your response, as we expect answers in this subreddit to be <a href="https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/">in-depth and comprehensive</a>, and to demonstrate a <a href="https://www.reddit.com/r/AskHistorians/comments/g3peg6/rules_roundtable_x_informed_complete_answers_the/">familiarity</a> with the <a href="https://www.reddit.com/r/AskHistorians/comments/fj1ieh/rules_roundtable_v_sources_what_is_required/">current, academic understanding</a> of the topic at hand. Before contributing again, please take the time to better familiarize yourself with <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_write_an_in-depth_answer">the rules</a>, as well as our expectations for an answer such as featured on <a href="http://www.twitter.com/askhistorians">Twitter</a> or in the <a href="http://www.reddit.com/r/AskHistorians/search?q=title%3A%22Sunday+Digest%22&amp;restrict_sr=on&amp;sort=new&amp;t=all">Sunday Digest</a>.</p>
+
+<h3 id="123-in-reality-how-vital-was-the-silk-road-to-europe-was-europe-essentially-subservient-to-the-chinese-dynasties-because-of-their-need-for-spice-and-luxury-products-for-royalty-or-was-the-trade-relationship-more-dynamic-submitted-on-2022-02-06-0747110800">123: <a href="https://old.reddit.com/r/AskHistorians/comments/slkbju/in_reality_how_vital_was_the_silk_road_to_europe/">In reality, how vital was the Silk Road to Europe? Was Europe essentially subservient to the Chinese dynasties because of their need for spice and luxury products for royalty, or was the trade relationship more dynamic?</a>, submitted on 2022-02-06 07:47:11+08:00.</h3>
+
+<p>—– <strong>123.1</strong> —–2022-02-07 00:39:39+08:00:</p>
+
+<p>To preface, I am not a specialist in medieval… well medieval anything really, but especially not medieval European economics and trade. But I am, for the time being, decently up to speed with some currents in Eurasian historiography, particularly around the ‘Silk Road’ concept, and wrote <a href="https://www.reddit.com/r/AskHistorians/comments/jsb5my/whats_the_state_of_scholarship_on_the_silk_road/gbyl2uc/">an answer</a> relatively recently discussing the critique of the concept levelled by Scott C. Levi in <em>The Bukharan Crisis</em> (2020).</p>
+
+<p>While the answer as a whole goes into more detail – and the book it is based on is a must-read – I do want to give a condensed position here as to why, in light of contemporary scholarship, the framing of the question is problematic. Simply put, the ‘Silk Road’ was never an intentional creation of any involved party. Rather, the phenomena that get grouped under the idea – movement of peoples, goods, and ideas between the more coastal portions of the Eurasian continent – were <em>emergent properties</em> of interlinked regional trading networks. These networks emerged organically out of regional economies, and while certainly bolstered by connections to neighbouring trade systems, they were never fundamentally reliant on them. In other words, even economies one step over from China, particularly those in Central Asia, were not fundamentally reliant on Chinese exports, so in turn, it stands to reason that South Asian, Middle Eastern, and Eastern European trade networks were themselves not reliant on re-exports of Chinese goods by intermediate parties. Critically, by the time you got to Europe, even Eastern Europe, nobody was really trading with China directly, except during the height of the Mongol Empire when movement from the Golden Horde to the Yuan was still reasonably possible. And it’s no coincidence that Marco Polo got to China via Mongol-held lands. More importantly, Chinese states had neither the means nor the motive to leverage commerce as a tool for political control over Europe. For one, as noted, the ‘Silk Road’ trade wasn’t a state initiative, it was Chinese merchants selling to other Chinese merchants and eventually to Central Asian merchants, selling to other Central Asian merchants and eventually Eastern European and/or Middle Eastern merchants, selling to other Eastern European and/or Middle Eastern merchants and eventually Western European merchants. For another, what Chinese interest was there in Europe?</p>
+
+<p>It is true that in the eighteenth and nineteenth centuries, the Great Qing <em>did</em> leverage threats of embargo as a mechanism for exercising control over the activities of European states and their subjects in coastal China. But this was at a time when these states and their subjects had an immediate and apparent presence in southern China, and were capable of travelling between Europe and China practicably in long-range, square-rigged sailing ships. It was a context in which European states served as guarantors for European merchants engaged in direct commerce, in contrast to being tenuously commercially connected to China via long chains of middlemen whose connections were fundamentally coincidental.</p>
+
+<h3 id="124-what-did-the-foreigners-think-of-cromwells-commonwealth-submitted-on-2022-02-06-1720480800">124: <a href="https://old.reddit.com/r/AskHistorians/comments/slsof3/what_did_the_foreigners_think_of_cromwells/">What did the foreigners think of Cromwell’s commonwealth?</a>, submitted on 2022-02-06 17:20:48+08:00.</h3>
+
+<p>—– <strong>124.1</strong> —–2022-02-07 01:06:57+08:00:</p>
+
+<p>Sorry, but we have removed your response, as we expect answers in this subreddit to be <a href="https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/">in-depth, comprehensive</a>, and to be free of <a href="https://www.reddit.com/r/AskHistorians/comments/g3peg6/rules_roundtable_x_informed_complete_answers_the/">significant errors or misunderstandings of the topic at hand</a>. Before contributing again, please take the time to better familiarize yourself with <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_write_an_in-depth_answer">the rules</a>, as well as our expectations for an answer such as featured on <a href="http://www.twitter.com/askhistorians">Twitter</a> or in the <a href="http://www.reddit.com/r/AskHistorians/search?q=title%3A%22Sunday+Digest%22&amp;restrict_sr=on&amp;sort=new&amp;t=all">Sunday Digest</a>.</p>
+
+<h3 id="125-what-do-heavy-cavalry-do-after-a-successful-charge-submitted-on-2022-02-06-1737090800">125: <a href="https://old.reddit.com/r/AskHistorians/comments/slsx9u/what_do_heavy_cavalry_do_after_a_successful_charge/">What do heavy cavalry do after a successful charge?</a>, submitted on 2022-02-06 17:37:09+08:00.</h3>
+
+<p>—– <strong>125.1</strong> —–2022-02-07 11:16:04+08:00:</p>
+
+<p>We’ve removed your post for the moment because it’s not currently at our standards, but it definitely has the potential to fit within our rules with some work. We find that some answers that fall short of our standards can be successfully revised by considering the following questions, not all of which necessarily apply here:</p>
+
+<ul>
+  <li>
+    <p><em>Do you actually address the question asked by OP?</em> Sometimes answers get removed not because they fail to meet our standards, but because they don’t get at what the OP is asking. If the question itself is flawed, you need to explain why, and how your answer addresses the underlying issues at hand.</p>
+  </li>
+  <li>
+    <p><em>What are the sources for your claims?</em> Sources aren’t strictly necessary on /r/AskHistorians but the inclusion of sources is helpful for evaluating your knowledge base. If we can see that your answer is influenced by up-to-date academic secondary sources, it gives us more confidence in your answer and allows users to check where your ideas are coming from.</p>
+  </li>
+  <li>
+    <p><em>What level of detail do you go into about events?</em> Often it’s hard to do justice to even seemingly simple subjects in a paragraph or two, and on /r/AskHistorians, the basics need to be explained within historical context, to avoid misleading intelligent but non-specialist readers.  In many cases, it’s worth providing a broader historical framework, giving more of a sense of not just what happened, but why.</p>
+  </li>
+  <li>
+    <p><em>Do you downplay or ignore legitimate historical debate on the topic matter?</em> There is often more than one plausible interpretation of the historical record. While you might have your own views on which interpretation is correct, answers can often be improved by acknowledging alternative explanations from other scholars.</p>
+  </li>
+  <li>
+    <p><em>Further Reading</em>: <a href="https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/">This Rules Roundtable</a> provides further exploration of the rules and expectations concerning answers so may be of interest.</p>
+  </li>
+</ul>
+
+<p>If/when you edit your answer, <a href="http://www.reddit.com/message/compose?to=%2Fr%2FAskHistorians">please reach out via modmail</a> so we can re-evaluate it! We also welcome you getting in touch if you’re unsure about how to improve your answer.</p>
+
+<h3 id="126-what-authority-did-the-very-earliest-kings-and-lords-in-europe-claim-that-gave-them-their-power-over-their-subjects-submitted-on-2022-02-06-2331140800">126: <a href="https://old.reddit.com/r/AskHistorians/comments/slzdda/what_authority_did_the_very_earliest_kings_and/">What authority did the very earliest kings and lords in Europe claim that gave them their power over their subjects?</a>, submitted on 2022-02-06 23:31:14+08:00.</h3>
+
+<p>—– <strong>126.1</strong> —–2022-02-07 11:09:24+08:00:</p>
+
+<blockquote>
+  <p>A Clash of Kings by George R. R. Martin. Bantam Books, 1999. (Mods, forgive me, I had to do it.)</p>
+</blockquote>
+
+<p>No, you very much didn’t. We’ll be happy to consider reinstating your answer if the offending sections are removed.</p>
+
+<p>—– <strong>126.2</strong> —–2022-02-07 11:44:49+08:00:</p>
+
+<p>Thanks.</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-02-06</time>
+        <a href="https://nodebe4.github.io/opinion/2022-02-06/theoryofdoom/">
+          theoryofdoom在2022-01-31~2022-02-06的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-02-06</time>
+        <a href="https://nodebe4.github.io/opinion/2022-02-06/Spinkcat/">
+          Spinkcat在2022-01-31~2022-02-06的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-02-06</time>
+        <a href="https://nodebe4.github.io/opinion/2022-02-06/Commodify/">
+          Commodify在2022-01-31~2022-02-06的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-02-04</time>
+        <a href="https://nodebe4.github.io/opinion/2022-02-04/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-01-31~2022-02-06的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-02-06/Commodify/">
+            前一篇：Commodify在2022-01-31~2022-02-06的言论
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-02-06/SpeechFreedomCN/">
+            後一篇：Twitter @中国文字狱事件盘点: 2022-01-31~2022-02-06
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-02-06/Commodify/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-02-06/SpeechFreedomCN/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-02-06/Spinkcat/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-02-06/Commodify/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-02-06/Commodify/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-02-06/SpeechFreedomCN/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-02-06/Spinkcat/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-02-06/Commodify/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

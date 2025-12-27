@@ -1,0 +1,2557 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Yvan888在2019-10-28~2019-11-03的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Yvan888在2019-10-28~2019-11-03的言论" />
+    <meta property="twitter:title" content="Yvan888在2019-10-28~2019-11-03的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2Fkindle%2Fcomments%2Fdnvw0q%2Fdo_you_still_buy_books%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/kindle/comments/dnvw0q/do_you_still_buy_books/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/kindle/comments/dnvw0q/do_you_still_buy_books/&text=Yvan888在2019-10-28~2019-11-03的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/kindle/comments/dnvw0q/do_you_still_buy_books/&title=Yvan888在2019-10-28~2019-11-03的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/kindle/comments/dnvw0q/do_you_still_buy_books/&title=Yvan888在2019-10-28~2019-11-03的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Yvan888在2019-10-28~2019-11-03的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/kindle/comments/dnvw0q/do_you_still_buy_books/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/kindle/comments/dnvw0q/do_you_still_buy_books/&title=Yvan888在2019-10-28~2019-11-03的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Yvan888在2019-10-28~2019-11-03的言论&url=https://old.reddit.com/r/kindle/comments/dnvw0q/do_you_still_buy_books/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Yvan888在2019-10-28~2019-11-03的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2019-10-28
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://www.reddit.com/user/Yvan888/" style="font-size:14px;">作者: Yvan888</a>
+        </span>
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/kindle/comments/dnvw0q/do_you_still_buy_books/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#570-do-you-still-buy-books-submitted-on-2019-10-28-0038350800" id="markdown-toc-570-do-you-still-buy-books-submitted-on-2019-10-28-0038350800">570: Do you still buy Books?, submitted on 2019-10-28 00:38:35+08:00.</a></li>
+  <li><a href="#571-googleyoutube的内容审查制度是否有点过分这和中共有区别吗-submitted-on-2019-10-28-0457440800" id="markdown-toc-571-googleyoutube的内容审查制度是否有点过分这和中共有区别吗-submitted-on-2019-10-28-0457440800">571: Google/Youtube的内容审查制度是否有点过分？这和中共有区别吗？, submitted on 2019-10-28 04:57:44+08:00.</a></li>
+  <li><a href="#572-the-fear-we-mainlanders-share-submitted-on-2019-10-28-2254220800" id="markdown-toc-572-the-fear-we-mainlanders-share-submitted-on-2019-10-28-2254220800">572: The fear we mainlanders share, submitted on 2019-10-28 22:54:22+08:00.</a></li>
+  <li><a href="#573-真實嗎各位-submitted-on-2019-10-29-0646390800" id="markdown-toc-573-真實嗎各位-submitted-on-2019-10-29-0646390800">573: 真實嗎，各位？, submitted on 2019-10-29 06:46:39+08:00.</a></li>
+  <li><a href="#574-democracy-activist-joshua-wong-barred-from-hong-kong-election-submitted-on-2019-10-29-1115250800" id="markdown-toc-574-democracy-activist-joshua-wong-barred-from-hong-kong-election-submitted-on-2019-10-29-1115250800">574: Democracy activist Joshua Wong barred from Hong Kong election, submitted on 2019-10-29 11:15:25+08:00.</a></li>
+  <li><a href="#575-what-would-you-say-is-the-one-thing-you-cant-forgive-a-person-for--submitted-on-2019-10-29-1352410800" id="markdown-toc-575-what-would-you-say-is-the-one-thing-you-cant-forgive-a-person-for--submitted-on-2019-10-29-1352410800">575: What would you say is the one thing you can’t forgive a person for ?, submitted on 2019-10-29 13:52:41+08:00.</a></li>
+  <li><a href="#576-redditors-who-cook-whats-the-biggest-no-no-thing-in-cooking-submitted-on-2019-10-29-1932070800" id="markdown-toc-576-redditors-who-cook-whats-the-biggest-no-no-thing-in-cooking-submitted-on-2019-10-29-1932070800">576: Redditors who cook, whats the biggest ‘no no’ thing in cooking?, submitted on 2019-10-29 19:32:07+08:00.</a></li>
+  <li><a href="#577-who-am-i-submitted-on-2019-10-30-0016370800" id="markdown-toc-577-who-am-i-submitted-on-2019-10-30-0016370800">577: Who am i?, submitted on 2019-10-30 00:16:37+08:00.</a></li>
+  <li><a href="#578-after-an-accident-this-tiger-had-its-tooth-replaced-with-a-gold-one-submitted-on-2019-10-30-0426300800" id="markdown-toc-578-after-an-accident-this-tiger-had-its-tooth-replaced-with-a-gold-one-submitted-on-2019-10-30-0426300800">578: After an accident this tiger had its tooth replaced with a gold one., submitted on 2019-10-30 04:26:30+08:00.</a></li>
+  <li><a href="#579-大胆讨论假如要连任会发生啥事-submitted-on-2019-10-30-0937180800" id="markdown-toc-579-大胆讨论假如要连任会发生啥事-submitted-on-2019-10-30-0937180800">579: 大胆讨论：假如🐻要连任，会发生啥事？, submitted on 2019-10-30 09:37:18+08:00.</a></li>
+  <li><a href="#580-notepad-的-github-issues-遭到洗版-submitted-on-2019-10-30-1441550800" id="markdown-toc-580-notepad-的-github-issues-遭到洗版-submitted-on-2019-10-30-1441550800">580: Notepad++ 的 GitHub issues 遭到洗版, submitted on 2019-10-30 14:41:55+08:00.</a></li>
+  <li><a href="#581-西藏自古以来就不是中国的一部分-submitted-on-2019-10-30-1641300800" id="markdown-toc-581-西藏自古以来就不是中国的一部分-submitted-on-2019-10-30-1641300800">581: 《西藏自古以来就不是中国的一部分》, submitted on 2019-10-30 16:41:30+08:00.</a></li>
+  <li><a href="#582-这波非洲猪瘟连锁的物价上涨有逆转的余地吗-submitted-on-2019-10-30-2006510800" id="markdown-toc-582-这波非洲猪瘟连锁的物价上涨有逆转的余地吗-submitted-on-2019-10-30-2006510800">582: 这波非洲猪瘟连锁的物价上涨有逆转的余地吗？, submitted on 2019-10-30 20:06:51+08:00.</a></li>
+  <li><a href="#583-chinese-actor-yunxiang-gao-slapped-sydney-woman-as-producer-raped-her-jury-hears-submitted-on-2019-10-31-0049430800" id="markdown-toc-583-chinese-actor-yunxiang-gao-slapped-sydney-woman-as-producer-raped-her-jury-hears-submitted-on-2019-10-31-0049430800">583: Chinese actor Yunxiang Gao slapped Sydney woman as producer raped her, jury hears., submitted on 2019-10-31 00:49:43+08:00.</a></li>
+  <li><a href="#584-goodnotes-5-on-mac-is-a-scam-lowkey-submitted-on-2019-10-31-0237300800" id="markdown-toc-584-goodnotes-5-on-mac-is-a-scam-lowkey-submitted-on-2019-10-31-0237300800">584: GoodNotes 5 on Mac is a scam (lowkey), submitted on 2019-10-31 02:37:30+08:00.</a></li>
+  <li><a href="#585-lets-take-a-moment-to-really-appreciate-how-pleco-handwriting-input-understands-even-the-most-sloppy-scribbles-a-true-feat-of-ingenuous-technology-i-cant-imagine-how-people-got-by-with-paper-dictionaries-only-a-few-centuries-ago-submitted-on-2019-10-31-0428220800" id="markdown-toc-585-lets-take-a-moment-to-really-appreciate-how-pleco-handwriting-input-understands-even-the-most-sloppy-scribbles-a-true-feat-of-ingenuous-technology-i-cant-imagine-how-people-got-by-with-paper-dictionaries-only-a-few-centuries-ago-submitted-on-2019-10-31-0428220800">585: Let’s take a moment to really appreciate how Pleco handwriting input understands even the most sloppy scribbles, a true feat of ingenuous technology. I can’t imagine how people got by with paper dictionaries only a few centuries ago., submitted on 2019-10-31 04:28:22+08:00.</a></li>
+  <li><a href="#586-the-ccps-nerve-center-submitted-on-2019-10-31-0936260800" id="markdown-toc-586-the-ccps-nerve-center-submitted-on-2019-10-31-0936260800">586: The CCP’s Nerve Center, submitted on 2019-10-31 09:36:26+08:00.</a></li>
+  <li><a href="#587-new-statesman-cover-page-submitted-on-2019-10-31-2243030800" id="markdown-toc-587-new-statesman-cover-page-submitted-on-2019-10-31-2243030800">587: New Statesman cover page, submitted on 2019-10-31 22:43:03+08:00.</a></li>
+  <li><a href="#588-怎么看notepad作者事件-submitted-on-2019-11-01-0845510800" id="markdown-toc-588-怎么看notepad作者事件-submitted-on-2019-11-01-0845510800">588: 怎么看notepad++作者事件, submitted on 2019-11-01 08:45:51+08:00.</a></li>
+  <li><a href="#589-ccp-is-preparing-the-must-fight-6-wars-in-the-future-submitted-on-2019-11-01-1131060800" id="markdown-toc-589-ccp-is-preparing-the-must-fight-6-wars-in-the-future-submitted-on-2019-11-01-1131060800">589: CCP is preparing the must fight 6 wars in the future, submitted on 2019-11-01 11:31:06+08:00.</a></li>
+  <li><a href="#590-sucks-when-people-switch-i-wanna-practice-so-bad-submitted-on-2019-11-02-0217080800" id="markdown-toc-590-sucks-when-people-switch-i-wanna-practice-so-bad-submitted-on-2019-11-02-0217080800">590: sucks when people switch I wanna practice so bad, submitted on 2019-11-02 02:17:08+08:00.</a></li>
+  <li><a href="#591-chinas-military-appeared-on-the-street-of-new-zealand-parade-and-wave-chinese-flag-submitted-on-2019-11-02-1628570800" id="markdown-toc-591-chinas-military-appeared-on-the-street-of-new-zealand-parade-and-wave-chinese-flag-submitted-on-2019-11-02-1628570800">591: China’s military appeared on the street of New Zealand, parade and wave Chinese flag, submitted on 2019-11-02 16:28:57+08:00.</a></li>
+  <li><a href="#592-i-have-a-stutter-ama-submitted-on-2019-11-02-1953310800" id="markdown-toc-592-i-have-a-stutter-ama-submitted-on-2019-11-02-1953310800">592: I have a stutter. AMA., submitted on 2019-11-02 19:53:31+08:00.</a></li>
+  <li><a href="#593-girls-what-was-the-most-obvious-hint-you-dropped-and-the-guy-just-didnt-get-it-submitted-on-2019-11-03-0114460800" id="markdown-toc-593-girls-what-was-the-most-obvious-hint-you-dropped-and-the-guy-just-didnt-get-it-submitted-on-2019-11-03-0114460800">593: Girls, what was the most obvious hint you dropped, and the guy just didn’t get it?, submitted on 2019-11-03 01:14:46+08:00.</a></li>
+  <li><a href="#594-unpopular-opinion-i-think-everyone-would-benefit-from-china-adopting-the-korean-alphabet-or-at-least-something-similar-especially-since-they-have-very-few-sounds-no-reason-to-have-the-biggest-writing-system-time-to-modernize-a-real-simplified-version-submitted-on-2019-11-03-0154540800" id="markdown-toc-594-unpopular-opinion-i-think-everyone-would-benefit-from-china-adopting-the-korean-alphabet-or-at-least-something-similar-especially-since-they-have-very-few-sounds-no-reason-to-have-the-biggest-writing-system-time-to-modernize-a-real-simplified-version-submitted-on-2019-11-03-0154540800">594: Unpopular Opinion: I think everyone would benefit from China adopting the Korean alphabet (or at least something similar). Especially since they have very few sounds, no reason to have the biggest writing system. Time to modernize? A real simplified version., submitted on 2019-11-03 01:54:54+08:00.</a></li>
+  <li><a href="#595-best-website-to-buy-chinese-ebooks-submitted-on-2019-11-03-0211020800" id="markdown-toc-595-best-website-to-buy-chinese-ebooks-submitted-on-2019-11-03-0211020800">595: Best website to buy Chinese ebooks?, submitted on 2019-11-03 02:11:02+08:00.</a></li>
+  <li><a href="#596-this-is-what-i-miss-about-chinar-craving-post-jianada-meiyou-submitted-on-2019-11-03-0314350800" id="markdown-toc-596-this-is-what-i-miss-about-chinar-craving-post-jianada-meiyou-submitted-on-2019-11-03-0314350800">596: This is what I miss about Chinar (craving post. Jianada meiyou), submitted on 2019-11-03 03:14:35+08:00.</a></li>
+  <li><a href="#597-fahrenheit-always-confuses-me-submitted-on-2019-11-03-0846230800" id="markdown-toc-597-fahrenheit-always-confuses-me-submitted-on-2019-11-03-0846230800">597: Fahrenheit always confuses me, submitted on 2019-11-03 08:46:23+08:00.</a></li>
+</ul>
+
+<h3 id="570-do-you-still-buy-books-submitted-on-2019-10-28-0038350800">570: <a href="https://old.reddit.com/r/kindle/comments/dnvw0q/do_you_still_buy_books/">Do you still buy Books?</a>, submitted on 2019-10-28 00:38:35+08:00.</h3>
+
+<p>—– <strong>570.1</strong> —–2019-11-01 06:07:00+08:00:</p>
+
+<p>tbh I still don’t get it</p>
+
+<p>I know the physical papers and cover are not that expensive</p>
+
+<p>But why ebook will be more expensive without physical materials?</p>
+
+<h3 id="571-googleyoutube的内容审查制度是否有点过分这和中共有区别吗-submitted-on-2019-10-28-0457440800">571: <a href="https://old.reddit.com/r/China_irl/comments/dnz58b/googleyoutube的内容审查制度是否有点过分这和中共有区别吗/">Google/Youtube的内容审查制度是否有点过分？这和中共有区别吗？</a>, submitted on 2019-10-28 04:57:44+08:00.</h3>
+
+<p>—– <strong>571.1</strong> —–2019-10-28 09:38:34+08:00:</p>
+
+<p>自由是有界限的，中国如此，美国亦如此，关键是这种界限能否服众。</p>
+
+<p>当然，我没有说美国那种界限就很服众，但中国这种是连自身国民都很大怨言。</p>
+
+<p>言论自由、经济自由…都是有界限且大致对等的。别人问我美国也制裁中国企业也封锁中国言论时，我会反问：你看过美国冷战期间跟苏联做生意吗？放任苏联的宣传吗？</p>
+
+<p>所以更多地，不是美国双标，是中国双标。美国等自由世界，能到现在还让一步步更加集权的中国的官媒在fb、tw、yt等存在，是因为还没走到冷战那一步，中国不能自己不让自由世界的媒体进来，然后自己在自由世界建设媒体阵地，然后还说别人双标吧？</p>
+
+<p>经济其实也差不多，不过考虑到经济的先发后发的差异，我认为部分程度的封闭不是不能理解的…但你不能说别人双标。</p>
+
+<p>—– <strong>571.2</strong> —–2019-10-28 09:52:33+08:00:</p>
+
+<p>讲道理，作为一个看外媒很多年的人，我不认为他们的报道有什么很大的一致性。</p>
+
+<p>当然，意识形态的立场相近那是当然的，就像这次香港一样，你不可能期望别人报道一个反自由民主吧。但国内说得别人完全不报道示威者的暴力行为，我看也有报道啊，汽油弹之类的。</p>
+
+<p>google是哪件事呢？我最近没太关注时事。</p>
+
+<p>—– <strong>571.3</strong> —–2019-10-28 15:28:37+08:00:</p>
+
+<p>所以你认为美国等国家当时冷战时候对苏联的舆论攻势，也是反言论自由的一种表现吗？</p>
+
+<h3 id="572-the-fear-we-mainlanders-share-submitted-on-2019-10-28-2254220800">572: <a href="https://old.reddit.com/r/China/comments/do9x4j/the_fear_we_mainlanders_share/">The fear we mainlanders share</a>, submitted on 2019-10-28 22:54:22+08:00.</h3>
+
+<p>—– <strong>572.1</strong> —–2019-10-29 12:08:33+08:00:</p>
+
+<p>OK mainlander here…</p>
+
+<blockquote>
+  <p>In China you have to use your phone number to register an account of any social platform and you have to show your ID card or passport when you buy a phone number. If you post something against the government, they can find you and your family very easily when they want. That’s why some people say: Be grateful if Weibo just delete your posts. They’re protecting you from the police.</p>
+</blockquote>
+
+<p>Correct. Actually, I haven’t discussed any relatively sensitive political topics within the GFW a long time ago. One reason is that I cannot elaborate on my opinion well without being deleted. The other reason is, as you said, I don’t want to lie in the blacklist which may impair my future development in China. Actually, now I even begin to avoid talking about politics via video considering the rising of voice-detected tech.</p>
+
+<blockquote>
+  <p>They’d like to criticize the government. However, as I mentioned in my last post, they’re instilled lots of “red lines” which are against diversity and other western values. If you cross their red line, for example, say “I think Taiwan is not China”, you’re a “bad guy”, too. How do we treat a bad guy? A bad guy is our enemy. We should punish and humiliate them in any possible way. They would report you to the regime. They would post your private message on Chinese social networks so other Chinese patriots could help doing you. The personal information of your family would be posted online. Your parents maybe get humiliated by the neighbors. And they think they’re doing the right thing to protect China.</p>
+</blockquote>
+
+<p>Well, I’m indeed a guy who insists on the unification between mainland and Taiwan but it’s just my personal opinion. Also, I won’t force Taiwan people to live in a one-party system. I’m not that sure whether some guys will report you just because of your different opinion on Taiwan issues. HK issue may be a different story, given the ongoing HK protest and CCP’s propaganda that HK’s five-demand is equal to HK independence, I do see there are several guys being hanged on Weibo because of their sympathy with protestors but some of my friends who keep posting pro-HK-protestor in Wechat moment and Facebook are still fine.</p>
+
+<blockquote>
+  <p>blocking the Chinese social media, WeChat and Weibo. Lots of overseas Chinese consume information in Chinese only on WeChat and Weibo. They don’t read local media. Because there is no journalism and diversity in mainland China, WeChat and Weibo are full of fake news, propaganda, and racism content. That’s why so many overseas Chinese are Trump supporters. They just keep being educated by WeChat and Weibo after living many years in the US. It’s a huge threat for the West. China can manipulate the election in the West by just using WeChat if you know how many overseas Chinese have the right to vote. I think if we block the Chinese social media, the mainlanders then have to read more in English and leave their echo chamber. (More about how they get the information: https://www.newyorker.com/culture/culture-desk/the-post-truth-publication-where-chinese-students-in-america-get-their-news) Someone may think it violates the right of free press, but as I mentioned earlier, we shouldn’t tolerate the intolerance, or else we won’t have free press anymore. By the way, it’s also reciprocal to China’s Internet policy. They banned almost every social media and newspapers from the West in the name of national security.</p>
+</blockquote>
+
+<p>I don’t think it will work, both the policy and the effect. On policy, it’s nearly infeasible because if it does, it must come with other policies and is no different than sanctioning the whole PRC, which is just one step away from the cold war. Don’t you see the Russian official media, RT, is still popular on YouTube? On effect, it will just have a backfire and push most Chinese people to the CCP side because they will think it shows the double-standard and hypocrisy of the west and a repeat of the century of humiliation.</p>
+
+<p>Also, it makes no sense that they will read more English news. Not to mention their poor English skills, lots of my friends keep reading western media from the middle schools or high schools to improve their English, but by observation,​ I won’t say they have changed their minds a lot. BTW there are already lots of free-world-back Chinese press such as BBC Chinese, VOA, and Free Asia, not to mention lots of anti-ccp self-medias.  Some of the so-called free China media such as the FLG-back ones, ironically have a backfire because lots of mainlanders think FLG is too stupid to believe (sorry to say that). They’re just not effective as you may think.</p>
+
+<hr />
+
+<p>TBH I don’t think CCP will collapse in this century unless some HUGE things happen (huge like WWIII). Believe it or not, the endorsement of CCP from China inside in this decade is not decreasing, if not increasing, and I forecast​ the domestic support will still remain a not-bad level in the foreseeable future.</p>
+
+<p>—– <strong>572.2</strong> —–2019-10-29 12:23:21+08:00:</p>
+
+<blockquote>
+  <p>What percentage of generation you think shares your same thoughts?</p>
+</blockquote>
+
+<p>IMO it’s no more than 20% (I’m already extremely positive here)</p>
+
+<p>—– <strong>572.3</strong> —–2019-10-29 12:51:33+08:00:</p>
+
+<blockquote>
+  <p>Regarding your last paragraph about CCP support increasing domestically– I think that’s by design. The government has spent the past 2+ years setting up the West, and particularly the US, as a scapegoat to blame for any problems China may have had to face in the near future (economic or otherwise). They knew that hard times were coming and the best way for the CCP to stay in control would be to shift the blame to outsiders.</p>
+</blockquote>
+
+<p>That’s one point but IMO not the key point because the west has been scapegoat by CCP for more than 70 years lol. The main reason is the economic wonder for the last two decades in China. Although you may argue that it’s mainly because the west let China join WTO and so on, but lots of Chinese people do think it’s a great achievement by CCP. TBH I would also like to give some credits to CCP on the economic development in these two decades. Moreover, based on the current thriving society, both CCP and lots of Chinese have developed an extremely exquisite, logical-complacent theory to endorse the current system and against the western values. I may try to elaborate on this topic in this sub once I have time​ because it will be a long post.</p>
+
+<p>—– <strong>572.4</strong> —–2019-10-29 12:58:20+08:00:</p>
+
+<p>The majority​ of them will stay the same, some of them will be even more pro-ccp, a small part of them may turn to the western values side.</p>
+
+<p>—– <strong>572.5</strong> —–2019-10-29 22:30:02+08:00:</p>
+
+<p>You know, if banning WeChat or something, the CCP propaganda machine will definitely say it’s 帝国主义亡我之心不死 (the western imperialism always want to conquer china) and so on.</p>
+
+<p>If my observation is right, current HK protest had already put lots of kinda neutral people to the pro-CCP side, not to say banning the whole wechat.</p>
+
+<p>Moreover, if we ban wechat, it’s not that hard that Chinese companies or government develop a new app and encourage or force Chinese people to use it. Even if they use Facebook and something, they probably will still consume the domestic feeds via all the news channels you can think. So, what’s the next step? Banning all Chinese companies developing an app? Banning all chinese official or suspected government-back medias oversea? How can we force at least oversea chinese people to consume free world medias without sanctioning the whole PRC? What about the domestic chinese people that none of the foreign power can touch them? I really don’t think we can do it.</p>
+
+<p>—– <strong>572.6</strong> —–2019-10-29 23:22:33+08:00:</p>
+
+<p>(Oversea) Wechat is just a manifestation of the rich connection between China and the world but not the connection per se. IMO it’s no way to just cut WeChat because there would be enormous WeChat alternatives and counterparts thanks to the high and growing  level of sino-world connection</p>
+
+<p>It’s even hard for you to cut the xuexi qiangguo app, not to say WeChat.</p>
+
+<p>—– <strong>572.7</strong> —–2019-10-30 00:38:21+08:00:</p>
+
+<p>I’m also talking about oversea stuffs, both wechat and xuexi qiangguo.</p>
+
+<p>The connection is reflective. Changing China to be more liberal only by opening the door is just a wish from the west. By connection, the west has the potential to change China, and vice versa.</p>
+
+<p>When I talk about connection, I mean all sorts of connections such as economic, social, cultural, political ones.</p>
+
+<blockquote>
+  <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>the West is cutting the tie with China and closing the door
+</code></pre></div>  </div>
+</blockquote>
+
+<p>You are right here. I was just arguing that it’s no way to JUST cut wechat without cutting other connections because they are symbiosis. But cutting nearly all the connections? I don’t think the west and even the world have prepared for it, though it may be a right strategy.</p>
+
+<h3 id="573-真實嗎各位-submitted-on-2019-10-29-0646390800">573: <a href="https://old.reddit.com/r/China_irl/comments/dogtrr/真實嗎各位/">真實嗎，各位？</a>, submitted on 2019-10-29 06:46:39+08:00.</h3>
+
+<p>—– <strong>573.1</strong> —–2019-10-29 08:52:19+08:00:</p>
+
+<p>不人道是真，但起码强奸之类的我是不会怎么信的……不过中国没有新闻自由，这种东西只能任凭别人说去了</p>
+
+<h3 id="574-democracy-activist-joshua-wong-barred-from-hong-kong-election-submitted-on-2019-10-29-1115250800">574: <a href="https://old.reddit.com/r/worldnews/comments/dok66f/democracy_activist_joshua_wong_barred_from_hong/">Democracy activist Joshua Wong barred from Hong Kong election</a>, submitted on 2019-10-29 11:15:25+08:00.</h3>
+
+<p>—– <strong>574.1</strong> —–2019-10-30 08:31:36+08:00:</p>
+
+<blockquote>
+  <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>And since science is highly political in the PRC and the Communist Party loves this kind of stuff this is still mainstream view over there.
+</code></pre></div>  </div>
+</blockquote>
+
+<p>Am Chinese. If you are talking about whether majority Chinese think we are different race from others, I can guarantee that it’s definitely NOT a mainstream view. Actually I wonder how many Chinese buy it.</p>
+
+<p>Here is a 21K-upvoted related answer from <a href="https://www.zhihu.com/question/33526473/answer/82151531">a chinese website</a>. You may use Google translator to read at least the first two points.</p>
+
+<h3 id="575-what-would-you-say-is-the-one-thing-you-cant-forgive-a-person-for--submitted-on-2019-10-29-1352410800">575: <a href="https://old.reddit.com/r/AskReddit/comments/dolowk/what_would_you_say_is_the_one_thing_you_cant/">What would you say is the one thing you can’t forgive a person for ?</a>, submitted on 2019-10-29 13:52:41+08:00.</h3>
+
+<p>—– <strong>575.1</strong> —–2019-10-30 01:31:57+08:00:</p>
+
+<p>It’s so abnormal that I reread your comments for several times to figure out what’s going on.</p>
+
+<h3 id="576-redditors-who-cook-whats-the-biggest-no-no-thing-in-cooking-submitted-on-2019-10-29-1932070800">576: <a href="https://old.reddit.com/r/AskReddit/comments/dooi6l/redditors_who_cook_whats_the_biggest_no_no_thing/">Redditors who cook, whats the biggest ‘no no’ thing in cooking?</a>, submitted on 2019-10-29 19:32:07+08:00.</h3>
+
+<p>—– <strong>576.1</strong> —–2019-10-30 00:53:27+08:00:</p>
+
+<blockquote>
+  <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>they stand there saying how they would have done it
+</code></pre></div>  </div>
+</blockquote>
+
+<p>Same to all other stuffs.</p>
+
+<p>I would never understand these people…</p>
+
+<h3 id="577-who-am-i-submitted-on-2019-10-30-0016370800">577: <a href="https://old.reddit.com/r/dankmemes/comments/dos2n1/who_am_i/">Who am i?</a>, submitted on 2019-10-30 00:16:37+08:00.</h3>
+
+<p>—– <strong>577.1</strong> —–2019-10-30 04:29:33+08:00:</p>
+
+<p>Cuz every teenager think s/he is unique and memorable</p>
+
+<h3 id="578-after-an-accident-this-tiger-had-its-tooth-replaced-with-a-gold-one-submitted-on-2019-10-30-0426300800">578: <a href="https://old.reddit.com/r/Damnthatsinteresting/comments/dovo79/after_an_accident_this_tiger_had_its_tooth/">After an accident this tiger had its tooth replaced with a gold one.</a>, submitted on 2019-10-30 04:26:30+08:00.</h3>
+
+<p>—– <strong>578.1</strong> —–2019-10-30 09:55:27+08:00:</p>
+
+<p>Gold One</p>
+
+<h3 id="579-大胆讨论假如要连任会发生啥事-submitted-on-2019-10-30-0937180800">579: <a href="https://old.reddit.com/r/China_irl/comments/dozylc/大胆讨论假如要连任会发生啥事/">大胆讨论：假如🐻要连任，会发生啥事？</a>, submitted on 2019-10-30 09:37:18+08:00.</h3>
+
+<p>—– <strong>579.1</strong> —–2019-10-30 09:53:51+08:00:</p>
+
+<p>什么叫“有连任意图”。。。这是肯定的，除非有什么政变</p>
+
+<p>我倒想问他是要做三任还是四任抑或更多</p>
+
+<p>对我个人而言，四任是底线了 （当然，我由始至终都极其反对修宪</p>
+
+<p>—– <strong>579.2</strong> —–2019-10-30 10:13:18+08:00:</p>
+
+<p>我觉得习连任</p>
+
+<p>一半是客观上的被迫，因为他反腐得罪的团体太多，如果没有完全清算的话，下台后他可能比他爸下场还惨，他家也不得安宁。这算是专制体制一个根本性的缺点，即没有一个完善的退出机制，极容易恶化权力斗争并泛化到社会的方方面面</p>
+
+<p>另一半是他自己的野心，即你的问题本身。老实讲，习的核心路线我现在还不太清楚，主要是他的“习新时代思想”涵盖太多了，不像江胡一样比较具体明确。个人觉得，国内会继续反腐斗争、监察制建设、言论会进一步收紧、同化政策会进一步强烈，国外会继续跟美抗争直到习认为已经可以交给下一任了（虽说我很怀疑能否做到）、加强一带一路建设，台湾问题不知道是否真会提上日程，按照习的《告台湾同胞书》，他肯定是想的，但现在可能台湾问题没有香港问题和中美贸易战的优先级那么高，毕竟当年江也想在台湾问题上做贡献，结果因为客观的实力问题而不了了之。</p>
+
+<p>—– <strong>579.3</strong> —–2019-10-30 11:37:19+08:00:</p>
+
+<p>江加强版吗？</p>
+
+<p>首先，中国现在没有，以后可能也没有，像邓那一代元老一样的影响力，不可能像邓一样不做国家主席却完全掌握大局。</p>
+
+<p>所以，国家主席不是完全没用的虚位，即使很多人说胡是摆设，但我认为胡江还是能相互制衡的，即这几个位置是能够相互制衡的，不然胡也不可能完全传棒给习。</p>
+
+<p>不管是名义上还是实际上，我都不愿看到已经非常集权的中国进一步加强集权。</p>
+
+<p>—– <strong>579.4</strong> —–2019-10-30 11:43:55+08:00:</p>
+
+<p>像不专制的国家，最差就是总统在牢里（韩国）甚至被枪杀（以前美国）。。。</p>
+
+<p>而且，我觉得被人搞到牢里或者被枪杀也算是退出机制的一种啊</p>
+
+<p>不专制不是说，这个政治体制里就没有斗争和黑暗，斗争是人类的天性，而是说负面影响比较可控</p>
+
+<p>而在专制的国家，比较容易导致总统终身制，伴随的很可能是封闭和落后，最差就是像文革和朝鲜这种情况发生</p>
+
+<p>btw 我不太相信韩国这种恶性的完全由财阀掌控的情况会在中国发生，因为中国太大了，不可能几个财阀就掌控。同时，韩国等倚靠美国的半自主国家，跟中国这种完全自主的国家，想必还是不一样的</p>
+
+<p>—– <strong>579.5</strong> —–2019-10-30 11:48:06+08:00:</p>
+
+<p>以前还有什么，恢复儒家还是什么东东，虽然我也不知道是不是习本身的意思，但是很蛋疼</p>
+
+<p>雄安特区也不知道怎么样了</p>
+
+<p>其实你列的反而是我比较赞同：环保、人工智能、一带一路、垃圾分类</p>
+
+<p>贸易战，也是肯定会来的（虽然有人认为是中共的问题，也有人认为是美国的问题）</p>
+
+<p>—– <strong>579.6</strong> —–2019-10-30 11:53:59+08:00:</p>
+
+<p>我记得当时习修宪时，即使是票圈里面也一大堆反对声，包括一些我知道的亲体制的熟人</p>
+
+<p>现在？很多人又觉得是英明神武了（为贸易战准备），或者也没什么（国家主席虚位说）</p>
+
+<p>呵呵，虽然我很讨厌什么劣根性的说法，但是仅在这个问题上我还真怀疑就是中国传统文化的问题</p>
+
+<h3 id="580-notepad-的-github-issues-遭到洗版-submitted-on-2019-10-30-1441550800">580: <a href="https://old.reddit.com/r/saraba1st/comments/dp31i5/notepad_的_github_issues_遭到洗版/">Notepad++ 的 GitHub issues 遭到洗版</a>, submitted on 2019-10-30 14:41:55+08:00.</h3>
+
+<p>—– <strong>580.1</strong> —–2019-10-31 04:55:40+08:00:</p>
+
+<p>毕竟是留学法国的法国籍台湾裔/华裔</p>
+
+<p>这很法国</p>
+
+<h3 id="581-西藏自古以来就不是中国的一部分-submitted-on-2019-10-30-1641300800">581: <a href="https://old.reddit.com/r/saraba1st/comments/dp3z3d/西藏自古以来就不是中国的一部分/">《西藏自古以来就不是中国的一部分》</a>, submitted on 2019-10-30 16:41:30+08:00.</h3>
+
+<p>—– <strong>581.1</strong> —–2019-10-31 07:43:07+08:00:</p>
+
+<p>我不是这方面的专家</p>
+
+<p>我不认为疆藏是自古以来（起码清朝前）就铁定是中国领土，毕竟大家互相侵略你来我往</p>
+
+<p>但是，说疆藏不是清朝领土感觉有点过分，清朝对疆藏的统治程度明显大于其他藩属国（朝鲜越南等）</p>
+
+<p>我看过这么多清朝地图，无论中西，都是有涵盖疆藏的，同时也从来没有涵盖朝鲜越南等的（顶多用浅色表明是清朝实力范围），很明显性质不一样</p>
+
+<p>清朝为西方对藏民的镇压感到高兴没什么可说的，那清朝也为西方对义和团等的镇压感到高兴，难道中原就不是清朝的？清朝皇家那种“宁与外邦不与家奴”是不能永现代人看法去理解的。更多像，一个跟你同等身份的人打骂了你家奴隶，你跟在一旁鼓掌打得好是一样的</p>
+
+<p>我认为，中共继承民国继承清朝领土，这一个逻辑大致是没问题的</p>
+
+<p>—– <strong>581.2</strong> —–2019-10-31 13:17:01+08:00:</p>
+
+<p>如果你说的是正规交接那当然没有，毕竟这是打下来的江山</p>
+
+<p>所以你认为应该如何界定？</p>
+
+<p>继承的反面，又是什么？</p>
+
+<h3 id="582-这波非洲猪瘟连锁的物价上涨有逆转的余地吗-submitted-on-2019-10-30-2006510800">582: <a href="https://old.reddit.com/r/saraba1st/comments/dp5t46/这波非洲猪瘟连锁的物价上涨有逆转的余地吗/">这波非洲猪瘟连锁的物价上涨有逆转的余地吗？</a>, submitted on 2019-10-30 20:06:51+08:00.</h3>
+
+<p>—– <strong>582.1</strong> —–2019-10-31 07:48:40+08:00:</p>
+
+<p>挺好，中国人食谱应该更多像西方看齐，上升牛肉占比，下降猪肉占比，营养结构能更为优化</p>
+
+<h3 id="583-chinese-actor-yunxiang-gao-slapped-sydney-woman-as-producer-raped-her-jury-hears-submitted-on-2019-10-31-0049430800">583: <a href="https://old.reddit.com/r/China/comments/dp9c1y/chinese_actor_yunxiang_gao_slapped_sydney_woman/">Chinese actor Yunxiang Gao slapped Sydney woman as producer raped her, jury hears.</a>, submitted on 2019-10-31 00:49:43+08:00.</h3>
+
+<p>—– <strong>583.1</strong> —–2019-10-31 13:09:57+08:00:</p>
+
+<blockquote>
+  <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>China has got to be the rape capital of the world
+</code></pre></div>  </div>
+</blockquote>
+
+<p>lol but in China, the rape capital of the world is actually India</p>
+
+<p>Just say.</p>
+
+<h3 id="584-goodnotes-5-on-mac-is-a-scam-lowkey-submitted-on-2019-10-31-0237300800">584: <a href="https://old.reddit.com/r/GoodNotes/comments/dparvs/goodnotes_5_on_mac_is_a_scam_lowkey/">GoodNotes 5 on Mac is a scam (lowkey)</a>, submitted on 2019-10-31 02:37:30+08:00.</h3>
+
+<p>—– <strong>584.1</strong> —–2019-10-31 04:14:39+08:00:</p>
+
+<p>That’s the main reason I move some of my notes (most of them are written notes) from onenote to notability/goodnotes</p>
+
+<p>Infinite canvas is both the biggest advantage and disadvantage of onenote.</p>
+
+<h3 id="585-lets-take-a-moment-to-really-appreciate-how-pleco-handwriting-input-understands-even-the-most-sloppy-scribbles-a-true-feat-of-ingenuous-technology-i-cant-imagine-how-people-got-by-with-paper-dictionaries-only-a-few-centuries-ago-submitted-on-2019-10-31-0428220800">585: <a href="https://old.reddit.com/r/ChineseLanguage/comments/dpcboz/lets_take_a_moment_to_really_appreciate_how_pleco/">Let’s take a moment to really appreciate how Pleco handwriting input understands even the most sloppy scribbles, a true feat of ingenuous technology. I can’t imagine how people got by with paper dictionaries only a few centuries ago.</a>, submitted on 2019-10-31 04:28:22+08:00.</h3>
+
+<p>—– <strong>585.1</strong> —–2019-10-31 08:22:52+08:00:</p>
+
+<p>Well, I’m learning a machine learning course that involves handwriting detection and actually,​ it’s nothing more than just computing the probability of each pixel of your handwriting image (or plus the probability of your stroke orders and context)…</p>
+
+<p>—– <strong>585.2</strong> —–2019-10-31 08:25:12+08:00:</p>
+
+<p>Well, I’m learning a machine learning course that involves handwriting detection and actually,​ it’s nothing more than just computing the probability of each pixel of your handwriting image (or plus the probability of your stroke orders and context)…</p>
+
+<p>—– <strong>585.3</strong> —–2019-10-31 09:42:06+08:00:</p>
+
+<p>It really depends on the selected ML algorithm by the apps. Probably yes and no. But it’s always not bad to write it with correct stroke order.</p>
+
+<p>—– <strong>585.4</strong> —–2019-10-31 10:25:11+08:00:</p>
+
+<p>It depends on the selected ML algorithm by the app, but the case you showed definitely used stroke order. The most features being used, the more accurate the result would be. So I guess the algorithm will contain many features including stroke order unless it harms the operation time significantly.</p>
+
+<h3 id="586-the-ccps-nerve-center-submitted-on-2019-10-31-0936260800">586: <a href="https://old.reddit.com/r/China/comments/dpgka1/the_ccps_nerve_center/">The CCP’s Nerve Center</a>, submitted on 2019-10-31 09:36:26+08:00.</h3>
+
+<p>—– <strong>586.1</strong> —–2019-10-31 13:14:14+08:00:</p>
+
+<p>I’m so sick that XJP keeps being central LSGs which far exceeds the normal numbers</p>
+
+<p>Poor LKQ. We nearly cannot hear his voice</p>
+
+<p>Every page of People Daily is XJP</p>
+
+<p>Every article on People Daily is XJP</p>
+
+<p>Shit.￼</p>
+
+<h3 id="587-new-statesman-cover-page-submitted-on-2019-10-31-2243030800">587: <a href="https://old.reddit.com/r/europe/comments/dpoibh/new_statesman_cover_page/">New Statesman cover page</a>, submitted on 2019-10-31 22:43:03+08:00.</h3>
+
+<p>—– <strong>587.1</strong> —–2019-11-01 09:17:44+08:00:</p>
+
+<p>I don’t know how I should feel when seeing China’s there… lol</p>
+
+<p>Am Chinese</p>
+
+<h3 id="588-怎么看notepad作者事件-submitted-on-2019-11-01-0845510800">588: <a href="https://old.reddit.com/r/China_irl/comments/dpwy35/怎么看notepad作者事件/">怎么看notepad++作者事件</a>, submitted on 2019-11-01 08:45:51+08:00.</h3>
+
+<p>—– <strong>588.1</strong> —–2019-11-04 08:34:26+08:00:</p>
+
+<p>我看了它的颜值就不想用</p>
+
+<h3 id="589-ccp-is-preparing-the-must-fight-6-wars-in-the-future-submitted-on-2019-11-01-1131060800">589: <a href="https://old.reddit.com/r/China/comments/dpyvra/ccp_is_preparing_the_must_fight_6_wars_in_the/">CCP is preparing the must fight 6 wars in the future</a>, submitted on 2019-11-01 11:31:06+08:00.</h3>
+
+<p>—– <strong>589.1</strong> —–2019-11-01 14:59:21+08:00:</p>
+
+<p>Any new post? I’ve seen this image for so many times…</p>
+
+<h3 id="590-sucks-when-people-switch-i-wanna-practice-so-bad-submitted-on-2019-11-02-0217080800">590: <a href="https://old.reddit.com/r/ChineseLanguage/comments/dq82sn/sucks_when_people_switch_i_wanna_practice_so_bad/">sucks when people switch I wanna practice so bad</a>, submitted on 2019-11-02 02:17:08+08:00.</h3>
+
+<p>—– <strong>590.1</strong> —–2019-11-02 03:30:34+08:00:</p>
+
+<p>Am Chinese and was one of them.</p>
+
+<p>There were several American males coming to talk with me in Chinese and I would either reply in English or use some extremely simple Chinese and praise their Chinese like to the three y/o kids.</p>
+
+<p>It took me a long time to realize that my behaviors are actually a bit rude and may discourage them to learn Chinese.</p>
+
+<p>Edit: I have to say, these behaviors are just unintentional. I guess it’s because my habit of saying English with any non-Chinese. Also, I guess praising others like to the kids is not always a good thing. For example, if I just said some basic English words and someone praise my English skill then I would suspect that my English is so broken that others’ expectation is so low. Of course, it depends on the cases.</p>
+
+<h3 id="591-chinas-military-appeared-on-the-street-of-new-zealand-parade-and-wave-chinese-flag-submitted-on-2019-11-02-1628570800">591: <a href="https://old.reddit.com/r/China/comments/dqhg7k/chinas_military_appeared_on_the_street_of_new/">China’s military appeared on the street of New Zealand, parade and wave Chinese flag</a>, submitted on 2019-11-02 16:28:57+08:00.</h3>
+
+<p>—– <strong>591.1</strong> —–2019-11-03 05:21:08+08:00:</p>
+
+<p>🏅</p>
+
+<h3 id="592-i-have-a-stutter-ama-submitted-on-2019-11-02-1953310800">592: <a href="https://old.reddit.com/r/casualiama/comments/dqj4yh/i_have_a_stutter_ama/">I have a stutter. AMA.</a>, submitted on 2019-11-02 19:53:31+08:00.</h3>
+
+<p>—– <strong>592.1</strong> —–2019-11-03 04:12:07+08:00:</p>
+
+<p>Hello from another stutter. My stutter occurred at the age of 12 but I didn’t notice until going to college.</p>
+
+<p>My speech skill is awful but I still want to be successful in business one day.</p>
+
+<p>What’s your plan?</p>
+
+<h3 id="593-girls-what-was-the-most-obvious-hint-you-dropped-and-the-guy-just-didnt-get-it-submitted-on-2019-11-03-0114460800">593: <a href="https://old.reddit.com/r/AskReddit/comments/dqn66a/girls_what_was_the_most_obvious_hint_you_dropped/">Girls, what was the most obvious hint you dropped, and the guy just didn’t get it?</a>, submitted on 2019-11-03 01:14:46+08:00.</h3>
+
+<p>—– <strong>593.1</strong> —–2019-11-03 07:12:06+08:00:</p>
+
+<p>To be fair, some guys just <em>pretend</em> to overlook the hint because they don’t love that much</p>
+
+<p>—– <strong>593.2</strong> —–2019-11-03 07:45:14+08:00:</p>
+
+<p>If she’s not into you and you got the “hint”…</p>
+
+<p>You might be in prison now lol</p>
+
+<h3 id="594-unpopular-opinion-i-think-everyone-would-benefit-from-china-adopting-the-korean-alphabet-or-at-least-something-similar-especially-since-they-have-very-few-sounds-no-reason-to-have-the-biggest-writing-system-time-to-modernize-a-real-simplified-version-submitted-on-2019-11-03-0154540800">594: <a href="https://old.reddit.com/r/ChineseLanguage/comments/dqnqzu/unpopular_opinion_i_think_everyone_would_benefit/">Unpopular Opinion: I think everyone would benefit from China adopting the Korean alphabet (or at least something similar). Especially since they have very few sounds, no reason to have the biggest writing system. Time to modernize? A real simplified version.</a>, submitted on 2019-11-03 01:54:54+08:00.</h3>
+
+<p>—– <strong>594.1</strong> —–2019-11-03 03:58:57+08:00:</p>
+
+<p>Not sure whether it’s true. But what I’ve heard is that Korean system is so simplified that they would be confused on some words and resort to Chinese characters in some cases. So is Japanese.</p>
+
+<p>I think Chinese stills has the potential to be simplified a bit but wonder the feasibility since lots of people has got used to current system, much different from Mao’s era with high illiteracy.</p>
+
+<p>Also, I don’t know what’s the logic between complexing of pronunciation and of writing. A noticeable feature of Chinese is the separation between pronunciation and writing. Mandarin has four tones while Cantonese has nine tones but they share the same character system.</p>
+
+<h3 id="595-best-website-to-buy-chinese-ebooks-submitted-on-2019-11-03-0211020800">595: <a href="https://old.reddit.com/r/ChineseLanguage/comments/dqnzch/best_website_to_buy_chinese_ebooks/">Best website to buy Chinese ebooks?</a>, submitted on 2019-11-03 02:11:02+08:00.</h3>
+
+<p>—– <strong>595.1</strong> —–2019-11-03 03:51:38+08:00:</p>
+
+<p>Besides amazon (mobi), there are a lot on Taobao. Also, there are lots of reading apps such as 微信读书, 豆瓣读书 and so on. There are lots of free ebooks. Also, you can buy on these platforms too. But I’m afraid they require Chinese financial accounts.</p>
+
+<h3 id="596-this-is-what-i-miss-about-chinar-craving-post-jianada-meiyou-submitted-on-2019-11-03-0314350800">596: <a href="https://old.reddit.com/r/China/comments/dqow3n/this_is_what_i_miss_about_chinar_craving_post/">This is what I miss about Chinar (craving post. Jianada meiyou)</a>, submitted on 2019-11-03 03:14:35+08:00.</h3>
+
+<p>—– <strong>596.1</strong> —–2019-11-03 05:15:09+08:00:</p>
+
+<p>tbh if I see it in the west, I would think it’s no different from American/Canadian Chinese food</p>
+
+<h3 id="597-fahrenheit-always-confuses-me-submitted-on-2019-11-03-0846230800">597: <a href="https://old.reddit.com/r/europe/comments/dqtbej/fahrenheit_always_confuses_me/">Fahrenheit always confuses me</a>, submitted on 2019-11-03 08:46:23+08:00.</h3>
+
+<p>—– <strong>597.1</strong> —–2019-11-04 02:48:38+08:00:</p>
+
+<p>Still sounds pretty annoying</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2019-11-04</time>
+        <a href="https://nodebe4.github.io/opinion/2019-11-04/Yvan888/">
+          Yvan888在2019-11-04~2019-11-10的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-11-03</time>
+        <a href="https://nodebe4.github.io/opinion/2019-11-03/Spinkcat/">
+          Spinkcat在2019-10-28~2019-11-03的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-10-27</time>
+        <a href="https://nodebe4.github.io/opinion/2019-10-27/Spinkcat/">
+          Spinkcat在2019-10-21~2019-10-27的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-10-26</time>
+        <a href="https://nodebe4.github.io/opinion/2019-10-26/Yvan888/">
+          Yvan888在2019-10-21~2019-10-27的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2019-10-27/Spinkcat/">
+            前一篇：Spinkcat在2019-10-21~2019-10-27的言论
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2019-10-28/%E5%AD%94%E8%AF%86%E4%BB%81-%E6%9D%8E%E6%98%8E-%E6%B0%91%E5%9B%BD%E6%B4%BE%E4%B8%8E%E8%87%AA%E7%94%B1%E6%B4%BE-%E6%94%B9%E8%89%AF%E6%B4%BE%E7%9A%84%E7%B3%BB%E5%88%97%E5%AF%B9%E8%AF%9D-(%E4%B8%80-%E5%92%8C%E5%B9%B3%E9%9D%9E%E6%9A%B4%E5%8A%9B%E8%AE%BA-%E4%B8%8E%E9%A2%9C%E8%89%B2%E9%9D%A9%E5%91%BD%E6%98%AF%E5%AF%B9%E7%AB%8B%E7%9A%84-%E6%A2%A6%E6%83%B3-%E5%B2%82%E8%83%BD%E6%88%90%E7%9C%9F/">
+            後一篇：孔识仁 （李明）: 民国派与自由派、改良派的系列对话 (一） ——“和平非暴力论”与颜色革命是对立的，“梦想”岂能成真？  
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2019-10-27/Spinkcat/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2019-10-28/%E5%AD%94%E8%AF%86%E4%BB%81-%E6%9D%8E%E6%98%8E-%E6%B0%91%E5%9B%BD%E6%B4%BE%E4%B8%8E%E8%87%AA%E7%94%B1%E6%B4%BE-%E6%94%B9%E8%89%AF%E6%B4%BE%E7%9A%84%E7%B3%BB%E5%88%97%E5%AF%B9%E8%AF%9D-(%E4%B8%80-%E5%92%8C%E5%B9%B3%E9%9D%9E%E6%9A%B4%E5%8A%9B%E8%AE%BA-%E4%B8%8E%E9%A2%9C%E8%89%B2%E9%9D%A9%E5%91%BD%E6%98%AF%E5%AF%B9%E7%AB%8B%E7%9A%84-%E6%A2%A6%E6%83%B3-%E5%B2%82%E8%83%BD%E6%88%90%E7%9C%9F/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2019-11-03/Spinkcat/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2019-10-27/Spinkcat/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2019-10-27/Spinkcat/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2019-10-28/%E5%AD%94%E8%AF%86%E4%BB%81-%E6%9D%8E%E6%98%8E-%E6%B0%91%E5%9B%BD%E6%B4%BE%E4%B8%8E%E8%87%AA%E7%94%B1%E6%B4%BE-%E6%94%B9%E8%89%AF%E6%B4%BE%E7%9A%84%E7%B3%BB%E5%88%97%E5%AF%B9%E8%AF%9D-(%E4%B8%80-%E5%92%8C%E5%B9%B3%E9%9D%9E%E6%9A%B4%E5%8A%9B%E8%AE%BA-%E4%B8%8E%E9%A2%9C%E8%89%B2%E9%9D%A9%E5%91%BD%E6%98%AF%E5%AF%B9%E7%AB%8B%E7%9A%84-%E6%A2%A6%E6%83%B3-%E5%B2%82%E8%83%BD%E6%88%90%E7%9C%9F/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2019-11-03/Spinkcat/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2019-10-27/Spinkcat/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

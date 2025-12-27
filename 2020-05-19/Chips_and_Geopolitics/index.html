@@ -1,0 +1,3441 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Chips and Geopolitics – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+  
+     Chips and Geopolitics 
+    
+  Posted on             Tuesday, May 19, 2020 
+            Tuesday, May 19, 2020 
+     Author  by  Ben Thompson   
+    
+    
+  
+  
+  
+    
+ Manage your Stratechery subscription. 
+    
+    The debate around who belongs on the Mount Rushmore of tech would be a long one; what is certain is that Morris Chang should be on the list. He certainly leads the way in terms of impact relative to name recognition.
+     Integration and Modularization 
+    Clayton Christensen, in 2003’s  
+     The Innovator’s Solution
+      , explained how the natural course of industries was from interdependent architectures to modular ones:
+    
+      Customers will not buy your product unless it solves an important problem for them. But what constitutes a “solution” differs across the two circumstances in Figure 5-1: whether products are not good enough or are more than good enough. The advantage, we have found, goes to integration when products are not good enough, and to outsourcing — or specialization and dis-integration when products are more than good enough.
+      
+      The left side of Figure 5-1 indicates that when there is a performance gap — when product functionality and reliability are not yet good enough to address the needs of customers in a given tier of the market — companies must compete by making the best possible products. In the race to do this, firms that build their products around proprietary, interdependent architectures enjoy an important competitive advantage against competitors whose product architectures are modular, because the standardization inherent in modularity takes too many degrees of design freedom away from engineers, and they cannot not optimize performance.
+    
+    This makes intuitive sense: optimizing everything results in better performance, at the cost of long-term reliability and flexibility. Sure, long-term reliability and flexibility are nice-to-have, but they are lesser priorities. Once that top priority is met, though, these secondary priorities come to the forefront.
+    
+      Overshooting does not mean that customers will no longer pay for improvements. It just means that the type of improvement for which they will pay a premium price will change. Once their requirements for functionality and reliability have been met, customers begin to redefine what is not good enough. What becomes not good enough is that customers can’t get exactly what they want exactly when they need it, as conveniently as possible. Customers become willing to pay premium prices for improved performance along this new trajectory of innovation in speed, convenience, and customization. When this happens, we say that the basis of competition in a tier of the market has changed.
+    
+    This is a big problem for firms that are dominant in a market undergoing this transition; after all, the reason said firms are dominant is because they are the highest performing, which is to say that they are highly integrated, and to unwind said integration is usually untenable for both business model and more deep-rooted cultural reasons. That opens the door for new entrants:
+    
+      The pressure of competing along this new trajectory of improvement forces a gradual evolution in product architecture, as depicted in Figure 5-1 — away from the interdependent, proprietary architectures that had the advantage in the not-good-enough era toward modular designs in the era of performance surplus. Modular architectures help companies to compete on the dimensions that matter in the lower-right portions of the disruption diagram. Companies can introduce new products faster because they can upgrade individual subsystems without having to redesign everything. Although standard interfaces invariably force compromises in system performance, firms have the slack to trade away some performance with these customers because functionality is more than good enough.
+      Modularity has a profound impact on industry structure because it enables independent, nonintegrated organizations to sell, buy, and assemble components and subsystems. Whereas in the interdependent world you had to make all of the key elements of the system in order to make any of them, in a modular world you can prosper by outsourcing or by supplying just one element. Ultimately, the specifications for modular interfaces will coalesce as industry standards. When that happens, companies can mix and match components from best-of-breed suppliers in order to respond conveniently to the specific needs of individual customers.
+    
+    Taiwan Semiconductor Manufacturing Company (TSMC), the company Chang founded in 1987, is arguably the single best example of the process Christensen described.
+     Intel and TSMC 
+    Intel invented the microprocessor in 1971, and for decades to come, it was not good enough. The 4-bit Intel 4004 was followed by the 8-bit Intel 8008, and then the Intel 8080. Then, in 1978, came the Intel 8086, a 16-bit processor that was backwards compatible with programs written for the 8080 and 8008. That was followed by the Intel 80286, and in 1985, the 32-bit Intel 80386. It was the 80386 that defined the baseline x86 instruction set that undergirds modern processors in most laptops, desktops, and servers, but x86 has its roots in the 8008. Intel, by integrating design, manufacture, and software from the 1970s, would go on to define and dominate the processor market for decades.
+    It would take a very long time for this integrated approach to overshoot the market. Intel’s 80386 was succeeded by the 80486, then the Pentium, and every release made computers so much faster that use cases unimaginable only one or two years prior suddenly seemed within reach, if only Intel could continue its rate of improvement. And, to the company’s credit — and with a solid push from AMD into a 64-bit variant that retained backwards compatibility to the 80386 — Intel did just that.
+    Still, Intel made general purpose processors; processors that were created for a specific task would be much faster, at least in theory, but it was hard to get started: Chang, then a long-time executive at Texas Instruments, observed in the 1980s that it cost $50~$100 million dollars to start a new chip company, primarily because of the cost of manufacturing. You could contract production from Intel or Texas Instruments or Motorola, but it wasn’t reliable — and they were also your competitor!
+    A few years later, in 1987, Chang was invited home to Taiwan, and asked to put together a business plan for a new government initiative to create a semiconductor industry. Chang  explained in an interview with the Computer History Museum  that he didn’t have much to work with:
+    
+      I paused to try to examine what we have got in Taiwan. And my conclusion was that [we had] very little. We had no strength in research and development, or very little anyway. We had no strength in circuit design, IC product design. We had little strength in sales and marketing, and we had almost no strength in intellectual property. The only possible strength that Taiwan had, and even that was a potential one, not an obvious one, was semiconductor manufacturing, wafer manufacturing. And so what kind of company would you create to fit that strength and avoid all the other weaknesses? The answer was pure-play foundry…
+      In choosing the pure-play foundry mode, I managed to exploit, perhaps, the only strength that Taiwan had, and managed to avoid a lot of the other weaknesses. Now, however, there was one problem with the pure-play foundry model and it could be a fatal problem which was, “Where’s the market?”
+    
+    What happened is exactly what Christensen would describe several years later: TSMC created the market by “enabl[ing] independent, nonintegrated organizations to sell, buy, and assemble components and subsystems.” Specifically, Chang made it possible for chip designers to start their own companies:
+    
+      When I was at TI and General Instrument, I saw a lot of IC [ 
+     Integrated Circuit
+     ] designers wanting to leave and set up their own business, but the only thing, or the biggest thing that stopped them from leaving those companies was that they couldn’t raise enough money to form their own company. Because at that time, it was thought that every company needed manufacturing, needed wafer manufacturing, and that was the most capital intensive part of a semiconductor company, of an IC company. And I saw all those people wanting to leave, but being stopped by the lack of ability to raise a lot of money to build a wafer fab. So I thought that maybe TSMC, a pure-play foundry, could remedy that. And as a result of us being able to remedy that then those designers would successfully form their own companies, and they will become our customers, and they will constitute a stable and growing market for us.
+    
+    It worked. Graphics processors were an early example: Nvidia was started in 1993 with only $20 million, and never owned its own fab.  1  Qualcomm, after losing millions manufacturing its earliest designs, spun off its chip-making unit in 2001 to concentrate on design, and Apple started building its own chips without a fab a decade later. Today there are thousands of chip designers in all kinds of niches creating specialized chips for everything from appliances to fighter jets, and none of them have their own foundry.
+    There was one other thing that happened along the way: as I detailed in  2018’s Intel and the Danger of Integration  , TSMC eventually surpassed Intel in not just flexibility but also pure performance:
+    
+      In time, though, TSMC got better, in large part because it had no choice: soon its manufacturing capabilities were only one step behind industry standards, and within a decade had caught-up (although Intel remained ahead of everyone). Meanwhile, the fact that TSMC existed created the conditions for an explosion in “fabless” chip companies that focused on nothing but design…the increased business let TSMC invest even more in its manufacturing capabilities.
+    
+    In short, TSMC is the best chipmaker in the world, no matter what vector of performance you care about. And with that came an entirely new class of problems, not just for TSMC, but also Taiwan.
+     Geopolitical Concerns 
+    The international status of Taiwan is, as they say, complicated. So, for that matter, are U.S.-China relations. These two things can and do overlap to make entirely new, even more complicated complications.
+    Geography is much more straightforward:
+    
+    Taiwan, you will note, is just off the coast of China. South Korea, home to Samsung, which also makes the highest end chips, although mostly for its own use, is just as close. The United States, meanwhile, is on the other side of the Pacific Ocean. There are advanced foundries in Oregon, New Mexico, and Arizona, but they are operated by Intel, and Intel makes chips for its own integrated use cases only.
+    The reason this matters is because chips matter for many use cases outside of PCs and servers — Intel’s focus — which is to say that TSMC matters. Nearly every piece of equipment these days, military or otherwise, has a processor inside. Some of these don’t require particularly high performance, and can be manufactured by fabs built years ago all over the U.S. and across the world; others, though, require the most advanced processes, which means they must be manufactured in Taiwan by TSMC.
+    This is a big problem if you are a U.S. military planner. Your job is not to figure out if there will ever be a war between the U.S. and China, but to plan for an eventuality you hope never occurs. And in that planning the fact that TSMC’s foundries — and Samsung’s — are within easy reach of Chinese missiles is a major issue.
+    China, meanwhile, is investing heavily in catching up, although Semiconductor Manufacturing International Corporation (SMIC), its Shanghai-based champion, only just started manufacturing on a 14nm process, years after TSMC, Samsung, and Intel. In the long run, though, the U.S. faced a scenario where China had its own chip supplier, even as it threatened the U.S.’s chip supply chain.
+     TSMC’s Announcement 
+    This was the context for last week’s announcement that TSMC is building a fab in the United States. From the  Wall Street Journal  :
+    
+      Taiwan Semiconductor Manufacturing Co., the world’s largest contract manufacturer of silicon chips, said Friday it would spend $12 billion to build a chip factory in Arizona, as U.S. concerns grow about dependence on Asia for the critical technology. TSMC said the project, disclosed earlier Thursday by The Wall Street Journal, has the support of the federal government and the state of Arizona. It comes as the Trump administration has sought to jump-start development of new chip factories in the U.S. due to rising fears about the U.S.’s heavy reliance on Taiwan, China and South Korea to produce microelectronics and other key technologies.
+      TSMC made the decision to go ahead with the project at a board meeting on Tuesday in Taiwan, according to people familiar with the matter, adding that both the State and Commerce Departments are involved in the plans. Construction will begin next year with production targeted for 2024, the company said in a statement. TSMC’s new plant would make chips branded as having 5-nanometer transistors, the tiniest, fastest and most power-efficient ones manufactured today. TSMC just started rolling out 5-nanometer chips at a factory in Taiwan in recent months. TSMC said the plant would make 20,000 wafers a month, making it a relatively small facility for a company that made more than 12 million wafers last year alone. TSMC’s Fab 18 in Taiwan, which currently produces its 5-nanometer chips, was targeted for 100,000 wafers a month when it broke ground in 2018.
+    
+    First off, while this announcement has superficial similarities to the star-crossed Foxconn factory in Wisconsin, that project reeked of political theater from the start, and, more pertinently, never made much sense for anyone involved. The current outcome —  empty innovation centers and a still-unfinished factory  that has already been re-purposed — was frankly the default outcome.
+    This TSMC project is different for several reasons. First, you don’t halfway build a foundry; TSMC is either in for billions, or they’re in for nothing. Second, it seems clear that the federal government is contributing significantly to the cost. And third, that is exactly what the federal government should do, because the national security implications are real.
+    This does raise the question about just how committed TSMC is to this project. As the Wall Street Journal notes, the Arizona fab is quite small, relatively speaking, and while 5-nanometer chips are top-of-the-line today, they won’t be in 2024, when the fab opens. Moreover, it is worth noting that TSMC has a fab in Washington that it opened in 1998; it still operates, but TSMC didn’t make any additional investments in the U.S. until now.
+    I think, though, that this is an overly pessimistic reading of this news, at least from a U.S. perspective. First off, of course TSMC is going to start small, and with technology it has already figured out how to build. It is one thing to build a massive “gigafab” next door to the ones you have already built in Taiwan, even as your best employees, who have pushed TSMC to the top over the last thirty years, figure out the next processing node; it is quite another to attempt something similar across the ocean.
+    What is a much bigger deal, though, is that the Taiwan of 2020 is not last in line when it comes to processor technology, but first, and the government — which retains a significant ownership stake in TSMC — has been committed to keeping TSMC’s best technology in Taiwan. That this move is happening at all suggests the sort of momentous choice not simply on TSMC’s part but also Taiwan’s that is hard to undo: when it comes to the U.S. and China, ambiguously sitting in the middle, selling to both, was no longer an option.
+     Lessons for Tech 
+    There are three big lessons for tech specifically and America broadly in this news.
+    First, while we  learned in 2016  that technology was inseparable from domestic politics, the lesson in 2020 should be that technology is inseparable from geopolitics. It is chips that gave Silicon Valley its name, and everything about this chip decision is about geopolitics, not economics.
+    Second, at some point every tech company is going to have to make a choice between the U.S. and China. It is tempting to blame the tension between the two countries on Trump, but the truth is that China, particularly under Xi Jinping, has been significantly hardening its rhetoric and actions since before Trump was elected, and has been committed to not just catching but surpassing the U.S. in technology  for years  . There is a  fundamental clash of values  between the West and China, and it is clear that  China is interested in exporting theirs  . At some point everyone will be stuck in the middle, like TSMC, and  Switzerland won’t be an option  .
+    Third, Intel,  much like Compaq  , is an allegory for where the U.S. seems to have lost its way. Locked in an endless pursuit of efficiency and shareholder value, the U.S. gave up its flexibility and resiliency in favor of top-end performance. Intel is one of the most advanced chip makers in the world, but it turns out that capability is far too constrained to its own needs to be of general applicability. Worse, to the extent Intel was willing to become a contract manufacturer, it  wanted the federal government to pay for it  , the better to satisfy shareholders. The government, rightly, in my mind, chose an operator that was actually used to operating in the world as it is, not once was.
+    At the same time, TSMC’s justifiable carefulness in building a U.S. fab gives Intel an opportunity. Back in 2013, in one of the first Stratechery articles,  I urged the company  to embrace manufacturing and give up its integration, margins be damned. Intel specifically, and the U.S. generally, would be in far better shape had they acted then. As the saying goes, though, the second best time to start is now — and that applies not only to Intel, which should spend the money to get into contract manufacturing on its own, but also to the U.S. The world has changed, and it’s time to act accordingly.
+    
+      The very first Nvidia chips were manufactured by SGS-Thomson Microelectronics, but have been manufactured by TSMC from the original GeForce on [  ↩  ]
+    
+    
+      
+         Share 
+        
+          
+              Facebook  
+              Twitter  
+              LinkedIn  
+              Email  
+            
+          
+        
+      
+    
+    
+       
+     Related
+     
+    
+  
+  
+
+" />
+    <meta property="og:description" content="
+  
+     Chips and Geopolitics 
+    
+  Posted on             Tuesday, May 19, 2020 
+            Tuesday, May 19, 2020 
+     Author  by  Ben Thompson   
+    
+    
+  
+  
+  
+    
+ Manage your Stratechery subscription. 
+    
+    The debate around who belongs on the Mount Rushmore of tech would be a long one; what is certain is that Morris Chang should be on the list. He certainly leads the way in terms of impact relative to name recognition.
+     Integration and Modularization 
+    Clayton Christensen, in 2003’s  
+     The Innovator’s Solution
+      , explained how the natural course of industries was from interdependent architectures to modular ones:
+    
+      Customers will not buy your product unless it solves an important problem for them. But what constitutes a “solution” differs across the two circumstances in Figure 5-1: whether products are not good enough or are more than good enough. The advantage, we have found, goes to integration when products are not good enough, and to outsourcing — or specialization and dis-integration when products are more than good enough.
+      
+      The left side of Figure 5-1 indicates that when there is a performance gap — when product functionality and reliability are not yet good enough to address the needs of customers in a given tier of the market — companies must compete by making the best possible products. In the race to do this, firms that build their products around proprietary, interdependent architectures enjoy an important competitive advantage against competitors whose product architectures are modular, because the standardization inherent in modularity takes too many degrees of design freedom away from engineers, and they cannot not optimize performance.
+    
+    This makes intuitive sense: optimizing everything results in better performance, at the cost of long-term reliability and flexibility. Sure, long-term reliability and flexibility are nice-to-have, but they are lesser priorities. Once that top priority is met, though, these secondary priorities come to the forefront.
+    
+      Overshooting does not mean that customers will no longer pay for improvements. It just means that the type of improvement for which they will pay a premium price will change. Once their requirements for functionality and reliability have been met, customers begin to redefine what is not good enough. What becomes not good enough is that customers can’t get exactly what they want exactly when they need it, as conveniently as possible. Customers become willing to pay premium prices for improved performance along this new trajectory of innovation in speed, convenience, and customization. When this happens, we say that the basis of competition in a tier of the market has changed.
+    
+    This is a big problem for firms that are dominant in a market undergoing this transition; after all, the reason said firms are dominant is because they are the highest performing, which is to say that they are highly integrated, and to unwind said integration is usually untenable for both business model and more deep-rooted cultural reasons. That opens the door for new entrants:
+    
+      The pressure of competing along this new trajectory of improvement forces a gradual evolution in product architecture, as depicted in Figure 5-1 — away from the interdependent, proprietary architectures that had the advantage in the not-good-enough era toward modular designs in the era of performance surplus. Modular architectures help companies to compete on the dimensions that matter in the lower-right portions of the disruption diagram. Companies can introduce new products faster because they can upgrade individual subsystems without having to redesign everything. Although standard interfaces invariably force compromises in system performance, firms have the slack to trade away some performance with these customers because functionality is more than good enough.
+      Modularity has a profound impact on industry structure because it enables independent, nonintegrated organizations to sell, buy, and assemble components and subsystems. Whereas in the interdependent world you had to make all of the key elements of the system in order to make any of them, in a modular world you can prosper by outsourcing or by supplying just one element. Ultimately, the specifications for modular interfaces will coalesce as industry standards. When that happens, companies can mix and match components from best-of-breed suppliers in order to respond conveniently to the specific needs of individual customers.
+    
+    Taiwan Semiconductor Manufacturing Company (TSMC), the company Chang founded in 1987, is arguably the single best example of the process Christensen described.
+     Intel and TSMC 
+    Intel invented the microprocessor in 1971, and for decades to come, it was not good enough. The 4-bit Intel 4004 was followed by the 8-bit Intel 8008, and then the Intel 8080. Then, in 1978, came the Intel 8086, a 16-bit processor that was backwards compatible with programs written for the 8080 and 8008. That was followed by the Intel 80286, and in 1985, the 32-bit Intel 80386. It was the 80386 that defined the baseline x86 instruction set that undergirds modern processors in most laptops, desktops, and servers, but x86 has its roots in the 8008. Intel, by integrating design, manufacture, and software from the 1970s, would go on to define and dominate the processor market for decades.
+    It would take a very long time for this integrated approach to overshoot the market. Intel’s 80386 was succeeded by the 80486, then the Pentium, and every release made computers so much faster that use cases unimaginable only one or two years prior suddenly seemed within reach, if only Intel could continue its rate of improvement. And, to the company’s credit — and with a solid push from AMD into a 64-bit variant that retained backwards compatibility to the 80386 — Intel did just that.
+    Still, Intel made general purpose processors; processors that were created for a specific task would be much faster, at least in theory, but it was hard to get started: Chang, then a long-time executive at Texas Instruments, observed in the 1980s that it cost $50~$100 million dollars to start a new chip company, primarily because of the cost of manufacturing. You could contract production from Intel or Texas Instruments or Motorola, but it wasn’t reliable — and they were also your competitor!
+    A few years later, in 1987, Chang was invited home to Taiwan, and asked to put together a business plan for a new government initiative to create a semiconductor industry. Chang  explained in an interview with the Computer History Museum  that he didn’t have much to work with:
+    
+      I paused to try to examine what we have got in Taiwan. And my conclusion was that [we had] very little. We had no strength in research and development, or very little anyway. We had no strength in circuit design, IC product design. We had little strength in sales and marketing, and we had almost no strength in intellectual property. The only possible strength that Taiwan had, and even that was a potential one, not an obvious one, was semiconductor manufacturing, wafer manufacturing. And so what kind of company would you create to fit that strength and avoid all the other weaknesses? The answer was pure-play foundry…
+      In choosing the pure-play foundry mode, I managed to exploit, perhaps, the only strength that Taiwan had, and managed to avoid a lot of the other weaknesses. Now, however, there was one problem with the pure-play foundry model and it could be a fatal problem which was, “Where’s the market?”
+    
+    What happened is exactly what Christensen would describe several years later: TSMC created the market by “enabl[ing] independent, nonintegrated organizations to sell, buy, and assemble components and subsystems.” Specifically, Chang made it possible for chip designers to start their own companies:
+    
+      When I was at TI and General Instrument, I saw a lot of IC [ 
+     Integrated Circuit
+     ] designers wanting to leave and set up their own business, but the only thing, or the biggest thing that stopped them from leaving those companies was that they couldn’t raise enough money to form their own company. Because at that time, it was thought that every company needed manufacturing, needed wafer manufacturing, and that was the most capital intensive part of a semiconductor company, of an IC company. And I saw all those people wanting to leave, but being stopped by the lack of ability to raise a lot of money to build a wafer fab. So I thought that maybe TSMC, a pure-play foundry, could remedy that. And as a result of us being able to remedy that then those designers would successfully form their own companies, and they will become our customers, and they will constitute a stable and growing market for us.
+    
+    It worked. Graphics processors were an early example: Nvidia was started in 1993 with only $20 million, and never owned its own fab.  1  Qualcomm, after losing millions manufacturing its earliest designs, spun off its chip-making unit in 2001 to concentrate on design, and Apple started building its own chips without a fab a decade later. Today there are thousands of chip designers in all kinds of niches creating specialized chips for everything from appliances to fighter jets, and none of them have their own foundry.
+    There was one other thing that happened along the way: as I detailed in  2018’s Intel and the Danger of Integration  , TSMC eventually surpassed Intel in not just flexibility but also pure performance:
+    
+      In time, though, TSMC got better, in large part because it had no choice: soon its manufacturing capabilities were only one step behind industry standards, and within a decade had caught-up (although Intel remained ahead of everyone). Meanwhile, the fact that TSMC existed created the conditions for an explosion in “fabless” chip companies that focused on nothing but design…the increased business let TSMC invest even more in its manufacturing capabilities.
+    
+    In short, TSMC is the best chipmaker in the world, no matter what vector of performance you care about. And with that came an entirely new class of problems, not just for TSMC, but also Taiwan.
+     Geopolitical Concerns 
+    The international status of Taiwan is, as they say, complicated. So, for that matter, are U.S.-China relations. These two things can and do overlap to make entirely new, even more complicated complications.
+    Geography is much more straightforward:
+    
+    Taiwan, you will note, is just off the coast of China. South Korea, home to Samsung, which also makes the highest end chips, although mostly for its own use, is just as close. The United States, meanwhile, is on the other side of the Pacific Ocean. There are advanced foundries in Oregon, New Mexico, and Arizona, but they are operated by Intel, and Intel makes chips for its own integrated use cases only.
+    The reason this matters is because chips matter for many use cases outside of PCs and servers — Intel’s focus — which is to say that TSMC matters. Nearly every piece of equipment these days, military or otherwise, has a processor inside. Some of these don’t require particularly high performance, and can be manufactured by fabs built years ago all over the U.S. and across the world; others, though, require the most advanced processes, which means they must be manufactured in Taiwan by TSMC.
+    This is a big problem if you are a U.S. military planner. Your job is not to figure out if there will ever be a war between the U.S. and China, but to plan for an eventuality you hope never occurs. And in that planning the fact that TSMC’s foundries — and Samsung’s — are within easy reach of Chinese missiles is a major issue.
+    China, meanwhile, is investing heavily in catching up, although Semiconductor Manufacturing International Corporation (SMIC), its Shanghai-based champion, only just started manufacturing on a 14nm process, years after TSMC, Samsung, and Intel. In the long run, though, the U.S. faced a scenario where China had its own chip supplier, even as it threatened the U.S.’s chip supply chain.
+     TSMC’s Announcement 
+    This was the context for last week’s announcement that TSMC is building a fab in the United States. From the  Wall Street Journal  :
+    
+      Taiwan Semiconductor Manufacturing Co., the world’s largest contract manufacturer of silicon chips, said Friday it would spend $12 billion to build a chip factory in Arizona, as U.S. concerns grow about dependence on Asia for the critical technology. TSMC said the project, disclosed earlier Thursday by The Wall Street Journal, has the support of the federal government and the state of Arizona. It comes as the Trump administration has sought to jump-start development of new chip factories in the U.S. due to rising fears about the U.S.’s heavy reliance on Taiwan, China and South Korea to produce microelectronics and other key technologies.
+      TSMC made the decision to go ahead with the project at a board meeting on Tuesday in Taiwan, according to people familiar with the matter, adding that both the State and Commerce Departments are involved in the plans. Construction will begin next year with production targeted for 2024, the company said in a statement. TSMC’s new plant would make chips branded as having 5-nanometer transistors, the tiniest, fastest and most power-efficient ones manufactured today. TSMC just started rolling out 5-nanometer chips at a factory in Taiwan in recent months. TSMC said the plant would make 20,000 wafers a month, making it a relatively small facility for a company that made more than 12 million wafers last year alone. TSMC’s Fab 18 in Taiwan, which currently produces its 5-nanometer chips, was targeted for 100,000 wafers a month when it broke ground in 2018.
+    
+    First off, while this announcement has superficial similarities to the star-crossed Foxconn factory in Wisconsin, that project reeked of political theater from the start, and, more pertinently, never made much sense for anyone involved. The current outcome —  empty innovation centers and a still-unfinished factory  that has already been re-purposed — was frankly the default outcome.
+    This TSMC project is different for several reasons. First, you don’t halfway build a foundry; TSMC is either in for billions, or they’re in for nothing. Second, it seems clear that the federal government is contributing significantly to the cost. And third, that is exactly what the federal government should do, because the national security implications are real.
+    This does raise the question about just how committed TSMC is to this project. As the Wall Street Journal notes, the Arizona fab is quite small, relatively speaking, and while 5-nanometer chips are top-of-the-line today, they won’t be in 2024, when the fab opens. Moreover, it is worth noting that TSMC has a fab in Washington that it opened in 1998; it still operates, but TSMC didn’t make any additional investments in the U.S. until now.
+    I think, though, that this is an overly pessimistic reading of this news, at least from a U.S. perspective. First off, of course TSMC is going to start small, and with technology it has already figured out how to build. It is one thing to build a massive “gigafab” next door to the ones you have already built in Taiwan, even as your best employees, who have pushed TSMC to the top over the last thirty years, figure out the next processing node; it is quite another to attempt something similar across the ocean.
+    What is a much bigger deal, though, is that the Taiwan of 2020 is not last in line when it comes to processor technology, but first, and the government — which retains a significant ownership stake in TSMC — has been committed to keeping TSMC’s best technology in Taiwan. That this move is happening at all suggests the sort of momentous choice not simply on TSMC’s part but also Taiwan’s that is hard to undo: when it comes to the U.S. and China, ambiguously sitting in the middle, selling to both, was no longer an option.
+     Lessons for Tech 
+    There are three big lessons for tech specifically and America broadly in this news.
+    First, while we  learned in 2016  that technology was inseparable from domestic politics, the lesson in 2020 should be that technology is inseparable from geopolitics. It is chips that gave Silicon Valley its name, and everything about this chip decision is about geopolitics, not economics.
+    Second, at some point every tech company is going to have to make a choice between the U.S. and China. It is tempting to blame the tension between the two countries on Trump, but the truth is that China, particularly under Xi Jinping, has been significantly hardening its rhetoric and actions since before Trump was elected, and has been committed to not just catching but surpassing the U.S. in technology  for years  . There is a  fundamental clash of values  between the West and China, and it is clear that  China is interested in exporting theirs  . At some point everyone will be stuck in the middle, like TSMC, and  Switzerland won’t be an option  .
+    Third, Intel,  much like Compaq  , is an allegory for where the U.S. seems to have lost its way. Locked in an endless pursuit of efficiency and shareholder value, the U.S. gave up its flexibility and resiliency in favor of top-end performance. Intel is one of the most advanced chip makers in the world, but it turns out that capability is far too constrained to its own needs to be of general applicability. Worse, to the extent Intel was willing to become a contract manufacturer, it  wanted the federal government to pay for it  , the better to satisfy shareholders. The government, rightly, in my mind, chose an operator that was actually used to operating in the world as it is, not once was.
+    At the same time, TSMC’s justifiable carefulness in building a U.S. fab gives Intel an opportunity. Back in 2013, in one of the first Stratechery articles,  I urged the company  to embrace manufacturing and give up its integration, margins be damned. Intel specifically, and the U.S. generally, would be in far better shape had they acted then. As the saying goes, though, the second best time to start is now — and that applies not only to Intel, which should spend the money to get into contract manufacturing on its own, but also to the U.S. The world has changed, and it’s time to act accordingly.
+    
+      The very first Nvidia chips were manufactured by SGS-Thomson Microelectronics, but have been manufactured by TSMC from the original GeForce on [  ↩  ]
+    
+    
+      
+         Share 
+        
+          
+              Facebook  
+              Twitter  
+              LinkedIn  
+              Email  
+            
+          
+        
+      
+    
+    
+       
+     Related
+     
+    
+  
+  
+
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Chips and Geopolitics" />
+    <meta property="twitter:title" content="Chips and Geopolitics" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2020%2Fchips-and-geopolitics%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2020/chips-and-geopolitics/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2020/chips-and-geopolitics/&text=Chips and Geopolitics&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2020/chips-and-geopolitics/&title=Chips and Geopolitics" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2020/chips-and-geopolitics/&title=Chips and Geopolitics" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Chips and Geopolitics&body=
+  
+     Chips and Geopolitics 
+    
+  Posted on             Tuesday, May 19, 2020 
+            Tuesday, May 19, 2020 
+     Author  by  Ben Thompson   
+    
+    
+  
+  
+  
+    
+ Manage your Stratechery subscription. 
+    
+    The debate around who belongs on the Mount Rushmore of tech would be a long one; what is certain is that Morris Chang should be on the list. He certainly leads the way in terms of impact relative to name recognition.
+     Integration and Modularization 
+    Clayton Christensen, in 2003’s  
+     The Innovator’s Solution
+      , explained how the natural course of industries was from interdependent architectures to modular ones:
+    
+      Customers will not buy your product unless it solves an important problem for them. But what constitutes a “solution” differs across the two circumstances in Figure 5-1: whether products are not good enough or are more than good enough. The advantage, we have found, goes to integration when products are not good enough, and to outsourcing — or specialization and dis-integration when products are more than good enough.
+      
+      The left side of Figure 5-1 indicates that when there is a performance gap — when product functionality and reliability are not yet good enough to address the needs of customers in a given tier of the market — companies must compete by making the best possible products. In the race to do this, firms that build their products around proprietary, interdependent architectures enjoy an important competitive advantage against competitors whose product architectures are modular, because the standardization inherent in modularity takes too many degrees of design freedom away from engineers, and they cannot not optimize performance.
+    
+    This makes intuitive sense: optimizing everything results in better performance, at the cost of long-term reliability and flexibility. Sure, long-term reliability and flexibility are nice-to-have, but they are lesser priorities. Once that top priority is met, though, these secondary priorities come to the forefront.
+    
+      Overshooting does not mean that customers will no longer pay for improvements. It just means that the type of improvement for which they will pay a premium price will change. Once their requirements for functionality and reliability have been met, customers begin to redefine what is not good enough. What becomes not good enough is that customers can’t get exactly what they want exactly when they need it, as conveniently as possible. Customers become willing to pay premium prices for improved performance along this new trajectory of innovation in speed, convenience, and customization. When this happens, we say that the basis of competition in a tier of the market has changed.
+    
+    This is a big problem for firms that are dominant in a market undergoing this transition; after all, the reason said firms are dominant is because they are the highest performing, which is to say that they are highly integrated, and to unwind said integration is usually untenable for both business model and more deep-rooted cultural reasons. That opens the door for new entrants:
+    
+      The pressure of competing along this new trajectory of improvement forces a gradual evolution in product architecture, as depicted in Figure 5-1 — away from the interdependent, proprietary architectures that had the advantage in the not-good-enough era toward modular designs in the era of performance surplus. Modular architectures help companies to compete on the dimensions that matter in the lower-right portions of the disruption diagram. Companies can introduce new products faster because they can upgrade individual subsystems without having to redesign everything. Although standard interfaces invariably force compromises in system performance, firms have the slack to trade away some performance with these customers because functionality is more than good enough.
+      Modularity has a profound impact on industry structure because it enables independent, nonintegrated organizations to sell, buy, and assemble components and subsystems. Whereas in the interdependent world you had to make all of the key elements of the system in order to make any of them, in a modular world you can prosper by outsourcing or by supplying just one element. Ultimately, the specifications for modular interfaces will coalesce as industry standards. When that happens, companies can mix and match components from best-of-breed suppliers in order to respond conveniently to the specific needs of individual customers.
+    
+    Taiwan Semiconductor Manufacturing Company (TSMC), the company Chang founded in 1987, is arguably the single best example of the process Christensen described.
+     Intel and TSMC 
+    Intel invented the microprocessor in 1971, and for decades to come, it was not good enough. The 4-bit Intel 4004 was followed by the 8-bit Intel 8008, and then the Intel 8080. Then, in 1978, came the Intel 8086, a 16-bit processor that was backwards compatible with programs written for the 8080 and 8008. That was followed by the Intel 80286, and in 1985, the 32-bit Intel 80386. It was the 80386 that defined the baseline x86 instruction set that undergirds modern processors in most laptops, desktops, and servers, but x86 has its roots in the 8008. Intel, by integrating design, manufacture, and software from the 1970s, would go on to define and dominate the processor market for decades.
+    It would take a very long time for this integrated approach to overshoot the market. Intel’s 80386 was succeeded by the 80486, then the Pentium, and every release made computers so much faster that use cases unimaginable only one or two years prior suddenly seemed within reach, if only Intel could continue its rate of improvement. And, to the company’s credit — and with a solid push from AMD into a 64-bit variant that retained backwards compatibility to the 80386 — Intel did just that.
+    Still, Intel made general purpose processors; processors that were created for a specific task would be much faster, at least in theory, but it was hard to get started: Chang, then a long-time executive at Texas Instruments, observed in the 1980s that it cost $50~$100 million dollars to start a new chip company, primarily because of the cost of manufacturing. You could contract production from Intel or Texas Instruments or Motorola, but it wasn’t reliable — and they were also your competitor!
+    A few years later, in 1987, Chang was invited home to Taiwan, and asked to put together a business plan for a new government initiative to create a semiconductor industry. Chang  explained in an interview with the Computer History Museum  that he didn’t have much to work with:
+    
+      I paused to try to examine what we have got in Taiwan. And my conclusion was that [we had] very little. We had no strength in research and development, or very little anyway. We had no strength in circuit design, IC product design. We had little strength in sales and marketing, and we had almost no strength in intellectual property. The only possible strength that Taiwan had, and even that was a potential one, not an obvious one, was semiconductor manufacturing, wafer manufacturing. And so what kind of company would you create to fit that strength and avoid all the other weaknesses? The answer was pure-play foundry…
+      In choosing the pure-play foundry mode, I managed to exploit, perhaps, the only strength that Taiwan had, and managed to avoid a lot of the other weaknesses. Now, however, there was one problem with the pure-play foundry model and it could be a fatal problem which was, “Where’s the market?”
+    
+    What happened is exactly what Christensen would describe several years later: TSMC created the market by “enabl[ing] independent, nonintegrated organizations to sell, buy, and assemble components and subsystems.” Specifically, Chang made it possible for chip designers to start their own companies:
+    
+      When I was at TI and General Instrument, I saw a lot of IC [ 
+     Integrated Circuit
+     ] designers wanting to leave and set up their own business, but the only thing, or the biggest thing that stopped them from leaving those companies was that they couldn’t raise enough money to form their own company. Because at that time, it was thought that every company needed manufacturing, needed wafer manufacturing, and that was the most capital intensive part of a semiconductor company, of an IC company. And I saw all those people wanting to leave, but being stopped by the lack of ability to raise a lot of money to build a wafer fab. So I thought that maybe TSMC, a pure-play foundry, could remedy that. And as a result of us being able to remedy that then those designers would successfully form their own companies, and they will become our customers, and they will constitute a stable and growing market for us.
+    
+    It worked. Graphics processors were an early example: Nvidia was started in 1993 with only $20 million, and never owned its own fab.  1  Qualcomm, after losing millions manufacturing its earliest designs, spun off its chip-making unit in 2001 to concentrate on design, and Apple started building its own chips without a fab a decade later. Today there are thousands of chip designers in all kinds of niches creating specialized chips for everything from appliances to fighter jets, and none of them have their own foundry.
+    There was one other thing that happened along the way: as I detailed in  2018’s Intel and the Danger of Integration  , TSMC eventually surpassed Intel in not just flexibility but also pure performance:
+    
+      In time, though, TSMC got better, in large part because it had no choice: soon its manufacturing capabilities were only one step behind industry standards, and within a decade had caught-up (although Intel remained ahead of everyone). Meanwhile, the fact that TSMC existed created the conditions for an explosion in “fabless” chip companies that focused on nothing but design…the increased business let TSMC invest even more in its manufacturing capabilities.
+    
+    In short, TSMC is the best chipmaker in the world, no matter what vector of performance you care about. And with that came an entirely new class of problems, not just for TSMC, but also Taiwan.
+     Geopolitical Concerns 
+    The international status of Taiwan is, as they say, complicated. So, for that matter, are U.S.-China relations. These two things can and do overlap to make entirely new, even more complicated complications.
+    Geography is much more straightforward:
+    
+    Taiwan, you will note, is just off the coast of China. South Korea, home to Samsung, which also makes the highest end chips, although mostly for its own use, is just as close. The United States, meanwhile, is on the other side of the Pacific Ocean. There are advanced foundries in Oregon, New Mexico, and Arizona, but they are operated by Intel, and Intel makes chips for its own integrated use cases only.
+    The reason this matters is because chips matter for many use cases outside of PCs and servers — Intel’s focus — which is to say that TSMC matters. Nearly every piece of equipment these days, military or otherwise, has a processor inside. Some of these don’t require particularly high performance, and can be manufactured by fabs built years ago all over the U.S. and across the world; others, though, require the most advanced processes, which means they must be manufactured in Taiwan by TSMC.
+    This is a big problem if you are a U.S. military planner. Your job is not to figure out if there will ever be a war between the U.S. and China, but to plan for an eventuality you hope never occurs. And in that planning the fact that TSMC’s foundries — and Samsung’s — are within easy reach of Chinese missiles is a major issue.
+    China, meanwhile, is investing heavily in catching up, although Semiconductor Manufacturing International Corporation (SMIC), its Shanghai-based champion, only just started manufacturing on a 14nm process, years after TSMC, Samsung, and Intel. In the long run, though, the U.S. faced a scenario where China had its own chip supplier, even as it threatened the U.S.’s chip supply chain.
+     TSMC’s Announcement 
+    This was the context for last week’s announcement that TSMC is building a fab in the United States. From the  Wall Street Journal  :
+    
+      Taiwan Semiconductor Manufacturing Co., the world’s largest contract manufacturer of silicon chips, said Friday it would spend $12 billion to build a chip factory in Arizona, as U.S. concerns grow about dependence on Asia for the critical technology. TSMC said the project, disclosed earlier Thursday by The Wall Street Journal, has the support of the federal government and the state of Arizona. It comes as the Trump administration has sought to jump-start development of new chip factories in the U.S. due to rising fears about the U.S.’s heavy reliance on Taiwan, China and South Korea to produce microelectronics and other key technologies.
+      TSMC made the decision to go ahead with the project at a board meeting on Tuesday in Taiwan, according to people familiar with the matter, adding that both the State and Commerce Departments are involved in the plans. Construction will begin next year with production targeted for 2024, the company said in a statement. TSMC’s new plant would make chips branded as having 5-nanometer transistors, the tiniest, fastest and most power-efficient ones manufactured today. TSMC just started rolling out 5-nanometer chips at a factory in Taiwan in recent months. TSMC said the plant would make 20,000 wafers a month, making it a relatively small facility for a company that made more than 12 million wafers last year alone. TSMC’s Fab 18 in Taiwan, which currently produces its 5-nanometer chips, was targeted for 100,000 wafers a month when it broke ground in 2018.
+    
+    First off, while this announcement has superficial similarities to the star-crossed Foxconn factory in Wisconsin, that project reeked of political theater from the start, and, more pertinently, never made much sense for anyone involved. The current outcome —  empty innovation centers and a still-unfinished factory  that has already been re-purposed — was frankly the default outcome.
+    This TSMC project is different for several reasons. First, you don’t halfway build a foundry; TSMC is either in for billions, or they’re in for nothing. Second, it seems clear that the federal government is contributing significantly to the cost. And third, that is exactly what the federal government should do, because the national security implications are real.
+    This does raise the question about just how committed TSMC is to this project. As the Wall Street Journal notes, the Arizona fab is quite small, relatively speaking, and while 5-nanometer chips are top-of-the-line today, they won’t be in 2024, when the fab opens. Moreover, it is worth noting that TSMC has a fab in Washington that it opened in 1998; it still operates, but TSMC didn’t make any additional investments in the U.S. until now.
+    I think, though, that this is an overly pessimistic reading of this news, at least from a U.S. perspective. First off, of course TSMC is going to start small, and with technology it has already figured out how to build. It is one thing to build a massive “gigafab” next door to the ones you have already built in Taiwan, even as your best employees, who have pushed TSMC to the top over the last thirty years, figure out the next processing node; it is quite another to attempt something similar across the ocean.
+    What is a much bigger deal, though, is that the Taiwan of 2020 is not last in line when it comes to processor technology, but first, and the government — which retains a significant ownership stake in TSMC — has been committed to keeping TSMC’s best technology in Taiwan. That this move is happening at all suggests the sort of momentous choice not simply on TSMC’s part but also Taiwan’s that is hard to undo: when it comes to the U.S. and China, ambiguously sitting in the middle, selling to both, was no longer an option.
+     Lessons for Tech 
+    There are three big lessons for tech specifically and America broadly in this news.
+    First, while we  learned in 2016  that technology was inseparable from domestic politics, the lesson in 2020 should be that technology is inseparable from geopolitics. It is chips that gave Silicon Valley its name, and everything about this chip decision is about geopolitics, not economics.
+    Second, at some point every tech company is going to have to make a choice between the U.S. and China. It is tempting to blame the tension between the two countries on Trump, but the truth is that China, particularly under Xi Jinping, has been significantly hardening its rhetoric and actions since before Trump was elected, and has been committed to not just catching but surpassing the U.S. in technology  for years  . There is a  fundamental clash of values  between the West and China, and it is clear that  China is interested in exporting theirs  . At some point everyone will be stuck in the middle, like TSMC, and  Switzerland won’t be an option  .
+    Third, Intel,  much like Compaq  , is an allegory for where the U.S. seems to have lost its way. Locked in an endless pursuit of efficiency and shareholder value, the U.S. gave up its flexibility and resiliency in favor of top-end performance. Intel is one of the most advanced chip makers in the world, but it turns out that capability is far too constrained to its own needs to be of general applicability. Worse, to the extent Intel was willing to become a contract manufacturer, it  wanted the federal government to pay for it  , the better to satisfy shareholders. The government, rightly, in my mind, chose an operator that was actually used to operating in the world as it is, not once was.
+    At the same time, TSMC’s justifiable carefulness in building a U.S. fab gives Intel an opportunity. Back in 2013, in one of the first Stratechery articles,  I urged the company  to embrace manufacturing and give up its integration, margins be damned. Intel specifically, and the U.S. generally, would be in far better shape had they acted then. As the saying goes, though, the second best time to start is now — and that applies not only to Intel, which should spend the money to get into contract manufacturing on its own, but also to the U.S. The world has changed, and it’s time to act accordingly.
+    
+      The very first Nvidia chips were manufactured by SGS-Thomson Microelectronics, but have been manufactured by TSMC from the original GeForce on [  ↩  ]
+    
+    
+      
+         Share 
+        
+          
+              Facebook  
+              Twitter  
+              LinkedIn  
+              Email  
+            
+          
+        
+      
+    
+    
+       
+     Related
+     
+    
+  
+  
+
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2020/chips-and-geopolitics/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2020/chips-and-geopolitics/&title=Chips and Geopolitics&caption=
+  
+     Chips and Geopolitics 
+    
+  Posted on             Tuesday, May 19, 2020 
+            Tuesday, May 19, 2020 
+     Author  by  Ben Thompson   
+    
+    
+  
+  
+  
+    
+ Manage your Stratechery subscription. 
+    
+    The debate around who belongs on the Mount Rushmore of tech would be a long one; what is certain is that Morris Chang should be on the list. He certainly leads the way in terms of impact relative to name recognition.
+     Integration and Modularization 
+    Clayton Christensen, in 2003’s  
+     The Innovator’s Solution
+      , explained how the natural course of industries was from interdependent architectures to modular ones:
+    
+      Customers will not buy your product unless it solves an important problem for them. But what constitutes a “solution” differs across the two circumstances in Figure 5-1: whether products are not good enough or are more than good enough. The advantage, we have found, goes to integration when products are not good enough, and to outsourcing — or specialization and dis-integration when products are more than good enough.
+      
+      The left side of Figure 5-1 indicates that when there is a performance gap — when product functionality and reliability are not yet good enough to address the needs of customers in a given tier of the market — companies must compete by making the best possible products. In the race to do this, firms that build their products around proprietary, interdependent architectures enjoy an important competitive advantage against competitors whose product architectures are modular, because the standardization inherent in modularity takes too many degrees of design freedom away from engineers, and they cannot not optimize performance.
+    
+    This makes intuitive sense: optimizing everything results in better performance, at the cost of long-term reliability and flexibility. Sure, long-term reliability and flexibility are nice-to-have, but they are lesser priorities. Once that top priority is met, though, these secondary priorities come to the forefront.
+    
+      Overshooting does not mean that customers will no longer pay for improvements. It just means that the type of improvement for which they will pay a premium price will change. Once their requirements for functionality and reliability have been met, customers begin to redefine what is not good enough. What becomes not good enough is that customers can’t get exactly what they want exactly when they need it, as conveniently as possible. Customers become willing to pay premium prices for improved performance along this new trajectory of innovation in speed, convenience, and customization. When this happens, we say that the basis of competition in a tier of the market has changed.
+    
+    This is a big problem for firms that are dominant in a market undergoing this transition; after all, the reason said firms are dominant is because they are the highest performing, which is to say that they are highly integrated, and to unwind said integration is usually untenable for both business model and more deep-rooted cultural reasons. That opens the door for new entrants:
+    
+      The pressure of competing along this new trajectory of improvement forces a gradual evolution in product architecture, as depicted in Figure 5-1 — away from the interdependent, proprietary architectures that had the advantage in the not-good-enough era toward modular designs in the era of performance surplus. Modular architectures help companies to compete on the dimensions that matter in the lower-right portions of the disruption diagram. Companies can introduce new products faster because they can upgrade individual subsystems without having to redesign everything. Although standard interfaces invariably force compromises in system performance, firms have the slack to trade away some performance with these customers because functionality is more than good enough.
+      Modularity has a profound impact on industry structure because it enables independent, nonintegrated organizations to sell, buy, and assemble components and subsystems. Whereas in the interdependent world you had to make all of the key elements of the system in order to make any of them, in a modular world you can prosper by outsourcing or by supplying just one element. Ultimately, the specifications for modular interfaces will coalesce as industry standards. When that happens, companies can mix and match components from best-of-breed suppliers in order to respond conveniently to the specific needs of individual customers.
+    
+    Taiwan Semiconductor Manufacturing Company (TSMC), the company Chang founded in 1987, is arguably the single best example of the process Christensen described.
+     Intel and TSMC 
+    Intel invented the microprocessor in 1971, and for decades to come, it was not good enough. The 4-bit Intel 4004 was followed by the 8-bit Intel 8008, and then the Intel 8080. Then, in 1978, came the Intel 8086, a 16-bit processor that was backwards compatible with programs written for the 8080 and 8008. That was followed by the Intel 80286, and in 1985, the 32-bit Intel 80386. It was the 80386 that defined the baseline x86 instruction set that undergirds modern processors in most laptops, desktops, and servers, but x86 has its roots in the 8008. Intel, by integrating design, manufacture, and software from the 1970s, would go on to define and dominate the processor market for decades.
+    It would take a very long time for this integrated approach to overshoot the market. Intel’s 80386 was succeeded by the 80486, then the Pentium, and every release made computers so much faster that use cases unimaginable only one or two years prior suddenly seemed within reach, if only Intel could continue its rate of improvement. And, to the company’s credit — and with a solid push from AMD into a 64-bit variant that retained backwards compatibility to the 80386 — Intel did just that.
+    Still, Intel made general purpose processors; processors that were created for a specific task would be much faster, at least in theory, but it was hard to get started: Chang, then a long-time executive at Texas Instruments, observed in the 1980s that it cost $50~$100 million dollars to start a new chip company, primarily because of the cost of manufacturing. You could contract production from Intel or Texas Instruments or Motorola, but it wasn’t reliable — and they were also your competitor!
+    A few years later, in 1987, Chang was invited home to Taiwan, and asked to put together a business plan for a new government initiative to create a semiconductor industry. Chang  explained in an interview with the Computer History Museum  that he didn’t have much to work with:
+    
+      I paused to try to examine what we have got in Taiwan. And my conclusion was that [we had] very little. We had no strength in research and development, or very little anyway. We had no strength in circuit design, IC product design. We had little strength in sales and marketing, and we had almost no strength in intellectual property. The only possible strength that Taiwan had, and even that was a potential one, not an obvious one, was semiconductor manufacturing, wafer manufacturing. And so what kind of company would you create to fit that strength and avoid all the other weaknesses? The answer was pure-play foundry…
+      In choosing the pure-play foundry mode, I managed to exploit, perhaps, the only strength that Taiwan had, and managed to avoid a lot of the other weaknesses. Now, however, there was one problem with the pure-play foundry model and it could be a fatal problem which was, “Where’s the market?”
+    
+    What happened is exactly what Christensen would describe several years later: TSMC created the market by “enabl[ing] independent, nonintegrated organizations to sell, buy, and assemble components and subsystems.” Specifically, Chang made it possible for chip designers to start their own companies:
+    
+      When I was at TI and General Instrument, I saw a lot of IC [ 
+     Integrated Circuit
+     ] designers wanting to leave and set up their own business, but the only thing, or the biggest thing that stopped them from leaving those companies was that they couldn’t raise enough money to form their own company. Because at that time, it was thought that every company needed manufacturing, needed wafer manufacturing, and that was the most capital intensive part of a semiconductor company, of an IC company. And I saw all those people wanting to leave, but being stopped by the lack of ability to raise a lot of money to build a wafer fab. So I thought that maybe TSMC, a pure-play foundry, could remedy that. And as a result of us being able to remedy that then those designers would successfully form their own companies, and they will become our customers, and they will constitute a stable and growing market for us.
+    
+    It worked. Graphics processors were an early example: Nvidia was started in 1993 with only $20 million, and never owned its own fab.  1  Qualcomm, after losing millions manufacturing its earliest designs, spun off its chip-making unit in 2001 to concentrate on design, and Apple started building its own chips without a fab a decade later. Today there are thousands of chip designers in all kinds of niches creating specialized chips for everything from appliances to fighter jets, and none of them have their own foundry.
+    There was one other thing that happened along the way: as I detailed in  2018’s Intel and the Danger of Integration  , TSMC eventually surpassed Intel in not just flexibility but also pure performance:
+    
+      In time, though, TSMC got better, in large part because it had no choice: soon its manufacturing capabilities were only one step behind industry standards, and within a decade had caught-up (although Intel remained ahead of everyone). Meanwhile, the fact that TSMC existed created the conditions for an explosion in “fabless” chip companies that focused on nothing but design…the increased business let TSMC invest even more in its manufacturing capabilities.
+    
+    In short, TSMC is the best chipmaker in the world, no matter what vector of performance you care about. And with that came an entirely new class of problems, not just for TSMC, but also Taiwan.
+     Geopolitical Concerns 
+    The international status of Taiwan is, as they say, complicated. So, for that matter, are U.S.-China relations. These two things can and do overlap to make entirely new, even more complicated complications.
+    Geography is much more straightforward:
+    
+    Taiwan, you will note, is just off the coast of China. South Korea, home to Samsung, which also makes the highest end chips, although mostly for its own use, is just as close. The United States, meanwhile, is on the other side of the Pacific Ocean. There are advanced foundries in Oregon, New Mexico, and Arizona, but they are operated by Intel, and Intel makes chips for its own integrated use cases only.
+    The reason this matters is because chips matter for many use cases outside of PCs and servers — Intel’s focus — which is to say that TSMC matters. Nearly every piece of equipment these days, military or otherwise, has a processor inside. Some of these don’t require particularly high performance, and can be manufactured by fabs built years ago all over the U.S. and across the world; others, though, require the most advanced processes, which means they must be manufactured in Taiwan by TSMC.
+    This is a big problem if you are a U.S. military planner. Your job is not to figure out if there will ever be a war between the U.S. and China, but to plan for an eventuality you hope never occurs. And in that planning the fact that TSMC’s foundries — and Samsung’s — are within easy reach of Chinese missiles is a major issue.
+    China, meanwhile, is investing heavily in catching up, although Semiconductor Manufacturing International Corporation (SMIC), its Shanghai-based champion, only just started manufacturing on a 14nm process, years after TSMC, Samsung, and Intel. In the long run, though, the U.S. faced a scenario where China had its own chip supplier, even as it threatened the U.S.’s chip supply chain.
+     TSMC’s Announcement 
+    This was the context for last week’s announcement that TSMC is building a fab in the United States. From the  Wall Street Journal  :
+    
+      Taiwan Semiconductor Manufacturing Co., the world’s largest contract manufacturer of silicon chips, said Friday it would spend $12 billion to build a chip factory in Arizona, as U.S. concerns grow about dependence on Asia for the critical technology. TSMC said the project, disclosed earlier Thursday by The Wall Street Journal, has the support of the federal government and the state of Arizona. It comes as the Trump administration has sought to jump-start development of new chip factories in the U.S. due to rising fears about the U.S.’s heavy reliance on Taiwan, China and South Korea to produce microelectronics and other key technologies.
+      TSMC made the decision to go ahead with the project at a board meeting on Tuesday in Taiwan, according to people familiar with the matter, adding that both the State and Commerce Departments are involved in the plans. Construction will begin next year with production targeted for 2024, the company said in a statement. TSMC’s new plant would make chips branded as having 5-nanometer transistors, the tiniest, fastest and most power-efficient ones manufactured today. TSMC just started rolling out 5-nanometer chips at a factory in Taiwan in recent months. TSMC said the plant would make 20,000 wafers a month, making it a relatively small facility for a company that made more than 12 million wafers last year alone. TSMC’s Fab 18 in Taiwan, which currently produces its 5-nanometer chips, was targeted for 100,000 wafers a month when it broke ground in 2018.
+    
+    First off, while this announcement has superficial similarities to the star-crossed Foxconn factory in Wisconsin, that project reeked of political theater from the start, and, more pertinently, never made much sense for anyone involved. The current outcome —  empty innovation centers and a still-unfinished factory  that has already been re-purposed — was frankly the default outcome.
+    This TSMC project is different for several reasons. First, you don’t halfway build a foundry; TSMC is either in for billions, or they’re in for nothing. Second, it seems clear that the federal government is contributing significantly to the cost. And third, that is exactly what the federal government should do, because the national security implications are real.
+    This does raise the question about just how committed TSMC is to this project. As the Wall Street Journal notes, the Arizona fab is quite small, relatively speaking, and while 5-nanometer chips are top-of-the-line today, they won’t be in 2024, when the fab opens. Moreover, it is worth noting that TSMC has a fab in Washington that it opened in 1998; it still operates, but TSMC didn’t make any additional investments in the U.S. until now.
+    I think, though, that this is an overly pessimistic reading of this news, at least from a U.S. perspective. First off, of course TSMC is going to start small, and with technology it has already figured out how to build. It is one thing to build a massive “gigafab” next door to the ones you have already built in Taiwan, even as your best employees, who have pushed TSMC to the top over the last thirty years, figure out the next processing node; it is quite another to attempt something similar across the ocean.
+    What is a much bigger deal, though, is that the Taiwan of 2020 is not last in line when it comes to processor technology, but first, and the government — which retains a significant ownership stake in TSMC — has been committed to keeping TSMC’s best technology in Taiwan. That this move is happening at all suggests the sort of momentous choice not simply on TSMC’s part but also Taiwan’s that is hard to undo: when it comes to the U.S. and China, ambiguously sitting in the middle, selling to both, was no longer an option.
+     Lessons for Tech 
+    There are three big lessons for tech specifically and America broadly in this news.
+    First, while we  learned in 2016  that technology was inseparable from domestic politics, the lesson in 2020 should be that technology is inseparable from geopolitics. It is chips that gave Silicon Valley its name, and everything about this chip decision is about geopolitics, not economics.
+    Second, at some point every tech company is going to have to make a choice between the U.S. and China. It is tempting to blame the tension between the two countries on Trump, but the truth is that China, particularly under Xi Jinping, has been significantly hardening its rhetoric and actions since before Trump was elected, and has been committed to not just catching but surpassing the U.S. in technology  for years  . There is a  fundamental clash of values  between the West and China, and it is clear that  China is interested in exporting theirs  . At some point everyone will be stuck in the middle, like TSMC, and  Switzerland won’t be an option  .
+    Third, Intel,  much like Compaq  , is an allegory for where the U.S. seems to have lost its way. Locked in an endless pursuit of efficiency and shareholder value, the U.S. gave up its flexibility and resiliency in favor of top-end performance. Intel is one of the most advanced chip makers in the world, but it turns out that capability is far too constrained to its own needs to be of general applicability. Worse, to the extent Intel was willing to become a contract manufacturer, it  wanted the federal government to pay for it  , the better to satisfy shareholders. The government, rightly, in my mind, chose an operator that was actually used to operating in the world as it is, not once was.
+    At the same time, TSMC’s justifiable carefulness in building a U.S. fab gives Intel an opportunity. Back in 2013, in one of the first Stratechery articles,  I urged the company  to embrace manufacturing and give up its integration, margins be damned. Intel specifically, and the U.S. generally, would be in far better shape had they acted then. As the saying goes, though, the second best time to start is now — and that applies not only to Intel, which should spend the money to get into contract manufacturing on its own, but also to the U.S. The world has changed, and it’s time to act accordingly.
+    
+      The very first Nvidia chips were manufactured by SGS-Thomson Microelectronics, but have been manufactured by TSMC from the original GeForce on [  ↩  ]
+    
+    
+      
+         Share 
+        
+          
+              Facebook  
+              Twitter  
+              LinkedIn  
+              Email  
+            
+          
+        
+      
+    
+    
+       
+     Related
+     
+    
+  
+  
+
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Chips and Geopolitics&url=https://stratechery.com/2020/chips-and-geopolitics/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Chips and Geopolitics</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2020-05-19
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2020/chips-and-geopolitics/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <article class="post-4952 post type-post status-publish format-standard has-post-thumbnail hentry category-articles topics-china topics-countries topics-processors topics-taiwan topics-technologies topics-united-states concepts-disruption-theory concepts-evolution-of-technology concepts-history concepts-modular-versus-integrated concepts-politics concepts-technology-and-society companies-intel companies-tsmc" id="post-4952">
+  <header class="entry-header">
+    <h1 class="entry-title" id="chips-and-geopolitics-"> Chips and Geopolitics </h1>
+    <div class="entry-meta">
+<span class="posted-on"> <span class="screen-reader-text"> Posted on </span>           <time class="entry-date published" datetime="2020-05-19T07:56:23-07:00"> Tuesday, May 19, 2020 </time>
+           <time class="updated" datetime="2020-05-19T16:13:29-07:00"> Tuesday, May 19, 2020 </time>
+ </span> <span class="byline"> <span class="author vcard"> <span class="screen-reader-text"> Author </span> by <a class="url fn n" href="https://stratechery.com/author/stratechery/"> Ben Thompson </a> </span> </span>
+    </div>
+    <!-- .entry-meta -->
+  </header>
+  <!-- .entry-header -->
+  <div class="entry-content">
+    <div class="podcastlinks">
+<a href="https://stratechery.com/podcasts/"> Manage your Stratechery subscription. </a>
+    </div>
+    <p>The debate around who belongs on the Mount Rushmore of tech would be a long one; what is certain is that Morris Chang should be on the list. He certainly leads the way in terms of impact relative to name recognition.</p>
+    <h4 id="integration-and-modularization-"> Integration and Modularization </h4>
+    <p>Clayton Christensen, in 2003’s <a href="https://claytonchristensen.com/books/the-innovators-solution/"> <em>
+     The Innovator’s Solution
+    </em> </a> , explained how the natural course of industries was from interdependent architectures to modular ones:</p>
+    <blockquote>
+      <p>Customers will not buy your product unless it solves an important problem for them. But what constitutes a “solution” differs across the two circumstances in Figure 5-1: whether products are not good enough or are more than good enough. The advantage, we have found, goes to integration when products are not good enough, and to outsourcing — or specialization and dis-integration when products are more than good enough.</p>
+      <p><img alt="" class="aligncenter size-large wp-image-4954" height="583" sizes="(max-width: 640px) 100vw, 640px" src="https://stratechery.com/wp-content/uploads/2020/05/CleanShot-2020-05-19-at-17.58.08@2x.png" srcset="https://stratechery.com/wp-content/uploads/2020/05/CleanShot-2020-05-19-at-17.58.08@2x.png 960w, https://stratechery.com/wp-content/uploads/2020/05/CleanShot-2020-05-19-at-17.58.08@2x-300x273.png 300w, https://stratechery.com/wp-content/uploads/2020/05/CleanShot-2020-05-19-at-17.58.08@2x-768x699.png 768w, https://stratechery.com/wp-content/uploads/2020/05/CleanShot-2020-05-19-at-17.58.08@2x-692x630.png 692w" width="640" /></p>
+      <p>The left side of Figure 5-1 indicates that when there is a performance gap — when product functionality and reliability are not yet good enough to address the needs of customers in a given tier of the market — companies must compete by making the best possible products. In the race to do this, firms that build their products around proprietary, interdependent architectures enjoy an important competitive advantage against competitors whose product architectures are modular, because the standardization inherent in modularity takes too many degrees of design freedom away from engineers, and they cannot not optimize performance.</p>
+    </blockquote>
+    <p>This makes intuitive sense: optimizing everything results in better performance, at the cost of long-term reliability and flexibility. Sure, long-term reliability and flexibility are nice-to-have, but they are lesser priorities. Once that top priority is met, though, these secondary priorities come to the forefront.</p>
+    <blockquote>
+      <p>Overshooting does not mean that customers will no longer pay for improvements. It just means that the type of improvement for which they will pay a premium price will change. Once their requirements for functionality and reliability have been met, customers begin to redefine what is not good enough. What becomes not good enough is that customers can’t get exactly what they want exactly when they need it, as conveniently as possible. Customers become willing to pay premium prices for improved performance along this new trajectory of innovation in speed, convenience, and customization. When this happens, we say that the basis of competition in a tier of the market has changed.</p>
+    </blockquote>
+    <p>This is a big problem for firms that are dominant in a market undergoing this transition; after all, the reason said firms are dominant is because they are the highest performing, which is to say that they are highly integrated, and to unwind said integration is usually untenable for both business model and more deep-rooted cultural reasons. That opens the door for new entrants:</p>
+    <blockquote>
+      <p>The pressure of competing along this new trajectory of improvement forces a gradual evolution in product architecture, as depicted in Figure 5-1 — away from the interdependent, proprietary architectures that had the advantage in the not-good-enough era toward modular designs in the era of performance surplus. Modular architectures help companies to compete on the dimensions that matter in the lower-right portions of the disruption diagram. Companies can introduce new products faster because they can upgrade individual subsystems without having to redesign everything. Although standard interfaces invariably force compromises in system performance, firms have the slack to trade away some performance with these customers because functionality is more than good enough.</p>
+      <p>Modularity has a profound impact on industry structure because it enables independent, nonintegrated organizations to sell, buy, and assemble components and subsystems. Whereas in the interdependent world you had to make all of the key elements of the system in order to make any of them, in a modular world you can prosper by outsourcing or by supplying just one element. Ultimately, the specifications for modular interfaces will coalesce as industry standards. When that happens, companies can mix and match components from best-of-breed suppliers in order to respond conveniently to the specific needs of individual customers.</p>
+    </blockquote>
+    <p>Taiwan Semiconductor Manufacturing Company (TSMC), the company Chang founded in 1987, is arguably the single best example of the process Christensen described.</p>
+    <h4 id="intel-and-tsmc-"> Intel and TSMC </h4>
+    <p>Intel invented the microprocessor in 1971, and for decades to come, it was not good enough. The 4-bit Intel 4004 was followed by the 8-bit Intel 8008, and then the Intel 8080. Then, in 1978, came the Intel 8086, a 16-bit processor that was backwards compatible with programs written for the 8080 and 8008. That was followed by the Intel 80286, and in 1985, the 32-bit Intel 80386. It was the 80386 that defined the baseline x86 instruction set that undergirds modern processors in most laptops, desktops, and servers, but x86 has its roots in the 8008. Intel, by integrating design, manufacture, and software from the 1970s, would go on to define and dominate the processor market for decades.</p>
+    <p>It would take a very long time for this integrated approach to overshoot the market. Intel’s 80386 was succeeded by the 80486, then the Pentium, and every release made computers so much faster that use cases unimaginable only one or two years prior suddenly seemed within reach, if only Intel could continue its rate of improvement. And, to the company’s credit — and with a solid push from AMD into a 64-bit variant that retained backwards compatibility to the 80386 — Intel did just that.</p>
+    <p>Still, Intel made general purpose processors; processors that were created for a specific task would be much faster, at least in theory, but it was hard to get started: Chang, then a long-time executive at Texas Instruments, observed in the 1980s that it cost $50~$100 million dollars to start a new chip company, primarily because of the cost of manufacturing. You could contract production from Intel or Texas Instruments or Motorola, but it wasn’t reliable — and they were also your competitor!</p>
+    <p>A few years later, in 1987, Chang was invited home to Taiwan, and asked to put together a business plan for a new government initiative to create a semiconductor industry. Chang <a href="https://www.semi.org/en/Oral-History-Interview-Morris-Chang"> explained in an interview with the Computer History Museum </a> that he didn’t have much to work with:</p>
+    <blockquote>
+      <p>I paused to try to examine what we have got in Taiwan. And my conclusion was that [we had] very little. We had no strength in research and development, or very little anyway. We had no strength in circuit design, IC product design. We had little strength in sales and marketing, and we had almost no strength in intellectual property. The only possible strength that Taiwan had, and even that was a potential one, not an obvious one, was semiconductor manufacturing, wafer manufacturing. And so what kind of company would you create to fit that strength and avoid all the other weaknesses? The answer was pure-play foundry…</p>
+      <p>In choosing the pure-play foundry mode, I managed to exploit, perhaps, the only strength that Taiwan had, and managed to avoid a lot of the other weaknesses. Now, however, there was one problem with the pure-play foundry model and it could be a fatal problem which was, “Where’s the market?”</p>
+    </blockquote>
+    <p>What happened is exactly what Christensen would describe several years later: TSMC created the market by “enabl[ing] independent, nonintegrated organizations to sell, buy, and assemble components and subsystems.” Specifically, Chang made it possible for chip designers to start their own companies:</p>
+    <blockquote>
+      <p>When I was at TI and General Instrument, I saw a lot of IC [ <em>
+     Integrated Circuit
+    </em> ] designers wanting to leave and set up their own business, but the only thing, or the biggest thing that stopped them from leaving those companies was that they couldn’t raise enough money to form their own company. Because at that time, it was thought that every company needed manufacturing, needed wafer manufacturing, and that was the most capital intensive part of a semiconductor company, of an IC company. And I saw all those people wanting to leave, but being stopped by the lack of ability to raise a lot of money to build a wafer fab. So I thought that maybe TSMC, a pure-play foundry, could remedy that. And as a result of us being able to remedy that then those designers would successfully form their own companies, and they will become our customers, and they will constitute a stable and growing market for us.</p>
+    </blockquote>
+    <p>It worked. Graphics processors were an early example: Nvidia was started in 1993 with only $20 million, and never owned its own fab. <a class="footnote-link footnote-identifier-link" href="#footnote_0_4952" id="identifier_0_4952" title="The very first Nvidia chips were manufactured by SGS-Thomson Microelectronics, but have been manufactured by TSMC from the original GeForce on"> 1 </a> Qualcomm, after losing millions manufacturing its earliest designs, spun off its chip-making unit in 2001 to concentrate on design, and Apple started building its own chips without a fab a decade later. Today there are thousands of chip designers in all kinds of niches creating specialized chips for everything from appliances to fighter jets, and none of them have their own foundry.</p>
+    <p>There was one other thing that happened along the way: as I detailed in <a href="https://stratechery.com/2018/intel-and-the-danger-of-integration/"> 2018’s Intel and the Danger of Integration </a> , TSMC eventually surpassed Intel in not just flexibility but also pure performance:</p>
+    <blockquote>
+      <p>In time, though, TSMC got better, in large part because it had no choice: soon its manufacturing capabilities were only one step behind industry standards, and within a decade had caught-up (although Intel remained ahead of everyone). Meanwhile, the fact that TSMC existed created the conditions for an explosion in “fabless” chip companies that focused on nothing but design…the increased business let TSMC invest even more in its manufacturing capabilities.</p>
+    </blockquote>
+    <p>In short, TSMC is the best chipmaker in the world, no matter what vector of performance you care about. And with that came an entirely new class of problems, not just for TSMC, but also Taiwan.</p>
+    <h4 id="geopolitical-concerns-"> Geopolitical Concerns </h4>
+    <p>The international status of Taiwan is, as they say, complicated. So, for that matter, are U.S.-China relations. These two things can and do overlap to make entirely new, even more complicated complications.</p>
+    <p>Geography is much more straightforward:</p>
+    <p><img alt="A map of the Pacific" class="aligncenter size-large wp-image-4953" height="244" sizes="(max-width: 640px) 100vw, 640px" src="https://stratechery.com/wp-content/uploads/2020/05/tsmc-2-1024x391.png" srcset="https://stratechery.com/wp-content/uploads/2020/05/tsmc-2-1024x391.png 1024w, https://stratechery.com/wp-content/uploads/2020/05/tsmc-2-300x115.png 300w, https://stratechery.com/wp-content/uploads/2020/05/tsmc-2-768x293.png 768w, https://stratechery.com/wp-content/uploads/2020/05/tsmc-2-1200x458.png 1200w, https://stratechery.com/wp-content/uploads/2020/05/tsmc-2.png 1280w" width="640" /></p>
+    <p>Taiwan, you will note, is just off the coast of China. South Korea, home to Samsung, which also makes the highest end chips, although mostly for its own use, is just as close. The United States, meanwhile, is on the other side of the Pacific Ocean. There are advanced foundries in Oregon, New Mexico, and Arizona, but they are operated by Intel, and Intel makes chips for its own integrated use cases only.</p>
+    <p>The reason this matters is because chips matter for many use cases outside of PCs and servers — Intel’s focus — which is to say that TSMC matters. Nearly every piece of equipment these days, military or otherwise, has a processor inside. Some of these don’t require particularly high performance, and can be manufactured by fabs built years ago all over the U.S. and across the world; others, though, require the most advanced processes, which means they must be manufactured in Taiwan by TSMC.</p>
+    <p>This is a big problem if you are a U.S. military planner. Your job is not to figure out if there will ever be a war between the U.S. and China, but to plan for an eventuality you hope never occurs. And in that planning the fact that TSMC’s foundries — and Samsung’s — are within easy reach of Chinese missiles is a major issue.</p>
+    <p>China, meanwhile, is investing heavily in catching up, although Semiconductor Manufacturing International Corporation (SMIC), its Shanghai-based champion, only just started manufacturing on a 14nm process, years after TSMC, Samsung, and Intel. In the long run, though, the U.S. faced a scenario where China had its own chip supplier, even as it threatened the U.S.’s chip supply chain.</p>
+    <h4 id="tsmcs-announcement-"> TSMC’s Announcement </h4>
+    <p>This was the context for last week’s announcement that TSMC is building a fab in the United States. From the <a href="https://www.wsj.com/articles/taiwan-company-to-build-advanced-semiconductor-factory-in-arizona-11589481659"> Wall Street Journal </a> :</p>
+    <blockquote>
+      <p>Taiwan Semiconductor Manufacturing Co., the world’s largest contract manufacturer of silicon chips, said Friday it would spend $12 billion to build a chip factory in Arizona, as U.S. concerns grow about dependence on Asia for the critical technology. TSMC said the project, disclosed earlier Thursday by The Wall Street Journal, has the support of the federal government and the state of Arizona. It comes as the Trump administration has sought to jump-start development of new chip factories in the U.S. due to rising fears about the U.S.’s heavy reliance on Taiwan, China and South Korea to produce microelectronics and other key technologies.</p>
+      <p>TSMC made the decision to go ahead with the project at a board meeting on Tuesday in Taiwan, according to people familiar with the matter, adding that both the State and Commerce Departments are involved in the plans. Construction will begin next year with production targeted for 2024, the company said in a statement. TSMC’s new plant would make chips branded as having 5-nanometer transistors, the tiniest, fastest and most power-efficient ones manufactured today. TSMC just started rolling out 5-nanometer chips at a factory in Taiwan in recent months. TSMC said the plant would make 20,000 wafers a month, making it a relatively small facility for a company that made more than 12 million wafers last year alone. TSMC’s Fab 18 in Taiwan, which currently produces its 5-nanometer chips, was targeted for 100,000 wafers a month when it broke ground in 2018.</p>
+    </blockquote>
+    <p>First off, while this announcement has superficial similarities to the star-crossed Foxconn factory in Wisconsin, that project reeked of political theater from the start, and, more pertinently, never made much sense for anyone involved. The current outcome — <a href="https://www.theverge.com/2020/4/12/21217060/foxconn-wisconsin-innovation-centers-empty-buildings"> empty innovation centers and a still-unfinished factory </a> that has already been re-purposed — was frankly the default outcome.</p>
+    <p>This TSMC project is different for several reasons. First, you don’t halfway build a foundry; TSMC is either in for billions, or they’re in for nothing. Second, it seems clear that the federal government is contributing significantly to the cost. And third, that is exactly what the federal government should do, because the national security implications are real.</p>
+    <p>This does raise the question about just how committed TSMC is to this project. As the Wall Street Journal notes, the Arizona fab is quite small, relatively speaking, and while 5-nanometer chips are top-of-the-line today, they won’t be in 2024, when the fab opens. Moreover, it is worth noting that TSMC has a fab in Washington that it opened in 1998; it still operates, but TSMC didn’t make any additional investments in the U.S. until now.</p>
+    <p>I think, though, that this is an overly pessimistic reading of this news, at least from a U.S. perspective. First off, of course TSMC is going to start small, and with technology it has already figured out how to build. It is one thing to build a massive “gigafab” next door to the ones you have already built in Taiwan, even as your best employees, who have pushed TSMC to the top over the last thirty years, figure out the next processing node; it is quite another to attempt something similar across the ocean.</p>
+    <p>What is a much bigger deal, though, is that the Taiwan of 2020 is not last in line when it comes to processor technology, but first, and the government — which retains a significant ownership stake in TSMC — has been committed to keeping TSMC’s best technology in Taiwan. That this move is happening at all suggests the sort of momentous choice not simply on TSMC’s part but also Taiwan’s that is hard to undo: when it comes to the U.S. and China, ambiguously sitting in the middle, selling to both, was no longer an option.</p>
+    <h4 id="lessons-for-tech-"> Lessons for Tech </h4>
+    <p>There are three big lessons for tech specifically and America broadly in this news.</p>
+    <p>First, while we <a href="https://stratechery.com/2016/the-voters-decide/"> learned in 2016 </a> that technology was inseparable from domestic politics, the lesson in 2020 should be that technology is inseparable from geopolitics. It is chips that gave Silicon Valley its name, and everything about this chip decision is about geopolitics, not economics.</p>
+    <p>Second, at some point every tech company is going to have to make a choice between the U.S. and China. It is tempting to blame the tension between the two countries on Trump, but the truth is that China, particularly under Xi Jinping, has been significantly hardening its rhetoric and actions since before Trump was elected, and has been committed to not just catching but surpassing the U.S. in technology <a href="https://www.foreignaffairs.com/articles/china/2019-08-27/chinas-long-march-technological-supremacy"> for years </a> . There is a <a href="https://stratechery.com/2019/china-leverage-and-values/"> fundamental clash of values </a> between the West and China, and it is clear that <a href="https://stratechery.com/2019/china-leverage-and-values/"> China is interested in exporting theirs </a> . At some point everyone will be stuck in the middle, like TSMC, and <a href="https://www.nytimes.com/2020/05/19/business/economy/china-taiwan-huawei-tsmc.html"> Switzerland won’t be an option </a> .</p>
+    <p>Third, Intel, <a href="https://stratechery.com/2020/compaq-and-coronavirus/"> much like Compaq </a> , is an allegory for where the U.S. seems to have lost its way. Locked in an endless pursuit of efficiency and shareholder value, the U.S. gave up its flexibility and resiliency in favor of top-end performance. Intel is one of the most advanced chip makers in the world, but it turns out that capability is far too constrained to its own needs to be of general applicability. Worse, to the extent Intel was willing to become a contract manufacturer, it <a href="https://s.wsj.net/public/resources/documents/intel%20letter.pdf"> wanted the federal government to pay for it </a> , the better to satisfy shareholders. The government, rightly, in my mind, chose an operator that was actually used to operating in the world as it is, not once was.</p>
+    <p>At the same time, TSMC’s justifiable carefulness in building a U.S. fab gives Intel an opportunity. Back in 2013, in one of the first Stratechery articles, <a href="https://stratechery.com/2013/the-intel-opportunity/"> I urged the company </a> to embrace manufacturing and give up its integration, margins be damned. Intel specifically, and the U.S. generally, would be in far better shape had they acted then. As the saying goes, though, the second best time to start is now — and that applies not only to Intel, which should spend the money to get into contract manufacturing on its own, but also to the U.S. The world has changed, and it’s time to act accordingly.</p>
+    <ol class="footnotes">
+      <li class="footnote" id="footnote_0_4952">The very first Nvidia chips were manufactured by SGS-Thomson Microelectronics, but have been manufactured by TSMC from the original GeForce on [ <a class="footnote-link footnote-back-link" href="#identifier_0_4952"> ↩ </a> ]</li>
+    </ol>
+    <div class="sharedaddy sd-sharing-enabled">
+      <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
+        <h3 class="sd-title" id="share-"> Share </h3>
+        <div class="sd-content">
+          <ul>
+            <li class="share-facebook"><a class="share-facebook sd-button share-icon" data-shared="sharing-facebook-4952" href="https://stratechery.com/2020/chips-and-geopolitics/?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Facebook"> <span> Facebook </span> </a></li>
+            <li class="share-twitter"><a class="share-twitter sd-button share-icon" data-shared="sharing-twitter-4952" href="https://stratechery.com/2020/chips-and-geopolitics/?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Twitter"> <span> Twitter </span> </a></li>
+            <li class="share-linkedin"><a class="share-linkedin sd-button share-icon" data-shared="sharing-linkedin-4952" href="https://stratechery.com/2020/chips-and-geopolitics/?share=linkedin" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on LinkedIn"> <span> LinkedIn </span> </a></li>
+            <li class="share-email"><a class="share-email sd-button share-icon" data-shared="" href="https://stratechery.com/2020/chips-and-geopolitics/?share=email" rel="nofollow noopener noreferrer" target="_blank" title="Click to email this to a friend"> <span> Email </span> </a></li>
+            <li class="share-end"></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="jp-relatedposts" id="jp-relatedposts">
+      <h3 class="jp-relatedposts-headline" id="related"> <em>
+     Related
+    </em> </h3>
+    </div>
+  </div>
+  <!-- .entry-content -->
+</article>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2020-06-02</time>
+        <a href="https://nodebe4.github.io/opinion/2020-06-02/Dust-in-the-Light/">
+          Dust in the Light
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-05-26</time>
+        <a href="https://nodebe4.github.io/opinion/2020-05-26/Platforms_in_an_Aggregator_World/">
+          Platforms in an Aggregator World
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-05-12</time>
+        <a href="https://nodebe4.github.io/opinion/2020-05-12/Dithering_and_Open_Versus_Free/">
+          Dithering and Open Versus Free
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-04-28</time>
+        <a href="https://nodebe4.github.io/opinion/2020-04-28/The_Anti-Amazon_Alliance/">
+          The Anti-Amazon Alliance
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2020-05-19/%E6%94%BF%E6%B2%BB%E8%A7%80%E5%AF%9F-%E5%89%8D%E5%8F%B8%E6%B3%95%E9%83%A8%E9%83%A8%E9%95%B7%E5%82%85%E6%94%BF%E8%8F%AF%E6%9A%AB%E6%99%82-%E8%BB%9F%E8%91%97%E9%99%B8/">
+            前一篇：政治觀察：前司法部部長傅政華暫時「軟著陸」
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2020-05-19/%E6%94%BF%E6%B2%BB%E8%A7%80%E5%AF%9F-%E4%B8%AD%E5%85%B1%E6%94%BF%E6%AC%8A%E5%8D%B1%E6%A9%9F-%E5%8D%B1%E6%A9%9F%E7%AD%96%E7%95%A5%E5%92%8C%E5%85%A9%E6%9C%83/">
+            後一篇：政治觀察：中共政權危機、危機策略和兩會
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2020-05-19/%E6%94%BF%E6%B2%BB%E8%A7%80%E5%AF%9F-%E5%89%8D%E5%8F%B8%E6%B3%95%E9%83%A8%E9%83%A8%E9%95%B7%E5%82%85%E6%94%BF%E8%8F%AF%E6%9A%AB%E6%99%82-%E8%BB%9F%E8%91%97%E9%99%B8/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2020-05-19/%E6%94%BF%E6%B2%BB%E8%A7%80%E5%AF%9F-%E4%B8%AD%E5%85%B1%E6%94%BF%E6%AC%8A%E5%8D%B1%E6%A9%9F-%E5%8D%B1%E6%A9%9F%E7%AD%96%E7%95%A5%E5%92%8C%E5%85%A9%E6%9C%83/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2020-05-26/Platforms_in_an_Aggregator_World/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2020-05-12/Dithering_and_Open_Versus_Free/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2020-05-19/%E6%94%BF%E6%B2%BB%E8%A7%80%E5%AF%9F-%E5%89%8D%E5%8F%B8%E6%B3%95%E9%83%A8%E9%83%A8%E9%95%B7%E5%82%85%E6%94%BF%E8%8F%AF%E6%9A%AB%E6%99%82-%E8%BB%9F%E8%91%97%E9%99%B8/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2020-05-19/%E6%94%BF%E6%B2%BB%E8%A7%80%E5%AF%9F-%E4%B8%AD%E5%85%B1%E6%94%BF%E6%AC%8A%E5%8D%B1%E6%A9%9F-%E5%8D%B1%E6%A9%9F%E7%AD%96%E7%95%A5%E5%92%8C%E5%85%A9%E6%9C%83/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2020-05-26/Platforms_in_an_Aggregator_World/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2020-05-12/Dithering_and_Open_Versus_Free/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

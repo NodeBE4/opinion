@@ -1,0 +1,2976 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Meta – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+Meta
+——
+" />
+    <meta property="og:description" content="
+Meta
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Meta" />
+    <meta property="twitter:title" content="Meta" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2021%2Fmeta%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2021/meta/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2021/meta/&text=Meta&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2021/meta/&title=Meta" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2021/meta/&title=Meta" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Meta&body=
+Meta
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2021/meta/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2021/meta/&title=Meta&caption=
+Meta
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Meta&url=https://stratechery.com/2021/meta/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Meta</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2021-10-28
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2021/meta/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1635445177000-->
+<p><a href="https://stratechery.com/2021/meta/">Meta</a>
+——</p>
+
+<div>
+  <p>The obvious analogy to Facebook’s announcement that it is renaming itself Meta and re-organizing its financials to separate “Family of Apps” — Facebook, Messenger, Instagram, and WhatsApp — from “Facebook Reality Labs” is Google’s 2015 reorganization to Alphabet, which separated “Google”, including the search engine, YouTube, and Google Cloud, from “Other Bets.” The headline for investors is just how much Facebook is spending on Reality Labs — $10 billion this year, and that amount is expected to grow — but next quarter’s financials will also emphasize just how good Facebook’s core business is; if it plays out like Alphabet, this could be a boon for the stock.</p>
+  <p>At the same time, while the mechanics may be similar, it is the differences that suggest the implications of this transformation are much more meaningful. Start with the name: “Alphabet” didn’t really mean anything in particular, and that was the point; Larry Page said <a href="https://blog.google/alphabet/google-alphabet/">in the announcement post</a>:</p>
+  <blockquote>
+    <p>What is Alphabet? Alphabet is mostly a collection of companies. The largest of which, of course, is Google. This newer Google is a bit slimmed down, with the companies that are pretty far afield of our main Internet products contained in Alphabet instead. What do we mean by far afield? Good examples are our health efforts: Life Sciences (that works on the glucose-sensing contact lens), and Calico (focused on longevity). Fundamentally, we believe this allows us more management scale, as we can run things independently that aren’t very related. Alphabet is about businesses prospering through strong leaders and independence.</p>
+  </blockquote>
+  <p>“Meta”, on the other hand, is explicit: CEO Mark Zuckerberg said that Facebook is now a metaverse company, and the name reflects that. It is also focused: Alphabet included a host of ventures, many of which had no real connection to Google; Facebook Reality Labs is a collection of efforts, from virtual reality to augmented reality to <a href="https://tech.fb.com/inside-facebook-reality-labs-wrist-based-interaction-for-the-next-computing-platform/">electromyography</a> systems, all in service to a singular vision where instead of looking at the Internet, we live in it.</p>
+  <p>The biggest difference, though, is Zuckerberg: while Page and Sergey Brin, <a href="https://stratechery.com/2015/do-you-trust-larry-page/">as I wrote at the time</a>, “may be abandoning day-to-day responsibilities at Google, [they have] no intention of abandoning Google’s profits” to pursue whatever new initiatives caught their eye, Zuckerberg quite clearly remains fully committed to both the “Family of Apps” and “Reality Labs”; more than that, Meta is, <a href="https://stratechery.com/2021/an-interview-with-mark-zuckerberg-about-the-metaverse">according to Zuckerberg</a>, a continuation of the same vision undergirding Facebook:</p>
+  <blockquote>
+    <p>I think that this is going to unlock a lot of the product experiences that I’ve wanted to build since even before I started Facebook. From a business perspective, I think that this is going to unlock a massive amount of digital commerce, and strategically I think we’ll have hopefully an opportunity to shape the development of the next platform in order to make it more amenable to these ways that I think people will naturally want to interact.</p>
+  </blockquote>
+  <p>Another comparison is Microsoft: the Redmond company never changed its name, but under former CEO Steve Ballmer it might as well have been called the Windows company; that’s how you ended up with names like Windows Azure, a misnomer born of <a href="https://stratechery.com/2013/services-not-devices/">a misguided strategy</a> that sought to leverage Microsoft’s thriving productivity business and burgeoning cloud offering to prop up the product that had made the company rich, famous, and powerful. Zuckerberg made a similar mistake last year, <a href="https://www.oculus.com/blog/a-single-way-to-log-into-oculus-and-unlock-social-features/">forcing Oculus users to login with their Facebook account</a>, which not only upset Oculus users but also handcuffed products like Horizon Workrooms, <a href="https://stratechery.com/2021/enterprise-metaverses-horizon-workrooms-workrooms-facebook-problem/">Facebook’s VR solution for business meetings</a>.</p>
+  <p>Satya Nadella’s great triumph as CEO of Microsoft was <a href="https://stratechery.com/2018/the-end-of-windows/">breaking Windows hold over the company</a>, freeing the company to not just emphasize Azure’s general purpose cloud offerings, but to also <a href="https://stratechery.com/2020/the-slack-social-network/">build a new OS centered on Teams</a> that was Internet-centric, and device agnostic. Indeed, that is why I don’t scoff at Nadella’s invocation of <a href="https://stratechery.com/2021/metaverses/">the enterprise metaverse</a>; sure, Microsoft has the HoloLens, but that is just one way to access a work environment that exists somewhere beyond any one device or any one app.</p>
+  <p>Meta seems like Zuckerberg’s opportunity to make the same break: Facebook benefited from being <a href="https://stratechery.com/2013/mobile-makes-facebook-just-an-app-thats-great-news/">just an app</a> (until <a href="https://stratechery.com/2020/apple-and-facebook/">it didn’t</a>), but until today Facebook was also the company, and as long as that was the case the metaverse vision was going to be fundamentally constrained by what already exists.</p>
+  <p>There is a third comparison, though, and that is Apple generally, and Steve Jobs specifically. While Jobs’ tenure in retrospect looks like a string of new innovative products after new innovative products, from the Mac to the iPhone, the latter was in many respects Jobs’ opportunity to truly deliver on the vision he had for the former. The Mac was a computer built for end users, but it launched in an era dominated by enterprises; that is why it was initially a failure from a business perspective, which helped drive Jobs out of the company he had founded. Fast forward 23 years and the iPhone launched in an era where end users dominated the market; it was enterprise players like Microsoft that scrambled, and failed, to catch up.</p>
+  <p>The analogy to Facebook is the company’s failure to build a phone; the company’s biggest problem is that it was simply too late — iPhone and Android were already firmly established by the 2013 launch of the Facebook First phone and Facebook Home Android launcher — but I also thought that Zuckerberg’s conception of what a phone should be was fundamentally flawed. One of the very first articles on Stratechery was <a href="https://stratechery.com/2013/apps-people-jobs-to-be-done/">Apps, People, and Jobs to Be Done</a>, where I took issue with <a href="http://www.wired.com/magazine/2013/04/facebookqa/">Zuckerberg’s argument</a> that people, not apps, should be the organizing principle for mobile; I concluded:</p>
+  <blockquote>
+    <p>Apps aren’t the center of the world. But neither are people. The reason why smartphones rule the world is because they do more jobs for more people in more places than anything in the history of mankind. Facebook Home makes jobs harder to do, in effect demoting them to the folders on my third screen [in favor of social].</p>
+  </blockquote>
+  <p>I have long assumed that augmented reality would be a bigger opportunity than virtual reality precisely because <a href="https://stratechery.com/2016/ces-2016/">augmented reality fits in the same lane as the smartphone</a>; I wrote in <a href="https://stratechery.com/2018/the-problem-with-virtual-reality/">The Problem with Facebook and Virtual Reality</a>:</p>
+  <blockquote>
+    <p>That is the first challenge of virtual reality: it is a destination, both in terms of a place you go virtually, but also, critically, the end result of deliberative actions in the real world. One doesn’t experience virtual reality by accident: it is a choice, and often — like in the case of my PlayStation VR — a rather complicated one.</p>
+    <p>That is not necessarily a problem: going to see a movie is a choice, as is playing a video game on a console or PC. Both are very legitimate ways to make money: global box office revenue in 2017 was $40.6 billion U.S., and billions more were made on all the other distribution channels in a movie’s typical release window; video games have long since been an even bigger deal, generating $109 billion globally last year.</p>
+    <p>Still, that is an order of magnitude less than the amount of revenue generated by something like smartphones. Apple, for example, sold $158 billion worth of iPhones over the last year; the entire industry was worth around $478.7 billion in 2017. The disparity should not come as a surprise: unlike movies or video games, smartphones are an accompaniment on your way to a destination, not a destination in and of themselves.</p>
+    <p>That may seem counterintuitive at first: isn’t it a good thing to be the center of one’s attention? That center, though, can only ever be occupied by one thing, and the addressable market is constrained by time. Assume eight hours for sleep, eight for work, a couple of hours for, you know, actually navigating life, and that leaves at best six hours to fight for. That is why devices intended to augment life, not replace it, have always been more compelling: every moment one is awake is worth addressing.</p>
+    <p>In other words, the virtual reality market is fundamentally constrained by its very nature: because it is about the temporary exit from real life, not the addition to it, there simply isn’t nearly as much room for virtual reality as there is for any number of other tech products.</p>
+  </blockquote>
+  <p>Meta’s vision, to be clear, is that one ought to be able to access the metaverse from anywhere, including your phone, computer, AR glasses, and of course a VR headset. What is worth considering, though, are the ways in which the technological revolution <a href="https://stratechery.com/2021/sequoia-productive-capital/">I wrote about yesterday</a> are changing society; I think that the term “working from home”, for example, is another misnomer: for some number of people work is virtual, which means it can be done from anywhere — your home is just one of many options. And in that case, an escape from physical reality is actually the goal, not a burden; why wouldn’t the same attraction exist in terms of social interactions generally, particularly as more and more communities exist only on the Internet?</p>
+  <p>Here Facebook the app was again a limitation: the product digitized offline relationships, which is why it grew so quickly; many of the challenges that have placed Zuckerberg in the hot seat currently stem from grafting on purely digital interactions and relationships to a product that was always more reality-rooted than its competitors. The metaverse, though, by its very definition is rooted in the digital world, and if the primary driver is to interact with people virtually, whether that be for work or for play, then Zuckerberg’s people-centric organizing principle — like Apple’s focus on the end-user — may be a viewpoint that was originally too early, and then right on time.</p>
+  <p>This is all about as favorable a spin as you can put on Meta, of course; there is a lot of grumbling from investors this week about the effect the effort is having on Facebook’s margins, and my previously-voiced suspicion that Zuckerberg just wants to own a platform very much lines up with Facebook currently feeling the pain from its Apple-dependency in particular. And, needless to say, Facebook is dealing with plenty of other issues in the media and Washington D.C. that not only concern the “Family of Apps”, but also threaten the reception of whatever it is that “Reality Labs” ultimately produces.</p>
+  <p>Zuckerberg, though, is a founder, which both means he decides, thanks to his super-voting shares, and also that he has the credibility to pull investors along; more than that, though, is the clear founder ethos that Zuckerberg is bringing to Meta. Zuckerberg told me:</p>
+  <blockquote>
+    <p>One of the things that I’ve found in building the company so far is that you can’t reduce everything to a business case upfront. I think a lot of times the biggest opportunity is you kind of just need to care about them and think that something is going to be awesome and have some conviction and build it. One of the things that I’ve been surprised about a number of times in my career is when something that seemed really obvious to me and that I expected clearly someone else is going to go build this thing, that they just don’t. I think a lot of times things that seem like they’re obvious that they should be invested in by someone, it just doesn’t happen.</p>
+    <p>I care about this existing, not just virtual and augmented reality existing, but it getting built out in a way that really advances the state of human connection and enables people to be able to interact in a different way. That’s sort of what I’ve dedicated my life’s work to. I’m not sure, I don’t know that if we weren’t investing so much in this, that would happen or that it would happen as quickly, or that it would happen in the same way. I think that we are going to kind shift the direction of that.</p>
+  </blockquote>
+  <p>Meta exists because Zuckerberg believes it needs to exist, and he is devoted to making the metaverse a reality; it’s his call, for better or worse. In that it reminds me of an increasingly popular phrase on FinTwit: <a href="https://twitter.com/search?q=house%20of%20zuck&#038;src=typed_query">House of Zuck</a>. It has been adopted by a set of investors that are eternally bullish on Facebook not because of its results per se, but because of their conviction that those results come from Zuckerberg’s leadership. It is a belief that is being tested as never before.</p>
+  <div align="center">
+    <blockquote class="twitter-tweet">
+      <p lang="en" dir="ltr">Day 1 stock needs Day 1 investors, Day 2 folks may now leave</p>
+      <p>— East (@east_cap) <a href="https://twitter.com/east_cap/status/1453076148066394115?ref_src=twsrc%5Etfw">October 26, 2021</a></p>
+    </blockquote>
+    <p>      <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+&lt;/div&gt;      <p>Facebook has always been unique amongst the Big 5 tech companies because it is the one company <a href="https://stratechery.com/2021/regulators-and-reality/">that does not have a monopoly-like moat in the market in which it competes</a>; today it is also unique in that it is the only one of the five that is still founder-led. I don’t think that is a coincidence.</p>
+      <p>The fact that Facebook is uniquely held responsible for the societal problems engendered by the Internet does, I suspect, stem from the fact that Zuckerberg is an obvious target. How many people concerned about anti-vax rhetoric, for example, can even name the person in charge of YouTube, a far more potent vector? Page and Brin were wise to step aside once Google was established, to make Google a less tempting target; the same with Jeff Bezos. Facebook doesn’t have that luxury. <a href="https://www.nytimes.com/2021/10/26/opinion/zuckerberg-facebook-ceo.html">Kara Swisher made explicit</a> what seems obvious: the way for Facebook to escape its current predicament is for Zuckerberg to hand the reins to someone else. Only a founder, though, can admit, as <a href="https://s21.q4cdn.com/399680738/files/doc_financials/2021/q3/FB-Q3-2021-Earnings-Call-Transcript.pdf">Zuckerberg did on Facebook’s recent earnings call</a>, that the company is losing ground with young people, and not just pivot the “Family of Apps”, but the entire company towards a future vision that establishes Meta as a dominant platform in its own right.</p>
+      <p>That’s also why I considered titling this article “House of Zuck”; that, more than ever, is what Meta née Facebook is. <a href="https://www.facebook.com/watch/live/?ref=watch_permalink&#038;v=561535698440683">Today’s Facebook Connect keynote</a> is entirely about a future that doesn’t yet exist; believing that it will happen rests on the degree to which you believe that Zuckerberg the founder can accomplish more than any mere manager.</p>
+      <p>This is where I come back to Jobs: it’s hard to remember now, but the Apple founder had some very rough edges; his exile from Apple was terrible for the company, but good for Jobs’ maturation into an executive with a founder’s vision and drive that could bring Apple to greater heights than ever before. Zuckerberg doesn’t have the luxury of a decade in the wilderness, but he has certainly undergone a trial by fire; Meta’s ultimate success, or lack thereof, will answer the question if that is enough.</p>
+      <p><em>You can read an interview I conducted with Zuckerberg about Facebook’s plan for the metaverse <a href="https://stratechery.com/2021/an-interview-with-mark-zuckerberg-about-the-metaverse">here</a>.</em></p>
+ &lt;/div&gt;</p>
+  </div>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2021-11-18</time>
+        <a href="https://nodebe4.github.io/opinion/2021-11-18/Unity,-Weta,-and-Faceless-Platforms/">
+          Unity, Weta, and Faceless Platforms
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-11-09</time>
+        <a href="https://nodebe4.github.io/opinion/2021-11-09/Microsoft-and-the-Metaverse/">
+          Microsoft and the Metaverse
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-10-27</time>
+        <a href="https://nodebe4.github.io/opinion/2021-10-27/Sequoia-Productive-Capital/">
+          Sequoia Productive Capital
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-10-12</time>
+        <a href="https://nodebe4.github.io/opinion/2021-10-12/The-Death-and-Birth-of-Technological-Revolutions/">
+          The Death and Birth of Technological Revolutions
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2021-10-28/676-%E4%BB%8E%E5%9C%A8%E8%AF%BE%E5%A0%82%E8%AE%B2%E6%8E%88%E4%BA%BA%E7%94%9F%E6%84%8F%E4%B9%89%E5%88%B0%E5%8E%BB%E7%9B%91%E7%8B%B1%E6%8E%A2%E8%A7%86%E5%AD%A6%E7%94%9F-%E5%91%A8%E4%BF%9D%E6%9D%BE/">
+            前一篇：676 从在课堂讲授人生意义到去监狱探视学生|周保松
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2021-10-28/CUPodcast-2-ESG%E7%B0%A1%E5%96%AE%E8%AC%9B-COP-26%E6%9C%89%E4%BD%95%E9%87%8D%E8%A6%81/">
+            後一篇：【*CUPodcast】#2 ESG簡單講： COP 26有何重要？
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2021-10-28/676-%E4%BB%8E%E5%9C%A8%E8%AF%BE%E5%A0%82%E8%AE%B2%E6%8E%88%E4%BA%BA%E7%94%9F%E6%84%8F%E4%B9%89%E5%88%B0%E5%8E%BB%E7%9B%91%E7%8B%B1%E6%8E%A2%E8%A7%86%E5%AD%A6%E7%94%9F-%E5%91%A8%E4%BF%9D%E6%9D%BE/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2021-10-28/CUPodcast-2-ESG%E7%B0%A1%E5%96%AE%E8%AC%9B-COP-26%E6%9C%89%E4%BD%95%E9%87%8D%E8%A6%81/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2021-11-09/Microsoft-and-the-Metaverse/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2021-10-27/Sequoia-Productive-Capital/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2021-10-28/676-%E4%BB%8E%E5%9C%A8%E8%AF%BE%E5%A0%82%E8%AE%B2%E6%8E%88%E4%BA%BA%E7%94%9F%E6%84%8F%E4%B9%89%E5%88%B0%E5%8E%BB%E7%9B%91%E7%8B%B1%E6%8E%A2%E8%A7%86%E5%AD%A6%E7%94%9F-%E5%91%A8%E4%BF%9D%E6%9D%BE/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2021-10-28/CUPodcast-2-ESG%E7%B0%A1%E5%96%AE%E8%AC%9B-COP-26%E6%9C%89%E4%BD%95%E9%87%8D%E8%A6%81/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2021-11-09/Microsoft-and-the-Metaverse/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2021-10-27/Sequoia-Productive-Capital/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

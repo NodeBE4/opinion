@@ -1,0 +1,1065 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>對話楊夢：反猶主義的前世今生|圍爐·PKU&THU – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+對話楊夢：反猶主義的前世今生|圍爐·PKU&amp;THU
+——
+" />
+    <meta property="og:description" content="
+對話楊夢：反猶主義的前世今生|圍爐·PKU&amp;THU
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="對話楊夢：反猶主義的前世今生|圍爐·PKU&THU" />
+    <meta property="twitter:title" content="對話楊夢：反猶主義的前世今生|圍爐·PKU&THU" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fmatters.news%2F%40weiluflame%2F%25E5%25B0%258D%25E8%25A9%25B1%25E6%25A5%258A%25E5%25A4%25A2-%25E5%258F%258D%25E7%258C%25B6%25E4%25B8%25BB%25E7%25BE%25A9%25E7%259A%2584%25E5%2589%258D%25E4%25B8%2596%25E4%25BB%258A%25E7%2594%259F-%25E5%259C%258D%25E7%2588%2590-pku-and-thu-bafyreigg6jhobmvw5uekgikezmbrdm5igpu7cochsdzysuutq676pjmq5i" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://matters.news/@weiluflame/%E5%B0%8D%E8%A9%B1%E6%A5%8A%E5%A4%A2-%E5%8F%8D%E7%8C%B6%E4%B8%BB%E7%BE%A9%E7%9A%84%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F-%E5%9C%8D%E7%88%90-pku-and-thu-bafyreigg6jhobmvw5uekgikezmbrdm5igpu7cochsdzysuutq676pjmq5i" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://matters.news/@weiluflame/%E5%B0%8D%E8%A9%B1%E6%A5%8A%E5%A4%A2-%E5%8F%8D%E7%8C%B6%E4%B8%BB%E7%BE%A9%E7%9A%84%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F-%E5%9C%8D%E7%88%90-pku-and-thu-bafyreigg6jhobmvw5uekgikezmbrdm5igpu7cochsdzysuutq676pjmq5i&text=對話楊夢：反猶主義的前世今生|圍爐·PKU&THU&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://matters.news/@weiluflame/%E5%B0%8D%E8%A9%B1%E6%A5%8A%E5%A4%A2-%E5%8F%8D%E7%8C%B6%E4%B8%BB%E7%BE%A9%E7%9A%84%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F-%E5%9C%8D%E7%88%90-pku-and-thu-bafyreigg6jhobmvw5uekgikezmbrdm5igpu7cochsdzysuutq676pjmq5i&title=對話楊夢：反猶主義的前世今生|圍爐·PKU&THU" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://matters.news/@weiluflame/%E5%B0%8D%E8%A9%B1%E6%A5%8A%E5%A4%A2-%E5%8F%8D%E7%8C%B6%E4%B8%BB%E7%BE%A9%E7%9A%84%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F-%E5%9C%8D%E7%88%90-pku-and-thu-bafyreigg6jhobmvw5uekgikezmbrdm5igpu7cochsdzysuutq676pjmq5i&title=對話楊夢：反猶主義的前世今生|圍爐·PKU&THU" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=對話楊夢：反猶主義的前世今生|圍爐·PKU&THU&body=
+對話楊夢：反猶主義的前世今生|圍爐·PKU&amp;THU
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://matters.news/@weiluflame/%E5%B0%8D%E8%A9%B1%E6%A5%8A%E5%A4%A2-%E5%8F%8D%E7%8C%B6%E4%B8%BB%E7%BE%A9%E7%9A%84%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F-%E5%9C%8D%E7%88%90-pku-and-thu-bafyreigg6jhobmvw5uekgikezmbrdm5igpu7cochsdzysuutq676pjmq5i" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://matters.news/@weiluflame/%E5%B0%8D%E8%A9%B1%E6%A5%8A%E5%A4%A2-%E5%8F%8D%E7%8C%B6%E4%B8%BB%E7%BE%A9%E7%9A%84%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F-%E5%9C%8D%E7%88%90-pku-and-thu-bafyreigg6jhobmvw5uekgikezmbrdm5igpu7cochsdzysuutq676pjmq5i&title=對話楊夢：反猶主義的前世今生|圍爐·PKU&THU&caption=
+對話楊夢：反猶主義的前世今生|圍爐·PKU&amp;THU
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=對話楊夢：反猶主義的前世今生|圍爐·PKU&THU&url=https://matters.news/@weiluflame/%E5%B0%8D%E8%A9%B1%E6%A5%8A%E5%A4%A2-%E5%8F%8D%E7%8C%B6%E4%B8%BB%E7%BE%A9%E7%9A%84%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F-%E5%9C%8D%E7%88%90-pku-and-thu-bafyreigg6jhobmvw5uekgikezmbrdm5igpu7cochsdzysuutq676pjmq5i" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>對話楊夢：反猶主義的前世今生|圍爐·PKU&THU</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2021-11-01
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: 围炉weiluflame</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#围炉">
+          围炉
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://matters.news/@weiluflame/%E5%B0%8D%E8%A9%B1%E6%A5%8A%E5%A4%A2-%E5%8F%8D%E7%8C%B6%E4%B8%BB%E7%BE%A9%E7%9A%84%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F-%E5%9C%8D%E7%88%90-pku-and-thu-bafyreigg6jhobmvw5uekgikezmbrdm5igpu7cochsdzysuutq676pjmq5i" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="围炉的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#围炉 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1635773143000-->
+<p><a href="https://matters.news/@weiluflame/%E5%B0%8D%E8%A9%B1%E6%A5%8A%E5%A4%A2-%E5%8F%8D%E7%8C%B6%E4%B8%BB%E7%BE%A9%E7%9A%84%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F-%E5%9C%8D%E7%88%90-pku-and-thu-bafyreigg6jhobmvw5uekgikezmbrdm5igpu7cochsdzysuutq676pjmq5i">對話楊夢：反猶主義的前世今生|圍爐·PKU&amp;THU</a>
+——</p>
+
+<div>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/53f43b62-e262-4b3c-8942-59fb509af6da.png" data-asset-id="53f43b62-e262-4b3c-8942-59fb509af6da" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>當我們提起猶太人，我們想到聰明有錢，想到上世紀那場慘無人道的屠殺，想到《辛德勒的名單》、《鋼琴家》等影壇經典之作…然而，先入為主的悲劇性視角是否將我們阻隔於真實之外？ 帶著這樣的疑問，我採訪了猶太文明研究學者楊夢，試圖更為真切地認識猶太民族，深思反猶主義的過去與未來。</p>
+  <p>楊夢：北京大學助理教授、研究員，研究領域包括猶太學、日爾曼學等，多次獲得中國、以色列、美國、德國等學術機構學術獎勵以及多項國際認可的學術榮譽稱號。 2020年4月，入選成為美國西北大學《猶太文明與猶太大屠殺》教研項目研究員，全球約20比特大學教員入選。 2020年9月，獲得國家社會科學基金一般項目立項，獨立主持《二戰期間在華德裔猶太難民的文化生活》，在研。 自2021年獨立教授北大第一門“猶太文明”課程，同時也是北京市高校唯一一門“猶太文明”全校課程——《全球視野下的猶太文明》，課程公眾號aibeida，學術聯繫郵箱 allshallpass@gmail.com</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/e1f3d562-0283-4789-9c92-cb5e98f054c0.png" data-asset-id="e1f3d562-0283-4789-9c92-cb5e98f054c0" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>M=倪悅然</p>
+  <p>Y=楊夢</p>
+  <p><u>1</u></p>
+  <p><strong>個人經歷</strong></p>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>M |您對日爾曼文明和猶太文明兼有研究，而這二者聽起來似乎是充滿强烈衝突的。 您為什麼選擇了這兩個方向呢，可以跟我們談談您的研究歷程嗎？</code></pre></div>  </div>
+  <p>Y |起初我是德語系的學生，對應的就是日爾曼學，當時論文研究對象是與猶太大屠殺相關的德語作品《朗讀者》，後來博士論文做的是上海猶太社群研究，就踏入了猶太學領域。 2012年我第一次去以色列交流，相見恨晚，終於找到了自己熱愛的學術領域。 曾經所學，比如德語，正好可以派上用場，於是就開始了猶太文明之旅。</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>M |您在對於兩種文明的研究中有怎樣的體會呢？ 會不會偶爾覺得烦乱衝突？</code></pre></div>  </div>
+  <p>Y |在德國的時候，每個德國人都會問我三個問題：“請問您從哪裡來？您在德國做什麼？畢業後您會回中國還是留在德國？”在以色列的時候，每個以色列人也會問我三個問題，但是totally不同—— “靚女你多大啦？你結婚了嗎？你男朋友在這裡嗎？在你會感受到兩種文化非常不同，一個相對冷，有距離感，另外一個比較熱情，有親近感。不同文化難分伯仲，只是你心裡明白你自己更喜歡哪一種。個人更喜歡比較有熱情的文化環境，也就是猶太文明所呈現出 來的狀態。至於是否會感到烦乱，我並沒有感到烦乱或衝突，因為我並不從屬於這二者中任何一個，只是對某一種文化環境更為適應。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/6728f0fb-1709-4129-b18f-217a19ba75ec.webp" data-asset-id="6728f0fb-1709-4129-b18f-217a19ba75ec" referrerpolicy="no-referrer" />    <figcaption>
+<span>上海猶太難民紀念館（原摩西會堂）</span>
+    </figcaption>
+  </figure>
+  <p><u>2</u></p>
+  <p><strong>猶太文明</strong></p>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>M |您覺得有哪些造就猶太民族的關鍵性因素呢？ 就好比中華民族深受儒家精神傳統以及長久以來大一統局面的影響，對於猶太人來說會是什麼呢？</code></pre></div>  </div>
+  <p>Y |猶太人從西元70年開始大流散（也有學術觀點認為是西元135年），到1948年以色列建國，期間不僅創造了全球各地豐富的大流散文化，也經歷了千辛萬苦，尤其二戰期間針對猶太人的大屠殺，這些對於大多數猶太人來說都是刻骨銘心的歷史記憶。 我碰到過燕京學堂的猶太背景的留學生，她說在中國她可以告訴別人自己是猶太人，但在國外不敢提及自己的猶太身份，怕遭到反猶主義攻擊。</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>M |不同於基督教的聖像崇拜、聖徒崇拜、聖物崇拜，猶太人對於聖殿和聖地一直極為神往，聖殿被毀直到今天仍然是猶太人心中的痛楚，這對於像我這樣不信教的人來說是很遙遠、很難以理解的。 您覺得這種千年不斷的情結是怎樣形成的？ 是否跟幾千年來的顛沛流離有關？</code></pre></div>  </div>
+  <p>Y |猶太人對“像”沒有特別的執著，這源於摩西十誡裏對於偶像崇拜的禁忌。 對於聖地耶路撒冷，猶太人始終神往，但是新巴比倫滅猶大王國、毀第一聖殿，後來重修的第二聖殿又被羅馬帝國摧毀，不得不離開耶路撒冷。</p>
+  <p>在全球性的大流散期間，他們始終有猶太社團和拉比給予精神上的支撐與引領。 猶太會堂不管位於何處，都永遠朝向聖地耶路撒冷，各種猶太節日和人生重要儀式也不斷強化耶路撒冷的意義。 在猶太教的經文、習俗中不斷強化這種情懷，比如逾越節、光明節，還有婚禮上新郎踩碎玻璃杯以銘記被摧毀的聖殿等等。 這種情懷在他們人生的高光時刻不斷重複，深深內化於心。</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>M |那是不是大流散也影響著猶太民族的思維模式和等級觀念，所以他們熱衷於思考爭辯、沒有嚴格的等級結構？</code></pre></div>  </div>
+  <p>Y |缺乏等級觀念與大流散相關。 我國古代的封建帝制形成了三綱五常等禮節和行為規範，但是對於猶太人所處的大流散環境來說，等級觀念可能不容易形成。 流散的環境本身不具有政府組織，不存在等級架構或所謂的社會地位。 拉比也並不是權力、權威的代表，他們所做的更多是對經文的闡釋解讀。 每個拉比的闡釋不一樣，囙此猶太人可以根據自己的認同，選擇去找自己認可的拉比。 在耶路撒冷有許多猶太會堂，一個猶太人到底要去哪家猶太會堂完全出於自己的選擇。 有個猶太笑話，即便一個猶太人被孤零零留在一個孤島上，他也要建兩個猶太會堂，一個是他會去的，一個是他不會去的，他永遠有自己的主張。 如以色列總理所說，他不是管理600萬名猶太群眾，而是600萬名猶太總理，因為大家各有主張。</p>
+  <p>另外，猶太民族鼓勵交流分享的文化非常具有猶太特色。 當時在美國和加拿大學術交流期間，只要當地猶太社團知道你是做猶太文明的學者，他一定很希望你去和猶太社團分享交流，比如做學術報告之類的學術分享。 這樣的分享文化非常難得。</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>M |到了當下，猶太文化裏的割禮和安息日等等傳統依然延續著，但我很好奇的一點是，宗教信仰最重要的是心嚮往之還是外在表現？ 為什麼需要外在的行為來證明自己是上帝的子民？</code></pre></div>  </div>
+  <p>Y |傳統上，猶太教是一種民族宗教，也是以實踐為中心的宗教。 其特點就是用實踐的管道來表達自己的信仰，具體表現在怎麼吃、怎麼穿、怎麼生活。 猶太教不屬於福音派，不追求信眾的人數。</p>
+  <p>在今天，大多數世俗猶太人不一定嚴格遵守每條律法，只有傳統的宗教猶太人仍然會遵循各種戒律。 比如以色列的哈瑞迪猶太男性不允許使用智能手機、不正常參加工作、不節育、不參軍，還需要國家給他們生活補貼。 不過現在這個群體規模越來越大，並且是宗教黨派的重要選民團體，所以以色列也不能忽視這個群體。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/5b03a23b-7c5b-4536-9eb9-133c31b9f233.webp" data-asset-id="5b03a23b-7c5b-4536-9eb9-133c31b9f233" referrerpolicy="no-referrer" />    <figcaption>
+<span>哈爾濱老猶太會堂</span>
+    </figcaption>
+  </figure>
+  <p><u>3</u></p>
+  <p><strong>反猶主義</strong></p>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>M |從歷史上看，民族之間的衝突紛爭自古有之，但像反猶這種從最初的恐懼演變為仇恨，最後變成要趕盡殺絕的情况並不多見，這是為什麼呢？</code></pre></div>  </div>
+  <p>Y |這個問題很難回答，它其實是在問到底是什麼造成一個族群對另一族群的恨。 如果能够解决這個問題，估計就可以拿到諾貝爾和平獎。</p>
+  <p>到底為什麼恨，可能跟人性有關。 人會趨向於排斥和自己不同的人，而且會因為有個共同的敵人而愈發團結。 猶太人作為一個少數群體，他們在某些領域又表現很優秀，可能就容易引起羡慕嫉妒恨。</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>M |我聽說過心理學上的一種理論叫“相對剝奪感”，就是指人們覺得自己潜在上的一些東西被別人剝奪走了，明明有權享有但實際並不擁有。 我猜測可能這種感覺會誘發仇恨情緒。對於嫉妒猶太人的優秀這點，會不會是因為只有頂尖的猶太人才能被我們看到，所以才會有錯誤的認知？</code></pre></div>  </div>
+  <p>Y |你說的這種倖存者偏差我認同。 比如《屋頂上的提琴手》這部電影裏的主角，他是最普通、最底層的群眾，但同樣遭遇反猶主義。 其實反猶主義面對的是全體猶太人，不分貧富，但是反猶主義言論首先會涉及那些所謂猶太成功人士。</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>M |我瞭解到，基督教世界對於猶太人並不是自始至終都在排擠，也存在過包容的時候。 例如我看到一篇史料，是中世紀時期格裡高利十世的教宗公牛，其中要求基督徒不要侵犯猶太人正常的集會、不能以宗教的名義迫害他們、不能綁架殺害他們等等。 這是為什麼呢？</code></pre></div>  </div>
+  <p>Y |基督教作為一神論，在歷史上，曾經希望猶太人都能够皈依基督教。 一開始會希望他們convert，後來發現沒法convert，產生了衝突，之後造成衝突的就不僅僅是宗教上的衝突。</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>M |對，我在您寫的《美國猶太社群的割裂——難民時代的反猶主義》這篇文章裏讀到，匹茲堡猶太會堂槍擊事件其實是由“反難民”所引發的反猶主義。</code></pre></div>  </div>
+  <p>Y |匹茲堡槍殺案是“白人至上”的恐怖分子所為，此人認為猶太人支持難民來美國避難，而他反對這些難民來美國，所以就隨機肆意殺害猶太人，屬於無差別的傷害。 現在國外的反猶主義還是on the rise，比較悲哀。</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>M |那是不是在當下反猶太教、反以色列、反復國主義等等雜糅在一起構成了反猶主義，這個時候就更難根除了？</code></pre></div>  </div>
+  <p>Y |非常非常難。 比如這一次哈以衝突（2021年5月期間），有一些中文評論表示不認同以色列政府的主張，這樣的表達無可厚非，每個人可以有自己的想法和判斷，但是還有很多評論就成了“猶太人怎麼是這樣”，開始譴責全體猶太人。 可以觀察到，我國存在一些反猶言論，所幸現在沒有明顯的反猶主義，一方面因為我國有著多神教的文化傳統，比如拜財神、菩薩、文曲星等等； 另一方面是因為大多數中國人和猶太人的實際接觸極少，日常生活中，我們跟他們幾乎沒有交集，所以也很難產生仇恨。 許多國人認為猶太人富有且優秀，這種心態其實並不健康。 因為反猶主義的前奏，通常是認為猶太人很聰明很有錢，但下一個階段就開始討厭猶太人聰明有錢，這是比較危險的趨勢。</p>
+  <p>M |對於猶太人本身來說，他們在教育孩子的時候會不會通過講述納粹屠猶的歷史來强化身份認同？ 對於大屠殺的強調是否會過度？</p>
+  <p>Y |在中小學階段建立起民族認同是大多數國家的普遍做法。 對於猶太民族而言，以色列這個國家的誕生與大屠殺悲劇息息相關。 二戰以前的德國猶太人對德國抱有期望，試圖擁抱現代文化融入德國社會，但是大屠殺慘劇讓他們徹底明白，還是要有自己的國家。 以色列的存在象徵著最後的港灣，萬一出什麼事，猶太人總有一個地方可以去。</p>
+  <p>猶太人不打同情牌，因為如果靠美國、靠有錢就奏效的話，何必實施以色列全民兵役制呢？ 全民兵役制恰恰證明必須靠自己，上戰場的是人，不是錢。 這個民族不容小覷是因為自身强大、有自己的科學家、有自己的高科技產業。 賣慘行不通，不去賣慘而靠自强，這個國家才能真正立起來。</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>M |我之前聽到一句話，大致意思是：一比特比特女性在覺醒，然而女性站起來了並不意味著男性要倒下，這個世界很大，我們可以並肩而立。 所以我在想，對於猶太人來說，以及像LGBT等少數群體來說，這句話也同樣適用，我們可以一起生活在遼闊的世界上。</code></pre></div>  </div>
+  <p>Y |第一，許多人未必擁有這樣的心胸； 第二，人們可能始終認為這些人的存在會影響自己發展，現實中還是有些悲哀。</p>
+  <p>比如在我國，許多人對於某些膚色群體存在偏見。 我們應該直面這一現實，也遲早要應對這一偏見。 我們之所以覺得在我國由膚色引發的衝突不多，不如美國那麼激烈，除了本身某些膚色群體數量低以外，很重要的原因就是我國不是移民國家。 外國人大多留不下來，所以對就業市場份額沒有太多擠佔。 我們看到的衝突少，實際上是因為客觀環境限制。</p>
+  <p>很大程度上，反猶主義等偏見和仇恨來自於不把別人當“人”來看。 所以我覺得很重要的就是，你要意識到ta和你一樣是人，一樣要吃飯睡覺，一樣會生病，一樣有自己的家庭。 你要把別人當“人”，那麼許多衝突都可以慢慢化解，或者自始至終根本不會產生。 去接觸猶太人時候，把他就當做一個跟你一樣的人就可以了，去平等的對待。</p>
+  <p>同樣，不能把大屠殺只視作猶太人的悲劇，這是人類的悲劇。 就像剛才所說，你只要把他們當“人”，你就知道這是全人類的悲劇，而不要把猶太標籤看得那麼重。 我們應該意識到，一群人怎麼能對另外一群人做出這樣的事情，而如果歷史上曾經發生過，那麼有可能未來還會再次發生。 在這種情況下，我們有必要瞭解歷史，盡可能避免今後再發生這樣的人類悲劇。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/82b46f58-86a4-45c0-a339-bf0bea864cb7.webp" data-asset-id="82b46f58-86a4-45c0-a339-bf0bea864cb7" referrerpolicy="no-referrer" />    <figcaption>
+<span>反猶分子在德國柏林標誌性建築物勃蘭登堡門前公然文宣反猶標語——“納粹是民族主義者和猶太複國主義者，他們是法西斯和恐怖分子……猶太複國主義者躲藏在特務機构後，恐嚇全世界。”照片攝於2018年9月9日，德國柏林勃蘭登堡門。 攝影者：楊夢</span>
+    </figcaption>
+  </figure>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/4ddfa281-2de8-4ad8-b5e8-b9ca8f1d9d8e.png" data-asset-id="4ddfa281-2de8-4ad8-b5e8-b9ca8f1d9d8e" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>當我聽到楊夢老師說“你要把別人當‘人’來看，很多問題都好解决”的時候，我的內心震顫著，想到人類歷史上的許多次悲劇，想到人類對人類的屠戮虐殺，想到仇恨易生難解、循環往復似無止息。 或許值得我們思考的不單單是反猶主義從何而來、至何而去，更是無數仇恨其源頭與去處，是人類文明的來路與前路。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/9f1ab980-749b-4b17-a2b5-1092c3b32d9c.webp" data-asset-id="9f1ab980-749b-4b17-a2b5-1092c3b32d9c" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>文|倪悅然</p>
+  <p>圖|受訪者提供</p>
+  <p>審稿|李文軒</p>
+  <p>微信編輯|周雨瑩</p>
+  <p>matters編輯| Marks</p>
+  <p>圍爐（ID:weilu_flame）</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/ef24662c-3aa0-43d2-9759-04c38fddff0b.png" data-asset-id="ef24662c-3aa0-43d2-9759-04c38fddff0b" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>文中圖片未經同意，請勿用作其他用途</p>
+  <p>歡迎您在文章下方評論，與圍爐團隊和其他讀者交流討論</p>
+  <p>欲瞭解圍爐、閱讀更多文章，請關注本公眾號並在公眾號頁面點擊相應選單欄目</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/7334bf23-3863-4ea2-b462-65fda3a41f31.png" data-asset-id="7334bf23-3863-4ea2-b462-65fda3a41f31" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/fc13d29f-05ad-45f9-884a-c3d3bfd5087b.jpeg" data-asset-id="fc13d29f-05ad-45f9-884a-c3d3bfd5087b" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p><br /></p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#围炉 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2024-10-03/%E5%AF%B9%E8%AF%9D%E5%A5%B3%E6%80%A7%E6%B0%91%E5%B7%A5-%E5%9C%A8%E5%9F%8E%E5%B8%82%E9%87%8C-%E5%9C%A8%E5%B7%A5%E4%BD%9C%E5%92%8C%E5%AE%B6%E5%BA%AD%E4%B9%8B%E9%97%B4-%E5%9B%B4%E7%82%89-CU/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2021-03-23/%E5%AF%B9%E8%AF%9D%E9%BB%84%E6%B3%93%E7%BF%94-%E8%87%B4%E5%8A%9B%E4%BA%8E%E5%9F%B9%E8%82%B2%E4%B8%96%E7%95%8C%E5%85%AC%E6%B0%91%E7%9A%84%E4%B8%AD%E5%8D%97%E5%B1%8B%E5%88%9B%E5%A7%8B%E4%BA%BA-%E8%AE%B2%E5%BA%A7%E6%91%98%E8%A6%81/">最早</a>--</span>
+    
+      <li>
+        <time>2021-11-10</time>
+        <a href="https://nodebe4.github.io/opinion/2021-11-10/%E9%96%A3%E6%A8%93%E4%B8%8A%E7%9A%84%E7%98%8B%E5%A5%B3%E4%BA%BA-%E4%BB%8A%E5%A4%A9%E4%BE%9D%E7%84%B6%E5%AD%98%E5%9C%A8-%E5%9C%8D%E7%88%90%E5%85%B1%E8%AE%80%E6%9C%83-%E9%96%A3%E6%A8%93%E4%B8%8A%E7%9A%84%E7%98%8B%E5%A5%B3%E4%BA%BA/">
+          “閣樓上的瘋女人”，今天依然存在｜圍爐共讀會《閣樓上的瘋女人》
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-11-06</time>
+        <a href="https://nodebe4.github.io/opinion/2021-11-06/%E6%B7%BA%E6%9E%90%E8%97%9D%E8%A1%93%E4%BA%8C%E4%B8%89-%E5%9C%8D%E7%88%90%E5%85%B1%E8%AE%80%E6%9C%83-%E8%97%9D%E8%A1%93%E7%9A%84%E6%95%85%E4%BA%8B/">
+          淺析藝術二三|圍爐共讀會《藝術的故事》
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-10-29</time>
+        <a href="https://nodebe4.github.io/opinion/2021-10-29/%E5%9C%8D%E7%88%90%E7%89%B9%E7%A8%BF-%E5%85%A8%E7%90%83%E8%A6%96%E9%87%8E%E4%B8%8B%E7%9A%84%E7%96%AB%E6%83%85-%E4%B8%8B/">
+          圍爐特稿|全球視野下的疫情（下）
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-10-24</time>
+        <a href="https://nodebe4.github.io/opinion/2021-10-24/%E5%85%89%E8%88%87%E5%BD%B1-%E8%8A%A5%E5%B7%9D%E7%AD%86%E4%B8%8B%E7%9A%84%E5%AF%82%E6%BB%85%E4%B9%8B%E7%BE%8E-%E5%9C%8D%E7%88%90-%E7%A7%8B%E6%97%A5%E8%89%BA%E6%96%87/">
+          光與影——芥川筆下的寂滅之美|圍爐·秋日艺文
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2021-10-31/%E5%8D%81%E6%9C%88%E8%B5%8B%E6%A0%BC/">
+            前一篇：十月赋格
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2021-11-01/%E8%80%B6%E8%B7%AF%E6%92%92%E5%86%B7/">
+            後一篇：耶路撒冷
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2021-10-31/%E5%8D%81%E6%9C%88%E8%B5%8B%E6%A0%BC/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2021-11-01/%E8%80%B6%E8%B7%AF%E6%92%92%E5%86%B7/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2021-11-06/%E6%B7%BA%E6%9E%90%E8%97%9D%E8%A1%93%E4%BA%8C%E4%B8%89-%E5%9C%8D%E7%88%90%E5%85%B1%E8%AE%80%E6%9C%83-%E8%97%9D%E8%A1%93%E7%9A%84%E6%95%85%E4%BA%8B/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2021-10-29/%E5%9C%8D%E7%88%90%E7%89%B9%E7%A8%BF-%E5%85%A8%E7%90%83%E8%A6%96%E9%87%8E%E4%B8%8B%E7%9A%84%E7%96%AB%E6%83%85-%E4%B8%8B/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2021-10-31/%E5%8D%81%E6%9C%88%E8%B5%8B%E6%A0%BC/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2021-11-01/%E8%80%B6%E8%B7%AF%E6%92%92%E5%86%B7/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<围炉>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2021-11-06/%E6%B7%BA%E6%9E%90%E8%97%9D%E8%A1%93%E4%BA%8C%E4%B8%89-%E5%9C%8D%E7%88%90%E5%85%B1%E8%AE%80%E6%9C%83-%E8%97%9D%E8%A1%93%E7%9A%84%E6%95%85%E4%BA%8B/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<围炉>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2021-10-29/%E5%9C%8D%E7%88%90%E7%89%B9%E7%A8%BF-%E5%85%A8%E7%90%83%E8%A6%96%E9%87%8E%E4%B8%8B%E7%9A%84%E7%96%AB%E6%83%85-%E4%B8%8B/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

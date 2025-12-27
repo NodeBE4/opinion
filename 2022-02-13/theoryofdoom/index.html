@@ -1,0 +1,2568 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>theoryofdoom在2022-02-07~2022-02-13的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="theoryofdoom在2022-02-07~2022-02-13的言论" />
+    <meta property="twitter:title" content="theoryofdoom在2022-02-07~2022-02-13的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FCoronavirusIllinois%2Fcomments%2Fsmdqvo%2Fillinois_school_mask_mandate_ruling_puts%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/CoronavirusIllinois/comments/smdqvo/illinois_school_mask_mandate_ruling_puts/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/CoronavirusIllinois/comments/smdqvo/illinois_school_mask_mandate_ruling_puts/&text=theoryofdoom在2022-02-07~2022-02-13的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/CoronavirusIllinois/comments/smdqvo/illinois_school_mask_mandate_ruling_puts/&title=theoryofdoom在2022-02-07~2022-02-13的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/CoronavirusIllinois/comments/smdqvo/illinois_school_mask_mandate_ruling_puts/&title=theoryofdoom在2022-02-07~2022-02-13的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=theoryofdoom在2022-02-07~2022-02-13的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/CoronavirusIllinois/comments/smdqvo/illinois_school_mask_mandate_ruling_puts/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/CoronavirusIllinois/comments/smdqvo/illinois_school_mask_mandate_ruling_puts/&title=theoryofdoom在2022-02-07~2022-02-13的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=theoryofdoom在2022-02-07~2022-02-13的言论&url=https://old.reddit.com/r/CoronavirusIllinois/comments/smdqvo/illinois_school_mask_mandate_ruling_puts/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>theoryofdoom在2022-02-07~2022-02-13的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-02-13
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: theoryofdoom</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/smdqvo/illinois_school_mask_mandate_ruling_puts/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#76-illinois-school-mask-mandate-ruling-puts-districts-on-spot-to-enforce-or-make-optional-submitted-on-2022-02-07-0937040800" id="markdown-toc-76-illinois-school-mask-mandate-ruling-puts-districts-on-spot-to-enforce-or-make-optional-submitted-on-2022-02-07-0937040800">76: Illinois school mask mandate ruling puts districts on spot to enforce or make optional, submitted on 2022-02-07 09:37:04+08:00.</a></li>
+  <li><a href="#77-gov-jb-pritzker-slams-sangamon-county-judges-school-mask-order-says-it-cultivates-chaos-for-schools-families-submitted-on-2022-02-08-0225370800" id="markdown-toc-77-gov-jb-pritzker-slams-sangamon-county-judges-school-mask-order-says-it-cultivates-chaos-for-schools-families-submitted-on-2022-02-08-0225370800">77: Gov. JB Pritzker slams Sangamon County judge’s school mask order, says it ‘cultivates chaos’ for schools, families, submitted on 2022-02-08 02:25:37+08:00.</a></li>
+  <li><a href="#78-gov-pritzker-gives-no-specific-metrics-for-removing-covid-19-mask-mandate-but-says-it-will-depend-on-hospitalizations-submitted-on-2022-02-08-0707060800" id="markdown-toc-78-gov-pritzker-gives-no-specific-metrics-for-removing-covid-19-mask-mandate-but-says-it-will-depend-on-hospitalizations-submitted-on-2022-02-08-0707060800">78: Gov. Pritzker Gives No Specific Metrics For Removing COVID-19 Mask Mandate, But Says It Will Depend On Hospitalizations, submitted on 2022-02-08 07:07:06+08:00.</a></li>
+  <li><a href="#79-smokers-pay-cigarette-taxes-drinkers-pay-alcohol-taxes-what-do-unvaxed-pay-hospital-bills-submitted-on-2022-02-08-1502410800" id="markdown-toc-79-smokers-pay-cigarette-taxes-drinkers-pay-alcohol-taxes-what-do-unvaxed-pay-hospital-bills-submitted-on-2022-02-08-1502410800">79: Smokers pay cigarette taxes, drinkers pay alcohol taxes. What do unvaxed pay? Hospital bills, submitted on 2022-02-08 15:02:41+08:00.</a></li>
+  <li><a href="#80-biden-vows-to-shut-down-nord-stream-2-if-russia-invades-as-us-and-germany-pledge-unity-submitted-on-2022-02-08-2117490800" id="markdown-toc-80-biden-vows-to-shut-down-nord-stream-2-if-russia-invades-as-us-and-germany-pledge-unity-submitted-on-2022-02-08-2117490800">80: Biden vows to shut down Nord Stream 2 if Russia invades, as U.S. and Germany pledge unity, submitted on 2022-02-08 21:17:49+08:00.</a></li>
+  <li><a href="#81-something-you-should-read-submitted-on-2022-02-09-0203010800" id="markdown-toc-81-something-you-should-read-submitted-on-2022-02-09-0203010800">81: Something you should read., submitted on 2022-02-09 02:03:01+08:00.</a></li>
+  <li><a href="#82-gov-jb-pritzker-set-to-unveil-exit-plan-for-mask-mandate-submitted-on-2022-02-09-0843530800" id="markdown-toc-82-gov-jb-pritzker-set-to-unveil-exit-plan-for-mask-mandate-submitted-on-2022-02-09-0843530800">82: Gov. J.B. Pritzker set to unveil exit plan for mask mandate, submitted on 2022-02-09 08:43:53+08:00.</a></li>
+  <li><a href="#83-northwestern-experts-say-lifting-mask-mandates-is-clearly-not-a-decision-based-on-data-submitted-on-2022-02-09-1013380800" id="markdown-toc-83-northwestern-experts-say-lifting-mask-mandates-is-clearly-not-a-decision-based-on-data-submitted-on-2022-02-09-1013380800">83: Northwestern Experts Say Lifting Mask Mandates ‘Is Clearly Not a Decision Based on Data’, submitted on 2022-02-09 10:13:38+08:00.</a></li>
+  <li><a href="#84-new-chicago-will-also-lift-its-mask-mandate-if-it-continues-to-see-declines-in-covid-19-metrics-submitted-on-2022-02-10-0514340800" id="markdown-toc-84-new-chicago-will-also-lift-its-mask-mandate-if-it-continues-to-see-declines-in-covid-19-metrics-submitted-on-2022-02-10-0514340800">84: NEW: Chicago will also lift its mask mandate if it continues to see declines in COVID-19 metrics., submitted on 2022-02-10 05:14:34+08:00.</a></li>
+  <li><a href="#85-chicago-to-end-indoor-covid-vaccine-mask-mandates-later-this-month-submitted-on-2022-02-11-0808470800" id="markdown-toc-85-chicago-to-end-indoor-covid-vaccine-mask-mandates-later-this-month-submitted-on-2022-02-11-0808470800">85: Chicago to End Indoor COVID Vaccine, Mask Mandates Later This Month, submitted on 2022-02-11 08:08:47+08:00.</a></li>
+  <li><a href="#86-no-idph-covid-update-for-today-due-to-state-holiday-submitted-on-2022-02-12-0403270800" id="markdown-toc-86-no-idph-covid-update-for-today-due-to-state-holiday-submitted-on-2022-02-12-0403270800">86: No IDPH COVID update for today due to state holiday, submitted on 2022-02-12 04:03:27+08:00.</a></li>
+  <li><a href="#87-the-same-firm-that-got-the-injunction-against-the-federal-test-or-vax-mandate-filed-a-suit-against-cook-county-and-chicago-for-the-vax-pass-submitted-on-2022-02-12-0642200800" id="markdown-toc-87-the-same-firm-that-got-the-injunction-against-the-federal-test-or-vax-mandate-filed-a-suit-against-cook-county-and-chicago-for-the-vax-pass-submitted-on-2022-02-12-0642200800">87: The same firm that got the injunction against the federal test or vax mandate filed a suit against Cook County and Chicago for the vax pass, submitted on 2022-02-12 06:42:20+08:00.</a></li>
+  <li><a href="#88-russias-joint-exercise-with-belarus-reveals-what-a-ukraine-invasion-would-look-like-submitted-on-2022-02-13-0306490800" id="markdown-toc-88-russias-joint-exercise-with-belarus-reveals-what-a-ukraine-invasion-would-look-like-submitted-on-2022-02-13-0306490800">88: «Russia’s joint exercise with Belarus reveals what a Ukraine invasion would look like», submitted on 2022-02-13 03:06:49+08:00.</a></li>
+  <li><a href="#89-extreme-suffering-15-of-23-monkeys-with-elon-musks-neuralink-brain-chips-reportedly-died-submitted-on-2022-02-13-0442200800" id="markdown-toc-89-extreme-suffering-15-of-23-monkeys-with-elon-musks-neuralink-brain-chips-reportedly-died-submitted-on-2022-02-13-0442200800">89: “Extreme Suffering”: 15 of 23 Monkeys with Elon Musk’s Neuralink Brain Chips Reportedly Died, submitted on 2022-02-13 04:42:20+08:00.</a></li>
+  <li><a href="#90-what-happens-when-the-working-and-middle-classes-are-no-longer-distracted-by-identity-politics-and-other-idiocy-submitted-on-2022-02-13-0639310800" id="markdown-toc-90-what-happens-when-the-working-and-middle-classes-are-no-longer-distracted-by-identity-politics-and-other-idiocy-submitted-on-2022-02-13-0639310800">90: What happens when the working and middle classes are no longer distracted by identity politics and other idiocy, submitted on 2022-02-13 06:39:31+08:00.</a></li>
+  <li><a href="#91-absolutely-despicable-parent-behavior-this-parent-created-a-messed-up-version-of-naughty-and-nice-list-and-posted-it-on-social-media-if-you-look-closely-there-are-2s-around-teachers-double-masking-and-95s-around-teachers-who-are-wearing-n95kn95-masks-we-are-a-mask-optional-district-submitted-on-2022-02-13-0657190800" id="markdown-toc-91-absolutely-despicable-parent-behavior-this-parent-created-a-messed-up-version-of-naughty-and-nice-list-and-posted-it-on-social-media-if-you-look-closely-there-are-2s-around-teachers-double-masking-and-95s-around-teachers-who-are-wearing-n95kn95-masks-we-are-a-mask-optional-district-submitted-on-2022-02-13-0657190800">91: Absolutely despicable parent behavior. This parent created a messed up version of ‘naughty’ and ‘nice’ list and posted it on social media. If you look closely, there are ‘(2)’s around teachers double masking and ‘(95)’s around teachers who are wearing N95/KN95 masks. We are a mask optional district., submitted on 2022-02-13 06:57:19+08:00.</a></li>
+  <li><a href="#92-claims-that-a-johns-hopkins-study-showed-lockdowns-are-ineffective-at-reducing-covid-19-mortality-are-based-on-a-working-paper-with-questionable-methods-submitted-on-2022-02-13-1856540800" id="markdown-toc-92-claims-that-a-johns-hopkins-study-showed-lockdowns-are-ineffective-at-reducing-covid-19-mortality-are-based-on-a-working-paper-with-questionable-methods-submitted-on-2022-02-13-1856540800">92: Claims that a “Johns Hopkins study” showed lockdowns are ineffective at reducing COVID-19 mortality are based on a working paper with questionable methods, submitted on 2022-02-13 18:56:54+08:00.</a></li>
+</ul>
+
+<h3 id="76-illinois-school-mask-mandate-ruling-puts-districts-on-spot-to-enforce-or-make-optional-submitted-on-2022-02-07-0937040800">76: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/smdqvo/illinois_school_mask_mandate_ruling_puts/">Illinois school mask mandate ruling puts districts on spot to enforce or make optional</a>, submitted on 2022-02-07 09:37:04+08:00.</h3>
+
+<p>—– <strong>76.1</strong> —–2022-02-07 19:42:51+08:00:</p>
+
+<blockquote>
+  <p>If he doesn’t appeal the decision, he admits the mandates were illegal and the campaign ads write themselves.</p>
+</blockquote>
+
+<p>If he does appeal, he loses the suburbs and any prospect at re-election. Politically, he has no choice but to try to preempt the impact by standing down.  That mitigates the harm of his political loss.  Pritzker should have dropped the mask mandates a long time ago.</p>
+
+<p>As an aside, the cohort of highly vocal people on reddit who use language like “anti-maskers” (as if someone who opposed masks was some kind of analogue of the stereotypical “anti-vaxxer”) are hardly representative of where the general public is on this issue, in Illinois or nationally.</p>
+
+<p>—– <strong>76.2</strong> —–2022-02-07 19:45:56+08:00:</p>
+
+<blockquote>
+  <p>I don’t know. Pritzker seems like he’s willing to die on this hill, despite most Democratic governors not reinstating mask mandates at the state level. He’ll double down as long as he thinks he’ll be re-elected or until Newsom and Hochul tell him that he’s being unreasonable.</p>
+</blockquote>
+
+<p>I disagree with this.  Pritzker is neither particularly competent nor resolute.  He’s going to respond to the politics, which have formed the basis of his so-called “COVID mitigation strategy.”  And the politics favor change.</p>
+
+<p>He’ll still lose re-election, however.  Even Churchill was thrown out after WWII.  He will be no different.  Any candidate as credible as Bruce Rauner or better will defeat him.</p>
+
+<p>—– <strong>76.3</strong> —–2022-02-07 19:53:07+08:00:</p>
+
+<blockquote>
+  <p>It’s that if this sets off a shockwave, and infections rise dramatically, it’d cause more undue strain on the healthcare system.</p>
+</blockquote>
+
+<p>The lack of masks or mandated masking has had no effect whatsoever in the southern states and many others in the mountain-west region.  Nor has the presence of masks or mandated masking appreciably reduced community spread in enclosed buildings, in anywhere such “mitigations” have been enforced.  There are variables which influence community spread in enclosed buildings, like ventilation, but no one seems concerned about that anymore.</p>
+
+<p>—– <strong>76.4</strong> —–2022-02-07 20:25:58+08:00:</p>
+
+<p>We’ll see how long he keeps this charade up.</p>
+
+<p>—– <strong>76.5</strong> —–2022-02-08 12:14:48+08:00:</p>
+
+<blockquote>
+  <p>I’m not so sure they can coalesce around a center-right, Trump-distanced candidate who can win over moderates in the collar counties.</p>
+</blockquote>
+
+<p>Outside of Chicago, Springfield, Urbana-Champaign and (to some extent) Rockford, Illinois is pretty red.  I think they’ll all prefer any Republican over Pritzker, even if the one they get is more like Mitt Romney than Josh Hawley.</p>
+
+<h3 id="77-gov-jb-pritzker-slams-sangamon-county-judges-school-mask-order-says-it-cultivates-chaos-for-schools-families-submitted-on-2022-02-08-0225370800">77: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/smx29u/gov_jb_pritzker_slams_sangamon_county_judges/">Gov. JB Pritzker slams Sangamon County judge’s school mask order, says it ‘cultivates chaos’ for schools, families</a>, submitted on 2022-02-08 02:25:37+08:00.</h3>
+
+<p>—– <strong>77.1</strong> —–2022-02-08 19:27:42+08:00:</p>
+
+<blockquote>
+  <p>That was a direct quote. He corrected his “when” to “if” in realtime, on video.</p>
+
+  <p>https://twitter.com/AmyJacobson/status/1490818251076612101</p>
+</blockquote>
+
+<p>There may come a time in the future when/if JB is replaced.</p>
+
+<h3 id="78-gov-pritzker-gives-no-specific-metrics-for-removing-covid-19-mask-mandate-but-says-it-will-depend-on-hospitalizations-submitted-on-2022-02-08-0707060800">78: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/sn3xy7/gov_pritzker_gives_no_specific_metrics_for/">Gov. Pritzker Gives No Specific Metrics For Removing COVID-19 Mask Mandate, But Says It Will Depend On Hospitalizations</a>, submitted on 2022-02-08 07:07:06+08:00.</h3>
+
+<p>—– <strong>78.1</strong> —–2022-02-08 10:15:28+08:00:</p>
+
+<blockquote>
+  <p>Edit: NY is going to announce that their universal mask or vax mandate will end this week.</p>
+</blockquote>
+
+<p>Source?  Not saying I don’t believe you but I’d like to see something establishing as much.</p>
+
+<p>—– <strong>78.2</strong> —–2022-02-08 11:28:27+08:00:</p>
+
+<p>Ok, well I’ve seen some conflicting information on that but it happens in a couple of days so we’ll see.</p>
+
+<p>—– <strong>78.3</strong> —–2022-02-08 11:41:39+08:00:</p>
+
+<blockquote>
+  <p>I’m a diehard democrat and I am firmly anti mask mandate at this point. Most of my friends are the same way.</p>
+</blockquote>
+
+<p>Same, for the most part.  Outside of the democrats I know in the 250k+ income bracket, the majority have been so repulsed by the way this pandemic has been handled they will never vote for another democrat again.  Most are afraid to admit it outside of the folks they know share those thoughts, but they’re done.  They don’t like Republicans and they don’t want to see the GOP establishment, but almost without exception they think they miscalculated the lesser of two evils.  Even the most progressive types I’ve seen in Chicago have had enough.</p>
+
+<p>—– <strong>78.4</strong> —–2022-02-08 11:44:28+08:00:</p>
+
+<p>I guess we’ll see.  I don’t know.</p>
+
+<p>—– <strong>78.5</strong> —–2022-02-08 12:19:52+08:00:</p>
+
+<blockquote>
+  <p>there’s no defending Pritzker’s inability to provide any concrete roadmap for ending restrictions at this stage of the pandemic.</p>
+</blockquote>
+
+<p>I don’t know that there’s “no” defending.  Practically, there is no medical or epidemiologic threshold that establishes when the pandemic is over.  So it has to be a political decision.  The bottom line is that he wants to be able to pull the plug when the politics make it expedient to do so, he can’t if he commits himself to a specific threshold.  The bright side is that his free-floating and unbounded approach gives him political flexibility.  The dark side is that it’s pretty transparently not based on anything objective and non-political.</p>
+
+<p>Not saying I’d do the same thing.  But it’s not like I don’t understand what he’s up to.</p>
+
+<p>—– <strong>78.6</strong> —–2022-02-08 12:32:01+08:00:</p>
+
+<blockquote>
+  <p>Pritzker is so guaranteed to win he can stick to his precious masks without any fear.</p>
+</blockquote>
+
+<p>I don’t think Pritzker has any ideological commitment to masks, mandates or any of the “mitigations” he’s implemented.  Nor do I think he especially desires to maintain them.  But he doesn’t want to pay the price of what will happen if he drops them and then, for whatever reason, cases/hospitalizations rise.</p>
+
+<p>It won’t matter from a data-driven perspective whether the policy change caused or contributed in any way to any subsequent increase.  The by-line is going to be: “Pritzker drops mandate.  Hospitalizations skyrocket!”  That’s what he’s avoiding.  If hospitalizations skyrocket under circumstances where “mitigations” are in place, then he tells the public he did all he could.  But if they skyrocket after he drops them?  He’ll be filleted like a cheap pollock.</p>
+
+<p>The concept of “hospitalizations or cases as measured by PCR and/or antigen tests” vary independently from policy measures intended to “contain” or “slow the spread” is just too much for the public to grasp.  This is going to be understood at the level of “Bush lied!  People died!”  That’s what Pritzker is worried about — which I guess he should be, given his “leadership style.”</p>
+
+<p>I obviously would have handled things differently.  But that’s irrelevant, just like every other opinion I have on what he should have done lol.  I’m just some random guy on Reddit.</p>
+
+<p>—– <strong>78.7</strong> —–2022-02-08 12:46:39+08:00:</p>
+
+<p>I really do think Pritzker is trying to do the best he can.  I just think that he like most politicians cannot tell the difference between science and quackery, a problem that is neither new nor unique to the current pandemic.</p>
+
+<p>I’m reminded of when eugenics was all the rage about 100 years ago.  So, just outside of living memory in Buck v. Bell, Supreme Court Justice Oliver Wendell Holmes wrote this:</p>
+
+<blockquote>
+  <p>We have seen more than once that the public welfare may call upon the best citizens for their lives. It would be strange if it could not call upon those who already sap the strength of the State for these lesser sacrifices, often not felt to be such by those concerned, in order to prevent our being swamped with incompetence. It is better for all the world if, instead of waiting to execute degenerate offspring for crime or to let them starve for their imbecility, society can prevent those who are manifestly unfit from continuing their kind. The principle that sustains compulsory vaccination is broad enough to cover cutting the Fallopian tubes. Three generations of imbeciles are enough.</p>
+</blockquote>
+
+<p>This is one of the darkest chapters in American legal history, brought about by a set of folks who thought that giving the government the power to do things in service of “public health” was a good thing.</p>
+
+<p>As a result, thousands of people were involuntarily sterilized in this country based on pseudoscience; the kind of crackpot quackery that is more properly suited for American Horror Story than the annals of American jurisprudence.</p>
+
+<p>Holmes was no fool, either.  He is one of the most gifted jurists the country has ever seen.  And yet, we have this.  If Holmes could be taken in to this extent by something this egregious, how much better could be expected from JB, who only got into Northwestern because of his family’s money?  Not much.</p>
+
+<p>The thing to take away from this — at least in my opinion, for what little it’s worth as just some random guy on Reddit — is that we really ought to be considering what kind of relationship we want to have with the state.  Do we want to live in the kind of world where the state has that level of control over the body?  If not, then where do you draw the line?</p>
+
+<p>If we begin from the principle that bodily autonomy is the foundation of liberty, then assaults upon that liberty cannot be haphazardly implemented by administrative decree or even whim of the legislature.  More is required, and there must be limits on the extent to which any such intrusion can come to pass in the first instance.</p>
+
+<p>But we don’t have that discussion, which is sad.  We should be having that discussion as a society.  Leaders should be keeping those principles in mind as they come up with policies, without regard to the exigencies of any current emergency.  That, by the way, seemed to be Gorsuch’s point in his concurrence over the OSHA mandate — if you were curious.</p>
+
+<p>—– <strong>78.8</strong> —–2022-02-08 13:03:50+08:00:</p>
+
+<p>That isn’t an off-ramp.  It’s de-cluttering the data ecosystem, by distinguishing patient populations.  Astonishingly, folks in the alleged field of public health could not distinguish between someone who was hospitalized due to COVID infection and hospitalized under circumstances where any positive test was incidental to their reason for admission — as the article indicates.  It literally took two years for this to be realized.  Stunning incompetence.</p>
+
+<p>—– <strong>78.9</strong> —–2022-02-08 13:07:43+08:00:</p>
+
+<p>Sure, if he was capable of reaching that conclusion himself.  But he isn’t.  He’s relying on what others tell him.  It’s not like he’s running the analysis himself.  It’s mildly hilarious to think about him trying, actually.  He wouldn’t even know where to begin.</p>
+
+<p>—– <strong>78.10</strong> —–2022-02-08 13:37:35+08:00:</p>
+
+<p>Maybe.  But the further into this I’ve investigated, the more it looks to me like it’s a problem with the entire field of public health, generally, as opposed to incompetent individuals, particularly.  From what I can tell, this process is like selecting apples from a rotten barrel.  There are exceptions, like John Ionidis at Stanford.  Or Jay Bhattacharya, also at Stanford.  But instead, for some inexplicable reason the world decided to follow the crackpot nonsense of a guy whose h-index was about half of Ionidis’s, who wouldn’t even release his model’s original source code and whose predictions have been off by orders of magnitude to the extent he’s ran that same failed model on, everything from MERS, to the bird flu to the swine flu.  His model’s assumptions were so unhinged from reality that it added essentially no value whatsoever to any discussion of anything.   Of course I am speaking of Neil Ferguson at Imperial and the team — who included Americans — that used a similar model with similarly vapid results.  Scientific fraud doesn’t even approximate the level of egregiousness involved in all of this.  Not to get all “deep into the rabbit hole,” but when I read his March 2020 paper I was reminded of a book John Perkins wrote titled “Confessions of an Economic Hitman.”  There, Perkins details the use of bullshit modeling to justify provision of loans to the third world for infrastructure projects they will never pay back.  According to Perkins, the loans serve as a basis to exert control over those countries’ internal politics and his models served as the basis for those loans.  Another example might be Enron’s SEC filings about a year before it declared bankruptcy.  Or the mistakes that led to the challenger disaster.  All normalized pathologies.  That is how bad this was.  But the problem is that most people can’t tell the difference between actual expertise and quackery — so there was this reflexive “if you don’t agree, then you’re anti-science!” nonsense.  And that’s how we got here.</p>
+
+<h3 id="79-smokers-pay-cigarette-taxes-drinkers-pay-alcohol-taxes-what-do-unvaxed-pay-hospital-bills-submitted-on-2022-02-08-1502410800">79: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/sndwiu/smokers_pay_cigarette_taxes_drinkers_pay_alcohol/">Smokers pay cigarette taxes, drinkers pay alcohol taxes. What do unvaxed pay? Hospital bills</a>, submitted on 2022-02-08 15:02:41+08:00.</h3>
+
+<p>—– <strong>79.1</strong> —–2022-02-09 10:35:55+08:00:</p>
+
+<p>Rule 5.</p>
+
+<h3 id="80-biden-vows-to-shut-down-nord-stream-2-if-russia-invades-as-us-and-germany-pledge-unity-submitted-on-2022-02-08-2117490800">80: <a href="https://old.reddit.com/r/geopolitics/comments/snk14q/biden_vows_to_shut_down_nord_stream_2_if_russia/">Biden vows to shut down Nord Stream 2 if Russia invades, as U.S. and Germany pledge unity</a>, submitted on 2022-02-08 21:17:49+08:00.</h3>
+
+<p>—– <strong>80.1</strong> —–2022-02-09 12:06:41+08:00:</p>
+
+<p>Hi.  Was this your first time posting here?</p>
+
+<h3 id="81-something-you-should-read-submitted-on-2022-02-09-0203010800">81: <a href="https://old.reddit.com/r/geopolitics/comments/snqiv8/something_you_should_read/">Something you should read.</a>, submitted on 2022-02-09 02:03:01+08:00.</h3>
+
+<p>—– <strong>81.1</strong> —–2022-02-09 12:30:53+08:00:</p>
+
+<p>Editorialized title.</p>
+
+<h3 id="82-gov-jb-pritzker-set-to-unveil-exit-plan-for-mask-mandate-submitted-on-2022-02-09-0843530800">82: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/snzvwt/gov_jb_pritzker_set_to_unveil_exit_plan_for_mask/">Gov. J.B. Pritzker set to unveil exit plan for mask mandate</a>, submitted on 2022-02-09 08:43:53+08:00.</h3>
+
+<p>—– <strong>82.1</strong> —–2022-02-10 10:02:12+08:00:</p>
+
+<blockquote>
+  <p>Ive come to the conclusion that all democrats are pieces of . . .</p>
+</blockquote>
+
+<p>Don’t do this again.  It clearly violates the rules and there are better uses of moderator time than to address this nonsense.  First and only warning.</p>
+
+<h3 id="83-northwestern-experts-say-lifting-mask-mandates-is-clearly-not-a-decision-based-on-data-submitted-on-2022-02-09-1013380800">83: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/so1t9b/northwestern_experts_say_lifting_mask_mandates_is/">Northwestern Experts Say Lifting Mask Mandates ‘Is Clearly Not a Decision Based on Data’</a>, submitted on 2022-02-09 10:13:38+08:00.</h3>
+
+<p>—– <strong>83.1</strong> —–2022-02-10 10:06:28+08:00:</p>
+
+<blockquote>
+  <p>It’s been overrun by idiots &amp; plague rats in the last week.</p>
+</blockquote>
+
+<p>Don’t do this again. It clearly violates the rules and there are better uses of moderator time than to address this nonsense. First and only warning.</p>
+
+<p>—– <strong>83.2</strong> —–2022-02-10 11:34:51+08:00:</p>
+
+<blockquote>
+  <p>There have been many things they have not been able to keep track of over the last five years besides cases.</p>
+</blockquote>
+
+<p>You mean like who is getting grant money and from where?  And to whom the source of that grant money must be disclosed?</p>
+
+<p>—– <strong>83.3</strong> —–2022-02-10 11:43:19+08:00:</p>
+
+<p>Arguing against the substance of a perspective you disagree with is something you’ve always been permitted to do.  But it turns out that attacks the character, motive or other attribute of a person making an argument (or the group of people you perceive to be making any argument) violate rule 1.  Particularly when the extent of what you’ve stated is nothing more than an ill-founded stereotype an entire group of people with whom you disagree, solely on the basis of your subjective disagreement with them.</p>
+
+<p>This applies to everyone here.  Doesn’t matter what side you’re on or how righteous you think your opinion is.</p>
+
+<p>—– <strong>83.4</strong> —–2022-02-10 12:12:06+08:00:</p>
+
+<blockquote>
+  <p>Vague ominous statements. What metric can you point to showing the mask mandate has literally done anything to make Illinois better off? Because it seems like we did just about as well as everywhere else.</p>
+</blockquote>
+
+<p>You don’t have to have vage.  In fact, you can be very precise and lie by manipulation, omission and/or concealment. For example, perhaps you tailor your dataset, to exhibit the most significant effect (e.g., stealthily exclude outliers that make the results look like the opposite of what you set out to find in the first place, limit your sample size, limit the region or otherwise select favorable external conditions you omit from your analysis but which exert identifiable, yet concealed contributing causation like timing, geography, population density, lack of public transit use, age demographics, etc.).  Or maybe you tweak your methods to make sure you’re not finding anything other than what you want to.  Or however else you can be creatively deceptive.  For a case study in how this is accomplished, see Neil Ferguson’s analysis of the relative effects of non-pharmaceutical interventions during the spanish flu in the United States.</p>
+
+<p>You’ve got to be careful and cover your tracks with more obscurity and disclaimers.  You should include “disclaimers” about the limits of your study, identifying potentially influencing factors, noting their unknown and unaccounted for significance.  You might even have the unmitigated audacity to identify them as areas in need of “further research.”  At the end of the day, if you do your job well, you’ll have models that clearly show reduced community spread where masks/vaccines are mandated and increased community spread where neither are mandated.  You might even be able to creatively compare the relative differences of one in the presence or absence of the other.</p>
+
+<p>The limit is really a function of how creatively deceptive you’re capable of being and your willingness to take the risk of being caught.  I’m not saying I recommend these things.  But when the standard of what counts as “science” is no more than some shitty preptint hashed together with shitty methods from frankenstein type data sets and there’s grant money to be had for finding evidence of certain things, maybe you try your hand at this sort of witchcraft.</p>
+
+<p>—– <strong>83.5</strong> —–2022-02-10 12:24:04+08:00:</p>
+
+<p>Legitimate questions may be raised as to whether the individuals quoted in that article have any relevant education, training or anything whatsoever that would qualify them to interpret any data.  And for the one who arguably might have such credentials, questions arise relating to conflicts of interest between that individual and the market stakeholders who accrue benefits from that person’s research (e.g., expanding the market for unnecessary and potentially harmful, branded pharmaceuticals based on specious claims of underserved need).</p>
+
+<h3 id="84-new-chicago-will-also-lift-its-mask-mandate-if-it-continues-to-see-declines-in-covid-19-metrics-submitted-on-2022-02-10-0514340800">84: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/soo5gd/new_chicago_will_also_lift_its_mask_mandate_if_it/">NEW: Chicago will also lift its mask mandate if it continues to see declines in COVID-19 metrics.</a>, submitted on 2022-02-10 05:14:34+08:00.</h3>
+
+<p>—– <strong>84.1</strong> —–2022-02-14 00:40:40+08:00:</p>
+
+<blockquote>
+  <p>It’s going to take them a decade or more to recover from this mess, if it’s even possible.</p>
+</blockquote>
+
+<p>It’s not about time, but people.  The cancerous leadership whose incompetence and poor decision making at CDC and other related agencies under HHS needs to be excised.  Particularly NIAID and NIH.</p>
+
+<h3 id="85-chicago-to-end-indoor-covid-vaccine-mask-mandates-later-this-month-submitted-on-2022-02-11-0808470800">85: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/spkr1y/chicago_to_end_indoor_covid_vaccine_mask_mandates/">Chicago to End Indoor COVID Vaccine, Mask Mandates Later This Month</a>, submitted on 2022-02-11 08:08:47+08:00.</h3>
+
+<p>—– <strong>85.1</strong> —–2022-02-11 08:40:40+08:00:</p>
+
+<p>According to the local NBC affiliate, Chicago will end its indoor mask mandates <em>and the vaccine mandate</em> where it is determined that “metrics allow.”</p>
+
+<p>Conditions under which “metrics” will “allow” were predictably unspecified by Allison Arwady, the commissioner of the Chicago Department of Public Health.  As if to concede their absurdity, Arwady did not even purport to offer an actual threshold/specific data point indicating when it would be sufficiently “safe” to drop the mask and vaccine mandates.</p>
+
+<blockquote>
+  <p>If we continue to see drops (in COVID metrics) like we’ve been dropping, it would not be that long from now, I would think . . . .</p>
+</blockquote>
+
+<p>Arwady’s observations’ ambiguity indicates the extent to which both the decision to impose a mask mandate or a vaccine mandate and to remove each were not based on public health factors.  But rather, they were inherently political from imposition to removal.  Folks who believe mask mandates worked will be disappointed to <a href="https://www.datawrapper.de/_/zAGiG/">learn there is no evidence whatsoever to support their efficacy to reduce community transmission</a>.</p>
+
+<p>The same applies to vaccine mandates, which may fall into the category of the most singularly egregious political overreaches so far this century, amid the associated policy disasters surrounding COVID.</p>
+
+<p>Folks who believe other nonpharmaceutical interventions, such as lockdowns, will be similarly disappointed to <a href="https://sites.krieger.jhu.edu/iae/files/2022/01/A-Literature-Review-and-Meta-Analysis-of-the-Effects-of-Lockdowns-on-COVID-19-Mortality.pdf">learn there is similarly no evidence whatsoever to support their efficacy to reduce community transmission, either</a>. 
+ For some astonishing reason, only after their harm has been felt and it has been beyond obvious since the end of Q2 2020 that lockdowns achieved no identifiable improvement in any relevant area for COVID, has Johns Hopkins admitted:</p>
+
+<blockquote>
+  <p>Such a standard benefit-cost calculation leads to a strong conclusion: 
+ lockdowns should be rejected out of hand as a pandemic policy instrument.</p>
+</blockquote>
+
+<p>(Johns Hopkins Study at page 43).  In this way, the field of public health itself has failed to achieve the sole purpose for which it theoretically exists.  More catastrophically incompetent decisionmaking has not been seen on this earth since Holodomor.  And its recalcitrant failure to self-correct defies rational comprehension.</p>
+
+<p>This was a betrayal.  Public officials have a duty to act in the public’s best interest and they have consistently failed in all respects since this pandemic’s instantiation while having the unmitigated audacity to proclaim that this was “following the science.”</p>
+
+<p>I understand it hurts to heart that doing what you were told to do made no difference.  But it wasn’t your fault.  Because you could not have been expected to know that which you were never in a position to question.  But there’s a lot of us who were that did nothing.</p>
+
+<p>—– <strong>85.2</strong> —–2022-02-11 09:02:12+08:00:</p>
+
+<p>I just literally do not even care to argue with them.  Entire ecosystems of shitty data have been generated for the purpose of misleading the public.  Non-representative samples are held out as illustrating general trends of the public at large.  Absolute counts of “positive tests” divided by the number of tests administered somehow became something people cared about, when the self-selecting cohort of folks who seek a test in the first instance are anything but representative.</p>
+
+<p>I could go on and on.  There are so many layers of failure, at so many levels and by so many ostensibly competent people that it makes me want to throw up to even think about it.</p>
+
+<p>—– <strong>85.3</strong> —–2022-02-11 11:34:11+08:00:</p>
+
+<blockquote>
+  <p>dystopian redneck</p>
+</blockquote>
+
+<p>Arguing against the substance of a perspective you disagree with is something you’ve always been permitted to do. But it turns out that attacks the character, motive or other attribute of a person making an argument (or the group of people you perceive to be making any argument) violate rule 1. Particularly when the extent of what you’ve stated is nothing more than an ill-founded stereotype an entire group of people with whom you disagree, solely on the basis of your subjective disagreement with them.</p>
+
+<p>This applies to everyone here. Doesn’t matter what side you’re on or how righteous you think your opinion is.</p>
+
+<p>—– <strong>85.4</strong> —–2022-02-11 11:35:38+08:00:</p>
+
+<p>You cite a press release for a preprint as “conclusive evidence”? Seriously?</p>
+
+<p>—– <strong>85.5</strong> —–2022-02-11 12:01:11+08:00:</p>
+
+<blockquote>
+  <p>They will always want to stir the pot when watching the stew boil bores them and there’s nothing you can do about it.</p>
+</blockquote>
+
+<p>I can’t expect non-experts to be able to recognize the technical errors of another “expert.”  A lot of people got this right from the start, but they did so for normative reasons (e.g., a bias against administrative overreach or what libertarians might call “common sense”).  But a lot of others were taken in because they relied on the “expertise” of people who held positions of power to do the right thing, were absolutely betrayed and they’re none for the wiser.  They aren’t even in a position to understand what was done to them or why it was wrong.</p>
+
+<p>An appropriate analogy is drawn from Nassim Nicholas Taleb’s “<a href="https://www.shortform.com/blog/what-is-a-black-swan-event/">black swan event</a>” theory.  Consider the life of a free-range turkey, raised in the wild with other turkeys.  The turkey lives its life in relative comfort each and every day the sun rises.  Some turkeys disappear, but he never has and nor have his turkey friends.  He sees the farmer provide food, which he enjoys, on a routine and regular basis.  The turkey spends his whole life believing the farmer has his best interest at heart.  Until the day the turkey is on the farmer’s dinner plate.</p>
+
+<p>When I see people arguing in support of these mandates, they’re the turkeys are arguing the farmer really does have the turkey flock’s best interests at heart.  They only know of the farmer what they see and understand and cannot comprehend the greater context in which the farmer operates: Dr. Henry Goose’s motto . . . “the weak are meat and the strong do eat.”  Cloud atlas is another book folks should read.</p>
+
+<blockquote>
+  <p>Haven’t seen you here in a minute, theory, and it’s great to have you back (I think?).</p>
+</blockquote>
+
+<p>Thank you.</p>
+
+<blockquote>
+  <p>What do you think of The Smile so far?</p>
+</blockquote>
+
+<p>The Smile?</p>
+
+<p>—– <strong>85.6</strong> —–2022-02-11 12:09:22+08:00:</p>
+
+<blockquote>
+  <p>Bro you literally made your own graph . . . .</p>
+</blockquote>
+
+<p>Declarative statements amounting to nothing more than your subjective characterization do not even approximate refutation.</p>
+
+<p>Explain the graph’s error, with particularity.  Further, at least try to justify you think it means anything other than what I said it means.</p>
+
+<p>You will also be disappointed to learn that I didn’t make the graph.  A <a href="https://www.chicagotribune.com/coronavirus/ct-illinois-mask-mandate-pritzker-20220208-dxjpzdgcbvhzlhcdcabsn4sx4y-story.html">data nerd at the Chicago Tribune</a> did.</p>
+
+<p>Scroll down to the middle of the article.  Click on the link that says “Datawrapper,” under the graph that reads “Daily COVID hospitalized, mask mandates.”  Then, report <a href="https://www.datawrapper.de/_/zAGiG/">your findings</a> and maybe we’ll have a conversation.</p>
+
+<p>—– <strong>85.7</strong> —–2022-02-11 12:12:28+08:00:</p>
+
+<p>I do not understand what your point is.  Nor am I inclined to give you the opportunity to explain why you think you should be allowed to violate our rules.</p>
+
+<p>This is really simple.  Calling someone a “dystopian redneck” is over the line.</p>
+
+<p>—– <strong>85.8</strong> —–2022-02-11 12:35:53+08:00:</p>
+
+<p>I’ll just note that /u/Giardiniera_Jeff deleted his comments of his own volition, after I wrote the above.  They were not removed.</p>
+
+<p>—– <strong>85.9</strong> —–2022-02-12 08:29:30+08:00:</p>
+
+<blockquote>
+  <p>It is weird how people have gotten this backwards. The idea seems to be that we need to have proof that masks don’t work in order to justify taking them off . . . .</p>
+</blockquote>
+
+<p>You are exactly right.  More people need to exercise their common sense under these circumstances, like you have here.</p>
+
+<p>—– <strong>85.10</strong> —–2022-02-13 01:09:37+08:00:</p>
+
+<p>You have repeatedly engaged in a pattern of misconduct wherein everything you subjectively disagree with you report as “misinformation.”  In addition to constituting a waste of moderator time and resources, those reports are made in bad faith.  And spamming the off-modmail inboxes of other moderators is a far cry from conducting yourself in good faith.  It’s the Reddit equivalent of a “Karen” demanding to speak to the manager and it is flatly unacceptable.</p>
+
+<p>It is clear to us you do not understand what “misinformation” is.  In popular usage, people tend to brand any statement with which they disagree as “misinformation”  This is wrong, because whether speech is uttered by someone with a different opinion has no bearing on the issue of whether it constitutes misinformation.  Nor are differences in political opinion valid grounds on which to make such a distinction.</p>
+
+<p>Realize that the mere use of adjectives to characterize speech you don’t like, where you fail to cite even a single fact in support of your view, is low-effort mindless noise.  Instead of rebutting, your approach has simply been to file numerous frivolous reports and complain that speech you don’t like is “misinformation.”   Your comments in this thread add no substantive value to discussion based on the facts underlying these issues.</p>
+
+<p>If you had done <em>anything whatsoever</em> to address <em>the substance</em> of any underlying claim, your comments would not have been removed.  As you seemingly fail to realize, there’s a very wide scope of disagreement that’s allowed here.  We do not remove comments based on political differences and allow people to debate from a wide range of perspectives because we believe that free and open communication is in the public interest and in the best interests of this subreddit.</p>
+
+<p>This is your warning.</p>
+
+<p>—– <strong>85.11</strong> —–2022-02-13 01:23:12+08:00:</p>
+
+<p>That is not misinformation. But your comment is allowed.</p>
+
+<p>—– <strong>85.12</strong> —–2022-02-13 15:10:29+08:00:</p>
+
+<p>This is beyond the point of absurdity.  You were warned, disregarded it and now you’re trying to move the goalpost to justify your prior misconduct.</p>
+
+<p>—– <strong>85.13</strong> —–2022-02-14 00:30:40+08:00:</p>
+
+<blockquote>
+  <p>if masks worked why has Illinois had ebbs and surges throughout the last 23 months when we have been masked for 21 out of those 23 months?</p>
+</blockquote>
+
+<p>This is a good question to ask.  Yet for some incoherent reason, people seem to be operating from the default assumption that “mask mandates are effective” until proven otherwise — when there is not now and has never been <a href="https://www.bloomberg.com/opinion/articles/2022-02-11/did-mask-mandates-work-the-data-is-in-and-the-answer-is-no?utm_campaign=bn&amp;utm_medium=distro&amp;utm_source=MSN">evidence to demonstrate that is true</a>.</p>
+
+<p>There was one study out of Bangladesh, for example, that found a modest reduction in transmissibility.  The sample size was large, which was good, but there were too many other unaccounted-for variables.  Even that same study conceded what the state of the evidence was, at that time:</p>
+
+<blockquote>
+  <p>The World Health Organization (WHO) declined to recommend mask adoption until June 2020, citing the lack of evidence from community-based randomized-controlled trials as well as concerns that mask-wearing would create a false sense of security.</p>
+</blockquote>
+
+<p>At least on the surface, the authors of the study in Bangladesh set out to test that theory and their study gained something approximating notoriety.  But <a href="https://arxiv.org/abs/2112.01296">serious problems</a> limit the extent to which those results may be replicated or reliable conclusions drawn from them.  Likewise, glaring evidentiary deficits to support mandates in particular settings, such as schools <a href="https://www.bbc.com/news/health-59895934">have become harder to ignore</a>.  This is, of course, because <a href="https://archive.fo/02NB6">COVID is airborne</a> and the emphasis on masks has, as the WHO correctly predicted almost two years ago, given rise to an irrational and false sense of security.</p>
+
+<p>Meanwhile, a swarm of crackpot hack “fact checkers” has emerged as the product of questionable grants from even more questionable foundations to make specious “reports” on the methods or results of anything that questions whatever the particular narrative happens to be.  We have seen some of the most egregious instances of this in the form of the so called “Science Feedback” organization, which is to science what Alex Jones is to news.  Of course, illiterate people cite it just like they cited the “Your Local Epidemiologist” blog because they cannot ascertain the difference between what is and what is not “science.”</p>
+
+<h3 id="86-no-idph-covid-update-for-today-due-to-state-holiday-submitted-on-2022-02-12-0403270800">86: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/sq880g/no_idph_covid_update_for_today_due_to_state/">No IDPH COVID update for today due to state holiday</a>, submitted on 2022-02-12 04:03:27+08:00.</h3>
+
+<p>—– <strong>86.1</strong> —–2022-02-12 09:21:09+08:00:</p>
+
+<p>I didn’t say it out loud, but wondered the same thing.</p>
+
+<h3 id="87-the-same-firm-that-got-the-injunction-against-the-federal-test-or-vax-mandate-filed-a-suit-against-cook-county-and-chicago-for-the-vax-pass-submitted-on-2022-02-12-0642200800">87: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/sqbsky/the_same_firm_that_got_the_injunction_against_the/">The same firm that got the injunction against the federal test or vax mandate filed a suit against Cook County and Chicago for the vax pass</a>, submitted on 2022-02-12 06:42:20+08:00.</h3>
+
+<p>—– <strong>87.1</strong> —–2022-02-13 05:42:13+08:00:</p>
+
+<blockquote>
+  <p>I can’t figure out local news at all. This and the other recent court ruling effecting school mask mandates. It got no coverage at all until after the ruling.</p>
+</blockquote>
+
+<p>That’s how local news works.  If it fits their parent company’s narrative, they report it.  If not, they don’t.</p>
+
+<p>—– <strong>87.2</strong> —–2022-02-13 05:44:35+08:00:</p>
+
+<p>Your opinion is not a basis for saying something is inaccurate.</p>
+
+<p>—– <strong>87.3</strong> —–2022-02-14 00:38:19+08:00:</p>
+
+<p>You don’t seem to understand the difference between “fact” and “opinion.”</p>
+
+<h3 id="88-russias-joint-exercise-with-belarus-reveals-what-a-ukraine-invasion-would-look-like-submitted-on-2022-02-13-0306490800">88: <a href="https://old.reddit.com/r/geopolitics/comments/sqyp6y/russias_joint_exercise_with_belarus_reveals_what/">«Russia’s joint exercise with Belarus reveals what a Ukraine invasion would look like»</a>, submitted on 2022-02-13 03:06:49+08:00.</h3>
+
+<p>—– <strong>88.1</strong> —–2022-02-20 00:58:22+08:00:</p>
+
+<p>Improperly formatted title. No submission statement.  This should have been identified earlier.</p>
+
+<h3 id="89-extreme-suffering-15-of-23-monkeys-with-elon-musks-neuralink-brain-chips-reportedly-died-submitted-on-2022-02-13-0442200800">89: <a href="https://old.reddit.com/r/stupidpol/comments/sr0qfj/extreme_suffering_15_of_23_monkeys_with_elon/">“Extreme Suffering”: 15 of 23 Monkeys with Elon Musk’s Neuralink Brain Chips Reportedly Died</a>, submitted on 2022-02-13 04:42:20+08:00.</h3>
+
+<p>—– <strong>89.1</strong> —–2022-02-13 06:12:54+08:00:</p>
+
+<p>More often than not, people cannot even conceive of the level of torture involved in animal experimentation.  I’m not one of the “storm the farms and free the chickens” kind of guys and I’d hardly defend PETA’s positions on many things.  But people need to consider what is going on here.  It’s not limited to Musk, either.</p>
+
+<h3 id="90-what-happens-when-the-working-and-middle-classes-are-no-longer-distracted-by-identity-politics-and-other-idiocy-submitted-on-2022-02-13-0639310800">90: <a href="https://old.reddit.com/r/Twopidpol/comments/sr3887/what_happens_when_the_working_and_middle_classes/">What happens when the working and middle classes are no longer distracted by identity politics and other idiocy</a>, submitted on 2022-02-13 06:39:31+08:00.</h3>
+
+<p>—– <strong>90.1</strong> —–2022-02-14 09:55:45+08:00:</p>
+
+<blockquote>
+  <p>Who is this woman?</p>
+</blockquote>
+
+<p>She is the establishment democrat’s worst enemy.  She is a reminder that fear is never used by any legitimate government to extort the masses’ consent to tyranny at the expense of their liberty, that liberty is not just a word but an idea and that <a href="https://www.youtube.com/watch?v=ID6__O04DIw">ideas are bulletproof</a>.</p>
+
+<h3 id="91-absolutely-despicable-parent-behavior-this-parent-created-a-messed-up-version-of-naughty-and-nice-list-and-posted-it-on-social-media-if-you-look-closely-there-are-2s-around-teachers-double-masking-and-95s-around-teachers-who-are-wearing-n95kn95-masks-we-are-a-mask-optional-district-submitted-on-2022-02-13-0657190800">91: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/sr3m4f/absolutely_despicable_parent_behavior_this_parent/">Absolutely despicable parent behavior. This parent created a messed up version of ‘naughty’ and ‘nice’ list and posted it on social media. If you look closely, there are ‘(2)’s around teachers double masking and ‘(95)’s around teachers who are wearing N95/KN95 masks. We are a mask optional district.</a>, submitted on 2022-02-13 06:57:19+08:00.</h3>
+
+<p>—– <strong>91.1</strong> —–2022-02-13 09:58:38+08:00:</p>
+
+<p>Not appropriate.  Do not post this kind of thing again.</p>
+
+<h3 id="92-claims-that-a-johns-hopkins-study-showed-lockdowns-are-ineffective-at-reducing-covid-19-mortality-are-based-on-a-working-paper-with-questionable-methods-submitted-on-2022-02-13-1856540800">92: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/srg6p1/claims_that_a_johns_hopkins_study_showed/">Claims that a “Johns Hopkins study” showed lockdowns are ineffective at reducing COVID-19 mortality are based on a working paper with questionable methods</a>, submitted on 2022-02-13 18:56:54+08:00.</h3>
+
+<p>—– <strong>92.1</strong> —–2022-02-13 23:27:13+08:00:</p>
+
+<p>Removed.  Not relevant to Illinois.</p>
+
+<p>—– <strong>92.2</strong> —–2022-02-13 23:33:35+08:00:</p>
+
+<p>You are not a member of this community.  Your activity here suggests an intent to engage in community interference, while promulgating nonsensical misstatements of scientific fact.</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-02-19</time>
+        <a href="https://nodebe4.github.io/opinion/2022-02-19/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-02-14~2022-02-20的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-02-17</time>
+        <a href="https://nodebe4.github.io/opinion/2022-02-17/Commodify/">
+          Commodify在2022-02-14~2022-02-20的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-02-13</time>
+        <a href="https://nodebe4.github.io/opinion/2022-02-13/EnclavedMicrostate/">
+          EnclavedMicrostate在2022-02-07~2022-02-13的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-02-11</time>
+        <a href="https://nodebe4.github.io/opinion/2022-02-11/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-02-07~2022-02-13的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-02-13/realcaixia/">
+            前一篇：Twitter @蔡霞: 2022-02-07~2022-02-13
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-02-13/wangdan1989/">
+            後一篇：Twitter @王丹: 2022-02-07~2022-02-13
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-02-13/realcaixia/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-02-13/wangdan1989/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-02-17/Commodify/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-02-13/EnclavedMicrostate/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-02-13/realcaixia/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-02-13/wangdan1989/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-02-17/Commodify/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-02-13/EnclavedMicrostate/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

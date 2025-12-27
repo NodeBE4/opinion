@@ -1,0 +1,1063 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>对话柏琳：南斯拉夫的黑羊与灰鹰｜围炉 · CityU – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+对话柏琳：南斯拉夫的黑羊与灰鹰｜围炉 · CityU
+——
+" />
+    <meta property="og:description" content="
+对话柏琳：南斯拉夫的黑羊与灰鹰｜围炉 · CityU
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="对话柏琳：南斯拉夫的黑羊与灰鹰｜围炉 · CityU" />
+    <meta property="twitter:title" content="对话柏琳：南斯拉夫的黑羊与灰鹰｜围炉 · CityU" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fmatters.news%2F%40weiluflame%2F%25E5%25AF%25B9%25E8%25AF%259D%25E6%259F%258F%25E7%2590%25B3-%25E5%258D%2597%25E6%2596%25AF%25E6%258B%2589%25E5%25A4%25AB%25E7%259A%2584%25E9%25BB%2591%25E7%25BE%258A%25E4%25B8%258E%25E7%2581%25B0%25E9%25B9%25B0-%25E5%259B%25B4%25E7%2582%2589-city-u-bafyreig5d2mxyv6bcyewrt4amyqdthybtrdtsw5nin4iprlrat6jcci2km" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://matters.news/@weiluflame/%E5%AF%B9%E8%AF%9D%E6%9F%8F%E7%90%B3-%E5%8D%97%E6%96%AF%E6%8B%89%E5%A4%AB%E7%9A%84%E9%BB%91%E7%BE%8A%E4%B8%8E%E7%81%B0%E9%B9%B0-%E5%9B%B4%E7%82%89-city-u-bafyreig5d2mxyv6bcyewrt4amyqdthybtrdtsw5nin4iprlrat6jcci2km" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://matters.news/@weiluflame/%E5%AF%B9%E8%AF%9D%E6%9F%8F%E7%90%B3-%E5%8D%97%E6%96%AF%E6%8B%89%E5%A4%AB%E7%9A%84%E9%BB%91%E7%BE%8A%E4%B8%8E%E7%81%B0%E9%B9%B0-%E5%9B%B4%E7%82%89-city-u-bafyreig5d2mxyv6bcyewrt4amyqdthybtrdtsw5nin4iprlrat6jcci2km&text=对话柏琳：南斯拉夫的黑羊与灰鹰｜围炉 · CityU&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://matters.news/@weiluflame/%E5%AF%B9%E8%AF%9D%E6%9F%8F%E7%90%B3-%E5%8D%97%E6%96%AF%E6%8B%89%E5%A4%AB%E7%9A%84%E9%BB%91%E7%BE%8A%E4%B8%8E%E7%81%B0%E9%B9%B0-%E5%9B%B4%E7%82%89-city-u-bafyreig5d2mxyv6bcyewrt4amyqdthybtrdtsw5nin4iprlrat6jcci2km&title=对话柏琳：南斯拉夫的黑羊与灰鹰｜围炉 · CityU" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://matters.news/@weiluflame/%E5%AF%B9%E8%AF%9D%E6%9F%8F%E7%90%B3-%E5%8D%97%E6%96%AF%E6%8B%89%E5%A4%AB%E7%9A%84%E9%BB%91%E7%BE%8A%E4%B8%8E%E7%81%B0%E9%B9%B0-%E5%9B%B4%E7%82%89-city-u-bafyreig5d2mxyv6bcyewrt4amyqdthybtrdtsw5nin4iprlrat6jcci2km&title=对话柏琳：南斯拉夫的黑羊与灰鹰｜围炉 · CityU" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=对话柏琳：南斯拉夫的黑羊与灰鹰｜围炉 · CityU&body=
+对话柏琳：南斯拉夫的黑羊与灰鹰｜围炉 · CityU
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://matters.news/@weiluflame/%E5%AF%B9%E8%AF%9D%E6%9F%8F%E7%90%B3-%E5%8D%97%E6%96%AF%E6%8B%89%E5%A4%AB%E7%9A%84%E9%BB%91%E7%BE%8A%E4%B8%8E%E7%81%B0%E9%B9%B0-%E5%9B%B4%E7%82%89-city-u-bafyreig5d2mxyv6bcyewrt4amyqdthybtrdtsw5nin4iprlrat6jcci2km" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://matters.news/@weiluflame/%E5%AF%B9%E8%AF%9D%E6%9F%8F%E7%90%B3-%E5%8D%97%E6%96%AF%E6%8B%89%E5%A4%AB%E7%9A%84%E9%BB%91%E7%BE%8A%E4%B8%8E%E7%81%B0%E9%B9%B0-%E5%9B%B4%E7%82%89-city-u-bafyreig5d2mxyv6bcyewrt4amyqdthybtrdtsw5nin4iprlrat6jcci2km&title=对话柏琳：南斯拉夫的黑羊与灰鹰｜围炉 · CityU&caption=
+对话柏琳：南斯拉夫的黑羊与灰鹰｜围炉 · CityU
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=对话柏琳：南斯拉夫的黑羊与灰鹰｜围炉 · CityU&url=https://matters.news/@weiluflame/%E5%AF%B9%E8%AF%9D%E6%9F%8F%E7%90%B3-%E5%8D%97%E6%96%AF%E6%8B%89%E5%A4%AB%E7%9A%84%E9%BB%91%E7%BE%8A%E4%B8%8E%E7%81%B0%E9%B9%B0-%E5%9B%B4%E7%82%89-city-u-bafyreig5d2mxyv6bcyewrt4amyqdthybtrdtsw5nin4iprlrat6jcci2km" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>对话柏琳：南斯拉夫的黑羊与灰鹰｜围炉 · CityU</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2021-06-04
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: 围炉weiluflame</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#围炉">
+          围炉
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://matters.news/@weiluflame/%E5%AF%B9%E8%AF%9D%E6%9F%8F%E7%90%B3-%E5%8D%97%E6%96%AF%E6%8B%89%E5%A4%AB%E7%9A%84%E9%BB%91%E7%BE%8A%E4%B8%8E%E7%81%B0%E9%B9%B0-%E5%9B%B4%E7%82%89-city-u-bafyreig5d2mxyv6bcyewrt4amyqdthybtrdtsw5nin4iprlrat6jcci2km" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="围炉的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#围炉 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1622862762000-->
+<p><a href="https://matters.news/@weiluflame/%E5%AF%B9%E8%AF%9D%E6%9F%8F%E7%90%B3-%E5%8D%97%E6%96%AF%E6%8B%89%E5%A4%AB%E7%9A%84%E9%BB%91%E7%BE%8A%E4%B8%8E%E7%81%B0%E9%B9%B0-%E5%9B%B4%E7%82%89-city-u-bafyreig5d2mxyv6bcyewrt4amyqdthybtrdtsw5nin4iprlrat6jcci2km">对话柏琳：南斯拉夫的黑羊与灰鹰｜围炉 · CityU</a>
+——</p>
+
+<div>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/2f8e549e-b6ec-431a-9efd-bd62854b86ac.jpeg" data-asset-id="2f8e549e-b6ec-431a-9efd-bd62854b86ac" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/2164b60a-cba7-4de9-bc2f-1c528a6f4558.png" data-asset-id="2164b60a-cba7-4de9-bc2f-1c528a6f4558" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>“他们的爱是那么地遥远，而他们的恨又是那么地近。穆斯林望着伊斯坦布尔，塞尔维亚人望着莫斯科，而克罗地亚人望着梵蒂冈。他们的爱在那儿。而他们的恨在这儿。”《圣经·旧约》中的故事似乎在这片位于亚得里亚海和黑海之间的陆地上鲜活地演绎着。丽贝卡·韦斯特用“黑羊与灰鹰”来形容他们犹如被献祭的羔羊为神圣牺牲的献身精神，和如鹰般对宗教和民族历史的渴望。</p>
+  <p>柏琳，原《新京报·书评周刊》资深记者，曾采写 120 多位国内外文化人物。现为独立记者，青年写作者。2018 年入选单向街公益基金会发起的水手计划，正在进行有关南部斯拉夫地域的非虚构写作。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/667382e8-f6be-4ee8-8982-c483ae5fbeb3.png" data-asset-id="667382e8-f6be-4ee8-8982-c483ae5fbeb3" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/0f780563-f6c8-49fe-bf49-f19a6e6d14bc.webp" data-asset-id="0f780563-f6c8-49fe-bf49-f19a6e6d14bc" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p><strong>背景介绍</strong></p>
+  <p>南斯拉夫民族是斯拉夫民族的分支，公元八世纪在巴尔干半岛西北部定居后，由于复杂的历史背景及战乱，形成了多种民族和不同的宗教信仰，主要有信仰天主教的克罗地亚人、斯洛文尼亚人，信仰东正教的塞尔维亚人、黑山人、马其顿人、保加利亚人，以及信仰伊斯兰教的波斯尼亚人。上世纪结束奥匈帝国统治后，形成了南斯拉夫国家，后由于民族宗教冲突分裂为六个独立国家。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/69f41775-7691-4432-a573-130a1d7cf2ef.webp" data-asset-id="69f41775-7691-4432-a573-130a1d7cf2ef" referrerpolicy="no-referrer" />    <figcaption>
+<span>今天的南斯拉夫已四分五裂</span>
+    </figcaption>
+  </figure>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/8d6e27b9-ae09-4053-aefe-5cc93ad0102e.png" data-asset-id="8d6e27b9-ae09-4053-aefe-5cc93ad0102e" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>Y=杨晨</p>
+  <p>B=柏琳</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Y | 我非常喜欢的一位文学理论家哈罗德·布鲁姆，他有一个理论叫做“影响的焦虑”，而我在准备采访的过程中也感到了这种影响的焦虑。因为我初中的时候就在新京报上看您的采访了，这无形中给我很大的压力。</code></pre></div>  </div>
+  <p>B | 我突然之间觉得自己很老。（笑）</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Y | 同样是哈罗德·布鲁姆，他还说每一个伟大作家都会有意或无意地去思考一个问题，即他在文学史中应该处于一个什么样的位置？您也提到过，您在前南地区采访的过程中也一直怀揣着一个问题，“你是如何看待自己的身份的？”为什么想要去问一个这样的问题？</code></pre></div>  </div>
+  <p>B | 因为他们对于民族的认同、宗教的认同、东西方文明的认同的差异是如此的大。这种身份的混乱性才造成了他们没有办法去处理他们彼此之间的关系。一个民族宗教信仰和种族血缘的层次发生混乱之后，它就会产生各种各样的冲突。因为这种认同最悲剧的地方就在于他们自我身份的冲突和矛盾似乎是不相容的，非此即彼的那种关系。比如说你是一个信仰东正教的塞尔维亚人，我是一个信仰天主教的克罗地亚人。那么我们这两种身份，东正教对天主教、克族人对塞族人，好像是非常对立的。但是如果你把这条线往历史上追溯的话，你就会发现它们从种族上说都是斯拉夫人。所以仅仅由于历史和宗教的原因让这两个群体有了各自不同的身份认同。</p>
+  <p>自我身份的第二个问题就是说经济基础决定上层建筑，当然也挺俗的，但是它确实是这么回事，因为经济发达还是贫困，决定他们对于传统东西方的认同差异。比如说我在斯洛文尼亚和克罗地亚，这两个是前南斯拉夫地区里面，唯一两个加入欧盟的现代国家，因此他们对于自己是西方人这种认同非常强烈，觉得自己更文明，更理性。而剩下的四个国家，它们都属于东方问题。然后因为他们经济的贫困，无法归到所谓的西式叙事的一方阵营中，因为在一个传统的cliché(陈词滥调)里面,例如萨义德的东方学，会觉得东方就代表神秘性，蒙昧，缺乏理性，离启蒙离现代性很远。</p>
+  <p>然后第三点最关键的就是南部斯拉夫人这个最基本种族的认知，对于这些人来说是否重要。比如我们是中国人，是华夏民族的子孙，这成为了大家源头的自我身份认知和共识。而从我现在有限的样本和对话观察，我会意识到说种族的认同，血缘的认同，在南斯拉夫地区的人之间的态度完全不一样，比如克罗地亚人和斯洛尼亚人，会觉得我是不是斯拉夫人不重要，而未来跟欧盟和西方的关系更为重要。这是一个悲剧，因为除了这两个沿海国家在外，他们认为种族的身份问题是如此的重要，身份认同是如此的强烈。那种自豪感，那种对于历史的追溯一代代都不会中断的记忆，让人非常吃惊。</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Y | 所以对于身份认同的执念成了南斯拉夫人民苦难的根源。那您在南斯拉夫地区旅游探访的过程中会不会有一种功利的目的性或先入为主的价值预设呢？比如您要完成一篇探讨巴尔干的历史及其现状的特稿，或根据相关书籍的理论架构提前作出这样的价值判断。</code></pre></div>  </div>
+  <p>B | 我对于自己的定位就是一个对南斯拉夫文明感兴趣的人，不是什么学者和地缘政治专家，甚至我也对那些非虚构写作的记者的工作方式非常警惕。因为他们其实是带着各种的理论的框架和理论的预设去进入这块地方，而形成这种前提本身是错误的。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/0c28bea6-7938-4745-9860-0f7514317753.webp" data-asset-id="0c28bea6-7938-4745-9860-0f7514317753" referrerpolicy="no-referrer" />    <figcaption>
+<span>苏珊·桑塔格在萨拉热窝演出的合影</span>
+    </figcaption>
+  </figure>
+  <p>我举一个例子，美国著名作家苏珊·桑塔格在《重点所在》里写她在萨拉热窝围困的时候，跟那些剧作家待在一起，整日的排练戏剧《等待戈多》。他们一边在剧院里演出，一边听着外面街道上塞族军队的枪声和轰炸。然后她回到美国去谴责塞族的种族灭绝。那么如果我在读了这份资料以后，把它作为一个先决条件和预判来到波黑采访，我就要去采访那些穆斯林，问当年内战的时候塞族人是怎么杀你们的。然后这些受难者的后代，他们给我大量的口述，然后我得到了材料，证实了我的预设。文章发表后，一些不明就里的人觉得这也是一篇挺好的文章。当然读了这个东西，他确实会有收获，但是从严谨的角度，我认为这是绝对有问题的。你怎么能在你没有亲身了解这件事情的时候，就建立起你的理论框架呢？在我看来，这是一件何其傲慢的事情啊！批评别人总是很容易的，尤其你批评一个被世界舆论所公认的刽子手。但是没有人去倾听那些“刽子手”的后代的受伤感，去思考他们为什么会成为刽子手？我们也需要去采访刽子手，就像汉娜·阿伦特对于纳粹的采访，就像如今很多心理学家对于杀人凶手的采访。这并不是要为刽子手美化或正言，而是去研究专制下的平庸之恶，去思考历史的天平是否倾斜，去调查那些掩埋在泥土下的“历史的低音”。大家在没有知道完全真相的时候，就选择这样蒙蔽地前进，戴着有色眼镜去看待这些国家和民族，我觉得这是非常不公平的。我之前跟诺奖得主彼得·汉德克谈话的时候他也说过，我们什么时候可以认认真真坐下来看待南斯拉夫问题，什么时候才有勇气有能力去处理我们自己及西方的未来。</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Y | 您认为这种对于南斯拉夫历史的扭曲和历史天平的倾斜会对现实产生怎么样的影响？</code></pre></div>  </div>
+  <p>B | 南斯拉夫是一个很冷门很边缘的问题，但我心里面其实并不觉得它边缘。我认为面对南斯拉夫问题的态度，其实背后折射了我们如何处理自己的历史。“我们”也不只包含西方的人，还可以针对所有的个体。因为当你没有办法面对自己的历史，把它放在正确的位置，你的未来一定会扭曲，这是必然的，即使可能会有一段时间的粉饰太平。</p>
+  <p>当然大家现在对那块地方不是特别关注了，目光都在美国、在伊朗、在叙利亚、在土耳其。但其实一切都在暗流之中涌动，现在只是战争后的倦怠与恢复。塞尔维亚人这种受伤的、委屈的、降低尊严的这种感觉正在内部发酵，就像上世纪20年代的德国人一样。因为米洛舍维奇（前塞尔维亚总统），而怪罪到整个民族，这会激起新的仇恨与战争。</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Y | 您刚才说因为国际社会对于一场战争的误解反而会引起新的战争。然后我就想到安德奇，“巴尔干地区的冲突永远解决不了横亘在多个民族之间的问题，反而会创造出更多新的问题，迫使我们用更多新的战争来解决”。这好像是一种无限的循环一样。而他的作品也在内战时被米洛舍维奇用作宣传民族仇恨的工具。您如何看待文化经典被政客用作政治宣传的工具？</code></pre></div>  </div>
+  <p>B | 我觉得这是一个不需要回答的问题，因为我们人类历史上的文学经典太多了，每一个民族它都有自己的“代言人”，这些代言人当然具有自己的价值观。惠特曼的《草叶集》宣扬的一个民主的新型国家理念，陀思妥耶夫斯基的《群魔》却宣扬斯拉夫主义，英国的吉卜林还宣扬白人至上主义。这些作品都可能会被那些别有用心的政客利用。</p>
+  <p>在这种情况下，任何作品都是危险的作品。新纳粹把歌德称作德国的歌德，因为他们认为歌德写过颂扬日耳曼人的作品，也宣扬德国的统一与强大，但是我们这些读歌德的人很清楚，世界文学的概念是他提出来的。托马斯·曼因为前期作品中对于军国主义的支持也被纳粹所利用，但是他后来移居美国，却成为了反法西斯阵营中顽强的战士。我就是想说这些文化经典，全都可以被政治所曲解和利用，但我们依然可以用文学作品本身去探讨它，当我们读过几本安德里奇的书后，就会发现安德里奇其实是以一种悲观的历史主义的态度去看待这三个宗教、三个种族之间的矛盾。他只是本着一个作家的直觉和良心，在观察和感受仇恨与苦难，然后真诚地写出来。我觉得这恰恰就是它的可贵，而不在于煽动。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/eead3cb0-b684-4756-96ed-311b94e5fd13.jpeg" data-asset-id="eead3cb0-b684-4756-96ed-311b94e5fd13" referrerpolicy="no-referrer" />    <figcaption>
+<span>诺贝尔文学奖得主伊沃·安德里奇（1892-1975）</span>
+    </figcaption>
+  </figure>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Y | 然后回到您的文章上，您的文章给我印象最深的就是在历史叙述和反思之后还会描绘一张现实中鲜活的生活剪影或电影片段，往往是美好而动人的。您能谈一下这样写的用意吗？</code></pre></div>  </div>
+  <p>B | 我觉得这其实表达我对于南斯拉夫地区未来的一种期许。比如在写贝尔格莱德时，我最后写到南斯拉夫导演库斯特里察电影《地下》的画面，从小“不见天日”的男孩叫尤拉，他从地下游泳游到海面，人生第一次看见了朝阳，说出“爸爸，世界原来这么美丽啊！”。这只是我的期待，因为我在现实中并没有见到。而我在写萨拉热窝时，则会在现实中穿插电影《瓦尔特保卫萨拉热窝》的对话，“最好的消息就是没有消息”。因为现实的萨拉热窝非常的平静与美好，我也希望这能一直持续下去。我在写这块部分的时候可能比较有个人特点，就是我会嫁接各种电影镜头，但我不会用电影的理论与语言。我觉得应该跟实际日常的生活去架构去对接，然后去感受。可能对于我们来说，这个电影在脑海中和记忆里留存的东西能够更长久。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/8c405cca-44d3-4742-8f15-a216fc3a489a.png" data-asset-id="8c405cca-44d3-4742-8f15-a216fc3a489a" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>复杂的民族和宗教关系，贫困滋生的愚昧，对于“我身在历史何处”的执着，使这片土地上的和平往往只是战争的序曲，文化经典沦为政治宣传的工具。学者和记者对于南斯拉夫的研究与采访也往往带有自己的价值预设，使得历史的天平发生了倾斜，对于某些民族和国家的道德指责有失公允。南斯拉夫如今成为了一面镜子，我们何时擦净它表面的历史尘埃，我们何时才能看清自己的面庞。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/a1dad762-dfac-40c1-9b34-537ba25490d4.png" data-asset-id="a1dad762-dfac-40c1-9b34-537ba25490d4" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>文 | 杨晨</p>
+  <p>图 | 源自网络</p>
+  <p>微信编辑 | 张一楠</p>
+  <p>Matters编辑 | Marks</p>
+  <p>围炉 (ID：weilu_flame)</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/0244439e-814f-4c04-8d6a-0e1740ee6a19.png" data-asset-id="0244439e-814f-4c04-8d6a-0e1740ee6a19" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>文中图片未经同意，请勿用作其他用途</p>
+  <p>欢迎您在文章下方评论，与围炉团队和其他读者交流讨论</p>
+  <p>欲了解围炉、阅读更多文章，请关注本公众号并在公众号页面点击相应菜单栏目</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/b8911a12-4e81-4519-9431-0210e8920661.png" data-asset-id="b8911a12-4e81-4519-9431-0210e8920661" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/5a66fbb6-282b-4a86-b65e-b3afab323101.jpeg" data-asset-id="5a66fbb6-282b-4a86-b65e-b3afab323101" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/85b725b8-172d-461c-b469-b622a63cbba4.jpeg" data-asset-id="85b725b8-172d-461c-b469-b622a63cbba4" referrerpolicy="no-referrer" />    <figcaption>
+<span>欢</span>
+    </figcaption>
+  </figure>
+  <p><br /></p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#围炉 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2024-10-03/%E5%AF%B9%E8%AF%9D%E5%A5%B3%E6%80%A7%E6%B0%91%E5%B7%A5-%E5%9C%A8%E5%9F%8E%E5%B8%82%E9%87%8C-%E5%9C%A8%E5%B7%A5%E4%BD%9C%E5%92%8C%E5%AE%B6%E5%BA%AD%E4%B9%8B%E9%97%B4-%E5%9B%B4%E7%82%89-CU/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2021-03-23/%E5%AF%B9%E8%AF%9D%E9%BB%84%E6%B3%93%E7%BF%94-%E8%87%B4%E5%8A%9B%E4%BA%8E%E5%9F%B9%E8%82%B2%E4%B8%96%E7%95%8C%E5%85%AC%E6%B0%91%E7%9A%84%E4%B8%AD%E5%8D%97%E5%B1%8B%E5%88%9B%E5%A7%8B%E4%BA%BA-%E8%AE%B2%E5%BA%A7%E6%91%98%E8%A6%81/">最早</a>--</span>
+    
+      <li>
+        <time>2021-06-09</time>
+        <a href="https://nodebe4.github.io/opinion/2021-06-09/%E5%AF%B9%E8%AF%9DAgnes-%E6%B1%A1%E5%90%8D%E5%8C%96-%E6%98%AF%E6%8A%91%E9%83%81%E7%97%87%E7%9C%8B%E4%B8%8D%E8%A7%81%E7%9A%84%E5%88%80%E9%94%8B-%E5%9B%B4%E7%82%89-HKU/">
+          对话Agnes：“污名化”是抑郁症看不见的刀锋 | 围炉 · HKU
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-06-09</time>
+        <a href="https://nodebe4.github.io/opinion/2021-06-09/%E5%9B%B4%E7%82%89%E5%A4%9C%E8%AF%9D-%E6%88%91%E4%BB%AC-%E5%9C%A8%E8%B7%AF%E4%B8%8A-%E5%9B%B4%E7%82%89-RUC/">
+          围炉夜话：我们，在路上 | 围炉 · RUC
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-06-04</time>
+        <a href="https://nodebe4.github.io/opinion/2021-06-04/%E5%9B%B4%E7%82%89%E6%9A%91%E6%9C%9F%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E6%8B%9B%E5%8B%9F%E5%85%B1%E8%AF%BB%E4%B9%A6%E5%8F%8B/">
+          围炉暑期读书会--招募共读书友
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-05-31</time>
+        <a href="https://nodebe4.github.io/opinion/2021-05-31/%E5%9B%B4%E7%82%89%E5%B0%8F%E7%82%92-%E5%85%B3%E4%BA%8E%E7%BA%BF%E4%B8%8A%E8%AE%A8%E8%AE%BA%E4%B8%AD%E7%9A%84%E6%83%85%E7%BB%AA%E8%A1%A8%E8%BE%BE/">
+          围炉小炒｜关于线上讨论中的情绪表达
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2021-06-04/%E8%A1%97%E8%AB%87%E5%B7%B7%E8%AD%B0-%E6%80%A5%E5%90%BC%E5%90%BC%E5%87%BA%E5%8F%B0%E4%B8%89%E8%83%8E%E6%94%BF%E7%AD%96-%E4%B8%AD%E5%9C%8B%E4%BA%BA%E5%8F%A3%E5%8D%B1%E6%A9%9F%E6%9C%89%E6%95%91%E5%97%8E/">
+            前一篇：街談巷議：急吼吼出台三胎政策 中國人口危機有救嗎？
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2021-06-05/nathanlawkc/">
+            後一篇：Twitter @Nathan Law 羅冠聰: 2021-05-31~2021-06-06
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2021-06-04/%E8%A1%97%E8%AB%87%E5%B7%B7%E8%AD%B0-%E6%80%A5%E5%90%BC%E5%90%BC%E5%87%BA%E5%8F%B0%E4%B8%89%E8%83%8E%E6%94%BF%E7%AD%96-%E4%B8%AD%E5%9C%8B%E4%BA%BA%E5%8F%A3%E5%8D%B1%E6%A9%9F%E6%9C%89%E6%95%91%E5%97%8E/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2021-06-05/nathanlawkc/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2021-06-09/%E5%9B%B4%E7%82%89%E5%A4%9C%E8%AF%9D-%E6%88%91%E4%BB%AC-%E5%9C%A8%E8%B7%AF%E4%B8%8A-%E5%9B%B4%E7%82%89-RUC/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2021-06-04/%E5%9B%B4%E7%82%89%E6%9A%91%E6%9C%9F%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E6%8B%9B%E5%8B%9F%E5%85%B1%E8%AF%BB%E4%B9%A6%E5%8F%8B/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2021-06-04/%E8%A1%97%E8%AB%87%E5%B7%B7%E8%AD%B0-%E6%80%A5%E5%90%BC%E5%90%BC%E5%87%BA%E5%8F%B0%E4%B8%89%E8%83%8E%E6%94%BF%E7%AD%96-%E4%B8%AD%E5%9C%8B%E4%BA%BA%E5%8F%A3%E5%8D%B1%E6%A9%9F%E6%9C%89%E6%95%91%E5%97%8E/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2021-06-05/nathanlawkc/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<围炉>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2021-06-09/%E5%9B%B4%E7%82%89%E5%A4%9C%E8%AF%9D-%E6%88%91%E4%BB%AC-%E5%9C%A8%E8%B7%AF%E4%B8%8A-%E5%9B%B4%E7%82%89-RUC/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<围炉>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2021-06-04/%E5%9B%B4%E7%82%89%E6%9A%91%E6%9C%9F%E8%AF%BB%E4%B9%A6%E4%BC%9A-%E6%8B%9B%E5%8B%9F%E5%85%B1%E8%AF%BB%E4%B9%A6%E5%8F%8B/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

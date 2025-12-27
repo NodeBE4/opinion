@@ -1,0 +1,3561 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>“如何翻墙”系列：fqrouter——安卓系统翻墙利器（免 ROOT） – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+
+      “如何翻墙”系列：fqrouter——安卓系统翻墙利器（免 ROOT）  
+  
+    
+      
+    
+  
+  
+其实一年多以前，就有读者建议俺普及 fqrouter 这款工具。不过当时它还不太稳定性（有些兼容性的 bug），功能也不够强（当时还不支持“免ROOT”），也不知道它是否足够坚挺，所以俺一直在观望。如今这款工具已经比较稳定了，用户数也非常多了，它的“坚挺程度”也经受了考验（包括“六四的25周年”之际）。是时候写一篇普及性的教程了 :)  
+       
+        ★fqrouter 是啥？ 
+  这是一款比较轻量级的 Android 系统翻墙工具，而且是开源的（代码库在“  这里  ”），作者是天朝网友。  该工具的官网是  fqrouter.com  （已经被墙），官方博客在“  这里  ”，Google Play 应用商店的链接在“  这里  ”（ 
+   不建议直接从 Google Play 下载，原因后面会解释
+   ）。  该工具在2013年7月升级到 2.0 版本（所以也称为“fqrouter2”）。截至本文发布时，最新版本是“2.11.5”。         ★如何下载？ 
+  fqrouter 早就已经在 Google Play（安卓的官方应用商店）上架，链接在“  这里  ”。  不过上面提到说：  
+    Google Play上的无法在Android 4.4上免ROOT使用。
+      fqrouter 的作者建议用户从“  这里  ”下载最新版本。打开该链接之后，会看到几个镜像。然后你可以下载 fqrouter 的 apk 文件。  （本文刚发布的时候，此链接尚未被墙；本文发布一天后，读者反馈该链接已经被墙）         ★如何安装/使用？ 
+  安装很简单，先把刚才下载的 apk 传到手机/平板上。在手机/平板上点击该 apk 文件，就进行安装了。装好之后，你到 Android 的应用界面就能看到 fqrouter 的图标。  顺便提醒一下：Android 的版本需要 4.0 或更高，才能“免 ROOT”使用。换句话说：4.0 之下的版本，一定要 ROOT；4.0 或更高的版本，可以 ROOT 也可以不 ROOT。   双击该图标就可以启动它。第一次启动可能会稍慢（它要进行一些初始化工作），然后会弹出一个对话框，让你设置启动模式。对于大多数网友而言，就用默认的“VPN 模式”好了。        
+ 上述这个对话框只会出现一次，以后再启动 fqrouter 就不会出现了。   另外在 VPN 模式下，每次启动 fqrouter，Android 系统都会弹出如下警告，你只需勾选“我信任此应用程序”，并点“确定”既可。        
+  启动好之后，打开手机/平板上的浏览器，随便访问某个撞墙的网站（比如：Youtube、Twitter、Facebook），只要能打开，就说明翻墙成功啦 :)  在 VPN 模式下，只要 fqrouter 能够找到可用的翻墙通道，那么你的 Android 系统中所有的软件都能翻出去。         ★如何共享翻墙通道？ 
+       ◇概念说明 
+  fqrouter 的一大特色（亮点）就是：它可以共享翻墙网络，让你的手机/平板变成一个“翻墙路由器”——这也就是 fqrouter 这个名称的由来。  有了这个功能之后，你只需在某个手机/平板上安装 fqrouter，这台设备就变成“翻墙路由器”，其它的设备（包括 PC）都可以通过这个“翻墙路由器”联网。        ◇先决条件 
+  由于该功能需要基于 Linux 的 iptables，所以手机/平板一定要 ROOT 才能使用该功能。另外，即使是 ROOT 的手机/平板，也【不一定都能】使用该功能，还要看Android 版本、硬件、驱动等其它因素（也就是说，ROOT 只是必要条件，不是充分条件）。  fqrouter 的作者写了一篇《  无线中继启动的条件  》，里面说得很详细，俺就不浪费口水了。        ◇具体操作 
+  先放两张界面截图（一张中文，一张英文）。         
+  为了省事儿，俺直接把作者博客上的一段说明拷贝如下。这段说明中的“Wifi Repeater”对应中文界面上的“无线中继”。      
+中间的黄色五角星代表运行了 fqrouter 的手机。向上的箭头变绿表示，手机已经翻墙成功了，连上了自由的互联网。默认使用的是公共代理，如果你自己有代理服务器可以进入 Settings 自己添加。支持的代理协议有：GoAgent， SSH， HTTP 代理，WEB VPN 以及 ShadowSocks。   左右两个箭头表示 fqrouter 可以让别的设备通过自己访问自由的互联网。但是，分享翻墙网络的前提是手机ROOT了。   Wifi Repeater的箭头会在 Wifi Repeater 启动之后亮起。它的做用是把翻墙网络用无线热点的方式分享出去。默认的用户名是 fqrouter，密码是12345678。与系统自带的无线热点的区别是，系统自带的无线热点启动之后手机自身的无线网络就断掉了。而 Wifi Repeater 可以保持手机自己仍然使用无线网络上网。但是，只有少数的手机支持 Wifi Repeater，如果启动失败不要意外。   Pick &amp; Play 的箭头表明是否有设备正通过 Pick &amp; Play的方式经过 fqrouter 翻墙。这个功能主要是为了给 Wifi Repeater 启动失败的用户准备的。它不用启动新的无线网络，而是扫描当前连接的无线网络中的其他设备，比如台式机，iPad 这些。然后点选之后会强制这些设备通过 fqrouter 所在的手机上网。对于被点选的设备没有任何要求，也不需要在这些设备上安装其他的软件。   如果以上两种分享翻墙网络的方式都失败了也不用泄气。只要手机 ROOT 了，翻墙网络可以通过系统自带的共享网络的方式分享出去。比如 USB，比如蓝牙，比如 3G 无线热点。对于一些特殊的 Android 设备，比如 tpmini 大眼睛这样的机顶盒，它系统自带了无线路由功能，可以把有线网络用无线热点的方式分享出去。这样只要启动了 fqrouter，机顶盒发射的无线热点也是翻墙的了。    
+        ★关于“耗电与耗流量”的问题 
+  fqrouter 的作者提及该软件的设计思路是：让手机客户端软件依靠一堆“公共代理”来进行翻墙。由于“公共代理”通常都不稳定（随时可能被 GFW 封 IP），所以 fqrouter 必须考虑各种情况并进行相应处理，这导致了翻墙客户端的处理变得复杂，因此也比较耗电、耗流量。  以下摘自作者自述（链接在“  这里  ”）：      
+fqrouter 的复杂性有：  只要能直连的都直连，实在不行了才走代理（因为重试了，所以流量更费）  一个代理挂了，切到另外一个代理再试一遍，每个连接最多切两次（因为切换了，所以流量更费）  goagent 公共代理，一个 appid 才1个G的流量，用完了就要刷新。（代理刷新需要耗费流量）  DNS 查询都是穿墙实现的，一个DNS服务器没响应就切换到另外一个（因为切换了，所以更费流量）    
+        ★关于“安全性”的风险 
+  本小节针对那些“很关注安全性（尤其是隐私性和隐匿性）”的网友。        ◇风险1 
+  刚才提到 fqrouter 的联网策略之一是——“只要能直连的都直连”。也就是说，如果某个网站没有被墙，基于 fqrouter 访问该网站等同于“直连访问”。这种情况下，该网站会看到你的“公网IP”。        ◇风险2 
+  fqrouter 依赖好几种不同的公共代理，其中也包括 goagent（属于 GAE 翻墙）。俺在《  2014年5月翻墙快报  》一文中有提到：所有的 GAE 翻墙方式都存在一些隐私方面的缺陷。  如果你手机/平板上的 fqrouter 正好用的是 goagent 作为代理，会增加隐私方面的风险。        ◇风险3 
+  如果使用 fqrouter 的“共享翻墙通道”的功能（基于 wifi 方式），由于 wifi 本身可能存在安全问题，所以这种玩法会增加安全风险。（关于 wifi 的安全问题，俺有空的话单独写一篇博文聊一聊）        ◇小结 
+  如果你需要在网上进行一些非常敏感的操作（比如像俺这样，发表煽动颠覆朝廷的言论），强烈建议【不要】用 fqrouter。对于非常敏感的操作，俺再次唠叨一下：一定要用【多重代理】（最好是 TOR 加上其它前置代理），然后再搭配【双虚拟机】。这两个教程参见《  如何隐藏你的踪迹，避免跨省追捕  》系列博文。         ★TO 有志于翻墙事业的程序员 
+  GFW 是一群助纣为虐的程序员搭建的——这是天朝全体程序员的耻辱。俺希望有越来越多的程序员能够投身于翻墙事业，让 GFW 淹没在人民战争的汪洋大海之中。  如果你懂一些手机方面的软件开发，并且有志于翻墙事业，你也可以参考 fqrouter 的源代码（代码库的链接在本文开头已经给出），或许能从中有所借鉴。另外，fqrouter 的作者写了一篇文档，介绍该工具的整体架构（链接在“  这里  ”）。    
+   俺博客上，和本文相关的帖子（需翻墙）：
+    《  如何翻墙  》（传说中的扫盲教程，偶尔会更新）  《  常见翻墙问题答疑  》（传说中的 FAQ，偶尔会更新）  《  获取翻墙软件方法大全  》（教你在无法翻墙的情况下拿到翻墙软件）  《  多台电脑如何【共享】翻墙通道——兼谈【端口转发】的几种方法  》  《  如何让【不支持】代理的网络软件，通过代理进行联网（不同平台的 N 种方法）  》  《  扫盲 VPN Gate——分布式的 VPN 服务器  》  《  关于 TOR 的常见问题解答  》  《  戴“套”翻墻的方法  》  《  自由門——TOR 被封之后的另一个选择  》  《  新版本无界——赛风3失效后的另一个选择  》  《  双管齐下的赛风3  》  《  扫盲 VPN 翻墙——以 Hotspot Shield 为例  》  《  简单扫盲 I2P 的使用  》     
+
+    版权声明
+     本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者  编程随想  和本文原始地址：   https://program-think.blogspot.com/2014/07/gfw-fqrouter.html 
+    
+    
+  
+  
+    
+         
+    
+    
+    
+ 
+    
+  
+
+" />
+    <meta property="og:description" content="
+
+      “如何翻墙”系列：fqrouter——安卓系统翻墙利器（免 ROOT）  
+  
+    
+      
+    
+  
+  
+其实一年多以前，就有读者建议俺普及 fqrouter 这款工具。不过当时它还不太稳定性（有些兼容性的 bug），功能也不够强（当时还不支持“免ROOT”），也不知道它是否足够坚挺，所以俺一直在观望。如今这款工具已经比较稳定了，用户数也非常多了，它的“坚挺程度”也经受了考验（包括“六四的25周年”之际）。是时候写一篇普及性的教程了 :)  
+       
+        ★fqrouter 是啥？ 
+  这是一款比较轻量级的 Android 系统翻墙工具，而且是开源的（代码库在“  这里  ”），作者是天朝网友。  该工具的官网是  fqrouter.com  （已经被墙），官方博客在“  这里  ”，Google Play 应用商店的链接在“  这里  ”（ 
+   不建议直接从 Google Play 下载，原因后面会解释
+   ）。  该工具在2013年7月升级到 2.0 版本（所以也称为“fqrouter2”）。截至本文发布时，最新版本是“2.11.5”。         ★如何下载？ 
+  fqrouter 早就已经在 Google Play（安卓的官方应用商店）上架，链接在“  这里  ”。  不过上面提到说：  
+    Google Play上的无法在Android 4.4上免ROOT使用。
+      fqrouter 的作者建议用户从“  这里  ”下载最新版本。打开该链接之后，会看到几个镜像。然后你可以下载 fqrouter 的 apk 文件。  （本文刚发布的时候，此链接尚未被墙；本文发布一天后，读者反馈该链接已经被墙）         ★如何安装/使用？ 
+  安装很简单，先把刚才下载的 apk 传到手机/平板上。在手机/平板上点击该 apk 文件，就进行安装了。装好之后，你到 Android 的应用界面就能看到 fqrouter 的图标。  顺便提醒一下：Android 的版本需要 4.0 或更高，才能“免 ROOT”使用。换句话说：4.0 之下的版本，一定要 ROOT；4.0 或更高的版本，可以 ROOT 也可以不 ROOT。   双击该图标就可以启动它。第一次启动可能会稍慢（它要进行一些初始化工作），然后会弹出一个对话框，让你设置启动模式。对于大多数网友而言，就用默认的“VPN 模式”好了。        
+ 上述这个对话框只会出现一次，以后再启动 fqrouter 就不会出现了。   另外在 VPN 模式下，每次启动 fqrouter，Android 系统都会弹出如下警告，你只需勾选“我信任此应用程序”，并点“确定”既可。        
+  启动好之后，打开手机/平板上的浏览器，随便访问某个撞墙的网站（比如：Youtube、Twitter、Facebook），只要能打开，就说明翻墙成功啦 :)  在 VPN 模式下，只要 fqrouter 能够找到可用的翻墙通道，那么你的 Android 系统中所有的软件都能翻出去。         ★如何共享翻墙通道？ 
+       ◇概念说明 
+  fqrouter 的一大特色（亮点）就是：它可以共享翻墙网络，让你的手机/平板变成一个“翻墙路由器”——这也就是 fqrouter 这个名称的由来。  有了这个功能之后，你只需在某个手机/平板上安装 fqrouter，这台设备就变成“翻墙路由器”，其它的设备（包括 PC）都可以通过这个“翻墙路由器”联网。        ◇先决条件 
+  由于该功能需要基于 Linux 的 iptables，所以手机/平板一定要 ROOT 才能使用该功能。另外，即使是 ROOT 的手机/平板，也【不一定都能】使用该功能，还要看Android 版本、硬件、驱动等其它因素（也就是说，ROOT 只是必要条件，不是充分条件）。  fqrouter 的作者写了一篇《  无线中继启动的条件  》，里面说得很详细，俺就不浪费口水了。        ◇具体操作 
+  先放两张界面截图（一张中文，一张英文）。         
+  为了省事儿，俺直接把作者博客上的一段说明拷贝如下。这段说明中的“Wifi Repeater”对应中文界面上的“无线中继”。      
+中间的黄色五角星代表运行了 fqrouter 的手机。向上的箭头变绿表示，手机已经翻墙成功了，连上了自由的互联网。默认使用的是公共代理，如果你自己有代理服务器可以进入 Settings 自己添加。支持的代理协议有：GoAgent， SSH， HTTP 代理，WEB VPN 以及 ShadowSocks。   左右两个箭头表示 fqrouter 可以让别的设备通过自己访问自由的互联网。但是，分享翻墙网络的前提是手机ROOT了。   Wifi Repeater的箭头会在 Wifi Repeater 启动之后亮起。它的做用是把翻墙网络用无线热点的方式分享出去。默认的用户名是 fqrouter，密码是12345678。与系统自带的无线热点的区别是，系统自带的无线热点启动之后手机自身的无线网络就断掉了。而 Wifi Repeater 可以保持手机自己仍然使用无线网络上网。但是，只有少数的手机支持 Wifi Repeater，如果启动失败不要意外。   Pick &amp; Play 的箭头表明是否有设备正通过 Pick &amp; Play的方式经过 fqrouter 翻墙。这个功能主要是为了给 Wifi Repeater 启动失败的用户准备的。它不用启动新的无线网络，而是扫描当前连接的无线网络中的其他设备，比如台式机，iPad 这些。然后点选之后会强制这些设备通过 fqrouter 所在的手机上网。对于被点选的设备没有任何要求，也不需要在这些设备上安装其他的软件。   如果以上两种分享翻墙网络的方式都失败了也不用泄气。只要手机 ROOT 了，翻墙网络可以通过系统自带的共享网络的方式分享出去。比如 USB，比如蓝牙，比如 3G 无线热点。对于一些特殊的 Android 设备，比如 tpmini 大眼睛这样的机顶盒，它系统自带了无线路由功能，可以把有线网络用无线热点的方式分享出去。这样只要启动了 fqrouter，机顶盒发射的无线热点也是翻墙的了。    
+        ★关于“耗电与耗流量”的问题 
+  fqrouter 的作者提及该软件的设计思路是：让手机客户端软件依靠一堆“公共代理”来进行翻墙。由于“公共代理”通常都不稳定（随时可能被 GFW 封 IP），所以 fqrouter 必须考虑各种情况并进行相应处理，这导致了翻墙客户端的处理变得复杂，因此也比较耗电、耗流量。  以下摘自作者自述（链接在“  这里  ”）：      
+fqrouter 的复杂性有：  只要能直连的都直连，实在不行了才走代理（因为重试了，所以流量更费）  一个代理挂了，切到另外一个代理再试一遍，每个连接最多切两次（因为切换了，所以流量更费）  goagent 公共代理，一个 appid 才1个G的流量，用完了就要刷新。（代理刷新需要耗费流量）  DNS 查询都是穿墙实现的，一个DNS服务器没响应就切换到另外一个（因为切换了，所以更费流量）    
+        ★关于“安全性”的风险 
+  本小节针对那些“很关注安全性（尤其是隐私性和隐匿性）”的网友。        ◇风险1 
+  刚才提到 fqrouter 的联网策略之一是——“只要能直连的都直连”。也就是说，如果某个网站没有被墙，基于 fqrouter 访问该网站等同于“直连访问”。这种情况下，该网站会看到你的“公网IP”。        ◇风险2 
+  fqrouter 依赖好几种不同的公共代理，其中也包括 goagent（属于 GAE 翻墙）。俺在《  2014年5月翻墙快报  》一文中有提到：所有的 GAE 翻墙方式都存在一些隐私方面的缺陷。  如果你手机/平板上的 fqrouter 正好用的是 goagent 作为代理，会增加隐私方面的风险。        ◇风险3 
+  如果使用 fqrouter 的“共享翻墙通道”的功能（基于 wifi 方式），由于 wifi 本身可能存在安全问题，所以这种玩法会增加安全风险。（关于 wifi 的安全问题，俺有空的话单独写一篇博文聊一聊）        ◇小结 
+  如果你需要在网上进行一些非常敏感的操作（比如像俺这样，发表煽动颠覆朝廷的言论），强烈建议【不要】用 fqrouter。对于非常敏感的操作，俺再次唠叨一下：一定要用【多重代理】（最好是 TOR 加上其它前置代理），然后再搭配【双虚拟机】。这两个教程参见《  如何隐藏你的踪迹，避免跨省追捕  》系列博文。         ★TO 有志于翻墙事业的程序员 
+  GFW 是一群助纣为虐的程序员搭建的——这是天朝全体程序员的耻辱。俺希望有越来越多的程序员能够投身于翻墙事业，让 GFW 淹没在人民战争的汪洋大海之中。  如果你懂一些手机方面的软件开发，并且有志于翻墙事业，你也可以参考 fqrouter 的源代码（代码库的链接在本文开头已经给出），或许能从中有所借鉴。另外，fqrouter 的作者写了一篇文档，介绍该工具的整体架构（链接在“  这里  ”）。    
+   俺博客上，和本文相关的帖子（需翻墙）：
+    《  如何翻墙  》（传说中的扫盲教程，偶尔会更新）  《  常见翻墙问题答疑  》（传说中的 FAQ，偶尔会更新）  《  获取翻墙软件方法大全  》（教你在无法翻墙的情况下拿到翻墙软件）  《  多台电脑如何【共享】翻墙通道——兼谈【端口转发】的几种方法  》  《  如何让【不支持】代理的网络软件，通过代理进行联网（不同平台的 N 种方法）  》  《  扫盲 VPN Gate——分布式的 VPN 服务器  》  《  关于 TOR 的常见问题解答  》  《  戴“套”翻墻的方法  》  《  自由門——TOR 被封之后的另一个选择  》  《  新版本无界——赛风3失效后的另一个选择  》  《  双管齐下的赛风3  》  《  扫盲 VPN 翻墙——以 Hotspot Shield 为例  》  《  简单扫盲 I2P 的使用  》     
+
+    版权声明
+     本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者  编程随想  和本文原始地址：   https://program-think.blogspot.com/2014/07/gfw-fqrouter.html 
+    
+    
+  
+  
+    
+         
+    
+    
+    
+ 
+    
+  
+
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="“如何翻墙”系列：fqrouter——安卓系统翻墙利器（免 ROOT）" />
+    <meta property="twitter:title" content="“如何翻墙”系列：fqrouter——安卓系统翻墙利器（免 ROOT）" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fprogram-think.blogspot.com%2F2014%2F07%2Fgfw-fqrouter.html" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://program-think.blogspot.com/2014/07/gfw-fqrouter.html" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://program-think.blogspot.com/2014/07/gfw-fqrouter.html&text=“如何翻墙”系列：fqrouter——安卓系统翻墙利器（免 ROOT）&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://program-think.blogspot.com/2014/07/gfw-fqrouter.html&title=“如何翻墙”系列：fqrouter——安卓系统翻墙利器（免 ROOT）" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://program-think.blogspot.com/2014/07/gfw-fqrouter.html&title=“如何翻墙”系列：fqrouter——安卓系统翻墙利器（免 ROOT）" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=“如何翻墙”系列：fqrouter——安卓系统翻墙利器（免 ROOT）&body=
+
+      “如何翻墙”系列：fqrouter——安卓系统翻墙利器（免 ROOT）  
+  
+    
+      
+    
+  
+  
+其实一年多以前，就有读者建议俺普及 fqrouter 这款工具。不过当时它还不太稳定性（有些兼容性的 bug），功能也不够强（当时还不支持“免ROOT”），也不知道它是否足够坚挺，所以俺一直在观望。如今这款工具已经比较稳定了，用户数也非常多了，它的“坚挺程度”也经受了考验（包括“六四的25周年”之际）。是时候写一篇普及性的教程了 :)  
+       
+        ★fqrouter 是啥？ 
+  这是一款比较轻量级的 Android 系统翻墙工具，而且是开源的（代码库在“  这里  ”），作者是天朝网友。  该工具的官网是  fqrouter.com  （已经被墙），官方博客在“  这里  ”，Google Play 应用商店的链接在“  这里  ”（ 
+   不建议直接从 Google Play 下载，原因后面会解释
+   ）。  该工具在2013年7月升级到 2.0 版本（所以也称为“fqrouter2”）。截至本文发布时，最新版本是“2.11.5”。         ★如何下载？ 
+  fqrouter 早就已经在 Google Play（安卓的官方应用商店）上架，链接在“  这里  ”。  不过上面提到说：  
+    Google Play上的无法在Android 4.4上免ROOT使用。
+      fqrouter 的作者建议用户从“  这里  ”下载最新版本。打开该链接之后，会看到几个镜像。然后你可以下载 fqrouter 的 apk 文件。  （本文刚发布的时候，此链接尚未被墙；本文发布一天后，读者反馈该链接已经被墙）         ★如何安装/使用？ 
+  安装很简单，先把刚才下载的 apk 传到手机/平板上。在手机/平板上点击该 apk 文件，就进行安装了。装好之后，你到 Android 的应用界面就能看到 fqrouter 的图标。  顺便提醒一下：Android 的版本需要 4.0 或更高，才能“免 ROOT”使用。换句话说：4.0 之下的版本，一定要 ROOT；4.0 或更高的版本，可以 ROOT 也可以不 ROOT。   双击该图标就可以启动它。第一次启动可能会稍慢（它要进行一些初始化工作），然后会弹出一个对话框，让你设置启动模式。对于大多数网友而言，就用默认的“VPN 模式”好了。        
+ 上述这个对话框只会出现一次，以后再启动 fqrouter 就不会出现了。   另外在 VPN 模式下，每次启动 fqrouter，Android 系统都会弹出如下警告，你只需勾选“我信任此应用程序”，并点“确定”既可。        
+  启动好之后，打开手机/平板上的浏览器，随便访问某个撞墙的网站（比如：Youtube、Twitter、Facebook），只要能打开，就说明翻墙成功啦 :)  在 VPN 模式下，只要 fqrouter 能够找到可用的翻墙通道，那么你的 Android 系统中所有的软件都能翻出去。         ★如何共享翻墙通道？ 
+       ◇概念说明 
+  fqrouter 的一大特色（亮点）就是：它可以共享翻墙网络，让你的手机/平板变成一个“翻墙路由器”——这也就是 fqrouter 这个名称的由来。  有了这个功能之后，你只需在某个手机/平板上安装 fqrouter，这台设备就变成“翻墙路由器”，其它的设备（包括 PC）都可以通过这个“翻墙路由器”联网。        ◇先决条件 
+  由于该功能需要基于 Linux 的 iptables，所以手机/平板一定要 ROOT 才能使用该功能。另外，即使是 ROOT 的手机/平板，也【不一定都能】使用该功能，还要看Android 版本、硬件、驱动等其它因素（也就是说，ROOT 只是必要条件，不是充分条件）。  fqrouter 的作者写了一篇《  无线中继启动的条件  》，里面说得很详细，俺就不浪费口水了。        ◇具体操作 
+  先放两张界面截图（一张中文，一张英文）。         
+  为了省事儿，俺直接把作者博客上的一段说明拷贝如下。这段说明中的“Wifi Repeater”对应中文界面上的“无线中继”。      
+中间的黄色五角星代表运行了 fqrouter 的手机。向上的箭头变绿表示，手机已经翻墙成功了，连上了自由的互联网。默认使用的是公共代理，如果你自己有代理服务器可以进入 Settings 自己添加。支持的代理协议有：GoAgent， SSH， HTTP 代理，WEB VPN 以及 ShadowSocks。   左右两个箭头表示 fqrouter 可以让别的设备通过自己访问自由的互联网。但是，分享翻墙网络的前提是手机ROOT了。   Wifi Repeater的箭头会在 Wifi Repeater 启动之后亮起。它的做用是把翻墙网络用无线热点的方式分享出去。默认的用户名是 fqrouter，密码是12345678。与系统自带的无线热点的区别是，系统自带的无线热点启动之后手机自身的无线网络就断掉了。而 Wifi Repeater 可以保持手机自己仍然使用无线网络上网。但是，只有少数的手机支持 Wifi Repeater，如果启动失败不要意外。   Pick &amp; Play 的箭头表明是否有设备正通过 Pick &amp; Play的方式经过 fqrouter 翻墙。这个功能主要是为了给 Wifi Repeater 启动失败的用户准备的。它不用启动新的无线网络，而是扫描当前连接的无线网络中的其他设备，比如台式机，iPad 这些。然后点选之后会强制这些设备通过 fqrouter 所在的手机上网。对于被点选的设备没有任何要求，也不需要在这些设备上安装其他的软件。   如果以上两种分享翻墙网络的方式都失败了也不用泄气。只要手机 ROOT 了，翻墙网络可以通过系统自带的共享网络的方式分享出去。比如 USB，比如蓝牙，比如 3G 无线热点。对于一些特殊的 Android 设备，比如 tpmini 大眼睛这样的机顶盒，它系统自带了无线路由功能，可以把有线网络用无线热点的方式分享出去。这样只要启动了 fqrouter，机顶盒发射的无线热点也是翻墙的了。    
+        ★关于“耗电与耗流量”的问题 
+  fqrouter 的作者提及该软件的设计思路是：让手机客户端软件依靠一堆“公共代理”来进行翻墙。由于“公共代理”通常都不稳定（随时可能被 GFW 封 IP），所以 fqrouter 必须考虑各种情况并进行相应处理，这导致了翻墙客户端的处理变得复杂，因此也比较耗电、耗流量。  以下摘自作者自述（链接在“  这里  ”）：      
+fqrouter 的复杂性有：  只要能直连的都直连，实在不行了才走代理（因为重试了，所以流量更费）  一个代理挂了，切到另外一个代理再试一遍，每个连接最多切两次（因为切换了，所以流量更费）  goagent 公共代理，一个 appid 才1个G的流量，用完了就要刷新。（代理刷新需要耗费流量）  DNS 查询都是穿墙实现的，一个DNS服务器没响应就切换到另外一个（因为切换了，所以更费流量）    
+        ★关于“安全性”的风险 
+  本小节针对那些“很关注安全性（尤其是隐私性和隐匿性）”的网友。        ◇风险1 
+  刚才提到 fqrouter 的联网策略之一是——“只要能直连的都直连”。也就是说，如果某个网站没有被墙，基于 fqrouter 访问该网站等同于“直连访问”。这种情况下，该网站会看到你的“公网IP”。        ◇风险2 
+  fqrouter 依赖好几种不同的公共代理，其中也包括 goagent（属于 GAE 翻墙）。俺在《  2014年5月翻墙快报  》一文中有提到：所有的 GAE 翻墙方式都存在一些隐私方面的缺陷。  如果你手机/平板上的 fqrouter 正好用的是 goagent 作为代理，会增加隐私方面的风险。        ◇风险3 
+  如果使用 fqrouter 的“共享翻墙通道”的功能（基于 wifi 方式），由于 wifi 本身可能存在安全问题，所以这种玩法会增加安全风险。（关于 wifi 的安全问题，俺有空的话单独写一篇博文聊一聊）        ◇小结 
+  如果你需要在网上进行一些非常敏感的操作（比如像俺这样，发表煽动颠覆朝廷的言论），强烈建议【不要】用 fqrouter。对于非常敏感的操作，俺再次唠叨一下：一定要用【多重代理】（最好是 TOR 加上其它前置代理），然后再搭配【双虚拟机】。这两个教程参见《  如何隐藏你的踪迹，避免跨省追捕  》系列博文。         ★TO 有志于翻墙事业的程序员 
+  GFW 是一群助纣为虐的程序员搭建的——这是天朝全体程序员的耻辱。俺希望有越来越多的程序员能够投身于翻墙事业，让 GFW 淹没在人民战争的汪洋大海之中。  如果你懂一些手机方面的软件开发，并且有志于翻墙事业，你也可以参考 fqrouter 的源代码（代码库的链接在本文开头已经给出），或许能从中有所借鉴。另外，fqrouter 的作者写了一篇文档，介绍该工具的整体架构（链接在“  这里  ”）。    
+   俺博客上，和本文相关的帖子（需翻墙）：
+    《  如何翻墙  》（传说中的扫盲教程，偶尔会更新）  《  常见翻墙问题答疑  》（传说中的 FAQ，偶尔会更新）  《  获取翻墙软件方法大全  》（教你在无法翻墙的情况下拿到翻墙软件）  《  多台电脑如何【共享】翻墙通道——兼谈【端口转发】的几种方法  》  《  如何让【不支持】代理的网络软件，通过代理进行联网（不同平台的 N 种方法）  》  《  扫盲 VPN Gate——分布式的 VPN 服务器  》  《  关于 TOR 的常见问题解答  》  《  戴“套”翻墻的方法  》  《  自由門——TOR 被封之后的另一个选择  》  《  新版本无界——赛风3失效后的另一个选择  》  《  双管齐下的赛风3  》  《  扫盲 VPN 翻墙——以 Hotspot Shield 为例  》  《  简单扫盲 I2P 的使用  》     
+
+    版权声明
+     本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者  编程随想  和本文原始地址：   https://program-think.blogspot.com/2014/07/gfw-fqrouter.html 
+    
+    
+  
+  
+    
+         
+    
+    
+    
+ 
+    
+  
+
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://program-think.blogspot.com/2014/07/gfw-fqrouter.html" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://program-think.blogspot.com/2014/07/gfw-fqrouter.html&title=“如何翻墙”系列：fqrouter——安卓系统翻墙利器（免 ROOT）&caption=
+
+      “如何翻墙”系列：fqrouter——安卓系统翻墙利器（免 ROOT）  
+  
+    
+      
+    
+  
+  
+其实一年多以前，就有读者建议俺普及 fqrouter 这款工具。不过当时它还不太稳定性（有些兼容性的 bug），功能也不够强（当时还不支持“免ROOT”），也不知道它是否足够坚挺，所以俺一直在观望。如今这款工具已经比较稳定了，用户数也非常多了，它的“坚挺程度”也经受了考验（包括“六四的25周年”之际）。是时候写一篇普及性的教程了 :)  
+       
+        ★fqrouter 是啥？ 
+  这是一款比较轻量级的 Android 系统翻墙工具，而且是开源的（代码库在“  这里  ”），作者是天朝网友。  该工具的官网是  fqrouter.com  （已经被墙），官方博客在“  这里  ”，Google Play 应用商店的链接在“  这里  ”（ 
+   不建议直接从 Google Play 下载，原因后面会解释
+   ）。  该工具在2013年7月升级到 2.0 版本（所以也称为“fqrouter2”）。截至本文发布时，最新版本是“2.11.5”。         ★如何下载？ 
+  fqrouter 早就已经在 Google Play（安卓的官方应用商店）上架，链接在“  这里  ”。  不过上面提到说：  
+    Google Play上的无法在Android 4.4上免ROOT使用。
+      fqrouter 的作者建议用户从“  这里  ”下载最新版本。打开该链接之后，会看到几个镜像。然后你可以下载 fqrouter 的 apk 文件。  （本文刚发布的时候，此链接尚未被墙；本文发布一天后，读者反馈该链接已经被墙）         ★如何安装/使用？ 
+  安装很简单，先把刚才下载的 apk 传到手机/平板上。在手机/平板上点击该 apk 文件，就进行安装了。装好之后，你到 Android 的应用界面就能看到 fqrouter 的图标。  顺便提醒一下：Android 的版本需要 4.0 或更高，才能“免 ROOT”使用。换句话说：4.0 之下的版本，一定要 ROOT；4.0 或更高的版本，可以 ROOT 也可以不 ROOT。   双击该图标就可以启动它。第一次启动可能会稍慢（它要进行一些初始化工作），然后会弹出一个对话框，让你设置启动模式。对于大多数网友而言，就用默认的“VPN 模式”好了。        
+ 上述这个对话框只会出现一次，以后再启动 fqrouter 就不会出现了。   另外在 VPN 模式下，每次启动 fqrouter，Android 系统都会弹出如下警告，你只需勾选“我信任此应用程序”，并点“确定”既可。        
+  启动好之后，打开手机/平板上的浏览器，随便访问某个撞墙的网站（比如：Youtube、Twitter、Facebook），只要能打开，就说明翻墙成功啦 :)  在 VPN 模式下，只要 fqrouter 能够找到可用的翻墙通道，那么你的 Android 系统中所有的软件都能翻出去。         ★如何共享翻墙通道？ 
+       ◇概念说明 
+  fqrouter 的一大特色（亮点）就是：它可以共享翻墙网络，让你的手机/平板变成一个“翻墙路由器”——这也就是 fqrouter 这个名称的由来。  有了这个功能之后，你只需在某个手机/平板上安装 fqrouter，这台设备就变成“翻墙路由器”，其它的设备（包括 PC）都可以通过这个“翻墙路由器”联网。        ◇先决条件 
+  由于该功能需要基于 Linux 的 iptables，所以手机/平板一定要 ROOT 才能使用该功能。另外，即使是 ROOT 的手机/平板，也【不一定都能】使用该功能，还要看Android 版本、硬件、驱动等其它因素（也就是说，ROOT 只是必要条件，不是充分条件）。  fqrouter 的作者写了一篇《  无线中继启动的条件  》，里面说得很详细，俺就不浪费口水了。        ◇具体操作 
+  先放两张界面截图（一张中文，一张英文）。         
+  为了省事儿，俺直接把作者博客上的一段说明拷贝如下。这段说明中的“Wifi Repeater”对应中文界面上的“无线中继”。      
+中间的黄色五角星代表运行了 fqrouter 的手机。向上的箭头变绿表示，手机已经翻墙成功了，连上了自由的互联网。默认使用的是公共代理，如果你自己有代理服务器可以进入 Settings 自己添加。支持的代理协议有：GoAgent， SSH， HTTP 代理，WEB VPN 以及 ShadowSocks。   左右两个箭头表示 fqrouter 可以让别的设备通过自己访问自由的互联网。但是，分享翻墙网络的前提是手机ROOT了。   Wifi Repeater的箭头会在 Wifi Repeater 启动之后亮起。它的做用是把翻墙网络用无线热点的方式分享出去。默认的用户名是 fqrouter，密码是12345678。与系统自带的无线热点的区别是，系统自带的无线热点启动之后手机自身的无线网络就断掉了。而 Wifi Repeater 可以保持手机自己仍然使用无线网络上网。但是，只有少数的手机支持 Wifi Repeater，如果启动失败不要意外。   Pick &amp; Play 的箭头表明是否有设备正通过 Pick &amp; Play的方式经过 fqrouter 翻墙。这个功能主要是为了给 Wifi Repeater 启动失败的用户准备的。它不用启动新的无线网络，而是扫描当前连接的无线网络中的其他设备，比如台式机，iPad 这些。然后点选之后会强制这些设备通过 fqrouter 所在的手机上网。对于被点选的设备没有任何要求，也不需要在这些设备上安装其他的软件。   如果以上两种分享翻墙网络的方式都失败了也不用泄气。只要手机 ROOT 了，翻墙网络可以通过系统自带的共享网络的方式分享出去。比如 USB，比如蓝牙，比如 3G 无线热点。对于一些特殊的 Android 设备，比如 tpmini 大眼睛这样的机顶盒，它系统自带了无线路由功能，可以把有线网络用无线热点的方式分享出去。这样只要启动了 fqrouter，机顶盒发射的无线热点也是翻墙的了。    
+        ★关于“耗电与耗流量”的问题 
+  fqrouter 的作者提及该软件的设计思路是：让手机客户端软件依靠一堆“公共代理”来进行翻墙。由于“公共代理”通常都不稳定（随时可能被 GFW 封 IP），所以 fqrouter 必须考虑各种情况并进行相应处理，这导致了翻墙客户端的处理变得复杂，因此也比较耗电、耗流量。  以下摘自作者自述（链接在“  这里  ”）：      
+fqrouter 的复杂性有：  只要能直连的都直连，实在不行了才走代理（因为重试了，所以流量更费）  一个代理挂了，切到另外一个代理再试一遍，每个连接最多切两次（因为切换了，所以流量更费）  goagent 公共代理，一个 appid 才1个G的流量，用完了就要刷新。（代理刷新需要耗费流量）  DNS 查询都是穿墙实现的，一个DNS服务器没响应就切换到另外一个（因为切换了，所以更费流量）    
+        ★关于“安全性”的风险 
+  本小节针对那些“很关注安全性（尤其是隐私性和隐匿性）”的网友。        ◇风险1 
+  刚才提到 fqrouter 的联网策略之一是——“只要能直连的都直连”。也就是说，如果某个网站没有被墙，基于 fqrouter 访问该网站等同于“直连访问”。这种情况下，该网站会看到你的“公网IP”。        ◇风险2 
+  fqrouter 依赖好几种不同的公共代理，其中也包括 goagent（属于 GAE 翻墙）。俺在《  2014年5月翻墙快报  》一文中有提到：所有的 GAE 翻墙方式都存在一些隐私方面的缺陷。  如果你手机/平板上的 fqrouter 正好用的是 goagent 作为代理，会增加隐私方面的风险。        ◇风险3 
+  如果使用 fqrouter 的“共享翻墙通道”的功能（基于 wifi 方式），由于 wifi 本身可能存在安全问题，所以这种玩法会增加安全风险。（关于 wifi 的安全问题，俺有空的话单独写一篇博文聊一聊）        ◇小结 
+  如果你需要在网上进行一些非常敏感的操作（比如像俺这样，发表煽动颠覆朝廷的言论），强烈建议【不要】用 fqrouter。对于非常敏感的操作，俺再次唠叨一下：一定要用【多重代理】（最好是 TOR 加上其它前置代理），然后再搭配【双虚拟机】。这两个教程参见《  如何隐藏你的踪迹，避免跨省追捕  》系列博文。         ★TO 有志于翻墙事业的程序员 
+  GFW 是一群助纣为虐的程序员搭建的——这是天朝全体程序员的耻辱。俺希望有越来越多的程序员能够投身于翻墙事业，让 GFW 淹没在人民战争的汪洋大海之中。  如果你懂一些手机方面的软件开发，并且有志于翻墙事业，你也可以参考 fqrouter 的源代码（代码库的链接在本文开头已经给出），或许能从中有所借鉴。另外，fqrouter 的作者写了一篇文档，介绍该工具的整体架构（链接在“  这里  ”）。    
+   俺博客上，和本文相关的帖子（需翻墙）：
+    《  如何翻墙  》（传说中的扫盲教程，偶尔会更新）  《  常见翻墙问题答疑  》（传说中的 FAQ，偶尔会更新）  《  获取翻墙软件方法大全  》（教你在无法翻墙的情况下拿到翻墙软件）  《  多台电脑如何【共享】翻墙通道——兼谈【端口转发】的几种方法  》  《  如何让【不支持】代理的网络软件，通过代理进行联网（不同平台的 N 种方法）  》  《  扫盲 VPN Gate——分布式的 VPN 服务器  》  《  关于 TOR 的常见问题解答  》  《  戴“套”翻墻的方法  》  《  自由門——TOR 被封之后的另一个选择  》  《  新版本无界——赛风3失效后的另一个选择  》  《  双管齐下的赛风3  》  《  扫盲 VPN 翻墙——以 Hotspot Shield 为例  》  《  简单扫盲 I2P 的使用  》     
+
+    版权声明
+     本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者  编程随想  和本文原始地址：   https://program-think.blogspot.com/2014/07/gfw-fqrouter.html 
+    
+    
+  
+  
+    
+         
+    
+    
+    
+ 
+    
+  
+
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=“如何翻墙”系列：fqrouter——安卓系统翻墙利器（免 ROOT）&url=https://program-think.blogspot.com/2014/07/gfw-fqrouter.html" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>“如何翻墙”系列：fqrouter——安卓系统翻墙利器（免 ROOT）</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2014-07-31
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#编程随想">
+          编程随想
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://program-think.blogspot.com/2014/07/gfw-fqrouter.html" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="编程随想的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#编程随想 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <div class="post hentry uncustomized-post-template">
+<a name="1004506840083804808">
+ </a>   <h1 class="post-title entry-title" id="fqrouter-root--"> <a href="https://program-think.blogspot.com/2014/07/gfw-fqrouter.html"> “如何翻墙”系列：fqrouter——安卓系统翻墙利器（免 ROOT） </a> </h1>
+  <div class="post-header">
+    <div class="post-header-line-1">
+      <div class="post-inner-index"></div>
+    </div>
+  </div>
+  <div class="post-body entry-content">
+其实一年多以前，就有读者建议俺普及 fqrouter 这款工具。不过当时它还不太稳定性（有些兼容性的 bug），功能也不够强（当时还不支持“免ROOT”），也不知道它是否足够坚挺，所以俺一直在观望。如今这款工具已经比较稳定了，用户数也非常多了，它的“坚挺程度”也经受了考验（包括“六四的25周年”之际）。是时候写一篇普及性的教程了 :) <br /> <a name="more">
+  </a>     <!--program-think-->
+ <br /> <br />     <h2 id="fqrouter--"> ★fqrouter 是啥？ </h2>
+ <br /> 这是一款比较轻量级的 Android 系统翻墙工具，而且是开源的（代码库在“ <a href="https://github.com/fqrouter/fqrouter" rel="nofollow" target="_blank"> 这里 </a> ”），作者是天朝网友。 <br /> 该工具的官网是 <a href="http://fqrouter.com/" rel="nofollow" target="_blank"> fqrouter.com </a> （已经被墙），官方博客在“ <a href="http://fqrouter.tumblr.com/" rel="nofollow" target="_blank"> 这里 </a> ”，Google Play 应用商店的链接在“ <a href="https://play.google.com/store/apps/details?id=fq.router2&amp;hl=zh" rel="nofollow" target="_blank"> 这里 </a> ”（ <b>
+   不建议直接从 Google Play 下载，原因后面会解释
+  </b> ）。 <br /> 该工具在2013年7月升级到 2.0 版本（所以也称为“fqrouter2”）。截至本文发布时，最新版本是“2.11.5”。 <br /> <br /> <br />     <h2 id="section"> ★如何下载？ </h2>
+ <br /> fqrouter 早就已经在 Google Play（安卓的官方应用商店）上架，链接在“ <a href="https://play.google.com/store/apps/details?id=fq.router2&amp;hl=zh" rel="nofollow" target="_blank"> 这里 </a> ”。 <br /> 不过上面提到说： <q style="background-color:#DDD;"> <b>
+    Google Play上的无法在Android 4.4上免ROOT使用。
+   </b> </q> <br /> fqrouter 的作者建议用户从“ <a href="https://s3-ap-southeast-1.amazonaws.com/fqrouter/fqrouter-latest.html" rel="nofollow" target="_blank"> 这里 </a> ”下载最新版本。打开该链接之后，会看到几个镜像。然后你可以下载 fqrouter 的 apk 文件。 <br /> （本文刚发布的时候，此链接尚未被墙；本文发布一天后，读者反馈该链接已经被墙） <br /> <br /> <br />     <h2 id="section-1"> ★如何安装/使用？ </h2>
+ <br /> 安装很简单，先把刚才下载的 apk 传到手机/平板上。在手机/平板上点击该 apk 文件，就进行安装了。装好之后，你到 Android 的应用界面就能看到 fqrouter 的图标。 <br /> 顺便提醒一下：Android 的版本需要 4.0 或更高，才能“免 ROOT”使用。换句话说：4.0 之下的版本，一定要 ROOT；4.0 或更高的版本，可以 ROOT 也可以不 ROOT。 <br /> <br /> 双击该图标就可以启动它。第一次启动可能会稍慢（它要进行一些初始化工作），然后会弹出一个对话框，让你设置启动模式。对于大多数网友而言，就用默认的“VPN 模式”好了。 <br />     <center> <img alt="不见图 请翻墙" src="https://lh4.googleusercontent.com/59onHMmMSGwVDjNzSyaFt8JsugVJMYC6-pDgY510FeGhvW92EBXfBd70uh98nHKJrDzwDubkEW7zO_sI_dcqBUsUKxPN3-hIT7UVGRMFsz0-Zn8Pm1Ufwd9dnF5BaYW2K7vs" /> </center>
+ 上述这个对话框只会出现一次，以后再启动 fqrouter 就不会出现了。 <br /> <br /> 另外在 VPN 模式下，每次启动 fqrouter，Android 系统都会弹出如下警告，你只需勾选“我信任此应用程序”，并点“确定”既可。 <br />     <center> <img alt="不见图 请翻墙" src="https://lh4.googleusercontent.com/AHLsoFw_NDwzifCBnHqOg511KnMnemZQZc1xAMpj741pBRR9jXuPGRQnAy9kB9ai53u2arPesr0Sur_tgMvuOHpIH4nmXDN4TinpWeJ6N4LbMhRs0HPyf2dyWX1aQcOoTZap" /> </center>
+ <br /> 启动好之后，打开手机/平板上的浏览器，随便访问某个撞墙的网站（比如：Youtube、Twitter、Facebook），只要能打开，就说明翻墙成功啦 :) <br /> 在 VPN 模式下，只要 fqrouter 能够找到可用的翻墙通道，那么你的 Android 系统中所有的软件都能翻出去。 <br /> <br /> <br />     <h2 id="section-2"> ★如何共享翻墙通道？ </h2>
+ <br />     <h3 id="section-3"> ◇概念说明 </h3>
+ <br /> fqrouter 的一大特色（亮点）就是：它可以共享翻墙网络，让你的手机/平板变成一个“翻墙路由器”——这也就是 fqrouter 这个名称的由来。 <br /> 有了这个功能之后，你只需在某个手机/平板上安装 fqrouter，这台设备就变成“翻墙路由器”，其它的设备（包括 PC）都可以通过这个“翻墙路由器”联网。 <br /> <br />     <h3 id="section-4"> ◇先决条件 </h3>
+ <br /> 由于该功能需要基于 Linux 的 iptables，所以手机/平板一定要 ROOT 才能使用该功能。另外，即使是 ROOT 的手机/平板，也【不一定都能】使用该功能，还要看Android 版本、硬件、驱动等其它因素（也就是说，ROOT 只是必要条件，不是充分条件）。 <br /> fqrouter 的作者写了一篇《 <a href="http://fqrouter.tumblr.com/post/47259845553" rel="nofollow" target="_blank"> 无线中继启动的条件 </a> 》，里面说得很详细，俺就不浪费口水了。 <br /> <br />     <h3 id="section-5"> ◇具体操作 </h3>
+ <br /> 先放两张界面截图（一张中文，一张英文）。 <br />     <center> <img alt="不见图 请翻墙" src="https://lh6.googleusercontent.com/xOOQqW-mHtYNknob86dBid8P_O3p_AfxIFAbQJAa4XfdEvWwmdtxJah6UrxkHcPsYEtiR4rKGHj5aw56CiGKCkp7OOVt6WWgGR7Jb5AeHHWFuZI-l5kQHk5wi6T5YSw_O-A1" /> <img alt="不见图 请翻墙" src="https://lh6.googleusercontent.com/Z6UDa3UYQPA1xA1ymzwGzROeM_47DY_vEby9bnV7oCn3uoyfJmf5Tb1vcnkcyLazzJn3-O35Orb0DeoJyhBxXOGaFRqPf7sbS9uyu0CoRPSyhnPAT9YutI7hIx3KiYdSH9P9" /> </center>
+ <br /> 为了省事儿，俺直接把作者博客上的一段说明拷贝如下。这段说明中的“Wifi Repeater”对应中文界面上的“无线中继”。 <br />     <blockquote>
+中间的黄色五角星代表运行了 fqrouter 的手机。向上的箭头变绿表示，手机已经翻墙成功了，连上了自由的互联网。默认使用的是公共代理，如果你自己有代理服务器可以进入 Settings 自己添加。支持的代理协议有：GoAgent， SSH， HTTP 代理，WEB VPN 以及 ShadowSocks。 <br /> <br /> 左右两个箭头表示 fqrouter 可以让别的设备通过自己访问自由的互联网。但是，分享翻墙网络的前提是手机ROOT了。 <br /> <br /> Wifi Repeater的箭头会在 Wifi Repeater 启动之后亮起。它的做用是把翻墙网络用无线热点的方式分享出去。默认的用户名是 fqrouter，密码是12345678。与系统自带的无线热点的区别是，系统自带的无线热点启动之后手机自身的无线网络就断掉了。而 Wifi Repeater 可以保持手机自己仍然使用无线网络上网。但是，只有少数的手机支持 Wifi Repeater，如果启动失败不要意外。 <br /> <br /> Pick &amp; Play 的箭头表明是否有设备正通过 Pick &amp; Play的方式经过 fqrouter 翻墙。这个功能主要是为了给 Wifi Repeater 启动失败的用户准备的。它不用启动新的无线网络，而是扫描当前连接的无线网络中的其他设备，比如台式机，iPad 这些。然后点选之后会强制这些设备通过 fqrouter 所在的手机上网。对于被点选的设备没有任何要求，也不需要在这些设备上安装其他的软件。 <br /> <br /> 如果以上两种分享翻墙网络的方式都失败了也不用泄气。只要手机 ROOT 了，翻墙网络可以通过系统自带的共享网络的方式分享出去。比如 USB，比如蓝牙，比如 3G 无线热点。对于一些特殊的 Android 设备，比如 tpmini 大眼睛这样的机顶盒，它系统自带了无线路由功能，可以把有线网络用无线热点的方式分享出去。这样只要启动了 fqrouter，机顶盒发射的无线热点也是翻墙的了。    </blockquote>
+ <br /> <br />     <h2 id="section-6"> ★关于“耗电与耗流量”的问题 </h2>
+ <br /> fqrouter 的作者提及该软件的设计思路是：让手机客户端软件依靠一堆“公共代理”来进行翻墙。由于“公共代理”通常都不稳定（随时可能被 GFW 封 IP），所以 fqrouter 必须考虑各种情况并进行相应处理，这导致了翻墙客户端的处理变得复杂，因此也比较耗电、耗流量。 <br /> 以下摘自作者自述（链接在“ <a href="http://fqrouter.tumblr.com/post/59083069866" rel="nofollow" target="_blank"> 这里 </a> ”）： <br />     <blockquote>
+fqrouter 的复杂性有： <br /> 只要能直连的都直连，实在不行了才走代理（因为重试了，所以流量更费） <br /> 一个代理挂了，切到另外一个代理再试一遍，每个连接最多切两次（因为切换了，所以流量更费） <br /> goagent 公共代理，一个 appid 才1个G的流量，用完了就要刷新。（代理刷新需要耗费流量） <br /> DNS 查询都是穿墙实现的，一个DNS服务器没响应就切换到另外一个（因为切换了，所以更费流量）    </blockquote>
+ <br /> <br />     <h2 id="section-7"> ★关于“安全性”的风险 </h2>
+ <br /> 本小节针对那些“很关注安全性（尤其是隐私性和隐匿性）”的网友。 <br /> <br />     <h3 id="section-8"> ◇风险1 </h3>
+ <br /> 刚才提到 fqrouter 的联网策略之一是——“只要能直连的都直连”。也就是说，如果某个网站没有被墙，基于 fqrouter 访问该网站等同于“直连访问”。这种情况下，该网站会看到你的“公网IP”。 <br /> <br />     <h3 id="section-9"> ◇风险2 </h3>
+ <br /> fqrouter 依赖好几种不同的公共代理，其中也包括 goagent（属于 GAE 翻墙）。俺在《 <a href="https://program-think.blogspot.com/2014/05/gfw-news.html"> 2014年5月翻墙快报 </a> 》一文中有提到：所有的 GAE 翻墙方式都存在一些隐私方面的缺陷。 <br /> 如果你手机/平板上的 fqrouter 正好用的是 goagent 作为代理，会增加隐私方面的风险。 <br /> <br />     <h3 id="section-10"> ◇风险3 </h3>
+ <br /> 如果使用 fqrouter 的“共享翻墙通道”的功能（基于 wifi 方式），由于 wifi 本身可能存在安全问题，所以这种玩法会增加安全风险。（关于 wifi 的安全问题，俺有空的话单独写一篇博文聊一聊） <br /> <br />     <h3 id="section-11"> ◇小结 </h3>
+ <br /> 如果你需要在网上进行一些非常敏感的操作（比如像俺这样，发表煽动颠覆朝廷的言论），强烈建议【不要】用 fqrouter。对于非常敏感的操作，俺再次唠叨一下：一定要用【多重代理】（最好是 TOR 加上其它前置代理），然后再搭配【双虚拟机】。这两个教程参见《 <a href="https://program-think.blogspot.com/2010/04/howto-cover-your-tracks-0.html"> 如何隐藏你的踪迹，避免跨省追捕 </a> 》系列博文。 <br /> <br /> <br />     <h2 id="to--"> ★TO 有志于翻墙事业的程序员 </h2>
+ <br /> GFW 是一群助纣为虐的程序员搭建的——这是天朝全体程序员的耻辱。俺希望有越来越多的程序员能够投身于翻墙事业，让 GFW 淹没在人民战争的汪洋大海之中。 <br /> 如果你懂一些手机方面的软件开发，并且有志于翻墙事业，你也可以参考 fqrouter 的源代码（代码库的链接在本文开头已经给出），或许能从中有所借鉴。另外，fqrouter 的作者写了一篇文档，介绍该工具的整体架构（链接在“ <a href="http://fqrouter.tumblr.com/post/51779503116" rel="nofollow" target="_blank"> 这里 </a> ”）。 <br /> <br /> <br /> <b>
+   俺博客上，和本文相关的帖子（需翻墙）：
+  </b> <br /> 《 <a href="https://program-think.blogspot.com/2009/05/how-to-break-through-gfw.html"> 如何翻墙 </a> 》（传说中的扫盲教程，偶尔会更新） <br /> 《 <a href="https://program-think.blogspot.com/2011/09/gfw-faq.html"> 常见翻墙问题答疑 </a> 》（传说中的 FAQ，偶尔会更新） <br /> 《 <a href="https://program-think.blogspot.com/2011/03/how-to-get-gfw-tools.html"> 获取翻墙软件方法大全 </a> 》（教你在无法翻墙的情况下拿到翻墙软件） <br /> 《 <a href="https://program-think.blogspot.com/2013/01/cross-host-use-gfw-tool.html"> 多台电脑如何【共享】翻墙通道——兼谈【端口转发】的几种方法 </a> 》 <br /> 《 <a href="https://program-think.blogspot.com/2019/04/Proxy-Tricks.html"> 如何让【不支持】代理的网络软件，通过代理进行联网（不同平台的 N 种方法） </a> 》 <br /> 《 <a href="https://program-think.blogspot.com/2013/04/gfw-vpngate.html"> 扫盲 VPN Gate——分布式的 VPN 服务器 </a> 》 <br /> 《 <a href="https://program-think.blogspot.com/2013/11/tor-faq.html"> 关于 TOR 的常见问题解答 </a> 》 <br /> 《 <a href="https://program-think.blogspot.com/2009/09/break-through-gfw-with-tor.html"> 戴“套”翻墻的方法 </a> 》 <br /> 《 <a href="https://program-think.blogspot.com/2010/03/choose-free-gate.html"> 自由門——TOR 被封之后的另一个选择 </a> 》 <br /> 《 <a href="https://program-think.blogspot.com/2011/12/gfw-wujie.html"> 新版本无界——赛风3失效后的另一个选择 </a> 》 <br /> 《 <a href="https://program-think.blogspot.com/2011/10/gfw-psiphon.html"> 双管齐下的赛风3 </a> 》 <br /> 《 <a href="https://program-think.blogspot.com/2011/09/gfw-vpn-hotspot-shield.html"> 扫盲 VPN 翻墙——以 Hotspot Shield 为例 </a> 》 <br /> 《 <a href="https://program-think.blogspot.com/2012/06/gfw-i2p.html"> 简单扫盲 I2P 的使用 </a> 》     <div class="post-copyright">
+<b>
+    版权声明
+   </b> <br /> 本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者 <a href="mailto:program.think@gmail.com"> 编程随想 </a> 和本文原始地址： <br /> <a href="https://program-think.blogspot.com/2014/07/gfw-fqrouter.html" id="OriginalPostUrl"> https://program-think.blogspot.com/2014/07/gfw-fqrouter.html </a>
+    </div>
+    <div style="clear: both;"></div>
+  </div>
+  <div class="post-footer" style="margin-bottom:50px;">
+    <div class="post-footer-line post-footer-line-1" style="display:none;">
+<span class="post-author vcard"> </span> <span class="reaction-buttons"> </span> <span class="star-ratings"> </span> <span class="post-icons"> </span> <span class="post-backlinks post-comment-link"> </span>
+    </div>
+    <div class="post-footer-line post-footer-line-2 post-toolbar"></div>
+    <div class="post-footer-line post-footer-line-3">
+<span class="post-location"> </span>
+    </div>
+  </div>
+</div>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#编程随想 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2021-05-09/%E5%88%86%E4%BA%AB%E5%90%84%E7%B1%BB%E7%94%B5%E5%AD%90%E4%B9%A6-%E6%94%BF%E6%B2%BB-IT-%E7%A7%91%E6%99%AE-%E5%8E%86%E5%8F%B2-%E7%AD%89-97%E6%9C%AC/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-01-15/%E5%8D%9A%E5%AE%A2%E5%BC%80%E5%BC%A0%E5%8F%8A%E6%9C%AC%E5%8D%9A%E5%AE%A2%E5%86%85%E5%AE%B9%E7%AE%80%E4%BB%8B/">最早</a>--</span>
+    
+      <li>
+        <time>2014-08-09</time>
+        <a href="https://nodebe4.github.io/opinion/2014-08-09/%E5%85%9A%E5%9B%BD%E5%96%89%E8%88%8C%E5%8F%8D%E9%81%AD%E5%A4%9A%E6%AC%A1%E5%B0%81%E6%9D%80-%E6%9C%9D%E5%BB%B7%E9%AB%98%E5%B1%82%E6%9D%83%E6%96%97%E6%97%A5%E6%B8%90%E6%BF%80%E7%83%88/">
+          党国喉舌反遭多次封杀，朝廷高层权斗日渐激烈
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2014-08-04</time>
+        <a href="https://nodebe4.github.io/opinion/2014-08-04/%E5%85%AB%E5%8D%A6%E4%B8%80%E4%B8%8B%E5%91%A8%E6%B0%B8%E5%BA%B7%E9%82%A3%E4%BA%9B%E7%A0%B4%E4%BA%8B%E5%84%BF-%E4%BB%96%E7%9A%84%E5%AE%B6%E6%97%8F-%E6%9C%8B%E5%85%9A-%E7%94%9F%E6%84%8F-%E6%83%85%E5%A6%87-%E5%A4%9A%E5%9B%BE/">
+          八卦一下周永康那些破事儿——他的家族、朋党、生意、情妇（多图）
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2014-07-28</time>
+        <a href="https://nodebe4.github.io/opinion/2014-07-28/%E5%88%86%E4%BA%AB%E5%90%84%E7%B1%BB%E7%94%B5%E5%AD%90%E4%B9%A6-%E5%BF%83%E7%90%86%E5%AD%A6-%E6%94%BF%E6%B2%BB-%E5%8E%86%E5%8F%B2-22%E6%9C%AC/">
+          分享各类电子书（心理学、政治、历史，22本）
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2014-07-14</time>
+        <a href="https://nodebe4.github.io/opinion/2014-07-14/%E5%88%86%E6%9E%90-%E5%88%B6%E5%BA%A6%E6%80%A7%E8%85%90%E8%B4%A5-%E4%B8%BA%E5%95%A5%E5%A4%A9%E6%9C%9D%E7%9A%84%E8%B4%AA%E5%AE%98%E5%B1%A1%E7%A6%81%E4%B8%8D%E6%AD%A2/">
+          分析“制度性腐败”——为啥天朝的贪官屡禁不止？
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2014-07-31/%E6%B2%88%E6%98%8E-%E8%87%AA%E6%88%91%E6%AE%96%E6%B0%91%E4%B8%8E%E6%89%B9%E8%AF%84%E4%BC%A6%E7%90%86-%E7%AE%80%E8%AF%84-%E5%8C%97%E5%A4%A7%E7%9A%84%E6%96%87%E6%98%8E%E5%AE%9A%E4%BD%8D%E4%B8%8E%E8%87%AA%E6%88%91%E8%83%8C%E5%8F%9B/">
+            前一篇：沈明：自我殖民与批评伦理——简评《北大的文明定位与自我背叛》
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2014-07-31/Pleco_Building_a_Business_not_an_App/">
+            後一篇：Pleco: Building a Business, not an App
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2014-07-31/%E6%B2%88%E6%98%8E-%E8%87%AA%E6%88%91%E6%AE%96%E6%B0%91%E4%B8%8E%E6%89%B9%E8%AF%84%E4%BC%A6%E7%90%86-%E7%AE%80%E8%AF%84-%E5%8C%97%E5%A4%A7%E7%9A%84%E6%96%87%E6%98%8E%E5%AE%9A%E4%BD%8D%E4%B8%8E%E8%87%AA%E6%88%91%E8%83%8C%E5%8F%9B/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2014-07-31/Pleco_Building_a_Business_not_an_App/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2014-08-04/%E5%85%AB%E5%8D%A6%E4%B8%80%E4%B8%8B%E5%91%A8%E6%B0%B8%E5%BA%B7%E9%82%A3%E4%BA%9B%E7%A0%B4%E4%BA%8B%E5%84%BF-%E4%BB%96%E7%9A%84%E5%AE%B6%E6%97%8F-%E6%9C%8B%E5%85%9A-%E7%94%9F%E6%84%8F-%E6%83%85%E5%A6%87-%E5%A4%9A%E5%9B%BE/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2014-07-28/%E5%88%86%E4%BA%AB%E5%90%84%E7%B1%BB%E7%94%B5%E5%AD%90%E4%B9%A6-%E5%BF%83%E7%90%86%E5%AD%A6-%E6%94%BF%E6%B2%BB-%E5%8E%86%E5%8F%B2-22%E6%9C%AC/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2014-07-31/%E6%B2%88%E6%98%8E-%E8%87%AA%E6%88%91%E6%AE%96%E6%B0%91%E4%B8%8E%E6%89%B9%E8%AF%84%E4%BC%A6%E7%90%86-%E7%AE%80%E8%AF%84-%E5%8C%97%E5%A4%A7%E7%9A%84%E6%96%87%E6%98%8E%E5%AE%9A%E4%BD%8D%E4%B8%8E%E8%87%AA%E6%88%91%E8%83%8C%E5%8F%9B/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2014-07-31/Pleco_Building_a_Business_not_an_App/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<编程随想>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2014-08-04/%E5%85%AB%E5%8D%A6%E4%B8%80%E4%B8%8B%E5%91%A8%E6%B0%B8%E5%BA%B7%E9%82%A3%E4%BA%9B%E7%A0%B4%E4%BA%8B%E5%84%BF-%E4%BB%96%E7%9A%84%E5%AE%B6%E6%97%8F-%E6%9C%8B%E5%85%9A-%E7%94%9F%E6%84%8F-%E6%83%85%E5%A6%87-%E5%A4%9A%E5%9B%BE/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<编程随想>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2014-07-28/%E5%88%86%E4%BA%AB%E5%90%84%E7%B1%BB%E7%94%B5%E5%AD%90%E4%B9%A6-%E5%BF%83%E7%90%86%E5%AD%A6-%E6%94%BF%E6%B2%BB-%E5%8E%86%E5%8F%B2-22%E6%9C%AC/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

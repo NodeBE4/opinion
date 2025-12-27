@@ -1,0 +1,3024 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>The 2023 Stratechery Year in Review – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+The 2023 Stratechery Year in Review
+——
+" />
+    <meta property="og:description" content="
+The 2023 Stratechery Year in Review
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="The 2023 Stratechery Year in Review" />
+    <meta property="twitter:title" content="The 2023 Stratechery Year in Review" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2023%2Fthe-2023-stratechery-year-in-review%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2023/the-2023-stratechery-year-in-review/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2023/the-2023-stratechery-year-in-review/&text=The 2023 Stratechery Year in Review&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2023/the-2023-stratechery-year-in-review/&title=The 2023 Stratechery Year in Review" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2023/the-2023-stratechery-year-in-review/&title=The 2023 Stratechery Year in Review" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=The 2023 Stratechery Year in Review&body=
+The 2023 Stratechery Year in Review
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2023/the-2023-stratechery-year-in-review/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2023/the-2023-stratechery-year-in-review/&title=The 2023 Stratechery Year in Review&caption=
+The 2023 Stratechery Year in Review
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=The 2023 Stratechery Year in Review&url=https://stratechery.com/2023/the-2023-stratechery-year-in-review/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>The 2023 Stratechery Year in Review</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2023-12-21
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2023/the-2023-stratechery-year-in-review/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1703158987000-->
+<p><a href="https://stratechery.com/2023/the-2023-stratechery-year-in-review/">The 2023 Stratechery Year in Review</a>
+——</p>
+
+<div>
+  <p>It has been over a decade of Stratechery; this is the 11th Year in Review I have published. You can find previous years here:</p>
+  <div align="center">
+<a href="https://stratechery.com/2022/the-2022-stratechery-year-in-review/">2022</a> | <a href="https://stratechery.com/2021/the-2021-stratechery-year-in-review/">2021</a> | <a href="https://stratechery.com/2020/the-2020-stratechery-year-in-review/">2020</a> | <a href="https://stratechery.com/2019/the-2019-stratechery-year-in-review/">2019</a> | <a href="https://stratechery.com/2018/the-2018-stratechery-year-in-review/">2018</a> | <a href="https://stratechery.com/2017/the-2017-stratechery-year-in-review/">2017</a> | <a href="https://stratechery.com/2016/the-2016-stratechery-year-in-review/">2016</a> | <a href="https://stratechery.com/2015/the-stratechery-2015-year-in-review/">2015</a> | <a href="https://stratechery.com/2014/stratechery-2014-year-review/">2014</a> | <a href="http://stratechery.com/2013/stratechery-2013-year-review/">2013</a>
+  </div>
+  <p>I am both proud and grateful to have made it to this milestone. Stratechery has changed my life; I hope it has had some small impact on yours.</p>
+  <p><a href="https://stratechery.com/2023/regretful-accelerationism/"><img fetchpriority="high" decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2023/12/DALL·E-2023-12-05-23.28.26-A-tranquil-real-world-landscape-on-one-side-featuring-a-serene-lake-surrounded-by-lush-greenery-and-a-clear-blue-sky.-On-the-other-side-a-chaotic-di.png?resize=640%2C640&#038;ssl=1" alt="The future with AI" width="640" height="640" class="aligncenter size-full wp-image-12036" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2023/12/DALL·E-2023-12-05-23.28.26-A-tranquil-real-world-landscape-on-one-side-featuring-a-serene-lake-surrounded-by-lush-greenery-and-a-clear-blue-sky.-On-the-other-side-a-chaotic-di.png?w=1024&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/12/DALL·E-2023-12-05-23.28.26-A-tranquil-real-world-landscape-on-one-side-featuring-a-serene-lake-surrounded-by-lush-greenery-and-a-clear-blue-sky.-On-the-other-side-a-chaotic-di.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/12/DALL·E-2023-12-05-23.28.26-A-tranquil-real-world-landscape-on-one-side-featuring-a-serene-lake-surrounded-by-lush-greenery-and-a-clear-blue-sky.-On-the-other-side-a-chaotic-di.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/12/DALL·E-2023-12-05-23.28.26-A-tranquil-real-world-landscape-on-one-side-featuring-a-serene-lake-surrounded-by-lush-greenery-and-a-clear-blue-sky.-On-the-other-side-a-chaotic-di.png?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/12/DALL·E-2023-12-05-23.28.26-A-tranquil-real-world-landscape-on-one-side-featuring-a-serene-lake-surrounded-by-lush-greenery-and-a-clear-blue-sky.-On-the-other-side-a-chaotic-di.png?resize=630%2C630&amp;ssl=1 630w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></a></p>
+  <p>At the beginning of last year’s review I said that the biggest story in tech was the emergence of AI; I can say the exact same thing about 2023, but even more so: 12 of Stratechery’s free Weekly Articles were about AI in some way, shape, or form. The second biggest topic was a Stratechery staple: the evolving content landscape; 2023 was particularly notable, though, for the dramatic shifts that are hitting Hollywood, highlighted by both strikes and the Disney-Charter standoff this fall. There were also big stories about the tech industry itself, from a bank failure to board room drama, and a “vision” of what might come next.</p>
+  <p><a href="https://stratechery.com/2023/apple-vision/"><img decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2023/06/vision-image-6.png?resize=640%2C359&#038;ssl=1" alt="The Vision Pro as consumption device" width="640" height="359" class="aligncenter size-full wp-image-11094" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2023/06/vision-image-6.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/06/vision-image-6.png?resize=300%2C168&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/06/vision-image-6.png?resize=1024%2C574&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/06/vision-image-6.png?resize=768%2C430&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/06/vision-image-6.png?resize=1125%2C630&amp;ssl=1 1125w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></a></p>
+  <p>This year Stratechery published 27 free <a href="https://stratechery.com/category/articles/">Articles</a>, 105 subsriber <a href="https://stratechery.com/category/daily-email/">Updates</a>, and 37 <a href="https://stratechery.com/topic/events/interview/">Interviews</a>. Today, as per tradition, I summarize the most popular and most important posts of the year.</p>
+  <h3 id="the-five-most-viewed-articles">The Five Most-Viewed Articles</h3>
+  <p>The five most-viewed articles on Stratechery according to page views:</p>
+  <ol>
+    <li><a href="https://stratechery.com/2023/from-bing-to-sydney-search-as-distraction-sentient-ai/">From Bing to Sydney</a> — Microsoft launched a new conversational UI in Bing based on GPT-4; I got early access, and discovered Sydney, and had a series of conversations that blew my mind.</li>
+    <li><a href="https://stratechery.com/2023/the-four-horsemen-of-the-tech-recession/">The Four Horsemen of the Tech Recession</a> — Tech is increasingly divorced from the real economy thanks to the COVID hangover and Apple’s App Tracking Transparency.</li>
+    <li><a href="https://stratechery.com/2023/openais-misalignment-and-microsofts-gain/">OpenAI’s Misalignment and Microsoft’s Gain</a> — The end of a dramatic weekend in tech is that OpenAI has split and Microsoft is partnered with one and has hired the other; this is the ultimate failure case of what should have been a for-profit company organized the wrong way.</li>
+    <li><a href="https://stratechery.com/2023/apple-vision/">Apple Vision</a> — Apple Vision is incredibly compelling, first as a product, and second as far as potential use cases. What it says about society, though, is a bit more pessimistic.</li>
+    <li><a href="https://stratechery.com/2023/the-death-of-silicon-valley-bank/">The End of Silicon Valley (Bank)</a> — Silicon Valley Bank bears responsibility for its demise, but it symbolizes a Silicon Valley reality that is very different from the myth — and the ultimate cause is tech itself.</li>
+  </ol>
+  <h3 id="ai-strategy">AI Strategy</h3>
+  <p>Is AI a sustaining technology that makes existing companies stronger, or a disruptive one that leads to new entrants?</p>
+  <ul>
+    <li><a href="https://stratechery.com/2023/ai-and-the-big-five/">AI and the Big Five</a> — Given the success of existing companies with new epochs, the most obvious place to start when thinking about the impact of AI is with the big five: Apple, Amazon, Facebook, Google, and Microsoft.</li>
+    <li><a href="https://stratechery.com/2023/google-i-o-and-the-coming-ai-battles/">Google I/O and the Coming AI Battles</a> — Google A/I suggests that AI is a sustaining innovation for all of Big Tech; that means the real battle will be between incumbents and Big Tech on one side, and open source on the other.</li>
+    <li><a href="https://stratechery.com/2023/windows-and-the-ai-platform-shift/">Windows and the AI Platform Shift</a> — Microsoft argued there is an AI platform shift, and the fact that Windows is interesting again — and that Apple is facing AI-related questions for its newest products — is evidence that is correct.</li>
+    <li><a href="https://stratechery.com/2023/the-openai-keynote/">The OpenAI Keynote</a> — OpenAI’s developer keynote was exciting, both because AI was exciting, and because OpenAI has the potential to be a meaningful consumer tech company.</li>
+    <li><a href="https://stratechery.com/2023/googles-true-moonshot/">Google’s True Moonshot</a> — Google could do more than just win the chatbot war: it is the one company that could make a universal assistant. The question is if the company is willing to risk it all.</li>
+  </ul>
+  <h3 id="ai-questions-and-philosophy">AI Questions and Philosophy</h3>
+  <p>AI doesn’t just raise strategic questions: it raises questions about the nature of computing, the future of society, and what it means to be human.</p>
+  <ul>
+    <li><a href="https://stratechery.com/2023/chatgpt-learns-computing/">ChatGPT Gets a Computer</a> — It’s possible that large language models are more like the human brain than we thought, given that it is about prediction; that is why ChatGPT needs its own computer in the form of plug-ins.</li>
+    <li><a href="https://stratechery.com/2023/ai-nil-and-zero-trust-authenticity/">AI Philosophy</a> — AI-generated content is not going to harm those with the capability of breaking through: it will make them stronger, aided by Zero Trust Authenticity.</li>
+    <li><a href="https://stratechery.com/2023/nvidia-on-the-mountaintop/">Nvidia On the Mountaintop</a> — Nvidia has gone from the valley to the mountain-top in less than a year, thanks to ChatGPT and the frenzy it inspired; whether or not there is a cliff depends on developing new kinds of demand that only GPUs can fulfill.</li>
+    <li><a href="https://stratechery.com/2023/ai-hardware-and-virtual-reality/">AI, Hardware, and Virtual Reality</a> — Defining virtual reality as being about hardware is to miss the point: virtual reality is AI, and hardware is an (essential) means to an end.</li>
+    <li><a href="https://stratechery.com/2023/regretful-accelerationism/">Regretful Accelerationism</a> — The Internet removed constraints from the analog world, and AI is finishing the job. That this may be the final blow for the Internet as a source for truth may ultimately be for the best.</li>
+  </ul>
+  <h3 id="streaming-and-hollywood">Streaming and Hollywood</h3>
+  <p>While the past, present, and future of content has always been a focus of Stratechery, this year felt like a tipping point for Hollywood in particular.</p>
+  <ul>
+    <li><a href="https://stratechery.com/2023/netflixs-new-chapter/">Netflix’s New Chapter</a> — Netflix waited out Blockbuster with better economics, and it’s seeking to do the same with its competitors today; the key to the company’s differentiation, though, is increasingly creativity, not execution.</li>
+    <li><a href="https://stratechery.com/2023/the-unified-content-business-model/">The Unified Content Business Model</a> — Every content company is or should be moving to a model that incorporates both subscriptions and ads; creator platforms should help their publishers do the same.</li>
+    <li><a href="https://stratechery.com/2023/hollywood-on-strike/">Hollywood on Strike</a> — The Hollywood strike is setting talent against studios, but the problem is that both are jointly threatened by the reality of the Internet and zero distribution costs.</li>
+    <li><a href="https://stratechery.com/2023/disneys-taylor-swift-era/">Disney’s Taylor Swift Era</a> — Not even Taylor Swift can fight the devaluation of recorded music, but she makes it up in physical experiences; Disney isn’t much different, but it looks much worse given the company’s old business model.</li>
+    <li><a href="https://stratechery.com/2023/the-rise-and-fall-of-espns-leverage/">The Rise and Fall of ESPN’s Leverage</a> — Charting ESPN’s rise, including how it build leverage over the cable TV providers, and its ongoing decline, caused by the Internet <em>(See also: <a href="https://stratechery.com/2023/charter-disney-winners-and-losers/">Charter-Disney Winners and Losers</a>)</em>.</li>
+  </ul>
+  <h3 id="regulation">Regulation</h3>
+  <p>It is, for better or worse, impossible to cover technology without discussing regulation, and 2023 was no different.</p>
+  <ul>
+    <li><a href="https://stratechery.com/2023/amazon-friction-and-the-ftc/">Amazon, Friction, and the FTC</a> — The FTC’s Amazon complaint raises some fair points in isolation, but misses the bigger picture, both in terms of Amazon specifically and the Internet generally.</li>
+    <li><a href="https://stratechery.com/2023/ftc-sues-amazon-fba-and-prime-pricing-punishment/">FTC Sues Amazon</a> — The FTC is suing Amazon, and some of the complaints are compelling, but ultimately not convincing.</li>
+    <li><a href="https://stratechery.com/2023/china-chips-and-moores-law/">China Chips and Moore’s Law</a> — Moore’s Law is not yet dead, nor is Moore’s Precept, even if AI computes differently. Addressing both is the key to succeeding with the China chip ban.</li>
+    <li><a href="https://stratechery.com/2023/attenuating-innovation-ai/">Attenuating Innovation (AI)</a> — Innovation required humility about the future and openness to what might be possible; Biden’s executive order proscribing AI development is the opposite, blocking progress and hindering the solutions to our greatest challenges.</li>
+  </ul>
+  <p><a href="https://stratechery.com/2023/attenuating-innovation-ai/"><img decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2023/11/attentuatinginnovation-4.png?resize=640%2C640&#038;ssl=1" alt="Photo of a radiant, downscaled city teetering on the brink of an expansive abyss, with a dark, murky quagmire below containing decayed structures reminiscent of historic landmarks. The city is a beacon of the future, with flying cars, green buildings, and residents in futuristic attire. The influence of AI is subtly interwoven, with robots helping citizens and digital screens integrated into the environment. Below, the haunting silhouette of a shoggoth, with its eerie tendrils, endeavors to pull the city into the depths, illustrating the clash between forward-moving evolution and outdated forces." width="640" height="640" class="aligncenter size-full wp-image-11831" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2023/11/attentuatinginnovation-4.png?w=1024&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/11/attentuatinginnovation-4.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/11/attentuatinginnovation-4.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/11/attentuatinginnovation-4.png?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/11/attentuatinginnovation-4.png?resize=630%2C630&amp;ssl=1 630w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></a></p>
+  <h3 id="stratechery-interviews">Stratechery Interviews</h3>
+  <p>Thursdays on Stratechery are for interviews — in podcast and transcript form — with public company executives, founders and private company executives, and other analysts.</p>
+  <p><strong>Public Company Executive Interviews:</strong></p>
+  <p>Nvidia CEO <a href="https://stratechery.com/2023/an-interview-with-nvidia-ceo-jensen-huang-about-ais-iphone-moment/">Jensen Huang</a> | Adobe CSO <a href="https://stratechery.com/2023/an-interview-with-adobe-chief-strategy-officer-scott-belsky/">Scott Belsky</a> | Qualcomm CEO <a href="https://stratechery.com/2023/an-interview-with-qualcomm-ceo-cristiano-amon/">Cristiano Amon</a> | Palantir CTO <a href="https://stratechery.com/2023/an-interview-with-palantir-cto-shyam-sankar-and-head-of-global-commercial-ted-mabrey/">Shyam Sankar</a> | Intel CEO <a href="https://stratechery.com/2023/an-interview-with-intel-ceo-pat-gelsinger-about-intels-progress-towards-process-leadership/">Pat Gelsinger</a> | Roblox CEO <a href="https://stratechery.com/2023/an-interview-with-roblox-ceo-david-baszucki-about-advertising-and-ai/">David Baszucki</a></p>
+  <p><strong>Startup/Private Company Executive Interviews:</strong></p>
+  <p>Artifact founders <a href="https://stratechery.com/2023/an-interview-with-kevin-systrom-and-mike-krieger-about-artifact/">Kevin Systrom and Mike Krieger</a> | Deel founder and CEO <a href="https://stratechery.com/2023/an-interview-with-deel-co-founder-and-ceo-alex-bouaziz/">Alex Bouaziz</a> | Ringer founder and CEO <a href="https://stratechery.com/2023/an-interview-with-the-ringer-founder-and-ceo-bill-simmons/">Bill Simmons</a> | Replika founder and CEO <a href="https://stratechery.com/2023/an-interview-with-replika-founder-and-ceo-eugenia-kuyda/">Eugenia Kuyda</a> | DNVR founder <a href="https://stratechery.com/2023/an-interview-with-dnvr-co-founder-adam-mares-about-building-local-internet-businesses/">Adam Mares</a> | Vercel founder and CEO <a href="https://stratechery.com/2023/an-interview-with-vercel-founder-guillermo-rauch/">Guillermo Rauch</a> | Boom founder and CEO <a href="https://stratechery.com/2023/an-interview-with-boom-founder-blake-scholl-about-building-a-supersonic-airliner/">Blake Scholl</a> | Anduril founder and CEO <a href="https://stratechery.com/2023/an-interview-with-anduril-founder-and-ceo-brian-schimpf-about-software-and-the-military/">Brian Schimpf</a> | Former TechCrunch editor-in-chief <a href="https://stratechery.com/2023/an-interview-with-former-techcrunch-editor-in-chief-matthew-panzarino-about-covering-technology/">Matthew Panzarino</a> | WFAN’s <a href="https://stratechery.com/2023/an-interview-with-spike-eskin-about-radio-podcasts-and-internet-stars/">Spike Eskin</a></p>
+  <p><strong>Analysts:</strong></p>
+  <p>Daniel Gross and Nat Friedman on AI in <a href="https://stratechery.com/2023/an-interview-with-daniel-gross-and-nat-friedman-about-the-ai-product-revolution/">March</a>, <a href="https://stratechery.com/2023/an-interview-with-daniel-gross-and-nat-friedman-about-the-ai-hype-cycle/">August</a>, and <a href="https://stratechery.com/2023/an-interview-with-nat-friedman-and-daniel-gross-about-the-human-component-of-ai/">December</a> | Eric Seufert on digital advertising in <a href="https://stratechery.com/2023/an-interview-with-eric-seufert-about-metas-earnings-and-the-google-doj-case/">February</a>, <a href="https://stratechery.com/2023/an-interview-with-eric-seufert-about-streaming-advertising-generative-ai-and-marketing-automation/">May</a> and <a href="https://stratechery.com/2023/an-interview-with-eric-seufert-about-unity-regulation-and-streaming-advertising/">October</a> | Michael Nathanson on Hollywood and streaming in <a href="https://stratechery.com/2023/an-interview-with-michael-nathanson-about-netflix-and-the-media-industry/">January</a> and <a href="https://stratechery.com/2023/an-interview-with-michael-nathanson-about-a-tumultuous-year-in-media/">December</a> | Gregory C. Allen about the China and Chips in <a href="https://stratechery.com/2023/an-interview-with-gregory-c-allen-about-chinas-chip-ban-response/">May</a> and <a href="https://stratechery.com/2023/an-interview-with-gregory-allen-about-the-updated-china-chip-ban/">October</a> | <a href="https://stratechery.com/2023/an-interview-with-the-air-currents-jon-ostrower-about-southwests-meltdown-and-independent-publishing/">Jon Ostrower</a> on the airline industry | <a href="https://stratechery.com/2023/an-interview-with-matthew-ball-about-disney-streaming-and-the-metaverse/">Matthew Ball</a> about streaming and the metaverse | <a href="https://stratechery.com/2023/an-interview-with-john-kosner-about-the-past-and-future-of-sports-in-an-age-of-abundance/">John Kosner</a> about sports | <a href="https://stratechery.com/2023/an-interview-with-chip-war-author-chris-miller/">Chris Miller</a> about Chip War | <a href="https://stratechery.com/2023/an-interview-with-marc-andreessen-about-ai-and-how-you-change-the-world/">Marc Andreessen</a> about AI | <a href="https://stratechery.com/2023/an-interview-with-eugene-wei-about-twitter-threads-and-taylor-swift/">Eugene Wei</a> about social media | <a href="https://stratechery.com/2023/an-interview-with-lisa-ellis-about-payments/">Lisa Ellis</a> about payments | <a href="https://stratechery.com/2023/an-interview-with-doug-olaughlin-and-dylan-patel-about-semiconductors-and-ai/">Doug O’Laughlin and Dylan Patel</a> about semiconductors | <a href="https://stratechery.com/2023/an-interview-with-craig-moffett-about-charter-vs-disney-and-the-path-dependency-of-the-communications-industry/">Craig Moffett</a> about telecommunications | <a href="https://stratechery.com/2023/an-interview-with-bill-bishop-and-andrew-sharp-checking-in-on-china/">Bill Bishop</a> about China</p>
+  <h3 id="the-year-in-stratechery-updates">The Year in Stratechery Updates</h3>
+  <p>Some of my favorite Stratechery Updates:</p>
+  <ul>
+    <li><a href="https://stratechery.com/2023/microsoft-office-ai-copilot-and-techs-two-philosophies-business-chat-and-appropriate-fear/">March 20</a>: Microsoft Office AI, Copilot and Tech’s Two Philosophies, Business Chat and Appropriate Fear</li>
+    <li><a href="https://stratechery.com/2023/the-accidental-consumer-tech-company-chatgpt-meta-and-product-market-fit-aggregation-and-apis/">March 28</a>: The Accidental Consumer Tech Company; ChatGPT, Meta, and Product-Market Fit; Aggregation and APIs</li>
+    <li><a href="https://stratechery.com/2023/substack-notes-twitter-blocks-substack-substack-versus-writers/">April 10</a>: Substack Notes, Twitter Blocks Substack, Substack Versus Writers</li>
+    <li><a href="https://stratechery.com/2023/the-phoenix-suns-go-over-the-air-fans-and-franchise-valuation-attention-and-customer-acquisition/">May 1</a>: The Phoenix Suns Go Over-the-Air, Fans and Franchise Valuation, Attention and Customer Acquisition</li>
+    <li><a href="https://stratechery.com/2023/shopify-exits-logistics-the-shopify-logistics-side-quest-whither-buy-with-prime/">May 8</a>: Shopify Exits Logistics, The Shopify Logistics Side Quest, Whither Buy with Prime</li>
+    <li><a href="https://stratechery.com/2023/free-meta-open-sources-another-ai-model-moats-and-open-source-apple-and-meta/">May 10</a>: Meta Open Sources Another AI Model, Moats and Open Source, Apple and Meta</li>
+    <li><a href="https://stratechery.com/2023/reddit-revolt-apollo-and-reddits-changes-complement-complaints/">June 12</a>: Reddit Revolt, Apollo and Reddit’s Changes, Complement Complaints</li>
+    <li><a href="https://stratechery.com/2023/ev-charging-standards-teslas-strategy-teslas-reward/">June 21</a>: EV Charging Standards, Tesla’s Strategy, Tesla’s Reward</li>
+    <li><a href="https://stratechery.com/2023/starlink-solution-starlink-experience-starlink-implications/">June 28</a>: Starlink Solution, Starlink Experience, Starlink Implications</li>
+    <li><a href="https://stratechery.com/2023/microsoft-can-acquire-activision-the-ftc-vs-the-record-the-ftcs-failed-vendetta/">July 12</a>: Microsoft Can Acquire Activision, The FTC vs. the Record, The FTC’s Failed Vendetta</li>
+    <li><a href="https://stratechery.com/2023/adyen-earnings-adyens-european-context-adyen-vs-stripe/">August 21</a>: Adyen Earnings, Adyen’s European Context, Adyen vs. Stripe</li>
+    <li><a href="https://stratechery.com/2023/amazon-and-shopify-shopify-and-its-merchants-the-payments-question/">September 6</a>: Amazon and Shopify, Shopify and Its Merchants, The Payments Question</li>
+    <li><a href="https://stratechery.com/2023/the-huawei-mate-60-pro-7nm-background-implications-and-reactions/">September 11</a>: The Huawei Mate 60 Pro, 7nm Background, Implications and Reactions</li>
+    <li><a href="https://stratechery.com/2023/unitys-business-model-change-unitys-strategy-unity-leadership-questions/">September 18</a>: Unity’s Business Model Change, Unity’s Strategy, Unity Leadership Questions</li>
+    <li><a href="https://stratechery.com/2023/spotify-subscription-audiobooks-casual-fans-and-bundles-spotifys-goals/">October 4</a>: Spotify Subscription Audiobooks, Casual Fans and Bundles, Spotify’s Goals</li>
+    <li><a href="https://stratechery.com/2023/realtors-lose-in-court-zillow-and-real-estate-aggregation-from-franchises-to-businesses/">November 8</a>: Realtors Lose in Court, Zillow and Real Estate Aggregation, From Franchises to Businesses</li>
+    <li><a href="https://stratechery.com/2023/disney-earnings-disney-3-0-streaming-and-sports/">November 13</a>: Disney Earnings, Disney 3.0, Streaming and Sports</li>
+    <li><a href="https://stratechery.com/2023/the-college-football-playoff-events-over-inventory-nascars-new-deal/">December 4</a>: The College Football Playoff, Events Over Inventory, NASCAR’s New Deal</li>
+    <li><a href="https://stratechery.com/2023/google-loses-antitrust-case-to-epic-the-differences-between-apple-and-google-revisited-the-tying-question/">December 12</a>: Google Loses Antitrust Case to Epic; The Differences Between Apple and Google, Revisited; The Tying Question</li>
+    <li><a href="https://stratechery.com/2023/netflixs-data-drop-power-laws-netflixs-motivations/">December 13</a>: Netflix’s Data Drop, Power Laws, Netflix’s Motivations</li>
+  </ul>
+  <p><a href="https://stratechery.com/2023/the-unified-content-business-model/"><img loading="lazy" decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2023/05/unifiedcontent-2.png?resize=640%2C401&#038;ssl=1" alt="A drawing of The NBA&#039;s Hole in the Funnel" width="640" height="401" class="aligncenter size-full wp-image-10906" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2023/05/unifiedcontent-2.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/05/unifiedcontent-2.png?resize=300%2C188&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/05/unifiedcontent-2.png?resize=1024%2C642&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/05/unifiedcontent-2.png?resize=768%2C481&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/05/unifiedcontent-2.png?resize=1005%2C630&amp;ssl=1 1005w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></a></p>
+  <p>I am so grateful to the subscribers that make it possible for me to do this as a job. I wish all of you a Merry Christmas and Happy New Year, and I’m looking forward to a great 2024!</p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2024-01-08</time>
+        <a href="https://nodebe4.github.io/opinion/2024-01-08/The-New-York-Times-AI-Opportunity/">
+          The New York Times’ AI Opportunity
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-12-22</time>
+        <a href="https://nodebe4.github.io/opinion/2023-12-22/Holiday-Break-December-25th-to-January-5th/">
+          Holiday Break: December 25th to January 5th
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-12-18</time>
+        <a href="https://nodebe4.github.io/opinion/2023-12-18/Google-s-True-Moonshot/">
+          Google’s True Moonshot
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-12-05</time>
+        <a href="https://nodebe4.github.io/opinion/2023-12-05/Regretful-Accelerationism/">
+          Regretful Accelerationism
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2023-12-20/%E6%84%9B%E5%9C%A8%E5%B7%A6%E5%8F%B3-SEN-Free-%E9%81%8B%E5%8B%95%E7%8F%AD-%E7%B5%A6-SEN-%E6%88%90%E5%B9%B4%E4%BA%BA%E4%B8%80%E5%80%8B-%E5%8B%95-%E8%9E%8D-%E6%A9%9F%E6%9C%83/">
+            前一篇：【愛在左右】SEN Free 運動班，給 SEN 成年人一個「動」「融」機會
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2023-12-22/Holiday-Break-December-25th-to-January-5th/">
+            後一篇：Holiday Break: December 25th to January 5th
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2023-12-20/%E6%84%9B%E5%9C%A8%E5%B7%A6%E5%8F%B3-SEN-Free-%E9%81%8B%E5%8B%95%E7%8F%AD-%E7%B5%A6-SEN-%E6%88%90%E5%B9%B4%E4%BA%BA%E4%B8%80%E5%80%8B-%E5%8B%95-%E8%9E%8D-%E6%A9%9F%E6%9C%83/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2023-12-22/Holiday-Break-December-25th-to-January-5th/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2023-12-22/Holiday-Break-December-25th-to-January-5th/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2023-12-18/Google-s-True-Moonshot/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2023-12-20/%E6%84%9B%E5%9C%A8%E5%B7%A6%E5%8F%B3-SEN-Free-%E9%81%8B%E5%8B%95%E7%8F%AD-%E7%B5%A6-SEN-%E6%88%90%E5%B9%B4%E4%BA%BA%E4%B8%80%E5%80%8B-%E5%8B%95-%E8%9E%8D-%E6%A9%9F%E6%9C%83/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2023-12-22/Holiday-Break-December-25th-to-January-5th/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2023-12-22/Holiday-Break-December-25th-to-January-5th/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2023-12-18/Google-s-True-Moonshot/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

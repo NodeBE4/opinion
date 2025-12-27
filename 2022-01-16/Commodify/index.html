@@ -1,0 +1,2482 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Commodify在2022-01-10~2022-01-16的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Commodify在2022-01-10~2022-01-16的言论" />
+    <meta property="twitter:title" content="Commodify在2022-01-10~2022-01-16的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FCredibleDefense%2Fcomments%2Fs157m8%2Fis_it_logistically_feasible_for_the_russian%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/CredibleDefense/comments/s157m8/is_it_logistically_feasible_for_the_russian/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/CredibleDefense/comments/s157m8/is_it_logistically_feasible_for_the_russian/&text=Commodify在2022-01-10~2022-01-16的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/CredibleDefense/comments/s157m8/is_it_logistically_feasible_for_the_russian/&title=Commodify在2022-01-10~2022-01-16的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/CredibleDefense/comments/s157m8/is_it_logistically_feasible_for_the_russian/&title=Commodify在2022-01-10~2022-01-16的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Commodify在2022-01-10~2022-01-16的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/CredibleDefense/comments/s157m8/is_it_logistically_feasible_for_the_russian/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/CredibleDefense/comments/s157m8/is_it_logistically_feasible_for_the_russian/&title=Commodify在2022-01-10~2022-01-16的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Commodify在2022-01-10~2022-01-16的言论&url=https://old.reddit.com/r/CredibleDefense/comments/s157m8/is_it_logistically_feasible_for_the_russian/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Commodify在2022-01-10~2022-01-16的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-01-16
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Commodify</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/CredibleDefense/comments/s157m8/is_it_logistically_feasible_for_the_russian/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#22-is-it-logistically-feasible-for-the-russian-military-to-indefinitely-cordon-off-ukraines-land-borders-without-taking-lviv-or-committing-to-other-equivalently-high-risk-areas-of-occupation-submitted-on-2022-01-11-1325210800" id="markdown-toc-22-is-it-logistically-feasible-for-the-russian-military-to-indefinitely-cordon-off-ukraines-land-borders-without-taking-lviv-or-committing-to-other-equivalently-high-risk-areas-of-occupation-submitted-on-2022-01-11-1325210800">22: Is it logistically feasible for the Russian military to indefinitely cordon off Ukraine’s land borders without taking Lviv or committing to other equivalently high-risk areas of occupation?, submitted on 2022-01-11 13:25:21+08:00.</a></li>
+  <li><a href="#23-what-tactics-andor-strategies-would-have-been-most-suited-towards-the-firearms-used-during-the-civil-war-submitted-on-2022-01-12-0541440800" id="markdown-toc-23-what-tactics-andor-strategies-would-have-been-most-suited-towards-the-firearms-used-during-the-civil-war-submitted-on-2022-01-12-0541440800">23: What tactics and/or strategies would have been most suited towards the firearms used during the Civil War?, submitted on 2022-01-12 05:41:44+08:00.</a></li>
+  <li><a href="#24-aside-from-the-nuking-of-hiroshima-and-nagasaki-what-were-the-biggest-factors-that-contributed-to-japans-loss-in-wwii-submitted-on-2022-01-12-2205210800" id="markdown-toc-24-aside-from-the-nuking-of-hiroshima-and-nagasaki-what-were-the-biggest-factors-that-contributed-to-japans-loss-in-wwii-submitted-on-2022-01-12-2205210800">24: Aside from the nuking of Hiroshima and Nagasaki, what were the biggest factors that contributed to Japan’s loss in WWII?, submitted on 2022-01-12 22:05:21+08:00.</a></li>
+  <li><a href="#25-how-did-austria-go-from-a-first-to-a-third-rate-military-power-submitted-on-2022-01-13-0046200800" id="markdown-toc-25-how-did-austria-go-from-a-first-to-a-third-rate-military-power-submitted-on-2022-01-13-0046200800">25: How did Austria go from a first to a third rate military power?, submitted on 2022-01-13 00:46:20+08:00.</a></li>
+  <li><a href="#26-would-leningrad-have-fallen-if-the-finns-assaulted-it-from-the-north-submitted-on-2022-01-13-1627450800" id="markdown-toc-26-would-leningrad-have-fallen-if-the-finns-assaulted-it-from-the-north-submitted-on-2022-01-13-1627450800">26: Would Leningrad have fallen if the Finns assaulted it from the North?, submitted on 2022-01-13 16:27:45+08:00.</a></li>
+  <li><a href="#27-why-russia-fears-nato-submitted-on-2022-01-13-1727300800" id="markdown-toc-27-why-russia-fears-nato-submitted-on-2022-01-13-1727300800">27: Why Russia fears Nato, submitted on 2022-01-13 17:27:30+08:00.</a></li>
+  <li><a href="#28-why-is-no-one-buying-modern-chinese-fighter-jets-submitted-on-2022-01-13-2024210800" id="markdown-toc-28-why-is-no-one-buying-modern-chinese-fighter-jets-submitted-on-2022-01-13-2024210800">28: Why is no one buying modern Chinese fighter jets?, submitted on 2022-01-13 20:24:21+08:00.</a></li>
+  <li><a href="#29-did-isis-and-its-constituent-groups-have-any-particular-combat-prowess-or-decisive-edge-that-enabled-its-initial-victories-or-was-it-a-case-of-zealous-fighters-attacking-uncommitted-forces-submitted-on-2022-01-14-0211500800" id="markdown-toc-29-did-isis-and-its-constituent-groups-have-any-particular-combat-prowess-or-decisive-edge-that-enabled-its-initial-victories-or-was-it-a-case-of-zealous-fighters-attacking-uncommitted-forces-submitted-on-2022-01-14-0211500800">29: Did ISIS and its constituent groups have any particular combat prowess or decisive edge that enabled its initial victories, or was it a case of zealous fighters attacking uncommitted forces?, submitted on 2022-01-14 02:11:50+08:00.</a></li>
+  <li><a href="#30-us-intelligence-indicates-russia-preparing-operation-to-justify-invasion-of-ukraine-submitted-on-2022-01-14-2316020800" id="markdown-toc-30-us-intelligence-indicates-russia-preparing-operation-to-justify-invasion-of-ukraine-submitted-on-2022-01-14-2316020800">30: US intelligence indicates Russia preparing operation to justify invasion of Ukraine, submitted on 2022-01-14 23:16:02+08:00.</a></li>
+  <li><a href="#31-washingtons-missing-china-strategy-to-counter-beijing-the-biden-administration-needs-to-decide-what-it-wants-submitted-on-2022-01-15-0001360800" id="markdown-toc-31-washingtons-missing-china-strategy-to-counter-beijing-the-biden-administration-needs-to-decide-what-it-wants-submitted-on-2022-01-15-0001360800">31: Washington’s Missing China Strategy: To Counter Beijing, the Biden Administration Needs to Decide What It Wants, submitted on 2022-01-15 00:01:36+08:00.</a></li>
+  <li><a href="#32-the-byzantines-john-ii-komnenos-and-his-son-manuel-were-remarkably-successful-at-war-after-a-long-period-of-byzantine-losses-their-troops-were-competent-they-recaptured-cities-and-they-regularly-beat-the-mounted-turks-whod-often-bested-their-predecessors-what-was-their-secret-submitted-on-2022-01-15-0618300800" id="markdown-toc-32-the-byzantines-john-ii-komnenos-and-his-son-manuel-were-remarkably-successful-at-war-after-a-long-period-of-byzantine-losses-their-troops-were-competent-they-recaptured-cities-and-they-regularly-beat-the-mounted-turks-whod-often-bested-their-predecessors-what-was-their-secret-submitted-on-2022-01-15-0618300800">32: The Byzantines John II Komnenos and his son Manuel were remarkably successful at war after a long period of Byzantine losses. Their troops were competent, they recaptured cities, and they regularly beat the mounted Turks who’d often bested their predecessors. What was their secret?, submitted on 2022-01-15 06:18:30+08:00.</a></li>
+  <li><a href="#33-how-importantly-did-the-japanese-view-the-solomon-islands-campaign-guadalcanal-and-onward-contradictory-data-points-and-behaviour-submitted-on-2022-01-16-1357390800" id="markdown-toc-33-how-importantly-did-the-japanese-view-the-solomon-islands-campaign-guadalcanal-and-onward-contradictory-data-points-and-behaviour-submitted-on-2022-01-16-1357390800">33: How importantly did the Japanese view the Solomon Islands campaign (Guadalcanal and onward)? Contradictory data points and behaviour…, submitted on 2022-01-16 13:57:39+08:00.</a></li>
+  <li><a href="#34-in-the-event-of-a-full-scale-invasion-of-ukraine-how-would-chernobyl-factor-into-troops-movements-what-are-the-risks-involved-if-the-sarcophagus-surrounding-it-were-to-be-accidentally-damaged-submitted-on-2022-01-16-1940240800" id="markdown-toc-34-in-the-event-of-a-full-scale-invasion-of-ukraine-how-would-chernobyl-factor-into-troops-movements-what-are-the-risks-involved-if-the-sarcophagus-surrounding-it-were-to-be-accidentally-damaged-submitted-on-2022-01-16-1940240800">34: In the event of a full scale invasion of Ukraine, how would Chernobyl factor into troops movements? What are the risks involved if the sarcophagus surrounding it were to be accidentally damaged?, submitted on 2022-01-16 19:40:24+08:00.</a></li>
+</ul>
+
+<h3 id="22-is-it-logistically-feasible-for-the-russian-military-to-indefinitely-cordon-off-ukraines-land-borders-without-taking-lviv-or-committing-to-other-equivalently-high-risk-areas-of-occupation-submitted-on-2022-01-11-1325210800">22: <a href="https://old.reddit.com/r/CredibleDefense/comments/s157m8/is_it_logistically_feasible_for_the_russian/">Is it logistically feasible for the Russian military to indefinitely cordon off Ukraine’s land borders without taking Lviv or committing to other equivalently high-risk areas of occupation?</a>, submitted on 2022-01-11 13:25:21+08:00.</h3>
+
+<p>—– <strong>22.1</strong> —–2022-01-13 00:40:33+08:00:</p>
+
+<p>No not really. Lviv is very close to the Polish border, and by avoiding urban combat I presume you mean avoiding Kiev, Zaphorozia, etc. These are all the main transportation junctions over the Dnieper, so if the Russians don’t take them, they can say goodbye to any chance of effectively occupying Ukraine. If Russia tries to invade West of the Dnieper through Belarus, they can do this - but only with a small force, and supplying it indefinitely this way is impossible. This is because that territory is the Pripyat Marshes and is infrastructurally poor. Finally, Odessa is very close to the border of Romania, another NATO member, and is flanked by ravines that easily enable smuggling to the West. Lastly the whole idea is a recipe for defeat. Cities are logistical centers from which it is easy to strike out in any direction. By cutting up their forces and trying to avoid them, Russia is just opening itself up to defeat in detail.</p>
+
+<p>—– <strong>22.2</strong> —–2022-01-14 03:32:07+08:00:</p>
+
+<p>Right, and the answer to that is no because they need the roads going through Lviv and a supply route besides the Pripyat Marshes to do that.</p>
+
+<h3 id="23-what-tactics-andor-strategies-would-have-been-most-suited-towards-the-firearms-used-during-the-civil-war-submitted-on-2022-01-12-0541440800">23: <a href="https://old.reddit.com/r/WarCollege/comments/s1og8j/what_tactics_andor_strategies_would_have_been/">What tactics and/or strategies would have been most suited towards the firearms used during the Civil War?</a>, submitted on 2022-01-12 05:41:44+08:00.</h3>
+
+<p>—– <strong>23.1</strong> —–2022-01-12 12:49:13+08:00:</p>
+
+<p>This is the most common myth of the war. Civil war soldiers did shoot in skirmish lines and did make use of fences and earthworks for cover. When they didn’t, it wasn’t as bad as you’d think. While the Springfield could shoot effectively at over 300 yards, most soldiers on both sides were incapable of aiming effectively above half that range. This was especially in the case in duels between battalions, where the smoke from black powder blinded both sides and made further fire ineffectual. Finally, massed fires were still useful and effective, which is why they were used. It’s easier for an officer to supervise a mass than a skirmish line, and to force it forward. Just as importantly, to actually break through the enemy you had to do more than just fire at them sporadically from a skirmish line. Concentrated volleys of huge numbers of men were required to inflict the most death in the least amount of time, shatter enemy morale, and break him.</p>
+
+<h3 id="24-aside-from-the-nuking-of-hiroshima-and-nagasaki-what-were-the-biggest-factors-that-contributed-to-japans-loss-in-wwii-submitted-on-2022-01-12-2205210800">24: <a href="https://old.reddit.com/r/WarCollege/comments/s270zk/aside_from_the_nuking_of_hiroshima_and_nagasaki/">Aside from the nuking of Hiroshima and Nagasaki, what were the biggest factors that contributed to Japan’s loss in WWII?</a>, submitted on 2022-01-12 22:05:21+08:00.</h3>
+
+<p>—– <strong>24.1</strong> —–2022-01-12 23:32:55+08:00:</p>
+
+<p>That’s not really true - in late 1942, <em>Enterprise</em> was the only American carrier still working in the Pacific. America’s vast industrial capacity allowed it not only to produce more carriers over the course of the war than Japan produced ships, but also, in the first and second year, quickly repair ships that had been severely damaged.</p>
+
+<p>—– <strong>24.2</strong> —–2022-01-13 00:13:58+08:00:</p>
+
+<p>As u/MaterialCarrot mentioned the biggest thing was the industrial capacity, but there were a lot of other issues. They all stem from one basic problem: the Japanese navy did what it was supposed to do very well. However, what it was supposed to do was not enough to win the war, something which conventional wisdom at the time was not aware of.</p>
+
+<p>The dominant influence on naval doctrine worldwide before 1945 was Alfred Thayer Mahan, whose <em>Influence of Sea Power Upon World History</em> documented more than a century of naval engagements and their strategic consequences. The big takeaways from the book are that:</p>
+
+<ol>
+  <li>He who controls the sea controls trade and military transport. This allows them to concentrate land forces in superior proportions wherever.</li>
+  <li>Fleets benefit from concentration of force to an absurd degree.</li>
+  <li>Fleets are confined to a few bases - ports and coaling stations. They <em>can</em> be chased down and destroyed either by intercepting them en route to a coaling station or blockading them in port.</li>
+</ol>
+
+<p>Japan applied these lessons very well in 1905. First, they quarantined the Russian fleet in Lushun and stopped their breakout. Then, they focused their early operations entirely around taking the port and destroying the fleet, which they eventually managed to do in history’s first large-scale indirect artillery bombardment. Then, they knew exactly where the Russian reinforcement fleet would be traveling: it had to make it to Vladivostok, so it could be intercepted in the Strait of Tsushima. During that war, the Japanese also developed their own advantages like the most intense gunnery training in the world and night attacks.</p>
+
+<p>By the 1930s, the Japanese were convinced - and for good reason - that they had the best “decisive battle” fleet in the world. Their ships were innovative and their gunnery, torpedo, and pilots had no rivals. Every ounce of effort poured into the IJN was focused on building this “knockout fleet” that would wipe out the ABDA (America, Britain, Dutch, Australia) fleets in the opening phase of a war, and they did. After Pearl Harbor, Surabaya, the Indian Ocean Raid, and the Guadalcanal campaign, there was only a single allied fleet carrier still operating in the Pacific and Indian Ocean. By late 1942 the Japanese were so convinced that they had won that the cabinet approved a list of “non-negotiable” demands including much of the West Coast of the United States.</p>
+
+<p>The problem was they hadn’t. Prewar conventional wisdom held that navies “took a long time to build and repair”, so the outcome of the Mahanian decisive battle was more or less permanent. And it wasn’t just the Japanese that thought this - the caution bordering on cowardice of both the Royal Navy and German High Seas Fleet in World War 1 (in stark contrast to the recklessness with which both countries handled their armies) was testament to the fact that admirals thought their ships were irreplaceable. But the world’s admiralty had yet to become well acquainted with the American industrial base. The rapid rate of construction and repair in the USN allowed the force to wage history’s first “attritional naval war”, and this kind of war the IJN was completely unsuited to fight.</p>
+
+<p>Since the IJN focused everything on an early war knockout blow, its ASW capabilities were miserable. Japanese shipping was so ravaged by the war that, even without any sort of allied naval blockade of Japan, it was losing 10 times more troops in the Pacific to starvation and disease than to combat. Since the pilot training program was so rigorous and had an absurd wash out rate, Japan was also not able to replace its pilots and was eventually sending men who could barely take off to the carriers. Finally, their obsession with decisive battle led them to see the necessary as possible and ignore all evidence of the opposite. This culminated in the Battle of Midway, which, while not as decisive as earlier historians liked to claim (as mentioned, the Japanese made a strong recovery in the last months of 1942 and <em>did</em> disable the American carrier fleet), was nevertheless a disaster. All Japanese simulations prior to the battle assumed they, not the Americans, would have the element of surprise. They further refused to consider the possibility their codes had been breached, that was “impossible”, because no one wanted to think about it. Finally, on the day of the battle itself, the Japanese barely did any scouting, because reconnaissance was “unmanly” and would diminish the element of surprise.</p>
+
+<p>The sole focus on decisive battle also had a detrimental effect on design choices. The Japanese philosophy on war was essentially to turn every battle into a knife fight - to get in close, turn the battle into chaos, and simply be better at managing that chaos. To that end, their ships and planes both de-prioritized armor and damage control in favor of speed, range, and maneuverability.</p>
+
+<p>As for the army, it did well and probably couldn’t have done any better. Phillips Payson O’Brien puts forward the argument that Japan and Manchukuo combined had equal war industrial capacity to the USSR (Manchukuo’s heavy industrial base was greater than Japan’s itself), but most of this was diverted to ships and aircraft. As a result, the army was always under-equipped and had to fight unconventionally. From 1931 to 1941 they developed an “anti-Soviet” doctrine relying on aggressive and unconventional infantry maneuver, which happened to work even better in the jungles of Southeast Asia. The sole major failure of the army during the war - the 1944 Imphal Offensive - was essentially pre-determined by the fact that naval logistics had collapsed. Without extensive supplies of their own, the IJA was doomed to depend on the enemy’s. The British, having finally learned the lesson of all the previous campaigns, kept those well in the rear. Unlike the navy, which got progressively more delusional as the war went on, the army also constantly improved throughout the war: Ichi-Go and Iwo Jima reflected the pinnacle of their capabilities on land, while the IJA Air Force was still maintaining a favorable loss rate in 1945.</p>
+
+<p>—– <strong>24.3</strong> —–2022-01-13 00:22:37+08:00:</p>
+
+<p>Like what? By late 1942 the IJA was rapidly advancing and the IJN had significant superiority in the Pacific. Japanese leaders remained convinced the war was going well until the Saipan campaign, because according to conventional wisdom, it was: “fleets took a long time to build and repair” so eliminating the ABDA battleship row and carriers in 1942 meant it was only a matter of time until they won.</p>
+
+<p>In hindsight we know that the American industrial capacity meant the war was <em>never</em> winnable, but no one, and I mean no one, knew that at the time. We are still very bad at projecting the effects of industry on wars today: nearly all analyses of war between Russia and NATO or the US and China, for example, focus only on what is available in each country’s arsenal <em>now</em> and not what will become available with all hands on deck production. NATO has a significant industrial advantage over Russia, and China has an overwhelming industrial advantage over the US &amp; allies, but you don’t see anyone forecasting a four-year attritional naval war in the Pacific.</p>
+
+<p>—– <strong>24.4</strong> —–2022-01-13 01:07:59+08:00:</p>
+
+<p>By then they had essentially won in China. A US commission delivering a report on the frontline in China in 1944 reported that a “de facto ceasefire” had effectively existed between the IJA and KMT since 1941 and trade was being conducted cross-border. There was very little awareness on all sides of the decisive impact of industry in naval wars - I would argue there is still no such awareness today.</p>
+
+<p>—– <strong>24.5</strong> —–2022-01-13 13:51:31+08:00:</p>
+
+<p>By how many capital ships they had operational vs. how many their enemies did.</p>
+
+<h3 id="25-how-did-austria-go-from-a-first-to-a-third-rate-military-power-submitted-on-2022-01-13-0046200800">25: <a href="https://old.reddit.com/r/WarCollege/comments/s2aqnm/how_did_austria_go_from_a_first_to_a_third_rate/">How did Austria go from a first to a third rate military power?</a>, submitted on 2022-01-13 00:46:20+08:00.</h3>
+
+<p>—– <strong>25.1</strong> —–2022-01-13 03:22:20+08:00:</p>
+
+<p>I’ve heard this argument before and it makes sense, but it’s undermined by the counterexample of France. France had roughly the same population and GDP of Austria-Hungary in 1914, yet it was definitely the Entente MVP during the war.</p>
+
+<p>—– <strong>25.2</strong> —–2022-01-13 22:34:19+08:00:</p>
+
+<p>Thanks I’ll take a look</p>
+
+<h3 id="26-would-leningrad-have-fallen-if-the-finns-assaulted-it-from-the-north-submitted-on-2022-01-13-1627450800">26: <a href="https://old.reddit.com/r/WarCollege/comments/s2ul94/would_leningrad_have_fallen_if_the_finns/">Would Leningrad have fallen if the Finns assaulted it from the North?</a>, submitted on 2022-01-13 16:27:45+08:00.</h3>
+
+<p>—– <strong>26.1</strong> —–2022-01-13 22:38:18+08:00:</p>
+
+<p>No because there wouldn’t have been a German assault no matter the conditions. Hitler’s plan was not to take Leningrad but to starve it to death. It was strategically irrelevant for the Germans since its industrial base was already non-functioning due to the blockade, its forces were not well supplied enough to break out, and it was the site of no transportation network that would be relevant to them. Taking the city would have been a waste of men who were needed in army group center and south.</p>
+
+<p>As for Hitler’s motivations for that policy, it wasn’t just about economy of force, he simply did not want to capture the city with its civilian population living: “After the defeat of Soviet Russia there can be no interest in the continued existence of this large urban centre. […] Following the city’s encirclement, requests for surrender negotiations shall be denied, since the problem of relocating and feeding the population cannot and should not be solved by us. In this war for our very existence, we can have no interest in maintaining even a part of this very large urban population.”</p>
+
+<h3 id="27-why-russia-fears-nato-submitted-on-2022-01-13-1727300800">27: <a href="https://old.reddit.com/r/CredibleDefense/comments/s2vi17/why_russia_fears_nato/">Why Russia fears Nato</a>, submitted on 2022-01-13 17:27:30+08:00.</h3>
+
+<p>—– <strong>27.1</strong> —–2022-01-14 00:15:51+08:00:</p>
+
+<p>This post embodies the exact problem the article is talking about - the US going against its own interests to “stop a bully!” and prevent them from “restricting the sovereignty of other democratic nations”. This is despite the fact that, among European democracies, only the UK and Poland are reliable, useful, and consistent allies for the US. You are really underestimating how big of a problem Russia is as well. American resources are almost evenly split between EMEA and the Pacific right now, this despite the fact that everyone agrees America’s sole competitor is in the Pacific. Russia might not be a very powerful country, but because of their ability to maintain a large army with high readiness (and the EU’s unwillingness to do the same), Russia’s drain on America’s resources is far greater than its share of American GDP.</p>
+
+<p>—– <strong>27.2</strong> —–2022-01-14 00:33:19+08:00:</p>
+
+<p>This is a good podcast, but misses the fact that America has never, can never, and will never base its policy on “realpolitik”. Probably the most famous practitioner of realpolitik in American history - Henry Kissinger - fell from power particularly because that kind of diplomacy was un-American. His last major assignment was to negotiate a settlement to end the Cold War with Gorbachev during the Bush Sr. administration. When he came home with the agreement, it was immediately condemned in the papers as “Yalta II” and his diplomatic career died then and there.</p>
+
+<p>Until 1941, America was a strongly isolationist country. Before Pearl Harbor, more than 80% of Americans were against intervention in either Europe or the Pacific. This wasn’t just Americans sentimentally following the pleas of George Washington. The country was multi-ethnic at the time, and various groups of European immigrants still identified more strongly with their home countries than with the United States. Intervention could literally cause a civil war.</p>
+
+<p>During the war, the power of the military, the military-industrial complex, the state department, and intelligence multiplied. The only way this new establishment could convince Americans to remain engaged in world affairs was to send them on ideological crusades. They wouldn’t be persuaded by arguments that could drive Europeans to war - “we must maintain the balance of power”, “our colonial concessions are at risk”, “Alsace-Lorraine rightfully belongs to us!”, “we must advance our national interests” and so on. They could only be persuaded by the idea that there was a great evil in this world and it was America’s job to defeat it. It’s been that way ever since. Every time the US wants to “pivot” to fight any enemy, state media and the Council on Foreign Relations have to engineer a media campaign for years to drum up public support to confront this new evil. Similarly, every time America wants to turn an enemy into a friend (as in the slow Sino-American detente of the 70s or the attempted and failed American-Iranian detente of the 2010s), the same organs have to run an even longer cycle of plush pieces for that country. The fact that the US so often jeopardizes its own interests for ideological buzzwords isn’t a glitch. It’s a critical part of American diplomacy built into the source code.</p>
+
+<p>—– <strong>27.3</strong> —–2022-01-14 02:23:43+08:00:</p>
+
+<p><em>Why</em> are they your adversary? Because they’re bullying smaller nations? Then the US should be the adversary of every strong country on the planet, including itself.</p>
+
+<p>How is Russia an “existential” threat to the US? I see American posters on these subs throwing that word around all the time without knowing what it means. How could Russia <em>destroy</em> the United States without destroying itself? In order to be an “existential threat”, it needs to have that capability.</p>
+
+<p><em>Past</em> time you treated them as an existential threat? You’ve been treating them as an existential threat since the independence of the Russian Federation, despite the fact that they have exactly zero power projection on your continent and pose no threat to you whatsoever.</p>
+
+<p>Bush promised Gorbachev NATO wouldn’t expand “one mile to the East” if he dismantled the Warsaw Pact. That is the only “breach of good faith” in this relationship. Russia never promised either of the other major powers that it would suddenly stop pursuing its rational interests and interfering in the CIS, nor should either of them care. China has realized this, the US hasn’t, and that’s why, paradoxically, Russia is allied with its nearby rival and not its distant one: because the distant one spends every waking moment trying to destroy the CSTO.</p>
+
+<p>What do you “materially” gain from not messing with Russia? How about 160,000 troops you can now transfer to the Pacific (twice the number you currently have deployed there) - losing almost nothing in the process since <em>zero</em> EU countries have made any commitment to reinforce the US in Asia.</p>
+
+<p>—– <strong>27.4</strong> —–2022-01-14 03:33:35+08:00:</p>
+
+<p>If spreading disinformation was an existential threat, everyone would have collapsed already. Every country with a credible intelligence agency is trying to influence the governments of its allies and rivals, and is spreading dinsinformation on all topics relevant to it. Is the US going to stop spreading disinformation when Russia stops?</p>
+
+<p>—– <strong>27.5</strong> —–2022-01-14 03:44:53+08:00:</p>
+
+<p>Terrorists are just one category of devil. Russians and recently Chinese are 2 others. The American government can’t compromise with Russia until the media “rehabilitates” them: case in point when Trump tried, all the news outlets went on a marathon about Russian human rights violations and how GRU twitter bots were an existential threat to American democracy. As ridiculous as the latter talking point is, it’s fooled probably a majority of the population at this point and there are even posters in this thread talking about how Russia could destroy America with facebook ads and fake social media accounts.</p>
+
+<p>The whole thing at this point is propped up by a feedback loop between the population, which for decades has been told it’s crusading for good, and the many institutions that benefit from finding enemies. The military, intelligence apparatus, the companies that sell them things, and a media that loves scandalous and exciting news all benefit from tensions so they do everything they can to incite them.</p>
+
+<p>It’s completely opposite from the feedback loop that exists everywhere outside the US, UK, and Australia. In most countries - take Russia as an example - the public agrees there are certain “national interests” and the military intervenes to secure those national interests. The public “pushes” the military. If, like in most of the EU, the public is not that nationalistic, the military is simply small. In the US, meanwhile, the military and intelligence “pull” the public. Most Americans would agree the US has nothing material to gain from intervening elsewhere, so, to survive, the security apparatus has to make up apocalyptic threats and convince the public it’s on a quest to transform the world into some democratic, utopian place.</p>
+
+<p>—– <strong>27.6</strong> —–2022-01-14 05:12:01+08:00:</p>
+
+<p>Treat them the same way as everyone else who is spreading disinformation in the United States - every country in the world that has any kind of agenda to push. This includes France, the UK, Taiwan, Turkey, Israel, Saudi Arabia, Pakistan, India, Japan, South Korea, and even Mexico. Many countries on that list are allies of the United States, and the US spreads disinformation in their countries as well. If anyone who lied to you was your adversary you’d have beaten up your entire family a long time ago.</p>
+
+<p>—– <strong>27.7</strong> —–2022-01-14 05:43:33+08:00:</p>
+
+<p>Right, Rammstein base exists to bomb Afghanistan. You’re basically saying there’s no point to having those installations anymore, and you’d be right.</p>
+
+<p>—– <strong>27.8</strong> —–2022-01-14 05:46:06+08:00:</p>
+
+<p>Leave. The US military, despite having the largest budget in the world, is well behind the PLA in procurement dollars only because it has to maintain all these far-flung and unnecessary commitments.</p>
+
+<p>It’s perfectly fine for European countries to ally because they’re afraid of Russia. Let them. But there’s no reason for America to be paying for Europe’s defense at a time when debt is over 130% of GDP.</p>
+
+<p>—– <strong>27.9</strong> —–2022-01-14 06:56:46+08:00:</p>
+
+<p>You can take a break whenever you want. I never implied all the soldiers who were maintaining European commitments would be housed back home. Why would you do that when you can just downsize, especially given that the US military is already having trouble filling recruitment quotas?</p>
+
+<p>It’s your knowledge that’s lacking. China spends about $100,000 per soldier. That’s more than most NATO members, including some Western European members. The US spends over $400,000, but less than 15% of that is going towards paying them.</p>
+
+<p>—– <strong>27.10</strong> —–2022-01-14 06:57:27+08:00:</p>
+
+<p>And the point of that now that the GWOT has ended is… what, exactly?</p>
+
+<p>—– <strong>27.11</strong> —–2022-01-14 10:45:05+08:00:</p>
+
+<p>Yes that’s right</p>
+
+<p>—– <strong>27.12</strong> —–2022-01-14 10:49:19+08:00:</p>
+
+<p>China and Russia will tell you their doctrine is purely defensive too.</p>
+
+<p>Eglin Air Force base is the most reddit addicted “city”.</p>
+
+<p>—– <strong>27.13</strong> —–2022-01-14 23:21:14+08:00:</p>
+
+<p>How do you know the top down organization of the Russian cyber intelligence and implementation of their cyber warfare assets?</p>
+
+<p>—– <strong>27.14</strong> —–2022-01-14 23:21:57+08:00:</p>
+
+<p>Now that’s a good point. The problem is the US is <em>helping</em> the (slowly) rising hegemon in Europe and not undermining it. If the balance of power was all the US cared about, it would be allied with Russia against the EU.</p>
+
+<p>—– <strong>27.15</strong> —–2022-01-14 23:28:44+08:00:</p>
+
+<p>It doesn’t project power globally, only in Europe, and the only purpose of that power projection is to fight Russia,. That all begs the question of what is the point of going to war with a declining country that has no power projection capability in the Americas.</p>
+
+<h3 id="28-why-is-no-one-buying-modern-chinese-fighter-jets-submitted-on-2022-01-13-2024210800">28: <a href="https://old.reddit.com/r/CredibleDefense/comments/s2y9ya/why_is_no_one_buying_modern_chinese_fighter_jets/">Why is no one buying modern Chinese fighter jets?</a>, submitted on 2022-01-13 20:24:21+08:00.</h3>
+
+<p>—– <strong>28.1</strong> —–2022-01-14 00:03:24+08:00:</p>
+
+<p>Russian licenses are the main problem with Chinese jets in particular but the bigger issue is the Chinese defense industry is not export focused. Domestic and export-driven defense industries have different economics. An export-focused major power defense industry like that of Russia today, or France since the 1960s, has to release constant custom models, enter into ToT/co-production arrangements, and set up separate production lines for different users. It all screws up economies of scale and maximizes the threat of tech theft. An internally focused defense industry has one job: pick a few viable models, simplify the supply chain, and produce them as efficiently as possible. This comes at the expense of selling products that never perfectly align with the requirements of customers. The only major customization initiative China has undertaken has been with Pakistan, and that only for strategic reasons to shore up a major ally.</p>
+
+<p>During the Cold War you had the unique case of a domestically oriented defense industry - that of the USSR - becoming a major exporter, but as multiple scholars have pointed out that’s only because it was a “vendor of last resort” for the many countries hostile to the United States &amp; allies who were cut off from alternative supply. Today, that’s not possible with China because there are export-driven vendors on both sides of the new cold war and no one is left in the dark.</p>
+
+<p>As for the reason the Chinese defense industry is internally oriented and will be for decades to come is the state believes major power war can break out at any time. In the PLA the belief that Trump would attack China after losing the 2020 election was so widespread that the chairman of the American JCS had to call them and assure them there were no such plans. The industry can survive without exports because of the constant expansion of the military budget - actually what we’re starting to see now especially with jets and carriers is a failure to keep up with domestic demand.</p>
+
+<p>—– <strong>28.2</strong> —–2022-01-14 05:09:44+08:00:</p>
+
+<p>How do you explain the fact that Turkey, Ethiopia, Iran, Saudi Arabia, UAE, Oman, Kuwait, Jordan, Egypt, and Pakistan all did?</p>
+
+<p>—– <strong>28.3</strong> —–2022-01-14 10:43:21+08:00:</p>
+
+<p>No, only all the countries that had money and weren’t on America’s shitlist</p>
+
+<h3 id="29-did-isis-and-its-constituent-groups-have-any-particular-combat-prowess-or-decisive-edge-that-enabled-its-initial-victories-or-was-it-a-case-of-zealous-fighters-attacking-uncommitted-forces-submitted-on-2022-01-14-0211500800">29: <a href="https://old.reddit.com/r/WarCollege/comments/s35ow7/did_isis_and_its_constituent_groups_have_any/">Did ISIS and its constituent groups have any particular combat prowess or decisive edge that enabled its initial victories, or was it a case of zealous fighters attacking uncommitted forces?</a>, submitted on 2022-01-14 02:11:50+08:00.</h3>
+
+<p>—– <strong>29.1</strong> —–2022-01-14 02:40:53+08:00:</p>
+
+<p>They did. A force with zeal has more tactical options. They can attack deeply and exploit gaps in the surfaces of the enemy force, generating “chaos” in the process. With higher morale, they can survive in chaos for longer and function better. This was the MO of diverse forces throughout history from the Royal Navy in the 18th and early 19th centuries to the Japanese army in its march through Southeast Asia. ISIS was just the most recent expression of this “disruptive” strategy. They displayed all the hallmarks of a disruptive force, using bad weather as cover for an attack, creating “shock weapons” (in their case SVBIEDs), letting reconnaissance “pull” their offensive, and maintaining high operational tempo.</p>
+
+<p>Individually, ISIS fighters, at least in the early phase of the war, were better than the Iraqi army. This is because the Iraqi army rank and file were not the Shi’a “A team”. Both Sunni and Shi’a insurgents had gained practice in small unit tactics and infantry skills fighting the Americans for the better part of a decade. The army, meanwhile, was an upgunned building security force where only a minority of soldiers saw action. Once the government got desperate and called upon the Shi’a insurgents (including the many that laid down their arms after American withdrawal) to go North, the tide turned.</p>
+
+<p>—– <strong>29.2</strong> —–2022-01-14 23:25:32+08:00:</p>
+
+<p>You can become sure by reading accounts of ISIS’s engagements which show all of these things. SVBIEDs were standard everywhere. Their most famous application of weather concealment was taking Ramadi during a sandstorm.</p>
+
+<p>No way Iraq could have been “stabbed in the back” when it purged almost all the Sunnis from any important position.</p>
+
+<p>—– <strong>29.3</strong> —–2022-01-14 23:50:43+08:00:</p>
+
+<p>Wait then why did you say you didn’t think those things were accurate?</p>
+
+<h3 id="30-us-intelligence-indicates-russia-preparing-operation-to-justify-invasion-of-ukraine-submitted-on-2022-01-14-2316020800">30: <a href="https://old.reddit.com/r/worldnews/comments/s3uq20/us_intelligence_indicates_russia_preparing/">US intelligence indicates Russia preparing operation to justify invasion of Ukraine</a>, submitted on 2022-01-14 23:16:02+08:00.</h3>
+
+<p>—– <strong>30.1</strong> —–2022-01-15 02:36:45+08:00:</p>
+
+<p>Trouble is brewing.</p>
+
+<p>It seems that United States of America has decided to back Ukraine in the current crisis.</p>
+
+<h3 id="31-washingtons-missing-china-strategy-to-counter-beijing-the-biden-administration-needs-to-decide-what-it-wants-submitted-on-2022-01-15-0001360800">31: <a href="https://old.reddit.com/r/geopolitics/comments/s3vriu/washingtons_missing_china_strategy_to_counter/">Washington’s Missing China Strategy: To Counter Beijing, the Biden Administration Needs to Decide What It Wants</a>, submitted on 2022-01-15 00:01:36+08:00.</h3>
+
+<p>—– <strong>31.1</strong> —–2022-01-17 07:33:32+08:00:</p>
+
+<p>The problem with the liberal world order is it was enormously destructive for a lot of people, even in the United States. There was never a period where it was delivering prosperity in a uniform manner across the West: some places were always being torn apart while others were booming. To see evidence for that, all you need to do is take a drive through the rural south. The place has been completely destroyed. The general stores and local businesses have been replaced by chains. There are still some factory towns, but most of the industry has moved overseas, and the factories that remain are owned by big international corporations. In other words, virtually none of the profit made from those communities stays there, and they are doomed to an endless downward spiral. Well near everyone works for minimum wage or close to that. All the “better people” down there have moved to “booming cities” like Atlanta, Charlotte, Nashville and Austin which suck to live in but have sprang up because of one defining feature: big companies are there. They are, in effect, company towns.</p>
+
+<p>While there have been periods in American history where people have moved from poorer places to company towns, I honestly think the population transfer on the scale of tens of millions of people that has occurred in the past 20 years is unprecedented. It’s no surprise that young people are complaining about rent, cost of living, and being generally poor, because in order to make any money now adays you need to live close to a major corporate HQ and the volume of economic refugees (there is no other word to describe the many people who’ve flocked there to avoid poverty) has overwhelmed the infrastructural capacity of those places and proven a bonanza for real estate speculators.</p>
+
+<p>This isn’t a bug, it’s a feature. The central idea of the liberal world order is this idea that there are these higher economic laws that transcend human decisions. If the people decide to throw up protectionist barriers, subsidize local business, or conduct ‘industrial policy’, they are violating market-god’s laws and catastrophe will no doubt fall on them. The priests of the order, appearing on TV and in op-eds everywhere, make sure everyone is aware of this. And while they may be right about day-to-day economic optimization, those questions are very small in comparison to the big question: what is the rate of investment, and where is it being invested? Answering this question with “as high as we can make it, and right here” is how all the “miracle economies” of the past 50 years engineered success.</p>
+
+<p>In countries inducted into the liberal world order, this question is answered with “[still] as high as we can make it, but somewhere else”. Since the start of the “liberal order” (either 1945, 1971, or 1991 depending on who you ask), corporate profits have consistently climbed but a declining share of that money in all countries is invested domestically, and the share that is invested domestically is usually invested in a few boom areas to the expense of the rest of the country. Worse, much of the domestic investment we are seeing today are in non-exportable industries: take the wave of automation technologies being deployed and chain stores that exist only to undercut smaller enterprises. All this domestic and international investment of course makes the companies a lot of money, but only a small amount of this “trickles down”, that amount trickles down almost entirely to their HQ town, and the droplets get smaller and smaller the further down the stream you go. Incidentally I’d say the main conflict in the United States today is not racial or even “class based”, but between those who’ve accessed the trickle (even to a laughably small degree, like being a bottle host in an expensive city) and those who haven’t, and the people who haven’t are too bitterly divided on racial lines to change it. Meanwhile, most of the people who’ve accessed “the trickle” form a “blue tribe” that claims to absolutely detest the current state of affairs. But, whenever they’re in power, they also do nothing about it, because deep down they know that they’re totally dependent on the trickle for their (relative) prosperity.</p>
+
+<p>While the corporate media’s attempts to deflect attention from domestic problems to China is partly driven by a need to shore up support as you’re saying, I’d argue the bigger motive is a genuine attempt to “open China”. China was the darling of the priests of the market until about 2015, when it became clear that Xi Jinping intended to 1) climb the value chain, thereby displacing a huge number of multinationals and 2) create a “closed system” where all the money made in China would stay in China, and preferably be made by Chinese companies. There was nothing about a shift in China’s “behavior” that could have triggered the change, since the pre-2015 CCP was doing the same things but worse. Since then, the liberal order’s messaging has centered around human rights violations and Taiwan, but their demands in negotiations have not included any meaningful progress on those fronts. Rather, all their demands have centered around one principle: re-open your market. This strategy sounds ridiculous now that it failed, but seemed reasonable at the time. The US successfully forced Japan to open up in the 80s and 90s.</p>
+
+<p>I don’t agree that the order faces any danger from its internal rot, simply because the top of the stream has gotten too good at controlling people. The drop in quality of life between older and younger generations (not just in the US, but many other countries), combined with exactly zero armed rebellions is all the proof you need of this. Most people <em>globally</em> believe what large, private media groups tell them because in liberal countries journalists aren’t jailed for having opinions outside the Overton window, <em>only</em> fired. Detractors are sent to alternative media networks, which themselves are owned by the upstream and introduce censorship through demonetization or outright bans. Mass media doesn’t try to deny hardship North Korea style, it simply distracts: there’s endless reporting on ethnic conflicts, foreign enemies, immigration, and crime to give people something else to focus on. Foreign countries thinking of closing off their markets, meanwhile, are kept in line through trade wars and coercive lending practices from the IMF and World Bank.</p>
+
+<p>The most elegant part about this is no upstream conspiracy exists or is even necessary. As you rise to great wealth, you tend to develop certain opinions as part of being a member of an elite group. In the same way medieval knights needed no “coordination committee” to keep the peasants down, the elite group today genuinely buys into a liberal utopian vision of the world, helped along by ideology-reinforcing events like CXO conferences. They express genuine distaste towards anything that deviates from that vision. By simple virtue of creating a world where local authorities at the municipal, state/provincial, and even national level have no control over the profits made in their jurisdiction, the liberal order has spawned its own guardians without the need for a leader or a plot.</p>
+
+<p>This system is so robust that I’d bet a lot of money on 2 things: 1) by 2050, China and Russia will still be the only major non-members of the liberal world order, and 2) People in liberal countries will be eating soylent for breakfast, lunch, and dinner before anything changes.</p>
+
+<p>—– <strong>31.2</strong> —–2022-01-17 08:16:31+08:00:</p>
+
+<p>Because the only way to “counter Beijing” is a pre-emptive attack. From a realist standpoint, assuming everyone was a nationalist automaton and no one would bat an eye at the losses, that is a workable idea. But, from a <em>realistic</em> standpoint, no one has been able to sell that politically in the United States.</p>
+
+<p>What else can be done? The article and this thread have some ideas.</p>
+
+<p>Containment? China doesn’t need to expand to become the hegemon. It just needs to climb the value chain.</p>
+
+<p>Trade war? Already happening.</p>
+
+<p>Decoupling? Already happening, and pushed along by the CCP since they want to “climb the value chain” and move labor intensive industry elsewhere.</p>
+
+<p>Improving intelligence? Already happening. To have tangible results, the CIA needs to throw out its post-Aldritch Ames security clearance policy, but that’s not a possibility.</p>
+
+<p>Increase military budget? No money.</p>
+
+<p>Shore up Taiwan? Happening, and pointless. China is perfectly fine sitting and watching its navy grow until Taiwan is the least of the US’s worries.</p>
+
+<p>Strengthen alliances? Happening, and an uphill battle. So far Australia is the only country America has secured hard assurances of joint intervention from. Everyone closer to the theatre of operations does not want to become roadkill if they can avoid it.</p>
+
+<p>How do you ‘contain’ a country that’s building tall and not wide? You have to destroy it. The only thing the US can do to ‘counter’ China now is to convince Taiwan to declare independence and start an immediate war. And this is assuming China resorts with an invasion instead of an embargo, since trade with the mainland accounts for over a fifth of Taiwan’s GDP.</p>
+
+<p>Then, if China takes the bait, the US actually has to win. Most journalists have a very warped idea of a US-China conflict and think it will be a very quick affair decided by the invasion of Taiwan. The last 2 great power wars, however, lasted for four years each and were decided by industrial capacity. The US needs to win before it can be outproduced by the new “world factory”, and this means not just securing Taiwan, but destroying the Chinese industrial base in a massive strategic bombing campaign. This in turn involves securing air superiority over a locally superior air force and the world’s most advanced air defense network, then producing enough replacements, parts, and munitions to sustain a high tempo of operations, while keeping the few airbases the US has available and the carriers operational in the face of a swarm of missiles. All this is, of course, ignoring the very real possibility that either side will go nuclear when things go south.</p>
+
+<p>When you really think this through it becomes absolutely no surprise that any conversation about “countering China” degrades into a contest of who can come up with the most milquetoast and worn out idea that’s been tried before with no results. The reality of what needs to be done to actually contain China is too horrifying to enter the mainstream political discourse. There’s a lot of articles like this and they pretend like the White House’s goal is to actually stop China. It’s not - Biden, like Trump before him, has only 3 legs of his China policy: 1) give the appearance of taking action, 2) persuade or coerce China to open to American companies, 3) maintain the Taiwan status quo for the duration of his Presidency and kick the can down the road for the next President to deal with. All the US’s actions in the past 10 years are consistent with this interpretation, and the only thing that can reveal true intentions are consistent actions.</p>
+
+<p>—– <strong>31.3</strong> —–2022-01-17 09:33:06+08:00:</p>
+
+<p>Great evidence</p>
+
+<p>—– <strong>31.4</strong> —–2022-01-17 09:42:23+08:00:</p>
+
+<p>Good questions</p>
+
+<blockquote>
+  <p>How much was Japan forced as opposed to taking advantage of surpassing the US as the main producer of quality tech hardware? This might also intertwine with their economic boom around that time. A lot of the best/coolest/most advanced tech stayed in Japan because the boom economy meant that almost anything could be approved for production and would sell, whereas outside of Japan consumers were more price sensitive.</p>
+</blockquote>
+
+<p>A mix of forced and duped. In the 80s there was a genuine belief among many Japanese that the country could be greatly helped if it opened up to foreign investment and decreased the control of the Ministry of International Trade and Industry. The government never wanted this because Japanese companies had very low equity, owing to a system where they relied on loans and not investment for credit and cared only for beating interest rates, not increasing share price. Today, American shareholders own most of Sony, Panasonic, etc.</p>
+
+<p>Those businesses have definitely declined since. In the 80s and 90s Japan was <em>the</em> tech center. Today if you look at the press release feeds of many Japanese companies (take <a href="https://www.sumitomocorp.com/en/jp">Sumitomo</a> for example), it’s hard to tell exactly <em>what</em> they do. They essentially turned into capital harvesting machines and now adays speculate on diverse foreign assets and projects. The only place Japan still maintains a technological edge over the rest of the world is video games.</p>
+
+<blockquote>
+  <p>The follow-up to that is: would you say that Japan fits into the self-sustaining/self-fulfilling order you mention? They didn’t/don’t buy into a lot of the characteristics like race or class divides, or external enemies. They’re considered behind on a lot of social issues, but their economy keeps performing pretty well all things considered. Other countries with the same lack of natural resources would really struggle to find even half the success as Japan. Alternately, does it mean that the entirety of Japan has become a part of the trickling droplets from the international business machine? Their countryside is sadly dying a slow death, but it’s not from shipping manufacturing overseas as much as it’s shedding tiny towns left over from the pre-industrial era.</p>
+</blockquote>
+
+<p>Not incredibly well because they were the OG dissenter. Japan wrote the “investment redirection” and “closed system” book that China follows. While it’s gone in decline, the country is still effectively ruled behind the scenes by its civil service. Out of countries in the liberal order, it’s actually the best at avoiding the worst of the societal problems that come with it. Wealth is fairly equal, pay scales are not that unequal, the ratio between income and cost of living is pretty good, and public services are everywhere.</p>
+
+<p>—– <strong>31.5</strong> —–2022-01-17 12:37:29+08:00:</p>
+
+<p>Most of the people who think that report is alarming probably haven’t read it. All it’s saying is China is spreading propaganda. Oh no! Them and everyone else.</p>
+
+<p>How do you plan to win “a war of attrition” with a country that produces more steel than the rest of the world combined and has twice as many people as the entirety of NATO?</p>
+
+<p>—– <strong>31.6</strong> —–2022-01-18 23:28:43+08:00:</p>
+
+<p>Good question - there are some countries within the order that are doing relatively better than others. Japan, for example, has given up to 80% of its people access to the “trickle” (though many groups like the former Burakumin still have no access to it). No company willingly operates as a welfare or gainful employment engine without incentives, so incentives need to be created. That of course presupposes some level of state control over business, which is not the case in most liberal countries.</p>
+
+<p>—– <strong>31.7</strong> —–2022-01-18 23:44:00+08:00:</p>
+
+<p>Russia is actually an even more example of a “contained trickle”. 90% of Russia’s oil profits for the past 20 years are “missing”, i,e. invested overseas. The difference isn’t between stagnant and non-stagnant countries (Japan, for example, is very stagnant but has given 80+% of its people access to the trickle) but inclusive and exclusive economic systems.</p>
+
+<p>—– <strong>31.8</strong> —–2022-01-20 02:47:32+08:00:</p>
+
+<p>The point I was making wasn’t enemies of the world order good. I was simply responding to an otherwise good post that parroted the widespread assumption that the liberal world order has been some great engine of progress that only “faltered” in the past few years. In reality it has always enriched a few communities and destroyed many others, by the nature of a system that demands that localities have zero control over the re-investment of local profits.</p>
+
+<p>I was in no way saying the enemies of the world order were better. Save for a few tiny holdouts who’ve been sanctioned to death by the powers that be, there are no countries that are totally closed off from the international system. China is going in that direction, but is nowhere close to achieving isolation. Rather, both powerful enemies of the world order are just countries that were previously working towards it and are now <em>in the process</em> of moving away from it. The massive inequality in Russia wasn’t caused by the recent (very slow) crackdown on the oligarchy, but by the liberalization that caused the rise of that oligarchy in the first place. China is a more drastic version of the same, both in terms of the amount of riches generated in its deregulated era, and the speed at which the government is trying to make changes today.</p>
+
+<p>The one place where we do actually have a disagreement and not just a misunderstanding is your implication that alignment with the LWO <em>causes</em> prosperity and rejection causes poverty. Liberal countries are, on the whole, better off, but this is despite and not because of the liberal hegemony that’s existed since 1991. The average growth rate of Western countries and Japan today is <em>far</em> below what they were experiencing in the early cold war, and the rate of “economic migration” has accelerated.</p>
+
+<h3 id="32-the-byzantines-john-ii-komnenos-and-his-son-manuel-were-remarkably-successful-at-war-after-a-long-period-of-byzantine-losses-their-troops-were-competent-they-recaptured-cities-and-they-regularly-beat-the-mounted-turks-whod-often-bested-their-predecessors-what-was-their-secret-submitted-on-2022-01-15-0618300800">32: <a href="https://old.reddit.com/r/WarCollege/comments/s449h3/the_byzantines_john_ii_komnenos_and_his_son/">The Byzantines John II Komnenos and his son Manuel were remarkably successful at war after a long period of Byzantine losses. Their troops were competent, they recaptured cities, and they regularly beat the mounted Turks who’d often bested their predecessors. What was their secret?</a>, submitted on 2022-01-15 06:18:30+08:00.</h3>
+
+<p>—– <strong>32.1</strong> —–2022-01-17 04:51:44+08:00:</p>
+
+<p>The first thing to keep in mind is that the elite core of the Byzantine army were <em>also</em> horse archers. The arm had been identified as the most decisive in the Byzantine arsenal since the Wars of Justinian, with contemporary historian Procopius attributing every single major victory of his life to the horse archers. Under John II, the quantity of this arm increased dramatically as the Emperor inducted thousands of Pecheng (Christian-Pagan) Turks into his army.</p>
+
+<p>Second, Byzantine resurgence had a lot to do with Turkic weakness. When the horde first overran the balkanized Abbasid Caliphate and broke into Anatolia, it was unified under a single Khan. By the time of the First Crusade, it had dissolved into a number of rump empires and tribal confederacies. The Komnenos Emperors were not fighting “the Turks”, but, at different points, the Danishmend Turks, the Rum Turks, and a scattering of atabegs in Syria and Cilicia who ruled (and commanded) largely non-Turkic subjects and possessed none of the initial military edge of the Seljuks.</p>
+
+<p>These Turks fought each other more often than they fought the Byzantines and Crusaders. John and Manuel took advantage of these divisions and launched limited campaigns. They never posed an existential threat to the Seljuk or Danishmend polities, and took a few castles before making peace so the Turks would go back to fighting each other. Traditionally, the renewed decline of the Byzantines has been blamed on the misrule of the usurper Isaac II, (1185-1204), but it’s telling that the start of his reign also coincided with the reunification of the Anatolian Turks under the Sultan of Rum.</p>
+
+<p>With all that mind, it’s undeniable that Byzantine military capabilities improved over their nadir at the Battle of Manzikert. The army at Manzikert was an ill funded mercenary force, mainly hiring Franks with no experience fighting either Arabs or the nomads. Emperor Romanos Diogenes was constantly undermined by Western magnates who saw no benefit (and, in fact, only rival power bases) in securing the east. By 1100, the Byzantine army had restructured itself. Following its age-old traditions of absorbing barbarians and its practices, it augmented its strength with Turks and Scandinavians. Since Constantinople itself was threatened in the preceding decade by a coalition of Kilij Arslan of Rum, Tzapas of Smyrna, and the Pechenegs (the plan being to install Tzapas as a Muslim Emperor) the aristocrats were more willing to fund this army.</p>
+
+<p>Strategically, John and Manuel were more gifted leaders than most of their predecessors. The standard tactic of the Turks was to withdraw and observe the enemy until perfect tactical conditions existed. The Komnenos avoided this (until they slipped up in Manuel’s later reign) by launching short, careful, directed campaigns with a specific city or castle as a target. They had learned the lesson of the doomed Crusade of 1101, which proved that chasing after the Turkic “center of gravity” instead of their cities would lead to disaster. The Byzantine army became the most skilled in Europe at siege, while the Turks were arguably incompetent at it until the Ottoman period. The Byzantines possessed an additional advantage in demographics: the Anatolian cities were still at this point majority Greek, and the Turks preferred to use locals rather than their own troops for garrison duty. Consequently, many strongholds fell to them through treachery and negotiation.</p>
+
+<p>The reason this strategy worked had to do with the economics of the day’s Turkic states. While their “center of gravity” was the nomadic horde, they depended on still-Greek majority cities in the heart of Anatolia for revenue. Any Turkic leader who could not distribute payments to his tribesmen was not going to have a very long life. If their cities fell, the traditional Turkic remedy was to raid, but John and Manuel captured and maintained a line of forts to contain their raids. They were effectively waging economic war against the Turks, and trying to bankrupt them into submission.</p>
+
+<p>Ultimately, both Emperors skillfully exploited a prolonged Turkic civil war to extract maximum benefit. That said, their strategy was doomed because of an inability to totally eliminate their enemy. John and Manuel could take as many castles as they wanted to, but the Seljuk horde (unless conditions were optimal) would simply slip away and retake those castles later. At one point, the Turks recaptured Konya while the Emperor was still celebrating its fall in Constantinople. So, during their reign, they could abate the Turkish problem but never totally get rid of it.</p>
+
+<h3 id="33-how-importantly-did-the-japanese-view-the-solomon-islands-campaign-guadalcanal-and-onward-contradictory-data-points-and-behaviour-submitted-on-2022-01-16-1357390800">33: <a href="https://old.reddit.com/r/WarCollege/comments/s551jw/how_importantly_did_the_japanese_view_the_solomon/">How importantly did the Japanese view the Solomon Islands campaign (Guadalcanal and onward)? Contradictory data points and behaviour…</a>, submitted on 2022-01-16 13:57:39+08:00.</h3>
+
+<p>—– <strong>33.1</strong> —–2022-01-17 00:28:10+08:00:</p>
+
+<p>Building off what u/NAmofton said, Japan did not see the Solomons campaign as the “decisive battle” they were looking for. In 1941-42 and 1943 onwards, whenever the IJN thought they had ascertained the location of the majority of the American fleet, they assembled a Combined Fleet and planned to go there. Many times they had to call off the expedition because, as it turned out, the Americans were not there in force. By the late phase of the Battle of Guadalcanal, the majority of both fleets’ carriers were disabled. The American battleship row was in similarly bad shape. 1942-43 represented a race between the US and Japan to get damaged ships back into service, and the “decisive battle fever” didn’t pick up again until mid way through 1943.</p>
+
+<p>For the Americans, Guadalcanal was important because it was the first time they were on the offensive, and because it was saving Australia. For the Japanese, all that mattered was destroying the USN, at which point their theory was the US would make peace. They essentially had no choice but to send the elite fighters: if they wanted to do any kind of naval maneuver at all, they couldn’t be preyed on from above.</p>
+
+<p>At this point you might ask the question - what about replacements? But that question was irrelevant to Japanese strategic culture. The Japanese concept of manliness prized above all someone who would not accept failure or unfavorable conditions - and by not accept, that meant dying, and hopefully killing some of the people responsible for your conditions in the process. In most countries, folktales exalt a hero who puts up with humiliation and suffering in order to prevail in the end. But, as Ivan Morris points out in <em>The Nobility of Failure</em>, Japanese culture for thousands of years has sang a very different tune, exalting folk heroes whose sole achievement was exiting the stage in a murderous rampage. The IJN’s behavior throughout the war was influenced by this cultural fixation. Sending the elite pilots to die in Guadalcanal was just the beginning. Engaging in a hopeless battle at Leyte came next, then finally the pointless (by the admission of high command) sacrifice of the Yamato. What was important, both for the navy and its paymasters, was not that these missions were successful - it was that the navy was rejecting defeat and was continuing to fight and kill.</p>
+
+<p>Institutional factors reinforced this “combat as an end in itself”. Multiple times throughout the war, the IJA accused the IJN of not pulling its weight, forcing the navy to embark on hopeless expeditions. At Guadalcanal, they complained about the lack of air cover and the limited reinforcements coming in through the Tokyo Express, so the navy was forced to overcommit to a battle it saw as strategically pointless. The sacrifice of the Yamato was motivated by this too: the army complained to the Emperor that the navy was doing nothing about the Okinawa battle, so the navy was forced to send its largest ship on a suicide mission.</p>
+
+<h3 id="34-in-the-event-of-a-full-scale-invasion-of-ukraine-how-would-chernobyl-factor-into-troops-movements-what-are-the-risks-involved-if-the-sarcophagus-surrounding-it-were-to-be-accidentally-damaged-submitted-on-2022-01-16-1940240800">34: <a href="https://old.reddit.com/r/CredibleDefense/comments/s5a60s/in_the_event_of_a_full_scale_invasion_of_ukraine/">In the event of a full scale invasion of Ukraine, how would Chernobyl factor into troops movements? What are the risks involved if the sarcophagus surrounding it were to be accidentally damaged?</a>, submitted on 2022-01-16 19:40:24+08:00.</h3>
+
+<p>—– <strong>34.1</strong> —–2022-01-17 22:46:48+08:00:</p>
+
+<p>Good question. Chernobyl is actually a <em>very</em> strategic area for a war in Ukraine, now that Belarus is securely in Russia’s pocket. In 1943, the Soviets retook Kiev in a surprise attack from the Chernobyl direction. This caught the Germans off guard because Chernobyl is situated in the Pripyat Marshes, a territory that is difficult to move through.</p>
+
+<p>During the Soviet period, the marshes were partly drained and many roads were built through them, especially around the Chernobyl/Pripyat area. In the event of a war, this would be a key area for both sides. Without passage through Chernobyl, the Russians have no choice but to cross the Dnieper from Eastern Ukraine, a very difficult operation.</p>
+
+<p>4 units of the Chernobyl reactor are still operational. If Ukraine is all in and desperate, it’s not unthinkable that they (controlling the reactor) would sabotage it and blame it on the Russians to cut off this route of advance. The Russians, however, might just give their men iodine tablets and advance through the Exclusion Zone anyways.</p>
+
+<p>—– <strong>34.2</strong> —–2022-01-18 02:17:49+08:00:</p>
+
+<p>At one point he thought it was possible to Finlandize Ukraine and deny them NATO alignment/membership indefinitely with the carrot of returning the East and the threat of intervention.</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-01-16</time>
+        <a href="https://nodebe4.github.io/opinion/2022-01-16/theoryofdoom/">
+          theoryofdoom在2022-01-10~2022-01-16的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-01-16</time>
+        <a href="https://nodebe4.github.io/opinion/2022-01-16/EnclavedMicrostate/">
+          EnclavedMicrostate在2022-01-10~2022-01-16的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-01-15</time>
+        <a href="https://nodebe4.github.io/opinion/2022-01-15/Spinkcat/">
+          Spinkcat在2022-01-10~2022-01-16的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-01-15</time>
+        <a href="https://nodebe4.github.io/opinion/2022-01-15/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-01-10~2022-01-16的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-01-15/%E4%B8%BA-%E4%B8%AD%E5%8D%8E%E7%9B%96%E6%A5%BC-%E8%80%8C%E5%8A%AA%E5%8A%9B-%E7%83%BD%E7%81%AB%E4%B8%AD%E7%9A%84%E5%8D%8E%E7%9B%96%E5%BB%BA%E7%AD%91%E5%B8%88/">
+            前一篇：为“中华盖楼”而努力——烽火中的华盖建筑师
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-01-16/EnclavedMicrostate/">
+            後一篇：EnclavedMicrostate在2022-01-10~2022-01-16的言论
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-01-15/%E4%B8%BA-%E4%B8%AD%E5%8D%8E%E7%9B%96%E6%A5%BC-%E8%80%8C%E5%8A%AA%E5%8A%9B-%E7%83%BD%E7%81%AB%E4%B8%AD%E7%9A%84%E5%8D%8E%E7%9B%96%E5%BB%BA%E7%AD%91%E5%B8%88/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-01-16/EnclavedMicrostate/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-01-16/EnclavedMicrostate/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-01-15/Spinkcat/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-01-15/%E4%B8%BA-%E4%B8%AD%E5%8D%8E%E7%9B%96%E6%A5%BC-%E8%80%8C%E5%8A%AA%E5%8A%9B-%E7%83%BD%E7%81%AB%E4%B8%AD%E7%9A%84%E5%8D%8E%E7%9B%96%E5%BB%BA%E7%AD%91%E5%B8%88/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-01-16/EnclavedMicrostate/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-01-16/EnclavedMicrostate/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-01-15/Spinkcat/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

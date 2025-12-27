@@ -1,0 +1,3706 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>如何隐藏你的踪迹，避免跨省追捕[5]：用多重代理隐匿公网 IP – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+
+      如何隐藏你的踪迹，避免跨省追捕[5]：用多重代理隐匿公网 IP  
+  
+    
+      
+    
+  
+  
+最近，天朝的两会即将通过新版本的刑事诉讼法（在新条款中，党国的爪牙可以【 
+   合法地
+   】进行秘密拘捕——太阴险啦，良心大大滴坏！）。所以，俺要继续完善  “如何隐藏踪迹”系列  ，帮助大伙儿躲避朝廷的网络追捕。  关于多重代理，在前几个月的翻墙贴《  扫盲 VPN 翻墙——以 Hotspot Shield 为例  》中，稍微提到过。今天来完整地介绍一下。  
+       
+        ★什么是多重代理？ 
+  先声明一下：本文所说的“代理”是广义的，包括了：“传统意义上的代理”与“VPN”。  平时咱们用代理来翻墙，大部分属于一重代理（如下图）。也就是说，不论你用的是 VPN 还是 HTTP Proxy 还是 SOCKS Proxy，当中都只有【一个】服务器进行中转。        
+  单重代理可以（在一定程度上）保护你的隐私，防范跨省追捕。关于这点，俺在《  如何隐藏你的踪迹，避免跨省追捕[1]：网络方面的防范  》一文已经介绍过了。但如果你对隐私的防范，要求比较高（比如说，你是六扇门的重点关注对象），那单重代理的安全性就不太够了——你需要使用多重代理。  那多重代理是啥样的捏？为了简单起见，俺画了下面这幅双重代理的示意图。        
+        ★需要哪些软件？ 
+       ◇Tor + 其它翻墙工具 
+  理论上，你可以随便挑选两款翻墙工具，然后搞出一个二级代理。但是这样的效果未必理想。  根据俺的经验，最佳组合是：用 Tor（俗称“套”）搭配其它的翻墙工具（比如：赛风、无界、自由门、VPN...），组合出多重代理。        ◇为啥要“戴套”？ 
+  长期翻墙的网友，应该都听说过 Tor 这个老牌的翻墙工具（俺曾经扫盲过“  戴套翻墙  ”的技术）。那些从来没听说过 Tor 的网友，可以翻墙看“  这里  ”的介绍。  其实拿 Tor 来翻墙，颇有杀鸡用牛刀的嫌疑。Tor 的主要强项在于： 
+   提供匿名的网络访问，保护你的隐私
+   。比如名气很大的  维基解密  （WikiLeaks），还有名气很大且很牛逼的  匿名黑客组织  （洋文叫“Anonymous”，最近连续黑掉多个大公司及美国政府部门），他们的成员都是用 Tor 来确保自己的匿名。  为啥 Tor 能确保匿名捏？  其一，  Tor 在全球有很多节点，当你利用 Tor 上网的时候，从你的电脑到某个网站，需要经过若干个 Tor 节点（通常是3个节点，俗称“三级跳”）。  其二，  第1个节点虽然知道你的公网 IP，但不知道你访问了啥网站；第3个节点虽然知道你访问了啥网站，但不知道你的公网 IP。  其三，  上述的“三级跳”线路是【动态变化】滴（通常每隔10分钟变化一次），这就使得警方难以追溯。          （Tor 网络的示意图） 
+  假如你有些悟性，自然会发现：Tor 本身就是一个多重代理！既然这样，为啥还要拿 Tor 跟其它翻墙工具搭配捏？主要因为万恶的 GFW 把全球大部分的 Tor 节点都进行了 IP 封锁。因此，如果你不幸身处天朝，是很难直接访问到 Tor 节点滴！所以，咱们只好委屈一下，拿 Tor 搭配其它翻墙工具。         ★如何配置？ 
+  其实配置并不难，只需如下几步：        ◇第1步：运行翻墙工具 
+  首先，你需要准备好一个【能用的】翻墙工具——可以是 HTTP 代理（比如：  无界  、  自由门  、  赛风  ），也可以是 SOCKS 代理，还可以是 VPN（比如  Hotspot Shield  ）。先把这个翻墙工具运行起来。  这个翻墙工具用来作为 Tor 的【前置代理】。        ◇第2步：安装 Tor 
+  如果你使用 Linux 并且发行版的官方仓库已经包含了 Tor，那么就从官方仓库直接安装。  否则的话，请【翻墙】到 Tor 的官方网站，下载一个 Tor 的软件包（下载页面在“  这里  ”）。  目前官网上提供两种软件包，分别是：  “Tor Browser Bundle”（面向傻瓜用户）  “Expert Bundle”（俗称“裸 Tor”，面向高级用户）        ◇第3步：配置 Tor 
+  如果你下载了“Tor Browser”，参见如下这篇教程：  《  “如何翻墙”系列：扫盲 Tor Browser 7.5——关于 meek 插件的配置、优化、原理  》  如果你下载了“Expert Bundle”，并且你的操作系统是 Linux/UNIX，参见如下这篇教程：  《  扫盲 Arm——Tor 的界面前端（替代已死亡的 Vidalia）  》        ◇第4步：设置浏览器 
+  刚才说了：Tor 有两种软件包（Bundle）。这两者的【监听端口号】略有差异。因此在配置浏览器时，也略有差异。分别说明如下：   
+   Tor Browser Bundle
+    Tor 的监听端口为 
+   9150
+    由于这种软件包已经内置了 Firefox，且 Firefox 已经绑定到 Tor。因此，你【无需任何设置】。   
+   Expert Bundle
+   （裸 Tor）  Tor 的监听端口为 
+   9050
+    对于这种软件包，你要把浏览器的【SOCKS 代理】指向 Tor（地址 
+   127.0.0.1
+   端口 
+   9050
+   ），就可以通过 Tor 匿名上网了。  
+   为了保险起见，可以用浏览器访问 Tor 官网的检查页面（在“
+   
+    这里
+   
+   ”），验证一下你是否真的通过 Tor 上网。
+          ◇第5步：设置其它网络软件 
+  如果你想让其它的网络软件（比如：聊天软件、下载工具）通过 Tor 来隐藏你的 IP，也很容易。参见刚才浏览器的代理设置——SOCKS 代理，地址 
+   127.0.0.1
+   ，端口号使用 
+   9050
+   （裸 Tor）或 
+   9150
+   （Tor Browser）。以 MSN 为例，你只需在 MSN 的网络设置界面填写 Tor 的 SOCKS 代理即可。  为了保险起见，到 Tor 的管理界面看一下 Tor 的网络流量。只要该网络软件使用的时候，Tor 的管理界面显示出流量，就说明这些网络软件已经通过 Tor 匿名上网了。         ★多重代理的【好处】 
+       ◇防范追踪 
+  举个例子：  假设你用 VPN 翻墙并发表一些抨击党国的言论。万一 VPN 提供商在 VPN 服务器上记录了你的网络流量，而党国又逼迫该 VPN 供应商交出这些流量记录。那么，党国的爪牙就【 
+   有可能
+   】分析出你的上网行为。  用了多重代理之后，任何一个代理服务器记录你的网络流量，都无法对你的流量进行分析。  比方说你用的是“Tor + 赛风”。虽然赛风服务器知道你的真实公网 IP，但是无法知道你访问哪个网站及访问的的内容（因为 Tor 的流量是加密的）；而 Tor 的“最后一个节点”（出口节点）虽然知道你访问了哪个网站以及访问的内容，但是它不知道你来自哪里（不清楚你的真实公网 IP）。        ◇伪装国籍 
+  除了上述好处，使用 Tor 还有另一个好处——伪装国籍。比方说，你想让自己看起来像是美国的用户，只需要修改 Tor 的配置文件，使用美国境内的【出口节点】。这种情况下，你访问的网站就会以为你来自美国。         ★多重代理的【坏处】 
+  当然啦，有利就有弊。以下是多重代理的一些缺点：        ◇配置复杂 
+  跟单重代理比起来，多重代理显然需要更多的设置。很多网友属于技术门外汉，多半对它望而却步。所以，俺才会专门写这么一篇博文，扫盲多重代理。        ◇性能下降 
+  通常来说，多重代理的性能会比单重代理要差一些。  根据俺近几年的经验——只要【前置代理】的速度足够快，“前置代理 + Tor”的速度也慢不到哪里去。以下是俺电脑上的 Tor 流量截图（基于“赛风+Tor”）。        
+  
+   
+    回到本系列的目录
+   
+      
+   俺博客上，和本文相关的帖子（需翻墙）
+   ：  《  关于 Tor 的常见问题解答  》  《  扫盲 Arm——Tor 的界面前端（替代已死亡的 Vidalia）  》  《  戴“套”翻墻的方法  》     
+
+    版权声明
+     本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者  编程随想  和本文原始地址：   https://program-think.blogspot.com/2012/03/howto-cover-your-tracks-5.html 
+    
+    
+  
+  
+    
+         
+    
+    
+    
+ 
+    
+  
+
+" />
+    <meta property="og:description" content="
+
+      如何隐藏你的踪迹，避免跨省追捕[5]：用多重代理隐匿公网 IP  
+  
+    
+      
+    
+  
+  
+最近，天朝的两会即将通过新版本的刑事诉讼法（在新条款中，党国的爪牙可以【 
+   合法地
+   】进行秘密拘捕——太阴险啦，良心大大滴坏！）。所以，俺要继续完善  “如何隐藏踪迹”系列  ，帮助大伙儿躲避朝廷的网络追捕。  关于多重代理，在前几个月的翻墙贴《  扫盲 VPN 翻墙——以 Hotspot Shield 为例  》中，稍微提到过。今天来完整地介绍一下。  
+       
+        ★什么是多重代理？ 
+  先声明一下：本文所说的“代理”是广义的，包括了：“传统意义上的代理”与“VPN”。  平时咱们用代理来翻墙，大部分属于一重代理（如下图）。也就是说，不论你用的是 VPN 还是 HTTP Proxy 还是 SOCKS Proxy，当中都只有【一个】服务器进行中转。        
+  单重代理可以（在一定程度上）保护你的隐私，防范跨省追捕。关于这点，俺在《  如何隐藏你的踪迹，避免跨省追捕[1]：网络方面的防范  》一文已经介绍过了。但如果你对隐私的防范，要求比较高（比如说，你是六扇门的重点关注对象），那单重代理的安全性就不太够了——你需要使用多重代理。  那多重代理是啥样的捏？为了简单起见，俺画了下面这幅双重代理的示意图。        
+        ★需要哪些软件？ 
+       ◇Tor + 其它翻墙工具 
+  理论上，你可以随便挑选两款翻墙工具，然后搞出一个二级代理。但是这样的效果未必理想。  根据俺的经验，最佳组合是：用 Tor（俗称“套”）搭配其它的翻墙工具（比如：赛风、无界、自由门、VPN...），组合出多重代理。        ◇为啥要“戴套”？ 
+  长期翻墙的网友，应该都听说过 Tor 这个老牌的翻墙工具（俺曾经扫盲过“  戴套翻墙  ”的技术）。那些从来没听说过 Tor 的网友，可以翻墙看“  这里  ”的介绍。  其实拿 Tor 来翻墙，颇有杀鸡用牛刀的嫌疑。Tor 的主要强项在于： 
+   提供匿名的网络访问，保护你的隐私
+   。比如名气很大的  维基解密  （WikiLeaks），还有名气很大且很牛逼的  匿名黑客组织  （洋文叫“Anonymous”，最近连续黑掉多个大公司及美国政府部门），他们的成员都是用 Tor 来确保自己的匿名。  为啥 Tor 能确保匿名捏？  其一，  Tor 在全球有很多节点，当你利用 Tor 上网的时候，从你的电脑到某个网站，需要经过若干个 Tor 节点（通常是3个节点，俗称“三级跳”）。  其二，  第1个节点虽然知道你的公网 IP，但不知道你访问了啥网站；第3个节点虽然知道你访问了啥网站，但不知道你的公网 IP。  其三，  上述的“三级跳”线路是【动态变化】滴（通常每隔10分钟变化一次），这就使得警方难以追溯。          （Tor 网络的示意图） 
+  假如你有些悟性，自然会发现：Tor 本身就是一个多重代理！既然这样，为啥还要拿 Tor 跟其它翻墙工具搭配捏？主要因为万恶的 GFW 把全球大部分的 Tor 节点都进行了 IP 封锁。因此，如果你不幸身处天朝，是很难直接访问到 Tor 节点滴！所以，咱们只好委屈一下，拿 Tor 搭配其它翻墙工具。         ★如何配置？ 
+  其实配置并不难，只需如下几步：        ◇第1步：运行翻墙工具 
+  首先，你需要准备好一个【能用的】翻墙工具——可以是 HTTP 代理（比如：  无界  、  自由门  、  赛风  ），也可以是 SOCKS 代理，还可以是 VPN（比如  Hotspot Shield  ）。先把这个翻墙工具运行起来。  这个翻墙工具用来作为 Tor 的【前置代理】。        ◇第2步：安装 Tor 
+  如果你使用 Linux 并且发行版的官方仓库已经包含了 Tor，那么就从官方仓库直接安装。  否则的话，请【翻墙】到 Tor 的官方网站，下载一个 Tor 的软件包（下载页面在“  这里  ”）。  目前官网上提供两种软件包，分别是：  “Tor Browser Bundle”（面向傻瓜用户）  “Expert Bundle”（俗称“裸 Tor”，面向高级用户）        ◇第3步：配置 Tor 
+  如果你下载了“Tor Browser”，参见如下这篇教程：  《  “如何翻墙”系列：扫盲 Tor Browser 7.5——关于 meek 插件的配置、优化、原理  》  如果你下载了“Expert Bundle”，并且你的操作系统是 Linux/UNIX，参见如下这篇教程：  《  扫盲 Arm——Tor 的界面前端（替代已死亡的 Vidalia）  》        ◇第4步：设置浏览器 
+  刚才说了：Tor 有两种软件包（Bundle）。这两者的【监听端口号】略有差异。因此在配置浏览器时，也略有差异。分别说明如下：   
+   Tor Browser Bundle
+    Tor 的监听端口为 
+   9150
+    由于这种软件包已经内置了 Firefox，且 Firefox 已经绑定到 Tor。因此，你【无需任何设置】。   
+   Expert Bundle
+   （裸 Tor）  Tor 的监听端口为 
+   9050
+    对于这种软件包，你要把浏览器的【SOCKS 代理】指向 Tor（地址 
+   127.0.0.1
+   端口 
+   9050
+   ），就可以通过 Tor 匿名上网了。  
+   为了保险起见，可以用浏览器访问 Tor 官网的检查页面（在“
+   
+    这里
+   
+   ”），验证一下你是否真的通过 Tor 上网。
+          ◇第5步：设置其它网络软件 
+  如果你想让其它的网络软件（比如：聊天软件、下载工具）通过 Tor 来隐藏你的 IP，也很容易。参见刚才浏览器的代理设置——SOCKS 代理，地址 
+   127.0.0.1
+   ，端口号使用 
+   9050
+   （裸 Tor）或 
+   9150
+   （Tor Browser）。以 MSN 为例，你只需在 MSN 的网络设置界面填写 Tor 的 SOCKS 代理即可。  为了保险起见，到 Tor 的管理界面看一下 Tor 的网络流量。只要该网络软件使用的时候，Tor 的管理界面显示出流量，就说明这些网络软件已经通过 Tor 匿名上网了。         ★多重代理的【好处】 
+       ◇防范追踪 
+  举个例子：  假设你用 VPN 翻墙并发表一些抨击党国的言论。万一 VPN 提供商在 VPN 服务器上记录了你的网络流量，而党国又逼迫该 VPN 供应商交出这些流量记录。那么，党国的爪牙就【 
+   有可能
+   】分析出你的上网行为。  用了多重代理之后，任何一个代理服务器记录你的网络流量，都无法对你的流量进行分析。  比方说你用的是“Tor + 赛风”。虽然赛风服务器知道你的真实公网 IP，但是无法知道你访问哪个网站及访问的的内容（因为 Tor 的流量是加密的）；而 Tor 的“最后一个节点”（出口节点）虽然知道你访问了哪个网站以及访问的内容，但是它不知道你来自哪里（不清楚你的真实公网 IP）。        ◇伪装国籍 
+  除了上述好处，使用 Tor 还有另一个好处——伪装国籍。比方说，你想让自己看起来像是美国的用户，只需要修改 Tor 的配置文件，使用美国境内的【出口节点】。这种情况下，你访问的网站就会以为你来自美国。         ★多重代理的【坏处】 
+  当然啦，有利就有弊。以下是多重代理的一些缺点：        ◇配置复杂 
+  跟单重代理比起来，多重代理显然需要更多的设置。很多网友属于技术门外汉，多半对它望而却步。所以，俺才会专门写这么一篇博文，扫盲多重代理。        ◇性能下降 
+  通常来说，多重代理的性能会比单重代理要差一些。  根据俺近几年的经验——只要【前置代理】的速度足够快，“前置代理 + Tor”的速度也慢不到哪里去。以下是俺电脑上的 Tor 流量截图（基于“赛风+Tor”）。        
+  
+   
+    回到本系列的目录
+   
+      
+   俺博客上，和本文相关的帖子（需翻墙）
+   ：  《  关于 Tor 的常见问题解答  》  《  扫盲 Arm——Tor 的界面前端（替代已死亡的 Vidalia）  》  《  戴“套”翻墻的方法  》     
+
+    版权声明
+     本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者  编程随想  和本文原始地址：   https://program-think.blogspot.com/2012/03/howto-cover-your-tracks-5.html 
+    
+    
+  
+  
+    
+         
+    
+    
+    
+ 
+    
+  
+
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="如何隐藏你的踪迹，避免跨省追捕[5]：用多重代理隐匿公网 IP" />
+    <meta property="twitter:title" content="如何隐藏你的踪迹，避免跨省追捕[5]：用多重代理隐匿公网 IP" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fprogram-think.blogspot.com%2F2012%2F03%2Fhowto-cover-your-tracks-5.html" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://program-think.blogspot.com/2012/03/howto-cover-your-tracks-5.html" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://program-think.blogspot.com/2012/03/howto-cover-your-tracks-5.html&text=如何隐藏你的踪迹，避免跨省追捕[5]：用多重代理隐匿公网 IP&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://program-think.blogspot.com/2012/03/howto-cover-your-tracks-5.html&title=如何隐藏你的踪迹，避免跨省追捕[5]：用多重代理隐匿公网 IP" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://program-think.blogspot.com/2012/03/howto-cover-your-tracks-5.html&title=如何隐藏你的踪迹，避免跨省追捕[5]：用多重代理隐匿公网 IP" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=如何隐藏你的踪迹，避免跨省追捕[5]：用多重代理隐匿公网 IP&body=
+
+      如何隐藏你的踪迹，避免跨省追捕[5]：用多重代理隐匿公网 IP  
+  
+    
+      
+    
+  
+  
+最近，天朝的两会即将通过新版本的刑事诉讼法（在新条款中，党国的爪牙可以【 
+   合法地
+   】进行秘密拘捕——太阴险啦，良心大大滴坏！）。所以，俺要继续完善  “如何隐藏踪迹”系列  ，帮助大伙儿躲避朝廷的网络追捕。  关于多重代理，在前几个月的翻墙贴《  扫盲 VPN 翻墙——以 Hotspot Shield 为例  》中，稍微提到过。今天来完整地介绍一下。  
+       
+        ★什么是多重代理？ 
+  先声明一下：本文所说的“代理”是广义的，包括了：“传统意义上的代理”与“VPN”。  平时咱们用代理来翻墙，大部分属于一重代理（如下图）。也就是说，不论你用的是 VPN 还是 HTTP Proxy 还是 SOCKS Proxy，当中都只有【一个】服务器进行中转。        
+  单重代理可以（在一定程度上）保护你的隐私，防范跨省追捕。关于这点，俺在《  如何隐藏你的踪迹，避免跨省追捕[1]：网络方面的防范  》一文已经介绍过了。但如果你对隐私的防范，要求比较高（比如说，你是六扇门的重点关注对象），那单重代理的安全性就不太够了——你需要使用多重代理。  那多重代理是啥样的捏？为了简单起见，俺画了下面这幅双重代理的示意图。        
+        ★需要哪些软件？ 
+       ◇Tor + 其它翻墙工具 
+  理论上，你可以随便挑选两款翻墙工具，然后搞出一个二级代理。但是这样的效果未必理想。  根据俺的经验，最佳组合是：用 Tor（俗称“套”）搭配其它的翻墙工具（比如：赛风、无界、自由门、VPN...），组合出多重代理。        ◇为啥要“戴套”？ 
+  长期翻墙的网友，应该都听说过 Tor 这个老牌的翻墙工具（俺曾经扫盲过“  戴套翻墙  ”的技术）。那些从来没听说过 Tor 的网友，可以翻墙看“  这里  ”的介绍。  其实拿 Tor 来翻墙，颇有杀鸡用牛刀的嫌疑。Tor 的主要强项在于： 
+   提供匿名的网络访问，保护你的隐私
+   。比如名气很大的  维基解密  （WikiLeaks），还有名气很大且很牛逼的  匿名黑客组织  （洋文叫“Anonymous”，最近连续黑掉多个大公司及美国政府部门），他们的成员都是用 Tor 来确保自己的匿名。  为啥 Tor 能确保匿名捏？  其一，  Tor 在全球有很多节点，当你利用 Tor 上网的时候，从你的电脑到某个网站，需要经过若干个 Tor 节点（通常是3个节点，俗称“三级跳”）。  其二，  第1个节点虽然知道你的公网 IP，但不知道你访问了啥网站；第3个节点虽然知道你访问了啥网站，但不知道你的公网 IP。  其三，  上述的“三级跳”线路是【动态变化】滴（通常每隔10分钟变化一次），这就使得警方难以追溯。          （Tor 网络的示意图） 
+  假如你有些悟性，自然会发现：Tor 本身就是一个多重代理！既然这样，为啥还要拿 Tor 跟其它翻墙工具搭配捏？主要因为万恶的 GFW 把全球大部分的 Tor 节点都进行了 IP 封锁。因此，如果你不幸身处天朝，是很难直接访问到 Tor 节点滴！所以，咱们只好委屈一下，拿 Tor 搭配其它翻墙工具。         ★如何配置？ 
+  其实配置并不难，只需如下几步：        ◇第1步：运行翻墙工具 
+  首先，你需要准备好一个【能用的】翻墙工具——可以是 HTTP 代理（比如：  无界  、  自由门  、  赛风  ），也可以是 SOCKS 代理，还可以是 VPN（比如  Hotspot Shield  ）。先把这个翻墙工具运行起来。  这个翻墙工具用来作为 Tor 的【前置代理】。        ◇第2步：安装 Tor 
+  如果你使用 Linux 并且发行版的官方仓库已经包含了 Tor，那么就从官方仓库直接安装。  否则的话，请【翻墙】到 Tor 的官方网站，下载一个 Tor 的软件包（下载页面在“  这里  ”）。  目前官网上提供两种软件包，分别是：  “Tor Browser Bundle”（面向傻瓜用户）  “Expert Bundle”（俗称“裸 Tor”，面向高级用户）        ◇第3步：配置 Tor 
+  如果你下载了“Tor Browser”，参见如下这篇教程：  《  “如何翻墙”系列：扫盲 Tor Browser 7.5——关于 meek 插件的配置、优化、原理  》  如果你下载了“Expert Bundle”，并且你的操作系统是 Linux/UNIX，参见如下这篇教程：  《  扫盲 Arm——Tor 的界面前端（替代已死亡的 Vidalia）  》        ◇第4步：设置浏览器 
+  刚才说了：Tor 有两种软件包（Bundle）。这两者的【监听端口号】略有差异。因此在配置浏览器时，也略有差异。分别说明如下：   
+   Tor Browser Bundle
+    Tor 的监听端口为 
+   9150
+    由于这种软件包已经内置了 Firefox，且 Firefox 已经绑定到 Tor。因此，你【无需任何设置】。   
+   Expert Bundle
+   （裸 Tor）  Tor 的监听端口为 
+   9050
+    对于这种软件包，你要把浏览器的【SOCKS 代理】指向 Tor（地址 
+   127.0.0.1
+   端口 
+   9050
+   ），就可以通过 Tor 匿名上网了。  
+   为了保险起见，可以用浏览器访问 Tor 官网的检查页面（在“
+   
+    这里
+   
+   ”），验证一下你是否真的通过 Tor 上网。
+          ◇第5步：设置其它网络软件 
+  如果你想让其它的网络软件（比如：聊天软件、下载工具）通过 Tor 来隐藏你的 IP，也很容易。参见刚才浏览器的代理设置——SOCKS 代理，地址 
+   127.0.0.1
+   ，端口号使用 
+   9050
+   （裸 Tor）或 
+   9150
+   （Tor Browser）。以 MSN 为例，你只需在 MSN 的网络设置界面填写 Tor 的 SOCKS 代理即可。  为了保险起见，到 Tor 的管理界面看一下 Tor 的网络流量。只要该网络软件使用的时候，Tor 的管理界面显示出流量，就说明这些网络软件已经通过 Tor 匿名上网了。         ★多重代理的【好处】 
+       ◇防范追踪 
+  举个例子：  假设你用 VPN 翻墙并发表一些抨击党国的言论。万一 VPN 提供商在 VPN 服务器上记录了你的网络流量，而党国又逼迫该 VPN 供应商交出这些流量记录。那么，党国的爪牙就【 
+   有可能
+   】分析出你的上网行为。  用了多重代理之后，任何一个代理服务器记录你的网络流量，都无法对你的流量进行分析。  比方说你用的是“Tor + 赛风”。虽然赛风服务器知道你的真实公网 IP，但是无法知道你访问哪个网站及访问的的内容（因为 Tor 的流量是加密的）；而 Tor 的“最后一个节点”（出口节点）虽然知道你访问了哪个网站以及访问的内容，但是它不知道你来自哪里（不清楚你的真实公网 IP）。        ◇伪装国籍 
+  除了上述好处，使用 Tor 还有另一个好处——伪装国籍。比方说，你想让自己看起来像是美国的用户，只需要修改 Tor 的配置文件，使用美国境内的【出口节点】。这种情况下，你访问的网站就会以为你来自美国。         ★多重代理的【坏处】 
+  当然啦，有利就有弊。以下是多重代理的一些缺点：        ◇配置复杂 
+  跟单重代理比起来，多重代理显然需要更多的设置。很多网友属于技术门外汉，多半对它望而却步。所以，俺才会专门写这么一篇博文，扫盲多重代理。        ◇性能下降 
+  通常来说，多重代理的性能会比单重代理要差一些。  根据俺近几年的经验——只要【前置代理】的速度足够快，“前置代理 + Tor”的速度也慢不到哪里去。以下是俺电脑上的 Tor 流量截图（基于“赛风+Tor”）。        
+  
+   
+    回到本系列的目录
+   
+      
+   俺博客上，和本文相关的帖子（需翻墙）
+   ：  《  关于 Tor 的常见问题解答  》  《  扫盲 Arm——Tor 的界面前端（替代已死亡的 Vidalia）  》  《  戴“套”翻墻的方法  》     
+
+    版权声明
+     本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者  编程随想  和本文原始地址：   https://program-think.blogspot.com/2012/03/howto-cover-your-tracks-5.html 
+    
+    
+  
+  
+    
+         
+    
+    
+    
+ 
+    
+  
+
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://program-think.blogspot.com/2012/03/howto-cover-your-tracks-5.html" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://program-think.blogspot.com/2012/03/howto-cover-your-tracks-5.html&title=如何隐藏你的踪迹，避免跨省追捕[5]：用多重代理隐匿公网 IP&caption=
+
+      如何隐藏你的踪迹，避免跨省追捕[5]：用多重代理隐匿公网 IP  
+  
+    
+      
+    
+  
+  
+最近，天朝的两会即将通过新版本的刑事诉讼法（在新条款中，党国的爪牙可以【 
+   合法地
+   】进行秘密拘捕——太阴险啦，良心大大滴坏！）。所以，俺要继续完善  “如何隐藏踪迹”系列  ，帮助大伙儿躲避朝廷的网络追捕。  关于多重代理，在前几个月的翻墙贴《  扫盲 VPN 翻墙——以 Hotspot Shield 为例  》中，稍微提到过。今天来完整地介绍一下。  
+       
+        ★什么是多重代理？ 
+  先声明一下：本文所说的“代理”是广义的，包括了：“传统意义上的代理”与“VPN”。  平时咱们用代理来翻墙，大部分属于一重代理（如下图）。也就是说，不论你用的是 VPN 还是 HTTP Proxy 还是 SOCKS Proxy，当中都只有【一个】服务器进行中转。        
+  单重代理可以（在一定程度上）保护你的隐私，防范跨省追捕。关于这点，俺在《  如何隐藏你的踪迹，避免跨省追捕[1]：网络方面的防范  》一文已经介绍过了。但如果你对隐私的防范，要求比较高（比如说，你是六扇门的重点关注对象），那单重代理的安全性就不太够了——你需要使用多重代理。  那多重代理是啥样的捏？为了简单起见，俺画了下面这幅双重代理的示意图。        
+        ★需要哪些软件？ 
+       ◇Tor + 其它翻墙工具 
+  理论上，你可以随便挑选两款翻墙工具，然后搞出一个二级代理。但是这样的效果未必理想。  根据俺的经验，最佳组合是：用 Tor（俗称“套”）搭配其它的翻墙工具（比如：赛风、无界、自由门、VPN...），组合出多重代理。        ◇为啥要“戴套”？ 
+  长期翻墙的网友，应该都听说过 Tor 这个老牌的翻墙工具（俺曾经扫盲过“  戴套翻墙  ”的技术）。那些从来没听说过 Tor 的网友，可以翻墙看“  这里  ”的介绍。  其实拿 Tor 来翻墙，颇有杀鸡用牛刀的嫌疑。Tor 的主要强项在于： 
+   提供匿名的网络访问，保护你的隐私
+   。比如名气很大的  维基解密  （WikiLeaks），还有名气很大且很牛逼的  匿名黑客组织  （洋文叫“Anonymous”，最近连续黑掉多个大公司及美国政府部门），他们的成员都是用 Tor 来确保自己的匿名。  为啥 Tor 能确保匿名捏？  其一，  Tor 在全球有很多节点，当你利用 Tor 上网的时候，从你的电脑到某个网站，需要经过若干个 Tor 节点（通常是3个节点，俗称“三级跳”）。  其二，  第1个节点虽然知道你的公网 IP，但不知道你访问了啥网站；第3个节点虽然知道你访问了啥网站，但不知道你的公网 IP。  其三，  上述的“三级跳”线路是【动态变化】滴（通常每隔10分钟变化一次），这就使得警方难以追溯。          （Tor 网络的示意图） 
+  假如你有些悟性，自然会发现：Tor 本身就是一个多重代理！既然这样，为啥还要拿 Tor 跟其它翻墙工具搭配捏？主要因为万恶的 GFW 把全球大部分的 Tor 节点都进行了 IP 封锁。因此，如果你不幸身处天朝，是很难直接访问到 Tor 节点滴！所以，咱们只好委屈一下，拿 Tor 搭配其它翻墙工具。         ★如何配置？ 
+  其实配置并不难，只需如下几步：        ◇第1步：运行翻墙工具 
+  首先，你需要准备好一个【能用的】翻墙工具——可以是 HTTP 代理（比如：  无界  、  自由门  、  赛风  ），也可以是 SOCKS 代理，还可以是 VPN（比如  Hotspot Shield  ）。先把这个翻墙工具运行起来。  这个翻墙工具用来作为 Tor 的【前置代理】。        ◇第2步：安装 Tor 
+  如果你使用 Linux 并且发行版的官方仓库已经包含了 Tor，那么就从官方仓库直接安装。  否则的话，请【翻墙】到 Tor 的官方网站，下载一个 Tor 的软件包（下载页面在“  这里  ”）。  目前官网上提供两种软件包，分别是：  “Tor Browser Bundle”（面向傻瓜用户）  “Expert Bundle”（俗称“裸 Tor”，面向高级用户）        ◇第3步：配置 Tor 
+  如果你下载了“Tor Browser”，参见如下这篇教程：  《  “如何翻墙”系列：扫盲 Tor Browser 7.5——关于 meek 插件的配置、优化、原理  》  如果你下载了“Expert Bundle”，并且你的操作系统是 Linux/UNIX，参见如下这篇教程：  《  扫盲 Arm——Tor 的界面前端（替代已死亡的 Vidalia）  》        ◇第4步：设置浏览器 
+  刚才说了：Tor 有两种软件包（Bundle）。这两者的【监听端口号】略有差异。因此在配置浏览器时，也略有差异。分别说明如下：   
+   Tor Browser Bundle
+    Tor 的监听端口为 
+   9150
+    由于这种软件包已经内置了 Firefox，且 Firefox 已经绑定到 Tor。因此，你【无需任何设置】。   
+   Expert Bundle
+   （裸 Tor）  Tor 的监听端口为 
+   9050
+    对于这种软件包，你要把浏览器的【SOCKS 代理】指向 Tor（地址 
+   127.0.0.1
+   端口 
+   9050
+   ），就可以通过 Tor 匿名上网了。  
+   为了保险起见，可以用浏览器访问 Tor 官网的检查页面（在“
+   
+    这里
+   
+   ”），验证一下你是否真的通过 Tor 上网。
+          ◇第5步：设置其它网络软件 
+  如果你想让其它的网络软件（比如：聊天软件、下载工具）通过 Tor 来隐藏你的 IP，也很容易。参见刚才浏览器的代理设置——SOCKS 代理，地址 
+   127.0.0.1
+   ，端口号使用 
+   9050
+   （裸 Tor）或 
+   9150
+   （Tor Browser）。以 MSN 为例，你只需在 MSN 的网络设置界面填写 Tor 的 SOCKS 代理即可。  为了保险起见，到 Tor 的管理界面看一下 Tor 的网络流量。只要该网络软件使用的时候，Tor 的管理界面显示出流量，就说明这些网络软件已经通过 Tor 匿名上网了。         ★多重代理的【好处】 
+       ◇防范追踪 
+  举个例子：  假设你用 VPN 翻墙并发表一些抨击党国的言论。万一 VPN 提供商在 VPN 服务器上记录了你的网络流量，而党国又逼迫该 VPN 供应商交出这些流量记录。那么，党国的爪牙就【 
+   有可能
+   】分析出你的上网行为。  用了多重代理之后，任何一个代理服务器记录你的网络流量，都无法对你的流量进行分析。  比方说你用的是“Tor + 赛风”。虽然赛风服务器知道你的真实公网 IP，但是无法知道你访问哪个网站及访问的的内容（因为 Tor 的流量是加密的）；而 Tor 的“最后一个节点”（出口节点）虽然知道你访问了哪个网站以及访问的内容，但是它不知道你来自哪里（不清楚你的真实公网 IP）。        ◇伪装国籍 
+  除了上述好处，使用 Tor 还有另一个好处——伪装国籍。比方说，你想让自己看起来像是美国的用户，只需要修改 Tor 的配置文件，使用美国境内的【出口节点】。这种情况下，你访问的网站就会以为你来自美国。         ★多重代理的【坏处】 
+  当然啦，有利就有弊。以下是多重代理的一些缺点：        ◇配置复杂 
+  跟单重代理比起来，多重代理显然需要更多的设置。很多网友属于技术门外汉，多半对它望而却步。所以，俺才会专门写这么一篇博文，扫盲多重代理。        ◇性能下降 
+  通常来说，多重代理的性能会比单重代理要差一些。  根据俺近几年的经验——只要【前置代理】的速度足够快，“前置代理 + Tor”的速度也慢不到哪里去。以下是俺电脑上的 Tor 流量截图（基于“赛风+Tor”）。        
+  
+   
+    回到本系列的目录
+   
+      
+   俺博客上，和本文相关的帖子（需翻墙）
+   ：  《  关于 Tor 的常见问题解答  》  《  扫盲 Arm——Tor 的界面前端（替代已死亡的 Vidalia）  》  《  戴“套”翻墻的方法  》     
+
+    版权声明
+     本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者  编程随想  和本文原始地址：   https://program-think.blogspot.com/2012/03/howto-cover-your-tracks-5.html 
+    
+    
+  
+  
+    
+         
+    
+    
+    
+ 
+    
+  
+
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=如何隐藏你的踪迹，避免跨省追捕[5]：用多重代理隐匿公网 IP&url=https://program-think.blogspot.com/2012/03/howto-cover-your-tracks-5.html" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>如何隐藏你的踪迹，避免跨省追捕[5]：用多重代理隐匿公网 IP</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2012-03-13
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#编程随想">
+          编程随想
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://program-think.blogspot.com/2012/03/howto-cover-your-tracks-5.html" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="编程随想的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#编程随想 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <div class="post hentry uncustomized-post-template">
+<a name="4557300183924461169">
+ </a>   <h1 class="post-title entry-title" id="ip--"> <a href="https://program-think.blogspot.com/2012/03/howto-cover-your-tracks-5.html"> 如何隐藏你的踪迹，避免跨省追捕[5]：用多重代理隐匿公网 IP </a> </h1>
+  <div class="post-header">
+    <div class="post-header-line-1">
+      <div class="post-inner-index"></div>
+    </div>
+  </div>
+  <div class="post-body entry-content">
+最近，天朝的两会即将通过新版本的刑事诉讼法（在新条款中，党国的爪牙可以【 <b>
+   合法地
+  </b> 】进行秘密拘捕——太阴险啦，良心大大滴坏！）。所以，俺要继续完善 <a href="https://program-think.blogspot.com/2010/04/howto-cover-your-tracks-0.html"> “如何隐藏踪迹”系列 </a> ，帮助大伙儿躲避朝廷的网络追捕。 <br /> 关于多重代理，在前几个月的翻墙贴《 <a href="https://program-think.blogspot.com/2011/09/gfw-vpn-hotspot-shield.html"> 扫盲 VPN 翻墙——以 Hotspot Shield 为例 </a> 》中，稍微提到过。今天来完整地介绍一下。 <br /> <a name="more">
+  </a>     <!--program-think-->
+ <br /> <br />     <h2 id="section"> ★什么是多重代理？ </h2>
+ <br /> 先声明一下：本文所说的“代理”是广义的，包括了：“传统意义上的代理”与“VPN”。 <br /> 平时咱们用代理来翻墙，大部分属于一重代理（如下图）。也就是说，不论你用的是 VPN 还是 HTTP Proxy 还是 SOCKS Proxy，当中都只有【一个】服务器进行中转。 <br />     <center> <img alt="不见图 请翻墙" src="https://lh3.googleusercontent.com/Rgn4KkxdyjmPB38AzrpvSsbN4fipGKcQ1H0ZuoerIncEbSCABXF23FGZ5xY2qw4RZ24dQv0Dq3gqGnn-pMNXbfb4AyXV1sOht7JCc6Q8hqatkUwaSg" /> </center>
+ <br /> 单重代理可以（在一定程度上）保护你的隐私，防范跨省追捕。关于这点，俺在《 <a href="https://program-think.blogspot.com/2010/04/howto-cover-your-tracks-1.html"> 如何隐藏你的踪迹，避免跨省追捕[1]：网络方面的防范 </a> 》一文已经介绍过了。但如果你对隐私的防范，要求比较高（比如说，你是六扇门的重点关注对象），那单重代理的安全性就不太够了——你需要使用多重代理。 <br /> 那多重代理是啥样的捏？为了简单起见，俺画了下面这幅双重代理的示意图。 <br />     <center> <img alt="不见图 请翻墙" src="https://lh3.googleusercontent.com/3ISXywMCtIOfvEZv9FKqIvqGaRRAHaK0qTUxLGMGzK0_zorEGwwL_bqunsnfwYaTJrbOtLtTvaBzONtO4GuXcIwFTBszoDVO8Bwm3jIPOpIW3cfviA" /> </center>
+ <br /> <br />     <h2 id="section-1"> ★需要哪些软件？ </h2>
+ <br />     <h3 id="tor---"> ◇Tor + 其它翻墙工具 </h3>
+ <br /> 理论上，你可以随便挑选两款翻墙工具，然后搞出一个二级代理。但是这样的效果未必理想。 <br /> 根据俺的经验，最佳组合是：用 Tor（俗称“套”）搭配其它的翻墙工具（比如：赛风、无界、自由门、VPN...），组合出多重代理。 <br /> <br />     <h3 id="section-2"> ◇为啥要“戴套”？ </h3>
+ <br /> 长期翻墙的网友，应该都听说过 Tor 这个老牌的翻墙工具（俺曾经扫盲过“ <a href="https://program-think.blogspot.com/2009/09/break-through-gfw-with-tor.html"> 戴套翻墙 </a> ”的技术）。那些从来没听说过 Tor 的网友，可以翻墙看“ <a href="https://zh.wikipedia.org/wiki/Tor" rel="nofollow" target="_blank"> 这里 </a> ”的介绍。 <br /> 其实拿 Tor 来翻墙，颇有杀鸡用牛刀的嫌疑。Tor 的主要强项在于： <b>
+   提供匿名的网络访问，保护你的隐私
+  </b> 。比如名气很大的 <a href="https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E8%A7%A3%E5%AF%86" rel="nofollow" target="_blank"> 维基解密 </a> （WikiLeaks），还有名气很大且很牛逼的 <a href="https://en.wikipedia.org/wiki/Anonymous_%28group%29" rel="nofollow" target="_blank"> 匿名黑客组织 </a> （洋文叫“Anonymous”，最近连续黑掉多个大公司及美国政府部门），他们的成员都是用 Tor 来确保自己的匿名。 <br /> 为啥 Tor 能确保匿名捏？ <br /> 其一， <br /> Tor 在全球有很多节点，当你利用 Tor 上网的时候，从你的电脑到某个网站，需要经过若干个 Tor 节点（通常是3个节点，俗称“三级跳”）。 <br /> 其二， <br /> 第1个节点虽然知道你的公网 IP，但不知道你访问了啥网站；第3个节点虽然知道你访问了啥网站，但不知道你的公网 IP。 <br /> 其三， <br /> 上述的“三级跳”线路是【动态变化】滴（通常每隔10分钟变化一次），这就使得警方难以追溯。 <br /> <br />     <center> <img alt="不见图 请翻墙" src="https://lh4.googleusercontent.com/GJSTx_KBgpvLFpFY5qNc_gkWuMA_KDAmoVBCOXgqTEdoXJsVnsXZRQBPvKTX2_gnJkjzJWZP7D3HcuiqYLAqcuE7VnRuZKQQ9ufP_1GpDpOTtmsqDw" /> <br /> （Tor 网络的示意图） </center>
+ <br /> 假如你有些悟性，自然会发现：Tor 本身就是一个多重代理！既然这样，为啥还要拿 Tor 跟其它翻墙工具搭配捏？主要因为万恶的 GFW 把全球大部分的 Tor 节点都进行了 IP 封锁。因此，如果你不幸身处天朝，是很难直接访问到 Tor 节点滴！所以，咱们只好委屈一下，拿 Tor 搭配其它翻墙工具。 <br /> <br /> <br />     <h2 id="section-3"> ★如何配置？ </h2>
+ <br /> 其实配置并不难，只需如下几步： <br /> <br />     <h3 id="section-4"> ◇第1步：运行翻墙工具 </h3>
+ <br /> 首先，你需要准备好一个【能用的】翻墙工具——可以是 HTTP 代理（比如： <a href="https://program-think.blogspot.com/2011/12/gfw-wujie.html"> 无界 </a> 、 <a href="https://program-think.blogspot.com/2010/03/choose-free-gate.html"> 自由门 </a> 、 <a href="https://program-think.blogspot.com/2011/10/gfw-psiphon.html"> 赛风 </a> ），也可以是 SOCKS 代理，还可以是 VPN（比如 <a href="https://program-think.blogspot.com/2011/09/gfw-vpn-hotspot-shield.html"> Hotspot Shield </a> ）。先把这个翻墙工具运行起来。 <br /> 这个翻墙工具用来作为 Tor 的【前置代理】。 <br /> <br />     <h3 id="tor-"> ◇第2步：安装 Tor </h3>
+ <br /> 如果你使用 Linux 并且发行版的官方仓库已经包含了 Tor，那么就从官方仓库直接安装。 <br /> 否则的话，请【翻墙】到 Tor 的官方网站，下载一个 Tor 的软件包（下载页面在“ <a href="https://www.torproject.org/download/" rel="nofollow" target="_blank"> 这里 </a> ”）。 <br /> 目前官网上提供两种软件包，分别是： <br /> “Tor Browser Bundle”（面向傻瓜用户） <br /> “Expert Bundle”（俗称“裸 Tor”，面向高级用户） <br /> <br />     <h3 id="tor--1"> ◇第3步：配置 Tor </h3>
+ <br /> 如果你下载了“Tor Browser”，参见如下这篇教程： <br /> 《 <a href="https://program-think.blogspot.com/2018/04/gfw-tor-browser-7.5-meek.html"> “如何翻墙”系列：扫盲 Tor Browser 7.5——关于 meek 插件的配置、优化、原理 </a> 》 <br /> 如果你下载了“Expert Bundle”，并且你的操作系统是 Linux/UNIX，参见如下这篇教程： <br /> 《 <a href="https://program-think.blogspot.com/2015/03/Tor-Arm.html"> 扫盲 Arm——Tor 的界面前端（替代已死亡的 Vidalia） </a> 》 <br /> <br />     <h3 id="section-5"> ◇第4步：设置浏览器 </h3>
+ <br /> 刚才说了：Tor 有两种软件包（Bundle）。这两者的【监听端口号】略有差异。因此在配置浏览器时，也略有差异。分别说明如下： <br /> <br /> <b>
+   Tor Browser Bundle
+  </b> <br /> Tor 的监听端口为 <code class="language-plaintext highlighter-rouge">
+   9150
+  </code> <br /> 由于这种软件包已经内置了 Firefox，且 Firefox 已经绑定到 Tor。因此，你【无需任何设置】。 <br /> <br /> <b>
+   Expert Bundle
+  </b> （裸 Tor） <br /> Tor 的监听端口为 <code class="language-plaintext highlighter-rouge">
+   9050
+  </code> <br /> 对于这种软件包，你要把浏览器的【SOCKS 代理】指向 Tor（地址 <code class="language-plaintext highlighter-rouge">
+   127.0.0.1
+  </code> 端口 <code class="language-plaintext highlighter-rouge">
+   9050
+  </code> ），就可以通过 Tor 匿名上网了。 <br /> <b>
+   为了保险起见，可以用浏览器访问 Tor 官网的检查页面（在“
+   <a href="https://check.torproject.org/" rel="nofollow" target="_blank">
+    这里
+   </a>
+   ”），验证一下你是否真的通过 Tor 上网。
+  </b> <br /> <br />     <h3 id="section-6"> ◇第5步：设置其它网络软件 </h3>
+ <br /> 如果你想让其它的网络软件（比如：聊天软件、下载工具）通过 Tor 来隐藏你的 IP，也很容易。参见刚才浏览器的代理设置——SOCKS 代理，地址 <code class="language-plaintext highlighter-rouge">
+   127.0.0.1
+  </code> ，端口号使用 <code class="language-plaintext highlighter-rouge">
+   9050
+  </code> （裸 Tor）或 <code class="language-plaintext highlighter-rouge">
+   9150
+  </code> （Tor Browser）。以 MSN 为例，你只需在 MSN 的网络设置界面填写 Tor 的 SOCKS 代理即可。 <br /> 为了保险起见，到 Tor 的管理界面看一下 Tor 的网络流量。只要该网络软件使用的时候，Tor 的管理界面显示出流量，就说明这些网络软件已经通过 Tor 匿名上网了。 <br /> <br /> <br />     <h2 id="section-7"> ★多重代理的【好处】 </h2>
+ <br />     <h3 id="section-8"> ◇防范追踪 </h3>
+ <br /> 举个例子： <br /> 假设你用 VPN 翻墙并发表一些抨击党国的言论。万一 VPN 提供商在 VPN 服务器上记录了你的网络流量，而党国又逼迫该 VPN 供应商交出这些流量记录。那么，党国的爪牙就【 <b>
+   有可能
+  </b> 】分析出你的上网行为。 <br /> 用了多重代理之后，任何一个代理服务器记录你的网络流量，都无法对你的流量进行分析。 <br /> 比方说你用的是“Tor + 赛风”。虽然赛风服务器知道你的真实公网 IP，但是无法知道你访问哪个网站及访问的的内容（因为 Tor 的流量是加密的）；而 Tor 的“最后一个节点”（出口节点）虽然知道你访问了哪个网站以及访问的内容，但是它不知道你来自哪里（不清楚你的真实公网 IP）。 <br /> <br />     <h3 id="section-9"> ◇伪装国籍 </h3>
+ <br /> 除了上述好处，使用 Tor 还有另一个好处——伪装国籍。比方说，你想让自己看起来像是美国的用户，只需要修改 Tor 的配置文件，使用美国境内的【出口节点】。这种情况下，你访问的网站就会以为你来自美国。 <br /> <br /> <br />     <h2 id="section-10"> ★多重代理的【坏处】 </h2>
+ <br /> 当然啦，有利就有弊。以下是多重代理的一些缺点： <br /> <br />     <h3 id="section-11"> ◇配置复杂 </h3>
+ <br /> 跟单重代理比起来，多重代理显然需要更多的设置。很多网友属于技术门外汉，多半对它望而却步。所以，俺才会专门写这么一篇博文，扫盲多重代理。 <br /> <br />     <h3 id="section-12"> ◇性能下降 </h3>
+ <br /> 通常来说，多重代理的性能会比单重代理要差一些。 <br /> 根据俺近几年的经验——只要【前置代理】的速度足够快，“前置代理 + Tor”的速度也慢不到哪里去。以下是俺电脑上的 Tor 流量截图（基于“赛风+Tor”）。 <br />     <center> <img alt="不见图 请翻墙" src="https://lh5.googleusercontent.com/99PJcrFDw0ooSRN-JikBLgbK0OTvXMVMV2qcJbkRY3HoJWKKiob6Dt6JApixCjwXTX7HsO5B4-pFRTFiyJKLpKL_umZRDnLC83df4U8Cabs1kI33Pw" /> </center>
+ <br /> <b>
+   <a href="https://program-think.blogspot.com/2010/04/howto-cover-your-tracks-0.html#index">
+    回到本系列的目录
+   </a>
+  </b> <br /> <br /> <br /> <b>
+   俺博客上，和本文相关的帖子（需翻墙）
+  </b> ： <br /> 《 <a href="https://program-think.blogspot.com/2013/11/tor-faq.html"> 关于 Tor 的常见问题解答 </a> 》 <br /> 《 <a href="https://program-think.blogspot.com/2015/03/Tor-Arm.html"> 扫盲 Arm——Tor 的界面前端（替代已死亡的 Vidalia） </a> 》 <br /> 《 <a href="https://program-think.blogspot.com/2009/09/break-through-gfw-with-tor.html"> 戴“套”翻墻的方法 </a> 》     <div class="post-copyright">
+<b>
+    版权声明
+   </b> <br /> 本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者 <a href="mailto:program.think@gmail.com"> 编程随想 </a> 和本文原始地址： <br /> <a href="https://program-think.blogspot.com/2012/03/howto-cover-your-tracks-5.html" id="OriginalPostUrl"> https://program-think.blogspot.com/2012/03/howto-cover-your-tracks-5.html </a>
+    </div>
+    <div style="clear: both;"></div>
+  </div>
+  <div class="post-footer" style="margin-bottom:50px;">
+    <div class="post-footer-line post-footer-line-1" style="display:none;">
+<span class="post-author vcard"> </span> <span class="reaction-buttons"> </span> <span class="star-ratings"> </span> <span class="post-icons"> </span> <span class="post-backlinks post-comment-link"> </span>
+    </div>
+    <div class="post-footer-line post-footer-line-2 post-toolbar"></div>
+    <div class="post-footer-line post-footer-line-3">
+<span class="post-location"> </span>
+    </div>
+  </div>
+</div>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#编程随想 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2021-05-09/%E5%88%86%E4%BA%AB%E5%90%84%E7%B1%BB%E7%94%B5%E5%AD%90%E4%B9%A6-%E6%94%BF%E6%B2%BB-IT-%E7%A7%91%E6%99%AE-%E5%8E%86%E5%8F%B2-%E7%AD%89-97%E6%9C%AC/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-01-15/%E5%8D%9A%E5%AE%A2%E5%BC%80%E5%BC%A0%E5%8F%8A%E6%9C%AC%E5%8D%9A%E5%AE%A2%E5%86%85%E5%AE%B9%E7%AE%80%E4%BB%8B/">最早</a>--</span>
+    
+      <li>
+        <time>2012-03-26</time>
+        <a href="https://nodebe4.github.io/opinion/2012-03-26/%E5%9B%9E%E9%A1%BE%E5%85%AD%E5%9B%9B%E7%B3%BB%E5%88%97-14-4%E6%9C%8822%E6%97%A5-%E8%83%A1%E8%80%80%E9%82%A6%E7%9A%84%E4%B8%A4%E5%9C%BA%E8%BF%BD%E6%82%BC%E4%BC%9A/">
+          回顾六四系列[14]：4月22日，胡耀邦的两场追悼会
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2012-03-17</time>
+        <a href="https://nodebe4.github.io/opinion/2012-03-17/%E5%85%AB%E5%8D%A6%E4%B8%80%E4%B8%8B%E8%96%84%E7%86%99%E6%9D%A5%E5%8E%BB%E8%81%8C%E7%9A%84%E5%AE%98%E6%96%B9%E6%8A%A5%E9%81%93%E5%92%8C%E5%B0%8F%E9%81%93%E6%B6%88%E6%81%AF/">
+          八卦一下薄熙来去职的官方报道和小道消息
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2012-03-07</time>
+        <a href="https://nodebe4.github.io/opinion/2012-03-07/%E7%94%A8%E6%8F%90%E9%97%AE%E6%9D%A5%E4%BF%83%E8%BF%9B%E6%80%9D%E7%BB%B4-%E5%85%BC%E8%B0%88-%E9%9D%9E-%E6%8A%80%E6%9C%AF%E9%A2%86%E5%9F%9F%E7%9A%84-WHAT-HOW-WHY-%E4%B8%89%E9%83%A8%E6%9B%B2/">
+          用提问来促进思维——兼谈【非】技术领域的 WHAT HOW WHY 三部曲
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2012-02-28</time>
+        <a href="https://nodebe4.github.io/opinion/2012-02-28/%E4%B8%BA%E5%95%A5%E4%BF%BA%E4%B8%8D%E5%B8%B8%E7%94%A8%E5%BE%AE%E5%8D%9A-%E5%85%BC%E8%B0%88%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86%E5%BF%83%E5%BE%97/">
+          为啥俺不常用微博？——兼谈时间管理心得
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2012-03-12/%E5%9F%BA%E8%BE%9B%E6%A0%BC-%E4%B8%AD%E7%BE%8E%E5%86%B2%E7%AA%81%E5%B9%B6%E9%9D%9E%E5%BF%85%E7%84%B6/">
+            前一篇：基辛格：中美冲突并非必然
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2012-03-14/%E8%8A%B1%E9%92%B1%E7%9A%84%E8%89%BA%E6%9C%AF-%E4%B8%AD%E5%9B%BD%E8%A6%81%E5%87%BA%E6%89%8B%E6%8F%B4%E5%8A%A9%E6%AC%A7%E7%9B%9F%E5%90%97/">
+            後一篇：花钱的艺术：中国要出手援助欧盟吗？
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2012-03-12/%E5%9F%BA%E8%BE%9B%E6%A0%BC-%E4%B8%AD%E7%BE%8E%E5%86%B2%E7%AA%81%E5%B9%B6%E9%9D%9E%E5%BF%85%E7%84%B6/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2012-03-14/%E8%8A%B1%E9%92%B1%E7%9A%84%E8%89%BA%E6%9C%AF-%E4%B8%AD%E5%9B%BD%E8%A6%81%E5%87%BA%E6%89%8B%E6%8F%B4%E5%8A%A9%E6%AC%A7%E7%9B%9F%E5%90%97/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2012-03-17/%E5%85%AB%E5%8D%A6%E4%B8%80%E4%B8%8B%E8%96%84%E7%86%99%E6%9D%A5%E5%8E%BB%E8%81%8C%E7%9A%84%E5%AE%98%E6%96%B9%E6%8A%A5%E9%81%93%E5%92%8C%E5%B0%8F%E9%81%93%E6%B6%88%E6%81%AF/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2012-03-07/%E7%94%A8%E6%8F%90%E9%97%AE%E6%9D%A5%E4%BF%83%E8%BF%9B%E6%80%9D%E7%BB%B4-%E5%85%BC%E8%B0%88-%E9%9D%9E-%E6%8A%80%E6%9C%AF%E9%A2%86%E5%9F%9F%E7%9A%84-WHAT-HOW-WHY-%E4%B8%89%E9%83%A8%E6%9B%B2/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2012-03-12/%E5%9F%BA%E8%BE%9B%E6%A0%BC-%E4%B8%AD%E7%BE%8E%E5%86%B2%E7%AA%81%E5%B9%B6%E9%9D%9E%E5%BF%85%E7%84%B6/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2012-03-14/%E8%8A%B1%E9%92%B1%E7%9A%84%E8%89%BA%E6%9C%AF-%E4%B8%AD%E5%9B%BD%E8%A6%81%E5%87%BA%E6%89%8B%E6%8F%B4%E5%8A%A9%E6%AC%A7%E7%9B%9F%E5%90%97/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<编程随想>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2012-03-17/%E5%85%AB%E5%8D%A6%E4%B8%80%E4%B8%8B%E8%96%84%E7%86%99%E6%9D%A5%E5%8E%BB%E8%81%8C%E7%9A%84%E5%AE%98%E6%96%B9%E6%8A%A5%E9%81%93%E5%92%8C%E5%B0%8F%E9%81%93%E6%B6%88%E6%81%AF/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<编程随想>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2012-03-07/%E7%94%A8%E6%8F%90%E9%97%AE%E6%9D%A5%E4%BF%83%E8%BF%9B%E6%80%9D%E7%BB%B4-%E5%85%BC%E8%B0%88-%E9%9D%9E-%E6%8A%80%E6%9C%AF%E9%A2%86%E5%9F%9F%E7%9A%84-WHAT-HOW-WHY-%E4%B8%89%E9%83%A8%E6%9B%B2/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

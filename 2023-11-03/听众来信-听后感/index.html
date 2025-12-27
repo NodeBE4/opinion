@@ -1,0 +1,1499 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>听众来信：听后感 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+听众来信：听后感
+——
+" />
+    <meta property="og:description" content="
+听众来信：听后感
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="听众来信：听后感" />
+    <meta property="twitter:title" content="听众来信：听后感" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fwww.bumingbai.net%2F2023%2F11%2Fwrite-to-bumingbai-02%2F%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dwrite-to-bumingbai-02" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://www.bumingbai.net/2023/11/write-to-bumingbai-02/?utm_source=rss&utm_medium=rss&utm_campaign=write-to-bumingbai-02" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://www.bumingbai.net/2023/11/write-to-bumingbai-02/?utm_source=rss&utm_medium=rss&utm_campaign=write-to-bumingbai-02&text=听众来信：听后感&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://www.bumingbai.net/2023/11/write-to-bumingbai-02/?utm_source=rss&utm_medium=rss&utm_campaign=write-to-bumingbai-02&title=听众来信：听后感" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.bumingbai.net/2023/11/write-to-bumingbai-02/?utm_source=rss&utm_medium=rss&utm_campaign=write-to-bumingbai-02&title=听众来信：听后感" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=听众来信：听后感&body=
+听众来信：听后感
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://www.bumingbai.net/2023/11/write-to-bumingbai-02/?utm_source=rss&utm_medium=rss&utm_campaign=write-to-bumingbai-02" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://www.bumingbai.net/2023/11/write-to-bumingbai-02/?utm_source=rss&utm_medium=rss&utm_campaign=write-to-bumingbai-02&title=听众来信：听后感&caption=
+听众来信：听后感
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=听众来信：听后感&url=https://www.bumingbai.net/2023/11/write-to-bumingbai-02/?utm_source=rss&utm_medium=rss&utm_campaign=write-to-bumingbai-02" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>听众来信：听后感</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2023-11-03
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#不明白播客">
+          不明白播客
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://www.bumingbai.net/2023/11/write-to-bumingbai-02/?utm_source=rss&utm_medium=rss&utm_campaign=write-to-bumingbai-02" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="不明白播客的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#不明白播客 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1698994184000-->
+<p><a href="https://www.bumingbai.net/2023/11/write-to-bumingbai-02/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=write-to-bumingbai-02">听众来信：听后感</a>
+——</p>
+
+<div>
+  <p>尊敬的不明白编辑部和袁莉姐，你们好</p>
+  <p>首先非常感谢你们录制的内容，通过袁莉姐的采访和各位嘉宾的回答，我了解了许多观点，也很欣慰在当下的时代还有这样的声音和良知在简中媒体中存在，很多时候听到那些名字，听到节目中如此有温度的讨论，就好像是往日的旧梦。</p>
+  <p>今天听了<a href="https://www.bumingbai.net/2023/10/ep-069-zhang-lun-on-li-keqiang/">张伦讨论李克强</a>的节目，那些往日回忆又涌上心头，一不小心写了很多，前两段都是一些回忆吧，我想说很多人都和我一样，曾经没有醒，相信过那个人的谎言，对程序正义和制度没有足够的支持——事情到今天，我也有责任。最后一段我想说，李克强走了，他代表的时代其实早就没了，他这一走算是奏完了上个时代的最后音符，只愿留下来的人有新的努力，离开的人能有好的生活。下面是我详细的内容：</p>
+  <p><strong>## 过去闪着荣光的日子</strong></p>
+  <p>我是一名90后，由于家里外公炒股的缘故，从小就看了很多时事政治新闻。回想小时候，那是一个充满了希望的年代，是一个中国张开双臂迎接世界的时代，还记得中国申奥成功和加入WTO 的举国欢腾，还记得08年奥运的时候我飞奔回家看升旗仪式。</p>
+  <p>我对这个世界的了解基本是看电视和杂志建立起来的，我读初中的时候，市面上时政类的杂志报刊我大多有看过，也是从那时起，我第一次看了《南方周末》，现在还记得社会新闻中一则关于低级妓女群体经常在被杀害后无人问津的新闻，它是我的公民意识启蒙读物。那会儿的中央台还有许多深刻的报道，《新闻调查》的柴静和她写的《看见》；报摊上的《凤凰周刊》也有一些独到的见解，通过它我第一次知道了大清洗的惨烈。也是顺着这股好奇，我开始了解文革的原因，开始了解共和国的早期历史，张志新的惨案现在还令我感到揪心，更遑论这样的历史在最近100年来在这片土地上不断重演。但事情好像开始慢慢变好，比如汶川地震之后，不少杂志都揭露了学校的楼房质量存在问题才导致死伤如此惨重，虽然这个问题没有人追究——不过我想，这是一时的，事情会慢慢好起来。</p>
+  <p>然而，后来是《南方周末》被整治，是修宪，再后来就是各种离奇的操作了。工作之后我更是越发的不关心政治了，毕竟只有憋屈和痛苦，而充满希望的旧时光早就忘记了，当听了《<a href="https://www.bumingbai.net/2022/10/ep-019-jiang-xue-zhang-jieping/">EP-019 江雪/张洁平：中国媒体过去10年发生了什么</a>》，我才想起原来也有过闪着光芒的日子。</p>
+  <p><strong>## 出来混，最终是要还的</strong></p>
+  <p>我是一位互联网从业人员，大学毕业后，我以应届生的身份进入了互联网。虽然我没有财富自由，也不是什么领导，但也搭上了互联网发展的快车，在互联网公司里还是有一些世外桃源的感觉，同事们多以同学相称，我们学习美国和全世界先进的例子，拿着高工资，过着不错的生活。虽然房价很高，虽然很卷，但是我们中的许多人相信，我们能持续快速发展，而发展就能解决问题——钱到位了，问题就解决了。特别是支付宝即将上市的那几年，阿里的方法论，腾讯的平台思维等等，中国的互联网就是中国和美国平起平坐的象征，我们又有什么好向美国学习的呢？我甚至开始相信习近平是好心的，他是为了集中力量办大事才改的宪法——领导的好心可能我们这些基层群众就要多多体谅吧。</p>
+  <p>但逐渐的我也发现习近平开始执行各种异常保守和反智的政策，虽然不喜欢，但我还是觉得发展能解决问题，他也不会闹出多大动静。虽然19年前后我也想过出去念书，但觉得出去镀金没有什么性价比，不如好好上班挣钱。回头看看这是我个人视野的巨大局限，</p>
+  <p>然后就是疫情来了。一开始武汉的事情我以为会让大家开始觉醒，意识到习近平的问题；但没想到特朗普送了一波大礼，美国的情况更糟糕，甚至后来中国反倒成了防治的标杆。疫情常态化之后，互联网反倒受益，我的工作很稳定，说实话疫情没有摧毁过我的生活。而作为私企员工我的行动也不受限制，疫情这几年我反倒在国内四处旅行，一方面见识了大好河山，一方面也见到了各种匪夷所思的政策——还记得在新疆，被荷枪实弹的警察突然封路，以及偷偷背包徒步进入伊犁。我感叹新疆真的如外媒所说，有太多隐秘的制度。</p>
+  <p>不过这一切我都是旁观者，那种恐慌的感觉直到利维坦翻身砸向阿里和其他互联网公司，我看着互联网市值暴跌，才开始思考自己的出路。我才发现，互联网的那些福利、文化都是建立在流沙之上，没有制度性的保障，公司随时会被政府找上门；没有产权保护和法律保护，哪家公司又敢做真正的长期投入呢？所以我们要跑得快，要能快速变现，卷没有止境。公司是国家的囊中物，那么我就是公司的囊中物，我这样的早期90后也即将成为老白兔，随时可以作为公司的负资产被清理。</p>
+  <p>无论是工作，还是疫情期间出去旅游，投机和有门路才是有路可走的王道，这方面<a href="https://www.bumingbai.net/2023/09/ep-062-shen-tong/">沈彤先生</a>在节目里的分析很深刻。也是这样，上海疫情的时候，我没有相信政府，提前跑路回老家远程办公，没想到躲过了那么大的灾难。</p>
+  <p><strong>## 不再呼唤青天大老爷</strong></p>
+  <p>差不多阿里被整治的时候，我到了外企，对接新加坡。然后我才发现，原本以为和我们一样卷的华人，其实底线比我们高得多。于是，我开始谋划念书润出去（这时候差不多到了22年中旬）。</p>
+  <p>很凑巧，我的朋友给我推荐了不明白播客。二十大专题我每一期都认真收听，每一期都听得我真抑郁，但每一期都觉得很赞同，并且带给了我全新的视角——一个坏的制度自然会被窃国者篡权，自然无法鼓励真正的创新和持久的发展，今天的倒退不是一时的风，而是巨大而缓慢的趋势。</p>
+  <p>再后来，我又开始看一些政治的东西，刘瑜的《可能性的艺术》让我感触很深——<strong>民主是一种全社会的共识，而不只是纸上的几个字。我想现在中国有这样的领袖，像我一样的普通大众也有一些责任，是我们听之任之，是我们的麻木让社会风气可以有很大的余地被他们利用</strong>。</p>
+  <p>现如今，国内的风气还在日渐保守、退步，我说西方的东西好，说一点普世价值也有可能被朋友当面说是“崇洋媚外”，“数祖忘典”。希望有机会他们可以看看我的故事，可以知道我真的关心这片土地，至少关心我的社区，可以知道我们所谈论的只是问题的解决方案，并不是他们说的那样，他们也被人利用了——就像曾经的我那样，相信了某个人的谎言。</p>
+  <p>我现在已经申请了出去念书，也不再希望中国能有个青天大老爷拯救它——我们有过优秀的领导人，特别是这期播客怀念的八九十年代，可是又怎样呢？</p>
+  <p>李克强走了，他说长江水不会倒流，可我们都知道长江水早就倒流很多年了。很喜欢嘉宾张伦对李克强的评价，深刻又客观。我觉得朋友圈中大家神化李克强并没有什么意义，我们造的神，毁的神还不够多么？只愿我们每个人都醒过来，拒绝强加在我们身上的不公平，拒绝冷漠，拒绝做暴权的帮凶——能少出一分力就是一分力。此时此刻，只想起鲁迅的一句话：“能做事的做事，能发声的发声，有一分热,发一分光，就令萤火一般，也可以在黑暗里发一点光,不必等候炬火”。希望有一天，我们不用再呼唤一个青天大老爷给我们当家做主，希望那一天，通过规章制度就能实现正义，保护人民。</p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#不明白播客 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-28/EP-137-%E8%AE%B8%E6%88%90%E9%92%A2-DeepSeek-%E6%B0%91%E4%BC%81%E5%BA%A7%E8%B0%88%E4%BC%9A%E8%83%BD%E5%90%A6%E9%87%8D%E6%8C%AF%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E-(%E6%96%87%E5%AD%97%E7%89%88/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2022-10-09/EP-020-%E8%94%A1%E9%9C%9E-%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E5%AF%B9%E4%B8%AD%E5%85%B1%E7%BB%9D%E6%9C%9B/">最早</a>--</span>
+    
+      <li>
+        <time>2023-11-10</time>
+        <a href="https://nodebe4.github.io/opinion/2023-11-10/EP-072-%E5%9C%A8%E7%BB%8F%E6%B5%8E%E8%90%A7%E6%9D%A1%E4%B8%AD%E6%8C%A3%E6%89%8E%E7%9A%84%E5%86%9C%E6%B0%91%E5%B7%A5-%E4%B8%8B-%E6%96%87%E5%AD%97%E7%89%88/">
+          EP-072 在经济萧条中挣扎的农民工（下，文字版）
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-11-10</time>
+        <a href="https://nodebe4.github.io/opinion/2023-11-10/EP-072-%E5%9C%A8%E7%BB%8F%E6%B5%8E%E8%90%A7%E6%9D%A1%E4%B8%AD%E6%8C%A3%E6%89%8E%E7%9A%84%E5%86%9C%E6%B0%91%E5%B7%A5-%E4%B8%8B/">
+          EP-072 在经济萧条中挣扎的农民工（下）
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-11-03</time>
+        <a href="https://nodebe4.github.io/opinion/2023-11-03/EP-071-%E4%BB%96%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E6%82%BC%E5%BF%B5%E6%9D%8E%E5%85%8B%E5%BC%BA-%E6%96%87%E5%AD%97%E7%89%88/">
+          EP-071 他们为什么悼念李克强？（文字版）
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-11-03</time>
+        <a href="https://nodebe4.github.io/opinion/2023-11-03/EP-071-%E4%BB%96%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E6%82%BC%E5%BF%B5%E6%9D%8E%E5%85%8B%E5%BC%BA/">
+          EP-071 他们为什么悼念李克强？
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2023-11-03/%E4%BD%A0%E5%B0%B1%E6%98%AF%E4%BA%BA%E7%94%9F%E7%9A%84CEO-%E7%B3%BB%E7%B5%B1%E6%80%9D%E8%80%83%E6%8E%8C%E6%8F%A1%E5%85%A8%E5%B1%80/">
+            前一篇：你就是人生的CEO：系統思考掌握全局
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2023-11-03/%E6%9A%97%E6%AE%BA%E6%9D%8E%E5%85%8B%E5%BC%B7-%E7%9A%84%E6%87%B7%E7%96%91%E5%B0%8D%E7%BF%92%E8%BF%91%E5%B9%B3%E6%84%8F%E5%91%B3%E8%91%97%E4%BB%80%E9%BA%BC-%E9%80%8F%E8%A6%96%E4%B8%AD%E5%9C%8B-%E6%99%82%E4%BA%8B%E8%A7%A3%E8%AE%80-0130-SinoInsider-2/">
+            後一篇：「暗殺李克強」的懷疑對習近平意味著什麼？｜「透視中國」時事解讀【0130】SinoInsider 20230101
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2023-11-03/%E4%BD%A0%E5%B0%B1%E6%98%AF%E4%BA%BA%E7%94%9F%E7%9A%84CEO-%E7%B3%BB%E7%B5%B1%E6%80%9D%E8%80%83%E6%8E%8C%E6%8F%A1%E5%85%A8%E5%B1%80/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2023-11-03/%E6%9A%97%E6%AE%BA%E6%9D%8E%E5%85%8B%E5%BC%B7-%E7%9A%84%E6%87%B7%E7%96%91%E5%B0%8D%E7%BF%92%E8%BF%91%E5%B9%B3%E6%84%8F%E5%91%B3%E8%91%97%E4%BB%80%E9%BA%BC-%E9%80%8F%E8%A6%96%E4%B8%AD%E5%9C%8B-%E6%99%82%E4%BA%8B%E8%A7%A3%E8%AE%80-0130-SinoInsider-2/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2023-11-10/EP-072-%E5%9C%A8%E7%BB%8F%E6%B5%8E%E8%90%A7%E6%9D%A1%E4%B8%AD%E6%8C%A3%E6%89%8E%E7%9A%84%E5%86%9C%E6%B0%91%E5%B7%A5-%E4%B8%8B/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2023-11-03/EP-071-%E4%BB%96%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E6%82%BC%E5%BF%B5%E6%9D%8E%E5%85%8B%E5%BC%BA-%E6%96%87%E5%AD%97%E7%89%88/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2023-11-03/%E4%BD%A0%E5%B0%B1%E6%98%AF%E4%BA%BA%E7%94%9F%E7%9A%84CEO-%E7%B3%BB%E7%B5%B1%E6%80%9D%E8%80%83%E6%8E%8C%E6%8F%A1%E5%85%A8%E5%B1%80/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2023-11-03/%E6%9A%97%E6%AE%BA%E6%9D%8E%E5%85%8B%E5%BC%B7-%E7%9A%84%E6%87%B7%E7%96%91%E5%B0%8D%E7%BF%92%E8%BF%91%E5%B9%B3%E6%84%8F%E5%91%B3%E8%91%97%E4%BB%80%E9%BA%BC-%E9%80%8F%E8%A6%96%E4%B8%AD%E5%9C%8B-%E6%99%82%E4%BA%8B%E8%A7%A3%E8%AE%80-0130-SinoInsider-2/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<不明白播客>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2023-11-10/EP-072-%E5%9C%A8%E7%BB%8F%E6%B5%8E%E8%90%A7%E6%9D%A1%E4%B8%AD%E6%8C%A3%E6%89%8E%E7%9A%84%E5%86%9C%E6%B0%91%E5%B7%A5-%E4%B8%8B/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<不明白播客>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2023-11-03/EP-071-%E4%BB%96%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E6%82%BC%E5%BF%B5%E6%9D%8E%E5%85%8B%E5%BC%BA-%E6%96%87%E5%AD%97%E7%89%88/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

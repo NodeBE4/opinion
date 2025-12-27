@@ -1,0 +1,904 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>【404档案馆】第195期：不被允许的苦难：《隐入尘烟》与中国电影的主旋律困境 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+【404档案馆】第195期：不被允许的苦难：《隐入尘烟》与中国电影的主旋律困境
+——
+" />
+    <meta property="og:description" content="
+【404档案馆】第195期：不被允许的苦难：《隐入尘烟》与中国电影的主旋律困境
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="【404档案馆】第195期：不被允许的苦难：《隐入尘烟》与中国电影的主旋律困境" />
+    <meta property="twitter:title" content="【404档案馆】第195期：不被允许的苦难：《隐入尘烟》与中国电影的主旋律困境" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fmatters.news%2F%40ChinaDT%2F404%25E6%25A1%25A3%25E6%25A1%2588%25E9%25A6%2586-%25E7%25AC%25AC195%25E6%259C%259F-%25E4%25B8%258D%25E8%25A2%25AB%25E5%2585%2581%25E8%25AE%25B8%25E7%259A%2584%25E8%258B%25A6%25E9%259A%25BE-%25E9%259A%2590%25E5%2585%25A5%25E5%25B0%2598%25E7%2583%259F-%25E4%25B8%258E%25E4%25B8%25AD%25E5%259B%25BD%25E7%2594%25B5%25E5%25BD%25B1%25E7%259A%2584%25E4%25B8%25BB%25E6%2597%258B%25E5%25BE%258B%25E5%259B%25B0%25E5%25A2%2583-bafyreigmzqrfmqic46emogqgbwpfh6pvjd5nq2exzuyl7glqupr6vczq6i" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC195%E6%9C%9F-%E4%B8%8D%E8%A2%AB%E5%85%81%E8%AE%B8%E7%9A%84%E8%8B%A6%E9%9A%BE-%E9%9A%90%E5%85%A5%E5%B0%98%E7%83%9F-%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E7%9A%84%E4%B8%BB%E6%97%8B%E5%BE%8B%E5%9B%B0%E5%A2%83-bafyreigmzqrfmqic46emogqgbwpfh6pvjd5nq2exzuyl7glqupr6vczq6i" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC195%E6%9C%9F-%E4%B8%8D%E8%A2%AB%E5%85%81%E8%AE%B8%E7%9A%84%E8%8B%A6%E9%9A%BE-%E9%9A%90%E5%85%A5%E5%B0%98%E7%83%9F-%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E7%9A%84%E4%B8%BB%E6%97%8B%E5%BE%8B%E5%9B%B0%E5%A2%83-bafyreigmzqrfmqic46emogqgbwpfh6pvjd5nq2exzuyl7glqupr6vczq6i&text=【404档案馆】第195期：不被允许的苦难：《隐入尘烟》与中国电影的主旋律困境&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC195%E6%9C%9F-%E4%B8%8D%E8%A2%AB%E5%85%81%E8%AE%B8%E7%9A%84%E8%8B%A6%E9%9A%BE-%E9%9A%90%E5%85%A5%E5%B0%98%E7%83%9F-%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E7%9A%84%E4%B8%BB%E6%97%8B%E5%BE%8B%E5%9B%B0%E5%A2%83-bafyreigmzqrfmqic46emogqgbwpfh6pvjd5nq2exzuyl7glqupr6vczq6i&title=【404档案馆】第195期：不被允许的苦难：《隐入尘烟》与中国电影的主旋律困境" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC195%E6%9C%9F-%E4%B8%8D%E8%A2%AB%E5%85%81%E8%AE%B8%E7%9A%84%E8%8B%A6%E9%9A%BE-%E9%9A%90%E5%85%A5%E5%B0%98%E7%83%9F-%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E7%9A%84%E4%B8%BB%E6%97%8B%E5%BE%8B%E5%9B%B0%E5%A2%83-bafyreigmzqrfmqic46emogqgbwpfh6pvjd5nq2exzuyl7glqupr6vczq6i&title=【404档案馆】第195期：不被允许的苦难：《隐入尘烟》与中国电影的主旋律困境" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=【404档案馆】第195期：不被允许的苦难：《隐入尘烟》与中国电影的主旋律困境&body=
+【404档案馆】第195期：不被允许的苦难：《隐入尘烟》与中国电影的主旋律困境
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC195%E6%9C%9F-%E4%B8%8D%E8%A2%AB%E5%85%81%E8%AE%B8%E7%9A%84%E8%8B%A6%E9%9A%BE-%E9%9A%90%E5%85%A5%E5%B0%98%E7%83%9F-%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E7%9A%84%E4%B8%BB%E6%97%8B%E5%BE%8B%E5%9B%B0%E5%A2%83-bafyreigmzqrfmqic46emogqgbwpfh6pvjd5nq2exzuyl7glqupr6vczq6i" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC195%E6%9C%9F-%E4%B8%8D%E8%A2%AB%E5%85%81%E8%AE%B8%E7%9A%84%E8%8B%A6%E9%9A%BE-%E9%9A%90%E5%85%A5%E5%B0%98%E7%83%9F-%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E7%9A%84%E4%B8%BB%E6%97%8B%E5%BE%8B%E5%9B%B0%E5%A2%83-bafyreigmzqrfmqic46emogqgbwpfh6pvjd5nq2exzuyl7glqupr6vczq6i&title=【404档案馆】第195期：不被允许的苦难：《隐入尘烟》与中国电影的主旋律困境&caption=
+【404档案馆】第195期：不被允许的苦难：《隐入尘烟》与中国电影的主旋律困境
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=【404档案馆】第195期：不被允许的苦难：《隐入尘烟》与中国电影的主旋律困境&url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC195%E6%9C%9F-%E4%B8%8D%E8%A2%AB%E5%85%81%E8%AE%B8%E7%9A%84%E8%8B%A6%E9%9A%BE-%E9%9A%90%E5%85%A5%E5%B0%98%E7%83%9F-%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E7%9A%84%E4%B8%BB%E6%97%8B%E5%BE%8B%E5%9B%B0%E5%A2%83-bafyreigmzqrfmqic46emogqgbwpfh6pvjd5nq2exzuyl7glqupr6vczq6i" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>【404档案馆】第195期：不被允许的苦难：《隐入尘烟》与中国电影的主旋律困境</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-11-09
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#中国数字时代">
+          中国数字时代
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC195%E6%9C%9F-%E4%B8%8D%E8%A2%AB%E5%85%81%E8%AE%B8%E7%9A%84%E8%8B%A6%E9%9A%BE-%E9%9A%90%E5%85%A5%E5%B0%98%E7%83%9F-%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E7%9A%84%E4%B8%BB%E6%97%8B%E5%BE%8B%E5%9B%B0%E5%A2%83-bafyreigmzqrfmqic46emogqgbwpfh6pvjd5nq2exzuyl7glqupr6vczq6i" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="中国数字时代的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#中国数字时代 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1668053381000-->
+<p><a href="https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC195%E6%9C%9F-%E4%B8%8D%E8%A2%AB%E5%85%81%E8%AE%B8%E7%9A%84%E8%8B%A6%E9%9A%BE-%E9%9A%90%E5%85%A5%E5%B0%98%E7%83%9F-%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E7%9A%84%E4%B8%BB%E6%97%8B%E5%BE%8B%E5%9B%B0%E5%A2%83-bafyreigmzqrfmqic46emogqgbwpfh6pvjd5nq2exzuyl7glqupr6vczq6i">【404档案馆】第195期：不被允许的苦难：《隐入尘烟》与中国电影的主旋律困境</a>
+——</p>
+
+<div>
+  <p><br /></p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/7d254db9-c54e-4b69-a00c-9f727ed3399f.png" data-asset-id="7d254db9-c54e-4b69-a00c-9f727ed3399f" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>《<a href="https://chinadigitaltimes.net/chinese/404-archives" rel="noopener noreferrer" target="_blank">404档案馆》</a>讲述中国审查与反审查的故事，同时以文字、音频和视频的形式发布。播客节目可在 Apple Podcasts, Google Podcasts, Spotify 或泛用型播客客户端搜索“<a href="https://open.firstory.me/user/cdt" rel="noopener noreferrer" target="_blank">404档案馆</a>”进行收听，视频节目可在Youtube“<a href="https://www.youtube.com/channel/UCwXewCWwaK1-yec8niJLrqg" rel="noopener noreferrer" target="_blank">中国数字时代· 404档案馆</a>”频道收看。</p>
+  <p>欢迎来到404档案馆。在这里，我们一起穿越中国数字高墙。</p>
+  <figure class="embed-video">
+    <div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/XT4NyASdwRM?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+    </div>
+    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>2022年的中国影院荧幕上，出现了这么两部命途迥异的国产电影：《隐入尘烟》与《万里归途》。</p>
+  <p>《隐入尘烟》讲述西北底层农村民众的生活，在经历推迟后，7月低调上映。电影上映之后，因为在短视频平台走红，票房逆势增长、过亿，却在9月开始陆续遭遇下架、下映、话题被屏蔽的命运。</p>
+  <p>对比之下，号称根据真实事件改编的主旋律电影《万里归途》，讲述了一个中国外交官在战火中协助侨民撤侨的故事，成为了2022年十一档期中最火的影片，截至16日，<a href="https://www.stcn.com/article/detail/701680.html" rel="noopener noreferrer" target="_blank">票房已经超过13亿</a>。</p>
+  <p>这两部国产电影迥然不同的经历，也是当下中国电影市场的“新常态”：独立电影越来越少出现在国际电影节，非主旋律电影的上映越来越困难、黄金档期被主旋律影片所垄断。</p>
+  <p>而观众对此的反馈是用脚投票：十一档期总票房为14.96亿元，为2014年以来最差。</p>
+  <p>本期节目，就让我们来回顾深陷“主旋律”困境的中国电影和电影市场最近的遭遇。</p>
+  <h2 id="section"><strong>一、“隐入尘烟”的《隐入尘烟》：不被允许呈现的苦难</strong></h2>
+  <p>《隐入尘烟》是导演李睿珺的西北农村题材作品。拍摄地点位于甘肃河西走廊上的一个小乡村，电影里的演员多为非职业演员，男主角是导演的姨父。片中唯一的大牌演员是女主角海清，而海清为了演好角色，提前10个月进入剧组，住在当地农民的家里熟悉环境和当地方言。影片聚焦在农村里两个被各自家庭抛弃的孤独个体，讲述ta们从陌生到熟悉，从相知到相守的心路历程。</p>
+  <p>本片拍摄艰苦但用心，而且题材涉及到农村边缘群体，对于残疾人和女性的歧视，农村贫瘠面貌的展现，是近几年中国电影少有的农村底层题材。本片的质量也受到了国际电影节的认可，入选了2022年欧洲三大电影节之一的柏林电影节主竞赛单元，是近两年来欧洲三大电影节主竞赛单元入选的<a href="https://posts.careerengine.us/p/62263811e4083066d6c68649" rel="noopener noreferrer" target="_blank">唯一华语长片</a>。</p>
+  <p>但就像中国许多优秀电影近年来的遭遇一样，本片在中国的上映受到了不小的阻力。原定于2月25日上映，上映前夕却突然<a href="https://web.archive.org/web/20220724061807/http://finance.sina.com.cn/jjxw/2022-02-21/doc-imcwiwss2153274.shtml" rel="noopener noreferrer" target="_blank">撤档</a>，原因不明。由于当时正值徐州丰县铁链女事件舆论持续发酵，加上中国电影的审查体制“黑箱操作”，这一撤档决定引发了很多猜测，有网民认为撤档原因是当局担心本片农村题材让观众联想到丰县铁链女，自然，这种说法无法证实，也无人证伪。</p>
+  <ul>
+    <li>更多阅读：<a href="https://chinadigitaltimes.net/chinese/xuzhou-chained-mother" rel="noopener noreferrer" target="_blank">中国数字时代丰县铁链女事件全记录</a></li>
+  </ul>
+  <p>经过几个月的延期，中国观众终于可以在7月8日在大银幕上观看这部电影了。然而，本片初期票房表现并不出众，由于题材小众、没有明星、文艺片性质，加上2022年防疫措施下本就惨淡的电影市场，《隐入尘烟》在上映10天后，票房才突破600万。</p>
+  <p>而命运的转折也在此时发生。《隐入尘烟》中的“金句”片段，在<a href="https://www.douyin.com/video/7116826870498331935" rel="noopener noreferrer" target="_blank">抖音</a>上被网民做成短视频后，获得了超过100万点赞与分享。</p>
+  <p>抖音的走红，助推了票房神奇地逆势增长。</p>
+  <p>8月底，《隐入尘烟》的票房开始快速增长。8月31日，电影票房突破4000万元人民币；9月7日，票房超过一亿元人民币。同样值得关注的是，上映后期，票房的来源从一线城市转到三四线城市为主。电影的讨论热度随着票房不断增加，对于导演和主创的采访也纷至沓来。</p>
+  <figure class="embed-video">
+    <div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/KXS88tc2tEE?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+    </div>
+    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>面对质疑与批评，在接受<a href="https://m.jiemian.com/article/7148175.html" rel="noopener noreferrer" target="_blank">界面新闻</a>采访时，导演李睿珺说：</p>
+  <blockquote>
+“批判的目的是希望它变得更好。我觉得有的时候批判的声音要比赞美来得更有勇气，那些赞美你的人不见得是真的爱你、真的为你好。”  </blockquote>
+  <p>正当《隐入尘烟》口碑和票房蒸蒸日上的时候，9月12日，该片突然在中国影院下映。9月26日，又突然在爱奇艺等流媒体平台下架。10月10日，《隐入尘烟》无预警从原本在列的釜山国际电影节的展映活动<a href="https://chinadigitaltimes.net/chinese/687944.html" rel="noopener noreferrer" target="_blank">消失</a>。此前，《隐入尘烟》虽然受到一些“美化苦难”或是“台词太刻意”的批评，但都属于电影批评的范畴。此次下架，则是有着明显公权力介入的痕迹。</p>
+  <p>香港浸会大学电影学院的陈智廷博士分析认为，这部电影的下架不是其内容本身的问题。他说：“我觉得政府不是害怕这个电影，而是害怕这个电影太受欢迎，当一件事，或一部电影，受到这么广泛的关注，所有人都在讨论的话，大家的意见就会开始分歧。然后它就很容易就会变成一个敏感的事件。”</p>
+  <p>电影《隐入尘烟》讲述苦难，历经苦难，最终在公权力打压下，真正“隐入尘烟”了。</p>
+  <h2 id="section-1"><strong>二、主旋律霸占下，8年最差“十一档”</strong></h2>
+  <p>近几年来逐渐成为热门档期的“十一档”今年也迎来了滑铁卢。10月1日到7日假期期间，中国电影院线总票房为14.96亿元。而去年（2021年）的同期票房数据为43.88亿元，2019年中共建政70周年的票房更是达到了44.66亿。今年票房仅仅高于2014年，为8年来最差。</p>
+  <p>“十一档期”正逢所谓的国庆节假期，在2008年电影《画皮》在这一档期获得票房成功后，成为中国电影市场的一个重要档期。在2016年前，这一档期上映的电影总体还是比较多元的，历年来包括喜剧片、谍战片、奇幻片、公路片都曾拿下票房首位。但自从2016年《湄公河行动》将商业类型片元素融入主旋律，并拿下票房冠军开始，这一档期的主旋律占比越来越高。尤其是2019年中共建政70周年开始，主旋律电影更是垄断了这一档期。</p>
+  <p>今年的“十一档期”，7部上映的电影中，4部真人影片全是主旋律电影。尤其是票房表现最佳的《万里归途》，占领了“十一档期”期间全部电影总票房的70%。影片讲述中国外交官的撤侨故事，但讽刺的是，影片上映同期，中国多地防疫措施升级，大量在十一期间选择返乡、出游的民众行程受到影响，无法正常工作和生活。</p>
+  <p>主旋律并不是影片通过审查的“免死金牌”。今年“十一档期“原本最受舆论关注的，还有一部中国空军题材主旋律影片《长空之王》，但像《隐入尘烟》一样，这部电影在上映前几天突然宣布撤档。通告中宣称“为了呈现更好的制作效果”。但大部分网民并不相信这一理由，有人猜测本片抄袭了美国空军题材的《壮志凌云》(Top Gun)，也有人猜测本片引起了中国空军不满。但没有人知道具体原因。</p>
+  <h2 id="section-2"><strong>三、主旋律的独奏曲：衰败的影院与单一的声音</strong></h2>
+  <p>正如我们在第82期节目<a href="https://chinadigitaltimes.net/chinese/678251.html" rel="noopener noreferrer" target="_blank">《“说不完的八卦”：中国影视审查进化史》</a>中提到的，2021年，官方在《十四五规划》中，提出要“每年重点推出10部左右叫好又叫座的电影精品力作，每年票房过亿元国产影片达到50部左右”，强推主旋律电影。这些影片已经成为政府整体宣传的一部分，它们资金雄厚，网罗国内知名导演，按部就班地拍摄和宣发。</p>
+  <p>面对票房惨淡的“十一档期”，党媒《北京日报》依然刊发文章称：<a href="http://bj.people.com.cn/n2/2022/1003/c14540-40149403.html" rel="noopener noreferrer" target="_blank">《国庆档主旋律影片激起观众家国情怀》</a>，而与此同时，中国影视行业从业人员则哀嚎一片。<a href="https://finance.sina.com.cn/tech/2022-04-08/doc-imcwipii3002074.shtml" rel="noopener noreferrer" target="_blank">《中国新闻周刊》</a>今年4月的报道中，写到了中国影院的倒闭潮，文章总结道：“‘只要疫情结束’——很多业内人士都重复着这句话：只要疫情结束，电影就会回来、观众就会回来、影院就会再次热闹起来……但问题是，影院能撑到那一天吗？”</p>
+  <p><br /></p>
+  <p>中国数字时代 CDT 致力于记录和传播中文互联网上被审查的信息，以及人们与审查对抗的努力。欢迎大家通过<a href="https://t.me/cdtmedia_bot" rel="noopener noreferrer" target="_blank">电报(Telegram)平台</a>向我们投稿，为记录和对抗中国网络审查作出你的贡献！</p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#中国数字时代 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-02-12/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC276%E6%9C%9F-%E5%94%B1%E7%A6%81%E6%AD%8C-%E5%88%B0-%E7%A6%81%E6%AD%A2%E5%90%90%E6%A7%BD-%E8%A7%81%E8%AF%81%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E5%8F%98%E8%BF%81%E7%9A%84%E6%98%A5%E6%99%9A/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2021-12-14/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E4%B8%93%E8%AE%BF-%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3%E5%AF%B9%E8%AF%9D-%E8%A7%A3%E6%9E%84%E6%96%B0%E7%96%86%E9%95%87%E5%8E%8B-%E7%AC%AC%E4%B8%80%E4%BD%9C%E8%80%85%E8%AE%B8%E7%A7%80%E4%B8%AD/">最早</a>--</span>
+    
+      <li>
+        <time>2022-12-31</time>
+        <a href="https://nodebe4.github.io/opinion/2022-12-31/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC218%E6%9C%9F-%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%8B%87%E6%95%A2%E4%B8%8D%E5%BA%94%E8%AF%A5%E6%B2%A1%E6%9C%89%E5%9B%9E%E5%A3%B0-%E8%A2%AB%E5%9B%9B%E9%80%9A%E6%A1%A5%E6%8A%97%E8%AE%AE%E6%BF%80%E5%8A%B1%E7%9A%84%E5%B9%B4%E8%BD%BB%E6%8A%97%E8%AE%AE%E8%80%85/">
+          【404档案馆】第218期： “一个人的勇敢不应该没有回声”——被四通桥抗议激励的年轻抗议者
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-11-09</time>
+        <a href="https://nodebe4.github.io/opinion/2022-11-09/CDT%E4%BA%BA%E7%89%A9-404%E6%A1%A3%E6%A1%88%E9%A6%86%E7%AC%AC205%E6%9C%9F-%E8%B0%81%E6%98%AF-%E5%9B%9B%E9%80%9A%E6%A1%A5%E5%8B%87%E5%A3%AB-%E5%9C%A8%E7%BD%91%E7%BB%9C%E4%B8%AD%E5%AF%BB%E6%89%BE%E5%BD%AD%E7%AB%8B%E5%8F%91%E7%9A%84%E7%97%95%E8%BF%B9/">
+          【CDT人物】【404档案馆第205期：谁是“四通桥勇士”——在网络中寻找彭立发的痕迹
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-11-09</time>
+        <a href="https://nodebe4.github.io/opinion/2022-11-09/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC189%E6%9C%9F-Jingyao%E8%AF%89%E5%88%98%E5%BC%BA%E4%B8%9C%E6%A1%88-%E4%BB%99%E4%BA%BA%E8%B7%B3-%E8%88%86%E8%AE%BA%E6%88%98%E8%83%8C%E5%90%8E-%E7%B1%B3%E5%85%94%E8%BF%90%E5%8A%A8%E7%9A%84%E6%9C%AA%E5%B0%BD%E4%B9%8B%E8%B7%AF/">
+          【404档案馆】第189期：Jingyao诉刘强东案：“仙人跳”舆论战背后，米兔运动的未尽之路
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-11-09</time>
+        <a href="https://nodebe4.github.io/opinion/2022-11-09/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC186%E6%9C%9F-%E5%8F%A6%E4%B8%80%E5%9C%BA%E5%8F%97%E6%8C%AB%E7%9A%84%E6%88%98%E4%BA%89-%E4%BF%84%E7%BD%97%E6%96%AF%E5%85%A5%E4%BE%B5%E5%8F%97%E9%98%BB%E5%90%8E%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%88%86%E8%AE%BA/">
+          【404档案馆】第186期：另一场受挫的战争——俄罗斯入侵受阻后的中国舆论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-11-09/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC189%E6%9C%9F-Jingyao%E8%AF%89%E5%88%98%E5%BC%BA%E4%B8%9C%E6%A1%88-%E4%BB%99%E4%BA%BA%E8%B7%B3-%E8%88%86%E8%AE%BA%E6%88%98%E8%83%8C%E5%90%8E-%E7%B1%B3%E5%85%94%E8%BF%90%E5%8A%A8%E7%9A%84%E6%9C%AA%E5%B0%BD%E4%B9%8B%E8%B7%AF/">
+            前一篇：【404档案馆】第189期：Jingyao诉刘强东案：“仙人跳”舆论战背后，米兔运动的未尽之路
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-11-09/CDT%E4%BA%BA%E7%89%A9-404%E6%A1%A3%E6%A1%88%E9%A6%86%E7%AC%AC205%E6%9C%9F-%E8%B0%81%E6%98%AF-%E5%9B%9B%E9%80%9A%E6%A1%A5%E5%8B%87%E5%A3%AB-%E5%9C%A8%E7%BD%91%E7%BB%9C%E4%B8%AD%E5%AF%BB%E6%89%BE%E5%BD%AD%E7%AB%8B%E5%8F%91%E7%9A%84%E7%97%95%E8%BF%B9/">
+            後一篇：【CDT人物】【404档案馆第205期：谁是“四通桥勇士”——在网络中寻找彭立发的痕迹
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-11-09/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC189%E6%9C%9F-Jingyao%E8%AF%89%E5%88%98%E5%BC%BA%E4%B8%9C%E6%A1%88-%E4%BB%99%E4%BA%BA%E8%B7%B3-%E8%88%86%E8%AE%BA%E6%88%98%E8%83%8C%E5%90%8E-%E7%B1%B3%E5%85%94%E8%BF%90%E5%8A%A8%E7%9A%84%E6%9C%AA%E5%B0%BD%E4%B9%8B%E8%B7%AF/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-11-09/CDT%E4%BA%BA%E7%89%A9-404%E6%A1%A3%E6%A1%88%E9%A6%86%E7%AC%AC205%E6%9C%9F-%E8%B0%81%E6%98%AF-%E5%9B%9B%E9%80%9A%E6%A1%A5%E5%8B%87%E5%A3%AB-%E5%9C%A8%E7%BD%91%E7%BB%9C%E4%B8%AD%E5%AF%BB%E6%89%BE%E5%BD%AD%E7%AB%8B%E5%8F%91%E7%9A%84%E7%97%95%E8%BF%B9/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-11-09/CDT%E4%BA%BA%E7%89%A9-404%E6%A1%A3%E6%A1%88%E9%A6%86%E7%AC%AC205%E6%9C%9F-%E8%B0%81%E6%98%AF-%E5%9B%9B%E9%80%9A%E6%A1%A5%E5%8B%87%E5%A3%AB-%E5%9C%A8%E7%BD%91%E7%BB%9C%E4%B8%AD%E5%AF%BB%E6%89%BE%E5%BD%AD%E7%AB%8B%E5%8F%91%E7%9A%84%E7%97%95%E8%BF%B9/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-11-09/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC189%E6%9C%9F-Jingyao%E8%AF%89%E5%88%98%E5%BC%BA%E4%B8%9C%E6%A1%88-%E4%BB%99%E4%BA%BA%E8%B7%B3-%E8%88%86%E8%AE%BA%E6%88%98%E8%83%8C%E5%90%8E-%E7%B1%B3%E5%85%94%E8%BF%90%E5%8A%A8%E7%9A%84%E6%9C%AA%E5%B0%BD%E4%B9%8B%E8%B7%AF/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-11-09/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC189%E6%9C%9F-Jingyao%E8%AF%89%E5%88%98%E5%BC%BA%E4%B8%9C%E6%A1%88-%E4%BB%99%E4%BA%BA%E8%B7%B3-%E8%88%86%E8%AE%BA%E6%88%98%E8%83%8C%E5%90%8E-%E7%B1%B3%E5%85%94%E8%BF%90%E5%8A%A8%E7%9A%84%E6%9C%AA%E5%B0%BD%E4%B9%8B%E8%B7%AF/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-11-09/CDT%E4%BA%BA%E7%89%A9-404%E6%A1%A3%E6%A1%88%E9%A6%86%E7%AC%AC205%E6%9C%9F-%E8%B0%81%E6%98%AF-%E5%9B%9B%E9%80%9A%E6%A1%A5%E5%8B%87%E5%A3%AB-%E5%9C%A8%E7%BD%91%E7%BB%9C%E4%B8%AD%E5%AF%BB%E6%89%BE%E5%BD%AD%E7%AB%8B%E5%8F%91%E7%9A%84%E7%97%95%E8%BF%B9/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<中国数字时代>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-11-09/CDT%E4%BA%BA%E7%89%A9-404%E6%A1%A3%E6%A1%88%E9%A6%86%E7%AC%AC205%E6%9C%9F-%E8%B0%81%E6%98%AF-%E5%9B%9B%E9%80%9A%E6%A1%A5%E5%8B%87%E5%A3%AB-%E5%9C%A8%E7%BD%91%E7%BB%9C%E4%B8%AD%E5%AF%BB%E6%89%BE%E5%BD%AD%E7%AB%8B%E5%8F%91%E7%9A%84%E7%97%95%E8%BF%B9/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<中国数字时代>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-11-09/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC189%E6%9C%9F-Jingyao%E8%AF%89%E5%88%98%E5%BC%BA%E4%B8%9C%E6%A1%88-%E4%BB%99%E4%BA%BA%E8%B7%B3-%E8%88%86%E8%AE%BA%E6%88%98%E8%83%8C%E5%90%8E-%E7%B1%B3%E5%85%94%E8%BF%90%E5%8A%A8%E7%9A%84%E6%9C%AA%E5%B0%BD%E4%B9%8B%E8%B7%AF/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

@@ -1,0 +1,585 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>纽约激进派与《村声》之死 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+纽约激进派与《村声》之死
+——
+" />
+    <meta property="og:description" content="
+纽约激进派与《村声》之死
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="纽约激进派与《村声》之死" />
+    <meta property="twitter:title" content="纽约激进派与《村声》之死" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fgravitysworm.com%2Fpost%2F177722864927" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://gravitysworm.com/post/177722864927" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://gravitysworm.com/post/177722864927&text=纽约激进派与《村声》之死&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://gravitysworm.com/post/177722864927&title=纽约激进派与《村声》之死" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://gravitysworm.com/post/177722864927&title=纽约激进派与《村声》之死" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=纽约激进派与《村声》之死&body=
+纽约激进派与《村声》之死
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://gravitysworm.com/post/177722864927" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://gravitysworm.com/post/177722864927&title=纽约激进派与《村声》之死&caption=
+纽约激进派与《村声》之死
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=纽约激进派与《村声》之死&url=https://gravitysworm.com/post/177722864927" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>纽约激进派与《村声》之死</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2018-09-04
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#萬有引力之蟲">
+          萬有引力之蟲
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://gravitysworm.com/post/177722864927" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="萬有引力之蟲的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#萬有引力之蟲 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1536044231000-->
+<p><a href="https://gravitysworm.com/post/177722864927">纽约激进派与《村声》之死</a>
+——</p>
+
+<div>
+  <p>8月31日，美国第一份都市另类周报，成立于1955年的《村声》（The Village Voice）宣布停止所有数字版的发行。这份多次登顶普利策的纽约市传奇读物，近些年来在经历了多次易手、内部工会争议、暂停纸质版的各种风波后，终于彻底停止了呼吸。</p>
+  <p>如今纸媒已死的大背景下，人们面对又一个地方传统媒体的倒下，似乎也习惯了从传媒工业的角度去理解谷歌和脸书怎么扼杀了传统新闻业。但《村声》的结束，却不只是媒体环境对小型地方媒体进行碾压的问题。以特别报道、文化批评和作者专栏见长的《村声》，更像纽约客之类的文化杂志，因此和社交媒体上的新闻并不形成正面竞争。再者，就和黑胶唱片没有死去一样，美国依然有着众多热爱传统媒体长文的读者群，所以n+1和Baffler等同类别文化刊物依然活着，甚至有所复兴。</p>
+  <p>《村声》死去的原因更多源于内容的不合时宜。确实，相比前几个十年，《村声》哪怕在纽约市内，也已经越发无关紧要了，更别说有什么国际影响，只有在它封面放上鲍勃·迪伦旧照的时候，读者才能嗅到它和狂飙突进的旧时代间若隐若现的联系。</p>
+  <figure class="tmblr-full" data-orig-height="2077" data-orig-width="1366">
+<img src="https://64.media.tumblr.com/67b8a7e19b94c73e262cf9201f164975/tumblr_inline_peir3p4WTb1qmojoa_540.jpg" data-orig-height="2077" data-orig-width="1366" />
+  </figure>
+  <p><em>1968年《村声》上的布拉格之春和芝加哥民主党代表大会抗议</em></p>
+  <p>作为一份深受五六十年代民权运动、地下刊物、反文化思潮影响，编排上又类似于小报的读物，《村声》与主流自由派媒体一直都保持着相当的距离。尽管主打还是文化议题，它对纽约和全美社会运动的关注和支持都大大超过一般媒体。2011年占领华尔街时，《村声》坚定地站在《纽约时报》的对立面，揭露其游行报道<a href="https://www.villagevoice.com/2011/10/02/why-did-the-new-york-times-change-their-brooklyn-bridge-arrests-story/" target="_blank">删除</a>对抗议者有利的信息。2017年，当传媒都在疯狂推广华尔街铜牛对面的无畏小女孩时，《村声》默默地发了一篇”<a href="https://www.villagevoice.com/2017/04/25/fearless-girl-is-not-your-friend/" target="_blank">Fearless Girl Is Not Your Friend</a>“。最近几年，它还全力支持纽约市的Black Lives Matter和移民社区居住权运动，尤其关注唐人街低收入者的权益。今年，它关注DSA等左翼组织的崛起，也及时报道对ICE的抗议和全美监狱囚犯的大罢工。</p>
+  <p>但《村声》又从来都不隶属于任何正统的左派阵营，它显然不会出现在美国新左派，工人运动、移民运动的历史里。它创办的初衷是一种对公共领域的浪漫化理解，相信观点越辩越明，希望邀请市民阶层共同去设想一个更友好的城市。它对于更广义的流行文化、时尚和本地艺术家的跟踪，的确与种族、性别等问题相交织，但依然充满了中产的情调。它尽管支持社会正义运动，喜欢站在鸡蛋一边，却几乎不会提运动背后的政治经济背景，当然也没有深入的阶级分析。换言之，它一直是以一个泛泛的左派和社运同情者的姿态，出现在文化语境下。</p>
+  <p>《村声》的政治光谱，有点类似于写作《社会学的想象力》的赖特·米尔斯。他们都是民权运动前后非马克思主义的激进派，关心草根群体的福利，信奉一种定义模糊的平权和社会正义，强调知识阶层和其他文化精英对公共话题的介入性。客观上，他们一方面担当着自由派和传统左派之间的桥梁，另一方面也成为了真正左派激进主义传播上的阻碍。它们给当时的精英提供了一种道德崇高，又相对安全的批判方式。</p>
+  <p>在过去，《村声》的这种模糊性恰恰成为它早期发展的动力。《村声》成长于简·雅各布斯大战摩西那个现代主义蓬勃发展的50年代末。雅各布斯发起的一系列反对高速公路，保卫都市运动，曾经得到这份报纸的鼎力支持，它的支持也为自己吸引到了稳定的读者群。当时，《村声》只需要告诉大家它要为草根发声。尽管草根的概念是模糊的，读者也能自动对号入座：我们都是普通的都市人，都市人都支持社会进步。</p>
+  <p>然而如今，美国城市规划历史早就翻过了现代主义那一页，郊区化已经完成，摩西那一套早就被扫入历史垃圾堆。在新世纪，随着社会不平等程度的陡升，纽约这种全球城市里的金融化、士绅化和居住隔离也达到惊人的程度。”保卫社区，保卫城市“这种邻避主义话语，不仅可以为低收入群体所用，也完全可以是一种富人拒绝穷人，本地人驱赶移民的说辞。《村声》坚持的另类、地下视角，在激进右翼活跃的当下也显得非常可疑。激进右翼代表的难道不是另一种愤怒的草根力量？《村声》对不同社会思潮的衡量标准究竟是什么？在这样的背景下，这套含糊的社会进步话语就显得苍白无力，它无助于分析每一个具体的个案。</p>
+  <p>《村声》以纽约为重镇的发展模式，也注定了它怎么也扭不正的排外取向。按照现在的标准，这种结合了美国精英社区主义、邻避主义、多元主义情结的进步派大杂烩立场，其实只是一种伪装过的保守主义：公共论辩的目标只是让所居住的城市变得更多元更有人情味，至于其他地方如何，并不在考虑范围。它象征着一种老派的、纽约式的文化区隔：人们可以喝着拿铁，读着小说，在联合广场和华盛顿广场支持本地工会的游行，结束后去东村电影院看午夜场。纽约的都市激进派，可以同时对哈德逊河西边更贫困的新泽西社区一无所知。</p>
+  <p>当然，《村声》并不只关注纽约的新闻，但它对于纽约之外的关注，也更多是一种城市人世界主义的情怀泛滥，这种世界主义并不叫人投身运动，而只是让城市人变得更有教养的一种途径。Vice上纪念《村声》停刊的一系列<a href="https://www.vice.com/en_us/article/pawjeb/native-new-yorkers-reflect-on-the-death-of-the-village-voice" target="_blank">感言</a>准确地指出了它的定位：一位作者表示，这份报纸是给那些”叛逆又不想太过叛逆的青少年“准备的；另一位编辑则回忆说，熟读这份报纸让身为移民二代的他得以融入城市小孩的圈子。</p>
+  <p>的确，《村声》曾经的屹立不倒，抛去商业模式的可持续性，也是由于它所代表的那种中产纯智识上的批判性依然具备一定的大众基础，依然可以吸引一部分有同情心的纽约进步派精英：毕竟他们和移民、劳工身处一个城市，总得释放一些善意。《村声》很清楚自己做的并不是左翼的事业，但它认为这样的方式至少可以团结不同的阶层。但这样的基础现在已经没有了，各个阶层，立场之间的人的距离都变大了。支持劳工的，清一色都是工会和左派团体，加上一个每周推荐戏剧和电影的《村声》，显得不伦不类。《村声》站在两头不讨好的位置：自由派和主流媒体嫌它视角太偏颇，左派则觉得它没有立场、过于小清新。</p>
+  <p>如今纽约的普通青年们，已经没兴趣装作对社会正义感兴趣。而激进青年们，更愿意花一个周末的下午，在布鲁克林Verso书店的阁楼上参加《雅各宾》杂志的沙龙。这是一种更加政治的介入都市议题的方式。相比之下，《村声》是属于上一辈人的周报，每个人都对它怀有美好的回忆，但大部分人都记不得上一次读还是什么时候。</p>
+  <p>《村声》死于纸媒式微的大潮，也死于这个分裂的时代。仅仅呼喊底层正义的口号，不仅无法成为一个合格的左派，还可能被贴上伪善的标签。更剧烈的社会冲突面前，骑墙的空间越来越小，每个人都需要更清晰地表明自己的立场。在这样的政治激进主义浪潮中，《村声》俨然成为了没用的老嬉皮，它的持守成为保守，它的死去，也注定只能在一票独立撰稿人的推特时间线上，激起一圈淡淡的涟漪。<br /></p>
+  <p>(本文首发于“新闻实验室”)</p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#萬有引力之蟲 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-07-18/%E9%9F%A7%E6%80%A7%E7%9A%84%E8%89%BA%E6%9C%AF-%E5%BA%9F%E9%99%A4%E8%AD%A6%E5%AF%9F%E5%9F%8E%E8%BF%90%E5%8A%A8%E7%9A%84%E5%90%AF%E7%A4%BA/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2017-11-06/%E5%8D%A0%E9%A2%86%E7%9A%84%E7%BB%84%E7%BB%87%E9%81%97%E4%BA%A7/">最早</a>--</span>
+    
+      <li>
+        <time>2019-06-03</time>
+        <a href="https://nodebe4.github.io/opinion/2019-06-03/%E5%90%8E%E5%86%B7%E6%88%98%E5%B9%B4%E4%BB%A3%E7%9A%84%E5%85%AB%E4%B9%9D%E5%85%AD%E5%9B%9B/">
+          后冷战年代的八九六四
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-03-19</time>
+        <a href="https://nodebe4.github.io/opinion/2019-03-19/%E6%96%B0%E8%A5%BF%E5%85%B0%E6%B8%85%E7%9C%9F%E5%AF%BA%E6%81%90%E8%A2%AD-%E7%99%BD%E4%BA%BA%E5%8F%B3%E7%BF%BC%E6%BF%80%E8%BF%9B%E4%B8%BB%E4%B9%89%E7%9A%84%E8%BF%B7%E6%83%91%E6%80%A7%E9%9D%A2%E5%AD%94/">
+          新西兰清真寺恐袭：白人右翼激进主义的迷惑性面孔
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2018-07-27</time>
+        <a href="https://nodebe4.github.io/opinion/2018-07-27/Metoo%E4%B8%8E%E5%AE%8C%E7%BE%8E%E7%A4%BE%E4%BC%9A%E8%BF%90%E5%8A%A8%E8%BF%B7%E6%80%9D/">
+          Metoo与完美社会运动迷思
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2018-06-27</time>
+        <a href="https://nodebe4.github.io/opinion/2018-06-27/%E9%A3%9F%E7%89%A9%E4%B8%8E%E7%A4%BE%E4%BC%9A%E8%BF%90%E5%8A%A8/">
+          食物与社会运动
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2018-09-04/%E4%B9%9D%E8%AF%84-%E9%AD%94%E9%AC%BC%E5%9C%A8%E7%BB%9F%E6%B2%BB%E7%9D%80%E6%88%91%E4%BB%AC%E7%9A%84%E4%B8%96%E7%95%8C(23)/">
+            前一篇：魔鬼在统治着我们的世界(23)：环保主义(上)
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2018-09-04/%E7%9F%B3%E6%B2%B9%E5%A4%A7%E5%AD%A6%E6%80%A7%E4%BE%B5%E6%A1%88-%E5%B1%82%E5%B1%82%E4%BC%A4%E5%AE%B3%E4%B8%8B-%E8%B6%8A%E7%BB%B4%E6%9D%83%E8%B6%8A%E6%97%A0%E8%B7%AF%E5%8F%AF%E8%B5%B0/">
+            後一篇：石油大学性侵案：层层伤害下，越维权越无路可走
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2018-09-04/%E4%B9%9D%E8%AF%84-%E9%AD%94%E9%AC%BC%E5%9C%A8%E7%BB%9F%E6%B2%BB%E7%9D%80%E6%88%91%E4%BB%AC%E7%9A%84%E4%B8%96%E7%95%8C(23)/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2018-09-04/%E7%9F%B3%E6%B2%B9%E5%A4%A7%E5%AD%A6%E6%80%A7%E4%BE%B5%E6%A1%88-%E5%B1%82%E5%B1%82%E4%BC%A4%E5%AE%B3%E4%B8%8B-%E8%B6%8A%E7%BB%B4%E6%9D%83%E8%B6%8A%E6%97%A0%E8%B7%AF%E5%8F%AF%E8%B5%B0/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2019-03-19/%E6%96%B0%E8%A5%BF%E5%85%B0%E6%B8%85%E7%9C%9F%E5%AF%BA%E6%81%90%E8%A2%AD-%E7%99%BD%E4%BA%BA%E5%8F%B3%E7%BF%BC%E6%BF%80%E8%BF%9B%E4%B8%BB%E4%B9%89%E7%9A%84%E8%BF%B7%E6%83%91%E6%80%A7%E9%9D%A2%E5%AD%94/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2018-07-27/Metoo%E4%B8%8E%E5%AE%8C%E7%BE%8E%E7%A4%BE%E4%BC%9A%E8%BF%90%E5%8A%A8%E8%BF%B7%E6%80%9D/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2018-09-04/%E4%B9%9D%E8%AF%84-%E9%AD%94%E9%AC%BC%E5%9C%A8%E7%BB%9F%E6%B2%BB%E7%9D%80%E6%88%91%E4%BB%AC%E7%9A%84%E4%B8%96%E7%95%8C(23)/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2018-09-04/%E7%9F%B3%E6%B2%B9%E5%A4%A7%E5%AD%A6%E6%80%A7%E4%BE%B5%E6%A1%88-%E5%B1%82%E5%B1%82%E4%BC%A4%E5%AE%B3%E4%B8%8B-%E8%B6%8A%E7%BB%B4%E6%9D%83%E8%B6%8A%E6%97%A0%E8%B7%AF%E5%8F%AF%E8%B5%B0/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<萬有引力之蟲>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2019-03-19/%E6%96%B0%E8%A5%BF%E5%85%B0%E6%B8%85%E7%9C%9F%E5%AF%BA%E6%81%90%E8%A2%AD-%E7%99%BD%E4%BA%BA%E5%8F%B3%E7%BF%BC%E6%BF%80%E8%BF%9B%E4%B8%BB%E4%B9%89%E7%9A%84%E8%BF%B7%E6%83%91%E6%80%A7%E9%9D%A2%E5%AD%94/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<萬有引力之蟲>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2018-07-27/Metoo%E4%B8%8E%E5%AE%8C%E7%BE%8E%E7%A4%BE%E4%BC%9A%E8%BF%90%E5%8A%A8%E8%BF%B7%E6%80%9D/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

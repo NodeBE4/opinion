@@ -1,0 +1,3586 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>A Framework for Moderation – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+  
+     A Framework for Moderation 
+    
+  Posted on             Wednesday, August 7, 2019 
+            Friday, July 24, 2020 
+     Author  by  Ben Thompson   
+    
+    
+  
+  
+  
+    On Sunday night, when Cloudflare CEO Matthew Prince  announced in a blog post  that the company was terminating service for 8chan, the response was nearly universal: 
+    Finally.
+   
+    It was hard to disagree: it was on 8chan — which was created after complaints that the extremely lightly-moderated anonymous-based forum 4chan was too heavy-handed — that a suspected terrorist gunman posted a rant explaining his actions before killing 20 people in El Paso. This was the third such incident this year: the terrorist gunmen in Christchurch, New Zealand and Poway, California did the same; 8chan celebrated all of them.
+    To state the obvious, it is hard to think of a more reprehensible community than 8chan. And, as many were quick to point out, it was hardly the sort of site that Cloudflare wanted to be associated with as they prepared for  a reported IPO  . Which again raises the question: what took Cloudflare so long?
+     Moderation Questions 
+    The question of when and why to moderate or ban has been an increasingly frequent one for tech companies, although the circumstances and content to be banned have often varied greatly. Some examples from the last several years:
+    
+      Cloudflare dropping support for 8chan
+      Facebook banning Alex Jones
+      The U.S. Congress creating an exception to Section 230 of the Communications Decency Act for the stated purpose of targeting sex trafficking
+      The Trump administration removing ISPs from Title II classification
+      The European Union ruling that the “Right to be Forgotten” applied to Google
+    
+    These may seem unrelated, but in fact all are questions about what should (or should not) be moderated, who should (or should not) moderate, when should (or should not) they moderate, where should (or should not) they moderate, and why? At the same time, each of these examples is clearly different, and those differences can help build a framework for companies to make decisions when similar questions arise in the future — including Cloudflare.
+     Content and Section 230 
+    The first and most obvious question when it comes to content is whether or not it is legal. If it is illegal, the content should be removed.
+    And indeed it is: service providers remove illegal content as soon as they are made aware of it.
+    Note, though, that service providers are generally not required to actively search for illegal content, which gets into Section 230 of the Communications Decency Act, a law that is continuously misunderstood and/or misrepresented.  1 
+    To understand Section 230 you need to go back to 1991 and the court case  Cubby v CompuServe  . CompuServe hosted a number of forums; a member of one of those forums made allegedly defamatory remarks about a company named Cubby, Inc. Cubby sued CompuServe for defamation, but a federal court judge ruled that CompuServe was a mere “distributor” of the content, not its publisher. The judge  noted  :
+    
+      The requirement that a distributor must have knowledge of the contents of a publication before liability can be imposed for distributing that publication is deeply rooted in the First Amendment…CompuServe has no more editorial control over such a publication than does a public library, book store, or newsstand, and it would be no more feasible for CompuServe to examine every publication it carries for potentially defamatory statements than it would be for any other distributor to do so.
+    
+    Four years later, though, Stratton Oakmont, a securities investment banking firm, sued Prodigy for libel, in a case that seemed remarkably similar to 
+    Cubby v. CompuServe
+    ; this time, though, Prodigy lost. From  the opinion  :
+    
+      The key distinction between CompuServe and Prodigy is two fold. First, Prodigy held itself out to the public and its members as controlling the content of its computer bulletin boards. Second, Prodigy implemented this control through its automatic software screening program, and the Guidelines which Board Leaders are required to enforce. By actively utilizing technology and manpower to delete notes from its computer bulletin boards on the basis of offensiveness and “bad taste”, for example, Prodigy is clearly making decisions as to content, and such decisions constitute editorial control…Based on the foregoing, this Court is compelled to conclude that for the purposes of Plaintiffs’ claims in this action, Prodigy is a publisher rather than a distributor.
+    
+    In other words, the act of moderating 
+    any
+    of the user-generated content on its forums made Prodigy liable for 
+    all
+    of the user-generated content on its forums — in this case to the tune of $200 million. This left services that hosted user-generated content with only one option: zero moderation. That was the only way to be classified as a distributor with the associated shield from liability, and not as a publisher.
+    The point of Section 230, then, was to make moderation legally viable; this came via the “Good Samaritan” provision.  From the statute  :
+    
+      
+     (c) Protection for “Good Samaritan” blocking and screening of offensive material
+    
+      
+        
+      (1) Treatment of publisher or speaker
+       No provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider.  
+        (2) Civil liability
+        No provider or user of an interactive computer service shall be held liable on account of— &lt;/br&gt; &lt;/br&gt;
+        
+          
+       (A)
+       any action voluntarily taken in good faith to restrict access to or availability of material that the provider or user considers to be obscene, lewd, lascivious, filthy, excessively violent, harassing, or otherwise objectionable, whether or not such material is constitutionally protected; or  
+       (B)
+       any action taken to enable or make available to information content providers or others the technical means to restrict access to material described in paragraph (1).
+        
+      
+    
+    In short, Section 230 doesn’t shield platforms from the responsibility to moderate; it in fact makes moderation possible in the first place. Nor does Section 230 require neutrality: the entire reason it exists was because true neutrality — that is, zero moderation beyond what is illegal — was undesirable to Congress.
+    Keep in mind that Congress is extremely limited in what it can make illegal because of the First Amendment. Indeed, the vast majority of the Communications Decency Act was ruled unconstitutional a year after it was passed in  a unanimous Supreme Court decision  . This is how we have arrived at the uneasy space that Cloudflare and others occupy: it is the will of the democratically elected Congress that companies moderate content above-and-beyond what is illegal, but Congress can not tell them exactly what content should be moderated.
+    The one tool that Congress does have is changing Section 230; for example, 2018’s SESTA/FOSTA act made platforms liable for any activity related to sex trafficking. In response platforms removed all content remotely connected to sex work of any kind — Cloudflare, for example,  dropped support for the Switter social media network for sex workers  — in a way that  likely caused more harm than good  . This is the problem with using liability to police content: it is 
+    always
+    in the interest of service providers to censor too much, because the downside of censoring too little is massive.
+     The Stack 
+    If the question of what content should be moderated or banned is one left to the service providers themselves, it is worth considering exactly what service providers we are talking about.
+    At the top of the stack are the service providers that people publish to directly; this includes Facebook, YouTube, Reddit, 8chan and other social networks. These platforms have absolute discretion in their moderation policies, and rightly so. First, because of Section 230, they can moderate anything they want. Second, none of these platforms have a monopoly on online expression; someone who is banned from Facebook can publish on Twitter, or set up their own website. Third, these platforms, particularly those with algorithmic timelines or recommendation engines, have an obligation to moderate more aggressively because they are not simply distributors but also amplifiers.
+    Internet service providers (ISPs), on the other hand, have very different obligations. While ISPs are no longer covered under Title II of the Communications Act, which barred them from discriminating data on the basis of content, it is the expectation of consumers and generally the policy of ISPs to not block any data because of its content (although ISPs have agreed to  block child pornography websites  in the past).
+    It makes sense to think about these positions of the stack very differently: the top of the stack is about broadcasting — reaching as many people as possible — and while you may have the right to say anything you want, there is no right to be heard. Internet service providers, though, are about access — having the opportunity to speak or hear in the first place. In other words, the further down the stack, the more legality should be the sole criteria for moderation; the further up the more discretion and even responsibility there should be for content:
+      
+    Note the implications for Facebook and YouTube in particular: their moderation decisions should not be viewed in the context of free speech, but rather as discretionary decisions made by managers seeking to attract the broadest customer base; the appropriate regulatory response, if one is appropriate, should be to push for more competition so that those dissatisfied with Facebook or Google’s moderation policies can go elsewhere.
+     Cloudflare’s Decision 
+    What made Cloudflare’s decision more challenging was three-fold.
+    First, while Cloudflare is not an ISP, they are much more akin to infrastructure than they are to user-facing platforms. In the case of 8chan, Cloudflare provided a service that shielded the site from  Distributed Denial-of-Service (DDoS) attacks  ; without a service like Cloudflare, 8chan would almost assuredly be taken offline by Internet vigilantes using botnets to launch such an attack. In other words, the question wasn’t whether or not 8chan was going to be promoted or have easy access to large social networks, but whether it would even exist at all.
+    To be perfectly clear, I would prefer that 8chan did not exist. At the same time, many of those arguing that 8chan should be erased from the Internet were insisting not too long ago that the U.S. needed to apply Title II regulation (i.e. net neutrality) to infrastructure companies to ensure they were not discriminating based on content. While Title II would not have applied to Cloudflare, it is worth keeping in mind that at some point or another nearly everyone reading this article has expressed concern about infrastructure companies making content decisions.
+    And rightly so! The difference between an infrastructure company and a customer-facing platform like Facebook is that the former is not accountable to end users in any way. Cloudflare CEO Matthew Prince made this point in  an interview with Stratechery  :
+    
+      We get labeled as being free speech absolutists, but I think that has absolutely nothing to do with this case. There is a different area of the law that matters: in the U.S. it is the idea of due process, the Aristotelian idea is that of the rule of law. Those principles are set down in order to give governments legitimacy: transparency, consistency, accountability…if you go to Germany and say “The First Amendment” everyone rolls their eyes, but if you talk about the rule of law, everyone agrees with you…
+      It felt like people were acknowledging that the deeper you were in the stack the more problematic it was [to take down content], because you couldn’t be transparent, because you couldn’t be judged as to whether you’re consistent or not, because you weren’t fundamentally accountable. It became really difficult to make that determination.
+    
+    Moreover, Cloudflare is an essential piece of the Facebook and YouTube competitive set: it is hard to argue that Facebook and YouTube should be able to moderate at will because people can go elsewhere if elsewhere does not have the scale to functionally exist.
+    Second, the nature of the medium means that all Internet companies have to be concerned about the precedent their actions in one country will have in different countries with different laws. One country’s terrorist is another country’s freedom fighter; a third country’s government acting according to the will of the people is a fourth’s tyrannically oppressing the minority. In this case, to drop support for 8chan — a site that was legal — is to admit that the delivery of Cloudflare’s services are up for negotiation.
+    Third, it is likely that at some point 8chan will come back, thanks to the help of a less scrupulous service, just as the Daily Stormer did when Cloudflare kicked them off  two years ago  . What, ultimately is the point? In fact, might there be harm, since tracking these sites may end up being more difficult the further underground they go?
+    This third point is a valid concern, but one I, after long deliberation, ultimately reject. First, convenience matters. The truly committed may find 8chan when and if it pops up again, but there is real value in requiring that level of commitment in the first place, given said commitment is likely nurtured on 8chan itself. Second, I ultimately reject the idea that publishing on the Internet is a right that must be guaranteed by 3rd parties. Stand on the street corner all you like, at least your terrible ideas will be limited by the physical world. The Internet, though, with its inherent ability to broadcast and congregate globally, is a fundamentally more dangerous medium that is by-and-large facilitated by third parties who have rights of their own. Running a website on a cloud service provider means piggy-backing off of your ISP, backbone providers, server providers, etc., and, if you are controversial, services like Cloudflare to protect you. It is magnanimous in a way for Cloudflare to commit to serving everyone, but at the end of the day Cloudflare does have a choice.
+    To that end I find Cloudflare’s rationale for acting compelling. Prince told me:
+    
+      If this were a normal circumstance we would say “Yes, it’s really horrendous content, but we’re not in a position to decide what content is bad or not.” But in this case, we saw repeated consistent harm where you had three mass shootings that were directly inspired by and gave credit to this platform. You saw the platform not act on any of that and in fact promote it internally. So then what is the obligation that we have? While we think it’s really important that we are not the ones being the arbiter of what is good or bad, if at the end of the day content platforms aren’t taking any responsibility, or in some cases actively thwarting it, and we see that there is real harm that those platforms are doing, then maybe that is the time that we cut people off.
+    
+    User-facing platforms are the ones that should make these calls, not infrastructure providers. But if they won’t, someone needs to. So Cloudflare did.
+     Defining Gray 
+    I promised, with this title, a framework for moderation, and frankly, I under-delivered. What everyone wants is a clear line about what should or should not be moderated, who should or should not be banned. The truth, though, is that those bright lines do not exist, particularly in the United States.
+    What is possible, though, is to define the boundaries of the gray areas. In the case of user-facing platforms, their discretion is vast, and responsibility for not simply moderation but also promotion significantly greater. A heavier hand is justified, as is external pressure on decision-makers; the most important regulatory response is to ensure there is competition.
+    Infrastructure companies, meanwhile, should primarily default to legality, but also, as Cloudflare did, recognize that they are the backstop to user-facing platforms that refuse to do their job.
+    Governments, meanwhile, beyond encouraging competition, should avoid using liability as a lever, and instead stick to clearly defining what is legal and what isn’t. I think it is legitimate for Germany, for example, to ban pro-Nazi websites, or the European Union to enforce the “Right to be Forgotten” within E.U. borders; like most Americans, I lean towards more free speech, not less, but governments, particularly democratically elected ones, get to make the laws.
+    What is much more problematic are initiatives like the European  Copyright Directive  , which makes platforms liable for copyright infringement. This inevitably leads to massive overreach and clumsy filtering, and favors large platforms that can pay for both filters and lawyers over smaller ones that cannot.
+    None of this is easy. I am firmly in the camp that argues that the Internet is something fundamentally different than what came before, making analog examples less relevant than they seem. The risks and opportunities of the Internet are both different and greater than anything we have experienced previously, and perhaps the biggest mistake we can make is being too sure about what is the right thing to do. Gray is uncomfortable, but it may be the best place to be.
+    
+    I wrote a follow-up to this article in
+    
+     this Daily Update
+    
+    .
+   
+    
+      For the rest of this section I am re-using text I wrote in  this 2018 Daily Update  ; I am not putting the re-used text in blockquotes as I normally would for the sake of readability [  ↩  ]
+    
+    
+      
+         Share 
+        
+          
+              Facebook  
+              Twitter  
+              LinkedIn  
+              Email  
+            
+          
+        
+      
+    
+    
+       
+     Related
+     
+    
+  
+  
+
+" />
+    <meta property="og:description" content="
+  
+     A Framework for Moderation 
+    
+  Posted on             Wednesday, August 7, 2019 
+            Friday, July 24, 2020 
+     Author  by  Ben Thompson   
+    
+    
+  
+  
+  
+    On Sunday night, when Cloudflare CEO Matthew Prince  announced in a blog post  that the company was terminating service for 8chan, the response was nearly universal: 
+    Finally.
+   
+    It was hard to disagree: it was on 8chan — which was created after complaints that the extremely lightly-moderated anonymous-based forum 4chan was too heavy-handed — that a suspected terrorist gunman posted a rant explaining his actions before killing 20 people in El Paso. This was the third such incident this year: the terrorist gunmen in Christchurch, New Zealand and Poway, California did the same; 8chan celebrated all of them.
+    To state the obvious, it is hard to think of a more reprehensible community than 8chan. And, as many were quick to point out, it was hardly the sort of site that Cloudflare wanted to be associated with as they prepared for  a reported IPO  . Which again raises the question: what took Cloudflare so long?
+     Moderation Questions 
+    The question of when and why to moderate or ban has been an increasingly frequent one for tech companies, although the circumstances and content to be banned have often varied greatly. Some examples from the last several years:
+    
+      Cloudflare dropping support for 8chan
+      Facebook banning Alex Jones
+      The U.S. Congress creating an exception to Section 230 of the Communications Decency Act for the stated purpose of targeting sex trafficking
+      The Trump administration removing ISPs from Title II classification
+      The European Union ruling that the “Right to be Forgotten” applied to Google
+    
+    These may seem unrelated, but in fact all are questions about what should (or should not) be moderated, who should (or should not) moderate, when should (or should not) they moderate, where should (or should not) they moderate, and why? At the same time, each of these examples is clearly different, and those differences can help build a framework for companies to make decisions when similar questions arise in the future — including Cloudflare.
+     Content and Section 230 
+    The first and most obvious question when it comes to content is whether or not it is legal. If it is illegal, the content should be removed.
+    And indeed it is: service providers remove illegal content as soon as they are made aware of it.
+    Note, though, that service providers are generally not required to actively search for illegal content, which gets into Section 230 of the Communications Decency Act, a law that is continuously misunderstood and/or misrepresented.  1 
+    To understand Section 230 you need to go back to 1991 and the court case  Cubby v CompuServe  . CompuServe hosted a number of forums; a member of one of those forums made allegedly defamatory remarks about a company named Cubby, Inc. Cubby sued CompuServe for defamation, but a federal court judge ruled that CompuServe was a mere “distributor” of the content, not its publisher. The judge  noted  :
+    
+      The requirement that a distributor must have knowledge of the contents of a publication before liability can be imposed for distributing that publication is deeply rooted in the First Amendment…CompuServe has no more editorial control over such a publication than does a public library, book store, or newsstand, and it would be no more feasible for CompuServe to examine every publication it carries for potentially defamatory statements than it would be for any other distributor to do so.
+    
+    Four years later, though, Stratton Oakmont, a securities investment banking firm, sued Prodigy for libel, in a case that seemed remarkably similar to 
+    Cubby v. CompuServe
+    ; this time, though, Prodigy lost. From  the opinion  :
+    
+      The key distinction between CompuServe and Prodigy is two fold. First, Prodigy held itself out to the public and its members as controlling the content of its computer bulletin boards. Second, Prodigy implemented this control through its automatic software screening program, and the Guidelines which Board Leaders are required to enforce. By actively utilizing technology and manpower to delete notes from its computer bulletin boards on the basis of offensiveness and “bad taste”, for example, Prodigy is clearly making decisions as to content, and such decisions constitute editorial control…Based on the foregoing, this Court is compelled to conclude that for the purposes of Plaintiffs’ claims in this action, Prodigy is a publisher rather than a distributor.
+    
+    In other words, the act of moderating 
+    any
+    of the user-generated content on its forums made Prodigy liable for 
+    all
+    of the user-generated content on its forums — in this case to the tune of $200 million. This left services that hosted user-generated content with only one option: zero moderation. That was the only way to be classified as a distributor with the associated shield from liability, and not as a publisher.
+    The point of Section 230, then, was to make moderation legally viable; this came via the “Good Samaritan” provision.  From the statute  :
+    
+      
+     (c) Protection for “Good Samaritan” blocking and screening of offensive material
+    
+      
+        
+      (1) Treatment of publisher or speaker
+       No provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider.  
+        (2) Civil liability
+        No provider or user of an interactive computer service shall be held liable on account of— &lt;/br&gt; &lt;/br&gt;
+        
+          
+       (A)
+       any action voluntarily taken in good faith to restrict access to or availability of material that the provider or user considers to be obscene, lewd, lascivious, filthy, excessively violent, harassing, or otherwise objectionable, whether or not such material is constitutionally protected; or  
+       (B)
+       any action taken to enable or make available to information content providers or others the technical means to restrict access to material described in paragraph (1).
+        
+      
+    
+    In short, Section 230 doesn’t shield platforms from the responsibility to moderate; it in fact makes moderation possible in the first place. Nor does Section 230 require neutrality: the entire reason it exists was because true neutrality — that is, zero moderation beyond what is illegal — was undesirable to Congress.
+    Keep in mind that Congress is extremely limited in what it can make illegal because of the First Amendment. Indeed, the vast majority of the Communications Decency Act was ruled unconstitutional a year after it was passed in  a unanimous Supreme Court decision  . This is how we have arrived at the uneasy space that Cloudflare and others occupy: it is the will of the democratically elected Congress that companies moderate content above-and-beyond what is illegal, but Congress can not tell them exactly what content should be moderated.
+    The one tool that Congress does have is changing Section 230; for example, 2018’s SESTA/FOSTA act made platforms liable for any activity related to sex trafficking. In response platforms removed all content remotely connected to sex work of any kind — Cloudflare, for example,  dropped support for the Switter social media network for sex workers  — in a way that  likely caused more harm than good  . This is the problem with using liability to police content: it is 
+    always
+    in the interest of service providers to censor too much, because the downside of censoring too little is massive.
+     The Stack 
+    If the question of what content should be moderated or banned is one left to the service providers themselves, it is worth considering exactly what service providers we are talking about.
+    At the top of the stack are the service providers that people publish to directly; this includes Facebook, YouTube, Reddit, 8chan and other social networks. These platforms have absolute discretion in their moderation policies, and rightly so. First, because of Section 230, they can moderate anything they want. Second, none of these platforms have a monopoly on online expression; someone who is banned from Facebook can publish on Twitter, or set up their own website. Third, these platforms, particularly those with algorithmic timelines or recommendation engines, have an obligation to moderate more aggressively because they are not simply distributors but also amplifiers.
+    Internet service providers (ISPs), on the other hand, have very different obligations. While ISPs are no longer covered under Title II of the Communications Act, which barred them from discriminating data on the basis of content, it is the expectation of consumers and generally the policy of ISPs to not block any data because of its content (although ISPs have agreed to  block child pornography websites  in the past).
+    It makes sense to think about these positions of the stack very differently: the top of the stack is about broadcasting — reaching as many people as possible — and while you may have the right to say anything you want, there is no right to be heard. Internet service providers, though, are about access — having the opportunity to speak or hear in the first place. In other words, the further down the stack, the more legality should be the sole criteria for moderation; the further up the more discretion and even responsibility there should be for content:
+      
+    Note the implications for Facebook and YouTube in particular: their moderation decisions should not be viewed in the context of free speech, but rather as discretionary decisions made by managers seeking to attract the broadest customer base; the appropriate regulatory response, if one is appropriate, should be to push for more competition so that those dissatisfied with Facebook or Google’s moderation policies can go elsewhere.
+     Cloudflare’s Decision 
+    What made Cloudflare’s decision more challenging was three-fold.
+    First, while Cloudflare is not an ISP, they are much more akin to infrastructure than they are to user-facing platforms. In the case of 8chan, Cloudflare provided a service that shielded the site from  Distributed Denial-of-Service (DDoS) attacks  ; without a service like Cloudflare, 8chan would almost assuredly be taken offline by Internet vigilantes using botnets to launch such an attack. In other words, the question wasn’t whether or not 8chan was going to be promoted or have easy access to large social networks, but whether it would even exist at all.
+    To be perfectly clear, I would prefer that 8chan did not exist. At the same time, many of those arguing that 8chan should be erased from the Internet were insisting not too long ago that the U.S. needed to apply Title II regulation (i.e. net neutrality) to infrastructure companies to ensure they were not discriminating based on content. While Title II would not have applied to Cloudflare, it is worth keeping in mind that at some point or another nearly everyone reading this article has expressed concern about infrastructure companies making content decisions.
+    And rightly so! The difference between an infrastructure company and a customer-facing platform like Facebook is that the former is not accountable to end users in any way. Cloudflare CEO Matthew Prince made this point in  an interview with Stratechery  :
+    
+      We get labeled as being free speech absolutists, but I think that has absolutely nothing to do with this case. There is a different area of the law that matters: in the U.S. it is the idea of due process, the Aristotelian idea is that of the rule of law. Those principles are set down in order to give governments legitimacy: transparency, consistency, accountability…if you go to Germany and say “The First Amendment” everyone rolls their eyes, but if you talk about the rule of law, everyone agrees with you…
+      It felt like people were acknowledging that the deeper you were in the stack the more problematic it was [to take down content], because you couldn’t be transparent, because you couldn’t be judged as to whether you’re consistent or not, because you weren’t fundamentally accountable. It became really difficult to make that determination.
+    
+    Moreover, Cloudflare is an essential piece of the Facebook and YouTube competitive set: it is hard to argue that Facebook and YouTube should be able to moderate at will because people can go elsewhere if elsewhere does not have the scale to functionally exist.
+    Second, the nature of the medium means that all Internet companies have to be concerned about the precedent their actions in one country will have in different countries with different laws. One country’s terrorist is another country’s freedom fighter; a third country’s government acting according to the will of the people is a fourth’s tyrannically oppressing the minority. In this case, to drop support for 8chan — a site that was legal — is to admit that the delivery of Cloudflare’s services are up for negotiation.
+    Third, it is likely that at some point 8chan will come back, thanks to the help of a less scrupulous service, just as the Daily Stormer did when Cloudflare kicked them off  two years ago  . What, ultimately is the point? In fact, might there be harm, since tracking these sites may end up being more difficult the further underground they go?
+    This third point is a valid concern, but one I, after long deliberation, ultimately reject. First, convenience matters. The truly committed may find 8chan when and if it pops up again, but there is real value in requiring that level of commitment in the first place, given said commitment is likely nurtured on 8chan itself. Second, I ultimately reject the idea that publishing on the Internet is a right that must be guaranteed by 3rd parties. Stand on the street corner all you like, at least your terrible ideas will be limited by the physical world. The Internet, though, with its inherent ability to broadcast and congregate globally, is a fundamentally more dangerous medium that is by-and-large facilitated by third parties who have rights of their own. Running a website on a cloud service provider means piggy-backing off of your ISP, backbone providers, server providers, etc., and, if you are controversial, services like Cloudflare to protect you. It is magnanimous in a way for Cloudflare to commit to serving everyone, but at the end of the day Cloudflare does have a choice.
+    To that end I find Cloudflare’s rationale for acting compelling. Prince told me:
+    
+      If this were a normal circumstance we would say “Yes, it’s really horrendous content, but we’re not in a position to decide what content is bad or not.” But in this case, we saw repeated consistent harm where you had three mass shootings that were directly inspired by and gave credit to this platform. You saw the platform not act on any of that and in fact promote it internally. So then what is the obligation that we have? While we think it’s really important that we are not the ones being the arbiter of what is good or bad, if at the end of the day content platforms aren’t taking any responsibility, or in some cases actively thwarting it, and we see that there is real harm that those platforms are doing, then maybe that is the time that we cut people off.
+    
+    User-facing platforms are the ones that should make these calls, not infrastructure providers. But if they won’t, someone needs to. So Cloudflare did.
+     Defining Gray 
+    I promised, with this title, a framework for moderation, and frankly, I under-delivered. What everyone wants is a clear line about what should or should not be moderated, who should or should not be banned. The truth, though, is that those bright lines do not exist, particularly in the United States.
+    What is possible, though, is to define the boundaries of the gray areas. In the case of user-facing platforms, their discretion is vast, and responsibility for not simply moderation but also promotion significantly greater. A heavier hand is justified, as is external pressure on decision-makers; the most important regulatory response is to ensure there is competition.
+    Infrastructure companies, meanwhile, should primarily default to legality, but also, as Cloudflare did, recognize that they are the backstop to user-facing platforms that refuse to do their job.
+    Governments, meanwhile, beyond encouraging competition, should avoid using liability as a lever, and instead stick to clearly defining what is legal and what isn’t. I think it is legitimate for Germany, for example, to ban pro-Nazi websites, or the European Union to enforce the “Right to be Forgotten” within E.U. borders; like most Americans, I lean towards more free speech, not less, but governments, particularly democratically elected ones, get to make the laws.
+    What is much more problematic are initiatives like the European  Copyright Directive  , which makes platforms liable for copyright infringement. This inevitably leads to massive overreach and clumsy filtering, and favors large platforms that can pay for both filters and lawyers over smaller ones that cannot.
+    None of this is easy. I am firmly in the camp that argues that the Internet is something fundamentally different than what came before, making analog examples less relevant than they seem. The risks and opportunities of the Internet are both different and greater than anything we have experienced previously, and perhaps the biggest mistake we can make is being too sure about what is the right thing to do. Gray is uncomfortable, but it may be the best place to be.
+    
+    I wrote a follow-up to this article in
+    
+     this Daily Update
+    
+    .
+   
+    
+      For the rest of this section I am re-using text I wrote in  this 2018 Daily Update  ; I am not putting the re-used text in blockquotes as I normally would for the sake of readability [  ↩  ]
+    
+    
+      
+         Share 
+        
+          
+              Facebook  
+              Twitter  
+              LinkedIn  
+              Email  
+            
+          
+        
+      
+    
+    
+       
+     Related
+     
+    
+  
+  
+
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="A Framework for Moderation" />
+    <meta property="twitter:title" content="A Framework for Moderation" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2019%2Fa-framework-for-moderation%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2019/a-framework-for-moderation/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2019/a-framework-for-moderation/&text=A Framework for Moderation&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2019/a-framework-for-moderation/&title=A Framework for Moderation" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2019/a-framework-for-moderation/&title=A Framework for Moderation" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=A Framework for Moderation&body=
+  
+     A Framework for Moderation 
+    
+  Posted on             Wednesday, August 7, 2019 
+            Friday, July 24, 2020 
+     Author  by  Ben Thompson   
+    
+    
+  
+  
+  
+    On Sunday night, when Cloudflare CEO Matthew Prince  announced in a blog post  that the company was terminating service for 8chan, the response was nearly universal: 
+    Finally.
+   
+    It was hard to disagree: it was on 8chan — which was created after complaints that the extremely lightly-moderated anonymous-based forum 4chan was too heavy-handed — that a suspected terrorist gunman posted a rant explaining his actions before killing 20 people in El Paso. This was the third such incident this year: the terrorist gunmen in Christchurch, New Zealand and Poway, California did the same; 8chan celebrated all of them.
+    To state the obvious, it is hard to think of a more reprehensible community than 8chan. And, as many were quick to point out, it was hardly the sort of site that Cloudflare wanted to be associated with as they prepared for  a reported IPO  . Which again raises the question: what took Cloudflare so long?
+     Moderation Questions 
+    The question of when and why to moderate or ban has been an increasingly frequent one for tech companies, although the circumstances and content to be banned have often varied greatly. Some examples from the last several years:
+    
+      Cloudflare dropping support for 8chan
+      Facebook banning Alex Jones
+      The U.S. Congress creating an exception to Section 230 of the Communications Decency Act for the stated purpose of targeting sex trafficking
+      The Trump administration removing ISPs from Title II classification
+      The European Union ruling that the “Right to be Forgotten” applied to Google
+    
+    These may seem unrelated, but in fact all are questions about what should (or should not) be moderated, who should (or should not) moderate, when should (or should not) they moderate, where should (or should not) they moderate, and why? At the same time, each of these examples is clearly different, and those differences can help build a framework for companies to make decisions when similar questions arise in the future — including Cloudflare.
+     Content and Section 230 
+    The first and most obvious question when it comes to content is whether or not it is legal. If it is illegal, the content should be removed.
+    And indeed it is: service providers remove illegal content as soon as they are made aware of it.
+    Note, though, that service providers are generally not required to actively search for illegal content, which gets into Section 230 of the Communications Decency Act, a law that is continuously misunderstood and/or misrepresented.  1 
+    To understand Section 230 you need to go back to 1991 and the court case  Cubby v CompuServe  . CompuServe hosted a number of forums; a member of one of those forums made allegedly defamatory remarks about a company named Cubby, Inc. Cubby sued CompuServe for defamation, but a federal court judge ruled that CompuServe was a mere “distributor” of the content, not its publisher. The judge  noted  :
+    
+      The requirement that a distributor must have knowledge of the contents of a publication before liability can be imposed for distributing that publication is deeply rooted in the First Amendment…CompuServe has no more editorial control over such a publication than does a public library, book store, or newsstand, and it would be no more feasible for CompuServe to examine every publication it carries for potentially defamatory statements than it would be for any other distributor to do so.
+    
+    Four years later, though, Stratton Oakmont, a securities investment banking firm, sued Prodigy for libel, in a case that seemed remarkably similar to 
+    Cubby v. CompuServe
+    ; this time, though, Prodigy lost. From  the opinion  :
+    
+      The key distinction between CompuServe and Prodigy is two fold. First, Prodigy held itself out to the public and its members as controlling the content of its computer bulletin boards. Second, Prodigy implemented this control through its automatic software screening program, and the Guidelines which Board Leaders are required to enforce. By actively utilizing technology and manpower to delete notes from its computer bulletin boards on the basis of offensiveness and “bad taste”, for example, Prodigy is clearly making decisions as to content, and such decisions constitute editorial control…Based on the foregoing, this Court is compelled to conclude that for the purposes of Plaintiffs’ claims in this action, Prodigy is a publisher rather than a distributor.
+    
+    In other words, the act of moderating 
+    any
+    of the user-generated content on its forums made Prodigy liable for 
+    all
+    of the user-generated content on its forums — in this case to the tune of $200 million. This left services that hosted user-generated content with only one option: zero moderation. That was the only way to be classified as a distributor with the associated shield from liability, and not as a publisher.
+    The point of Section 230, then, was to make moderation legally viable; this came via the “Good Samaritan” provision.  From the statute  :
+    
+      
+     (c) Protection for “Good Samaritan” blocking and screening of offensive material
+    
+      
+        
+      (1) Treatment of publisher or speaker
+       No provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider.  
+        (2) Civil liability
+        No provider or user of an interactive computer service shall be held liable on account of— &lt;/br&gt; &lt;/br&gt;
+        
+          
+       (A)
+       any action voluntarily taken in good faith to restrict access to or availability of material that the provider or user considers to be obscene, lewd, lascivious, filthy, excessively violent, harassing, or otherwise objectionable, whether or not such material is constitutionally protected; or  
+       (B)
+       any action taken to enable or make available to information content providers or others the technical means to restrict access to material described in paragraph (1).
+        
+      
+    
+    In short, Section 230 doesn’t shield platforms from the responsibility to moderate; it in fact makes moderation possible in the first place. Nor does Section 230 require neutrality: the entire reason it exists was because true neutrality — that is, zero moderation beyond what is illegal — was undesirable to Congress.
+    Keep in mind that Congress is extremely limited in what it can make illegal because of the First Amendment. Indeed, the vast majority of the Communications Decency Act was ruled unconstitutional a year after it was passed in  a unanimous Supreme Court decision  . This is how we have arrived at the uneasy space that Cloudflare and others occupy: it is the will of the democratically elected Congress that companies moderate content above-and-beyond what is illegal, but Congress can not tell them exactly what content should be moderated.
+    The one tool that Congress does have is changing Section 230; for example, 2018’s SESTA/FOSTA act made platforms liable for any activity related to sex trafficking. In response platforms removed all content remotely connected to sex work of any kind — Cloudflare, for example,  dropped support for the Switter social media network for sex workers  — in a way that  likely caused more harm than good  . This is the problem with using liability to police content: it is 
+    always
+    in the interest of service providers to censor too much, because the downside of censoring too little is massive.
+     The Stack 
+    If the question of what content should be moderated or banned is one left to the service providers themselves, it is worth considering exactly what service providers we are talking about.
+    At the top of the stack are the service providers that people publish to directly; this includes Facebook, YouTube, Reddit, 8chan and other social networks. These platforms have absolute discretion in their moderation policies, and rightly so. First, because of Section 230, they can moderate anything they want. Second, none of these platforms have a monopoly on online expression; someone who is banned from Facebook can publish on Twitter, or set up their own website. Third, these platforms, particularly those with algorithmic timelines or recommendation engines, have an obligation to moderate more aggressively because they are not simply distributors but also amplifiers.
+    Internet service providers (ISPs), on the other hand, have very different obligations. While ISPs are no longer covered under Title II of the Communications Act, which barred them from discriminating data on the basis of content, it is the expectation of consumers and generally the policy of ISPs to not block any data because of its content (although ISPs have agreed to  block child pornography websites  in the past).
+    It makes sense to think about these positions of the stack very differently: the top of the stack is about broadcasting — reaching as many people as possible — and while you may have the right to say anything you want, there is no right to be heard. Internet service providers, though, are about access — having the opportunity to speak or hear in the first place. In other words, the further down the stack, the more legality should be the sole criteria for moderation; the further up the more discretion and even responsibility there should be for content:
+      
+    Note the implications for Facebook and YouTube in particular: their moderation decisions should not be viewed in the context of free speech, but rather as discretionary decisions made by managers seeking to attract the broadest customer base; the appropriate regulatory response, if one is appropriate, should be to push for more competition so that those dissatisfied with Facebook or Google’s moderation policies can go elsewhere.
+     Cloudflare’s Decision 
+    What made Cloudflare’s decision more challenging was three-fold.
+    First, while Cloudflare is not an ISP, they are much more akin to infrastructure than they are to user-facing platforms. In the case of 8chan, Cloudflare provided a service that shielded the site from  Distributed Denial-of-Service (DDoS) attacks  ; without a service like Cloudflare, 8chan would almost assuredly be taken offline by Internet vigilantes using botnets to launch such an attack. In other words, the question wasn’t whether or not 8chan was going to be promoted or have easy access to large social networks, but whether it would even exist at all.
+    To be perfectly clear, I would prefer that 8chan did not exist. At the same time, many of those arguing that 8chan should be erased from the Internet were insisting not too long ago that the U.S. needed to apply Title II regulation (i.e. net neutrality) to infrastructure companies to ensure they were not discriminating based on content. While Title II would not have applied to Cloudflare, it is worth keeping in mind that at some point or another nearly everyone reading this article has expressed concern about infrastructure companies making content decisions.
+    And rightly so! The difference between an infrastructure company and a customer-facing platform like Facebook is that the former is not accountable to end users in any way. Cloudflare CEO Matthew Prince made this point in  an interview with Stratechery  :
+    
+      We get labeled as being free speech absolutists, but I think that has absolutely nothing to do with this case. There is a different area of the law that matters: in the U.S. it is the idea of due process, the Aristotelian idea is that of the rule of law. Those principles are set down in order to give governments legitimacy: transparency, consistency, accountability…if you go to Germany and say “The First Amendment” everyone rolls their eyes, but if you talk about the rule of law, everyone agrees with you…
+      It felt like people were acknowledging that the deeper you were in the stack the more problematic it was [to take down content], because you couldn’t be transparent, because you couldn’t be judged as to whether you’re consistent or not, because you weren’t fundamentally accountable. It became really difficult to make that determination.
+    
+    Moreover, Cloudflare is an essential piece of the Facebook and YouTube competitive set: it is hard to argue that Facebook and YouTube should be able to moderate at will because people can go elsewhere if elsewhere does not have the scale to functionally exist.
+    Second, the nature of the medium means that all Internet companies have to be concerned about the precedent their actions in one country will have in different countries with different laws. One country’s terrorist is another country’s freedom fighter; a third country’s government acting according to the will of the people is a fourth’s tyrannically oppressing the minority. In this case, to drop support for 8chan — a site that was legal — is to admit that the delivery of Cloudflare’s services are up for negotiation.
+    Third, it is likely that at some point 8chan will come back, thanks to the help of a less scrupulous service, just as the Daily Stormer did when Cloudflare kicked them off  two years ago  . What, ultimately is the point? In fact, might there be harm, since tracking these sites may end up being more difficult the further underground they go?
+    This third point is a valid concern, but one I, after long deliberation, ultimately reject. First, convenience matters. The truly committed may find 8chan when and if it pops up again, but there is real value in requiring that level of commitment in the first place, given said commitment is likely nurtured on 8chan itself. Second, I ultimately reject the idea that publishing on the Internet is a right that must be guaranteed by 3rd parties. Stand on the street corner all you like, at least your terrible ideas will be limited by the physical world. The Internet, though, with its inherent ability to broadcast and congregate globally, is a fundamentally more dangerous medium that is by-and-large facilitated by third parties who have rights of their own. Running a website on a cloud service provider means piggy-backing off of your ISP, backbone providers, server providers, etc., and, if you are controversial, services like Cloudflare to protect you. It is magnanimous in a way for Cloudflare to commit to serving everyone, but at the end of the day Cloudflare does have a choice.
+    To that end I find Cloudflare’s rationale for acting compelling. Prince told me:
+    
+      If this were a normal circumstance we would say “Yes, it’s really horrendous content, but we’re not in a position to decide what content is bad or not.” But in this case, we saw repeated consistent harm where you had three mass shootings that were directly inspired by and gave credit to this platform. You saw the platform not act on any of that and in fact promote it internally. So then what is the obligation that we have? While we think it’s really important that we are not the ones being the arbiter of what is good or bad, if at the end of the day content platforms aren’t taking any responsibility, or in some cases actively thwarting it, and we see that there is real harm that those platforms are doing, then maybe that is the time that we cut people off.
+    
+    User-facing platforms are the ones that should make these calls, not infrastructure providers. But if they won’t, someone needs to. So Cloudflare did.
+     Defining Gray 
+    I promised, with this title, a framework for moderation, and frankly, I under-delivered. What everyone wants is a clear line about what should or should not be moderated, who should or should not be banned. The truth, though, is that those bright lines do not exist, particularly in the United States.
+    What is possible, though, is to define the boundaries of the gray areas. In the case of user-facing platforms, their discretion is vast, and responsibility for not simply moderation but also promotion significantly greater. A heavier hand is justified, as is external pressure on decision-makers; the most important regulatory response is to ensure there is competition.
+    Infrastructure companies, meanwhile, should primarily default to legality, but also, as Cloudflare did, recognize that they are the backstop to user-facing platforms that refuse to do their job.
+    Governments, meanwhile, beyond encouraging competition, should avoid using liability as a lever, and instead stick to clearly defining what is legal and what isn’t. I think it is legitimate for Germany, for example, to ban pro-Nazi websites, or the European Union to enforce the “Right to be Forgotten” within E.U. borders; like most Americans, I lean towards more free speech, not less, but governments, particularly democratically elected ones, get to make the laws.
+    What is much more problematic are initiatives like the European  Copyright Directive  , which makes platforms liable for copyright infringement. This inevitably leads to massive overreach and clumsy filtering, and favors large platforms that can pay for both filters and lawyers over smaller ones that cannot.
+    None of this is easy. I am firmly in the camp that argues that the Internet is something fundamentally different than what came before, making analog examples less relevant than they seem. The risks and opportunities of the Internet are both different and greater than anything we have experienced previously, and perhaps the biggest mistake we can make is being too sure about what is the right thing to do. Gray is uncomfortable, but it may be the best place to be.
+    
+    I wrote a follow-up to this article in
+    
+     this Daily Update
+    
+    .
+   
+    
+      For the rest of this section I am re-using text I wrote in  this 2018 Daily Update  ; I am not putting the re-used text in blockquotes as I normally would for the sake of readability [  ↩  ]
+    
+    
+      
+         Share 
+        
+          
+              Facebook  
+              Twitter  
+              LinkedIn  
+              Email  
+            
+          
+        
+      
+    
+    
+       
+     Related
+     
+    
+  
+  
+
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2019/a-framework-for-moderation/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2019/a-framework-for-moderation/&title=A Framework for Moderation&caption=
+  
+     A Framework for Moderation 
+    
+  Posted on             Wednesday, August 7, 2019 
+            Friday, July 24, 2020 
+     Author  by  Ben Thompson   
+    
+    
+  
+  
+  
+    On Sunday night, when Cloudflare CEO Matthew Prince  announced in a blog post  that the company was terminating service for 8chan, the response was nearly universal: 
+    Finally.
+   
+    It was hard to disagree: it was on 8chan — which was created after complaints that the extremely lightly-moderated anonymous-based forum 4chan was too heavy-handed — that a suspected terrorist gunman posted a rant explaining his actions before killing 20 people in El Paso. This was the third such incident this year: the terrorist gunmen in Christchurch, New Zealand and Poway, California did the same; 8chan celebrated all of them.
+    To state the obvious, it is hard to think of a more reprehensible community than 8chan. And, as many were quick to point out, it was hardly the sort of site that Cloudflare wanted to be associated with as they prepared for  a reported IPO  . Which again raises the question: what took Cloudflare so long?
+     Moderation Questions 
+    The question of when and why to moderate or ban has been an increasingly frequent one for tech companies, although the circumstances and content to be banned have often varied greatly. Some examples from the last several years:
+    
+      Cloudflare dropping support for 8chan
+      Facebook banning Alex Jones
+      The U.S. Congress creating an exception to Section 230 of the Communications Decency Act for the stated purpose of targeting sex trafficking
+      The Trump administration removing ISPs from Title II classification
+      The European Union ruling that the “Right to be Forgotten” applied to Google
+    
+    These may seem unrelated, but in fact all are questions about what should (or should not) be moderated, who should (or should not) moderate, when should (or should not) they moderate, where should (or should not) they moderate, and why? At the same time, each of these examples is clearly different, and those differences can help build a framework for companies to make decisions when similar questions arise in the future — including Cloudflare.
+     Content and Section 230 
+    The first and most obvious question when it comes to content is whether or not it is legal. If it is illegal, the content should be removed.
+    And indeed it is: service providers remove illegal content as soon as they are made aware of it.
+    Note, though, that service providers are generally not required to actively search for illegal content, which gets into Section 230 of the Communications Decency Act, a law that is continuously misunderstood and/or misrepresented.  1 
+    To understand Section 230 you need to go back to 1991 and the court case  Cubby v CompuServe  . CompuServe hosted a number of forums; a member of one of those forums made allegedly defamatory remarks about a company named Cubby, Inc. Cubby sued CompuServe for defamation, but a federal court judge ruled that CompuServe was a mere “distributor” of the content, not its publisher. The judge  noted  :
+    
+      The requirement that a distributor must have knowledge of the contents of a publication before liability can be imposed for distributing that publication is deeply rooted in the First Amendment…CompuServe has no more editorial control over such a publication than does a public library, book store, or newsstand, and it would be no more feasible for CompuServe to examine every publication it carries for potentially defamatory statements than it would be for any other distributor to do so.
+    
+    Four years later, though, Stratton Oakmont, a securities investment banking firm, sued Prodigy for libel, in a case that seemed remarkably similar to 
+    Cubby v. CompuServe
+    ; this time, though, Prodigy lost. From  the opinion  :
+    
+      The key distinction between CompuServe and Prodigy is two fold. First, Prodigy held itself out to the public and its members as controlling the content of its computer bulletin boards. Second, Prodigy implemented this control through its automatic software screening program, and the Guidelines which Board Leaders are required to enforce. By actively utilizing technology and manpower to delete notes from its computer bulletin boards on the basis of offensiveness and “bad taste”, for example, Prodigy is clearly making decisions as to content, and such decisions constitute editorial control…Based on the foregoing, this Court is compelled to conclude that for the purposes of Plaintiffs’ claims in this action, Prodigy is a publisher rather than a distributor.
+    
+    In other words, the act of moderating 
+    any
+    of the user-generated content on its forums made Prodigy liable for 
+    all
+    of the user-generated content on its forums — in this case to the tune of $200 million. This left services that hosted user-generated content with only one option: zero moderation. That was the only way to be classified as a distributor with the associated shield from liability, and not as a publisher.
+    The point of Section 230, then, was to make moderation legally viable; this came via the “Good Samaritan” provision.  From the statute  :
+    
+      
+     (c) Protection for “Good Samaritan” blocking and screening of offensive material
+    
+      
+        
+      (1) Treatment of publisher or speaker
+       No provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider.  
+        (2) Civil liability
+        No provider or user of an interactive computer service shall be held liable on account of— &lt;/br&gt; &lt;/br&gt;
+        
+          
+       (A)
+       any action voluntarily taken in good faith to restrict access to or availability of material that the provider or user considers to be obscene, lewd, lascivious, filthy, excessively violent, harassing, or otherwise objectionable, whether or not such material is constitutionally protected; or  
+       (B)
+       any action taken to enable or make available to information content providers or others the technical means to restrict access to material described in paragraph (1).
+        
+      
+    
+    In short, Section 230 doesn’t shield platforms from the responsibility to moderate; it in fact makes moderation possible in the first place. Nor does Section 230 require neutrality: the entire reason it exists was because true neutrality — that is, zero moderation beyond what is illegal — was undesirable to Congress.
+    Keep in mind that Congress is extremely limited in what it can make illegal because of the First Amendment. Indeed, the vast majority of the Communications Decency Act was ruled unconstitutional a year after it was passed in  a unanimous Supreme Court decision  . This is how we have arrived at the uneasy space that Cloudflare and others occupy: it is the will of the democratically elected Congress that companies moderate content above-and-beyond what is illegal, but Congress can not tell them exactly what content should be moderated.
+    The one tool that Congress does have is changing Section 230; for example, 2018’s SESTA/FOSTA act made platforms liable for any activity related to sex trafficking. In response platforms removed all content remotely connected to sex work of any kind — Cloudflare, for example,  dropped support for the Switter social media network for sex workers  — in a way that  likely caused more harm than good  . This is the problem with using liability to police content: it is 
+    always
+    in the interest of service providers to censor too much, because the downside of censoring too little is massive.
+     The Stack 
+    If the question of what content should be moderated or banned is one left to the service providers themselves, it is worth considering exactly what service providers we are talking about.
+    At the top of the stack are the service providers that people publish to directly; this includes Facebook, YouTube, Reddit, 8chan and other social networks. These platforms have absolute discretion in their moderation policies, and rightly so. First, because of Section 230, they can moderate anything they want. Second, none of these platforms have a monopoly on online expression; someone who is banned from Facebook can publish on Twitter, or set up their own website. Third, these platforms, particularly those with algorithmic timelines or recommendation engines, have an obligation to moderate more aggressively because they are not simply distributors but also amplifiers.
+    Internet service providers (ISPs), on the other hand, have very different obligations. While ISPs are no longer covered under Title II of the Communications Act, which barred them from discriminating data on the basis of content, it is the expectation of consumers and generally the policy of ISPs to not block any data because of its content (although ISPs have agreed to  block child pornography websites  in the past).
+    It makes sense to think about these positions of the stack very differently: the top of the stack is about broadcasting — reaching as many people as possible — and while you may have the right to say anything you want, there is no right to be heard. Internet service providers, though, are about access — having the opportunity to speak or hear in the first place. In other words, the further down the stack, the more legality should be the sole criteria for moderation; the further up the more discretion and even responsibility there should be for content:
+      
+    Note the implications for Facebook and YouTube in particular: their moderation decisions should not be viewed in the context of free speech, but rather as discretionary decisions made by managers seeking to attract the broadest customer base; the appropriate regulatory response, if one is appropriate, should be to push for more competition so that those dissatisfied with Facebook or Google’s moderation policies can go elsewhere.
+     Cloudflare’s Decision 
+    What made Cloudflare’s decision more challenging was three-fold.
+    First, while Cloudflare is not an ISP, they are much more akin to infrastructure than they are to user-facing platforms. In the case of 8chan, Cloudflare provided a service that shielded the site from  Distributed Denial-of-Service (DDoS) attacks  ; without a service like Cloudflare, 8chan would almost assuredly be taken offline by Internet vigilantes using botnets to launch such an attack. In other words, the question wasn’t whether or not 8chan was going to be promoted or have easy access to large social networks, but whether it would even exist at all.
+    To be perfectly clear, I would prefer that 8chan did not exist. At the same time, many of those arguing that 8chan should be erased from the Internet were insisting not too long ago that the U.S. needed to apply Title II regulation (i.e. net neutrality) to infrastructure companies to ensure they were not discriminating based on content. While Title II would not have applied to Cloudflare, it is worth keeping in mind that at some point or another nearly everyone reading this article has expressed concern about infrastructure companies making content decisions.
+    And rightly so! The difference between an infrastructure company and a customer-facing platform like Facebook is that the former is not accountable to end users in any way. Cloudflare CEO Matthew Prince made this point in  an interview with Stratechery  :
+    
+      We get labeled as being free speech absolutists, but I think that has absolutely nothing to do with this case. There is a different area of the law that matters: in the U.S. it is the idea of due process, the Aristotelian idea is that of the rule of law. Those principles are set down in order to give governments legitimacy: transparency, consistency, accountability…if you go to Germany and say “The First Amendment” everyone rolls their eyes, but if you talk about the rule of law, everyone agrees with you…
+      It felt like people were acknowledging that the deeper you were in the stack the more problematic it was [to take down content], because you couldn’t be transparent, because you couldn’t be judged as to whether you’re consistent or not, because you weren’t fundamentally accountable. It became really difficult to make that determination.
+    
+    Moreover, Cloudflare is an essential piece of the Facebook and YouTube competitive set: it is hard to argue that Facebook and YouTube should be able to moderate at will because people can go elsewhere if elsewhere does not have the scale to functionally exist.
+    Second, the nature of the medium means that all Internet companies have to be concerned about the precedent their actions in one country will have in different countries with different laws. One country’s terrorist is another country’s freedom fighter; a third country’s government acting according to the will of the people is a fourth’s tyrannically oppressing the minority. In this case, to drop support for 8chan — a site that was legal — is to admit that the delivery of Cloudflare’s services are up for negotiation.
+    Third, it is likely that at some point 8chan will come back, thanks to the help of a less scrupulous service, just as the Daily Stormer did when Cloudflare kicked them off  two years ago  . What, ultimately is the point? In fact, might there be harm, since tracking these sites may end up being more difficult the further underground they go?
+    This third point is a valid concern, but one I, after long deliberation, ultimately reject. First, convenience matters. The truly committed may find 8chan when and if it pops up again, but there is real value in requiring that level of commitment in the first place, given said commitment is likely nurtured on 8chan itself. Second, I ultimately reject the idea that publishing on the Internet is a right that must be guaranteed by 3rd parties. Stand on the street corner all you like, at least your terrible ideas will be limited by the physical world. The Internet, though, with its inherent ability to broadcast and congregate globally, is a fundamentally more dangerous medium that is by-and-large facilitated by third parties who have rights of their own. Running a website on a cloud service provider means piggy-backing off of your ISP, backbone providers, server providers, etc., and, if you are controversial, services like Cloudflare to protect you. It is magnanimous in a way for Cloudflare to commit to serving everyone, but at the end of the day Cloudflare does have a choice.
+    To that end I find Cloudflare’s rationale for acting compelling. Prince told me:
+    
+      If this were a normal circumstance we would say “Yes, it’s really horrendous content, but we’re not in a position to decide what content is bad or not.” But in this case, we saw repeated consistent harm where you had three mass shootings that were directly inspired by and gave credit to this platform. You saw the platform not act on any of that and in fact promote it internally. So then what is the obligation that we have? While we think it’s really important that we are not the ones being the arbiter of what is good or bad, if at the end of the day content platforms aren’t taking any responsibility, or in some cases actively thwarting it, and we see that there is real harm that those platforms are doing, then maybe that is the time that we cut people off.
+    
+    User-facing platforms are the ones that should make these calls, not infrastructure providers. But if they won’t, someone needs to. So Cloudflare did.
+     Defining Gray 
+    I promised, with this title, a framework for moderation, and frankly, I under-delivered. What everyone wants is a clear line about what should or should not be moderated, who should or should not be banned. The truth, though, is that those bright lines do not exist, particularly in the United States.
+    What is possible, though, is to define the boundaries of the gray areas. In the case of user-facing platforms, their discretion is vast, and responsibility for not simply moderation but also promotion significantly greater. A heavier hand is justified, as is external pressure on decision-makers; the most important regulatory response is to ensure there is competition.
+    Infrastructure companies, meanwhile, should primarily default to legality, but also, as Cloudflare did, recognize that they are the backstop to user-facing platforms that refuse to do their job.
+    Governments, meanwhile, beyond encouraging competition, should avoid using liability as a lever, and instead stick to clearly defining what is legal and what isn’t. I think it is legitimate for Germany, for example, to ban pro-Nazi websites, or the European Union to enforce the “Right to be Forgotten” within E.U. borders; like most Americans, I lean towards more free speech, not less, but governments, particularly democratically elected ones, get to make the laws.
+    What is much more problematic are initiatives like the European  Copyright Directive  , which makes platforms liable for copyright infringement. This inevitably leads to massive overreach and clumsy filtering, and favors large platforms that can pay for both filters and lawyers over smaller ones that cannot.
+    None of this is easy. I am firmly in the camp that argues that the Internet is something fundamentally different than what came before, making analog examples less relevant than they seem. The risks and opportunities of the Internet are both different and greater than anything we have experienced previously, and perhaps the biggest mistake we can make is being too sure about what is the right thing to do. Gray is uncomfortable, but it may be the best place to be.
+    
+    I wrote a follow-up to this article in
+    
+     this Daily Update
+    
+    .
+   
+    
+      For the rest of this section I am re-using text I wrote in  this 2018 Daily Update  ; I am not putting the re-used text in blockquotes as I normally would for the sake of readability [  ↩  ]
+    
+    
+      
+         Share 
+        
+          
+              Facebook  
+              Twitter  
+              LinkedIn  
+              Email  
+            
+          
+        
+      
+    
+    
+       
+     Related
+     
+    
+  
+  
+
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=A Framework for Moderation&url=https://stratechery.com/2019/a-framework-for-moderation/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>A Framework for Moderation</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2019-08-07
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2019/a-framework-for-moderation/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <article class="post-4318 post type-post status-publish format-standard hentry category-articles topics-content-moderation topics-networks topics-social concepts-ethics-and-mores concepts-technology-and-society concepts-unintended-consequence companies-cloudflare" id="post-4318">
+  <header class="entry-header">
+    <h1 class="entry-title" id="a-framework-for-moderation-"> A Framework for Moderation </h1>
+    <div class="entry-meta">
+<span class="posted-on"> <span class="screen-reader-text"> Posted on </span>           <time class="entry-date published" datetime="2019-08-07T05:49:22-07:00"> Wednesday, August 7, 2019 </time>
+           <time class="updated" datetime="2020-07-24T18:34:57-07:00"> Friday, July 24, 2020 </time>
+ </span> <span class="byline"> <span class="author vcard"> <span class="screen-reader-text"> Author </span> by <a class="url fn n" href="https://stratechery.com/author/stratechery/"> Ben Thompson </a> </span> </span>
+    </div>
+    <!-- .entry-meta -->
+  </header>
+  <!-- .entry-header -->
+  <div class="entry-content">
+    <p>On Sunday night, when Cloudflare CEO Matthew Prince <a href="https://new.blog.cloudflare.com/terminating-service-for-8chan/"> announced in a blog post </a> that the company was terminating service for 8chan, the response was nearly universal: <em>
+    Finally.
+   </em></p>
+    <p>It was hard to disagree: it was on 8chan — which was created after complaints that the extremely lightly-moderated anonymous-based forum 4chan was too heavy-handed — that a suspected terrorist gunman posted a rant explaining his actions before killing 20 people in El Paso. This was the third such incident this year: the terrorist gunmen in Christchurch, New Zealand and Poway, California did the same; 8chan celebrated all of them.</p>
+    <p>To state the obvious, it is hard to think of a more reprehensible community than 8chan. And, as many were quick to point out, it was hardly the sort of site that Cloudflare wanted to be associated with as they prepared for <a href="https://news.crunchbase.com/news/cloudflare-said-to-pursue-september-ipo-we-say-heck-yes/"> a reported IPO </a> . Which again raises the question: what took Cloudflare so long?</p>
+    <h4 id="moderation-questions-"> Moderation Questions </h4>
+    <p>The question of when and why to moderate or ban has been an increasingly frequent one for tech companies, although the circumstances and content to be banned have often varied greatly. Some examples from the last several years:</p>
+    <ul>
+      <li>Cloudflare dropping support for 8chan</li>
+      <li>Facebook banning Alex Jones</li>
+      <li>The U.S. Congress creating an exception to Section 230 of the Communications Decency Act for the stated purpose of targeting sex trafficking</li>
+      <li>The Trump administration removing ISPs from Title II classification</li>
+      <li>The European Union ruling that the “Right to be Forgotten” applied to Google</li>
+    </ul>
+    <p>These may seem unrelated, but in fact all are questions about what should (or should not) be moderated, who should (or should not) moderate, when should (or should not) they moderate, where should (or should not) they moderate, and why? At the same time, each of these examples is clearly different, and those differences can help build a framework for companies to make decisions when similar questions arise in the future — including Cloudflare.</p>
+    <h4 id="content-and-section-230-"> Content and Section 230 </h4>
+    <p>The first and most obvious question when it comes to content is whether or not it is legal. If it is illegal, the content should be removed.</p>
+    <p>And indeed it is: service providers remove illegal content as soon as they are made aware of it.</p>
+    <p>Note, though, that service providers are generally not required to actively search for illegal content, which gets into Section 230 of the Communications Decency Act, a law that is continuously misunderstood and/or misrepresented. <a class="footnote-link footnote-identifier-link" href="#footnote_0_4318" id="identifier_0_4318" title="For the rest of this section I am re-using text I wrote in this 2018 Daily Update; I am not putting the re-used text in blockquotes as I normally would for the sake of readability"> 1 </a></p>
+    <p>To understand Section 230 you need to go back to 1991 and the court case <a href="https://en.wikipedia.org/wiki/Cubby,_Inc._v._CompuServe_Inc."> Cubby v CompuServe </a> . CompuServe hosted a number of forums; a member of one of those forums made allegedly defamatory remarks about a company named Cubby, Inc. Cubby sued CompuServe for defamation, but a federal court judge ruled that CompuServe was a mere “distributor” of the content, not its publisher. The judge <a href="https://law.justia.com/cases/federal/district-courts/FSupp/776/135/2340509/"> noted </a> :</p>
+    <blockquote>
+      <p>The requirement that a distributor must have knowledge of the contents of a publication before liability can be imposed for distributing that publication is deeply rooted in the First Amendment…CompuServe has no more editorial control over such a publication than does a public library, book store, or newsstand, and it would be no more feasible for CompuServe to examine every publication it carries for potentially defamatory statements than it would be for any other distributor to do so.</p>
+    </blockquote>
+    <p>Four years later, though, Stratton Oakmont, a securities investment banking firm, sued Prodigy for libel, in a case that seemed remarkably similar to <em>
+    Cubby v. CompuServe
+   </em> ; this time, though, Prodigy lost. From <a href="https://h2o.law.harvard.edu/cases/4540"> the opinion </a> :</p>
+    <blockquote>
+      <p>The key distinction between CompuServe and Prodigy is two fold. First, Prodigy held itself out to the public and its members as controlling the content of its computer bulletin boards. Second, Prodigy implemented this control through its automatic software screening program, and the Guidelines which Board Leaders are required to enforce. By actively utilizing technology and manpower to delete notes from its computer bulletin boards on the basis of offensiveness and “bad taste”, for example, Prodigy is clearly making decisions as to content, and such decisions constitute editorial control…Based on the foregoing, this Court is compelled to conclude that for the purposes of Plaintiffs’ claims in this action, Prodigy is a publisher rather than a distributor.</p>
+    </blockquote>
+    <p>In other words, the act of moderating <em>
+    any
+   </em> of the user-generated content on its forums made Prodigy liable for <em>
+    all
+   </em> of the user-generated content on its forums — in this case to the tune of $200 million. This left services that hosted user-generated content with only one option: zero moderation. That was the only way to be classified as a distributor with the associated shield from liability, and not as a publisher.</p>
+    <p>The point of Section 230, then, was to make moderation legally viable; this came via the “Good Samaritan” provision. <a href="https://www.law.cornell.edu/uscode/text/47/230"> From the statute </a> :</p>
+    <blockquote>
+      <p><strong>
+     (c) Protection for “Good Samaritan” blocking and screening of offensive material
+    </strong></p>
+      <blockquote>
+        <p><strong>
+      (1) Treatment of publisher or speaker
+     </strong> <br /> No provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider. <br /> <strong>
+        (2) Civil liability
+       </strong> No provider or user of an interactive computer service shall be held liable on account of— &lt;/br&gt; &lt;/br&gt;</p>
+        <blockquote>
+          <p><strong>
+       (A)
+      </strong> any action voluntarily taken in good faith to restrict access to or availability of material that the provider or user considers to be obscene, lewd, lascivious, filthy, excessively violent, harassing, or otherwise objectionable, whether or not such material is constitutionally protected; or <br /> <strong>
+       (B)
+      </strong> any action taken to enable or make available to information content providers or others the technical means to restrict access to material described in paragraph (1).</p>
+        </blockquote>
+      </blockquote>
+    </blockquote>
+    <p>In short, Section 230 doesn’t shield platforms from the responsibility to moderate; it in fact makes moderation possible in the first place. Nor does Section 230 require neutrality: the entire reason it exists was because true neutrality — that is, zero moderation beyond what is illegal — was undesirable to Congress.</p>
+    <p>Keep in mind that Congress is extremely limited in what it can make illegal because of the First Amendment. Indeed, the vast majority of the Communications Decency Act was ruled unconstitutional a year after it was passed in <a href="https://en.wikipedia.org/wiki/Reno_v._American_Civil_Liberties_Union"> a unanimous Supreme Court decision </a> . This is how we have arrived at the uneasy space that Cloudflare and others occupy: it is the will of the democratically elected Congress that companies moderate content above-and-beyond what is illegal, but Congress can not tell them exactly what content should be moderated.</p>
+    <p>The one tool that Congress does have is changing Section 230; for example, 2018’s SESTA/FOSTA act made platforms liable for any activity related to sex trafficking. In response platforms removed all content remotely connected to sex work of any kind — Cloudflare, for example, <a href="https://www.theverge.com/2018/4/19/17256370/switter-cloudflare-sex-workers-banned"> dropped support for the Switter social media network for sex workers </a> — in a way that <a href="https://www.vox.com/culture/2018/4/13/17172762/fosta-sesta-backpage-230-internet-freedom"> likely caused more harm than good </a> . This is the problem with using liability to police content: it is <em>
+    always
+   </em> in the interest of service providers to censor too much, because the downside of censoring too little is massive.</p>
+    <h4 id="the-stack-"> The Stack </h4>
+    <p>If the question of what content should be moderated or banned is one left to the service providers themselves, it is worth considering exactly what service providers we are talking about.</p>
+    <p>At the top of the stack are the service providers that people publish to directly; this includes Facebook, YouTube, Reddit, 8chan and other social networks. These platforms have absolute discretion in their moderation policies, and rightly so. First, because of Section 230, they can moderate anything they want. Second, none of these platforms have a monopoly on online expression; someone who is banned from Facebook can publish on Twitter, or set up their own website. Third, these platforms, particularly those with algorithmic timelines or recommendation engines, have an obligation to moderate more aggressively because they are not simply distributors but also amplifiers.</p>
+    <p>Internet service providers (ISPs), on the other hand, have very different obligations. While ISPs are no longer covered under Title II of the Communications Act, which barred them from discriminating data on the basis of content, it is the expectation of consumers and generally the policy of ISPs to not block any data because of its content (although ISPs have agreed to <a href="https://www.reuters.com/article/us-comcast-childporn/comcast-netzero-agree-to-block-internet-child-porn-idUSN2935028520080729"> block child pornography websites </a> in the past).</p>
+    <p>It makes sense to think about these positions of the stack very differently: the top of the stack is about broadcasting — reaching as many people as possible — and while you may have the right to say anything you want, there is no right to be heard. Internet service providers, though, are about access — having the opportunity to speak or hear in the first place. In other words, the further down the stack, the more legality should be the sole criteria for moderation; the further up the more discretion and even responsibility there should be for content:</p>
+    <p><a href="https://stratechery.com/wp-content/uploads/2019/08/Stratechery-2019-08-07-20.42.32.png"> <img alt="The position in the stack matters for moderation" class="aligncenter size-full wp-image-4319" height="1640" sizes="(max-width: 2594px) 100vw, 2594px" src="https://stratechery.com/wp-content/uploads/2019/08/Stratechery-2019-08-07-20.42.32.png" srcset="https://stratechery.com/wp-content/uploads/2019/08/Stratechery-2019-08-07-20.42.32.png 2594w, https://stratechery.com/wp-content/uploads/2019/08/Stratechery-2019-08-07-20.42.32-300x190.png 300w, https://stratechery.com/wp-content/uploads/2019/08/Stratechery-2019-08-07-20.42.32-768x486.png 768w, https://stratechery.com/wp-content/uploads/2019/08/Stratechery-2019-08-07-20.42.32-1024x647.png 1024w, https://stratechery.com/wp-content/uploads/2019/08/Stratechery-2019-08-07-20.42.32-996x630.png 996w" width="2594" /> </a></p>
+    <p>Note the implications for Facebook and YouTube in particular: their moderation decisions should not be viewed in the context of free speech, but rather as discretionary decisions made by managers seeking to attract the broadest customer base; the appropriate regulatory response, if one is appropriate, should be to push for more competition so that those dissatisfied with Facebook or Google’s moderation policies can go elsewhere.</p>
+    <h4 id="cloudflares-decision-"> Cloudflare’s Decision </h4>
+    <p>What made Cloudflare’s decision more challenging was three-fold.</p>
+    <p>First, while Cloudflare is not an ISP, they are much more akin to infrastructure than they are to user-facing platforms. In the case of 8chan, Cloudflare provided a service that shielded the site from <a href="https://en.wikipedia.org/wiki/Denial-of-service_attack"> Distributed Denial-of-Service (DDoS) attacks </a> ; without a service like Cloudflare, 8chan would almost assuredly be taken offline by Internet vigilantes using botnets to launch such an attack. In other words, the question wasn’t whether or not 8chan was going to be promoted or have easy access to large social networks, but whether it would even exist at all.</p>
+    <p>To be perfectly clear, I would prefer that 8chan did not exist. At the same time, many of those arguing that 8chan should be erased from the Internet were insisting not too long ago that the U.S. needed to apply Title II regulation (i.e. net neutrality) to infrastructure companies to ensure they were not discriminating based on content. While Title II would not have applied to Cloudflare, it is worth keeping in mind that at some point or another nearly everyone reading this article has expressed concern about infrastructure companies making content decisions.</p>
+    <p>And rightly so! The difference between an infrastructure company and a customer-facing platform like Facebook is that the former is not accountable to end users in any way. Cloudflare CEO Matthew Prince made this point in <a href="https://stratechery.com/2019/8chan-and-el-paso-cloudflare-drops-8chan-an-interview-with-cloudflare-ceo-matthew-prince/"> an interview with Stratechery </a> :</p>
+    <blockquote>
+      <p>We get labeled as being free speech absolutists, but I think that has absolutely nothing to do with this case. There is a different area of the law that matters: in the U.S. it is the idea of due process, the Aristotelian idea is that of the rule of law. Those principles are set down in order to give governments legitimacy: transparency, consistency, accountability…if you go to Germany and say “The First Amendment” everyone rolls their eyes, but if you talk about the rule of law, everyone agrees with you…</p>
+      <p>It felt like people were acknowledging that the deeper you were in the stack the more problematic it was [to take down content], because you couldn’t be transparent, because you couldn’t be judged as to whether you’re consistent or not, because you weren’t fundamentally accountable. It became really difficult to make that determination.</p>
+    </blockquote>
+    <p>Moreover, Cloudflare is an essential piece of the Facebook and YouTube competitive set: it is hard to argue that Facebook and YouTube should be able to moderate at will because people can go elsewhere if elsewhere does not have the scale to functionally exist.</p>
+    <p>Second, the nature of the medium means that all Internet companies have to be concerned about the precedent their actions in one country will have in different countries with different laws. One country’s terrorist is another country’s freedom fighter; a third country’s government acting according to the will of the people is a fourth’s tyrannically oppressing the minority. In this case, to drop support for 8chan — a site that was legal — is to admit that the delivery of Cloudflare’s services are up for negotiation.</p>
+    <p>Third, it is likely that at some point 8chan will come back, thanks to the help of a less scrupulous service, just as the Daily Stormer did when Cloudflare kicked them off <a href="https://stratechery.com/2017/cloudfare-and-stormfront-free-speech-and-corporations-just-war-and-free-speech/"> two years ago </a> . What, ultimately is the point? In fact, might there be harm, since tracking these sites may end up being more difficult the further underground they go?</p>
+    <p>This third point is a valid concern, but one I, after long deliberation, ultimately reject. First, convenience matters. The truly committed may find 8chan when and if it pops up again, but there is real value in requiring that level of commitment in the first place, given said commitment is likely nurtured on 8chan itself. Second, I ultimately reject the idea that publishing on the Internet is a right that must be guaranteed by 3rd parties. Stand on the street corner all you like, at least your terrible ideas will be limited by the physical world. The Internet, though, with its inherent ability to broadcast and congregate globally, is a fundamentally more dangerous medium that is by-and-large facilitated by third parties who have rights of their own. Running a website on a cloud service provider means piggy-backing off of your ISP, backbone providers, server providers, etc., and, if you are controversial, services like Cloudflare to protect you. It is magnanimous in a way for Cloudflare to commit to serving everyone, but at the end of the day Cloudflare does have a choice.</p>
+    <p>To that end I find Cloudflare’s rationale for acting compelling. Prince told me:</p>
+    <blockquote>
+      <p>If this were a normal circumstance we would say “Yes, it’s really horrendous content, but we’re not in a position to decide what content is bad or not.” But in this case, we saw repeated consistent harm where you had three mass shootings that were directly inspired by and gave credit to this platform. You saw the platform not act on any of that and in fact promote it internally. So then what is the obligation that we have? While we think it’s really important that we are not the ones being the arbiter of what is good or bad, if at the end of the day content platforms aren’t taking any responsibility, or in some cases actively thwarting it, and we see that there is real harm that those platforms are doing, then maybe that is the time that we cut people off.</p>
+    </blockquote>
+    <p>User-facing platforms are the ones that should make these calls, not infrastructure providers. But if they won’t, someone needs to. So Cloudflare did.</p>
+    <h4 id="defining-gray-"> Defining Gray </h4>
+    <p>I promised, with this title, a framework for moderation, and frankly, I under-delivered. What everyone wants is a clear line about what should or should not be moderated, who should or should not be banned. The truth, though, is that those bright lines do not exist, particularly in the United States.</p>
+    <p>What is possible, though, is to define the boundaries of the gray areas. In the case of user-facing platforms, their discretion is vast, and responsibility for not simply moderation but also promotion significantly greater. A heavier hand is justified, as is external pressure on decision-makers; the most important regulatory response is to ensure there is competition.</p>
+    <p>Infrastructure companies, meanwhile, should primarily default to legality, but also, as Cloudflare did, recognize that they are the backstop to user-facing platforms that refuse to do their job.</p>
+    <p>Governments, meanwhile, beyond encouraging competition, should avoid using liability as a lever, and instead stick to clearly defining what is legal and what isn’t. I think it is legitimate for Germany, for example, to ban pro-Nazi websites, or the European Union to enforce the “Right to be Forgotten” within E.U. borders; like most Americans, I lean towards more free speech, not less, but governments, particularly democratically elected ones, get to make the laws.</p>
+    <p>What is much more problematic are initiatives like the European <a href="https://stratechery.com/2018/the-european-union-versus-the-internet/"> Copyright Directive </a> , which makes platforms liable for copyright infringement. This inevitably leads to massive overreach and clumsy filtering, and favors large platforms that can pay for both filters and lawyers over smaller ones that cannot.</p>
+    <p>None of this is easy. I am firmly in the camp that argues that the Internet is something fundamentally different than what came before, making analog examples less relevant than they seem. The risks and opportunities of the Internet are both different and greater than anything we have experienced previously, and perhaps the biggest mistake we can make is being too sure about what is the right thing to do. Gray is uncomfortable, but it may be the best place to be.</p>
+    <p><em>
+    I wrote a follow-up to this article in
+    <a href="https://stratechery.com/2019/why-cloudflare-matters-the-absence-of-gatekeepers-promotion-versus-moderation/">
+     this Daily Update
+    </a>
+    .
+   </em></p>
+    <ol class="footnotes">
+      <li class="footnote" id="footnote_0_4318">For the rest of this section I am re-using text I wrote in <a href="https://stratechery.com/2018/another-congressional-hearing-the-genesis-of-section-230-the-battle-over-section-230/"> this 2018 Daily Update </a> ; I am not putting the re-used text in blockquotes as I normally would for the sake of readability [ <a class="footnote-link footnote-back-link" href="#identifier_0_4318"> ↩ </a> ]</li>
+    </ol>
+    <div class="sharedaddy sd-sharing-enabled">
+      <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
+        <h3 class="sd-title" id="share-"> Share </h3>
+        <div class="sd-content">
+          <ul>
+            <li class="share-facebook"><a class="share-facebook sd-button share-icon" data-shared="sharing-facebook-4318" href="https://stratechery.com/2019/a-framework-for-moderation/?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Facebook"> <span> Facebook </span> </a></li>
+            <li class="share-twitter"><a class="share-twitter sd-button share-icon" data-shared="sharing-twitter-4318" href="https://stratechery.com/2019/a-framework-for-moderation/?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Twitter"> <span> Twitter </span> </a></li>
+            <li class="share-linkedin"><a class="share-linkedin sd-button share-icon" data-shared="sharing-linkedin-4318" href="https://stratechery.com/2019/a-framework-for-moderation/?share=linkedin" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on LinkedIn"> <span> LinkedIn </span> </a></li>
+            <li class="share-email"><a class="share-email sd-button share-icon" data-shared="" href="https://stratechery.com/2019/a-framework-for-moderation/?share=email" rel="nofollow noopener noreferrer" target="_blank" title="Click to email this to a friend"> <span> Email </span> </a></li>
+            <li class="share-end"></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="jp-relatedposts" id="jp-relatedposts">
+      <h3 class="jp-relatedposts-headline" id="related"> <em>
+     Related
+    </em> </h3>
+    </div>
+  </div>
+  <!-- .entry-content -->
+</article>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2019-09-03</time>
+        <a href="https://nodebe4.github.io/opinion/2019-09-03/What_Is_a_Tech_Company/">
+          What Is a Tech Company?
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-08-27</time>
+        <a href="https://nodebe4.github.io/opinion/2019-08-27/Privacy_Fundamentalism/">
+          Privacy Fundamentalism
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-07-11</time>
+        <a href="https://nodebe4.github.io/opinion/2019-07-11/Shopify_and_the_Power_of_Platforms/">
+          Shopify and the Power of Platforms
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-06-25</time>
+        <a href="https://nodebe4.github.io/opinion/2019-06-25/Facebook_Libra_and_the_Long_Game/">
+          Facebook, Libra, and the Long Game
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2019-08-07/%E6%AF%8F%E5%91%A8%E8%BD%AC%E8%BD%BD-%E9%A6%99%E6%B8%AF-%E5%8F%8D%E9%80%81%E4%B8%AD-%E6%94%BF%E6%B2%BB%E6%8A%97%E8%AE%AE%E6%B4%BB%E5%8A%A8%E5%A4%A7%E4%BA%8B%E8%AE%B0-7%E6%9C%88%E5%88%9D%E8%87%B38%E6%9C%88%E5%88%9D/">
+            前一篇：每周转载：香港“反送中”政治抗议活动大事记（7月初至8月初）
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2019-08-07/CUP-%E5%AA%92%E9%AB%94-%E5%86%8D-%E8%81%BD-%E5%8F%A4%E8%A9%A9/">
+            後一篇：【CUP 媒體】再「聽」古詩
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2019-08-07/%E6%AF%8F%E5%91%A8%E8%BD%AC%E8%BD%BD-%E9%A6%99%E6%B8%AF-%E5%8F%8D%E9%80%81%E4%B8%AD-%E6%94%BF%E6%B2%BB%E6%8A%97%E8%AE%AE%E6%B4%BB%E5%8A%A8%E5%A4%A7%E4%BA%8B%E8%AE%B0-7%E6%9C%88%E5%88%9D%E8%87%B38%E6%9C%88%E5%88%9D/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2019-08-07/CUP-%E5%AA%92%E9%AB%94-%E5%86%8D-%E8%81%BD-%E5%8F%A4%E8%A9%A9/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2019-08-27/Privacy_Fundamentalism/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2019-07-11/Shopify_and_the_Power_of_Platforms/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2019-08-07/%E6%AF%8F%E5%91%A8%E8%BD%AC%E8%BD%BD-%E9%A6%99%E6%B8%AF-%E5%8F%8D%E9%80%81%E4%B8%AD-%E6%94%BF%E6%B2%BB%E6%8A%97%E8%AE%AE%E6%B4%BB%E5%8A%A8%E5%A4%A7%E4%BA%8B%E8%AE%B0-7%E6%9C%88%E5%88%9D%E8%87%B38%E6%9C%88%E5%88%9D/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2019-08-07/CUP-%E5%AA%92%E9%AB%94-%E5%86%8D-%E8%81%BD-%E5%8F%A4%E8%A9%A9/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2019-08-27/Privacy_Fundamentalism/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2019-07-11/Shopify_and_the_Power_of_Platforms/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

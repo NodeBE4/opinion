@@ -1,0 +1,986 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>疫情回忆录 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+疫情回忆录
+——
+" />
+    <meta property="og:description" content="
+疫情回忆录
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="疫情回忆录" />
+    <meta property="twitter:title" content="疫情回忆录" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2F2049post.wordpress.com%2F2020%2F09%2F15%2Fv6voice1%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://2049post.wordpress.com/2020/09/15/v6voice1/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://2049post.wordpress.com/2020/09/15/v6voice1/&text=疫情回忆录&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://2049post.wordpress.com/2020/09/15/v6voice1/&title=疫情回忆录" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://2049post.wordpress.com/2020/09/15/v6voice1/&title=疫情回忆录" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=疫情回忆录&body=
+疫情回忆录
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://2049post.wordpress.com/2020/09/15/v6voice1/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://2049post.wordpress.com/2020/09/15/v6voice1/&title=疫情回忆录&caption=
+疫情回忆录
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=疫情回忆录&url=https://2049post.wordpress.com/2020/09/15/v6voice1/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>疫情回忆录</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2020-09-14
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#火光">
+          火光
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://2049post.wordpress.com/2020/09/15/v6voice1/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="火光的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#火光 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1600100880000-->
+<p><a href="https://2049post.wordpress.com/2020/09/15/v6voice1/">疫情回忆录</a>
+——</p>
+
+<div>
+  <div class="wp-block-jetpack-markdown">
+    <p>作者：ZX</p>
+    <p>&gt; 我曾经害怕真相的代价，现在我只会问：谎言的代价是什么？</p>
+    <h3 id="section">1</h3>
+    <p>多年后，面对“不能，不明白”的训诫书，甄向又想起李文亮医生离世的那个夜晚。“一个健康的社会不应该只有一种声音”的文字在她脑海中回响，仿佛是李文亮医生跌入深渊时向她留下的遗言，难以忘怀。</p>
+    <p>甄向最早是在推特上看到武汉有疑似SARS肺炎的消息的，但是像很多人一样，不以为意地划过了。没过几天，她又看到有八名“造谣者”因为传播肺炎信息而被传唤训诫。渐渐地，很多中国周边地区也开始出现疫情，但直到2020年1月20日晚间，钟南山才肯定新型冠状病毒人传人。不过谁也没想到，人间惨剧才刚刚开始，谎言与删帖轮番登场，老大哥的监视愈演愈烈，影响着未来的岁月。</p>
+    <p>甄向是一名大学生，正放假在家。知道人传人的第二天，她出门就戴上了口罩。此时街上没有太大变化，但是零零星星地，甄向发现戴口罩的人多了一些。在街上漫无目的地闲逛，甄向看到一群大妈在跳着广场舞，她们中间没有一个人戴口罩。突然萌生一个想法，甄向想问问大妈们对新冠有什么看法，于是上前问道：</p>
+    <p>“阿姨，你们好！你们知道新型冠状病毒的新闻了吗？你们会害怕吗？”</p>
+    <p>“知道，不怕，有政府，有政府不怕。”</p>
+    <p>甄向向她们微微一笑，默默地走开了，心中一股不安却蔓延开来。</p>
+    <p>2020年1月23日，武汉封城。听到这个消息，甄向想起去年年中大热的美剧《切尔诺贝利》，当灾难发生，第一时间封城并封锁消息，这是极权国家的典型做法。但病毒能够被404吗？这场疫情会是大厦崩塌的前奏吗？</p>
+    <h3 id="section-1">2</h3>
+    <p>甄向不是一名普通的大学生，从高中开始，她就已经学会翻墙了，但她并不关心政治，只是偶尔追踪一下自己喜欢的明星动态。即便如此，她也感到国内的言论环境愈发恶劣。直至2019年的香港“反送中”运动，甄向的思想开始被彻底地改变。</p>
+    <p>“光复香港，时代革命”，甄向随着人群向前走着，同时用粤语喊着口号。路过五颜六色的连侬墙，上面写着“兄弟爬山，各自努力”，“Be Water”，“香港加油”等为港人打气的字。甄向一度要落下泪来，既为勇敢抗争的香港人，也为内地被极权奴役的同胞们。走到广场，人们开始自发地唱起《愿荣光归香港》，甄向抹去眼角的泪水，也跟着哼唱起来：</p>
+    <p><em>在晚星　坠落　徬徨午夜迷雾里　最远处吹来　号角声捍自由　来齐集这里　来全力抗对勇气　智慧　也永不灭</em></p>
+    <p><em>黎明来到　要光复　这香港同行儿女　为正义　时代革命祈求　民主与自由　万世都不朽我愿荣光归香港</em></p>
+    <p>突然，一群黑警冲向人群，往他们脸上喷辣椒水，甄向眼前一黑，就倒下了。</p>
+    <p>从梦中惊醒，甄向眼前还是黑警的身影，感到一阵后怕。拿起手机打开豆瓣，突然想起去年自己因为转发“反送中”运动的照片而被封号。</p>
+    <p>“那这次疫情，官方难道不会同样删帖封号吗？”</p>
+    <p>一个激灵，甄向猛地从床上爬起来，打开电脑，看看疫情以来的新闻。“毫无疑问，他们会的，得赶在这之前，把新闻都备份下来。”甄向仿佛预见到了什么，而这也决定了她今后的人生。</p>
+    <h3 id="section-2">3</h3>
+    <p>我和甄向站在山上，俯瞰着这座城市。阳光洒落，房子和街道一片光明的景象，车辆环绕着驶过。我转过头问甄向：“如果你知道后来发生的事，你还会去备份文章吗？”</p>
+    <p>“会的，还是要坚持，坚持对抗言论审查，直到彻底失败的那一天。”甄向攥着她的小拳头，决然地说。</p>
+    <p>甄向开始寻找可靠的新闻消息源，关注了大量的公众号，开始备份任何一篇与疫情有关的消息，无论是新闻报道，非虚构还是个人叙述。甄向知道这些材料的重要性，它们构成了2020新冠肺炎记忆，而人与强权的斗争，正是记忆与遗忘的斗争。</p>
+    <p>复制链接，粘贴到备份网站，截图，继续备份。甄向一篇篇文章备份过去，制成表格，同步到 GitHub 上。整个春节，由于疫情，甄向一直待在家里，但不时能够听见救护车呼啸而过。救护车在抢救生命，甄向在抢救真相。渐渐地，参与备份的人越来越多，新闻源也逐渐扩大。甄向看着这一篇篇文章，有多少的生离死别，多少的悲痛欲绝。而这一切，在2020年2月6号晚上达到了顶峰。</p>
+    <h3 id="section-3">4</h3>
+    <p>能，明白。上面按着红色指纹。“被训诫人”李文亮逝世了，刷到这条消息的时候，甄向难以置信。打开朋友圈，满屏都是蜡烛，还有北岛的诗“卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭”，最令甄向印象深刻的，还是一张截图——“一个健康的社会不应该只有一种声音。——李文亮”。</p>
+    <p>如果一个社会只有一种声音，那这个声音就是谎言。甄向深深地明白这个道理。每天都在谎言中艰难跋涉，还能再靠近真理吗？一道墙横亘在人和真理之间，人必须设法将其推倒。面对训诫书，甄向想起广场上的人，想起那些被迫害的人，想起那些说真话的人，言论自由，凭什么只是一句空话？</p>
+    <p>被延迟的死亡，雪地上的告别，门口的鲜花，举着“言论自由”的女生。你说“理论是灰色的，生命之树长青”，而“长夜将至，我从今开始守望，至死方休”。甄向开始啜泣，进而放声大哭。然而，父母并不理解她，仅仅表示了安慰。</p>
+    <p>回到电脑前，甄向看到小伙伴们还在积极地备份文章，心想：绝不能轻言放弃，绝不向他们投降。继而又投入到备份事业中去了，殊不知危险在向他们袭来，有些人不想要知道真相，更要扼杀真相。</p>
+    <h3 id="section-4">5</h3>
+    <p>那个坐在阳台上敲锣鸣病的人。</p>
+    <p>那个深夜追着殡车凄厉地喊着“妈妈”的人。</p>
+    <p>那个在一千人共用一个卫生间的隔离所看《政治秩序的起源》的人。</p>
+    <p>那个开着货车在高速路上流离失所没有归处的人。</p>
+    <p>那个坐着死去被家人抱住头等待殡葬车的人。</p>
+    <p>那个隔离在家中被饿死的人。</p>
+    <p>那个怀有身孕花了20万最终因无力承担而被放弃治疗的人。</p>
+    <p>那个怕传染给家人而给自己挖好坟偷偷上吊的人。</p>
+    <p>那个无处就医又怕传染妻小从桥上一跃而下自我了断的人。</p>
+    <p>那个90岁高龄为60多岁儿子排到一张床位而在医院守了五天五夜的人。</p>
+    <p>那个在求医院床位的微博下评论：“我家人刚过世了，空出一个床位，希望能帮到你”的人。</p>
+    <p>那个先是骂着求助者嚎丧影响心情随后又只能以同样方式呼救的人。</p>
+    <p>那个为求助而现学会用微博发了一句你好的人。</p>
+    <p>那个被盘查时用围巾捂住嘴，因买不到口罩而羞愧哭泣的人。</p>
+    <p>那个用橘子皮当口罩的人。</p>
+    <p>那个爸爸妈妈爷爷奶奶全家都死了只好孤身一人去民政局报到的人。</p>
+    <p>那个把抵工钱的口罩全部捐出去的人。</p>
+    <p>那个写下“安心赴死”“是时候奉献出自己”的人。</p>
+    <p>那个写下“能、明白”并印上红手印死了两次的人。</p>
+    <p>那个不眠不休建设完火神山医院返回村里，却被自己村人视为瘟神的人。</p>
+    <p>那个身患白血病需要去北京进行骨髓移植，却没有途径出城，痛到想要安乐死的人。</p>
+    <p>那个穿着寿衣打电话求一张床位未果，崩溃倒下的人。</p>
+    <p>那个因疫情做不了血液透析，在社区门口哀求无果跳楼自杀，自杀后6小时遗体才被拉走的人。</p>
+    <p>那个被派出所罚写100遍“出门一定要戴口罩”的人。</p>
+    <p>那个未戴口罩被扇巴掌扇出血的人。</p>
+    <p>那个喊着我饿啊我要饿死了，老婆孩子都在家挨饿，想必你们肚子是饱的吧的人。</p>
+    <p>那个以养蜂为生、因疫情导致蜜蜂无法转场最后自杀的人。</p>
+    <p>那个无处收治怕感染老婆孩子，写下遗书想将自己的遗体用于科学研究，愿天下人不再受病痛折磨，而后留下钥匙和手机离家出走，最后死在回老家途中的人。</p>
+    <p>那个写下“死后遗体捐给国家。我老婆呢？”的人。</p>
+    <p>那个因为封城禁车只好背着妈妈四处问诊，一路走了三个小时的人。</p>
+    <p>那个把刚出生的孩子托付给医院，写下“生孩子已花光仅有的积蓄，走投无路流落至此”的人。</p>
+    <p>那个为了出门买肉，从10楼爬下来的人。</p>
+    <p>那个守着爷爷的尸体过了5天，并给爷爷盖上被子的孩子。</p>
+    <p>那个重症被治愈后回家发现家人都去世了，在楼顶上吊自杀了。</p>
+    <p>那个60多岁独自一人承担派出所60多个警察的采购、洗菜、做菜、洗碗、打扫厨房，最后累到在走廊里哭的人。</p>
+    <p>那个在武汉街头流浪了20多天，头发白了一半的人。</p>
+    <p>那个没钱买手机上网课，而将妈妈治疗精神疾病的药物一把吞下的人。</p>
+    <p>那个25岁从央视辞职，在最危险的时候去武汉直播，对着门外将要把他带走的人，背诵少年强则国强，少年弱则国弱的人。</p>
+    <p>那个在领导检查时，在楼上大喊“都是假的”的人。</p>
+    <p>那个从坍塌的泉州酒店救出三个孩子尸体后大哭的人。</p>
+    <p>那个写下60篇封城日记，被封号数次，被群氓围殴谩骂的人。</p>
+    <p>那个只有七八岁懵懂跟随大人队伍里为父母领取骨灰的人。</p>
+    <p>那个苦口婆心有理有据给政府公务人员打电话说病毒要防、人也要吃饭，最后轻轻叹了口气的人。</p>
+    <p>那个深受病人爱戴，因戴口罩而被医院训斥，后感染病毒死去的人。</p>
+    <p>那个说出“早知道有今天，我管他批评不批评，老子到处说”的人。</p>
+    <p>那个用视频记录武汉疫情，在第一线当公民记者，哭着说出“我连死都不怕。我还怕你共产党吗？”然后失踪的人。</p>
+    <p>那个说自己“只是一个揭开了盖子的人，一个普通人，一个蠢人”，在最后的视频中用条幅写着“全民反抗，还政于民”然后失踪的人。</p>
+    <p>甄向在备份文章的过程中看到了所有的这些人，她数次哽咽，泣不成声。</p>
+    <p><em>你的踏板车要滑向哪里，你在滑行里快乐旋转着他们看着你为你又祝福我曾经和你有一样的脸庞如今这个广场是我的坟墓这个歌声将来是你的挽歌</em></p>
+    <p>甄向在备份文章时一直听的音乐是李志的《广场》，“在疫情中因为瞒报而牺牲的同胞们难道不和我有着一样的脸庞吗？这赛博广场上又埋葬了多少真相？这些记忆将为你掘墓”，甄向如此想着。</p>
+    <p>可不曾想，甄向成了那个因为存档文章，却面临审判的人。</p>
+    <h3 id="section-5">6</h3>
+    <p>我是在甄向被捕后才知道她的真名的，作为志愿者之一，我同样参与了一部分备份文章的工作。2020年4月19号，甄向失联了。我拼命去寻找关于她的消息，我终于是没有找到，难过得想要大哭一顿。在茫茫互联网上，一个人就这么消失了。过了几天，传出她可能由于备份新冠疫情的文章被捕了。我瞠目结舌，备份公开的文章竟然也成了一种罪行！是我忘了，在恶法的门前，他们是可以随便抓人的。</p>
+    <p>但理想主义是不会熄灭的，两个小火种正在孕育中，将来它们会放射出绚烂的光芒。</p>
+    <h3 id="section-6">7</h3>
+    <p>站在山顶上，凉风习习。甄向始终没有告诉我她被捕后发生了什么。“谢谢你们的努力，点燃了希望的火光，继承了自由人的精神角落。荣光终于归于中国。”甄向灿烂地笑着对我说。</p>
+    <p>“坚持对抗言论审查，还没有到失败的那一天。薪火相传，光明不息，不是嘛？”</p>
+    <p>“追求真理的道路也没有结束的那一天。走，找204酒友们喝酒去。”</p>
+    <p>我们下了山，直奔小酒馆而去。</p>
+    <hr />
+    <p>完</p>
+  </div>
+  <div id="atatags-26942-5f60e0b710187"></div>
+  <script>__ATA.cmd.push(function() {__ATA.initDynamicSlot({id: 'atatags-26942-5f60e0b710187',location: 120,formFactor: '001',label: {text: '广告',},creative: {reportAd: {text: '举报此广告',},privacySettings: {text: '隐私设置',}}});});</script>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#火光 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2020-12-31/%E7%AB%AF%E7%82%B9%E6%98%9F%E6%A1%88%E6%B6%88%E6%81%AF%E6%B1%87%E6%80%BB/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2020-07-24/%E5%85%AC%E6%B0%91%E5%AE%9E%E9%AA%8C%E5%AE%A4-%E5%BE%AE%E4%BF%A1%E7%9B%91%E6%8E%A7%E8%AF%A0%E9%87%8A/">最早</a>--</span>
+    
+      <li>
+        <time>2020-12-31</time>
+        <a href="https://nodebe4.github.io/opinion/2020-12-31/%E6%97%A0%E5%9B%BD%E7%95%8C%E8%AE%B0%E8%80%85%E6%95%B0%E5%AD%97%E6%9C%8D%E5%8A%A1%E7%AB%99-%E5%9B%9B-%E8%B4%A6%E5%8F%B7%E5%AE%89%E5%85%A8%E4%B9%8B%E9%92%93%E9%B1%BC%E9%98%B2%E8%8C%83/">
+          无国界记者数字服务站（四）：账号安全之钓鱼防范
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-12-31</time>
+        <a href="https://nodebe4.github.io/opinion/2020-12-31/%E5%AE%A1%E6%9F%A5-%E5%AE%A1%E6%9F%A5/">
+          审查！审查！
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-09-14</time>
+        <a href="https://nodebe4.github.io/opinion/2020-09-14/%E6%96%B0%E5%86%A0%E7%96%AB%E6%83%85%E8%AF%97%E6%AD%8C%E5%9B%9B%E9%A6%96/">
+          新冠疫情诗歌四首
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-09-14</time>
+        <a href="https://nodebe4.github.io/opinion/2020-09-14/%E4%BF%9D%E7%BD%97-%E7%AD%96%E5%85%B0-%E6%AD%BB%E4%BA%A1%E8%B5%8B%E6%A0%BC/">
+          保罗·策兰 – 死亡赋格
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2020-09-14/%E6%96%B0%E5%86%A0%E7%96%AB%E6%83%85%E8%AF%97%E6%AD%8C%E5%9B%9B%E9%A6%96/">
+            前一篇：新冠疫情诗歌四首
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2020-09-14/%E5%85%A9%E5%B2%B8%E5%9B%9B%E5%9C%B0%E8%B7%A8%E5%9F%9F%E6%B5%AE%E7%94%9F%E9%8C%84-%E7%AC%AC8%E7%AB%A0-%E9%90%B5%E5%B9%95%E7%95%99%E7%97%95(%E4%B8%8B)/">
+            後一篇：【兩岸四地跨域浮生錄】第8章：鐵幕留痕(下)
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2020-09-14/%E6%96%B0%E5%86%A0%E7%96%AB%E6%83%85%E8%AF%97%E6%AD%8C%E5%9B%9B%E9%A6%96/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2020-09-14/%E5%85%A9%E5%B2%B8%E5%9B%9B%E5%9C%B0%E8%B7%A8%E5%9F%9F%E6%B5%AE%E7%94%9F%E9%8C%84-%E7%AC%AC8%E7%AB%A0-%E9%90%B5%E5%B9%95%E7%95%99%E7%97%95(%E4%B8%8B)/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2020-12-31/%E5%AE%A1%E6%9F%A5-%E5%AE%A1%E6%9F%A5/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2020-09-14/%E6%96%B0%E5%86%A0%E7%96%AB%E6%83%85%E8%AF%97%E6%AD%8C%E5%9B%9B%E9%A6%96/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2020-09-14/%E6%96%B0%E5%86%A0%E7%96%AB%E6%83%85%E8%AF%97%E6%AD%8C%E5%9B%9B%E9%A6%96/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2020-09-14/%E5%85%A9%E5%B2%B8%E5%9B%9B%E5%9C%B0%E8%B7%A8%E5%9F%9F%E6%B5%AE%E7%94%9F%E9%8C%84-%E7%AC%AC8%E7%AB%A0-%E9%90%B5%E5%B9%95%E7%95%99%E7%97%95(%E4%B8%8B)/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<火光>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2020-12-31/%E5%AE%A1%E6%9F%A5-%E5%AE%A1%E6%9F%A5/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<火光>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2020-09-14/%E6%96%B0%E5%86%A0%E7%96%AB%E6%83%85%E8%AF%97%E6%AD%8C%E5%9B%9B%E9%A6%96/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

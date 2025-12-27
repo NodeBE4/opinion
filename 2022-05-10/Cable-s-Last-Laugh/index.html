@@ -1,0 +1,3026 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Cable’s Last Laugh – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+Cable’s Last Laugh
+——
+" />
+    <meta property="og:description" content="
+Cable’s Last Laugh
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Cable’s Last Laugh" />
+    <meta property="twitter:title" content="Cable’s Last Laugh" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2022%2Fcables-last-laugh%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2022/cables-last-laugh/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2022/cables-last-laugh/&text=Cable’s Last Laugh&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2022/cables-last-laugh/&title=Cable’s Last Laugh" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2022/cables-last-laugh/&title=Cable’s Last Laugh" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Cable’s Last Laugh&body=
+Cable’s Last Laugh
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2022/cables-last-laugh/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2022/cables-last-laugh/&title=Cable’s Last Laugh&caption=
+Cable’s Last Laugh
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Cable’s Last Laugh&url=https://stratechery.com/2022/cables-last-laugh/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Cable’s Last Laugh</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-05-10
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2022/cables-last-laugh/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1652193771000-->
+<p><a href="https://stratechery.com/2022/cables-last-laugh/">Cable’s Last Laugh</a>
+——</p>
+
+<div>
+  <p>If there is one industry people in tech are eternally certain is doomed, it is cable. However, the reality is that cable is both stronger than ever and poised for growth; the reasons why are instructive to not just tech industry observers, but to tech companies themselves.</p>
+  <h4 id="the-creation-of-cable">The Creation of Cable</h4>
+  <p>Robert J. Tarlton was 29 years old, married with a son, when he volunteered to fight in World War II; thanks to the fact he owned a shop in Lansford, Pennsylvania that sold radios, he ended up repairing them all across the European Theater, learning about not just reception but also transmission. After the war Tarlton re-opened his shop, when Motorola, one of his primary suppliers, came out with a new television.</p>
+  <p>Tarlton was intrigued, but he had a geography problem; the nearest television station was in Philadelphia, 71 miles away; in the middle lie the Pocono Mountains, and mountains aren’t good for reception:</p>
+  <p><img src="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/05/cable-1.png?resize=640%2C519&#038;ssl=1" alt="Lansford is separated from Philadelphia by the Pocono Mountains" width="640" height="519" class="aligncenter size-large wp-image-8952" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/05/cable-1.png?resize=1024%2C830&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/05/cable-1.png?resize=300%2C243&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/05/cable-1.png?resize=768%2C622&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/05/cable-1.png?resize=778%2C630&amp;ssl=1 778w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/05/cable-1.png?w=1280&amp;ssl=1 1280w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>It turned out, though, that some people living in Summit Hill, the next community over, could get the Philadelphia broadcast signal; that’s where Tarlton sold his first television sets. Of course Tarlton couldn’t demonstrate this new-fangled contraption; his shop was in Lansford, not Summit Hill. However, it was <em>close</em> to Summit Hill: what if Lansford could place an antenna further up the mountain in Summit Hill and run a cable to his shop? Lansford explained in <a href="https://www.cablecenter.org/the-barco-library/the-hauser-oral-history-project/t-v-listings/robert-tarlton-penn-state-collection">an interview in 1986</a>:</p>
+  <blockquote>
+    <p>Lansford is an elongated town. It’s about a mile and a half long and there are about eight parallel streets bisected with cross streets about every 500 feet. There are no curves; everything is all laid out in a nice symmetrical pattern. Our business place was about three streets from the edge of Summit Hill and Lansford sits on kind of a slope. The edge of Lansford inclines from about a thousand feet above sea level to about fifteen hundred feet above sea level in Summit Hill. So to get television into our store, my father and I put an antenna partly up the mountain. No, we didn’t go all the way up, but we put up an antenna, kind of a crude arrangement, and then from tree to tree we strung a twin lead that was used in those days as a transmission line. We ran this twin lead, crossed a few streets, and into our store. And we had television.</p>
+  </blockquote>
+  <p>The basic twin lead was barely functional, but that didn’t stop everyone from demanding a television with a haphazard wire to their house; Lansford realized that new coaxial cable amplifiers designed for a single property could be chained together, re-amplifying the signal so it could reach multiple properties. After getting all of the other electronics retailers on board — Lansford knew that a clear signal would sell more TV sets, but that everyone needed to use the same system — the first commercial cable system was born, and it sold itself. Lansford reflected:</p>
+  <blockquote>
+    <p>You didn’t have to advertise. You had to keep your door locked because the people were clamoring for service. They wanted cable service. You certainly didn’t have to advertise.</p>
+  </blockquote>
+  <p>People couldn’t get enough TV; Lansford explained:</p>
+  <blockquote>
+    <p>Cable is dependent upon advances in technology because people who originally saw one channel wanted to see the second channel, wanted to see the third, and after you had five, they wanted more. So it was a case of more begets more. At one time three channels seemed to be quite sufficient but when we added one more channel, it created a new interest in the cable system. People then had variety. They had alternatives. At one time later five channels seemed enough. As a matter of fact, a man who is often quoted, former FCC Commissioner Ken Cox, said that five channels was enough, and that’s quite a story in itself. The engineers were able to continually refine equipment to add more channels…All these technical advances‑‑continuing advances, automatic gain control, automatic temperature compensation, etc. have made cable what it is today.</p>
+  </blockquote>
+  <p>One of the most important technological developments was satellite: now cable systems could get signals both more reliably and from far further away; this actually flipped geography on its head. Lansford said:</p>
+  <blockquote>
+    <p>At that time we went to the highest possible point to look to the transmitter. Today with satellites, we go to the lowest possible point because we don’t want the interference from other signals. So it is ironic that we have changed so much from what we used to do.</p>
+  </blockquote>
+  <p>Within these snippets is everything that makes the cable business so compelling:</p>
+  <ul>
+    <li>Cable is in high demand because it provides the means to get what customers most highly value.</li>
+    <li>Cable works best both technologically and financially when it has a geographic monopoly.</li>
+    <li>Cable creates demand for new supply; technological advances enable more supply, which creates more demand.</li>
+  </ul>
+  <p>It’s that last bit about satellites being better on lower ground that stands out to me, though: as long as you control the wires into people’s houses you can and should be pragmatic about everything else.</p>
+  <h4 id="cables-evolution">Cable’s Evolution</h4>
+  <p>Tarlton would go on to work for a company called Jerrold Electronics, which pivoted its entire business to create equipment for cities that wanted to emulate Lansford’s system; Tarlton would lead the installation of cable systems across the United States, which for the first two decades of cable mostly retransmitted broadcast television.</p>
+  <p>The aforementioned satellite, though, led to the creation of national TV stations, first HBO, and then WTCG, an independent television station in Atlanta, Georgia, owned by Ted Turner. Turner realized he could buy programming at local rates, but sell advertising at national rates via cable operators eager to feed their customers’ hunger for more stations. Turner soon launched a cable only channel devoted to nothing but news; he called it the Cable News Network — CNN for short (WTCG would later be renamed TBS).</p>
+  <p>Jerrold Electronics, meanwhile, spun off one of the cable systems it built in Tupelo, Mississippi to an entrepreneur named Ralph Roberts; Roberts proceeded to systematically buy up community cable systems across the country, moving the company’s headquarters to Philadelphia and renaming it to Comcast Corporation (Roberts would eventually hand the business off to his son, Brian). Consolidation in the provision of cable service proceeded in conjunction with consolidation in the production of content, an inevitable outcome of the virtuous cycle I noted above:</p>
+  <ul>
+    <li>Cable companies acquired customers who wanted access to content</li>
+    <li>Studios created content that customers demanded</li>
+  </ul>
+  <p>The more customers that a cable company served, the stronger their negotiating position with content providers; the more studios and types of content that a content provider controlled the stronger their negotiating position with cable providers. The end result were a few dominant cable providers (Comcast, Charter, Cox, Altice, Mediacom) and a few dominant content companies (Disney, Viacom, NBC Universal, Time Warner, Fox), tussling back-and-forth over a very profitable pie.</p>
+  <p>Then came Netflix, and tech industry crowing about cord cutting.</p>
+  <p>Netflix and other streaming services were obviously bad for television: <a href="https://stratechery.com/2015/netflix-and-the-conservation-of-attractive-profits/">they did the same job but in a completely different way</a>, leveraging the Internet to provide content on-demand, unconstrained by the linear nature of television that was a relic of cable’s origin with broadcast TV. Here, though, cable’s ownership of the wires was an effective hedge: the same wires that delivered linear TV delivered packet-based Internet content.</p>
+  <p>Moreover, this didn’t simply mean that cable’s TV losses were made up for by Internet service: Internet service was much higher margin because companies like Comcast didn’t need to negotiate with a limited number of content providers; everything on the Internet was free. This has meant that the fortunes of cable companies has boomed over the last decade, even as cord-cutting has cut the cable TV business by about a third.</p>
+  <p>Cable companies today, though, are yet another category down from their pandemic highs, thanks to fear that the broadband growth story is mostly over; fiber offers better performance, 5G opens the door to wireless in the home, and anyone who doesn’t have broadband now is probably never going to get it. I think, though, this underrates the strategic positioning of cable companies, and ignores the industry’s demonstrated ability to adapt to new strategic environments.</p>
+  <h4 id="the-wireless-opportunity">The Wireless Opportunity</h4>
+  <p>From the <a href="https://www.wsj.com/articles/SB10001424052970204826704577074103860244794">Wall Street Journal</a> in 2011:</p>
+  <blockquote>
+    <p>Verizon Wireless will pay $3.6 billion to buy wireless spectrum licenses from a group of cable-television companies, bringing an end to their years-long flirtation with setting up its own cellphone service. The sellers—Comcast Time Warner Cable Inc. and Bright House Networks—acquired the spectrum in a government auction in 2006 and now will turn it over to the country’s biggest wireless carrier at more than a 50% markup. While cable companies have dabbled with wireless, the spectrum has largely sat around unused, prompting years of speculation about the industry’s intentions…</p>
+    <p>Under the deal, Verizon Wireless will be able to sell its service in the cable companies’ stores. The carrier, in turn, will be able to sell the cable companies’ broadband, video and voice services in its stores. Verizon’s FiOS service only reaches 14% of U.S. households, according to Bernstein Research. In four years’ time, the cable companies will have the option to buy service on Verizon’s network on a wholesale basis and then resell it under their own brand.</p>
+    <p>The joint marketing arrangement “amounts to a partnership between formerly mortal enemies,” wrote Bernstein analyst Craig Moffett in a research note.</p>
+  </blockquote>
+  <p>Moffett would later partner with Michael Nathanson to form their own independent research firm (called <a href="https://www.moffettnathanson.com/?Section=Media%20/Telecom">MoffettNathanson</a>, natch); Moffett released an updated report last month that explained how that Verizon deal ended up playing out:</p>
+  <blockquote>
+    <p>When Comcast and Time Warner Cable sold their AWS-1 spectrum to Verizon back in 2011, they believed at the time that they were walking away from ever becoming facilities-based wireless players. They therefore viewed it as imperative that the sale come with an MVNO agreement with Verizon to compensate for that forfeiture. They got precisely what they wanted, an MVNO contract with Verizon that was described at the time as “<em>perpetual and irrevocable</em>“…</p>
+    <p>It took another six years after that transaction before Comcast finally launched Xfinity Mobile in mid-2017. Charter [which merged with Time Warner Cable, acquiring the latter’s MVNO rights] followed suit a year later…in four short years, the Cable operators have become the fastest growing wireless providers in the country, accounting for nearly 30% of wireless industry net additions. Cable’s 7.7 million mobile lines represent ~2.5% of the U.S. mobile phone market (including prepaid and postpaid phones).</p>
+  </blockquote>
+  <p>As Moffett notes, this growth is particularly impressive given that most cable companies couldn’t feasibly offer family plans under the terms of the original deal, <a href="https://www.wsj.com/articles/comcasts-wireless-plan-faces-hurdle-1438299616">which was negotiated before such a concept even existed</a>; the deal has been re-negotiated, though, and almost certainly to the cable companies’ advantage: if Verizon is going to lose customers to an MVNO, it would surely prefer said MVNO be on their network; this means that the cable companies have negotiating leverage.</p>
+  <p>What, though, makes the cable companies such effective MVNOs? One of the most interesting parts of Moffett’s note was proprietary data about the amount of data used by cellular subscribers; it turns out that cable MVNO customers are far more likely to consume data over WiFi, perhaps because of cable company out-of-home WiFi hot spots. This could become even more favorable in the future as cable companies build out Citizens Broadband Radio Service (CBRS) service, particularly in dense areas where cable companies have wires from which to hang CBRS transmitters. Moffett writes:</p>
+  <blockquote>
+    <p>In a perfect world, Cable will offload traffic onto their own facilities where doing so is cheap (high density, high use locations) and leave to Verizon the burden of carrying traffic where doing so is/would be expensive. Because the MVNO agreement is “perpetual and irrevocable,” and is based on <em>average</em> prices (i.e., the same price everywhere, whether easy or hard to reach), Cable is presented with a perfect ROI arbitrage; they can take the high ROI parts of the network for themselves, and leave the low ROI parts of the network to their MVNO host… all without sacrificing <em>anything</em> with respect to their national coverage footprint.</p>
+  </blockquote>
+  <p>One can understand why Verizon gave the cable companies these rights in 2011; the phone company desperately needed spectrum, and besides, everyone knew that MVNOs could never be economically competitive with their wholesale providers, who were the ones that actually made the investments in the network.</p>
+  <p>That’s the thing, though: cable companies had their own massive build-out, one that was both much older in its origins and, because it connected the house, actually carried more data. This was to the benefit of Verizon and other cellular providers, of course: a Verizon iPhone uses WiFi at home just as much as a Comcast iPhone does; here, though, it was cable that had internet economics on its side: there is no competitive harm in giving equal access to an abundant resource; it is cellular access that is scarce, which means that the cable companies’ MVNO deal, in conjunction with their out-of-home Internet access options, gives them a meaningful advantage.</p>
+  <h4 id="customer-acquisition">Customer Acquisition</h4>
+  <p>Moffett spends less time on customer acquisition; anecdotally speaking, it’s clear that Charter’s Spectrum, which provides the cable service I consume (via the excellent <a href="https://getchannels.com/">Channels</a> application), is pushing wireless service hard: phones are front-and-center in their stores, and Spectrum wireless commercials fill local inventory. Moreover, this is a well-trodden playbook: cable companies came to dominate the fixed line phone service business simply because it was easier to get your TV, Internet, and phone all in the same place (and of those, the most important was TV, and now Internet); it’s always easier to upsell an existing subscriber than it is to acquire a new one.</p>
+  <p>Of course cable companies long handled customer acquisition for content creators — that was the cable bundle in a nutshell. What is interesting is how this customer acquisition capability is attractive to the companies undoing that bundle: Netflix, for example, put its service on Comcast’s set-top boxes <a href="https://www.vox.com/2016/7/5/12096380/comcast-to-let-netflix-onto-its-x1-platform-which-is-a-very-big-deal">in 2016</a>, and made a deal for Comcast to sell its service <a href="https://www.wsj.com/articles/comcast-to-bundle-rival-netflix-in-plans-1523624402">in 2018</a>. I wrote in <a href="https://stratechery.com/2018/netflixs-earnings-and-the-video-value-chain-the-conditions-of-aggregation-comcast-and-netflix-and-the-new-bundle/">a Daily Update</a> at the time:</p>
+  <blockquote>
+    <p>Netflix, meanwhile, is <a href="https://stratechery.com/2016/netflix-goes-global-iphone-worry/">laddering up</a> again: the company doesn’t actually need a billing relationship with end users, it just needs ever more end users (along with the data about what they watch) to spread its fixed content costs more widely; the company said in its <a href="https://ir.netflix.com/static-files/419958ac-5fd7-4bcd-9fb1-ebca445a9016">shareholder letter</a> that:</p>
+    <blockquote>
+      <p>These relationships allow our partners to attract more customers and to upsell existing subscribers to higher ARPU packages, while we benefit from more reach, awareness and often, less friction in the signup and payment process. We believe that the lower churn in these bundles offsets the lower Netflix ASP.</p>
+    </blockquote>
+    <p>What is particularly interesting is that this arrangement moves the industry closer to the endgame I predicted in <a href="https://stratechery.com/2017/the-great-unbundling/">The Great Unbundling</a>…</p>
+  </blockquote>
+  <p>“Endgame” was a bit strong: that Article was, as the title says, about unbundling; one of my arguments was that the traditional cable TV bundle would become primarily anchored on live sports and news, while most scripted content went to streaming. That is very much the case today (TBS, for example, <a href="https://variety.com/2022/tv/news/tnt-tbs-scripted-programming-development-scrapped-warner-bros-discovery-1235241348/">is abandoning scripted content</a>, while becoming ever more reliant on sports). What was a mistake was insinuating that this was the “end”; after all, as <a href="https://hbr.org/2014/06/how-to-succeed-in-business-by-bundling-and-unbundling">Jim Barksdale famously observed</a>, the next step after unbundling is bundling.</p>
+  <p>To that end, Netflix + Xfinity TV service was a bundle of sorts, but the real takeaway was that Comcast was fine with being simply an Internet provider (which ended up helping with TV margins, since cable companies mostly gave up on fighting to keep cord cutters). Shortly after the Netflix deal Comcast launched <a href="https://corporate.comcast.com/press/releases/comcast-xfinity-flex-internet-customers-free-4k-streaming">Xfinity Flex</a>, a free 4K streaming box for Internet-only subscribers that included a storefront for buying streaming services (which would be billed by Comcast). You can even subscribe to digital MVPDs <a href="https://corporate.comcast.com/press/releases/youtube-tv-launches-on-xfinity-flex">like YouTube TV</a>!</p>
+  <p><a href="https://corporate.comcast.com/press/releases/comcast-xfinity-flex-internet-customers-free-4k-streaming"><img loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/05/cable-2.png?resize=640%2C381&#038;ssl=1" alt="The free Xfinity Flex streaming box" width="640" height="381" class="aligncenter size-large wp-image-8951" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/05/cable-2.png?resize=1024%2C609&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/05/cable-2.png?resize=300%2C178&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/05/cable-2.png?resize=768%2C457&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/05/cable-2.png?resize=1060%2C630&amp;ssl=1 1060w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/05/cable-2.png?w=1280&amp;ssl=1 1280w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></a></p>
+  <p>The first takeaway of an offering like Xfinity Flex ties into the wireless point: cable companies already have a billing relationship with the customer — because they provide the most essential utility for accessing what is most important to said customer — which makes them particularly effective at customer acquisition. That is why Netflix, YouTube, etc. are all willing to pay a revenue share for the help.</p>
+  <h4 id="the-great-rebundling">The Great Rebundling?</h4>
+  <p>The second takeaway, though, is that the cable companies are better suited than almost anyone else to rebundle for real. Imagine a “streaming bundle” that includes Netflix, HBO Max, Disney+, Paramount+, Peacock, etc., available for a price that is less than the sum of its parts. Sounds too good to be true, right? After all, this kind of sounds like what Apple was envisioning for Apple TV (the app) before Netflix spoiled the fun; I wrote in <a href="https://stratechery.com/2016/apple-should-buy-netflix/">Apple Should Buy Netflix</a> in 2016:</p>
+  <blockquote>
+    <p>Apple’s desire to be “the one place to access all of your television” implies the demotion of Netflix to just another content provider, right alongside its rival HBO and the far more desperate networks who lack any sort of customer relationship at all. It is directly counter to the strategy that has gotten Netflix this far — owning the customer relationship by delivering a superior customer experience — and while Apple may wish to pursue the same strategy, the company has no leverage to do so. Not only is the Apple TV just another black box that connects to your TV (that is also the most expensive), it also, conveniently for Netflix, has a (relatively) open app platform: Netflix can deliver their content on their terms on Apple’s hardware, and there isn’t much Apple can do about it.</p>
+  </blockquote>
+  <p>Six years on and Netflix is in <a href="https://stratechery.com/2022/netflix-earnings-netflixs-struggling-growth-drivers-netflix-to-explore-advertising/">a much different place</a>, not only struggling for new customers but also dealing with elevated churn. Owning the customer may be less important than simply having more customers, particularly if those customers are much less likely to churn. After all, that’s one of the advantages of a bundle: instead of your streaming service needing to produce compelling content every single month, you can work as a team to keep customers on board with the bundle.</p>
+  <p>The key point about a bundle, <a href="https://coda.io/@shishir/four-myths-of-bundling">as longtime YouTube executive and Coda CEO Shishir Mehrotra has written</a>, is that <a href="https://coda.io/@shishir/four-myths-of-bundling/myth-4-6">it minimizes SuperFan overlap while maximizing CasualFan overlap</a>; in other words, effective bundles have more disparate content that you are vaguely interested in, instead of a relatively small amount of focused content that you care about intensely. This makes the bundle concept even more compelling to new entrants in the streaming wars, who may not have as large of libraries as Netflix, and certainly don’t have as many subscribers over which to spread their content costs.</p>
+  <p>Moreover, the fact that the streaming services have largely done their damage to traditional TV, leaving the cable TV bundle as the sports and news bundle, means it is actually viable to create a lower-priced bundle than what was previously available (if you don’t want sports). After all, you’re not cannibalizing TV, but rather bringing together what has long since been broken off (unbundling then bundling!).</p>
+  <hr />
+  <p>This isn’t something that is going to happen overnight: despite the fact that <a href="https://cdixon.org/2012/07/08/how-bundling-benefits-sellers-and-buyers">bundles are good for everyone</a> it is hard to get independents into a bundle as long as they are growing; Netflix’s recent struggles are encouraging in this regard, particularly if other streaming services start to face similar headwinds. Moreover, cable companies are not the only entities that will seek to pull something like this off: Apple, Amazon, Google, and Roku already make money from revenue shares on streaming subscriptions they sell; all of them sell devices that can be used as interfaces for selling a bundle. And, of course, there are more Internet providers than just the cable companies: there is fiber, wireless, and even Starlink.</p>
+  <p>The breadth of the cable company bundle, though, is unmatched: not only might it include streaming services, but also linear TV; more than that, this is the company selling you Internet access, and increasingly wireless phone service. That gives even more latitude for discounts, and perks like no data caps on streamed content, not just at home but also on your phone.</p>
+  <p>All of these advantages go back to Robert J. Tarlton and Lansford, Pennsylvania. A recurring point on Stratechery this past year has been the durability and long-term potential inherent in technology rooted in physical space. I wrote in <a href="https://stratechery.com/2022/digital-advertising-in-2022/">Digital Advertising in 2022</a>:</p>
+  <blockquote>
+    <p>Real power in technology comes from rooting the digital in something physical: for Amazon that is its fulfillment centers and logistics on the e-commerce side, and its data centers on the cloud side. For Microsoft it is its data centers and its global sales organization and multi-year relationships with basically every enterprise on earth. For Apple it is the iPhone, and for Google is is Android and its mutually beneficial relationship with Apple (this is less secure than Android, but that is why Google is paying an estimated $15 billion annually — and growing — to keep its position). Facebook benefited tremendously from being just an app, but the freedom of movement that entailed meant taking a dependency on iOS and Android, and Apple has exploited that dependency in part, if not yet in full.</p>
+  </blockquote>
+  <p>For cable companies, power comes from a wire; it would certainly be ironic if the cord-cutting trumpeted by tech resulted in cable having even more leverage over customers and their wallets than the pre-Internet era.</p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2022-05-31</time>
+        <a href="https://nodebe4.github.io/opinion/2022-05-31/Thin-Platforms/">
+          Thin Platforms
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-05-23</time>
+        <a href="https://nodebe4.github.io/opinion/2022-05-23/Warner-Bros.-Discovery/">
+          Warner Bros. Discovery
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-04-25</time>
+        <a href="https://nodebe4.github.io/opinion/2022-04-25/Beyond-Aggregation-Amazon-as-a-Service/">
+          Beyond Aggregation: Amazon as a Service
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-04-18</time>
+        <a href="https://nodebe4.github.io/opinion/2022-04-18/Back-to-the-Future-of-Twitter/">
+          Back to the Future of Twitter
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-05-09/5%E6%9C%8810%E6%97%A5%E7%B7%9A%E4%B8%8A%E8%AC%9B%E5%BA%A7-%E4%BB%8A%E5%A4%A9%E7%9A%84%E4%B8%AD%E5%9C%8B%E5%BE%9E%E4%BD%95%E8%80%8C%E4%BE%86-%E5%BE%9E%E6%B8%85%E5%B8%9D%E5%9C%8B%E5%88%B0%E7%BF%92%E8%BF%91%E5%B9%B3-%E7%9A%84%E5%9B%9B%E7%99%BE%E5%B9%B4%E5%B0%BA%E5%BA%A6/">
+            前一篇：【5月10日線上講座】今天的中國從何而來？──《從清帝國到習近平》的四百年尺度
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-05-10/%E6%9D%8E%E5%85%8B%E5%BC%B7%E5%BC%B7%E8%AA%BF%E6%94%AF%E6%8C%81%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD-%E7%A9%A9%E7%B6%93%E6%BF%9F-%E4%B8%AD%E7%B4%80%E5%A7%94%E5%92%8C%E8%BB%8D%E6%96%B9%E5%AE%A3%E5%B8%83-%E6%AF%AB%E4%B8%8D%E5%8B%95%E6%90%96-%E5%A0%85%E6%8C%81-%E6%B8%85%E9%9B%B6-%E9%98%B2%E7%96%AB%E6%94%BF%E7%AD%96/">
+            後一篇：李克強強調支持中小企業「穩經濟」；中紀委和軍方宣布「毫不動搖」堅持「清零」防疫政策
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-05-09/5%E6%9C%8810%E6%97%A5%E7%B7%9A%E4%B8%8A%E8%AC%9B%E5%BA%A7-%E4%BB%8A%E5%A4%A9%E7%9A%84%E4%B8%AD%E5%9C%8B%E5%BE%9E%E4%BD%95%E8%80%8C%E4%BE%86-%E5%BE%9E%E6%B8%85%E5%B8%9D%E5%9C%8B%E5%88%B0%E7%BF%92%E8%BF%91%E5%B9%B3-%E7%9A%84%E5%9B%9B%E7%99%BE%E5%B9%B4%E5%B0%BA%E5%BA%A6/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-05-10/%E6%9D%8E%E5%85%8B%E5%BC%B7%E5%BC%B7%E8%AA%BF%E6%94%AF%E6%8C%81%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD-%E7%A9%A9%E7%B6%93%E6%BF%9F-%E4%B8%AD%E7%B4%80%E5%A7%94%E5%92%8C%E8%BB%8D%E6%96%B9%E5%AE%A3%E5%B8%83-%E6%AF%AB%E4%B8%8D%E5%8B%95%E6%90%96-%E5%A0%85%E6%8C%81-%E6%B8%85%E9%9B%B6-%E9%98%B2%E7%96%AB%E6%94%BF%E7%AD%96/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-05-23/Warner-Bros.-Discovery/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-04-25/Beyond-Aggregation-Amazon-as-a-Service/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-05-09/5%E6%9C%8810%E6%97%A5%E7%B7%9A%E4%B8%8A%E8%AC%9B%E5%BA%A7-%E4%BB%8A%E5%A4%A9%E7%9A%84%E4%B8%AD%E5%9C%8B%E5%BE%9E%E4%BD%95%E8%80%8C%E4%BE%86-%E5%BE%9E%E6%B8%85%E5%B8%9D%E5%9C%8B%E5%88%B0%E7%BF%92%E8%BF%91%E5%B9%B3-%E7%9A%84%E5%9B%9B%E7%99%BE%E5%B9%B4%E5%B0%BA%E5%BA%A6/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-05-10/%E6%9D%8E%E5%85%8B%E5%BC%B7%E5%BC%B7%E8%AA%BF%E6%94%AF%E6%8C%81%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD-%E7%A9%A9%E7%B6%93%E6%BF%9F-%E4%B8%AD%E7%B4%80%E5%A7%94%E5%92%8C%E8%BB%8D%E6%96%B9%E5%AE%A3%E5%B8%83-%E6%AF%AB%E4%B8%8D%E5%8B%95%E6%90%96-%E5%A0%85%E6%8C%81-%E6%B8%85%E9%9B%B6-%E9%98%B2%E7%96%AB%E6%94%BF%E7%AD%96/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-05-23/Warner-Bros.-Discovery/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-04-25/Beyond-Aggregation-Amazon-as-a-Service/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

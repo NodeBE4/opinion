@@ -1,0 +1,912 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>知识分子能做什么？ – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+知识分子能做什么？
+——
+" />
+    <meta property="og:description" content="
+知识分子能做什么？
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="知识分子能做什么？" />
+    <meta property="twitter:title" content="知识分子能做什么？" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2F2049post.wordpress.com%2F2020%2F08%2F10%2Fv3voice1%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://2049post.wordpress.com/2020/08/10/v3voice1/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://2049post.wordpress.com/2020/08/10/v3voice1/&text=知识分子能做什么？&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://2049post.wordpress.com/2020/08/10/v3voice1/&title=知识分子能做什么？" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://2049post.wordpress.com/2020/08/10/v3voice1/&title=知识分子能做什么？" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=知识分子能做什么？&body=
+知识分子能做什么？
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://2049post.wordpress.com/2020/08/10/v3voice1/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://2049post.wordpress.com/2020/08/10/v3voice1/&title=知识分子能做什么？&caption=
+知识分子能做什么？
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=知识分子能做什么？&url=https://2049post.wordpress.com/2020/08/10/v3voice1/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>知识分子能做什么？</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2020-08-10
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#火光">
+          火光
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://2049post.wordpress.com/2020/08/10/v3voice1/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="火光的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#火光 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1597069469000-->
+<p><a href="https://2049post.wordpress.com/2020/08/10/v3voice1/">知识分子能做什么？</a>
+——</p>
+
+<div>
+  <p><strong>作者</strong>：CD</p>
+  <div class="wp-block-image">
+    <figure class="aligncenter size-large">
+<img src="https://i.imgur.com/C4RqL5S.jpg" alt="" />      <figcaption>
+图片来源：https://www.chinesepen.org/blog/archives/27854
+      </figcaption>
+    </figure>
+  </div>
+  <p>“知识分子”，原是20世纪从日本社会主义运动文献中引进的名词。此词对应俄语中的интеллигенция及英语中的intelligentsia（中文早期译为“智识阶层”），意为受过良好教育的、且具有政治影响力的团体。有意思的是，“知识分子”这个译名，在其原产地日本并没流行开，反而在中国扎下根来，并被中共的阶级分析文化所推广。对于此词的溯源与使用，可参考《<a href="http://www.sciea.org/wp-content/uploads/2010/09/September27-28-19.pdf">“Intellectual”的中国版本</a>》一文。</p>
+  <p>总之，“知识分子”一词，无论是从定义上来讲还是历史上来看，本身就和政治参与有千丝万缕的关系。因此，在听到“知识分子应该去政治化”、“知识分子应该专心做学问，远离政治”之类的倡议时，我总是有一种荒谬感，彷佛听到“牛奶应该去蛋白质化”。不过，中国虽然牛奶的蛋白质指标不高，知识分子的政治化程度却一向很高；无论是作为统战对象还是改造对象，知识分子似乎只有两种选择，非红即白，非左即右——或者在今天大陆的宣传语境里，非“爱国”即“公知”。在一个看似政治冷感、其实高度政治化的社会里，“去政治化”纯属掩耳盗铃，不过是接受政治的默认值而已。</p>
+  <p>抛开这些混乱，我以为，“知识分子”，只需要两个条件：第一，具有专业知识；第二，参与相关的公共议题。或者说，知识分子是那些试图用自己的知识参与政策讨论、或是影响公共事务的人。目前被污名化的“公共知识分子”，原是知识分子的本来面貌。当然，“知识分子”这个词，直到今天仍然具有强烈的精英主义色彩，而其根本原因，是教育仍缺乏普及，而“专业知识”（其中包括对信息的了解和对思维方法的训练）的成本依然昂贵。在高中毕业生仅占人口比例25%、大学生12%、研究生则低于1%的中国，更是如此。（<em>注：根据<a rel="noreferrer noopener" href="http://www.stats.gov.cn/tjsj/ndsj/2019/indexch.htm" target="_blank">中国统计年鉴2019</a> 2018年数据计算；高中毕业生仅包括普高和职高人数，不包括3.5%的中专毕业生。</em>）</p>
+  <p>哈佛大学社会学系博士生张跃然近期在“政见”网站上发表了一篇文章<a href="http://cnpolitics.org/2020/07/what-is-the-use-of-my-research/" target="_blank" rel="noreferrer noopener">《研究手记：我做的研究到底有什么用》</a>，叙述了自己对学术和现实之间关系的思考，其中便涉及“学者（类似知识分子）能做什么”这一问题。张言，美国的学术圈，学术成果产生社会影响的方式，主要是向政府官员“建言献策”，以及通过媒体“塑造公共舆论”，但张认为这两种方法都高度“精英化”。另一条路径，是学者与社会运动的结合；与此相关亦有两种理论，一种认为学者可以对社运提供指导，另一种认为学者可以帮助边缘化群体发声。但张认为这两种理论依然无法达到学者与运动之间“平等、交互地对话，一同完成知识生产”这种理想状态。在文章的最后，张给出的尝试性方案是，学者本身便具有特权，但其目标不应该是“消解自身的特权”，而是 <strong>“有意识地、策略性地运用自身的特权，来为最终消除一切特权的事业服务。”</strong> 例如，<strong>“去研究运动所必须面对的那个力量，研究国家和资本的权力运作黑箱，研究它几十年来是如何变化的。这恰恰是运动参与者非常需要却又不易获得的知识。”</strong></p>
+  <p>虽然中国的情况与美国有很多差异——其中之一便是对任何民间组织、运动的极度警惕和强力压制，张的文章对中国知识分子的处境依然有很多启示。在中共的权力触角越伸越广、试图将所有阶层从思想到行为都牢牢控制在铁幕之下时，中国的知识分子相较其他民众，依然属于“精英”阶层，具有一些“特权”。知识分子有什么特权？用这些特权能做什么，又该怎么做？我认为这些都是值得思考的关键问题。</p>
+  <p>仅聚焦在政治参与这一点上，政治为众人之事，原该是谁都可以说上几句的。无奈中共治下“国情”特殊，审查和自我审查泛滥，墙外信息隔离墙内信息近亲繁殖，政治言论潜在风险也高。于是，“莫谈国是，娱乐至死”便成为了很多人的座右铭。但这并不代表有影响政治之心的知识分子就对此无能为力。<strong>在信息滞涩的环境下，受过学术训练的知识分子，更应是具有信息优势的人，包括如何及时地接触、收集信息，如何科学地处理、分析、总结信息，以及如何有技巧地将这些信息传递给自己的目标受众。</strong></p>
+  <p>当然，知识分子的政治理想不同，走的路径也不同。有人选择与公权力合作，有人选择在官方可以接受的范围内宣传自己的思想，有人选择参与和支持社会运动，有人选择冒着政治风险进行公开异议，也有人选择成为匿名的行动者，等等。这些道路，且不论是非对错，如果仅从“能否达到想要达到的效果”这个角度来看，每个人都值得问问自己，有没有达到初衷。例如，与公权力合作的知识分子，是影响了公权力，还是为其所控制甚至吞噬？宣传自己思想的知识分子，影响了多少人？参加社运的知识分子，是否推动了运动进程？公开或匿名表达异议的知识分子，是否有效传达了反对的声音？</p>
+  <p><strong>其实，“知识分子”并不高大上，每个具有专业知识、技术，希望影响政治的人，都可以是一个“知识分子”——或者自信点，“公共知识分子”。</strong> 无论是实践者，试图连接不同的群体，或传达权利诉求；还是启蒙者，试图普及教育，或宣传价值观；亦或是技术主义者，试图推广信息技术——今天的知识分子，如果相信言论自由的理想，认同消解特权的目标，那么继续学习、广泛传递其目标受众关心的信息和知识——包括在专制政权下自我保护的知识，重视行动的技巧和效果，或为要务。</p>
+  <nav class="wp-block-navigation">
+    <ul class="wp-block-navigation__container">
+      <li class="wp-block-navigation-link"><a class="wp-block-navigation-link__content" href="https://2049post.wordpress.com/v3index/"><span class="wp-block-navigation-link__label">返回第三期目录</span></a></li>
+    </ul>
+  </nav>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#火光 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2020-12-31/%E7%AB%AF%E7%82%B9%E6%98%9F%E6%A1%88%E6%B6%88%E6%81%AF%E6%B1%87%E6%80%BB/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2020-07-24/%E5%85%AC%E6%B0%91%E5%AE%9E%E9%AA%8C%E5%AE%A4-%E5%BE%AE%E4%BF%A1%E7%9B%91%E6%8E%A7%E8%AF%A0%E9%87%8A/">最早</a>--</span>
+    
+      <li>
+        <time>2020-08-18</time>
+        <a href="https://nodebe4.github.io/opinion/2020-08-18/%E6%91%86%E8%84%B1%E8%BF%BD%E8%B8%AA%E8%80%85-%E6%82%A8%E7%9A%84%E8%A1%8C%E5%8A%A8%E5%BF%85%E9%A1%BB%E6%98%AF%E5%8C%BF%E5%90%8D%E7%9A%84-%E5%90%A6%E5%88%99%E6%B2%A1%E6%9C%89%E5%8F%AF%E6%8C%81%E7%BB%AD%E6%80%A7/">
+          摆脱追踪者：您的行动必须是匿名的，否则没有可持续性
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-08-18</time>
+        <a href="https://nodebe4.github.io/opinion/2020-08-18/%E5%96%9C%E6%8A%A5-%E8%8B%8F%E8%81%94%E7%AC%91%E8%AF%9D%E5%B7%B2%E7%BB%8F%E8%BF%87%E6%97%B6-%E6%96%B0%E8%8B%8F%E8%81%94%E7%AC%91%E8%AF%9D%E5%AE%9E%E7%8E%B0%E5%85%A8%E9%9D%A2%E8%87%AA%E8%B6%B3/">
+          喜报：苏联笑话已经过时，新苏联笑话实现全面自足！
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-08-10</time>
+        <a href="https://nodebe4.github.io/opinion/2020-08-10/%E9%B2%81%E6%9C%AC%E6%96%AF%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88-%E4%B8%8E%E6%9B%BC%E5%9B%BE%E7%93%A6%E7%9A%84%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E8%87%AA%E7%94%BB%E5%83%8F/">
+          鲁本斯的朋友圈：《与曼图瓦的朋友们的自画像》
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-08-10</time>
+        <a href="https://nodebe4.github.io/opinion/2020-08-10/%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90%E7%9A%84%E6%AE%BF%E5%A0%82-%E9%9B%85%E5%85%B8%E5%AD%A6%E9%99%A2/">
+          知识分子的殿堂：《雅典学院》
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2020-08-10/%E9%B2%81%E6%9C%AC%E6%96%AF%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88-%E4%B8%8E%E6%9B%BC%E5%9B%BE%E7%93%A6%E7%9A%84%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E8%87%AA%E7%94%BB%E5%83%8F/">
+            前一篇：鲁本斯的朋友圈：《与曼图瓦的朋友们的自画像》
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2020-08-10/%E5%8D%8A%E4%B8%AA%E4%B8%96%E7%BA%AA%E5%89%8D-%E5%85%AD%E5%8D%81%E5%B9%B4%E4%BB%A3%E7%9A%84%E7%BE%8E%E5%9B%BD%E5%AF%86%E8%A5%BF%E8%A5%BF%E6%AF%94%E5%B7%9E-%E5%B1%95%E5%BC%80%E4%BA%86%E4%B8%80%E5%9C%BA%E9%9D%9E%E6%B4%B2%E8%A3%94%E7%BE%8E%E5%9B%BD%E4%BA%BA%E4%BA%89%E5%8F%96%E8%87%AA%E7%94%B1%E6%8A%95%E7%A5%A8%E7%9A%84-%E8%87%AA%E7%94%B1%E4%B9%8B%E5%A4%8F-Freedo/">
+            後一篇：半个世纪前，六十年代的美国密西西比州，展开了一场非洲裔美国人争取自由投票的「自由之夏」（Freedom Summer）志愿运动。期间，警察、三 K 党、政府对志愿者施
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2020-08-10/%E9%B2%81%E6%9C%AC%E6%96%AF%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88-%E4%B8%8E%E6%9B%BC%E5%9B%BE%E7%93%A6%E7%9A%84%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E8%87%AA%E7%94%BB%E5%83%8F/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2020-08-10/%E5%8D%8A%E4%B8%AA%E4%B8%96%E7%BA%AA%E5%89%8D-%E5%85%AD%E5%8D%81%E5%B9%B4%E4%BB%A3%E7%9A%84%E7%BE%8E%E5%9B%BD%E5%AF%86%E8%A5%BF%E8%A5%BF%E6%AF%94%E5%B7%9E-%E5%B1%95%E5%BC%80%E4%BA%86%E4%B8%80%E5%9C%BA%E9%9D%9E%E6%B4%B2%E8%A3%94%E7%BE%8E%E5%9B%BD%E4%BA%BA%E4%BA%89%E5%8F%96%E8%87%AA%E7%94%B1%E6%8A%95%E7%A5%A8%E7%9A%84-%E8%87%AA%E7%94%B1%E4%B9%8B%E5%A4%8F-Freedo/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2020-08-18/%E5%96%9C%E6%8A%A5-%E8%8B%8F%E8%81%94%E7%AC%91%E8%AF%9D%E5%B7%B2%E7%BB%8F%E8%BF%87%E6%97%B6-%E6%96%B0%E8%8B%8F%E8%81%94%E7%AC%91%E8%AF%9D%E5%AE%9E%E7%8E%B0%E5%85%A8%E9%9D%A2%E8%87%AA%E8%B6%B3/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2020-08-10/%E9%B2%81%E6%9C%AC%E6%96%AF%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88-%E4%B8%8E%E6%9B%BC%E5%9B%BE%E7%93%A6%E7%9A%84%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E8%87%AA%E7%94%BB%E5%83%8F/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2020-08-10/%E9%B2%81%E6%9C%AC%E6%96%AF%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88-%E4%B8%8E%E6%9B%BC%E5%9B%BE%E7%93%A6%E7%9A%84%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E8%87%AA%E7%94%BB%E5%83%8F/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2020-08-10/%E5%8D%8A%E4%B8%AA%E4%B8%96%E7%BA%AA%E5%89%8D-%E5%85%AD%E5%8D%81%E5%B9%B4%E4%BB%A3%E7%9A%84%E7%BE%8E%E5%9B%BD%E5%AF%86%E8%A5%BF%E8%A5%BF%E6%AF%94%E5%B7%9E-%E5%B1%95%E5%BC%80%E4%BA%86%E4%B8%80%E5%9C%BA%E9%9D%9E%E6%B4%B2%E8%A3%94%E7%BE%8E%E5%9B%BD%E4%BA%BA%E4%BA%89%E5%8F%96%E8%87%AA%E7%94%B1%E6%8A%95%E7%A5%A8%E7%9A%84-%E8%87%AA%E7%94%B1%E4%B9%8B%E5%A4%8F-Freedo/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<火光>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2020-08-18/%E5%96%9C%E6%8A%A5-%E8%8B%8F%E8%81%94%E7%AC%91%E8%AF%9D%E5%B7%B2%E7%BB%8F%E8%BF%87%E6%97%B6-%E6%96%B0%E8%8B%8F%E8%81%94%E7%AC%91%E8%AF%9D%E5%AE%9E%E7%8E%B0%E5%85%A8%E9%9D%A2%E8%87%AA%E8%B6%B3/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<火光>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2020-08-10/%E9%B2%81%E6%9C%AC%E6%96%AF%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88-%E4%B8%8E%E6%9B%BC%E5%9B%BE%E7%93%A6%E7%9A%84%E6%9C%8B%E5%8F%8B%E4%BB%AC%E7%9A%84%E8%87%AA%E7%94%BB%E5%83%8F/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

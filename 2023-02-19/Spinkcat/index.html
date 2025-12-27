@@ -1,0 +1,2514 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Spinkcat在2023-02-13~2023-02-19的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Spinkcat在2023-02-13~2023-02-19的言论" />
+    <meta property="twitter:title" content="Spinkcat在2023-02-13~2023-02-19的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FChina_irl%2Fcomments%2F110kxhr%2F%E8%80%81%E8%94%A3%E4%BD%9C%E7%82%BA%E4%B8%80%E5%80%8B%E8%BB%8D%E6%94%BF%E9%A0%98%E5%B0%8E%E4%BA%BA%E6%A5%B5%E9%99%90%E5%9C%A8%E5%93%AA%E8%A3%A1%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/China_irl/comments/110kxhr/老蔣作為一個軍政領導人極限在哪裡/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/China_irl/comments/110kxhr/老蔣作為一個軍政領導人極限在哪裡/&text=Spinkcat在2023-02-13~2023-02-19的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/China_irl/comments/110kxhr/老蔣作為一個軍政領導人極限在哪裡/&title=Spinkcat在2023-02-13~2023-02-19的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/China_irl/comments/110kxhr/老蔣作為一個軍政領導人極限在哪裡/&title=Spinkcat在2023-02-13~2023-02-19的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Spinkcat在2023-02-13~2023-02-19的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/China_irl/comments/110kxhr/老蔣作為一個軍政領導人極限在哪裡/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/China_irl/comments/110kxhr/老蔣作為一個軍政領導人極限在哪裡/&title=Spinkcat在2023-02-13~2023-02-19的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Spinkcat在2023-02-13~2023-02-19的言论&url=https://old.reddit.com/r/China_irl/comments/110kxhr/老蔣作為一個軍政領導人極限在哪裡/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Spinkcat在2023-02-13~2023-02-19的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2023-02-19
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://www.reddit.com/user/Spinkcat/" style="font-size:14px;">作者: Spinkcat</a>
+        </span>
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/China_irl/comments/110kxhr/老蔣作為一個軍政領導人極限在哪裡/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#2008-老蔣作為一個軍政領導人極限在哪裡-submitted-on-2023-02-13-0120160800" id="markdown-toc-2008-老蔣作為一個軍政領導人極限在哪裡-submitted-on-2023-02-13-0120160800">2008: 老蔣作為一個軍／政領導人極限在哪裡？, submitted on 2023-02-13 01:20:16+08:00.</a></li>
+  <li><a href="#2009-假如六四成功-submitted-on-2023-02-15-2247390800" id="markdown-toc-2009-假如六四成功-submitted-on-2023-02-15-2247390800">2009: 假如六四成功, submitted on 2023-02-15 22:47:39+08:00.</a></li>
+  <li><a href="#2010-今天是赵立坚美国情报就是个笑话一周年纪念日-两天后俄罗斯入侵乌克兰-submitted-on-2023-02-19-1051240800" id="markdown-toc-2010-今天是赵立坚美国情报就是个笑话一周年纪念日-两天后俄罗斯入侵乌克兰-submitted-on-2023-02-19-1051240800">2010: 今天是赵立坚“美国情报就是个笑话”一周年纪念日。 两天后，俄罗斯入侵乌克兰。, submitted on 2023-02-19 10:51:24+08:00.</a></li>
+</ul>
+
+<h3 id="2008-老蔣作為一個軍政領導人極限在哪裡-submitted-on-2023-02-13-0120160800">2008: <a href="https://old.reddit.com/r/China_irl/comments/110kxhr/老蔣作為一個軍政領導人極限在哪裡/">老蔣作為一個軍／政領導人極限在哪裡？</a>, submitted on 2023-02-13 01:20:16+08:00.</h3>
+
+<p>—– <strong>2008.1</strong> —–2023-02-14 07:09:51+08:00:</p>
+
+<p>蒋介石赌性太大，政治敏感性没毛那么高，也就是所谓的心大，虽然比其他军阀已经不是一个级别了，中原大战期间就可以看得出差距。</p>
+
+<p>比如说中山舰，或明明收到消息还非要去西安跳坑，明明是不择手段枭雄的位置却爱惜羽毛想什么都既要又要。</p>
+
+<p>凡事喜欢毕其功于一役，除了体现在内战上外，还有动不动想自杀的观念，抗压能力有待提高。</p>
+
+<p>近代已经是吃军队建制与后勤经济的时代，蒋介石在这方面缺乏控制，沿海的江浙地主与财团阶级支持他，确保了中原大战的经济来源，抗战后金圆券问题就暴露他的性格和先军思维问题，当然也跟本身就在党内分裂的背景有关。</p>
+
+<p>很多蒋介石军事水平低的由来，其背景都是蒋介石个人性格和派系问题导致，没有日本入侵蒋介石统一全国是时间问题，没西安事变中共也难以维系下去，因为是近代，文献够多，可以看到蒋有自己的能力和性格缺陷，但这些都不是最致命的，主要还是不可抗力放大了这些缺点。</p>
+
+<p>—– <strong>2008.2</strong> —–2023-02-19 15:29:11+08:00:</p>
+
+<p>影响我认为不会很大，因为胡汉民后期已经不可能控制蒋了，蒋前期没这个意识，后来开始试图摆脱军事人员的身份，希望转型成为党内领袖，已经跟胡有很多争执矛盾，胡还公开骂蒋。</p>
+
+<p>可当时剿共，还有后来的抗日，都是非常需要军人的特殊时期，本质是枪杆子政权，再到后面内战和到台湾，军权一直都重要，胡汉民活着可能会平衡蒋势力在内部的一些内务工作，让他没法单方面控制一切，但具体要看谁能获得话语权。</p>
+
+<p>胡汉民也控制不了那么多军队，不过右派文职和部分军头可能会向他靠拢，那蒋对他会做什么就很难说了，不过有观点表示胡汉民回国后已经愿意跟蒋合作，双方渡过了磨合期。假设有胡汉民，且跟蒋能互相磨合好的话，不排除一种可能是胡汉民主内，蒋介石主外。</p>
+
+<p>蒋介石保留军权担当委员长，仍然保留元首身份，胡汉民则担以其他职务在政府内部担当类似总理的角色，逐渐形成一个分权框架，为后续宪政做铺垫，但前提是双方能磨合且有意愿划线。</p>
+
+<p>按战时的情况，可能性太多，这是没法确定的，不应该对蒋有太多期望。</p>
+
+<h3 id="2009-假如六四成功-submitted-on-2023-02-15-2247390800">2009: <a href="https://old.reddit.com/r/real_China_irl/comments/112zotu/假如六四成功/">假如六四成功</a>, submitted on 2023-02-15 22:47:39+08:00.</h3>
+
+<p>—– <strong>2009.1</strong> —–2023-02-15 23:36:08+08:00:</p>
+
+<p>六四没有成功的说法，当时六四已经不是争取自由化，而是要求修改四二六的定调，这是学生不散的主要原因。</p>
+
+<p>四二六立论目的就是为了后续抓人话柄清洗，事后再做就立不住，所以当时坚决不撤，就是要给人看共产党在这种威权议题下说一不二。</p>
+
+<p>因为六四本身也没具体主要组织负责，也没一个完整的政治目标，心态情绪占主导。</p>
+
+<p>所以最后就变成威权退步与否的问题。</p>
+
+<p>一旦示弱就是开先河，共产党威权带来的寒蝉效应就立不住，这也是为什么邓那么坚持的原因。</p>
+
+<p>结果只有政府服软后学生散去，形成示威习惯。</p>
+
+<p>或者学生服软政府挨个清算，全国大清洗，跟六四后一样，少了杀人的环节。</p>
+
+<p>要么就是政府强硬失策，导致内战。</p>
+
+<p>我们现实走的是第四种路线，学生不服软，政府也不退让，都到了政治生命与利益冲突的前哨站，政府杀人，改革派与同情者被清算。</p>
+
+<p>上面其中三个情况，学生服软被清算也可以给中共在近二十年的社会动荡里提供一次免死金牌，因为子弟兵杀平民的事实还没被坐实。</p>
+
+<p>但是学生和市民选的路线算是与中共同归于尽，中共彻底失去政治挡箭牌，全社会都知道要政治权力就是得拿命换，中共绝不妥协，减少了认知成本，中共也就没了拖延用的缓冲区。</p>
+
+<p>—– <strong>2009.2</strong> —–2023-02-28 07:31:33+08:00:</p>
+
+<p>不用催泪弹也可以，当时学生已经在逐渐散去，不管的话六月底基本就散了，军方是赶在学生彻底散去前赶时间去围而杀之，目的就是去杀人来形成政治威权形象，从而恫吓全国形成寒蝉效应与服从性。</p>
+
+<p>—– <strong>2009.3</strong> —–2023-03-01 16:34:14+08:00:</p>
+
+<p>没看，我很少读书。</p>
+
+<p>—– <strong>2009.4</strong> —–2023-03-01 16:36:49+08:00:</p>
+
+<p>大概率不会，邓小平目的是保护经济改革之余，确保政治体制与执政党不变，并且希望随后的岁月，伴随经济发展，社会与中共能找到内部变革的可能性，但根本上还是要确保体制不变。</p>
+
+<p>—– <strong>2009.5</strong> —–2023-03-01 21:44:05+08:00:</p>
+
+<p>邓的核心逻辑是确保经济改革，确保政治改革在他这一代不变，至于后代怎么样，大体就是“相信后人的智慧”的翻版，客观上邓很清楚只要经济改革推进，政治体制必然面临被质疑动摇的处境，但他把思考和解决这个问题的事，全都甩给五十年后了。</p>
+
+<p>—– <strong>2009.6</strong> —–2023-03-01 23:01:02+08:00:</p>
+
+<p>没明白指再来一次什么</p>
+
+<p>—– <strong>2009.7</strong> —–2023-03-01 23:46:24+08:00:</p>
+
+<p>当时示威仍然陆陆续续存在，这种自发性的集体行为一直都有，只是此消彼长不如刚开始热度高。</p>
+
+<p>—– <strong>2009.8</strong> —–2023-03-02 00:47:11+08:00:</p>
+
+<p>九七年邓死前自由化没被打击，都有可能寻找机会开枪，六四不止是广场上的一次事件，而是之后还有漫长十余年对党内外自由化与支持自由化个人的肃清与排挤，六四在当时也是全国性的，邓与保守派元老都迫切需要血腥镇压来立威，只不过越到后期，社会经济越发达，这种做法的成本也就越高。</p>
+
+<p>比如说现代和未来二十年，政府哪怕大规模暴力镇压，不需要动枪械射杀平民，法理都会受到巨大冲击。</p>
+
+<p>—– <strong>2009.9</strong> —–2023-03-02 10:14:36+08:00:</p>
+
+<p>这个问题就涉及到六四的根本了</p>
+
+<p>六四本质是军事政变，邓自己支持胡赵推行建制化，职务大于天，但六四是绕过了赵紫阳军委第一副主席的身份，军队的调动实际上是不合法的。</p>
+
+<p>邓是靠个人威望与军队的纽带关系，绕开了中央的体系，压制了内部反对声音，从而实行镇压。</p>
+
+<p>实际上军队内部反对和疑惑声音很大，张爱萍等将领联名反对，党内最高层意见也不统一，国务院的高层甚至有人做好打内战的准备。</p>
+
+<p>六四执行后，党内外许多有资历但地位不是很高的老人，都彻底放弃中共，邓直接把中共与共和国的存在的合法法理根基搞没了。</p>
+
+<p>—– <strong>2009.10</strong> —–2023-03-02 16:06:07+08:00:</p>
+
+<p>军队调动直接看军委公开的资料就行，其实执行上一点也不复杂，多次军改和实践已经尽可能简化了。</p>
+
+<p>因为党指挥枪的原则，军委本质是个执行管理机构，是中委会的下辖机构，但是一般最高领导都有兼任的情况，因此执行管理其实落到了副职甚至更下一层部门身上，然后才是各个部门特定的工作范畴。</p>
+
+<p>包括邓小平在内，也是通过军委联络，但是不符合程序没人敢出来质疑，这就成了心照不宣的问题。</p>
+
+<p>进而就把中共军制的本质给暴露出来，因为以前重大问题是有最高层决议的，现在虽然命令还是上面走军委调兵，但显然有不合法理的地方。</p>
+
+<p>准备好打内战的出处，是英国当时驻华大使Alan Donald的解密电报与文档。</p>
+
+<p>2017年解密后就有陆续报道，中文媒体方面，香港01在相关文档解密做了相对完整报道，Alan Donald似乎还有些相关的回忆录，我不确定他在这些自传书籍里有没有提及。</p>
+
+<p>另外如果情况属实，国务院实际来来去去就那些人而已，跟Alan Donald走的特别近的高层消息人士，职务最低也是国务委员，也就是说至少是副国级，并且可能是中委会成员。</p>
+
+<p>这是其中一部分：</p>
+
+<p><a href="http://ffbeb4845c323b8ced32-3f1b7070c0761ad2dcac8b7012ff4945.r73.cf2.rackcdn.com/890520%20UKE%20Peking%20to%20FCO%20PROTESTS%20PREM19-2597%20f148.pdf">http://ffbeb4845c323b8ced32-3f1b7070c0761ad2dcac8b7012ff4945.r73.cf2.rackcdn.com/890520%20UKE%20Peking%20to%20FCO%20PROTESTS%20PREM19-2597%20f148.pdf</a></p>
+
+<p>具体出处（右侧白纸第十一条）：</p>
+
+<p><a href="https://cdn.hk01.com/di/media/images/1061155/org/59a5acda8375334dec3ba413c6ae6b70.jpg/PY1CtaVoGMgil94rfrCrUMA7Vz_1j_TkX9yanl_cmp4?v=w1920">https://cdn.hk01.com/di/media/images/1061155/org/59a5acda8375334dec3ba413c6ae6b70.jpg/PY1CtaVoGMgil94rfrCrUMA7Vz_1j_TkX9yanl_cmp4?v=w1920</a></p>
+
+<p>—– <strong>2009.11</strong> —–2023-03-06 21:47:14+08:00:</p>
+
+<p>做不到，因为学生本身也没组织，目标整体没那么激进，只是一直以来对反自由化不满，以及胡耀邦去世引发的自发性的临时反应。</p>
+
+<p>后来为了维持秩序出现的一些组织，互相不统属，谁也管不到谁，目的也只是现场处理问题而已，从胡耀邦去世到六四被镇压，前后就两个月不到。</p>
+
+<p>如果有空间能进行大规模组织转移到农村，还能进行有效宣传，那武装建立军队也是完全可以的，中共离死就不远了，不过现实不具备这种基础。</p>
+
+<p>—– <strong>2009.12</strong> —–2023-03-06 23:00:34+08:00:</p>
+
+<p>从来没镇压，那么可以确定自由化浪潮注定越来越高，最后改革派在内部主政推动政治改革，把保守派边缘化。</p>
+
+<p>但现实来说，保守派是不可能什么都不做等死的，因为实际结果就是，在自由化刚冒头的早期，保守派已经把下限拉低到杀人解决问题这种简单粗暴的管理手法，宁可扔掉自己的合法性也不愿意放弃政权。</p>
+
+<p>贸易冲突仍然可能有，但我想到不了普遍制裁的情况，因为当下制裁的一个原因是现代中国政治与经济体系互不匹配产生的落后，无法对接外部世界的各种需求产生的意识形态矛盾，是不可调和的。</p>
+
+<p>防火墙可以肯定没有，太子党应该会存在，但是不会跟保守派扶持一样接班，而是逐渐转型为政治世家，真和平放权了，太子党出身靠自己走动拉票，走公开竞选程序当选，其实也没什么。</p>
+
+<p>—– <strong>2009.13</strong> —–2023-03-07 15:31:55+08:00:</p>
+
+<p>中国与越南并不相同，社会自由化浪潮高涨，胡赵新政既有党内支持，也有政绩基础，政治改革是放权，不意味着瞬间结束一党专政，胡赵的政治体制改革也不是以结束共产党执政为目标。</p>
+
+<p>—– <strong>2009.14</strong> —–2023-03-07 22:51:10+08:00:</p>
+
+<p>先看一下这句话的语境是在说什么。</p>
+
+<p>前面有人在说不在天安门聚集，是否能转移到农村煽动农民反公粮反计划生育。</p>
+
+<p>我明确的说了：“ 如果有空间能进行大规模组织转移到农村，还能进行有效宣传 ”。</p>
+
+<p>也就是说，如果环境都允许无组织的学生转移到农村煽动农民，也即说明中共在国内基层根本无控制力，对市以下的县级行政区域处于完全的权力真空。</p>
+
+<p>全国有约2800个县级行政区，无法控制这些地区还能让学生进行组织和宣传，那本质就是回到了三十年代。</p>
+
+<p>所以搞清楚这种基本语境，不可能搞不明白在说什么：</p>
+
+<p>1）武装哪里来？</p>
+
+<p>到农村宣传首先要有组织，其次要中共在地方权力真空。</p>
+
+<p>如果能到地方进行宣传，说明有组织，以及权力真空的既定事实。</p>
+
+<p>那么能进行宣传，意味着成立组织的那一刻，存续问题也得到解决。</p>
+
+<p>物理意义上的存续环境，是一切开始的基础，能在基层行政区组织超过一定人数超过半年，任何渠道的武装都有可能。</p>
+
+<p>2）无组织无纪律训练，乌合之众耳。</p>
+
+<p>同上。</p>
+
+<p>他假设的环境都是需要有组织和生存环境才能实现的命题，就不会还有无组织无纪律这种情况了，所以我前面就说了不可能。</p>
+
+<p>—– <strong>2009.15</strong> —–2023-03-08 00:16:47+08:00:</p>
+
+<p>都到了要杀人表态的节骨眼了，这种时候还不下死手，就已经表明对自由化的妥协。</p>
+
+<p>从职务上胡赵对上保守派并不弱势，压力主要来自于邓的取向。</p>
+
+<p>邓就是因为不愿意妥协才杀人，如果肯妥协，胡也不会下台，更谈不上弱势，这是个因果关系。</p>
+
+<p>—– <strong>2009.16</strong> —–2023-03-08 01:48:13+08:00:</p>
+
+<p>越南的政治体制改革不等于中国的政治体制改革，很多东西表面改了光说不做，说的好听也没用，政治体制的基石是经济发展这是改变不了的，经济越进步越需要改革，否则落后的不发达社会冠名共和制，也只会出现世袭的总统。</p>
+
+<p>越南才发展没多少年，还有很大进步空间，没有成熟的群众基础，这种改革无论是自上而下还是自下而上都肯定会产生压力，所以重点是经济改革，因为政治改革是经济发展的后续衍生品。</p>
+
+<p>如果胡赵路线不对，那中国何来今天的经济发展和现代化政府？</p>
+
+<p>你可以这样反问质疑者，他们大多会回答经济改革的成果不是胡赵路线带来之类的，也是六四后保守派摘桃子的一个经典例子。</p>
+
+<p>基本中国大部分重要的现代化改革，都是胡赵时期决策预期实现和制定路线的，我们能早过其他竞争者快速发展，吸取全球消费数十年之久，就是因为当时胡赵做出了正确的选择和预判，让中国赢在起跑线上。</p>
+
+<p>胡赵路线究竟是什么？其实很多反对或评价的人，许多人不知道，他都不知道自己在评价什么，所以你能想象到五花八门的论调，很多时候挺无厘头的</p>
+
+<p>那这样偏离事实，就更不可能找到准确对比去进行认知。</p>
+
+<p>越南基本比中国晚最少十年进行革新，九十年代初到中期才开始全面的正常化。</p>
+
+<p>而国际市场有限，中国体量过于庞大，已经提前吸收了大部分需求市场，这也是为什么印度也发展慢的原因，要说的话其实越南印度都不慢，只是中国更快。</p>
+
+<p>而印度九十年代甚至部分计划经济制度是两千年才废除的，比越南还慢。</p>
+
+<p>胡赵路线的第一阶段：</p>
+
+<p>中国提前在计划经济国家里走出一个新赛道，占据了有限的市场位置。</p>
+
+<p>避开了与后发展的穷国、人口大国进行劳动力内卷的竞争，错开了人力最贱的时候。</p>
+
+<p>要不然同期印度、越南这种人口十几亿和近亿的国家，跟我们一起卷，我们发展会慢很多，许多消费市场会流入他们那里。</p>
+
+<p>但我们更早发展，比苏联改革的正确，比印度越南走的更早，就占据了一个产业链里相对有优势的位置，还能转化部分生产力到更上游。</p>
+
+<p>胡赵路线的第二阶段：</p>
+
+<p>他们也迟早会发展成跟我们一样，那么我们就必须跟日韩北欧一样，解放私营经济的生产力，在产业链里占据一个更上游的位置，找到一个不会被取代淘汰的固定角色。</p>
+
+<p>此时解放权力就很重要，市场经济就是权力下放，权力下放解绑，知识分子才有生存和发展空间，全国统一规划，慢慢下放权力到地方，形成各地按自己需求进行分工和发展，形成内部良性竞争。</p>
+
+<p>这时候中央就只扮演一个调度角色，而不是原来的统筹角色。</p>
+
+<p>那么解放权力，就是政治体制改革的一个目的之一，就是让更多人参与到这个更复杂的社会结构来，从而提高监督性和运作效率。</p>
+
+<p>所以说，你想一下，很多人否定和反对的胡赵改革，批评者自身就是吃了胡赵改革红利，但是胡赵改革还只实现了经济部分，政治部分还没展开实现就出现六四了。</p>
+
+<p>去用已经成功然后被保守派摘桃子说是自己功绩的事，去指摘一个还没来得及实现的胡赵路线，怎么想都不应该吧，没有立场去站在这种角度说话的。</p>
+
+<p>越南从06-08年才开始明显高速增长，中国也还没完全脱离这个赛道，他们要发展起码等我们发展到相当程度后，才能吃掉空出来的市场，按年数和GDP翻倍数，我们可能还慢了，因为进入两千年后大规模的结构性改革基本停滞，框架没变，也是为什么我们现在遇到发展困境和社会公平问题。</p>
+
+<p>—– <strong>2009.17</strong> —–2023-03-08 02:11:49+08:00:</p>
+
+<p>因为本身是没有任何组织的自发行为，天安门大家都知道在哪，农村是个名词，不是一个具体地方，没有组织就没有人会刻意去农村。</p>
+
+<p>表达诉求是对当局表达，而不是对不能解决问题的农民表达，他们的情况大多是“有感而发”，没有统筹全部学生的终端组织，不存在决策意识，一切有领导核心与执行组织的情节都不存在于该集体。</p>
+
+<p>—– <strong>2009.18</strong> —–2023-03-08 12:26:06+08:00:</p>
+
+<p>撤了就散了，更没组织，坚持不撤其中一个重要原因，就是四月本来要散了，但四二六社论出来，可以作为挨个秋后算账的政治盖棺定论，所以要趁着人齐聚在一起把这个定性给扭转过来避免被清算。</p>
+
+<p>邓下令前，学生也想不到会这么没下限，就算侥幸撤退，四二六社论在，也只会秋后算账，六四本身也没杀光所有参与运动的学生、市民和工人，但后续也反对不了。</p>
+
+<p>说白了是朝堂政治，民间只能倒逼，没实质性的基础，这也是民间运动的一个弊病，只要政权没下限，你拿他没办法。</p>
+
+<p>剩下的只是对民间妥协与否的问题，不妥协就是不惜一切代价镇压，妥协了就是默许自由化的存在，中共是威权政权，妥协与否涉及到政权的存续性质。</p>
+
+<p>—– <strong>2009.19</strong> —–2023-03-08 13:15:30+08:00:</p>
+
+<p>政治环境应该与今天无异，因为胡赵对保守派打压自由化的要求都是偏消极的，没有解决中共不妥协的问题，保守派依然存在且把持人事权，胡赵改革派在人事权上被邓边缘化仍然难以避免。</p>
+
+<p>杀人其实把事做绝了，主要堵死的是未来中共保守派找台阶下的道路。</p>
+
+<p>如果没杀，中共在现代和未来，仍然会有和平改革的契机，但是六四的杀人，过早把最终手段暴露出来，一下大大降低了不稳定时社会动荡形态的阈值。</p>
+
+<p>变成了要么彻底推翻政权避免被杀，要么杀光反对者保证政权的零和游戏。</p>
+
+<p>不杀人，还能保留一个中间缓冲区域进行拉扯谈判。</p>
+
+<p>对邓来说，杀人更像是一种政治表态，直接拿出最后维护政权的手段，而忽略了法理。</p>
+
+<p>没有杀人，中共的法理会更健全完善，胡温假设敢于改革和想改革，那么话题是比较容易打开。</p>
+
+<p>但问题在于，六四奠定了保守派在党内的话语权与合法性基础，这就造成了与六四相关的政治改革，即便改革派和团派一些人想部分推行，也会因为涉及到保守派根本利益而无法提出。</p>
+
+<p>—– <strong>2009.20</strong> —–2023-03-09 02:28:53+08:00:</p>
+
+<p>不解决保守派人事权的问题，就无法改变红色子弟逐渐上位的可能。</p>
+
+<p>—– <strong>2009.21</strong> —–2023-03-10 00:41:44+08:00:</p>
+
+<p>查了一下，党主立宪可能是指06年中央党校研究室课题组的《从经济发展角度思考和设计政治体制改革》</p>
+
+<p>按文章本身的观点，是对现有结构做优化，能看出来有过渡意味，但这种观念历来不少，只是反应到行政和人事上就很困难。</p>
+
+<p>只能说是党内有观点希望推行的一个蓝图，并不是实际产物，胡锦涛风评的政治偏保守，但也不瞎折腾，允许党内讨论这些其实也不容易了，温家宝是公开提过的，整体胡温时代虽然也是威权主义，但也会提及这些东西，是相对宽松。</p>
+
+<p>至于因为茉莉花革命流产，我认为不可能，习近平接班在茉莉花革命前就敲定了， 保守派一直存在，要不然胡赵时期就已经能做过渡了。</p>
+
+<p>—– <strong>2009.22</strong> —–2023-03-10 14:03:33+08:00:</p>
+
+<p>那直接验证一下中防委这个机构是否属实可查证就明白了。</p>
+
+<p>徐友安这个人到的确是可查，还出过防卫技术书籍，但问题来了，为什么刚好叫防卫技术管理委员会，还在有官方背景的武术推广中心的负责人，以及武术协会92年届的副主席和副秘书长。</p>
+
+<p>那么隐秘的部门，有私人卫队还特地告诉当事人，又被当事人就这么放到网上说，还是负责监控最高领导和各级官僚，那么负责对象是谁？没有这个具体责任人。</p>
+
+<p>然后就这么一个小圈子，他直接把几个参与的人的真实姓名连职务都一并曝光，跟着这个中防委的许多对外事务都是通过博客发表。</p>
+
+<p>整体可查证性就这些了，如果不属实，性质自然不用说，如果人与事经过属实，却无可考，那我不清楚这些人聚在一起是干什么，从他们身份和所谓保密来看，没证据显示他们真有能力影响证据，没准只是体制内中基层的一些人聚首发牢骚，或者可以联想一下 “联合国维和部队总司令部“这个事。</p>
+
+<p>###</p>
+
+<p>—– <strong>2009.23</strong> —–2023-03-13 00:51:01+08:00:</p>
+
+<p>没错，很明显这不真实。</p>
+
+<p>—– <strong>2009.24</strong> —–2023-03-15 02:27:18+08:00:</p>
+
+<p>为什么你总是认为唯一一次机会在1989年，具体什么的机会？</p>
+
+<p>—– <strong>2009.25</strong> —–2023-03-16 01:56:19+08:00:</p>
+
+<p>现实来讲，只要有邓在，就不可能改革成功，胡耀邦比邓晚死，未必会触发六四规模的学运，反而有可能成功，但那起码要胡耀邦延寿至少八年以上。</p>
+
+<p>—– <strong>2009.26</strong> —–2023-03-16 21:16:17+08:00:</p>
+
+<p>学生做什么基本不影响，因为无法解决邓的存在，按当时情况早点撤离其实是对的，避免伤亡能存续，对自由化的打击到高峰就是因为六四让邓下的血本太高了，可能没学生运动更好，赵和邓的分歧不会太早爆发，甚至可以避免爆发。</p>
+
+<p>—– <strong>2009.27</strong> —–2023-03-17 04:23:53+08:00:</p>
+
+<p>没有可能，学潮是全国性的，当时全国都有，各地甚至有成立本地学生组织，但也被扑灭了。</p>
+
+<p>—– <strong>2009.28</strong> —–2023-03-18 15:12:25+08:00:</p>
+
+<p>马后炮的情况来参考，什么都不做最好，跟大队。</p>
+
+<p>—– <strong>2009.29</strong> —–2023-03-18 15:27:26+08:00:</p>
+
+<p>跨部委机构，简单说就是继续加强集权，但靠拢对象是党，而非政府。</p>
+
+<p>最早期没联网时，各地警察和行政部门互联程度非常低，七八十年代更夸张。</p>
+
+<p>两千年后逐渐开始联网，习近平前两个任期做了基层部门数据、执行上的串联改革，以前警察在基层进数据库随便查，或者吃空饷就很难挂住了。</p>
+
+<p>基层行政部门自行决定执行和策略的空间减少，因为联网后这部分决策权往省市走，省市的行政单位少，中央更容易控制。</p>
+
+<p>其实这几年一直在做，不是突然搬出来的，铺垫很久了。</p>
+
+<p>现在主要是把更细分领域的决策权，从行政中一定程度剥离，让渡给更高层的党务机构，就像市的发展，取决于市委书记和党委，市长不是最大的那个。</p>
+
+<p>过去也不是没有，但是在一些新兴领域，金融、科研和社会发展的细致层面，原来的行政部门覆盖不到，而原本这些要靠推行司法独立和行政制度的东西，因为不可能搞司法独立和党政分离，所以既是为了例行集权，也是为了抓过来管，就开始加强党委在这些领域的实权。</p>
+
+<p>执政体系慢慢平行出一个党委影子政府，剥离行政政府的决策和执行权。</p>
+
+<p>共和国原来的执政体系，是国务院是正常的政府行政机构，政策要通过该机构内部反馈进行决策、执行，中共是作为执政党控制其主导权。</p>
+
+<p>也就是说专政还是要通过合法政府才能施行，但现在在中央直属层面，平移出一些党政属性更强的机构，等于一定程度绕开了政府主体的行政，削弱政府机构本身的决策权，弱化其职能。</p>
+
+<p>—– <strong>2009.30</strong> —–2023-03-19 23:00:50+08:00:</p>
+
+<p>六四是突发事件，四二六社论出来时，性质就定调了，赵这个时候就不好独自做主张。</p>
+
+<p>期间赵外访，导致失去对定调的干预权，事后看可能就是故意针对他可能反对的情况，挑机会处理的。</p>
+
+<p>放假和催泪弹都很难解决问题，反而可能激化，赵走前的方案已经是尽可能不要激起矛盾，引发冲突，慢慢的让人群消散。</p>
+
+<p>但是邓和保守派显然不愿意，赵就只能选择跟随，或者跑出来给警示了。</p>
+
+<p>时间上赵没有太多选择，政治上可能大意了，趁着赵不在要把党内定调，生米煮成熟饭。</p>
+
+<p>—– <strong>2009.31</strong> —–2023-03-20 03:48:45+08:00:</p>
+
+<p>例行公事，事后看是被利用起来有心算无心。</p>
+
+<p>利用赵的警惕心没到最高，麻痹赵然后生米煮成熟饭。</p>
+
+<p>但邓只是让赵离开中枢，避免起冲突，然后让赵接受结果。</p>
+
+<p>两人真正翻脸是五月份开会决定清场，赵坚决不跟随邓，此前邓不高兴但是没放弃赵，把赵支开也是知道他不同意。</p>
+
+<p>—– <strong>2009.32</strong> —–2023-03-20 12:52:06+08:00:</p>
+
+<p>可以推迟，但大意没有，职务所在，始终要去。</p>
+
+<p>—– <strong>2009.33</strong> —–2023-03-21 02:10:14+08:00:</p>
+
+<p>很多人认为是骗赵，我觉得这是不了解邓赵关系，以及赵在当时政治面貌的说法。</p>
+
+<p>赵紫阳在六四决议前，与邓没有什么矛盾，一直到戈尔巴乔夫讲话也只是邓不满，而没打算换掉赵，赵反而是一个在邓、自由化、陈云之间周旋的角色。</p>
+
+<p>但是民间对赵紫阳还没如对胡耀邦一样了解，所以也有连赵紫阳一起骂的事发生。</p>
+
+<p>也即是说，实际情况上，赵紫阳已经是第一军委副主席，获得军权只是时间问题，只要赵紫阳支持邓，军权最终必然会过渡到他手上，因为当时党政军指定赵紫阳已经很明确了，只不过在六四镇压话题上，赵紫阳坚决不跟随，让邓无可选择放弃了他。</p>
+
+<p>—– <strong>2009.34</strong> —–2023-03-21 15:36:37+08:00:</p>
+
+<p>六四是全国性运动，并且赵无最终决策权，决策权在邓身上，邓在文革末期受四五运动的支持，六四继承了这类运动的风气，也是为什么邓没一开始驱散，脸也挂不住，赵认为有人煽风点火，推动邓最终决定肃清自由化，或者说即便没有，最后也会倾斜到这一侧。</p>
+
+<p>—– <strong>2009.35</strong> —–2023-03-21 18:11:42+08:00:</p>
+
+<p>不能，调动警察是北京市政府和市委的职能，就算职务高，具体到细节操作也要通过特定部门执行，这就不可能不反馈到国务院和常委那，更别提制定具体的规划了。</p>
+
+<h3 id="2010-今天是赵立坚美国情报就是个笑话一周年纪念日-两天后俄罗斯入侵乌克兰-submitted-on-2023-02-19-1051240800">2010: <a href="https://old.reddit.com/r/China_irl/comments/115zmmg/今天是赵立坚美国情报就是个笑话一周年纪念日_两天后俄罗斯入侵乌克兰/">今天是赵立坚“美国情报就是个笑话”一周年纪念日。 两天后，俄罗斯入侵乌克兰。</a>, submitted on 2023-02-19 10:51:24+08:00.</h3>
+
+<p>—– <strong>2010.1</strong> —–2023-02-20 10:17:41+08:00:</p>
+
+<p>未来我们会怀念坚子，就像现在我们怀念胡总编一样，以后粉墨登场的人会把他衬托的跟正常人一样。</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2023-02-24</time>
+        <a href="https://nodebe4.github.io/opinion/2023-02-24/ForeignAffairsMag/">
+          ForeignAffairsMag在2023-02-20~2023-02-26的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-02-23</time>
+        <a href="https://nodebe4.github.io/opinion/2023-02-23/EnclavedMicrostate/">
+          EnclavedMicrostate在2023-02-20~2023-02-26的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-02-19</time>
+        <a href="https://nodebe4.github.io/opinion/2023-02-19/EnclavedMicrostate/">
+          EnclavedMicrostate在2023-02-13~2023-02-19的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-02-18</time>
+        <a href="https://nodebe4.github.io/opinion/2023-02-18/theoryofdoom/">
+          theoryofdoom在2023-02-13~2023-02-19的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2023-02-19/HeQinglian/">
+            前一篇：Twitter @He Qinglian: 2023-02-13~2023-02-19
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2023-02-19/realcaixia/">
+            後一篇：Twitter @蔡霞: 2023-02-13~2023-02-19
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2023-02-19/HeQinglian/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2023-02-19/realcaixia/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2023-02-23/EnclavedMicrostate/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2023-02-19/EnclavedMicrostate/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2023-02-19/HeQinglian/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2023-02-19/realcaixia/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2023-02-23/EnclavedMicrostate/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2023-02-19/EnclavedMicrostate/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

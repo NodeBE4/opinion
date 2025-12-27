@@ -1,0 +1,3416 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>21 Inc. and the Future of Bitcoin – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+  
+     21 Inc. and the Future of Bitcoin 
+    
+  Posted on             Wednesday, May 27, 2015 
+            Monday, March 26, 2018 
+     Author  by  Ben Thompson   
+    
+    
+  
+  
+  
+    It seems like no one has been talking about Bitcoin, at least for quite a while. That is what happens when the price of a seemingly magical currency plummets from a high of $1,242 in December, 2013 to a mere $238 as I write this, a drop of 81%. That means the total Bitcoin market cap is about $3.4 billion — far more than perhaps many expected even a few years ago, but a tiny number in the grand scheme of things (for the sake of comparison, Apple sold $3.9 billion worth of iPhones every week last holiday quarter).
+    That’s why many were shocked back in March when 21 Inc., a Bitcoin-focused startup co-founded by Andreessen Horowitz board partner Balaji Srinivasan, announced that it had raised a shockingly large $116 million in funding for…well, no one knew exactly. Srinivasan’s co-founder Matthew Pauker said at the time,  according to the Wall Street Journal  :
+    
+      “Bitcoin is going to change the way that people and businesses and even machines interact with each other,” he says. “But for Bitcoin to realize that vision we need mass adoption. It can’t just be for Silicon Valley.”
+    
+    Indeed. Perhaps the single biggest obstacle facing Bitcoin is that most folks don’t really understand exactly what it is, or why it’s so interesting.
+     Bitcoin in Three Bullet Points 
+    Here’s my best attempt to explain Bitcoin in three bullet points:
+    
+      Using cryptographic keys, I can convey to you X amount of Bitcoin (fractions or multiples). This is cool because I’m transferring something digitally — no real-world analog (and associated clearinghouse, like a bank) required.
+      Our transaction is submitted to a global peer-to-peer network, which verifies the transaction and enters it into a public record (the blockchain). Because the blockchain is a ledger of every Bitcoin ever made, any one Bitcoin, or fraction thereof, can only ever be owned by one person. This is cool because it prevents me from double-spending — transferring something multiple times. In other words, Bitcoin makes digital goods 
+     rivalrous
+     — uncopyable.
+      That global peer-to-peer network isn’t verifying transactions out of the goodness of its heart; rather, you may know of this verification process by a different name: mining. About every ten minutes one of the verifying computers is awarded with 25 Bitcoins for its effort (a current value of $5,950). This is cool because it means Bitcoin is a self-supporting system: transactions are verified with absolute certainty for free.
+    
+    Note that only the third bullet point really seems to have anything to do with money: what is most exciting about Bitcoin, at least from my perspective, are the first two points — that Bitcoin specifically, and the applications enabled by the Blockchain broadly, are digital (with all its attendant advantages, including worldwide instantaneous transferability, divisibility, tracking, etc.) yet scarce — in stark contrast to everything on the Internet that can be copied at no cost, much to the detriment of content producers in particular. This means Bitcoin could theoretically be used for all sorts of transactions, including messages, contracts, identity verification, etc., and, of course, monetary ones, where today’s digital applications just don’t work.
+     Mining and Money 
+    It is monetary transactions that dominate discussion of Bitcoin, not only because that application is the easiest to understand, but also because money is the driving force behind mining. While mining first took place on personal PCs, the fact it is an  embarrassingly parallel  computational problem meant it was well-suited to graphics cards. Soon, though, as the price of Bitcoin increased, miners began investing in  Application-Specific Integrated Circuits (ASIC)  , chips custom-built for Bitcoin and placing them in data-centers wherever electricity was cheap.
+    While ASICs represent the fixed cost of Bitcoin mining, the expense of electricity is the marginal cost; indeed, Bitcoin is, for all intents and purposes, the digital representation of electricity. This presents a downside of Bitcoin — it is “free” in part because many of the externalities of its production are borne by society broadly in the form of pollution — but also highlights that even when it comes to mining money is only tangential. Were Bitcoin to go to $1 the vast majority of miners in the world would stop production tomorrow, yet Bitcoin the protocol would continue, automatically changing the difficulty of its algorithm to keep up the same steady pace of transaction verification on whatever processing was available to the network.
+    Let me be explicit on this point: Bitcoin inherently has 
+    nothing
+    to do with money, all of its representations as a digital currency to the contrary. Rather, it is a protocol that enables rivalrous (non-copyable) digital goods.
+     21 and Mining Everywhere 
+    Last week 21 Inc. finally announced exactly what they were working on. Well, not “exactly,” but at least they said something. Here’s  Srinivasan on Medium  :  1 
+    
+      21 is now officially open for business — and business development. After much hard work, we’ve created an embeddable mining chip which we call the BitShare that comes in a variety of form factors. The 21 BitShare can be embedded into an internet-connected device as a standalone chip or integrated into an existing chipset as a block of IP to generate a continuous stream of digital currency for use in a wide variety of applications. You can request a dev kit by signing up on our website to get started.
+    
+    That’s right, with the BitShare chip, your Internet-of-Things toaster can mine Bitcoin, along with your cell-phone, and your refrigerator, and, well, your USB charger,  which 21 Inc. is starting with  .  2  Srinivasan lists a whole hosts of potential benefits from this “free” revenue stream, including micropayments from a “free” revenue source,  3  subsidized devices, even subsidized chips with 21 Inc. IP.
+    Frankly, I think Srinivasan massively overstates his case with these examples — the economics for 
+    consumers
+    simply don’t add up, for now:  4 
+    
+      A single BitShare chip, given its minuscule processing capabilities, would need around 93 years to “win” a Bitcoin award
+      Thus, 21 Inc. will operate all of the BitShare chips it sells as a pool: Bitcoin income will be shared across all BitShare-installed devices, but only some — 21 Inc. will keep 75% of the revenue
+      Meanwhile, remember what Bitcoin is — digital electricity. And the consumers who own all of those BitShare-enabled devices will be paying 100% of the cost of that electricity
+    
+    Indeed, it makes far, far more sense for consumers to simply buy Bitcoin that has been harvested by the sort of industrial mining operations I talked about above on the open market.
+    But that brings us full circle: what consumers, and why? Read that Pauker quote again:
+    
+      “Bitcoin is going to change the way that people and businesses and even machines interact with each other,” he says. “But for Bitcoin to realize that vision we need mass adoption. It can’t just be for Silicon Valley.”
+    
+    Indeed, all the benefits of Bitcoin are right now mostly theoretical: making it real requires a massive journey from here to there, to a world where everyone uses Bitcoin just as they use the Internet, and I think 21 Inc. is best understood as a massive bridge-building project from today’s speculative curiosity to tomorrow’s essential trust network.
+     A (Digital) Wallet in Every Device 
+    When 21 Inc. first began in 2013, it was as a traditional mining operation: they brought on chip designers and built at least two generations of mining chips, earning 5,700 Bitcoins in 2013, and 69,000 Bitcoins in 2014. While it’s possible the company is pivoting to BitShare chips, I don’t think so; rather, 21 Inc.’s traditional mining pool gives it flexibility in making Srinivasan’s promises a reality. The company will actually have sufficient Bitcoin to guarantee an OEM that they will get a certain return for having placed a BitShare chip in the hardware they build, long before 21 Inc. achieves the sort of scale necessary to even fantasize about meaningful returns. 21 Inc. could also ensure consumers are compensated for the electricity they use, although I’m a bit skeptical about this — I think the play is primarily focused on getting manufacturers on board and hoping that future scale eventually ensures consumers get their fair share.
+    That may be dubious ethically, but the payoff could be huge: the dynamics of Bitcoin and its application for a variety of trusted transfers shifts tremendously when everyone has multiple hardware-based digital wallets — whether they know it or not! For example, if your phone has a hardware-based digital wallet, applications for trusted messaging or contract signing or a whole host of applications no one has yet thought of become approachable not only for those capable of setting up a Bitcoin wallet but also those able to simply download an app. Identification depends not on usernames or passwords but on unique digital signatures. The possibilities are endless, and, I think, good — and they only rely on a single  Satoshi  (0.00000001 Bitcoin, the smallest amount that can be transferred).
+    This is what I think Srinivasan means when he says “we are less concerned with bitcoin as a financial instrument and more interested in bitcoin as a protocol” and that “embedded mining will ultimately establish bitcoin as a fundamental system resource on par with CPU, bandwidth, hard drive space, and RAM.” It turns out lots of people are willing to spend electricity for essential functionality: nearly all of us run routers 24/7, whether we are using them or not, because instant access to the Internet is worth the electrical cost. A more extreme example are DVRs: our set-top boxes are  the biggest power drains in our houses  , costing $3 billion annually in electricity in the U.S. alone — nearly the entire worth of Bitcoin! — all in the service of making watching TV just a little bit more convenient. Why wouldn’t we eventually be ok with using just a bit of electricity not for profit but for mining the Satoshis we need to use an entirely new class of apps?
+     Bitcoin the Network 
+    This, then, is the bridge I believe 21 Inc. is building, and why they specifically and Bitcoin broadly deserve more attention: Bitcoin at a conceptual level is 
+    not about money
+    , and neither is 21 Inc., at least not directly.  5  It’s about dispersed trust and digital scarcity, and the massive number of 
+    new
+    applications that can be built on such concepts both similar yet wildly different from what is enabled by today’s Internet. And, while many of those applications are unimaginable — just as Facebook and Google were unimaginable at the birth of the Internet — what is very much certain is that step one is getting everyone, somehow, connected. As  Coindesk reported  , 21 Inc. is seeking to learn from the best:
+    
+      “The AOL CD of bitcoin,” the document called the strategy. “Give every user a free trial of bitcoin at near-zero marginal cost. A proven model to onboard millions.”
+    
+    Best keep an eye on your mailbox — and electricity meter.
+    
+    Discuss this Article on the  Stratechery Forum  ( 
+    members-only
+    )
+    
+      Has Medium replaced Tumblr for the default startup blog? [  ↩  ]
+      That is a slide from the 21 Inc. pitch deck; it’s quite old (note the reference to 21e6, 21 Inc.’s original name), and possibly not accurate [  ↩  ]
+      Journalism’s unicorn [  ↩  ]
+      Unless otherwise cited, 21 Inc. facts and figures come from  this report from Coindesk  [  ↩  ]
+      Indeed, an under-appreciated part of 21 Inc.’s approach is that all of these embedded chips will verify transactions without the incentive of monetary reward, allowing Bitcoin the protocol to survive even when there is no more Bitcoin to mine [  ↩  ]
+    
+    
+      
+         Share 
+        
+          
+              Facebook  
+              Twitter  
+              LinkedIn  
+              Email  
+            
+          
+        
+      
+    
+    
+       
+     Related
+     
+    
+  
+  
+
+" />
+    <meta property="og:description" content="
+  
+     21 Inc. and the Future of Bitcoin 
+    
+  Posted on             Wednesday, May 27, 2015 
+            Monday, March 26, 2018 
+     Author  by  Ben Thompson   
+    
+    
+  
+  
+  
+    It seems like no one has been talking about Bitcoin, at least for quite a while. That is what happens when the price of a seemingly magical currency plummets from a high of $1,242 in December, 2013 to a mere $238 as I write this, a drop of 81%. That means the total Bitcoin market cap is about $3.4 billion — far more than perhaps many expected even a few years ago, but a tiny number in the grand scheme of things (for the sake of comparison, Apple sold $3.9 billion worth of iPhones every week last holiday quarter).
+    That’s why many were shocked back in March when 21 Inc., a Bitcoin-focused startup co-founded by Andreessen Horowitz board partner Balaji Srinivasan, announced that it had raised a shockingly large $116 million in funding for…well, no one knew exactly. Srinivasan’s co-founder Matthew Pauker said at the time,  according to the Wall Street Journal  :
+    
+      “Bitcoin is going to change the way that people and businesses and even machines interact with each other,” he says. “But for Bitcoin to realize that vision we need mass adoption. It can’t just be for Silicon Valley.”
+    
+    Indeed. Perhaps the single biggest obstacle facing Bitcoin is that most folks don’t really understand exactly what it is, or why it’s so interesting.
+     Bitcoin in Three Bullet Points 
+    Here’s my best attempt to explain Bitcoin in three bullet points:
+    
+      Using cryptographic keys, I can convey to you X amount of Bitcoin (fractions or multiples). This is cool because I’m transferring something digitally — no real-world analog (and associated clearinghouse, like a bank) required.
+      Our transaction is submitted to a global peer-to-peer network, which verifies the transaction and enters it into a public record (the blockchain). Because the blockchain is a ledger of every Bitcoin ever made, any one Bitcoin, or fraction thereof, can only ever be owned by one person. This is cool because it prevents me from double-spending — transferring something multiple times. In other words, Bitcoin makes digital goods 
+     rivalrous
+     — uncopyable.
+      That global peer-to-peer network isn’t verifying transactions out of the goodness of its heart; rather, you may know of this verification process by a different name: mining. About every ten minutes one of the verifying computers is awarded with 25 Bitcoins for its effort (a current value of $5,950). This is cool because it means Bitcoin is a self-supporting system: transactions are verified with absolute certainty for free.
+    
+    Note that only the third bullet point really seems to have anything to do with money: what is most exciting about Bitcoin, at least from my perspective, are the first two points — that Bitcoin specifically, and the applications enabled by the Blockchain broadly, are digital (with all its attendant advantages, including worldwide instantaneous transferability, divisibility, tracking, etc.) yet scarce — in stark contrast to everything on the Internet that can be copied at no cost, much to the detriment of content producers in particular. This means Bitcoin could theoretically be used for all sorts of transactions, including messages, contracts, identity verification, etc., and, of course, monetary ones, where today’s digital applications just don’t work.
+     Mining and Money 
+    It is monetary transactions that dominate discussion of Bitcoin, not only because that application is the easiest to understand, but also because money is the driving force behind mining. While mining first took place on personal PCs, the fact it is an  embarrassingly parallel  computational problem meant it was well-suited to graphics cards. Soon, though, as the price of Bitcoin increased, miners began investing in  Application-Specific Integrated Circuits (ASIC)  , chips custom-built for Bitcoin and placing them in data-centers wherever electricity was cheap.
+    While ASICs represent the fixed cost of Bitcoin mining, the expense of electricity is the marginal cost; indeed, Bitcoin is, for all intents and purposes, the digital representation of electricity. This presents a downside of Bitcoin — it is “free” in part because many of the externalities of its production are borne by society broadly in the form of pollution — but also highlights that even when it comes to mining money is only tangential. Were Bitcoin to go to $1 the vast majority of miners in the world would stop production tomorrow, yet Bitcoin the protocol would continue, automatically changing the difficulty of its algorithm to keep up the same steady pace of transaction verification on whatever processing was available to the network.
+    Let me be explicit on this point: Bitcoin inherently has 
+    nothing
+    to do with money, all of its representations as a digital currency to the contrary. Rather, it is a protocol that enables rivalrous (non-copyable) digital goods.
+     21 and Mining Everywhere 
+    Last week 21 Inc. finally announced exactly what they were working on. Well, not “exactly,” but at least they said something. Here’s  Srinivasan on Medium  :  1 
+    
+      21 is now officially open for business — and business development. After much hard work, we’ve created an embeddable mining chip which we call the BitShare that comes in a variety of form factors. The 21 BitShare can be embedded into an internet-connected device as a standalone chip or integrated into an existing chipset as a block of IP to generate a continuous stream of digital currency for use in a wide variety of applications. You can request a dev kit by signing up on our website to get started.
+    
+    That’s right, with the BitShare chip, your Internet-of-Things toaster can mine Bitcoin, along with your cell-phone, and your refrigerator, and, well, your USB charger,  which 21 Inc. is starting with  .  2  Srinivasan lists a whole hosts of potential benefits from this “free” revenue stream, including micropayments from a “free” revenue source,  3  subsidized devices, even subsidized chips with 21 Inc. IP.
+    Frankly, I think Srinivasan massively overstates his case with these examples — the economics for 
+    consumers
+    simply don’t add up, for now:  4 
+    
+      A single BitShare chip, given its minuscule processing capabilities, would need around 93 years to “win” a Bitcoin award
+      Thus, 21 Inc. will operate all of the BitShare chips it sells as a pool: Bitcoin income will be shared across all BitShare-installed devices, but only some — 21 Inc. will keep 75% of the revenue
+      Meanwhile, remember what Bitcoin is — digital electricity. And the consumers who own all of those BitShare-enabled devices will be paying 100% of the cost of that electricity
+    
+    Indeed, it makes far, far more sense for consumers to simply buy Bitcoin that has been harvested by the sort of industrial mining operations I talked about above on the open market.
+    But that brings us full circle: what consumers, and why? Read that Pauker quote again:
+    
+      “Bitcoin is going to change the way that people and businesses and even machines interact with each other,” he says. “But for Bitcoin to realize that vision we need mass adoption. It can’t just be for Silicon Valley.”
+    
+    Indeed, all the benefits of Bitcoin are right now mostly theoretical: making it real requires a massive journey from here to there, to a world where everyone uses Bitcoin just as they use the Internet, and I think 21 Inc. is best understood as a massive bridge-building project from today’s speculative curiosity to tomorrow’s essential trust network.
+     A (Digital) Wallet in Every Device 
+    When 21 Inc. first began in 2013, it was as a traditional mining operation: they brought on chip designers and built at least two generations of mining chips, earning 5,700 Bitcoins in 2013, and 69,000 Bitcoins in 2014. While it’s possible the company is pivoting to BitShare chips, I don’t think so; rather, 21 Inc.’s traditional mining pool gives it flexibility in making Srinivasan’s promises a reality. The company will actually have sufficient Bitcoin to guarantee an OEM that they will get a certain return for having placed a BitShare chip in the hardware they build, long before 21 Inc. achieves the sort of scale necessary to even fantasize about meaningful returns. 21 Inc. could also ensure consumers are compensated for the electricity they use, although I’m a bit skeptical about this — I think the play is primarily focused on getting manufacturers on board and hoping that future scale eventually ensures consumers get their fair share.
+    That may be dubious ethically, but the payoff could be huge: the dynamics of Bitcoin and its application for a variety of trusted transfers shifts tremendously when everyone has multiple hardware-based digital wallets — whether they know it or not! For example, if your phone has a hardware-based digital wallet, applications for trusted messaging or contract signing or a whole host of applications no one has yet thought of become approachable not only for those capable of setting up a Bitcoin wallet but also those able to simply download an app. Identification depends not on usernames or passwords but on unique digital signatures. The possibilities are endless, and, I think, good — and they only rely on a single  Satoshi  (0.00000001 Bitcoin, the smallest amount that can be transferred).
+    This is what I think Srinivasan means when he says “we are less concerned with bitcoin as a financial instrument and more interested in bitcoin as a protocol” and that “embedded mining will ultimately establish bitcoin as a fundamental system resource on par with CPU, bandwidth, hard drive space, and RAM.” It turns out lots of people are willing to spend electricity for essential functionality: nearly all of us run routers 24/7, whether we are using them or not, because instant access to the Internet is worth the electrical cost. A more extreme example are DVRs: our set-top boxes are  the biggest power drains in our houses  , costing $3 billion annually in electricity in the U.S. alone — nearly the entire worth of Bitcoin! — all in the service of making watching TV just a little bit more convenient. Why wouldn’t we eventually be ok with using just a bit of electricity not for profit but for mining the Satoshis we need to use an entirely new class of apps?
+     Bitcoin the Network 
+    This, then, is the bridge I believe 21 Inc. is building, and why they specifically and Bitcoin broadly deserve more attention: Bitcoin at a conceptual level is 
+    not about money
+    , and neither is 21 Inc., at least not directly.  5  It’s about dispersed trust and digital scarcity, and the massive number of 
+    new
+    applications that can be built on such concepts both similar yet wildly different from what is enabled by today’s Internet. And, while many of those applications are unimaginable — just as Facebook and Google were unimaginable at the birth of the Internet — what is very much certain is that step one is getting everyone, somehow, connected. As  Coindesk reported  , 21 Inc. is seeking to learn from the best:
+    
+      “The AOL CD of bitcoin,” the document called the strategy. “Give every user a free trial of bitcoin at near-zero marginal cost. A proven model to onboard millions.”
+    
+    Best keep an eye on your mailbox — and electricity meter.
+    
+    Discuss this Article on the  Stratechery Forum  ( 
+    members-only
+    )
+    
+      Has Medium replaced Tumblr for the default startup blog? [  ↩  ]
+      That is a slide from the 21 Inc. pitch deck; it’s quite old (note the reference to 21e6, 21 Inc.’s original name), and possibly not accurate [  ↩  ]
+      Journalism’s unicorn [  ↩  ]
+      Unless otherwise cited, 21 Inc. facts and figures come from  this report from Coindesk  [  ↩  ]
+      Indeed, an under-appreciated part of 21 Inc.’s approach is that all of these embedded chips will verify transactions without the incentive of monetary reward, allowing Bitcoin the protocol to survive even when there is no more Bitcoin to mine [  ↩  ]
+    
+    
+      
+         Share 
+        
+          
+              Facebook  
+              Twitter  
+              LinkedIn  
+              Email  
+            
+          
+        
+      
+    
+    
+       
+     Related
+     
+    
+  
+  
+
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="21 Inc. and the Future of Bitcoin" />
+    <meta property="twitter:title" content="21 Inc. and the Future of Bitcoin" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2015%2F21-inc-and-the-future-of-bitcoin%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2015/21-inc-and-the-future-of-bitcoin/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2015/21-inc-and-the-future-of-bitcoin/&text=21 Inc. and the Future of Bitcoin&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2015/21-inc-and-the-future-of-bitcoin/&title=21 Inc. and the Future of Bitcoin" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2015/21-inc-and-the-future-of-bitcoin/&title=21 Inc. and the Future of Bitcoin" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=21 Inc. and the Future of Bitcoin&body=
+  
+     21 Inc. and the Future of Bitcoin 
+    
+  Posted on             Wednesday, May 27, 2015 
+            Monday, March 26, 2018 
+     Author  by  Ben Thompson   
+    
+    
+  
+  
+  
+    It seems like no one has been talking about Bitcoin, at least for quite a while. That is what happens when the price of a seemingly magical currency plummets from a high of $1,242 in December, 2013 to a mere $238 as I write this, a drop of 81%. That means the total Bitcoin market cap is about $3.4 billion — far more than perhaps many expected even a few years ago, but a tiny number in the grand scheme of things (for the sake of comparison, Apple sold $3.9 billion worth of iPhones every week last holiday quarter).
+    That’s why many were shocked back in March when 21 Inc., a Bitcoin-focused startup co-founded by Andreessen Horowitz board partner Balaji Srinivasan, announced that it had raised a shockingly large $116 million in funding for…well, no one knew exactly. Srinivasan’s co-founder Matthew Pauker said at the time,  according to the Wall Street Journal  :
+    
+      “Bitcoin is going to change the way that people and businesses and even machines interact with each other,” he says. “But for Bitcoin to realize that vision we need mass adoption. It can’t just be for Silicon Valley.”
+    
+    Indeed. Perhaps the single biggest obstacle facing Bitcoin is that most folks don’t really understand exactly what it is, or why it’s so interesting.
+     Bitcoin in Three Bullet Points 
+    Here’s my best attempt to explain Bitcoin in three bullet points:
+    
+      Using cryptographic keys, I can convey to you X amount of Bitcoin (fractions or multiples). This is cool because I’m transferring something digitally — no real-world analog (and associated clearinghouse, like a bank) required.
+      Our transaction is submitted to a global peer-to-peer network, which verifies the transaction and enters it into a public record (the blockchain). Because the blockchain is a ledger of every Bitcoin ever made, any one Bitcoin, or fraction thereof, can only ever be owned by one person. This is cool because it prevents me from double-spending — transferring something multiple times. In other words, Bitcoin makes digital goods 
+     rivalrous
+     — uncopyable.
+      That global peer-to-peer network isn’t verifying transactions out of the goodness of its heart; rather, you may know of this verification process by a different name: mining. About every ten minutes one of the verifying computers is awarded with 25 Bitcoins for its effort (a current value of $5,950). This is cool because it means Bitcoin is a self-supporting system: transactions are verified with absolute certainty for free.
+    
+    Note that only the third bullet point really seems to have anything to do with money: what is most exciting about Bitcoin, at least from my perspective, are the first two points — that Bitcoin specifically, and the applications enabled by the Blockchain broadly, are digital (with all its attendant advantages, including worldwide instantaneous transferability, divisibility, tracking, etc.) yet scarce — in stark contrast to everything on the Internet that can be copied at no cost, much to the detriment of content producers in particular. This means Bitcoin could theoretically be used for all sorts of transactions, including messages, contracts, identity verification, etc., and, of course, monetary ones, where today’s digital applications just don’t work.
+     Mining and Money 
+    It is monetary transactions that dominate discussion of Bitcoin, not only because that application is the easiest to understand, but also because money is the driving force behind mining. While mining first took place on personal PCs, the fact it is an  embarrassingly parallel  computational problem meant it was well-suited to graphics cards. Soon, though, as the price of Bitcoin increased, miners began investing in  Application-Specific Integrated Circuits (ASIC)  , chips custom-built for Bitcoin and placing them in data-centers wherever electricity was cheap.
+    While ASICs represent the fixed cost of Bitcoin mining, the expense of electricity is the marginal cost; indeed, Bitcoin is, for all intents and purposes, the digital representation of electricity. This presents a downside of Bitcoin — it is “free” in part because many of the externalities of its production are borne by society broadly in the form of pollution — but also highlights that even when it comes to mining money is only tangential. Were Bitcoin to go to $1 the vast majority of miners in the world would stop production tomorrow, yet Bitcoin the protocol would continue, automatically changing the difficulty of its algorithm to keep up the same steady pace of transaction verification on whatever processing was available to the network.
+    Let me be explicit on this point: Bitcoin inherently has 
+    nothing
+    to do with money, all of its representations as a digital currency to the contrary. Rather, it is a protocol that enables rivalrous (non-copyable) digital goods.
+     21 and Mining Everywhere 
+    Last week 21 Inc. finally announced exactly what they were working on. Well, not “exactly,” but at least they said something. Here’s  Srinivasan on Medium  :  1 
+    
+      21 is now officially open for business — and business development. After much hard work, we’ve created an embeddable mining chip which we call the BitShare that comes in a variety of form factors. The 21 BitShare can be embedded into an internet-connected device as a standalone chip or integrated into an existing chipset as a block of IP to generate a continuous stream of digital currency for use in a wide variety of applications. You can request a dev kit by signing up on our website to get started.
+    
+    That’s right, with the BitShare chip, your Internet-of-Things toaster can mine Bitcoin, along with your cell-phone, and your refrigerator, and, well, your USB charger,  which 21 Inc. is starting with  .  2  Srinivasan lists a whole hosts of potential benefits from this “free” revenue stream, including micropayments from a “free” revenue source,  3  subsidized devices, even subsidized chips with 21 Inc. IP.
+    Frankly, I think Srinivasan massively overstates his case with these examples — the economics for 
+    consumers
+    simply don’t add up, for now:  4 
+    
+      A single BitShare chip, given its minuscule processing capabilities, would need around 93 years to “win” a Bitcoin award
+      Thus, 21 Inc. will operate all of the BitShare chips it sells as a pool: Bitcoin income will be shared across all BitShare-installed devices, but only some — 21 Inc. will keep 75% of the revenue
+      Meanwhile, remember what Bitcoin is — digital electricity. And the consumers who own all of those BitShare-enabled devices will be paying 100% of the cost of that electricity
+    
+    Indeed, it makes far, far more sense for consumers to simply buy Bitcoin that has been harvested by the sort of industrial mining operations I talked about above on the open market.
+    But that brings us full circle: what consumers, and why? Read that Pauker quote again:
+    
+      “Bitcoin is going to change the way that people and businesses and even machines interact with each other,” he says. “But for Bitcoin to realize that vision we need mass adoption. It can’t just be for Silicon Valley.”
+    
+    Indeed, all the benefits of Bitcoin are right now mostly theoretical: making it real requires a massive journey from here to there, to a world where everyone uses Bitcoin just as they use the Internet, and I think 21 Inc. is best understood as a massive bridge-building project from today’s speculative curiosity to tomorrow’s essential trust network.
+     A (Digital) Wallet in Every Device 
+    When 21 Inc. first began in 2013, it was as a traditional mining operation: they brought on chip designers and built at least two generations of mining chips, earning 5,700 Bitcoins in 2013, and 69,000 Bitcoins in 2014. While it’s possible the company is pivoting to BitShare chips, I don’t think so; rather, 21 Inc.’s traditional mining pool gives it flexibility in making Srinivasan’s promises a reality. The company will actually have sufficient Bitcoin to guarantee an OEM that they will get a certain return for having placed a BitShare chip in the hardware they build, long before 21 Inc. achieves the sort of scale necessary to even fantasize about meaningful returns. 21 Inc. could also ensure consumers are compensated for the electricity they use, although I’m a bit skeptical about this — I think the play is primarily focused on getting manufacturers on board and hoping that future scale eventually ensures consumers get their fair share.
+    That may be dubious ethically, but the payoff could be huge: the dynamics of Bitcoin and its application for a variety of trusted transfers shifts tremendously when everyone has multiple hardware-based digital wallets — whether they know it or not! For example, if your phone has a hardware-based digital wallet, applications for trusted messaging or contract signing or a whole host of applications no one has yet thought of become approachable not only for those capable of setting up a Bitcoin wallet but also those able to simply download an app. Identification depends not on usernames or passwords but on unique digital signatures. The possibilities are endless, and, I think, good — and they only rely on a single  Satoshi  (0.00000001 Bitcoin, the smallest amount that can be transferred).
+    This is what I think Srinivasan means when he says “we are less concerned with bitcoin as a financial instrument and more interested in bitcoin as a protocol” and that “embedded mining will ultimately establish bitcoin as a fundamental system resource on par with CPU, bandwidth, hard drive space, and RAM.” It turns out lots of people are willing to spend electricity for essential functionality: nearly all of us run routers 24/7, whether we are using them or not, because instant access to the Internet is worth the electrical cost. A more extreme example are DVRs: our set-top boxes are  the biggest power drains in our houses  , costing $3 billion annually in electricity in the U.S. alone — nearly the entire worth of Bitcoin! — all in the service of making watching TV just a little bit more convenient. Why wouldn’t we eventually be ok with using just a bit of electricity not for profit but for mining the Satoshis we need to use an entirely new class of apps?
+     Bitcoin the Network 
+    This, then, is the bridge I believe 21 Inc. is building, and why they specifically and Bitcoin broadly deserve more attention: Bitcoin at a conceptual level is 
+    not about money
+    , and neither is 21 Inc., at least not directly.  5  It’s about dispersed trust and digital scarcity, and the massive number of 
+    new
+    applications that can be built on such concepts both similar yet wildly different from what is enabled by today’s Internet. And, while many of those applications are unimaginable — just as Facebook and Google were unimaginable at the birth of the Internet — what is very much certain is that step one is getting everyone, somehow, connected. As  Coindesk reported  , 21 Inc. is seeking to learn from the best:
+    
+      “The AOL CD of bitcoin,” the document called the strategy. “Give every user a free trial of bitcoin at near-zero marginal cost. A proven model to onboard millions.”
+    
+    Best keep an eye on your mailbox — and electricity meter.
+    
+    Discuss this Article on the  Stratechery Forum  ( 
+    members-only
+    )
+    
+      Has Medium replaced Tumblr for the default startup blog? [  ↩  ]
+      That is a slide from the 21 Inc. pitch deck; it’s quite old (note the reference to 21e6, 21 Inc.’s original name), and possibly not accurate [  ↩  ]
+      Journalism’s unicorn [  ↩  ]
+      Unless otherwise cited, 21 Inc. facts and figures come from  this report from Coindesk  [  ↩  ]
+      Indeed, an under-appreciated part of 21 Inc.’s approach is that all of these embedded chips will verify transactions without the incentive of monetary reward, allowing Bitcoin the protocol to survive even when there is no more Bitcoin to mine [  ↩  ]
+    
+    
+      
+         Share 
+        
+          
+              Facebook  
+              Twitter  
+              LinkedIn  
+              Email  
+            
+          
+        
+      
+    
+    
+       
+     Related
+     
+    
+  
+  
+
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2015/21-inc-and-the-future-of-bitcoin/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2015/21-inc-and-the-future-of-bitcoin/&title=21 Inc. and the Future of Bitcoin&caption=
+  
+     21 Inc. and the Future of Bitcoin 
+    
+  Posted on             Wednesday, May 27, 2015 
+            Monday, March 26, 2018 
+     Author  by  Ben Thompson   
+    
+    
+  
+  
+  
+    It seems like no one has been talking about Bitcoin, at least for quite a while. That is what happens when the price of a seemingly magical currency plummets from a high of $1,242 in December, 2013 to a mere $238 as I write this, a drop of 81%. That means the total Bitcoin market cap is about $3.4 billion — far more than perhaps many expected even a few years ago, but a tiny number in the grand scheme of things (for the sake of comparison, Apple sold $3.9 billion worth of iPhones every week last holiday quarter).
+    That’s why many were shocked back in March when 21 Inc., a Bitcoin-focused startup co-founded by Andreessen Horowitz board partner Balaji Srinivasan, announced that it had raised a shockingly large $116 million in funding for…well, no one knew exactly. Srinivasan’s co-founder Matthew Pauker said at the time,  according to the Wall Street Journal  :
+    
+      “Bitcoin is going to change the way that people and businesses and even machines interact with each other,” he says. “But for Bitcoin to realize that vision we need mass adoption. It can’t just be for Silicon Valley.”
+    
+    Indeed. Perhaps the single biggest obstacle facing Bitcoin is that most folks don’t really understand exactly what it is, or why it’s so interesting.
+     Bitcoin in Three Bullet Points 
+    Here’s my best attempt to explain Bitcoin in three bullet points:
+    
+      Using cryptographic keys, I can convey to you X amount of Bitcoin (fractions or multiples). This is cool because I’m transferring something digitally — no real-world analog (and associated clearinghouse, like a bank) required.
+      Our transaction is submitted to a global peer-to-peer network, which verifies the transaction and enters it into a public record (the blockchain). Because the blockchain is a ledger of every Bitcoin ever made, any one Bitcoin, or fraction thereof, can only ever be owned by one person. This is cool because it prevents me from double-spending — transferring something multiple times. In other words, Bitcoin makes digital goods 
+     rivalrous
+     — uncopyable.
+      That global peer-to-peer network isn’t verifying transactions out of the goodness of its heart; rather, you may know of this verification process by a different name: mining. About every ten minutes one of the verifying computers is awarded with 25 Bitcoins for its effort (a current value of $5,950). This is cool because it means Bitcoin is a self-supporting system: transactions are verified with absolute certainty for free.
+    
+    Note that only the third bullet point really seems to have anything to do with money: what is most exciting about Bitcoin, at least from my perspective, are the first two points — that Bitcoin specifically, and the applications enabled by the Blockchain broadly, are digital (with all its attendant advantages, including worldwide instantaneous transferability, divisibility, tracking, etc.) yet scarce — in stark contrast to everything on the Internet that can be copied at no cost, much to the detriment of content producers in particular. This means Bitcoin could theoretically be used for all sorts of transactions, including messages, contracts, identity verification, etc., and, of course, monetary ones, where today’s digital applications just don’t work.
+     Mining and Money 
+    It is monetary transactions that dominate discussion of Bitcoin, not only because that application is the easiest to understand, but also because money is the driving force behind mining. While mining first took place on personal PCs, the fact it is an  embarrassingly parallel  computational problem meant it was well-suited to graphics cards. Soon, though, as the price of Bitcoin increased, miners began investing in  Application-Specific Integrated Circuits (ASIC)  , chips custom-built for Bitcoin and placing them in data-centers wherever electricity was cheap.
+    While ASICs represent the fixed cost of Bitcoin mining, the expense of electricity is the marginal cost; indeed, Bitcoin is, for all intents and purposes, the digital representation of electricity. This presents a downside of Bitcoin — it is “free” in part because many of the externalities of its production are borne by society broadly in the form of pollution — but also highlights that even when it comes to mining money is only tangential. Were Bitcoin to go to $1 the vast majority of miners in the world would stop production tomorrow, yet Bitcoin the protocol would continue, automatically changing the difficulty of its algorithm to keep up the same steady pace of transaction verification on whatever processing was available to the network.
+    Let me be explicit on this point: Bitcoin inherently has 
+    nothing
+    to do with money, all of its representations as a digital currency to the contrary. Rather, it is a protocol that enables rivalrous (non-copyable) digital goods.
+     21 and Mining Everywhere 
+    Last week 21 Inc. finally announced exactly what they were working on. Well, not “exactly,” but at least they said something. Here’s  Srinivasan on Medium  :  1 
+    
+      21 is now officially open for business — and business development. After much hard work, we’ve created an embeddable mining chip which we call the BitShare that comes in a variety of form factors. The 21 BitShare can be embedded into an internet-connected device as a standalone chip or integrated into an existing chipset as a block of IP to generate a continuous stream of digital currency for use in a wide variety of applications. You can request a dev kit by signing up on our website to get started.
+    
+    That’s right, with the BitShare chip, your Internet-of-Things toaster can mine Bitcoin, along with your cell-phone, and your refrigerator, and, well, your USB charger,  which 21 Inc. is starting with  .  2  Srinivasan lists a whole hosts of potential benefits from this “free” revenue stream, including micropayments from a “free” revenue source,  3  subsidized devices, even subsidized chips with 21 Inc. IP.
+    Frankly, I think Srinivasan massively overstates his case with these examples — the economics for 
+    consumers
+    simply don’t add up, for now:  4 
+    
+      A single BitShare chip, given its minuscule processing capabilities, would need around 93 years to “win” a Bitcoin award
+      Thus, 21 Inc. will operate all of the BitShare chips it sells as a pool: Bitcoin income will be shared across all BitShare-installed devices, but only some — 21 Inc. will keep 75% of the revenue
+      Meanwhile, remember what Bitcoin is — digital electricity. And the consumers who own all of those BitShare-enabled devices will be paying 100% of the cost of that electricity
+    
+    Indeed, it makes far, far more sense for consumers to simply buy Bitcoin that has been harvested by the sort of industrial mining operations I talked about above on the open market.
+    But that brings us full circle: what consumers, and why? Read that Pauker quote again:
+    
+      “Bitcoin is going to change the way that people and businesses and even machines interact with each other,” he says. “But for Bitcoin to realize that vision we need mass adoption. It can’t just be for Silicon Valley.”
+    
+    Indeed, all the benefits of Bitcoin are right now mostly theoretical: making it real requires a massive journey from here to there, to a world where everyone uses Bitcoin just as they use the Internet, and I think 21 Inc. is best understood as a massive bridge-building project from today’s speculative curiosity to tomorrow’s essential trust network.
+     A (Digital) Wallet in Every Device 
+    When 21 Inc. first began in 2013, it was as a traditional mining operation: they brought on chip designers and built at least two generations of mining chips, earning 5,700 Bitcoins in 2013, and 69,000 Bitcoins in 2014. While it’s possible the company is pivoting to BitShare chips, I don’t think so; rather, 21 Inc.’s traditional mining pool gives it flexibility in making Srinivasan’s promises a reality. The company will actually have sufficient Bitcoin to guarantee an OEM that they will get a certain return for having placed a BitShare chip in the hardware they build, long before 21 Inc. achieves the sort of scale necessary to even fantasize about meaningful returns. 21 Inc. could also ensure consumers are compensated for the electricity they use, although I’m a bit skeptical about this — I think the play is primarily focused on getting manufacturers on board and hoping that future scale eventually ensures consumers get their fair share.
+    That may be dubious ethically, but the payoff could be huge: the dynamics of Bitcoin and its application for a variety of trusted transfers shifts tremendously when everyone has multiple hardware-based digital wallets — whether they know it or not! For example, if your phone has a hardware-based digital wallet, applications for trusted messaging or contract signing or a whole host of applications no one has yet thought of become approachable not only for those capable of setting up a Bitcoin wallet but also those able to simply download an app. Identification depends not on usernames or passwords but on unique digital signatures. The possibilities are endless, and, I think, good — and they only rely on a single  Satoshi  (0.00000001 Bitcoin, the smallest amount that can be transferred).
+    This is what I think Srinivasan means when he says “we are less concerned with bitcoin as a financial instrument and more interested in bitcoin as a protocol” and that “embedded mining will ultimately establish bitcoin as a fundamental system resource on par with CPU, bandwidth, hard drive space, and RAM.” It turns out lots of people are willing to spend electricity for essential functionality: nearly all of us run routers 24/7, whether we are using them or not, because instant access to the Internet is worth the electrical cost. A more extreme example are DVRs: our set-top boxes are  the biggest power drains in our houses  , costing $3 billion annually in electricity in the U.S. alone — nearly the entire worth of Bitcoin! — all in the service of making watching TV just a little bit more convenient. Why wouldn’t we eventually be ok with using just a bit of electricity not for profit but for mining the Satoshis we need to use an entirely new class of apps?
+     Bitcoin the Network 
+    This, then, is the bridge I believe 21 Inc. is building, and why they specifically and Bitcoin broadly deserve more attention: Bitcoin at a conceptual level is 
+    not about money
+    , and neither is 21 Inc., at least not directly.  5  It’s about dispersed trust and digital scarcity, and the massive number of 
+    new
+    applications that can be built on such concepts both similar yet wildly different from what is enabled by today’s Internet. And, while many of those applications are unimaginable — just as Facebook and Google were unimaginable at the birth of the Internet — what is very much certain is that step one is getting everyone, somehow, connected. As  Coindesk reported  , 21 Inc. is seeking to learn from the best:
+    
+      “The AOL CD of bitcoin,” the document called the strategy. “Give every user a free trial of bitcoin at near-zero marginal cost. A proven model to onboard millions.”
+    
+    Best keep an eye on your mailbox — and electricity meter.
+    
+    Discuss this Article on the  Stratechery Forum  ( 
+    members-only
+    )
+    
+      Has Medium replaced Tumblr for the default startup blog? [  ↩  ]
+      That is a slide from the 21 Inc. pitch deck; it’s quite old (note the reference to 21e6, 21 Inc.’s original name), and possibly not accurate [  ↩  ]
+      Journalism’s unicorn [  ↩  ]
+      Unless otherwise cited, 21 Inc. facts and figures come from  this report from Coindesk  [  ↩  ]
+      Indeed, an under-appreciated part of 21 Inc.’s approach is that all of these embedded chips will verify transactions without the incentive of monetary reward, allowing Bitcoin the protocol to survive even when there is no more Bitcoin to mine [  ↩  ]
+    
+    
+      
+         Share 
+        
+          
+              Facebook  
+              Twitter  
+              LinkedIn  
+              Email  
+            
+          
+        
+      
+    
+    
+       
+     Related
+     
+    
+  
+  
+
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=21 Inc. and the Future of Bitcoin&url=https://stratechery.com/2015/21-inc-and-the-future-of-bitcoin/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>21 Inc. and the Future of Bitcoin</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2015-05-27
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2015/21-inc-and-the-future-of-bitcoin/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <article class="post-1679 post type-post status-publish format-standard hentry category-articles topics-bitcoin topics-cryptocurrencies topics-fintech concepts-business-models concepts-evolution-of-technology concepts-incentives concepts-making-money concepts-the-future companies-21-inc" id="post-1679">
+  <header class="entry-header">
+    <h1 class="entry-title" id="inc-and-the-future-of-bitcoin-"> 21 Inc. and the Future of Bitcoin </h1>
+    <div class="entry-meta">
+<span class="posted-on"> <span class="screen-reader-text"> Posted on </span>           <time class="entry-date published" datetime="2015-05-27T05:05:02-07:00"> Wednesday, May 27, 2015 </time>
+           <time class="updated" datetime="2018-03-26T23:19:00-07:00"> Monday, March 26, 2018 </time>
+ </span> <span class="byline"> <span class="author vcard"> <span class="screen-reader-text"> Author </span> by <a class="url fn n" href="https://stratechery.com/author/stratechery/"> Ben Thompson </a> </span> </span>
+    </div>
+    <!-- .entry-meta -->
+  </header>
+  <!-- .entry-header -->
+  <div class="entry-content">
+    <p>It seems like no one has been talking about Bitcoin, at least for quite a while. That is what happens when the price of a seemingly magical currency plummets from a high of $1,242 in December, 2013 to a mere $238 as I write this, a drop of 81%. That means the total Bitcoin market cap is about $3.4 billion — far more than perhaps many expected even a few years ago, but a tiny number in the grand scheme of things (for the sake of comparison, Apple sold $3.9 billion worth of iPhones every week last holiday quarter).</p>
+    <p>That’s why many were shocked back in March when 21 Inc., a Bitcoin-focused startup co-founded by Andreessen Horowitz board partner Balaji Srinivasan, announced that it had raised a shockingly large $116 million in funding for…well, no one knew exactly. Srinivasan’s co-founder Matthew Pauker said at the time, <a href="http://blogs.wsj.com/digits/2015/03/10/secretive-Bitcoin-startup-21-reveals-record-funds-hints-at-mass-consumer-play/"> according to the Wall Street Journal </a> :</p>
+    <blockquote>
+      <p>“Bitcoin is going to change the way that people and businesses and even machines interact with each other,” he says. “But for Bitcoin to realize that vision we need mass adoption. It can’t just be for Silicon Valley.”</p>
+    </blockquote>
+    <p>Indeed. Perhaps the single biggest obstacle facing Bitcoin is that most folks don’t really understand exactly what it is, or why it’s so interesting.</p>
+    <h4 id="bitcoin-in-three-bullet-points-"> Bitcoin in Three Bullet Points </h4>
+    <p>Here’s my best attempt to explain Bitcoin in three bullet points:</p>
+    <ul>
+      <li>Using cryptographic keys, I can convey to you X amount of Bitcoin (fractions or multiples). This is cool because I’m transferring something digitally — no real-world analog (and associated clearinghouse, like a bank) required.</li>
+      <li>Our transaction is submitted to a global peer-to-peer network, which verifies the transaction and enters it into a public record (the blockchain). Because the blockchain is a ledger of every Bitcoin ever made, any one Bitcoin, or fraction thereof, can only ever be owned by one person. This is cool because it prevents me from double-spending — transferring something multiple times. In other words, Bitcoin makes digital goods <em>
+     rivalrous
+    </em> — uncopyable.</li>
+      <li>That global peer-to-peer network isn’t verifying transactions out of the goodness of its heart; rather, you may know of this verification process by a different name: mining. About every ten minutes one of the verifying computers is awarded with 25 Bitcoins for its effort (a current value of $5,950). This is cool because it means Bitcoin is a self-supporting system: transactions are verified with absolute certainty for free.</li>
+    </ul>
+    <p>Note that only the third bullet point really seems to have anything to do with money: what is most exciting about Bitcoin, at least from my perspective, are the first two points — that Bitcoin specifically, and the applications enabled by the Blockchain broadly, are digital (with all its attendant advantages, including worldwide instantaneous transferability, divisibility, tracking, etc.) yet scarce — in stark contrast to everything on the Internet that can be copied at no cost, much to the detriment of content producers in particular. This means Bitcoin could theoretically be used for all sorts of transactions, including messages, contracts, identity verification, etc., and, of course, monetary ones, where today’s digital applications just don’t work.</p>
+    <h4 id="mining-and-money-"> Mining and Money </h4>
+    <p>It is monetary transactions that dominate discussion of Bitcoin, not only because that application is the easiest to understand, but also because money is the driving force behind mining. While mining first took place on personal PCs, the fact it is an <a href="http://en.wikipedia.org/wiki/Embarrassingly_parallel"> embarrassingly parallel </a> computational problem meant it was well-suited to graphics cards. Soon, though, as the price of Bitcoin increased, miners began investing in <a href="http://en.wikipedia.org/wiki/Application-specific_integrated_circuit"> Application-Specific Integrated Circuits (ASIC) </a> , chips custom-built for Bitcoin and placing them in data-centers wherever electricity was cheap.</p>
+    <p>While ASICs represent the fixed cost of Bitcoin mining, the expense of electricity is the marginal cost; indeed, Bitcoin is, for all intents and purposes, the digital representation of electricity. This presents a downside of Bitcoin — it is “free” in part because many of the externalities of its production are borne by society broadly in the form of pollution — but also highlights that even when it comes to mining money is only tangential. Were Bitcoin to go to $1 the vast majority of miners in the world would stop production tomorrow, yet Bitcoin the protocol would continue, automatically changing the difficulty of its algorithm to keep up the same steady pace of transaction verification on whatever processing was available to the network.</p>
+    <p>Let me be explicit on this point: Bitcoin inherently has <em>
+    nothing
+   </em> to do with money, all of its representations as a digital currency to the contrary. Rather, it is a protocol that enables rivalrous (non-copyable) digital goods.</p>
+    <h4 id="and-mining-everywhere-"> 21 and Mining Everywhere </h4>
+    <p>Last week 21 Inc. finally announced exactly what they were working on. Well, not “exactly,” but at least they said something. Here’s <a href="https://medium.com/@21dotco/a-bitcoin-miner-in-every-device-and-in-every-hand-e315b40f2821"> Srinivasan on Medium </a> : <a class="footnote-link footnote-identifier-link" href="#footnote_0_1679" id="identifier_0_1679" title="Has Medium replaced Tumblr for the default startup blog?"> 1 </a></p>
+    <blockquote>
+      <p>21 is now officially open for business — and business development. After much hard work, we’ve created an embeddable mining chip which we call the BitShare that comes in a variety of form factors. The 21 BitShare can be embedded into an internet-connected device as a standalone chip or integrated into an existing chipset as a block of IP to generate a continuous stream of digital currency for use in a wide variety of applications. You can request a dev kit by signing up on our website to get started.</p>
+    </blockquote>
+    <p>That’s right, with the BitShare chip, your Internet-of-Things toaster can mine Bitcoin, along with your cell-phone, and your refrigerator, and, well, your USB charger, <a href="http://i.imgur.com/mp6ZIml.png"> which 21 Inc. is starting with </a> . <a class="footnote-link footnote-identifier-link" href="#footnote_1_1679" id="identifier_1_1679" title="That is a slide from the 21 Inc. pitch deck; it’s quite old (note the reference to 21e6, 21 Inc.’s original name), and possibly not accurate"> 2 </a> Srinivasan lists a whole hosts of potential benefits from this “free” revenue stream, including micropayments from a “free” revenue source, <a class="footnote-link footnote-identifier-link" href="#footnote_2_1679" id="identifier_2_1679" title="Journalism’s unicorn"> 3 </a> subsidized devices, even subsidized chips with 21 Inc. IP.</p>
+    <p>Frankly, I think Srinivasan massively overstates his case with these examples — the economics for <em>
+    consumers
+   </em> simply don’t add up, for now: <a class="footnote-link footnote-identifier-link" href="#footnote_3_1679" id="identifier_3_1679" title="Unless otherwise cited, 21 Inc. facts and figures come from this report from Coindesk"> 4 </a></p>
+    <ul>
+      <li>A single BitShare chip, given its minuscule processing capabilities, would need around 93 years to “win” a Bitcoin award</li>
+      <li>Thus, 21 Inc. will operate all of the BitShare chips it sells as a pool: Bitcoin income will be shared across all BitShare-installed devices, but only some — 21 Inc. will keep 75% of the revenue</li>
+      <li>Meanwhile, remember what Bitcoin is — digital electricity. And the consumers who own all of those BitShare-enabled devices will be paying 100% of the cost of that electricity</li>
+    </ul>
+    <p>Indeed, it makes far, far more sense for consumers to simply buy Bitcoin that has been harvested by the sort of industrial mining operations I talked about above on the open market.</p>
+    <p>But that brings us full circle: what consumers, and why? Read that Pauker quote again:</p>
+    <blockquote>
+      <p>“Bitcoin is going to change the way that people and businesses and even machines interact with each other,” he says. “But for Bitcoin to realize that vision we need mass adoption. It can’t just be for Silicon Valley.”</p>
+    </blockquote>
+    <p>Indeed, all the benefits of Bitcoin are right now mostly theoretical: making it real requires a massive journey from here to there, to a world where everyone uses Bitcoin just as they use the Internet, and I think 21 Inc. is best understood as a massive bridge-building project from today’s speculative curiosity to tomorrow’s essential trust network.</p>
+    <h4 id="a-digital-wallet-in-every-device-"> A (Digital) Wallet in Every Device </h4>
+    <p>When 21 Inc. first began in 2013, it was as a traditional mining operation: they brought on chip designers and built at least two generations of mining chips, earning 5,700 Bitcoins in 2013, and 69,000 Bitcoins in 2014. While it’s possible the company is pivoting to BitShare chips, I don’t think so; rather, 21 Inc.’s traditional mining pool gives it flexibility in making Srinivasan’s promises a reality. The company will actually have sufficient Bitcoin to guarantee an OEM that they will get a certain return for having placed a BitShare chip in the hardware they build, long before 21 Inc. achieves the sort of scale necessary to even fantasize about meaningful returns. 21 Inc. could also ensure consumers are compensated for the electricity they use, although I’m a bit skeptical about this — I think the play is primarily focused on getting manufacturers on board and hoping that future scale eventually ensures consumers get their fair share.</p>
+    <p>That may be dubious ethically, but the payoff could be huge: the dynamics of Bitcoin and its application for a variety of trusted transfers shifts tremendously when everyone has multiple hardware-based digital wallets — whether they know it or not! For example, if your phone has a hardware-based digital wallet, applications for trusted messaging or contract signing or a whole host of applications no one has yet thought of become approachable not only for those capable of setting up a Bitcoin wallet but also those able to simply download an app. Identification depends not on usernames or passwords but on unique digital signatures. The possibilities are endless, and, I think, good — and they only rely on a single <a href="http://bitcoin.stackexchange.com/questions/114/what-is-a-satoshi"> Satoshi </a> (0.00000001 Bitcoin, the smallest amount that can be transferred).</p>
+    <p>This is what I think Srinivasan means when he says “we are less concerned with bitcoin as a financial instrument and more interested in bitcoin as a protocol” and that “embedded mining will ultimately establish bitcoin as a fundamental system resource on par with CPU, bandwidth, hard drive space, and RAM.” It turns out lots of people are willing to spend electricity for essential functionality: nearly all of us run routers 24/7, whether we are using them or not, because instant access to the Internet is worth the electrical cost. A more extreme example are DVRs: our set-top boxes are <a href="http://www.nytimes.com/2011/06/26/us/26cable.html?pagewanted=2&amp;_r=2"> the biggest power drains in our houses </a> , costing $3 billion annually in electricity in the U.S. alone — nearly the entire worth of Bitcoin! — all in the service of making watching TV just a little bit more convenient. Why wouldn’t we eventually be ok with using just a bit of electricity not for profit but for mining the Satoshis we need to use an entirely new class of apps?</p>
+    <h4 id="bitcoin-the-network-"> Bitcoin the Network </h4>
+    <p>This, then, is the bridge I believe 21 Inc. is building, and why they specifically and Bitcoin broadly deserve more attention: Bitcoin at a conceptual level is <em>
+    not about money
+   </em> , and neither is 21 Inc., at least not directly. <a class="footnote-link footnote-identifier-link" href="#footnote_4_1679" id="identifier_4_1679" title="Indeed, an under-appreciated part of 21 Inc.’s approach is that all of these embedded chips will verify transactions without the incentive of monetary reward, allowing Bitcoin the protocol to survive even when there is no more Bitcoin to mine"> 5 </a> It’s about dispersed trust and digital scarcity, and the massive number of <em>
+    new
+   </em> applications that can be built on such concepts both similar yet wildly different from what is enabled by today’s Internet. And, while many of those applications are unimaginable — just as Facebook and Google were unimaginable at the birth of the Internet — what is very much certain is that step one is getting everyone, somehow, connected. As <a href="http://www.coindesk.com/21-intel-bitcoin-mining-strategy/"> Coindesk reported </a> , 21 Inc. is seeking to learn from the best:</p>
+    <blockquote>
+      <p>“The AOL CD of bitcoin,” the document called the strategy. “Give every user a free trial of bitcoin at near-zero marginal cost. A proven model to onboard millions.”</p>
+    </blockquote>
+    <p>Best keep an eye on your mailbox — and electricity meter.</p>
+    <hr />
+    <p>Discuss this Article on the <a href="https://forum.stratechery.com/t/21-inc-and-the-future-of-bitcoin/80"> Stratechery Forum </a> ( <em>
+    members-only
+   </em> )</p>
+    <ol class="footnotes">
+      <li class="footnote" id="footnote_0_1679">Has Medium replaced Tumblr for the default startup blog? [ <a class="footnote-link footnote-back-link" href="#identifier_0_1679"> ↩ </a> ]</li>
+      <li class="footnote" id="footnote_1_1679">That is a slide from the 21 Inc. pitch deck; it’s quite old (note the reference to 21e6, 21 Inc.’s original name), and possibly not accurate [ <a class="footnote-link footnote-back-link" href="#identifier_1_1679"> ↩ </a> ]</li>
+      <li class="footnote" id="footnote_2_1679">Journalism’s unicorn [ <a class="footnote-link footnote-back-link" href="#identifier_2_1679"> ↩ </a> ]</li>
+      <li class="footnote" id="footnote_3_1679">Unless otherwise cited, 21 Inc. facts and figures come from <a href="http://www.coindesk.com/21-intel-Bitcoin-mining-strategy/"> this report from Coindesk </a> [ <a class="footnote-link footnote-back-link" href="#identifier_3_1679"> ↩ </a> ]</li>
+      <li class="footnote" id="footnote_4_1679">Indeed, an under-appreciated part of 21 Inc.’s approach is that all of these embedded chips will verify transactions without the incentive of monetary reward, allowing Bitcoin the protocol to survive even when there is no more Bitcoin to mine [ <a class="footnote-link footnote-back-link" href="#identifier_4_1679"> ↩ </a> ]</li>
+    </ol>
+    <div class="sharedaddy sd-sharing-enabled">
+      <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
+        <h3 class="sd-title" id="share-"> Share </h3>
+        <div class="sd-content">
+          <ul>
+            <li class="share-facebook"><a class="share-facebook sd-button share-icon" data-shared="sharing-facebook-1679" href="https://stratechery.com/2015/21-inc-and-the-future-of-bitcoin/?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Facebook"> <span> Facebook </span> </a></li>
+            <li class="share-twitter"><a class="share-twitter sd-button share-icon" data-shared="sharing-twitter-1679" href="https://stratechery.com/2015/21-inc-and-the-future-of-bitcoin/?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Twitter"> <span> Twitter </span> </a></li>
+            <li class="share-linkedin"><a class="share-linkedin sd-button share-icon" data-shared="sharing-linkedin-1679" href="https://stratechery.com/2015/21-inc-and-the-future-of-bitcoin/?share=linkedin" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on LinkedIn"> <span> LinkedIn </span> </a></li>
+            <li class="share-email"><a class="share-email sd-button share-icon" data-shared="" href="https://stratechery.com/2015/21-inc-and-the-future-of-bitcoin/?share=email" rel="nofollow noopener noreferrer" target="_blank" title="Click to email this to a friend"> <span> Email </span> </a></li>
+            <li class="share-end"></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="jp-relatedposts" id="jp-relatedposts">
+      <h3 class="jp-relatedposts-headline" id="related"> <em>
+     Related
+    </em> </h3>
+    </div>
+  </div>
+  <!-- .entry-content -->
+</article>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2015-06-09</time>
+        <a href="https://nodebe4.github.io/opinion/2015-06-09/Apple_Music_and_Apples_Focus/">
+          Apple Music and Apple’s Focus
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2015-06-03</time>
+        <a href="https://nodebe4.github.io/opinion/2015-06-03/The_Funnel_Framework/">
+          The Funnel Framework
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2015-05-20</time>
+        <a href="https://nodebe4.github.io/opinion/2015-05-20/Apple_Watch_and_Continuous_Computing/">
+          Apple Watch and Continuous Computing
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2015-05-13</time>
+        <a href="https://nodebe4.github.io/opinion/2015-05-13/Verizon-AOL_Facebook_Instant_Articles_and_the_Future_of_Digital_Advertising/">
+          Verizon-AOL, Facebook Instant Articles, and the Future of Digital Advertising
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2015-05-27/%E5%BE%AE%E5%8D%9A%E7%9A%84-%E4%B8%83%E7%A7%8D%E6%AD%A6%E5%99%A8/">
+            前一篇：微博的“七种武器”
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2015-05-28/%E4%BA%9A%E6%8A%95%E8%A1%8C%E5%88%9B%E5%A7%8B%E8%B0%88%E5%88%A4%E8%B0%88%E4%BB%80%E4%B9%88-%E4%B8%89-%E5%A4%9A%E8%BE%B9%E4%B8%BB%E4%B9%89%E8%BF%98%E6%98%AF%E5%9C%B0%E7%BC%98%E6%94%BF%E6%B2%BB/">
+            後一篇：亚投行创始谈判谈什么？（三）——多边主义还是地缘政治？
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2015-05-27/%E5%BE%AE%E5%8D%9A%E7%9A%84-%E4%B8%83%E7%A7%8D%E6%AD%A6%E5%99%A8/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2015-05-28/%E4%BA%9A%E6%8A%95%E8%A1%8C%E5%88%9B%E5%A7%8B%E8%B0%88%E5%88%A4%E8%B0%88%E4%BB%80%E4%B9%88-%E4%B8%89-%E5%A4%9A%E8%BE%B9%E4%B8%BB%E4%B9%89%E8%BF%98%E6%98%AF%E5%9C%B0%E7%BC%98%E6%94%BF%E6%B2%BB/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2015-06-03/The_Funnel_Framework/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2015-05-20/Apple_Watch_and_Continuous_Computing/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2015-05-27/%E5%BE%AE%E5%8D%9A%E7%9A%84-%E4%B8%83%E7%A7%8D%E6%AD%A6%E5%99%A8/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2015-05-28/%E4%BA%9A%E6%8A%95%E8%A1%8C%E5%88%9B%E5%A7%8B%E8%B0%88%E5%88%A4%E8%B0%88%E4%BB%80%E4%B9%88-%E4%B8%89-%E5%A4%9A%E8%BE%B9%E4%B8%BB%E4%B9%89%E8%BF%98%E6%98%AF%E5%9C%B0%E7%BC%98%E6%94%BF%E6%B2%BB/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2015-06-03/The_Funnel_Framework/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2015-05-20/Apple_Watch_and_Continuous_Computing/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

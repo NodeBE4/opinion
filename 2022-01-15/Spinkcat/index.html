@@ -1,0 +1,3205 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Spinkcat在2022-01-10~2022-01-16的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Spinkcat在2022-01-10~2022-01-16的言论" />
+    <meta property="twitter:title" content="Spinkcat在2022-01-10~2022-01-16的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FSteamDeck%2Fcomments%2Fs07h3k%2Fwhat_do_you_think_the_steam_deck_will_mean_for%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/SteamDeck/comments/s07h3k/what_do_you_think_the_steam_deck_will_mean_for/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/SteamDeck/comments/s07h3k/what_do_you_think_the_steam_deck_will_mean_for/&text=Spinkcat在2022-01-10~2022-01-16的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/SteamDeck/comments/s07h3k/what_do_you_think_the_steam_deck_will_mean_for/&title=Spinkcat在2022-01-10~2022-01-16的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/SteamDeck/comments/s07h3k/what_do_you_think_the_steam_deck_will_mean_for/&title=Spinkcat在2022-01-10~2022-01-16的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Spinkcat在2022-01-10~2022-01-16的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/SteamDeck/comments/s07h3k/what_do_you_think_the_steam_deck_will_mean_for/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/SteamDeck/comments/s07h3k/what_do_you_think_the_steam_deck_will_mean_for/&title=Spinkcat在2022-01-10~2022-01-16的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Spinkcat在2022-01-10~2022-01-16的言论&url=https://old.reddit.com/r/SteamDeck/comments/s07h3k/what_do_you_think_the_steam_deck_will_mean_for/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Spinkcat在2022-01-10~2022-01-16的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-01-15
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://www.reddit.com/user/Spinkcat/" style="font-size:14px;">作者: Spinkcat</a>
+        </span>
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/SteamDeck/comments/s07h3k/what_do_you_think_the_steam_deck_will_mean_for/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#1493-what-do-you-think-the-steam-deck-will-mean-for-linux-gaming-in-the-long-term-submitted-on-2022-01-10-0933420800" id="markdown-toc-1493-what-do-you-think-the-steam-deck-will-mean-for-linux-gaming-in-the-long-term-submitted-on-2022-01-10-0933420800">1493: What do you think the Steam Deck will mean for Linux Gaming in the long term?, submitted on 2022-01-10 09:33:42+08:00.</a></li>
+  <li><a href="#1494-why-it-makes-sense-valve-uses-linux-submitted-on-2022-01-12-0508030800" id="markdown-toc-1494-why-it-makes-sense-valve-uses-linux-submitted-on-2022-01-12-0508030800">1494: Why it makes sense Valve uses Linux, submitted on 2022-01-12 05:08:03+08:00.</a></li>
+  <li><a href="#1495-日本朝日新闻习近平希望用-共同富裕来作为第三任期的执政基础-submitted-on-2022-01-13-1755580800" id="markdown-toc-1495-日本朝日新闻习近平希望用-共同富裕来作为第三任期的执政基础-submitted-on-2022-01-13-1755580800">1495: 日本《朝日新闻》：习近平希望用 「共同富裕」来作为第三任期的执政基础, submitted on 2022-01-13 17:55:58+08:00.</a></li>
+  <li><a href="#1496-江泽民去世后会对习近平和中共有什么影响吗-submitted-on-2022-01-14-1037270800" id="markdown-toc-1496-江泽民去世后会对习近平和中共有什么影响吗-submitted-on-2022-01-14-1037270800">1496: 江泽民去世后会对习近平和中共有什么影响吗？, submitted on 2022-01-14 10:37:27+08:00.</a></li>
+  <li><a href="#1497-紫阳这段话你认同吗-submitted-on-2022-01-14-2016280800" id="markdown-toc-1497-紫阳这段话你认同吗-submitted-on-2022-01-14-2016280800">1497: 紫阳这段话你认同吗, submitted on 2022-01-14 20:16:28+08:00.</a></li>
+  <li><a href="#1498-习近平要接班是哪一届决定的-submitted-on-2022-01-14-2041070800" id="markdown-toc-1498-习近平要接班是哪一届决定的-submitted-on-2022-01-14-2041070800">1498: 习近平要接班，是哪一届决定的？, submitted on 2022-01-14 20:41:07+08:00.</a></li>
+  <li><a href="#1499-民族自治区在现在的意义-submitted-on-2022-01-15-0044550800" id="markdown-toc-1499-民族自治区在现在的意义-submitted-on-2022-01-15-0044550800">1499: 民族自治区在现在的意义？, submitted on 2022-01-15 00:44:55+08:00.</a></li>
+  <li><a href="#1500-经济学人模型预测中国新冠真实死亡人数和官方统计人数的不同-submitted-on-2022-01-15-0311110800" id="markdown-toc-1500-经济学人模型预测中国新冠真实死亡人数和官方统计人数的不同-submitted-on-2022-01-15-0311110800">1500: 《经济学人》模型预测，中国新冠真实死亡人数和官方统计人数的不同, submitted on 2022-01-15 03:11:11+08:00.</a></li>
+  <li><a href="#1501-是否应该重新审视香港时代革命-submitted-on-2022-01-15-0445520800" id="markdown-toc-1501-是否应该重新审视香港时代革命-submitted-on-2022-01-15-0445520800">1501: 是否应该重新审视香港时代革命, submitted on 2022-01-15 04:45:52+08:00.</a></li>
+  <li><a href="#1502-以后每一年春节档都是主旋律电影确信-submitted-on-2022-01-15-2143260800" id="markdown-toc-1502-以后每一年春节档都是主旋律电影确信-submitted-on-2022-01-15-2143260800">1502: 以后每一年春节档都是主旋律电影（确信, submitted on 2022-01-15 21:43:26+08:00.</a></li>
+  <li><a href="#1503-真理部又出动啦-submitted-on-2022-01-15-2308220800" id="markdown-toc-1503-真理部又出动啦-submitted-on-2022-01-15-2308220800">1503: 真理部又出动啦🥰🥰🥰, submitted on 2022-01-15 23:08:22+08:00.</a></li>
+</ul>
+
+<h3 id="1493-what-do-you-think-the-steam-deck-will-mean-for-linux-gaming-in-the-long-term-submitted-on-2022-01-10-0933420800">1493: <a href="https://old.reddit.com/r/SteamDeck/comments/s07h3k/what_do_you_think_the_steam_deck_will_mean_for/">What do you think the Steam Deck will mean for Linux Gaming in the long term?</a>, submitted on 2022-01-10 09:33:42+08:00.</h3>
+
+<p>—– <strong>1493.1</strong> —–2022-01-10 15:18:00+08:00:</p>
+
+<p>Dedicated gaming  system in all X86 hardware，Windows 11 is a disaster .Microsoft can’t balance games and all platforms,we need a universal open source system,so we should think about SteamDeck will mean for SteamOS,and What SteamOS means to all gamers.</p>
+
+<p>Custom dedicated gaming system  performance of running games is better, without the bloat of win，right now Proton performance gap is 15-25%,some games only 2-5%,if Valve keep continues to invest  Linux and SteamOS, one day the performance will surpass Windows，smaller size, better power consumption, better performance mining.</p>
+
+<h3 id="1494-why-it-makes-sense-valve-uses-linux-submitted-on-2022-01-12-0508030800">1494: <a href="https://old.reddit.com/r/SteamDeck/comments/s1nmzd/why_it_makes_sense_valve_uses_linux/">Why it makes sense Valve uses Linux</a>, submitted on 2022-01-12 05:08:03+08:00.</h3>
+
+<p>—– <strong>1494.1</strong> —–2022-01-12 07:52:52+08:00:</p>
+
+<p>I think Valve want make a dedicated gaming system in all X86 hardware,Microsoft won’t develop dedicated windows for games,they want PC ,they want android and mobile,its why Windows 11 is a disaster.</p>
+
+<p>The steam deck is not the point, the point is SteamOS and its future，maybe Microsoft has an agreement with Valve, and Valve helps Microsoft take on a dedicated gaming system that it doesn’t have the energy to take charge of, forming a tech alliance.</p>
+
+<p>I’m not a developer, but from what I understand, LINUX seems to have a lot of performance potential on custom systems, it’s just that it’s been lacking a lot of investment from larger companies because it’s not profitable to do that.</p>
+
+<p>If the game performance of LIUNX exceeds the window one day, not only 5-10%, but 20-30%, maybe more, you don’t need to do extra things to get the best performance.</p>
+
+<p>Both players and developers will receive passive optimizations, and even Valve will provide a developer-specific operating environment like Steamworks.</p>
+
+<p>Allowing for cross-platform use, such as VR, handheld and PC, and I think consoles as well, multiple evidence that they are also developing consoles that are truly their own.</p>
+
+<p>Based on the openness of the valve, when you provide excellent service and openness at the same time, it will automatically be compatible with most players, instead of shutting people out because of exclusive and closed ecology.</p>
+
+<p>This value is reflected in their hardware and software products, which have been prominent in the recent steam deck.</p>
+
+<p>Although both SteamOS and Steam themselves are threatening Microsoft and the gaming department, it is definitely not accidental that Microsoft and Phil Spencer still maintain a friendly relationship with Valve. Phil Spencer also advocates an open policy, which coincides with Valve’s values.</p>
+
+<p>I’m not a developer, but from what I understand, Linux seems to have a lot of performance potential on custom systems, it’s just that it’s been lacking a lot of investment from larger companies because it’s not profitable to do that.</p>
+
+<p>I suspect  Proton is a transitional project, a temporary solution until a mature solution is found to fully develop Linux games, because most players will not take the initiative to use Linux, and there is still a 15-25% loss in performance, so the valve passes Launch hardware with market demand to promote the share of Linux. When people are used to SteamOS, they will have user stickiness to the hardware and software, and will gradually allow users’ usage habits to migrate from Windows to Linux.</p>
+
+<p>In the end, Valve will gain an unshakable market niche, which will be compatible with the needs of most people due to its openness and cross-platform ease of use, and provide better services from the source, not just functions in the store To attract players to avoid being robbed of users by EPIC’s exclusivity policy, which is why they are not interested in competing with EPIC, because it is a very old saturated market, and Valve is trying to open up a whole new field.</p>
+
+<p>Most of the hardware is a channel to attract players to Linux at the beginning. Players use Linux because the hardware has advantages that are hard to refuse, but slowly they also find the characteristics of Linux (and its shortcomings), when SteamOS can get through more In the field of Valve hardware, players will realize that a stable and efficient SteamOS is far better than an unstable operating environment, because professional systems across hardware platforms are very important.</p>
+
+<p>Then SteamOS feeds back the hardware market, making players realize the efficiency and convenience of the combination of the two. I remember Valve once said that VR has a very good performance on Linux, so if they persist and succeed, Linux will open up multiple The hardware market runs through several Valve hardware products. In addition to handhelds, there are also next-generation VR, the rumored Valve console, and the BCI hardware that Valve will launch sooner or later.</p>
+
+<p>If you want to convince players to use Linux, you must prove to the players that Linux is good, not just good for Valve. Gabe doesn’t care if the quarterly financial report is slightly better. He needs convincing evidence to attract players to the Linux market. Hardware is the best choice.</p>
+
+<p>You’re going to buy a steam deck because of the demand for handhelds, you’re going to buy Deckard because of the demand for next-gen VR, and I don’t know if their console will be released, but if Valve launches a console, there will be Decisive difference, to prove you’re not buying another Steambox or a PS5, I mean there must be something in it that appeals to you, as BCI hardware appeals to me, although Valve hasn’t had any word on that at all, but if it launches I would buy one right away without a second thought.</p>
+
+<h3 id="1495-日本朝日新闻习近平希望用-共同富裕来作为第三任期的执政基础-submitted-on-2022-01-13-1755580800">1495: <a href="https://old.reddit.com/r/China_irl/comments/s2vx9g/日本朝日新闻习近平希望用_共同富裕来作为第三任期的执政基础/">日本《朝日新闻》：习近平希望用 「共同富裕」来作为第三任期的执政基础</a>, submitted on 2022-01-13 17:55:58+08:00.</h3>
+
+<p>—– <strong>1495.1</strong> —–2022-01-14 07:37:13+08:00:</p>
+
+<p>大吃饱时，一天一只鸡，鸡蛋吃到伤一辈子，闻到味就恶心。</p>
+
+<h3 id="1496-江泽民去世后会对习近平和中共有什么影响吗-submitted-on-2022-01-14-1037270800">1496: <a href="https://old.reddit.com/r/China_irl/comments/s3gznd/江泽民去世后会对习近平和中共有什么影响吗/">江泽民去世后会对习近平和中共有什么影响吗？</a>, submitted on 2022-01-14 10:37:27+08:00.</h3>
+
+<p>—– <strong>1496.1</strong> —–2022-01-15 04:34:11+08:00:</p>
+
+<p>要有问题之前应该会有了，习之前虽然一直在围剿江的人，但最后应该是达成了某种协议。</p>
+
+<p>或者说至少是有平衡，觉得差不多了就收手了。</p>
+
+<p>习现在主要压力来自于国内的客观社会局势，党内反馈上去，在最高层内部习已经很轻松可以应付，但中层压力很大，尤其是阳奉阴违这点，到了基层根本就是脱缰了属于，照着上面的意思，结果全是加速人。</p>
+
+<p>还有一个习在未来任期（无论名义上有没有，反正肯定掌权），最焦头烂额的其实是政府财政危机。</p>
+
+<p>这个问题需要很多很多钱和资源来舒缓，而不能彻底解决。</p>
+
+<p>基于这一点，加上说之后要共同富裕的调子，估计是要拿一些老派系的产业版图来开刀。</p>
+
+<p>再主导压榨一些中产与知识分子的生存空间获得更多资源，平衡一下凑合过。</p>
+
+<p>江应该就是保证党内许多1990-2010年代发家的人的一个保证，他死了，这些人实际就没有保障，对江划好答应过的势力版图，会有很大保留，只是不排除若干年后财政需求或其他矛盾，平子反悔了。</p>
+
+<h3 id="1497-紫阳这段话你认同吗-submitted-on-2022-01-14-2016280800">1497: <a href="https://old.reddit.com/r/China_irl/comments/s3r0h6/紫阳这段话你认同吗/">紫阳这段话你认同吗</a>, submitted on 2022-01-14 20:16:28+08:00.</h3>
+
+<p>—– <strong>1497.1</strong> —–2022-01-15 00:00:02+08:00:</p>
+
+<p>结论与事实不符，倒邓是赵离开国内后就发生了的事，赵与邓分歧也不是因为戈尔巴乔夫谈话。</p>
+
+<p>—– <strong>1497.2</strong> —–2022-01-15 00:16:12+08:00:</p>
+
+<p>这件事不是赵邓矛盾的原因，双方矛盾是因为之后五月会议上赵坚持不同意邓的方案。</p>
+
+<p>邓生气是有两个原因和说法。</p>
+
+<p>第一是邓已经准备好镇压，但没告诉过赵，怕赵不同意，装没事答应赵温和处理，然后立刻出四二六社论，以此生米煮成熟饭。</p>
+
+<p>第二是说李鹏等人趁赵出国访问，接管直接对学运的工作，祸水东引给邓小平吹风，试图拉邓小平下水，激化学运与邓之间的矛盾对立。</p>
+
+<p>实际情况更可能是两种情况混合，邓已做好镇压准备，李鹏有煽风点火，但主要是邓自己主导，赵对戈尔巴乔夫的谈话引起邓的不满，就是因为把矛盾转移到邓身上，而邓原本是希望赵和李鹏背锅。</p>
+
+<p>李鹏在日记里也给自己有一定辩护，但没敢直接说明到底谁拍板镇压甩锅。</p>
+
+<p>赵个人则认为，可能是有人煽风点火，但邓也没傻到偏听偏信，已经暗示邓有意主导他拍板镇压，让赵紫阳与李鹏替他挡刀的计划，所以赵紫阳才旁敲侧击说六四是政变。</p>
+
+<p>戈尔巴乔夫谈话前，胡赵派系已经尽可能通过各种中间人或直接渠道，呼吁学运尽快结束和平解决，我觉得可以肯定他们至少在4月26日以后，内部消息已经能知道或感觉到邓小平要靠武力镇压解决问题。</p>
+
+<p>学运没解决的主要问题，就是四二六社论定性，会进行事后追责，引起学运参与者的恐慌，胡赵派系意识到邓要出手，会逼迫胡赵派系站队表明立场，然后进行清洗。</p>
+
+<p>邓对赵与戈尔巴乔夫的谈话只是不满，真正彻底放弃赵紫阳是517会议，该会议里给赵紫阳最后一次表态机会，赵紫阳跟胡启立坚决反对，5月19赵彻底失势，提前到了广场做最后的警告，但没有把话说明白军队要杀人，给邓这个老首长最后的体面，改革历程里也是这样。</p>
+
+<p>—– <strong>1497.3</strong> —–2022-01-15 00:25:58+08:00:</p>
+
+<p>不是贴金，赵紫阳在四川主政时，与早年极左的路线完全不同，他自我反思意识到早年的错误并且公开承认，在极权社会里自我否定与反省是极为罕见的。</p>
+
+<p>所以基于这种痛定思痛的路线，赵在人生的后半生才算真正活明白，也认为自己打开了思路与视野，我们可以看到他的政策与思路成长曲线。</p>
+
+<p>用早年基于极左倾向办事的错误结果与行为，去攻击一个人前后逆转的一生，本身就是希望借着这个话题去否定整个改开合理性的基础，有一些观点已经构架出赵紫阳等是大饥荒的罪魁祸首，毛只是被误导的说法。</p>
+
+<p>—– <strong>1497.4</strong> —–2022-01-15 00:48:56+08:00:</p>
+
+<p>赵紫阳这个人是什么样的人，其实我也科普很多次了，感觉每次有新话题都好像很多人没接触过这方面的内容，大体来说他是经济和政治上都很有远见的领导者，而且工作能力强，学习速度快。</p>
+
+<p>看他各方面政策改革就可以了解到这个人的水平到底怎么，几乎一手设计和定制了现代中国的经济、社会与政治基础框架，包括后续的人才团队的诞生与官僚预备役，要么来自胡耀邦，要么来自赵紫阳。</p>
+
+<p>胡耀邦建立了现代中国政府，储备了大量的预备役人才，赵紫阳一开始是辅助胡耀邦的角色，主导行政工作不管路线，所以在人事斗争上，赵紫阳是尽可能避开派系问题，这也导致赵紫阳的政治面貌当年不清晰，六四时也有人把李鹏赵紫阳放一起骂。</p>
+
+<p>不过后来胡耀邦被政变逼宫下台，赵紫阳被强制性推上第一领袖的位置，很快就开始转型扩大对胡耀邦改革派的庇护，如果说赵本身在晚年是开明的，那胡耀邦整体上更有人文主义的执政精神，对给赵紫阳的遗产就是一整个改革派的预备役梯队。</p>
+
+<p>而赵紫阳就是围绕这些人的交流，拓展思维的边界，慢慢建立起现代中国发展的轨迹。</p>
+
+<p>他对整个中国的影响，不止是六四反对镇压这点事，实际上六四里他的表态只是一个很微不足道的小事。</p>
+
+<p>真正的长期影响，是经济、政治改革层面，不但构思了，还做到了，并且预判了未来几十年中国的改革路线与需求，提出了和平解决问题的过渡机制。</p>
+
+<p>所以赵紫阳不止是个晚年开明的领袖这么简单，他是对现代中国有革命性影响的一个政治人物，远远大于邓小平，他的言论与观点，你几十年前看有用，现在看也有用，几十年后看还有用。</p>
+
+<p>胡耀邦如果按历史排序其实会次于赵紫阳，一个是死的比较早，另一个是不主导行政与执行工作，但胡耀邦提供了价值观路线，虽然被废除了，但这种价值观集成了下来，成为了中国现代自由主义或开放化的一个源头，再有就是万里了，不过这里不赘述。</p>
+
+<p>后人修共和国现代史，如果不受政治因素影响，胡赵万作为改开三杰，会占据相当大的篇幅，都是有单独立传资格的人。很多人都缺乏对胡赵的准确认知，因为信息污染实在太严重了。</p>
+
+<p>虽然经济与工业发展是社会稳定科技进步后的必然结果，但如果能代入当时氛围就能明白做正确的事，走客观规律也是个极其困难的道路。</p>
+
+<p>当时在中国，不走客观规律，就是中国的客观规律。邓在这点上支持胡赵万，但整体上还有相当多数的人根本不希望中国走向真正意义的现代化市场经济路线。</p>
+
+<p>怎么在完全未知，没有参考经验，一身债的情况下，把中国盘活了让经济准确的进入起飞轨道，还要顶着保守派全面反扑的斗争，能成就现代中国许多人以外的经济奇迹，本身就是一种“奇迹”。</p>
+
+<p>只是现在被欺世盗名之徒拿来将功绩扣在自己头上，坐享其成不止，还要污蔑前人，剥削后人，一副我死后哪管洪水滔天，完全不把自己当作中国人，自视为中国人的头号大敌，这样的人就算立传，最好的结果也是毁誉参半，更何况遗臭万年。</p>
+
+<p>—– <strong>1497.5</strong> —–2022-01-15 00:52:00+08:00:</p>
+
+<p>这其实是个常见的错误说法，赵紫阳在此事前已经没法经常见到邓了，邓也拒绝跟他沟通，戈尔巴乔夫谈话主要是让邓更加不满，但并不是分歧的来源。</p>
+
+<p>邓放弃和不满赵，是因为赵坚持不拥护邓的路线，嫡系不支持自己，而邓决定镇压要在党内承受很大政治风险。</p>
+
+<p>—– <strong>1497.6</strong> —–2022-01-15 00:59:14+08:00:</p>
+
+<p>赵没那种要当千秋帝王的野心，要不然只需要拥护邓的路线就可以了，啥都不用做反而最轻松，我在上面一个回帖里谈了给军委主席这件事。</p>
+
+<p>根据李鹏甩锅和赵紫阳暗示。</p>
+
+<p>邓确立要靠军事镇压解决问题，但不方便表态，因为负责政府工作的实际还是赵紫阳。</p>
+
+<p>所以极大可能是邓忽悠走赵紫阳出国，借机通过李鹏控制了国内社论。</p>
+
+<p>四二六社论就是邓小平本人的意思，李鹏背锅不敢说别的。</p>
+
+<p>调开赵紫阳，是赵在国内不可能发出四二六社论定性（因为要邓要通过李鹏来进行社论发表，但赵在的话，李鹏是被管着的），本质上邓既希望赵作为年轻人背锅担当点，替自己承担政治与舆论风险。</p>
+
+<p>所以赵紫阳回国一直到最后的最后，都始终有实权，只是跟邓的分歧越来越大。</p>
+
+<p>坚决不拥护邓的武力镇压，这是两个人分歧的根本性来源。</p>
+
+<p>李鹏也不愿意为镇压戒严背锅，四二六社论很多人说是李鹏煽风点火的结果，其实这种可能性是越来越小的，最多是李鹏煽风点火让邓给改革派处理问题的窗口期更少。</p>
+
+<p>赵紫阳回国后发现事情不对劲，已经动用一切资源去和平解除学运，邓其实就是生米煮成熟饭，但发现赵还不死心，两个人分歧越来越大，到517会议上邓给赵最后机会，赵仍然不服从，519后就彻底失去地位被软禁了。</p>
+
+<p>—– <strong>1497.7</strong> —–2022-01-15 01:15:56+08:00:</p>
+
+<p>戈尔巴乔夫谈话影响其实没那么大，赵在此前已经越来越难见到邓小平了。</p>
+
+<p>邓小平已经因为分歧对赵处理有不满，只是给了赵一个很短的窗口期，大概也就20天左右。</p>
+
+<p>戈尔巴乔夫到访是早就有预定好的，所以就是访问前要让广场问题解决，否则就是武力镇压没有任何余地。</p>
+
+<p>赵想说服邓，此时已经不可能，因为邓不愿见他。</p>
+
+<p>戈尔巴乔夫访谈内容，看赵紫阳自述是希望强调邓的领导地位，而邓这个时候其实一直是等自己的最大嫡系和党内第二大派系领袖表态。</p>
+
+<p>赵一直没有立刻表态，这让邓最后把赵尊重邓的好话听成一种反话的可能性很大，故意说的可能性有，但不大，我认为更多是为了确立邓的党内地位来表示自己支持邓，然后在镇压问题上拖延表态和邓的稀泥。</p>
+
+<p>邓小平在5月17日给了赵紫阳最后一次表决机会，然后5月19日又委婉给了一次，5月16日其实晚上也有一次常委会议。</p>
+
+<p>除了5月18日邓不见赵外，赵紫阳有渠道通过杨尚昆跟邓表达，17日想辞职但被杨尚昆阻止，实际也是邓的意思。19日没参加会议是赵紫阳请病假，不愿意在大会上表态，19日就是最终党内表决，赵紫阳缺席形式表态就彻底失去地位了。</p>
+
+<p>包括姚监复提到邓考虑过允许让赵紫阳复出，赵最后拒绝，两个人这个时候彻底没有挽回可能了。</p>
+
+<p>我个人觉得赵拒绝复出是个错误。</p>
+
+<p>—– <strong>1497.8</strong> —–2022-01-15 01:21:10+08:00:</p>
+
+<p>邓跟赵是路线分歧和不满问题，不是信任问题。</p>
+
+<p>邓对赵的保留，一直坚持到赵以缺席形式不出席最后表态会议，此前还通过杨尚昆阻止赵辞职。</p>
+
+<p>91年也曾找过赵复出但被拒绝。</p>
+
+<p>邓胡赵是一体的，邓最后没彻底追查赵，就是因为两个人政治资产与路线一致，赵有些话敢说出来也是邓死后才讲了流出，但也对邓有回护留面子了。</p>
+
+<p>赵下台后，执行的方向和人才团队还是赵留下的，邓对胡赵的观点是选用错误，关键时刻不坚定，不是赫鲁晓夫那种问题。</p>
+
+<p>—– <strong>1497.9</strong> —–2022-01-15 01:28:56+08:00:</p>
+
+<p>这种观点有可取性。</p>
+
+<p>但综合整体情况，邓要清洗的其实不是赵，而是党内认为的资产阶级自由化现象，所以整肃会扩大到整个改革派，赵可以独善其身，但大部分支持者都逃不了。</p>
+
+<p>最后很容易变成光杆司令，邓希望赵拥护自己这个路线，然后再去施政。</p>
+
+<p>这个时候赵如果坚持跟邓路线站队，会人心尽失，因为胡耀邦的改革派之前一直在保赵，赵这个时候反水等于卖了他们，之后就拉不起来队伍了。</p>
+
+<p>其实最合理能反杀的机会，是91年邓找赵紫阳复出。</p>
+
+<p>因为这个时候邓跟陈云为首的保守派又开始有矛盾，江泽民开倒车太严重，让邓有危机感和不满。</p>
+
+<p>赵紫阳这个时候如果复出，前面六四站队已经表明心境，许多人会理解。</p>
+
+<p>实权上也能继续巩固，成为改革派在朝中的核心，许多赵紫阳的嫡系或提拔的人才都在南巡前后被重用了，赵没复出是很可惜的一件事。</p>
+
+<p>—– <strong>1497.10</strong> —–2022-01-15 01:34:42+08:00:</p>
+
+<p>邓本质是威权主义的双标人。</p>
+
+<p>老一辈说白了就是打天下坐天下的传统封建思维。</p>
+
+<p>他只能接受群众运动被自己功利性的使用，对自己有益才是好的。</p>
+
+<p>坚持要遵守四个原则，维系政权统治阶级地位。</p>
+
+<p>另外邓在建国后反右很卖力，资产阶级自由化说白了就是政治右倾，有可能也考虑对自己有负面影响，找李鹏和陈希同背锅，也反映邓又要脸又想杀人。</p>
+
+<p>他觉得自己是个“部落首领”，首领的权威是不容挑战的，因为党内的权力地位就是靠这种斗争获得，所以每个领袖都对失去权力的质疑很敏感，所以视一切挑战权威的行为是一种禁忌，党内开会都明确说了，年轻人不怕政府了这么一个大概意思。</p>
+
+<p>他们不觉得自己有必要跟你谈，你是平民，是被统治阶级，没有对被统治阶级的同理心，有的同理心只是希望人民物质生活更好的共情，而没有其他现代价值观的共情基础。</p>
+
+<p>否则胡耀邦葬礼时，问题就不会做大，有几个人到人民大会堂前的台阶请愿，邓小平亲自出来接见，其实问题就解决了，但他没有。</p>
+
+<p>—– <strong>1497.11</strong> —–2022-01-15 03:00:39+08:00:</p>
+
+<p>邓小平找他复出要求他支持中央对六四的做法，并且承认错误，只要肯做总书记和总理都可以商量。</p>
+
+<p>赵这个人比较轴，不愿意承认。</p>
+
+<p>当然从政治考虑上，如果承认了，后续就很难在他这一代平反，而且赵也没法预判邓什么时候死，下一代人事安排他还是要受限于邓的。</p>
+
+<p>赵开的条件是中央给六四平反，他不愿意做总书记，但想做总理，觉得自己比李鹏强。</p>
+
+<p>上帝视角我们知道邓和陈云、李先念之后几年先后死亡，但给赵紫阳的话，他也没法预判。</p>
+
+<p>邓小平担心有人事后平反六四，所以坚持要求赵拥护中央决定，承认就等于绑在一起，虽然我们现在看其实没啥大不了，都知道是迫不得已，但赵紫阳没上帝视角就觉得做了就没回头路。</p>
+
+<p>跟邓的主要分歧就是中央对六四的态度，到底是支持，还是平反。</p>
+
+<p>都最后就是个人道德选择与性格问题了。</p>
+
+<p>—– <strong>1497.12</strong> —–2022-01-15 03:11:15+08:00:</p>
+
+<p>邓既有毛嫡系背景，也有国务院背景，还有军队工作经验，跟毛有反右投名状，国务院又需要他工作，所以毛一直没下决心彻底搞死邓。</p>
+
+<p>当时地位高党内比邓有话语权的人多，赫鲁晓夫轮不到邓。</p>
+
+<p>最后死前一段时间，毛已经下定决心想搞死邓了，但是江青还没来得及执行，毛泽东就死了，救了邓一命。</p>
+
+<p>天安门在毛泽东活着时已经社会动荡到失控，毛都控制不住局势，也就是四五运动后，毛确定了要整死邓，彻底打倒。</p>
+
+<p>8月开始倒邓运动，江青9月3日要全面执行，毛在9月9日就死了。</p>
+
+<p>四五运动后，邓没经会议被全面撤职变庶人，毛没立刻弄他，就是思考了四个月，最后确定了打算下手，没想到晚了。</p>
+
+<p>另外谈刘邓关系，其实就我有限了解，刘邓关系是党内外史学研究比较少或者说盲区大的一个部分。<br />
+不过还是有一些学者提出观点的，比如刘少奇跟高岗在早期斗争拉锯期间，曾游说拉拢邓小平站队不利于刘少奇，而邓按党内规矩推脱了。</p>
+
+<p>后来高岗太激进，引起毛的不满，得罪人太多，就处理掉了。邓本身跟刘之前虽然没工作交情，高岗事件开始就不一样了。</p>
+
+<p>而邓原本需要推辞高岗的游说，立场仍然要以毛为本位出发去看待高岗与刘少奇问题。<br />
+学术观点也提出中组部和秘书长这些人事范畴原本是刘控制的，毛推邓上位，原文认为要分薄刘的影响力范围，但我认为实际更多是促成刘邓关系巩固。</p>
+
+<p>高岗事件可能是一个主要让刘邓关系迅速拉近的契机，之后二人长期工作在一起，观点与价值观更接近。</p>
+
+<p>后来邓的路线问题不是最大的，因为邓自己想办法避开跟毛有抵触。</p>
+
+<p>但刘少奇加码梭哈，大跃进给毛带来的威信危机，刘少奇主动顶缸去承担另一个威权形象，除了政治与政策因素，党内人际关系也就产生裂痕，让毛有了危机感。</p>
+
+<p>说白了邓吃挂落成分比较大，一线工作跟刘的合作机会与政治遗产都是挂钩的，刘少奇没反应过来自爆了，邓被波及和敲打。他是毛的门生故吏，除了很有用以外，身份带来的感情因素也让毛一直没下死手。</p>
+
+<p>把毛泽东看成改革开放的邓小平，刘少奇看成胡耀邦，邓小平看成赵紫阳就比较好理解了。（虽然有些地方其实不严谨）</p>
+
+<p>大跃进在党内是不能完全说错的，但事实又错了。毛泽东需要一线人手处理收拾烂摊子，“胡赵”配合的很好，最后刘少奇引起毛不满，倒台了，要废除“错误政策”，刘和身边人就免不了被批，但毛知道政治上错，但事实上也需要，加上是邓，身份特殊，自然也就要延续下去。</p>
+
+<p>—– <strong>1497.13</strong> —–2022-01-15 03:22:06+08:00:</p>
+
+<p>赵紫阳宁可下半辈子被软禁，被除名也坚持不认错，党内历史是极为罕有的。</p>
+
+<p>他既不愿意委曲求全，也不愿意美曰其名“承受背黑锅”去做错事来安慰自己，要不然一开始就不需要跟党内大多数保守派站在对立面，直接跟大队就行，当个只会点头的好好先生更容易。</p>
+
+<p>整个改革开放就是他和万里在地方冒着天下大不韪革除旧制，跟保守派斗了十年才敲定了中国改革的方向与框架。</p>
+
+<p>更不存在戈尔巴乔夫一说，这个我科普都科普烦了，典型的信息污染，戈尔巴乔夫连国企都管不住。</p>
+
+<p>—– <strong>1497.14</strong> —–2022-01-15 04:15:35+08:00:</p>
+
+<p>你要是知道党内规矩就知道有些事为什么几十年老油条会这么做了。</p>
+
+<p>胡赵性格都有率真的一面，但不是天真不懂党内政治斗争历史的政治家。</p>
+
+<p>政治家不是那种小说或者很多人臆想里的什么能屈能伸。</p>
+
+<p>或者说，什么是政治家？隐忍吗？邓能当上最高领袖也只是运气好，在党内六十年代就已经有习惯去翻三十年前的旧账了，所以认错被留到档案里是个非常严重的事。</p>
+
+<p>很多事是没有很多人认为的那么高大上与奥妙，太多金锄头了。</p>
+
+<p>人是没法预测未来的，胡耀邦接受检讨，复出只是时间问题，但结果意外死了，还一波亡语带走了整个改革派。</p>
+
+<p>赵紫阳检讨认错，意味着以后一切施政都会有话柄给人，邓小平一旦死了，陈云李先念等人就可以用话柄拿捏换掉他，参考华国锋。</p>
+
+<p>我们知道后来发生的一切，比如谁谁谁死了，谁谁谁接班，才有能力去判断什么时候认错有最大收益，但当事人并没有这种超能力，是我们逆推结果发现有这么个空隙。</p>
+
+<p>邓找赵是保守派开倒车的时候，之后邓选择跟陈云勾兑交易，赵就没机会了。</p>
+
+<p>—– <strong>1497.15</strong> —–2022-01-15 04:16:39+08:00:</p>
+
+<p>赵紫阳政策与改革科普我已经科普烦了，你自己找下或问下Sub内凑合看吧，</p>
+
+<p>—– <strong>1497.16</strong> —–2022-01-15 05:11:27+08:00:</p>
+
+<p>你要清楚了六四到底是什么，谁有什么立场才好去明白理解吃透。</p>
+
+<p>六四是八九学运，之前有个八六学运，本质是随着开放自由化，社会开始对过去和现在的情况进行表达不满的整体状态。</p>
+
+<p>高层并不喜欢这种威胁到自己体制的情况，保守派也不喜欢市场经济。</p>
+
+<p>所以一直酝酿在倒胡，邓小平作为改革派和胡赵的上司，也是给改革开放背书，但是在关键的四个原则上，要求胡赵鉴定拥护共产党统治的基本立场。</p>
+
+<p>然后就有了胡耀邦被政变逼宫下台，八六学潮暂时混过去了。</p>
+
+<p>八九学潮就是总爆发，改革派被军事政变下台，党内相当多人是明确反对的，只是最高层利用军队关系和个人威望，绕开了党内和政府、军队的纠错体系，直接把生米煮成熟饭。</p>
+
+<p>这跟道德荣誉感也无关，邓小平是改革派，赵紫阳也是改革派，但关键议题上双方发生不可解决的分歧矛盾，邓小平转阵营去做保守派，要求赵紫阳也做保守派，要求交纳投名状，赵紫阳不愿意。</p>
+
+<p>那你怎么实现所谓的使命感？得给个流程是不是。</p>
+
+<p>当上总书记就可以平反？nononono，如果真那么容易赵就根本不会退下来。</p>
+
+<p>胡温作为预备役接班，是邓小平南巡后，跟陈云保守派互相妥协，邓小平理论确定了，胡温地位才得到保障。</p>
+
+<p>邓找赵紫阳是90-91年，对赵的审查还没完全结束。</p>
+
+<p>邓小平-胡赵-胡启立-胡温，这是四代人的继承路线。</p>
+
+<p>邓小平拔掉了胡启立，而本身赵紫阳在六四前就准备退休交接工作，没有胡启立意味着赵紫阳出来做不了几年就要进元老院。</p>
+
+<p>而且接班的是陈云的人，也就是说江泽民或邓力群顶多晚几年接班。</p>
+
+<p>我们事后知道胡温被确立为隔代指定的接班人，但是邓找赵紫阳复出时，胡温的事还没影子，也就是说，赵紫阳出来的实际状况，在他看来是未来1990-2012年都没有任何改革派人选。</p>
+
+<p>赵紫阳复出的话，按照任期他是要在92年前后退休，90-91年找他，任期其实非常非常短，没有时间给你培育接班人，当时在赵看来，邓已经废除未来二十年的接班人人选。</p>
+
+<p>所以你得明白当时情况才好理解情况，不能用上帝视角。</p>
+
+<p>我们谈复出是好的，是因为我们是上帝视角知道哪个时间点有更好的结果，就跟穿越到未来再回来买彩票一样，不代表当事人不这样做就是错误的，因为这不是一个可判断被执行的局面。</p>
+
+<p>—– <strong>1497.17</strong> —–2022-01-15 05:56:45+08:00:</p>
+
+<p>四个基本原则，翻译过来就是，宁可打内战，共产党也要执政到底，不存在任何战争以外的放弃执政权途径。</p>
+
+<p>而四个基本原则不是建国时，而是改革开放才确立的原则，胡赵是参与制定者。</p>
+
+<p>但当时只是理论，理论要知道是跟实际执行有偏差的。</p>
+
+<p>胡耀邦的人文主义色彩更多，也不滥搞政治斗争，赵紫阳早期只是技术官僚形象，后期学习的越多，越意识到老路子走不下去，从胡那里也受了很多影响。</p>
+
+<p>胡不忍心镇压或回到封闭的老路上，是价值观的取向。赵除了这部分影响外，则是从经济与社会角度科学性意识到中国要怎么发展。</p>
+
+<p>以及，如果不这样发展，对党和人民出现矛盾时，给全社会带来的后果如何。</p>
+
+<p>为什么胡赵敢并且勇于这样做？一个是他们有作为政治领袖的觉悟，再有就是整个改革开放就是他们主导的。</p>
+
+<p>中国现代化就是他们的手笔，胡耀邦之前，中国是没有现代政府的，也没与明确的人才储备、培育和更替机制。</p>
+
+<p>社会整体文化氛围保守，各类奇淫技巧都被批判，尤其是党内政治问题，要么靠批斗要么靠政变，胡耀邦组建现代政府，培育第三梯队，从党务和政府公务、社会文化到氛围都给自由化了。</p>
+
+<p>如果没有胡耀邦带头跟两个凡是在党内硬碰硬，邓小平也根本上不来，胡在后期对邓来说已经尾大不掉，没办法靠常规手段把他搞下台，只能联合陈云然后走政变渠道。</p>
+
+<p>所以虽然名义是邓的下属，但也有部分盟友的成分在里面。现代所有中国官僚，大部分胡耀邦的徒子徒孙，少数从陈云派系下来的，无论是否有直接关联，在继承顺序上都很难绕开。</p>
+
+<p>因此你可以明白胡耀邦的分量，以及为什么死后这么多年还那么有影响力。</p>
+
+<p>赵紫阳有科普的部分我就不说了，我说下可能比较少人看到的。</p>
+
+<p>中国市场化经济，改革开放前，没有任何人知道怎么做，三个主要的大型计划经济社会主义国家，印度、苏联和中国，印度和苏联都失败了，只有中国成功了。</p>
+
+<p>成功不是必然，而是极大风险的。当时没有人敢公开搞计划经济以外的东西。</p>
+
+<p>万里和赵紫阳就是最早吃螃蟹的人，最开始是地方个体自己搞，然后万里和赵紫阳默许，再到主动支持，一点点搞起来。</p>
+
+<p>地方的经验非常充足，并且拿到了很不错的成绩。</p>
+
+<p>当时邓跟胡在中央与华国锋斗的很厉害，包括陈云也是，陈云是希望回到建国初的鸟笼计划经济，邓希望走开放市场化，华国锋希望是保持毛的制度。</p>
+
+<p>党内实质性出现分歧，华国锋倒了以后，仍然有陈云的计划经济保守派作梗，邓还无法确立最高领袖地位。</p>
+
+<p>那为什么最后分高下了呢？就是因为赵紫阳和万里，在地方的经济政策成功了，拿出来极其有力的证据，塞住了保守派的嘴巴，陈云也是追求公事公办，加上胡赵的战果影响力过大，根本没法争。</p>
+
+<p>邓在华国锋执政早期是非常卑微的，他能起来，一个是华国锋需要他帮忙干活，还有陈云也需要他来帮忙斗华国锋，结果党内华国锋继承毛的政治遗产，被胡全面解决，因为平反政策是胡主导的，得到了非常高的人望。</p>
+
+<p>之后跟陈云争，赵紫阳万里拿出经济成果，陈云也就没戏了。（加上邓本身资历很老，还有军队背景，但支持邓的还有主力站队胡耀邦的叶剑英，叶剑英死才导致邓敢于拿下胡耀邦）</p>
+
+<p>所以你可以想得到，政府、社会、经济、文化四个主要层面，全是胡赵亲自带头啃螃蟹的结果，邓起到的是一个论资排辈背书的角色，实际工作是胡赵负责与执行。</p>
+
+<p>这样你就能明白为什么四个基本原则在他们看来无法执行下去，因为都发现经济要发展就需要放权，社会要变好，就需要让人说话。</p>
+
+<p>邓是同意政治改革的，但目的是优化而不是真正的改革放权。</p>
+
+<p>胡赵追求的是如果社会要变得更好，需要共产党放弃权力，也是个可以接受的结果。</p>
+
+<p>邓追求的最终目标是社会可以变好，但共产党不可以失去权力。</p>
+
+<p>—– <strong>1497.18</strong> —–2022-01-15 06:09:47+08:00:</p>
+
+<p>隔代指定胡温是92年后到93年的事。</p>
+
+<p>92年邓小平南巡后跟陈云有幕后交易，互相妥协了，江泽民放弃追随保守派停止改革开放的政策，转而支持改革开放。（陈云多次认为改革开放差不多该结束了）</p>
+
+<p>赵紫阳被要求复出是90-91年，最迟不超过92年就没有赵紫阳的事了。</p>
+
+<p>当时已经看到有分歧，邓找赵紫阳出来就是为了解决江泽民的问题，江泽民后来服软，陈云放弃保守经济政策路线，双方就没矛盾了，这些问题解决都早于胡温进入核心政治圈之前。</p>
+
+<p>胡锦涛当常委是92年10月中，南巡是2月末结束，找赵紫阳是90-91年，所以可以看得出时间线，赵紫阳没法预判后面发生的事。（胡温最早知道至少都是92年夏天以后了，因为政治局构成是10月中公布的，胡要早一些，是末位常委，温是候补委员）</p>
+
+<p>而且就算是胡锦涛，你查一下赵紫阳对胡锦涛的评价就知道了，没法指望的一个人，温家宝的改革意识更好，换句话说其实胡温比胡赵的改革观都差太多了。</p>
+
+<p>赵紫阳的嫡系，学者智库的，许多都被追究责任。</p>
+
+<p>有党内身份的一些非常好的老党员，也被处分甚至差点开除党籍都有。</p>
+
+<p>赵紫阳两个很重要有影响力的嫡系，一个是杜润生，一个是田纪云。</p>
+
+<p>田纪云后来已经不怎么被允许直接参与政治局核心的决策了，只能当工具人，虽然地位高但没啥可以做的。胡耀邦钦点的接班人胡启立就干脆完全被闲置。（专精政务的副总理变人大副职了）</p>
+
+<p>杜润生影响力大，门生特别多，可还是很容易被排除在核心圈子外，就王岐山混到了最高层，还跟他是姚依林女婿有关。</p>
+
+<p>哪怕赵紫阳在四川典选的朱镕基，被邓看好，但还是拿来当擦脚布，去给国企和银行暴雷顶缸，做专门擦屁股的工具人，你看现在多少在骂的。</p>
+
+<p>老战友万里，也被变相闲置到不能发挥他水平的位置，导致万里知名度与影响力一直不如胡赵。</p>
+
+<p>大体上，改革派除了胡耀邦路线的团派被肃清一次给重新改造驯化后，其他的要么是第三梯队上来的，要么是红色江山红色子弟框架的人选，或者两者混合。</p>
+
+<p>江泽民最爽的一段，其实就是陈云跟邓小平死后那几年，军队也没有了压力，所以你可以看到他精神状态完全不像快七八十的人。</p>
+
+<p>—– <strong>1497.19</strong> —–2022-01-15 16:07:21+08:00:</p>
+
+<p>随着社会的产业和技术发展，赚钱的形态也在改变，很快到最后人们就会发现，靠权力谋取利益的形态无法在新社会下维持，想要有更高层面的经济成就，就必须进行改革，否则就是停滞在一个落后局面内耗。</p>
+
+<p>—– <strong>1497.20</strong> —–2022-01-16 05:55:18+08:00:</p>
+
+<p>美国不是以权谋利，权力在美国社会不是主流媒介，金钱才是。</p>
+
+<p>权力是无法用金钱衡量的，皇帝与议员的区别就在于，皇帝可以一句话杀光一族人，议员只能基于他的身份去执行被赋予的权力。</p>
+
+<p>政治献金这点一直是很多人的盲区，政治活动不可能没有经费或得到捐助，这种机制本身反而是在确立一套透明的公开标准，将不可见的系统性利益输送拉到表面，从而将大多数黑箱操作非法与不合理化。</p>
+
+<p>权力寻租是只要有人的地方，就会发生的事，任何国家和社会都无法避免，不能避免不代表不应该避免，要解决问题首先要控制权力的获取与使用范围，从而让社会比过去更高效率运作。</p>
+
+<p>如果美国社会办给公司，做个电影和游戏，都有一大堆当权者担心自身统治地位而设置的审核与排挤，经济与文化产业不可能这么兴盛。</p>
+
+<p>一个人有无限大的权力，钱对他来说就没有价值，一切目标都只是巩固政权，因为政权的绝对暴力可以赋予其无上的话语权。</p>
+
+<p>现代工业的准则，衍生一系列的生产力标准，这种结构下就是没人可以不遵从逻辑去作为绝对权力的象征肆意干涉和操控，实际上这就是一种打算支配所有事物的农业社会落后价值观。</p>
+
+<p>美国人口多，转型慢，但也已经渡过了大部分威权体系，是民权为主的社会。人口更少的发达国家，转型速度更快，民权占了相当大的主导地位，社会架构的成分利，威权很少，并且整个人类社会都是往越来越少，去威权化发展的。</p>
+
+<p>需要威权化的支配与操控进行生产的社会形态，其实非常落后。</p>
+
+<p>从威权过渡到新的社会形态，是要有一个过程，如果有威权不愿意自我改革和淘汰，就会卡住整个社会的发展，国际竞争下被其他人抢走机会，错过了发展黄金期，等下一轮可能要许多许多年后。</p>
+
+<p>—– <strong>1497.21</strong> —–2022-01-16 23:42:20+08:00:</p>
+
+<p>区别很大，尽量不要用任何国内累积的语境去探讨或代入这些问题，通常与事实不符，只会误导你，这也是我谈很多普及观念时，会提到的要点，错位思考通常很难，所以干脆要跨过去。</p>
+
+<p>议员可能成为某种利益代表，但不是白手套，要搞清楚白手套是什么。议员可能存在权力寻租与利益输送，但不代表在该体系和氛围下是合理的。</p>
+
+<p>国内喜欢塑造一个封闭式话语体系的，就是“大资本”家族。</p>
+
+<p>最典型的，国内吹的很厉害的洛克菲勒家族，的确影响力大，但从休曼法案到反托拉斯法，一系列的提议与通过，公司直接被解体，这件事本身就是议员从法律层面推动，到后期姓氏与血缘已经无法决定立场。</p>
+
+<p>包括大量的政治家族，也只是一种职业，无论每一代是谁，公权力的获得都必须通过一种公开验证的程序，比如公开演讲、选举、辩论与党内联合进行动议。</p>
+
+<p>并不是说没有特权现象，但这种情况并不是一种不成文或既定的规则，而是绕开了监督体系以外偷偷摸摸的行径。</p>
+
+<p>国内的问题是，特权是被明确公开化，特权阶级是一个明确有目标的组织，美国的特权阶级只能是在公权力以外的隐晦角落暗地存在，是一种金权利益联盟，我国的特权阶级直接垄断了所有公权力的解释权、来源以及问责机制。</p>
+
+<p>严谨的来说，中国不是一个现代国家，只是用现代工业技术生活，内核依然跟明清区别不大的封建国家，少许的采用了共和制与寡头联统的方案。</p>
+
+<p>90后与00后当政，也依然会秉持比现在更激进的管控政策。</p>
+
+<p>原因很简单，在公权力被垄断，普通人禁止染指的封建社会下，血缘与血脉是一种入场券。上一代不会选择可能推翻之前政策，不利于红色家族的人选上台。</p>
+
+<p>没有利益集团是铁板一块，但涉及社会地位与生死存亡的话题，铁板还是不小的，有选择权的老一代，也不会选择不是铁板的任何红色后代上位。</p>
+
+<p>就像现在常委会成员里，他们选自己子女来接班，也不会选择可能威胁到整个家族的叛逆者，而更大几率是他们的子女、孙辈，都会维护自己的家族以及地位。</p>
+
+<p>并且因为是年轻人，对年轻人更了解，采用的手段更细致入微，更能严防问题发生。</p>
+
+<p>地方世袭问题已经从建国到现在持续许多年了，偶尔有洗牌，但地方产业与公权力依然是由地方门阀混合，中央派遣流官形式组成联盟，互相维持一种稳定体系。</p>
+
+<p>跟苏联那种党政公务有一定分离的还不一样，中国社会各方各面都很封建，阶级的划分不主要来自于金钱，而是来自于公权力。</p>
+
+<p>出生时没有红色血统，或者日后联姻与追随领导进入中央，几乎一辈子都不大可能在某块领域主政。</p>
+
+<p>改革开放前半段，虽然会用红色血统，但也会提拔寒门子弟，但是习近平执政后，已经重新明确红色江山红色子弟的选拔路线。</p>
+
+<p>这意味着，权力的分毫不让，维持统治阶级与被统治阶级的观念，最终大概率会导致民众想获得公权力，必须靠暴力手段。理想情况是社会运动倒逼高层服软改革，糟糕情况是打内战，就在你我有生之年。</p>
+
+<p>—– <strong>1497.22</strong> —–2022-01-17 02:57:40+08:00:</p>
+
+<p>延安整风里胡耀邦跟叶剑英认识，叶剑英对胡耀邦印象好，后面对他一直很照顾。</p>
+
+<p>叶剑英也是胡耀邦进入一线军事工作的“介绍人”，两个人私交本身就很好，叶剑英之后很多次救了胡。</p>
+
+<p>解决四人帮后，改革开放最初还没敲定怎么做，叶剑英让叶选宁去找胡耀邦，胡耀邦给出著名的中共版本隆中三策，这个其实挺出名的一件事。</p>
+
+<p>虽然当时没立刻开始，但后来叶剑英也很努力推动胡耀邦入主中央，当时邓小平是没有话语权的，胡耀邦也离开了党务工作没什么实权，叶剑英此时刚刚解决四人帮，党内权力极大。</p>
+
+<p>所以你可以想象，跟赵紫阳这样主要依赖邓作为政治依靠的人，跟胡这样既有叶剑英，又有邓小平，自己还有相当政治人望的地位差距。</p>
+
+<p>雏凤清于老凤声就是叶剑英引诗激励胡耀邦的，这些都可以查到，建议有时候可以先查查。</p>
+
+<p>叶剑英对广东影响力很大，军队内部影响力也极大，所以改革开放首先在他支持背书下，扫清了广东地区的保守派压力，党内因为有军事力量背书，华国锋那面就很难再坚持下去了。</p>
+
+<p>不过因为早期支持过华国锋，叶剑英实际上也在华国锋下台时吃了挂落，也有反省认错，拨乱反正一开始华国锋也不是完全不支持没做，但后来两个凡是跟拨乱反正有冲突，推翻四人帮的政治团体内部出现分歧，外部有压力，胡耀邦就后来居上。</p>
+
+<p>还有一点就是叶剑英其实不支持两个凡是，并且是最早公开支持胡耀邦的“真理大辩论”的常委（如准确无误），叶剑英养女戴晴也说叶路线和为人温和，这一点在叶的侄子谈叶在改革开放政策上也有体现，尤其是对胡耀邦工作的支持力度，不比邓小。</p>
+
+<p>不过叶因为一些原因，实际还是推举邓作为集体领袖，但话语权和分量仅次于邓。元老力，叶剑英、习仲勋走得近，他们两个又跟胡耀邦关系非常好，政治观点与风格也接近。</p>
+
+<p>对资产阶级自由化的批判，其实不是86年学潮才出现，而是从改革开放一开始就有保守派，当然之前因为有毛派和华国锋的原因，所以对比他们显得都右，陈云就被当时批为“一贯右”，但实际转换到市场化和自由化时，就是左倾保守派了。</p>
+
+<p>胡耀邦一直顶着内部压力，然后开始跟保守派出现分歧，最后86年学潮也只是一次阶段性的总结，叶剑英是10月末死，学潮12月发生，胡耀邦不到两个月就下台了，走的还不是正常程序。</p>
+
+<p>叶剑英如果活的比邓长，党内很可能会用更温和的手法处理学潮，因为再过几年邓等人不得不下，胡耀邦接班的胡启立上来，改革派年轻代入主中央。元老院又有叶又有胡。</p>
+
+<p>邓在八六学潮处理上手法不激烈，党内最高层意见基本没相左保持统一，八九学潮打算杀人了，军队和党内都出现了明确的反对声音。</p>
+
+<p>如果叶剑英还在，八六学潮基本不可能让胡下台，八九年邓更不敢杀人（其实胡在，邓也不敢，更何况军队背景有绝对优势的叶剑英，胡本身也有军队背景，这几个人一环扣一环，到赵紫阳这军队背景就很少，可以忽略不计了。）</p>
+
+<p>—– <strong>1497.23</strong> —–2022-01-17 04:08:34+08:00:</p>
+
+<p>一般是地级和县级混合，市级居多，县也有，但相对少，为主的是县级市。</p>
+
+<p>很多是个比例问题，如果硬找，乡级也能找到流官。</p>
+
+<p>常委比例没法算，因为有的私人关系不在台面，这个东西现在查很难很费劲，数据会失真。</p>
+
+<p>只能等共和国倒台，看有没有渠道去进行统计了，本身就是体制外不成文的规矩，体制内肯定没数据，要未来几十年民间修史才能有人做这件事。</p>
+
+<p>不过有一些蛛丝马迹，比如申纪兰就是地方小门阀的一个典型，其实我自己看各类资料时可以明显注意到一些人在中央竞争失败或压根没机会后，都只是在地方有影响力，但我没做系统性统计，这些人的后代子女，大部分肯定是在当地有很大影响的。</p>
+
+<p>除此之外，还有一类人也是建国元老，党内职务与官位未必高，甚至很低，但是人脉广，你查任何历史是查不到这类人的（或几乎查不到），他们的待遇很好，子女也是有前途，但不一定局限在地方。</p>
+
+<p>—– <strong>1497.24</strong> —–2022-01-17 04:44:46+08:00:</p>
+
+<p>我刚好借这个机会说我搜集到的一个例子，之前一直想说，但老忘，就是一个开国元老贵族家庭演化过程。</p>
+
+<p>这个元老年纪比万里大几岁，帮过万里算战友老大哥，跟滕代远妻子有些关系，本身在东北，后来也算巧合，滕代远又负责铁路，这个人在东北黑龙江到辽宁的铁路系统、游击队有影响力，在齐齐哈尔铁路局工作过，但是因为是三开人物（国民党吃得开、日本人吃得开、共产党吃得开），成分很复杂。</p>
+
+<p>后来可能是卷入中央与东北的矛盾，导致地位一直不高，但长女后来跟万里部下联姻嫁到北京，女婿是铁道部物资局长，退休是副部级，这一脉的子女当外交官。</p>
+
+<p>长子在沈阳铁路系统，次子在别市当市长秘书，不过因为文革都被干挺了，到死也就正处。这个人本身在文革时死了，没等到平反，所以子女后代大部分都没吃到照顾。</p>
+
+<p>尤其是长子和次子，性格非常轴，不给家里人办事，不给外人办事，刚改革开放时因为铁路局和公安都有大量物资和小金库，有一些公家资产有不成文或公开规矩可以下级自行处置，铁路枕木倒卖，长子允许别人碰，但禁止自己儿子卖。</p>
+
+<p>次子的办公金库（就是公安部门行政默许的私人金库，当时是没行政资金的，全都要自己想办法）80年代早期就有近百万，下属说花点钱走关系，加上老人的背景，可以升厅级，退休拿副部级待遇没问题，多余的钱还能自己分了。</p>
+
+<p>近百万什么概念，当时一个月工人月薪才几十块，然后这个人的次子特别轴，就是不肯，钱全交公，没走关系也没自己拿，也没分给下属。</p>
+
+<p>然后最经典当时我知道也惊讶道了，这个次子的妻子，是当年孙春兰的好友，都是劳动模范一起工作，但是因为各种原因，哪怕有资源给她，也因家庭或性格缺陷，导致没升上去，改革开放到六四后，有人找他们一家去美国，都不愿意去，觉得留在东北好。</p>
+
+<p>三子是唯一大学生，原本在哈尔滨铁路与林业系统，后来三子的子女发达，女儿可能是受长女家庭照顾，物资局改组后的铁路公司里担当中高层，儿子在空军混到了上校，军内给保证是可以到大校。（之后谈原因）</p>
+
+<p>三子长女一家是跟习近平随行的特定团队，尤其是前几年一带一路时，长子能拿到保证是因为派系上跟吃了习的照顾。</p>
+
+<p>因为习仲勋跟这个元老关系特别好，家里最吃苦什么都要做跑关系的主要是次子，我听他们说的意思就是这个次子是受气包，什么是都要替大哥和父亲办，但没想到因祸得福（虽然是三子)。</p>
+
+<p>要跑关系，所以这个次子曾经在习仲勋受难时，替父亲给习仲勋走动去探望他，也给习近平在北京和地方处境特别不好时去过照顾，后来次子一家跑路深圳，因为晚年习仲勋是居住在广东，我怀疑就是有这层因素。</p>
+
+<p>这个次子呢，死的比较早，九十年代习近平上台前近二十年前就死了。习可能念旧或者别的什么因素，这个家族没直说是习如何如何安排关系。但可以推测出有联系。（只不过不是给次子家族了，给了在北京的三子家族，后续没任何联系）</p>
+
+<p>所以三子家族就受益很大，次女和三女基本退出官僚体系，变成普通工人，也就在退休生活城市有不错的生活水准。</p>
+
+<p>长子家族兜了一圈，又绕回了政商界，不过是靠娘家的力量，在东北有几个亿到几千万不等的资产（整个家族和妻舅家族，主要是妻舅能折腾），因为长子长女不和，所以文革后虽然元老去世可以靠长女家族关系让长子起来，但长子始终体制内地位不高，只是人脉广，长子有很多同窗与同期好友都当上部级和省级，他们说有正国级，但我没猜出是谁。</p>
+
+<p>最拉跨的就是次子家族，基本所有最好的资源、人脉都凑巧集中在次子家族，吃苦但不享受政治优待，因为各种意外和性格因素，啥都折腾不起来，包括这个次子家族在八十年代末到九十年代初在深圳搞地产，因为不适应就放弃了，家庭子女基本回去就当基层公务员，大下岗后更拉跨，一直到两千年后全家南下才明显好转。</p>
+
+<p>给我最震撼的是三子家庭，三子的长孙有个很特殊的事，就是三子和元老一系列人脉乱七八糟的，可能是万里下属或别的什么人，总之级别非常高，跟习混的很可以，跟这一家关系也不错，他们没说，我推测是个副国级的，说这个长孙以后长大成年了可以为体制接班，组织可以保障他读书没压力（无考保送），要是允许可以到地方先历练历练，回来为跟总书记的奋斗历程一样，为党出力。（你看习的履历就知道了，怎么到地方，回来干什么的），然后这个长孙才十来岁上初中而已。</p>
+
+<p>但要说这个三子家族多大势力和财富，也没有，只能算比工薪族好一些的中产，可能就是不会让我知道的吧，这个毕竟我也没渠道去调查了解，但应该不会比现在一些有实权的各级干部那样根深蒂固，动辄几千万几十个亿似的。我估计撑死也就一千万以内资产（不算持有的几个房子）</p>
+
+<p>还有个细节就是吃喝这方面，这个家族在三年大饥荒时，每天都可以吃一只鸡，鸡蛋吃到吐，导致有个孙辈吃伤了，这辈子闻多鸡蛋味都恶心那种，不能吃多。家庭子女吃吃的是高干粉，这个我查了，发现可能是六七十年前的一种谐音梗。</p>
+
+<p>北方有一种糕干粉，是给孩子断奶后吃的，这个高干粉，可能就是当时体制内分发的苏联或美国奶粉，是优质替代品，谐音梗估计就是当时人的一种态度，元老年纪较小的子女和孙辈就是吃这种高干粉大的。</p>
+
+<p>元老的子女出生时，在40年代，就是有保姆、别墅、优质地板、喝牛奶长大，从小到大的认知里没有“没电”这个概念，就是说中国许多地方到改开后才通电，但这个家庭里成长的，从小就跟现代人一样是电力设备很普遍。</p>
+
+<p>几个家庭里，我听他们说的信息，跟普通人或地位低过他们的外人联姻的，大部分阶级都下滑了，跟同阶级联姻的，大部分都维持住或者上升了。</p>
+
+<p>次子、次女、三女都是跟更低阶级的联姻，长女、长子都是跟更高或同级联姻，三子算半个例外，但三子的子女跟同级进行联姻了。</p>
+
+<p>我觉得这其实反应了一些问题。</p>
+
+<p>—– <strong>1497.25</strong> —–2022-01-17 05:22:02+08:00:</p>
+
+<p>叶剑英没有，因为戴晴说过了，她跟养父关系不是特别亲密，虽然做文字与历史记录，但是当时没想到这点，所以叶剑英死后她才意识到损失了一个重要信息来源，只记录很少内容，其他大部分的叶剑英历史，除了党史和部分亲属的，亲属那部分可以看他侄子的一些文章，整体不多，不像胡耀邦和赵紫阳。</p>
+
+<p>胡耀邦的资料很多，最典型的就是官方默许的胡耀邦史料信息网，胡启立也写过耀邦百年祭去粗略介绍他与胡耀邦的关系跟人格、政治理念。</p>
+
+<p>还可以查一下“他一向追求讲真话”这篇文章，也是讲胡耀邦主要支持者朱厚泽的，有很多借题发挥讲胡耀邦的内容，朱厚泽还写过一篇讲胡耀邦的全面改革主张的文章，很多可以当政策与路线引索来看。</p>
+
+<p>还有高勇写的《我给胡耀邦当秘书》，魏京生也在胡耀邦去世后写过纪念胡耀邦，这个很值得看，用党外反贼视角看待胡耀邦，同类文章还有“关于民主墙的一段往事”。</p>
+
+<p>就现代视角来看，客观上当时的人都期待改革，只是不知道怎么改，哪个方向对，既想局势好起来，也有自己立场的小算盘。</p>
+
+<p>所以这个过程里破冰，赵紫阳和胡耀邦、万里的政绩就非常突出，敲定了华国锋和陈云的落败，私交方面胡耀邦与陈云关系也很好，但到了动真格时，哪怕邓小平也不会有太多顾及。</p>
+
+<p>我觉得这就是现代中国历史的一个悲剧，理想化的局面与主义，但随着改革推进，大家又回到了政治的真正本质，变成了你死我活。</p>
+
+<p>政治光谱大抵是可用的，但是不能反应人的所有取向，比如陈云，陈云毫无疑问是左派头子，但他仍然会在一些公务上公事公办，没个人恩怨问题在里面，对改革的抵触到了最后就是价值观取向了。</p>
+
+<p>包括邓小平也是，邓也希望中国好，但他的好，对改革的理解，慢慢彻底与中国人的实际需求走偏，他们就变成了落后的一派，所以你对他印象的演变结论是没错的，这个我以前也经常对人提起，改革的进程，把信息迷雾走完，大家知根知底后，就开始分裂了。</p>
+
+<p>—– <strong>1497.26</strong> —–2022-01-17 05:35:48+08:00:</p>
+
+<p>每个国家改革派的情况不同，整体上保守主义者的手段更无下限，而不是遵从一种原则去公平竞争。</p>
+
+<p>而一个威权组织，本身肯定是保守派居多，改革派的发挥与生存空间有限，这也是温家宝这样有改革意识的人，不可能在高位一个人就可以逆转的，只是他有能力说一些出格的话不需要担心被清算而已。</p>
+
+<p>党内还是要开会的，每个元老或身居高位有决策权的人，都代表了相当的利益与政治版图，如果会议内不能解决这种分歧，失去对方的支持，任何人都是孤掌难鸣，总归有一些话题不可以碰触，比如民主改革或放弃四个基本原则。</p>
+
+<p>你可以旁敲侧击说不能回到文革，但你绝对不能在党内提放弃四个基本原则，你能加入这个谈话做全国决策是因为你是共产党的核心人员，如果你放弃，核心人员会立刻把你踢出圈子。</p>
+
+<p>一些经济落后的国家，改革派难以一次性成功的根本原因，就在于改革的缺乏社会上经济的基础。</p>
+
+<p>当社会上的经济得到了全面发展，改革才能凸显问题，也就是保守派制造的麻烦有多厉害，被经济增长一体现，民间才能意识到问题，如果只是一种局限在少数阶层的需求，没扩大到产业与社会各层面，很难形成自由化改革的自留地。</p>
+
+<p>这也是赵紫阳注意到的，他其实很早意识到改革派面对的压力，这个人就很务实，想先从基层和各类舆论开始解放，来形成改革派的自留地，可惜没成功。</p>
+
+<p>现代社会，其实已经形成了自由化的自留地，因为经济增长带来了产业的变化，互联网、各种娱乐形式，人的公民意识与对自我民权权益的扩张，都在不断跟保守派的威权形成抵触。</p>
+
+<p>过去民众们痛恨军队屠杀，知道什么是好什么是坏，但也无法逆转整个社会随经济发展，而更注重实质性好处的情况，所以精神与道德不能完全脱离物质基础。</p>
+
+<p>当物质基础也被完全发展，人们意识到保守派的屠杀与政变，是一种对自身实质利益的威胁时，永久性的对立就形成了，这也才会真正具备改革派的社会基础，哪怕跑到某地去也能一呼百应。</p>
+
+<p>还有另一个层面就是，改革派需要解决问题，当社会整体问题不是绝对危机，或可以被增长抵消时，改革派的突出性就没那么明显。</p>
+
+<p>所以在民国时，毛的共产党就算反对派和改革派，就有人买账，几十年后他们就变成了保守派，改革派就变成了邓胡赵，再改革市场化后，邓和陈云这些对比毛更先进的人，却也成了保守派。</p>
+
+<p>改革派的出现就是个不断循环的过程，奔着历史客观趋势去的，直到触及生产力能赋予社会的极限边界。</p>
+
+<p>—– <strong>1497.27</strong> —–2022-01-17 18:20:22+08:00:</p>
+
+<p>一朝天子一朝臣，听那个意思可能是保底厅级，这种事是没定数的，只是反应现在当局怎么处理公权力与子弟的关系。</p>
+
+<p>—– <strong>1497.28</strong> —–2022-01-17 18:33:46+08:00:</p>
+
+<p>拒绝复出是错误，是我们上帝视角知道一切情况。</p>
+
+<p>但是赵紫阳真实情况是不知道未来状况和朱镕基会上任，因为赵他复出是确定胡温隔代指定，以及江泽民开倒车让邓很不满。</p>
+
+<p>后来邓跟陈云和江泽民妥协，双方互换利益，也确定了隔代指定，就不需要赵紫阳了。</p>
+
+<p>赵紫阳复出，江泽民一个完全没基础的人根本没法和他斗，主要压力来自于邓和陈云，李先念也搬不动赵。</p>
+
+<p>朱镕基98年上任，胡温后来也陆续全面接班，田纪云还在当时做过一段时间副总理。</p>
+
+<p>不过赵紫阳当时是没法知道未来的事，所以上帝视角拒绝复出是可惜的。</p>
+
+<p>但真实情况，在不知道未来的前提下，复出承认错误等于给人话柄，这就是复出与否的矛盾性。</p>
+
+<p>—– <strong>1497.29</strong> —–2022-01-17 18:34:37+08:00:</p>
+
+<p>想多了，只是有这种普遍例子。</p>
+
+<p>—– <strong>1497.30</strong> —–2022-01-18 03:06:29+08:00:</p>
+
+<p>都拿下了就不用斗了，实际上一开始斗拿下后，也的确发生了陈云遥控江泽民跟邓阳奉阴违的情况，所以才导致南巡。</p>
+
+<p>邓通过南巡二次号召表态，实际上因为威望和人脉问题，江泽民和陈云顶多跟邓拼个五五开，胡赵改革派，虽然祖师爷是被邓废了，但政治光谱依然还是一致的，就像田纪云，是当时支持邓南巡坚持改革开放的中坚力量。</p>
+
+<p>所以虽然政治分歧上邓政变了胡赵，但长期立场利益田纪云还是会为了自己价值观与立场去维护邓。</p>
+
+<p>后来来杨尚昆都被邓劝退，作为交换就是陈云派系拥护改革开放，把邓的改革开放路线写入党章，写进党章了，党内议程就跳不出去了，这是党内工作会议的原则。</p>
+
+<p>除此之外，邓还在之后几届政治局插了一堆跟江泽民不相上下地位比较倾向改革的常委，乔石、李瑞环、尉健行、胡锦涛、温家宝、朱镕基、李岚清。</p>
+
+<p>李鹏也是邓扶起来的，也是力主改革的，但改革派内部不划他进去，口碑也极差。</p>
+
+<p>万里和田纪云作为改革派影响力太大，田纪云是赵的嫡系，跟胡启立一样冷处理，还任用但是没让他进常委，也一直安排做下去。</p>
+
+<p>这两人没进常委，其实也可以理解为邓怕翻案，因为邓、李、陈死后，党内地位最高影响力最大的，无非就是万里了，跟胡赵一个时代还硕果仅存的，其余年纪更大或平辈的，要么本身所属权力没万里部门大，要么党内地位不够。</p>
+
+<p>万里和田纪云进常委，赵紫阳出来自由活动可能就是时间问题了，有可能复刻毛死后邓复出的局面，搞不好会先让胡启立上来。</p>
+
+<p>所以这里也可以看出邓防了一手，防改革派嫡系，比防保守派还厉害。</p>
+
+<p>陈云争不过邓而已，不是不争，邓失去的是嫡系，他在军政党三个分支，现在已经没嫡系传人了，团派奉胡耀邦为祖师爷，江派是江泽民和陈云李先念，习派也是陈云政策的衍生分支，党内部分改革派和党外以赵紫阳为中心。</p>
+
+<p>除了名义招牌，邓的实际政治势力影响力，已经退出历史舞台，他晚年就是靠自残一波确保六四不发难，靠地位和威权压陈云一头，逼对方妥协坚持改革开放，然后就身死道消了，他希望坚持能走慢慢改革去优化的路线政策，后人也没执行。</p>
+
+<p>—– <strong>1497.31</strong> —–2022-01-18 03:13:15+08:00:</p>
+
+<p>邓是不能随便处死的，毛死虽然很多人，包括毛自己到最后一段时间有预感，但实际是突发事件。</p>
+
+<p>邓是有身份地位的，就算没职务变庶人，也有很多牵扯，毛也不可能知道邓后来复出翻盘当上老大，华国锋和四人帮，甚至陈云，都远比邓说得上话。</p>
+
+<p>怀仁堂也跟邓无关，邓在四人帮下台后还得装孙子。毛邓本质是一路人，只是性格不同，邓是毛的好门生，毛对邓的态度是逐渐改变的。</p>
+
+<p>—– <strong>1497.32</strong> —–2022-01-18 05:04:03+08:00:</p>
+
+<p>邓比毛正常人的一面更多。但涉及利益，到最后还是毛的做派，毛一堆黑历史，邓也不少，但最关键的就是六四，他怕翻案，跟毛死前一样。</p>
+
+<p>—– <strong>1497.33</strong> —–2022-01-18 05:08:21+08:00:</p>
+
+<p>邓就是觉得这种模式好，能带来真正的经济发展，邓显然并不真正相信毛的那些主义，或者早期相信后期不相信了，具体跟经历什么的无从考证，但邓外访可能有关。</p>
+
+<p>文革不是鸟笼经济，是没经济，社会与经济处于一个非常野蛮且无序的状态，整体上因为技术与生产力进步，比前二三十年好，但是社会实际已经千疮百孔，没什么活力了，文革末期某些地区犯罪率在爬坡，四五运动和南京群众运动，都反应当时民众不满程度。</p>
+
+<p>鸟笼经济要对比大跃进、洋跃进和文革，都要好很多，这个模式跟苏联的很像，陈云学习和了解的就是这套，能让社会有一定发展，但谈不上跟市场经济比，现在其实就有点倒退回鸟笼经济的意思，虽然还没做到，也很难做到。</p>
+
+<p>所以鸟笼经济尽管现在来看离谱，但当时对比文革就是进步很多了。陈云观念里觉得这样更好维持管控，因为控制经济才能保证党的生存命脉，后期这个思路其实被习政府贯彻了，江胡时代是野蛮生长分蛋糕，直接介入管控意味不强，习时代是政府主导介入，强势操控甚至取代，利用优质民企去给国企续命。</p>
+
+<p>还有一些牺牲经济基本盘去延续政府高收入增长的做法，基本都是祸害百代的恶政，江胡时代就在做，现在做的更积极更主观卖力。</p>
+
+<p>—– <strong>1497.34</strong> —–2022-01-19 00:02:29+08:00:</p>
+
+<p>古代镇压与屠杀平民也不是天经地义的，也讲究合法性与政治正确，汉武帝穷兵黩武要下罪己诏，秦始皇暴政被骂几千年，曹操屠城被骂了整个魏晋南北朝，只是这些在古代不是决定性影响因素。</p>
+
+<p>何况邓在现代，他的反应是古代，但他很清楚自己在什么年代，需要注意什么口碑，毛尚且如此，邓自然也一样，所以才会一遍遍说反党反革命集团，目的就是名正言顺，争取大多数人的支持。</p>
+
+<p>—– <strong>1497.35</strong> —–2022-01-19 06:29:28+08:00:</p>
+
+<p>很多东西是中共唯结果论，很多人顺势思考的答案，而不是事实。</p>
+
+<p>中共能夺取政权有其自身客观优势，也有环境因素，历史给社会的答案不是必须某某政权执政。</p>
+
+<p>因为对历史趋势来说，一百到两百年是非常短暂的一个时期。</p>
+
+<p>比如A阶段农业社会和B阶段工业社会，对历史趋势来讲都是必然的。</p>
+
+<p>但是A可以停留5000年，B可以只用20年就完成，也可以反过来。</p>
+
+<p>人们对这些历史必然结果的观点，取决于他们观察历史发展的窗口期。</p>
+
+<p>这个窗口期是指一个人的物理寿命，他们觉得很长，是因为他们只能活这么久，所以我们觉得现在进行时的“中共政权的合理性”，是一种历史和人民选择共产党的答案。</p>
+
+<p>而不是意识到共产党可能只是阶段A到阶段B的一个很短暂的过渡政权，人们认为很长是因为人们只能活60-100年，一个人雄心壮志的巅峰期也就30-40年。</p>
+
+<p>这也是为什么我们年纪很小不关注社会发展时，这些事和历史话术对我们毫不起作用。</p>
+
+<p>就像我们现在看过去历史一样，在民国时代的人来看，混乱的民国就是个不堪受苦的时代。</p>
+
+<p>或者建国后各种运动，大吃饱和大健身几十年，对他们来说也会觉得是历史选择了这些，他们无可适从。</p>
+
+<p>然后不到三十年，这些都被视为污点被否定，所以这些短期观点真的有必然性么？</p>
+
+<p>还是说，只是我们意识不到的短期历史内，中共为自己政权合法性披的一层话术呢？</p>
+
+<p>人的生产与生活模式，才是整个社会的运作基础，历史趋势选择的是对整个人类族群更有益，并且地理与技术条件允许的生产力结构。</p>
+
+<p>共产党夺权时，社会的生产结构本质并没有太大改善，基本还是一个农业社会，那么更能调动组织生产的团体，必然会获得更多的物资与人力去发展成全国政权。</p>
+
+<p>国民政府的失败，就是在于他们失去了这种自我调节与调度能力，相比之下共产党对经济与物资生产的处理，比同期蒋介石疯狂发行法币去维持军队的做法更符合逻辑。</p>
+
+<p>所以国共战争的结果，只是两个独立于民众的政权互相淘汰的结果，人民在这里起的影响并不大。</p>
+
+<p>并不是代表无产阶级革命才能救中国，只是恰巧共产党的对手更蠢或犯错误不断累积，多到连锁崩溃。</p>
+
+<p>蒋介石在内战里最大的错误就是着急开战，又没总动员迅速消灭敌方，经济本身就处于难以为继的长期劣势，短期前线优势不能转化为长期战果，导致精锐被消耗后，共产党的财政优势开始发挥，蒋介石还优柔寡断一时停战一时开战。</p>
+
+<p>最后不得已开始疯狂发行货币，试图继续维持军费保证前线战争维持下去，结果反而导致后方经济崩溃，最后人多不管用，没有钱去武装，就成了刷战绩的包袱。</p>
+
+<p>如果非要找个历史必然性去解释共产党上台，那我们只好假设人类社会里存在一种平衡人口与生存资源的系统。</p>
+
+<p>这个系统发现中国地区的人口过多，挤占了附近或全球其他产业链下的一些国家的生存空间，所以通过规则内的条件，自然演化共产党的集权结构，并且对内不断折腾，淘汰大量的人口。</p>
+
+<p>优化出更多资源去给其他地区的人类社群，达到一种动态平衡。</p>
+
+<p>当然这也是我自己的观点之一，两者是可以搭配的，基本上所有人口多人均资源少的国家，都出现了类似的威权结构，说明趋同进化在社会层面也是存在的。</p>
+
+<p>历史可以归类为族群演化的必然性，农业发展到工业是好的，对内折腾减少人口对人类族群也是好的，只不过我们个人视角看就是悲剧。</p>
+
+<p>至于人民的选择，这个看看苏联就知道了，共产党这些话等我们晚年回头，大概也是苏联一样的笑话。</p>
+
+<p>—– <strong>1497.36</strong> —–2022-01-19 06:30:37+08:00:</p>
+
+<p>好家伙，那你得看多少啊。</p>
+
+<p>—– <strong>1497.37</strong> —–2022-01-19 21:23:15+08:00:</p>
+
+<p>框架没变，但是也没继续改革，实际上还是在用改革开放初加鸟笼经济的缝合体系。</p>
+
+<p>赵紫阳主张经济的持续改进，大部分赵主政时不利于中央集权的都被废除了，剩下一些改进目标在江胡时代被部分实现，但债务和地方土地财政政策，都被李鹏政府持续放大。</p>
+
+<p>李鹏主政时高债额就是个例子，赵主张限债，现在习李政府发现前些年债务扩的太厉害，才开始着手限制，但已经积重难返。</p>
+
+<p>现在的这个框架已经无法适用于当代社会了，早期靠此崛起也需要持续改进，不可能一个方案用到死，这也是赵早早提出公平社会观念，你看习第三任期也要提倡共同富裕了，但也只是优化，不会改革。</p>
+
+<p>—– <strong>1497.38</strong> —–2022-01-20 21:26:15+08:00:</p>
+
+<p>我写字口语化居多，错别字不少，凑合看吧。</p>
+
+<p>—– <strong>1497.39</strong> —–2022-01-23 01:43:09+08:00:</p>
+
+<p>一开始胡耀邦扩大人才储备时，民间涌入体制的很多给弱化了，虽然也顺着陈云放了红色子弟的缺，但平民始终更多。</p>
+
+<p>但后来随着时间推移又开始强化，习近平已经公开强调红色血统很多年，你没血统升上去的机会比中彩票都低，没血统升上去要么走运，要么就是跟一个领导，这个领导一路带你上去，这也是大部分看似寒门出身的人的晋升渠道。</p>
+
+<p>但是领导要也得跟其他领导升上去，如此类推，越是关键岗位，机会越小，到最后就是没门票基本不会有人选你，贵族与门阀在关键位置和影响力上的比重越来越大。</p>
+
+<p>胡耀邦年代虽然也会有人走关系，但高层还会唠叨当作一个问题，现在直接强调要红色子弟接班，号召红二三四代出来发声，就差公开安排爵位了。</p>
+
+<p>地方比例更严重，家族血亲垄断产业的非常多，安排亲戚去各种市政关键部门干活。</p>
+
+<p>我自己接触老一辈人很多人都非常好，老一代共产党人许多人真的有人很公正很倔有理想主义，现在的共产党人中高层很冷漠，只会出于社交礼貌与人情世故，能明显感觉到两代人思维模式不同，最新一代共产党的后裔，有一些已经赖赖唧唧的了。</p>
+
+<p>也不是全部，有的孩子和年轻的家教还是很好，也不喜欢现在这种制度，但更多的是往不那么好的方向发展，所以我是一直反对一棍子打死的。</p>
+
+<p>—– <strong>1497.40</strong> —–2022-02-02 17:36:34+08:00:</p>
+
+<p>有帮助，但最关键的是蒋介石自己的问题，用错误的社会战略，去执行错误的军事战术，最后崩盘。</p>
+
+<p>因为就算有援助，中共也是一度濒危的。</p>
+
+<p>主要问题是，蒋介石过扩了人力，而财政没有跟上，导致上面看人多，但实际精锐就那点。</p>
+
+<p>军事上填线的看起来好像很多，实际全是漏洞，非常容易被人咬住围点打援。</p>
+
+<p>中共后期也看出来蒋介石军队配置有问题，所以都是穿插然后突然集中火力猛打一个部队。</p>
+
+<p>如果蒋介石部队都是水平接近，按照那个填线密度，是没有解放军穿插余地的。</p>
+
+<p>蒋介石在抗日战争结束后，对中共的军事力量有优势，财政力量没有，甚至可以说是劣势。</p>
+
+<p>所以后续支撑不住，蒋介石胡乱停战，想看机会拉拢寻求谈判空间，错过了最后机会，然后后续发现自己再推动战线，经济已经跟不上了。</p>
+
+<p>蒋介石几年内战滥发货币，对中国经济的损害，比日本人侵华还大，我算过，日本人侵华是掠夺40亿法币价值，蒋介石滥发货币夸张到什么程度？</p>
+
+<p>47年1个月就印了230亿。蒋介石是完全不懂经济，最后自己玩死自己。</p>
+
+<p>实际上综合蒋介石的日记和各方面内容，很容易得出蒋介石当时心态。</p>
+
+<p>他觉得中共会快速发展变得难以消灭，所以在国内准备不足，恢复不到位的情况下，不顾一切投入可能也就有20%到30%优势的部队，希望快速得到结果。</p>
+
+<p>却没想到中共拖住了，苏联援助这里起部分作用，然后蒋介石内部问题开始暴露，中途又停战试图换手段解决问题。</p>
+
+<p>总的来说是瞻前顾后，最后发现消耗战结束，对方有生力量开始滚雪球，并且中共的经济与生产基础，允许他们支撑滚雪球的军队。</p>
+
+<p>蒋介石也想暴兵拖住，却发现后方经济不允许，就开始滥发法币，试图顶住中共滚雪球的趋势，最后顶不住崩盘了。</p>
+
+<p>当时情况，蒋介石坐稳了等几年，国统区的经济生产效率一旦开始恢复，中共最好的结果也只是裂土分国，最差的除了被消灭，就是接受蒋介石的投降建议，被迫组建一个弱势的联合政府，然后被蒋介石在内部拆分。（蒋介石一辈子都是赶鸭子上架，做事太方正，缺变化，围剿时就看得出来，军事战术打正面很到位，换个方法就很死板，蒋介石不傻，也能意识到，但缺乏环境与手段去快速转变）</p>
+
+<p>—– <strong>1497.41</strong> —–2022-02-02 17:59:56+08:00:</p>
+
+<p>1.发达国家扩大内需是一个自然而然的过程，发达国家政府认识到内需经济的意义是较晚的事，早期纯粹是福利待遇的问题，因为基层有要求和声音了。</p>
+
+<p>当意识到以后，政府发现大量的国内中小企，不但可以提供就业，还能带来大量的税收，大企业再大也就几万人，但维持的下游中小企内部供应链，可以提供几十万上百万的工作岗位。</p>
+
+<p>如果政府对市场干预过多，或者经济过渡依赖于进出口，而没有让国内的消费活跃起来，对外部的因素抗力就很差。</p>
+
+<p>日本就有一个抄作业过程，七十年代末到八十年代初，政府对经济的投入下降，私人消费暴增，直接改变了社会的消费结构，一种良性循环模式出现在日本内部，抗风险能力大增，直到大藏省犯蠢玩死自己。</p>
+
+<p>工人和基层要求待遇，在马克思主义和苏联出现前就有，他们是一部分延伸，左派也不只是这些路线，但毫无疑问因为他们的影响力更大，所以很多时候人们一提就会想到。</p>
+
+<p>产业规模扩大化后，带来的劳动力需求也是客观的，这种情况往往不是单一因素，而是多种因素并发。</p>
+
+<p>2.阶级叙事在阶级性强，阶级被人为显性与隐性划分的社会理更有意义，但很多时候被刻意滥用，不与事实匹配。</p>
+
+<p>2.1阶级客观存在，天生差距带来的阶级落差也是存在，这也是为什么内需社会与福利社会对个体的劳动、生存应有基本保障。</p>
+
+<p>提供良好的生产环境，尽量减少劳动的障碍，而不是一味加权，因为对人进行加权去改善生活质量，在资源有限的年代与政府手中，会让施政不平衡。</p>
+
+<p>2.2 哪怕分类不粗糙，常规主张的那种阶级斗争论也毫无卵用，因为根本没法明确每个主客体的利害与矛盾关系。是跳过了实用性，本质只是阶级的再次塑造，一群人消灭另一群人获得话语权，去变成被消灭的人，而不是让集体良性发展。</p>
+
+<p>阶级划分是一种通俗模糊的，有大体范围，但不能用阶级作为一切衡量的指标，阶级是一种社会的自然沉淀物，不能被人为制度化，生产、劳动与消费也不能以阶级为锚点。</p>
+
+<p>3.原始部落，不能说是严谨的君主制，有威权领袖，但往往规模还没扩大到真正意义的“君主”。</p>
+
+<p>而奴隶制的诞生，就是因为早期这些部落，包括现代许多国家、企业与个人，发现了转嫁成本的方法。</p>
+
+<p>最早因为这种原始部落人很少，所以都是以吃掉敌对势力为主，但是慢慢随着人口增加，对外冲突的增长，发现奴役人口带来更多劳动产出，能让部落成员有更好的生活水平。</p>
+
+<p>其实这个时候已经是开始农业畜牧了，因为纯采集渔猎很难扩大人口规模，也很难去控制大量奴隶，不过到农业社会一定程度后，仍然保留大量的对人力的消耗，比如殷墟各种用人献祭的文物，早期殷商的先人肯定是经常吃人，后期仪式性为主，因为奴隶储备主要转为用于劳动了。</p>
+
+<p>血缘交接很容易理解，部落规模很小，就跟动物的聚落一样，一个流浪雄性或雌性，进入新的族群，可能就十几人二十几人的小部落，要么是被杀死吃掉，要么是加入成为一份子，而不可能在这么小的群体里，没有任何血缘基础成为领袖。</p>
+
+<p>一定要在族群内建立某种联系，比如娶妻婚配，建立集体利益共识。</p>
+
+<p>外来的雄性成员有该族群血脉的儿子，那么就会为该部落出力，避免自己的儿子被吃掉或死亡，权力交接自然是在子嗣与后代之间。</p>
+
+<p>父母子女往往是没有任何条件的信任关系，是天生不可分离的血脉，大量的资源会相互继承，权力是一种最直接的方式。</p>
+
+<p>—– <strong>1497.42</strong> —–2022-04-29 15:24:53+08:00:</p>
+
+<p>1.第一点我认为是一种比马尔萨斯陷阱规模更大的，不只局限于粮食生产的内坍塌现象，我不是学者，所以我不清楚是否有学术称呼描述这种现象。</p>
+
+<p>马尔萨斯陷阱只在有限领域，但我提出的这个观点，是逻辑类似，但不一样的概念。
+在这里，我默认当技术允许时，“看不见的手”会提供发展机会，让人口庞大的国家快速发展。</p>
+
+<p>如果发展得当，就可以发达化，通过大量人口转化的科技水平，足以养活超庞大的消费人口。</p>
+
+<p>跟马尔萨斯陷阱类似的是，马尔萨斯重点在于对食物与人口关系的互相作用，而我这里则主要是指就业机会、消费市场与人口的关系。</p>
+
+<p>发达人口的消费是不发达人口的经济增长主要动力，不发达人口远多于发达人口，这意味着不发达人口国家的发展机会是互相竞争的。</p>
+
+<p>同一时间下，发达人口只能保证与自己规模接近的不发达人口有高速经济发展。</p>
+
+<p>对整个人类族群来说，这是正确的发展路线，但是“看不见的手”，希望的是多地理多基因库的族群，都有平等的机会去保证人类族群的多样性，而不是单一地区独大。</p>
+
+<p>所以当一个地区的族群，浪费和拖延这种发展机会时，人口过剩就会出现一些社会演化现象，比如内卷、威权组织盛行，从而淘汰人口来保证其他区域族群的发展优势。</p>
+
+<p>2.差不多，但实际上是三者同时在洋务运动前就已经进行的，只不过国内接受程度不一样，最容易学习的技术更早被引入，思想性和制度上受当局抵制，是最慢的。</p>
+
+<h3 id="1498-习近平要接班是哪一届决定的-submitted-on-2022-01-14-2041070800">1498: <a href="https://old.reddit.com/r/China_irl/comments/s3rg86/习近平要接班是哪一届决定的/">习近平要接班，是哪一届决定的？</a>, submitted on 2022-01-14 20:41:07+08:00.</h3>
+
+<p>—– <strong>1498.1</strong> —–2022-01-15 02:19:52+08:00:</p>
+
+<p>03-05年，当时有陆陆续续有许多人被调入中央或省级中高层核心，习位置变化不大，但同期发生陈良宇被斗倒事件，习没太多铺垫就成为了上海市委书记。</p>
+
+<p>李克强跟习近平同期履历职务很像，都是省委书记兼人大常委主任这种惯例职务。</p>
+
+<p>韩正中间稍微代理了一下，习近平突然又接替镀金，跟着就去中央。</p>
+
+<p>无论陈良宇到薄熙来、周永康，习近平都是两次党内权力斗争的受益者，每次都是河蚌相争，近平得利。</p>
+
+<p>没有陈良宇倒台引发的内部激烈斗争，习近平在许多竞争者里很难有机会被动接班，正因为同期斗的太厉害了，习近平中庸的路线才被接纳。</p>
+
+<p>所以习近平虽然作为预备役进入中央视线是02年，但真正决定还是在06年以后。</p>
+
+<p>并不是陈良宇倒台之前就决定好，至少没太多证据证明，而有许多证据证明陈良宇倒台前后，团派希望推李克强、汪洋和李源潮上位，最后只有李克强站住了，李源潮彻底废了，汪洋凑合接着用。</p>
+
+<p>胡锦涛裸退，团派现在还有话语空间，加上之前扩大化对江泽民的人的肃清，可以看出来跟团派是有协商合作过的，那可能有人想问为什么江泽民会接受？</p>
+
+<p>其实也不是看不看走眼的问题，而是根据已有资料总结，是周永康、薄熙来、令计划这群人，当时在党内的情况曝光后，江泽民也要找人处理他们，已经有点尾大不掉的情况，所以团派和江泽民都给习近平开了整理党内事务的绿灯。</p>
+
+<p>再然后就是薄熙来自爆让人抓话柄被解决，后来扩大斗争范围，一个个纠察，习近平在这个过程里又逐渐掌握主导权。</p>
+
+<p>—– <strong>1498.2</strong> —–2022-01-15 02:50:47+08:00:</p>
+
+<p>所以习近平虽然作为预备役进入中央视线是02年，但真正决定还是在06年以后。</p>
+
+<p>习近平和李克强等人本身就是作为预备役候选人做准备，习近平更早一点追溯跟薄熙来一样，是第三梯队和三种人清算政策下的受益者，宗海仁你查他写的对第四代内容和引用的澄清就知道什么情况了。</p>
+
+<p>—– <strong>1498.3</strong> —–2022-01-17 18:29:18+08:00:</p>
+
+<p>当省委书记早，但到中央做完组织部长，李源潮被闲置到国家副主席和政协常委，也没进政治局常委，十九届中央委员会也没他，实际就退休了。</p>
+
+<p>可能是因为位置不够，或者团派跟习有交易，放位置给汪洋和胡春华这些人，要么就是李源潮自己拉跨人缘差或不受待见，这方面细节消息其实不多。</p>
+
+<p>—– <strong>1498.4</strong> —–2022-01-18 02:43:18+08:00:</p>
+
+<p>目前流通的说法是江派要让陈良宇上位，另外陈良宇的地方经济政策与中央抵触，有不遵从现象，陈良宇靠山幕后是黄菊，黄菊在时还好，黄菊后来病重，被中央的人插手进去，借着社保案开始，一直隐秘行事，先地下调查，陈良宇可能一开始没想到会查到自己身上，跟着找机会在陈良宇和江派反应前就把人控制住，证据链也做完了。</p>
+
+<p>据传李克强曾经在陈良宇倒台后，有被考虑过争取担当总书记，习近平是位子不是一开始就绝对稳固，而是有一定波折，因为陈良宇进常委，从事前各方面的履历和党内规格安排，都是高于习近平的，可以反应江派有积极推动陈良宇接班，习近平原本可能会进人大。</p>
+
+<p>双方争议太大，最后陈良宇倒台后迅速让习近平在上海镀金，可以理解为这个时候已经互相妥协出新的结果，李克强等团派也就没机会了。</p>
+
+<p>不过这只是目前史料缺乏的流通说法，还要等改朝换代才有很多公开档案，现代中共真实党史最密不透风，保密程度远高于前三十来年。</p>
+
+<p>—– <strong>1498.5</strong> —–2022-01-18 03:35:29+08:00:</p>
+
+<p>陈良宇不是红色子弟，江派不能说不遵循，但毕竟利益优先，习近平和薄熙来都是红色子弟，党内其实一直是内部推举，只是红色江山红色子弟为基地，不代表完全没寒门，只是越来越少。</p>
+
+<p>—– <strong>1498.6</strong> —–2022-01-18 05:10:23+08:00:</p>
+
+<p>对，党内是要走举荐的。</p>
+
+<p>—– <strong>1498.7</strong> —–2022-01-18 23:42:37+08:00:</p>
+
+<p>越靠近威权核心的人，表决的权重越大，中委会外的人肯定就一句话决定生死，政治局和常委会内就不一样了，习虽然权重最大，也可以一句话点头，但其他人都推荐，他也不好驳斥，虽然咬着牙不答应也行。</p>
+
+<p>独裁政权内部并不是说完全没有商议，还不至于对最高层自己人全靠恐怖或威胁来构建管治基础，包括毛时代也是要走党内推举，毛也要按程序或者一些人情世故来办理，实在不想，打算驳斥也会找办法。</p>
+
+<p>包括六四镇压，邓虽然铁了心，但也必须走党内表决程序，其他人也有权力反对或中立，哪怕不支持也可以表达不同意见，没跟邓死磕到底的都不会被事后处理，党内最高层讲究集体共识，如果不能维持就会内斗，这也是为什么邓批胡耀邦不够坚定。</p>
+
+<p>—– <strong>1498.8</strong> —–2022-01-19 21:30:10+08:00:</p>
+
+<p>独大也只是表决权比例，不代表退休的元老不能说话，中基层就很难管控那么细致，执行下来可以找各种结构，所以中央政府才不断派巡视组，然后没完没了强调习近平的核心地位以及定于一尊。</p>
+
+<p>要让下面的人干活听话，需要一套体系，阳奉阴违是很难直接处理的，党内最高层从毛时代不是不能接受党内高层不同意见，而是对反对声音的反应程度不同，前提是没利益抵触，要不然习内部也有不同声音，都处理就变成草木皆兵，没队友了。</p>
+
+<h3 id="1499-民族自治区在现在的意义-submitted-on-2022-01-15-0044550800">1499: <a href="https://old.reddit.com/r/China_irl/comments/s3wrhz/民族自治区在现在的意义/">民族自治区在现在的意义？</a>, submitted on 2022-01-15 00:44:55+08:00.</h3>
+
+<p>—– <strong>1499.1</strong> —–2022-01-15 01:58:28+08:00:</p>
+
+<p>方便弹压与利益分配集中管理。</p>
+
+<p>地方少数民族的既得利益势力，不会自己冒出来，地方少数民族的穷人也没能力自我组织解决问题。</p>
+
+<p>自治区本质跟特别行政区一样，通过行政划区给地头蛇利益交换，让地头蛇听话，同时地方势力控制当地，中央就可以最低成本去控制整个地区。</p>
+
+<p>许多自治区都很穷，维护成本其实很高，过去是融合程度很低，真有人往死闹，王震敲定的弹压政策也真打压，双方矛盾一直存在，发展后换了个方式。</p>
+
+<p>给地方势力大量的利益，换取他们控制当地服从中央，对许多无利可图的地方仍旧采取孤穷政策。</p>
+
+<h3 id="1500-经济学人模型预测中国新冠真实死亡人数和官方统计人数的不同-submitted-on-2022-01-15-0311110800">1500: <a href="https://old.reddit.com/r/China_irl/comments/s4024b/经济学人模型预测中国新冠真实死亡人数和官方统计人数的不同/">《经济学人》模型预测，中国新冠真实死亡人数和官方统计人数的不同</a>, submitted on 2022-01-15 03:11:11+08:00.</h3>
+
+<p>—– <strong>1500.1</strong> —–2022-01-15 04:22:20+08:00:</p>
+
+<p>现在问题是，说新冠死亡真实人数。</p>
+
+<p>你说虚报，有人观点是认为净扯淡，从各种角度来解析没虚报，或者虚报也只是一点点。</p>
+
+<p>但实际情况西安还有这么多封城案例大家都看在眼里，知道真实死亡数字肯定对不上，说完全没虚报，有点……额，好像说服力不太强？</p>
+
+<p>所以到底死多少？计算的方式？统计范围？</p>
+
+<p>最担心的死法就是官方自己压根就也专业统计，甚至内部数据也没有，那就彻底死无对证变悬案了。</p>
+
+<h3 id="1501-是否应该重新审视香港时代革命-submitted-on-2022-01-15-0445520800">1501: <a href="https://old.reddit.com/r/China_irl/comments/s425x6/是否应该重新审视香港时代革命/">是否应该重新审视香港时代革命</a>, submitted on 2022-01-15 04:45:52+08:00.</h3>
+
+<p>—– <strong>1501.1</strong> —–2022-01-15 05:25:00+08:00:</p>
+
+<p>用正当借口夹带私货被人发现了，就需要征求民意解决分歧和困境。</p>
+
+<p>—– <strong>1501.2</strong> —–2022-01-15 05:33:16+08:00:</p>
+
+<p>人就是人，区别不大，社会到了一样的困境，会发生一样的事。</p>
+
+<p>中国大规模沿用香港的制度，发生香港类似的问题几乎就是时间问题。</p>
+
+<p>大规模社会运动后脚跟都知道迟早要发生，而且肯定就在我们这代人有生之年。</p>
+
+<p>香港人无论你喜欢还是怎么个态度立场，他们发生过，做过的事，都只是全中国历史性社会运动的一个beta版本。</p>
+
+<p>以后国内社会运动，会有更大规模的暴力以及类似的仇恨被扩大化。</p>
+
+<p>然后国内也会被分为“蓝丝”和“黄丝”，但区别是，国内如果能到爆发历史性大规模社会运动的程度，还搁那当“蓝丝”的，也不会蠢到撞枪口了吧，也就现在润到国外的能说风凉话，真在国内哪个处境要么变反贼，要么就顺应时代潮流。</p>
+
+<p>对体制而言，所有人都是反贼，所以没什么好重新审视的。</p>
+
+<p>技术和时间角度上来讲，我们所有人都是“香港人”。</p>
+
+<p>—– <strong>1501.3</strong> —–2022-01-15 06:23:27+08:00:</p>
+
+<p>见微知著的事，客观规律就是要发展向前，很多事只要观察信息足够多，就能发现和意识到，地方财政就是很容易入门的一个渠道，近几年地方财政非常吃紧，十年后社会矛盾怎么样解决想都不敢想。</p>
+
+<p>—– <strong>1501.4</strong> —–2022-01-15 06:34:15+08:00:</p>
+
+<p>不能填饱肚子</p>
+
+<h3 id="1502-以后每一年春节档都是主旋律电影确信-submitted-on-2022-01-15-2143260800">1502: <a href="https://old.reddit.com/r/China_irl/comments/s4klga/以后每一年春节档都是主旋律电影确信/">以后每一年春节档都是主旋律电影（确信</a>, submitted on 2022-01-15 21:43:26+08:00.</h3>
+
+<p>—– <strong>1502.1</strong> —–2022-01-16 07:50:46+08:00:</p>
+
+<p>文化地心了属于是</p>
+
+<h3 id="1503-真理部又出动啦-submitted-on-2022-01-15-2308220800">1503: <a href="https://old.reddit.com/r/China_irl/comments/s4m9b9/真理部又出动啦/">真理部又出动啦🥰🥰🥰</a>, submitted on 2022-01-15 23:08:22+08:00.</h3>
+
+<p>—– <strong>1503.1</strong> —–2022-01-16 05:44:26+08:00:</p>
+
+<p>分新正史宇宙跟传说宇宙。迪士尼是吧？</p>
+
+<p>我之前看到就等Sub里转发吐槽了。</p>
+
+<p>该党从各方各面正在急速low穿地底，比起前一二十年，越来越像体量特大的草台班子了。</p>
+
+<p>缺什么强调什么，2019年香港运动时打鸡血，两三年工夫就丢光舆论阵地，遍地阴阳怪气和感恩人。</p>
+
+<p>已经不是屋子里的大象，是大象里的屋子，一个心照不宣的龌龊事，平时民间吵没上台面，现在还郑重其事拿到台面上说。</p>
+
+<p>我看要对过去从几天到几百年不等又来一次全面大扫荡了，然后就是二次发明架空历史，直接写进教科书里，改革开放我看都要换创始者了。</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-01-16</time>
+        <a href="https://nodebe4.github.io/opinion/2022-01-16/EnclavedMicrostate/">
+          EnclavedMicrostate在2022-01-10~2022-01-16的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-01-16</time>
+        <a href="https://nodebe4.github.io/opinion/2022-01-16/Commodify/">
+          Commodify在2022-01-10~2022-01-16的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-01-15</time>
+        <a href="https://nodebe4.github.io/opinion/2022-01-15/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-01-10~2022-01-16的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-01-09</time>
+        <a href="https://nodebe4.github.io/opinion/2022-01-09/theoryofdoom/">
+          theoryofdoom在2022-01-03~2022-01-09的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-01-15/ForeignAffairsMag/">
+            前一篇：ForeignAffairsMag在2022-01-10~2022-01-16的言论
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-01-15/%E4%B8%BA-%E4%B8%AD%E5%8D%8E%E7%9B%96%E6%A5%BC-%E8%80%8C%E5%8A%AA%E5%8A%9B-%E7%83%BD%E7%81%AB%E4%B8%AD%E7%9A%84%E5%8D%8E%E7%9B%96%E5%BB%BA%E7%AD%91%E5%B8%88/">
+            後一篇：为“中华盖楼”而努力——烽火中的华盖建筑师
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-01-15/ForeignAffairsMag/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-01-15/%E4%B8%BA-%E4%B8%AD%E5%8D%8E%E7%9B%96%E6%A5%BC-%E8%80%8C%E5%8A%AA%E5%8A%9B-%E7%83%BD%E7%81%AB%E4%B8%AD%E7%9A%84%E5%8D%8E%E7%9B%96%E5%BB%BA%E7%AD%91%E5%B8%88/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-01-16/Commodify/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-01-15/ForeignAffairsMag/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-01-15/ForeignAffairsMag/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-01-15/%E4%B8%BA-%E4%B8%AD%E5%8D%8E%E7%9B%96%E6%A5%BC-%E8%80%8C%E5%8A%AA%E5%8A%9B-%E7%83%BD%E7%81%AB%E4%B8%AD%E7%9A%84%E5%8D%8E%E7%9B%96%E5%BB%BA%E7%AD%91%E5%B8%88/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-01-16/Commodify/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-01-15/ForeignAffairsMag/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

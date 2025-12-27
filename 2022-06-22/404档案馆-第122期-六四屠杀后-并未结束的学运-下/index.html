@@ -1,0 +1,1031 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>【404档案馆】第122期：六四屠杀后，并未结束的学运（下） – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+【404档案馆】第122期：六四屠杀后，并未结束的学运（下）
+——
+" />
+    <meta property="og:description" content="
+【404档案馆】第122期：六四屠杀后，并未结束的学运（下）
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="【404档案馆】第122期：六四屠杀后，并未结束的学运（下）" />
+    <meta property="twitter:title" content="【404档案馆】第122期：六四屠杀后，并未结束的学运（下）" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fmatters.news%2F%40ChinaDT%2F404%25E6%25A1%25A3%25E6%25A1%2588%25E9%25A6%2586-%25E7%25AC%25AC122%25E6%259C%259F-%25E5%2585%25AD%25E5%259B%259B%25E5%25B1%25A0%25E6%259D%2580%25E5%2590%258E-%25E5%25B9%25B6%25E6%259C%25AA%25E7%25BB%2593%25E6%259D%259F%25E7%259A%2584%25E5%25AD%25A6%25E8%25BF%2590-%25E4%25B8%258B-bafyreic4i2ratjl3qlf3dyjxkvqtkx6zb2cqynszkpkypfdrtngby7x3mm" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC122%E6%9C%9F-%E5%85%AD%E5%9B%9B%E5%B1%A0%E6%9D%80%E5%90%8E-%E5%B9%B6%E6%9C%AA%E7%BB%93%E6%9D%9F%E7%9A%84%E5%AD%A6%E8%BF%90-%E4%B8%8B-bafyreic4i2ratjl3qlf3dyjxkvqtkx6zb2cqynszkpkypfdrtngby7x3mm" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC122%E6%9C%9F-%E5%85%AD%E5%9B%9B%E5%B1%A0%E6%9D%80%E5%90%8E-%E5%B9%B6%E6%9C%AA%E7%BB%93%E6%9D%9F%E7%9A%84%E5%AD%A6%E8%BF%90-%E4%B8%8B-bafyreic4i2ratjl3qlf3dyjxkvqtkx6zb2cqynszkpkypfdrtngby7x3mm&text=【404档案馆】第122期：六四屠杀后，并未结束的学运（下）&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC122%E6%9C%9F-%E5%85%AD%E5%9B%9B%E5%B1%A0%E6%9D%80%E5%90%8E-%E5%B9%B6%E6%9C%AA%E7%BB%93%E6%9D%9F%E7%9A%84%E5%AD%A6%E8%BF%90-%E4%B8%8B-bafyreic4i2ratjl3qlf3dyjxkvqtkx6zb2cqynszkpkypfdrtngby7x3mm&title=【404档案馆】第122期：六四屠杀后，并未结束的学运（下）" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC122%E6%9C%9F-%E5%85%AD%E5%9B%9B%E5%B1%A0%E6%9D%80%E5%90%8E-%E5%B9%B6%E6%9C%AA%E7%BB%93%E6%9D%9F%E7%9A%84%E5%AD%A6%E8%BF%90-%E4%B8%8B-bafyreic4i2ratjl3qlf3dyjxkvqtkx6zb2cqynszkpkypfdrtngby7x3mm&title=【404档案馆】第122期：六四屠杀后，并未结束的学运（下）" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=【404档案馆】第122期：六四屠杀后，并未结束的学运（下）&body=
+【404档案馆】第122期：六四屠杀后，并未结束的学运（下）
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC122%E6%9C%9F-%E5%85%AD%E5%9B%9B%E5%B1%A0%E6%9D%80%E5%90%8E-%E5%B9%B6%E6%9C%AA%E7%BB%93%E6%9D%9F%E7%9A%84%E5%AD%A6%E8%BF%90-%E4%B8%8B-bafyreic4i2ratjl3qlf3dyjxkvqtkx6zb2cqynszkpkypfdrtngby7x3mm" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC122%E6%9C%9F-%E5%85%AD%E5%9B%9B%E5%B1%A0%E6%9D%80%E5%90%8E-%E5%B9%B6%E6%9C%AA%E7%BB%93%E6%9D%9F%E7%9A%84%E5%AD%A6%E8%BF%90-%E4%B8%8B-bafyreic4i2ratjl3qlf3dyjxkvqtkx6zb2cqynszkpkypfdrtngby7x3mm&title=【404档案馆】第122期：六四屠杀后，并未结束的学运（下）&caption=
+【404档案馆】第122期：六四屠杀后，并未结束的学运（下）
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=【404档案馆】第122期：六四屠杀后，并未结束的学运（下）&url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC122%E6%9C%9F-%E5%85%AD%E5%9B%9B%E5%B1%A0%E6%9D%80%E5%90%8E-%E5%B9%B6%E6%9C%AA%E7%BB%93%E6%9D%9F%E7%9A%84%E5%AD%A6%E8%BF%90-%E4%B8%8B-bafyreic4i2ratjl3qlf3dyjxkvqtkx6zb2cqynszkpkypfdrtngby7x3mm" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>【404档案馆】第122期：六四屠杀后，并未结束的学运（下）</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-06-22
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#中国数字时代">
+          中国数字时代
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC122%E6%9C%9F-%E5%85%AD%E5%9B%9B%E5%B1%A0%E6%9D%80%E5%90%8E-%E5%B9%B6%E6%9C%AA%E7%BB%93%E6%9D%9F%E7%9A%84%E5%AD%A6%E8%BF%90-%E4%B8%8B-bafyreic4i2ratjl3qlf3dyjxkvqtkx6zb2cqynszkpkypfdrtngby7x3mm" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="中国数字时代的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#中国数字时代 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1655960352000-->
+<p><a href="https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC122%E6%9C%9F-%E5%85%AD%E5%9B%9B%E5%B1%A0%E6%9D%80%E5%90%8E-%E5%B9%B6%E6%9C%AA%E7%BB%93%E6%9D%9F%E7%9A%84%E5%AD%A6%E8%BF%90-%E4%B8%8B-bafyreic4i2ratjl3qlf3dyjxkvqtkx6zb2cqynszkpkypfdrtngby7x3mm">【404档案馆】第122期：六四屠杀后，并未结束的学运（下）</a>
+——</p>
+
+<div>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/f743c0f9-e45d-4882-9e1a-9c9bbaf05682.png" data-asset-id="f743c0f9-e45d-4882-9e1a-9c9bbaf05682" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p><a href="https://chinadigitaltimes.net/chinese/404-archives" rel="noopener noreferrer" target="_blank">《404档案馆》</a><span>讲述中国审查与反审查的故事，同时以文字、音频和视频的形式发布。播客节目可在 Apple Podcasts, Google Podcasts, Spotify 或泛用型播客客户端搜索“</span><a href="https://open.firstory.me/user/cdt" rel="noopener noreferrer" target="_blank"><span>404档案馆</span></a><span>”进行收听，视频节目可在Youtube“</span><a href="https://www.youtube.com/channel/UCwXewCWwaK1-yec8niJLrqg" rel="noopener noreferrer" target="_blank"><span>中国数字时代· 404档案馆</span></a><span>”频道收看。</span></p>
+  <p><strong>作者：毕麦</strong></p>
+  <p>欢迎来到404档案馆。在这里，我们一起穿越中国数字高墙。</p>
+  <p>为了致敬33年前的六四民主运动，中国数字时代推出两期节目，集中梳理介绍1989年以来由中国学生所发起、组织或支持的政治抗争。今天我们继续这一系列的下集。</p>
+  <p>我们将回顾北京大学马克思主义协会、中国高校的米兔运动、独立学院学生反对转设职业本科等学生运动，以及少数民族地方校园的抗争活动。同时读者朋友如果发现我们的记录有所遗漏，也欢迎告知。</p>
+  <h2 id="section"><strong>一、北京大学马克思主义协会</strong></h2>
+  <p>在<a href="https://chinadigitaltimes.net/chinese/682560.html" rel="noopener noreferrer" target="_blank">“六四以来的学运”上集</a><span>中，我们详细介绍了2018年佳士工友维权事件及以岳昕为代表的北大学生的参与。</span></p>
+  <p>在这次工人运动中，北京大学马克思主义协会（简称北大马会）是一个绕不开的词。</p>
+  <p>北大马会是2000年成立的北京大学学生社团，曾于2015年在其微信公众号发布《北大后勤工人调研报告》。这份报告揭示了北京大学校内存在部分后勤工人劳动合同缺失、未缴纳社会保险和超时加班等问题，引发校内外人士关注。</p>
+  <p>到了2018年，因为参与佳士工友的维权事件，北大马会在新学期<a href="https://www.cna.com.tw/news/acn/201809210159.aspx" rel="noopener noreferrer" target="_blank">注册受阻</a><span>：校团委拒绝做其指导单位，也没有教授愿意担任其指导老师。</span></p>
+  <p>同年12月26日，马会会长邱占萱在前去参加毛泽东诞辰纪念活动的途中，<a href="https://www.voachinese.com/a/leading-chinese-marxist-student-taken-away-by-police-20181226/4716396.html" rel="noopener noreferrer" target="_blank">被警察带走</a><span>；根据流传出的消息，邱占萱称在被关押期间遭到了警察非人的虐待和侮辱。而北大方面则对外发表声明称“马会会长已严重失职”，且</span><a href="https://www.zaobao.com.sg/realtime/china/story20181229-919514" rel="noopener noreferrer" target="_blank"><span>不再具有担任社团负责人的资格</span></a><span>。</span></p>
+  <p>随后，北大校方强行指派了32名新成员，宣布改组“马会”。网友们戏称此事件为<a href="https://chinadigitaltimes.net/chinese/603086.html" rel="noopener noreferrer" target="_blank">“指鹿为马”</a><span>。</span></p>
+  <p>12月28日，有<a href="https://www.youtube.com/shorts/qgvZFkdmD2Y" rel="noopener noreferrer" target="_blank">十多名北大学生在校内聚集</a><span>，抗议北大团委无顾学生权益、改组马克思主义社团的行为。然而，</span><a href="https://cn.nytimes.com/china/20190102/chinese-university-crackdown-students/zh-hant/" rel="noopener noreferrer" target="_blank"><span>校方很快派多名保安对抗议学生进行了清场</span></a><span>。</span></p>
+  <figure class="embed-video">
+    <div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/vbXKgIjx1Cc?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+    </div>
+    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>在这之后，参与抗议马会改组并声援佳士工人维权的学生“展振振”被勒令退学。这是<a href="https://www.voachinese.com/a/beijing-university-marxist-student-20190111/4738813.html" rel="noopener noreferrer" target="_blank">“六四事件以来北大学生第一次因为参与社会活动而被校方开除”</a><span>。</span></p>
+  <p>1月21日，又有<a href="https://www.rfa.org/mandarin/yataibaodao/renquanfazhi/wy-01232019095852.html" rel="noopener noreferrer" target="_blank">六名北大学生被官方逮捕</a><span>，其中有四名都是曾经的北大马会成员。</span></p>
+  <p>2021年8月，曾就读于清华大学和香港大学的马克思主义青年学生方然，也被国安带走，至今下落不明。我们曾在<a href="https://chinadigitaltimes.net/chinese/670681.html" rel="noopener noreferrer" target="_blank">【404档案馆】第25期：“马克思”拘捕“马克思”：劳工研究者方然传被控“煽颠”</a><span>中介绍过方然的遭遇。</span></p>
+  <h2 id="metoo"><strong>二、中国#Metoo运动自下而上的集结</strong></h2>
+  <p>2017年10月15日，美国女演员艾莉莎·米兰诺在推特上讲述自己被性骚扰的经历，成为#Metoo运动的发端。此后， “#Me too”（我也是）成为反性骚扰的标签，众多女性纷纷站出来讲述自己的遭遇，在美国掀起了一场反性骚扰的运动。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/483a16c2-9725-420e-a1ee-b6aafaea78a1.png" data-asset-id="483a16c2-9725-420e-a1ee-b6aafaea78a1" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>根据NGOCN的报道，同一天，身在美国的中国人罗茜茜，也在知乎上匿名公布了自己的<a href="https://chinadigitaltimes.net/chinese/576480.html" rel="noopener noreferrer" target="_blank">“#Me too”</a><span>经历。罗茜茜说，自己在北京航空航天大学（下简称北航）读博期间，其副导师陈小武曾借故要她到私人居所，说了许多性暗示话语，甚至试图强奸她。当月下旬，罗茜茜还通过北航纪委相关工作人员，实名举报了陈小武。</span></p>
+  <p>然而，罗茜茜的举报石沉大海。</p>
+  <p>2018年1月1日，罗茜茜在微博上公开了自己的名字；这则“女博士实名举报性骚扰”的消息，立即成为舆论热点，这一天也因此被认为是中国#MeToo运动的开端。</p>
+  <p>事实上，在罗茜茜在知乎上贴出自己经历的两天前，她的学妹女生E（化名）在知乎发表了“如何评价北航陈小武？”的帖子。这个帖子就像一个中国高校版#Me too”，下面的留言者中不只有自称曾受到陈小武性骚扰的北航学生，还有其他高校的学生。留言者大多是性骚扰的受害者，而性骚扰的实施者则多是高校教师。</p>
+  <p>根据<a href="https://chinadigitaltimes.net/chinese/577027.html" rel="noopener noreferrer" target="_blank">澎湃新闻的报道</a><span>，2018年1月初，包括北京大学、清华大学、中山大学等在内的数十所高校的一些毕业校友及在校学生向其学校发出倡议，希望建立健全性骚扰防治机制。他们的建议包括健全投诉举报和调查的渠道，加强反性骚扰教育等。至少有来自94所高校、超过一万名校友和在校学生参与了该倡议的联署，随后，教育部在新闻发布会上表示将研究建立高校预防性骚扰长效机制。</span></p>
+  <p>1月18日，受到罗茜茜感召的北大毕业生顾华盈，在微信平台发布了<a href="https://chinadigitaltimes.net/chinese/576807.html" rel="noopener noreferrer" target="_blank">《北大反校园性骚扰倡议信》</a><span>。倡议信列举了近年来发生的校园性骚扰、性侵害事件；在倡议信的末尾，顾华盈召集了数十名北大学生共同联署。但是，这篇文章很快遭到删除。</span></p>
+  <p>3天后的1月21日，又有来自中国多所高校的56位老师发出实名<a href="https://chinadigitaltimes.net/chinese/577027.html" rel="noopener noreferrer" target="_blank">倡议</a><span> ，希望教育部门及高校、中小学制定严格细致的反性骚扰政策及规定，以支持和保护性骚扰受害者。</span></p>
+  <p>牵头该倡议的武汉大学教授徐开彬在接受采访时说：“我觉得这不应该仅仅是学生的事，作为教师，我们有义务保护我们的学生。”</p>
+  <p>根据于2019年7月在北京和广州举办的“米兔”展览，在罗茜茜实名举报陈小武性骚扰之后的几年时间里，<a href="https://chinadigitaltimes.net/chinese/614860.html" rel="noopener noreferrer" target="_blank">有无数名学生站出来，指认了曾经性骚扰、性侵害自己的老师</a><span>。这其中包括厦门大学教授吴春明，北大教授沈阳，中山大学教授张鹏，南昌大学教授周斌等等。</span></p>
+  <p>另据NGOCN的不完全统计，在2014年至2017年的四年间，总共有14起高校教师涉嫌性骚扰事件被曝光。而在#MeToo运动发起后，这个数字开始暴增，几乎每个月都有许多女学生站出来指称曾在学校性骚扰过自己的指导老师。</p>
+  <p>之后，#Metoo运动从教育界辐射向媒体圈、娱乐圈甚至宗教界。《404档案馆》曾在多期往期节目中介绍过其中的许多案例，如弦子诉朱军性骚扰案、何谦控邓飞性骚扰案等。</p>
+  <p>这些节目包括：</p>
+  <p><a href="https://chinadigitaltimes.net/chinese/670986.html" rel="noopener noreferrer" target="_blank">【404档案馆】第26期：一场诉讼的失败与胜利，弦子诉朱军性骚扰案回顾</a></p>
+  <figure class="embed-video">
+    <div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/QOi9x_WP6Q0?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+    </div>
+    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p><a href="https://chinadigitaltimes.net/chinese/669647.html" rel="noopener noreferrer" target="_blank">【404档案馆】第19、20期：从吴亦凡到阿里巴巴，中国MeToo运动中的舆论操控</a></p>
+  <figure class="embed-video">
+    <div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/9bGLaoFl76I?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+    </div>
+    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p><a href="https://chinadigitaltimes.net/chinese/676692.html" rel="noopener noreferrer" target="_blank">【404档案馆】第71期：在施害者与受害者之间：性侵案被指控者邓飞利用八孩母亲“洗白”自己？</a></p>
+  <p>由于中国当局对#Metoo运动的严密审查，#Metoo运动的亲历者和支持者后来将其称为“米兔运动”，以对抗审查。</p>
+  <p>事实上，早在2015年，官方就曾抓捕了参与反性骚扰活动的女权主义者。</p>
+  <p>2015年三八妇女节前夕，王曼、韦婷婷、郑楚然、李婷婷（李麦子）、武嵘嵘五名女权行动者，计划开展反对公交车上性骚扰的公众维权活动。然而，她们五人却分别被广州、杭州和北京等地的警方以所谓 “寻衅滋事”罪为名抓捕，并遭刑事拘留37天。</p>
+  <p>2021年11月2日，中国网球运动员彭帅在微博指控中国前副总理张高丽性侵一案，更是使中国米兔运动获得了全世界的关注。该次事件，是Metoo运动首次触及到中共的最高权力阶层。</p>
+  <figure class="embed-video">
+    <div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/265oSLLteIU?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+    </div>
+    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <ul>
+    <li>了解更多中国 Me,too 运动，请访问 CDS 专页<a href="https://chinadigitaltimes.net/space/CDS%E4%B8%93%E9%A1%B5%EF%BC%9A%E7%B1%B3%E5%85%94%E5%9C%A8%E4%B8%AD%E5%9B%BD" rel="noopener noreferrer" target="_blank">CDS专页：米兔在中国</a></li>
+  </ul>
+  <h2 id="lgbtq"><strong>三、中国高校的LGBTQ，被夺走了名字</strong></h2>
+  <p>2021年7月6日晚，包括北京大学、复旦大学、人民大学在内的数个高校LGBTQ微信公众号遭到封禁；所有相关账号的名称都变成了“未命名公众号”。</p>
+  <p>事后，复旦大学的LGBTQ微信公众账号“知和社”，通过另外的社交平台微博的官方账号发布声明，承认其账号被永久屏蔽，并表示“在短时间内不存在恢复的可能性”。</p>
+  <p>隔天7月7 日，作者@恰帕斯东风Radio在微信公众号发表了题为<a href="https://chinadigitaltimes.net/chinese/667957.html" rel="noopener noreferrer" target="_blank">《今晚，我们都是未命名公众号》</a><span>的文章。文章记录了多个被封禁的高校性少数社团账号，因此获得广泛的讨论和传播。然而，这篇文章和发表它的微信公众号也在次日遭封禁。</span></p>
+  <p>当天晚上，时任《环球时报》主编的网络意见领袖胡锡进却在微博发文称：“在中国，性少数群体的生活方式‘不会有来自公权力的任何限制，也不会有公共舆论的歧视和打压。’”</p>
+  <p>7月9日，几名被封禁账号的运营者<a href="https://www.bbc.com/zhongwen/simp/chinese-news-50888826" rel="noopener noreferrer" target="_blank">接受了BBC的采访</a><span>；他们中的许多人表示对此早有预感，也有人说之前就已收到校方委婉的提示和警告。</span></p>
+  <p>2021年8月，<a href="https://www.dw.com/zh/%E8%8B%B1%E5%AA%92%E4%B8%8A%E6%B5%B7%E5%A4%A7%E5%AD%A6%E7%96%91%E6%90%9C%E9%9B%86%E6%A0%A1%E5%86%85lgbt%E5%AD%A6%E7%94%9F%E6%B8%85%E5%8D%95/a-59024425" rel="noopener noreferrer" target="_blank">有消息指出</a><span>，中国的部分大学正搜集校内LGBT群体名单。</span></p>
+  <figure class="embed-video">
+    <div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/bHtrU4PTias?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+    </div>
+    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <h2 id="section-1"><strong>四、校园里的少数民族抗争：“保卫藏语游行”</strong></h2>
+  <p>2010年的 “保卫藏语游行” ，是藏民族校园抗争的里程碑事件。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/ce77a14e-dcc9-4eb9-8d96-aa7abb82359a.png" data-asset-id="ce77a14e-dcc9-4eb9-8d96-aa7abb82359a" referrerpolicy="no-referrer" />    <figcaption>
+<span>图片来源：SFT HQ – Flickr: Thousands of Students in Chabcha Township Protest</span>
+    </figcaption>
+  </figure>
+  <p>2010年，中国教育部发布了<a href="https://www.cnsaes.org.cn/homepage/html/resource/res19/res19_2/1857.html" rel="noopener noreferrer" target="_blank">《青海省中长期教育改革发展纲要》</a><span>，提出所谓的“双语教育”，即“汉语为主”的教学计划。此举引起了青海地区广大民众的不满。</span></p>
+  <p>在2010年10月19日至21日之间，青海省黄南藏族自治州同仁县、共和县、玛沁县都出现了大规模的抗议活动。其中每天都有上千名中学生走上街头，为捍卫自己的母语教学权利发出抗议。</p>
+  <p>自10月21日往后的一周里，抗议规模更加扩大——青海省的黄南、海南、海北、果洛等至少四个藏族自治州也爆发大规模游行，有<a href="https://news.boxun.com/news/gb/china/2010/10/201010282358.shtml" rel="noopener noreferrer" target="_blank">超过八千名藏族师生抗议当局在学校教育中限制使用藏语</a><span>的做法。</span></p>
+  <p>之后，抗议继续延伸到甘肃省藏族自治区；10月23日，有上百名学生在当地寺院示威。同一天，北京中央民族大学的上百名藏族学生也聚集在校内表达抗议。</p>
+  <p>面对压力，10月29日，青海省政府发布通告，称藏人“误读”了教育政策，<a href="https://news.sina.com.cn/o/2010-10-29/152818304246s.shtml" rel="noopener noreferrer" target="_blank">“国家在推广普通话的同时，也充分尊重和保护少数民族使用本民族语言文字的权利”</a><span>。</span></p>
+  <p>然而，事实并非如此。</p>
+  <p>2013年4月10日，甘肃的数十名藏族学生在县城抗议就业不公；他们手持写有“禁止外生参加我县招考分配”等横幅表达抗议。媒体《西藏通讯》的主编桑杰指出，当地公务员考试以中文为主，没有藏文考试，那些民族学校毕业的藏族学生，没办法找到工作；除公务员类工作外，其他工作也多聘用外地或当地的汉族毕业生。</p>
+  <p>2014年9月23日，<a href="https://cn.nytimes.com/china/20140923/c23tibet/" rel="noopener noreferrer" target="_blank">一名22岁的藏族学生为抗议中国当局的统治，选择自焚而死</a><span>。当天，他在甘肃的一所公安局前点燃了自己。</span></p>
+  <p>据纽约时报的统计，自2009年，约有150名藏人为抗议中国对藏区的统治选择自焚。</p>
+  <p>2018年12月，中国政府正式宣布<a href="https://www.rfa.org/english/news/tibet/language-01302019155917.html" rel="noopener noreferrer" target="_blank">禁止西藏的寺院教授藏语</a><span>。</span></p>
+  <p>然而，藏人、藏语并非是遭受中国当局打压的唯一一个少数民族及少数民族文化。</p>
+  <h2 id="section-2"><strong>五、内蒙古人抗议当局剥夺其母语</strong></h2>
+  <p>2020年8月26日，内蒙古教育厅发布<a href="https://www.baotou.gov.cn/info/1585/230243.htm" rel="noopener noreferrer" target="_blank">《全区民族语言授课学校小学一年级和初中一年级使用国家统编语文教材实施方案》</a><span>。</span></p>
+  <p>方案规定从当年秋天开学起，内蒙古当前使用民族语言授课的小学，自一年级开始要使用全国通用的语言教材。在之后的两年，小学一年级的政治课和历史课也要开始逐步改用汉语授</p>
+  <p>不止在教育界，在3天前的8月23日，中国当局还关闭了国内唯一的蒙文社交平台“Bainu”（蒙文：你好吗？），企图禁止蒙古族人讨论“双语教学”的议题。</p>
+  <p>这一政策一出，立即遭到了蒙族家长和教师的强烈反对。</p>
+  <figure class="embed-video">
+    <div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/1VRwFPS0f-Y?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+    </div>
+    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>为了表达抗议，很多家长在孩子所就读的学校外聚集，要求把孩子从学校接走。</p>
+  <figure class="embed-video">
+    <div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/9L7QrDLmVLk?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+    </div>
+    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>8月31日，通辽市（哲里木盟）警方在网上公布了一系列征集线索悬赏，查找一百多名所谓涉嫌“寻衅滋事”的人士。网民打开寻人<a href="https://m.thepaper.cn/newsDetail_forward_9049905" rel="noopener noreferrer" target="_blank">链接</a><span>后发现，里面是一个个被抗议现场摄像头拍摄到的人——有老有少、有男有女，照片里有白天也有黑夜。警方一次性能贴出如此众多的“寻衅滋事者”，足可见抗议运动的规模和自发性。</span></p>
+  <p>9月，内蒙古自治区开始<a href="https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/521104/%E5%85%A7%E8%92%99%E5%8F%A4%E6%BC%A2%E8%AA%9E%E6%8E%88%E8%AA%B2%E9%A2%A8%E6%B3%A2-%E5%A4%9A%E5%90%8D%E5%AE%98%E5%93%A1%E6%B6%89-%E6%8B%92%E4%B8%8D%E5%9F%B7%E8%A1%8C%E5%9C%8B%E5%AE%B6%E6%B1%BA%E7%AD%96%E9%83%A8%E7%BD%B2-%E9%81%AD%E8%99%95%E5%88%86" rel="noopener noreferrer" target="_blank">对不执行推进政府统编教材的官员进行处分</a><span>，对持反对意见的教师作</span><a href="https://web.archive.org/web/20200920042037/https://www.dwnews.com/%E4%B8%AD%E5%9B%BD/60211538/%E6%8B%92%E6%89%A7%E8%A1%8C%E5%86%85%E8%92%99%E5%8F%A4%E6%95%99%E6%9D%90%E6%96%B0%E6%94%BF%E5%86%8D%E6%9C%895%E4%BA%BA%E8%A2%AB%E5%A4%84%E5%88%86" rel="noopener noreferrer" target="_blank"><span>停职处理</span></a><span>，</span><a href="https://web.archive.org/web/20201009140242/https://www.rfa.org/cantonese/news/arrest-10072020062313.html" rel="noopener noreferrer" target="_blank"><span>数名参与抗议的维权人士遭到逮捕</span></a><span>，还有</span><a href="https://www.latimes.com/world-nation/story/2020-09-03/china-inner-mongolia-bilingual-education-assimilation-xinjiang-resistance-crackdown" rel="noopener noreferrer" target="_blank"><span>多名海外媒体记者也遭到驱逐</span></a><span>。</span></p>
+  <p>最终，内蒙古自治区政府将此次抗议事件定性为<a href="https://www.rfa.org/cantonese/news/textbook-09032020075137.html" rel="noopener noreferrer" target="_blank">“受境外势力煽动”</a><span>。</span></p>
+  <h2 id="section-3"><strong>六、复旦大学删改章程，师生合唱校歌表达抗议</strong></h2>
+  <p>2019年12月15日，教育部发布了“同意复旦大学章程部分条款修改的批复”。在这次修改中，章程序言中第二段<a href="https://xxgk.fudan.edu.cn/2e/98/c8354a208536/page.htm" rel="noopener noreferrer" target="_blank">“独立学术、自由思想”</a><span>等内容被删除，引发了网络热议。</span></p>
+  <p>3天后的12月18日，一群复旦大学的师生，自发在人文学院内合唱复旦校歌；校歌歌词中包含了 “学术独立思想自由，政罗教网无羁绊”——即此前教育部宣布删除的章程内容。</p>
+  <p>合唱中，有保安出面试图阻止，但却遭到了所有学生的无视。</p>
+  <h2 id="section-4"><strong>七、反独立学院转设职业本科运动</strong></h2>
+  <p>反独立学院转设职业本科运动又称“2021反转设学潮”，发生于2021年6月4日。</p>
+  <p>所谓的“独立院校”，是指中国公立大学设立的民办二级学院。2020年12月，中国教育部发展规划司司长刘昌亚就曾表示：“正在推动该类院校进行转型”，具体是将这部分学校与高职合并成<a href="https://www.thepaper.cn/newsDetail_forward_10214978" rel="noopener noreferrer" target="_blank">“职业技术大学”</a><span>。</span></p>
+  <p>这些学校的学生们普遍不满这种将“普通本科”学历降格为“职业本科”的做法，认为此举将影响他们毕业后的就业、就学发展。</p>
+  <p>2021年6月4日，教育部正式公布<a href="http://www.moe.gov.cn/jyb_xxgk/s5743/s5745/A03/202106/t20210604_535617.html" rel="noopener noreferrer" target="_blank">《关于拟同意设置本科高等学校的公示》</a><span>，宣布将13所独立学院转设成职业技术大学。由于浙江、江苏两省是最先提交“合并计划”的省份，所以这13所高校都在这两省的范围内。</span></p>
+  <p>教育部发布公文当日，浙江工业大学之江学院的学生遂发起运动，拉起“拒绝职本，还我普本”等横幅在校内喊口号、游行示威。之后，包括杭州商学院、杭州电子科技大学信息工程学院、浙江财政大学东方学院等大批相关学校的学生都发起、参与了抗议运动。</p>
+  <figure class="embed-video">
+    <div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/kXe85CD8xoU?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+    </div>
+    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>江苏省高校学生也在6月6日发起抗议。6月7日，<a href="https://ngocn2.org/article/2021-07-19-zhongbei-college-conflict/" rel="noopener noreferrer" target="_blank">五所高校甚至发布了“五校联合声明”</a>，称不接受“降级转设”的处置。</p>
+  <p>当天，南京师范大学中北学院内大批警员与学生发生冲突，部分学生遭到<a href="https://www.bbc.com/zhongwen/simp/chinese-news-57410599.amp" rel="noopener noreferrer" target="_blank">逮捕</a>。6月10日，山东、山西相关学校也发起了示威集会。</p>
+  <p>这些抗议现场流出的影音资料显示，现场发生过警民冲突，警察曾殴打抗议学生。</p>
+  <figure class="embed-video">
+    <div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/tUMSvX-zdQk?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+    </div>
+    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>在多省学生运动的压力下，教育部被迫<a href="https://news.cctv.com/2021/06/07/ARTIO76g5CROUyJxm7S6JYXG210607.shtml" rel="noopener noreferrer" target="_blank">叫停了独立学院转设职业本科的运动”</a>。然而，许多学生要求“追究执法过当警察”的诉求，并没有得到回应。</p>
+  <p>以上就是中国数字时代梳理的、八九六四民主运动以来中国学生做出的政治抗争，如有遗漏，欢迎告知。</p>
+  <p>中国数字时代 CDT 致力于记录和传播中文互联网上被审查的信息，以及人们与审查对抗的努力。欢迎大家通过<a href="https://t.me/cdtmedia_bot" rel="noopener noreferrer" target="_blank">电报(Telegram)平台</a> 向我们投稿，为记录和对抗中国网络审查作出你的贡献！</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/33c0e57b-4da9-4e09-b67b-24c8ccb6f4a7.jpeg" data-asset-id="33c0e57b-4da9-4e09-b67b-24c8ccb6f4a7" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>了解更多投稿信息，请阅读<a href="https://chinadigitaltimes.net/chinese/telegrambot" rel="noopener noreferrer" target="_blank">中国数字时代征稿说明</a></p>
+  <p>更多阅读：</p>
+  <p><a href="https://chinadigitaltimes.net/chinese/682866.html" rel="noopener noreferrer" target="_blank">【404档案馆】第121期：“坦克雪糕”与“麦丢替”：审查制度下不灭的六四符号</a></p>
+  <p><a href="https://chinadigitaltimes.net/chinese/682561.html" rel="noopener noreferrer" target="_blank">【404档案馆】第118期：邹幸彤：守住六四烛光，守住我们良知的底线和仅余的自由</a></p>
+  <p><a href="https://chinadigitaltimes.net/chinese/682560.html" rel="noopener noreferrer" target="_blank">【404档案馆】第117期：六四屠杀后，并未结束的学运（上）</a></p>
+  <p><a href="https://chinadigitaltimes.net/chinese/675464.html" rel="noopener noreferrer" target="_blank">【404档案馆】第59期：香港抹除六四记忆，国殇之柱终被粗暴移除</a></p>
+  <p><a href="https://chinadigitaltimes.net/chinese/666772.html" rel="noopener noreferrer" target="_blank">【404档案馆】第1期：六四敏感词与真理部指令</a></p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#中国数字时代 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-02-12/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC276%E6%9C%9F-%E5%94%B1%E7%A6%81%E6%AD%8C-%E5%88%B0-%E7%A6%81%E6%AD%A2%E5%90%90%E6%A7%BD-%E8%A7%81%E8%AF%81%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E5%8F%98%E8%BF%81%E7%9A%84%E6%98%A5%E6%99%9A/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2021-12-14/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E4%B8%93%E8%AE%BF-%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3%E5%AF%B9%E8%AF%9D-%E8%A7%A3%E6%9E%84%E6%96%B0%E7%96%86%E9%95%87%E5%8E%8B-%E7%AC%AC%E4%B8%80%E4%BD%9C%E8%80%85%E8%AE%B8%E7%A7%80%E4%B8%AD/">最早</a>--</span>
+    
+      <li>
+        <time>2022-06-23</time>
+        <a href="https://nodebe4.github.io/opinion/2022-06-23/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC128%E6%9C%9F-%E4%BD%A0%E8%A6%81%E8%87%AA%E7%94%B1%E5%B9%B2%E4%BB%80%E4%B9%88-%E4%BD%9C%E4%B8%BA-%E8%89%AF%E6%B0%91%E8%AF%81-%E7%9A%84%E5%81%A5%E5%BA%B7%E7%A0%81/">
+          【404档案馆】第128期：“你要自由干什么？”——作为“良民证”的健康码
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-06-23</time>
+        <a href="https://nodebe4.github.io/opinion/2022-06-23/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC125%E6%9C%9F-%E4%B8%8D%E8%A6%81%E5%AE%BD%E6%81%95%E6%98%A8%E5%A4%9C%E7%9A%84%E7%BD%AA-%E5%BF%B5%E5%87%BA%E4%B8%8A%E6%B5%B7%E7%96%AB%E6%83%85%E9%80%9D%E8%80%85%E7%9A%84%E5%90%8D%E5%AD%97-%E7%BB%AD/">
+          【404档案馆】第125期：“不要宽恕昨夜的罪”——念出上海疫情逝者的名字（续）
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-06-22</time>
+        <a href="https://nodebe4.github.io/opinion/2022-06-22/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC121%E6%9C%9F-%E5%9D%A6%E5%85%8B%E9%9B%AA%E7%B3%95-%E4%B8%8E-%E9%BA%A6%E4%B8%A2%E6%9B%BF-%E5%AE%A1%E6%9F%A5%E5%88%B6%E5%BA%A6%E4%B8%8B%E4%B8%8D%E7%81%AD%E7%9A%84%E5%85%AD%E5%9B%9B%E7%AC%A6%E5%8F%B7/">
+          【404档案馆】第121期：“坦克雪糕”与“麦丢替”：审查制度下不灭的六四符号
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-06-03</time>
+        <a href="https://nodebe4.github.io/opinion/2022-06-03/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC117%E6%9C%9F-%E5%85%AD%E5%9B%9B%E5%B1%A0%E6%9D%80%E5%90%8E-%E5%B9%B6%E6%9C%AA%E7%BB%93%E6%9D%9F%E7%9A%84%E5%AD%A6%E8%BF%90-%E4%B8%8A/">
+          【404档案馆】第117期：六四屠杀后，并未结束的学运（上）
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-06-22/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC121%E6%9C%9F-%E5%9D%A6%E5%85%8B%E9%9B%AA%E7%B3%95-%E4%B8%8E-%E9%BA%A6%E4%B8%A2%E6%9B%BF-%E5%AE%A1%E6%9F%A5%E5%88%B6%E5%BA%A6%E4%B8%8B%E4%B8%8D%E7%81%AD%E7%9A%84%E5%85%AD%E5%9B%9B%E7%AC%A6%E5%8F%B7/">
+            前一篇：【404档案馆】第121期：“坦克雪糕”与“麦丢替”：审查制度下不灭的六四符号
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-06-23/SpeechFreedomCN/">
+            後一篇：Twitter @中国文字狱事件盘点: 2022-06-20~2022-06-26
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-06-22/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC121%E6%9C%9F-%E5%9D%A6%E5%85%8B%E9%9B%AA%E7%B3%95-%E4%B8%8E-%E9%BA%A6%E4%B8%A2%E6%9B%BF-%E5%AE%A1%E6%9F%A5%E5%88%B6%E5%BA%A6%E4%B8%8B%E4%B8%8D%E7%81%AD%E7%9A%84%E5%85%AD%E5%9B%9B%E7%AC%A6%E5%8F%B7/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-06-23/SpeechFreedomCN/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-06-23/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC125%E6%9C%9F-%E4%B8%8D%E8%A6%81%E5%AE%BD%E6%81%95%E6%98%A8%E5%A4%9C%E7%9A%84%E7%BD%AA-%E5%BF%B5%E5%87%BA%E4%B8%8A%E6%B5%B7%E7%96%AB%E6%83%85%E9%80%9D%E8%80%85%E7%9A%84%E5%90%8D%E5%AD%97-%E7%BB%AD/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-06-22/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC121%E6%9C%9F-%E5%9D%A6%E5%85%8B%E9%9B%AA%E7%B3%95-%E4%B8%8E-%E9%BA%A6%E4%B8%A2%E6%9B%BF-%E5%AE%A1%E6%9F%A5%E5%88%B6%E5%BA%A6%E4%B8%8B%E4%B8%8D%E7%81%AD%E7%9A%84%E5%85%AD%E5%9B%9B%E7%AC%A6%E5%8F%B7/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-06-22/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC121%E6%9C%9F-%E5%9D%A6%E5%85%8B%E9%9B%AA%E7%B3%95-%E4%B8%8E-%E9%BA%A6%E4%B8%A2%E6%9B%BF-%E5%AE%A1%E6%9F%A5%E5%88%B6%E5%BA%A6%E4%B8%8B%E4%B8%8D%E7%81%AD%E7%9A%84%E5%85%AD%E5%9B%9B%E7%AC%A6%E5%8F%B7/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-06-23/SpeechFreedomCN/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<中国数字时代>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-06-23/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC125%E6%9C%9F-%E4%B8%8D%E8%A6%81%E5%AE%BD%E6%81%95%E6%98%A8%E5%A4%9C%E7%9A%84%E7%BD%AA-%E5%BF%B5%E5%87%BA%E4%B8%8A%E6%B5%B7%E7%96%AB%E6%83%85%E9%80%9D%E8%80%85%E7%9A%84%E5%90%8D%E5%AD%97-%E7%BB%AD/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<中国数字时代>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-06-22/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC121%E6%9C%9F-%E5%9D%A6%E5%85%8B%E9%9B%AA%E7%B3%95-%E4%B8%8E-%E9%BA%A6%E4%B8%A2%E6%9B%BF-%E5%AE%A1%E6%9F%A5%E5%88%B6%E5%BA%A6%E4%B8%8B%E4%B8%8D%E7%81%AD%E7%9A%84%E5%85%AD%E5%9B%9B%E7%AC%A6%E5%8F%B7/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

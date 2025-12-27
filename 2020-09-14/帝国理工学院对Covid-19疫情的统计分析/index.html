@@ -1,0 +1,1118 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>帝国理工学院对Covid-19疫情的统计分析 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+帝国理工学院对Covid-19疫情的统计分析
+——
+" />
+    <meta property="og:description" content="
+帝国理工学院对Covid-19疫情的统计分析
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="帝国理工学院对Covid-19疫情的统计分析" />
+    <meta property="twitter:title" content="帝国理工学院对Covid-19疫情的统计分析" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2F2049post.wordpress.com%2F2020%2F09%2F15%2Fv6study2%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://2049post.wordpress.com/2020/09/15/v6study2/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://2049post.wordpress.com/2020/09/15/v6study2/&text=帝国理工学院对Covid-19疫情的统计分析&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://2049post.wordpress.com/2020/09/15/v6study2/&title=帝国理工学院对Covid-19疫情的统计分析" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://2049post.wordpress.com/2020/09/15/v6study2/&title=帝国理工学院对Covid-19疫情的统计分析" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=帝国理工学院对Covid-19疫情的统计分析&body=
+帝国理工学院对Covid-19疫情的统计分析
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://2049post.wordpress.com/2020/09/15/v6study2/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://2049post.wordpress.com/2020/09/15/v6study2/&title=帝国理工学院对Covid-19疫情的统计分析&caption=
+帝国理工学院对Covid-19疫情的统计分析
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=帝国理工学院对Covid-19疫情的统计分析&url=https://2049post.wordpress.com/2020/09/15/v6study2/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>帝国理工学院对Covid-19疫情的统计分析</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2020-09-14
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#火光">
+          火光
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://2049post.wordpress.com/2020/09/15/v6study2/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="火光的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#火光 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1600099680000-->
+<p><a href="https://2049post.wordpress.com/2020/09/15/v6study2/">帝国理工学院对Covid-19疫情的统计分析</a>
+——</p>
+
+<div>
+  <h3 id="2020年1月17日报告1估测武汉市新型冠状病毒病例的总数1">2020年1月17日报告1：估测武汉市新型冠状病毒病例的总数[1]</h3>
+  <p><strong>报告摘要</strong><br />新型武汉冠状病毒爆发在许多方面都有高度的不确定性。 但是，在中国境外发现3例病例（泰国2例，日本1例）令人担忧。根据航班和人口数据，我们计算得出，在武汉被感染者中，只有五百七十四分之一的机会，患者会在就医之前出国旅行。这意味着到目前为止，武汉可能已经有超过1700（3 x 574）例。此次病毒爆发仍有许多未知因素，使估计值的不确定性范围从190例到超过4000例。但是这些数字的规模显示，不能排除大量人与人之间的传播。因此建议应提高监测，及时信息共享和加强疫情应变准备。</p>
+  <p><strong>研究假设</strong></p>
+  <p>2019年12月31日，世界卫生组织中国办事处被告知武汉出现未知肺炎病例。 新型冠状病毒（2019-nCov）与中东呼吸综合征病毒和SARS病毒相似。</p>
+  <p>截至2020年1月16日，武汉市已确诊41例（包括2例死亡），包括3名旅行者确诊，其中泰国2例和日本1例。 大多数病例都与已关闭的武汉华南海鲜市场相关。<br />尽管两位旅行者都有武汉市旅行史，但他们没有直接接触华南海鲜市场。</p>
+  <p>通过利用在中国境外发现的病例数，有可能推断出到目前为止，武汉市内可能的临床病例总数。</p>
+  <p>本报告采用一下基本假设</p>
+  <ul>
+    <li class="">武汉国际机场服务1900万人口</li>
+    <li class="">从感染到被检测的窗口平均有10天时间， 包括5-6天的潜伏期和4-5天的症状出现到检测之间的延误</li>
+    <li class="">过去两个月从武汉出发的国际旅行者总数是每天3301人。该估算值基于2018年IATA数据的前20个目的地国家/地区的每日3，418名外国旅客中得出，并使用帝国理工学院持有的2016年IATA数据来更正前者数据中出现的农历新年旅行激增（今年尚未发生），以及前往前20个目的地列表以外的国家/地区的旅行量。</li>
+  </ul>
+  <p>假设存在的一些缺陷：</p>
+  <ul>
+    <li class="">我们假设了海外旅行时间够长所以被感染的旅行者在海外就出现症状并且会被检测，而不是回到武汉后才被检测到。本文也没有考虑国际旅行者可能比本地居民会有更少的风险接触到病毒。考虑这些因素需要额外的数据但同时会增加预测总病例</li>
+    <li class="">我们只估计了较为严重到需要住院的病例（日本和泰国检测到病例都是十分严重）。我们的估计没有考虑轻微或者没有症状的病例</li>
+    <li class="">2019新冠肺炎的潜伏期还不知道。采用中东呼吸综合征和SARS的情况作为近似</li>
+    <li class="">我们假设国际旅行和感染新冠肺炎的风险不相关。 如果感染风险偏向富裕阶层，那么旅行次数可能和暴露史相关。 另外，有一些出国可能因为有感染状况（向国外求医）或与武汉感染者有接触（这可能适用于在日本发现的病例）。考到这些情况会增加海外旅行感染的可能性从而降低我们估计的总数</li>
+  </ul>
+  <p><strong>估算方法</strong></p>
+  <figure class="wp-block-image">
+<img src="https://i.imgur.com/ULRx47W.png" alt="Imgur" />
+  </figure>
+  <p>总病例数 = 海外发现病例/海外发现一例病例的概率( p )</p>
+  <p>而在海外发现一例病例的概率（p）=每天出国旅行的概率x发现病例的平均时间，</p>
+  <p>其中天出国旅行的概率由武汉每日出境国际旅客除以武汉机场服务人口得到，发现病例的平均时间可以近似为：发现病例的平均时间=潜伏期+从症状发作到病例发现的时间。</p>
+  <p><strong>结果</strong></p>
+  <figure class="wp-block-image">
+<img src="https://i.imgur.com/cbCxbJ6.png" alt="Imgur" />
+  </figure>
+  <p><strong>预测结果是截止到2020年1月12日武汉市有1723例（95%置信区间：427-4472）新冠肺炎</strong>。同时报告还考虑了一下几种情况：</p>
+  <ul>
+    <li class="">把武汉市人口1100万作为武汉国际机场服务总人数，而不是1900万，预测总病例数是996例（95%CL 246-2586）</li>
+    <li class="">检测窗口从10天降到8天，预测总病例数是2155例（95%CL 535-5590）</li>
+    <li class="">武汉输出到国际病例是2个，而不是3个，则预测总病例数是2155例（95%CL 190-3549）</li>
+    <li class="">武汉输出到国际病例是4个，而不是3个，则预测总病例数是2298例（95%CL 712-5341）</li>
+  </ul>
+  <p><strong>2020年1月11日武汉官方公布的数据总共有41例新型冠状病毒感染者，2020年1月16日（本报告发布日期）是总共有45例，从1月11日到1月15日武汉官方发布报告称没有新增感染病例。而湖北省政协十二届三次会议1月11日，人大十三届三次会议时间是1月12日，1月17日湖北省人大胜利闭幕</strong>。</p>
+  <p><strong>总结</strong></p>
+  <p>本报告预测截止到2020年1月12日约有1732例严重感染者，远远超过武汉市官方公布的结果。 报告表明监测范围应该包括所有住院的肺炎或者严重呼吸道感染病例，以及周边相关城市。 本报告并没有给出具体的传播路径，但考虑到过去中东呼吸综合征和SARS的经验，人人传播不应该被排除。</p>
+  <h3 id="2020年1月22日报告2估测武汉市新型冠状病毒病例的总数2"></h3>
+  <h3 id="2020年1月22日报告2估测武汉市新型冠状病毒病例的总数2">2020年1月22日报告2:估测武汉市新型冠状病毒病例的总数[2]</h3>
+  <p><strong>报告摘要</strong><br />1月16日，我们根据在中国大陆以外发现的病例数的分析，发布了中国 COVID-19 (先前命名为2019-nCoV) 爆发规模的估计值。此后，截至1月22日，中国当局报告的累计确诊病例增加了10倍，达到440例。同时，截至1月18日出现症状的人数在中国境外已增加到7人。在此，我们根据航班和人口数据进行分析，更新了武汉市疫情规模的估计值。我们估计武汉至1月18日出现症状的病例数为4,000例, 该估计值的不确定性范围为1,000至9,700 例，这反映了估计过程中持续涉及许多未知因素。由于在中国大陆以外地区发现的病例数从3例增加到7例， 这次的估计值中位数4,000例，为上次报告的两倍以上。。我们的估计值不应被解释为在1月12日至1月18日期间爆发规模突然增加了一倍 ─ 延迟确认和通报境外病例，症状发作日期信息的不完整，以及输出病例的数量仍然很少，皆使我们当前仍无法估计的疫情增长率。</p>
+  <p>我们的分析表明，COVID-19 爆发在武汉造成的中度或重度呼吸道疾病病例数大幅高于目前已发现的病例数。然而最近中国官方报告的确诊病例数迅速增加，显示近几天来病例的检测和通报有了大幅度的提升。随着监测愈加完善和扩展（例如，扩展至基层医疗院所），我们的估计值与官方病例数之间的差异有望进一步减少。鉴于人与人之间传播的证据越来越多，加强快速病例检测对于控制疫情爆发至关重要</p>
+  <p><strong>研究假设</strong></p>
+  <p>本报告使用的一些假设</p>
+  <ul>
+    <li class="">武汉国际机场服务1900万人口。</li>
+    <li class="">从感染到被检测的窗口平均有10天时间， 包括5-6天的潜伏期和4-5天的症状出现到检测之间的延误。</li>
+    <li class="">过去两个月从武汉出发的国际旅行者总数是每天3301人。该估算值基于2018年IATA数据的前20个目的地国家/地区的每日3，418名外国旅客中得出，并使用帝国理工学院持有的2016年IATA数据来更正前者数据中出现的农历新年旅行激增（今年尚未发生），以及前往前20个目的地列表以外的国家/地区的旅行量。</li>
+    <li class="">出境检测筛查对1月16日为止出现的病例没有影响。</li>
+    <li class="">所有海外病例都在飞行目的地被检测出的。如果有海外国家检测数据有缺漏，那么结果可能低估了武汉的真实数据。</li>
+    <li class="">以95%置信区间为误差范围。</li>
+  </ul>
+  <p>可能存在的问题与之前的1月16日发布报告一样，这里不再枚举。</p>
+  <p><strong>结果</strong><br /><img src="https://i.imgur.com/sa7CQeE.png" alt="Imgur" class="" /></p>
+  <p><strong>预测结果是截止到2020年1月18日武汉市有4000例（95%置信区间：1700-7800）新冠肺炎</strong>。同时报告还考虑了一下几种情况：</p>
+  <ul>
+    <li class="">把武汉市人口1100万作为武汉国际机场服务总人数，而不是1900万，预测总病例数是2300例（95%CL 1000-4500）</li>
+    <li class="">检测窗口从10天降到8天，预测总病例数是5000例（95%CL 2200-9700）</li>
+    <li class="">武汉输出到国际病例是6个，而不是7个，则预测总病例数是3400例（95%CL 1400-7000）</li>
+    <li class="">武汉输出到国际病例是8个，而不是7个，则预测总病例数是2298例（95%CL 2100-8600）</li>
+  </ul>
+  <p>本报告的结果与之前1月16号发布的结果差别不能简单解释为武汉感染数量在这些天哪增加了一杯。因为确认和报告出口病例的延迟、症状发作日期的信息不完整以及仍然很少的出口病例，意味着目前无法估计疫情的增长率。</p>
+  <p><strong>2020年1月18日武汉官方公布的数据是总共有121例，1月22日（本报告发布日期）571例新型冠状病毒感染者。而1月18日武汉市江岸区百步亭花园社区举行万家宴，4万多个家庭一起共度农历小年。对于武汉肺炎疫情下大规模人员聚集在一起是否不当，该工作人员回复新京报记者称，“我们都做好了相应措施”</strong>。</p>
+  <h3 id="该团队的一些其他研究项目和结果"></h3>
+  <h3 id="该团队的一些其他研究项目和结果">该团队的一些其他研究项目和结果</h3>
+  <p>内容引用自 MRC Centre for Global Infectious Disease Analysis: Covid19[3]</p>
+  <figure class="wp-block-table">
+    <table>
+      <thead>
+        <tr>
+          <th>Rank</th>
+          <th>Date</th>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>30</td>
+          <td>2020-07-03</td>
+          <td><a rel="noreferrer noopener" href="https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-30-china/" target="_blank">https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-30-china/</a> The COVID-19 epidemic trends and control measures in mainland China</td>
+        </tr>
+        <tr>
+          <td>29</td>
+          <td>2020-07-01</td>
+          <td><a rel="noreferrer noopener" href="https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-29-emergency-attendance/" target="_blank">https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-29-emergency-attendance/</a> The impact of the COVID-19 epidemic on all-cause attendances to emergency departments in two large London hospitals: an observational study</td>
+        </tr>
+        <tr>
+          <td>28</td>
+          <td>2020-06-18</td>
+          <td><a href="https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-28-excess-deaths/" target="_blank" rel="noreferrer noopener">https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-28-excess-deaths/</a> Excess non-COVID-19 deaths in England and Wales between 29th February and 5th June 2020</td>
+        </tr>
+        <tr>
+          <td>27</td>
+          <td>2020-06-15</td>
+          <td><a href="https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-27-hospital-capacity/" target="_blank" rel="noreferrer noopener">https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-27-hospital-capacity/</a> Adapting hospital capacity to meet changing demands during the COVID-19 pandemic</td>
+        </tr>
+        <tr>
+          <td>26</td>
+          <td>2020-06-08</td>
+          <td><a href="https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-26-mobility-transmission/" target="_blank" rel="noreferrer noopener">https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-26-mobility-transmission/</a> Reduction in mobility and COVID-19 transmission</td>
+        </tr>
+        <tr>
+          <td>25</td>
+          <td>2020-05-29</td>
+          <td><a href="https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-25-south-korea/" target="_blank" rel="noreferrer noopener">https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-25-south-korea/</a> Response to COVID-19 in South Korea and implications for lifting stringent interventions</td>
+        </tr>
+        <tr>
+          <td>24</td>
+          <td>2020-05-29</td>
+          <td><a href="https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-24-uk-mobility/" target="_blank" rel="noreferrer noopener">https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-24-uk-mobility/</a> Anonymised &amp; aggregated crowd level mobility data from mobile phones suggests initial compliance with COVID19 social distancing interventions was high &amp; geographically consistent across UK</td>
+        </tr>
+        <tr>
+          <td>23</td>
+          <td>2020-05-21</td>
+          <td><a href="https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-23-united-states/" target="_blank" rel="noreferrer noopener">https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-23-united-states/</a> State-level tracking of COVID-19 in the United States</td>
+        </tr>
+        <tr>
+          <td>22</td>
+          <td>2020-05-12</td>
+          <td><a href="https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-22-equity/" target="_blank" rel="noreferrer noopener">https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-22-equity/</a> Equity in response to the COVID-19 pandemic: an assessment of the direct and indirect impacts on disadvantaged and vulnerable populations in low- and lower middle-income countries</td>
+        </tr>
+        <tr>
+          <td>21</td>
+          <td>2020-05-08</td>
+          <td><a href="https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-21-brazil/" target="_blank" rel="noreferrer noopener">https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-21-brazil/</a> Estimating COVID-19 cases and reproduction number in Brazil</td>
+        </tr>
+        <tr>
+          <td>20</td>
+          <td>2020-05-04</td>
+          <td><a href="https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-20-italy/" target="_blank" rel="noreferrer noopener">https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-20-italy/</a> Using mobility to estimate the transmission intensity of COVID-19 in Italy: A subnational analysis with future scenarios</td>
+        </tr>
+        <tr>
+          <td>19</td>
+          <td>2020-05-01</td>
+          <td><a href="https://www.imperial.ac.uk/mrc-global-infectious-disease" target="_blank" rel="noreferrer noopener">https://www.imperial.ac.uk/mrc-global-infectious-disease</a> analysis/covid-19/report-19-hiv-tb-malaria/ The Potential Impact of the COVID-19 Epidemic on HIV, TB and Malaria in Low- and Middle-Income Countries</td>
+        </tr>
+        <tr>
+          <td>18</td>
+          <td>2020-05-01</td>
+          <td><a href="https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-18-malaria/" target="_blank" rel="noreferrer noopener">https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-18-malaria/</a> The potential public health impact of COVID-19 on malaria in Africa</td>
+        </tr>
+        <tr>
+          <td>17</td>
+          <td>2020-04-29</td>
+          <td><a href="https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-17-clinical/" target="_blank" rel="noreferrer noopener">https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-17-clinical/</a> Clinical characteristics and predictors of outcomes of hospitalised patients with COVID-19 in a London NHS Trust: a retrospective cohort study</td>
+        </tr>
+        <tr>
+          <td>16</td>
+          <td>2020-04-23</td>
+          <td><a href="https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-16-testing/" target="_blank" rel="noreferrer noopener">https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-16-testing/</a> Role of testing in COVID-19 control. The report estimates COVID-19 testing’s impact as reducing transmission by 25~33% from populations tested, but also allowing early release from quarantines and creation of Immunity passport based on antibody tests. Tests face technical, legal, and ethical challenges. Tests while helping are complementary to other more potent actions such as self-isolation when symptoms arises, contact tracing and quarantines.</td>
+        </tr>
+        <tr>
+          <td>15</td>
+          <td>2020-04-17</td>
+          <td><a href="https://www.imperial.ac.uk/mrc-global-infectious-disease" target="_blank" rel="noreferrer noopener">https://www.imperial.ac.uk/mrc-global-infectious-disease</a> analysis/covid-19/report-15-hospital-capacity/ Strengthening hospital capacity for the COVID-19 pandemic. Reports presents the J-IDEA pandemic planner “a hospital planning tool to calculate how much capacity in terms of beds, staff and ventilators is obtained by implementing healthcare provision interventions affecting the management of patient care in hospitals”.</td>
+        </tr>
+        <tr>
+          <td>14</td>
+          <td>2020-04-03</td>
+          <td><a href="https://www.imperial.ac.uk/medicine/departments/school" target="_blank" rel="noreferrer noopener">https://www.imperial.ac.uk/medicine/departments/school</a> public-health/infectious-disease-epidemiology/mrc-global-infectious-disease-analysis/covid-19/report-14-online-community-involvement/ Online Community Involvement in COVID-19 Research &amp; Outbreak Response: Early Insights from a UK Perspective</td>
+        </tr>
+        <tr>
+          <td>13</td>
+          <td>2020-03-30</td>
+          <td><a href="https://www.imperial.ac.uk/medicine/departments/school-public-health/infectious-disease-epidemiology/mrc-global-infectious-disease-analysis/covid-19/report-13-europe-npi-impact/" target="_blank" rel="noreferrer noopener">https://www.imperial.ac.uk/medicine/departments/school-public-health/infectious-disease-epidemiology/mrc-global-infectious-disease-analysis/covid-19/report-13-europe-npi-impact/</a> Estimating the number of infections and the impact of non-pharmaceutical interventions on COVID-19 in 11 European countries</td>
+        </tr>
+        <tr>
+          <td>12</td>
+          <td>2020-03-26</td>
+          <td><a href="https://www.imperial.ac.uk/medicine/departments/school-public-health/infectious-disease-epidemiology/mrc-global-infectious-disease-analysis/covid-19/report-12-global-impact-covid-19/" target="_blank" rel="noreferrer noopener">https://www.imperial.ac.uk/medicine/departments/school-public-health/infectious-disease-epidemiology/mrc-global-infectious-disease-analysis/covid-19/report-12-global-impact-covid-19/</a> The global impact of COVID-19 and strategies for mitigation and suppression</td>
+        </tr>
+        <tr>
+          <td>11</td>
+          <td>2020-03-24</td>
+          <td><a href="https://www.imperial.ac.uk/medicine/departments/school-public-health/infectious-disease-epidemiology/mrc-global-infectious-disease-analysis/covid-19/report-11-china-exiting-social-distancing/" target="_blank" rel="noreferrer noopener">https://www.imperial.ac.uk/medicine/departments/school-public-health/infectious-disease-epidemiology/mrc-global-infectious-disease-analysis/covid-19/report-11-china-exiting-social-distancing/</a> Evidence of initial success for China exiting COVID-19 social distancing policy after achieving containment</td>
+        </tr>
+        <tr>
+          <td>10</td>
+          <td>2020-03-20</td>
+          <td><a href="https://www.imperial.ac.uk/medicine/departments/school-public-health/infectious-disease-epidemiology/mrc-global-infectious-disease-analysis/covid-19/report-10-population-survey-covid-19/" target="_blank" rel="noreferrer noopener">https://www.imperial.ac.uk/medicine/departments/school-public-health/infectious-disease-epidemiology/mrc-global-infectious-disease-analysis/covid-19/report-10-population-survey-covid-19/</a> Public response to UK Government recommendations on COVID-19: population survey, 17-18 March 2020</td>
+        </tr>
+        <tr>
+          <td>9</td>
+          <td>2020-03-16</td>
+          <td><a href="https://www.imperial.ac.uk/medicine/departments/school-public-health/infectious-disease-epidemiology/mrc-global-infectious-disease-analysis/covid-19/report-9-impact-of-npis-on-covid-19/" target="_blank" rel="noreferrer noopener">https://www.imperial.ac.uk/medicine/departments/school-public-health/infectious-disease-epidemiology/mrc-global-infectious-disease-analysis/covid-19/report-9-impact-of-npis-on-covid-19/</a> Impact of non-pharmaceutical interventions (NPIs) to reduce COVID-19 mortality and healthcare demand This report made an informed estimate of impact for both UK and the USA, according to different strategies. The dire impact expressed helped convert the [[Premiership of Boris Johnson#Coronavirus pandemic</td>
+        </tr>
+        <tr>
+          <td>8</td>
+          <td>2020-03-11</td>
+          <td><a href="https://www.imperial.ac.uk/medicine/departments/school-public-health/infectious-disease-epidemiology/mrc-global-infectious-disease-analysis/covid-19/report-8-symptom-progression-covid-19/" target="_blank" rel="noreferrer noopener">https://www.imperial.ac.uk/medicine/departments/school-public-health/infectious-disease-epidemiology/mrc-global-infectious-disease-analysis/covid-19/report-8-symptom-progression-covid-19/</a> Symptom progression of COVID-19</td>
+        </tr>
+        <tr>
+          <td>7</td>
+          <td>2020-03-09</td>
+          <td><a href="https://www.imperial.ac.uk/medicine/departments/school-public-health/infectious-disease-epidemiology/mrc-global-infectious-disease-analysis/covid-19/report-7-repatriation-flights-covid-19/" target="_blank" rel="noreferrer noopener">https://www.imperial.ac.uk/medicine/departments/school-public-health/infectious-disease-epidemiology/mrc-global-infectious-disease-analysis/covid-19/report-7-repatriation-flights-covid-19/</a> Estimating infection prevalence in Wuhan City from repatriation flights</td>
+        </tr>
+        <tr>
+          <td>6</td>
+          <td>2020-02-21</td>
+          <td><a href="https://www.imperial.ac.uk/medicine/departments/school-public-health/infectious-disease-epidemiology/mrc-global-infectious-disease-analysis/covid-19/report-6-international-surveillance/" target="_blank" rel="noreferrer noopener">https://www.imperial.ac.uk/medicine/departments/school-public-health/infectious-disease-epidemiology/mrc-global-infectious-disease-analysis/covid-19/report-6-international-surveillance/</a> Relative sensitivity of international surveillance</td>
+        </tr>
+        <tr>
+          <td>5</td>
+          <td>2020-02-15</td>
+          <td><a href="https://www.imperial.ac.uk/medicine/departments/school-public-health/infectious-disease-epidemiology/mrc-global-infectious-disease-analysis/covid-19/report-5-phylogenetics-of-sars-cov-2/" target="_blank" rel="noreferrer noopener">https://www.imperial.ac.uk/medicine/departments/school-public-health/infectious-disease-epidemiology/mrc-global-infectious-disease-analysis/covid-19/report-5-phylogenetics-of-sars-cov-2/</a> Phylogenetic analysis of SARS-CoV-2</td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td>2020-02-10</td>
+          <td><a href="https://www.imperial.ac.uk/medicine/departments/school-public-health/infectious-disease-epidemiology/mrc-global-infectious-disease-analysis/covid-19/report-4-severity-of-covid-19/" target="_blank" rel="noreferrer noopener">https://www.imperial.ac.uk/medicine/departments/school-public-health/infectious-disease-epidemiology/mrc-global-infectious-disease-analysis/covid-19/report-4-severity-of-covid-19/</a> Severity of 2019 novel coronavirus (nCoV)</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>2020-01-25</td>
+          <td><a href="https://www.imperial.ac.uk/medicine/departments/school-public-health/infectious-disease-epidemiology/mrc-global-infectious-disease-analysis/covid-19/report-3-transmissibility-of-covid-19/" target="_blank" rel="noreferrer noopener">https://www.imperial.ac.uk/medicine/departments/school-public-health/infectious-disease-epidemiology/mrc-global-infectious-disease-analysis/covid-19/report-3-transmissibility-of-covid-19/</a> Transmissibility of 2019-nCoV</td>
+        </tr>
+      </tbody>
+    </table>
+  </figure>
+  <hr class="wp-block-separator" />
+  <ol>
+    <li>Report 1 – Estimating the potential total number of novel Coronavirus (2019-nCoV) cases in Wuhan City, China <a rel="noreferrer noopener" href="https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-1-case-estimates-of-covid-19/" target="_blank">https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-1-case-estimates-of-covid-19/</a></li>
+    <li>Report 2 – Estimating the potential total number of novel Coronavirus (2019-nCoV) cases in Wuhan City, China <a rel="noreferrer noopener" href="https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-2-update-case-estimates-covid-19/" target="_blank">https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-2-update-case-estimates-covid-19/</a></li>
+    <li>MRC Centre for Global Infectious Disease Analysis, Covid19 <a rel="noreferrer noopener" href="https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/covid-19-reports/" target="_blank">https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/covid-19-reports/</a></li>
+  </ol>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#火光 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2020-12-31/%E7%AB%AF%E7%82%B9%E6%98%9F%E6%A1%88%E6%B6%88%E6%81%AF%E6%B1%87%E6%80%BB/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2020-07-24/%E5%85%AC%E6%B0%91%E5%AE%9E%E9%AA%8C%E5%AE%A4-%E5%BE%AE%E4%BF%A1%E7%9B%91%E6%8E%A7%E8%AF%A0%E9%87%8A/">最早</a>--</span>
+    
+      <li>
+        <time>2020-09-14</time>
+        <a href="https://nodebe4.github.io/opinion/2020-09-14/%E5%8A%89%E7%B4%B9%E8%8F%AF-%E9%BA%BB%E9%A2%A8%E9%86%AB%E7%94%9F%E8%88%87%E5%B7%A8%E8%AE%8A%E4%B8%AD%E5%9C%8B-%E5%BE%8C%E5%B8%9D%E5%9C%8B%E5%AF%A6%E9%A9%97%E4%B8%8B%E7%9A%84%E7%96%BE%E7%97%85%E9%9A%B1%E5%96%BB%E8%88%87%E9%98%B2%E7%96%AB%E6%AD%B7%E5%8F%B2/">
+          劉紹華 – 麻風醫生與巨變中國：後帝國實驗下的疾病隱喻與防疫歷史
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-09-14</time>
+        <a href="https://nodebe4.github.io/opinion/2020-09-14/%E5%AD%A6%E8%80%85%E5%9C%86%E6%A1%8C-%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E5%A4%A7%E6%B5%81%E8%A1%8C%E5%B0%86%E5%A6%82%E4%BD%95%E6%B0%B8%E4%B9%85%E6%89%A9%E5%A4%A7%E6%94%BF%E5%BA%9C%E6%9D%83%E5%8A%9B/">
+          学者圆桌：新冠病毒大流行将如何永久扩大政府权力？
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-09-14</time>
+        <a href="https://nodebe4.github.io/opinion/2020-09-14/%E5%85%B3%E4%BA%8E%E4%B8%89%E5%B9%B4-%E8%87%AA%E7%84%B6%E7%81%BE%E5%AE%B3-%E7%9A%84%E5%8E%86%E5%8F%B2%E7%A0%94%E7%A9%B6-(%E4%B8%8B)/">
+          关于三年“自然灾害”的历史研究 (下)
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-09-14</time>
+        <a href="https://nodebe4.github.io/opinion/2020-09-14/%E5%AF%86%E7%A0%81%E6%9C%8B%E5%85%8B%E5%AE%A3%E8%A8%80/">
+          密码朋克宣言
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2020-09-14/%E5%85%B3%E4%BA%8E%E4%B8%89%E5%B9%B4-%E8%87%AA%E7%84%B6%E7%81%BE%E5%AE%B3-%E7%9A%84%E5%8E%86%E5%8F%B2%E7%A0%94%E7%A9%B6-(%E4%B8%8B)/">
+            前一篇：关于三年“自然灾害”的历史研究 (下)
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2020-09-14/%E5%AD%A6%E8%80%85%E5%9C%86%E6%A1%8C-%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E5%A4%A7%E6%B5%81%E8%A1%8C%E5%B0%86%E5%A6%82%E4%BD%95%E6%B0%B8%E4%B9%85%E6%89%A9%E5%A4%A7%E6%94%BF%E5%BA%9C%E6%9D%83%E5%8A%9B/">
+            後一篇：学者圆桌：新冠病毒大流行将如何永久扩大政府权力？
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2020-09-14/%E5%85%B3%E4%BA%8E%E4%B8%89%E5%B9%B4-%E8%87%AA%E7%84%B6%E7%81%BE%E5%AE%B3-%E7%9A%84%E5%8E%86%E5%8F%B2%E7%A0%94%E7%A9%B6-(%E4%B8%8B)/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2020-09-14/%E5%AD%A6%E8%80%85%E5%9C%86%E6%A1%8C-%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E5%A4%A7%E6%B5%81%E8%A1%8C%E5%B0%86%E5%A6%82%E4%BD%95%E6%B0%B8%E4%B9%85%E6%89%A9%E5%A4%A7%E6%94%BF%E5%BA%9C%E6%9D%83%E5%8A%9B/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2020-09-14/%E5%AD%A6%E8%80%85%E5%9C%86%E6%A1%8C-%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E5%A4%A7%E6%B5%81%E8%A1%8C%E5%B0%86%E5%A6%82%E4%BD%95%E6%B0%B8%E4%B9%85%E6%89%A9%E5%A4%A7%E6%94%BF%E5%BA%9C%E6%9D%83%E5%8A%9B/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2020-09-14/%E5%85%B3%E4%BA%8E%E4%B8%89%E5%B9%B4-%E8%87%AA%E7%84%B6%E7%81%BE%E5%AE%B3-%E7%9A%84%E5%8E%86%E5%8F%B2%E7%A0%94%E7%A9%B6-(%E4%B8%8B)/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2020-09-14/%E5%85%B3%E4%BA%8E%E4%B8%89%E5%B9%B4-%E8%87%AA%E7%84%B6%E7%81%BE%E5%AE%B3-%E7%9A%84%E5%8E%86%E5%8F%B2%E7%A0%94%E7%A9%B6-(%E4%B8%8B)/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2020-09-14/%E5%AD%A6%E8%80%85%E5%9C%86%E6%A1%8C-%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E5%A4%A7%E6%B5%81%E8%A1%8C%E5%B0%86%E5%A6%82%E4%BD%95%E6%B0%B8%E4%B9%85%E6%89%A9%E5%A4%A7%E6%94%BF%E5%BA%9C%E6%9D%83%E5%8A%9B/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<火光>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2020-09-14/%E5%AD%A6%E8%80%85%E5%9C%86%E6%A1%8C-%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E5%A4%A7%E6%B5%81%E8%A1%8C%E5%B0%86%E5%A6%82%E4%BD%95%E6%B0%B8%E4%B9%85%E6%89%A9%E5%A4%A7%E6%94%BF%E5%BA%9C%E6%9D%83%E5%8A%9B/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<火光>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2020-09-14/%E5%85%B3%E4%BA%8E%E4%B8%89%E5%B9%B4-%E8%87%AA%E7%84%B6%E7%81%BE%E5%AE%B3-%E7%9A%84%E5%8E%86%E5%8F%B2%E7%A0%94%E7%A9%B6-(%E4%B8%8B)/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

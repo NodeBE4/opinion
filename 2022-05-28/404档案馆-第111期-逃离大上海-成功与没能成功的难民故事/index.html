@@ -1,0 +1,1063 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>【404档案馆】第111期：逃离大上海：成功与没能成功的难民故事 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+【404档案馆】第111期：逃离大上海：成功与没能成功的难民故事
+——
+" />
+    <meta property="og:description" content="
+【404档案馆】第111期：逃离大上海：成功与没能成功的难民故事
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="【404档案馆】第111期：逃离大上海：成功与没能成功的难民故事" />
+    <meta property="twitter:title" content="【404档案馆】第111期：逃离大上海：成功与没能成功的难民故事" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fmatters.news%2F%40ChinaDT%2F404%25E6%25A1%25A3%25E6%25A1%2588%25E9%25A6%2586-%25E7%25AC%25AC111%25E6%259C%259F-%25E9%2580%2583%25E7%25A6%25BB%25E5%25A4%25A7%25E4%25B8%258A%25E6%25B5%25B7-%25E6%2588%2590%25E5%258A%259F%25E4%25B8%258E%25E6%25B2%25A1%25E8%2583%25BD%25E6%2588%2590%25E5%258A%259F%25E7%259A%2584%25E9%259A%25BE%25E6%25B0%2591%25E6%2595%2585%25E4%25BA%258B-bafyreige7i2ptmqgnknn6seukmse55k6njofiq5b26d2h2me6vf6hgnhbi" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC111%E6%9C%9F-%E9%80%83%E7%A6%BB%E5%A4%A7%E4%B8%8A%E6%B5%B7-%E6%88%90%E5%8A%9F%E4%B8%8E%E6%B2%A1%E8%83%BD%E6%88%90%E5%8A%9F%E7%9A%84%E9%9A%BE%E6%B0%91%E6%95%85%E4%BA%8B-bafyreige7i2ptmqgnknn6seukmse55k6njofiq5b26d2h2me6vf6hgnhbi" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC111%E6%9C%9F-%E9%80%83%E7%A6%BB%E5%A4%A7%E4%B8%8A%E6%B5%B7-%E6%88%90%E5%8A%9F%E4%B8%8E%E6%B2%A1%E8%83%BD%E6%88%90%E5%8A%9F%E7%9A%84%E9%9A%BE%E6%B0%91%E6%95%85%E4%BA%8B-bafyreige7i2ptmqgnknn6seukmse55k6njofiq5b26d2h2me6vf6hgnhbi&text=【404档案馆】第111期：逃离大上海：成功与没能成功的难民故事&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC111%E6%9C%9F-%E9%80%83%E7%A6%BB%E5%A4%A7%E4%B8%8A%E6%B5%B7-%E6%88%90%E5%8A%9F%E4%B8%8E%E6%B2%A1%E8%83%BD%E6%88%90%E5%8A%9F%E7%9A%84%E9%9A%BE%E6%B0%91%E6%95%85%E4%BA%8B-bafyreige7i2ptmqgnknn6seukmse55k6njofiq5b26d2h2me6vf6hgnhbi&title=【404档案馆】第111期：逃离大上海：成功与没能成功的难民故事" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC111%E6%9C%9F-%E9%80%83%E7%A6%BB%E5%A4%A7%E4%B8%8A%E6%B5%B7-%E6%88%90%E5%8A%9F%E4%B8%8E%E6%B2%A1%E8%83%BD%E6%88%90%E5%8A%9F%E7%9A%84%E9%9A%BE%E6%B0%91%E6%95%85%E4%BA%8B-bafyreige7i2ptmqgnknn6seukmse55k6njofiq5b26d2h2me6vf6hgnhbi&title=【404档案馆】第111期：逃离大上海：成功与没能成功的难民故事" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=【404档案馆】第111期：逃离大上海：成功与没能成功的难民故事&body=
+【404档案馆】第111期：逃离大上海：成功与没能成功的难民故事
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC111%E6%9C%9F-%E9%80%83%E7%A6%BB%E5%A4%A7%E4%B8%8A%E6%B5%B7-%E6%88%90%E5%8A%9F%E4%B8%8E%E6%B2%A1%E8%83%BD%E6%88%90%E5%8A%9F%E7%9A%84%E9%9A%BE%E6%B0%91%E6%95%85%E4%BA%8B-bafyreige7i2ptmqgnknn6seukmse55k6njofiq5b26d2h2me6vf6hgnhbi" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC111%E6%9C%9F-%E9%80%83%E7%A6%BB%E5%A4%A7%E4%B8%8A%E6%B5%B7-%E6%88%90%E5%8A%9F%E4%B8%8E%E6%B2%A1%E8%83%BD%E6%88%90%E5%8A%9F%E7%9A%84%E9%9A%BE%E6%B0%91%E6%95%85%E4%BA%8B-bafyreige7i2ptmqgnknn6seukmse55k6njofiq5b26d2h2me6vf6hgnhbi&title=【404档案馆】第111期：逃离大上海：成功与没能成功的难民故事&caption=
+【404档案馆】第111期：逃离大上海：成功与没能成功的难民故事
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=【404档案馆】第111期：逃离大上海：成功与没能成功的难民故事&url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC111%E6%9C%9F-%E9%80%83%E7%A6%BB%E5%A4%A7%E4%B8%8A%E6%B5%B7-%E6%88%90%E5%8A%9F%E4%B8%8E%E6%B2%A1%E8%83%BD%E6%88%90%E5%8A%9F%E7%9A%84%E9%9A%BE%E6%B0%91%E6%95%85%E4%BA%8B-bafyreige7i2ptmqgnknn6seukmse55k6njofiq5b26d2h2me6vf6hgnhbi" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>【404档案馆】第111期：逃离大上海：成功与没能成功的难民故事</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-05-28
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#中国数字时代">
+          中国数字时代
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC111%E6%9C%9F-%E9%80%83%E7%A6%BB%E5%A4%A7%E4%B8%8A%E6%B5%B7-%E6%88%90%E5%8A%9F%E4%B8%8E%E6%B2%A1%E8%83%BD%E6%88%90%E5%8A%9F%E7%9A%84%E9%9A%BE%E6%B0%91%E6%95%85%E4%BA%8B-bafyreige7i2ptmqgnknn6seukmse55k6njofiq5b26d2h2me6vf6hgnhbi" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="中国数字时代的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#中国数字时代 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1653794043000-->
+<p><a href="https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC111%E6%9C%9F-%E9%80%83%E7%A6%BB%E5%A4%A7%E4%B8%8A%E6%B5%B7-%E6%88%90%E5%8A%9F%E4%B8%8E%E6%B2%A1%E8%83%BD%E6%88%90%E5%8A%9F%E7%9A%84%E9%9A%BE%E6%B0%91%E6%95%85%E4%BA%8B-bafyreige7i2ptmqgnknn6seukmse55k6njofiq5b26d2h2me6vf6hgnhbi">【404档案馆】第111期：逃离大上海：成功与没能成功的难民故事</a>
+——</p>
+
+<div>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/58e4d928-726b-4e24-ba28-5794fae3cfe2.jpeg" data-asset-id="58e4d928-726b-4e24-ba28-5794fae3cfe2" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p><a href="https://chinadigitaltimes.net/chinese/404-archives" rel="noopener noreferrer" target="_blank">《404档案馆》</a><span>讲述中国审查与反审查的故事，同时以文字、音频和视频的形式发布。播客节目可在 Apple Podcasts, Google Podcasts, Spotify 或泛用型播客客户端搜索“</span><a href="https://open.firstory.me/user/cdt" rel="noopener noreferrer" target="_blank"><span>404档案馆</span></a><span>”进行收听，视频节目可在Youtube“</span><a href="https://www.youtube.com/channel/UCwXewCWwaK1-yec8niJLrqg" rel="noopener noreferrer" target="_blank"><span>中国数字时代· 404档案馆</span></a><span>”频道收看。</span></p>
+  <p><strong>作者：毕麦</strong></p>
+  <p>欢迎来到404档案馆。在这里，我们一起穿越中国数字高墙。</p>
+  <p>自3月1日上海出现第一例奥密克戎病例，到三月底开始局部封城，再到四、五月份的全域封城，将近2个月的时间里，上海人经历了饥饿、死亡、方舱、硬隔离、有病无医、有家难回、亲子分离、精神崩溃，再到宠物被活活打死、防疫人员撬锁入户消杀……漫长的两个月之间，出逃成为很多人的迫切愿望。</p>
+  <ul>
+    <li><a href="https://chinadigitaltimes.net/chinese/679784.html" rel="noopener noreferrer" target="_blank">【404档案馆】第93期：视频里的“清零”(1)：上海人的哭声</a></li>
+  </ul>
+  <ul>
+    <li><a href="https://chinadigitaltimes.net/chinese/679993.html" rel="noopener noreferrer" target="_blank">【404档案馆】第96期：视频里的“清零”(2)：上海人的呐喊与抗议</a></li>
+  </ul>
+  <ul>
+    <li><a href="https://chinadigitaltimes.net/chinese/680324.html" rel="noopener noreferrer" target="_blank">【404档案馆】第98期：视频里的“清零”(3)：上海人的嘲笑声</a></li>
+  </ul>
+  <ul>
+    <li><a href="https://chinadigitaltimes.net/chinese/680779.html" rel="noopener noreferrer" target="_blank">【404档案馆】第103期：上海日记——上海封城中的个体经历与记忆</a></li>
+  </ul>
+  <ul>
+    <li><a href="https://chinadigitaltimes.net/chinese/681293.html" rel="noopener noreferrer" target="_blank">【404档案馆】第107期：艰难的自救：上海封城中的居民互助与自组织</a></li>
+  </ul>
+  <p>今天，我们来关注努力逃离上海的人们，看看一些人是怎样成功逃离了这里，而另一些人又如何经历了挫折和失败。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/c611fc06-4e4e-4331-901a-cdfac8c63e77.jpeg" data-asset-id="c611fc06-4e4e-4331-901a-cdfac8c63e77" referrerpolicy="no-referrer" />    <figcaption>
+<span>一个外国人，临走前记录了「空城」上海——组图之一</span>
+    </figcaption>
+  </figure>
+  <h2 id="section"><strong>一、在前期严格的封控之中，哪些人可以离开上海？</strong></h2>
+  <p>锡兰，一位中国-比利时混血的Youtuber，在4月29日发布了题为<a href="https://chinadigitaltimes.net/chinese/680656.html" rel="noopener noreferrer" target="_blank">“我逃离了上海”</a><span>的影片。片中，除了分享他是怎么离开上海的，锡兰花了更多的时间来表达对上海防疫政策的不满。</span></p>
+  <figure class="embed-video">
+    <div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/KlU8oELHVmY?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+    </div>
+    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>他说：</p>
+  <blockquote>
+让我感到最奇怪的事情之一是：一开始封到4月5日…大家都同意了，大家都接受了。  </blockquote>
+  <blockquote>
+5号之前，大家都在想着，5号是不是要解封，然后5号到了，没有解封，然后大家都在等，什么时候能解封…… 总得有个确切的日期吧？结果没有，没有一个确切的日期，没有任何人知道自己什么时候能出来…… 然后大多数人的物资只准备了4天，4月5日之后吃什么，没有人知道。   </blockquote>
+  <p>拥有比利时护照的锡兰成功离开了上海。和他一样曾经居住在上海的英国摄影师安东尼·里德也走了，美国有线电视新闻网CNN的驻华记者戴维·卡尔弗也走了。</p>
+  <p>但不是每个外国人都如此幸运。</p>
+  <p>4月28日，一位<a href="https://twitter.com/i/status/1518958997776314368" rel="noopener noreferrer" target="_blank">被困上海的外籍人士绝望地冲出隔离大喊着“我要死/I want to die” 的视频</a><span>，流传到网络上。视频里，他企图闯过“大白”布置的封锁线，但最终被多名防疫人员制服。</span></p>
+  <figure class="embed-video">
+    <div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/jaXorNNRerQ?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+    </div>
+    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>5月15日，在一段广为流传的视频中，据传是在广东珠海海关，两名外籍人士被多名防疫人员在地上粗暴地拖拽。事件具体原因不明。</p>
+  <p><strong>在封控期间成功逃离上海的人中，最知名的莫过于阿里巴巴的高管贾扬清。</strong></p>
+  <p>4月14日下午，贾扬清在Facebook分享了自己如何从上海逃亡回到美国加州的经历。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/d24bf604-6808-444e-9751-e9338c0f419a.png" data-asset-id="d24bf604-6808-444e-9751-e9338c0f419a" referrerpolicy="no-referrer" />    <figcaption>
+<span>来自贾扬清Facebook截图</span>
+    </figcaption>
+  </figure>
+  <p>他说：</p>
+  <blockquote>
+我在上海的最后72小时，是我一生中最难忘的经历，充满了封锁，食物短缺、社交媒体混乱、自我组织的新冠测试，和被隔离的人分享最后的啤酒，找一个‘有关系’的人拿到通行证，凌晨四点，坐在货车的后座，穿越寂静之城，以‘心照不宣’的方式通过警察检查站，帮助一位在机场滞留了两天没有食物的女士，最终，在跨越太平洋的美联航飞机上常规地睡上一觉。  </blockquote>
+  <blockquote>
+周一，在我从上海浦东机场起飞 45分钟后，美国驻上海领事馆命令所有的工作人员和家属撤离回美国。   </blockquote>
+  <p>这篇分享在Facebook的“劫后告白”一经发出，立即火遍了墙内外网络；许多人质疑贾扬清的特权，致使这起“晒逃离”的戏码最终演变成阿里和中国政府的大型公关事件。</p>
+  <p>之后，贾扬清通过朋友圈“辟谣”，称离开上海是因为看病，甚至重点解释了该段文章中，最具争议的词组“with connection”。 这个英文词组，带有暧昧的“走关系”的意思，而贾扬清却解释说：“是因为打不到网约车，所以找朋友联系了一辆出租车去机场。”</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/8491905d-9399-4b14-a6b9-89e4ac863b65.png" data-asset-id="8491905d-9399-4b14-a6b9-89e4ac863b65" referrerpolicy="no-referrer" />    <figcaption>
+<span>贾扬清朋友圈截图</span>
+    </figcaption>
+  </figure>
+  <p>当然，也有许多英文博主在之后讲解了这一单词的使用方法，他们都不认同贾扬清的解释。</p>
+  <p><strong>不是外国人，也不是阿里高管，“离开上海”似乎成了一种奢望。</strong></p>
+  <p>5月9日，微信公众号“BIE别的”发表了题为<a href="https://chinadigitaltimes.net/chinese/681050.html" rel="noopener noreferrer" target="_blank">《一场漫长的上海逃跑计划，中断在浦东机场》</a><span>的文章。文章作者采访了滞留在上海浦东机场的旅客，探寻他们是因何来到上海，又怎么靠着仅有的资源，生活在浦东机场中。</span></p>
+  <p>采访者发现，有人已住在机场滞留数个星期，有人每天盯着手机抢票，但不幸地是，最后每一张机票或车票，都会“被退票”。他们像薛定谔的猫，永远在“能离开”和“不能离开”中纠结，滞留在机场反倒是稳定的“主旋律”。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/5fdf9cc2-f299-41ef-9b07-1ae2c7cde053.png" data-asset-id="5fdf9cc2-f299-41ef-9b07-1ae2c7cde053" referrerpolicy="no-referrer" />    <figcaption>
+<span>住在机场的“方舱大叔”</span>
+    </figcaption>
+  </figure>
+  <p>其中，一位被称为“方舱大叔”的滞留者来自山东烟台；他来上海做志愿者，曾在方舱医院做保安，如今因为父亲身体不好，大叔选择提前回家。</p>
+  <p>住在上海的德国网红阿福，在记录自己“离开上海”的影片里，也恰巧拍到了这位“方舱大叔”。</p>
+  <figure class="embed-video">
+    <div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/VXAGuJZtaHk?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+    </div>
+    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>微信公众号“BIE别的”的文章称，这位方舱大叔单是抵达浦东机场就要面对重重难关——他先是徒步，之后又骑了共享单车、电瓶车。他的经历和网上许多“逃离上海”的人一样，离沪者都只能选择用徒步，或是骑共享单车来到浦东机场；几乎没有司机愿意载客，也没有出租车能轻易地突破警察的封锁线。</p>
+  <p>文章写道: “方舱大叔甚至要手脚并用，爬过铁丝网，并巧妙地躲过值守的警察”。</p>
+  <p>这与网上流传的各种信息不谋而合——4月10日，上海为防止民众逃离上海，甚至在高速公路上使用“生命探测仪”，检测卡车里是否藏人带离上海。</p>
+  <figure class="embed-video">
+    <div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/qK15buYxDis?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+    </div>
+    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>虽然有许多人像方舱大叔一样——历经难关来到浦东机场，<strong>但他们也只能滞留在这，动弹不得。</strong></p>
+  <h2 id="section-1"><strong>二、在官方宣布“解封”之后，离开上海也并不容易</strong></h2>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/5626fa71-e6f7-43d2-b19e-611c2a7bf374.jpeg" data-asset-id="5626fa71-e6f7-43d2-b19e-611c2a7bf374" referrerpolicy="no-referrer" />    <figcaption>
+<span>2022年5月16日虹桥火车站; 图片来自网络</span>
+    </figcaption>
+  </figure>
+  <p>5月16日是上海官方宣布 “解封” 的第一天，许多人害怕 “政策转弯”，在第一时间就选择离开上海。虽然当天火车已有离开上海的班次，但要成功到达火车站绝非易事。</p>
+  <p>微信公众号MotherTree在5月18日发表了文章<a href="https://chinadigitaltimes.net/chinese/681549.html" rel="noopener noreferrer" target="_blank">《今天被称为“离沪潮”，有人为了回家徒步几个小时到虹桥火车站…》</a><span>。TA写道：</span></p>
+  <blockquote>
+有的人是支付了 500 到 1000 的高价车费，简直难以让人相信，从你的住处到火车站堪比某些地方的机票价格。有的人骑行几个小时，穿越上海的大街小巷。更有人甚至从浦东走到虹桥火车站，其离沪的决心之大令人倍感唏嘘。有人一路过关斩将，经过层层审查，穿越艰难的隧道，每个人的经历都可以拍部电影了。   </blockquote>
+  <p>这段话，是解封后离沪人的缩影。中文互联网上流传着许多“离沪”视频：高架上，人人带着行李迁徙；<a href="https://www.youtube.com/shorts/1jKDkFJwMJM" rel="noopener noreferrer" target="_blank">火车站外，望不见底的人流绵延数里</a><span>。诸多报道都记录了这场浩大的“大撤退”。</span></p>
+  <figure class="embed-video">
+    <div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/PuL907hj4ls?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+    </div>
+    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>微信公号@MotherTree也记录了离沪者犹如闯关的经历：</p>
+  <blockquote>
+我是四点半就起床了五点就出门，步行到达的火车站。可是在导航提示只有600米的时候，有人告诉我这里的路被封了，他说只能绕道过去，要再走5公里。终于碰到一个快递小哥，我一顿猛求让他带我上高架。奇怪了，导航只会绕来绕去，却无法达到火车站。被逼无奈只好对着火车站的方向猛开，都不知道怎么闯过来的，最终我徒手翻过挡在进站口的栏杆，到达了排队的地方。  </blockquote>
+  <blockquote>
+正式进口的地方排着漫长的队伍，但是离我发车只有20分钟了。此时我已经不要脸的疯狂求人插队，10分钟后我终于进入了候车室，狂奔到站台，在进入火车前我感觉两条腿都在颤抖，它们抽筋了。   </blockquote>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/71316bee-d278-430c-97d6-9cc3e8a8b05b.png" data-asset-id="71316bee-d278-430c-97d6-9cc3e8a8b05b" referrerpolicy="no-referrer" />    <figcaption>
+<span>抖音上，“离开上海”的分享页面</span>
+    </figcaption>
+  </figure>
+  <p>5月16日，有6000人像TA这样艰险地离开上海。但他们手中的火车票，却来之不易。根据媒体澎湃新闻的报道，每张黄牛票加价高达2200至3500元人民币。</p>
+  <p>澎湃新闻的记者还就“如何买到票”在火车站采访了离沪的学生。面对采访，有学生支支吾吾地问：“挂…挂软件，这是可以说的吗？…… 还有黄牛，这是可以说的吗？”</p>
+  <figure class="embed-video">
+    <div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/Pj_MYiLEUwc?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+    </div>
+    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>这段影像，随后火遍了中国互联网。</p>
+  <p>另外一个<a href="https://twitter.com/iPaulCanada/status/1526885237401206784" rel="noopener noreferrer" target="_blank">名场面</a><span>，则出现在5月18日，还是出自澎湃新闻对离沪学生的采访。</span></p>
+  <p>视频里的澎湃记者问离沪的学生：封控期校园里的生活怎么样？两位女大学生齐声回答“不太好！” 另一个男学生补充说：“行政系统半瘫痪！” 随后记者尴尬地草草结束了这个话题。</p>
+  <figure class="embed-video">
+    <div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/COldKiI5cZM?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+    </div>
+    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>也有人选择开车回老家：一位<a href="https://news.ifeng.com/c/8G8y7ZkTPtq" rel="noopener noreferrer" target="_blank">来自大庆的梁先生</a>，从网友手上低价买入一辆二手车。他先是骑了30公里的共享单车提车，随后开着这辆二手车从上海出发，花了整整两天两夜，回到了中国最北方的省份——黑龙江。</p>
+  <p>除了上述的开车、坐火车、坐飞机离开上海，网上甚至流传着这么一个视频：有位男子自制泡沫木筏，希望借此划回江西老家。</p>
+  <figure class="embed-video">
+    <div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/BUULDqtUJ3k?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+    </div>
+    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>有好心人劝说他：“你这个是回不到江西的！等会儿会散掉的。真的，不能走，不能走！”男子答：“散掉了就游泳啊！”</p>
+  <h2 id="section-2"><strong>三、未来，谁还会留在上海</strong></h2>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/6aa3d62b-8325-4365-b56f-51730d953b93.png" data-asset-id="6aa3d62b-8325-4365-b56f-51730d953b93" referrerpolicy="no-referrer" />    <figcaption>
+<span>端传媒调查：外国人口留沪意愿大幅下跌</span>
+    </figcaption>
+  </figure>
+  <p>5月10日，端传媒发表了<a href="https://theinitium.com/article/20220510-mainland-shanghai-expats-run/" rel="noopener noreferrer" target="_blank">《沪上老外：封城后我开始思考， “怎样逃离曾经深爱的上海”》</a>一文。根据这篇报道，生活在上海的苏格兰人韦侃仑，开始考虑离开上海：</p>
+  <blockquote>
+长达一个多月、持续至今的封城，改变了这座城市的面貌及其吸引力。目睹封城期间‘各种离谱现状’后，韦侃仑和中国妻子开始‘商量人生旅途下一站’ ：‘这段时间我们在思考一个问题：该怎样逃离我们曾经深爱的上海。’   </blockquote>
+  <p>而另一位法国人菲利克斯则说道：</p>
+  <blockquote>
+十里洋场上，法国梧桐下，来一杯咖啡，聊一下文学、艺术，这在过去的上海简直司空见惯。但我现在才明白，这其实就是一出悬浮剧——看上去很美，但随时可能落下来，让你摔倒在现实里，被铁拳迎面来一下。   </blockquote>
+  <p><strong>外国人可以选择离开上海，那来沪打拼的中国外地人呢？</strong></p>
+  <p>在知乎上，有这么一个提问：“上海解封后，会大量出现「沪漂」慢慢地离开上海吗？”</p>
+  <p>这个提问一共吸引了2000多人回答，其中大部分人认为在境外资本离开上海后，“沪漂”们自然也没有理由留下。</p>
+  <p>其中一位<a href="https://www.zhihu.com/question/526241796/answer/2461384724" rel="noopener noreferrer" target="_blank">高赞回答</a>说：</p>
+  <blockquote>
+上海此次疫情估计要折腾半年……很多人会被辞退…… 他们会被迫离开，回到家乡，或者换一个一线城市重新出发。  </blockquote>
+  <blockquote>
+有钱人经过此次疫情，震惊于“自己竟然沦落到有钱买不到菜的一天”，券商的首席竟然落魄到要在抢菜群里询问一只鸡的下落。  </blockquote>
+  <blockquote>
+当然，我们可以相信，上海还是上海，有人离开，可能也会有人来。不过不管怎么说，以此次疫情为分水岭，新上海与旧上海，会是不一样的两个城市。   </blockquote>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/5716efc2-fc29-453a-97e1-7105432499f3.png" data-asset-id="5716efc2-fc29-453a-97e1-7105432499f3" referrerpolicy="no-referrer" />    <figcaption>
+<span>图片来自知乎</span>
+    </figcaption>
+  </figure>
+  <p>更多阅读：</p>
+  <p><a href="https://chinadigitaltimes.net/chinese/681674.html" rel="noopener noreferrer" target="_blank">【404档案馆】第110期：视频中的“清零” (4)：与公权力“理论”的抗争公民</a></p>
+  <p><a href="https://chinadigitaltimes.net/chinese/681341.html" rel="noopener noreferrer" target="_blank">【404档案馆】第108期：“持不同医见者”— 新冠抗疫中那些勇敢说不的中国医生</a></p>
+  <p><a href="https://chinadigitaltimes.net/chinese/681293.html" rel="noopener noreferrer" target="_blank">【404档案馆】第107期：艰难的自救：上海封城中的居民互助与自组织</a></p>
+  <p><a href="https://chinadigitaltimes.net/chinese/680779.html" rel="noopener noreferrer" target="_blank">【404档案馆】第103期：上海日记——上海封城中的个体经历与记忆</a></p>
+  <p><a href="https://chinadigitaltimes.net/chinese/680670.html" rel="noopener noreferrer" target="_blank">【404档案馆】第102期：“连花清瘟19年，没有错过任何一次灾难”：一款“国民神药”的台前幕后</a></p>
+  <p><a href="https://chinadigitaltimes.net/chinese/679784.html" rel="noopener noreferrer" target="_blank">【404档案馆】第93期：视频里的“清零”(1)：上海人的哭声</a></p>
+  <p><a href="https://chinadigitaltimes.net/chinese/679993.html" rel="noopener noreferrer" target="_blank">【404档案馆】第96期：视频里的“清零”(2)：上海人的呐喊与抗议</a></p>
+  <p><a href="https://chinadigitaltimes.net/chinese/680324.html" rel="noopener noreferrer" target="_blank">【404档案馆】第98期：视频里的“清零” (3)：上海人的嘲笑声</a></p>
+  <p><a href="https://chinadigitaltimes.net/chinese/679110.html" rel="noopener noreferrer" target="_blank">【404档案馆】第89期：上海“大清零运动”：被控制的与被清除的</a></p>
+  <p><a href="https://chinadigitaltimes.net/chinese/679620.html" rel="noopener noreferrer" target="_blank">【404档案馆】第92期：“没有死于新冠，却因新冠而死”——念出上海疫情逝者的名字</a></p>
+  <p><a href="https://chinadigitaltimes.net/chinese/675901.html" rel="noopener noreferrer" target="_blank">【404档案馆】第63期：从西安到天津、上海，中国式封城背后的“次生灾害”和“不计代价”</a></p>
+  <p><a href="https://chinadigitaltimes.net/chinese/672699.html" rel="noopener noreferrer" target="_blank">【404档案馆】第37期：瑞丽困境：前副市长发文求助，现市委书记严防舆情</a></p>
+  <p>中国数字时代 CDT 致力于记录和传播中文互联网上被审查的信息，以及人们与审查对抗的努力。欢迎大家通过<a href="https://t.me/cdtmedia_bot" rel="noopener noreferrer" target="_blank">电报(Telegram)平台</a> 向我们投稿，为记录和对抗中国网络审查作出你的贡献！</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/5340a176-724a-4633-a047-4bd696e4dc64.jpeg" data-asset-id="5340a176-724a-4633-a047-4bd696e4dc64" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>了解更多投稿信息，请阅读<a href="https://chinadigitaltimes.net/chinese/telegrambot" rel="noopener noreferrer" target="_blank">中国数字时代征稿说明</a></p>
+  <p><br /></p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#中国数字时代 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-02-12/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC276%E6%9C%9F-%E5%94%B1%E7%A6%81%E6%AD%8C-%E5%88%B0-%E7%A6%81%E6%AD%A2%E5%90%90%E6%A7%BD-%E8%A7%81%E8%AF%81%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E5%8F%98%E8%BF%81%E7%9A%84%E6%98%A5%E6%99%9A/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2021-12-14/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E4%B8%93%E8%AE%BF-%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3%E5%AF%B9%E8%AF%9D-%E8%A7%A3%E6%9E%84%E6%96%B0%E7%96%86%E9%95%87%E5%8E%8B-%E7%AC%AC%E4%B8%80%E4%BD%9C%E8%80%85%E8%AE%B8%E7%A7%80%E4%B8%AD/">最早</a>--</span>
+    
+      <li>
+        <time>2022-05-28</time>
+        <a href="https://nodebe4.github.io/opinion/2022-05-28/CDT%E6%9C%88%E5%BA%A6%E8%A7%86%E9%A2%91-%E4%BA%94%E6%9C%88%E4%B9%8B%E5%A3%B0-%E5%90%91-%E5%9B%9B%E6%9C%88%E4%B9%8B%E5%A3%B0-%E8%87%B4%E6%95%AC/">
+          【CDT月度视频】五月之声——向《四月之声》致敬
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-05-28</time>
+        <a href="https://nodebe4.github.io/opinion/2022-05-28/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC113%E6%9C%9F-%E7%9C%9F%E6%98%AF%E5%A4%A9%E5%A4%A7%E7%9A%84%E7%AC%91%E8%AF%9D-%E5%AE%98%E5%AA%92%E9%95%9C%E5%A4%B4%E4%B8%8B%E7%9A%84%E4%B8%8A%E6%B5%B7%E5%B0%81%E5%9F%8E%E4%B8%8E%E6%B0%91%E4%BC%97-%E6%89%93%E5%81%87/">
+          【404档案馆】第113期：“真是天大的笑话”−−官媒镜头下的上海封城与民众“打假”
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-05-28</time>
+        <a href="https://nodebe4.github.io/opinion/2022-05-28/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC110%E6%9C%9F-%E8%A7%86%E9%A2%91%E4%B8%AD%E7%9A%84-%E6%B8%85%E9%9B%B6-(4)-%E4%B8%8E%E5%85%AC%E6%9D%83%E5%8A%9B-%E7%90%86%E8%AE%BA-%E7%9A%84%E6%8A%97%E4%BA%89%E5%85%AC%E6%B0%91/">
+          【404档案馆】第110期：视频中的“清零” (4)：与公权力“理论”的抗争公民
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-05-28</time>
+        <a href="https://nodebe4.github.io/opinion/2022-05-28/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC108%E6%9C%9F-%E6%8C%81%E4%B8%8D%E5%90%8C%E5%8C%BB%E8%A7%81%E8%80%85-%E6%96%B0%E5%86%A0%E6%8A%97%E7%96%AB%E4%B8%AD%E9%82%A3%E4%BA%9B%E5%8B%87%E6%95%A2%E8%AF%B4%E4%B8%8D%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F/">
+          【404档案馆】第108期：“持不同医见者”— 新冠抗疫中那些勇敢说不的中国医生
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-05-28/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC110%E6%9C%9F-%E8%A7%86%E9%A2%91%E4%B8%AD%E7%9A%84-%E6%B8%85%E9%9B%B6-(4)-%E4%B8%8E%E5%85%AC%E6%9D%83%E5%8A%9B-%E7%90%86%E8%AE%BA-%E7%9A%84%E6%8A%97%E4%BA%89%E5%85%AC%E6%B0%91/">
+            前一篇：【404档案馆】第110期：视频中的“清零” (4)：与公权力“理论”的抗争公民
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-05-28/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC113%E6%9C%9F-%E7%9C%9F%E6%98%AF%E5%A4%A9%E5%A4%A7%E7%9A%84%E7%AC%91%E8%AF%9D-%E5%AE%98%E5%AA%92%E9%95%9C%E5%A4%B4%E4%B8%8B%E7%9A%84%E4%B8%8A%E6%B5%B7%E5%B0%81%E5%9F%8E%E4%B8%8E%E6%B0%91%E4%BC%97-%E6%89%93%E5%81%87/">
+            後一篇：【404档案馆】第113期：“真是天大的笑话”−−官媒镜头下的上海封城与民众“打假”
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-05-28/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC110%E6%9C%9F-%E8%A7%86%E9%A2%91%E4%B8%AD%E7%9A%84-%E6%B8%85%E9%9B%B6-(4)-%E4%B8%8E%E5%85%AC%E6%9D%83%E5%8A%9B-%E7%90%86%E8%AE%BA-%E7%9A%84%E6%8A%97%E4%BA%89%E5%85%AC%E6%B0%91/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-05-28/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC113%E6%9C%9F-%E7%9C%9F%E6%98%AF%E5%A4%A9%E5%A4%A7%E7%9A%84%E7%AC%91%E8%AF%9D-%E5%AE%98%E5%AA%92%E9%95%9C%E5%A4%B4%E4%B8%8B%E7%9A%84%E4%B8%8A%E6%B5%B7%E5%B0%81%E5%9F%8E%E4%B8%8E%E6%B0%91%E4%BC%97-%E6%89%93%E5%81%87/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-05-28/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC113%E6%9C%9F-%E7%9C%9F%E6%98%AF%E5%A4%A9%E5%A4%A7%E7%9A%84%E7%AC%91%E8%AF%9D-%E5%AE%98%E5%AA%92%E9%95%9C%E5%A4%B4%E4%B8%8B%E7%9A%84%E4%B8%8A%E6%B5%B7%E5%B0%81%E5%9F%8E%E4%B8%8E%E6%B0%91%E4%BC%97-%E6%89%93%E5%81%87/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-05-28/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC110%E6%9C%9F-%E8%A7%86%E9%A2%91%E4%B8%AD%E7%9A%84-%E6%B8%85%E9%9B%B6-(4)-%E4%B8%8E%E5%85%AC%E6%9D%83%E5%8A%9B-%E7%90%86%E8%AE%BA-%E7%9A%84%E6%8A%97%E4%BA%89%E5%85%AC%E6%B0%91/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-05-28/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC110%E6%9C%9F-%E8%A7%86%E9%A2%91%E4%B8%AD%E7%9A%84-%E6%B8%85%E9%9B%B6-(4)-%E4%B8%8E%E5%85%AC%E6%9D%83%E5%8A%9B-%E7%90%86%E8%AE%BA-%E7%9A%84%E6%8A%97%E4%BA%89%E5%85%AC%E6%B0%91/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-05-28/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC113%E6%9C%9F-%E7%9C%9F%E6%98%AF%E5%A4%A9%E5%A4%A7%E7%9A%84%E7%AC%91%E8%AF%9D-%E5%AE%98%E5%AA%92%E9%95%9C%E5%A4%B4%E4%B8%8B%E7%9A%84%E4%B8%8A%E6%B5%B7%E5%B0%81%E5%9F%8E%E4%B8%8E%E6%B0%91%E4%BC%97-%E6%89%93%E5%81%87/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<中国数字时代>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-05-28/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC113%E6%9C%9F-%E7%9C%9F%E6%98%AF%E5%A4%A9%E5%A4%A7%E7%9A%84%E7%AC%91%E8%AF%9D-%E5%AE%98%E5%AA%92%E9%95%9C%E5%A4%B4%E4%B8%8B%E7%9A%84%E4%B8%8A%E6%B5%B7%E5%B0%81%E5%9F%8E%E4%B8%8E%E6%B0%91%E4%BC%97-%E6%89%93%E5%81%87/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<中国数字时代>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-05-28/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC110%E6%9C%9F-%E8%A7%86%E9%A2%91%E4%B8%AD%E7%9A%84-%E6%B8%85%E9%9B%B6-(4)-%E4%B8%8E%E5%85%AC%E6%9D%83%E5%8A%9B-%E7%90%86%E8%AE%BA-%E7%9A%84%E6%8A%97%E4%BA%89%E5%85%AC%E6%B0%91/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

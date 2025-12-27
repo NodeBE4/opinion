@@ -1,0 +1,2418 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Spinkcat在2022-09-12~2022-09-18的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Spinkcat在2022-09-12~2022-09-18的言论" />
+    <meta property="twitter:title" content="Spinkcat在2022-09-12~2022-09-18的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FChina_irl%2Fcomments%2Fxcdffp%2F%E5%A6%82%E6%9E%9C%E6%B8%85%E6%9C%AB%E5%AF%A6%E8%A1%8C%E5%90%9B%E4%B8%BB%E7%AB%8B%E6%86%B2%E4%B8%AD%E5%9C%8B%E7%8F%BE%E4%BB%A3%E6%AD%B7%E5%8F%B2%E6%98%AF%E5%90%A6%E6%9C%83%E5%B0%91%E8%B5%B0%E5%BE%88%E5%A4%9A%E5%BD%8E%E8%B7%AF%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/China_irl/comments/xcdffp/如果清末實行君主立憲中國現代歷史是否會少走很多彎路/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/China_irl/comments/xcdffp/如果清末實行君主立憲中國現代歷史是否會少走很多彎路/&text=Spinkcat在2022-09-12~2022-09-18的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/China_irl/comments/xcdffp/如果清末實行君主立憲中國現代歷史是否會少走很多彎路/&title=Spinkcat在2022-09-12~2022-09-18的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/China_irl/comments/xcdffp/如果清末實行君主立憲中國現代歷史是否會少走很多彎路/&title=Spinkcat在2022-09-12~2022-09-18的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Spinkcat在2022-09-12~2022-09-18的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/China_irl/comments/xcdffp/如果清末實行君主立憲中國現代歷史是否會少走很多彎路/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/China_irl/comments/xcdffp/如果清末實行君主立憲中國現代歷史是否會少走很多彎路/&title=Spinkcat在2022-09-12~2022-09-18的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Spinkcat在2022-09-12~2022-09-18的言论&url=https://old.reddit.com/r/China_irl/comments/xcdffp/如果清末實行君主立憲中國現代歷史是否會少走很多彎路/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Spinkcat在2022-09-12~2022-09-18的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-09-18
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://www.reddit.com/user/Spinkcat/" style="font-size:14px;">作者: Spinkcat</a>
+        </span>
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/China_irl/comments/xcdffp/如果清末實行君主立憲中國現代歷史是否會少走很多彎路/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#1730-如果清末實行君主立憲中國現代歷史是否會少走很多彎路-submitted-on-2022-09-12-2153080800" id="markdown-toc-1730-如果清末實行君主立憲中國現代歷史是否會少走很多彎路-submitted-on-2022-09-12-2153080800">1730: 如果清末實行君主立憲，中國現代歷史是否會少走很多彎路？, submitted on 2022-09-12 21:53:08+08:00.</a></li>
+  <li><a href="#1731-中国为什么要采取这种极端变态的防疫政策-submitted-on-2022-09-13-0027020800" id="markdown-toc-1731-中国为什么要采取这种极端变态的防疫政策-submitted-on-2022-09-13-0027020800">1731: 中国为什么要采取这种极端变态的防疫政策？, submitted on 2022-09-13 00:27:02+08:00.</a></li>
+  <li><a href="#1732-在女王灵车经过时大骂安德鲁王子-英男子当场被按倒-submitted-on-2022-09-13-1941590800" id="markdown-toc-1732-在女王灵车经过时大骂安德鲁王子-英男子当场被按倒-submitted-on-2022-09-13-1941590800">1732: 在女王灵车经过时大骂安德鲁王子 英男子当场被按倒, submitted on 2022-09-13 19:41:59+08:00.</a></li>
+  <li><a href="#1733-奴才参见王爷-submitted-on-2022-09-13-1957360800" id="markdown-toc-1733-奴才参见王爷-submitted-on-2022-09-13-1957360800">1733: 奴才参见王爷～, submitted on 2022-09-13 19:57:36+08:00.</a></li>
+  <li><a href="#1734-粟战书讲话之后各位认为中共会不会为俄罗斯提供实质性的军事援助-submitted-on-2022-09-14-1709100800" id="markdown-toc-1734-粟战书讲话之后各位认为中共会不会为俄罗斯提供实质性的军事援助-submitted-on-2022-09-14-1709100800">1734: 粟战书讲话之后，各位认为中共会不会为俄罗斯提供实质性的军事援助？, submitted on 2022-09-14 17:09:10+08:00.</a></li>
+  <li><a href="#1735-广开言路放松言论控制强化和利用舆论监督能否有效改善一党制的缺陷-submitted-on-2022-09-18-1901430800" id="markdown-toc-1735-广开言路放松言论控制强化和利用舆论监督能否有效改善一党制的缺陷-submitted-on-2022-09-18-1901430800">1735: 广开言路，放松言论控制，强化和利用舆论监督，能否有效改善一党制的缺陷, submitted on 2022-09-18 19:01:43+08:00.</a></li>
+  <li><a href="#1736-接下来怎么办十四亿人熬死他是吧-submitted-on-2022-09-18-2112200800" id="markdown-toc-1736-接下来怎么办十四亿人熬死他是吧-submitted-on-2022-09-18-2112200800">1736: 接下来怎么办，十四亿人熬死他是吧, submitted on 2022-09-18 21:12:20+08:00.</a></li>
+</ul>
+
+<h3 id="1730-如果清末實行君主立憲中國現代歷史是否會少走很多彎路-submitted-on-2022-09-12-2153080800">1730: <a href="https://old.reddit.com/r/China_irl/comments/xcdffp/如果清末實行君主立憲中國現代歷史是否會少走很多彎路/">如果清末實行君主立憲，中國現代歷史是否會少走很多彎路？</a>, submitted on 2022-09-12 21:53:08+08:00.</h3>
+
+<p>—– <strong>1730.1</strong> —–2022-09-13 00:15:46+08:00:</p>
+
+<p>清朝被推翻，本身就是君主立宪失败的结果。</p>
+
+<p>而清朝君主立宪失败，是因为清廷高层不见棺材不落泪，改革能往死里拖就绝对不挪窝。</p>
+
+<p>我们现在看到的大清在最后进行一系列宪政与改革的准备，实际就是拖到不能再拖才有的结果。</p>
+
+<p>过去数十年间，清廷都有大量机会主动进行改革，结果导致孙中山等改良派直接变成革命党人，以及立宪太晚跟不上社会期待，仍然存在皇族内阁，引发社会与中立派别的一直不满。（有说法认为是过渡立宪的必然结果，哪怕是，也反应清廷改革太迟，社会发展的需求给不了他们缓冲区了）</p>
+
+<p>清末革命党人要求废除清廷，其实本身就是一个长期妥协不得后，逐渐激进确立的最终结果。</p>
+
+<p>你反过来比喻现在就明白了，如果民主改革诉求从1989年就有了，一开始是希望在共产党领导下改革，之后是希望共产党能主动让位，再后面是希望共产党下台。</p>
+
+<p>结果不改一直死憋着，社会客观发展，最后温和派全变激进派，共产党这时候想回到八十年代自己带头改革当大哥继续把持政权，是很多人根本不接受的事。</p>
+
+<p>这个时候话题已经从希望共产党下台，变成共产党下台后不灭族没有任何讨论余地，那么事情就尴尬了。</p>
+
+<p>类似的情况其实在香港前几年反送中运动有体现，一开始只是要求撤回，但官方装硬汉，最后发展成五大诉求，结果官方还不肯松口，就变成暴力冲突。</p>
+
+<p>现在虽然民间被压住了，但是诉求客观还在，而且证明非常低程度的暴力无法实现诉求，就会寻求一旦社会出现动荡，官方管制力下降，就会开始用激进暴力，比如肉体消灭香港政府官僚，建立新政权为目标去行动。</p>
+
+<p>很多时候都是占尽利益的人，自认为是威权，想赚到最后一刻不下来，结果发现扭不过历史车轮，被碾死而已。</p>
+
+<h3 id="1731-中国为什么要采取这种极端变态的防疫政策-submitted-on-2022-09-13-0027020800">1731: <a href="https://old.reddit.com/r/China_irl/comments/xch99q/中国为什么要采取这种极端变态的防疫政策/">中国为什么要采取这种极端变态的防疫政策？</a>, submitted on 2022-09-13 00:27:02+08:00.</h3>
+
+<p>—– <strong>1731.1</strong> —–2022-09-13 01:40:50+08:00:</p>
+
+<p>两个原因，第一政治威信问题，第二个资源挤兑问题。</p>
+
+<p>政治威信上，疫情从一开始不承认，到后来扩大甩锅，墙内话术频繁转移话题，从一个胜利到下一个胜利。</p>
+
+<p>这种模式实际上到三月末已经彻底破产了，尤其是现在封城运动式扩大，你刹车意味着过去两年的所有宣传都是错误的，需要有一个责任方。</p>
+
+<p>党内宣传都是习近平领导，对党内习近平要为刹车带来的威权冲击负责，党外群众怎么看中共这种自打脸的行为？乌克兰战争前坚持说不会打，以及后面佩洛西访台，其实对比疫情本身的政治宣传，都不算很大规模的舆论操控，都已经造成非常大的舆论话柄。</p>
+
+<p>官方基本就是靠删部分，然后持续装死当没发生过硬挺过去。</p>
+
+<p>如果疫情开放化后大规模感染，最后走上其他国家的路线，那你之前疫情涉及面就太大了，乌克兰和访台这些事，更多是主动关注政治者，疫情是生活方方面面，没有任何人不受影响。</p>
+
+<p>承认错误，意味着被影响的2年都是不必要的，也就是带领大家走了错误方向，那这个时候负责的领导人和政党，多数人哪怕不能说出来，心里态度也会逐渐改变。</p>
+
+<p>资源挤兑上，如果放开，全国上亿人口感染恐怕无法避免。</p>
+
+<p>这会造成一个社会难题，那就是医疗资源短期内会被挤兑，而国内的医疗资源大部分集中在发达城市，但是人口不是，资源分配是按照地区进行的，而人口会随着春运和返工潮大规模流动。</p>
+
+<p>哪怕你能控制好二十来个较发达的城市和入城务工人员，保证当地的资源足以应付疫情问题，那他们离开开始传播后，是无法控制局面的。</p>
+
+<p>人口入城务工是因为政策与资源倾斜向发达城市，不能进行常规人口流动，意味着经济全国性停滞。</p>
+
+<p>除此之外，地方的医疗也是财政的一部分，要谈钱的，地方的财政本来就困难，完全放开意味着地方需要将大部分资源倾斜向医疗方面，但地方本身没那么多钱，你倾斜也倾斜不了多少。</p>
+
+<p>这就意味着持续性的全国疫情且没对应手段，会让地方财政崩溃，劳动力流动性崩溃。</p>
+
+<p>官方目前除了政治威信的安全外，最大的目标就是确保不会因为地方财政窟窿，出现连锁反应，引发大面积的地方瘫痪。</p>
+
+<p>经济好时，地方财政烂，可能只是民众的公共服务减少，但有的本身就不多，可能不会感觉到。</p>
+
+<p>可经济本身就处于下滑阶段，全社会的牢骚都非常非常多，你管住舆论和实际微操到地方去单控会行动的人，靠的都是花钱请人做这件事，这些钱很多都是地方政府出。</p>
+
+<p>一旦许多地方政府资源严重短缺，没钱去扩张舆论与社会管制能力，就等于给有想法的人行动和生存空间。</p>
+
+<p>—– <strong>1731.2</strong> —–2022-09-13 13:49:41+08:00:</p>
+
+<p>政权威信不是个人面子问题，历史上犯错的大部分都没有正式承认过，包括文革都是拐弯借渠道把锅甩给了四人帮，对有政治威信的招牌毛本人，则依然采取抓小放大，有限批评。</p>
+
+<p>哪怕毛健在时，到后期也逐渐无法控制舆论与民意，推脱-找借口-完全装死，从文革到六四再到现在，是一个有渐进过程的官民互动状态，这个过程是不可逆的，因为政权合法性的法理解释空间越来越小，六四后从更务实的精神需求与意识形态，彻底变成了功利主义。</p>
+
+<p>死人的事反而好处理，不把疫情并发症算入死亡数字内，这个行为其实早早就在做了，民间更多可能因为感染的人太多忽略了这点，从后续不同年龄层的死亡率统计里才回过味。</p>
+
+<p>内债也是债，要考虑不同层级之间的政府关系，以及财政结构，这个是很多人对中国债务问题容易出盲区的地方，国内分税制的环境下 ，对地方政府办事需求并未降低，甚至因为维稳原因在不断增长，而财政分配权却未提高，最终造成事权不对等问题，这也是为什么政府部门整体债务高。</p>
+
+<p>出群体性社会运动，有钱往死压就行，还可以控制舆论，香港就是例子，但是地方政府没钱，就会出现拆东墙补西墙的现象，管控会出漏洞，行政干涉力度下降。</p>
+
+<p>—– <strong>1731.3</strong> —–2022-09-13 13:57:36+08:00:</p>
+
+<p>这是科学性的判断，不是政治性的，认知印象层面在依然是新冠病毒，所以转不过来弯。</p>
+
+<p>实际上海地方团队一开始错误判断，最初可能还是有行政和科学合理性的，但问题扩大后说不封城已经只是文字游戏，中央施予的政治压力是很明显的，中央到地方的数据反馈和政治要求传达也需时间。</p>
+
+<p>所以后来发明了滚动筛查、网格式筛选等说法，实际就是封城。</p>
+
+<p>—– <strong>1731.4</strong> —–2022-09-13 14:03:48+08:00:</p>
+
+<p>如果持续清零政策是为二十大连任的政治背书，之后不再需要才有可能逐渐转变。</p>
+
+<p>否则可能是个恒常性政策，持续到中共倒台为止，提前为社会陷入动荡准备微管制模式的雏形，非医疗系统的防疫人员和志愿者随时摇身一变成为辅警，人手一把枪来形成基层威慑。</p>
+
+<p>—– <strong>1731.5</strong> —–2022-09-13 14:07:13+08:00:</p>
+
+<p>因为社会运作在很多人看来，太稳定和日常化，觉得是理所当然的，认为树大了也不会倒是常识。</p>
+
+<p>就跟很多粉红被铁拳后三观崩碎，实际上就是事实与主观无法紧密耦合，长期活在一种被保护好的运行规则内。包括部分反贼也单方面认为中共无论如何都不可能倒，这也是脱离实际的一种情况。</p>
+
+<p>实际上中共倒台的核心议题就是钱多钱少，钱的分配效率的问题，这是很多人根本没意识到的。</p>
+
+<p>—– <strong>1731.6</strong> —–2022-09-14 05:07:49+08:00:</p>
+
+<p>两个主要可能，一个次要的。</p>
+
+<p>第一是下面怎么做只能等上面给意见，上面意见没决定，或者反馈慢了，下面的宣传唯有持续战狼，宣传口刹车要有缓冲区。</p>
+
+<p>第二是上面不认为会访台，结果被打脸。第三种不排除的是觉得就算访台，这样持续宣传也不是个事，但可能性很低，如果真这样那高层也挺有问题了。</p>
+
+<p>第三点其实就是我的一个疑问，这个点是包括前两者的，主要是正常情况下，我觉得就算行政和党务耦合程度下降了，也不至于这么糟糕吧。</p>
+
+<p>不过另一方面，草台班子迹象越来越明显，这个我想所有人都能开始观察到了，官方越深入民间开始参与民众事务，大众也越能察觉到起落后的拉跨本质，并且越深入意味着资金摊牌越细致，人均经费下降，各方面效果也跟不上。</p>
+
+<p>最典型的就是各类入驻主流媒体的官媒和基层警务部门，我觉得加速和他们劣化的速度，都比想的快很多。</p>
+
+<p>—– <strong>1731.7</strong> —–2022-09-14 05:11:13+08:00:</p>
+
+<p>会有用，官方也是在能力范围内，想尽一切办法在挣扎了。</p>
+
+<p>但如果最后发展到那个程度，实际上倒台也是因为使唤不动这群人，因为跟基层发生冲突和利益最少的就是他们，如果要发武器方便他们维稳，反而可能造成基层党员互相联合磨洋工，抓到机会就调转枪头领导社区。</p>
+
+<p>可即便有这种可能性，这样做现在也是必须的，因为是在许多风险里，官方选一个至少还能拖延的做法。</p>
+
+<p>整体来说中共虽然可能要十几年甚至二十年才垮，但大限将至的感觉给人非常明显，反常行为很多。</p>
+
+<h3 id="1732-在女王灵车经过时大骂安德鲁王子-英男子当场被按倒-submitted-on-2022-09-13-1941590800">1732: <a href="https://old.reddit.com/r/China_irl/comments/xd58yf/在女王灵车经过时大骂安德鲁王子_英男子当场被按倒/">在女王灵车经过时大骂安德鲁王子 英男子当场被按倒</a>, submitted on 2022-09-13 19:41:59+08:00.</h3>
+
+<p>—– <strong>1732.1</strong> —–2022-09-13 20:10:36+08:00:</p>
+
+<p>在场的人未必喜欢安德鲁或想维护他，但肯定不能接受女王灵柩经过时受这样的干扰。</p>
+
+<h3 id="1733-奴才参见王爷-submitted-on-2022-09-13-1957360800">1733: <a href="https://old.reddit.com/r/China_irl/comments/xd5jud/奴才参见王爷/">奴才参见王爷～</a>, submitted on 2022-09-13 19:57:36+08:00.</h3>
+
+<p>—– <strong>1733.1</strong> —–2022-09-13 20:08:38+08:00:</p>
+
+<p>像啊，很像啊（指清朝官服）</p>
+
+<h3 id="1734-粟战书讲话之后各位认为中共会不会为俄罗斯提供实质性的军事援助-submitted-on-2022-09-14-1709100800">1734: <a href="https://old.reddit.com/r/China_irl/comments/xdx193/粟战书讲话之后各位认为中共会不会为俄罗斯提供实质性的军事援助/">粟战书讲话之后，各位认为中共会不会为俄罗斯提供实质性的军事援助？</a>, submitted on 2022-09-14 17:09:10+08:00.</h3>
+
+<p>—– <strong>1734.1</strong> —–2022-09-14 18:15:06+08:00:</p>
+
+<p>我认为会提供援助，而且明显在靠拢。但明面给多少，是否是纯军事性援助很难说，现在还有缓冲余地。</p>
+
+<p>栗战书讲话、美国和台促制裁反侵台，促欧盟加入、习近平会与普京交谈乌台问题</p>
+
+<p>总体上给我感觉释放很不好的讯号。</p>
+
+<p>第一，国内之前虽然民间舆论宣传是支持俄罗斯为主，但高级干部明确表态支持并且进行了拍摄，有打算梭哈的倾向，至少已经给中国官方态度定调。</p>
+
+<p>第二，美国似乎跟俄罗斯入侵乌克兰时一样，有某种必要理由去快速促成一个健全的制裁体系，如果平时释放可能不算什么，因为贸易战以来没少打。但是这次伴随的是同期中国行动，以及乌克兰战争前后，美国多次释放俄罗斯将侵乌的表态。</p>
+
+<p>该制裁实际是打算建立在阻吓俄罗斯入侵乌克兰时的反应机制，但是事后并没有很好执行，美方可能觉得达不到预期，现在将同规格制裁框架直接对标中国入侵台湾，说明在他们能接触到的信息层面，中国武力入侵的可能性越来越大。</p>
+
+<p>第三，目前还不确定的一点，习近平与普京交谈乌克兰和台湾问题，这个结论是什么。</p>
+
+<p>是让次一级的栗战书表示官方态度，习近平再为国际层面的矛盾和稀泥来避免个人与中国形象难以扭转，以此作为政治缓冲去避免做太绝？通常来说我想这是最有可能的。</p>
+
+<p>假设习近平也在交谈里表述跟栗战书类似的观点，那结合下来，可以判断美方与台湾的快速反应的确是因为观察到具体动向而产生危机感。</p>
+
+<p>所以就看到时候两人交谈，以及二十大后习近平对俄态度和对乌克兰战争的亲自表述。</p>
+
+<p>一旦公开全面倒向俄罗斯，武力攻台也许五到十年内就就会发生，五年后刚好是建军一百周年。</p>
+
+<p>—– <strong>1734.2</strong> —–2022-09-15 03:18:14+08:00:</p>
+
+<p>有对外扩张的沙文主义和领土需求，都是偏威权主义的政权体系，政治上与欧美对立，尤其是美国。</p>
+
+<p>经济能源方面，俄罗斯是资源出口国，中国接壤恰巧需要。如果在东南亚和太平洋、东欧爆发三战，双方背靠背的广大缓冲区，可以作为走廊互相运输资源。</p>
+
+<p>从三战角度来看，中俄联盟，如果加入伊朗、阿富汗和中亚各国，实际占据了世界岛一大半的区域，这些组织可以通过中亚的铁路输送网，在战时快速输送盟友需要的资源。</p>
+
+<p>尤其是最重要的石油资源，俄罗斯与伊朗能避免断供，中国内陆的庞大生产体系则能在战时替代外界输入，提供大量的轻重工业产能。</p>
+
+<p>—– <strong>1734.3</strong> —–2022-09-15 03:47:29+08:00:</p>
+
+<p>衍生讨论下，如果发生三战，中俄联盟的地理优劣来推演，判断中俄美等国在不同地区外交与军事政策的舍取。</p>
+
+<p>已经明确的中俄伊阵线，中亚可以忽略计入俄罗斯与伊朗控制范围。</p>
+
+<p>这个时候沙特、土耳其、印度的位置就非常关键。</p>
+
+<p>沙特和印度倒戈，可能导致苏伊士运河无法使用，切断欧洲跨印度洋支援东南亚与东亚的可能，沙特如果中立或者支持欧美，当地除了航运安全外，大量生产的石油可以作为中心中转站运输到澳大利亚和欧洲。</p>
+
+<p>埃及反而没那么重要，因为决定中俄同盟进攻路线的障碍，主要来自于以色列、伊拉克和沙特，如果打到埃及了苏伊士运河本身也根本无法被控制。</p>
+
+<p>骑墙的土耳其和印度，其中印度可以直接决定第三战场，中国如果入侵东南亚，主要负责缓冲的就是越南，中南半岛其他国家可能选择中立（但如果发展到三战趋势时，中南半岛国家的经济水平可能会高，倾向性也会增加）</p>
+
+<p>与中国友好的巴基斯坦在印度方向进行防御，印度应该也不可能大部队翻越西藏进军，对孟加拉方面印度似乎也在想办法靠拢，方便集中资源在西侧巴基斯坦。</p>
+
+<p>进入中国南部国境，印度需要穿过孟加拉和缅甸，假设未来三十年中共不垮台，且两国经济快速发展（仍然是发展中国家），有三战趋势，这两个国家要么是选边站，要么中立，会成为中印拉拢的对象来保证国境线安全。</p>
+
+<p>否则如果是敌对关系，要面临孟加拉、印度、越南、缅甸的一体化，且进攻会穿过云南，延伸到四川与广东这些核心地区。</p>
+
+<p>土耳其倒向俄罗斯，在进入欧洲门户上，巴尔干半岛的缓冲区太强，很难作为牵制北约的手段，反而如果作为北约成员进入俄罗斯领土，格鲁吉亚是很好的进入窗口，乌克兰东线和克里米亚的俄军会遭夹击与包饺子。</p>
+
+<p>所以俄罗斯坚持在叙利亚身上投入大量资源，确保有亲俄武装在中东，伊拉克不能排除未来亲伊朗的可能，但毕竟现在还有美军基地。</p>
+
+<p>叙利亚的存在，可以确保一旦开战，伊朗和叙利亚协同夹击伊拉克，隔绝北约成员国在中东的盟友，让土耳其无法轻易北上，假设未来伊拉克倒向伊朗，那就更糟糕了。</p>
+
+<p>相对的，可以看出美方放弃阿富汗的原因，内陆难以有效支援，典型的都是四战之地，靠阿富汗扶持政权无法对中俄伊形成背后威慑，空运部队与资源进入，随时有被包饺子消灭的可能。</p>
+
+<p>经过一整个奥巴马时期的战略调整，美国用了大概十来年转移重心，伊拉克开始恢复，放弃高成本低收益的阿富汗，转向更有战略价值的东南亚各国以及旧有的岛链政策。</p>
+
+<p>中俄伊也开始明确抱团，大有形成三国同盟趋势，但是世界冲突性虽然在战略层面可能一直在预演三战的局势冲突，矛盾却还远远没到那个程度，这也是中俄盟友关系，但余地还很大的原因。</p>
+
+<p>双方都不知道具体可能有什么引发连锁反应，但目前乌克兰战争已经点燃部分。</p>
+
+<p>不排除未来随经济下滑，中共需要对外开战转移矛盾延续政权，进而出现入侵台湾，俄罗斯与伊朗全力支持，促发欧美建立的完整制裁机制，彻底隔绝成两大阵营。</p>
+
+<p>进而从台湾地区冲突，逐渐升温为无核但长期隔绝的低烈度三战。</p>
+
+<h3 id="1735-广开言路放松言论控制强化和利用舆论监督能否有效改善一党制的缺陷-submitted-on-2022-09-18-1901430800">1735: <a href="https://old.reddit.com/r/China_irl/comments/xhdq2w/广开言路放松言论控制强化和利用舆论监督能否有效改善一党制的缺陷/">广开言路，放松言论控制，强化和利用舆论监督，能否有效改善一党制的缺陷</a>, submitted on 2022-09-18 19:01:43+08:00.</h3>
+
+<p>—– <strong>1735.1</strong> —–2022-09-19 00:12:34+08:00:</p>
+
+<p>如果实行了，的确是可以改善的，但也必然有一个结局，那就是一党专政的结束。</p>
+
+<p>具体要看执政党能不能接受这个结果，新加坡事实民主，但也是一党独大，但李光耀很注重这个框架，也接受一党独大局面迟早结束，李显龙也阻止不了这种趋势。</p>
+
+<p>国内的这种状况，如果说像标题所言，其实就是回到文革后的八十年代改革路线上。</p>
+
+<p>也即胡赵等人有意识地认同没党派是永远执政的，随着社会与经济发展必然出现变革，与其逆势阻挡，不如顺水推舟。</p>
+
+<p>利用党在文革后平反和改革开放的经济增长，所提供的政治威信，主动去为未来过渡到多党制与民主化进行铺垫，而不是死死抗拒，最后拉到鱼死网破，导致所有人都变输家。</p>
+
+<p>比起直接一口气吃成胖子过渡到多党制和自由化，实际上威权政府能在条件允许下，主动自我改革成民主政府反而有利社会稳定，能避免瞬间权力分散带来的崩溃问题。</p>
+
+<p>还可以借威权优势，提前对一些未来可能利益沉淀后难以触及的议题，提前进行针对性处理，比如说处理户籍或地方债务问题，因为如果直接全盘放权，会出现各地扯皮不放手，权力各个都想要，责任各个都在推卸甩锅的问题。</p>
+
+<p>根本原因还是党内领导层拒绝接受一党专政的结束，有的人天生就是希望控制和垄断一切，让自己成为说一不二的皇帝，哪怕嘴上含糊其辞不承认，也能从其他观点里看出一二。</p>
+
+<p>实际上你没法跟这种人处于一个平等状态去涉及政治利益进行交流，因为他的逻辑里，要么你是被管理的臣民，要么他输了当你的臣民，这就是威权主义者的一贯思维。</p>
+
+<p>如果当初中共高层多数人能接受他们迟早下台，并且认真为此铺垫，其实就当时政治经济的威望，哪怕民主选举，中共改组后大概率还是会留在台上，变成一超多强的局面多年。</p>
+
+<p>因为邓胡赵时期的政治和历史包袱并不大，甚至从胡的角度来说是没有的，反而过去的政治包袱成了胡的政治资产。</p>
+
+<p>要按政治改革的设计走，党内先允许异议声音和党内执政选举，施行个二十年的逐步放开，也就到了2009年。</p>
+
+<p>然后把党内选举下放，再允许地方选举，4年一届，培养三届习惯，12年也就到了2021年。</p>
+
+<p>最后践行议会制选举，中共复刻新加坡的概率非常大，在哪个地方选区，还是过去平反、带来经济改革、推动民主化的功绩，足够后续中共领导层吃个几十年。</p>
+
+<p>完成这三项，对于中国来说就是再造共和，政治资产是史无前例的庞大。</p>
+
+<p>从2021年开始算，哪怕中共这届选举就大败然后下台解散，分支派系组党，吃的也是这些政治遗产，所以我想不出来如果有这三大政治资产在，什么败家玩意能选输。</p>
+
+<p>如果没有选举失败还在上面呢？4-5年一轮，两届就是十年，现在习近平上台也才十年而已，这十年如坐针毡，国民都快窒息了，政府财政和局势位置一直在下滑，能续多久？</p>
+
+<p>有自己主动建设政治资产，然后和平在台上靠选举吃几十年红利舒服吗？</p>
+
+<p>二十年后，习近平撒手人寰，留下的全是政治负债，这些债都是有人要来替他和六四后的保守派来还的。（不止是个人的政治前途，还有家族人身自由、生命和财产。）</p>
+
+<p>拒绝改革，硬挺五十年，结果撑的还未必比自己主动放权久呢。</p>
+
+<p>—– <strong>1735.2</strong> —–2022-09-22 02:14:09+08:00:</p>
+
+<p>社会是在正向发展的，如果对社会的管控放松回08之前，社会给出的反应肯定比过去更激烈。</p>
+
+<p>过去宽松主要两个原因，一个是八十年代自由化的惯性，慢慢就没了。另一个是官方其实从六四后在收紧，但是收的水平和经验不足够，江胡时期都在持续，只不过力度不太够，并且他们做的不好，很粗糙。</p>
+
+<p>习上台后，就开始专门针对性去控制，吸收前两任的经验和教训，把这件事彻底办成了。</p>
+
+<p>如果说胡时期，给公众一定空间还是可能的，但是习时期，做了那么多事，有的时候开弓没有回头箭，一旦放手，反噬力度会非常大。</p>
+
+<p>因为社会问题都是环环相扣的，假设允许地方民众和媒体有自己声音唱反调，今天是公开质疑粉红，明天就可能在问习近平修宪是否有必要。</p>
+
+<p>政府并没有主动去培养反对派，甚至毁灭了体制内的反对派别，这就导致反对派不可能再跟政府有默契，双方之前起码是一个共识内进行你来我往的可能性，已经无限趋于零了。</p>
+
+<p>于反对派而言，政府十年高压，持续加码，不但不停还变本加厉，人稍微聪明点都早就放弃幻想了。</p>
+
+<p>你一放开这个口子，所有人都会200%利用拿来打倒你（注意，已经不是反对了）</p>
+
+<p>六四后分裂的改革派，一部分变保守派，一部分更倾向于改良，对立性的前提是基于中共这个政治团体互相认可的基本盘。</p>
+
+<p>未来放开，那只能是基于打倒中共共识的这个基本盘，如果真有一天环境所迫舆论放开了，他们下台就只是时间问题，现在这种你死我活的对立性，正在被他们逐渐树立。</p>
+
+<p>—– <strong>1735.3</strong> —–2022-09-24 04:19:30+08:00:</p>
+
+<p>毕竟官方不打算解决问题，也不愿提提供解决问题机制，准备坐到内战或者被政变下台为止，在这个事实逐渐被认清后，国内给出的转变可能会很快，不过大多数人可能会付出极高的代价才能明白。</p>
+
+<h3 id="1736-接下来怎么办十四亿人熬死他是吧-submitted-on-2022-09-18-2112200800">1736: <a href="https://old.reddit.com/r/China_irl/comments/xhgboy/接下来怎么办十四亿人熬死他是吧/">接下来怎么办，十四亿人熬死他是吧</a>, submitted on 2022-09-18 21:12:20+08:00.</h3>
+
+<p>—– <strong>1736.1</strong> —–2022-09-19 03:03:49+08:00:</p>
+
+<p>大象越重，脚踩钉子越疼。</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-09-20</time>
+        <a href="https://nodebe4.github.io/opinion/2022-09-20/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-09-19~2022-09-25的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-09-18</time>
+        <a href="https://nodebe4.github.io/opinion/2022-09-18/theoryofdoom/">
+          theoryofdoom在2022-09-12~2022-09-18的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-09-18</time>
+        <a href="https://nodebe4.github.io/opinion/2022-09-18/EnclavedMicrostate/">
+          EnclavedMicrostate在2022-09-12~2022-09-18的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-09-16</time>
+        <a href="https://nodebe4.github.io/opinion/2022-09-16/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-09-12~2022-09-18的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-09-18/HeQinglian/">
+            前一篇：Twitter @He Qinglian: 2022-09-12~2022-09-18
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-09-18/cnmediaproject/">
+            後一篇：Twitter @China Media Project: 2022-09-12~2022-09-18
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-09-18/HeQinglian/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-09-18/cnmediaproject/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-09-18/theoryofdoom/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-09-18/EnclavedMicrostate/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-09-18/HeQinglian/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-09-18/cnmediaproject/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-09-18/theoryofdoom/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-09-18/EnclavedMicrostate/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

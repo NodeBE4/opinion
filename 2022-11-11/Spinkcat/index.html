@@ -1,0 +1,2251 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Spinkcat在2022-11-07~2022-11-13的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Spinkcat在2022-11-07~2022-11-13的言论" />
+    <meta property="twitter:title" content="Spinkcat在2022-11-07~2022-11-13的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FChina_irl%2Fcomments%2Fyp8mwo%2F%E4%B9%A0%E8%BF%9E%E5%A5%97%E9%A4%90%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/China_irl/comments/yp8mwo/习连套餐/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/China_irl/comments/yp8mwo/习连套餐/&text=Spinkcat在2022-11-07~2022-11-13的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/China_irl/comments/yp8mwo/习连套餐/&title=Spinkcat在2022-11-07~2022-11-13的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/China_irl/comments/yp8mwo/习连套餐/&title=Spinkcat在2022-11-07~2022-11-13的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Spinkcat在2022-11-07~2022-11-13的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/China_irl/comments/yp8mwo/习连套餐/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/China_irl/comments/yp8mwo/习连套餐/&title=Spinkcat在2022-11-07~2022-11-13的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Spinkcat在2022-11-07~2022-11-13的言论&url=https://old.reddit.com/r/China_irl/comments/yp8mwo/习连套餐/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Spinkcat在2022-11-07~2022-11-13的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-11-11
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://www.reddit.com/user/Spinkcat/" style="font-size:14px;">作者: Spinkcat</a>
+        </span>
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/China_irl/comments/yp8mwo/习连套餐/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#1845-习连套餐-submitted-on-2022-11-08-1029440800" id="markdown-toc-1845-习连套餐-submitted-on-2022-11-08-1029440800">1845: 习连套餐, submitted on 2022-11-08 10:29:44+08:00.</a></li>
+  <li><a href="#1846-请问各位认为中国在近现代1800到1949年最大的一些错误在哪-submitted-on-2022-11-11-1858070800" id="markdown-toc-1846-请问各位认为中国在近现代1800到1949年最大的一些错误在哪-submitted-on-2022-11-11-1858070800">1846: 请问各位认为中国在近现代1800到1949年最大的一些错误在哪, submitted on 2022-11-11 18:58:07+08:00.</a></li>
+</ul>
+
+<h3 id="1845-习连套餐-submitted-on-2022-11-08-1029440800">1845: <a href="https://old.reddit.com/r/China_irl/comments/yp8mwo/习连套餐/">习连套餐</a>, submitted on 2022-11-08 10:29:44+08:00.</h3>
+
+<p>—– <strong>1845.1</strong> —–2022-11-08 15:26:37+08:00:</p>
+
+<p>陕西菜是真好吃，缺水的地方没那么多精致，有粗犷感，对面的处理到位。</p>
+
+<h3 id="1846-请问各位认为中国在近现代1800到1949年最大的一些错误在哪-submitted-on-2022-11-11-1858070800">1846: <a href="https://old.reddit.com/r/China_irl/comments/ys775v/请问各位认为中国在近现代1800到1949年最大的一些错误在哪/">请问各位认为中国在近现代1800到1949年最大的一些错误在哪</a>, submitted on 2022-11-11 18:58:07+08:00.</h3>
+
+<p>—– <strong>1846.1</strong> —–2022-11-11 20:39:00+08:00:</p>
+
+<p>清灭亡前，对整个中国最大的错误，是咸丰死后的辛酉政变直接导致跟日本同期进行西化改革却长期落后，失去东亚地区主导权，并且直接导致日军侵华与长期内战和后续历史。</p>
+
+<p>这个我过去经常提到，实际是个被忽视的历史脉络，咸丰早亡无法施展抱负，肃顺被杀更是引发后来汉人官僚集团失去主心骨。</p>
+
+<p>鬼子六和慈禧，尤其是慈禧，都再也无法跟肃顺一样跨越身份与地位的去团结汉人官僚，因为他们没法以满人主导者身份不顾政治影响去任用汉人，后期很多时候更像是妥协。</p>
+
+<p>肃顺大量提拔汉人，且有早期大中华主义，对新式技术的态度从他提拔的下属可见一斑，任用人才不问民族，清后期执政危机里，一个主要问题就是缺乏政治凝聚力。</p>
+
+<p>除了西化和维新运动，当时拿不出任何可以团结统治阶层与士人集团观点的立场。</p>
+
+<p>清亡的顺序是这样的：太平天国后权力分散，迫切需要洋务运动，导致国内出现改革派与保守派别，但改革派别在统治阶层中枢长期缺乏派系，也没有门第继承关系，让康有为这样的人直接进入权力中枢，而光绪既无对此的了解，也无具备丰富行政经验的臂膀。</p>
+
+<p>最后引发社会观点矛盾分裂，孙文等改良派开始彻底走向革命立场，并且最终导致清朝灭亡。</p>
+
+<p>慈禧在时通过长期对朝政的控制力凝聚保守派，死后受西化影响的北洋派系也不演了，革命压力一加大，越来越多人骑墙跳反。</p>
+
+<p>也就是说辛酉政变直接导致清朝错过完整改革自身，从狭隘民族主义过渡到大中华主义的一个窗口期，最终灭亡于西化影响下的汉民族主义，以及相对应的现代化思想。</p>
+
+<p>可以说慈禧留下了一个烂摊子，只要她死，清朝和革命党都是输家，谁也对付不了谁，最后造成的事实是，地方民主是有了，却是基于混乱而来。</p>
+
+<p>除此之外战争也来了，不止是内部自己人打自己，外部还有日本人虎视眈眈。</p>
+
+<p>慈禧晚年已经意识到这点，从一开始放权出现百日维新，再到后来寻求君主立宪制的考察，都说明慈禧临死前些年的危机感开始大幅度加强，明白到局势已经越来越难被清廷控制。</p>
+
+<p>慈禧杀肃顺，直接导致大量汉人官僚与朝廷关系开始若即若离，从此半个多世纪再也无法做到肃顺时期，既名正言顺以满人身份管理汉人官僚集团，又能不刻意照顾满人利益，相反以满人身份去修正满人集团的内部弊病而不至于站不住脚，相当于满人自己内部出现一个能一碗水端平的平衡角色。</p>
+
+<p>夸张的比喻，汉人群臣就是会随着洋务运动必然成为主体的一条恶犬，唯一能牵绳子的人就是辛酉政变里被杀掉的肃顺，慈禧清除肃顺，导致后期汉人和洋务运动产生的重要政治实体与观点，居然不能被满人为核心的朝廷轻易掌控。</p>
+
+<p>出现东南互保也不敢深究，要知道此时曾国藩死了都快三十年了。</p>
+
+<p>光绪本身的不成熟，也是因为权力中枢一直缺乏一个持续推进西化和大中华化的统治阶层内部集团。</p>
+
+<p>保守派包括荣禄和慈禧在内对变法态度都是积极的，全都后知后觉，在肃顺死后半个世纪意识到满人集团必须改革，但是又没有可以用的现成人才梯队，并且发现康有为这种人根本无法主导行政工作，只能到处演讲为主，最后就是光绪在混乱里选了下下策，试图跟保守派火并获取全部政权而被软禁放弃。</p>
+
+<p>连皇帝都已经这样了，慈禧实际应该已经知道清廷的最后命运，因为此时民间革命者不再是以武逼改，而是以武实现革命。</p>
+
+<p>—– <strong>1846.2</strong> —–2022-11-14 23:59:00+08:00:</p>
+
+<p>洋务运动不是为了集权，是被形式所迫的产物，当时太平天国还没战败呢，咸丰也没死，属于是到关键时刻不得不改了，就跟改革开放一样，左右派都同意要改革。</p>
+
+<p>推动主力来自于地方汉臣集团与部分意识到需要改革的中央满人和内廷人员，基本此时内外廷观点是一致的，后来相当多都继承咸丰末期以肃顺为首的改革观念。</p>
+
+<p>但决策权因为肃顺被杀，鬼子六后来被踢，慈禧有些转向用其言不用其人的驾驶，开始出现中央与地方不齐的问题，也是到慈禧死前，朝中始终没培养出一个能掌控和凝聚内外廷的政治领袖的原因，袁世凯其实也不怎么具备这种影响力。</p>
+
+<p>—– <strong>1846.3</strong> —–2022-11-24 00:23:32+08:00:</p>
+
+<p>肃顺个人能力出色，有改革意识，对满人内部腐朽非常不满，对满人旧制颇有微词，整顿不少，不问汉人与否进行提拔和重用，对有能力的汉人很尊重，而不是持满人身份自居高位。</p>
+
+<p>而且是皇帝亲信，是咸丰施政的一条腿，王公家族出身，但是市井经验多，政务的执行效率与主动性很强。</p>
+
+<p>政治上，因为肃顺是满人，他骂满人无能，就跟黑人骂黑人黑鬼一样，不会被扣上一个反满反清的帽子，相当于为当时越来越大的汉人官僚集团在统治阶层最高层发声。</p>
+
+<p>以前的汉臣就算张廷玉做到最高位，也没法跟满人一样名正言顺去表达政治观点。</p>
+
+<p>行政上，因为肃顺负责咸丰年间许多工作，具体不细说，但雷厉风行且办事得当，能肃清吏治是很明显的，能力也被公认。</p>
+
+<p>那这样一个人，既有王公背景姓爱新觉罗，又是满人那时绝无仅有的的行政强人，还不像鬼子六一样跟咸丰有利益矛盾冲突被顾忌，更认知到满人不行，以及汉人官僚们的优点。</p>
+
+<p>而当时长期背景是，汉人官僚其实是在往上做大，但又缺乏一个渠道，肃顺刚好填补了这点，几乎把当时在满清内部需要解决的问题，他的个人角色都能恰到好处填充上去。</p>
+
+<p>让咸丰安心满意，得到皇帝的全权信任，有满人身份可以在集团内部说直话实话，能意识到汉人官僚的需求并且平等的与之沟通，只讲行政身份，而不考虑满汉之分。</p>
+
+<p>崇祯到明末也没打算彻底处理宗室尾大不掉的问题，但是肃顺当时已经考虑对满人旧制下的一些人动刀，尤其是八旗。</p>
+
+<p>曾国藩在肃顺被杀后说慈禧是” 此冤狱也，自坏长城矣 “，这个”自“是指谁，其实不言而喻，清廷本身。</p>
+
+<p>鬼子六属于行政改革，优化旧制度和拥抱部分新制度，做不到彻底，也不能统一当时做大的汉臣，他仍然在用部分肃顺的政策，比如汉人总督居多。</p>
+
+<p>但就像前面说的一样，他没法凝聚汉人，他的最终目的是优化制度，而肃顺是打算淘汰满人，让汉人这个主体民族进入最高层主政，所以有这样的说法：” 其对于满员，直奴隶视之，大呼其名，恶语秽骂无所忌。一见汉吏，立即改容致敬，或称先生，或称某翁、某老爷。其索贿也亦惟满人，若汉员之一丝一粟，不敢受也。 “</p>
+
+<p>按现在观点看，肃顺妥妥一逆向民族主义者，但就当时清朝状况，确实需要这么一个人，既有背景、身份（爱新觉罗血脉），又有能力和皇帝支持，咸丰让他当顾命大臣，相当于已经默许肃顺的改革大体方向。</p>
+
+<p>满人集团内部后来再也没出过这样的人，光绪可能也算，但是光绪政治和行政上都很不成熟，以至于百日维新后跟慈禧关系破裂，甚至任用康有为这样的人。</p>
+
+<p>其实清末跟改革开放历史非常像，都是保守派、改革派为主，满人旧制和毛泽东旧制度一样，很多人都知道要改，但是张不开嘴。</p>
+
+<p>都有出来挑大梁的改革派，细节和角色可能不太一样，但是结局都是改革派被斗倒，内部派系有人继承改革派的部分良性政策做行政优化。</p>
+
+<p>并且始终是保守派掌权，改革派背景的人可以得到任用，但始终难以完全独立自主，社会在半开半放的过程里缓慢前进，同期日本一起进行改革，但进展比清朝快很多，以至于甲午战争确立了维新成果，而清朝这个时候反应过来，却发现已经没什么可用的人手，慈禧到后来甚至打算君主立宪，也来不及了。</p>
+
+<p>基本上杀肃顺，导致清廷内部名正言顺，能以满人法理合法融合满汉，组成新政治派系和改革的路线被彻底堵死，也因此慈禧一死，国内矛盾立刻爆发。</p>
+
+<p>应该说，当时只有肃顺意识到了社会主体是汉人，必须废满扶汉来达到政治融合，而这个行为如果是汉人来做，清廷和满人就要永久性退出历史舞台，大概率是要打仗的。</p>
+
+<p>但如果是满人来做，还是他这个皇室支系，顺水推舟就容易很多，起码能和平过渡。</p>
+
+<p>郭嵩焘是肃顺的亲信近臣，他后来到英国观念大改，开始主张全面西化，这对于当时的人来说观念上可以转弯是非常难得的，也能看出来肃顺一系的官僚接受新兴事物和实事求是的程度，如果肃顺代表清廷利益，此时仍然主政的话，外访可能要更早发生，并且处理八旗后就会全面进行真正意义的洋务运动。</p>
+
+<p>换其他人来，要么引起慈禧猜疑，要么也无法统筹汉人官僚集团，肃顺与汉人官僚们的关系密切，是鬼子六比不了的，更无法得到咸丰全力支持和信任，所以说清廷是慈禧开始把自己作没了一点没错。</p>
+
+<p>只是不知道慈禧晚年开始跟热锅上的蚂蚁一样连君主立宪都肯时，会不会想起当年不应该杀肃顺，搞到最后都是北洋汉人和革命党汉人之间争天下，满人被彻底踢出历史舞台。</p>
+
+<p>—– <strong>1846.4</strong> —–2022-11-25 23:26:55+08:00:</p>
+
+<p>台湾主权问题背后我个人认为有两个原因</p>
+
+<p>第一，纯粹从内部来看，民国哪怕丢失大陆，也是一个客观存在的政治实体，并没有断代过，从清朝灭亡到现在都持续存在，有非常明确的法统继承顺序，中共是靠内战获得胜利，但是这种方式获得的合法性，在改革开放后面临了一个议题。</p>
+
+<p>那就是暴力是否还能作为合法性的单一来源去证明大家都支持自己，也自然构成了共和国法理被质疑的环境。</p>
+
+<p>因为改革开放本身就是公开承认了内部那套撑不住，必须靠经济增长来保证自身合法性。</p>
+
+<p>反过来讲，就是说当年赶跑国民党说自己有合法性的说辞用到改革开放算结束了，之后需要经济和生活水平带来合法性，而隔壁台湾已经做到完成转型。</p>
+
+<p>也即是说，民国是不是也可以代表先进的社会生产秩序，跟中共自己宣传的一样去反过来再取代大陆呢，虽然台湾放弃反攻大陆的打算，但中共内部危机分裂后，有一个强力对比在，会让中共传统话术带来的威信变得很有限的。</p>
+
+<p>第二，纯粹从利益角度看，无论大陆出现什么政权，都没有任何道理会放弃台湾地区主权，这是单纯的利益问题，战略、经济价值都过高，新政权可能会接受台湾的事实独立以及反对武统并且友善化，但一个执政集团，是不可能放弃这种关乎国家社会利益的东西。</p>
+
+<p>而对中共来说，就更不可能了，当然这层因素是相对次要的，因为他们反正也控制不了，更没能力通过民主化和平统一组建联邦，因此第一点是更主要的原因（而起码如果有新政权愿意亲台，改变双方看法后和平统一是至少有可能的）</p>
+
+<p>台湾的存在是对中共一切政策与合法性的一面镜子，当初你说自己是先进，现在人家先进了，也是为什么国内舆论对台湾开火仅次于美国的一个主要原因。</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-11-15</time>
+        <a href="https://nodebe4.github.io/opinion/2022-11-15/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-11-14~2022-11-20的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-11-13</time>
+        <a href="https://nodebe4.github.io/opinion/2022-11-13/EnclavedMicrostate/">
+          EnclavedMicrostate在2022-11-07~2022-11-13的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-11-10</time>
+        <a href="https://nodebe4.github.io/opinion/2022-11-10/theoryofdoom/">
+          theoryofdoom在2022-11-07~2022-11-13的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-11-08</time>
+        <a href="https://nodebe4.github.io/opinion/2022-11-08/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-11-07~2022-11-13的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-11-10/%E8%A7%A3%E8%AE%80%E5%8C%97%E4%BA%AC%E9%97%9C%E6%96%BC-%E6%B8%85%E9%9B%B6-%E7%9A%84%E6%B7%B7%E4%BA%82%E4%BF%A1%E8%99%9F-%E4%BA%8C%E5%8D%81%E5%A4%A7%E5%BE%8C%E7%BF%92%E8%BF%91%E5%B9%B3%E4%BB%8D%E7%84%B6%E5%B0%88%E6%B3%A8%E6%96%BC%E5%8F%8D%E8%85%90%E6%95%97/">
+            前一篇：解讀北京關於「清零」的混亂信號；二十大後習近平仍然專注於反腐敗
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-11-11/%E7%B6%93%E5%85%B8%E9%87%8D%E6%BA%AB-%E7%A6%81%E5%BF%8C%E5%8F%B2%E8%A9%B1-%E5%8A%AB%E8%B2%A1%E5%BA%8F%E5%B9%95-%E4%B8%89%E5%8F%8D%E4%BA%94%E5%8F%8D/">
+            後一篇：🌟【經典重溫】禁忌史話：劫財序幕 三反五反
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-11-10/%E8%A7%A3%E8%AE%80%E5%8C%97%E4%BA%AC%E9%97%9C%E6%96%BC-%E6%B8%85%E9%9B%B6-%E7%9A%84%E6%B7%B7%E4%BA%82%E4%BF%A1%E8%99%9F-%E4%BA%8C%E5%8D%81%E5%A4%A7%E5%BE%8C%E7%BF%92%E8%BF%91%E5%B9%B3%E4%BB%8D%E7%84%B6%E5%B0%88%E6%B3%A8%E6%96%BC%E5%8F%8D%E8%85%90%E6%95%97/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-11-11/%E7%B6%93%E5%85%B8%E9%87%8D%E6%BA%AB-%E7%A6%81%E5%BF%8C%E5%8F%B2%E8%A9%B1-%E5%8A%AB%E8%B2%A1%E5%BA%8F%E5%B9%95-%E4%B8%89%E5%8F%8D%E4%BA%94%E5%8F%8D/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-11-13/EnclavedMicrostate/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-11-10/theoryofdoom/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-11-10/%E8%A7%A3%E8%AE%80%E5%8C%97%E4%BA%AC%E9%97%9C%E6%96%BC-%E6%B8%85%E9%9B%B6-%E7%9A%84%E6%B7%B7%E4%BA%82%E4%BF%A1%E8%99%9F-%E4%BA%8C%E5%8D%81%E5%A4%A7%E5%BE%8C%E7%BF%92%E8%BF%91%E5%B9%B3%E4%BB%8D%E7%84%B6%E5%B0%88%E6%B3%A8%E6%96%BC%E5%8F%8D%E8%85%90%E6%95%97/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-11-11/%E7%B6%93%E5%85%B8%E9%87%8D%E6%BA%AB-%E7%A6%81%E5%BF%8C%E5%8F%B2%E8%A9%B1-%E5%8A%AB%E8%B2%A1%E5%BA%8F%E5%B9%95-%E4%B8%89%E5%8F%8D%E4%BA%94%E5%8F%8D/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-11-13/EnclavedMicrostate/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-11-10/theoryofdoom/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

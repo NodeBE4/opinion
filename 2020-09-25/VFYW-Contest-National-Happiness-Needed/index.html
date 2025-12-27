@@ -1,0 +1,835 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>VFYW Contest: National Happiness Needed – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+VFYW Contest: National Happiness Needed
+——
+" />
+    <meta property="og:description" content="
+VFYW Contest: National Happiness Needed
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="VFYW Contest: National Happiness Needed" />
+    <meta property="twitter:title" content="VFYW Contest: National Happiness Needed" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fandrewsullivan.substack.com%2Fp%2Fvfyw-contest-national-happiness-needed" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://andrewsullivan.substack.com/p/vfyw-contest-national-happiness-needed" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://andrewsullivan.substack.com/p/vfyw-contest-national-happiness-needed&text=VFYW Contest: National Happiness Needed&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://andrewsullivan.substack.com/p/vfyw-contest-national-happiness-needed&title=VFYW Contest: National Happiness Needed" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://andrewsullivan.substack.com/p/vfyw-contest-national-happiness-needed&title=VFYW Contest: National Happiness Needed" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=VFYW Contest: National Happiness Needed&body=
+VFYW Contest: National Happiness Needed
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://andrewsullivan.substack.com/p/vfyw-contest-national-happiness-needed" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://andrewsullivan.substack.com/p/vfyw-contest-national-happiness-needed&title=VFYW Contest: National Happiness Needed&caption=
+VFYW Contest: National Happiness Needed
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=VFYW Contest: National Happiness Needed&url=https://andrewsullivan.substack.com/p/vfyw-contest-national-happiness-needed" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>VFYW Contest: National Happiness Needed</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2020-09-25
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Chris Bodenner</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#The Weekly Dish">
+          The Weekly Dish
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://andrewsullivan.substack.com/p/vfyw-contest-national-happiness-needed" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="The Weekly Dish的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#The Weekly Dish 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1601065209000-->
+<p><a href="https://andrewsullivan.substack.com/p/vfyw-contest-national-happiness-needed">VFYW Contest: National Happiness Needed</a>
+——</p>
+
+<div>
+<a class="image-link image2 image2-914-1456" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Faa1172eb-24aa-433e-ab00-a1ecebb0bf10_2116x1329.png"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Faa1172eb-24aa-433e-ab00-a1ecebb0bf10_2116x1329.png" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/aa1172eb-24aa-433e-ab00-a1ecebb0bf10_2116x1329.png&quot;,&quot;height&quot;:914,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:3817968,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null}" alt="" />      <style>          a.image2.image-link.image2-914-1456 {            padding-bottom: 62.77472527472527%;            padding-bottom: min(62.77472527472527%, 914px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-914-1456 img {            max-width: 1456px;            max-height: 914px;          }        </style>
+</a>  <p>The reader who led off <a href="https://andrewsullivan.substack.com/p/vfyw-contest-escape-to-the-emerald">last week’s contest</a> returns:</p>
+  <blockquote>
+    <p>My new objective is to come closer than my guess last week, which was New Zealand with an error of 11,942 miles. I just showed my wife that Dingle view, and she said “Ireland,” which was slightly closer than my guess. So based on her performance, I asked for her guess this week. She said it looked like Kyoto. So I’m guessing Kyoto, Japan. (We stayed at the Westin Miyako Kyoto and the highlight for us was Ryōan-ji, the Zen temple.)</p>
+  </blockquote>
+  <p>Only 2,674 miles off this time. This next reader is too hard on himself:</p>
+  <blockquote>
+    <p>First time player, long time loser. Is it the Ore Inn in Jiufen, Taiwan?</p>
+  </blockquote>
+  <p>Another reader goes with another island nation:</p>
+  <blockquote>
+    <p>I’m fairly certain this is in Indonesia. The first indication was the architecture. The second was the red-and-white sign on which “PONRI” can be made out — that’s the acronym for the Indonesian Police.</p>
+  </blockquote>
+  <p>It’s actually “PELRI,” according to a half-dozen readers with better sight than mine. Another notes, “a nearby roof has letters spray painted on top that say ‘I LOVE BHU.’” Banaras Hindu University? Maybe. This reader jumps to the mainland:</p>
+  <blockquote>
+    <p>This looks like the beautiful Cameron Highlands in Malaysia, a place I briefly visited in 1988 while backpacking around Southeast Asia. I recall visiting a tea plantation but not much else. It’s a large tourist area with a number of settlements, but I’ll go with the town of Brinchang. </p>
+  </blockquote>
+  <p>Another reader heads north:</p>
+  <blockquote>
+    <p>It’s clearly a hill station in northern India but I’ve exhausted all the ones I know and can’t find it! AHhhhhhhhhhhhhh! </p>
+  </blockquote>
+  <p>Another frustrated reader:</p>
+  <blockquote>
+    <p>I’ve searched India, Spain, Canary Islands, Columbia, Costa Rica, and on and on and on … so many of them have homes very close to those in the photo, but not quite right. I’ll choose Zhangmu, Tibet:</p>
+<a class="image-link image2 image2-594-950" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5f29ddca-9b93-4a80-bedb-3f82929132fb_950x594.jpeg"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5f29ddca-9b93-4a80-bedb-3f82929132fb_950x594.jpeg" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/5f29ddca-9b93-4a80-bedb-3f82929132fb_950x594.jpeg&quot;,&quot;height&quot;:594,&quot;width&quot;:950,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:353173,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null}" alt="" />        <style>          a.image2.image-link.image2-594-950 {            padding-bottom: 62.526315789473685%;            padding-bottom: min(62.526315789473685%, 594px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-594-950 img {            max-width: 950px;            max-height: 594px;          }        </style>
+</a>    <p>I know it’s not right, but I’m stumped yet again …</p>
+  </blockquote>
+  <p>This reader gets to the right country:</p>
+  <blockquote>
+    <p>It has to be the mountain kingdom of <strong>Bhutan</strong>. There are so many tantalizing clues, such as the monastery on the hill above, the unusual outdoor gym to the right, and the infuriating red-and-white sign that I think ends in “Pelri”? The Hotel Phuntso Pelri in Thimphu has remarkably similar architecture, but I don’t think it’s the same building …</p>
+    <p>I have to send this email so I stop digging into this one — my head hurts! Perhaps my focus on Thimphu has me in the wrong city entirely, but it’s my birthday today so I’m hoping for an honorable mention.</p>
+  </blockquote>
+  <p>Happy birthday! Some celebratory balloons are at the bottom of this post. Another Thimphu guesser:</p>
+  <blockquote>
+    <p>I was initially thrown off by the deciduous trees in the photo, since Bhutan is mountainous and cold. But after finding <a href="https://bhutanfound.org/wp-content/uploads/2020/07/School-Design-Guidelines-2020.pdf">official guidelines for Bhutanese school design</a>, I discovered that schools often make use of deciduous trees to help block the sun in the summer and permit it in the winter. Also, many schools in Bhutan feature an entry gate and pavilion such as those in the window photo:</p>
+<a class="image-link image2 image2-833-1456" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F54335182-88e8-4b1c-9977-0892e408115d_2706x1548.png"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F54335182-88e8-4b1c-9977-0892e408115d_2706x1548.png" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/54335182-88e8-4b1c-9977-0892e408115d_2706x1548.png&quot;,&quot;height&quot;:833,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:6152041,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null}" alt="" />        <style>          a.image2.image-link.image2-833-1456 {            padding-bottom: 57.21153846153846%;            padding-bottom: min(57.21153846153846%, 833px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-833-1456 img {            max-width: 1456px;            max-height: 833px;          }        </style>
+</a>  </blockquote>
+  <p>Another reader gets the right city:</p>
+  <blockquote>
+    <p>I’m not that familiar with Bhutan, but the tall prayer flag was a big hint, and once I started looking at different Bhutanese cities, it became strikingly clear that this was Bhutan. The architectural elements are repeated all over the country. After looking two or three times at all the temple-like structures in Thimphu — the country’s capital and largest city — I came to accept that none of them matched the Dzong seen in the window. And most of the other of the ten largest cities looked far too sparse. The only thing left to do was power through all the towns in Bhutan …</p>
+    <p>And there was <strong>Mongar</strong>, a little pocket of an urban city. </p>
+  </blockquote>
+  <p>Pop. 3,502. Chini sends a bird’s-eye view (or is it a dragon’s-view?):</p>
+<a class="image-link image2 image2-902-1456" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fde90911f-1bcf-4201-bceb-1bc52b9675db_1981x1227.jpeg"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fde90911f-1bcf-4201-bceb-1bc52b9675db_1981x1227.jpeg" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/de90911f-1bcf-4201-bceb-1bc52b9675db_1981x1227.jpeg&quot;,&quot;height&quot;:902,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:2944112,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null}" alt="" />      <style>          a.image2.image-link.image2-902-1456 {            padding-bottom: 61.95054945054945%;            padding-bottom: min(61.95054945054945%, 902px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-902-1456 img {            max-width: 1456px;            max-height: 902px;          }        </style>
+</a>  <p>But which building in Mongar? A long-time reader knows:</p>
+  <blockquote>
+    <p>This is actually my first VFYW contest entry! The wife is out of town. A few hours on Google Maps is my gluttonous entertainment I guess. </p>
+    <p>I knew immediately that the architecture was unique enough to isolate quickly. Neat apartments, but few cars and people. The exercise park. All pointed to a mountain town in Asia. So few commercial signs!? Then the rooftop “BHU” was the giveaway.  The rest was searching the few cities in Bhutan. I almost gave up and discovered Mongar on a list of “cities” …</p>
+    <p>The answer is a view from the <strong>Wangchuk Hotel</strong> in Mongar, Bhutan. I tried my best to do a “CSI VFYW” like other readers, but I’m not up to it. </p>
+  </blockquote>
+  <p>This reader is:</p>
+<a class="image-link image2 image2-720-960" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffcd6fc0f-27c4-4624-aae1-3c517f25ebfb_960x720.png"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffcd6fc0f-27c4-4624-aae1-3c517f25ebfb_960x720.png" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/fcd6fc0f-27c4-4624-aae1-3c517f25ebfb_960x720.png&quot;,&quot;height&quot;:720,&quot;width&quot;:960,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:1718900,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null}" alt="" />      <style>          a.image2.image-link.image2-720-960 {            padding-bottom: 75%;            padding-bottom: min(75%, 720px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-720-960 img {            max-width: 960px;            max-height: 720px;          }        </style>
+</a>  <p>Eighteen other readers correctly answered Wangchuk Hotel. One of them provides some great background on Bhutan:</p>
+  <blockquote>
+    <p>The architecture of Bhutanese apartments is immediately recognizable to anyone, like my son, who has been to Bhutan. Nearly <em>every</em> apartment building in the entire country seems to have the same basic range of elements: retail on the ground floor (usually behind an arcade); three or four floors of apartments above; stucco walls painted either white or in a tight range of pale colors; windows with beautiful decorative wood frames, sometimes with medallions between them; and always pitched metal seam roofs that are either red, green or silver with large projecting eaves. There are no all-glass buildings, or Modern buildings with flat roofs, or multifaceted, curved structures. There is definitely no Bhutanese Bloomberg encouraging developers to build apartment towers many floors taller than their neighbors.  </p>
+    <p>I’ve included an image from TripAdvisor showing the interior of a similar room with the same view:</p>
+<a class="image-link image2 image2-931-1456" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F68988224-9c71-4054-b497-6b10b9bc2a76_1978x1265.jpeg"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F68988224-9c71-4054-b497-6b10b9bc2a76_1978x1265.jpeg" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/68988224-9c71-4054-b497-6b10b9bc2a76_1978x1265.jpeg&quot;,&quot;height&quot;:931,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:405033,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null}" alt="" />        <style>          a.image2.image-link.image2-931-1456 {            padding-bottom: 63.942307692307686%;            padding-bottom: min(63.942307692307686%, 931px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-931-1456 img {            max-width: 1456px;            max-height: 931px;          }        </style>
+</a>    <p>Typically the decorative wood frames are independent of the operable glass windows — sort of like shutters. I’m assuming our photographer opened the inner glass window and took the photo with only the edge of outer frame visible. That would explain why there’s no glass in the photo.</p>
+    <p>Regarding the open-air gym equipment next to the pavilion, it turns out in 2016 the World Health Organization provided to Bhutan’s Ministry of Health over 700 pieces of all-weather gym equipment as part of Bhutan’s effort to reduce non-communicable diseases — obesity and related issues — and to promote a healthy lifestyle. Unfortunately, it turns out there is no list of where the gym equipment went, only anecdotes that it started to fall apart after a year of heavy use and there were no funds for repairs. To add to the degree of difficulty in finding the gyms, in Bhutan the Google Earth imagery was captured in 2013 — before the WHO program started — so the equipment doesn’t show up there. That was a fruitless diversion in my search.</p>
+  </blockquote>
+  <p>Another diversion from a reader:</p>
+  <blockquote>
+    <p>One interesting detour in this search was to the University of Texas at El Paso, whose architecture has been derived from that of Bhutan:</p>
+<a class="image-link image2 image2-800-1200" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3019578b-e326-447d-a61e-f4c3691328bd_1200x800.jpeg"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3019578b-e326-447d-a61e-f4c3691328bd_1200x800.jpeg" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/3019578b-e326-447d-a61e-f4c3691328bd_1200x800.jpeg&quot;,&quot;height&quot;:800,&quot;width&quot;:1200,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:292399,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null}" alt="" />        <style>          a.image2.image-link.image2-800-1200 {            padding-bottom: 66.66666666666666%;            padding-bottom: min(66.66666666666666%, 800px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-800-1200 img {            max-width: 1200px;            max-height: 800px;          }        </style>
+</a>    <p>It seems a <a href="https://en.wikipedia.org/wiki/University_of_Texas_at_El_Paso#Early_history">fire in the early 1900s</a> forced a rebuilding of several campus buildings that led to an experiment with Bhutanese style.</p>
+  </blockquote>
+  <p>The best chunk of Bhutanese background comes from this reader:</p>
+  <blockquote>
+    <p>As I crawled through the streets of Thimphu searching for our view, I was struck by how much construction was happening everywhere I turned. Bhutan’s rapid growth and development in recent decades has been a challenge for their famous “<a href="https://en.wikipedia.org/wiki/Gross_National_Happiness">Gross National Happiness</a>” measure, one of the pillars of which is environmental conservation. In 2018, a town on Bhutan’s border with India, Pashaka, was ranked 2nd in the world’s most polluted cities. It’s not all bad news, however, as Bhutan has made incredible strides in <a href="https://thediplomat.com/2018/08/bhutans-unique-success-in-reducing-poverty/">reducing the percentage</a> of residents living in poverty.</p>
+    <p>In any event, I had a lot of fun puzzling out this contest. Though an early search vector had me poking around South America for longer than I care to admit, it did pay off with this <a href="https://twitter.com/jkusunoki/status/1059223762434973697?lang=en">video of a llama getting into a taxi</a>.</p>
+  </blockquote>
+  <p>A very small taxi. FYI, the term “Gross National Happiness” was coined in 1979 by Jigme Singye Wangchuck, the king of Bhutan, in an interview with a British journalist:</p>
+<a class="image-link image2 image2-739-1456" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F009c6606-6dfc-4eb8-b5d0-f9a420ba37a3_1890x959.jpeg"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F009c6606-6dfc-4eb8-b5d0-f9a420ba37a3_1890x959.jpeg" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/009c6606-6dfc-4eb8-b5d0-f9a420ba37a3_1890x959.jpeg&quot;,&quot;height&quot;:739,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:383057,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null}" alt="" />      <style>          a.image2.image-link.image2-739-1456 {            padding-bottom: 50.755494505494504%;            padding-bottom: min(50.755494505494504%, 739px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-739-1456 img {            max-width: 1456px;            max-height: 739px;          }        </style>
+</a>  <p>His son, Jigme Khesar Namgyel Wangchuck, is the current Druk Gyalpo, or “Dragon King,” of Bhutan — a.k.a “The Land of the Thunder Dragon.” At least one reader has been there:</p>
+  <blockquote>
+    <p>Everyone who can should visit Bhutan. It was one of my favorite travel experiences to share in their abundant Gross National Happiness. </p>
+  </blockquote>
+  <p>The reader who submitted the contest photo shares another wonderful photo:</p>
+  <blockquote>
+    <p>We were in Bhutan for three weeks in 2018, traveling from east to west. Almost all tourists go to western Bhutan, and therefore eastern Bhutan sees very few tourists. In six out of the first eight hotels we stayed in, we were the only guests. And it was high season! Wangchuk is by far the best hotel in town. (Unfortunately I can’t remember our room number.)</p>
+    <p>The highlight of our Mongar stay was a visit with our guide’s aunt at her house in the mountains nearby (which is not something typically done on an excursion itinerary).  They hadn’t seen each other in quite a few years:</p>
+<a class="image-link image2 image2-808-1456" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb973bed6-14e2-43f6-a9f3-42ba3f29682c_5472x3038.jpeg"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb973bed6-14e2-43f6-a9f3-42ba3f29682c_5472x3038.jpeg" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/b973bed6-14e2-43f6-a9f3-42ba3f29682c_5472x3038.jpeg&quot;,&quot;height&quot;:808,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:10065601,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null}" alt="" />        <style>          a.image2.image-link.image2-808-1456 {            padding-bottom: 55.494505494505496%;            padding-bottom: min(55.494505494505496%, 808px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-808-1456 img {            max-width: 1456px;            max-height: 808px;          }        </style>
+</a>    <p>We have traveled a lot, and I think Bhutan is one of the few authentic places left.</p>
+  </blockquote>
+  <p>This reader wants to go very badly:</p>
+  <blockquote>
+    <p>Who gets to travel in this cursed year, especially in the Shangri-La that is Bhutan? I am beyond envious. It’s a country on my list, but I don’t believe you can travel there independently; you have to go with a tour company/guide and the fees are high. I understand the reasoning, and I especially support a limit on the number of tourists, but I just wish that they would let us explore on our own (and on a lower budget). Sites like the <a href="https://en.wikipedia.org/wiki/Paro_Taktsang">Tiger’s Nest Temple</a> are probably worth the loss of freedom:</p>
+<a class="image-link image2 image2-824-1456" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F771c6dbc-e1d2-4bed-bf9e-c135b8d3143e_2484x1406.jpeg"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F771c6dbc-e1d2-4bed-bf9e-c135b8d3143e_2484x1406.jpeg" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/771c6dbc-e1d2-4bed-bf9e-c135b8d3143e_2484x1406.jpeg&quot;,&quot;height&quot;:824,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:2225326,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null}" alt="" />        <style>          a.image2.image-link.image2-824-1456 {            padding-bottom: 56.59340659340659%;            padding-bottom: min(56.59340659340659%, 824px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-824-1456 img {            max-width: 1456px;            max-height: 824px;          }        </style>
+</a>    <p>But there are still so many other great places to go that don’t have those rules and costs. I hope the Druk Gyalpo (Dragon King) reconsiders those rules at some point.</p>
+  </blockquote>
+  <p>Hopefully he’s a Dish subscriber like our last <a href="https://twitter.com/zackstanton/status/1300443356909182976">head of state</a> was. But back to the contest results, the Tiger’s Nest Temple is a tad more inviting than the Wangchuk Hotel:</p>
+<a class="image-link image2 image2-469-849" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F960e573f-2ae4-4b22-9e54-3e9048574f3b_849x469.png"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F960e573f-2ae4-4b22-9e54-3e9048574f3b_849x469.png" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/960e573f-2ae4-4b22-9e54-3e9048574f3b_849x469.png&quot;,&quot;height&quot;:469,&quot;width&quot;:849,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:742283,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null}" alt="" />      <style>          a.image2.image-link.image2-469-849 {            padding-bottom: 55.2414605418139%;            padding-bottom: min(55.2414605418139%, 469px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-469-849 img {            max-width: 849px;            max-height: 469px;          }        </style>
+</a>  <p>The <a href="https://www.tripadvisor.com/Hotel_Review-g469427-d2334307-Reviews-Wangchuk_Hotel_Mongar-Mongar_Mongar_District.html">interior</a> looks amazing, but this reader is wary:</p>
+  <blockquote>
+    <p>The town of Mongar looks beautiful, but if the reviews for Wangchuk Hotel are anything to go by, it’s impossible to sleep there because packs of stray dogs howl and bark all night. I hope whoever submitted the view has earplugs!</p>
+  </blockquote>
+  <p>And if the dogs don’t keep you up:</p>
+  <blockquote>
+    <p>The hotel website trumpets their amenities, one of which is, and I quote: “Each visitor is given unlimited access to adult entertainment — DadCrush series. This is a completely new and unique project from the US, which shows the difficult relationship between stepfathers and their daughters.”</p>
+  </blockquote>
+  <p>Google at work at your own risk. The following reader — this week’s winner — found some of his own happiness while Googling:</p>
+  <blockquote>
+    <p>This search started so well, with a big fat clue written on the roof of one of the buildings: Believe BHU. So Bhutan seemed like a solid lead. But where in Bhutan? Obviously the capital — although the lack of unfinished buildings should have rung alarm bells. I wonder how many of your readers spent hours wandering up and down the charming streets of Thimpu without success. Finally in desperation I typed “bank” into Google Maps, since the place just looked big enough to deserve one. A few banks later and it all fell into place — a very satisfying feeling.</p>
+    <p>Here’s my best guess at the window of Wangchuk Hotel, based on triangulating the light globes, but I’m probably wrong:</p>
+<a class="image-link image2 image2-354-749" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F143587d0-e922-4633-bbce-8fab0c866366_749x354.jpeg"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F143587d0-e922-4633-bbce-8fab0c866366_749x354.jpeg" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/143587d0-e922-4633-bbce-8fab0c866366_749x354.jpeg&quot;,&quot;height&quot;:354,&quot;width&quot;:749,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:127366,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null}" alt="" />        <style>          a.image2.image-link.image2-354-749 {            padding-bottom: 47.2630173564753%;            padding-bottom: min(47.2630173564753%, 354px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-354-749 img {            max-width: 749px;            max-height: 354px;          }        </style>
+</a>    <p>I’d try harder but the hotel website warns me that it’s infested with spyware — not exactly a come-on. Although my search was full of false starts and dead ends, Bhutan looks delightful!  The open-air gym was no clue at all; they’re all over the place thanks to the benign government of the #landofhappiness. </p>
+    <p>A little bit of that happiness rubbed off on me. I know you can’t use this, but I included a picture of someone I met along the way :-)  Seems like a nice boy.</p>
+<a class="image-link image2 image2-593-661" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1df18734-5573-46cb-99c8-2a0ce8fdcbbd_661x593.jpeg"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1df18734-5573-46cb-99c8-2a0ce8fdcbbd_661x593.jpeg" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/1df18734-5573-46cb-99c8-2a0ce8fdcbbd_661x593.jpeg&quot;,&quot;height&quot;:593,&quot;width&quot;:661,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:71068,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null}" alt="" />        <style>          a.image2.image-link.image2-593-661 {            padding-bottom: 89.7125567322239%;            padding-bottom: min(89.7125567322239%, 593px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-593-661 img {            max-width: 661px;            max-height: 593px;          }        </style>
+</a>  </blockquote>
+  <p>Here’s one more reader during this <a href="https://andrewsullivan.substack.com/p/yes-this-is-the-face-of-a-tyrant">frightening week</a>, month, year:</p>
+  <blockquote>
+    <p>I cannot tell you how much I’ve missed The Dish and all of its bells and whistles, including and The View From Your Window contest. We’ve been starved for good news this year, and the return of The Dish is a huge relief. I wish all of you good health and my best vibes, and may tomorrow, and the next day, and the next year be better. As a wise man says: Know hope.</p>
+  </blockquote>
+  <div>
+    <hr />
+  </div>
+  <p>This week: <strong>Mongar, Bhutan</strong>. Next week:</p>
+<a class="image-link image2 image2-856-1456" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F195f9a93-cbde-4b85-9953-ba37b62b3a35_1675x985.png"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F195f9a93-cbde-4b85-9953-ba37b62b3a35_1675x985.png" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/195f9a93-cbde-4b85-9953-ba37b62b3a35_1675x985.png&quot;,&quot;height&quot;:856,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:2159869,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null}" alt="" />      <style>          a.image2.image-link.image2-856-1456 {            padding-bottom: 58.791208791208796%;            padding-bottom: min(58.791208791208796%, 856px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-856-1456 img {            max-width: 1456px;            max-height: 856px;          }        </style>
+</a>  <p>So, where is it? Email your entry to <strong>contest@andrewsullivan.com</strong>. Please put the location — city and/or state first, then country — in the subject heading, along with any details about the location within the body of the email. The winner gets the choice of a <a href="https://www.blurb.com/b/955762-the-view-from-your-window">VFYW book</a> or two <a href="https://andrewsullivan.substack.com/subscribe?&amp;gift=true">gift subscriptions</a>. Happy sleuthing!</p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#The Weekly Dish 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2021-02-05/VFYW-Contest-Timeless-In-Tuscany/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2020-07-04/Stories-Of-Wokeness/">最早</a>--</span>
+    
+      <li>
+        <time>2020-10-02</time>
+        <a href="https://nodebe4.github.io/opinion/2020-10-02/VFYW-Contest-Time-Traveling-With-Hot-Air-Balloons/">
+          VFYW Contest: Time Traveling With Hot Air Balloons
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-10-02</time>
+        <a href="https://nodebe4.github.io/opinion/2020-10-02/Reality-Ends-The-Reality-Show/">
+          Reality Ends The Reality Show
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-09-25</time>
+        <a href="https://nodebe4.github.io/opinion/2020-09-25/Yes,-This-Is-The-Face-Of-A-Tyrant/">
+          Yes, This Is The Face Of A Tyrant
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-09-18</time>
+        <a href="https://nodebe4.github.io/opinion/2020-09-18/VFYW-Contest-Escape-To-The-Emerald-Isle/">
+          VFYW Contest: Escape To The Emerald Isle
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2020-09-25/Yes,-This-Is-The-Face-Of-A-Tyrant/">
+            前一篇：Yes, This Is The Face Of A Tyrant
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2020-09-25/%E7%82%BA%E4%BD%95%E4%B8%AD%E5%85%B1%E5%B0%8D%E8%93%AC%E4%BD%A9%E5%A5%A7%E7%BE%8E%E5%9C%8B%E8%BE%9B%E5%B7%9E%E6%BC%94%E8%AC%9B%E5%8F%8D%E6%87%89%E6%9C%A8%E7%84%B6/">
+            後一篇：為何中共對蓬佩奧美國辛州演講反應木然
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2020-09-25/Yes,-This-Is-The-Face-Of-A-Tyrant/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2020-09-25/%E7%82%BA%E4%BD%95%E4%B8%AD%E5%85%B1%E5%B0%8D%E8%93%AC%E4%BD%A9%E5%A5%A7%E7%BE%8E%E5%9C%8B%E8%BE%9B%E5%B7%9E%E6%BC%94%E8%AC%9B%E5%8F%8D%E6%87%89%E6%9C%A8%E7%84%B6/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2020-10-02/Reality-Ends-The-Reality-Show/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2020-09-25/Yes,-This-Is-The-Face-Of-A-Tyrant/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2020-09-25/Yes,-This-Is-The-Face-Of-A-Tyrant/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2020-09-25/%E7%82%BA%E4%BD%95%E4%B8%AD%E5%85%B1%E5%B0%8D%E8%93%AC%E4%BD%A9%E5%A5%A7%E7%BE%8E%E5%9C%8B%E8%BE%9B%E5%B7%9E%E6%BC%94%E8%AC%9B%E5%8F%8D%E6%87%89%E6%9C%A8%E7%84%B6/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<The Weekly Dish>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2020-10-02/Reality-Ends-The-Reality-Show/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<The Weekly Dish>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2020-09-25/Yes,-This-Is-The-Face-Of-A-Tyrant/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

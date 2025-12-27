@@ -1,0 +1,1560 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>EP-079 2023年，我的“不明白”（文字版） – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+EP-079 2023年，我的“不明白”（文字版）
+——
+" />
+    <meta property="og:description" content="
+EP-079 2023年，我的“不明白”（文字版）
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="EP-079 2023年，我的“不明白”（文字版）" />
+    <meta property="twitter:title" content="EP-079 2023年，我的“不明白”（文字版）" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fwww.bumingbai.net%2F2023%2F12%2Fep-079-2023-my-bmb-txt%2F%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dep-079-2023-my-bmb-txt" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://www.bumingbai.net/2023/12/ep-079-2023-my-bmb-txt/?utm_source=rss&utm_medium=rss&utm_campaign=ep-079-2023-my-bmb-txt" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://www.bumingbai.net/2023/12/ep-079-2023-my-bmb-txt/?utm_source=rss&utm_medium=rss&utm_campaign=ep-079-2023-my-bmb-txt&text=EP-079 2023年，我的“不明白”（文字版）&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://www.bumingbai.net/2023/12/ep-079-2023-my-bmb-txt/?utm_source=rss&utm_medium=rss&utm_campaign=ep-079-2023-my-bmb-txt&title=EP-079 2023年，我的“不明白”（文字版）" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.bumingbai.net/2023/12/ep-079-2023-my-bmb-txt/?utm_source=rss&utm_medium=rss&utm_campaign=ep-079-2023-my-bmb-txt&title=EP-079 2023年，我的“不明白”（文字版）" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=EP-079 2023年，我的“不明白”（文字版）&body=
+EP-079 2023年，我的“不明白”（文字版）
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://www.bumingbai.net/2023/12/ep-079-2023-my-bmb-txt/?utm_source=rss&utm_medium=rss&utm_campaign=ep-079-2023-my-bmb-txt" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://www.bumingbai.net/2023/12/ep-079-2023-my-bmb-txt/?utm_source=rss&utm_medium=rss&utm_campaign=ep-079-2023-my-bmb-txt&title=EP-079 2023年，我的“不明白”（文字版）&caption=
+EP-079 2023年，我的“不明白”（文字版）
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=EP-079 2023年，我的“不明白”（文字版）&url=https://www.bumingbai.net/2023/12/ep-079-2023-my-bmb-txt/?utm_source=rss&utm_medium=rss&utm_campaign=ep-079-2023-my-bmb-txt" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>EP-079 2023年，我的“不明白”（文字版）</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2023-12-30
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#不明白播客">
+          不明白播客
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://www.bumingbai.net/2023/12/ep-079-2023-my-bmb-txt/?utm_source=rss&utm_medium=rss&utm_campaign=ep-079-2023-my-bmb-txt" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="不明白播客的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#不明白播客 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1703977200000-->
+<p><a href="https://www.bumingbai.net/2023/12/ep-079-2023-my-bmb-txt/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ep-079-2023-my-bmb-txt">EP-079 2023年，我的“不明白”（文字版）</a>
+——</p>
+
+<div>
+  <div id="buzzsprout-player-14223411"></div>
+  <script src="https://www.buzzsprout.com/1982525/14223411-2023.js?container_id=buzzsprout-player-14223411&#038;player=small" type="text/javascript" charset="utf-8"></script>
+  <p>大家好，欢迎来到不明白播客。我是主持人袁莉。</p>
+  <p>2023年最后一期播客，我们征集听众朋友们来一起做一期节目，请大家来信分享这一年最不明白、最困惑的是什么以及2024年最想明白的是什么。我们收到了很多听众的来信，我来念其中的一部分。来信都做过编辑，略有删减。</p>
+  <ul>
+    <li><strong>坐标台北/广州的听众“Not Me”来信说：</strong></li>
+  </ul>
+  <p>多数时间在台北生活，刚好在封控完全放开的时期回国。那时候大家都处在极端焦虑中，害怕感染。奥密克隆传染性强防不住，可是重症病例还是很多的，死了不少人，大家人人自危。那时候真切体会到一种集体创伤，只想尽快用貌似恢复的日常生活掩盖这之前不堪的一切。<br />2023年暑假又回了一次国，这时候的气氛已经完全不同，到处都是促销或者是宣传旅游旺季报复性消费的盛况，似乎一切回到了正常，人们若无其事地点着外卖，按从前的节奏生活、工作、娱乐，仿佛那三年的断裂完全没有发生过。但是体制内的家人会说起TF Boys演唱会和成都大运会的时候全国政法部门都如惊弓之鸟，把这两个看起来相对无害的活动定性为可能引发颜色革命、集体性事件的场合，让人啼笑皆非。<br />最想不明白的大概是，大概有很多人没有忘记白纸/反封控抗争存在过，至少官老爷们还要做二十年噩梦，可表面上大家看起来还是好好的，这样的记忆会在那些希望恢复正常生活的人眼里会有意义吗？</p>
+  <ul>
+    <li><strong>坐标墙外的听众”Jia”说：</strong></li>
+  </ul>
+  <p>在2023年听到很多中共的故事，一直想不明白，为什么他们需要强调斗争，领导一个国家，领导者居然会鼓励群众斗争，而不是上进或努力。泱泱大国13亿民众都需要斗争别人才能存活，何其辛苦！实在是想不明白。</p>
+  <ul>
+    <li><strong>坐标加拿大的听众“我的高尚情操一直不断提醒着我”来信说：</strong></li>
+  </ul>
+  <p>2023是留学的一年，感觉离开国内也治愈了大半以前如梦魇般的政治性抑郁。国内的新闻从互联网上看会有一层磨砂，没有以往那种切实感，不明白播客对普通人的访谈让我能重新找到那种切实感。</p>
+  <p>回过头看这一年，能感觉到中国在进入快速的衰退，在这个闷热压抑的熔炉里，普通人挣扎着，中南海内部的斗争倒是没停。各种经济刺激政策的出台，从房地产到演唱会旅游；各种高级官员的变动，从这腐败到那罢免，还有李克强的逝世。人们在一件又一件事中间寻找怀旧和愤怒的点。</p>
+  <p>其实这些大事小事都没让我困惑，因为觉得原因和动机无非就是那些，我的情绪在政治议题上已经麻木。最让我牵挂的还是乌衣，她在铁链女事件中的行为和写下的文字，那种生命力激励了我。只是她也消失了，而且一点音讯都没有。684天了，不知道什么时候才能再次听到她的消息。</p>
+  <ul>
+    <li><strong>来自上海的听众小江说：</strong></li>
+  </ul>
+  <p>2022年我在上海封城期间遭到了各种离奇的转运，在这个过程里因为我反抗且不配合，遇到了很多或是想说服我或是威胁我的人。其中有一个人在说服我接受转运的过程里告诉我，自己是专门做基层协调工作的，他态度很好，在警察要来威胁我的时候示意他们离开，也对我表示理解。说实话我知道他是一个类似“唱白脸”的角色，但我依然认为在他劝我的过程里，我们有接近“对谈”的时刻。2024年我想明白，这些体制里的人如何看待自己的工作，继续呆在体制内或者离开的原因是什么。虽然很多人是有官瘾或者是无知觉的“平庸之恶”，但我依然想听到更多的讲述。</p>
+  <ul>
+    <li><strong>听众Sheldon来信说：</strong></li>
+  </ul>
+  <p>作为一个普通打工人，过去一年最大的不明白，是中国人为什么不生气？<br />为什么14亿人口的国度，可以被一个统治集团，像圈养牲畜一样，关在密闭的空间里，自己的房子不能进，不能出，被迫购买高价的蔬菜，转运大巴上死了的冤魂，仿佛也属于活该。强加各种电子锁链，各种码，大家也都安之若素。<br />虽然也有四通桥上的勇士，举白纸的年轻人，但数量太小，真的就像无边无际的黑夜中，极其微弱的萤火，照亮这片黑暗，我也参与过相关的活动，并不是纯粹的看客，所以更加感到绝望。<br />我不明白为什么这片土地上的大多数人，能够活成这样一种卑微又无耻的面貌。<br />可以为了附条件的生存，丧失一切的良知和人性，抛弃做人的尊严，人们原本可以团结起来，理直气壮的争取一种更自由，更有尊严的生活方式的、，但大家习惯了下跪，习惯了低下头颅，面对不是施舍得来的粮食，似乎就难以下咽。<br />作为一个底层，觉得非常痛苦，看到这样一种群魔乱舞的局面，却没有办法适应，更不敢奢谈改变。</p>
+  <ul>
+    <li><strong>住在德国的“Miao”来信说：</strong></li>
+  </ul>
+  <p>我今年24岁，一直不明白有些年轻人为什么崇拜毛泽东。我身边也有崇拜毛泽东的同学，叫他教员。我叫毛泽东腊肉，他就把我拉黑了。12月25号晚上韶山的毛粉集会，有人打旗子之类的，要社会主义不要资本主义，这个我还可以理解一点。但是有人戴着红卫兵的袖章，这就让我非常难理解了。我想问他们：你们真的不知道毛泽东干过什么坏事吗？杀了多少人吗？红卫兵多极端，连小孩子都不放过，你们到底知不知道？我希望他们是不知道，我不能理解如果知道真相又这样做的人，他们是要杀人吗？</p>
+  <ul>
+    <li><strong>一位署名为Kevin Spacey的听众来信说</strong>：</li>
+  </ul>
+  <p>我最不明白的事情是，那么多出去留学或者工作的年轻人，明明看到了真实的世界，并且享受着那个世界的自由、平等带来的舒适，为什么会那么真心的为一个极权体制辩护，真心去喜爱这个体制？除去一小部分人是特权阶级，剩下的那些人，很多就是相对普通的群体，为什么会有这么割裂的存在？</p>
+  <ul>
+    <li><strong>听众RSK来信说：</strong></li>
+  </ul>
+  <p>2023年我最不明白的是，为什么我的父母是如此坚定的小粉红？</p>
+  <p>今年我因为失业和政治抑郁，从北京搬回老家——一座二线城市，开始了和父母一起居住的生活。我的父母是吃到了改革开放第一批红利的人，他们在90年代挣到了第一桶金，因此提供给了我物质较为丰富的童年。但在这之后，他们虽然换了很多生意来做，却都没有太大的起色，仅仅能达到维持一家温饱的程度。</p>
+  <p>从大学毕业到现在，我大约已经有10年没有和父母一起长期生活过。在重新开始共同生活后，我发现他们变成了和我记忆里完全不同的人。他们曾经是私有制的第一批获益者、在习近平上台时对他寄予“他一定会进行强有力的政治改革”的厚望；如今他们却被强大的宣传洗脑和蒙蔽，认为我是“被西方洗脑的傻子”、“唱衰祖国的汉奸”，坚信载人航天、宇宙空间站和数字人民币可以成为他们的坚强的后盾，笃定新疆再教育营中的维族人“罪有应得”和“国家不得不为之”，并且严厉拒绝观看任何外网的视频，称所有外网视频博主都是“抹黑中国的敌对势力”，也拒绝与我进行任何有效的政治讨论。他们认为“哪里都有不公平”因此中国的不公平理应发生、认为“共产党之前做得那么好”因此“之后只会做得更好”。</p>
+  <p>我曾经认为中共的宣传只能欺骗到文化程度不高、或者生活在某种体制里、或者具有和中国某种邪恶共性的人，后来发现即使是父母这样文化程度尚可、通过经商致富、在对我的教育中抱持较为开明态度的人，也依然沉醉在宏大叙事之中，变成了习近平新时代的特色红卫兵。</p>
+  <p>忘记是在哪里看到，说“中国人就像被中共植入了“芯片”，他们自动反馈、高效处理、激烈应对，然后迅速遗忘。他们对事实视而不见，却对幻觉笃定追随。</p>
+  <p>我是否应该和父母好好沟通政治的议题，又该如何和他们进行有效的沟通呢？</p>
+  <ul>
+    <li><strong>听众“Jonas”来信说：</strong></li>
+  </ul>
+  <p>我是一名化妆品销售，刨去去年疫情突然放开，平安夜大家都阳了没什么人出来逛街不说，以往每年平安夜我们店当天的销售额都在20万到30万上下。今年店里只卖了不到12万。往年包礼盒送礼物，客单价在3000元以上的人很多。今年客单价3000块钱以上对我们来说算是大单。而且买100毫升香水的人很少，大部分都是50毫升或者30毫升。感觉大家消费降级得很厉害，都不舍得花钱了。真的很想问一问执政者们，为什么要把人民糟蹋成这个样子，真的心安吗？</p>
+  <ul>
+    <li><strong>听众“Telid”来信说：</strong></li>
+  </ul>
+  <p>2023年不明白的事情是：我是做外贸的，老板答应调岗，工资1800元/月，不明白，这是经济原因还是侮辱，结果没答应。</p>
+  <ul>
+    <li><strong>坐标台湾台中的听众Juntaro Ogata来信说：</strong></li>
+  </ul>
+  <p>2024 年我最想明白的事情是，如果1月13 号台湾大选开票结果赖清德萧美琴胜选，中共是否会在国内社会、经济问题导致执政合法性动摇的压力之下，为了转移国内矛盾，煽动民族主义，一改过去对台「打嘴炮」的作法，开始对台湾开展军事活动或发动战争？</p>
+  <ul>
+    <li><strong>听众“马特”来信说：</strong></li>
+  </ul>
+  <p>来加拿大快三年了，已经没有以前在国内的不安全感，但对这个国家从充满期待也变得失望多多。之前的卡车司机为了争取不打疫苗的抗议运动被镇压不谈，今年最明显的就是明明以色列被哈马斯恐怖分子突然袭击，却有那么多人上街游行支持巴勒斯坦，且政府相当放纵，任由他们在大街上、高架桥上甚至高速上阻断交通。非常不理解。这种自由是不是过了头？</p>
+  <ul>
+    <li><strong>听众“小卡车”来信说：</strong></li>
+  </ul>
+  <p>我是一名教师。今年学校第一次下发了一个通知，要求教师在上课的时候注重意识形态领域安全，要求在教学中不说与课堂教学无关的话，不说与主流价值观不符和相悖的话，要求在教学中不涉及和传播宗教。这令我非常困惑。<br />首先，我感到害怕。在这个通知之前学校里已经有老师因为在课堂上播放视频被学生举报，说视频意识形态方面有问题。之后老师们的对策就是尽量用国内视频网站审核过的内容，这也是一种对自己的保护。面对学生时也会有一种不信任的感觉。虽然自己很希望他们可以看到这个世界另外的样子，但讲到某些话题的时候却是不自主的含糊过去。<br />其次，这类通知会强化自我审查。因为我是美术老师，上课的时候不可避免的会涉及到各个国家的艺术作品，除了作品本身形式上的讲解我也希望学生可以了解作品背后的政治、思想、文化、宗教等影响因素，在这个层面上不涉及这些因素很明显是不可能的。比如“死亡”这样一个在艺术中极为常见的主题，会在备课时被其他老师提醒，不要涉及。<br />最后是自我认知上的矛盾。老师本身应该是面向未来，去培养和教育下一代人。但现在，我们这些老师在学生眼里只是一种宣传工具甚至是喉舌。<br />当下，无论是老师还是学生都在这个环境中承受着巨大的压力。但作为身处基层的老师面对这种自上而下的制度除了痛苦也只有深深地无奈。</p>
+  <ul>
+    <li><strong>听众Zack来信说：</strong></li>
+  </ul>
+  <p>本人微信好友3800+，近年来观察发现，他们越来越不关心时事。河南大水、铁链女、吴鑫宇、食堂老鼠头等，他们都不评论，似乎根本不知道事情的存在。但中美冲突、日本核水排放，俄乌战争、哈马斯以色列冲突、圣诞节，南京纪念等，他们却异常活跃。虽然他们并非网评员，却像是有组织、有任务似的。</p>
+  <p>中国人真麻木至此了吗？明明社会事件影响到每一个人，他们从不关心。每年却记得要痛恨日本美国一遍。</p>
+  <ul>
+    <li><strong>坐标美国的听众Amelie来信说：</strong></li>
+  </ul>
+  <p>今年画画的时候听了很多历史讲座，很多不明白播客，听了金瓶梅和红楼梦。这个学期结束的时候听了美国之音好多天安门的采访，画出来的东西被我的中国同学说看着像一个个等着被处决似的。</p>
+  <p>我现在的生活很割裂，我的交际圈已经基本上全是美国人了，和我保持联系的中国朋友并不多。联系也像是和亲人联系的那种，默契的知道什么话题不去触碰。我也渐渐发现在我的英文世界里，我愿意表达，能被听到，也能被尊重和理解（在我的日常圈子里是这样的，不代表全部）</p>
+  <p>于是我在英文世界里得到的优质交流和链接越多，就越提醒我在突破文化和语言壁垒之前，我的世界是有多匮乏，多沉默。这种认识让我绝望，如果语言是牢笼，血缘是枷锁，那我这辈子也逃不出去会讲中文和当一个中国人的命运。但现实是在这个语言世界里，我们即使心知肚明却也没有办法沟通，即使看破一切也只敢用无穷无尽的隐喻打暗号。</p>
+  <p>我想可能天安门的时候，中国最聪明又善良的人要不走了，要不死了，要不明哲保身。想到我还在国内的家人和朋友们，我又想让他们永远别去看透一切。看破却要永远深陷其中听起来比我现在的处境还糟糕一万倍。</p>
+  <p>我想不明白这个民族的文化和语言的未来在哪儿，我不知道我们能真诚的建立交流和链接的空间在哪儿，我不明白一个个体在一片绝望中应该如何处理自己和世界的关系。</p>
+  <p>新年快乐。</p>
+  <p>非常感谢听众朋友们一起参与制作了这期节目，来信很多，上面只是挑选了一部分。谢谢大家一年来的支持。在2024年希望我们都能像哈维尔说的那样，生活在真实中，Living in truth.</p>
+  <p>谢谢大家收听，我们2024年再见。</p>
+  <p>哈维尔在《无权者的权力》中写到：“只有大家都愿意在谎言中生活，才能产生这个社会制度。其原则必须让所有的人接受，渗透一切事物。它绝不允许有人在真实中生活。因为任何越轨行为都是对原则的背判，对整个体制造成了威胁。……在后极权社会，真相在最广泛的意义上有特别的重要性，这在其他环境下是闻所未闻的。真相在这个社会，作为权力的一个因素扮演更重要的角色，或者作为一种政治力量。”</p>
+  <p>—— end ——</p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#不明白播客 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-28/EP-137-%E8%AE%B8%E6%88%90%E9%92%A2-DeepSeek-%E6%B0%91%E4%BC%81%E5%BA%A7%E8%B0%88%E4%BC%9A%E8%83%BD%E5%90%A6%E9%87%8D%E6%8C%AF%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E-(%E6%96%87%E5%AD%97%E7%89%88/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2022-10-09/EP-020-%E8%94%A1%E9%9C%9E-%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E5%AF%B9%E4%B8%AD%E5%85%B1%E7%BB%9D%E6%9C%9B/">最早</a>--</span>
+    
+      <li>
+        <time>2024-01-06</time>
+        <a href="https://nodebe4.github.io/opinion/2024-01-06/EP-080-%E6%9D%A8%E5%AD%9F%E8%BD%A9-%E5%8E%86%E5%8F%B2%E5%88%9B%E4%BC%A4-%E8%AE%B0%E5%BF%86%E4%B8%8E%E5%8F%B0%E6%B9%BE%E8%AE%A4%E5%90%8C-%E6%96%87%E5%AD%97%E7%89%88/">
+          EP-080 杨孟轩：历史创伤、记忆与台湾认同（文字版）
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-01-06</time>
+        <a href="https://nodebe4.github.io/opinion/2024-01-06/EP-080-%E6%9D%A8%E5%AD%9F%E8%BD%A9-%E5%8E%86%E5%8F%B2%E5%88%9B%E4%BC%A4-%E8%AE%B0%E5%BF%86%E4%B8%8E%E5%8F%B0%E6%B9%BE%E8%AE%A4%E5%90%8C/">
+          EP-080 杨孟轩：历史创伤、记忆与台湾认同
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-12-30</time>
+        <a href="https://nodebe4.github.io/opinion/2023-12-30/EP-079-2023%E5%B9%B4-%E6%88%91%E7%9A%84-%E4%B8%8D%E6%98%8E%E7%99%BD/">
+          EP-079 2023年，我的“不明白”
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-12-23</time>
+        <a href="https://nodebe4.github.io/opinion/2023-12-23/EP-078-%E5%90%B4%E5%9B%BD%E5%85%89-2023%E5%B9%B4%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%9D%9B%E4%B8%BA%E4%BD%95%E6%80%AA%E4%BA%8B%E9%A2%91%E9%A2%91-%E6%96%87%E5%AD%97%E7%89%88/">
+          EP-078 吴国光：2023年中国政坛为何怪事频频？（文字版）
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2023-12-30/EP-079-2023%E5%B9%B4-%E6%88%91%E7%9A%84-%E4%B8%8D%E6%98%8E%E7%99%BD/">
+            前一篇：EP-079 2023年，我的“不明白”
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2023-12-31/%E7%AC%AC%E5%85%AB%E5%B1%8A%E7%BD%91%E7%BB%9C%E7%A4%BE%E4%BC%9A%E5%B9%B4%E4%BC%9A-Marc-Weber-%E4%BB%8E%E9%93%BE%E6%8E%A5%E5%88%B0%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD-%E5%9C%A8%E8%B6%85%E5%AA%92%E4%BD%93%E6%A2%A6%E6%83%B3%E4%B8%AD%E7%9A%84%E5%A4%9A%E5%AA%92%E4%BD%93%E5%8F%8A%E5%85%B6%E6%A0%B9%E6%BA%90/">
+            後一篇：第八届网络社会年会｜Marc Weber：从链接到人工智能 ─  在超媒体梦想中的多媒体及其根源
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2023-12-30/EP-079-2023%E5%B9%B4-%E6%88%91%E7%9A%84-%E4%B8%8D%E6%98%8E%E7%99%BD/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2023-12-31/%E7%AC%AC%E5%85%AB%E5%B1%8A%E7%BD%91%E7%BB%9C%E7%A4%BE%E4%BC%9A%E5%B9%B4%E4%BC%9A-Marc-Weber-%E4%BB%8E%E9%93%BE%E6%8E%A5%E5%88%B0%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD-%E5%9C%A8%E8%B6%85%E5%AA%92%E4%BD%93%E6%A2%A6%E6%83%B3%E4%B8%AD%E7%9A%84%E5%A4%9A%E5%AA%92%E4%BD%93%E5%8F%8A%E5%85%B6%E6%A0%B9%E6%BA%90/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2024-01-06/EP-080-%E6%9D%A8%E5%AD%9F%E8%BD%A9-%E5%8E%86%E5%8F%B2%E5%88%9B%E4%BC%A4-%E8%AE%B0%E5%BF%86%E4%B8%8E%E5%8F%B0%E6%B9%BE%E8%AE%A4%E5%90%8C/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2023-12-30/EP-079-2023%E5%B9%B4-%E6%88%91%E7%9A%84-%E4%B8%8D%E6%98%8E%E7%99%BD/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2023-12-30/EP-079-2023%E5%B9%B4-%E6%88%91%E7%9A%84-%E4%B8%8D%E6%98%8E%E7%99%BD/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2023-12-31/%E7%AC%AC%E5%85%AB%E5%B1%8A%E7%BD%91%E7%BB%9C%E7%A4%BE%E4%BC%9A%E5%B9%B4%E4%BC%9A-Marc-Weber-%E4%BB%8E%E9%93%BE%E6%8E%A5%E5%88%B0%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD-%E5%9C%A8%E8%B6%85%E5%AA%92%E4%BD%93%E6%A2%A6%E6%83%B3%E4%B8%AD%E7%9A%84%E5%A4%9A%E5%AA%92%E4%BD%93%E5%8F%8A%E5%85%B6%E6%A0%B9%E6%BA%90/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<不明白播客>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2024-01-06/EP-080-%E6%9D%A8%E5%AD%9F%E8%BD%A9-%E5%8E%86%E5%8F%B2%E5%88%9B%E4%BC%A4-%E8%AE%B0%E5%BF%86%E4%B8%8E%E5%8F%B0%E6%B9%BE%E8%AE%A4%E5%90%8C/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<不明白播客>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2023-12-30/EP-079-2023%E5%B9%B4-%E6%88%91%E7%9A%84-%E4%B8%8D%E6%98%8E%E7%99%BD/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

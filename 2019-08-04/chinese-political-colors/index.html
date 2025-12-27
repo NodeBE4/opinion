@@ -1,0 +1,659 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>「原创」中文世界政治立场颜色一览 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="目标读者：刚开始接触自由世界政治新闻，对其他国家地区政治几乎一无所知的新难民。
+" />
+    <meta property="og:description" content="目标读者：刚开始接触自由世界政治新闻，对其他国家地区政治几乎一无所知的新难民。
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="「原创」中文世界政治立场颜色一览" />
+    <meta property="twitter:title" content="「原创」中文世界政治立场颜色一览" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fweb.archive.org%2Fweb%2F20191110033043%2Fhttps%3A%2F%2Fpincong.rocks%2Farticle%2F2821" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://web.archive.org/web/20191110033043/https://pincong.rocks/article/2821" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://web.archive.org/web/20191110033043/https://pincong.rocks/article/2821&text=「原创」中文世界政治立场颜色一览&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://web.archive.org/web/20191110033043/https://pincong.rocks/article/2821&title=「原创」中文世界政治立场颜色一览" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://web.archive.org/web/20191110033043/https://pincong.rocks/article/2821&title=「原创」中文世界政治立场颜色一览" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=「原创」中文世界政治立场颜色一览&body=目标读者：刚开始接触自由世界政治新闻，对其他国家地区政治几乎一无所知的新难民。
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://web.archive.org/web/20191110033043/https://pincong.rocks/article/2821" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://web.archive.org/web/20191110033043/https://pincong.rocks/article/2821&title=「原创」中文世界政治立场颜色一览&caption=目标读者：刚开始接触自由世界政治新闻，对其他国家地区政治几乎一无所知的新难民。
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=「原创」中文世界政治立场颜色一览&url=https://web.archive.org/web/20191110033043/https://pincong.rocks/article/2821" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>「原创」中文世界政治立场颜色一览</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2019-08-04
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: 懦夫斯基</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#达摩俱乐部">
+          达摩俱乐部
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://web.archive.org/web/20191110033043/https://pincong.rocks/article/2821" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="原创的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#达摩俱乐部 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <p><strong>目标读者</strong>：刚开始接触自由世界政治新闻，对其他国家地区政治几乎一无所知的新难民。</p>
+
+<p>颜色革命这一名词已经被中共污名化，百度百科有云</p>
+
+<blockquote>
+  <p>从这轮”颜色革命”的外部背景和原因来看，主要是俄罗斯与西方尤其是美国的地缘战略争夺和意识形态竞争。有学者认为，俄美欧之间的战略博弈是”颜色革命”的一个重要诱因。通过各种手段来对后苏联地区各国施加影响，使之与俄罗斯保持最大的距离，这正是美国、欧洲在这次”颜色革命”中的重要目标。</p>
+
+  <p>在这些国家，不管是执政者还是反对派，基本上都主张市场经济和民主政治，只不过程度有所不同而已。反对派并没有与执政者明显不同的政治纲领。他们之所以要发动”颜色革命”，其主要目的是推翻政府，夺取政权。虽然全民选举为他们提供了执政的可能，但由于得不到足够的选民支持，便采取不正当的”革命手段”，以实现上台执政的目的。可见，这样的”颜色革命”，实质上是一种强制性的权力再分配。</p>
+
+  <p>然而，颜色只是政治派别的代名词，由于颜色容易识别，有党派竞争的国家，大多约定俗成地使用某种颜色指代特定的政治立场。不难看出，颜色革命只是独裁或近独裁执政党被推翻，创造多党派竞争环境，从而推动民主、保障公民权利的行为。</p>
+</blockquote>
+
+<p>显然，这里忽视了人民的意志和力量，将执政党失败归因为外部势力，是失败归因谬误，也就是大家小时候班主任一定批评过的，”不要总怨别人，从自己身上找原因。”</p>
+
+<p>在大陆，我们没有经历过多党派竞争的环境，对多元政治颜色并不熟悉。我们翻墙出来，阅读新闻，在自由世界弥补被中共剥夺的公民教育。最开始阅读新闻时，看着各个国家都有一套红黄蓝绿，可能就”乱花渐入迷人眼”，有些无所适从。
+这篇文章就来简单地捋一捋，在中文世界的国家、地区，各种颜色都指代什么政治立场。</p>
+
+<p><strong>背景</strong></p>
+
+<p>虽然自从宇宙大爆炸以来，颜色就存在，但颜料并非一直存在。在一盒颜料的价格等于平民家半年开销的年代，政党发几次彩色传单就要破产了。到各色颜料都可以工业化生产，工业印刷使得大众阅读载体变成彩色，颜色才与政党建立起约定俗成的联系。</p>
+
+<p>即便如此，自古罗马奴隶起义到法国大革命，一直选择血液的颜色，红色。因此，即使在大众传媒兴起之前，红色便有了革命、暴力、底层抗争的文化含义。</p>
+
+<p>19世纪晚期，英国的工人以工会为核心，经常使用红色代表自己，也就是”愤怒的工人”形象。当工会成员开始进入政治领域，组建了工党，便顺理成章地使用红色代表自己。</p>
+
+<p>与工党对应的保守党，本来一直使用英国国旗的红白蓝三色，但随着工党旗帜鲜明的占据了红色，保守党出于方便宣传的目的，只好选择蓝色代表自己。</p>
+
+<p>由于这个传统从英国开始，蓝色在国际上大多代表保守主义，也有一些国家不走寻常路，比如使用华氏度的美国，就刚好相反。</p>
+
+<p>需要注意的是，在没有形成两党对垒的国家，颜色不一定对应某个特定的政党，而代表支持某一理念或诉求的阵营，可能包含多个独立的政党。</p>
+
+<p><strong>香港</strong></p>
+
+<p><em>黄</em>：黄丝带最早于每年七一大游行后游行人士在政府总部铁栏系上以要求双普选。2006年商台发起”声音黄丝带”行动要求释放程翔。2009年刘晓波被捕受审，中港两地民间也发起黄丝带声援行动。2014年，雨伞运动也大量派发黄丝带，令之成为泛民主派的象征之一。</p>
+
+<p><em>蓝</em>：蓝色代表保守主义的建制派。与英国蓝色保守主义类似，香港的建制派在黄丝带流行后，以蓝丝带抗衡，逐渐确立起蓝色的主色调。
+<em>红、绿</em>：在黄丝带与蓝丝带流行之前，红色代表绝对亲中共，绿色代表泛民主。目前香港媒体仍然会采用这两种颜色表示亲中-泛民，甚至混用两组，例如红-绿、黄-蓝、红-黄。</p>
+
+<p><strong>澳门</strong></p>
+
+<p>澳门没有传统意义上的政党，所谓立法会参选组别只是临时性质，政治组织平时都以社团形式进行活动。</p>
+
+<p><em>红</em>：建制派，又称亲中派、保守派。目前牢牢把握着澳门的政治。红色在中文世界代表中共，大家应该都很清楚。</p>
+
+<p><em>绿</em>：民主派，又称泛民、自由开放阵营。他们的主要诉求是平反六四，反对中共一党独裁，推动普选。绿色来自澳门旗帜的颜色。</p>
+
+<p><strong>台湾</strong></p>
+
+<p><em>绿</em>：以民进党为代表，倾向支持国家正常化或台湾独立。一般反对两岸统一，强调台湾民族身份，即”我是台湾人，不是中（华人民共和）国人。”</p>
+
+<p><em>蓝</em>：以国民党为代表，倾向支持九二共识或一中各表。一般反对台湾独立，强调中华民族身份，即”我是台湾人，也是中国（各表）人。”</p>
+
+<p><em>红</em>：台湾确实也有人会说自己是”红色”的信仰者，例如作家李敖，自称”我是红色的”，因为他是”大中国主义者”，即”我是中华人民共和国台湾省人。”</p>
+
+<p><strong>新加坡</strong></p>
+
+<p><em>白</em>：新加坡有民主选举，但实际上长期由人民行动党把持政治。人民行动党以经济发展为优先目标，常因压制言论自由、新闻自由和其他公民自由的法律受到批评。</p>
+
+<p><strong>马来西亚</strong></p>
+
+<p><em>红</em>：由多个党派组成的希望联盟，倡导弱化国内各民族身份区分，解决财富失衡，</p>
+
+<p><em>蓝</em>：由多个党派组成的国民阵线，强调马来文化和民族身份，捍卫马来西亚的伊斯兰教。</p>
+
+<p>另附英美两国：</p>
+
+<p><strong>英国</strong></p>
+
+<p><em>蓝</em>：”背景”一节已经提到，这是保守党的颜色，他们鼓励脱欧。大陆俗称”梅姨”的前首相特蕾莎-梅就是蓝色的保守党成员。</p>
+
+<p><em>红</em>：”背景”一节已经提到，这是工党的颜色，他们关注社会福利，支持民生行业国有化、教育公费、富人高税率等社会主义政策。</p>
+
+<p><em>橙</em>：民主自由党，英国第三大党，其立场为，自由主义、亲欧洲主义。主要的政治主张包括，留在欧盟，推动全球化。</p>
+
+<p><strong>美国</strong></p>
+
+<p><em>蓝</em>：民主党，驴，自由主义，关注社会福利，倡导社会福利、民权平权、经济全球化、对抗气候变化。</p>
+
+<p><em>红</em>：共和党，象，保守主义，关注国家安全，倡导经济发展、市场自由、个体自由、基督教本位。</p>
+
+<p><strong>参考资料</strong></p>
+<ul>
+  <li><a href="https://en.wikipedia.org/wiki/Political_colour">Wikipedia: Political Color</a></li>
+  <li><a href="https://boxun.com/news/gb/pubvp/2015/10/201510281105.shtml">博讯新闻网：贝加尔：香港加速步向颜色政治</a></li>
+  <li><a href="https://zh.wikipedia.org/wiki/%E6%BE%B3%E9%96%80%E6%94%BF%E9%BB%A8">维基百科：澳门政党</a></li>
+  <li><a href="https://www.verivide.com/article/the-colour-of-politics-why-are-the-tories-blue-the-labour-party-red-and-the-liberals-orange">Verivide: The Colour of Politics: why are the Tories blue, the Labour Party red and the Liberal’s Orange?</a></li>
+  <li>华夏经纬网：台湾的政治光谱上能看见彩虹的7种颜色 <a href="http://www.huaxia.com/tw/sdbd/sh/00184457.html">http://www.huaxia.com/tw/sdbd/sh/00184457.html</a></li>
+  <li><a href="https://zh.wikipedia.org/wiki/%E4%BA%BA%E6%B0%91%E8%A1%8C%E5%8A%A8%E5%85%9A">维基百科：人民行动党</a></li>
+  <li><a href="https://zh.wikipedia.org/wiki/%E9%A6%AC%E4%BE%86%E8%A5%BF%E4%BA%9E%E6%94%BF%E9%BB%A8%E5%88%97%E8%A1%A8">维基百科：马来西亚政党列表</a></li>
+  <li>知乎专栏：马来西亚政党简介（2018年大选之前）<a href="https://zhuanlan.zhihu.com/p/33546411">https://zhuanlan.zhihu.com/p/33546411</a></li>
+  <li>澎湃新闻：英国大选 政治漩涡中的各政党和十字路口的英国 <a href="https://www.thepaper.cn/newsDetail_forward_1706221">https://www.thepaper.cn/newsDetail_forward_1706221</a></li>
+</ul>
+
+<p>难民迎新系列：
+<a href="https://pincong.rocks/article/2881">左-右政治光谱及中共对其畸化</a></p>
+
+<h6 id="tags-原创-政治-颜色-立场">tags: <code class="language-plaintext highlighter-rouge">原创</code> <code class="language-plaintext highlighter-rouge">政治</code> <code class="language-plaintext highlighter-rouge">颜色</code> <code class="language-plaintext highlighter-rouge">立场</code></h6>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#达摩俱乐部 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2020-01-30/chinese-islam-survey/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2019-01-27/notes-psychological-experiments/">最早</a>--</span>
+    
+      <li>
+        <time>2019-09-04</time>
+        <a href="https://nodebe4.github.io/opinion/2019-09-04/general-education-collection/">
+          「索引」中小学通识教育/公民教育课本或课纲
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-08-06</time>
+        <a href="https://nodebe4.github.io/opinion/2019-08-06/left-right-political-spectrum/">
+          「原创」左-右政治光谱及中共对其畸化
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-07-18</time>
+        <a href="https://nodebe4.github.io/opinion/2019-07-18/digital-totalitarianism/">
+          「索引」关于数字极权的研究
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-05-18</time>
+        <a href="https://nodebe4.github.io/opinion/2019-05-18/50cent-ccp-jennifer-pan/">
+          「论文」哈佛、斯坦福和加州大学圣迭戈分校的三位政治学者对五毛的研究论文
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2019-08-03/%E6%B8%85%E6%95%99%E4%B8%8E%E5%93%88%E4%BD%9B-%E7%BE%8E%E5%9B%BD%E6%95%99%E8%82%B2%E7%9A%84%E7%8B%AC%E7%AB%8B%E5%AE%A3%E8%A8%80/">
+            前一篇：清教与哈佛：美国教育的独立宣言
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2019-08-05/%E9%AD%94%E5%B9%BB%E8%B4%B5%E5%B7%9E-%E5%A4%96%E6%9D%A5%E8%80%85%E7%9A%84%E4%B9%A1%E6%84%81%E4%B8%8E%E4%B8%83%E7%BA%A7%E6%B5%AE%E5%B1%A0%E6%B7%98%E5%AE%9D%E6%A2%A6-%E8%AE%B0%E7%AB%8B%E7%A2%91%E6%9D%91%E7%94%B0%E9%87%8E/">
+            後一篇：魔幻贵州｜外来者的乡愁与七级浮屠淘宝梦 ——记立碑村田野
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2019-08-03/%E6%B8%85%E6%95%99%E4%B8%8E%E5%93%88%E4%BD%9B-%E7%BE%8E%E5%9B%BD%E6%95%99%E8%82%B2%E7%9A%84%E7%8B%AC%E7%AB%8B%E5%AE%A3%E8%A8%80/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2019-08-05/%E9%AD%94%E5%B9%BB%E8%B4%B5%E5%B7%9E-%E5%A4%96%E6%9D%A5%E8%80%85%E7%9A%84%E4%B9%A1%E6%84%81%E4%B8%8E%E4%B8%83%E7%BA%A7%E6%B5%AE%E5%B1%A0%E6%B7%98%E5%AE%9D%E6%A2%A6-%E8%AE%B0%E7%AB%8B%E7%A2%91%E6%9D%91%E7%94%B0%E9%87%8E/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2019-08-06/left-right-political-spectrum/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2019-07-18/digital-totalitarianism/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2019-08-03/%E6%B8%85%E6%95%99%E4%B8%8E%E5%93%88%E4%BD%9B-%E7%BE%8E%E5%9B%BD%E6%95%99%E8%82%B2%E7%9A%84%E7%8B%AC%E7%AB%8B%E5%AE%A3%E8%A8%80/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2019-08-05/%E9%AD%94%E5%B9%BB%E8%B4%B5%E5%B7%9E-%E5%A4%96%E6%9D%A5%E8%80%85%E7%9A%84%E4%B9%A1%E6%84%81%E4%B8%8E%E4%B8%83%E7%BA%A7%E6%B5%AE%E5%B1%A0%E6%B7%98%E5%AE%9D%E6%A2%A6-%E8%AE%B0%E7%AB%8B%E7%A2%91%E6%9D%91%E7%94%B0%E9%87%8E/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<达摩俱乐部>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2019-08-06/left-right-political-spectrum/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<达摩俱乐部>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2019-07-18/digital-totalitarianism/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

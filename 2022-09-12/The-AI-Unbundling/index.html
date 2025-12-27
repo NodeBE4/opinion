@@ -1,0 +1,2992 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>The AI Unbundling – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+The AI Unbundling
+——
+" />
+    <meta property="og:description" content="
+The AI Unbundling
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="The AI Unbundling" />
+    <meta property="twitter:title" content="The AI Unbundling" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2022%2Fthe-ai-unbundling%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2022/the-ai-unbundling/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2022/the-ai-unbundling/&text=The AI Unbundling&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2022/the-ai-unbundling/&title=The AI Unbundling" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2022/the-ai-unbundling/&title=The AI Unbundling" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=The AI Unbundling&body=
+The AI Unbundling
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2022/the-ai-unbundling/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2022/the-ai-unbundling/&title=The AI Unbundling&caption=
+The AI Unbundling
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=The AI Unbundling&url=https://stratechery.com/2022/the-ai-unbundling/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>The AI Unbundling</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-09-12
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2022/the-ai-unbundling/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1662989736000-->
+<p><a href="https://stratechery.com/2022/the-ai-unbundling/">The AI Unbundling</a>
+——</p>
+
+<div>
+  <p>My first job was as a paper boy:</p>
+  <p><img src="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-3.png?resize=640%2C640&#038;ssl=1" alt="Paper boy, by Midjourney" width="640" height="640" class="aligncenter size-full wp-image-9672" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-3.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-3.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-3.png?resize=1024%2C1024&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-3.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-3.png?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-3.png?resize=630%2C630&amp;ssl=1 630w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>The job was remarkably analog: a bundle of newspapers would be dropped off at my house, I would wrap them in rubber-bands (or plastic bags if it were raining), load them up in a canvas sack, and set off on my bike; once a month my parents would drive me around to collect payment. Little did I appreciate just how essential my role writ large was to the profitability of newspapers generally.</p>
+  <p>Newspapers liked to think that they made money because people relied on them for news, furnished by their fearless reporters and hard-working editors; not only did people pay newspapers directly, but advertisers were also delighted to pay for the privilege of having their products placed next to the journalists’ peerless prose. The Internet revealed the fatal flaw in this worldview: what newspapers provided was distribution thanks to infrastructure like printing presses and yours truly.</p>
+  <p><img loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-4.png?resize=640%2C427&#038;ssl=1" alt="Printing press, by Midjourney" width="640" height="427" class="aligncenter size-full wp-image-9671" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-4.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-4.png?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-4.png?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-4.png?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-4.png?resize=945%2C630&amp;ssl=1 945w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>Once the Internet reduced distribution costs to zero, three truths emerged: first, that “news”, once published, retained no economic value. Second, newspapers no long had geographic monopolies, but were instead in competition with every publication across the globe. Third, advertisers didn’t care about content, but rather about reaching customers.</p>
+  <p>I illustrated these three truths in 2015’s <a href="https://stratechery.com/2015/popping-the-publishing-bubble/">Popping the Publishing Bubble</a>:</p>
+  <p><a href="https://stratechery.com/2015/popping-the-publishing-bubble/"><img loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-5.png?resize=640%2C145&#038;ssl=1" alt="Popping the Publishing Bundle" width="640" height="145" class="aligncenter size-full wp-image-9670" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-5.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-5.png?resize=300%2C68&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-5.png?resize=1024%2C231&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-5.png?resize=768%2C173&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-5.png?resize=1200%2C271&amp;ssl=1 1200w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></a></p>
+  <p>Editorial and ads used to be a bundle; next, the Internet unbundled editorial and ads, and provided countless options for both; the final step was ads moving to platforms that gave direct access to users, leaving newspapers with massive reach and no way to monetize it.</p>
+  <h4 id="the-idea-propagation-value-chain">The Idea Propagation Value Chain</h4>
+  <p>As much as newspapers may rue the Internet, their own business model — and my paper delivery job — were based on an invention <a href="https://stratechery.com/2019/the-internet-and-the-third-estate/">that I believe is the only rival</a> for the Internet’s ultimate impact: the printing press. Those two inventions, though, are only two pieces of the idea propagation value chain. That value chain has five parts:</p>
+  <p><img loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-11.png?resize=640%2C47&#038;ssl=1" alt="The five parts of the idea propagation value chain: creation, substantiation, duplication, distribution, consumption" width="640" height="47" class="aligncenter size-full wp-image-9664" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-11.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-11.png?resize=300%2C22&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-11.png?resize=1024%2C75&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-11.png?resize=768%2C56&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-11.png?resize=1200%2C88&amp;ssl=1 1200w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>The evolution of human communication has been about removing whatever bottleneck is in this value chain. Before humans could write, information could only be conveyed orally; that meant that the creation, vocalization, delivery, and consumption of an idea were all one-and-the-same. Writing, though, unbundled consumption, increasing the number of people who could consume an idea.</p>
+  <p><img loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-7.png?resize=640%2C75&#038;ssl=1" alt="Writing unbundled consumption from the rest of the value chain" width="640" height="75" class="aligncenter size-full wp-image-9668" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-7.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-7.png?resize=300%2C35&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-7.png?resize=1024%2C120&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-7.png?resize=768%2C90&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-7.png?resize=1200%2C141&amp;ssl=1 1200w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>Now the new bottleneck was duplication: to reach more people whatever was written had to be painstakingly duplicated by hand, which dramatically limited what ideas were recorded and preserved. The printing press removed this bottleneck, dramatically increasing the number of ideas that could be economically distributed:</p>
+  <p><img loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-9.png?resize=640%2C79&#038;ssl=1" alt="The printing press unbundled duplication and distribution from creation" width="640" height="79" class="aligncenter size-full wp-image-9666" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-9.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-9.png?resize=300%2C37&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-9.png?resize=1024%2C126&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-9.png?resize=768%2C94&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-9.png?resize=1200%2C147&amp;ssl=1 1200w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>The new bottleneck was distribution, which is to say this was the new place to make money; thus the aforementioned profitability of newspapers. That bottleneck, though, was removed by the Internet, which made distribution free and available to anyone.</p>
+  <p><img loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-10.png?resize=640%2C75&#038;ssl=1" alt="The Internet unbundled distribution from duplication" width="640" height="75" class="aligncenter size-full wp-image-9665" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-10.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-10.png?resize=300%2C35&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-10.png?resize=1024%2C119&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-10.png?resize=768%2C89&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-10.png?resize=1200%2C140&amp;ssl=1 1200w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>What remains is one final bundle: the creation and substantiation of an idea. To use myself as an example, I have plenty of ideas, and thanks to the Internet, the ability to distribute them around the globe; however, I still need to write them down, just as an artist needs to create an image, or a musician needs to write a song. What is becoming increasingly clear, though, is that this too is a bottleneck that is on the verge of being removed.</p>
+  <p><img loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-2.png?resize=640%2C640&#038;ssl=1" alt="A flood emerging from a door ajar, by Midjourney" width="640" height="640" class="aligncenter size-full wp-image-9673" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-2.png?w=1024&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-2.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-2.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-2.png?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-2.png?resize=630%2C630&amp;ssl=1 630w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>This image, like the first two in this Article, was created by AI (<a href="https://www.midjourney.com/home/">Midjourney</a>, specifically). It is, like those two images, not quite right: I wanted “A door that is slightly open with light flooding through the crack”, but I ended up with a door with a crack of light down the middle and a literal flood of water; my boy on a bicycle, meanwhile, is missing several limbs, and his bike doesn’t have a handlebar, while the intricacies of the printing press make no sense at all.</p>
+  <p>They do, though, convey the idea I was going for: a boy delivering newspapers, printing presses as infrastructure, and the sense of being overwhelmed by the other side of an opening door — and they were all free.<sup id="rf1-9662"><a href="https://stratechery.com/2022/the-ai-unbundling/#fn1-9662" title="Beyond the $600 annual fee I paid to Midjourney to have access to the fully rights-unencumbered Corporate plan" rel="footnote">1</a></sup> To put in terms of this Article, I had the idea, but AI substantiated it for me — the last bottleneck in the idea propagation value chain is being removed.</p>
+  <h4 id="ai-democratization">AI Democratization</h4>
+  <p>What is notable about all of these AI applications it that they go back to language itself; <a href="https://twitter.com/tszzl">Roon</a> writes with regards to large language models (LLMs) on the <a href="https://scale.com/blog/text-universal-interface">Scale blog</a>:</p>
+  <blockquote>
+    <p>In a previous iteration of the machine learning paradigm, researchers were obsessed with cleaning their datasets and ensuring that every data point seen by their models is pristine, gold-standard, and does not disturb the fragile learning process of billions of parameters finding their home in model space. Many began to realize that data scale trumps most other priorities in the deep learning world; utilizing general methods that allow models to scale in tandem with the complexity of the data is a superior approach. Now, in the era of LLMs, researchers tend to dump whole mountains of barely filtered, mostly unedited scrapes of the Internet into the eager maw of a hungry model.</p>
+  </blockquote>
+  <p>Roon’s focus is on text as the universal input, and connective tissue.<sup id="rf2-9662"><a href="https://stratechery.com/2022/the-ai-unbundling/#fn2-9662" title="In the case of these image applications, noise is added to an known image and then the model is trained on backing out the image from pure noise; the resultant model can then be applied to any arbitrary text applied to pure noise, based on further training of matched text and images" rel="footnote">2</a></sup> Note how this insight fits into the overall development of communication: oral communication was a prerequisite to writing and reading; widespread literacy was a prerequisite to anyone being able to publish on the Internet; the resultant flood of text and images enabled by zero marginal distribution is the prerequisite for models that unbundle the creation of an idea and its substantiation.</p>
+  <p>This, by extension, hints at an even more surprising takeaway: the widespread assumption — including by yours truly — that AI is fundamentally centralizing may be mistaken. If not just data but <em>clean</em> data was presumed to be a prerequisite, then it seemed obvious that massively centralized platforms with the resources to both harvest and clean data — Google, Facebook, etc. — would have a big advantage. This, I would admit, was also a conclusion I was particularly susceptible to, given my focus on <a href="https://stratechery.com/2015/aggregation-theory/">Aggregation Theory</a> and its description of how the Internet, contrary to initial assumptions, leads to centralization.</p>
+  <p>The initial roll-out of large language models seemed to confirm this point of view: the two most prominent large language models have come from OpenAI and Google; while both describe how their text (GPT and GLaM, respectively) and image (DALL-E and Imagen, respectively) generation models work, you either access them through OpenAI’s controlled API, or in the case of Google don’t access them at all. But then came this summer’s unveiling of the aforementioned Midjourney, which is free to anyone via its Discord bot. An even bigger surprise was the release of <a href="https://stability.ai/blog/stable-diffusion-public-release">Stable Diffusion</a>, which is not only free, but also open source — and the resultant models can be run on your own computer.</p>
+  <p>There is, as you might expect, a difference in quality; Dall-E, for example, had the most realistic “newspaper delivery boy throwing a newspaper”:</p>
+  <p><img loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-1.png?resize=640%2C158&#038;ssl=1" alt="Newspaper boys, by Dall-E" width="640" height="158" class="aligncenter size-full wp-image-9663" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-1.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-1.png?resize=300%2C74&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-1.png?resize=1024%2C252&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-1.png?resize=768%2C189&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-1.png?resize=1200%2C295&amp;ssl=1 1200w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>Stable Diffusion was on the other end of the specturm:</p>
+  <p><img loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-6.png?resize=640%2C162&#038;ssl=1" alt="Newspaper delivery boys, by Stable Diffusion" width="640" height="162" class="aligncenter size-full wp-image-9669" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-6.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-6.png?resize=300%2C76&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-6.png?resize=1024%2C259&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-6.png?resize=768%2C194&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/ai-6.png?resize=1200%2C304&amp;ssl=1 1200w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>What is important to note, though, is the direction of each project’s path, not where they are in the journey. To the extent that large language models (and I should note that while I’m focusing on image generation, there are a whole host of companies working on text output as well) are dependent not on carefully curated data, but rather on the Internet itself, is the extent to which AI will be democratized, for better or worse.</p>
+  <h4 id="the-impact-on-creators">The Impact on Creators</h4>
+  <p>The worse is easy to envision; Charlie Warzel <a href="https://newsletters.theatlantic.com/galaxy-brain/62fc502abcbd490021afea1e/twitter-viral-outrage-ai-art/">issued a mea culpa</a> for using an AI image as an illustration in <a href="https://newsletters.theatlantic.com/galaxy-brain/62f28a6bbcbd490021af2db4/where-does-alex-jones-go-from-here/">a post about Alex Jones</a>:</p>
+  <blockquote>
+    <p>I told Bors that what I felt worst about was how mindless my decision to use Midjourney ultimately had been. I was caught up in my own work and life responsibilities and trying to get my newsletter published in a timely fashion. I went to Getty and saw the same handful of photos of Alex Jones, a man who I know enjoys when his photo is plastered everywhere. I didn’t want to use the same photos again, nor did I want to use his exact likeness at all. I also, selfishly, wanted the piece to look different from the 30 pieces that had been published that day about Alex Jones and the Sandy Hook defamation trial. All of that subconsciously overrode all the complicated ethical issues around AI art that I was well apprised of.</p>
+    <p>What worries me about my scenario is that Midjourney was so easy to use, so readily accessible, and it solved a problem (abstracting Jones’ image in a visually appealing way), that I didn’t have much time or incentive to pause and think it through. I can easily see others falling into this like I did.</p>
+    <p>For these reasons, I don’t think I’ll be using Midjourney or any similar tool to illustrate my newsletter going forward (an exception would be if I were writing about the technology at a later date and wanted to show examples). Even though the job wouldn’t go to a different, deserving, human artist, I think the optics are shitty, and I do worry about having any role in helping to set any kind of precedent in this direction. Like others, I also have questions about the corpus used to train these art tools and the possibility that they are using a great deal of art from both big-name and lesser-known artists without any compensation or disclosure to those artists. (I reached out to Midjourney to ask some clarifying questions as to how they choose the corpus of data to train the tool, and they didn’t respond.)</p>
+  </blockquote>
+  <p>I get Warzel’s point, and desire to show solidarity to artists worried about the impact of AI-generated art on their livelihoods. They are, it seems to me, right to worry: I opened this Article discussing the demise of newspapers which, once the connection between duplication and distribution was severed, quickly saw their business models fall apart. If the connection between idea creation and idea substantiation is being severed, it seems reasonable to assume all attendant business models might suffer the same fate.</p>
+  <p>There are, though, two rejoinders: the first is that abundance has its own reward. I am uniquely biased in this regard, seeing as how I make my living on the Internet as a publisher <a href="https://stratechery.com/2020/never-ending-niches/">effectively competing with the New York Times</a>, but I would argue that not just the quantity but, in absolute terms, the quality of content available to every single person in the world is dramatically higher than it was before the distribution bottleneck was removed. It seems obvious that removing the substantiation bottleneck from ideas will result in more good ones as well (along with, by definition, <a href="https://stratechery.com/2020/defining-information/">an even greater increase</a> in not so good ones).</p>
+  <p>The analogy to publishing also point to what will be the long-term trend for any profession affected by these models: relatively undifferentiated creators who depended on the structural bundling of idea creation and substantiation will be reduced to competing with zero marginal cost creators for attention generated and directed from Aggregators; highly differentiated creators, though, who can sustainably deliver both creation and substantiation on their own will be even more valuable. Social media, for example, has been a tremendous boon to differentiated publishers: it gives readers a megaphone to tell everyone how great said publisher is. These AI tools will have a similar effect on highly differentiated creators, who will leverage text-based iteration to make themselves more productive and original than ever before.</p>
+  <p>The second rejoinder is perhaps more grim: this is going to happen regardless. Warzel may be willing to overlook the obvious improvement in not just convenience but also, for his purposes, quality proffered by his use of Midjourney, but few if any will make the same choice. AI-generated images will, per the image above, soon be a flood, just as publishing on the Internet quickly overwhelmed the old newspaper business model.</p>
+  <p>Moreover, just as native Internet content is user-generated content, the iterative and collaborative nature of AI-generated content — both in the sense of being a by-product of content already created, and also the fact that every output can be further iterated upon by others — will prove to be much more interesting and scalable than what professional organizations can produce. TikTok, which <a href="https://stratechery.com/2022/instagram-tiktok-and-the-three-trends/">pulls content from across its network</a> to keep users hooked, is the apotheosis of user-generated content; Metaverses <a href="https://stratechery.com/2022/dall-e-the-metaverse-and-zero-marginal-content/">may be the apotheosis of AI-generated content</a>.</p>
+  <hr class="footnotes" />
+  <ol class="footnotes" style="list-style-type:decimal">
+    <li id="fn1-9662">
+      <p>Beyond the $600 annual fee I paid to Midjourney to have access to the fully rights-unencumbered Corporate plan <a href="https://stratechery.com/2022/the-ai-unbundling/#rf1-9662" class="backlink" title="Return to footnote 1.">↩</a></p>
+    </li>
+    <li id="fn2-9662">
+      <p>In the case of these image applications, noise is added to an known image and then the model is trained on backing out the image from pure noise; the resultant model can then be applied to any arbitrary text applied to pure noise, based on further training of matched text and images <a href="https://stratechery.com/2022/the-ai-unbundling/#rf2-9662" class="backlink" title="Return to footnote 2.">↩</a></p>
+    </li>
+  </ol>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2022-09-26</time>
+        <a href="https://nodebe4.github.io/opinion/2022-09-26/Nvidia-In-the-Valley/">
+          Nvidia In the Valley
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-09-20</time>
+        <a href="https://nodebe4.github.io/opinion/2022-09-20/Sharp-Tech-and-Stratechery-Plus/">
+          Sharp Tech and Stratechery Plus
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-09-08</time>
+        <a href="https://nodebe4.github.io/opinion/2022-09-08/The-Services-iPhone/">
+          The Services iPhone
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-08-29</time>
+        <a href="https://nodebe4.github.io/opinion/2022-08-29/Rights,-Laws,-and-Google/">
+          Rights, Laws, and Google
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-09-12/747-%E4%B8%AD%E5%85%B1%E4%BA%8C%E5%8D%81%E5%A4%A7%E8%AF%84%E6%9E%90-%E9%9F%A9%E8%BF%9E%E6%BD%AE/">
+            前一篇：747 中共二十大评析|韩连潮
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-09-12/748-%E6%B0%B8%E6%81%92%E5%B0%91%E5%B9%B4-%E4%BB%8E%E8%8D%A3%E6%A0%BC%E8%A7%82%E7%82%B9%E6%8E%A2%E8%AE%A8%E6%8B%92%E7%BB%9D%E9%95%BF%E5%A4%A7-%E9%87%8E%E5%85%BD%E7%88%B1%E6%99%BA%E6%85%A7/">
+            後一篇：748 永恒少年：从荣格观点探讨拒绝长大|野兽爱智慧
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-09-12/747-%E4%B8%AD%E5%85%B1%E4%BA%8C%E5%8D%81%E5%A4%A7%E8%AF%84%E6%9E%90-%E9%9F%A9%E8%BF%9E%E6%BD%AE/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-09-12/748-%E6%B0%B8%E6%81%92%E5%B0%91%E5%B9%B4-%E4%BB%8E%E8%8D%A3%E6%A0%BC%E8%A7%82%E7%82%B9%E6%8E%A2%E8%AE%A8%E6%8B%92%E7%BB%9D%E9%95%BF%E5%A4%A7-%E9%87%8E%E5%85%BD%E7%88%B1%E6%99%BA%E6%85%A7/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-09-20/Sharp-Tech-and-Stratechery-Plus/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-09-08/The-Services-iPhone/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-09-12/747-%E4%B8%AD%E5%85%B1%E4%BA%8C%E5%8D%81%E5%A4%A7%E8%AF%84%E6%9E%90-%E9%9F%A9%E8%BF%9E%E6%BD%AE/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-09-12/748-%E6%B0%B8%E6%81%92%E5%B0%91%E5%B9%B4-%E4%BB%8E%E8%8D%A3%E6%A0%BC%E8%A7%82%E7%82%B9%E6%8E%A2%E8%AE%A8%E6%8B%92%E7%BB%9D%E9%95%BF%E5%A4%A7-%E9%87%8E%E5%85%BD%E7%88%B1%E6%99%BA%E6%85%A7/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-09-20/Sharp-Tech-and-Stratechery-Plus/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-09-08/The-Services-iPhone/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

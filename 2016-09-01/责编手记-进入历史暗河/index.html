@@ -1,0 +1,937 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>责编手记：进入历史暗河 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+  
+     
+    
+    
+      
+        
+          
+             责编手记：进入历史暗河 
+            
+              
+                
+                  
+  
+                  
+                  
+                    
+                      
+                             
+  Yiwei Wang                                 
+ 
+                              
+                            
+
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+  
+
+" />
+    <meta property="og:description" content="
+  
+     
+    
+    
+      
+        
+          
+             责编手记：进入历史暗河 
+            
+              
+                
+                  
+  
+                  
+                  
+                    
+                      
+                             
+  Yiwei Wang                                 
+ 
+                              
+                            
+
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+  
+
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="责编手记：进入历史暗河" />
+    <meta property="twitter:title" content="责编手记：进入历史暗河" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fmedium.com%2Fbirthday-paper%2F%25E8%25B4%25A3%25E7%25BC%2596%25E6%2589%258B%25E8%25AE%25B0-%25E8%25BF%259B%25E5%2585%25A5%25E5%258E%2586%25E5%258F%25B2%25E6%259A%2597%25E6%25B2%25B3-cccd16c5e66d" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://medium.com/birthday-paper/%E8%B4%A3%E7%BC%96%E6%89%8B%E8%AE%B0-%E8%BF%9B%E5%85%A5%E5%8E%86%E5%8F%B2%E6%9A%97%E6%B2%B3-cccd16c5e66d" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://medium.com/birthday-paper/%E8%B4%A3%E7%BC%96%E6%89%8B%E8%AE%B0-%E8%BF%9B%E5%85%A5%E5%8E%86%E5%8F%B2%E6%9A%97%E6%B2%B3-cccd16c5e66d&text=责编手记：进入历史暗河&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://medium.com/birthday-paper/%E8%B4%A3%E7%BC%96%E6%89%8B%E8%AE%B0-%E8%BF%9B%E5%85%A5%E5%8E%86%E5%8F%B2%E6%9A%97%E6%B2%B3-cccd16c5e66d&title=责编手记：进入历史暗河" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://medium.com/birthday-paper/%E8%B4%A3%E7%BC%96%E6%89%8B%E8%AE%B0-%E8%BF%9B%E5%85%A5%E5%8E%86%E5%8F%B2%E6%9A%97%E6%B2%B3-cccd16c5e66d&title=责编手记：进入历史暗河" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=责编手记：进入历史暗河&body=
+  
+     
+    
+    
+      
+        
+          
+             责编手记：进入历史暗河 
+            
+              
+                
+                  
+  
+                  
+                  
+                    
+                      
+                             
+  Yiwei Wang                                 
+ 
+                              
+                            
+
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+  
+
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://medium.com/birthday-paper/%E8%B4%A3%E7%BC%96%E6%89%8B%E8%AE%B0-%E8%BF%9B%E5%85%A5%E5%8E%86%E5%8F%B2%E6%9A%97%E6%B2%B3-cccd16c5e66d" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://medium.com/birthday-paper/%E8%B4%A3%E7%BC%96%E6%89%8B%E8%AE%B0-%E8%BF%9B%E5%85%A5%E5%8E%86%E5%8F%B2%E6%9A%97%E6%B2%B3-cccd16c5e66d&title=责编手记：进入历史暗河&caption=
+  
+     
+    
+    
+      
+        
+          
+             责编手记：进入历史暗河 
+            
+              
+                
+                  
+  
+                  
+                  
+                    
+                      
+                             
+  Yiwei Wang                                 
+ 
+                              
+                            
+
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+  
+
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=责编手记：进入历史暗河&url=https://medium.com/birthday-paper/%E8%B4%A3%E7%BC%96%E6%89%8B%E8%AE%B0-%E8%BF%9B%E5%85%A5%E5%8E%86%E5%8F%B2%E6%9A%97%E6%B2%B3-cccd16c5e66d" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>责编手记：进入历史暗河</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2016-09-01
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Yiwei Wang</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#生日报">
+          生日报
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://medium.com/birthday-paper/%E8%B4%A3%E7%BC%96%E6%89%8B%E8%AE%B0-%E8%BF%9B%E5%85%A5%E5%8E%86%E5%8F%B2%E6%9A%97%E6%B2%B3-cccd16c5e66d" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="生日报的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#生日报 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <article>
+  <section class="fa fb fc fd aj fe dj s"></section>
+ <span class="s"> </span>   <div>
+    <div class="t v ff fg fh de"></div>
+    <section class="fi fj fk fl fm">
+      <div class="n p">
+        <div class="ab ac ae af ag fn ai aj">
+          <div>
+            <h1 class="fo fp fq fr b fs ft fu fv fw fx fy fz ga gb gc gd ge gf gg gh ec" id="2edf"> 责编手记：进入历史暗河 </h1>
+            <div class="gi">
+              <div class="n dy gj gk gl">
+                <div class="o n">
+                  <div>
+<a href="/@YiweiWang?source=post_page-----cccd16c5e66d--------------------------------" rel="noopener"> <img alt="Yiwei Wang" src="https://miro.medium.com/fit/c/96/96/0*0honRaQB_EtUGHAR.jpg" /> </a>
+                  </div>
+                  <div class="gp aj s">
+                    <div class="n">
+                      <div style="flex:1">
+<span class="cd ce gq cg ec">                             <div class="gr n o gs">
+<span class="cd ce gq cg bl gt gu gv gw gx ec"> <a class="ck cl au av aw ax ay az ba bb gy be ei ej" href="/@YiweiWang?source=post_page-----cccd16c5e66d--------------------------------" rel="noopener"> Yiwei Wang </a> </span>                               <div class="er s ap h">
+<span> </span>
+                              </div>
+                            </div>
+ </span>
+                      </div>
+                    </div>
+ <span class="cd ce gq cg hp"> <span class="cd ce gq cg bl gt gu gv gw gx hp">                           <div>
+<a class="ck cl au av aw ax ay az ba bb gy be ei ej" href="/birthday-paper/责编手记-进入历史暗河-cccd16c5e66d?source=post_page-----cccd16c5e66d--------------------------------" rel="noopener"> Sep 1, 2016 </a>                             <!-- -->
+ ·                             <!-- -->
+                            <!-- -->
+ 6                             <!-- -->
+ min read
+                          </div>
+ </span> </span>
+                  </div>
+                </div>
+                <div class="n hq hr hs ht hu hv hw hx z">
+                  <div class="n o">
+                    <div class="hy s ap"></div>
+                    <div class="hy s ap"></div>
+                    <div class="hy s ap"></div>
+                    <div class="hz s">
+                      <div class="ef">
+<span> <a class="ck cl au av aw ax ay az ba bb eg eh be ei ej" href="https://medium.com/m/signin?actionUrl=%2F_%2Fbookmark%2Fp%2Fcccd16c5e66d&amp;operation=register&amp;redirect=https%3A%2F%2Fmedium.com%2Fbirthday-paper%2F%E8%B4%A3%E7%BC%96%E6%89%8B%E8%AE%B0-%E8%BF%9B%E5%85%A5%E5%8E%86%E5%8F%B2%E6%9A%97%E6%B2%B3-cccd16c5e66d&amp;source=post_actions_header--------------------------bookmark_header-----------" rel="noopener"> </a> </span>
+                      </div>
+                    </div>
+                    <div class="ia s an"></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="fa42">文/王一苇</p>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="fab8">七个多月的生日报连载，到了尾声。62篇文字，书写从反右到文革结束将近20年的历史。每个人的故事看似独立，实则互相勾连、印证，串起中国在毛泽东时代的执政逻辑。</p>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="65c4">今年1月，刚接到生日报的编辑任务时，我期待却忐忑。期待从大家大国的主线里打捞出那些浮浮沉沉的个人故事。忐忑着虽尽全力不知能否交出满意答卷。</p>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="32f2">“生日报”项目的所有作者，都曾上过钱钢老师的中国传媒史课程。对我，这堂课是一次全面补习，梳理建国后的传媒发展，政治是主线，也兼及经济。学生们印象深刻的是不同领导人治下“ <a class="ck ho iz ja jb jc" href="http://mp.weixin.qq.com/s?__biz=MjM5OTY3MTY4MA==&amp;mid=201474193&amp;idx=1&amp;sn=9d878ad106e6b2e3ad450ffd303d923f&amp;scene=21#wechat_redirect" rel="noopener nofollow"> 五种力 </a> ”的博弈图。五种力指的是“政治权力”、“市场经济”、“新闻媒体”、“资讯科技”和“公民社会”。</p>
+          <figure class="je jf jg jh ji jj fc fd paragraph-image">
+            <div class="fc fd jd">
+              <div class="jn s ed eq">
+                <div class="jo jp s">
+                  <div class="dc jk t u v cx aj bl jl jm">
+<img alt="Image for post" src="https://miro.medium.com/max/700/1*c5BwKxgH2mDyAQ56aXMXSQ.jpeg?q=20" />
+                  </div>
+ <img alt="Image for post" />
+                </div>
+              </div>
+            </div>
+          </figure>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="8005">其中，毛泽东时代的图只有一个大大的红色圆圈，中间写着“权力”。“毛时代，权力吃掉媒体”，钱老师如是注解。</p>
+          <figure class="je jf jg jh ji jj fc fd paragraph-image">
+            <div class="fc fd jd">
+              <div class="jn s ed eq">
+                <div class="jt jp s">
+                  <div class="dc jk t u v cx aj bl jl jm">
+<img alt="Image for post" src="https://miro.medium.com/max/700/1*OZl4wNPFD6A5xfQF3ShuVA.jpeg?q=20" />
+                  </div>
+ <img alt="Image for post" />
+                </div>
+              </div>
+            </div>
+          </figure>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="fcc7">接受这一结论是简单的，但如何从父母生日报的材料中求证？从几十篇报道中抽出值得深挖的信息，需要探测用语的变化、判断宣传力度的强弱，注意一些语词的出现和消失 — — 做到这一点也许不需要严谨的学术训练，却依赖于对历史的充分敏感，和细致入微的洞察力。</p>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="2c31"><strong class="id ju">
+       找准节点，回到历史现场
+      </strong></p>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="6171">学会提问，是回到历史现场的第一步。</p>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="5207">1960年的内蒙古报纸，为什么 <a class="ck ho iz ja jb jc" href="http://mp.weixin.qq.com/s?__biz=MjM5OTY3MTY4MA==&amp;mid=407508656&amp;idx=1&amp;sn=a483c2cda9aa639382948a622e687d43&amp;scene=21#wechat_redirect" rel="noopener nofollow"> 把“红旗”写作“红旂” </a> ？来自内蒙古的女生注意到《昭乌达报》上奇特的繁简混合用法，得出地方报纸比中央报纸在内容和形式上都要“慢半拍”的结论；一只 <a class="ck ho iz ja jb jc" href="http://mp.weixin.qq.com/s?__biz=MjM5OTY3MTY4MA==&amp;mid=407274711&amp;idx=1&amp;sn=c10c077cd36dd3a4f2c3bc45289ca1f7&amp;scene=21#wechat_redirect" rel="noopener nofollow"> “童子牛”怀孕 </a> ，为什么能登上1961年的《解放日报》？上海姑娘由这则“喜讯”生疑，读出大饥荒时连牛都营养不良，无法生育的讯息。</p>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="5823">有些问题，同学们在浏览报纸时自然而然会提出；而有一些信息的重要性，则需钱老师提点才能意识到。比如，担任了55年人大代表、为“妇女解放”代言的 <a class="ck ho iz ja jb jc" href="http://mp.weixin.qq.com/s?__biz=MjM5OTY3MTY4MA==&amp;mid=408154039&amp;idx=1&amp;sn=956ed20a45d166d89ef9977b867182e4&amp;scene=21#wechat_redirect" rel="noopener nofollow"> 申纪兰 </a> ，为什么每逢政治运动都会在报纸上接受采访或者发表文章“表态”？结合她“从来不投反对票”的行为，可推演出什么样的逻辑？又比如， <a class="ck ho iz ja jb jc" href="http://mp.weixin.qq.com/s?__biz=MjM5OTY3MTY4MA==&amp;mid=2657330825&amp;idx=1&amp;sn=4c0f0254fb2e8aa3e3b2b76024984c49&amp;scene=21#wechat_redirect" rel="noopener nofollow"> 马来亚共产党 </a> 原本要就要放弃武装斗争，为什么领袖陈平访华后，路线来了个180度大转弯？</p>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="b12e">在钱老师的指引下，每个人都在生日报上找到了进入历史的独特节点。而通过资料检索，同学们梳理、核对基本史实，还历史以清晰的本来面貌。这些史料，包括《炎黄春秋》杂志文章、文革学者宋永毅主编的当代政治史资料库、《毛泽东文选》等等。</p>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="60be"><strong class="id ju">
+       积累历史感
+      </strong></p>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="7021">仅仅回到历史现场还不够。面对历史材料时，我常感到自己“只见树木，不见森林”：只看到事件本身，却不知如何分析事件背后的逻辑链条。相信这也是很多同学的困惑。</p>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="f33a">尤其当遇到一些离我们遥远而陌生的词语。教育革命、四清运动、斗私批修、批林批孔……这些文革中掀起一阵阵巨浪的运动，究竟目的何在？它们的轮番击打，对国家和个人的命运造成了什么样的影响？而运动频发的事实背后，是什么样的执政思路？</p>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="30f1">要了解这些，除了理清语词本身的小脉络，更需摸透家事国事背后的大脉络。以1960年代中苏交恶为例，自赫鲁晓夫在苏共二十大上推倒斯大林的神像后，中苏关系就起了微妙变化。 <a class="ck ho iz ja jb jc" href="http://mp.weixin.qq.com/s?__biz=MjM5OTY3MTY4MA==&amp;mid=408529158&amp;idx=1&amp;sn=1b1fb0547dce65c4486777cd377d2ccb&amp;scene=21#wechat_redirect" rel="noopener nofollow"> 浙江同学发现 </a> ，苏联专家于1959年停止向中国提供原子弹样品和技术资料，中国自此只能靠一己之力，把原子弹试验推上日程； <a class="ck ho iz ja jb jc" href="http://mp.weixin.qq.com/s?__biz=MjM5OTY3MTY4MA==&amp;mid=2657330592&amp;idx=1&amp;sn=51dc44ebbf53a0862d524d69367ef696&amp;scene=21#wechat_redirect" rel="noopener nofollow"> 来自钢城武汉的妹子 </a> 则注意到，1953年就开始援助武钢的苏联，突然在1964年拒绝了中国工会的“五一”邀请，由此牵出武钢与苏联的一场“爱恨情仇”。</p>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="6b77">当争论逐渐公开化，中苏在明面上撕破脸时，来自古城开封的男生发现1963年的《人民日报》上整整三版文章，竟然全文刊载苏联对中国的攻击文字，正自疑惑中共的报刊为何如此信心满满；另一位北京同学就看到了第二日 <a class="ck ho iz ja jb jc" href="http://mp.weixin.qq.com/s?__biz=MjM5OTY3MTY4MA==&amp;mid=2657330370&amp;idx=1&amp;sn=d3d3f1ace18bdf63e2f4121cf8dff13c&amp;scene=21#wechat_redirect" rel="noopener nofollow"> 中共报纸发动的大规模反击 </a> ：《9评苏共中央公开信》的第一篇正式亮相。</p>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="3d1d">外交布局也因此改变。湖南的女生惊讶于 <a class="ck ho iz ja jb jc" href="http://mp.weixin.qq.com/s?__biz=MjM5OTY3MTY4MA==&amp;mid=2657330600&amp;idx=1&amp;sn=f57d987f4837d8d5c5b7ca52e2306828&amp;scene=21#wechat_redirect" rel="noopener nofollow"> 六十年代中国对阿尔巴尼亚的援助 </a> 异乎寻常地慷慨。原来，阿尔巴尼亚对待赫鲁晓夫的态度和中国一致，曾在1960年的一场社会主义国家会议上公开支持中国，和苏联唱反调；贵州同学发现母亲生日那天原定举行的 <a class="ck ho iz ja jb jc" href="http://mp.weixin.qq.com/s?__biz=MjM5OTY3MTY4MA==&amp;mid=2657330465&amp;idx=1&amp;sn=253fc94d21cfad82dd62c9d33c4068f7&amp;scene=21#wechat_redirect" rel="noopener nofollow"> “第二次亚非会议”无限延期 </a> ，看到了和“老大哥”闹翻后，中国外交面临的四面楚歌和举步维艰。</p>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="f8f6">看似毫不相关的角度，却能归因于一个主题。历史感的积累，来源于这样一步步的探索。</p>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="af43"><strong class="id ju">
+       回归家庭故事
+      </strong></p>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="2df1">真正赋予生日报生动色彩的，是每个人的家庭故事。</p>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="19be">有一位来自内蒙古的同学，在爸爸生日前几天的报纸上看到关于“爱国卫生运动”的报道，和奶奶一聊才知道，爸爸作为早产儿诞生，正是因为奶奶在这场运动中打扫卫生时，从小凳子上摔了下来。</p>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="923c">另一位来自河北邢台的同学，则发现自己的奶奶之所以精神失常，是因为1963年的邢台水灾后，遭遇了以“反资产阶级复辟”为旗号的抢粮。而这一切，要追溯到 <a class="ck ho iz ja jb jc" href="http://mp.weixin.qq.com/s?__biz=MjM5OTY3MTY4MA==&amp;mid=407878052&amp;idx=1&amp;sn=c00967b636c1544c45df5b854c7c42d9&amp;scene=21#wechat_redirect" rel="noopener nofollow"> 八届十中全会 </a> 提出的“千万不要忘记阶级斗争”。</p>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="f5af">还有一位同学来自香港，他从旧报上读到往来港澳的 <a class="ck ho iz ja jb jc" href="http://mp.weixin.qq.com/s?__biz=MjM5OTY3MTY4MA==&amp;mid=2657330921&amp;idx=1&amp;sn=5adf1856c0eb17f5b212bb5642bfa2bd&amp;scene=21#wechat_redirect" rel="noopener nofollow"> “佛山轮”沉没的消息 </a> ，由此展开探索，想知道这艘他爷爷曾经工作并随之沉没的轮船，有着什么样的故事。</p>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="614e">因为生日报，同学们与家中老人展开未曾料想过的对话。这些话，如果我们不去问起，也许只能停留在他们记忆中，随时光消散。我们用录音笔、微信语音记下这一场场回到过去的时光旅行，也记下与长辈相处的珍贵日子。</p>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="66a1">也因为这一个个故事，我们终于感到自己和50多年前的这段历史有了不可分割的血脉联系。我们的父辈诞生于此。我们虽然不是这段历史的见证者，却有幸成为它的记录者，甚至讲述者。我们仿佛进入一条历史暗河，用自己的一点微芒照亮水面。</p>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="5d27">1958年到1976年，这段历史离我们不再遥远。</p>
+          <p class="ib ic fq id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="942e">1985年，邓小平会见津巴布韦总理穆加贝时，用不到300个字总结了这段历史。他说，“一九五七年开始有一点问题了，问题出在一个‘左’字上。”文化大革命则更是“走到了左的极端，极左思潮泛滥”。直到今天，这话仍是黄钟大吕，时时警醒后人。</p>
+          <blockquote class="jv jw jx">
+            <p class="ib ic jy id b ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy fi ec" id="6e32">作者介绍 <br /> 王一苇，2014级香港大学新闻及传媒研究中心硕士毕业生。</p>
+          </blockquote>
+        </div>
+      </div>
+    </section>
+  </div>
+</article>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#生日报 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2016-09-01/%E8%B4%A3%E7%BC%96%E6%89%8B%E8%AE%B0-%E8%BF%9B%E5%85%A5%E5%8E%86%E5%8F%B2%E6%9A%97%E6%B2%B3/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2016-07-22/%E6%B5%99%E6%B1%9F%E6%97%A5%E6%8A%A5-%E4%B8%80%E4%B8%AA%E6%8A%A5%E5%A4%B4%E7%9A%84%E5%8F%98%E8%BF%81-%E9%92%B1%E9%92%A2%E8%80%81%E5%B8%88%E8%AF%BE%E4%B8%8A%E7%9A%84%E7%94%9F%E6%97%A5%E6%8A%A5-51/">最早</a>--</span>
+    
+    
+    
+      <li>
+        <time>2016-09-01</time>
+        <a href="https://nodebe4.github.io/opinion/2016-09-01/%E8%AF%BB%E5%8E%86%E5%8F%B2%E7%9A%84%E5%B0%8F%E7%9B%AE%E6%A0%87-%E9%92%B1%E9%92%A2%E8%80%81%E5%B8%88%E5%92%8C%E4%BB%96%E7%9A%84%E7%94%9F%E6%97%A5%E6%8A%A5/">
+          读历史的小目标：钱钢老师和他的生日报
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2016-08-18</time>
+        <a href="https://nodebe4.github.io/opinion/2016-08-18/%E6%9C%88%E5%AD%90%E9%87%8C%E7%9A%84%E5%9B%BD%E5%AE%B6%E6%9C%BA%E5%AF%86-%E9%92%B1%E9%92%A2%E8%80%81%E5%B8%88%E8%AF%BE%E4%B8%8A%E7%9A%84%E7%94%9F%E6%97%A5%E6%8A%A5-62/">
+          月子里的国家机密 — — 钱钢老师课上的生日报【62】
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2016-09-01/%E8%AF%BB%E5%8E%86%E5%8F%B2%E7%9A%84%E5%B0%8F%E7%9B%AE%E6%A0%87-%E9%92%B1%E9%92%A2%E8%80%81%E5%B8%88%E5%92%8C%E4%BB%96%E7%9A%84%E7%94%9F%E6%97%A5%E6%8A%A5/">
+            前一篇：读历史的小目标：钱钢老师和他的生日报
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2016-09-02/%E4%B8%8D%E6%83%B3-%E4%B8%8D%E8%83%BD-%E4%B8%8D%E7%9F%A5%E9%81%93-%E6%97%A5%E6%9C%AC%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E6%8A%95%E7%A5%A8/">
+            後一篇：不想、不能、不知道：日本年轻人为什么不投票？
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2016-09-01/%E8%AF%BB%E5%8E%86%E5%8F%B2%E7%9A%84%E5%B0%8F%E7%9B%AE%E6%A0%87-%E9%92%B1%E9%92%A2%E8%80%81%E5%B8%88%E5%92%8C%E4%BB%96%E7%9A%84%E7%94%9F%E6%97%A5%E6%8A%A5/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2016-09-02/%E4%B8%8D%E6%83%B3-%E4%B8%8D%E8%83%BD-%E4%B8%8D%E7%9F%A5%E9%81%93-%E6%97%A5%E6%9C%AC%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E6%8A%95%E7%A5%A8/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2016-09-01/%E8%AF%BB%E5%8E%86%E5%8F%B2%E7%9A%84%E5%B0%8F%E7%9B%AE%E6%A0%87-%E9%92%B1%E9%92%A2%E8%80%81%E5%B8%88%E5%92%8C%E4%BB%96%E7%9A%84%E7%94%9F%E6%97%A5%E6%8A%A5/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2016-09-01/%E8%AF%BB%E5%8E%86%E5%8F%B2%E7%9A%84%E5%B0%8F%E7%9B%AE%E6%A0%87-%E9%92%B1%E9%92%A2%E8%80%81%E5%B8%88%E5%92%8C%E4%BB%96%E7%9A%84%E7%94%9F%E6%97%A5%E6%8A%A5/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2016-09-02/%E4%B8%8D%E6%83%B3-%E4%B8%8D%E8%83%BD-%E4%B8%8D%E7%9F%A5%E9%81%93-%E6%97%A5%E6%9C%AC%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E6%8A%95%E7%A5%A8/">
+      <i>前</i>
+    </a>
+    
+    
+    
+    <a class="fab-action fab-action-4" title="<生日报>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2016-09-01/%E8%AF%BB%E5%8E%86%E5%8F%B2%E7%9A%84%E5%B0%8F%E7%9B%AE%E6%A0%87-%E9%92%B1%E9%92%A2%E8%80%81%E5%B8%88%E5%92%8C%E4%BB%96%E7%9A%84%E7%94%9F%E6%97%A5%E6%8A%A5/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

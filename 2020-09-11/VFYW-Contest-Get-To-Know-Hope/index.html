@@ -1,0 +1,844 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>VFYW Contest: Get To Know Hope – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+VFYW Contest: Get To Know Hope
+——
+" />
+    <meta property="og:description" content="
+VFYW Contest: Get To Know Hope
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="VFYW Contest: Get To Know Hope" />
+    <meta property="twitter:title" content="VFYW Contest: Get To Know Hope" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fandrewsullivan.substack.com%2Fp%2Fvfyw-contest-get-to-know-hope" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://andrewsullivan.substack.com/p/vfyw-contest-get-to-know-hope" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://andrewsullivan.substack.com/p/vfyw-contest-get-to-know-hope&text=VFYW Contest: Get To Know Hope&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://andrewsullivan.substack.com/p/vfyw-contest-get-to-know-hope&title=VFYW Contest: Get To Know Hope" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://andrewsullivan.substack.com/p/vfyw-contest-get-to-know-hope&title=VFYW Contest: Get To Know Hope" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=VFYW Contest: Get To Know Hope&body=
+VFYW Contest: Get To Know Hope
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://andrewsullivan.substack.com/p/vfyw-contest-get-to-know-hope" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://andrewsullivan.substack.com/p/vfyw-contest-get-to-know-hope&title=VFYW Contest: Get To Know Hope&caption=
+VFYW Contest: Get To Know Hope
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=VFYW Contest: Get To Know Hope&url=https://andrewsullivan.substack.com/p/vfyw-contest-get-to-know-hope" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>VFYW Contest: Get To Know Hope</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2020-09-11
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Chris Bodenner</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#The Weekly Dish">
+          The Weekly Dish
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://andrewsullivan.substack.com/p/vfyw-contest-get-to-know-hope" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="The Weekly Dish的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#The Weekly Dish 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1599855600000-->
+<p><a href="https://andrewsullivan.substack.com/p/vfyw-contest-get-to-know-hope">VFYW Contest: Get To Know Hope</a>
+——</p>
+
+<div>
+<a class="image-link image2 image2-1101-1456" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F62a017e0-d62f-4b36-9e6c-052aa8953a87_1764x1334.png"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F62a017e0-d62f-4b36-9e6c-052aa8953a87_1764x1334.png" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/62a017e0-d62f-4b36-9e6c-052aa8953a87_1764x1334.png&quot;,&quot;height&quot;:1101,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:4114216,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null}" alt="" />      <style>          a.image2.image-link.image2-1101-1456 {            padding-bottom: 75.61813186813187%;            padding-bottom: min(75.61813186813187%, 1101px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-1101-1456 img {            max-width: 1456px;            max-height: 1101px;          }        </style>
+</a>  <p>Our first entry comes from “an architect, so I do much better when there are buildings or urban environments in the window contest”:</p>
+  <blockquote>
+    <p>I’ve only ever seen log cabins with overlapping corners, which I now know are called Scandinavian Saddle Notches or Swedish Copes. The house in the photo has totally different corners — the round logs stop short of the corners and only have dovetails that overlap. The style of this log cabin would be Round Log Unchinked with Dovetail Corner Notches.</p>
+    <p>Unfortunately, all the new knowledge I discovered about log cabins was absolutely no help in finding the location. So, based on your clue (“Going into this election, you should know it”), I’m going with Dixville Notch, NH. Going into this election, and every presidential election, Dixville Notch (pop. 12) will be the first community to announce its results at 12:01am on Tuesday morning.</p>
+  </blockquote>
+  <p>From another reader who guessed Dixville Notch:</p>
+  <blockquote>
+    <p>There’s a whole range of mountains named after presidents in New Hampshire — the <a href="https://en.wikipedia.org/wiki/Presidential_Range">Presidential Range</a> — and I’d bet our view is nestled somewhere among them. The general northeastern locale is confirmed by the New York State plate visible on the car; I’d know that orange anywhere, and while rental plates confuse matters, it makes a northeastern location more likely. </p>
+  </blockquote>
+  <p>Another reader heads west:</p>
+  <blockquote>
+    <p>This looks like Humphreys Peak north of Flagstaff, Arizona. I poked around Google Maps a bit, but I couldn’t make any further progress. I’m going to guess the view was taken somewhere in the red circle:</p>
+<a class="image-link image2 image2-1194-1456" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe25b3cab-a7d0-4c23-8fa9-400df6ed03f1_1678x1376.png"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe25b3cab-a7d0-4c23-8fa9-400df6ed03f1_1678x1376.png" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e25b3cab-a7d0-4c23-8fa9-400df6ed03f1_1678x1376.png&quot;,&quot;height&quot;:1194,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:4349775,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null}" alt="" />        <style>          a.image2.image-link.image2-1194-1456 {            padding-bottom: 82.0054945054945%;            padding-bottom: min(82.0054945054945%, 1194px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-1194-1456 img {            max-width: 1456px;            max-height: 1194px;          }        </style>
+</a>    <p>Now I am going to enjoy my holiday weekend!</p>
+  </blockquote>
+  <p>This reader probably enjoyed the weekend on the water:</p>
+  <blockquote>
+    <p>Well, I’m a river rafter, with a boat very similar to this. Based on the mountains in the background, I’m going to say Aspen, Colorado. (Possibly Snowmass …) The boater probably floats the Roaring Fork River, a sublime stream I have rafted myself many times — although I live in the only-slightly-less expensive enclave of Boulder. And just for kicks, I’d say that’s a 13’ Aire Wave Destroyer. Nice boat.</p>
+  </blockquote>
+  <p>Another heads to the West Coast:</p>
+  <blockquote>
+    <p>The mountains and the watercraft put me somewhere in the west. Your clue makes me think, but not of a prized swing state. Instead I’m reminded of the consequential developments in Portland and the mark they’ll leave on this election and beyond. Here in Canada, we’re hoping for a little less unrest, so wherever this view is — I’m gonna say Wallowa County, Oregon — it seems like a perfect start.</p>
+  </blockquote>
+  <p>Thankfully that scenic county isn’t on fire right now. In contrast, a reader in Portland — where my Airstream happens to be parked right now — sends this pea-soup view:</p>
+<a class="image-link image2 image2-1094-1456" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F659dd7f9-b631-40a1-bde4-076f6d1716eb_3160x2374.jpeg"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F659dd7f9-b631-40a1-bde4-076f6d1716eb_3160x2374.jpeg" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/659dd7f9-b631-40a1-bde4-076f6d1716eb_3160x2374.jpeg&quot;,&quot;height&quot;:1094,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:1169052,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null}" alt="" />      <style>          a.image2.image-link.image2-1094-1456 {            padding-bottom: 75.13736263736264%;            padding-bottom: min(75.13736263736264%, 1094px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-1094-1456 img {            max-width: 1456px;            max-height: 1094px;          }        </style>
+</a>  <p>That reader adds, “We have the <a href="https://www.iqair.com/us/world-air-quality">worst air quality on Earth right now</a>” — <em>double</em> the AQI level of the second worst city, San Francisco.</p>
+  <p>Another reader heads to cleaner air north:</p>
+  <blockquote>
+    <p>License plate looks like it might be Alaska. Somewhere with river rafting. Trees look like a mixture of Douglas fir and deciduous. Tree line is low, so it’s somewhat north. I’m guessing somewhere along Hwy 16 in British Columbia, but that might be too far south. Prince Rupert, BC?</p>
+  </blockquote>
+  <p>Not north enough. Another reader gets to the right state:</p>
+  <blockquote>
+    <p>Alaska ...... is a very, very large place. Best of luck to those willing to go down that rabbit hole.</p>
+  </blockquote>
+  <p>A reader in Juneau can see Wasilla from her house:</p>
+  <blockquote>
+    <p>At first I thought it was Talkeetna, but Todd Palin’s doghouse gave it away — it’s gotta be Sarah Palin’s house and yard at Lake Lucille, Wasilla, Alaska.</p>
+  </blockquote>
+  <p>Another reader heads down to the Kenai Peninsula:</p>
+  <blockquote>
+    <p>It has to be Cooper Landing. I fish in that area all the time, so the mountains are recognizable, and those are definitely Alaskan trees. Google Earth will not be kind to people on this one, as the aerial images are too dark to make out individual structures in detail. So I don’t know the exact GPS coordinates, but it appears to be taken from inside an RV/trailer, presumably with the world famous Kenai River behind the photographer or somewhere nearby. Am I wrong?</p>
+  </blockquote>
+  <p>Yep. Another reader goes deep:</p>
+  <blockquote>
+    <p>Gah — what an incredibly cryptic photo. I think the only way is to put on my red Where’s Waldo cap …</p>
+    <ul>
+      <li>
+        <p>I see just a tiny glimpse of a license plate on the car and I would say it looks yellow and blue. That’s close enough to the current Alaska plate: </p>
+      </li>
+    </ul>
+<a class="image-link image2 image2-239-474" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4a568dc-a03f-465a-a17a-01912096beb1_474x239.jpeg"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4a568dc-a03f-465a-a17a-01912096beb1_474x239.jpeg" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e4a568dc-a03f-465a-a17a-01912096beb1_474x239.jpeg&quot;,&quot;height&quot;:239,&quot;width&quot;:474,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:25330,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null}" alt="" />        <style>          a.image2.image-link.image2-239-474 {            padding-bottom: 50.42194092827004%;            padding-bottom: min(50.42194092827004%, 239px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-239-474 img {            max-width: 474px;            max-height: 239px;          }        </style>
+</a>    <ul>
+      <li>
+        <p>The car itself is a Toyota Sienna. To my knowledge, it’s the one minivan with AWD. It’s an option — but it’s possible that <em>this</em> Sienna has AWD. Wouldn’t have AWD if you didn’t need it, so perhaps that means this is a land of ice and snow.</p>
+      </li>
+    </ul>
+    <ul>
+      <li>
+        <p>The relatively bare hills/mountains would also seem to indicate a low-growth environment — like parts of Alaska. The car has a float boat hooked up (and fishing rods), so we are near calm water. That makes me think this is not at altitude and therefore the hills are quite barren due to higher latitude. </p>
+      </li>
+      <li>
+        <p>The house feels seasonal. The driveway is relatively even, un-rutted, not much traffic — and yet it’s not overgrown with weeds. There’s not much wood stored under the stairs either, despite being a spot (photo below) looking like it was put in for the purpose. Just enough for some fire-pit nights:</p>
+<a class="image-link image2 image2-399-392" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F394ad959-c8b9-48bb-8b12-217bd1dbb47e_392x399.png"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F394ad959-c8b9-48bb-8b12-217bd1dbb47e_392x399.png" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/394ad959-c8b9-48bb-8b12-217bd1dbb47e_392x399.png&quot;,&quot;height&quot;:399,&quot;width&quot;:392,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:235531,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null}" alt="" />            <style>          a.image2.image-link.image2-399-392 {            padding-bottom: 101.78571428571428%;            padding-bottom: min(101.78571428571428%, 399px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-399-392 img {            max-width: 392px;            max-height: 399px;          }        </style>
+</a>      </li>
+      <li>
+        <p>Whatever work this house needed on that deck/foundation isn’t getting done (it’s September!) — so I don’t think someone is always here or often here. </p>
+      </li>
+      <li>
+        <p>The house is also missing the Lowes/Home Depot doo-dads these kinds of homes are usually festooned with. I think this house is isolated and far from commercial areas.</p>
+      </li>
+      <li>
+        <p>Perhaps I am imagining, but the little flags seem to have letters on them. They are not a rainbow and they are not Tibetan prayer flags, so they have some other purpose/meaning. There are six flags and the light blue one looks like it has an “A” on it, so that would make these capable of spelling out A L A S K A:</p>
+<a class="image-link image2 image2-353-800" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F79298cde-37d1-4b00-9f31-fc35fa4fceb4_800x353.png"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F79298cde-37d1-4b00-9f31-fc35fa4fceb4_800x353.png" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/79298cde-37d1-4b00-9f31-fc35fa4fceb4_800x353.png&quot;,&quot;height&quot;:353,&quot;width&quot;:800,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:303247,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null}" alt="" />            <style>          a.image2.image-link.image2-353-800 {            padding-bottom: 44.125%;            padding-bottom: min(44.125%, 353px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-353-800 img {            max-width: 800px;            max-height: 353px;          }        </style>
+</a>      </li>
+      <li>
+        <p>I don’t really know what to make of the next image, but it looks like an exterior electrical breaker box with a lightbulb mounted to it. Maybe it’s quite a high latitude, thus unusually dark for parts of the year. Anyway, the whole setup is some odd sort of thing that you might find in places where they don’t or can’t build stuff the “usual” way.</p>
+<a class="image-link image2 image2-450-720" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fedfc97b0-7cca-4742-a758-c841863efb4c_720x450.png"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fedfc97b0-7cca-4742-a758-c841863efb4c_720x450.png" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/edfc97b0-7cca-4742-a758-c841863efb4c_720x450.png&quot;,&quot;height&quot;:450,&quot;width&quot;:720,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:359086,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null}" alt="" />            <style>          a.image2.image-link.image2-450-720 {            padding-bottom: 62.5%;            padding-bottom: min(62.5%, 450px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-450-720 img {            max-width: 720px;            max-height: 450px;          }        </style>
+</a>      </li>
+      <li>
+        <p>Lastly, your clue about the election. I suppose it means we should be thinking about Canada. And I guess this photo could also easily be Canada, but Alaska would be a very zen place to get away from most other Americans after the election, so I am sticking with that …</p>
+      </li>
+    </ul>
+  </blockquote>
+  <p>The reader emailed his entry just after 2 am, so I keep imagining him as Harrison Ford enhancing stuff late at night:</p>
+  <div id="youtube2-hHwjceFcF2Q" class="youtube-wrap" data-attrs="{&quot;videoId&quot;:&quot;hHwjceFcF2Q&quot;,&quot;startTime&quot;:null,&quot;endTime&quot;:null}">
+    <iframe src="https://www.youtube-nocookie.com/embed/hHwjceFcF2Q?rel=0&amp;autoplay=0&amp;showinfo=0" frameborder="0" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true"></iframe>
+  </div>
+  <p>That reader still can’t sleep:</p>
+  <blockquote>
+    <p>I am sticking with my earlier Alaska guess/email because I am too wedded to it, but that clue (“Going into this election …”) has been bothering me all week. It would bring a losing smile to my face if it was, indeed, somewhere along the Continental Divide …</p>
+  </blockquote>
+  <p>This next reader goes with a surefire bet: “Whatever Chini says is my guess!” Chini guessed what the following reader in Anchorage also guessed:</p>
+  <blockquote>
+    <p>This looks like my driveway and many of my friends’ driveways, for sure. The burled wood on the post on the house, the mountains and the boat in the driveway all say Alaska for me. My first thought was <strong>Hope, Alaska,</strong> and then your hint made my guess more solid. I HOPE I’m right!  </p>
+  </blockquote>
+  <p>You are! Six other readers also got Hope. One of them got help from a group of friends:</p>
+<a class="image-link image2 image2-1635-1456" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F87af9176-5450-40e6-997e-c2cc42a26b2a_2054x2307.png"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F87af9176-5450-40e6-997e-c2cc42a26b2a_2054x2307.png" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/87af9176-5450-40e6-997e-c2cc42a26b2a_2054x2307.png&quot;,&quot;height&quot;:1635,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:1504735,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null}" alt="" />      <style>          a.image2.image-link.image2-1635-1456 {            padding-bottom: 112.29395604395604%;            padding-bottom: min(112.29395604395604%, 1635px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-1635-1456 img {            max-width: 1456px;            max-height: 1635px;          }        </style>
+</a>  <p>That reader writes, “It was a team effort this week! The address is <strong>64888 MiddleCreek Circle, Hope, Alaska, 99605</strong>. Gotta get me a cataraft now ...” Another reader sends a photo of the MiddleCreek Circle cabin:</p>
+<a class="image-link image2 image2-768-1024" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F228a373c-d028-45b7-9626-3c80cb0fea94_1024x768.jpeg"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F228a373c-d028-45b7-9626-3c80cb0fea94_1024x768.jpeg" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/228a373c-d028-45b7-9626-3c80cb0fea94_1024x768.jpeg&quot;,&quot;height&quot;:768,&quot;width&quot;:1024,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:216131,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null}" alt="" />      <style>          a.image2.image-link.image2-768-1024 {            padding-bottom: 75%;            padding-bottom: min(75%, 768px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-768-1024 img {            max-width: 1024px;            max-height: 768px;          }        </style>
+</a>  <p>But that reader adds, “Our window is not visible.” Several readers nailed the exact window, but only one of them hasn’t won the contest before. That now-winner writes:</p>
+  <blockquote>
+    <p>My husband and I enjoy trying to guess the weekly photo over Saturday morning brunch (which he so nicely makes for us). He’s been reading Andrew’s writings with dedication, and we enjoy his appearances on Bill Maher, for what must be more than a decade. Our hearts sunk when the Dish went offline; its value was beyond measure. Glad to have you guys back! The VFYW contest has been an enjoyable tour of the world, but it always seemed impossible. But that all changed this weekend ...</p>
+    <p>I started the search, choosing the US as my area. I noticed the obvious things in the photo: Toyota, mountains, fire pit, thin pine trees, flags, flowers, etc. … mainly the green metal roof and that little shed-looking thing by the house — for trash cans maybe? Because of the cataraft on top of the car, I looked for the best places for whitewater rafting. My first choice was the Nenana River in Alaska. I did a VRBO search for house rentals and saw many that looked similar to the log home, but I couldn’t find that exact place. Then I thought the window looked more like a camper, so I decided to enter “camper rentals in Alaska” … and a town called Hope came up.</p>
+    <p>During all this searching, I kept thinking of the clue you provided: “Going into this election, you should know it.” Since my husband has subscribed to and read Andrew for years, when I told him I was looking at a town called Hope, my husband said “Andrew says that all the time: ‘Know Hope.’” So we knew we were close. </p>
+    <p>After searching for views from Hope (the view of the mountain range), we settled on this area and saw this property:</p>
+<a class="image-link image2 image2-457-750" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F351dde3e-9120-4c1b-ae0d-7b85248888d7_750x457.png"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F351dde3e-9120-4c1b-ae0d-7b85248888d7_750x457.png" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/351dde3e-9120-4c1b-ae0d-7b85248888d7_750x457.png&quot;,&quot;height&quot;:457,&quot;width&quot;:750,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:725889,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null}" alt="" />        <style>          a.image2.image-link.image2-457-750 {            padding-bottom: 60.93333333333333%;            padding-bottom: min(60.93333333333333%, 457px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-457-750 img {            max-width: 750px;            max-height: 457px;          }        </style>
+</a>    <p>I searched this address and saw it’s listed with the BBB and has a rental called “Cabin in Hope,” which shows up on VRBO and Airbnb. We chose the window in the bathroom, going by the reflection of the window in the mirror above the sink — shown in the 1st photo here:</p>
+<a class="image-link image2 image2-537-1100" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F50a871ee-5a84-447c-806b-8f807e8e6916_1100x537.png"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F50a871ee-5a84-447c-806b-8f807e8e6916_1100x537.png" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/50a871ee-5a84-447c-806b-8f807e8e6916_1100x537.png&quot;,&quot;height&quot;:537,&quot;width&quot;:1100,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:708435,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null}" alt="" />        <style>          a.image2.image-link.image2-537-1100 {            padding-bottom: 48.81818181818181%;            padding-bottom: min(48.81818181818181%, 537px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-537-1100 img {            max-width: 1100px;            max-height: 537px;          }        </style>
+</a>  </blockquote>
+  <p>From the reader who submitted the photo:</p>
+  <blockquote>
+    <p>I took a trip this past weekend to a friend’s house down in Hope, a village an hour and half south of Anchorage. Hope is near Sixmile Creek, among the best whitewater rivers in the south-central Alaska. The white spruce and cabin architecture are other AK indicators, and the mountains outside of Hope are pretty recognizable to Alaskans (and tourists who used to come here pre-COVID). Here’s a photo from Sixmile Creek, although it’s from a while back in my bigger raft:</p>
+<a class="image-link image2 image2-860-1456" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1adcf5c8-15df-4425-a0b1-c06c2ce7edcd_2272x1342.jpeg"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1adcf5c8-15df-4425-a0b1-c06c2ce7edcd_2272x1342.jpeg" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/1adcf5c8-15df-4425-a0b1-c06c2ce7edcd_2272x1342.jpeg&quot;,&quot;height&quot;:860,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:1530785,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null}" alt="" />        <style>          a.image2.image-link.image2-860-1456 {            padding-bottom: 59.065934065934066%;            padding-bottom: min(59.065934065934066%, 860px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-860-1456 img {            max-width: 1456px;            max-height: 860px;          }        </style>
+</a>    <p>An interesting fact, which I’m expecting people to bring up, is the massive tides on <a href="https://en.wikipedia.org/wiki/Turnagain_Arm">Turnagain Arm</a> near Hope. I actually went out in my boat shortly after the photo was taken to row about five miles from Hope up the Arm toward Sunrise, AK, riding a 30 foot tide (second biggest of the year). In Hope’s bay, this bore tide is actually pretty mild except in the center of the Arm when it battles prevailing easterly winds (I got soaked with spray).</p>
+<a class="image-link image2 image2-226-300" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F33b15bbe-0362-464a-aa8e-195737a5cc7b_300x226.jpeg"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F33b15bbe-0362-464a-aa8e-195737a5cc7b_300x226.jpeg" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/33b15bbe-0362-464a-aa8e-195737a5cc7b_300x226.jpeg&quot;,&quot;height&quot;:226,&quot;width&quot;:300,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:41712,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null}" alt="" />        <style>          a.image2.image-link.image2-226-300 {            padding-bottom: 75.33333333333333%;            padding-bottom: min(75.33333333333333%, 226px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-226-300 img {            max-width: 300px;            max-height: 226px;          }        </style>
+</a>    <p>On the Anchorage-Girdwood side of the Arm, the geomorphology of the channel creates a great wave on the bigger tide differentials of the summer, and kayakers, SUPs [stand-up paddleboarders] and surfers all enjoy catching it. I have never caught the main wave in my cat, but I’ve enjoyed being on the moving currents — the ocean turns into a river for a few hours, and if you wait long enough (over 8 hours), you can ride the outgoing tide back to where you started. </p>
+    <div id="youtube2-PM3y6gVKSEs" class="youtube-wrap" data-attrs="{&quot;videoId&quot;:&quot;PM3y6gVKSEs&quot;,&quot;startTime&quot;:null,&quot;endTime&quot;:null}">
+      <iframe src="https://www.youtube-nocookie.com/embed/PM3y6gVKSEs?rel=0&amp;autoplay=0&amp;showinfo=0" frameborder="0" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true"></iframe>
+    </div>
+    <p>I’m sure you are enjoying your Airstream trip across the West. Make sure to get out of those developed campgrounds — even if you get the best site in the place, you are still within ear and eyeshot of all those neighbors. Practice more social distancing Any Forest Service road will get you some more solitude and adventure. </p>
+  </blockquote>
+  <p>Coincidentally I spent Labor Day weekend with an Alaskan and her wife, who live in Bremerton, Washington, and we all went mushroom hunting just outside Olympic National Park. It’s early in mushroom season but we managed to find a good number of chanterelles and <em>Laetiporus sulphureus</em>, a.k.a “chicken of the woods”:</p>
+<a class="image-link image2 image2-500-1100" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa6473494-557e-4c8f-ba95-3c89ee926170_1100x500.png"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa6473494-557e-4c8f-ba95-3c89ee926170_1100x500.png" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a6473494-557e-4c8f-ba95-3c89ee926170_1100x500.png&quot;,&quot;height&quot;:500,&quot;width&quot;:1100,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:1260693,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null}" alt="" />      <style>          a.image2.image-link.image2-500-1100 {            padding-bottom: 45.45454545454545%;            padding-bottom: min(45.45454545454545%, 500px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-500-1100 img {            max-width: 1100px;            max-height: 500px;          }        </style>
+</a>  <p>Just outside the national park, in Hoh Valley, a huge elk suddenly emerged from the woods 20 yards from me, crossed the road, waded across the river, and confronted another huge elk that was rubbing the velvet off his massive rack. The resulting tussle was quite a scene, especially on video, but here’s a snapshot:</p>
+<a class="image-link image2 image2-1092-1456" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F948fcb6c-0a59-4e91-bb70-a56d5416399a_4032x3024.jpeg"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F948fcb6c-0a59-4e91-bb70-a56d5416399a_4032x3024.jpeg" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/948fcb6c-0a59-4e91-bb70-a56d5416399a_4032x3024.jpeg&quot;,&quot;height&quot;:1092,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:2804960,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null}" alt="" />      <style>          a.image2.image-link.image2-1092-1456 {            padding-bottom: 75%;            padding-bottom: min(75%, 1092px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-1092-1456 img {            max-width: 1456px;            max-height: 1092px;          }        </style>
+</a>  <div>
+    <hr />
+  </div>
+  <p>This week: <strong>Hope, Alaska</strong>. Next week:</p>
+<a class="image-link image2 image2-889-1456" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F601e7f46-74bb-45c5-9bbc-2cc673767e70_2184x1334.png"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F601e7f46-74bb-45c5-9bbc-2cc673767e70_2184x1334.png" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/601e7f46-74bb-45c5-9bbc-2cc673767e70_2184x1334.png&quot;,&quot;height&quot;:889,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:4906350,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null}" alt="" />      <style>          a.image2.image-link.image2-889-1456 {            padding-bottom: 61.057692307692314%;            padding-bottom: min(61.057692307692314%, 889px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-889-1456 img {            max-width: 1456px;            max-height: 889px;          }        </style>
+</a>  <p>So, where do you think it’s located? Email your entry to <strong>contest@andrewsullivan.com</strong>. Please put the location — city and/or state first, then country — in the subject heading, along with any details about the location within the body of the email. The winner gets the choice of a <a href="https://www.blurb.com/b/955762-the-view-from-your-window">VFYW book</a> or two <a href="https://andrewsullivan.substack.com/subscribe?&amp;gift=true">gift subscriptions</a>. Happy sleuthing!</p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#The Weekly Dish 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2021-02-05/VFYW-Contest-Timeless-In-Tuscany/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2020-07-04/Stories-Of-Wokeness/">最早</a>--</span>
+    
+      <li>
+        <time>2020-09-18</time>
+        <a href="https://nodebe4.github.io/opinion/2020-09-18/VFYW-Contest-Escape-To-The-Emerald-Isle/">
+          VFYW Contest: Escape To The Emerald Isle
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-09-18</time>
+        <a href="https://nodebe4.github.io/opinion/2020-09-18/We-Are-All-Algorithms-Now/">
+          We Are All Algorithms Now
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-09-11</time>
+        <a href="https://nodebe4.github.io/opinion/2020-09-11/The-Logic-Of-Bell-Curve-Leftism/">
+          The Logic Of Bell Curve Leftism
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-09-04</time>
+        <a href="https://nodebe4.github.io/opinion/2020-09-04/VFYW-Contest-Tropical-Paradise-Or-War-Bunker/">
+          VFYW Contest: Tropical Paradise Or War Bunker?
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2020-09-11/VFYW-Contest-Get-To-Know-Hope/">
+            前一篇：VFYW Contest: Get To Know Hope
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2020-09-11/%E4%B8%AD%E5%85%B1%E6%B4%BE%E7%B3%BB%E9%AC%A5%E7%88%AD%E6%98%AF%E6%80%8E%E9%BA%BC%E5%BD%A2%E6%88%90%E7%9A%84-%E4%B8%AD%E5%85%B1%E6%B4%BE%E7%B3%BB%E9%AC%A5%E7%88%AD-%E8%A7%A3%E8%AE%80-0036-SinoInsider-20200911/">
+            後一篇：中共派系鬥爭是怎麼形成的｜「中共派系鬥爭」解讀【0036】SinoInsider 20200911
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2020-09-11/VFYW-Contest-Get-To-Know-Hope/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2020-09-11/%E4%B8%AD%E5%85%B1%E6%B4%BE%E7%B3%BB%E9%AC%A5%E7%88%AD%E6%98%AF%E6%80%8E%E9%BA%BC%E5%BD%A2%E6%88%90%E7%9A%84-%E4%B8%AD%E5%85%B1%E6%B4%BE%E7%B3%BB%E9%AC%A5%E7%88%AD-%E8%A7%A3%E8%AE%80-0036-SinoInsider-20200911/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2020-09-18/We-Are-All-Algorithms-Now/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2020-09-11/The-Logic-Of-Bell-Curve-Leftism/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2020-09-11/VFYW-Contest-Get-To-Know-Hope/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2020-09-11/%E4%B8%AD%E5%85%B1%E6%B4%BE%E7%B3%BB%E9%AC%A5%E7%88%AD%E6%98%AF%E6%80%8E%E9%BA%BC%E5%BD%A2%E6%88%90%E7%9A%84-%E4%B8%AD%E5%85%B1%E6%B4%BE%E7%B3%BB%E9%AC%A5%E7%88%AD-%E8%A7%A3%E8%AE%80-0036-SinoInsider-20200911/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<The Weekly Dish>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2020-09-18/We-Are-All-Algorithms-Now/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<The Weekly Dish>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2020-09-11/The-Logic-Of-Bell-Curve-Leftism/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

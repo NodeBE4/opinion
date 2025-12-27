@@ -1,0 +1,2561 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>EnclavedMicrostate在2022-08-01~2022-08-07的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="EnclavedMicrostate在2022-08-01~2022-08-07的言论" />
+    <meta property="twitter:title" content="EnclavedMicrostate在2022-08-01~2022-08-07的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2Fwargaming%2Fcomments%2Fwcwuq3%2Ftrying_out_this_system_for_the_first_time%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/wargaming/comments/wcwuq3/trying_out_this_system_for_the_first_time/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/wargaming/comments/wcwuq3/trying_out_this_system_for_the_first_time/&text=EnclavedMicrostate在2022-08-01~2022-08-07的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/wargaming/comments/wcwuq3/trying_out_this_system_for_the_first_time/&title=EnclavedMicrostate在2022-08-01~2022-08-07的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/wargaming/comments/wcwuq3/trying_out_this_system_for_the_first_time/&title=EnclavedMicrostate在2022-08-01~2022-08-07的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=EnclavedMicrostate在2022-08-01~2022-08-07的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/wargaming/comments/wcwuq3/trying_out_this_system_for_the_first_time/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/wargaming/comments/wcwuq3/trying_out_this_system_for_the_first_time/&title=EnclavedMicrostate在2022-08-01~2022-08-07的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=EnclavedMicrostate在2022-08-01~2022-08-07的言论&url=https://old.reddit.com/r/wargaming/comments/wcwuq3/trying_out_this_system_for_the_first_time/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>EnclavedMicrostate在2022-08-01~2022-08-07的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-08-07
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: EnclavedMicrostate</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/wargaming/comments/wcwuq3/trying_out_this_system_for_the_first_time/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#657-trying-out-this-system-for-the-first-time-submitted-on-2022-08-01-0333100800" id="markdown-toc-657-trying-out-this-system-for-the-first-time-submitted-on-2022-08-01-0333100800">657: Trying out this system for the first time, submitted on 2022-08-01 03:33:10+08:00.</a></li>
+  <li><a href="#658-why-are-some-frenchgermanenglish-names-hungarianized-like-king-lois-becoming-king-lajos-in-hungarian-submitted-on-2022-08-01-0843100800" id="markdown-toc-658-why-are-some-frenchgermanenglish-names-hungarianized-like-king-lois-becoming-king-lajos-in-hungarian-submitted-on-2022-08-01-0843100800">658: Why are some French/German/English names “Hungarianized”, like King Lois becoming King Lajos in Hungarian?, submitted on 2022-08-01 08:43:10+08:00.</a></li>
+  <li><a href="#659-when-does-ideology-and-culture-intersect-with-strategy-submitted-on-2022-08-01-0908000800" id="markdown-toc-659-when-does-ideology-and-culture-intersect-with-strategy-submitted-on-2022-08-01-0908000800">659: When does ideology and culture intersect with strategy?, submitted on 2022-08-01 09:08:00+08:00.</a></li>
+  <li><a href="#660-saw-it-for-sale-in-hk-anime-convention-submitted-on-2022-08-01-1608400800" id="markdown-toc-660-saw-it-for-sale-in-hk-anime-convention-submitted-on-2022-08-01-1608400800">660: Saw it for sale in HK Anime convention., submitted on 2022-08-01 16:08:40+08:00.</a></li>
+  <li><a href="#661-kneel-before-laplus-submitted-on-2022-08-01-2034050800" id="markdown-toc-661-kneel-before-laplus-submitted-on-2022-08-01-2034050800">661: kneel before Laplus, submitted on 2022-08-01 20:34:05+08:00.</a></li>
+  <li><a href="#662-p0mu-p0lka-pna-project---weekly-discussion-thread-august-1st-2022-submitted-on-2022-08-01-2308300800" id="markdown-toc-662-p0mu-p0lka-pna-project---weekly-discussion-thread-august-1st-2022-submitted-on-2022-08-01-2308300800">662: P0mu P0lka P!na Project - Weekly Discussion Thread, August 1st, 2022, submitted on 2022-08-01 23:08:30+08:00.</a></li>
+  <li><a href="#663-why-is-the-enterprise-the-only-ship-with-registry-repetition-submitted-on-2022-08-02-0955560800" id="markdown-toc-663-why-is-the-enterprise-the-only-ship-with-registry-repetition-submitted-on-2022-08-02-0955560800">663: Why is the Enterprise the only ship with registry repetition?, submitted on 2022-08-02 09:55:56+08:00.</a></li>
+  <li><a href="#664-would-the-japanese-have-surrendered-to-the-soviets-if-the-americans-hadnt-nukes-hiroshima-and-nagasaki-submitted-on-2022-08-02-1621590800" id="markdown-toc-664-would-the-japanese-have-surrendered-to-the-soviets-if-the-americans-hadnt-nukes-hiroshima-and-nagasaki-submitted-on-2022-08-02-1621590800">664: Would the Japanese have surrendered to the Soviets if the Americans hadn’t nukes Hiroshima and Nagasaki?, submitted on 2022-08-02 16:21:59+08:00.</a></li>
+  <li><a href="#665-eli5-how-did-the-us-rise-to-a-global-superpower-in-only-250-years-but-counties-that-have-been-around-for-1000s-of-years-are-still-under-developed-submitted-on-2022-08-02-1741260800" id="markdown-toc-665-eli5-how-did-the-us-rise-to-a-global-superpower-in-only-250-years-but-counties-that-have-been-around-for-1000s-of-years-are-still-under-developed-submitted-on-2022-08-02-1741260800">665: ELI5: How did the U.S. rise to a global superpower in only 250 years but counties that have been around for 1000s of years are still under-developed?, submitted on 2022-08-02 17:41:26+08:00.</a></li>
+  <li><a href="#666-marine-senchous-birthday-celebration-advertisement-in-hong-kong-situated-at-a-fitting-location-submitted-on-2022-08-02-2005210800" id="markdown-toc-666-marine-senchous-birthday-celebration-advertisement-in-hong-kong-situated-at-a-fitting-location-submitted-on-2022-08-02-2005210800">666: Marine senchou’s birthday celebration advertisement in Hong Kong situated at a… fitting location, submitted on 2022-08-02 20:05:21+08:00.</a></li>
+  <li><a href="#667-does-scepticism-of-china-really-mirror-anti-japanese-sentiment-of-the-past-submitted-on-2022-08-02-2355310800" id="markdown-toc-667-does-scepticism-of-china-really-mirror-anti-japanese-sentiment-of-the-past-submitted-on-2022-08-02-2355310800">667: Does Scepticism of China really mirror Anti Japanese Sentiment of the Past?, submitted on 2022-08-02 23:55:31+08:00.</a></li>
+  <li><a href="#668-a-soothsayer-warned-alexander-that-the-omens-indicated-danger-to-his-life-he-replied-with-i-dont-intend-to-let-anych-superstitious-crackpot-stand-in-my-way-isnt-this-very-out-of-character-for-alexander-the-great-submitted-on-2022-08-03-1015560800" id="markdown-toc-668-a-soothsayer-warned-alexander-that-the-omens-indicated-danger-to-his-life-he-replied-with-i-dont-intend-to-let-anych-superstitious-crackpot-stand-in-my-way-isnt-this-very-out-of-character-for-alexander-the-great-submitted-on-2022-08-03-1015560800">668: A soothsayer warned Alexander that the omens indicated danger to his life. He replied with ‘I don’t intend to let anych superstitious crackpot stand in my way.’ Isn’t this very out of character for Alexander the Great?, submitted on 2022-08-03 10:15:56+08:00.</a></li>
+  <li><a href="#secondary-sources-and-further-reading" id="markdown-toc-secondary-sources-and-further-reading">(Secondary) Sources and Further Reading:</a></li>
+  <li><a href="#669-2d-vs-3d-submitted-on-2022-08-03-1101010800" id="markdown-toc-669-2d-vs-3d-submitted-on-2022-08-03-1101010800">669: 2d vs 3d, submitted on 2022-08-03 11:01:01+08:00.</a></li>
+  <li><a href="#670-ex-rugby-star-dies-in-italy-after-suffering-heart-attack-while-brutally-beating-up-girlfriend-in-coke-fuelled-attack-submitted-on-2022-08-04-1650580800" id="markdown-toc-670-ex-rugby-star-dies-in-italy-after-suffering-heart-attack-while-brutally-beating-up-girlfriend-in-coke-fuelled-attack-submitted-on-2022-08-04-1650580800">670: Ex Rugby Star Dies in Italy After Suffering Heart Attack While Brutally ‘Beating Up Girlfriend’ in Coke-Fuelled Attack, submitted on 2022-08-04 16:50:58+08:00.</a></li>
+  <li><a href="#671-a-foreign-word-submitted-on-2022-08-04-2106240800" id="markdown-toc-671-a-foreign-word-submitted-on-2022-08-04-2106240800">671: A foreign word, submitted on 2022-08-04 21:06:24+08:00.</a></li>
+  <li><a href="#672-why-were-the-boxers-unable-to-defeat-heavily-outnumbered-surrounded-westerners-in-the-beijing-legation-quarter-submitted-on-2022-08-04-2339270800" id="markdown-toc-672-why-were-the-boxers-unable-to-defeat-heavily-outnumbered-surrounded-westerners-in-the-beijing-legation-quarter-submitted-on-2022-08-04-2339270800">672: Why were the Boxers unable to defeat heavily-outnumbered, surrounded Westerners in the Beijing Legation Quarter?, submitted on 2022-08-04 23:39:27+08:00.</a></li>
+  <li><a href="#673-what-if-the-chinese-reached-the-new-world-first-submitted-on-2022-08-05-0646130800" id="markdown-toc-673-what-if-the-chinese-reached-the-new-world-first-submitted-on-2022-08-05-0646130800">673: What if the Chinese reached the New World first?, submitted on 2022-08-05 06:46:13+08:00.</a></li>
+  <li><a href="#674-ceres-fauna-celebrates-600000-subscribers-submitted-on-2022-08-06-1036260800" id="markdown-toc-674-ceres-fauna-celebrates-600000-subscribers-submitted-on-2022-08-06-1036260800">674: 🎉Ceres Fauna🌿 celebrates 600,000 subscribers!🎉, submitted on 2022-08-06 10:36:26+08:00.</a></li>
+  <li><a href="#675-no-stopping-florida-man-submitted-on-2022-08-06-1609100800" id="markdown-toc-675-no-stopping-florida-man-submitted-on-2022-08-06-1609100800">675: No stopping Florida Man, submitted on 2022-08-06 16:09:10+08:00.</a></li>
+  <li><a href="#676-how-bad-was-opium-addiction-that-it-led-to-chinas-downfall-submitted-on-2022-08-06-1959000800" id="markdown-toc-676-how-bad-was-opium-addiction-that-it-led-to-chinas-downfall-submitted-on-2022-08-06-1959000800">676: How bad was opium addiction that it led to China’s downfall?, submitted on 2022-08-06 19:59:00+08:00.</a></li>
+  <li><a href="#677-what-if-china-taiwan--alternate-history-of-china-submitted-on-2022-08-06-2307510800" id="markdown-toc-677-what-if-china-taiwan--alternate-history-of-china-submitted-on-2022-08-06-2307510800">677: What If? China (Taiwan) | Alternate History Of China, submitted on 2022-08-06 23:07:51+08:00.</a></li>
+  <li><a href="#678-how-did-the-the-cpccommunist-party-of-china-name-get-changed-to-ccpcninese-communist-party-in-the-west-submitted-on-2022-08-07-1601370800" id="markdown-toc-678-how-did-the-the-cpccommunist-party-of-china-name-get-changed-to-ccpcninese-communist-party-in-the-west-submitted-on-2022-08-07-1601370800">678: How did the the CPC(Communist Party of China) name get changed to CCP(Cninese Communist Party) in the west?, submitted on 2022-08-07 16:01:37+08:00.</a></li>
+  <li><a href="#679-hobby-scuffles-week-of-august-8-2022-submitted-on-2022-08-07-2300130800" id="markdown-toc-679-hobby-scuffles-week-of-august-8-2022-submitted-on-2022-08-07-2300130800">679: [Hobby Scuffles] Week of August 8, 2022, submitted on 2022-08-07 23:00:13+08:00.</a></li>
+</ul>
+
+<h3 id="657-trying-out-this-system-for-the-first-time-submitted-on-2022-08-01-0333100800">657: <a href="https://old.reddit.com/r/wargaming/comments/wcwuq3/trying_out_this_system_for_the_first_time/">Trying out this system for the first time</a>, submitted on 2022-08-01 03:33:10+08:00.</h3>
+
+<p>—– <strong>657.1</strong> —–2022-08-01 10:13:33+08:00:</p>
+
+<p>Nice! I’ve played a test game with some Brigade Models Aeronef/Imperial Skies models and also managed to port it to TTS. I’m curious what you think of it – I feel like the rules are solid, but the fleet lists are horrifically poorly balanced points-wise.</p>
+
+<p>—– <strong>657.2</strong> —–2022-08-02 09:02:20+08:00:</p>
+
+<p>What in particular about the damage mechanics?</p>
+
+<p>—– <strong>657.3</strong> —–2022-08-02 13:23:44+08:00:</p>
+
+<p>I don’t believe that’s correct. The table says to subtract one ‘if firing ship has a Friction marker’, not that you subtract one <em>per</em> Friction marker. So while having Friction somewhat reduces firepower, it normally shouldn’t cancel it outright.</p>
+
+<p>EDIT: also to check, are you removing the total <em>number</em> on the dice, or the total <em>passes</em>? I believe it should be the former.</p>
+
+<h3 id="658-why-are-some-frenchgermanenglish-names-hungarianized-like-king-lois-becoming-king-lajos-in-hungarian-submitted-on-2022-08-01-0843100800">658: <a href="https://old.reddit.com/r/AskHistorians/comments/wd3puv/why_are_some_frenchgermanenglish_names/">Why are some French/German/English names “Hungarianized”, like King Lois becoming King Lajos in Hungarian?</a>, submitted on 2022-08-01 08:43:10+08:00.</h3>
+
+<p>—– <strong>658.1</strong> —–2022-08-01 10:44:53+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="659-when-does-ideology-and-culture-intersect-with-strategy-submitted-on-2022-08-01-0908000800">659: <a href="https://old.reddit.com/r/AskHistorians/comments/wd48qb/when_does_ideology_and_culture_intersect_with/">When does ideology and culture intersect with strategy?</a>, submitted on 2022-08-01 09:08:00+08:00.</h3>
+
+<p>—– <strong>659.1</strong> —–2022-08-01 10:45:22+08:00:</p>
+
+<p>This submission has been removed because it involves current events.  To keep from discussion of politics, we have a <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events">20-year rule</a> here.  You may want to try /r/ask_politics, /r/NeutralPolitics, or another current-events focused sub. For further explanation of this rule, feel free to consult <a href="https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/">this Rules Roundtable</a>.</p>
+
+<h3 id="660-saw-it-for-sale-in-hk-anime-convention-submitted-on-2022-08-01-1608400800">660: <a href="https://old.reddit.com/r/Hololive/comments/wdbu2o/saw_it_for_sale_in_hk_anime_convention/">Saw it for sale in HK Anime convention.</a>, submitted on 2022-08-01 16:08:40+08:00.</h3>
+
+<p>—– <strong>660.1</strong> —–2022-08-02 00:27:37+08:00:</p>
+
+<p>Wait, I did not see this, but dear god would I have bought it if I had…</p>
+
+<h3 id="661-kneel-before-laplus-submitted-on-2022-08-01-2034050800">661: <a href="https://old.reddit.com/r/Hololive/comments/wdgdfr/kneel_before_laplus/">kneel before Laplus</a>, submitted on 2022-08-01 20:34:05+08:00.</h3>
+
+<p>—– <strong>661.1</strong> —–2022-08-02 00:28:20+08:00:</p>
+
+<p>HK Exhibition Centre, looks like it was taken at Ani-Com today.</p>
+
+<h3 id="662-p0mu-p0lka-pna-project---weekly-discussion-thread-august-1st-2022-submitted-on-2022-08-01-2308300800">662: <a href="https://old.reddit.com/r/VirtualYoutubers/comments/wdjsb8/p0mu_p0lka_pna_project_weekly_discussion_thread/">P0mu P0lka P!na Project - Weekly Discussion Thread, August 1st, 2022</a>, submitted on 2022-08-01 23:08:30+08:00.</h3>
+
+<p>—– <strong>662.1</strong> —–2022-08-05 20:07:16+08:00:</p>
+
+<p>Interesting suggestion by a user on r/hololive that one issue <a href="https://www.reddit.com/r/Hololive/comments/wgsxog/mumeis_mv_cover_of_dan_dan_by_kanauru_has_been/ij1jwq9/">might be the KFP advertising on the not-Hindenburg</a>. Do you <em>necessarily</em> want your one Austrian talent associated with an airship that literally flew round with swastikas painted on the vertical stabilisers?</p>
+
+<h3 id="663-why-is-the-enterprise-the-only-ship-with-registry-repetition-submitted-on-2022-08-02-0955560800">663: <a href="https://old.reddit.com/r/DaystromInstitute/comments/wdz2d9/why_is_the_enterprise_the_only_ship_with_registry/">Why is the Enterprise the only ship with registry repetition?</a>, submitted on 2022-08-02 09:55:56+08:00.</h3>
+
+<p>—– <strong>663.1</strong> —–2022-08-02 18:26:46+08:00:</p>
+
+<p>I forget if Voyager-J gets specifically named as such, but during the finale arc of S3 Admiral Vance does definitely order it around a bit.</p>
+
+<h3 id="664-would-the-japanese-have-surrendered-to-the-soviets-if-the-americans-hadnt-nukes-hiroshima-and-nagasaki-submitted-on-2022-08-02-1621590800">664: <a href="https://old.reddit.com/r/AskHistorians/comments/we634h/would_the_japanese_have_surrendered_to_the/">Would the Japanese have surrendered to the Soviets if the Americans hadn’t nukes Hiroshima and Nagasaki?</a>, submitted on 2022-08-02 16:21:59+08:00.</h3>
+
+<p>—– <strong>664.1</strong> —–2022-08-02 16:56:26+08:00:</p>
+
+<p>Sorry, but your submission has been removed because we <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F">don’t allow hypothetical questions</a>. If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule <a href="https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/">here</a>.</p>
+
+<h3 id="665-eli5-how-did-the-us-rise-to-a-global-superpower-in-only-250-years-but-counties-that-have-been-around-for-1000s-of-years-are-still-under-developed-submitted-on-2022-08-02-1741260800">665: <a href="https://old.reddit.com/r/explainlikeimfive/comments/we7chi/eli5_how_did_the_us_rise_to_a_global_superpower/">ELI5: How did the U.S. rise to a global superpower in only 250 years but counties that have been around for 1000s of years are still under-developed?</a>, submitted on 2022-08-02 17:41:26+08:00.</h3>
+
+<p>—– <strong>665.1</strong> —–2022-08-02 22:48:04+08:00:</p>
+
+<p>‘Countries’ don’t really exist on the scale of hundreds of years,. ‘China’ in its modern form has only existed as far back as 1949 for instance (and whether you count that depends on whether you consider major changes after Mao’s death as substantive enough to count). Just because a country <em>says</em> it’s old doesn’t mean it <em>is</em>.</p>
+
+<h3 id="666-marine-senchous-birthday-celebration-advertisement-in-hong-kong-situated-at-a-fitting-location-submitted-on-2022-08-02-2005210800">666: <a href="https://old.reddit.com/r/Hololive/comments/we9xn6/marine_senchous_birthday_celebration/">Marine senchou’s birthday celebration advertisement in Hong Kong situated at a… fitting location</a>, submitted on 2022-08-02 20:05:21+08:00.</h3>
+
+<p>—– <strong>666.1</strong> —–2022-08-03 11:11:49+08:00:</p>
+
+<p>It’s next to a very busy pedestrian overpass.</p>
+
+<p>EDIT: Also (because I can’t believe I forgot this detail) there’s a good chance you’d pass by it while going to or leaving the Convention and Exhibition Centre, which you might do if you were at, say, Ani-Com, which ran there from last Friday until this Tuesday.</p>
+
+<h3 id="667-does-scepticism-of-china-really-mirror-anti-japanese-sentiment-of-the-past-submitted-on-2022-08-02-2355310800">667: <a href="https://old.reddit.com/r/AskHistorians/comments/wefc37/does_scepticism_of_china_really_mirror_anti/">Does Scepticism of China really mirror Anti Japanese Sentiment of the Past?</a>, submitted on 2022-08-02 23:55:31+08:00.</h3>
+
+<p>—– <strong>667.1</strong> —–2022-08-03 15:56:51+08:00:</p>
+
+<p>This submission has been removed because it involves current events.  To keep from discussion of politics, we have a <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events">20-year rule</a> here.  You may want to try /r/ask_politics, /r/NeutralPolitics, or another current-events focused sub. For further explanation of this rule, feel free to consult <a href="https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/">this Rules Roundtable</a>.</p>
+
+<h3 id="668-a-soothsayer-warned-alexander-that-the-omens-indicated-danger-to-his-life-he-replied-with-i-dont-intend-to-let-anych-superstitious-crackpot-stand-in-my-way-isnt-this-very-out-of-character-for-alexander-the-great-submitted-on-2022-08-03-1015560800">668: <a href="https://old.reddit.com/r/AskHistorians/comments/weu67k/a_soothsayer_warned_alexander_that_the_omens/">A soothsayer warned Alexander that the omens indicated danger to his life. He replied with ‘I don’t intend to let anych superstitious crackpot stand in my way.’ Isn’t this very out of character for Alexander the Great?</a>, submitted on 2022-08-03 10:15:56+08:00.</h3>
+
+<p>—– <strong>668.1</strong> —–2022-08-11 20:22:44+08:00:</p>
+
+<p>Well, the answer is no, and also yes, because we know very little for certain about Alexander as a person. This sounds weird, but let me explain. Because we have so many contradictory sources for Alexander, it is often difficult, if not impossible, for us to determine which specific telling of an event is closest to the truth. For instance, we have two completely different and irreconcilable versions of the Battle of the Granicus. And if we can’t even get the details of a <em>battle</em> straight, then our biographical portraits of the man are going to be even more of a mess. In broad terms, the sources for the life and times of Alexander can be divided into two traditions: an ‘official’ tradition based on pro-Macedonian sources, and a ‘Vulgate’ tradition based on largely anti-Macedonian sources but with varying degrees of pro-Alexander gloss applied. The principal representatives of the former camp are Arrian of Nikomedia’s <em>Anabasis of Alexander</em> and Plutarch’s <em>Life of Alexander</em>, while the latter includes Book 17 of Diodoros of Sicily’s <em>Library of History</em>, Quintus Curtius Rufus’ <em>History of Alexander the Great</em>, and Justin’s epitome of Books 10 and 11 of the <em>Philippic Histories</em> of Pompeius Trogus. Unsurprisingly, the soothsayer claim comes from the Vulgate.</p>
+
+<p>But in order to put it in context, we need to look at all five versions of the event, with the relevant section being the lead-up to Alexander scaling the ladders. Note that not all of the sources actually give it in any significant detail.</p>
+
+<blockquote>
+  <p>On the following day Alexander divided the army in two for the attack on the wall, leading one division himself with Perdiccas in command of the other. At this first stage the Indians did not resist the Macedonian onslaught, but abandoned the outer defences and congregated for refuge in the citadel. Alexander and his men now broke open a small gate and got inside the city long before the other troops under Perdiccas, who were slowed by their difficulty in negotiating the wall, as most of them had not even brought ladders, in the belief that the city had already been taken when they saw the outer walls denuded of defenders. But when it became clear to Perdiccas’ men that the citadel was still in enemy hands, and they could see large numbers marshalled for its defence, they made every effort to force their way in – undermining the wall, setting up scaling-ladders wherever they could. Alexander thought the Macedonians bringing up the ladders were too slow about it, so he seized a ladder from one of them, set it up against the wall himself, and, huddled under his shield, climbed up: Peucestas came up after him bearing the sacred shield which Alexander had taken from the temple of Athena at Troy and kept always with him, having it carried before him in his battles. He was followed up the same ladder by Leonnatus the Bodyguard, and Abreas, one of the soldiers on double pay, mounted by another ladder.</p>
+</blockquote>
+
+<blockquote>
+  <p>– Arrian, <em>Anabasis</em> 6.9.1-3</p>
+</blockquote>
+
+<blockquote>
+  <p>However, in attacking the people called Malli, who are said to have been the most warlike of the Indians, he came within a little of being cut down. For after dispersing the inhabitants from the walls with missiles, he was the first to mount upon the wall by a scaling ladder, and since the ladder was broken to pieces and he was exposed to the missiles of the Barbarians who stood along the wall below, almost alone as he was, he crouched and threw himself into the midst of the enemy, and by good fortune alighted on his feet.</p>
+</blockquote>
+
+<blockquote>
+  <p>– Plutarch, <em>Life of Alexander</em> 63.2-3</p>
+</blockquote>
+
+<blockquote>
+  <p>Alexander neared the first city and thought to take it by storm, but one of the seers, named Demophon,​ came to him and reported that there had been revealed to him by numerous portents a great danger which would come to the king from a wound in the course of the operation. He begged Alexander to leave that city alone for the present and to turn his mind to other activities. The king scolded him for dampening the enthusiasm of the soldiers, and then, disposing his army for the attack, led the way in person to the city, eager to reduce it by force. The engines of war were slow to come up, but he broke open a postern gate and was the first to burst into the city.​ He struck down many defenders and, driving the others before him, pursued them to the citadel.</p>
+</blockquote>
+
+<blockquote>
+  <p>The Macedonians were still busy fighting along the wall. Alexander seized a ladder, leaned it against the walls of the citadel, and clambered up holding a light shield above his head. So quick was he to act that he reached the top of the wall before the defenders could forestall him. The Indians did not dare to come within his reach, but flung javelins and shot arrows at him from a distance. He was staggering under the weight of their blows when the Macedonians raised two ladders and swarmed up in a mass, but both broke and the soldiers tumbled back upon the ground.</p>
+</blockquote>
+
+<blockquote>
+  <p>– Diodoros 17.91.2-6</p>
+</blockquote>
+
+<blockquote>
+  <p>After this the Macedonians came to the capital town of the Sudracae. Most of the enemy had sought refuge here, though their confidence in its walls was no greater than their confidence in their arms. Alexander was already making his move towards the town when a seer began to issue warnings against the siege which, he said, the king should at least postpone since it was predicted that his life was in danger. Alexander looked at Demophon (that was the seer’s name). If someone interrupted you like this,’ said the king, ‘when you were preoccupied with your craft and observing the entrails, I am sure you would consider him an exasperating nuisance.’ After Demophon replied that such would certainly be the case, Alexander continued: ‘When I have my mind on weighty matters and not on animal intestines, do you think anything could be a greater hindrance to me than a superstitious seer?’ Waiting only to give this reply, he ordered the ladders to be taken forward and, as the others hesitated, scaled the wall.</p>
+</blockquote>
+
+<blockquote>
+  <p>– Curtius 9.4.26-30</p>
+</blockquote>
+
+<blockquote>
+  <p>…next he sailed to the Mandri and Sigambri, who met him with eighty thousand foot and sixty thousand horse. Gaining the victory in a battle, he led his army against their city; and supposing, as he looked from the wall, which he had been the first to mount, that the place was destitute of defenders, he leaped down into the area of the city without a single attendant.</p>
+</blockquote>
+
+<blockquote>
+  <p>– Justin 12.9.3-5</p>
+</blockquote>
+
+<p>—– <strong>668.2</strong> —–2022-08-11 20:22:48+08:00:</p>
+
+<p>There are two key things to note from the above quotations. The first is that the intercession of Demophon at all only appears in two of the Vulgate accounts, and is absent from the ‘official’ tradition. The second is that the specific version where Alexander accuses Demophon of mere superstition is exclusive to Curtius’ retelling, and does not appear in Diodoros’. It is not unreasonable to infer that this story therefore derives from a common source, probably Kleitarchos; but also that Curtius, whose work includes a number of embellishments, both original to himself and derived from other sources, quite probably introduced his own dialogue that was not present in the original. Its absence from Plutarch’s account is interesting, as Plutarch had read Kleitarchos’ account, and so we need to consider a bit of Plutarch’s methodology: Plutarch’s preface to the <em>Life of Alexander</em> notes that his interest was in how particular episodes highlighted people’s character; at the same time, Plutarch tries to force his facts to conform to a narrative in which Alexander underwent a gradual moral degeneration that reached its peak in Babylon. This event, taking place in 325, just two years before Alexander’s death, surely fits both criteria, and so we might conclude that Plutarch did not consider it credible. Yet we also ought to consider that Plutarch tried to present Alexander as a sincere Panhellenist despite his apparent ‘Medising’, and in that case this episode might well have been excised as inconvenient, even if it was true. There is, in effect, no good resolution to the problem.</p>
+
+<p>The real question is, is this particular version internally consistent? And in the case of Peter Green’s biography, which attempts to reconcile many of the sources, it apparently isn’t. But within Quintus Curtius Rufus’ version, I would suggest that it very much is. After all, it is Curtius’ history, alone out of the literary sources, which claims Alexander solved the Gordian knot by cutting it in a moment of frustration, without <em>also</em> including the version where he unravelled it through removing a pin in a stroke of brilliance. What is significant is that this is less about Alexander, and more about <em>Curtius</em>, as Elizabeth Baynham argues. It is Curtius who is sceptical about omens, portents, and the like, and he in turn projects his own scepticism onto Alexander at points. Yet at the same time, he does so with a bit of wry irony, as this is not the first time in Curtius’ account that Alexander flagrantly disregards an apparent prophecy in such a way that he increases the chance it will come true. The first is at Gaza in Book 4, where Alexander is told by the seer Aristander that he will be wounded but take the city, and then is wounded while ‘fighting too readily among the foremost’. To quote Baynham, ‘it would be like someone receiving a warning about being hit by a truck, managing to avoid one accident, and then promptly standing in a multi-lane highway.’ The incident at the Malli fortress where Alexander is wounded is thus actually quite heavily foreshadowed within Curtius’ account.</p>
+
+<p>But, if we choose to look more broadly and in purely literary terms, there is a certain <em>thematic</em> consistency between Diororos, Curtius, and Arrian, namely in that all three highlight Alexander’s recklessness. Diodoros and Curtius do so through the character of Demophon, while Arrian does so in the course of the broader narrative of his action at the Mallian citadel. In Arrian’s account, after scaling the wall, Arrian puts himself in Alexander’s head and tries to paint a picture of his inner thoughts:</p>
+
+<blockquote>
+  <p>Standing there on the wall Alexander was the target of fire from all the surrounding towers within range (none of the Indians was prepared to approach him directly), and also from the men inside the citadel, who could shoot at short range from a pile of earth which happened to lie against the wall at that point. He could not conceal his identity – the magnificence of his armour and the exceptional show of courage betrayed him – and Alexander decided that to stay where he was without some dramatic move would put him in danger, but if he jumped down inside the citadel he could well cause panic in the enemy simply by that action: if not, and if he had to face the ultimate danger, he would die after putting up a heroic struggle fit for the wonder of future generations. This decision made, he jumped down from the wall into the citadel.</p>
+</blockquote>
+
+<blockquote>
+  <p>Arrian, <em>Anabasis</em> 6.9.5</p>
+</blockquote>
+
+<p>This, as A. B. Bosworth argues, is almost certainly a deliberate parallel to Hector’s last speech in the <em>Iliad</em>, translation below by, funnily enough, Peter Green:</p>
+
+<blockquote>
+  <p>“Alas! The gods have indeed now summoned me to my death!<br />
+I thought the hero Deïphobos was here by my side,<br />
+but he’s inside the wall—it’s Athēnē who’s been here deceiving me!<br />
+A vile death now awaits me—no longer distant, but close,<br />
+and no escape: this must always have been what Zeus was after,<br />
+he and his son, the deadly archer: at one time they<br />
+were glad to protect me; but now my fate has caught up with me.<br />
+So let me die—not ingloriously, or without a struggle,<br />
+but having done some great deed for those unborn to learn of.”</p>
+</blockquote>
+
+<blockquote>
+  <p>Homer, <em>Iliad</em> 297-305</p>
+</blockquote>
+
+<p>Now, Alexander survived this encounter, while Hector did not survive his, but this parallel highlights how Arrian presents Alexander as increasingly pushing his luck by his later years, and behaving in increasingly reckless ways. These were ways that paid off, mind you, and Arrian never really stops his hero-worship either, but he does strongly foreshadow Alexander’s eventual death through episodes such as this. So while the specific notion of Alexander dismissing omens may not be consistent with Arrian, the idea of his general recklessness is.</p>
+
+<p>Speaking of Arrian, I wanted to raise as a final coda the suggestion that Arrian’s own description of Alexander’s motives is itself problematic. The politics of the early Successor conflicts after Alexander’s death did exercise some influence on the ‘first-generation historians’ on whom the surviving accounts are based, and this is <em>especially</em> true in the case of Arrian, who relied principally on the account of Ptolemy I <em>Sōtēr</em>, composed probably at some point between 306 and 300 BCE. This is <em>extra</em> relevant when Perdikkas is involved, as Perdikkas, who was handed the regency of Alexander’s empire on his deathbed, was murdered by his own officers in 321/0 after a series of inept decisions made during his attempt to subdue Ptolemy, who received the defection of Perdikkas’ army afterward. You will note that in Arrian’s account of the lead-up to Alexander’s storming the wall, he accuses Perdikkas of failing to actually bring the ladders up, and that Alexander seized one himself because he believed them to be moving too slowly. This is only one of at least four episodes in the <em>Anabasis of Alexander</em> in which Perdikkas is denounced as unreliable, inept, insubordinate, or all three:</p>
+
+<ul>
+  <li>1.8 (335): Perdikkas is accused of launching his attack on Thebes uncoordinated and having to be bailed out by Alexander’s main body.</li>
+  <li>1.21 (334): Some troops under Perdikkas’ command get drunk and attempt to storm the gates of Halikarnassos, drawing in the army and nearly taking control of the city, but the defenders build a set of backup defences that hold.</li>
+  <li>6.6 (325): Perdikkas is ordered to keep watch on a Mallian city and not to engage unless given orders to, but arrives to find the city evacuated and so chases and massacres the refugees on his own initiative.</li>
+  <li>6.9 (325): The incident under discussion, where Perdikkas attempts to storm another Mallian city without bringing ladders, and has to be bailed out by Alexander.</li>
+</ul>
+
+<p>You may be sensing a pattern here. In short, if we are to be sceptical of the claim that Alexander tried to storm the walls out of contempt for a soothsayer, then we ought to be equally, if not <em>more</em> sceptical of the claim that he did it out of contempt for Perdikkas.</p>
+
+<h3 id="secondary-sources-and-further-reading">(Secondary) Sources and Further Reading:</h3>
+
+<ul>
+  <li>
+    <p>A. B. Bosworth, ‘Arrian, Alexander, and the Pursuit of Glory’, in John Marincola (ed.), <em>A Companion to Greek and Roman Historiography, Volume I</em> (2007)</p>
+  </li>
+  <li>
+    <p>Elizabeth Baynham, <em>Alexander the Great: The Unique History of Quintus Curtius Rufus</em> (1998)</p>
+  </li>
+</ul>
+
+<p>—– <strong>668.3</strong> —–2022-08-13 11:57:01+08:00:</p>
+
+<p>Robin Waterfield’s <em>Dividing the Spoils</em> is a decent narrative treatment, though it has a couple of notable issues – see <a href="https://www.tandfonline.com/doi/abs/10.1080/03612759.2012.644511?journalCode=vhis20">this review</a> (which should be fully visible in free preview) for some of them. If you want a longer account covering the Successor kingdoms, Peter Green’s <em>Alexander to Actium</em> is old but a decent framing of a period that is, on the whole, lacking in narrative sources.</p>
+
+<h3 id="669-2d-vs-3d-submitted-on-2022-08-03-1101010800">669: <a href="https://old.reddit.com/r/Hololive/comments/wev4ae/2d_vs_3d/">2d vs 3d</a>, submitted on 2022-08-03 11:01:01+08:00.</h3>
+
+<p>—– <strong>669.1</strong> —–2022-08-04 12:47:32+08:00:</p>
+
+<blockquote>
+  <p>I think Miko has even mentioned she doesn’t have a 2D model for her more recent outfits because she’s been using her 3D only for a long time.</p>
+</blockquote>
+
+<p>Miko, Sora, and Roboco are the only three Holomems who debuted as 3D and have never had Live2D models. Sora and Roboco were originally supposed to be part of the Hololive AR app that wouldn’t have supported Live2D, while Miko was a separate Cover project to Hololive when she first debuted.</p>
+
+<h3 id="670-ex-rugby-star-dies-in-italy-after-suffering-heart-attack-while-brutally-beating-up-girlfriend-in-coke-fuelled-attack-submitted-on-2022-08-04-1650580800">670: <a href="https://old.reddit.com/r/worldnews/comments/wfw49x/ex_rugby_star_dies_in_italy_after_suffering_heart/">Ex Rugby Star Dies in Italy After Suffering Heart Attack While Brutally ‘Beating Up Girlfriend’ in Coke-Fuelled Attack</a>, submitted on 2022-08-04 16:50:58+08:00.</h3>
+
+<p>—– <strong>670.1</strong> —–2022-08-04 19:04:12+08:00:</p>
+
+<p>So. A best outcome then.</p>
+
+<h3 id="671-a-foreign-word-submitted-on-2022-08-04-2106240800">671: <a href="https://old.reddit.com/r/perfectlycutscreams/comments/wg0t2l/a_foreign_word/">A foreign word</a>, submitted on 2022-08-04 21:06:24+08:00.</h3>
+
+<p>—– <strong>671.1</strong> —–2022-08-05 09:59:01+08:00:</p>
+
+<p>As Sana anyway. She did start a Youtube account under her original handle but it’s not yet particularly active.</p>
+
+<p>—– <strong>671.2</strong> —–2022-08-05 12:35:19+08:00:</p>
+
+<p>Namie aka Namgoreng, Youtube handle banaNamie.</p>
+
+<h3 id="672-why-were-the-boxers-unable-to-defeat-heavily-outnumbered-surrounded-westerners-in-the-beijing-legation-quarter-submitted-on-2022-08-04-2339270800">672: <a href="https://old.reddit.com/r/AskHistorians/comments/wg4de0/why_were_the_boxers_unable_to_defeat/">Why were the Boxers unable to defeat heavily-outnumbered, surrounded Westerners in the Beijing Legation Quarter?</a>, submitted on 2022-08-04 23:39:27+08:00.</h3>
+
+<p>—– <strong>672.1</strong> —–2022-08-05 01:26:33+08:00:</p>
+
+<p>More can of course be said, especially by someone who has read up on the Boxers in more detail more recently and can thus remember the details better, but as I note in passing in <a href="https://www.reddit.com/r/AskHistorians/comments/q9pvuv/why_did_the_qing_government_support_the_boxers/hgysbu9/">this past answer</a>, the siege of the Legations was primarily an effort of the Qing regular army overseen by Ronglu, who was an anti-Boxer with reformist sentiments and seems to have been reluctant to prosecute the siege to the fullest extent.</p>
+
+<h3 id="673-what-if-the-chinese-reached-the-new-world-first-submitted-on-2022-08-05-0646130800">673: <a href="https://old.reddit.com/r/imaginarymaps/comments/wgelxf/what_if_the_chinese_reached_the_new_world_first/">What if the Chinese reached the New World first?</a>, submitted on 2022-08-05 06:46:13+08:00.</h3>
+
+<p>—– <strong>673.1</strong> —–2022-08-07 15:29:55+08:00:</p>
+
+<p>It’s a little odd that the Qing are described as insurrectionists rather than invaders in the history section.</p>
+
+<h3 id="674-ceres-fauna-celebrates-600000-subscribers-submitted-on-2022-08-06-1036260800">674: <a href="https://old.reddit.com/r/Hololive/comments/whdcgp/ceres_fauna_celebrates_600000_subscribers/">🎉Ceres Fauna🌿 celebrates 600,000 subscribers!🎉</a>, submitted on 2022-08-06 10:36:26+08:00.</h3>
+
+<p>—– <strong>674.1</strong> —–2022-08-06 12:22:58+08:00:</p>
+
+<blockquote>
+  <p>Qilin</p>
+</blockquote>
+
+<p>Kirin technically, if we’re going by the Japanese rendering.</p>
+
+<h3 id="675-no-stopping-florida-man-submitted-on-2022-08-06-1609100800">675: <a href="https://old.reddit.com/r/dankmemes/comments/whj1x2/no_stopping_florida_man/">No stopping Florida Man</a>, submitted on 2022-08-06 16:09:10+08:00.</h3>
+
+<p>—– <strong>675.1</strong> —–2022-08-06 21:04:48+08:00:</p>
+
+<p>Classic zero-shits expat behaviour.</p>
+
+<h3 id="676-how-bad-was-opium-addiction-that-it-led-to-chinas-downfall-submitted-on-2022-08-06-1959000800">676: <a href="https://old.reddit.com/r/AskHistorians/comments/whmngx/how_bad_was_opium_addiction_that_it_led_to_chinas/">How bad was opium addiction that it led to China’s downfall?</a>, submitted on 2022-08-06 19:59:00+08:00.</h3>
+
+<p>—– <strong>676.1</strong> —–2022-08-07 01:36:54+08:00:</p>
+
+<p>As is often the case these days, I’ve discussed similar questions quite often, the answers to which are linked <a href="https://www.reddit.com/r/AskHistorians/wiki/profiles/enclavedmicrostate#wiki_opium_wars_and_opium_in_china">here</a>, but I felt it worth at least a brisk response tailored to this particular version thereof, especially as my own thoughts have evolved.</p>
+
+<p>The core complication with discussing opium in China is that there is more than one approach, although these approaches are not mutually contradictory. One is a sort of ‘objective’ or ‘material’ approach, employed quite a bit by Dikötter <em>et al</em>. in <em>Narcotic Culture</em> (2004), which tries to assess opium consumption in largely quantitative and scientific terms, and argue on that basis how many opium consumers there were and how severe their consumption was. The other is a more ‘subjective’ or ‘cultural’ approach that takes a purely qualitative, cultural view of opium, exemplified by Yangwen Zheng’s <em>The Social Life of Opium in China</em> (2005), and mainly concerns discourses around opium consumption. Note, of course, that even the same work can employ both – <em>Narcotic Culture</em> includes plenty of discursive analysis as well as data, and so too does Man-Houng Lin’s <em>China Upside Down</em>. Both have their uses and limitations, which may be more or less apparent depending on your route of enquiry, and by extension, each draws a slightly different conclusion.</p>
+
+<p>If we look at things purely from a hard, material standpoint, then the trajectory of opium consumption in China basically just went upward from 1800 to 1910, and fluctuated a bit until the 1950s when the Communist Party began a relatively successful crackdown on drug usage. Up until the 1870s this was driven by an increase in opium imports, from about 4000 chests per year in 1800 to a peak of 80,000 in 1880. Thereafter, imported opium was increasingly outcompeted by domestic opium production within China itself, peaking at 540,000 chests per annum in 1906, with the collapse of the Qing in 1911 and the instability of the ROC making subsequent output hard to quantify with certainty. How many opium smokers that translates to is hard to quantify, as we would need to answer a lot of questions to define what a ‘smoker’ even is (as just one example, is just smoking on special occasions enough to count, or do you have to do it with some degree of regularity?), and we also don’t have a good estimate for average consumption, which may range anywhere from eight to twenty grams per day depending on which contemporary observers’ estimates you go by, what their metrics were, and based on what contexts. Now, we can give a relative assessment of the quantities of opium consumption over time: for instance, there were probably about 150x as many smokers in 1906 as in 1800, if we presume that the average consumption amount was the same in both years (not necessarily a self-evident assumption to make), given 4000 imported chests a year in 1800, and 50,000 imported and 540,000 domestically-produced chests for a total of 590,000 in 1906. But that’s not the same as an absolute number relative to population, and even that would, moreover, only be the first step towards assessing the economic, societal, and cultural effects of opium use.</p>
+
+<p>The economic side of things, which is what you angle at, has been the subject of considerable debate aimed squarely at the material dimensions thereof. Traditionally, the argument went that the opium trade directly drained China of silver and wreaked havoc on its monetary economy, and latterly opium addiction destroyed productivity. The revisionist scholarship has disputed both of these points. On the economics front, while there is no firm consensus as to what <em>did</em> cause the ‘silver drain’, there is agreement as to it not being opium. Man-Houng Lin argues that it related primarily to downturns in Latin American precious metal production in the 1820s, while Richard von Glahn and Werner Burger have argued that it instead relates to failures in Qing monetary policy and the over-minting of copper coinage, in conjunction with an outflow of silver, but on a substantially smaller scale than previously believed (von Glahn proposes a silver outflow in 1818-54 of less than half what Lin calculated). To be honest, I have to admit defeat on ever really understanding the economics, but the broad conclusion is that the Qing’s early 19th century economic crisis had far more to do with the vicissitudes of monetary policy than merely the introduction of opium, especially as Qing China started running an annual trade surplus again from the late 1850s until the 1880s, despite year-on-year increases in opium imports in the same period. On the productivity front, this is where it gets more complicated and contentious. Dikötter <em>et al.</em> argued that the anecdotal correlation between opium and lack of productivity by foreign observers can be explained by virtue of opium being a recreational drug: people smoked when they had nothing to do; they didn’t stop doing things because they smoked. Also highlighted was data that showed that at the local level, opium consumption decreased during periods of economic downturn, suggesting that opium users were able to moderate their consumption in line with financial stress. Dikötter <em>et al.</em>’s arguments verge on the polemical, but there are, I would argue, some valuable takeaways, including the incredible difficulty of attempting to ascribe any degree of quantified economic impact to opium and opium alone.</p>
+
+<p>When we look at opium from a cultural standpoint, the situation becomes a little more fluid. We can point to the existence of a moral panic over opium on the part of <em>some elites</em> in the late 1830s and early 1840s, but this died down in the wake of the Opium War as other matters became the new hot-button political issues of their time. There were some flare-ups of grassroots anti-opium action in the following decades, most notably on the part of the Taiping, in conjunction with considerable argument for prohibition coming from the missionary community and portions of the foreign diplomatic community as well. But a large-scale moral objection to opium within China would not resurface until around the turn of the twentieth century, leading to attempts at control and prohibition such as the Anglo-Chinese opium treaty of 1906, before being frustrated by the emergence of warlord regimes and their use of opium as a means of raising revenue.</p>
+
+<p>Assessing the actual quantity of opium users is, as noted, difficult, though it must be said that the situation is not as dire as a total lack of information, and having some kind of ballpark figure does help to contextualise claims about the economic and social effects of the drug. However, we run into the potential issue that the number may never have been that high. Estimates consistently seem to have put the number not much higher than about 1%: claims in the early 1830s circulated by and in response to moral crusaders like Huang Jueci put it at one in every hundred; Robert Hart in 1871 estimated it at below a third of one percent; Xue Fucheng in 1891 estimated there were 4 million users out of 400 million total population; and a 1935 survey suggested there were 3.73 million opium users out of a total national population of 479 million. For a modern comparison, a July 2019 Gallup poll saw 12% of Americans self-identifying as marijuana users. When we have that in mind, how much effect <em>would</em> 1% (at most) of the population consuming a particular narcotic have? Not nothing, certainly, but it’s a small enough number to at least cause questions to be asked about whether the contemporary moral panic was ever proportionate to the actual material reality, detrimental as that may well have been.</p>
+
+<p>—– <strong>676.2</strong> —–2022-08-07 02:09:32+08:00:</p>
+
+<p>It was concentrated wherever availability was high. During the early to mid 19th century this was ports and the coast, and to a lesser extent major cities where internal smuggling rings operated (but of course that would make prices higher thanks to the cost of transport and thus have less appeal to those less able to afford it), but as domestic production ramped up, any opium-growing locale was likely to have substantial local consumers of the product. There’s an interesting set of figures produced by the European-run Peking Hospital in 1869 reproduced by Yangwen Zheng, estimating that field labourers in what it defined as ‘cultivation provinces’ were 40-60% users, compared to 4-6% for field labourers as a whole. How reliable these figures are, I’m not too sure (and to be honest, I feel like some are considerable overestimates or even bad maths), but they probably reflect more than just a kernel of truth when it comes to relative levels.</p>
+
+<p>—– <strong>676.3</strong> —–2022-08-07 02:48:16+08:00:</p>
+
+<p>It would depend on what kind you were smoking and where: going by Zheng’s reproductions of 1880s figures, one <em>qian</em> (or ‘mace’, about 3.8g) of Indian, Sichuan, or Yunnan opium would usually cost 8 copper cash in most cities, while one <em>qian</em> of opium from other provinces could be purchased for as low as 4; prices would vary, and not always with great consistency, with prices for Indian opium ranging from 4 to 12 cash per <em>qian</em> in Wenzhou and 12 to 18 in Canton. Contemporaneous reports put the ‘daily toleration level’ for an ‘average’ smoker at around 3 <em>qian</em> per day. Now, that would mean 12-24 copper cash per day to feed a habit, or 360-720 per month. According to Sidney Gamble’s survey of wages for unskilled labourers in the 19th century, published in 1943, unskilled labourers might expect to earn 380 cash a month in the period 1860-1902, which means that at least on paper, an opium habit would be pretty unaffordable to an unskilled labourer even with all other costs of living disregarded. Yet we must square this against the apparently relatively common use of opium by ‘coolie’ labourers.</p>
+
+<p>There may be a few explanations: one is that for some, addiction was severe enough to lead to this self-bankruptcy. Another is that ‘official’ prices may have been overstated. And we also ought to consider a married individual would also have further income – but also further expenses – due to their spouse’s labour. But the matter perhaps most worth noting is that the figures point to 3 <em>qian</em> or so as the <em>upper tolerable limit</em> for an average consumer. Based on other detail from these 1880s reports, it seems the average consumer could smoke about 1 to 1.5 <em>qian</em> per day ‘without any ill effects’, which may be a more reasonable upper limit for ordinary consumption. That now puts us in the ballpark of 180 cash per month at the low end, still over half of one’s income, if we assume one was smoking the cheapest opium at market price at the lowest upper limit daily. On top of that, though, we ought to account for the fact that not all smokers bought refined opium directly: some dens would sell essentially re-used opium in the form of raw opium mixed with opium ash to produce a somewhat adulterated product that could be sold for less. What’s not clear is whether people still smoked more to get the full chemical quantity, or whether it was simply quantity of pipes smoked that mattered.</p>
+
+<p>If we approach it more qualitatively, the impression we get is that opium was often affordable <em>enough</em> to get into, but that those who got addicted and were unable to significantly moderate their consumption would find the costs multiplying substantially.</p>
+
+<p>—– <strong>676.4</strong> —–2022-08-07 03:16:44+08:00:</p>
+
+<p>I honestly couldn’t tell you, but a decent jumping-off point, at least for the 1830s-50s, would probably be found in the latter chapters of Man-Houng Lin’s <em>China Upside Down</em>.</p>
+
+<p>—– <strong>676.5</strong> —–2022-08-07 10:23:10+08:00:</p>
+
+<p>That’s a factor I hadn’t considered, but which would also be a very plausible reason for how consumption could persist despite the apparently high reported costs.</p>
+
+<p>—– <strong>676.6</strong> —–2022-08-07 10:27:31+08:00:</p>
+
+<p>While ‘chest’ wasn’t an exact measure, in general it corresponded to about 140 pounds or 64 kilograms. In terms of comparison with US heroin use, a cursory Google search notes that surveys done in 2013 and 2020 put the percentage of over-12s in the US who had used heroin in the last 12 months at 0.3%. So opium was definitely used on a larger scale in China than heroin is in the US, at least by the turn of the 20th century.</p>
+
+<p>—– <strong>676.7</strong> —–2022-08-07 10:37:29+08:00:</p>
+
+<p>You’ve hit on yet another variation on the same problem already highlighted: it’s not as though officials weren’t already corrupt in the late 18th century, so how do we then discuss the effects of opium int the early 19th?</p>
+
+<p>A thing to add is that while my superficial calculations put the cost quite high, if we look at consumption trends, then it is pretty clear from the 1810s onward that the price of opium was driven down, apparently to the point of being affordable to day labourers. A lot of the elite panic in the 1830s, and the simmering but less overt anti-opium condemnation in subsequent decades, can be at least in part ascribed to opium losing its exclusive, luxury status.</p>
+
+<p>One thought that I hadn’t had while writing the previous posts, but which does warrant some consideration, is that opium appears to have been consumed by men more than by women. I don’t think that’s a basis for saying that opium was thus more economically destructive than if patterns of consumption had been gender-agnostic, because women’s labour was absolutely important part of household incomes and of macro-economic patterns, but I do think it may have contributed to the scale of the condemnation in what were essentially male-monopolised spaces.</p>
+
+<p>—– <strong>676.8</strong> —–2022-08-07 13:20:41+08:00:</p>
+
+<p>I must confess, I really haven’t kept up that well with new scholarship in the last three years or so, so if there’s been something new and good I probably don’t know of it. The problem with a lot of what I’ve read is everything has <em>some</em> kind of flaw to it.</p>
+
+<p>Stephen Platt’s <em>Imperial Twilight</em> is the most solid narratively and academically, but it also happens to only cover the lead-up to the First Opium War and that’s it, which means it is also, unfortunately, the least relevant to someone looking to get a narrative covering the actual periods of conflict. Julia Lovell’s <em>The Opium War</em> is the… least bad, let’s say… of all the options, but it’s secretly a synthesis of mostly older and some newer scholarship, followed by a few original chapters on the Opium War’s cultural memory which are well worth reading. One of her main sources, Mao Haijian’s <em>Collapse of the Heavenly Dynasty</em>, is now available in English translation and offers a very good coverage of the Qing side, albeit one heavily framed around Chinese popular narratives which may mean its choices of emphasis may seem odd. James Polachek’s <em>The Inner Opium War</em> is a rather difficult book to get one’s hands on, but it’s a valuable read on Qing domestic politics, albeit one with a somewhat outdated framing. There are essentially no good single volumes on the Arrow War, or Second Opium War. J. Y. Wong’s <em>Deadly Dreams</em> is an interesting and detailed analysis of the lead-up to the war, but doesn’t cover the war itself, while his biography of Ye Mingchen does cover the early part of the conflict but not its more climactic and infamous period in 1858-60. In effect, there are few good options and many bad ones, so I can at best give tentative recommendations for Platt’s book (which is very good but probably not exactly what you’re asking for) and Lovell’s (which is the most relevant but sort of okay-decent at best).</p>
+
+<p>—– <strong>676.9</strong> —–2022-08-07 20:03:08+08:00:</p>
+
+<p>I didn’t cite these figures primarily because they were not to hand. Indeed, I have had a difficult time finding the report itself. As a result it is not possible for me to say whether the figures in that report were based on the same metrics as the other estimates: was it 21.5 million people who had <em>ever</em> used opium, 21.5 who had used it in a given timeframe, or 21.5 million ongoing users? Moreover, we ought to account for the specific circumstances under which the Report was produced: the figures were being provided by a Qing state with a particularly strong intention of attacking the trade, and thus an incentive to exaggerate the severity of the problem before their intervention and in turn the success of their policies in tackling it; and published through foreign observers who had always held an alarmist view of opium consumption. Production (and in turn, we might infer, consumption) appears to have hit a verifiable peak around the mid-1900s for sure, but a claim that 5% of the population had smoked in 1906 when a domestically-produced estimate in 1891 had put it at 1%, while a presumably more scientific survey in 1935 put it below 1%, would mark out that particular period as extraordinarily anomalous even if we can accept the figures as true.</p>
+
+<p>I’d also caution against simply multiplying the population figure by 4 to get the number of adult male smokers and also to use that figure to measure the effect on the economy and society: for one there were plenty of women who smoked opium, even if fewer than men by a significant margin; for another, women also contributed to the economy and were no less part of wider society.</p>
+
+<p>—– <strong>676.10</strong> —–2022-08-09 10:57:32+08:00:</p>
+
+<p>In effect, I am very sceptical of modern non-Chinese writers somehow devising higher estimates than even the most alarmist of contemporaneous Chinese commentators. There may be any number of ways these figures might have come about: dividing total import numbers by some arbitrary figure for average annual consumption might give wildly varying numbers depending on what that assumed annual consumption figure is, for instance. The other thing is that during the war itself, quite obviously the British would be encountering larger numbers of smokers because they operated exclusively next to major bodies of water (the sea and the Yangtze) which were of course the routes by which opium entered the country to begin with. If these sources were obtained by extrapolation from local contexts, that might also explain a lot. After all, if you go by consumption figures in Guangdong and extrapolate to the empire, you will get a considerable overestimate, whereas if you go by consumption figures in, say, Henan, and extrapolate that, you will get a considerable <em>under</em> estimate.</p>
+
+<h3 id="677-what-if-china-taiwan--alternate-history-of-china-submitted-on-2022-08-06-2307510800">677: <a href="https://old.reddit.com/r/imaginarymaps/comments/whqhh6/what_if_china_taiwan_alternate_history_of_china/">What If? China (Taiwan) | Alternate History Of China</a>, submitted on 2022-08-06 23:07:51+08:00.</h3>
+
+<p>—– <strong>677.1</strong> —–2022-08-07 15:25:24+08:00:</p>
+
+<p>‘Manuchia’?</p>
+
+<h3 id="678-how-did-the-the-cpccommunist-party-of-china-name-get-changed-to-ccpcninese-communist-party-in-the-west-submitted-on-2022-08-07-1601370800">678: <a href="https://old.reddit.com/r/AskHistorians/comments/wiadxk/how_did_the_the_cpccommunist_party_of_china_name/">How did the the CPC(Communist Party of China) name get changed to CCP(Cninese Communist Party) in the west?</a>, submitted on 2022-08-07 16:01:37+08:00.</h3>
+
+<p>—– <strong>678.1</strong> —–2022-08-07 16:26:45+08:00:</p>
+
+<p>Apologies, but we have removed your question in its current form as it breaks our <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">rules concerning the scope of questions</a>. However, it might be that an altered version of your question would fit within our rules, and we encourage you to reword your question to fit the rule. While we do allow questions which ask about general topics without specific bounding by time or space, we do ask that they be clearly phrased and presented in a way that can be answered by an individual historian focusing on only one example which they can write about in good detail.</p>
+
+<p>So for example, if you wanted to ask, “<em>Have people always rebelled against health rules in pandemics?</em>” we would remove the question. As phrased, it asks broadly about many places collectively. However if you ask “<em>In the time and place you study, how did people rebel against health rules in a pandemic?</em>” we would allow the question. As phrased, while still asking broadly, it does so in a way that clearly invites a given expert to write exclusively about their topic of focus! We encourage you to think about rewording your question to fit this rule, and thank you for your understanding. If you are unsure of how best to reshape your question to fit these requirements, <a href="https://www.reddit.com/message/compose/?to=/r/AskHistorians">please reach out to us for assistance</a>.</p>
+
+<p>That said, I do believe I have the answer to this question (which I will happily also repost if the question is), that being that the official Mandarin name of the Communist Party of China is 中国共产党 <em>Zhonghua Gongchan Dang</em>, which, if translated in that order, would be ‘Chinese Communist Party’. In this case, ‘of China’ and ‘Chinese’ are both being used with the same intended meaning, but the official translation used by the CCP/CPC differs from the more literal, but equally valid, colloquial translation.</p>
+
+<h3 id="679-hobby-scuffles-week-of-august-8-2022-submitted-on-2022-08-07-2300130800">679: <a href="https://old.reddit.com/r/HobbyDrama/comments/wihowq/hobby_scuffles_week_of_august_8_2022/">[Hobby Scuffles] Week of August 8, 2022</a>, submitted on 2022-08-07 23:00:13+08:00.</h3>
+
+<p>—– <strong>679.1</strong> —–2022-08-08 09:56:32+08:00:</p>
+
+<p>I remember it being played by several Hololive members shortly after coming out - funnily enough, it was one of the games played by time-themed member Ouro Kronii during her debut week. It may not have been a great game to play, but I won’t lie, it was fun watching people play it.</p>
+
+<p>—– <strong>679.2</strong> —–2022-08-09 11:44:58+08:00:</p>
+
+<p>Ah yes, the ‘vomity dwarves’ problem <a href="https://www.reddit.com/r/HobbyDrama/comments/vcu34h/tabletop_wargaming_4ground_fades_into_the/">(context here)</a>.</p>
+
+<p>—– <strong>679.3</strong> —–2022-08-09 11:47:59+08:00:</p>
+
+<p>I tend to be interested in most things that aren’t sports, but there are some which are mostly about sciencey nerding out which just doesn’t appeal either. For obvious reasons I will read anything VTubery, assuming I didn’t write it to begin with.</p>
+
+<p>—– <strong>679.4</strong> —–2022-08-10 02:37:35+08:00:</p>
+
+<p>The only thing I know about the Magnus Archives is that it gummed up my IFTTT feed because a lot of posts on its subreddit tripped an applet I had set up to check for the word ‘Taiping’. I have no idea if the Taiping Heavenly Kingdom was part of it because I never cared enough to even ctrl-F to find where the word popped up, but that’s how I heard of it.</p>
+
+<p>—– <strong>679.5</strong> —–2022-08-10 11:33:30+08:00:</p>
+
+<p>Could be. I forget if it’s still the case, but for a good while the applet was so sensitive that it presumed that ‘taiping’ was the continuous verb form of ‘taip’, the Lithuanian word for ‘yes’, and that meant I got a <em>bunch</em> of Lithuanian subs (most frequently lithuania_abdl or something similar… yeah) gumming up that feed and I just turned it off for a while.</p>
+
+<p>—– <strong>679.6</strong> —–2022-08-10 21:32:30+08:00:</p>
+
+<p>Anything’s a hobby if you squint hard enough. And, for what it’s worth, arguably one of the first VTubers was a virtual weather presenter, and we get plenty of VTuber stuff here, ergo…</p>
+
+<p>—– <strong>679.7</strong> —–2022-08-12 10:58:10+08:00:</p>
+
+<p>What’s the source of the Nazi claim? I’ve seen claims of her doing Islamophobic and racist art (which seems par for the course, considering) and bestiality art (which I find <em>weird</em> but at least isn’t overtly harmful), but the Nazi bit I haven’t seen substantiated.</p>
+
+<p>—– <strong>679.8</strong> —–2022-08-12 11:13:53+08:00:</p>
+
+<blockquote>
+  <p>difficult to have a good public image in China unless there is some heavy censorship.</p>
+</blockquote>
+
+<p>That’s true of basically anything though, not just fanfiction. It’s kind of hard to make anything fly under an ultranationalist, neo-traditionalist regime.</p>
+
+<p>—– <strong>679.9</strong> —–2022-08-12 12:40:59+08:00:</p>
+
+<p>Ah, it was drawn for her then. And she was… looking forward to seeing it in person. Oh dear.</p>
+
+<p>—– <strong>679.10</strong> —–2022-08-12 12:42:27+08:00:</p>
+
+<p>True, I don’t want to undersell the degree of specifically state-sanctioned homophobia and just general queerphobia involved. But that also ties in with ultranationalism and eugenicism as part of a wholesale package of awful, but which affects different people disproportionately.</p>
+
+<p>—– <strong>679.11</strong> —–2022-08-12 13:30:28+08:00:</p>
+
+<p>Same here; saw Silvervale playing it and was like ‘wait… this isn’t Genshin, but it’s not <em>not</em> Genshin either…’</p>
+
+<p>—– <strong>679.12</strong> —–2022-08-12 13:34:23+08:00:</p>
+
+<blockquote>
+  <p>I think she had Quasimodo painting Civil War soldier figurines at one point</p>
+</blockquote>
+
+<p>…where did he <em>get</em> them from? The first tin soldiers weren’t produced until the 1730s, some two and a half centuries after the setting of Victor Hugo’s original novel.</p>
+
+<p>—– <strong>679.13</strong> —–2022-08-12 21:10:09+08:00:</p>
+
+<blockquote>
+  <p>I can excuse the “uniforms are hot” part</p>
+</blockquote>
+
+<p>You can excuse the “uniforms are hot” part!?</p>
+
+<p>—– <strong>679.14</strong> —–2022-08-13 00:40:13+08:00:</p>
+
+<p>I assume she brought back a record player too?</p>
+
+<p>—– <strong>679.15</strong> —–2022-08-13 02:12:41+08:00:</p>
+
+<p>Specifically:</p>
+
+<p>https://www.reddit.com/r/HobbyDrama/comments/wihowq/hobby_scuffles_week_of_august_8_2022/ijwfyr8/</p>
+
+<p>https://www.reddit.com/r/HobbyDrama/comments/wihowq/hobby_scuffles_week_of_august_8_2022/ijwhhwf/</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-08-09</time>
+        <a href="https://nodebe4.github.io/opinion/2022-08-09/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-08-08~2022-08-14的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-08-07</time>
+        <a href="https://nodebe4.github.io/opinion/2022-08-07/theoryofdoom/">
+          theoryofdoom在2022-08-01~2022-08-07的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-08-03</time>
+        <a href="https://nodebe4.github.io/opinion/2022-08-03/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-08-01~2022-08-07的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-07-31</time>
+        <a href="https://nodebe4.github.io/opinion/2022-07-31/EnclavedMicrostate/">
+          EnclavedMicrostate在2022-07-25~2022-07-31的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-08-06/Nancy-Pelosi%E8%A8%AA%E5%8F%B0%E5%89%8D%E5%BE%8C-%E8%A8%98%E4%B8%80%E4%BD%8D%E4%B8%AD%E5%B9%B4%E7%B2%89%E7%B4%85%E7%9A%84%E5%8F%8D%E6%87%89/">
+            前一篇：Nancy Pelosi訪台前後|記一位中年粉紅的反應
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-08-07/HeQinglian/">
+            後一篇：Twitter @He Qinglian: 2022-08-01~2022-08-07
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-08-06/Nancy-Pelosi%E8%A8%AA%E5%8F%B0%E5%89%8D%E5%BE%8C-%E8%A8%98%E4%B8%80%E4%BD%8D%E4%B8%AD%E5%B9%B4%E7%B2%89%E7%B4%85%E7%9A%84%E5%8F%8D%E6%87%89/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-08-07/HeQinglian/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-08-07/theoryofdoom/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-08-03/ForeignAffairsMag/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-08-06/Nancy-Pelosi%E8%A8%AA%E5%8F%B0%E5%89%8D%E5%BE%8C-%E8%A8%98%E4%B8%80%E4%BD%8D%E4%B8%AD%E5%B9%B4%E7%B2%89%E7%B4%85%E7%9A%84%E5%8F%8D%E6%87%89/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-08-07/HeQinglian/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-08-07/theoryofdoom/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-08-03/ForeignAffairsMag/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

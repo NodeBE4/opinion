@@ -1,0 +1,2358 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Spinkcat在2020-09-07~2020-09-13的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Spinkcat在2020-09-07~2020-09-13的言论" />
+    <meta property="twitter:title" content="Spinkcat在2020-09-07~2020-09-13的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FChina_irl%2Fcomments%2Finz1tw%2F%E6%98%AF%E4%BB%80%E4%B9%88%E6%88%90%E5%B0%B1%E4%BA%86%E4%B8%AD%E5%9B%BD%E8%BF%9140%E5%B9%B4%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%A5%87%E8%BF%B9%E4%BD%A0%E7%9C%8B%E5%A5%BD%E4%B8%AD%E5%9B%BD%E6%9C%AA%E6%9D%A5%E7%9A%84%E5%8F%91%E5%B1%95%E5%90%97%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/China_irl/comments/inz1tw/是什么成就了中国近40年的经济奇迹你看好中国未来的发展吗/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/China_irl/comments/inz1tw/是什么成就了中国近40年的经济奇迹你看好中国未来的发展吗/&text=Spinkcat在2020-09-07~2020-09-13的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/China_irl/comments/inz1tw/是什么成就了中国近40年的经济奇迹你看好中国未来的发展吗/&title=Spinkcat在2020-09-07~2020-09-13的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/China_irl/comments/inz1tw/是什么成就了中国近40年的经济奇迹你看好中国未来的发展吗/&title=Spinkcat在2020-09-07~2020-09-13的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Spinkcat在2020-09-07~2020-09-13的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/China_irl/comments/inz1tw/是什么成就了中国近40年的经济奇迹你看好中国未来的发展吗/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/China_irl/comments/inz1tw/是什么成就了中国近40年的经济奇迹你看好中国未来的发展吗/&title=Spinkcat在2020-09-07~2020-09-13的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Spinkcat在2020-09-07~2020-09-13的言论&url=https://old.reddit.com/r/China_irl/comments/inz1tw/是什么成就了中国近40年的经济奇迹你看好中国未来的发展吗/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Spinkcat在2020-09-07~2020-09-13的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2020-09-12
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://www.reddit.com/user/Spinkcat/" style="font-size:14px;">作者: Spinkcat</a>
+        </span>
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/China_irl/comments/inz1tw/是什么成就了中国近40年的经济奇迹你看好中国未来的发展吗/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#1077-是什么成就了中国近40年的经济奇迹你看好中国未来的发展吗-submitted-on-2020-09-07-1022180800" id="markdown-toc-1077-是什么成就了中国近40年的经济奇迹你看好中国未来的发展吗-submitted-on-2020-09-07-1022180800">1077: 是什么成就了中国近40年的经济奇迹？你看好中国未来的发展吗？, submitted on 2020-09-07 10:22:18+08:00.</a></li>
+  <li><a href="#1078-纽约时报选举人团制度将毁掉美国-submitted-on-2020-09-11-1435000800" id="markdown-toc-1078-纽约时报选举人团制度将毁掉美国-submitted-on-2020-09-11-1435000800">1078: 纽约时报：选举人团制度将毁掉美国, submitted on 2020-09-11 14:35:00+08:00.</a></li>
+  <li><a href="#1079-后续德国发现非洲猪瘟案例-担心中国或暂停进口猪肉--早报-submitted-on-2020-09-11-2156000800" id="markdown-toc-1079-后续德国发现非洲猪瘟案例-担心中国或暂停进口猪肉--早报-submitted-on-2020-09-11-2156000800">1079: 后续：德国发现非洲猪瘟案例 担心中国或暂停进口猪肉 | 早报, submitted on 2020-09-11 21:56:00+08:00.</a></li>
+  <li><a href="#1080-文革的发动为什么没有波及中央演变成一次真正意义上的民主化革命-submitted-on-2020-09-12-0050530800" id="markdown-toc-1080-文革的发动为什么没有波及中央演变成一次真正意义上的民主化革命-submitted-on-2020-09-12-0050530800">1080: 文革的发动为什么没有波及中央，演变成一次真正意义上的民主化革命？, submitted on 2020-09-12 00:50:53+08:00.</a></li>
+  <li><a href="#1081-赵盛烨必要时毁灭世界-submitted-on-2020-09-12-2241170800" id="markdown-toc-1081-赵盛烨必要时毁灭世界-submitted-on-2020-09-12-2241170800">1081: 赵盛烨：必要时毁灭世界, submitted on 2020-09-12 22:41:17+08:00.</a></li>
+</ul>
+
+<h3 id="1077-是什么成就了中国近40年的经济奇迹你看好中国未来的发展吗-submitted-on-2020-09-07-1022180800">1077: <a href="https://old.reddit.com/r/China_irl/comments/inz1tw/是什么成就了中国近40年的经济奇迹你看好中国未来的发展吗/">是什么成就了中国近40年的经济奇迹？你看好中国未来的发展吗？</a>, submitted on 2020-09-07 10:22:18+08:00.</h3>
+
+<p>—– <strong>1077.1</strong> —–2020-09-07 14:28:12+08:00:</p>
+
+<p>其实谈过很多次了，但我也觉得有必要长篇大论认真来谈，因为我相信会有人想搞清楚，，这也是我一直很担心的一件事，因为未来牵扯的不再是键盘问题，大多数人应该这个时候已经意识到了，到摊牌的分水岭了，所以意识到我们怎么崛起发展，也有利于我们怎么跟世界相融共处。</p>
+
+<p>而基本事实大致是存在一个脉络：</p>
+
+<p>发达国家的消费成本过高，商业需求外溢，需要一个低成本的生产国来降低生活水平。</p>
+
+<p>在过去这种方式在农业社会无法长期维持，人口过多就很容易陷入马尔萨斯陷阱，崩溃再重组，中国地理就是一个典型可以制造大量人口，又会导致人口过密然后自噬的环境。</p>
+
+<p>技术提升后，大航海时代靠掠夺外部劳动力与原材料，获得了生产的必要资源，国内的基层劳工则通过原材料制造商品来生产。</p>
+
+<p>马克思所处的年代就是这种情况仍有惯性的十九世纪，工业时代的中前期，这个时候技术提升让资源生产本身压力也不大，但另一个问题来了，那就是消费需求，生产力既没有到可以给基层大量的资源来促进国内消费，又不能提供足够消费去吸收产出，所以就是不断的爆发矛盾与战争，社会进行自噬消灭人口。</p>
+
+<p>而二战后，技术的再次爆发，让发达国家与发展中国家之间形成了一种良性关系，需求开始大于生产本身溢出，生产很容易拉高，但需求很难制造（比如十九世纪有很多发达国家靠战争来强制倾销）</p>
+
+<p>发达国家的人口需求，决定了下游产业链的规模与发展速度，美国在战后提出马歇尔计划，在欧洲拉动了大量的订单，希望获得更多工作的欧洲人开始利用美国人寻求低成本产品的需求下，一步步开始复苏，并且包括英国在战争中损失比欧陆主要战场小，也能提供长期订单。</p>
+
+<p>这里的受益者就是北欧国家，他们一方面有外部需求可以提供大量的自然资源，另一方面在完成订单时，也在发展自己的工业与科技技术，在人口少又产出高的同时，政策容易转向，移民少，分歧低（自然条件决定了北欧在过去是烂地），所以北欧才是一个“我们认为的”典范。</p>
+
+<p>当欧陆国家都发展差不多时，同期的日本也在承接大量来自于美国或其他国家的订单，进而有了多次景气期，昭和后半段开始超高速发展，而包括欧洲和日本在内，这些国家的高速发展，都跟他们承接更富裕的国家的订单有关，并且这些地区的人口较少，很快就会转型升级，日本1亿多人口，战后从一片废墟与经济崩溃，不到四十年就重新崛起成世界具影响力的强国。</p>
+
+<p>人口更少的欧洲或其他洲的小国，他们往往没人注意到就已经发展起来了，因为人口实在很少，没发展的人口就像一个容器一样，上游产业链国家的人口规模所诞生的需求，决定了倒入这个容器的速度。</p>
+
+<p>那么总算来到正题了，中国的发展，就是因为在改革开放时，当其时负责承接上游国家经济需求的容器差不多满了，或者说还没满，但承载能力不够（战后的四小龙、日本、北欧、欧陆其他国家，加在一起也没中国人多）。</p>
+
+<p>而印度还没有从计划经济制度里抽离，少数在政策与制度上准备好迎接商业需求输入的国家，基本现在都不太差，比如新加坡、马来西亚。</p>
+
+<p>中国则是同时具备地理与地缘优势，地理上中国被四小龙包围，其中三个距离最近的庞大人力市场就是中国大陆，同时还包括高达1亿人口的发达国家，也即是日本。</p>
+
+<p>更重要的是，中国有香港的天然商业优势，这种不可取代的地缘优势，在改革开放初期，香港商团北上，在左右派斗争中替改革开放派背书，让中国改革开放走向市场化彻底在国内政治上站稳了脚跟（但即便这样陈云到八十年代后期还说改革差不多也该结束了）</p>
+
+<p>而香港在这个过程里，对国内输入了完全不可替代的技术、模式、管理经验还有相关知识，当时国内从上到下，真的都是摸石头过河，改革开放初期搞的那些经济特区，只有深圳最终成功，也是跟这个有关，甚至国内的土地财政、市场化下商品住宅以及大量的基础经济政策，都是从香港学来的（梁振英就是靠这个上位，上海和深圳的土地政策很多都是他参与）</p>
+
+<p>假设没有香港这个窗口，很可能更多发达国家会转而投资南美或东南亚，中国是在这么多地区里，在迎接发达国家寻找下一个容器时，刚好站在了最适合并且最合格的位置。</p>
+
+<p>你看印度合适么？他们到91年才正式开始自由化的市场经济改革，一直到两千年初大概零五年到零八年时才整体上算摆脱，中国1978年时基本已经准备好改革，早了十几年。</p>
+
+<p>东南亚、北非和南美一堆烂地，政治不稳定，东南亚离得近的新加坡才几百万人，带不来那么多的需求，很多地方甚至还停留在左右派无休止的恶斗中。</p>
+
+<p>中国虽然当时工业基础在前三十年的大肆破坏下，甚至某些地方比战争时期还倒退，但社会大体通过拨乱反正，无论左右派斗争求变这个前提下，有很强的凝聚力，并且还有香港这么好的一个跳板，既确立内部的路线，又对外展示了中国的改革的潜力。</p>
+
+<p>日本一度跟中国有过蜜月期，台湾同根同源，也有很多人随港商入境，地理和准备上决定了中国的今天。</p>
+
+<p>同时，早期改革派领导下，在经济政策与解绑社会活力上，解决了很多复杂的问题，让计划经济的制度最终能够接轨市场经济，你换左派保守派执政要是按他们的路子来，中国现在估计已经快进到打内战了。（当然，幸运的是，左派保守派在六四后转型，贵族化下仍然沿用改革派留下的框架与人才储备，但确立自己既得利益的同时，也造就了中国后来畸形房价、低人权优势与难以改革的后续问题）</p>
+
+<p>当时苏联和印度如果寻求有效的改革，不是不可能参与到这种分红当中，但他们自己把自己玩死了就不该怪别人，苏联甚至僵硬到哪怕改革都是走从上往下的路子，改革来的也太晚，85年才开始，中国民间倒爷都各个长头发大墨镜一身西装卖从香港偷运过来的邓丽君卡带了，苏联人还在那排队等面包。</p>
+
+<p>而且真正的改革到88年才比较大规模的推行，在那之前随便弄点事，都引起保守派不满，到最后苏联就是死在僵硬的保守派政变这件事里。</p>
+
+<p>中国作为一个有十几亿人的“容器”，跟几百万人或者全球第二大的发达国家日本不同，中国这十几亿人，可以吸收无比庞大的商业需求，全球大量的资本都来到中国，并且需要中国这么多且便宜的人力生产，等于一块海绵榨干了有限的水流。</p>
+
+<p>这也是为什么当代没有过去那种同时期，有多个甚至复数国家超高速经济发展，并且相对较短时期变成发达国家，很多小国十几年基本完成累积，开始国内成本过高于是进行劳动权益改革，这就导致国内劳动成本高，变相转型内需消费，带动本国经济之余，开放性的自由化政策也让知识分子能在文娱与技术领域全面发挥。</p>
+
+<p>一些规模更大的，比如日本和西德，摸到发达国家的门槛从一片废墟到广场协议，也就三四十年的时间，中间还有多次经济衰退与再次蓬勃。</p>
+
+<p>中国改革开放从1978年开始算，到现在已经42年，仍然没有完全具备日本或德国同时期的水准，一方面跟人口过于庞大有关，另一方面是寡头集团对中国潜力锁死在一个有利于他们的社会政策上（户籍制度制造低人权优势，劳工权益不受保障换来的是内需上不去，转型困难资源分配效率低下）</p>
+
+<p>即便中国人口是日本的十几倍，但我认为如果没有锁死的问题，中国现在发展到日本八十年代的水平也是没问题的，并且不会只集中于少数一二线城市（其实二线也不咋地，去过都懂），中国完全走向发达国家，没有寡头集团的情况，国家正常按照社会基本需求来改革与治理，波折下我认为也就六十年左右，可以很好的走完正常国家从发展中转型为发达国家的路。</p>
+
+<p>长远来看，我是看好中国的，但一个短期，可能是二十年到三十年，我不看好，必须要有一个时期，还掉寡头集团利己政策对中国社会的伤害，然后慢慢恢复，中国就会变成一个庞大的溢出来源，全球二十几亿发达人口，需要的会是另一半二三十亿的发达人口，这可以惠及全球绝大部分发展中国家。</p>
+
+<p>所以中国改革，不止是利己，长远来说按照市场经济规律，也是在有利全球。</p>
+
+<p>中国不改革，那就是寡头集团对外输出内卷化，他们是农业时代威权主义的残留物，在现代他们没有生存的空间，只能靠损害社会的良性秩序来维持自己的生产。</p>
+
+<p>那么，我们到底是会被**“看不见的手”强制自噬**到内战减少大量人口与优势，把发展机会在浪费了这几十年后，被强制让渡给其他国家的族群让他们来做我们本应该做到的事？</p>
+
+<p>还是我们自己有这个能力迈过贵族寡头集团这道坎，向前文所述一样迈步变成一个极其庞大的发达国家，从而跟其他发达国家一样，溢出大量的文化、技术、与商业需求，让人类社会变得更好呢？</p>
+
+<p>这真的是个当下存疑的问号了。</p>
+
+<p>—– <strong>1077.2</strong> —–2020-09-11 21:20:57+08:00:</p>
+
+<p>我觉得现在社会就是在一个中国作为新兴发达国家，为全人类社会提供一次超高爆发力的跳台准备阶段。</p>
+
+<p>因为这么多人口，理论上要么是自己能发展的很好还带动其他国家，要么是你发展不好内卷到最后引发大规模混乱，</p>
+
+<p>党国更像是一种限制器，我们能挑战打破这种解锁，就是走向发达国家和全人类共荣。</p>
+
+<p>如果不能，那就是限制器作为“看不见的手”减少我们人口与竞争优势，强制让出生存空间给其他地区的人类。</p>
+
+<p>我最担心的是后者，因为技术奇点大概本世纪中叶到下半叶就应该会出现了，再往后全球大规模动荡的可能性很小，中国如果偏偏在技术奇点让生产力爆炸前才栽跟头，再被东南亚和印度国家抓机会超前，对我们的民族和社会都有长远的负面影响。</p>
+
+<p>—– <strong>1077.3</strong> —–2020-09-11 21:28:11+08:00:</p>
+
+<p>没有写博客的习惯，我觉得互动和紧跟时事才有效果。</p>
+
+<p>就我接触了解，和我自己一定的思考认为，哪怕是寡头贵族集团里，也不是没有一丁点的改革观念或进步力量，还是有很多人意识到了社会要改，当然可能他们没有想一下就改到天翻地覆，但至少是让社会进步的。</p>
+
+<p>现在习近平代表的就是这个集团里最核心最保守的力量，并且可以说绑架了大多数，而其他一些主体虽然没他这样激进，但也不像一些人那样开放。</p>
+
+<p>目前就是习近平主导下，这个集团内部都开始分裂，过去那种模棱两可不要进步改革，又要保守权益的日子一去不复返，只有抛弃集团本身才有希望。</p>
+
+<p>中共改革其实八十年代末就已经彻底结束了，后期只有改良和优化，改革还是对框架做真正改动。</p>
+
+<p>像温家宝，他是共青团跟胡锦涛一样都是胡耀邦带出来的人，也跟赵紫阳工作过，他们在任上实际上维护这个体制的，但也不能说他们没有改革的想法，也跟赵紫阳说的那样，胡赵都是他们带的人，他们很清楚胡赵是做不了改革者的。</p>
+
+<p>所以说出来，肯定是有想法，推动未必有勇气或能力。</p>
+
+<p>至于习近平的改革，其实就是开倒车美曰其名改革而已，把市场经济改回计划经济也是一种改革。</p>
+
+<p>经济倒逼政治仍然有这种可能，但越来越小吧，主要是现在还没到经济恶化到极点出连锁反应的时候。</p>
+
+<p>现在真的从头到尾认真改还是有机会的，但习近平在台上其实大家都懂，新上台的人又可能是什么样的，这都是没数的，搞不好还不如习近平。</p>
+
+<p>江泽民开始的技术性官僚就全都是没有固定立场的守成，左右派的斗争结束后，就是以保守化为基础缓慢的推动加强控制社会的政策，胡锦涛也认为是要管的，到习近平这里是大功告成了，而且比前两位还激进露骨。</p>
+
+<p>—– <strong>1077.4</strong> —–2020-09-11 21:53:11+08:00:</p>
+
+<p>Ray Dalio这人跟王岐山还有很多中共高层有密切关系，有传闻说他负责很多高层家族的财富管理，所以立场存疑，当然先不谈这个，谈事实的话。</p>
+
+<p>中国的货币政策，是不可能脱离政府行政和政治问题的，他说的这个刚好相反，欧洲的货币政策基于传统角度，的确是在缩小，但中国的货币政策则更小。</p>
+
+<p>而两者面对的社会和政治问题却不同，欧洲面对的是政府职能的平衡与再缩小，中国则是在试图加强政府的一切职能和影响的边际，这就造成了行政主导经济和市场主导经济的核心区别。</p>
+
+<p>对前者而言，货币政策是一种通过不断投入行政财政资源进行刺激经济的做法，政府成了经济的推动者。</p>
+
+<p>对后者而言，市场和消费者本身有自驱性，这也是内需能上来，而行政主导下内需很难上来的原因。</p>
+
+<p>欧洲实际上不是没有技术革命，相反还很多，我不知道怎么定义没有，而且跟货币政策不一定有关，因为市场流通货币用于支付和转嫁成本的规模来说，欧洲是完全足够的，当然可能因为美元更容易流通且方便，所以更多欧洲公司和人才会无障碍的到美国去开设企业。</p>
+
+<p>欧美的社会形态是有一种自己折腾自己但又能回到自然生态平衡位的情况，社会的一切都是一种“沉淀”，并非很刻意的由人去主导维持社会不出现危机，而是遵循合理的制度与人性，在斗争里拉锯出一个平衡的规则与范围。</p>
+
+<p>所以不是社会主语和资本主义，欧美只会是资本主义，世界上不存在真正社会主义的国家，只有威权主义与自由主义为基础的资本社会，威权多的就是所谓的社会主义，行政主导，封闭的叫计划经济或社会主义，开放市场化的叫寡头社会，中等程度的叫中国模式，轻一些的叫新加坡模式，自由化就是欧美的路线了。</p>
+
+<p>贫富差距对美国或者对全球国家来说，是主要需要被解决的问题，但它也是社会的基本结构，是不可能靠人力去爆发推翻社会组织来改变的，只能是通过生产力慢慢提高，以及合理的再分配去降低贫富差距的烈度，改变基层生活从而减少社会矛盾。</p>
+
+<p>越大的国家越难做到，美国就是个很糟糕的例子，人口太多，自治属性太强，欧洲小国就好很多，政策覆盖容易。</p>
+
+<p>因为政府是一个行政端组织，一切权力都是需要等一个反馈过程，所谓官僚化就是常见于这类组织中，是传统与弊病，国家越大，需要多层级的反馈，所以很多地方政府的补助来的更快，但比中央来的也更少，而越大的国家，中央政府都必然越大，这就是小国的好处，大国都是竞争激烈的淘汰服。</p>
+
+<p>中国问题的本质，或者说唯一且最大的，就是中共当局的统治地位，中美关系恶化，只是加速这个问题走向一个历史分歧点，美国不可能解决中国的政治问题，但可能因为他们自己的利益需求，不经意间刺激了这个走向。</p>
+
+<p>Ray Dalio作为中国高层的老朋友，和比较惯常喜欢相说美国衰落和中国崛起论调的，虽然评论他是不是立场就一定歪，这个不能盖棺定论，但就我们对党国的了解…….所以我就不进一步评论了。</p>
+
+<p>外国人谈中国经济和中国崛起，其实很少或者从来不会谈中国的政治与社会基础问题，有时候他们是不知道，有时候他们是知道了不愿意去说。</p>
+
+<p>类似的还有李光耀，李光耀对外批评欧美民主或自由化，但他自己在新加坡，为了管制稳定，仍然需要通过事实民主与给予部分自由化来解决执政危机，这就是说一套做一套。</p>
+
+<p>—– <strong>1077.5</strong> —–2020-09-12 07:29:26+08:00:</p>
+
+<p>我觉得最差的情况是中国的崛起与发展，被延后五十年，因为如果中国三十年内人口红利消失，转型失败，后发优势被印度和东南亚取代，被强制性转移发展机会给他们，那参考我们都隐约感觉到的下一次工业革命，比如AI、核聚变、虚拟空间和BCI，这些推广下可以制造非常大的商业需求。</p>
+
+<p>那到时候就算中国没有跟印度和东南亚一样真正转型，也已经是C字型被包围，附近大部分国家都会需要中国的生产，发达国家的商业需求仍然会有数十亿人的规模，中国仍然可以从中获取机会。</p>
+
+<p>只不过我们不知道当下“飞机失灵”是真的坠毁，还是我们可以抢下驾驶室改航道。</p>
+
+<p>习近平是活不到那么久的，他能到九十岁就不错了，家族史上没出过特别长寿的，而且就算到九十岁，也没有任何能力执政，江泽民就是例子，这方面我到不担心。</p>
+
+<h3 id="1078-纽约时报选举人团制度将毁掉美国-submitted-on-2020-09-11-1435000800">1078: <a href="https://old.reddit.com/r/China_irl/comments/iqldiq/纽约时报选举人团制度将毁掉美国/">纽约时报：选举人团制度将毁掉美国</a>, submitted on 2020-09-11 14:35:00+08:00.</h3>
+
+<p>—– <strong>1078.1</strong> —–2020-09-11 22:00:38+08:00:</p>
+
+<p>选举人团制度还是有实际意义的，的确有改革空间，这个我觉得就是个很现实的问题。</p>
+
+<p>如果没有选举人团，人口大州可以无限制的对其他地区的小州施加政策影响。</p>
+
+<p>但美国是联邦制度，其他州的土地和人口资源都有意义，选举人团是保障其他人口少的小州作为联邦一部分，能保持联邦完整性的存在。</p>
+
+<p>举个例子加州人口不断增加，在全国吊打所有州，其他州怎么选都是输，出来民主党总统。</p>
+
+<p>那显然其他州独立成新的国家自己选总统来执行本地政策更划算，而且随着人口流失，在一个联邦内，这些国家的人口只会越来越少，甚至很多土地是荒地。</p>
+
+<p>除非美国分裂，而投票者的公民选票有普遍性，但公民的社会身份与阶级、观念和文化却不具备普遍性，所以经常有人说选举人票的倾斜性不符合民主，可从保持国家完整性的民主角度来看，这就是当下还适用的做法。</p>
+
+<p>美国是个巨大的多民族、多文化、多地域与多价值观的耦合器，本身就必须存在这种铰链式的拉锯和政治绞肉机。</p>
+
+<p>我觉得美国像其他普通发达民主国家一样运作，才是不正常的。</p>
+
+<p>—– <strong>1078.2</strong> —–2020-09-12 07:22:34+08:00:</p>
+
+<p>我感觉党争影响不大的重点是，发达的工业社会，市场和社会本身，都不需要依赖行政端主导运作，基本上行政端上台能强势干预经济的，都需要国会支持，这一点无论总统还是国会，都直接受选民覆盖。</p>
+
+<p>所以经济越发达，政府的必要性越小，反过来说政府在这种情况下越能干预经济，说明社会本身也越需要，过几十年经济进一步发达，政府能干预社会的空间也会缩小，我估计会伴随几次经济危机，政府开始破产为开端，政府角色会逐渐转移到其他领域。</p>
+
+<h3 id="1079-后续德国发现非洲猪瘟案例-担心中国或暂停进口猪肉--早报-submitted-on-2020-09-11-2156000800">1079: <a href="https://old.reddit.com/r/China_irl/comments/iqqxp2/后续德国发现非洲猪瘟案例_担心中国或暂停进口猪肉_早报/">后续：德国发现非洲猪瘟案例 担心中国或暂停进口猪肉 | 早报</a>, submitted on 2020-09-11 21:56:00+08:00.</h3>
+
+<p>—– <strong>1079.1</strong> —–2020-09-12 07:57:12+08:00:</p>
+
+<p>真事，可能是从东北开始的，我没记错最早猪瘟就是从这面传开</p>
+
+<h3 id="1080-文革的发动为什么没有波及中央演变成一次真正意义上的民主化革命-submitted-on-2020-09-12-0050530800">1080: <a href="https://old.reddit.com/r/China_irl/comments/iqubab/文革的发动为什么没有波及中央演变成一次真正意义上的民主化革命/">文革的发动为什么没有波及中央，演变成一次真正意义上的民主化革命？</a>, submitted on 2020-09-12 00:50:53+08:00.</h3>
+
+<p>—– <strong>1080.1</strong> —–2020-09-12 07:52:10+08:00:</p>
+
+<p>民主化革命有个前提是资产阶级的成熟，或者说自由化，这种自由化的右派分子，一开国就开始集中力量打倒了，东亚也没什么参考模板，红卫兵除了官僚子弟、很多青少年还没学怎么样，就开始打倒臭老九了。</p>
+
+<p>因为不成熟，没有这种清晰的路线概念，就是谁感觉对跟谁的，毛泽东本身就容易成为民主化的革命领袖，那么打倒跟毛不和的人，就是“民主化革命”了。</p>
+
+<p>老红卫兵们发现一开始斗的都是他们爹妈，不少人都跳车了，所以后来就算红卫兵里，也是高层和普遍干部子弟的保守派，和普遍基层的造反派们互相恶斗。</p>
+
+<p>比如毛泽东还特地批评过北京红卫兵里的“小资产阶级”，其实就是一开始发动干部子弟办事，最后调不动了，就开始通过军队和基层的工人宣传队控制局面。</p>
+
+<p>周恩来和陈云通过西纠影响红卫兵组织，造反派四人帮领导，毛在背后操控，名义上都是拿毛当机械降神的牌坊，实际上都是暗地里斗。</p>
+
+<p>毛泽东这个时候还活着，就已经控制不住核心城市的局势了。</p>
+
+<p>文革末期，其实毛没死的时候，北京公开贴东西的地点，就有点艹他的各种匿名大字报，而且周恩来死时，就已经有南京事件和北京的四五事件，通过悼念周恩来，表达对文革的不满。</p>
+
+<p>毛能发动文革，很大程度上是因为他先在各地实行了军官，在跟彭德怀的斗争里，试探摸清了军队的效忠情况，庐山会议时就明确讲：“ 解放军不跟我走，我就组织红军去，另外组织解放军。我看解放军会跟我走。 ”</p>
+
+<p>后来斗倒彭德怀，军队就没有其他刺头，毛泽东本人就是最大的军事领袖，有了军队支持，最后才能封锁各地城市，然后在军队不作为的情况下（总不能全靠军队清洗吧），就自然而然通过下一层的工人宣传队和造反派去清洗各地官僚和平民。</p>
+
+<p>毛泽东一直搞平衡政策，保守派和造反派的支持者，包括军队内，都走平衡路线，首先拔掉的是有领袖身份的刺头和没利用价值的人，刘少奇、彭德怀和贺龙就是典型，晚年对邓小平怎么处理也很犹豫，最后一次下命令估计是想搞死邓小平，因为周恩来死后引发四五事件的缘故吧，但江青还没搞定，毛就死了。</p>
+
+<h3 id="1081-赵盛烨必要时毁灭世界-submitted-on-2020-09-12-2241170800">1081: <a href="https://old.reddit.com/r/China_irl/comments/irdrsu/赵盛烨必要时毁灭世界/">赵盛烨：必要时毁灭世界</a>, submitted on 2020-09-12 22:41:17+08:00.</h3>
+
+<p>—– <strong>1081.1</strong> —–2020-09-13 00:56:35+08:00:</p>
+
+<p>地心外核距离地面差不多三千公里，等于北京到孟加拉，你有这个技术多花点时间挖去美国多好，10000米，也就是10公里，地壳都钻不透，相当于你在天安门还没出四环呢，就想把孟加拉炸坍缩了。</p>
+
+<p>2011年日本地震和1960年智利地震与2004年印度洋海啸，释放能量约4-9亿吨当量TNT，人类目前最大的氢弹沙皇炸弹才5000万，而前两者的海啸，基本维持在9-15以及20-25米。</p>
+
+<p>也就是说，想要制造同样大小的海啸，需要在近海同时引爆8-18颗沙皇炸弹，并且转换成动能效率低，如果离得远了，震源地方不对，估计还要加个几倍数字，这个应该已经超过了全球核武当量总和，所以一艘潜艇恐怕不行，得一个编队七生报国。</p>
+
+<p>喜马拉雅山丘陵地点就有一千多米，稍微矮点的就有3到4千米高，五千万吨当量的沙皇炸弹大伊万的火球半径是4200米，直接被山给挡住了。</p>
+
+<p>而喜马拉雅山高的，动不动就5000米以上，到7000米的占多数，很可能爆炸只能看到蘑菇云，现在也没有大伊万那么大的炸弹了，你一堆一两千万，甚至几百万吨的爆炸，可能还没有山高。</p>
+
+<p>想推动地球离开，至少得把地球这么大质量的东西推到第三宇宙速度意思吧？在地球逃逸都要十几公里每秒，地球这么大的起码得几十公里每秒，几千颗核弹就想做到么？</p>
+
+<p>那个氢弹往800米水下扔的，你弄个1亿吨的也行，引爆后海面都没什么反应，估计就冒点气泡，太深了水压大，已经有人做过模拟。而美国水下浅海试爆，两万多吨当量才三百米左右的杀伤范围，并且主要是靠蒸发与喷出降落的水瀑布待遇的辐射，直接杀伤范围比预期的更小，再深一两百米，可能就缩小到百米甚至五十米以内了。</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2020-09-27</time>
+        <a href="https://nodebe4.github.io/opinion/2020-09-27/Spinkcat/">
+          Spinkcat在2020-09-21~2020-09-27的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-09-16</time>
+        <a href="https://nodebe4.github.io/opinion/2020-09-16/Spinkcat/">
+          Spinkcat在2020-09-14~2020-09-20的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-09-06</time>
+        <a href="https://nodebe4.github.io/opinion/2020-09-06/Spinkcat/">
+          Spinkcat在2020-08-31~2020-09-06的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-08-29</time>
+        <a href="https://nodebe4.github.io/opinion/2020-08-29/Spinkcat/">
+          Spinkcat在2020-08-24~2020-08-30的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2020-09-11/%E6%B3%95%E7%90%86%E4%BD%95%E5%9C%A8-%E4%BB%BB%E5%BF%97%E5%BC%B7-%E5%85%B1%E7%94%A2%E9%BB%A8%E5%8F%9B%E5%BE%92%E4%B8%8D-%E7%85%BD%E9%A2%A0/">
+            前一篇：法理何在：任志強：共產黨叛徒不「煽颠」
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2020-09-12/%E5%85%A9%E5%B2%B8%E5%9B%9B%E5%9C%B0%E8%B7%A8%E5%9F%9F%E6%B5%AE%E7%94%9F%E9%8C%84-%E7%AC%AC8%E7%AB%A0-%E9%90%B5%E5%B9%95%E7%95%99%E7%97%95(%E4%B8%8A)/">
+            後一篇：【兩岸四地跨域浮生錄】第8章：鐵幕留痕(上)
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2020-09-11/%E6%B3%95%E7%90%86%E4%BD%95%E5%9C%A8-%E4%BB%BB%E5%BF%97%E5%BC%B7-%E5%85%B1%E7%94%A2%E9%BB%A8%E5%8F%9B%E5%BE%92%E4%B8%8D-%E7%85%BD%E9%A2%A0/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2020-09-12/%E5%85%A9%E5%B2%B8%E5%9B%9B%E5%9C%B0%E8%B7%A8%E5%9F%9F%E6%B5%AE%E7%94%9F%E9%8C%84-%E7%AC%AC8%E7%AB%A0-%E9%90%B5%E5%B9%95%E7%95%99%E7%97%95(%E4%B8%8A)/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2020-09-16/Spinkcat/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2020-09-06/Spinkcat/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2020-09-11/%E6%B3%95%E7%90%86%E4%BD%95%E5%9C%A8-%E4%BB%BB%E5%BF%97%E5%BC%B7-%E5%85%B1%E7%94%A2%E9%BB%A8%E5%8F%9B%E5%BE%92%E4%B8%8D-%E7%85%BD%E9%A2%A0/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2020-09-12/%E5%85%A9%E5%B2%B8%E5%9B%9B%E5%9C%B0%E8%B7%A8%E5%9F%9F%E6%B5%AE%E7%94%9F%E9%8C%84-%E7%AC%AC8%E7%AB%A0-%E9%90%B5%E5%B9%95%E7%95%99%E7%97%95(%E4%B8%8A)/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2020-09-16/Spinkcat/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2020-09-06/Spinkcat/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

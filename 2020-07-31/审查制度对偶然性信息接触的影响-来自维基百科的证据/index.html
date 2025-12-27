@@ -1,0 +1,983 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>审查制度对偶然性信息接触的影响：来自维基百科的证据 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+审查制度对偶然性信息接触的影响：来自维基百科的证据
+——
+" />
+    <meta property="og:description" content="
+审查制度对偶然性信息接触的影响：来自维基百科的证据
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="审查制度对偶然性信息接触的影响：来自维基百科的证据" />
+    <meta property="twitter:title" content="审查制度对偶然性信息接触的影响：来自维基百科的证据" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2F2049post.wordpress.com%2F2020%2F08%2F01%2Fv2study2%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://2049post.wordpress.com/2020/08/01/v2study2/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://2049post.wordpress.com/2020/08/01/v2study2/&text=审查制度对偶然性信息接触的影响：来自维基百科的证据&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://2049post.wordpress.com/2020/08/01/v2study2/&title=审查制度对偶然性信息接触的影响：来自维基百科的证据" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://2049post.wordpress.com/2020/08/01/v2study2/&title=审查制度对偶然性信息接触的影响：来自维基百科的证据" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=审查制度对偶然性信息接触的影响：来自维基百科的证据&body=
+审查制度对偶然性信息接触的影响：来自维基百科的证据
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://2049post.wordpress.com/2020/08/01/v2study2/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://2049post.wordpress.com/2020/08/01/v2study2/&title=审查制度对偶然性信息接触的影响：来自维基百科的证据&caption=
+审查制度对偶然性信息接触的影响：来自维基百科的证据
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=审查制度对偶然性信息接触的影响：来自维基百科的证据&url=https://2049post.wordpress.com/2020/08/01/v2study2/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>审查制度对偶然性信息接触的影响：来自维基百科的证据</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2020-07-31
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#火光">
+          火光
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://2049post.wordpress.com/2020/08/01/v2study2/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="火光的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#火光 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1596247336000-->
+<p><a href="https://2049post.wordpress.com/2020/08/01/v2study2/">审查制度对偶然性信息接触的影响：来自维基百科的证据</a>
+——</p>
+
+<div>
+  <p><strong>原文</strong>： Pan, Jennifer and Margaret E. Roberts. “Censorship’s Effect on Incidental Exposure to Information: Evidence from Wikipedia.” SAGE Open January-March 2020: 1-14. (<a href="http://jenpan.com/jen_pan/wikipedia.pdf" target="_blank" rel="noreferrer noopener">PDF</a>)</p>
+  <p><strong>来源</strong>：<a href="http://jenpan.com" target="_blank" rel="noreferrer noopener">Jennifer Pan的个人网站</a> （请注意该网站为http协议，信息均为明文传输。）</p>
+  <p><strong>译者</strong>： CD</p>
+  <figure class="wp-block-image size-large">
+<img src="https://internetofbusiness.com/wp-content/uploads/2018/05/china_online_censorship_blog-640x287.png" alt="" />
+  </figure>
+  <h3 id="摘要">摘要</h3>
+  <p>目前已经有很多研究关注特定政治信息审查的影响，以及对娱乐行业审查的意外后果。但是，我们对无差别互联网审查（coarse censorship，即不局限于特定内容的审查）会造成什么后果，还知之甚少。本研究使用了<a href="http://zh.wikipedia.org" target="_blank" rel="noreferrer noopener">中文维基百科</a>被GFW封锁当天（2015年5月19日）的数据，用量化方法分析了无差别审查对主动信息消费（即用户本身刻意寻找的信息）和偶然信息消费（即用户只是偶尔发现了该信息并进行消费）的影响。<strong>我们发现，来自中国大陆的用户更有可能偶然而非主动地在维基百科上消费有关政治和历史的信息，这表明审查制度对偶然信息接触的影响可能具有重要的政治意义。</strong></p>
+  <hr class="wp-block-separator" />
+  <h3 id="中国政府对中文维基的审查史">中国政府对中文维基的审查史</h3>
+  <ul>
+    <li class="">中文维基百科于2001年上线。</li>
+    <li class="">2004年至2008年，维基大多数时候可以访问，但中国政府会于某些时期用GFW阻挡中国大陆IP对维基百科的访问，持续数天或数月不等。</li>
+    <li class="">2008年，涉及政治敏感的维基页面——例如1989年天安门事件、争议性历史事件以及政治异议者介绍——都被选择性地屏蔽，而大多数中文维基页面依然可以访问，其中包括大量的政史类信息。</li>
+    <li class="">2011年，维基百科开始支持HTTPS协议。由于在HTTPS协议下网络供应商看不到用户具体访问的网站页面，中国政府无法对HTTPS版维基百科进行页面的选择性屏蔽。</li>
+    <li class="">2013年，中国政府开始阻止HTTPS版中文维基的访问，但HTTP协议的“审查版”维基依然能够访问。</li>
+    <li class="">2015年，维基百科强制将所有HTTP请求转入相应的HTTPS地址，以保证全站的访问加密性。于是，2015年5月19日，中国政府全面封锁了中文维基访问。</li>
+  </ul>
+  <p><img src="https://i.imgur.com/3XkyHJo.jpg" alt="" class="" /><br /><em>上图显示了5月16至5月21日中文维基百科每小时的访问量。在北京时间5月19日下午3至4时，页面访问量显著下降（2至3时为664694，4时至5时为421663，降低35%）。之后的访问量，主要为不受GFW影响的地区贡献，例如香港、台湾。此外，有一部分访问是通过VPN“翻墙”进行的，不过考虑到中国大陆VPN用户数量有限，且屏蔽维基后VPN的下载和安装量并没有上升（与屏蔽Instagram后相反），来自中国大陆的访问量应该相对稀少。假设减少的访问量都来自中国大陆，维基的封锁导致了中文维基的页面浏览量每天减少了三百万次。</em></p>
+  <h3 id="访问量骤降的维基页面">访问量骤降的维基页面</h3>
+  <p>Pan和Roberts分析了维基封锁前一周、至少有两天的（北京时间）下午2至3时被访问过的页面，共372208个。通过比较5月19日2至3时（封锁前）每个页面的访问量及同一天4至5时（封锁后）的访问量，得到访问量下降最多的前100个页面（见下表）。仅这100个页面，就贡献了所有下降的访问量的10% （约3万次浏览量）。</p>
+  <figure class="wp-block-image">
+<img src="https://i.imgur.com/4xEn8ri.jpg" alt="" />
+  </figure>
+  <p><em>主页直接链接： 页面是否在5月19日中文维基的主页链接上；0=否，1=是。</em><br /><em>主页间接链接： 页面是否能从5月19日中文维基的主页链接中链接达到（最多两次，即主页页面-&gt;目标页面，或主页页面-&gt;页面1-&gt;目标页面）；0=否，1=是。</em></p>
+  <p>粗略看来，受影响的很多页面都与时事或热点无关。同时，很多页面的共同点为，它们都可以通过维基百科当天的主页链接达到。维基百科每天都在主页上有一些推荐页面，包括“优良条目和“特色条目”存档、“历史上的今天”、随机的“新条目推荐”、以及新闻中出现的人物和地点等。总的来看，前100个最受维基封锁影响浏览量的页面中，有65个页面可由主页链接达到——11个为主页直链，26个为二次链接，28个为三次链接。</p>
+  <figure class="wp-block-table">
+    <table>
+      <thead>
+        <tr>
+          <th>页面类别</th>
+          <th>平均下降率</th>
+          <th>页面数量</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>主页链接</td>
+          <td>-45.07</td>
+          <td>45</td>
+        </tr>
+        <tr>
+          <td>二次链接</td>
+          <td>-2.06</td>
+          <td>7388</td>
+        </tr>
+        <tr>
+          <td>三次链接</td>
+          <td>-0.58</td>
+          <td>115353</td>
+        </tr>
+        <tr>
+          <td>其他链接</td>
+          <td>-0.29</td>
+          <td>249422</td>
+        </tr>
+      </tbody>
+    </table>
+  </figure>
+  <p>上表分类别统计了所有研究范围内的维基页面（共372208个）在封锁后访问量减少的情况。研究者发现，最受封锁影响的是主页直链的页面，其次是二次链接，再次为三次链接。与主页链接无关的页面其浏览量受封锁影响是最小的。总体来说，与主页链接相关的页面贡献了51%的浏览减少数量。</p>
+  <p><strong>这说明，维基主页提供的“偶然性信息”是中国大陆用户的重要信息来源。</strong></p>
+  <h3 id="主动信息消费和偶然信息消费">主动信息消费和偶然信息消费</h3>
+  <p>当然，与主页链接有关的页面浏览量并不等于浏览量都来自于主页链接。为了更好地区分维基主页带来的浏览量（即“偶然信息消费”）与页面话题本身吸引的浏览量（即“主动信息消费”），研究者采用了时间序列分析进行了估计。</p>
+  <h4 id="估算方法举例">估算方法举例</h4>
+  <ul>
+    <li class="">“1美元硬币”这个页面，于5月19日被维基主页推荐。</li>
+    <li class="">5月18日，每小时大约有10次浏览；5月19日，仅下午2至3时（封锁前）就有约150次浏览；这两者的差值（140次）大致反映了主页链接对于页面浏览总量的影响。</li>
+    <li class="">5月19日4至5时（封锁后），浏览量约为25次；5月20日（页面不再出现在主页上），每小时平均有5次浏览；这两者的差值（20次）大致反映了主页链接对于非大陆用户页面浏览量的影响。</li>
+    <li class="">因此，主页链接对于大陆用户页面浏览量的影响约为：140 – 20 = 120。此即为“1美元硬币”页面的“偶然信息消费”量。</li>
+    <li class="">来自大陆的总浏览量约为：150 – 25 = 125。</li>
+    <li class="">非主页链接创造的中国大陆浏览量约为：125 – 120 = 5。此即为“1美元硬币”页面的“主动信息消费”量。</li>
+  </ul>
+  <p>通过这种估算方法，<strong>在维基百科被GFW封锁后，约有42%的页面浏览量下降为“偶然信息消费”。</strong></p>
+  <p>研究者进一步考察了偶然信息消费页面和主动信息消费页面的主题差异。通过文本分析，研究者提取了维基被封锁前后一个小时内，每个被浏览的页面的介绍部分（第一段）所涉及的主题。总共有158611个页面的介绍文本被分析，提取的主题为78个。这78个话题中，有16个与娱乐相关（如电视节目、名人、音乐、体育、游戏等），其余则为与娱乐无关的具体主题，如欧洲历史、电脑系统、明清历史、股票市场等。中国大陆用户浏览最多的主题包括了很多政史话题，如中国共产党、民主、地区统计数字、中国政府和法律系统等。</p>
+  <p>研究者计算了每个主题下来自中国大陆的偶然信息消费比例和主动信息消费比例，并且计算了其差值。差值最大的主题即为偶然信息消费的主要领域。</p>
+  <p><img src="https://i.imgur.com/Dv1GtOl.jpg" alt="" class="" /><br /><em>左图显示了主动信息消费的流行主题。包括：日本名人，电影，电视连续剧，软件，日本，军事，电视节目，中国电视节目，动画电影，武器，音乐/电影/电视奖项，音乐，K-pop，中国小说，数学，足球，维基条目，美国/英国/澳大利亚/加拿大，演员，电子游戏，疾病，电脑系统，一般词语，太空/航空，信息科技，动画漫画，动物，航空，方言，美国和英国，类别，高速公路和铁路，中国的政府和法律系统，各国统计数字，经济发展，国际体育，物理。</em></p>
+  <p><em>右图显示了偶然信息消费的流行主题。包括：唐朝历史，台湾，国际文化遗产，劳工和经济，日本历史，台湾政治，香港澳门的地点，材料，离地，明清历史，宗教，地区统计数字，教育和大学，民主，消费产品，文化和社会，教育、教授和学生，欧洲历史，世界军事史，商业和股票市场，悲惨的事件和犯罪，植物，英文小说，古代历史，中国景点，生物学，公共交通，苏联历史，东亚，交通运输，法国地理，逻辑，中国共产党，军事史，社会组织，香港演员，银行，化学，研究，书面文字，一般词语。</em></p>
+  <p><strong>总体来说，中国大陆用户的主动信息消费集中于娱乐话题，而偶然信息消费主要涉及政治、历史领域。同时，中国大陆用户对政史话题的浏览主要来源于偶然信息消费。</strong> 这说明，中国大陆用户在维基上偶然遇到政史信息的时候，对这些话题有较高的兴趣。</p>
+  <h3 id="结论">结论</h3>
+  <ul>
+    <li class=""><strong>无差别审查对公众信息获取和批判思维的一大影响，在于其截断或限制了公众偶然接触信息的渠道。</strong></li>
+    <li class=""><strong>政治历史类和有关世界各国的偶然信息消费尤其受到无差别审查的影响。</strong></li>
+    <li class=""><strong>墙内用户很难弥补由无差别审查带来的偶然信息损失。</strong></li>
+  </ul>
+  <blockquote class="wp-block-quote">
+    <p>“people don’t know what they don’t know.”<br />人们不知道他们不知道的东西。</p>
+  </blockquote>
+  <nav class="wp-block-navigation">
+    <ul class="wp-block-navigation__container">
+      <li class="wp-block-navigation-link"><a class="wp-block-navigation-link__content" href="https://2049post.wordpress.com/v2index/"><span class="wp-block-navigation-link__label">返回第二期目录</span></a></li>
+    </ul>
+  </nav>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#火光 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2020-12-31/%E7%AB%AF%E7%82%B9%E6%98%9F%E6%A1%88%E6%B6%88%E6%81%AF%E6%B1%87%E6%80%BB/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2020-07-24/%E5%85%AC%E6%B0%91%E5%AE%9E%E9%AA%8C%E5%AE%A4-%E5%BE%AE%E4%BF%A1%E7%9B%91%E6%8E%A7%E8%AF%A0%E9%87%8A/">最早</a>--</span>
+    
+      <li>
+        <time>2020-07-31</time>
+        <a href="https://nodebe4.github.io/opinion/2020-07-31/%E4%B8%AD%E5%9B%BD%E9%9D%A2%E9%83%A8%E8%AF%86%E5%88%AB%E5%B7%A8%E4%BA%BA%E5%B4%9B%E8%B5%B7%E7%9A%84%E8%83%8C%E5%90%8E/">
+          中国面部识别巨人崛起的背后
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-07-31</time>
+        <a href="https://nodebe4.github.io/opinion/2020-07-31/NIST%E6%96%B0%E7%A0%94%E7%A9%B6-%E5%8F%A3%E7%BD%A9%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E9%9D%A2%E9%83%A8%E8%AF%86%E5%88%AB%E7%9A%84%E5%87%86%E7%A1%AE%E6%80%A7/">
+          NIST新研究：口罩如何影响面部识别的准确性？
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-07-31</time>
+        <a href="https://nodebe4.github.io/opinion/2020-07-31/%E5%A6%82%E4%BD%95%E7%94%A8%E5%89%8D%E7%BD%AE%E4%BB%A3%E7%90%86%E8%AE%BF%E9%97%AETor%E6%B5%8F%E8%A7%88%E5%99%A8-%E4%BB%A5%E4%B8%BB%E6%B5%81%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6%E4%B8%BA%E4%BE%8B/">
+          如何用前置代理访问Tor浏览器？（以主流翻墙软件为例）
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-07-31</time>
+        <a href="https://nodebe4.github.io/opinion/2020-07-31/%E6%B8%B8%E5%87%BB%E9%98%9F%E5%BC%80%E6%94%BE%E8%AE%BF%E9%97%AE%E5%AE%A3%E8%A8%80/">
+          游击队开放访问宣言
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2020-07-31/%E5%A6%82%E4%BD%95%E7%94%A8%E5%89%8D%E7%BD%AE%E4%BB%A3%E7%90%86%E8%AE%BF%E9%97%AETor%E6%B5%8F%E8%A7%88%E5%99%A8-%E4%BB%A5%E4%B8%BB%E6%B5%81%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6%E4%B8%BA%E4%BE%8B/">
+            前一篇：如何用前置代理访问Tor浏览器？（以主流翻墙软件为例）
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2020-07-31/NIST%E6%96%B0%E7%A0%94%E7%A9%B6-%E5%8F%A3%E7%BD%A9%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E9%9D%A2%E9%83%A8%E8%AF%86%E5%88%AB%E7%9A%84%E5%87%86%E7%A1%AE%E6%80%A7/">
+            後一篇：NIST新研究：口罩如何影响面部识别的准确性？
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2020-07-31/%E5%A6%82%E4%BD%95%E7%94%A8%E5%89%8D%E7%BD%AE%E4%BB%A3%E7%90%86%E8%AE%BF%E9%97%AETor%E6%B5%8F%E8%A7%88%E5%99%A8-%E4%BB%A5%E4%B8%BB%E6%B5%81%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6%E4%B8%BA%E4%BE%8B/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2020-07-31/NIST%E6%96%B0%E7%A0%94%E7%A9%B6-%E5%8F%A3%E7%BD%A9%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E9%9D%A2%E9%83%A8%E8%AF%86%E5%88%AB%E7%9A%84%E5%87%86%E7%A1%AE%E6%80%A7/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2020-07-31/NIST%E6%96%B0%E7%A0%94%E7%A9%B6-%E5%8F%A3%E7%BD%A9%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E9%9D%A2%E9%83%A8%E8%AF%86%E5%88%AB%E7%9A%84%E5%87%86%E7%A1%AE%E6%80%A7/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2020-07-31/%E5%A6%82%E4%BD%95%E7%94%A8%E5%89%8D%E7%BD%AE%E4%BB%A3%E7%90%86%E8%AE%BF%E9%97%AETor%E6%B5%8F%E8%A7%88%E5%99%A8-%E4%BB%A5%E4%B8%BB%E6%B5%81%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6%E4%B8%BA%E4%BE%8B/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2020-07-31/%E5%A6%82%E4%BD%95%E7%94%A8%E5%89%8D%E7%BD%AE%E4%BB%A3%E7%90%86%E8%AE%BF%E9%97%AETor%E6%B5%8F%E8%A7%88%E5%99%A8-%E4%BB%A5%E4%B8%BB%E6%B5%81%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6%E4%B8%BA%E4%BE%8B/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2020-07-31/NIST%E6%96%B0%E7%A0%94%E7%A9%B6-%E5%8F%A3%E7%BD%A9%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E9%9D%A2%E9%83%A8%E8%AF%86%E5%88%AB%E7%9A%84%E5%87%86%E7%A1%AE%E6%80%A7/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<火光>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2020-07-31/NIST%E6%96%B0%E7%A0%94%E7%A9%B6-%E5%8F%A3%E7%BD%A9%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E9%9D%A2%E9%83%A8%E8%AF%86%E5%88%AB%E7%9A%84%E5%87%86%E7%A1%AE%E6%80%A7/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<火光>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2020-07-31/%E5%A6%82%E4%BD%95%E7%94%A8%E5%89%8D%E7%BD%AE%E4%BB%A3%E7%90%86%E8%AE%BF%E9%97%AETor%E6%B5%8F%E8%A7%88%E5%99%A8-%E4%BB%A5%E4%B8%BB%E6%B5%81%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6%E4%B8%BA%E4%BE%8B/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

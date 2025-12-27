@@ -1,0 +1,3526 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Visa, Plaid, Networks, and Jobs – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+  
+     Visa, Plaid, Networks, and Jobs 
+    
+  Posted on             Tuesday, January 14, 2020 
+            Monday, February 17, 2020 
+     Author  by  Ben Thompson   
+    
+    
+  
+  
+  
+    Before the network, there is the job.
+    In the case of Visa, or, to be more exact, the Bank Americard that would eventually be spun out and renamed Visa, the job for consumers was obvious: instant credit for anything, without the need for a merchant-specific account or a visit to the bank for a personal loan. And so, when Bank of America dropped 60,000 Bank Americards on its customers in Fresno, California, in 1958, they had an immediate reason to give this new-fangled financial product a try.
+    What may be less obvious is why Fresno’s merchants might have been interested, particularly since Bank of America planned to charge them 6% of sales. Remember, this is 
+    before
+    the network: it was not at all obvious, as it is today, that the increase in sales enabled by the convenience of credit cards would more than make up for credit cards’ attendant fees. However, it turned out that for small merchants in particular there was a major job-to-be-done; Joe Nocera explained in his 1994 book,  A Piece of the Action  :
+    
+      Fresno’s shop owners knew for a fact that, on the day the program began, some 60,000 people would be holding BankAmericards. That was a powerful number, and it had its intended effect. Merchants began to sign on. Not the big merchants, like Sears, which had its own proprietary credit card and saw the bank’s entry into the credit card business as a form of poaching. Rather, it was the smaller merchants who first came around. Larkin remembers visiting a drug store in Bakersfield, hoping to persuade its owner to accept BankAmericard. “When I explained the concept of our credit card,” he says, “the man almost knelt down and kissed my feet. ‘You’ll be the savior of my business,’ he said. We went into his back office,” Larkin continues. “He had three girls working on Burroughs bookkeeping machines, each handling 1,000 to 1,500 accounts. I looked at the size of the accounts: $4.58. $12.82. And he was sending out monthly bills on these accounts. Then the customers paid him maybe three or four months later. Think of what this man was spending on postage, labor, envelopes, stationery! His accounts receivables were dragging him under.”
+      A store owner who accepted the credit card was, in effect, handing his back office headaches over to the Bank of America. The bank would guarantee him payment — within days instead of months — and would take over the role of collecting from the customers. As for the bank, in addition to taking its 6 percent cut, the card was a way to get its hooks into businessmen who were not yet Bank of America customers.
+    
+    It’s easy to forget just how many things a business that takes credit cards does not need to do: it does not need to extend credit, it does not need to collect payment, it does not need to handle excess amounts of cash. It does not, as Nocera noted, need to have much back office functionality at all. Instead banks provide the credit, Visa provides the infrastructure, and merchants pay around 3% of their sales.
+     Visa’s Network 
+    Not that merchants have much choice in the matter these days. Credit cards are perhaps the best possible example of the power of a multi-sided network; Visa sits in the middle of banks, consumers, and merchants:
+      
+    Everyone benefits from each other:
+    
+    Customers and Banks:
+   
+    
+      Customers want to have always-available credit
+      Banks want to provide credit with high fees and interest rates
+    
+    
+    Customers and Merchants:
+   
+    
+      Customers want to have a card that works everywhere
+      Merchants want to be able to accept payments from anyone
+    
+    
+    Merchants and Banks:
+   
+    
+      Merchants want to be able to sell on credit while still getting their money immediately
+      Banks want to collect a fee on every purchase in exchange for managing credit and pooling risk
+    
+    Visa and Mastercard, the other major credit card network,  1  sit in the middle of each of these relationships, across billions of customers, millions of merchants, and thousands of banks, collecting a network fee — on top of the interchange fee paid to banks — on every purchase (about 0.05%). The total revenue collected — $20.6 billion in 2018 — is rather small, particularly relative to Visa’s market cap of $420 billion, but that multiple is a testament to just how durable Visa’s position is in the network it created.
+     Plaid’s Network 
+    There are some obvious parallels to be drawn between Visa’s network, particularly in its earliest days, and Plaid, the fintech startup Visa acquired yesterday. From the  Wall Street Journal  :
+    
+      Visa Inc. said Monday it would buy Plaid Inc. for $5.3 billion, as part of an effort by the card giant to tap into consumers’ growing use of financial-technology apps and noncard payments. More consumers over the past decade have been using financial-services apps to manage their savings and spending, and Plaid sits in the middle of those relationships, providing software that gives the apps access to financial accounts. Venmo, PayPal Holdings Inc.’s money-transfer service, is one of privately held Plaid’s biggest customers.
+      Visa is the largest U.S. card network, handling $3.4 trillion of credit, debit and prepaid-card transactions in the first nine months of 2019, according to the Nilson Report. Its clients are largely comprised of banks that issue credit and debit cards, but the company is looking to expand its presence in the burgeoning field of electronic payments, where trillions of dollars are sent by wire transfer or between bank accounts globally each year.
+    
+    Plaid has its own three-sided network, but it operates a bit differently than Visa’s:
+      
+    The benefits to some parts of the network are more obvious than others:
+    
+      Developers are able to immediately connect to their customers’ bank accounts without having to implement custom integrations with thousands of banks or waiting several days for traditional verification methods (making two deposits of less than a dollar and having the customer report how much).
+      Consumers are able to use new fin tech apps like Venmo immediately, without having to wait several days.
+      Banks…well this is where it gets messy.
+    
+     Plaid’s Product 
+    To understand how the banks fit in this network it is important to understand what exactly Plaid does. Many banks in the U.S. do not have APIs (Application Programming Interfaces) that offer a programmatic means of accessing a particular account; those that do are not consistent with each other in either implementation or in features. Plaid gets around this by effectively acting as a deputy for consumers: the latter give Plaid their username and password for their bank account, and Plaid utilizes that to basically log in to a bank’s website on the user’s behalf.
+    If this sounds a bit shady, well, it kind of is! Bank login information is among the most sensitive credentials consumers have, and apparently one in four people in the U.S. with a bank account have shared those credentials with Plaid. Nearly all did so without knowing any better; here, for example, is the interface Betterment offers when you try and add a bank account:
+      
+    That is 
+    not
+    an interface for Chase; it is Plaid,  2  effectively training end users to enter their bank credentials in an app and/or on a site that is not their bank! Oh, and because this is very much a hack, Plaid fails between 5 and 10 percent of the time.
+    Developers, it should be noted, aren’t particularly bothered by this: in fact, they are paying Plaid for every successful log-in. Users, meanwhile, are likely unaware about just how much access and data they are giving away, but at the same time, have a real desire to access new financial services that require a connection to their bank account. The big problem is that the banks aren’t too sure if they want to participate.
+    The reticence is understandable. There is, for example, the fact that many banks’ technical infrastructure is ancient and built around assumptions that did not include APIs for 3rd-parties. More importantly, though, is the power of inertia: as long as it is hard to move money around, the more likely it is that that money will stay in the bank, collecting minuscule interest; or, if customers need value-added services, the path of lowest resistance will be simply getting them from their bank.
+    An API-based world could change this dramatically: suddenly consumers could commission robo-advisors to move their cash to whoever is offering the best rates, or to automatically refinance debt. Value-added services from multiple vendors would be equally easy to access, meaning they would have to compete on price or terms. In other words, much like the open Internet, banks fear that profits will be rapidly transformed into consumer benefit.
+     Jobs for Banks 
+    This is where Visa can potentially make a difference and, by extension, pay for this acquisition. $5.3 billion is 
+    very
+    steep — around 50x revenue — and Plaid’s business model is not particularly attractive: the company makes the majority of its money when users connect their bank accounts, which for most applications is a one-time event; contrast that to Visa’s credit card network, which earns a fee on every single transaction.
+    
+    UPDATE: Plaid makes money every time a user accesses their account for a transaction; for example, every time you pay someone in Venmo. The company says that revenue from these recurring transactions now exceeds revenue earned from bank verification.
+   
+    What Visa needs to do is figure out what jobs it can do for banks that makes it worthwhile for them to build out the necessary APIs. The most obvious one is security; as a  U.S. Treasury Report on Nonbank Financials, Fintech, and Innovation  noted:
+    
+      The practice of using login credentials for screen-scraping poses significant security risks, which have been recognized for nearly two decades. Screen-scraping increases cybersecurity and fraud risks as consumers provide their login credentials to access fintech applications. During outreach meetings with Treasury, there was universal agreement among financial services companies, data aggregators, consumer fintech application providers, consumer advocates, and regulators that the sharing of login credentials constitutes a highly risky practice.
+    
+    A second job Visa can do is being the devil banks know; that same Treasury report highlighted the fact that the United Kingdom and European Union have initiatives requiring API access to bank accounts, but recommended a private solution. Visa, after this acquisition, is well-placed to leverage Plaid’s widespread use in fintech application and its relationship with banks to come up with a standard that will likely be more favorable to the banks than one imposed by the government.
+    What is most necessary, though, is selling banks on the idea that they no longer need the equivalent of three people working on bookkeeping machines; hand over those customer service headaches to companies that will specialize in them, over rails Visa will provide.
+     Visa’s Optionality 
+    This hints at the best case scenario for Visa from this acquisition: a new financial network, with Visa at its center, transforming the consumer financial services industry just as the credit card transformed the consumer retail industry. If that happens, it’s not out of the question that such a network will be so superior to today’s means of moving financial information and data that the company will be able to charge an ongoing toll, instead of simply a set-up fee (and, perhaps, share it with the banks).
+    The worst case scenario, meanwhile, will see Plaid’s creaky approach deliver barely good enough service to fintech applications in the U.S., with nothing near the reliability or profitability of Visa’s credit card network. Which, from Visa’s perspective, is not a problem either!
+    Visa will also be able to help Plaid expand internationally, including to more favorable markets like the U.K. and E.U. At first glance, open banking might seem to be a problem for Plaid, but the truth is that screen-scraping is not a long-term solution, and developers will still prefer to use one well-built API that abstracts away thousands of financial institutions instead of re-inventing the integration wheel.
+    And, most importantly from Visa’s perspective, the credit card business is not going anywhere — if anything, it’s getting stronger. Companies like Stripe are making credit cards more useful in more places, while Apple is making it even easier to use credit cards both online and offline. It is tempting to look at how payments work in countries like China, but that ignores the path dependency of one market using cash until recently, and the other receiving unsolicited Bank Americards 61 years ago. Once a job is done — and credit cards do their jobs very well — it takes a 10x improvement to get users to switch, and, in a three-sided network, that 10x is 10^  3  .
+    
+    I wrote a follow-up to this article in
+    
+     this Daily Update
+    
+    .
+   
+    
+      American Express and Discover, the other major credit card companies, integrate the banking and network components; they still facilitate a network between merchants and consumers [  ↩  ]
+      Well technically Quovo, which  Plaid bought last year  in a smart move to consolidate its position [  ↩  ]
+    
+    
+      
+         Share 
+        
+          
+              Facebook  
+              Twitter  
+              LinkedIn  
+              Email  
+            
+          
+        
+      
+    
+    
+       
+     Related
+     
+    
+  
+  
+
+" />
+    <meta property="og:description" content="
+  
+     Visa, Plaid, Networks, and Jobs 
+    
+  Posted on             Tuesday, January 14, 2020 
+            Monday, February 17, 2020 
+     Author  by  Ben Thompson   
+    
+    
+  
+  
+  
+    Before the network, there is the job.
+    In the case of Visa, or, to be more exact, the Bank Americard that would eventually be spun out and renamed Visa, the job for consumers was obvious: instant credit for anything, without the need for a merchant-specific account or a visit to the bank for a personal loan. And so, when Bank of America dropped 60,000 Bank Americards on its customers in Fresno, California, in 1958, they had an immediate reason to give this new-fangled financial product a try.
+    What may be less obvious is why Fresno’s merchants might have been interested, particularly since Bank of America planned to charge them 6% of sales. Remember, this is 
+    before
+    the network: it was not at all obvious, as it is today, that the increase in sales enabled by the convenience of credit cards would more than make up for credit cards’ attendant fees. However, it turned out that for small merchants in particular there was a major job-to-be-done; Joe Nocera explained in his 1994 book,  A Piece of the Action  :
+    
+      Fresno’s shop owners knew for a fact that, on the day the program began, some 60,000 people would be holding BankAmericards. That was a powerful number, and it had its intended effect. Merchants began to sign on. Not the big merchants, like Sears, which had its own proprietary credit card and saw the bank’s entry into the credit card business as a form of poaching. Rather, it was the smaller merchants who first came around. Larkin remembers visiting a drug store in Bakersfield, hoping to persuade its owner to accept BankAmericard. “When I explained the concept of our credit card,” he says, “the man almost knelt down and kissed my feet. ‘You’ll be the savior of my business,’ he said. We went into his back office,” Larkin continues. “He had three girls working on Burroughs bookkeeping machines, each handling 1,000 to 1,500 accounts. I looked at the size of the accounts: $4.58. $12.82. And he was sending out monthly bills on these accounts. Then the customers paid him maybe three or four months later. Think of what this man was spending on postage, labor, envelopes, stationery! His accounts receivables were dragging him under.”
+      A store owner who accepted the credit card was, in effect, handing his back office headaches over to the Bank of America. The bank would guarantee him payment — within days instead of months — and would take over the role of collecting from the customers. As for the bank, in addition to taking its 6 percent cut, the card was a way to get its hooks into businessmen who were not yet Bank of America customers.
+    
+    It’s easy to forget just how many things a business that takes credit cards does not need to do: it does not need to extend credit, it does not need to collect payment, it does not need to handle excess amounts of cash. It does not, as Nocera noted, need to have much back office functionality at all. Instead banks provide the credit, Visa provides the infrastructure, and merchants pay around 3% of their sales.
+     Visa’s Network 
+    Not that merchants have much choice in the matter these days. Credit cards are perhaps the best possible example of the power of a multi-sided network; Visa sits in the middle of banks, consumers, and merchants:
+      
+    Everyone benefits from each other:
+    
+    Customers and Banks:
+   
+    
+      Customers want to have always-available credit
+      Banks want to provide credit with high fees and interest rates
+    
+    
+    Customers and Merchants:
+   
+    
+      Customers want to have a card that works everywhere
+      Merchants want to be able to accept payments from anyone
+    
+    
+    Merchants and Banks:
+   
+    
+      Merchants want to be able to sell on credit while still getting their money immediately
+      Banks want to collect a fee on every purchase in exchange for managing credit and pooling risk
+    
+    Visa and Mastercard, the other major credit card network,  1  sit in the middle of each of these relationships, across billions of customers, millions of merchants, and thousands of banks, collecting a network fee — on top of the interchange fee paid to banks — on every purchase (about 0.05%). The total revenue collected — $20.6 billion in 2018 — is rather small, particularly relative to Visa’s market cap of $420 billion, but that multiple is a testament to just how durable Visa’s position is in the network it created.
+     Plaid’s Network 
+    There are some obvious parallels to be drawn between Visa’s network, particularly in its earliest days, and Plaid, the fintech startup Visa acquired yesterday. From the  Wall Street Journal  :
+    
+      Visa Inc. said Monday it would buy Plaid Inc. for $5.3 billion, as part of an effort by the card giant to tap into consumers’ growing use of financial-technology apps and noncard payments. More consumers over the past decade have been using financial-services apps to manage their savings and spending, and Plaid sits in the middle of those relationships, providing software that gives the apps access to financial accounts. Venmo, PayPal Holdings Inc.’s money-transfer service, is one of privately held Plaid’s biggest customers.
+      Visa is the largest U.S. card network, handling $3.4 trillion of credit, debit and prepaid-card transactions in the first nine months of 2019, according to the Nilson Report. Its clients are largely comprised of banks that issue credit and debit cards, but the company is looking to expand its presence in the burgeoning field of electronic payments, where trillions of dollars are sent by wire transfer or between bank accounts globally each year.
+    
+    Plaid has its own three-sided network, but it operates a bit differently than Visa’s:
+      
+    The benefits to some parts of the network are more obvious than others:
+    
+      Developers are able to immediately connect to their customers’ bank accounts without having to implement custom integrations with thousands of banks or waiting several days for traditional verification methods (making two deposits of less than a dollar and having the customer report how much).
+      Consumers are able to use new fin tech apps like Venmo immediately, without having to wait several days.
+      Banks…well this is where it gets messy.
+    
+     Plaid’s Product 
+    To understand how the banks fit in this network it is important to understand what exactly Plaid does. Many banks in the U.S. do not have APIs (Application Programming Interfaces) that offer a programmatic means of accessing a particular account; those that do are not consistent with each other in either implementation or in features. Plaid gets around this by effectively acting as a deputy for consumers: the latter give Plaid their username and password for their bank account, and Plaid utilizes that to basically log in to a bank’s website on the user’s behalf.
+    If this sounds a bit shady, well, it kind of is! Bank login information is among the most sensitive credentials consumers have, and apparently one in four people in the U.S. with a bank account have shared those credentials with Plaid. Nearly all did so without knowing any better; here, for example, is the interface Betterment offers when you try and add a bank account:
+      
+    That is 
+    not
+    an interface for Chase; it is Plaid,  2  effectively training end users to enter their bank credentials in an app and/or on a site that is not their bank! Oh, and because this is very much a hack, Plaid fails between 5 and 10 percent of the time.
+    Developers, it should be noted, aren’t particularly bothered by this: in fact, they are paying Plaid for every successful log-in. Users, meanwhile, are likely unaware about just how much access and data they are giving away, but at the same time, have a real desire to access new financial services that require a connection to their bank account. The big problem is that the banks aren’t too sure if they want to participate.
+    The reticence is understandable. There is, for example, the fact that many banks’ technical infrastructure is ancient and built around assumptions that did not include APIs for 3rd-parties. More importantly, though, is the power of inertia: as long as it is hard to move money around, the more likely it is that that money will stay in the bank, collecting minuscule interest; or, if customers need value-added services, the path of lowest resistance will be simply getting them from their bank.
+    An API-based world could change this dramatically: suddenly consumers could commission robo-advisors to move their cash to whoever is offering the best rates, or to automatically refinance debt. Value-added services from multiple vendors would be equally easy to access, meaning they would have to compete on price or terms. In other words, much like the open Internet, banks fear that profits will be rapidly transformed into consumer benefit.
+     Jobs for Banks 
+    This is where Visa can potentially make a difference and, by extension, pay for this acquisition. $5.3 billion is 
+    very
+    steep — around 50x revenue — and Plaid’s business model is not particularly attractive: the company makes the majority of its money when users connect their bank accounts, which for most applications is a one-time event; contrast that to Visa’s credit card network, which earns a fee on every single transaction.
+    
+    UPDATE: Plaid makes money every time a user accesses their account for a transaction; for example, every time you pay someone in Venmo. The company says that revenue from these recurring transactions now exceeds revenue earned from bank verification.
+   
+    What Visa needs to do is figure out what jobs it can do for banks that makes it worthwhile for them to build out the necessary APIs. The most obvious one is security; as a  U.S. Treasury Report on Nonbank Financials, Fintech, and Innovation  noted:
+    
+      The practice of using login credentials for screen-scraping poses significant security risks, which have been recognized for nearly two decades. Screen-scraping increases cybersecurity and fraud risks as consumers provide their login credentials to access fintech applications. During outreach meetings with Treasury, there was universal agreement among financial services companies, data aggregators, consumer fintech application providers, consumer advocates, and regulators that the sharing of login credentials constitutes a highly risky practice.
+    
+    A second job Visa can do is being the devil banks know; that same Treasury report highlighted the fact that the United Kingdom and European Union have initiatives requiring API access to bank accounts, but recommended a private solution. Visa, after this acquisition, is well-placed to leverage Plaid’s widespread use in fintech application and its relationship with banks to come up with a standard that will likely be more favorable to the banks than one imposed by the government.
+    What is most necessary, though, is selling banks on the idea that they no longer need the equivalent of three people working on bookkeeping machines; hand over those customer service headaches to companies that will specialize in them, over rails Visa will provide.
+     Visa’s Optionality 
+    This hints at the best case scenario for Visa from this acquisition: a new financial network, with Visa at its center, transforming the consumer financial services industry just as the credit card transformed the consumer retail industry. If that happens, it’s not out of the question that such a network will be so superior to today’s means of moving financial information and data that the company will be able to charge an ongoing toll, instead of simply a set-up fee (and, perhaps, share it with the banks).
+    The worst case scenario, meanwhile, will see Plaid’s creaky approach deliver barely good enough service to fintech applications in the U.S., with nothing near the reliability or profitability of Visa’s credit card network. Which, from Visa’s perspective, is not a problem either!
+    Visa will also be able to help Plaid expand internationally, including to more favorable markets like the U.K. and E.U. At first glance, open banking might seem to be a problem for Plaid, but the truth is that screen-scraping is not a long-term solution, and developers will still prefer to use one well-built API that abstracts away thousands of financial institutions instead of re-inventing the integration wheel.
+    And, most importantly from Visa’s perspective, the credit card business is not going anywhere — if anything, it’s getting stronger. Companies like Stripe are making credit cards more useful in more places, while Apple is making it even easier to use credit cards both online and offline. It is tempting to look at how payments work in countries like China, but that ignores the path dependency of one market using cash until recently, and the other receiving unsolicited Bank Americards 61 years ago. Once a job is done — and credit cards do their jobs very well — it takes a 10x improvement to get users to switch, and, in a three-sided network, that 10x is 10^  3  .
+    
+    I wrote a follow-up to this article in
+    
+     this Daily Update
+    
+    .
+   
+    
+      American Express and Discover, the other major credit card companies, integrate the banking and network components; they still facilitate a network between merchants and consumers [  ↩  ]
+      Well technically Quovo, which  Plaid bought last year  in a smart move to consolidate its position [  ↩  ]
+    
+    
+      
+         Share 
+        
+          
+              Facebook  
+              Twitter  
+              LinkedIn  
+              Email  
+            
+          
+        
+      
+    
+    
+       
+     Related
+     
+    
+  
+  
+
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Visa, Plaid, Networks, and Jobs" />
+    <meta property="twitter:title" content="Visa, Plaid, Networks, and Jobs" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2020%2Fvisa-plaid-networks-and-jobs%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2020/visa-plaid-networks-and-jobs/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2020/visa-plaid-networks-and-jobs/&text=Visa, Plaid, Networks, and Jobs&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2020/visa-plaid-networks-and-jobs/&title=Visa, Plaid, Networks, and Jobs" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2020/visa-plaid-networks-and-jobs/&title=Visa, Plaid, Networks, and Jobs" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Visa, Plaid, Networks, and Jobs&body=
+  
+     Visa, Plaid, Networks, and Jobs 
+    
+  Posted on             Tuesday, January 14, 2020 
+            Monday, February 17, 2020 
+     Author  by  Ben Thompson   
+    
+    
+  
+  
+  
+    Before the network, there is the job.
+    In the case of Visa, or, to be more exact, the Bank Americard that would eventually be spun out and renamed Visa, the job for consumers was obvious: instant credit for anything, without the need for a merchant-specific account or a visit to the bank for a personal loan. And so, when Bank of America dropped 60,000 Bank Americards on its customers in Fresno, California, in 1958, they had an immediate reason to give this new-fangled financial product a try.
+    What may be less obvious is why Fresno’s merchants might have been interested, particularly since Bank of America planned to charge them 6% of sales. Remember, this is 
+    before
+    the network: it was not at all obvious, as it is today, that the increase in sales enabled by the convenience of credit cards would more than make up for credit cards’ attendant fees. However, it turned out that for small merchants in particular there was a major job-to-be-done; Joe Nocera explained in his 1994 book,  A Piece of the Action  :
+    
+      Fresno’s shop owners knew for a fact that, on the day the program began, some 60,000 people would be holding BankAmericards. That was a powerful number, and it had its intended effect. Merchants began to sign on. Not the big merchants, like Sears, which had its own proprietary credit card and saw the bank’s entry into the credit card business as a form of poaching. Rather, it was the smaller merchants who first came around. Larkin remembers visiting a drug store in Bakersfield, hoping to persuade its owner to accept BankAmericard. “When I explained the concept of our credit card,” he says, “the man almost knelt down and kissed my feet. ‘You’ll be the savior of my business,’ he said. We went into his back office,” Larkin continues. “He had three girls working on Burroughs bookkeeping machines, each handling 1,000 to 1,500 accounts. I looked at the size of the accounts: $4.58. $12.82. And he was sending out monthly bills on these accounts. Then the customers paid him maybe three or four months later. Think of what this man was spending on postage, labor, envelopes, stationery! His accounts receivables were dragging him under.”
+      A store owner who accepted the credit card was, in effect, handing his back office headaches over to the Bank of America. The bank would guarantee him payment — within days instead of months — and would take over the role of collecting from the customers. As for the bank, in addition to taking its 6 percent cut, the card was a way to get its hooks into businessmen who were not yet Bank of America customers.
+    
+    It’s easy to forget just how many things a business that takes credit cards does not need to do: it does not need to extend credit, it does not need to collect payment, it does not need to handle excess amounts of cash. It does not, as Nocera noted, need to have much back office functionality at all. Instead banks provide the credit, Visa provides the infrastructure, and merchants pay around 3% of their sales.
+     Visa’s Network 
+    Not that merchants have much choice in the matter these days. Credit cards are perhaps the best possible example of the power of a multi-sided network; Visa sits in the middle of banks, consumers, and merchants:
+      
+    Everyone benefits from each other:
+    
+    Customers and Banks:
+   
+    
+      Customers want to have always-available credit
+      Banks want to provide credit with high fees and interest rates
+    
+    
+    Customers and Merchants:
+   
+    
+      Customers want to have a card that works everywhere
+      Merchants want to be able to accept payments from anyone
+    
+    
+    Merchants and Banks:
+   
+    
+      Merchants want to be able to sell on credit while still getting their money immediately
+      Banks want to collect a fee on every purchase in exchange for managing credit and pooling risk
+    
+    Visa and Mastercard, the other major credit card network,  1  sit in the middle of each of these relationships, across billions of customers, millions of merchants, and thousands of banks, collecting a network fee — on top of the interchange fee paid to banks — on every purchase (about 0.05%). The total revenue collected — $20.6 billion in 2018 — is rather small, particularly relative to Visa’s market cap of $420 billion, but that multiple is a testament to just how durable Visa’s position is in the network it created.
+     Plaid’s Network 
+    There are some obvious parallels to be drawn between Visa’s network, particularly in its earliest days, and Plaid, the fintech startup Visa acquired yesterday. From the  Wall Street Journal  :
+    
+      Visa Inc. said Monday it would buy Plaid Inc. for $5.3 billion, as part of an effort by the card giant to tap into consumers’ growing use of financial-technology apps and noncard payments. More consumers over the past decade have been using financial-services apps to manage their savings and spending, and Plaid sits in the middle of those relationships, providing software that gives the apps access to financial accounts. Venmo, PayPal Holdings Inc.’s money-transfer service, is one of privately held Plaid’s biggest customers.
+      Visa is the largest U.S. card network, handling $3.4 trillion of credit, debit and prepaid-card transactions in the first nine months of 2019, according to the Nilson Report. Its clients are largely comprised of banks that issue credit and debit cards, but the company is looking to expand its presence in the burgeoning field of electronic payments, where trillions of dollars are sent by wire transfer or between bank accounts globally each year.
+    
+    Plaid has its own three-sided network, but it operates a bit differently than Visa’s:
+      
+    The benefits to some parts of the network are more obvious than others:
+    
+      Developers are able to immediately connect to their customers’ bank accounts without having to implement custom integrations with thousands of banks or waiting several days for traditional verification methods (making two deposits of less than a dollar and having the customer report how much).
+      Consumers are able to use new fin tech apps like Venmo immediately, without having to wait several days.
+      Banks…well this is where it gets messy.
+    
+     Plaid’s Product 
+    To understand how the banks fit in this network it is important to understand what exactly Plaid does. Many banks in the U.S. do not have APIs (Application Programming Interfaces) that offer a programmatic means of accessing a particular account; those that do are not consistent with each other in either implementation or in features. Plaid gets around this by effectively acting as a deputy for consumers: the latter give Plaid their username and password for their bank account, and Plaid utilizes that to basically log in to a bank’s website on the user’s behalf.
+    If this sounds a bit shady, well, it kind of is! Bank login information is among the most sensitive credentials consumers have, and apparently one in four people in the U.S. with a bank account have shared those credentials with Plaid. Nearly all did so without knowing any better; here, for example, is the interface Betterment offers when you try and add a bank account:
+      
+    That is 
+    not
+    an interface for Chase; it is Plaid,  2  effectively training end users to enter their bank credentials in an app and/or on a site that is not their bank! Oh, and because this is very much a hack, Plaid fails between 5 and 10 percent of the time.
+    Developers, it should be noted, aren’t particularly bothered by this: in fact, they are paying Plaid for every successful log-in. Users, meanwhile, are likely unaware about just how much access and data they are giving away, but at the same time, have a real desire to access new financial services that require a connection to their bank account. The big problem is that the banks aren’t too sure if they want to participate.
+    The reticence is understandable. There is, for example, the fact that many banks’ technical infrastructure is ancient and built around assumptions that did not include APIs for 3rd-parties. More importantly, though, is the power of inertia: as long as it is hard to move money around, the more likely it is that that money will stay in the bank, collecting minuscule interest; or, if customers need value-added services, the path of lowest resistance will be simply getting them from their bank.
+    An API-based world could change this dramatically: suddenly consumers could commission robo-advisors to move their cash to whoever is offering the best rates, or to automatically refinance debt. Value-added services from multiple vendors would be equally easy to access, meaning they would have to compete on price or terms. In other words, much like the open Internet, banks fear that profits will be rapidly transformed into consumer benefit.
+     Jobs for Banks 
+    This is where Visa can potentially make a difference and, by extension, pay for this acquisition. $5.3 billion is 
+    very
+    steep — around 50x revenue — and Plaid’s business model is not particularly attractive: the company makes the majority of its money when users connect their bank accounts, which for most applications is a one-time event; contrast that to Visa’s credit card network, which earns a fee on every single transaction.
+    
+    UPDATE: Plaid makes money every time a user accesses their account for a transaction; for example, every time you pay someone in Venmo. The company says that revenue from these recurring transactions now exceeds revenue earned from bank verification.
+   
+    What Visa needs to do is figure out what jobs it can do for banks that makes it worthwhile for them to build out the necessary APIs. The most obvious one is security; as a  U.S. Treasury Report on Nonbank Financials, Fintech, and Innovation  noted:
+    
+      The practice of using login credentials for screen-scraping poses significant security risks, which have been recognized for nearly two decades. Screen-scraping increases cybersecurity and fraud risks as consumers provide their login credentials to access fintech applications. During outreach meetings with Treasury, there was universal agreement among financial services companies, data aggregators, consumer fintech application providers, consumer advocates, and regulators that the sharing of login credentials constitutes a highly risky practice.
+    
+    A second job Visa can do is being the devil banks know; that same Treasury report highlighted the fact that the United Kingdom and European Union have initiatives requiring API access to bank accounts, but recommended a private solution. Visa, after this acquisition, is well-placed to leverage Plaid’s widespread use in fintech application and its relationship with banks to come up with a standard that will likely be more favorable to the banks than one imposed by the government.
+    What is most necessary, though, is selling banks on the idea that they no longer need the equivalent of three people working on bookkeeping machines; hand over those customer service headaches to companies that will specialize in them, over rails Visa will provide.
+     Visa’s Optionality 
+    This hints at the best case scenario for Visa from this acquisition: a new financial network, with Visa at its center, transforming the consumer financial services industry just as the credit card transformed the consumer retail industry. If that happens, it’s not out of the question that such a network will be so superior to today’s means of moving financial information and data that the company will be able to charge an ongoing toll, instead of simply a set-up fee (and, perhaps, share it with the banks).
+    The worst case scenario, meanwhile, will see Plaid’s creaky approach deliver barely good enough service to fintech applications in the U.S., with nothing near the reliability or profitability of Visa’s credit card network. Which, from Visa’s perspective, is not a problem either!
+    Visa will also be able to help Plaid expand internationally, including to more favorable markets like the U.K. and E.U. At first glance, open banking might seem to be a problem for Plaid, but the truth is that screen-scraping is not a long-term solution, and developers will still prefer to use one well-built API that abstracts away thousands of financial institutions instead of re-inventing the integration wheel.
+    And, most importantly from Visa’s perspective, the credit card business is not going anywhere — if anything, it’s getting stronger. Companies like Stripe are making credit cards more useful in more places, while Apple is making it even easier to use credit cards both online and offline. It is tempting to look at how payments work in countries like China, but that ignores the path dependency of one market using cash until recently, and the other receiving unsolicited Bank Americards 61 years ago. Once a job is done — and credit cards do their jobs very well — it takes a 10x improvement to get users to switch, and, in a three-sided network, that 10x is 10^  3  .
+    
+    I wrote a follow-up to this article in
+    
+     this Daily Update
+    
+    .
+   
+    
+      American Express and Discover, the other major credit card companies, integrate the banking and network components; they still facilitate a network between merchants and consumers [  ↩  ]
+      Well technically Quovo, which  Plaid bought last year  in a smart move to consolidate its position [  ↩  ]
+    
+    
+      
+         Share 
+        
+          
+              Facebook  
+              Twitter  
+              LinkedIn  
+              Email  
+            
+          
+        
+      
+    
+    
+       
+     Related
+     
+    
+  
+  
+
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2020/visa-plaid-networks-and-jobs/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2020/visa-plaid-networks-and-jobs/&title=Visa, Plaid, Networks, and Jobs&caption=
+  
+     Visa, Plaid, Networks, and Jobs 
+    
+  Posted on             Tuesday, January 14, 2020 
+            Monday, February 17, 2020 
+     Author  by  Ben Thompson   
+    
+    
+  
+  
+  
+    Before the network, there is the job.
+    In the case of Visa, or, to be more exact, the Bank Americard that would eventually be spun out and renamed Visa, the job for consumers was obvious: instant credit for anything, without the need for a merchant-specific account or a visit to the bank for a personal loan. And so, when Bank of America dropped 60,000 Bank Americards on its customers in Fresno, California, in 1958, they had an immediate reason to give this new-fangled financial product a try.
+    What may be less obvious is why Fresno’s merchants might have been interested, particularly since Bank of America planned to charge them 6% of sales. Remember, this is 
+    before
+    the network: it was not at all obvious, as it is today, that the increase in sales enabled by the convenience of credit cards would more than make up for credit cards’ attendant fees. However, it turned out that for small merchants in particular there was a major job-to-be-done; Joe Nocera explained in his 1994 book,  A Piece of the Action  :
+    
+      Fresno’s shop owners knew for a fact that, on the day the program began, some 60,000 people would be holding BankAmericards. That was a powerful number, and it had its intended effect. Merchants began to sign on. Not the big merchants, like Sears, which had its own proprietary credit card and saw the bank’s entry into the credit card business as a form of poaching. Rather, it was the smaller merchants who first came around. Larkin remembers visiting a drug store in Bakersfield, hoping to persuade its owner to accept BankAmericard. “When I explained the concept of our credit card,” he says, “the man almost knelt down and kissed my feet. ‘You’ll be the savior of my business,’ he said. We went into his back office,” Larkin continues. “He had three girls working on Burroughs bookkeeping machines, each handling 1,000 to 1,500 accounts. I looked at the size of the accounts: $4.58. $12.82. And he was sending out monthly bills on these accounts. Then the customers paid him maybe three or four months later. Think of what this man was spending on postage, labor, envelopes, stationery! His accounts receivables were dragging him under.”
+      A store owner who accepted the credit card was, in effect, handing his back office headaches over to the Bank of America. The bank would guarantee him payment — within days instead of months — and would take over the role of collecting from the customers. As for the bank, in addition to taking its 6 percent cut, the card was a way to get its hooks into businessmen who were not yet Bank of America customers.
+    
+    It’s easy to forget just how many things a business that takes credit cards does not need to do: it does not need to extend credit, it does not need to collect payment, it does not need to handle excess amounts of cash. It does not, as Nocera noted, need to have much back office functionality at all. Instead banks provide the credit, Visa provides the infrastructure, and merchants pay around 3% of their sales.
+     Visa’s Network 
+    Not that merchants have much choice in the matter these days. Credit cards are perhaps the best possible example of the power of a multi-sided network; Visa sits in the middle of banks, consumers, and merchants:
+      
+    Everyone benefits from each other:
+    
+    Customers and Banks:
+   
+    
+      Customers want to have always-available credit
+      Banks want to provide credit with high fees and interest rates
+    
+    
+    Customers and Merchants:
+   
+    
+      Customers want to have a card that works everywhere
+      Merchants want to be able to accept payments from anyone
+    
+    
+    Merchants and Banks:
+   
+    
+      Merchants want to be able to sell on credit while still getting their money immediately
+      Banks want to collect a fee on every purchase in exchange for managing credit and pooling risk
+    
+    Visa and Mastercard, the other major credit card network,  1  sit in the middle of each of these relationships, across billions of customers, millions of merchants, and thousands of banks, collecting a network fee — on top of the interchange fee paid to banks — on every purchase (about 0.05%). The total revenue collected — $20.6 billion in 2018 — is rather small, particularly relative to Visa’s market cap of $420 billion, but that multiple is a testament to just how durable Visa’s position is in the network it created.
+     Plaid’s Network 
+    There are some obvious parallels to be drawn between Visa’s network, particularly in its earliest days, and Plaid, the fintech startup Visa acquired yesterday. From the  Wall Street Journal  :
+    
+      Visa Inc. said Monday it would buy Plaid Inc. for $5.3 billion, as part of an effort by the card giant to tap into consumers’ growing use of financial-technology apps and noncard payments. More consumers over the past decade have been using financial-services apps to manage their savings and spending, and Plaid sits in the middle of those relationships, providing software that gives the apps access to financial accounts. Venmo, PayPal Holdings Inc.’s money-transfer service, is one of privately held Plaid’s biggest customers.
+      Visa is the largest U.S. card network, handling $3.4 trillion of credit, debit and prepaid-card transactions in the first nine months of 2019, according to the Nilson Report. Its clients are largely comprised of banks that issue credit and debit cards, but the company is looking to expand its presence in the burgeoning field of electronic payments, where trillions of dollars are sent by wire transfer or between bank accounts globally each year.
+    
+    Plaid has its own three-sided network, but it operates a bit differently than Visa’s:
+      
+    The benefits to some parts of the network are more obvious than others:
+    
+      Developers are able to immediately connect to their customers’ bank accounts without having to implement custom integrations with thousands of banks or waiting several days for traditional verification methods (making two deposits of less than a dollar and having the customer report how much).
+      Consumers are able to use new fin tech apps like Venmo immediately, without having to wait several days.
+      Banks…well this is where it gets messy.
+    
+     Plaid’s Product 
+    To understand how the banks fit in this network it is important to understand what exactly Plaid does. Many banks in the U.S. do not have APIs (Application Programming Interfaces) that offer a programmatic means of accessing a particular account; those that do are not consistent with each other in either implementation or in features. Plaid gets around this by effectively acting as a deputy for consumers: the latter give Plaid their username and password for their bank account, and Plaid utilizes that to basically log in to a bank’s website on the user’s behalf.
+    If this sounds a bit shady, well, it kind of is! Bank login information is among the most sensitive credentials consumers have, and apparently one in four people in the U.S. with a bank account have shared those credentials with Plaid. Nearly all did so without knowing any better; here, for example, is the interface Betterment offers when you try and add a bank account:
+      
+    That is 
+    not
+    an interface for Chase; it is Plaid,  2  effectively training end users to enter their bank credentials in an app and/or on a site that is not their bank! Oh, and because this is very much a hack, Plaid fails between 5 and 10 percent of the time.
+    Developers, it should be noted, aren’t particularly bothered by this: in fact, they are paying Plaid for every successful log-in. Users, meanwhile, are likely unaware about just how much access and data they are giving away, but at the same time, have a real desire to access new financial services that require a connection to their bank account. The big problem is that the banks aren’t too sure if they want to participate.
+    The reticence is understandable. There is, for example, the fact that many banks’ technical infrastructure is ancient and built around assumptions that did not include APIs for 3rd-parties. More importantly, though, is the power of inertia: as long as it is hard to move money around, the more likely it is that that money will stay in the bank, collecting minuscule interest; or, if customers need value-added services, the path of lowest resistance will be simply getting them from their bank.
+    An API-based world could change this dramatically: suddenly consumers could commission robo-advisors to move their cash to whoever is offering the best rates, or to automatically refinance debt. Value-added services from multiple vendors would be equally easy to access, meaning they would have to compete on price or terms. In other words, much like the open Internet, banks fear that profits will be rapidly transformed into consumer benefit.
+     Jobs for Banks 
+    This is where Visa can potentially make a difference and, by extension, pay for this acquisition. $5.3 billion is 
+    very
+    steep — around 50x revenue — and Plaid’s business model is not particularly attractive: the company makes the majority of its money when users connect their bank accounts, which for most applications is a one-time event; contrast that to Visa’s credit card network, which earns a fee on every single transaction.
+    
+    UPDATE: Plaid makes money every time a user accesses their account for a transaction; for example, every time you pay someone in Venmo. The company says that revenue from these recurring transactions now exceeds revenue earned from bank verification.
+   
+    What Visa needs to do is figure out what jobs it can do for banks that makes it worthwhile for them to build out the necessary APIs. The most obvious one is security; as a  U.S. Treasury Report on Nonbank Financials, Fintech, and Innovation  noted:
+    
+      The practice of using login credentials for screen-scraping poses significant security risks, which have been recognized for nearly two decades. Screen-scraping increases cybersecurity and fraud risks as consumers provide their login credentials to access fintech applications. During outreach meetings with Treasury, there was universal agreement among financial services companies, data aggregators, consumer fintech application providers, consumer advocates, and regulators that the sharing of login credentials constitutes a highly risky practice.
+    
+    A second job Visa can do is being the devil banks know; that same Treasury report highlighted the fact that the United Kingdom and European Union have initiatives requiring API access to bank accounts, but recommended a private solution. Visa, after this acquisition, is well-placed to leverage Plaid’s widespread use in fintech application and its relationship with banks to come up with a standard that will likely be more favorable to the banks than one imposed by the government.
+    What is most necessary, though, is selling banks on the idea that they no longer need the equivalent of three people working on bookkeeping machines; hand over those customer service headaches to companies that will specialize in them, over rails Visa will provide.
+     Visa’s Optionality 
+    This hints at the best case scenario for Visa from this acquisition: a new financial network, with Visa at its center, transforming the consumer financial services industry just as the credit card transformed the consumer retail industry. If that happens, it’s not out of the question that such a network will be so superior to today’s means of moving financial information and data that the company will be able to charge an ongoing toll, instead of simply a set-up fee (and, perhaps, share it with the banks).
+    The worst case scenario, meanwhile, will see Plaid’s creaky approach deliver barely good enough service to fintech applications in the U.S., with nothing near the reliability or profitability of Visa’s credit card network. Which, from Visa’s perspective, is not a problem either!
+    Visa will also be able to help Plaid expand internationally, including to more favorable markets like the U.K. and E.U. At first glance, open banking might seem to be a problem for Plaid, but the truth is that screen-scraping is not a long-term solution, and developers will still prefer to use one well-built API that abstracts away thousands of financial institutions instead of re-inventing the integration wheel.
+    And, most importantly from Visa’s perspective, the credit card business is not going anywhere — if anything, it’s getting stronger. Companies like Stripe are making credit cards more useful in more places, while Apple is making it even easier to use credit cards both online and offline. It is tempting to look at how payments work in countries like China, but that ignores the path dependency of one market using cash until recently, and the other receiving unsolicited Bank Americards 61 years ago. Once a job is done — and credit cards do their jobs very well — it takes a 10x improvement to get users to switch, and, in a three-sided network, that 10x is 10^  3  .
+    
+    I wrote a follow-up to this article in
+    
+     this Daily Update
+    
+    .
+   
+    
+      American Express and Discover, the other major credit card companies, integrate the banking and network components; they still facilitate a network between merchants and consumers [  ↩  ]
+      Well technically Quovo, which  Plaid bought last year  in a smart move to consolidate its position [  ↩  ]
+    
+    
+      
+         Share 
+        
+          
+              Facebook  
+              Twitter  
+              LinkedIn  
+              Email  
+            
+          
+        
+      
+    
+    
+       
+     Related
+     
+    
+  
+  
+
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Visa, Plaid, Networks, and Jobs&url=https://stratechery.com/2020/visa-plaid-networks-and-jobs/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Visa, Plaid, Networks, and Jobs</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2020-01-14
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2020/visa-plaid-networks-and-jobs/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <article class="post-4542 post type-post status-publish format-standard has-post-thumbnail hentry category-articles topics-events topics-fintech topics-mergers-and-acquisitions concepts-business-models concepts-evolution-of-technology concepts-history concepts-platforms companies-plaid companies-visa" id="post-4542">
+  <header class="entry-header">
+    <h1 class="entry-title" id="visa-plaid-networks-and-jobs-"> Visa, Plaid, Networks, and Jobs </h1>
+    <div class="entry-meta">
+<span class="posted-on"> <span class="screen-reader-text"> Posted on </span>           <time class="entry-date published" datetime="2020-01-14T07:37:34-08:00"> Tuesday, January 14, 2020 </time>
+           <time class="updated" datetime="2020-02-17T19:48:43-08:00"> Monday, February 17, 2020 </time>
+ </span> <span class="byline"> <span class="author vcard"> <span class="screen-reader-text"> Author </span> by <a class="url fn n" href="https://stratechery.com/author/stratechery/"> Ben Thompson </a> </span> </span>
+    </div>
+    <!-- .entry-meta -->
+  </header>
+  <!-- .entry-header -->
+  <div class="entry-content">
+    <p>Before the network, there is the job.</p>
+    <p>In the case of Visa, or, to be more exact, the Bank Americard that would eventually be spun out and renamed Visa, the job for consumers was obvious: instant credit for anything, without the need for a merchant-specific account or a visit to the bank for a personal loan. And so, when Bank of America dropped 60,000 Bank Americards on its customers in Fresno, California, in 1958, they had an immediate reason to give this new-fangled financial product a try.</p>
+    <p>What may be less obvious is why Fresno’s merchants might have been interested, particularly since Bank of America planned to charge them 6% of sales. Remember, this is <em>
+    before
+   </em> the network: it was not at all obvious, as it is today, that the increase in sales enabled by the convenience of credit cards would more than make up for credit cards’ attendant fees. However, it turned out that for small merchants in particular there was a major job-to-be-done; Joe Nocera explained in his 1994 book, <a href="https://www.simonandschuster.com/books/A-Piece-of-the-Action/Joe-Nocera/9781476744896"> A Piece of the Action </a> :</p>
+    <blockquote>
+      <p>Fresno’s shop owners knew for a fact that, on the day the program began, some 60,000 people would be holding BankAmericards. That was a powerful number, and it had its intended effect. Merchants began to sign on. Not the big merchants, like Sears, which had its own proprietary credit card and saw the bank’s entry into the credit card business as a form of poaching. Rather, it was the smaller merchants who first came around. Larkin remembers visiting a drug store in Bakersfield, hoping to persuade its owner to accept BankAmericard. “When I explained the concept of our credit card,” he says, “the man almost knelt down and kissed my feet. ‘You’ll be the savior of my business,’ he said. We went into his back office,” Larkin continues. “He had three girls working on Burroughs bookkeeping machines, each handling 1,000 to 1,500 accounts. I looked at the size of the accounts: $4.58. $12.82. And he was sending out monthly bills on these accounts. Then the customers paid him maybe three or four months later. Think of what this man was spending on postage, labor, envelopes, stationery! His accounts receivables were dragging him under.”</p>
+      <p>A store owner who accepted the credit card was, in effect, handing his back office headaches over to the Bank of America. The bank would guarantee him payment — within days instead of months — and would take over the role of collecting from the customers. As for the bank, in addition to taking its 6 percent cut, the card was a way to get its hooks into businessmen who were not yet Bank of America customers.</p>
+    </blockquote>
+    <p>It’s easy to forget just how many things a business that takes credit cards does not need to do: it does not need to extend credit, it does not need to collect payment, it does not need to handle excess amounts of cash. It does not, as Nocera noted, need to have much back office functionality at all. Instead banks provide the credit, Visa provides the infrastructure, and merchants pay around 3% of their sales.</p>
+    <h4 id="visas-network-"> Visa’s Network </h4>
+    <p>Not that merchants have much choice in the matter these days. Credit cards are perhaps the best possible example of the power of a multi-sided network; Visa sits in the middle of banks, consumers, and merchants:</p>
+    <p><a href="https://stratechery.com/wp-content/uploads/2020/01/visanetwork.png"> <img alt="The Visa network" class="aligncenter size-large wp-image-4544" height="479" sizes="(max-width: 640px) 100vw, 640px" src="https://stratechery.com/wp-content/uploads/2020/01/visanetwork-1024x767.png" srcset="https://stratechery.com/wp-content/uploads/2020/01/visanetwork-1024x767.png 1024w, https://stratechery.com/wp-content/uploads/2020/01/visanetwork-300x225.png 300w, https://stratechery.com/wp-content/uploads/2020/01/visanetwork-768x575.png 768w, https://stratechery.com/wp-content/uploads/2020/01/visanetwork-841x630.png 841w, https://stratechery.com/wp-content/uploads/2020/01/visanetwork.png 1300w" width="640" /> </a></p>
+    <p>Everyone benefits from each other:</p>
+    <p><strong>
+    Customers and Banks:
+   </strong></p>
+    <ul>
+      <li>Customers want to have always-available credit</li>
+      <li>Banks want to provide credit with high fees and interest rates</li>
+    </ul>
+    <p><strong>
+    Customers and Merchants:
+   </strong></p>
+    <ul>
+      <li>Customers want to have a card that works everywhere</li>
+      <li>Merchants want to be able to accept payments from anyone</li>
+    </ul>
+    <p><strong>
+    Merchants and Banks:
+   </strong></p>
+    <ul>
+      <li>Merchants want to be able to sell on credit while still getting their money immediately</li>
+      <li>Banks want to collect a fee on every purchase in exchange for managing credit and pooling risk</li>
+    </ul>
+    <p>Visa and Mastercard, the other major credit card network, <a class="footnote-link footnote-identifier-link" href="#footnote_0_4542" id="identifier_0_4542" title="American Express and Discover, the other major credit card companies, integrate the banking and network components; they still facilitate a network between merchants and consumers"> 1 </a> sit in the middle of each of these relationships, across billions of customers, millions of merchants, and thousands of banks, collecting a network fee — on top of the interchange fee paid to banks — on every purchase (about 0.05%). The total revenue collected — $20.6 billion in 2018 — is rather small, particularly relative to Visa’s market cap of $420 billion, but that multiple is a testament to just how durable Visa’s position is in the network it created.</p>
+    <h4 id="plaids-network-"> Plaid’s Network </h4>
+    <p>There are some obvious parallels to be drawn between Visa’s network, particularly in its earliest days, and Plaid, the fintech startup Visa acquired yesterday. From the <a href="https://www.wsj.com/articles/visa-nears-deal-to-buy-fintech-startup-plaid-11578948426"> Wall Street Journal </a> :</p>
+    <blockquote>
+      <p>Visa Inc. said Monday it would buy Plaid Inc. for $5.3 billion, as part of an effort by the card giant to tap into consumers’ growing use of financial-technology apps and noncard payments. More consumers over the past decade have been using financial-services apps to manage their savings and spending, and Plaid sits in the middle of those relationships, providing software that gives the apps access to financial accounts. Venmo, PayPal Holdings Inc.’s money-transfer service, is one of privately held Plaid’s biggest customers.</p>
+      <p>Visa is the largest U.S. card network, handling $3.4 trillion of credit, debit and prepaid-card transactions in the first nine months of 2019, according to the Nilson Report. Its clients are largely comprised of banks that issue credit and debit cards, but the company is looking to expand its presence in the burgeoning field of electronic payments, where trillions of dollars are sent by wire transfer or between bank accounts globally each year.</p>
+    </blockquote>
+    <p>Plaid has its own three-sided network, but it operates a bit differently than Visa’s:</p>
+    <p><a href="https://stratechery.com/wp-content/uploads/2020/01/plaidnetwork.png"> <img alt="The Plaid network" class="aligncenter size-large wp-image-4545" height="479" sizes="(max-width: 640px) 100vw, 640px" src="https://stratechery.com/wp-content/uploads/2020/01/plaidnetwork-1024x767.png" srcset="https://stratechery.com/wp-content/uploads/2020/01/plaidnetwork-1024x767.png 1024w, https://stratechery.com/wp-content/uploads/2020/01/plaidnetwork-300x225.png 300w, https://stratechery.com/wp-content/uploads/2020/01/plaidnetwork-768x575.png 768w, https://stratechery.com/wp-content/uploads/2020/01/plaidnetwork-841x630.png 841w, https://stratechery.com/wp-content/uploads/2020/01/plaidnetwork.png 1300w" width="640" /> </a></p>
+    <p>The benefits to some parts of the network are more obvious than others:</p>
+    <ul>
+      <li>Developers are able to immediately connect to their customers’ bank accounts without having to implement custom integrations with thousands of banks or waiting several days for traditional verification methods (making two deposits of less than a dollar and having the customer report how much).</li>
+      <li>Consumers are able to use new fin tech apps like Venmo immediately, without having to wait several days.</li>
+      <li>Banks…well this is where it gets messy.</li>
+    </ul>
+    <h4 id="plaids-product-"> Plaid’s Product </h4>
+    <p>To understand how the banks fit in this network it is important to understand what exactly Plaid does. Many banks in the U.S. do not have APIs (Application Programming Interfaces) that offer a programmatic means of accessing a particular account; those that do are not consistent with each other in either implementation or in features. Plaid gets around this by effectively acting as a deputy for consumers: the latter give Plaid their username and password for their bank account, and Plaid utilizes that to basically log in to a bank’s website on the user’s behalf.</p>
+    <p>If this sounds a bit shady, well, it kind of is! Bank login information is among the most sensitive credentials consumers have, and apparently one in four people in the U.S. with a bank account have shared those credentials with Plaid. Nearly all did so without knowing any better; here, for example, is the interface Betterment offers when you try and add a bank account:</p>
+    <p><a href="https://stratechery.com/wp-content/uploads/2020/01/betterment-plaid-site.jpg"> <img alt="Betterment's add bank account flow" class="aligncenter size-large wp-image-4543" height="459" sizes="(max-width: 640px) 100vw, 640px" src="https://stratechery.com/wp-content/uploads/2020/01/betterment-plaid-site-1024x735.jpg" srcset="https://stratechery.com/wp-content/uploads/2020/01/betterment-plaid-site-1024x735.jpg 1024w, https://stratechery.com/wp-content/uploads/2020/01/betterment-plaid-site-300x215.jpg 300w, https://stratechery.com/wp-content/uploads/2020/01/betterment-plaid-site-768x551.jpg 768w, https://stratechery.com/wp-content/uploads/2020/01/betterment-plaid-site-878x630.jpg 878w, https://stratechery.com/wp-content/uploads/2020/01/betterment-plaid-site.jpg 1300w" width="640" /> </a></p>
+    <p>That is <em>
+    not
+   </em> an interface for Chase; it is Plaid, <a class="footnote-link footnote-identifier-link" href="#footnote_1_4542" id="identifier_1_4542" title="Well technically Quovo, which Plaid bought last year in a smart move to consolidate its position"> 2 </a> effectively training end users to enter their bank credentials in an app and/or on a site that is not their bank! Oh, and because this is very much a hack, Plaid fails between 5 and 10 percent of the time.</p>
+    <p>Developers, it should be noted, aren’t particularly bothered by this: in fact, they are paying Plaid for every successful log-in. Users, meanwhile, are likely unaware about just how much access and data they are giving away, but at the same time, have a real desire to access new financial services that require a connection to their bank account. The big problem is that the banks aren’t too sure if they want to participate.</p>
+    <p>The reticence is understandable. There is, for example, the fact that many banks’ technical infrastructure is ancient and built around assumptions that did not include APIs for 3rd-parties. More importantly, though, is the power of inertia: as long as it is hard to move money around, the more likely it is that that money will stay in the bank, collecting minuscule interest; or, if customers need value-added services, the path of lowest resistance will be simply getting them from their bank.</p>
+    <p>An API-based world could change this dramatically: suddenly consumers could commission robo-advisors to move their cash to whoever is offering the best rates, or to automatically refinance debt. Value-added services from multiple vendors would be equally easy to access, meaning they would have to compete on price or terms. In other words, much like the open Internet, banks fear that profits will be rapidly transformed into consumer benefit.</p>
+    <h4 id="jobs-for-banks-"> Jobs for Banks </h4>
+    <p>This is where Visa can potentially make a difference and, by extension, pay for this acquisition. $5.3 billion is <em>
+    very
+   </em> steep — around 50x revenue — and Plaid’s business model is not particularly attractive: the company makes the majority of its money when users connect their bank accounts, which for most applications is a one-time event; contrast that to Visa’s credit card network, which earns a fee on every single transaction.</p>
+    <p><em>
+    UPDATE: Plaid makes money every time a user accesses their account for a transaction; for example, every time you pay someone in Venmo. The company says that revenue from these recurring transactions now exceeds revenue earned from bank verification.
+   </em></p>
+    <p>What Visa needs to do is figure out what jobs it can do for banks that makes it worthwhile for them to build out the necessary APIs. The most obvious one is security; as a <a href="https://home.treasury.gov/sites/default/files/2018-07/A-Financial-System-that-Creates-Economic-Opportunities---Nonbank-Financi....pdf"> U.S. Treasury Report on Nonbank Financials, Fintech, and Innovation </a> noted:</p>
+    <blockquote>
+      <p>The practice of using login credentials for screen-scraping poses significant security risks, which have been recognized for nearly two decades. Screen-scraping increases cybersecurity and fraud risks as consumers provide their login credentials to access fintech applications. During outreach meetings with Treasury, there was universal agreement among financial services companies, data aggregators, consumer fintech application providers, consumer advocates, and regulators that the sharing of login credentials constitutes a highly risky practice.</p>
+    </blockquote>
+    <p>A second job Visa can do is being the devil banks know; that same Treasury report highlighted the fact that the United Kingdom and European Union have initiatives requiring API access to bank accounts, but recommended a private solution. Visa, after this acquisition, is well-placed to leverage Plaid’s widespread use in fintech application and its relationship with banks to come up with a standard that will likely be more favorable to the banks than one imposed by the government.</p>
+    <p>What is most necessary, though, is selling banks on the idea that they no longer need the equivalent of three people working on bookkeeping machines; hand over those customer service headaches to companies that will specialize in them, over rails Visa will provide.</p>
+    <h4 id="visas-optionality-"> Visa’s Optionality </h4>
+    <p>This hints at the best case scenario for Visa from this acquisition: a new financial network, with Visa at its center, transforming the consumer financial services industry just as the credit card transformed the consumer retail industry. If that happens, it’s not out of the question that such a network will be so superior to today’s means of moving financial information and data that the company will be able to charge an ongoing toll, instead of simply a set-up fee (and, perhaps, share it with the banks).</p>
+    <p>The worst case scenario, meanwhile, will see Plaid’s creaky approach deliver barely good enough service to fintech applications in the U.S., with nothing near the reliability or profitability of Visa’s credit card network. Which, from Visa’s perspective, is not a problem either!</p>
+    <p>Visa will also be able to help Plaid expand internationally, including to more favorable markets like the U.K. and E.U. At first glance, open banking might seem to be a problem for Plaid, but the truth is that screen-scraping is not a long-term solution, and developers will still prefer to use one well-built API that abstracts away thousands of financial institutions instead of re-inventing the integration wheel.</p>
+    <p>And, most importantly from Visa’s perspective, the credit card business is not going anywhere — if anything, it’s getting stronger. Companies like Stripe are making credit cards more useful in more places, while Apple is making it even easier to use credit cards both online and offline. It is tempting to look at how payments work in countries like China, but that ignores the path dependency of one market using cash until recently, and the other receiving unsolicited Bank Americards 61 years ago. Once a job is done — and credit cards do their jobs very well — it takes a 10x improvement to get users to switch, and, in a three-sided network, that 10x is 10^ <sup> 3 </sup> .</p>
+    <p><em>
+    I wrote a follow-up to this article in
+    <a href="https://stratechery.com/2020/visa-plaid-follow-up-apple-v-fbi-round-2-2020-differences/">
+     this Daily Update
+    </a>
+    .
+   </em></p>
+    <ol class="footnotes">
+      <li class="footnote" id="footnote_0_4542">American Express and Discover, the other major credit card companies, integrate the banking and network components; they still facilitate a network between merchants and consumers [ <a class="footnote-link footnote-back-link" href="#identifier_0_4542"> ↩ </a> ]</li>
+      <li class="footnote" id="footnote_1_4542">Well technically Quovo, which <a href="https://www.cnbc.com/2019/01/08/fintech-start-up-plaid-to-buy-competitor-quovo-for-200-million-in-its-first-major-deal.html"> Plaid bought last year </a> in a smart move to consolidate its position [ <a class="footnote-link footnote-back-link" href="#identifier_1_4542"> ↩ </a> ]</li>
+    </ol>
+    <div class="sharedaddy sd-sharing-enabled">
+      <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
+        <h3 class="sd-title" id="share-"> Share </h3>
+        <div class="sd-content">
+          <ul>
+            <li class="share-facebook"><a class="share-facebook sd-button share-icon" data-shared="sharing-facebook-4542" href="https://stratechery.com/2020/visa-plaid-networks-and-jobs/?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Facebook"> <span> Facebook </span> </a></li>
+            <li class="share-twitter"><a class="share-twitter sd-button share-icon" data-shared="sharing-twitter-4542" href="https://stratechery.com/2020/visa-plaid-networks-and-jobs/?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Twitter"> <span> Twitter </span> </a></li>
+            <li class="share-linkedin"><a class="share-linkedin sd-button share-icon" data-shared="sharing-linkedin-4542" href="https://stratechery.com/2020/visa-plaid-networks-and-jobs/?share=linkedin" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on LinkedIn"> <span> LinkedIn </span> </a></li>
+            <li class="share-email"><a class="share-email sd-button share-icon" data-shared="" href="https://stratechery.com/2020/visa-plaid-networks-and-jobs/?share=email" rel="nofollow noopener noreferrer" target="_blank" title="Click to email this to a friend"> <span> Email </span> </a></li>
+            <li class="share-end"></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="jp-relatedposts" id="jp-relatedposts">
+      <h3 class="jp-relatedposts-headline" id="related"> <em>
+     Related
+    </em> </h3>
+    </div>
+  </div>
+  <!-- .entry-content -->
+</article>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2020-02-03</time>
+        <a href="https://nodebe4.github.io/opinion/2020-02-03/Facebooks_Platform_Opportunity/">
+          Facebook’s Platform Opportunity
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-01-28</time>
+        <a href="https://nodebe4.github.io/opinion/2020-01-28/The_Tragic_iPad/">
+          The Tragic iPad
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-01-07</time>
+        <a href="https://nodebe4.github.io/opinion/2020-01-07/The_End_of_the_Beginning/">
+          The End of the Beginning
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-12-18</time>
+        <a href="https://nodebe4.github.io/opinion/2019-12-18/The_2019_Stratechery_Year_in_Review/">
+          The 2019 Stratechery Year in Review
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2020-01-14/%E5%8F%B0%E7%81%A3%E5%A4%A7%E9%81%B8%E7%9A%84%E5%88%86%E6%9E%90-%E6%B7%B1%E5%9C%B3%E6%88%BF%E5%9C%B0%E7%94%A2%E5%B8%82%E5%A0%B4%E9%99%B7%E5%85%A5%E5%9B%B0%E5%A2%83/">
+            前一篇：台灣大選的分析；深圳房地產市場陷入困境
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2020-01-14/%E5%9C%B0%E7%B7%A3%E6%94%BF%E6%B2%BB%E8%A7%80%E5%AF%9F-%E4%B8%AD%E7%BE%8E%E5%8D%94%E8%AD%B0%E7%B0%BD%E7%BD%B2%E5%89%8D-%E9%BB%A8%E5%AA%92%E5%90%81-%E5%AE%88%E4%BD%8F%E5%B9%B3%E5%B8%B8%E5%BF%83/">
+            後一篇：地緣政治觀察：中美協議簽署前 黨媒吁「守住平常心」
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2020-01-14/%E5%8F%B0%E7%81%A3%E5%A4%A7%E9%81%B8%E7%9A%84%E5%88%86%E6%9E%90-%E6%B7%B1%E5%9C%B3%E6%88%BF%E5%9C%B0%E7%94%A2%E5%B8%82%E5%A0%B4%E9%99%B7%E5%85%A5%E5%9B%B0%E5%A2%83/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2020-01-14/%E5%9C%B0%E7%B7%A3%E6%94%BF%E6%B2%BB%E8%A7%80%E5%AF%9F-%E4%B8%AD%E7%BE%8E%E5%8D%94%E8%AD%B0%E7%B0%BD%E7%BD%B2%E5%89%8D-%E9%BB%A8%E5%AA%92%E5%90%81-%E5%AE%88%E4%BD%8F%E5%B9%B3%E5%B8%B8%E5%BF%83/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2020-01-28/The_Tragic_iPad/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2020-01-07/The_End_of_the_Beginning/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2020-01-14/%E5%8F%B0%E7%81%A3%E5%A4%A7%E9%81%B8%E7%9A%84%E5%88%86%E6%9E%90-%E6%B7%B1%E5%9C%B3%E6%88%BF%E5%9C%B0%E7%94%A2%E5%B8%82%E5%A0%B4%E9%99%B7%E5%85%A5%E5%9B%B0%E5%A2%83/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2020-01-14/%E5%9C%B0%E7%B7%A3%E6%94%BF%E6%B2%BB%E8%A7%80%E5%AF%9F-%E4%B8%AD%E7%BE%8E%E5%8D%94%E8%AD%B0%E7%B0%BD%E7%BD%B2%E5%89%8D-%E9%BB%A8%E5%AA%92%E5%90%81-%E5%AE%88%E4%BD%8F%E5%B9%B3%E5%B8%B8%E5%BF%83/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2020-01-28/The_Tragic_iPad/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2020-01-07/The_End_of_the_Beginning/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

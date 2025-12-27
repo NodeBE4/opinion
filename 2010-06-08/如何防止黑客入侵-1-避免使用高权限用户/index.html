@@ -1,0 +1,3591 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>如何防止黑客入侵[1]：避免使用高权限用户 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+
+      如何防止黑客入侵[1]：避免使用高权限用户  
+  
+    
+      
+    
+  
+  
+为啥俺把这个话题列在头一条？——因为这是个非常普遍、且远远没有得到重视的问题。根据俺的经验，如果你能够养成好习惯，【不】使用高权限用户（尤其是管理员）进行日常操作，就可以大大降低被黑的概率。下面，俺就来具体介绍一下。  
+       
+        ★基本概念扫盲 
+  考虑到本文是面向外行人士，先进行一下名词解释。        ◇用户权限 
+  所谓的“用户权限”，通俗地说，就是某个用户的权力有多大。权力越大，能干的事情越多。        ◇用户组 
+  用户组，顾名思义，就是一组用户的集合。  在主流的操作系统中，“用户权限”通常是和“用户组”挂钩滴。针对不同的用户组，分配了不同的权限。  为了让用户省事儿，Windows 系统内置了若干用户组（比如：Users、Power Users、Guests、等）。这些内置的用户组，事先已经预定义好若干用户权限。        ◇高权限用户 
+  本文提及的【高权限用户】，主要是指 Windows 系统中 Administrators 组的用户或 Linux/Unix 系统中 root 组的用户。  另外，顺便消除一个误解。很多菜鸟以为：Windows 系统中，只有用户名为“Administrator”的用户才具有管理员权限。其实捏，任何一个用户，即使用户名不叫“Administrator”，只要是属于“Administrators 组”，也同样具有管理员权限。         ★反面教材 
+  菜鸟的例子就不提了，光说说俺接触过的很多程序员吧。这帮家伙在使用 Linux/Unix 系统进行开发时，都晓得应该用普通用户的帐号进行操作；当需要做某些高级权限的操作，再切换到管理员帐号（root 帐号）。但即便是这些开发人员，在自己的 Windows 系统中，却喜欢用管理员（Administrator）进行日常操作，实在是很讽刺。  如果连 IT 专业的开发人员都这样，那不太懂技术的菜鸟，就可想而知了。        ★危害性 
+  如果你平时总是用管理员权限登录到系统并进行日常工作，那就意味着你所运行的每一个程序，同时也具有了管理员权限。要知道，管理员权限的权力是非常大滴——几乎可以干任何事情。  假设你有上述【坏】习惯。某天，你从网上下载了一个软件，且软件已经感染了病毒。那么，当你运行这个软件时，这个病毒就会被激活。更要命的是，它也同样具有【管理员权限】。也就是说，病毒获得了与杀毒软件平起平坐的地位。假如这个病毒的作者水平再高一些，甚至可以骗过杀毒软件或者直接把杀毒软件干掉。  除了病毒，木马也是一样。假设你上网的时候，一不留神访问了某个挂马的网站。一旦木马被激活，也同样是以【管理员权限】运行，危害同样也巨大。        ★你该如何做？ 
+  考虑到 Windows 系统的用户占绝大多数，俺就光拿 Windows 系统来说事儿。希望 Linux 及 Mac OS 的 fans 不要见怪哦。  为了尽量少用高权限用户。你最好刚装好系统之后，单独创建一个非管理员用户。        
+  你可以让该用户仅仅属于“Power Users 组”，如下图：        
+  如果想更安全的话，可以只加入“Users 组”，今后，就主要通过这个用户进行日常的操作。如下图：        
+  考虑到有些同学不了解这两个用户组，在权限方面与管理员有啥区别。俺简单列举一下。        ◇“Power Users组”与“Administrators 组”的差别 
+  相对于“Administrators 组”，“Power Users 组”缺少了如下几项权限（俺只列主要的）：  1. 不能添加、删除、禁用系统中的其它用户。  2. 不能修改其它用户的属性（包括口令、所属的用户组、等）  3. 不能安装/卸载硬件驱动程序。  4. 不能安装/卸载某些应用软件。  5. 不能查看系统的安全日志。        ◇“Users 组”与“Administrators 组”的差别 
+  “Users 组”的权限比“Power Users 组”更小。除了“Power Users 组”做不到的事情，“Users 组”还【缺少】如下权限（俺只列主要的）：  1. 不能修改系统时间。  2. 不能修改某些系统目录（包括：系统盘的 
+   \WINDOWS
+   目录、系统盘的 
+   \WINDOWS\SYSTEM32
+   目录、系统盘的 
+   \Program Files
+   目录）。  3. 不能启动/停止某些系统服务。  4. 不能修改注册表 
+   HKEY_LOCAL_MECHINE
+   下的所有键值。   从上述对照，明显可知，“Users 组”的权限更小，使用起来更安全。比如说，即使你运行了一个带毒的程序，由于病毒和你一样，也仅有“Users 组”的权限。所以病毒也就无法修改/破坏重要的系统目录，掀不起太大风浪。         ★可能的麻烦 
+  通常来说，越安全的措施，往往也意味着越麻烦。但是这些麻烦，都有相应的解决之道。        ◇切换用户的麻烦 
+  当你以普通用户身份登录后，可能由于某些原因，需要用管理员用户干点事情。但是你（可能是开了很多程序）又不想把当前用户注销。  俺的建议是：使用【快速用户切换】（洋文叫：Fast User Switching）功能来切换用户。此功能从 Windows XP 开始提供。简单地说，就是可以让几个不同的用户同时登录同一个系统，平滑地切换。有了此功能，这个麻烦就不明显啦。   如果你非常不幸，还在使用比较古老的 Windows 2000 系统；或者你使用的是 Windows 的服务版本（比如 Windows Server 2003）。在这些版本的 Windows 系统中，默认是没有“快速用户切换”功能滴。这可咋办捏？  俺的建议是：  可以在【不】注销当前用户的情况下，以另一个用户（比如管理员）启动某个需要更高权限的程序。为了说清楚，举例如下：  假设你当前处于一个普通用户的环境，但是想另外启动一个具有管理员权限的程序，比如说命令行程序（cmd.exe）。  1. 你先创建一个指向 
+   cmd.exe
+   的快捷方式。（该咋样创建快捷方式，就不用俺来教了吧？）  2. 用鼠标选中该快捷方式，在快捷菜单（右键菜单）中，选择“属性”菜单项。出现如下对话框。        
+  3. 在该对话框中，点“高级”按钮。出现如下对话框。把“以其他用户身份运行”选项打勾，即可。至此，快捷方式创建完毕。        
+  4. 以后，如果你想在普通用户环境中，以管理员身份执行命令行，只需点击该快捷方式，就会弹出如下对话框。然后在该对话框中输入管理员的用户名和口令，就能以管理员的身份，把该命令行启动起来。        
+       ◇安装软件/驱动的麻烦 
+  安装驱动总是需要【管理员权限】才行；另外，很多软件（比如 MS Office）在安装时，也要求用【管理员权限】进行。  俺的建议是：  在刚装好系统之后，先用管理员用户把上述这些软件/驱动程序都搞好。然后，就无需再用管理员用户了。毕竟你经常使用的软件相对固定，不可能三天两头安装软件或驱动（除非你是软/硬件发烧友）。即便偶尔需要重新装个软件或驱动，也可以用上述介绍的方式，【临时】切换到管理员权限。        ◇修改系统时间的麻烦 
+  如果你平时用的是“Users 组”而不是“Power Users 组”，那你连修改系统时间的权限也没有。  俺的建议是：  启用 Windows 系统自带的时间同步服务，让它帮你自动同步系统时间。   除了上述这几点，如果还有谁碰到其它的麻烦，也欢迎来信跟俺交流。俺会补充到本文中。本系列的下一个帖子，将会介绍  攻击者是如何搞定你的口令/密码  。    
+   
+    回到本系列的目录
+   
+       
+
+    版权声明
+     本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者  编程随想  和本文原始地址：   https://program-think.blogspot.com/2010/06/howto-prevent-hacker-attack-1.html 
+    
+    
+  
+  
+    
+         
+    
+    
+    
+ 
+    
+  
+
+" />
+    <meta property="og:description" content="
+
+      如何防止黑客入侵[1]：避免使用高权限用户  
+  
+    
+      
+    
+  
+  
+为啥俺把这个话题列在头一条？——因为这是个非常普遍、且远远没有得到重视的问题。根据俺的经验，如果你能够养成好习惯，【不】使用高权限用户（尤其是管理员）进行日常操作，就可以大大降低被黑的概率。下面，俺就来具体介绍一下。  
+       
+        ★基本概念扫盲 
+  考虑到本文是面向外行人士，先进行一下名词解释。        ◇用户权限 
+  所谓的“用户权限”，通俗地说，就是某个用户的权力有多大。权力越大，能干的事情越多。        ◇用户组 
+  用户组，顾名思义，就是一组用户的集合。  在主流的操作系统中，“用户权限”通常是和“用户组”挂钩滴。针对不同的用户组，分配了不同的权限。  为了让用户省事儿，Windows 系统内置了若干用户组（比如：Users、Power Users、Guests、等）。这些内置的用户组，事先已经预定义好若干用户权限。        ◇高权限用户 
+  本文提及的【高权限用户】，主要是指 Windows 系统中 Administrators 组的用户或 Linux/Unix 系统中 root 组的用户。  另外，顺便消除一个误解。很多菜鸟以为：Windows 系统中，只有用户名为“Administrator”的用户才具有管理员权限。其实捏，任何一个用户，即使用户名不叫“Administrator”，只要是属于“Administrators 组”，也同样具有管理员权限。         ★反面教材 
+  菜鸟的例子就不提了，光说说俺接触过的很多程序员吧。这帮家伙在使用 Linux/Unix 系统进行开发时，都晓得应该用普通用户的帐号进行操作；当需要做某些高级权限的操作，再切换到管理员帐号（root 帐号）。但即便是这些开发人员，在自己的 Windows 系统中，却喜欢用管理员（Administrator）进行日常操作，实在是很讽刺。  如果连 IT 专业的开发人员都这样，那不太懂技术的菜鸟，就可想而知了。        ★危害性 
+  如果你平时总是用管理员权限登录到系统并进行日常工作，那就意味着你所运行的每一个程序，同时也具有了管理员权限。要知道，管理员权限的权力是非常大滴——几乎可以干任何事情。  假设你有上述【坏】习惯。某天，你从网上下载了一个软件，且软件已经感染了病毒。那么，当你运行这个软件时，这个病毒就会被激活。更要命的是，它也同样具有【管理员权限】。也就是说，病毒获得了与杀毒软件平起平坐的地位。假如这个病毒的作者水平再高一些，甚至可以骗过杀毒软件或者直接把杀毒软件干掉。  除了病毒，木马也是一样。假设你上网的时候，一不留神访问了某个挂马的网站。一旦木马被激活，也同样是以【管理员权限】运行，危害同样也巨大。        ★你该如何做？ 
+  考虑到 Windows 系统的用户占绝大多数，俺就光拿 Windows 系统来说事儿。希望 Linux 及 Mac OS 的 fans 不要见怪哦。  为了尽量少用高权限用户。你最好刚装好系统之后，单独创建一个非管理员用户。        
+  你可以让该用户仅仅属于“Power Users 组”，如下图：        
+  如果想更安全的话，可以只加入“Users 组”，今后，就主要通过这个用户进行日常的操作。如下图：        
+  考虑到有些同学不了解这两个用户组，在权限方面与管理员有啥区别。俺简单列举一下。        ◇“Power Users组”与“Administrators 组”的差别 
+  相对于“Administrators 组”，“Power Users 组”缺少了如下几项权限（俺只列主要的）：  1. 不能添加、删除、禁用系统中的其它用户。  2. 不能修改其它用户的属性（包括口令、所属的用户组、等）  3. 不能安装/卸载硬件驱动程序。  4. 不能安装/卸载某些应用软件。  5. 不能查看系统的安全日志。        ◇“Users 组”与“Administrators 组”的差别 
+  “Users 组”的权限比“Power Users 组”更小。除了“Power Users 组”做不到的事情，“Users 组”还【缺少】如下权限（俺只列主要的）：  1. 不能修改系统时间。  2. 不能修改某些系统目录（包括：系统盘的 
+   \WINDOWS
+   目录、系统盘的 
+   \WINDOWS\SYSTEM32
+   目录、系统盘的 
+   \Program Files
+   目录）。  3. 不能启动/停止某些系统服务。  4. 不能修改注册表 
+   HKEY_LOCAL_MECHINE
+   下的所有键值。   从上述对照，明显可知，“Users 组”的权限更小，使用起来更安全。比如说，即使你运行了一个带毒的程序，由于病毒和你一样，也仅有“Users 组”的权限。所以病毒也就无法修改/破坏重要的系统目录，掀不起太大风浪。         ★可能的麻烦 
+  通常来说，越安全的措施，往往也意味着越麻烦。但是这些麻烦，都有相应的解决之道。        ◇切换用户的麻烦 
+  当你以普通用户身份登录后，可能由于某些原因，需要用管理员用户干点事情。但是你（可能是开了很多程序）又不想把当前用户注销。  俺的建议是：使用【快速用户切换】（洋文叫：Fast User Switching）功能来切换用户。此功能从 Windows XP 开始提供。简单地说，就是可以让几个不同的用户同时登录同一个系统，平滑地切换。有了此功能，这个麻烦就不明显啦。   如果你非常不幸，还在使用比较古老的 Windows 2000 系统；或者你使用的是 Windows 的服务版本（比如 Windows Server 2003）。在这些版本的 Windows 系统中，默认是没有“快速用户切换”功能滴。这可咋办捏？  俺的建议是：  可以在【不】注销当前用户的情况下，以另一个用户（比如管理员）启动某个需要更高权限的程序。为了说清楚，举例如下：  假设你当前处于一个普通用户的环境，但是想另外启动一个具有管理员权限的程序，比如说命令行程序（cmd.exe）。  1. 你先创建一个指向 
+   cmd.exe
+   的快捷方式。（该咋样创建快捷方式，就不用俺来教了吧？）  2. 用鼠标选中该快捷方式，在快捷菜单（右键菜单）中，选择“属性”菜单项。出现如下对话框。        
+  3. 在该对话框中，点“高级”按钮。出现如下对话框。把“以其他用户身份运行”选项打勾，即可。至此，快捷方式创建完毕。        
+  4. 以后，如果你想在普通用户环境中，以管理员身份执行命令行，只需点击该快捷方式，就会弹出如下对话框。然后在该对话框中输入管理员的用户名和口令，就能以管理员的身份，把该命令行启动起来。        
+       ◇安装软件/驱动的麻烦 
+  安装驱动总是需要【管理员权限】才行；另外，很多软件（比如 MS Office）在安装时，也要求用【管理员权限】进行。  俺的建议是：  在刚装好系统之后，先用管理员用户把上述这些软件/驱动程序都搞好。然后，就无需再用管理员用户了。毕竟你经常使用的软件相对固定，不可能三天两头安装软件或驱动（除非你是软/硬件发烧友）。即便偶尔需要重新装个软件或驱动，也可以用上述介绍的方式，【临时】切换到管理员权限。        ◇修改系统时间的麻烦 
+  如果你平时用的是“Users 组”而不是“Power Users 组”，那你连修改系统时间的权限也没有。  俺的建议是：  启用 Windows 系统自带的时间同步服务，让它帮你自动同步系统时间。   除了上述这几点，如果还有谁碰到其它的麻烦，也欢迎来信跟俺交流。俺会补充到本文中。本系列的下一个帖子，将会介绍  攻击者是如何搞定你的口令/密码  。    
+   
+    回到本系列的目录
+   
+       
+
+    版权声明
+     本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者  编程随想  和本文原始地址：   https://program-think.blogspot.com/2010/06/howto-prevent-hacker-attack-1.html 
+    
+    
+  
+  
+    
+         
+    
+    
+    
+ 
+    
+  
+
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="如何防止黑客入侵[1]：避免使用高权限用户" />
+    <meta property="twitter:title" content="如何防止黑客入侵[1]：避免使用高权限用户" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fprogram-think.blogspot.com%2F2010%2F06%2Fhowto-prevent-hacker-attack-1.html" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://program-think.blogspot.com/2010/06/howto-prevent-hacker-attack-1.html" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://program-think.blogspot.com/2010/06/howto-prevent-hacker-attack-1.html&text=如何防止黑客入侵[1]：避免使用高权限用户&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://program-think.blogspot.com/2010/06/howto-prevent-hacker-attack-1.html&title=如何防止黑客入侵[1]：避免使用高权限用户" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://program-think.blogspot.com/2010/06/howto-prevent-hacker-attack-1.html&title=如何防止黑客入侵[1]：避免使用高权限用户" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=如何防止黑客入侵[1]：避免使用高权限用户&body=
+
+      如何防止黑客入侵[1]：避免使用高权限用户  
+  
+    
+      
+    
+  
+  
+为啥俺把这个话题列在头一条？——因为这是个非常普遍、且远远没有得到重视的问题。根据俺的经验，如果你能够养成好习惯，【不】使用高权限用户（尤其是管理员）进行日常操作，就可以大大降低被黑的概率。下面，俺就来具体介绍一下。  
+       
+        ★基本概念扫盲 
+  考虑到本文是面向外行人士，先进行一下名词解释。        ◇用户权限 
+  所谓的“用户权限”，通俗地说，就是某个用户的权力有多大。权力越大，能干的事情越多。        ◇用户组 
+  用户组，顾名思义，就是一组用户的集合。  在主流的操作系统中，“用户权限”通常是和“用户组”挂钩滴。针对不同的用户组，分配了不同的权限。  为了让用户省事儿，Windows 系统内置了若干用户组（比如：Users、Power Users、Guests、等）。这些内置的用户组，事先已经预定义好若干用户权限。        ◇高权限用户 
+  本文提及的【高权限用户】，主要是指 Windows 系统中 Administrators 组的用户或 Linux/Unix 系统中 root 组的用户。  另外，顺便消除一个误解。很多菜鸟以为：Windows 系统中，只有用户名为“Administrator”的用户才具有管理员权限。其实捏，任何一个用户，即使用户名不叫“Administrator”，只要是属于“Administrators 组”，也同样具有管理员权限。         ★反面教材 
+  菜鸟的例子就不提了，光说说俺接触过的很多程序员吧。这帮家伙在使用 Linux/Unix 系统进行开发时，都晓得应该用普通用户的帐号进行操作；当需要做某些高级权限的操作，再切换到管理员帐号（root 帐号）。但即便是这些开发人员，在自己的 Windows 系统中，却喜欢用管理员（Administrator）进行日常操作，实在是很讽刺。  如果连 IT 专业的开发人员都这样，那不太懂技术的菜鸟，就可想而知了。        ★危害性 
+  如果你平时总是用管理员权限登录到系统并进行日常工作，那就意味着你所运行的每一个程序，同时也具有了管理员权限。要知道，管理员权限的权力是非常大滴——几乎可以干任何事情。  假设你有上述【坏】习惯。某天，你从网上下载了一个软件，且软件已经感染了病毒。那么，当你运行这个软件时，这个病毒就会被激活。更要命的是，它也同样具有【管理员权限】。也就是说，病毒获得了与杀毒软件平起平坐的地位。假如这个病毒的作者水平再高一些，甚至可以骗过杀毒软件或者直接把杀毒软件干掉。  除了病毒，木马也是一样。假设你上网的时候，一不留神访问了某个挂马的网站。一旦木马被激活，也同样是以【管理员权限】运行，危害同样也巨大。        ★你该如何做？ 
+  考虑到 Windows 系统的用户占绝大多数，俺就光拿 Windows 系统来说事儿。希望 Linux 及 Mac OS 的 fans 不要见怪哦。  为了尽量少用高权限用户。你最好刚装好系统之后，单独创建一个非管理员用户。        
+  你可以让该用户仅仅属于“Power Users 组”，如下图：        
+  如果想更安全的话，可以只加入“Users 组”，今后，就主要通过这个用户进行日常的操作。如下图：        
+  考虑到有些同学不了解这两个用户组，在权限方面与管理员有啥区别。俺简单列举一下。        ◇“Power Users组”与“Administrators 组”的差别 
+  相对于“Administrators 组”，“Power Users 组”缺少了如下几项权限（俺只列主要的）：  1. 不能添加、删除、禁用系统中的其它用户。  2. 不能修改其它用户的属性（包括口令、所属的用户组、等）  3. 不能安装/卸载硬件驱动程序。  4. 不能安装/卸载某些应用软件。  5. 不能查看系统的安全日志。        ◇“Users 组”与“Administrators 组”的差别 
+  “Users 组”的权限比“Power Users 组”更小。除了“Power Users 组”做不到的事情，“Users 组”还【缺少】如下权限（俺只列主要的）：  1. 不能修改系统时间。  2. 不能修改某些系统目录（包括：系统盘的 
+   \WINDOWS
+   目录、系统盘的 
+   \WINDOWS\SYSTEM32
+   目录、系统盘的 
+   \Program Files
+   目录）。  3. 不能启动/停止某些系统服务。  4. 不能修改注册表 
+   HKEY_LOCAL_MECHINE
+   下的所有键值。   从上述对照，明显可知，“Users 组”的权限更小，使用起来更安全。比如说，即使你运行了一个带毒的程序，由于病毒和你一样，也仅有“Users 组”的权限。所以病毒也就无法修改/破坏重要的系统目录，掀不起太大风浪。         ★可能的麻烦 
+  通常来说，越安全的措施，往往也意味着越麻烦。但是这些麻烦，都有相应的解决之道。        ◇切换用户的麻烦 
+  当你以普通用户身份登录后，可能由于某些原因，需要用管理员用户干点事情。但是你（可能是开了很多程序）又不想把当前用户注销。  俺的建议是：使用【快速用户切换】（洋文叫：Fast User Switching）功能来切换用户。此功能从 Windows XP 开始提供。简单地说，就是可以让几个不同的用户同时登录同一个系统，平滑地切换。有了此功能，这个麻烦就不明显啦。   如果你非常不幸，还在使用比较古老的 Windows 2000 系统；或者你使用的是 Windows 的服务版本（比如 Windows Server 2003）。在这些版本的 Windows 系统中，默认是没有“快速用户切换”功能滴。这可咋办捏？  俺的建议是：  可以在【不】注销当前用户的情况下，以另一个用户（比如管理员）启动某个需要更高权限的程序。为了说清楚，举例如下：  假设你当前处于一个普通用户的环境，但是想另外启动一个具有管理员权限的程序，比如说命令行程序（cmd.exe）。  1. 你先创建一个指向 
+   cmd.exe
+   的快捷方式。（该咋样创建快捷方式，就不用俺来教了吧？）  2. 用鼠标选中该快捷方式，在快捷菜单（右键菜单）中，选择“属性”菜单项。出现如下对话框。        
+  3. 在该对话框中，点“高级”按钮。出现如下对话框。把“以其他用户身份运行”选项打勾，即可。至此，快捷方式创建完毕。        
+  4. 以后，如果你想在普通用户环境中，以管理员身份执行命令行，只需点击该快捷方式，就会弹出如下对话框。然后在该对话框中输入管理员的用户名和口令，就能以管理员的身份，把该命令行启动起来。        
+       ◇安装软件/驱动的麻烦 
+  安装驱动总是需要【管理员权限】才行；另外，很多软件（比如 MS Office）在安装时，也要求用【管理员权限】进行。  俺的建议是：  在刚装好系统之后，先用管理员用户把上述这些软件/驱动程序都搞好。然后，就无需再用管理员用户了。毕竟你经常使用的软件相对固定，不可能三天两头安装软件或驱动（除非你是软/硬件发烧友）。即便偶尔需要重新装个软件或驱动，也可以用上述介绍的方式，【临时】切换到管理员权限。        ◇修改系统时间的麻烦 
+  如果你平时用的是“Users 组”而不是“Power Users 组”，那你连修改系统时间的权限也没有。  俺的建议是：  启用 Windows 系统自带的时间同步服务，让它帮你自动同步系统时间。   除了上述这几点，如果还有谁碰到其它的麻烦，也欢迎来信跟俺交流。俺会补充到本文中。本系列的下一个帖子，将会介绍  攻击者是如何搞定你的口令/密码  。    
+   
+    回到本系列的目录
+   
+       
+
+    版权声明
+     本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者  编程随想  和本文原始地址：   https://program-think.blogspot.com/2010/06/howto-prevent-hacker-attack-1.html 
+    
+    
+  
+  
+    
+         
+    
+    
+    
+ 
+    
+  
+
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://program-think.blogspot.com/2010/06/howto-prevent-hacker-attack-1.html" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://program-think.blogspot.com/2010/06/howto-prevent-hacker-attack-1.html&title=如何防止黑客入侵[1]：避免使用高权限用户&caption=
+
+      如何防止黑客入侵[1]：避免使用高权限用户  
+  
+    
+      
+    
+  
+  
+为啥俺把这个话题列在头一条？——因为这是个非常普遍、且远远没有得到重视的问题。根据俺的经验，如果你能够养成好习惯，【不】使用高权限用户（尤其是管理员）进行日常操作，就可以大大降低被黑的概率。下面，俺就来具体介绍一下。  
+       
+        ★基本概念扫盲 
+  考虑到本文是面向外行人士，先进行一下名词解释。        ◇用户权限 
+  所谓的“用户权限”，通俗地说，就是某个用户的权力有多大。权力越大，能干的事情越多。        ◇用户组 
+  用户组，顾名思义，就是一组用户的集合。  在主流的操作系统中，“用户权限”通常是和“用户组”挂钩滴。针对不同的用户组，分配了不同的权限。  为了让用户省事儿，Windows 系统内置了若干用户组（比如：Users、Power Users、Guests、等）。这些内置的用户组，事先已经预定义好若干用户权限。        ◇高权限用户 
+  本文提及的【高权限用户】，主要是指 Windows 系统中 Administrators 组的用户或 Linux/Unix 系统中 root 组的用户。  另外，顺便消除一个误解。很多菜鸟以为：Windows 系统中，只有用户名为“Administrator”的用户才具有管理员权限。其实捏，任何一个用户，即使用户名不叫“Administrator”，只要是属于“Administrators 组”，也同样具有管理员权限。         ★反面教材 
+  菜鸟的例子就不提了，光说说俺接触过的很多程序员吧。这帮家伙在使用 Linux/Unix 系统进行开发时，都晓得应该用普通用户的帐号进行操作；当需要做某些高级权限的操作，再切换到管理员帐号（root 帐号）。但即便是这些开发人员，在自己的 Windows 系统中，却喜欢用管理员（Administrator）进行日常操作，实在是很讽刺。  如果连 IT 专业的开发人员都这样，那不太懂技术的菜鸟，就可想而知了。        ★危害性 
+  如果你平时总是用管理员权限登录到系统并进行日常工作，那就意味着你所运行的每一个程序，同时也具有了管理员权限。要知道，管理员权限的权力是非常大滴——几乎可以干任何事情。  假设你有上述【坏】习惯。某天，你从网上下载了一个软件，且软件已经感染了病毒。那么，当你运行这个软件时，这个病毒就会被激活。更要命的是，它也同样具有【管理员权限】。也就是说，病毒获得了与杀毒软件平起平坐的地位。假如这个病毒的作者水平再高一些，甚至可以骗过杀毒软件或者直接把杀毒软件干掉。  除了病毒，木马也是一样。假设你上网的时候，一不留神访问了某个挂马的网站。一旦木马被激活，也同样是以【管理员权限】运行，危害同样也巨大。        ★你该如何做？ 
+  考虑到 Windows 系统的用户占绝大多数，俺就光拿 Windows 系统来说事儿。希望 Linux 及 Mac OS 的 fans 不要见怪哦。  为了尽量少用高权限用户。你最好刚装好系统之后，单独创建一个非管理员用户。        
+  你可以让该用户仅仅属于“Power Users 组”，如下图：        
+  如果想更安全的话，可以只加入“Users 组”，今后，就主要通过这个用户进行日常的操作。如下图：        
+  考虑到有些同学不了解这两个用户组，在权限方面与管理员有啥区别。俺简单列举一下。        ◇“Power Users组”与“Administrators 组”的差别 
+  相对于“Administrators 组”，“Power Users 组”缺少了如下几项权限（俺只列主要的）：  1. 不能添加、删除、禁用系统中的其它用户。  2. 不能修改其它用户的属性（包括口令、所属的用户组、等）  3. 不能安装/卸载硬件驱动程序。  4. 不能安装/卸载某些应用软件。  5. 不能查看系统的安全日志。        ◇“Users 组”与“Administrators 组”的差别 
+  “Users 组”的权限比“Power Users 组”更小。除了“Power Users 组”做不到的事情，“Users 组”还【缺少】如下权限（俺只列主要的）：  1. 不能修改系统时间。  2. 不能修改某些系统目录（包括：系统盘的 
+   \WINDOWS
+   目录、系统盘的 
+   \WINDOWS\SYSTEM32
+   目录、系统盘的 
+   \Program Files
+   目录）。  3. 不能启动/停止某些系统服务。  4. 不能修改注册表 
+   HKEY_LOCAL_MECHINE
+   下的所有键值。   从上述对照，明显可知，“Users 组”的权限更小，使用起来更安全。比如说，即使你运行了一个带毒的程序，由于病毒和你一样，也仅有“Users 组”的权限。所以病毒也就无法修改/破坏重要的系统目录，掀不起太大风浪。         ★可能的麻烦 
+  通常来说，越安全的措施，往往也意味着越麻烦。但是这些麻烦，都有相应的解决之道。        ◇切换用户的麻烦 
+  当你以普通用户身份登录后，可能由于某些原因，需要用管理员用户干点事情。但是你（可能是开了很多程序）又不想把当前用户注销。  俺的建议是：使用【快速用户切换】（洋文叫：Fast User Switching）功能来切换用户。此功能从 Windows XP 开始提供。简单地说，就是可以让几个不同的用户同时登录同一个系统，平滑地切换。有了此功能，这个麻烦就不明显啦。   如果你非常不幸，还在使用比较古老的 Windows 2000 系统；或者你使用的是 Windows 的服务版本（比如 Windows Server 2003）。在这些版本的 Windows 系统中，默认是没有“快速用户切换”功能滴。这可咋办捏？  俺的建议是：  可以在【不】注销当前用户的情况下，以另一个用户（比如管理员）启动某个需要更高权限的程序。为了说清楚，举例如下：  假设你当前处于一个普通用户的环境，但是想另外启动一个具有管理员权限的程序，比如说命令行程序（cmd.exe）。  1. 你先创建一个指向 
+   cmd.exe
+   的快捷方式。（该咋样创建快捷方式，就不用俺来教了吧？）  2. 用鼠标选中该快捷方式，在快捷菜单（右键菜单）中，选择“属性”菜单项。出现如下对话框。        
+  3. 在该对话框中，点“高级”按钮。出现如下对话框。把“以其他用户身份运行”选项打勾，即可。至此，快捷方式创建完毕。        
+  4. 以后，如果你想在普通用户环境中，以管理员身份执行命令行，只需点击该快捷方式，就会弹出如下对话框。然后在该对话框中输入管理员的用户名和口令，就能以管理员的身份，把该命令行启动起来。        
+       ◇安装软件/驱动的麻烦 
+  安装驱动总是需要【管理员权限】才行；另外，很多软件（比如 MS Office）在安装时，也要求用【管理员权限】进行。  俺的建议是：  在刚装好系统之后，先用管理员用户把上述这些软件/驱动程序都搞好。然后，就无需再用管理员用户了。毕竟你经常使用的软件相对固定，不可能三天两头安装软件或驱动（除非你是软/硬件发烧友）。即便偶尔需要重新装个软件或驱动，也可以用上述介绍的方式，【临时】切换到管理员权限。        ◇修改系统时间的麻烦 
+  如果你平时用的是“Users 组”而不是“Power Users 组”，那你连修改系统时间的权限也没有。  俺的建议是：  启用 Windows 系统自带的时间同步服务，让它帮你自动同步系统时间。   除了上述这几点，如果还有谁碰到其它的麻烦，也欢迎来信跟俺交流。俺会补充到本文中。本系列的下一个帖子，将会介绍  攻击者是如何搞定你的口令/密码  。    
+   
+    回到本系列的目录
+   
+       
+
+    版权声明
+     本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者  编程随想  和本文原始地址：   https://program-think.blogspot.com/2010/06/howto-prevent-hacker-attack-1.html 
+    
+    
+  
+  
+    
+         
+    
+    
+    
+ 
+    
+  
+
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=如何防止黑客入侵[1]：避免使用高权限用户&url=https://program-think.blogspot.com/2010/06/howto-prevent-hacker-attack-1.html" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>如何防止黑客入侵[1]：避免使用高权限用户</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2010-06-08
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#编程随想">
+          编程随想
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://program-think.blogspot.com/2010/06/howto-prevent-hacker-attack-1.html" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="编程随想的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#编程随想 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <div class="post hentry uncustomized-post-template">
+<a name="7902334588683316093">
+ </a>   <h1 class="post-title entry-title" id="section"> <a href="https://program-think.blogspot.com/2010/06/howto-prevent-hacker-attack-1.html"> 如何防止黑客入侵[1]：避免使用高权限用户 </a> </h1>
+  <div class="post-header">
+    <div class="post-header-line-1">
+      <div class="post-inner-index"></div>
+    </div>
+  </div>
+  <div class="post-body entry-content">
+为啥俺把这个话题列在头一条？——因为这是个非常普遍、且远远没有得到重视的问题。根据俺的经验，如果你能够养成好习惯，【不】使用高权限用户（尤其是管理员）进行日常操作，就可以大大降低被黑的概率。下面，俺就来具体介绍一下。 <br /> <a name="more">
+  </a>     <!--program-think-->
+ <br /> <br />     <h2 id="section-1"> ★基本概念扫盲 </h2>
+ <br /> 考虑到本文是面向外行人士，先进行一下名词解释。 <br /> <br />     <h3 id="section-2"> ◇用户权限 </h3>
+ <br /> 所谓的“用户权限”，通俗地说，就是某个用户的权力有多大。权力越大，能干的事情越多。 <br /> <br />     <h3 id="section-3"> ◇用户组 </h3>
+ <br /> 用户组，顾名思义，就是一组用户的集合。 <br /> 在主流的操作系统中，“用户权限”通常是和“用户组”挂钩滴。针对不同的用户组，分配了不同的权限。 <br /> 为了让用户省事儿，Windows 系统内置了若干用户组（比如：Users、Power Users、Guests、等）。这些内置的用户组，事先已经预定义好若干用户权限。 <br /> <br />     <h3 id="section-4"> ◇高权限用户 </h3>
+ <br /> 本文提及的【高权限用户】，主要是指 Windows 系统中 Administrators 组的用户或 Linux/Unix 系统中 root 组的用户。 <br /> 另外，顺便消除一个误解。很多菜鸟以为：Windows 系统中，只有用户名为“Administrator”的用户才具有管理员权限。其实捏，任何一个用户，即使用户名不叫“Administrator”，只要是属于“Administrators 组”，也同样具有管理员权限。 <br /> <br /> <br />     <h2 id="section-5"> ★反面教材 </h2>
+ <br /> 菜鸟的例子就不提了，光说说俺接触过的很多程序员吧。这帮家伙在使用 Linux/Unix 系统进行开发时，都晓得应该用普通用户的帐号进行操作；当需要做某些高级权限的操作，再切换到管理员帐号（root 帐号）。但即便是这些开发人员，在自己的 Windows 系统中，却喜欢用管理员（Administrator）进行日常操作，实在是很讽刺。 <br /> 如果连 IT 专业的开发人员都这样，那不太懂技术的菜鸟，就可想而知了。 <br /> <br />     <h2 id="section-6"> ★危害性 </h2>
+ <br /> 如果你平时总是用管理员权限登录到系统并进行日常工作，那就意味着你所运行的每一个程序，同时也具有了管理员权限。要知道，管理员权限的权力是非常大滴——几乎可以干任何事情。 <br /> 假设你有上述【坏】习惯。某天，你从网上下载了一个软件，且软件已经感染了病毒。那么，当你运行这个软件时，这个病毒就会被激活。更要命的是，它也同样具有【管理员权限】。也就是说，病毒获得了与杀毒软件平起平坐的地位。假如这个病毒的作者水平再高一些，甚至可以骗过杀毒软件或者直接把杀毒软件干掉。 <br /> 除了病毒，木马也是一样。假设你上网的时候，一不留神访问了某个挂马的网站。一旦木马被激活，也同样是以【管理员权限】运行，危害同样也巨大。 <br /> <br />     <h2 id="section-7"> ★你该如何做？ </h2>
+ <br /> 考虑到 Windows 系统的用户占绝大多数，俺就光拿 Windows 系统来说事儿。希望 Linux 及 Mac OS 的 fans 不要见怪哦。 <br /> 为了尽量少用高权限用户。你最好刚装好系统之后，单独创建一个非管理员用户。 <br />     <center> <img alt="不见图、请翻墙" src="https://lh6.googleusercontent.com/WH5jStjSfrIiS7K23a7P7djloFJwbpO68Mba5QM30svmTqiUY5e2PKGp8tCwXKJ3FAm9mMia1FqR8vbhj8KO_wCZEy4M2a2RuoGwXt5FkbdRuuNUqgWmCeas3Z31" /> </center>
+ <br /> 你可以让该用户仅仅属于“Power Users 组”，如下图： <br />     <center> <img alt="不见图、请翻墙" src="https://lh4.googleusercontent.com/HTwKLKC6pIatq9iWzj0RLDHxTbv5LqR2CtMAptU6INKFBgW6iWLhZgDayWjvHLqXmSrWFcYq9MzORqogF1EFVnjwzR_ql9OYuD15fWAc2iiMRn1OL_MQSMH09pqc" /> </center>
+ <br /> 如果想更安全的话，可以只加入“Users 组”，今后，就主要通过这个用户进行日常的操作。如下图： <br />     <center> <img alt="不见图、请翻墙" src="https://lh6.googleusercontent.com/BRpPpLliuAgsOOUYdc7kfZs37JRnq2zhT6JcsExN1yXhc9-mEPCR_WNnvkYAIesHDmFyiA_QkfjL6y5znzkvf5JsXH_akCNpljtufIbPeeUpAOreI7AFiJs_QycZ" /> </center>
+ <br /> 考虑到有些同学不了解这两个用户组，在权限方面与管理员有啥区别。俺简单列举一下。 <br /> <br />     <h3 id="power-usersadministrators--"> ◇“Power Users组”与“Administrators 组”的差别 </h3>
+ <br /> 相对于“Administrators 组”，“Power Users 组”缺少了如下几项权限（俺只列主要的）： <br /> 1. 不能添加、删除、禁用系统中的其它用户。 <br /> 2. 不能修改其它用户的属性（包括口令、所属的用户组、等） <br /> 3. 不能安装/卸载硬件驱动程序。 <br /> 4. 不能安装/卸载某些应用软件。 <br /> 5. 不能查看系统的安全日志。 <br /> <br />     <h3 id="users-administrators--"> ◇“Users 组”与“Administrators 组”的差别 </h3>
+ <br /> “Users 组”的权限比“Power Users 组”更小。除了“Power Users 组”做不到的事情，“Users 组”还【缺少】如下权限（俺只列主要的）： <br /> 1. 不能修改系统时间。 <br /> 2. 不能修改某些系统目录（包括：系统盘的 <code class="language-plaintext highlighter-rouge">
+   \WINDOWS
+  </code> 目录、系统盘的 <code class="language-plaintext highlighter-rouge">
+   \WINDOWS\SYSTEM32
+  </code> 目录、系统盘的 <code class="language-plaintext highlighter-rouge">
+   \Program Files
+  </code> 目录）。 <br /> 3. 不能启动/停止某些系统服务。 <br /> 4. 不能修改注册表 <code class="language-plaintext highlighter-rouge">
+   HKEY_LOCAL_MECHINE
+  </code> 下的所有键值。 <br /> <br /> 从上述对照，明显可知，“Users 组”的权限更小，使用起来更安全。比如说，即使你运行了一个带毒的程序，由于病毒和你一样，也仅有“Users 组”的权限。所以病毒也就无法修改/破坏重要的系统目录，掀不起太大风浪。 <br /> <br /> <br />     <h2 id="section-8"> ★可能的麻烦 </h2>
+ <br /> 通常来说，越安全的措施，往往也意味着越麻烦。但是这些麻烦，都有相应的解决之道。 <br /> <br />     <h3 id="section-9"> ◇切换用户的麻烦 </h3>
+ <br /> 当你以普通用户身份登录后，可能由于某些原因，需要用管理员用户干点事情。但是你（可能是开了很多程序）又不想把当前用户注销。 <br /> 俺的建议是：使用【快速用户切换】（洋文叫：Fast User Switching）功能来切换用户。此功能从 Windows XP 开始提供。简单地说，就是可以让几个不同的用户同时登录同一个系统，平滑地切换。有了此功能，这个麻烦就不明显啦。 <br /> <br /> 如果你非常不幸，还在使用比较古老的 Windows 2000 系统；或者你使用的是 Windows 的服务版本（比如 Windows Server 2003）。在这些版本的 Windows 系统中，默认是没有“快速用户切换”功能滴。这可咋办捏？ <br /> 俺的建议是： <br /> 可以在【不】注销当前用户的情况下，以另一个用户（比如管理员）启动某个需要更高权限的程序。为了说清楚，举例如下： <br /> 假设你当前处于一个普通用户的环境，但是想另外启动一个具有管理员权限的程序，比如说命令行程序（cmd.exe）。 <br /> 1. 你先创建一个指向 <code class="language-plaintext highlighter-rouge">
+   cmd.exe
+  </code> 的快捷方式。（该咋样创建快捷方式，就不用俺来教了吧？） <br /> 2. 用鼠标选中该快捷方式，在快捷菜单（右键菜单）中，选择“属性”菜单项。出现如下对话框。 <br />     <center> <img alt="不见图、请翻墙" src="https://lh3.googleusercontent.com/wDy02yigImXIySuFYQHMtWPnKw6FNI3iEsUFbqiw-2y-gRFLesDX_kzUw3YXKm93XcPY933FVIqb1VXywe2jcA7fKmxEXDyW3k44flkdE1Vcsvx6OoUOyiVHSjUG" /> </center>
+ <br /> 3. 在该对话框中，点“高级”按钮。出现如下对话框。把“以其他用户身份运行”选项打勾，即可。至此，快捷方式创建完毕。 <br />     <center> <img alt="不见图、请翻墙" src="https://lh3.googleusercontent.com/X47byUOJ2PtD7Smq9ArZdUFPjBjrCgrkY9lYSdWnTB7RIHUq1ByRDxtDL9v09Nk5eACHC4RzZDcV0RT9-adVQ77RxwGOqACe0YPpC_UgOEsSX4bp85kbWWlKwFJn" /> </center>
+ <br /> 4. 以后，如果你想在普通用户环境中，以管理员身份执行命令行，只需点击该快捷方式，就会弹出如下对话框。然后在该对话框中输入管理员的用户名和口令，就能以管理员的身份，把该命令行启动起来。 <br />     <center> <img alt="不见图、请翻墙" src="https://lh5.googleusercontent.com/vULI8x0WJ0XStJdYnN3G-t4Dj_Pr0YTzB-vyOVnANH04M2I6UXVOs49EJDwBS0Ba6Rq9pc0-JcekxJvrIrWh7mr2CzTGnVMr6LFAsQFlLf7w479G9PLEQWSW3-Ia" /> </center>
+ <br />     <h3 id="section-10"> ◇安装软件/驱动的麻烦 </h3>
+ <br /> 安装驱动总是需要【管理员权限】才行；另外，很多软件（比如 MS Office）在安装时，也要求用【管理员权限】进行。 <br /> 俺的建议是： <br /> 在刚装好系统之后，先用管理员用户把上述这些软件/驱动程序都搞好。然后，就无需再用管理员用户了。毕竟你经常使用的软件相对固定，不可能三天两头安装软件或驱动（除非你是软/硬件发烧友）。即便偶尔需要重新装个软件或驱动，也可以用上述介绍的方式，【临时】切换到管理员权限。 <br /> <br />     <h3 id="section-11"> ◇修改系统时间的麻烦 </h3>
+ <br /> 如果你平时用的是“Users 组”而不是“Power Users 组”，那你连修改系统时间的权限也没有。 <br /> 俺的建议是： <br /> 启用 Windows 系统自带的时间同步服务，让它帮你自动同步系统时间。 <br /> <br /> 除了上述这几点，如果还有谁碰到其它的麻烦，也欢迎来信跟俺交流。俺会补充到本文中。本系列的下一个帖子，将会介绍 <a href="https://program-think.blogspot.com/2010/06/howto-prevent-hacker-attack-2.html"> 攻击者是如何搞定你的口令/密码 </a> 。 <br /> <br /> <br /> <b>
+   <a href="https://program-think.blogspot.com/2010/06/howto-prevent-hacker-attack-0.html#index">
+    回到本系列的目录
+   </a>
+  </b>     <div class="post-copyright">
+<b>
+    版权声明
+   </b> <br /> 本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者 <a href="mailto:program.think@gmail.com"> 编程随想 </a> 和本文原始地址： <br /> <a href="https://program-think.blogspot.com/2010/06/howto-prevent-hacker-attack-1.html" id="OriginalPostUrl"> https://program-think.blogspot.com/2010/06/howto-prevent-hacker-attack-1.html </a>
+    </div>
+    <div style="clear: both;"></div>
+  </div>
+  <div class="post-footer" style="margin-bottom:50px;">
+    <div class="post-footer-line post-footer-line-1" style="display:none;">
+<span class="post-author vcard"> </span> <span class="reaction-buttons"> </span> <span class="star-ratings"> </span> <span class="post-icons"> </span> <span class="post-backlinks post-comment-link"> </span>
+    </div>
+    <div class="post-footer-line post-footer-line-2 post-toolbar"></div>
+    <div class="post-footer-line post-footer-line-3">
+<span class="post-location"> </span>
+    </div>
+  </div>
+</div>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#编程随想 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2021-05-09/%E5%88%86%E4%BA%AB%E5%90%84%E7%B1%BB%E7%94%B5%E5%AD%90%E4%B9%A6-%E6%94%BF%E6%B2%BB-IT-%E7%A7%91%E6%99%AE-%E5%8E%86%E5%8F%B2-%E7%AD%89-97%E6%9C%AC/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-01-15/%E5%8D%9A%E5%AE%A2%E5%BC%80%E5%BC%A0%E5%8F%8A%E6%9C%AC%E5%8D%9A%E5%AE%A2%E5%86%85%E5%AE%B9%E7%AE%80%E4%BB%8B/">最早</a>--</span>
+    
+      <li>
+        <time>2010-06-20</time>
+        <a href="https://nodebe4.github.io/opinion/2010-06-20/%E5%A6%82%E4%BD%95%E9%98%B2%E6%AD%A2%E9%BB%91%E5%AE%A2%E5%85%A5%E4%BE%B5-3-%E5%A6%82%E4%BD%95%E6%9E%84%E9%80%A0%E5%AE%89%E5%85%A8%E7%9A%84%E5%8F%A3%E4%BB%A4-%E5%AF%86%E7%A0%81/">
+          如何防止黑客入侵[3]：如何构造安全的口令-密码
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2010-06-15</time>
+        <a href="https://nodebe4.github.io/opinion/2010-06-15/%E5%A6%82%E4%BD%95%E9%98%B2%E6%AD%A2%E9%BB%91%E5%AE%A2%E5%85%A5%E4%BE%B5-2-%E6%94%BB%E5%87%BB%E8%80%85%E5%A6%82%E4%BD%95%E6%90%9E%E5%AE%9A%E4%BD%A0%E7%9A%84%E5%8F%A3%E4%BB%A4-%E5%AF%86%E7%A0%81/">
+          如何防止黑客入侵[2]：攻击者如何搞定你的口令-密码？
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2010-06-08</time>
+        <a href="https://nodebe4.github.io/opinion/2010-06-08/%E5%A6%82%E4%BD%95%E9%98%B2%E6%AD%A2%E9%BB%91%E5%AE%A2%E5%85%A5%E4%BE%B5-0-%E6%A6%82%E8%BF%B0/">
+          如何防止黑客入侵[0]：概述
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2010-05-30</time>
+        <a href="https://nodebe4.github.io/opinion/2010-05-30/%E9%AB%98%E5%A4%84%E4%B8%8D%E8%83%9C%E5%AF%92%E7%9A%84%E8%8B%B9%E6%9E%9C/">
+          高处不胜寒的苹果
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2010-06-08/%E5%A6%82%E4%BD%95%E9%98%B2%E6%AD%A2%E9%BB%91%E5%AE%A2%E5%85%A5%E4%BE%B5-0-%E6%A6%82%E8%BF%B0/">
+            前一篇：如何防止黑客入侵[0]：概述
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2010-06-15/%E6%89%AD%E7%A7%A7%E6%AD%8C-%E4%B9%9F%E6%98%AF%E5%9C%A8%E5%89%8D%E8%BF%9B/">
+            後一篇：“扭秧歌”也是在前进
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2010-06-08/%E5%A6%82%E4%BD%95%E9%98%B2%E6%AD%A2%E9%BB%91%E5%AE%A2%E5%85%A5%E4%BE%B5-0-%E6%A6%82%E8%BF%B0/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2010-06-15/%E6%89%AD%E7%A7%A7%E6%AD%8C-%E4%B9%9F%E6%98%AF%E5%9C%A8%E5%89%8D%E8%BF%9B/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2010-06-15/%E5%A6%82%E4%BD%95%E9%98%B2%E6%AD%A2%E9%BB%91%E5%AE%A2%E5%85%A5%E4%BE%B5-2-%E6%94%BB%E5%87%BB%E8%80%85%E5%A6%82%E4%BD%95%E6%90%9E%E5%AE%9A%E4%BD%A0%E7%9A%84%E5%8F%A3%E4%BB%A4-%E5%AF%86%E7%A0%81/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2010-06-08/%E5%A6%82%E4%BD%95%E9%98%B2%E6%AD%A2%E9%BB%91%E5%AE%A2%E5%85%A5%E4%BE%B5-0-%E6%A6%82%E8%BF%B0/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2010-06-08/%E5%A6%82%E4%BD%95%E9%98%B2%E6%AD%A2%E9%BB%91%E5%AE%A2%E5%85%A5%E4%BE%B5-0-%E6%A6%82%E8%BF%B0/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2010-06-15/%E6%89%AD%E7%A7%A7%E6%AD%8C-%E4%B9%9F%E6%98%AF%E5%9C%A8%E5%89%8D%E8%BF%9B/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<编程随想>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2010-06-15/%E5%A6%82%E4%BD%95%E9%98%B2%E6%AD%A2%E9%BB%91%E5%AE%A2%E5%85%A5%E4%BE%B5-2-%E6%94%BB%E5%87%BB%E8%80%85%E5%A6%82%E4%BD%95%E6%90%9E%E5%AE%9A%E4%BD%A0%E7%9A%84%E5%8F%A3%E4%BB%A4-%E5%AF%86%E7%A0%81/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<编程随想>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2010-06-08/%E5%A6%82%E4%BD%95%E9%98%B2%E6%AD%A2%E9%BB%91%E5%AE%A2%E5%85%A5%E4%BE%B5-0-%E6%A6%82%E8%BF%B0/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

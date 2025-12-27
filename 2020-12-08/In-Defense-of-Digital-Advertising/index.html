@@ -1,0 +1,3036 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>In Defense of Digital Advertising – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+In Defense of Digital Advertising
+——
+" />
+    <meta property="og:description" content="
+In Defense of Digital Advertising
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="In Defense of Digital Advertising" />
+    <meta property="twitter:title" content="In Defense of Digital Advertising" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2020%2Fprivacy-labels-and-lookalike-audiences%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2020/privacy-labels-and-lookalike-audiences/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2020/privacy-labels-and-lookalike-audiences/&text=In Defense of Digital Advertising&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2020/privacy-labels-and-lookalike-audiences/&title=In Defense of Digital Advertising" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2020/privacy-labels-and-lookalike-audiences/&title=In Defense of Digital Advertising" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=In Defense of Digital Advertising&body=
+In Defense of Digital Advertising
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2020/privacy-labels-and-lookalike-audiences/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2020/privacy-labels-and-lookalike-audiences/&title=In Defense of Digital Advertising&caption=
+In Defense of Digital Advertising
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=In Defense of Digital Advertising&url=https://stratechery.com/2020/privacy-labels-and-lookalike-audiences/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>In Defense of Digital Advertising</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2020-12-08
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2020/privacy-labels-and-lookalike-audiences/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1607426805000-->
+<p><a href="https://stratechery.com/2020/privacy-labels-and-lookalike-audiences/">In Defense of Digital Advertising</a>
+——</p>
+
+<div>
+  <p>In 1990, Congress passed the Nutrition Labeling and Education Act, which required nutrition labels for nearly all packaged food products; the label includes a standard serving measurement, calories per serving, and the “% Daily Value” for nutrients like fat, cholesterol, sodium, carbohydrates, protein, and a number of vitamins and minerals. For many consumers, though, labels were like road signs: they provided tactical assistance while grocery shopping, but you still needed a map for how to eat.</p>
+  <p>Enter the food pyramid, which was introduced by the U.S. Department of Agriculture in 1992:</p>
+  <p><img src="https://stratechery.com/wp-content/uploads/2020/12/USDA_Food_Pyramid.gif" alt="The USDA Food Pyramid" width="640" height="499" class="aligncenter size-large wp-image-5470" /></p>
+  <p>The concept is a simple one: according to the USDA, consumers should eat a lot of carbohydrates, some vegetables and fruit, a small amount of dairy and proteins, and as little fat as possible. It was also completely wrong. Scientific American noted <a href="https://www.scientificamerican.com/article/rebuilding-the-food-pyramid/">in 2006</a>:</p>
+  <blockquote>
+    <p>Even when the pyramid was being developed, though, nutritionists had long known that some types of fat are essential to health and can reduce the risk of cardiovascular disease. Furthermore, scientists had found little evidence that a high intake of carbohydrates is beneficial. After 1992 more and more research showed that the USDA pyramid was grossly flawed. By promoting the consumption of all complex carbohydrates and eschewing all fats and oils, the pyramid provided misleading guidance. In short, not all fats are bad for you, and by no means are all complex carbohydrates good for you.</p>
+  </blockquote>
+  <p>Road signs are well and good, but if they get you to a place you may not want to be going, they may not be as valuable as they seem. To that end, let me be clear about my goals for this Article, which is going to be both more critical of Apple and more gracious to Facebook than the conventional wisdom about privacy on the Internet: you don’t have to agree with my conclusions, but I will feel I have accomplished my job if you can at least see that everything in this space comes with tradeoffs.</p>
+  <h4 id="privacy-nutrition-labels">Privacy Nutrition Labels</h4>
+  <p><a href="https://developer.apple.com/news/?id=vlj9jty9">Starting today</a> Apple will require all new apps and app updates submitted to the App Store to include detailed information about their data collection practices; these submissions will manifest to customers in the form of “Privacy Nutrition Labels”, which Apple introduced at WWDC in June:</p>
+  <div align="center">
+    <div id="v-nqKfUcmT-1" class="video-player">
+      <video id="v-nqKfUcmT-1-video" width="640" height="360" poster="https://videos.files.wordpress.com/nqKfUcmT/privacy-nutrition-labels_dvd.original.jpg" controls="true" preload="metadata" dir="ltr" lang="en"><source src="https://videos.files.wordpress.com/nqKfUcmT/privacy-nutrition-labels_dvd.mp4" type="video/mp4; codecs=&quot;avc1.64001E, mp4a.40.2&quot;" /><div>
+<img alt="Apple&#039;s Privacy Labels" src="https://videos.files.wordpress.com/nqKfUcmT/privacy-nutrition-labels_dvd.original.jpg" width="640" height="360" />
+        </div>        <p>Apple's Privacy Labels</p>
+</video>
+    </div>
+  </div>
+  <p>There is, as you might expect from an Apple marketing presentation, nothing that seems objectionable, and a whole lot that is worth celebrating: of course consumers should want information that…well, what is this information used for? Apple, in a recent advertisement, provided the food pyramid to their nutrition labels:</p>
+  <div align="center">
+    <div id="v-DmzFJpyt-1" class="video-player">
+      <video id="v-DmzFJpyt-1-video" width="640" height="360" poster="https://videos.files.wordpress.com/DmzFJpyt/privacy.-thats-iphone.-e28093-over-sharing-l61ne0eqkw_dvd.original.jpg" controls="true" preload="metadata" dir="ltr" lang="en"><source src="https://videos.files.wordpress.com/DmzFJpyt/privacy.-thats-iphone.-e28093-over-sharing-l61ne0eqkw_dvd.mp4" type="video/mp4; codecs=&quot;avc1.64001E, mp4a.40.2&quot;" /><source src="https://videos.files.wordpress.com/DmzFJpyt/privacy.-thats-iphone.-e28093-over-sharing-l61ne0eqkw_fmt1.ogv" type="video/ogg; codecs=&quot;theora, vorbis&quot;" /><div>
+<img alt="Apple&#039;s Privacy Commercial" src="https://videos.files.wordpress.com/DmzFJpyt/privacy.-thats-iphone.-e28093-over-sharing-l61ne0eqkw_dvd.original.jpg" width="640" height="360" />
+        </div>        <p>Apple's Privacy Commercial</p>
+</video>
+    </div>
+  </div>
+  <p>This is truly scandalous, but not for the reason Apple wants you to think it is: the way in which this ad depicts how your information is used — literally broadcasting your web browsing and searches and private conversations to those around you — is so misleading that it is hard to call it anything but misinformation.</p>
+  <p>And yet, I can understand why <a href="https://daringfireball.net/2020/09/online_privacy_real_world_privacy">some celebrated the ad</a>, because the fact of the matter is that all of the information depicted in the commercial (except, in more and more cases, private chats, which are increasingly encrypted), are collected, particularly by Facebook.</p>
+  <h4 id="lookalike-audiences">Lookalike Audiences</h4>
+  <p>Let’s grant, for the sake of this article, that Facebook is collecting vast quantities of information about you, whether that be through activity on Facebook properties, activity in apps that have embedded Facebook’s SDK, or activity on websites with Facebook pixels embedded. Let’s further assume that Facebook has taken that data and combined it with information from Facebook advertisers and other publicly available data sources in what I have previously called a <a href="https://stratechery.com/2018/data-factories/">Data Factory</a>:</p>
+  <blockquote>
+    <p>Facebook quite clearly isn’t an industrial site (although it operates multiple data centers with lots of buildings and machinery), but it most certainly processes data from its raw form to something uniquely valuable both to Facebook’s products (and by extension its users and content suppliers) and also advertisers (and again, all of this analysis applies to Google as well).</p>
+  </blockquote>
+  <p>I prefer the term “Data Factory” to “Data Refinery”, because processed data isn’t really a fungible good: while oil from one refinery is no different than oil from another, and priced identically, Facebook data is valuable only to the extent that it is usable on Facebook, which primarily means an advertising approach called “lookalike audiences.” From the <a href="https://www.facebook.com/business/help/164749007013531">Facebook Business Help Center</a>:</p>
+  <blockquote>
+    <p>When you create a Lookalike Audience, you choose a source audience (a Custom Audience created with information pulled from your pixel, mobile app, or fans of your Page). We identify the common qualities of the people in it (for example, demographic information or interests). Then, we deliver your ad to an audience of people who are similar to (or “look like”) them.</p>
+    <p>You can choose the size of a Lookalike Audience during the creation process. Smaller audiences more closely match your source audience. Creating a larger audience increases your potential reach, but reduces the level of similarity between the Lookalike Audience and source audience. We generally recommend a source audience with between 1,000 to 50,000 people. Source quality matters too. For example, if a source audience is made up of your best customers rather than all your customers, that could lead to better results.</p>
+  </blockquote>
+  <p>This is actually a rather fair representation of how lookalike audiences work, but of course the scary details are hidden between the lines; let me try and make them explicit:</p>
+  <ul>
+    <li>As noted above, Facebook really is tracking you everywhere, both on Facebook and off, with the eager cooperation of both publishers and app developers (you will understand why shortly).<a href="https://stratechery.com/2020/privacy-labels-and-lookalike-audiences/#footnote_0_5471" id="identifier_0_5471" class="footnote-link footnote-identifier-link" title="For the record, Stratechery does not have the Facebook pixel &mdash; the share button below is pure HTML &mdash; and does not use lookalike audiences; in fact, as noted in Stratechery&rsquo;s Privacy Policy, I do not share any user data with any third parties.">1</a> All of this data builds a far more in-depth behavior profile than Facebook’s anodyne “demographic information or interests” language suggests.</li>
+    <li>A third-party, meanwhile, has a list of profitable customers. For a game maker, this might be <a href="https://stratechery.com/2020/facebooks-ios-14-announcement-understanding-the-idfa-the-real-showdown/">a list of Identifier for Advertisers (IDFAs)</a> of users that made a considerable number of in-app purchases; for an e-commerce site, this might be a list of email addresses. Naturally, said third-party would like to find more gamers who will make in-app purchases, or customers who will buy products.</li>
+    <li>Lookalike audiences accomplish exactly that: the third-party can upload their list of profitable customers<a href="https://stratechery.com/2020/privacy-labels-and-lookalike-audiences/#footnote_1_5471" id="identifier_1_5471" class="footnote-link footnote-identifier-link" title="A source audience has to have at least 100 people from a single country, both for effectiveness and to prevent privacy violations">2</a> and set the maximum price they are willing to pay to acquire those customers. Facebook will then find other Facebook users that “look like” them, using its data factory, and show ads to those users, with the price based on an instantaneous auction between all of the different advertisers seeking to reach those particular customers.</li>
+  </ul>
+  <p>I get why this sounds creepy; it would be pretty disturbing if a salesperson showed up at my door to inform me that someone who visits the same websites I do just bought this really neat grilling implement, which means I might be interested in said grilling implement as well. The fact that said salesperson is probably right — I do love my grilling implements! — makes it even creepier. This, though, is by-and-large what is happening when you see that scarily accurate Instagram advertisement.</p>
+  <p>Except that this isn’t what is happening at all.</p>
+  <h4 id="tradeoffs-and-computer-scale">Tradeoffs and Computer Scale</h4>
+  <p>What makes that Apple advertisement so misleading is the level of individuality it implies in terms of data collection and application. Individuality is a real problem when it comes to data collection; in 2019’s <a href="https://stratechery.com/2019/privacy-fundamentalism/">Privacy Fundamentalism</a> I included a photo of the East German Stasi Archives from <a href="https://www.wired.com/2017/05/adrian-fish-the-stasi-archives/">Wired</a> and noted:</p>
+  <blockquote>
+    <figure id="attachment_4346" aria-describedby="caption-attachment-4346" style="width: 640px" class="wp-caption aligncenter">
+<a href="https://www.wired.com/2017/05/adrian-fish-the-stasi-archives/"><img src="https://stratechery.com/wp-content/uploads/2019/08/Fish_012-1024x683.jpg" alt="The Stasi&#039;s files" width="640" height="427" class="size-large wp-image-4346" /></a>      <figcaption id="caption-attachment-4346" class="wp-caption-text">
+Image from <a href="https://www.wired.com/2017/05/adrian-fish-the-stasi-archives/">Wired</a>.
+      </figcaption>
+    </figure>
+    <p>That the files are paper makes them terrifying, because anyone can read them individually; that they are paper, though, also limits their reach. Contrast this to Google or Facebook: that they are digital means they reach everywhere; that, though, means they are read in aggregate, and stored in a way that is only decipherable by machines.</p>
+    <p>To be sure, a Stasi compare and contrast is hardly doing Google or Facebook any favors in this debate: the popular imagination about the danger this data collection poses, though, too often seems derived from the former, instead of the fundamentally different assumptions of the latter. This, by extension, leads to privacy demands that exacerbate some of the Internet’s worst problems.</p>
+    <ul>
+      <li>Facebook’s crackdown on API access after Cambridge Analytica has severely hampered research into the effects of social media, the spread of disinformation, etc.</li>
+      <li>Privacy legislation like GDPR has strengthened incumbents like Facebook and Google, and made it more difficult for challengers to succeed.</li>
+      <li>Criminal networks from terrorism to child abuse can flourish on social networks, but while content can be stamped out, private companies — particularly domestically — are often limited as to how proactively they can go to law enforcement; this is exacerbated once encryption enters the picture.</li>
+    </ul>
+  </blockquote>
+  <p>That last point provides the most trenchant example of how privacy rules that don’t consider trade-offs can go wrong; from the <a href="https://www.nytimes.com/2020/12/04/technology/european-union-child-sexual-abuse.html">New York Times</a> late last week:</p>
+  <blockquote>
+    <p>Privacy concerns in Europe have led to some of the world’s toughest restrictions on companies like Facebook and Google and the ways they monitor people online. The crackdown has been widely popular, but the regulatory push is now entangled in the global fight against child exploitation, setting off a fierce debate about how far internet companies should be allowed to go when collecting evidence on their platforms of possible crimes against minors.</p>
+    <p>A rule scheduled to take effect on Dec. 20 would inhibit the monitoring of email, messaging apps and other digital services in the European Union. It would also restrict the use of software that scans for child sexual abuse imagery and so-called grooming by online predators. The practice would be banned without a court order.</p>
+  </blockquote>
+  <p>Those European rules comes from a perception of online privacy that looks a lot like that Apple advertisement: companies clicking through your email and social network accounts, carefully charting everything you do, just so they can show an ad. Why would you not want to stop such creepy behavior?</p>
+  <p>The reality, though, is that nearly all of the child pornography reported to authorities is found by automatically scanning images and comparing them to a repository of known illegal images housed by the National Center for Missing and Exploited Children; there are no humans involved, and not only because it is a crime to even view these horrific images: it is completely impossible to do this work at human scale, but automated scanning, computation, and comparisons, are precisely the sort of work that computers are good at.</p>
+  <h4 id="the-analog-advertising-era">The Analog Advertising Era</h4>
+  <p>The stakes for online advertising are, of course, massively lower; the reason for the previous section — beyond raising awareness about the massive downside of this new E.U. rule — is not to infer any sort of comparison in either importance or trade-offs. The relevant point, rather, is the last one: computer scale is so different from human scale that analogizing from one to the other is like using a map of Australia to navigate America.</p>
+  <p>Consider, for example, <a href="https://9to5mac.com/2020/11/19/apple-privacy-letter-ios-14-facebook/">this letter</a> from Apple’s Senior Director of Global Privacy Jane Horvath assuaging concerns that Apple had lost its nerve in terms of implementing its App Tracking Transparency (ATT) feature, <a href="https://stratechery.com/2020/apple-and-facebook/">which disables the aforementioned IDFA unless customers opt-in</a> (Apple delayed the implementation to next year):</p>
+  <blockquote>
+    <p>Advertising that respects privacy is not only possible, it was the standard until the growth of the Internet. Some companies that would prefer ATT is never implemented have said that this policy uniquely burdens small businesses by restricting advertising options, but in fact, the current data arms race primarily benefits big businesses with big data sets. Privacy-focused ad networks were the universal standard in advertising before the practice of unfettered data collection began over the last decade or so. Our hope is that increasing user demands for privacy and security, as well as changes like ATT, will make these privacy-forward advertising standards robust once more.</p>
+  </blockquote>
+  <p>The fact that pre-Internet advertisers were limited to mediums like TV had profound implications that went far beyond privacy; as I explained in 2016’s <a href="https://stratechery.com/2016/tv-advertisings-surprising-strength-and-inevitable-fall/">TV Advertising’s Surprising Strength — And Inevitable Fall</a>, the entire post-World War II economic order was built around the opportunities and limitations offered by analog advertising.</p>
+  <ul>
+    <li>Content companies, from TV stations to radio stations to newspapers, were incentivized to produce broadly appealing content that applied to the maximum number of people, in order to both maximize the number of consumers for advertisers and also to avoid any uncomfortable antitrust questions about their control of scarce mediums.</li>
+    <li>Consumer packaged goods companies of all types, from household products to food companies to clothing brands, were similarly incentivized to produce lowest-common-denominator products that would appeal to the most people possible, and advertise them on those mass market media channels.</li>
+    <li>Retailers increasingly consolidated and increased in size, culminating in massive outlets with even larger parking lots, the better to both house all of those CPG products — who bid against each other for scarce shelf space — and also to capture an increasingly suburban clientele that preferred a big house with a TV room over a smaller residence in big cities.</li>
+  </ul>
+  <p>There were certainly advantages to this state of affairs, particularly when viewed through the rose-tinted glasses of nostalgia: a limited number of ways to get middle-of-the-road content, for example, offered a shared source of truth that made it easier to find common political ground;<a href="https://stratechery.com/2020/privacy-labels-and-lookalike-audiences/#footnote_2_5471" id="identifier_2_5471" class="footnote-link footnote-identifier-link" title="At least for those whom the media bothered to pay attention to ">3</a> large and predictable markets worked to the benefit of large and profitable conglomerates that provided millions of middle class jobs; and, of course, the fundamental limitations of the analog world — which operates at human scale — meant that “advertising that respects privacy…was the standard.”</p>
+  <p>The Internet has profoundly upset every aspect of this order, for both better and for worse. Information is no longer scarce, but abundant, which means access to <a href="https://stratechery.com/2020/defining-information/">much more valuable information much more quickly, as well as a torrent of misinformation</a>, which means <a href="https://stratechery.com/2020/zero-trust-information/">people have to learn to navigate information for themselves</a>. It has had a similar effect on products, both digital and physical: traditional CPG companies are <a href="https://stratechery.com/2014/technology-changing-world-pg-edition/">overhauling their strategies</a> in the face of <a href="https://stratechery.com/2016/dollar-shave-club-and-the-disruption-of-everything/">Internet-native challengers</a>, while <a href="https://stratechery.com/2019/shopify-and-the-power-of-platforms/">companies like Shopify</a> create an explosion of new shopping destinations that are not limited by geography, but instead serve the entire world.</p>
+  <p>All of these changes, in fact, are about exceeding human scale via technology and the Internet, and is it any surprise that advertising has gone through the exact same transformation? When I write a post on Stratechery, I am not driving to your door and reading these words aloud to you; in fact, I don’t have any idea who you are. Computers take care of moving these bits from my computer to yours. It’s the same thing with an app developer creating in-app purchases, or an e-commerce site selling grilling implements: the entire reason their businesses are possible is precisely because they don’t know who I am, and have no reason to. And yet they can sell me exactly what I want just the same.</p>
+  <h4 id="growing-internet-gdp">Growing Internet GDP</h4>
+  <p>I am, by virtue of temperament, experience, and self-interest, an Internet optimist. The fact that you can access information anywhere meant I could learn anywhere, whether that be small-town Wisconsin or big-city Asia. And, once I had leavened that learning with enough education and work experience to be dangerous, I could create a business that has the entire globe as its addressable market. Of course I didn’t do this alone: the Stratechery stack is dependent on a host of services like Stripe, which <a href="https://stratechery.com/2019/shopify-and-the-power-of-platforms/">I wrote about last week</a>: thanks to the ability to collect credit card payments from anyone I have helped “increase the GDP of the Internet”, to quote the platform company’s <a href="https://stripe.com/about">mission statement</a>.</p>
+  <p>Increasing the GDP of the Internet is important precisely because of all of the upheaval I just described: just because the way in which our economy was organized in an analog world is being upset by the Internet, it does not necessarily follow that what comes next will be better. It is possible to imagine, though, what “better” looks like: individuals and small companies leveraging the Internet to deliver individuals and small groups exactly what they want.</p>
+  <p>This is the paradox of the Internet: computer scale unlocks human level opportunities, in contrast to the analog world where human scale gave the edge to large companies. You might imagine a graph that looks something like this:</p>
+  <p><img src="https://stratechery.com/wp-content/uploads/2020/12/lookalike-1-1024x786.png" alt="The Internet Size Paradox" width="640" height="491" class="aligncenter size-large wp-image-5469" srcset="https://stratechery.com/wp-content/uploads/2020/12/lookalike-1-1024x786.png 1024w, https://stratechery.com/wp-content/uploads/2020/12/lookalike-1-300x230.png 300w, https://stratechery.com/wp-content/uploads/2020/12/lookalike-1-768x589.png 768w, https://stratechery.com/wp-content/uploads/2020/12/lookalike-1-821x630.png 821w, https://stratechery.com/wp-content/uploads/2020/12/lookalike-1.png 1280w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+  <p>This is not to scale (pun very much intended): the biggest platforms, from Shopify to Stripe, are off the chart, given the fact they connect everyone on the planet, whereas even the biggest multinationals are limited by geography, shelf space, and distribution costs. That’s ok, though: they are also limited in where they can advertise, as well.</p>
+  <p><a href="https://stratechery.com/2020/never-ending-niches/">Niche products and publications</a>, on the other hand, can build sustainable businesses with customers across the entire world who have nothing in common except a shared interest in the product or publication in question; or, to put it another way, customers who “lookalike”. That’s the thing about Facebook and other digital advertising companies: they are just as essential a part of growing the GDP of the Internet as are Stripe and Shopify and other companies with universal approval ratings. It is no good to be capable of serving anyone anywhere if they can’t find you.</p>
+  <h4 id="the-internets-choice">The Internet’s Choice</h4>
+  <p>This is the beginning of the defense of Facebook’s approach to advertising, but not the end; after all, no matter what Apple’s Senior Director of Global Privacy may argue, we are not returning to a world defined by TV advertising from large CPG companies that gave middle class employees jobs for life. The Internet offers two clear alternatives: either a million blooming flowers, or all-encompassing behemoths that succeed by controlling access to customers. In the case of information, that alternative is Google, and in the case of products, it is Amazon.</p>
+  <p>What is notable about both is how relatively untouched they are by Apple’s privacy campaign. Yes, Google has app SDKs, but they also have an even larger presence on the web than Facebook, have somewhat less need for data given the directed nature of search advertising, and oh yeah, are <a href="https://stratechery.com/2020/united-states-v-google/">the default search engine</a> on Apple devices, which makes it that much easier to ensure that information flows via Google’s channels (like AMP pages, which get around Apple’s recent cookie-crackdowns by being served from <a href="https://twitter.com/johnwilander/status/1334976360826064897">Google’s own URL</a>). And, of course, there is Android and Chrome, which gives Google far deeper access to all of the information it could ever want than Facebook could even dream of.</p>
+  <p>Amazon, meanwhile, is increasingly where shopping searches start, particularly for Prime customers, and the company’s ad business is exploding. Needless to say, Amazon doesn’t need to request special permission for IDFAs or to share emails with 3rd parties to finely target its ads: everything is self-contained, and to the extent the company advertises on platforms like Google, it can still keep information about customer interests and conversions to itself. That means that in the long run, independent merchants who wish to actually find their customers will have no choice but to be an Amazon third-party merchant instead of setting up an independent shop on a platform like Shopify.</p>
+  <p>This decision, to be clear, will not be because Amazon was acting anticompetitively; the biggest driver — which, by the way, will <a href="https://stratechery.com/2020/platforms-in-an-aggregator-world/">also benefit Facebook’s on-platform commerce efforts</a> — will be Apple, which, in the pursuit of privacy, is systematically destroying the ability of platform-driven small businesses to compete with the Internet giants.</p>
+  <h4 id="facebook-fats">Facebook Fats</h4>
+  <p>Apple’s means are, I should note, anticompetitive in spirit, if not in law; the company’s policies are <a href="https://stratechery.com/2020/apple-epic-and-the-app-store/">predicated on control of the App Store</a>, and a demonstrated willingness to use its power to get its way. That is how the company can not only disable access to the IDFA programmatically, but also demand that apps disclose what information they send to their own servers using open Internet protocols.</p>
+  <p>Leaving aside legality, though, it is notable that Apple is quite obviously swimming against the prevailing current. That current, I would argue, is not greedy companies pushing the limits just because they can, but rather the fundamental nature of computers and the Internet. Computers emit data as a matter of course, and the Internet makes the transfer of that data free. To strive for a world without the generation or capture of data is to fight against the very nature of technology.</p>
+  <p>This is not, to be very clear, to excuse the worst abuses of this capability (which, notably, are third-party advertising networks that, unlike social media companies, actually do sell your data), but simply to acknowledge its reality; this acceptance is crucial, because it shows why Apple’s map is wrong: the company is less protecting customers from Facebook than it is protecting Google and Amazon and other centralized consumer services from independent competition. Just think about it: small companies can only compete against the big guys if they can work together, whether that means collectively using services like Stripe and Shopify, or advertising — with their shared data, via lookalike audiences — on platforms like Facebook.</p>
+  <p>I get that this is not a particularly popular position, and Facebook sure doesn’t make it easy to hold to. I remain <a href="https://stratechery.com/2017/manifestos-and-monopolies/">very concerned about the company’s power</a> and impact on everything from information dissemination to radicalization to yes, privacy. At the same time, the USDA was not necessarily wrong to say that some fats could be dangerous; rather, the mistake was in operating in broad generalizations, leading normal folks simply doing their best to adopt carbohydrate-heavy diets that were even worse. Apple’s appeals to analog analogies and simplistic presentation of privacy trade-offs risks a similar path when it comes to the GDP of the Internet and to what extent power is disbursed versus centralized.</p>
+  <p>Everything in moderation.</p>
+  <ol class="footnotes">
+    <li id="footnote_0_5471" class="footnote">For the record, Stratechery does not have the Facebook pixel — the share button below is pure HTML — and does not use lookalike audiences; in fact, as noted in Stratechery’s <a href="https://stratechery.com/privacy-policy/">Privacy Policy</a>, I do not share any user data with any third parties.</li>
+    <li id="footnote_1_5471" class="footnote">A source audience has to have at least 100 people from a single country, both for effectiveness and to prevent privacy violations</li>
+    <li id="footnote_2_5471" class="footnote">At least <a href="https://stratechery.com/2020/dust-in-the-light/">for those whom the media bothered to pay attention to</a></li>
+  </ol>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2020-12-15</time>
+        <a href="https://nodebe4.github.io/opinion/2020-12-15/Social-Networking-2.0/">
+          Social Networking 2.0
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-12-08</time>
+        <a href="https://nodebe4.github.io/opinion/2020-12-08/Privacy-Labels-and-Lookalike-Audiences/">
+          Privacy Labels and Lookalike Audiences
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-12-03</time>
+        <a href="https://nodebe4.github.io/opinion/2020-12-03/Stripe-Platform-of-Platforms/">
+          Stripe: Platform of Platforms
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-11-30</time>
+        <a href="https://nodebe4.github.io/opinion/2020-11-30/Five-Lessons-From-Dave-Chappelle/">
+          Five Lessons From Dave Chappelle
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2020-12-08/%E5%8F%83%E8%80%83%E7%8C%B6%E5%A4%AA%E5%AE%97%E6%95%99%E5%9C%A8%E6%A5%B5%E6%AC%8A%E4%B8%8B%E5%AD%98%E6%B4%BB%E7%9A%84%E7%89%B9%E8%B3%AA-%E5%8F%8A%E8%A7%A3%E8%AE%8030%E5%B9%B4%E5%89%8D%E9%A6%99%E6%B8%AF%E5%A4%A9%E4%B8%BB%E6%95%99%E6%95%99%E5%8D%80%E7%82%BA%E5%9C%8B%E5%AE%89%E6%B3%95%E5%A3%93%E5%A2%83%E7%9A%84%E5%B0%8D%E7%AD%96/">
+            前一篇：參考猶太宗教在極權下存活的特質，及解讀30年前香港天主教教區為國安法壓境的對策
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2020-12-08/Privacy-Labels-and-Lookalike-Audiences/">
+            後一篇：Privacy Labels and Lookalike Audiences
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2020-12-08/%E5%8F%83%E8%80%83%E7%8C%B6%E5%A4%AA%E5%AE%97%E6%95%99%E5%9C%A8%E6%A5%B5%E6%AC%8A%E4%B8%8B%E5%AD%98%E6%B4%BB%E7%9A%84%E7%89%B9%E8%B3%AA-%E5%8F%8A%E8%A7%A3%E8%AE%8030%E5%B9%B4%E5%89%8D%E9%A6%99%E6%B8%AF%E5%A4%A9%E4%B8%BB%E6%95%99%E6%95%99%E5%8D%80%E7%82%BA%E5%9C%8B%E5%AE%89%E6%B3%95%E5%A3%93%E5%A2%83%E7%9A%84%E5%B0%8D%E7%AD%96/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2020-12-08/Privacy-Labels-and-Lookalike-Audiences/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2020-12-08/Privacy-Labels-and-Lookalike-Audiences/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2020-12-03/Stripe-Platform-of-Platforms/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2020-12-08/%E5%8F%83%E8%80%83%E7%8C%B6%E5%A4%AA%E5%AE%97%E6%95%99%E5%9C%A8%E6%A5%B5%E6%AC%8A%E4%B8%8B%E5%AD%98%E6%B4%BB%E7%9A%84%E7%89%B9%E8%B3%AA-%E5%8F%8A%E8%A7%A3%E8%AE%8030%E5%B9%B4%E5%89%8D%E9%A6%99%E6%B8%AF%E5%A4%A9%E4%B8%BB%E6%95%99%E6%95%99%E5%8D%80%E7%82%BA%E5%9C%8B%E5%AE%89%E6%B3%95%E5%A3%93%E5%A2%83%E7%9A%84%E5%B0%8D%E7%AD%96/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2020-12-08/Privacy-Labels-and-Lookalike-Audiences/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2020-12-08/Privacy-Labels-and-Lookalike-Audiences/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2020-12-03/Stripe-Platform-of-Platforms/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

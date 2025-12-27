@@ -1,0 +1,3056 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>The OpenAI Keynote – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+The OpenAI Keynote
+——
+" />
+    <meta property="og:description" content="
+The OpenAI Keynote
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="The OpenAI Keynote" />
+    <meta property="twitter:title" content="The OpenAI Keynote" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2023%2Fthe-openai-keynote%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2023/the-openai-keynote/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2023/the-openai-keynote/&text=The OpenAI Keynote&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2023/the-openai-keynote/&title=The OpenAI Keynote" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2023/the-openai-keynote/&title=The OpenAI Keynote" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=The OpenAI Keynote&body=
+The OpenAI Keynote
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2023/the-openai-keynote/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2023/the-openai-keynote/&title=The OpenAI Keynote&caption=
+The OpenAI Keynote
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=The OpenAI Keynote&url=https://stratechery.com/2023/the-openai-keynote/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>The OpenAI Keynote</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2023-11-07
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2023/the-openai-keynote/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1699368699000-->
+<p><a href="https://stratechery.com/2023/the-openai-keynote/">The OpenAI Keynote</a>
+——</p>
+
+<div>
+  <p>In 2013, when I started Stratechery, there was no bigger event than the launch of the new iPhone; its only rival was Google I/O, which is when the newest version of Android was unveiled (hardware always breaks the tie, including with Apple’s iOS introductions at WWDC). It wasn’t just that smartphones were relatively new and still adding critical features, but that the strategic decisions and ultimate fates of the platforms were still an open question. More than that, the entire future of the tech industry was clearly tied up in said platforms and their corresponding operating systems and devices; how could keynotes <em>not</em> be a big deal?</p>
+  <p>Fast forward a decade and the tech keynote has diminished in importance and, in the case of Apple, disappeared completely, replaced by a pre-recorded marketing video. I want to be mad about it, but it makes sense: an iPhone introduction has been diminished not by Apple’s presentation, but rather Apple’s presentations reflect the reality that the most important questions around an iPhone are about marketing tactics. How do you segment the iPhone line? How do you price? What sort of brand affinity are you seeking to build? There, I just summarized <a href="https://stratechery.com/2023/apples-iphone-event-innovation-and-iteration-pricing-inflation-and-services/">the iPhone 15 introduction</a>, and the reality that the smartphone era — <a href="https://stratechery.com/2020/the-end-of-the-beginning/">The End of the Beginning</a> — is over as far as strategic considerations are concerned. iOS and Android are a given, but what is next and yet unknown?</p>
+  <p>The answer is, clearly, AI, but even there, the energy seems muted: Apple hasn’t talked about generative AI other than to assure investors on earnings calls that they are working on it; Google I/O was of course about AI, but mostly in the context of Google’s own products — few of which have actually shipped — and <a href="https://stratechery.com/2023/google-i-o-and-the-coming-ai-battles/">my Article at the time</a> was quickly side-tracked into philosophical discussions about both the nature of AI innovation (sustaining versus disruptive), the question of tech revolution versus alignment, and a preview of the coming battles of regulation that arrived with <a href="https://stratechery.com/2023/attenuating-innovation-ai/">last week’s Executive Order on AI</a>.</p>
+  <p><a href="https://stratechery.com/2023/ai-hardware-and-virtual-reality/">Meta’s Connect keynote was much more interesting</a>: not only were AI characters being added to Meta’s social networks, but next year you will be able to take AI with you via Smart Glasses (I told you hardware was interesting!). Nothing, though, seemed to match the energy around yesterday’s OpenAI developer conference, their first ever: there is nothing more interesting in tech than a consumer product with product-market fit. And that, for me, is enough to bring back an old Stratechery standby: the keynote day-after.</p>
+  <h3 id="keynote-metaphysics-and-gpt-4-turbo">Keynote Metaphysics and GPT-4 Turbo</h3>
+  <p>This was, first and foremost, a really <em>good</em> keynote, in the keynote-as-artifact sense. CEO Sam Altman, in a humorous exchange with Microsoft CEO Satya Nadella, promised, “I won’t take too much of your time”; never mind that Nadella was presumably in San Francisco just for this event: in this case he stood in for the audience who witnessed a presentation that was tight, with content that was interesting, leaving them with a desire to learn more.</p>
+  <p>Altman himself had a good stage presence, with the sort of nervous energy that is only present in a live keynote; the fact he never seemed to know which side of the stage a fellow presenter was coming from was humanizing. Meanwhile, the live demos not only went off without a hitch, but leveraged the fact that they were live: in one instance a presenter instructed a GPT she created to text Altman; he held up his phone to show he got the message. In another a GPT randomly selected five members of the audience to receive $500 in OpenAI API credits, only to then extend it to everyone.</p>
+  <p>New products and features, meanwhile, were available “today”, not weeks or months in the future, as is increasingly the case for events like I/O or WWDC; everything combined to give a palpable sense of progress and excitement, which, when it comes to AI, is mostly true.</p>
+  <p>GPT-4 Turbo is an excellent example of what I mean by “mostly”. The API consists of six new features:</p>
+  <ul>
+    <li>Increased context length</li>
+    <li>More control, specifically in terms of model inputs and outputs</li>
+    <li>Better knowledge, which both means updating the cut-off date for knowledge about the world to April 2023 and providing the ability for developers to easily add their own knowledge base</li>
+    <li>New modalities, as DALL-E 3, Vision, and TTS (text-to-speech) will all be included in the API, with a new version of Whisper speech recognition coming.</li>
+    <li>Customization, including fine-tuning, and custom models (which, Altman warned, won’t be cheap)</li>
+    <li>Higher rate limits</li>
+  </ul>
+  <p>This is, to be clear, still the same foundational model (GPT-4); these features just make the API more usable, both in terms of features and also performance. It also speaks to how OpenAI is becoming more of a product company, with iterative enhancements of its core functionality. Yes, the mission still remains AGI (artificial general intelligence), and the core scientific team is almost certainly working on GPT-5, but Altman and team aren’t just tossing models over the wall for the rest of the industry to figure out.</p>
+  <h3 id="price-and-microsoft">Price and Microsoft</h3>
+  <p>The next “feature” was tied into the GPT-4 Turbo introduction: the API is getting cheaper (3x cheaper for input tokens, and 2x cheaper for output tokens). Unsurprisingly this announcement elicited cheers from the developers in attendance; what I cheered as an analyst was Altman’s clear articulation of the company’s priorities: lower price first, speed later. You can certainly debate whether that is the right set of priorities (I think it is, because the biggest need now is for increased experimentation, not optimization), but what I appreciated was the clarity.</p>
+  <p>It’s also appropriate that the segment after that was the brief “interview” with Nadella: OpenAI’s pricing is ultimately a function of Microsoft’s ability to build the infrastructure to support that pricing. Nadella actually explained how Microsoft is accomplishing that on the <a href="https://seekingalpha.com/article/4643129-microsoft-corporation-msft-q1-2024-earnings-call-transcript">company’s most recent earnings call</a>:</p>
+  <blockquote>
+    <p>It is true that the approach we have taken is a full stack approach all the way from whether it’s ChatGPT or Bing Chat or all our Copilots, all share the same model. So in some sense, one of the things that we do have is very, very high leverage of the one model that we used, which we trained, and then the one model that we are doing inferencing at scale. And that advantage sort of trickles down all the way to both utilization internally, utilization of third parties, and also over time, you can see the sort of stack optimization all the way to the silicon, because the abstraction layer to which the developers are riding is much higher up than low-level kernels, if you will.</p>
+    <p>So, therefore, I think there is a fundamental approach we took, which was a technical approach of saying we’ll have Copilots and Copilot stack all available. That doesn’t mean we don’t have people doing training for open source models or proprietary models. We also have a bunch of open source models. We have a bunch of fine-tuning happening, a bunch of RLHF happening. So there’s all kinds of ways people use it. But the thing is, we have scale leverage of one large model that was trained and one large model that’s being used for inference across all our first-party SaaS apps, as well as our API in our Azure AI service…</p>
+    <p>The lesson learned from the cloud side is — we’re not running a conglomerate of different businesses, it’s all one tech stack up and down Microsoft’s portfolio, and that, I think, is going to be very important because that discipline, given what the spend like — it will look like for this AI transition any business that’s not disciplined about their capital spend accruing across all their businesses could run into trouble.</p>
+  </blockquote>
+  <p>The fact that Microsoft is benefiting from OpenAI is obvious; what this makes clear is that OpenAI uniquely benefits from Microsoft as well, in a way they would not from another cloud provider: <a href="https://stratechery.com/2023/google-earnings-microsoft-earnings-ai-leverage/">because Microsoft is also a product company investing in the infrastructure to run OpenAI’s models for said products</a>, it can afford to optimize and invest ahead of usage in a way that OpenAI alone, even with the support of another cloud provider, could not. In this case that is paying off in developers needing to pay less, or, ideally, have more latitude to discover use cases that result in them paying far more because usage is exploding.</p>
+  <h3 id="gpts-and-computers">GPTs and Computers</h3>
+  <p>I mentioned GPTs before; you were probably confused, because this is a name that is either brilliant or a total disaster. Of course you could have said the same about ChatGPT: massive consumer uptake has a way of making arguably poor choices great ones in retrospect, and I can see why OpenAI is seeking to basically brand “GPT” as an OpenAI chatbot, a meaning far afield from “general pre-trained transformer” — the whole point is that they are not “general”!</p>
+  <p>Regardless, this was how Altman explains GPTs:</p>
+  <div align="center">
+    <div id="v-0EkKoygR-1" class="video-player">
+      <video id="v-0EkKoygR-1-video" width="640" height="360" poster="https://videos.files.wordpress.com/0EkKoygR/gpts-intro_mp4_hd_1080p.original.jpg" controls="true" preload="metadata" dir="ltr" lang="en"><div>
+<img alt="" src="https://videos.files.wordpress.com/0EkKoygR/gpts-intro_mp4_hd_1080p.original.jpg?resize=640%2C360" width="640" height="360" data-recalc-dims="1" />
+        </div></video>
+    </div>
+  </div>
+  <blockquote>
+    <p>GPTs are tailored version of ChatGPT for a specific purpose. You can build a GPT — a customized version of ChatGPT — for almost anything, with instructions, expanded knowledge, and actions, and then you can publish it for others to use. And because they combine instructions, expanded knowledge, and actions, they can be more helpful to you. They can work better in many contexts, and they can give you better control. They’ll make it easier for you accomplish all sorts of tasks or just have more fun, and you’ll be able to use them right within ChatGPT. You can, in effect, program a GPT, with language, just by talking to it. It’s easy to customize the behavior so that it fits what you want. This makes building them very accessible, and it gives agency to everyone.</p>
+    <p>We’re going to show you what GPTs are, how to use them, how to build them, and then we’re going to talk about how they’ll be distributed and discovered. And then after that, for developers, we’re going to show you how to build these agent-like experiences into your own apps.</p>
+  </blockquote>
+  <p>Altman’s examples included a lesson-planning GPT from Code.org and a natural language vision design GPT from Canva. As Altman noted, the second example might have seemed familiar: Canva had a plugin for ChatGPT, and Altman explained that “we’ve evolved our plugins to be custom actions for GPTs.”</p>
+  <p>I found the plugin concept fascinating and a useful way to understand both the capabilities and limits of large language models; I wrote in <a href="https://stratechery.com/2023/chatgpt-learns-computing/">ChatGPT Gets a Computer</a>:</p>
+  <blockquote>
+    <p>The implication of this approach is that computers are deterministic: if circuit X is open, then the proposition represented by X is true; 1 plus 1 is always 2; clicking “back” on your browser will exit this page. There are, of course, a huge number of abstractions and massive amounts of logic between an individual transistor and any action we might take with a computer — and an effectively infinite number of places for bugs — but the appropriate mental model for a computer is that they do exactly what they are told (indeed, a bug is not the computer making a mistake, but rather a manifestation of the programmer telling the computer to do the wrong thing)…</p>
+  </blockquote>
+  <p>Large language models, though, with their probabilistic approach, are in many domains shockingly intuitive, and yet can hallucinate and are downright terrible at math; that is why the most compelling plug-in OpenAI launched was from Wolfram|Alpha. Stephen Wolfram <a href="https://writings.stephenwolfram.com/2023/01/wolframalpha-as-the-way-to-bring-computational-knowledge-superpowers-to-chatgpt/">explained</a>:</p>
+  <blockquote>
+    <p>For decades there’s been a dichotomy in thinking about AI between “statistical approaches” of the kind ChatGPT uses, and “symbolic approaches” that are in effect the starting point for Wolfram|Alpha. But now—thanks to the success of ChatGPT—as well as all the work we’ve done in making Wolfram|Alpha understand natural language—there’s finally the opportunity to combine these to make something much stronger than either could ever achieve on their own.</p>
+  </blockquote>
+  <p>That is the exact combination that happened, which led to the title of that Article:</p>
+  <blockquote>
+    <p>The fact this works so well is itself a testament to what Assistant AI’s are, and are not: they are not computing as we have previously understood it; they are shockingly human in their way of “thinking” and communicating. And frankly, I would have had a hard time solving those three questions as well — that’s what computers are for! And now ChatGPT has a computer of its own.</p>
+  </blockquote>
+  <p>I still think the concept was incredibly elegant, but there was just one problem: the user interface was terrible. You had to get a plugin from the “marketplace”, then pre-select it before you began a conversation, and only then would you get workable results after a too-long process where ChatGPT negotiated with the plugin provider in question on the answer.</p>
+  <p>This new model somewhat alleviates the problem: now, instead of having to select the correct plug-in (and thus restart your chat), you simply go directly to the GPT in question. In other words, if I want to create a poster, I don’t enable the Canva plugin in ChatGPT, I go to Canva GPT in the sidebar. Notice that this doesn’t actually <em>solve</em> the problem of needing to have selected the right tool; what it does do is make the choice more apparent to the user at a more appropriate stage in the process, and that’s no small thing. I also suspect that GPTs will be much faster than plug-ins, given they are integrated from the get-go. Finally, standalone GPTs are a much better fit with the store model that OpenAI is trying to develop.</p>
+  <p>Still, there is a better way: Altman demoed it.</p>
+  <h3 id="chatgpt-and-the-universal-interface">ChatGPT and the Universal Interface</h3>
+  <p>Before Altman introduced the aforementioned GPTs he talked about improvements to ChatGPT:</p>
+  <div align="center">
+    <div id="v-ot3CmlaF-1" class="video-player">
+      <video id="v-ot3CmlaF-1-video" width="640" height="360" poster="https://videos.files.wordpress.com/ot3CmlaF/chatgpt-improvements_mp4_hd_1080p.original.jpg" controls="true" preload="metadata" dir="ltr" lang="en"><div>
+<img alt="" src="https://videos.files.wordpress.com/ot3CmlaF/chatgpt-improvements_mp4_hd_1080p.original.jpg?resize=640%2C360" width="640" height="360" data-recalc-dims="1" />
+        </div></video>
+    </div>
+  </div>
+  <blockquote>
+    <p>Even though this is a developer conference, we can’t help resist making some improvements to ChatGPT. A small one, ChatGPT now uses GPT-4 Turbo, with all of the latest improvements, including the latest cut-off, which we’ll continue to update — that’s all live today. It can now browse the web when it needs to, write and run code, analyze data, generate images, and much more, and we heard your feedback that that model picker was extremely annoying: that is gone, starting today. You will not have to click around a drop-down menu. All of this will just work together. ChatGPT will just know what to use and when you need it. But that’s not the main thing.</p>
+  </blockquote>
+  <p>You may wonder why I put this section after GPTs, given they were, according to Altman, the main thing: it’s because I think this feature enhancement is actually much more important. As I just noted, GPTs are a somewhat better UI on an elegant plugin concept, in which a probabilisitic large language model gets access to a deterministic computer. The best UI, though, is no UI at all, or rather, just one UI, by which I mean “Universal Interface”.</p>
+  <p>In this case “browsing” or “image generation” are basically plug-ins: they are specialized capabilities that, before today, you had to explicitly invoke; going forward they will just work. ChatGPT will seamlessly switch between text generation, image generation, and web browsing, without the user needing to change context. What is necessary for the plug-in/GPT idea to ultimately take root is for the same capabilities to be extended broadly: if my conversation involved math, ChatGPT should know to use Wolfram|Alpha on its own, without me adding the plug-in or going to a specialized GPT.</p>
+  <p>I can understand why this capability doesn’t yet exist: the obvious technical challenges of properly exposing capabilities and training the model to know when to invoke those capabilities are a textbook example of Professor Clayton Christensen’s theory of integration and modularity, wherein integration works better when a product isn’t good enough; it is only when a product exceeds expectation that there is room for standardization and modularity. To that end, ChatGPT is only now getting the capability to generate an image without the mode being selected for it: I expect the ability to seek out less obvious tools will be fairly difficult.</p>
+  <p>In fact, it’s possible that the entire plug-in/GPT approach ends up being a dead-end; towards the end of the keynote Ramon Huet, the head of developer experience at OpenAI, explicitly demonstrated ChatGPT programming a computer. The scenario was splitting the tab for an Airbnb in Paris:</p>
+  <div align="center">
+    <div id="v-En2RPQZh-1" class="video-player">
+      <video id="v-En2RPQZh-1-video" width="640" height="360" poster="https://videos.files.wordpress.com/En2RPQZh/chatgpt-codes_mp4_hd_1080p.original.jpg" controls="true" preload="metadata" dir="ltr" lang="en"><div>
+<img alt="" src="https://videos.files.wordpress.com/En2RPQZh/chatgpt-codes_mp4_hd_1080p.original.jpg?resize=640%2C360" width="640" height="360" data-recalc-dims="1" />
+        </div></video>
+    </div>
+  </div>
+  <blockquote>
+    <p>Code Interpreter is now available today in the API as well. That gives the AI the ability to write and generate code on the file, or even to generate files. So let’s see that in action. If I say here, “Hey, we’ll be 4 friends staying at this Airbnb, what’s my share of it plus my flights?”</p>
+    <p>Now here what’s happening is that Code Interpreter noticed that it should write some code to answer this query so now it’s computing the number of days in Paris, the number of friends, it’s also doing some exchange rate calculation behind the scene to get this answer for us. Not the most complex math, but you get the picture: imagine you’re building a very complex finance app that’s counting countless numbers, plotting charts, really any tasks you might tackle with code, then Code Interpreter will work great.</p>
+  </blockquote>
+  <p>Uhm, what tasks do you <em>not</em> tackle with code? To be fair, Huet is referring to fairly simple math-oriented tasks, not the wholesale recreation of every app on the Internet, but it is interesting to consider for which problems ChatGPT will gain the wisdom to choose the right tool, and for which it will simply brute force a new solution; the history of computing would actually give the latter a higher probability: there are a lot of problems that were solved less with clever algorithms and more with the <a href="https://stratechery.com/2023/china-chips-and-moores-law/">application of Moore’s Law</a>.</p>
+  <h3 id="consumers-and-hardware">Consumers and Hardware</h3>
+  <p>Speaking of the first year of Stratechery, that is when I first wrote about integration and modularization, in <a href="https://stratechery.com/2013/clayton-christensen-got-wrong/">What Clayton Christensen Got Wrong</a>; as the title suggests I didn’t think the theory was universal:</p>
+  <blockquote>
+    <p>Christensen himself laid out his theory’s primary flaw in the first quote excerpted above (from 2006):</p>
+    <blockquote>
+      <p>You also see it in aircrafts and software, and medical devices, and over and over.</p>
+    </blockquote>
+    <p>That is the problem: Consumers don’t buy aircraft, software, or medical devices. Businesses do.</p>
+    <p>Christensen’s theory is based on examples drawn from buying decisions made by businesses, not consumers. The reason this matters is that the theory of low-end disruption presumes:</p>
+    <ul>
+      <li>Buyers are rational</li>
+      <li>Every attribute that matters can be documented and measured</li>
+      <li>Modular providers can become “good enough” on all the attributes that matter to the buyers</li>
+    </ul>
+    <p>All three of the assumptions fail in the consumer market, and this, ultimately, is why Christensen’s theory fails as well. Let me take each one in turn:</p>
+  </blockquote>
+  <p>To summarize the argument, consumers care about things in ways that are inconsistent with whatever price you might attach to their utility, they prioritize ease-of-use, and they care about the quality of the user experience and are thus especially bothered by the seams inherent in a modular solution. This means that integrated solutions win because nothing is ever “good enough”; as I noted in the context of Amazon, <a href="https://stratechery.com/2018/divine-discontent-disruptions-antidote/">Divine Discontent is Disruption’s Antidote</a>:</p>
+  <blockquote>
+    <p>Bezos’s letter, though, reveals another advantage of focusing on customers: it makes it impossible to overshoot. When I wrote that piece five years ago, I was thinking of the opportunity provided by a focus on the user experience as if it were an asymptote: one could get ever closer to the ultimate user experience, but never achieve it:</p>
+    <p><a href="https://stratechery.com/2018/divine-discontent-disruptions-antidote/"><img decoding="async" fetchpriority="high" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2018/05/Paper.stratechery-Year-One.347.png?resize=640%2C389&#038;ssl=1" alt="A drawing of The Asymptote Version of the User Experience" width="640" height="389" class="alignnone size-full wp-image-3453" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2018/05/Paper.stratechery-Year-One.347.png?w=1300&amp;ssl=1 1300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2018/05/Paper.stratechery-Year-One.347.png?resize=300%2C183&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2018/05/Paper.stratechery-Year-One.347.png?resize=768%2C467&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2018/05/Paper.stratechery-Year-One.347.png?resize=1024%2C623&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2018/05/Paper.stratechery-Year-One.347.png?resize=1035%2C630&amp;ssl=1 1035w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></a></p>
+    <p>In fact, though, consumer expectations are not static: they are, as Bezos’ memorably states, “divinely discontent”. What is amazing today is table stakes tomorrow, and, perhaps surprisingly, that makes for a tremendous business opportunity: if your company is predicated on delivering the best possible experience for consumers, then your company will never achieve its goal.</p>
+    <p><a href="https://stratechery.com/2018/divine-discontent-disruptions-antidote/"><img decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2018/05/Paper.stratechery-Year-One.348.png?resize=640%2C389&#038;ssl=1" alt="A drawing of The Ever-Changing Version of the User Experience" width="640" height="389" class="alignnone size-full wp-image-3452" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2018/05/Paper.stratechery-Year-One.348.png?w=1300&amp;ssl=1 1300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2018/05/Paper.stratechery-Year-One.348.png?resize=300%2C183&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2018/05/Paper.stratechery-Year-One.348.png?resize=768%2C467&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2018/05/Paper.stratechery-Year-One.348.png?resize=1024%2C623&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2018/05/Paper.stratechery-Year-One.348.png?resize=1035%2C630&amp;ssl=1 1035w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></a></p>
+    <p>In the case of Amazon, that this unattainable and ever-changing objective is embedded in the company’s culture is, in conjunction with the company’s demonstrated ability to spin up new businesses on the profits of established ones, a sort of perpetual motion machine.</p>
+  </blockquote>
+  <p>I see no reason why both Articles wouldn’t apply to ChatGPT: while I might make the argument that hallucination is, in a certain light, a feature not a bug, the fact of the matter is that a lot of people use ChatGPT for information despite the fact it has a well-documented flaw when it comes to the truth; that flaw is acceptable, because to the customer ease-of-use is worth the loss of accuracy. Or look at plug-ins: the concept as originally implemented has already been abandoned, because the complexity in the user interface was more detrimental than whatever utility might have been possible. It seems likely this pattern will continue: of course customers will <em>say</em> that they want accuracy and 3rd-party tools; their actions will continue to demonstrate that convenience and ease-of-use matter most.</p>
+  <p>This has two implications. First, while this may have been OpenAI’s first developer conference, I remain unconvinced that OpenAI is going to ever be a true developer-focused company. I think that was Altman’s plan, but reality in the form of ChatGPT intervened: ChatGPT is the most important consumer-facing product since the iPhone, making OpenAI <a href="https://stratechery.com/2023/the-accidental-consumer-tech-company-chatgpt-meta-and-product-market-fit-aggregation-and-apis/">The Accidental Consumer Tech Company</a>. That, by extension, means that integration will continue to matter more than modularization, which is great for Microsoft’s compute stack and maybe less exciting for developers.</p>
+  <p>Second, there remains one massive patch of friction in using ChatGPT; from <a href="https://stratechery.com/2023/ai-hardware-and-virtual-reality/">AI, Hardware, and Virtual Reality</a>:</p>
+  <blockquote>
+    <p>AI is truly something new and revolutionary and capable of being something more than just a homework aid, but I don’t think the existing interfaces are the right ones. Talking to ChatGPT is better than typing, but I still have to launch the app and set the mode; vision is an amazing capability, but it requires even more intent and friction to invoke. I could see a scenario where Meta’s AI is inferior technically to OpenAI, but more useful simply because it comes in a better form factor.</p>
+  </blockquote>
+  <p>After highlighting some news stories about OpenAI potentially partnering with Jony Ive to build hardware, I concluded:</p>
+  <blockquote>
+    <p>There are obviously many steps before a potential hardware product, including actually agreeing to build one. And there is, of course, the fact that Apple and Google already make devices everyone carries, with the latter in particular investing heavily in its own AI capabilities; betting on the hardware in market winning the hardware opportunity in AI is the safest bet. That may not be a reason for either OpenAI or Meta to abandon their efforts, though: waging a hardware battle against Google and Apple would be difficult, but it might be even worse to be “just an app” if the full realization of AI’s capabilities depend on fully removing human friction from the process.</p>
+  </blockquote>
+  <p>This is the implication of a Universal Interface, which ChatGPT is striving to be: it also requires universal access, and that will always be a challenge for any company that is “just an app.” Yes, as I noted, the odds seem long, thanks to Apple and Google’s dominance, but I think there is an outside chance that the paradigm-shifting keynote is only just beginning its comeback.</p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2023-12-05</time>
+        <a href="https://nodebe4.github.io/opinion/2023-12-05/Regretful-Accelerationism/">
+          Regretful Accelerationism
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-11-20</time>
+        <a href="https://nodebe4.github.io/opinion/2023-11-20/OpenAI-s-Misalignment-and-Microsoft-s-Gain/">
+          OpenAI’s Misalignment and Microsoft’s Gain
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-11-01</time>
+        <a href="https://nodebe4.github.io/opinion/2023-11-01/Attenuating-Innovation-(AI)/">
+          Attenuating Innovation (AI)
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-10-18</time>
+        <a href="https://nodebe4.github.io/opinion/2023-10-18/China-Chips-and-Moore-s-Law/">
+          China Chips and Moore’s Law
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2023-11-05/%E6%B2%99%E5%B8%8C%E5%BE%B7-%E9%98%BF%E9%87%8C-%E6%B2%A1%E6%9C%89%E9%82%AE%E5%B1%80%E7%9A%84%E5%9B%BD%E5%BA%A6/">
+            前一篇：沙希德·阿里：没有邮局的国度
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2023-11-10/EP-072-%E5%9C%A8%E7%BB%8F%E6%B5%8E%E8%90%A7%E6%9D%A1%E4%B8%AD%E6%8C%A3%E6%89%8E%E7%9A%84%E5%86%9C%E6%B0%91%E5%B7%A5-%E4%B8%8B/">
+            後一篇：EP-072 在经济萧条中挣扎的农民工（下）
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2023-11-05/%E6%B2%99%E5%B8%8C%E5%BE%B7-%E9%98%BF%E9%87%8C-%E6%B2%A1%E6%9C%89%E9%82%AE%E5%B1%80%E7%9A%84%E5%9B%BD%E5%BA%A6/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2023-11-10/EP-072-%E5%9C%A8%E7%BB%8F%E6%B5%8E%E8%90%A7%E6%9D%A1%E4%B8%AD%E6%8C%A3%E6%89%8E%E7%9A%84%E5%86%9C%E6%B0%91%E5%B7%A5-%E4%B8%8B/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2023-11-20/OpenAI-s-Misalignment-and-Microsoft-s-Gain/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2023-11-01/Attenuating-Innovation-(AI)/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2023-11-05/%E6%B2%99%E5%B8%8C%E5%BE%B7-%E9%98%BF%E9%87%8C-%E6%B2%A1%E6%9C%89%E9%82%AE%E5%B1%80%E7%9A%84%E5%9B%BD%E5%BA%A6/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2023-11-10/EP-072-%E5%9C%A8%E7%BB%8F%E6%B5%8E%E8%90%A7%E6%9D%A1%E4%B8%AD%E6%8C%A3%E6%89%8E%E7%9A%84%E5%86%9C%E6%B0%91%E5%B7%A5-%E4%B8%8B/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2023-11-20/OpenAI-s-Misalignment-and-Microsoft-s-Gain/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2023-11-01/Attenuating-Innovation-(AI)/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

@@ -1,0 +1,1076 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>洪灾之後，並未退潮的氣候危機 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+洪灾之後，並未退潮的氣候危機
+——
+" />
+    <meta property="og:description" content="
+洪灾之後，並未退潮的氣候危機
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="洪灾之後，並未退潮的氣候危機" />
+    <meta property="twitter:title" content="洪灾之後，並未退潮的氣候危機" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fmatters.news%2F%40weiluflame%2F%25E6%25B4%25AA%25E7%2581%25BE%25E4%25B9%258B%25E5%25BE%258C-%25E4%25B8%25A6%25E6%259C%25AA%25E9%2580%2580%25E6%25BD%25AE%25E7%259A%2584%25E6%25B0%25A3%25E5%2580%2599%25E5%258D%25B1%25E6%25A9%259F-bafyreihglgd7ns4cupyamhri4dsxpggx555lwxhubm72sfafcbzosjl35e" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://matters.news/@weiluflame/%E6%B4%AA%E7%81%BE%E4%B9%8B%E5%BE%8C-%E4%B8%A6%E6%9C%AA%E9%80%80%E6%BD%AE%E7%9A%84%E6%B0%A3%E5%80%99%E5%8D%B1%E6%A9%9F-bafyreihglgd7ns4cupyamhri4dsxpggx555lwxhubm72sfafcbzosjl35e" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://matters.news/@weiluflame/%E6%B4%AA%E7%81%BE%E4%B9%8B%E5%BE%8C-%E4%B8%A6%E6%9C%AA%E9%80%80%E6%BD%AE%E7%9A%84%E6%B0%A3%E5%80%99%E5%8D%B1%E6%A9%9F-bafyreihglgd7ns4cupyamhri4dsxpggx555lwxhubm72sfafcbzosjl35e&text=洪灾之後，並未退潮的氣候危機&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://matters.news/@weiluflame/%E6%B4%AA%E7%81%BE%E4%B9%8B%E5%BE%8C-%E4%B8%A6%E6%9C%AA%E9%80%80%E6%BD%AE%E7%9A%84%E6%B0%A3%E5%80%99%E5%8D%B1%E6%A9%9F-bafyreihglgd7ns4cupyamhri4dsxpggx555lwxhubm72sfafcbzosjl35e&title=洪灾之後，並未退潮的氣候危機" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://matters.news/@weiluflame/%E6%B4%AA%E7%81%BE%E4%B9%8B%E5%BE%8C-%E4%B8%A6%E6%9C%AA%E9%80%80%E6%BD%AE%E7%9A%84%E6%B0%A3%E5%80%99%E5%8D%B1%E6%A9%9F-bafyreihglgd7ns4cupyamhri4dsxpggx555lwxhubm72sfafcbzosjl35e&title=洪灾之後，並未退潮的氣候危機" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=洪灾之後，並未退潮的氣候危機&body=
+洪灾之後，並未退潮的氣候危機
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://matters.news/@weiluflame/%E6%B4%AA%E7%81%BE%E4%B9%8B%E5%BE%8C-%E4%B8%A6%E6%9C%AA%E9%80%80%E6%BD%AE%E7%9A%84%E6%B0%A3%E5%80%99%E5%8D%B1%E6%A9%9F-bafyreihglgd7ns4cupyamhri4dsxpggx555lwxhubm72sfafcbzosjl35e" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://matters.news/@weiluflame/%E6%B4%AA%E7%81%BE%E4%B9%8B%E5%BE%8C-%E4%B8%A6%E6%9C%AA%E9%80%80%E6%BD%AE%E7%9A%84%E6%B0%A3%E5%80%99%E5%8D%B1%E6%A9%9F-bafyreihglgd7ns4cupyamhri4dsxpggx555lwxhubm72sfafcbzosjl35e&title=洪灾之後，並未退潮的氣候危機&caption=
+洪灾之後，並未退潮的氣候危機
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=洪灾之後，並未退潮的氣候危機&url=https://matters.news/@weiluflame/%E6%B4%AA%E7%81%BE%E4%B9%8B%E5%BE%8C-%E4%B8%A6%E6%9C%AA%E9%80%80%E6%BD%AE%E7%9A%84%E6%B0%A3%E5%80%99%E5%8D%B1%E6%A9%9F-bafyreihglgd7ns4cupyamhri4dsxpggx555lwxhubm72sfafcbzosjl35e" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>洪灾之後，並未退潮的氣候危機</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2021-08-31
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: 围炉weiluflame</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#围炉">
+          围炉
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://matters.news/@weiluflame/%E6%B4%AA%E7%81%BE%E4%B9%8B%E5%BE%8C-%E4%B8%A6%E6%9C%AA%E9%80%80%E6%BD%AE%E7%9A%84%E6%B0%A3%E5%80%99%E5%8D%B1%E6%A9%9F-bafyreihglgd7ns4cupyamhri4dsxpggx555lwxhubm72sfafcbzosjl35e" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="围炉的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#围炉 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1630413388000-->
+<p><a href="https://matters.news/@weiluflame/%E6%B4%AA%E7%81%BE%E4%B9%8B%E5%BE%8C-%E4%B8%A6%E6%9C%AA%E9%80%80%E6%BD%AE%E7%9A%84%E6%B0%A3%E5%80%99%E5%8D%B1%E6%A9%9F-bafyreihglgd7ns4cupyamhri4dsxpggx555lwxhubm72sfafcbzosjl35e">洪灾之後，並未退潮的氣候危機</a>
+——</p>
+
+<div>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/cb9590bb-3e73-4cf8-99ef-e37bce4ff6ec.webp" data-asset-id="cb9590bb-3e73-4cf8-99ef-e37bce4ff6ec" referrerpolicy="no-referrer" />    <figcaption>
+<span>藝術家Olafur Eliasson裝置藝術作品，關注全球變暖下格陵蘭冰川消融</span>
+    </figcaption>
+  </figure>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/89c8d5d4-007a-471a-9789-a4c57bae7c2f.png" data-asset-id="89c8d5d4-007a-471a-9789-a4c57bae7c2f" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>8月後，河南灾情很快淡出了公眾視野，距離7月20日那場歷史級的大暴雨也已過去了一個多月。可是這場水灾還遠遠沒有結束：灾後安置情况如何？制度性問題是否已追責妥當？失去親人的家庭要如何走出傷痛？社會可以給予哪些支持？好在部分媒體與個人團隊有在緊緊追跡，進行複盤與追責。但除此之外，我們今天想從另一個角度——全球氣候來談談，灾情之後，我們應該如何面對洪灾背後那個巨大但常被忽視的氣候問題。現代性危機下，一向“自大”的人類如何面對無窮的環境風險？</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/eb629420-b7b3-4a17-8cfb-310922ae06a7.png" data-asset-id="eb629420-b7b3-4a17-8cfb-310922ae06a7" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p><strong><em><u>1</u></em></strong></p>
+  <p><strong><em><u>一再示警的全球變暖</u></em></strong></p>
+  <p>首要的問題或許是，河南洪灾是否是由全球變暖引起的？</p>
+  <p>豪雨之前，颱風“煙花”曾聲勢浩大地引起廣泛關注，很多人以為此次颱風便是豪雨的成因。但中央氣象臺與河南省氣象臺在7月21日的一次採訪中解析豪雨成因時道，雖然颱風“煙花”一定程度上加强了降雨强度，但更多還是歸因於無規律可循的極端天氣。國家氣候中心副主任賈小龍在採訪中對此表示肯定，全球氣候變暖加劇了氣候系統不穩定，是造成極端天氣氣候事件頻發、强度增强的根本原因，而河南洪灾正是極端天氣的很具代表性的體現。</p>
+  <p>英國氣候專家福勒教授在接受BBC的採訪時表示，這種暴洪（Flash Floods）現象在過去並不常見，但氣候變暖會使得這種由雷暴引發的短時間强降雨變得越來越頻繁。根據福勒的一項研究顯示，如果氣候變化繼續按現時的軌道發展，那暴洪現象——以每小時30毫米雨量計算，到2080年將會新增5倍。8月新出臺的《中國氣候變化藍皮書（2021）》中也提到，1991至2020年，高溫、强降水等極端事件增多增强，青藏高原等地多年凍土退化亦愈加明顯，中國氣候風險指數平均值（6.8）較1961至1990年的平均值（4.3）新增了58%。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/476b6d9c-212e-4d18-9e80-fbb04106d883.webp" data-asset-id="476b6d9c-212e-4d18-9e80-fbb04106d883" referrerpolicy="no-referrer" />    <figcaption>
+<span>截自《中國氣候變化藍皮書（2021）》</span>
+    </figcaption>
+  </figure>
+  <p>發生在河南的洪灾其實只是今年全球極端天氣灾害的一小部分，極端天氣導致的灾害在全球各地不斷上演著：2月中旬美洲西岸貫穿南北的大寒潮，德州甚至出現了暴風雪，百餘人受害；3月澳大利亞遭遇了60年來最嚴重的洪灾，受灾人口達800萬，個別地區降雨量達到1000毫米；5月在印度西海岸登入的颶風“陶特”使得20多萬人受灾；6月美國加州的三一國家公園內閃電所致的“火龍捲風”；7月歐洲也是强降雨引發的洪灾，巴西則遭受了90年來最嚴重的乾旱……美國氣候大使約翰·克裏稱，若氣候問題不能得到及時處理，其帶來的嚴重後果將是新冠肺炎疫情的數倍。</p>
+  <p>所以，從更宏大的視角來看，這次的河南洪灾實際上再此給我們敲響了一記警鐘：人類正面臨著史無前例的生存考驗，也到了一個再次認真反思人類中心主義的節點。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/2fd231ae-5f32-40df-9efe-c416f1b040d4.webp" data-asset-id="2fd231ae-5f32-40df-9efe-c416f1b040d4" referrerpolicy="no-referrer" />    <figcaption>
+<span>美國加州北部6月突現“火龍捲風”</span>
+    </figcaption>
+  </figure>
+  <p><strong><em><u>2</u></em></strong></p>
+  <p><strong><em><u>“自大”的人類，</u></em></strong></p>
+  <p><strong><em><u>在建造“傲慢”的都市嗎？</u></em></strong></p>
+  <p>從哲學角度看，人與自然的關係是環境問題的覈心。而將人與自然作為兩極對立起來的思考範式，是近代文明的突出特徵。在光譜的兩端，人類中心主義與生態中心主義各居其比特。近現代文明實踐中的種種選擇，則早已毫無疑問地滑向了“人類”的一方。</p>
+  <p>在人類中心主義看來，人類是地球上乃至宇宙間，最覈心、最重要的物種。在這種“人類至上”的視角下，自然環境是人類可以隨意佔有、使用和改造的對象。近現代以來，受社會文化的規約，人們似乎與生俱來地習得了這種看待自然的思考模式。</p>
+  <p>回望歷史，人類中心主義視角可以追溯到文藝復興時期人文主義的興起。當市民階層以人權對抗教會神權的抗爭拉開帷幕，“人是宇宙的中心、萬物的尺度”的觀念種子就開始生根發芽。之後，工業革命的齒輪交錯，汽笛轟鳴，科技的進步和生產力的發展給了人類前所未有的自信，認為能够完全控制、改造和戰勝自然。土地、河流、湖泊、草原，人類所到之地皆改模換樣，科技的加持為原本就“譬如猛虎”的人類“加之羽翼”。</p>
+  <p>也正是因為如此，工業化大城市開始遍地開花。從商業範式向工業範式轉換，人類聚沙成塔的城市化過程迎來新的拐點。逢山開路，遇水架橋，鋼筋水泥澆築的都市叢林，正一點點侵佔那些原本屬於自然的地方，施展著城市化的“傲慢權力”。</p>
+  <p>權力傾軋的後果是危險的。一方面，森林植被的破壞，削弱了綠色植物吸收二氧化碳的能力；另一方面，都市周邊的大規模工業區，源源不斷地燃燒礦物燃料，排放大量溫室氣體。不斷擴張的近現代文明，帶來了不斷增長的碳排放量，打破了地球系統的碳平衡。</p>
+  <p>地球，被丟進了一口熱鍋。周邊不斷加溫，但細微的變化難以引起越發“自大”的人類的關注。當鄭州豪雨般“千年一遇”的灾害爆發，大規模聚居在都市中的人類受到侵害，才會喚起部分人的警覺。</p>
+  <p>人們曾經囙此驚醒。工業革命後期，逐漸嚴重的污染，讓技術進步的榮光變得暗淡。都市煙塵彌漫，河水污穢不堪，水俁病、痛痛病、光化學煙霧掠走了無數人的性命。在煤烟的侵蝕下，曼徹斯特和附近的一些小城市，原本漂亮的紅磚都變成了“黑磚”，建築物開始變得陰森。伯明罕地區，煉鋼業的發展使城市上空整日錘聲回蕩，夜空被熔爐火光照得通紅，整個地區成為了名副其實的“黑鄉”。歷史學家保爾·芒圖對這樣的工業都市充滿厭惡：“我們的大工業都市醜陋、黝黑，被煙霧包圍著。”</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/9f80ba98-1946-4dcf-9d88-8f2bd07df103.webp" data-asset-id="9f80ba98-1946-4dcf-9d88-8f2bd07df103" referrerpolicy="no-referrer" />    <figcaption>
+<span>工業革命造成巨量污染</span>
+    </figcaption>
+  </figure>
+  <p>人們這才意識到，牛頓力學（機械）世界觀下的發展管道，破壞了生態系統，會遭到自然的强力反噬。在强大的自然力量面前，人類不過渺小如牤，“自大”只是一場一廂情願的錯覺。</p>
+  <p>人類，憑什麼認為自己能够戰勝自然？</p>
+  <p>在不斷的反思中，都市發展模式，向生態範式過渡。二戰後，逐漸形成了關於建築和城市規劃的新理念。1962年，美國生物學家卡遜發表了《寂靜的春天》，標誌著人類開始理性反思越來越緊迫的環境危機。1969年再版的列奧鮑德的《沙鄉年鑒》，為舊有的環境哲學注入了新的倫理原則。它認為，人類不是自然的征服者，而是自然的一部分、生態系統的一員。在人與自然的共同體中，人類應該遵循人與大地以及人與依存於大地的動植物之間關係的倫理規則。</p>
+  <p>在價值範式變革的引領下，越來越多創新實踐開始湧現。紐約中央公園，成為公園都市最具代表性的案例。在號稱全球最發達的曼哈頓摩天大樓群中，這是一片格外獨特的近4平方公里綠洲。1994年建設的日本生態再生園，由東京市中心的小工廠區改建，成為了周邊區域發展生態規劃的契機。它將都市改造模型融入生態科技，在相對擁擠的城市裏，通過屋頂綠化提供了新的園林景觀，改善都市小氣候，創造了額外的公共和私人綠地。舊金山灣東部海岸的伯克利，巴西的庫里蒂巴，澳大利亞的阿德萊德，成為世界上最具標誌性的“生態城”。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/f115a60c-100b-4ac0-a43a-acc812d3e7fc.webp" data-asset-id="f115a60c-100b-4ac0-a43a-acc812d3e7fc" referrerpolicy="no-referrer" />    <figcaption>
+<span>日本生態再生園（Tokyo EcoRenewal）概念模型圖</span>
+    </figcaption>
+  </figure>
+  <p>這種人與自然共生的理念，似乎讓阿卡迪亞式的田園牧歌理想在都市中得以實現。那些原本屬於自然的，“留給被淹沒的地方”，應當被歸還給自然。這種環保意識在今天尤為重要。</p>
+  <p><strong><em><u>3</u></em></strong></p>
+  <p><strong><em><u>環保，是我們</u></em></strong></p>
+  <p><strong><em><u>“熟悉的陌生人”嗎？</u></em></strong></p>
+  <p>“環保”或“氣候變化”這類詞彙似乎已經是我們不能再耳熟能詳的了。從小學自然到高中地理，從課堂到大街上的宣傳標語，比比皆是。但或許有時恰是因為口號的聲音太大，真正的內涵才越難被聽見。“環保”已經成為一種政治正確，但似乎也只是政治正確。</p>
+  <p>在不少西方國家，氣候變化經常登上媒體頭條，這是一個各方都能唇槍舌劍一把的議題。不過畢竟“真理越辯越明”，福斯在各種討論與爭辯中對環保與氣候變化的認識和理解得以進一步加深。可是在中國的媒體環境中它似乎是個邊緣議題，在日常生活裏也並未得到足够的重視，很少引起激辯與討論。這背後的原因是什麼呢？</p>
+  <p>最重要的一點或許是環境保護NGO等民間環保組織發展的落後、專業性較弱，而這又是政府的强力監管導致的。觀察環保意識和發展行程較快的國家就不難發現，大多時候都是民間環保組織率先發聲，再自下而上地推動，提高環境議題曝光度的同時也對政府及企業進行監督。而國內大多時候只有官方自上而下的聲音來主導，並不利於公眾對氣候問題的感知。</p>
+  <p>而當體現在環境問題上，官方在文宣體制下的敘事手法也可能導致人們對環保感知的“景觀化”。在這一媒介環境中，環保成為了距離人們日常生活較為遙遠的“景觀”。如2020年陝西省榆林市“毛烏素沙漠變綠洲”，本是生態恢復的極佳成果，但新聞裏“重建生態‘萬里長征’”、“長征第一步”此類敘事與文宣管道，在一定程度上可能也拉大了群眾與環境議題的心理距離。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/ec789bc9-ee34-490b-99aa-5fcb678c8c50.webp" data-asset-id="ec789bc9-ee34-490b-99aa-5fcb678c8c50" referrerpolicy="no-referrer" />    <figcaption>
+<span>已成為歷史的“毛烏素沙漠”</span>
+    </figcaption>
+  </figure>
+  <p>說到監督，自然也少不了媒體。對媒體嚴苛的審查也是中國環保意識有所欠缺的重要原因。經驗告訴我們，對於環保這種公共議題，最廣泛的公眾及媒體的參與是非常必要的。例如前些年公眾對霧霾以及PM2.5的關注和環保部門採取有效措施也正是首先源於民間力量的推動。</p>
+  <p>不過為何我們能够如此關注霧霾，購買著空氣淨化器，卻對全球氣候變化的關注與感知尚淺？回到中國的脉络中，這或許也與傳統文化中的“此岸性”有關。子曰：“為政以德，譬如北辰，居是所，而眾星拱之。”這是很好的一個差序格局的譬喻。根據人類學者費孝通先生在《鄉土中國》中的論述，我們的社會結構“每個人都是他社會影響所推出去的圈子的中心。被圈子的波紋所推及的就發生聯系。”相比起遙遠的“彼岸”，人們向來更傾向於“此岸”，愛亦等差。“世界”似乎便遙遠得多。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/7d7800da-70b1-43f1-acc8-2711a71cf2b6.webp" data-asset-id="7d7800da-70b1-43f1-acc8-2711a71cf2b6" referrerpolicy="no-referrer" />    <figcaption>
+<span>差序格局示意圖</span>
+    </figcaption>
+  </figure>
+  <p><strong><em><u>4</u></em></strong></p>
+  <p><strong><em><u>確定性有盡頭嗎？</u></em></strong></p>
+  <p>某種程度上講，對確定性的追求就是人類中心主義的表現之一。從原野走入都市，人們不再是遊牧民族那樣的靠天吃飯、心隨境遷，一度自信地認為憑藉科學和理性就可以有效地控制風險。這種對確定性的追求，恰恰來自人類的“自大”。</p>
+  <p>德國社會學家烏爾裏希·貝克在1986年出版的《風險社會》中，首次提出了“風險社會”的概念。他指出，對現代風險的研究是現代性反思的重要組成部分。自古以來，風險在人類社會中一直存在，但現代風險具有更高的不確定性和不可感知性。地震、颶風、森林火灾，以及無數人類誘發的生態災難，時刻提醒著人類，以人類為中心的都市是自私的，不可持續的。伴隨著現代化行程推進，風險社會已經成為當代人類難以規避的境遇，人類日益生活在“文明的火山口上”。人類發明算灋量化環境，建立預警機制規避風險，但接踵而來的現代性困境，一定程度上對科學主義亮出了宣戰書。</p>
+  <p>都市，不會永遠是人類的庇護所。社會也不會。</p>
+  <p>擁抱不確定性，與風險共存，或許已經成為現代人的“必修課”。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/1b7e6369-eead-4242-a7d1-3c182c36dd9d.png" data-asset-id="1b7e6369-eead-4242-a7d1-3c182c36dd9d" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>文| Christina &amp;穀艾</p>
+  <p>圖|來自網絡</p>
+  <p>微信編輯|蔡佳月</p>
+  <p>matters編輯| Marks</p>
+  <p>圍爐（ID:weilu_flame）</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/ac6886dd-714d-42e8-89bf-ba1967ceb878.png" data-asset-id="ac6886dd-714d-42e8-89bf-ba1967ceb878" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>文中圖片未經同意，請勿用作其他用途</p>
+  <p>歡迎您在文章下方評論，與圍爐團隊和其他讀者交流討論</p>
+  <p>欲瞭解圍爐、閱讀更多文章，請關注本公眾號並在公眾號頁面點擊相應選單欄目</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/3003d00a-7ded-4fd8-b43c-e3858815f2d9.png" data-asset-id="3003d00a-7ded-4fd8-b43c-e3858815f2d9" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p><br /></p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/1855e230-19ca-433b-8ad1-eb2eaa3c7bab.jpeg" data-asset-id="1855e230-19ca-433b-8ad1-eb2eaa3c7bab" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <figure class="image">
+<br />    <figcaption></figcaption>
+  </figure>
+  <p><br /></p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#围炉 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2024-10-03/%E5%AF%B9%E8%AF%9D%E5%A5%B3%E6%80%A7%E6%B0%91%E5%B7%A5-%E5%9C%A8%E5%9F%8E%E5%B8%82%E9%87%8C-%E5%9C%A8%E5%B7%A5%E4%BD%9C%E5%92%8C%E5%AE%B6%E5%BA%AD%E4%B9%8B%E9%97%B4-%E5%9B%B4%E7%82%89-CU/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2021-03-23/%E5%AF%B9%E8%AF%9D%E9%BB%84%E6%B3%93%E7%BF%94-%E8%87%B4%E5%8A%9B%E4%BA%8E%E5%9F%B9%E8%82%B2%E4%B8%96%E7%95%8C%E5%85%AC%E6%B0%91%E7%9A%84%E4%B8%AD%E5%8D%97%E5%B1%8B%E5%88%9B%E5%A7%8B%E4%BA%BA-%E8%AE%B2%E5%BA%A7%E6%91%98%E8%A6%81/">最早</a>--</span>
+    
+      <li>
+        <time>2021-09-07</time>
+        <a href="https://nodebe4.github.io/opinion/2021-09-07/%E5%B1%AC%E6%96%BC%E5%A4%8F%E5%AD%A3%E7%9A%84%E5%B0%88%E8%BC%AF%E7%89%B9%E8%AA%BF-%E5%9C%8D%E7%88%90-%E5%A4%8F%E6%97%A5%E8%89%BA%E6%96%87/">
+          屬於夏季的專輯特調|圍爐·夏日艺文
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-09-03</time>
+        <a href="https://nodebe4.github.io/opinion/2021-09-03/%E5%9C%8D%E7%88%90%E8%A9%95%E8%AB%96-%E6%B0%91%E6%97%8F%E7%8B%82%E6%AD%A1%E4%B8%8B%E7%9A%84%E5%A5%A7%E9%81%8B/">
+          圍爐評論｜民族狂歡下的奧運
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-08-27</time>
+        <a href="https://nodebe4.github.io/opinion/2021-08-27/%E5%8F%8D%E6%80%9D%E8%8D%92%E8%AA%95%E4%BA%BA%E7%9A%84%E8%99%95%E5%A2%83-%E5%9C%8D%E7%88%90%E5%85%B1%E8%AE%80%E6%9C%83-%E5%B1%80%E5%A4%96%E4%BA%BA-%E4%B8%8A/">
+          反思荒誕人的處境｜圍爐共讀會《局外人》上
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-08-24</time>
+        <a href="https://nodebe4.github.io/opinion/2021-08-24/%E6%88%91%E5%80%91%E7%9A%84%E5%9B%9B%E5%B9%B4-%E6%88%91%E5%80%91%E7%9A%84%E4%B8%AD%E6%96%87%E7%B3%BB-%E5%9C%8D%E7%88%90-FDU/">
+          我們的四年，我們的中文系|圍爐·FDU
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2021-08-31/%E5%A4%A7%E4%B8%8D%E5%88%97%E9%A2%A0-%E6%98%AF%E5%A6%82%E4%BD%95%E5%88%86%E8%A3%82%E7%9A%84-%E4%BB%A5%E5%8F%8A%E4%B8%80%E4%BA%9B%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98%E7%9A%84%E9%97%AE%E7%AD%94%E4%B8%8E%E6%80%9D%E8%80%83/">
+            前一篇：“大不列颠”是如何分裂的    ——以及一些相关问题的问答与思考
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2021-08-31/%E8%A6%81%E6%B1%82%E7%99%BE%E5%88%86%E4%B9%8B%E7%99%BE%E8%87%AA%E7%94%B1-%E9%A6%99%E6%B8%AF%E8%89%BA%E6%9C%AF%E5%AE%B6%E6%9D%A5%E5%8F%B0/">
+            後一篇：要求百分之百自由 香港艺术家来台
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2021-08-31/%E5%A4%A7%E4%B8%8D%E5%88%97%E9%A2%A0-%E6%98%AF%E5%A6%82%E4%BD%95%E5%88%86%E8%A3%82%E7%9A%84-%E4%BB%A5%E5%8F%8A%E4%B8%80%E4%BA%9B%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98%E7%9A%84%E9%97%AE%E7%AD%94%E4%B8%8E%E6%80%9D%E8%80%83/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2021-08-31/%E8%A6%81%E6%B1%82%E7%99%BE%E5%88%86%E4%B9%8B%E7%99%BE%E8%87%AA%E7%94%B1-%E9%A6%99%E6%B8%AF%E8%89%BA%E6%9C%AF%E5%AE%B6%E6%9D%A5%E5%8F%B0/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2021-09-03/%E5%9C%8D%E7%88%90%E8%A9%95%E8%AB%96-%E6%B0%91%E6%97%8F%E7%8B%82%E6%AD%A1%E4%B8%8B%E7%9A%84%E5%A5%A7%E9%81%8B/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2021-08-27/%E5%8F%8D%E6%80%9D%E8%8D%92%E8%AA%95%E4%BA%BA%E7%9A%84%E8%99%95%E5%A2%83-%E5%9C%8D%E7%88%90%E5%85%B1%E8%AE%80%E6%9C%83-%E5%B1%80%E5%A4%96%E4%BA%BA-%E4%B8%8A/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2021-08-31/%E5%A4%A7%E4%B8%8D%E5%88%97%E9%A2%A0-%E6%98%AF%E5%A6%82%E4%BD%95%E5%88%86%E8%A3%82%E7%9A%84-%E4%BB%A5%E5%8F%8A%E4%B8%80%E4%BA%9B%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98%E7%9A%84%E9%97%AE%E7%AD%94%E4%B8%8E%E6%80%9D%E8%80%83/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2021-08-31/%E8%A6%81%E6%B1%82%E7%99%BE%E5%88%86%E4%B9%8B%E7%99%BE%E8%87%AA%E7%94%B1-%E9%A6%99%E6%B8%AF%E8%89%BA%E6%9C%AF%E5%AE%B6%E6%9D%A5%E5%8F%B0/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<围炉>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2021-09-03/%E5%9C%8D%E7%88%90%E8%A9%95%E8%AB%96-%E6%B0%91%E6%97%8F%E7%8B%82%E6%AD%A1%E4%B8%8B%E7%9A%84%E5%A5%A7%E9%81%8B/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<围炉>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2021-08-27/%E5%8F%8D%E6%80%9D%E8%8D%92%E8%AA%95%E4%BA%BA%E7%9A%84%E8%99%95%E5%A2%83-%E5%9C%8D%E7%88%90%E5%85%B1%E8%AE%80%E6%9C%83-%E5%B1%80%E5%A4%96%E4%BA%BA-%E4%B8%8A/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

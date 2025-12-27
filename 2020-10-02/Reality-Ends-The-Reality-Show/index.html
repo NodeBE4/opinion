@@ -1,0 +1,856 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Reality Ends The Reality Show – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+Reality Ends The Reality Show
+——
+" />
+    <meta property="og:description" content="
+Reality Ends The Reality Show
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Reality Ends The Reality Show" />
+    <meta property="twitter:title" content="Reality Ends The Reality Show" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fandrewsullivan.substack.com%2Fp%2Freality-ends-the-reality-show" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://andrewsullivan.substack.com/p/reality-ends-the-reality-show" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://andrewsullivan.substack.com/p/reality-ends-the-reality-show&text=Reality Ends The Reality Show&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://andrewsullivan.substack.com/p/reality-ends-the-reality-show&title=Reality Ends The Reality Show" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://andrewsullivan.substack.com/p/reality-ends-the-reality-show&title=Reality Ends The Reality Show" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Reality Ends The Reality Show&body=
+Reality Ends The Reality Show
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://andrewsullivan.substack.com/p/reality-ends-the-reality-show" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://andrewsullivan.substack.com/p/reality-ends-the-reality-show&title=Reality Ends The Reality Show&caption=
+Reality Ends The Reality Show
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Reality Ends The Reality Show&url=https://andrewsullivan.substack.com/p/reality-ends-the-reality-show" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Reality Ends The Reality Show</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2020-10-02
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Andrew Sullivan</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#The Weekly Dish">
+          The Weekly Dish
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://andrewsullivan.substack.com/p/reality-ends-the-reality-show" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="The Weekly Dish的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#The Weekly Dish 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1601659046000-->
+<p><a href="https://andrewsullivan.substack.com/p/reality-ends-the-reality-show">Reality Ends The Reality Show</a>
+——</p>
+
+<div>
+<a class="image-link image2 image2-971-1456" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4d4a9f5e-f3fc-4dd8-b546-2c8b2951315a_5568x3712.jpeg"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4d4a9f5e-f3fc-4dd8-b546-2c8b2951315a_5568x3712.jpeg" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/4d4a9f5e-f3fc-4dd8-b546-2c8b2951315a_5568x3712.jpeg&quot;,&quot;height&quot;:971,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:3100949,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null}" alt="" />      <style>          a.image2.image-link.image2-971-1456 {            padding-bottom: 66.68956043956044%;            padding-bottom: min(66.68956043956044%, 971px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-971-1456 img {            max-width: 1456px;            max-height: 971px;          }        </style>
+</a>  <p>In the reality show that has been the Trump presidency, we probably should have expected something like this. As a plot twist, the show-runners would have kept this moment for the very end of the penultimate episode, just before the season finale. Anything could still happen, of course. Trump could be dead by election day. Or he could somehow stage a swift recovery in a mild case, and run a back-from-the-near-dead campaign that surges improbably to victory on a wave of sympathy. Between those two scenarios, your guess is as good as mine.  </p>
+  <p>It’s a terrible thing for an elderly person to get this disease, and Trump’s obesity puts him in an even more vulnerable category. No one deserves this, even those, like Trump, who openly defied prudent measures to reduce risk, and thereby helped infect and kill countless others. The president, like any human being, deserves sympathy and support.</p>
+  <p>But there is something salutary in the Trump era about reality reasserting itself in this last twist of the viral knife. The man has spent years at war with reality: living in delusions, perpetuating fantasies, imagining hoaxes, constructing conspiracies, accruing debt, rewriting history constantly as self-serving myth. At some point, reality was going to get personal in return. </p>
+  <p>And it has. Like all tyrants, Trump lives in an alternate universe where his will, tempered only by his whim, determines everything. And like all tyrants, Trump will eventually be defeated by the distance between his universe and the real one. The question has always been how long that would take, and how much damage would be done in the process. But the toll has been piling up of late. 205,000 dead, a stalled economy, a broken constitution, a bankrupt treasury, a ravaged environment, and the most toxic political culture in memory have not, exactly, made America great “again”. And, with his tax returns now public, the reality that Trump is a failed businessman and tax dodger is as inescapable as the truth that he is a serial sexual abuser.</p>
+  <p>Just as inescapable is the reality of the epidemic. The winter looms, as cases surge in Europe once again. The pandemic economy has been <a href="https://www.washingtonpost.com/graphics/2020/business/coronavirus-recession-equality/">absolutely brutal</a> for the working poor, compared with the middle and upper classes, intensifying dangerous, destabilizing levels of inequality. It has torn the social fabric apart, sequestering the elderly in <a href="https://www.miamiherald.com/news/coronavirus/article246114855.html">heartbreaking solitude</a>, compounding <a href="https://www.nytimes.com/2020/09/29/health/coronavirus-opioids-addiction.html">the opioid crisis</a>, deepening depression and anxiety, increasing <a href="https://www.foxnews.com/us/military-active-duty-suicides-covid-pandemic">suicides among soldiers</a>, keeping loved ones away even from a deathbed. It cannot be willed away. </p>
+  <p>Neither can the fast-deteriorating environment, which will condemn this country and the world to unknowable ordeals from wind and rain and fire and ice in the coming years and decades. Neither can the intensifying polarization and tribalism of our culture of <a href="https://andrewsullivan.substack.com/p/we-are-all-algorithms-now">online algorithms</a> — a world of techno-politics we are only beginning to understand how to control. Trump denied these realities, obscuring them with salesmanship and shock, or exploiting them for his own purposes. He preferred a reality show — which he has been a genius at concocting at the expense of everything else — and so, unforgivably, did many of us. </p>
+  <p>The one simple thing I learned from being diagnosed as positive with a lethal virus decades ago is that I am not in control, and that maturity subsists in acceptance of this. A life well lived is not in denial of reality, but in difficult, unsatisfying, daily, hourly engagement with it, alongside a spiritual attempt at occasional transcendence. Similarly, it seems to me, politics is best conducted as a tackling of the world as it is, free from delusion and ideology, wary of our own bias and wants, humble in our goals, prudent in our methods. It is not a show, let alone a psychotic melodrama about a deranged narcissist. </p>
+  <p>This latest news, hard to absorb, is therefore nonetheless a tonic. It points in a simple direction: toward a man whose encounters with reality have been many and brutal, and who has endured them with grace and grit and realism. Joe Biden — blindsided by the untimely, soul-testing deaths of his nearest and dearest through the decades — knows how unsparing the world as-it-is can be. He has taken this epidemic seriously from the start, taken the proper precautions, and urged a serious, sustained response. He is not in denial of the fragility of life, because he has been taught the hard way how not to be.</p>
+  <p>At some point, the reality show must end; and our engagement with reality needs to begin again. We can start November 3.</p>
+  <div>
+    <hr />
+  </div>
+  <p class="button-wrapper" data-attrs="{&quot;url&quot;:&quot;https://andrewsullivan.substack.com/subscribe&quot;,&quot;text&quot;:&quot;Get the Dish every Friday&quot;,&quot;class&quot;:null}"><a class="button primary" href="https://andrewsullivan.substack.com/subscribe"><span>Get the Dish every Friday</span></a></p>
+  <div>
+    <hr />
+  </div>
+<a class="image-link image2 image2-1092-1456" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F624dc16e-b711-48d9-b3ba-bab8e589d3e4_3648x2736.jpeg"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F624dc16e-b711-48d9-b3ba-bab8e589d3e4_3648x2736.jpeg" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/624dc16e-b711-48d9-b3ba-bab8e589d3e4_3648x2736.jpeg&quot;,&quot;height&quot;:1092,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:2879076,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null}" alt="" />      <style>          a.image2.image-link.image2-1092-1456 {            padding-bottom: 75%;            padding-bottom: min(75%, 1092px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-1092-1456 img {            max-width: 1456px;            max-height: 1092px;          }        </style>
+</a>  <p><em>San Francisco, California, 5.43 pm</em></p>
+  <div>
+    <hr />
+  </div>
+  <h3 id="quote-for-the-week">Quote For The Week</h3>
+  <p>“Who gives a fuck about Christmas stuff and decoration?” - <a href="https://twitter.com/IsaacDovere/status/1311838041531723781">First Lady Melania Trump</a>. Indeed.</p>
+  <div>
+    <hr />
+  </div>
+  <h3 id="trump-lost-but-did-biden-win">Trump Lost. But Did Biden Win?</h3>
+<a class="image-link image2 image2-971-1456" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe44b4305-09b4-483a-9b1a-4e76887342c0_8192x5464.jpeg"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe44b4305-09b4-483a-9b1a-4e76887342c0_8192x5464.jpeg" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e44b4305-09b4-483a-9b1a-4e76887342c0_8192x5464.jpeg&quot;,&quot;height&quot;:971,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:6600069,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null}" alt="" />      <style>          a.image2.image-link.image2-971-1456 {            padding-bottom: 66.68956043956044%;            padding-bottom: min(66.68956043956044%, 971px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-971-1456 img {            max-width: 1456px;            max-height: 971px;          }        </style>
+</a>  <p>The <a href="https://www.rev.com/blog/transcripts/donald-trump-joe-biden-1st-presidential-debate-transcript-2020">debate last Tuesday</a> now seems like ancient history — another story of Trump’s deranged narcissism wrecking yet another liberal democratic institution, the presidential debate.</p>
+  <p>But obscured by that truth was the fact of Joe Biden’s less-than-reassuring performance. Since few have pointed this out, allow me.</p>
+  <p>The age issue — however unfair — remains. Biden looked older than I’ve ever seen him, and with less of a grizzled-elder-vibe than a nursing-home-visit one. In the primary debates, he managed at times to look vigorous, even sharp, to the relief of many of us. Last Tuesday, he looked … well, the word that comes to mind is simply frail. His voice was relatively quiet, higher-pitched than usual and often hushed, his whispery white hair and pale color accentuating the sense of a beloved great-uncle who gets confused at times, but whose heart is nonetheless in the right place. When Biden looked directly at Trump, and we saw his profile, he looked even frailer: less like an authoritative statesman ready to take back the helm with vigor than a reluctant draftee, called out of retirement, like Bob Mueller, doing his duty, barely able to comprehend, let alone counter, the walking, talking shit-show to his right. </p>
+  <p>The hackneyed phrase for a key sign of a presidential winner — “fire in his belly” — did not and does not seem to apply to Biden. It’s more like a flickering blue pilot light you’re worried may go out at some point. “I was praying that Biden was going to come in and slam dunk, and I was really disappointed,” said one female 2016 Trump voter, in a focus group <a href="https://thebulwark.com/listen-to-what-trump-2016-swing-state-voters-had-to-say-about-the-debate/">organized by Sarah Longwell</a>. “I agree that we weren’t able to get a full idea of Biden. I was hoping I was going to come away with more,” said another. “I understand why you’d tell someone to ‘shut up’ but I wish he could’ve been a contrast to Trump a little more,” another complained. “I felt like Biden stuck to talking points. I was disappointed all around,” whined another. Some of this is unfair — try debating Trump — but some of it is also on point. Trump so dominated the time and format that Biden had no chance to connect and seal the deal with voters. That matters.</p>
+  <p>The best line of the night — “Will you just shut up, man?” — was wonderful in the moment, but also showed just how reactive Biden was throughout. He never seized the initiative, and was constantly on the back foot. He never demonstrated the kind of <em>authority</em> you want to see and feel in a president. Days after Trump had been humiliated by tax returns that showed he was both a massive business failure and a stupendous tax dodger, the issue came and went with Biden barely making a dent. Even on Covid19, as <a href="https://www.thedailybeast.com/biden-had-trump-on-the-ropes-at-the-presidential-debate-but-couldnt-finish-him?source=articles&amp;via=twitter_page">Michael Tomasky noted</a>, Biden failed to lay out clearly the chronology of Trump’s lies and incompetence. He even flubbed what was an obviously rehearsed (and good) line: “He said he didn’t tell us or give people a warning of it because he didn’t want to panic the American people. You don’t panic. He panicked.” He garbled the last two sentences. </p>
+  <p>On the crucial issue of healthcare, Biden also misfired. He backs and helped pass the largely popular Obamacare, and now offers a public option within it for anyone who wants in. Trump, on the other hand, wants to kill Obamacare, has wounded it, threatens to finish it off in the Supreme Court, and has no plans to replace it. We’re in a pandemic. More people are uninsured than four years ago. Anxiety is sky-high, alongside unemployment. This was the core issue that won the 2018 mid-terms for the Democrats. Easy, right? </p>
+  <p>And, yes, at the start of the evening, Biden made a <a href="https://www.rev.com/blog/transcripts/donald-trump-joe-biden-1st-presidential-debate-transcript-2020">decent start</a>: “The president … wants to get rid of the Affordable Care Act. He’s been running on that, he ran on that and he’s been governing on that. He’s in the Supreme Court right now trying to get rid of the Affordable Care Act, which will strip 20 million people from having health insurance now.” But when challenged on the new policy he’s proposing, a public option in Obamacare, this is how Biden described it: “It’s only for those people who are so poor they qualify for Medicaid they can get that free in most States, except Governors who want to deny people who are poor Medicaid. Anyone who qualifies for Medicare, excuse me, Medicaid would automatically be enrolled in the public option. The vast majority of the American people would still not be in that option.” Say what? </p>
+  <p>Stan Greenberg saw Trump <a href="https://nymag.com/intelligencer/2020/09/2020-presidential-debate-white-working-class-sours-on-trump.html?utm_medium=s1&amp;utm_source=tw&amp;utm_campaign=di">actually </a><em><a href="https://nymag.com/intelligencer/2020/09/why-biden-beat-trump-first-2020-presidential-debate.html">gain</a></em> with white working class women in his debate focus group — from 44 percent to 53 percent support — largely because of this issue: “they headed into the debate favoring Biden on the issue by an 11-point margin and came out supporting Trump by 6 points.” Losing white working class women on healthcare access is not good for a Democratic candidate. While nothing else hurt him as badly, Biden also added some clunkers. On core Constitutional and procedural questions — like adding members to the Court or ending the filibuster — Biden simply refused to say what he supports, saying “Whatever position I take on that, that’ll become the issue.” Well, yeah, it will. But that’s also how we decide elections. If you can’t tell us where you stand, how are we to make a decision? </p>
+  <p>He portrayed critical race theory as a completely harmless attempt not “to hurt other people’s feelings,” which is the kind of view you’d expect from someone who has no idea what is actually happening, and someone who, as president, will do nothing to stop it. He had no solid response to the obvious fact of his son Hunter’s sleaze at all, except to say it’s all been “discredited,” when a lot of it hasn’t been. He said that he was opposed to AOC’s “Green New Deal” and then said that “the ‘Green New Deal’ will pay for itself as we move forward.”</p>
+  <p>He said he supports both “equity” and “equality”, two directly contradictory goals, one supporting equality of outcome, the other equality of opportunity. He doubted the existence of antifa, suggesting he really has drink the left kool-aid. On police and criminal justice reform, he repeated that he was against any defunding of the police, and then we got this big bucket of blah: “I’m going to call together an entire group of people at the White House, everything from the civil rights groups, to the police officers, to the police chiefs, and we’re going to work this out.” Weak. </p>
+  <p>If Trump had let Biden speak more, Biden’s inadequacies might have been more visible. And if Trump hadn’t engaged in a menacing, fascistic hissy-fit, Biden’s failure to score many points might have become a much bigger story — which is, perhaps, a coda to this entire campaign. With any luck, Trump’s infection will preclude any more debates, keeping the race roughly where it is. But we should be wary, I think, of assuming that Biden won this debate. If he did, it was by default.</p>
+  <div>
+    <hr />
+  </div>
+<a class="image-link image2 image2-1092-1456" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F89258099-4d74-46aa-acd4-686f240ee553_2345x1758.jpeg"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F89258099-4d74-46aa-acd4-686f240ee553_2345x1758.jpeg" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/89258099-4d74-46aa-acd4-686f240ee553_2345x1758.jpeg&quot;,&quot;height&quot;:1092,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:383627,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null}" alt="" />      <style>          a.image2.image-link.image2-1092-1456 {            padding-bottom: 75%;            padding-bottom: min(75%, 1092px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-1092-1456 img {            max-width: 1456px;            max-height: 1092px;          }        </style>
+</a>  <p><em>Salento, Colombia, 7 am</em></p>
+  <div>
+    <hr />
+  </div>
+  <h3 id="dissents-of-the-week">Dissents Of The Week</h3>
+  <p>A lot of readers pushed back on me calling <a href="https://andrewsullivan.substack.com/p/yes-this-is-the-face-of-a-tyrant">Trump a tyrant</a>. Many took issue with my characterization of his “greatest policy failures: the appalling loss of life in the Covid epidemic and the collapse of law and order in the cities.” One reader:</p>
+  <blockquote>
+    <p>Laying the blame for the civil unrest this summer on Trump is not credible. The police in Minneapolis and other cities are under Democratic rule. The mostly false narratives about police violence have come from the left side of the political spectrum. Widespread arson and violence was perpetrated by actors aligned with the left.</p>
+  </blockquote>
+  <p>Kevin Williamson <a href="https://www.nationalreview.com/2020/09/the-arson-party/">ran with that theme</a> this week, calling the Democrats “the arson party.” And I don’t dispute that the core responsibility for law and order belongs to mayors of cities. But Trump is nonetheless president, the man tasked with keeping the country stable and peaceful. Instead, he stoked the instability, and intensified it with provocation. As to the 205,000 Covid deaths on Trump’s watch, a reader notes:</p>
+  <blockquote>
+    <p>On a per million population basis, <a href="https://epidemic-stats.com/">many countries</a>, including Belgium, Spain, and Brazil, have <em>higher</em> COVID-19 fatality rates, and the rate in the UK is comparable. Not to mention the US fatality rate would be substantially lower if Governor Cuomo’s New York were excluded from the statistics, because he <a href="https://www.businessinsider.com/andrew-cuomo-memory-hole-covid-nursing-home-coronavirus-new-york-2020-10">forced nursing homes to take infected people</a>. See Table 2 on <a href="https://www.cdc.gov/nchs/nvss/vsrr/covid19/index.htm">this CDC page</a>, noting the “Percent of expected deaths” for New York State and NYC — far higher than any other place in the country.</p>
+  </blockquote>
+  <p>I agree it’s becoming harder and harder to make simple judgments about which country did best on Covid19 and why. I suspect we’ll only really figure this out in retrospect, if then. But by Trump’s own predictions, he has failed massively; by any reasonable standard, the US has signally failed to get the virus under control, and Trump’s constant undermining of consistent public health messaging is a lesson in how not to govern. Another dissent:</p>
+  <blockquote>
+    <p>You state that Trump “installed a crony at the Department of Justice to pursue his political enemies and shield him from the law.” How was Bill Barr a crony, i.e. a long-time associate given a position even though unqualified? Barr had no prior association with Trump and was one of the most qualified nominees in our nation’s history. Trump was extremely lucky that Barr happened to have long-held views of official corruption (bad, even when committed by the Left) and executive authority (broad) that served Trump’s interests. That did not make Barr a crony.   </p>
+    <p>Also, your opinion of the Mueller investigation seems deliberately untainted by any of the revelations made since it ended, and by the fact that much of this information would have been known by Barr when the report was released.</p>
+  </blockquote>
+  <p>Another reader looks beyond Trump’s repellent rhetoric:</p>
+  <blockquote>
+    <p>While I agree with you that he is a despicable human being, I think you have failed to give him his due for some policy successes:</p>
+    <p>Economy: Deregulation has benefited the economy greatly and tax cuts were a help. The greatest beneficiaries of the robust economy have been the minorities and the young. I know, I know, the rich got richer, but who has the life transforming experience: the guy who goes from a net worth of $100M to $200M or the guy who goes from jobless to employed?</p>
+    <p>Supreme Court: The only way to play a game is with hard-and-fast rules, and the only people who believe in firm rules are the Originalists/Textualists. The Constitution is a living and breathing document, but it changes by amendment, not by whim. Gorsuch and Kavanaugh will do their best to honor the Constitution, so that counts as a home run to me. For those who believe in individual liberty, the past session was very successful: upheld both gays rights and religious liberty. These guys are loyal to the Constitution, not to Trump.</p>
+  </blockquote>
+  <p>One more reader is surprised:</p>
+  <blockquote>
+    <p>How did you not take the Sully bait last week? Trump issued an <a href="https://www.whitehouse.gov/presidential-actions/executive-order-combating-race-sex-stereotyping/">executive order</a> trying to ban diversity/equity/anti-racism trainings. And his call for “patriotic education,” too, echoes some of the things you’ve said. What sense do you make of this intersection of two of your hobby horses? </p>
+  </blockquote>
+  <p>I don’t like politicians interfering in educational curricula, to police speech, any more than I like academic fanatics corralling students into half-baked ideologies. In so far as Trump stopped this pernicious doctrine from being taught in the federal government, that’s well within his bailiwick and of course I agree with him. But in general, beyond the federal government, I want Trump as far away from this topic as possible. He taints everything. He has done more to empower this racist poison than anyone on the left. Getting rid of him is, to my mind, essential to getting rid of it.</p>
+  <div>
+    <hr />
+  </div>
+  <h3 id="faces-of-the-week">Faces Of The Week</h3>
+<a class="image-link image2 image2-969-1456" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F754654ff-eea3-4d36-9314-85f00175f860_4721x3141.jpeg"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F754654ff-eea3-4d36-9314-85f00175f860_4721x3141.jpeg" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/754654ff-eea3-4d36-9314-85f00175f860_4721x3141.jpeg&quot;,&quot;height&quot;:969,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:6075023,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null}" alt="" />      <style>          a.image2.image-link.image2-969-1456 {            padding-bottom: 66.5521978021978%;            padding-bottom: min(66.5521978021978%, 969px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-969-1456 img {            max-width: 1456px;            max-height: 969px;          }        </style>
+</a>  <p><em>The south stand of Empower Field at Mile High stadium is filled with more than 1,800 South Park character cutouts for the Denver Broncos game against the Tampa Bay Buccaneers on Sunday, September 27, 2020. Photo by Hyoung Chang/MediaNews Group/The Denver Post via Getty Images. It’s unclear whether the pangolin and bat were present.</em></p>
+  <div>
+    <hr />
+  </div>
+  <p class="button-wrapper" data-attrs="{&quot;url&quot;:&quot;https://andrewsullivan.substack.com/gift&quot;,&quot;text&quot;:&quot;Give the gift of Dish&quot;,&quot;class&quot;:null}"><a class="button primary" href="https://andrewsullivan.substack.com/gift"><span>Give the gift of Dish</span></a></p>
+  <div>
+    <hr />
+  </div>
+  <h3 id="from-the-annals-of-dishness">From The Annals Of Dishness</h3>
+<a class="image-link image2 image2-501-1185" target="_blank" href="http://dish.andrewsullivan.com/2013/11/19/reliving-iraq/"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc04808c1-fb09-40e4-ba0b-105ecd8536b6_1185x501.png" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/c04808c1-fb09-40e4-ba0b-105ecd8536b6_1185x501.png&quot;,&quot;height&quot;:501,&quot;width&quot;:1185,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:58590,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:&quot;http://dish.andrewsullivan.com/2013/11/19/reliving-iraq/&quot;}" alt="" />      <style>          a.image2.image-link.image2-501-1185 {            padding-bottom: 42.278481012658226%;            padding-bottom: min(42.278481012658226%, 501px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-501-1185 img {            max-width: 1185px;            max-height: 501px;          }        </style>
+</a>  <p>A reader writes:</p>
+  <blockquote>
+    <p>Your <a href="https://andrewsullivan.substack.com/p/we-are-all-algorithms-now">reference</a> to the pseudonymous Scott Alexander and his admission of error reminds me of the single greatest reason why the only blog I ever read with any regularity was The Daily Dish. I didn’t read to be led around by the nose, nor because I thought you were right on the first try on anything — <a href="http://dish.andrewsullivan.com/2013/11/19/reliving-iraq/">especially the invasion of Iraq</a> — but because it turned out that admitting error and then exploring the why of the intellectual error, the explication, is what made you trustworthy.</p>
+  </blockquote>
+  <p>One of the best conversations about this quality of the blogosphere — the grace of being wrong — came from Ta-Nehisi Coates and Ezra Klein on the latter’s podcast in late 2016. Money quote from Ezra:</p>
+  <blockquote>
+    <p>It’s harder and harder to learn; harder and harder to be wrong. And I worry that the end result of that is getting really bad at the job. … I miss the idea in blogging that you could be wrong, that you could be uncertain.</p>
+  </blockquote>
+  <p>Here’s how Coates put it after the stratospheric success of <em><a href="https://geni.us/SWSIj48">Between the World and Me</a></em>:</p>
+  <blockquote>
+    <p>Blogging, as a form, is open to this real-time, ongoing learning process. That went away. But in addition to that, as your profile rises, people say you must have this high profile because you <em>know,</em> because you’re an authority.</p>
+    <p>I didn’t write too much during this election cycle. One of the reasons I didn’t is because I didn’t want to play this oracular role. There was no space to figure it out, to think about it, or go through the arguments if you’re writing … There’s no room to tease out, say, in my case specifically, what it means that the representative of the left tradition in the Democratic Party rejects reparations. No room to tease out what that means. But then what am I doing? I’m just making pronouncements. I’ve become, in the most vulgar sense, a pundit. I’m not open to having my mind changed, I’m not trying to figure it out; I’m not out here curious and exploring. I am standing on a rock, sitting on a throne, making pronouncements about what the world is. And that is so boring. It bores me to tears.</p>
+  </blockquote>
+  <p>Here’s the <a href="https://www.vox.com/conversations/2016/12/19/13952578/ta-nehisi-coates-ezra-klein">whole episode</a>. Podcasting, to a large extent, has filled the void of the blogosphere — a place where you could think out loud and try to figure shit out (and apologize when you’re wrong, as <a href="https://www.cnn.com/2020/09/18/media/joe-rogan-apologizes/index.html">Rogan recently did</a>). The Dish podcast is launching soon.</p>
+  <div>
+    <hr />
+  </div>
+  <h3 id="mental-health-break">Mental Health Break</h3>
+  <p>Fade into the watercolors:</p>
+  <div id="vimeo-209607366" class="vimeo-wrap" data-attrs="{&quot;videoId&quot;:&quot;209607366&quot;}">
+    <iframe src="https://player.vimeo.com/video/209607366?autoplay=0" frameborder="0" gesture="media" allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true"></iframe>
+  </div>
+  <div>
+    <hr />
+  </div>
+  <h3 id="in-the-stacks">In The ‘Stacks</h3>
+  <p>Our latest recommendations from other substackers:</p>
+  <ul>
+    <li>
+      <p>Jesse Singal <a href="https://jessesingal.substack.com/p/how-much-money-is-florida-going-to?token=eyJ1c2VyX2lkIjoyMjU1NzM1LCJwb3N0X2lkIjo0ODg0MjcyLCJfIjoiVk9nMG4iLCJpYXQiOjE2MDEyNDIyMTgsImV4cCI6MTYwMTI0NTgxOCwiaXNzIjoicHViLTQ4MzMiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.BJCwFzw3V1e7mur7-12lxVsPHWQAMVfErgHnUeu2eYY">updates us</a> on the utterly shameless effort by the Florida GOP to keep former felons from voting.</p>
+    </li>
+    <li>
+      <p>Antonio Garcia-Martinez <a href="https://pullrequest.substack.com/p/the-social-dilemma-and-the-last-fucking">dissents from me</a> on <em>The Social Dilemma</em>: “What few serious reflections on tech contained in the film—Jonathan Haidt makes a brief cameo and presents some interesting data on teen mental health and smartphone use—are overshadowed by all the docu-drama gimcrackery and Tristan Harris worship.” More on Haidt’s warnings <a href="https://www.theguardian.com/commentisfree/2019/jan/10/by-mollycoddling-our-children-were-fuelling-mental-illness-in-teenagers">here</a>. (My take on the docu-drama is <a href="https://andrewsullivan.substack.com/p/we-are-all-algorithms-now">here</a>.)</p>
+    </li>
+    <li>
+      <p>Tomiwa Owolade, a British black man, <a href="https://www.persuasion.community/p/please-stop-imposing-american-views?token=eyJ1c2VyX2lkIjoxMzg1NzY5NywicG9zdF9pZCI6NTM5OTcyOSwiXyI6IldodEI1IiwiaWF0IjoxNjAxNTkyMjczLCJleHAiOjE2MDE1OTU4NzMsImlzcyI6InB1Yi02MTU3OSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.OR2SkPm0c9jWnHvzXGwgDmkrBc_Q4PRtyNv3gmG2444">wishes</a> his fellow citizens would stop looking at race through an American lens, because it “cloaks the reality of black British lives behind an abstraction that flattens our humanity.”</p>
+    </li>
+    <li>
+      <p>The <a href="https://www.narrativesproject.com/about?utm_source=menu-dropdown">Narratives Project</a> by Shaun Cammack maps the diverging stories told by partisans and tribalists when a news event surfaces. He recently covered the <a href="https://www.narrativesproject.com/p/the-death-of-jake-gardner">death of Jake Gardner</a>, an early victim of this summer’s unrest you might have missed.</p>
+    </li>
+    <li>
+      <p>If you’re looking for a good summary of the day’s news, check out Prof. Heather Cox Richardson’s mega-popular <a href="https://heathercoxrichardson.substack.com/">Letters from an American</a>, replete with history, or the more wide-ranging <a href="https://newsitems.substack.com/">News Items</a>, by my old friend and Dishhead, John Ellis.</p>
+    </li>
+  </ul>
+  <div>
+    <hr />
+  </div>
+  <h3 id="the-view-from-your-window-contest">The View From Your Window Contest</h3>
+<a class="image-link image2 image2-820-1456" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff9547e17-786b-4fdf-babe-0e4444071005_2382x1342.png"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff9547e17-786b-4fdf-babe-0e4444071005_2382x1342.png" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f9547e17-786b-4fdf-babe-0e4444071005_2382x1342.png&quot;,&quot;height&quot;:820,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:5148031,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null}" alt="" />      <style>          a.image2.image-link.image2-820-1456 {            padding-bottom: 56.31868131868132%;            padding-bottom: min(56.31868131868132%, 820px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-820-1456 img {            max-width: 1456px;            max-height: 820px;          }        </style>
+</a>  <p>So, where do you think it’s located? Email your entry to <strong>contest@andrewsullivan.com</strong>. Please put the location — city and/or state first, then country — in the subject heading, along with any details about the location within the body of the email. The winner gets the choice of a <a href="https://www.blurb.com/b/955762-the-view-from-your-window">VFYW book</a> or two <a href="https://andrewsullivan.substack.com/subscribe?&amp;gift=true">TWD subscriptions</a>. Happy sleuthing! (The results for last week’s contest are coming in an email to subscribers shortly, and you can find previous results <a href="https://andrewsullivan.substack.com/">here</a>.)</p>
+  <p>See you next Friday.</p>
+  <p><em>(Photo of Trump by Jim Watson/AFP via Getty Images. Photo of Biden by Win McNamee/Getty Images)</em></p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#The Weekly Dish 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2021-02-05/VFYW-Contest-Timeless-In-Tuscany/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2020-07-04/Stories-Of-Wokeness/">最早</a>--</span>
+    
+      <li>
+        <time>2020-10-09</time>
+        <a href="https://nodebe4.github.io/opinion/2020-10-09/VFYW-Contest-A-Tale-Of-Two-Towers/">
+          VFYW Contest: A Tale Of Two Towers
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-10-02</time>
+        <a href="https://nodebe4.github.io/opinion/2020-10-02/VFYW-Contest-Time-Traveling-With-Hot-Air-Balloons/">
+          VFYW Contest: Time Traveling With Hot Air Balloons
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-09-25</time>
+        <a href="https://nodebe4.github.io/opinion/2020-09-25/VFYW-Contest-National-Happiness-Needed/">
+          VFYW Contest: National Happiness Needed
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-09-25</time>
+        <a href="https://nodebe4.github.io/opinion/2020-09-25/Yes,-This-Is-The-Face-Of-A-Tyrant/">
+          Yes, This Is The Face Of A Tyrant
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2020-10-02/515-CDS%E6%A1%A3%E6%A1%88-2020%E5%B9%B49%E6%9C%88%E4%B8%AD%E5%9B%BD%E8%A8%80%E8%AE%BA%E5%AE%A1%E6%9F%A5%E7%BA%AA%E8%A6%81-%E5%8F%8D%E6%8A%97%E7%9A%84%E6%97%A5%E5%B8%B8%E5%BD%A2%E5%BC%8F/">
+            前一篇：515 CDS档案|2020年9月中国言论审查纪要：反抗的日常形式
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2020-10-02/VFYW-Contest-Time-Traveling-With-Hot-Air-Balloons/">
+            後一篇：VFYW Contest: Time Traveling With Hot Air Balloons
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2020-10-02/515-CDS%E6%A1%A3%E6%A1%88-2020%E5%B9%B49%E6%9C%88%E4%B8%AD%E5%9B%BD%E8%A8%80%E8%AE%BA%E5%AE%A1%E6%9F%A5%E7%BA%AA%E8%A6%81-%E5%8F%8D%E6%8A%97%E7%9A%84%E6%97%A5%E5%B8%B8%E5%BD%A2%E5%BC%8F/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2020-10-02/VFYW-Contest-Time-Traveling-With-Hot-Air-Balloons/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2020-10-02/VFYW-Contest-Time-Traveling-With-Hot-Air-Balloons/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2020-09-25/VFYW-Contest-National-Happiness-Needed/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2020-10-02/515-CDS%E6%A1%A3%E6%A1%88-2020%E5%B9%B49%E6%9C%88%E4%B8%AD%E5%9B%BD%E8%A8%80%E8%AE%BA%E5%AE%A1%E6%9F%A5%E7%BA%AA%E8%A6%81-%E5%8F%8D%E6%8A%97%E7%9A%84%E6%97%A5%E5%B8%B8%E5%BD%A2%E5%BC%8F/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2020-10-02/VFYW-Contest-Time-Traveling-With-Hot-Air-Balloons/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<The Weekly Dish>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2020-10-02/VFYW-Contest-Time-Traveling-With-Hot-Air-Balloons/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<The Weekly Dish>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2020-09-25/VFYW-Contest-National-Happiness-Needed/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

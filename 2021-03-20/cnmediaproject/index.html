@@ -1,0 +1,3095 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Twitter @China Media Project: 2021-03-15~2021-03-21 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="The CMP is an independent research project studying the Chinese media landscape within the PRC and globally, as well as the CCP’s media and political discourse.
+" />
+    <meta property="og:description" content="The CMP is an independent research project studying the Chinese media landscape within the PRC and globally, as well as the CCP’s media and political discourse.
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Twitter @China Media Project: 2021-03-15~2021-03-21" />
+    <meta property="twitter:title" content="Twitter @China Media Project: 2021-03-15~2021-03-21" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Ftwitter.com%2Fcnmediaproject%2Fstatus%2F1371379152197140480" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://twitter.com/cnmediaproject/status/1371379152197140480" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://twitter.com/cnmediaproject/status/1371379152197140480&text=Twitter @China Media Project: 2021-03-15~2021-03-21&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://twitter.com/cnmediaproject/status/1371379152197140480&title=Twitter @China Media Project: 2021-03-15~2021-03-21" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://twitter.com/cnmediaproject/status/1371379152197140480&title=Twitter @China Media Project: 2021-03-15~2021-03-21" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Twitter @China Media Project: 2021-03-15~2021-03-21&body=The CMP is an independent research project studying the Chinese media landscape within the PRC and globally, as well as the CCP’s media and political discourse.
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://twitter.com/cnmediaproject/status/1371379152197140480" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://twitter.com/cnmediaproject/status/1371379152197140480&title=Twitter @China Media Project: 2021-03-15~2021-03-21&caption=The CMP is an independent research project studying the Chinese media landscape within the PRC and globally, as well as the CCP’s media and political discourse.
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Twitter @China Media Project: 2021-03-15~2021-03-21&url=https://twitter.com/cnmediaproject/status/1371379152197140480" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Twitter @China Media Project: 2021-03-15~2021-03-21</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2021-03-20
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: cnmediaproject</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Twitter">
+          Twitter
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://twitter.com/cnmediaproject/status/1371379152197140480" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Twitter的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Twitter 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <p>The CMP is an independent research project studying the Chinese media landscape within the PRC and globally, as well as the CCP’s media and political discourse.</p>
+
+<ul id="markdown-toc">
+  <li><a href="#1-2021-03-15-1634030800-推文" id="markdown-toc-1-2021-03-15-1634030800-推文">1: 2021-03-15 16:34:03+08:00 推文</a></li>
+  <li><a href="#2-2021-03-15-1638150800-推文" id="markdown-toc-2-2021-03-15-1638150800-推文">2: 2021-03-15 16:38:15+08:00 推文</a></li>
+  <li><a href="#3-2021-03-15-1727570800-推文" id="markdown-toc-3-2021-03-15-1727570800-推文">3: 2021-03-15 17:27:57+08:00 推文</a></li>
+  <li><a href="#4-2021-03-15-2335540800-推文" id="markdown-toc-4-2021-03-15-2335540800-推文">4: 2021-03-15 23:35:54+08:00 推文</a></li>
+  <li><a href="#5-2021-03-16-0520210800-推文" id="markdown-toc-5-2021-03-16-0520210800-推文">5: 2021-03-16 05:20:21+08:00 推文</a></li>
+  <li><a href="#6-2021-03-16-2056540800-推文" id="markdown-toc-6-2021-03-16-2056540800-推文">6: 2021-03-16 20:56:54+08:00 推文</a></li>
+  <li><a href="#7-2021-03-17-0734150800-推文" id="markdown-toc-7-2021-03-17-0734150800-推文">7: 2021-03-17 07:34:15+08:00 推文</a></li>
+  <li><a href="#8-2021-03-17-1539510800-推文" id="markdown-toc-8-2021-03-17-1539510800-推文">8: 2021-03-17 15:39:51+08:00 推文</a></li>
+  <li><a href="#9-2021-03-17-1633120800-推文" id="markdown-toc-9-2021-03-17-1633120800-推文">9: 2021-03-17 16:33:12+08:00 推文</a></li>
+  <li><a href="#10-2021-03-17-2131140800-推文" id="markdown-toc-10-2021-03-17-2131140800-推文">10: 2021-03-17 21:31:14+08:00 推文</a></li>
+  <li><a href="#11-2021-03-17-2137460800-推文" id="markdown-toc-11-2021-03-17-2137460800-推文">11: 2021-03-17 21:37:46+08:00 推文</a></li>
+  <li><a href="#12-2021-03-18-0031400800-推文" id="markdown-toc-12-2021-03-18-0031400800-推文">12: 2021-03-18 00:31:40+08:00 推文</a></li>
+  <li><a href="#13-2021-03-18-0346120800-推文" id="markdown-toc-13-2021-03-18-0346120800-推文">13: 2021-03-18 03:46:12+08:00 推文</a></li>
+  <li><a href="#14-2021-03-18-1104540800-推文" id="markdown-toc-14-2021-03-18-1104540800-推文">14: 2021-03-18 11:04:54+08:00 推文</a></li>
+  <li><a href="#15-2021-03-18-1441560800-推文" id="markdown-toc-15-2021-03-18-1441560800-推文">15: 2021-03-18 14:41:56+08:00 推文</a></li>
+  <li><a href="#16-2021-03-19-1841580800-推文" id="markdown-toc-16-2021-03-19-1841580800-推文">16: 2021-03-19 18:41:58+08:00 推文</a></li>
+  <li><a href="#17-2021-03-19-2014140800-推文" id="markdown-toc-17-2021-03-19-2014140800-推文">17: 2021-03-19 20:14:14+08:00 推文</a></li>
+  <li><a href="#18-2021-03-19-2032320800-推文" id="markdown-toc-18-2021-03-19-2032320800-推文">18: 2021-03-19 20:32:32+08:00 推文</a></li>
+  <li><a href="#19-2021-03-19-2237320800-推文" id="markdown-toc-19-2021-03-19-2237320800-推文">19: 2021-03-19 22:37:32+08:00 推文</a></li>
+  <li><a href="#20-2021-03-20-0028260800-推文" id="markdown-toc-20-2021-03-20-0028260800-推文">20: 2021-03-20 00:28:26+08:00 推文</a></li>
+  <li><a href="#21-2021-03-20-0046580800-推文" id="markdown-toc-21-2021-03-20-0046580800-推文">21: 2021-03-20 00:46:58+08:00 推文</a></li>
+  <li><a href="#22-2021-03-20-0125320800-推文" id="markdown-toc-22-2021-03-20-0125320800-推文">22: 2021-03-20 01:25:32+08:00 推文</a></li>
+  <li><a href="#23-2021-03-20-1706300800-推文" id="markdown-toc-23-2021-03-20-1706300800-推文">23: 2021-03-20 17:06:30+08:00 推文</a></li>
+  <li><a href="#24-2021-03-20-1826310800-推文" id="markdown-toc-24-2021-03-20-1826310800-推文">24: 2021-03-20 18:26:31+08:00 推文</a></li>
+</ul>
+
+<h3 id="1-2021-03-15-1634030800-推文">1: <a href="https://twitter.com/cnmediaproject/status/1371379152197140480">2021-03-15 16:34:03+08:00 推文</a></h3>
+
+<p>Re @CarlMinzner @dbandurski More soon from CMP on this. Yes, there is a marked increase in Xi Jinping power signaling in the report this year. Just mentions of “Xi Jinping” are up almost 90% in a report only about 20% longer.</p>
+
+<h3 id="2-2021-03-15-1638150800-推文">2: <a href="https://twitter.com/cnmediaproject/status/1371380208771665920">2021-03-15 16:38:15+08:00 推文</a></h3>
+
+<p>Re @CarlMinzner @dbandurski The appearance of “Xi Thought” permutations like “Xi Jinping Thought on Rule of Law” are notable – but  interesting to see “Xi Jinping Thought on Diplomacy” actually disappear between 2020 and 2021 reports.</p>
+
+<h3 id="3-2021-03-15-1727570800-推文">3: <a href="https://twitter.com/cnmediaproject/status/1371392718077886465">2021-03-15 17:27:57+08:00 推文</a></h3>
+
+<p>Re @merics_eu @MalinOud @RWallenbergInst @KDrinhausen The China Media Project is delighted to be involved in this great endeavor. <a href="http://decodingchina.eu/" target="_blank" rel="noopener noreferrer">http://decodingchina.eu</a></p>
+
+<h3 id="4-2021-03-15-2335540800-推文">4: <a href="https://twitter.com/cnmediaproject/status/1371485315534295042">2021-03-15 23:35:54+08:00 推文</a></h3>
+
+<p>What does Li Zhanshu’s work report to the NPC Standing Committee tell us? David Bandurski breaks (some of) it down – so you don’t have to suffer through it. <a href="https://chinamediaproject.org/2021/03/15/what-does-li-zhanshus-report-tell-us/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/03/15/what-does-li-zhanshus-report-tell-us/</a><br /><img style="" src="https://pbs.twimg.com/media/Ewh-LmmXIAMiJ4u?format=jpg&amp;name=orig" referrerpolicy="no-referrer" /></p>
+
+<h3 id="5-2021-03-16-0520210800-推文">5: <a href="https://twitter.com/gwbstr/status/1371571997629501445">2021-03-16 05:20:21+08:00 推文</a></h3>
+
+<p>RT Graham Webster<br />Qiushi publishes 2018 Xi Jinping speech: “Strive to become the world’s main scientific center and innovation heights” 努力成为世界主要科学中心和创新高地 <br /><br />#DigiChina translation to follow… <a href="http://www.qstheory.cn/dukan/qs/2021-03/15/c_1127209130.htm" target="_blank" rel="noopener noreferrer">http://www.qstheory.cn/dukan/qs/2021-03/15/c_1127209130.htm</a></p>
+
+<h3 id="6-2021-03-16-2056540800-推文">6: <a href="https://twitter.com/_CJFraser_/status/1371807689538301952">2021-03-16 20:56:54+08:00 推文</a></h3>
+
+<p>RT Chris Fraser<br />“Hong Kong risks losing its standing as a vibrant place for world-class research, teaching, and the sharing of ideas, where students and scholars can innovate for everyone’s benefit.” I would say it is already too late. <a href="https://www.scholarsatrisk.org/2021/03/reverse-the-rapid-deterioration-of-academic-freedom-in-hong-kong/" target="_blank" rel="noopener noreferrer">https://www.scholarsatrisk.org/2021/03/reverse-the-rapid-deterioration-of-academic-freedom-in-hong-kong/</a></p>
+
+<h3 id="7-2021-03-17-0734150800-推文">7: <a href="https://twitter.com/SPCmonitor/status/1371968081556238342">2021-03-17 07:34:15+08:00 推文</a></h3>
+
+<p>RT Susan Finder<br />Joint MOE/MOJ document approving 15 law schools to run these programs, with headcount limitations<br /><img style="" src="https://pbs.twimg.com/media/Ewo1XVvVIAAKhGZ?format=png&amp;name=orig" referrerpolicy="no-referrer" /><br /><img style="" src="https://pbs.twimg.com/media/Ewo1riRVEAkwFzK?format=png&amp;name=orig" referrerpolicy="no-referrer" /><br /><br />Susan Finder: Chinese law schools rush to set up masters degrees in being a lawyer specializing in foreign-related matters, this is ECUPL’s, SHUPL has already set up its 华东政法大学法律硕士专业学位（涉外律师<br /> <a href="https://mp.weixin.qq.com/s/yCJnDZvGpw1g8hAdycEvvQ" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/yCJnDZvGpw1g8hAdycEvvQ</a></p>
+
+<h3 id="8-2021-03-17-1539510800-推文">8: <a href="https://twitter.com/mtdtl/status/1372090287955316736">2021-03-17 15:39:51+08:00 推文</a></h3>
+
+<p>RT Mathieu Duchâtel<br />EU’s COVID travel pass draft “stresses EU countries can choose to accept Russian and Chinese vaccines at their own discretion”. Are we not going to address China’s decision to relax entry restrictions for foreigners inoculated with Chinese vaccine only? <a href="https://www.politico.eu/article/digital-green-certificate-proposal-leaves-eu-countries-in-the-driving-seat-coronavirus-passport/" target="_blank" rel="noopener noreferrer">https://www.politico.eu/article/digital-green-certificate-proposal-leaves-eu-countries-in-the-driving-seat-coronavirus-passport/</a></p>
+
+<h3 id="9-2021-03-17-1633120800-推文">9: <a href="https://twitter.com/Bkerrychina/status/1372103711972069376">2021-03-17 16:33:12+08:00 推文</a></h3>
+
+<p>RT Kerry Brown<br />The brutal murder of Asian American women in the US last night is a shocking manifestation of the mindless racial hatred which has been intensifying lately. Everyone working in the area of Europe/US/Asia relations has to make a stand here. This must stop ✋.</p>
+
+<h3 id="10-2021-03-17-2131140800-推文">10: <a href="https://twitter.com/ZhaoyinFeng/status/1372178717032734722">2021-03-17 21:31:14+08:00 推文</a></h3>
+
+<p>RT Zhaoyin Feng 馮兆音<br />Shaken.<br /><br />Xinyan Yu: What a horrific story. I’m heartbroken, speechless and angry. Hate crimes against Asians are not just people getting cursed at, pushed or spat on. It’s about time we take it seriously.<br /> <a href="https://apnews.com/article/georgia-massage-parlor-shooting-8-dead-9e39706c523c733a6d83d9baf4866154" target="_blank" rel="noopener noreferrer">https://apnews.com/article/georgia-massage-parlor-shooting-8-dead-9e39706c523c733a6d83d9baf4866154</a></p>
+
+<h3 id="11-2021-03-17-2137460800-推文">11: <a href="https://twitter.com/cnmediaproject/status/1372180362303045636">2021-03-17 21:37:46+08:00 推文</a></h3>
+
+<p>In the People’s Daily today, a very revealing feature on the paper’s nearly 4,500 “media drops” in foreign media just during the recent NPC. This campaign would have cost a fortune. See for yourself: <a href="https://chinamediaproject.org/2021/03/17/dropping-propaganda/?preview=true&amp;_thumbnail_id=46953" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/03/17/dropping-propaganda/?preview=true&amp;_thumbnail_id=46953</a><br /><img style="" src="https://pbs.twimg.com/media/Ewr2uHaWgAIZE9g?format=jpg&amp;name=orig" referrerpolicy="no-referrer" /></p>
+
+<h3 id="12-2021-03-18-0031400800-推文">12: <a href="https://twitter.com/cnmediaproject/status/1372224123074658304">2021-03-18 00:31:40+08:00 推文</a></h3>
+
+<p>The CCP’s flagship newspaper boasts about 4,500 “media drops” in overseas media during the recent National People’s Congress, and offers a tip-of-the-iceberg glimpse into external propaganda efforts. <a href="https://chinamediaproject.org/2021/03/17/dropping-propaganda/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/03/17/dropping-propaganda/</a><br /><img style="" src="https://pbs.twimg.com/media/Ewseg6kWEAEgaeU?format=jpg&amp;name=orig" referrerpolicy="no-referrer" /></p>
+
+<h3 id="13-2021-03-18-0346120800-推文">13: <a href="https://twitter.com/xinwenxiaojie/status/1372273081096540172">2021-03-18 03:46:12+08:00 推文</a></h3>
+
+<p>RT Yuen Chan<br />Journalists and journalism students, please read:<br /><br />Michelle Ye Hee Lee: We’re troubleshooting @AAJA website, which is crashing from the traffic after we released guidance on covering the Atlanta shooting. It’ll be back up shortly, but please share these screenshots in the meantime.<br /><br /><img style="" src="https://pbs.twimg.com/media/Ews8L8SWQAY5cPH?format=jpg&amp;name=orig" referrerpolicy="no-referrer" /><br /><img style="" src="https://pbs.twimg.com/media/Ews8L8QWgAURv-y?format=jpg&amp;name=orig" referrerpolicy="no-referrer" /></p>
+
+<h3 id="14-2021-03-18-1104540800-推文">14: <a href="https://twitter.com/myhlee/status/1372383483146997762">2021-03-18 11:04:54+08:00 推文</a></h3>
+
+<p>RT Michelle Ye Hee Lee<br />So, today was the first day that @AAJA’s website crashed in 9 years (when we issued media guidance on the ESPN/Jeremy Lin headline). Really grateful for the journalists determined to get news coverage right, and for those who turned to AAJA for our expertise.</p>
+
+<h3 id="15-2021-03-18-1441560800-推文">15: <a href="https://twitter.com/Junmai1103/status/1372438099750309889">2021-03-18 14:41:56+08:00 推文</a></h3>
+
+<p>RT Jun Mai<br />Xi once worried about the internet but now sees it as a tool to empower China <a href="https://www.scmp.com/tech/policy/article/3124107/rising-confidence-xi-jinping-wields-internet-tool-empowerment-and?utm_source=Twitter&amp;utm_medium=share_widget&amp;utm_campaign=3124107" target="_blank" rel="noopener noreferrer">https://www.scmp.com/tech/policy/article/3124107/rising-confidence-xi-jinping-wields-internet-tool-empowerment-and?utm_source=Twitter&amp;utm_medium=share_widget&amp;utm_campaign=3124107</a></p>
+
+<h3 id="16-2021-03-19-1841580800-推文">16: <a href="https://twitter.com/PeterMartin_PCM/status/1372860893936111619">2021-03-19 18:41:58+08:00 推文</a></h3>
+
+<p>RT Peter Martin<br />You’re likely to read a lot of hot takes on the US-China talks in Alaska that explain China’s behavior in terms of Xi’s “overreach”<br /><br />That’s a fine explanation, but only takes us part of the way. The truth is: China’s had wolf warriors as long as the PRC has had diplomats. THREAD</p>
+
+<h3 id="17-2021-03-19-2014140800-推文">17: <a href="https://twitter.com/cnmediaproject/status/1372884115456987145">2021-03-19 20:14:14+08:00 推文</a></h3>
+
+<p>Multiplayer Diplomacy: Thoughts on the China-US talks, and what new terms like “bandwagoning” (带节奏), drawn from online gaming, tell us about the importance of domestic grandstanding in China’s foreign policy. <a href="https://chinamediaproject.org/2021/03/19/multiplayer-diplomacy/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/03/19/multiplayer-diplomacy/</a><br /><img style="" src="https://pbs.twimg.com/media/Ew12wJaXAAEi733?format=jpg&amp;name=orig" referrerpolicy="no-referrer" /></p>
+
+<h3 id="18-2021-03-19-2032320800-推文">18: <a href="https://twitter.com/MareikeOhlberg/status/1372888719775174659">2021-03-19 20:32:32+08:00 推文</a></h3>
+
+<p>RT Mareike Ohlberg<br />People often wonder if Chinese party-state media employees use a VPN to access Twitter. No. They have a dedicated direct line. This type of access denied to most Chinese people is also mentioned frequently in public procurement documents.<br /><img style="" src="https://pbs.twimg.com/media/Ew162W0XAAA2lJ4?format=png&amp;name=orig" referrerpolicy="no-referrer" /></p>
+
+<h3 id="19-2021-03-19-2237320800-推文">19: <a href="https://twitter.com/cnmediaproject/status/1372920178619654147">2021-03-19 22:37:32+08:00 推文</a></h3>
+
+<p>Our look at the People’s Daily paper on the US-China talks, contrasted with the provocative nature of viral content for domestic audiences – including this image on the PD official Weibo comparing the Boxer Protocol with what happened yesterday. <a href="https://chinamediaproject.org/2021/03/19/multiplayer-diplomacy/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/03/19/multiplayer-diplomacy/</a><br /><img style="" src="https://pbs.twimg.com/media/Ew2XnTdXIAASpaf?format=png&amp;name=orig" referrerpolicy="no-referrer" /></p>
+
+<h3 id="20-2021-03-20-0028260800-推文">20: <a href="https://twitter.com/ZhaoyinFeng/status/1372948085513539585">2021-03-20 00:28:26+08:00 推文</a></h3>
+
+<p>RT Zhaoyin Feng 馮兆音<br />Seen on Weibo. Graphic by People’s Daily<br /><img style="" src="https://pbs.twimg.com/media/Ew2w4r6WQAcXuEk?format=jpg&amp;name=orig" referrerpolicy="no-referrer" /></p>
+
+<h3 id="21-2021-03-20-0046580800-推文">21: <a href="https://twitter.com/cnmediaproject/status/1372952750342963203">2021-03-20 00:46:58+08:00 推文</a></h3>
+
+<p>Re <br /><img style="" src="https://pbs.twimg.com/media/Ew21PXkXAAA8mIN?format=jpg&amp;name=orig" referrerpolicy="no-referrer" /></p>
+
+<h3 id="22-2021-03-20-0125320800-推文">22: <a href="https://twitter.com/AlexDukalskis/status/1372962456616759299">2021-03-20 01:25:32+08:00 推文</a></h3>
+
+<p>RT Alex Dukalskis<br />Re For what it’s worth advertorials like this are reported domestically in China’s propaganda streams as evidence of foreign esteem (North Korea used to do the same sort of thing):<br /><br />China Media Project: In the People’s Daily today, a very revealing feature on the paper’s nearly 4,500 “media drops” in foreign media just during the recent NPC. This campaign would have cost a fortune. See for yourself:<br /><br /><img style="" src="https://pbs.twimg.com/media/Ewr2uHaWgAIZE9g?format=jpg&amp;name=orig" referrerpolicy="no-referrer" /> <a href="https://chinamediaproject.org/2021/03/17/dropping-propaganda/?preview=true&amp;_thumbnail_id=46953" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/03/17/dropping-propaganda/?preview=true&amp;_thumbnail_id=46953</a></p>
+
+<h3 id="23-2021-03-20-1706300800-推文">23: <a href="https://twitter.com/cnmediaproject/status/1373199257356939277">2021-03-20 17:06:30+08:00 推文</a></h3>
+
+<p>Our look at the China-US talks in yesterday’s People’s Daily, and how grandstanding for domestic audiences is a core part of Chinese diplomacy in the digital “New Era.” <a href="https://chinamediaproject.org/2021/03/19/multiplayer-diplomacy/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/03/19/multiplayer-diplomacy/</a></p>
+
+<h3 id="24-2021-03-20-1826310800-推文">24: <a href="https://twitter.com/cnmediaproject/status/1373219392822112257">2021-03-20 18:26:31+08:00 推文</a></h3>
+
+<p>Re And another Weibo post from the People’s Daily today. “The ruling status of the CCP and system security cannot be harmed, this is a red line.”<br /><img style="" src="https://pbs.twimg.com/media/Ew6nwmVXIAArznW?format=jpg&amp;name=orig" referrerpolicy="no-referrer" /></p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Twitter 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/wangdan1989/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2020-07-02/jenjpan/">最早</a>--</span>
+    
+      <li>
+        <time>2021-03-21</time>
+        <a href="https://nodebe4.github.io/opinion/2021-03-21/wangdan1989/">
+          Twitter @王丹: 2021-03-15~2021-03-21
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-03-20</time>
+        <a href="https://nodebe4.github.io/opinion/2021-03-20/realcaixia/">
+          Twitter @蔡霞: 2021-03-15~2021-03-21
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-03-16</time>
+        <a href="https://nodebe4.github.io/opinion/2021-03-16/jenjpan/">
+          Twitter @Jennifer Pan: 2021-03-15~2021-03-21
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-03-14</time>
+        <a href="https://nodebe4.github.io/opinion/2021-03-14/wangdan1989/">
+          Twitter @王丹: 2021-03-08~2021-03-14
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2021-03-20/Spinkcat/">
+            前一篇：Spinkcat在2021-03-15~2021-03-21的言论
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2021-03-20/realcaixia/">
+            後一篇：Twitter @蔡霞: 2021-03-15~2021-03-21
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2021-03-20/Spinkcat/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2021-03-20/realcaixia/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2021-03-20/realcaixia/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2021-03-16/jenjpan/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2021-03-20/Spinkcat/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2021-03-20/realcaixia/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Twitter>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2021-03-20/realcaixia/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Twitter>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2021-03-16/jenjpan/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

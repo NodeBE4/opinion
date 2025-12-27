@@ -1,0 +1,3060 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Consoles and Competition – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+Consoles and Competition
+——
+" />
+    <meta property="og:description" content="
+Consoles and Competition
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Consoles and Competition" />
+    <meta property="twitter:title" content="Consoles and Competition" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2022%2Fconsoles-and-competition%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2022/consoles-and-competition/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2022/consoles-and-competition/&text=Consoles and Competition&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2022/consoles-and-competition/&title=Consoles and Competition" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2022/consoles-and-competition/&title=Consoles and Competition" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Consoles and Competition&body=
+Consoles and Competition
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2022/consoles-and-competition/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2022/consoles-and-competition/&title=Consoles and Competition&caption=
+Consoles and Competition
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Consoles and Competition&url=https://stratechery.com/2022/consoles-and-competition/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Consoles and Competition</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-12-12
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2022/consoles-and-competition/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1670866748000-->
+<p><a href="https://stratechery.com/2022/consoles-and-competition/">Consoles and Competition</a>
+——</p>
+
+<div>
+  <p>The first video game was a 1952 research product called OXO — tic-tac-toe played on a computer the size of a large room:</p>
+  <div align="center">
+    <figure id="attachment_10164" aria-describedby="caption-attachment-10164" style="width: 640px" class="wp-caption aligncenter">
+<img decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-3.png?resize=640%2C450&#038;ssl=1" alt="The EDSAC computer" width="640" height="450" class="size-full wp-image-10164" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-3.png?w=640&amp;ssl=1 640w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-3.png?resize=300%2C211&amp;ssl=1 300w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" />      <figcaption id="caption-attachment-10164" class="wp-caption-text">
+Copyright Computer Laboratory, University of Cambridge, <a href="https://creativecommons.org/licenses/by/2.0/deed.en">CC BY 2.0</a>
+      </figcaption>
+    </figure>
+  </div>
+  <p>Fifteen years later Ralph Baer produced “The Brown Box”; Magnavox licensed Baer’s device and released it as the Odyssey five years later — it was the first home video game console:</p>
+  <p><img decoding="async" loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-4.png?resize=640%2C324&#038;ssl=1" alt="The Magnavox Odyssey" width="640" height="324" class="aligncenter size-full wp-image-10163" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-4.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-4.png?resize=300%2C152&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-4.png?resize=1024%2C518&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-4.png?resize=768%2C389&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-4.png?resize=1200%2C608&amp;ssl=1 1200w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>The Odyssey made Magnavox a lot of money, but not through direct sales: the company sued Atari for ripping off one of the Odyssey’s games to make “Pong”, the company’s first arcade game and, in 1975, first home video game, eventually reaping over $100 million in royalties and damages. In other words, arguments about IP and control have been part of the industry from the beginning.</p>
+  <p>In 1977 Atari released the 2600, the first console I ever owned:<sup id="rf1-10152"><a href="https://stratechery.com/2022/consoles-and-competition/#fn1-10152" title="Ten years later, as a hand-me-down from a relative" rel="footnote">1</a></sup></p>
+  <p><img decoding="async" loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-2.png?resize=640%2C391&#038;ssl=1" alt="The Atari 2600" width="640" height="391" class="aligncenter size-full wp-image-10165" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-2.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-2.png?resize=300%2C183&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-2.png?resize=1024%2C626&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-2.png?resize=768%2C469&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-2.png?resize=1031%2C630&amp;ssl=1 1031w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>All of the games for the Atari were made by Atari, because of course they were; IBM had unbundled mainframe software and hardware in 1969 in <a href="https://stratechery.com/2019/facebooks-ftc-fine-apple-and-microsofts-mistake-ibms-unbundling/">an (unsuccessful) attempt to head off an antitrust case</a>, but video games barely existed as a category in 1977. Indeed, it was only four years earlier when Steve Wozniak had partnered with Steve Jobs to design a circuit board for Atari’s <em>Breakout</em> arcade game; this story is most well-known for the fact that Jobs lied to Wozniak about the size of the bonus he earned, but the pertinent bit for this Article is that video game development was at this point intrinsically tied to hardware.</p>
+  <p>That, though, was why the 2600 was so unique: games were not tied to hardware but rather self-contained in cartridges, meaning players would use the same system to play a whole bunch of different games:</p>
+  <div align="center">
+    <figure id="attachment_10154" aria-describedby="caption-attachment-10154" style="width: 1280px" class="wp-caption aligncenter">
+<img decoding="async" loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-1.png?resize=640%2C480&#038;ssl=1" alt="Atari cartridges" width="640" height="480" class="size-full wp-image-10154" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-1.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-1.png?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-1.png?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-1.png?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-1.png?resize=840%2C630&amp;ssl=1 840w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" />      <figcaption id="caption-attachment-10154" class="wp-caption-text">
+Nathan King, <a href="https://creativecommons.org/licenses/by/2.0/deed.en">CC BY 2.0</a>
+      </figcaption>
+    </figure>
+  </div>
+  <p>The implications of this separation did not resonate within Atari, which had been sold by founder Nolan Bushnell to Warner Communications in 1976, in an effort to get the 2600 out the door. <a href="https://www.gameinformer.com/b/features/archive/2013/02/26/activisionaries-how-four-programmers-changed-the-game-industry-forever.aspx">Game Informer explains what happened</a>:</p>
+  <blockquote>
+    <p>In early 1979, Atari’s marketing department issued a memo to its programing staff that listed all the games Atari had sold the previous year. The list detailed the percentage of sales each game had contributed to the company’s overall profits. The purpose of the memo was to show the design team what kinds of games were selling and to inspire them to create more titles of a similar breed…David Crane, Larry Kaplan, Alan Miller, and Bob Whitehead were four of Atari’s superstar programmers. Collectively, the group had been responsible for producing many of Atari’s most critical hits…</p>
+    <p>“I remember looking at that memo with those other guys,” recalls Crane, “and we realized that we had been responsible for 60 percent of Atari’s sales in the previous year – the four of us. There were 35 people in the department, but the four of us were responsible for 60 percent of the sales. Then we found another announcement that [Atari] had done $100 million in cartridge sales the previous year, so that 60 percent translated into ­$60 ­million.”</p>
+    <p>These four men may have produced $60 million in profit, but they were only making about $22,000 a year. To them, the numbers seemed astronomically disproportionate. Part of the problem was that when the video game industry was founded, it had molded itself after the toy industry, where a designer was paid a fixed salary and everything that designer produced was wholly owned by the company. Crane, Kaplan, Miller, and Whitehead thought the video game industry should function more like the book, music, or film industries, where the creative talent behind a project got a larger share of the profits based on its success.</p>
+    <p>The four walked into the office of Atari CEO Ray Kassar and laid out their argument for programmer royalties. Atari was making a lot of money, but those without a corner office weren’t getting to share the wealth. Kassar – who had been installed as Atari’s CEO by parent company Warner Communications – felt obligated to keep production costs as low as possible. Warner was a massive c­orporation and everyone helped contribute to the ­company’s ­success. “He told us, ‘You’re no more important to those projects than the person on the assembly line who put them together. Without them, your games wouldn’t have sold anything,’” Crane remembers. “He was trying to create this corporate line that it was all of us working together that make games happen. But these were creative works, these were authorships, and he didn’t ­get ­it.”</p>
+    <p>“Kassar called us towel designers,” Kaplan told InfoWorld magazine back in 1983, “He said, ‘I’ve dealt with your kind before. You’re a dime a dozen. You’re not unique. Anybody can do ­a ­cartridge.’”</p>
+  </blockquote>
+  <p>That “anyone” included the so-called “Gang of Four”, who decided to leave Atari and form the first 3rd-party video game company; they called it Activision.</p>
+  <h3 id="rd-pary-software">3rd-Pary Software</h3>
+  <p>Activision represented the first major restructuring of the video game value chain; Steve Wozniak’s <em>Breakout</em> was fully integrated in terms of hardware and software:</p>
+  <p><img decoding="async" loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-5.png?resize=640%2C442&#038;ssl=1" alt="The first Atari equipment was fully integrated" width="640" height="442" class="aligncenter size-full wp-image-10162" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-5.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-5.png?resize=300%2C207&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-5.png?resize=1024%2C706&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-5.png?resize=768%2C530&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-5.png?resize=913%2C630&amp;ssl=1 913w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>The Atari 2600 with its cartridge-based system modularized hardware and software:<sup id="rf2-10152"><a href="https://stratechery.com/2022/consoles-and-competition/#fn2-10152" title="The Fairchild Channel F, which was released in 1976, was the actual first console-based video game system, but the 2600 was by far the most popular." rel="footnote">2</a></sup></p>
+  <p><img decoding="async" loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-7.png?resize=640%2C434&#038;ssl=1" alt="The Atari 2600 was modular" width="640" height="434" class="aligncenter size-full wp-image-10160" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-7.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-7.png?resize=300%2C203&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-7.png?resize=1024%2C694&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-7.png?resize=768%2C520&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-7.png?resize=930%2C630&amp;ssl=1 930w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>Activision took that modularization to its logical (and yet, at the time, unprecedented) extension, by being a different company than the one that made the hardware:</p>
+  <p><img decoding="async" loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-8.png?resize=640%2C381&#038;ssl=1" alt="Activision capitalized on the modularity" width="640" height="381" class="aligncenter size-full wp-image-10159" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-8.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-8.png?resize=300%2C179&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-8.png?resize=1024%2C610&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-8.png?resize=768%2C457&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-8.png?resize=1058%2C630&amp;ssl=1 1058w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>Activision, which had struggled to raise money given the fact it was targeting a market that didn’t yet exist, and which faced immediate lawsuits from Atari, was a tremendous success; now venture capital was eager to fund the market, leading to a host of 3rd-party developers, few of whom had the expertise or skill of Activision. The result was a flood of poor quality games that soured consumers on the entire market, leading to the legendary video game crash of 1983: industry revenue plummeted from $3.2 billion in 1983 to a mere $100 million in 1985. Activision survived, but only by pivoting to making games for the nascent personal computing market.</p>
+  <p>The personal computer market was modular from the start, and not just in terms of software. Compaq’s success in reverse-engineering the IBM PC’s BIOS created a market for PC-compatible computers, all of which ran the increasingly ubiquitous Microsoft operating system (first DOS, then Windows). This meant that developers like Activision could target Windows and benefit from competition in the underlying hardware.</p>
+  <p>Moreover, there were so many more use cases for the personal computer, along with a burgeoning market in consumer-focused magazines that reviewed software, that the market was more insulated from the anarchy that all but destroyed the home console market.</p>
+  <p>That market saw a rebirth with Nintendo’s Famicom system, christened the “Nintendo Entertainment System” for the U.S. market (Nintendo didn’t want to call it a console to avoid any association with the 1983 crash, which devastated not just video game makers but also retailers). Nintendo created its own games like Super Mario Bros. and Zelda, but also implemented exacting standards for 3rd-party developers, requiring them to pass a battery of tests and pay a 30% licensing fee for a maximum of five games a year; only then could they receive a dedicated chip for their cartridge that allowed it to work in the NES.</p>
+  <p><img decoding="async" loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-6.png?resize=640%2C463&#038;ssl=1" alt="Nintendo controlled its ecosystem" width="640" height="463" class="aligncenter size-full wp-image-10161" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-6.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-6.png?resize=300%2C217&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-6.png?resize=1024%2C740&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-6.png?resize=768%2C555&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-6.png?resize=872%2C630&amp;ssl=1 872w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>Nintendo’s firm control of the third-party developer market may look familiar: it was an early precedent for the App Store battles of the last decade. Many of the same principles were in play:</p>
+  <ul>
+    <li>Nintendo had a legitimate interest in ensuring quality, not simply for its own sake but also on behalf of the industry as a whole; similarly, the App Store, following as it did years of malware and viruses in the PC space, restored customer confidence in downloading third-party software.</li>
+    <li>It was Nintendo that created the 30% share for the platform owner that all future console owners would implement, and which Apple would set as the standard for the App Store.</li>
+    <li>While Apple’s App Store lockdown is rooted in software, Nintendo had the same problem that Atari had in terms of the physical separation of hardware and software; this was overcome by the aforementioned lockout chips, along with branding the Nintendo “Seal of Quality” in an attempt to fight counterfeit lockout chips.</li>
+  </ul>
+  <p>Nintendo’s strategy worked, but it came with long-term costs: developers, particularly in North America, hated the company’s restrictions, and were eager to support a challenger; said challenger arrived in the form of the Sega Genesis, which launched in the U.S. in 1989. Sega initially followed Nintendo’s model of tight control, but Electronic Arts reverse-engineered Sega’s system, and threatened to create their own rival licensing program for the Genesis if Sega didn’t dramatically loosen their controls and lower their royalties; Sega acquiesced and went on to fight the Super Nintendo, which arrived in the U.S. in 1991, to a draw, thanks in part to a larger library of third-party games.</p>
+  <h3 id="sonys-emergence">Sony’s Emergence</h3>
+  <p>The company that truly took the opposite approach to Nintendo was Sony; after being spurned by Nintendo in humiliating fashion — Sony announced the Play Station CD-ROM add-on at CES in 1991, only for Nintendo to abandon the project the next day — the electronics giant set out to create their own console which would focus on 3D-graphics and package games on CD-ROMs instead of cartridges. The problem was that Sony wasn’t a game developer, so it started out completely dependent on 3rd-party developers.</p>
+  <p>One of the first ways that Sony addressed this was by building an early partnership with Namco, Sega’s biggest rival in terms of arcade games. Coin-operated arcade games were still a major market in the 1990s, with more revenue than the home market for the first half of the decade. Arcade games had superior graphics and control systems, and were where new games launched first; the eventual console port was always an imitation of the original. The problem, however, is that it was becoming increasingly expensive to build new arcade hardware, so Sony proposed a partnership: Namco could use modified PlayStation hardware as the basis of its System 11 arcade hardware, which would make it easy to port its games to PlayStation. Namco, which also rebuilt its more powerful Ridge Racer arcade game for the PlayStation, took Sony’s offer: Ridge Racer launched with the Playstation, and Tekken was a massive hit given its near perfect fidelity to the arcade version.</p>
+  <p>Sony was much better for 3rd-party developers in other ways, as well: while the company maintained a licensing program, its royalty rates were significantly lower than Nintendo’s, and the cost of manufacturing CD-ROMs was much lower than manufacturing cartridges; this was a double whammy for the Nintendo 64 because while cartridges were faster and offered the possibility of co-processor add-ons, what developers really wanted was the dramatically increased amount of storage CD-ROMs afforded. The Playstation was also the first console to enable development on the PC in a language (C) that was well-known to existing developers. In the end, despite the fact that the Nintendo 64 had more capable hardware than the PlayStation, it was the PlayStation that won the generation thanks to a dramatically larger game library, the vast majority of which were third-party games.</p>
+  <p>Sony extended that advantage with the PlayStation 2, which was backwards compatible with the PlayStation, meaning it had a massive library of 3rd-party games immediately; the newly-launched Xbox, which was basically a PC, and thus easy to develop for, made a decent showing, while Nintendo struggled with the Gamecube, which had both a non-standard controller and non-standard microdisks that once again limited the amount of content relative to the DVDs used for PlayStation 2 and Xbox (and it couldn’t function as a DVD player, either).</p>
+  <p><img decoding="async" loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-13.png?resize=640%2C306&#038;ssl=1" alt="The peak of 3rd-party based competition" width="640" height="306" class="aligncenter size-full wp-image-10173" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-13.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-13.png?resize=300%2C143&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-13.png?resize=1024%2C490&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-13.png?resize=768%2C367&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-13.png?resize=1200%2C574&amp;ssl=1 1200w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>This period for video games was the high point in terms of console competition for 3rd-party developers for two reasons:</p>
+  <ul>
+    <li>First, there were still meaningful choices to be made in terms of hardware and the overall development environment, as epitomized by Sony’s use of CD-ROMs instead of cartridges.</li>
+    <li>Second, developers were still constrained by the cost of developing for distinct architectures, which meant it was important to make the right choice (which dramatically increased the return of developing for the same platform as everyone else).</li>
+  </ul>
+  <p>It was the Sony-Namco partnership, though, that was a harbinger of the future: it behooved console makers to have similar hardware and software stacks to their competitors, so that developers would target them; developers, meanwhile, were devoting an increasing share of their budget to developing assets, particularly when the PS3/Xbox 360 generation targeted high definition, which increased their motivation to be on multiple platforms to better leverage their investments. It was Sony that missed this shift: the PS3 had a complicated Cell processor that was hard to develop for, and a high price thanks to its inclusion of a Blu-Ray player; the Xbox 360 had launched earlier with a simpler architecture, and most developers built for the Xbox first and Playstation 3 second (even if they launched at the same time).</p>
+  <p>The real shift, though, was the emergence of game engines as the dominant mode of development: instead of building a game for a specific console, it made much more sense to build a game for a specific engine which abstracted away the underlying hardware. Sometimes these game engines were internally developed — Activision launched its Call of Duty franchise in this time period (after emerging from bankruptcy under new CEO Bobby Kotick) — and sometimes they were licensed (i.e. Epic’s Unreal Engine). The impact, though, was in some respects similar to cartridges on the Atari 2600:</p>
+  <p><img decoding="async" loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-11.png?resize=640%2C321&#038;ssl=1" alt="Consoles became a commodity in the PS3/Xbox 360 generation" width="640" height="321" class="aligncenter size-full wp-image-10156" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-11.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-11.png?resize=300%2C150&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-11.png?resize=1024%2C513&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-11.png?resize=768%2C385&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-11.png?resize=1200%2C601&amp;ssl=1 1200w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>In this new world it was the consoles themselves that became modularized: consumers picked out their favorite and 3rd-party developers delivered their games on both.</p>
+  <p>Nintendo, meanwhile, dominated the generation with the Nintendo Wii. What was interesting, though, is that 3rd-party support for the Wii was still lacking, in part because of the underpowered hardware (in contrast to previous generations): the Wii sold well because of its unique control method — which most people used to play Wii Sports — and Nintendo’s first-party titles. It was, in many respects, Nintendo’s most vertically-integrated console yet, and was incredibly successful.</p>
+  <h3 id="sony-exclusives">Sony Exclusives</h3>
+  <p>Sony’s pivot after the (relatively) disappointing PlayStation 3 was brilliant: if the economic imperative for 3rd-party developers was to be on both Xbox and PlayStation (and the PC), and if game engines made that easy to implement, then there was no longer any differentiation to be had in catering to 3rd-party developers.</p>
+  <p>Instead Sony beefed up its internal game development studios and bought up several external ones, with the goal of creating PlayStation 4 exclusives. Now some portion of new games would not be available on Xbox not because it had crappy cartridges or underpowered graphics, but because Sony could decide to limit its profit on individual titles for the sake of the broader PlayStation 4 ecosystem. After all, there would still be a lot of 3rd-party developers; if Sony had more consoles than Microsoft because of its exclusives, then it would harvest more of those 3rd-party royalty fees.</p>
+  <p>Those fees, by the way, started to head back up, particularly for digital-only versions, which returned to that 30% cut that Nintendo had pioneered many years prior; this is the downside of depending on universal abstractions like game engines while bearing high development costs: you have no choice but to be on every platform no matter how much it costs.</p>
+  <p><img decoding="async" loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-12.png?resize=640%2C402&#038;ssl=1" alt="Sony&#039;s exclusive strategy gave it the edge in the PS4 generation" width="640" height="402" class="aligncenter size-full wp-image-10155" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-12.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-12.png?resize=300%2C188&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-12.png?resize=1024%2C643&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-12.png?resize=768%2C482&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-12.png?resize=1003%2C630&amp;ssl=1 1003w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>Sony bet correctly: the PS4 dominated its generation, helped along by Microsoft making a bad bet of its own by packing in the Kinect with the Xbox One. It was a repeat of Sony’s mistake with the PS3, in that it was a misguided attempt to differentiate in hardware when the fundamental value chain had long since dictated that the console was increasingly a commodity. Content is what mattered — at least as long as the current business model persisted.</p>
+  <p>Nintendo, meanwhile, continued to march to its own vertically-integrated drum: after the disastrous Wii U the company quickly pivoted to the Nintendo Switch, which continues to leverage its truly unique portable form factor and Nintendo’s first-party games to huge sales. Third party support, though, remains extremely tepid; it’s just too underpowered, and the sort of person that cares about third-party titles like Madden or Call of Duty has long since bought a PlayStation or Xbox.</p>
+  <h3 id="the-ftc-vs-microsoft">The FTC vs. Microsoft</h3>
+  <p>Forty years of context may seem like overkill when it comes to examining <a href="https://www.ftc.gov/news-events/news/press-releases/2022/12/ftc-seeks-block-microsoft-corps-acquisition-activision-blizzard-inc">the FTC’s attempt to block Microsoft’s acquisition of Activision</a>, but I think it is essential for multiple reasons.</p>
+  <p>First, the video game market has proven to be extremely dynamic, particularly in terms of 3rd-party developers:</p>
+  <ul>
+    <li>Atari was vertically integrated</li>
+    <li>Nintendo grew the market with strict control of 3rd-party developers</li>
+    <li>Sony took over the market by catering to 3rd-party developers and differentiating on hardware</li>
+    <li>Xbox’s best generation leaned into increased commodification and ease-of-development</li>
+    <li>Sony retook the lead by leaning back into vertical integration</li>
+  </ul>
+  <p>That is quite the round trip, and it’s worth pointing out that attempting to freeze the market in its current iteration at any point over the last forty years would have foreclosed future changes.</p>
+  <p>At the same time, Sony’s vertical integration seems more sustainable than Atari’s. First, Sony owns the developers who make the most compelling exclusives for its consoles; they can’t simply up-and-leave like the Gang of Four. Second, the costs of developing modern games has grown so high that any 3rd-party developer has no choice but to develop for all relevant consoles. That means that there will never be a competitor who wins by offering 3rd-party developers a better deal; the only way to fight back is to have developers of your own, or a completely different business model.</p>
+  <p>The first fear raised by the FTC is that Microsoft, by virtue of acquiring Activision, is looking to fight its own exclusive war, and at first blush it’s a reasonable concern. After all, Activision has some of the most popular 3rd-party games, particularly the aforementioned Call of Duty franchise. The problem with this reasoning, though, is that the price Microsoft paid for Activision was a multiple of Activision’s current revenues, which include billions of dollars for games sold on Playstation. To suddenly cut Call of Duty (or Activision’s other multi-platform titles) off from Playstation would be massively value destructive; no wonder Microsoft said it was happy to sign a 10-year deal with Sony to keep Call of Duty on PlayStation.</p>
+  <p>Just for clarity’s sake, the distinction here from Sony’s strategy is the fact that Microsoft is acquiring these assets. It’s one thing to develop a game for your own platform — you’re building the value yourself, and choosing to harvest it with an ecosystem strategy as opposed to maximizing that games’ profit. An acquirer, though, has to pay for the business model that already exists.</p>
+  <p>At the same time, though, it’s no surprise that Microsoft has taken in-development assets from its other acquisition like ZeniMax and made them exclusives; that is the Sony strategy, and Microsoft was very clear when it acquired ZeniMax that it would keep cross-platform games cross-platform but may pursue a different strategy for new intellectual property. CEO of Microsoft Gaming Phil Spencer <a href="https://www.bloomberg.com/news/articles/2020-09-21/microsoft-to-buy-bethesda-studios-for-7-5-billion-to-boost-xbox">told Bloomberg at the time</a>:</p>
+  <blockquote>
+    <p>In terms of other platforms, we’ll make a decision on a case-by-case basis.</p>
+  </blockquote>
+  <p>Given this, it’s positively bizarre that the FTC also claims that Microsoft lied to the E.U. with regards to its promises surrounding the ZeniMax acquisition: the company was very clear that existing cross-platform games would stay cross-platform, and made no promises about future IP. Indeed, the FTC’s claims were so off-base that the European Commission felt the need to clarify that Microsoft didn’t mislead the E.U.; from <a href="https://content.mlex.com/#/content/1434203">Mlex</a>:</p>
+  <blockquote>
+    <p>Microsoft didn’t make any “commitments” to EU regulators not to release Xbox-exclusive content following its takeover of ZeniMax Media, the European Commission has said. US enforcers yesterday suggested that the US tech giant had misled the regulator in 2021 and cited that as a reason to challenge its proposed acquisition of Activision Blizzard. “The commission cleared the Microsoft/ZeniMax transaction unconditionally as it concluded that the transaction would not raise competition concerns,” the EU watchdog said in an emailed statement.</p>
+    <p>The absence of competition concerns “did not rely on any statements made by Microsoft about the future distribution strategy concerning ZeniMax’s games,” said the commission, which itself has opened an in-depth probe into the Activision Blizzard deal and appears keen to clarify what happened in the previous acquisition. The EU agency found that even if Microsoft were to restrict access to ZeniMax titles, it wouldn’t have a significant impact on competition because rivals wouldn’t be denied access to an “essential input,” and other consoles would still have a “large array” of attractive content.</p>
+  </blockquote>
+  <p>The FTC’s concerns about future IP being exclusive ring a bit hypocritical given the fact that Sony has been pursuing the exact same strategy — including multiple acquisitions — without any sort of regulatory interference; more than that, though, to effectively make up a crime is disquieting. To be fair, those Sony acquisitions were a lot smaller than Activision, but this goes back to the first point: the entire reason Activision is expensive is because of its already-in-market titles, which Microsoft has every economic incentive to keep cross-platform (and which it is willing to commit to contractually).</p>
+  <h3 id="whither-competition">Whither Competition</h3>
+  <p>It’s the final FTC concern, though, that I think is dangerous. From <a href="https://www.ftc.gov/system/files/ftc_gov/pdf/D09412MicrosoftActivisionAdministrativeComplaintPublicVersionFinal.pdf">the complaint</a>:</p>
+  <blockquote>
+    <p>These effects are likely to be felt throughout the video gaming industry. The Proposed Acquisition is reasonably likely to substantially lessen competition and/or tend to create a monopoly in both well-developed and new, burgeoning markets, including highperformance consoles, multi-game content library subscription services, and cloud gaming subscription services…</p>
+    <p>Multi-Game Content Library Subscription Services comprise a Relevant Market. The anticompetitive effects of the Proposed Acquisition also are reasonably likely to occur in any relevant antitrust market that contains Multi-Game Content Library Subscription Services, including a combined Multi-Game Content Library and Cloud Gaming Subscription Services market.</p>
+    <p>Cloud Gaming Subscription Services are a Relevant Market. The anticompetitive effects of the Proposed Acquisition alleged in this complaint are also likely to occur in any relevant antitrust market that contains Cloud Gaming Subscription Services, including a combined Multi-Game Content Library and Cloud Gaming Subscription Services market.</p>
+  </blockquote>
+  <p>“Multi-Game Content Library Subscription Services” and “Cloud Gaming Subscription Services” are, indeed, the reason why Microsoft wants to do this deal. <a href="https://stratechery.com/2020/microsoft-and-zenimax-microsoft-ignite-microsoft-and-covid/">I explained the rationale when Microsoft acquired ZeniMax</a>:</p>
+  <blockquote>
+    <p>A huge amount of discussion around this acquisition was focused on Microsoft needing its own stable of exclusives in order to compete with Sony, but it’s important to note that making all of ZeniMax’s games exclusives would be hugely value destructive, at least in the short-to-medium term. Microsoft is paying $7.5 billion for a company that currently makes money selling games on PC, Xbox, and PS5, and simply cutting off one of those platforms — particularly when said platform is willing to pay extra for mere timed exclusives, not all-out exclusives — is to effectively throw a meaningful chunk of that value away. That certainly doesn’t fit with Nadella’s statement that “each layer has to stand on its own for what it brings”…</p>
+    <p>Microsoft isn’t necessarily buying ZeniMax to make its games exclusive, but rather to apply a new business model to them — specifically, the Xbox Game Pass subscription. This means that Microsoft could, if it chose, have its cake and eat it too: sell ZeniMax games at their usual $60~$70 price on PC, PS5, Xbox, etc., while also making them available from day one to Xbox Game Pass subscribers. It won’t take long for gamers to quickly do the math: $180/year — i.e. three games bought individually — gets you access to all of the games, and not just on one platform, but on all of them, from PC to console to phone.</p>
+    <p>Sure, some gamers will insist on doing things the old way, and that’s fine: Microsoft can make the same money ZeniMax would have as an independent company. Everyone else can buy into Microsoft’s model, taking advantage of the sort of win-win-win economics that characterize successful bundles. And, if they have a PS5 and thus can’t get access to Xbox Game Pass on their TVs, an Xbox is only an extra $10/month away.</p>
+  </blockquote>
+  <p>Microsoft is willing to cannibalize itself to build a new business model for video games, and it’s a business model that is pretty darn attractive for consumers. It’s also a business model that Activision wouldn’t pursue on its own, because it has its own profits to protect. Most importantly, though, it’s a business model that is anathema to Sony: making titles broadly available to consumers on a subscription basis is <a href="https://stratechery.com/2020/ps5-and-xbox-sonys-console-microsofts-service/">the exact opposite of the company’s exclusive strategy</a>, which is all about locking consumers into Sony’s platform.</p>
+  <p><img decoding="async" loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-9.png?resize=640%2C348&#038;ssl=1" alt="Microsoft&#039;s Xbox Game Pass strategy is orthogonal to Sony&#039;s" width="640" height="348" class="aligncenter size-full wp-image-10158" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-9.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-9.png?resize=300%2C163&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-9.png?resize=1024%2C557&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-9.png?resize=768%2C418&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/12/activision-9.png?resize=1159%2C630&amp;ssl=1 1159w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>Here’s the thing: isn’t this a textbook example of competition? The FTC is seeking to preserve a model of competition that was last relevant in the PS2/Xbox generation, but that plane of competition has long since disappeared. The console market as it is today is one that is increasingly boring for consumers, precisely because Sony has won. What is compelling about Microsoft’s approach is that they are making a bet that offering consumers a better deal is the best way to break up Sony’s dominance, and this is somehow a bad thing?</p>
+  <p>What makes this determination to outlaw future business models particularly frustrating is that the real threat to gaming today is the dominance of storefronts that exact their own tax while contributing nothing to the development of the industry. The App Store and Google Play leverage software to extract 30% from mobile games just because they can — and sure, go ahead and make the same case about Microsoft and Sony. If the FTC can’t be bothered to check the blatant self-favoring inherent in these models, at the minimum it seems reasonable to give a chance to a new kind of model that could actual push consumers to explore alternative ways to game on their devices.</p>
+  <p>For the record, I do believe this acquisition demands careful overview, and it’s completely appropriate to insist that Microsoft continue to deliver Activision titles to other platforms, even if it wouldn’t make economic sense to do anything but. It’s increasingly difficult, though, to grasp any sort of coherent theory to the FTC’s antitrust decisions beyond ‘big tech bad’. There are real antitrust issues in the industry, but that requires actually understanding the industry to tease them out; that sort of understanding applied to this case would highlight Sony’s actual dominance and that having multiple compelling platforms with different business models is the essence of competition.</p>
+  <hr class="footnotes" />
+  <ol class="footnotes" style="list-style-type:decimal">
+    <li id="fn1-10152">
+      <p>Ten years later, as a hand-me-down from a relative <a href="https://stratechery.com/2022/consoles-and-competition/#rf1-10152" class="backlink" title="Return to footnote 1.">↩</a></p>
+    </li>
+    <li id="fn2-10152">
+      <p>The Fairchild Channel F, which was released in 1976, was the actual first console-based video game system, but the 2600 was by far the most popular. <a href="https://stratechery.com/2022/consoles-and-competition/#rf2-10152" class="backlink" title="Return to footnote 2.">↩</a></p>
+    </li>
+  </ol>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2022-12-22</time>
+        <a href="https://nodebe4.github.io/opinion/2022-12-22/Holiday-Break-December-26th-to-January-5th/">
+          Holiday Break: December 26th to January 5th
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-12-20</time>
+        <a href="https://nodebe4.github.io/opinion/2022-12-20/The-2022-Stratechery-Year-in-Review/">
+          The 2022 Stratechery Year in Review
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-12-05</time>
+        <a href="https://nodebe4.github.io/opinion/2022-12-05/AI-Homework/">
+          AI Homework
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-11-14</time>
+        <a href="https://nodebe4.github.io/opinion/2022-11-14/Narratives/">
+          Narratives
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-12-11/%E7%A7%A6%E6%99%96-%E6%88%91%E7%9C%8B%E9%A9%AC%E5%85%8B%E6%80%9D-%E5%9B%9E%E7%AD%94%E7%BE%A4%E5%8F%8B%E9%97%AE%E9%A2%98/">
+            前一篇：秦晖：我看马克思 —— 回答群友问题
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-12-12/CUPodcast-12-ESG-%E5%82%BE%E5%91%A2%E5%95%B2-COP-27-%E7%B8%BD%E7%B5%90-%E6%B0%A3%E5%80%99%E8%AB%87%E5%88%A4%E6%9C%89%E4%BD%95%E9%80%B2%E5%B1%95/">
+            後一篇：【*CUPodcast】#12 ESG 傾呢啲：COP 27 總結，氣候談判有何進展？
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-12-11/%E7%A7%A6%E6%99%96-%E6%88%91%E7%9C%8B%E9%A9%AC%E5%85%8B%E6%80%9D-%E5%9B%9E%E7%AD%94%E7%BE%A4%E5%8F%8B%E9%97%AE%E9%A2%98/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-12-12/CUPodcast-12-ESG-%E5%82%BE%E5%91%A2%E5%95%B2-COP-27-%E7%B8%BD%E7%B5%90-%E6%B0%A3%E5%80%99%E8%AB%87%E5%88%A4%E6%9C%89%E4%BD%95%E9%80%B2%E5%B1%95/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-12-20/The-2022-Stratechery-Year-in-Review/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-12-05/AI-Homework/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-12-11/%E7%A7%A6%E6%99%96-%E6%88%91%E7%9C%8B%E9%A9%AC%E5%85%8B%E6%80%9D-%E5%9B%9E%E7%AD%94%E7%BE%A4%E5%8F%8B%E9%97%AE%E9%A2%98/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-12-12/CUPodcast-12-ESG-%E5%82%BE%E5%91%A2%E5%95%B2-COP-27-%E7%B8%BD%E7%B5%90-%E6%B0%A3%E5%80%99%E8%AB%87%E5%88%A4%E6%9C%89%E4%BD%95%E9%80%B2%E5%B1%95/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-12-20/The-2022-Stratechery-Year-in-Review/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-12-05/AI-Homework/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

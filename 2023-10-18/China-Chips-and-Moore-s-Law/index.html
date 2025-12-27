@@ -1,0 +1,3219 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>China Chips and Moore’s Law – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+China Chips and Moore’s Law
+——
+" />
+    <meta property="og:description" content="
+China Chips and Moore’s Law
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="China Chips and Moore’s Law" />
+    <meta property="twitter:title" content="China Chips and Moore’s Law" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2023%2Fchina-chips-and-moores-law%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2023/china-chips-and-moores-law/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2023/china-chips-and-moores-law/&text=China Chips and Moore’s Law&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2023/china-chips-and-moores-law/&title=China Chips and Moore’s Law" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2023/china-chips-and-moores-law/&title=China Chips and Moore’s Law" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=China Chips and Moore’s Law&body=
+China Chips and Moore’s Law
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2023/china-chips-and-moores-law/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2023/china-chips-and-moores-law/&title=China Chips and Moore’s Law&caption=
+China Chips and Moore’s Law
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=China Chips and Moore’s Law&url=https://stratechery.com/2023/china-chips-and-moores-law/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>China Chips and Moore’s Law</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2023-10-18
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2023/china-chips-and-moores-law/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1697642294000-->
+<p><a href="https://stratechery.com/2023/china-chips-and-moores-law/">China Chips and Moore’s Law</a>
+——</p>
+
+<div>
+  <div>
+    <hr />
+  </div>
+  <div align="center">
+<strong>The complexity for minimum component costs has increased at a rate of roughly a factor of two per year (see graph on next page). Certainly over the short term this rate can be expected to continue, if not to increase. Over the longer term, the rate of increase is a bit more uncertain, although there is no reason to believe it will not remain nearly constant for at least 10 years.</strong><br />— <em>Gordon Moore, <a href="http://cva.stanford.edu/classes/cs99s/papers/moore-crammingmorecomponents.pdf">Cramming More Components Onto Integrated Circuits</a></em>
+  </div>
+  <div></div>
+  <p><a href="http://cva.stanford.edu/classes/cs99s/papers/moore-crammingmorecomponents.pdf"><img decoding="async" fetchpriority="high" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2023/10/CleanShot-2023-10-18-at-22.43.12@2x.png?resize=640%2C335&#038;ssl=1" alt="Gordon Moore&#039;s illustration of Moore&#039;s Law" width="640" height="335" class="aligncenter size-full wp-image-11729" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2023/10/CleanShot-2023-10-18-at-22.43.12@2x.png?w=2548&amp;ssl=1 2548w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/10/CleanShot-2023-10-18-at-22.43.12@2x.png?resize=300%2C157&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/10/CleanShot-2023-10-18-at-22.43.12@2x.png?resize=1024%2C535&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/10/CleanShot-2023-10-18-at-22.43.12@2x.png?resize=768%2C401&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/10/CleanShot-2023-10-18-at-22.43.12@2x.png?resize=1536%2C803&amp;ssl=1 1536w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/10/CleanShot-2023-10-18-at-22.43.12@2x.png?resize=2048%2C1071&amp;ssl=1 2048w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/10/CleanShot-2023-10-18-at-22.43.12@2x.png?resize=1200%2C627&amp;ssl=1 1200w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/10/CleanShot-2023-10-18-at-22.43.12@2x.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/10/CleanShot-2023-10-18-at-22.43.12@2x.png?w=1920&amp;ssl=1 1920w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></a></p>
+  <div>
+    <hr />
+  </div>
+  <div align="center">
+<strong>Moore’s law is dead.</strong><br />– <em>Jensen Huang</em>
+  </div>
+  <div>
+    <hr />
+  </div>
+  <p>On Tuesday <a href="https://www.wsj.com/tech/u-s-tightens-curbs-on-ai-chip-exports-to-china-widening-rift-with-u-s-businesses-3b9983df">the Biden administration tightened export controls</a> for advanced AI chips being sold to China; the primary target was Nvidia’s H800 and A800 chips, which were specifically designed <a href="https://stratechery.com/2022/china-chip-ban-clarifications-nvidias-a800-china-intel-and-tower/">to skirt controls</a> put in place last year. The primary difference between the H800/A800 and H100/A100 is the bandwidth of their interconnects: the A100 had 600 Gb/s interconnects (the H100 has 900GB/s), which just so happened to be the limit proscribed by last year’s export controls; the A800 and H800 were limited to 400 Gb/s interconnects.</p>
+  <p>The reason why interconnect speed matters is tied up with Nvidia CEO Jensen Huang’s thesis that Moore’s Law is dead. Moore’s Law, as originally stated in 1965, states that the number of transistors in an integrated circuit would double every year. Moore revised his prediction 10 years later to be a doubling every two years, which held until the last decade or so, when it has slowed to a doubling about every three years.</p>
+  <p>In practice, though, Moore’s Law has become something more akin to a fundamental precept underlying the tech industry: computing power will both increase <em>and</em> get cheaper over time. This precept — which I will call Moore’s Precept, for clarity — is connected to Moore’s technical prediction: smaller transistors can switch faster, and use less energy in the switching, even as more of them fit on a single wafer; this means that you can either get more chips per wafer or larger chips, either decreasing price or increasing power for the same price. In practice we got both.</p>
+  <p>What is critical is that the rest of the tech industry didn’t need to understand the technical or economic details of Moore’s Law: for 60 years it has been safe to simply assume that computers would get faster, which meant the optimal approach was always to build for the cutting edge or just beyond, and trust that processor speed would catch up to your use case. From an analyst perspective, it is Moore’s Precept that enables me to write speculative articles like <a href="https://stratechery.com/2023/ai-hardware-and-virtual-reality/">AI, Hardware, and Virtual Reality</a>: it is enough to see that a use case is possible, if not yet optimal; Moore’s Precept will provide the optimization.</p>
+  <h3 id="the-end-of-moores-precept">The End of Moore’s Precept?</h3>
+  <p>This distinction between Moore’s Law and Moore’s Precept is the key to understanding Nvidia CEO Jensen Huang’s repeated declarations that Moore’s Law is dead. From a technical perspective, it has certainly slowed, but density continues to increase; here is TSMC’s transistor density by node size, using the first (i.e. worse) iteration of each node size:<sup id="rf1-11727"><a href="https://stratechery.com/2023/china-chips-and-moores-law/#fn1-11727" title="I am not certain I have the exact right numbers for older nodes, but I have confirmed that the numbers are in the right ballpark" rel="footnote">1</a></sup></p>
+  <table>
+    <thead>
+      <tr>
+        <th align="center">TSMC</th>
+        <th align="center">Transistor Density (MTr/mm)</th>
+        <th align="center">Year Introduced</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">90 nm</td>
+        <td align="center">3.4</td>
+        <td align="center">2004</td>
+      </tr>
+      <tr>
+        <td align="center">65 nm</td>
+        <td align="center">5.6</td>
+        <td align="center">2006</td>
+      </tr>
+      <tr>
+        <td align="center">40 nm</td>
+        <td align="center">9.8</td>
+        <td align="center">2008</td>
+      </tr>
+      <tr>
+        <td align="center">28 nm</td>
+        <td align="center">16.6</td>
+        <td align="center">2011</td>
+      </tr>
+      <tr>
+        <td align="center">20 nm</td>
+        <td align="center">20.9</td>
+        <td align="center">2014</td>
+      </tr>
+      <tr>
+        <td align="center">16 nm</td>
+        <td align="center">28.9</td>
+        <td align="center">2015</td>
+      </tr>
+      <tr>
+        <td align="center">10 nm</td>
+        <td align="center">52.5</td>
+        <td align="center">2017</td>
+      </tr>
+      <tr>
+        <td align="center">7 nm</td>
+        <td align="center">91.2</td>
+        <td align="center">2019</td>
+      </tr>
+      <tr>
+        <td align="center">5 nm</td>
+        <td align="center">138.2</td>
+        <td align="center">2020</td>
+      </tr>
+    </tbody>
+  </table>
+  <p>Remember, though, that cost matters; here is the same table with TSMC’s introductory price/wafer, and what that translates to in terms of price/billion transistors:</p>
+  <table>
+    <thead>
+      <tr>
+        <th align="center">TSMC</th>
+        <th align="center">MTr/mm</th>
+        <th align="center">Year Introduced</th>
+        <th align="center">Price/Wafer</th>
+        <th align="center">Price/BTr</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">90 nm</td>
+        <td align="center">3.4</td>
+        <td align="center">2004</td>
+        <td align="center">$1,650</td>
+        <td align="center">$6.87</td>
+      </tr>
+      <tr>
+        <td align="center">65 nm</td>
+        <td align="center">5.6</td>
+        <td align="center">2006</td>
+        <td align="center">$1,937</td>
+        <td align="center">$4.89</td>
+      </tr>
+      <tr>
+        <td align="center">40 nm</td>
+        <td align="center">9.8</td>
+        <td align="center">2008</td>
+        <td align="center">$2,274</td>
+        <td align="center">$3.28</td>
+      </tr>
+      <tr>
+        <td align="center">28 nm</td>
+        <td align="center">16.6</td>
+        <td align="center">2011</td>
+        <td align="center">$2,891</td>
+        <td align="center">$2.46</td>
+      </tr>
+      <tr>
+        <td align="center">20 nm</td>
+        <td align="center">20.9</td>
+        <td align="center">2014</td>
+        <td align="center">$3,677</td>
+        <td align="center">$2.49</td>
+      </tr>
+      <tr>
+        <td align="center">16 nm</td>
+        <td align="center">28.9</td>
+        <td align="center">2015</td>
+        <td align="center">$3,984</td>
+        <td align="center">$1.95</td>
+      </tr>
+      <tr>
+        <td align="center">10 nm</td>
+        <td align="center">52.5</td>
+        <td align="center">2017</td>
+        <td align="center">$5,992</td>
+        <td align="center">$1.61</td>
+      </tr>
+      <tr>
+        <td align="center">7 nm</td>
+        <td align="center">91.2</td>
+        <td align="center">2019</td>
+        <td align="center">$9,346</td>
+        <td align="center">$1.45</td>
+      </tr>
+      <tr>
+        <td align="center">5 nm</td>
+        <td align="center">138.2</td>
+        <td align="center">2020</td>
+        <td align="center">$16,988</td>
+        <td align="center">$1.74</td>
+      </tr>
+    </tbody>
+  </table>
+  <p>Notice that number on the bottom right: with TSMC’s 5 nm process the price per transistor increased — and it increased <em>a lot</em> (20%). The reason was obvious: 5 nm was the first process that required ASML’s extreme ultraviolet (EUV) lithography, and EUV machines were hugely expensive — around $150 million each.<sup id="rf2-11727"><a href="https://stratechery.com/2023/china-chips-and-moores-law/#fn2-11727" title="TSMC first used EUV with latter iterations of its 7nm process, but that was primarily to move down the learning curve; EUV was not strictly necessary, and the original 7nm process used immersion DUV lithography exclusively" rel="footnote">2</a></sup> In other words, it appeared that while the technical definition of Moore’s Law would continue, the precept that chips would always get both faster and cheaper would not.</p>
+  <h3 id="gpus-and-embarrassing-parallelism">GPUs and Embarrassing Parallelism</h3>
+  <p>Huang’s argument, to be clear, does not simply rest on the cost of 5 nm chips; remember Moore’s Precept is about speed as well as cost, and the truth is that a lot of those density gains have primarily gone towards power efficiency as energy became a constraint in everything from mobile to PCs to data centers. Huang’s thesis for several years now is that Nvidia has the solution to making computing <em>faster</em>: use GPUs.</p>
+  <p>GPUs are much less complex than CPUs; that means they can execute instructions much more quickly, but those instructions have to be much simpler. At the same time, you can run a lot of them at the same time to achieve outsized results. Graphics is, unsurprisingly, the most obvious example: every “shader” — the primary processing component of a GPU — calculates what will be displayed on a single portion of the screen; the size of the portion is a function of how many shaders you have available. If you have 1,024 shaders, each shader draws 1/1,024 of the screen. Ergo, if you have 2,048 shaders, you can draw the screen twice as fast. Graphics performance is “embarrassingly parallel”, which is to say it scales with the number of processors you apply to the problem.</p>
+  <p>This “embarrassing parallelism” is the key to GPUs outsized performance relative to CPUs, but the challenge is that not all software problems are easily parallel-izable; Nvida’s CUDA ecosystem is predicated on providing the tools to build software applications that can leverage GPU parallelism, and is one of the major moats undergirding Nvidia’s dominance, but most software applications still need the complexity of CPUs to run.</p>
+  <p>AI, though, is not most software. It turns out that AI, both in terms of training models and in leveraging them (i.e. inference) is an embarrassingly parallel application. Moreover, the optimum amount of scalability goes far beyond a computer monitor displaying graphics; this is why Nvidia AI chips feature the high-speed interconnects referenced by the chip ban: AI applications run across multiple AI chips at the same time, but the key to making sure those GPUs are busy is feeding them with data, and that requires those high speed interconnects.</p>
+  <p>That noted, I’m skeptical about the wholesale shift of traditional data center applications to GPUs; from <a href="https://stratechery.com/2023/nvidia-on-the-mountaintop/">Nvidia On the Mountaintop</a>:</p>
+  <blockquote>
+    <p>Humans — and companies — are lazy, and not only are CPU-based applications easier to develop, they are also mostly already built. I have a hard time seeing what companies are going to go through the time and effort to port things that already run on CPUs to GPUs; at the end of the day, the applications that run in a cloud are determined by customers who provide the demand for cloud resources, not cloud providers looking to optimize FLOP/rack.</p>
+  </blockquote>
+  <p>There’s another reason to think that traditional CPUs still have some life in them as well: it turns out that Moore’s Precept may be back on track.</p>
+  <h3 id="euv-and-moores-precept">EUV and Moore’s Precept</h3>
+  <p>The table I posted above only ran through 5 nm; the iPhone 15 Pro, though, has an N3 chip, and check out the price/transistor:</p>
+  <table>
+    <thead>
+      <tr>
+        <th align="center">TSMC</th>
+        <th align="center">MTr/mm</th>
+        <th align="center">Year Introduced</th>
+        <th align="center">Price/Wafer</th>
+        <th align="center">Price/BTr</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">90 nm</td>
+        <td align="center">3.4</td>
+        <td align="center">2004</td>
+        <td align="center">$1,650</td>
+        <td align="center">$6.87</td>
+      </tr>
+      <tr>
+        <td align="center">65 nm</td>
+        <td align="center">5.6</td>
+        <td align="center">2006</td>
+        <td align="center">$1,937</td>
+        <td align="center">$4.89</td>
+      </tr>
+      <tr>
+        <td align="center">40 nm</td>
+        <td align="center">9.8</td>
+        <td align="center">2008</td>
+        <td align="center">$2,274</td>
+        <td align="center">$3.28</td>
+      </tr>
+      <tr>
+        <td align="center">28 nm</td>
+        <td align="center">16.6</td>
+        <td align="center">2011</td>
+        <td align="center">$2,891</td>
+        <td align="center">$2.46</td>
+      </tr>
+      <tr>
+        <td align="center">20 nm</td>
+        <td align="center">20.9</td>
+        <td align="center">2014</td>
+        <td align="center">$3,677</td>
+        <td align="center">$2.49</td>
+      </tr>
+      <tr>
+        <td align="center">16 nm</td>
+        <td align="center">28.9</td>
+        <td align="center">2015</td>
+        <td align="center">$3,984</td>
+        <td align="center">$1.95</td>
+      </tr>
+      <tr>
+        <td align="center">10 nm</td>
+        <td align="center">52.5</td>
+        <td align="center">2017</td>
+        <td align="center">$5,992</td>
+        <td align="center">$1.61</td>
+      </tr>
+      <tr>
+        <td align="center">7 nm</td>
+        <td align="center">91.2</td>
+        <td align="center">2019</td>
+        <td align="center">$9,346</td>
+        <td align="center">$1.45</td>
+      </tr>
+      <tr>
+        <td align="center">5 nm</td>
+        <td align="center">138.2</td>
+        <td align="center">2020</td>
+        <td align="center">$16,988</td>
+        <td align="center">$1.74</td>
+      </tr>
+      <tr>
+        <td align="center">3 nm (N3B)</td>
+        <td align="center">197.0</td>
+        <td align="center">2023</td>
+        <td align="center">$20,000</td>
+        <td align="center">$1.44</td>
+      </tr>
+      <tr>
+        <td align="center">3 nm (N3E)</td>
+        <td align="center">215.6</td>
+        <td align="center">2023</td>
+        <td align="center">$20,000</td>
+        <td align="center">$1.31</td>
+      </tr>
+    </tbody>
+  </table>
+  <p>While I only included the first version of each node previously, the N3B process, which is used for the iPhone’s A17 Pro chip, <a href="https://fuse.wikichip.org/news/7048/n3e-replaces-n3-comes-in-many-flavors/">is a dead-end</a>; TSMC changed its approach with the N3E, which will be the basis of the N3 family going forward. It also makes the N3 leap even more impressive in terms of price/transistor: while N3B undid the 5 nm backslide, N3E is a marked improvement over 7 nm.</p>
+  <p>Moreover, the gains are actually what you would expect: yes, those EUV machines cost a lot, but the price decreases embedded in Moore’s Precept are not a function of equipment getting cheaper — notice that the price/wafer has been increasing continuously. Rather, ever declining prices/transistor are a function of Moore’s Law, which is to say that new equipment, like EUV, lets us “Cram[] More Components Onto Integrated Circuits”.</p>
+  <p>What happened at 5 nm was similar to what happened at 20 nm, the last time the price/transistor increased: that was the node where TSMC started to use double-patterning, which means they had to do every lithography step twice; that both doubled the utilization of lithography equipment per wafer and also decreased yield. For that node, at least, the gains from making smaller transistors were outweighed by the costs. A year later, though, and TSMC launched the 16 nm node that re-united Moore’s Law with Moore’s Precept. That is exactly what seems to have happened with 3 nm — the gains of EUV are now significantly outweighing the costs — and early rumors about 2 nm density and price points suggests the gains should continue for another node.</p>
+  <h3 id="chip-ban-angst">Chip Ban Angst</h3>
+  <p>All of this is interesting in its own right, but it’s particularly pertinent in light of the recent angst in Washington DC over Huawei’s recent smartphone with a 7 nm chip, seemingly in defiance of those export controls. I already explained why that angst was misguided in <a href="https://stratechery.com/2023/the-huawei-mate-60-pro-7nm-background-implications-and-reactions/">this September Update</a>. To summarize my argument:</p>
+  <ul>
+    <li>TSMC had already shown that 7 nm chips could be made using deep ultraviolet (DUV)-based immersion lithography, and China had plenty of DUV lithography machines, given that DUV has been the standard for multiple generations of chips.</li>
+    <li>China’s Semiconductor Manufacturing International Corp. (SMIC) had <a href="https://www.semianalysis.com/p/chinas-smic-is-shipping-7nm-foundry">already made a 7 nm chip in 2022</a>; sure it was simpler than the one launched in that Huawei phone, but that is the exact sort of progression you should expect from a competent foundry.</li>
+    <li>SMIC is almost certainly not producing that 7nm chip economically; Intel, for example, could make a 7nm chip using DUV, they just couldn’t do it economically, which is why they ultimately switched to EUV.</li>
+  </ul>
+  <p>In short, the problem with the chip ban was drawing the line at 10 nm: that line was arbitrary given that the equipment needed to make 10 nm chips had already been shown to be capable of producing 7 nm chips; that SMIC managed to do just that isn’t a surprise, and, crucially, is not evidence that the chip ban was a failure.</p>
+  <p>The line that actually matters is 5 nm, which is another way to say that the export control that will actually limit China’s long-term development is EUV. Fortunately <a href="https://www.reuters.com/article/us-asml-holding-usa-china-insight-idUSKBN1Z50HN">the Trump administration had already persuaded the Netherlands</a> to not allow the export of EUV machines, which the Biden administration further locked down with its chip ban and further coordination with the Netherlands. The reality is that a lot of chip-making equipment is “multi-nodal”; much of the machinery can be used at multiple nodes, but you must have EUV machines to realize Moore’s Precept, because it is the key piece of technology driving Moore’s Law.</p>
+  <p>By the same token, the A800/H800 loophole was a real one: the H800 is made on TSMC’s third-generation 5 nm process (confusingly called N4), which is to say it is made with EUV; the interconnect limits were meaningful, and would make AI development slower and more costly (because those GPUs would be starved of data more of the time), but it didn’t halt it. This matters because AI is the military application the U.S. should be the most concerned with: a lot of military applications run perfectly fine on existing chips (or even, in the case of guided weaponry, chips that were made decades ago); wars of the future, though, will almost certainly be undergirded by AI, a field that is only just now getting started.</p>
+  <p>This leads to a further point: the payoff from this chip ban will not come immediately. The only way the entire idea makes sense is if Moore’s Law continues to exist, because that means the chips that will be available in five or ten years will be that much faster and cheaper than the ones that exist today, increasing the gap. And, at the same time, the idea also depends on taking Huang’s argument seriously, because AI needs not just power but scale. Fortunately movement on both fronts is headed in the right direction.</p>
+  <p>There remain good arguments against the entire concept of the chip ban, including the obvious fact that China is heavily incentivized to built up replacements from scratch (and could <a href="https://stratechery.com/2022/chips-and-china/">have leverage on the U.S. on the trailing edge</a>): perhaps in 20 years the U.S. will not only have lost its most potent point of leverage but will also see its most cutting edge companies undercut by Chinese competition. That die, though, has long since been cast; the results that matter are not a smartphone in 2023, but the capabilities of 2030 and beyond.</p>
+  <hr class="footnotes" />
+  <ol class="footnotes" style="list-style-type:decimal">
+    <li id="fn1-11727">
+      <p>I am not certain I have the exact right numbers for older nodes, but I have confirmed that the numbers are in the right ballpark <a href="https://stratechery.com/2023/china-chips-and-moores-law/#rf1-11727" class="backlink" title="Return to footnote 1.">↩</a></p>
+    </li>
+    <li id="fn2-11727">
+      <p>TSMC first used EUV with latter iterations of its 7nm process, but that was primarily to move down the learning curve; EUV was not strictly necessary, and the original 7nm process used immersion DUV lithography exclusively <a href="https://stratechery.com/2023/china-chips-and-moores-law/#rf2-11727" class="backlink" title="Return to footnote 2.">↩</a></p>
+    </li>
+  </ol>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2023-11-07</time>
+        <a href="https://nodebe4.github.io/opinion/2023-11-07/The-OpenAI-Keynote/">
+          The OpenAI Keynote
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-11-01</time>
+        <a href="https://nodebe4.github.io/opinion/2023-11-01/Attenuating-Innovation-(AI)/">
+          Attenuating Innovation (AI)
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-09-28</time>
+        <a href="https://nodebe4.github.io/opinion/2023-09-28/AI,-Hardware,-and-Virtual-Reality/">
+          AI, Hardware, and Virtual Reality
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-09-27</time>
+        <a href="https://nodebe4.github.io/opinion/2023-09-27/FTC-Sues-Amazon/">
+          FTC Sues Amazon
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2023-10-17/%E7%A7%A6%E6%99%96-%E4%BB%8E%E9%98%BF%E4%BB%A5%E5%86%B2%E7%AA%81%E5%88%B0%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81-2023-10-17/">
+            前一篇：秦晖：从阿以冲突到巴以冲突（2023-10-17）
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2023-10-18/%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E7%9A%84%E5%A5%91%E6%A9%9F-(Opportunities-in-AI)/">
+            後一篇：人工智慧的契機 (Opportunities in AI)
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2023-10-17/%E7%A7%A6%E6%99%96-%E4%BB%8E%E9%98%BF%E4%BB%A5%E5%86%B2%E7%AA%81%E5%88%B0%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81-2023-10-17/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2023-10-18/%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E7%9A%84%E5%A5%91%E6%A9%9F-(Opportunities-in-AI)/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2023-11-01/Attenuating-Innovation-(AI)/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2023-09-28/AI,-Hardware,-and-Virtual-Reality/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2023-10-17/%E7%A7%A6%E6%99%96-%E4%BB%8E%E9%98%BF%E4%BB%A5%E5%86%B2%E7%AA%81%E5%88%B0%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81-2023-10-17/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2023-10-18/%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E7%9A%84%E5%A5%91%E6%A9%9F-(Opportunities-in-AI)/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2023-11-01/Attenuating-Innovation-(AI)/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2023-09-28/AI,-Hardware,-and-Virtual-Reality/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

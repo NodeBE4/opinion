@@ -1,0 +1,3144 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Meta and Open – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+Meta and Open
+——
+" />
+    <meta property="og:description" content="
+Meta and Open
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Meta and Open" />
+    <meta property="twitter:title" content="Meta and Open" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2024%2Fmeta-and-open%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2024/meta-and-open/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2024/meta-and-open/&text=Meta and Open&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2024/meta-and-open/&title=Meta and Open" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2024/meta-and-open/&title=Meta and Open" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Meta and Open&body=
+Meta and Open
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2024/meta-and-open/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2024/meta-and-open/&title=Meta and Open&caption=
+Meta and Open
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Meta and Open&url=https://stratechery.com/2024/meta-and-open/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Meta and Open</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2024-04-23
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2024/meta-and-open/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1713886352000-->
+<p><a href="https://stratechery.com/2024/meta-and-open/">Meta and Open</a>
+——</p>
+
+<div>
+  <p>Apple released the Vision Pro on February 2; 12 days later Meta CEO Mark Zuckerberg delivered his verdict:</p>
+  <div align="center">
+    <blockquote class="instagram-media" data-instgrm-captioned="" data-instgrm-permalink="https://www.instagram.com/reel/C3TkhmivNzt/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
+      <div style="padding:16px;">
+<a href="https://www.instagram.com/reel/C3TkhmivNzt/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank" rel="noopener"> &lt;/p&gt;            <div style=" display: flex; flex-direction: row; align-items: center;">
+              <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div>
+              <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;">
+                <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div>
+                <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div>
+              </div>
+            </div>
+            <div style="padding: 19% 0;"></div>
+            <div style="display:block; height:50px; margin:0 auto 12px; width:50px;">
+              <svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg>
+            </div>
+            <div style="padding-top: 8px;">
+              <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;">
+View this post on Instagram
+              </div>
+            </div>
+            <div style="padding: 12.5% 0;"></div>
+            <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;">
+              <div>
+                <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div>
+                <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div>
+                <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div>
+              </div>
+              <div style="margin-left: 8px;">
+                <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div>
+                <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div>
+              </div>
+              <div style="margin-left: auto;">
+                <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div>
+                <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div>
+                <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div>
+              </div>
+            </div>
+            <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;">
+              <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div>
+              <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div>
+            </div>
+            <p>&lt;/a&gt;</p>
+            <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/reel/C3TkhmivNzt/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank" rel="noopener">A post shared by Mark Zuckerberg (@zuck)</a></p>
+&lt;/div&gt;&lt;/blockquote&gt;            <p>              <script async="" src="//www.instagram.com/embed.js"></script>
+&lt;/div&gt;              <blockquote>
+                <p>Alright guys, so I finally tried Apple’s Vision Pro. And you know, I have to say that before this, I expected that Quest would be the better value for most people since it’s really good and it’s like seven times less expensive. But after using it I don’t just think that Quest is the better value — I think the Quest is the better product, period.</p>
+              </blockquote>
+              <p>You can watch the video for Zuckerberg’s full — and certainly biased! — take, but the pertinent section for this Article came towards the end:</p>
+              <blockquote>
+                <p>The reality is that every generation of computing has an open and a closed model, and yeah, in mobile, Apple’s closed model won. But it’s not always that way. If you go back to the PC era, Microsoft’s open model was the winner, and in this next generation, Meta is going to be the open model, and I really want to make sure that the open model wins out again. The future is not yet written.</p>
+              </blockquote>
+              <p>John Gruber <a href="https://daringfireball.net/linked/2024/02/14/zuckerberg-vision-pro">asked on Daring Fireball</a>:</p>
+              <blockquote>
+                <p>At the end, he makes the case that each new generation of computing devices has an open alternative and a closed one from Apple. (It’s interesting to think that these rivalries might be best thought of not as closed-vs.-open, but as Apple-vs.-the-rest-of-the-industry.) I’m not quite sure where he’s going with that, though, because I don’t really see how my Quest 3 is any more “open” than my Vision Pro. Are they going to license the OS to other headset makers?</p>
+              </blockquote>
+              <p>Cue Zuckerberg yesterday:</p>
+              <div align="center">
+                <blockquote class="instagram-media" data-instgrm-captioned="" data-instgrm-permalink="https://www.instagram.com/reel/C6EalqUrLa3/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
+                  <div style="padding:16px;">
+<a href="https://www.instagram.com/reel/C6EalqUrLa3/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank" rel="noopener"> &lt;/p&gt;                        <div style=" display: flex; flex-direction: row; align-items: center;">
+                          <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div>
+                          <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;">
+                            <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div>
+                            <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div>
+                          </div>
+                        </div>
+                        <div style="padding: 19% 0;"></div>
+                        <div style="display:block; height:50px; margin:0 auto 12px; width:50px;">
+                          <svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg>
+                        </div>
+                        <div style="padding-top: 8px;">
+                          <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;">
+View this post on Instagram
+                          </div>
+                        </div>
+                        <div style="padding: 12.5% 0;"></div>
+                        <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;">
+                          <div>
+                            <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div>
+                            <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div>
+                            <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div>
+                          </div>
+                          <div style="margin-left: 8px;">
+                            <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div>
+                            <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div>
+                          </div>
+                          <div style="margin-left: auto;">
+                            <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div>
+                            <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div>
+                            <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div>
+                          </div>
+                        </div>
+                        <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;">
+                          <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div>
+                          <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div>
+                        </div>
+                        <p>&lt;/a&gt;</p>
+                        <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/reel/C6EalqUrLa3/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank" rel="noopener">A post shared by Mark Zuckerberg (@zuck)</a></p>
+&lt;/div&gt;&lt;/blockquote&gt;                        <p>                          <script async="" src="//www.instagram.com/embed.js"></script>
+&lt;/div&gt;                          <blockquote>
+                            <p>Some updates on the metaverse today. We are releasing Meta Horizon OS, our operating system that powers Quest virtual and mixed reality headsets, and we are partnering with some of the best hardware companies out there to design new headsets that are optimized for all the different ways that people use this tech.</p>
+                            <p>Now, in every era of computing, there are always open and closed models. Apple’s closed model basically went out. Phones are tightly controlled and you’re kind of locked into what they’ll let you do. But it doesn’t have to be that way. In the PC era, the open model won out. You can do a lot more things, install mods. You got more diversity of hardware, software and more. So our goal is to make it so the open model defines the next generation of computing again with the metaverse, glasses and headsets. That’s why we’re releasing our operating systems so that more companies can build different things on it.</p>
+                          </blockquote>
+                          <p>It’s natural to view this announcement as a reaction to the Vision Pro, or perhaps to <a href="https://twitter.com/GoogleARVR/status/1778120765633659318">Google’s upcoming AR announcment at Google I/O</a>, which is rumored to include <a href="https://www.sammobile.com/news/samsung-xr-headset-features-reveal-google-i-o-2024/">a new Samsung headset</a>. However, I think that this sells Zuckerberg and Meta’s strategic acumen short: this is an obvious next step, of a piece with the company’s recent AI announcements, and a clear missing piece in the overall metaverse puzzle.</p>
+                          <h3 id="metas-market">Meta’s Market</h3>
+                          <p>Any question of strategy starts with understanding your market, so what is Meta’s? This is a trickier question than you might think, particularly on the Internet. It’s a definition that has particularly vexed regulators, as I laid out in <a href="https://stratechery.com/2021/regulators-and-reality/">Regulators and Reality</a>; after describing why the FTC’s extremely narrow definition of “personal social networking” — which excluded everything from Twitter to Reddit to LinkedIn to TikTok to YouTube as Facebook competitors — didn’t make sense, I explained:</p>
+                          <blockquote>
+                            <p>The far bigger problem, though, is that everything I just wrote is meaningless, because everything listed above is a non-rivalrous digital service with zero marginal costs and zero transactional costs; users can and do use all of them at the same time. Indeed, the fact that all of these services can and do exist for the same users at the same time makes the case that Facebook’s market is in fact phenomenally competitive.</p>
+                            <p>What, though, is Facebook competing for? Competition implies rivalry, that is, some asset that can only be consumed by one service to the exclusion of others, and the only rivalrous good in digital services is consumer time and attention. Users only have one set of eyes, and only 24 hours in a day, and every second spent with one service is a second not spent with another (although this isn’t technically true, since you could, say, listen to one while watching another while scrolling a third while responding to notifications from a fourth, fifth, and sixth). Note the percentages in this chart of platform usage:</p>
+                            <p><a href="https://stratechery.com/2021/regulators-and-reality/"><img fetchpriority="high" decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2021/09/realityregulators2-2.png?resize=640%2C368&#038;ssl=1" alt="Users spend more time on TikTok than other social media platforms" width="640" height="368" class="aligncenter size-full wp-image-7540" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2021/09/realityregulators2-2.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/09/realityregulators2-2.png?resize=300%2C173&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/09/realityregulators2-2.png?resize=1024%2C589&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/09/realityregulators2-2.png?resize=768%2C442&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/09/realityregulators2-2.png?resize=1096%2C630&amp;ssl=1 1096w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></a></p>
+                            <p>The total is not 100, it is 372, because none of these services exclude usage of any of the others. And while Facebook is obviously doing well in terms of total users, TikTok in particular looms quite large when it comes to time, the only metric that matters:</p>
+                            <p><a href="https://stratechery.com/2021/regulators-and-reality/"><img decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2021/09/realityregulators2-1.png?resize=640%2C557&#038;ssl=1" alt="Most American adults use multiple online services" width="640" height="557" class="aligncenter size-full wp-image-7539" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2021/09/realityregulators2-1.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/09/realityregulators2-1.png?resize=300%2C261&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/09/realityregulators2-1.png?resize=1024%2C890&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/09/realityregulators2-1.png?resize=768%2C668&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/09/realityregulators2-1.png?resize=725%2C630&amp;ssl=1 725w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></a></p>
+                            <p>This, of course, is why all of these services, including <a href="https://stratechery.com/2021/instagrams-evolution/">Instagram</a>, <a href="https://stratechery.com/2021/snap-earnings-twitter-earnings-additional-notes/">Snapchat</a>, and <a href="https://techcrunch.com/2021/03/18/2126652/">YouTube</a> are trying to mimic TikTok as quickly as possible, which, last time I checked, is a competitive response, not a monopolistic one. You can even grant the argument that Facebook tried to corner the social media market — whatever that is — a decade ago, but you have to also admit that here in 2021 it is clear that they failed. Competition is the surest sign that there was not actually any anticompetitive conduct, and I don’t think it is the FTC’s job to hold Facebook management accountable for failing to achieve their alleged goals.</p>
+                          </blockquote>
+                          <p>This idea that time and attention is the only scarce resource on the Internet, and thus the only market that truly matters, is what undergirds <a href="https://stratechery.com/2024/netflix-earnings-netflixs-reporting-change-netflixs-waiting-game/">Netflix’s shift in reporting away from members and towards engagement</a>; the company has been saying for years that its competitors were not just other streaming services, but everything from YouTube to Twitch streaming to video games to social media. That has always been true, if you squint, but on the Internet, where everything is only a click (or app) away, it’s tangible.</p>
+                          <h3 id="metas-differentiation">Meta’s Differentiation</h3>
+                          <p>Defining the relevant market as time and attention has surprising implications, that even companies raised on the Internet, including Meta, sometimes miss. Indeed, there was a time when Meta might have agreed with the FTC’s definition, because the company made competitive decisions — both big successes and big mistakes — predicated on the assumption that your personal social network was the market that mattered.</p>
+                          <p>Start with an Article I wrote in 2015 entitled <a href="https://stratechery.com/2015/facebook-and-the-feed/">Facebook and the Feed</a>:</p>
+                          <blockquote>
+                            <p>Zuckerberg is quite clear about what drives him; he wrote in <a href="http://www.sec.gov/Archives/edgar/data/1326801/000119312512034517/d287954ds1.htm#toc287954_10">Facebook’s S-1</a>:</p>
+                            <blockquote>
+                              <p>Facebook was not originally created to be a company. It was built to accomplish a social mission – to make the world more open and connected.</p>
+                            </blockquote>
+                            <p>I am starting to wonder if these two ideas — company versus mission — might not be more in tension now than they have ever been in the past…I suspect that Zuckerberg for one subscribes to the first idea: that people find what others say inherently valuable, and that it is the access to that information that makes Facebook indispensable. Conveniently, this fits with his mission for the company. For my part, though, I’m not so sure. It’s just as possible that Facebook is compelling for the content it surfaces, regardless of who surfaces it. And, if the latter is the case, then Facebook’s engagement moat is less its network effects than it is that for almost a billion users Facebook is their most essential digital habit: their door to the Internet.</p>
+                          </blockquote>
+                          <p>A year later and Facebook responded to what was then its most pressing threat, Snapchat, by putting Stories into Instagram. I wrote in <a href="https://stratechery.com/2016/the-audacity-of-copying-well/">The Audacity of Copying Well</a>:</p>
+                          <blockquote>
+                            <p>For all of Snapchat’s explosive growth, Instagram is still more than double the size, with far more penetration across multiple demographics and international users. Rather than launch a “Stories” app without the network that is the most fundamental feature of any app built on sharing, Facebook is leveraging one of their most valuable assets: Instagram’s 500 million users.</p>
+                            <p>The results, at least anecdotally, speak for themselves: I’ve seen more Instagram stories in the last 24 hours than I have Snapchat ones. Of course a big part of this is the novelty aspect, which will fade, and I follow a lot more people on Instagram than I do on Snapchat. That last point, though, is, well, the point: I and my friends are not exactly Snapchat’s target demographic today, but for the service to reach its potential we will be eventually. Unless, of course, Instagram Stories ends up being good enough.</p>
+                          </blockquote>
+                          <p>It was good enough — Instagram arrested Snapchat’s growth, while boosting its own engagement and user base — so score one for Zuckerberg, right? Instagram had a better network, so they won…or did they simply have more preexisting usage, which while based on a network, was actually incidental to it?</p>
+                          <p>Fast forward a few years and now Facebook’s big competitor was TikTok; I wrote in 2020’s <a href="https://stratechery.com/2020/the-tiktok-war/">The TikTok War</a>:</p>
+                          <blockquote>
+                            <p>All of this explains what makes TikTok such a breakthrough product. First, humans like video. Second, TikTok’s video creation tools were far more accessible and inspiring for non-professional videographers. The crucial missing piece, though, is that TikTok isn’t really a social network…by expanding the library of available video from those made by your network to any video made by anyone on the service, Douyin/TikTok leverages the sheer scale of user-generated content to generate far more compelling content than professionals could ever generate, and relies on its algorithms to ensure that users are only seeing the cream of the crop.</p>
+                          </blockquote>
+                          <p>In <a href="https://stratechery.com/2020/xi-jinping-thought-facebooks-blindspot-the-moat-map-revisited/">a follow-up Update</a> I explained why this was a blindspot for Facebook:</p>
+                          <blockquote>
+                            <p>First, Facebook views itself first-and-foremost as a social network, so it is disinclined to see that as a liability. Second, that view was reinforced by the way in which Facebook took on Snapchat. The point of <em>The Audacity of Copying Well</em> is that Facebook leveraged Instagram’s social network to halt Snapchat’s growth, which only reinforced that the network was Facebook’s greatest asset, making the TikTok blindspot even larger.</p>
+                          </blockquote>
+                          <p>I am, in the end, actually making the same point as the previous section: Meta’s relevant market is user time and attention; it follows that Meta’s differentiation is the fact it marshals so much user time and attention, and that said marshaling was achieved via social networking is interesting but not necessarily strategically relevant. Indeed, Instagram in the end simply copied TikTok, surfacing content from anywhere on your network, and did so to great success.</p>
+                          <h3 id="llama-3">Llama 3</h3>
+                          <p>This is the appropriate framework to understand Meta’s AI strategy with its Llama family of models: Llama 3 was <a href="https://ai.meta.com/blog/meta-llama-3/">released last week</a>, and like Llama 2, it is open source, or, perhaps more accurately, open weights (with the caveat that hyperscalers <a href="https://stratechery.com/2023/streaming-residuals-and-spotify-llama-2-open-sourced-llamas-license/">need a license</a> to offer Llama as a managed model). I explained why open weights makes sense in a <a href="https://stratechery.com/2023/free-meta-open-sources-another-ai-model-moats-and-open-source-apple-and-meta/">May 2023 Update</a> predicting the Llama 2 release:</p>
+                          <blockquote>
+                            <p>Meta isn’t selling its capabilities; rather, it sells a canvas for users to put whatever content they desire, and to consume the content created by other users. It follows, then, that Meta ought to be fairly agnostic about how and where that content is created; by extension, if Meta were to open source its content creation models, the most obvious place where the content of those models would be published is on Meta platforms. To put it another way, Meta’s entire business is predicated on content being a commodity; making creation into a commodity as well simply provides more grist for the mill.</p>
+                            <p>What is compelling about this reality, and the reason I latched onto Zuckerberg’s comments in that call, is that Meta is uniquely positioned to overcome all of the limitations of open source, from training to verification to RLHF to data quality, precisely because the company’s business model doesn’t depend on having the best models, but simply on the world having a lot of them.</p>
+                          </blockquote>
+                          <p>The best analogy for Meta’s approach with Llama is what the company did in the data center. Google had revolutionized data center design in the 2000s, pioneering the use of commodity hardware with software-defined functionality; Facebook didn’t have the scale to duplicate Google’s differentiation in 2011, so it went in the opposite direction and created the Open Compute Project. Zuckerberg explained what happened next in <a href="https://www.dwarkeshpatel.com/p/mark-zuckerberg">an interview with Dwarkesh Patel</a>:</p>
+                          <blockquote>
+                            <p>We don’t tend to open source our product. We don’t take the code for Instagram and make it open source. We take a lot of the low-level infrastructure and we make that open source. Probably the biggest one in our history was our Open Compute Project where we took the designs for all of our servers, network switches, and data centers, and made it open source and it ended up being super helpful. Although a lot of people can design servers the industry now standardized on our design, which meant that the supply chains basically all got built out around our design. So volumes went up, it got cheaper for everyone, and it saved us billions of dollars which was awesome.</p>
+                          </blockquote>
+                          <p>Zuckerberg then made the analogy I’m referring to:</p>
+                          <blockquote>
+                            <p>So there’s multiple ways where open source could be helpful for us. One is if people figure out how to run the models more cheaply. We’re going to be spending tens, or a hundred billion dollars or more over time on all this stuff. So if we can do that 10% more efficiently, we’re saving billions or tens of billions of dollars. That’s probably worth a lot by itself. Especially if there are other competitive models out there, it’s not like our thing is giving away some kind of crazy advantage.</p>
+                          </blockquote>
+                          <p>It’s not just about having a better model, though: it’s about ensuring that Meta doesn’t have a dependency on any one model as well. Zuckerberg continued:</p>
+                          <blockquote>
+                            <p>Here’s one analogy on this. One thing that I think generally sucks about the mobile ecosystem is that you have these two gatekeeper companies, Apple and Google, that can tell you what you’re allowed to build. There’s the economic version of that which is like when we build something and they just take a bunch of your money. But then there’s the qualitative version, which is actually what upsets me more. There’s a bunch of times when we’ve launched or wanted to launch features and Apple’s just like “nope, you’re not launching that.” That sucks, right? So the question is, are we set up for a world like that with AI? You’re going to get a handful of companies that run these closed models that are going to be in control of the APIs and therefore able to tell you what you can build?</p>
+                            <p>For us I can say it is worth it to go build a model ourselves to make sure that we’re not in that position. I don’t want any of those other companies telling us what we can build. From an open source perspective, I think a lot of developers don’t want those companies telling them what they can build either. So the question is, what is the ecosystem that gets built out around that? What are interesting new things? How much does that improve our products? I think there are lots of cases where if this ends up being like our databases or caching systems or architecture, we’ll get valuable contributions from the community that will make our stuff better. Our app specific work that we do will then still be so differentiated that it won’t really matter. We’ll be able to do what we do. We’ll benefit and all the systems, ours and the communities’, will be better because it’s open source.</p>
+                          </blockquote>
+                          <p>There is another analogy here, which is Google and Android; Bill Gurley wrote the definitive Android post in 2011 on his blog <a href="https://abovethecrowd.com/2011/03/24/freight-train-that-is-android/">Above the Crowd</a>:</p>
+                          <blockquote>
+                            <p>Android, as well as Chrome and Chrome OS for that matter, are not “products” in the classic business sense. They have no plan to become their own “economic castles.” Rather they are very expensive and very aggressive “moats,” funded by the height and magnitude of Google’s castle. Google’s aim is defensive not offensive. They are not trying to make a profit on Android or Chrome. They want to take any layer that lives between themselves and the consumer and make it free (or even less than free). Because these layers are basically software products with no variable costs, this is a very viable defensive strategy. In essence, they are not just building a moat; Google is also scorching the earth for 250 miles around the outside of the castle to ensure no one can approach it. And best I can tell, they are doing a damn good job of it.</p>
+                          </blockquote>
+                          <p>The positive economic impact of Android (and Chrome) is massive: the company pays Apple around $20 billion a year for default placement on about 30% of worldwide smartphones (and Safari on Apple’s other platforms), which accounts for about 40% of the company’s overall spend on traffic acquisition costs across every other platform and browser. That total would almost certainly be much higher — if Google were even allowed to make a deal, which might not be the case if Microsoft controlled the rest of the market — absent Android and Chrome.</p>
+                          <h3 id="metaverse-motivations">Metaverse Motivations</h3>
+                          <p>Android is also a natural segue to this news about Horizon OS. Meta is, like Google before it, a horizontal services company funded by advertising, which means it is incentivized to serve everyone, and to have no one between itself and its customers. And so Meta is, like Google before it, spending a huge amount of money to build a contender for what Zuckerberg believes is a future platform. It’s also fair to note that Meta is spending a lot more than the $40 billion Google has put into Android, but I think it’s reasonable: the risk — and opportunity — for Meta in the metaverse is even higher than the risk Google perceived in smartphones.</p>
+                          <p>Back in 2013, when Facebook was facing the reality that mobile was ending its dreams of being a platform in its own right, I wrote <a href="https://stratechery.com/2013/mobile-makes-facebook-just-an-app-thats-great-news/">Mobile Makes Facebook Just an App; That’s Great News</a>:</p>
+                          <blockquote>
+                            <p>First off, mobile apps own the entire (small) screen. You see nothing but the app that you are using at any one particular time. Secondly, mobile apps are just that: apps, not platforms. There is no need for Facebook to “reserve space” in their mobile apps for partners or other apps. That’s why my quote above is actually the bull case for Facebook.</p>
+                            <p>Specifically, it’s better for an advertising business to not be a platform. There are certain roles and responsibilities a platform must bear with regards to the user experience, and many of these work against effective advertising. That’s why, for example, you don’t see any advertising in Android, despite the fact it’s built by the top advertising company in the world. A Facebook app owns the entire screen, and can use all of that screen for what benefits Facebook, and Facebook alone.</p>
+                          </blockquote>
+                          <p>This optimism was certainly borne out by Facebook’s astronomical growth over the last decade, which has been almost entirely about exploiting this mobile advertising opportunity. It also, at first glance, calls into question the wisdom of building Horizon OS, given the platform advertising challenges I just detailed.</p>
+                          <p>The reality, though, is that a headset is fundamentally different than a smartphone: the latter is something you hold in a hand, and which an app can monopolize; the former monopolizes your vision, reducing an app to a window. Consider this PR image of the Vision Pro:</p>
+                          <p><a href="https://www.apple.com/newsroom/2023/06/introducing-apple-vision-pro/"><img decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/04/metaopen-1.png?resize=640%2C377&#038;ssl=1" alt="Meta doesn&#039;t want to be just an app" width="640" height="377" class="aligncenter size-full wp-image-12837" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/04/metaopen-1.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/04/metaopen-1.png?resize=300%2C176&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/04/metaopen-1.png?resize=1024%2C602&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/04/metaopen-1.png?resize=768%2C452&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/04/metaopen-1.png?resize=1071%2C630&amp;ssl=1 1071w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></a></p>
+                          <p>This isn’t the only canvas for apps in the Vision Pro: apps can also take over the entire view and provide an immersive experience, and I can imagine that Meta will, when and if the Vision Pro gains meaningful marketshare, build just that; remember, Meta is a horizontal services company, and that means serving everyone. Ultimately, though, Zuckerberg sees the chief allure of the metaverse as being about presence, which means the sensation of feeling like you are in the same place as other people enjoying the same experiences and apps; that, by extension, means owning the layer within which apps live — it means owning your entire vision.</p>
+                          <p>Just as importantly — probably most importantly, to Zuckerberg — owning the OS means not being subject to Apple’s dictate on what can or cannot be built, or tracked, or monetized. And, as Zuckerberg noted in that interview, Meta isn’t particularly keen to subject itself to Google, either. It might be tempting for Meta’s investors to dismiss these concerns, but <a href="https://stratechery.com/2024/meta-earnings-meta-ai-and-att-metas-new-playbook/">ATT should have focused minds</a> about just how much this lack of control can cost.</p>
+                          <p>Finally, not all devices will be platforms: Meta’s RayBan sunglasses, for example, could not be “just an app”; what they could be is that much better of a product <a href="https://stratechery.com/2024/more-on-humane-limitless-the-iphone-integration-barrier/">if Apple made public the same sort of private APIs it makes available to its own accessories</a>. Meta isn’t going to fix its smartphone challenges in that regard, but it is more motivation to do their own thing.</p>
+                          <h3 id="horizon-os">Horizon OS</h3>
+                          <p>Motivations, of course, aren’t enough: unlike AI models, where Meta wants a competitive model, but will achieve its strategic goals as long as a closed model doesn’t win, the company does actually need to win in the metaverse by controlling the most devices (assuming, of course, that the metaverse actually becomes a thing).</p>
+                          <p>The first thing to note is that pursuing an Apple-like fully-integrated model would actually be bad for Meta’s larger goals, which, as a horizontal services company, is reaching the maximum number of people possible; there is a reason that the iPhone, by far the most dominant integrated product ever, still only has about 30% marketshare worldwide. Indeed, I would pushback on Zuckerberg’s continued insistence that Apple “won” mobile: they certainly did as far as revenue and profits go, but the nature of their winning is not the sort of winning that Meta should aspire to; from a horizontal services company perspective, Android “won” because it has the most marketshare.</p>
+                          <p>Second, the best route to achieving that marketshare is exactly what Meta announced: licensing their operating system to device manufacturers who are not only motivated to sell devices, but also provide the necessary R&amp;D and disparate channels to develop headsets for a far wider array of customers and use cases.</p>
+                          <p>Third, Meta does have the opportunity to actually accomplish what pundits were sure would befall the iPhone: monopolize developer time and attention. A big reason why pundits were wrong about the iPhone, back when they were sure that <a href="https://stratechery.com/2013/clayton-christensen-got-wrong/">it was doomed to disruption</a>, was that they misunderstood history. I wrote in 2013’s <a href="https://stratechery.com/2013/apple-open-and-learning-from-history/">The Truth About Windows Versus the Mac</a>:</p>
+                          <blockquote>
+                            <p>You’ve heard the phrase, “No one ever got fired for buying IBM.” That axiom in fact predates Microsoft or Apple, having originated during IBM’s System/360 heyday. But it had a powerful effect on the PC market. In the late 1970s and very early 1980s, a new breed of personal computers were appearing on the scene, including the Commodore, MITS Altair, Apple II, and more. Some employees were bringing them into the workplace, which major corporations found unacceptable, so IT departments asked IBM for something similar. After all, “No one ever got fired…”</p>
+                            <p>IBM spun up a separate team in Florida to put together something they could sell IT departments. Pressed for time, the Florida team put together a minicomputer using mostly off-the shelf components; IBM’s RISC processors and the OS they had under development were technically superior, but Intel had a CISC processor for sale immediately, and a new company called Microsoft said their OS — DOS — could be ready in six months. For the sake of expediency, IBM decided to go with Intel and Microsoft.</p>
+                            <p>The rest, as they say, is history. The demand from corporations for IBM PCs was overwhelming, and DOS — and applications written for it — became entrenched. By the time the Mac appeared in 1984, the die had long since been cast. Ultimately, it would take Microsoft a decade to approach the Mac’s ease-of-use, but Windows’ DOS underpinnings and associated application library meant the Microsoft position was secure regardless.</p>
+                            <p>Evans is correct: the market today for mobile phones is completely different than the old market for PCs. And, so is Apple’s starting position; iOS was the first modern smartphone platform, and has always had the app advantage. Neither was the case in PCs. The Mac didn’t lose to Windows; it failed to challenge an already-entrenched DOS. The lessons that can be drawn are minimal.</p>
+                          </blockquote>
+                          <p>The headset market is the opposite of the smartphone market: Meta has been at this for a while, and has a much larger developer base than Apple does, particularly in terms of games. It’s not overwhelming like Microsoft’s DOS advantage already was, to be sure, and I’m certainly not counting out Apple, but this also isn’t the smartphone era where Apple had a multi-year head start.</p>
+                          <p>To that end, it’s notable that Meta isn’t just licensing Horizon OS, it is also opening up the allowable app model. From the <a href="https://developer.oculus.com/blog/a-more-open-ecosystem-for-developers/">Oculus Developer blog</a>:</p>
+                          <blockquote>
+                            <p>We’re also significantly changing the way we manage the Meta Horizon Store. We’re shifting our model from two independent surfaces, Store and App Lab, to a single, unified, open storefront. This shift will happen in stages, first by making many App Lab titles available in a dedicated section of the Store, which will expand the opportunity for those titles to reach their audiences. In the future, new titles submitted will go directly to the Store, and App Lab will no longer be a separate distribution channel. All titles will still need to meet basic technical, content, and privacy requirements to publish to the Store. Titles are reviewed at submission and may be re-reviewed as they scale to more people. Like App Lab today, all titles that meet these requirements will be published.</p>
+                          </blockquote>
+                          <p>App Lab apps are a middle ground between side-loading (which Horizon OS supports) and normal app store distribution: developers get the benefit of an App Store (easy install, upgrades, etc.) without having to go through full App Review; clear a basic bar and your app will be published. This allows for more experimentation.</p>
+                          <p>What it does not allow for is new business models: App Lab apps, if they monetize, still must use Horizon OS’s in-app payment system. To that end, I think that Meta should consider going even further, and offering up a truly open store: granted, this will reduce the long-run monetization potential of Horizon OS, but it seems to me like that would be an excellent problem to have, given it would mean there was a long-run to monetize in the first place.</p>
+                          <h3 id="the-meaning-of-open">The Meaning of Open</h3>
+                          <p>This remaining limitation does get at the rather fuzzy meaning of “open”: in the case of Horizon OS, Meta means a licensing model for its OS and more freedom for developers relative to Apple; in the case of Llama Meta means open weights and making models into a commodity; in the case of data centers Meta means open specifications, and in the case of projects like React or PyTorch Meta means true open source code.</p>
+                          <p>Meta, in other words, is not taking some sort of philosophical stand: rather, they are clear-eyed about what their market is (time and attention), and their core differentiation (horizontal services that capture more time and attention than anyone); everything that matters in pursuit of that market and maintenance of that differentiation is worth investing in, and if “openness” means that investment goes further or performs better or handicaps a competitor, then Meta will be open.</p>
+ &lt;/div&gt;</p>
+</a>
+                  </div>
+                </blockquote>
+              </div>
+</p>
+</a>
+      </div>
+    </blockquote>
+  </div>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2024-05-13</time>
+        <a href="https://nodebe4.github.io/opinion/2024-05-13/The-Great-Flattening/">
+          The Great Flattening
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-04-29</time>
+        <a href="https://nodebe4.github.io/opinion/2024-04-29/Meta-and-Reasonable-Doubt/">
+          Meta and Reasonable Doubt
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-04-16</time>
+        <a href="https://nodebe4.github.io/opinion/2024-04-16/MKBHDs-For-Everything/">
+          MKBHDs For Everything
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-04-10</time>
+        <a href="https://nodebe4.github.io/opinion/2024-04-10/Gemini-1.5-and-Google-s-Nature/">
+          Gemini 1.5 and Google’s Nature
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2024-04-20/%E7%B6%93%E5%85%B8%E9%87%8D%E6%BA%AB-%E6%9D%8E%E8%82%85%E6%8C%91%E6%88%B0%E5%91%A8%E5%AD%9D%E6%AD%A3-%E5%B0%88%E5%88%B6%E7%8D%A8%E8%A3%81%E6%98%AF%E6%80%8E%E6%A8%A3%E7%85%89%E6%88%90%E7%9A%84/">
+            前一篇：🌟【經典重溫】李肅挑戰周孝正：專制獨裁是怎樣煉成的
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2024-04-23/%E7%B6%93%E5%85%B8%E9%87%8D%E6%BA%AB-%E6%9D%8E%E8%82%85%E6%8C%91%E6%88%B0%E5%91%A8%E5%AD%9D%E6%AD%A3-%E5%85%B1%E7%94%A2%E9%BB%A899%E5%B9%B4%E5%8A%9F%E9%81%8E%E6%98%AF%E9%9D%9E/">
+            後一篇：🌟【經典重溫】李肅挑戰周孝正：共產黨99年功過是非
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2024-04-20/%E7%B6%93%E5%85%B8%E9%87%8D%E6%BA%AB-%E6%9D%8E%E8%82%85%E6%8C%91%E6%88%B0%E5%91%A8%E5%AD%9D%E6%AD%A3-%E5%B0%88%E5%88%B6%E7%8D%A8%E8%A3%81%E6%98%AF%E6%80%8E%E6%A8%A3%E7%85%89%E6%88%90%E7%9A%84/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2024-04-23/%E7%B6%93%E5%85%B8%E9%87%8D%E6%BA%AB-%E6%9D%8E%E8%82%85%E6%8C%91%E6%88%B0%E5%91%A8%E5%AD%9D%E6%AD%A3-%E5%85%B1%E7%94%A2%E9%BB%A899%E5%B9%B4%E5%8A%9F%E9%81%8E%E6%98%AF%E9%9D%9E/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2024-04-29/Meta-and-Reasonable-Doubt/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2024-04-16/MKBHDs-For-Everything/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2024-04-20/%E7%B6%93%E5%85%B8%E9%87%8D%E6%BA%AB-%E6%9D%8E%E8%82%85%E6%8C%91%E6%88%B0%E5%91%A8%E5%AD%9D%E6%AD%A3-%E5%B0%88%E5%88%B6%E7%8D%A8%E8%A3%81%E6%98%AF%E6%80%8E%E6%A8%A3%E7%85%89%E6%88%90%E7%9A%84/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2024-04-23/%E7%B6%93%E5%85%B8%E9%87%8D%E6%BA%AB-%E6%9D%8E%E8%82%85%E6%8C%91%E6%88%B0%E5%91%A8%E5%AD%9D%E6%AD%A3-%E5%85%B1%E7%94%A2%E9%BB%A899%E5%B9%B4%E5%8A%9F%E9%81%8E%E6%98%AF%E9%9D%9E/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2024-04-29/Meta-and-Reasonable-Doubt/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2024-04-16/MKBHDs-For-Everything/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

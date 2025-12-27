@@ -1,0 +1,4331 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>扫盲 Firefox 定制——从“user.js”到“omni.ja” – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+
+      扫盲 Firefox 定制——从“user.js”到“omni.ja”  
+  
+    
+      
+    
+  
+  
+最近一年，写过好几篇涉及“Web 安全”的博文。这些博文或多或少都会提及“Firefox 的定制”。考虑到某些读者对这方面不太了解，单独写一篇扫盲。  如果你从来不用 Firefox 浏览器，本教程就不用看了（以免浪费时间）。  本文主要面向不太熟悉 Firefox 的菜鸟；对于 Firefox 的老鸟，顶多只需要看“高级话题”相关的章节。  
+       
+        ★预备知识 
+       ◇“浏览器实例”（profile）是啥？ 
+  Firefox 支持【多实例】（多个 profile）。你可以把“profile”这个概念通俗理解为：“独立的浏览器环境”。  也就是说，实例之间是【互相隔离】滴，每个实例都有自己【独立的】“书签、浏览历史、下载历史、cookies ......”  就算你从来没有创建过实例，只要你通过 Firefox 上网，你的 Firefox 至少会有一个实例（也就是你正在用的这个）。        ◇如何找到当前实例的目录？ 
+  每个实例（profile）都对应一个目录，属于该实例的那些东西（书签、浏览历史、下载历史、cookies ...）全都存储在该目录下。  要想查看你正在使用的 Firefox 实例对应的目录，很简单：  1. 在浏览器地址栏输入 
+   about:support
+   然后敲回车  2. 这时候会显示一个支持页面，其中有一项 
+   Profile Directory
+   （俺用的是英文版，中文版的叫法略有不同），对应的就是【当前实例的目录】。         ★扫盲“配置选项”（Preferences） 
+       ◇啥是“配置选项”？ 
+  “配置选项”也叫“首选项”，洋文称之为“Preferences”。  通俗地说就是：Firefox 提供了一大堆可供用户定制的参数。通过修改这些参数，可以对 Firefox 进行【全方位】定制。  每个 Preference 包含如下几个要素：   
+   名称
+    每个 Preference 的名称必定是【唯一】滴。  “名称”由英文单词构成，单词之间以“小数点”或“下划线”分隔。   
+   数据类型
+    Preferences 的“数据类型”必须是“布尔型、整数型、字符串型”这三者之一。  “布尔型”的值只能是 true 或 false。  “整数型”的值可以是负数。   
+   默认值
+    每个 Preference 都有个“默认值”。  “默认值”包含在 Firefox 的安装包里面。  绝大多数用户并【不需要】去修改“默认值”。  （注：极少数有此需求的读者，可以去本文的  高级话题——autoconfig  这个章节）   
+   当前值
+    每个 Preference 都对应某个“当前值”。  当你修改 Preference 的时候，修改的就是它的“当前值”。  一开始的时候，每个 Preference 的“当前值”就等于它的“默认值”；如果该 Preference 被定制了（修改了），其“当前值”与“默认值”就有可能不同。        ◇谁可以修改“配置选项”？ 
+  首先，Firefox 的用户当然可以修改配置选项（具体如何做，后续章节会细聊）  除了用户，【浏览器扩展】也可以添加或修改“配置选项”。某些扩展会提供定制界面，让用户设定某些参数。这些参数也保存在浏览器的 Preference 里面。  有必要强调一下：网站上的 JS 是【无法修改】Preference 滴！  道理很简单：因为 Firefox 的 Preference 中保存了很多与安全性相关的配置参数。如果允许网站的 JS 修改这些参数，将会成为巨大的安全隐患。        ◇为啥要修改“配置选项”？ 
+  俺总结下来，大致有如下几种需求：  
+   1. 安全加固
+    你可以通过定制很多的 Preferences 以大大强化 Firefox 的安全性（包括隐私防护能力）。  每次 Firefox 的新版本增加了某个比较重要的安全相关的定制选项，俺会在每季度的《近期安全动态和点评》提醒大伙儿。  
+   2. 性能优化
+    通过定制 Preference 可以优化性能（包括：“网络传输、内存使用、界面渲染”等方面）  
+   3. 易用性
+    通过定制 Preference，你还可以改进 Firefox 界面的易用性。         ★“about:config”界面 
+       ◇进入界面 
+  修改 Firefox 的 Preference，最简单的方式就是“about:config”界面了。  你在浏览器地址栏输入 
+   about:config
+   然后敲回车，就进入该界面。  （提醒一下：打开该界面时，你可能会看到一个警告提示，别慌张）   “about:config”界面主要是个的表格，共4列，分别是：  第1列：Preference 的“名称”  第2列：Preference 的“状态”（如果显示“default”表示该 Preference 还没被修改过，显示“modified”表示已经被改过）  第3列：Preference 的“数据类型”  第4列：Preference 的“当前值”        ◇【筛选/过滤】Preferences 
+  该界面默认会列出 Firefox【所有的】Preference（成百上千个）。某些菜鸟一看到这个架势，可能会有点晕。  别慌，界面上方有一个搜索框，可以帮你进行【筛选/过滤】。  该搜索框针对 Preference 的名称进行【模糊匹配】。比如说：你在搜索框中输入 
+   network
+   ，那么界面上就只列出名称中包含 
+   network
+   的那些 Preferences。        ◇【修改】某个 Preference 的值 
+  对于“布尔型”的 Preference，你双击 Preference 所在的这行，就可以修改它的“当前值”（在 true 与 false 之间切换）  对于其它数据类型，双击 Preference 所在的行，会弹出一个对话框，让你输入【新的】数值。        ◇【重置】某个 Preference 的值 
+  所谓的“重置”（reset）就是指“恢复默认值”。  （对于已经被改过的 Preference）选中它所在的那行；点右键；在快捷菜单上有一项“Reset”（重置）；使用这个菜单项就可以把该选项重新恢复成默认值。        ◇【添加】一个新的 Preference 
+  在“about:config”界面的表格上点右键；在快捷菜单上有一项“New”（新增）；可以让你添加一个新的 Preference。  添加时会让你指定新 Preference 的“名称”和“数值”。        ◇一个小小的练习——如何去掉“about:config”界面的警告 
+  你在“about:config”界面的搜索框中输入 
+   general.warnOnAboutConfig
+   ，此时只会过滤出一个 Preference，这个 Preference 是“布尔型”。当它的值是 
+   true
+   ，每次你打开“about:config”界面都会显示警告提示；反之，则不显示。  你可以修改这个 Preference 的值。修改之后再【重新打开】“about:config”界面，体会一下效果。         ★“prefs.js”配置文件 
+       ◇功能简介 
+  每个 Firefox 实例中都有名为 
+   prefs.js
+   的配置文件。这个文件保存了当前实例中【所有】Preferences 的设置。        ◇文件位置 
+  该文件位于每个【实例目录】下。        ◇文件格式 
+  该文件的扩展名是 
+   .js
+   ，说明其内容是 javascript 语法。  在 javascript 语法中，任何一行中如果出现【双斜杠】 
+   //
+   ，那么“从双斜杠一直到行尾”都算【注释】；另外，包含在 
+   /*
+   和 
+   */
+   之间的内容也是【注释】。（注：第二种注释可以跨越多行）  除了注释之外，该文件的每一行有效代码对应一个 Preferences。文件中的每个有效代码行全都是如下这个样子：      
+      user_pref("配置项名称", 配置项数值);
+      
+    
+  由于每一个 Preferences 的名称都是字符串，因此上述代码中的 
+   配置项名称
+   总是包含在【半角引号】中。  如果某个 Preferences 的数据类型属于“字符串型”，那么上述代码中的“配置项数值”也要包含在【半角引号】中；否则，就不需要使用引号。        ◇注意事项！！！ 
+  
+   【不要】直接修改
+   
+    prefs.js
+   
+   文件！！！
+    如果你想通过【配置文件】的方式定制 Firefox 的 Preferences，请使用【user.js】（参见下一个章节）。         ★“user.js”配置文件 
+       ◇功能简介 
+  Firefox 使用名为 
+   user.js
+   的文件对 Preferences 进行个性化定制。        ◇文件位置 
+  该文件位于【实例目录】下。请注意： 
+   默认情况下【没有】这个文件！
+    如果你想用这种方式定制 Firefox，需要在【当前实例】的目录下【手动创建】该文件，然后往这个文件中添加代码。        ◇文件格式 
+  该文件的格式与 
+   prefs.js
+   相同。具体介绍参见“前一个章节”。        ◇配置举例 
+  前面介绍“about:config”界面时，已经让你做了一个小小的练习。  现在，咱们在“user.js”中继续进行这个练习——  当你创建好一个空的 
+   user.js
+   文件，在文件中添加如下代码，并存盘。      
+      user_pref("general.warnOnAboutConfig", false);
+      
+    
+ （注：上述代码中的“括号、引号、逗号、分号”必须都是【半角符号】）  上述文件存盘之后，你把 Firefox 重新启动，然后再打开“about:config”界面，这时候就不会再有那个讨厌的警告信息了。        ◇【重置】某个 Preference 的值 
+  如果你已经在“user.js”中修改过某个 Preference，之后又想恢复其默认值。请参照如下步骤：  1. 先在“user.js”中把这个 Preference 的配置“删除”或“注释掉”；  2. 重启浏览器；  3. 再到“about:config”界面进行重置操作。        ◇注意事项！！！ 
+  当你要通过这种方式修改某个选项，先搞清楚这个选项的含义和用途，并了解可能的【副作用】。         ★上述三种配置方式的【原理】 
+       ◇加载配置 
+  当 Firefox 启动的时候，会读取 
+   user.js
+   和 
+   prefs.js
+   ，拿到这两个文件中的 Preferences 配置，并保存在内存中。  如果发现这两个文件的配置有冲突，以 
+   user.js
+   为准（也就是说：“ 
+   user.js
+   的配置”会覆盖“ 
+   prefs.js
+   的配置”）。  如果同一个配置项在某个文件中出现多次，后面的代码行会覆盖前面的代码行。        ◇修改配置 
+  当你打开“about:config”界面，Firefox 会把内存中的 Preferences 信息显示给你看。  如果你在这个界面上进行了修改，修改的结果会保存在内存中，同时也会保存到 
+   prefs.js
+   文件中。  另外，Firefox【不会】去修改你用于定制的 
+   user.js
+   文件。         ★高级话题——autoconfig 
+  “高级话题”是专门针对“Firefox 老鸟”，尤其是那些具有“geek 精神”（善于折腾）的用户。  （熟悉本博客的读者应该知道：俺一向鼓励【折腾】，并写过一篇博文《  聊聊【折腾】的重要性  》）  至于菜鸟嘛，先搞定前面章节介绍的内容，学会怎么用“user.js”；然后再考虑本文的“高级话题”。  考虑到本章节的特点，“高级话题”的介绍只是【点到为止】——对于【善折腾】的读者，俺只需给出一个方向，他们自然能沿着这个方向走得足够远。        ◇“user.js”的局限性 
+  通过“user.js”，虽然可以让你定制每一个 Preference；但至少有如下局限性：   
+   局限性1——【无法】修改某个 Preference 的【默认值】
+    请注意：在 
+   user.js
+   中修改的是【当前值】。不管“当前值”如何变，“默认值”【没】变。  在某些特殊场合，你可能想要定制 Preference 的【默认值】。   
+   局限性2——【无法】锁定某个 Preference
+    所谓的“锁定”就是“禁止修改”的意思。  比如说：某个第三方扩展会修改某个 Preference 的值；但你又不希望这个 Preference 被修改。这时候就可以把这个 Preference【锁定】。        ◇比“user.js”更牛逼的【autoconfig】 
+  Firefox 的扩展能力及其强大，当然能满足上述这些怪异的需求。  Mozilla 提供了名为【autoconfig】的机制，可以更进一步地定制 Preference。具体参见 Mozilla 官网的“  这篇教程  ”（洋文）。  在 
+   user.js
+   中，咱们只能使用 
+   user_pref
+   这个函数；而在【autoconfig】这种定制方式中，还提供了更多的函数，至少包括如下（代码中绿色的部分是注释）：      
+      defaultPref("配置项名称", 配置项数值);  // 该函数用于：定制配置项的【默认值】
+lockPref("配置项名称", 配置项数值);  // 该函数用于：设置配置项的默认值并【锁定】
+unlockPref("配置项名称");  // 该函数用于：【解锁】配置项
+clearPref("配置项名称");  //  该函数用于：把配置项的【当前值】恢复为【默认值】
+      
+    
+        ★高级话题——定制“omni.ja” 
+       ◇“autoconfig”的局限性 
+  “autoconfig”虽然比“user.js”更牛逼，但其能力只局限于 Preference 相关的定制。  有些你想定制的东西（比如：默认的键盘快捷键）【并不】保存在 Preference 中——也就是说，即便你去捣鼓“autoconfig”也【搞不定】！这时候就要引入【终极大杀器】——直接修改【omni.ja】。   顺便插一句：  自从 Firefox Quantum（Firefox 57）之后，旧的“XPCOM 扩展机制”已经淘汰，换成新的“WebExtensions 扩展机制”。但是，“新扩展机制”的功能比原来要弱（据说是为了安全性的考虑）。比如：对“键盘快捷键”的定制能力就变弱了。  在这种情况下，“定制 omni.ja”的优势就更加明显——因为它能做到“用扩展无法完成的事情”。        ◇比“autoconfig”更强大的【omni.ja】 
+  Firefox 是一个很复杂的开源项目，代码量超大。它的核心代码（比如：渲染引擎、JS 引擎）是基于 C++ 语言开发（并在逐步迁移到 Rust 语言）。而软件界面（UI）相关的部分，大体上还是 Web 那套东西（不外乎就是：XML、JS、JSON、CSS ...）。  这些与 UI 相关的东西，大部分都打包在（安装包自带的） 
+   omni.ja
+   文件中。如果你摸透了 
+   omni.ja
+   的结构，就可以对 Firefox 的界面进行任意定制。  说到这里，某些熟悉 Firefox 的用户会反问：为啥不用 
+   userChrome.css
+   定制 Firefox？  这个东东俺当然知道（而且还写过专门的教程，链接在“  这里  ”）。但它的能力很【有限】——只能修改 CSS 样式，【无法】定制界面的功能。   举个【简单】例子：  比如说 Firefox 的默认快捷键中，【Ctrl + q】会退出整个进程；  如果你不喜欢这个快捷键，可以换成一个更顺手的（通过修改 
+   omni.ja
+   里面的 
+   chrome/en-US/locale/browser/browser.dtd
+   ）   举个【复杂】例子：  或许很多 Firefox 用户不知道——你可以用【Alt + 数字键】或【Ctrl + 数字键】来切换 Firefox 的标签页。  （注：俺在 Linux 用的是 Alt，而 Windows 环境用的是 Ctrl）  当你在 Firefox 界面上按了这个组合键，会触发某个 JS 代码，然后由这个 JS 代码来改变当前标签页的状态。  而这段 JS 代码就包含在 
+   omni.ja
+   这个压缩包的某个文件中（ 
+   chrome/browser/content/browser/browser.xul
+   ）。如果你能修改这段 JS 代码，就可以实现自己想要的某些效果。   
+   友情提醒：
+    安装好的 Firefox 有【两个】 
+   omni.ja
+   ——大的那个有30多兆，小的那个有十多兆。  当你要折腾的时候，别搞错了！！！  比如说：当俺在折腾键盘快捷键时，修改的是【大的】那个。        ◇简述“omni.ja”的格式 
+  
+   如何“解压缩”？
+    虽然 
+   omni.ja
+   的扩展名是 
+   .ja
+   ，但其实是个 zip 压缩包；但它又【不是】标准的 zip 压缩包——因为它的文件头有点特殊。  俺在 Linux 下用 
+   unzip
+   命令进行解压缩，完全 OK（使用 Mac OS 的同学也可以用这个命令）；  对于使用 Windows 的同学，（Mozilla 官网的文档建议）先把扩展名改为 
+   .zip
+   再用资源管理器自带的解压功能（注：其它解压 zip 的工具不一定能行）。   
+   如何“压缩（重新打包）”？
+    当你【修改完】 
+   omni.ja
+   内部的文件之后，要【重新打包】该文件。  对于 POSIX 环境（Linux &amp; UNIX），Mozilla 官网的文档建议使用如下命令：      zip -qr9XD omni.ja *    
+       ◇定制“omni.ja”的注意事项 
+  简单说几个注意事项：   
+   第1条
+    
+   omni.ja
+   内部的文件很多。只修改那些【你有把握】的文件。  如果你把 
+   omni.ja
+   内部的某些文件改坏了，可能会导致 Firefox 无法启动，而且也没有任何报错信息。   
+   第2条
+    每次修改完 
+   omni.ja
+   ，为了让你的修改生效，要记得：先退出 Firefox【进程】；然后清空整个缓存目录；最后再启动 Firefox。   
+   第3条
+    由于每次修改完都要做“打包、清缓存、重启 Firefox”这几件事情。俺建议：搞个命令行脚本帮你自动干这些事儿，以提升效率。   
+   第4条
+    
+   omni.ja
+   会随着 Firefox 的版本而变化。也就是说，每次有新版本，你还需要在新版本上再修改一次。  如果结合第3条与第4条，你更应该写一个脚本，帮你【自动化】完成整个定制流程。    
+   俺博客上，和本文相关的帖子（需翻墙）
+   ：  《  无需任何插件或扩展，定制 Firefox 外观  》  《  基于安全考虑，如何选择及切换 Firefox 版本？  》  《  弃用 Chrome 改用 Firefox 的几点理由——关于 Chrome 69 隐私丑闻的随想  》  《  如何用 GreaseMonkey 扩展 Google Reader  》  《  聊聊【折腾】的重要性  》     
+
+    版权声明
+     本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者  编程随想  和本文原始地址：   https://program-think.blogspot.com/2019/07/Customize-Firefox.html 
+    
+    
+  
+  
+    
+         
+    
+    
+    
+ 
+    
+  
+
+" />
+    <meta property="og:description" content="
+
+      扫盲 Firefox 定制——从“user.js”到“omni.ja”  
+  
+    
+      
+    
+  
+  
+最近一年，写过好几篇涉及“Web 安全”的博文。这些博文或多或少都会提及“Firefox 的定制”。考虑到某些读者对这方面不太了解，单独写一篇扫盲。  如果你从来不用 Firefox 浏览器，本教程就不用看了（以免浪费时间）。  本文主要面向不太熟悉 Firefox 的菜鸟；对于 Firefox 的老鸟，顶多只需要看“高级话题”相关的章节。  
+       
+        ★预备知识 
+       ◇“浏览器实例”（profile）是啥？ 
+  Firefox 支持【多实例】（多个 profile）。你可以把“profile”这个概念通俗理解为：“独立的浏览器环境”。  也就是说，实例之间是【互相隔离】滴，每个实例都有自己【独立的】“书签、浏览历史、下载历史、cookies ......”  就算你从来没有创建过实例，只要你通过 Firefox 上网，你的 Firefox 至少会有一个实例（也就是你正在用的这个）。        ◇如何找到当前实例的目录？ 
+  每个实例（profile）都对应一个目录，属于该实例的那些东西（书签、浏览历史、下载历史、cookies ...）全都存储在该目录下。  要想查看你正在使用的 Firefox 实例对应的目录，很简单：  1. 在浏览器地址栏输入 
+   about:support
+   然后敲回车  2. 这时候会显示一个支持页面，其中有一项 
+   Profile Directory
+   （俺用的是英文版，中文版的叫法略有不同），对应的就是【当前实例的目录】。         ★扫盲“配置选项”（Preferences） 
+       ◇啥是“配置选项”？ 
+  “配置选项”也叫“首选项”，洋文称之为“Preferences”。  通俗地说就是：Firefox 提供了一大堆可供用户定制的参数。通过修改这些参数，可以对 Firefox 进行【全方位】定制。  每个 Preference 包含如下几个要素：   
+   名称
+    每个 Preference 的名称必定是【唯一】滴。  “名称”由英文单词构成，单词之间以“小数点”或“下划线”分隔。   
+   数据类型
+    Preferences 的“数据类型”必须是“布尔型、整数型、字符串型”这三者之一。  “布尔型”的值只能是 true 或 false。  “整数型”的值可以是负数。   
+   默认值
+    每个 Preference 都有个“默认值”。  “默认值”包含在 Firefox 的安装包里面。  绝大多数用户并【不需要】去修改“默认值”。  （注：极少数有此需求的读者，可以去本文的  高级话题——autoconfig  这个章节）   
+   当前值
+    每个 Preference 都对应某个“当前值”。  当你修改 Preference 的时候，修改的就是它的“当前值”。  一开始的时候，每个 Preference 的“当前值”就等于它的“默认值”；如果该 Preference 被定制了（修改了），其“当前值”与“默认值”就有可能不同。        ◇谁可以修改“配置选项”？ 
+  首先，Firefox 的用户当然可以修改配置选项（具体如何做，后续章节会细聊）  除了用户，【浏览器扩展】也可以添加或修改“配置选项”。某些扩展会提供定制界面，让用户设定某些参数。这些参数也保存在浏览器的 Preference 里面。  有必要强调一下：网站上的 JS 是【无法修改】Preference 滴！  道理很简单：因为 Firefox 的 Preference 中保存了很多与安全性相关的配置参数。如果允许网站的 JS 修改这些参数，将会成为巨大的安全隐患。        ◇为啥要修改“配置选项”？ 
+  俺总结下来，大致有如下几种需求：  
+   1. 安全加固
+    你可以通过定制很多的 Preferences 以大大强化 Firefox 的安全性（包括隐私防护能力）。  每次 Firefox 的新版本增加了某个比较重要的安全相关的定制选项，俺会在每季度的《近期安全动态和点评》提醒大伙儿。  
+   2. 性能优化
+    通过定制 Preference 可以优化性能（包括：“网络传输、内存使用、界面渲染”等方面）  
+   3. 易用性
+    通过定制 Preference，你还可以改进 Firefox 界面的易用性。         ★“about:config”界面 
+       ◇进入界面 
+  修改 Firefox 的 Preference，最简单的方式就是“about:config”界面了。  你在浏览器地址栏输入 
+   about:config
+   然后敲回车，就进入该界面。  （提醒一下：打开该界面时，你可能会看到一个警告提示，别慌张）   “about:config”界面主要是个的表格，共4列，分别是：  第1列：Preference 的“名称”  第2列：Preference 的“状态”（如果显示“default”表示该 Preference 还没被修改过，显示“modified”表示已经被改过）  第3列：Preference 的“数据类型”  第4列：Preference 的“当前值”        ◇【筛选/过滤】Preferences 
+  该界面默认会列出 Firefox【所有的】Preference（成百上千个）。某些菜鸟一看到这个架势，可能会有点晕。  别慌，界面上方有一个搜索框，可以帮你进行【筛选/过滤】。  该搜索框针对 Preference 的名称进行【模糊匹配】。比如说：你在搜索框中输入 
+   network
+   ，那么界面上就只列出名称中包含 
+   network
+   的那些 Preferences。        ◇【修改】某个 Preference 的值 
+  对于“布尔型”的 Preference，你双击 Preference 所在的这行，就可以修改它的“当前值”（在 true 与 false 之间切换）  对于其它数据类型，双击 Preference 所在的行，会弹出一个对话框，让你输入【新的】数值。        ◇【重置】某个 Preference 的值 
+  所谓的“重置”（reset）就是指“恢复默认值”。  （对于已经被改过的 Preference）选中它所在的那行；点右键；在快捷菜单上有一项“Reset”（重置）；使用这个菜单项就可以把该选项重新恢复成默认值。        ◇【添加】一个新的 Preference 
+  在“about:config”界面的表格上点右键；在快捷菜单上有一项“New”（新增）；可以让你添加一个新的 Preference。  添加时会让你指定新 Preference 的“名称”和“数值”。        ◇一个小小的练习——如何去掉“about:config”界面的警告 
+  你在“about:config”界面的搜索框中输入 
+   general.warnOnAboutConfig
+   ，此时只会过滤出一个 Preference，这个 Preference 是“布尔型”。当它的值是 
+   true
+   ，每次你打开“about:config”界面都会显示警告提示；反之，则不显示。  你可以修改这个 Preference 的值。修改之后再【重新打开】“about:config”界面，体会一下效果。         ★“prefs.js”配置文件 
+       ◇功能简介 
+  每个 Firefox 实例中都有名为 
+   prefs.js
+   的配置文件。这个文件保存了当前实例中【所有】Preferences 的设置。        ◇文件位置 
+  该文件位于每个【实例目录】下。        ◇文件格式 
+  该文件的扩展名是 
+   .js
+   ，说明其内容是 javascript 语法。  在 javascript 语法中，任何一行中如果出现【双斜杠】 
+   //
+   ，那么“从双斜杠一直到行尾”都算【注释】；另外，包含在 
+   /*
+   和 
+   */
+   之间的内容也是【注释】。（注：第二种注释可以跨越多行）  除了注释之外，该文件的每一行有效代码对应一个 Preferences。文件中的每个有效代码行全都是如下这个样子：      
+      user_pref("配置项名称", 配置项数值);
+      
+    
+  由于每一个 Preferences 的名称都是字符串，因此上述代码中的 
+   配置项名称
+   总是包含在【半角引号】中。  如果某个 Preferences 的数据类型属于“字符串型”，那么上述代码中的“配置项数值”也要包含在【半角引号】中；否则，就不需要使用引号。        ◇注意事项！！！ 
+  
+   【不要】直接修改
+   
+    prefs.js
+   
+   文件！！！
+    如果你想通过【配置文件】的方式定制 Firefox 的 Preferences，请使用【user.js】（参见下一个章节）。         ★“user.js”配置文件 
+       ◇功能简介 
+  Firefox 使用名为 
+   user.js
+   的文件对 Preferences 进行个性化定制。        ◇文件位置 
+  该文件位于【实例目录】下。请注意： 
+   默认情况下【没有】这个文件！
+    如果你想用这种方式定制 Firefox，需要在【当前实例】的目录下【手动创建】该文件，然后往这个文件中添加代码。        ◇文件格式 
+  该文件的格式与 
+   prefs.js
+   相同。具体介绍参见“前一个章节”。        ◇配置举例 
+  前面介绍“about:config”界面时，已经让你做了一个小小的练习。  现在，咱们在“user.js”中继续进行这个练习——  当你创建好一个空的 
+   user.js
+   文件，在文件中添加如下代码，并存盘。      
+      user_pref("general.warnOnAboutConfig", false);
+      
+    
+ （注：上述代码中的“括号、引号、逗号、分号”必须都是【半角符号】）  上述文件存盘之后，你把 Firefox 重新启动，然后再打开“about:config”界面，这时候就不会再有那个讨厌的警告信息了。        ◇【重置】某个 Preference 的值 
+  如果你已经在“user.js”中修改过某个 Preference，之后又想恢复其默认值。请参照如下步骤：  1. 先在“user.js”中把这个 Preference 的配置“删除”或“注释掉”；  2. 重启浏览器；  3. 再到“about:config”界面进行重置操作。        ◇注意事项！！！ 
+  当你要通过这种方式修改某个选项，先搞清楚这个选项的含义和用途，并了解可能的【副作用】。         ★上述三种配置方式的【原理】 
+       ◇加载配置 
+  当 Firefox 启动的时候，会读取 
+   user.js
+   和 
+   prefs.js
+   ，拿到这两个文件中的 Preferences 配置，并保存在内存中。  如果发现这两个文件的配置有冲突，以 
+   user.js
+   为准（也就是说：“ 
+   user.js
+   的配置”会覆盖“ 
+   prefs.js
+   的配置”）。  如果同一个配置项在某个文件中出现多次，后面的代码行会覆盖前面的代码行。        ◇修改配置 
+  当你打开“about:config”界面，Firefox 会把内存中的 Preferences 信息显示给你看。  如果你在这个界面上进行了修改，修改的结果会保存在内存中，同时也会保存到 
+   prefs.js
+   文件中。  另外，Firefox【不会】去修改你用于定制的 
+   user.js
+   文件。         ★高级话题——autoconfig 
+  “高级话题”是专门针对“Firefox 老鸟”，尤其是那些具有“geek 精神”（善于折腾）的用户。  （熟悉本博客的读者应该知道：俺一向鼓励【折腾】，并写过一篇博文《  聊聊【折腾】的重要性  》）  至于菜鸟嘛，先搞定前面章节介绍的内容，学会怎么用“user.js”；然后再考虑本文的“高级话题”。  考虑到本章节的特点，“高级话题”的介绍只是【点到为止】——对于【善折腾】的读者，俺只需给出一个方向，他们自然能沿着这个方向走得足够远。        ◇“user.js”的局限性 
+  通过“user.js”，虽然可以让你定制每一个 Preference；但至少有如下局限性：   
+   局限性1——【无法】修改某个 Preference 的【默认值】
+    请注意：在 
+   user.js
+   中修改的是【当前值】。不管“当前值”如何变，“默认值”【没】变。  在某些特殊场合，你可能想要定制 Preference 的【默认值】。   
+   局限性2——【无法】锁定某个 Preference
+    所谓的“锁定”就是“禁止修改”的意思。  比如说：某个第三方扩展会修改某个 Preference 的值；但你又不希望这个 Preference 被修改。这时候就可以把这个 Preference【锁定】。        ◇比“user.js”更牛逼的【autoconfig】 
+  Firefox 的扩展能力及其强大，当然能满足上述这些怪异的需求。  Mozilla 提供了名为【autoconfig】的机制，可以更进一步地定制 Preference。具体参见 Mozilla 官网的“  这篇教程  ”（洋文）。  在 
+   user.js
+   中，咱们只能使用 
+   user_pref
+   这个函数；而在【autoconfig】这种定制方式中，还提供了更多的函数，至少包括如下（代码中绿色的部分是注释）：      
+      defaultPref("配置项名称", 配置项数值);  // 该函数用于：定制配置项的【默认值】
+lockPref("配置项名称", 配置项数值);  // 该函数用于：设置配置项的默认值并【锁定】
+unlockPref("配置项名称");  // 该函数用于：【解锁】配置项
+clearPref("配置项名称");  //  该函数用于：把配置项的【当前值】恢复为【默认值】
+      
+    
+        ★高级话题——定制“omni.ja” 
+       ◇“autoconfig”的局限性 
+  “autoconfig”虽然比“user.js”更牛逼，但其能力只局限于 Preference 相关的定制。  有些你想定制的东西（比如：默认的键盘快捷键）【并不】保存在 Preference 中——也就是说，即便你去捣鼓“autoconfig”也【搞不定】！这时候就要引入【终极大杀器】——直接修改【omni.ja】。   顺便插一句：  自从 Firefox Quantum（Firefox 57）之后，旧的“XPCOM 扩展机制”已经淘汰，换成新的“WebExtensions 扩展机制”。但是，“新扩展机制”的功能比原来要弱（据说是为了安全性的考虑）。比如：对“键盘快捷键”的定制能力就变弱了。  在这种情况下，“定制 omni.ja”的优势就更加明显——因为它能做到“用扩展无法完成的事情”。        ◇比“autoconfig”更强大的【omni.ja】 
+  Firefox 是一个很复杂的开源项目，代码量超大。它的核心代码（比如：渲染引擎、JS 引擎）是基于 C++ 语言开发（并在逐步迁移到 Rust 语言）。而软件界面（UI）相关的部分，大体上还是 Web 那套东西（不外乎就是：XML、JS、JSON、CSS ...）。  这些与 UI 相关的东西，大部分都打包在（安装包自带的） 
+   omni.ja
+   文件中。如果你摸透了 
+   omni.ja
+   的结构，就可以对 Firefox 的界面进行任意定制。  说到这里，某些熟悉 Firefox 的用户会反问：为啥不用 
+   userChrome.css
+   定制 Firefox？  这个东东俺当然知道（而且还写过专门的教程，链接在“  这里  ”）。但它的能力很【有限】——只能修改 CSS 样式，【无法】定制界面的功能。   举个【简单】例子：  比如说 Firefox 的默认快捷键中，【Ctrl + q】会退出整个进程；  如果你不喜欢这个快捷键，可以换成一个更顺手的（通过修改 
+   omni.ja
+   里面的 
+   chrome/en-US/locale/browser/browser.dtd
+   ）   举个【复杂】例子：  或许很多 Firefox 用户不知道——你可以用【Alt + 数字键】或【Ctrl + 数字键】来切换 Firefox 的标签页。  （注：俺在 Linux 用的是 Alt，而 Windows 环境用的是 Ctrl）  当你在 Firefox 界面上按了这个组合键，会触发某个 JS 代码，然后由这个 JS 代码来改变当前标签页的状态。  而这段 JS 代码就包含在 
+   omni.ja
+   这个压缩包的某个文件中（ 
+   chrome/browser/content/browser/browser.xul
+   ）。如果你能修改这段 JS 代码，就可以实现自己想要的某些效果。   
+   友情提醒：
+    安装好的 Firefox 有【两个】 
+   omni.ja
+   ——大的那个有30多兆，小的那个有十多兆。  当你要折腾的时候，别搞错了！！！  比如说：当俺在折腾键盘快捷键时，修改的是【大的】那个。        ◇简述“omni.ja”的格式 
+  
+   如何“解压缩”？
+    虽然 
+   omni.ja
+   的扩展名是 
+   .ja
+   ，但其实是个 zip 压缩包；但它又【不是】标准的 zip 压缩包——因为它的文件头有点特殊。  俺在 Linux 下用 
+   unzip
+   命令进行解压缩，完全 OK（使用 Mac OS 的同学也可以用这个命令）；  对于使用 Windows 的同学，（Mozilla 官网的文档建议）先把扩展名改为 
+   .zip
+   再用资源管理器自带的解压功能（注：其它解压 zip 的工具不一定能行）。   
+   如何“压缩（重新打包）”？
+    当你【修改完】 
+   omni.ja
+   内部的文件之后，要【重新打包】该文件。  对于 POSIX 环境（Linux &amp; UNIX），Mozilla 官网的文档建议使用如下命令：      zip -qr9XD omni.ja *    
+       ◇定制“omni.ja”的注意事项 
+  简单说几个注意事项：   
+   第1条
+    
+   omni.ja
+   内部的文件很多。只修改那些【你有把握】的文件。  如果你把 
+   omni.ja
+   内部的某些文件改坏了，可能会导致 Firefox 无法启动，而且也没有任何报错信息。   
+   第2条
+    每次修改完 
+   omni.ja
+   ，为了让你的修改生效，要记得：先退出 Firefox【进程】；然后清空整个缓存目录；最后再启动 Firefox。   
+   第3条
+    由于每次修改完都要做“打包、清缓存、重启 Firefox”这几件事情。俺建议：搞个命令行脚本帮你自动干这些事儿，以提升效率。   
+   第4条
+    
+   omni.ja
+   会随着 Firefox 的版本而变化。也就是说，每次有新版本，你还需要在新版本上再修改一次。  如果结合第3条与第4条，你更应该写一个脚本，帮你【自动化】完成整个定制流程。    
+   俺博客上，和本文相关的帖子（需翻墙）
+   ：  《  无需任何插件或扩展，定制 Firefox 外观  》  《  基于安全考虑，如何选择及切换 Firefox 版本？  》  《  弃用 Chrome 改用 Firefox 的几点理由——关于 Chrome 69 隐私丑闻的随想  》  《  如何用 GreaseMonkey 扩展 Google Reader  》  《  聊聊【折腾】的重要性  》     
+
+    版权声明
+     本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者  编程随想  和本文原始地址：   https://program-think.blogspot.com/2019/07/Customize-Firefox.html 
+    
+    
+  
+  
+    
+         
+    
+    
+    
+ 
+    
+  
+
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="扫盲 Firefox 定制——从“user.js”到“omni.ja”" />
+    <meta property="twitter:title" content="扫盲 Firefox 定制——从“user.js”到“omni.ja”" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fprogram-think.blogspot.com%2F2019%2F07%2FCustomize-Firefox.html" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://program-think.blogspot.com/2019/07/Customize-Firefox.html" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://program-think.blogspot.com/2019/07/Customize-Firefox.html&text=扫盲 Firefox 定制——从“user.js”到“omni.ja”&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://program-think.blogspot.com/2019/07/Customize-Firefox.html&title=扫盲 Firefox 定制——从“user.js”到“omni.ja”" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://program-think.blogspot.com/2019/07/Customize-Firefox.html&title=扫盲 Firefox 定制——从“user.js”到“omni.ja”" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=扫盲 Firefox 定制——从“user.js”到“omni.ja”&body=
+
+      扫盲 Firefox 定制——从“user.js”到“omni.ja”  
+  
+    
+      
+    
+  
+  
+最近一年，写过好几篇涉及“Web 安全”的博文。这些博文或多或少都会提及“Firefox 的定制”。考虑到某些读者对这方面不太了解，单独写一篇扫盲。  如果你从来不用 Firefox 浏览器，本教程就不用看了（以免浪费时间）。  本文主要面向不太熟悉 Firefox 的菜鸟；对于 Firefox 的老鸟，顶多只需要看“高级话题”相关的章节。  
+       
+        ★预备知识 
+       ◇“浏览器实例”（profile）是啥？ 
+  Firefox 支持【多实例】（多个 profile）。你可以把“profile”这个概念通俗理解为：“独立的浏览器环境”。  也就是说，实例之间是【互相隔离】滴，每个实例都有自己【独立的】“书签、浏览历史、下载历史、cookies ......”  就算你从来没有创建过实例，只要你通过 Firefox 上网，你的 Firefox 至少会有一个实例（也就是你正在用的这个）。        ◇如何找到当前实例的目录？ 
+  每个实例（profile）都对应一个目录，属于该实例的那些东西（书签、浏览历史、下载历史、cookies ...）全都存储在该目录下。  要想查看你正在使用的 Firefox 实例对应的目录，很简单：  1. 在浏览器地址栏输入 
+   about:support
+   然后敲回车  2. 这时候会显示一个支持页面，其中有一项 
+   Profile Directory
+   （俺用的是英文版，中文版的叫法略有不同），对应的就是【当前实例的目录】。         ★扫盲“配置选项”（Preferences） 
+       ◇啥是“配置选项”？ 
+  “配置选项”也叫“首选项”，洋文称之为“Preferences”。  通俗地说就是：Firefox 提供了一大堆可供用户定制的参数。通过修改这些参数，可以对 Firefox 进行【全方位】定制。  每个 Preference 包含如下几个要素：   
+   名称
+    每个 Preference 的名称必定是【唯一】滴。  “名称”由英文单词构成，单词之间以“小数点”或“下划线”分隔。   
+   数据类型
+    Preferences 的“数据类型”必须是“布尔型、整数型、字符串型”这三者之一。  “布尔型”的值只能是 true 或 false。  “整数型”的值可以是负数。   
+   默认值
+    每个 Preference 都有个“默认值”。  “默认值”包含在 Firefox 的安装包里面。  绝大多数用户并【不需要】去修改“默认值”。  （注：极少数有此需求的读者，可以去本文的  高级话题——autoconfig  这个章节）   
+   当前值
+    每个 Preference 都对应某个“当前值”。  当你修改 Preference 的时候，修改的就是它的“当前值”。  一开始的时候，每个 Preference 的“当前值”就等于它的“默认值”；如果该 Preference 被定制了（修改了），其“当前值”与“默认值”就有可能不同。        ◇谁可以修改“配置选项”？ 
+  首先，Firefox 的用户当然可以修改配置选项（具体如何做，后续章节会细聊）  除了用户，【浏览器扩展】也可以添加或修改“配置选项”。某些扩展会提供定制界面，让用户设定某些参数。这些参数也保存在浏览器的 Preference 里面。  有必要强调一下：网站上的 JS 是【无法修改】Preference 滴！  道理很简单：因为 Firefox 的 Preference 中保存了很多与安全性相关的配置参数。如果允许网站的 JS 修改这些参数，将会成为巨大的安全隐患。        ◇为啥要修改“配置选项”？ 
+  俺总结下来，大致有如下几种需求：  
+   1. 安全加固
+    你可以通过定制很多的 Preferences 以大大强化 Firefox 的安全性（包括隐私防护能力）。  每次 Firefox 的新版本增加了某个比较重要的安全相关的定制选项，俺会在每季度的《近期安全动态和点评》提醒大伙儿。  
+   2. 性能优化
+    通过定制 Preference 可以优化性能（包括：“网络传输、内存使用、界面渲染”等方面）  
+   3. 易用性
+    通过定制 Preference，你还可以改进 Firefox 界面的易用性。         ★“about:config”界面 
+       ◇进入界面 
+  修改 Firefox 的 Preference，最简单的方式就是“about:config”界面了。  你在浏览器地址栏输入 
+   about:config
+   然后敲回车，就进入该界面。  （提醒一下：打开该界面时，你可能会看到一个警告提示，别慌张）   “about:config”界面主要是个的表格，共4列，分别是：  第1列：Preference 的“名称”  第2列：Preference 的“状态”（如果显示“default”表示该 Preference 还没被修改过，显示“modified”表示已经被改过）  第3列：Preference 的“数据类型”  第4列：Preference 的“当前值”        ◇【筛选/过滤】Preferences 
+  该界面默认会列出 Firefox【所有的】Preference（成百上千个）。某些菜鸟一看到这个架势，可能会有点晕。  别慌，界面上方有一个搜索框，可以帮你进行【筛选/过滤】。  该搜索框针对 Preference 的名称进行【模糊匹配】。比如说：你在搜索框中输入 
+   network
+   ，那么界面上就只列出名称中包含 
+   network
+   的那些 Preferences。        ◇【修改】某个 Preference 的值 
+  对于“布尔型”的 Preference，你双击 Preference 所在的这行，就可以修改它的“当前值”（在 true 与 false 之间切换）  对于其它数据类型，双击 Preference 所在的行，会弹出一个对话框，让你输入【新的】数值。        ◇【重置】某个 Preference 的值 
+  所谓的“重置”（reset）就是指“恢复默认值”。  （对于已经被改过的 Preference）选中它所在的那行；点右键；在快捷菜单上有一项“Reset”（重置）；使用这个菜单项就可以把该选项重新恢复成默认值。        ◇【添加】一个新的 Preference 
+  在“about:config”界面的表格上点右键；在快捷菜单上有一项“New”（新增）；可以让你添加一个新的 Preference。  添加时会让你指定新 Preference 的“名称”和“数值”。        ◇一个小小的练习——如何去掉“about:config”界面的警告 
+  你在“about:config”界面的搜索框中输入 
+   general.warnOnAboutConfig
+   ，此时只会过滤出一个 Preference，这个 Preference 是“布尔型”。当它的值是 
+   true
+   ，每次你打开“about:config”界面都会显示警告提示；反之，则不显示。  你可以修改这个 Preference 的值。修改之后再【重新打开】“about:config”界面，体会一下效果。         ★“prefs.js”配置文件 
+       ◇功能简介 
+  每个 Firefox 实例中都有名为 
+   prefs.js
+   的配置文件。这个文件保存了当前实例中【所有】Preferences 的设置。        ◇文件位置 
+  该文件位于每个【实例目录】下。        ◇文件格式 
+  该文件的扩展名是 
+   .js
+   ，说明其内容是 javascript 语法。  在 javascript 语法中，任何一行中如果出现【双斜杠】 
+   //
+   ，那么“从双斜杠一直到行尾”都算【注释】；另外，包含在 
+   /*
+   和 
+   */
+   之间的内容也是【注释】。（注：第二种注释可以跨越多行）  除了注释之外，该文件的每一行有效代码对应一个 Preferences。文件中的每个有效代码行全都是如下这个样子：      
+      user_pref("配置项名称", 配置项数值);
+      
+    
+  由于每一个 Preferences 的名称都是字符串，因此上述代码中的 
+   配置项名称
+   总是包含在【半角引号】中。  如果某个 Preferences 的数据类型属于“字符串型”，那么上述代码中的“配置项数值”也要包含在【半角引号】中；否则，就不需要使用引号。        ◇注意事项！！！ 
+  
+   【不要】直接修改
+   
+    prefs.js
+   
+   文件！！！
+    如果你想通过【配置文件】的方式定制 Firefox 的 Preferences，请使用【user.js】（参见下一个章节）。         ★“user.js”配置文件 
+       ◇功能简介 
+  Firefox 使用名为 
+   user.js
+   的文件对 Preferences 进行个性化定制。        ◇文件位置 
+  该文件位于【实例目录】下。请注意： 
+   默认情况下【没有】这个文件！
+    如果你想用这种方式定制 Firefox，需要在【当前实例】的目录下【手动创建】该文件，然后往这个文件中添加代码。        ◇文件格式 
+  该文件的格式与 
+   prefs.js
+   相同。具体介绍参见“前一个章节”。        ◇配置举例 
+  前面介绍“about:config”界面时，已经让你做了一个小小的练习。  现在，咱们在“user.js”中继续进行这个练习——  当你创建好一个空的 
+   user.js
+   文件，在文件中添加如下代码，并存盘。      
+      user_pref("general.warnOnAboutConfig", false);
+      
+    
+ （注：上述代码中的“括号、引号、逗号、分号”必须都是【半角符号】）  上述文件存盘之后，你把 Firefox 重新启动，然后再打开“about:config”界面，这时候就不会再有那个讨厌的警告信息了。        ◇【重置】某个 Preference 的值 
+  如果你已经在“user.js”中修改过某个 Preference，之后又想恢复其默认值。请参照如下步骤：  1. 先在“user.js”中把这个 Preference 的配置“删除”或“注释掉”；  2. 重启浏览器；  3. 再到“about:config”界面进行重置操作。        ◇注意事项！！！ 
+  当你要通过这种方式修改某个选项，先搞清楚这个选项的含义和用途，并了解可能的【副作用】。         ★上述三种配置方式的【原理】 
+       ◇加载配置 
+  当 Firefox 启动的时候，会读取 
+   user.js
+   和 
+   prefs.js
+   ，拿到这两个文件中的 Preferences 配置，并保存在内存中。  如果发现这两个文件的配置有冲突，以 
+   user.js
+   为准（也就是说：“ 
+   user.js
+   的配置”会覆盖“ 
+   prefs.js
+   的配置”）。  如果同一个配置项在某个文件中出现多次，后面的代码行会覆盖前面的代码行。        ◇修改配置 
+  当你打开“about:config”界面，Firefox 会把内存中的 Preferences 信息显示给你看。  如果你在这个界面上进行了修改，修改的结果会保存在内存中，同时也会保存到 
+   prefs.js
+   文件中。  另外，Firefox【不会】去修改你用于定制的 
+   user.js
+   文件。         ★高级话题——autoconfig 
+  “高级话题”是专门针对“Firefox 老鸟”，尤其是那些具有“geek 精神”（善于折腾）的用户。  （熟悉本博客的读者应该知道：俺一向鼓励【折腾】，并写过一篇博文《  聊聊【折腾】的重要性  》）  至于菜鸟嘛，先搞定前面章节介绍的内容，学会怎么用“user.js”；然后再考虑本文的“高级话题”。  考虑到本章节的特点，“高级话题”的介绍只是【点到为止】——对于【善折腾】的读者，俺只需给出一个方向，他们自然能沿着这个方向走得足够远。        ◇“user.js”的局限性 
+  通过“user.js”，虽然可以让你定制每一个 Preference；但至少有如下局限性：   
+   局限性1——【无法】修改某个 Preference 的【默认值】
+    请注意：在 
+   user.js
+   中修改的是【当前值】。不管“当前值”如何变，“默认值”【没】变。  在某些特殊场合，你可能想要定制 Preference 的【默认值】。   
+   局限性2——【无法】锁定某个 Preference
+    所谓的“锁定”就是“禁止修改”的意思。  比如说：某个第三方扩展会修改某个 Preference 的值；但你又不希望这个 Preference 被修改。这时候就可以把这个 Preference【锁定】。        ◇比“user.js”更牛逼的【autoconfig】 
+  Firefox 的扩展能力及其强大，当然能满足上述这些怪异的需求。  Mozilla 提供了名为【autoconfig】的机制，可以更进一步地定制 Preference。具体参见 Mozilla 官网的“  这篇教程  ”（洋文）。  在 
+   user.js
+   中，咱们只能使用 
+   user_pref
+   这个函数；而在【autoconfig】这种定制方式中，还提供了更多的函数，至少包括如下（代码中绿色的部分是注释）：      
+      defaultPref("配置项名称", 配置项数值);  // 该函数用于：定制配置项的【默认值】
+lockPref("配置项名称", 配置项数值);  // 该函数用于：设置配置项的默认值并【锁定】
+unlockPref("配置项名称");  // 该函数用于：【解锁】配置项
+clearPref("配置项名称");  //  该函数用于：把配置项的【当前值】恢复为【默认值】
+      
+    
+        ★高级话题——定制“omni.ja” 
+       ◇“autoconfig”的局限性 
+  “autoconfig”虽然比“user.js”更牛逼，但其能力只局限于 Preference 相关的定制。  有些你想定制的东西（比如：默认的键盘快捷键）【并不】保存在 Preference 中——也就是说，即便你去捣鼓“autoconfig”也【搞不定】！这时候就要引入【终极大杀器】——直接修改【omni.ja】。   顺便插一句：  自从 Firefox Quantum（Firefox 57）之后，旧的“XPCOM 扩展机制”已经淘汰，换成新的“WebExtensions 扩展机制”。但是，“新扩展机制”的功能比原来要弱（据说是为了安全性的考虑）。比如：对“键盘快捷键”的定制能力就变弱了。  在这种情况下，“定制 omni.ja”的优势就更加明显——因为它能做到“用扩展无法完成的事情”。        ◇比“autoconfig”更强大的【omni.ja】 
+  Firefox 是一个很复杂的开源项目，代码量超大。它的核心代码（比如：渲染引擎、JS 引擎）是基于 C++ 语言开发（并在逐步迁移到 Rust 语言）。而软件界面（UI）相关的部分，大体上还是 Web 那套东西（不外乎就是：XML、JS、JSON、CSS ...）。  这些与 UI 相关的东西，大部分都打包在（安装包自带的） 
+   omni.ja
+   文件中。如果你摸透了 
+   omni.ja
+   的结构，就可以对 Firefox 的界面进行任意定制。  说到这里，某些熟悉 Firefox 的用户会反问：为啥不用 
+   userChrome.css
+   定制 Firefox？  这个东东俺当然知道（而且还写过专门的教程，链接在“  这里  ”）。但它的能力很【有限】——只能修改 CSS 样式，【无法】定制界面的功能。   举个【简单】例子：  比如说 Firefox 的默认快捷键中，【Ctrl + q】会退出整个进程；  如果你不喜欢这个快捷键，可以换成一个更顺手的（通过修改 
+   omni.ja
+   里面的 
+   chrome/en-US/locale/browser/browser.dtd
+   ）   举个【复杂】例子：  或许很多 Firefox 用户不知道——你可以用【Alt + 数字键】或【Ctrl + 数字键】来切换 Firefox 的标签页。  （注：俺在 Linux 用的是 Alt，而 Windows 环境用的是 Ctrl）  当你在 Firefox 界面上按了这个组合键，会触发某个 JS 代码，然后由这个 JS 代码来改变当前标签页的状态。  而这段 JS 代码就包含在 
+   omni.ja
+   这个压缩包的某个文件中（ 
+   chrome/browser/content/browser/browser.xul
+   ）。如果你能修改这段 JS 代码，就可以实现自己想要的某些效果。   
+   友情提醒：
+    安装好的 Firefox 有【两个】 
+   omni.ja
+   ——大的那个有30多兆，小的那个有十多兆。  当你要折腾的时候，别搞错了！！！  比如说：当俺在折腾键盘快捷键时，修改的是【大的】那个。        ◇简述“omni.ja”的格式 
+  
+   如何“解压缩”？
+    虽然 
+   omni.ja
+   的扩展名是 
+   .ja
+   ，但其实是个 zip 压缩包；但它又【不是】标准的 zip 压缩包——因为它的文件头有点特殊。  俺在 Linux 下用 
+   unzip
+   命令进行解压缩，完全 OK（使用 Mac OS 的同学也可以用这个命令）；  对于使用 Windows 的同学，（Mozilla 官网的文档建议）先把扩展名改为 
+   .zip
+   再用资源管理器自带的解压功能（注：其它解压 zip 的工具不一定能行）。   
+   如何“压缩（重新打包）”？
+    当你【修改完】 
+   omni.ja
+   内部的文件之后，要【重新打包】该文件。  对于 POSIX 环境（Linux &amp; UNIX），Mozilla 官网的文档建议使用如下命令：      zip -qr9XD omni.ja *    
+       ◇定制“omni.ja”的注意事项 
+  简单说几个注意事项：   
+   第1条
+    
+   omni.ja
+   内部的文件很多。只修改那些【你有把握】的文件。  如果你把 
+   omni.ja
+   内部的某些文件改坏了，可能会导致 Firefox 无法启动，而且也没有任何报错信息。   
+   第2条
+    每次修改完 
+   omni.ja
+   ，为了让你的修改生效，要记得：先退出 Firefox【进程】；然后清空整个缓存目录；最后再启动 Firefox。   
+   第3条
+    由于每次修改完都要做“打包、清缓存、重启 Firefox”这几件事情。俺建议：搞个命令行脚本帮你自动干这些事儿，以提升效率。   
+   第4条
+    
+   omni.ja
+   会随着 Firefox 的版本而变化。也就是说，每次有新版本，你还需要在新版本上再修改一次。  如果结合第3条与第4条，你更应该写一个脚本，帮你【自动化】完成整个定制流程。    
+   俺博客上，和本文相关的帖子（需翻墙）
+   ：  《  无需任何插件或扩展，定制 Firefox 外观  》  《  基于安全考虑，如何选择及切换 Firefox 版本？  》  《  弃用 Chrome 改用 Firefox 的几点理由——关于 Chrome 69 隐私丑闻的随想  》  《  如何用 GreaseMonkey 扩展 Google Reader  》  《  聊聊【折腾】的重要性  》     
+
+    版权声明
+     本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者  编程随想  和本文原始地址：   https://program-think.blogspot.com/2019/07/Customize-Firefox.html 
+    
+    
+  
+  
+    
+         
+    
+    
+    
+ 
+    
+  
+
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://program-think.blogspot.com/2019/07/Customize-Firefox.html" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://program-think.blogspot.com/2019/07/Customize-Firefox.html&title=扫盲 Firefox 定制——从“user.js”到“omni.ja”&caption=
+
+      扫盲 Firefox 定制——从“user.js”到“omni.ja”  
+  
+    
+      
+    
+  
+  
+最近一年，写过好几篇涉及“Web 安全”的博文。这些博文或多或少都会提及“Firefox 的定制”。考虑到某些读者对这方面不太了解，单独写一篇扫盲。  如果你从来不用 Firefox 浏览器，本教程就不用看了（以免浪费时间）。  本文主要面向不太熟悉 Firefox 的菜鸟；对于 Firefox 的老鸟，顶多只需要看“高级话题”相关的章节。  
+       
+        ★预备知识 
+       ◇“浏览器实例”（profile）是啥？ 
+  Firefox 支持【多实例】（多个 profile）。你可以把“profile”这个概念通俗理解为：“独立的浏览器环境”。  也就是说，实例之间是【互相隔离】滴，每个实例都有自己【独立的】“书签、浏览历史、下载历史、cookies ......”  就算你从来没有创建过实例，只要你通过 Firefox 上网，你的 Firefox 至少会有一个实例（也就是你正在用的这个）。        ◇如何找到当前实例的目录？ 
+  每个实例（profile）都对应一个目录，属于该实例的那些东西（书签、浏览历史、下载历史、cookies ...）全都存储在该目录下。  要想查看你正在使用的 Firefox 实例对应的目录，很简单：  1. 在浏览器地址栏输入 
+   about:support
+   然后敲回车  2. 这时候会显示一个支持页面，其中有一项 
+   Profile Directory
+   （俺用的是英文版，中文版的叫法略有不同），对应的就是【当前实例的目录】。         ★扫盲“配置选项”（Preferences） 
+       ◇啥是“配置选项”？ 
+  “配置选项”也叫“首选项”，洋文称之为“Preferences”。  通俗地说就是：Firefox 提供了一大堆可供用户定制的参数。通过修改这些参数，可以对 Firefox 进行【全方位】定制。  每个 Preference 包含如下几个要素：   
+   名称
+    每个 Preference 的名称必定是【唯一】滴。  “名称”由英文单词构成，单词之间以“小数点”或“下划线”分隔。   
+   数据类型
+    Preferences 的“数据类型”必须是“布尔型、整数型、字符串型”这三者之一。  “布尔型”的值只能是 true 或 false。  “整数型”的值可以是负数。   
+   默认值
+    每个 Preference 都有个“默认值”。  “默认值”包含在 Firefox 的安装包里面。  绝大多数用户并【不需要】去修改“默认值”。  （注：极少数有此需求的读者，可以去本文的  高级话题——autoconfig  这个章节）   
+   当前值
+    每个 Preference 都对应某个“当前值”。  当你修改 Preference 的时候，修改的就是它的“当前值”。  一开始的时候，每个 Preference 的“当前值”就等于它的“默认值”；如果该 Preference 被定制了（修改了），其“当前值”与“默认值”就有可能不同。        ◇谁可以修改“配置选项”？ 
+  首先，Firefox 的用户当然可以修改配置选项（具体如何做，后续章节会细聊）  除了用户，【浏览器扩展】也可以添加或修改“配置选项”。某些扩展会提供定制界面，让用户设定某些参数。这些参数也保存在浏览器的 Preference 里面。  有必要强调一下：网站上的 JS 是【无法修改】Preference 滴！  道理很简单：因为 Firefox 的 Preference 中保存了很多与安全性相关的配置参数。如果允许网站的 JS 修改这些参数，将会成为巨大的安全隐患。        ◇为啥要修改“配置选项”？ 
+  俺总结下来，大致有如下几种需求：  
+   1. 安全加固
+    你可以通过定制很多的 Preferences 以大大强化 Firefox 的安全性（包括隐私防护能力）。  每次 Firefox 的新版本增加了某个比较重要的安全相关的定制选项，俺会在每季度的《近期安全动态和点评》提醒大伙儿。  
+   2. 性能优化
+    通过定制 Preference 可以优化性能（包括：“网络传输、内存使用、界面渲染”等方面）  
+   3. 易用性
+    通过定制 Preference，你还可以改进 Firefox 界面的易用性。         ★“about:config”界面 
+       ◇进入界面 
+  修改 Firefox 的 Preference，最简单的方式就是“about:config”界面了。  你在浏览器地址栏输入 
+   about:config
+   然后敲回车，就进入该界面。  （提醒一下：打开该界面时，你可能会看到一个警告提示，别慌张）   “about:config”界面主要是个的表格，共4列，分别是：  第1列：Preference 的“名称”  第2列：Preference 的“状态”（如果显示“default”表示该 Preference 还没被修改过，显示“modified”表示已经被改过）  第3列：Preference 的“数据类型”  第4列：Preference 的“当前值”        ◇【筛选/过滤】Preferences 
+  该界面默认会列出 Firefox【所有的】Preference（成百上千个）。某些菜鸟一看到这个架势，可能会有点晕。  别慌，界面上方有一个搜索框，可以帮你进行【筛选/过滤】。  该搜索框针对 Preference 的名称进行【模糊匹配】。比如说：你在搜索框中输入 
+   network
+   ，那么界面上就只列出名称中包含 
+   network
+   的那些 Preferences。        ◇【修改】某个 Preference 的值 
+  对于“布尔型”的 Preference，你双击 Preference 所在的这行，就可以修改它的“当前值”（在 true 与 false 之间切换）  对于其它数据类型，双击 Preference 所在的行，会弹出一个对话框，让你输入【新的】数值。        ◇【重置】某个 Preference 的值 
+  所谓的“重置”（reset）就是指“恢复默认值”。  （对于已经被改过的 Preference）选中它所在的那行；点右键；在快捷菜单上有一项“Reset”（重置）；使用这个菜单项就可以把该选项重新恢复成默认值。        ◇【添加】一个新的 Preference 
+  在“about:config”界面的表格上点右键；在快捷菜单上有一项“New”（新增）；可以让你添加一个新的 Preference。  添加时会让你指定新 Preference 的“名称”和“数值”。        ◇一个小小的练习——如何去掉“about:config”界面的警告 
+  你在“about:config”界面的搜索框中输入 
+   general.warnOnAboutConfig
+   ，此时只会过滤出一个 Preference，这个 Preference 是“布尔型”。当它的值是 
+   true
+   ，每次你打开“about:config”界面都会显示警告提示；反之，则不显示。  你可以修改这个 Preference 的值。修改之后再【重新打开】“about:config”界面，体会一下效果。         ★“prefs.js”配置文件 
+       ◇功能简介 
+  每个 Firefox 实例中都有名为 
+   prefs.js
+   的配置文件。这个文件保存了当前实例中【所有】Preferences 的设置。        ◇文件位置 
+  该文件位于每个【实例目录】下。        ◇文件格式 
+  该文件的扩展名是 
+   .js
+   ，说明其内容是 javascript 语法。  在 javascript 语法中，任何一行中如果出现【双斜杠】 
+   //
+   ，那么“从双斜杠一直到行尾”都算【注释】；另外，包含在 
+   /*
+   和 
+   */
+   之间的内容也是【注释】。（注：第二种注释可以跨越多行）  除了注释之外，该文件的每一行有效代码对应一个 Preferences。文件中的每个有效代码行全都是如下这个样子：      
+      user_pref("配置项名称", 配置项数值);
+      
+    
+  由于每一个 Preferences 的名称都是字符串，因此上述代码中的 
+   配置项名称
+   总是包含在【半角引号】中。  如果某个 Preferences 的数据类型属于“字符串型”，那么上述代码中的“配置项数值”也要包含在【半角引号】中；否则，就不需要使用引号。        ◇注意事项！！！ 
+  
+   【不要】直接修改
+   
+    prefs.js
+   
+   文件！！！
+    如果你想通过【配置文件】的方式定制 Firefox 的 Preferences，请使用【user.js】（参见下一个章节）。         ★“user.js”配置文件 
+       ◇功能简介 
+  Firefox 使用名为 
+   user.js
+   的文件对 Preferences 进行个性化定制。        ◇文件位置 
+  该文件位于【实例目录】下。请注意： 
+   默认情况下【没有】这个文件！
+    如果你想用这种方式定制 Firefox，需要在【当前实例】的目录下【手动创建】该文件，然后往这个文件中添加代码。        ◇文件格式 
+  该文件的格式与 
+   prefs.js
+   相同。具体介绍参见“前一个章节”。        ◇配置举例 
+  前面介绍“about:config”界面时，已经让你做了一个小小的练习。  现在，咱们在“user.js”中继续进行这个练习——  当你创建好一个空的 
+   user.js
+   文件，在文件中添加如下代码，并存盘。      
+      user_pref("general.warnOnAboutConfig", false);
+      
+    
+ （注：上述代码中的“括号、引号、逗号、分号”必须都是【半角符号】）  上述文件存盘之后，你把 Firefox 重新启动，然后再打开“about:config”界面，这时候就不会再有那个讨厌的警告信息了。        ◇【重置】某个 Preference 的值 
+  如果你已经在“user.js”中修改过某个 Preference，之后又想恢复其默认值。请参照如下步骤：  1. 先在“user.js”中把这个 Preference 的配置“删除”或“注释掉”；  2. 重启浏览器；  3. 再到“about:config”界面进行重置操作。        ◇注意事项！！！ 
+  当你要通过这种方式修改某个选项，先搞清楚这个选项的含义和用途，并了解可能的【副作用】。         ★上述三种配置方式的【原理】 
+       ◇加载配置 
+  当 Firefox 启动的时候，会读取 
+   user.js
+   和 
+   prefs.js
+   ，拿到这两个文件中的 Preferences 配置，并保存在内存中。  如果发现这两个文件的配置有冲突，以 
+   user.js
+   为准（也就是说：“ 
+   user.js
+   的配置”会覆盖“ 
+   prefs.js
+   的配置”）。  如果同一个配置项在某个文件中出现多次，后面的代码行会覆盖前面的代码行。        ◇修改配置 
+  当你打开“about:config”界面，Firefox 会把内存中的 Preferences 信息显示给你看。  如果你在这个界面上进行了修改，修改的结果会保存在内存中，同时也会保存到 
+   prefs.js
+   文件中。  另外，Firefox【不会】去修改你用于定制的 
+   user.js
+   文件。         ★高级话题——autoconfig 
+  “高级话题”是专门针对“Firefox 老鸟”，尤其是那些具有“geek 精神”（善于折腾）的用户。  （熟悉本博客的读者应该知道：俺一向鼓励【折腾】，并写过一篇博文《  聊聊【折腾】的重要性  》）  至于菜鸟嘛，先搞定前面章节介绍的内容，学会怎么用“user.js”；然后再考虑本文的“高级话题”。  考虑到本章节的特点，“高级话题”的介绍只是【点到为止】——对于【善折腾】的读者，俺只需给出一个方向，他们自然能沿着这个方向走得足够远。        ◇“user.js”的局限性 
+  通过“user.js”，虽然可以让你定制每一个 Preference；但至少有如下局限性：   
+   局限性1——【无法】修改某个 Preference 的【默认值】
+    请注意：在 
+   user.js
+   中修改的是【当前值】。不管“当前值”如何变，“默认值”【没】变。  在某些特殊场合，你可能想要定制 Preference 的【默认值】。   
+   局限性2——【无法】锁定某个 Preference
+    所谓的“锁定”就是“禁止修改”的意思。  比如说：某个第三方扩展会修改某个 Preference 的值；但你又不希望这个 Preference 被修改。这时候就可以把这个 Preference【锁定】。        ◇比“user.js”更牛逼的【autoconfig】 
+  Firefox 的扩展能力及其强大，当然能满足上述这些怪异的需求。  Mozilla 提供了名为【autoconfig】的机制，可以更进一步地定制 Preference。具体参见 Mozilla 官网的“  这篇教程  ”（洋文）。  在 
+   user.js
+   中，咱们只能使用 
+   user_pref
+   这个函数；而在【autoconfig】这种定制方式中，还提供了更多的函数，至少包括如下（代码中绿色的部分是注释）：      
+      defaultPref("配置项名称", 配置项数值);  // 该函数用于：定制配置项的【默认值】
+lockPref("配置项名称", 配置项数值);  // 该函数用于：设置配置项的默认值并【锁定】
+unlockPref("配置项名称");  // 该函数用于：【解锁】配置项
+clearPref("配置项名称");  //  该函数用于：把配置项的【当前值】恢复为【默认值】
+      
+    
+        ★高级话题——定制“omni.ja” 
+       ◇“autoconfig”的局限性 
+  “autoconfig”虽然比“user.js”更牛逼，但其能力只局限于 Preference 相关的定制。  有些你想定制的东西（比如：默认的键盘快捷键）【并不】保存在 Preference 中——也就是说，即便你去捣鼓“autoconfig”也【搞不定】！这时候就要引入【终极大杀器】——直接修改【omni.ja】。   顺便插一句：  自从 Firefox Quantum（Firefox 57）之后，旧的“XPCOM 扩展机制”已经淘汰，换成新的“WebExtensions 扩展机制”。但是，“新扩展机制”的功能比原来要弱（据说是为了安全性的考虑）。比如：对“键盘快捷键”的定制能力就变弱了。  在这种情况下，“定制 omni.ja”的优势就更加明显——因为它能做到“用扩展无法完成的事情”。        ◇比“autoconfig”更强大的【omni.ja】 
+  Firefox 是一个很复杂的开源项目，代码量超大。它的核心代码（比如：渲染引擎、JS 引擎）是基于 C++ 语言开发（并在逐步迁移到 Rust 语言）。而软件界面（UI）相关的部分，大体上还是 Web 那套东西（不外乎就是：XML、JS、JSON、CSS ...）。  这些与 UI 相关的东西，大部分都打包在（安装包自带的） 
+   omni.ja
+   文件中。如果你摸透了 
+   omni.ja
+   的结构，就可以对 Firefox 的界面进行任意定制。  说到这里，某些熟悉 Firefox 的用户会反问：为啥不用 
+   userChrome.css
+   定制 Firefox？  这个东东俺当然知道（而且还写过专门的教程，链接在“  这里  ”）。但它的能力很【有限】——只能修改 CSS 样式，【无法】定制界面的功能。   举个【简单】例子：  比如说 Firefox 的默认快捷键中，【Ctrl + q】会退出整个进程；  如果你不喜欢这个快捷键，可以换成一个更顺手的（通过修改 
+   omni.ja
+   里面的 
+   chrome/en-US/locale/browser/browser.dtd
+   ）   举个【复杂】例子：  或许很多 Firefox 用户不知道——你可以用【Alt + 数字键】或【Ctrl + 数字键】来切换 Firefox 的标签页。  （注：俺在 Linux 用的是 Alt，而 Windows 环境用的是 Ctrl）  当你在 Firefox 界面上按了这个组合键，会触发某个 JS 代码，然后由这个 JS 代码来改变当前标签页的状态。  而这段 JS 代码就包含在 
+   omni.ja
+   这个压缩包的某个文件中（ 
+   chrome/browser/content/browser/browser.xul
+   ）。如果你能修改这段 JS 代码，就可以实现自己想要的某些效果。   
+   友情提醒：
+    安装好的 Firefox 有【两个】 
+   omni.ja
+   ——大的那个有30多兆，小的那个有十多兆。  当你要折腾的时候，别搞错了！！！  比如说：当俺在折腾键盘快捷键时，修改的是【大的】那个。        ◇简述“omni.ja”的格式 
+  
+   如何“解压缩”？
+    虽然 
+   omni.ja
+   的扩展名是 
+   .ja
+   ，但其实是个 zip 压缩包；但它又【不是】标准的 zip 压缩包——因为它的文件头有点特殊。  俺在 Linux 下用 
+   unzip
+   命令进行解压缩，完全 OK（使用 Mac OS 的同学也可以用这个命令）；  对于使用 Windows 的同学，（Mozilla 官网的文档建议）先把扩展名改为 
+   .zip
+   再用资源管理器自带的解压功能（注：其它解压 zip 的工具不一定能行）。   
+   如何“压缩（重新打包）”？
+    当你【修改完】 
+   omni.ja
+   内部的文件之后，要【重新打包】该文件。  对于 POSIX 环境（Linux &amp; UNIX），Mozilla 官网的文档建议使用如下命令：      zip -qr9XD omni.ja *    
+       ◇定制“omni.ja”的注意事项 
+  简单说几个注意事项：   
+   第1条
+    
+   omni.ja
+   内部的文件很多。只修改那些【你有把握】的文件。  如果你把 
+   omni.ja
+   内部的某些文件改坏了，可能会导致 Firefox 无法启动，而且也没有任何报错信息。   
+   第2条
+    每次修改完 
+   omni.ja
+   ，为了让你的修改生效，要记得：先退出 Firefox【进程】；然后清空整个缓存目录；最后再启动 Firefox。   
+   第3条
+    由于每次修改完都要做“打包、清缓存、重启 Firefox”这几件事情。俺建议：搞个命令行脚本帮你自动干这些事儿，以提升效率。   
+   第4条
+    
+   omni.ja
+   会随着 Firefox 的版本而变化。也就是说，每次有新版本，你还需要在新版本上再修改一次。  如果结合第3条与第4条，你更应该写一个脚本，帮你【自动化】完成整个定制流程。    
+   俺博客上，和本文相关的帖子（需翻墙）
+   ：  《  无需任何插件或扩展，定制 Firefox 外观  》  《  基于安全考虑，如何选择及切换 Firefox 版本？  》  《  弃用 Chrome 改用 Firefox 的几点理由——关于 Chrome 69 隐私丑闻的随想  》  《  如何用 GreaseMonkey 扩展 Google Reader  》  《  聊聊【折腾】的重要性  》     
+
+    版权声明
+     本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者  编程随想  和本文原始地址：   https://program-think.blogspot.com/2019/07/Customize-Firefox.html 
+    
+    
+  
+  
+    
+         
+    
+    
+    
+ 
+    
+  
+
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=扫盲 Firefox 定制——从“user.js”到“omni.ja”&url=https://program-think.blogspot.com/2019/07/Customize-Firefox.html" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>扫盲 Firefox 定制——从“user.js”到“omni.ja”</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2019-07-19
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#编程随想">
+          编程随想
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://program-think.blogspot.com/2019/07/Customize-Firefox.html" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="编程随想的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#编程随想 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <div class="post hentry uncustomized-post-template">
+<a name="1339684058517870835">
+ </a>   <h1 class="post-title entry-title" id="firefox-userjsomnija--"> <a href="https://program-think.blogspot.com/2019/07/Customize-Firefox.html"> 扫盲 Firefox 定制——从“user.js”到“omni.ja” </a> </h1>
+  <div class="post-header">
+    <div class="post-header-line-1">
+      <div class="post-inner-index"></div>
+    </div>
+  </div>
+  <div class="post-body entry-content">
+最近一年，写过好几篇涉及“Web 安全”的博文。这些博文或多或少都会提及“Firefox 的定制”。考虑到某些读者对这方面不太了解，单独写一篇扫盲。 <br /> 如果你从来不用 Firefox 浏览器，本教程就不用看了（以免浪费时间）。 <br /> 本文主要面向不太熟悉 Firefox 的菜鸟；对于 Firefox 的老鸟，顶多只需要看“高级话题”相关的章节。 <br /> <a name="more">
+  </a>     <!--program-think-->
+ <br /> <br />     <h2 id="section"> ★预备知识 </h2>
+ <br />     <h3 id="profile-"> ◇“浏览器实例”（profile）是啥？ </h3>
+ <br /> Firefox 支持【多实例】（多个 profile）。你可以把“profile”这个概念通俗理解为：“独立的浏览器环境”。 <br /> 也就是说，实例之间是【互相隔离】滴，每个实例都有自己【独立的】“书签、浏览历史、下载历史、cookies ......” <br /> 就算你从来没有创建过实例，只要你通过 Firefox 上网，你的 Firefox 至少会有一个实例（也就是你正在用的这个）。 <br /> <br />     <h3 id="section-1"> ◇如何找到当前实例的目录？ </h3>
+ <br /> 每个实例（profile）都对应一个目录，属于该实例的那些东西（书签、浏览历史、下载历史、cookies ...）全都存储在该目录下。 <br /> 要想查看你正在使用的 Firefox 实例对应的目录，很简单： <br /> 1. 在浏览器地址栏输入 <code class="language-plaintext highlighter-rouge">
+   about:support
+  </code> 然后敲回车 <br /> 2. 这时候会显示一个支持页面，其中有一项 <code class="language-plaintext highlighter-rouge">
+   Profile Directory
+  </code> （俺用的是英文版，中文版的叫法略有不同），对应的就是【当前实例的目录】。 <br /> <br /> <br />     <h2 id="preferences-"> ★扫盲“配置选项”（Preferences） </h2>
+ <br />     <h3 id="section-2"> ◇啥是“配置选项”？ </h3>
+ <br /> “配置选项”也叫“首选项”，洋文称之为“Preferences”。 <br /> 通俗地说就是：Firefox 提供了一大堆可供用户定制的参数。通过修改这些参数，可以对 Firefox 进行【全方位】定制。 <br /> 每个 Preference 包含如下几个要素： <br /> <br /> <b>
+   名称
+  </b> <br /> 每个 Preference 的名称必定是【唯一】滴。 <br /> “名称”由英文单词构成，单词之间以“小数点”或“下划线”分隔。 <br /> <br /> <b>
+   数据类型
+  </b> <br /> Preferences 的“数据类型”必须是“布尔型、整数型、字符串型”这三者之一。 <br /> “布尔型”的值只能是 true 或 false。 <br /> “整数型”的值可以是负数。 <br /> <br /> <b>
+   默认值
+  </b> <br /> 每个 Preference 都有个“默认值”。 <br /> “默认值”包含在 Firefox 的安装包里面。 <br /> 绝大多数用户并【不需要】去修改“默认值”。 <br /> （注：极少数有此需求的读者，可以去本文的 <q style="background-color:#DDD;"> 高级话题——autoconfig </q> 这个章节） <br /> <br /> <b>
+   当前值
+  </b> <br /> 每个 Preference 都对应某个“当前值”。 <br /> 当你修改 Preference 的时候，修改的就是它的“当前值”。 <br /> 一开始的时候，每个 Preference 的“当前值”就等于它的“默认值”；如果该 Preference 被定制了（修改了），其“当前值”与“默认值”就有可能不同。 <br /> <br />     <h3 id="section-3"> ◇谁可以修改“配置选项”？ </h3>
+ <br /> 首先，Firefox 的用户当然可以修改配置选项（具体如何做，后续章节会细聊） <br /> 除了用户，【浏览器扩展】也可以添加或修改“配置选项”。某些扩展会提供定制界面，让用户设定某些参数。这些参数也保存在浏览器的 Preference 里面。 <br /> 有必要强调一下：网站上的 JS 是【无法修改】Preference 滴！ <br /> 道理很简单：因为 Firefox 的 Preference 中保存了很多与安全性相关的配置参数。如果允许网站的 JS 修改这些参数，将会成为巨大的安全隐患。 <br /> <br />     <h3 id="section-4"> ◇为啥要修改“配置选项”？ </h3>
+ <br /> 俺总结下来，大致有如下几种需求： <br /> <b>
+   1. 安全加固
+  </b> <br /> 你可以通过定制很多的 Preferences 以大大强化 Firefox 的安全性（包括隐私防护能力）。 <br /> 每次 Firefox 的新版本增加了某个比较重要的安全相关的定制选项，俺会在每季度的《近期安全动态和点评》提醒大伙儿。 <br /> <b>
+   2. 性能优化
+  </b> <br /> 通过定制 Preference 可以优化性能（包括：“网络传输、内存使用、界面渲染”等方面） <br /> <b>
+   3. 易用性
+  </b> <br /> 通过定制 Preference，你还可以改进 Firefox 界面的易用性。 <br /> <br /> <br />     <h2 id="aboutconfig-"> ★“about:config”界面 </h2>
+ <br />     <h3 id="section-5"> ◇进入界面 </h3>
+ <br /> 修改 Firefox 的 Preference，最简单的方式就是“about:config”界面了。 <br /> 你在浏览器地址栏输入 <code class="language-plaintext highlighter-rouge">
+   about:config
+  </code> 然后敲回车，就进入该界面。 <br /> （提醒一下：打开该界面时，你可能会看到一个警告提示，别慌张） <br /> <br /> “about:config”界面主要是个的表格，共4列，分别是： <br /> 第1列：Preference 的“名称” <br /> 第2列：Preference 的“状态”（如果显示“default”表示该 Preference 还没被修改过，显示“modified”表示已经被改过） <br /> 第3列：Preference 的“数据类型” <br /> 第4列：Preference 的“当前值” <br /> <br />     <h3 id="preferences--1"> ◇【筛选/过滤】Preferences </h3>
+ <br /> 该界面默认会列出 Firefox【所有的】Preference（成百上千个）。某些菜鸟一看到这个架势，可能会有点晕。 <br /> 别慌，界面上方有一个搜索框，可以帮你进行【筛选/过滤】。 <br /> 该搜索框针对 Preference 的名称进行【模糊匹配】。比如说：你在搜索框中输入 <code class="language-plaintext highlighter-rouge">
+   network
+  </code> ，那么界面上就只列出名称中包含 <code class="language-plaintext highlighter-rouge">
+   network
+  </code> 的那些 Preferences。 <br /> <br />     <h3 id="preference--"> ◇【修改】某个 Preference 的值 </h3>
+ <br /> 对于“布尔型”的 Preference，你双击 Preference 所在的这行，就可以修改它的“当前值”（在 true 与 false 之间切换） <br /> 对于其它数据类型，双击 Preference 所在的行，会弹出一个对话框，让你输入【新的】数值。 <br /> <br />     <h3 id="preference---1"> ◇【重置】某个 Preference 的值 </h3>
+ <br /> 所谓的“重置”（reset）就是指“恢复默认值”。 <br /> （对于已经被改过的 Preference）选中它所在的那行；点右键；在快捷菜单上有一项“Reset”（重置）；使用这个菜单项就可以把该选项重新恢复成默认值。 <br /> <br />     <h3 id="preference-"> ◇【添加】一个新的 Preference </h3>
+ <br /> 在“about:config”界面的表格上点右键；在快捷菜单上有一项“New”（新增）；可以让你添加一个新的 Preference。 <br /> 添加时会让你指定新 Preference 的“名称”和“数值”。 <br /> <br />     <h3 id="aboutconfig--1"> ◇一个小小的练习——如何去掉“about:config”界面的警告 </h3>
+ <br /> 你在“about:config”界面的搜索框中输入 <code class="language-plaintext highlighter-rouge">
+   general.warnOnAboutConfig
+  </code> ，此时只会过滤出一个 Preference，这个 Preference 是“布尔型”。当它的值是 <code class="language-plaintext highlighter-rouge">
+   true
+  </code> ，每次你打开“about:config”界面都会显示警告提示；反之，则不显示。 <br /> 你可以修改这个 Preference 的值。修改之后再【重新打开】“about:config”界面，体会一下效果。 <br /> <br /> <br />     <h2 id="prefsjs-"> ★“prefs.js”配置文件 </h2>
+ <br />     <h3 id="section-6"> ◇功能简介 </h3>
+ <br /> 每个 Firefox 实例中都有名为 <code class="language-plaintext highlighter-rouge">
+   prefs.js
+  </code> 的配置文件。这个文件保存了当前实例中【所有】Preferences 的设置。 <br /> <br />     <h3 id="section-7"> ◇文件位置 </h3>
+ <br /> 该文件位于每个【实例目录】下。 <br /> <br />     <h3 id="section-8"> ◇文件格式 </h3>
+ <br /> 该文件的扩展名是 <code class="language-plaintext highlighter-rouge">
+   .js
+  </code> ，说明其内容是 javascript 语法。 <br /> 在 javascript 语法中，任何一行中如果出现【双斜杠】 <code class="language-plaintext highlighter-rouge">
+   //
+  </code> ，那么“从双斜杠一直到行尾”都算【注释】；另外，包含在 <code class="language-plaintext highlighter-rouge">
+   /*
+  </code> 和 <code class="language-plaintext highlighter-rouge">
+   */
+  </code> 之间的内容也是【注释】。（注：第二种注释可以跨越多行） <br /> 除了注释之外，该文件的每一行有效代码对应一个 Preferences。文件中的每个有效代码行全都是如下这个样子： <br />     <div class="source">
+      <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>user_pref("配置项名称", 配置项数值);
+</code></pre></div>      </div>
+    </div>
+ <br /> 由于每一个 Preferences 的名称都是字符串，因此上述代码中的 <code class="language-plaintext highlighter-rouge">
+   配置项名称
+  </code> 总是包含在【半角引号】中。 <br /> 如果某个 Preferences 的数据类型属于“字符串型”，那么上述代码中的“配置项数值”也要包含在【半角引号】中；否则，就不需要使用引号。 <br /> <br />     <h3 id="section-9"> ◇注意事项！！！ </h3>
+ <br /> <b>
+   【不要】直接修改
+   <code>
+    prefs.js
+   </code>
+   文件！！！
+  </b> <br /> 如果你想通过【配置文件】的方式定制 Firefox 的 Preferences，请使用【user.js】（参见下一个章节）。 <br /> <br /> <br />     <h2 id="userjs-"> ★“user.js”配置文件 </h2>
+ <br />     <h3 id="section-10"> ◇功能简介 </h3>
+ <br /> Firefox 使用名为 <code class="language-plaintext highlighter-rouge">
+   user.js
+  </code> 的文件对 Preferences 进行个性化定制。 <br /> <br />     <h3 id="section-11"> ◇文件位置 </h3>
+ <br /> 该文件位于【实例目录】下。请注意： <b>
+   默认情况下【没有】这个文件！
+  </b> <br /> 如果你想用这种方式定制 Firefox，需要在【当前实例】的目录下【手动创建】该文件，然后往这个文件中添加代码。 <br /> <br />     <h3 id="section-12"> ◇文件格式 </h3>
+ <br /> 该文件的格式与 <code class="language-plaintext highlighter-rouge">
+   prefs.js
+  </code> 相同。具体介绍参见“前一个章节”。 <br /> <br />     <h3 id="section-13"> ◇配置举例 </h3>
+ <br /> 前面介绍“about:config”界面时，已经让你做了一个小小的练习。 <br /> 现在，咱们在“user.js”中继续进行这个练习—— <br /> 当你创建好一个空的 <code class="language-plaintext highlighter-rouge">
+   user.js
+  </code> 文件，在文件中添加如下代码，并存盘。 <br />     <div class="source">
+      <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>user_pref("general.warnOnAboutConfig", false);
+</code></pre></div>      </div>
+    </div>
+ （注：上述代码中的“括号、引号、逗号、分号”必须都是【半角符号】） <br /> 上述文件存盘之后，你把 Firefox 重新启动，然后再打开“about:config”界面，这时候就不会再有那个讨厌的警告信息了。 <br /> <br />     <h3 id="preference---2"> ◇【重置】某个 Preference 的值 </h3>
+ <br /> 如果你已经在“user.js”中修改过某个 Preference，之后又想恢复其默认值。请参照如下步骤： <br /> 1. 先在“user.js”中把这个 Preference 的配置“删除”或“注释掉”； <br /> 2. 重启浏览器； <br /> 3. 再到“about:config”界面进行重置操作。 <br /> <br />     <h3 id="section-14"> ◇注意事项！！！ </h3>
+ <br /> 当你要通过这种方式修改某个选项，先搞清楚这个选项的含义和用途，并了解可能的【副作用】。 <br /> <br /> <br />     <h2 id="section-15"> ★上述三种配置方式的【原理】 </h2>
+ <br />     <h3 id="section-16"> ◇加载配置 </h3>
+ <br /> 当 Firefox 启动的时候，会读取 <code class="language-plaintext highlighter-rouge">
+   user.js
+  </code> 和 <code class="language-plaintext highlighter-rouge">
+   prefs.js
+  </code> ，拿到这两个文件中的 Preferences 配置，并保存在内存中。 <br /> 如果发现这两个文件的配置有冲突，以 <code class="language-plaintext highlighter-rouge">
+   user.js
+  </code> 为准（也就是说：“ <code class="language-plaintext highlighter-rouge">
+   user.js
+  </code> 的配置”会覆盖“ <code class="language-plaintext highlighter-rouge">
+   prefs.js
+  </code> 的配置”）。 <br /> 如果同一个配置项在某个文件中出现多次，后面的代码行会覆盖前面的代码行。 <br /> <br />     <h3 id="section-17"> ◇修改配置 </h3>
+ <br /> 当你打开“about:config”界面，Firefox 会把内存中的 Preferences 信息显示给你看。 <br /> 如果你在这个界面上进行了修改，修改的结果会保存在内存中，同时也会保存到 <code class="language-plaintext highlighter-rouge">
+   prefs.js
+  </code> 文件中。 <br /> 另外，Firefox【不会】去修改你用于定制的 <code class="language-plaintext highlighter-rouge">
+   user.js
+  </code> 文件。 <br /> <br /> <br />     <h2 id="autoconfig-"> ★高级话题——autoconfig </h2>
+ <br /> “高级话题”是专门针对“Firefox 老鸟”，尤其是那些具有“geek 精神”（善于折腾）的用户。 <br /> （熟悉本博客的读者应该知道：俺一向鼓励【折腾】，并写过一篇博文《 <a href="https://program-think.blogspot.com/2017/04/The-Importance-of-Zheteng.html"> 聊聊【折腾】的重要性 </a> 》） <br /> 至于菜鸟嘛，先搞定前面章节介绍的内容，学会怎么用“user.js”；然后再考虑本文的“高级话题”。 <br /> 考虑到本章节的特点，“高级话题”的介绍只是【点到为止】——对于【善折腾】的读者，俺只需给出一个方向，他们自然能沿着这个方向走得足够远。 <br /> <br />     <h3 id="userjs--1"> ◇“user.js”的局限性 </h3>
+ <br /> 通过“user.js”，虽然可以让你定制每一个 Preference；但至少有如下局限性： <br /> <br /> <b>
+   局限性1——【无法】修改某个 Preference 的【默认值】
+  </b> <br /> 请注意：在 <code class="language-plaintext highlighter-rouge">
+   user.js
+  </code> 中修改的是【当前值】。不管“当前值”如何变，“默认值”【没】变。 <br /> 在某些特殊场合，你可能想要定制 Preference 的【默认值】。 <br /> <br /> <b>
+   局限性2——【无法】锁定某个 Preference
+  </b> <br /> 所谓的“锁定”就是“禁止修改”的意思。 <br /> 比如说：某个第三方扩展会修改某个 Preference 的值；但你又不希望这个 Preference 被修改。这时候就可以把这个 Preference【锁定】。 <br /> <br />     <h3 id="userjsautoconfig-"> ◇比“user.js”更牛逼的【autoconfig】 </h3>
+ <br /> Firefox 的扩展能力及其强大，当然能满足上述这些怪异的需求。 <br /> Mozilla 提供了名为【autoconfig】的机制，可以更进一步地定制 Preference。具体参见 Mozilla 官网的“ <a href="https://support.mozilla.org/en-US/kb/customizing-firefox-using-autoconfig" rel="nofollow" target="_blank"> 这篇教程 </a> ”（洋文）。 <br /> 在 <code class="language-plaintext highlighter-rouge">
+   user.js
+  </code> 中，咱们只能使用 <code class="language-plaintext highlighter-rouge">
+   user_pref
+  </code> 这个函数；而在【autoconfig】这种定制方式中，还提供了更多的函数，至少包括如下（代码中绿色的部分是注释）： <br />     <div class="source">
+      <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>defaultPref("配置项名称", 配置项数值);  // 该函数用于：定制配置项的【默认值】
+lockPref("配置项名称", 配置项数值);  // 该函数用于：设置配置项的默认值并【锁定】
+unlockPref("配置项名称");  // 该函数用于：【解锁】配置项
+clearPref("配置项名称");  //  该函数用于：把配置项的【当前值】恢复为【默认值】
+</code></pre></div>      </div>
+    </div>
+ <br /> <br />     <h2 id="omnija-"> ★高级话题——定制“omni.ja” </h2>
+ <br />     <h3 id="autoconfig--1"> ◇“autoconfig”的局限性 </h3>
+ <br /> “autoconfig”虽然比“user.js”更牛逼，但其能力只局限于 Preference 相关的定制。 <br /> 有些你想定制的东西（比如：默认的键盘快捷键）【并不】保存在 Preference 中——也就是说，即便你去捣鼓“autoconfig”也【搞不定】！这时候就要引入【终极大杀器】——直接修改【omni.ja】。 <br /> <br /> 顺便插一句： <br /> 自从 Firefox Quantum（Firefox 57）之后，旧的“XPCOM 扩展机制”已经淘汰，换成新的“WebExtensions 扩展机制”。但是，“新扩展机制”的功能比原来要弱（据说是为了安全性的考虑）。比如：对“键盘快捷键”的定制能力就变弱了。 <br /> 在这种情况下，“定制 omni.ja”的优势就更加明显——因为它能做到“用扩展无法完成的事情”。 <br /> <br />     <h3 id="autoconfigomnija-"> ◇比“autoconfig”更强大的【omni.ja】 </h3>
+ <br /> Firefox 是一个很复杂的开源项目，代码量超大。它的核心代码（比如：渲染引擎、JS 引擎）是基于 C++ 语言开发（并在逐步迁移到 Rust 语言）。而软件界面（UI）相关的部分，大体上还是 Web 那套东西（不外乎就是：XML、JS、JSON、CSS ...）。 <br /> 这些与 UI 相关的东西，大部分都打包在（安装包自带的） <code class="language-plaintext highlighter-rouge">
+   omni.ja
+  </code> 文件中。如果你摸透了 <code class="language-plaintext highlighter-rouge">
+   omni.ja
+  </code> 的结构，就可以对 Firefox 的界面进行任意定制。 <br /> 说到这里，某些熟悉 Firefox 的用户会反问：为啥不用 <code class="language-plaintext highlighter-rouge">
+   userChrome.css
+  </code> 定制 Firefox？ <br /> 这个东东俺当然知道（而且还写过专门的教程，链接在“ <a href="https://program-think.blogspot.com/2016/10/custom-firefox-theme-without-extension.html"> 这里 </a> ”）。但它的能力很【有限】——只能修改 CSS 样式，【无法】定制界面的功能。 <br /> <br /> 举个【简单】例子： <br /> 比如说 Firefox 的默认快捷键中，【Ctrl + q】会退出整个进程； <br /> 如果你不喜欢这个快捷键，可以换成一个更顺手的（通过修改 <code class="language-plaintext highlighter-rouge">
+   omni.ja
+  </code> 里面的 <code class="language-plaintext highlighter-rouge">
+   chrome/en-US/locale/browser/browser.dtd
+  </code> ） <br /> <br /> 举个【复杂】例子： <br /> 或许很多 Firefox 用户不知道——你可以用【Alt + 数字键】或【Ctrl + 数字键】来切换 Firefox 的标签页。 <br /> （注：俺在 Linux 用的是 Alt，而 Windows 环境用的是 Ctrl） <br /> 当你在 Firefox 界面上按了这个组合键，会触发某个 JS 代码，然后由这个 JS 代码来改变当前标签页的状态。 <br /> 而这段 JS 代码就包含在 <code class="language-plaintext highlighter-rouge">
+   omni.ja
+  </code> 这个压缩包的某个文件中（ <code class="language-plaintext highlighter-rouge">
+   chrome/browser/content/browser/browser.xul
+  </code> ）。如果你能修改这段 JS 代码，就可以实现自己想要的某些效果。 <br /> <br /> <b>
+   友情提醒：
+  </b> <br /> 安装好的 Firefox 有【两个】 <code class="language-plaintext highlighter-rouge">
+   omni.ja
+  </code> ——大的那个有30多兆，小的那个有十多兆。 <br /> 当你要折腾的时候，别搞错了！！！ <br /> 比如说：当俺在折腾键盘快捷键时，修改的是【大的】那个。 <br /> <br />     <h3 id="omnija--1"> ◇简述“omni.ja”的格式 </h3>
+ <br /> <b>
+   如何“解压缩”？
+  </b> <br /> 虽然 <code class="language-plaintext highlighter-rouge">
+   omni.ja
+  </code> 的扩展名是 <code class="language-plaintext highlighter-rouge">
+   .ja
+  </code> ，但其实是个 zip 压缩包；但它又【不是】标准的 zip 压缩包——因为它的文件头有点特殊。 <br /> 俺在 Linux 下用 <code class="language-plaintext highlighter-rouge">
+   unzip
+  </code> 命令进行解压缩，完全 OK（使用 Mac OS 的同学也可以用这个命令）； <br /> 对于使用 Windows 的同学，（Mozilla 官网的文档建议）先把扩展名改为 <code class="language-plaintext highlighter-rouge">
+   .zip
+  </code> 再用资源管理器自带的解压功能（注：其它解压 zip 的工具不一定能行）。 <br /> <br /> <b>
+   如何“压缩（重新打包）”？
+  </b> <br /> 当你【修改完】 <code class="language-plaintext highlighter-rouge">
+   omni.ja
+  </code> 内部的文件之后，要【重新打包】该文件。 <br /> 对于 POSIX 环境（Linux &amp; UNIX），Mozilla 官网的文档建议使用如下命令： <br />     <div class="language-plaintext shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>zip -qr9XD omni.ja *</code></pre></div>    </div>
+ <br />     <h3 id="omnija--2"> ◇定制“omni.ja”的注意事项 </h3>
+ <br /> 简单说几个注意事项： <br /> <br /> <b>
+   第1条
+  </b> <br /> <code class="language-plaintext highlighter-rouge">
+   omni.ja
+  </code> 内部的文件很多。只修改那些【你有把握】的文件。 <br /> 如果你把 <code class="language-plaintext highlighter-rouge">
+   omni.ja
+  </code> 内部的某些文件改坏了，可能会导致 Firefox 无法启动，而且也没有任何报错信息。 <br /> <br /> <b>
+   第2条
+  </b> <br /> 每次修改完 <code class="language-plaintext highlighter-rouge">
+   omni.ja
+  </code> ，为了让你的修改生效，要记得：先退出 Firefox【进程】；然后清空整个缓存目录；最后再启动 Firefox。 <br /> <br /> <b>
+   第3条
+  </b> <br /> 由于每次修改完都要做“打包、清缓存、重启 Firefox”这几件事情。俺建议：搞个命令行脚本帮你自动干这些事儿，以提升效率。 <br /> <br /> <b>
+   第4条
+  </b> <br /> <code class="language-plaintext highlighter-rouge">
+   omni.ja
+  </code> 会随着 Firefox 的版本而变化。也就是说，每次有新版本，你还需要在新版本上再修改一次。 <br /> 如果结合第3条与第4条，你更应该写一个脚本，帮你【自动化】完成整个定制流程。 <br /> <br /> <br /> <b>
+   俺博客上，和本文相关的帖子（需翻墙）
+  </b> ： <br /> 《 <a href="https://program-think.blogspot.com/2016/10/custom-firefox-theme-without-extension.html"> 无需任何插件或扩展，定制 Firefox 外观 </a> 》 <br /> 《 <a href="https://program-think.blogspot.com/2018/10/How-to-Choose-Firefox-Version.html"> 基于安全考虑，如何选择及切换 Firefox 版本？ </a> 》 <br /> 《 <a href="https://program-think.blogspot.com/2018/09/Why-You-Should-Switch-from-Chrome-to-Firefox.html"> 弃用 Chrome 改用 Firefox 的几点理由——关于 Chrome 69 隐私丑闻的随想 </a> 》 <br /> 《 <a href="https://program-think.blogspot.com/2011/11/greasemonkey-scripts-for-google-reader.html"> 如何用 GreaseMonkey 扩展 Google Reader </a> 》 <br /> 《 <a href="https://program-think.blogspot.com/2017/04/The-Importance-of-Zheteng.html"> 聊聊【折腾】的重要性 </a> 》     <div class="post-copyright">
+<b>
+    版权声明
+   </b> <br /> 本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者 <a href="mailto:program.think@gmail.com"> 编程随想 </a> 和本文原始地址： <br /> <a href="https://program-think.blogspot.com/2019/07/Customize-Firefox.html" id="OriginalPostUrl"> https://program-think.blogspot.com/2019/07/Customize-Firefox.html </a>
+    </div>
+    <div style="clear: both;"></div>
+  </div>
+  <div class="post-footer" style="margin-bottom:50px;">
+    <div class="post-footer-line post-footer-line-1" style="display:none;">
+<span class="post-author vcard"> </span> <span class="reaction-buttons"> </span> <span class="star-ratings"> </span> <span class="post-icons"> </span> <span class="post-backlinks post-comment-link"> </span>
+    </div>
+    <div class="post-footer-line post-footer-line-2 post-toolbar"></div>
+    <div class="post-footer-line post-footer-line-3">
+<span class="post-location"> </span>
+    </div>
+  </div>
+</div>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#编程随想 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2021-05-09/%E5%88%86%E4%BA%AB%E5%90%84%E7%B1%BB%E7%94%B5%E5%AD%90%E4%B9%A6-%E6%94%BF%E6%B2%BB-IT-%E7%A7%91%E6%99%AE-%E5%8E%86%E5%8F%B2-%E7%AD%89-97%E6%9C%AC/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-01-15/%E5%8D%9A%E5%AE%A2%E5%BC%80%E5%BC%A0%E5%8F%8A%E6%9C%AC%E5%8D%9A%E5%AE%A2%E5%86%85%E5%AE%B9%E7%AE%80%E4%BB%8B/">最早</a>--</span>
+    
+      <li>
+        <time>2019-08-07</time>
+        <a href="https://nodebe4.github.io/opinion/2019-08-07/%E6%AF%8F%E5%91%A8%E8%BD%AC%E8%BD%BD-%E9%A6%99%E6%B8%AF-%E5%8F%8D%E9%80%81%E4%B8%AD-%E6%94%BF%E6%B2%BB%E6%8A%97%E8%AE%AE%E6%B4%BB%E5%8A%A8%E5%A4%A7%E4%BA%8B%E8%AE%B0-7%E6%9C%88%E5%88%9D%E8%87%B38%E6%9C%88%E5%88%9D/">
+          每周转载：香港“反送中”政治抗议活动大事记（7月初至8月初）
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-07-30</time>
+        <a href="https://nodebe4.github.io/opinion/2019-07-30/%E6%AF%8F%E5%91%A8%E8%BD%AC%E8%BD%BD-%E6%9D%8E%E9%B9%8F%E6%AF%99%E5%91%BD-%E6%99%AE%E5%A4%A9%E5%90%8C%E5%BA%86-%E5%A4%A7%E9%87%8F%E7%BD%91%E5%8F%8B%E8%AF%84%E8%AE%BA/">
+          每周转载：李鹏毙命，普天同庆（大量网友评论）
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-07-11</time>
+        <a href="https://nodebe4.github.io/opinion/2019-07-11/%E8%BF%91%E6%9C%9F%E5%AE%89%E5%85%A8%E5%8A%A8%E6%80%81%E5%92%8C%E7%82%B9%E8%AF%84-2019%E5%B9%B42%E5%AD%A3%E5%BA%A6/">
+          近期安全动态和点评（2019年2季度）
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-07-04</time>
+        <a href="https://nodebe4.github.io/opinion/2019-07-04/%E6%BE%84%E6%B8%85-%E4%B8%AD%E7%BE%8E%E5%AF%B9%E6%8A%97-%E5%B8%B8%E8%A7%81%E7%9A%84%E4%B8%80%E4%BA%9B-%E8%AF%AF%E8%A7%A3/">
+          澄清“中美对抗”常见的一些【误解】
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2019-07-19/%E6%9D%8E%E4%BC%9F%E4%B8%9C-%E9%99%88%E7%A0%B4%E7%A9%BA-%E5%AE%8B%E9%B2%81%E9%83%91-%E7%BE%8E%E4%B8%AD%E6%B8%90%E8%A1%8C%E6%B8%90%E8%BF%9C-%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E6%8F%90%E5%8A%A0%E7%A0%81%E5%85%B3%E7%A8%8E/">
+            前一篇：李伟东、陈破空、宋鲁郑 : 美中渐行渐远，特朗普重提加码关税
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2019-07-19/%E5%9C%B0%E7%B7%A3%E6%94%BF%E6%B2%BB%E8%A7%80%E5%AF%9F-%E4%B8%AD%E5%85%B1%E6%88%96%E8%AA%8D%E7%82%BA%E7%BE%8E%E5%9C%8B%E6%8C%89%E4%B8%8B%E4%BA%BA%E6%AC%8A-%E6%A0%B8-%E6%8C%89%E9%88%95/">
+            後一篇：地緣政治觀察：中共或認為美國按下人權「核」按鈕
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2019-07-19/%E6%9D%8E%E4%BC%9F%E4%B8%9C-%E9%99%88%E7%A0%B4%E7%A9%BA-%E5%AE%8B%E9%B2%81%E9%83%91-%E7%BE%8E%E4%B8%AD%E6%B8%90%E8%A1%8C%E6%B8%90%E8%BF%9C-%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E6%8F%90%E5%8A%A0%E7%A0%81%E5%85%B3%E7%A8%8E/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2019-07-19/%E5%9C%B0%E7%B7%A3%E6%94%BF%E6%B2%BB%E8%A7%80%E5%AF%9F-%E4%B8%AD%E5%85%B1%E6%88%96%E8%AA%8D%E7%82%BA%E7%BE%8E%E5%9C%8B%E6%8C%89%E4%B8%8B%E4%BA%BA%E6%AC%8A-%E6%A0%B8-%E6%8C%89%E9%88%95/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2019-07-30/%E6%AF%8F%E5%91%A8%E8%BD%AC%E8%BD%BD-%E6%9D%8E%E9%B9%8F%E6%AF%99%E5%91%BD-%E6%99%AE%E5%A4%A9%E5%90%8C%E5%BA%86-%E5%A4%A7%E9%87%8F%E7%BD%91%E5%8F%8B%E8%AF%84%E8%AE%BA/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2019-07-11/%E8%BF%91%E6%9C%9F%E5%AE%89%E5%85%A8%E5%8A%A8%E6%80%81%E5%92%8C%E7%82%B9%E8%AF%84-2019%E5%B9%B42%E5%AD%A3%E5%BA%A6/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2019-07-19/%E6%9D%8E%E4%BC%9F%E4%B8%9C-%E9%99%88%E7%A0%B4%E7%A9%BA-%E5%AE%8B%E9%B2%81%E9%83%91-%E7%BE%8E%E4%B8%AD%E6%B8%90%E8%A1%8C%E6%B8%90%E8%BF%9C-%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E6%8F%90%E5%8A%A0%E7%A0%81%E5%85%B3%E7%A8%8E/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2019-07-19/%E5%9C%B0%E7%B7%A3%E6%94%BF%E6%B2%BB%E8%A7%80%E5%AF%9F-%E4%B8%AD%E5%85%B1%E6%88%96%E8%AA%8D%E7%82%BA%E7%BE%8E%E5%9C%8B%E6%8C%89%E4%B8%8B%E4%BA%BA%E6%AC%8A-%E6%A0%B8-%E6%8C%89%E9%88%95/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<编程随想>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2019-07-30/%E6%AF%8F%E5%91%A8%E8%BD%AC%E8%BD%BD-%E6%9D%8E%E9%B9%8F%E6%AF%99%E5%91%BD-%E6%99%AE%E5%A4%A9%E5%90%8C%E5%BA%86-%E5%A4%A7%E9%87%8F%E7%BD%91%E5%8F%8B%E8%AF%84%E8%AE%BA/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<编程随想>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2019-07-11/%E8%BF%91%E6%9C%9F%E5%AE%89%E5%85%A8%E5%8A%A8%E6%80%81%E5%92%8C%E7%82%B9%E8%AF%84-2019%E5%B9%B42%E5%AD%A3%E5%BA%A6/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

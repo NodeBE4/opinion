@@ -1,0 +1,2988 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Hollywood on Strike – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+Hollywood on Strike
+——
+" />
+    <meta property="og:description" content="
+Hollywood on Strike
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Hollywood on Strike" />
+    <meta property="twitter:title" content="Hollywood on Strike" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2023%2Fhollywood-on-strike%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2023/hollywood-on-strike/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2023/hollywood-on-strike/&text=Hollywood on Strike&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2023/hollywood-on-strike/&title=Hollywood on Strike" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2023/hollywood-on-strike/&title=Hollywood on Strike" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Hollywood on Strike&body=
+Hollywood on Strike
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2023/hollywood-on-strike/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2023/hollywood-on-strike/&title=Hollywood on Strike&caption=
+Hollywood on Strike
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Hollywood on Strike&url=https://stratechery.com/2023/hollywood-on-strike/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Hollywood on Strike</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2023-07-17
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2023/hollywood-on-strike/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1689584407000-->
+<p><a href="https://stratechery.com/2023/hollywood-on-strike/">Hollywood on Strike</a>
+——</p>
+
+<div>
+  <p>From the <a href="https://timesmachine.nytimes.com/timesmachine/1955/08/02/83365852.html?pageNumber=49">New York Times</a>:</p>
+  <blockquote>
+    <p>The Screen Actors Guild today announced that it will strike at 12:01 A.M. Friday against the multi million-dollar television entertainment production business. Union and employer sources held out very little hope that the work stoppage might be averted. Pessimism was heightened by the fact that representatives of both sides could see no grounds, on the basis of unofficial discussions held in recent days, for the resumption of formal contract negotiations, which were broken off July 13.</p>
+    <p>John L. Dales, national executive secretary of the guild, said the principal point at issue was the refusal of the producers “to agree to make any residual payment whatsoever to actors for the second run of a video film.” Under terms of the original contract negotiated three years ago, the performers receive additional pay on a percentage basis of salary minimums, starting with the third showing of a film and continuing through the sixth. That contract expired Wednesday.</p>
+  </blockquote>
+  <p>Oh, I’m sorry — that’s an article from 63 years ago.</p>
+  <p><img decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2023/07/hollywood-1.png?resize=640%2C242&#038;ssl=1" alt="The 1960 edition of the New York Times about the Hollywood strike" width="640" height="242" class="aligncenter size-full wp-image-11315" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2023/07/hollywood-1.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/07/hollywood-1.png?resize=300%2C113&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/07/hollywood-1.png?resize=1024%2C387&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/07/hollywood-1.png?resize=768%2C290&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/07/hollywood-1.png?resize=1200%2C454&amp;ssl=1 1200w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>Here’s the one in the New York Times from <a href="https://www.nytimes.com/2023/07/13/business/media/sag-aftra-writers-strike.html">last week</a>:</p>
+  <blockquote>
+    <p>The Hollywood actors’ union approved a strike on Thursday for the first time in 43 years, bringing the $134 billion American movie and television business to a halt over anger about pay and fears of a tech-dominated future.The leaders of SAG-AFTRA, the union representing 160,000 television and movie actors, announced the strike after negotiations with studios over a new contract collapsed, with streaming services and artificial intelligence at the center of the standoff. On Friday, the actors will join screenwriters, who walked off the job in May, on picket lines in New York, Los Angeles and the dozens of other American cities where scripted shows and movies are made.</p>
+    <p>Actors and screenwriters had not been on strike at the same time since 1960, when Marilyn Monroe was still starring in films and Ronald Reagan was the head of the actors’ union. Dual strikes pit more than 170,000 workers against old-line studios like Disney, Universal, Sony and Paramount, as well tech juggernauts like Netflix, Amazon and Apple. Many of the actors’ demands mirror those of the writers, who belong to the Writers Guild of America. Both unions say they are trying to ensure living wages for workaday members, in particular those making movies or television shows for streaming services.</p>
+  </blockquote>
+  <p>The reason to start with 1960 is that that was the last time actors and writers were on strike at the same time; the primary driver of that unrest was the rise of television. As for the last actors strike, in 1980? That was about the rise of home video. This leads to the first takeaway: the most important driver of unrest between studios and talent has always been technological paradigm shifts, and this time is no different.</p>
+  <p>In this case it is the rise of streaming that strikes me as more consequential than AI, but to first dispatch with the latter, it seems to me that writers are much more threatened by AI; it’s much more plausible today to imagine using an LLM to generating a B-movie script or filler television than it is to imagine AI replicating actors (particularly since actors licensing their likeness may in fact turn out to be <a href="https://stratechery.com/2023/ai-nil-and-zero-trust-authenticity/">very lucrative</a>).</p>
+  <p>What is worth noting about AI is that those concerns are in-line with traditional Hollywood talent concerns when it comes to new technology: both unions have in strikes past been focused on preserving union jobs in the face of technological replacements. That is what led to the rise of residuals, which were at the core of the 1960 strike: if studios were showing movies on TV, then that meant they were occupying scarce time with content that actors weren’t getting paid for, which is to say that the actors in the movie that was being shown were competing with themselves; thus the union demand that they be paid for it.</p>
+  <p>This by extension is why I think the AI questions in this debate will probably be easier to solve: there is already a paradigm in place in Hollywood to make sure that the talent gets a cut of every airing of a piece of entertainment, and again, while you can envision an LLM writing a script, I wouldn’t be surprised if Hollywood executives primarily see the issue as something to give on while getting concessions on the more consequential issue. That, as I noted above, is streaming, and the reason why this negotiation is probably going to be very difficult is that it is exceptionally hard to divide up a pie that is shriveling before one’s eyes.</p>
+  <h3 id="scarcity-and-residuals">Scarcity and Residuals</h3>
+  <p>There was a very interesting answer in <a href="https://slate.com/culture/2023/07/sag-aftra-actors-writers-wga-strike-hollywood-1960-ronald-reagan.html">this Slate interview</a> with Wayne Federman, who wrote <a href="https://www.theatlantic.com/entertainment/archive/2011/11/what-reagan-did-for-hollywood/248391/">a piece in The Atlantic a decade ago</a> about the 1960 strike:</p>
+  <blockquote>
+    <p>For this strike, before we even negotiated, we already had strike authorization from the membership. In 1960, they didn’t. The 1960 strike was really about one issue, and this strike is about multiple issues. This is about how residuals, specifically for streaming entertainment, are being calculated. Those numbers are … not really released. It’s not like a Nielsen rating. Sometimes you’ll hear something like, Oh, 1.2 million minutes of Squid Game — what does that mean? Does that mean that many people watched one minute of it, or does that mean people watched it a number of times, or … ? I don’t know why it’s all proprietary for these streamers, but that’s just where we’re at. We want a little more transparency in that, [to consider] that if we’re on a hit show, is that paid differently than a [nonhit] show? And then there’s this A.I. situation.</p>
+    <p><strong>You said that the studios were sort of giving up these residuals through clenched teeth. Do you think that their position on that has changed?</strong></p>
+    <p>That’s the amazing outcome of what Ronald Reagan — and other negotiators at the time — was able to do: In a way, they were changing the paradigm of how Hollywood money is divided up. They were striking for an idea: that we deserve this for A, B, C, and D reasons. You get residuals now. Not everyone; editors don’t get residuals, but directors do. I get residuals for streaming services, but they’re just not the same. They’re not as good as cable, and they’re not as good as network. When you look at the check, you’re like, OK, this doesn’t seem like a lot. But, again, you don’t know how many people are watching it.</p>
+    <p>And also, I think when we first started looking at streaming services, we were like, We want these services to thrive so that there’ll be more work for actors. So I think that’s why we were not militant about residuals for these new platforms. No one is saying, Oh, we paid you to be on this Netflix show, and we never have to pay you a residual. The problem is that it’s not as hearty as it used to be for these other mediums. But the idea of residuals … is not going away, unless [the companies] decide to try to break the unions and just use nonunion actors and not pay residuals.</p>
+  </blockquote>
+  <p>One of the ways Netflix broke into Hollywood was by forgoing residuals and just paying talent upfront: this removed the potential for huge upside if a show was a massive hit, but it guaranteed that talent got payed, even if a show wasn’t a success. Over time Netflix and other streamers have started to pay residuals, but as Federman notes, the lack of transparency into how exactly those residuals are calculated is a big sticking point.</p>
+  <p>The most interesting paragraph to me, though, is the last one: at the risk of taking Federman’s word for it, the sentiment that unions saw streaming services as a net positive rings true, and aligns with the previous item. The entire idea of residuals arose from the idea that talent shouldn’t have to compete with itself when it came to re-running a movie or show; the key thing to note, though, is that this concern made sense in a world where there was scarce distribution. To go back to the 1960s, there were only three networks: that meant there were only 504 hours in a week to air content on television; airing a two-hour movie reduced the available space for talent to 502 hours.</p>
+  <p>Streaming, though, is purely additive. The Internet makes distribution effectively free, which means there are an infinite number of hours available for talent to monetize. This does, it’s worth noting, render talent’s original argument for residuals moot; if anything Netflix had it right when it temporarily shifted the model to simply paying up front. In fact, Federman unwittingly makes this point when he describes the mindset of studio heads in 1960:</p>
+  <blockquote>
+    <p>Let’s say you get hired to act in a film. Basically, the person hiring you is taking the risk. They’re paying you your salary, and in return, they own that product. So, what SAG was saying was, You can play that film anywhere in the world, you can play it in Italy, you can have it dubbed — but when you put it on television, that’s a new revenue stream. Also, the argument was that that is taking work away from other actors. Because if you have this movie on, that time slot is no longer available for working actors.</p>
+    <p>On the other side, the head of 20th Century Fox [Spyros Skouras], his argument was very simple: Why should I pay you twice for the same job? I’ve already paid you for this job. I own this at this point. And that was basically the position of all of these studio owners. At the beginning of the strike, they were like, We’re not even going to talk about residuals. It’s a nonstarter. And Reagan said, We’re “trying to negotiate for the right to negotiate.” That’s how far apart they were. It was so foreign to these guys that they would have to share their revenues with actors after they’d already paid the actors. Ultimately, one studio, Universal Pictures—believe it or not, the head of Universal, a guy named Lew Wasserman, used to be Ronald Reagan’s agent—was the first domino that dropped. I think Lew Wasserman thought it was inevitable anyway: If it wasn’t going to happen in 1960, it might happen in ’65. And then one after another [gave in], until, I think, the 20th Century guy was the last guy, who was like, All right, I’ll give it, I’ll pay you again for something I’ve already paid you for, through clenched teeth.</p>
+  </blockquote>
+  <p>Wasserman was right: studios were going to have to share the scarce resource, which was time on TV, with talent. Again, though, scarcity in terms of distribution is now gone; the only scarce resource on the Internet is consumer time and attention, and commanding that is far more difficult and risky. Look no further than the deteriorating financial condition of most of Hollywood: not only are the studios competing with Netflix and Amazon and Apple, but also with things like YouTube and social media. Indeed, you could very easily make the case that a far more legible labor action would be for the studios to lock out the talent in an attempt to remove residuals completely, given how much more risk any content producer is taking on today.</p>
+  <p>This angle is, obviously, a non-starter, but it does point at why these negotiations are likely to be so fraught: actors and writers are angling to get a larger share of revenue that they arguably no longer deserve.</p>
+  <h3 id="the-cost-of-streaming">The Cost of Streaming</h3>
+  <p>There is an even larger problem, though, which is that studios have — in my estimation — yet to come to grips with the true cost of streaming. To go back to the old model, studios were in the business of making movies or TV shows and then selling them to distributors. Ideally they would sell the same piece of content multiple times, better leveraging the cost of making the content in the first place. Indeed, this was a sticking point in the 1960 strike; from <a href="https://timesmachine.nytimes.com/timesmachine/1955/08/02/83365852.html?pageNumber=49">that 1960 New York Times article</a>:</p>
+  <blockquote>
+    <p>The guild asked for 100 percent payment of minimum salaries for the second showing in a new contract. The producers insisted that the first two runs be covered by the original salary. The producers contend that it is virtually impossible to get sufficient money out of the first showing of a movie produced solely for television to pay off the initial production investment. It is reported that many bank loans are predicated on earnings from the second run.</p>
+  </blockquote>
+  <p>Content costs a lot to produce up front, but the marginal cost of showing it again is effectively zero; that means the more times you can show a piece of content the more you can spend up front. The number of times you could show it, though, was, as noted above, governed by available distribution; if distribution was scarce than there was an opportunity cost of showing old content, because you couldn’t show something new (which again, was why talent wanted a share of multiple airings).</p>
+  <p>What is critical to note is that this leverage was best realized by selling to as many distributors as possible. The classic example is the traditional movie window: first you sell a movie to first-run theaters, then to budget theaters, then to hotels and airlines, then to pay-per-view, then to videocassettes/DVDs, then to cable, and finally to broadcast TV. That’s seven distinct opportunities to sell a piece of content. Going straight to streaming, though, collapses seven windows to one, reducing the ability to make money off of a particular piece of content.</p>
+  <p>Studios are enduring this cost, though, in the service of building up their own streaming services, but that has its own costs: running a streaming service entails being in the direct-to-consumer business, which is a costly one: not only do you have to build up and maintain the technical infrastructure of the service, and incur costs in customer support, but you also have to worry about things like churn that simply aren’t a consideration when you’re selling content. All of this is very expensive!</p>
+  <p>The real pain, though, is opportunity cost: while studios are missing out on multi-window revenue and paying for their streaming service and trying to simultaneously acquire customers and stopping them from churning, they are also forgoing revenue from established services like Netflix that would not only happily pay them for their content, but could actually justify a much higher price given their significantly larger user base across which that cost could be leveraged.</p>
+  <p>All of these costs, it should be noted, occur in the aggregate, which is a real problem in these negotiations: talent is concerned about their compensation on a per-show basis, but studios are bleeding money on an entity-level in their foolhardy pursuit of customer-facing streaming services. Most of the discussion about this mismatch are focused on how to properly compensate the talent; note this item from <a href="https://puck.news/the-nanny-steps-all-over-bob-iger/?_cio_id=f6c6060fc9af019aeb1c">Puck</a>:</p>
+  <blockquote>
+    <p>The union and AMPTP have by and large agreed on the residuals improvements the DGA obtained in its recent deal, but the union also wants 2 percent of subscriber revenue to be shared with the cast of a successful show, with success measured by Parrot Analytics, an analysis firm that looks at viewership, social media engagement, and other factors, to determine “demand.” That proxy metric was proposed because the companies refuse to share their internal measurements, of course. But the studios declined to engage on that issue, and the management-side source asked how the producer of a show could be expected to share revenue earned not by the producer but by the platform (i.e., subscribers pay platforms; subscribers don’t pay producers).</p>
+  </blockquote>
+  <p>I get the talent’s perspective, but I’m pretty sure the talent doesn’t want to pay for the cost of customer service or customer acquisition or churn mitigation! Then again, neither should the studios: it doesn’t make any sense to me why the studios decided they wanted to bear these costs, and that’s not the talent’s problem.</p>
+  <h3 id="the-shrinking-pie">The Shrinking Pie</h3>
+  <p>There remains, though, the shrinking pie I noted in the introduction: the removal of distribution costs that enabled the rise of streaming was not a benefit that was limited to Hollywood, nor was the shift to attention as the only scarce resource. Every person on earth has only 168 hours in a week, during which time they are presumably sleeping and working. Those few remaining hours can now be filled by YouTube, or gaming, or podcasts, or reading this Article; every single minute spent doing something other than consuming Hollywood content is a minute lost forever.</p>
+  <p>This is consideration enough without a labor battle: thanks to COVID a lot of people fell out of the habit of going to the movie theater, and it appears around 25% of the audience permanently found something better to do with their time; that same reality applies to TV. Just as newspapers once thought the Internet was a boon because it increased their addressable market, only to find out that it also drastically increased competition for reader’s attention, Hollywood has to face the reality that the ability to make far more shows extends not only to studios but also to literally anyone. That reality is going to come to the fore if this strike drags on: if people don’t have new movies or shows to watch they will find far more options to fill their time than existed in 1960; the risk to Hollywood is that some of those alternatives become a permanent feature of people’s media diets, in line with what seems to have happened during COVID.</p>
+  <p>The broader issue is that the video industry finally seems to be facing what happened to the print and music industry before them: the Internet comes bearing gifts like infinite capacity and free distribution, but those gifts are a poisoned chalice for industries predicated on scarcity. When anyone could publish text, most text-based businesses went from massive profitability to terminal decline; when anyone could distribute music the music industry could only be saved by tech companies like Spotify helping them sell convenience in place of plastic discs.</p>
+  <p>For the video industry the first step to survival must be to retreat to what they are good at — producing content that isn’t available anywhere else — and getting away from what they are not, i.e. running undifferentiated streaming services with massive direct costs and even larger opportunity ones. Talent, meanwhile, has to realize that they and the studios are not divided by this new paradigm, but jointly threatened: the Internet is bad news for content producers with outsized costs, and long-term sustainability will be that much harder to achieve if the focus is on increasing them.</p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2023-08-28</time>
+        <a href="https://nodebe4.github.io/opinion/2023-08-28/Nvidia-On-the-Mountaintop/">
+          Nvidia On the Mountaintop
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-08-15</time>
+        <a href="https://nodebe4.github.io/opinion/2023-08-15/Disney-s-Taylor-Swift-Era/">
+          Disney’s Taylor Swift Era
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-07-11</time>
+        <a href="https://nodebe4.github.io/opinion/2023-07-11/Threads-and-the-Social-Communications-Map/">
+          Threads and the Social/Communications Map
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-06-26</time>
+        <a href="https://nodebe4.github.io/opinion/2023-06-26/Amazon,-Friction,-and-the-FTC/">
+          Amazon, Friction, and the FTC
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2023-07-16/%E8%AB%8B%E4%B8%8D%E8%A6%81%E5%9C%A8%E6%88%91%E5%80%91%E7%9A%84%E5%9C%9F%E5%9C%B0%E6%8F%92%E4%B8%8A%E4%B8%80%E5%88%80-%E9%82%A3%E4%BA%9B%E4%B8%8D%E5%A4%A0%E5%9A%B4%E8%AC%B9%E7%9A%84%E5%8F%B0%E6%B5%B7%E5%B1%80%E5%8B%A2%E8%AB%96%E8%BF%B0/">
+            前一篇：請不要在我們的土地插上一刀：那些不夠嚴謹的台海局勢論述
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2023-07-17/%E7%B6%93%E5%85%B8%E9%87%8D%E6%BA%AB-%E7%A6%81%E5%BF%8C%E5%8F%B2%E8%A9%B1-%E5%A4%A7%E9%A5%91%E8%8D%92-5-%E4%BA%BA%E9%A1%9E%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E9%A5%91%E8%8D%92-%E8%AA%B0%E4%B9%8B%E7%BD%AA/">
+            後一篇：🌟【經典重溫】禁忌史話：大饑荒 （5）人類史上最大饑荒 誰之罪！
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2023-07-16/%E8%AB%8B%E4%B8%8D%E8%A6%81%E5%9C%A8%E6%88%91%E5%80%91%E7%9A%84%E5%9C%9F%E5%9C%B0%E6%8F%92%E4%B8%8A%E4%B8%80%E5%88%80-%E9%82%A3%E4%BA%9B%E4%B8%8D%E5%A4%A0%E5%9A%B4%E8%AC%B9%E7%9A%84%E5%8F%B0%E6%B5%B7%E5%B1%80%E5%8B%A2%E8%AB%96%E8%BF%B0/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2023-07-17/%E7%B6%93%E5%85%B8%E9%87%8D%E6%BA%AB-%E7%A6%81%E5%BF%8C%E5%8F%B2%E8%A9%B1-%E5%A4%A7%E9%A5%91%E8%8D%92-5-%E4%BA%BA%E9%A1%9E%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E9%A5%91%E8%8D%92-%E8%AA%B0%E4%B9%8B%E7%BD%AA/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2023-08-15/Disney-s-Taylor-Swift-Era/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2023-07-11/Threads-and-the-Social-Communications-Map/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2023-07-16/%E8%AB%8B%E4%B8%8D%E8%A6%81%E5%9C%A8%E6%88%91%E5%80%91%E7%9A%84%E5%9C%9F%E5%9C%B0%E6%8F%92%E4%B8%8A%E4%B8%80%E5%88%80-%E9%82%A3%E4%BA%9B%E4%B8%8D%E5%A4%A0%E5%9A%B4%E8%AC%B9%E7%9A%84%E5%8F%B0%E6%B5%B7%E5%B1%80%E5%8B%A2%E8%AB%96%E8%BF%B0/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2023-07-17/%E7%B6%93%E5%85%B8%E9%87%8D%E6%BA%AB-%E7%A6%81%E5%BF%8C%E5%8F%B2%E8%A9%B1-%E5%A4%A7%E9%A5%91%E8%8D%92-5-%E4%BA%BA%E9%A1%9E%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E9%A5%91%E8%8D%92-%E8%AA%B0%E4%B9%8B%E7%BD%AA/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2023-08-15/Disney-s-Taylor-Swift-Era/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2023-07-11/Threads-and-the-Social-Communications-Map/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

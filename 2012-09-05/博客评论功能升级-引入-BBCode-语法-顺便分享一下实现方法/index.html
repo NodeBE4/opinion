@@ -1,0 +1,3781 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>博客评论功能升级（引入 BBCode 语法），顺便分享一下实现方法 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+
+      博客评论功能升级（引入 BBCode 语法），顺便分享一下实现方法  
+  
+    
+      
+    
+  
+  
+     ★广而告之 
+  最近一年来，翻墙到俺博客留言的读者日渐增多。留言多了之后， Blogger / BlogSpot 平台的评论功能就越发显得老土了。这个周末，俺痛下决心，把默认的评论功能彻底改造一下。这番改造，主要增加了如下几个功能： 
+       
+  
+   1. 增加嵌套评论的功能
+    通过嵌套评论，直接回复前几楼的留言就方便了。  由于 Blogger / BlogSpot 平台在功能上仅支持两层嵌套。所以，目前俺还搞不出多层嵌套。   
+   2. 增加楼层数的显示
+    类似 BBS 论坛的效果（目前不支持 IE 8 之前的版本）。   
+   3. 增加评论者的头像
+    如果登录过 Gmail 或 OpenID，会显示用户的头像。对于匿名用户，显示默认头像。   
+   4. 评论支持 BBCode 语法
+    可以在评论中使用常见的几种 BBCode 语法，目前支持如下4种：      
+      
+        
+          超链接
+          [url]网址[/url]
+        
+        
+          带标题的超链接
+          [url=网址]标题[/url]
+        
+        
+          图片
+          [img]图片的网址[/img]
+        
+        
+          粗体文字
+          [b]加粗的文字[/b]
+        
+      
+    
+ 关于 BBCode 的更多介绍，请看"  这里  "。   
+   5. 调整了背景颜色和边框
+    主要是为了看起来爽一点。   针对上述新功能，欢迎大伙儿多提意见和建议，便于俺改进（点"  这里  "发表你的高见）。  下面是改造后的评论功能截图，如果你的浏览器看到的效果有差异，敬请告知你的浏览器版本。      接下来，俺分享一下具体的实现方式，希望对其他 Blogger / BlogSpot 上的博主有帮助。如果你没有在 Blogger / BlogSpot 上开博客，那后面的内容就无需再看了。   ================华丽的分割线================        ★如何实现"嵌套评论"？ 
+  简介：  嵌套评论功能由于涉及到后端，需要 Blogger / BlogSpot 平台的支持才有可能实现。幸运的是，Blogger / BlogSpot 平台在今年开始提供"嵌套评论"的功能。  由于平台提供支持，只需要简单修改一下模板即可实现。   步骤：  首先，进入 Blogger 的后台管理界面，点左边菜单上的 "模板" 按钮。  出现模板管理界面后，再点 "修改HTML" 按钮。  出现一个对话框，点 "继续" 按钮。  然后勾选 "扩展窗口小部件模板 "。  此时，你就可以看到模板的编辑界面了。  
+   为了保险起见，在编辑之前先备份一下模板。
+     在模板中找到如下代码：      
+&lt;b:if cond='data:blog.pageType == &amp;quot;item&amp;quot;'&gt;  &lt;b:include data='post' name='comments'/&gt;  &lt;/b:if&gt;     
+  修改为如下：       
+&lt;b:if cond='data:blog.pageType == &amp;quot;item&amp;quot;'&gt;  &lt;b:if cond='data:post.showThreadedComments'&gt;  &lt;b:include data='post' name='threaded_comments'/&gt;  &lt;b:else/&gt;  &lt;b:include data='post' name='comments'/&gt;  &lt;/b:if&gt;  &lt;/b:if&gt;     
+  最后点 "保存" 按钮。  如果不出意外，你的博客就有嵌套评论功能了。        ★如何添加楼层数？ 
+  添加评论的楼层数，有很多种方法。比较简单的有如下两种。        ◇使用 JavaScript 显示楼层号 
+  简介：  直接在模板中嵌入 JS 代码。利用模板中的 loop 循环，递增楼层号并显示。   优点：  支持各种浏览器   缺点，  适合用于传统的评论界面。对于新的嵌套评论界面，需要对模板进行大改，比较难搞。   步骤：  根据刚才介绍过的步骤，进入模板编辑界面。  
+   为了保险起见，在编辑之前先备份一下模板。
+     在模板中找到如下代码：      
+&lt;b:loop values='data:post.comments' var='comment'&gt;     
+  修改为如下：      
+&lt;script type='text/javascript'&gt;nCommentIndex = 1;&lt;/script&gt;  &lt;b:loop values='data:post.comments' var='comment'&gt;  &lt;span class='comment-index'&gt;  &lt;script type='text/javascript'&gt;document.write('第'+nCommentIndex+'楼'); nCommentIndex+=1;&lt;/script&gt;  &lt;/span&gt;     
+  最后点 "保存" 按钮。  如果你想调整楼层号的显示样式，可以在模板的 CSS 代码尾部追加如下代码：  （请根据自己的喜好修改下划线部分）      
+.comment-index {  float:  浮动靠左还是靠右  ;  font:  用啥字体  ;  font-size:  字体大小  ;  color:  用啥颜色  ;  }     
+  全部修改完之后，点 "保存" 按钮。        ◇使用 CSS 显示楼层号 
+  简介：  利用 CSS 的计数器功能，实现楼层号的递增及显示。   优点：  支持嵌套评论的界面   缺点：  浏览器兼容性不够好（比如 IE6 不支持 CSS 的 content 属性）   步骤：  根据刚才介绍过的步骤，进入模板编辑界面。  
+   为了保险起见，在编辑之前先备份一下模板。
+     在模板代码中，找到 CSS 的那段代码，然后在 CSS 代码的尾部追加如下代码：  （以下这2段代码就是俺博客用的，欢迎剽窃）   这一段用来显示楼层号      
+.comment-thread ol {  counter-reset: comment_counter;  }  .comment-thread li:before {  content: counter(comment_counter,decimal) "楼";  counter-increment: comment_counter;  float: right;  position: relative;  z-index: 1;  text-align: center;  font-size: 120%;  color: $mainLinkColor;  border: none;  margin-top: 10px;  margin-right: 10px;  }    
+  这一段用来显示嵌套在某楼层之下的单元号      
+.comment-thread ol ol {  counter-reset: child_comment_counter;  }  .comment-thread li li:before {  content: counter(comment_counter,decimal) "楼 " counter(child_comment_counter,decimal) "单元";  counter-increment: child_comment_counter;  font-size: 100%;  }    
+  修改完之后，点 "保存" 按钮。        ★如何添加头像？ 
+  根据刚才介绍过的步骤，进入模板编辑界面。  
+   为了保险起见，在编辑之前先备份一下模板。
+     在模板中找到如下代码：      
+&lt;dl id='comments-block'&gt;     
+  修改为如下：      
+&lt;dl expr:class='data:post.avatarIndentClass' id='comments-block'&gt;     
+  还没完，就在这行代码下方2-3行的地方有如下代码：      
+&lt;a expr:name='data:comment.anchorName'/&gt;     
+  修改为如下：      
+&lt;a expr:name='data:comment.anchorName'/&gt;  &lt;b:if cond='data:blog.enabledCommentProfileImages'&gt;  &lt;div expr:class='data:comment.avatarContainerClass'&gt;  &lt;data:comment.authorAvatarImage/&gt;  &lt;/div&gt;  &lt;/b:if&gt;     
+  如果你想调整头像的显示尺寸，可以在模板的 CSS 代码尾部追加如下代码：  （请根据自己的喜好修改下划线部分）      
+.comments .avatar-image-container img {  width:  图像宽度  ;  height:  图像高度  ;  border:  图像边界  ;  }     
+  修改完之后，点 "保存" 按钮。        ★结尾 
+  今天就先介绍到这里。以后如果有空，俺还会继续改进本博客的评论功能。相关的代码也会继续补充到本文中。欢迎其它博主  到本文留言  ，交流经验。   
+   俺博客上，和本文相关的帖子（需翻墙）
+   ：   博客评论功能升级（智能贴图、图片代理）——兼谈“Web 图片的隐私问题及防范”    博客评论功能升级（“未读”状态、按时间过滤）——兼谈“为啥俺不用其它博客平台”    博客评论功能升级（增加“留言过滤”、“200条之后自动加载”等）      
+
+    版权声明
+     本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者  编程随想  和本文原始地址：   https://program-think.blogspot.com/2012/09/custom-blogger-comment.html 
+    
+    
+  
+  
+    
+         
+    
+    
+    
+ 
+    
+  
+
+" />
+    <meta property="og:description" content="
+
+      博客评论功能升级（引入 BBCode 语法），顺便分享一下实现方法  
+  
+    
+      
+    
+  
+  
+     ★广而告之 
+  最近一年来，翻墙到俺博客留言的读者日渐增多。留言多了之后， Blogger / BlogSpot 平台的评论功能就越发显得老土了。这个周末，俺痛下决心，把默认的评论功能彻底改造一下。这番改造，主要增加了如下几个功能： 
+       
+  
+   1. 增加嵌套评论的功能
+    通过嵌套评论，直接回复前几楼的留言就方便了。  由于 Blogger / BlogSpot 平台在功能上仅支持两层嵌套。所以，目前俺还搞不出多层嵌套。   
+   2. 增加楼层数的显示
+    类似 BBS 论坛的效果（目前不支持 IE 8 之前的版本）。   
+   3. 增加评论者的头像
+    如果登录过 Gmail 或 OpenID，会显示用户的头像。对于匿名用户，显示默认头像。   
+   4. 评论支持 BBCode 语法
+    可以在评论中使用常见的几种 BBCode 语法，目前支持如下4种：      
+      
+        
+          超链接
+          [url]网址[/url]
+        
+        
+          带标题的超链接
+          [url=网址]标题[/url]
+        
+        
+          图片
+          [img]图片的网址[/img]
+        
+        
+          粗体文字
+          [b]加粗的文字[/b]
+        
+      
+    
+ 关于 BBCode 的更多介绍，请看"  这里  "。   
+   5. 调整了背景颜色和边框
+    主要是为了看起来爽一点。   针对上述新功能，欢迎大伙儿多提意见和建议，便于俺改进（点"  这里  "发表你的高见）。  下面是改造后的评论功能截图，如果你的浏览器看到的效果有差异，敬请告知你的浏览器版本。      接下来，俺分享一下具体的实现方式，希望对其他 Blogger / BlogSpot 上的博主有帮助。如果你没有在 Blogger / BlogSpot 上开博客，那后面的内容就无需再看了。   ================华丽的分割线================        ★如何实现"嵌套评论"？ 
+  简介：  嵌套评论功能由于涉及到后端，需要 Blogger / BlogSpot 平台的支持才有可能实现。幸运的是，Blogger / BlogSpot 平台在今年开始提供"嵌套评论"的功能。  由于平台提供支持，只需要简单修改一下模板即可实现。   步骤：  首先，进入 Blogger 的后台管理界面，点左边菜单上的 "模板" 按钮。  出现模板管理界面后，再点 "修改HTML" 按钮。  出现一个对话框，点 "继续" 按钮。  然后勾选 "扩展窗口小部件模板 "。  此时，你就可以看到模板的编辑界面了。  
+   为了保险起见，在编辑之前先备份一下模板。
+     在模板中找到如下代码：      
+&lt;b:if cond='data:blog.pageType == &amp;quot;item&amp;quot;'&gt;  &lt;b:include data='post' name='comments'/&gt;  &lt;/b:if&gt;     
+  修改为如下：       
+&lt;b:if cond='data:blog.pageType == &amp;quot;item&amp;quot;'&gt;  &lt;b:if cond='data:post.showThreadedComments'&gt;  &lt;b:include data='post' name='threaded_comments'/&gt;  &lt;b:else/&gt;  &lt;b:include data='post' name='comments'/&gt;  &lt;/b:if&gt;  &lt;/b:if&gt;     
+  最后点 "保存" 按钮。  如果不出意外，你的博客就有嵌套评论功能了。        ★如何添加楼层数？ 
+  添加评论的楼层数，有很多种方法。比较简单的有如下两种。        ◇使用 JavaScript 显示楼层号 
+  简介：  直接在模板中嵌入 JS 代码。利用模板中的 loop 循环，递增楼层号并显示。   优点：  支持各种浏览器   缺点，  适合用于传统的评论界面。对于新的嵌套评论界面，需要对模板进行大改，比较难搞。   步骤：  根据刚才介绍过的步骤，进入模板编辑界面。  
+   为了保险起见，在编辑之前先备份一下模板。
+     在模板中找到如下代码：      
+&lt;b:loop values='data:post.comments' var='comment'&gt;     
+  修改为如下：      
+&lt;script type='text/javascript'&gt;nCommentIndex = 1;&lt;/script&gt;  &lt;b:loop values='data:post.comments' var='comment'&gt;  &lt;span class='comment-index'&gt;  &lt;script type='text/javascript'&gt;document.write('第'+nCommentIndex+'楼'); nCommentIndex+=1;&lt;/script&gt;  &lt;/span&gt;     
+  最后点 "保存" 按钮。  如果你想调整楼层号的显示样式，可以在模板的 CSS 代码尾部追加如下代码：  （请根据自己的喜好修改下划线部分）      
+.comment-index {  float:  浮动靠左还是靠右  ;  font:  用啥字体  ;  font-size:  字体大小  ;  color:  用啥颜色  ;  }     
+  全部修改完之后，点 "保存" 按钮。        ◇使用 CSS 显示楼层号 
+  简介：  利用 CSS 的计数器功能，实现楼层号的递增及显示。   优点：  支持嵌套评论的界面   缺点：  浏览器兼容性不够好（比如 IE6 不支持 CSS 的 content 属性）   步骤：  根据刚才介绍过的步骤，进入模板编辑界面。  
+   为了保险起见，在编辑之前先备份一下模板。
+     在模板代码中，找到 CSS 的那段代码，然后在 CSS 代码的尾部追加如下代码：  （以下这2段代码就是俺博客用的，欢迎剽窃）   这一段用来显示楼层号      
+.comment-thread ol {  counter-reset: comment_counter;  }  .comment-thread li:before {  content: counter(comment_counter,decimal) "楼";  counter-increment: comment_counter;  float: right;  position: relative;  z-index: 1;  text-align: center;  font-size: 120%;  color: $mainLinkColor;  border: none;  margin-top: 10px;  margin-right: 10px;  }    
+  这一段用来显示嵌套在某楼层之下的单元号      
+.comment-thread ol ol {  counter-reset: child_comment_counter;  }  .comment-thread li li:before {  content: counter(comment_counter,decimal) "楼 " counter(child_comment_counter,decimal) "单元";  counter-increment: child_comment_counter;  font-size: 100%;  }    
+  修改完之后，点 "保存" 按钮。        ★如何添加头像？ 
+  根据刚才介绍过的步骤，进入模板编辑界面。  
+   为了保险起见，在编辑之前先备份一下模板。
+     在模板中找到如下代码：      
+&lt;dl id='comments-block'&gt;     
+  修改为如下：      
+&lt;dl expr:class='data:post.avatarIndentClass' id='comments-block'&gt;     
+  还没完，就在这行代码下方2-3行的地方有如下代码：      
+&lt;a expr:name='data:comment.anchorName'/&gt;     
+  修改为如下：      
+&lt;a expr:name='data:comment.anchorName'/&gt;  &lt;b:if cond='data:blog.enabledCommentProfileImages'&gt;  &lt;div expr:class='data:comment.avatarContainerClass'&gt;  &lt;data:comment.authorAvatarImage/&gt;  &lt;/div&gt;  &lt;/b:if&gt;     
+  如果你想调整头像的显示尺寸，可以在模板的 CSS 代码尾部追加如下代码：  （请根据自己的喜好修改下划线部分）      
+.comments .avatar-image-container img {  width:  图像宽度  ;  height:  图像高度  ;  border:  图像边界  ;  }     
+  修改完之后，点 "保存" 按钮。        ★结尾 
+  今天就先介绍到这里。以后如果有空，俺还会继续改进本博客的评论功能。相关的代码也会继续补充到本文中。欢迎其它博主  到本文留言  ，交流经验。   
+   俺博客上，和本文相关的帖子（需翻墙）
+   ：   博客评论功能升级（智能贴图、图片代理）——兼谈“Web 图片的隐私问题及防范”    博客评论功能升级（“未读”状态、按时间过滤）——兼谈“为啥俺不用其它博客平台”    博客评论功能升级（增加“留言过滤”、“200条之后自动加载”等）      
+
+    版权声明
+     本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者  编程随想  和本文原始地址：   https://program-think.blogspot.com/2012/09/custom-blogger-comment.html 
+    
+    
+  
+  
+    
+         
+    
+    
+    
+ 
+    
+  
+
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="博客评论功能升级（引入 BBCode 语法），顺便分享一下实现方法" />
+    <meta property="twitter:title" content="博客评论功能升级（引入 BBCode 语法），顺便分享一下实现方法" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fprogram-think.blogspot.com%2F2012%2F09%2Fcustom-blogger-comment.html" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://program-think.blogspot.com/2012/09/custom-blogger-comment.html" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://program-think.blogspot.com/2012/09/custom-blogger-comment.html&text=博客评论功能升级（引入 BBCode 语法），顺便分享一下实现方法&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://program-think.blogspot.com/2012/09/custom-blogger-comment.html&title=博客评论功能升级（引入 BBCode 语法），顺便分享一下实现方法" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://program-think.blogspot.com/2012/09/custom-blogger-comment.html&title=博客评论功能升级（引入 BBCode 语法），顺便分享一下实现方法" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=博客评论功能升级（引入 BBCode 语法），顺便分享一下实现方法&body=
+
+      博客评论功能升级（引入 BBCode 语法），顺便分享一下实现方法  
+  
+    
+      
+    
+  
+  
+     ★广而告之 
+  最近一年来，翻墙到俺博客留言的读者日渐增多。留言多了之后， Blogger / BlogSpot 平台的评论功能就越发显得老土了。这个周末，俺痛下决心，把默认的评论功能彻底改造一下。这番改造，主要增加了如下几个功能： 
+       
+  
+   1. 增加嵌套评论的功能
+    通过嵌套评论，直接回复前几楼的留言就方便了。  由于 Blogger / BlogSpot 平台在功能上仅支持两层嵌套。所以，目前俺还搞不出多层嵌套。   
+   2. 增加楼层数的显示
+    类似 BBS 论坛的效果（目前不支持 IE 8 之前的版本）。   
+   3. 增加评论者的头像
+    如果登录过 Gmail 或 OpenID，会显示用户的头像。对于匿名用户，显示默认头像。   
+   4. 评论支持 BBCode 语法
+    可以在评论中使用常见的几种 BBCode 语法，目前支持如下4种：      
+      
+        
+          超链接
+          [url]网址[/url]
+        
+        
+          带标题的超链接
+          [url=网址]标题[/url]
+        
+        
+          图片
+          [img]图片的网址[/img]
+        
+        
+          粗体文字
+          [b]加粗的文字[/b]
+        
+      
+    
+ 关于 BBCode 的更多介绍，请看"  这里  "。   
+   5. 调整了背景颜色和边框
+    主要是为了看起来爽一点。   针对上述新功能，欢迎大伙儿多提意见和建议，便于俺改进（点"  这里  "发表你的高见）。  下面是改造后的评论功能截图，如果你的浏览器看到的效果有差异，敬请告知你的浏览器版本。      接下来，俺分享一下具体的实现方式，希望对其他 Blogger / BlogSpot 上的博主有帮助。如果你没有在 Blogger / BlogSpot 上开博客，那后面的内容就无需再看了。   ================华丽的分割线================        ★如何实现"嵌套评论"？ 
+  简介：  嵌套评论功能由于涉及到后端，需要 Blogger / BlogSpot 平台的支持才有可能实现。幸运的是，Blogger / BlogSpot 平台在今年开始提供"嵌套评论"的功能。  由于平台提供支持，只需要简单修改一下模板即可实现。   步骤：  首先，进入 Blogger 的后台管理界面，点左边菜单上的 "模板" 按钮。  出现模板管理界面后，再点 "修改HTML" 按钮。  出现一个对话框，点 "继续" 按钮。  然后勾选 "扩展窗口小部件模板 "。  此时，你就可以看到模板的编辑界面了。  
+   为了保险起见，在编辑之前先备份一下模板。
+     在模板中找到如下代码：      
+&lt;b:if cond='data:blog.pageType == &amp;quot;item&amp;quot;'&gt;  &lt;b:include data='post' name='comments'/&gt;  &lt;/b:if&gt;     
+  修改为如下：       
+&lt;b:if cond='data:blog.pageType == &amp;quot;item&amp;quot;'&gt;  &lt;b:if cond='data:post.showThreadedComments'&gt;  &lt;b:include data='post' name='threaded_comments'/&gt;  &lt;b:else/&gt;  &lt;b:include data='post' name='comments'/&gt;  &lt;/b:if&gt;  &lt;/b:if&gt;     
+  最后点 "保存" 按钮。  如果不出意外，你的博客就有嵌套评论功能了。        ★如何添加楼层数？ 
+  添加评论的楼层数，有很多种方法。比较简单的有如下两种。        ◇使用 JavaScript 显示楼层号 
+  简介：  直接在模板中嵌入 JS 代码。利用模板中的 loop 循环，递增楼层号并显示。   优点：  支持各种浏览器   缺点，  适合用于传统的评论界面。对于新的嵌套评论界面，需要对模板进行大改，比较难搞。   步骤：  根据刚才介绍过的步骤，进入模板编辑界面。  
+   为了保险起见，在编辑之前先备份一下模板。
+     在模板中找到如下代码：      
+&lt;b:loop values='data:post.comments' var='comment'&gt;     
+  修改为如下：      
+&lt;script type='text/javascript'&gt;nCommentIndex = 1;&lt;/script&gt;  &lt;b:loop values='data:post.comments' var='comment'&gt;  &lt;span class='comment-index'&gt;  &lt;script type='text/javascript'&gt;document.write('第'+nCommentIndex+'楼'); nCommentIndex+=1;&lt;/script&gt;  &lt;/span&gt;     
+  最后点 "保存" 按钮。  如果你想调整楼层号的显示样式，可以在模板的 CSS 代码尾部追加如下代码：  （请根据自己的喜好修改下划线部分）      
+.comment-index {  float:  浮动靠左还是靠右  ;  font:  用啥字体  ;  font-size:  字体大小  ;  color:  用啥颜色  ;  }     
+  全部修改完之后，点 "保存" 按钮。        ◇使用 CSS 显示楼层号 
+  简介：  利用 CSS 的计数器功能，实现楼层号的递增及显示。   优点：  支持嵌套评论的界面   缺点：  浏览器兼容性不够好（比如 IE6 不支持 CSS 的 content 属性）   步骤：  根据刚才介绍过的步骤，进入模板编辑界面。  
+   为了保险起见，在编辑之前先备份一下模板。
+     在模板代码中，找到 CSS 的那段代码，然后在 CSS 代码的尾部追加如下代码：  （以下这2段代码就是俺博客用的，欢迎剽窃）   这一段用来显示楼层号      
+.comment-thread ol {  counter-reset: comment_counter;  }  .comment-thread li:before {  content: counter(comment_counter,decimal) "楼";  counter-increment: comment_counter;  float: right;  position: relative;  z-index: 1;  text-align: center;  font-size: 120%;  color: $mainLinkColor;  border: none;  margin-top: 10px;  margin-right: 10px;  }    
+  这一段用来显示嵌套在某楼层之下的单元号      
+.comment-thread ol ol {  counter-reset: child_comment_counter;  }  .comment-thread li li:before {  content: counter(comment_counter,decimal) "楼 " counter(child_comment_counter,decimal) "单元";  counter-increment: child_comment_counter;  font-size: 100%;  }    
+  修改完之后，点 "保存" 按钮。        ★如何添加头像？ 
+  根据刚才介绍过的步骤，进入模板编辑界面。  
+   为了保险起见，在编辑之前先备份一下模板。
+     在模板中找到如下代码：      
+&lt;dl id='comments-block'&gt;     
+  修改为如下：      
+&lt;dl expr:class='data:post.avatarIndentClass' id='comments-block'&gt;     
+  还没完，就在这行代码下方2-3行的地方有如下代码：      
+&lt;a expr:name='data:comment.anchorName'/&gt;     
+  修改为如下：      
+&lt;a expr:name='data:comment.anchorName'/&gt;  &lt;b:if cond='data:blog.enabledCommentProfileImages'&gt;  &lt;div expr:class='data:comment.avatarContainerClass'&gt;  &lt;data:comment.authorAvatarImage/&gt;  &lt;/div&gt;  &lt;/b:if&gt;     
+  如果你想调整头像的显示尺寸，可以在模板的 CSS 代码尾部追加如下代码：  （请根据自己的喜好修改下划线部分）      
+.comments .avatar-image-container img {  width:  图像宽度  ;  height:  图像高度  ;  border:  图像边界  ;  }     
+  修改完之后，点 "保存" 按钮。        ★结尾 
+  今天就先介绍到这里。以后如果有空，俺还会继续改进本博客的评论功能。相关的代码也会继续补充到本文中。欢迎其它博主  到本文留言  ，交流经验。   
+   俺博客上，和本文相关的帖子（需翻墙）
+   ：   博客评论功能升级（智能贴图、图片代理）——兼谈“Web 图片的隐私问题及防范”    博客评论功能升级（“未读”状态、按时间过滤）——兼谈“为啥俺不用其它博客平台”    博客评论功能升级（增加“留言过滤”、“200条之后自动加载”等）      
+
+    版权声明
+     本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者  编程随想  和本文原始地址：   https://program-think.blogspot.com/2012/09/custom-blogger-comment.html 
+    
+    
+  
+  
+    
+         
+    
+    
+    
+ 
+    
+  
+
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://program-think.blogspot.com/2012/09/custom-blogger-comment.html" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://program-think.blogspot.com/2012/09/custom-blogger-comment.html&title=博客评论功能升级（引入 BBCode 语法），顺便分享一下实现方法&caption=
+
+      博客评论功能升级（引入 BBCode 语法），顺便分享一下实现方法  
+  
+    
+      
+    
+  
+  
+     ★广而告之 
+  最近一年来，翻墙到俺博客留言的读者日渐增多。留言多了之后， Blogger / BlogSpot 平台的评论功能就越发显得老土了。这个周末，俺痛下决心，把默认的评论功能彻底改造一下。这番改造，主要增加了如下几个功能： 
+       
+  
+   1. 增加嵌套评论的功能
+    通过嵌套评论，直接回复前几楼的留言就方便了。  由于 Blogger / BlogSpot 平台在功能上仅支持两层嵌套。所以，目前俺还搞不出多层嵌套。   
+   2. 增加楼层数的显示
+    类似 BBS 论坛的效果（目前不支持 IE 8 之前的版本）。   
+   3. 增加评论者的头像
+    如果登录过 Gmail 或 OpenID，会显示用户的头像。对于匿名用户，显示默认头像。   
+   4. 评论支持 BBCode 语法
+    可以在评论中使用常见的几种 BBCode 语法，目前支持如下4种：      
+      
+        
+          超链接
+          [url]网址[/url]
+        
+        
+          带标题的超链接
+          [url=网址]标题[/url]
+        
+        
+          图片
+          [img]图片的网址[/img]
+        
+        
+          粗体文字
+          [b]加粗的文字[/b]
+        
+      
+    
+ 关于 BBCode 的更多介绍，请看"  这里  "。   
+   5. 调整了背景颜色和边框
+    主要是为了看起来爽一点。   针对上述新功能，欢迎大伙儿多提意见和建议，便于俺改进（点"  这里  "发表你的高见）。  下面是改造后的评论功能截图，如果你的浏览器看到的效果有差异，敬请告知你的浏览器版本。      接下来，俺分享一下具体的实现方式，希望对其他 Blogger / BlogSpot 上的博主有帮助。如果你没有在 Blogger / BlogSpot 上开博客，那后面的内容就无需再看了。   ================华丽的分割线================        ★如何实现"嵌套评论"？ 
+  简介：  嵌套评论功能由于涉及到后端，需要 Blogger / BlogSpot 平台的支持才有可能实现。幸运的是，Blogger / BlogSpot 平台在今年开始提供"嵌套评论"的功能。  由于平台提供支持，只需要简单修改一下模板即可实现。   步骤：  首先，进入 Blogger 的后台管理界面，点左边菜单上的 "模板" 按钮。  出现模板管理界面后，再点 "修改HTML" 按钮。  出现一个对话框，点 "继续" 按钮。  然后勾选 "扩展窗口小部件模板 "。  此时，你就可以看到模板的编辑界面了。  
+   为了保险起见，在编辑之前先备份一下模板。
+     在模板中找到如下代码：      
+&lt;b:if cond='data:blog.pageType == &amp;quot;item&amp;quot;'&gt;  &lt;b:include data='post' name='comments'/&gt;  &lt;/b:if&gt;     
+  修改为如下：       
+&lt;b:if cond='data:blog.pageType == &amp;quot;item&amp;quot;'&gt;  &lt;b:if cond='data:post.showThreadedComments'&gt;  &lt;b:include data='post' name='threaded_comments'/&gt;  &lt;b:else/&gt;  &lt;b:include data='post' name='comments'/&gt;  &lt;/b:if&gt;  &lt;/b:if&gt;     
+  最后点 "保存" 按钮。  如果不出意外，你的博客就有嵌套评论功能了。        ★如何添加楼层数？ 
+  添加评论的楼层数，有很多种方法。比较简单的有如下两种。        ◇使用 JavaScript 显示楼层号 
+  简介：  直接在模板中嵌入 JS 代码。利用模板中的 loop 循环，递增楼层号并显示。   优点：  支持各种浏览器   缺点，  适合用于传统的评论界面。对于新的嵌套评论界面，需要对模板进行大改，比较难搞。   步骤：  根据刚才介绍过的步骤，进入模板编辑界面。  
+   为了保险起见，在编辑之前先备份一下模板。
+     在模板中找到如下代码：      
+&lt;b:loop values='data:post.comments' var='comment'&gt;     
+  修改为如下：      
+&lt;script type='text/javascript'&gt;nCommentIndex = 1;&lt;/script&gt;  &lt;b:loop values='data:post.comments' var='comment'&gt;  &lt;span class='comment-index'&gt;  &lt;script type='text/javascript'&gt;document.write('第'+nCommentIndex+'楼'); nCommentIndex+=1;&lt;/script&gt;  &lt;/span&gt;     
+  最后点 "保存" 按钮。  如果你想调整楼层号的显示样式，可以在模板的 CSS 代码尾部追加如下代码：  （请根据自己的喜好修改下划线部分）      
+.comment-index {  float:  浮动靠左还是靠右  ;  font:  用啥字体  ;  font-size:  字体大小  ;  color:  用啥颜色  ;  }     
+  全部修改完之后，点 "保存" 按钮。        ◇使用 CSS 显示楼层号 
+  简介：  利用 CSS 的计数器功能，实现楼层号的递增及显示。   优点：  支持嵌套评论的界面   缺点：  浏览器兼容性不够好（比如 IE6 不支持 CSS 的 content 属性）   步骤：  根据刚才介绍过的步骤，进入模板编辑界面。  
+   为了保险起见，在编辑之前先备份一下模板。
+     在模板代码中，找到 CSS 的那段代码，然后在 CSS 代码的尾部追加如下代码：  （以下这2段代码就是俺博客用的，欢迎剽窃）   这一段用来显示楼层号      
+.comment-thread ol {  counter-reset: comment_counter;  }  .comment-thread li:before {  content: counter(comment_counter,decimal) "楼";  counter-increment: comment_counter;  float: right;  position: relative;  z-index: 1;  text-align: center;  font-size: 120%;  color: $mainLinkColor;  border: none;  margin-top: 10px;  margin-right: 10px;  }    
+  这一段用来显示嵌套在某楼层之下的单元号      
+.comment-thread ol ol {  counter-reset: child_comment_counter;  }  .comment-thread li li:before {  content: counter(comment_counter,decimal) "楼 " counter(child_comment_counter,decimal) "单元";  counter-increment: child_comment_counter;  font-size: 100%;  }    
+  修改完之后，点 "保存" 按钮。        ★如何添加头像？ 
+  根据刚才介绍过的步骤，进入模板编辑界面。  
+   为了保险起见，在编辑之前先备份一下模板。
+     在模板中找到如下代码：      
+&lt;dl id='comments-block'&gt;     
+  修改为如下：      
+&lt;dl expr:class='data:post.avatarIndentClass' id='comments-block'&gt;     
+  还没完，就在这行代码下方2-3行的地方有如下代码：      
+&lt;a expr:name='data:comment.anchorName'/&gt;     
+  修改为如下：      
+&lt;a expr:name='data:comment.anchorName'/&gt;  &lt;b:if cond='data:blog.enabledCommentProfileImages'&gt;  &lt;div expr:class='data:comment.avatarContainerClass'&gt;  &lt;data:comment.authorAvatarImage/&gt;  &lt;/div&gt;  &lt;/b:if&gt;     
+  如果你想调整头像的显示尺寸，可以在模板的 CSS 代码尾部追加如下代码：  （请根据自己的喜好修改下划线部分）      
+.comments .avatar-image-container img {  width:  图像宽度  ;  height:  图像高度  ;  border:  图像边界  ;  }     
+  修改完之后，点 "保存" 按钮。        ★结尾 
+  今天就先介绍到这里。以后如果有空，俺还会继续改进本博客的评论功能。相关的代码也会继续补充到本文中。欢迎其它博主  到本文留言  ，交流经验。   
+   俺博客上，和本文相关的帖子（需翻墙）
+   ：   博客评论功能升级（智能贴图、图片代理）——兼谈“Web 图片的隐私问题及防范”    博客评论功能升级（“未读”状态、按时间过滤）——兼谈“为啥俺不用其它博客平台”    博客评论功能升级（增加“留言过滤”、“200条之后自动加载”等）      
+
+    版权声明
+     本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者  编程随想  和本文原始地址：   https://program-think.blogspot.com/2012/09/custom-blogger-comment.html 
+    
+    
+  
+  
+    
+         
+    
+    
+    
+ 
+    
+  
+
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=博客评论功能升级（引入 BBCode 语法），顺便分享一下实现方法&url=https://program-think.blogspot.com/2012/09/custom-blogger-comment.html" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>博客评论功能升级（引入 BBCode 语法），顺便分享一下实现方法</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2012-09-05
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#编程随想">
+          编程随想
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://program-think.blogspot.com/2012/09/custom-blogger-comment.html" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="编程随想的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#编程随想 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <div class="post hentry uncustomized-post-template">
+<a name="7644948530449722072">
+ </a>   <h1 class="post-title entry-title" id="bbcode---"> <a href="https://program-think.blogspot.com/2012/09/custom-blogger-comment.html"> 博客评论功能升级（引入 BBCode 语法），顺便分享一下实现方法 </a> </h1>
+  <div class="post-header">
+    <div class="post-header-line-1">
+      <div class="post-inner-index"></div>
+    </div>
+  </div>
+  <div class="post-body entry-content">
+    <h2 id="section"> ★广而告之 </h2>
+ <br /> 最近一年来，翻墙到俺博客留言的读者日渐增多。留言多了之后， Blogger / BlogSpot 平台的评论功能就越发显得老土了。这个周末，俺痛下决心，把默认的评论功能彻底改造一下。这番改造，主要增加了如下几个功能： <a name="more">
+  </a>     <!--program-think-->
+ <br /> <b>
+   1. 增加嵌套评论的功能
+  </b> <br /> 通过嵌套评论，直接回复前几楼的留言就方便了。 <br /> 由于 Blogger / BlogSpot 平台在功能上仅支持两层嵌套。所以，目前俺还搞不出多层嵌套。 <br /> <br /> <b>
+   2. 增加楼层数的显示
+  </b> <br /> 类似 BBS 论坛的效果（目前不支持 IE 8 之前的版本）。 <br /> <br /> <b>
+   3. 增加评论者的头像
+  </b> <br /> 如果登录过 Gmail 或 OpenID，会显示用户的头像。对于匿名用户，显示默认头像。 <br /> <br /> <b>
+   4. 评论支持 BBCode 语法
+  </b> <br /> 可以在评论中使用常见的几种 BBCode 语法，目前支持如下4种： <br />     <table border="0" cellpadding="0" cellspacing="0">
+      <tbody>
+        <tr>
+          <td>超链接</td>
+          <td>[url]网址[/url]</td>
+        </tr>
+        <tr>
+          <td>带标题的超链接</td>
+          <td>[url=网址]标题[/url]</td>
+        </tr>
+        <tr>
+          <td>图片</td>
+          <td>[img]图片的网址[/img]</td>
+        </tr>
+        <tr>
+          <td>粗体文字</td>
+          <td>[b]加粗的文字[/b]</td>
+        </tr>
+      </tbody>
+    </table>
+ 关于 BBCode 的更多介绍，请看" <a href="https://zh.wikipedia.org/wiki/BBCode" rel="nofollow" target="_blank"> 这里 </a> "。 <br /> <br /> <b>
+   5. 调整了背景颜色和边框
+  </b> <br /> 主要是为了看起来爽一点。 <br /> <br /> 针对上述新功能，欢迎大伙儿多提意见和建议，便于俺改进（点" <a href="http://program-think.blogspot.com/2012/09/custom-blogger-comment.html#comments"> 这里 </a> "发表你的高见）。 <br /> 下面是改造后的评论功能截图，如果你的浏览器看到的效果有差异，敬请告知你的浏览器版本。 <br /> <br /> <img alt="不见图 请翻墙" border="1" src="https://lh5.googleusercontent.com/jAtB5-K0PTdgslIj6TsdaGTKYSHAuHmNvvQfW0v_X4VHs6wXfZULjnV6ccLyk5k3yc6XfUHtXLoYEW5_Zxwh7AkZVGTxqZ8RTMWAs6l1vAU7BStzPQ" /> <br /> <br /> 接下来，俺分享一下具体的实现方式，希望对其他 Blogger / BlogSpot 上的博主有帮助。如果你没有在 Blogger / BlogSpot 上开博客，那后面的内容就无需再看了。 <br /> <br /> ================华丽的分割线================ <br /> <br />     <h2 id="section-1"> ★如何实现"嵌套评论"？ </h2>
+ <br /> 简介： <br /> 嵌套评论功能由于涉及到后端，需要 Blogger / BlogSpot 平台的支持才有可能实现。幸运的是，Blogger / BlogSpot 平台在今年开始提供"嵌套评论"的功能。 <br /> 由于平台提供支持，只需要简单修改一下模板即可实现。 <br /> <br /> 步骤： <br /> 首先，进入 Blogger 的后台管理界面，点左边菜单上的 "模板" 按钮。 <br /> 出现模板管理界面后，再点 "修改HTML" 按钮。 <br /> 出现一个对话框，点 "继续" 按钮。 <br /> 然后勾选 "扩展窗口小部件模板 "。 <br /> 此时，你就可以看到模板的编辑界面了。 <br /> <b>
+   为了保险起见，在编辑之前先备份一下模板。
+  </b> <br /> <br /> 在模板中找到如下代码： <br />     <blockquote style="background-color:#DDD;">
+&lt;b:if cond='data:blog.pageType == &amp;quot;item&amp;quot;'&gt; <br /> &lt;b:include data='post' name='comments'/&gt; <br /> &lt;/b:if&gt; <br />    </blockquote>
+ <br /> 修改为如下： <br /> <br />     <blockquote style="background-color:#DDD;font-family:Courier,monospace;">
+&lt;b:if cond='data:blog.pageType == &amp;quot;item&amp;quot;'&gt; <br /> &lt;b:if cond='data:post.showThreadedComments'&gt; <br /> &lt;b:include data='post' name='threaded_comments'/&gt; <br /> &lt;b:else/&gt; <br /> &lt;b:include data='post' name='comments'/&gt; <br /> &lt;/b:if&gt; <br /> &lt;/b:if&gt; <br />    </blockquote>
+ <br /> 最后点 "保存" 按钮。 <br /> 如果不出意外，你的博客就有嵌套评论功能了。 <br /> <br />     <h2 id="section-2"> ★如何添加楼层数？ </h2>
+ <br /> 添加评论的楼层数，有很多种方法。比较简单的有如下两种。 <br /> <br />     <h3 id="javascript--"> ◇使用 JavaScript 显示楼层号 </h3>
+ <br /> 简介： <br /> 直接在模板中嵌入 JS 代码。利用模板中的 loop 循环，递增楼层号并显示。 <br /> <br /> 优点： <br /> 支持各种浏览器 <br /> <br /> 缺点， <br /> 适合用于传统的评论界面。对于新的嵌套评论界面，需要对模板进行大改，比较难搞。 <br /> <br /> 步骤： <br /> 根据刚才介绍过的步骤，进入模板编辑界面。 <br /> <b>
+   为了保险起见，在编辑之前先备份一下模板。
+  </b> <br /> <br /> 在模板中找到如下代码： <br />     <blockquote style="background-color:#DDD;font-family:Courier,monospace;">
+&lt;b:loop values='data:post.comments' var='comment'&gt; <br />    </blockquote>
+ <br /> 修改为如下： <br />     <blockquote style="background-color:#DDD;font-family:Courier,monospace;">
+&lt;script type='text/javascript'&gt;nCommentIndex = 1;&lt;/script&gt; <br /> &lt;b:loop values='data:post.comments' var='comment'&gt; <br /> &lt;span class='comment-index'&gt; <br /> &lt;script type='text/javascript'&gt;document.write('第'+nCommentIndex+'楼'); nCommentIndex+=1;&lt;/script&gt; <br /> &lt;/span&gt; <br />    </blockquote>
+ <br /> 最后点 "保存" 按钮。 <br /> 如果你想调整楼层号的显示样式，可以在模板的 CSS 代码尾部追加如下代码： <br /> （请根据自己的喜好修改下划线部分） <br />     <blockquote style="background-color:#DDD;font-family:Courier,monospace;">
+.comment-index { <br /> float: <u> 浮动靠左还是靠右 </u> ; <br /> font: <u> 用啥字体 </u> ; <br /> font-size: <u> 字体大小 </u> ; <br /> color: <u> 用啥颜色 </u> ; <br /> } <br />    </blockquote>
+ <br /> 全部修改完之后，点 "保存" 按钮。 <br /> <br />     <h3 id="css--"> ◇使用 CSS 显示楼层号 </h3>
+ <br /> 简介： <br /> 利用 CSS 的计数器功能，实现楼层号的递增及显示。 <br /> <br /> 优点： <br /> 支持嵌套评论的界面 <br /> <br /> 缺点： <br /> 浏览器兼容性不够好（比如 IE6 不支持 CSS 的 content 属性） <br /> <br /> 步骤： <br /> 根据刚才介绍过的步骤，进入模板编辑界面。 <br /> <b>
+   为了保险起见，在编辑之前先备份一下模板。
+  </b> <br /> <br /> 在模板代码中，找到 CSS 的那段代码，然后在 CSS 代码的尾部追加如下代码： <br /> （以下这2段代码就是俺博客用的，欢迎剽窃） <br /> <br /> 这一段用来显示楼层号 <br />     <blockquote style="background-color:#DDD;font-family:Courier,monospace;">
+.comment-thread ol { <br /> counter-reset: comment_counter; <br /> } <br /> .comment-thread li:before { <br /> content: counter(comment_counter,decimal) "楼"; <br /> counter-increment: comment_counter; <br /> float: right; <br /> position: relative; <br /> z-index: 1; <br /> text-align: center; <br /> font-size: 120%; <br /> color: $mainLinkColor; <br /> border: none; <br /> margin-top: 10px; <br /> margin-right: 10px; <br /> }    </blockquote>
+ <br /> 这一段用来显示嵌套在某楼层之下的单元号 <br />     <blockquote style="background-color:#DDD;font-family:Courier,monospace;">
+.comment-thread ol ol { <br /> counter-reset: child_comment_counter; <br /> } <br /> .comment-thread li li:before { <br /> content: counter(comment_counter,decimal) "楼 " counter(child_comment_counter,decimal) "单元"; <br /> counter-increment: child_comment_counter; <br /> font-size: 100%; <br /> }    </blockquote>
+ <br /> 修改完之后，点 "保存" 按钮。 <br /> <br />     <h2 id="section-3"> ★如何添加头像？ </h2>
+ <br /> 根据刚才介绍过的步骤，进入模板编辑界面。 <br /> <b>
+   为了保险起见，在编辑之前先备份一下模板。
+  </b> <br /> <br /> 在模板中找到如下代码： <br />     <blockquote style="background-color:#DDD;font-family:Courier,monospace;">
+&lt;dl id='comments-block'&gt; <br />    </blockquote>
+ <br /> 修改为如下： <br />     <blockquote style="background-color:#DDD;font-family:Courier,monospace;">
+&lt;dl expr:class='data:post.avatarIndentClass' id='comments-block'&gt; <br />    </blockquote>
+ <br /> 还没完，就在这行代码下方2-3行的地方有如下代码： <br />     <blockquote style="background-color:#DDD;font-family:Courier,monospace;">
+&lt;a expr:name='data:comment.anchorName'/&gt; <br />    </blockquote>
+ <br /> 修改为如下： <br />     <blockquote style="background-color:#DDD;font-family:Courier,monospace;">
+&lt;a expr:name='data:comment.anchorName'/&gt; <br /> &lt;b:if cond='data:blog.enabledCommentProfileImages'&gt; <br /> &lt;div expr:class='data:comment.avatarContainerClass'&gt; <br /> &lt;data:comment.authorAvatarImage/&gt; <br /> &lt;/div&gt; <br /> &lt;/b:if&gt; <br />    </blockquote>
+ <br /> 如果你想调整头像的显示尺寸，可以在模板的 CSS 代码尾部追加如下代码： <br /> （请根据自己的喜好修改下划线部分） <br />     <blockquote style="background-color:#DDD;font-family:Courier,monospace;">
+.comments .avatar-image-container img { <br /> width: <u> 图像宽度 </u> ; <br /> height: <u> 图像高度 </u> ; <br /> border: <u> 图像边界 </u> ; <br /> } <br />    </blockquote>
+ <br /> 修改完之后，点 "保存" 按钮。 <br /> <br />     <h2 id="section-4"> ★结尾 </h2>
+ <br /> 今天就先介绍到这里。以后如果有空，俺还会继续改进本博客的评论功能。相关的代码也会继续补充到本文中。欢迎其它博主 <a href="http://program-think.blogspot.com/2012/09/custom-blogger-comment.html#comments"> 到本文留言 </a> ，交流经验。 <br /> <br /> <b>
+   俺博客上，和本文相关的帖子（需翻墙）
+  </b> ： <br /> <a href="https://program-think.blogspot.com/2015/04/custom-blogger-comment.html"> 博客评论功能升级（智能贴图、图片代理）——兼谈“Web 图片的隐私问题及防范” </a> <br /> <a href="https://program-think.blogspot.com/2014/12/custom-blogger-comment.html"> 博客评论功能升级（“未读”状态、按时间过滤）——兼谈“为啥俺不用其它博客平台” </a> <br /> <a href="https://program-think.blogspot.com/2014/09/custom-blogger-comment.html"> 博客评论功能升级（增加“留言过滤”、“200条之后自动加载”等） </a>     <div class="post-copyright">
+<b>
+    版权声明
+   </b> <br /> 本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者 <a href="mailto:program.think@gmail.com"> 编程随想 </a> 和本文原始地址： <br /> <a href="https://program-think.blogspot.com/2012/09/custom-blogger-comment.html" id="OriginalPostUrl"> https://program-think.blogspot.com/2012/09/custom-blogger-comment.html </a>
+    </div>
+    <div style="clear: both;"></div>
+  </div>
+  <div class="post-footer" style="margin-bottom:50px;">
+    <div class="post-footer-line post-footer-line-1" style="display:none;">
+<span class="post-author vcard"> </span> <span class="reaction-buttons"> </span> <span class="star-ratings"> </span> <span class="post-icons"> </span> <span class="post-backlinks post-comment-link"> </span>
+    </div>
+    <div class="post-footer-line post-footer-line-2 post-toolbar"></div>
+    <div class="post-footer-line post-footer-line-3">
+<span class="post-location"> </span>
+    </div>
+  </div>
+</div>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#编程随想 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2021-05-09/%E5%88%86%E4%BA%AB%E5%90%84%E7%B1%BB%E7%94%B5%E5%AD%90%E4%B9%A6-%E6%94%BF%E6%B2%BB-IT-%E7%A7%91%E6%99%AE-%E5%8E%86%E5%8F%B2-%E7%AD%89-97%E6%9C%AC/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-01-15/%E5%8D%9A%E5%AE%A2%E5%BC%80%E5%BC%A0%E5%8F%8A%E6%9C%AC%E5%8D%9A%E5%AE%A2%E5%86%85%E5%AE%B9%E7%AE%80%E4%BB%8B/">最早</a>--</span>
+    
+      <li>
+        <time>2012-09-09</time>
+        <a href="https://nodebe4.github.io/opinion/2012-09-09/%E6%AF%8F%E5%91%A8%E8%BD%AC%E8%BD%BD-%E5%85%B3%E4%BA%8E%E9%A6%99%E6%B8%AF%E6%8A%97%E8%AE%AE%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2-%E7%BD%91%E6%96%873%E7%AF%87-%E5%9B%BE%E7%89%87%E5%A4%9A%E5%BC%A0/">
+          每周转载：关于香港抗议洗脑教育（网文3篇，图片多张）
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2012-09-08</time>
+        <a href="https://nodebe4.github.io/opinion/2012-09-08/%E5%A6%82%E4%BD%95%E9%98%B2%E6%AD%A2%E9%BB%91%E5%AE%A2%E5%85%A5%E4%BE%B5-6-Web%E7%9B%B8%E5%85%B3%E7%9A%84%E9%98%B2%E8%8C%83-%E4%B8%AD/">
+          如何防止黑客入侵[6]：Web相关的防范（中）
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2012-09-02</time>
+        <a href="https://nodebe4.github.io/opinion/2012-09-02/%E6%AF%8F%E5%91%A8%E8%BD%AC%E8%BD%BD-%E5%85%B3%E4%BA%8E%E4%BF%9D%E9%92%93%E5%BC%95%E5%8F%91%E7%9A%84%E7%8B%AD%E9%9A%98%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89-%E7%BD%91%E6%96%874%E7%AF%87/">
+          每周转载：关于保钓引发的狭隘民族主义（网文4篇）
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2012-08-30</time>
+        <a href="https://nodebe4.github.io/opinion/2012-08-30/%E5%A6%82%E4%BD%95%E9%98%B2%E6%AD%A2%E9%BB%91%E5%AE%A2%E5%85%A5%E4%BE%B5-5-Web%E7%9B%B8%E5%85%B3%E7%9A%84%E9%98%B2%E8%8C%83-%E4%B8%8A/">
+          如何防止黑客入侵[5]：Web相关的防范（上）
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2012-09-05/wangdong/">
+            前一篇：我就知道，世界没变！
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2012-09-06/%E8%AF%BB%E5%9B%BE%E8%AF%86%E6%94%BF%E6%B2%BB-%E7%88%B6%E6%AF%8D%E5%BD%93%E5%AE%98=%E6%9B%B4%E5%A5%BD%E7%9A%84%E5%B7%A5%E4%BD%9C/">
+            後一篇：【读图识政治】父母当官=更好的工作？
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2012-09-05/wangdong/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2012-09-06/%E8%AF%BB%E5%9B%BE%E8%AF%86%E6%94%BF%E6%B2%BB-%E7%88%B6%E6%AF%8D%E5%BD%93%E5%AE%98=%E6%9B%B4%E5%A5%BD%E7%9A%84%E5%B7%A5%E4%BD%9C/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2012-09-08/%E5%A6%82%E4%BD%95%E9%98%B2%E6%AD%A2%E9%BB%91%E5%AE%A2%E5%85%A5%E4%BE%B5-6-Web%E7%9B%B8%E5%85%B3%E7%9A%84%E9%98%B2%E8%8C%83-%E4%B8%AD/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2012-09-02/%E6%AF%8F%E5%91%A8%E8%BD%AC%E8%BD%BD-%E5%85%B3%E4%BA%8E%E4%BF%9D%E9%92%93%E5%BC%95%E5%8F%91%E7%9A%84%E7%8B%AD%E9%9A%98%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89-%E7%BD%91%E6%96%874%E7%AF%87/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2012-09-05/wangdong/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2012-09-06/%E8%AF%BB%E5%9B%BE%E8%AF%86%E6%94%BF%E6%B2%BB-%E7%88%B6%E6%AF%8D%E5%BD%93%E5%AE%98=%E6%9B%B4%E5%A5%BD%E7%9A%84%E5%B7%A5%E4%BD%9C/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<编程随想>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2012-09-08/%E5%A6%82%E4%BD%95%E9%98%B2%E6%AD%A2%E9%BB%91%E5%AE%A2%E5%85%A5%E4%BE%B5-6-Web%E7%9B%B8%E5%85%B3%E7%9A%84%E9%98%B2%E8%8C%83-%E4%B8%AD/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<编程随想>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2012-09-02/%E6%AF%8F%E5%91%A8%E8%BD%AC%E8%BD%BD-%E5%85%B3%E4%BA%8E%E4%BF%9D%E9%92%93%E5%BC%95%E5%8F%91%E7%9A%84%E7%8B%AD%E9%9A%98%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89-%E7%BD%91%E6%96%874%E7%AF%87/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

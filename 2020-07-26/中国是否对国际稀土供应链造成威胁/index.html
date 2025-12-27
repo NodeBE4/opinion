@@ -1,0 +1,981 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>中国是否对国际稀土供应链造成威胁？ – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+中国是否对国际稀土供应链造成威胁？
+——
+" />
+    <meta property="og:description" content="
+中国是否对国际稀土供应链造成威胁？
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="中国是否对国际稀土供应链造成威胁？" />
+    <meta property="twitter:title" content="中国是否对国际稀土供应链造成威胁？" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2F2049post.wordpress.com%2F2020%2F07%2F26%2Fv1study1%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://2049post.wordpress.com/2020/07/26/v1study1/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://2049post.wordpress.com/2020/07/26/v1study1/&text=中国是否对国际稀土供应链造成威胁？&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://2049post.wordpress.com/2020/07/26/v1study1/&title=中国是否对国际稀土供应链造成威胁？" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://2049post.wordpress.com/2020/07/26/v1study1/&title=中国是否对国际稀土供应链造成威胁？" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=中国是否对国际稀土供应链造成威胁？&body=
+中国是否对国际稀土供应链造成威胁？
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://2049post.wordpress.com/2020/07/26/v1study1/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://2049post.wordpress.com/2020/07/26/v1study1/&title=中国是否对国际稀土供应链造成威胁？&caption=
+中国是否对国际稀土供应链造成威胁？
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=中国是否对国际稀土供应链造成威胁？&url=https://2049post.wordpress.com/2020/07/26/v1study1/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>中国是否对国际稀土供应链造成威胁？</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2020-07-26
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#火光">
+          火光
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://2049post.wordpress.com/2020/07/26/v1study1/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="火光的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#火光 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1595786280000-->
+<p><a href="https://2049post.wordpress.com/2020/07/26/v1study1/">中国是否对国际稀土供应链造成威胁？</a>
+——</p>
+
+<div>
+  <div class="wp-block-jetpack-markdown">
+    <p><a href="https://chinapower.csis.org/china-rare-earths/">原文链接</a></p>
+    <p><strong>作者</strong>：美国国际战略研究中心(Center for Strategic &amp; International Studies)中国实力项目（ChinaPower）</p>
+    <p><strong>译者</strong>： CD</p>
+    <p><strong>译者按</strong>： 稀土是高科技行业重要的战略资源，也是中国权贵资本严格控制的产业。自从80年代以来，中国靠着本身的高储量、低人工成本、松弛的环境管制和贸易保护政策，迅速发展了稀土生产和加工行业。进入21世纪，中国一度垄断了世界稀土供应市场；而中国政府也开始使用稀土供应链这一“筹码”，在国际谈判中获得优势。在中国对外关系日益紧张的今天，考察中国稀土供应地位的来源、现状和走向，或有不少启发。</p>
+    <h3 id="section">摘要</h3>
+    <p>随着过去几十年中国的经济发展，中国领导人一直希望使中国拥有战略性行业中的关键角色。为此，北京政府将中国确立为全球稀土的主要供应国。稀土的17种矿物，在制造智能手机、电动汽车、军用武器系统以及其他无数先进技术中必不可少。</p>
+    <p>北京政府已经显示，它会利用中国在全球稀土行业中的地位来实现自己的政治目标。这对不少国家敲响了警钟。随着市场的不断变化，具有竞争能力的新参与者逐渐入场，而中国在行业中的影响力在未来几年可能会被削弱。</p>
+    <h3 id="section-1">全球稀土市场</h3>
+    <p>与其他商品相比，全球稀土贸易规模相对较小。 2019年，全球稀土进口总值仅为11.5亿美元，而同期全球原油进口总值逾1万亿美元。但是，使用稀土生产的商品却价值巨大。例如，每台苹果iPhone都依赖于多种稀土元素：钕用于制造小巧但使扬声器正常运行的磁铁；铕被少量用于手机屏幕上以显示红色；铈用于抛光手机。2019财政年，苹果售出了价值1424亿美元的iPhone。</p>
+    <p>尽管稀土被称为“稀”土，大多数稀土元素藏量其实较为丰富。但是，开采稀土并将其转化为可用材料的过程非常昂贵，而且对环境破坏巨大。多年来，中国政府利用其相对廉价的劳动力和宽松的环境法律，获得了全球市场的竞争优势，并主导了稀土供应。从2008年到2018年，中国出口了近40.8万吨稀土，占同期稀土出口总量的42.3％。美国是稀土第二大出口国，占全球总供应量的9.3％。马来西亚（9.1％），奥地利（9.0％）和日本（7.1％）也进入前五名。</p>
+    <h3 id="section-2">中国稀土出口构成</h3>
+    <p>根据中国海关总署的数据，2019年中国出口了45552吨稀土，价值3.988亿美元。出口的稀土绝大部分流向了世界主要经济体和科技发达国家。按总量计，约36％的稀土流向日本，也是中国稀土出口的主要目的地；美国紧随其后，占中国出口的33.4％；加上荷兰（9.6％）、韩国（5.4％）和意大利（3.5％），这五个国家构成了中国稀土出口的87.8％。</p>
+    <p>镧占中国稀土出口总量的42.6％，毫无疑问为最主要的出口元素。镧在混合动力汽车电池中大量使用。例如，每辆丰田普锐斯都含有约10-15千克的镧。铽则价格昂贵，按价值计算是中国最主要的稀土出口元素，占2019年出口总额的14.5％（5790万美元）。铽主要用于固态电子设备，也用于制造声呐系统和电视屏幕。</p>
+    <h3 id="section-3">中国力争主导稀土行业</h3>
+    <p>中国在稀土产业中的主导地位，是数十年来旨在赶超其他国家的针对性产业政策扶持的结果。近年来，中国政府正寻求稀土产业的改革，以提高效率、保护环境，并打击非法采矿。</p>
+    <p>在1980年代中期，中国政府通过发放出口退税来支持其新兴的稀土产业。退税降低了中国矿业公司的成本，使它们在全球市场上站稳了脚跟。从1985年到1995年，中国的稀土采矿量从8500吨猛增到大约48000吨，在全球矿产量中的份额从21.4％扩大到60.1％。</p>
+    <p><img src="https://imgur.com/YG5kvHt.jpg" alt="" /></p>
+    <p>来源：https://chinapower.csis.org/china-rare-earths/#rare-earth-mining-production</p>
+    <p>随着中国采矿能力的扩大，其他国家的稀土生产商开始将生产转移到中国，以利用其成本低廉的劳动力和薄弱的环境法规。但是，1990年，中国政府宣布稀土为受保护的战略矿产资源，禁止外国公司在中国境内开采稀土，并限制外资必须与中方合作才能参与稀土加工项目。这使得中国公司通过与外国公司的合作伙伴关系获得了专业知识，并稳步减少了供应链中的国外竞争。</p>
+    <p>以上这些措施，都成功地促进了中国稀土产业的发展；但出口配额被证明是中国政府最重要的政策。1990年代后期开始，中国政府开始实行分级配额制，旨在阻止廉价的上游产品（如原矿石）的出口，而鼓励氧化物、金属和合金的出口——这些产品都被应用于下游产品。</p>
+    <p>同时，中国政府逐渐收紧了出口配额，在2010年突然削减了37％，仅允许出口30259吨。此举导致全球稀土平均进口价格从2009年的每吨9461美元暴涨至2011年的每吨66957美元。美国、日本和欧洲的制造商都在竭力负担高价稀土，而中国国内则供应充足。</p>
+    <p><img src="https://imgur.com/pSs0GJW.jpg" alt="" /></p>
+    <p>来源：https://chinapower.csis.org/china-rare-earths/#price-of-rare-earth-imports</p>
+    <p>国内廉价的稀土供应为中国制造商提供了扩大关键产品（如永磁体）生产的机会。永磁体是风力涡轮机、混合动力汽车和其他先进技术不可或缺的组成部分。而北京的政策使得中国占领了几乎所有的全球市场。截至2019年，中国仍生产世界上约85％的稀土氧化物和90％的稀土金属、合金及永磁体。</p>
+    <p>北京的政策虽然成功，但也使中国成为了世界主要稀土进口国的聚焦目标。2012年，美国、欧盟和日本向世界贸易组织（WTO）提出了一系列针对中国的贸易争端，声称中国政府的政策缺乏公平，损害其他国家的利益以使本国产业获利。世贸组织于2014年对中国作出了不利裁决。2015年，中国终于结束了其出口配额制度。</p>
+    <p>随着中国稀土产业的成熟，中国政府的近期政策主要集中在提高效率、限制环境破坏和减少非法采矿上。</p>
+    <h3 id="section-4">对中国的高度依赖</h3>
+    <p>中国已表现出它会利用其在全球稀土行业中的影响力，以实现其政治目标。尽管几个主要国家一直在试图限制中国供应链中断对自身造成的影响，但它们仍深深依赖于中国的稀土出口。</p>
+    <p>将稀土作为政治手段的最有名的一个例子，体现在2010年中国与日本的激烈争端中。中国一搜渔船在钓鱼岛附近的水域撞向了日本海岸警卫队的船只。在日本逮捕了渔船船长后，中国限制了向日本的稀土出口两个月。</p>
+    <p><img src="https://imgur.com/tUCQlWO.jpg" alt="" /></p>
+    <p>来源：https://chinapower.csis.org/china-rare-earths/#reliance-on-rare-earth-imports-from-china</p>
+    <p>这次出口限制对日本供应链的影响有限，但它凸显了日本对中国进口稀土的依赖——中国出口的稀土占其进口量80％以上。东京迅速采取措施以限制未来可能的供应链中断。2011年，日本双日株式会社和国有的日本石油、天然气和金属国家公司（JOGMEC）向澳大利亚矿业公司Lynas Corporation投资了2.5亿美元。这笔投资使Lynas成为了中国境外唯一能够加工稀土的供应商。Lynas目前向日本提供了其稀土进口量的近三分之一。</p>
+    <p>近十年后，中国再次寻求利用其在全球稀土市场上的地位达到政治目的——这次是对付美国。在中美贸易局势日渐紧张之际，中国国家主席习近平于2019年5月访问了江西省的稀土设施，许多人将其解释为对美国的警告。在《人民日报》上发表的一篇文章则暗示中国可能在贸易战中切断对美国的出口，作为“反制武器”。几天后，北京将美国稀土（及其他产品）的关税从10％上调至25％。据报道，特朗普政府原本制定了针对中国稀土的关税计划，但由于担心这将使美国公司面临无法找到价格合宜的替代供应商的窘境，该计划从未实施。</p>
+    <p>美国的决策者尤其担心稀土供应链中断对美国国防工业的威胁。美国国防工业技术的诸多领域都使用稀土，从声呐、通信设备到导弹和喷气发动机。根据国会研究局的数据，每架美国F-35多用途战斗机需要约427千克稀土，每架弗吉尼亚级核潜艇则需要近4.2吨。</p>
+    <p>近年来，美国一直在寻求重新成为世界主要的稀土供应国。在关闭了多年之后，美国唯一的稀土矿，位于加利福尼亚的芒特帕斯（Mountain Pass），于2017年被重新收购并恢复生产。但是，其开采出的原材料目前仍被送到中国进行加工。美国政府还实行了一系列政策，包括于2018年5月将稀土添加到对美国经济和国家安全至关重要的矿物清单中。2019年7月，特朗普总统宣布稀土金属和合金“对国防至关重要”，为国防部采取行动确保国内稀土生产能力提供了资源。</p>
+    <p>其他经济体也正试图减少中国稀土的进口。欧盟资助了一个将永磁铁废料回收为新合金和新材料的项目，旨在减少对中国的依赖，并实现其气候变化管理目标。韩国试图减少从中国的进口，增加从日本的进口，并通过技术创新减少稀土消费，来实现稀土供应链的多样化。</p>
+    <p>在这些主要经济体中，只有日本在减少对中国的依赖方面取得了一些成效。从2008年到2018年，日本从中国进口的稀土份额从91.3％下降到58％。相比之下，2018年，美国仍从中国进口80.5％的稀土。欧盟和韩国已经成功实现了某些化合物（例如铈）的进口多样化，但它们仍然几乎完全从中国进口稀土金属和合金。例如，欧盟在2018年进口了7105.9吨的铈化合物，其中只有不到四分之一来自中国；但是，几乎所有（98.5％）的稀土金属和合金都来自中国。</p>
+    <p>对中国稀土金属和合金进口的依赖（2018）</p>
+    <table>
+      <thead>
+        <tr>
+          <th>经济体</th>
+          <th>中国进口量（吨）</th>
+          <th>总进口量</th>
+          <th>中国进口百分比</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>欧盟</td>
+          <td>869.2</td>
+          <td>882.2</td>
+          <td>98.5</td>
+        </tr>
+        <tr>
+          <td>美国</td>
+          <td>417.6</td>
+          <td>438.6</td>
+          <td>95.2</td>
+        </tr>
+        <tr>
+          <td>韩国</td>
+          <td>86.1</td>
+          <td>94.6</td>
+          <td>90.9</td>
+        </tr>
+        <tr>
+          <td>日本</td>
+          <td>4,233.4</td>
+          <td>8,729.2</td>
+          <td>48.5</td>
+        </tr>
+      </tbody>
+    </table>
+    <h3 id="section-5">日益激烈的全球竞争</h3>
+    <p>尽管中国在全球稀土行业中占有主导地位，但北京单方面破坏供应链的能力在未来几年可能会减弱。相关国家采取了许多措施，以求在中国境外建立新的稀土供应商。不断变化的市场也正推动这个方向。</p>
+    <p>有迹象表明，其他参与者已经开始逐渐削弱中国在稀土市场某些领域的主导地位。近年来，随着美国的芒特帕斯矿山和世界其他矿山产量的增加，中国境外的稀土原材料的开采量显著上升。中国在全球矿业生产中所占的份额从2010年97.7％的高位下降至2019年的62.9％——这是自1995年以来的最低点。同一时期，中国在全球稀土储量中的份额也从50％下降到了36.7％。</p>
+    <p><img src="https://imgur.com/ZEADMnl.jpg" alt="" /></p>
+    <p>来源：https://chinapower.csis.org/china-rare-earths/#global-rare-earth-reserves</p>
+    <p>中国仍然是主要的稀土氧化物、金属和永磁体的供应国，但其地位可能会在未来几年内下降。在美国，MP Materials公司正于芒特帕斯引入设施，使其能够加工所开采的原矿，而不需将其运往中国加工。该公司计划在2021年实现这一目标，并在未来几年内实现提炼和分离稀土金属的能力。</p>
+    <p>国际努力也在进行中。 2020年4月，美国国防部为澳大利亚Lynas 公司与美国的蓝线公司（Blue Line Corporation）之间的合资企业提供了绿色启动资金，以在得克萨斯州建设稀土加工厂。建成后，Lynas将从其位于马来西亚的工厂向美国运送稀土材料，进行最终加工，而不再运往中国加工。日本政府正计划通过JOGMEC投资美国和澳大利亚的稀土生产加工行业，可能包括在德州的新设备。东京宣布，其目标是于2025年将日本对中国稀土的依赖程度进一步降低至50％以下。</p>
+    <p>由于稀土需求的不断增长，这些合资企业很可能比以前在中国境外建立稀土供应的尝试更成功。可再生能源和电动汽车行业需要使用大量的稀土永磁铁，而这些行业的快速发展推动了市场需求。从2007年到2017年，中国的可再生能源和核能产量增长了两倍多，约占同时期全球产量增长的51％。中国的电动汽车市场增长更快。2014年至2019年，中国的电动汽车数量从约9万辆激增至近340万辆。</p>
+    <p>随着中国国内稀土消费量的增长，中国将越来越依赖于进口来满足对稀土的需求。2018年，中国已经成为世界上最大的稀土进口国，以此趋势在本世纪中叶可能成为净进口国。在这种情况下，北京对全球稀土产业的影响力将大大降低，新的行业参与者可能会重获竞争力。</p>
+  </div>
+  <nav class="wp-block-navigation">
+    <ul class="wp-block-navigation__container">
+      <li class="wp-block-navigation-link"><a class="wp-block-navigation-link__content" href="https://2049post.wordpress.com/v1index/"><span class="wp-block-navigation-link__label">返回创刊号目录</span></a></li>
+    </ul>
+  </nav>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#火光 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2020-12-31/%E7%AB%AF%E7%82%B9%E6%98%9F%E6%A1%88%E6%B6%88%E6%81%AF%E6%B1%87%E6%80%BB/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2020-07-24/%E5%85%AC%E6%B0%91%E5%AE%9E%E9%AA%8C%E5%AE%A4-%E5%BE%AE%E4%BF%A1%E7%9B%91%E6%8E%A7%E8%AF%A0%E9%87%8A/">最早</a>--</span>
+    
+      <li>
+        <time>2020-07-26</time>
+        <a href="https://nodebe4.github.io/opinion/2020-07-26/%E5%9F%83%E5%88%A9%E4%BA%9A%E6%96%AF-%E5%8D%A1%E5%86%85%E8%92%82-%E7%BE%A4%E4%BC%97%E4%B8%8E%E6%9D%83%E5%8A%9B/">
+          埃利亚斯·卡内蒂 – 群众与权力
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-07-26</time>
+        <a href="https://nodebe4.github.io/opinion/2020-07-26/%E8%AE%B8%E7%AB%A0%E6%B6%A6-%E6%88%8A%E6%88%8C%E5%85%AD%E7%AB%A0/">
+          许章润 – 戊戌六章
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-07-26</time>
+        <a href="https://nodebe4.github.io/opinion/2020-07-26/Twitter%E4%B8%AD%E6%96%87%E6%B0%B4%E5%86%9B-%E5%9C%A8%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84%E4%B8%96%E7%95%8C%E9%87%8C%E6%89%93%E4%B8%80%E5%9C%BA%E5%AE%A3%E4%BC%A0%E6%88%98/">
+          Twitter中文水军：在不存在的世界里打一场宣传战
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-07-25</time>
+        <a href="https://nodebe4.github.io/opinion/2020-07-25/%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3-%E5%85%B3%E4%BA%8E-Tor%E7%9A%84%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94/">
+          编程随想：关于 Tor的常见问题解答
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2020-07-26/Twitter%E4%B8%AD%E6%96%87%E6%B0%B4%E5%86%9B-%E5%9C%A8%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84%E4%B8%96%E7%95%8C%E9%87%8C%E6%89%93%E4%B8%80%E5%9C%BA%E5%AE%A3%E4%BC%A0%E6%88%98/">
+            前一篇：Twitter中文水军：在不存在的世界里打一场宣传战
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2020-07-26/%E8%AE%B8%E7%AB%A0%E6%B6%A6-%E6%88%8A%E6%88%8C%E5%85%AD%E7%AB%A0/">
+            後一篇：许章润 – 戊戌六章
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2020-07-26/Twitter%E4%B8%AD%E6%96%87%E6%B0%B4%E5%86%9B-%E5%9C%A8%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84%E4%B8%96%E7%95%8C%E9%87%8C%E6%89%93%E4%B8%80%E5%9C%BA%E5%AE%A3%E4%BC%A0%E6%88%98/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2020-07-26/%E8%AE%B8%E7%AB%A0%E6%B6%A6-%E6%88%8A%E6%88%8C%E5%85%AD%E7%AB%A0/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2020-07-26/%E8%AE%B8%E7%AB%A0%E6%B6%A6-%E6%88%8A%E6%88%8C%E5%85%AD%E7%AB%A0/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2020-07-26/Twitter%E4%B8%AD%E6%96%87%E6%B0%B4%E5%86%9B-%E5%9C%A8%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84%E4%B8%96%E7%95%8C%E9%87%8C%E6%89%93%E4%B8%80%E5%9C%BA%E5%AE%A3%E4%BC%A0%E6%88%98/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2020-07-26/Twitter%E4%B8%AD%E6%96%87%E6%B0%B4%E5%86%9B-%E5%9C%A8%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84%E4%B8%96%E7%95%8C%E9%87%8C%E6%89%93%E4%B8%80%E5%9C%BA%E5%AE%A3%E4%BC%A0%E6%88%98/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2020-07-26/%E8%AE%B8%E7%AB%A0%E6%B6%A6-%E6%88%8A%E6%88%8C%E5%85%AD%E7%AB%A0/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<火光>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2020-07-26/%E8%AE%B8%E7%AB%A0%E6%B6%A6-%E6%88%8A%E6%88%8C%E5%85%AD%E7%AB%A0/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<火光>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2020-07-26/Twitter%E4%B8%AD%E6%96%87%E6%B0%B4%E5%86%9B-%E5%9C%A8%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84%E4%B8%96%E7%95%8C%E9%87%8C%E6%89%93%E4%B8%80%E5%9C%BA%E5%AE%A3%E4%BC%A0%E6%88%98/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

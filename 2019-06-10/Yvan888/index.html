@@ -1,0 +1,2986 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Yvan888在2019-06-10~2019-06-16的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Yvan888在2019-06-10~2019-06-16的言论" />
+    <meta property="twitter:title" content="Yvan888在2019-06-10~2019-06-16的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2Fgifs%2Fcomments%2Fbynbfu%2Fprotests_in_hong_kong%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/gifs/comments/bynbfu/protests_in_hong_kong/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/gifs/comments/bynbfu/protests_in_hong_kong/&text=Yvan888在2019-06-10~2019-06-16的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/gifs/comments/bynbfu/protests_in_hong_kong/&title=Yvan888在2019-06-10~2019-06-16的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/gifs/comments/bynbfu/protests_in_hong_kong/&title=Yvan888在2019-06-10~2019-06-16的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Yvan888在2019-06-10~2019-06-16的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/gifs/comments/bynbfu/protests_in_hong_kong/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/gifs/comments/bynbfu/protests_in_hong_kong/&title=Yvan888在2019-06-10~2019-06-16的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Yvan888在2019-06-10~2019-06-16的言论&url=https://old.reddit.com/r/gifs/comments/bynbfu/protests_in_hong_kong/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Yvan888在2019-06-10~2019-06-16的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2019-06-10
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://www.reddit.com/user/Yvan888/" style="font-size:14px;">作者: Yvan888</a>
+        </span>
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/gifs/comments/bynbfu/protests_in_hong_kong/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#271-protests-in-hong-kong-submitted-on-2019-06-10-0226370800" id="markdown-toc-271-protests-in-hong-kong-submitted-on-2019-06-10-0226370800">271: Protests in Hong Kong, submitted on 2019-06-10 02:26:37+08:00.</a></li>
+  <li><a href="#272-黃秋生-張敬軒-帶頭唱-問誰未發聲-submitted-on-2019-06-10-1044190800" id="markdown-toc-272-黃秋生-張敬軒-帶頭唱-問誰未發聲-submitted-on-2019-06-10-1044190800">272: 黃秋生 張敬軒 帶頭唱 問誰未發聲, submitted on 2019-06-10 10:44:19+08:00.</a></li>
+  <li><a href="#273-shot-of-chinese-modern-life-in-chengdus-metro--submitted-on-2019-06-10-1244030800" id="markdown-toc-273-shot-of-chinese-modern-life-in-chengdus-metro--submitted-on-2019-06-10-1244030800">273: Shot of Chinese modern life in Chengdu’s metro 🚇, submitted on 2019-06-10 12:44:03+08:00.</a></li>
+  <li><a href="#274-floating-road-through-the-mountains-submitted-on-2019-06-10-1413200800" id="markdown-toc-274-floating-road-through-the-mountains-submitted-on-2019-06-10-1413200800">274: Floating road through the mountains, submitted on 2019-06-10 14:13:20+08:00.</a></li>
+  <li><a href="#275-中国消防挂的妹子被抓了-submitted-on-2019-06-10-2152060800" id="markdown-toc-275-中国消防挂的妹子被抓了-submitted-on-2019-06-10-2152060800">275: 中国消防挂的妹子被抓了, submitted on 2019-06-10 21:52:06+08:00.</a></li>
+  <li><a href="#276-vietnam-alleges-china-is-faking-made-in-vietnam-to-skirt-us-tariffs-submitted-on-2019-06-11-1317540800" id="markdown-toc-276-vietnam-alleges-china-is-faking-made-in-vietnam-to-skirt-us-tariffs-submitted-on-2019-06-11-1317540800">276: Vietnam alleges China is faking ‘Made in Vietnam’ to skirt US tariffs, submitted on 2019-06-11 13:17:54+08:00.</a></li>
+  <li><a href="#277-which-geopolitical-events-of-the-2010s-decade-will-be-the-most-notable-in-future-history-books-submitted-on-2019-06-11-1940090800" id="markdown-toc-277-which-geopolitical-events-of-the-2010s-decade-will-be-the-most-notable-in-future-history-books-submitted-on-2019-06-11-1940090800">277: Which geopolitical events of the 2010s decade will be the most notable in future history-books?, submitted on 2019-06-11 19:40:09+08:00.</a></li>
+  <li><a href="#278-is-it-hong-kong--submitted-on-2019-06-11-2036150800" id="markdown-toc-278-is-it-hong-kong--submitted-on-2019-06-11-2036150800">278: Is it Hong Kong ?, submitted on 2019-06-11 20:36:15+08:00.</a></li>
+  <li><a href="#279-是我小看轮子的宣传深度了-submitted-on-2019-06-11-2115120800" id="markdown-toc-279-是我小看轮子的宣传深度了-submitted-on-2019-06-11-2115120800">279: 是我小看轮子的宣传深度了, submitted on 2019-06-11 21:15:12+08:00.</a></li>
+  <li><a href="#280-remember---youre-only-so-safe-in-china-a-very-close-call-submitted-on-2019-06-11-2125080800" id="markdown-toc-280-remember---youre-only-so-safe-in-china-a-very-close-call-submitted-on-2019-06-11-2125080800">280: Remember - You’re Only So Safe In China. A VERY CLOSE CALL!, submitted on 2019-06-11 21:25:08+08:00.</a></li>
+  <li><a href="#281-robomaster-s1-submitted-on-2019-06-11-2338310800" id="markdown-toc-281-robomaster-s1-submitted-on-2019-06-11-2338310800">281: Robomaster S1, submitted on 2019-06-11 23:38:31+08:00.</a></li>
+  <li><a href="#282-christianity-as-default-is-gone-the-rise-of-a-non-christian-europe-submitted-on-2019-06-12-0013160800" id="markdown-toc-282-christianity-as-default-is-gone-the-rise-of-a-non-christian-europe-submitted-on-2019-06-12-0013160800">282: ‘Christianity as default is gone’: the rise of a non-Christian Europe, submitted on 2019-06-12 00:13:16+08:00.</a></li>
+  <li><a href="#283-overseas-chinese-growing-more-and-more-conflicted-about-my-political-views-submitted-on-2019-06-12-0424540800" id="markdown-toc-283-overseas-chinese-growing-more-and-more-conflicted-about-my-political-views-submitted-on-2019-06-12-0424540800">283: Overseas Chinese, growing more and more conflicted about my political views…, submitted on 2019-06-12 04:24:54+08:00.</a></li>
+  <li><a href="#284-tina-gets-tired-of-so-lonely-so-decides-to-go-rocky-submitted-on-2019-06-12-0955360800" id="markdown-toc-284-tina-gets-tired-of-so-lonely-so-decides-to-go-rocky-submitted-on-2019-06-12-0955360800">284: Tina gets tired of so lonely so decides to go Rocky., submitted on 2019-06-12 09:55:36+08:00.</a></li>
+  <li><a href="#285-逃犯条例修订香港市民立法会现场示威直播-submitted-on-2019-06-12-1138010800" id="markdown-toc-285-逃犯条例修订香港市民立法会现场示威直播-submitted-on-2019-06-12-1138010800">285: 逃犯条例修订：香港市民立法会现场示威直播, submitted on 2019-06-12 11:38:01+08:00.</a></li>
+  <li><a href="#286-特朗普撕毁协议如碎纸机也没人天天喊契约精神世界也无可奈何我看中国政府直接取消一国两制成立香港市委得了-submitted-on-2019-06-13-0737330800" id="markdown-toc-286-特朗普撕毁协议如碎纸机也没人天天喊契约精神世界也无可奈何我看中国政府直接取消一国两制成立香港市委得了-submitted-on-2019-06-13-0737330800">286: 特朗普撕毁协议如碎纸机，也没人天天喊契约精神，世界也无可奈何。我看中国政府直接取消一国两制，成立香港市委得了。, submitted on 2019-06-13 07:37:33+08:00.</a></li>
+  <li><a href="#287-刘鹤称不久的将来中国将进一步推出有力度的改革开放新举措更新版-submitted-on-2019-06-13-1417210800" id="markdown-toc-287-刘鹤称不久的将来中国将进一步推出有力度的改革开放新举措更新版-submitted-on-2019-06-13-1417210800">287: 刘鹤称不久的将来中国将进一步推出有力度的改革开放新举措（更新版）, submitted on 2019-06-13 14:17:21+08:00.</a></li>
+  <li><a href="#288-and-this-is-real-submitted-on-2019-06-13-2006250800" id="markdown-toc-288-and-this-is-real-submitted-on-2019-06-13-2006250800">288: and this is real., submitted on 2019-06-13 20:06:25+08:00.</a></li>
+  <li><a href="#289-alibaba-reportedly-files-for-a-hong-kong-mega-listing-submitted-on-2019-06-13-2109280800" id="markdown-toc-289-alibaba-reportedly-files-for-a-hong-kong-mega-listing-submitted-on-2019-06-13-2109280800">289: Alibaba Reportedly Files for a Hong Kong Mega-Listing, submitted on 2019-06-13 21:09:28+08:00.</a></li>
+  <li><a href="#290-想了想干脆单发一帖吧为香港暴徒洗洗地-submitted-on-2019-06-14-0038050800" id="markdown-toc-290-想了想干脆单发一帖吧为香港暴徒洗洗地-submitted-on-2019-06-14-0038050800">290: 想了想，干脆单发一帖吧。为香港暴徒洗洗地, submitted on 2019-06-14 00:38:05+08:00.</a></li>
+  <li><a href="#291-china-calls-sinking-of-philippine-boat-an-ordinary-maritime-accident-submitted-on-2019-06-14-0124550800" id="markdown-toc-291-china-calls-sinking-of-philippine-boat-an-ordinary-maritime-accident-submitted-on-2019-06-14-0124550800">291: China calls sinking of Philippine boat an ‘ordinary maritime accident’, submitted on 2019-06-14 01:24:55+08:00.</a></li>
+  <li><a href="#292-this-white-house-chef-is-an-absolute-unit-submitted-on-2019-06-14-0442220800" id="markdown-toc-292-this-white-house-chef-is-an-absolute-unit-submitted-on-2019-06-14-0442220800">292: This White House chef is an absolute unit, submitted on 2019-06-14 04:42:22+08:00.</a></li>
+  <li><a href="#293-discussion-hows-the-movement-in-hk-going-to-end-submitted-on-2019-06-14-0659150800" id="markdown-toc-293-discussion-hows-the-movement-in-hk-going-to-end-submitted-on-2019-06-14-0659150800">293: [Discussion] How’s the movement in HK going to end?, submitted on 2019-06-14 06:59:15+08:00.</a></li>
+  <li><a href="#294-why-chinas-rulers-wont-admit-they-could-be-wrong-lacking-in-these-responsibilities-honesty-accountability-and-moral-stature-submitted-on-2019-06-14-0735510800" id="markdown-toc-294-why-chinas-rulers-wont-admit-they-could-be-wrong-lacking-in-these-responsibilities-honesty-accountability-and-moral-stature-submitted-on-2019-06-14-0735510800">294: Why China’s rulers won’t admit they could be wrong: lacking in these responsibilities: honesty, accountability and moral stature, submitted on 2019-06-14 07:35:51+08:00.</a></li>
+  <li><a href="#295-india-is-taking-over-china--submitted-on-2019-06-14-0956130800" id="markdown-toc-295-india-is-taking-over-china--submitted-on-2019-06-14-0956130800">295: India is taking over China 😇, submitted on 2019-06-14 09:56:13+08:00.</a></li>
+  <li><a href="#296-so-it-turns-out-that-hitchcock-just-copied-the-chinese-typical-appropriation-of-harmonious-history-submitted-on-2019-06-14-1816190800" id="markdown-toc-296-so-it-turns-out-that-hitchcock-just-copied-the-chinese-typical-appropriation-of-harmonious-history-submitted-on-2019-06-14-1816190800">296: So it turns out that Hitchcock just copied the Chinese. Typical appropriation of harmonious history., submitted on 2019-06-14 18:16:19+08:00.</a></li>
+  <li><a href="#297-pla-general-hong-kong-is-worst-worse-than-taiwan-中共國防教授少將徐焰香港最壞比臺灣還壞-submitted-on-2019-06-14-1928560800" id="markdown-toc-297-pla-general-hong-kong-is-worst-worse-than-taiwan-中共國防教授少將徐焰香港最壞比臺灣還壞-submitted-on-2019-06-14-1928560800">297: PLA General: Hong Kong Is Worst, Worse than Taiwan 中共國防教授少將徐焰：香港最壞，比臺灣還壞, submitted on 2019-06-14 19:28:56+08:00.</a></li>
+  <li><a href="#298-kid-falls-from-window-submitted-on-2019-06-14-1955520800" id="markdown-toc-298-kid-falls-from-window-submitted-on-2019-06-14-1955520800">298: kid falls from window, submitted on 2019-06-14 19:55:52+08:00.</a></li>
+  <li><a href="#299-我感觉我们正在走向文化荒漠-submitted-on-2019-06-14-2038040800" id="markdown-toc-299-我感觉我们正在走向文化荒漠-submitted-on-2019-06-14-2038040800">299: 我感觉我们正在走向文化荒漠, submitted on 2019-06-14 20:38:04+08:00.</a></li>
+  <li><a href="#300-exclusive-hong-kong-tycoons-start-moving-assets-offshore-as-fears-rise-over-new-extradition-law-submitted-on-2019-06-14-2045460800" id="markdown-toc-300-exclusive-hong-kong-tycoons-start-moving-assets-offshore-as-fears-rise-over-new-extradition-law-submitted-on-2019-06-14-2045460800">300: Exclusive: Hong Kong tycoons start moving assets offshore as fears rise over new extradition law, submitted on 2019-06-14 20:45:46+08:00.</a></li>
+  <li><a href="#301-chinese-furious-over-misreading-chinese-pig-submitted-on-2019-06-14-2207120800" id="markdown-toc-301-chinese-furious-over-misreading-chinese-pig-submitted-on-2019-06-14-2207120800">301: Chinese furious over misreading ‘Chinese pig’, submitted on 2019-06-14 22:07:12+08:00.</a></li>
+  <li><a href="#302-听完气得快晕过去了-submitted-on-2019-06-15-0124130800" id="markdown-toc-302-听完气得快晕过去了-submitted-on-2019-06-15-0124130800">302: 听完气得快晕过去了, submitted on 2019-06-15 01:24:13+08:00.</a></li>
+  <li><a href="#303-hong-kong-government-reportedly-set-to-suspend-china-extradition-bill-after-mass-protests-submitted-on-2019-06-15-1331130800" id="markdown-toc-303-hong-kong-government-reportedly-set-to-suspend-china-extradition-bill-after-mass-protests-submitted-on-2019-06-15-1331130800">303: Hong Kong government reportedly set to suspend China extradition bill after mass protests, submitted on 2019-06-15 13:31:13+08:00.</a></li>
+  <li><a href="#304-hong-kong-youth-fear-china-will-treat-them-like-uighur-muslims-submitted-on-2019-06-15-1517100800" id="markdown-toc-304-hong-kong-youth-fear-china-will-treat-them-like-uighur-muslims-submitted-on-2019-06-15-1517100800">304: Hong Kong Youth Fear China Will Treat Them Like Uighur Muslims, submitted on 2019-06-15 15:17:10+08:00.</a></li>
+  <li><a href="#305-chinas-a-big-bully-submitted-on-2019-06-15-1602240800" id="markdown-toc-305-chinas-a-big-bully-submitted-on-2019-06-15-1602240800">305: China’s a Big Bully., submitted on 2019-06-15 16:02:24+08:00.</a></li>
+  <li><a href="#306-i-dont-think-having-a-chinese-name-is-necessary-submitted-on-2019-06-15-1651570800" id="markdown-toc-306-i-dont-think-having-a-chinese-name-is-necessary-submitted-on-2019-06-15-1651570800">306: I don’t think having a “Chinese name” is necessary, submitted on 2019-06-15 16:51:57+08:00.</a></li>
+  <li><a href="#307-看看大家都是什么立场出身如何对未来有什么期望-submitted-on-2019-06-16-0840200800" id="markdown-toc-307-看看大家都是什么立场出身如何对未来有什么期望-submitted-on-2019-06-16-0840200800">307: 看看大家都是什么立场出身如何，对未来有什么期望, submitted on 2019-06-16 08:40:20+08:00.</a></li>
+  <li><a href="#308-香港人厉害-submitted-on-2019-06-16-2033200800" id="markdown-toc-308-香港人厉害-submitted-on-2019-06-16-2033200800">308: 香港人厉害！, submitted on 2019-06-16 20:33:20+08:00.</a></li>
+</ul>
+
+<h3 id="271-protests-in-hong-kong-submitted-on-2019-06-10-0226370800">271: <a href="https://old.reddit.com/r/gifs/comments/bynbfu/protests_in_hong_kong/">Protests in Hong Kong</a>, submitted on 2019-06-10 02:26:37+08:00.</h3>
+
+<p>—– <strong>271.1</strong> —–2019-06-11 00:57:58+08:00:</p>
+
+<p>Israel is in Asia tho…</p>
+
+<h3 id="272-黃秋生-張敬軒-帶頭唱-問誰未發聲-submitted-on-2019-06-10-1044190800">272: <a href="https://old.reddit.com/r/saraba1st/comments/bysipm/黃秋生_張敬軒_帶頭唱_問誰未發聲/">黃秋生 張敬軒 帶頭唱 問誰未發聲</a>, submitted on 2019-06-10 10:44:19+08:00.</h3>
+
+<p>—– <strong>272.1</strong> —–2019-06-10 13:17:13+08:00:</p>
+
+<p>张不是支持占中而已吗？什么时候港独？真心求问</p>
+
+<p>—– <strong>272.2</strong> —–2019-06-10 13:17:34+08:00:</p>
+
+<p>黄秋生不是毛左吗？</p>
+
+<h3 id="273-shot-of-chinese-modern-life-in-chengdus-metro--submitted-on-2019-06-10-1244030800">273: <a href="https://old.reddit.com/r/China/comments/bytla7/shot_of_chinese_modern_life_in_chengdus_metro/">Shot of Chinese modern life in Chengdu’s metro 🚇</a>, submitted on 2019-06-10 12:44:03+08:00.</h3>
+
+<p>—– <strong>273.1</strong> —–2019-06-10 23:11:24+08:00:</p>
+
+<p>In China, it’s considered empty…</p>
+
+<p>The metros in the T1 cities 7-8a, 5-7p are fucking crazy</p>
+
+<h3 id="274-floating-road-through-the-mountains-submitted-on-2019-06-10-1413200800">274: <a href="https://old.reddit.com/r/interestingasfuck/comments/byubjw/floating_road_through_the_mountains/">Floating road through the mountains</a>, submitted on 2019-06-10 14:13:20+08:00.</h3>
+
+<p>—– <strong>274.1</strong> —–2019-06-11 03:17:55+08:00:</p>
+
+<p>what about <del>propaganda</del> documentary?</p>
+
+<h3 id="275-中国消防挂的妹子被抓了-submitted-on-2019-06-10-2152060800">275: <a href="https://old.reddit.com/r/saraba1st/comments/byy3zd/中国消防挂的妹子被抓了/">中国消防挂的妹子被抓了</a>, submitted on 2019-06-10 21:52:06+08:00.</h3>
+
+<p>—– <strong>275.1</strong> —–2019-06-11 01:33:33+08:00:</p>
+
+<p>就像以前知乎都是自由派，现在完全转了个向，但实际是自由派都不能或者不想出声</p>
+
+<h3 id="276-vietnam-alleges-china-is-faking-made-in-vietnam-to-skirt-us-tariffs-submitted-on-2019-06-11-1317540800">276: <a href="https://old.reddit.com/r/worldnews/comments/bz8eq4/vietnam_alleges_china_is_faking_made_in_vietnam/">Vietnam alleges China is faking ‘Made in Vietnam’ to skirt US tariffs</a>, submitted on 2019-06-11 13:17:54+08:00.</h3>
+
+<p>—– <strong>276.1</strong> —–2019-06-12 03:33:12+08:00:</p>
+
+<p>Similar: Made in China, Assembled in California =&gt; 100% USA</p>
+
+<p>—– <strong>276.2</strong> —–2019-06-12 03:35:20+08:00:</p>
+
+<p>because our systems are far behind the process of globalization</p>
+
+<h3 id="277-which-geopolitical-events-of-the-2010s-decade-will-be-the-most-notable-in-future-history-books-submitted-on-2019-06-11-1940090800">277: <a href="https://old.reddit.com/r/geopolitics/comments/bzbdp6/which_geopolitical_events_of_the_2010s_decade/">Which geopolitical events of the 2010s decade will be the most notable in future history-books?</a>, submitted on 2019-06-11 19:40:09+08:00.</h3>
+
+<p>—– <strong>277.1</strong> —–2019-06-12 06:22:54+08:00:</p>
+
+<p>What do you think of the space race? I think it’s more like a symbol of a new power rising but it has limited influence in the real world</p>
+
+<p>Neither China nor India caught up what America did in the last century. Not to mention that they can use it as a power to affect the real world</p>
+
+<h3 id="278-is-it-hong-kong--submitted-on-2019-06-11-2036150800">278: <a href="https://old.reddit.com/r/China/comments/bzbxdg/is_it_hong_kong/">Is it Hong Kong ?</a>, submitted on 2019-06-11 20:36:15+08:00.</h3>
+
+<p>—– <strong>278.1</strong> —–2019-06-12 03:04:32+08:00:</p>
+
+<p>I guess you forgot to add “/s” lol</p>
+
+<p>—– <strong>278.2</strong> —–2019-06-12 03:09:19+08:00:</p>
+
+<p>I don’t know why you got so many downvotes</p>
+
+<p>It’s not a matter of pro-ccp or anti-ccp in this post</p>
+
+<p>I think HK police is quite professional and peaceful even comparing to their western counterparts</p>
+
+<h3 id="279-是我小看轮子的宣传深度了-submitted-on-2019-06-11-2115120800">279: <a href="https://old.reddit.com/r/China_irl/comments/bzccbo/是我小看轮子的宣传深度了/">是我小看轮子的宣传深度了</a>, submitted on 2019-06-11 21:15:12+08:00.</h3>
+
+<p>—– <strong>279.1</strong> —–2019-06-12 10:44:27+08:00:</p>
+
+<p>好像是英文吧 单纯根据报道的话 那个老师并不知道神韵与FLG的关系</p>
+
+<h3 id="280-remember---youre-only-so-safe-in-china-a-very-close-call-submitted-on-2019-06-11-2125080800">280: <a href="https://old.reddit.com/r/China/comments/bzcg4d/remember_youre_only_so_safe_in_china_a_very_close/">Remember - You’re Only So Safe In China. A VERY CLOSE CALL!</a>, submitted on 2019-06-11 21:25:08+08:00.</h3>
+
+<p>—– <strong>280.1</strong> —–2019-06-12 06:11:28+08:00:</p>
+
+<p><a href="https://v.qq.com/x/page/q0861vovqs1.html">local case</a></p>
+
+<p>—– <strong>280.2</strong> —–2019-06-12 06:13:07+08:00:</p>
+
+<p>Is it a kinda 执法记录仪？</p>
+
+<p>I don’t think it’s just a normal check, it smells like someone reported you or your gf, and drug is a taboo in China. But anyway, the police were supposed to have documentation.</p>
+
+<p><a href="https://v.qq.com/x/page/q0861vovqs1.html">local case</a></p>
+
+<h3 id="281-robomaster-s1-submitted-on-2019-06-11-2338310800">281: <a href="https://old.reddit.com/r/dji/comments/bze0ne/robomaster_s1/">Robomaster S1</a>, submitted on 2019-06-11 23:38:31+08:00.</h3>
+
+<p>—– <strong>281.1</strong> —–2019-06-12 11:42:08+08:00:</p>
+
+<p>Check the videos about previous competition. It’s the COOLEST thing I have seen!</p>
+
+<p>https://www.youtube.com/watch?v=ECr4zgK6cPA</p>
+
+<p>https://www.youtube.com/watch?v=qrhvZhPaxQ4&amp;t=7s</p>
+
+<h3 id="282-christianity-as-default-is-gone-the-rise-of-a-non-christian-europe-submitted-on-2019-06-12-0013160800">282: <a href="https://old.reddit.com/r/europe/comments/bzefy1/christianity_as_default_is_gone_the_rise_of_a/">‘Christianity as default is gone’: the rise of a non-Christian Europe</a>, submitted on 2019-06-12 00:13:16+08:00.</h3>
+
+<p>—– <strong>282.1</strong> —–2019-06-12 05:41:17+08:00:</p>
+
+<p>Is no-religion equivalent to atheism? Or include Animism and Agnosticism？</p>
+
+<p>Why Europe marched faster than the US (de-religion)?</p>
+
+<h3 id="283-overseas-chinese-growing-more-and-more-conflicted-about-my-political-views-submitted-on-2019-06-12-0424540800">283: <a href="https://old.reddit.com/r/China/comments/bzhoj1/overseas_chinese_growing_more_and_more_conflicted/">Overseas Chinese, growing more and more conflicted about my political views…</a>, submitted on 2019-06-12 04:24:54+08:00.</h3>
+
+<p>—– <strong>283.1</strong> —–2019-06-12 12:13:37+08:00:</p>
+
+<p>As a Chinese studying overseas, I have a similar and deep feeling like yours.</p>
+
+<blockquote>
+  <p>I was talking to a friend a while ago about the surreal state the country is in, and how eerie things have become. Surely the country cannot turn into Germany or the USSR in the 1930s? Am I just fooling myself by saying that things will get worse before they get better, things cannot go on like this, or that what we are seeing cannot be more than glitches/detours on civilization’s gradual path towards equality and justice since the Renaissance?</p>
+</blockquote>
+
+<p>tbh nobody can answer this question, but I guess, in the short term, the possible stepping back of XJP would be a good start. I believe China will turn back to collective leadership. But what will happen next in this century is IMPOSSIBLE to tell. I don’t think China will embrace liberalism in the foreseeable future due to strong nationalism and CCP’s leadership, but I don’t think there would be a new Cold War (that one exactly likes the US-USSR) or even WWIII in the future, neither.</p>
+
+<blockquote>
+  <p>But my inner liberal idealist aside, I also realize that China has always been a chauvinist civilization state, with authoritarianism the rule rather than the exception. Perhaps things are simply returning to the way they always have been, with the country gradually getting over the inconvenient interlude with the West. Citizens’ rights have always been disregarded by a State which sought greatness, and minorities either joined the Han in that vision or withered away. It has been this way since the beginning, and it will probably be this way in our lifetimes.</p>
+</blockquote>
+
+<p>Although I exactly know what you are talking about, it’s unfair to use modern ideology to request China thousands of years ago, when almost all the states at that time were chauvinism. Also, I think some dynasties such as Tang and Song dynasty were kinda liberal compared to their contemporary counterparts. Therefore, I think China has the potential to turn to liberalism. Last, liberalism is a product from the west, especially the aftermath of WWII. Other civilizations didn’t have this deep social movement so their retarded process of liberalism is understandable and it’s not the only-China thing, though China is the most notable one thanks to the rising power and CCP lol</p>
+
+<blockquote>
+  <p>In a sense, there is really no way anyone can win. If the CCP wins, then the world is engulfed in a new cold war with half the world slowly descending into a new dark ages; If the CCP fails, then political stability in China falters and everything everyone worked for during the past 40 years would have been for nought…</p>
+</blockquote>
+
+<p>I have the exact same anxiety with you. The history teaches us, both blockade (WWII Japan) and appeasement (WWII Germany) fails. So the only option left for the west is walking in the middle. And on China, I can just hope there would be CCP liberal guys grab the leadership in the future. A top-down reformation is the best choice. China can learn something from Taiwan’s Chiang Ching-kuo (turn to western style tho this is impossible to current China) or Singapore’s Lee Yuan Yew (a one-party liberal system which is more suitable to current China).</p>
+
+<p>Time will tell us. However, I’m not that disappointed. Actually, if you can look in a bigger picture of mankind development, you may know that this century is the best time for mankind with almost least wars. Although there must be more conflicts in the future due to the rising of not-that-liberal countries in which China is the biggest one but definitely not the only representative. These conflicts are must-happen things on the road of mankind development considering lots of countries in this world haven’t accepted liberalism but we may avoid war which is much better than the past.</p>
+
+<p>Edit: grammar mistakes</p>
+
+<p>—– <strong>283.2</strong> —–2019-06-12 12:19:45+08:00:</p>
+
+<p>Are you taking about LXB’s “中国需要再被殖民一百年”？If yes, then sorry I have to downvote you, China doesn’t need to and cannot accept everything from the west</p>
+
+<p>For example, collectivism is the unchanged tone of China’s culture.</p>
+
+<p>Although I personally prefer individualism, I think maintaining a diversity of this kind of thing is good for mankind</p>
+
+<p>—– <strong>283.3</strong> —–2019-06-12 12:21:59+08:00:</p>
+
+<blockquote>
+  <p>China’s present backslide to authoritarianism is largely a factor of its insecurity.</p>
+</blockquote>
+
+<p>That’s the point. But I don’t think lots of people in this sub have deep understanding of it…</p>
+
+<p>I think your whole statement is kinda true but to most people, truth hurts</p>
+
+<p>—– <strong>283.4</strong> —–2019-06-12 12:41:32+08:00:</p>
+
+<p>Collectivism is just an example, I was replying to LXB’s quote</p>
+
+<p>Also, I don’t know why people keep mentioning Taiwan. Although Taiwan has a deep connection to the mainland, Taiwan’s slight history inertia and simplicity of the interior (no matter their lands, interests groups, diversities, and so on) mean Taiwan is not the exact model of China.</p>
+
+<p>China can still learn something from Chiang Ching-kuo tho</p>
+
+<p>—– <strong>283.5</strong> —–2019-06-12 12:49:20+08:00:</p>
+
+<p>Emmm… I never think you are a westerner…</p>
+
+<p>So Lu Xun also mentioned that the Chinese language should be latinized, is that also true? Everyone has his historic limitations</p>
+
+<p>I think you should focus more on China’s Legalism</p>
+
+<p>Also, the LXB’s famous quote is quite stupid, but it didn’t mean I’m against the 08 chapter, mind you</p>
+
+<p>—– <strong>283.6</strong> —–2019-06-13 02:28:11+08:00:</p>
+
+<p>I said they can learn something from Singapore but it never means they can copy the model.</p>
+
+<p>—– <strong>283.7</strong> —–2019-06-13 13:21:32+08:00:</p>
+
+<p>Actually I don’t know I implied that liberalism is equivalent to one-party system above. I think liberalism is a wider concept, and I mentioned it because OP put chauvinism on the table.</p>
+
+<p>In China, a strong nationalism is (partially) an aftermath of western colony history and strong ego of ancient Chinese civilization. In China’s history, a strong central government means propensity and stable society and that can (partially) explain the Chinese people’s high acceptance of one party system. To some extent, it’s a product of China itself.</p>
+
+<p>I’m not against multi-party system and really appreciate its well performance in the first world. But it doesn’t work that well in the second/third world. What about India? The bloody dispute between Muslim and  Hinduism and so on?</p>
+
+<p>Most importantly, I think talking about something cannot happen in the foreseeable future is kinda non-sense (because we are talking about the possible reformation of China), though it’s still a meaningful discussion on academic. In real world, multi-party system won’t work that fast in China.</p>
+
+<p>—– <strong>283.8</strong> —–2019-06-14 06:32:15+08:00:</p>
+
+<p>Although Taiwan has a deep connection to the mainland, Taiwan’s slight history inertia and simplicity of the interior (no matter their lands, interests groups, diversities, and so on) mean Taiwan is not the exact model of China. On Hong Kong, as what you have said in Singapore’s part, HK and Singapore are too small. Also, HK is not an independent entity so actually it’s a worse case than Singapore, the example I gave.</p>
+
+<blockquote>
+  <p>I would just add I believe China has to shed some territories for any chance a multi-party democracy can work and it can only be accomplished by changing how we define China and its border and Chinese nationalism.</p>
+</blockquote>
+
+<p>I really appreciate you have a deep understanding of the obstacle of the multi-party system in China and this is why I said it could not happen in the foreseeable future. Seriously? Do you think it’s possible to persuade Chinese people to give up some territories for a multi-party system? If yes, then please forgive me to conclude that you have a superficial understanding of Chinese mindsets or too ideal. Don’t you know the Great Unification is a much greater consensus than CCP?</p>
+
+<p>I like liberalism and always promote liberalism in Chinese domestic social platform and get banned. However, I am also a realist. I think China is hard to turn to the multi-party system quickly unless China is too weak (which means the people cannot tolerate the current situation anymore) or too strong (which means both the people and government don’t worry about any foreign intervention) or luckily there is a CCP liberal reformer (which is nearly impossible under Xi’s regime).</p>
+
+<p>I always talk about <em>what can be</em> but the people in this sub always talk about <em>what should be</em> and here is how the divarication comes.</p>
+
+<p>FYI. <a href="https://www.reddit.com/r/China/comments/bzhoj1/overseas_chinese_growing_more_and_more_conflicted/eqtje3w?utm_source=share&amp;utm_medium=web2x">my answer in this post</a> and <a href="https://www.reddit.com/r/China/comments/bwnqyo/serious_discussion_my_unpopular_opinion_on/eql89vr?utm_source=share&amp;utm_medium=web2x">another related answer</a></p>
+
+<p>—– <strong>283.9</strong> —–2019-06-14 15:00:14+08:00:</p>
+
+<p>Frankly, let me talk about some anti-political-correctness things. China can be liberalism one day and I believe federalism like the US is a proper model for China because it combines the advantages of regional flexibility and strong central government. However, it must happen after Chinese Trail of Tears and Manifest Destiny, which is what China is doing now. Yes, inhuman, cruel, but probably and unfortunately necessary. I forecast this process will last for half century.</p>
+
+<p>I know what you are talking about. I have also met some guys think a crashed China, which they call it 诸夏, as the best model of Chinese civilization. I can even accept this concept, which is more aggressive than yours, but I just don’t think it can happen…</p>
+
+<p>Don’t say Tibet and Xinjiang, persuading mainlander to give up Taiwan, which is de facto independent now, is already an impossible mission.</p>
+
+<p>—– <strong>283.10</strong> —–2019-06-14 20:25:44+08:00:</p>
+
+<p>“Only become… during Qing”</p>
+
+<p>You know what? Only this is enough to make it impossible to persuade Chinese people to give up their territory, because Qing’s history is longer than the US’s or other new western countries’.</p>
+
+<p>I don’t mind China just keep proper China 中华本部 (i.e. Han’s 18 provinces) if Russia, the US and other big countries can become several parts simultaneously so that the power will be more balanced. Otherwise,  it sounds dangerous in geopolitics and against the realpolitik.</p>
+
+<p>The west who embraces liberalism can tolerate all the territorial independence? I don’t think so. <a href="https://en.wikipedia.org/wiki/Catalan_independence_movement?wprov=sfti1">Catalan independence movement</a>,  an independence movement with 90% local in favor of independence, ended with suppression and was denied by mainstream western governments. Constitution of Spain: 
+“Section 2. The Constitution is based on the indissoluble unity of the Spanish Nation, the common and indivisible homeland of all Spaniard”</p>
+
+<p>This is not whataboutitism. I tried to explain that there are still lots of obstacles in the west who embraces liberalism, then current China is much more impossible to be persuaded.</p>
+
+<p>If you think a person who is anti-independence is nationalist, then maybe I am. But I can understand the western mindsets deeper than average Chinese, I’m open minded enough to accept some aggressive theories such as 诸夏 (crash China to be like Europe), and I just said something for current HK’s protest on Chinese social media platforms and got banned by 7 days. If you cannot persuade me, then why you think you have the ability to persuade average Chinese and even extreme nationalist.</p>
+
+<p>Every object in the universe operates following natural law and there is nothing absolutely right or wrong. The stages of development are non-skippable, neither.</p>
+
+<p>Tao Te Ching said:</p>
+
+<p>天地不仁，以万物为刍狗；
+圣人不仁，以百姓为刍狗。</p>
+
+<p>—– <strong>283.11</strong> —–2019-06-23 02:05:04+08:00:</p>
+
+<p>I know, maybe my description was rough. I mean, SGP may be a good model for China’s reformation.</p>
+
+<p>It’s nearly impossible to convert to the western style overnight expect via revolution.</p>
+
+<h3 id="284-tina-gets-tired-of-so-lonely-so-decides-to-go-rocky-submitted-on-2019-06-12-0955360800">284: <a href="https://old.reddit.com/r/CCJ2/comments/bzl8r8/tina_gets_tired_of_so_lonely_so_decides_to_go/">Tina gets tired of so lonely so decides to go Rocky.</a>, submitted on 2019-06-12 09:55:36+08:00.</h3>
+
+<p>—– <strong>284.1</strong> —–2019-06-12 11:47:03+08:00:</p>
+
+<p>He scratched his head: Where am I now???</p>
+
+<h3 id="285-逃犯条例修订香港市民立法会现场示威直播-submitted-on-2019-06-12-1138010800">285: <a href="https://old.reddit.com/r/China_irl/comments/bzm83o/逃犯条例修订香港市民立法会现场示威直播/">逃犯条例修订：香港市民立法会现场示威直播</a>, submitted on 2019-06-12 11:38:01+08:00.</h3>
+
+<p>—– <strong>285.1</strong> —–2019-06-14 06:56:03+08:00:</p>
+
+<p>回收的话，可能禁运时TG早就垮了。。。</p>
+
+<p>—– <strong>285.2</strong> —–2019-06-14 13:02:13+08:00:</p>
+
+<p>你什么立场没关系，但tm别人一百万你不信，那就是不相信客观事实了</p>
+
+<h3 id="286-特朗普撕毁协议如碎纸机也没人天天喊契约精神世界也无可奈何我看中国政府直接取消一国两制成立香港市委得了-submitted-on-2019-06-13-0737330800">286: <a href="https://old.reddit.com/r/China_irl/comments/bzyhb0/特朗普撕毁协议如碎纸机也没人天天喊契约精神世界也无可奈何我看中国政府直接取消一国两制成立香港市委得了/">特朗普撕毁协议如碎纸机，也没人天天喊契约精神，世界也无可奈何。我看中国政府直接取消一国两制，成立香港市委得了。</a>, submitted on 2019-06-13 07:37:33+08:00.</h3>
+
+<p>—– <strong>286.1</strong> —–2019-06-14 13:05:43+08:00:</p>
+
+<p>讲道理，特朗普撕毁协议的时候，欧洲那边和美国自由派也是喊契约精神的，现在西方一大群人都不满意特朗普。</p>
+
+<p>我认为中国国内对西媒的一个误解就是“忘中国之心不死”，我承认西媒的确因为价值观和文化的关系对中国的一些看法很有偏差，但他们其实对本国、中国以及全世界的国家的报道都是这样的，往死里diss，因为他们觉得这样才有批判力。</p>
+
+<p>另外，美国怎么做跟我们没关。我们要做好我们自己。</p>
+
+<p>—– <strong>286.2</strong> —–2019-06-14 20:30:44+08:00:</p>
+
+<p>西媒往死里diss新疆西藏了吗？他们说一定要独立了吗？很多西媒反应的是人权情况，比如最近的新疆一样，部分我还是理解的。</p>
+
+<p>香港呢？本来港独就没几个，国内硬要把占中渲染得跟港独一样。</p>
+
+<p>—– <strong>286.3</strong> —–2019-06-15 00:21:17+08:00:</p>
+
+<p>所以呢？我的意思是，别人报道加泰隆尼亚的独立运动跟报道新疆西藏的独立运动没什么两样，有这个呼声了他们就会报道，而不管你是哪国人。</p>
+
+<p>我支持持续至今的对分裂势力的打击，但别人西方因为别人的社会进程比较早，现在对中国在新疆做的一些事情不满，用较高人权去要求看待，也是可以理解的。你我可以不认同，但没必要每次都翻译成“帝国主义亡我之心不死“的地步。就像西方不吃狗肉，那是因为他们的社会进程已经到那了，他们无法理解为什么要吃狗肉，你可以说他们矫情之类的，但不用误解为别人就是要打击中国，这样对沟通没好处。</p>
+
+<p>老香港人那么爱国，回归以前现在180度转变了，大陆应该负很大责任。前几天1/8的香港人去游行了，这边还在说境外势力，境外势力真是万能背锅侠，另外一个背锅侠是香港优越论。我先说下我的结论，香港大陆的最大分歧还是意识形态。香港人很看重自由和法治，比如说这次游行，他们认为立法程序是被操控了，审议过程不透明，对内地司法制度不信任，而作为民族主义叙事的大陆，常常把这些不配合姿态当作是反抗或者不爱国，大陆认为你们法治应该，但前提是听中央话或者任何事情以大局为重，而香港人往往把法治而非民族叙事视为第一优先等级，所以这次才香港律师会都出来游行，这是由三观不同而引发的误解。</p>
+
+<p>—– <strong>286.4</strong> —–2019-06-15 11:16:13+08:00:</p>
+
+<p>什么逻辑？所以别人做错的，我们就可以做错吗？西方主流媒体有要求公审CCP某人吗？所以你认为新疆不经司法程序随意押人是正确的吗？（我不知道你在这个sub有多久，或许当时新疆事件那一轮讨论你有参与，很多资料）</p>
+
+<p>不是说完全没有境外势力，而是1/8香港人去游行难道全是因为所谓的境外势力吗？这是回归以来的最大游行，有些人甚至连当年占中都没参与过，所以呢？什么问题？我们需不需要反思一下？而不是拿着个境外势力的帽子随便扣？把所有的“不和谐因素”都归结为境外势力？港毒势力是境外势力培殖我信，1/8人反对，而且还是发生在一个原本那么多爱过人士的土地上，我们难道不需要一点的反思？你的批判性思维真的需要训练，而不是diss别人的见识。</p>
+
+<p>—– <strong>286.5</strong> —–2019-06-15 14:09:35+08:00:</p>
+
+<p>仅回复你第一点，若抓的人真的都是极端穆斯林，那我觉得非常手段也不是无法理解，但实际做法是拿个打分表，出过国扣分，打扮封闭点扣分，分够了就抓进去。我有少民的朋友，别人爷爷遵纪守法一辈子老来被抓进去，杳无音讯，真的没有反效果吗？还不是维吾尔族哦</p>
+
+<p>—– <strong>286.6</strong> —–2019-06-16 03:01:57+08:00:</p>
+
+<p>我有少民的朋友算不算？新疆的非维吾尔族的。还是你认为那么多人是一个个正经司法进去的？错，是内部拿打分表扣分拉进去的。</p>
+
+<p>24万？你不信其他媒体也可以。那你上网搜一下游行的延时摄影，看看那么大块人会不会是仅仅24万？</p>
+
+<p>我什么时候说过<strong>完全</strong>没有境外势力？我说的是，不要把“境外势力”作为唯一的懒政借口，作为消灭任何“不和谐因素”的借口，作为跳过理智思考而直接被民族情绪牵着走的工具。再者，别人不通过又怎么了？不通过一个政策就不爱国了？我服</p>
+
+<p>—– <strong>286.7</strong> —–2019-06-16 03:02:39+08:00:</p>
+
+<blockquote>
+  <p>新疆恐爆事件确实被抑制了</p>
+</blockquote>
+
+<p>这个也是事实，两者并不矛盾</p>
+
+<p>—– <strong>286.8</strong> —–2019-06-17 08:48:47+08:00:</p>
+
+<p>中央的确是撑香港，但给的不是香港想要的，也不能理解香港的法治程序和思维（因为大陆本来就不算真正的法治）</p>
+
+<p>就像一个自以为对孩子好但是过于强势的父母，不懂也不能理解孩子的诉求，所以父母不能理解为什么孩子要拒绝自己的好意，更对孩子被迫寻求他人帮助感到背叛和愤恨，相对地，孩子也愈加怨恨父母。</p>
+
+<p>许多人说，父母那强势是为了不懂事的孩子的将来打算，但会不会也有些许可能，孩子才是不偏执更明白的一方？</p>
+
+<p>当然，我丝毫不怀疑真到强势的时候，父母会是毫无悬疑的胜利一方。</p>
+
+<hr />
+
+<p>就像，中国无论再怎么样，在GDP等指标上成为第一都是命中注定，也注定对远东地区和世界有愈加强烈的影响。只不过，本来三分力就能干的事情，现在需要十分力才能做到</p>
+
+<p>民主之类的东西我就不说了，我自己也不是什么强烈的民主主义者，但起码比现在更加宽松的舆论自由、走上正规的真正法治和对多元文化的认同欣赏，对于未来即将步入中高等发展阶段的中国是非常有利的，对赢取国际社会真正的领导权也是至关重要的</p>
+
+<p>可惜中国越来越往左走，所以啊，即使中国越来越强大了，也还是不明白，为什么香港渐渐地背心、为什么台湾渐行渐远、为什么台湾会喜欢日本多于大陆、为什么日本印度韩国等虽然在经济上跟中国走得近但是关键时候依然站在美国的一边、为什么欧洲虽然在华为等事务上有所接纳但整体却依然提防</p>
+
+<p>中国不懂呀，回看西方的殖民历史，感觉上述都<strong>单纯</strong>（我没说全部）是西方帝国主义亡我之心不死，以为美国的世界霸主和盟友都是因为美国太强大了历史太占便宜了，所以我要发奋图强。强大当然没错，但美国的地位可不仅仅是强大国力所带来的，自由主义意识形态部分也占有很大的比例。</p>
+
+<p>一个时代错位般固执于强烈民族主义的中国，会是强大而孤单的</p>
+
+<p>一个开始拥抱自由主义意识形态的中国，会是更为强大且能取美国地位而代之的，或许香港台湾等问题假以时日也能引刃而解，天下归心</p>
+
+<hr />
+
+<p>我知道你一下子肯定听不进去，觉得我太白左太天真，不过我作为以前多年自干五，很明白你们的心态。或许假以时日，你会多明白一点。我衷心希望中国能更能明白港台和国际社会的心态，也更为强大文明。可以不必回了</p>
+
+<p>—– <strong>286.9</strong> —–2019-06-18 11:00:08+08:00:</p>
+
+<p>先别急着回击，看到我上面加粗的两个字没？世界的真相不是非黑即白的</p>
+
+<p>其实你说的我都知道也都料到你会这么反驳，我跟白人辩论贸易战的中国观点用的就是你罗列的（Plaza Accord, France’s Alstom，Spy on Merkel, etc）是你还没有搞清楚我的point，<strong>美国打击中国既有意识形态也有利益之争</strong>，天下苦美久已，所以这次贸易战包括华为事件欧盟等会耍两面派</p>
+
+<p>但是，别人关键时候还是会站美国。用TG话语改编一下，那就是对于他们而言，美国属于内部矛盾，而中国有可能会演变成敌我矛盾。他们的确是不喜欢美国，但是更加恐惧中国。一个没有法治和透明机制的国家，越是强大，越是遭人恐惧。所以大陆人经常跟港台人说，“我们强大了怎么你们还那么反骨“，就是因为大陆的意识形态跟别人是截然相反的</p>
+
+<p>当年（2001）Clinton答应中国入WTO，是因为希冀随着中国的经济成长，中国能变得更加自由开放（TG所谓的颜色革命和和平演变），没成想却反而助长了TG的权威性。中西的意识形态之争从没有变过，以前是希望温和去改变，但以后随着中国的强大打压力度会越来越大，虽然TG肯定对内只会翻译成是“对老二的打压”。用Trump的话讲，是要redo从Clinton到Bush到Obama的政策</p>
+
+<p>别人当然觉得不公平，一个是正规的市场经济，一个是举国动员并且没有独立法治的社会主义市场经济，所谓的“体制优越性”，来源其实就是两个体制的不兼容，中国的举国体制钻了别人西方体系的“漏洞”。中国国内对贸易战只选择了部分报道，对别国要求的包括法治在内的政治改革，也一概不提</p>
+
+<hr />
+
+<p>至于你可能会问，我们为什么一定要按照别人的要求改。当然不需要也不可能要完全听从，但是我们民主等议题先不论，起码独立的法治系统和较宽松的言论自由无论是对中国还是对世界都是有好处的，独立的法治系统可以让人有安全感，也可以营造更加公平稳定的竞争环境；（可以是有一定限制的）言论自由能对社会进行纠错，抑或你认为二共（1978）以来这个国家真的就没有严重错误？</p>
+
+<p>TG是人类有史以来“搞斗争”最厉害的集体，所以在军事上非常强，在资本主义的原始积累阶段（中国的话是改开来40年）也很强，但副作用，</p>
+
+<p>一是走错路会很麻烦（大跃进文革等+08四万万亿+计生，几十年后复盘你可以回看下推迟放松十几年的计生是不是严重错误）</p>
+
+<p>二是大家都是斗争出来的，加上缺乏司法独立，极其没有安全感，上层的高管富豪极其严重，不然也不需要一个两个都把子女送出国，造成极其严重的流失。有人的地方就有江湖，斗争是人类的天性，但是一个较为良好的法治系统，能够极大地减缓斗争，让斗争为社会造福</p>
+
+<p>三是在后期更高阶的发展阶段时未必管用，我们从追赶者走到领导者的位置，前路已经没得遵循别人的经验和技术了，这时一个更为宽松的环境是很有必要的；另外一个是文化产业上想要打造东方迪士尼和好莱坞，也不得不有更加宽松的环境；还有是任正非提到的外来人才引进甚至移民，别人肯否来一个管控相对较严且无独立法治的地方？最后是，意识形态这个坎还是需要跨过去，不能丢失意识形态，XJP现在的“人类共同体”和“自我革命”的力度还不够</p>
+
+<p><strong>现在借着WTO的东风和中国的后发优势可以不断上升，掩盖了很多严重问题，几十年后你就知道了</strong>。国内深化改革进行不下去，就是因为我们“姓资姓社”的问题其实完全没有得到过解决，只是一直在延后而已</p>
+
+<p><strong>美国霸权干了什么不重要，重要是什么价值我们应该去追求，什么东西从长远而言能确保中国的繁荣，这个才是最关键的</strong>。我从来不认为中国的深化改革跟美国的贸易战有什么必然的联系，中国的深化改革，对内可以为已经步入中上发展阶段的中国提供助力，对外可以真正拉拢别人到我们这一边，而不是只搞金钱外交</p>
+
+<p>我上面用了<strong>自由主义意识形态</strong>，其实你可以等价为<strong>普世价值</strong>，只不过我觉得<strong>普世价值</strong>一词可能对你们而言已经是负面的，故而没用。anyway，就是法治之类的，请不要理解为是<strong>完全自由的市场主义</strong></p>
+
+<h3 id="287-刘鹤称不久的将来中国将进一步推出有力度的改革开放新举措更新版-submitted-on-2019-06-13-1417210800">287: <a href="https://old.reddit.com/r/China_irl/comments/c028o3/刘鹤称不久的将来中国将进一步推出有力度的改革开放新举措更新版/">刘鹤称不久的将来中国将进一步推出有力度的改革开放新举措（更新版）</a>, submitted on 2019-06-13 14:17:21+08:00.</h3>
+
+<p>—– <strong>287.1</strong> —–2019-06-14 13:03:16+08:00:</p>
+
+<p>可能就是美国谈判后的那些吧</p>
+
+<h3 id="288-and-this-is-real-submitted-on-2019-06-13-2006250800">288: <a href="https://old.reddit.com/r/China/comments/c04zrx/and_this_is_real/">and this is real.</a>, submitted on 2019-06-13 20:06:25+08:00.</h3>
+
+<p>—– <strong>288.1</strong> —–2019-06-14 08:17:51+08:00:</p>
+
+<p>sorry I guess it’s a satire but I don’t get it :(</p>
+
+<p>—– <strong>288.2</strong> —–2019-06-14 11:49:29+08:00:</p>
+
+<p>thanks for the explanation! I didn’t notice the wear of protesters</p>
+
+<h3 id="289-alibaba-reportedly-files-for-a-hong-kong-mega-listing-submitted-on-2019-06-13-2109280800">289: <a href="https://old.reddit.com/r/finance/comments/c05meq/alibaba_reportedly_files_for_a_hong_kong/">Alibaba Reportedly Files for a Hong Kong Mega-Listing</a>, submitted on 2019-06-13 21:09:28+08:00.</h3>
+
+<p>—– <strong>289.1</strong> —–2019-06-14 09:21:29+08:00:</p>
+
+<p>They are avoiding the potential business risk thanks to escalating trade war</p>
+
+<h3 id="290-想了想干脆单发一帖吧为香港暴徒洗洗地-submitted-on-2019-06-14-0038050800">290: <a href="https://old.reddit.com/r/China_irl/comments/c082rp/想了想干脆单发一帖吧为香港暴徒洗洗地/">想了想，干脆单发一帖吧。为香港暴徒洗洗地</a>, submitted on 2019-06-14 00:38:05+08:00.</h3>
+
+<p>—– <strong>290.1</strong> —–2019-06-14 06:41:28+08:00:</p>
+
+<p>讲道理，其实这一波我挺理解香港示威群众的，但是香港警察作为职业本身也很尽责了，没必要一边倒。</p>
+
+<p>我总是觉得这一届什么东西都太强硬太急了，没有一点回转余地和统治艺术，不过也可能是内部斗争剧烈化的外显吧。有传闻说，这波回归以来的最大游行有江派在背后推波助澜，削弱习的声誉，请问大家对这个观点有何看法？（破费但也可靠的<a href="https://sinoinsider.com/2019/06/politics-watch-the-hong-kong-extradition-law-and-the-ccp-factional-struggle/">智库引用</a>)</p>
+
+<p>最后，附上西方的一些警察镇压反例，懒得翻译了：</p>
+
+<blockquote>
+  <p>Doesn’t seem too bad compared to the police brutality that happens in Europe. Still far more civilized than the French police towards the yellow vest protestors. The Hong Kong police is less brutal than the French police. Doesn’t excuse the HK police though but context is important.
+Look at how the French teenage students were forced to kneel with hands behind their heads - https://twitter.com/Jake_Hanrahan/status/1071123995548938245
+Baton to the back of the head - https://twitter.com/RichardWellings/status/1088864916986040320
+Demonstrator loses hand in Paris. https://news.yahoo.com/demonstrator-loses-hand-paris-yellow-vest-march-162110199.html
+Woman sprayed by tear gas right in the face. This one in Brussels, Belgium. - https://i.dailymail.co.uk/1s/2018/12/08/15/7172154-6474065-image-a-63_1544283134407.jpg
+https://twitter.com/deutsch365/status/1119665575003860994
+https://twitter.com/WinterOakPress/status/1135142110116622336
+More than 2,400 protesters have been injured in the first six months of protests, 24 losing an eye and five having a hand blown off.
+Whole body pressed onto woman’s head - https://twitter.com/kssdhr/status/1135914989980606465
+On the floor with lots of blood near the head - https://twitter.com/ohboywhatashot/status/1137627167343435777
+Attacking and dragging protestor on the floor - https://twitter.com/Jake_Hanrahan/status/1071534241614311425
+Woman loses her eye due to police brutality - https://twitter.com/Jake_Hanrahan/status/1071535135156256771
+Same woman who lost her eye with a clearer video - https://twitter.com/Jake_Hanrahan/status/1071829062547619843
+Man gets his hand blown off because the French police’s “flash bang” is strong enough to blow off an entire adult’s hand(NSFW) - https://twitter.com/Jake_Hanrahan/status/1071798187881623552
+Details of the “non-lethal” flash bang - “The “non-lethal” grenade that blew his hand off was apparently a GLI-F4 grenade, which is made up of CS gas and 25 grams of TNT explosive.”- https://twitter.com/Jake_Hanrahan/status/1071810806990467072
+Police firing at head level - https://twitter.com/Jake_Hanrahan/status/1072088613385629696
+Several people lost their eyes and limbs - https://travelwirenews.com/march-of-the-mutilated-injured-yellow-vests-protest-police-brutality-in-paris-video-1438321/
+More pics
+https://www.bestgore.com/wp-content/uploads/2019/01/france-police-shoot-yellow-vest-protester-back-head-flash-ball-fireman-768x432.jpg
+https://neonnettle.com/news/images/french-police-hair-protester.jpg
+https://e3.365dm.com/19/02/768x432/skynews-france-protest-paris_4572607.jpg?20190209151705
+https://img.rt.com/files/2018.12/article/5c0cd9d0fc7e93f5348b4579.png
+https://i.dailymail.co.uk/1s/2018/12/08/21/7180904-6474065-image-a-59_1544306069859.jpg
+https://i.dailymail.co.uk/1s/2018/12/08/21/7180314-6474065-image-a-33_1544305112650.jpg</p>
+</blockquote>
+
+<p>—– <strong>290.2</strong> —–2019-06-14 08:19:46+08:00:</p>
+
+<p>其实两边人的三观早就不一样了</p>
+
+<p>—– <strong>290.3</strong> —–2019-06-14 08:42:41+08:00:</p>
+
+<p>香港是tg这么多年的白手套，我真不明白急急忙忙搞这么些干嘛？</p>
+
+<p>这届就是什么都要管得死死的，其实是没有安全感，却不知道这样反而把自己弄得骑虎难下</p>
+
+<p>而且hk这样一闹，2020年台湾选举又要更绿了</p>
+
+<p>—– <strong>290.4</strong> —–2019-06-14 08:45:58+08:00:</p>
+
+<p>想多了</p>
+
+<p>而且，我想郭或者韩起码会有利一点</p>
+
+<p>—– <strong>290.5</strong> —–2019-06-14 10:42:04+08:00:</p>
+
+<p>有可能吧？这次国内都不怎么报道，以往的像占中那样是会大肆报道的（虽然是完全包装成港毒那样去报道），说不定是今上在压着 lol</p>
+
+<p>—– <strong>290.6</strong> —–2019-06-14 20:32:39+08:00:</p>
+
+<p>听说其实很大程度是上面误判了美国反应，哎不过现在也看得不太清，毕竟除了贸易战还有内部斗争</p>
+
+<p>—– <strong>290.7</strong> —–2019-06-14 20:36:18+08:00:</p>
+
+<p>历史上很多统治者都是想MXGA，但不是想就行了</p>
+
+<p>按照tg话语改编一下，路线错了，行动越多越反动</p>
+
+<p>—– <strong>290.8</strong> —–2019-06-15 00:23:10+08:00:</p>
+
+<p>从上次抓那个余某（若没记错），就开始了</p>
+
+<p>—– <strong>290.9</strong> —–2019-06-16 07:55:16+08:00:</p>
+
+<p>也不是没有可能。。。不过我更倾向于他本身就是个强硬派</p>
+
+<h3 id="291-china-calls-sinking-of-philippine-boat-an-ordinary-maritime-accident-submitted-on-2019-06-14-0124550800">291: <a href="https://old.reddit.com/r/China/comments/c08nsq/china_calls_sinking_of_philippine_boat_an/">China calls sinking of Philippine boat an ‘ordinary maritime accident’</a>, submitted on 2019-06-14 01:24:55+08:00.</h3>
+
+<p>—– <strong>291.1</strong> —–2019-06-14 06:59:35+08:00:</p>
+
+<p>Sounds like <a href="https://www.wikiwand.com/en/United_States_bombing_of_the_Chinese_embassy_in_Belgrade">United States ordinary bombing of the Chinese embassy in Belgrade accident</a></p>
+
+<p>You did it</p>
+
+<p>—– <strong>291.2</strong> —–2019-06-14 07:31:42+08:00:</p>
+
+<blockquote>
+  <p>International News wires published numerous reports supporting both the accidental and deliberate attack theories.</p>
+</blockquote>
+
+<p>Depends on which one you are going to pick.</p>
+
+<p>Added: just that comment reminds me of this. Forget it…</p>
+
+<p>—– <strong>291.3</strong> —–2019-06-14 08:28:12+08:00:</p>
+
+<p>Absolutely not</p>
+
+<p>I just wanted to balance the information here</p>
+
+<p>Just like I balanced the information in Chinese domestic social platform by bringing the western opinions across the GFW</p>
+
+<p>—– <strong>291.4</strong> —–2019-06-14 08:34:00+08:00:</p>
+
+<p>Really? Maybe that’s because you are familiar with Chinese media?</p>
+
+<p>I think at least some people here know nothing about this kind of staffs and only know the dark history of China</p>
+
+<p>—– <strong>291.5</strong> —–2019-06-14 08:35:55+08:00:</p>
+
+<p>It’s a fancy version of Wikipedia. You can use it via Chrome extension or apps. I prefer its display of contents on my PC browser</p>
+
+<p>—– <strong>291.6</strong> —–2019-06-14 14:00:11+08:00:</p>
+
+<p>I know Hitler included Marxism as one of his ideologies</p>
+
+<p>But does Hitler’s regime meet the definition of Marxism in the real world?</p>
+
+<p>—– <strong>291.7</strong> —–2019-06-14 20:42:50+08:00:</p>
+
+<p>I meant, Hitler is actually anti-communism. What’s wrong?</p>
+
+<p>—– <strong>291.8</strong> —–2019-06-14 21:00:04+08:00:</p>
+
+<p><em>Although</em> Hitler has endorsed parts of socialism, what he actually did was definitely not Marxism.</p>
+
+<p>—– <strong>291.9</strong> —–2019-06-15 14:10:06+08:00:</p>
+
+<p>？</p>
+
+<h3 id="292-this-white-house-chef-is-an-absolute-unit-submitted-on-2019-06-14-0442220800">292: <a href="https://old.reddit.com/r/pics/comments/c0b4db/this_white_house_chef_is_an_absolute_unit/">This White House chef is an absolute unit</a>, submitted on 2019-06-14 04:42:22+08:00.</h3>
+
+<p>—– <strong>292.1</strong> —–2019-06-14 09:10:14+08:00:</p>
+
+<p>neat</p>
+
+<h3 id="293-discussion-hows-the-movement-in-hk-going-to-end-submitted-on-2019-06-14-0659150800">293: <a href="https://old.reddit.com/r/China/comments/c0cozi/discussion_hows_the_movement_in_hk_going_to_end/">[Discussion] How’s the movement in HK going to end?</a>, submitted on 2019-06-14 06:59:15+08:00.</h3>
+
+<p>—– <strong>293.1</strong> —–2019-06-14 10:14:58+08:00:</p>
+
+<p>Nobody talks about the possible battle between Xi and Jiang behind this protest?</p>
+
+<p><a href="https://sinoinsider.com/2019/06/politics-watch-the-hong-kong-extradition-law-and-the-ccp-factional-struggle/">source</a></p>
+
+<p>—– <strong>293.2</strong> —–2019-06-14 11:35:04+08:00:</p>
+
+<p>Neither do I…</p>
+
+<h3 id="294-why-chinas-rulers-wont-admit-they-could-be-wrong-lacking-in-these-responsibilities-honesty-accountability-and-moral-stature-submitted-on-2019-06-14-0735510800">294: <a href="https://old.reddit.com/r/China/comments/c0d2sp/why_chinas_rulers_wont_admit_they_could_be_wrong/">Why China’s rulers won’t admit they could be wrong: lacking in these responsibilities: honesty, accountability and moral stature</a>, submitted on 2019-06-14 07:35:51+08:00.</h3>
+
+<p>—– <strong>294.1</strong> —–2019-06-14 10:47:44+08:00:</p>
+
+<p>Because they don’t think they are wrong</p>
+
+<p>At least a large group of them firmly and <strong>genuinely</strong> believe that they protected this country</p>
+
+<p>Not like, they know they did wrong but pretend to be right</p>
+
+<p>^(hope nobody translates it as I’m defending CCP in this case…)</p>
+
+<p>—– <strong>294.2</strong> —–2019-06-14 13:13:37+08:00:</p>
+
+<p>Thanos is a perfect example</p>
+
+<p>You can only communicate with the guys holding the same measurements as you</p>
+
+<p>—– <strong>294.3</strong> —–2019-06-14 14:12:53+08:00:</p>
+
+<p>Same values, e.g. what should be defined as right/wrong and what should be put as the highest priority</p>
+
+<h3 id="295-india-is-taking-over-china--submitted-on-2019-06-14-0956130800">295: <a href="https://old.reddit.com/r/China/comments/c0ef1h/india_is_taking_over_china/">India is taking over China 😇</a>, submitted on 2019-06-14 09:56:13+08:00.</h3>
+
+<p>—– <strong>295.1</strong> —–2019-06-14 12:56:31+08:00:</p>
+
+<p>lol just read an article about it</p>
+
+<h3 id="296-so-it-turns-out-that-hitchcock-just-copied-the-chinese-typical-appropriation-of-harmonious-history-submitted-on-2019-06-14-1816190800">296: <a href="https://old.reddit.com/r/CCJ2/comments/c0ifax/so_it_turns_out_that_hitchcock_just_copied_the/">So it turns out that Hitchcock just copied the Chinese. Typical appropriation of harmonious history.</a>, submitted on 2019-06-14 18:16:19+08:00.</h3>
+
+<p>—– <strong>296.1</strong> —–2019-06-15 02:24:35+08:00:</p>
+
+<p>Lunch time ~</p>
+
+<h3 id="297-pla-general-hong-kong-is-worst-worse-than-taiwan-中共國防教授少將徐焰香港最壞比臺灣還壞-submitted-on-2019-06-14-1928560800">297: <a href="https://old.reddit.com/r/China/comments/c0izvh/pla_general_hong_kong_is_worst_worse_than_taiwan/">PLA General: Hong Kong Is Worst, Worse than Taiwan 中共國防教授少將徐焰：香港最壞，比臺灣還壞</a>, submitted on 2019-06-14 19:28:56+08:00.</h3>
+
+<p>—– <strong>297.1</strong> —–2019-06-14 20:50:39+08:00:</p>
+
+<p>This is another level illiterate. HK is more anti-CCP than TW? HK shouldn’t use other textbooks? Seriously?</p>
+
+<p>HKer loved China much, they contributed a lot to China after 1978.</p>
+
+<p>This speech is a SHAME and pushing HK to the enemy side.</p>
+
+<p>—– <strong>297.2</strong> —–2019-06-14 20:55:36+08:00:</p>
+
+<p>Emmmm…. It was Malaysia didn’t want Singapore</p>
+
+<p>—– <strong>297.3</strong> —–2019-06-14 21:18:03+08:00:</p>
+
+<p>Small country? Colonize? HK and Mainland? Laugh in British</p>
+
+<p>—– <strong>297.4</strong> —–2019-06-15 00:28:09+08:00:</p>
+
+<p>这届人民不行!</p>
+
+<p>This term of <del>president</del> people is not qualified!</p>
+
+<p>—– <strong>297.5</strong> —–2019-06-15 00:33:35+08:00:</p>
+
+<p>what do you mean? Although lots of HKers anti-CCP, at least half of HKers are patriotic. They helped mainlanders to know how to play capital game after 1992, they donated a lot to mainland, there are lots of patriotic Cantonese movies, and the independence movement is a really new and narrow stuff. It’s not like Taiwan, where majority people nowadays are actually anti-mainland/China.</p>
+
+<p>Edit: sorry I think I misunderstood your comment</p>
+
+<p>—– <strong>297.6</strong> —–2019-06-15 00:57:25+08:00:</p>
+
+<p>This is reddit…</p>
+
+<p>—– <strong>297.7</strong> —–2019-06-15 07:50:49+08:00:</p>
+
+<p>cuz it’s NOT communism …</p>
+
+<p>—– <strong>297.8</strong> —–2019-06-15 07:53:53+08:00:</p>
+
+<p>I agree with you but you made a same mistake like your wifes’</p>
+
+<p>Chinese includes Mandarin, Cantonese, and so on</p>
+
+<p>Every time when people say we Guangdong/HK/Macau don’t speak Chinese, I think, we just (partially) don’t say Mandarin…</p>
+
+<p>—– <strong>297.9</strong> —–2019-06-15 07:56:29+08:00:</p>
+
+<p>It’s not about whether the audience buy or not</p>
+
+<p>The point is to declare their standpoint</p>
+
+<p>—– <strong>297.10</strong> —–2019-06-15 12:41:22+08:00:</p>
+
+<p>fair tho</p>
+
+<p>—– <strong>297.11</strong> —–2019-06-15 14:14:20+08:00:</p>
+
+<p>Sorry I’m a bit confused about what you’re talking about.</p>
+
+<p>—– <strong>297.12</strong> —–2019-06-16 03:54:09+08:00:</p>
+
+<p>lol in hk it’s called 两文三语 English-Chinese(Mandarin-Cantonese)</p>
+
+<p>—– <strong>297.13</strong> —–2019-06-17 09:22:14+08:00:</p>
+
+<p>My key point is that, lots of HKers were anti-CCP but patriotic, now they may turn to anti-Chinese due to CCP, though there may be a rebound in Generation Z IMO</p>
+
+<p>However, <em>comparing to Taiwan</em>, it’s safe to say that, there is a <em>relatively</em> larger group of people in HK don’t mind CCP</p>
+
+<h3 id="298-kid-falls-from-window-submitted-on-2019-06-14-1955520800">298: <a href="https://old.reddit.com/r/WTF/comments/c0j87k/kid_falls_from_window/">kid falls from window</a>, submitted on 2019-06-14 19:55:52+08:00.</h3>
+
+<p>—– <strong>298.1</strong> —–2019-06-15 01:21:01+08:00:</p>
+
+<p>lol the son of heaven !</p>
+
+<h3 id="299-我感觉我们正在走向文化荒漠-submitted-on-2019-06-14-2038040800">299: <a href="https://old.reddit.com/r/saraba1st/comments/c0jluz/我感觉我们正在走向文化荒漠/">我感觉我们正在走向文化荒漠</a>, submitted on 2019-06-14 20:38:04+08:00.</h3>
+
+<p>—– <strong>299.1</strong> —–2019-06-15 02:26:30+08:00:</p>
+
+<p>讲道理，按照中国市场的话，若有人美国那样的环境，假以时日搞个东方迪士尼和好莱坞把东亚东南亚资源吸引过来不是不可能，只能说可惜了</p>
+
+<h3 id="300-exclusive-hong-kong-tycoons-start-moving-assets-offshore-as-fears-rise-over-new-extradition-law-submitted-on-2019-06-14-2045460800">300: <a href="https://old.reddit.com/r/China/comments/c0joes/exclusive_hong_kong_tycoons_start_moving_assets/">Exclusive: Hong Kong tycoons start moving assets offshore as fears rise over new extradition law</a>, submitted on 2019-06-14 20:45:46+08:00.</h3>
+
+<p>—– <strong>300.1</strong> —–2019-06-16 05:18:43+08:00:</p>
+
+<p>Is it true that at least some Ukrainian (probably in Crimean) want to be united with Russia?</p>
+
+<h3 id="301-chinese-furious-over-misreading-chinese-pig-submitted-on-2019-06-14-2207120800">301: <a href="https://old.reddit.com/r/China/comments/c0khwp/chinese_furious_over_misreading_chinese_pig/">Chinese furious over misreading ‘Chinese pig’</a>, submitted on 2019-06-14 22:07:12+08:00.</h3>
+
+<p>—– <strong>301.1</strong> —–2019-06-15 04:54:58+08:00:</p>
+
+<p>Some Chinese think</p>
+
+<p>It’s better to say <em>chinese domestic pigs</em> or <em>china’s pigs</em> or <em>pigs in china</em></p>
+
+<p>—– <strong>301.2</strong> —–2019-06-15 04:58:35+08:00:</p>
+
+<p>American pigs (A slang term to discribe a middle-aged white American citizen who loves beer, trash TV, war, and is usually intolerant of other people’s traditions and cultures. ) and Russia pigs have their negative meanings</p>
+
+<p>I don’t see panda is in the same case</p>
+
+<p>—– <strong>301.3</strong> —–2019-06-15 05:04:48+08:00:</p>
+
+<p>https://www.google.com/amp/s/www.urbandictionary.com/define.php%3Fterm%3DAmerican%2520pig%26amp%3Dtrue</p>
+
+<p>I don’t think Chinese should overreact, I just don’t think your counterexample is strong enough</p>
+
+<p>Pigs is an offensive word in Chinese tho I believe the guy is inadvertent</p>
+
+<h3 id="302-听完气得快晕过去了-submitted-on-2019-06-15-0124130800">302: <a href="https://old.reddit.com/r/China_irl/comments/c0mrpw/听完气得快晕过去了/">听完气得快晕过去了</a>, submitted on 2019-06-15 01:24:13+08:00.</h3>
+
+<p>—– <strong>302.1</strong> —–2019-06-15 02:21:27+08:00:</p>
+
+<p>？？？</p>
+
+<p>先别说立场如何，别人可能是家里人被杀然后逃难去香港，然后这位PLA仁兄说别人逃是坏，言下之意是，你就应该乖乖站着给我杀？这是人说的话吗？</p>
+
+<p>二共怎么样先不谈，一共后期那些因为大跃进/文革等逃难去香港的，别人反共你也怨不得</p>
+
+<p>—– <strong>302.2</strong> —–2019-06-15 02:22:50+08:00:</p>
+
+<p>台下观众一脸不可思议样，感觉到来自三观不同的震撼 😂</p>
+
+<p>—– <strong>302.3</strong> —–2019-06-15 02:28:16+08:00:</p>
+
+<p>如果国内都是你这种人，那也不要怪港毒日益壮大，港毒本来是没有的，是被你们这种思想逼出来的，报应</p>
+
+<p>—– <strong>302.4</strong> —–2019-06-15 02:41:27+08:00:</p>
+
+<p>真的没必要，香港变成中国普通一城其实根本没好处，对香港没有，对大陆没有，对中共也没有</p>
+
+<p>就是“百年耻辱”后遗症会让人误判局势</p>
+
+<p>—– <strong>302.5</strong> —–2019-06-15 04:32:29+08:00:</p>
+
+<p>那证明你根本不知道香港在过去扮演了什么地位，把自己路子都堵死，庸政</p>
+
+<p>—– <strong>302.6</strong> —–2019-06-15 04:35:56+08:00:</p>
+
+<p>大哥，别人香港人回归前可是很爱国的，即使反也只是对tg不放心，现在回归20年，港毒都硬是被弄出来。我真是佩服大陆的施政方针</p>
+
+<p>大陆的确是想好，但三观不一样的话，汝之蜜糖，彼之砒霜。就像固执爸妈那种对你好，明白吗？当然，作为父母你可以强权也可以真心倾听孩子的声音，不过按tg性子是不可能的</p>
+
+<p>—– <strong>302.7</strong> —–2019-06-15 05:00:05+08:00:</p>
+
+<p>别人怎么就逢中必反了？为什么一定要把hk控得那么死？一定要把自己白手套弄脏？</p>
+
+<p>—– <strong>302.8</strong> —–2019-06-15 06:59:17+08:00:</p>
+
+<p>老香港人那么爱国，回归以前现在180度转变了，大陆应该负很大责任。前几天1/8的香港人去游行了，这边还在说境外势力，境外势力真是万能背锅侠，另外一个背锅侠是香港优越论。我先说下我的结论，香港大陆的最大分歧还是意识形态。香港人很看重自由和法治，比如说这次游行，他们认为立法程序是被操控了，审议过程不透明，对内地司法制度不信任，而作为民族主义叙事的大陆，常常把这些不配合姿态当作是反抗或者不爱国，大陆认为你们法治应该，但前提是听中央话或者任何事情以大局为重，而香港人往往把法治而非民族叙事视为第一优先等级，所以这次才香港律师会都出来游行，这是由三观不同而引发的误解。</p>
+
+<p>我再强调一遍，香港港毒一开始根本就只是二十来人而已，但以后随着陆港矛盾加深，或许港独会越来越多了，我觉得是报应</p>
+
+<p>—– <strong>302.9</strong> —–2019-06-15 07:02:00+08:00:</p>
+
+<p>老香港人那么爱国，回归以前现在180度转变了，大陆应该负很大责任。前几天1/8的香港人去游行了，这边还在说境外势力，境外势力真是万能背锅侠，另外一个背锅侠是香港优越论。我先说下我的结论，香港大陆的最大分歧还是意识形态。香港人很看重自由和法治，比如说这次游行，他们认为立法程序是被操控了，审议过程不透明，对内地司法制度不信任，而作为民族主义叙事的大陆，常常把这些不配合姿态当作是反抗或者不爱国，大陆认为你们法治应该，但前提是听中央话或者任何事情以大局为重，而香港人往往把法治而非民族叙事视为第一优先等级，所以这次才香港律师会都出来游行，这是由三观不同而引发的误解。</p>
+
+<p>像你说的，反送中，立场先不论？但别人反送中跟反中有什么联系？法国人黄马甲是反法？美国人反华尔街是反美？这边就是习惯了什么事情都要顺风顺意，别人一不配合就上升到不爱国的高度。</p>
+
+<p>—– <strong>302.10</strong> —–2019-06-15 08:45:08+08:00:</p>
+
+<p>所以说为什么大陆大部人都不能理解法治。。。真的，民不民主我先不管，法治有这么难理解吗？别人不想通过就不通过呗，对大陆有什么不好的影响吗？硬要霸王硬上弓，弄得现在一地鸡毛</p>
+
+<p>你可以查查网上的游行人群的延迟摄像，看看大致多少人呗，1/8是什么概念你真不懂？若每4个人反对中有1个人有空去（我已经往少里面算了），那起码一半人都反对，一半人反对，就不能尊重一下民意？你不尊重别人，别人为何要顺从你统治？本来港毒只有那么二十来人，以后越来越多我看也不稀奇</p>
+
+<p>又时间段。。。又往境外敌对势力上去引话题。。。大哥，迫切通过送中法案的是香港政府/中央</p>
+
+<p>btw 境外敌对势力？或许有。。。但这次更多的可能是党内江习斗争的外部化</p>
+
+<p>—– <strong>302.11</strong> —–2019-06-15 09:03:49+08:00:</p>
+
+<p>醉了，港毒是谁统治下出现的啊？难道是港英政府？你没看过以前粤语片？有多爱国你不知道？不过内地大部分人连占中跟港毒都搞不清，也没什么好说的</p>
+
+<p>我也跟你说，<strong>主因</strong>就是意识形态，就是对法治（民主人权那些先不说）的理解有根本性出入</p>
+
+<p>大陆的理解是，你们香港人是孩子，我们是父母，你们要乖乖听话</p>
+
+<p>香港的理解是，中央是上级，可以提供意见，但法例的通过与否要按照正常的法制途径。不能够说，因为民族大局之类的东西，就凌驾于法治之上</p>
+
+<p>最后，中国当然不需要急，但习本人急啊，大湾区可是习亲自督战的又一个“千年大计”。当然，也不排除是林郑月娥过急邀功，或者是江派对习政策的故意扩大化。最近中国驻英大使才跟BBC说这是林郑的意思，中央没有要求（但仍然支持）通过送中条案</p>
+
+<p>另外，我tm这样的用语习惯你都会觉得我是hker，服了</p>
+
+<p>—– <strong>302.12</strong> —–2019-06-15 09:39:42+08:00:</p>
+
+<p>果然强国思维，无法理智交流，到后面了总是，“反正香港/台湾人打不过我们，说个鸡毛”的心态</p>
+
+<h3 id="303-hong-kong-government-reportedly-set-to-suspend-china-extradition-bill-after-mass-protests-submitted-on-2019-06-15-1331130800">303: <a href="https://old.reddit.com/r/China/comments/c0twwz/hong_kong_government_reportedly_set_to_suspend/">Hong Kong government reportedly set to suspend China extradition bill after mass protests</a>, submitted on 2019-06-15 13:31:13+08:00.</h3>
+
+<p>—– <strong>303.1</strong> —–2019-06-16 03:16:04+08:00:</p>
+
+<p>citation ?</p>
+
+<h3 id="304-hong-kong-youth-fear-china-will-treat-them-like-uighur-muslims-submitted-on-2019-06-15-1517100800">304: <a href="https://old.reddit.com/r/China/comments/c0upec/hong_kong_youth_fear_china_will_treat_them_like/">Hong Kong Youth Fear China Will Treat Them Like Uighur Muslims</a>, submitted on 2019-06-15 15:17:10+08:00.</h3>
+
+<p>—– <strong>304.1</strong> —–2019-06-16 05:26:18+08:00:</p>
+
+<p>to be fair, PRC did something they believe good to HK, but the problem is that they cannot understand what HK really wants</p>
+
+<h3 id="305-chinas-a-big-bully-submitted-on-2019-06-15-1602240800">305: <a href="https://old.reddit.com/r/China/comments/c0uzvn/chinas_a_big_bully/">China’s a Big Bully.</a>, submitted on 2019-06-15 16:02:24+08:00.</h3>
+
+<p>—– <strong>305.1</strong> —–2019-06-16 03:19:41+08:00:</p>
+
+<blockquote>
+  <p>it’s been warlords, dictators, emperors and other douchbags lording over the common people</p>
+</blockquote>
+
+<p>Sincere question: is there a big difference between China and the west in ancient for the things above?</p>
+
+<p>—– <strong>305.2</strong> —–2019-06-16 06:05:11+08:00:</p>
+
+<p>make sense but there were also lots of <em>warlords, dictators, emperors and other douchbags lording</em> in the west? The difference is that their authoritarians always live shorter than China’s?</p>
+
+<p>—– <strong>305.3</strong> —–2019-06-17 09:08:37+08:00:</p>
+
+<p>thx it makes more sense. I knew it’s a bit whataboutery but I was genuinely curious about a different perspective of Chinese civilization</p>
+
+<p>These facts more and more convince me that the Great Unification (after Qin) was actually a bad thing to China in a longterm, though it has other advantages</p>
+
+<p>Western civilization is a maricle to mankind, not only Roman’s republic and Greeks’ democracy (the root of modern politics) but also Greek’s logic (the root of modern science), you can barely find their counterparts in not only China but also other civilizations</p>
+
+<h3 id="306-i-dont-think-having-a-chinese-name-is-necessary-submitted-on-2019-06-15-1651570800">306: <a href="https://old.reddit.com/r/ChineseLanguage/comments/c0vaz9/i_dont_think_having_a_chinese_name_is_necessary/">I don’t think having a “Chinese name” is necessary</a>, submitted on 2019-06-15 16:51:57+08:00.</h3>
+
+<p>—– <strong>306.1</strong> —–2019-06-16 03:23:50+08:00:</p>
+
+<p>well, I support you, just like I, as Chinese, think we Chinese don’t need to have another English name in western countries.</p>
+
+<p>Some of us keep using our real name nowadays because it’s YOU</p>
+
+<h3 id="307-看看大家都是什么立场出身如何对未来有什么期望-submitted-on-2019-06-16-0840200800">307: <a href="https://old.reddit.com/r/China_irl/comments/c147s6/看看大家都是什么立场出身如何对未来有什么期望/">看看大家都是什么立场出身如何，对未来有什么期望</a>, submitted on 2019-06-16 08:40:20+08:00.</h3>
+
+<p>—– <strong>307.1</strong> —–2019-06-22 03:30:26+08:00:</p>
+
+<blockquote>
+  <p>改革放权的前提是中共放权不会被清算到全族被处死，而有六四在，我觉得他们被清算全部处决只是个时间问题，从反右外逃到国外或国内仍然健在的人，再到大饥荒，文革与六四，以及现代的大量压迫，仇人太多了，你放权是死路一条。</p>
+</blockquote>
+
+<p>我其实也抱有过同样的观点，就是tg是一个共罪集体。共同的罪孽才是他们的最后凝聚力，不过后来转念一想，不一定会清算到位</p>
+
+<p>反右、大饥荒、文革、六四等，主要的当事人都差不多过世了，真的清算，又要如何？把别人后代杀了？不可能的。。。其实即使是二战日本，也会因为实际利益考虑，而不会清算到位，妥协的空间总是有的</p>
+
+<hr />
+
+<p>其实tg若自己改革（虽然很难），还会将功补过一点点，就像现在提起kmt就有蒋经国一样。不然，若真的被人从外部打倒，那时候清算反而会强烈一点点</p>
+
+<h3 id="308-香港人厉害-submitted-on-2019-06-16-2033200800">308: <a href="https://old.reddit.com/r/saraba1st/comments/c19eqr/香港人厉害/">香港人厉害！</a>, submitted on 2019-06-16 20:33:20+08:00.</h3>
+
+<p>—– <strong>308.1</strong> —–2019-06-17 09:38:48+08:00:</p>
+
+<p>我觉得若政治转型的话，从香港到沿海再到内陆会是一个非常好的操作</p>
+
+<p>中国还剩下香港这么一个可以引路的地方和比较良好的国际外部环境，若真转型的话，也不知道比当初苏联幸运多少倍</p>
+
+<p>当然，以上是理想主义了，从现实看，几率很小</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2019-06-17</time>
+        <a href="https://nodebe4.github.io/opinion/2019-06-17/Yvan888/">
+          Yvan888在2019-06-17~2019-06-23的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-06-16</time>
+        <a href="https://nodebe4.github.io/opinion/2019-06-16/Spinkcat/">
+          Spinkcat在2019-06-10~2019-06-16的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-06-09</time>
+        <a href="https://nodebe4.github.io/opinion/2019-06-09/Spinkcat/">
+          Spinkcat在2019-06-03~2019-06-09的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-06-04</time>
+        <a href="https://nodebe4.github.io/opinion/2019-06-04/Yvan888/">
+          Yvan888在2019-06-03~2019-06-09的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2019-06-09/%E6%95%B0%E5%8D%81%E4%B8%87%E4%BA%BA%E4%B8%8A%E8%A1%97-%E9%A6%99%E6%B8%AF%E7%88%86%E5%8F%91%E5%8F%8D-%E9%80%83%E7%8A%AF%E6%9D%A1%E4%BE%8B-%E4%BF%AE%E6%B3%95%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%B8%B8%E8%A1%8C/">
+            前一篇：数十万人上街 香港爆发反《逃犯条例》修法大规模游行
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2019-06-10/%E6%AF%8F%E5%91%A8%E8%BD%AC%E8%BD%BD-%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6-30%E5%91%A8%E5%B9%B4%E7%BA%AA%E5%BF%B5-%E5%90%84%E6%96%B9%E5%A4%96%E5%AA%92%E6%8A%A5%E9%81%93-%E5%A4%9A%E5%9B%BE/">
+            後一篇：每周转载：“六四事件”30周年纪念（各方外媒报道，多图）
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2019-06-09/%E6%95%B0%E5%8D%81%E4%B8%87%E4%BA%BA%E4%B8%8A%E8%A1%97-%E9%A6%99%E6%B8%AF%E7%88%86%E5%8F%91%E5%8F%8D-%E9%80%83%E7%8A%AF%E6%9D%A1%E4%BE%8B-%E4%BF%AE%E6%B3%95%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%B8%B8%E8%A1%8C/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2019-06-10/%E6%AF%8F%E5%91%A8%E8%BD%AC%E8%BD%BD-%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6-30%E5%91%A8%E5%B9%B4%E7%BA%AA%E5%BF%B5-%E5%90%84%E6%96%B9%E5%A4%96%E5%AA%92%E6%8A%A5%E9%81%93-%E5%A4%9A%E5%9B%BE/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2019-06-16/Spinkcat/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2019-06-09/Spinkcat/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2019-06-09/%E6%95%B0%E5%8D%81%E4%B8%87%E4%BA%BA%E4%B8%8A%E8%A1%97-%E9%A6%99%E6%B8%AF%E7%88%86%E5%8F%91%E5%8F%8D-%E9%80%83%E7%8A%AF%E6%9D%A1%E4%BE%8B-%E4%BF%AE%E6%B3%95%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%B8%B8%E8%A1%8C/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2019-06-10/%E6%AF%8F%E5%91%A8%E8%BD%AC%E8%BD%BD-%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6-30%E5%91%A8%E5%B9%B4%E7%BA%AA%E5%BF%B5-%E5%90%84%E6%96%B9%E5%A4%96%E5%AA%92%E6%8A%A5%E9%81%93-%E5%A4%9A%E5%9B%BE/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2019-06-16/Spinkcat/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2019-06-09/Spinkcat/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

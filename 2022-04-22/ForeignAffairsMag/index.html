@@ -1,0 +1,2245 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>ForeignAffairsMag在2022-04-18~2022-04-24的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="ForeignAffairsMag在2022-04-18~2022-04-24的言论" />
+    <meta property="twitter:title" content="ForeignAffairsMag在2022-04-18~2022-04-24的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FUkrainianConflict%2Fcomments%2Fu6edtc%2Frussians_at_war_putins_aggression_has_turned_a%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/UkrainianConflict/comments/u6edtc/russians_at_war_putins_aggression_has_turned_a/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/UkrainianConflict/comments/u6edtc/russians_at_war_putins_aggression_has_turned_a/&text=ForeignAffairsMag在2022-04-18~2022-04-24的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/UkrainianConflict/comments/u6edtc/russians_at_war_putins_aggression_has_turned_a/&title=ForeignAffairsMag在2022-04-18~2022-04-24的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/UkrainianConflict/comments/u6edtc/russians_at_war_putins_aggression_has_turned_a/&title=ForeignAffairsMag在2022-04-18~2022-04-24的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=ForeignAffairsMag在2022-04-18~2022-04-24的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/UkrainianConflict/comments/u6edtc/russians_at_war_putins_aggression_has_turned_a/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/UkrainianConflict/comments/u6edtc/russians_at_war_putins_aggression_has_turned_a/&title=ForeignAffairsMag在2022-04-18~2022-04-24的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=ForeignAffairsMag在2022-04-18~2022-04-24的言论&url=https://old.reddit.com/r/UkrainianConflict/comments/u6edtc/russians_at_war_putins_aggression_has_turned_a/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>ForeignAffairsMag在2022-04-18~2022-04-24的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-04-22
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: ForeignAffairsMag</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/UkrainianConflict/comments/u6edtc/russians_at_war_putins_aggression_has_turned_a/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#212-russians-at-war-putins-aggression-has-turned-a-nation-against-itself-submitted-on-2022-04-18-2224460800" id="markdown-toc-212-russians-at-war-putins-aggression-has-turned-a-nation-against-itself-submitted-on-2022-04-18-2224460800">212: Russians at War: Putin’s Aggression Has Turned a Nation Against Itself, submitted on 2022-04-18 22:24:46+08:00.</a></li>
+  <li><a href="#213-the-ponzi-scheme-that-broke-lebanon-us-ties-to-the-countrys-elites-will-test-bidens-anticorruption-agenda-submitted-on-2022-04-18-2228390800" id="markdown-toc-213-the-ponzi-scheme-that-broke-lebanon-us-ties-to-the-countrys-elites-will-test-bidens-anticorruption-agenda-submitted-on-2022-04-18-2228390800">213: The Ponzi Scheme That Broke Lebanon: U.S. Ties to the Country’s Elites Will Test Biden’s Anticorruption Agenda, submitted on 2022-04-18 22:28:39+08:00.</a></li>
+  <li><a href="#214-how-ukraine-can-build-back-better-use-the-kremlins-seized-assets-to-pay-for-reconstruction-submitted-on-2022-04-19-2203330800" id="markdown-toc-214-how-ukraine-can-build-back-better-use-the-kremlins-seized-assets-to-pay-for-reconstruction-submitted-on-2022-04-19-2203330800">214: How Ukraine Can Build Back Better: Use the Kremlin’s Seized Assets to Pay for Reconstruction, submitted on 2022-04-19 22:03:33+08:00.</a></li>
+  <li><a href="#215-how-ukraine-can-build-back-better-use-the-kremlins-seized-assets-to-pay-for-reconstruction-submitted-on-2022-04-19-2204250800" id="markdown-toc-215-how-ukraine-can-build-back-better-use-the-kremlins-seized-assets-to-pay-for-reconstruction-submitted-on-2022-04-19-2204250800">215: How Ukraine Can Build Back Better: Use the Kremlin’s Seized Assets to Pay for Reconstruction, submitted on 2022-04-19 22:04:25+08:00.</a></li>
+  <li><a href="#216-how-autocrats-endure-viktor-orban-and-the-myth-of-the-self-destructing-strongman-submitted-on-2022-04-19-2205560800" id="markdown-toc-216-how-autocrats-endure-viktor-orban-and-the-myth-of-the-self-destructing-strongman-submitted-on-2022-04-19-2205560800">216: How Autocrats Endure: Viktor Orban and the Myth of the Self-Destructing Strongman, submitted on 2022-04-19 22:05:56+08:00.</a></li>
+  <li><a href="#217-the-new-nuclear-age-how-chinas-growing-nuclear-arsenal-threatens-deterrence-submitted-on-2022-04-19-2209240800" id="markdown-toc-217-the-new-nuclear-age-how-chinas-growing-nuclear-arsenal-threatens-deterrence-submitted-on-2022-04-19-2209240800">217: The New Nuclear Age: How China’s Growing Nuclear Arsenal Threatens Deterrence, submitted on 2022-04-19 22:09:24+08:00.</a></li>
+  <li><a href="#218-what-if-the-war-in-ukraine-doesnt-end-the-global-consequences-of-a-long-conflict-submitted-on-2022-04-20-2134500800" id="markdown-toc-218-what-if-the-war-in-ukraine-doesnt-end-the-global-consequences-of-a-long-conflict-submitted-on-2022-04-20-2134500800">218: What If the War in Ukraine Doesn’t End?: The Global Consequences of a Long Conflict, submitted on 2022-04-20 21:34:50+08:00.</a></li>
+  <li><a href="#219-what-if-the-war-in-ukraine-doesnt-end-the-global-consequences-of-a-long-conflict-submitted-on-2022-04-21-0304130800" id="markdown-toc-219-what-if-the-war-in-ukraine-doesnt-end-the-global-consequences-of-a-long-conflict-submitted-on-2022-04-21-0304130800">219: What If the War in Ukraine Doesn’t End?: The Global Consequences of a Long Conflict, submitted on 2022-04-21 03:04:13+08:00.</a></li>
+  <li><a href="#220-the-return-of-statecraft-back-to-basics-in-the-post-american-world-submitted-on-2022-04-21-2131170800" id="markdown-toc-220-the-return-of-statecraft-back-to-basics-in-the-post-american-world-submitted-on-2022-04-21-2131170800">220: The Return of Statecraft: Back to Basics in the Post-American World, submitted on 2022-04-21 21:31:17+08:00.</a></li>
+  <li><a href="#221-the-chinese-way-of-innovation-what-washington-can-learn-from-beijing-about-investing-in-tech-submitted-on-2022-04-21-2135350800" id="markdown-toc-221-the-chinese-way-of-innovation-what-washington-can-learn-from-beijing-about-investing-in-tech-submitted-on-2022-04-21-2135350800">221: The Chinese Way of Innovation: What Washington Can Learn From Beijing About Investing in Tech, submitted on 2022-04-21 21:35:35+08:00.</a></li>
+  <li><a href="#222-the-chinese-way-of-innovation-what-washington-can-learn-from-beijing-about-investing-in-tech-submitted-on-2022-04-21-2141220800" id="markdown-toc-222-the-chinese-way-of-innovation-what-washington-can-learn-from-beijing-about-investing-in-tech-submitted-on-2022-04-21-2141220800">222: The Chinese Way of Innovation: What Washington Can Learn From Beijing About Investing in Tech, submitted on 2022-04-21 21:41:22+08:00.</a></li>
+  <li><a href="#223-ukraine-can-win-the-case-against-compromise-submitted-on-2022-04-22-2209200800" id="markdown-toc-223-ukraine-can-win-the-case-against-compromise-submitted-on-2022-04-22-2209200800">223: Ukraine Can Win: The Case Against Compromise, submitted on 2022-04-22 22:09:20+08:00.</a></li>
+  <li><a href="#224-ukraine-can-win-the-case-against-compromise-submitted-on-2022-04-22-2209570800" id="markdown-toc-224-ukraine-can-win-the-case-against-compromise-submitted-on-2022-04-22-2209570800">224: Ukraine Can Win: The Case Against Compromise, submitted on 2022-04-22 22:09:57+08:00.</a></li>
+</ul>
+
+<h3 id="212-russians-at-war-putins-aggression-has-turned-a-nation-against-itself-submitted-on-2022-04-18-2224460800">212: <a href="https://old.reddit.com/r/UkrainianConflict/comments/u6edtc/russians_at_war_putins_aggression_has_turned_a/">Russians at War: Putin’s Aggression Has Turned a Nation Against Itself</a>, submitted on 2022-04-18 22:24:46+08:00.</h3>
+
+<p>—– <strong>212.1</strong> —–2022-04-18 22:56:24+08:00:</p>
+
+<p>Find Foreign Affairs on Telegram: <a href="https://t.me/Foreign_Affairs_Magazine">https://t.me/Foreign_Affairs_Magazine</a></p>
+
+<h3 id="213-the-ponzi-scheme-that-broke-lebanon-us-ties-to-the-countrys-elites-will-test-bidens-anticorruption-agenda-submitted-on-2022-04-18-2228390800">213: <a href="https://old.reddit.com/r/lebanon/comments/u6egqj/the_ponzi_scheme_that_broke_lebanon_us_ties_to/">The Ponzi Scheme That Broke Lebanon: U.S. Ties to the Country’s Elites Will Test Biden’s Anticorruption Agenda</a>, submitted on 2022-04-18 22:28:39+08:00.</h3>
+
+<p>—– <strong>213.1</strong> —–2022-04-18 22:28:50+08:00:</p>
+
+<p>Find Foreign Affairs on Telegram: <a href="https://t.me/Foreign_Affairs_Magazine">https://t.me/Foreign_Affairs_Magazine</a></p>
+
+<h3 id="214-how-ukraine-can-build-back-better-use-the-kremlins-seized-assets-to-pay-for-reconstruction-submitted-on-2022-04-19-2203330800">214: <a href="https://old.reddit.com/r/UkrainianConflict/comments/u75xah/how_ukraine_can_build_back_better_use_the/">How Ukraine Can Build Back Better: Use the Kremlin’s Seized Assets to Pay for Reconstruction</a>, submitted on 2022-04-19 22:03:33+08:00.</h3>
+
+<p>—– <strong>214.1</strong> —–2022-04-19 22:03:50+08:00:</p>
+
+<p>Find Foreign Affairs on Telegram: https://t.me/Foreign_Affairs_Magazine</p>
+
+<h3 id="215-how-ukraine-can-build-back-better-use-the-kremlins-seized-assets-to-pay-for-reconstruction-submitted-on-2022-04-19-2204250800">215: <a href="https://old.reddit.com/r/ukraine/comments/u75y06/how_ukraine_can_build_back_better_use_the/">How Ukraine Can Build Back Better: Use the Kremlin’s Seized Assets to Pay for Reconstruction</a>, submitted on 2022-04-19 22:04:25+08:00.</h3>
+
+<p>—– <strong>215.1</strong> —–2022-04-19 22:04:40+08:00:</p>
+
+<p>Find Foreign Affairs on Telegram: <a href="https://t.me/Foreign_Affairs_Magazine">https://t.me/Foreign_Affairs_Magazine</a></p>
+
+<h3 id="216-how-autocrats-endure-viktor-orban-and-the-myth-of-the-self-destructing-strongman-submitted-on-2022-04-19-2205560800">216: <a href="https://old.reddit.com/r/geopolitics/comments/u75z6b/how_autocrats_endure_viktor_orban_and_the_myth_of/">How Autocrats Endure: Viktor Orban and the Myth of the Self-Destructing Strongman</a>, submitted on 2022-04-19 22:05:56+08:00.</h3>
+
+<p>—– <strong>216.1</strong> —–2022-04-19 22:07:12+08:00:</p>
+
+<p>[SS from the article by Jan-Werner Mueller]</p>
+
+<p>“The Hungarian election—the first major vote in Europe since the war in Ukraine began—calls into question any facile assumptions about the limits of autocracy, even within the EU itself. Instead of weakening over time, Orban has carefully crafted a system that is apparently inoculated against democracy and smart enough to survive even in the face of policy blunders. International observers have focused on his government’s successive campaigns against refugees, George Soros, the European Union, and, as of late, the LGBTQ community. (After all, each time Orban faces election he has needed to conjure up a new existential threat to the nation.) But beyond these strategies, which are easy enough for other aspiring autocrats to copy, there is the more complex picture of how Orban, a trained lawyer who surrounds himself with other savvy jurists, has for so long kept up a façade of perfect legality—and even legitimacy—for his rule.”</p>
+
+<p>Find Foreign Affairs on Telegram: <a href="https://t.me/Foreign_Affairs_Magazine">https://t.me/Foreign_Affairs_Magazine</a></p>
+
+<h3 id="217-the-new-nuclear-age-how-chinas-growing-nuclear-arsenal-threatens-deterrence-submitted-on-2022-04-19-2209240800">217: <a href="https://old.reddit.com/r/TrueReddit/comments/u761v1/the_new_nuclear_age_how_chinas_growing_nuclear/">The New Nuclear Age: How China’s Growing Nuclear Arsenal Threatens Deterrence</a>, submitted on 2022-04-19 22:09:24+08:00.</h3>
+
+<p>—– <strong>217.1</strong> —–2022-04-19 22:10:29+08:00:</p>
+
+<p>[SS from the article by Andrew F. Krepinevich, Jr., Senior Fellow at the Hudson Institute and an Adjunct Senior Fellow at the Center for a New American Security.]</p>
+
+<p>“There is nothing the United States can do to prevent China from joining it and Russia as the world’s top nuclear powers, but there are things that U.S. strategists and defense planners can do to mitigate the consequences. For starters, Washington will need to modernize its nuclear deterrent. But it will also need to engage in new ways of thinking about the nuclear balance of power and how, in a far more complex strategic environment, it can maintain deterrence and keep the nuclear peace.”</p>
+
+<p>Find Foreign Affairs on Telegram: <a href="https://t.me/Foreign_Affairs_Magazine">https://t.me/Foreign_Affairs_Magazine</a></p>
+
+<h3 id="218-what-if-the-war-in-ukraine-doesnt-end-the-global-consequences-of-a-long-conflict-submitted-on-2022-04-20-2134500800">218: <a href="https://old.reddit.com/r/UkrainianConflict/comments/u7wnq4/what_if_the_war_in_ukraine_doesnt_end_the_global/">What If the War in Ukraine Doesn’t End?: The Global Consequences of a Long Conflict</a>, submitted on 2022-04-20 21:34:50+08:00.</h3>
+
+<p>—– <strong>218.1</strong> —–2022-04-20 21:35:16+08:00:</p>
+
+<p>Find Foreign Affairs on Telegram: <a href="https://t.me/Foreign_Affairs_Magazine">https://t.me/Foreign_Affairs_Magazine</a></p>
+
+<h3 id="219-what-if-the-war-in-ukraine-doesnt-end-the-global-consequences-of-a-long-conflict-submitted-on-2022-04-21-0304130800">219: <a href="https://old.reddit.com/r/TrueReddit/comments/u83umu/what_if_the_war_in_ukraine_doesnt_end_the_global/">What If the War in Ukraine Doesn’t End?: The Global Consequences of a Long Conflict</a>, submitted on 2022-04-21 03:04:13+08:00.</h3>
+
+<p>—– <strong>219.1</strong> —–2022-04-21 03:06:01+08:00:</p>
+
+<p>[SS from the article by Liana Fix and Michael Kimmage]</p>
+
+<p>“All wars end, and their closing moments are often vivid and memorable. Take, for instance, Confederate General Robert E. Lee’s surrender to Union General Ulysses S. Grant in April 1865, which brought an end to the U.S. Civil War. Or the armistice that terminated World War I, signed by Germany and the Allies in a train car near Paris in November 1918. Or the end of the Cold War, symbolized by the toppling of the Berlin Wall in November 1989 and, later, the lowering of the Soviet flag from the Kremlin on Christmas Day of 1991. These scenes loom large in the cultural imagination as decisive moments that provided the sense of a definitive ending.<br />
+But the spectacle around a war’s end can be misleading. The Confederate surrender at Appomattox Court House did not settle political or cultural tensions between the North and South, nor did it resolve the related racial prejudices and political differences, which lingered long after slavery had been abolished. The interwar period of the 1920s and 1930s in Europe was suffused with anxieties and tensions that culminated in another great war. The conclusion of World War II marked the dawn of the Cold War. And, despite the collapse of the Soviet Union, the Cold War may not have ended—it may still be ongoing, as the historian Stephen Kotkin recently argued in these pages.<br />
+In the Russian war in Ukraine, there may not be a discrete moment marking the war’s end—at least, not for some time. After eight weeks of war—far longer, seemingly, than either side anticipated—it is a real possibility that neither country will achieve what it wishes to achieve. Ukraine may not be able to expel Russian forces fully from the territory they have taken since Moscow launched its invasion in February. Russia is likely unable to achieve its main political objective: control over Ukraine. Instead of reaching a definite resolution, the war may well usher in a new era of conflict characterized by a cycle of Russian wars in Ukraine. If the war does not end any time soon, the crucial question is: Whose side is time on?”<br />
+Find Foreign Affairs on Telegram: <a href="https://t.me/Foreign_Affairs_Magazine">https://t.me/Foreign_Affairs_Magazine</a></p>
+
+<h3 id="220-the-return-of-statecraft-back-to-basics-in-the-post-american-world-submitted-on-2022-04-21-2131170800">220: <a href="https://old.reddit.com/r/geopolitics/comments/u8nqc8/the_return_of_statecraft_back_to_basics_in_the/">The Return of Statecraft: Back to Basics in the Post-American World</a>, submitted on 2022-04-21 21:31:17+08:00.</h3>
+
+<p>—– <strong>220.1</strong> —–2022-04-21 21:32:52+08:00:</p>
+
+<p>[SS from the article by Eliot A. Cohen, Professor at the Johns Hopkins University School of Advanced International Studies]</p>
+
+<p>“For the foreseeable future, the United States will remain powerful. Although China’s rise means that it may not have the world’s largest economy forever, it will certainly have the second-largest and possibly the most dynamic and globally connected one. It has one of the biggest and most experienced militaries on the planet, along with plentiful allies. Above all, the United States has a demonstrated resilience going back to its founding. It has been rent before, suffered grievous economic setbacks, and, time and again, bounced back.</p>
+
+<p>Nonetheless, relative decline is a fact. Historians will dissect why the age of American dominance ended when it did and whether its disappearance might have been delayed or mitigated. The question now, however, is how the United States should adjust to its changing position. The response will have many elements, but the most important is attitudinal. After decades of relying on big strategic ideas that are translated into policy by complex and arduous bureaucratic processes, the U.S. government must return to statecraft. This means an approach that embodies a fine-grained comprehension of the world, the ability to quickly detect and respond to challenges, a penchant for exploiting opportunities as they arise, and, behind all of this, effective institutions for the formulation and conduct of a nimble foreign policy.</p>
+
+<p>In the previous era, the United States was strong enough to get away with less-than-perfect implementation of its big ideas. Its unrivaled power granted it a wide margin of error, enough space so that Washington could get most of what it wanted, no matter what its level of competence. Today, when it is much harder for Washington to call the shots, the problems it faces demand not more abstruse strategies. They require something far earthier: skill.”</p>
+
+<p>Find Foreign Affairs on Telegram: <a href="https://t.me/Foreign_Affairs_Magazine">https://t.me/Foreign_Affairs_Magazine</a></p>
+
+<h3 id="221-the-chinese-way-of-innovation-what-washington-can-learn-from-beijing-about-investing-in-tech-submitted-on-2022-04-21-2135350800">221: <a href="https://old.reddit.com/r/China/comments/u8ntfr/the_chinese_way_of_innovation_what_washington_can/">The Chinese Way of Innovation: What Washington Can Learn From Beijing About Investing in Tech</a>, submitted on 2022-04-21 21:35:35+08:00.</h3>
+
+<p>—– <strong>221.1</strong> —–2022-04-21 21:35:48+08:00:</p>
+
+<p>Find Foreign Affairs on Telegram: <a href="https://t.me/Foreign_Affairs_Magazine">https://t.me/Foreign_Affairs_Magazine</a></p>
+
+<h3 id="222-the-chinese-way-of-innovation-what-washington-can-learn-from-beijing-about-investing-in-tech-submitted-on-2022-04-21-2141220800">222: <a href="https://old.reddit.com/r/TrueReddit/comments/u8nxsk/the_chinese_way_of_innovation_what_washington_can/">The Chinese Way of Innovation: What Washington Can Learn From Beijing About Investing in Tech</a>, submitted on 2022-04-21 21:41:22+08:00.</h3>
+
+<p>—– <strong>222.1</strong> —–2022-04-21 21:42:48+08:00:</p>
+
+<p>[SS from the article by Matt Sheehan, Fellow at the Carnegie Endowment for International Peace]</p>
+
+<p>“Over the past several years any complacency over U.S. technological superiority has evaporated. Business columns explaining China’s seeming inability to innovate have given way to op-eds warning that it is poised to surpass the United States in strategic technologies such as artificial intelligence and 5G. Policymakers in Washington who had long been content to leave technology up to Silicon Valley are now racing to find ways to bolster U.S. technological capabilities and counter Chinese progress. But making effective technology policy requires a clear understanding of how both countries got here, and what that means going forward.</p>
+
+<p>Traditional explanations for China’s rise have focused heavily on the stealing of intellectual property. Although that has played a role, allowing Chinese manufacturers to crank out imitations of specific products, it is overly simplistic to imagine that intellectual property theft alone explains China’s rapid progress. In fact, that misconception deludes American policymakers into believing that all that is required to preserve the United States’ technological edge is to cut off China’s access to emerging technologies. The roots of China’s technological takeoff are more complex, and formulating an effective U.S. policy response requires a solid grasp of emerging technologies and a degree of projective empathy—understanding how an ambitious Chinese bureaucrat is likely to view innovation and the range of tools available for encouraging it.”</p>
+
+<h3 id="223-ukraine-can-win-the-case-against-compromise-submitted-on-2022-04-22-2209200800">223: <a href="https://old.reddit.com/r/UkrainianConflict/comments/u9fkfj/ukraine_can_win_the_case_against_compromise/">Ukraine Can Win: The Case Against Compromise</a>, submitted on 2022-04-22 22:09:20+08:00.</h3>
+
+<p>—– <strong>223.1</strong> —–2022-04-22 22:11:24+08:00:</p>
+
+<p>Find Foreign Affairs on Telegram: <a href="https://t.me/Foreign_Affairs_Magazine">https://t.me/Foreign_Affairs_Magazine</a></p>
+
+<h3 id="224-ukraine-can-win-the-case-against-compromise-submitted-on-2022-04-22-2209570800">224: <a href="https://old.reddit.com/r/RussiaUkraineWar2022/comments/u9fkx4/ukraine_can_win_the_case_against_compromise/">Ukraine Can Win: The Case Against Compromise</a>, submitted on 2022-04-22 22:09:57+08:00.</h3>
+
+<p>—– <strong>224.1</strong> —–2022-04-22 22:10:53+08:00:</p>
+
+<p>Find Foreign Affairs on Telegram: <a href="https://t.me/Foreign_Affairs_Magazine">https://t.me/Foreign_Affairs_Magazine</a></p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-04-24</time>
+        <a href="https://nodebe4.github.io/opinion/2022-04-24/EnclavedMicrostate/">
+          EnclavedMicrostate在2022-04-18~2022-04-24的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-04-23</time>
+        <a href="https://nodebe4.github.io/opinion/2022-04-23/Spinkcat/">
+          Spinkcat在2022-04-18~2022-04-24的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-04-17</time>
+        <a href="https://nodebe4.github.io/opinion/2022-04-17/Spinkcat/">
+          Spinkcat在2022-04-11~2022-04-17的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-04-17</time>
+        <a href="https://nodebe4.github.io/opinion/2022-04-17/EnclavedMicrostate/">
+          EnclavedMicrostate在2022-04-11~2022-04-17的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-04-21/%E4%B8%8A%E6%B5%B7%E6%9B%BE%E7%BB%8F%E7%9A%84%E7%8B%AC%E7%AB%8B%E4%B9%A6%E5%BA%97%E5%AD%A3%E9%A3%8E%E4%B9%A6%E5%9B%AD%E8%87%AA1997%E5%B9%B4%E5%88%9B%E5%8A%9E-%E8%87%B32017%E5%B9%B4%E8%A2%AB-%E5%AE%98%E6%96%B9%E5%B9%B2%E9%A2%84%E5%85%B3%E9%97%A8-%E6%83%9F%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E6%8C%81%E7%BB%AD%E8%BF%90%E4%BD%9C-%E5%89%8D%E6%97%A5/">
+            前一篇：上海曾经的独立书店季风书园自1997年创办，至2017年被 官方干预关门，惟微信公众号持续运作。前日（20日）该公众号发布文章《上海市民今天说“不”》（backup）
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-04-22/%E4%BB%80%E4%B9%88%E6%98%AF%E7%94%B7%E6%80%A7%E4%B8%AD%E5%BF%83%E4%B8%BB%E4%B9%89/">
+            後一篇：什么是男性中心主义
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-04-21/%E4%B8%8A%E6%B5%B7%E6%9B%BE%E7%BB%8F%E7%9A%84%E7%8B%AC%E7%AB%8B%E4%B9%A6%E5%BA%97%E5%AD%A3%E9%A3%8E%E4%B9%A6%E5%9B%AD%E8%87%AA1997%E5%B9%B4%E5%88%9B%E5%8A%9E-%E8%87%B32017%E5%B9%B4%E8%A2%AB-%E5%AE%98%E6%96%B9%E5%B9%B2%E9%A2%84%E5%85%B3%E9%97%A8-%E6%83%9F%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E6%8C%81%E7%BB%AD%E8%BF%90%E4%BD%9C-%E5%89%8D%E6%97%A5/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-04-22/%E4%BB%80%E4%B9%88%E6%98%AF%E7%94%B7%E6%80%A7%E4%B8%AD%E5%BF%83%E4%B8%BB%E4%B9%89/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-04-23/Spinkcat/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-04-17/Spinkcat/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-04-21/%E4%B8%8A%E6%B5%B7%E6%9B%BE%E7%BB%8F%E7%9A%84%E7%8B%AC%E7%AB%8B%E4%B9%A6%E5%BA%97%E5%AD%A3%E9%A3%8E%E4%B9%A6%E5%9B%AD%E8%87%AA1997%E5%B9%B4%E5%88%9B%E5%8A%9E-%E8%87%B32017%E5%B9%B4%E8%A2%AB-%E5%AE%98%E6%96%B9%E5%B9%B2%E9%A2%84%E5%85%B3%E9%97%A8-%E6%83%9F%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E6%8C%81%E7%BB%AD%E8%BF%90%E4%BD%9C-%E5%89%8D%E6%97%A5/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-04-22/%E4%BB%80%E4%B9%88%E6%98%AF%E7%94%B7%E6%80%A7%E4%B8%AD%E5%BF%83%E4%B8%BB%E4%B9%89/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-04-23/Spinkcat/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-04-17/Spinkcat/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

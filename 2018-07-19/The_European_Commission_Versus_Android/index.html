@@ -1,0 +1,3396 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>The European Commission Versus Android – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+  
+     The European Commission Versus Android 
+    
+  Posted on             Thursday, July 19, 2018 
+            Monday, July 23, 2018 
+     Author  by  Ben Thompson   
+    
+    
+  
+  
+  
+    To understand how Google ended up with a €4.3 billion fine and a 90-day deadline to change its business practices around Android, it is critical to keep one date in mind: July 2005.  1  That was when Google acquired a still in-development mobile operating system called Android, and to put the acquisition in context, Steve Jobs was,  at least publicly  , “not convinced people want to watch movies on a tiny little screen”. He was, of course, referring to the iPod; Apple would go on to release an iPod with video playback a few months later, but the iPhone was still a year-and-a-half away from being revealed.
+    In other words, Android, at least at the beginning, wasn’t a response to Apple;  2  the real target was Microsoft (and to a lesser extent Blackberry), which seemed poised to dominate smartphones just as they had the desktop. That was an untenable situation for Google; then Vice-President of Product Management Sundar Pichai wrote  on the Google Public Policy blog  about the company’s challenges on PCs:
+    
+      Google believes that the browser market is still largely uncompetitive, which holds back innovation for users. This is because Internet Explorer is tied to Microsoft’s dominant computer operating system, giving it an unfair advantage over other browsers. Compare this to the mobile market, where Microsoft cannot tie Internet Explorer to a dominant operating system, and its browser therefore has a much lower usage.
+    
+    What mattered to Google was access to end users: that is what makes the  Aggregation flywheel  turn. On PCs the company had succeeded through a combination of flat-out being better, the fact that it was very simple to visit a new URL (and make it your homepage), and deals with OEMs to set Google as the homepage from the beginning. All would be more difficult to achieve on mobile, at least mobile as it was understood in 2005: applications were notoriously difficult to find and install, and Microsoft and Blackberry had locked down their operating systems to a much greater extent than Microsoft had on the PC.
+    Thus the Android gambit: Google decided to take on Microsoft directly in mobile operating systems, and its most powerful tool would not be the quality of the operating system, but the business model. To that end, while Google did, naturally,  retool Android’s user interface  once the iPhone was announced, the business model remained Microsoft kryptonite: whereas Microsoft charged a per-device licensing fee, just as it had with Windows, Android would not only be free and open-source, Google would actually share search revenue derived from Android with OEMs that installed the operating system.
+    Of course Android also ended up being a much better experience than Windows Mobile in the post-iPhone world, and the deal was irresistible to OEMs flailing for a response to the iPhone: get a (somewhat) comparable (sort-of) touch-based operating system for free, and even make money after the initial sale! Indeed, not only did Android effectively kill Microsoft’s mobile efforts, it went on to take over the world via a massive ecosystem of device makers and mobile carriers that competed to drive down costs and increase distribution.
+     Android’s Success 
+    That Android increases competition was the focus of Pichai’s — now the CEO of Google —  latest blog post  in response to the ruling:
+    
+      Today, the European Commission issued a competition decision against Android, and its business model. The decision ignores the fact that Android phones compete with iOS phones, something that 89 percent of respondents to the Commission’s own market survey confirmed. It also misses just how much choice Android provides to thousands of phone makers and mobile network operators who build and sell Android devices; to millions of app developers around the world who have built their businesses with Android; and billions of consumers who can now afford and use cutting-edge Android smartphones. Today, because of Android, there are more than 24,000 devices, at every price point, from more than 1,300 different brands…
+    
+    What Pichai doesn’t say is that this competition is not so much a feature as it was the point: open-sourcing Android commoditized smartphone development meaning anyone could enter, even as few were in a position to profit over time. That included Google, at least at the beginning, which was by design: remember, the point of Android was not to make money like Windows, it was to stop Windows or any other operating system from getting between Google and users. Venture capitalist Bill Gurley explained in a 2011 post entitled  The Freight Train That Is Android  :
+    
+      Android, as well as Chrome and Chrome OS for that matter, are not “products” in the classic business sense. They have no plan to become their own “economic castles.” Rather they are very expensive and very aggressive “moats,” funded by the height and magnitude of Google’s castle [(search advertising)]. Google’s aim is defensive not offensive. They are not trying to make a profit on Android or Chrome. They want to take any layer that lives between themselves and the consumer and make it free (or even less than free). Because these layers are basically software products with no variable costs, this is a very viable defensive strategy. In essence, they are not just building a moat; Google is also scorching the earth for 250 miles around the outside of the castle to ensure no one can approach it. And best I can tell, they are doing a damn good job of it.
+    
+    Indeed they were, but the strategy had a built-in problem: Android was, well, open source, and just as that helped Android spread, it could just as easily be forked into an initially compatible operating system that didn’t connect to Google’s services — the castle that Google was trying to protect all along. Google needed a wall for its moat, and found one in the Google Play Store.
+     The Google Play Store and Google Play Services 
+    The Google Play Store, not unlike Android’s user interface, was a response to the iPhone, specifically the highly successful launch of the App Store in 2008. And while the Play Store often lagged the App Store when it came to cutting-edge apps, particularly in the early days, it quickly became one of Google’s most valuable services, both in terms of making Android useful as well as making Google money.
+    Note, though, that the Play Store is 
+    not
+    a part of Android: it has always been closed-source and exclusive to Google’s version of Android, just like other Google services like Gmail, Maps, and YouTube. The problem Google had with all of those apps, though, was that they were updated with the operating system, and OEMs and carriers — who only made money when a device was initially sold — were not particularly incentivized to update the operating system.
+    Google’s solution was Google Play Services; first released in 2010 as a part of Android 2.2 Froyo, Google Play Services was distributed via the Play Store and provided an easily updatable API layer that would, in the initial version, allow Google to update its own apps independent of operating system updates. It was an elegant solution to a real problem inherent in the free-wheeling model Google had taken for Android distribution: widespread fragmentation. Soon all of Google’s apps were built on top of Google Play Services, and then, in 2012, Google started opening it up to developers.
+    The initial version was quite modest; here is the  announcement on Google+  :
+    
+      At Google I/O we announced a preview of Google Play services, a new development platform for developers who want to integrate Google services into their apps. Today, we’re kicking off the full launch of Google Play services v1.0, which includes Google+ APIs and new OAuth 2.0 functionality. The rollout will cover all users on Android 2.2+ devices running the latest version of the Google Play store.
+    
+    Over the next several years, though, Google devoted more and more of its effort — and its most interesting APIs, like location and maps and gaming services — to Google Play Services; meanwhile, whatever equivalent service was in the open-source version of Android was effectively frozen in time. The net result is incredibly significant to teasing out this case: Google Play Services silently shifted ever more apps from Android apps to Google Play apps; today, no Google app will function on open-source Android without extensive reworking, and the same applies to ever more 3rd-party apps as well.
+    That noted, it is hard, in my estimation, to see this as being an antitrust violation. The fact of the matter is that Google was addressing a legitimate problem in the Android ecosystem, and the company didn’t make any developer use Google Play Services APIs instead of the more basic ones still available even today.
+     The European Commission Case 
+    The European Commission found Google guilty of breaching EU antitrust rules in three ways:
+    
+      Illegally tying Google’s search and browser apps to the Google Play Store; to get the Google Play Store and thus a full complement of apps, OEMs have to pre-install Google search and Chrome and make them available within one screen of the home page.
+      Illegally paying OEMs to exclusively pre-install Google Search on every Android device they made.
+      Illegally barring OEMs that installed Google’s apps from selling any device that ran an Android fork.
+    
+    Taken in isolation, these seem to run from least problematic to most problematic.
+    
+      The Google Play Store has always been an exclusive Google app; it seems that Google ought to be able to distribute it exclusively as part of a bundle if it so chooses.
+      Pinning all revenue from Google Search to exclusivity on all devices quite obviously makes it very difficult for alternative search services to build share (as they lack access to pre-installs, one of the most effective channels for customer acquisition); this seems to be more of a Google Search dominance issue than an Android dominance issue though.
+      Predicating the availability of any of Google’s apps, including the Google Play Store, on OEMs 
+     not
+     taking advantage of the open source nature of Android on devices that will not include Google apps seems much more problematic than Google insisting its apps be distributed in a bundle. The latter is Google’s prerogative; the former is dictating OEM actions just because Google can.
+    
+    This is where the history of Android matters; before Google Play Services, the primary challenge in building a competitive fork of Android would have been convincing developers to upload their apps to a new app store (since Google would obviously not want to put its apps, including the Play Store, on said fork). That fork, though, never materialized because of Google’s contractual terms barring OEMs from selling any devices built on such a fork.
+    Today the situation is very different: that contractual limitation could go away tomorrow (or, more accurately, in 90 days), and it wouldn’t really matter because, as I explained above, many apps are no longer Android apps but are rather Google Play apps. To run on an Android fork is by no means impossible, but most would require more rework than simply uploading to a new App Store.
+    In short, in my estimation the real antitrust issue is Google contractually foreclosing OEMs from selling devices with non-Google versions of Android; the only way to undo that harm in 2018, though, would be to make Google Play Services available to any Android fork.
+     The Commission’s Remedies 
+    To be sure, that’s not exactly what the European Commission ordered (in fact, “Google Play Services” does not appear a single time in the press release); the Commission seems to feel that the three issues do stand alone. That means that Google has to respond to each individually:
+    
+      Google has to untie the Play Store from Search and the Chrome browser
+      Google has already stopped paying OEMs for portfolio-wide search exclusivity
+      Google can no longer stop OEMs from selling devices with Android forks
+    
+    The most momentous by far is the first (despite the fact it is the weakest allegation, in my estimation). Samsung, or any other OEM, could in 90 days sell a device with Bing search only and the Google Play Store (where of course Google Search could be downloaded). This will likely accrue to consumers’ benefit: Microsoft, Google, and other providers will soon be bidding to be the default search option, and, given the commoditized nature of Android devices, it is likely that most of what they are willing to pay will go towards lower prices.
+    Still, it is an unsatisfying remedy: Google built Android for the express purpose of monetizing search, and to be denied that by regulatory edict feels off; Google, though, bears a lot of the blame for going too far with its contracts.
+    More broadly, the European Commission continues to be a bit too cavalier about denying companies — well, Google, mostly — the right to monetize the products they spend billions of dollars at significant risk to develop; this was  my chief objection to last year’s Google Shopping case  . In this case I narrowly come down on the Commission’s side almost by accident: I think Google acted illegally by contractually foreclosing Android competitors at a time when it might have made a difference, but I am concerned that the Commission’s publicly released reasoning doesn’t seem to grasp exactly how Android has developed, the choices Google made, and why.
+    That noted, I highly doubt Google would do anything differently: when it comes to the company’s goals, Android could not be a bigger success — if anything, this ruling is evidence of just how successful the product was.
+    
+      The exact date of the acquisition is unknown [  ↩  ]
+      For those wondering, then-Google CEO Eric Schmidt didn’t join Apple’s Board of Directors until August 2006 [  ↩  ]
+    
+    
+      
+         Share 
+        
+          
+              Facebook  
+              Twitter  
+              LinkedIn  
+              Email  
+            
+          
+        
+      
+    
+    
+       
+     Related
+     
+    
+  
+  
+
+" />
+    <meta property="og:description" content="
+  
+     The European Commission Versus Android 
+    
+  Posted on             Thursday, July 19, 2018 
+            Monday, July 23, 2018 
+     Author  by  Ben Thompson   
+    
+    
+  
+  
+  
+    To understand how Google ended up with a €4.3 billion fine and a 90-day deadline to change its business practices around Android, it is critical to keep one date in mind: July 2005.  1  That was when Google acquired a still in-development mobile operating system called Android, and to put the acquisition in context, Steve Jobs was,  at least publicly  , “not convinced people want to watch movies on a tiny little screen”. He was, of course, referring to the iPod; Apple would go on to release an iPod with video playback a few months later, but the iPhone was still a year-and-a-half away from being revealed.
+    In other words, Android, at least at the beginning, wasn’t a response to Apple;  2  the real target was Microsoft (and to a lesser extent Blackberry), which seemed poised to dominate smartphones just as they had the desktop. That was an untenable situation for Google; then Vice-President of Product Management Sundar Pichai wrote  on the Google Public Policy blog  about the company’s challenges on PCs:
+    
+      Google believes that the browser market is still largely uncompetitive, which holds back innovation for users. This is because Internet Explorer is tied to Microsoft’s dominant computer operating system, giving it an unfair advantage over other browsers. Compare this to the mobile market, where Microsoft cannot tie Internet Explorer to a dominant operating system, and its browser therefore has a much lower usage.
+    
+    What mattered to Google was access to end users: that is what makes the  Aggregation flywheel  turn. On PCs the company had succeeded through a combination of flat-out being better, the fact that it was very simple to visit a new URL (and make it your homepage), and deals with OEMs to set Google as the homepage from the beginning. All would be more difficult to achieve on mobile, at least mobile as it was understood in 2005: applications were notoriously difficult to find and install, and Microsoft and Blackberry had locked down their operating systems to a much greater extent than Microsoft had on the PC.
+    Thus the Android gambit: Google decided to take on Microsoft directly in mobile operating systems, and its most powerful tool would not be the quality of the operating system, but the business model. To that end, while Google did, naturally,  retool Android’s user interface  once the iPhone was announced, the business model remained Microsoft kryptonite: whereas Microsoft charged a per-device licensing fee, just as it had with Windows, Android would not only be free and open-source, Google would actually share search revenue derived from Android with OEMs that installed the operating system.
+    Of course Android also ended up being a much better experience than Windows Mobile in the post-iPhone world, and the deal was irresistible to OEMs flailing for a response to the iPhone: get a (somewhat) comparable (sort-of) touch-based operating system for free, and even make money after the initial sale! Indeed, not only did Android effectively kill Microsoft’s mobile efforts, it went on to take over the world via a massive ecosystem of device makers and mobile carriers that competed to drive down costs and increase distribution.
+     Android’s Success 
+    That Android increases competition was the focus of Pichai’s — now the CEO of Google —  latest blog post  in response to the ruling:
+    
+      Today, the European Commission issued a competition decision against Android, and its business model. The decision ignores the fact that Android phones compete with iOS phones, something that 89 percent of respondents to the Commission’s own market survey confirmed. It also misses just how much choice Android provides to thousands of phone makers and mobile network operators who build and sell Android devices; to millions of app developers around the world who have built their businesses with Android; and billions of consumers who can now afford and use cutting-edge Android smartphones. Today, because of Android, there are more than 24,000 devices, at every price point, from more than 1,300 different brands…
+    
+    What Pichai doesn’t say is that this competition is not so much a feature as it was the point: open-sourcing Android commoditized smartphone development meaning anyone could enter, even as few were in a position to profit over time. That included Google, at least at the beginning, which was by design: remember, the point of Android was not to make money like Windows, it was to stop Windows or any other operating system from getting between Google and users. Venture capitalist Bill Gurley explained in a 2011 post entitled  The Freight Train That Is Android  :
+    
+      Android, as well as Chrome and Chrome OS for that matter, are not “products” in the classic business sense. They have no plan to become their own “economic castles.” Rather they are very expensive and very aggressive “moats,” funded by the height and magnitude of Google’s castle [(search advertising)]. Google’s aim is defensive not offensive. They are not trying to make a profit on Android or Chrome. They want to take any layer that lives between themselves and the consumer and make it free (or even less than free). Because these layers are basically software products with no variable costs, this is a very viable defensive strategy. In essence, they are not just building a moat; Google is also scorching the earth for 250 miles around the outside of the castle to ensure no one can approach it. And best I can tell, they are doing a damn good job of it.
+    
+    Indeed they were, but the strategy had a built-in problem: Android was, well, open source, and just as that helped Android spread, it could just as easily be forked into an initially compatible operating system that didn’t connect to Google’s services — the castle that Google was trying to protect all along. Google needed a wall for its moat, and found one in the Google Play Store.
+     The Google Play Store and Google Play Services 
+    The Google Play Store, not unlike Android’s user interface, was a response to the iPhone, specifically the highly successful launch of the App Store in 2008. And while the Play Store often lagged the App Store when it came to cutting-edge apps, particularly in the early days, it quickly became one of Google’s most valuable services, both in terms of making Android useful as well as making Google money.
+    Note, though, that the Play Store is 
+    not
+    a part of Android: it has always been closed-source and exclusive to Google’s version of Android, just like other Google services like Gmail, Maps, and YouTube. The problem Google had with all of those apps, though, was that they were updated with the operating system, and OEMs and carriers — who only made money when a device was initially sold — were not particularly incentivized to update the operating system.
+    Google’s solution was Google Play Services; first released in 2010 as a part of Android 2.2 Froyo, Google Play Services was distributed via the Play Store and provided an easily updatable API layer that would, in the initial version, allow Google to update its own apps independent of operating system updates. It was an elegant solution to a real problem inherent in the free-wheeling model Google had taken for Android distribution: widespread fragmentation. Soon all of Google’s apps were built on top of Google Play Services, and then, in 2012, Google started opening it up to developers.
+    The initial version was quite modest; here is the  announcement on Google+  :
+    
+      At Google I/O we announced a preview of Google Play services, a new development platform for developers who want to integrate Google services into their apps. Today, we’re kicking off the full launch of Google Play services v1.0, which includes Google+ APIs and new OAuth 2.0 functionality. The rollout will cover all users on Android 2.2+ devices running the latest version of the Google Play store.
+    
+    Over the next several years, though, Google devoted more and more of its effort — and its most interesting APIs, like location and maps and gaming services — to Google Play Services; meanwhile, whatever equivalent service was in the open-source version of Android was effectively frozen in time. The net result is incredibly significant to teasing out this case: Google Play Services silently shifted ever more apps from Android apps to Google Play apps; today, no Google app will function on open-source Android without extensive reworking, and the same applies to ever more 3rd-party apps as well.
+    That noted, it is hard, in my estimation, to see this as being an antitrust violation. The fact of the matter is that Google was addressing a legitimate problem in the Android ecosystem, and the company didn’t make any developer use Google Play Services APIs instead of the more basic ones still available even today.
+     The European Commission Case 
+    The European Commission found Google guilty of breaching EU antitrust rules in three ways:
+    
+      Illegally tying Google’s search and browser apps to the Google Play Store; to get the Google Play Store and thus a full complement of apps, OEMs have to pre-install Google search and Chrome and make them available within one screen of the home page.
+      Illegally paying OEMs to exclusively pre-install Google Search on every Android device they made.
+      Illegally barring OEMs that installed Google’s apps from selling any device that ran an Android fork.
+    
+    Taken in isolation, these seem to run from least problematic to most problematic.
+    
+      The Google Play Store has always been an exclusive Google app; it seems that Google ought to be able to distribute it exclusively as part of a bundle if it so chooses.
+      Pinning all revenue from Google Search to exclusivity on all devices quite obviously makes it very difficult for alternative search services to build share (as they lack access to pre-installs, one of the most effective channels for customer acquisition); this seems to be more of a Google Search dominance issue than an Android dominance issue though.
+      Predicating the availability of any of Google’s apps, including the Google Play Store, on OEMs 
+     not
+     taking advantage of the open source nature of Android on devices that will not include Google apps seems much more problematic than Google insisting its apps be distributed in a bundle. The latter is Google’s prerogative; the former is dictating OEM actions just because Google can.
+    
+    This is where the history of Android matters; before Google Play Services, the primary challenge in building a competitive fork of Android would have been convincing developers to upload their apps to a new app store (since Google would obviously not want to put its apps, including the Play Store, on said fork). That fork, though, never materialized because of Google’s contractual terms barring OEMs from selling any devices built on such a fork.
+    Today the situation is very different: that contractual limitation could go away tomorrow (or, more accurately, in 90 days), and it wouldn’t really matter because, as I explained above, many apps are no longer Android apps but are rather Google Play apps. To run on an Android fork is by no means impossible, but most would require more rework than simply uploading to a new App Store.
+    In short, in my estimation the real antitrust issue is Google contractually foreclosing OEMs from selling devices with non-Google versions of Android; the only way to undo that harm in 2018, though, would be to make Google Play Services available to any Android fork.
+     The Commission’s Remedies 
+    To be sure, that’s not exactly what the European Commission ordered (in fact, “Google Play Services” does not appear a single time in the press release); the Commission seems to feel that the three issues do stand alone. That means that Google has to respond to each individually:
+    
+      Google has to untie the Play Store from Search and the Chrome browser
+      Google has already stopped paying OEMs for portfolio-wide search exclusivity
+      Google can no longer stop OEMs from selling devices with Android forks
+    
+    The most momentous by far is the first (despite the fact it is the weakest allegation, in my estimation). Samsung, or any other OEM, could in 90 days sell a device with Bing search only and the Google Play Store (where of course Google Search could be downloaded). This will likely accrue to consumers’ benefit: Microsoft, Google, and other providers will soon be bidding to be the default search option, and, given the commoditized nature of Android devices, it is likely that most of what they are willing to pay will go towards lower prices.
+    Still, it is an unsatisfying remedy: Google built Android for the express purpose of monetizing search, and to be denied that by regulatory edict feels off; Google, though, bears a lot of the blame for going too far with its contracts.
+    More broadly, the European Commission continues to be a bit too cavalier about denying companies — well, Google, mostly — the right to monetize the products they spend billions of dollars at significant risk to develop; this was  my chief objection to last year’s Google Shopping case  . In this case I narrowly come down on the Commission’s side almost by accident: I think Google acted illegally by contractually foreclosing Android competitors at a time when it might have made a difference, but I am concerned that the Commission’s publicly released reasoning doesn’t seem to grasp exactly how Android has developed, the choices Google made, and why.
+    That noted, I highly doubt Google would do anything differently: when it comes to the company’s goals, Android could not be a bigger success — if anything, this ruling is evidence of just how successful the product was.
+    
+      The exact date of the acquisition is unknown [  ↩  ]
+      For those wondering, then-Google CEO Eric Schmidt didn’t join Apple’s Board of Directors until August 2006 [  ↩  ]
+    
+    
+      
+         Share 
+        
+          
+              Facebook  
+              Twitter  
+              LinkedIn  
+              Email  
+            
+          
+        
+      
+    
+    
+       
+     Related
+     
+    
+  
+  
+
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="The European Commission Versus Android" />
+    <meta property="twitter:title" content="The European Commission Versus Android" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2018%2Fthe-european-commission-versus-android%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2018/the-european-commission-versus-android/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2018/the-european-commission-versus-android/&text=The European Commission Versus Android&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2018/the-european-commission-versus-android/&title=The European Commission Versus Android" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2018/the-european-commission-versus-android/&title=The European Commission Versus Android" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=The European Commission Versus Android&body=
+  
+     The European Commission Versus Android 
+    
+  Posted on             Thursday, July 19, 2018 
+            Monday, July 23, 2018 
+     Author  by  Ben Thompson   
+    
+    
+  
+  
+  
+    To understand how Google ended up with a €4.3 billion fine and a 90-day deadline to change its business practices around Android, it is critical to keep one date in mind: July 2005.  1  That was when Google acquired a still in-development mobile operating system called Android, and to put the acquisition in context, Steve Jobs was,  at least publicly  , “not convinced people want to watch movies on a tiny little screen”. He was, of course, referring to the iPod; Apple would go on to release an iPod with video playback a few months later, but the iPhone was still a year-and-a-half away from being revealed.
+    In other words, Android, at least at the beginning, wasn’t a response to Apple;  2  the real target was Microsoft (and to a lesser extent Blackberry), which seemed poised to dominate smartphones just as they had the desktop. That was an untenable situation for Google; then Vice-President of Product Management Sundar Pichai wrote  on the Google Public Policy blog  about the company’s challenges on PCs:
+    
+      Google believes that the browser market is still largely uncompetitive, which holds back innovation for users. This is because Internet Explorer is tied to Microsoft’s dominant computer operating system, giving it an unfair advantage over other browsers. Compare this to the mobile market, where Microsoft cannot tie Internet Explorer to a dominant operating system, and its browser therefore has a much lower usage.
+    
+    What mattered to Google was access to end users: that is what makes the  Aggregation flywheel  turn. On PCs the company had succeeded through a combination of flat-out being better, the fact that it was very simple to visit a new URL (and make it your homepage), and deals with OEMs to set Google as the homepage from the beginning. All would be more difficult to achieve on mobile, at least mobile as it was understood in 2005: applications were notoriously difficult to find and install, and Microsoft and Blackberry had locked down their operating systems to a much greater extent than Microsoft had on the PC.
+    Thus the Android gambit: Google decided to take on Microsoft directly in mobile operating systems, and its most powerful tool would not be the quality of the operating system, but the business model. To that end, while Google did, naturally,  retool Android’s user interface  once the iPhone was announced, the business model remained Microsoft kryptonite: whereas Microsoft charged a per-device licensing fee, just as it had with Windows, Android would not only be free and open-source, Google would actually share search revenue derived from Android with OEMs that installed the operating system.
+    Of course Android also ended up being a much better experience than Windows Mobile in the post-iPhone world, and the deal was irresistible to OEMs flailing for a response to the iPhone: get a (somewhat) comparable (sort-of) touch-based operating system for free, and even make money after the initial sale! Indeed, not only did Android effectively kill Microsoft’s mobile efforts, it went on to take over the world via a massive ecosystem of device makers and mobile carriers that competed to drive down costs and increase distribution.
+     Android’s Success 
+    That Android increases competition was the focus of Pichai’s — now the CEO of Google —  latest blog post  in response to the ruling:
+    
+      Today, the European Commission issued a competition decision against Android, and its business model. The decision ignores the fact that Android phones compete with iOS phones, something that 89 percent of respondents to the Commission’s own market survey confirmed. It also misses just how much choice Android provides to thousands of phone makers and mobile network operators who build and sell Android devices; to millions of app developers around the world who have built their businesses with Android; and billions of consumers who can now afford and use cutting-edge Android smartphones. Today, because of Android, there are more than 24,000 devices, at every price point, from more than 1,300 different brands…
+    
+    What Pichai doesn’t say is that this competition is not so much a feature as it was the point: open-sourcing Android commoditized smartphone development meaning anyone could enter, even as few were in a position to profit over time. That included Google, at least at the beginning, which was by design: remember, the point of Android was not to make money like Windows, it was to stop Windows or any other operating system from getting between Google and users. Venture capitalist Bill Gurley explained in a 2011 post entitled  The Freight Train That Is Android  :
+    
+      Android, as well as Chrome and Chrome OS for that matter, are not “products” in the classic business sense. They have no plan to become their own “economic castles.” Rather they are very expensive and very aggressive “moats,” funded by the height and magnitude of Google’s castle [(search advertising)]. Google’s aim is defensive not offensive. They are not trying to make a profit on Android or Chrome. They want to take any layer that lives between themselves and the consumer and make it free (or even less than free). Because these layers are basically software products with no variable costs, this is a very viable defensive strategy. In essence, they are not just building a moat; Google is also scorching the earth for 250 miles around the outside of the castle to ensure no one can approach it. And best I can tell, they are doing a damn good job of it.
+    
+    Indeed they were, but the strategy had a built-in problem: Android was, well, open source, and just as that helped Android spread, it could just as easily be forked into an initially compatible operating system that didn’t connect to Google’s services — the castle that Google was trying to protect all along. Google needed a wall for its moat, and found one in the Google Play Store.
+     The Google Play Store and Google Play Services 
+    The Google Play Store, not unlike Android’s user interface, was a response to the iPhone, specifically the highly successful launch of the App Store in 2008. And while the Play Store often lagged the App Store when it came to cutting-edge apps, particularly in the early days, it quickly became one of Google’s most valuable services, both in terms of making Android useful as well as making Google money.
+    Note, though, that the Play Store is 
+    not
+    a part of Android: it has always been closed-source and exclusive to Google’s version of Android, just like other Google services like Gmail, Maps, and YouTube. The problem Google had with all of those apps, though, was that they were updated with the operating system, and OEMs and carriers — who only made money when a device was initially sold — were not particularly incentivized to update the operating system.
+    Google’s solution was Google Play Services; first released in 2010 as a part of Android 2.2 Froyo, Google Play Services was distributed via the Play Store and provided an easily updatable API layer that would, in the initial version, allow Google to update its own apps independent of operating system updates. It was an elegant solution to a real problem inherent in the free-wheeling model Google had taken for Android distribution: widespread fragmentation. Soon all of Google’s apps were built on top of Google Play Services, and then, in 2012, Google started opening it up to developers.
+    The initial version was quite modest; here is the  announcement on Google+  :
+    
+      At Google I/O we announced a preview of Google Play services, a new development platform for developers who want to integrate Google services into their apps. Today, we’re kicking off the full launch of Google Play services v1.0, which includes Google+ APIs and new OAuth 2.0 functionality. The rollout will cover all users on Android 2.2+ devices running the latest version of the Google Play store.
+    
+    Over the next several years, though, Google devoted more and more of its effort — and its most interesting APIs, like location and maps and gaming services — to Google Play Services; meanwhile, whatever equivalent service was in the open-source version of Android was effectively frozen in time. The net result is incredibly significant to teasing out this case: Google Play Services silently shifted ever more apps from Android apps to Google Play apps; today, no Google app will function on open-source Android without extensive reworking, and the same applies to ever more 3rd-party apps as well.
+    That noted, it is hard, in my estimation, to see this as being an antitrust violation. The fact of the matter is that Google was addressing a legitimate problem in the Android ecosystem, and the company didn’t make any developer use Google Play Services APIs instead of the more basic ones still available even today.
+     The European Commission Case 
+    The European Commission found Google guilty of breaching EU antitrust rules in three ways:
+    
+      Illegally tying Google’s search and browser apps to the Google Play Store; to get the Google Play Store and thus a full complement of apps, OEMs have to pre-install Google search and Chrome and make them available within one screen of the home page.
+      Illegally paying OEMs to exclusively pre-install Google Search on every Android device they made.
+      Illegally barring OEMs that installed Google’s apps from selling any device that ran an Android fork.
+    
+    Taken in isolation, these seem to run from least problematic to most problematic.
+    
+      The Google Play Store has always been an exclusive Google app; it seems that Google ought to be able to distribute it exclusively as part of a bundle if it so chooses.
+      Pinning all revenue from Google Search to exclusivity on all devices quite obviously makes it very difficult for alternative search services to build share (as they lack access to pre-installs, one of the most effective channels for customer acquisition); this seems to be more of a Google Search dominance issue than an Android dominance issue though.
+      Predicating the availability of any of Google’s apps, including the Google Play Store, on OEMs 
+     not
+     taking advantage of the open source nature of Android on devices that will not include Google apps seems much more problematic than Google insisting its apps be distributed in a bundle. The latter is Google’s prerogative; the former is dictating OEM actions just because Google can.
+    
+    This is where the history of Android matters; before Google Play Services, the primary challenge in building a competitive fork of Android would have been convincing developers to upload their apps to a new app store (since Google would obviously not want to put its apps, including the Play Store, on said fork). That fork, though, never materialized because of Google’s contractual terms barring OEMs from selling any devices built on such a fork.
+    Today the situation is very different: that contractual limitation could go away tomorrow (or, more accurately, in 90 days), and it wouldn’t really matter because, as I explained above, many apps are no longer Android apps but are rather Google Play apps. To run on an Android fork is by no means impossible, but most would require more rework than simply uploading to a new App Store.
+    In short, in my estimation the real antitrust issue is Google contractually foreclosing OEMs from selling devices with non-Google versions of Android; the only way to undo that harm in 2018, though, would be to make Google Play Services available to any Android fork.
+     The Commission’s Remedies 
+    To be sure, that’s not exactly what the European Commission ordered (in fact, “Google Play Services” does not appear a single time in the press release); the Commission seems to feel that the three issues do stand alone. That means that Google has to respond to each individually:
+    
+      Google has to untie the Play Store from Search and the Chrome browser
+      Google has already stopped paying OEMs for portfolio-wide search exclusivity
+      Google can no longer stop OEMs from selling devices with Android forks
+    
+    The most momentous by far is the first (despite the fact it is the weakest allegation, in my estimation). Samsung, or any other OEM, could in 90 days sell a device with Bing search only and the Google Play Store (where of course Google Search could be downloaded). This will likely accrue to consumers’ benefit: Microsoft, Google, and other providers will soon be bidding to be the default search option, and, given the commoditized nature of Android devices, it is likely that most of what they are willing to pay will go towards lower prices.
+    Still, it is an unsatisfying remedy: Google built Android for the express purpose of monetizing search, and to be denied that by regulatory edict feels off; Google, though, bears a lot of the blame for going too far with its contracts.
+    More broadly, the European Commission continues to be a bit too cavalier about denying companies — well, Google, mostly — the right to monetize the products they spend billions of dollars at significant risk to develop; this was  my chief objection to last year’s Google Shopping case  . In this case I narrowly come down on the Commission’s side almost by accident: I think Google acted illegally by contractually foreclosing Android competitors at a time when it might have made a difference, but I am concerned that the Commission’s publicly released reasoning doesn’t seem to grasp exactly how Android has developed, the choices Google made, and why.
+    That noted, I highly doubt Google would do anything differently: when it comes to the company’s goals, Android could not be a bigger success — if anything, this ruling is evidence of just how successful the product was.
+    
+      The exact date of the acquisition is unknown [  ↩  ]
+      For those wondering, then-Google CEO Eric Schmidt didn’t join Apple’s Board of Directors until August 2006 [  ↩  ]
+    
+    
+      
+         Share 
+        
+          
+              Facebook  
+              Twitter  
+              LinkedIn  
+              Email  
+            
+          
+        
+      
+    
+    
+       
+     Related
+     
+    
+  
+  
+
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2018/the-european-commission-versus-android/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2018/the-european-commission-versus-android/&title=The European Commission Versus Android&caption=
+  
+     The European Commission Versus Android 
+    
+  Posted on             Thursday, July 19, 2018 
+            Monday, July 23, 2018 
+     Author  by  Ben Thompson   
+    
+    
+  
+  
+  
+    To understand how Google ended up with a €4.3 billion fine and a 90-day deadline to change its business practices around Android, it is critical to keep one date in mind: July 2005.  1  That was when Google acquired a still in-development mobile operating system called Android, and to put the acquisition in context, Steve Jobs was,  at least publicly  , “not convinced people want to watch movies on a tiny little screen”. He was, of course, referring to the iPod; Apple would go on to release an iPod with video playback a few months later, but the iPhone was still a year-and-a-half away from being revealed.
+    In other words, Android, at least at the beginning, wasn’t a response to Apple;  2  the real target was Microsoft (and to a lesser extent Blackberry), which seemed poised to dominate smartphones just as they had the desktop. That was an untenable situation for Google; then Vice-President of Product Management Sundar Pichai wrote  on the Google Public Policy blog  about the company’s challenges on PCs:
+    
+      Google believes that the browser market is still largely uncompetitive, which holds back innovation for users. This is because Internet Explorer is tied to Microsoft’s dominant computer operating system, giving it an unfair advantage over other browsers. Compare this to the mobile market, where Microsoft cannot tie Internet Explorer to a dominant operating system, and its browser therefore has a much lower usage.
+    
+    What mattered to Google was access to end users: that is what makes the  Aggregation flywheel  turn. On PCs the company had succeeded through a combination of flat-out being better, the fact that it was very simple to visit a new URL (and make it your homepage), and deals with OEMs to set Google as the homepage from the beginning. All would be more difficult to achieve on mobile, at least mobile as it was understood in 2005: applications were notoriously difficult to find and install, and Microsoft and Blackberry had locked down their operating systems to a much greater extent than Microsoft had on the PC.
+    Thus the Android gambit: Google decided to take on Microsoft directly in mobile operating systems, and its most powerful tool would not be the quality of the operating system, but the business model. To that end, while Google did, naturally,  retool Android’s user interface  once the iPhone was announced, the business model remained Microsoft kryptonite: whereas Microsoft charged a per-device licensing fee, just as it had with Windows, Android would not only be free and open-source, Google would actually share search revenue derived from Android with OEMs that installed the operating system.
+    Of course Android also ended up being a much better experience than Windows Mobile in the post-iPhone world, and the deal was irresistible to OEMs flailing for a response to the iPhone: get a (somewhat) comparable (sort-of) touch-based operating system for free, and even make money after the initial sale! Indeed, not only did Android effectively kill Microsoft’s mobile efforts, it went on to take over the world via a massive ecosystem of device makers and mobile carriers that competed to drive down costs and increase distribution.
+     Android’s Success 
+    That Android increases competition was the focus of Pichai’s — now the CEO of Google —  latest blog post  in response to the ruling:
+    
+      Today, the European Commission issued a competition decision against Android, and its business model. The decision ignores the fact that Android phones compete with iOS phones, something that 89 percent of respondents to the Commission’s own market survey confirmed. It also misses just how much choice Android provides to thousands of phone makers and mobile network operators who build and sell Android devices; to millions of app developers around the world who have built their businesses with Android; and billions of consumers who can now afford and use cutting-edge Android smartphones. Today, because of Android, there are more than 24,000 devices, at every price point, from more than 1,300 different brands…
+    
+    What Pichai doesn’t say is that this competition is not so much a feature as it was the point: open-sourcing Android commoditized smartphone development meaning anyone could enter, even as few were in a position to profit over time. That included Google, at least at the beginning, which was by design: remember, the point of Android was not to make money like Windows, it was to stop Windows or any other operating system from getting between Google and users. Venture capitalist Bill Gurley explained in a 2011 post entitled  The Freight Train That Is Android  :
+    
+      Android, as well as Chrome and Chrome OS for that matter, are not “products” in the classic business sense. They have no plan to become their own “economic castles.” Rather they are very expensive and very aggressive “moats,” funded by the height and magnitude of Google’s castle [(search advertising)]. Google’s aim is defensive not offensive. They are not trying to make a profit on Android or Chrome. They want to take any layer that lives between themselves and the consumer and make it free (or even less than free). Because these layers are basically software products with no variable costs, this is a very viable defensive strategy. In essence, they are not just building a moat; Google is also scorching the earth for 250 miles around the outside of the castle to ensure no one can approach it. And best I can tell, they are doing a damn good job of it.
+    
+    Indeed they were, but the strategy had a built-in problem: Android was, well, open source, and just as that helped Android spread, it could just as easily be forked into an initially compatible operating system that didn’t connect to Google’s services — the castle that Google was trying to protect all along. Google needed a wall for its moat, and found one in the Google Play Store.
+     The Google Play Store and Google Play Services 
+    The Google Play Store, not unlike Android’s user interface, was a response to the iPhone, specifically the highly successful launch of the App Store in 2008. And while the Play Store often lagged the App Store when it came to cutting-edge apps, particularly in the early days, it quickly became one of Google’s most valuable services, both in terms of making Android useful as well as making Google money.
+    Note, though, that the Play Store is 
+    not
+    a part of Android: it has always been closed-source and exclusive to Google’s version of Android, just like other Google services like Gmail, Maps, and YouTube. The problem Google had with all of those apps, though, was that they were updated with the operating system, and OEMs and carriers — who only made money when a device was initially sold — were not particularly incentivized to update the operating system.
+    Google’s solution was Google Play Services; first released in 2010 as a part of Android 2.2 Froyo, Google Play Services was distributed via the Play Store and provided an easily updatable API layer that would, in the initial version, allow Google to update its own apps independent of operating system updates. It was an elegant solution to a real problem inherent in the free-wheeling model Google had taken for Android distribution: widespread fragmentation. Soon all of Google’s apps were built on top of Google Play Services, and then, in 2012, Google started opening it up to developers.
+    The initial version was quite modest; here is the  announcement on Google+  :
+    
+      At Google I/O we announced a preview of Google Play services, a new development platform for developers who want to integrate Google services into their apps. Today, we’re kicking off the full launch of Google Play services v1.0, which includes Google+ APIs and new OAuth 2.0 functionality. The rollout will cover all users on Android 2.2+ devices running the latest version of the Google Play store.
+    
+    Over the next several years, though, Google devoted more and more of its effort — and its most interesting APIs, like location and maps and gaming services — to Google Play Services; meanwhile, whatever equivalent service was in the open-source version of Android was effectively frozen in time. The net result is incredibly significant to teasing out this case: Google Play Services silently shifted ever more apps from Android apps to Google Play apps; today, no Google app will function on open-source Android without extensive reworking, and the same applies to ever more 3rd-party apps as well.
+    That noted, it is hard, in my estimation, to see this as being an antitrust violation. The fact of the matter is that Google was addressing a legitimate problem in the Android ecosystem, and the company didn’t make any developer use Google Play Services APIs instead of the more basic ones still available even today.
+     The European Commission Case 
+    The European Commission found Google guilty of breaching EU antitrust rules in three ways:
+    
+      Illegally tying Google’s search and browser apps to the Google Play Store; to get the Google Play Store and thus a full complement of apps, OEMs have to pre-install Google search and Chrome and make them available within one screen of the home page.
+      Illegally paying OEMs to exclusively pre-install Google Search on every Android device they made.
+      Illegally barring OEMs that installed Google’s apps from selling any device that ran an Android fork.
+    
+    Taken in isolation, these seem to run from least problematic to most problematic.
+    
+      The Google Play Store has always been an exclusive Google app; it seems that Google ought to be able to distribute it exclusively as part of a bundle if it so chooses.
+      Pinning all revenue from Google Search to exclusivity on all devices quite obviously makes it very difficult for alternative search services to build share (as they lack access to pre-installs, one of the most effective channels for customer acquisition); this seems to be more of a Google Search dominance issue than an Android dominance issue though.
+      Predicating the availability of any of Google’s apps, including the Google Play Store, on OEMs 
+     not
+     taking advantage of the open source nature of Android on devices that will not include Google apps seems much more problematic than Google insisting its apps be distributed in a bundle. The latter is Google’s prerogative; the former is dictating OEM actions just because Google can.
+    
+    This is where the history of Android matters; before Google Play Services, the primary challenge in building a competitive fork of Android would have been convincing developers to upload their apps to a new app store (since Google would obviously not want to put its apps, including the Play Store, on said fork). That fork, though, never materialized because of Google’s contractual terms barring OEMs from selling any devices built on such a fork.
+    Today the situation is very different: that contractual limitation could go away tomorrow (or, more accurately, in 90 days), and it wouldn’t really matter because, as I explained above, many apps are no longer Android apps but are rather Google Play apps. To run on an Android fork is by no means impossible, but most would require more rework than simply uploading to a new App Store.
+    In short, in my estimation the real antitrust issue is Google contractually foreclosing OEMs from selling devices with non-Google versions of Android; the only way to undo that harm in 2018, though, would be to make Google Play Services available to any Android fork.
+     The Commission’s Remedies 
+    To be sure, that’s not exactly what the European Commission ordered (in fact, “Google Play Services” does not appear a single time in the press release); the Commission seems to feel that the three issues do stand alone. That means that Google has to respond to each individually:
+    
+      Google has to untie the Play Store from Search and the Chrome browser
+      Google has already stopped paying OEMs for portfolio-wide search exclusivity
+      Google can no longer stop OEMs from selling devices with Android forks
+    
+    The most momentous by far is the first (despite the fact it is the weakest allegation, in my estimation). Samsung, or any other OEM, could in 90 days sell a device with Bing search only and the Google Play Store (where of course Google Search could be downloaded). This will likely accrue to consumers’ benefit: Microsoft, Google, and other providers will soon be bidding to be the default search option, and, given the commoditized nature of Android devices, it is likely that most of what they are willing to pay will go towards lower prices.
+    Still, it is an unsatisfying remedy: Google built Android for the express purpose of monetizing search, and to be denied that by regulatory edict feels off; Google, though, bears a lot of the blame for going too far with its contracts.
+    More broadly, the European Commission continues to be a bit too cavalier about denying companies — well, Google, mostly — the right to monetize the products they spend billions of dollars at significant risk to develop; this was  my chief objection to last year’s Google Shopping case  . In this case I narrowly come down on the Commission’s side almost by accident: I think Google acted illegally by contractually foreclosing Android competitors at a time when it might have made a difference, but I am concerned that the Commission’s publicly released reasoning doesn’t seem to grasp exactly how Android has developed, the choices Google made, and why.
+    That noted, I highly doubt Google would do anything differently: when it comes to the company’s goals, Android could not be a bigger success — if anything, this ruling is evidence of just how successful the product was.
+    
+      The exact date of the acquisition is unknown [  ↩  ]
+      For those wondering, then-Google CEO Eric Schmidt didn’t join Apple’s Board of Directors until August 2006 [  ↩  ]
+    
+    
+      
+         Share 
+        
+          
+              Facebook  
+              Twitter  
+              LinkedIn  
+              Email  
+            
+          
+        
+      
+    
+    
+       
+     Related
+     
+    
+  
+  
+
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=The European Commission Versus Android&url=https://stratechery.com/2018/the-european-commission-versus-android/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>The European Commission Versus Android</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2018-07-19
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2018/the-european-commission-versus-android/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <article class="post-3598 post type-post status-publish format-standard hentry category-articles topics-app-stores topics-competition topics-countries topics-eu topics-european-commission topics-google-play-store topics-government-organizations topics-regulation concepts-aggregation-theory concepts-antitrust concepts-owning-customer-relationship concepts-technology-and-society companies-google" id="post-3598">
+  <header class="entry-header">
+    <h1 class="entry-title" id="the-european-commission-versus-android-"> The European Commission Versus Android </h1>
+    <div class="entry-meta">
+<span class="posted-on"> <span class="screen-reader-text"> Posted on </span>           <time class="entry-date published" datetime="2018-07-19T04:09:55-07:00"> Thursday, July 19, 2018 </time>
+           <time class="updated" datetime="2018-07-23T09:39:09-07:00"> Monday, July 23, 2018 </time>
+ </span> <span class="byline"> <span class="author vcard"> <span class="screen-reader-text"> Author </span> by <a class="url fn n" href="https://stratechery.com/author/stratechery/"> Ben Thompson </a> </span> </span>
+    </div>
+    <!-- .entry-meta -->
+  </header>
+  <!-- .entry-header -->
+  <div class="entry-content">
+    <p>To understand how Google ended up with a €4.3 billion fine and a 90-day deadline to change its business practices around Android, it is critical to keep one date in mind: July 2005. <a class="footnote-link footnote-identifier-link" href="#footnote_0_3598" id="identifier_0_3598" title="The exact date of the acquisition is unknown"> 1 </a> That was when Google acquired a still in-development mobile operating system called Android, and to put the acquisition in context, Steve Jobs was, <a href="http://www.macobserver.com/tmo/article/Steve_Jobs_No_Tablet_No_PDA_No_Cell_Phone_Lots_Of_iPods/"> at least publicly </a> , “not convinced people want to watch movies on a tiny little screen”. He was, of course, referring to the iPod; Apple would go on to release an iPod with video playback a few months later, but the iPhone was still a year-and-a-half away from being revealed.</p>
+    <p>In other words, Android, at least at the beginning, wasn’t a response to Apple; <a class="footnote-link footnote-identifier-link" href="#footnote_1_3598" id="identifier_1_3598" title="For those wondering, then-Google CEO Eric Schmidt didn’t join Apple’s Board of Directors until August 2006"> 2 </a> the real target was Microsoft (and to a lesser extent Blackberry), which seemed poised to dominate smartphones just as they had the desktop. That was an untenable situation for Google; then Vice-President of Product Management Sundar Pichai wrote <a href="https://publicpolicy.googleblog.com/2009/02/browsers-powered-by-user-choice.html"> on the Google Public Policy blog </a> about the company’s challenges on PCs:</p>
+    <blockquote>
+      <p>Google believes that the browser market is still largely uncompetitive, which holds back innovation for users. This is because Internet Explorer is tied to Microsoft’s dominant computer operating system, giving it an unfair advantage over other browsers. Compare this to the mobile market, where Microsoft cannot tie Internet Explorer to a dominant operating system, and its browser therefore has a much lower usage.</p>
+    </blockquote>
+    <p>What mattered to Google was access to end users: that is what makes the <a href="https://stratechery.com/2015/aggregation-theory/"> Aggregation flywheel </a> turn. On PCs the company had succeeded through a combination of flat-out being better, the fact that it was very simple to visit a new URL (and make it your homepage), and deals with OEMs to set Google as the homepage from the beginning. All would be more difficult to achieve on mobile, at least mobile as it was understood in 2005: applications were notoriously difficult to find and install, and Microsoft and Blackberry had locked down their operating systems to a much greater extent than Microsoft had on the PC.</p>
+    <p>Thus the Android gambit: Google decided to take on Microsoft directly in mobile operating systems, and its most powerful tool would not be the quality of the operating system, but the business model. To that end, while Google did, naturally, <a href="https://www.technobuffalo.com/2011/10/27/android-before-and-after-the-iphone/"> retool Android’s user interface </a> once the iPhone was announced, the business model remained Microsoft kryptonite: whereas Microsoft charged a per-device licensing fee, just as it had with Windows, Android would not only be free and open-source, Google would actually share search revenue derived from Android with OEMs that installed the operating system.</p>
+    <p>Of course Android also ended up being a much better experience than Windows Mobile in the post-iPhone world, and the deal was irresistible to OEMs flailing for a response to the iPhone: get a (somewhat) comparable (sort-of) touch-based operating system for free, and even make money after the initial sale! Indeed, not only did Android effectively kill Microsoft’s mobile efforts, it went on to take over the world via a massive ecosystem of device makers and mobile carriers that competed to drive down costs and increase distribution.</p>
+    <h4 id="androids-success-"> Android’s Success </h4>
+    <p>That Android increases competition was the focus of Pichai’s — now the CEO of Google — <a href="https://www.blog.google/around-the-globe/google-europe/android-has-created-more-choice-not-less/"> latest blog post </a> in response to the ruling:</p>
+    <blockquote>
+      <p>Today, the European Commission issued a competition decision against Android, and its business model. The decision ignores the fact that Android phones compete with iOS phones, something that 89 percent of respondents to the Commission’s own market survey confirmed. It also misses just how much choice Android provides to thousands of phone makers and mobile network operators who build and sell Android devices; to millions of app developers around the world who have built their businesses with Android; and billions of consumers who can now afford and use cutting-edge Android smartphones. Today, because of Android, there are more than 24,000 devices, at every price point, from more than 1,300 different brands…</p>
+    </blockquote>
+    <p>What Pichai doesn’t say is that this competition is not so much a feature as it was the point: open-sourcing Android commoditized smartphone development meaning anyone could enter, even as few were in a position to profit over time. That included Google, at least at the beginning, which was by design: remember, the point of Android was not to make money like Windows, it was to stop Windows or any other operating system from getting between Google and users. Venture capitalist Bill Gurley explained in a 2011 post entitled <a href="http://abovethecrowd.com/2011/03/24/freight-train-that-is-android/"> The Freight Train That Is Android </a> :</p>
+    <blockquote>
+      <p>Android, as well as Chrome and Chrome OS for that matter, are not “products” in the classic business sense. They have no plan to become their own “economic castles.” Rather they are very expensive and very aggressive “moats,” funded by the height and magnitude of Google’s castle [(search advertising)]. Google’s aim is defensive not offensive. They are not trying to make a profit on Android or Chrome. They want to take any layer that lives between themselves and the consumer and make it free (or even less than free). Because these layers are basically software products with no variable costs, this is a very viable defensive strategy. In essence, they are not just building a moat; Google is also scorching the earth for 250 miles around the outside of the castle to ensure no one can approach it. And best I can tell, they are doing a damn good job of it.</p>
+    </blockquote>
+    <p>Indeed they were, but the strategy had a built-in problem: Android was, well, open source, and just as that helped Android spread, it could just as easily be forked into an initially compatible operating system that didn’t connect to Google’s services — the castle that Google was trying to protect all along. Google needed a wall for its moat, and found one in the Google Play Store.</p>
+    <h4 id="the-google-play-store-and-google-play-services-"> The Google Play Store and Google Play Services </h4>
+    <p>The Google Play Store, not unlike Android’s user interface, was a response to the iPhone, specifically the highly successful launch of the App Store in 2008. And while the Play Store often lagged the App Store when it came to cutting-edge apps, particularly in the early days, it quickly became one of Google’s most valuable services, both in terms of making Android useful as well as making Google money.</p>
+    <p>Note, though, that the Play Store is <em>
+    not
+   </em> a part of Android: it has always been closed-source and exclusive to Google’s version of Android, just like other Google services like Gmail, Maps, and YouTube. The problem Google had with all of those apps, though, was that they were updated with the operating system, and OEMs and carriers — who only made money when a device was initially sold — were not particularly incentivized to update the operating system.</p>
+    <p>Google’s solution was Google Play Services; first released in 2010 as a part of Android 2.2 Froyo, Google Play Services was distributed via the Play Store and provided an easily updatable API layer that would, in the initial version, allow Google to update its own apps independent of operating system updates. It was an elegant solution to a real problem inherent in the free-wheeling model Google had taken for Android distribution: widespread fragmentation. Soon all of Google’s apps were built on top of Google Play Services, and then, in 2012, Google started opening it up to developers.</p>
+    <p>The initial version was quite modest; here is the <a href="https://plus.google.com/+AndroidDevelopers/posts/J1A5hc1ZnS1"> announcement on Google+ </a> :</p>
+    <blockquote>
+      <p>At Google I/O we announced a preview of Google Play services, a new development platform for developers who want to integrate Google services into their apps. Today, we’re kicking off the full launch of Google Play services v1.0, which includes Google+ APIs and new OAuth 2.0 functionality. The rollout will cover all users on Android 2.2+ devices running the latest version of the Google Play store.</p>
+    </blockquote>
+    <p>Over the next several years, though, Google devoted more and more of its effort — and its most interesting APIs, like location and maps and gaming services — to Google Play Services; meanwhile, whatever equivalent service was in the open-source version of Android was effectively frozen in time. The net result is incredibly significant to teasing out this case: Google Play Services silently shifted ever more apps from Android apps to Google Play apps; today, no Google app will function on open-source Android without extensive reworking, and the same applies to ever more 3rd-party apps as well.</p>
+    <p>That noted, it is hard, in my estimation, to see this as being an antitrust violation. The fact of the matter is that Google was addressing a legitimate problem in the Android ecosystem, and the company didn’t make any developer use Google Play Services APIs instead of the more basic ones still available even today.</p>
+    <h4 id="the-european-commission-case-"> The European Commission Case </h4>
+    <p>The European Commission found Google guilty of breaching EU antitrust rules in three ways:</p>
+    <ul>
+      <li>Illegally tying Google’s search and browser apps to the Google Play Store; to get the Google Play Store and thus a full complement of apps, OEMs have to pre-install Google search and Chrome and make them available within one screen of the home page.</li>
+      <li>Illegally paying OEMs to exclusively pre-install Google Search on every Android device they made.</li>
+      <li>Illegally barring OEMs that installed Google’s apps from selling any device that ran an Android fork.</li>
+    </ul>
+    <p>Taken in isolation, these seem to run from least problematic to most problematic.</p>
+    <ul>
+      <li>The Google Play Store has always been an exclusive Google app; it seems that Google ought to be able to distribute it exclusively as part of a bundle if it so chooses.</li>
+      <li>Pinning all revenue from Google Search to exclusivity on all devices quite obviously makes it very difficult for alternative search services to build share (as they lack access to pre-installs, one of the most effective channels for customer acquisition); this seems to be more of a Google Search dominance issue than an Android dominance issue though.</li>
+      <li>Predicating the availability of any of Google’s apps, including the Google Play Store, on OEMs <em>
+     not
+    </em> taking advantage of the open source nature of Android on devices that will not include Google apps seems much more problematic than Google insisting its apps be distributed in a bundle. The latter is Google’s prerogative; the former is dictating OEM actions just because Google can.</li>
+    </ul>
+    <p>This is where the history of Android matters; before Google Play Services, the primary challenge in building a competitive fork of Android would have been convincing developers to upload their apps to a new app store (since Google would obviously not want to put its apps, including the Play Store, on said fork). That fork, though, never materialized because of Google’s contractual terms barring OEMs from selling any devices built on such a fork.</p>
+    <p>Today the situation is very different: that contractual limitation could go away tomorrow (or, more accurately, in 90 days), and it wouldn’t really matter because, as I explained above, many apps are no longer Android apps but are rather Google Play apps. To run on an Android fork is by no means impossible, but most would require more rework than simply uploading to a new App Store.</p>
+    <p>In short, in my estimation the real antitrust issue is Google contractually foreclosing OEMs from selling devices with non-Google versions of Android; the only way to undo that harm in 2018, though, would be to make Google Play Services available to any Android fork.</p>
+    <h4 id="the-commissions-remedies-"> The Commission’s Remedies </h4>
+    <p>To be sure, that’s not exactly what the European Commission ordered (in fact, “Google Play Services” does not appear a single time in the press release); the Commission seems to feel that the three issues do stand alone. That means that Google has to respond to each individually:</p>
+    <ul>
+      <li>Google has to untie the Play Store from Search and the Chrome browser</li>
+      <li>Google has already stopped paying OEMs for portfolio-wide search exclusivity</li>
+      <li>Google can no longer stop OEMs from selling devices with Android forks</li>
+    </ul>
+    <p>The most momentous by far is the first (despite the fact it is the weakest allegation, in my estimation). Samsung, or any other OEM, could in 90 days sell a device with Bing search only and the Google Play Store (where of course Google Search could be downloaded). This will likely accrue to consumers’ benefit: Microsoft, Google, and other providers will soon be bidding to be the default search option, and, given the commoditized nature of Android devices, it is likely that most of what they are willing to pay will go towards lower prices.</p>
+    <p>Still, it is an unsatisfying remedy: Google built Android for the express purpose of monetizing search, and to be denied that by regulatory edict feels off; Google, though, bears a lot of the blame for going too far with its contracts.</p>
+    <p>More broadly, the European Commission continues to be a bit too cavalier about denying companies — well, Google, mostly — the right to monetize the products they spend billions of dollars at significant risk to develop; this was <a href="https://stratechery.com/2017/ends-means-and-antitrust/"> my chief objection to last year’s Google Shopping case </a> . In this case I narrowly come down on the Commission’s side almost by accident: I think Google acted illegally by contractually foreclosing Android competitors at a time when it might have made a difference, but I am concerned that the Commission’s publicly released reasoning doesn’t seem to grasp exactly how Android has developed, the choices Google made, and why.</p>
+    <p>That noted, I highly doubt Google would do anything differently: when it comes to the company’s goals, Android could not be a bigger success — if anything, this ruling is evidence of just how successful the product was.</p>
+    <ol class="footnotes">
+      <li class="footnote" id="footnote_0_3598">The exact date of the acquisition is unknown [ <a class="footnote-link footnote-back-link" href="#identifier_0_3598"> ↩ </a> ]</li>
+      <li class="footnote" id="footnote_1_3598">For those wondering, then-Google CEO Eric Schmidt didn’t join Apple’s Board of Directors until August 2006 [ <a class="footnote-link footnote-back-link" href="#identifier_1_3598"> ↩ </a> ]</li>
+    </ol>
+    <div class="sharedaddy sd-sharing-enabled">
+      <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
+        <h3 class="sd-title" id="share-"> Share </h3>
+        <div class="sd-content">
+          <ul>
+            <li class="share-facebook"><a class="share-facebook sd-button share-icon" data-shared="sharing-facebook-3598" href="https://stratechery.com/2018/the-european-commission-versus-android/?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Facebook"> <span> Facebook </span> </a></li>
+            <li class="share-twitter"><a class="share-twitter sd-button share-icon" data-shared="sharing-twitter-3598" href="https://stratechery.com/2018/the-european-commission-versus-android/?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Twitter"> <span> Twitter </span> </a></li>
+            <li class="share-linkedin"><a class="share-linkedin sd-button share-icon" data-shared="sharing-linkedin-3598" href="https://stratechery.com/2018/the-european-commission-versus-android/?share=linkedin" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on LinkedIn"> <span> LinkedIn </span> </a></li>
+            <li class="share-email"><a class="share-email sd-button share-icon" data-shared="" href="https://stratechery.com/2018/the-european-commission-versus-android/?share=email" rel="nofollow noopener noreferrer" target="_blank" title="Click to email this to a friend"> <span> Email </span> </a></li>
+            <li class="share-end"></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="jp-relatedposts" id="jp-relatedposts">
+      <h3 class="jp-relatedposts-headline" id="related"> <em>
+     Related
+    </em> </h3>
+    </div>
+  </div>
+  <!-- .entry-content -->
+</article>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2018-08-14</time>
+        <a href="https://nodebe4.github.io/opinion/2018-08-14/Facebooks_Story_Problem__and_Opportunity/">
+          Facebook’s Story Problem — and Opportunity
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2018-07-30</time>
+        <a href="https://nodebe4.github.io/opinion/2018-07-30/Facebook_Lenses/">
+          Facebook Lenses
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2018-06-25</time>
+        <a href="https://nodebe4.github.io/opinion/2018-06-25/Intel_and_the_Danger_of_Integration/">
+          Intel and the Danger of Integration
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2018-06-18</time>
+        <a href="https://nodebe4.github.io/opinion/2018-06-18/ATT_Time_Warner_and_the_Need_for_Neutrality/">
+          AT&T, Time Warner, and the Need for Neutrality
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2018-07-19/%E9%A6%99%E6%B8%AF%E6%B0%91%E4%B8%BB%E5%85%9A%E8%B0%B4%E8%B4%A3%E5%8C%97%E4%BA%AC%E9%A9%BB%E6%B8%AF%E5%AE%98%E5%91%98%E8%A8%80%E8%AE%BA%E5%8D%B1%E5%AE%B3%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/">
+            前一篇：香港民主党谴责北京驻港官员言论危害一国两制
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2018-07-20/%E4%B8%A5%E5%AE%B6%E7%A5%BA-%E4%B8%AD%E7%BE%8E%E8%B4%B8%E6%98%93%E6%88%98%E7%9A%84%E6%9C%80%E4%BD%B3%E5%87%BA%E8%B7%AF-%E8%B4%B8%E6%98%93%E6%88%98%E4%B8%8D%E6%98%AF%E6%88%98%E4%BA%89-%E6%97%A0%E9%9C%80%E4%B8%80%E5%86%B3%E8%BE%93%E8%B5%A2/">
+            後一篇：严家祺：中美贸易战的最佳出路——贸易战不是战争，无需一决输赢
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2018-07-19/%E9%A6%99%E6%B8%AF%E6%B0%91%E4%B8%BB%E5%85%9A%E8%B0%B4%E8%B4%A3%E5%8C%97%E4%BA%AC%E9%A9%BB%E6%B8%AF%E5%AE%98%E5%91%98%E8%A8%80%E8%AE%BA%E5%8D%B1%E5%AE%B3%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2018-07-20/%E4%B8%A5%E5%AE%B6%E7%A5%BA-%E4%B8%AD%E7%BE%8E%E8%B4%B8%E6%98%93%E6%88%98%E7%9A%84%E6%9C%80%E4%BD%B3%E5%87%BA%E8%B7%AF-%E8%B4%B8%E6%98%93%E6%88%98%E4%B8%8D%E6%98%AF%E6%88%98%E4%BA%89-%E6%97%A0%E9%9C%80%E4%B8%80%E5%86%B3%E8%BE%93%E8%B5%A2/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2018-07-30/Facebook_Lenses/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2018-06-25/Intel_and_the_Danger_of_Integration/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2018-07-19/%E9%A6%99%E6%B8%AF%E6%B0%91%E4%B8%BB%E5%85%9A%E8%B0%B4%E8%B4%A3%E5%8C%97%E4%BA%AC%E9%A9%BB%E6%B8%AF%E5%AE%98%E5%91%98%E8%A8%80%E8%AE%BA%E5%8D%B1%E5%AE%B3%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2018-07-20/%E4%B8%A5%E5%AE%B6%E7%A5%BA-%E4%B8%AD%E7%BE%8E%E8%B4%B8%E6%98%93%E6%88%98%E7%9A%84%E6%9C%80%E4%BD%B3%E5%87%BA%E8%B7%AF-%E8%B4%B8%E6%98%93%E6%88%98%E4%B8%8D%E6%98%AF%E6%88%98%E4%BA%89-%E6%97%A0%E9%9C%80%E4%B8%80%E5%86%B3%E8%BE%93%E8%B5%A2/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2018-07-30/Facebook_Lenses/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2018-06-25/Intel_and_the_Danger_of_Integration/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

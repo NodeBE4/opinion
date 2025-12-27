@@ -1,0 +1,2993 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Intel Problems – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+Intel Problems
+——
+" />
+    <meta property="og:description" content="
+Intel Problems
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Intel Problems" />
+    <meta property="twitter:title" content="Intel Problems" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2021%2Fintel-problems%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2021/intel-problems/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2021/intel-problems/&text=Intel Problems&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2021/intel-problems/&title=Intel Problems" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2021/intel-problems/&title=Intel Problems" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Intel Problems&body=
+Intel Problems
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2021/intel-problems/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2021/intel-problems/&title=Intel Problems&caption=
+Intel Problems
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Intel Problems&url=https://stratechery.com/2021/intel-problems/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Intel Problems</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2021-01-19
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2021/intel-problems/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1611065968000-->
+<p><a href="https://stratechery.com/2021/intel-problems/">Intel Problems</a>
+——</p>
+
+<div>
+  <p>One of the first Articles on Stratechery, written on the occasion of Intel appointing a new CEO, was, in retrospect, overly optimistic. Just look at the title:</p>
+  <p><a href="https://stratechery.com/2013/the-intel-opportunity/"><img src="https://stratechery.com/wp-content/uploads/2021/01/CleanShot-2021-01-19-at-15.55.31@2x-300x70.png" alt="The Intel Opportunity" width="300" height="70" class="aligncenter size-medium wp-image-5541" srcset="https://stratechery.com/wp-content/uploads/2021/01/CleanShot-2021-01-19-at-15.55.31@2x-300x70.png 300w, https://stratechery.com/wp-content/uploads/2021/01/CleanShot-2021-01-19-at-15.55.31@2x.png 698w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+  <p>The misplaced optimism it twofold: first there is the fact that eight years later Intel has again appointed a new CEO (Pat Gelsinger), not to replace the one I was writing about (Brian Krzanich), but rather his successor (Bob Swan). Clearly the opportunity was not seized. What is more concerning is that the question is no longer about seizing an opportunity but about survival, and it is the United States that has the most to lose.</p>
+  <h4 id="problem-one-mobile">Problem One: Mobile</h4>
+  <p>The second reason why that 2013 headline was overly optimistic is that by that point Intel was already in major trouble. The company — <a href="https://twitter.com/tfadell/status/1338450175690502146">contrary to its claims</a> — was <a href="https://stratechery.com/2020/apple-arm-and-intel/">too focused on speed and too dismissive of power management</a> to even be in the running for the iPhone CPU, and despite years of trying, couldn’t break into Android either.</p>
+  <p>The damage this did to the company went deeper than foregone profits; over the last two decades the cost of building ever smaller and more efficient processors has sky-rocketed into the billions of dollars. That means that companies investing in new node sizes must generate commensurately more revenue to pay off their investment. One excellent source of increased revenue for the industry has been billions of smartphones sold over the last decade; Intel, though, hasn’t seen any of that revenue, even as PC sales have flatlined for years.</p>
+  <p>What has kept the company prospering — when it comes to the level of capital investment necessary to build next-generation fabs, you are either prospering or going bankrupt — has been the explosion in <a href="https://stratechery.com/2020/the-end-of-the-beginning/">mobile’s counterpart</a>: cloud computing.</p>
+  <h4 id="problem-two-server-success">Problem Two: Server Success</h4>
+  <p>It wasn’t that long ago that Intel was a disruptor; whereas the server space was originally dominated by integrated companies like Sun, with prices to match, the explosion in PC sales meant that Intel was rapidly improving performance even as it reduced price, particularly relative to performance. Sure, PCs didn’t match the reliability of integrated servers, but around the turn of the century Google realized that the scale and complexity entailed in offering its service meant that building a truly reliable stack was impossible; the solution was to build with the assumption of failure, which in turn made it possible to build its data centers on (relatively) cheap x86 processors.</p>
+  <p><img src="https://stratechery.com/wp-content/uploads/2021/01/intel-1.png" alt="The datacenter transition from proprietary to commodity hardware" width="1280" height="776" class="aligncenter size-full wp-image-5540" srcset="https://stratechery.com/wp-content/uploads/2021/01/intel-1.png 1280w, https://stratechery.com/wp-content/uploads/2021/01/intel-1-300x182.png 300w, https://stratechery.com/wp-content/uploads/2021/01/intel-1-1024x621.png 1024w, https://stratechery.com/wp-content/uploads/2021/01/intel-1-768x466.png 768w, https://stratechery.com/wp-content/uploads/2021/01/intel-1-1039x630.png 1039w" sizes="(max-width: 1280px) 100vw, 1280px" /></p>
+  <p>Over the following two decades Google’s approach was adopted by every major datacenter operator, and x86 became the default instruction set for servers; Intel was one of the biggest beneficiaries for the straightforward reason that it made the best x86 processors, particularly for server applications. This was both due to Intel’s proprietary designs as well as its superior manufacturing; AMD, Intel’s IBM-mandated competitor, occasionally threatened the incumbent on the desktop, but only on the low end for laptops, and not at all in data centers.</p>
+  <p>In this way Intel escaped Microsoft’s post-PC fate: Microsoft wasn’t simply shut out of mobile, they were shut out of servers as well, which ran Linux, not Windows. Sure, the company tried to <a href="https://stratechery.com/2013/services-not-devices/">prop up Windows</a> as long as they could, both on the device side (via Office) and on the server side (via Azure); conversely, what has fueled the company’s recent growth has been <a href="https://stratechery.com/2018/the-end-of-windows/">The End of Windows</a>, as Office has moved to the cloud with endpoints on all devices, and Azure has embraced Linux. In both cases Microsoft had to accept that their differentiation had flipped from owning the API to having the capability to serve their already-existing customers at scale.</p>
+  <p><a href="https://stratechery.com/2013/the-intel-opportunity/">The Intel Opportunity</a> that I referenced above would have entailed a similar flip for Intel: whereas the company’s differentiation had long been based on its integration of chip design and manufacturing, mobile meant that x86 was, like Windows, permanently relegated to a minority of the overall computing market. That, though, was the opportunity.</p>
+  <blockquote>
+    <p>Most chip designers are fabless; they create the design, then hand it off to a foundry. AMD, Nvidia, Qualcomm, MediaTek, Apple — none of them own their own factories. This certainly makes sense: manufacturing semiconductors is perhaps the most capital-intensive industry in the world, and AMD, Qualcomm, et al have been happy to focus on higher margin design work.</p>
+    <p>Much of that design work, however, has an increasingly commoditized feel to it. After all, nearly all mobile chips are centered on the ARM architecture. For the cost of a license fee, companies, such as Apple, can create their own modifications, and hire a foundry to manufacture the resultant chip. The designs are unique in small ways, but design in mobile will never be dominated by one player the way Intel dominated PCs.</p>
+    <p>It is manufacturing capability, on the other hand, that is increasingly rare, and thus, increasingly valuable. In fact, today there are only four major foundries: Samsung, GlobalFoundries, Taiwan Semiconductor Manufacturing Company (TSMC), and Intel. Only four companies have the capacity to build the chips that are in every mobile device today, and in everything tomorrow.</p>
+    <p>Massive demand, limited suppliers, huge barriers to entry. It’s a good time to be a manufacturing company. It is, potentially, a good time to be Intel. After all, of those four companies, the most advanced, by a significant margin, is Intel. The only problem is that Intel sees themselves as a design company, come hell or high water.</p>
+  </blockquote>
+  <p>My recommendation did not, by the way, entail giving up Intel’s x86 business; I added in a footnote:</p>
+  <blockquote>
+    <p>Of course they keep the x86 design business, but it’s not their only business, and over time not even their primary business.</p>
+  </blockquote>
+  <p>In fact, the x86 business proved far too profitable to take such a radical step, which is the exact sort of “problem” that leads to <a href="https://jamesallworth.medium.com/intels-disruption-is-now-complete-d4fa771f0f2c">disruption</a>: yes, Intel avoided Microsoft’s fate, but that also means that the company never felt the financial pain necessary to make such a dramatic transformation of its business at a time when it might have made a difference (and, to be fair, Andy Grove needed the memory crash of 1984 to get the company to fully focus on processors in the first place).</p>
+  <h4 id="problem-three-manufacturing">Problem Three: Manufacturing</h4>
+  <p>Meanwhile, over the last decade <a href="https://stratechery.com/2018/intel-and-the-danger-of-integration/">the modular-focused TSMC</a>, fueled by the massive volumes that came from mobile and a willingness to work with — and thus share profits with — best of breed suppliers like ASML, surpassed Intel’s manufacturing capabilities.</p>
+  <p>This threatens Intel on multiple fronts:</p>
+  <ul>
+    <li>Intel has already lost Apple’s Mac business thanks in part to <a href="https://stratechery.com/2020/intels-disruption-intel-vs-apple-additional-notes-on-the-m1/">the outstanding performance of the latter’s M1 chip</a>. It is important to note, though, that while some measure of that performance is due to Apple’s design chops, the fact that it is manufactured on TSMC’s 5nm process is an important factor as well.</li>
+    <li>In a similar vein, AMD chips are now faster than Intel on the desktop, and extremely competitive in the data center. Again, part of AMD’s improvement is due to better designs, but just as important is the fact that AMD is also manufacturing chips on TSMC’s 5nm process.</li>
+    <li>Large cloud providers are increasingly investing in their own chip designs; Amazon, for example, is on the second iteration of their Graviton ARM-based processor, which <a href="https://press.aboutamazon.com/news-releases/news-release-details/twitter-selects-aws-strategic-provider-serve-timelines">Twitter’s timeline will run on</a>. Part of Graviton’s advantage is its design, but part of it is — you know what’s coming! — the fact that it is manufactured by TSMC (in this case the fab’s 7nm process, which is competitive with Intel’s finally-launched 10nm process).</li>
+  </ul>
+  <p>In short, Intel is losing share in PCs, even as it is threatened by AMD for x86 servers in the datacenter, and even as cloud companies like Amazon integrated backwards into the processor; I haven’t even touched on the increase in other specialized datacenter operations like GPU-based applications for machine learning, which are designed by companies like Nvidia and manufactured by — you guessed it! — TSMC.</p>
+  <p>What makes this situation so dangerous for Intel is the volume issue I noted above: the company already missed mobile, and while server chips provided the growth the company needed to invest in manufacturing over the last decade, the company can’t afford to lose volume at the very moment it needs to invest more than ever.</p>
+  <h4 id="problem-four-tsmc">Problem Four: TSMC</h4>
+  <p>Unfortunately, this isn’t even the worst of it. The day after <a href="https://newsroom.intel.com/news-releases/intel-appoints-tech-industry-leader-pat-gelsinger-as-new-ceo/">Intel named its new CEO</a> TSMC announced <a href="https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2021-01/4Q20ManagementReport.pdf">its earnings</a> and, more importantly, its Capex guidance for 2021; from <a href="https://www.bloomberg.com/news/articles/2021-01-14/tsmc-profit-beats-expectations-as-chipmaker-widens-tech-lead">Bloomberg</a>:</p>
+  <blockquote>
+    <p>Taiwan Semiconductor Manufacturing Co. triggered a global chip stock rally after outlining plans to pour as much as $28 billion into capital spending this year, a staggering sum aimed at expanding its technological lead and constructing a plant in Arizona to serve key American customers.</p>
+  </blockquote>
+  <p>This is a staggering amount of money that is only going to increase TSMC’s lead.</p>
+  <blockquote>
+    <p>The envisioned spending spree sent chipmaking gear manufacturers surging from New York to Tokyo. Capital spending for 2021 is targeted at $25 billion to $28 billion, compared with $17.2 billion the previous year. About 80% of the outlay will be devoted to advanced processor technologies, suggesting TSMC anticipates a surge in business for cutting-edge chipmaking. Analysts expect Intel Corp., the world’s best-known chipmaker, to outsource manufacture to the likes of TSMC after a series of inhouse technology slip-ups.</p>
+  </blockquote>
+  <p>That’s right: Intel likely has, at least for now, given up on process leadership. The company will keep its design-based margins and foreclose the AMD threat by outsourcing cutting edge chip production to TSMC, but that will only increase TSMC’s lead, and does nothing to address Intel’s other vulnerabilities.</p>
+  <h4 id="problem-five-geopolitics">Problem Five: Geopolitics</h4>
+  <p>Intel’s vulnerabilities aren’t the only ones to be concerned about; I wrote last year about <a href="https://stratechery.com/2020/chips-and-geopolitics/">Chips and Geopolitics</a>:</p>
+  <blockquote>
+    <p>The international status of Taiwan is, as they say, complicated. So, for that matter, are U.S.-China relations. These two things can and do overlap to make entirely new, even more complicated complications.</p>
+    <p>Geography is much more straightforward:</p>
+    <p><a href="https://stratechery.com/2020/chips-and-geopolitics/"><img src="https://stratechery.com/wp-content/uploads/2020/05/tsmc-2.png" alt="A map of the Pacific" width="1280" height="489" class="aligncenter size-full wp-image-4953" srcset="https://stratechery.com/wp-content/uploads/2020/05/tsmc-2.png 1280w, https://stratechery.com/wp-content/uploads/2020/05/tsmc-2-300x115.png 300w, https://stratechery.com/wp-content/uploads/2020/05/tsmc-2-1024x391.png 1024w, https://stratechery.com/wp-content/uploads/2020/05/tsmc-2-768x293.png 768w, https://stratechery.com/wp-content/uploads/2020/05/tsmc-2-1200x458.png 1200w" sizes="(max-width: 1280px) 100vw, 1280px" /></a></p>
+    <p>Taiwan, you will note, is just off the coast of China. South Korea, home to Samsung, which also makes the highest end chips, although mostly for its own use, is just as close. The United States, meanwhile, is on the other side of the Pacific Ocean. There are advanced foundries in Oregon, New Mexico, and Arizona, but they are operated by Intel, and Intel makes chips for its own integrated use cases only.</p>
+    <p>The reason this matters is because chips matter for many use cases outside of PCs and servers — Intel’s focus — which is to say that TSMC matters. Nearly every piece of equipment these days, military or otherwise, has a processor inside. Some of these don’t require particularly high performance, and can be manufactured by fabs built years ago all over the U.S. and across the world; others, though, require the most advanced processes, which means they must be manufactured in Taiwan by TSMC.</p>
+    <p>This is a big problem if you are a U.S. military planner. Your job is not to figure out if there will ever be a war between the U.S. and China, but to plan for an eventuality you hope never occurs. And in that planning the fact that TSMC’s foundries — and Samsung’s — are within easy reach of Chinese missiles is a major issue.</p>
+  </blockquote>
+  <p>The context of that article was TSMC’s announcement that it would (eventually) open a 5nm fab in Arizona; yes, that is cutting edge today, but it won’t be in 2024, when the fab opens. Still, it will almost certainly be the most advanced fab in the U.S. focused on contract manufacturing; Intel will, hopefully, have surpassed that fab’s capabilities by the time it opens.</p>
+  <p>Note, though, that what matters to the United States is different than what matters to Intel: while the latter cares about x86, the U.S. needs cutting-edge general purpose fabs on U.S. soil. To put it another way, Intel will always prioritize design, while the U.S. needs to prioritize manufacturing.</p>
+  <p>This, by the way, is why I am more skeptical today than I was in 2013 about Intel manufacturing for others. The company may be financially compelled to do so to get the volume it needs to pay back its investments, but the company will always put its own designs at the front of the line.</p>
+  <h4 id="solution-one-breakup">Solution One: Breakup</h4>
+  <p>This is why Intel needs to be split in two. Yes, integrating design and manufacturing was the foundation of Intel’s moat for decades, but that integration has become a straight-jacket for both sides of the business. Intel’s designs are held back by the company’s struggles in manufacturing, while its manufacturing has an incentive problem.</p>
+  <p>The key thing to understand about chips is that design has much higher margins; Nvidia, for example, has gross margins between 60~65%, while TSMC, which makes Nvidia’s chips, has gross margins closer to 50%. Intel has, as I noted above, traditionally had margins closer to Nvidia, thanks to its integration, which is why Intel’s own chips will always be a priority for its manufacturing arm. That will mean worse service for prospective customers, and less willingness to change its manufacturing approach to both accommodate customers and incorporate best-of-breed suppliers (lowering margins even further). There is also the matter of trust: would companies that compete with Intel be willing to share their designs with their competitor, particularly if that competitor is incentivized to prioritize its own business?</p>
+  <p>The only way to fix this incentive problem is to spin off Intel’s manufacturing business. Yes, it will take time to build out the customer service components necessary to work with third parties, not to mention the huge library of IP building blocks that make working with a company like TSMC (relatively) easy. But a standalone manufacturing business will have the most powerful incentive possible to make this transformation happen: the need to survive.</p>
+  <h4 id="solution-two-subsidies">Solution Two: Subsidies</h4>
+  <p>This also opens the door for the U.S. to start pumping money into the sector. Right now <a href="https://stratechery.com/2020/taiwan-and-techs-geopolitical-realities-arm-on-mac-tsmcs-choice/">it makes no sense</a> for the U.S. to subsidize Intel; the company doesn’t actually build what the U.S. needs, and the company clearly has culture and management issues that won’t be fixed with money for nothing.</p>
+  <p>That is why a federal subsidy program should operate as a purchase guarantee: the U.S. will buy A amount of U.S.-produced 5nm processors for B price; C amount of U.S. produced 3nm processors for D price; E amount of U.S. produced 2nm processors for F price; etc. This will not only give the new Intel manufacturing spin-off something to strive for, but also incentivize other companies to invest; perhaps Global Foundries will get back in the game, or TSMC will build more fabs in the U.S. And, in a world of nearly free capital, perhaps there will finally be a startup willing to take the leap.</p>
+  <p>This prescription over-simplifies the problem, to be sure; there is a lot that goes into chip manufacturing beyond silicon. Packaging, for example, which long ago moved overseas in the pursuit of lower labor costs, is now fully automated; incentives to move that back may be more straightforward. What is critical to understand, though, is that regaining U.S. competitiveness, much less leadership, will take many years; the federal government has a role, but so does Intel, not by seizing its opportunity, but by accepting the reality that its integrated model is finished.</p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2021-02-03</time>
+        <a href="https://nodebe4.github.io/opinion/2021-02-03/The-Relentless-Jeff-Bezos/">
+          The Relentless Jeff Bezos
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-01-27</time>
+        <a href="https://nodebe4.github.io/opinion/2021-01-27/Publishing-is-Back-to-the-Future/">
+          Publishing is Back to the Future
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-01-12</time>
+        <a href="https://nodebe4.github.io/opinion/2021-01-12/Internet-3.0-and-the-Beginning-of-(Tech)-History/">
+          Internet 3.0 and the Beginning of (Tech) History
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-01-07</time>
+        <a href="https://nodebe4.github.io/opinion/2021-01-07/Trump-and-Twitter/">
+          Trump and Twitter
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2021-01-18/%E6%B5%B7%E5%A4%96%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95%E7%94%A2%E6%A5%AD%E5%8C%96%E4%B9%8B%E5%88%9D%E6%AD%A5%E6%A7%8B%E6%83%B3/">
+            前一篇：海外民主運動產業化之初步構想
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2021-01-19/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%AA%8D%E7%82%BA-%E6%99%82%E8%88%87%E5%8B%A2-%E5%9C%A8%E4%B8%AD%E5%85%B1%E4%B8%80%E9%82%8A-%E6%B2%B3%E5%8C%97-%E9%9B%86%E4%B8%AD%E9%9A%94%E9%9B%A2-%E9%A0%90%E7%A4%BA%E5%A4%A7%E8%A6%8F%E6%A8%A1%E7%9B%A3%E7%A6%81/">
+            後一篇：習近平認為「時與勢」在中共一邊；河北「集中隔離」預示大規模監禁
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2021-01-18/%E6%B5%B7%E5%A4%96%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95%E7%94%A2%E6%A5%AD%E5%8C%96%E4%B9%8B%E5%88%9D%E6%AD%A5%E6%A7%8B%E6%83%B3/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2021-01-19/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%AA%8D%E7%82%BA-%E6%99%82%E8%88%87%E5%8B%A2-%E5%9C%A8%E4%B8%AD%E5%85%B1%E4%B8%80%E9%82%8A-%E6%B2%B3%E5%8C%97-%E9%9B%86%E4%B8%AD%E9%9A%94%E9%9B%A2-%E9%A0%90%E7%A4%BA%E5%A4%A7%E8%A6%8F%E6%A8%A1%E7%9B%A3%E7%A6%81/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2021-01-27/Publishing-is-Back-to-the-Future/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2021-01-12/Internet-3.0-and-the-Beginning-of-(Tech)-History/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2021-01-18/%E6%B5%B7%E5%A4%96%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95%E7%94%A2%E6%A5%AD%E5%8C%96%E4%B9%8B%E5%88%9D%E6%AD%A5%E6%A7%8B%E6%83%B3/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2021-01-19/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%AA%8D%E7%82%BA-%E6%99%82%E8%88%87%E5%8B%A2-%E5%9C%A8%E4%B8%AD%E5%85%B1%E4%B8%80%E9%82%8A-%E6%B2%B3%E5%8C%97-%E9%9B%86%E4%B8%AD%E9%9A%94%E9%9B%A2-%E9%A0%90%E7%A4%BA%E5%A4%A7%E8%A6%8F%E6%A8%A1%E7%9B%A3%E7%A6%81/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2021-01-27/Publishing-is-Back-to-the-Future/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2021-01-12/Internet-3.0-and-the-Beginning-of-(Tech)-History/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

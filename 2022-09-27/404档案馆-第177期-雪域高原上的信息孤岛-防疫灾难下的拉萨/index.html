@@ -1,0 +1,911 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>【404档案馆】第177期：雪域高原上的信息孤岛：防疫灾难下的拉萨 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+【404档案馆】第177期：雪域高原上的信息孤岛：防疫灾难下的拉萨
+——
+" />
+    <meta property="og:description" content="
+【404档案馆】第177期：雪域高原上的信息孤岛：防疫灾难下的拉萨
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="【404档案馆】第177期：雪域高原上的信息孤岛：防疫灾难下的拉萨" />
+    <meta property="twitter:title" content="【404档案馆】第177期：雪域高原上的信息孤岛：防疫灾难下的拉萨" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fmatters.news%2F%40ChinaDT%2F404%25E6%25A1%25A3%25E6%25A1%2588%25E9%25A6%2586-%25E7%25AC%25AC177%25E6%259C%259F-%25E9%259B%25AA%25E5%259F%259F%25E9%25AB%2598%25E5%258E%259F%25E4%25B8%258A%25E7%259A%2584%25E4%25BF%25A1%25E6%2581%25AF%25E5%25AD%25A4%25E5%25B2%259B-%25E9%2598%25B2%25E7%2596%25AB%25E7%2581%25BE%25E9%259A%25BE%25E4%25B8%258B%25E7%259A%2584%25E6%258B%2589%25E8%2590%25A8-bafyreifivtvw4hl3hccqehszemkfoeduk4xgdjfbsdq3porobnv26gtomu" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC177%E6%9C%9F-%E9%9B%AA%E5%9F%9F%E9%AB%98%E5%8E%9F%E4%B8%8A%E7%9A%84%E4%BF%A1%E6%81%AF%E5%AD%A4%E5%B2%9B-%E9%98%B2%E7%96%AB%E7%81%BE%E9%9A%BE%E4%B8%8B%E7%9A%84%E6%8B%89%E8%90%A8-bafyreifivtvw4hl3hccqehszemkfoeduk4xgdjfbsdq3porobnv26gtomu" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC177%E6%9C%9F-%E9%9B%AA%E5%9F%9F%E9%AB%98%E5%8E%9F%E4%B8%8A%E7%9A%84%E4%BF%A1%E6%81%AF%E5%AD%A4%E5%B2%9B-%E9%98%B2%E7%96%AB%E7%81%BE%E9%9A%BE%E4%B8%8B%E7%9A%84%E6%8B%89%E8%90%A8-bafyreifivtvw4hl3hccqehszemkfoeduk4xgdjfbsdq3porobnv26gtomu&text=【404档案馆】第177期：雪域高原上的信息孤岛：防疫灾难下的拉萨&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC177%E6%9C%9F-%E9%9B%AA%E5%9F%9F%E9%AB%98%E5%8E%9F%E4%B8%8A%E7%9A%84%E4%BF%A1%E6%81%AF%E5%AD%A4%E5%B2%9B-%E9%98%B2%E7%96%AB%E7%81%BE%E9%9A%BE%E4%B8%8B%E7%9A%84%E6%8B%89%E8%90%A8-bafyreifivtvw4hl3hccqehszemkfoeduk4xgdjfbsdq3porobnv26gtomu&title=【404档案馆】第177期：雪域高原上的信息孤岛：防疫灾难下的拉萨" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC177%E6%9C%9F-%E9%9B%AA%E5%9F%9F%E9%AB%98%E5%8E%9F%E4%B8%8A%E7%9A%84%E4%BF%A1%E6%81%AF%E5%AD%A4%E5%B2%9B-%E9%98%B2%E7%96%AB%E7%81%BE%E9%9A%BE%E4%B8%8B%E7%9A%84%E6%8B%89%E8%90%A8-bafyreifivtvw4hl3hccqehszemkfoeduk4xgdjfbsdq3porobnv26gtomu&title=【404档案馆】第177期：雪域高原上的信息孤岛：防疫灾难下的拉萨" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=【404档案馆】第177期：雪域高原上的信息孤岛：防疫灾难下的拉萨&body=
+【404档案馆】第177期：雪域高原上的信息孤岛：防疫灾难下的拉萨
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC177%E6%9C%9F-%E9%9B%AA%E5%9F%9F%E9%AB%98%E5%8E%9F%E4%B8%8A%E7%9A%84%E4%BF%A1%E6%81%AF%E5%AD%A4%E5%B2%9B-%E9%98%B2%E7%96%AB%E7%81%BE%E9%9A%BE%E4%B8%8B%E7%9A%84%E6%8B%89%E8%90%A8-bafyreifivtvw4hl3hccqehszemkfoeduk4xgdjfbsdq3porobnv26gtomu" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC177%E6%9C%9F-%E9%9B%AA%E5%9F%9F%E9%AB%98%E5%8E%9F%E4%B8%8A%E7%9A%84%E4%BF%A1%E6%81%AF%E5%AD%A4%E5%B2%9B-%E9%98%B2%E7%96%AB%E7%81%BE%E9%9A%BE%E4%B8%8B%E7%9A%84%E6%8B%89%E8%90%A8-bafyreifivtvw4hl3hccqehszemkfoeduk4xgdjfbsdq3porobnv26gtomu&title=【404档案馆】第177期：雪域高原上的信息孤岛：防疫灾难下的拉萨&caption=
+【404档案馆】第177期：雪域高原上的信息孤岛：防疫灾难下的拉萨
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=【404档案馆】第177期：雪域高原上的信息孤岛：防疫灾难下的拉萨&url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC177%E6%9C%9F-%E9%9B%AA%E5%9F%9F%E9%AB%98%E5%8E%9F%E4%B8%8A%E7%9A%84%E4%BF%A1%E6%81%AF%E5%AD%A4%E5%B2%9B-%E9%98%B2%E7%96%AB%E7%81%BE%E9%9A%BE%E4%B8%8B%E7%9A%84%E6%8B%89%E8%90%A8-bafyreifivtvw4hl3hccqehszemkfoeduk4xgdjfbsdq3porobnv26gtomu" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>【404档案馆】第177期：雪域高原上的信息孤岛：防疫灾难下的拉萨</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-09-27
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#中国数字时代">
+          中国数字时代
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC177%E6%9C%9F-%E9%9B%AA%E5%9F%9F%E9%AB%98%E5%8E%9F%E4%B8%8A%E7%9A%84%E4%BF%A1%E6%81%AF%E5%AD%A4%E5%B2%9B-%E9%98%B2%E7%96%AB%E7%81%BE%E9%9A%BE%E4%B8%8B%E7%9A%84%E6%8B%89%E8%90%A8-bafyreifivtvw4hl3hccqehszemkfoeduk4xgdjfbsdq3porobnv26gtomu" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="中国数字时代的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#中国数字时代 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1664336822000-->
+<p><a href="https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC177%E6%9C%9F-%E9%9B%AA%E5%9F%9F%E9%AB%98%E5%8E%9F%E4%B8%8A%E7%9A%84%E4%BF%A1%E6%81%AF%E5%AD%A4%E5%B2%9B-%E9%98%B2%E7%96%AB%E7%81%BE%E9%9A%BE%E4%B8%8B%E7%9A%84%E6%8B%89%E8%90%A8-bafyreifivtvw4hl3hccqehszemkfoeduk4xgdjfbsdq3porobnv26gtomu">【404档案馆】第177期：雪域高原上的信息孤岛：防疫灾难下的拉萨</a>
+——</p>
+
+<div>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/661dd436-9457-4151-b572-c86f1d245fd2.png" data-asset-id="661dd436-9457-4151-b572-c86f1d245fd2" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>《<a href="https://chinadigitaltimes.net/chinese/404-archives" rel="noopener noreferrer" target="_blank">404档案馆》</a>讲述中国审查与反审查的故事，同时以文字、音频和视频的形式发布。播客节目可在 Apple Podcasts, Google Podcasts, Spotify 或泛用型播客客户端搜索“<a href="https://open.firstory.me/user/cdt" rel="noopener noreferrer" target="_blank">404档案馆</a>”进行收听，视频节目可在Youtube“<a href="https://www.youtube.com/channel/UCwXewCWwaK1-yec8niJLrqg" rel="noopener noreferrer" target="_blank">中国数字时代· 404档案馆</a>”频道收看。</p>
+  <p><strong>作者：西西弗斯推大石</strong></p>
+  <p>欢迎来到404档案馆。在这里，我们一起穿越中国数字高墙。</p>
+  <p>2022年8月7日，西藏拉萨、日喀则等地报告了四起新冠病毒感染病例，于是拉萨等城市开始逐渐采取严厉的防控措施。</p>
+  <p>缺少物资、方舱医院环境恶劣、民众生活基本需要得不到满足等在最近3年中不断重复的问题又一次在雪域高原上演。更为糟糕的是，由于拉萨地处高原的地理位置，再加上中共对于西藏一直采取高压控制，周边地区的封控使得拉萨形成了一种“孤岛”效应。</p>
+  <p>本期节目就让我们试图突破“孤岛”，来关注拉萨持续发生的以防疫为名的人道主义灾难。</p>
+  <h2 id="section"><strong>一、雪域高原的悲歌：被严格控制的西藏</strong></h2>
+  <p>由于西藏处于中国边境，且藏族聚居，中国当局对于拉萨的管制一直比其他省份更为严厉，尤其是在2008年“314”事件之后。</p>
+  <p>2014年，西藏人权中心就曝出<a href="https://chinadigitaltimes.net/chinese/358894.html" rel="noopener noreferrer" target="_blank">拉萨公安局枪杀藏人的机密文件</a>。文件显示2008年3月拉萨事件中，超过20名藏人被枪杀。</p>
+  <p>2012年到2016年，后来在新疆制造所谓“再教育营”的陈全国任西藏自治区党委书记。他在西藏期间，采取铁腕的方式管控西藏社会，尤其是藏人。<a href="https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20161213-%E4%B8%AD%E5%85%B1%E6%96%B0%E6%98%9F%E9%99%88%E5%85%A8%E5%9B%BD%E6%B2%BB%E8%97%8F%E5%85%AD%E9%81%93%E6%9D%BF%E6%96%A7%E7%85%A7%E6%90%AC%E6%96%B0%E7%96%86" rel="noopener noreferrer" target="_blank">从2012年开始，所有藏人都必须交出普通公民护照</a>。</p>
+  <p>2019年，据<a href="https://chinadigitaltimes.net/chinese/613738.html" rel="noopener noreferrer" target="_blank">代表西藏流亡政府的机构西藏之声报道</a>，拉萨出现所谓“职业技术培训学校”，当局要求拉萨市下辖七县一区政府将各自地区的“反骨”农村青少年送往该校，强制实行洗脑教育，中国官方对于此报道没有回应。</p>
+  <p>在高压统治下，西藏的藏人不断通过自焚的方式表达抗议，2022年2月25日，曾参加《中国好声音》的歌手，年仅25岁的才旺罗布在布达拉宫外<a href="https://chinadigitaltimes.net/chinese/678263.html" rel="noopener noreferrer" target="_blank">自焚</a>，几天后去世，死亡时间不明。他的歌声也成为了绝唱。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/479f064e-d9b4-4385-a0df-ac9a15c3d504.jpeg" data-asset-id="479f064e-d9b4-4385-a0df-ac9a15c3d504" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>防疫让本就高压的拉萨更加封闭，直到9月15 日晚，一篇标题为<a href="https://web.archive.org/web/20220915142641/https://mp.weixin.qq.com/s/BpXGGQ7MaSiktLf8hMZ4GA" rel="noopener noreferrer" target="_blank">《让拉萨疫情的真相跨过唐古拉山！》</a>的微信公众号文章于网络上广泛传播，阅读量在被删除前突破十万加，拉萨的情况才得到更多人的关注。</p>
+  <h2 id="section-1"><strong>二、四例阳性引发的“大消毒”与官员撤职</strong></h2>
+  <p>2022年8月14日，拉萨官方通报：因新冠疫情防控工作落实不到位，拉萨市卫生健康委员会党组书记范跃平，市卫生健康委员会主任次旦卓嘎，市疾病预防控制中心党支部书记阿米3名领导干部被免职。</p>
+  <p>微信公众号<a href="https://chinadigitaltimes.net/chinese/685709.html" rel="noopener noreferrer" target="_blank">“基本常识”</a>对于这样的决定表达不同意见，作者讲述了自己在拉萨旅游受到的严格防疫的经历，文章写道：</p>
+  <blockquote>
+之后我在拉萨每一次坐车、住酒店、进餐厅、进茶馆、进商场，进公厕，进机场，都必定有一个人守在门口要求我佩戴口罩，以及用藏易通小程序扫场所码，确认是绿码之后才允许进入。别说进布达拉宫这样的热门景区，我只是路过布达拉宫前面的广场，都需要排队过安检扫场所码。”作者认为做到这样的程度，不能说是“防疫不力”。TA追问：“那还能怎样呢？要求一座以旅游为经济支柱的城市拒绝外地游客吗？要求一座已经900多天零新增的城市每周全员核酸吗？我真的想象不出来，拉萨除了层层加码之外还能怎么去加强落实防疫工作。  </blockquote>
+  <p>而拉萨官方的做法正应证了作者的预言。原定于8月8日举行的传统体育赛事被推迟。同一天，拉萨佛教协会发布一份公告，暂停宗教活动和相关藏传佛教场所的集会朝圣。 8月12日至15日期间，拉萨当局宣布在全市范围内进行“消毒”，在此期间人们不得离开自己的家，从此相当于变相封城。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/e0131982-f190-48d4-b090-8b73d87671dd.jpeg" data-asset-id="e0131982-f190-48d4-b090-8b73d87671dd" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <h2 id="section-2"><strong>三、物资不足、物价飞涨、方舱环境恶劣：拉萨的人道灾难</strong></h2>
+  <p>封城期间的拉萨和在中国防疫模式下的很多城市一样，发生了因为管理混乱和政策不科学、不人性而引起的人道主义悲剧。</p>
+  <p>物资不足和物价上涨是拉萨居民普遍面临的问题。食物配送不到位，被封闭在家的民众不允许外出购物，给民众的生活造成了很大的困难。微信公众号<a href="https://chinadigitaltimes.net/chinese/687127.html" rel="noopener noreferrer" target="_blank">“城市的地得”</a>描述了ta一个朋友在拉萨的生活：“糟透了，十几天没买到物资了，所以又食物中毒了。”其他人也无法给这位朋友送物资，因为“小区是高风险，门口志愿者根本不给送。”</p>
+  <p>面对二十几天没有领到食物的民众，政府的办法竟然是给民众发马桶。有民众饿得没有办法。只能用榨菜下白米饭来充饥。</p>
+  <p>而就算能买到物资的民众，价格也高得惊人。网络上流传的视频显示，仅仅是买了不多的几袋食物，市民就花费了1380元；而仅仅是一袋青椒、白萝卜、胡萝卜和几打鸡蛋，售价就高达157元。有居民感叹：还要不要人活了？</p>
+  <p>为了实现纸面上确诊数据的好转，<a href="https://web.archive.org/web/20220915142641/https://mp.weixin.qq.com/s/BpXGGQ7MaSiktLf8hMZ4GA" rel="noopener noreferrer" target="_blank">拉萨官方安排了大量公交车</a>，将居民转移去不同的名为“方舱医院”的隔离点，深夜依然不停止。有居民仅仅是得了感冒，也被强制拉去隔离。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/c0424867-a258-41a0-bf19-be45f2810014.jpeg" data-asset-id="c0424867-a258-41a0-bf19-be45f2810014" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>而被转运到方舱医院的民众则更是面临着糟糕的卫生环境： <a href="https://chinadigitaltimes.net/chinese/687127.html" rel="noopener noreferrer" target="_blank">“大批转运，没有好的方舱，不管阴性、阳性都一起关着。有很多人，是在毛胚房里隔离，房间唯一的电器，是房顶上的电灯。”</a> 同时，隔离点的饭菜也非常差，管理更是混乱，时常出现大量居民无处可去的情况。在这样的恶劣环境下，拉萨居民的身心健康都受到很大的挑战。</p>
+  <h2 id="section-3"><strong>四、官方的舆论封锁、道歉与丧事喜办</strong></h2>
+  <p>拉萨居民的困难生活很长时间以来一直被忽略，直到<a href="https://web.archive.org/web/20220915142641/https://mp.weixin.qq.com/s/BpXGGQ7MaSiktLf8hMZ4GA" rel="noopener noreferrer" target="_blank">《让拉萨疫情的真相跨过唐古拉山！》</a>的文章广泛传播后，才有更多相关的讲述得到关注。</p>
+  <p>但应对这样的舆论，拉萨官方采取的依然是熟悉的封锁政策。与其他地方不同的是，拉萨官方对于藏人的宗教活动的打压更为严厉。<a href="https://www.rfa.org/mandarin/zhuanlan/xizangzonglan/tibet-08192022104648.html" rel="noopener noreferrer" target="_blank">代表西藏流亡政府的机构西藏之声报道</a>，有藏传佛教僧侣因为传发达赖喇嘛等宗教领袖的法相，来祈愿疫情尽早得到缓解而被中共当局威胁和逮捕。同时，中共当局还以“散播谣言”为由对当地藏人进行逮捕、审讯。中国官方对此指控没有进行回应。</p>
+  <p>在舆论封锁之外，官方面对汹涌的民意，也进行了道歉。9月17日，拉萨副市长占堆就疫情防控过程中存在的问题，向市民和因疫情滞留拉萨的人员公开道歉。而道歉话题冲上微博热搜，但很多网民对此并不买账，有网民评论说：“道歉有用，还用法律干哈？”</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/82ce03c7-45fd-46ce-9edf-b6a7f0adcf29.jpeg" data-asset-id="82ce03c7-45fd-46ce-9edf-b6a7f0adcf29" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>中国官方时常用民族歌舞的形似来展示少数民族地区民众生活的美好。在这次拉萨疫情中，官方也同样采取了类似的宣传手段。<a href="https://chinadigitaltimes.net/chinese/687239.html" rel="noopener noreferrer" target="_blank">一段视频</a>显示，拉萨经开区1号方舱医院，一场所谓“庆祝”中秋节的活动正在举行。几名穿着防护服的大白被人们围着，和着藏族歌曲跳着舞。而同样的时间段内，有拉萨市民自己背着棉被，等待进入隔离点。</p>
+  <p><br /></p>
+  <p>中国数字时代 CDT 致力于记录和传播中文互联网上被审查的信息，以及人们与审查对抗的努力。欢迎大家通过<a href="https://t.me/cdtmedia_bot" rel="noopener noreferrer" target="_blank">电报(Telegram)平台</a> 向我们投稿，为记录和对抗中国网络审查作出你的贡献！</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/149484c4-ac85-4440-ae70-9f92a1927055.jpeg" data-asset-id="149484c4-ac85-4440-ae70-9f92a1927055" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>了解更多投稿信息，请阅读<a href="https://chinadigitaltimes.net/chinese/telegrambot" rel="noopener noreferrer" target="_blank">中国数字时代征稿说明</a></p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#中国数字时代 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-02-12/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC276%E6%9C%9F-%E5%94%B1%E7%A6%81%E6%AD%8C-%E5%88%B0-%E7%A6%81%E6%AD%A2%E5%90%90%E6%A7%BD-%E8%A7%81%E8%AF%81%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E5%8F%98%E8%BF%81%E7%9A%84%E6%98%A5%E6%99%9A/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2021-12-14/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E4%B8%93%E8%AE%BF-%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3%E5%AF%B9%E8%AF%9D-%E8%A7%A3%E6%9E%84%E6%96%B0%E7%96%86%E9%95%87%E5%8E%8B-%E7%AC%AC%E4%B8%80%E4%BD%9C%E8%80%85%E8%AE%B8%E7%A7%80%E4%B8%AD/">最早</a>--</span>
+    
+      <li>
+        <time>2022-11-09</time>
+        <a href="https://nodebe4.github.io/opinion/2022-11-09/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC189%E6%9C%9F-Jingyao%E8%AF%89%E5%88%98%E5%BC%BA%E4%B8%9C%E6%A1%88-%E4%BB%99%E4%BA%BA%E8%B7%B3-%E8%88%86%E8%AE%BA%E6%88%98%E8%83%8C%E5%90%8E-%E7%B1%B3%E5%85%94%E8%BF%90%E5%8A%A8%E7%9A%84%E6%9C%AA%E5%B0%BD%E4%B9%8B%E8%B7%AF/">
+          【404档案馆】第189期：Jingyao诉刘强东案：“仙人跳”舆论战背后，米兔运动的未尽之路
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-11-09</time>
+        <a href="https://nodebe4.github.io/opinion/2022-11-09/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC186%E6%9C%9F-%E5%8F%A6%E4%B8%80%E5%9C%BA%E5%8F%97%E6%8C%AB%E7%9A%84%E6%88%98%E4%BA%89-%E4%BF%84%E7%BD%97%E6%96%AF%E5%85%A5%E4%BE%B5%E5%8F%97%E9%98%BB%E5%90%8E%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%88%86%E8%AE%BA/">
+          【404档案馆】第186期：另一场受挫的战争——俄罗斯入侵受阻后的中国舆论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-09-27</time>
+        <a href="https://nodebe4.github.io/opinion/2022-09-27/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC174%E6%9C%9F-%E6%88%91%E4%BB%AC%E7%9A%84%E5%91%BD%E8%BF%90%E4%B9%9F%E4%BC%9A%E5%83%8F%E9%82%A3%E8%BE%86%E5%A4%A7%E5%B7%B4-%E9%A9%BE%E5%90%91%E5%9D%A0%E8%90%BD%E7%9A%84%E9%BB%91%E5%A4%9C-%E8%B4%B5%E5%B7%9E%E9%9A%94%E7%A6%BB%E5%A4%A7%E5%B7%B4%E7%BF%BB%E8%BD%A6%E6%82%B2%E5%89%A7%E5%BC%95%E5%8F%91%E7%9A%84%E8%88%86/">
+          【404档案馆】第174期：我们的命运也会像那辆大巴，驾向坠落的黑夜——贵州隔离大巴翻车悲剧引发的舆论风暴
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-09-27</time>
+        <a href="https://nodebe4.github.io/opinion/2022-09-27/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC173%E6%9C%9F-%E8%BF%99%E4%B8%AA%E5%A4%8F%E5%A4%A9%E7%9A%84%E7%83%AD%E6%B5%AA-%E5%81%9C%E7%94%B5-%E6%B4%AA%E6%B0%B4%E5%92%8C%E5%B9%B2%E6%97%B1-%E6%9E%81%E7%AB%AF%E6%B0%94%E5%80%99%E5%B8%B8%E6%80%81%E4%B8%8B%E7%9A%84%E8%88%86%E8%AE%BA%E5%9B%9E%E9%A1%BE/">
+          【404档案馆】第173期：这个夏天的热浪、停电、洪水和干旱：极端气候常态下的舆论回顾
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-09-27/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC174%E6%9C%9F-%E6%88%91%E4%BB%AC%E7%9A%84%E5%91%BD%E8%BF%90%E4%B9%9F%E4%BC%9A%E5%83%8F%E9%82%A3%E8%BE%86%E5%A4%A7%E5%B7%B4-%E9%A9%BE%E5%90%91%E5%9D%A0%E8%90%BD%E7%9A%84%E9%BB%91%E5%A4%9C-%E8%B4%B5%E5%B7%9E%E9%9A%94%E7%A6%BB%E5%A4%A7%E5%B7%B4%E7%BF%BB%E8%BD%A6%E6%82%B2%E5%89%A7%E5%BC%95%E5%8F%91%E7%9A%84%E8%88%86/">
+            前一篇：【404档案馆】第174期：我们的命运也会像那辆大巴，驾向坠落的黑夜——贵州隔离大巴翻车悲剧引发的舆论风暴
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-09-28/%E6%84%9B%E5%9C%A8%E5%B7%A6%E5%8F%B3-%E9%9B%BB%E5%99%A8%E6%8F%9B%E6%96%B0%E5%89%8D-%E4%B8%8D%E5%A6%82%E5%8E%BB%E4%B8%80%E8%B6%9F-%E5%BE%A9%E4%BF%AE%E5%86%B0%E5%AE%A4/">
+            後一篇：【愛在左右】電器換新前 不如去一趟「復修冰室」
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-09-27/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC174%E6%9C%9F-%E6%88%91%E4%BB%AC%E7%9A%84%E5%91%BD%E8%BF%90%E4%B9%9F%E4%BC%9A%E5%83%8F%E9%82%A3%E8%BE%86%E5%A4%A7%E5%B7%B4-%E9%A9%BE%E5%90%91%E5%9D%A0%E8%90%BD%E7%9A%84%E9%BB%91%E5%A4%9C-%E8%B4%B5%E5%B7%9E%E9%9A%94%E7%A6%BB%E5%A4%A7%E5%B7%B4%E7%BF%BB%E8%BD%A6%E6%82%B2%E5%89%A7%E5%BC%95%E5%8F%91%E7%9A%84%E8%88%86/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-09-28/%E6%84%9B%E5%9C%A8%E5%B7%A6%E5%8F%B3-%E9%9B%BB%E5%99%A8%E6%8F%9B%E6%96%B0%E5%89%8D-%E4%B8%8D%E5%A6%82%E5%8E%BB%E4%B8%80%E8%B6%9F-%E5%BE%A9%E4%BF%AE%E5%86%B0%E5%AE%A4/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-11-09/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC186%E6%9C%9F-%E5%8F%A6%E4%B8%80%E5%9C%BA%E5%8F%97%E6%8C%AB%E7%9A%84%E6%88%98%E4%BA%89-%E4%BF%84%E7%BD%97%E6%96%AF%E5%85%A5%E4%BE%B5%E5%8F%97%E9%98%BB%E5%90%8E%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%88%86%E8%AE%BA/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-09-27/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC174%E6%9C%9F-%E6%88%91%E4%BB%AC%E7%9A%84%E5%91%BD%E8%BF%90%E4%B9%9F%E4%BC%9A%E5%83%8F%E9%82%A3%E8%BE%86%E5%A4%A7%E5%B7%B4-%E9%A9%BE%E5%90%91%E5%9D%A0%E8%90%BD%E7%9A%84%E9%BB%91%E5%A4%9C-%E8%B4%B5%E5%B7%9E%E9%9A%94%E7%A6%BB%E5%A4%A7%E5%B7%B4%E7%BF%BB%E8%BD%A6%E6%82%B2%E5%89%A7%E5%BC%95%E5%8F%91%E7%9A%84%E8%88%86/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-09-27/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC174%E6%9C%9F-%E6%88%91%E4%BB%AC%E7%9A%84%E5%91%BD%E8%BF%90%E4%B9%9F%E4%BC%9A%E5%83%8F%E9%82%A3%E8%BE%86%E5%A4%A7%E5%B7%B4-%E9%A9%BE%E5%90%91%E5%9D%A0%E8%90%BD%E7%9A%84%E9%BB%91%E5%A4%9C-%E8%B4%B5%E5%B7%9E%E9%9A%94%E7%A6%BB%E5%A4%A7%E5%B7%B4%E7%BF%BB%E8%BD%A6%E6%82%B2%E5%89%A7%E5%BC%95%E5%8F%91%E7%9A%84%E8%88%86/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-09-28/%E6%84%9B%E5%9C%A8%E5%B7%A6%E5%8F%B3-%E9%9B%BB%E5%99%A8%E6%8F%9B%E6%96%B0%E5%89%8D-%E4%B8%8D%E5%A6%82%E5%8E%BB%E4%B8%80%E8%B6%9F-%E5%BE%A9%E4%BF%AE%E5%86%B0%E5%AE%A4/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<中国数字时代>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-11-09/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC186%E6%9C%9F-%E5%8F%A6%E4%B8%80%E5%9C%BA%E5%8F%97%E6%8C%AB%E7%9A%84%E6%88%98%E4%BA%89-%E4%BF%84%E7%BD%97%E6%96%AF%E5%85%A5%E4%BE%B5%E5%8F%97%E9%98%BB%E5%90%8E%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%88%86%E8%AE%BA/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<中国数字时代>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-09-27/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC174%E6%9C%9F-%E6%88%91%E4%BB%AC%E7%9A%84%E5%91%BD%E8%BF%90%E4%B9%9F%E4%BC%9A%E5%83%8F%E9%82%A3%E8%BE%86%E5%A4%A7%E5%B7%B4-%E9%A9%BE%E5%90%91%E5%9D%A0%E8%90%BD%E7%9A%84%E9%BB%91%E5%A4%9C-%E8%B4%B5%E5%B7%9E%E9%9A%94%E7%A6%BB%E5%A4%A7%E5%B7%B4%E7%BF%BB%E8%BD%A6%E6%82%B2%E5%89%A7%E5%BC%95%E5%8F%91%E7%9A%84%E8%88%86/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

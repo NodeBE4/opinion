@@ -1,0 +1,2593 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Commodify在2022-01-31~2022-02-06的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Commodify在2022-01-31~2022-02-06的言论" />
+    <meta property="twitter:title" content="Commodify在2022-01-31~2022-02-06的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FWarCollege%2Fcomments%2Fsgtkyz%2Fhow_does_south_korea_japan_and_china_view_the%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/WarCollege/comments/sgtkyz/how_does_south_korea_japan_and_china_view_the/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/WarCollege/comments/sgtkyz/how_does_south_korea_japan_and_china_view_the/&text=Commodify在2022-01-31~2022-02-06的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/WarCollege/comments/sgtkyz/how_does_south_korea_japan_and_china_view_the/&title=Commodify在2022-01-31~2022-02-06的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/WarCollege/comments/sgtkyz/how_does_south_korea_japan_and_china_view_the/&title=Commodify在2022-01-31~2022-02-06的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Commodify在2022-01-31~2022-02-06的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/WarCollege/comments/sgtkyz/how_does_south_korea_japan_and_china_view_the/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/WarCollege/comments/sgtkyz/how_does_south_korea_japan_and_china_view_the/&title=Commodify在2022-01-31~2022-02-06的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Commodify在2022-01-31~2022-02-06的言论&url=https://old.reddit.com/r/WarCollege/comments/sgtkyz/how_does_south_korea_japan_and_china_view_the/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Commodify在2022-01-31~2022-02-06的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-02-06
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Commodify</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/WarCollege/comments/sgtkyz/how_does_south_korea_japan_and_china_view_the/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#57-how-does-south-korea-japan-and-china-view-the-north-korean-military-submitted-on-2022-01-31-1338430800" id="markdown-toc-57-how-does-south-korea-japan-and-china-view-the-north-korean-military-submitted-on-2022-01-31-1338430800">57: How does South Korea, Japan, and China view the North Korean Military?, submitted on 2022-01-31 13:38:43+08:00.</a></li>
+  <li><a href="#58-how-did-the-ijas-war-in-china-impact-the-ijns-campaign-in-the-pacific-and-vice-versa-submitted-on-2022-02-01-0010310800" id="markdown-toc-58-how-did-the-ijas-war-in-china-impact-the-ijns-campaign-in-the-pacific-and-vice-versa-submitted-on-2022-02-01-0010310800">58: How did the IJA’s war in China impact the IJN’s campaign in the Pacific, and vice versa?, submitted on 2022-02-01 00:10:31+08:00.</a></li>
+  <li><a href="#59-why-are-drones-seemingly-less-effective-in-ukraine-than-in-azerbaijanarmenia-submitted-on-2022-02-01-0155390800" id="markdown-toc-59-why-are-drones-seemingly-less-effective-in-ukraine-than-in-azerbaijanarmenia-submitted-on-2022-02-01-0155390800">59: Why are drones (seemingly) less effective in Ukraine than in Azerbaijan/Armenia?, submitted on 2022-02-01 01:55:39+08:00.</a></li>
+  <li><a href="#60-is-it-true-that-carthagian-army-was-inferior-to-roman-and-carthage-had-victories-only-thanks-to-hannibal-submitted-on-2022-02-01-2112560800" id="markdown-toc-60-is-it-true-that-carthagian-army-was-inferior-to-roman-and-carthage-had-victories-only-thanks-to-hannibal-submitted-on-2022-02-01-2112560800">60: Is it true that Carthagian army was inferior to Roman, and Carthage had victories only thanks to Hannibal?, submitted on 2022-02-01 21:12:56+08:00.</a></li>
+  <li><a href="#61-the-houthis-have-won-in-yemen-what-next-submitted-on-2022-02-02-2043390800" id="markdown-toc-61-the-houthis-have-won-in-yemen-what-next-submitted-on-2022-02-02-2043390800">61: The Houthis have won in Yemen: What next?, submitted on 2022-02-02 20:43:39+08:00.</a></li>
+  <li><a href="#62-similarity-and-difference-between-soviet-and-french-war-doctrine-during-wwii-submitted-on-2022-02-03-2055300800" id="markdown-toc-62-similarity-and-difference-between-soviet-and-french-war-doctrine-during-wwii-submitted-on-2022-02-03-2055300800">62: Similarity and difference between Soviet and French War doctrine during WWII., submitted on 2022-02-03 20:55:30+08:00.</a></li>
+  <li><a href="#63-what-were-pakistanthe-isis-goals-in-the-2008-mumbai-attacks-were-they-successful-submitted-on-2022-02-04-0528230800" id="markdown-toc-63-what-were-pakistanthe-isis-goals-in-the-2008-mumbai-attacks-were-they-successful-submitted-on-2022-02-04-0528230800">63: What were Pakistan/the ISI’s goals in the 2008 Mumbai attacks? Were they successful?, submitted on 2022-02-04 05:28:23+08:00.</a></li>
+  <li><a href="#64-what-were-the-biggest-factors-that-prevented-the-republic-of-china-from-winning-the-chinese-civil-war-submitted-on-2022-02-04-0630360800" id="markdown-toc-64-what-were-the-biggest-factors-that-prevented-the-republic-of-china-from-winning-the-chinese-civil-war-submitted-on-2022-02-04-0630360800">64: What were the biggest factors that prevented the Republic of China from winning the Chinese Civil War?, submitted on 2022-02-04 06:30:36+08:00.</a></li>
+  <li><a href="#65-does-strategy-fit-between-doctrine-and-tactics-submitted-on-2022-02-04-1629480800" id="markdown-toc-65-does-strategy-fit-between-doctrine-and-tactics-submitted-on-2022-02-04-1629480800">65: Does Strategy fit between Doctrine and Tactics?, submitted on 2022-02-04 16:29:48+08:00.</a></li>
+  <li><a href="#66-why-did-the-use-of-slave-soldiers-ghilmans-mamluks-janissaries-etc-become-so-universal-amongst-muslim-empires-from-the-abbasid-period-onwards-and-why-was-this-phenomenon-unique-to-muslim-empires-submitted-on-2022-02-04-2032340800" id="markdown-toc-66-why-did-the-use-of-slave-soldiers-ghilmans-mamluks-janissaries-etc-become-so-universal-amongst-muslim-empires-from-the-abbasid-period-onwards-and-why-was-this-phenomenon-unique-to-muslim-empires-submitted-on-2022-02-04-2032340800">66: Why did the use of slave soldiers (ghilmans, mamluks, janissaries, etc.) become so universal amongst Muslim empires from the Abbasid period onwards? And why was this phenomenon unique to Muslim empires?, submitted on 2022-02-04 20:32:34+08:00.</a></li>
+  <li><a href="#67-russia-and-china-line-up-against-us-in-no-limits-partnership-submitted-on-2022-02-04-2225560800" id="markdown-toc-67-russia-and-china-line-up-against-us-in-no-limits-partnership-submitted-on-2022-02-04-2225560800">67: Russia and China line up against U.S. in “no limits” partnership, submitted on 2022-02-04 22:25:56+08:00.</a></li>
+  <li><a href="#68-russia-in-georgia-why-submitted-on-2022-02-04-2241390800" id="markdown-toc-68-russia-in-georgia-why-submitted-on-2022-02-04-2241390800">68: Russia in Georgia why?, submitted on 2022-02-04 22:41:39+08:00.</a></li>
+  <li><a href="#69-the-global-distribution-of-the-west-submitted-on-2022-02-06-1418510800" id="markdown-toc-69-the-global-distribution-of-the-west-submitted-on-2022-02-06-1418510800">69: The global distribution of the ‘west’, submitted on 2022-02-06 14:18:51+08:00.</a></li>
+</ul>
+
+<h3 id="57-how-does-south-korea-japan-and-china-view-the-north-korean-military-submitted-on-2022-01-31-1338430800">57: <a href="https://old.reddit.com/r/WarCollege/comments/sgtkyz/how_does_south_korea_japan_and_china_view_the/">How does South Korea, Japan, and China view the North Korean Military?</a>, submitted on 2022-01-31 13:38:43+08:00.</h3>
+
+<p>—– <strong>57.1</strong> —–2022-01-31 23:39:53+08:00:</p>
+
+<p>Japan - Japan perceives hardly any threat from the DPRK and the ruling party trumps up the missile threat primarily as part of its campaign to abolish Article 7 of the Japanese constitution. If war broke out on the Korean peninsula, the only threat that Japan could face is nuclear missiles, but the country has the most robust missile defense system in the region, South Korea is a higher priority target, and North Korea’s missiles are not numerous enough to oversaturate Japan’s defenses. The primary Japanese target in a war would be the American base at Okinawa, but the US has significant missile defense assets there as well.</p>
+
+<p>A parallel security threat exists in the form of a network of North Korean infiltrators and commandos that has existed in Japanese society since the Korean War. The Chongryon Association, formerly the main Korean association in Japan, mobilizes resentment over decades of discrimination to turn Korean-Japanese towards the North. Through Chongryon, North Korea has been able to assert undercover operators into Japanese society and conduct kidnappings and covert operations. Due to the prominence of the sleeper commando in North Korean military thought, the main threat to Japan in the event of a war will probably be these commandos attacking key targets like nuclear power plants, the power grid, and so on, based on Japan’s degree of response. Partly because of this and partly because their help would probably be counterproductive (making North Korea seem like the “nationalist” side of the war), there are no JSDF plans to deploy on the Korean peninsula even if Japan is attacked.</p>
+
+<p>South Korea - South Korea does not see the North as weak but does see it as a known commodity. Due to extensive diplomatic conflicts, a brinksmanship crisis every four years, and its intelligence network, South Korea believes with good reason that it “knows” the North and therefore also knows that it will not attack. South Korea conceives of the North as a rational actor. While its social system and totalitarianism seem insane to the outside world, it should be noted that the DPRK essentially follows traditional Korean governance with Communist wrapping paper: the Joseon dynasty also had tyrannical Kings, frequent palace purges, rigid social classes, and extreme centralization. Such a state nevertheless possesses the capacity to act rationally, and has this capacity to an even <em>greater</em> degree than all the other powers in North Asia: with total control of people’s minds, the DPRK can’t be “blown to war” by the winds of public opinion. It has demonstrated its ability to be peaceful even during the “Arduous March”, the country’s darkest years.</p>
+
+<p>The South nevertheless prepares for war. The US-South Korean defense plan before the 1970s was to defend the Han River, abandoning half of Seoul in the process. They shifted to a border defense in those years, with the US adopting OPLAN 5027. This OPLAN essentially makes American soldiers “tripwires” for North Korea to kill, forcing the American public to go to war - a major concern in the post-Vietnam era. DPRK command doubled down on its artillery park in those years, developing the formidable M-1978 Koksan and drilling perhaps the most competent towed artillery counterbattery crews in the world. Though in the age of SPA, this claim to fame is like being the best featherweight boxer.</p>
+
+<p>The South Korean strategy in the event of a war is, contra popular belief, offensive. A defensive war will take place in South Korea’s most valuable and populous regions, so it’s important the war ends quickly through a sudden strike. The “stupid” South Korean carriers are the smartest investment the country ever made. Ever since it acquired independent naval capability, South Korea has been gearing to perform maritime landings behind North Korean lines, and North Korea has been preparing to stop them with a swarm of small boats and permanent garrisons (complete with <em>fixed</em> artillery) in Pyongyang.</p>
+
+<p>South Korea is aware it will win the war against the North, the question is just at what cost. A Korean war the way most imagine it would lead to South Korea becoming a second world country, dependent on the US and China for reconstruction aid. Such a strategy would probably also not lead to unification, because China will no doubt deploy to protect Pyongyang once the Northern army falters. Beijing would then only allow reunification when American troops leave the peninsula, and would be the only power with the financial resources to help South Korea rebuild. In other words, the “pop” version of the Second Korean War results in South Korea becoming a protectorate. The ROK needs to win quickly, and knows this.</p>
+
+<p>ROK also has a deep understanding of North Korean military doctrine, which values aggression, deployment at close range, and attack from all sides. By some estimates the DPRK has thousands of commandos sleeping in the South to conduct attacks in the rear, and more than a dozen still active invasion tunnels for the same. ROK intelligence is constantly looking for these people, but that’s a very hard thing to do in a populous modern country.</p>
+
+<p>—– <strong>57.2</strong> —–2022-01-31 23:40:23+08:00:</p>
+
+<p>China - While the outlook of South Korea and Japan towards the DPRK are strategically defensive (as in accepting and trying to preserve the status quo), China’s approach is strategically offensive. China has been trying to overthrow the Kim family and turn North Korea into a protectorate for decades. Once this is done, it can trade the DPRK to South Korea in exchange for American troops leaving and fully exploit the country’s rich natural resources to fuel its titanic, hungry industrial base. On a less sinister note, aside from the ROK government no one is more fed up with the antics of the Kim family than the CCP. Almost immediately after Chinese withdrawal from the DPRK, the Kim family purged the pro-Chinese Yanan faction and aligned strongly with the USSR for most of the remainder of the Cold War. During the Sino-Soviet War scare, it was intimately clear to the Chinese that a Sino-Soviet War would escalate into a Sino-Korean war, as North Korea would try to reclaim Balhae, re-establish ancient Goguryeo and cut Chinese forces in Manchuria off from the rest of the country by sealing off the Shanhai pass.</p>
+
+<p>Wait what are all these words you might ask? In ancient times what is now Northeast China was part of Korea, captured from the Northern Korean kingdom of Goguryeo by the Tang. These lands - more populous and valuable than North Korea itself - were actually the heart of the ancient Korean civilization (!). It is a common ambition of Korean nationalists in North and South to reclaim these lands, and there are still millions of Koreans living there. The North, being the more traditional and nationalistic of the two Koreas, is actually the less palatable Korea for China to deal with, despite being a military ally and a fellow Communist country. The Chinese and South Korean governments are in fact on better terms, though that is not to say they have no disagreements. While both want the Kim family to be replaced, the ROK government is not happy with the enthusiasm with which Beijing pursues this goal - any conflict will reap far more damage on the South than on China, so their incentives are different.</p>
+
+<p>The most recent Chinese attempt to depose the Kims happened in 2012. Following the death of Kim Jong Il, China assisted their main ally in Pyongyang, Jang Song-thaek, in consolidating power under his “Korean Workers’ Party Administrative Department”. For a year, Jang ruled North Korea as regent and signaled a more moderate tone (which foreign press falsely attributed to Kim Jong-il). He freed tens of thousands of political prisoners (many of them also part of his moderate and Sinophiliac faction) and made frequent liasons with Beijing. But as we know, his story ended poorly and Kim regained control. He did this with the help of the Reconnaissance General Bureau, the country’s main intelligence network: its commander, Kim Yong Chol (no relation) subsequently became his right hand man.</p>
+
+<p>After the coup and the purge that followed, China scrambled to find alternative candidates for leadership. Kim Jong-un’s brother, Kim Jong-nam, was something of a loser and was never a real candidate, but nevertheless was a client of Jang Song-thaek through his patronage network in the Malaysian embassy. The RGB assassinated him in 2017. That same year, Kim Jong-nam’s son, Kim Han-sol, rebased to Beijing, where police foiled an RGB attempt to assassinate him too. No doubt, Chinese intelligence was putting out feelers to replace Jong-un with Han-sol, or at the very least intended to use him as a bargaining chip with Pyongyang. However, Kim Jong-un was successful at consolidating his regime and Beijing evidently abandoned this scheme by 2020, when it was reported Kim Han-sol had transferred to American protective custody.</p>
+
+<p>The main military operations China plans for in North Korea is an offensive operation to secure political advantages in a Korean crisis. The Beijing and Shenyang military regions, spanning China’s Northeast, remain the two most important and heavily armed PLA MRs, despite Russia having long flipped from an enemy to an ally. This indicates that Beijing takes the prospect of this operation very seriously. North Korea moreover has millions of troops in the Northern half of the country facing China. Any Chinese advance into North Korea would be spearheaded by the Siberian Tigers, the Shenyang Military Region’s own special forces unit trained for mountain warfare. Like the US and South Korea, China maintains a sizable amphibious force in the region as well, supported by a carrier battle group and five tank landing ships in the Yellow Sea. The total lift capacity of this fleet is actually roughly equal to that of the entire ROK Navy.</p>
+
+<p>In the past, there were two possible operations where this force could be deployed without fighting the entire KPA. The first was a political struggle where China intervened to back its faction, and the second is a Korean war where China lands troops in Pyongyang and charges down the peninsula to “save” the North (and implicitly replace Kim with someone more amenable). Today, only the second remains a possibility. China wants to avoid open conflict with the DPRK in all other circumstances. Victory in either operation implicitly meant the end of the DPRK, as the entire country would be used as a bargaining chip with South Korea to evict American troops from the peninsula. China’s goal today is not to preserve a militarized, officially aligned Communist state. It’s to disarm the Korean peninsula, remove a potential threat, and revert Korea to its status of being a loosely aligned “hermit Kingdom” tied to China by trade and antipathy for Japan.
+This all begs the question of why China didn’t conduct this trade in the two periods where it was “possible”. The first was 1953-57, when North Korea was essentially a Chinese puppet ruled by the Yanan faction, and the second was during the arduous march when Kim Jong-il was totally dependent on Chinese aid to survive. In the first period “reunification for departure” was not desirable since China’s mindset was different. It had just emerged from a century of wars against Western coalitions and its primary focus was “expelling the barbarians” from Asia. Intra-party debates of the era centered around how many millions of men in how many lines were required to repel an American invasion that Mao &amp; co. believed was very likely, and what percentage of the population needed to have access to firearms to conduct a guerrilla war. Providing aid to North Korea, Vietnam, and other “frontlines against the West” was such a priority that it continued even during the Great Famine. It was not until America started to lose the Vietnam War and Sino-Soviet relations became downright hostile that China believed the barbarians had been sufficiently expelled. Its relations with North Korea subsequently worsened.</p>
+
+<p>In the second period, China did not push for reunification for similar security concerns. After the fall of the USSR, the CCP lived through “two decades of insecurity” where their obsolete military machine could easily have been defeated by an American pre-emptive attack, and where its economy was still reliant on exports to grow. In these years, China sought to make itself a “useful member of the American world order” by providing services to the metropole. It joined the war on terror, bought trillions in American bonds, and actually liked the fact that Kim Jong-il was stirring up so much trouble: Beijing had the key role to play in the Five Party Talks and took full advantage of America’s lack of priorities (trying to depose Kim instead of curtail its rising rival) to forestall what it perceived as an inevitable American attack. China’s outlook on North Korea only shifted from encouraging its misbehavior to cracking down on it in the 2010s, by which time exports as a percent of GDP had declined by half and military strength had greatly improved.</p>
+
+<p>Just as importantly, Kim Jong-il played his cards right. Amid economic collapse, Kim paradoxically placed all resources in the hands of the military and gambled that Beijing would give him just enough aid to stay afloat. The gamble worked. Aware that a war would probably involve China, destroy the East Asian financial market, and lead to an even greater American presence in the region, Beijing had effectively no ability to use aid as a “lever” against Kim, as it would only be a lever against itself. Jong-il, unlike Jong-un, attempted to appease Beijing where possible and it was under his rule that Jang and his “second Yanan faction” rose.</p>
+
+<p>—– <strong>57.3</strong> —–2022-02-01 02:15:37+08:00:</p>
+
+<p>Definitely - I wasn’t saying members of Chongryon would assist the North, only that the Zainichi community and the DPRK’s control over Chongryon has allowed the DPRK to insert operatives into Japan.</p>
+
+<p>—– <strong>57.4</strong> —–2022-02-01 22:19:15+08:00:</p>
+
+<p>Because there is zero chance of those weapons being used against <em>them.</em> All the nuclear crisis did was give them more bargaining chips with the US.</p>
+
+<p>—– <strong>57.5</strong> —–2022-02-02 01:48:04+08:00:</p>
+
+<p>Everything Beijing did in the 2000s was short-sighted because they knew in the long run they’d win. Since 1991 China has lived with a constant belief that the US is planning to attack it. As recently as 2020, PLA command was convinced Donald Trump would attack China to remain President, and the chairman of the US JCS had to personally call them to assure them he would not carry out that order if it were given. If the US had 1.4 billion people and China had 320 million, but was a hostile hegemon with a GDP per capita 10 times greater, the US <em>would</em> allow Mexico to have nukes. It would give China a distraction and buy them time.</p>
+
+<h3 id="58-how-did-the-ijas-war-in-china-impact-the-ijns-campaign-in-the-pacific-and-vice-versa-submitted-on-2022-02-01-0010310800">58: <a href="https://old.reddit.com/r/WarCollege/comments/sh4t7v/how_did_the_ijas_war_in_china_impact_the_ijns/">How did the IJA’s war in China impact the IJN’s campaign in the Pacific, and vice versa?</a>, submitted on 2022-02-01 00:10:31+08:00.</h3>
+
+<p>—– <strong>58.1</strong> —–2022-02-01 02:05:15+08:00:</p>
+
+<p>It largely but not entirely didn’t. After the Russo-Japanese War and World War 1, the IJN had exploited the glory of its victories to absorb the lion’s share of Japan’s financial and military industrial resources. So much so that Phillips O’Brien points out that the combined war industrial base of Manchukuo and Japan was comparable to that of the USSR, but the USSR outproduced Japan by an order of magnitude in tanks and artillery. This wasn’t because the factories didn’t exist for Japan to compete, it’s because Japan’s industrial output was going towards ships and planes.</p>
+
+<p>The IJA in the interwar years underwent the most remarkable and successful military adaptation of the 20th century. Realizing they would always be outgunned by the Soviet Union and China, they adopted a two-pronged strategy to cope.</p>
+
+<p>First, they supported Chinese warlord Zhang Zuolin in an effort to develop the Manchurian industrial base (then 90% of China’s total), and leverage the Zhangs as allies against the Soviets and China. When Zhang lost the National Protection War against Chiang Kai Shek, the IJA murdered him and eventually took full control of Manchuria, which they turned into their own country ruled independently of pesky civilians and the navy. This strategy was not very successful, however. While Manchuria did amass an impressive industry and produced more steel than Japan by 1941, it mostly supplied intermediate goods to Japanese industry and didn’t create many finished products. Japanese industry, meanwhile, was controlled by the conservative zaibatsu who patronized the navy, so the net effect of this was really just increasing Japan’s naval and air production capability.</p>
+
+<p>Second and more successfully, they invented a way to “fight on the cheap”. Realizing they’d always be outnumbered and outgunned, they created a doctrine based around speed, surprise, and misdirection. Japanese soldiers were trained to march 40 miles daily for five days on end and fight in conditions other armies considered unsuited to combat: night and poor weather. Officers were taught to operate aggressively and independently of orders, and soldiers were taught to use enemy weapons &amp; supply. Everyone was indoctrinated to fight and die to the last man.</p>
+
+<p>The result was to turn the army into a swarm of hornets that thrived in chaos. It consumed very little ammunition, traveled light, and wasn’t dependent on coordination or communication with other units and arms. In other words, it didn’t need rear services and could freely disrupt those of the enemy. Since it’s impossible to gauge enemy strength except through his actions, the aggressive IJA seemed to outnumber its enemies everywhere and paralyzed their decision making. Often - the most famous case being Singapore - it induced its enemies to retreat or even surrender even when they were in practice vastly superior: aggression created an outsized perception of its available strength.</p>
+
+<p>All this could be done with only minimal consumption of resources, and many of the IJA’s campaigns were in fact “profitable” in terms of munitions expended vs. captured. The only major impact the China war had on the Pacific one was to decrease the number of divisions available for the hastily planned Southeast Asia landings, which the army deliberately did no work on during the interwar as they didn’t want to fight the “navy’s war”. This ended up not mattering, however, as even the outnumbered Japanese divisions that deployed were able to win.</p>
+
+<p>The war in China did not really “tie down” army forces, nor would it have really mattered if all its forces were freed. In 1944, an American commission in Chongqing concluded that a “de facto ceasefire” had existed between the Japanese and both the KMT and CCP for three years until Operation Ichi-Go. In other words, the war in China was mostly over when the Pacific War had begun. That was not to say the CCP and KMT were defeated (though they were certainly badly mauled by the initial invasion and the Three Alls Campaign respectively), simply that both Mao and Chiang were waiting for Japan to be defeated by America and were conserving resources ahead of an eventual confrontation with each other. Japan at any given time had around 1 million troops in China, and another 400-700,000 in Manchuria. The Manchurian troops were largely not doing any fighting after 1941, at which point they had crushed the insurgency there, but the IJA insisted that a garrison be maintained to protect “its province” against the Soviets. Some within the IJA also still wanted to invade the Soviet Union despite the ongoing war with the US, and invasions were planned, approved by the Emperor/cabinet, and canceled in 1941, 1942, and 1943.</p>
+
+<p>Despite these commitments, the IJA had a huge reserve available. By 1945, more than 3.1 million soldiers were sitting in Korea and Japan, awaiting an “inevitable” American invasion. Deploying these forces would not have made a difference besides more Japanese deaths in the Pacific, because the navy could not supply them. Allied and Japanese <em>combat</em> casualties in the Pacific War were roughly equal. However, the Japanese suffered between 5 and 10 times more casualties from starvation, malnutrition, and sickness. Submarine warfare had totally destroyed the IJN’s ability to supply the IJA, and after Leyte Gulf all of the garrisons in Southeast Asia were cut off.</p>
+
+<p>As far as the IJA was concerned, they had won “their war”, first forcing China into a de facto ceasefire in 1941 then overrunning Western forces in Asia and finally crushing Chiang when he made noise in 1944. All their reversals - Bougainville, island defenses, and the Burma campaign - they rightly blamed on the navy’s inability to supply them. This inability to supply them also limited their ability to contribute maximally to the war, so much so that only a minority of Japan’s troops were ever deployed Eastward and Southward, despite that being their only “active front” for most of the period after Pearl Harbor.</p>
+
+<p>The IJA would have had a far greater impact on the Pacific War as they were planning for a climactic battle for Kyushu, but that was ultimately cut short by the atomic bomb and the Soviet invasion of Manchuria. Because of this and the de facto China ceasefire, it’s not an exaggeration to say that most of the IJA essentially sat out of the war after Pearl Harbor.</p>
+
+<p>—– <strong>58.2</strong> —–2022-02-01 06:40:44+08:00:</p>
+
+<p>Yes that’s right</p>
+
+<h3 id="59-why-are-drones-seemingly-less-effective-in-ukraine-than-in-azerbaijanarmenia-submitted-on-2022-02-01-0155390800">59: <a href="https://old.reddit.com/r/CredibleDefense/comments/sh7fc6/why_are_drones_seemingly_less_effective_in/">Why are drones (seemingly) less effective in Ukraine than in Azerbaijan/Armenia?</a>, submitted on 2022-02-01 01:55:39+08:00.</h3>
+
+<p>—– <strong>59.1</strong> —–2022-02-02 06:32:14+08:00:</p>
+
+<p>There’s a lot of pieces do this. As u/zealouszoopark mentioned, Russian countermeasures are miles ahead of what Armenia had available. Another variable is doctrine. Russian doctrine prizes tube artillery as the main means of fire support. Drones are used simply for reconnaissance. Strike drones don’t feature prominently in Russian doctrine because tube artillery can put out far higher volumes of fire and saturate over a greater area. In Russian military thought, shock is a product of casualties over time, so any weapon that doesn’t kill quickly is not worth having.</p>
+
+<p>Ukraine recently bought a lot of Turkish drones, but they are being very careful with them. First because they have to be diplomatically careful and not give Russia provocation to invade. Second, because they have not yet embarked on an offensive to reclaim Donbass, so providing overwhelming fire support is a waste. Third, because in the initial phase of the war most of their air force was disabled by AA and Ukraine is a much poorer country than most imagine - it has about the third of the GDP per capita of China, and less than Guatemala. They do not want to see a repeat of that rate of attrition.</p>
+
+<p>Finally the Russians have always been much stronger than other Soviet successor states in camoflauge, AA, and evasion. This was especially true of Armenia, who essentially set up their entire army to be perfect targets for drone strikes. The most basic definition of a doctrine is a “theory of victory”. By that definition Armenian “doctrine” consisted of a few simple points:</p>
+
+<ol>
+  <li>Armenia strong</li>
+  <li>Azerbaijan coward</li>
+  <li>Haha shoot and they will run</li>
+</ol>
+
+<p>This is only barely an exaggeration: tactically and technologically, the Armenian army had barely changed between 1994 and 2021. It fought in essentially the same manner as before and made no adaptations to the new reality of facing an enemy with aerial fire support. Russia, in contrast, is always keeping up with technological developments and has spent the better part of 30 years developing technologies to counter the Western advantage in the skies from below.</p>
+
+<h3 id="60-is-it-true-that-carthagian-army-was-inferior-to-roman-and-carthage-had-victories-only-thanks-to-hannibal-submitted-on-2022-02-01-2112560800">60: <a href="https://old.reddit.com/r/WarCollege/comments/shun8s/is_it_true_that_carthagian_army_was_inferior_to/">Is it true that Carthagian army was inferior to Roman, and Carthage had victories only thanks to Hannibal?</a>, submitted on 2022-02-01 21:12:56+08:00.</h3>
+
+<p>—– <strong>60.1</strong> —–2022-02-02 04:48:47+08:00:</p>
+
+<p>Carthage largely <em>didn’t have</em> an army. Yes, there were garrisons for each of the Phoenician colonies, with that in Carthage itself being the largest, but they weren’t very good, didn’t need to do much, and only really showed up in the 2nd Punic War for Zama. Their performance there was nothing to admire. The Barca family essentially operated a parallel state in Spain. The elite core of their army were Phoenician professional soldiers and mercenaries, who commanded a scattering of Iberian and Libyan tribal auxiliaries. This polyglot force was fire-forged into a disciplined, veteran, and semi-professional army by the end of Hamilcar Barca’s lifetime through decades of campaigning. It is not entirely accurate to call this force the “Carthaginian Army”, since it neither took orders from Carthage, nor was it majority Carthaginian. Rather, it was the army of the Barcid state, which was de facto a separate country with a separate foreign policy, only loosely aligned with the oligarchy in Africa.</p>
+
+<p>The recruitment MO of the Barca clan was to coax or intimidate local communities into supplying them with “militia” forces, giving those forces a taste of pay, loot, and plunder, then retaining whoever wanted to stay on board. In every battle their dynasty fought, there were always “A” and “B” troops, the former being battle hardened veterans who liked the soldier’s life and became professionals by choice, and the latter being raw troops supplied by allies and vassals. Hannibal knew crossing the Alps would involve huge numbers of deaths and desertions, but he wasn’t particularly concerned about that. Nor was he particularly concerned about losing thousands of unarmored auxiliaries on the frontlines of Cannae. The Barcids saw untested men as easily replaceable, and battle as an act that forged the remainder into good steel.</p>
+
+<p>So was the Barcid army better or worse than the Roman army? It was both. The core of the Barcid army were the best armed, best trained, most experienced soldiers in the Western world. The worst were raw recruits with almost no training or experience to speak of. As for equipment, Hannibal’s Gauls fought practically naked. In the hands of a skilled commander, however, that setup was a huge advantage. Hannibal’s “professionals” formed his maneuver element and could perform critical actions while his auxiliaries made contact with the enemy and held them in place.</p>
+
+<p>The Romans, being an army of “citizen soldiers” (less romantically, amateurs), had no such ability, and this was their primary deficiency during the war. The citizen-soldier model was standard across Mediterranean powers in the classical age. Its advantages were financial and numerical. If every man learned to fight <em>a little bit</em>, huge armies could be levied against the enemies of what were initially very small states (the largest Italian and Greek city states prior to the rise of Rome controlled populations in the low six digits). Next, every man had to provide his own equipment. In an age where states were essentially loose “coalitions of individuals” and operated on shoestring budgets, this was essential.</p>
+
+<p>Such armies were always “proud amateurs”. With the exception of the Spartans, no Greek city state army even had a scheme of maneuver or formation drills. The usual method of combat was to charge directly at the enemy, and have faith that superior willpower would carry the day.</p>
+
+<p>The Romans, being the most effective citizen-army, adapted so they could still perform <em>some</em> maneuvers. They placed their most experienced soldiers in the rear, both because that was where retreats started, and because they had the greatest capability to maneuver. They spaced out their formations, eventually spawning their famous “checkerboard”. Finally, as early as the First Punic War, up to two thirds of any Roman army was held in reserve. It is no surprise that Rome’s worst and most total defeat - Cannae - occurred when they eliminated the space between their squares and denied their badly coordinated citizen army the ability to perform any maneuvers whatsoever. During the battle, the Carthaginian horse, after routing the Roman cavalry, leisurely made their way to the Roman rear and the latter could organize no effective response.</p>
+
+<p>The impact of Hannibal’s mobile professionals cannot be understated. His only defeat - Zama - was at the head of a huge force of citizen-soldiers and hastily raised auxiliaries similar to the Roman horde at Cannae, while his enemy for the first time commanded a smaller group of battle-hardened veterans. The majority of Hannibal’s army in Italy could not make the journey with him. That Hannibal offered to cede Barcid Spain to Rome on the eve of battle despite greatly outnumbering Scipio demonstrated that he understood just what a disadvantage he was at.</p>
+
+<p>The Barcid army was better than the Roman, but the Carthaginian army (meaning that incoherent horde which only saw a single battle) was much worse.</p>
+
+<h3 id="61-the-houthis-have-won-in-yemen-what-next-submitted-on-2022-02-02-2043390800">61: <a href="https://old.reddit.com/r/geopolitics/comments/sinrvl/the_houthis_have_won_in_yemen_what_next/">The Houthis have won in Yemen: What next?</a>, submitted on 2022-02-02 20:43:39+08:00.</h3>
+
+<p>—– <strong>61.1</strong> —–2022-02-04 22:37:00+08:00:</p>
+
+<p>Great post. It always confuses me when people attribute any Houthi success or behavior to Iranian support when the country is under a total blockade.</p>
+
+<p>—– <strong>61.2</strong> —–2022-02-04 22:40:54+08:00:</p>
+
+<p>Their military record is also extremely disappointing and overhyped. I guess they’re a modern Sparta after all.</p>
+
+<h3 id="62-similarity-and-difference-between-soviet-and-french-war-doctrine-during-wwii-submitted-on-2022-02-03-2055300800">62: <a href="https://old.reddit.com/r/WarCollege/comments/sjihbz/similarity_and_difference_between_soviet_and/">Similarity and difference between Soviet and French War doctrine during WWII.</a>, submitted on 2022-02-03 20:55:30+08:00.</h3>
+
+<p>—– <strong>62.1</strong> —–2022-02-04 00:19:50+08:00:</p>
+
+<p>Great question and a criminally under investigated topic. Recently there’s been a lot of great work on <a href="https://smallwarsjournal.com/jrnl/art/us-army-culture-french">French influence in the American army</a>, but what very few know is that French influence was even greater on the late Tsarist and Soviet army. You could say that Soviet doctrine was French doctrine on steroids.</p>
+
+<p>What we know today as the French way of war originated in the Enlightenment. This period coincided with military reforms in France and the founding of many professional officer schools. Like most French intellectuals of the time, their superintendents were obsessed with Rene Descartes and his “rationalist” conception of the world. Descartes believed any topic and any task could be broken up into component parts, which were the best digested or best done separately. These schools gave their students a “generalist” instruction in mathematics (especially geometry), science, and engineering before teaching them anything of direct military use. At least as far as their cadets were concerned, this education was extremely valuable. They saw themselves as the “mathematicians of war”, uncovering universal truths and mysteries about a topic that had long been shrouded in mystery. They prized their “sangfroid” - the ability to make cold, calculating, precise decisions in disregard for chaos, carnage, and danger. This quote by Napoleon embodied their mentality:</p>
+
+<blockquote>
+  <p>To be a good general, one must possess knowledge of mathematics. It serves to rectify one’s ideas in countless circumstances. Perhaps I owe my success to my mathematical ideas. A general must never create mental pictures; that is the worst thing of all. Just because a supporter has abandoned a post, it should not be thought that the whole army is involved. My great talent, what most distinguishes me, is seeing everything clearly. It is even my kind of eloquence; it is seeing the substance of the issue straight away, in all its aspects. It is the perpendicular that is shorter than the oblique.</p>
+</blockquote>
+
+<p>Napoleon lived during a “crystallization period” for the French way of war, which he and his marshals had been decisive in shaping and his “prophet” Jomini had codified. The roots of Soviet doctrine were laid here. Napoleon formulated plans based on precise calculations and insisted all his marshals obey him absolutely. He was surrounded by a large staff that dictated letters from him and translated the ramblings of the “army brain” into coherent orders. All information that was to be had on a campaign was presented in dispatches. This culture permeated down the ranks: at every level, the commander was absolute. His men were drilled in specialized tasks, did not need to know the overall picture of the campaign, and did not need to know where they were or how many enemies they were facing. These specifically drilled men, broken up into a greater number of specialized roles than in rival armies, were like cogs in a machine put together by the engineers on Napoleon’s staff.</p>
+
+<p>At the operational level, Napoleon and his staff adapted and created innovative plans. At the tactical level, however, commanders were highly “normative” and were discouraged from deviating from principles. The Duke of Wellington once said that one British cavalry squadron could easily beat two French, but a French cavalry battalion could easily defeat two British. The traditional European model for soldiery was for professional soldiers (“mercenaries”, in the parlance of the time) to learn on the job and sharpen well-rounded infantry skills. The chaos of the revolution forced first Lazare Carnot, and then Napoleon, to drill hastily raised levies for specific functions and entrust their commanders with all the mental work. The result was an army that could suffer immense reverses at the small level, but was doing better the further you “zoomed out”. The individual French infantryman or cavalryman was perhaps a less versatile combatant than his English or Austrian counterpart (at least until Austria also reformed to a mass army system), but excelled at one thing and was better coordinated.</p>
+
+<p>French cultural and intellectual influence on Russia predated Napoleon, but the main period of military influence followed his achievements. It was conveyed to Russia through Baron Jomini, who defected from Marshal Ney’s staff to Russia, eventually rising to the rank of Major General. The French had a profound influence on Russian military thought thereafter, something documented in great detail by Bruce Menning’s <em>Bayonets Before Bullets</em>. This process was aided by Tsar Nicholas I, a “pedant” who loved showing off his intelligence, valued precision, loved parades, and loved the artillery. Such a man was naturally drawn to military Cartesianism. Gone were the days of Suvorov’s emotional, easily digestible <em>Science of Victory</em>. Russian military publications of the time obsessed over <em>exactly</em> how many paces a skirmish line should advance before joining the columns in the bayonet charge and what manner of casualties could be expected in a column assault over two hundred paces. In the victorious Russo-Turkish War of 1877-78, it was not the brilliant Iosif Gurko who took the Shipka pass in a daring cavalry raid who won the greatest praise. His accomplishment was ignored and treated with contempt by the Imperial Suite (general staff), who did not even bother to exploit it and penetrate the Ottoman rear. Instead, the Tsar’s heroes were Mikhail Dragomirov, Mikhail Skobelev, and Dmitry Milyutin, who followed doctrinal norms but applied them in ideal conditions and timing. From that war forward, virtually all Russia’s “star generals” followed the same model to success: methodical staff work, extensive preparation, conformity to force ratios and norms.</p>
+
+<p>The late Tsarist period saw the first “perfect” manifestation of military Cartesianism in the form of the Brusilov Offensive. There, the Russians fought a perfect and well-planned methodical battle that eliminated the Austro-Hungarian army as an effective force. The influence Brusilov had on junior officers, combined with the “scientific” emphasis of Bolshevism caused methodical battle to reach its apex in the Soviet period, but not without trouble. The 1923-27 period saw an intense doctrinal debate between the partisans of Leon Trotsky and Mikhahil Frunze. The former believed that military science was simplistic and essentially came naturally to men given enough experience and understanding of new technologies. As he put it:</p>
+
+<blockquote>
+  <p>According to the old view, the foundations of military science are eternal and common to all ages and peoples. But in their concrete refraction these eternal truths assume a national character. Hence we get a German military doctrine, a French one, a Russian one, and so on. If, however, we check the inventory of eternal truths of military science, we obtain not much more than a few logical axioms and Euclidean postulates. Flanks must be protected, means of communication and retreat must be secured, the blow must be struck at the enemy’s least defended point, etc. All these truths, in this all-embracing formulation, go far beyond the limits of the art of war. The donkey that steals oats from a torn sack (the enemy’s least defended point) and vigilantly turns its crupper away from the side from which danger may be expected to come, acts thus in accordance with the eternal principles of military science. Yet it is unquestionable that this donkey munching oats has never read Clausewitz, or even Leer.</p>
+</blockquote>
+
+<p>Frunze, in contrast, believed the Soviets needed to codify the “norms” they learned in the revolutionary war and increase the mathematical precision of their staff work. Only then could they develop a “Communist” way of war that could triumph over the capitalists. The distinction here was as much aspirational as intellectual. Trotsky, though an internationalist who wanted to export revolution, was a military realist. He never believed the Soviets could triumph over Western armies without decades of industrialization, and thought they needed the assistance of a local proletarian uprising. Frunze and his colleagues, “dizzy with success” after conquering their own countrymen, were rather full of themselves and thought this was possible. Frunze won the debate essentially by accident, since Trotsky was purged by Stalin.</p>
+
+<p>The result was a degree of methodization in warfare never before seen in Russia or anywhere else. By the early Cold War, Soviet soldiers were graded on their ability to fulfill a series of basic infantry tasks like mounting/dismounting from a vehicle and forming up a skirmish line and advancing with marching fire within time limits set by the general staff. Marksmanship standards were set, as were “tactical norms”. Typical tank and armored vehicle training involved pretending to drive a vehicle (driving was too expensive) in a simulated attack against a position: inspectors penalized units for violating tactical norms like seeking flanking chances and making use of dead space.</p>
+
+<p>Besides the French, there were of course other intellectual influences on the Russian and Soviet armies. They loved the theories of von Clausewitz and borrowed some cavalry ideas from Central Asian nomads and Philip Sheridan. However, their organizational culture, training philosophy, and intellectual roots were all shaped by the French during the Milyutin period, and that backdrop has stuck with them to this day.</p>
+
+<p>—– <strong>62.2</strong> —–2022-02-04 08:35:02+08:00:</p>
+
+<p>For not doing those things</p>
+
+<h3 id="63-what-were-pakistanthe-isis-goals-in-the-2008-mumbai-attacks-were-they-successful-submitted-on-2022-02-04-0528230800">63: <a href="https://old.reddit.com/r/WarCollege/comments/sjuvoe/what_were_pakistanthe_isis_goals_in_the_2008/">What were Pakistan/the ISI’s goals in the 2008 Mumbai attacks? Were they successful?</a>, submitted on 2022-02-04 05:28:23+08:00.</h3>
+
+<p>—– <strong>63.1</strong> —–2022-02-04 09:43:18+08:00:</p>
+
+<p>Plus they weren’t all that bothered with the outcome. India has more Muslims than Pakistan - 15% of the population. The Mumbai attacks were one in a series of actions since independence that drove a wedge between Hindu and Muslim Indians, and that could only benefit Pakistan.</p>
+
+<h3 id="64-what-were-the-biggest-factors-that-prevented-the-republic-of-china-from-winning-the-chinese-civil-war-submitted-on-2022-02-04-0630360800">64: <a href="https://old.reddit.com/r/WarCollege/comments/sjweyz/what_were_the_biggest_factors_that_prevented_the/">What were the biggest factors that prevented the Republic of China from winning the Chinese Civil War?</a>, submitted on 2022-02-04 06:30:36+08:00.</h3>
+
+<p>—– <strong>64.1</strong> —–2022-02-04 08:23:41+08:00:</p>
+
+<p>Lack of initiative. Contra popular belief public support had almost nothing to do with it. Harold Tanner in both his books on the CCW convincingly argues that most Chinese were apathetic towards the CCP and KMT both. It’s impossible for “Mao’s writings” to have had any effect… more than 95% of peasants were illiterate and the vast majority of what he wrote was on military science.</p>
+
+<p>The Red army was also not more tactically gifted. They were trounced repeatedly in 1946, at one point attacking with a 10:1 advantage and losing. At Siping, the Communist “Northeast Democratic United Army” were completely outfought and admitted their basic infantry skills were far behind those of their enemy, the National Revolutionary Army.</p>
+
+<p>So why didn’t the NRA win? Because they didn’t exploit the victory. Or for that matter do anything at all between 1946 and 1948. Lin Biao, overall commander of the NDUA, had caught them in a clever ambush before Siping and they moved with crippling caution thereafter. By the time they did launch a general offensive they were totally outfought as by that time the NDUA had improved.</p>
+
+<p>Between 1946 and 1948 the NRA in Manchuria, representing its best formations, had received constant orders from a Chiang Kai Shek to attack, but defied all orders except one. When Changchun and Shenyang were under threat of encirclement, Chiang ordered a breakthrough. The local commanders chose to sit, then eventually surrendered.</p>
+
+<p>Why did they do all this? Because by 1945 cowardice was thorough institutionalized within the NRA command. The Second Sino-Japanese War was effectively over by 1941. At that point, the most effective formations of both the NRA and Red Army had been neutralized in a series of devastating defeats and a “de facto ceasefire” existed between Chinese and Japanese forces until Operation Ichi-Go in 1944. Cross-frontline trade resumed and both Mao and Chiang counted on America to defeat Japan while they amassed forces for the eventual confrontation. Chiang and his remaining commanders resorted to all sorts of skullduggery to survive, including having hundreds of thousands of troops defect to the Japanese puppet army so they could be saved from the IJA and used against the Communists. In other words, the NRA Officer corps was an clique of survivors, and in the civil war they did what they had been doing: survive.</p>
+
+<p>What did this mean for a Chinese general? Not lose your own troops. Far from being the head of an organized military, Chiang was little more than China’s longest lived “shogun”. He presided over a warlord coalition, and even his “Whampoa clique” of officers he personally trained when superintendent of the KMT military academy commanded the personal loyalty of their troops. Pay was irregular and depended on the general, and allegiance switches were normal. Chinese armies belonged to no one but the man who led and paid them. When these armies were lost, the general had to beg his allies for a new command, so it was better that they weren’t lost. In the worst case scenario, warlord could “barter with their troops” and secure positions in winning armies by defecting.</p>
+
+<p>Why was the Red Army still worse than the NRA in 1946 then? Two reasons. First, it wasn’t in better shape. Peng Dehuai launched the 1940 Hundred Regiments Offensive without Mao’s approval, since the latter knew what would happen next. The Japanese response, known as the “Three Alls Campaign”, put the Red Army out of action until 1943, and it saw very little action thereafter. The NDUA also initially consisted largely of “honghuzi” who joined it opportunistically. Manchuria was China’s recently colonized “Wild West” and had half a million mounted gunslingers who sold their services to the highest bidder, and robbed trains if no one paid them. While decent enough shots, they knew nothing of infantry tactics and made rookie mistakes at Siping like firing at men in cover directly in front of them instead of exploiting crossfires. Second, the NRA received an huge amount of allied aid from 1941 to 1945. Since it was engaged in almost no combat operations, all this kit was hoarded. The Allies demanded Chiang share it with Mao, but he never did. US marines also landed all over China in late 1945 to ensure the Japanese surrendered their equipment to the KMT and not the CCP. Consequently, the NRA in 1946 was an order of magnitude better armed than the NDUA.</p>
+
+<p>The NDUA reversed the skills gap through two years of practice, which the NRA command let them have due to its institutionalized cowardice. NDUA HQ sent constant directives demanding tactical changes and conducted small scale operations involving 10:1 numerical superiority. These laboratory actions allowed them to learn modern war on the job. They went from failing to attack cities with 10:1 odds to being a competent combined arms force, concentrating at the right points and coordinating with artillery. It was also during this period that they perfected Communist China’s famous infiltration tactics.</p>
+
+<p>Once it got good enough, the NDUA launched an all out offensive against the NRA in Manchuria. It encircled the “two big cities” and destroyed its local enemy, which represented all the best NRA forces. This defeat in 1948 caused a general collapse of confidence in Chiang’s regime. His armies were demoralized, his officers defected, and he was finally deposed as President by Li Zongren. Guerrilla activity intensified and the country fell into a state of general uprising.</p>
+
+<p>—– <strong>64.2</strong> —–2022-02-04 15:15:16+08:00:</p>
+
+<p>His writings didn’t cause the peasant’s war, the preaching of his followers did. You could say this is the point you’re trying to make, but that would be a bad comparison. Unlike the protestant reformers, the CPC’s agitators for twenty years totally failed to incite mass popular uprising against the KMT. They only succeeded when the military situation turned decisively in their favor.</p>
+
+<p>—– <strong>64.3</strong> —–2022-02-04 15:30:31+08:00:</p>
+
+<blockquote>
+  <p>The CPC spent those most of those same years scurrying from bolthole to bolthole just ahead of KMT troops. Then they spent 1945 massively expanding their army by drafting an enormous number of raw troops, the army that incidentally faced off against Chiang’s best. So I’m not sure if the KMT actually had it worse.</p>
+</blockquote>
+
+<p>That. The situation in the Communist rear was much, much worse than in the nationalist rear. The CCP was trying to fight a war on the frontlines while simultaneously waging a counterinsurgency against ~400,000 “bandits” (some of whom had tanks). Outside major cities, Manchuria was more or less lawless since its colonization in the late 19th century. The Qing, Russia, the Zhang family, and Japan had all tried and failed to establish order in the countryside and in the end made pragmatic deals with the “bandits” to maintain a semblance of peace.</p>
+
+<p>The problem with the CCP doing the same, as they found out in the disastrous retreat from Siping in which the majority of their army deserted them, was that bandits they dealt with were fairweather friends. For the next two years, they were launching offensives against the KMT <em>while</em> chasing down and destroying any independent military force that didn’t totally submit to their authority and dissolve its prior autonomy. In contrast, Chiang, through being the recipient of American aid and some clever maneuvers, had totally established himself as the leader of the Chinese warlords by 1945. Much of the South was ruled by warlord governments of questionable loyalty, but at least there was <em>a government</em> in most of its landmass.</p>
+
+<p>—– <strong>64.4</strong> —–2022-02-05 01:21:08+08:00:</p>
+
+<p>There were basically two periods. From 1937 to Pearl Harbor, and after Pearl Harbor. In the first period, Chiang was fighting Japan alone. Chiang threw everything he had into the fight for a few reasons:</p>
+
+<ol>
+  <li>He was educated in an IJA military school and thought he knew the Japanese. At Whampoa and after, he, like most Chinese officers of the time, tried to bring Japanese doctrine to China and thought he knew how to beat them at their own game.</li>
+  <li>His forces did well against Japan in the 1932 Battle of Shanghai, which led to a widespread perception in China that the country had entered a period of military resurgence and could defeat Japan alone.</li>
+  <li>He was trying to correct the perception that Chinese armies were incompetent, cowardly, and would roll over after only token resistance. Severe budget cuts after the retirement of Empress Ci Xi essentially turned the late Qing army into a force that only existed on paper. It crumbled in the 1894-95 war, and dissolved into infighting in the Boxer Rebellion. The military reputation of China in 1937 was basically that of the Arabs today. Chiang was rightly convinced that the numerous, battle hardened Chinese forces of his day were the polar opposite of the “ghost soldiers” of his father’s generation, and wanted to show the West this so they would intervene.</li>
+  <li>The international situation continually turned against Japan from 1937-40, so, despite horrible losses, Chiang was convinced his “fighting for intervention” strategy was working. We all know about the deteriorating relations between the US and China (Japan’s China war being <em>the</em> major cause of that), but Japan had also gotten embroiled in a border war with the Soviet Union.</li>
+</ol>
+
+<p>Chiang’s decision to adopt the “conservation strategy” u/YukikoKoiSan detailed was motivated by three changes in 1940-41:</p>
+
+<ol>
+  <li>The KMT had suffered <em>terribly</em>. Its best formations were either totally destroyed or in need of reconstruction and its finances were ruined by the loss of all its richest lands.</li>
+  <li>The threat of Soviet intervention - very real in 1939 - totally disappeared in 1940. The Soviet-Japanese Non-Aggression Pact following their border war not only stopped the fighting, it entailed Soviet <em>recognition of Manchukuo</em>, essentially support for Japan’s position in China.</li>
+  <li>Finally, Chiang’s resistance did succeed in undermining US-Japan relations and contributing greatly to the outbreak of war.</li>
+</ol>
+
+<p>Once America intervened, Chiang and Mao realized Japan’s defeat was inevitable and hoarded resources ahead of their eventual confrontation. A “de facto ceasefire” existed between Japan and the Two Chinas between 1941 and 1944, with only low level fighting occurring until Operation Ichi Go, and cross-frontline trade resuming.</p>
+
+<p>Chiang lost his “best divisions” in 1937, but rebuilt an army of 1-2 million soldiers who were just as good using American aid. At first, that aid came over the Burma road. When Japan took the area from Britain, it came “over the hump” (flown over Tibet). At first, the aid was a trickle, but it accelerated as the war went on. Using this equipment, and volumes of gear captured from surrendering Japanese troops after the atom bomb (American marines landed in China to <em>make sure</em> the Japanese surrendered to Chiang and not Mao), Chiang emerged from WW2 in a <em>stronger</em> military position than he started it. Case in point: in the years leading up to WW2, Chiang faced countless warlord rebellions, one of which involved him getting taken prisoner. Until the total collapse of the KMT in 1949, there was not a peep from the warlords during the Civil War: they knew Chiang’s control of allied aid had given him the dominant position.</p>
+
+<p>—– <strong>64.5</strong> —–2022-02-05 01:33:24+08:00:</p>
+
+<p>It largely did. <em>The Battle for Manchuria and the Fate of China</em> makes a convincing argument that <em>more than 60%</em> of the Red Army in Manchuria evaporated in the aftermath of the Battle of Siping. This wasn’t just because of KMT pursuit but because a lot of the men who had joined were essentially mercenaries. Manchuria was only recently settled, was mostly lawless, and was filled with gunslingers selling their services to the highest bidder. These men deserted the Communists as soon as the going got tough.</p>
+
+<p>Chiang called the “decision” to not take Harbin his “greatest mistake” and the decision was mired in controversy both on the US and Taiwan after the war. Numerous KMT generals, most notably Du Yuming and Bai Chongxi, were caught up in an acrimonious post-war “memoir war” as they blamed each other for the stoppage. In the US, George Marshall was bitterly attacked by the “China Lobby” for “forcing Chiang to declare a ceasefire”.</p>
+
+<p>While Du Yuming probably was incompetent, the ceasefire was not a totally irrational decision. Prior to their victory in the 2nd Battle of Siping, the KMT suffered a terrible defeat in the 1st. The one place the Communists were superior to them at the time was in meeting engagements where neither side had time to prepare and entrench. The Communists caught the KMT on the move, surrounded them, and totally destroyed them. After Siping, the KMT had no idea just how dire the situation was in the Communist camp. They were still haunted by the “ghost of Lin Biao” and were afraid of being encircled and destroyed again. Their advantage was in positional warfare and methodical battle - big battles over big cities. That was the kind of war they wanted to fight, and their decision to agree to a cease fire was just as much for their own purposes as George Marshall’s.</p>
+
+<p>Could they have pushed on Harbin and taken it? Absolutely, but that would have extended their supply lines and defensive perimeter even more, opening gaps for Lin Biao to exploit - and it was the discovery of such a gap in 1948 that led to their eventual defeat. In agreeing to the ceasefire, Chiang placated the Americans while also giving his own forces time to fly in reinforcements and shore up their own perimeter.</p>
+
+<h3 id="65-does-strategy-fit-between-doctrine-and-tactics-submitted-on-2022-02-04-1629480800">65: <a href="https://old.reddit.com/r/WarCollege/comments/sk8bgz/does_strategy_fit_between_doctrine_and_tactics/">Does Strategy fit between Doctrine and Tactics?</a>, submitted on 2022-02-04 16:29:48+08:00.</h3>
+
+<p>—– <strong>65.1</strong> —–2022-02-05 01:01:48+08:00:</p>
+
+<p>The simplest way to define doctrine is just a “theory of victory”. Tactics, operational art, and strategy all fit within that theory.</p>
+
+<h3 id="66-why-did-the-use-of-slave-soldiers-ghilmans-mamluks-janissaries-etc-become-so-universal-amongst-muslim-empires-from-the-abbasid-period-onwards-and-why-was-this-phenomenon-unique-to-muslim-empires-submitted-on-2022-02-04-2032340800">66: <a href="https://old.reddit.com/r/AskHistorians/comments/skc7m1/why_did_the_use_of_slave_soldiers_ghilmans/">Why did the use of slave soldiers (ghilmans, mamluks, janissaries, etc.) become so universal amongst Muslim empires from the Abbasid period onwards? And why was this phenomenon unique to Muslim empires?</a>, submitted on 2022-02-04 20:32:34+08:00.</h3>
+
+<p>—– <strong>66.1</strong> —–2022-02-05 00:50:14+08:00:</p>
+
+<p>Pragmatism, racism, politics, and religion. By the founding of the Abbasid Caliphate, Eurasia was deeply entrenched in what scholars call the “millennium of the mounted archer”, a period where horse archery was the most effective martial art throughout most of the continent. Many countries we don’t often associate with horse archery made it a cornerstone of their doctrine: Byzantine historian Procopius, living in the age of Justinian, said of horse archers that “all our victories were a result of this very arm”. In the highly maneuverable environment of mounted combat, range was everything. The initial advantage of the lance on horseback was the ability to engage enemy infantry and cavalry at greater range. And, of course, no horseman had greater range than the horse archer.</p>
+
+<p>While they proved fierce cavalrymen, Arabs were not traditionally mounted archers. In the same way the Byzantines hired Avar auxiliaries to master this new military doctrine, the Arabs needed foreign recruits as well. The Turks were the natural candidates, both because they were the recipients of positive racism (in the words of Timothy May, the Arabs saw them as “more natural warriors” than the Persians or themselves) and because they were predominantly pagan, and Muslims could not be enslaved. In the early Abbasid period, most Turks still worshipped Tengri and other traditional deities. Even after their conversion to Islam, slave traders could still claim their captives were Jews, Buddhists, Christians, Pagans, or “improper Muslims”. The latter accusation was easy to make, since the steppe nomads in this period were almost universally illiterate and had no real comprehension of the texts or doctrines of the religions they practiced. They retained pagan traditions in their practice of Islam as a result. To this day Kazakhstan, for example, still has pagan witch doctors called Baksy.</p>
+
+<p>Turks were also not prohibitively expensive because they were ready to participate in the system. While some Mamluks were adult males captured by tribal enemies, most were boys as young as 7. Many of these were sold by their own fathers: the nomads were prolific and were almost always running an unsustainable population surplus. This is a surprising fact in a society that revolved around the concepts of pride and honor, and indicates that the nomads did not see Mamluk service as akin to other kinds of slavery. Contra popular belief, <em>most pre-Ottoman slave soldiers did not remain bonded for life</em>. They obtained their freedom (at least in practice if not officially) after completing their military training. After this point, they had far more opportunity to acquire riches and power than what the steppe could offer.</p>
+
+<p>Moreover, the distinction between “free” and “bonded” labor mattered very little to steppe people. Every man was a herder, and he was also a warrior. All his property he shared with a group of three to five families he traveled with and made winter quarters with. If his tribe went to war, he was expected to fight. If he was captured, he would most likely be convinced to join his enemy. He would then marry into their kinship network and start a new family. Societal regulations on the steppe were regulated by the threat of violence, not laws and rights. In other words, wherever a man went, politics followed him, and no one thought of himself as truly “free”. When mamluks arrived in the Middle East, they quickly adjusted in the same way they would have adjusted had they been captured by tribal enemies: by establishing their own patronage networks and playing local politics.</p>
+
+<p>The decision to buy boys young was motivated by cost, politics, and training. Boys were cheaper than trained warriors, and on the steppe learned to ride before they could walk: the key skill they needed to become cavalrymen was already there. At that point, the traditional steppe training of a warrior would no longer do. Steppe armies were masses of poorly armored men who herded part time and fought part time. Their training consisted of hunts, which, while useful in teaching marksmanship and even military tactics (the Mongol art of war, for example, was heavily influenced by mass hunting techniques like the <em>nerge</em>), it meant their focus was divided. The Muslims wanted the greatest value for their dirham. They wanted their Mamluks to live, breathe, and sleep war. They armored them, equipped them with lances as well as bows, and trained them to fight with all kinds of weapons. Finally, Mamluks bought young were seen as more politically reliable. A grown man had tribal connections, and was a creature of the steppe. Life there was violent and unpredictable, but it was what he was used to. He could get homesick. A boy, in contrast, was “adopted” by his Mamluk unit: they became his tribe and the Caliphate was his home.</p>
+
+<p>Like most groups of imported warriors, the Mamluks were initially divorced from local politics. At first, this was one of their main selling points. Abbasid noblemen and the Caliph himself used them to “outflank” traditional enemies in the power elite and sever unreliable relationships. By the end of the Anarchy at Samarra (861-70), however, the Mamluks had acquired a well deserved reputation for being just as treacherous as their masters. Still, rulers continued to turn to Mamluks because they had no one else. It wasn’t that the Abbasid Caliphs, the Persian dynasties that usurped their authority, the Fatimids, and so on perceived <em>no</em> threat from their Mamluks. Rather, the short-term goal was to undermine political enemies and they or their descendants would deal with the Mamluk threat later.</p>
+
+<p>In the 14th century and beyond, the pattern of slave import in the northern Muslim world greatly changed. While Egypt - by that time <em>ruled</em> by Mamluks - continued to import nomads to shore up its cavalry arm, the Ottomans and Iranians primarily enslaved sedentary Christians for military service. This was both because of politics and because of supply and demand. After 1071, Iran and Anatolia were both overrun by nomadic Turks. This only increased after the rise of the Mongol Empire, which drove dozens of Turkmen tribes (including the Ottomans themselves) Westwards. What the Ottomans lacked in the 14th century - something Mesut Uyar’s overview of their military history goes into great detail about - was reliable, disciplined infantry with which to conduct sieges.</p>
+
+<p>The ghilman system was unique to the Muslim world because other models permeated elsewhere. During the millennium of the mounted archer, all powers adjacent to the steppe, from Central Europe to China, were trying to learn this way of war, but each had their own method. Europeans tended to follow the Roman foederati model, where they would grant lands and political power to nomads in exchange for military service. When the People’s Crusade reached Byzantine Serbia en route to Constantinople, they were shocked to find that the area was being governed by a <em>Turk</em>. After being ravaged by the Mongols, Hungary adopted an even more radical approach: they welcomed the vanquished Khan of the Cumans, married his family into the Hungarian royal family, and granted him the Pannonian pastures as a fief.</p>
+
+<p>—– <strong>66.2</strong> —–2022-02-05 00:50:33+08:00:</p>
+
+<p>China was comparatively slower and more reluctant to adopt steppe military methods. As Thomas Barfield explains in The Perilous Frontier, this was because the military balance between sedentary people and nomads in the West and East was reversed. While in the Middle East and Europe, relatively small, divided, and impoverished sedentary states offered little meaningful resistance against nomadic incursions, in the East the nomads were fighting a far larger and more powerful state. When the millennium of the mounted archer began in the West, the Roman successor states adjacent to the steppe all tried to adopt the tactic. The Northern Chinese, in contrast, waged what was essentially a thousand-year arms race with the Eastern nomads. Both sides constantly improved their technology and military doctrines to combat the other, and the military balance shifted radically over the centuries. Twice the nomads totally overran China, and at one point the entire steppe from the Aral Sea to Sakhalin was made into Tang protectorates. While horse archery did seep into China, it did so largely through the hiring or settlement of large groups of nomads as mercenaries, or through the conquest of parts of China by nomads and their assimilation once those areas were reconquered by Chinese dynasties. Very ironically, China only developed a “slave soldier” system during the Qing period in the form of the <em>ujen cooha</em> (“heavy troops” in Manchu), a unit of enormous Han Chinese men pressed into military service for the purpose of carrying cannons around the battlefield and operating the cumbersome muskets of the time period.</p>
+
+<p>Overall, unique conditions existed in the Muslim world to make ghilmans a possibility. The religious undertones of the practice allowed rulers to adopt an evangelical motive for raising armies personally loyal to them, which they could employ against their neighbors and domestic enemies. The dominance of the mounted archer mode of warfare between the 5th and 15th centuries necessitated that every power in the near east adopt it, and the import of Turks was the cheapest and most reliable way to do this.</p>
+
+<p>Sources:</p>
+
+<p>Barfield, Thomas. The Perilous Frontier.</p>
+
+<p>Uyar, Mesut. A Military History of the Ottomans from Osman to Ataturk.</p>
+
+<p>Muslu, Cihan. The Ottomans and the Mamluks: Imperial Diplomacy and Warfare in the Islamic World.</p>
+
+<p>May, Timothy. The Mongol Art of War.   <Goes into="" great="" detail="" about="" the="" mamluk="" system="" to="" give="" an="" overview="" of="" forces="" Mongols="" were="" facing=""></Goes>
+</p>
+
+<p>Waterson, James. The Knights of Islam: The Wars of the Mamluks.</p>
+
+<p>Amanat, Abbas. Iran: A Modern History.</p>
+
+<p>El-Hibri, Tayib. The Abbasid Caliphate: A History.</p>
+
+<p>Rowe, William. China’s Last Empire: The Great Qing.</p>
+
+<p>Oman, Charles. The History of the Art of War in the Middle Ages. &lt;Some outdated conclusions in this book, but quotes a lot of primary sources that I’ve drawn from&gt;</p>
+
+<p>—– <strong>66.3</strong> —–2022-02-05 03:22:10+08:00:</p>
+
+<p>Yes that’s right - there was no perfect twin to the mamluk system in China and the Han bannermen (at least those that were levied and not those that joined the Qing “conquest organization” voluntarily in the early days) are the only allegory but still not a perfect one. Bannermen were, like mamluks, bound to state service, forced into certain professions and confined to garrison communities but were an extremely different system.</p>
+
+<p>—– <strong>66.4</strong> —–2022-02-05 03:30:44+08:00:</p>
+
+<p>Yes, but under very different conditions and for different purposes. <a href="https://www.artsrn.ualberta.ca/amcdouga/Hist494_2014/readings/fay_ch4.pdf">This</a> is a good writeup on the female slave trade in Egypt under Mamluk rule while <em>God’s Shadow</em> by Alan Mikhail spends a lot of time describing concubinage in the Ottoman Empire. The long story short is that women were imported mainly as concubines and mainly from the Caucasus and the former Rus’ instead of the steppe. However, gender roles among Turkish, Egyptian, and Iranian elite families at the time weren’t as rigid as we imagine them today and these women also had a political and administrative role to play in the influential families they married into.</p>
+
+<p>—– <strong>66.5</strong> —–2022-02-05 04:29:41+08:00:</p>
+
+<p>Because by the 9th century the Iranian nobility was largely Muslim and it was forbidden to enslave them. Those that were not Muslim were still integral to the Abbasid government, which rode to power on the back of a Persian army. Making mamluks of their children would have been expensive, destabilizing, and would defeat the purpose of creating an army personally loyal to the Caliph.</p>
+
+<p>—– <strong>66.6</strong> —–2022-02-05 06:14:50+08:00:</p>
+
+<p>Mostly but not entirely. Timothy May’s book goes into some detail about their tactics. The bulk of the Magyar cavalry by the 13th century were mailed (or at least byrnied) melee cavalry. Their primary weapon was the lance and their purpose was to break through infantry lines. However, a minority were still practicing horse archery. It’s not clear whether there were many Magyars in this compliment, or if they were entirely steppe auxiliaries (which the Kingdom of Hungary was using long before the Mongol arrival). It’s very possible there was little distinction, since, each time the Magyars welcomed another wave of nomadic people to shore up their horse archery, the newcomers intermarried with their nobility and quickly assimilated. Within a single generation the sons of Cuman Khan Koten were using Christian, Magyar names.</p>
+
+<p>—– <strong>66.7</strong> —–2022-02-05 06:42:46+08:00:</p>
+
+<p>Great question. One might think that once the Mamluks took over Egypt, they would establish themselves as a hereditary warrior-aristocracy, but they actually changed surprisingly little. <a href="https://www.artsrn.ualberta.ca/amcdouga/Hist494_2014/readings/fay_ch4.pdf">This</a> is a great paper on family dynamics &amp; inheritance in Egypt during Mamluk rule, and it drives home one big conclusion:</p>
+
+<blockquote>
+  <p>Mamluk marriages did produce children, but male off spring generally were prohibited from inheriting Mamluk status or offi ces. Female children could retain their status through marriage to their father’s favored mamluks or allies.</p>
+</blockquote>
+
+<p><em>Land and property</em> could absolutely be inherited, so, throughout the Mamluk period in Egypt, you had two classes of elites. The first were the Mamluks themselves who always formed the bulk of the army and the government. The second were the descendants of successful and powerful Mamluks who constituted the largest part of Egypt’s large landowners and merchants.</p>
+
+<p>The Mamluks refused to allow their sons to inherit warrior status for a few reasons. First, put simply, they thought of their sons as martial lessors. Since they weren’t “raised in the saddle” and didn’t grow up on the steppe, the argument went, they couldn’t match “real Mamluks” in prowess. This sounds ridiculous in hindsight, but keep in mind the power and military reputation of the Mamluk class for centuries had been built on the mystery and terror surrounding their steppe origins.</p>
+
+<p>Second and probably most importantly, a native-born Mamluk would not be able to function in Mamluk society, and the presence of too many of them would destroy that very society. The most important relationship in Mamluk society was the khushdashiyya - the bond that existed between men who were enslaved in the same “training class” and were manumitted into the army together. Except for these “brothers” (in air quotes because they were closer than brothers, spending every moment together and being entrusted with each others’ lives), a Mamluk had no family, and that was exactly as the Caliphs (and later Sultans) wanted it. A family meant political baggage. It was, moreover, how the Mamluks wanted it. Khushdash were groups of equals. Leaders emerged in those groups only because they were respected by their brothers for their decision making skills. Any Mamluk “of noble birth” would shatter this egalitarian, meritocratic social environment and totally up-end Mamluk society.</p>
+
+<p>Third, from a legal perspective the practice was impossible. You could not enslave Muslims. I list this as less important than the second reason only because Mamluk buyers frequently ignored the fact that many of their slaves <em>were</em> Muslims, but the usual arguments they used (namely that the illiterate nomads were not <em>really</em> Muslims) absolutely could not be applied to sons of Mamluks. To claim that would be to say that the father - raised from childhood to be an Islamic warrior - failed to give his son a proper Islamic upbringing.</p>
+
+<p>Finally, in the eyes of the Mamluks it was not even desirable. Mamluk life offered the <em>prospect</em> of glory, not a guarantee, and it was a hard life of bonded military service. Training in childhood was gruelling, and while the Mamluks were unquestionably the most elite warriors in the world, only a minority rose to great riches and power. It was essentially like being a special forces operator today: only some, not most, would wish the same fate on their sons. The alternative was to set their children up for a comfortable, prosperous life as members of the Egyptian upper class. For the majority that was a far more appealing goal. The fathers had gone through the “rite of passage” so that their children could live a good life.</p>
+
+<p>There were, of course, exceptions. The sons of very powerful Mamluks, especially rulers, were “grandfathered” into the system. There was a general awareness that too many hereditary Mamluks would undermine the whole class’s military spirit, but a few cases here and there were begrudgingly tolerated. Still, inheritance even of the Mamluk throne was rarely hereditary, showing that even Sultans had trouble injecting their offspring into the warrior class and setting them up for success.</p>
+
+<p>—– <strong>66.8</strong> —–2022-02-05 10:39:20+08:00:</p>
+
+<p>I would say no - I’m not an expert on medieval slavery in general, but my impression is the Mamluk system was one of a kind. A lot of “conventional slavery” existed throughout Europe and the Middle East at the time.</p>
+
+<p>—– <strong>66.9</strong> —–2022-02-05 10:55:34+08:00:</p>
+
+<p>A mix of variables:</p>
+
+<ol>
+  <li>
+    <p>As you mentioned the pool of skilled personnel was just not readily available.</p>
+  </li>
+  <li>
+    <p>Germanic military traditions strongly conflicted. The Franks preferred to fight almost entirely as infantry, the Lombards specialized as melee cavalry. Traditionally Germanic armies consisted of elite warriors (which evolved into the scarce, and eventually knights) around the King and masses of levies. Both saw melee combat as the culmination of war.</p>
+  </li>
+  <li>
+    <p>The Carolingian social system that influenced all feudalism was structured to protect a class of mounted, armored combatants. Landowners were required to provide a certain number of armored men by Carolingian edicts based on acreage - naturally those armored men ended up being themselves and their kinsmen. It was very hard to introduce competition.</p>
+  </li>
+  <li>
+    <p>Melee cavalry might have been inferior to horse archers in battle, but they were more versatile. Knights often dismounted and fought as infantry, using their long landed to form early “pike squares”. They could effectively besiege and assault walls, something mounted archers were incompetent at. Horse archers were good at winning battles, and that was all they could do. The predominant mode of Western European warfare in the Middle Ages was siege, and battles were comparatively rare.</p>
+  </li>
+  <li>
+    <p>Probably most importantly, they didn’t <em>always</em> lose. Entrenched organizations tend only to reform when they face continuous defeat. While you are right that they lost for the most part, there were a few gems like the Carolingian victory against the Avars. Otto I’d triumph over the Magyars, and Bohemond’s brilliant improvisation at Iconium that convinced the knights that there was nothing rotten in the state of Francia.</p>
+  </li>
+</ol>
+
+<p>—– <strong>66.10</strong> —–2022-02-05 12:07:51+08:00:</p>
+
+<p>Spot on. May goes into this in great detail. The average Mamluk was miles ahead of the average Mongol in training and equipment. They were badly outnumbered, but dealt with this by burning almost all the pasture between them and the Mongols, this way they were still outnumbered but not massively so. The steppe armies were definitely citizen-soldiers… or less romantically, amateurs. They simply had the luxury of being the best fed, best horsed people in the world whose hobbies (archery, wrestling, and horsemanship) had immense military relevance.</p>
+
+<p>—– <strong>66.11</strong> —–2022-02-05 12:17:16+08:00:</p>
+
+<p>Yes - in some periods it was normal for 40% or more of the male population to die violently. Fertility rates were also very high due to an abundance of food compared to sedentary societies. While we obviously have no data on deaths in childbirth, they were certainly lower. Nutrition in the steppe was better than anywhere else, so women were both physically larger and healthier. Today most scholars of the medieval steppe hold demographic surplus (and the internal conflicts it inevitably created if it wasn’t “channeled” into sedentary states) to be the main driving force behind nomadic conquests.</p>
+
+<p>—– <strong>66.12</strong> —–2022-02-05 23:10:18+08:00:</p>
+
+<p>Excellent. The number of times the Mamluks fled without orders can be counted on one hand. The most important relationship they had was with their “initiation brothers” or khudash, who were imported together and manumitted together. These would often form military units, and when they didn’t the actions of one still reflected in the entire group.</p>
+
+<p>—– <strong>66.13</strong> —–2022-02-08 22:54:43+08:00:</p>
+
+<p>100% - the Pannonian Basin is the furthest West reach of the steppe.</p>
+
+<h3 id="67-russia-and-china-line-up-against-us-in-no-limits-partnership-submitted-on-2022-02-04-2225560800">67: <a href="https://old.reddit.com/r/geopolitics/comments/skeirz/russia_and_china_line_up_against_us_in_no_limits/">Russia and China line up against U.S. in “no limits” partnership</a>, submitted on 2022-02-04 22:25:56+08:00.</h3>
+
+<p>—– <strong>67.1</strong> —–2022-02-04 23:05:42+08:00:</p>
+
+<p>Even more importantly, the industrial capacity balance has flipped. It’s well known the allies won the last 2 wars by outnumbering and outproducing Germany &amp; friends. In 1941, the US produced more steel than the rest of the world combined. Today, that’s China. It’s not as if the US is a close second either. After decades of corporations dismantling the industrial base and shipping it abroad, American output is <em>less than 9% of China’s</em>.</p>
+
+<p>If the war doesn’t go nuclear, it’ll be a long, drawn out battle where the side that can produce more tanks, planes, and ships is going to win. But, since no one wants to think the next great power war will be as long and gruesome as the last two (instead they pretend it’ll be a quick skirmish and one side will give up), every “analysis” of a possible third world war is just focused on the first few months.</p>
+
+<p>—– <strong>67.2</strong> —–2022-02-05 12:11:18+08:00:</p>
+
+<p>Dollar value doesn’t do reality justice. First everything is cheaper in China, second a lot of “industrial” output in the US is related to mining or petroleum, and most importantly a lot of manufacturing in the US is final assembly of products that were mostly assembled elsewhere. When you look at <em>tonnage</em> of goods produced the disparity is jarring.</p>
+
+<h3 id="68-russia-in-georgia-why-submitted-on-2022-02-04-2241390800">68: <a href="https://old.reddit.com/r/geopolitics/comments/skevce/russia_in_georgia_why/">Russia in Georgia why?</a>, submitted on 2022-02-04 22:41:39+08:00.</h3>
+
+<p>—– <strong>68.1</strong> —–2022-02-09 23:32:59+08:00:</p>
+
+<p>It’s a lot of things. First, Russia adopts a strategy of divide and conquer for all its former colonies. It supports minorities in rebellion and uses them as bargaining chips. They “made an example” of Georgia to keep other multi-ethnic post-Soviet states like the Baltics, Ukraine, Kazakhstan, and Uzbekistan in line, though for the first two it’s been unsuccessful, and for the last two the local strongmen have outmaneuvered them in the long run. But, the alternative was being outmaneuvered immediately, so what can you do?</p>
+
+<p>Second, there was a crisis in the late 2000s that caused very real public demand for Putin to intervene. We like to think of Russia as a mass of manipulated, oppressed neo-serfs blindly following their leader, but nothing could be further from the truth. It’s a relatively responsive autocracy, with many channels of pressure for the people to exert influence over government policy. In 2008, Georgian troops attacked Russian peacekeepers in South Ossetia and there was widespread public demand for intervention. Bear in mind, Putin’s only strong opposition (pro-Western reformers are a nonentity in comparison) are the Communists and “Liberal Democrats” (ultranationalists). His frequent nationalist aggression can be explained by the fact that his only political threats are even more nationalistic than United Russia: he all but guarantees his hold on power if he can “stay ahead of them”.</p>
+
+<p>Third, Georgia is symbolically important in the US-Russia war. Mikhail Saakashvili when he was in power was an actually very effective economic and anti-corruption reformer, and was seeking NATO membership. Russia had to put an end to this. Moscow has framed itself as the champion of the “old way”: post-Soviet oligarchs joining together in a diplomatic community to maintain their privilege and patronage networks. The last Georgian War had the objective of discrediting Saakashvili, and was followed by an FSB-assisted takeover of the old Georgian oligarchs, led by Bidzina Ivanishvili. This relatively Russophile government is still in power today.</p>
+
+<p>Finally, Georgia is a key front in Russia’s rivalry with Turkey. Moscow and Ankara have been frenemies for at least two centuries, with a long history of alternating between the extremes of alliance and open military conflict. Turkey’s allies in the former Soviet Union are the Turkic states of Kazakhstan, Kyrgyzstan, Uzbekistan, and Azerbaijan, all of which are separated from Turkey by Armenia and Georgia. Georgia historically aligned with this bloc, at one point proposing to build a canal from the Black Sea to the Caspian: such a canal would connect the Turkic world and make it one. Both the Georgian War and the recent Azeri-Armenian War were part of the Russian-Turkish competition: Russia is always trying to sever the Turkey-Azerbaijan connection, and Turkey is always trying to outflank their barrier. They recently did this in the Nagorno Karabakh War, where a key peace term was the right for Azerbaijan to have a land corridor over Armenian territory, but even this pales in comparison with the logistical capability of a full-blown Georgia canal.</p>
+
+<h3 id="69-the-global-distribution-of-the-west-submitted-on-2022-02-06-1418510800">69: <a href="https://old.reddit.com/r/geopolitics/comments/slpraa/the_global_distribution_of_the_west/">The global distribution of the ‘west’</a>, submitted on 2022-02-06 14:18:51+08:00.</h3>
+
+<p>—– <strong>69.1</strong> —–2022-02-08 04:59:06+08:00:</p>
+
+<p>This is an extremely complex and multi-layered concept that the posts so far don’t do justice to. You have a range of hypotheses like the West is about race, wealth, or political system, but all of them fall short. It’s not about wealth, because Japan and South Korea, no matter what anyone in this thread tries to claim, are never called Western by normal people. It’s not about political system because a lot of liberal democracies are not Western. And it’s not racial because Russians are not considered Western, while Cypriots and Israelis (looking far more like Middle Easterners than Europeans) are. Nor is it even about the intersection of the three: very few people call Poland a Western country despite being relatively well developed, white majority, and liberal.</p>
+
+<p>Rather, the West is a “civilizational” concept. Western countries are the “true heirs to ancient Rome”, a concept which features prominently in the writings of all the main ideologues of “Westernism” (VD Hanson comes to mind) and which is revealed in the history of the concept. To understand “the West”, it’s just as important to understand who <em>isn’t</em> a part of it and why, since the concept was born in opposition to the dominant powers of the middle ages.</p>
+
+<p><strong>The Origins of the West</strong></p>
+
+<p>The West was first spawned by the ancient Greeks to contrast themselves with the richer, more populous, and more despotic civilizations to the East of them, but neither they nor the Romans put huge stock in the concept. They saw themselves as far more similar to the people of the “cradle of civilization” than to the mass of impoverished “barbaroi” to the North. Culturally, there was a huge exchange of ideas across the Mediterranean. Economically, the sea was the main artery for trade. Even physically, ancient Greeks and Italians looked far more like Anatolians and Levantines than they do today: it took centuries of slave imports from the North and the Black Sea region for their appearances to change. The main division in the classical world was not between “Western” Rome and “Eastern” Iran, but between the two “civilized” powers and the mass of “barbarians” to their North. While the modern view on Rome-Iran relations is clouded by “retrospective Orientalism” that sees the two as bitter enemies, the reality is that they were frequently allied against barbarians.</p>
+
+<p>Western identity had its true birth in the Middle Ages, owing to two developments. First, in the 7th century, the richer half of the Roman Empire fell under the control of the Muslims. The previously united Mediterranean world was split between a Christian “West” and a Muslim “Outremer”. Second, Attila the Hun’s invasion inaugurated the “millennium of the mounted archer”, a period in which the technological-military balance between settled people and the nomads shifted decisively in favor of the later. Gradually, these two threats converged into one, as the Muslims proved far more effective in converting the nomads than the Christians. As we will see later, the “Tartar”, a Muslim nomad, became the universal model of “the other” in the eyes of the West.</p>
+
+<p>With Rome’s richest provinces under enemy rule and the nomads being militarily dominant, Western identity started as a defensive one, and its formation was championed by the Catholic Church. At a time of political division, the Church saw itself as the cultural, political, and eventually military guarantor of the Roman legacy, and the “coordinating committee” for Christian kingdoms to respond to the Muslim, nomadic, and eventually Muslim-nomadic threats. Through their shared Carolingian origins and centuries of holy wars (that long predated the formal “Crusades”), European nobles developed a multinational identity, intermarrying and treating each other with a common standard of courtesy. This “elite internationalism” remains a defining feature of Western civilization to this day, and is unique to the West and its dependencies.</p>
+
+<p>The Church further played a key role in the development of liberalism, today seen as the central feature of the West. This goes well beyond European appeals to “Christian Humanism”: the Church’s greatest contribution to liberalism was its millennium-long campaign to undermine Kings. The Catholic force was both a unifying force on European politics (rallying campaigns against pagans and Muslims) and a divisive one. It constantly pitted lesser lords and cities against powerful Emperors and caused the largest European states of the Middle Ages to fracture. These dual forces assisted the formation of “elite internationalism”, which in turn gave nobles leverage over rulers through the ability to double-deal with other countries, and lead to a localization of political institutions that influenced the formation both of English democracy and French parlements. This was not the outcome the Church desired, but it was the one it got as a result of its machinations.</p>
+
+<p><strong>How the Slavs became “Eastern”</strong></p>
+
+<p>Following the conversion of the Vikings and Slavs to Christianity, Europeans (excepting Pagan holdouts like Lithuania) briefly saw themselves as part of one civilization. Few Medieval scholars would say that Rome had totally fallen: rather, the Church had inherited its legacy and expanded Rome all the way to the Urals. Socially, culturally, and economically, Eastern and Western Europe were very similar.</p>
+
+<p>The Mongol and Ottoman invasions changed all of that. Economic devastation aside, the social system steppe nomads (and in the case of the Turks, ex-nomads) imposed on Eastern Europe fundamentally changed its culture and political institutions. This is evident in the immense cultural gap between most Slavs and those that were never “stepped on”, like Czechs and Slovenes. The transition of nomads from “extortionists” who bullied sedentary states into giving them payments to conquerors who ruled them was a difficult one. To compensate their followers for an immense lifestyle change, Khans had to provide greater payments to their followers. Consequently, they structured Eastern European societies along highly extractive lines.</p>
+
+<p>The conventional history on Turco-Mongol imperialism holds that nomads “co-opted local institutions”, but this is only half true. True, they used those institutions as vehicles, but subsequently put so much strain on those vehicles that most broke down, and rebuild the remainder on the lines of those that didn’t. The Tatars and Ottomans placed ever-increasing demands for tribute and troops on local rulers they conquered, to the point where the majority would fail and eventually be “replaced”. Especially in the case of the Tatars, “replacement” meant execution, and more often involved the extermination of the subjects of a “failed tax collector” as well. Elites who over-delivered on tribute, meanwhile, would be allowed to expand their realms with impunity, and often would even be granted extra lands by the Ottoman or Mongol army. This is how Muscovy, initially a small and insignificant principality, rose to great prominence.</p>
+
+<p>What occurred was a top-down reorganization of Eastern European society. Medieval polities, contra popular belief, involved a fair number of rights, local assemblies, and agreements meant to protect commoners from the excesses of their rulers. Such institutions were dismantled in Eastern Europe and the Balkans and replaced by a rigid hierarchy designed only to enrich the men at the top and guarantee the obedience of their subjects. After independence from the Turks and Tatars, Balkan and Eastern European elites simply inherited those institutions. This process was extremely similar to the “post-colonial disease” suffered by African and South American governments: imperialists had structured the local regimes to be extractive, leaving immense opportunities for bad actors to exploit their own people after independence.</p>
+
+<p>Aside from consolidating Eastern European feudalism at a time when Western Europeans were abandoning it, steppe conquest also changed the culture of the East. Territories frequently conquered by the nomads like Eastern Europe, Iran, Afghanistan and Northern China adopted their customs and mannerisms. This ranged from cosmetic changes like the popularity of wrestling, to fundamental mindset shifts like the normalization of violence as a way to regulate relationships between individuals. The result was a cultural divide between “civilized” Western Europe and “crude, despotic” Eastern Europe.</p>
+
+<p>—– <strong>69.2</strong> —–2022-02-08 04:59:13+08:00:</p>
+
+<p><strong>From Religion to Enlightenment</strong></p>
+
+<p>The early modern concept of the West was a fundamentally religious and defensive one: a community of Christians defending themselves against “the Pagan Turk”. The 18th century saw a shift to an offensive, universalist identity through the enlightenment. Colonialism had increased the wealth available to European elites, who then spawned a sprawling middle class to help them manage increasingly complex economies. This and the rise in literacy it caused created new political and scientific ideas. 18th century intellectuals and politicians sought to “rationalize” the state, discard “backwardness” and create a “perfect” political system.</p>
+
+<p>Coinciding with this new attitude towards themselves, Europeans were also forced to change what they thought of others. For the entirety of the previous millennium, Europe was a backwater under constant threat of conquest by the Muslim and nomadic powers. European victory in the Great Turkish War at the end of the 17th century led most Europeans to believe that threat was dormant, though not entirely defeated. Correspondingly, the acquisition of millions of indigenous subjects and enslaved Africans placed the West in a moral conundrum. For a thousand years, Europeans had conceived of themselves as an oppressed people under the constant threat of an Eastern menace. Now, they were the oppressors, and faced an identity crisis.</p>
+
+<p>Ironically but unsurprisingly, they assumed the identity of their former oppressors. The <em>requiremento</em> that conquistadors read to American Indians was almost a carbon copy of a letter the Ottoman Sultan sent to one of his Christian enemies. Like the nomads, the Europeans also started using the language of demographic hierarchy to justify their conquests. As early as the 16th century, they started conceiving of themselves as a “superior race” who deserved to conquer and enslave their lessors.</p>
+
+<p>Initially, the Europeans had only one monolithic concept of the other: the Saracen. The letters Columbus sent home describing the Indians, and the Moorish names he picked for settlements he discovered, revealed that early colonizers saw all non-Europeans as a shade of Muslim. This mentality is extensively documented in the book <em>God’s Shadow</em>. Soon, however, this concept led to cognitive dissonance: the Saracen was a dangerous menace who could only be killed, not conquered. Yet, the goal of the Europeans in the Americas was to conquer, exploit, and convert. Moreover, many of these natives posed no military threat to European expeditions, not to mention to Europe itself.</p>
+
+<p><strong>The Two Others</strong></p>
+
+<p>Westerners started to develop the concept of “two others”, which influences the Western worldview to this day. Some groups were seen in the same light as the Tartars: violent, savage, and irreconcilable. Others, however, were perceived as “childlike”, in need of an “education” by civilized Europeans. This distinction started as early as Columbus’s second expedition, where the Spanish started making distinctions between “childlike” Taino, whom Columbus said “would make excellent slaves” and the warlike Caribe. From then on out, the Western view of all non-Western people has alternated between these extremes. Some are Caribe in need of “containment” or destruction, while others are Tainos in need of liberation and “uplifting”.</p>
+
+<p>Who exactly the Caribe and Tainos are is a nebulous concept, and the same groups have fallen on different sides of the equation over time. The Western view on Eastern Europeans, for example, has always been colored by the Mongol legacy (so much so that 19th century “scientific racists” refused to see Russians as white due to “interbreeding”), but from the 1830 Polish revolt to the Cold War, select groups of them have been characterized as helpless victims in need of rescuing. An even more extreme example is that of China. Prior to the First Opium War, Westerners saw China as their only non-white peer, with one author calling it “the elder brother of all nations”. For the rest of the Qing period, Westerners divided Chinese into belligerent “Tartars” (Manchus) and subservient “Chinese” who would make excellent forced laborers. After the fall of Qing, <em>all</em> Chinese fell in the “victim” category and Japanese became the new “Yellow Peril”. After the Korean War, the roles flipped. Now adays, China is the menacing Tartar horde while it’s the <em>Japanese</em> who are their victims. Critically, there is absolutely zero middle ground. In the Western worldview, all non-Western people are either a menacing horde to be contained or helpless victims to be saved.</p>
+
+<p>This worldview is unique to the West (many cultures have menaces, but very few have a savior complex) and possessing it is integral to being Western. It’s so important that “is this country a menace or a victim?” is a litmus test for being Western. If the answer is “neither”, that country is probably Western. The West is a group of peers who see themselves as villains no longer, and responsible for the upkeep of the world.</p>
+
+<p><strong>The decline and resurgence of the Western concept</strong></p>
+
+<p>In the 19th century, monolithic Western identity briefly broke apart. The recession of the Turkic threat, the equation of European conflicts with world conflicts, and the perception that Europeans had outdone even their ancient ancestors spurred new racial divisions. Early 20th century professors argued endlessly over whether the “Nordic” or “Mediterranean” race was the greatest. Both agreed the poor “Alpines” had drawn the short end of the genetic stick. Key to this debate was the Nordic (later Aryan) contention that their people had recently outdone anything the Mediterraneans achieved in the classical era by an order of magnitude.</p>
+
+<p>This division was short-lived because the “futurist” world the Nordics pioneered crashed and burned in the 1940s. In the aftermath, two “non-European” powers partitioned the continent and imposed their own worldviews on both halves. Throughout the Nordic-Alpinic contention, the United States had been the standard bearer of white unity: it lacked an ethnic majority and to do otherwise meant destabilization. In the aftermath of World War 2, racialized language became diplomatically impolite, so the US transitioned to becoming the champion of “Western values”.</p>
+
+<p>Meanwhile, Europeans in the span of 10 years had gone from celebrating the achievements of their vaunted empires to disillusionment with the old system. An increasing number over the decades also saw the imperial age as morally reprehensible and tried to distance themselves from the past. They did this by looking deeper into the past. The Western world once again saw itself as “continuing the legacy of Greece and Rome”. When Charles de Gaulle and Konrad Adenauer laid the groundwork for what would later become the EU, they claimed they were resurrecting the Carolingian Empire.</p>
+
+<p><strong>Conclusion</strong></p>
+
+<p>What logic exists to delineate a “Western” country? There is none and that’s exactly the point. The West is a subconscious idea, based on thousands of years of history, and the images that history has burned into the minds of Western publics. Why aren’t Ukraine and Mexico Western? Most people would say “they just aren’t”, or something like “well, Ukraine is poor. Mexico isn’t a perfect democracy”. Anyone familiar with the history above can offer a much better explanation, but that’s critically an explanation of irrationality: why most people don’t consider Mexico Western, not why it <em>shouldn’t</em> be considered Western. “Western” and “non-Western” are about historical baggage.</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-02-06</time>
+        <a href="https://nodebe4.github.io/opinion/2022-02-06/Spinkcat/">
+          Spinkcat在2022-01-31~2022-02-06的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-02-06</time>
+        <a href="https://nodebe4.github.io/opinion/2022-02-06/EnclavedMicrostate/">
+          EnclavedMicrostate在2022-01-31~2022-02-06的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-02-04</time>
+        <a href="https://nodebe4.github.io/opinion/2022-02-04/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-01-31~2022-02-06的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-01-30</time>
+        <a href="https://nodebe4.github.io/opinion/2022-01-30/theoryofdoom/">
+          theoryofdoom在2022-01-24~2022-01-30的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-02-05/2021%E5%B9%B4%E4%B8%AD%E5%9C%8B%E5%B1%95%E6%9C%9B-%E5%9B%9E%E9%A1%A7/">
+            前一篇：《2021年中國展望》回顧
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-02-06/EnclavedMicrostate/">
+            後一篇：EnclavedMicrostate在2022-01-31~2022-02-06的言论
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-02-05/2021%E5%B9%B4%E4%B8%AD%E5%9C%8B%E5%B1%95%E6%9C%9B-%E5%9B%9E%E9%A1%A7/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-02-06/EnclavedMicrostate/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-02-06/EnclavedMicrostate/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-02-04/ForeignAffairsMag/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-02-05/2021%E5%B9%B4%E4%B8%AD%E5%9C%8B%E5%B1%95%E6%9C%9B-%E5%9B%9E%E9%A1%A7/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-02-06/EnclavedMicrostate/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-02-06/EnclavedMicrostate/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-02-04/ForeignAffairsMag/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

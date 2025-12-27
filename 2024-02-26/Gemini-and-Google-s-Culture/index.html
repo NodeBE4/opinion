@@ -1,0 +1,3020 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Gemini and Google’s Culture – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+Gemini and Google’s Culture
+——
+" />
+    <meta property="og:description" content="
+Gemini and Google’s Culture
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Gemini and Google’s Culture" />
+    <meta property="twitter:title" content="Gemini and Google’s Culture" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2024%2Fgemini-and-googles-culture%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2024/gemini-and-googles-culture/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2024/gemini-and-googles-culture/&text=Gemini and Google’s Culture&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2024/gemini-and-googles-culture/&title=Gemini and Google’s Culture" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2024/gemini-and-googles-culture/&title=Gemini and Google’s Culture" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Gemini and Google’s Culture&body=
+Gemini and Google’s Culture
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2024/gemini-and-googles-culture/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2024/gemini-and-googles-culture/&title=Gemini and Google’s Culture&caption=
+Gemini and Google’s Culture
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Gemini and Google’s Culture&url=https://stratechery.com/2024/gemini-and-googles-culture/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Gemini and Google’s Culture</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2024-02-26
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2024/gemini-and-googles-culture/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1708961927000-->
+<p><a href="https://stratechery.com/2024/gemini-and-googles-culture/">Gemini and Google’s Culture</a>
+——</p>
+
+<div>
+  <p>Last Wednesday, when the questions about Gemini’s political viewpoint were still limited to its image creation capabilities, <a href="https://stratechery.com/2024/groq-costs-gemini-pro-1-5-googles-timidity/">I accused the company of being timid</a>:</p>
+  <blockquote>
+    <p>Stepping back, I don’t, as a rule, want to wade into politics, and definitely not into culture war issues. At some point, though, you just have to state plainly that this is ridiculous. Google specifically, and tech companies broadly, have long been sensitive to accusations of bias; that has extended to image generation, and I can understand the sentiment in terms of depicting theoretical scenarios. At the same time, many of these images are about actual history; I’m reminded of George Orwell in 1984:</p>
+    <blockquote>
+      <p>Every record has been destroyed or falsified, every book has been rewritten, every picture has been repainted, every statue and street and building has been renamed, every date has been altered. And that process is continuing day by day and minute by minute. History has stopped. Nothing exists except an endless present in which the Party is always right. I know, of course, that the past is falsified, but it would never be possible for me to prove it, even when I did the falsification myself. After the thing is done, no evidence ever remains. The only evidence is inside my own mind, and I don’t know with any certainty that any other human being shares my memories.</p>
+    </blockquote>
+    <p>Even if you don’t want to go so far as to invoke the political implications of Orwell’s book, the most generous interpretation of Google’s over-aggressive RLHF of their models is that they are scared of being criticized. That, though, is just as bad: Google is blatantly sacrificing its mission to “organize the world’s information and make it universally accessible and useful” by creating entirely new realities because it’s scared of some bad press. Moreover, there are implications for business: Google has the models and the infrastructure, but winning in AI <a href="https://stratechery.com/2023/ai-and-the-big-five/">given their business model challenges</a> will <a href="https://stratechery.com/2023/googles-true-moonshot/">require boldness</a>; this shameful willingness to change the world’s information in an attempt to avoid criticism reeks — in the best case scenario! — of abject timidity.</p>
+  </blockquote>
+  <p>If timidity were the motivation, then it’s safe to say that the company’s approach with Gemini has completely backfired; while Google turned off Gemini’s image generation capabilities, it’s text generation is just as absurd:</p>
+  <div align="center">
+    <blockquote class="twitter-tweet" data-dnt="true">
+      <p lang="en" dir="ltr">I was able to replicate this! They need to shut Gemini down. It is several months away from being ready for prime time. It is astounding that Google released it in this state. <a href="https://t.co/wCqKE1eLbI">https://t.co/wCqKE1eLbI</a> <a href="https://t.co/dxWavP3oei">pic.twitter.com/dxWavP3oei</a></p>
+      <p>— Nate Silver (@NateSilver538) <a href="https://twitter.com/NateSilver538/status/1761800684272308302?ref_src=twsrc%5Etfw">February 25, 2024</a></p>
+    </blockquote>
+    <p>      <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+&lt;/div&gt;      <p>That is just one examples of many: Gemini <a href="https://twitter.com/pmarca/status/1761929296564588890">won’t help promote meat</a>, <a href="https://twitter.com/TheStalwart/status/1761832472357335068">write a brief about fossil fuels</a>, or even <a href="https://twitter.com/bitcloud/status/1761618020819157191">help sell a goldfish</a>. It says that effective accelerationism is <a href="https://twitter.com/mblair/status/1761282019148140852">a violent ideology</a>, that <a href="https://twitter.com/trhlofficial/status/1761903486264901760">libertarians are morally equivalent to Stalin</a>, and insists that it’s hard to say what caused more harm: <a href="https://twitter.com/ajitpai/status/1761898602140443001">repealing net neutrality or Hitler</a>.</p>
+      <p>Some of these examples, particularly the Hitler comparisons (or <a href="https://twitter.com/paulg/status/1761794931847245983">Mao vs George Washington</a>), are obviously absurd and downright offensive; others are merely controversial. They do, though, all seem to have a consistent viewpoint: Nate Silver, <a href="https://twitter.com/NateSilver538/status/1760462416834425049">in another tweet</a>, labeled it “the politics of the median member of the San Francisco Board of Supervisors.”</p>
+      <p>Needless to say, overtly expressing those opinions is not timid, which raises another question from Silver:</p>
+      <div align="center">
+        <blockquote class="twitter-tweet" data-conversation="none" data-dnt="true">
+          <p lang="en" dir="ltr">Gemini is behaving exactly as instructed. Asking it to draw different groups of people (e.g. "Vikings" or "NHL players") is the base case, not an edge case. The questions are all about how it got greenlit by a $1.8T market cap company despite this incredibly predictable behavior.</p>
+          <p>— Nate Silver (@NateSilver538) <a href="https://twitter.com/NateSilver538/status/1760929332422234570?ref_src=twsrc%5Etfw">February 23, 2024</a></p>
+        </blockquote>
+        <p>          <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+&lt;/div&gt;          <p>In fact, I think there is a precedent for Gemini; like many comparison points for modern-day Google, it comes from Microsoft.</p>
+          <h3 id="microsoft-and-the-curse-of-culture">Microsoft and The Curse of Culture</h3>
+          <p>From <a href="https://www.neowin.net/news/microsoft-workers-celebrated-windows-phone-7-rtm-with-iphone-hearses/">Neowin</a>, in 2010:<sup id="rf1-12388"><a href="https://stratechery.com/2024/gemini-and-googles-culture/#fn1-12388" title="Image credit &lt;a href=&quot;https://www.flickr.com/photos/trioculus/&quot;&gt;Carl J on Flickr&lt;/a&gt;" rel="footnote">1</a></sup></p>
+          <blockquote>
+            <p><a href="https://www.flickr.com/photos/trioculus/"><img fetchpriority="high" decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/02/geminiculture-1.png?resize=640%2C349&#038;ssl=1" alt="Microsoft&#039;s funeral for the iPhone" width="640" height="349" class="aligncenter size-full wp-image-12391" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/02/geminiculture-1.png?w=640&amp;ssl=1 640w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/02/geminiculture-1.png?resize=300%2C164&amp;ssl=1 300w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></a></p>
+            <p>Microsoft workers celebrated the release to manufacturing of Windows Phone 7 by parading through their Redmond campus on Friday with iPhone and BlackBerry hearses. Employees dressed up in fancy dress and also modified cars to include Windows Phone branding. Aside from the crazy outfits the workers made fake hearses for giant BlackBerry and iPhone devices. Employees cheekily claimed they had buried the competition with Windows Phone 7.</p>
+          </blockquote>
+          <p>This was, to be clear, insane. I wrote about the episode in 2013’s <a href="https://stratechery.com/2016/the-curse-of-culture/">The Curse of Culture</a>; it’s been eight years, so I hope you’ll allow me a particularly long excerpt:</p>
+          <blockquote>
+            <p>As with most such things, culture is one of a company’s most powerful assets right until it isn’t: the same underlying assumptions that permit an organization to scale massively constrain the ability of that same organization to change direction. More distressingly, culture prevents organizations from even knowing they need to do so. From Edgar Schein’s <a href="http://www.untag-smd.ac.id/files/Perpustakaan_Digital_2/ORGANIZATIONAL%20CULTURE%20Organizational%20Culture%20and%20Leadership,%203rd%20Edition.pdf">Organizational Culture and Leadership</a>:</p>
+            <blockquote>
+              <p>Basic assumptions, like theories-in-use, tend to be nonconfrontable and nondebatable, and hence are extremely difficult to change. To learn something new in this realm requires us to resurrect, reexamine, and possibly change some of the more stable portions of our cognitive structure…Such learning is intrinsically difficult because the reexamination of basic assumptions temporarily destabilizes our cognitive and interpersonal world, releasing large quantities of basic anxiety. Rather than tolerating such anxiety levels, we tend to want to perceive the events around us as congruent with our assumptions, even if that means distorting, denying, projecting, or in other ways falsifying to ourselves what may be going on around us. It is in this psychological process that culture has its ultimate power.</p>
+            </blockquote>
+            <p>Probably the canonical example of this mindset was Microsoft after the launch of the iPhone. It’s hard to remember now, but no company today comes close to matching the stranglehold Microsoft had on the computing industry from 1985 to 2005 or so. The company had audacious goals — “A computer on every desk and in every home, running Microsoft software” — which it accomplished and then surpassed: the company owned enterprise back offices as well. This unprecedented success changed that goal — originally an espoused belief — into an unquestioned assumption that of course all computers should be Microsoft-powered. Given this, the real shock would have been then-CEO Steve Ballmer <em>not</em> <a href="https://www.youtube.com/watch?v=eywi0h_Y5_U">laughing at the iPhone</a>.</p>
+            <p>A year-and-a-half later, Microsoft realized that Windows Mobile, their current phone OS, was not competitive with the iPhone and work began on what became Windows Phone. Still, unacknowledged cultural assumptions remained: one, that Microsoft had the time to bring to bear its unmatched resources to make something that might be worse at the beginning but inevitably superior over time, and two, that the company could leverage Windows’ dominance and their Office business. Both assumptions had become cemented in Microsoft’s victory in the browser wars and their slow-motion takeover of corporate data centers; in truth, though, Microsofts’ mobile efforts were already doomed, and nearly everyone realized it before Windows Phone even launched <a href="http://www.engadget.com/2010/09/10/microsoft-celebrates-windows-phone-7-rtm-with-funeral-parade-for/">with a funeral for the iPhone</a>.</p>
+            <p>Steve Ballmer never figured it out; his last acts were to <a href="https://stratechery.com/2013/why-microsofts-reorganization-is-a-bad-idea/">reorganize the company</a> around a “One Microsoft” strategy centered on Windows, and to <a href="https://stratechery.com/2013/the-deal-that-makes-no-sense/">buy Nokia</a> to prop up Windows Phone. It fell to Satya Nadella, his successor, to change the culture, and it’s why the fact his first public event was to announce Office for iPad was so critical. I <a href="https://stratechery.com/2014/when-ceos-matter/">wrote at the time</a>:</p>
+            <blockquote>
+              <p>This is the power CEOs have. They cannot do all the work, and they cannot impact industry trends beyond their control. But they can choose whether or not to accept reality, and in so doing, impact the worldview of all those they lead.</p>
+            </blockquote>
+            <p>Microsoft under Nadella’s leadership has, over the last three years, undergone a tremendous transformation, embracing its destiny as a device-agnostic service provider; still, it is fighting the headwinds of Amazon’s cloud, open source tooling, and the fact that mobile users had six years to get used to a world without Microsoft software. How much stronger might the company have been had it faced reality in 2007, but the culture made that impossible.</p>
+          </blockquote>
+          <p>Google is not in nearly as bad of shape as Microsoft was when it held that funeral. The company’s revenue and profits are as high as ever, and the release of Gemini 1.5 in particular demonstrated how well-placed the company is for the AI era: the company not only has leading research, it also has unmatched infrastructure that enables entirely new and valuable use cases. That, though, makes the Gemini fiasco all the more notable.</p>
+          <h3 id="dont-be-evil">Don’t Be Evil</h3>
+          <p>The questions around Google and AI have, to date, been mostly about business model. In last year’s <a href="https://stratechery.com/2023/ai-and-the-big-five/">AI and the Big Five</a> I talked about how Kodak invented the digital camera, but didn’t pursue it because of business model reasons, and made the obvious analogy to Google’s seeming inability to ship:</p>
+          <blockquote>
+            <p>Google has long been a leader in using machine learning to make its search and other consumer-facing products better (and has offered that technology as a service through Google Cloud). Search, though, has always depended on humans as the ultimate arbiter: Google will provide links, but it is the user that decides which one is the correct one by clicking on it. This extended to ads: Google’s offering was revolutionary because instead of charging advertisers for impressions — the value of which was very difficult to ascertain, particularly 20 years ago — it charged for clicks; the very people the advertisers were trying to reach would decide whether their ads were good enough…</p>
+            <p>That, though, ought only increase the concern for Google’s management that generative AI may, in the specific context of search, represent a disruptive innovation instead of a sustaining one. Disruptive innovation is, at least in the beginning, not as good as what already exists; that’s why it is easily dismissed by managers who can avoid thinking about the business model challenges by (correctly!) telling themselves that their current product is better. The problem, of course, is that the disruptive product gets better, even as the incumbent’s product becomes ever more bloated and hard to use — and that certainly sounds a lot like Google Search’s current trajectory.</p>
+          </blockquote>
+          <p>Google has started shipping, and again, Gemini 1.5 is an incredible breakthrough; the controversy over Gemini, though, is a reminder that culture can restrict success as well. Google has its own unofficial motto — “Don’t Be Evil” — that founder Larry Page explained in the company’s <a href="https://www.sec.gov/Archives/edgar/data/1288776/000119312504073639/ds1.htm">S-1</a>:</p>
+          <blockquote>
+            <p>Don’t be evil. We believe strongly that in the long term, we will be better served — as shareholders and in all other ways — by a company that does good things for the world even if we forgo some short term gains. This is an important aspect of our culture and is broadly shared within the company.</p>
+            <p>Google users trust our systems to help them with important decisions: medical, financial and many others. Our search results are the best we know how to produce. They are unbiased and objective, and we do not accept payment for them or for inclusion or more frequent updating. We also display advertising, which we work hard to make relevant, and we label it clearly. This is similar to a newspaper, where the advertisements are clear and the articles are not influenced by the advertisers’ payments. We believe it is important for everyone to have access to the best information and research, not only to the information people pay for you to see.</p>
+          </blockquote>
+          <p>Google has by-and-large held to that promise, at least as defined by Page: the company does not sell search result placement. Of course the company has made ads look more and more like organic results, and crammed ever more into the search results page, and <a href="https://stratechery.com/2019/the-google-squeeze/">squeezed more and more verticals</a>, but while there are always whispers about what is or isn’t included in search, or the decisions made by the algorithm, most people still trust the product, and use it countless times every day.</p>
+          <p>One does wonder, though, if the sanctity of search felt limiting to some inside of Google. In 2018 a video leaked of an all-hands meeting <a href="https://www.cnbc.com/2018/09/12/leaked-video-from-alphabet-tgif-meeting-after-president-trump-election.html">after the 2016 election</a> where Google executives expressed dismay over the results; the footage was damaging enough that Google felt compelled to issue a statement:</p>
+          <blockquote>
+            <p>At a regularly scheduled all hands meeting, some Google employees and executives expressed their own personal views in the aftermath of a long and divisive election season. For over 20 years, everyone at Google has been able to freely express their opinions at these meetings. Nothing was said at that meeting, or any other meeting, to suggest that any political bias ever influences the way we build or operate our products. To the contrary, our products are built for everyone, and we design them with extraordinary care to be a trustworthy source of information for everyone, without regard to political viewpoint.</p>
+          </blockquote>
+          <p>Perhaps this seemed to some employees to be an outdated view of the world; I’m reminded of <a href="https://www.goodreads.com/quotes/8731136-in-a-racist-society-it-is-not-enough-to-be">that quote from Angela Y Davis</a>: “In a racist society it is not enough to be non-racist, we must be anti-racist.” In this view calls for color-blindness in terms of opportunity are insufficient; the only acceptable outcome is one in which outcomes are equal as well. The equivalent in the case of Google would be that it is not enough to not be evil; one must be “anti-evil” as well.</p>
+          <p>The end result is that just as Microsoft could, shielded by years of a Windows monopoly, delude themselves into thinking they had an iPhone killer, Google could, shielded by years of a search monopoly, delude themselves into thinking they had not just the right but the obligation to tell users what they ought to believe.</p>
+          <h3 id="after-gemini">After Gemini</h3>
+          <p>As I noted in the excerpt, I very much try to avoid politics on Stratechery; I want to talk about business models and societal impact, and while that has political implications, it doesn’t need to be partisan (for example, <a href="https://stratechery.com/2016/the-voters-decide/">I think this piece about the 2016 election</a> holds up very well, and isn’t partisan in the slightest). AI, though, is increasingly giving all of us no choice in the matter.</p>
+          <p>To that end, my Article last fall about the Biden executive order, <a href="https://stratechery.com/2023/attenuating-innovation-ai/">Attenuating Innovation</a>, was clearly incomplete: not only must we keep in mind the potential benefits of AI — which are massive — but it is clearly essential that we allow open source models to flourish as well. It is Google or OpenAI’s prerogative to train their models to have whatever viewpoint they want; any meaningful conception of freedom should make space for an open market of alternatives, and that means open source.</p>
+          <p>Secondly, it behooves me, and everyone else in tech, to write Articles like the one you are reading; “the politics of the median member of the San Francisco Board of Supervisors” has had by far the loudest voice in tech because most people just want to build cool new things, or write about them, without being fired or yelled at on social media. This does, though, give the perception that tech is out of touch, or actively authoritarian; I don’t think that’s true, but those of us who don’t want to tell everyone else what to think, do, paradoxically, need to say so.</p>
+          <p>The biggest question of all, though, is Google. Again, this is a company that should dominate AI, thanks to their research and their infrastructure. The biggest obstacle, though, above and beyond business model, is clearly culture. To that end, the nicest thing you can say about Google’s management is to assume that they, like me and everyone else, just want to build products and not be yelled at; that, though, is not leadership. Schein writes:</p>
+          <blockquote>
+            <p>When we examine culture and leadership closely, we see that they are two sides of the same coin; neither can really be understood by itself. On the one hand, cultural norms define how a given nation or organizations will define leadership — who will get promoted, who will get the attention of followers. On the other hand, it can be argued that the only thing of real importance that leaders do is to create and manage culture; that the unique talent of leaders is their ability to understand and work with culture; and that it is an ultimate act of leadership to destroy culture when it is viewed as dysfunctional.</p>
+          </blockquote>
+          <p>That is exactly what Nadella did at Microsoft. I recounted in <a href="https://stratechery.com/2018/the-end-of-windows/">The End of Windows</a> how Nadella changed the company’s relationship to Windows, unlocking the astronomical growth that has happened under his watch, including the company’s position in AI.</p>
+          <p>Google, quite clearly, needs a similar transformation: the point of the company ought not be to tell users what to think, but to help them make important decisions, as Page once promised. That means, first and foremost, excising the company of employees attracted to Google’s power and its potential to help them execute their political program, and return decision-making to those who actually want to make a good product. That, by extension, must mean removing those who let the former run amok, up to and including CEO Sundar Pichai. The stakes, for Google specifically and society broadly, are too high to simply keep one’s head down and hope that the San Francisco Board of Supervisors magically comes to its senses.</p>
+          <hr class="footnotes" />
+          <ol class="footnotes" style="list-style-type:decimal">
+            <li id="fn1-12388">
+              <p>Image credit <a href="https://www.flickr.com/photos/trioculus/">Carl J on Flickr</a> <a href="https://stratechery.com/2024/gemini-and-googles-culture/#rf1-12388" class="backlink" title="Return to footnote 1.">↩</a></p>
+            </li>
+          </ol>
+ &lt;/div&gt;</p>
+      </div>
+</p>
+  </div>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2024-03-19</time>
+        <a href="https://nodebe4.github.io/opinion/2024-03-19/Nvidia-Waves-and-Moats/">
+          Nvidia Waves and Moats
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-03-04</time>
+        <a href="https://nodebe4.github.io/opinion/2024-03-04/Aggregator-s-AI-Risk/">
+          Aggregator’s AI Risk
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-02-20</time>
+        <a href="https://nodebe4.github.io/opinion/2024-02-20/Sora,-Groq,-and-Virtual-Reality/">
+          Sora, Groq, and Virtual Reality
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-02-06</time>
+        <a href="https://nodebe4.github.io/opinion/2024-02-06/The-Apple-Vision-Pro/">
+          The Apple Vision Pro
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2024-02-26/%E5%9C%A8%E8%BF%99%E4%B8%AA%E9%A2%91%E9%81%93%E8%AE%B8%E4%B9%85%E6%B2%A1%E6%9C%89%E9%A2%91%E7%B9%81%E6%9B%B4%E6%96%B0%E7%9A%84%E8%BF%99%E4%B8%A4%E5%B9%B4%E9%87%8C-%E7%A4%BE%E4%BC%9A-%E6%8A%80%E6%9C%AF-%E7%9A%84%E6%9C%80%E5%A4%A7%E8%AE%AE%E9%A2%98-%E4%BB%8E%E8%BF%87%E5%BE%80%E8%A2%AB%E8%AE%A8%E8%AE%BA%E5%BE%88%E5%A4%9A%E7%9A%84%E7%A4%BE%E7%BE%A4-%E5%AA%92%E4%BD%93%E7%9A%84%E6%89%8B%E6%AE%B5%E8%BF%9B/">
+            前一篇：在这个频道许久没有频繁更新的这两年里，「社会-技术」的最大议题，从过往被讨论很多的社群、媒体的手段进步对信息沟通对生产生活方式的冲击，转移到人工智能伦
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2024-02-27/%E9%9D%A2%E5%B0%8D%E8%8C%AB%E8%8C%AB%E7%9A%84%E6%9C%AA%E4%BE%86-%E5%A6%82%E4%BD%95%E6%89%BE%E5%88%B0%E8%87%AA%E5%B7%B1%E7%9A%84%E5%A4%A9%E5%91%BD-112-1%E4%BA%BA%E6%96%87%E5%A4%A7%E9%81%93%E9%80%9A-%E4%BA%BA%E6%96%87%E7%94%A2%E6%A5%AD%E8%81%B7%E6%B6%AF%E9%9D%A2%E9%9D%A2%E8%A7%80/">
+            後一篇：面對茫茫的未來，如何找到自己的天命｜112-1人文大道通：人文產業職涯面面觀
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2024-02-26/%E5%9C%A8%E8%BF%99%E4%B8%AA%E9%A2%91%E9%81%93%E8%AE%B8%E4%B9%85%E6%B2%A1%E6%9C%89%E9%A2%91%E7%B9%81%E6%9B%B4%E6%96%B0%E7%9A%84%E8%BF%99%E4%B8%A4%E5%B9%B4%E9%87%8C-%E7%A4%BE%E4%BC%9A-%E6%8A%80%E6%9C%AF-%E7%9A%84%E6%9C%80%E5%A4%A7%E8%AE%AE%E9%A2%98-%E4%BB%8E%E8%BF%87%E5%BE%80%E8%A2%AB%E8%AE%A8%E8%AE%BA%E5%BE%88%E5%A4%9A%E7%9A%84%E7%A4%BE%E7%BE%A4-%E5%AA%92%E4%BD%93%E7%9A%84%E6%89%8B%E6%AE%B5%E8%BF%9B/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2024-02-27/%E9%9D%A2%E5%B0%8D%E8%8C%AB%E8%8C%AB%E7%9A%84%E6%9C%AA%E4%BE%86-%E5%A6%82%E4%BD%95%E6%89%BE%E5%88%B0%E8%87%AA%E5%B7%B1%E7%9A%84%E5%A4%A9%E5%91%BD-112-1%E4%BA%BA%E6%96%87%E5%A4%A7%E9%81%93%E9%80%9A-%E4%BA%BA%E6%96%87%E7%94%A2%E6%A5%AD%E8%81%B7%E6%B6%AF%E9%9D%A2%E9%9D%A2%E8%A7%80/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2024-03-04/Aggregator-s-AI-Risk/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2024-02-20/Sora,-Groq,-and-Virtual-Reality/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2024-02-26/%E5%9C%A8%E8%BF%99%E4%B8%AA%E9%A2%91%E9%81%93%E8%AE%B8%E4%B9%85%E6%B2%A1%E6%9C%89%E9%A2%91%E7%B9%81%E6%9B%B4%E6%96%B0%E7%9A%84%E8%BF%99%E4%B8%A4%E5%B9%B4%E9%87%8C-%E7%A4%BE%E4%BC%9A-%E6%8A%80%E6%9C%AF-%E7%9A%84%E6%9C%80%E5%A4%A7%E8%AE%AE%E9%A2%98-%E4%BB%8E%E8%BF%87%E5%BE%80%E8%A2%AB%E8%AE%A8%E8%AE%BA%E5%BE%88%E5%A4%9A%E7%9A%84%E7%A4%BE%E7%BE%A4-%E5%AA%92%E4%BD%93%E7%9A%84%E6%89%8B%E6%AE%B5%E8%BF%9B/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2024-02-27/%E9%9D%A2%E5%B0%8D%E8%8C%AB%E8%8C%AB%E7%9A%84%E6%9C%AA%E4%BE%86-%E5%A6%82%E4%BD%95%E6%89%BE%E5%88%B0%E8%87%AA%E5%B7%B1%E7%9A%84%E5%A4%A9%E5%91%BD-112-1%E4%BA%BA%E6%96%87%E5%A4%A7%E9%81%93%E9%80%9A-%E4%BA%BA%E6%96%87%E7%94%A2%E6%A5%AD%E8%81%B7%E6%B6%AF%E9%9D%A2%E9%9D%A2%E8%A7%80/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2024-03-04/Aggregator-s-AI-Risk/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2024-02-20/Sora,-Groq,-and-Virtual-Reality/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

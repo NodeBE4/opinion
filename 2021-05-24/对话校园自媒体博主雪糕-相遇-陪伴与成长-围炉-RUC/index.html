@@ -1,0 +1,1061 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>对话校园自媒体博主雪糕：相遇、陪伴与成长 | 围炉 · RUC – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+对话校园自媒体博主雪糕：相遇、陪伴与成长 | 围炉 · RUC
+——
+" />
+    <meta property="og:description" content="
+对话校园自媒体博主雪糕：相遇、陪伴与成长 | 围炉 · RUC
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="对话校园自媒体博主雪糕：相遇、陪伴与成长 | 围炉 · RUC" />
+    <meta property="twitter:title" content="对话校园自媒体博主雪糕：相遇、陪伴与成长 | 围炉 · RUC" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fmatters.news%2F%40weiluflame%2F%25E5%25AF%25B9%25E8%25AF%259D%25E6%25A0%25A1%25E5%259B%25AD%25E8%2587%25AA%25E5%25AA%2592%25E4%25BD%2593%25E5%258D%259A%25E4%25B8%25BB%25E9%259B%25AA%25E7%25B3%2595-%25E7%259B%25B8%25E9%2581%2587-%25E9%2599%25AA%25E4%25BC%25B4%25E4%25B8%258E%25E6%2588%2590%25E9%2595%25BF-%25E5%259B%25B4%25E7%2582%2589-ruc-bafyreifj5yxk4joveqrwhxa7rf6sgtbrqkx64zwcloisbjyli6ao6uengq" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://matters.news/@weiluflame/%E5%AF%B9%E8%AF%9D%E6%A0%A1%E5%9B%AD%E8%87%AA%E5%AA%92%E4%BD%93%E5%8D%9A%E4%B8%BB%E9%9B%AA%E7%B3%95-%E7%9B%B8%E9%81%87-%E9%99%AA%E4%BC%B4%E4%B8%8E%E6%88%90%E9%95%BF-%E5%9B%B4%E7%82%89-ruc-bafyreifj5yxk4joveqrwhxa7rf6sgtbrqkx64zwcloisbjyli6ao6uengq" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://matters.news/@weiluflame/%E5%AF%B9%E8%AF%9D%E6%A0%A1%E5%9B%AD%E8%87%AA%E5%AA%92%E4%BD%93%E5%8D%9A%E4%B8%BB%E9%9B%AA%E7%B3%95-%E7%9B%B8%E9%81%87-%E9%99%AA%E4%BC%B4%E4%B8%8E%E6%88%90%E9%95%BF-%E5%9B%B4%E7%82%89-ruc-bafyreifj5yxk4joveqrwhxa7rf6sgtbrqkx64zwcloisbjyli6ao6uengq&text=对话校园自媒体博主雪糕：相遇、陪伴与成长 | 围炉 · RUC&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://matters.news/@weiluflame/%E5%AF%B9%E8%AF%9D%E6%A0%A1%E5%9B%AD%E8%87%AA%E5%AA%92%E4%BD%93%E5%8D%9A%E4%B8%BB%E9%9B%AA%E7%B3%95-%E7%9B%B8%E9%81%87-%E9%99%AA%E4%BC%B4%E4%B8%8E%E6%88%90%E9%95%BF-%E5%9B%B4%E7%82%89-ruc-bafyreifj5yxk4joveqrwhxa7rf6sgtbrqkx64zwcloisbjyli6ao6uengq&title=对话校园自媒体博主雪糕：相遇、陪伴与成长 | 围炉 · RUC" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://matters.news/@weiluflame/%E5%AF%B9%E8%AF%9D%E6%A0%A1%E5%9B%AD%E8%87%AA%E5%AA%92%E4%BD%93%E5%8D%9A%E4%B8%BB%E9%9B%AA%E7%B3%95-%E7%9B%B8%E9%81%87-%E9%99%AA%E4%BC%B4%E4%B8%8E%E6%88%90%E9%95%BF-%E5%9B%B4%E7%82%89-ruc-bafyreifj5yxk4joveqrwhxa7rf6sgtbrqkx64zwcloisbjyli6ao6uengq&title=对话校园自媒体博主雪糕：相遇、陪伴与成长 | 围炉 · RUC" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=对话校园自媒体博主雪糕：相遇、陪伴与成长 | 围炉 · RUC&body=
+对话校园自媒体博主雪糕：相遇、陪伴与成长 | 围炉 · RUC
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://matters.news/@weiluflame/%E5%AF%B9%E8%AF%9D%E6%A0%A1%E5%9B%AD%E8%87%AA%E5%AA%92%E4%BD%93%E5%8D%9A%E4%B8%BB%E9%9B%AA%E7%B3%95-%E7%9B%B8%E9%81%87-%E9%99%AA%E4%BC%B4%E4%B8%8E%E6%88%90%E9%95%BF-%E5%9B%B4%E7%82%89-ruc-bafyreifj5yxk4joveqrwhxa7rf6sgtbrqkx64zwcloisbjyli6ao6uengq" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://matters.news/@weiluflame/%E5%AF%B9%E8%AF%9D%E6%A0%A1%E5%9B%AD%E8%87%AA%E5%AA%92%E4%BD%93%E5%8D%9A%E4%B8%BB%E9%9B%AA%E7%B3%95-%E7%9B%B8%E9%81%87-%E9%99%AA%E4%BC%B4%E4%B8%8E%E6%88%90%E9%95%BF-%E5%9B%B4%E7%82%89-ruc-bafyreifj5yxk4joveqrwhxa7rf6sgtbrqkx64zwcloisbjyli6ao6uengq&title=对话校园自媒体博主雪糕：相遇、陪伴与成长 | 围炉 · RUC&caption=
+对话校园自媒体博主雪糕：相遇、陪伴与成长 | 围炉 · RUC
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=对话校园自媒体博主雪糕：相遇、陪伴与成长 | 围炉 · RUC&url=https://matters.news/@weiluflame/%E5%AF%B9%E8%AF%9D%E6%A0%A1%E5%9B%AD%E8%87%AA%E5%AA%92%E4%BD%93%E5%8D%9A%E4%B8%BB%E9%9B%AA%E7%B3%95-%E7%9B%B8%E9%81%87-%E9%99%AA%E4%BC%B4%E4%B8%8E%E6%88%90%E9%95%BF-%E5%9B%B4%E7%82%89-ruc-bafyreifj5yxk4joveqrwhxa7rf6sgtbrqkx64zwcloisbjyli6ao6uengq" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>对话校园自媒体博主雪糕：相遇、陪伴与成长 | 围炉 · RUC</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2021-05-24
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: 围炉weiluflame</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#围炉">
+          围炉
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://matters.news/@weiluflame/%E5%AF%B9%E8%AF%9D%E6%A0%A1%E5%9B%AD%E8%87%AA%E5%AA%92%E4%BD%93%E5%8D%9A%E4%B8%BB%E9%9B%AA%E7%B3%95-%E7%9B%B8%E9%81%87-%E9%99%AA%E4%BC%B4%E4%B8%8E%E6%88%90%E9%95%BF-%E5%9B%B4%E7%82%89-ruc-bafyreifj5yxk4joveqrwhxa7rf6sgtbrqkx64zwcloisbjyli6ao6uengq" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="围炉的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#围炉 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1621839196000-->
+<p><a href="https://matters.news/@weiluflame/%E5%AF%B9%E8%AF%9D%E6%A0%A1%E5%9B%AD%E8%87%AA%E5%AA%92%E4%BD%93%E5%8D%9A%E4%B8%BB%E9%9B%AA%E7%B3%95-%E7%9B%B8%E9%81%87-%E9%99%AA%E4%BC%B4%E4%B8%8E%E6%88%90%E9%95%BF-%E5%9B%B4%E7%82%89-ruc-bafyreifj5yxk4joveqrwhxa7rf6sgtbrqkx64zwcloisbjyli6ao6uengq">对话校园自媒体博主雪糕：相遇、陪伴与成长 | 围炉 · RUC</a>
+——</p>
+
+<div>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/c9822cc0-fb8e-440a-8611-b716f4929740.webp" data-asset-id="c9822cc0-fb8e-440a-8611-b716f4929740" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/2e1be0d1-f5a5-40c1-b130-1fc95be9cbaf.png" data-asset-id="2e1be0d1-f5a5-40c1-b130-1fc95be9cbaf" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p><strong>“有时候，我觉得世界像一本书，而每一个人都是字。不同的字相遇，组成了不同的语段，谱写了不同的故事。”</strong></p>
+  <p>这是雪糕在哔哩哔哩平台发布的第一条视频。“这是我第一堂影像技术课的作业。现在看来，拍摄和内容都略显稚嫩，大家多多包涵。”虽然当时这条视频并未迅速获得大批关注，但“相遇”、“陪伴”与“成长”成为了她的核心创作理念。</p>
+  <p>雪糕（可盐可甜雪糕在此）本名叫施星言，是中国人民大学新闻学院和艺术学院的在读双学位本科生，在人大coincidence抖肩舞视频、人大新闻学院宣传片、大艺节舞台等等场合都能见到她的身影。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/729370c4-446a-4ab9-8f6d-cfd2490a9484.png" data-asset-id="729370c4-446a-4ab9-8f6d-cfd2490a9484" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p><strong>#1</strong></p>
+  <p><strong>相遇</strong></p>
+  <p>“哈喽大家好，我是雪糕。”2020年2月18日发布的“数学逆袭vlog”与大众相遇，至今播放量达到了58.4万，也为雪糕的账号积累了第一批粉丝。</p>
+  <p>谈及制作这期视频的契机时，雪糕说当时对于自己视频内容的定位便是学习和生活。之所以选择数学入手，是因为高中入校后，她的数学成绩不好，然而在高考时收获了比较满意的成绩。<strong>她深知这一进步的背后除了自己持之以恒的努力外，也走了很多弯路。雪糕相信有很多和她一样的文科生处于相似的困境</strong>，便有了这一视频的创作动机。</p>
+  <p>但面对突然而至的大量关注，雪糕表现出了惊喜与惊讶。</p>
+  <p>“做视频其实也不算一个容易的事，像是观看量这种东西其实很玄学，所以我当时没有怎么期待。可能如果有个一两千什么的，我就很开心了，没想到它一直一直在往上涨，最后涨到那么高，真的挺超出我预期的。”</p>
+  <p>之后，雪糕便开始了她的自媒体博主“常更”历程。由于雪糕的受众群体主要是高中生和大学生，因此在视频的选材方面，绝大多数视频与这一群体相关，比如高考中涉及的数学、文综、英语等学科学习经验、择校选专业问题以及对新闻传播专业的认识等。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/123b7fea-87e3-4c81-afd4-28ef4b0f9f1e.webp" data-asset-id="123b7fea-87e3-4c81-afd4-28ef4b0f9f1e" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p><strong>#2</strong></p>
+  <p><strong>做个闪闪发光的平凡人</strong></p>
+  <p>开始时，雪糕主要的视频内容以数学、英语等学习干货内容为主，但从Manta翻唱视频、大唐不夜城化妆视频起，便从纯学习的干货类输出转向学习与生活内容兼有的vlog。雪糕说，她想把自己的视频内容做成一个体系，除了分享一些经验以帮助更多的同学外，也想对自己做一个全方位的记录。关于这一体系，雪糕大致将其归为三类，第一类是学习向的一些经验干货的分享，第二类是日常生活的一些vlog，第三类是个人兴趣的一些衍生，比如翻唱、美妆之类的，这也是她的创作目标。</p>
+  <p>在2020年临近高考之际，B站学习区里“逆袭”一词高居榜首，在其他up主发布“XX天学会XXX”之类的视频时，雪糕分别发布了“拜托，学习真的是要用大脑的”“醒醒吧，不是谁都可以做到逆袭”两个视频。雪糕说，<strong>她能理解做视频要讲个噱头，用一些夸张的标题吸引注意，但她作为一个学习博主特别不能接受、也特别不能容忍的是在内容中误导大众。</strong></p>
+  <p>“本来，有的同学就排斥学习，平时容易犯懒，如果再这么说，他就更有一种侥幸心理，觉得别人都短时间内能做到逆袭，那我也可以做到，但其实根本不是这样的，没有长久的积累，完全没办法在几个月就实现逆袭。”</p>
+  <p>当然，雪糕并不是反对逆袭这个词语，而是觉得逆袭的代价一定是付出比别人多倍的时间和多倍的努力去做到的，而非一个短时间速成之物。所以她也希望<strong>在做内容时，包括起标题、经验分享时都能真诚一些，不掩盖大众应知而未知之事。</strong></p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/6b1c5343-a035-4fab-bc6b-4f7343f613ae.webp" data-asset-id="6b1c5343-a035-4fab-bc6b-4f7343f613ae" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>谈及自己的特色，雪糕说自己更喜欢真实、接地气一些的风格。“我希望在大多数的时候我是一个平凡的人，不会很突出。但是在某些特定的场合，在我喜欢的领域，我又是一个可以做的很出色，可以让别人看到闪光点的人。”</p>
+  <p>或许个性签名的那一句“<strong>做一个闪闪发光的平凡人</strong>”便是她的真实写照。</p>
+  <p><strong>#3</strong></p>
+  <p><strong>平行时空下的陪伴与成长</strong></p>
+  <p>在这样一个隐私透明化的时代，收益往往与风险并存，特别是对于一名自媒体博主。</p>
+  <p>“之前有粉丝找到我的微博，给我发私信，一开始出于礼貌我回复了他。之后他就开始一天发好几十条私信，用那种很亲密的会让你觉得很不舒服的态度去跟你说话。他甚至还找到了我的抖音、网易云等各个社交帐号，频繁发私信骚扰，我当时还挺受困扰的。”</p>
+  <p><strong>“共同成长”是雪糕理想中的up主与粉丝的关系</strong>。虽然身在不同的地方，每个人都在经历着不同的喜怒哀乐、悲欢离合，每个人都有着不同的心之所向，但都同时生活在平行时空下，不存在教学过程中的那种传授关系，更多的是相生相促、相互陪伴、一同长大。</p>
+  <p>在雪糕的评论区，常常能看到很多粉丝也在与她分享着自己的生活。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/62c90af0-8a15-4f8d-8d95-bd459cedeaf8.webp" data-asset-id="62c90af0-8a15-4f8d-8d95-bd459cedeaf8" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/43f8d96f-3a8e-4fab-a773-027d1393043b.webp" data-asset-id="43f8d96f-3a8e-4fab-a773-027d1393043b" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>这样的评论数不胜数，有的分享喜悦，有的倾诉烦恼，有的共享记忆，有的畅谈未来。雪糕很欣喜自己的评论区能够在一定程度上成为粉丝们的“树洞”，<strong>在这个账号下公共空间中，没有人处于主导地位，每个人都可以成为一个信息的发布者或传播者，大家共享喜悦，也共担烦恼。</strong></p>
+  <p>谈起自己印象深刻的粉丝时，雪糕似乎有说不完的话。她说，有很多的粉丝会问她学习上一些比较具体的问题，甚至有个粉丝直接拿了一道数学题，结果她发现自己也不会做。当然，也有些粉丝会和她分享比较严肃的话题。有一次有个粉丝发了很长一段话给她，说自己在学校、家庭、生活里都是不被任何人理解的存在，不知道活着的意义是什么。</p>
+  <p>“他给我发了很长很长的话，我其实很心疼他，我告诉他，无论我们现在处在什么样的情境中，你觉得生活多么的苦，但你一定要相信总有一天自己可以跳出去，你只要一直向前看，你就总能找到生活的意义。不要总是让自己沉入到身边的这些泥沼中。”</p>
+  <p>“因为我也不是一个从小生活就一直很美满很幸福的人，所以我很能理解他们和我说那种感觉，但我觉得我就是一个成功地调解了自己，成功地和自己和解，然后成功地跳出那个我不喜欢的环境的人，所以我告诉他，我可以你就一定也可以。”</p>
+  <p>在雪糕的视频里，也不总是阳光灿烂，有时总有些调皮的迷茫从罅隙中溜出。每当这时，她总能在评论区收获一些师兄师姐们的安慰与鼓励。他们中有的已经身在职场，有的已经考上博士，但仍会分享自己当年的一些经历，予以慰藉。</p>
+  <p><strong>#4</strong></p>
+  <p><strong>关于未来</strong></p>
+  <p>谈及未来在自媒体上的发展方向时，雪糕在平台选择上，视频还是会以B站为主，可能也会在小红书上发一些图片、类日记体的记录，表达一些跟视频不一样的内容。当然，她也在努力学习各种知识，期望未来能以一个全新的视角看待自己的生活，以更加丰富的自己遇见更加丰富的世界。</p>
+  <p>采访最后，她也向围炉的读者们留下了一段期许。</p>
+  <p><strong>“其实我一路走来，有两个比较大的感悟，一是要常怀感恩之心，二是知足常乐。毕竟人这一辈子挺短的，不要想什么都得到，多看看自己已经获得了什么，就会觉得很快乐，生活很幸福，开开心心的过每一天，让自己身体健康，其实就很已经很好了。当然也要好好珍惜身边的情谊，懂得感恩，过好自己的生活，这也是我自己的人生信条吧。”</strong></p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/4ee03838-15bf-48ab-907a-63ee4d01c6fd.png" data-asset-id="4ee03838-15bf-48ab-907a-63ee4d01c6fd" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>文 | 周泓杰</p>
+  <p>图 | 受访者自媒体账号截图</p>
+  <p>审核 | 李文轩</p>
+  <p>微信编辑 | 吴雨洋</p>
+  <p>Matters编辑 | Marks</p>
+  <p>围炉 (ID：weilu_flame)</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/e2a88de3-5b41-4767-bbd5-b2eb52e47493.png" data-asset-id="e2a88de3-5b41-4767-bbd5-b2eb52e47493" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>欢迎您在文章下方评论，与围炉团队和其他读者交流讨论</p>
+  <p>欲了解围炉、阅读更多文章，请关注本公众号并在公众号页面点击相应菜单栏目</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/8817dbf7-e037-4736-af69-009980cd53fb.png" data-asset-id="8817dbf7-e037-4736-af69-009980cd53fb" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/efffabbe-7148-4e8d-b8be-4c56e6456933.jpeg" data-asset-id="efffabbe-7148-4e8d-b8be-4c56e6456933" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p><br /></p>
+  <p><br /></p>
+  <p><br /></p>
+  <p><br /></p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#围炉 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2024-10-03/%E5%AF%B9%E8%AF%9D%E5%A5%B3%E6%80%A7%E6%B0%91%E5%B7%A5-%E5%9C%A8%E5%9F%8E%E5%B8%82%E9%87%8C-%E5%9C%A8%E5%B7%A5%E4%BD%9C%E5%92%8C%E5%AE%B6%E5%BA%AD%E4%B9%8B%E9%97%B4-%E5%9B%B4%E7%82%89-CU/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2021-03-23/%E5%AF%B9%E8%AF%9D%E9%BB%84%E6%B3%93%E7%BF%94-%E8%87%B4%E5%8A%9B%E4%BA%8E%E5%9F%B9%E8%82%B2%E4%B8%96%E7%95%8C%E5%85%AC%E6%B0%91%E7%9A%84%E4%B8%AD%E5%8D%97%E5%B1%8B%E5%88%9B%E5%A7%8B%E4%BA%BA-%E8%AE%B2%E5%BA%A7%E6%91%98%E8%A6%81/">最早</a>--</span>
+    
+      <li>
+        <time>2021-05-28</time>
+        <a href="https://nodebe4.github.io/opinion/2021-05-28/%E5%AF%B9%E8%AF%9D%E6%9B%BE%E4%BD%B3-%E6%95%99%E8%82%B2%E6%98%AF%E5%94%A4%E9%86%92%E4%BA%BA%E7%9A%84%E4%B8%BB%E4%BD%93%E6%80%A7-%E5%9B%B4%E7%82%89-CityU/">
+          对话曾佳：教育是唤醒人的主体性 | 围炉 · CityU
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-05-24</time>
+        <a href="https://nodebe4.github.io/opinion/2021-05-24/%E5%AF%B9%E8%AF%9D%E7%92%8E%E5%AE%81-%E5%9C%A8%E6%8E%A2%E7%B4%A2%E8%87%AA%E6%88%91%E7%9A%84%E5%90%8C%E6%97%B6%E4%B8%BA%E5%A4%A7%E5%AE%B6%E5%B8%A6%E5%8E%BB%E6%AC%A2%E4%B9%90-%E5%9B%B4%E7%82%89-CityU/">
+          对话璎宁：在探索自我的同时为大家带去欢乐 | 围炉 · CityU
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-05-20</time>
+        <a href="https://nodebe4.github.io/opinion/2021-05-20/%E5%9B%B4%E7%82%89%E5%B0%8F%E7%82%92-%E5%AE%B6%E6%9A%B4-%E5%AE%B6%E5%BA%AD-%E6%9A%B4%E5%8A%9B%E4%BB%A5%E5%8F%8A%E6%9B%B4%E5%A4%9A/">
+          围炉小炒 | 家暴：家庭，暴力以及更多
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-05-20</time>
+        <a href="https://nodebe4.github.io/opinion/2021-05-20/%E5%AF%B9%E8%AF%9D%E6%BD%98%E8%95%BE%E8%95%BE-%E5%A5%94%E8%B5%B4%E4%B8%B0%E7%9B%9B-%E8%A7%81%E5%A4%A9%E8%A7%81%E4%BA%BA%E8%A7%81%E8%87%AA%E5%B7%B1-%E5%9B%B4%E7%82%89-FDU/">
+          对话潘蕾蕾：奔赴丰盛，见天见人见自己 | 围炉 · FDU
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2021-05-23/%E8%82%85%E8%AA%AA-%E8%BA%BA%E5%B9%B3-%E5%B0%B1%E8%83%BD%E4%B8%8D%E7%95%B6%E9%9F%AD%E8%8F%9C%E5%97%8E-%E5%81%87%E5%A6%82%E5%8A%89%E5%B0%91%E5%A5%87%E4%B8%8A%E5%8F%B0-%E6%96%87%E9%9D%A9%E6%9C%83%E5%BE%88%E5%BF%AB%E7%B5%90%E6%9D%9F%E5%97%8E-%E4%B8%80%E8%B5%B7%E9%96%8B%E7%AE%B1%E5%8D%81%E8%90%AC%E8%A8%82%E9%96%B1%E7%8D%8E%E7%89%8C/">
+            前一篇：肅說：躺平，就能不當韭菜嗎？假如劉少奇上台，文革會很快結束嗎？｜一起開箱十萬訂閱獎牌！
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2021-05-24/%E5%AF%B9%E8%AF%9D%E7%92%8E%E5%AE%81-%E5%9C%A8%E6%8E%A2%E7%B4%A2%E8%87%AA%E6%88%91%E7%9A%84%E5%90%8C%E6%97%B6%E4%B8%BA%E5%A4%A7%E5%AE%B6%E5%B8%A6%E5%8E%BB%E6%AC%A2%E4%B9%90-%E5%9B%B4%E7%82%89-CityU/">
+            後一篇：对话璎宁：在探索自我的同时为大家带去欢乐 | 围炉 · CityU
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2021-05-23/%E8%82%85%E8%AA%AA-%E8%BA%BA%E5%B9%B3-%E5%B0%B1%E8%83%BD%E4%B8%8D%E7%95%B6%E9%9F%AD%E8%8F%9C%E5%97%8E-%E5%81%87%E5%A6%82%E5%8A%89%E5%B0%91%E5%A5%87%E4%B8%8A%E5%8F%B0-%E6%96%87%E9%9D%A9%E6%9C%83%E5%BE%88%E5%BF%AB%E7%B5%90%E6%9D%9F%E5%97%8E-%E4%B8%80%E8%B5%B7%E9%96%8B%E7%AE%B1%E5%8D%81%E8%90%AC%E8%A8%82%E9%96%B1%E7%8D%8E%E7%89%8C/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2021-05-24/%E5%AF%B9%E8%AF%9D%E7%92%8E%E5%AE%81-%E5%9C%A8%E6%8E%A2%E7%B4%A2%E8%87%AA%E6%88%91%E7%9A%84%E5%90%8C%E6%97%B6%E4%B8%BA%E5%A4%A7%E5%AE%B6%E5%B8%A6%E5%8E%BB%E6%AC%A2%E4%B9%90-%E5%9B%B4%E7%82%89-CityU/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2021-05-24/%E5%AF%B9%E8%AF%9D%E7%92%8E%E5%AE%81-%E5%9C%A8%E6%8E%A2%E7%B4%A2%E8%87%AA%E6%88%91%E7%9A%84%E5%90%8C%E6%97%B6%E4%B8%BA%E5%A4%A7%E5%AE%B6%E5%B8%A6%E5%8E%BB%E6%AC%A2%E4%B9%90-%E5%9B%B4%E7%82%89-CityU/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2021-05-20/%E5%9B%B4%E7%82%89%E5%B0%8F%E7%82%92-%E5%AE%B6%E6%9A%B4-%E5%AE%B6%E5%BA%AD-%E6%9A%B4%E5%8A%9B%E4%BB%A5%E5%8F%8A%E6%9B%B4%E5%A4%9A/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2021-05-23/%E8%82%85%E8%AA%AA-%E8%BA%BA%E5%B9%B3-%E5%B0%B1%E8%83%BD%E4%B8%8D%E7%95%B6%E9%9F%AD%E8%8F%9C%E5%97%8E-%E5%81%87%E5%A6%82%E5%8A%89%E5%B0%91%E5%A5%87%E4%B8%8A%E5%8F%B0-%E6%96%87%E9%9D%A9%E6%9C%83%E5%BE%88%E5%BF%AB%E7%B5%90%E6%9D%9F%E5%97%8E-%E4%B8%80%E8%B5%B7%E9%96%8B%E7%AE%B1%E5%8D%81%E8%90%AC%E8%A8%82%E9%96%B1%E7%8D%8E%E7%89%8C/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2021-05-24/%E5%AF%B9%E8%AF%9D%E7%92%8E%E5%AE%81-%E5%9C%A8%E6%8E%A2%E7%B4%A2%E8%87%AA%E6%88%91%E7%9A%84%E5%90%8C%E6%97%B6%E4%B8%BA%E5%A4%A7%E5%AE%B6%E5%B8%A6%E5%8E%BB%E6%AC%A2%E4%B9%90-%E5%9B%B4%E7%82%89-CityU/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<围炉>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2021-05-24/%E5%AF%B9%E8%AF%9D%E7%92%8E%E5%AE%81-%E5%9C%A8%E6%8E%A2%E7%B4%A2%E8%87%AA%E6%88%91%E7%9A%84%E5%90%8C%E6%97%B6%E4%B8%BA%E5%A4%A7%E5%AE%B6%E5%B8%A6%E5%8E%BB%E6%AC%A2%E4%B9%90-%E5%9B%B4%E7%82%89-CityU/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<围炉>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2021-05-20/%E5%9B%B4%E7%82%89%E5%B0%8F%E7%82%92-%E5%AE%B6%E6%9A%B4-%E5%AE%B6%E5%BA%AD-%E6%9A%B4%E5%8A%9B%E4%BB%A5%E5%8F%8A%E6%9B%B4%E5%A4%9A/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

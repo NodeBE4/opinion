@@ -1,0 +1,666 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>「原创」左-右政治光谱及中共对其畸化 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="目标读者：刚开始接触自由世界政治新闻，对其他国家地区政治几乎一无所知的新难民。
+" />
+    <meta property="og:description" content="目标读者：刚开始接触自由世界政治新闻，对其他国家地区政治几乎一无所知的新难民。
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="「原创」左-右政治光谱及中共对其畸化" />
+    <meta property="twitter:title" content="「原创」左-右政治光谱及中共对其畸化" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fweb.archive.org%2Fweb%2F20191110033015%2Fhttps%3A%2F%2Fpincong.rocks%2Farticle%2F2881" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://web.archive.org/web/20191110033015/https://pincong.rocks/article/2881" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://web.archive.org/web/20191110033015/https://pincong.rocks/article/2881&text=「原创」左-右政治光谱及中共对其畸化&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://web.archive.org/web/20191110033015/https://pincong.rocks/article/2881&title=「原创」左-右政治光谱及中共对其畸化" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://web.archive.org/web/20191110033015/https://pincong.rocks/article/2881&title=「原创」左-右政治光谱及中共对其畸化" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=「原创」左-右政治光谱及中共对其畸化&body=目标读者：刚开始接触自由世界政治新闻，对其他国家地区政治几乎一无所知的新难民。
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://web.archive.org/web/20191110033015/https://pincong.rocks/article/2881" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://web.archive.org/web/20191110033015/https://pincong.rocks/article/2881&title=「原创」左-右政治光谱及中共对其畸化&caption=目标读者：刚开始接触自由世界政治新闻，对其他国家地区政治几乎一无所知的新难民。
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=「原创」左-右政治光谱及中共对其畸化&url=https://web.archive.org/web/20191110033015/https://pincong.rocks/article/2881" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>「原创」左-右政治光谱及中共对其畸化</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2019-08-06
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: 懦夫斯基</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#达摩俱乐部">
+          达摩俱乐部
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://web.archive.org/web/20191110033015/https://pincong.rocks/article/2881" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="原创的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#达摩俱乐部 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <p><strong>目标读者</strong>：刚开始接触自由世界政治新闻，对其他国家地区政治几乎一无所知的新难民。</p>
+
+<p>懒人包：左右只代表两极的意思，要分成经济、政治、文化等维度讨论才有意义。</p>
+
+<p><strong>历史</strong></p>
+
+<p>以左右划分政治立场的概念起源于法国大革命。1791年，法国大革命后，开了个制宪议会。在会上，激进的革命党人都坐在左边，他们主张激进的变革、剥夺世袭特权；温和派的保王党人都坐在右边，主张温和的渐变、保持旧的社会传统与权力结构。左边也叫”运动派”（party of movement）,右边也叫”秩序派”（party of order）。</p>
+
+<p>热爱党同伐异，是人性的弱点，经过法国大革命、拿破仑战争的洗礼，这种左右二元划分政治立场的概念，在欧洲各国流行起来，各自形成了深厚的政治、思想传统。</p>
+
+<p>从其起源可以看出，在社会需要变革时，左派希望短痛不如长痛，而右派希望慢慢来。对于社会变革，左派指激进派，右派指改良派。</p>
+
+<p>同时，我们也注意到，在左右概念创立的时候，变革抑或改良，其对象都是法国旧政权（Ancien Régime）的社会制度，即政治皇权专制、经济私有制、文化信仰基督教，也就是说，最初的左右区分，以对法国旧政权的态度为判断标准。学术上划分左右，也大多在这个历史基础上发展变化。</p>
+
+<p><strong>维度</strong></p>
+
+<p>暴力运动时只有敌我双方，要么彻底推翻旧世界，要么使用原有的社会秩序，左右的立场足以做出区分。然而，到了和平年代，社会平稳运行起来，社会秩序已然形成，政治变得比战时复杂得多。</p>
+
+<p>经济上：旧法国实行私有制，少数富人达成了商业垄断。因此左派主张政府干预经济、主导财富再分配手段，例如高税收、财产公有化等等，也就我们常见的社会主义、共产主义。对应的右派则主张，政府不要干预，放任市场自由，也就是我们常见的资本主义、经济学上的古典自由主义。</p>
+
+<p>法律：结果正义，求公平的结果，是左派。程序正义，求公平的程序，是右派。例如美国著名的辛普森案，由于取证过程违反了法律，最终辛普森被判无罪，就是法学右派的胜利。顺便说一句，和任何一个美国人聊辛普森案，都是迅速引起争论的捷径。</p>
+
+<p>个人权利：平等为左。自由为右。</p>
+
+<p>一些欧美国家常见具体议题举例：</p>
+<ul>
+  <li>左—–右</li>
+  <li>大政府—小政府</li>
+  <li>世俗价值—宗教价值</li>
+  <li>性别性向平权—传统家庭观念</li>
+  <li>堕胎—反堕胎</li>
+  <li>控枪—公民持枪</li>
+  <li>对抗气候变化—放任气候变化</li>
+  <li>文化融合—民族保护</li>
+  <li>经济全球化—贸易地方保护</li>
+</ul>
+
+<p>显然，一个人可能在一个议题上持左派立场，在另一个议题上持右派立场。因此，如果不能确定谈论的是哪个具体的议题，谈论左右则没有意义。另一个问题，不知道各位有没有注意到，上面列了很多议题，但是没有民主与专制、法治与人治。左右立场，与是否支持民主、法治没有关系。</p>
+
+<p><strong>中国</strong>
+说了这么多，看似很清楚，为什么国内的争论似乎不适用呢？同样，我们得回顾历史。</p>
+
+<p>1949年以前</p>
+
+<p>清朝末年，反对清朝的革命党人，包括中国国民党和中国共产党，都自称为左派。此时依旧很好理解，要推翻清政府嘛。中华民国成立后，国民党一党执政，成为了新的社会体系当权者，并且开始镇压共产党。共产党自称保持了”左”的进步传统和革命精神，而把国民党称之为”右”派和”反革命派”。
+实际上，在国民党掌权时，国民党根本就没有打算推翻自己，因此也就根本不是革命者，因此共产党称之为与自己相对的右派，是不准确的。革命者内部，也就是面对”反对国民党”这一具体议题，划分左右才有意义。然而，中共宣传部当年就很没文化，把右派名头安在国民党头上，自己内部不同意见没法贴标签了。于是，中共开始使用”左倾”、”右倾”表示激进或保守的斗争策略。</p>
+
+<p>1949年后</p>
+
+<p>PRC建国之后，中共在经济制度、政治制度上完全走左派路线，建立社会制度。按理说，应该到了讨论具体议题，重新划分左右不同意见的时候。然而，中共实在是没文化，把之前安到国民党头上的”右派”回收利用，还无视历史约定俗成的用法，又用错了。大家都知道，毛泽东非常喜欢胡思乱想，外行指导内行，总是无视专家学者的专业意见，强行推行自己看法，并自以为改革先驱。于是，中共把支持毛泽东的叫左派，不支持毛泽东的叫右派。</p>
+
+<p>中共对左右的彻底畸化，在1978年后，对文革的反思。文革明明是无政府主义、践踏法治，左右以经济制度立场为基础，这二者是方枘圆凿，好比用甜咸形容气温。然而中共非常虚荣，不愿意承认自己认知上的错误，于是仍然把毛泽东发动的文革称为”左”。反”左”成了改革的一个重要政治任务，拒绝接受改革开放（有没有注意到？中共又错上加错地把”开放”这一经济政策夹带进来了）的新路线，通常被界定为极”左”和”保守”，而大胆且激进的改革者由于以反”左”为己任，以”右”派自居。</p>
+
+<p>这样一来，”左”和”右”这两个概念的基本含义在中国社会发生了根本性的逆转，”左”派被界定为维护中国社会旧秩序的保守派，而”右”派则成了打破旧秩序，建立新秩序的改革派或革命派。</p>
+
+<p>中共有意无意地自创出一套政治坐标系，是其进行洗脑的有利武器。当我们被绕得晕头转向，连左右什么意思都不确定时，公民参与社会讨论的效率大打折扣，陷入无休止的误会与鸡同鸭讲。为了防止被中共牵着鼻子走，回归世界约定俗成、学术体系化定义的政治坐标系，使用大家都听得懂的政治用语，是一件重要的事情。</p>
+
+<p><strong>二维可视化坐标系</strong></p>
+
+<p>左右只能两极化区分政治立场，完全不够用来描述一个正在运行中的社会制度，最重要的是，很难描述民主与否。因此，政治学家、社会学家们提出了很多种更复杂的政治光谱。例如，以经济制度的左右作为一维，以政治制度的左右作为另一个维度：
+<a href="https://pincong.rocks/url/img/aHR0cHM6Ly9pLmltZ3VyLmNvbS8xYzg4V1VnLnBuZw"><img src="https://i.imgur.com/1c88WUg.png" alt="" /></a></p>
+
+<p>所谓意识形态之争，从这个维度图上很容易就看出来。例如PRC建国初期，和美国相比，大概如下图：
+（红色代表中国，蓝色代表美国）
+<a href="https://pincong.rocks/url/img/aHR0cHM6Ly9pLmltZ3VyLmNvbS9nTlJkdDh0LnBuZw"><img src="https://i.imgur.com/gNRdt8t.png" alt="" /></a></p>
+
+<p>两个国家在这个坐标系中重合度越高，其意识形态就越接近，两国之间形成友好关系、进行合作的可能性也越高。可以看出，此时中国和美国没有任何重合之处，这也对应了冷战初期的政治形势。
+前面提到，中共把左右政治立场完全畸化了，当它”反左”，进行改革开放时，实际上是从上图的位置挪到了这个位置：
+<a href="https://pincong.rocks/url/img/aHR0cHM6Ly9pLmltZ3VyLmNvbS82OUZCVnlNLnBuZw"><img src="https://i.imgur.com/69FBVyM.png" alt="" /></a></p>
+
+<p>改革开放之后，中国和美国之间有了不少重合之处，且重合部分横向长度明显大于纵向长度，也就是说，中美之间在意识形态上的共同点更多来源于经济制度的共同之处，这也对应了改革开放后中美经济合作密切，而政治、军事、文化等领域依旧冷感的状态。</p>
+
+<p>看到这里，你一定已经能够举一反三地想到，为什么中美现在开始对立。
+<a href="https://pincong.rocks/url/img/aHR0cHM6Ly9pLmltZ3VyLmNvbS9GTFF4azdELnBuZw"><img src="https://i.imgur.com/FLQxk7D.png" alt="" /></a></p>
+
+<p>这一次，中国在经济制度维度没怎么动，但是向着大政府集权、极权的路线高歌猛进，再次和美国的意识形态毫无共同点。</p>
+
+<p>美国的政治制度、经济制度在二战后一直处于相对稳定的状态，而中共的政权则十分不稳定，反复变化。看着政治光谱的变化，我们就能明白，虽然新闻联播整天鼓吹美帝两面三刀，说话不算话，实际上反复无常的是中共。</p>
+
+<p>额外说一句，这里说美国政治光谱稳定，那中共在社交媒体上引导嘲讽的”白左”是什么呢？那主要是文化、社会价值等层面的左派，和经济制度、政治制度关系不大，因此，五毛用”白左”说事，说”白左”搞得美国经济不行、没有民主，是和他们的主子一样没文化，再一次犯了用甜咸形容温度的错误。</p>
+
+<p><strong>其他可视化坐标系</strong></p>
+
+<p>需要说明的是，政治学家、社会学家们提出了很多种可视化政治光谱，上面用到的只是最流行的一种，但并不一定意味着完美准确。比如，这些位置代表了什么？
+<a href="https://pincong.rocks/url/img/aHR0cHM6Ly9pLmltZ3VyLmNvbS9IYUxRMUdrLnBuZw"><img src="https://i.imgur.com/HaLQ1Gk.png" alt="" /></a></p>
+
+<p>左下角，已经无政府了，怎么还会有机构来执行财富再分配？右上角，一个极权政府，怎么可能放任经济自由？这些都是该坐标系里存在，但实际上不可能存在的社会制度。</p>
+
+<p>下面这个坐标系，就是一个优化：
+<a href="https://pincong.rocks/url/img/aHR0cHM6Ly9pLmltZ3VyLmNvbS9xcHF2MU5sLmpwZw"><img src="https://i.imgur.com/qpqv1Nl.jpg" alt="" /></a></p>
+
+<p>在这个坐标系中，共产主义和法西斯主义既不是左，也不是右，而在极权处重合为一体。毕竟，共产主义就是不积极搞民族歧视的法西斯主义，法西斯主义就是不搞大锅饭的共产主义。</p>
+
+<p>参考资料</p>
+<ol>
+  <li><a href="https://zh.wikipedia.org/zh/%E5%B7%A6%E6%B4%BE%E5%92%8C%E5%8F%B3%E6%B4%BE">维基百科：左派与右派</a></li>
+  <li>政治光谱 <a href="https://sakura-paris.org/%E6%94%BF%E6%B2%BB%E5%85%89%E8%B0%B1">https://sakura-paris.org/%E6%94%BF%E6%B2%BB%E5%85%89%E8%B0%B1</a></li>
+  <li>观察者网：寒竹：”左”、”右”概念难以切合今天的中国现实 <a href="https://www.guancha.cn/han-zhu/2013_10_31_182355.shtml">https://www.guancha.cn/han-zhu/2013_10_31_182355.shtml</a></li>
+</ol>
+
+<p>难民迎新系列：
+<a href="https://pincong.rocks/article/2821">中文世界政治立场颜色一览</a></p>
+
+<h6 id="tags-原创-政治-政治光谱-洗脑-定义">tags: <code class="language-plaintext highlighter-rouge">原创</code> <code class="language-plaintext highlighter-rouge">政治</code> <code class="language-plaintext highlighter-rouge">政治光谱</code> <code class="language-plaintext highlighter-rouge">洗脑</code> <code class="language-plaintext highlighter-rouge">定义</code></h6>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#达摩俱乐部 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2020-01-30/chinese-islam-survey/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2019-01-27/notes-psychological-experiments/">最早</a>--</span>
+    
+      <li>
+        <time>2019-09-05</time>
+        <a href="https://nodebe4.github.io/opinion/2019-09-05/politics-sociology-guide/">
+          「索引」政治与社会学
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-09-04</time>
+        <a href="https://nodebe4.github.io/opinion/2019-09-04/general-education-collection/">
+          「索引」中小学通识教育/公民教育课本或课纲
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-08-04</time>
+        <a href="https://nodebe4.github.io/opinion/2019-08-04/chinese-political-colors/">
+          「原创」中文世界政治立场颜色一览
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-07-18</time>
+        <a href="https://nodebe4.github.io/opinion/2019-07-18/digital-totalitarianism/">
+          「索引」关于数字极权的研究
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2019-08-05/%E5%88%AB%E4%BA%BA%E7%9A%84%E8%BF%87%E5%8E%BB-%E6%88%91%E4%BB%AC%E7%9A%84%E7%8E%B0%E5%9C%A8-%E5%A2%99%E7%BB%88%E7%A9%B6%E4%BC%9A%E5%80%92-%E4%BB%96%E4%BA%BA%E7%9A%84%E7%94%9F%E6%B4%BB-%E7%AA%83%E5%90%AC%E9%A3%8E%E6%9A%B4/">
+            前一篇：别人的过去，我们的现在，墙终究会倒！ -- 《他人的生活》|《窃听风暴》
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2019-08-06/%E9%84%A7%E8%81%BF%E6%96%87-%E6%9D%8E%E9%B5%AC%E4%B9%8B%E6%AD%BB%E5%8F%AF%E4%BB%A5%E8%AE%93%E5%85%AD%E5%9B%9B%E5%B9%B3%E5%8F%8D%E6%97%A9%E9%BB%9E%E5%88%B0%E4%BE%86%E5%97%8E/">
+            後一篇：鄧聿文：李鵬之死可以讓六四平反早點到來嗎
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2019-08-05/%E5%88%AB%E4%BA%BA%E7%9A%84%E8%BF%87%E5%8E%BB-%E6%88%91%E4%BB%AC%E7%9A%84%E7%8E%B0%E5%9C%A8-%E5%A2%99%E7%BB%88%E7%A9%B6%E4%BC%9A%E5%80%92-%E4%BB%96%E4%BA%BA%E7%9A%84%E7%94%9F%E6%B4%BB-%E7%AA%83%E5%90%AC%E9%A3%8E%E6%9A%B4/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2019-08-06/%E9%84%A7%E8%81%BF%E6%96%87-%E6%9D%8E%E9%B5%AC%E4%B9%8B%E6%AD%BB%E5%8F%AF%E4%BB%A5%E8%AE%93%E5%85%AD%E5%9B%9B%E5%B9%B3%E5%8F%8D%E6%97%A9%E9%BB%9E%E5%88%B0%E4%BE%86%E5%97%8E/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2019-09-04/general-education-collection/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2019-08-04/chinese-political-colors/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2019-08-05/%E5%88%AB%E4%BA%BA%E7%9A%84%E8%BF%87%E5%8E%BB-%E6%88%91%E4%BB%AC%E7%9A%84%E7%8E%B0%E5%9C%A8-%E5%A2%99%E7%BB%88%E7%A9%B6%E4%BC%9A%E5%80%92-%E4%BB%96%E4%BA%BA%E7%9A%84%E7%94%9F%E6%B4%BB-%E7%AA%83%E5%90%AC%E9%A3%8E%E6%9A%B4/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2019-08-06/%E9%84%A7%E8%81%BF%E6%96%87-%E6%9D%8E%E9%B5%AC%E4%B9%8B%E6%AD%BB%E5%8F%AF%E4%BB%A5%E8%AE%93%E5%85%AD%E5%9B%9B%E5%B9%B3%E5%8F%8D%E6%97%A9%E9%BB%9E%E5%88%B0%E4%BE%86%E5%97%8E/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<达摩俱乐部>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2019-09-04/general-education-collection/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<达摩俱乐部>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2019-08-04/chinese-political-colors/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

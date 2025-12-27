@@ -1,0 +1,2467 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>EnclavedMicrostate在2022-05-16~2022-05-22的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="EnclavedMicrostate在2022-05-16~2022-05-22的言论" />
+    <meta property="twitter:title" content="EnclavedMicrostate在2022-05-16~2022-05-22的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FAskHistorians%2Fcomments%2Fuqplag%2Fi_have_heard_many_times_how_indians_say_that%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/AskHistorians/comments/uqplag/i_have_heard_many_times_how_indians_say_that/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/AskHistorians/comments/uqplag/i_have_heard_many_times_how_indians_say_that/&text=EnclavedMicrostate在2022-05-16~2022-05-22的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/AskHistorians/comments/uqplag/i_have_heard_many_times_how_indians_say_that/&title=EnclavedMicrostate在2022-05-16~2022-05-22的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/AskHistorians/comments/uqplag/i_have_heard_many_times_how_indians_say_that/&title=EnclavedMicrostate在2022-05-16~2022-05-22的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=EnclavedMicrostate在2022-05-16~2022-05-22的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/AskHistorians/comments/uqplag/i_have_heard_many_times_how_indians_say_that/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/AskHistorians/comments/uqplag/i_have_heard_many_times_how_indians_say_that/&title=EnclavedMicrostate在2022-05-16~2022-05-22的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=EnclavedMicrostate在2022-05-16~2022-05-22的言论&url=https://old.reddit.com/r/AskHistorians/comments/uqplag/i_have_heard_many_times_how_indians_say_that/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>EnclavedMicrostate在2022-05-16~2022-05-22的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-05-22
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: EnclavedMicrostate</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/AskHistorians/comments/uqplag/i_have_heard_many_times_how_indians_say_that/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#437-i-have-heard-many-times-how-indians-say-that-alexander-was-defeated-when-he-tried-to-attack-india-whats-the-basis-of-the-claim--submitted-on-2022-05-16-1440290800" id="markdown-toc-437-i-have-heard-many-times-how-indians-say-that-alexander-was-defeated-when-he-tried-to-attack-india-whats-the-basis-of-the-claim--submitted-on-2022-05-16-1440290800">437: I have heard many times how Indians say that Alexander was defeated when he tried to attack india. What’s the basis of the claim ?, submitted on 2022-05-16 14:40:29+08:00.</a></li>
+  <li><a href="#438-why-do-some-chinese-claim-korea-to-be-part-of-china-was-korea-ever-a-part-of-china-were-they-effectively-under-chinese-rule-when-they-were-a-vassal-state-of-china-submitted-on-2022-05-16-2103560800" id="markdown-toc-438-why-do-some-chinese-claim-korea-to-be-part-of-china-was-korea-ever-a-part-of-china-were-they-effectively-under-chinese-rule-when-they-were-a-vassal-state-of-china-submitted-on-2022-05-16-2103560800">438: Why do some Chinese claim Korea to be part of China? Was Korea ever a part of China? Were they effectively under Chinese rule when they were a vassal state of China?, submitted on 2022-05-16 21:03:56+08:00.</a></li>
+  <li><a href="#439-botting-business-bureau---weekly-discussion-thread-may-16th-2022-submitted-on-2022-05-16-2352250800" id="markdown-toc-439-botting-business-bureau---weekly-discussion-thread-may-16th-2022-submitted-on-2022-05-16-2352250800">439: Botting Business Bureau - Weekly Discussion Thread, May 16th, 2022, submitted on 2022-05-16 23:52:25+08:00.</a></li>
+  <li><a href="#440-was-indirect-trade-between-the-vikings-and-china-or-the-far-east-in-general-exhaustive--submitted-on-2022-05-19-0800560800" id="markdown-toc-440-was-indirect-trade-between-the-vikings-and-china-or-the-far-east-in-general-exhaustive--submitted-on-2022-05-19-0800560800">440: Was indirect trade between the Vikings and China (or the Far East in general) exhaustive ?, submitted on 2022-05-19 08:00:56+08:00.</a></li>
+  <li><a href="#441-the-wikipedia-page-for-the-tuoba-northern-wei-empire-places-a-lot-of-emphasis-on-the-sinicization-of-the-empire-over-time-is-this-characterization-of-northern-wei-correct-submitted-on-2022-05-19-1031270800" id="markdown-toc-441-the-wikipedia-page-for-the-tuoba-northern-wei-empire-places-a-lot-of-emphasis-on-the-sinicization-of-the-empire-over-time-is-this-characterization-of-northern-wei-correct-submitted-on-2022-05-19-1031270800">441: The Wikipedia page for the Tuoba Northern Wei empire places a lot of emphasis on the “Sinicization” of the empire over time. Is this characterization of Northern Wei correct?, submitted on 2022-05-19 10:31:27+08:00.</a></li>
+  <li><a href="#442-why-does-japan-have-this-type-of-emoji-flag-submitted-on-2022-05-19-2129540800" id="markdown-toc-442-why-does-japan-have-this-type-of-emoji-flag-submitted-on-2022-05-19-2129540800">442: Why does Japan have this type of emoji flag?, submitted on 2022-05-19 21:29:54+08:00.</a></li>
+  <li><a href="#443-is-fubuki-the-only-holomember-that-is-part-of-two-generations-submitted-on-2022-05-20-0508190800" id="markdown-toc-443-is-fubuki-the-only-holomember-that-is-part-of-two-generations-submitted-on-2022-05-20-0508190800">443: Is Fubuki the only Holomember that is part of two generations?, submitted on 2022-05-20 05:08:19+08:00.</a></li>
+  <li><a href="#444-nijisanji-off-collab-submitted-on-2022-05-20-2120340800" id="markdown-toc-444-nijisanji-off-collab-submitted-on-2022-05-20-2120340800">444: Nijisanji off collab, submitted on 2022-05-20 21:20:34+08:00.</a></li>
+  <li><a href="#445-videogames-a-devoted-playerbase-was-tricked-into-buying-an-unfinished-aaa-videogame-total-war-warhammer-iii---which-was-also-the-most-hyped-of-the-franchise-so-far-the-community-was-split-between-being-mad-or-happy-about-it-submitted-on-2022-05-20-2209290800" id="markdown-toc-445-videogames-a-devoted-playerbase-was-tricked-into-buying-an-unfinished-aaa-videogame-total-war-warhammer-iii---which-was-also-the-most-hyped-of-the-franchise-so-far-the-community-was-split-between-being-mad-or-happy-about-it-submitted-on-2022-05-20-2209290800">445: [Videogames] A devoted playerbase was tricked into buying an unfinished AAA videogame, “Total War: WARHAMMER III” - which was also the most hyped of the franchise so far. The community was split between being mad or happy about it., submitted on 2022-05-20 22:09:29+08:00.</a></li>
+  <li><a href="#446-recommendations-for-documentaries-i-should-watch-submitted-on-2022-05-21-1008130800" id="markdown-toc-446-recommendations-for-documentaries-i-should-watch-submitted-on-2022-05-21-1008130800">446: Recommendations for documentaries I should watch??, submitted on 2022-05-21 10:08:13+08:00.</a></li>
+  <li><a href="#447-are-there-any-political-maps-of-lands-near-atlantic-around-the-time-of-1692-submitted-on-2022-05-21-1045160800" id="markdown-toc-447-are-there-any-political-maps-of-lands-near-atlantic-around-the-time-of-1692-submitted-on-2022-05-21-1045160800">447: Are there any political maps of lands near Atlantic around the time of 1692?, submitted on 2022-05-21 10:45:16+08:00.</a></li>
+  <li><a href="#448-which-historical-character-would-be-the-most-upset-to-not-have-a-hollywood-film-made-about-them-and-why-submitted-on-2022-05-21-1111410800" id="markdown-toc-448-which-historical-character-would-be-the-most-upset-to-not-have-a-hollywood-film-made-about-them-and-why-submitted-on-2022-05-21-1111410800">448: Which historical character would be the most upset to not have a Hollywood film made about them and why?, submitted on 2022-05-21 11:11:41+08:00.</a></li>
+  <li><a href="#449-congratulations-to-yukihana-lamy-on-1000000-subscribers-submitted-on-2022-05-21-1337490800" id="markdown-toc-449-congratulations-to-yukihana-lamy-on-1000000-subscribers-submitted-on-2022-05-21-1337490800">449: Congratulations to Yukihana Lamy on 1,000,000 Subscribers, submitted on 2022-05-21 13:37:49+08:00.</a></li>
+  <li><a href="#450-where-to-start-on-chinese-history-submitted-on-2022-05-22-0811410800" id="markdown-toc-450-where-to-start-on-chinese-history-submitted-on-2022-05-22-0811410800">450: where to start on Chinese history?, submitted on 2022-05-22 08:11:41+08:00.</a></li>
+  <li><a href="#451-what-should-teenagers-know-about-ww2-advise-a-teacher-submitted-on-2022-05-22-1153420800" id="markdown-toc-451-what-should-teenagers-know-about-ww2-advise-a-teacher-submitted-on-2022-05-22-1153420800">451: What Should Teenagers Know About WW2? Advise A Teacher!, submitted on 2022-05-22 11:53:42+08:00.</a></li>
+  <li><a href="#452-where-when-and-who-invented-the-hot-pot-submitted-on-2022-05-22-1309030800" id="markdown-toc-452-where-when-and-who-invented-the-hot-pot-submitted-on-2022-05-22-1309030800">452: Where, when and who invented the hot pot?, submitted on 2022-05-22 13:09:03+08:00.</a></li>
+  <li><a href="#453-did-vikings-eat-these-vegetables-submitted-on-2022-05-22-1431230800" id="markdown-toc-453-did-vikings-eat-these-vegetables-submitted-on-2022-05-22-1431230800">453: Did Vikings eat these vegetables?, submitted on 2022-05-22 14:31:23+08:00.</a></li>
+  <li><a href="#454-holoen-collabs-with-other-vtubers-submitted-on-2022-05-22-1845230800" id="markdown-toc-454-holoen-collabs-with-other-vtubers-submitted-on-2022-05-22-1845230800">454: HoloEn collabs with other Vtubers, submitted on 2022-05-22 18:45:23+08:00.</a></li>
+  <li><a href="#455-hobby-scuffles-week-of-may-23-2022-submitted-on-2022-05-22-2300140800" id="markdown-toc-455-hobby-scuffles-week-of-may-23-2022-submitted-on-2022-05-22-2300140800">455: [Hobby Scuffles] Week of May 23, 2022, submitted on 2022-05-22 23:00:14+08:00.</a></li>
+</ul>
+
+<h3 id="437-i-have-heard-many-times-how-indians-say-that-alexander-was-defeated-when-he-tried-to-attack-india-whats-the-basis-of-the-claim--submitted-on-2022-05-16-1440290800">437: <a href="https://old.reddit.com/r/AskHistorians/comments/uqplag/i_have_heard_many_times_how_indians_say_that/">I have heard many times how Indians say that Alexander was defeated when he tried to attack india. What’s the basis of the claim ?</a>, submitted on 2022-05-16 14:40:29+08:00.</h3>
+
+<p>—– <strong>437.1</strong> —–2022-05-16 17:51:15+08:00:</p>
+
+<p>More can of course be said, particularly regarding the march in Gedrosia, but I discuss what the sources say on Alexander’s closing of the Indian campaign <a href="https://www.reddit.com/r/AskHistorians/comments/qzlynj/what_scared_alexanders_soldiers_when_they_reached/hlr5foz/?context=999">here</a>. Put simply, half of our source tradition on Alexander runs the gamut from cynical to openly hostile, and if Alexander had somehow lost the Battle of the Hydaspes against Poros – or somehow Chandragupta, who was not even king of anything at the time – then we would expect at least <em>one</em> of the surviving accounts to have said it.</p>
+
+<h3 id="438-why-do-some-chinese-claim-korea-to-be-part-of-china-was-korea-ever-a-part-of-china-were-they-effectively-under-chinese-rule-when-they-were-a-vassal-state-of-china-submitted-on-2022-05-16-2103560800">438: <a href="https://old.reddit.com/r/AskHistorians/comments/uqvht2/why_do_some_chinese_claim_korea_to_be_part_of/">Why do some Chinese claim Korea to be part of China? Was Korea ever a part of China? Were they effectively under Chinese rule when they were a vassal state of China?</a>, submitted on 2022-05-16 21:03:56+08:00.</h3>
+
+<p>—– <strong>438.1</strong> —–2022-05-17 19:42:05+08:00:</p>
+
+<blockquote>
+  <p>Also through long periods of Korean history, Korea was a vassal state of China. This only ended with the farcical proclamation of Korea as an “empire” in 1897. Basically what happened is that Japan twisted Korea’s arm into declaring itself an empire as that declaration would make it (officially) the equal to China and thus cut off Korea’s traditional vassalage to China. This is all mostly a bad joke as it was just another step on the road towards Japanese annexation of Korea.</p>
+</blockquote>
+
+<p>I’d be interested to hear where you get this from, as my understanding, coming mainly from Kirk Larsen and Andre Schmid, is that Korea in 1897 was effectively a Russian protectorate following the Triple Intervention, and that its declaration of imperial status was A: voluntary and deliberate on the part of the King Gojong and B: an assertion of status against both Japan and the Qing, and not simply an anti-Qing move.</p>
+
+<p>—– <strong>438.2</strong> —–2022-05-18 23:40:29+08:00:</p>
+
+<p>With one answer here discussing modern nationalism and the middle imperial period, and another discussing the Yuan, it would be remiss if I did not address the Qing relationship with Korea to round things out a bit. The historiography on this is rather complex and tied up in a number of issues which I ought to get into first.</p>
+
+<p>The traditional view would be to portray Korea as one of many states in the Chinese ‘tributary system’, in which polities delivered a substantial though not exorbitant amount of goods to the Chinese emperor in exchange for recognition of their sovereignty. While Korea was exceptionally close to the Qing and delivered tribute especially frequently, this could be explained rationally by Korea’s proximity – both geographical and cultural – to the Chinese ‘centre’ relative to more distant ‘tributary’ polities in places like Southeast Asia. The ‘tributary system’ model has a number of serious problems – see Peter Perdue’s article ‘The Tenacious Tributary System’ (2015) for a particularly pointed critique – and it has been quietly replaced in academic historiography for many years, though it has unfortunately gained a new and undeserved lease on life thanks to the <a href="https://reddit.com/r/AskHistorians/comments/ivhiv3/what_is_the_historic_role_of_china_in_its_region/g5ue7hm/?context=999">extremely shoddy scholarship</a> of a number of international relations scholars beginning with David Kang in 2010.</p>
+
+<p>In the actual historical sphere however, there has emerged a particular train of thought on the foreign relations of the late Qing period building off the ‘New Qing’ turn of the late 1990s that itself followed in the wake of the ‘China-centric’ turn of the mid-1980s. I’ve written on the <a href="https://www.reddit.com/r/AskHistorians/comments/pa13hj/monday_methods_the_new_qing_turn_and_decentering/">New Qing turn</a> in the past, but for our purposes the most pertinent element of this shift has been a willingness to approach the Qing (and indeed by extension other China-ruling states) not as part of a totally unique civilisational paradigm, but rather as one of many Eurasian states. For the Early Modern period this has meant recognising commonalities in methods of state-building between the Qing and polities in Europe, the Middle East, and South Asia, but some historians have also brought this forward into the nineteenth century as well. In particular, questions have been raised of whether and how the Qing engaged in the ‘New Imperialism’ of the 19th century, when many of the last uncolonised polities of the Afro-Eurasian continent came under the domination of mostly European powers. Kirk Larsen has been the firmest advocate for the answer being ‘yes’, and his primary example is especially pertinent as it happens to be Qing relations with Korea beginning in the 1870s, which saw a considerable escalation in Qing involvement in Korea that he characterises as a real qualitative change in the underlying relationship.</p>
+
+<p>There has been somewhat of a response to this which I’ll term a ‘neo-Sinocentrist’ view represented primarily by Yuanchong Wang in his 2018 monograph <em>Remaking the Chinese Empire: Manchu-Korean Relations 1616-1911</em>, which is concerned primarily with political discourse and diplomatic rites but which covers the whole period of Qing-Korean relations. While umbrage can be taken with some of Wang’s assertions and conclusions (to be frank, there are strong currents of Chinese nationalism in the work influencing parts of the argument), at its core there is a very persuasive suggestion that the Qing-Korean relationship was one that involved a particular focus on symbolic legitimacy in which the two states were closely intertwined. I’ll discuss everything in more detail when I get to it, but there are nevertheless some problematic arguments: firstly that Korea should be seen as part of the ‘Chinese empire’ in this period (asserting, rather ironically, that claims to the contrary are influenced by nationalism), and secondly that the Qing did not engage in imperialism in Korea but instead an unsuccessful attempt to rework its existing relationship based on what he terms <em>zongfan</em> principles.</p>
+
+<p>Parallel with Wang’s work has been a somewhat more methodologically radical approach in the form of Seonmin Kim’s <em>Ginseng and Borderland</em> (2018), which approaches Qing-Korean relations through the lenses of both frontier and environmental history, considering how the two states’ relations were impacted by their desire for and control over natural resources – principally the medicinal root ginseng – along their mutual border in Northeast Asia. Kim’s work does not overtly challenge Wang’s, but there are some conflicting conclusions deriving from the approaches.</p>
+
+<p>All three specifically mentioned approaches above – Larsen’s, Wang’s, and Kim’s – offer useful lenses through which to view Qing relations with Korea, though as noted I believe Wang’s ought to be approached with some caution. For me, each is particularly useful at a different chronological point – Wang for the early establishment of Qing-Korean relations in the sixteenth century, Kim for developments in the eighteenth and early-mid nineteenth, and Larsen for the late nineteenth and early twentieth centuries leading up to the annexation of Korea by Japan in 1910 and the fall of the Qing Empire in 1912 (a period I discuss at certain length <a href="https://www.reddit.com/r/AskHistorians/comments/l8q6jd/korea_changed_their_official_name_to_taehan/glgr874/">here</a>).</p>
+
+<p>For Wang, Korea was part of the ‘Chinese empire’ under the Qing in the sense that it fell within its ‘politico-cultural’ sphere, while not forming part of its territorial space. The Manchu subjugation of Korea in 1637 – which predated the conquest of China proper that began in 1644 – was significant not purely from the perspective of hard power in depriving the Ming empire of a key ally, but also in a symbolic sense as it established a notion of the Qing as a ‘central’ and Korea as a ‘peripheral’ or ‘foreign’ power, in which the latter’s submission to the former legitimised the former’s claims to political status. Korea, for its part, increasingly derived its own legitimation through recognition by the Qing as relations became increasingly normalised, at least at the formal, polite level. That said, Qing and Korean perceptions of this relationship differed somewhat: the Qing saw Korea within its broader imperial dominion but did not meaningfully exercise rule over it, with neither troops nor officials stationed in the kingdom, nor any sort of tax mechanism. Korea saw its self-governing status as indicating outright independence, with its being of lesser status but not outright subordinated to the Qing emperor’s authority.</p>
+
+<p>Kim’s frontier approach complicates Wang’s argument, which is concerned almost entirely with discursive relationships negotiated at the states’ respective capitals, in that it emphasises the importance of territoriality. The Qing first began fixing their border with Joseon Korea in the 1710s, when it was formally agreed that the boundary between the two states would be fixed at the Yalu and Tumen rivers, albeit with a certain ambiguity over parts of the north bank of the Tumen. The Qing increasingly enforced harder border controls over the region, especially to limit Han Chinese migration outside of the Liaodong region but also, as time wore on, to constrain movement of Korean ginseng harvesters across the border (and indeed of those under Qing rule as well). When the ginseng industry collapsed in the 1840s-50s due to overharvesting, the Qing began actively sponsoring agricultural colonisation by migrants from China proper and introduced a singular consistent set of border controls, firmly demarcating the two territories. This sort of on-the-ground relationship throws a bit of a spanner into the notion that Korea was essentially part of the Qing empire. Discursively, the Korean kingdom may have fallen into the Qing empire’s self-assessed sphere of authority, but when it came down to it, subjects of the Korean king were <em>not</em> subjects of the Qing emperor, whose own subjects did not have any particular privileges carried over into Korea either.</p>
+
+<p>Larsen effectively brings this forward by showing that Qing suzerainty over Korea ought to be seen as something that was not a fixed relationship. While a set of traditions were maintained for over two centuries from the mid-17th century down to the mid-19th, the Qing empire quite deliberately engaged in an attempt at expanding its power over Korea beginning in the 1870s, when it encouraged what Larsen terms ‘multilateral imperialism’ to limit Japanese influence by essentially inviting other imperial powers to sign commercial treaties with Korea, but while retaining a certain superiority for its own merchants and officials. This would escalate in 1885 with the appointment of Yuan Shikai as a Qing imperial commissioner in Seoul, an unprecedented assertion of Qing power within Korea itself as opposed to a more abstract state of hierarchy. Yuan’s appointment, which concluded on the eve of the First Sino-Japanese War in July 1894, marked the high water-mark of Qing power in Korea, but also a short-lived one.</p>
+
+<p>So, was Korea ‘part of China’ during the Qing? Frankly, only in the most tendentiously-defined of senses. While it was in some regard dominated by the Qing Empire within a geopolitical context, for all practical intents and purposes the Qing Empire and Joseon kingdom were separate states with separate administrations and separate subjects. The Qing did, eventually, escalate their level of influence over Korea, but even at the height of this during the appointment of Yuan Shikai, Korea functioned, at most, as a protectorate of the Qing, and were never at serious threat of formal annexation into the empire.</p>
+
+<h3 id="439-botting-business-bureau---weekly-discussion-thread-may-16th-2022-submitted-on-2022-05-16-2352250800">439: <a href="https://old.reddit.com/r/VirtualYoutubers/comments/uqz2d3/botting_business_bureau_weekly_discussion_thread/">Botting Business Bureau - Weekly Discussion Thread, May 16th, 2022</a>, submitted on 2022-05-16 23:52:25+08:00.</h3>
+
+<p>—– <strong>439.1</strong> —–2022-05-20 10:17:20+08:00:</p>
+
+<p>I can only assume Calli is the constant exception because J-Chad seems to have stuck with her from the start, although that doesn’t discount the possibility of J-Chad being a pseudonym for multiple people I suppose.</p>
+
+<p>—– <strong>439.2</strong> —–2022-05-20 10:23:47+08:00:</p>
+
+<p>It’d make sense; for music-heavy members and especially for Calli given her rate of output, it seems like there’s just a lot of projects overlapping and starting and stopping at different times, and having a manager rotate out would be pretty disruptive to that rhythm. Even if you leave after a project wraps there is almost certainly another one already partway through the process you’d be dropping out of.</p>
+
+<p>—– <strong>439.3</strong> —–2022-05-20 14:45:02+08:00:</p>
+
+<p>Or UMG as the case may be.</p>
+
+<p>—– <strong>439.4</strong> —–2022-05-21 02:39:06+08:00:</p>
+
+<blockquote>
+  <p>On one hand, (edited for technical accuracy) Hololive as an agency and Cover as a company is (still) technically not music-focused as such</p>
+</blockquote>
+
+<p>You say that, but according to r/hololive:</p>
+
+<blockquote>
+  <p>We specialize in songs and music, but more often than not, will just stream games or chat with our fans!</p>
+</blockquote>
+
+<p>Hololive’s definitely always been more variety entertainment than pure streaming, and it seems like what’s happened with the pivot to music is more it becoming more of a practicable reality as opposed to an underlying shift in how the agency conceives of itself and its content.</p>
+
+<p>—– <strong>439.5</strong> —–2022-05-22 15:56:03+08:00:</p>
+
+<p>There definitely seems to be a trend of some talents pivoting significantly harder to music now that it seems to have really become viable to essentially mainly do music with streaming on the side, so that’s definitely opening some gaps on the streaming side of things that Cover will probably be looking to fill.</p>
+
+<h3 id="440-was-indirect-trade-between-the-vikings-and-china-or-the-far-east-in-general-exhaustive--submitted-on-2022-05-19-0800560800">440: <a href="https://old.reddit.com/r/AskHistorians/comments/usqeds/was_indirect_trade_between_the_vikings_and_china/">Was indirect trade between the Vikings and China (or the Far East in general) exhaustive ?</a>, submitted on 2022-05-19 08:00:56+08:00.</h3>
+
+<p>—– <strong>440.1</strong> —–2022-05-20 13:01:20+08:00:</p>
+
+<p>If /u/textandtrowel will permit me to add my own two cents (or would it be dirhams in this instance), much the same argument regarding Eurasian trade in the last paragraph of the above answer can be made for the Early Modern period as well. Scott C. Levi’s <a href="https://upittpress.org/books/9780822945970/"><em>The Bukharan Crisis</em></a> is an excellent work that, among other things, really dissects the notion of ‘Silk Road’ trade. While its focus is the Early Modern period rather than the early Medieval, its relevance derives from the fact that colloquially, the Silk Road is conceived of as something that always existed in some capacity, without really digging into, well, whether it did at all.</p>
+
+<h3 id="441-the-wikipedia-page-for-the-tuoba-northern-wei-empire-places-a-lot-of-emphasis-on-the-sinicization-of-the-empire-over-time-is-this-characterization-of-northern-wei-correct-submitted-on-2022-05-19-1031270800">441: <a href="https://old.reddit.com/r/AskHistorians/comments/ust7t6/the_wikipedia_page_for_the_tuoba_northern_wei/">The Wikipedia page for the Tuoba Northern Wei empire places a lot of emphasis on the “Sinicization” of the empire over time. Is this characterization of Northern Wei correct?</a>, submitted on 2022-05-19 10:31:27+08:00.</h3>
+
+<p>—– <strong>441.1</strong> —–2022-05-19 14:01:57+08:00:</p>
+
+<p>More may of course be said, but I asked a very similar question a while back with a great answer by /u/rememberthatyoudie that covers a lot of ground on this issue:</p>
+
+<p>https://www.reddit.com/r/AskHistorians/comments/qs56rv/the_idea_of_the_sinicisation_becoming_chinese_of/</p>
+
+<h3 id="442-why-does-japan-have-this-type-of-emoji-flag-submitted-on-2022-05-19-2129540800">442: <a href="https://old.reddit.com/r/vexillology/comments/ut3gw4/why_does_japan_have_this_type_of_emoji_flag/">Why does Japan have this type of emoji flag?</a>, submitted on 2022-05-19 21:29:54+08:00.</h3>
+
+<p>—– <strong>442.1</strong> —–2022-05-20 10:08:33+08:00:</p>
+
+<p>While this is a common narrative, there was no Japanese surrender offer pre-Hiroshima: there were some noncommital feelers by <em>some</em> members of the Japanese government towards Soviet mediation, but nothing concrete or consequential. See:</p>
+
+<p>http://blog.nuclearsecrecy.com/2022/05/02/did-the-japanese-offer-to-surrender-before-hiroshima-part-1/</p>
+
+<p>http://blog.nuclearsecrecy.com/2022/05/06/did-the-japanese-offer-to-surrender-before-hiroshima-part-2/</p>
+
+<p>—– <strong>442.2</strong> —–2022-05-20 14:34:05+08:00:</p>
+
+<p>Was Hiroshima not the first city a nuclear bomb got dropped on?</p>
+
+<p>—– <strong>442.3</strong> —–2022-05-20 14:56:09+08:00:</p>
+
+<p>Well, I would direct you back to my comment, the linked posts, and their sources – there was no indication that Japan was offering to surrender before the dropping of the atomic bombs.</p>
+
+<p>—– <strong>442.4</strong> —–2022-05-20 15:11:21+08:00:</p>
+
+<p>Cool. Go on making unsupported assertions, but I’ll stick with the historians on this one.</p>
+
+<h3 id="443-is-fubuki-the-only-holomember-that-is-part-of-two-generations-submitted-on-2022-05-20-0508190800">443: <a href="https://old.reddit.com/r/Hololive/comments/utd47e/is_fubuki_the_only_holomember_that_is_part_of_two/">Is Fubuki the only Holomember that is part of two generations?</a>, submitted on 2022-05-20 05:08:19+08:00.</h3>
+
+<p>—– <strong>443.1</strong> —–2022-05-20 10:59:05+08:00:</p>
+
+<blockquote>
+  <p>Even in Gen 2 you can see the members debuted over the course of 6 weeks or so, compared to nowadays where we have members of a gen debuting on consecutive days or even all within 24 hours.</p>
+</blockquote>
+
+<p>It’s an interesting ‘yes and no’ situation, because Gen 1 debuted over the course of 3 days. (Technically. Mel was originally a solo debutant and would theoretically count as Gen 0, but she got retroactively shuffled into Gen 1 some time after Chris graduated.) Gen 2 definitely had a rather staggered debut, but Gen 3 was split a little more evenly between Pekora/Rushia in July (who were the two who were scouted) and Flare/Noel/Marine in August (who were the three who auditioned normally).</p>
+
+<p>The other thing to add is that both Korone and Okayu were scouted rather than auditioning. Okayu <a href="https://www.youtube.com/watch?v=J0URBkyBb_M">just had a chat with Yagoo</a> and Korone <a href="https://www.youtube.com/watch?v=07WAuntNHTo">didn’t audition either</a>, and it’s essentially confirmed that they were simply recommended by Fubuki and Mio. I don’t know if Mio’s process was similar though as I can’t find anything discussing it.</p>
+
+<p>—– <strong>443.2</strong> —–2022-05-20 11:02:52+08:00:</p>
+
+<blockquote>
+  <p>AZKi debuted in Nov 2018 (months after Gen 2). She was her own VSinger project similar to IRyS, under the INNK Music label which was jointly owned by Hololive and Upd8 (Kizuna Ai’s company).</p>
+</blockquote>
+
+<p>I’ve said this on another thread but I can find no evidence that either upd8 (Kizuna AI’s agency brand) nor Activ8 (the company running upd8) had a direct hand in INNK. To sum up why I don’t believe that to have been the case:</p>
+
+<ol>
+  <li>
+    <p>AZKi debuted under Cover a few weeks before also being affiliated with Upd8, and it would be several more weeks before officially starting with INNK.</p>
+  </li>
+  <li>
+    <p>Suisei was never affiliated with Upd8 during her time with INNK.</p>
+  </li>
+  <li>
+    <p>While Upd8 dissolved, its parent company, Activ8, still exists, and it wouldn’t make sense for Upd8, the sub-company within Activ8, to have had a stake in INNK that wouldn’t be transferred to Activ8 if it was wound up.</p>
+  </li>
+</ol>
+
+<p>—– <strong>443.3</strong> —–2022-05-20 11:08:19+08:00:</p>
+
+<p>I wouldn’t sell IRyS short here; I did a quick tally of EN’s song numbers a month ago, and she’d done 17 songs (covers+originals, solos+collabs) in 291 days, for an average of 1 song every 17 days. The only person in EN with a comparable music output is Calli, who averaged 1 song every 13 days; just about everyone else in EN averaged one song (including collabs) every 2-3 months. It’s been a month since then and there’s since been a new song out from all of Calli, IRyS, Fauna, and Ina (at least), so the numbers may need some tweaking, but in terms of broad trends, IRyS is <em>much</em> more musically prolific than most of EN, and that’s despite a major health break due to vocal issues.</p>
+
+<p>—– <strong>443.4</strong> —–2022-05-20 13:02:35+08:00:</p>
+
+<p>Yes, AZKi was definitely an upd8 affiliate, although it’s not clear what specific relationship was involved in that, i.e. if upd8 took on some level of management responsibility or if it was solely a marketing/promotion deal.</p>
+
+<p>EDIT: To clear up some possible misunderstanding, the original sentence, as worded, implied INNK was jointly owned by Hololive and upd8 rather than AZKi specifically being jointly managed or even simply represented via upd8. The former seems to be incorrect as I have yet to find evidence for it, but the latter was absolutely the case.</p>
+
+<h3 id="444-nijisanji-off-collab-submitted-on-2022-05-20-2120340800">444: <a href="https://old.reddit.com/r/VirtualYoutubers/comments/utvomf/nijisanji_off_collab/">Nijisanji off collab</a>, submitted on 2022-05-20 21:20:34+08:00.</h3>
+
+<p>—– <strong>444.1</strong> —–2022-05-21 02:45:38+08:00:</p>
+
+<blockquote>
+  <p>I can’t differentiate if the language used in Chat is Chinese or Taiwanese</p>
+</blockquote>
+
+<p>It’s not a hard and fast rule, but the main difference would be Simplified vs Traditional Chinese, because otherwise written Chinese is pretty consistent across the board (unless people are writing the spoken languages out, which isn’t <em>un</em>common mind you). Plus you’d end up with a bunch of false positives either way – Singaporeans also use Simplified Chinese while Hong Kongers use Traditional.</p>
+
+<h3 id="445-videogames-a-devoted-playerbase-was-tricked-into-buying-an-unfinished-aaa-videogame-total-war-warhammer-iii---which-was-also-the-most-hyped-of-the-franchise-so-far-the-community-was-split-between-being-mad-or-happy-about-it-submitted-on-2022-05-20-2209290800">445: <a href="https://old.reddit.com/r/HobbyDrama/comments/utx3mp/videogames_a_devoted_playerbase_was_tricked_into/">[Videogames] A devoted playerbase was tricked into buying an unfinished AAA videogame, “Total War: WARHAMMER III” - which was also the most hyped of the franchise so far. The community was split between being mad or happy about it.</a>, submitted on 2022-05-20 22:09:29+08:00.</h3>
+
+<p>—– <strong>445.1</strong> —–2022-05-21 02:01:22+08:00:</p>
+
+<p>I lost a lot of faith in CA when they took 3K round the back with a shotgun mere months after promising substantial content ahead. What makes it worse is that they didn’t even use the freed up resources to make a game that satisfied the expectations of the people who wanted it. So I’m not satisfied and they’re not either.</p>
+
+<h3 id="446-recommendations-for-documentaries-i-should-watch-submitted-on-2022-05-21-1008130800">446: <a href="https://old.reddit.com/r/AskHistorians/comments/uudbzp/recommendations_for_documentaries_i_should_watch/">Recommendations for documentaries I should watch??</a>, submitted on 2022-05-21 10:08:13+08:00.</h3>
+
+<p>—– <strong>446.1</strong> —–2022-05-21 12:05:41+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="447-are-there-any-political-maps-of-lands-near-atlantic-around-the-time-of-1692-submitted-on-2022-05-21-1045160800">447: <a href="https://old.reddit.com/r/AskHistorians/comments/uudxqu/are_there_any_political_maps_of_lands_near/">Are there any political maps of lands near Atlantic around the time of 1692?</a>, submitted on 2022-05-21 10:45:16+08:00.</h3>
+
+<p>—– <strong>447.1</strong> —–2022-05-21 12:04:18+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="448-which-historical-character-would-be-the-most-upset-to-not-have-a-hollywood-film-made-about-them-and-why-submitted-on-2022-05-21-1111410800">448: <a href="https://old.reddit.com/r/AskHistorians/comments/uuedm9/which_historical_character_would_be_the_most/">Which historical character would be the most upset to not have a Hollywood film made about them and why?</a>, submitted on 2022-05-21 11:11:41+08:00.</h3>
+
+<p>—– <strong>448.1</strong> —–2022-05-21 11:54:34+08:00:</p>
+
+<p>Sorry, but your submission has been removed because we <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F">don’t allow hypothetical questions</a>. If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule <a href="https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/">here</a>.</p>
+
+<h3 id="449-congratulations-to-yukihana-lamy-on-1000000-subscribers-submitted-on-2022-05-21-1337490800">449: <a href="https://old.reddit.com/r/Hololive/comments/uugmqj/congratulations_to_yukihana_lamy_on_1000000/">Congratulations to Yukihana Lamy on 1,000,000 Subscribers</a>, submitted on 2022-05-21 13:37:49+08:00.</h3>
+
+<p>—– <strong>449.1</strong> —–2022-05-22 03:22:53+08:00:</p>
+
+<p>I’m pretty sure that was a far smaller break than the one she had due to health issues back in November. She’s been living with mental health issues for a good while now but she does seem to be reasonably on top of it, and mainly does what she’s comfortable with, as much as she’s comfortable with.</p>
+
+<h3 id="450-where-to-start-on-chinese-history-submitted-on-2022-05-22-0811410800">450: <a href="https://old.reddit.com/r/AskHistorians/comments/uuzemy/where_to_start_on_chinese_history/">where to start on Chinese history?</a>, submitted on 2022-05-22 08:11:41+08:00.</h3>
+
+<p>—– <strong>450.1</strong> —–2022-05-22 13:10:16+08:00:</p>
+
+<p>I’d also throw in <a href="https://askhistorians.libsyn.com/-askhistorians-podcast-130-the-taiping-rebellion">Episode 130</a> on the Taiping Heavenly Kingdom and <a href="https://askhistorians.libsyn.com/askhistorians-minisode-uprisings-in-19th-century-china-with-enclavedmicrostate">this Minisode</a> on smaller uprisings contemporary with it.</p>
+
+<h3 id="451-what-should-teenagers-know-about-ww2-advise-a-teacher-submitted-on-2022-05-22-1153420800">451: <a href="https://old.reddit.com/r/AskHistorians/comments/uv2z56/what_should_teenagers_know_about_ww2_advise_a/">What Should Teenagers Know About WW2? Advise A Teacher!</a>, submitted on 2022-05-22 11:53:42+08:00.</h3>
+
+<p>—– <strong>451.1</strong> —–2022-05-22 13:21:03+08:00:</p>
+
+<p>Hello everyone,</p>
+
+<p>A friendly reminder that the rules still apply here: as usual, we will <a href="https://www.reddit.com/r/AskHistorians/comments/h8aefx/rules_roundtable_xviii_removed_curation_and_why/">remove comments which don’t follow them for reasons including unfounded speculation, shallowness, and of course, inaccuracy</a>.</p>
+
+<p>If you want to be reminded to come check back later, or simply find other great content to read while you wait, <a href="https://www.reddit.com/r/AskHistorians/comments/i6b42q/rules_roundtable_xxvi_be_kind_remind_revisited/">this thread</a> provides a guide to a number of ways to do so, including the RemindMeBot- <a href="https://www.reddit.com/message/compose/?to=RemindMeBot&amp;subject=Reminder&amp;message=%5Bhttp%3A%2F%2Fhttps://www.reddit.com/r/AskHistorians/comments/uv2z56/what_should_teenagers_know_about_ww2_advise_a/%2F%5D%0A%0ARemindMe!++2+days"><strong>Click Here to Subscribe</strong></a> - or
+our <a href="http://twitter.com/askhistorians">Twitter</a>.</p>
+
+<h3 id="452-where-when-and-who-invented-the-hot-pot-submitted-on-2022-05-22-1309030800">452: <a href="https://old.reddit.com/r/AskHistorians/comments/uv42hy/where_when_and_who_invented_the_hot_pot/">Where, when and who invented the hot pot?</a>, submitted on 2022-05-22 13:09:03+08:00.</h3>
+
+<p>—– <strong>452.1</strong> —–2022-05-22 13:19:23+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="453-did-vikings-eat-these-vegetables-submitted-on-2022-05-22-1431230800">453: <a href="https://old.reddit.com/r/AskHistorians/comments/uv575z/did_vikings_eat_these_vegetables/">Did Vikings eat these vegetables?</a>, submitted on 2022-05-22 14:31:23+08:00.</h3>
+
+<p>—– <strong>453.1</strong> —–2022-05-22 15:44:46+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="454-holoen-collabs-with-other-vtubers-submitted-on-2022-05-22-1845230800">454: <a href="https://old.reddit.com/r/Hololive/comments/uv8gq9/holoen_collabs_with_other_vtubers/">HoloEn collabs with other Vtubers</a>, submitted on 2022-05-22 18:45:23+08:00.</h3>
+
+<p>—– <strong>454.1</strong> —–2022-05-22 20:03:15+08:00:</p>
+
+<p>Very few of the HoloEN members in North America have confirmed which country they’re based in, except for Kronii who has recently bravely come out as Canadian. In general it’s been presumed that Ina is also in Canada and that Fauna, Ame, Mumei, and Gura are in the US, though I couldn’t tell you how most of those conclusions were reached except for Calli having mentioned trying but failing to arrange a meetup with Gura during an earlier trip to the US.</p>
+
+<p>EDIT: As regards Fauna being Canadian, there’s no confirmation on this count at all besides her being the first to correctly clock the first line of the Canadian national anthem during Gura’s Mad Gab segment on New Year’s Day, but she then got the next line wrong which seems to imply that she <em>isn’t</em>. But until she says one way or the other we have no hard info.</p>
+
+<h3 id="455-hobby-scuffles-week-of-may-23-2022-submitted-on-2022-05-22-2300140800">455: <a href="https://old.reddit.com/r/HobbyDrama/comments/uvcp8t/hobby_scuffles_week_of_may_23_2022/">[Hobby Scuffles] Week of May 23, 2022</a>, submitted on 2022-05-22 23:00:14+08:00.</h3>
+
+<p>—– <strong>455.1</strong> —–2022-05-24 00:54:54+08:00:</p>
+
+<p>To be kind of fair, TikTok is legitimately essentially spyware, and while yes basically <em>all</em> social networks are spyware masquerading as social spaces, at least the majority of those are potentially beholden to laws in countries with theoretically robust democracies and legal systems and the data isn’t being stored in the world’s largest dictatorship. <em>However</em>. This is an overreaction given that HoloEN is stepping into this as a corporate entity and not as private individuals (EDIT: and thus probably has somewhat better infosec procedures).</p>
+
+<p>Actually, if you look at it a certain way, if its established audience isn’t moving over to TikTok, that’s a good thing, as at worst it just sort of pulls an audience <em>from</em> the TikTok sphere.</p>
+
+<p>—– <strong>455.2</strong> —–2022-05-24 03:45:44+08:00:</p>
+
+<p>Belle the Tinkerer, a character dressed in green, is a ripoff of Boingkid and <em>not</em> a tribute to, er, Tinker Bell? Well then, good luck making that case in court.</p>
+
+<p>—– <strong>455.3</strong> —–2022-05-24 03:51:45+08:00:</p>
+
+<p>Does this have any relation to the artist Dishwasher1910 apparently quitting? They’re someone who came up on my radar before as someone in the RWBY fandom (they were very well known for their RWBY fanart, especially an AU concept called RWBY 3.0), and popped up again more recently after mentioning a couple times how they’d like to be a character artist for Hololive. There’s a thread (now locked) claiming they were quitting Azur Lane specifically but the tweet itself implied broader issues and I was wondering if anything new had come out.</p>
+
+<p>—– <strong>455.4</strong> —–2022-05-24 12:17:17+08:00:</p>
+
+<p>One thing that’s possibly worth asking is who had the bigger army here, because as you note, unlike chess where you move a piece at a time with tabletop wargames of a UGOIGO format you tend to move all your stuff at a time. More broadly, with this incident now in mind does it potentially make sense for tournaments to adjust each player’s time relative to the size of the force they have?</p>
+
+<p>—– <strong>455.5</strong> —–2022-05-24 13:03:55+08:00:</p>
+
+<p>I won’t lie, there is a substantial amount of the seriousness to tournament play here that is bizarre to me as someone who is an almost exclusively historical wargamer (and even then my one major step outside that is Aeronef which is alt-history Victorian science fiction). But, looking at it impartially, there’s nothing that really distinguishes people getting worked up over tournaments from my own getting worked up about the damn colour of those trousers being wrong for that specific month dammit! But it does feel very much like different worlds that happen to be adjacent.</p>
+
+<p>—– <strong>455.6</strong> —–2022-05-24 18:24:52+08:00:</p>
+
+<p>Well, Hololive, being a Japanese company, is not based in a Five Eyes nation, though a number of its overseas talents are.</p>
+
+<p>—– <strong>455.7</strong> —–2022-05-25 18:33:36+08:00:</p>
+
+<p>I was looking from the sidelines and it definitely seems to have been interesting! That said, as someone who likes doing a lot of industry meta discussion and speculation, it does make me wonder what exactly Nijisanji’s debut pipeline is like at the moment.</p>
+
+<p>For those not in the know, Nijisanji slowed down the expansion of its Japanese branch a <em>lot</em> in 2021, and ostensibly pivoted from an open audition system towards a two-stage process via Virtual Talent Academy, which is essentially a sort of VTuber internship program that is not technically part of Nijisanji as an agency, but is still run by Nijisanji’s parent company ANYCOLOR. So for instance the three most recent Nijisanji debuts – besides Salome – have been of VTA ‘graduates’. So Salome’s sudden appearance suggests she was probably scouted out by Nijisanji, or possibly a very delayed debut from an earlier round of auditions.</p>
+
+<p>—– <strong>455.8</strong> —–2022-05-25 18:36:51+08:00:</p>
+
+<blockquote>
+  <p>earlier this year</p>
+</blockquote>
+
+<p>October 2021.</p>
+
+<p>—– <strong>455.9</strong> —–2022-05-26 22:17:06+08:00:</p>
+
+<p>Excuse me the far more important day is Towel Day.</p>
+
+<p>—– <strong>455.10</strong> —–2022-05-26 22:21:27+08:00:</p>
+
+<p>It’s from the Book of Daniel: supposedly, King Nebuchadnezzar has a dream in which he sees a statue with a gold head, silver chest, bronze torso, iron legs, and clay feet, and the statue collapses after a stone is cast at the feet; the shattered statue eventually falls away but the stone grows into a mountain. The bit that’s remembered is the idea of the ostensibly mighty structure on weak foundations, although Daniel’s interpretation of the dream is actually somewhat different – the differing materials represent a succession of increasingly unimpressive kingdoms beginning with Nebuchadnezzar’s, all of which are to be swept away in the end by the Kingdom of God.</p>
+
+<p>—– <strong>455.11</strong> —–2022-05-28 05:16:25+08:00:</p>
+
+<p>Ugh what a weirdo that person must have been.</p>
+
+<p>I’ve said this before but it’s kind of interesting how the narrative around not revealing IRL selves or other past identities has changed in the EN VTuber space. The actual origins of it lay in Activ8’s corporate-centric approach to the concept and essentially served as a means to retain maximum PR, creative, and above all financial control over Kizuna AI, which is about as far from protecting the talent as you can get. Other, less overtly cynical agencies have retained the concept of course, most notably Hololive, and given how relatively forgiving most of them have been over unintentional slips it definitely isn’t the outright hard barrier it might have been in Activ8’s eyes. With the EN scene, the entire scene began with independents, the anonymity aspect is considerably stronger.</p>
+
+<p>It’d be interesting to see if and how things may change. Apricot/Froot doing a face reveal on Twitter a while back got some attention, though it’s an open question as to how much that necessarily affects things given, as noted before, that a good number of indies had simply switched over from real-face content anyway.</p>
+
+<p>—– <strong>455.12</strong> —–2022-05-28 12:17:38+08:00:</p>
+
+<blockquote>
+  <p>I don’t know how it is in Japan, but i feel alot of the EN speaking Independent Vtuber community seems to weirdly stick to rules, terms and culture of the JP side that originates from corporate Vtuber culture (specifically Hololive wnd Nijisanji) despite the fact that most EN vtubers are Indies that can decide on their own rules.</p>
+</blockquote>
+
+<p>I’ve come up with a couple of possible – and not mutually exclusive – reasons this may be the case.</p>
+
+<ul>
+  <li>
+    <p>The historic size of the JP VTuber scene compared to EN: when things were starting out, the much smaller set of English-language VTuber watchers probably intersected much more heavily with the much larger set of viewers of JP VTubers than today, and so a lot more of the expectations from the latter were absorbed into the former.</p>
+  </li>
+  <li>
+    <p>Emulation on the part of the talents: early EN VTubers drew to a greater or lesser extent on the JP scene anyway, and while they set their own rules they were still nevertheless looking to emulate their JP forebears to some extent.</p>
+  </li>
+  <li>
+    <p>HoloMyth setting expectations: HoloMyth brought in a major influx of new VTuber viewers and set not only their expectations, but also those of a lot of subsequent viewers, as well as those who may have migrated away from Holo since. I think you see this in the backlash to Niji’s recent favouritism for Luxiem – it’s ultimately applying expectations created by Hololive (relatively equal or at least fair treatment for its talents) to a different group they had migrated to because it <em>wasn’t</em> Holo.</p>
+  </li>
+</ul>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-05-27</time>
+        <a href="https://nodebe4.github.io/opinion/2022-05-27/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-05-23~2022-05-29的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-05-22</time>
+        <a href="https://nodebe4.github.io/opinion/2022-05-22/Spinkcat/">
+          Spinkcat在2022-05-16~2022-05-22的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-05-20</time>
+        <a href="https://nodebe4.github.io/opinion/2022-05-20/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-05-16~2022-05-22的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-05-18</time>
+        <a href="https://nodebe4.github.io/opinion/2022-05-18/theoryofdoom/">
+          theoryofdoom在2022-05-16~2022-05-22的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-05-21/%E5%85%B3%E4%BA%8E%E4%BF%84%E4%B9%8C%E6%88%98%E4%BA%89-%E8%87%B4%E8%AF%BA%E5%A7%86-%E4%B9%94%E5%A7%86%E6%96%AF%E5%9F%BA-%E5%92%8C%E5%85%B6%E4%BB%96%E6%8C%81%E7%B1%BB%E4%BC%BC%E8%A7%82%E7%82%B9%E7%9A%84%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90-%E7%9A%84%E5%85%AC%E5%BC%80%E4%BF%A1/">
+            前一篇：关于俄乌战争，致诺姆·乔姆斯基（和其他持类似观点的知识分子）的公开信
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-05-22/HeQinglian/">
+            後一篇：Twitter @He Qinglian: 2022-05-16~2022-05-22
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-05-21/%E5%85%B3%E4%BA%8E%E4%BF%84%E4%B9%8C%E6%88%98%E4%BA%89-%E8%87%B4%E8%AF%BA%E5%A7%86-%E4%B9%94%E5%A7%86%E6%96%AF%E5%9F%BA-%E5%92%8C%E5%85%B6%E4%BB%96%E6%8C%81%E7%B1%BB%E4%BC%BC%E8%A7%82%E7%82%B9%E7%9A%84%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90-%E7%9A%84%E5%85%AC%E5%BC%80%E4%BF%A1/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-05-22/HeQinglian/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-05-22/Spinkcat/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-05-20/ForeignAffairsMag/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-05-21/%E5%85%B3%E4%BA%8E%E4%BF%84%E4%B9%8C%E6%88%98%E4%BA%89-%E8%87%B4%E8%AF%BA%E5%A7%86-%E4%B9%94%E5%A7%86%E6%96%AF%E5%9F%BA-%E5%92%8C%E5%85%B6%E4%BB%96%E6%8C%81%E7%B1%BB%E4%BC%BC%E8%A7%82%E7%82%B9%E7%9A%84%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90-%E7%9A%84%E5%85%AC%E5%BC%80%E4%BF%A1/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-05-22/HeQinglian/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-05-22/Spinkcat/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-05-20/ForeignAffairsMag/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

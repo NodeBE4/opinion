@@ -1,0 +1,2363 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Spinkcat在2020-10-19~2020-10-25的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Spinkcat在2020-10-19~2020-10-25的言论" />
+    <meta property="twitter:title" content="Spinkcat在2020-10-19~2020-10-25的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FChina_irl%2Fcomments%2Fjdqw5c%2F%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B2%9B%E6%99%AE%E7%AD%9B%E5%8D%83%E4%B8%87%E4%BA%BA%E9%83%BD%E9%98%B4%E6%80%A7_%E9%99%88%E6%97%B6%E4%B8%AD%E8%AE%BD%E7%9C%9F%E6%98%AF%E4%BC%9F%E5%A4%A7%E4%BD%86%E6%80%8E%E4%B9%88%E5%8F%AF%E8%83%BD%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/China_irl/comments/jdqw5c/中国青岛普筛千万人都阴性_陈时中讽真是伟大但怎么可能/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/China_irl/comments/jdqw5c/中国青岛普筛千万人都阴性_陈时中讽真是伟大但怎么可能/&text=Spinkcat在2020-10-19~2020-10-25的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/China_irl/comments/jdqw5c/中国青岛普筛千万人都阴性_陈时中讽真是伟大但怎么可能/&title=Spinkcat在2020-10-19~2020-10-25的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/China_irl/comments/jdqw5c/中国青岛普筛千万人都阴性_陈时中讽真是伟大但怎么可能/&title=Spinkcat在2020-10-19~2020-10-25的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Spinkcat在2020-10-19~2020-10-25的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/China_irl/comments/jdqw5c/中国青岛普筛千万人都阴性_陈时中讽真是伟大但怎么可能/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/China_irl/comments/jdqw5c/中国青岛普筛千万人都阴性_陈时中讽真是伟大但怎么可能/&title=Spinkcat在2020-10-19~2020-10-25的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Spinkcat在2020-10-19~2020-10-25的言论&url=https://old.reddit.com/r/China_irl/comments/jdqw5c/中国青岛普筛千万人都阴性_陈时中讽真是伟大但怎么可能/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Spinkcat在2020-10-19~2020-10-25的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2020-10-24
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://www.reddit.com/user/Spinkcat/" style="font-size:14px;">作者: Spinkcat</a>
+        </span>
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/China_irl/comments/jdqw5c/中国青岛普筛千万人都阴性_陈时中讽真是伟大但怎么可能/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#1125-中国青岛普筛千万人都阴性-陈时中讽真是伟大但怎么可能-submitted-on-2020-10-19-0736530800" id="markdown-toc-1125-中国青岛普筛千万人都阴性-陈时中讽真是伟大但怎么可能-submitted-on-2020-10-19-0736530800">1125: 中国青岛普筛千万人都阴性 陈时中讽：真是伟大，但怎么可能？, submitted on 2020-10-19 07:36:53+08:00.</a></li>
+  <li><a href="#1126-中国3季度gdp增长49-submitted-on-2020-10-19-1005460800" id="markdown-toc-1126-中国3季度gdp增长49-submitted-on-2020-10-19-1005460800">1126: 中国3季度GDP增长4.9%, submitted on 2020-10-19 10:05:46+08:00.</a></li>
+  <li><a href="#1127-台湾生猪批发价-submitted-on-2020-10-19-1741530800" id="markdown-toc-1127-台湾生猪批发价-submitted-on-2020-10-19-1741530800">1127: 台湾生猪批发价, submitted on 2020-10-19 17:41:53+08:00.</a></li>
+  <li><a href="#1128-林郑月娥不再出席立法会每月质询-原因披露-submitted-on-2020-10-20-1052010800" id="markdown-toc-1128-林郑月娥不再出席立法会每月质询-原因披露-submitted-on-2020-10-20-1052010800">1128: 林郑月娥不再出席立法会每月质询 原因披露, submitted on 2020-10-20 10:52:01+08:00.</a></li>
+  <li><a href="#1129-广东高院判决华为奋斗者协议合法有效曾梦败诉-submitted-on-2020-10-20-2329560800" id="markdown-toc-1129-广东高院判决华为奋斗者协议合法有效曾梦败诉-submitted-on-2020-10-20-2329560800">1129: 广东高院判决：华为《奋斗者协议》合法有效，曾梦败诉, submitted on 2020-10-20 23:29:56+08:00.</a></li>
+  <li><a href="#1130-如果中共军队进攻台湾他们会选择同时进攻金门岛和台湾主岛还是会选择绕开金门岛直接进攻台湾主岛澎湖岛是否会是一道屏障-submitted-on-2020-10-24-1413030800" id="markdown-toc-1130-如果中共军队进攻台湾他们会选择同时进攻金门岛和台湾主岛还是会选择绕开金门岛直接进攻台湾主岛澎湖岛是否会是一道屏障-submitted-on-2020-10-24-1413030800">1130: 如果中共军队进攻台湾，他们会选择同时进攻金门岛和台湾主岛，还是会选择绕开金门岛直接进攻台湾主岛？澎湖岛是否会是一道屏障？, submitted on 2020-10-24 14:13:03+08:00.</a></li>
+</ul>
+
+<h3 id="1125-中国青岛普筛千万人都阴性-陈时中讽真是伟大但怎么可能-submitted-on-2020-10-19-0736530800">1125: <a href="https://old.reddit.com/r/China_irl/comments/jdqw5c/中国青岛普筛千万人都阴性_陈时中讽真是伟大但怎么可能/">中国青岛普筛千万人都阴性 陈时中讽：真是伟大，但怎么可能？</a>, submitted on 2020-10-19 07:36:53+08:00.</h3>
+
+<p>—– <strong>1125.1</strong> —–2020-10-19 09:41:45+08:00:</p>
+
+<p>这么说，感染源头是外地来的？不是本地多次传播的群组？</p>
+
+<h3 id="1126-中国3季度gdp增长49-submitted-on-2020-10-19-1005460800">1126: <a href="https://old.reddit.com/r/China_irl/comments/jdt4xd/中国3季度gdp增长49/">中国3季度GDP增长4.9%</a>, submitted on 2020-10-19 10:05:46+08:00.</h3>
+
+<p>—– <strong>1126.1</strong> —–2020-10-19 16:53:04+08:00:</p>
+
+<p>那明后两年大概率高速增长了，2022是党总书记换届，今年数据算到年末其实正负增长大家心里有数，不过明后两年肯定会有很多事发生，尤其是明年可能会有很多政府投资主导的经济活动让经济在这个基础上加速扩张。</p>
+
+<p>要不然其实我比较难想象到GDP增速持续下滑的情况下，习近平连任的底气会很足。</p>
+
+<h3 id="1127-台湾生猪批发价-submitted-on-2020-10-19-1741530800">1127: <a href="https://old.reddit.com/r/China_irl/comments/jdyoj9/台湾生猪批发价/">台湾生猪批发价</a>, submitted on 2020-10-19 17:41:53+08:00.</h3>
+
+<p>—– <strong>1127.1</strong> —–2020-10-19 20:31:37+08:00:</p>
+
+<p>72新台币每公斤=16.8人民币每公斤</p>
+
+<p>最新国内猪肉价格最近其实跌了不少，之前几个月峰值在37-35元，现在均价跌到29.9元，不少地区仍然是30-31元。去年年初最低价是11.37元人民币。</p>
+
+<p>现在收入低于台湾，但主要肉食价格是约1.8倍，是个很严肃的民生问题，也不知道最后会怎么收场，现在国内猪肉价格，太高了太低了都不是好事。</p>
+
+<p>—– <strong>1127.2</strong> —–2020-10-20 08:05:20+08:00:</p>
+
+<p>老司马衷了</p>
+
+<h3 id="1128-林郑月娥不再出席立法会每月质询-原因披露-submitted-on-2020-10-20-1052010800">1128: <a href="https://old.reddit.com/r/China_irl/comments/jeh20b/林郑月娥不再出席立法会每月质询_原因披露/">林郑月娥不再出席立法会每月质询 原因披露</a>, submitted on 2020-10-20 10:52:01+08:00.</h3>
+
+<p>—– <strong>1128.1</strong> —–2020-10-20 11:53:53+08:00:</p>
+
+<p>我感觉迟早要变成议员和各部门首长到礼宾府接受特首训话。</p>
+
+<h3 id="1129-广东高院判决华为奋斗者协议合法有效曾梦败诉-submitted-on-2020-10-20-2329560800">1129: <a href="https://old.reddit.com/r/China_irl/comments/jersnp/广东高院判决华为奋斗者协议合法有效曾梦败诉/">广东高院判决：华为《奋斗者协议》合法有效，曾梦败诉</a>, submitted on 2020-10-20 23:29:56+08:00.</h3>
+
+<p>—– <strong>1129.1</strong> —–2020-10-20 23:37:24+08:00:</p>
+
+<p>共和国的奇妙冒险第三部，完！</p>
+
+<h3 id="1130-如果中共军队进攻台湾他们会选择同时进攻金门岛和台湾主岛还是会选择绕开金门岛直接进攻台湾主岛澎湖岛是否会是一道屏障-submitted-on-2020-10-24-1413030800">1130: <a href="https://old.reddit.com/r/China_irl/comments/jh4107/如果中共军队进攻台湾他们会选择同时进攻金门岛和台湾主岛还是会选择绕开金门岛直接进攻台湾主岛澎湖岛是否/">如果中共军队进攻台湾，他们会选择同时进攻金门岛和台湾主岛，还是会选择绕开金门岛直接进攻台湾主岛？澎湖岛是否会是一道屏障？</a>, submitted on 2020-10-24 14:13:03+08:00.</h3>
+
+<p>—– <strong>1130.1</strong> —–2020-10-25 05:58:11+08:00:</p>
+
+<p>台湾地形从军事防御角度来说很烂，主要平原地带与都市经济区都在西侧，东侧都是山地、丘陵和森林，这就造成了几乎所有核心地带都暴露在直接攻击范围内。</p>
+
+<p>假设纯粹以陆军与登陆角度考虑攻台，不考虑空军、导弹与核武器，也不先考虑既定战略，而是假定已经可以登录的极限投送的话，大概推演有以下方向：</p>
+
+<p>行政中心的台北市，恰好还位于最北部没有任何屏障的地带，附近的天然地理防线几乎等于没有，只有桃园一带可以作为防登陆的缓冲区，一旦桃园失守，基本等于要被包饺子，成建制的军队从台北撤走几乎是不可能的。</p>
+
+<p>如果中共攻台，兵力大概会分成三段，大体上就是北段、中段与南段。</p>
+
+<p>北段主力进攻台北，中段进攻台中，南段进攻澎湖列岛与彰化。</p>
+
+<p>中共目前投送能力我知识范围内了解的好像是大概在5-7万人左右，我们翻倍这个数字，10-15万人左右可能被投送到以上三个区域。</p>
+
+<p>先说台北。整体上，台北的地形是倒Y字，北部有淡水河，外段防登陆的是新北市的八里和淡水两个区，中段防御的是台北市的北投区（这名起的就不吉利），末段就是台北市区范围了。</p>
+
+<p>沿着淡水河的三个防区大概十八到二十公里长，基本有效的阻击只能在登陆前的沿岸展开，需要严控淡水河口，一旦登陆阻击失败，下一个阶段就是背靠山地作战。</p>
+
+<p>外段作战失败可以看是不是打到关渡大桥，如果被迫退到关渡大桥，说明八里和淡水两个区的山地基本失守，再也无险可守。</p>
+
+<p>从八里区打五股区，再从五股区进攻台北的核心地区是很困难的，因为靠西北的方向全是山地，东南全是市区，还有大量的河道，浅滩与河道改造成的生态公园基本上随时都可以被水淹没，没法运输设备，五股区山地与建筑也不适合重火力使用。</p>
+
+<p>所以基本能肯定，进攻北投区占领北岸的大量平原地带，然后蓄力一波全面跨过淡水河，会是军事策略的最优解。</p>
+
+<p>因此北投区如果失守，台北基本就跟当初柏林一样歇气了，没有死守的必要，唯一作用就是能拖多久拖多久，前线部队如果撤不掉，城内主力可能会撤到宜兰市，行政中枢会分成两个，一个在宜兰，一个到台南。</p>
+
+<p>东北方向的基隆，在主攻淡水河的情况下，战略意义不大，因为地理位置偏东北，海军来的话肯定有预警，投送时间也比淡水河口长，而且会分散兵力，基隆深入到台北距离与淡水河口接近，同时地理上比较难登陆，基隆到台北的山地走廊，宽度基本只有一公里左右，几乎不可能打到台北。</p>
+
+<p>所以登陆基隆的主要作用，就是分散台北内的兵力部署，方便北部进攻淡水河口有优势。</p>
+
+<p>进攻台北的一个重点就是桃园，桃园是交通枢纽，并且有大面积的平原与浅滩地形，新屋与观音区基本上就是一大片平地农田，非常适合进行基地部署和囤积人力。</p>
+
+<p>但进攻桃园核心市区，由此进攻台北，则需要经过一个比较麻烦的过程，首先桃园市区城建密度大，推进困难，台军防御部队很可能集中在此，其次哪怕拿下桃园市区，也要打穿三峡区，沿着大汉溪打穿新北市的几个区以后，才能接近台北核心区域。</p>
+
+<p>并且没有完全控制桃园的话，很容易就被切断后方补给线包饺子，所以必须从前面所提到的五股区，转向西南方，进入林口区与龟山区，直接背刺桃园市中心，造成桃园守军双面受敌分散兵力，逼迫防线退出桃园市中心，开始往三峡区一带的山地转移。（但事实上到这就很难啃了，战场宽度基本跟基隆到台北一样。）</p>
+
+<p>假设中共可以投送极限15万人，我认为至少有8-10万人会投送到北段的台北战区。</p>
+
+<p>主力部队可能会集中在淡水河口，6-7万人会集中兵力进攻淡水河口，如果拿下淡水河外段后进行分兵，4-5万人进攻淡水河中段的北投区，其余部队通过五股区穿过龟山区进攻桃园，逼迫桃园市区守军腹背受敌。</p>
+
+<p>桃园方向会有3-4万人作为协调部队进攻，拿下桃园机场后，以新屋区作为基地，如果突进失败了，大概率会不断等军队投送，然后慢慢推进桃园防线，假设没有后续援军，这约4万人会与北部主力分出的1万人汇合进攻桃园，然后从西南进攻新北与台北。</p>
+
+<p>基隆方向很可能会部署数千人做尝试性攻击，基隆市优秀的港口，假设不拿掉问题也很严重，大陆方面最担心的其实是变成不能控制的消耗战，理论上拿下基隆台北就算海陆上完全被封锁，只能从陆路撤退到台湾的山脉地区。</p>
+
+<p>对中段台中地区的进攻，相对台北要简单很多，台中地理虽然有外围的山脉与丘陵，还有河流，形成了战场宽度很小容易防御的地理面貌，但本质上也是关门打狗，我认识一些台湾人认为台中不好打，但如果绕开台中的话，周遭地区登陆，台中不能防守基本上就没有战略价值。</p>
+
+<p>跟台北不同，台中不是绝对中枢，拿下彰化，台中失守就是时间问题，新竹可能因为中共考虑产业问题不会作为主攻对象，而且新竹登陆没有桃园方便，地理上也难以拓展兵力，从新竹到台中太远，到桃园又多余。</p>
+
+<p>所以台中地位就尴尬在于，如果防御的话，地理的确是不错，可实际进攻角度是完全可以绕开台中，台中南北防线很容易被掐断，又没有能高效率安全补给的渠道，15万人可能只有2-3万会被投送到台中和彰化地区，但核心任务应该只是控制台中附近的港口与建立基地。</p>
+
+<p>南段理论上没意外应该是最难打的。</p>
+
+<p>因为澎湖列岛作为防登陆的外部屏障，并且台南有浊水溪，天然分割台中与台南，如果登陆台中控制彰化，不拿下台中直接进攻台南会被两面夹击，实际上不拿下澎湖很难想象会轻易登陆台中冒险。</p>
+
+<p>所以大概率是澎湖失守，才会导致台中被登陆，而南段的嘉义一带，会布防台军的主力，也就是说台军的部署可能是南北为主，北段以台北为核心，南段以高雄为核心，台中不作为核心防御，而是以战略性压迫敌人推进空间，形成一个拖延节点，延缓台南沦陷的速度。</p>
+
+<p>失去对澎湖控制后，台南军队以浊水溪为界开始防御，要是登陆彰化，台中和台南以浊水溪为界的守军可以针对登陆部队。</p>
+
+<p>如果登陆浊水溪以南的地区，试图进攻嘉义，较为可能是采取通过澎湖投送部队，夺取东石乡与布袋阵，并且控制当地的主要大型港口为主，那台南军队则要放弃云林县和浊水溪。</p>
+
+<p>然后持续推进的话，其实难度对大陆军队来说是比较大的，因为战线越往南越窄，城建区面积也越大，人口比例越来越高，尤其是台南市，会变成非常复杂的局面，看一下地理地貌就知道了，越往南越绿，抵抗力度也会越强。</p>
+
+<p>不过陆战实际上是肯定输的，所以台湾基本上实际战略是预警到阻止对方登陆，对登陆部队集火进攻，消灭任何可能的锚点。</p>
+
+<p>北部因为有马祖列岛的原因，实际上淡水河口一带是可以很早做预警的，所以一般假设，都认为攻台会以桃园的平原地带，或者是新竹一带为主。</p>
+
+<p>总体上台湾军事部署策略是最优解，但我严重怀疑台湾军队执行效率，他们近几年在军备上扩充没有跟上中共军队的步伐，尤其是蔡英文政府，给人一种文人雅斗的感觉，跟不上现实变化。</p>
+
+<p>实际上对中共最好的办法就是阳奉阴违以拖代打，美方不愿意在台湾问题明确立场，更多是不希望台湾借此做出政治冒险行为。</p>
+
+<p>而中共方面因为习近平到2022年任期结束，2021年是建党百年，还有美国政府换届，最近这几年都是政治上有进攻台湾需求的高危时期，而过十年到十五年后，是技术成熟与军备成熟后，进攻台湾成本低的高危期，我注意到蔡英文今年开始对军队和外部情况有比较积极的反应，台湾内应也开始有变化，但速度还是太慢了。</p>
+
+<p>军事上我觉得拖中共攻台部队一星期左右就算胜利，全球已经有充足时间反应，台湾陆军数量还是军备对比，打是肯定打不赢的，但最大的问题是陷入较长的冲突，尤其是后续可能出现的大规模人道主义危机以及解放军的战损，有生力量和建制拖一个月就血赚，但考虑到台湾是岛屿地形，如果没美国海军协防或介入，很难有效维持建制力量超过一个月，城市内治安战可能会持续更久。</p>
+
+<p>核心主要是中共和台湾方面在博弈反介入作战，台湾目前我感觉不太聪明的样子，运气好撞到中美关系转差，熊猫派滚蛋，但台湾是不是待价而沽这点存疑。</p>
+
+<p>台湾在历史上的定位是个加速催化剂，如果发挥不到位，那就太浪费了。</p>
+
+<p>—– <strong>1130.2</strong> —–2020-10-29 03:55:31+08:00:</p>
+
+<p>现代军用设施和设备一般都做了EMP防护，并且大范围引发EMP的主要途径就是核爆，核爆EMP可以覆盖两千多公里范围，基本打哪都会影响大陆攻台，可能海峡上引爆一颗，大半个中国的设备都报废，并且本身核武器也不能用。</p>
+
+<p>马祖列岛和金门战略是纯炮灰预警作用，基本不会出现不能发讯息回去的情况，因为台湾超视距预警系统主要在本岛，日常还有卫星监视动向，如果准备工作做的差或者不打算隐瞒，基本开战前一段时间就知道了。</p>
+
+<p>台湾军事策略是换家，因为知道肯定打不赢，所以很注重导弹系统，大陆攻台如果导弹发射，下一步就必须立刻同步组织登陆，但就像前面说的，只要美国台湾预警系统不拉跨或者大陆运气好，基本不会出现漫天导弹就立刻把台湾砸稀巴烂，然后台湾就毫无抵抗能力的可能。</p>
+
+<p>就现在台湾的导弹数量，换家损失肯定是台湾死的人更多，但也不可能全中国导弹都打台湾去，不过北上广深被打到哪怕一下导弹，这个损失就很难估计后果，比如控制台湾后，战死与带来的一线城市动荡是否会产生政权不稳定因素，这些是台湾巷战与导弹换家的基本逻辑，现在台湾是光脚的了。</p>
+
+<p>考虑到台湾主要的城市人口较为密集，没有太多疏散地区，并且快速攻台不宣而战，意味着台湾和其他国家普通民众不会有时间逃难，那大规模的高密度导弹和空军袭击，本身就是搬石头砸脚，台湾制空权肯定会丧失，所以核心就主要聚焦在预警期的海上反登陆与陆战，台湾内部有人质疑在这种突击检测里，军队反应可能很拉跨，我估计也差不多。</p>
+
+<p>台湾现在的逻辑有两重，第一重是我之前说的，肯定要输，但尽一切可能让对方损失增大，第二重就是美国与周边盟友是否介入，只要美国介入，中共是没法攻台的，但美国不愿意在这件事上非常明确表态，表态了台湾会独立，不表态中共有可能攻台的可能。</p>
+
+<p>中国目前士兵征召范围在十八到二十四岁，约五千多万人，陆军服役人数85万人，如果攻台死亡超过1万人，影响就很大。台湾陆军大概十万人左右，就算战损靠空军达成1:5，攻台战损也可能飙升到2万，要是台湾巷战或者攻台某个环节比如登陆失利，大规模导弹与空袭造成在台国民与他国国民死伤，加上台湾本地人，人道主义危机引发的制裁与高伤亡，会拖中共下水。</p>
+
+<p>战争要是打到这个地步，就算台湾输了，也是他们达到战略目标，这么搞中共没多少年能续的，攥不住台湾。</p>
+
+<p>—– <strong>1130.3</strong> —–2020-10-29 12:41:14+08:00:</p>
+
+<p>国内常提到的电磁压制与复杂电磁环境，对台湾不对称战争来说意义并不大，或者说没认为的那么大。</p>
+
+<p>因为台湾本岛需要预警的主要作用，是快速建立反登陆，而不是靠信息网跟中共打拉锯战，台湾连像样的空军规模都没有，失去制空权是必然的，只是在于时间问题，只要你不是导弹和空军以及电磁干扰瞬间能让岛内一切空军飞不起来，一切导弹打不出去，一切陆军没有任何手段沟通，现有台湾的情况就能组织起反登陆。（除非台军拉跨到这都做不到）</p>
+
+<p>除非是全频谱干扰，否则无线电系统对抗方法非常多，频繁换频、极化这些都是二战时期就已经开始有体系的对抗措施，而且就算全频谱干扰的实用性也不高，岛内非战斗人员可以用来传输信息提高组织速度的方法太多了。</p>
+
+<p>直接有效并且能达到目的的快速攻台手段，就只有制造EMP冲击。扔石墨弹摧毁民用设施与电网的效率也可以，马祖和金门一直有直通台湾的通讯电缆，这两个地方根本不会有人当战略要点死守，是纯视线内预警作用。</p>
+
+<p>或者你岛内有大量的间谍，直接把台湾所有雷达和导弹的位置全一次性曝光，然后大陆方面导弹十五分钟内无差别轰炸殆尽，摧毁所有机场让对方空军连起飞的机会都没有，但现实我认为不可能发生这种经常在贴吧和知乎老哥身上所想的剧情。</p>
+
+<p>攻台最直接的办法就是借军演突然发起进攻，没人知道军演本身是不是是伪装，所以才叫做不宣而战，说白了就是现代的闪电战，现在军演的规模不足以拿下台湾，但如果持续扩大投入，或者军队动向有异于往常，都会直接引起预警。</p>
+
+<p>举最简单的例子，攻台前需要对台进行电磁干扰，也就是国内语境常说的电磁压制，台湾在观测到解放军军事行动部署前，这一种干扰本身就是一种预警讯号，有意思的地方是因为来自沿海解放军的干扰次数太多，台军本来在这方面跟解放军比是空白，结果被动涨经验，反应速度越来越快，而马祖和金门都可以直接将讯息传输，即便无线电通讯内容暴露了，本岛可以登录的地方基本就几个，驻军核心地带也就那些，不可能解放军虚晃一枪从登录台北改到台东。</p>
+
+<p>战争的重点核心始终是在介入登陆与反登陆上，提前预警中共军队动向是介入登陆的核心，第一阶段大量干扰时已经会开始预警，第二阶段一旦金门马祖列岛有动向就会开始布置反登陆体系，第三阶段就是部署完成并且拓展工事。</p>
+
+<p>目前阶段解放军的导弹与空军，是无法做到快速消灭或彻底压制台湾的防空系统的，天弓展开要20-30分钟，被干扰的情况下，跟大陆方面的空军就是个消耗问题，空军解决陆基防空难度很大，解放军空军最终肯定会赢，但拖延的时间会多久，这就涉及到两栖攻击能否成功了，因为台军很大程度上在防空网耗光前就已经会集结完毕。</p>
+
+<p>剩下就是龟缩打消耗，因为正常交战肯定是要输的，这是毫无疑问，最大化增加损伤与拖延交战时间，你如果打重要的军事目标，比如雷达或防空导弹，这个时候台陆军战略目标已经达成，你打机场对方空军也用不上了，只有自己的空降兵会用到，并且利用这个来增加补给和援军，都打没了就只能两栖登陆。</p>
+
+<p>另外现代如果制造专门用于EMP爆炸的核武器，覆盖范围就是那么大，上个世纪的核武器测试覆盖范围都已经有这个程度了，但打台湾肯定不能用核武器，所以传统电磁干扰本身就有反制手段，不对称战争下台湾首先目标是做反登陆与集结，不是靠现代化军备打拉锯战，介入登陆与反登陆打呆仗消耗才是唯一选择。</p>
+
+<p>—– <strong>1130.4</strong> —–2020-10-29 13:56:38+08:00:</p>
+
+<p>雄二E宣传是1000公里，我们打折扣，只能打八百左右，这个除了北京，中国北上广深已经有三个被覆盖，两个主要三角湾区，虽然说打三峡大坝太扯淡，但一线城市你就算导弹拦截做的再好，是会只漏一发么？</p>
+
+<p>台湾第一批雄2E有245枚，第二批生产加在一起应该将近五百枚，台湾战争越晚打，台湾持有的地对地导弹数量与质量都会不断增加，而当代导弹拦截基本上不会是漏一发这么就简单，而是很大程度上会漏很多发，国内反导系统虽然没详细资料，但可以肯定是不足的，否则也不会买S400，大概120枚左右。</p>
+
+<p>如果发生战争，主要的地对空拦截火力，都会供给给军队，能给一线城市的也只是一部分，假设到时候台湾地对地火力发展到上千枚，甚至两三千枚，你的拦截系统能拿下哪怕一半，也至少会有数百甚至一千多的导弹覆盖到沿海地区。</p>
+
+<p>所以我无法理解为什么这种逻辑，中国人的命也是命，现在各个都没经历过战争和战争带来的经济停滞，但是导弹可能飞到头顶，或者有人因此而死时，社会舆论就是另外一回事了，攻台解放军可能预计死两万士兵，几百到上千平民，要是最后发展成死五六万士兵，甚至更多，然后数千平民，砸进去几千亿上万亿美元，中国就已经被拖下水了。</p>
+
+<p>而且敞开防空网，台湾算霍克这种老古董在内上万枚导弹，只要能碰到沿海地界的，不需要打到长三角与珠三角，得死多少人，经济停滞与后续发展损失的经济呢。</p>
+
+<p>台湾是怎么打都会输的，所以不对称战争本身就是搞消耗，战术阶段搞阻击与反登陆，战略阶段就是尽一切可能拖下水，现在台湾处于一个警戒上升期，美国对台军售速度加快，台湾军费增速高涨到新高。</p>
+
+<p>现在打，已经是这个结果，再过十年呢，台湾内部军备与军费在转型后更完善，中国这方面社会内部压力更大，经济抗风险能力更低。</p>
+
+<p>我国现在的政府财政很不乐观，分税制下地方财政已经入不敷支，中央拿大头，地方干的事情多又要拿的少，战争带来的损耗最后还是地方自己承担，中央既不需要承担战争的直接死亡风险，也不需要承担后续的财事权分配，我觉得很多人完全就高估了中国社会承受风险与剧烈经济波动的影响。</p>
+
+<p>维稳比台湾重要，如果打下了台湾，然后变成了隋征高句丽的结局，台湾最后还是会独立。</p>
+
+<p>美军现在能力上只要想就可以干预中共攻台，攻台是个速度活，必须要快，但实际情况是你哪怕进行全频谱的干扰，台湾本身也是有能力做预警的，台湾的主要导弹是防空导弹，这些还都是过去几十年的累积，近几年军事改革和军费才逐渐拉上来，也就今年开始蔡英文才好像明白了大陆可能攻台拼命做岛内军事上发展的推动。</p>
+
+<p>现阶段做不到跟贴吧或知乎想的那样完美快速攻台，什么几个小时拿下防空系统或完全信息压制，代差没大到能完全屏蔽讯息和瞬间摧毁防空系统。</p>
+
+<p>以后只会更难，如果台湾保持过去十年马放南山的情况，那以后再过五年到十年肯定是能相对现在的轻松拿下来，问题就在于台湾军事在转型，蔡英文也开始主张超限战与不对称战争。</p>
+
+<p>美军的介入本身就是拖时间，除非中共想对美国开战，如果美国公开表示会为台湾与中共开战，直接会引发台湾独立，违反美国既定对中政策，这个我前面说过。</p>
+
+<p>美国对中的既定政策清晰，对台的既定政策模糊，但现在军售速度已经开始爬坡，三年制定了三个涉台法案，其中还有0反对通过的，升温非常明显，中共要攻台只能趁现在，一方面美国国内没有立法，另一方面台湾刚开始军事转型，整体上很迟钝，第三是大陆经济还在一个滑坡没到衰变点的地方，现在或许还能承担相关的直接损失。</p>
+
+<p>等晚几年熊猫派在美国彻底死绝，屠龙派对华态度彻底恶化，接盘的东南亚尤其是越南开始承接部分廉价劳动力的身份，台湾军事转型完成前期准备，美国再出来一个2030S年代的台湾安全加强法案，中国经济跌到3%以下，那打仗就没有任何意义了，因为到时候怎么打都是输，台湾拿下来了也攥不住。</p>
+
+<p>—– <strong>1130.5</strong> —–2020-10-29 16:12:53+08:00:</p>
+
+<p>台湾打不对称战争唯一的结果就是输，这是没有什么疑问的，所以战略上就是尽一切可能制造损耗，陆对陆导弹就是基于这个标准才亮相，国内总是说除了增加大陆民众怒火还有什么别的，但实际上如果中共不攻台，这些导弹不会拿来砸沿海。</p>
+
+<p>台湾是肯定要垮的，但垮完以后呢？大陆承受的是一线城市受到严重攻击带来的经济与社会舆论反对，台湾是已经完蛋了，巷战和治安战就是对台湾人再狠，也就是个死，两千多万人能杀绝么。</p>
+
+<p>增加陆对陆导弹，不是要一次性把沿海打成稀巴烂，而是能打多少打多少，而这个能打的程度，随台湾的军事改革时间线而增长，雄2E是经费不足时的产品，中科院说还能造更好的导弹，还没确实的云峰呢。</p>
+
+<p>所以问题不在于靠这些陆对陆导弹去赢战争，而是你要正确评估大陆对战争相关的损失的承受能力，现在中国政府很难再有财政空间去支援这种损失。一颗导弹一千多万，砸到一线城市随便哪个地方都可能是上亿的直接损失，打核心市区或者因此被迫停滞的经济怎么补偿，打完台湾是日子不过了么？</p>
+
+<p>现在库存打完，四五百发能给深圳和上海造成上千亿的损失，真到了数量堆叠起来，反导系统能不干活？S400国内认为有需要才引入，觉得自己可以按照这个技术做出来，要是真没这种需求就不需要了。</p>
+
+<p>美国军售肯批准并且爬坡速度增加，你现在不武统，就意味着多年后会引来台军军备快速增长的一个飞跃期，任何事情都是要走程序，这是慢的原因，而不是帮不帮的问题，要是真的对台湾没有任何打算帮的顾虑，连批军售都不会。</p>
+
+<p>高估中国经济与社会内压可以完好无损承受战争带来的冲击，这都是过于乐观，尤其是导弹袭击会造成国内严重的不稳定，现在两百枚打可能没事，以后导弹越来越好，射程和速度越来越高，数量翻十几倍，大陆人民的怒火是没有任何意义的，台湾躺下了，怒气就要冲着政府去。</p>
+
+<p>打这场战争对解放军来说是要符合利益才行，如果不符合利益，台湾怎么打都是输的情况下，就不会有任何顾忌，给大陆造成战损跟台湾被打成稀巴烂和全岛人口死绝，两者是独立的。</p>
+
+<p>—– <strong>1130.6</strong> —–2020-10-29 16:30:39+08:00:</p>
+
+<p>进攻台湾如果拖延到让台湾可以在空军与导弹都消耗完毕的程度，然后要跟台军抢夺工事打巷战，那进攻台湾这件事本身战略上就已经输了。</p>
+
+<p>台湾人口密度很大，核心城市漫天炮火炸的后果就不是“解放”，我说的重点就是打台湾不是台湾能不能赢，而是可以对中国造成多大经济损害，现在问题就在于中国财政与经济，还有人口结构，都承受不了战损太高与时间略长的“解放台湾”战争。</p>
+
+<p>战争如果超过一星期就算极度失败了，现在国内预测我认为比较靠谱的偏理想化估计都是两到三天可以无重大失误下进攻到市区，有重大失误或延误可能会延伸到四到五天，这是目前台湾军事改革前期的预判，现在打就是这个时间，越拖延越长。</p>
+
+<p>所以早晚如何如何不是问题，而是从第三者角度台湾能多大发挥它的作用</p>
+
+<p>—– <strong>1130.7</strong> —–2020-10-29 17:15:05+08:00:</p>
+
+<p>弹道导弹和巡航导弹我分的清，台军导弹不会留着等解放军空军炸掉，巡航导弹本身就不是以速度为目标，防空网不拉跨这就像计划不如变化一样，预警机没上天，那面打来的是什么饱和攻击都未必清楚。</p>
+
+<p>而且现在台湾基本已经确定是可以造出超音速巡航导弹，而且还可以造更好的，过去是长期没足够国防预算，蔡英文去年到今年开始才在军事改革和国防预算上下功夫，雄2E据悉有一款就是超音速版本，不考虑另外的云峰也是可以超音速的，当初天马1能造弹道导弹，理论上就可以再造，这是个政治问题，ATACMS现在是受制于人，云峰或者下一款替代雄2E的超音速巡航导弹出场，数量堆起来才叫做有效。</p>
+
+<p>要是敢在外海随便拦美国运输船只让美国缩卵，那美国就直接等于放弃整个南海了，大概日本海也要让出来，现在福特级都是偷工减料的下一代产品，我看这玩意就要按照你说的中共这种莽法，压根造不到2058年10艘指标完成，估计就要被更新的压箱底给取代了。</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2020-11-08</time>
+        <a href="https://nodebe4.github.io/opinion/2020-11-08/Spinkcat/">
+          Spinkcat在2020-11-02~2020-11-08的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-11-01</time>
+        <a href="https://nodebe4.github.io/opinion/2020-11-01/Spinkcat/">
+          Spinkcat在2020-10-26~2020-11-01的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-10-18</time>
+        <a href="https://nodebe4.github.io/opinion/2020-10-18/Spinkcat/">
+          Spinkcat在2020-10-12~2020-10-18的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-10-09</time>
+        <a href="https://nodebe4.github.io/opinion/2020-10-09/Spinkcat/">
+          Spinkcat在2020-10-05~2020-10-11的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2020-10-24/GlobalHimalaya/">
+            前一篇：喜馬拉雅國際工作站 的 Twitter: 2020-10-19~2020-10-25
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2020-10-24/%E6%9D%8E%E8%82%85%E6%8C%91%E6%88%B0%E5%91%A8%E5%AD%9D%E6%AD%A3-%E9%A0%98%E5%B0%8E%E5%8D%81%E8%AA%A1-%E4%B8%AD%E5%9C%8B%E5%AE%98%E5%A0%B4%E7%8F%BE%E5%BD%A2%E8%A8%98/">
+            後一篇：李肅挑戰周孝正：領導十誡 中國官場現形記
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2020-10-24/GlobalHimalaya/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2020-10-24/%E6%9D%8E%E8%82%85%E6%8C%91%E6%88%B0%E5%91%A8%E5%AD%9D%E6%AD%A3-%E9%A0%98%E5%B0%8E%E5%8D%81%E8%AA%A1-%E4%B8%AD%E5%9C%8B%E5%AE%98%E5%A0%B4%E7%8F%BE%E5%BD%A2%E8%A8%98/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2020-11-01/Spinkcat/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2020-10-18/Spinkcat/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2020-10-24/GlobalHimalaya/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2020-10-24/%E6%9D%8E%E8%82%85%E6%8C%91%E6%88%B0%E5%91%A8%E5%AD%9D%E6%AD%A3-%E9%A0%98%E5%B0%8E%E5%8D%81%E8%AA%A1-%E4%B8%AD%E5%9C%8B%E5%AE%98%E5%A0%B4%E7%8F%BE%E5%BD%A2%E8%A8%98/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2020-11-01/Spinkcat/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2020-10-18/Spinkcat/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

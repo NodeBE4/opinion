@@ -1,0 +1,3028 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Facebook Political Problems – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+Facebook Political Problems
+——
+" />
+    <meta property="og:description" content="
+Facebook Political Problems
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Facebook Political Problems" />
+    <meta property="twitter:title" content="Facebook Political Problems" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2021%2Ffacebook-political-problems%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2021/facebook-political-problems/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2021/facebook-political-problems/&text=Facebook Political Problems&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2021/facebook-political-problems/&title=Facebook Political Problems" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2021/facebook-political-problems/&title=Facebook Political Problems" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Facebook Political Problems&body=
+Facebook Political Problems
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2021/facebook-political-problems/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2021/facebook-political-problems/&title=Facebook Political Problems&caption=
+Facebook Political Problems
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Facebook Political Problems&url=https://stratechery.com/2021/facebook-political-problems/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Facebook Political Problems</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2021-10-06
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2021/facebook-political-problems/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1633535565000-->
+<p><a href="https://stratechery.com/2021/facebook-political-problems/">Facebook Political Problems</a>
+——</p>
+
+<div>
+  <p><em>Stratechery provides analysis of the strategy and business side of technology and media, and the impact of technology on society.</em></p>
+  <p>So begins my <a href="https://stratechery.com/about/">about page</a>, and there is no company that expands to fill the space afforded by that description quite like Facebook. This does, on one hand, provide for endless amounts of content, much of which, frankly, I would like to move on from; it also means that writing about one aspect of Facebook is fraught with risk: just because you defend one aspect, or attack another, does not mean one is making a comment on the entirety of the corporate beast. Word limits, though, are a thing — yes, even on the web — which means that one can never cover all of one’s bases in any one individual article.<sup id="rf1-7756"><a href="https://stratechery.com/2021/facebook-political-problems/#fn1-7756" title="This is where I am jealous of those who do nothing but attack Facebook; no nuance is, if nothing else, succinct." rel="footnote">1</a></sup></p>
+  <p>So consider this piece self-service, of sorts: this Article will be what I link to in future posts with the caveat, “I’m not talking about Facebook political issues today; if you want my big-picture take follow this link.”</p>
+  <p>Which will take you here.</p>
+  <hr />
+  <p>A quick aside about timing: this post is being written the day after Frances Haugen <a href="https://www.youtube.com/watch?v=GOnpVQnv5Cw">appeared before Congress</a>; I’m not writing about her testimony specifically, as I felt it covered very little new ground. <a href="https://stratechery.com/2021/facebook-down-the-whistleblower-facebook-power/">Saying as such</a>, though, did seem to prompt <a href="https://twitter.com/benthompson/status/1445539995201130501">a lot of misunderstanding</a> and, frustratingly, allegations of bad faith, which, optimistically, might have been alleviated by a link to an article like this one.</p>
+  <p>What I did want to do is — word limit be damned — write a post about Facebook’s political problems, as I perceive them, in their entirety. I do think the media gets a lot of things wrong about Facebook, not because there aren’t problems, but because the problems are more profound than the issue of the day. So here’s my best shot.</p>
+  <h4 id="facebooks-benefit">Facebook’s Benefit</h4>
+  <p>This is perhaps an odd place to start, but it cuts to the core of why I do see real benefits to Facebook’s existence in the world, and is an important part of the trade-off calculations I make in the sections that follow.</p>
+  <p>I believe that the economy of the future will, if we don’t stifle it along the way, look considerably different than <a href="https://stratechery.com/2016/tv-advertisings-surprising-strength-and-inevitable-fall/">the post World War II order</a> dominated by large multinational corporations whose differentiation is predicated <a href="https://stratechery.com/2014/technology-changing-world-pg-edition/">on distribution</a>. Instead the future looks <a href="https://exponent.fm/episode-012-the-internet-rainforest/">more like a rain-forest</a>, with platforms that span the globe and millions of niche businesses that sit on top.</p>
+  <p>I am, given my career, biased in this regard, but the rise of <a href="https://stratechery.com/2019/shopify-and-the-power-of-platforms/">platforms like Shopify</a>, Etsy, Substack, and the App Store are evidence that new careers can be built and untold niches filled when the entire world is your addressable market. The challenge in a worldwide market, though, is finding the customers who are interesting in the niche being filled; this is where Facebook’s ad offering is very much a platform in its own right.</p>
+  <p>Facebook, via its integration with a host of third party sites and apps, makes it possible for those sites and apps to collectively understand and target prospective customers with the same sort of proficiency that first-data powerhouses like Google and Amazon do, and they don’t need to hold or understand any third-party data to do so. It is difficult to overstate what a big deal this is: suddenly a Shopify merchant can compete with Amazon, a D2C startup with Unilever, or a blog with the New York Times.</p>
+  <p>Moreover, Facebook’s platform, unlike many of its competitors, is entirely automated and auction-driven; that means that small businesses have the same shot at customers as their far larger competitors do. Facebook is also very adept at simplifying the process (in exchange for more margin, of course): simply specify how much a customer is worth to you, and Facebook will deliver that customer. It’s an advertising platform that truly levels the playing field, and I think it is a very good thing for the world.</p>
+  <h4 id="perceived-problem-one-privacy">Perceived Problem One: Privacy</h4>
+  <p>The flipside of Facebook’s advertising platform is the reality that the company absolutely does ingest huge amounts of data. It is worth noting, though, that a big junk of the most private human readable data is content that users give Facebook themselves when they use the site; Facebook combines that with all of the data it collects in all of those connected apps and sites — which are primarily about measuring conversions — in its <a href="https://stratechery.com/2018/data-factories/">Data Factory</a> to create machine-learning driven profiles that undergird its advertising. What Facebook does not is sell user data, not only because data undergirds its advertising business, but also because nearly all of that data would be unintelligible and worthless to any entity other than Facebook.</p>
+  <p>As I noted in <a href="https://stratechery.com/2019/privacy-fundamentalism/">Privacy Fundamentalism</a>, it is tempting to imagine this data as being something akin to a file of your life just laying around for anyone to peruse; Apple has <a href="https://stratechery.com/2020/privacy-labels-and-lookalike-audiences/">implied precisely this</a> with some of its recent ads. The reality, though, is far more mundane: the nature of computers and the Internet is the spewing of data everywhere, and it is only in aggregate, in a data factory, than any insight from this collection of vectors can be derived, and only then in the context of a larger application like targeted advertising conducted at massive scale. It is exceedingly unlikely that Facebook could even make the data about any one individual readable by a human, and there is no incentive to do so; not only do third party apps and sites have no need nor desire for individual level data, neither do advertisers — Facebook’s entire value to both is as a matchmaker at scale.</p>
+  <p>To my mind, the reality of data on Facebook is well worth the trade-off for the value Facebook’s advertising delivers to niche-focused businesses. Moreover, I feel much better about Facebook as a data mediator than about modular advertising stacks where data really is bought and sold. I do understand that lots of folks disagree with me on this point, but again, everything is a trade-off, and I think this one is worth it.</p>
+  <h4 id="perceived-problem-two-competition">Perceived Problem Two: Competition</h4>
+  <p>The core of my <a href="https://stratechery.com/2019/a-framework-for-regulating-competition-on-the-internet/">Framework for Regulating Competition on the Internet</a> is distinguishing between platforms and Aggregators; platforms are extremely valuable, because of the opportunities they enable, but are also more subject to abuse, because companies taking advantages of those opportunities are beholden to the platform. Aggregators, on the other hand, dominate their markets by controlling demand; suppliers are not locked in, but are rather seeking end users, who themselves can visit another website or open another app at any time. The societal value of Aggregators is lower than Platforms, but the extent to which they can inflict harm is more limited as well — competition really is just a click away.</p>
+  <p>To that end, the only extent to which Facebook is a potential antitrust concern is in terms of advertising, thanks to its massive amount of proprietary data and highly advanced data factory. At the same time, Facebook’s auction driven format ensures that Facebook is not gauging advertisers, and the effectively infinite potential inventory in digital means that competitors are not locked out from building competing products; the only scarcity is audience attention. Moreover, tradeoffs matter here as well: Facebook having extremely effective data is good for businesses on its platform, and there are privacy concerns with forcing Facebook to share.</p>
+  <p>On the consumer side, <a href="https://stratechery.com/2021/regulators-and-reality/">I simply don’t see any anticompetitive concerns at all</a>. Consumers are not locked into a single communications app, but can and do multi-home, and can switch between competing services with a swipe. Facebook’s challenge is in continuing to keep users opening and using its apps, and there is plenty of evidence the company is struggling to do just that.</p>
+  <p>A decade ago Facebook responded to this challenge by savvily buying upcoming communications apps like Instagram and WhatsApp; I do think that this reduced competition in the sector, particularly from an advertising perspective, and I do think <a href="https://stratechery.com/2019/where-warrens-wrong/">there is a case</a> for regulators to look much more critically at Aggregators buying other would-be Aggregators. That noted, in 2021 Facebook — even with Instagram and WhatsApp — faces more competition than ever before; the market worked, and regulators are very much on guard for similar purchases. Facebook is going to have to keep users with what it has, or builds.</p>
+  <h4 id="political-problem-one-facebooks-competence">Political Problem One: Facebook’s Competence</h4>
+  <p>These first three points, taken together, paint a picture of an exceptionally well-run company and a very attractive business; there is a reason why Facebook is worth around a trillion dollars. At the same time, it is that exceptional competence that starts to explain Facebook’s current political predicament.</p>
+  <p>Andrew Bosworth, <a href="https://stratechery.com/2021/microsofts-surface-event-facebook-cto-changes/">Facebook’s New CTO</a>, wrote an internal memo in 2016 about Facebook’s commitment to growth that later leaked <a href="https://www.buzzfeednews.com/article/ryanmac/growth-at-any-cost-top-facebook-executive-defended-data">to BuzzFeed</a>; it is essential to understanding Facebook:</p>
+  <blockquote>
+    <p>We talk about the good and the bad of our work often. I want to talk about the ugly.</p>
+    <p>We connect people.</p>
+    <p>That can be good if they make it positive. Maybe someone finds love. Maybe it even saves the life of someone on the brink of suicide.</p>
+    <p>So we connect more people</p>
+    <p>That can be bad if they make it negative. Maybe it costs a life by exposing someone to bullies. Maybe someone dies in a terrorist attack coordinated on our tools.</p>
+    <p>And still we connect people.</p>
+    <p>The ugly truth is that we believe in connecting people so deeply that anything that allows us to connect more people more often is *de facto* good. It is perhaps the only area where the metrics do tell the true story as far as we are concerned.</p>
+    <p>That isn’t something we are doing for ourselves. Or for our stock price (ha!). It is literally just what we do. We connect people. Period.</p>
+    <p>That’s why all the work we do in growth is justified. All the questionable contact importing practices. All the subtle language that helps people stay searchable by friends. All of the work we do to bring more communication in. The work we will likely have to do in China some day. All of it.</p>
+    <p>The natural state of the world is not connected. It is not unified. It is fragmented by borders, languages, and increasingly by different products. The best products don’t win. The ones everyone use win.</p>
+    <p>I know a lot of people don’t want to hear this. Most of us have the luxury of working in the warm glow of building products consumers love. But make no mistake, growth tactics are how we got here. If you joined the company because it is doing great work, that’s why we get to do that great work. We do have great products but we still wouldn’t be half our size without pushing the envelope on growth. Nothing makes Facebook as valuable as having your friends on it, and no product decisions have gotten as many friends on as the ones made in growth. Not photo tagging. Not news feed. Not messenger. Nothing.</p>
+    <p>In almost all of our work, we have to answer hard questions about what we believe. We have to justify the metrics and make sure they aren’t losing out on a bigger picture. But connecting people. That’s our imperative. Because that’s what we do. We connect people.</p>
+  </blockquote>
+  <p>In the seventeen years since Facebook was founded the number of people using the Internet has grown from around a billion people to around 4.5 billion people; in developed countries the Internet is close to being universal, but developing countries are steadily catching up:</p>
+  <p><a href="https://en.wikipedia.org/wiki/Global_Internet_usage#/media/File:Internet_users_per_100_inhabitants_ITU.svg"><img loading="lazy" src="https://i1.wp.com/stratechery.com/wp-content/uploads/2021/10/facebook-1.png?resize=640%2C512&#038;ssl=1" alt="Worldwide Internet users over time" width="640" height="512" class="aligncenter size-full wp-image-7759" srcset="https://i1.wp.com/stratechery.com/wp-content/uploads/2021/10/facebook-1.png?w=1280&amp;ssl=1 1280w, https://i1.wp.com/stratechery.com/wp-content/uploads/2021/10/facebook-1.png?resize=300%2C240&amp;ssl=1 300w, https://i1.wp.com/stratechery.com/wp-content/uploads/2021/10/facebook-1.png?resize=1024%2C819&amp;ssl=1 1024w, https://i1.wp.com/stratechery.com/wp-content/uploads/2021/10/facebook-1.png?resize=768%2C614&amp;ssl=1 768w, https://i1.wp.com/stratechery.com/wp-content/uploads/2021/10/facebook-1.png?resize=788%2C630&amp;ssl=1 788w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></a></p>
+  <p>Of those 4.5 billion people, 3.5 billion use at at least one Facebook service on a monthly basis; 2.8 billion use at least one on a daily basis. That is exactly the sort of competence I was referring to above. As Bosworth notes, though, Facebook’s growth isn’t just about competence, but about a single-minded determination to do everything possible to make Facebook synonymous with the Internet.</p>
+  <p>Here is the problem, though: it is not at all certain that the Internet is good for society. There are massive benefits, to be sure, and I am one of the biggest beneficiaries in the world, but there are obviously massive downsides. Moreover, many of those downsides seem to spring directly from the fact that people are connected: it’s not simply that it is trivial to find people who think the same as you, no matter how mistaken or depraved you might be, but it’s also trivial to find, observe, and fight with those who simply have a different set of values or circumstances. The end result feels like an acceleration of tribalism and polarization; it’s not only easy to see and like your friends, but even easier to see and hate your enemies with your friends.</p>
+  <p>This is, as I noted, an Internet problem — as Facebook is happy to tell you — but the truth is that Facebook, thanks to its uber-competent focus and execution on growth, effectively made the Internet problem a Facebook problem. Sure, you can make the case that had Facebook not pursued growth at all costs there would be another social network in its place — and frankly, I believe that Twitter gets off far too easy in discussions about deleterious impacts on society — but the reality is that Facebook did win, and just because some of its spoils are rotten doesn’t absolve the company of responsibility. If you are going to onboard all of humanity, you are going to get all of humanity’s problems.</p>
+  <p>Secondly, Facebook pursued this growth without questioning if the obstacles it faced — the fact that “The natural state of the world is not connected. It is not unified.” — perhaps functioned as useful buffers; instead the company, particularly founder and CEO Mark Zuckerberg, was blinded by <a href="https://stratechery.com/2017/manifestos-and-monopolies/">a Messianic impulse</a> to create the conditions for global governance. Zuckerberg wrote in 2017’s <a href="https://www.facebook.com/notes/3707971095882612/">Building Global Community</a>:</p>
+  <blockquote>
+    <p>History is the story of how we’ve learned to come together in ever greater numbers — from tribes to cities to nations. At each step, we built social infrastructure like communities, media and governments to empower us to achieve things we couldn’t on our own. Today we are close to taking our next step. Our greatest opportunities are now global — like spreading prosperity and freedom, promoting peace and understanding, lifting people out of poverty, and accelerating science. Our greatest challenges also need global responses — like ending terrorism, fighting climate change, and preventing pandemics. Progress now requires humanity coming together not just as cities or nations, but also as a global community.</p>
+    <p>This is especially important right now. Facebook stands for bringing us closer together and building a global community. When we began, this idea was not controversial. Every year, the world got more connected and this was seen as a positive trend. Yet now, across the world there are people left behind by globalization, and movements for withdrawing from global connection. There are questions about whether we can make a global community that works for everyone, and whether the path ahead is to connect more or reverse course.</p>
+    <p>This is a time when many of us around the world are reflecting on how we can have the most positive impact. I am reminded of my favorite saying about technology: “We always overestimate what we can do in two years, and we underestimate what we can do in ten years.” We may not have the power to create the world we want immediately, but we can all start working on the long term today. In times like these, the most important thing we at Facebook can do is develop the social infrastructure to give people the power to build a global community that works for all of us.</p>
+  </blockquote>
+  <p>What is particularly striking about this excerpt is the jump between the second paragraph, when Zuckerberg nods towards “questions” about reversing course, and the third paragraph which makes clear those questions were never seriously considered. And how could they be — “Connecting people. That’s our imperative. Because that’s what we do. We connect people.” Facebook’s combination of competence and drive ensured Internet problems were Facebook problems, and Zuckerberg’s missionary zeal didn’t give space to consider what might go wrong.</p>
+  <p>This is the first, and perhaps most important, political problem Facebook has: the Internet causes real problems, and Facebook willingly made itself responsible for those problems, with no real understanding that the problems even existed.</p>
+  <h4 id="political-problem-two-facebooks-scapegoating">Political Problem Two: Facebook’s Scapegoating</h4>
+  <p>While I just linked Bosworth’s 2016 memo and Zuckerberg’s 2017 manifesto, it’s important to note that the latter was something new: Facebook explicitly committing itself to use its power to enact change. Before that nothing mattered but growth, which produced a very curious dynamic: Facebook had tremendous power but by-and-large declined to exercise it. This created the conditions for Donald Trump, which I explained in <a href="https://stratechery.com/2016/the-voters-decide/">The Voters Decide</a>:</p>
+  <blockquote>
+    <p>Given their power over what users see Facebook could, if it chose, be the most potent political force in the world. Until, of course, said meddling was uncovered, at which point the service, having so significantly betrayed trust, would lose a substantial number of users and thus its lucrative and privileged place in advertising, leading to a plunge in market value. In short, there are no incentives for Facebook to explicitly favor any type of content beyond that which drives deeper engagement; all evidence suggests that is exactly what the service does.</p>
+    <p>Said reticence, though, creates a curious dynamic in politics in particular: there is no one dominant force when it comes to the dispersal of political information, and that includes the parties described in the previous section. Remember, in a Facebook world, information suppliers are modularized and commoditized as most people get their news from their feed.</p>
+    <p>This has two implications:</p>
+    <ul>
+      <li>All news sources are competing on an equal footing; those controlled or bought by a party are not inherently privileged.</li>
+      <li>The likelihood any particular message will “break out” is based not on who is propagating said message but on how many users are receptive to hearing it. The power has shifted from the supply side to the demand side.</li>
+    </ul>
+    <p><a href="https://stratechery.com/2016/the-voters-decide/"><img loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2016/03/Screen-Shot-2016-03-03-at-12.35.04-AM.png?resize=640%2C212&#038;ssl=1" alt="A drawing of Aggregation Theory and Politics" width="640" height="212" class="aligncenter size-full wp-image-2053" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2016/03/Screen-Shot-2016-03-03-at-12.35.04-AM.png?w=1812&amp;ssl=1 1812w, https://i0.wp.com/stratechery.com/wp-content/uploads/2016/03/Screen-Shot-2016-03-03-at-12.35.04-AM.png?resize=300%2C99&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2016/03/Screen-Shot-2016-03-03-at-12.35.04-AM.png?resize=768%2C254&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2016/03/Screen-Shot-2016-03-03-at-12.35.04-AM.png?resize=1024%2C339&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2016/03/Screen-Shot-2016-03-03-at-12.35.04-AM.png?resize=1200%2C397&amp;ssl=1 1200w, https://i0.wp.com/stratechery.com/wp-content/uploads/2016/03/Screen-Shot-2016-03-03-at-12.35.04-AM.png?w=1280&amp;ssl=1 1280w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></a></p>
+    <p>This is a big problem for the parties as described in The Party Decides. Remember, in Noel and company’s description party actors care more about their policy preferences than they do voter preferences, but in an aggregated world it is voters aka users who decide which issues get traction and which don’t. And, by extension, the most successful politicians in an aggregated world are not those who serve the party but rather those who tell voters what they most want to hear.</p>
+  </blockquote>
+  <p>These dynamics were in many respects the same as the advertising dynamics I described above: on Facebook both small companies and large companies have an equal shot at customers, and both Party insiders and complete outsiders have an equal shot at voters. Moreover, it’s a dynamic that is even greater when combined: Trump famously used Facebook advertising <a href="https://thenextweb.com/news/facebook-confirms-trumps-ads-bested-clintons-during-presidential-bid">to far greater effect</a> than the Clinton campaign. And, at the same time, the New York Times, itself demoted to another attention seeker in a Facebook world, famously spent <a href="https://fivethirtyeight.com/features/the-comey-letter-probably-cost-clinton-the-election/">huge amounts of time on Clinton’s emails</a>.</p>
+  <p>What seems clear in retrospect is that the latter two entities made peace (and avoided introspection) by making Facebook the scapegoat for Trump’s election. This was true in a way — Facebook created the conditions for someone like Trump to win — but the furor that followed suggested something much more explicit: within days the conversation was about <a href="https://stratechery.com/2016/fake-news/">Fake News</a> and Russian influence being the key factors, not campaign mistakes and questionable coverage decisions, and certainly not the fundamental way that the media environment had changed.</p>
+  <p>That enmity has clearly persisted: what is striking about Facebook’s political problems in the United States is how they are <em>not</em> consistent across the world. Sure, Facebook fights its battles, with publishers in particular, but they’re mostly about money; it is in the U.S. where Facebook is, at least on one side of the aisle, uniquely despised, and held solely responsible for the Internet’s inherent issues. TikTok’s algorithm is far more addictive than Facebook’s, and <a href="https://www.wsj.com/articles/tiktok-algorithm-sex-drugs-minors-11631052944">dangerous for minors</a>, and YouTube has played perhaps the leading role in the spread of anti-vaccine information, but it is Facebook that gets all of the blame.</p>
+  <h4 id="political-problem-three-facebooks-power">Political Problem Three: Facebook’s Power</h4>
+  <p>There is another, more subtle problem related to the previous point: that Facebook power, which was latent in 2016, and which Zuckerberg made a bid to leverage for a utopian outcome in 2017, is increasingly irresistible to the powers that be. It has been fascinating watching the parade of Congressional hearings where Facebook has been harangued endlessly for not doing enough about misinformation by Democrats, while Republicans demand that Facebook stop censoring; both threaten regulation if the company doesn’t do better. Left unacknowledged by the left is that the company dramatically scaled up the number of people and money devoted to controlling what was allowed on the platform, and what was not; the right, meanwhile, apparently didn’t notice that <a href="https://stratechery.com/2020/zuckerbergs-choice-zuckerbergs-power-zuckerbergs-conviction/">Zuckerberg consistently stood up for Trump’s right to the platform</a>.<sup id="rf2-7756"><a href="https://stratechery.com/2021/facebook-political-problems/#fn2-7756" title="More on January 6 below" rel="footnote">2</a></sup></p>
+  <p>At the same time, this too is a consequence of Facebook’s success with growth: centralized power is, as James Madison wrote in <a href="https://avalon.law.yale.edu/18th_century/fed47.asp">Federalist No. 47</a>, inevitably leveraged for political gain:</p>
+  <blockquote>
+    <p>The accumulation of all powers, legislative, executive, and judiciary, in the same hands, whether of one, a few, or many, and whether hereditary, self-appointed, or elective, may justly be pronounced the very definition of tyranny. Were the federal Constitution, therefore, really chargeable with the accumulation of power, or with a mixture of powers, having a dangerous tendency to such an accumulation, no further arguments would be necessary to inspire a universal reprobation of the system.</p>
+  </blockquote>
+  <p>Madison was obviously talking about government, but isn’t that exactly what Zuckerberg effectively aspired to be? From that manifesto:</p>
+  <blockquote>
+    <p>For the past decade, Facebook has focused on connecting friends and families. With that foundation, our next focus will be developing the social infrastructure for community — for supporting us, for keeping us safe, for informing us, for civic engagement, and for inclusion of all.</p>
+  </blockquote>
+  <p>“Social infrastructure for community” may not be government in the Westphalian sense, but at Facebook scale it is something far more powerful; at the same time, given that Facebook doesn’t have guns, it was inevitable that an all-out effort would be made to capture it.</p>
+  <hr />
+  <p>The reason to present all of these problems in unison is that they all exist in parallel; writing about just one of them, as <a href="https://stratechery.com/2021/facebook-down-the-whistleblower-facebook-power/">I did yesterday</a>, doesn’t mean that I don’t acknowledge the others, particularly the first one, about Facebook internalizing the fundamental flaws inherent in humanity. In other words, to argue that it is not in Facebook’s interest as an ad platform to have angry political discussions doesn’t change the reality that having people interact more will entail more angry political discussions, amongst every other discussion that humans are liable to have.</p>
+  <p>This also makes the case for why I do think the world would be better off were Facebook a much smaller company: its political problems — both for the company and for the world — are irrevocably tied to its size. Unfortunately the only means we have to break a company up — antitrust — don’t really apply; Facebook presents a societal problem, not a competitive one. Moreover, per political problem three, politicians don’t want a smaller Facebook; they want a compliant one.</p>
+  <p>And so, the most likely outcome is that Facebook simply doubles down on information control, perhaps with some regulation that is far more likely to hinder new startups — stricter limits on data, for example, or increasing liability for user-generated content — than it is to materially harm Facebook. Not much will change, at least in the short term.</p>
+  <h4 id="politics-and-internet-30">Politics and Internet 3.0</h4>
+  <p>The capture of Facebook, though, will have consequences, in much the same vein as January’s industry-wide move against Trump; from <a href="https://stratechery.com/2021/internet-3-0-and-the-beginning-of-tech-history/">Internet 3.0 and the Beginning of (Tech) History</a>:</p>
+  <blockquote>
+    <p>It turns out that when it comes to Information Technology, very little is settled; after decades of developing the Internet and realizing its economic potential, the entire world is waking up to the reality that the Internet is not simply a new medium, but a new maker of reality…</p>
+    <p>It is difficult to believe that the discussion of these implications will be reserved for posts on niche sites like Stratechery; the printing press transformed Europe from a continent of city-states loosely tied together by the Catholic Church, to a continent of nation-states with their own state churches. To the extent the Internet is as meaningful a shift — and I think it is! — is inversely correlated to how far along we are in the transformation that will follow — which is to say we have only gotten started. And, after last week, the world is awake to the stakes; politics — not economics — will decide, and be decided by, the Internet.</p>
+    <p>Here technology itself will return to the forefront: if the priority for an increasing number of citizens, companies, and countries is to escape centralization, then the answer will not be competing centralized entities, but rather a return to open protocols (crypto projects are one manifestation of this, but not the only ones). This is the only way to match and perhaps surpass the R&amp;D advantages enjoyed by centralized tech companies; open technologies can be worked on collectively, and forked individually, gaining both the benefits of scale and inevitability of sovereignty and self-determination.</p>
+  </blockquote>
+  <p>The freedom of open source and the self-determination of crypto have always been attractive both technically and philosophically. Centralized platforms like Facebook, though, were just so <em>easy</em>. That, though, is why these political shifts matter: I understand the skepticism about crypto in particular, but I think critics who see only the scams or are focused on the challenges miss the fact that countries want to be sovereign and individuals want to be free. The more that U.S. tech companies are consumed by U.S. politics the more motivation there will be to pull the future forward.</p>
+  <hr class="footnotes" />
+  <ol class="footnotes" style="list-style-type:decimal">
+    <li id="fn1-7756">
+      <p>This is where I am jealous of those who do nothing but attack Facebook; no nuance is, if nothing else, succinct. <a href="https://stratechery.com/2021/facebook-political-problems/#rf1-7756" class="backlink" title="Return to footnote 1.">↩</a></p>
+    </li>
+    <li id="fn2-7756">
+      <p>More on January 6 below <a href="https://stratechery.com/2021/facebook-political-problems/#rf2-7756" class="backlink" title="Return to footnote 2.">↩</a></p>
+    </li>
+  </ol>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2021-10-27</time>
+        <a href="https://nodebe4.github.io/opinion/2021-10-27/Sequoia-Productive-Capital/">
+          Sequoia Productive Capital
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-10-12</time>
+        <a href="https://nodebe4.github.io/opinion/2021-10-12/The-Death-and-Birth-of-Technological-Revolutions/">
+          The Death and Birth of Technological Revolutions
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-09-30</time>
+        <a href="https://nodebe4.github.io/opinion/2021-09-30/Cloudflare-s-Disruption/">
+          Cloudflare’s Disruption
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-09-13</time>
+        <a href="https://nodebe4.github.io/opinion/2021-09-13/The-Apple-v.-Epic-Decision/">
+          The Apple v. Epic Decision
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2021-10-05/CUPodcast-86-%E6%B6%88%E9%99%A4%E6%8A%97%E6%8B%92%E5%BF%83%E7%90%86%E5%B0%8F%E6%8A%80%E5%B7%A7/">
+            前一篇：【*CUPodcast】#86 消除抗拒心理小技巧
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2021-10-06/%E5%BC%A0%E6%98%86%E9%98%B3-%E6%88%91%E5%B8%8C%E6%9C%9B10%E5%B9%B4%E5%86%85%E5%8F%AF%E4%BB%A5%E5%85%89%E5%A4%8D%E9%A6%99%E6%B8%AF-%E8%A7%82%E7%82%B9/">
+            後一篇：张昆阳：我希望10年内可以光复香港｜观点
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2021-10-05/CUPodcast-86-%E6%B6%88%E9%99%A4%E6%8A%97%E6%8B%92%E5%BF%83%E7%90%86%E5%B0%8F%E6%8A%80%E5%B7%A7/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2021-10-06/%E5%BC%A0%E6%98%86%E9%98%B3-%E6%88%91%E5%B8%8C%E6%9C%9B10%E5%B9%B4%E5%86%85%E5%8F%AF%E4%BB%A5%E5%85%89%E5%A4%8D%E9%A6%99%E6%B8%AF-%E8%A7%82%E7%82%B9/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2021-10-12/The-Death-and-Birth-of-Technological-Revolutions/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2021-09-30/Cloudflare-s-Disruption/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2021-10-05/CUPodcast-86-%E6%B6%88%E9%99%A4%E6%8A%97%E6%8B%92%E5%BF%83%E7%90%86%E5%B0%8F%E6%8A%80%E5%B7%A7/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2021-10-06/%E5%BC%A0%E6%98%86%E9%98%B3-%E6%88%91%E5%B8%8C%E6%9C%9B10%E5%B9%B4%E5%86%85%E5%8F%AF%E4%BB%A5%E5%85%89%E5%A4%8D%E9%A6%99%E6%B8%AF-%E8%A7%82%E7%82%B9/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2021-10-12/The-Death-and-Birth-of-Technological-Revolutions/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2021-09-30/Cloudflare-s-Disruption/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

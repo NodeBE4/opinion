@@ -1,0 +1,3371 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Why Web Pages Suck – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+  
+     Why Web Pages Suck 
+    
+  Posted on             Wednesday, July 15, 2015 
+            Tuesday, March 27, 2018 
+     Author  by  Ben Thompson   
+    
+    
+  
+  
+  
+    John Gruber  had strong words  about Apple news site  iMore  :  1 
+    
+      I love iMore. I think they’re the best staff covering Apple today, and their content is great. But  count me in with Nick Heer  — their website is shit-ass. Rene Ritchie’s response acknowledges the problem, but a web page like that — Rene’s 537-word all-text response — should not  weigh 14 MB.1  .
+      It’s not just the download size, long initial page load time, and the ads that cover valuable screen real estate as fixed elements. The fact that these JavaScript trackers hit the network for a full-minute after the page has completed loaded is downright criminal. Advertising should have minimal effect on page load times and device battery life. Advertising should be respectful of the user’s time, attention, and battery life. The industry has gluttonously gone the other way. iMore is not the exception — they’re the norm. 10+ MB page sizes, minute-long network access, third-party networks tracking you across unrelated websites — those things are all par for the course today, even when serving pages to mobile devices. Even on a site like iMore, staffed by good people who truly have deep respect for their readers.
+    
+    It’s that last line that should give Gruber, or anyone else complaining about crappy websites, pause. After all, if iMore respects their readers, the only alternative explanation is that their development team is incompetent. Unless, of course, iMore, along with the vast majority of ad-supported sites on the web, has basically no choice in the matter.
+     Advertisers and the Early Web 
+    Gruber talks about publishers and readers, but if you begin with the premise that web pages need to be free,  2  then the list of stakeholders for most websites is incomplete without the inclusion of advertisers. After all, they’re the ones that pay the bills.
+    Back when the web first became an important medium it actually wasn’t particularly great for advertisers. In the pre-Internet days an advertiser could buy ads in the local paper, perhaps a TV spot or two, put up a billboard and call it a day, confident they were reaching their entire target segment as well as they could. To do the same with web ads, on the other hand, required somehow knowing what websites your target customers were visiting, which could number in the hundreds or thousands, and then buying ads on those websites and crossing your fingers your customers actually saw your ad (although you would never know if they did). It was a mess.
+    The problem was one of scale, and in two dimensions:
+    
+      There were way more places to advertise than before, which sounds great in theory but actually stunk in practice, because who has the time and resources to deal with hundreds or thousands of different ad sales teams?
+      Any one website only knew what its visitors were interested in on that particular website, which meant the targeting ability a website could sell to advertisers was scarcely better than a physical newspaper selling a spot in the Sports section to a gym
+    
+    The result is that  as late as 2010  , when Mary Meeker for the first time used the following slide in her  annual Internet Trends report  , the Internet’s share of advertising was significantly less than its share of attention:
+      
+    Ad networks and programmatic advertising, though, changed everything.
+     The Rise of Ad Networks 
+    Ad networks solved both scale problems:
+    
+      Instead of buying ads on a plethora of (relatively-speaking) little websites, advertisers could centralize their buying with an ad network that promised to place their ads across said plethora.
+      By virtue of having ads — and their associated trackers — across the aforementioned plethora of sites, networks could get a much richer picture of individual visitors giving advertisers the ability to much more finely target their ads.
+    
+    The way it actually works is a little complicated: unlike print ads, which were delivered days ahead of time and inserted along with editorial copy before going to press, ads today are delivered “programmatically”. The process is actually kind of amazing, and consists of several different pieces (my reference to “ad networks” has been a bit simplistic):
+    
+      When a user requests a URL, the publisher checks to see if they have any directly sold ads available (because of the scale problems noted above, fewer and fewer publishers have fewer and fewer directly-sold ads; advertisers just aren’t interested)
+      If they don’t, the publisher asks an ad exchange for an ad
+      The ad exchange, which has built up a profile of the user across all the different sites where the ad exchange is used, sends the (anonymized) user profile and website description to a variety of demand-side platforms (DSPs) (which actually sell the ads)
+      The DSPs examine the user profile and website description and a host of other factors and offers up the price they are willing to pay to serve an ad to the user
+      The ad exchange selects the highest price, retrieves the ad, and sends it to the publisher to display
+    
+    All of this happens on a just-in-time basis, and you can see why advertisers love it: to a greater extent than ever before they are reaching exactly who they want to reach at the most efficient price possible. The result has been a huge increase in advertising on the Internet; look at Meeker’s equivalent slide  from 2015  :
+      
+    Advertisers’ strong preference for programmatic advertising is why it’s so problematic to only discuss publishers and users when it comes to the state of ad-supported web pages: if advertisers are only spending money — and a lot of it — on programmatic advertising, then it follows that the only way for publishers to make money is to use programmatic advertising.
+     The Modularization of Publishing 
+    From publishers’ perspective, the fixed cost of a printing press not only provided a moat from competition, it also meant that publishers displayed ads on their terms. To use the  Conservation of Attractive Profits model  that I discussed last week, publishers were exceptionally profitable for having integrated content and ads in this way:
+      
+    As the description of programmatic advertising should make clear, though, that is no longer the case. Ad spots are effectively black boxes from the publisher perspective, and direct windows to the user from the ad network’s perspective. This has both modularized content and moved ad networks closer to users:
+      
+    Here’s the simple truth: if you’re competing in a modular market, as today’s publishers are, profits are slim at best, and you generally take what you can get from a revenue perspective. To put it another way, publishers today have about as much bargaining power as do Uber drivers, and we’ve seen how that has gone.
+     So What Now? 
+    To this point I’ve discussed ad networks from the advertisers’ perspective; Gruber’s critique, though, was that of a user: he is absolutely correct that the price of efficiency for advertisers is the user experience of the reader. The problem for publishers, though, is that dollars and cents — which come from advertisers — are a far more scarce resource than are page views, leaving publishers with a binary choice: provide a great user experience and go out of business, or muddle along with all of the baggage that relying on advertising networks entails.  3 
+    Again, the solution is not that publishers should try harder to have better ads. The New York Times, arguably the gold standard when it comes to both brand and quality impressions,  noted in its annual report  :
+    
+      Digital advertising networks and exchanges, real-time bidding and other programmatic buying channels that allow advertisers to buy audiences at scale are also playing a more significant role in the advertising marketplace and causing downward pricing pressure.
+    
+    If the New York Times cannot resist programmatic advertising, what chance does iMore or the vast majority of online publications have? If anything this puts Facebook’s Instant Articles initiative in a far more positive light: the social network is offering to not only improve the user experience by displaying articles instantly — thanks, primarily, to the lack of programmatic advertising cruft — but also to help monetize said content by selling ads against it and sharing 70%, backed by profile data that is far superior to even the ad networks.
+    Indeed, arguably the biggest takeaway should be that the chief objection to Facebook’s offer — that publishers are giving up their independence — is a red herring. Publishers are already slaves to the ad networks, and their primary decision at this point is which master — ad networks or Facebook — is preferable?
+    This too provides additional context to Apple’s new News app, which looks an awful lot like Facebook’s offer: publishers put their articles in a common repository that is monetized collectively through iAd, thus achieving advertising scale (and, it should be noted,  more user data  than  Apple’s rhetoric  would suggest). Apple, of course — and this is what prompted this entire discussion — is providing not only a carrot but a stick. Gruber concludes:
+    
+      With Safari Content Blockers, Apple is poised to allow users to fight back. Apple has zeroed in on what we need: not a way to block ads per se, but a way to block obnoxious JavaScript code. A reckoning is coming.
+    
+    It absolutely is, as I  noted when Facebook’s Instant Articles launched  . The future for most publishers is likely that of pure content production only, save for the few —  like Gruber  — who are destination sites capable of selling native advertising in stream (or selling subscriptions,  like this site  ). What is very much in question is exactly how users will feel when they finally get what they claim they wish for.
+    
+      I excerpted most of Gruber’s post — his writing is impressively tight! — with permission [  ↩  ]
+      The experience of the vast majority of publishers is that readers will not pay for content; the exception are sites like this one that keep costs extremely low and focus on primarily analysis, not original reporting [  ↩  ]
+      Advertisers and ad networks, unfortunately, don’t really have an incentive to improve the user experience; there is an effectively unlimited amount of inventory on the web [  ↩  ]
+    
+    
+      
+         Share 
+        
+          
+              Facebook  
+              Twitter  
+              LinkedIn  
+              Email  
+            
+          
+        
+      
+    
+    
+       
+     Related
+     
+    
+  
+  
+
+" />
+    <meta property="og:description" content="
+  
+     Why Web Pages Suck 
+    
+  Posted on             Wednesday, July 15, 2015 
+            Tuesday, March 27, 2018 
+     Author  by  Ben Thompson   
+    
+    
+  
+  
+  
+    John Gruber  had strong words  about Apple news site  iMore  :  1 
+    
+      I love iMore. I think they’re the best staff covering Apple today, and their content is great. But  count me in with Nick Heer  — their website is shit-ass. Rene Ritchie’s response acknowledges the problem, but a web page like that — Rene’s 537-word all-text response — should not  weigh 14 MB.1  .
+      It’s not just the download size, long initial page load time, and the ads that cover valuable screen real estate as fixed elements. The fact that these JavaScript trackers hit the network for a full-minute after the page has completed loaded is downright criminal. Advertising should have minimal effect on page load times and device battery life. Advertising should be respectful of the user’s time, attention, and battery life. The industry has gluttonously gone the other way. iMore is not the exception — they’re the norm. 10+ MB page sizes, minute-long network access, third-party networks tracking you across unrelated websites — those things are all par for the course today, even when serving pages to mobile devices. Even on a site like iMore, staffed by good people who truly have deep respect for their readers.
+    
+    It’s that last line that should give Gruber, or anyone else complaining about crappy websites, pause. After all, if iMore respects their readers, the only alternative explanation is that their development team is incompetent. Unless, of course, iMore, along with the vast majority of ad-supported sites on the web, has basically no choice in the matter.
+     Advertisers and the Early Web 
+    Gruber talks about publishers and readers, but if you begin with the premise that web pages need to be free,  2  then the list of stakeholders for most websites is incomplete without the inclusion of advertisers. After all, they’re the ones that pay the bills.
+    Back when the web first became an important medium it actually wasn’t particularly great for advertisers. In the pre-Internet days an advertiser could buy ads in the local paper, perhaps a TV spot or two, put up a billboard and call it a day, confident they were reaching their entire target segment as well as they could. To do the same with web ads, on the other hand, required somehow knowing what websites your target customers were visiting, which could number in the hundreds or thousands, and then buying ads on those websites and crossing your fingers your customers actually saw your ad (although you would never know if they did). It was a mess.
+    The problem was one of scale, and in two dimensions:
+    
+      There were way more places to advertise than before, which sounds great in theory but actually stunk in practice, because who has the time and resources to deal with hundreds or thousands of different ad sales teams?
+      Any one website only knew what its visitors were interested in on that particular website, which meant the targeting ability a website could sell to advertisers was scarcely better than a physical newspaper selling a spot in the Sports section to a gym
+    
+    The result is that  as late as 2010  , when Mary Meeker for the first time used the following slide in her  annual Internet Trends report  , the Internet’s share of advertising was significantly less than its share of attention:
+      
+    Ad networks and programmatic advertising, though, changed everything.
+     The Rise of Ad Networks 
+    Ad networks solved both scale problems:
+    
+      Instead of buying ads on a plethora of (relatively-speaking) little websites, advertisers could centralize their buying with an ad network that promised to place their ads across said plethora.
+      By virtue of having ads — and their associated trackers — across the aforementioned plethora of sites, networks could get a much richer picture of individual visitors giving advertisers the ability to much more finely target their ads.
+    
+    The way it actually works is a little complicated: unlike print ads, which were delivered days ahead of time and inserted along with editorial copy before going to press, ads today are delivered “programmatically”. The process is actually kind of amazing, and consists of several different pieces (my reference to “ad networks” has been a bit simplistic):
+    
+      When a user requests a URL, the publisher checks to see if they have any directly sold ads available (because of the scale problems noted above, fewer and fewer publishers have fewer and fewer directly-sold ads; advertisers just aren’t interested)
+      If they don’t, the publisher asks an ad exchange for an ad
+      The ad exchange, which has built up a profile of the user across all the different sites where the ad exchange is used, sends the (anonymized) user profile and website description to a variety of demand-side platforms (DSPs) (which actually sell the ads)
+      The DSPs examine the user profile and website description and a host of other factors and offers up the price they are willing to pay to serve an ad to the user
+      The ad exchange selects the highest price, retrieves the ad, and sends it to the publisher to display
+    
+    All of this happens on a just-in-time basis, and you can see why advertisers love it: to a greater extent than ever before they are reaching exactly who they want to reach at the most efficient price possible. The result has been a huge increase in advertising on the Internet; look at Meeker’s equivalent slide  from 2015  :
+      
+    Advertisers’ strong preference for programmatic advertising is why it’s so problematic to only discuss publishers and users when it comes to the state of ad-supported web pages: if advertisers are only spending money — and a lot of it — on programmatic advertising, then it follows that the only way for publishers to make money is to use programmatic advertising.
+     The Modularization of Publishing 
+    From publishers’ perspective, the fixed cost of a printing press not only provided a moat from competition, it also meant that publishers displayed ads on their terms. To use the  Conservation of Attractive Profits model  that I discussed last week, publishers were exceptionally profitable for having integrated content and ads in this way:
+      
+    As the description of programmatic advertising should make clear, though, that is no longer the case. Ad spots are effectively black boxes from the publisher perspective, and direct windows to the user from the ad network’s perspective. This has both modularized content and moved ad networks closer to users:
+      
+    Here’s the simple truth: if you’re competing in a modular market, as today’s publishers are, profits are slim at best, and you generally take what you can get from a revenue perspective. To put it another way, publishers today have about as much bargaining power as do Uber drivers, and we’ve seen how that has gone.
+     So What Now? 
+    To this point I’ve discussed ad networks from the advertisers’ perspective; Gruber’s critique, though, was that of a user: he is absolutely correct that the price of efficiency for advertisers is the user experience of the reader. The problem for publishers, though, is that dollars and cents — which come from advertisers — are a far more scarce resource than are page views, leaving publishers with a binary choice: provide a great user experience and go out of business, or muddle along with all of the baggage that relying on advertising networks entails.  3 
+    Again, the solution is not that publishers should try harder to have better ads. The New York Times, arguably the gold standard when it comes to both brand and quality impressions,  noted in its annual report  :
+    
+      Digital advertising networks and exchanges, real-time bidding and other programmatic buying channels that allow advertisers to buy audiences at scale are also playing a more significant role in the advertising marketplace and causing downward pricing pressure.
+    
+    If the New York Times cannot resist programmatic advertising, what chance does iMore or the vast majority of online publications have? If anything this puts Facebook’s Instant Articles initiative in a far more positive light: the social network is offering to not only improve the user experience by displaying articles instantly — thanks, primarily, to the lack of programmatic advertising cruft — but also to help monetize said content by selling ads against it and sharing 70%, backed by profile data that is far superior to even the ad networks.
+    Indeed, arguably the biggest takeaway should be that the chief objection to Facebook’s offer — that publishers are giving up their independence — is a red herring. Publishers are already slaves to the ad networks, and their primary decision at this point is which master — ad networks or Facebook — is preferable?
+    This too provides additional context to Apple’s new News app, which looks an awful lot like Facebook’s offer: publishers put their articles in a common repository that is monetized collectively through iAd, thus achieving advertising scale (and, it should be noted,  more user data  than  Apple’s rhetoric  would suggest). Apple, of course — and this is what prompted this entire discussion — is providing not only a carrot but a stick. Gruber concludes:
+    
+      With Safari Content Blockers, Apple is poised to allow users to fight back. Apple has zeroed in on what we need: not a way to block ads per se, but a way to block obnoxious JavaScript code. A reckoning is coming.
+    
+    It absolutely is, as I  noted when Facebook’s Instant Articles launched  . The future for most publishers is likely that of pure content production only, save for the few —  like Gruber  — who are destination sites capable of selling native advertising in stream (or selling subscriptions,  like this site  ). What is very much in question is exactly how users will feel when they finally get what they claim they wish for.
+    
+      I excerpted most of Gruber’s post — his writing is impressively tight! — with permission [  ↩  ]
+      The experience of the vast majority of publishers is that readers will not pay for content; the exception are sites like this one that keep costs extremely low and focus on primarily analysis, not original reporting [  ↩  ]
+      Advertisers and ad networks, unfortunately, don’t really have an incentive to improve the user experience; there is an effectively unlimited amount of inventory on the web [  ↩  ]
+    
+    
+      
+         Share 
+        
+          
+              Facebook  
+              Twitter  
+              LinkedIn  
+              Email  
+            
+          
+        
+      
+    
+    
+       
+     Related
+     
+    
+  
+  
+
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Why Web Pages Suck" />
+    <meta property="twitter:title" content="Why Web Pages Suck" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2015%2Fwhy-web-pages-suck%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2015/why-web-pages-suck/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2015/why-web-pages-suck/&text=Why Web Pages Suck&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2015/why-web-pages-suck/&title=Why Web Pages Suck" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2015/why-web-pages-suck/&title=Why Web Pages Suck" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Why Web Pages Suck&body=
+  
+     Why Web Pages Suck 
+    
+  Posted on             Wednesday, July 15, 2015 
+            Tuesday, March 27, 2018 
+     Author  by  Ben Thompson   
+    
+    
+  
+  
+  
+    John Gruber  had strong words  about Apple news site  iMore  :  1 
+    
+      I love iMore. I think they’re the best staff covering Apple today, and their content is great. But  count me in with Nick Heer  — their website is shit-ass. Rene Ritchie’s response acknowledges the problem, but a web page like that — Rene’s 537-word all-text response — should not  weigh 14 MB.1  .
+      It’s not just the download size, long initial page load time, and the ads that cover valuable screen real estate as fixed elements. The fact that these JavaScript trackers hit the network for a full-minute after the page has completed loaded is downright criminal. Advertising should have minimal effect on page load times and device battery life. Advertising should be respectful of the user’s time, attention, and battery life. The industry has gluttonously gone the other way. iMore is not the exception — they’re the norm. 10+ MB page sizes, minute-long network access, third-party networks tracking you across unrelated websites — those things are all par for the course today, even when serving pages to mobile devices. Even on a site like iMore, staffed by good people who truly have deep respect for their readers.
+    
+    It’s that last line that should give Gruber, or anyone else complaining about crappy websites, pause. After all, if iMore respects their readers, the only alternative explanation is that their development team is incompetent. Unless, of course, iMore, along with the vast majority of ad-supported sites on the web, has basically no choice in the matter.
+     Advertisers and the Early Web 
+    Gruber talks about publishers and readers, but if you begin with the premise that web pages need to be free,  2  then the list of stakeholders for most websites is incomplete without the inclusion of advertisers. After all, they’re the ones that pay the bills.
+    Back when the web first became an important medium it actually wasn’t particularly great for advertisers. In the pre-Internet days an advertiser could buy ads in the local paper, perhaps a TV spot or two, put up a billboard and call it a day, confident they were reaching their entire target segment as well as they could. To do the same with web ads, on the other hand, required somehow knowing what websites your target customers were visiting, which could number in the hundreds or thousands, and then buying ads on those websites and crossing your fingers your customers actually saw your ad (although you would never know if they did). It was a mess.
+    The problem was one of scale, and in two dimensions:
+    
+      There were way more places to advertise than before, which sounds great in theory but actually stunk in practice, because who has the time and resources to deal with hundreds or thousands of different ad sales teams?
+      Any one website only knew what its visitors were interested in on that particular website, which meant the targeting ability a website could sell to advertisers was scarcely better than a physical newspaper selling a spot in the Sports section to a gym
+    
+    The result is that  as late as 2010  , when Mary Meeker for the first time used the following slide in her  annual Internet Trends report  , the Internet’s share of advertising was significantly less than its share of attention:
+      
+    Ad networks and programmatic advertising, though, changed everything.
+     The Rise of Ad Networks 
+    Ad networks solved both scale problems:
+    
+      Instead of buying ads on a plethora of (relatively-speaking) little websites, advertisers could centralize their buying with an ad network that promised to place their ads across said plethora.
+      By virtue of having ads — and their associated trackers — across the aforementioned plethora of sites, networks could get a much richer picture of individual visitors giving advertisers the ability to much more finely target their ads.
+    
+    The way it actually works is a little complicated: unlike print ads, which were delivered days ahead of time and inserted along with editorial copy before going to press, ads today are delivered “programmatically”. The process is actually kind of amazing, and consists of several different pieces (my reference to “ad networks” has been a bit simplistic):
+    
+      When a user requests a URL, the publisher checks to see if they have any directly sold ads available (because of the scale problems noted above, fewer and fewer publishers have fewer and fewer directly-sold ads; advertisers just aren’t interested)
+      If they don’t, the publisher asks an ad exchange for an ad
+      The ad exchange, which has built up a profile of the user across all the different sites where the ad exchange is used, sends the (anonymized) user profile and website description to a variety of demand-side platforms (DSPs) (which actually sell the ads)
+      The DSPs examine the user profile and website description and a host of other factors and offers up the price they are willing to pay to serve an ad to the user
+      The ad exchange selects the highest price, retrieves the ad, and sends it to the publisher to display
+    
+    All of this happens on a just-in-time basis, and you can see why advertisers love it: to a greater extent than ever before they are reaching exactly who they want to reach at the most efficient price possible. The result has been a huge increase in advertising on the Internet; look at Meeker’s equivalent slide  from 2015  :
+      
+    Advertisers’ strong preference for programmatic advertising is why it’s so problematic to only discuss publishers and users when it comes to the state of ad-supported web pages: if advertisers are only spending money — and a lot of it — on programmatic advertising, then it follows that the only way for publishers to make money is to use programmatic advertising.
+     The Modularization of Publishing 
+    From publishers’ perspective, the fixed cost of a printing press not only provided a moat from competition, it also meant that publishers displayed ads on their terms. To use the  Conservation of Attractive Profits model  that I discussed last week, publishers were exceptionally profitable for having integrated content and ads in this way:
+      
+    As the description of programmatic advertising should make clear, though, that is no longer the case. Ad spots are effectively black boxes from the publisher perspective, and direct windows to the user from the ad network’s perspective. This has both modularized content and moved ad networks closer to users:
+      
+    Here’s the simple truth: if you’re competing in a modular market, as today’s publishers are, profits are slim at best, and you generally take what you can get from a revenue perspective. To put it another way, publishers today have about as much bargaining power as do Uber drivers, and we’ve seen how that has gone.
+     So What Now? 
+    To this point I’ve discussed ad networks from the advertisers’ perspective; Gruber’s critique, though, was that of a user: he is absolutely correct that the price of efficiency for advertisers is the user experience of the reader. The problem for publishers, though, is that dollars and cents — which come from advertisers — are a far more scarce resource than are page views, leaving publishers with a binary choice: provide a great user experience and go out of business, or muddle along with all of the baggage that relying on advertising networks entails.  3 
+    Again, the solution is not that publishers should try harder to have better ads. The New York Times, arguably the gold standard when it comes to both brand and quality impressions,  noted in its annual report  :
+    
+      Digital advertising networks and exchanges, real-time bidding and other programmatic buying channels that allow advertisers to buy audiences at scale are also playing a more significant role in the advertising marketplace and causing downward pricing pressure.
+    
+    If the New York Times cannot resist programmatic advertising, what chance does iMore or the vast majority of online publications have? If anything this puts Facebook’s Instant Articles initiative in a far more positive light: the social network is offering to not only improve the user experience by displaying articles instantly — thanks, primarily, to the lack of programmatic advertising cruft — but also to help monetize said content by selling ads against it and sharing 70%, backed by profile data that is far superior to even the ad networks.
+    Indeed, arguably the biggest takeaway should be that the chief objection to Facebook’s offer — that publishers are giving up their independence — is a red herring. Publishers are already slaves to the ad networks, and their primary decision at this point is which master — ad networks or Facebook — is preferable?
+    This too provides additional context to Apple’s new News app, which looks an awful lot like Facebook’s offer: publishers put their articles in a common repository that is monetized collectively through iAd, thus achieving advertising scale (and, it should be noted,  more user data  than  Apple’s rhetoric  would suggest). Apple, of course — and this is what prompted this entire discussion — is providing not only a carrot but a stick. Gruber concludes:
+    
+      With Safari Content Blockers, Apple is poised to allow users to fight back. Apple has zeroed in on what we need: not a way to block ads per se, but a way to block obnoxious JavaScript code. A reckoning is coming.
+    
+    It absolutely is, as I  noted when Facebook’s Instant Articles launched  . The future for most publishers is likely that of pure content production only, save for the few —  like Gruber  — who are destination sites capable of selling native advertising in stream (or selling subscriptions,  like this site  ). What is very much in question is exactly how users will feel when they finally get what they claim they wish for.
+    
+      I excerpted most of Gruber’s post — his writing is impressively tight! — with permission [  ↩  ]
+      The experience of the vast majority of publishers is that readers will not pay for content; the exception are sites like this one that keep costs extremely low and focus on primarily analysis, not original reporting [  ↩  ]
+      Advertisers and ad networks, unfortunately, don’t really have an incentive to improve the user experience; there is an effectively unlimited amount of inventory on the web [  ↩  ]
+    
+    
+      
+         Share 
+        
+          
+              Facebook  
+              Twitter  
+              LinkedIn  
+              Email  
+            
+          
+        
+      
+    
+    
+       
+     Related
+     
+    
+  
+  
+
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2015/why-web-pages-suck/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2015/why-web-pages-suck/&title=Why Web Pages Suck&caption=
+  
+     Why Web Pages Suck 
+    
+  Posted on             Wednesday, July 15, 2015 
+            Tuesday, March 27, 2018 
+     Author  by  Ben Thompson   
+    
+    
+  
+  
+  
+    John Gruber  had strong words  about Apple news site  iMore  :  1 
+    
+      I love iMore. I think they’re the best staff covering Apple today, and their content is great. But  count me in with Nick Heer  — their website is shit-ass. Rene Ritchie’s response acknowledges the problem, but a web page like that — Rene’s 537-word all-text response — should not  weigh 14 MB.1  .
+      It’s not just the download size, long initial page load time, and the ads that cover valuable screen real estate as fixed elements. The fact that these JavaScript trackers hit the network for a full-minute after the page has completed loaded is downright criminal. Advertising should have minimal effect on page load times and device battery life. Advertising should be respectful of the user’s time, attention, and battery life. The industry has gluttonously gone the other way. iMore is not the exception — they’re the norm. 10+ MB page sizes, minute-long network access, third-party networks tracking you across unrelated websites — those things are all par for the course today, even when serving pages to mobile devices. Even on a site like iMore, staffed by good people who truly have deep respect for their readers.
+    
+    It’s that last line that should give Gruber, or anyone else complaining about crappy websites, pause. After all, if iMore respects their readers, the only alternative explanation is that their development team is incompetent. Unless, of course, iMore, along with the vast majority of ad-supported sites on the web, has basically no choice in the matter.
+     Advertisers and the Early Web 
+    Gruber talks about publishers and readers, but if you begin with the premise that web pages need to be free,  2  then the list of stakeholders for most websites is incomplete without the inclusion of advertisers. After all, they’re the ones that pay the bills.
+    Back when the web first became an important medium it actually wasn’t particularly great for advertisers. In the pre-Internet days an advertiser could buy ads in the local paper, perhaps a TV spot or two, put up a billboard and call it a day, confident they were reaching their entire target segment as well as they could. To do the same with web ads, on the other hand, required somehow knowing what websites your target customers were visiting, which could number in the hundreds or thousands, and then buying ads on those websites and crossing your fingers your customers actually saw your ad (although you would never know if they did). It was a mess.
+    The problem was one of scale, and in two dimensions:
+    
+      There were way more places to advertise than before, which sounds great in theory but actually stunk in practice, because who has the time and resources to deal with hundreds or thousands of different ad sales teams?
+      Any one website only knew what its visitors were interested in on that particular website, which meant the targeting ability a website could sell to advertisers was scarcely better than a physical newspaper selling a spot in the Sports section to a gym
+    
+    The result is that  as late as 2010  , when Mary Meeker for the first time used the following slide in her  annual Internet Trends report  , the Internet’s share of advertising was significantly less than its share of attention:
+      
+    Ad networks and programmatic advertising, though, changed everything.
+     The Rise of Ad Networks 
+    Ad networks solved both scale problems:
+    
+      Instead of buying ads on a plethora of (relatively-speaking) little websites, advertisers could centralize their buying with an ad network that promised to place their ads across said plethora.
+      By virtue of having ads — and their associated trackers — across the aforementioned plethora of sites, networks could get a much richer picture of individual visitors giving advertisers the ability to much more finely target their ads.
+    
+    The way it actually works is a little complicated: unlike print ads, which were delivered days ahead of time and inserted along with editorial copy before going to press, ads today are delivered “programmatically”. The process is actually kind of amazing, and consists of several different pieces (my reference to “ad networks” has been a bit simplistic):
+    
+      When a user requests a URL, the publisher checks to see if they have any directly sold ads available (because of the scale problems noted above, fewer and fewer publishers have fewer and fewer directly-sold ads; advertisers just aren’t interested)
+      If they don’t, the publisher asks an ad exchange for an ad
+      The ad exchange, which has built up a profile of the user across all the different sites where the ad exchange is used, sends the (anonymized) user profile and website description to a variety of demand-side platforms (DSPs) (which actually sell the ads)
+      The DSPs examine the user profile and website description and a host of other factors and offers up the price they are willing to pay to serve an ad to the user
+      The ad exchange selects the highest price, retrieves the ad, and sends it to the publisher to display
+    
+    All of this happens on a just-in-time basis, and you can see why advertisers love it: to a greater extent than ever before they are reaching exactly who they want to reach at the most efficient price possible. The result has been a huge increase in advertising on the Internet; look at Meeker’s equivalent slide  from 2015  :
+      
+    Advertisers’ strong preference for programmatic advertising is why it’s so problematic to only discuss publishers and users when it comes to the state of ad-supported web pages: if advertisers are only spending money — and a lot of it — on programmatic advertising, then it follows that the only way for publishers to make money is to use programmatic advertising.
+     The Modularization of Publishing 
+    From publishers’ perspective, the fixed cost of a printing press not only provided a moat from competition, it also meant that publishers displayed ads on their terms. To use the  Conservation of Attractive Profits model  that I discussed last week, publishers were exceptionally profitable for having integrated content and ads in this way:
+      
+    As the description of programmatic advertising should make clear, though, that is no longer the case. Ad spots are effectively black boxes from the publisher perspective, and direct windows to the user from the ad network’s perspective. This has both modularized content and moved ad networks closer to users:
+      
+    Here’s the simple truth: if you’re competing in a modular market, as today’s publishers are, profits are slim at best, and you generally take what you can get from a revenue perspective. To put it another way, publishers today have about as much bargaining power as do Uber drivers, and we’ve seen how that has gone.
+     So What Now? 
+    To this point I’ve discussed ad networks from the advertisers’ perspective; Gruber’s critique, though, was that of a user: he is absolutely correct that the price of efficiency for advertisers is the user experience of the reader. The problem for publishers, though, is that dollars and cents — which come from advertisers — are a far more scarce resource than are page views, leaving publishers with a binary choice: provide a great user experience and go out of business, or muddle along with all of the baggage that relying on advertising networks entails.  3 
+    Again, the solution is not that publishers should try harder to have better ads. The New York Times, arguably the gold standard when it comes to both brand and quality impressions,  noted in its annual report  :
+    
+      Digital advertising networks and exchanges, real-time bidding and other programmatic buying channels that allow advertisers to buy audiences at scale are also playing a more significant role in the advertising marketplace and causing downward pricing pressure.
+    
+    If the New York Times cannot resist programmatic advertising, what chance does iMore or the vast majority of online publications have? If anything this puts Facebook’s Instant Articles initiative in a far more positive light: the social network is offering to not only improve the user experience by displaying articles instantly — thanks, primarily, to the lack of programmatic advertising cruft — but also to help monetize said content by selling ads against it and sharing 70%, backed by profile data that is far superior to even the ad networks.
+    Indeed, arguably the biggest takeaway should be that the chief objection to Facebook’s offer — that publishers are giving up their independence — is a red herring. Publishers are already slaves to the ad networks, and their primary decision at this point is which master — ad networks or Facebook — is preferable?
+    This too provides additional context to Apple’s new News app, which looks an awful lot like Facebook’s offer: publishers put their articles in a common repository that is monetized collectively through iAd, thus achieving advertising scale (and, it should be noted,  more user data  than  Apple’s rhetoric  would suggest). Apple, of course — and this is what prompted this entire discussion — is providing not only a carrot but a stick. Gruber concludes:
+    
+      With Safari Content Blockers, Apple is poised to allow users to fight back. Apple has zeroed in on what we need: not a way to block ads per se, but a way to block obnoxious JavaScript code. A reckoning is coming.
+    
+    It absolutely is, as I  noted when Facebook’s Instant Articles launched  . The future for most publishers is likely that of pure content production only, save for the few —  like Gruber  — who are destination sites capable of selling native advertising in stream (or selling subscriptions,  like this site  ). What is very much in question is exactly how users will feel when they finally get what they claim they wish for.
+    
+      I excerpted most of Gruber’s post — his writing is impressively tight! — with permission [  ↩  ]
+      The experience of the vast majority of publishers is that readers will not pay for content; the exception are sites like this one that keep costs extremely low and focus on primarily analysis, not original reporting [  ↩  ]
+      Advertisers and ad networks, unfortunately, don’t really have an incentive to improve the user experience; there is an effectively unlimited amount of inventory on the web [  ↩  ]
+    
+    
+      
+         Share 
+        
+          
+              Facebook  
+              Twitter  
+              LinkedIn  
+              Email  
+            
+          
+        
+      
+    
+    
+       
+     Related
+     
+    
+  
+  
+
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Why Web Pages Suck&url=https://stratechery.com/2015/why-web-pages-suck/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Why Web Pages Suck</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2015-07-15
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2015/why-web-pages-suck/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <article class="post-1755 post type-post status-publish format-standard has-post-thumbnail hentry category-articles topics-digital topics-publishing concepts-advertising concepts-business-models concepts-disruption-theory concepts-evolution-of-technology concepts-history concepts-media concepts-media-and-advertising concepts-modular-versus-integrated" id="post-1755">
+  <header class="entry-header">
+    <h1 class="entry-title" id="why-web-pages-suck-"> Why Web Pages Suck </h1>
+    <div class="entry-meta">
+<span class="posted-on"> <span class="screen-reader-text"> Posted on </span>           <time class="entry-date published" datetime="2015-07-15T00:59:55-07:00"> Wednesday, July 15, 2015 </time>
+           <time class="updated" datetime="2018-03-27T02:46:18-07:00"> Tuesday, March 27, 2018 </time>
+ </span> <span class="byline"> <span class="author vcard"> <span class="screen-reader-text"> Author </span> by <a class="url fn n" href="https://stratechery.com/author/stratechery/"> Ben Thompson </a> </span> </span>
+    </div>
+    <!-- .entry-meta -->
+  </header>
+  <!-- .entry-header -->
+  <div class="entry-content">
+    <p>John Gruber <a href="http://daringfireball.net/2015/07/safari_content_blocker_imore"> had strong words </a> about Apple news site <a href="http://daringfireball.net/2015/07/safari_content_blocker_imore"> iMore </a> : <a class="footnote-link footnote-identifier-link" href="#footnote_0_1755" id="identifier_0_1755" title="I excerpted most of Gruber’s post — his writing is impressively tight! — with permission"> 1 </a></p>
+    <blockquote>
+      <p>I love iMore. I think they’re the best staff covering Apple today, and their content is great. But <a href="http://pxlnv.com/linklog/safari-content-blockers-shit-ass-websites/"> count me in with Nick Heer </a> — their website is shit-ass. Rene Ritchie’s response acknowledges the problem, but a web page like that — Rene’s 537-word all-text response — should not <a href="http://d.pr/i/19HMF"> weigh 14 MB.1 </a> .</p>
+      <p>It’s not just the download size, long initial page load time, and the ads that cover valuable screen real estate as fixed elements. The fact that these JavaScript trackers hit the network for a full-minute after the page has completed loaded is downright criminal. Advertising should have minimal effect on page load times and device battery life. Advertising should be respectful of the user’s time, attention, and battery life. The industry has gluttonously gone the other way. iMore is not the exception — they’re the norm. 10+ MB page sizes, minute-long network access, third-party networks tracking you across unrelated websites — those things are all par for the course today, even when serving pages to mobile devices. Even on a site like iMore, staffed by good people who truly have deep respect for their readers.</p>
+    </blockquote>
+    <p>It’s that last line that should give Gruber, or anyone else complaining about crappy websites, pause. After all, if iMore respects their readers, the only alternative explanation is that their development team is incompetent. Unless, of course, iMore, along with the vast majority of ad-supported sites on the web, has basically no choice in the matter.</p>
+    <h4 id="advertisers-and-the-early-web-"> Advertisers and the Early Web </h4>
+    <p>Gruber talks about publishers and readers, but if you begin with the premise that web pages need to be free, <a class="footnote-link footnote-identifier-link" href="#footnote_1_1755" id="identifier_1_1755" title="The experience of the vast majority of publishers is that readers will not pay for content; the exception are sites like this one that keep costs extremely low and focus on primarily analysis, not original reporting"> 2 </a> then the list of stakeholders for most websites is incomplete without the inclusion of advertisers. After all, they’re the ones that pay the bills.</p>
+    <p>Back when the web first became an important medium it actually wasn’t particularly great for advertisers. In the pre-Internet days an advertiser could buy ads in the local paper, perhaps a TV spot or two, put up a billboard and call it a day, confident they were reaching their entire target segment as well as they could. To do the same with web ads, on the other hand, required somehow knowing what websites your target customers were visiting, which could number in the hundreds or thousands, and then buying ads on those websites and crossing your fingers your customers actually saw your ad (although you would never know if they did). It was a mess.</p>
+    <p>The problem was one of scale, and in two dimensions:</p>
+    <ul>
+      <li>There were way more places to advertise than before, which sounds great in theory but actually stunk in practice, because who has the time and resources to deal with hundreds or thousands of different ad sales teams?</li>
+      <li>Any one website only knew what its visitors were interested in on that particular website, which meant the targeting ability a website could sell to advertisers was scarcely better than a physical newspaper selling a spot in the Sports section to a gym</li>
+    </ul>
+    <p>The result is that <a href="http://www.kpcb.com/blog/june-2010-internet-trends"> as late as 2010 </a> , when Mary Meeker for the first time used the following slide in her <a href="http://www.kpcb.com/internet-trends"> annual Internet Trends report </a> , the Internet’s share of advertising was significantly less than its share of attention:</p>
+    <p><a href="http://www.kpcb.com/blog/june-2010-internet-trends"> <img alt="meeker2010" class="aligncenter size-large wp-image-1760" height="479" sizes="(max-width: 640px) 100vw, 640px" src="https://stratechery.com/wp-content/uploads/2015/07/meeker2010-1024x767.png" srcset="https://stratechery.com/wp-content/uploads/2015/07/meeker2010-1024x767.png 1024w, https://stratechery.com/wp-content/uploads/2015/07/meeker2010-300x225.png 300w, https://stratechery.com/wp-content/uploads/2015/07/meeker2010-768x575.png 768w, https://stratechery.com/wp-content/uploads/2015/07/meeker2010-841x630.png 841w" width="640" /> </a></p>
+    <p>Ad networks and programmatic advertising, though, changed everything.</p>
+    <h4 id="the-rise-of-ad-networks-"> The Rise of Ad Networks </h4>
+    <p>Ad networks solved both scale problems:</p>
+    <ul>
+      <li>Instead of buying ads on a plethora of (relatively-speaking) little websites, advertisers could centralize their buying with an ad network that promised to place their ads across said plethora.</li>
+      <li>By virtue of having ads — and their associated trackers — across the aforementioned plethora of sites, networks could get a much richer picture of individual visitors giving advertisers the ability to much more finely target their ads.</li>
+    </ul>
+    <p>The way it actually works is a little complicated: unlike print ads, which were delivered days ahead of time and inserted along with editorial copy before going to press, ads today are delivered “programmatically”. The process is actually kind of amazing, and consists of several different pieces (my reference to “ad networks” has been a bit simplistic):</p>
+    <ul>
+      <li>When a user requests a URL, the publisher checks to see if they have any directly sold ads available (because of the scale problems noted above, fewer and fewer publishers have fewer and fewer directly-sold ads; advertisers just aren’t interested)</li>
+      <li>If they don’t, the publisher asks an ad exchange for an ad</li>
+      <li>The ad exchange, which has built up a profile of the user across all the different sites where the ad exchange is used, sends the (anonymized) user profile and website description to a variety of demand-side platforms (DSPs) (which actually sell the ads)</li>
+      <li>The DSPs examine the user profile and website description and a host of other factors and offers up the price they are willing to pay to serve an ad to the user</li>
+      <li>The ad exchange selects the highest price, retrieves the ad, and sends it to the publisher to display</li>
+    </ul>
+    <p>All of this happens on a just-in-time basis, and you can see why advertisers love it: to a greater extent than ever before they are reaching exactly who they want to reach at the most efficient price possible. The result has been a huge increase in advertising on the Internet; look at Meeker’s equivalent slide <a href="http://www.kpcb.com/blog/2015-internet-trends"> from 2015 </a> :</p>
+    <p><a href="http://www.kpcb.com/blog/2015-internet-trends"> <img alt="meeker2015" class="aligncenter size-large wp-image-1761" height="479" sizes="(max-width: 640px) 100vw, 640px" src="https://stratechery.com/wp-content/uploads/2015/07/meeker2015-1024x766.png" srcset="https://stratechery.com/wp-content/uploads/2015/07/meeker2015-1024x766.png 1024w, https://stratechery.com/wp-content/uploads/2015/07/meeker2015-300x224.png 300w, https://stratechery.com/wp-content/uploads/2015/07/meeker2015-768x574.png 768w, https://stratechery.com/wp-content/uploads/2015/07/meeker2015-843x630.png 843w" width="640" /> </a></p>
+    <p>Advertisers’ strong preference for programmatic advertising is why it’s so problematic to only discuss publishers and users when it comes to the state of ad-supported web pages: if advertisers are only spending money — and a lot of it — on programmatic advertising, then it follows that the only way for publishers to make money is to use programmatic advertising.</p>
+    <h4 id="the-modularization-of-publishing-"> The Modularization of Publishing </h4>
+    <p>From publishers’ perspective, the fixed cost of a printing press not only provided a moat from competition, it also meant that publishers displayed ads on their terms. To use the <a href="https://stratechery.com/2015/netflix-and-the-conservation-of-attractive-profits/"> Conservation of Attractive Profits model </a> that I discussed last week, publishers were exceptionally profitable for having integrated content and ads in this way:</p>
+    <p><a href="https://stratechery.com/wp-content/uploads/2015/07/print.png"> <img alt="print" class="aligncenter size-large wp-image-1757" height="98" sizes="(max-width: 640px) 100vw, 640px" src="https://stratechery.com/wp-content/uploads/2015/07/print-1024x157.png" srcset="https://stratechery.com/wp-content/uploads/2015/07/print-1024x157.png 1024w, https://stratechery.com/wp-content/uploads/2015/07/print-300x46.png 300w, https://stratechery.com/wp-content/uploads/2015/07/print-768x118.png 768w, https://stratechery.com/wp-content/uploads/2015/07/print-1200x184.png 1200w, https://stratechery.com/wp-content/uploads/2015/07/print.png 1900w" width="640" /> </a></p>
+    <p>As the description of programmatic advertising should make clear, though, that is no longer the case. Ad spots are effectively black boxes from the publisher perspective, and direct windows to the user from the ad network’s perspective. This has both modularized content and moved ad networks closer to users:</p>
+    <p><a href="https://stratechery.com/wp-content/uploads/2015/07/internet.png"> <img alt="internet" class="aligncenter size-large wp-image-1756" height="149" sizes="(max-width: 640px) 100vw, 640px" src="https://stratechery.com/wp-content/uploads/2015/07/internet-1024x238.png" srcset="https://stratechery.com/wp-content/uploads/2015/07/internet-1024x238.png 1024w, https://stratechery.com/wp-content/uploads/2015/07/internet-300x70.png 300w, https://stratechery.com/wp-content/uploads/2015/07/internet-768x178.png 768w, https://stratechery.com/wp-content/uploads/2015/07/internet-1200x279.png 1200w, https://stratechery.com/wp-content/uploads/2015/07/internet.png 1887w" width="640" /> </a></p>
+    <p>Here’s the simple truth: if you’re competing in a modular market, as today’s publishers are, profits are slim at best, and you generally take what you can get from a revenue perspective. To put it another way, publishers today have about as much bargaining power as do Uber drivers, and we’ve seen how that has gone.</p>
+    <h4 id="so-what-now-"> So What Now? </h4>
+    <p>To this point I’ve discussed ad networks from the advertisers’ perspective; Gruber’s critique, though, was that of a user: he is absolutely correct that the price of efficiency for advertisers is the user experience of the reader. The problem for publishers, though, is that dollars and cents — which come from advertisers — are a far more scarce resource than are page views, leaving publishers with a binary choice: provide a great user experience and go out of business, or muddle along with all of the baggage that relying on advertising networks entails. <a class="footnote-link footnote-identifier-link" href="#footnote_2_1755" id="identifier_2_1755" title="Advertisers and ad networks, unfortunately, don’t really have an incentive to improve the user experience; there is an effectively unlimited amount of inventory on the web"> 3 </a></p>
+    <p>Again, the solution is not that publishers should try harder to have better ads. The New York Times, arguably the gold standard when it comes to both brand and quality impressions, <a href="http://investors.nytco.com/files/doc_financials/annual/2014/2014-Annual-Report-(FINAL).pdf"> noted in its annual report </a> :</p>
+    <blockquote>
+      <p>Digital advertising networks and exchanges, real-time bidding and other programmatic buying channels that allow advertisers to buy audiences at scale are also playing a more significant role in the advertising marketplace and causing downward pricing pressure.</p>
+    </blockquote>
+    <p>If the New York Times cannot resist programmatic advertising, what chance does iMore or the vast majority of online publications have? If anything this puts Facebook’s Instant Articles initiative in a far more positive light: the social network is offering to not only improve the user experience by displaying articles instantly — thanks, primarily, to the lack of programmatic advertising cruft — but also to help monetize said content by selling ads against it and sharing 70%, backed by profile data that is far superior to even the ad networks.</p>
+    <p>Indeed, arguably the biggest takeaway should be that the chief objection to Facebook’s offer — that publishers are giving up their independence — is a red herring. Publishers are already slaves to the ad networks, and their primary decision at this point is which master — ad networks or Facebook — is preferable?</p>
+    <p>This too provides additional context to Apple’s new News app, which looks an awful lot like Facebook’s offer: publishers put their articles in a common repository that is monetized collectively through iAd, thus achieving advertising scale (and, it should be noted, <a href="https://developer.apple.com/library/prerelease/ios/documentation/General/Conceptual/News_Publishing_Guide/MonetizingonNews.html#//apple_ref/doc/uid/TP40015407-CH18-SW1"> more user data </a> than <a href="https://stratechery.com/2015/tim-cooks-unfair-and-unrealistic-privacy-speech-strategy-credits-the-privacy-priority-problem/"> Apple’s rhetoric </a> would suggest). Apple, of course — and this is what prompted this entire discussion — is providing not only a carrot but a stick. Gruber concludes:</p>
+    <blockquote>
+      <p>With Safari Content Blockers, Apple is poised to allow users to fight back. Apple has zeroed in on what we need: not a way to block ads per se, but a way to block obnoxious JavaScript code. A reckoning is coming.</p>
+    </blockquote>
+    <p>It absolutely is, as I <a href="https://stratechery.com/2015/facebook-reckoning/"> noted when Facebook’s Instant Articles launched </a> . The future for most publishers is likely that of pure content production only, save for the few — <a href="http://daringfireball.net/feeds/sponsors/"> like Gruber </a> — who are destination sites capable of selling native advertising in stream (or selling subscriptions, <a href="https://stratechery.com/membership/"> like this site </a> ). What is very much in question is exactly how users will feel when they finally get what they claim they wish for.</p>
+    <ol class="footnotes">
+      <li class="footnote" id="footnote_0_1755">I excerpted most of Gruber’s post — his writing is impressively tight! — with permission [ <a class="footnote-link footnote-back-link" href="#identifier_0_1755"> ↩ </a> ]</li>
+      <li class="footnote" id="footnote_1_1755">The experience of the vast majority of publishers is that readers will not pay for content; the exception are sites like this one that keep costs extremely low and focus on primarily analysis, not original reporting [ <a class="footnote-link footnote-back-link" href="#identifier_1_1755"> ↩ </a> ]</li>
+      <li class="footnote" id="footnote_2_1755">Advertisers and ad networks, unfortunately, don’t really have an incentive to improve the user experience; there is an effectively unlimited amount of inventory on the web [ <a class="footnote-link footnote-back-link" href="#identifier_2_1755"> ↩ </a> ]</li>
+    </ol>
+    <div class="sharedaddy sd-sharing-enabled">
+      <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
+        <h3 class="sd-title" id="share-"> Share </h3>
+        <div class="sd-content">
+          <ul>
+            <li class="share-facebook"><a class="share-facebook sd-button share-icon" data-shared="sharing-facebook-1755" href="https://stratechery.com/2015/why-web-pages-suck/?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Facebook"> <span> Facebook </span> </a></li>
+            <li class="share-twitter"><a class="share-twitter sd-button share-icon" data-shared="sharing-twitter-1755" href="https://stratechery.com/2015/why-web-pages-suck/?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Twitter"> <span> Twitter </span> </a></li>
+            <li class="share-linkedin"><a class="share-linkedin sd-button share-icon" data-shared="sharing-linkedin-1755" href="https://stratechery.com/2015/why-web-pages-suck/?share=linkedin" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on LinkedIn"> <span> LinkedIn </span> </a></li>
+            <li class="share-email"><a class="share-email sd-button share-icon" data-shared="" href="https://stratechery.com/2015/why-web-pages-suck/?share=email" rel="nofollow noopener noreferrer" target="_blank" title="Click to email this to a friend"> <span> Email </span> </a></li>
+            <li class="share-end"></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="jp-relatedposts" id="jp-relatedposts">
+      <h3 class="jp-relatedposts-headline" id="related"> <em>
+     Related
+    </em> </h3>
+    </div>
+  </div>
+  <!-- .entry-content -->
+</article>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2015-07-29</time>
+        <a href="https://nodebe4.github.io/opinion/2015-07-29/The_Case_for_Jack_Dorsey_Twitter_CEO/">
+          The Case for Jack Dorsey, Twitter CEO
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2015-07-21</time>
+        <a href="https://nodebe4.github.io/opinion/2015-07-21/Aggregation_Theory/">
+          Aggregation Theory
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2015-07-08</time>
+        <a href="https://nodebe4.github.io/opinion/2015-07-08/Netflix_and_the_Conservation_of_Attractive_Profits/">
+          Netflix and the Conservation of Attractive Profits
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2015-07-01</time>
+        <a href="https://nodebe4.github.io/opinion/2015-07-01/Airbnb_and_the_Internet_Revolution/">
+          Airbnb and the Internet Revolution
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2015-07-15/%E5%BC%A0%E6%9E%97-%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E4%B8%8D%E5%BF%85-%E6%89%93%E5%81%87%E4%B8%96%E7%95%8C%E6%9C%80%E5%BC%BA/">
+            前一篇：张林：阿里巴巴不必“打假世界最强”
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2015-07-16/%E9%AB%98%E6%94%80%E7%9A%84%E5%A9%9A%E5%A7%BB%E6%9B%B4%E4%BB%A4%E4%BA%BA%E6%BB%A1%E6%84%8F%E5%90%97/">
+            後一篇：高攀的婚姻更令人满意吗？
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2015-07-15/%E5%BC%A0%E6%9E%97-%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E4%B8%8D%E5%BF%85-%E6%89%93%E5%81%87%E4%B8%96%E7%95%8C%E6%9C%80%E5%BC%BA/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2015-07-16/%E9%AB%98%E6%94%80%E7%9A%84%E5%A9%9A%E5%A7%BB%E6%9B%B4%E4%BB%A4%E4%BA%BA%E6%BB%A1%E6%84%8F%E5%90%97/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2015-07-21/Aggregation_Theory/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2015-07-08/Netflix_and_the_Conservation_of_Attractive_Profits/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2015-07-15/%E5%BC%A0%E6%9E%97-%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E4%B8%8D%E5%BF%85-%E6%89%93%E5%81%87%E4%B8%96%E7%95%8C%E6%9C%80%E5%BC%BA/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2015-07-16/%E9%AB%98%E6%94%80%E7%9A%84%E5%A9%9A%E5%A7%BB%E6%9B%B4%E4%BB%A4%E4%BA%BA%E6%BB%A1%E6%84%8F%E5%90%97/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2015-07-21/Aggregation_Theory/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2015-07-08/Netflix_and_the_Conservation_of_Attractive_Profits/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

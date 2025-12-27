@@ -1,0 +1,606 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>从罢工打手到工会咨询：美国反工会产业的历史 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+从罢工打手到工会咨询：美国反工会产业的历史
+——
+" />
+    <meta property="og:description" content="
+从罢工打手到工会咨询：美国反工会产业的历史
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="从罢工打手到工会咨询：美国反工会产业的历史" />
+    <meta property="twitter:title" content="从罢工打手到工会咨询：美国反工会产业的历史" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fgravitysworm.com%2Fpost%2F189779639617" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://gravitysworm.com/post/189779639617" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://gravitysworm.com/post/189779639617&text=从罢工打手到工会咨询：美国反工会产业的历史&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://gravitysworm.com/post/189779639617&title=从罢工打手到工会咨询：美国反工会产业的历史" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://gravitysworm.com/post/189779639617&title=从罢工打手到工会咨询：美国反工会产业的历史" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=从罢工打手到工会咨询：美国反工会产业的历史&body=
+从罢工打手到工会咨询：美国反工会产业的历史
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://gravitysworm.com/post/189779639617" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://gravitysworm.com/post/189779639617&title=从罢工打手到工会咨询：美国反工会产业的历史&caption=
+从罢工打手到工会咨询：美国反工会产业的历史
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=从罢工打手到工会咨询：美国反工会产业的历史&url=https://gravitysworm.com/post/189779639617" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>从罢工打手到工会咨询：美国反工会产业的历史</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2019-12-20
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#萬有引力之蟲">
+          萬有引力之蟲
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://gravitysworm.com/post/189779639617" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="萬有引力之蟲的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#萬有引力之蟲 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1576874632000-->
+<p><a href="https://gravitysworm.com/post/189779639617">从罢工打手到工会咨询：美国反工会产业的历史</a>
+——</p>
+
+<div>
+  <p><em>为了平衡一下《爱尔兰人》写的….澎湃版本：</em><a href="https://www.thepaper.cn/newsDetail_forward_5263691" target="_blank">https://www.thepaper.cn/newsDetail_forward_5263691</a> </p>
+  <p>上月，媒体爆出谷歌雇佣了一个反工会咨询公司，并在感恩节前报复性解雇了四名参与去年“集体出走”和工会组织工作的员工（这周又解雇了<a href="https://www.motherjones.com/politics/2019/12/google-union-kathryn-spiers/" target="_blank">第五位</a>）。这是今年即Kickstarter后，第二家解雇工会积极分子的科技公司。在一众垄断科技集团和独角兽中，谷歌曾是对旗下工人参与社会运动容忍度较高的公司，如今面对科技领域蓬勃发展的劳工自组织，也终于撕下了进步主义的假面。在美国，以咨询公司为明目存在的反工会组织是资方干扰劳工动员的标配，其背后反映的是一百多年来反工会产业的演进。尽管和劳工运动的起落往往齐头并进，反工会产业上的公众关注和历史研究远远不及前者。媒体乐意八卦《爱尔兰人》中美国工会和黑帮藕断丝连的政治交易，却鲜有挖掘历史上反工会行业背后根深蒂固的政商黑网络。 </p>
+  <p><strong>20世纪初的私人武装与罢工监视</strong></p>
+  <p>自现代劳工运动伊始，就有了对应的反工会产业，而美国的特殊之处在于其产业浓厚的社会运动属性。19世纪末20世纪初，美国是发达工业国家中唯一一个企业采用私人代理人和雇佣军解决劳资矛盾的国家，欧洲则一般只派出国民警卫队等正规军。这种民间代理人模式在美国其他社会运动中也很常见。社会学家艾萨克·马丁在关于富人减税运动的研究中指出，由于缺乏与工人阶级斡旋的经验，富人基本都是找代理人帮自己干脏活，这些代理人往往深谙社会运动的斗争方法，不少还是后来“叛变”到保守派阵营的激进无产者，他们从当时的女权和劳工运动中汲取了丰富的营养。 </p>
+  <p>1850年由苏格兰移民Allan Pinkerton创办的平克顿侦探事务所，是反工会的历史上绕不开的核心代理人。自成立伊始到19世纪末，平克顿雇佣的工会打手和间谍参与了至少70起关键的劳资冲突。其最著名的战役发生在1892年，受卡耐基钢铁的委托，300名平克顿雇佣军和罢工工人发生交火。卡耐基最终成功瓦解了工会，也间接导致钢铁工业的工会组织停滞了近半个世纪。平克顿的雇佣网络如此成熟，以至于当时国家能力还非常有限的美国政府都通过其来打击境内割据的匪帮势力。这段故事经过改编，最终出现在了<a href="https://reddead.fandom.com/wiki/Pinkerton_National_Detective_Agency" target="_blank">荒野大镖客2</a>的游戏主线剧情里。  </p>
+  <p>20世纪初欧洲移民涌入美国大城市和国际左翼无政府思潮的传播，迫使企业雇佣大量的私人武装，从而让美国的劳工斗争变得极为血腥。1909年，宾州Pressed Steel Car 来自16个不同国家的八千名工人以世界产业工人联合会（IWW）为名罢工。绵延近两个月的罢工成了移民工人、资方雇佣的同样多是移民的罢工捣乱者，和地方警察间的大混战。尽管最终IWW赢得了谈判权，冲突最终导致22人死亡。IWW这场带血的胜利也同时刺激到了美国政治精英和资方，间接导致十年后司法部利用帕尔默大搜捕对IWW进行毁灭性清洗。 </p>
+  <p>雇主得以有恃无恐地雇佣私人武装，也反映了当时美国政府的默许态度。20世纪初的美国政府对雇主购买军火几乎不加任何限制，导致私人雇佣军的装备逐渐达到堪比正规警察甚至军队的水平，甚至还出现了私人武装和军队合伙从同一军火商购买装备、互相分享军火商信息的情况。1912-1921年间西弗吉尼亚州的煤矿战役（West Virginia Coal Wars）中，雇主的装备精良程度就赶上了并肩作战的正规军警。 </p>
+  <p>与私人武装并存的是渗透到每个工人组织单位的间谍和线人。这些代理人不仅针对普通工人下手，还会挖掘工人的社会网络，从劳工的亲属朋友身上找到瓦解罢工的突破点。比如不少女性代理人会访问男工的家庭，向其伴侣哭诉参与罢工将如何毁灭一个家庭的未来。有时候，平克顿这类资深机构派出的线人可以一直被提拔到工会上层，直到真正罢工时才露出真面目。尽管1935年通过的瓦格纳法案判定公司雇人监视劳工属于不正当行为，各种违法监听和跟踪手段依然大行其道。当时国会针对劳工问题的特别调查委员会引述了一起惊人的案例：密歇根兰辛的一家通用汽车厂秘密雇佣了七个线人来破坏工会动员，最终除去这七个人，所有工会成员都被资方精准定点清除。委员会调查取证发现这七个人居然互不相识，因为通用汽车为了减少叛变可能让他们对不同的中介公司负责。 </p>
+  <p>方兴未艾的反工会产业养肥了一批野心家。被人称作First King of Strikebreaker的Jack Whitehead曾经是匹兹堡钢铁行业的熟练工，后来转而从事打击自己行业劳工的活动，直到1901年退休。仅通过成功干预一次罢工，Whitehead可以坐收一万美金报酬（约等于现在的三十万）。他是历史上第一个通过调用异地人手来镇压工会运动的组织者，其使用常备军的做法也被后人所沿用。紧接着Whitehead成名的是纽约的James Farley，他在轨道交通业埋下了深厚的人脉，声称可以随时调集七千到八千人参与各类反罢工。1905年，他仅用不到一周就搞垮了纽约地铁工人罢工，并将成功经验复制到了芝加哥和三番。与前任Whitehead类似，Farley退休时的个人财产同样翻了几百倍。不过和Farley昔日的下属，真正的反工会之王Pearl Bergoff比，这些数字都算不上什么。直到1936年Byrnes Act判定跨州运送反罢工劳力为重罪，Bergoff在三十年职业生涯中干扰了三百多次罢工。早在1907年，因为成功扰乱纽约垃圾运输工的罢工，纽约市政府就一次性奖励了他2.4万美金。Pressed Steel Car冲突后，Bergoff身价暴涨，企业支付的酬劳一次可高达两百万。他用获利在临近曼哈顿的新泽西Bayonne盖了当地最大的一栋办公楼。 </p>
+  <p><strong>失业大军，黑人劳工与精英学生：反工会产业的雇佣体系</strong></p>
+  <p>整个20世纪上半叶，企业对干预罢工的高需求催生出了成熟的打手和线人雇佣产业链。1930年代，福特汽车公司旗下有专门镇压劳工运动的私人武装，估计人数为3500到6000人，是当时世界上最大的私人军队。在纽约等工业密集的大城市涌现出数量匹敌出租车行的私人事务所，用于在全国范围内调集人力为企业寻觅适合的代理人。纽约著名中介公司Berghoff Bros. &amp; Waddell一手遮天，声称可以在72小时内纠集一万名社会闲杂人等。 </p>
+  <p>这些社会性人力能够被迅速调集起来，首先和当时的结构性和季节性失业状况息息相关。1870到1920年间，受机械化的大规模普及，冬季时段铁路停工，夏季木材厂停产等的影响，每年平均有70万劳工有好几个月都处于失业和没有社会保障的状态，其中大部分是因为项目结束而被彻底解雇。这些没有稳定就业的劳力不得不在境内长途迁徙寻找零工。历史数据估计，当时美国一半的成年男性在十年内都会更换常驻地。因为交通不便捷，很多劳工抵达招工的新城市后才发现职位早已经招满，于是不得不再次上路或者露宿街头。 </p>
+  <p>这些剩余劳力成了反工会产业的绝佳雇工，他们走投无路，不怕受伤，容易取代。久而久之，主要大城市涌现出很多不成文的工会打手雇佣点，比如纽约的秘密据点之一是专供工人阶级男性居住的旅店Mills House，这里也是当时<a href="https://www.nyclgbtsites.org/site/mills-house-no-1-village-gate/" target="_blank">LGBT群体</a>躲避警察追捕的场所。在芝加哥市中心的圆环内，流浪汉聚集的Randolph街成了绝佳的招募地，而底特律的主要据点则是市区绿地Grand Circus Park。  </p>
+  <p>在正规就业市场受到歧视的南方黑人男性劳工，成了反工会中介们热爱招募的第二类人员。即使在罢工打手内部，黑人劳力的待遇都显著更差，为中介公司节省了大量食宿和工资开销。黑人男性介入反罢工，也符合社会对黑人参与违法暴力活动的刻板印象。更重要的是，黑人反罢工群体的出现，可以激化底层白人，特别是欧洲移民劳工的种族怨恨，有效阻止工人阶级跨种族动员的可能性。对资方来说，引入黑人男性简直一举三得。 </p>
+  <p>在纺织、洗涤、通讯等女工占比高的行业，女性劳力同样会被雇佣为打手。比如1913年，波士顿电话公司曾经用火车从全国贝尔集团旗下的公司调集了2000多名女性接线员，来干扰当地接线员工会的罢工。但总的来说，由于工会和反工会组织对男性气质同样程度的推崇，女性打手的使用只局限在特定产业。这种男性气质主导的现象，也可以解释历史上工会和黑帮间的勾结。 </p>
+  <p>发动劳工斗劳工，是20世纪初反工会的典型模式之一，但这并不是唯一可行的模式。被掩盖的另一段关键历史，则是当时高校学生大量介入了反工会产业。相比处在社会边缘，移民或少数族裔居多的失业劳工，资方更喜欢雇佣有钱有闲的高校白人学生。即使是普通大学的学生，也往往来自极为富裕的家庭，他们的出身和工作经验的缺乏决定了其对普通劳工的诉求难有同情。1905年，一位治安官曾惊讶地描述了他所见到的一名从费城专程赶到纽约当反罢工志愿者的本科生。这名学生就读于宾夕法尼亚大学，穿着价值75刀的大衣（约等于现在的2200多刀）和6刀（和衣服比好偏宜）的靴子。当时从主要的藤校到州立工学院，都有大量男性学生定期参与反罢工的动员。不少高校的兄弟会和运动员组织甚至将反罢工宣传成了拓展男性气质的志愿服务。由于工业巨头往往担任私立大学的资方，学生志愿参与反罢工一般会得到校方默许甚至鼓励。相反，校园内出现的挺劳工话语则会被百般孤立。1919年，哈罗德·拉斯基在哈佛任教期间声援波士顿警察罢工，遭到学生群嘲和校方警告，很快就被迫自行辞职。 </p>
+  <p><strong>当代反工会产业的转型</strong></p>
+  <p>比较接近当代形态的反工会产业大约诞生于1940年代初。随着30年代末一系列立法禁止公然的反工会打手和间谍行为，企业雇佣临时工暴力干预罢工的成本高企，效率下降，还存在法律风险。同时，战后经济的复苏让低端流动劳力的供应减少，私人黑帮打手业务渐渐淡出。民权运动的爆发使得黑人逐步被主流工会所接纳，他们从反工会中介青睐的对象，蜕变为美国最支持工会的族裔。大学在非精英群体中的扩招，也使得校园文化出现明显的自由主义转向，招募大学生参与反工会的难度系数也大幅升高。战后的郊区化和“白人大迁移”也带来了不经意的后果：由于单位人口密度下降，只向男性开放的台球馆和搏击俱乐部大规模停业，强化男性气质的休闲娱乐方式骤减。连以往作为男性劳力重要社交场所的理发店（Barber shop），也被不分性别的美发沙龙（Hair Salon）取代。工人阶级男性被分散在各自组建的核心家庭，不再成群聚集在城市“街角社会”等待零工。 </p>
+  <p>面对既有招募体系的崩溃和工人阶级男性气质的转型，反工会产业开始采纳更为间接和非暴力的模式，依赖风险咨询、信息操纵和法律漏洞等干预劳工动员，高薪的全职雇员也逐步取代了低技术临时工，整个行业的制度化、官僚化程度得到增长。相比劳资双方头破血流的械斗，会议室中的谈判和投票，工厂车间的层级结构和流言蜚语，更能决定当代工运的成败。二战后的十多年内，工会规避（Union Avoidance）产业快速成型，最著名的咨询公司莫过于总部在芝加哥的Labor Relations Associates（LRA），创办者Nathan Shefferman后来被称为工会规避之父。Shefferman曾是芝加哥西尔斯百货的人力资源部经理，因为30年代多次成功阻挠公司旗下工会加入AFL，西尔斯索性给了Shefferman一万刀启动资金创办了LRA。LRA在工业聚集地芝加哥、纽约和底特律设置办公室，20名全职雇员在全美接单，每年营收超过一百万美元。LRA开创了著名的Astroturfing策略“投不”委员会（‘vote no’ committees），即设置一个看似是雇员自行组织的反工会委员会来扰乱民意。 <br /></p>
+  <p>LRA的成功为70年代后反工会产业的爆发式增长奠定了基础。70年代前，全美从事反工会的咨询公司只有区区100家，这个数字到了80年代暴涨到了一千多家，覆盖医疗、航空、零售等主要产业。80年代政治文化保守主义的回潮一方面让工会更难赢得法律官司，另一方面则使得更多资方认为雇佣反工会咨询公司天经地义。到了90年代，面对工会威胁时，三分之二的雇主都会选择反工会咨询服务，这个比例到新世纪上升到了四分之三。 </p>
+  <p>同时，由于整个产业对普通雇员来说都获利丰厚，吸纳有高等教育商科、管理学、心理学、劳动法等背景的毕业生，或者有大型企业管理层经验的中层领导进入反工会咨询公司渐成主流。《美国工厂》中福耀方面雇佣专业反工会咨询员在工人中进行反工会宣传，被认为是最有效率，又能一定程度维持资方温文尔雅形象的策略。影片当中展现的一系列反工会动员技术，比如精准报复工人积极分子、召开强制员工参加的闭门会议（captive audience meeting）、手把手向工厂中层管理者教授反工会的宣传说辞（talking points）、为工人许诺有限的好处和甜头等，都是当今反工会产业的标准配置。这种转型体现了战后美国工作结构的中产、白领化，也反映了管理学、心理学、组织社会学等建制性社科理论对工作场所的知识入侵。不论实际的效果如何，资方和反工会方均相信可以用更科学、量化的方式来控制劳工。这种对归类和数据的推崇当然也并非首创。比如，将工人按照介入运动程度不同进行分类，从而各个击破的办法，早在上世纪初就被United Railroads的管理层和间谍采用，他们给每个工人标注记号，一条线代表工会同情者，两条线是参与者，三条线是积极分子，通过这种方式成功破坏了旗下工会的组织。不过和当年不同的是，当代反工会产业重分析外还讲预测。反工会咨询员的一项重要使命就是根据各种已有指标和模型，给客户做工会脆弱性评估（Union Vulnerability Assessment），预测该企业员工组建工会的可能性，从而防患于未然。平日，咨询员们实时收集全国的劳工数据、法律条文，分析趋势、存档备用。在劳工庆祝斗争胜利的时候，他们的经验往往被悄悄作为反面教材写进工会脆弱性的评估报告。劳工研究学者Edna Bonacich就曾经指出，劳工研究学术期刊的最主要读者，就是反工会咨询行业的从业者。 </p>
+  <figure class="tmblr-full" data-orig-height="475" data-orig-width="1400">
+<img src="https://64.media.tumblr.com/4b47d674bab3d7ba9c01203d2b940dcd/c39cd4d36771f4d4-ce/s540x810/b9494fa75b931ecae9280b03d292ceb6e4fec48f.jpg" data-orig-height="475" data-orig-width="1400" />
+  </figure>
+  <p><em>工会咨询公司Sparta Solutions的网站宣传画…</em></p>
+  <p><strong>新经济下的反工会产业</strong></p>
+  <p>互联网浸染的新经济下，由于行业内部形态差异更大，内部分化加剧，反工会咨询公司在次级市场上的分工也更明确了。一般一个咨询公司会横跨多个州，但把工作重点放在几类行业上，而不是像20世纪初的不少中介公司一样来者不拒。比如美国私立大学之间往往雇佣同样的咨询公司，来阻止旗下研究生建立工会。这次谷歌雇佣的<a href="https://iriconsultants.com/" target="_blank">IRI Consultants</a>的强项则是在医疗行业。对咨询公司来说，在一个公司成功干预了工会，就可以将之写成个案来吸引同行业的更多客户，从而形成某种正反馈。咨询公司内部的全职雇员和兼职顾问也是术业有专攻，他们不仅在行业上有分工，有的甚至针对特定族裔和性别有技能加点，这种劳动分工使得客户可以获得高度定制的反工会服务。不过，面对反工会方频繁的骚扰，工会和劳工方面也相应推出了反“反工会”策略。网络上可以搜寻到大量Union Busting101的<a href="https://unionbustingplaybook.com/" target="_blank">个案</a>，工会网站上一般也会附加如何应对雇主的建议，有心人加以比对学习，不难总结出反工会组织的惯用伎俩。 </p>
+  <p>70年代后工会力量的衰落，除了制造业的转型和政治气氛，也要归功于日益精进的反工会产业。本文着重提及的咨询行业是介入反工会最深远的行业，但这绝不是当代反工会网络唯一的玩家。这个网络中还包括海量的法律公司、营销公司、游说集团、作为顾问存在的前政府雇员、商学院教授、行为科学家甚至心理咨询师。尽管美国的高等教育更加普及，不少专业的学生成分更为多元，私立高校的商学院、法学院以及与其形成裙带关系的大企业依然是维系精英再生产的坚固引擎，它们保证了反工会产业将有源源不断的人才储备。精英高校的毕业生们尽管不再把干扰罢工当作课余运动消遣，但他们依然可以将之视作一份稳定的白领职业。 </p>
+  <p>反工会行业不仅聚焦于帮助具体的雇主破坏员工的工会组织，而且积极参与政治，推动反工会立法。比如，2010年以后，美国多个州通过了禁止强制员工缴纳工会会费的法律，即所谓的“工作权益法案”（right-to-work laws）。2018年，美国最高法院在Janus vs AFSCME一案中的判决将全国所有公立部门工会置于“工作权益法案”之下。这一系列立法和判决的出台，很大程度上要归功于反工会行业积极的动员、游说，和全国层面上的周密协调。在Janus vs AFSCME一案判决出台之后，反工会行业的营销公司、广告公司蜂拥而上，发起“给你自己涨工资”运动（give yourself a raise），劝说、鼓励工会会员退出工会、不交会费。  </p>
+  <p>本世纪即将进入第三个十年，反工会行业的前景看似愈发明朗起来。美国经济政策研究所（Economic Policy Institute, EPI）最新出炉的报告<a href="https://www.vice.com/en_us/article/akwwvb/us-employers-spend-dollar340-million-a-year-busting-unions" target="_blank">显示</a>，如今美国雇主每年花在反工会咨询上的资金高达3.4亿美元。2016和2017年，在四成以上的工会斗争中，雇主都有违反联邦法律的行为。自动化造成的空间性、结构性失业，让传统制造业和服务业的劳资冲突不断加强，需要更多反工会从业者的介入。更重要的是，越来越多之前没有工会的领域，比如媒体、科技和零工经济正在争取工会代表权。硅谷没法再用园区里的创新口号和平权标语来标榜自己的进步主义，数字垄断集团制造的劳工自主性幻象正在一个个破灭。 </p>
+  <p>更高的客户需求，更多的可用案例，和更强劲的算法技术加持下，反工会行业恐怕会以更戏剧性的方式延续其生命力。在咨询公司的建议下，谷歌就注意收集员工的日历数据，密切跟踪员工在公司内组织的多人会议。科技公司对雇员身体的日常控制将有效反哺到反工会行业。如果说非暴力化和制度化是这个行业的第一次范式变革，日常化与算法化也许会主导其下一步的蜕变。 </p>
+  <p>（张跃然对此文亦有贡献） </p>
+  <p>参考文献： </p>
+  <p>Feurer, Rosemary and Chad Pearson. 2017. Against Labor: How U.S. Employers Organized to Defeat Union Activism. University of Illinois Press. </p>
+  <p>Logan, John. 2006. “The Union Avoidance Industry in the United States.” British Journal of Industrial Relations 44(4):651–75. </p>
+  <p>Martin, Isaac. 2013. Rich People’s Movements: Grassroots Campaigns to Untax the One Percent. Oxford: Oxford University Press. </p>
+  <p>Miller, Wilbur R. 2018. A History of Private Policing in the United States. Bloomsbury Publishing. </p>
+  <p>Norwood, Stephen H. 2003. Strikebreaking and Intimidation: Mercenaries and Masculinity in Twentieth-Century America. Univ of North Carolina Press.Smith, </p>
+  <p>Robert Michael. 2003. From Blackjacks to Briefcases: A History of Commercialized Strikebreaking and Unionbusting in the United States. Ohio University Press.</p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#萬有引力之蟲 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-07-18/%E9%9F%A7%E6%80%A7%E7%9A%84%E8%89%BA%E6%9C%AF-%E5%BA%9F%E9%99%A4%E8%AD%A6%E5%AF%9F%E5%9F%8E%E8%BF%90%E5%8A%A8%E7%9A%84%E5%90%AF%E7%A4%BA/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2017-11-06/%E5%8D%A0%E9%A2%86%E7%9A%84%E7%BB%84%E7%BB%87%E9%81%97%E4%BA%A7/">最早</a>--</span>
+    
+      <li>
+        <time>2020-03-27</time>
+        <a href="https://nodebe4.github.io/opinion/2020-03-27/%E7%96%AB%E6%83%85%E4%B8%8B%E7%9A%84%E7%BE%8E%E5%9B%BD%E5%B7%A5%E4%BD%9C-%E5%B1%85%E5%AE%B6%E5%8A%9E%E5%85%AC-%E9%9B%B6%E5%B7%A5%E7%BB%8F%E6%B5%8E%E4%B8%8E%E8%87%AA%E5%8A%A8%E5%8C%96/">
+          疫情下的美国工作：居家办公、零工经济与自动化
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-03-10</time>
+        <a href="https://nodebe4.github.io/opinion/2020-03-10/%E8%87%AA%E5%8A%A8%E5%8C%96-%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E4%B8%8E%E5%B9%BD%E7%81%B5%E5%B7%A5%E4%BD%9C%E7%9A%84%E5%B4%9B%E8%B5%B7/">
+          自动化，意识形态与幽灵工作的崛起
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-10-08</time>
+        <a href="https://nodebe4.github.io/opinion/2019-10-08/%E6%97%B6%E4%BB%A3%E6%B8%B8%E6%88%8F/">
+          时代游戏
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-08-30</time>
+        <a href="https://nodebe4.github.io/opinion/2019-08-30/%E7%A7%8D%E6%97%8F%E4%B8%8E%E5%8A%B3%E5%B7%A5%E6%94%BF%E6%B2%BB%E5%A6%82%E4%BD%95%E6%92%95%E8%A3%82%E7%BE%8E%E5%9B%BD%E5%B7%A5%E4%BC%9A/">
+          种族与劳工政治如何撕裂美国工会
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2019-12-19/%E8%90%8A%E7%89%B9%E5%B8%8C%E6%BE%A4%E8%AD%89%E5%AF%A6%E4%B8%AD%E5%85%B1%E6%B4%BE%E9%AC%A5%E6%B1%BA%E5%AE%9A%E4%B8%AD%E7%BE%8E%E5%8D%94%E8%AD%B0-%E6%A8%93%E7%B9%BC%E5%81%89%E5%91%BC%E7%B1%B2%E7%99%BC%E8%A1%8C%E5%A4%A7%E8%A6%8F%E6%A8%A1%E5%9C%8B%E5%82%B5%E6%A8%99%E8%AA%8C%E7%B6%93%E6%BF%9F%E5%9A%B4%E9%87%8D%E8%A1%B0%E9%80%80/">
+            前一篇：萊特希澤證實中共派鬥決定中美協議；樓繼偉呼籲發行大規模國債標誌經濟嚴重衰退
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2019-12-22/%E5%9C%B0%E7%B7%A3%E6%94%BF%E6%B2%BB%E8%A7%80%E5%AF%9F-%E7%BE%8E%E5%9C%8B%E8%B2%BF%E6%98%93%E5%8D%94%E8%AD%B0%E6%96%BD%E5%A3%93%E5%8F%AF%E8%A7%B8%E7%99%BC%E4%B8%AD%E5%9C%8B%E9%BB%91%E5%A4%A9%E9%B5%9D/">
+            後一篇：地緣政治觀察：美國貿易協議施壓可觸發中國黑天鵝
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2019-12-19/%E8%90%8A%E7%89%B9%E5%B8%8C%E6%BE%A4%E8%AD%89%E5%AF%A6%E4%B8%AD%E5%85%B1%E6%B4%BE%E9%AC%A5%E6%B1%BA%E5%AE%9A%E4%B8%AD%E7%BE%8E%E5%8D%94%E8%AD%B0-%E6%A8%93%E7%B9%BC%E5%81%89%E5%91%BC%E7%B1%B2%E7%99%BC%E8%A1%8C%E5%A4%A7%E8%A6%8F%E6%A8%A1%E5%9C%8B%E5%82%B5%E6%A8%99%E8%AA%8C%E7%B6%93%E6%BF%9F%E5%9A%B4%E9%87%8D%E8%A1%B0%E9%80%80/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2019-12-22/%E5%9C%B0%E7%B7%A3%E6%94%BF%E6%B2%BB%E8%A7%80%E5%AF%9F-%E7%BE%8E%E5%9C%8B%E8%B2%BF%E6%98%93%E5%8D%94%E8%AD%B0%E6%96%BD%E5%A3%93%E5%8F%AF%E8%A7%B8%E7%99%BC%E4%B8%AD%E5%9C%8B%E9%BB%91%E5%A4%A9%E9%B5%9D/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2020-03-10/%E8%87%AA%E5%8A%A8%E5%8C%96-%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E4%B8%8E%E5%B9%BD%E7%81%B5%E5%B7%A5%E4%BD%9C%E7%9A%84%E5%B4%9B%E8%B5%B7/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2019-10-08/%E6%97%B6%E4%BB%A3%E6%B8%B8%E6%88%8F/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2019-12-19/%E8%90%8A%E7%89%B9%E5%B8%8C%E6%BE%A4%E8%AD%89%E5%AF%A6%E4%B8%AD%E5%85%B1%E6%B4%BE%E9%AC%A5%E6%B1%BA%E5%AE%9A%E4%B8%AD%E7%BE%8E%E5%8D%94%E8%AD%B0-%E6%A8%93%E7%B9%BC%E5%81%89%E5%91%BC%E7%B1%B2%E7%99%BC%E8%A1%8C%E5%A4%A7%E8%A6%8F%E6%A8%A1%E5%9C%8B%E5%82%B5%E6%A8%99%E8%AA%8C%E7%B6%93%E6%BF%9F%E5%9A%B4%E9%87%8D%E8%A1%B0%E9%80%80/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2019-12-22/%E5%9C%B0%E7%B7%A3%E6%94%BF%E6%B2%BB%E8%A7%80%E5%AF%9F-%E7%BE%8E%E5%9C%8B%E8%B2%BF%E6%98%93%E5%8D%94%E8%AD%B0%E6%96%BD%E5%A3%93%E5%8F%AF%E8%A7%B8%E7%99%BC%E4%B8%AD%E5%9C%8B%E9%BB%91%E5%A4%A9%E9%B5%9D/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<萬有引力之蟲>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2020-03-10/%E8%87%AA%E5%8A%A8%E5%8C%96-%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E4%B8%8E%E5%B9%BD%E7%81%B5%E5%B7%A5%E4%BD%9C%E7%9A%84%E5%B4%9B%E8%B5%B7/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<萬有引力之蟲>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2019-10-08/%E6%97%B6%E4%BB%A3%E6%B8%B8%E6%88%8F/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

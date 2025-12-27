@@ -1,0 +1,3430 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Yvan888在2019-07-08~2019-07-14的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Yvan888在2019-07-08~2019-07-14的言论" />
+    <meta property="twitter:title" content="Yvan888在2019-07-08~2019-07-14的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2Fboxoffice%2Fcomments%2Fca8e5f%2Fother_mulan_official_teaser_trailer_predictions%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/boxoffice/comments/ca8e5f/other_mulan_official_teaser_trailer_predictions/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/boxoffice/comments/ca8e5f/other_mulan_official_teaser_trailer_predictions/&text=Yvan888在2019-07-08~2019-07-14的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/boxoffice/comments/ca8e5f/other_mulan_official_teaser_trailer_predictions/&title=Yvan888在2019-07-08~2019-07-14的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/boxoffice/comments/ca8e5f/other_mulan_official_teaser_trailer_predictions/&title=Yvan888在2019-07-08~2019-07-14的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Yvan888在2019-07-08~2019-07-14的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/boxoffice/comments/ca8e5f/other_mulan_official_teaser_trailer_predictions/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/boxoffice/comments/ca8e5f/other_mulan_official_teaser_trailer_predictions/&title=Yvan888在2019-07-08~2019-07-14的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Yvan888在2019-07-08~2019-07-14的言论&url=https://old.reddit.com/r/boxoffice/comments/ca8e5f/other_mulan_official_teaser_trailer_predictions/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Yvan888在2019-07-08~2019-07-14的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2019-07-08
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://www.reddit.com/user/Yvan888/" style="font-size:14px;">作者: Yvan888</a>
+        </span>
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/boxoffice/comments/ca8e5f/other_mulan_official_teaser_trailer_predictions/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#443-other-mulan-official-teaser-trailer-predictions-submitted-on-2019-07-08-0002300800" id="markdown-toc-443-other-mulan-official-teaser-trailer-predictions-submitted-on-2019-07-08-0002300800">443: [Other] Mulan Official Teaser Trailer. Predictions?, submitted on 2019-07-08 00:02:30+08:00.</a></li>
+  <li><a href="#444-ink-function-gn-worse-than-nb-submitted-on-2019-07-08-0218400800" id="markdown-toc-444-ink-function-gn-worse-than-nb-submitted-on-2019-07-08-0218400800">444: Ink Function: GN worse than NB?, submitted on 2019-07-08 02:18:40+08:00.</a></li>
+  <li><a href="#445-testing-out-my-new-setup-during-a-layover-submitted-on-2019-07-08-0343280800" id="markdown-toc-445-testing-out-my-new-setup-during-a-layover-submitted-on-2019-07-08-0343280800">445: Testing out my new setup during a layover, submitted on 2019-07-08 03:43:28+08:00.</a></li>
+  <li><a href="#446-disneys-mulan---official-teaser-submitted-on-2019-07-08-0359390800" id="markdown-toc-446-disneys-mulan---official-teaser-submitted-on-2019-07-08-0359390800">446: Disney’s Mulan - Official Teaser, submitted on 2019-07-08 03:59:39+08:00.</a></li>
+  <li><a href="#447-chinas-vanishing-muslims-undercover-in-the-most-dystopian-place-in-the-world-2019---vice-news-takes-us-on-a-journey-into-chinas-methodology-of-expulsion-of-minority-groups-even-detaining-their-children-to-erase-cultural-and-traditional-values-by-use-of-high-tech-surveillance-and-police-submitted-on-2019-07-08-0425200800" id="markdown-toc-447-chinas-vanishing-muslims-undercover-in-the-most-dystopian-place-in-the-world-2019---vice-news-takes-us-on-a-journey-into-chinas-methodology-of-expulsion-of-minority-groups-even-detaining-their-children-to-erase-cultural-and-traditional-values-by-use-of-high-tech-surveillance-and-police-submitted-on-2019-07-08-0425200800">447: “China’s Vanishing Muslims: Undercover In The Most Dystopian Place In The World” (2019) - VICE News takes us on a journey into China’s methodology of expulsion of minority-groups, even detaining their children to erase cultural and traditional values, by use of high-tech surveillance and police, submitted on 2019-07-08 04:25:20+08:00.</a></li>
+  <li><a href="#448-vancouver-is-heaven-why-more-hong-kong-residents-are-considering-moving-to-canada-submitted-on-2019-07-08-0516170800" id="markdown-toc-448-vancouver-is-heaven-why-more-hong-kong-residents-are-considering-moving-to-canada-submitted-on-2019-07-08-0516170800">448: ‘Vancouver is heaven’: Why more Hong Kong residents are considering moving to Canada, submitted on 2019-07-08 05:16:17+08:00.</a></li>
+  <li><a href="#449-is-china-headed-towards-another-cultural-revolution-an-interview-with-professor-xu-youyu--hong-kong-free-press-hkfp-submitted-on-2019-07-08-0621220800" id="markdown-toc-449-is-china-headed-towards-another-cultural-revolution-an-interview-with-professor-xu-youyu--hong-kong-free-press-hkfp-submitted-on-2019-07-08-0621220800">449: Is China headed towards another Cultural Revolution?: An interview with Professor Xu Youyu | Hong Kong Free Press HKFP, submitted on 2019-07-08 06:21:22+08:00.</a></li>
+  <li><a href="#450-an-intense-guide-to-chinese-drinking-culture-submitted-on-2019-07-08-0825300800" id="markdown-toc-450-an-intense-guide-to-chinese-drinking-culture-submitted-on-2019-07-08-0825300800">450: An Intense Guide To Chinese Drinking Culture, submitted on 2019-07-08 08:25:30+08:00.</a></li>
+  <li><a href="#451-as-protests-continue-in-hong-kong-what-kind-of-political-concessions-are-in-the-realm-of-possibility-for-china-to-make-submitted-on-2019-07-08-0844510800" id="markdown-toc-451-as-protests-continue-in-hong-kong-what-kind-of-political-concessions-are-in-the-realm-of-possibility-for-china-to-make-submitted-on-2019-07-08-0844510800">451: As protests continue in Hong Kong, what kind of political concessions are in the realm of possibility for China to make?, submitted on 2019-07-08 08:44:51+08:00.</a></li>
+  <li><a href="#452-纳粹德国和法西斯日本都在战后变身成为民主国家为什么中国吃了独裁5000年的亏仍然不愿意走向民主-submitted-on-2019-07-08-1132120800" id="markdown-toc-452-纳粹德国和法西斯日本都在战后变身成为民主国家为什么中国吃了独裁5000年的亏仍然不愿意走向民主-submitted-on-2019-07-08-1132120800">452: 纳粹德国和法西斯日本都在战后变身成为民主国家，为什么中国吃了独裁5000年的亏仍然不愿意走向民主？, submitted on 2019-07-08 11:32:12+08:00.</a></li>
+  <li><a href="#453-those-who-use-an-ipad-with-apple-pencil-for-collegeschool-and-take-notes-by-hand-how-do-you-like-it-and-what-are-the-benefits-youve-noticed-from-using-an-ipad-over-pen-and-paper-submitted-on-2019-07-08-1314430800" id="markdown-toc-453-those-who-use-an-ipad-with-apple-pencil-for-collegeschool-and-take-notes-by-hand-how-do-you-like-it-and-what-are-the-benefits-youve-noticed-from-using-an-ipad-over-pen-and-paper-submitted-on-2019-07-08-1314430800">453: Those who use an iPad with Apple Pencil for college/school and take notes by hand, how do you like it and what are the benefits you’ve noticed from using an iPad over pen and paper?, submitted on 2019-07-08 13:14:43+08:00.</a></li>
+  <li><a href="#454-help-me-make-the-most-of-my-ipad-submitted-on-2019-07-08-1519110800" id="markdown-toc-454-help-me-make-the-most-of-my-ipad-submitted-on-2019-07-08-1519110800">454: Help me make the most of my iPad, submitted on 2019-07-08 15:19:11+08:00.</a></li>
+  <li><a href="#455-whats-the-closest-youve-ever-been-to-a-real-life-porn-scenario-submitted-on-2019-07-08-1653570800" id="markdown-toc-455-whats-the-closest-youve-ever-been-to-a-real-life-porn-scenario-submitted-on-2019-07-08-1653570800">455: What’s the closest you’ve ever been to a real life porn scenario?, submitted on 2019-07-08 16:53:57+08:00.</a></li>
+  <li><a href="#456-chinese-economists-warn-beijing-to-prepare-for-decoupling-from-us-submitted-on-2019-07-08-1843440800" id="markdown-toc-456-chinese-economists-warn-beijing-to-prepare-for-decoupling-from-us-submitted-on-2019-07-08-1843440800">456: Chinese economists warn Beijing to prepare for decoupling from US, submitted on 2019-07-08 18:43:44+08:00.</a></li>
+  <li><a href="#457-gordon-g-chang-on-twitter--we-chinese-americans-have-many-spies-and-traitors-among-us-submitted-on-2019-07-08-1917400800" id="markdown-toc-457-gordon-g-chang-on-twitter--we-chinese-americans-have-many-spies-and-traitors-among-us-submitted-on-2019-07-08-1917400800">457: Gordon G. Chang on Twitter | We Chinese-Americans have many spies and traitors among us, submitted on 2019-07-08 19:17:40+08:00.</a></li>
+  <li><a href="#458-which-country-is-more-influential-india-or-china-submitted-on-2019-07-08-1937100800" id="markdown-toc-458-which-country-is-more-influential-india-or-china-submitted-on-2019-07-08-1937100800">458: Which country is more influential: India or China?, submitted on 2019-07-08 19:37:10+08:00.</a></li>
+  <li><a href="#459-china-is-not-an-enemy-of-the-us-and-the-world-but-the-ccp-is-submitted-on-2019-07-08-1957070800" id="markdown-toc-459-china-is-not-an-enemy-of-the-us-and-the-world-but-the-ccp-is-submitted-on-2019-07-08-1957070800">459: China is Not an Enemy of the US and the World. But the CCP is., submitted on 2019-07-08 19:57:07+08:00.</a></li>
+  <li><a href="#460-anyone-else-come-across-one-of-these-before-three-years-of-living-here-and-china-never-ceases-to-surprise-submitted-on-2019-07-08-2002580800" id="markdown-toc-460-anyone-else-come-across-one-of-these-before-three-years-of-living-here-and-china-never-ceases-to-surprise-submitted-on-2019-07-08-2002580800">460: Anyone else come across one of these before? Three years of living here and China never ceases to surprise, submitted on 2019-07-08 20:02:58+08:00.</a></li>
+  <li><a href="#461-syncing-with-icloud-submitted-on-2019-07-08-2222440800" id="markdown-toc-461-syncing-with-icloud-submitted-on-2019-07-08-2222440800">461: Syncing with iCloud?, submitted on 2019-07-08 22:22:44+08:00.</a></li>
+  <li><a href="#462-香港政治歌曲推薦-submitted-on-2019-07-09-0947060800" id="markdown-toc-462-香港政治歌曲推薦-submitted-on-2019-07-09-0947060800">462: 香港（政治）歌曲推薦, submitted on 2019-07-09 09:47:06+08:00.</a></li>
+  <li><a href="#463-the-chabuduo-thread-post-your-chabuduo-pics-or-stories-submitted-on-2019-07-09-0951340800" id="markdown-toc-463-the-chabuduo-thread-post-your-chabuduo-pics-or-stories-submitted-on-2019-07-09-0951340800">463: The Chabuduo Thread (post your Chabuduo pics or stories), submitted on 2019-07-09 09:51:34+08:00.</a></li>
+  <li><a href="#464-一國一制又出招-香港3年內引進信用評分系統-submitted-on-2019-07-09-1107050800" id="markdown-toc-464-一國一制又出招-香港3年內引進信用評分系統-submitted-on-2019-07-09-1107050800">464: 一國一制又出招！ 香港3年內引進「信用評分系統」, submitted on 2019-07-09 11:07:05+08:00.</a></li>
+  <li><a href="#465-何韵诗在联合国的发言大家看了吗-submitted-on-2019-07-09-1123480800" id="markdown-toc-465-何韵诗在联合国的发言大家看了吗-submitted-on-2019-07-09-1123480800">465: 何韵诗在联合国的发言大家看了吗, submitted on 2019-07-09 11:23:48+08:00.</a></li>
+  <li><a href="#466-王孟源--统一还看2025-submitted-on-2019-07-09-1749180800" id="markdown-toc-466-王孟源--统一还看2025-submitted-on-2019-07-09-1749180800">466: 王孟源 – 统一还看2025, submitted on 2019-07-09 17:49:18+08:00.</a></li>
+  <li><a href="#467-lets-bomb-everything-philippines-president-duterte-urges-us-to-declare-war-on-china-submitted-on-2019-07-09-1919510800" id="markdown-toc-467-lets-bomb-everything-philippines-president-duterte-urges-us-to-declare-war-on-china-submitted-on-2019-07-09-1919510800">467: ‘Let’s Bomb Everything’: Philippines President Duterte Urges U.S. To Declare War on China, submitted on 2019-07-09 19:19:51+08:00.</a></li>
+  <li><a href="#468-waking-up-early-is-fucking-awesome-submitted-on-2019-07-09-2002080800" id="markdown-toc-468-waking-up-early-is-fucking-awesome-submitted-on-2019-07-09-2002080800">468: Waking up early is fucking awesome., submitted on 2019-07-09 20:02:08+08:00.</a></li>
+  <li><a href="#469-why-china-has-no-civil-society-submitted-on-2019-07-09-2216540800" id="markdown-toc-469-why-china-has-no-civil-society-submitted-on-2019-07-09-2216540800">469: Why China has no civil society, submitted on 2019-07-09 22:16:54+08:00.</a></li>
+  <li><a href="#470-china-eyes-trumps-2020-strategy-for-clues-on-trade-war-deal-submitted-on-2019-07-09-2321240800" id="markdown-toc-470-china-eyes-trumps-2020-strategy-for-clues-on-trade-war-deal-submitted-on-2019-07-09-2321240800">470: China Eyes Trump’s 2020 Strategy for Clues on Trade War Deal, submitted on 2019-07-09 23:21:24+08:00.</a></li>
+  <li><a href="#471-有趣而比较简单的中文书--interesting-yet-simple-chinese-books-submitted-on-2019-07-10-1345570800" id="markdown-toc-471-有趣而比较简单的中文书--interesting-yet-simple-chinese-books-submitted-on-2019-07-10-1345570800">471: 有趣而比较简单的中文书 / Interesting yet simple Chinese books, submitted on 2019-07-10 13:45:57+08:00.</a></li>
+  <li><a href="#472-红色恐怖回想那些被关闭的境外网站你是否留有痕迹-submitted-on-2019-07-11-1116010800" id="markdown-toc-472-红色恐怖回想那些被关闭的境外网站你是否留有痕迹-submitted-on-2019-07-11-1116010800">472: 红色恐怖–回想那些被关闭的境外网站你是否留有痕迹, submitted on 2019-07-11 11:16:01+08:00.</a></li>
+  <li><a href="#473-为什么从来没有正式公布中共中央政治局常委会的决议-submitted-on-2019-07-11-1423200800" id="markdown-toc-473-为什么从来没有正式公布中共中央政治局常委会的决议-submitted-on-2019-07-11-1423200800">473: 为什么从来没有正式公布中共中央政治局常委会的决议？, submitted on 2019-07-11 14:23:20+08:00.</a></li>
+  <li><a href="#474-谷歌地图在中国的使用-submitted-on-2019-07-11-1533230800" id="markdown-toc-474-谷歌地图在中国的使用-submitted-on-2019-07-11-1533230800">474: 谷歌地图在中国的使用？, submitted on 2019-07-11 15:33:23+08:00.</a></li>
+  <li><a href="#475-former-tesla-employee-admits-uploading-autopilot-source-code-to-his-icloud---tesla-believes-he-stole-company-trade-secrets-and-took-them-to-chinese-startup-xiaopeng-motors-submitted-on-2019-07-11-2000020800" id="markdown-toc-475-former-tesla-employee-admits-uploading-autopilot-source-code-to-his-icloud---tesla-believes-he-stole-company-trade-secrets-and-took-them-to-chinese-startup-xiaopeng-motors-submitted-on-2019-07-11-2000020800">475: Former Tesla employee admits uploading Autopilot source code to his iCloud - Tesla believes he stole company trade secrets and took them to Chinese startup, Xiaopeng Motors, submitted on 2019-07-11 20:00:02+08:00.</a></li>
+  <li><a href="#476-近期以来包子对外撒币次好像减少了还是新闻看少了-submitted-on-2019-07-11-2056080800" id="markdown-toc-476-近期以来包子对外撒币次好像减少了还是新闻看少了-submitted-on-2019-07-11-2056080800">476: 近期以来包子对外撒币次好像减少了？还是新闻看少了?, submitted on 2019-07-11 20:56:08+08:00.</a></li>
+  <li><a href="#477-countries-where-voting-is-compulsory-submitted-on-2019-07-11-2117530800" id="markdown-toc-477-countries-where-voting-is-compulsory-submitted-on-2019-07-11-2117530800">477: Countries where voting is compulsory, submitted on 2019-07-11 21:17:53+08:00.</a></li>
+  <li><a href="#478-duomo-di-milano-submitted-on-2019-07-11-2119230800" id="markdown-toc-478-duomo-di-milano-submitted-on-2019-07-11-2119230800">478: Duomo di Milano, submitted on 2019-07-11 21:19:23+08:00.</a></li>
+  <li><a href="#479-russians-in-australia-submitted-on-2019-07-11-2257450800" id="markdown-toc-479-russians-in-australia-submitted-on-2019-07-11-2257450800">479: Russians in Australia, submitted on 2019-07-11 22:57:45+08:00.</a></li>
+  <li><a href="#480-george-hw-bushs-son-china-is-not-an-economic-enemy-or-existential-national-security-threat-to-the-united-states--the-demonisation-of-china-is-being-fuelled-by-a-rising-nationalism-in-the-us-that-is-manifested-in-anti-immigrant-anti-chinese-pro-america-first-rhetoric-submitted-on-2019-07-11-2317200800" id="markdown-toc-480-george-hw-bushs-son-china-is-not-an-economic-enemy-or-existential-national-security-threat-to-the-united-states--the-demonisation-of-china-is-being-fuelled-by-a-rising-nationalism-in-the-us-that-is-manifested-in-anti-immigrant-anti-chinese-pro-america-first-rhetoric-submitted-on-2019-07-11-2317200800">480: George HW Bush’s son: China is not an economic enemy or existential national security threat to the United States … The demonisation of China is being fuelled by a rising nationalism in the US that is manifested in anti-immigrant, anti-Chinese, pro-America-first rhetoric, submitted on 2019-07-11 23:17:20+08:00.</a></li>
+  <li><a href="#481-local-muslims-in-china-are-being-forced-to-install-system-searching-software-on-their-mobile-devices-on-top-of-dealing-with-facial-recognition-cameras-around-their-living-spaces-submitted-on-2019-07-12-0117410800" id="markdown-toc-481-local-muslims-in-china-are-being-forced-to-install-system-searching-software-on-their-mobile-devices-on-top-of-dealing-with-facial-recognition-cameras-around-their-living-spaces-submitted-on-2019-07-12-0117410800">481: Local Muslims in China are being forced to install system-searching software on their mobile devices on top of dealing with facial-recognition cameras around their living spaces, submitted on 2019-07-12 01:17:41+08:00.</a></li>
+  <li><a href="#482-shower-thought-submitted-on-2019-07-12-0149120800" id="markdown-toc-482-shower-thought-submitted-on-2019-07-12-0149120800">482: Shower thought, submitted on 2019-07-12 01:49:12+08:00.</a></li>
+  <li><a href="#483-美国去年9月到今年6月财政赤字高达7470亿元增长23-submitted-on-2019-07-12-0242440800" id="markdown-toc-483-美国去年9月到今年6月财政赤字高达7470亿元增长23-submitted-on-2019-07-12-0242440800">483: 美国去年9月到今年6月财政赤字高达7470亿元，增长23%, submitted on 2019-07-12 02:42:44+08:00.</a></li>
+  <li><a href="#484-malaysia-is-the-only-other-place-besides-china-and-taiwan-that-has-its-own-public-government-chinese-language-schools-and-education-system-submitted-on-2019-07-12-1541410800" id="markdown-toc-484-malaysia-is-the-only-other-place-besides-china-and-taiwan-that-has-its-own-public-government-chinese-language-schools-and-education-system-submitted-on-2019-07-12-1541410800">484: Malaysia is the only other place, besides China and Taiwan that has its own public government Chinese-Language schools and education system, submitted on 2019-07-12 15:41:41+08:00.</a></li>
+  <li><a href="#485-china-says-it-will-sanction-us-firms-that-sell-arms-to-taiwan---reuters-submitted-on-2019-07-12-2154470800" id="markdown-toc-485-china-says-it-will-sanction-us-firms-that-sell-arms-to-taiwan---reuters-submitted-on-2019-07-12-2154470800">485: China says it will sanction U.S. firms that sell arms to Taiwan - Reuters, submitted on 2019-07-12 21:54:47+08:00.</a></li>
+  <li><a href="#486-xi-jinping-explains-his-political-philosophy-submitted-on-2019-07-12-2211200800" id="markdown-toc-486-xi-jinping-explains-his-political-philosophy-submitted-on-2019-07-12-2211200800">486: Xi Jinping Explains his Political Philosophy, submitted on 2019-07-12 22:11:20+08:00.</a></li>
+  <li><a href="#487-没想到仅仅5年前的舆论空气还是这么的开放-submitted-on-2019-07-12-2345280800" id="markdown-toc-487-没想到仅仅5年前的舆论空气还是这么的开放-submitted-on-2019-07-12-2345280800">487: 没想到仅仅5年前的舆论空气还是这么的开放, submitted on 2019-07-12 23:45:28+08:00.</a></li>
+  <li><a href="#488-storm-coming-in-on-lake-michigan-submitted-on-2019-07-13-0023000800" id="markdown-toc-488-storm-coming-in-on-lake-michigan-submitted-on-2019-07-13-0023000800">488: Storm coming in on Lake Michigan, submitted on 2019-07-13 00:23:00+08:00.</a></li>
+  <li><a href="#489-china-is-pretty-submitted-on-2019-07-13-0120350800" id="markdown-toc-489-china-is-pretty-submitted-on-2019-07-13-0120350800">489: China is pretty, submitted on 2019-07-13 01:20:35+08:00.</a></li>
+  <li><a href="#490-til-memoirs-of-a-geishsa-2005-was-protested-for-racially-insensitive-casting-japan-felt-it-was-wrong-to-cast-chinese-actors-to-portray-japanese-people-while-the-chinese-felt-it-was-insulting-for-a-chinese-to-have-to-portray-a-japanese-submitted-on-2019-07-13-0626280800" id="markdown-toc-490-til-memoirs-of-a-geishsa-2005-was-protested-for-racially-insensitive-casting-japan-felt-it-was-wrong-to-cast-chinese-actors-to-portray-japanese-people-while-the-chinese-felt-it-was-insulting-for-a-chinese-to-have-to-portray-a-japanese-submitted-on-2019-07-13-0626280800">490: TIL: Memoirs of a Geishsa (2005) was protested for racially insensitive casting. Japan felt it was wrong to cast Chinese actors to portray Japanese people, while the Chinese felt it was insulting for a Chinese to have to portray a Japanese., submitted on 2019-07-13 06:26:28+08:00.</a></li>
+  <li><a href="#491-the-night-the-wave-the-scream-submitted-on-2019-07-13-0846050800" id="markdown-toc-491-the-night-the-wave-the-scream-submitted-on-2019-07-13-0846050800">491: the Night, the Wave, the Scream, submitted on 2019-07-13 08:46:05+08:00.</a></li>
+  <li><a href="#492-徐晓东推特此账号为本人委托朋友发布所有事情与北京同步_-submitted-on-2019-07-13-1222550800" id="markdown-toc-492-徐晓东推特此账号为本人委托朋友发布所有事情与北京同步_-submitted-on-2019-07-13-1222550800">492: 徐晓东推特：此账号为本人委托朋友发布，所有事情与北京同步^_^, submitted on 2019-07-13 12:22:55+08:00.</a></li>
+  <li><a href="#493-嗨我正在学中文-你会发音两个像英语单词are或者你说我就像你在想什么-submitted-on-2019-07-13-2226120800" id="markdown-toc-493-嗨我正在学中文-你会发音两个像英语单词are或者你说我就像你在想什么-submitted-on-2019-07-13-2226120800">493: 嗨，我正在学中文。 你会发音两个像英语单词“are”或者你说“我”就像你在想什么？, submitted on 2019-07-13 22:26:12+08:00.</a></li>
+  <li><a href="#494-my-friend-just-bought-this-picture-in-our-citys-chinatown-we-arent-super-familiar-with-chinese-history-and-were-just-wondering-if-someone-on-this-sub-can-tell-us-who-it-is-submitted-on-2019-07-14-0042510800" id="markdown-toc-494-my-friend-just-bought-this-picture-in-our-citys-chinatown-we-arent-super-familiar-with-chinese-history-and-were-just-wondering-if-someone-on-this-sub-can-tell-us-who-it-is-submitted-on-2019-07-14-0042510800">494: My friend just bought this picture in our city’s chinatown. We aren’t super familiar with Chinese history, and we’re just wondering if someone on this sub can tell us who it is, submitted on 2019-07-14 00:42:51+08:00.</a></li>
+  <li><a href="#495-all-you-need-really-submitted-on-2019-07-14-0825160800" id="markdown-toc-495-all-you-need-really-submitted-on-2019-07-14-0825160800">495: all you need, really, submitted on 2019-07-14 08:25:16+08:00.</a></li>
+  <li><a href="#496-美国要求下一届英国首相必须和美国一起排斥华为否则脱欧以后不签署两国间贸易协定原文为英文-submitted-on-2019-07-14-0836260800" id="markdown-toc-496-美国要求下一届英国首相必须和美国一起排斥华为否则脱欧以后不签署两国间贸易协定原文为英文-submitted-on-2019-07-14-0836260800">496: 美国要求下一届英国首相必须和美国一起排斥华为，否则脱欧以后不签署两国间贸易协定(原文为英文), submitted on 2019-07-14 08:36:26+08:00.</a></li>
+  <li><a href="#497-locals-were-alarmed-and-called-the-police-when-a-monster-climbed-out-of-kamogawa-river-in-kyoto-it-was-actually-a-giant-salamander-submitted-on-2019-07-14-0858300800" id="markdown-toc-497-locals-were-alarmed-and-called-the-police-when-a-monster-climbed-out-of-kamogawa-river-in-kyoto-it-was-actually-a-giant-salamander-submitted-on-2019-07-14-0858300800">497: Locals were alarmed and called the police when a monster climbed out of Kamogawa River in Kyoto. It was actually a giant salamander., submitted on 2019-07-14 08:58:30+08:00.</a></li>
+  <li><a href="#498-the-hanfu-movement-in-china-submitted-on-2019-07-14-1118350800" id="markdown-toc-498-the-hanfu-movement-in-china-submitted-on-2019-07-14-1118350800">498: The Hanfu Movement in China, submitted on 2019-07-14 11:18:35+08:00.</a></li>
+  <li><a href="#499-汉服运动-submitted-on-2019-07-14-1126270800" id="markdown-toc-499-汉服运动-submitted-on-2019-07-14-1126270800">499: 汉服运动, submitted on 2019-07-14 11:26:27+08:00.</a></li>
+  <li><a href="#500-各国对新疆问题表态地图-submitted-on-2019-07-14-1401160800" id="markdown-toc-500-各国对新疆问题表态地图-submitted-on-2019-07-14-1401160800">500: 各国对新疆问题表态地图, submitted on 2019-07-14 14:01:16+08:00.</a></li>
+</ul>
+
+<h3 id="443-other-mulan-official-teaser-trailer-predictions-submitted-on-2019-07-08-0002300800">443: <a href="https://old.reddit.com/r/boxoffice/comments/ca8e5f/other_mulan_official_teaser_trailer_predictions/">[Other] Mulan Official Teaser Trailer. Predictions?</a>, submitted on 2019-07-08 00:02:30+08:00.</h3>
+
+<p>—– <strong>443.1</strong> —–2019-07-08 07:19:40+08:00:</p>
+
+<p>Mulan looks girly even in the army?</p>
+
+<h3 id="444-ink-function-gn-worse-than-nb-submitted-on-2019-07-08-0218400800">444: <a href="https://old.reddit.com/r/GoodNotes/comments/ca9zhy/ink_function_gn_worse_than_nb/">Ink Function: GN worse than NB?</a>, submitted on 2019-07-08 02:18:40+08:00.</h3>
+
+<p>—– <strong>444.1</strong> —–2019-07-08 04:40:29+08:00:</p>
+
+<p>but afaik some guys have opposite opinion which I don’t understand because to me the negative feeling of GN’s ink is so strong comparing to NB’s that I always wonder wether I missed somethings</p>
+
+<h3 id="445-testing-out-my-new-setup-during-a-layover-submitted-on-2019-07-08-0343280800">445: <a href="https://old.reddit.com/r/ipad/comments/cab018/testing_out_my_new_setup_during_a_layover/">Testing out my new setup during a layover</a>, submitted on 2019-07-08 03:43:28+08:00.</h3>
+
+<p>—– <strong>445.1</strong> —–2019-07-09 00:59:15+08:00:</p>
+
+<p>tbh I never understand you kind of people because I’m OCD and must read/open each email everyday</p>
+
+<h3 id="446-disneys-mulan---official-teaser-submitted-on-2019-07-08-0359390800">446: <a href="https://old.reddit.com/r/China/comments/cab70q/disneys_mulan_official_teaser/">Disney’s Mulan - Official Teaser</a>, submitted on 2019-07-08 03:59:39+08:00.</h3>
+
+<p>—– <strong>446.1</strong> —–2019-07-08 09:47:28+08:00:</p>
+
+<p>In real history, Mulan is probably from the North</p>
+
+<p>—– <strong>446.2</strong> —–2019-07-08 09:47:50+08:00:</p>
+
+<p>why…</p>
+
+<p>—– <strong>446.3</strong> —–2019-07-08 09:50:10+08:00:</p>
+
+<p>tbh in real history, I think Mulan is probably much stronger than the average man and kinda tomboy</p>
+
+<p>I cannot expect she’s pretty</p>
+
+<p>—– <strong>446.4</strong> —–2019-07-08 09:54:17+08:00:</p>
+
+<p>Don’t know how you define them</p>
+
+<p>Lots of them, including the female MC LYF, are from the US geographically but has been active in China movie industry for decades so I don’t think she’s a star from the US culturally…</p>
+
+<p>Just like we will not call Jet Li as SGP star though he moved to SGP</p>
+
+<h3 id="447-chinas-vanishing-muslims-undercover-in-the-most-dystopian-place-in-the-world-2019---vice-news-takes-us-on-a-journey-into-chinas-methodology-of-expulsion-of-minority-groups-even-detaining-their-children-to-erase-cultural-and-traditional-values-by-use-of-high-tech-surveillance-and-police-submitted-on-2019-07-08-0425200800">447: <a href="https://old.reddit.com/r/Documentaries/comments/cabi33/chinas_vanishing_muslims_undercover_in_the_most/">“China’s Vanishing Muslims: Undercover In The Most Dystopian Place In The World” (2019) - VICE News takes us on a journey into China’s methodology of expulsion of minority-groups, even detaining their children to erase cultural and traditional values, by use of high-tech surveillance and police</a>, submitted on 2019-07-08 04:25:20+08:00.</h3>
+
+<p>—– <strong>447.1</strong> —–2019-07-09 01:45:46+08:00:</p>
+
+<p>As Chinese, I think you miss another point</p>
+
+<p>XJ camps is more for anti-separatism-movement rather than crashing-down-Muslim, which is another long story tho</p>
+
+<h3 id="448-vancouver-is-heaven-why-more-hong-kong-residents-are-considering-moving-to-canada-submitted-on-2019-07-08-0516170800">448: <a href="https://old.reddit.com/r/China/comments/cac3kw/vancouver_is_heaven_why_more_hong_kong_residents/">‘Vancouver is heaven’: Why more Hong Kong residents are considering moving to Canada</a>, submitted on 2019-07-08 05:16:17+08:00.</h3>
+
+<p>—– <strong>448.1</strong> —–2019-07-08 15:34:08+08:00:</p>
+
+<p>oops that’s why the housing rates of Vancouver never falls lol</p>
+
+<h3 id="449-is-china-headed-towards-another-cultural-revolution-an-interview-with-professor-xu-youyu--hong-kong-free-press-hkfp-submitted-on-2019-07-08-0621220800">449: <a href="https://old.reddit.com/r/China/comments/cactjd/is_china_headed_towards_another_cultural/">Is China headed towards another Cultural Revolution?: An interview with Professor Xu Youyu | Hong Kong Free Press HKFP</a>, submitted on 2019-07-08 06:21:22+08:00.</h3>
+
+<p>—– <strong>449.1</strong> —–2019-07-08 15:45:13+08:00:</p>
+
+<p>No. I don’t think China can go back to mao</p>
+
+<h3 id="450-an-intense-guide-to-chinese-drinking-culture-submitted-on-2019-07-08-0825300800">450: <a href="https://old.reddit.com/r/China/comments/cae3zo/an_intense_guide_to_chinese_drinking_culture/">An Intense Guide To Chinese Drinking Culture</a>, submitted on 2019-07-08 08:25:30+08:00.</h3>
+
+<p>—– <strong>450.1</strong> —–2019-07-08 09:45:20+08:00:</p>
+
+<p>oh man I hate it</p>
+
+<p>Chinese young generation hates it</p>
+
+<p>—– <strong>450.2</strong> —–2019-07-08 10:59:36+08:00:</p>
+
+<p>I think it’s kinda like the <em>party culture</em> in the states, some guys actually hate it, but if you hate it you may be at the risk of losing some social lifes or even job opportunities so it’s meibanfa (party culture may be a bit better because you can have multiple choices)</p>
+
+<p>Lots of young generation is meibanfa because they have to prepare well for stepping in the society and dealing with the old generation, college is a good place for them to practice, still sounds silly tho</p>
+
+<p>The good news is that, younger generation is much better</p>
+
+<p>Also, the south is better than the north and I’m glad that I live in the south (near HK)</p>
+
+<p>—– <strong>450.3</strong> —–2019-07-08 15:04:50+08:00:</p>
+
+<p>OK maybe I’m misguided by the Hollywoods films which always make the states like a crazy party country filling with alcohol, sex, and weed. (I know it’s definitely exaggerated but not sure how much)</p>
+
+<p>So what’s the social life after 25… fine dining?</p>
+
+<p>—– <strong>450.4</strong> —–2019-07-08 15:26:35+08:00:</p>
+
+<p>Beer is ok but baijiu/moutai is a big no to me</p>
+
+<p>I’m not bad on drinking but hate being forced</p>
+
+<h3 id="451-as-protests-continue-in-hong-kong-what-kind-of-political-concessions-are-in-the-realm-of-possibility-for-china-to-make-submitted-on-2019-07-08-0844510800">451: <a href="https://old.reddit.com/r/geopolitics/comments/caeb3m/as_protests_continue_in_hong_kong_what_kind_of/">As protests continue in Hong Kong, what kind of political concessions are in the realm of possibility for China to make?</a>, submitted on 2019-07-08 08:44:51+08:00.</h3>
+
+<p>—– <strong>451.1</strong> —–2019-07-08 10:11:29+08:00:</p>
+
+<p>HK is still important as its global financial center to China</p>
+
+<p>I don’t think SH can totally replace HK’s function due to the different system</p>
+
+<p>—– <strong>451.2</strong> —–2019-07-08 11:56:29+08:00:</p>
+
+<p>It doesn’t matter, man, SZ is the tech powerhouse</p>
+
+<p>The only but non-replaceable function of HK nowadays is as global financial center to China, it’s the white glove of CCP from the free world</p>
+
+<p>Btw I live besides HK and SZ, and my city is the same city scale</p>
+
+<p>—– <strong>451.3</strong> —–2019-07-08 14:39:34+08:00:</p>
+
+<p>bingo</p>
+
+<p>—– <strong>451.4</strong> —–2019-07-08 14:50:32+08:00:</p>
+
+<p>So is Shanghai, but the special advantage of HK is the <em>one country two systems</em>, which gives them an upper hand on information transparency, capital flexibility, and global connection and all of them are desired by International capital</p>
+
+<p><em>one country two systems</em> is a deliberate system designed for not only further Taiwan unification but also HK capital system.</p>
+
+<p>I cannot figure out the ccp internal report now but I remember they discussed the importance to keep the HK status to make the best use of its international financial center to get access to the free world resources</p>
+
+<p>If HK fails, lots of MNCs and financial groups may move their AS-PAC HQ to SGP but not SH (heavily depends on the ongoing trade war tho)</p>
+
+<p>Yea I live in GZ</p>
+
+<p>—– <strong>451.5</strong> —–2019-07-08 14:53:53+08:00:</p>
+
+<p>Are you talking about the ongoing protest? Yea sure until forcing Chinese central government to step in directly, therefore ccp is trying to avoid and keep the riots being controllable by the local government</p>
+
+<p>—– <strong>451.6</strong> —–2019-07-08 21:07:32+08:00:</p>
+
+<p>I mean, the world, especially the US</p>
+
+<h3 id="452-纳粹德国和法西斯日本都在战后变身成为民主国家为什么中国吃了独裁5000年的亏仍然不愿意走向民主-submitted-on-2019-07-08-1132120800">452: <a href="https://old.reddit.com/r/saraba1st/comments/cafy9i/纳粹德国和法西斯日本都在战后变身成为民主国家为什么中国吃了独裁5000年的亏仍然不愿意走向民主/">纳粹德国和法西斯日本都在战后变身成为民主国家，为什么中国吃了独裁5000年的亏仍然不愿意走向民主？</a>, submitted on 2019-07-08 11:32:12+08:00.</h3>
+
+<p>—– <strong>452.1</strong> —–2019-07-09 04:58:55+08:00:</p>
+
+<ol>
+  <li>
+    <p>其他国家不了解，但单独西方的话，别人文明从一开始就有“民主”“共和”“联邦”这种概念，即使后来也有很多集权制，但是种子在适当时候总会爆发的。中国则没有这个种子</p>
+  </li>
+  <li>
+    <p>现在的民主国家，主要是三大类，原欧洲国家（旧西方），新兴国家（加美新澳），被西方强控改造国家（二战战败国+完全殖民国）</p>
+  </li>
+  <li>
+    <p>从历史的大维度看，其实民主制度是否最终选择，是否有the end of history，仍然是不可知的</p>
+  </li>
+  <li>
+    <p>其实历史有很大的偶然性，若是kmt上台，虽然kmt当时跟ccp一样独裁，但是其控制力并没有那么变态，若是kmt的话现在应该能民主</p>
+  </li>
+</ol>
+
+<h3 id="453-those-who-use-an-ipad-with-apple-pencil-for-collegeschool-and-take-notes-by-hand-how-do-you-like-it-and-what-are-the-benefits-youve-noticed-from-using-an-ipad-over-pen-and-paper-submitted-on-2019-07-08-1314430800">453: <a href="https://old.reddit.com/r/ipad/comments/cagvlb/those_who_use_an_ipad_with_apple_pencil_for/">Those who use an iPad with Apple Pencil for college/school and take notes by hand, how do you like it and what are the benefits you’ve noticed from using an iPad over pen and paper?</a>, submitted on 2019-07-08 13:14:43+08:00.</h3>
+
+<p>—– <strong>453.1</strong> —–2019-07-08 22:13:25+08:00:</p>
+
+<ol>
+  <li>
+    <p>I’m a completist and infinite modifications on iPad allow me to start my notes easily</p>
+  </li>
+  <li>
+    <p>College courses are always flexible, the knowledge is huge with random construction (especially if you have an awful professor). So the flexibility of digital notes fit this case perfectly. You can add/remove page, rearrange inks, etc</p>
+  </li>
+  <li>
+    <p>When you search online, it’s easy for you to add the images, screenshot, and even the whole webpage to your notes without wasting your time to copy and draw.</p>
+  </li>
+  <li>
+    <p>Besides digital notes, I read and annotate the textbooks directly on my iPad and it’s extremely convenient and quick. If you have to write homework on iPad then just open the annotated textbooks on your Mac with seamless sync so the limited screen is not a problem.</p>
+  </li>
+  <li>
+    <p>Review your notes wherever you are (cafe/restroom/road) and whenever you are (probably go back after several semesters)</p>
+  </li>
+  <li>
+    <p>There are other fancy functions such as voice recording on NB and so on but I personally don’t use them a lot</p>
+  </li>
+  <li>
+    <p>Back up</p>
+  </li>
+</ol>
+
+<hr />
+
+<p>Actually iPad digital notes are not only convenient but make me love taking notes somehow which I couldn’t image several years ago. I enjoy study more than before</p>
+
+<p>—– <strong>453.2</strong> —–2019-07-08 22:36:18+08:00:</p>
+
+<p>I owned SFP4 and it’s kinda awful writing on OneNote (including lots of Math notes)</p>
+
+<p>Now I switch to iPad and everything seems better</p>
+
+<p>—– <strong>453.3</strong> —–2019-07-08 23:01:57+08:00:</p>
+
+<p>is it the same thing as <em>paper-like protector</em>?</p>
+
+<p>—– <strong>453.4</strong> —–2019-07-08 23:14:04+08:00:</p>
+
+<p>Actually Microsoft’s tablet ecosystem is still not as strong as Apple’s IMO, including the apps and integration</p>
+
+<p>Not saying SFP4 is that awful, but at least for me, after using both of them, iPad+Mac remains the upper hand</p>
+
+<p>I bought SFP4 because I wanted to combine my tablet with laptop, but actually it’s kinda dumb when I have to take notes and search information at the same time (split-view is not enough)</p>
+
+<p>SFP4’s pen with unstable head is another big con</p>
+
+<h3 id="454-help-me-make-the-most-of-my-ipad-submitted-on-2019-07-08-1519110800">454: <a href="https://old.reddit.com/r/ipad/comments/cahw8k/help_me_make_the_most_of_my_ipad/">Help me make the most of my iPad</a>, submitted on 2019-07-08 15:19:11+08:00.</h3>
+
+<p>—– <strong>454.1</strong> —–2019-07-09 01:01:37+08:00:</p>
+
+<p>tbh to maximize the production I’d like equipping Mac with iPad and use VM if necessary</p>
+
+<p>I was a big fan of OneNote (I owned an SFP5) but now I switch to iPad and feel better, the only function I miss for OneNote is that you can add extra room everywhere but it’s not a big deal. Infinite paper also has both its pros and cons and I end up loving A4 digital paper because it’s more intuitionistic and convenient when I hand-in my assignments. The other thing SFP annoying me is the pen with unstable head</p>
+
+<p>Go back to iPad topic, to me, the notes apps are <strong>Notability</strong> and <strong>Goodnotes</strong>, you can open auto-backup linked with other clouds as PDF so that you can have a PDF view of your notes seamlessly on your laptop (both NB and GN4 has this function, GN5 is working on it). btw Notability also provided a Mac version</p>
+
+<p>Also, the PDF apps must be <strong>PDF Expert</strong>, equipped with <strong>Documents</strong> (filesystem), where I just open the textbooks on clouds and annotate them directly. I strongly recommend you to download all the Readdle apps including the two I mentioned here, their intergation is the best!</p>
+
+<p>Last, you can buy an paper-like protector to enhance the writing experience</p>
+
+<p>—– <strong>454.2</strong> —–2019-07-10 05:56:00+08:00:</p>
+
+<p>Printing OneNote is always creepy no matter how you print it</p>
+
+<p>PDF Expert can be integrated in Documents so that you can annotate your PDFs <em>directly</em> on Documents. Must have</p>
+
+<h3 id="455-whats-the-closest-youve-ever-been-to-a-real-life-porn-scenario-submitted-on-2019-07-08-1653570800">455: <a href="https://old.reddit.com/r/AskReddit/comments/cail46/whats_the_closest_youve_ever_been_to_a_real_life/">What’s the closest you’ve ever been to a real life porn scenario?</a>, submitted on 2019-07-08 16:53:57+08:00.</h3>
+
+<p>—– <strong>455.1</strong> —–2019-07-09 02:19:46+08:00:</p>
+
+<p>feel bed</p>
+
+<h3 id="456-chinese-economists-warn-beijing-to-prepare-for-decoupling-from-us-submitted-on-2019-07-08-1843440800">456: <a href="https://old.reddit.com/r/China/comments/cajgw5/chinese_economists_warn_beijing_to_prepare_for/">Chinese economists warn Beijing to prepare for decoupling from US</a>, submitted on 2019-07-08 18:43:44+08:00.</h3>
+
+<p>—– <strong>456.1</strong> —–2019-07-09 05:13:31+08:00:</p>
+
+<p>No</p>
+
+<p>If AI-manuf works in the foreseeable future, the most unfortunate countries should be the undeveloped countries and small developing countries but not China and India</p>
+
+<p>You’d better check the STEM brains and AI-related industries in China, man</p>
+
+<p>China is too big, the large pool of uneducated workers sometimes eclipses the relative advanced parts but you should not overlook it</p>
+
+<p>China, following the US, would be the largest winners in this game. Given the large amount of mature engineers, huge consumer markets, established transportation system and less importance of labor cost due to the rise of AI, some, if not large, manufacturing will move back to the relatively advanced countries.</p>
+
+<p>Actually I would worry more about China’s future considering the hyper-aging population if the AI-manuf doesn’t come that fast</p>
+
+<p>—– <strong>456.2</strong> —–2019-07-10 14:16:46+08:00:</p>
+
+<p>This is a classic argument, and it really depends on which one you’re comparing to</p>
+
+<blockquote>
+  <p>You seem to be saying that the quantity of engineers, people and transportation in China is an advantage.</p>
+</blockquote>
+
+<p>Comparing to US, probably not that advantageous, I mentioned it, but when it comes to any other big countries, I see no one can surpass (but may be still at abreast)</p>
+
+<blockquote>
+  <p>Perhaps it is. However, quality will always be better than quantity. If I have 100 engineers working for me and they invent an average of 5 new inventions a year. While you have 1000 engineers that produce 0 inventions a year. Who has the advantage? […]
+The simple fact is that massive numbers of engineers have been working in China for decades. Yet, the number of inventions from China is almost nonexistent. While having tons of engineers may seem like an advantage. Paying all those engineers, while not getting any new technology in return. Is a terrible investment. […] Many engineers + No inventions = waste of money</p>
+</blockquote>
+
+<p>Invention is a slow process, man. Check the pattern how the Germany caught up the UK in the 19 century and how Japan caught up the US in the 20 century. All of them are from copycats and reversed engineering turned out to be innovation leaders. Put down the suspicion of IP violation and evil regime scenario here, Huawei is the 5G leader, Ali Cloud is the 4th in the world, Tencent and Bytedance are good at business level innovations, DJI is the dominator of drone market, Xiaomi is not that tech-advantageous now but still growing up fast. Not to mention other AI-leading companies such as <a href="https://www.cbinsights.com/research/artificial-intelligence-top-startups/">Baidu, SenseTime, HiSilicon, YITU Tech, 4Paradigm, Face++, iFLYTEK and so on</a>. Since we are talking about Manuf-AI here, so I just list the related companies. On the top-ranked AI papers, <a href="https://www.theverge.com/2019/3/14/18265230/china-is-about-to-overtake-america-in-ai-research">here is a diagram to show the quality of Chinese engineers</a>. I realize there are so many flaws in China system but I don’t think it’s zero innovation.</p>
+
+<blockquote>
+  <p>A good example of this is the UK. China has 21x the population of the UK. However, the Chinese economy only produces 5x the GDP of the UK. Meaning that if the UK had the same population as China. Their GDP would be 50 trillion a year(China GDP 15 trillion)!</p>
+</blockquote>
+
+<p>I’m sick that people compare China to other non-big countries, UK is not small, but still not a suitable country compared with China. Can I say the GDP per capita of Luxembourg is much higher than the US so it’s more advanced? Don’t get me wrong. I’m not implying that China is more advanced than the UK, but clearly it’s very hard for China to catch up other not-that-big advanced countries on GDP per capita, otherwise China at that time will be much more powerful that the US. Really, a country of 1/5 global population can win the UK on GDP per capita? That’s the god’s power. The US is an exception because the US is built based on the global system and has accumulated its power for two centuries.</p>
+
+<blockquote>
+  <p>In regards to the huge consumer market. China has always had a very large population. The size of the market in China was also massive from 1950-1979. How many countries were selling products in China during that time? No one had access to the Chinese market during that period. Little has changed since then. […] The idea that anyone has complete access to the Chinese economy is nonsense. Even companies with access are limited or have to hand over technology and IP for the limited access. Many companies are banned. Google, Facebook, Youtube, Snapchat, Instagram, Reddit, etc. Which is why so many companies are leaving China.</p>
+</blockquote>
+
+<p>Obviously, here I’m talking about the status quo, a mature middle class market. Also, here I’m talking about the pervasive manufacturing industry which will be impacted by AI-Manuf heavily but not the AI industry companies themselves. I understand that there are HUGE potential in other countries such as India and I didn’t deny it. My point is some undeveloped countries which are expected to benefit in the end of this century from the wave of global industrial transfer which traces extreme low labor cost and they may be impacted by the ongoing AI-Manuf at that time.</p>
+
+<blockquote>
+  <p>Established transportation systems are cheaper than establishing transportation systems. However, roads, trucks, trains, boats, airports, airplanes and ports are all very old technology. They can literally be built anywhere by any country. They just need money. Not much of an advantage.</p>
+</blockquote>
+
+<p>Yes, they are. But still not that easy coming to the policy and other factors. For example, an electricity system is low tech, but a pervasive, comprehensive, and consistent electricity system is another issue. It’s true that majority countries must be end up upgrading their infrastructure system but the time table is a question. Lots of them are not only about technology but other systematic factors such as bribe, environment issues, and so on. CCP is kinda evil in some aspects, but if we focus on the infrastructure effect, CCP shortened the upgrading process successfully by heavily policy and capital investment and other cruel methods such as force demolition of citizen houses.</p>
+
+<p>Also, the theory that all countries will keep going forward is a fairy tale. Not to mention the Middle Income Trap that lots of countries including China are still struggling in it, let say SEA. SEA is a hot topic nowadays because it and India seems to be the next China but actually lots of them were supposed to be manufacturing powerhouse last century but had been interrupted by 1997 Asian Financial Crisis. Lots of countries degraded a lot such as Argentina, South Africa, some ME and SEA countries and so on. There are many black swans waiting on the road, no matter on economic, infrastructure, or any other aspect.</p>
+
+<hr />
+
+<p>Anyway, I’m not arguing that all the manufacturing industry will keep staying in China, nor did I say China will surpass some advanced countries.</p>
+
+<p>TL;DR The manufacturing industry will keep transferring to the low cost areas, but it doesn’t mean all these areas will definitely get this free lunch. The rising of AI-Manuf may impact them negatively and benefits the countries with well-prepared AI-Manuf techs such as the US and China. The undeveloped countries, rather than China, should worry more about AI-Manuf if it comes too fast.</p>
+
+<p>—– <strong>456.3</strong> —–2019-07-12 07:01:56+08:00:</p>
+
+<p>oh man you are a bit picky. So, the AI papers and other factors should not be regarded as the potential possibility of China’s <del>innovation</del> invention? I don’t know why someone would think the inventions will not happen if the innovations insides a country are increasing, because invention is the highest level of innovation. A country accumulated the capital, experience, and brains in the process of low-end foundry and then climbed the value chain step by step and it should be for decades. China actually opened its door to capitalism in <del>1978</del> 1992. Actually I’ve already given credits to your current argument, because in the second comment you said <em>no invention is a waste of money</em> but actually lots of China tech giants nowadays are making money both at home and abroad. They don’t have high-level tech innovation (i.e. invention), but have other business model innovations (Ali/Tencent/…) and low-level tech innovations (DJI/Huawei/…). Also, the first one who created something cannot guarantee that he can make huge money from it. Your QR code example is a perfect counterexample to your argument. So, now here is a question to <del>China</del> Japan: is inventing QR code first but not that successful in earning profit a big WASTE of money?</p>
+
+<p>Not to forget that, we were talking about AI-Manuf, therefore I gave some AI-related examples which are the top field in contemporary technology. Actually China invention on some fields are not that bad, for example high-speed rail and <a href="https://www.sciencemag.org/news/2017/06/china-s-quantum-satellite-achieves-spooky-action-record-distance">quantum satellite and communication</a></p>
+
+<p>The rising of systematic complexity of invention means that the 21 century is not like 19 or 20 century, when a person like Edison can invent tons of stuffs. Nowadays, a team of hundreds of scientists may just works for years to enhance a component of supercomputer, like China’s <a href="https://en.wikipedia.org/wiki/Sunway_TaihuLight">Sunway supercomputer</a> which once was the fastest one in the world (now was took back by the US) but you cannot deny that it’s not a huge progress.</p>
+
+<p>The global cooperation system means that MNCs will set their R&amp;D HQ worldwide and the university will cooperate with each other. Otherwise, do you think the inventions from foreign scientists working in the US colleges should be counted for the US invention or not? IMO letting the market speak is the simplest and probably fair method, if the market buys it, then it’s a success.</p>
+
+<p>You compare China with Japan and Germany and just reflect the fact that you have NO CLUE what’s happened in the last two centuries, i.e. the Industrial Revolution. Both Japan and Germany not only completed their industrialization but also became the top players of the world platform or they wouldn’t have the ability to start WWII. China, whose industrialization was interrupted by the Sino-Japan war during ROC, restarted this process after the establishment of PRC. Germany and Japan, as the highly industrialized countries, even if without the aid of Marshall Plan and Korean War respectively, could still recover fast after the war, because their people were not destroyed. For instance, even there is a meteorite attacking and destroying every physical building in the US tomorrow, the US would recover super fast because the highly modern, civilized, and industrialized people are still there.</p>
+
+<p>—– <strong>456.4</strong> —–2019-07-12 23:40:20+08:00:</p>
+
+<p>Well, I think, I’m talking about the <em>tendency</em>, while you’re picky about the current results</p>
+
+<p>Your arguments are fair and give me some information I didn’t realize, which I appreciate</p>
+
+<p>But at the same time, I don’t think it hurts my argument in the big picture</p>
+
+<p>Your definition of <em>invention</em> sounds like it must be comprised of the wholly new components</p>
+
+<p>IDK man, not to mention the saying, <em>standing on the shoulders of giants</em></p>
+
+<p>If we follow your definition of invention</p>
+
+<p>Watt’s steam engine was not an invention because it’s derived from the reciprocating motion one but it did help GB to lead the first industrial revolution.</p>
+
+<p>The US’s satellite was not an invention because the first one, as you said, was from USSR but it did help the US in the space race.</p>
+
+<p>The US’s long-range missile was not an invention because the fist one was Germany V2 rocket but it did help the US maintain the military hegemony.</p>
+
+<p>The possible inventions in this century with the impacts being abreast of Internet and steam engine that come to my mind should be <em>strong AI</em> and <em>controllable nuclear fusion</em>, but I guess you would deny them as inventions again, because they are from <em>weak AI</em> and <em>nuclear energy</em> respectively.</p>
+
+<hr />
+
+<p>I didn’t accept your argument is not because some nationalist arrogance shit. NO. I’m open-minded. I just cannot accept it from the logic</p>
+
+<p>—– <strong>456.5</strong> —–2019-07-13 00:13:45+08:00:</p>
+
+<p>Sigh, so you are still stuck at the definition of invention</p>
+
+<p>Don’t you forget what’s our topic? The AI-Manuf and whether China can prepare for it well, and I brought the fact that China’s technology is rising so the undeveloped countries may be impacted more negatively while China may actually gets benefit from it</p>
+
+<p>Then you keep saying that why China has no invention and therefore it’s a waste of money, which is not directly related to our topic. Watt’s steam engine, was not an invention but still benefited GB a lot, so are other innovations in China nowadays.</p>
+
+<p>I was not saying China is NO 1 in controlled nuclear fusion and AI, just want to mention that, based on your logic with highly focus on invention itself, you may ignore the importance of innovation, , such as coming controlled nuclear fusion and strong AI, which can also make huge impacts</p>
+
+<p>In short, <strong>innovation is not always weaker than invention itself</strong> especially if we focus on economy and power, though I agree that from the perspective of mankind, invention is far more important because it’s the real progress</p>
+
+<p>—– <strong>456.6</strong> —–2019-07-13 00:22:15+08:00:</p>
+
+<p>Thank you for sharing knowledge! It indeed helped my thinking from other perspective</p>
+
+<p>—– <strong>456.7</strong> —–2019-07-13 01:30:03+08:00:</p>
+
+<p>Thanks but</p>
+
+<blockquote>
+  <p>your narrative that inventions are not still happening is wrong.</p>
+</blockquote>
+
+<p>I didn’t say that.</p>
+
+<p>I meant, the inventions <em>in China</em> has not happened yet (which is also your argument) but it will happen once China finished industrialization and basic development</p>
+
+<p>The lists I gave above are just to prove that, <em>on the social influence and economy power</em> (our original topic), the ones who benefit most (a lot) are not always (only) the inventors themselves, I did realize there are tons of inventions have been and still are happening in the world especially in the states</p>
+
+<p>—– <strong>456.8</strong> —–2019-07-13 08:52:26+08:00:</p>
+
+<blockquote>
+  <p>but Chinese doesn’t use any American apps.</p>
+</blockquote>
+
+<p>let’s be fair, it’s more about GFW, though the GFW did feed the China tech giants</p>
+
+<p>btw, why there is one still visiting this old post</p>
+
+<p>—– <strong>456.9</strong> —–2019-07-13 10:43:45+08:00:</p>
+
+<p>some are true some are false</p>
+
+<p>Amazon and Microsoft MSN did fail because they didn’t value China market that much, but</p>
+
+<blockquote>
+  <p>Even before China block google in 2014, very few people used Google.</p>
+</blockquote>
+
+<p>Actually they’re half and half, and the instability of Google research in China should be largely attributed to the Chinese government picky censorship (more picky than Russia, where Google also helped censorship)</p>
+
+<blockquote>
+  <p>europe lost all their internet industry market share to American companies because they don’t know internet is also a sovereign territory, hence lost the innovation capability in next gen info revolution.</p>
+</blockquote>
+
+<p>That’s true, and that’s why European nowadays feel regret to open free market to the US tech giants. The other reason is that, there are too much languages and cultures in Europe which is a big disadvantage to their startup and unicorn</p>
+
+<hr />
+
+<p>I’m still writing the next comment, man, such as long post</p>
+
+<p>—– <strong>456.10</strong> —–2019-07-13 21:43:20+08:00:</p>
+
+<p>It seems that you are from the US (if not, plz correct me) and keep using the US to compare China. I noticed it from the start so I’ve mentioned it several times in my previous comments that I’m focusing on the less-developed country but not the US, I mentioned that China is still far behind the US, like this</p>
+
+<blockquote>
+  <p>China, following the US, [blablabla]</p>
+</blockquote>
+
+<p>but it seems that you didn’t realize or just ignored it.</p>
+
+<blockquote>
+  <p>The list you gave me shows social influence and economic power in Mainland China and mainland China only. Since things like Baidu, Wechat, Ali or JD.com. Are only popular in China</p>
+</blockquote>
+
+<p>This is enough for the current development and actually a great progress comparing to 10 years ago, when all the powerful companies in China were foreign companies. The domestic companies growing from beating the foreign counterparts at home to spreading oversea sounds pretty natural to me. TikTok earns the endorsement from the western generation Z. Aliexpress (not Taobao or Tianmao) has an influence in the world especially in Russia and SEA. You can download the app to see whether there are some European and American using it.</p>
+
+<p>These companies are actually the foundations for innovation or even invention. Because if you desire deeper innovation and, as you said, precise invention, then you must have the capital, experience, brains, and resources <em>at first</em>. Now, assume you are the president of a country, would you prefer, China, with tier-II but at least functioning tech giants, or India and other countries, whose domestic markets are being occupied by the US companies and brains being absorbed to the US?</p>
+
+<p>If you think it’s not enough, go to ask the European that whether they’re jealous about China having the tech giants while there is no such a one in the Europe (sometimes I visit r/Europe). Nowadays more and more European are questioning that whether they should open the free market to the US because the personal data, while it’s free, is actually the most valuable resource in the age of AI. The US tech giants are exploiting the European resources, from the personal data to tech powerhouses such as deep mind. Now, at least China has 1.3b data to feed the DL and AI algorithms and has a set of tech giants to nurture the endemic brains.</p>
+
+<blockquote>
+  <p>Are only popular in China. Almost no one outside of China even knows who these companies are. Go to America and ask anyone if they know who Tencent, Baidu or Alibaba is. 99.9999% of people will say “who?”</p>
+</blockquote>
+
+<p>The fact that you come from the US does impair your feeling of reality of the third world because you stand too high. You are standing on the top of mountain, then of course you cannot feel the wind at the foot of mountain. When there is a wind, it blows from the foot to the top, and the US must be the last one to feel it or probably cannot feel it if the wind is not strong enough. But it never means the wind doesn’t exist. If you want to feel the wind, you’d better climb down a bit, like visiting the Europe, SEA, ME, and even Africa. But tbh, although it’s true, your description of 99.9% here is definitely exaggerated because it didn’t fit my experience in the US.</p>
+
+<blockquote>
+  <p>You keep speaking about invention as if it is a natural progression. It’s not. It needs to be nurtured and regulated</p>
+</blockquote>
+
+<p>Great point and that’s the next stage of development where China should be. There is a concept called <a href="https://en.wikipedia.org/wiki/Middle_income_trap">Middle Income Trap</a> and China is fighting on it. Although it’s a wider concept, it has great relationship with regulation and innovation because if a country want to overcome this obstacle, it must enhance its efficiency of production which requires the things you and me mentioned here.</p>
+
+<p>However, regulation is also a kind of progress. It’s impossible that, a group of uneducated people, who suffered a lot from the cultural revolution and starvation, suddenly know what’s regulation and obey the laws, all of them want to do in these decades is to make money. You may see the bad reputation of Chinese tourist at home and abroad, and that’s because these uneducated people get rich too fast. The younger generations are still far from perfect, but at least lots of them are educated and grow up in a good environment, they love clear regulation rather than vague guanxi, they prefer to buy official digital products to support the musicians and developers and they are more willing to use law to defend their rights.</p>
+
+<p>As a person growing up in China, I know how bad the IP environment was in China. But some western medias say it’s a CCP deliberate policy is kinda stupid too. IMO it’s more like a natural process of the people awareness, if not, you can visit other third world countries and compare them. The only similar thing from CCP I’ve read is a book of Wang Huning (China’ Kissinger, now #5 member of the standing committee of the political bureau) saying that (roughly translation)</p>
+
+<blockquote>
+  <p>Teaching them laws is like teaching them the to play basketball, you cannot force the law strictly at the beginning, you should use the law and let the people get use to it year by year</p>
+</blockquote>
+
+<p>I don’t know whether it’s rational or not, but at least, the creepy IP environment of China nowadays, is more a stage of development, rather than a deliberate trap the CCP made to steal technology.</p>
+
+<p>Of course, it hard for China to have a real law system because there’s no independent rule of law under CCP leadership but in my eyes, at least in the non-political fields such as the IP issues, still far away from perfect but the things are getting better and better.</p>
+
+<hr />
+
+<p>btw I go back to think again, I still think you’re a bit picky about the word <em>invention</em>, or in other words, it’s probably you but not us, treating the China propaganda too seriously. For example, you may know there’s a saying, <em>four new inventions</em>, include high-speed rails, e-commerce, sharing bikes, and blablabla. This description is just an analogy to the <em>old four inventions</em> and that’s all. Chinese are proud of them because they’re some innovations finally from the China companies. Yes, they’re minor innovations, business-level innovations, and built on other existing projects, but still much better than 10 years ago, when all China domestic markets were dominated by foreign companies. That’s why, I emphasized, this endorsement is more for <em>tendency</em>, but not <em>status quo</em>. Sometimes we call them <em>inventions</em> but, really, that’s all. NONE of Chinese would think they’re at breast of some real inventions such as Internet, Mac, or satellite, unless you count the Chinese red necks who haven’t finished their high schools.</p>
+
+<h3 id="457-gordon-g-chang-on-twitter--we-chinese-americans-have-many-spies-and-traitors-among-us-submitted-on-2019-07-08-1917400800">457: <a href="https://old.reddit.com/r/China/comments/cajr84/gordon_g_chang_on_twitter_we_chineseamericans/">Gordon G. Chang on Twitter | We Chinese-Americans have many spies and traitors among us</a>, submitted on 2019-07-08 19:17:40+08:00.</h3>
+
+<p>—– <strong>457.1</strong> —–2019-07-09 02:31:38+08:00:</p>
+
+<p>kinda true but the US is at least far best than other single-nation countries because it’s a new style country built on the new land</p>
+
+<p>As <a href="https://twitter.com/valaafshar/status/1076500602534985729?lang=en">President Ronald Reagan’s final speech</a>:</p>
+
+<blockquote>
+  <p>Anybody from any corner of the world can come to America to live and become an American. We draw our people, our strength, from every country and every corner of the world.</p>
+</blockquote>
+
+<p>Assimilation is a slow process</p>
+
+<p>—– <strong>457.2</strong> —–2019-07-09 02:33:35+08:00:</p>
+
+<p>The CoMing ColLaPse of CHiNa – by GGC</p>
+
+<p>btw GGC is the most non-Chiense-look-like ABC I could find (he’s half Chinese)</p>
+
+<p>—– <strong>457.3</strong> —–2019-07-09 05:04:17+08:00:</p>
+
+<p>GGC must be from the Oversea Section of CCP Propaganda Department</p>
+
+<p>GGC’s spy-like actions are kinda memes in China</p>
+
+<p>He can probably make shit ton of money if having bilibili account</p>
+
+<h3 id="458-which-country-is-more-influential-india-or-china-submitted-on-2019-07-08-1937100800">458: <a href="https://old.reddit.com/r/geopolitics/comments/cajxe0/which_country_is_more_influential_india_or_china/">Which country is more influential: India or China?</a>, submitted on 2019-07-08 19:37:10+08:00.</h3>
+
+<p>—– <strong>458.1</strong> —–2019-07-08 21:29:16+08:00:</p>
+
+<p>I think a bit difference is that the western medias hate China more than India due to authorization regime?</p>
+
+<p>AFAIK India also did lots of “bad” things: nibbling Sikkim, oppressing separatism movements cruelly</p>
+
+<p>—– <strong>458.2</strong> —–2019-07-09 02:23:42+08:00:</p>
+
+<p>I mean the things happened after WWII and some of them are still ongoing</p>
+
+<p>I could be wrong because I’m Chinese so obviously focus more on China-related news but I feel the western medias focus more on China and Russia than India</p>
+
+<p>—– <strong>458.3</strong> —–2019-07-09 02:42:03+08:00:</p>
+
+<blockquote>
+  <p>My guess is probably because China is “Communist” country and could be a credible security threat unlike India which has good relations with major Western powers</p>
+</blockquote>
+
+<p>That’s exactly what I said in my first comment</p>
+
+<p>Frankly, I don’t think, the multi-nation countries such as China, India, and Russia, can solve all the problems with extreme humane methods. The west has finished these processes century ago of course it’s easy for them to say</p>
+
+<p>—– <strong>458.4</strong> —–2019-07-09 05:35:24+08:00:</p>
+
+<blockquote>
+  <p>India slowly shifting to the Right and liberal media</p>
+</blockquote>
+
+<p>Interesting. Could you explain a bit about it?</p>
+
+<p>I heard that the Muslim in India is worse than before?</p>
+
+<p>—– <strong>458.5</strong> —–2019-07-09 08:35:31+08:00:</p>
+
+<p>Really thankful for these precious information! As Chinese, I always want to know more about India but not sure which channel is good. <em>The Times of India</em> sounds good?</p>
+
+<h3 id="459-china-is-not-an-enemy-of-the-us-and-the-world-but-the-ccp-is-submitted-on-2019-07-08-1957070800">459: <a href="https://old.reddit.com/r/China/comments/cak3vv/china_is_not_an_enemy_of_the_us_and_the_world_but/">China is Not an Enemy of the US and the World. But the CCP is.</a>, submitted on 2019-07-08 19:57:07+08:00.</h3>
+
+<p>—– <strong>459.1</strong> —–2019-07-08 22:49:38+08:00:</p>
+
+<p>That’s very true</p>
+
+<p>There is a saying, <em>CCP is like a ghost possessing a person called China, you cannot do exorcism without hurting the person</em></p>
+
+<p>It’s still hard tho</p>
+
+<p>—– <strong>459.2</strong> —–2019-07-09 02:05:03+08:00:</p>
+
+<p>Actually it’s not that famous and I heard it somewhere, roughly</p>
+
+<p>中共如寄于中国之鬼，救人必驱鬼，驱鬼必伤人</p>
+
+<p>—– <strong>459.3</strong> —–2019-07-09 08:30:34+08:00:</p>
+
+<p>Yup ACCURATE. Actually a considerable group of Chinese is not only OK with but actually endorse CCP leadership</p>
+
+<p>The modern era is kinda short comparing to civilization age, not to mention the mankind history, and it’s still far away from drawing a conclusion that whether there is <a href="https://en.wikipedia.org/wiki/The_End_of_History_and_the_Last_Man">the end of history</a></p>
+
+<p>—– <strong>459.4</strong> —–2019-07-09 10:08:02+08:00:</p>
+
+<p>interesting story but kinda beyond me so I’m not sure what’s the meaning behind? Psychological inertia?</p>
+
+<p>I cringe now</p>
+
+<p>—– <strong>459.5</strong> —–2019-07-11 20:55:08+08:00:</p>
+
+<p>Mao’s era is definitely a religion environment, lots of Chinese called it as <em>Marxism Religion</em></p>
+
+<p>However, go back to your story, to me, it sounds like this girl (?) was just making a joke…</p>
+
+<p>because in the west, it’s like <em>God endorses the marriage</em> and it’s easy for people to notice the analogy between them</p>
+
+<h3 id="460-anyone-else-come-across-one-of-these-before-three-years-of-living-here-and-china-never-ceases-to-surprise-submitted-on-2019-07-08-2002580800">460: <a href="https://old.reddit.com/r/China/comments/cak5tw/anyone_else_come_across_one_of_these_before_three/">Anyone else come across one of these before? Three years of living here and China never ceases to surprise</a>, submitted on 2019-07-08 20:02:58+08:00.</h3>
+
+<p>—– <strong>460.1</strong> —–2019-07-09 04:44:37+08:00:</p>
+
+<p>Username check out</p>
+
+<h3 id="461-syncing-with-icloud-submitted-on-2019-07-08-2222440800">461: <a href="https://old.reddit.com/r/GoodNotes/comments/calnq1/syncing_with_icloud/">Syncing with iCloud?</a>, submitted on 2019-07-08 22:22:44+08:00.</h3>
+
+<p>—– <strong>461.1</strong> —–2019-07-09 01:26:13+08:00:</p>
+
+<p>I have the same question, I desire a PDF view of my notes on laptop via iCloud but fails, I’m quite sure I can do it through PDF-view auto-backup with other clouds such as Onedrive and G-Drive on NB and GN4 (GN5 is still working on it)</p>
+
+<p>AFAIK the iCloud syncing of GN means that you can sync the contents (different from the PDF-view auto-backup as above) among all the Apple devices but because they don’t have a Mac version app so it seems no way I can see my GN5 contents on Mac which is f**king annoying</p>
+
+<p>Hope somebody else help me figure it out</p>
+
+<hr />
+
+<p>Anyway, you can still achieve your goal if using GN4 or NB</p>
+
+<p>—– <strong>461.2</strong> —–2019-07-09 01:56:11+08:00:</p>
+
+<p>actually if you don’t mind using GN4 or NB, it’s a better experience for view because your can use PDF app to see them with two or more pages at one glance while the official app such as NB Mac version is kinda dumb for view (good for typing tho)</p>
+
+<p>the auto-backup should be seamless at least in the states so you can annotate notes on iPad with simultaneous show-up on your Mac screen</p>
+
+<h3 id="462-香港政治歌曲推薦-submitted-on-2019-07-09-0947060800">462: <a href="https://old.reddit.com/r/China_irl/comments/cau8vb/香港政治歌曲推薦/">香港（政治）歌曲推薦</a>, submitted on 2019-07-09 09:47:06+08:00.</h3>
+
+<p>—– <strong>462.1</strong> —–2019-07-09 11:50:21+08:00:</p>
+
+<p>Beyond 长城 - 据闻是<a href="https://zh.wikipedia.org/wiki/六四歌曲">纪念64</a> 不知真假</p>
+
+<p>其他的比如 大地 农民 等 谈不上政治 但也比较批判</p>
+
+<h3 id="463-the-chabuduo-thread-post-your-chabuduo-pics-or-stories-submitted-on-2019-07-09-0951340800">463: <a href="https://old.reddit.com/r/China/comments/cauan5/the_chabuduo_thread_post_your_chabuduo_pics_or/">The Chabuduo Thread (post your Chabuduo pics or stories)</a>, submitted on 2019-07-09 09:51:34+08:00.</h3>
+
+<p>—– <strong>463.1</strong> —–2019-07-09 11:56:04+08:00:</p>
+
+<blockquote>
+  <p>I found a real coffee store (i.e. better than Starbucks)</p>
+</blockquote>
+
+<p>I cannot tell how many times I see this description, sounds like Starbucks is kinda negative to lots of westerners lol, feels like McDonald-to-fine-dining to you?</p>
+
+<p>—– <strong>463.2</strong> —–2019-07-09 11:59:11+08:00:</p>
+
+<p>cannot agree more, different from civil society</p>
+
+<p>—– <strong>463.3</strong> —–2019-07-09 12:14:03+08:00:</p>
+
+<p>It’s indeed nothing special in my life</p>
+
+<p>The point is that, I can feel the huge difference between McDonalds and fancy western restaurants, but not between Starbucks and other so-called greater coffee shops (not sure it’s the cultural thing or personal taste)</p>
+
+<p>Also, Starbucks has a strong social add-on in China, lots of girls and boys always order a Starbucks, put a MacBook Pro, and post their over-PS selfies on WeChat moments to show their xiaozi shenghuo</p>
+
+<p>It’s definitely a thing even in T1, though I bet it will wane in China one day</p>
+
+<p>—– <strong>463.4</strong> —–2019-07-09 12:21:21+08:00:</p>
+
+<p>because lots of people keep talking Starbucks is not the real coffee… I mean, actually I’ve been to lots of places in the west but still have no idea which one is real… I dumb</p>
+
+<p>—– <strong>463.5</strong> —–2019-07-09 12:33:32+08:00:</p>
+
+<p>holy shit…</p>
+
+<p>I’m living in a small town in the states (the one with nearly lowest price level) but all coffee shops here are the same price as Starbucks… I guess I’m living in a parallel universe</p>
+
+<p>—– <strong>463.6</strong> —–2019-07-09 19:45:01+08:00:</p>
+
+<p>sounds like the “tea snob” in China lol</p>
+
+<h3 id="464-一國一制又出招-香港3年內引進信用評分系統-submitted-on-2019-07-09-1107050800">464: <a href="https://old.reddit.com/r/saraba1st/comments/cav4jo/一國一制又出招_香港3年內引進信用評分系統/">一國一制又出招！ 香港3年內引進「信用評分系統」</a>, submitted on 2019-07-09 11:07:05+08:00.</h3>
+
+<p>—– <strong>464.1</strong> —–2019-07-09 11:46:43+08:00:</p>
+
+<p>借楼问一句，大家怎么看西方对于Social Credit System的宣传</p>
+
+<p>我看了一下，大概一个是支付宝的芝麻信用，另外一个是还处实验阶段的社会系统，但是无论哪个都感觉的确被西媒夸大了</p>
+
+<p>Edit: 其实我只是想单纯问一下是否有政治迫害的例子<strong>已经</strong>发生而已。。。</p>
+
+<p>—– <strong>464.2</strong> —–2019-07-09 12:16:56+08:00:</p>
+
+<blockquote>
+  <p>中国信用分数不仅评估你的经济行为，更对你的政治行为作评判</p>
+</blockquote>
+
+<p>这正是我想问的问题，因为现在看的新闻大多都局限于经济行为，我还没看到一则政治上的操作（当然，我知道在权威制度实行此策的危险性，我只是想问问是否已经发生了）</p>
+
+<p>—– <strong>464.3</strong> —–2019-07-09 13:04:31+08:00:</p>
+
+<p>我知道这个 我想要的是 更加政治的例子</p>
+
+<h3 id="465-何韵诗在联合国的发言大家看了吗-submitted-on-2019-07-09-1123480800">465: <a href="https://old.reddit.com/r/saraba1st/comments/cavawi/何韵诗在联合国的发言大家看了吗/">何韵诗在联合国的发言大家看了吗</a>, submitted on 2019-07-09 11:23:48+08:00.</h3>
+
+<p>—– <strong>465.1</strong> —–2019-07-09 23:01:45+08:00:</p>
+
+<p>这想法太小清新了</p>
+
+<ol>
+  <li>
+    <p>联合国的一切机构实际层面都是没有实权的，是五常等国赋权给他，而不是相反。联合国只是一个开会的地方，但是本身没有强制力量。拉人去人权理事会是去商议人权的，不是做人权监督者的</p>
+  </li>
+  <li>
+    <p>华语艺人根本没有话语权，决裂了别人只会觉得是叛国sb而已</p>
+  </li>
+</ol>
+
+<p>—– <strong>465.2</strong> —–2019-07-10 05:58:55+08:00:</p>
+
+<p>不会清算艺人，别说艺人了，就算是tg本身官员也不会怎么被清算</p>
+
+<p>艺人不参与政治是很正常的行为，不管他们认可政治与否，中国人大多对政治冷感而已，或者是消极反抗，但很少会积极反抗</p>
+
+<h3 id="466-王孟源--统一还看2025-submitted-on-2019-07-09-1749180800">466: <a href="https://old.reddit.com/r/China_irl/comments/cayr0z/王孟源_统一还看2025/">王孟源 – 统一还看2025</a>, submitted on 2019-07-09 17:49:18+08:00.</h3>
+
+<p>—– <strong>466.1</strong> —–2019-07-09 20:24:53+08:00:</p>
+
+<p>2020不太可能吧</p>
+
+<p>其实我现在有点怀疑高层的预判了。。。</p>
+
+<p>计生被推迟了起码10年取消，副作用极大</p>
+
+<p>新疆15年都发现不了问题，搞到现在要强力去除，全世界人神共愤</p>
+
+<p>这次hk闹到这么大，又是震惊中央</p>
+
+<p>当年Trump上台，智库没料到被上层骂了一顿（当然，这个全世界都没料到，不算tg失分）</p>
+
+<p>贸易战虽然料到了，但是没料到这么猛，没料到美国愿意牺牲自己利益，最后谈判关头拍板重谈结果偷鸡不成蚀把米</p>
+
+<p>🤔️🤔️</p>
+
+<h3 id="467-lets-bomb-everything-philippines-president-duterte-urges-us-to-declare-war-on-china-submitted-on-2019-07-09-1919510800">467: <a href="https://old.reddit.com/r/worldnews/comments/cazjxl/lets_bomb_everything_philippines_president/">‘Let’s Bomb Everything’: Philippines President Duterte Urges U.S. To Declare War on China</a>, submitted on 2019-07-09 19:19:51+08:00.</h3>
+
+<p>—– <strong>467.1</strong> —–2019-07-09 23:13:13+08:00:</p>
+
+<p>ahhhh see you and your comment again, repeater</p>
+
+<p>—– <strong>467.2</strong> —–2019-07-09 23:22:47+08:00:</p>
+
+<p>holy shit… my comments are pro-ccp? If you cannot read Chinese, stfu</p>
+
+<p>btw you were just dissed by other guys for your dumb comment history several days ago in this sub, not me and nothing about China here 🤷‍♂️</p>
+
+<p>—– <strong>467.3</strong> —–2019-07-09 23:34:24+08:00:</p>
+
+<p>I am doubtful about your reading ability</p>
+
+<p>I’m analyzing what CCP will do to control the protest from <strong>academic perspective</strong>, if you’ve stayed in r/geopolitics for a long time, you will not draw this dumb conclusion</p>
+
+<p>What about my other comments:</p>
+
+<p>https://www.reddit.com/r/China/comments/cak3vv/china_is_not_an_enemy_of_the_us_and_the_world_but/et9hzxc?utm_source=share&amp;utm_medium=web2x</p>
+
+<p>https://www.reddit.com/r/China/comments/c2xm0g/what_is_the_official_news_in_china_saying_about/erp5jnk?utm_source=share&amp;utm_medium=web2x</p>
+
+<hr />
+
+<p>To all passerby: this guy just sent me a disgusting message to bash China as a sham civilization and created nothing</p>
+
+<p>It’s clearly that this guy cannot distinguish the regime CCP from the country or civilization</p>
+
+<p>A piece of shit</p>
+
+<h3 id="468-waking-up-early-is-fucking-awesome-submitted-on-2019-07-09-2002080800">468: <a href="https://old.reddit.com/r/unpopularopinion/comments/cazy21/waking_up_early_is_fucking_awesome/">Waking up early is fucking awesome.</a>, submitted on 2019-07-09 20:02:08+08:00.</h3>
+
+<p>—– <strong>468.1</strong> —–2019-07-10 00:06:28+08:00:</p>
+
+<p>It’s a classic debate between <em>morning person</em> and <em>evening person</em></p>
+
+<h3 id="469-why-china-has-no-civil-society-submitted-on-2019-07-09-2216540800">469: <a href="https://old.reddit.com/r/China/comments/cb1g34/why_china_has_no_civil_society/">Why China has no civil society</a>, submitted on 2019-07-09 22:16:54+08:00.</h3>
+
+<p>—– <strong>469.1</strong> —–2019-07-10 00:14:05+08:00:</p>
+
+<p>Attributing everything to Confucianism/guanxi/face/chabuduo</p>
+
+<p>Just like attributing everything in the west to Christianism</p>
+
+<p>—– <strong>469.2</strong> —–2019-07-10 14:10:48+08:00:</p>
+
+<p>Understood.</p>
+
+<p>But we should not attribute EVERYTHING to these kinds of things</p>
+
+<p>Every civilization nowadays is a hybrid creation of several small civilizations/schools</p>
+
+<p>Like, in China, we have Confucianism, but also Legalism</p>
+
+<p>In the west, you have Christianity, but also Greek</p>
+
+<p>Not to mention that, there are lots of current factors, the stage of development, the foreign influence, the new generation etc etc</p>
+
+<p>Sometimes I feel that the west focus too much on Guanxi and Confucianism</p>
+
+<p>Edit: added one word</p>
+
+<h3 id="470-china-eyes-trumps-2020-strategy-for-clues-on-trade-war-deal-submitted-on-2019-07-09-2321240800">470: <a href="https://old.reddit.com/r/China/comments/cb2991/china_eyes_trumps_2020_strategy_for_clues_on/">China Eyes Trump’s 2020 Strategy for Clues on Trade War Deal</a>, submitted on 2019-07-09 23:21:24+08:00.</h3>
+
+<p>—– <strong>470.1</strong> —–2019-07-10 02:31:22+08:00:</p>
+
+<p>That’s true, and it’s called <em>New Washington Consensus to China</em></p>
+
+<p>it comes two years earlier than China’s prediction but not that much in big picture</p>
+
+<h3 id="471-有趣而比较简单的中文书--interesting-yet-simple-chinese-books-submitted-on-2019-07-10-1345570800">471: <a href="https://old.reddit.com/r/ChineseLanguage/comments/cbcqlo/有趣而比较简单的中文书_interesting_yet_simple_chinese_books/">有趣而比较简单的中文书 / Interesting yet simple Chinese books</a>, submitted on 2019-07-10 13:45:57+08:00.</h3>
+
+<p>—– <strong>471.1</strong> —–2019-07-11 01:55:39+08:00:</p>
+
+<p>我觉得你是不是先介绍一下自己喜好的书籍类型（genre）比较好？</p>
+
+<p>以我学英文的经验来看，不一定要看文学类的，我甚至比较反感别人不分情况就推荐文学书</p>
+
+<p>第一，不是每个人都喜欢看文学</p>
+
+<p>第二，文学的兴趣很大程度是建立在你对这个文化的兴趣和深入了解之上的，一上来看一些经典文学只会让你头疼</p>
+
+<p>反而看自己喜欢类型的书籍比较好，无论是社科、商业、科幻、玄幻等等等等等</p>
+
+<hr />
+
+<p>TL;DR IMO you’d better tell your favorite genres first. Comparing to Liberal of Arts, reading your favorite books in Chinese might be a better choice</p>
+
+<hr />
+
+<p>Actually there is an unprecedented famous Chinese web novel called <a href="https://www.novelupdates.com/series/lord-of-the-mysteries/"><em>Lord of the Mysterious</em> aka 诡秘之主</a></p>
+
+<p>If you are interested in Crussu, scp foundation, and Victoria’s era, this book is a masterpiece for you. Some Chinese Xianxia web novels are also good but may be weird to the non-Chinese reader at first glance</p>
+
+<p>Description</p>
+
+<blockquote>
+  <p>In the waves of steam and machinery, who could achieve extraordinary? In the fogs of history and darkness, who was whispering? I woke up from the realm of mysteries and opened my eyes to the world.</p>
+</blockquote>
+
+<blockquote>
+  <p>Firearms, cannons, battleships, airships, and difference machines. Potions, divination, curses, hanged-man, and sealed artifacts… The lights shone brightly, yet the secrets of the world were never far away. This was a legend of the “Fool”.</p>
+</blockquote>
+
+<p>—– <strong>471.2</strong> —–2019-07-11 02:03:03+08:00:</p>
+
+<p>Actually there is an unprecedented famous Chinese web novel called <a href="https://www.novelupdates.com/series/lord-of-the-mysteries/"><em>Lord of the Mysterious</em> aka 诡秘之主</a></p>
+
+<p>If you are interested in Crussu, scp foundation, and Victoria’s era, this book is a masterpiece for you. Some Chinese Xianxia web novels are also good but may be weird to the non-Chinese reader at first glance</p>
+
+<p>Description</p>
+
+<blockquote>
+  <p>In the waves of steam and machinery, who could achieve extraordinary? In the fogs of history and darkness, who was whispering? I woke up from the realm of mysteries and opened my eyes to the world.</p>
+</blockquote>
+
+<blockquote>
+  <p>Firearms, cannons, battleships, airships, and difference machines. Potions, divination, curses, hanged-man, and sealed artifacts… The lights shone brightly, yet the secrets of the world were never far away. This was a legend of the “Fool”.</p>
+</blockquote>
+
+<h3 id="472-红色恐怖回想那些被关闭的境外网站你是否留有痕迹-submitted-on-2019-07-11-1116010800">472: <a href="https://old.reddit.com/r/saraba1st/comments/cbqk9w/红色恐怖回想那些被关闭的境外网站你是否留有痕迹/">红色恐怖–回想那些被关闭的境外网站你是否留有痕迹</a>, submitted on 2019-07-11 11:16:01+08:00.</h3>
+
+<p>—– <strong>472.1</strong> —–2019-07-12 03:34:26+08:00:</p>
+
+<p>什么是影视站？</p>
+
+<h3 id="473-为什么从来没有正式公布中共中央政治局常委会的决议-submitted-on-2019-07-11-1423200800">473: <a href="https://old.reddit.com/r/China_irl/comments/cbs94y/为什么从来没有正式公布中共中央政治局常委会的决议/">为什么从来没有正式公布中共中央政治局常委会的决议？</a>, submitted on 2019-07-11 14:23:20+08:00.</h3>
+
+<p>—– <strong>473.1</strong> —–2019-07-12 10:24:49+08:00:</p>
+
+<blockquote>
+  <p>应该明确公布每次会议表决的议案，谁提案的，内容是什么，谁赞同，谁反对，谁弃权，最后是否通过，假若通过，内容是什么。这样大家才能遵照执行</p>
+</blockquote>
+
+<p>这个并没有因果关系，若只论让人执行，则只需要通报结果就好</p>
+
+<p>至于怎么讨论的，这个，中国毕竟还是人治，并且，有很多话极度不适宜讲出来，不仅是对国内，更是对国际社会</p>
+
+<p>比如：讨论怎么在新疆建再教育营，公布出来岂不是GG？</p>
+
+<h3 id="474-谷歌地图在中国的使用-submitted-on-2019-07-11-1533230800">474: <a href="https://old.reddit.com/r/saraba1st/comments/cbstyr/谷歌地图在中国的使用/">谷歌地图在中国的使用？</a>, submitted on 2019-07-11 15:33:23+08:00.</h3>
+
+<p>—– <strong>474.1</strong> —–2019-07-12 05:12:16+08:00:</p>
+
+<p>偏移现象貌似是中国故意的，因为不让谷歌收集数据进行军事用途</p>
+
+<p>—– <strong>474.2</strong> —–2019-07-12 09:15:53+08:00:</p>
+
+<blockquote>
+  <p>这个运算方法是单向运算的，可以从GPS坐标换算到扰乱坐标，但是无法从扰乱坐标反算到GPS坐标</p>
+</blockquote>
+
+<p>听着像密码学加密过程</p>
+
+<blockquote>
+  <p>高频的（只有局部误差，没有总体误差）</p>
+</blockquote>
+
+<p>怎么理解</p>
+
+<p>—– <strong>474.3</strong> —–2019-07-12 19:55:13+08:00:</p>
+
+<p>可以啊 老哥 做这行的吧 😂</p>
+
+<h3 id="475-former-tesla-employee-admits-uploading-autopilot-source-code-to-his-icloud---tesla-believes-he-stole-company-trade-secrets-and-took-them-to-chinese-startup-xiaopeng-motors-submitted-on-2019-07-11-2000020800">475: <a href="https://old.reddit.com/r/technology/comments/cbuwci/former_tesla_employee_admits_uploading_autopilot/">Former Tesla employee admits uploading Autopilot source code to his iCloud - Tesla believes he stole company trade secrets and took them to Chinese startup, Xiaopeng Motors</a>, submitted on 2019-07-11 20:00:02+08:00.</h3>
+
+<p>—– <strong>475.1</strong> —–2019-07-12 01:50:26+08:00:</p>
+
+<p>Although I’m native Chinese, I agree with you</p>
+
+<p>I come from the T1 city and studied in the Top10 university in China (now I studied in the states). There are some cheating behaviors among my Chinese fellows in the Chinese colleges. They will calculate a lot to earn the best result. Not sure why we have this behavior, the culture or the aftermaths of cultural revolution, but I’m sure lots of them are <em>exquisite egoists</em>, and I was one of them.</p>
+
+<p>Lots of cheating are deliberate such as copying assignments, getting the last year answer of the exam and writing scam papers. But some of them are unintentional. For example, the personal statement service companies for studying oversea and the collected previous problems of GRE, lots of them don’t know these behaviors are illegal because everyone is doing it. Just a shame. I didn’t notice these behaviors until I went to the states. (btw I’m the exchange student but not 4-year student so I didn’t do these things, I just didn’t realize them)</p>
+
+<p>The good news is the improvement on the younger generation but still far away from perfect</p>
+
+<p>—– <strong>475.2</strong> —–2019-07-12 03:15:29+08:00:</p>
+
+<blockquote>
+  <p>Sort of like how the Japanese and Koreans got their shit together.</p>
+</blockquote>
+
+<p>What’s that mean? You mean the development pattern?</p>
+
+<p>I knew Japan was once a copycat in 20 century, so was Germany in 19 century. But I think the scam phenomenon in China is a combination of not only the stage of development but also culture. If Taiwan did well, I guess in China it’s more like the aftermath of cultural revolution and/or CCP leadership</p>
+
+<p>—– <strong>475.3</strong> —–2019-07-12 03:23:15+08:00:</p>
+
+<p>Just curious… Retaking finals? Which uni/region?</p>
+
+<p>I studied in China but there was no such a thing at least in my college (Top10 in China). I have a classmate cheated in the final and couldn’t get the college certificate.</p>
+
+<h3 id="476-近期以来包子对外撒币次好像减少了还是新闻看少了-submitted-on-2019-07-11-2056080800">476: <a href="https://old.reddit.com/r/saraba1st/comments/cbvfd0/近期以来包子对外撒币次好像减少了还是新闻看少了/">近期以来包子对外撒币次好像减少了？还是新闻看少了?</a>, submitted on 2019-07-11 20:56:08+08:00.</h3>
+
+<p>—– <strong>476.1</strong> —–2019-07-12 05:11:28+08:00:</p>
+
+<p>阿尔及利亚刚刚加入OBOR</p>
+
+<h3 id="477-countries-where-voting-is-compulsory-submitted-on-2019-07-11-2117530800">477: <a href="https://old.reddit.com/r/MapPorn/comments/cbvm64/countries_where_voting_is_compulsory/">Countries where voting is compulsory</a>, submitted on 2019-07-11 21:17:53+08:00.</h3>
+
+<p>—– <strong>477.1</strong> —–2019-07-15 02:12:19+08:00:</p>
+
+<p>it’s not the same</p>
+
+<p>IMO this map is more for the president-level election</p>
+
+<p>but you’re talking about the city-level and university-level</p>
+
+<p>You can also argue that the village-level election prevails in China but, really, it’s not the thing as the map showing here</p>
+
+<p>The most famous village-level election in China, called Wukan Village (乌坎) in Guangdong province, turned out to be an oppression</p>
+
+<h3 id="478-duomo-di-milano-submitted-on-2019-07-11-2119230800">478: <a href="https://old.reddit.com/r/europe/comments/cbvmjd/duomo_di_milano/">Duomo di Milano</a>, submitted on 2019-07-11 21:19:23+08:00.</h3>
+
+<p>—– <strong>478.1</strong> —–2019-07-12 07:18:58+08:00:</p>
+
+<p>I’ve been there. Love it. The most exquisite building I’ve even seen. Greeting from China</p>
+
+<h3 id="479-russians-in-australia-submitted-on-2019-07-11-2257450800">479: <a href="https://old.reddit.com/r/SweatyPalms/comments/cbwjbu/russians_in_australia/">Russians in Australia</a>, submitted on 2019-07-11 22:57:45+08:00.</h3>
+
+<p>—– <strong>479.1</strong> —–2019-07-12 07:20:48+08:00:</p>
+
+<p>r/ANormalDayInRussia</p>
+
+<h3 id="480-george-hw-bushs-son-china-is-not-an-economic-enemy-or-existential-national-security-threat-to-the-united-states--the-demonisation-of-china-is-being-fuelled-by-a-rising-nationalism-in-the-us-that-is-manifested-in-anti-immigrant-anti-chinese-pro-america-first-rhetoric-submitted-on-2019-07-11-2317200800">480: <a href="https://old.reddit.com/r/China/comments/cbwsf9/george_hw_bushs_son_china_is_not_an_economic/">George HW Bush’s son: China is not an economic enemy or existential national security threat to the United States … The demonisation of China is being fuelled by a rising nationalism in the US that is manifested in anti-immigrant, anti-Chinese, pro-America-first rhetoric</a>, submitted on 2019-07-11 23:17:20+08:00.</h3>
+
+<p>—– <strong>480.1</strong> —–2019-07-12 08:51:21+08:00:</p>
+
+<p>sorry man, not defending CCP, but if we just put down the ideology and just use the logic</p>
+
+<p>Being against western ideas is not always being hostile to the west</p>
+
+<p>Being against western ideas and spreading the anti-western ideas <em>are</em> being hostile to the west</p>
+
+<p>You can say you don’t buy <em>States Capitalism</em> but cannot say the existence of it is against the west. Because the existence is passive, and spreading like USSR is active</p>
+
+<p>Sounds like, <em>killing the infidel</em></p>
+
+<p>Just a flaw of your logic, not the fact</p>
+
+<p>—– <strong>480.2</strong> —–2019-07-12 08:54:31+08:00:</p>
+
+<p>That’s the point. We don’t mind who governs both mainland and Taiwan, we just want to be united again. It’s sick that some guys vigorously support the Taiwan Independence. How can China not feel hostile about it?</p>
+
+<p>—– <strong>480.3</strong> —–2019-07-12 08:58:26+08:00:</p>
+
+<p>because some of the things you mentioned here sound like in the China’s sphere</p>
+
+<p>Did China do anything bad like Cuba missile crisis like USSR in front of the US?</p>
+
+<p>—– <strong>480.4</strong> —–2019-07-12 09:02:18+08:00:</p>
+
+<p>it depends on the level of compatibility</p>
+
+<p>—– <strong>480.5</strong> —–2019-07-12 09:05:52+08:00:</p>
+
+<p>oh man, I meant Taiwan and South China Sea, not your lovely allies</p>
+
+<p>I understand how the west hates authorization</p>
+
+<p>But really, to most Chinese, we don’t mind who governs China, PRC, POR, Chinese Federation, whatever, we just want to keep the territory unification</p>
+
+<p>It’s a difference between the regime and civilization</p>
+
+<p>—– <strong>480.6</strong> —–2019-07-12 09:19:44+08:00:</p>
+
+<p>First, I was just picky about the logic</p>
+
+<p>Second, well, actually I was not saying <em>communism</em>, but the <em>States Capitalism</em></p>
+
+<p>I believe there is a possibility that China can become more liberal one day, current China under XJP is the one I’m also against to</p>
+
+<p>but I don’t think China will be the same as American model in my life from the realistic perspective</p>
+
+<p>—– <strong>480.7</strong> —–2019-07-12 10:04:46+08:00:</p>
+
+<p>OK, let’s be more clear, <em>China economic model</em>, a combination of state capitalism and free market capitalism</p>
+
+<p>I know, there is also a saying that, SGP or/and Northern Europe is socialism, there are lots of mutation models nowadays, also, no counterpart of China model</p>
+
+<p>Just call whatever you want to call, I think the main difference in this topic should be, whether the people feel a level of liberalism/freedom in the society, no matter which system they are using</p>
+
+<p>Edit: just like, there was NO real communism and Marxism happened, because this theory has a huge bug</p>
+
+<p>—– <strong>480.8</strong> —–2019-07-12 10:50:01+08:00:</p>
+
+<p>a bit wrong</p>
+
+<p>The China’s civil war is suspended but never ended</p>
+
+<p>not to mention that one of the reasons the civil war didn’t end is the <strong>foreign intervention</strong></p>
+
+<p>although it’s understandable that these things always happened in the Cold War just like SK and NK, it’s rational that the west wanted to stop the spreading of <del>authorization regime</del> commie (Taiwan was also authorization regime at that time so I change it)</p>
+
+<p>it’s also not that hard to realize that lots of Chinese think it’s the west playing divide and conquer game on the China again from the civilization perspective but not regime perspective if you have a great ability of empathy</p>
+
+<hr />
+
+<p>Just like, what would you think, if some Europe hegemonies stepped in the US civil war and caused the status quo of independence, then sit there and laugh, haha, you must follow the International law defined by us and keep the status quo or we would beat you?</p>
+
+<h3 id="481-local-muslims-in-china-are-being-forced-to-install-system-searching-software-on-their-mobile-devices-on-top-of-dealing-with-facial-recognition-cameras-around-their-living-spaces-submitted-on-2019-07-12-0117410800">481: <a href="https://old.reddit.com/r/China/comments/cbycdp/local_muslims_in_china_are_being_forced_to/">Local Muslims in China are being forced to install system-searching software on their mobile devices on top of dealing with facial-recognition cameras around their living spaces</a>, submitted on 2019-07-12 01:17:41+08:00.</h3>
+
+<p>—– <strong>481.1</strong> —–2019-07-12 07:53:30+08:00:</p>
+
+<p>Maybe because the Chinese government used Orwell’s book as guide and that’s why 1984 was not banned in China</p>
+
+<p>It’s called <em>Self-Fulfilling Prophecy</em>  /s</p>
+
+<p>—– <strong>481.2</strong> —–2019-07-12 08:12:36+08:00:</p>
+
+<p>XJP is definitely a black swan in the eyes of no matter international community or native Chinese. His hawkish behaviors are also being attacked within China and CCP.</p>
+
+<p>However, on the Xinjiang issue, it has less relationship with XJP as you thought. AFAIK, it’s because dating back to 2005, a small group of Uyghur elites, who were released in Hu Yaobang’s era under the name of <a href="https://en.wikipedia.org/wiki/Liangshaoyikuan">Liangshaoyikuan</a>, inculcated the Uyghur separatism thought in the Uyghurchu textbook. The Chinese government didn’t figure out until 15 years later and turned out to be the Xinjiang camps. I believe even if there was a dovish ccp leader, he would also choose to rule with iron.</p>
+
+<p>The 4th president, Hu Jintao, had a nickname called <em>The Tiger of Lhasa</em> because he oppressed the Tibet riots. The 3rd president, Jiang Zemin, oppressed Falungong with thousands of 610 offices (I understand this tho). Not to mention the 2nd one, Deng Xiaoping, the prime factor of the TAM event, and the 1st one, Mao Zedong, leading the cultural revolution.</p>
+
+<p>Well, but of course, XJP is the most ambitious leader after 1978 and stupid enough to remove the presidential term.</p>
+
+<p>—– <strong>481.3</strong> —–2019-07-12 08:38:52+08:00:</p>
+
+<p>Nixon’s policy was for embracing China to defeat USSR. Rational move for both the US and China at that time</p>
+
+<h3 id="482-shower-thought-submitted-on-2019-07-12-0149120800">482: <a href="https://old.reddit.com/r/WhitePeopleTwitter/comments/cbyrjq/shower_thought/">Shower thought</a>, submitted on 2019-07-12 01:49:12+08:00.</h3>
+
+<p>—– <strong>482.1</strong> —–2019-07-12 09:58:16+08:00:</p>
+
+<p>Now, this is the REAL <strong>shower</strong> thougtht</p>
+
+<h3 id="483-美国去年9月到今年6月财政赤字高达7470亿元增长23-submitted-on-2019-07-12-0242440800">483: <a href="https://old.reddit.com/r/China_irl/comments/cbzgwb/美国去年9月到今年6月财政赤字高达7470亿元增长23/">美国去年9月到今年6月财政赤字高达7470亿元，增长23%</a>, submitted on 2019-07-12 02:42:44+08:00.</h3>
+
+<p>—– <strong>483.1</strong> —–2019-07-12 05:08:15+08:00:</p>
+
+<p>就像amazon那样… /s</p>
+
+<p>—– <strong>483.2</strong> —–2019-07-12 05:26:22+08:00:</p>
+
+<blockquote>
+  <p>评击美联储私人性质</p>
+</blockquote>
+
+<p>这其实大多是《货币战争》之类的阴谋论（货币战争也是抄袭外国的，所以外国的阴谋论更丰富，以前有个学金融的美国人还跟我张口闭口Rothschild）</p>
+
+<p>不过你怎么看美国的“金融霸权”呢，我认为还是有点霸道的，人类最理想的状态应该是未来开发一种超越国界的普遍式货币</p>
+
+<h3 id="484-malaysia-is-the-only-other-place-besides-china-and-taiwan-that-has-its-own-public-government-chinese-language-schools-and-education-system-submitted-on-2019-07-12-1541410800">484: <a href="https://old.reddit.com/r/ChineseLanguage/comments/cc7tjp/malaysia_is_the_only_other_place_besides_china/">Malaysia is the only other place, besides China and Taiwan that has its own public government Chinese-Language schools and education system</a>, submitted on 2019-07-12 15:41:41+08:00.</h3>
+
+<p>—– <strong>484.1</strong> —–2019-07-13 09:11:05+08:00:</p>
+
+<p>why I heard that LKY had supported dual language education a lot?</p>
+
+<h3 id="485-china-says-it-will-sanction-us-firms-that-sell-arms-to-taiwan---reuters-submitted-on-2019-07-12-2154470800">485: <a href="https://old.reddit.com/r/China/comments/ccb5ex/china_says_it_will_sanction_us_firms_that_sell/">China says it will sanction U.S. firms that sell arms to Taiwan - Reuters</a>, submitted on 2019-07-12 21:54:47+08:00.</h3>
+
+<p>—– <strong>485.1</strong> —–2019-07-13 02:03:29+08:00:</p>
+
+<p>It’s more like a <em>gesture politics</em></p>
+
+<h3 id="486-xi-jinping-explains-his-political-philosophy-submitted-on-2019-07-12-2211200800">486: <a href="https://old.reddit.com/r/geopolitics/comments/ccbcfy/xi_jinping_explains_his_political_philosophy/">Xi Jinping Explains his Political Philosophy</a>, submitted on 2019-07-12 22:11:20+08:00.</h3>
+
+<p>—– <strong>486.1</strong> —–2019-07-14 05:17:29+08:00:</p>
+
+<p>Not sure why you got downvotes.</p>
+
+<p>As Chinese who knows a bit about CCP inside, I supported your argument.</p>
+
+<p>China, was and still is, an ideological bankruptcy country</p>
+
+<p>It’s the biggest liability of China which it must overcome if it want to step in the next stage of development</p>
+
+<p>—– <strong>486.2</strong> —–2019-07-14 11:53:52+08:00:</p>
+
+<p>NO</p>
+
+<p>There is still an ideology being shared by most advanced countries and international community, called <em>Universal Values</em></p>
+
+<p>—– <strong>486.3</strong> —–2019-07-14 12:04:11+08:00:</p>
+
+<p>It didn’t matter before (when China was weak)</p>
+
+<p>But it will matter in the future</p>
+
+<p>On one hand, the west will be more hostile to China because they are at odds over universal values plus the rising of Chinese authorization regime</p>
+
+<p>On the other hand, most China people don’t buy these stuffs and if China want to have a deeper global influence in both hard power and soft power, then they must seek a powerful thought but not just the outmoded propaganda</p>
+
+<h3 id="487-没想到仅仅5年前的舆论空气还是这么的开放-submitted-on-2019-07-12-2345280800">487: <a href="https://old.reddit.com/r/saraba1st/comments/ccciu2/没想到仅仅5年前的舆论空气还是这么的开放/">没想到仅仅5年前的舆论空气还是这么的开放</a>, submitted on 2019-07-12 23:45:28+08:00.</h3>
+
+<p>—– <strong>487.1</strong> —–2019-07-13 08:48:54+08:00:</p>
+
+<p>实际上是1980年后就，十年十年地倒退，跟经济增长成反比</p>
+
+<h3 id="488-storm-coming-in-on-lake-michigan-submitted-on-2019-07-13-0023000800">488: <a href="https://old.reddit.com/r/pics/comments/ccd08j/storm_coming_in_on_lake_michigan/">Storm coming in on Lake Michigan</a>, submitted on 2019-07-13 00:23:00+08:00.</h3>
+
+<p>—– <strong>488.1</strong> —–2019-07-13 09:02:12+08:00:</p>
+
+<p>The bridge connecting the land and heaven</p>
+
+<h3 id="489-china-is-pretty-submitted-on-2019-07-13-0120350800">489: <a href="https://old.reddit.com/r/China/comments/ccdri5/china_is_pretty/">China is pretty</a>, submitted on 2019-07-13 01:20:35+08:00.</h3>
+
+<p>—– <strong>489.1</strong> —–2019-07-14 02:22:45+08:00:</p>
+
+<p>I don’t think so. Am also Chinese. If I invite foreigners to have dinner, then probably it’s real invitation. Because I’ve already knewn that majority of them didn’t know what’s 客气</p>
+
+<p>Also, 客气 is kinda for the old generation, the young generation wouldn’t have such fake invitation especially when dealing with peers. Like, who give a fuck to fake invitation.</p>
+
+<p>—– <strong>489.2</strong> —–2019-07-14 02:27:14+08:00:</p>
+
+<p>probably just pretending to not see</p>
+
+<p>—– <strong>489.3</strong> —–2019-07-14 02:28:32+08:00:</p>
+
+<p>not being upset for the deny doesn’t mean it was a fake invitation btw</p>
+
+<p>—– <strong>489.4</strong> —–2019-07-15 04:11:46+08:00:</p>
+
+<p>I’m young mainlander….</p>
+
+<p>I will not 客气 even with my Chinese friends (same age) at least on the stupid dinner</p>
+
+<p>because it’s dumb and inefficient</p>
+
+<p>We always just AA, and if I said <em>inviting</em>, then that’s the real invitation</p>
+
+<p>If there’s a difference, I think it’s more like a region thing</p>
+
+<h3 id="490-til-memoirs-of-a-geishsa-2005-was-protested-for-racially-insensitive-casting-japan-felt-it-was-wrong-to-cast-chinese-actors-to-portray-japanese-people-while-the-chinese-felt-it-was-insulting-for-a-chinese-to-have-to-portray-a-japanese-submitted-on-2019-07-13-0626280800">490: <a href="https://old.reddit.com/r/todayilearned/comments/cchlm9/til_memoirs_of_a_geishsa_2005_was_protested_for/">TIL: Memoirs of a Geishsa (2005) was protested for racially insensitive casting. Japan felt it was wrong to cast Chinese actors to portray Japanese people, while the Chinese felt it was insulting for a Chinese to have to portray a Japanese.</a>, submitted on 2019-07-13 06:26:28+08:00.</h3>
+
+<p>—– <strong>490.1</strong> —–2019-07-14 02:01:54+08:00:</p>
+
+<p>That’s true, Japan sometimes think they are a part of the west</p>
+
+<p>—– <strong>490.2</strong> —–2019-07-14 02:04:15+08:00:</p>
+
+<blockquote>
+  <p>You just end up losing parts of your culture once you start learning math and science</p>
+</blockquote>
+
+<p>I think it’s different</p>
+
+<p>Math and science, though use the western methodology nowadays, are parts of the general knowledge</p>
+
+<p>When people talks about the westernization, IMO they’re focus more on the culture and institution</p>
+
+<p>—– <strong>490.3</strong> —–2019-07-14 03:42:06+08:00:</p>
+
+<p>they wanted to beat, or there would not be Pearl Habour Attack</p>
+
+<p>Am Asian, but I don’t think it’s a big deal, because how they defined themselves cannot change the identity per se</p>
+
+<p>—– <strong>490.4</strong> —–2019-07-14 04:42:15+08:00:</p>
+
+<p>I do know it’s because of the oil embargo</p>
+
+<p>I meant, they’re not afraid to fight</p>
+
+<h3 id="491-the-night-the-wave-the-scream-submitted-on-2019-07-13-0846050800">491: <a href="https://old.reddit.com/r/pics/comments/ccj3h0/the_night_the_wave_the_scream/">the Night, the Wave, the Scream</a>, submitted on 2019-07-13 08:46:05+08:00.</h3>
+
+<p>—– <strong>491.1</strong> —–2019-07-13 10:44:54+08:00:</p>
+
+<p>I guess it’s PS</p>
+
+<h3 id="492-徐晓东推特此账号为本人委托朋友发布所有事情与北京同步_-submitted-on-2019-07-13-1222550800">492: <a href="https://old.reddit.com/r/China_irl/comments/ccl5rz/徐晓东推特此账号为本人委托朋友发布所有事情与北京同步/">徐晓东推特：此账号为本人委托朋友发布，所有事情与北京同步^_^</a>, submitted on 2019-07-13 12:22:55+08:00.</h3>
+
+<p>—– <strong>492.1</strong> —–2019-07-14 06:34:59+08:00:</p>
+
+<p>我tm一直以为这人是因为政治敏感被封的</p>
+
+<h3 id="493-嗨我正在学中文-你会发音两个像英语单词are或者你说我就像你在想什么-submitted-on-2019-07-13-2226120800">493: <a href="https://old.reddit.com/r/ChineseLanguage/comments/ccpwld/嗨我正在学中文_你会发音两个像英语单词are或者你说我就像你在想什么/">嗨，我正在学中文。 你会发音两个像英语单词“are”或者你说“我”就像你在想什么？</a>, submitted on 2019-07-13 22:26:12+08:00.</h3>
+
+<p>—– <strong>493.1</strong> —–2019-07-14 12:18:38+08:00:</p>
+
+<p>tbh I even cannot understand your English, not to mention Chinese, though I appreciate your endeavor</p>
+
+<h3 id="494-my-friend-just-bought-this-picture-in-our-citys-chinatown-we-arent-super-familiar-with-chinese-history-and-were-just-wondering-if-someone-on-this-sub-can-tell-us-who-it-is-submitted-on-2019-07-14-0042510800">494: <a href="https://old.reddit.com/r/China/comments/ccrec6/my_friend_just_bought_this_picture_in_our_citys/">My friend just bought this picture in our city’s chinatown. We aren’t super familiar with Chinese history, and we’re just wondering if someone on this sub can tell us who it is</a>, submitted on 2019-07-14 00:42:51+08:00.</h3>
+
+<p>—– <strong>494.1</strong> —–2019-07-14 04:40:36+08:00:</p>
+
+<p>Zhou Enlai</p>
+
+<p><del>the first Premier of PRC</del></p>
+
+<p>one of the four most handsome men in ROC</p>
+
+<p>—– <strong>494.2</strong> —–2019-07-14 07:39:54+08:00:</p>
+
+<p>actually Zhou is much more mysterious than Mao</p>
+
+<p>Someone says he offsets the destroy caused by Mao</p>
+
+<p>Someone says he is the assistant of Mao</p>
+
+<p>Someones also argues that he is the agent of the USSR in CCP and the biggest enemy Mao wanted to defeat</p>
+
+<p>No one would know the real whole story until all the secret documents are uncovered one day</p>
+
+<h3 id="495-all-you-need-really-submitted-on-2019-07-14-0825160800">495: <a href="https://old.reddit.com/r/ChineseLanguage/comments/ccwmll/all_you_need_really/">all you need, really</a>, submitted on 2019-07-14 08:25:16+08:00.</h3>
+
+<p>—– <strong>495.1</strong> —–2019-07-14 11:30:12+08:00:</p>
+
+<p>Actually, what I asked the foreigners most is: 你为什么来中国 (why you come to China)</p>
+
+<p>—– <strong>495.2</strong> —–2019-07-14 12:49:18+08:00:</p>
+
+<p>is this a satire 🤔</p>
+
+<h3 id="496-美国要求下一届英国首相必须和美国一起排斥华为否则脱欧以后不签署两国间贸易协定原文为英文-submitted-on-2019-07-14-0836260800">496: <a href="https://old.reddit.com/r/China_irl/comments/ccwqkv/美国要求下一届英国首相必须和美国一起排斥华为否则脱欧以后不签署两国间贸易协定原文为英文/">美国要求下一届英国首相必须和美国一起排斥华为，否则脱欧以后不签署两国间贸易协定(原文为英文)</a>, submitted on 2019-07-14 08:36:26+08:00.</h3>
+
+<p>—– <strong>496.1</strong> —–2019-07-15 05:43:55+08:00:</p>
+
+<p>虽然我一直很好奇华为的实际属性，因为外面一直说它其实是tg还是PLA秘密支持，但你能不能拿点有用的证据呢？</p>
+
+<blockquote>
+  <p>一般民企怎么可能有那么厉害？</p>
+</blockquote>
+
+<p>这种有罪推定的话只会反过来削弱你的说服力而已</p>
+
+<p>你说华为拿下那么多客户什么的，那么它起家时的磕磕碰碰甚至差点被外企收购又怎么解释呢？</p>
+
+<h3 id="497-locals-were-alarmed-and-called-the-police-when-a-monster-climbed-out-of-kamogawa-river-in-kyoto-it-was-actually-a-giant-salamander-submitted-on-2019-07-14-0858300800">497: <a href="https://old.reddit.com/r/interestingasfuck/comments/ccwy6t/locals_were_alarmed_and_called_the_police_when_a/">Locals were alarmed and called the police when a monster climbed out of Kamogawa River in Kyoto. It was actually a giant salamander.</a>, submitted on 2019-07-14 08:58:30+08:00.</h3>
+
+<p>—– <strong>497.1</strong> —–2019-07-14 11:33:38+08:00:</p>
+
+<p>Picture bait</p>
+
+<p>Deliberately larger the salamander</p>
+
+<h3 id="498-the-hanfu-movement-in-china-submitted-on-2019-07-14-1118350800">498: <a href="https://old.reddit.com/r/China/comments/ccyaj9/the_hanfu_movement_in_china/">The Hanfu Movement in China</a>, submitted on 2019-07-14 11:18:35+08:00.</h3>
+
+<p>—– <strong>498.1</strong> —–2019-07-14 12:46:54+08:00:</p>
+
+<blockquote>
+  <p>A handful of rich urban kids playing dressup and shooting selfies of themselves in costumes while the world heats up is not a goddamn movement. It’s pathetic.</p>
+</blockquote>
+
+<p>TBH although I appreciate your awareness of climate change</p>
+
+<p>You seem to overact and bring some unrelated topics <strong>rudely</strong></p>
+
+<p>It’s also the first time that I’m <strong>disgusted</strong> by the SJW thanks to you 🤷‍♂️</p>
+
+<p>Congrats and well done 👏👏</p>
+
+<p>—– <strong>498.2</strong> —–2019-07-14 13:05:45+08:00:</p>
+
+<blockquote>
+  <p>What worries me about this Hanfu movement is it comes at a time when there’s a growing amount of what I can only really call “Han-supremacy.</p>
+</blockquote>
+
+<p>LOL LOL LOL</p>
+
+<p>So what about Hankok and Kimono? I don’t think they are that different. Chill</p>
+
+<h3 id="499-汉服运动-submitted-on-2019-07-14-1126270800">499: <a href="https://old.reddit.com/r/China_irl/comments/ccyd6n/汉服运动/">汉服运动</a>, submitted on 2019-07-14 11:26:27+08:00.</h3>
+
+<p>—– <strong>499.1</strong> —–2019-07-14 11:27:41+08:00:</p>
+
+<p>这个提示能不能排版和字体调小一点。。。每次占的位置好多。。。现在我想大部分sub里的人都基本了解规则了【仅提议】</p>
+
+<p>—– <strong>499.2</strong> —–2019-07-15 06:20:34+08:00:</p>
+
+<p>谢谢</p>
+
+<h3 id="500-各国对新疆问题表态地图-submitted-on-2019-07-14-1401160800">500: <a href="https://old.reddit.com/r/China_irl/comments/cczojw/各国对新疆问题表态地图/">各国对新疆问题表态地图</a>, submitted on 2019-07-14 14:01:16+08:00.</h3>
+
+<p>—– <strong>500.1</strong> —–2019-07-15 02:17:41+08:00:</p>
+
+<p>原来whataboutism是reddit自己的词？我看wiki上面说，是当年讽刺苏联诡辩术的一个词语</p>
+
+<p>不过话说回来，我一开始见这个词是有种眼前一亮的感觉，但后面跟西人辩论有时又觉得这次词被滥用了</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2019-07-15</time>
+        <a href="https://nodebe4.github.io/opinion/2019-07-15/Yvan888/">
+          Yvan888在2019-07-15~2019-07-21的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-07-14</time>
+        <a href="https://nodebe4.github.io/opinion/2019-07-14/Spinkcat/">
+          Spinkcat在2019-07-08~2019-07-14的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-07-05</time>
+        <a href="https://nodebe4.github.io/opinion/2019-07-05/Spinkcat/">
+          Spinkcat在2019-07-01~2019-07-07的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-07-01</time>
+        <a href="https://nodebe4.github.io/opinion/2019-07-01/Yvan888/">
+          Yvan888在2019-07-01~2019-07-07的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2019-07-07/%E9%80%8F%E8%A6%96%E4%B8%AD%E5%9C%8B%E6%99%82%E4%BA%8B%E9%80%B1%E5%A0%B1-%E7%BE%8E%E5%9C%8B%E5%92%8C%E4%B8%96%E7%95%8C%E7%9A%84%E6%95%B5%E4%BA%BA%E6%98%AF%E4%B8%AD%E5%85%B1%E8%80%8C%E4%B8%8D%E6%98%AF%E4%B8%AD%E5%9C%8B-%E7%B5%90%E6%A7%8B%E6%80%A7%E6%94%B9%E9%9D%A9-%E8%BC%BF%E8%AB%96%E6%96%B0%E8%AE%8A%E5%8C%96/">
+            前一篇：透視中國時事週報: 美國和世界的敵人是中共而不是中國；「結構性改革」輿論新變化
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2019-07-08/%E5%B7%B4%E5%B0%94%E5%B9%B2%E5%8D%8A%E5%B2%9B%E9%A3%8E%E4%BA%91%E4%B8%8E-%E5%8D%97%E6%96%AF%E6%8B%89%E5%A4%AB%E5%AE%9E%E9%AA%8C/">
+            後一篇：巴尔干半岛风云与“南斯拉夫实验”
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2019-07-07/%E9%80%8F%E8%A6%96%E4%B8%AD%E5%9C%8B%E6%99%82%E4%BA%8B%E9%80%B1%E5%A0%B1-%E7%BE%8E%E5%9C%8B%E5%92%8C%E4%B8%96%E7%95%8C%E7%9A%84%E6%95%B5%E4%BA%BA%E6%98%AF%E4%B8%AD%E5%85%B1%E8%80%8C%E4%B8%8D%E6%98%AF%E4%B8%AD%E5%9C%8B-%E7%B5%90%E6%A7%8B%E6%80%A7%E6%94%B9%E9%9D%A9-%E8%BC%BF%E8%AB%96%E6%96%B0%E8%AE%8A%E5%8C%96/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2019-07-08/%E5%B7%B4%E5%B0%94%E5%B9%B2%E5%8D%8A%E5%B2%9B%E9%A3%8E%E4%BA%91%E4%B8%8E-%E5%8D%97%E6%96%AF%E6%8B%89%E5%A4%AB%E5%AE%9E%E9%AA%8C/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2019-07-14/Spinkcat/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2019-07-05/Spinkcat/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2019-07-07/%E9%80%8F%E8%A6%96%E4%B8%AD%E5%9C%8B%E6%99%82%E4%BA%8B%E9%80%B1%E5%A0%B1-%E7%BE%8E%E5%9C%8B%E5%92%8C%E4%B8%96%E7%95%8C%E7%9A%84%E6%95%B5%E4%BA%BA%E6%98%AF%E4%B8%AD%E5%85%B1%E8%80%8C%E4%B8%8D%E6%98%AF%E4%B8%AD%E5%9C%8B-%E7%B5%90%E6%A7%8B%E6%80%A7%E6%94%B9%E9%9D%A9-%E8%BC%BF%E8%AB%96%E6%96%B0%E8%AE%8A%E5%8C%96/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2019-07-08/%E5%B7%B4%E5%B0%94%E5%B9%B2%E5%8D%8A%E5%B2%9B%E9%A3%8E%E4%BA%91%E4%B8%8E-%E5%8D%97%E6%96%AF%E6%8B%89%E5%A4%AB%E5%AE%9E%E9%AA%8C/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2019-07-14/Spinkcat/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2019-07-05/Spinkcat/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

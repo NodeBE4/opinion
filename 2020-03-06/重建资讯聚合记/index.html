@@ -1,0 +1,1047 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title> 重建资讯聚合记  – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+重建资讯聚合记
+——
+" />
+    <meta property="og:description" content="
+重建资讯聚合记
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content=" 重建资讯聚合记 " />
+    <meta property="twitter:title" content=" 重建资讯聚合记 " />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fsociologist.xyz%2Frebuild-feed" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://sociologist.xyz/rebuild-feed" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://sociologist.xyz/rebuild-feed&text= 重建资讯聚合记 &hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://sociologist.xyz/rebuild-feed&title= 重建资讯聚合记 " class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://sociologist.xyz/rebuild-feed&title= 重建资讯聚合记 " class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject= 重建资讯聚合记 &body=
+重建资讯聚合记
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://sociologist.xyz/rebuild-feed" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://sociologist.xyz/rebuild-feed&title= 重建资讯聚合记 &caption=
+重建资讯聚合记
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text= 重建资讯聚合记 &url=https://sociologist.xyz/rebuild-feed" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1> 重建资讯聚合记 </h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2020-03-06
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#The Sociologist">
+          The Sociologist
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://sociologist.xyz/rebuild-feed" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="The Sociologist的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#The Sociologist 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1583510282000-->
+<p><a href="https://sociologist.xyz/rebuild-feed">重建资讯聚合记</a>
+——</p>
+
+<div>
+  <p>前两天，在迁移 iCloud 账号时，遇到了一个措手不及的失误。一直以来，我使用 <a href="https://betamagic.nl/products/newsexplorer.html">News Explorer</a> 作为资讯聚合的工具，收取新闻、学术期刊、网志、视频更新等内容。它不仅支持 <a href="https://en.wikipedia.org/wiki/RSS">RSS</a> 2.0、<a href="https://en.wikipedia.org/wiki/Resource_Description_Framework">RDF</a>、<a href="https://en.wikipedia.org/wiki/Atom_(Web_standard)">ATOM</a>、JSON，也可以追踪 Twitter、YouTube。iCloud 同步本来是它的主要特色功能，使资讯收取可以在搭载 macOS、iOS、tvOS 和 watchOS 的 Apple 生态产品上保持同步，然而却也是造成 feed 丢失的「罪魁祸首」。</p>
+  <p>为何要迁移 iCloud 呢？此前我的账号是在香港注册的，另外分别注册了美国、日本、英国、中国等地的 Apple ID，用来下载和购买不同国家限定的应用程序。i) 随着香港政治形势的恶化，不能排除在不久的未来也会出现「云上香港」的情况；ii) 单纯从用户体验上来说，Apple 作为一间美国公司，大部分新产品和服务的推出并不会第一时间顾及东亚，例如 Arcade 就不支持香港（虽然也没有登陆几个好玩的游戏）。</p>
+  <p>在切换账号之前，News Explorer 的 iOS 客户端上开启了同步，但 macOS 是关闭的。切换之后，我先发现 iOS 上的 feed 大部分丢失了，于是将 macOS 端开启，希望能将完整的 feed 传送通过云服务同步至 iOS 上。然而总是事与愿违，开启同步的结果是 macOS 上的资讯一并消失，不知是不是随着先前账号的登出而被移除。</p>
+  <div class="md-photo">
+    <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8416503686_690669.png?x-oss-process=style/l" alt="image.png" title="Feed 丢失过程" />      <figcaption>
+Feed 丢失过程
+      </figcaption>
+    </figure>
+  </div>
+  <p>我没有时间和精力去复现验证这一问题到底是如何发生的，责备 iCloud 的同步机制也无济于事，只能告诫自己勤备份，并将其看作是重新整合一次资讯聚合的好机会。过去两天中，通过努力找回记忆、参考曾在 Telegram 频道中分享过的<a href="https://t.me/s/thesoc/196">图片</a>等方式，逐渐重建起来，在此记录，分享经验，也为下一次灾难之后的重建留下快照。</p>
+  <section class="md-block">
+    <div class="toc">
+      <ul>
+        <li><a href="#toc_1">工具</a></li>
+        <li><a href="#toc_2">方法 &amp; 渠道</a>          <ul>
+            <li><a href="#toc_3">新闻</a></li>
+            <li><a href="#toc_4">学术资讯</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </section>
+  <h1 id="toc_1" class="md-block">工具</h1>
+  <p>聚合技术的<a href="https://en.wikipedia.org/wiki/History_of_web_syndication_technology">发展</a>和 RSS 的<a href="https://en.wikipedia.org/wiki/RSS#History">历史</a>也就在此就不赘述了。简单来说，若是想知道一个网站、博客更新了文章，除了定期自己打开查看，有几种种方法可以追踪——</p>
+  <p>a) <strong>电子邮件推送</strong>，很多网站都会主动提示浏览者通过电子邮件订阅，如此主动当然背后是另有所图，时常收到的并不是重要内容更新，而是无关紧要的广告，而 Gmail 看似智能的分类系统有时候也会<a href="https://www.theguardian.com/us-news/2020/feb/26/gmail-hiding-bernie-sanders-emails-google-inbox-sorting-consequences-2020">帮倒忙</a>。</p>
+  <p>b) <strong>社交账号更新</strong>，零成本的社交账号使很多传统机构从旧媒体中拓展出来，也使个人和小团体有了发声的渠道。但混杂于其他推文之中，加之平台割据，收紧 API，前两年的一些聚合产品也都纷纷倒下。</p>
+  <p>c) <strong>RSS</strong>，从技术源流角度的全名是 RDF Site Summary，从现今定义和望文生义来说是 Really Simple Syndication。曾经大多数浏览器默认带有检查 RSS 订阅的功能，但如今只剩下 IE 这个在登陆银行、学校、政府旧系统时才会用到的浏览器还保留着。就连同支持 RSS 技术早期发展的 Netscape 紧密相关的 Firefox 也在前年<a href="https://www.bleepingcomputer.com/news/software/mozilla-to-remove-support-for-built-in-feed-reader-from-firefox/">移除了 RSS</a>。即便如此，相比上述的收取资讯的工具，RSS 还是有其<a href="https://fraserlab.com/2013/09/28/The-Fraser-Lab-method-of-following-the-scientific-literature/">优势</a>——你不是在收发电子邮件或是刷微博 / 推特的场景下，而是一个专门查看资讯的场景中，这样的不受干扰的机制有利于形成阅读资讯的习惯。</p>
+  <div class="md-photo">
+    <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8416503314_246846.png?x-oss-process=style/l" alt="image.png" title="整理资讯类别与来源" />      <figcaption>
+整理资讯类别与来源
+      </figcaption>
+    </figure>
+  </div>
+  <p>我并非给 News Explorer 做广告，因为订阅了 <a href="https://setapp.com/">Setapp</a>，故测试了其中两款 RSS 客户端，另一款是 <a href="https://www.cappuccinoapp.com/">Cappuccino</a>。另外我也用过如 Feedly、Reader 等客户端。甚至还可以用 IFTTT 添加提醒或转发等<a href="https://ifttt.com/feed">自动操作</a>、Slack 里添加 <a href="https://slack.com/apps/A0F81R7U7-rss">RSS App</a>，Telegram <a href="https://github.com/cbrgm/telegram-robot-rss">bot</a>、电子邮件<a href="https://www.macstories.net/stories/reading-newsletters-with-feedbin-and-reeder/">转发</a>……</p>
+  <div class="md-photo">
+    <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8416497955_136429.png?x-oss-process=style/l" alt="image.png" title="几款 RSS 客户端，左至右为 News Explorer、Cappuccino、Feedly 和 Reeder 4" />      <figcaption>
+几款 RSS 客户端，左至右为 News Explorer、Cappuccino、Feedly 和 Reeder 4
+      </figcaption>
+    </figure>
+  </div>
+  <p>选择何种方式、哪一款产品，需要综合考量跨平台、性价比、稳定性、操作与美观等方面同自身需求的契合程度。</p>
+  <h1 id="toc_2" class="md-block">方法 &amp; 渠道</h1>
+  <h2 id="toc_3" class="md-block">新闻</h2>
+  <div class="md-photo">
+    <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8416491192_418591.png?x-oss-process=style/l" alt="image.png" title="订阅的新闻媒体与新闻传播博客" />      <figcaption>
+订阅的新闻媒体与新闻传播博客
+      </figcaption>
+    </figure>
+  </div>
+  <p>不幸的是，大部分网站对于 RSS 很不友好，几乎不支持。当然可以学习自己搭建 RSS 服务，好处在于可自制性强，但同时也需要学习成本，耗费运维精力。或者也可以使用已有的 RSS 订阅源。最近 <a href="https://docs.rsshub.app/">RSSHub</a> 这个开源项目日趋完善，贡献者众多，路由覆盖广泛，除了创建未支持 RSS 的来源，也对已有 RSS 的 feed 做了优化。我订阅了其中的<a href="https://docs.rsshub.app/traditional-media.html#ap-news">美联社</a>、<a href="https://docs.rsshub.app/traditional-media.html#niu-yue-shi-bao">纽约时报</a>、<a href="https://docs.rsshub.app/traditional-media.html#bbc">BBC</a>、<a href="https://docs.rsshub.app/traditional-media.html#ft-zhong-wen-wang">金融时报</a>、<a href="https://docs.rsshub.app/traditional-media.html#the-economist">The Economist</a>、<a href="https://docs.rsshub.app/traditional-media.html#wei-bao-the-guardian">卫报</a>、<a href="https://docs.rsshub.app/traditional-media.html#xiang-gang-dian-tai">香港电台</a>、<a href="https://docs.rsshub.app/traditional-media.html#nan-fang-zhou-mo">南方周末</a>和<a href="https://docs.rsshub.app/traditional-media.html#peng-pai-xin-wen">澎湃新闻</a>。虽然 RSSHub 也建立了几个国际媒体的路由，但只是较为出名的几个。若是有阅读英文新闻的需要，可以直接 Google 搜寻，大多数英文的新闻网站目前还勉强支持 RSS。</p>
+  <p>但我曾推荐过的 <a href="https://t.me/thesoc/86">Quartz</a>，他们十分重视<a href="https://digiday.com/podcast/zach-seward-email-newsletter-strategy/">电子邮件时事通讯</a>，提供多种<a href="https://qz.com/emails/">邮件订阅</a>，也因此对 RSS 并不友善。不过可以借用 <a href="https://github.com/leafac/www.kill-the-newsletter.com">Kill the Newsletter</a> 项目提供的<a href="https://www.kill-the-newsletter.com/feeds/yclxfaszprnjygszjaug.xml">订阅地址</a>。</p>
+  <h2 id="toc_4" class="md-block">学术资讯</h2>
+  <div class="md-photo">
+    <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8416493314_730483.png?x-oss-process=style/l" alt="image.png" title="订阅的部分社会学期刊" />      <figcaption>
+订阅的部分社会学期刊
+      </figcaption>
+    </figure>
+  </div>
+  <p>对我来说，主要追踪社会科学和人文学科相关的期刊更新，但创建方法是共通的，对自然科学、应用科学等也适用，即进入网站，找到 RSS 地址，添加订阅。上图中可见，社会科学出版商 SAGE 承揽了大多数社科类期刊的发行，以它为例，期刊页面的导航中提供了电子邮件和 RSS 追踪的方式，选择已打印或线上先行的更新即可。其他网站中也都不难找到，不过牛津确实别树一帜，主页中找不到，需要先进入某一期才显示。</p>
+  <div class="md-photo gallery">
+    <div class="md-photo_column">
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8416492806_599787.png?x-oss-process=style/l" alt="CleanShot 2020-03-06 at 23.03.36@2x.png" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8416492788_522958.png?x-oss-process=style/l" alt="CleanShot 2020-03-06 at 23.04.10@2x.png" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8416492635_489977.png?x-oss-process=style/l" alt="image.png" />
+      </figure>
+    </div>
+  </div>
+  <p>至于如何选择期刊，不免俗的方法是从排名入手。比如 <a href="https://www.scimagojr.com/">Scimago</a>，也可以在 Wikipedia 的 <a href="https://en.wikipedia.org/wiki/Lists_of_academic_journals">list</a> 中找寻。或者从学术学会等机构入手，也可以多关注一些关于期刊排名的<a href="https://scatter.wordpress.com/2020/01/29/devilish-details-a-reputational-ranking-of-generalist-and-specialist-sociology-journals/">研究和讨论</a>，会有不少收获。</p>
+  <div class="md-photo">
+    <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8416492021_671642.jpg?x-oss-process=style/l" alt="News Explorer 2020-03-06 at 23.18.14@2x.jpg" title="订阅的部分社会学博客" />      <figcaption>
+订阅的部分社会学博客
+      </figcaption>
+    </figure>
+  </div>
+  <p>除了学术期刊，不少学者也会在自己的博客发表初步研究、教学感想、学习资源等，或是一些研究机构的非同行审议的学术资讯，大学的学术会议、招生等情报。不过这也是 RSS 的本职工作了。这类来源的寻找需要日积月累，或是利用 Google 等检索工具获得突破口。</p>
+  <p>还有一些数据可视化的博客，</p>
+  <hr />
+  <p>最后希望自己以后不会再用到这篇文章，也希望能帮助到有资讯整合需求的人。</p>
+  <hr />
+  <p><strong>🌟LikeCoin 可为我带来微薄收益，激励未来创作，如果你喜欢这篇文章，不妨五连哦👇</strong></p>
+  <div class="md-block html">
+    <script type="text/javascript">document.write("<iframe scrolling='no' frameborder='0' sandbox='allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-storage-access-by-user-activation' style='height: 212px; width: 100%;' src='https://button.like.co/in/embed/csshadow/button?referrer="+encodeURIComponent(location.href.split("?")[0].split("#")[0])+"'></iframe>");</script>
+  </div>
+  <p><strong>若你还不想注册加入赞赏公民社区，可以在这里按赞→<a href="https://button.like.co/csshadow">👍</a></strong></p>
+  <hr />
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#The Sociologist 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-05/%E7%BA%A6%E7%BF%B0%E9%9C%8D%E6%99%AE%E9%87%91%E6%96%AF%E5%A4%A7%E5%AD%A6%E9%AB%98%E7%AD%89%E5%9B%BD%E9%99%85%E7%A0%94%E7%A9%B6%E9%99%A2-SAIS-%E4%B8%AD%E5%9B%BD%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83%E5%8E%BB%E5%B9%B4-9-%E6%9C%88%E6%B1%87%E7%BC%96%E5%87%BA%E7%89%88%E4%BA%86-Studying-Ch/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2019-05-25/Hello,-World!-%E7%A4%BE%E4%BC%9A%E5%AD%A6%E4%BA%BA/">最早</a>--</span>
+    
+      <li>
+        <time>2020-03-21</time>
+        <a href="https://nodebe4.github.io/opinion/2020-03-21/ize-%E4%B8%8E-ise/">
+           -ize 与 -ise 
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-03-19</time>
+        <a href="https://nodebe4.github.io/opinion/2020-03-19/%E4%B8%AD%E5%9B%BD%E9%A9%B1%E9%80%90%E5%A4%96%E5%9B%BD%E8%AE%B0%E8%80%85%E7%AE%80%E5%8F%B2/">
+           中国驱逐外国记者简史 
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-02-23</time>
+        <a href="https://nodebe4.github.io/opinion/2020-02-23/%E5%86%8D%E6%B7%BB%E5%87%A0%E6%9C%AC%E6%9C%89%E5%85%B3%E6%96%B0%E5%86%A0%E7%9A%84%E9%98%85%E8%AF%BB%E4%B9%A6%E7%9B%AE/">
+           再添几本有关新冠的阅读书目 
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-01-24</time>
+        <a href="https://nodebe4.github.io/opinion/2020-01-24/2019-%E6%96%B0%E5%9E%8B%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%E6%89%A9%E6%95%A3%E7%9A%84%E5%8F%AF%E8%A7%86%E5%8C%96/">
+           2019 新型冠状病毒扩散的可视化 
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2020-03-06/%E5%BC%A0%E5%8D%9A%E6%A0%91-%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E4%B8%8E%E5%85%AC%E5%85%B1%E7%90%86%E6%80%A7-%E4%B8%BA%E5%94%90%E5%90%89%E7%94%B0-%E5%88%98%E5%B7%8D%E5%BE%8B%E5%B8%88%E5%90%8A%E7%85%A7%E5%8D%81%E5%91%A8%E5%B9%B4%E8%80%8C%E4%BD%9C/">
+            前一篇：张博树 : 维权律师与公共理性 ——为唐吉田、刘巍律师吊照十周年而作
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2020-03-06/%E4%B8%AD%E5%9C%8B%E7%9A%84%E7%96%AB%E6%83%85%E7%9C%9F%E5%8F%97%E6%8E%A7%E5%88%B6%E4%BA%86%E5%97%8E-%E4%B8%AD%E5%85%B1%E7%96%AB%E6%83%85%E5%AE%A3%E5%82%B3%E9%99%B7%E4%BA%95/">
+            後一篇：中國的疫情真受控制了嗎？；中共疫情宣傳陷井
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2020-03-06/%E5%BC%A0%E5%8D%9A%E6%A0%91-%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E4%B8%8E%E5%85%AC%E5%85%B1%E7%90%86%E6%80%A7-%E4%B8%BA%E5%94%90%E5%90%89%E7%94%B0-%E5%88%98%E5%B7%8D%E5%BE%8B%E5%B8%88%E5%90%8A%E7%85%A7%E5%8D%81%E5%91%A8%E5%B9%B4%E8%80%8C%E4%BD%9C/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2020-03-06/%E4%B8%AD%E5%9C%8B%E7%9A%84%E7%96%AB%E6%83%85%E7%9C%9F%E5%8F%97%E6%8E%A7%E5%88%B6%E4%BA%86%E5%97%8E-%E4%B8%AD%E5%85%B1%E7%96%AB%E6%83%85%E5%AE%A3%E5%82%B3%E9%99%B7%E4%BA%95/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2020-03-19/%E4%B8%AD%E5%9B%BD%E9%A9%B1%E9%80%90%E5%A4%96%E5%9B%BD%E8%AE%B0%E8%80%85%E7%AE%80%E5%8F%B2/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2020-02-23/%E5%86%8D%E6%B7%BB%E5%87%A0%E6%9C%AC%E6%9C%89%E5%85%B3%E6%96%B0%E5%86%A0%E7%9A%84%E9%98%85%E8%AF%BB%E4%B9%A6%E7%9B%AE/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2020-03-06/%E5%BC%A0%E5%8D%9A%E6%A0%91-%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E4%B8%8E%E5%85%AC%E5%85%B1%E7%90%86%E6%80%A7-%E4%B8%BA%E5%94%90%E5%90%89%E7%94%B0-%E5%88%98%E5%B7%8D%E5%BE%8B%E5%B8%88%E5%90%8A%E7%85%A7%E5%8D%81%E5%91%A8%E5%B9%B4%E8%80%8C%E4%BD%9C/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2020-03-06/%E4%B8%AD%E5%9C%8B%E7%9A%84%E7%96%AB%E6%83%85%E7%9C%9F%E5%8F%97%E6%8E%A7%E5%88%B6%E4%BA%86%E5%97%8E-%E4%B8%AD%E5%85%B1%E7%96%AB%E6%83%85%E5%AE%A3%E5%82%B3%E9%99%B7%E4%BA%95/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<The Sociologist>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2020-03-19/%E4%B8%AD%E5%9B%BD%E9%A9%B1%E9%80%90%E5%A4%96%E5%9B%BD%E8%AE%B0%E8%80%85%E7%AE%80%E5%8F%B2/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<The Sociologist>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2020-02-23/%E5%86%8D%E6%B7%BB%E5%87%A0%E6%9C%AC%E6%9C%89%E5%85%B3%E6%96%B0%E5%86%A0%E7%9A%84%E9%98%85%E8%AF%BB%E4%B9%A6%E7%9B%AE/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

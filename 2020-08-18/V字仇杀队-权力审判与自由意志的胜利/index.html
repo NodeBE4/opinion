@@ -1,0 +1,941 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>《V字仇杀队》：权力审判与自由意志的胜利 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+《V字仇杀队》：权力审判与自由意志的胜利
+——
+" />
+    <meta property="og:description" content="
+《V字仇杀队》：权力审判与自由意志的胜利
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="《V字仇杀队》：权力审判与自由意志的胜利" />
+    <meta property="twitter:title" content="《V字仇杀队》：权力审判与自由意志的胜利" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2F2049post.wordpress.com%2F2020%2F08%2F18%2Fv4movie%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://2049post.wordpress.com/2020/08/18/v4movie/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://2049post.wordpress.com/2020/08/18/v4movie/&text=《V字仇杀队》：权力审判与自由意志的胜利&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://2049post.wordpress.com/2020/08/18/v4movie/&title=《V字仇杀队》：权力审判与自由意志的胜利" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://2049post.wordpress.com/2020/08/18/v4movie/&title=《V字仇杀队》：权力审判与自由意志的胜利" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=《V字仇杀队》：权力审判与自由意志的胜利&body=
+《V字仇杀队》：权力审判与自由意志的胜利
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://2049post.wordpress.com/2020/08/18/v4movie/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://2049post.wordpress.com/2020/08/18/v4movie/&title=《V字仇杀队》：权力审判与自由意志的胜利&caption=
+《V字仇杀队》：权力审判与自由意志的胜利
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=《V字仇杀队》：权力审判与自由意志的胜利&url=https://2049post.wordpress.com/2020/08/18/v4movie/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>《V字仇杀队》：权力审判与自由意志的胜利</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2020-08-18
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#火光">
+          火光
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://2049post.wordpress.com/2020/08/18/v4movie/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="火光的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#火光 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1597739431000-->
+<p><a href="https://2049post.wordpress.com/2020/08/18/v4movie/">《V字仇杀队》：权力审判与自由意志的胜利</a>
+——</p>
+
+<div>
+  <figure class="wp-block-image">
+<img src="https://telegra.ph/file/a6a7a26031329d85313f2.png" alt="" />
+  </figure>
+  <blockquote class="wp-block-quote">
+    <p>按：近日著名电影<a href="F138BBF5F48FB8BAED9C7899B4C109B14BC04D27" target="_blank" rel="noreferrer noopener">《V字仇杀队》</a>被下架，片中V所戴的面具已经成为反抗专制的象征。让我们重温一篇影评，感受这部影片对极权国家的威慑。</p>
+  </blockquote>
+  <p><a href="https://web.archive.org/web/20200815082910/http://media.people.com.cn/n/2013/0830/c368610-22752906.html" target="_blank" rel="noreferrer noopener">原文链接</a></p>
+  <p>摘 要：《V字仇杀队》自上映之日起，就因其反乌托邦的主题设定和一系列非主流社会元素而饱受争议，2012年12月在CCTV-6播出之后，更是在媒体上引起了热议。本文认为影片通过设定未来社会场景，于科幻中注入政治隐喻，审视极权国家统治，并刻意塑造反叛角色通过暴力革命手段实现对极权主义的审判，从而表达对于自由意志的强烈诉求。</p>
+  <p>关键词：《V字仇杀队》；权力审判；自由意志；极权政治</p>
+  <p>自由与专制、极权主义与无政府主义，乌托邦与反乌托邦等政治敏感话题的主题定位，加之以同性恋、恋童癖等非主流社会元素，使《V字仇杀队》无可置喙地成为2005年到2006年间最值得期待和饱受争议的一部宏大影片。</p>
+  <p>影片讲述的故事设定在虚拟的未来英国，灰白色的基调营造出一个极权统治下没有灵魂的沉闷社会，国家机器以秩序和稳定的名义，绑架了民众的自由权利，于是真实不再，谎言横行。影片展现了奥威尔在《1984》中对于独裁极权统治下思想禁锢与民众集体失语的描述，但相对于主人公温斯顿面对极权的隐忍无力，影片中的V怪客显然以一种对抗社会暴力的个人暴力，成为独裁者权力的审判者与捍卫自由意志的孤胆英雄。</p>
+  <figure class="wp-block-image">
+<img src="https://m.media-amazon.com/images/M/MV5BMjM4NzI0MjcwN15BMl5BanBnXkFtZTgwMzY4OTE1MDI@._V1_SY1000_CR0,0,1501,1000_AL_.jpg" alt="" />
+  </figure>
+  <p>这部影片由《黑客帝国》的执导人沃卓斯基兄弟编剧，秉承了其华丽盛大的视觉效于幻想中注入政治隐喻，审视极权国家统治，并刻意塑造反叛角色通过暴力革命手段实现对极权主义的权力审判，表达对于自由意志的强烈诉求。</p>
+  <h4 id="一、400年后的“火药阴谋案”"></h4>
+  <h4 id="一、400年后的“火药阴谋案”">一、400年后的“火药阴谋案”</h4>
+  <p>1605年火药成为世界的关键词。在英国,一群梦想复辟天主教统治的狂热分子策划炸毁议会和王室。11月5日是议会大典,福克斯将36桶火药偷运到国会的地下室。这一阴谋在5日凌晨奇迹般地败露,福克斯等人被处绞刑。英国逃过人类政治史上最大一次恐怖策划,他们实在有足够理由纪念这个日子,因为这批火药足可将整座国会炸毁20次。就这样，11月5日成了英国传统的火药节,人们上街庆贺,将福克斯的人像反复焚烧了400年。</p>
+  <p>阴谋的流产对英格兰天主教产生了巨大的负面影响。它使得天主教解放全面停止：天主教徒们只得再等待200年直到获得近乎同等的权力。</p>
+  <p>鲁迅说：“革命的策源地亦可以成为反革命的策源地”。400年前这一群宗教徒冒犯了君主的原则，成为政治运作的牺牲品，这一出于宗教狂热而反抗政治权威的行动也随着福克斯等人在绞刑架上被公开处决而幻灭，但人可能失败，可能会被捕，被杀死，被遗忘，思想却不会流血，不会感到痛苦，且会以其洞穿时空的力量暗流涌动。于是，它在400年后重新以复仇者V的姿态出现，携一身改变世界的力量，以匡扶正义为名，意图唤醒“沉默中的大多数”，通过暗杀制造恐怖，让昔日的极权见识到思想的威力，最终在捍卫自由的麾下，集结了浩浩民众，内心中自由意志的觉醒使他们如洪水猛兽般冲破了极权统治下的最后一道防线，形成了全民皆V的宏大场景。当11月5日零点的钟声敲响，一列装满火药的地下列车通向了英国议会大厦，那象征着独裁专制的建筑，伴随着激扬高亢的柴可夫斯基的《1812序曲》，大厦在绚烂的焰火中有节奏的爆破，最终倾倒。在这样的时空对照中，我们看到了历史的重复上演，历史总在不断的前进，人也在不断地进步，所需的只是一些时间，一些觉醒的时间，传承的时间，哪怕只有一点思想的火星。</p>
+  <h4 id="二、“谎言监狱”与极权网络"></h4>
+  <h4 id="二、“谎言监狱”与极权网络">二、“谎言监狱”与极权网络</h4>
+  <p>罗尔斯在《正义论》中提到，正义是“无知之幕”下人们的自然选择。所谓无知之幕，就是假定人们在没有任何社会经验背景和其他外力驱使的状态下，所作出的选择[1]。也只有这种选择才符合真正意义上的正义。但是，影片中的英国民众，却处于一种极度的不自由中，他们将希望寄予这个强有力的极权政党，在最大限度的出让自己的权利以后，终于也使得自己生活在牢笼之中；艺术家用谎言来揭穿事实，政客用谎言来掩盖事实，为了重建社会秩序，维护其保守的极权统治，英国政府高呼“团结通过信仰”的口号，迅速打造“谎言监狱”，建构自己的极权网络。</p>
+  <p>他们开动国家宣传机器——BTN，颠倒黑白，伪造事实，操控舆论，以一场场不间断的谎言游戏取代着真实事件的演进。于是，贝里大楼被V炸毁变成了国家爆破组的一次创意拆迁；被警察无辜打死的约旦塔工作人员变成了V的替罪羊；为了维系民众完全彻底的服从，不断散播惶恐与恐惧，国家无端陷入了内战、缺水、犯罪、传染病之中，恍若正处于湮灭的边缘。值得注意的是，在影片中，BTN电视塔被置于整个城市的最中央，且占据了制高点，它就像一种无面孔的眼光，整个城市都是它的感知区域与受传范围，它使谎言无所不在，又使一切隐而不见的事物变得昭然若揭[2]，在这里，所有的人们都被囚禁在这“谎言监狱”里。</p>
+  <p>与此同时，以信仰为依托，建立了一整套严密的审查制度和监视体系，形成国家持久而稳固的运作机制。过去的一切都遭到篡改，经典被禁，每一个塑像，每一幅画，乃至街道大楼都已改了名字，多彩的油画换成了单调的苏特勒元首的画像，使他以洞察一切的全能形象压迫式的进入人们的思想，仿佛随时都在发号施令，察觉和裁决一切过错，手持利刃的卫士替代了自由女神像，成为统治者信仰的标志；秘密警察横行于世，异教徒和同性恋者被指为“国家公敌”，在一夜间消失；片中的女主角伊芙的父母由于参加了利兹的暴乱惨遭杀害，而她也被强制通过一类不同于粗暴的人身占有的更具高雅性的纪律学习的方式，实现一种“修道院”式的彻底思想改造，将统治者的个人意志移植入大脑，最终得以确立全面持久，不可分解的无限制的被支配关系。</p>
+  <p>洛克说：人生而自由，拥有最大程度的权利，政府是理性的人们为了更好的生活在一起而在民主的基础上订立的一个契约，个人为了社会秩序，为了对付共同的困难，将自己的部分权利让渡给政府，以此来保护作为弱者的单个的人。而影片中独裁者却将这一公权力无限制的扩大，为了满足权欲而将民众置于他们精心设计的“谎言监狱”与极权网络中，还要他们缄口沉默。因而可以说，这种情形下的人们的选择不可能是出于自己的真实意愿，也因此得出逻辑推断：民众拥有推翻自己在非自愿情况下所做出选择的自由。从而，为V怪客的暴力抗争赋予了无可厚非的正义性。</p>
+  <h4 id="三、复仇的自由斗士V"></h4>
+  <h4 id="三、复仇的自由斗士V">三、复仇的自由斗士V</h4>
+  <p>奇怪的面具，非凡的身手，渊博的学识，幽默的谈吐，充满仇恨的灵魂，还有一颗布满伤痕的心灵，这就是电影中的男主角——V怪客。他一出场便以救世主的形象利落地干掉两个意图不轨的秘密警察，拯救了伊芙。伊芙是体制内的良民，安分守己，但却残留着革命者的基因，V以自己的思想和行动，一步步完成了对于伊芙的救赎，克服了内心的恐惧，直面死亡，最终与他站在了同一战线上，为民众和国家的希望而战。</p>
+  <p>V是当年极权政府在拉克希尔拘留所的人体试验品之一，不过他侥幸逃脱一死，成为48个试验者中唯一的幸存者。残酷的折磨并没有腐蚀他的智慧与思维，反而磨练了他超人的体格和意志。最后他纵火焚烧了拘留中心，趁机逃脱。却付出了被重度烧伤的惨重代价。离开前，他发誓要报复独裁政权。</p>
+  <p>他潜入BTN，通过电视演讲，揭露政府的劣迹和暴行，并呼吁全英国的民众在一年后的11月5日站出来，与他一起在议会大厦前示威以反抗独裁统治。他又通过一系列暴力暗杀无情惩罚为了一己贪欲而做生化试验、残害生命的社会渣滓。</p>
+  <p>在这样一种显赫的、无限制的个人“至上权力”体制下，民众早已被国家占有、像奴隶从属于主人一样从属于国家，他们一劳永逸的接受了社会的各种法律，契约、也接受了可能用于惩罚他的思想犯罪[3]。而V却脱离了国家与民众之间的契约，甚至不断破坏着这一契约，成为了这一体制的敌人，他自愿剥夺自己“公民”资格，显露出自身被视为“不正常”“疯子”的自由本性。他是复仇者，是极权统治者的掘墓人，大胆审判“党天下”无所不至的膨胀权力，销蚀集权帝国最坚固的政治锁链；但他更是民众的思想启蒙家，提醒这个国家它所忘记的事情——公平、正义、自由，重新建构起人们头脑中的自由意志，通过一次次行动让人们认清了统治者的残暴、不公、歧视与镇压，并由对政党的质疑进而亲手推翻自己的政府。</p>
+  <p>V代表了一种对抗社会暴力的个人暴力，是一种对抗理性枷锁的代表，他用敏捷的身手和火药来实现他眼中的仁义。他用顽固的傲慢暴力反抗独裁统治，并以此让民众重新意识到自己不仅有不服从的自由，更有以暴力反抗的自由！</p>
+  <h4 id="四、自由意志的胜利"></h4>
+  <h4 id="四、自由意志的胜利">四、自由意志的胜利</h4>
+  <p>当11月5日的钟声响起，伊芙扳下手柄，装满火药的列车载着V的遗体呼啸驶向议会大厦，紧接着议会大厦在柴可夫斯基的《1812序曲》幻化成绚丽的烟花，人们纷纷摘下面具，如获新生。这是民众的胜利，是自由意志的胜利，同样是民众围观，从400年前冷眼旁观一种思想被绞死到400后自由意志的烟火冲天，不得不说，这是自由理想的复兴，是公民权利的回归。</p>
+  <p>事实上，从V一出场，独裁政党的每一次失败，都是自由意志的一次胜利，只不过到此，由个人英雄主义对极权主义的胜利，演变为人民群众对极权主义的胜利。V作为一个殉道者，以自己的死终结了一个旧时代，迎来了一个新时代。正如他所说：明天将会是不同的世界，该有不同的人来塑造。</p>
+  <p>那么V是谁呢？他是基督山伯爵，他是你和我，也是每一个人。</p>
+  <p>因为你即自由[4]。</p>
+  <hr class="wp-block-separator" />
+  <p>参考文献：</p>
+  <p>[1] (美)罗尔斯著.何怀宏,何包刚等译.<a href="https://b-ok.cc/book/5347108/73dc35" target="_blank" rel="noreferrer noopener">正义论</a>[M].北京:中国社会科学出版社,2009.</p>
+  <p>[2] (法)福柯著.刘北成,杨远缨译.<a href="https://b-ok.cc/book/5346925/2cc33d" target="_blank" rel="noreferrer noopener">规训与惩罚</a>[M].北京:生活.读书.新知三联书店,2007.</p>
+  <p>[3] (意)切萨雷?贝卡里亚著.黄风译.<a href="https://b-ok.cc/book/5509230/f308b2" target="_blank" rel="noreferrer noopener">论犯罪与刑罚</a>[M].北京:北京大学出版社,2008.</p>
+  <p>[4] 熊培云.<a rel="noreferrer noopener" href="https://b-ok.cc/book/5712415/780eda" target="_blank">自由在高处</a>[M].北京:新星出版社,2011.</p>
+  <nav class="wp-block-navigation">
+    <ul class="wp-block-navigation__container">
+      <li class="wp-block-navigation-link"><a class="wp-block-navigation-link__content" href="https://2049post.wordpress.com/v4index/"><span class="wp-block-navigation-link__label">返回第四期目录</span></a></li>
+    </ul>
+  </nav>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#火光 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2020-12-31/%E7%AB%AF%E7%82%B9%E6%98%9F%E6%A1%88%E6%B6%88%E6%81%AF%E6%B1%87%E6%80%BB/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2020-07-24/%E5%85%AC%E6%B0%91%E5%AE%9E%E9%AA%8C%E5%AE%A4-%E5%BE%AE%E4%BF%A1%E7%9B%91%E6%8E%A7%E8%AF%A0%E9%87%8A/">最早</a>--</span>
+    
+      <li>
+        <time>2020-08-18</time>
+        <a href="https://nodebe4.github.io/opinion/2020-08-18/%E6%9D%83%E5%8A%9B-%E4%BB%8E%E6%9D%A5%E9%83%BD%E6%98%AF%E5%B1%8C%E4%B8%9D%E7%9A%84%E9%80%86%E8%A2%AD/">
+          权力，从来都是屌丝的逆袭
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-08-18</time>
+        <a href="https://nodebe4.github.io/opinion/2020-08-18/%E5%AE%87%E5%AE%99%E5%A1%91%E8%83%B6%E4%BA%BA-%E4%B8%80%E4%B8%AA%E5%94%B1%E5%9E%AE%E4%BA%86%E6%94%BF%E6%9D%83%E7%9A%84%E6%91%87%E6%BB%9A%E4%B9%90%E5%9B%A2/">
+          宇宙塑胶人：一个唱垮了政权的摇滚乐团
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-08-18</time>
+        <a href="https://nodebe4.github.io/opinion/2020-08-18/%E4%B9%94%E7%BA%B3%E6%A3%AE-%E6%B2%83%E5%B0%94%E5%A4%AB-%E7%89%9B%E6%B4%A5%E5%A4%A7%E5%AD%A6%E5%93%B2%E5%AD%A6%E9%80%9A%E8%AF%86%E8%AF%BE-%E6%94%BF%E6%B2%BB%E5%93%B2%E5%AD%A6/">
+          乔纳森·沃尔夫 – 牛津大学哲学通识课：政治哲学
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-08-18</time>
+        <a href="https://nodebe4.github.io/opinion/2020-08-18/%E7%BA%A6%E7%BF%B0-%E7%A9%86%E5%8B%92-%E8%AE%BA%E8%87%AA%E7%94%B1/">
+          约翰·穆勒 – 论自由
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2020-08-18/%E4%B9%94%E7%BA%B3%E6%A3%AE-%E6%B2%83%E5%B0%94%E5%A4%AB-%E7%89%9B%E6%B4%A5%E5%A4%A7%E5%AD%A6%E5%93%B2%E5%AD%A6%E9%80%9A%E8%AF%86%E8%AF%BE-%E6%94%BF%E6%B2%BB%E5%93%B2%E5%AD%A6/">
+            前一篇：乔纳森·沃尔夫 – 牛津大学哲学通识课：政治哲学
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2020-08-18/%E5%AE%87%E5%AE%99%E5%A1%91%E8%83%B6%E4%BA%BA-%E4%B8%80%E4%B8%AA%E5%94%B1%E5%9E%AE%E4%BA%86%E6%94%BF%E6%9D%83%E7%9A%84%E6%91%87%E6%BB%9A%E4%B9%90%E5%9B%A2/">
+            後一篇：宇宙塑胶人：一个唱垮了政权的摇滚乐团
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2020-08-18/%E4%B9%94%E7%BA%B3%E6%A3%AE-%E6%B2%83%E5%B0%94%E5%A4%AB-%E7%89%9B%E6%B4%A5%E5%A4%A7%E5%AD%A6%E5%93%B2%E5%AD%A6%E9%80%9A%E8%AF%86%E8%AF%BE-%E6%94%BF%E6%B2%BB%E5%93%B2%E5%AD%A6/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2020-08-18/%E5%AE%87%E5%AE%99%E5%A1%91%E8%83%B6%E4%BA%BA-%E4%B8%80%E4%B8%AA%E5%94%B1%E5%9E%AE%E4%BA%86%E6%94%BF%E6%9D%83%E7%9A%84%E6%91%87%E6%BB%9A%E4%B9%90%E5%9B%A2/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2020-08-18/%E5%AE%87%E5%AE%99%E5%A1%91%E8%83%B6%E4%BA%BA-%E4%B8%80%E4%B8%AA%E5%94%B1%E5%9E%AE%E4%BA%86%E6%94%BF%E6%9D%83%E7%9A%84%E6%91%87%E6%BB%9A%E4%B9%90%E5%9B%A2/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2020-08-18/%E4%B9%94%E7%BA%B3%E6%A3%AE-%E6%B2%83%E5%B0%94%E5%A4%AB-%E7%89%9B%E6%B4%A5%E5%A4%A7%E5%AD%A6%E5%93%B2%E5%AD%A6%E9%80%9A%E8%AF%86%E8%AF%BE-%E6%94%BF%E6%B2%BB%E5%93%B2%E5%AD%A6/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2020-08-18/%E4%B9%94%E7%BA%B3%E6%A3%AE-%E6%B2%83%E5%B0%94%E5%A4%AB-%E7%89%9B%E6%B4%A5%E5%A4%A7%E5%AD%A6%E5%93%B2%E5%AD%A6%E9%80%9A%E8%AF%86%E8%AF%BE-%E6%94%BF%E6%B2%BB%E5%93%B2%E5%AD%A6/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2020-08-18/%E5%AE%87%E5%AE%99%E5%A1%91%E8%83%B6%E4%BA%BA-%E4%B8%80%E4%B8%AA%E5%94%B1%E5%9E%AE%E4%BA%86%E6%94%BF%E6%9D%83%E7%9A%84%E6%91%87%E6%BB%9A%E4%B9%90%E5%9B%A2/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<火光>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2020-08-18/%E5%AE%87%E5%AE%99%E5%A1%91%E8%83%B6%E4%BA%BA-%E4%B8%80%E4%B8%AA%E5%94%B1%E5%9E%AE%E4%BA%86%E6%94%BF%E6%9D%83%E7%9A%84%E6%91%87%E6%BB%9A%E4%B9%90%E5%9B%A2/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<火光>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2020-08-18/%E4%B9%94%E7%BA%B3%E6%A3%AE-%E6%B2%83%E5%B0%94%E5%A4%AB-%E7%89%9B%E6%B4%A5%E5%A4%A7%E5%AD%A6%E5%93%B2%E5%AD%A6%E9%80%9A%E8%AF%86%E8%AF%BE-%E6%94%BF%E6%B2%BB%E5%93%B2%E5%AD%A6/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

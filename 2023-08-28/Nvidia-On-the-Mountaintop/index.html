@@ -1,0 +1,3010 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Nvidia On the Mountaintop – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+Nvidia On the Mountaintop
+——
+" />
+    <meta property="og:description" content="
+Nvidia On the Mountaintop
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Nvidia On the Mountaintop" />
+    <meta property="twitter:title" content="Nvidia On the Mountaintop" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2023%2Fnvidia-on-the-mountaintop%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2023/nvidia-on-the-mountaintop/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2023/nvidia-on-the-mountaintop/&text=Nvidia On the Mountaintop&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2023/nvidia-on-the-mountaintop/&title=Nvidia On the Mountaintop" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2023/nvidia-on-the-mountaintop/&title=Nvidia On the Mountaintop" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Nvidia On the Mountaintop&body=
+Nvidia On the Mountaintop
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2023/nvidia-on-the-mountaintop/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2023/nvidia-on-the-mountaintop/&title=Nvidia On the Mountaintop&caption=
+Nvidia On the Mountaintop
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Nvidia On the Mountaintop&url=https://stratechery.com/2023/nvidia-on-the-mountaintop/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Nvidia On the Mountaintop</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2023-08-28
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2023/nvidia-on-the-mountaintop/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1693240250000-->
+<p><a href="https://stratechery.com/2023/nvidia-on-the-mountaintop/">Nvidia On the Mountaintop</a>
+——</p>
+
+<div>
+  <p>It was only 11 months ago that I wrote an Article entitled <a href="https://stratechery.com/2022/nvidia-in-the-valley/">Nvidia In the Valley</a>; the occasion was yet another plummet in their stock price:</p>
+  <blockquote>
+    <p><img decoding="async" fetchpriority="high" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/nvidia-4.png?resize=640%2C331&#038;ssl=1" alt="Nvidia&#039;s current stock price drop" width="640" height="331" class="aligncenter size-full wp-image-9775" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/nvidia-4.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/nvidia-4.png?resize=300%2C155&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/nvidia-4.png?resize=1024%2C529&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/nvidia-4.png?resize=768%2C397&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/nvidia-4.png?resize=1200%2C620&amp;ssl=1 1200w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  </blockquote>
+  <p>To say that the company has turned things around is, needless to say, an understatement:</p>
+  <p><img decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2023/08/nvidia-6.png?resize=640%2C310&#038;ssl=1" alt="Nvidia&#039;s latest stock rise" width="640" height="310" class="aligncenter size-full wp-image-11467" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2023/08/nvidia-6.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/08/nvidia-6.png?resize=300%2C145&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/08/nvidia-6.png?resize=1024%2C496&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/08/nvidia-6.png?resize=768%2C372&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/08/nvidia-6.png?resize=1200%2C581&amp;ssl=1 1200w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>That big jump in May was Nvidia’s <a href="https://stratechery.com/2023/nvidia-earnings-jenson-huangs-defense-training-versus-inference/">last earnings</a>, when the company shocked investors with an incredibly ambition forecast; this last week Nvidia vastly exceeded those expectations and forecasted even bigger growth going forward. From the <a href="https://www.wsj.com/business/earnings/nvidia-nvda-q2-earnings-report-2024-814cf32d">Wall Street Journal</a>:</p>
+  <blockquote>
+    <p>Chip maker Nvidia said revenue in its recently completed quarter more than doubled from a year ago, setting a new company record, and projected that surging interest in artificial intelligence is propelling its business faster than expected. Nvidia is at the heart of the boom in artificial intelligence that made it a $1 trillion company this year, and it is forecasting growth that outpaces even the most bullish analyst projections.</p>
+    <p>Nvidia’s stock, already the top performer in the S&amp;P 500 this year, rose 7.5% following the results, which would be about $87 billion in market value. The company said revenue more than doubled in its fiscal second quarter to about $13.5 billion, far ahead of Wall Street forecasts in a FactSet survey. Even more strikingly, it said revenue in its current quarter would be around $16 billion, besting expectations by about $3.5 billion. Net profit for the company’s second quarter was $6.19 billion, also surpassing forecasts.</p>
+    <p>The results show a wave of investment in artificial intelligence that began late last year with the arrival of OpenAI’s ChatGPT language-generation tool is gaining steam as companies and governments seek to harness its power in business and everyday life. Many companies see AI as indispensable to their future growth and are making large investments in computing infrastructure to support it.</p>
+  </blockquote>
+  <p>Now the big question on everyone’s mind is if Nvidia is the new Cisco:</p>
+  <p><a href="https://twitter.com/stockgeekTV/status/1694459398934905113"><img decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2023/08/nvidia-1.png?resize=640%2C774&#038;ssl=1" alt="Is Nvidia Cisco?" width="640" height="774" class="aligncenter size-full wp-image-11462" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2023/08/nvidia-1.png?w=1184&amp;ssl=1 1184w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/08/nvidia-1.png?resize=248%2C300&amp;ssl=1 248w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/08/nvidia-1.png?resize=847%2C1024&amp;ssl=1 847w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/08/nvidia-1.png?resize=768%2C929&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/08/nvidia-1.png?resize=521%2C630&amp;ssl=1 521w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></a></p>
+  <p>I don’t think so, at least in terms of the near-term: there are some fundamental differences between Nvidia and Cisco that are worth teasing out. The bigger question is the long term, and here the comparison might be more apt.</p>
+  <h3 id="nvidia-and-cisco">Nvidia and Cisco</h3>
+  <p>The first difference between Nvidia and Cisco is in the above charts: Nvidia already went through a crash, thanks to the double whammy of Ethereum moving to proof-of-stake and the COVID cliff in terms of PC sales; both left Nvidia with huge amounts of inventory it had to write-off over the second half of last year. The bright spot for Nvidia was the steady growth of data center revenue, thanks to the increase of machine learning workloads; I included this chart in that Article last fall:</p>
+  <blockquote>
+    <p><img decoding="async" loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/nvidia-3.png?resize=640%2C370&#038;ssl=1" alt="Nvidia&#039;s gaming revenue drop" width="640" height="370" class="aligncenter size-full wp-image-9774" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/nvidia-3.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/nvidia-3.png?resize=300%2C173&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/nvidia-3.png?resize=1024%2C591&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/nvidia-3.png?resize=768%2C443&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/09/nvidia-3.png?resize=1091%2C630&amp;ssl=1 1091w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  </blockquote>
+  <p>What has happened over the last two quarters is that data center revenue is devouring the rest of the company; here is an updated version of that same chart:</p>
+  <p><img decoding="async" loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2023/08/nvidia-2.png?resize=640%2C370&#038;ssl=1" alt="Nvidia&#039;s sky-rocketing AI revenue" width="640" height="370" class="aligncenter size-full wp-image-11463" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2023/08/nvidia-2.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/08/nvidia-2.png?resize=300%2C173&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/08/nvidia-2.png?resize=1024%2C592&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/08/nvidia-2.png?resize=768%2C444&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/08/nvidia-2.png?resize=1090%2C630&amp;ssl=1 1090w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>Here is Nvidia’s revenue mix:</p>
+  <p><img decoding="async" loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2023/08/nvidia-3.png?resize=640%2C357&#038;ssl=1" alt="Nvidia&#039;s revenue mix" width="640" height="357" class="aligncenter size-full wp-image-11464" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2023/08/nvidia-3.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/08/nvidia-3.png?resize=300%2C167&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/08/nvidia-3.png?resize=1024%2C571&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/08/nvidia-3.png?resize=768%2C428&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/08/nvidia-3.png?resize=1129%2C630&amp;ssl=1 1129w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>This dramatic shift in Nvidia’s business provides some interesting contrasts to Cisco’s dot-com run-up. First, here was Cisco’s revenue, gross profit, net profit, and stock price in the ten years starting from its 1993 IPO:</p>
+  <p><img decoding="async" loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2023/08/nvidia-5.png?resize=640%2C398&#038;ssl=1" alt="Cisco&#039;s revenue, profit, and stock price in the 90s" width="640" height="398" class="aligncenter size-full wp-image-11466" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2023/08/nvidia-5.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/08/nvidia-5.png?resize=300%2C186&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/08/nvidia-5.png?resize=1024%2C636&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/08/nvidia-5.png?resize=768%2C477&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/08/nvidia-5.png?resize=1014%2C630&amp;ssl=1 1014w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>Here is Nvidia’s last ten years:</p>
+  <p><img decoding="async" loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2023/08/nvidia-4.png?resize=640%2C397&#038;ssl=1" alt="Nvidia&#039;s revenue, profit, and stock price" width="640" height="397" class="aligncenter size-full wp-image-11465" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2023/08/nvidia-4.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/08/nvidia-4.png?resize=300%2C186&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/08/nvidia-4.png?resize=1024%2C634&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/08/nvidia-4.png?resize=768%2C476&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/08/nvidia-4.png?resize=1017%2C630&amp;ssl=1 1017w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>The first thing to note is the extent to which Nvidia’s crash last year looks similar to Cisco’s dot-com crash: in both cases steady but steep revenue increases initially outpaced the stock price, which eventually overshot just a few quarters before big inventory write-downs led to big decreases in profitability (score one for crypto optimists hopeful that the current doldrums are simply their own dot-com hangover).</p>
+  <p>Cisco, though, didn’t have a second act, unlike this data center explosion. What is notable is the extent to which Nvidia’s revenue increase is matching the slope of the stock price increase (obviously this is inexact given the different axis); it seems likely that the stock will overshoot revenue growth soon enough, but it hasn’t really happened yet. It’s also worth noting how much more disciplined Nvidia appears to be in terms of below-the-line costs: its net profit is moving in concert with its revenue, unlike Cisco in the 90s; I suspect this is a function of Nvidia being a much larger and more mature company.</p>
+  <p>Another difference is the nature of Nvidia’s customers: over 50% of the company’s Q2 revenue came from the large cloud service providers, followed by large consumer Internet companies (i.e. Meta). This category does, of course, include the startups that once might have purchased Cisco routers and Sun servers directly, and now rent capacity (if they can get it); cloud providers, though, monetize their hardware immediately, which is good for Nvidia.</p>
+  <p>Still, there is an important difference from other cloud workloads: previously a new company or line of business only ramped their cloud utilization with usage, which ought to correlate to customer acquisition, if not revenue. Model training, though, is an up-front cost, not dissimilar to the cost needed to buy those Sun servers and Cisco routers in the dot-com era; that is cloud revenue that has a much higher likelihood of disappearing if the company in question doesn’t find a market.</p>
+  <p>This point is relevant to Nvidia given that training is the part of AI where the company is the most dominant, thanks to both its software ecosystem and the ability to operate huge fleet of Nvidia chips as a single GPU; inference is where Nvidia will first see challenges, and that is also the area of AI that is correlated with usage, and thus more durable from a cloud provider perspective.</p>
+  <p>Those points about a software ecosystem and hardware scalability are also the biggest reason why Nvidia is different than Cisco. Nvidia has a moat in both, along with a substantial manufacturing advantage thanks to its upfront payments to TSMC over the last several years to secure its own 4nm line (and having the good fortune of asking for more scale at a time when TSMC’s other sources of high performance computing revenue are in a slump). There is certainly a massive incentive for both the cloud providers and large Internet companies to bridge Nvidia’s moats — see AWS’s investments in its own chips, for example, or Meta’s development of and support for PyTorch — but right now Nvidia has a big lead and the frenzy inspired by ChatGPT is only deepening their install base, with all of the positive ecosystem effects that entails.</p>
+  <h3 id="gpu-demand">GPU Demand</h3>
+  <p>The biggest challenge facing Nvidia is the one that is ultimately out of their control: what does the final market look like?</p>
+  <p>Go back to the dot-com era, and the era that proceeded it. The advent of computing, first in the form of mainframes and then the PC, digitized information, making it endlessly duplicable. Then came the Internet which made the marginal cost of distributing that content go to zero (with the caveat that most people had very low bandwidth). This was an obvious business opportunity that plenty of startups jumped all over, even as telecom companies took on the bandwidth problem; Cisco was the beneficiary of both.</p>
+  <p>The missing element, though, was demand: consistent consumer demand for Internet applications only started to arrive with the advent of broadband connections in the 2000s (thanks in part to a buildout that bankrupted said telecom companies), and then exploded with smartphones a decade later, which made the Internet accessible anytime, anywhere. It was demand that made the router business as big as dot-com investors thought it might be, although by then Cisco had a host of competitors, including large cloud providers who built (and open-sourced) their own.</p>
+  <p>There are lots of potential starting points to choose for AI: machine learning has obviously been a thing for a while, or you might point to the 2017 invention of the transformer; the release of GPT-3 in 2020 was perhaps akin to the release of the Mosaic web browser, which would make ChatGPT the Netscape IPO. One way to categorize this emergence is to characterize training as being akin to digitization in the previous era, and creation — i.e. inference — as akin to distribution. Once again there are obvious business opportunities that arise from combining the two, and once again startups are jumping all over them, along with the big incumbents.</p>
+  <p>However you want to make the analogy, what is important to note is that the missing element is the same: demand. ChatGPT took the world by storm, and the use of AI for writing code is both proliferating widely and is extremely high leverage. Every SaaS company in tech, meanwhile, is hard at work at an AI strategy, for the benefit of their sales team if nothing else. That is no small thing, and the exploration and implementation of those strategies will use up a lot of Nvidia GPUs over the next few years. The ultimate question, though, is how much of this AI stuff is actually used, and that is ultimately out of Nvidia’s control.</p>
+  <p>My best guess is that the next several years will be occupied building out the most obvious use cases, particularly in the enterprise; the analogy here is to the 2000s build-out of the web. The question, though, is what will be the analogy to mobile (and the cloud), which exploded demand and led to one of the most profitable decades tech has ever seen? The answer may be an already discarded fad: the metaverse.</p>
+  <h3 id="a-gpu-overhang-and-the-metaverse">A GPU Overhang and the Metaverse</h3>
+  <p>In April 2022, when Dall-E 2 came out, I wrote <a href="https://stratechery.com/2022/dall-e-the-metaverse-and-zero-marginal-content/">DALL-E, the Metaverse, and Zero Marginal Content</a>, and highlighted three trends:</p>
+  <ul>
+    <li>First, the gaming industry was increasingly about a few AAA games, small indie titles, and the huge sea of mobile; the limiting factor in further development was the astronomical cost of developing high quality assets.</li>
+    <li>Second, social media succeeded by virtue of making content creation free, because users created the content of their own volition.</li>
+    <li>Third, TikTok pointed to a future where every individual not only had their own feed, but also where the provenance of that content didn’t matter.</li>
+  </ul>
+  <p>AI is how those three trends might intersect:</p>
+  <blockquote>
+    <p>What is fascinating about DALL-E is that it points to a future where these three trends can be combined. DALL-E, at the end of the day, is ultimately a product of human-generated content, just like its GPT-3 cousin. The latter, of course, is about text, while DALL-E is about images. Notice, though, that progression from text to images; it follows that machine learning-generated video is next. This will likely take several years, of course; video is a much more difficult problem, and responsive 3D environments more difficult yet, but this is a path the industry has trod before:</p>
+    <ul>
+      <li>Game developers pushed the limits on text, then images, then video, then 3D</li>
+      <li>Social media drives content creation costs to zero first on text, then images, then video</li>
+      <li>Machine learning models can now create text and images for zero marginal cost</li>
+    </ul>
+    <p>In the very long run this points to a metaverse vision that is much less deterministic than your typical video game, yet much richer than what is generated on social media. Imagine environments that are not drawn by artists but rather created by AI: this not only increases the possibilities, but crucially, decreases the costs.</p>
+  </blockquote>
+  <p>I wrote in the conclusion:</p>
+  <blockquote>
+    <p>Machine learning generated content is just the next step beyond TikTok: instead of pulling content from anywhere on the network, GPT and DALL-E and other similar models generate new content from content, at zero marginal cost. This is how the economics of the metaverse will ultimately make sense: virtual worlds need virtual content created at virtually zero cost, fully customizable to the individual.</p>
+  </blockquote>
+  <p>Zero marginal cost is, I should note, aspirational at this point: inference is expensive, both in terms of power and also in terms of the need to pay off all of that money that is showing up on Nvidia’s earnings. It’s possible to imagine a scenario a few years down the line, though, where Nvidia has deployed countless ever more powerful GPUs, and inspired massive competition such that the world’s supply of GPU power far exceeds demand, driving the marginal costs down to the cost of energy (which hopefully will have become cheaper as well); suddenly the idea of making virtual environments on demand won’t seem so far-fetched, opening up entirely new end-user experiences that explode demand in the way that mobile once did.</p>
+  <h3 id="the-gpu-age">The GPU Age</h3>
+  <p>The challenge for Nvidia is that this future isn’t particularly investable; indeed, the idea assumes a capacity overhang at some point, which is not great for the stock price! That, though, is how technology advances, and even if a cliff eventually comes, there is a lot of money to be made in the meantime.</p>
+  <p>That noted, the biggest short-term question I have is around Nvidia CEO Jensen Huang’s insistence that the current wave of demand is in fact the dawn of what he calls accelerated computing; from the <a href="https://seekingalpha.com/article/4630703-nvidia-corp-nvda-q2-2024-earnings-call-transcript">Nvidia earnings call</a>:</p>
+  <blockquote>
+    <p>I’m reluctant to guess about the future and so I’ll answer the question from the first principle of computer science perspective. It is recognized for some time now that…using general purpose computing at scale is no longer the best way to go forward. It’s too energy costly, it’s too expensive, and the performance of the applications are too slow. And finally, the world has a new way of doing it. It’s called accelerated computing and what kicked it into turbocharge is generative AI. But accelerated computing could be used for all kinds of different applications that’s already in the data center. And by using it, you offload the CPUs. You save a ton of money in order of magnitude, in cost and order of magnitude and energy and the throughput is higher and that’s what the industry is really responding to.</p>
+    <p>Going forward, the best way to invest in the data center is to divert the capital investment from general purpose computing and focus it on generative AI and accelerated computing. Generative AI provides a new way of generating productivity, a new way of generating new services to offer to your customers, and accelerated computing helps you save money and save power. And the number of applications is, well, tons. Lots of developers, lots of applications, lots of libraries. It’s ready to be deployed.</p>
+    <p>And so I think the data centers around the world recognize this, that this is the best way to deploy resources, deploy capital going forward for data centers. This is true for the world’s clouds and you’re seeing a whole crop of new GPU-specialized cloud service providers. One of the famous ones is CoreWeave and they’re doing incredibly well. But you’re seeing the regional GPU specialist service providers all over the world now. And it’s because they all recognize the same thing, that the best way to invest their capital going forward is to put it into accelerated computing and generative AI.</p>
+  </blockquote>
+  <p>My interpretation of Huang’s outlook is that all of these GPUs will be used for a lot of the same activities that are currently run on CPUs; that is certainly a bullish view for Nvidia, because it means the capacity overhang that may come from pursuing generative AI will be back-filled by current cloud computing workloads. And, to be fair, Huang has a point about the power and space limitations of current architectures.</p>
+  <p>That noted, I’m skeptical: humans — and companies — are lazy, and not only are CPU-based applications easier to develop, they are also mostly already built. I have a hard time seeing what companies are going to go through the time and effort to port things that already run on CPUs to GPUs; at the end of the day, the applications that run in a cloud are determined by customers who provide the demand for cloud resources, not cloud providers looking to optimize FLOP/rack.</p>
+  <p>If GPUs are going to be as big of a market as Nvidia’s investors hope it will be, it will be because applications that are only possible with GPUs generate the demand to make it so. I’m confident that time will come; what I, nor Huang, nor anyone else can be sure of is when that time will arrive.</p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2023-09-12</time>
+        <a href="https://nodebe4.github.io/opinion/2023-09-12/Charter-Disney-Winners-and-Losers/">
+          Charter-Disney Winners and Losers
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-09-05</time>
+        <a href="https://nodebe4.github.io/opinion/2023-09-05/The-Rise-and-Fall-of-ESPN-s-Leverage/">
+          The Rise and Fall of ESPN’s Leverage
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-08-15</time>
+        <a href="https://nodebe4.github.io/opinion/2023-08-15/Disney-s-Taylor-Swift-Era/">
+          Disney’s Taylor Swift Era
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-07-17</time>
+        <a href="https://nodebe4.github.io/opinion/2023-07-17/Hollywood-on-Strike/">
+          Hollywood on Strike
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2023-08-27/%E7%B6%93%E5%85%B8%E9%87%8D%E6%BA%AB-%E7%A6%81%E5%BF%8C%E5%8F%B2%E8%A9%B1-%E5%8F%8D%E5%8F%B3-2-%E5%A4%A7%E5%8F%B3%E6%B4%BE-%E5%85%B1%E7%94%A2%E9%BB%A8%E7%9A%84%E7%9B%9F%E5%8F%8B%E8%AE%8A%E6%AD%BB%E6%95%B5/">
+            前一篇：🌟【經典重溫】禁忌史話：反右（2）大右派｜共產黨的盟友變死敵
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2023-08-28/CUPodcast-23-ESG-%E5%82%BE%E5%91%A2%E5%95%B2-%E6%97%85%E9%81%8A%E8%A7%80%E5%AF%9F-%E4%BA%9E%E6%B4%B2%E6%87%89%E5%B0%8D%E7%92%B0%E5%A2%83%E6%8C%91%E6%88%B0%E7%9A%84%E8%AE%8A%E5%8C%96/">
+            後一篇：【*CUPodcast】#23 ESG 傾呢啲：旅遊觀察，亞洲應對環境挑戰的變化
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2023-08-27/%E7%B6%93%E5%85%B8%E9%87%8D%E6%BA%AB-%E7%A6%81%E5%BF%8C%E5%8F%B2%E8%A9%B1-%E5%8F%8D%E5%8F%B3-2-%E5%A4%A7%E5%8F%B3%E6%B4%BE-%E5%85%B1%E7%94%A2%E9%BB%A8%E7%9A%84%E7%9B%9F%E5%8F%8B%E8%AE%8A%E6%AD%BB%E6%95%B5/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2023-08-28/CUPodcast-23-ESG-%E5%82%BE%E5%91%A2%E5%95%B2-%E6%97%85%E9%81%8A%E8%A7%80%E5%AF%9F-%E4%BA%9E%E6%B4%B2%E6%87%89%E5%B0%8D%E7%92%B0%E5%A2%83%E6%8C%91%E6%88%B0%E7%9A%84%E8%AE%8A%E5%8C%96/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2023-09-05/The-Rise-and-Fall-of-ESPN-s-Leverage/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2023-08-15/Disney-s-Taylor-Swift-Era/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2023-08-27/%E7%B6%93%E5%85%B8%E9%87%8D%E6%BA%AB-%E7%A6%81%E5%BF%8C%E5%8F%B2%E8%A9%B1-%E5%8F%8D%E5%8F%B3-2-%E5%A4%A7%E5%8F%B3%E6%B4%BE-%E5%85%B1%E7%94%A2%E9%BB%A8%E7%9A%84%E7%9B%9F%E5%8F%8B%E8%AE%8A%E6%AD%BB%E6%95%B5/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2023-08-28/CUPodcast-23-ESG-%E5%82%BE%E5%91%A2%E5%95%B2-%E6%97%85%E9%81%8A%E8%A7%80%E5%AF%9F-%E4%BA%9E%E6%B4%B2%E6%87%89%E5%B0%8D%E7%92%B0%E5%A2%83%E6%8C%91%E6%88%B0%E7%9A%84%E8%AE%8A%E5%8C%96/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2023-09-05/The-Rise-and-Fall-of-ESPN-s-Leverage/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2023-08-15/Disney-s-Taylor-Swift-Era/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

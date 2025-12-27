@@ -1,0 +1,1594 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>EP-124 林培瑞：我的中共幻灭史（文字版） – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+EP-124 林培瑞：我的中共幻灭史（文字版）
+——
+" />
+    <meta property="og:description" content="
+EP-124 林培瑞：我的中共幻灭史（文字版）
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="EP-124 林培瑞：我的中共幻灭史（文字版）" />
+    <meta property="twitter:title" content="EP-124 林培瑞：我的中共幻灭史（文字版）" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fwww.bumingbai.net%2F2024%2F11%2F124-lpr-text%2F%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3D124-lpr-text" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://www.bumingbai.net/2024/11/124-lpr-text/?utm_source=rss&utm_medium=rss&utm_campaign=124-lpr-text" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://www.bumingbai.net/2024/11/124-lpr-text/?utm_source=rss&utm_medium=rss&utm_campaign=124-lpr-text&text=EP-124 林培瑞：我的中共幻灭史（文字版）&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://www.bumingbai.net/2024/11/124-lpr-text/?utm_source=rss&utm_medium=rss&utm_campaign=124-lpr-text&title=EP-124 林培瑞：我的中共幻灭史（文字版）" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.bumingbai.net/2024/11/124-lpr-text/?utm_source=rss&utm_medium=rss&utm_campaign=124-lpr-text&title=EP-124 林培瑞：我的中共幻灭史（文字版）" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=EP-124 林培瑞：我的中共幻灭史（文字版）&body=
+EP-124 林培瑞：我的中共幻灭史（文字版）
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://www.bumingbai.net/2024/11/124-lpr-text/?utm_source=rss&utm_medium=rss&utm_campaign=124-lpr-text" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://www.bumingbai.net/2024/11/124-lpr-text/?utm_source=rss&utm_medium=rss&utm_campaign=124-lpr-text&title=EP-124 林培瑞：我的中共幻灭史（文字版）&caption=
+EP-124 林培瑞：我的中共幻灭史（文字版）
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=EP-124 林培瑞：我的中共幻灭史（文字版）&url=https://www.bumingbai.net/2024/11/124-lpr-text/?utm_source=rss&utm_medium=rss&utm_campaign=124-lpr-text" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>EP-124 林培瑞：我的中共幻灭史（文字版）</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2024-11-24
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#不明白播客">
+          不明白播客
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://www.bumingbai.net/2024/11/124-lpr-text/?utm_source=rss&utm_medium=rss&utm_campaign=124-lpr-text" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="不明白播客的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#不明白播客 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1732460237000-->
+<p><a href="https://www.bumingbai.net/2024/11/124-lpr-text/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=124-lpr-text">EP-124 林培瑞：我的中共幻灭史（文字版）</a>
+——</p>
+
+<div>
+  <div id="buzzsprout-player-16160129"></div>
+  <script src="https://www.buzzsprout.com/1982525/episodes/16160129-.js?container_id=buzzsprout-player-16160129&#038;player=small" type="text/javascript" charset="utf-8"></script>
+  <p><strong>文字版全文：</strong></p>
+  <p>02:09 林培瑞讲述70年代对中共的崇拜<br />06:00 中国火车上的软卧为谁而设？<br />08:40 孩子们的统一回答：“我想到最艰苦的地方为人民服务”<br />10:37 唐山煤矿下为什么没有伟大领袖的语录？<br />12:19 中国导游为什么不喜欢林培瑞给母亲买的扫帚？<br />16:05 看到林培瑞后，一个中国人脸上的恐惧与扭曲<br />18:58 西方左派青年对中共幻灭后，对马克思主义的 不同态度<br />20:43 林培瑞的父亲认为中国好的理由<br />24:34 在被认为思想自由的八十年代，林培瑞为什么对中共反而越来越幻灭？<br />28:05 林培瑞是如何将中国人与中共分开的<br />32:29 六四前一篇官方炮制的假新闻，让林培瑞成了“上访户”<br />37:58 林培瑞如何看待中国自由派们的“挺川”与“反川”？<br />45:35 嘉宾推荐</p>
+  <p><strong>袁莉:  </strong>[00:00:03] 大家好，欢迎来到不明白播客，我是主持人袁莉。林培瑞1963年在哈佛大学读本科时就开始学习中文，曾在普林斯顿大学和加州大学河滨分校教授中国文学和中文，今年才光荣退休。</p>
+  <p>1972年，在乒乓外交中，中国大陆乒乓球代表团访美时，林培瑞担任中文翻译。1年后，他到中国大陆访问了一个月。1970年代末，林培瑞重返中国，并开始关注和研究中国当代文学。1989年六四前后，林培瑞担任美国科学院中国大陆办事处主任。6月5日，他把被定性为六四黑手、曾任中国科学技术大学副校长的方励之及夫人带入美国大使馆。林培瑞也是天安门文件（The Tiananmen Papers）英文版的编辑之一。有些听众应该听过林老师八月份在不明白节上分享他几十年来教中国学生的感受，以及他为什么认为习近平不可能把中国带回毛泽东时代。今天这期，是我在阅读林老师即将出版的新书The Anaconda in the Chandelier《吊灯里的蟒蛇》时，看到其中收录的几篇文章，强烈感觉应该让林老师来讲一讲。他1973年去中国时，作为一名左翼青年，心中充满着对新中国的憧憬。但在旅途的过程中，他基于自己的良知，看穿了中共的一些谎言。我想，这种诚实向善的品质，以及无论环境如何改变都能坚持个人基本道德标准的处世哲学在当下这个充满不确定的时代，尤其值得学习。林老师您好！</p>
+  <p><strong>林培瑞:  </strong>[00:01:50] 你好，很高兴跟您见面。</p>
+  <p><strong>袁莉:  </strong>[00:01:53] 谢谢您。您能不能先讲一下您在哈佛的时候为什么选择学中文？</p>
+  <p><strong>林培瑞:  </strong>[00:01:58] 我本来很喜欢语言，我在中学的时候学法语也得了奖，可是上大学想念一个跟英文或者跟Indo-European系统不同的语言，我就选了个中文。我本来没有想到我会到中国研究这个领域里头来。</p>
+  <p><strong>袁莉:  </strong>[00:02:19] 那您能说一下，您为什么在1973年能去中国访问呢？</p>
+  <p><strong>林培瑞:  </strong>[00:02:24] 72年中国的乒乓球代表团破冰，到美国来旅行一个月，美方就邀请我。我那时候是个研究生，可是他知道我四声标准邀请我去做陪同翻译，我做了一个月，然后第二年、第三年我在香港做博士论文研究的时候写了封信到北京，说我们做过翻译的人也很想拜访贵国，很想到中国去看看。居然来了一封信说可以。我们大概是做过翻译的八个美国人。73年的5月到中国去，从香港到广州，然后是到上海、苏州、杭州、西安、延安、北京、唐山。这么旅行一个月。</p>
+  <p><strong>袁莉:  </strong>[00:03:19] 真的是很不容易啊。</p>
+  <p><strong>林培瑞:  </strong>[00:03:21] 是不容易。我们很兴奋，因为一直不能到中国去，这是第一次机会，我们非常兴奋。</p>
+  <p><strong>袁莉:  </strong>[00:03:28] 您去中国之前，作为一个左翼青年，您心目中的中国是个什么样子的呢？</p>
+  <p><strong>林培瑞:  </strong>[00:03:33] 小的时候我的家庭是个左派知识分子家庭，我父亲30年代带了团到苏联去，他的想法是美国社会有那么多问题，有经济萧条，民族歧视、贫富悬殊这些问题。他心目中的一个社会主义国家，应该解决了美国或者资本主义社会的这些问题。我小的时候也吸收了这个概念，我呢是看中国，包括从中国出来的杂志，中国的这些建设漂漂亮亮的。我对中国的社会有非常高的一种期望，我觉得这是解决美国的很多问题的一个理想社会。我对乒乓球代表团那些球员也是那种崇拜的态度，你们是一个理想国来的，我们这儿是破破烂烂的一个资本主义社会。</p>
+  <p><strong>袁莉:  </strong>[00:04:36] 那些乒乓球队的那些队员，他们没有跟你说，哎呀，你们在美国有这么多肉吃或者是怎么样的？</p>
+  <p><strong>林培瑞:  </strong>[00:04:45] 没有，完全没有。他们非常谨慎。后来回顾这种事儿的我就明白他们为什么不能自由说话。有个美国女球员Alice Green，我记得她想请一个中国女球员去散散步，她问我能不能做翻译一起去散步。我说可以。然后去问了能不能去。回来说不可以，我不能去散步。</p>
+  <p><strong>袁莉:  </strong>[00:05:12] 我们有纪律，有纪律。</p>
+  <p><strong>林培瑞:  </strong>[00:05:15] 他们是很有纪律的。</p>
+  <p><strong>袁莉:  </strong>[00:05:16] 您去中国后，第一个幻灭是因为苍蝇。您能说一下是怎么回事吗？</p>
+  <p><strong>林培瑞:  </strong>[00:05:22] 我在研究所的时候，不是念叨了各种运动的历史，包括破四害，老鼠、苍蝇、麻雀、蚊子，中国全没有。</p>
+  <p><strong>袁莉:  </strong>[00:05:36] 全消灭了。</p>
+  <p><strong>林培瑞:  </strong>[00:05:37] 消灭了，这也是理想社会的一个方面。那么到苏州，我喝茶的地方有一个大理石的白桌子上有一只苍蝇。我认为是一大发现。哎，居然中国有苍蝇，我看到了一个，拿我的照相机把它照下来了。</p>
+  <p><strong>袁莉:  </strong>[00:06:00] 那您的第二个幻灭是作为外宾的各种特权，您能说一下是怎么回事吗？</p>
+  <p><strong>林培瑞:  </strong>[00:06:06] 我们从上海到杭州，然后到西安是坐火车，我们外国人坐软卧，可是也观察到有硬卧，有硬座。在没有各种阶级的社会里的火车有阶级。我就感兴趣问了我们的导游，除了我们外国人以外，还有谁坐这个软卧？他说领导。那我一愣，为什么领导也有这种特权？他说：哦，他们的工作很忙很重，需要休息。在延安，我有一次坐公共汽车，那个公共汽车挤满了人，本来他们不带我们去坐公共汽车，这是我自己临出门前，想做个老百姓坐公共汽车。我一上去的时候，那个司机啊大喊叫地说：外宾！外宾！让位！</p>
+  <p>那么我挤在后头的那个门里头，挤进去的是有一个偏老的一个人，他就站起来让位给我。我当然非常不好意思，我怎么能在那么挤的公共汽车里头有一个人让位，我千万不能坐，所以我没坐，他也没坐。所以很滑稽的，这一路上，挤满了人的公共汽车上，有个空位子，没有人坐。</p>
+  <p><strong>袁莉:  </strong>[00:07:37] 昨天晚上呢，我去参加了一个关于中国的一本插画的自传，那个插画师正好是我认识的。他拿了很多革命宣传画，他展示了一幅画。有一个男的穿着四个兜的中山服，手里边拿了一把比较好的椅子，然后那个画的最前面，最下脚有一把破椅子，这个画的题目叫艰苦奋斗，我看了半天都不明白这个话是什么意思。那个人就解释说，这个画在现在的漫画的数据库里面的归类是叫干部，Cadres。我一下就明白了，原来是他手下的工作人员拿了一把好椅子来给他，然后他说，我要和大家一样，要艰苦奋斗，把这个坏椅子修一下就可以用了。就是这种等级观念，好像他坐个坏椅子就是多么与民共苦的感觉。我就突然也想到了您的书里面的这个情形。真是有意思。</p>
+  <p><strong>林培瑞:  </strong>[00:08:40] 您说这个故事也让我想到73年的一次经验。我们每次上街，好奇的孩子老跟着我们，有时候几十个跟着我们，可是还是保持距离不太跟我们说话。有一次我转过身去，对着他们问问题。我说你叫什么？你上学不上学？上学。然后我问的问题是你长大想做什么？那个小男孩，他说我想到最艰苦的地方为人民服务。那在他旁边一个女孩，我问问她那你呢？你长大想做什么？我呀，我想到最艰苦的地方为人民服务。一模一样。我不知道他们老师是不是告诉他们你遇见外国人了就那么说。还是因为第一个男孩儿特别聪明，他想到了这一句话，别人就学他。我不知道。反正他们都是说一样的一句话。</p>
+  <p><strong>袁莉:  </strong>[00:09:48] 大家好，我是袁莉。你们刚刚听到的精彩对话背后有几十个小时的精心准备和制作。这需要阅读大量资料，花时间与采访对象沟通，只有这样才能问出好的问题，才可能进行有深度的对话。不明白播客会继续致力于制作高品质的新闻内容，让中国人听到深刻的思考、真实的情感。在这个灰暗不确定的年代，听到彼此心中的一点坚持，请大家继续支持不明白的播客，让我们把这个事业长期的进行下去。欢迎听众朋友们到我们本期的内容简介里点击捐赠链接，或者访问我们的网站bumingbai.net的捐赠页面。</p>
+  <p>您那篇文章写的第三个幻灭，第三个故事可以说是因为中共对于劳动阶级的鄙视。也许您能说一下您在唐山煤矿的这个经历。</p>
+  <p><strong>林培瑞:  </strong>[00:10:48] 我们最后一站是到唐山去，也下了煤矿，这是大地震的大概3年前。我们坐电梯下的很深，然后下边有小火车，那个铁路转来转去，我第一次注意的是它的那路边的汉字是繁体字，比如按喇叭。那个名字也是繁体字，我很感兴趣，没有简体字。可是整个的环境是相当黑的，也相当脏的。我刚才说我们第一次到中国去，没有看到比较脏的地方，但这地方是比较脏，空气也不好。然后我们上来的时候，路面上的牌子，毛主席语录、红板牌、白字、金边，漂漂亮亮的。我问了我们的导游那为什么毛主席的语录不在下面？他说太脏了。我一个理想主义的年轻社会主义者。我就一愣，怎么工人劳动的环境能够脏，没关系，但是工人的伟大领袖的招牌的环境能脏吗？不行，不能脏。这对我来说是个思想打击吧。</p>
+  <p><strong>袁莉:  </strong>[00:12:12] 就是，他们不配，是吧？就这么脏的地方，不配放毛主席语录，不配。</p>
+  <p><strong>林培瑞:  </strong>[00:12:18] 毛主席语录不在那儿。</p>
+  <p><strong>袁莉:  </strong>[00:12:19] 还有就是您给母亲买的礼物。你们的导游显然对于一个美国资产阶级妇女的品位有着自己的想象，是吧？</p>
+  <p><strong>林培瑞:  </strong>[00:12:28] 我母亲是美国中部内布拉斯加州长大的一个德国移民的家里做农民出身的，她是个土生土长土气很浓的一个人。她喜欢各种植物，各种动物。她一辈子教小学，而且专门教的是那个低能儿童的班，能够同情低能儿童。她是那么个非常朴素，非常佩服农民和所谓劳动阶级的一个人。我父亲意识形态比较强，左派思想比较强，跟我母亲相配的是，他也认为我们应该尊重劳动人民，他非常有这种态度。所以我们那时候在杭州，我记得去旅行的时候，路边有一个小店，里头不是给外国人卖东西的一个店，是给中国老百姓的一个店，然后有那种扫帚，一般洗地，甚至洗厕所的那种深黄色的扫帚。我一看，我觉得是我母亲她绝对会很喜欢的东西。</p>
+  <p><strong>袁莉:  </strong>[00:13:45] 您说里面说是高粱做的，是吗？</p>
+  <p><strong>林培瑞:  </strong>[00:13:48] 是高粱做的，非常好。所以我买了一把，买了一把上面包车回的旅店的时候，我们的导游坐我旁边，还没出发的时候，他问我你为什么买这个？我跟她解释我母亲的心态是怎么回事，他说可是你不知道我们有景泰蓝啊，雕漆啊，丝绸啊，你母亲不喜欢那些吗？我母亲大概会喜欢那些，可是更喜欢这个。那个导游不以为然，他把扫帚拿过去，回去那小店里头换了一把。带回来的一个他以为是更完整更漂亮的。一路上回旅店的时候，他继续问我基本的问题是你想把一件东西带回母亲。为什么选择一个这种下等老百姓劳动的一个东西，而不是雕漆、景泰蓝等等。所以我脑子里头一开始想，这个导游自己呢，他是认为我们资本主义国家来的人肯定会喜欢那些雕漆、景泰蓝，可能这个人自己也觉得景泰蓝比扫帚更漂亮。</p>
+  <p><strong>袁莉: </strong>[00:15:14] 更高级。</p>
+  <p><strong>林培瑞:  </strong>[00:15:15] 更高级，更值得带回去送给母亲的东西。</p>
+  <p><strong>袁莉:  </strong>[00:15:20] 后来其实你想的是，他可能是觉得你带个扫把回去，就显得我们中国没有好东西，是吧？</p>
+  <p><strong>林培瑞:  </strong>[00:15:27] 对，他怕的是我们看不起中国，我们认为中国只有扫地的扫帚，没有别的好东西。有一种民族主义在里头，这我当然能够理解，他会有这种误解，始终没有理解我母亲是怎么样的一个人。</p>
+  <p><strong>袁莉:  </strong>[00:15:47] 你想把扫帚拿回去，你都能想象你妈会特别高兴把它挂在墙上，是吧？做一个装饰物。</p>
+  <p><strong>林培瑞:  </strong>[00:15:53] 她是挂在墙上。我们住的那个房子里头的一面墙是砖头的，她把它挂的那个砖头的墙上存着，她很喜欢。</p>
+  <p><strong>袁莉:  </strong>[00:16:05] 那你在那次旅行中尝试和中国老百姓交谈，你前面说了一下和小孩说话，但是你也尝试和一些成年人说话，他们当时的反应是什么样子的呢？</p>
+  <p><strong>林培瑞:  </strong>[00:16:16] 跟小孩儿见面问问题，说话不是很容易，对大人更不容易。大人保持的距离更远。我记得有一次我们已经上了我们的面包车，有一些人挤在外头，隔着一层玻璃，他胆子更大一点，他能够近一点儿。有好几个人在眼看着我，我就盯着一个男的，大概年纪跟我差不多。盯着他的眼睛问他：你好吗？你做什么？你有什么工作呀？我开始跟他问问题，马上他的脸上就扭曲得很厉害，恐惧的表情出来了，没有说话。他颤抖和扭曲他的脸上的肌肉以后，我就不好意思，没有再问他问题。这当然是个比较极端的例子。我不是说每一个我遇见的中国人都有那么个反应，可是他有这种经验，也让我自己有一种警惕的态度，我不要让别人难过。</p>
+  <p><strong>袁莉:  </strong>[00:17:24] 惹麻烦是吧？不要给人惹麻烦。</p>
+  <p><strong>林培瑞:  </strong>[00:17:25] 我那一次麻烦，或者让他害怕，让他害怕得那么厉害，我何必去让他颤抖呢？</p>
+  <p><strong>袁莉:  </strong>[00:17:33] 那当时你的脑子里面有没有想过他们为什么害怕呢？</p>
+  <p><strong>林培瑞:  </strong>[00:17:36] 当时经过这个经验的时候我没有，是后来我回顾这种事情的时候，开始有点理解。可能是他也挨过批斗，或者你有海外关系了，或者我不知道为什么，可是没有跟他说两句话，他就开始颤抖。</p>
+  <p><strong>袁莉:  </strong>[00:18:00] 就像前些年中国人很流行去朝鲜吧，也都是有这种向导要跟着，哪怕你是个旅行团，和当地人说话时他们都很害怕的。所以我当时读到那个书的时候就想到中国其实以前就是这样。</p>
+  <p><strong>林培瑞:  </strong>[00:18:15] 小孩跟着我们有一个最有趣的一个例子，我们在北京的动物园外面的走道上走过去，有一些小孩已经买了票，进动物园，看见我们就出来了。</p>
+  <p><strong>袁莉:  </strong>[00:18:32] 你们比猴子好看是吧。</p>
+  <p><strong>林培瑞:  </strong>[00:18:34] 我们比长颈鹿、比河马还有意思呢。</p>
+  <p><strong>袁莉:  </strong>[00:18:39] 对，那时候就是外国人很少见，很少见。</p>
+  <p><strong>林培瑞:  </strong>[00:18:42] 我们那一年在广州，已经有几个外国人，所以我们出门的时候不一定很多小孩跟着我们。但是所有别的城市，包括上海、北京这些大城市，一出门就有人跟着。</p>
+  <p><strong>袁莉:  </strong>[00:18:57] 您在文章中写到，从1973年到您文章发表的2011年，您学到了很多，也意识到了60年代时深信毛泽东声称的社会主义有多错误。您发现您的一些左派朋友不愿意承认自己的错误，觉得丢人。您能说一下，您在那次旅程的过程中就已经意识到中国的社会主义其实和你想象的很不一样，你已经开始有一些幻灭吗？然后再说一下你有没有回来跟你那些左派的朋友或者和您父亲有所交流，当时大家都是一个什么样的反应。</p>
+  <p><strong>林培瑞:  </strong>[00:19:33] 我一直到现在都不完全理解这个问题。可是我们那一年头一次能够进中国的左翼年轻人开始幻灭，出来的时候反应不一样。有的人不愿意放弃原先的马克思主义、列宁主义的理想，有的更愿意，我是属于更愿意的后者。别的那些不愿意放弃的，我觉得一部分是他们真的有很深的信仰。列宁主义，也研究过Trotsky Stalin（托洛斯基、斯大林）。他们都非常相信这一套。我不是那么深的读过马列的经书。可是另外一个缘故是有一种丢脸的感觉。他们要是承认：我判断错了，我以为是世界上的天堂。后来发现不是。我不愿意承认我被骗。我的反应从一开始不是这样，我觉得我是受骗，可是受骗跟丢脸不一样。应该丢脸的是让人受骗的那个人，而不是受过骗的那个人。</p>
+  <p>我父亲是另外一个例子，我父亲一直到死的时候，他活到九十七岁，一直到他过世的前几年，他还是写支票给美国共产党。我想他不是党员，可是他的理想是共产主义的一些理想。那么我比较深刻的幻灭的时候是从79、80年，我有一整年在中国做关于文学，伤痕文学的研究。</p>
+  <p><strong>袁莉:  </strong>[00:21:20] 在中山大学是吧。</p>
+  <p><strong>林培瑞:  </strong>[00:21:21] 主要是在中山大学，北京也度过了一个夏天。我回来的时候回国跟父亲说，当然我不是那么直接地说，我们的天堂并不是天堂，而实际的社会跟我们的理想是不同的。他一听就觉得：这儿子走歪了，这……</p>
+  <p><strong>袁莉: </strong>[00:21:46] 哈哈哈，笑死了。</p>
+  <p><strong>林培瑞:  </strong>[00:21:50] 他比较同情四人帮。我跟他解释伤痕文学，骂四人帮、十年浩劫等等。他说：四人帮没错，赫鲁晓夫犯错误，四人帮是对的。我后来我想，我唯一的办法可能是让父亲和母亲自己去。所以我跟中山大学的朋友联系，安排他们到中大去七个月。</p>
+  <p>我去的三年以后他们去了。我父亲在中山大学教美国历史，我母亲教英语。他们回来的时候，我当然问他爸爸怎么样？中国好吗？噢，中国好啊。中国为什么好？他说正在清除精神污染。</p>
+  <p><strong>袁莉: </strong>[00:22:34] Oh my…真的？</p>
+  <p><strong>林培瑞:  </strong>[00:22:36] 当然，他说的是英文Getting rid of spiritual pollution。这又是个谜。对我来说，因为我爸爸的基本的人生观价值观是不错的。他也同情穷人，他愿意说真话。这些我自己已经掌握了的基本道德价值跟他没有区别。可是他为什么去了七个月回来还是看不出来呢？我觉得跟语言很有关系，因为我去中大毕竟可以读中文报刊，也可以跟中国人说话。我父亲、母亲任何接触都得经过外事科的翻译，这当然包括他们已经是年纪比较大的，我觉得年纪大的人比较难改变他的一辈子的信念。我那时是三十来岁，我父亲是六十多岁。</p>
+  <p><strong>袁莉:  </strong>[00:23:41] 但你们没有吵过架。</p>
+  <p><strong>林培瑞:  </strong>[00:23:42] 没有吵过架可是敬而远之。</p>
+  <p><strong>袁莉:  </strong>[00:23:45] 那到了八九的时候，你父亲他是一个什么想法呢？89年的时候，他知道中国发生了什么，然后当时美国的电视报道是铺天盖地，对不对？你有跟他说过吗？谈过吗？</p>
+  <p><strong>林培瑞:  </strong>[00:23:58] 没有。这个时候我们已经知道是走了不同的意识形态的路。我有点……也不是怕。可是跟我看那个扭曲了脸的那位中国人一样，我何必让他受苦，我何必要让他承认？所以我也避讳了这个问题，没有直接跟他挑战。</p>
+  <p><strong>袁莉:  </strong>[00:24:25] 我觉得也挺好的。大家不见得非得要真的是要别人同意你。</p>
+  <p><strong>林培瑞:  </strong>[00:24:30] 反正是徒劳，我没办法让它改变。</p>
+  <p><strong>袁莉:  </strong>[00:24:33] 我是写新闻报道的，但我实际上觉得你很难真的去改变一个成年人的看法，一般来说是他愿意改的时候才改。从1978年到89年六四，那个时候可能是中国社会思想最活跃的时期，当时你对这个中国社会主义的看法有没有改变呢？</p>
+  <p><strong>林培瑞:  </strong>[00:24:52] 慢慢的一直有改变。我73年以后开始读一些批评中共的书，对我有影响的比较大的是西蒙·雷斯的《中国影子》（Chinese Shadows by Simon Leys）。我开始更深地怀疑.可是怀疑最深的一个时候是79年、80年伤痕文学的时候，刘宾雁对我影响非常大。刘宾雁的79年9月的人民文学的刊物上有一篇《人妖之间》。《人妖之间》对我震动很大，然后读了他别的一些报告文学、小说也有。80年一直到88年，我没有长期在中国，80到89有一年在北京工作。</p>
+  <p>80年代，借我很多朋友看，中国朋友看，是个越来越开放的一个时候。在我个人不是那么个印象。我从一个最理想的一个概念，慢慢地、间接地、一步一步地看得更深。所以我看80年代虽然中国更开放，我自己是越来越失望。83年的清除精神污染，我们刚才提到过，然后87年的反对资产阶级自由化，我最佩服的刘宾雁先生被开除党籍等等。这都是六四以前，所以我80年代还是更深入地认识中国社会，更是一步一步的幻灭。我的幻灭不是一下子的。</p>
+  <p><strong>袁莉:  </strong>[00:26:40] 比我稍微大一点，差不多大十岁左右的很多中国自由派知识分子，还有我来美国这边也遇到一些80年代在中国的美国人，他们都把80年代看做是中国思想最自由的，最活跃的，最黄金时代。实际上我老在想，我就觉得那个时候其实可能就是北京的一小部分人，他们有一些自由。那时候中国社会的大多数人，他们享有自由肯定是后来互联网有了以后，中国人有钱可以出国留学了，可以去看世界了的时候。比如说2010年，就是习近平上台之前有一段时间，那个时候的中国社会的自由度肯定比80年代要大多了。</p>
+  <p><strong>林培瑞:  </strong>[00:27:26] 对对对。</p>
+  <p><strong>袁莉:  </strong>[00:27:28] 我今天听你这么说，我还觉得可能我还是对的。再问您一个问题，那您现在觉得社会主义对您来说是一个什么样子的一个概念呢？</p>
+  <p><strong>林培瑞:  </strong>[00:27:40] 理论的社会主义谁能够反对呢？理论是很美的。我的幻灭是发现实际的社会跟理想的距离越来越大，从73年一直到89，89我就到了最彻底的幻灭的一个地步。</p>
+  <p><strong>袁莉:  </strong>[00:28:05] 您的书的前言也说了，中国共产党它最终的目标就是要掌权，是不是？你就说：中国人民是中国共产党的captives（俘虏）。那我们已经说了，就是89年您对中共的看法彻底地看透他们了。那您一直是把中共和中国人民，好像分得挺开的。哪怕您73年第一次去中国，你就发现普通的中国人民和那些干部们想让你看到的那个中国是其实有一些差距的，这是一个天性吗？还是有一些的思考，或者是有一些什么样的事情让您觉得说要分开。因为很多人一直到现在他们也不见得能把中国人和中国共产党分开。</p>
+  <p><strong>林培瑞:  </strong>[00:28:47] 我本来我最早的对中国研究的兴趣是老百姓的想法。我念的是历史系，在哈佛历史系能够看到的书籍有很多是分析高级知识分子，鲁迅啊，胡适啊，政治领袖啊，蒋介石，都有书，可是没有分析popular thought，老百姓的想法的书。所以我写自己的博士论文，我想写这个题目，我就发现了鸳鸯蝴蝶派小说。鸳鸯蝴蝶派小说当然有三角形恋爱故事，有侦探小说、武侠小说。这些都是读的时候你比较能够同情主角的价值观，不是非常sophisticated（复杂的）。可是对我研究很好，就是可以掌握老百姓对新旧思想、好坏行为的区别。所以把中国人，老百姓跟跟共产党做对比，一部分是因为我向来对popular thought，对通俗思想、通俗社会感兴趣。我66年第一次到香港去住那一年，我刚刚大学毕业，我有一年在香港，我跟难民住在一起，而且有时候我就喜欢在那最穷的的。</p>
+  <p><strong>袁莉:  </strong>[00:30:20] 九龙城，是吧？</p>
+  <p><strong>林培瑞:  </strong>[00:30:22] 九龙城也去过，可是还没有九龙城那么穷的一些普通的地方。我喜欢去逛街，去听听话呀，去吸收生活呀。所以个性我我一直对popular的通俗文化感兴趣，所以呢，有共产党的那种本来是漂亮的语言，后来发现是假的空话语言，跟老百姓的生活是什么关系呢？就差得很远。在我的感觉里头。你刚才提到我八九的时候是到了最幻灭，这是我说的，你也提了。我想讲一个，也是个有趣的故事。89年那一次不是六四，那不是我的最幻灭的时候，是六四以前的一件事情，二月底美国的新总统，George H.W. Bush。</p>
+  <p><strong>Speaker3: </strong>[00:31:18] 老布什。</p>
+  <p><strong>林培瑞:  </strong>[00:31:19] 他70年代在北京做了美国的联络处的代表。他认为他是邓小平跟其他中国领导的老朋友。现在是新的总统。他到北京来大请客，请了很多人到长城饭店去吃一个Texas BBQ，德州烤肉。因为我当年我是美国科学院的一个小官，他也请我和妻子，有些别人，包括方励之、（及夫人）李淑娴。</p>
+  <p>方励之、李淑娴离我们住的很近，我们住在友谊宾馆，他们在中关村。前一天晚上，凑巧我跟方跟其他一些人在夏伟（Orville Shell）开的一个会里头见面，然后有人问了，明天有谁去啊？我举手，方励之也举手。我那么随便的跟他说，要不要搭我们的便车。因为我们办公室有车，他没有车。他说好吧，那我们也是一块去的。可是我们走进长城饭店，大概400米远的一个地方，一大伙便衣上街阻拦我们的车，说我们超速。其实交通很不方便，没法儿超速。然后我们走了四个钟头的冷街。我们每次想坐车，他们也把我们拦下来。公共汽车等到了，公共汽车的车就轰的过去，不停。后来四个钟头以后，好不容易到一个加拿大的外交官的在家里头。</p>
+  <p>这故事第二天是个全球的头条新闻，是很大的一个故事。可是两周以后，新华社发表了一篇文章，本来是在《瞭望》杂志里头发表的，题名是《方励之赴宴背后的真相》。我当然看得很感兴趣，可是因为它的真相跟我们的经验是完全不一样的。我怀疑他可能做一点花边文学，改这个，改这个小细节。没有。他整个的故事讲述的内容是一个编出来的故事。他说我们开车很猛，不听警察的指示，转到长城饭店的后门，想非法的进后门，这都是编的，根本没有这个故事。所以我吃了一大惊，我就写了封信寄到《瞭望》杂志，说这故事我是当事人，你故事写的不对，我想把它改正，可以吗？没有回音。我就写了第二封信双挂号，以为那个收据可能会回来，后来没有回音，也没有收据，我就明白：啊，邮局也都是他们控制的。</p>
+  <p><strong>袁莉: </strong>[00:34:28] 当然。</p>
+  <p><strong>林培瑞:  </strong>[00:34:30] 我们的办公室的司机，能不能我们去一趟《瞭望》编辑部的房子。我们去了一趟，敲门，有一个人，接我出来的，叫李勤。他给了我他的卡片，他是个新华社的比较高级的记者，是《瞭望》杂志的政治部，他的卡片上写的是他叫李勤。我问他豫木先生在不在？因为方励之赴宴真相那篇文章的笔名是豫木。我问他豫木先生在不在？他说对不起，豫木先生不在，他在外面有事，他出差了。不在。可是你有什么事儿吗？我说你这文章写的不对，我能不能进来纠正一下？我们进去了，谈了大概半个钟头，有五六个编辑在一个桌子跟我一块儿谈。我说我是当事人，故事不是你们写的，能不能改？我感兴趣的是那五六个编辑之一，有一个老人，他就把头放在胳膊上，一直到最后他没有抬头。我后来以为这是个真的一个人，他忍不住参加这个讨论。别的都是说你是外国客人，你的理解有文化不同，你到不同的国家来，你得尊重人家的文化等等这一套，这种各种想法。可是我有点生气，我跟他们开始吵，说可是你们写的不对。</p>
+  <p><strong>袁莉:  </strong>[00:36:15] 他们可能从来没有一个人是这样吵的。</p>
+  <p><strong>林培瑞:  </strong>[00:36:17] 结果是那位李勤，把我送到门的时候，他没有送到门。中国人客气，你得把客人送到门去说拜拜。他不是，他在里头站在那儿说：啊，林教授，我不送啊，我就不送了，您走吧。最让我彻底地幻灭的是哪一点呢？后来我问了行内的中国记者朋友，告诉他们这个经验，理解到那位李勤就是豫木。就是他写过那篇文章。因为我一直一步一步地看穿了中共的谎言，可是我底层到没有感觉到，会那么露骨的说那么大的谎话。大概过两天，我到方励之那里去，把这个故事告诉他，你猜他的反应是什么呢？他笑我的天真。</p>
+  <p><strong>袁莉:  </strong>[00:37:20] 中国人肯定说对呀，我就想着他们《瞭望》编辑部肯定这辈子都没有过人，从来没有过人跑去跟他们说你写得不对，不真实。</p>
+  <p><strong>林培瑞:  </strong>[00:37:30] 他说你见怪的，我们见多了。</p>
+  <p><strong>袁莉:  </strong>[00:37:35] 对啊，我们都见怪不怪了。</p>
+  <p><strong>林培瑞:  </strong>[00:37:40] 所以我说从73年一直到80年，我一步一步地幻灭的，是个漫长的过程，这个经验是到了最底层。而这个经验是六四的两个月以前的事情已经发生。</p>
+  <p><strong>袁莉:  </strong>[00:37:59] 我觉得大概是从疫情开始，或者更早几年。世界对中国也有一个幻灭的过程，主要的原因也和您在70年代经历的一样，是中共的各种做法，最后让西方世界不得不换一种眼光来看待中国。</p>
+  <p>同时呢，您在书中的一篇文章中也写到一些一直把美国的民主制度当作楷模的中国人，也经历了一些幻灭。您写的就是我自己随便翻了一下2021年1月6日在美国国会山的暴乱，使美国民主的根基不再稳如磐石。同样呢，精英阶层对政治正确的坚持，让另一些中国人想起了文化大革命那种外在的压力，也就是你必须相信某个观念，如果不相信，就要自我反省，找到原因，然后认错，再加以改正。这样的想法让这些中国人感到不寒而栗。</p>
+  <p>我前几天读这段的时候就特别有感触，因为现在就是刚刚大选完了，这种的左右的分裂是很严重的。我上周在纽约时报也写了一篇专栏，就是谈到美国日益分裂的政治，也在分裂向往自由和民主的中国人。也许您可以分享一下在这样一个时刻，您自己会怎么想，会怎么做。您在书里面写，您有一多半的朋友可能都是中国人，是吧？中国人的自由派知识分子这些年确实分裂得比较厉害，您和他们是怎么相处的？或者说您怎么看有这么多的人有这么强的分裂。</p>
+  <p><strong>林培瑞:  </strong>[00:39:24] 他们本来也把美国看成是楷模，已经是有点过分。我记得我第一年在79、80那年，你在中山大学的时候，常常要跟年轻的学生解释，美国并不是你心目中的理想社会，美国也有问题。到最近，美国社会左右分得那么远，我常常觉得我的中国朋友注意美国政治有点过分。我不希望那么分成挺川、反川的两派等等等等。我的感觉是共产党在那？共产党是我们，包括我们同情中国人的外国人，这是我们的目标，我们的任务。把精力花在这个是对的，何必把精力花在美国的政治上，挺川、反川这个问题上，我一直觉得有点可惜。</p>
+  <p>后来我前几天有一个中国知识分子朋友也跟我提，我们为什么喜欢分挺川、反川，是因为一直在中国，我们不能公开辩论政治问题，怎么投票，是支持习近平还是反对习近平，不能公开地去谈。所以，到了美国，好不容易有机会参加那么个政治讨论，我们就抓着这个机会去谈，我这可以理解这个理由。可是我还是觉得，我希望所有的中国反对派的人能够统一去反对，主要的目标是共产党，而不是美国政治。我一直有那么个感觉。</p>
+  <p>而对美国人互相骂，我也有点不以为然。我的不以为然是我觉得也是跟我的中国经验有关的。比如美国的左派骂川普是纳粹，是法西斯，美国的右派骂卡马拉是斯大林主义的、极左的、极权主义的，我觉得都是过分的，都没有。美国左派有右派，他不是那么近一种可怕的极权主义。比如说那个前几年，21年的1月6号那次川普鼓励他的这个支持者到国会去闹的事。我记得我在电视上看这个事情的时候，我当然不以为然，可是我没有感觉那么可怕。而且当天晚上Mike Pence（时任副总统麦克·彭斯）和其他的议员还是尽了他的责任。我的脑子里头，这个经验跟六四的经验比，是完全两个层面的一种问题。所以呢，我说这话不是要夸大我自己本国的政治，但是我觉得美国的民主的制度比包括一些美国人认为的还坚固一些，不是那么脆弱的。上次川普出来的时候，有很多别的社会上的国会啊，媒体啊，法官啊，都能够控制他的极端的那些东西。</p>
+  <p><strong>袁莉:  </strong>[00:43:02] 就是您对美国的制度还是有信心的。我真的是特别同意您前面说的，我们实际上我想说的就是我们不明白播客的这些听众们，还有很多中国人，热爱自由的中国人，不要因为一个美国的政治在这互相之间，在那骂来骂去，而且骂的很恶毒的话，很脏的话，一个是很不对，实际上你在消耗彼此。</p>
+  <p><strong>林培瑞: </strong>[00:43:24] 对。</p>
+  <p><strong>袁莉:  </strong>[00:43:25] 我特别喜欢秦晖说：共同的底线。他的《共同的底线》这本书我觉得非常伟大，就是说中国不管是左派还是右派，不管你相信什么，我们共同的底线是要搞清楚中国这个问题在哪里？实际上中国问题就是共产党。你们要去争一些这个，尤其是为美国政治在这儿这么伤感情，说得那么简直都不能在一个桌子上吃饭，微信群里面简直就吵得一塌糊涂，因为中国政治，确实如你说的，中国政治在微信群里面没法讨论，它就在微信群里面，被美国政治在那吵得的一蹋糊涂。我觉得很没有意义。</p>
+  <p><strong>林培瑞:  </strong>[00:43:58] 很可惜。</p>
+  <p><strong>袁莉:  </strong>[00:43:59] 是是是，我真的是非常同意您说的话。最后，我还是想要引述您书里面的一段话，我也觉得写的特别特别的好，您写的是：上世纪60年代末我崇拜毛泽东，因为我深切向往和平、自由、正义、真理以及给普通人公平的机会。而今天我厌恶毛泽东及其遗产，为什么？依然是出于和平、自由、正义、真理以及给普通人公平机会的考量。我觉得我真的是不能同意更多。</p>
+  <p><strong>林培瑞:  </strong>[00:44:39] 谢谢您。我对共产党的社会的幻灭，从崇拜毛泽东到极端的批评毛泽东，我价值没有变化，是我认识社会，我理解的更多了。而那些其他的跟我有过这种经验的有许多，包括我们的朋友，黎安友啊，夏伟啊，很多走了这条路。全球有这种例子。本来因为理想看上了毛泽东的思想，共产党的理论，然后认识社会以后幻灭，价值观没变。</p>
+  <p><strong>袁莉:  </strong>[00:45:18] 所以我就是说在这么一个动荡分裂的时，还是要相信，要热爱和平、自由、正义和真理，是吧？我觉得只要是人能相信这些东西，就不管这个世界怎么变，都不会走歪。</p>
+  <p><strong>林培瑞:  </strong>[00:45:33] 对。包括现在的美国。</p>
+  <p><strong>袁莉:  </strong>[00:45:35] 我们请每位嘉宾推荐三部书或者影视作品，您有什么推荐？可以是文学的，也可以是关于政治的。</p>
+  <p><strong>林培瑞:  </strong>[00:45:43] 外国人写中国，关于写写中国，我还是觉得那位西蒙·雷斯（Simon Leys）的书好看。</p>
+  <p><strong>袁莉:  </strong>[00:45:53] 《中国影子》（Chinese Shadows）</p>
+  <p><strong>林培瑞:  </strong>[00:45:55] 还有《寻找林昭的灵魂》，这种电影我愿意推荐。我最近看过George Eliot的Middlemarch （乔治·艾略特《米德尔马契》）这本小说，我喜欢。</p>
+  <p><strong>袁莉:  </strong>[00:46:06] 我在疫情中间看了。这本书非常非常的厚，我也特别特别喜欢。您说一下为什么喜欢呢？</p>
+  <p><strong>林培瑞:  </strong>[00:46:12] 因为它描写人心那么细致。它一方面是讲故事，可是每一集每一页上它有一种reflection。人性是什么？我觉得写得相当深刻。故事本身比较一般，可是它描写心理和有一些哲理在里头。中国作品我喜欢鲁迅，很多人也会那么说，短篇小说或者《野草》在中国现代文学里头还是最深刻的东西。</p>
+  <p><strong>袁莉:  </strong>[00:46:47] 那谢谢林老师，也谢谢大家收听，我们下期再见。</p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#不明白播客 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-28/EP-137-%E8%AE%B8%E6%88%90%E9%92%A2-DeepSeek-%E6%B0%91%E4%BC%81%E5%BA%A7%E8%B0%88%E4%BC%9A%E8%83%BD%E5%90%A6%E9%87%8D%E6%8C%AF%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E-(%E6%96%87%E5%AD%97%E7%89%88/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2022-10-09/EP-020-%E8%94%A1%E9%9C%9E-%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E5%AF%B9%E4%B8%AD%E5%85%B1%E7%BB%9D%E6%9C%9B/">最早</a>--</span>
+    
+      <li>
+        <time>2024-11-29</time>
+        <a href="https://nodebe4.github.io/opinion/2024-11-29/EP-125-%E4%B8%A4%E5%B9%B4%E5%90%8E-%E6%88%91%E4%BB%AC%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%99%BD%E7%BA%B8%E8%BF%90%E5%8A%A8/">
+          EP-125 两年后，我们如何看待白纸运动？
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-11-29</time>
+        <a href="https://nodebe4.github.io/opinion/2024-11-29/%E5%90%AC%E4%BC%97%E6%9D%A5%E4%BF%A1-%E7%99%BD%E7%BA%B8%E8%BF%90%E5%8A%A8%E4%B8%A4%E5%91%A8%E5%B9%B4%E7%95%99%E8%A8%80%E5%90%88%E9%9B%86-%E8%BF%99%E6%98%AF%E6%88%91%E4%BB%AC%E6%9C%80%E5%A5%BD%E7%9A%84%E8%AE%B0%E5%BD%95/">
+          听众来信-白纸运动两周年留言合集：“这是我们最好的记录”
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-11-23</time>
+        <a href="https://nodebe4.github.io/opinion/2024-11-23/EP-124-%E6%9E%97%E5%9F%B9%E7%91%9E-%E6%88%91%E7%9A%84%E4%B8%AD%E5%85%B1%E5%B9%BB%E7%81%AD%E5%8F%B2/">
+          EP-124 林培瑞：我的中共幻灭史
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-11-19</time>
+        <a href="https://nodebe4.github.io/opinion/2024-11-19/EP-123-%E4%BD%99%E8%8C%82%E6%98%A5-%E5%B7%9D%E6%99%AE%E4%B8%8A%E5%8F%B0%E5%90%8E%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E4%BC%9A%E6%9B%B4%E7%B3%9F%E5%90%97-%E6%96%87%E5%AD%97%E7%89%88/">
+          EP-123 余茂春：川普上台后中美关系会更糟吗？（文字版）
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2024-11-23/EP-124-%E6%9E%97%E5%9F%B9%E7%91%9E-%E6%88%91%E7%9A%84%E4%B8%AD%E5%85%B1%E5%B9%BB%E7%81%AD%E5%8F%B2/">
+            前一篇：EP-124 林培瑞：我的中共幻灭史
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2024-11-24/%E4%B8%80%E4%BD%8D%E8%87%BA%E5%A4%A7%E6%A0%A1%E5%8F%8B%E7%9A%84%E5%AD%B8%E8%A1%93%E7%94%9F%E6%B6%AF-%E8%87%BA%E5%A4%A7%E6%A4%B0%E6%9E%97%E8%AC%9B%E5%BA%A7/">
+            後一篇：一位臺大校友的學術生涯 | 臺大椰林講座
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2024-11-23/EP-124-%E6%9E%97%E5%9F%B9%E7%91%9E-%E6%88%91%E7%9A%84%E4%B8%AD%E5%85%B1%E5%B9%BB%E7%81%AD%E5%8F%B2/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2024-11-24/%E4%B8%80%E4%BD%8D%E8%87%BA%E5%A4%A7%E6%A0%A1%E5%8F%8B%E7%9A%84%E5%AD%B8%E8%A1%93%E7%94%9F%E6%B6%AF-%E8%87%BA%E5%A4%A7%E6%A4%B0%E6%9E%97%E8%AC%9B%E5%BA%A7/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2024-11-29/%E5%90%AC%E4%BC%97%E6%9D%A5%E4%BF%A1-%E7%99%BD%E7%BA%B8%E8%BF%90%E5%8A%A8%E4%B8%A4%E5%91%A8%E5%B9%B4%E7%95%99%E8%A8%80%E5%90%88%E9%9B%86-%E8%BF%99%E6%98%AF%E6%88%91%E4%BB%AC%E6%9C%80%E5%A5%BD%E7%9A%84%E8%AE%B0%E5%BD%95/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2024-11-23/EP-124-%E6%9E%97%E5%9F%B9%E7%91%9E-%E6%88%91%E7%9A%84%E4%B8%AD%E5%85%B1%E5%B9%BB%E7%81%AD%E5%8F%B2/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2024-11-23/EP-124-%E6%9E%97%E5%9F%B9%E7%91%9E-%E6%88%91%E7%9A%84%E4%B8%AD%E5%85%B1%E5%B9%BB%E7%81%AD%E5%8F%B2/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2024-11-24/%E4%B8%80%E4%BD%8D%E8%87%BA%E5%A4%A7%E6%A0%A1%E5%8F%8B%E7%9A%84%E5%AD%B8%E8%A1%93%E7%94%9F%E6%B6%AF-%E8%87%BA%E5%A4%A7%E6%A4%B0%E6%9E%97%E8%AC%9B%E5%BA%A7/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<不明白播客>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2024-11-29/%E5%90%AC%E4%BC%97%E6%9D%A5%E4%BF%A1-%E7%99%BD%E7%BA%B8%E8%BF%90%E5%8A%A8%E4%B8%A4%E5%91%A8%E5%B9%B4%E7%95%99%E8%A8%80%E5%90%88%E9%9B%86-%E8%BF%99%E6%98%AF%E6%88%91%E4%BB%AC%E6%9C%80%E5%A5%BD%E7%9A%84%E8%AE%B0%E5%BD%95/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<不明白播客>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2024-11-23/EP-124-%E6%9E%97%E5%9F%B9%E7%91%9E-%E6%88%91%E7%9A%84%E4%B8%AD%E5%85%B1%E5%B9%BB%E7%81%AD%E5%8F%B2/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

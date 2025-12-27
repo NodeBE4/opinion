@@ -1,0 +1,838 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>VFYW Contest: Readers On The Trail – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+VFYW Contest: Readers On The Trail
+——
+" />
+    <meta property="og:description" content="
+VFYW Contest: Readers On The Trail
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="VFYW Contest: Readers On The Trail" />
+    <meta property="twitter:title" content="VFYW Contest: Readers On The Trail" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fandrewsullivan.substack.com%2Fp%2Fvfyw-contest-readers-on-the-trail" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://andrewsullivan.substack.com/p/vfyw-contest-readers-on-the-trail" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://andrewsullivan.substack.com/p/vfyw-contest-readers-on-the-trail&text=VFYW Contest: Readers On The Trail&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://andrewsullivan.substack.com/p/vfyw-contest-readers-on-the-trail&title=VFYW Contest: Readers On The Trail" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://andrewsullivan.substack.com/p/vfyw-contest-readers-on-the-trail&title=VFYW Contest: Readers On The Trail" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=VFYW Contest: Readers On The Trail&body=
+VFYW Contest: Readers On The Trail
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://andrewsullivan.substack.com/p/vfyw-contest-readers-on-the-trail" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://andrewsullivan.substack.com/p/vfyw-contest-readers-on-the-trail&title=VFYW Contest: Readers On The Trail&caption=
+VFYW Contest: Readers On The Trail
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=VFYW Contest: Readers On The Trail&url=https://andrewsullivan.substack.com/p/vfyw-contest-readers-on-the-trail" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>VFYW Contest: Readers On The Trail</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2020-08-28
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Chris Bodenner</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#The Weekly Dish">
+          The Weekly Dish
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://andrewsullivan.substack.com/p/vfyw-contest-readers-on-the-trail" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="The Weekly Dish的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#The Weekly Dish 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1598649300000-->
+<p><a href="https://andrewsullivan.substack.com/p/vfyw-contest-readers-on-the-trail">VFYW Contest: Readers On The Trail</a>
+——</p>
+
+<div>
+<a class="image-link image2 image2-1093-1456" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff88c3904-f801-4b71-8293-565679c3828e_1884x1414.png"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff88c3904-f801-4b71-8293-565679c3828e_1884x1414.png" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f88c3904-f801-4b71-8293-565679c3828e_1884x1414.png&quot;,&quot;height&quot;:1093,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:4981326,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null}" alt="" />      <style>          a.image2.image-link.image2-1093-1456 {            padding-bottom: 75.06868131868131%;            padding-bottom: min(75.06868131868131%, 1093px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-1093-1456 img {            max-width: 1456px;            max-height: 1093px;          }        </style>
+</a>  <p>A reader has a hunch about the view I captured from my own window last week:</p>
+  <blockquote>
+    <p>This looks like the area near the Fraser River in southern British Columbia. But if it’s taken from your Airstream window, as you say, you are probably not in Canada, so I’m out of guesses.</p>
+  </blockquote>
+  <p>Another reader gets on the right side of the border:</p>
+  <blockquote>
+    <p>I’m guessing along the Rio Grande in Embudo, New Mexico. Of course, I live in the state, so I have a distinct advantage if I’m in the right ballpark.</p>
+  </blockquote>
+  <p>The next reader heads north, as I did from Farmington, NM, where the first contest photos for both the <a href="http://dish.andrewsullivan.com/2010/06/09/the-view-from-your-window-contest-winner-1/">Daily</a> and <a href="https://andrewsullivan.substack.com/p/the-view-from-your-window-contest">Weekly</a> Dishes were taken:</p>
+  <blockquote>
+    <p>Is this the Sacramento River in California? Yeah, not even close I’m sure, but it sure feels like the Sacramento near Red Bluff or Tehama ...</p>
+  </blockquote>
+  <p>Another jumps to the White River in Colorado:</p>
+  <blockquote>
+    <p>Low, smooth, gentle mountain looks like the eastern U.S. However, the terrain seems too dry and open for the East. I spent a lot of time searching images in the Western plains and intermountain region away from the most iconic mountains. I considered the Yellowstone River, Bighorn River, Sacramento River, even the Russian River in the coastal mountains. Then the Green River in Colorado, which let me to the Meeker region and the White River:</p>
+<a class="image-link image2 image2-803-1116" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F370c8360-911e-4935-a982-b4cb9c9644e2_1116x803.png"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F370c8360-911e-4935-a982-b4cb9c9644e2_1116x803.png" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/370c8360-911e-4935-a982-b4cb9c9644e2_1116x803.png&quot;,&quot;height&quot;:803,&quot;width&quot;:1116,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:1653882,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null}" alt="" />        <style>          a.image2.image-link.image2-803-1116 {            padding-bottom: 71.95340501792114%;            padding-bottom: min(71.95340501792114%, 803px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-803-1116 img {            max-width: 1116px;            max-height: 803px;          }        </style>
+</a>    <p>No ideal street views or photos found in Google Earth, but I captured this screenshot. I also found the Michael Bloomberg bought a ranch nearby. </p>
+  </blockquote>
+  <p>Another reader goes to Wyoming:</p>
+  <blockquote>
+    <p>I’m a little surprised that Harrison Ford would let you take your Airstream onto the Ford ranch along the Snake River through Jackson Hole — but that’s where this View seems to be from. It feels like the segment between Wilson, WY, and South Park, CO, with a view out west towards the southern end of the Tetons — although I don’t think there is a campground in there. I don’t have time to look closer for an exact location, so let’s say Wilson, WY.</p>
+  </blockquote>
+  <p>Another Wyoming guesser:</p>
+  <blockquote>
+    <p>The trees around the river are Quaking Aspens and Plains Cottonwoods (state tree of Wyoming!) and what look like conifers along the mountains. That would seem to place this firmly in Wyoming along the Idaho border or across into southeastern Idaho. The high relief of mountains, with a large, winding floodplain seem very similar to the land around Grand Teton National Park. But I don’t see the Tetons, and the tree cover is quite a bit thicker than at Yellowstone elevations. So, I am guessing it’s a bit lower on the Snake River, in Swan Valley, Idaho,</p>
+    <p>The one human-made item is the fire-pit. It’s a common, round, metal drum seen all over the Western campgrounds, but it is in poor shape and sunken into the ground. So this definitely looks like a boondock type of camping — not an RV park. So I’m guessing it’s the Falls Campground area.</p>
+  </blockquote>
+  <p>Nope, it’s an RV park. Another reader: “Big Bend National Park, Big Bend, Texas, USA?” — an incredible place I’ve visited, but last year, not this week. Another reader goes with “Bend in a river near Bend, Oregon”:</p>
+  <blockquote>
+    <p>Short and sweet. I will never be able to compete with those latitude/longitude folks, but I will continue to send in my silly, way-off-base guesses. VFYW is just too much fun not to!</p>
+  </blockquote>
+  <p>This reader is also goin’ up around the bend:</p>
+  <blockquote>
+<a class="image-link image2 image2-450-800" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1782d822-f1c7-41d4-93b6-1c6472dd4d0c_800x450.jpeg"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1782d822-f1c7-41d4-93b6-1c6472dd4d0c_800x450.jpeg" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/1782d822-f1c7-41d4-93b6-1c6472dd4d0c_800x450.jpeg&quot;,&quot;height&quot;:450,&quot;width&quot;:800,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:113834,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null}" alt="" />        <style>          a.image2.image-link.image2-450-800 {            padding-bottom: 56.25%;            padding-bottom: min(56.25%, 450px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-450-800 img {            max-width: 800px;            max-height: 450px;          }        </style>
+</a>    <p>When I found this picture taken from the south entrance of Yellowstone, I thought Eureka! The kink in the river looks right, along with the small flood plain and the pine forest in the background. So this is a view over the Snake River by the entrance of Yellowstone and the mountains in the background are ...</p>
+    <p>wait, WTF? Where are the mountains? Ok, well it’s probably somewhere nearby, right? After spending a lot of time on Google Earth, first snooping around Yellowstone, then gradually expanding the search to the rest of Wyoming, then to six other states and British Columbia ... I have no further insight. So my guess is Yellowstone, and then just to mess with our heads you photoshopped in a view of the <a href="https://en.wikipedia.org/wiki/Wellsville_Mountains">Wellsville Mountains</a> in northern Utah.</p>
+  </blockquote>
+  <p>Nothing that devious. Another reader:</p>
+  <blockquote>
+    <p>Provided you didn’t stow your Airstream on a jetliner, this is classic Western USA — and in the summer you’d be foolhardy not to head north to some peaks and scenic valleys. I’ll take a stab at the exact location: Gros Ventre Campground outside Kelly, WY.</p>
+  </blockquote>
+  <p>This reader puts a fork in the right state:</p>
+  <blockquote>
+    <p>This is the Missouri River in <strong>Montana</strong>, specifically the James Kipp Recreation Area Campground. Those look like Cottonwood trees that line the banks of the windy Missouri.</p>
+  </blockquote>
+  <p>Another goes with “Three Forks, Montana”:</p>
+  <blockquote>
+<a class="image-link image2 image2-563-1456" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F147c70f3-06d6-4edb-ab67-c851f432e79d_3378x1307.png"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F147c70f3-06d6-4edb-ab67-c851f432e79d_3378x1307.png" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/147c70f3-06d6-4edb-ab67-c851f432e79d_3378x1307.png&quot;,&quot;height&quot;:563,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:4891678,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null}" alt="" />        <style>          a.image2.image-link.image2-563-1456 {            padding-bottom: 38.667582417582416%;            padding-bottom: min(38.667582417582416%, 563px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-563-1456 img {            max-width: 1456px;            max-height: 563px;          }        </style>
+</a>    <p>This is the exact place where the Missouri River begins! The Jefferson River comes in from beyond the sand bar, the Madison River joins it from the left, and the newly formed Missouri River flows past, joined by the Gallatin River a mile downstream.</p>
+    <p>Lewis and Clark camped on the very spot. Sacagawea recognized the headwaters as being near her home, giving the Corps of Discovery hope after a horrible stretch getting around the Great Falls just down river. (<a href="https://amzn.to/31yrDqT">Stephen Ambrose’s </a><em><a href="https://amzn.to/31yrDqT">Undaunted Courage</a></em> is the book to read.) You could make a very strong case that this is one of best campsites in the whole world. I’m not sure my guess is correct, but if it’s not, I believe it is  a “good” miss.</p>
+  </blockquote>
+  <p>A very good miss. Another continues the theme:</p>
+  <blockquote>
+    <p>Lewis &amp; Clark State Park, Jefferson River, Montana? I’ve never actually fished there but it looks similar to many rivers in the area, and I guessed you might be drawn to somewhere with a connection to Lewis and Clark.</p>
+  </blockquote>
+  <p>As it happens, I just finished writing a history book that features a voyage across the Oregon Trail, the home stretch of which was first mapped by Lewis and Clark. (Funnily enough, the family at the center of the book has the same name as one of the correct guessers this week: Funk.) Just before I took the photo in Montana, I stayed at the Oregon Trail RV Park in Irrigon, Oregon, right on the Columbia River where pioneers followed the trail to the lush Willamette Valley. At the RV park, I met up with a good friend of mine from Portland who happens to be one of the <a href="https://amzn.to/31A7IIi">foremost scholars on torture</a>, and before I knew him, he was a Dish reader who contributed to our torture coverage during the Bush years.</p>
+  <p>Back to brighter topics, a reader nails the right river: “Flathead County, Montana, USA, perhaps the Flathead River near Glacier National Park?” Yep, and here’s a panoramic shot I took inside the park above Hidden Lake (if you squint, you can see two bighorn sheep trotting past my friends):</p>
+<a class="image-link image2 image2-396-1456" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F13a8e4ac-013f-4b9e-9322-d7554c38c7b2_2534x690.png"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F13a8e4ac-013f-4b9e-9322-d7554c38c7b2_2534x690.png" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/13a8e4ac-013f-4b9e-9322-d7554c38c7b2_2534x690.png&quot;,&quot;height&quot;:396,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:2838192,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null}" alt="" />      <style>          a.image2.image-link.image2-396-1456 {            padding-bottom: 27.197802197802197%;            padding-bottom: min(27.197802197802197%, 396px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-396-1456 img {            max-width: 1456px;            max-height: 396px;          }        </style>
+</a>  <p>A reader has a remarkable debut to the contest:</p>
+  <blockquote>
+    <p>It’s my first time trying this challenge, so here it goes: I knew it must be the American West based on the geological and ecological clues. Having spent some time out West, I knew this must have been north of Colorado, probably Montana or Idaho, though I have never been to either state. Having deduced partially by the tree’s shade, it became clear this image was taken facing east. A quick search on Google Maps led me to a large flat area between the Flathead National Forest and Kootenai National Forest:</p>
+<a class="image-link image2 image2-674-1456" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5b08855c-4024-4682-90b8-481a8a04b5b2_2560x1185.png"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5b08855c-4024-4682-90b8-481a8a04b5b2_2560x1185.png" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/5b08855c-4024-4682-90b8-481a8a04b5b2_2560x1185.png&quot;,&quot;height&quot;:674,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:5144444,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null}" alt="" />        <style>          a.image2.image-link.image2-674-1456 {            padding-bottom: 46.291208791208796%;            padding-bottom: min(46.291208791208796%, 674px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-674-1456 img {            max-width: 1456px;            max-height: 674px;          }        </style>
+</a>    <p>Within five minutes of studying various water features and the surrounding terrain I ended up at a bridge on the Montana Hwy 35 over the Flathead River on the border of Evergreen, MT, though the address states Kalispell, a larger city next door. Right next to the bridge is the <strong>Spruce Park On The River RV Park</strong>, where the grainy satellite image depicted a clear site onto which this image could have been taken.</p>
+    <p>An Airstream trailer at the doorsteps of the beautiful Glacier National Park? Count me in! I’m jealous beyond words as I type this out of my cramped New York apartment. Glad someone’s still exploring!</p>
+  </blockquote>
+  <p>I was actually based in New York City for about six months prior to Covid hitting, and by pure luck my girlfriend’s lease was ending at the end of February — right before everything hit the fan. We had already been planning to spend at least six months slowing winding west in the Airstream, so serendipity saved the day for us.</p>
+  <p>Our NYC reader was spot-on with Spruce Park on the River, but so were a dozen other readers, therefore we need to get more specific: the exact RV spot. This reader goes for it:</p>
+  <blockquote>
+    <p>I used to live in Montana’s Flathead Valley, so this scenery immediately looked familiar. After about 5 minutes of googling, my guess is Spruce Park on the River. The park map is <a href="https://www.spruceparkrv.com/location?lightbox=dataItem-ijd3rbpz">here</a>. It could be spot F1 through F10, which are right on the Flathead River looking east at the Swan Range. Or it could be space G1, G2 or G3. Since I probably need to pick one, how about G3!</p>
+  </blockquote>
+  <p>Swing and a miss. The reader follows up:</p>
+  <blockquote>
+    <p>Shoot, I just found a better campground map <a href="https://www.roverpass.com/c/spruce-park-on-the-river-kalispell-mt/">here</a>:</p>
+<a class="image-link image2 image2-399-663" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc0990b52-a4fb-4187-a39e-d7f8c73e9d87_663x399.jpeg"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc0990b52-a4fb-4187-a39e-d7f8c73e9d87_663x399.jpeg" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/c0990b52-a4fb-4187-a39e-d7f8c73e9d87_663x399.jpeg&quot;,&quot;height&quot;:399,&quot;width&quot;:663,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:50693,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null}" alt="" />        <style>          a.image2.image-link.image2-399-663 {            padding-bottom: 60.18099547511312%;            padding-bottom: min(60.18099547511312%, 399px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-399-663 img {            max-width: 663px;            max-height: 399px;          }        </style>
+</a>    <p>My new guess is G6.</p>
+  </blockquote>
+  <p>Strike two. The problem with the first map is that it’s cropped, and the second map looks outdated, because there was no G6 when I was there.</p>
+  <p>The correct G spot is seen in this visual collage from a reader:</p>
+<a class="image-link image2 image2-618-1100" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F17f5e859-75b3-43df-af4b-bcd277ad011f_1100x618.png"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F17f5e859-75b3-43df-af4b-bcd277ad011f_1100x618.png" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/17f5e859-75b3-43df-af4b-bcd277ad011f_1100x618.png&quot;,&quot;height&quot;:618,&quot;width&quot;:1100,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:1483497,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null}" alt="" />      <style>          a.image2.image-link.image2-618-1100 {            padding-bottom: 56.18181818181818%;            padding-bottom: min(56.18181818181818%, 618px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-618-1100 img {            max-width: 1100px;            max-height: 618px;          }        </style>
+</a>  <p>Eleven readers got G5. Our winner this week — a G5 guesser with the longest track record of correct guesses with no trophy — nearly tossed up his hands:</p>
+  <blockquote>
+    <p>I had just about given up on this one. A river, trees, some mountains and a fire pit.  Really? This looks like something in the western U.S., probably to the north (fir trees?). The fallen trees in the river sent me on a detour to the Midwest, assuming this was the result of recent storms there. But the mountains were out of place there and I kept coming back to the West. I looked at pictures (so many, many pictures) of rivers ... but nothing. Finally, I tried searching RV camp booking sites (so many, many RV camps), focusing on the ones by rivers. And then in a search of Montana, there it was: the same mountain range in the background of your photo.</p>
+    <p>You, sir, have parked your Airstream in <strong>space G5 in the Spruce Park on the River RV Park, located on the Flathead River in Kalispell, Montana.</strong></p>
+  </blockquote>
+  <p>Circle marks the spot:</p>
+<a class="image-link image2 image2-844-1456" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fef24e167-db06-4f6f-8a3e-2fa4709400b0_2187x1267.jpeg"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fef24e167-db06-4f6f-8a3e-2fa4709400b0_2187x1267.jpeg" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/ef24e167-db06-4f6f-8a3e-2fa4709400b0_2187x1267.jpeg&quot;,&quot;height&quot;:844,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:2007878,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null}" alt="" />      <style>          a.image2.image-link.image2-844-1456 {            padding-bottom: 57.96703296703297%;            padding-bottom: min(57.96703296703297%, 844px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-844-1456 img {            max-width: 1456px;            max-height: 844px;          }        </style>
+</a>  <p>Grand Champion Chini chimes in:</p>
+  <blockquote>
+    <p>Just before my senior year in college, four friends and I drove and camped cross country from Los Angeles to Middlebury, Vermont. We took a northerly route so we could hike in Glacier National Park. Being a somewhat obsessed fan of <em>A River Runs Through It</em>, I also forced them to drive through Missoula, the setting for much of that book. And as we headed east, I’ve never forgotten looking back at the Rockies, which seemed to rise straight up from the plains; an eye opening trip for a kid from New York City.</p>
+    <p>“The river was carved by the world’s great flood and runs over rocks from the basement of time. On top of the rocks are timeless raindrops. Under the rocks are the words, and some of the words are theirs,” - <em>A River Runs Through It</em></p>
+  </blockquote>
+  <p>Our resident poet sounds off:</p>
+  <blockquote>
+    <p><em>Tell me, my friend, would you call me a dreamer?<br />With visions of grandeur? Or touched in the head?<br />I slept away summer, in a silver Airstreamer,<br />Smack on the bank, o’ the flowin’ Flathead.</em></p>
+  </blockquote>
+  <p>A reader who also guessed G5 adds, “Well done; that looks to be the nicest spot in the RV park.” It was actually the last available spot in the park, so I got extra lucky. That reader’s email included a photo of a gaggle of seniors laughing in camp chairs next to G5 — “a possible view of your crew hanging out by the river.” On the contrary, this was part of my crew:</p>
+<a class="image-link image2 image2-369-1100" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F019606d9-0b2d-4132-91b3-91b38b20cfd1_1100x369.png"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F019606d9-0b2d-4132-91b3-91b38b20cfd1_1100x369.png" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/019606d9-0b2d-4132-91b3-91b38b20cfd1_1100x369.png&quot;,&quot;height&quot;:369,&quot;width&quot;:1100,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:899420,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null}" alt="" />      <style>          a.image2.image-link.image2-369-1100 {            padding-bottom: 33.54545454545455%;            padding-bottom: min(33.54545454545455%, 369px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-369-1100 img {            max-width: 1100px;            max-height: 369px;          }        </style>
+</a>  <p>The couple on the left I had just met on the hike up to Hidden Lake, along with a photographer secretly hired by the man to capture the couple as they ascended. The two are embracing in the photo because the man had just proposed marriage to the woman — who happens to be a Dish reader. (You’re everywhere, it seems.)</p>
+  <p>Another Dish reader is on the right, parked in G5 behind the wheel of his red Sprinter Van he named “Scarlett Jovansson” (a roaming studio for his popular podcast, <a href="https://chrisryanphd.com/category/tangentially-speaking/">Tangentially Speaking</a>). The guy, Christopher Ryan, was a Dish contributor back in 2012 when he <a href="http://dish.andrewsullivan.com/?s=%22Ask+Christopher+Ryan+Anything%22">answered reader questions</a> for our “Ask Anything” video series, mostly about his bestselling book, <em><a href="https://amzn.to/3jiVwBu">Sex at Dawn</a></em><a href="https://amzn.to/3jiVwBu">,</a> which the Dish <a href="http://dish.andrewsullivan.com/?s=%22Sex+at+Dawn%22">covered extensively</a>. Chris, whom I befriended while recording the series, published his second book, <em><a href="https://amzn.to/3lozGP0">Civilized to Death</a>,</em> a year ago, just before the pandemic hit, so the title was eerily prescient.</p>
+  <div>
+    <hr />
+  </div>
+  <p>A reader dissents over the window contest:</p>
+  <blockquote>
+    <p>I am mystified. Why does anyone think this is an interesting Dish dept? Surely, there’s something more compelling to be done with photos than this snorefest.</p>
+  </blockquote>
+  <p>I asked the reader if he has any suggestions, and he replied:</p>
+  <blockquote>
+    <p>Geez, I hate to be crabby, especially since I’m going to take on Andrew in a future grousing email on the topic of “religious freedom.” Obviously, some people want to take out-my-window photos and others want to guess the location, so maybe it’s just me — old and fussy and definitely not 21st Century. I can’t tell you I have a better suggestion that would win the hearts and minds of the Dish congregation, but here goes:</p>
+    <p>A weekly photoshop challenge: Best iconic photo doctored to warm the heart of any Politburo member. Example? This is my all-time favourite doctoring job:</p>
+<a class="image-link image2 image2-453-519" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc70bed3-fd72-4896-a6a9-f896a3963b7a_519x453.png"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc70bed3-fd72-4896-a6a9-f896a3963b7a_519x453.png" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/cc70bed3-fd72-4896-a6a9-f896a3963b7a_519x453.png&quot;,&quot;height&quot;:453,&quot;width&quot;:519,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:467848,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null}" alt="" />        <style>          a.image2.image-link.image2-453-519 {            padding-bottom: 87.28323699421965%;            padding-bottom: min(87.28323699421965%, 453px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-453-519 img {            max-width: 519px;            max-height: 453px;          }        </style>
+</a>    <p>I’ve had it since 1998, so it’s been around a long time. But really, isn’t it fabulously transgressive?</p>
+  </blockquote>
+  <p>Indeed. It makes me think of one of my favorite video remixes on YouTube: “<a href="https://www.youtube.com/watch?v=LGkQFLm5two">SFW Porn</a>,” a montage of sex scenes papered over with innocent cartoons (though despite the title, I wouldn’t open the link if you’re at work).</p>
+  <p>Naturally we’re not going to take the curmudgeonly reader’s suggestion, since it would alter the contest and the Dish too dramatically, but we really appreciate the pushback (and darkly hilarious pic). Plus, his dissent gives us a chance to ask you directly, for the first time: Are there any ideas you have for <a href="https://santitafarella.wordpress.com/2009/12/21/charles-darwin-and-politics-slow-change-we-can-believe-in/">very gradually changing</a> the VFYW Contest? (It seems like a good time to ask, now that we’ve rebooted the Dish into a weekly. Send your suggestions to <strong>contest@andrewsullivan.com</strong>.</p>
+  <div>
+    <hr />
+  </div>
+  <p>This week: <strong>Kalispell, Montana</strong>. Next week:</p>
+<a class="image-link image2 image2-677-1029" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8564a9cf-08e0-4dab-8ddf-619065db6f90_1029x677.png"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8564a9cf-08e0-4dab-8ddf-619065db6f90_1029x677.png" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/8564a9cf-08e0-4dab-8ddf-619065db6f90_1029x677.png&quot;,&quot;height&quot;:677,&quot;width&quot;:1029,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:1152788,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null}" alt="" />      <style>          a.image2.image-link.image2-677-1029 {            padding-bottom: 65.79203109815354%;            padding-bottom: min(65.79203109815354%, 677px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-677-1029 img {            max-width: 1029px;            max-height: 677px;          }        </style>
+</a>  <p>So, where do you think it’s located? (A clue: The photo was taken on Saturday, August 22.) Email your entry to <strong>contest@andrewsullivan.com</strong>. Please put the location — city and/or state first, then country — in the subject heading, along with any details about the location within the body of the email. If no one guesses the exact location, proximity counts. Winner gets a <a href="https://www.blurb.com/b/955762-the-view-from-your-window">VFYW book</a> or two <a href="https://andrewsullivan.substack.com/subscribe?&amp;gift=true">gift subscriptions</a>. Happy sleuthing!</p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#The Weekly Dish 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2021-02-05/VFYW-Contest-Timeless-In-Tuscany/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2020-07-04/Stories-Of-Wokeness/">最早</a>--</span>
+    
+      <li>
+        <time>2020-09-01</time>
+        <a href="https://nodebe4.github.io/opinion/2020-09-01/My-Record-On-Race-and-IQ/">
+          My Record On Race and IQ
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-08-31</time>
+        <a href="https://nodebe4.github.io/opinion/2020-08-31/The-Dishcast-w-Brian-Muraresku-(teaser)/">
+          The Dishcast w/ Brian Muraresku (teaser)
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-08-28</time>
+        <a href="https://nodebe4.github.io/opinion/2020-08-28/The-Trap-The-Democrats-Walked-Right-Into/">
+          The Trap The Democrats Walked Right Into
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-08-21</time>
+        <a href="https://nodebe4.github.io/opinion/2020-08-21/VFYW-Contest-Pining-For-The-Fjords/">
+          VFYW Contest: Pining For The Fjords
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2020-08-28/%E6%B3%95%E7%90%86%E4%BD%95%E5%9C%A8-%E7%89%B9%E5%88%A5%E7%AF%80%E7%9B%AE-%E6%9D%8E%E8%82%85%E5%B0%88%E8%A8%AA%E9%99%B3%E5%85%89%E8%AA%A0/">
+            前一篇：《法理何在》特別節目：李肅專訪陳光誠
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2020-08-28/%E6%B3%95%E7%90%86%E4%BD%95%E5%9C%A8-%E7%89%B9%E5%88%A5%E7%AF%80%E7%9B%AE-%E6%9D%8E%E8%82%85%E5%B0%88%E8%A8%AA%E9%99%B3%E5%85%89%E8%AA%A0/">
+            後一篇：《法理何在》特別節目：李肅專訪陳光誠
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2020-08-28/%E6%B3%95%E7%90%86%E4%BD%95%E5%9C%A8-%E7%89%B9%E5%88%A5%E7%AF%80%E7%9B%AE-%E6%9D%8E%E8%82%85%E5%B0%88%E8%A8%AA%E9%99%B3%E5%85%89%E8%AA%A0/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2020-08-28/%E6%B3%95%E7%90%86%E4%BD%95%E5%9C%A8-%E7%89%B9%E5%88%A5%E7%AF%80%E7%9B%AE-%E6%9D%8E%E8%82%85%E5%B0%88%E8%A8%AA%E9%99%B3%E5%85%89%E8%AA%A0/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2020-08-31/The-Dishcast-w-Brian-Muraresku-(teaser)/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2020-08-28/The-Trap-The-Democrats-Walked-Right-Into/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2020-08-28/%E6%B3%95%E7%90%86%E4%BD%95%E5%9C%A8-%E7%89%B9%E5%88%A5%E7%AF%80%E7%9B%AE-%E6%9D%8E%E8%82%85%E5%B0%88%E8%A8%AA%E9%99%B3%E5%85%89%E8%AA%A0/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2020-08-28/%E6%B3%95%E7%90%86%E4%BD%95%E5%9C%A8-%E7%89%B9%E5%88%A5%E7%AF%80%E7%9B%AE-%E6%9D%8E%E8%82%85%E5%B0%88%E8%A8%AA%E9%99%B3%E5%85%89%E8%AA%A0/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<The Weekly Dish>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2020-08-31/The-Dishcast-w-Brian-Muraresku-(teaser)/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<The Weekly Dish>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2020-08-28/The-Trap-The-Democrats-Walked-Right-Into/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

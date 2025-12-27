@@ -1,0 +1,1078 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>天國必有迴響|圍爐·秋日艺文 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+天國必有迴響|圍爐·秋日艺文
+——
+" />
+    <meta property="og:description" content="
+天國必有迴響|圍爐·秋日艺文
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="天國必有迴響|圍爐·秋日艺文" />
+    <meta property="twitter:title" content="天國必有迴響|圍爐·秋日艺文" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fmatters.news%2F%40weiluflame%2F%25E5%25A4%25A9%25E5%259C%258B%25E5%25BF%2585%25E6%259C%2589%25E8%25BF%25B4%25E9%259F%25BF-%25E5%259C%258D%25E7%2588%2590-%25E7%25A7%258B%25E6%2597%25A5%25E8%2589%25BA%25E6%2596%2587-bafyreick2j3jndalhfulvzwfuczmf2vlai76hfvzndle5df3lja3s2qgoq" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://matters.news/@weiluflame/%E5%A4%A9%E5%9C%8B%E5%BF%85%E6%9C%89%E8%BF%B4%E9%9F%BF-%E5%9C%8D%E7%88%90-%E7%A7%8B%E6%97%A5%E8%89%BA%E6%96%87-bafyreick2j3jndalhfulvzwfuczmf2vlai76hfvzndle5df3lja3s2qgoq" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://matters.news/@weiluflame/%E5%A4%A9%E5%9C%8B%E5%BF%85%E6%9C%89%E8%BF%B4%E9%9F%BF-%E5%9C%8D%E7%88%90-%E7%A7%8B%E6%97%A5%E8%89%BA%E6%96%87-bafyreick2j3jndalhfulvzwfuczmf2vlai76hfvzndle5df3lja3s2qgoq&text=天國必有迴響|圍爐·秋日艺文&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://matters.news/@weiluflame/%E5%A4%A9%E5%9C%8B%E5%BF%85%E6%9C%89%E8%BF%B4%E9%9F%BF-%E5%9C%8D%E7%88%90-%E7%A7%8B%E6%97%A5%E8%89%BA%E6%96%87-bafyreick2j3jndalhfulvzwfuczmf2vlai76hfvzndle5df3lja3s2qgoq&title=天國必有迴響|圍爐·秋日艺文" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://matters.news/@weiluflame/%E5%A4%A9%E5%9C%8B%E5%BF%85%E6%9C%89%E8%BF%B4%E9%9F%BF-%E5%9C%8D%E7%88%90-%E7%A7%8B%E6%97%A5%E8%89%BA%E6%96%87-bafyreick2j3jndalhfulvzwfuczmf2vlai76hfvzndle5df3lja3s2qgoq&title=天國必有迴響|圍爐·秋日艺文" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=天國必有迴響|圍爐·秋日艺文&body=
+天國必有迴響|圍爐·秋日艺文
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://matters.news/@weiluflame/%E5%A4%A9%E5%9C%8B%E5%BF%85%E6%9C%89%E8%BF%B4%E9%9F%BF-%E5%9C%8D%E7%88%90-%E7%A7%8B%E6%97%A5%E8%89%BA%E6%96%87-bafyreick2j3jndalhfulvzwfuczmf2vlai76hfvzndle5df3lja3s2qgoq" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://matters.news/@weiluflame/%E5%A4%A9%E5%9C%8B%E5%BF%85%E6%9C%89%E8%BF%B4%E9%9F%BF-%E5%9C%8D%E7%88%90-%E7%A7%8B%E6%97%A5%E8%89%BA%E6%96%87-bafyreick2j3jndalhfulvzwfuczmf2vlai76hfvzndle5df3lja3s2qgoq&title=天國必有迴響|圍爐·秋日艺文&caption=
+天國必有迴響|圍爐·秋日艺文
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=天國必有迴響|圍爐·秋日艺文&url=https://matters.news/@weiluflame/%E5%A4%A9%E5%9C%8B%E5%BF%85%E6%9C%89%E8%BF%B4%E9%9F%BF-%E5%9C%8D%E7%88%90-%E7%A7%8B%E6%97%A5%E8%89%BA%E6%96%87-bafyreick2j3jndalhfulvzwfuczmf2vlai76hfvzndle5df3lja3s2qgoq" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>天國必有迴響|圍爐·秋日艺文</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2021-09-25
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: 围炉weiluflame</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#围炉">
+          围炉
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://matters.news/@weiluflame/%E5%A4%A9%E5%9C%8B%E5%BF%85%E6%9C%89%E8%BF%B4%E9%9F%BF-%E5%9C%8D%E7%88%90-%E7%A7%8B%E6%97%A5%E8%89%BA%E6%96%87-bafyreick2j3jndalhfulvzwfuczmf2vlai76hfvzndle5df3lja3s2qgoq" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="围炉的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#围炉 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1632582528000-->
+<p><a href="https://matters.news/@weiluflame/%E5%A4%A9%E5%9C%8B%E5%BF%85%E6%9C%89%E8%BF%B4%E9%9F%BF-%E5%9C%8D%E7%88%90-%E7%A7%8B%E6%97%A5%E8%89%BA%E6%96%87-bafyreick2j3jndalhfulvzwfuczmf2vlai76hfvzndle5df3lja3s2qgoq">天國必有迴響|圍爐·秋日艺文</a>
+——</p>
+
+<div>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/46763a86-6483-4d5c-86b1-39982077ac7e.webp" data-asset-id="46763a86-6483-4d5c-86b1-39982077ac7e" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/1217d28f-b000-4994-bedd-5eb86dc6e009.png" data-asset-id="1217d28f-b000-4994-bedd-5eb86dc6e009" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>托爾斯泰在1910年的10月3日的日記中寫道：“音樂，特別是音樂，可以喚起人們的願望，使更多的人體驗和分享。沒有一種藝術比音樂更能表現出藝術的真正含義。”音樂能够喚起人們的記憶。當一首熟悉的旋律響起，這首曲子背後的畫面和故事便如雪花般紛紛揚落，思緒無所起。《海上鋼琴師》就是這樣的一個故事。當那首《Playing Love》在耳畔響起，你是否想到1900棲身的幽暗船艙，那一張破碎的黑膠唱片和那女孩聖潔的、泛著柔光的臉？</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/f5dd7e09-628c-4651-927c-996b4e1503f6.webp" data-asset-id="f5dd7e09-628c-4651-927c-996b4e1503f6" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>《海上鋼琴師》/《The Legend of 1900》是由朱塞佩·托納托雷執導，蒂姆·羅斯、比爾·努恩、梅蘭尼·蒂埃裏主演的劇情片，於1998年10月28日在義大利上映。一個名叫1900的鋼琴師一生中從未下船，來來往往的遊客用各自的故事裝點著他的世界。有樂團夥伴帶來歡樂和逍遙，有遊客循著鋼琴聲拜訪，有爵士樂鼻祖找他挑戰琴技，有百合一般的靚女忽然落到心裡……曾經有下船的動搖，但最後，他還是選擇了和退役的老船一起沉沒海底。</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>#1爵士樂：那個恢弘的鍍金時代</code></pre></div>  </div>
+  <p>1900年，新世紀第一年的第一個月，Virginian號豪華郵輪載著熙熙攘攘的歡呼人群在紐約港靠岸。喧囂之後，一個孤兒被遺棄在餐廳的鋼琴架上，被添煤工人丹尼發現。他高興地收留了這孩子，取名1900。在1900八歲時，一次意外的海上風暴讓丹尼意外喪生。某天深夜，奇迹般地，船上的眾人被優美的琴聲驚醒，循著琴聲而往，居然是1900在鋼琴前忘我地彈奏著。一個個音符在手下緩緩流淌，彙聚成動人心弦的曲子。幾年後，成年的1900成了Virginian號的鋼琴師，在來來往往的旅客當中名聲大噪，也吸引著越來越多的人前往一觀。</p>
+  <p>每一艘船上都有第一個發現自由女神的人。他們縱聲高呼“America”，為了一個不知道結果的目標而激動，遠渡大洋開始了新一輪的生計。在夢想的鼓動下，黑壓壓的人群像河流開閘般湧上陸地，奔向那個繁華無雙的紐約，像蛾子一樣焦急地撲向鑲著鑽石的美國夢。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/2616d62d-08f0-4e27-939b-9b39f1ec2dad.webp" data-asset-id="2616d62d-08f0-4e27-939b-9b39f1ec2dad" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>一次航行，美國爵士樂鼻祖傑尼聽說了Virginian號上的1900的名聲，專門上船和他比賽琴技。1900首先彈了一首《平安夜》以示尊重，也認為沒有必要比賽。傑尼聽罷認為是對他的輕視和侮辱，拿出一手看家本領。1900感歎其技藝的出神入化，在旁聽得落淚。隨後1900把剛剛所聽分毫不差地彈奏了出來，傑尼惱羞成怒，一心只求獲勝，彈奏了一首技藝華麗的爵士樂。1900聽出了挑釁和敵意，被這首失其本心的音樂激怒，也展開了攻伐。是那首著名的《Enduring Movement》，其節奏之奇速和怪誕，足以用熾熱的琴絲點燃一根香烟。曲畢，全場靜默，時間仿佛靜止，不知過了多久才爆發如雷的掌聲——演奏者1900的音樂造詣是何等之高。最後傑尼自歎弗如，黯然離去。這是一場關乎尊嚴與壓迫的琴鍵“決鬥”，爵士樂成為炫目的所在，成為追逐金錢和權勢的手段。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/104a7d8e-2b98-441a-b282-f2afdcf6ed2c.webp" data-asset-id="104a7d8e-2b98-441a-b282-f2afdcf6ed2c" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>爵士樂（Jazz）本身象徵著那個時代的浮華和自以為是，“什麼都不是，那就是爵士了”。1920年代也被稱作“爵士樂時代”（jazz age）。早期的爵士樂從非洲和美國黑人的民間音樂中演化而來，勞動歌曲、靈歌、福音讚美詩和步態舞等舞蹈音樂都是孕育爵士樂的土壤；而管樂隊、拉格泰姆（ragtime）和藍調（blues）是其直接源頭。爵士樂以其情緒化的節奏和即興創作為特點。當爵士樂跟隨非裔美國人的遷徙逐步擴張到美國西部和北部，其影響力也逐步擴大，成為美國所擁有的獨特音樂形式。</p>
+  <p>在喧囂的二十年代，爵士樂見證了一戰後大西洋兩岸史無前例的經濟大發展。菲茨傑拉德筆下的《了不起的蓋茨比》描寫了20世紀20年代美國金錢和金錢背後的欲望，其中，爵士樂隊成為不可多得的炫富要素。</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>“在他蔚藍的花園裏，男男女女像飛蛾一般在笑語、香檳和繁星中間來來往往……每星期五，五箱柳丁和檸檬從紐約一家水果行送到……大批包辦宴席的人從城裡下來，帶來好幾百英尺帆布帳篷和無數的彩色電燈，足以把蓋茨比巨大的花園佈置得像一棵聖誕樹……七點以前樂團到達，絕不是什麼五人小樂隊，雙簧管、長號、薩克斯、大小提琴、短號、短笛、高低音銅鼓，應有盡有……大地蹣跚著離開太陽，電燈顯得更亮，此刻樂團正在奏黃色雞尾酒會音樂，於是大合唱般的人聲又提到了一個音調。”（菲茨傑拉德，《了不起的蓋茨比》，巫寧坤等譯，上海：上海譯文出版社，2011.5）</code></pre></div>  </div>
+  <p>全書有九章，蓋茨比的派對就占了一章，描寫金錢的部分在小說中的地位如此之高。菲茨傑拉德的創作瓦解了工業化美國的夢想，把一個巨大的金光璀璨的泡沫刺破了，那些物質和誘惑碎了一地。“那片遙遠的、虛妄的綠光，或許不再、或許永遠留在彼岸。——小時代不可回避地到來了。”第一次世界大戰後人們的生活狀態陷入虛無，對物質窮奢極惡的追求，也無法安慰人們心靈的慌亂。蓋茨比所追求的東西是虛妄的、漂浮的“一片綠光”。這本書寫出了真正的“爵士時代”味道——讓物質發出炫目的光，讓爵士樂隊的各種樂器永遠在雲端吹拉彈唱。而《海上鋼琴師》通過鬥琴的情節，借1900的眼睛匆匆一瞥爵士時代的恢弘之影。這既是1900閱歷當中一次音樂技藝的挑戰，也是他所處的時代向他發出的邀約。這構成一個如此重要的背景——當面對下船還是不下船的難題時，他必然要想清楚：“爵士時代”的陸地生活將會意味著什麼？對1900而言，什麼才是重要的？</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>#2孤獨和清醒：純淨的海上藝術家</code></pre></div>  </div>
+  <p>Virginian號的一次起航能承載兩千名旅客，形形色色的人像不間斷的流水一樣從1900的身旁經過。他會在頭等艙客人的音樂廳裏和樂團的夥伴合作華麗的樂曲，看著優美或激昂的舞步在舞池穿梭不止；也會在普通艙的休閒廳裡為鬧哄哄的人群打造聽覺盛宴，隨著他們的哼唱彈奏鄉野小調。人群簇擁，旅途上的熱鬧無出其右。可當船艦抵達港口，人們紛紛馳往口中高呼的“America”這一欲望之地。曲終人散，1900一個人坐在鋼琴旁，一次又一次地和大陸上那個鮮活跳動的世界擦肩而過。</p>
+  <p>他感到孤獨，曾躲進Virginian號的通訊房，對著記載著電話、姓名、住址和其他資訊的通訊錄胡亂指了一通，然後撥向被指到的電話——“你或許不認識我，但我想我們可以聊聊天。”他希望能有個人說說話，希望人們不再是他人生的過客，希望能體會到眷戀和愛。然而，他從未下過船，一隻腳都未踏上過陸地。對這個世界而言，他並不存在。他沒有祖國，沒有故鄉，沒有家庭，唯一的親人早在童年時便離去，他從未在人類社會中正式地“存在”過。</p>
+  <p>然而正因這孤獨，1900有著敏銳的看透人心的能力。他看著船上來來往往的旅客，從他們的外在洞察人心的隱秘，並藉此彈奏出感動人心的樂曲。他的音樂表達的是人性。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/cecff37e-d620-4beb-a7a1-981c0cdea475.webp" data-asset-id="cecff37e-d620-4beb-a7a1-981c0cdea475" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>望著遊人湧向彼岸的紐約，他理解經歷過一戰的人們在戰爭傷痛和貧困交加的驅使下，都嚮往美國那個“富得流油”的國度，渴望在那裡開始新生活。人們拋弃原來的世界，去追求新的世界；船上的舞會、狂歡，都是到達目的地之前的慶祝。他和美國爵士樂大師鬥過琴，從傑尼的眼睛裏看到功利的爵士樂能給人帶來最大限度的金錢和權勢，看到仇恨、競爭、嫉妒與不甘。他在一趟趟容納著兩千人的有限旅程裏，見證了世界上所有的喧囂和欲望。</p>
+  <p>“陸地上的人喜歡尋根問底，虛度了大好光陰。冬天憂慮夏天的姍姍來遲，夏天則擔心冬天的將至。所以他們不停四處遊走，追求一個遙不可及、四季如夏的地方——我並不羡慕。”當他的朋友麥克斯問他為什麼不下船去——去給世界送去一炮驚喜，也給自己掙一個前程的時候，1900這樣回答他。</p>
+  <p>有一次是他和陸地挨得最近的時刻。他站在船接陸地的舷梯上，穿著朋友送給他的駱駝大衣，懷着向心愛的女孩奔赴然後安家立業的願望，他下定决心要到陸地上生活了。但是，他望著無窮無止的高樓、縱橫交錯的街道和其意味著的數不清的選擇，他突然想明白自己想要的生活方式是什麼了——琴鍵有始也有終，在這些琴鍵上所能創造出來的音樂是無限的；而大陸上的那座都市，是擺在他面前的成千上萬的琴鍵。成千上萬！那是不可能把握的，他無法在無法窮盡的琴鍵上延續他的音樂，這不是他要的生活。“我看不到陸地的盡頭”。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/53081b37-7ade-469f-a5de-d5e4506da410.webp" data-asset-id="53081b37-7ade-469f-a5de-d5e4506da410" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>那望不到地平線的陸地，意味著和海上完全不同的生存管道，意味著他將要和見過的那些旅客一樣，為物質奔波，為在陸地上安身立命這一他不擅長的事作出許多違心的選擇。這可能會耗盡他的精力，會危及他在海上做的那一個個關於音樂的夢。</p>
+  <p>走上陸地，不意味著房子和家、壁爐和火雞、用於招待的紅酒和朋友摘下的禮帽，也不意味著曾經在音樂當中神往的那個美輪美奐的國度——“女人們秀髮芬芳，四處陽光洋溢，但卻猛虎遍地”，“去倫敦的市中心，巴黎的花園，在納福橋上等待落日的沉浮，看見原野中的列車，積雪齊腰的高山，在世界上最大的教堂裏數柱子，與受難的耶穌面對面。”</p>
+  <p>走上陸地，意味著和欲望打交道，和物質爭地盤，而1900是一個多麼純粹的人！是一個多麼純淨的海上藝術家！他是大海的孩子，他拒絕陸地，拒絕那巨大而虛無的漩渦。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/0575744a-8e01-46fd-a53b-2f165ef0d234.webp" data-asset-id="0575744a-8e01-46fd-a53b-2f165ef0d234" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>#3時空三部曲之告別現實</code></pre></div>  </div>
+  <p>人們常說，文學能在讀者身上留下生命的印記。它有著這樣的魔力：把人類的情感體驗和智慧凝聚成一顆顆光華的珠子，一一擺開在我們面前，讓我們的人性不斷地在現實的不堪和瑰麗之間掙扎往返。電影作為藝術的表現管道之一，同樣有著如此力量。</p>
+  <p>對1900來說，擺在他面前的人生明明有很多種選擇。拉手風琴的男人說，“有一天，我去了一個從來沒去過的鎮，我爬上一座小山，然後我見到了這輩子最美的東西——大海。我從沒看見過、聽到一種聲音，就像被閃電擊中了。大海的聲音就像呼喊，那種大而强的呼喊，一刻不停，就好像在說，你這個猪腦子，生命如此廣闊（immense），你能理解嗎——廣闊無邊（immense）。我就是我為什麼突然改變生活、重新來過（to start fresh）。”</p>
+  <p>幾年後，同樣在這艘船上，他遇到了這個男人的女兒——正因這個小女兒，男人才鼓起勇氣决定換種生活重新來過。“為什麼不來我們這兒？我們住在莫特街27號。我爸爸開了家魚店。”他愛上的那個女孩名字叫帕多安。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/c9a6ba04-e5a6-459d-bf3b-a6a13a8e433d.webp" data-asset-id="c9a6ba04-e5a6-459d-bf3b-a6a13a8e433d" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>他突然心動了。有一天，他在餐廳吃飯的時候突然對麥克斯說，他决定下船。“我想聆聽大海的聲音，去陸地上聆聽，去理解生命的廣博和無限，感受繼續生活下去的動力和激情。在船上，大海永遠不會告訴我什麼。但我到陸地上去生活幾年，我就會是正常的了，像其他人一樣。也許有一天，我會到海岸邊去，仰望大海，瞧瞧它的樣子，然後聆聽大海的咆哮。”</p>
+  <p>麥克斯說：“我一直希望你能下船，為陸地上的觀眾演奏，然後再娶個好妻子，成家立業，兒孫滿堂，希望你能擁有的是那些生命中不那麼廣博的（immense），但卻是值得你為之奮鬥的（worth the effort）。”</p>
+  <p>“你會來看我吧，麥克斯，去陸地上我的家？”</p>
+  <p>“當然了。我去看你的時候，你要向我介紹你孩子的母親，還要邀請我和你們一起共進星期日的晚餐。我會帶些甜點外加一瓶酒，然後你就會對我說用不著那麼客氣。當你向我介紹帶著我參觀你那所建的似船一樣的房子，你的妻子在為大家烤火雞，然後我們都坐在桌子旁，我會誇讚她的廚藝，她會對我說你總會對她提起有關於我的事。”“知道嗎，我打算把我的駱駝大衣送你了。等你下船的時候穿著它，肯定特別帥。”</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/35e4fc71-5ce8-4520-b4d8-341e66a00154.webp" data-asset-id="35e4fc71-5ce8-4520-b4d8-341e66a00154" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>藝術所探討的問題一直與人類的宿命有關。羅素曾說：“所有時代的辛勞、虔誠、靈感，以及所有人類天賦的絢爛光芒都註定在太陽系巨大的毀滅中消失，人類成就的聖殿必將埋葬在宇宙毀滅下的殘垣中。”人類終其一生實現的價值最終都伴隨著死亡在世上湮滅。Virginian號這一蒸汽輪船完成了它航行的使命，被炸藥瓦解隨後沉寂海底是它最終的宿命。1900拒絕了朋友麥克斯的好意，“我永遠無法走下這艘船，但最好的是，我可以選擇如何結束自己的生命。”</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/7abe12c8-0bcf-4a9e-879c-2f14f95e4188.webp" data-asset-id="7abe12c8-0bcf-4a9e-879c-2f14f95e4188" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>1900看到了繼續活下去的諸多可能，但他仍然選擇拒絕捲入陸地上那意味著“無限”的渦流。他清醒地明白自己要掌握的是鋼琴上的88個琴鍵，在這些琴鍵上他能創造出無限的音樂；而陸地上那綿延不絕的街道，是他所無法掌握的東西，他無法在那樣的處境裏創作出純淨的樂章。“欲望是無盡的。”當他自覺了世界無數可能之所在，仍然肯定自己在海上的存在管道——他的所為是出於“自由意志”（will）。</p>
+  <p>論語《子路、曾皙、冉有、公西華侍坐》，孔子問學生們的志向，（曾）點曰：“暮春者，春服既成，冠者五六人，童子六七人，浴乎沂，風乎舞雩，咏而歸。”夫子喟然歎曰：“吾與點也！”其他人，志在治理國政，使百姓驍勇知禮；志在富足一方，使百姓安家樂業；志在宗廟祭祀，萬物歸其本位。人各有志，本就沒有厚此薄彼之說。</p>
+  <p>1900面對個人生命的絕處，仍願意堅守在他的音樂王國裏，坦然接納自然的死亡。他乘上了諾亞方舟，告別了現實，在微小個體和無限時空當中自洽、自處。這是人類在宇宙尺度下重獲其地位的高貴之處。</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>“只有我一直迎着风雪脸色一年比一年凉。 时间染白了我认识的山峰力量顿顿挫挫我该怎么样分配最后的日子 把我的神话讲完把圣洁的白提升到所有的云彩之上。”（王小妮，《我看见大风雪》节选）</code></pre></div>  </div>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/62523cef-41b6-4aeb-bb14-cb1293b1f090.png" data-asset-id="62523cef-41b6-4aeb-bb14-cb1293b1f090" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>文|袁洋</p>
+  <p>審稿|十全大補鴨</p>
+  <p>圖|來自網絡</p>
+  <p>微信編輯|蔡佳月</p>
+  <p>matters編輯| Marks</p>
+  <p>圍爐（ID:weilu_flame）</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/ecf678ec-367c-417d-b230-ee6aa1d29b2d.png" data-asset-id="ecf678ec-367c-417d-b230-ee6aa1d29b2d" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>文中圖片未經同意，請勿用作其他用途</p>
+  <p>歡迎您在文章下方評論，與圍爐團隊和其他讀者交流討論</p>
+  <p>欲瞭解圍爐、閱讀更多文章，請關注本公眾號並在公眾號頁面點擊相應選單欄目</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/e80658b2-8795-4b90-bc50-b012d1957699.png" data-asset-id="e80658b2-8795-4b90-bc50-b012d1957699" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/040e48f8-d502-407e-899a-24945b366c76.jpeg" data-asset-id="040e48f8-d502-407e-899a-24945b366c76" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p><br /></p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#围炉 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2024-10-03/%E5%AF%B9%E8%AF%9D%E5%A5%B3%E6%80%A7%E6%B0%91%E5%B7%A5-%E5%9C%A8%E5%9F%8E%E5%B8%82%E9%87%8C-%E5%9C%A8%E5%B7%A5%E4%BD%9C%E5%92%8C%E5%AE%B6%E5%BA%AD%E4%B9%8B%E9%97%B4-%E5%9B%B4%E7%82%89-CU/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2021-03-23/%E5%AF%B9%E8%AF%9D%E9%BB%84%E6%B3%93%E7%BF%94-%E8%87%B4%E5%8A%9B%E4%BA%8E%E5%9F%B9%E8%82%B2%E4%B8%96%E7%95%8C%E5%85%AC%E6%B0%91%E7%9A%84%E4%B8%AD%E5%8D%97%E5%B1%8B%E5%88%9B%E5%A7%8B%E4%BA%BA-%E8%AE%B2%E5%BA%A7%E6%91%98%E8%A6%81/">最早</a>--</span>
+    
+      <li>
+        <time>2021-09-30</time>
+        <a href="https://nodebe4.github.io/opinion/2021-09-30/%E5%B0%8D%E8%A9%B1%E9%AD%8F%E6%99%82%E7%85%9C-%E6%88%91%E5%81%9A%E9%81%8E%E7%9A%84%E6%9C%80%E6%9C%89%E6%84%8F%E6%80%9D%E7%9A%84%E4%BA%8B%E6%83%85-%E9%83%BD%E5%9C%A8%E6%88%91%E7%9A%84%E4%BD%9C%E5%93%81%E8%A3%8F/">
+          對話魏時煜：我做過的最有意思的事情，都在我的作品裏
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-09-30</time>
+        <a href="https://nodebe4.github.io/opinion/2021-09-30/%E4%B8%89%E7%A8%AE%E6%84%9B%E6%83%85-%E5%9C%8D%E7%88%90-%E7%A7%8B%E6%97%A5%E8%89%BA%E6%96%87/">
+          三種愛情|圍爐·秋日艺文
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-09-22</time>
+        <a href="https://nodebe4.github.io/opinion/2021-09-22/%E5%AF%A9%E8%A6%96%E4%B8%96%E7%95%8C%E7%9A%84%E8%A4%87%E9%9B%9C%E6%80%A7-%E5%9C%8D%E7%88%90%E8%A9%95%E8%AB%96-FDU/">
+          審視世界的複雜性|圍爐評論·FDU
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-09-22</time>
+        <a href="https://nodebe4.github.io/opinion/2021-09-22/13%E4%BD%8D%E7%B2%89%E7%B5%B2%E7%9A%84%E9%A3%AF%E5%9C%88%E8%87%AA%E5%AE%9A%E7%BE%A9-%E5%9C%8D%E7%88%90-%E7%A7%8B%E6%97%A5%E8%89%BA%E6%96%87/">
+          13位粉絲的飯圈自定義|圍爐·秋日艺文
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2021-09-25/%E5%8F%B0%E7%81%A3%E7%9A%84%E4%B8%BB%E6%B5%81%E6%B0%91%E6%84%8F-%E5%8F%8D%E5%85%B1%E4%B8%8D%E5%8F%8D%E4%B8%AD/">
+            前一篇：台灣的主流民意——反共不反中
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2021-09-25/%E8%82%85%E8%AA%AA-%E5%AD%9F%E6%99%9A%E8%88%9F%E8%87%AA%E7%94%B1%E4%BA%86-%E4%B8%AD%E5%9C%8B%E8%B4%8F%E4%BA%86/">
+            後一篇：肅說：孟晚舟自由了 中國贏了
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2021-09-25/%E5%8F%B0%E7%81%A3%E7%9A%84%E4%B8%BB%E6%B5%81%E6%B0%91%E6%84%8F-%E5%8F%8D%E5%85%B1%E4%B8%8D%E5%8F%8D%E4%B8%AD/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2021-09-25/%E8%82%85%E8%AA%AA-%E5%AD%9F%E6%99%9A%E8%88%9F%E8%87%AA%E7%94%B1%E4%BA%86-%E4%B8%AD%E5%9C%8B%E8%B4%8F%E4%BA%86/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2021-09-30/%E4%B8%89%E7%A8%AE%E6%84%9B%E6%83%85-%E5%9C%8D%E7%88%90-%E7%A7%8B%E6%97%A5%E8%89%BA%E6%96%87/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2021-09-22/%E5%AF%A9%E8%A6%96%E4%B8%96%E7%95%8C%E7%9A%84%E8%A4%87%E9%9B%9C%E6%80%A7-%E5%9C%8D%E7%88%90%E8%A9%95%E8%AB%96-FDU/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2021-09-25/%E5%8F%B0%E7%81%A3%E7%9A%84%E4%B8%BB%E6%B5%81%E6%B0%91%E6%84%8F-%E5%8F%8D%E5%85%B1%E4%B8%8D%E5%8F%8D%E4%B8%AD/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2021-09-25/%E8%82%85%E8%AA%AA-%E5%AD%9F%E6%99%9A%E8%88%9F%E8%87%AA%E7%94%B1%E4%BA%86-%E4%B8%AD%E5%9C%8B%E8%B4%8F%E4%BA%86/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<围炉>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2021-09-30/%E4%B8%89%E7%A8%AE%E6%84%9B%E6%83%85-%E5%9C%8D%E7%88%90-%E7%A7%8B%E6%97%A5%E8%89%BA%E6%96%87/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<围炉>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2021-09-22/%E5%AF%A9%E8%A6%96%E4%B8%96%E7%95%8C%E7%9A%84%E8%A4%87%E9%9B%9C%E6%80%A7-%E5%9C%8D%E7%88%90%E8%A9%95%E8%AB%96-FDU/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

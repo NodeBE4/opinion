@@ -1,0 +1,3037 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Sora, Groq, and Virtual Reality – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+Sora, Groq, and Virtual Reality
+——
+" />
+    <meta property="og:description" content="
+Sora, Groq, and Virtual Reality
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Sora, Groq, and Virtual Reality" />
+    <meta property="twitter:title" content="Sora, Groq, and Virtual Reality" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2024%2Fsora-groq-and-virtual-reality%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2024/sora-groq-and-virtual-reality/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2024/sora-groq-and-virtual-reality/&text=Sora, Groq, and Virtual Reality&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2024/sora-groq-and-virtual-reality/&title=Sora, Groq, and Virtual Reality" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2024/sora-groq-and-virtual-reality/&title=Sora, Groq, and Virtual Reality" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Sora, Groq, and Virtual Reality&body=
+Sora, Groq, and Virtual Reality
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2024/sora-groq-and-virtual-reality/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2024/sora-groq-and-virtual-reality/&title=Sora, Groq, and Virtual Reality&caption=
+Sora, Groq, and Virtual Reality
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Sora, Groq, and Virtual Reality&url=https://stratechery.com/2024/sora-groq-and-virtual-reality/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Sora, Groq, and Virtual Reality</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2024-02-20
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2024/sora-groq-and-virtual-reality/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1708440722000-->
+<p><a href="https://stratechery.com/2024/sora-groq-and-virtual-reality/">Sora, Groq, and Virtual Reality</a>
+——</p>
+
+<div>
+  <p>Matthew Ball wrote a fun essay earlier this month entitled <a href="https://www.matthewball.vc/all/metaversespatialandmore">On Spatial Computing, Metaverse, the Terms Left Behind and Ideas Renewed</a>, tracing the various terms that have been used to describe, well, that’s what the essay is about: <em>virtual reality</em>, <em>augmented reality</em>, <em>mixed reality</em>, <em>Metaverse</em>, are words that have been floating around for decades now, both in science fiction and in products, to describe what Apple is calling <em>spatial computing.</em></p>
+  <p>Personally, I agree with Ball that “Metaverse” is the best of the lot, particularly given Ball’s succinct description of the concept in his conclusion:</p>
+  <blockquote>
+    <p>I liked the term Metaverse because it worked like the Internet, but for 3D. It wasn’t about a device or even computing at large, just as the Internet was not about PC nor the client-server model. The Metaverse is a vast and interconnected network of real-time 3D experiences. For passthrough or optical MR to scale, a “3D Internet” is required – which means overhauls to networking infrastructure and protocols, advances in computing infrastructure, and more. This is, perhaps the one final challenge with the term – it describes more of an end state than a transition.</p>
+  </blockquote>
+  <p>A challenge, perhaps, or exactly what makes the term the right one: to the extent the Metaverse is the “3D Internet” is the extent to which it is fully interoperable with and additive to the Internet. This, moreover, is a well-trodden path; two years ago I wrote in <a href="https://stratechery.com/2022/dall-e-the-metaverse-and-zero-marginal-content/">DALL-E, the Metaverse, and Zero Marginal Content</a>:</p>
+  <blockquote>
+    <p>Games have long been on the forefront of technological development, and that is certainly the case in terms of medium. The first computer games were little more than text:</p>
+    <p><img fetchpriority="high" decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/04/dall-e-5.png?resize=640%2C360&#038;ssl=1" alt="A screenshot from Oregon Trail" width="640" height="360" class="aligncenter size-full wp-image-8804" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/04/dall-e-5.png?w=900&amp;ssl=1 900w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/04/dall-e-5.png?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/04/dall-e-5.png?resize=768%2C432&amp;ssl=1 768w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+    <p>Images followed, usually of the bitmap variety; I remember playing a lot of “Where in the world is Carmen San Diego” at the library:</p>
+    <p><img decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/04/dall-e-1.png?resize=640%2C480&#038;ssl=1" alt="A screenshot from &quot;Where in the world is Carmen San Diego&quot;" width="640" height="480" class="aligncenter size-full wp-image-8805" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/04/dall-e-1.png?w=640&amp;ssl=1 640w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/04/dall-e-1.png?resize=300%2C225&amp;ssl=1 300w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+    <p>Soon games included motion as you navigated a sprite through a 2D world; 3D followed, and most of the last 25 years has been about making 3D games ever more realistic. Nearly all of those games, though, are 3D images on 2D screens; virtual reality offers the illusion of being inside the game itself.</p>
+  </blockquote>
+  <p>Social media followed a similar path: text to images to video and, someday, shared experiences in 3D space (like the <a href="https://appleinsider.com/articles/24/02/18/apples-3d-video-cameras-spotted-during-nba-slam-dunk-contest">NBA Slam Dunk Contest</a>); I noted that generative AI would follow this path as well:</p>
+  <blockquote>
+    <p>What is fascinating about DALL-E is that it points to a future where these three trends can be combined. DALL-E, at the end of the day, is ultimately a product of human-generated content, just like its GPT-3 cousin. The latter, of course, is about text, while DALL-E is about images. Notice, though, that progression from text to images; it follows that machine learning-generated video is next. This will likely take several years, of course; video is a much more difficult problem, and responsive 3D environments more difficult yet, but this is a path the industry has trod before.</p>
+  </blockquote>
+  <p>In a testament to how quickly AI has been moving, “several years” was incredibly pessimistic: Stable Diffusion was being used to generate video within a few months of that post, and now OpenAI has unveiled Sora. From <a href="https://openai.com/sora">OpenAI’s website</a>:</p>
+  <blockquote>
+    <p>Sora is able to generate complex scenes with multiple characters, specific types of motion, and accurate details of the subject and background. The model understands not only what the user has asked for in the prompt, but also how those things exist in the physical world. The model has a deep understanding of language, enabling it to accurately interpret prompts and generate compelling characters that express vibrant emotions. Sora can also create multiple shots within a single generated video that accurately persist characters and visual style.</p>
+    <p>The current model has weaknesses. It may struggle with accurately simulating the physics of a complex scene, and may not understand specific instances of cause and effect. For example, a person might take a bite out of a cookie, but afterward, the cookie may not have a bite mark. The model may also confuse spatial details of a prompt, for example, mixing up left and right, and may struggle with precise descriptions of events that take place over time, like following a specific camera trajectory…</p>
+    <p>Sora serves as a foundation for models that can understand and simulate the real world, a capability we believe will be an important milestone for achieving AGI.</p>
+  </blockquote>
+  <p>The last two paragraphs in that excerpt are in tension, and have been the subject of intense debate on X: does Sora have, or signal a future, of an emergent model of physical reality, simply by predicting pixels?</p>
+  <h3 id="sora-and-virtual-reality">Sora and Virtual Reality</h3>
+  <p><a href="https://openai.com/sora?video=ships-in-coffee">One of the more memorable Sora videos</a> came from the prompt “Photorealistic closeup video of two pirate ships battling each other as they sail inside a cup of coffee.”</p>
+  <div id="v-72IStM1v-1" class="video-player">
+    <video id="v-72IStM1v-1-video" width="640" height="360" poster="https://videos.files.wordpress.com/72IStM1v/ships-in-coffee_mp4_hd_1080p.original.jpg" controls="true" preload="metadata" dir="ltr" lang="en"><div>
+<img decoding="async" alt="" src="https://videos.files.wordpress.com/72IStM1v/ships-in-coffee_mp4_hd_1080p.original.jpg?resize=640%2C360" width="640" height="360" data-recalc-dims="1" />
+      </div></video>
+  </div>
+  <p>This is, frankly, astounding, particularly the rendition of water and especially light: it is only in the past few years that video games, <a href="https://stratechery.com/2022/nvidia-in-the-valley/">thanks to ray-tracing</a>, have been able to deliver something similar, and even then I would argue Sora has them beat. And yet, a 2nd or 3rd viewing reveals clear flaws; just follow the red flag flying from the ship on the right and how the ship completely flips directions:</p>
+  <p><a href="https://openai.com/sora?video=ships-in-coffee"><img loading="lazy" decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/02/ship-coffee-flag.gif?resize=640%2C360&#038;ssl=1" alt="The flipping ship in OpenAI&#039;s demo" width="640" height="360" class="aligncenter size-full wp-image-12352" data-recalc-dims="1" /></a></p>
+  <p>Sora is a transformer-based based model, which means it scales in quality with compute; from <a href="https://openai.com/research/video-generation-models-as-world-simulators">OpenAI’s technical report about Sora</a>:</p>
+  <blockquote>
+    <p>Sora is a diffusion model; given input noisy patches (and conditioning information like text prompts), it’s trained to predict the original “clean” patches. Importantly, Sora is a diffusion transformer. Transformers have demonstrated remarkable scaling properties across a variety of domains, including language modeling, computer vision, and image generation.</p>
+    <p><a href="https://openai.com/research/video-generation-models-as-world-simulators"><img loading="lazy" decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/02/sora-1.png?resize=640%2C158&#038;ssl=1" alt="Sora&#039;s diffuser transformer model" width="640" height="158" class="aligncenter size-full wp-image-12353" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/02/sora-1.png?w=1261&amp;ssl=1 1261w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/02/sora-1.png?resize=300%2C74&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/02/sora-1.png?resize=1024%2C253&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/02/sora-1.png?resize=768%2C190&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2024/02/sora-1.png?resize=1200%2C297&amp;ssl=1 1200w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></a></p>
+    <p>In this work, we find that diffusion transformers scale effectively as video models as well. Below, we show a comparison of video samples with fixed seeds and inputs as training progresses. Sample quality improves markedly as training compute increases.</p>
+    <p><a href="https://openai.com/research/video-generation-models-as-world-simulators"><img loading="lazy" decoding="async" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2024/02/dogs-compute.gif?resize=640%2C230&#038;ssl=1" alt="How training compute improves Sora" width="640" height="230" class="aligncenter size-full wp-image-12354" data-recalc-dims="1" /></a></p>
+  </blockquote>
+  <p>This suggests that the the flag on the ship in the coffee cup (what a phrase!) can be fixed; I’m skeptical, though, that what is, at the end, pixel prediction, could ever be used to replace the sort of physics modeling I discussed in last week’s <a href="https://stratechery.com/2024/an-interview-with-rescale-ceo-joris-poort-about-building-high-performance-computing-in-the-cloud/">Stratechery Interview with Rescale CEO Joris Poort</a> about high-performance computing. Note this discussion about modeling an airplane wing:</p>
+  <blockquote>
+    <p>So let’s take a simple example like fluid flow. You can actually break an airplane wing into many small little boxes or any kind of air or liquid into any small box and understand the science and the physics within that little box and we usually call that a mesh, so that’s well understood. But if you look at something like a more complicated concept like turbulent flow, we’ve all experienced turbulence on an aircraft and so this is not a smooth kind of flow and so it’s discontinuous, so you actually have to time step through that. You have to look at every single small little time step and recalculate all those physics and so each of those individual cells, that mesh can be calculated in parallel.</p>
+  </blockquote>
+  <p>These physics simulations are meant to be the closest possible approximation to reality; if I’m skeptical that a transformer-based architecture can do this simulation, I am by extension skeptical about its ability to “understand and simulate the real world”; this, though, is where I return to Ball’s essay: we are approaching a product worthy of the term “virtual reality.”</p>
+  <h3 id="groq">Groq</h3>
+  <p>The point of <em>DALL-E, the Metaverse, and Zero Marginal Content</em> was that generative AI was the key ingredient to making the Metaverse a reality:</p>
+  <blockquote>
+    <p>In the very long run this points to a metaverse vision that is much less deterministic than your typical video game, yet much richer than what is generated on social media. Imagine environments that are not drawn by artists but rather created by AI: this not only increases the possibilities, but crucially, decreases the costs.</p>
+  </blockquote>
+  <p>We don’t know the costs of Sora, but they are almost certainly substantial; they will also come down over time, as computing always has. What is also necessary is that rendering speed get a lot faster: one of the challenges of interacting with large language models today is speed: yes, accuracy may increase with compute and model size, but that only increases the amount of latency experienced in getting an answer (compare, say, the speed of GPT-3.5 Turbo to GPT-4). The answer here could also just be Moore’s Law, or maybe a different architectecture.</p>
+  <p>Enter Groq.<sup id="rf1-12344"><a href="https://stratechery.com/2024/sora-groq-and-virtual-reality/#fn1-12344" title="Which is &lt;a href=&quot;https://wow.groq.com/welcome-to-groqs-galaxy-elon/&quot;&gt;not Elon Musk&#8217;s X-adjacent LLM&lt;/a&gt;." rel="footnote">1</a></sup></p>
+  <p>Groq was founded in 2016 by Jonathan Ross, who created Google’s first Tensor Processing Unit; Ross’s thesis was that chips should take their cue from software-defined networking: instead of specialized hardware for routing data, a software-defined network uses commodity hardware with a software layer to handle the complexity of routing. Indeed, <a href="https://wow.groq.com/wp-content/uploads/2023/05/GroqISCAPaper2022_ASoftwareDefinedTensorStreamingMultiprocessorForLargeScaleMachineLearning-1.pdf">Groq’s paper</a> explaining their technology is entitled “A Software-defined Tensor Streaming Multiprocessor for Large-scale Machine Learning.”</p>
+  <p>To that end Groq started with the compiler, the software that translates code into machine language that can be understood by chips; the goal was to be able to reduce machine-learning algorithms into a format that could be executed on dramatically simpler processors that could operate at very high speed, without expensive memory calls and prediction misses that make modern processors relatively slow.</p>
+  <p>The end result is that Groq’s chips are purely deterministic: instead of the high-bandwidth memory (HBM) used for modern GPUs or Dynamic Random Access Memory (DRAM) used in computers, both of which need to be refreshed regularly to function (which introduces latency and uncertainty about the location of data at a specific moment in time), Groq uses SRAM — Static Random Access Memory. SRAM stores data in what is called a bistable latching circuitry; this, unlike the transistor/capacitor architecture undergirding DRAM (and by extension, HBM), stores data in a stable state, which means that Groq always knows exactly where every piece of data is at any particular moment in time. This allows the Groq compiler to, in an ideal situation, pre-define every memory call, enabling extremely rapid computation with a relatively simple architecture.</p>
+  <p>It turns out that running inference on transformer-based models is an extremely ideal situation, because the computing itself is extremely deterministic. An LLM like GPT-4 processes text through a series of layers which have a predetermined set of operations, which is perfectly suited to Groq’s compiler. Meanwhile, token-based generation is a purely serial operation: every single token generated depends on knowing the previous token; there is zero parallelism for any one specific answer, which means the speed of token calculation is at an absolute premium.</p>
+  <p>The results are remarkable:<sup id="rf2-12344"><a href="https://stratechery.com/2024/sora-groq-and-virtual-reality/#fn2-12344" title="Just for clarity, Groq is a chip; it can run any number of models; the &lt;a href=&quot;https://groq.com/&quot;&gt;demo on its home page&lt;/a&gt; happens to be using the Mixtral 8x7B-32k and LLama 2 70B-4k open source models; the key thing to observe is the speed of the answer, not necessarily its accuracy." rel="footnote">2</a></sup></p>
+  <div align="center">
+    <blockquote class="twitter-tweet" data-dnt="true">
+      <p lang="en" dir="ltr">Try <a href="https://t.co/tfPlxzUDkZ">https://t.co/tfPlxzUDkZ</a> now</p>
+      <p>Hyperfast LLM running on custom built GPUs</p>
+      <p>Answers in miliseconds, not seconds</p>
+      <p>How? <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f92f.png" alt="🤯" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://t.co/c0dOT90Her">pic.twitter.com/c0dOT90Her</a></p>
+      <p>— @levelsio (@levelsio) <a href="https://twitter.com/levelsio/status/1759372467825521112?ref_src=twsrc%5Etfw">February 19, 2024</a></p>
+    </blockquote>
+    <p>      <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+&lt;/div&gt;      <p>This speed-up is so dramatic as to be a step-change in the experience of interacting with an LLM; it also makes it possible to do something like actually communicate with an LLM in real-time, even half-way across the world, <a href="https://www.youtube.com/watch?v=pRUddK6sxDg">live on TV</a>:</p>
+      <div id="v-KTJ9SqPQ-1" class="video-player">
+        <video id="v-KTJ9SqPQ-1-video" width="640" height="360" poster="https://videos.files.wordpress.com/KTJ9SqPQ/groq_mp4_hd.original.jpg" controls="true" preload="metadata" dir="ltr" lang="en"><div>
+<img loading="lazy" decoding="async" alt="" src="https://videos.files.wordpress.com/KTJ9SqPQ/groq_mp4_hd.original.jpg?resize=640%2C360" width="640" height="360" data-recalc-dims="1" />
+          </div></video>
+      </div>
+      <p>One of the arguments I have made as to <a href="https://stratechery.com/2023/ai-hardware-and-virtual-reality/">why OpenAI CEO Sam Altman may be exploring hardware</a> is that the closer an AI comes to being human, the more grating and ultimately gating are the little inconveniences that get in the way of actually interacting with said AI. It is one thing to have to walk to your desk to use a PC, or even reach into your pocket for a smartphone: you are, at all times, clearly interacting with a device. Having to open an app or wait for text in the context of a human-like AI is far more painful: it breaks the illusion in a much more profound, and ultimately disappointing, way. Groq suggests a path to keeping the illusion intact.</p>
+      <h3 id="sora-on-groq">Sora on Groq</h3>
+      <p>It is striking that Groq is a deterministic system<sup id="rf3-12344"><a href="https://stratechery.com/2024/sora-groq-and-virtual-reality/#fn3-12344" title="I didn&#8217;t mention the inter-chip communication for a multi-chip system: that&#8217;s deterministic too" rel="footnote">3</a></sup> running deterministic software that, in the end, produces probabilistic output. I explained deterministic versus probabilistic computing in <a href="https://stratechery.com/2023/chatgpt-learns-computing/">ChatGPT Gets a Computer</a>:</p>
+      <blockquote>
+        <p>Computers are deterministic: if circuit X is open, then the proposition represented by X is true; 1 plus 1 is always 2; clicking “back” on your browser will exit this page. There are, of course, a huge number of abstractions and massive amounts of logic between an individual transistor and any action we might take with a computer — and an effectively infinite number of places for bugs — but the appropriate mental model for a computer is that they do exactly what they are told (indeed, a bug is not the computer making a mistake, but rather a manifestation of the programmer telling the computer to do the wrong thing).</p>
+        <p>I’ve already mentioned Bing Chat and ChatGPT; on March 14 Anthropic released another AI assistant named Claude: while the announcement doesn’t say so explicitly, I assume the name is in honor of the aforementioned Claude Shannon. This is certainly a noble sentiment — Shannon’s contributions to information theory broadly extend far beyond what Dixon laid out above — but it also feels misplaced: while technically speaking everything an AI assistant is doing is ultimately composed of 1s and 0s, the manner in which they operate is emergent from their training, not proscribed, which leads to the experience feeling fundamentally different from logical computers — something nearly human — which takes us back to hallucinations; Sydney was interesting, but what about homework?</p>
+      </blockquote>
+      <p>The idea behind <em>ChatGPT Gets a Computer</em> is that large language models seem to operate somewhat similarly to the human brain, which is incredible and also imprecise, and just as we need a computer to do exact computations, so does ChatGPT. A regular computer, though, is actually the opposite of Groq: you get deterministic answers from hardware that is, thanks to the design of modern processors and memory, more probabilistic than you might think, running software that assumes the processor will handle endless memory calls and branch prediction.</p>
+      <p>In the end, though, we are back where we started: a computer would know where the bow and stern are on a ship, while a transformer-based model like Sora made a bad guess. The former calculates reality; the latter a virtual reality.</p>
+      <p>Imagine, though, Sora running on Groq (which is absolutely doable): could we have generated videos in real-time? Even if we could not, we are certainly much closer than you might have expected. And where, you might ask, would we consume those videos? How about on a head-mounted display like the <a href="https://stratechery.com/2024/the-apple-vision-pro/">Apple Vision Pro</a> or Meta Quest? Virtual reality (my new definition) for virtual reality (the old definition).</p>
+      <h3 id="the-impending-vr-moment">The Impending VR Moment</h3>
+      <p>The iPhone didn’t happen in a vacuum. Apple <a href="https://stratechery.com/2022/an-interview-with-father-of-the-ipod-tony-fadell/">needed to learn to make low-power devices with the iPod</a>; flash memory needed to become viable at an accessible price point; Samsung needed to make a good enough processor; 3G networking needed to be rolled out; the iTunes Music Store needed to provide the foundation for the App Store; Unity needed to be <a href="https://stratechery.com/2023/unitys-business-model-change-unitys-strategy-unity-leadership-questions/">on a misguided mission to build a game engine for the Mac</a>. Everything, though, came together in 2007, and the mobile era exploded.</p>
+      <p>Three years ago <a href="https://stratechery.com/2021/meta/">Facebook changed its name to Meta</a>, signaling the start of the Metaverse era that quickly fizzled into a punchline; it looked like the company was <a href="https://stratechery.com/2022/musk-makes-twitter-bid-facebook-ar-plans-an-interview-with-adam-mosseri-about-creators-blockchains-and-tiktok/">pulling too many technologies forward too quickly</a>. Apple, though, might have better timing: it’s notable that the Vision Pro and Sora launched in the same month, just as Groq started to show that real-time inferencing might be more attainable than we think. TSMC, meanwhile, is pushing to 2nm, and Intel is making <a href="https://stratechery.com/2024/intels-humbling/">a credible bid to join them</a>, just as the demand for high performance chips is sky-rocketing thanks to large language models generally.</p>
+      <p>I don’t, for the record, think we are at an iPhone moment when it comes to virtual reality, by which I mean the moment where multiple technological innovations intersect in a perfect product. What is exciting, though, is that a lot of the pieces — unlike three years ago — are in sight. Sora might not be good enough, but it will get better; Groq might not be cheap enough or fast enough, but it, and whatever other competitors arise, will progress on both vectors. And Meta and Apple themselves have not, in my estimation, gotten the hardware quite right. You can, however, see a path from here to there on all fronts.</p>
+      <p>The most important difference, of course, is that mobile phones existed before the iPhone: it was an easy lift to simply sell a better phone. The big question — one that we are only now coming in reach of answering — is if virtual reality will, for a meaningful number of people, be a better reality.</p>
+      <hr class="footnotes" />
+      <ol class="footnotes" style="list-style-type:decimal">
+        <li id="fn1-12344">
+          <p>Which is <a href="https://wow.groq.com/welcome-to-groqs-galaxy-elon/">not Elon Musk’s X-adjacent LLM</a>. <a href="https://stratechery.com/2024/sora-groq-and-virtual-reality/#rf1-12344" class="backlink" title="Return to footnote 1.">↩</a></p>
+        </li>
+        <li id="fn2-12344">
+          <p>Just for clarity, Groq is a chip; it can run any number of models; the <a href="https://groq.com/">demo on its home page</a> happens to be using the Mixtral 8x7B-32k and LLama 2 70B-4k open source models; the key thing to observe is the speed of the answer, not necessarily its accuracy. <a href="https://stratechery.com/2024/sora-groq-and-virtual-reality/#rf2-12344" class="backlink" title="Return to footnote 2.">↩</a></p>
+        </li>
+        <li id="fn3-12344">
+          <p>I didn’t mention the inter-chip communication for a multi-chip system: that’s deterministic too <a href="https://stratechery.com/2024/sora-groq-and-virtual-reality/#rf3-12344" class="backlink" title="Return to footnote 3.">↩</a></p>
+        </li>
+      </ol>
+ &lt;/div&gt;</p>
+  </div>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2024-03-04</time>
+        <a href="https://nodebe4.github.io/opinion/2024-03-04/Aggregator-s-AI-Risk/">
+          Aggregator’s AI Risk
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-02-26</time>
+        <a href="https://nodebe4.github.io/opinion/2024-02-26/Gemini-and-Google-s-Culture/">
+          Gemini and Google’s Culture
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-02-06</time>
+        <a href="https://nodebe4.github.io/opinion/2024-02-06/The-Apple-Vision-Pro/">
+          The Apple Vision Pro
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-01-30</time>
+        <a href="https://nodebe4.github.io/opinion/2024-01-30/Intel-s-Humbling/">
+          Intel’s Humbling
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2024-02-19/%E9%AB%98%E7%AD%89%E6%95%99%E8%82%B2%E4%B8%AD%E7%9A%84%E6%95%B8%E4%BD%8D%E7%B4%A0%E9%A4%8A-%E8%87%BA%E5%A4%A7%E6%9C%AA%E4%BE%86%E5%A4%A7%E5%AD%B8%E8%AB%96%E5%A3%87/">
+            前一篇：高等教育中的數位素養｜臺大未來大學論壇
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2024-02-21/%E7%A7%A6%E6%99%96-%E9%9E%91%E9%9D%BC%E8%92%99%E5%8F%A4%E4%BA%BA%E5%AD%B5%E5%8C%96%E4%B8%8B%E7%9A%84%E8%8E%AB%E6%96%AF%E7%A7%91%E7%BD%97%E6%96%AF-2024-02-21/">
+            後一篇：秦晖：鞑靼蒙古人孵化下的莫斯科罗斯（2024 02 21）
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2024-02-19/%E9%AB%98%E7%AD%89%E6%95%99%E8%82%B2%E4%B8%AD%E7%9A%84%E6%95%B8%E4%BD%8D%E7%B4%A0%E9%A4%8A-%E8%87%BA%E5%A4%A7%E6%9C%AA%E4%BE%86%E5%A4%A7%E5%AD%B8%E8%AB%96%E5%A3%87/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2024-02-21/%E7%A7%A6%E6%99%96-%E9%9E%91%E9%9D%BC%E8%92%99%E5%8F%A4%E4%BA%BA%E5%AD%B5%E5%8C%96%E4%B8%8B%E7%9A%84%E8%8E%AB%E6%96%AF%E7%A7%91%E7%BD%97%E6%96%AF-2024-02-21/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2024-02-26/Gemini-and-Google-s-Culture/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2024-02-06/The-Apple-Vision-Pro/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2024-02-19/%E9%AB%98%E7%AD%89%E6%95%99%E8%82%B2%E4%B8%AD%E7%9A%84%E6%95%B8%E4%BD%8D%E7%B4%A0%E9%A4%8A-%E8%87%BA%E5%A4%A7%E6%9C%AA%E4%BE%86%E5%A4%A7%E5%AD%B8%E8%AB%96%E5%A3%87/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2024-02-21/%E7%A7%A6%E6%99%96-%E9%9E%91%E9%9D%BC%E8%92%99%E5%8F%A4%E4%BA%BA%E5%AD%B5%E5%8C%96%E4%B8%8B%E7%9A%84%E8%8E%AB%E6%96%AF%E7%A7%91%E7%BD%97%E6%96%AF-2024-02-21/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2024-02-26/Gemini-and-Google-s-Culture/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2024-02-06/The-Apple-Vision-Pro/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

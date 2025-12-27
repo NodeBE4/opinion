@@ -1,0 +1,1056 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>围炉夜话：内地生在港身份认同｜围炉·CUHK – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+围炉夜话：内地生在港身份认同｜围炉·CUHK
+——
+" />
+    <meta property="og:description" content="
+围炉夜话：内地生在港身份认同｜围炉·CUHK
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="围炉夜话：内地生在港身份认同｜围炉·CUHK" />
+    <meta property="twitter:title" content="围炉夜话：内地生在港身份认同｜围炉·CUHK" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fmatters.news%2F%40weiluflame%2F%25E5%259B%25B4%25E7%2582%2589%25E5%25A4%259C%25E8%25AF%259D-%25E5%2586%2585%25E5%259C%25B0%25E7%2594%259F%25E5%259C%25A8%25E6%25B8%25AF%25E8%25BA%25AB%25E4%25BB%25BD%25E8%25AE%25A4%25E5%2590%258C-%25E5%259B%25B4%25E7%2582%2589-cuhk-bafybeihfazd6unen5ihx67g273pzahglqf23ygsfwpumtbv2q7psybiti4" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://matters.news/@weiluflame/%E5%9B%B4%E7%82%89%E5%A4%9C%E8%AF%9D-%E5%86%85%E5%9C%B0%E7%94%9F%E5%9C%A8%E6%B8%AF%E8%BA%AB%E4%BB%BD%E8%AE%A4%E5%90%8C-%E5%9B%B4%E7%82%89-cuhk-bafybeihfazd6unen5ihx67g273pzahglqf23ygsfwpumtbv2q7psybiti4" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://matters.news/@weiluflame/%E5%9B%B4%E7%82%89%E5%A4%9C%E8%AF%9D-%E5%86%85%E5%9C%B0%E7%94%9F%E5%9C%A8%E6%B8%AF%E8%BA%AB%E4%BB%BD%E8%AE%A4%E5%90%8C-%E5%9B%B4%E7%82%89-cuhk-bafybeihfazd6unen5ihx67g273pzahglqf23ygsfwpumtbv2q7psybiti4&text=围炉夜话：内地生在港身份认同｜围炉·CUHK&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://matters.news/@weiluflame/%E5%9B%B4%E7%82%89%E5%A4%9C%E8%AF%9D-%E5%86%85%E5%9C%B0%E7%94%9F%E5%9C%A8%E6%B8%AF%E8%BA%AB%E4%BB%BD%E8%AE%A4%E5%90%8C-%E5%9B%B4%E7%82%89-cuhk-bafybeihfazd6unen5ihx67g273pzahglqf23ygsfwpumtbv2q7psybiti4&title=围炉夜话：内地生在港身份认同｜围炉·CUHK" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://matters.news/@weiluflame/%E5%9B%B4%E7%82%89%E5%A4%9C%E8%AF%9D-%E5%86%85%E5%9C%B0%E7%94%9F%E5%9C%A8%E6%B8%AF%E8%BA%AB%E4%BB%BD%E8%AE%A4%E5%90%8C-%E5%9B%B4%E7%82%89-cuhk-bafybeihfazd6unen5ihx67g273pzahglqf23ygsfwpumtbv2q7psybiti4&title=围炉夜话：内地生在港身份认同｜围炉·CUHK" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=围炉夜话：内地生在港身份认同｜围炉·CUHK&body=
+围炉夜话：内地生在港身份认同｜围炉·CUHK
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://matters.news/@weiluflame/%E5%9B%B4%E7%82%89%E5%A4%9C%E8%AF%9D-%E5%86%85%E5%9C%B0%E7%94%9F%E5%9C%A8%E6%B8%AF%E8%BA%AB%E4%BB%BD%E8%AE%A4%E5%90%8C-%E5%9B%B4%E7%82%89-cuhk-bafybeihfazd6unen5ihx67g273pzahglqf23ygsfwpumtbv2q7psybiti4" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://matters.news/@weiluflame/%E5%9B%B4%E7%82%89%E5%A4%9C%E8%AF%9D-%E5%86%85%E5%9C%B0%E7%94%9F%E5%9C%A8%E6%B8%AF%E8%BA%AB%E4%BB%BD%E8%AE%A4%E5%90%8C-%E5%9B%B4%E7%82%89-cuhk-bafybeihfazd6unen5ihx67g273pzahglqf23ygsfwpumtbv2q7psybiti4&title=围炉夜话：内地生在港身份认同｜围炉·CUHK&caption=
+围炉夜话：内地生在港身份认同｜围炉·CUHK
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=围炉夜话：内地生在港身份认同｜围炉·CUHK&url=https://matters.news/@weiluflame/%E5%9B%B4%E7%82%89%E5%A4%9C%E8%AF%9D-%E5%86%85%E5%9C%B0%E7%94%9F%E5%9C%A8%E6%B8%AF%E8%BA%AB%E4%BB%BD%E8%AE%A4%E5%90%8C-%E5%9B%B4%E7%82%89-cuhk-bafybeihfazd6unen5ihx67g273pzahglqf23ygsfwpumtbv2q7psybiti4" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>围炉夜话：内地生在港身份认同｜围炉·CUHK</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2023-08-17
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: 围炉weiluflame</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#围炉">
+          围炉
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://matters.news/@weiluflame/%E5%9B%B4%E7%82%89%E5%A4%9C%E8%AF%9D-%E5%86%85%E5%9C%B0%E7%94%9F%E5%9C%A8%E6%B8%AF%E8%BA%AB%E4%BB%BD%E8%AE%A4%E5%90%8C-%E5%9B%B4%E7%82%89-cuhk-bafybeihfazd6unen5ihx67g273pzahglqf23ygsfwpumtbv2q7psybiti4" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="围炉的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#围炉 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1692280206000-->
+<p><a href="https://matters.news/@weiluflame/%E5%9B%B4%E7%82%89%E5%A4%9C%E8%AF%9D-%E5%86%85%E5%9C%B0%E7%94%9F%E5%9C%A8%E6%B8%AF%E8%BA%AB%E4%BB%BD%E8%AE%A4%E5%90%8C-%E5%9B%B4%E7%82%89-cuhk-bafybeihfazd6unen5ihx67g273pzahglqf23ygsfwpumtbv2q7psybiti4">围炉夜话：内地生在港身份认同｜围炉·CUHK</a>
+——</p>
+
+<div>
+  <p><strong>导语｜</strong>身份认同既是一个人对自我心理状态与人格特质的感受，又是特定社会语境下建构起来的人际关系坐标。一个人的身份来源于自我与他者的建构，诠释与表达着自身，在时间上具有的连续性与持久性。身处在全球化、现代化、多元化的开放世界中，我们的价值不断地由社会和文化世界塑造，身份也随着时空的推移、价值的交融而发生着潜移默化的转变。当他者文化不断进入到我们的生活语境，构建着我们生存世界的边界；当集体主义洪流不断地涌入我们的世界观，<strong>是选择接纳并融入，努力成为社群的一份子，凝聚起共同体的最大公约数，还是选择排斥与隔离，以局外人与独立个体之姿，走出一条独立自主的中道之路？</strong>作为在香港求学的内地生，这样的问题也构成他们生活的困惑。本期夜话，就让我们走进香港中文大学内地生的世界，来听一听他们的故事，走进他们的内心世界。</p>
+  <p></p>
+  <blockquote>
+    <p><strong>注释</strong>：<strong>local </strong>：香港本地生</p>
+    <p><strong>semi-local</strong>：具有香港与内地复合教育背景的学生</p>
+    <p><strong>dembeat</strong>：香港中文大学校园文化，即拍手脚踏地并叫口号的行为，“大群学生在搞活动的时候，穿着代表自己属会或学院T-shirt，然后一字排开，一边用脚大力踩地，用手配合打拍子，另一边大声叫喊口号。</p>
+    <p><strong>Ocamp</strong>：香港中文大学书院迎新营</p>
+    <p><strong>Mcamp</strong>：香港中文大学内地生迎新营</p>
+    <p><strong>组爸组妈</strong>：迎新营负责活动组织的学长学姐</p>
+    <p><strong>helper</strong>：迎新营参与活动组织的学长学姐</p>
+    <p><strong>夜话</strong>：中大式社交方式，主要谈论个人感情经历</p>
+    <p><strong>房game</strong>：在寝室里玩一系列小游戏</p>
+    <p><strong>脑残游戏</strong>：“没有逻辑”的用于社交的小游戏</p>
+    <p><strong>树洞：</strong>港中科三校微信匿名社交平台</p>
+  </blockquote>
+  <p></p>
+  <h2 id="section"><strong>多元化与割裂感</strong></h2>
+  <p><strong>HOST｜香港是一座国际化的城市，身处香港，我们时常能感受到多元文化的碰撞交融，建构起一种全球意识与开放格局。同时，香港也是一座极具有本土特色的城市，我们身处在一个粤语主导的语境中，感受到香港文化的烟火气与市井气。从内地来到香港，我们近距离地感受到文化差异与认知差别；在语言、价值观、生活方式以及教育背景上，感受到割裂感与多元化。差异性既构成了挑战，又引发我们去思考其背后的本质，请大家分享一下自己初到香港的经历，以及香港文化与中文大学带给你们的初印象与体验？</strong></p>
+  <p></p>
+  <p></p>
+  <p><strong>Claude｜</strong>来到中文大学，我感受最明显的是一种多元化与自由。在这里，不同肤色与种族，不同宗教与文化背景的同学齐聚一堂，分享个人独特的成长经验，追求完全不同的生活方式。作为世界国际化程度最高的地方之一，香港是一个极富多元化的城市，在这里能与形形色色的人相遇，与完全不同的灵魂交会。差异性与多元性带给我极大的冲击，中西文化在此奇妙交会。</p>
+  <p>从差异走向共融，我们所在的中文大学也有自己独具特色的“颓”文化，“dembeat”、“夜话”、“脑残游戏”、“房game”等一连串中大式社交方式，“组爸组妈”的传统，使得大一新生以一种特殊的“血缘关系”凝聚在一起，颇有中二青年的味道。在融入香港校园主流话语体系的过程中，我所接触到的很多事物相对于内地的求学经历而言是新奇而又陌生的，全新的价值观颠覆着我对自我的认知，促使我重估自身。作为year1的新生，从深圳营到书院大O，阴阳颠倒的作息，奇怪的“脑残游戏”在某种程度上解构着我过去的生活与人际关系。对情感恋爱经历的谈论与凝视，使得我也不得不重新审视自己的恋爱观（哈哈）。同时，来到香港，作为少数群体，就必须接受一种去中心化的叙事，这促使我不断思考个体的人生意义。<strong>而中大“颓”文化也使得自我的精英主义与功利主义价值不断下沉，融入全新的带有烟火气的生活。</strong></p>
+  <p><strong>Vic｜</strong>我感觉我们这届和你们这届的感受会差很多——我们其实相当于上了半年到一年多网课才真正来到香港，那种感觉就像你的肉身和你的精神处在两个分裂的时空里。一方面是香港的文化，比如像“dembeat”第一次接触是在zoom的线上Ocamp里面，你能想像那种奇特的场面吗？完全不知道这些人在做什么，无法理解其中的含义，给人莫名其妙的感觉。同时，你对香港的印象都来自于你的组爸妈，他们会跟你们说香港是怎样的，中大是怎样的。他们把这些经验先用文字或者语音的方式传入到你的脑海里，然后你是带着这样一种印象，过了一年才来到香港的，这是很奇妙的体验。</p>
+  <p>我对香港的印象也发生过蛮大的转变，在进入大学之前，我对香港的印象可能更多的是一些国际化的符号，比如说港产片、港星，流行文化，但是来了之后我会发现香港的市井气超乎我的想象。国际化与本土化这两个词在我的体验和我的想象中的排序十分不同。极高的粤语使用率、非常本土特色的街道、民俗以及意识形态，本土印象给我留下深刻印象。然而关于“国际化”，在我来到香港以后我会认为更像是一套官方叙事里的话语体系。同时它好像又跟我们想象中的国际化相异。可能也有地方差异，比如中环可能更国际化，沙田可能更本土化，从英语使用率、人种分布率就可见一斑。<strong>而且香港的国际化其实强调了更多偏向于欧洲中心或者说西方中心叙事的国际化，会给人这样的倾向性。</strong></p>
+  <p><strong>HOST｜所以说在你看来香港的国际化更偏于一种西方中心主义，在某种程度上，它并不像我们想象中的那样具有包容性与开放性？</strong></p>
+  <p><strong>Vic｜</strong>我个人感觉是这样的，或者说不必然是西方中心主义叙事，而是国际化宣传里出现的往往是白人面孔，比如说经济国际化，以及制度文化和西方接轨。而那些数量巨大的菲佣，以及印尼这些少数的群体，<strong>他们其实没有被镶嵌到这个国际化叙事中，未成为被官方宣传强调的一部分。</strong></p>
+  <p></p>
+  <h2 id="section-1"><strong>融入文化后的代入与反思</strong></h2>
+  <p><strong>HOST | </strong>来香港后大家对身处的时局有什么新的感受？</p>
+  <p><strong>Vic|</strong>对于政治的态度，大陆高校很流行<strong>“政治冷感”</strong>这个词。而在香港<strong>我们可能会更常态化地去讨论政治议题。</strong>另一方面是我认为内地生在香港中文大学的氛围给人一种非常强的家族感，就如组爸组妈这样的传统。而且内地生作为少数群体，有更多时间聚在一起，建立社交圈，这种舒适圈的建立与超脱，似乎又隔绝了与香港本地生的交流与融入。并且我们刚来的时候，疫情的隔绝其实更加明显——我们没有活动去接触到local，而现在有艺墟以及别的活动，大家也会在一起上课——当时我们真的没有什么途径，认识同学主要是靠微信，而非WhatsApp这种香港的社交平台。</p>
+  <p><strong>月豕｜</strong>我当时来的时候最大的感受是与组爸妈的初次接触，当组爸妈的称谓涌入我的生活，带给我的奇怪的感觉延续了很久，当时我觉得这是一种非常香港本土化的词汇，因为它把你所在的一个小组和一个家族的结构进行类比，带给我一种陌生感。然后我比Vic来香港要晚半年，对于学校政治环境的感受也蛮不一样的。</p>
+  <p><strong>Vic｜</strong>我刚来中大的时候，各种标语还没有被清理掉，很多地方还是会留下19年的痕迹，由于内地的舆论，那时候对local有一种恐惧感。内地主流媒体会铺天盖地地报道香港“社运”的负面政治新闻，听说会有中大本地生往内地生的被子上面浇凉水的事情发生。我在来香港之前，参加过一次上海的市聚，那时候同学们问学长的问题都是local会不会伤人之类的。那天学长姐很详细地跟我们说，社运不是你们想象的那样无差别攻击，其实local他们也只是学生，他们用的道具也只是从体育仓库里拿出来的，这些都与我们想象的完全不同。我记得有一位学长说中大操场烧起来那天他正好路过了，烤了一盒曲奇饼干，准备分给他的local舍友，这种画面其实还给人蛮不一样的印象。</p>
+  <p>后来我来到中大，我们宿舍一层只有我一个内地生，其他人全都是local。那时候挺无助的，同层楼的同学聚在一起都用粤语讲话，我也听不懂他们在说什么。后来他们主动来找我交流，跟我讲粤语，发现我听不懂以后就开始跟我讲普通话，我能感受到他们跟我聊天时那种试探的感觉，他们很怕问到什么我作为内地生会觉得敏感或者不合适的话。但是后来我们聊开了，我也有听到他们描述当时的香港是怎么样的，包括现在的是怎样的。一个舍友姐姐带我去她的宿舍，宿舍软木板上还挂着19年的标语，她和我说19年的时候她在社运里承担的是什么工作。当时的校园处于刚刚走出19年的氛围，许多标语没有擦除掉，包括山里的灯罩上、文化广场、大学站的位置会贴一些政治宣传标语。现在这些都早已不复存在了，而且清理得非常彻底。后来了解到二零年应该已经清理过一波，只留下了没有被撕干净的贴纸和角落里的一些东西。而且觉得校方这个风口把握得紧了很多，“红线”变得越来越近了。包括后来的解散学生会、山城角乐，还有民主墙，民女，好像所有东西都被抹去了。 作为长期在生活的学生，初来乍到，这种经历还是蛮不一样的。</p>
+  <p><strong>月豕｜</strong>刚来香港时，我会觉得一部分的自我其实是获得了某一方面的解放和自由。因为相对于内地的舆论环境来说，这边确实是会放松很多。但是后来，慢慢地你会有一种很强烈的感觉，这个地方在不断地陷没。一开始是国殇之柱被搬掉，然后是民女被移除，接着是一系列的本地媒体新闻的立场转向，这些你曾经习以为常的东西真的是一夜之间被“围剿”了。我自己原本生长在一个关系更加紧密、空间更加紧凑的地方，让我觉得难以适从的感觉是，<strong>这样一个我曾视为自由的地方，这个曾让我能够呼吸到一点自由空气的空间，在不断地异化，不断地紧缩。</strong>这个时候的我突然间就明白了很多local朋友们的感受，至少我觉得我可以和他们共情，我会模拟自己所身处的环境，观察这半年来所看到这些事物，代入他们从小到大生长的语境，经历的时代变迁，体会他们所经历的这种巨大创痛。那个时候你才可以真正地去理解他们的心声。因为一开始你真的只是一个旁观者，一个局外人，而我，作为一个在内地上网课的人，看着所有这些交叉混杂的叙事。我在其中感受到的是这个事情不是那么简单的，<strong>它并不是非黑即白的，它是复杂的，需要我们从不同的角度去理解与认识。</strong>当时的香港人也有自己的诉求，有自己的文化传统，他们也有自己的不一样的叙事。这套叙事是你在内地很难以去共情的。我觉得很多时候这种地域政治上的区隔能够带来一种心理文化上的区隔，<strong>这种边界感确确实实是被人为地加固了很多。</strong>而今年我回去隔离的感受，就是我一回到上海，突然间就跟香港所有的社会与新闻在一夜之间隔绝了。</p>
+  <p></p>
+  <h2 id="section-2"><strong>“理想与精神仿佛又重现了，不会真正地消失”</strong></h2>
+  <p><strong>春雪｜</strong>个人经历，其实在一九年那段时间里，我基本上会一直了解香港的时局，印象很深的一个视频是当时学校开毕业典礼的场面。记得一个片段，所有学生都转过身去，唱着那首经典的歌曲。我是能与香港人共情的，因为自己其实分享着一部分他们的价值观与追求。在内地你所想表达的东西一直是被压抑着的，而这里能够带给我一种全新意义上的解放。你会共情于这样一群学生，他们可以大声地唱他们所追求、所热爱的，自由的奋斗与追求。我当时深受感动。其实我周围的同学也会了解香港时局，他们会到香港社交平台上去骂那些香港社运人士。而我作为一个政治上的非主流观念持有者，因为当时自己看了很多不一样视角的报道，想要试图跟他们解释香港人心目中的民主和自由，但是好像没有人会理解这一点，<strong>人们往往都受困于自己的有限的视角。</strong>还记得苹果日报，狮子山精神，当时市民全部出来点上一盏盏明灯，寄托美好理想。时过境迁，当我来到学校之后发现好像这一切都已不再，唯一可以看到好像曾经发生过这些事情的，是我们书院的残留的民主墙。之前在洗衣房那边有一本周保松写的《我们的黄金时代》，<strong>我当时看了觉得自己过去的记忆又复活了，理想与精神仿佛又重现了。</strong>在听到你们分享的一些事情之后，我会觉得原来他们还是有痕迹的，这些东西还是依然在我们的记忆中，不会真正地消失。</p>
+  <p><strong>HOST｜身处于香港纷繁复杂的文化语境，听闻新闻媒体的叙事，以及政治的宣传之后，我们该如何找准自我定位，又是怎样建构自我的身份，找寻自我的身份认同？</strong></p>
+  <p><strong>张乙儿｜</strong>我觉得我的身份认同的建构都是在<strong>我和具体的人的交流上出现差异的时刻产生的。</strong>我觉得身份认同就是我的标签，它一定是属于某一个群体，比如说我是一位中国女性，那么我一定是有中国这个和外国相对的群体概念标签的。我在与香港人接触过程中产生了mainlander的身份认同。而当我和一些外国人，比如北欧的交换生相处的时候，我又会产生那种亚洲人的身份感。我刚来到香港的时候，漫天的标语，粤语的环境，自我身份不断地建构与模糊着。产生差异的时刻就如对于社运的感情。身处内地，我觉得自己可以理性地看待这件事情，但是感情是缺失的。在大陆很难会对他们产生强烈的共情。但是我当时作为大一新生，刚到香港的时候，我会觉得感性上是认可这个运动，可以与他们感同身受。但是理性上更多的是排斥的。当时发生过很多互相歧视的事件，就比如当时有一个内地生把国旗挂在窗户上，就在网络媒体和树洞上遭到过特别强的网暴。当时有很多local去砸他的宿舍门，以至于那个内地生被迫搬走。当时发生的这种事情还有很多，他们在树洞中骂的永远是内地生群体，而非具体个人。包括当时内地生对香港人也是特别排斥。在微信树洞里，总是充斥强烈的的歧视与攻击。</p>
+  <p>然而，在我看来，这种互相的歧视其实都是群体和群体之间的，在我认识的任何具体的人的时候，我都没有感受到歧视。<strong>我会觉得他们其实在攻击的是一种身份，以及身份背后依托的群体。</strong>身处大陆，我对香港有的不过是一个标签性模糊的认识，但是当我奔赴香港，在和具体的人接触的时候，我会觉得自己很难再把他们归类到某一个群体之下，这是一个多元化的群体，就像semi-local，local，内地生，以及其他不同国家的人等等，然后你会开始觉得他们不再是香港人，而是属于很多小的集体。身份被打破了，你不再局限于用一个固定的香港人的标签去看他们。</p>
+  <p>另外我想解构一下香港的多元性。这个多元性体现在其较少地受到一套统一价值的规训。比如在情侣关系中，我们的文化往往是，女生生气却说自己没有生气，然后需要男生需要去观察与猜测她的心思。礼让也是我们文化中的传统。我们常常“口是心非“，表达拒绝其实是在掩饰内心原本的渴望。在我看来这可能会导致个人权利的丧失，因为它其实剥夺了你表达自我的权利，就如性侵案件中女性话语的缺席。和交换生相处也是多元文化差异产生的时刻，我们似乎往往会主动去揣摩对方的心思，而他们却更多地尊重你的想法，而不会有先在文化的代入与强迫，尊重多元性正是自我身份，作为亚洲人身份认同产生的时刻。这是我对解构多元的看法。</p>
+  <p><strong>HOST｜所以那种对于多元化的解构可能是相对于内地的一种单向度的价值叙事。它是一种多重身份交织，对于多元价值的肯定，尊重多元性，是在多元身份背景下交流沟通的重要原则。</strong></p>
+  <p></p>
+  <h2 id="section-3"><strong>剥开标签化的身份叙事</strong></h2>
+  <p><strong>HOST｜剥开标签化的身份叙事，走进具体与真实的自我世界，你是如何认识你自己的？</strong></p>
+  <p><strong>月豕｜</strong>在上大学之前，我理想中的大学生活状态是自己能跟不同国家、身份的人一起交流、聊天。但是当我进入大学，从制度或者组织层面上，就已经被划分好了身份。不同身份的同学被预先分到了不同的Ocamp，这一点上，你是没有选择自由的。而且作为刚入学的新生，你也不具备相关的信息渠道，无法获得充分选择的权利，于是自然而然地被划分到了内地生的群体之中。其次，内地生、local这两个词本身就带有很强烈的建构性与排他性。我时常反思为什么我们在平常的叙述当中总会称对方为local，所有的称谓似乎都在以一种很隐秘却坚固的方式去强化你和另外一个群体之间的区别。</p>
+  <p><strong>张乙儿｜</strong>我特别想补充一点——<strong>内地生这个词的相对概念是local，而中国的相对概念是外国。</strong>因为我已经大四了，当我开始渐渐认识更多的local，semi-local、交换生和其他已经工作的香港人之后，我就会觉得我不再属于内地生而更属于中国人这个概念。我不再属于这样二元对立的叙事之中，而融入到国际化的叙事体系里。因为我在中国长大，所以我获得中国人这个身份，与之相对应的就是欧洲、美国、马来西亚等等其他地区或国家的人。比如我在和我的马来西亚室友交流时，我会说I’m from China,而不会说mainlandChina，<strong>跳出mainland和local的二元叙事，用更大的身份坐标标记自我。因此这个二元叙事在我的生活中不断消解。</strong></p>
+  <p></p>
+  <h2 id="section-4"><strong>自我身份的重构</strong></h2>
+  <p><strong>HOST｜所以你的成长经历，是否是一个不断建构新的自我身份的过程？</strong></p>
+  <p><strong>张乙儿｜</strong>不是，我觉得我是从内地生这个标签逃离回中国这个标签了。因为在我刚来的时候，我其实是有两层标签，我既是一个中国人，也是一个内地生。但四年之后，我中国人那个标签依然还在，<strong>内地生这个标签渐渐从我的生活里消失了</strong>。</p>
+  <p><strong>人尹｜</strong>我的感受是，作为在香港求学的内地生，相比于留在大陆的同学而言，这又是一层新的身份。我今天早上还在和我的朋友说，我平等地怜悯每一个要上思政课的人。因为我们的确来到香港之后享受到了一种和内地完全不同的大学生活，就是他们在养着值班狗，每天在寝室里上课，被数不清的思政课“压迫”的时候，香港学生的身份会给我以完全不同的人生经历与体验。</p>
+  <p>然后是对于local的“污名化”问题，我身边的一个semi-local较早来的时候，会跟我说他中学的时候承受了怎样的校园暴力，香港的local男都不是什么好东西。这种群体化的标签确实影响了我的生活。诚然我现在对local整个群体的印象莫名其妙，今天从大学站出来就看到local们dembeat，在寝室里半夜三点钟听到一声大吼，这些行为似乎都与local这个群体划上了等号，似乎只有他们才会这样做。但是<strong>跟个体交流的时候当然是另一种感受。</strong>当我带着偏见去和个人相处的时候，我觉得自己已经是带着恶意去揣测别人了，我有一个课友是local，在我们组成小组的时候，原本大家都说普通话，但他来了之后就一直坚定地说粤语，也不怎么理我们。我当时会觉得他也许是歧视内地生。后来才发现他的普通话真的不太好，但是他还是想要跟我们交流的。我们习惯于先用说话的语言去定义他人，不会尝试用别的方式再去理解他们的行为。<strong>带着这种先入为主的恶意与偏见去与人相处，会让我们丧失掉很多与他人正常交流的机会。</strong></p>
+  <p><strong>萨宁｜</strong>人尹说她是带着某种程度的偏见去看待别人，但我又感觉我是带着某种对自我身份的反叛来看待自己的。dembeat很像内地的一些团体操之类，我会觉得好集体主义，令我十分反感。我的舍友是个台湾人，她会以一种很负面，我所否认的一套价值观来评判一些事，我会觉得虽然这是一件挺没有道德的事情，但是我尊重个体差异与表达自由。我感觉自己一直在很努力地去反叛我过去的那套身份认同，即使我并不认同那些加诸于内地生之上的细碎的标签。但是由于预先设定的存在，我就会非常努力地去反叛，拨开高考教育背景，人生经历所带给我的既定人设，成为全新的独特的自己。虽然它给我带来很多困扰，但是我会努力去反叛它，成为真正的自己。</p>
+  <p><strong>月豕｜</strong>我觉得这是一种很正常的趋势，因为你曾受到这一套体系（文化）和这一套价值观念的规训和惩戒，而这种压迫太深重了，所以你会非常想要去反叛，这种很强的抵抗的冲动是自然的。很多时候我能够感受到外界尤其是你所身处的团体正在建构一种体系——因为学长姐会和你们说local怎么样，而不是说书院里面、楼底下可能会有一些没有素质的人，他们使用的指代都是local怎么样，当local长时间和这样一些很负面的标签联系在一起，内地生又跟自己的这一套特殊的行为联系在一起的时候，你就会无可避免地带有这种偏见。</p>
+  <p><strong>鱼鱼｜</strong>我可能是以逃离的心态去审视过去的，二二年内地的隔离事件之后，我会很想在这里找到一个新的自我，一个能够表达的空间。所以会尝试和local经常沟通。Local对内地生也有一套先在的成见。他们会说发现你们这边的内地生里面只有你一个人跟我们聊天。内地生是不是都是一些抱团在一起的人？不过也确实如此，据我观察是这样。人们形成一个个自己的小圈子。我们这层宿舍楼，除了我以外，所有内地女生都玩的非常好，是一个社交圈子。然后他们也会以local称呼他者。而local之间区分其实是非常大的。而大家很喜欢开地图炮，去用一个标签定义所有的人。</p>
+  <p>我之前做的课题就是“在港非本地生的身份认同”。我去采访了很多本地医生，问到底是怎么看待自己的身份认同。有一个很有意思的说法就是他们认为自己是一个泛中国人。这其实也是在消解差异。虽然语言不一样，但粤语也是一种中国的方言。<strong>另外一个很有意思的就是Vic说自己是一个社会学的人，这是另一种学科意义上的身份认同。<a target="_blank" rel="noopener noreferrer nofollow" class="msocomanchor" href="https://matters.news/@weiluflame/%E5%9B%B4%E7%82%89%E5%A4%9C%E8%AF%9D-%E5%86%85%E5%9C%B0%E7%94%9F%E5%9C%A8%E6%B8%AF%E8%BA%AB%E4%BB%BD%E8%AE%A4%E5%90%8C-%E5%9B%B4%E7%82%89-cuhk-bafybeihfazd6unen5ihx67g273pzahglqf23ygsfwpumtbv2q7psybiti4#_msocom_14">[14]</a> </strong>我觉得我们不一定非要回归那条熟悉的鄙视链，国际生高于local，高于内地生。不需要有一种内地生羞耻，或者对local的排斥，找到一个舒服的区间就好了。我最近在上的人类学的课讲到身份认同问题：<strong>我们需要一个身份认同吗，到底是血液带给你属于某个国家的身份认同，还是在一个global supermarket里面挑选了一个囊括自己认同价值观的国家？这是一个值得思考的问题。</strong></p>
+  <p><strong>月豕｜</strong>我觉得我自己身份认同的无力之处在于，你很难去选择自己的身份，你难以自行选择自己喜欢的价值观和价值体系。比如说我可能开玩笑说我的家乡在荷兰，但是我不可能真正地自认为是荷兰人。这是很现实、很无力的一件事情，你难以摆脱这套价值体系、文化与叙述对自己的影响。<strong>你似乎没有办法拥有选择自己身份认同的绝对的自主权和能动性。</strong></p>
+  <p><strong>张乙儿｜</strong>之所以歧视会产生，就是因为我们会对某一个群体产生一些偏见。比如说我们认为内地生这个群体，就是对一个复杂整体加以简洁化的描述。这里就会抽象出一些很模糊笼统的概念，比如说抱团，学习很卷，<strong>造成歧视的原因可能是我们用很简单、很笼统的一些词语去概括一个群体</strong>，随之我们会对这个群体产生歧视。但是当我们细化到每一个具体的人的时候，当我们在和这些人的交流的时候，你就会理解这些抱团、学习努力可能是真实存在的，但是如果你足以能够和这里每一个人进行充分地对话和共情，你会发现<strong>他们背后的人生承载着非常丰富的内容，无法用任何简单的标签去定义与概括。</strong>所以当我们在试图简化这个沟通的时候，我们就会产生很多这样的歧视。那我们还需要身份认同吗？其实我的感受是我觉得完全不需要它，但是它可以存在。<strong>当身份认同不再变成一个污名化的工具，而变成一个互相理解的通道时，身份感得以产生。</strong>当我知道你是中国人这个身份的时候，我可以去试图理解你那些被内化的体制化的一些缺点，或者无奈，也可以去理解你的感情，你对特殊意象的执着。<strong>当这个身份不再被污名化，不再变成攻击一个群体的匕首，而变成一种沟通的方式，一个互相理解的平台的时候，这个身份则变得很有价值。</strong></p>
+  <p><strong>Vic｜</strong>所以我觉得这两个层次就是高度交叉在一起的。如果你能从中国人中解读出整个历史社会的背景，同时会不可避免地对他产生一种偏见。就像是需不需要有国家这个概念去标记身份，我们讲性别问题的时候也在说我们到底要不要有性别的分类。<strong>我觉得如果真的要解决这个困境，可能一方面是我们要有足够丰富的层次或类别，足以让他成为一个立体的人，而不是让一个标签概括了他所有特质。 </strong>比如说在他的中国人身份之上，他可能还有一个政治光谱的身份，他可能还有一个更加具象的阶级身份或者性别身份。可能很难讲整个社会要取消这种类别，但是我们从人的角度出发，我们应该怎么理解跟我们一样的人，我们是看到那些最容易看到的国家和身份，还是我们从很多的层次、不同的光谱式的去理解。</p>
+  <p></p>
+  <h2 id="section-5"><strong>“我是谁？”</strong></h2>
+  <p><strong>HOST｜来到香港，身处于国际化与本土化交融的多元文化语境中，一方面似乎难以与过去的价值文化割裂，另一方面又不断地接受着全新思想的塑造。是作为理性的局外人或是积极的融入者，这似乎取决于你的价值向度。那么，我们如何在纷繁复杂的文化语境下找准自我定位，又是怎样在经历这些新闻媒体的叙事，以及政治的宣传之后，去建构自我的身份，找寻自我的身份认同。虽然社会和文化不断地在建构着我们的身份与认同，但是我们似乎又始终是在追寻着一个自我的真实存在，作为鲜活个体人的定位。大家是如何来定义自我与诠释自我的？如何去回答“我是谁“的问题？</strong></p>
+  <p><strong>马也｜</strong>每个人都不可避免地会受到国家，历史或者社会语境的影响，所以这可能也是为什么我们会不喜欢或者不希望有身份认同，所谓他者的建构。但是很多时候我们还是忍不住有一种身份认同，因为我们自己的生命跟这些东西纠缠不清，难解难分。就比如生长在中国或是亚洲，我们所在的国家对我们的成长历程影响太大，这就不可避地的会造成群体身份特征，或我们无法割舍的身份，因为不管怎么样，那有可能会是对自我的一种背离。即使选择到国外，加入一个新的国籍，我们还是会承载着我们成长背景。</p>
+  <p><strong>FaFAiGai｜</strong>我的感受和你特别像，因为<strong>个人是由这些要素构成的，如果你还爱自己的话，你就在某种意义上是爱这些事物的</strong>。我现在的感受是我有一种作为中国人的深深的自豪感。这种自豪感不是来自于我们国家富强、制度先进，民族自由，也并非来自于中国文化的优势，而来自于一种文化意义上的归属感与认同感。</p>
+  <p><strong>张乙儿｜</strong>我其实非常理解<strong>每个身份认同背后所依托的是一种权利、一种情感、一种文化、一种口音，一种经历，而你就是所有这一切</strong>。但是我觉得自己可能不愿属于任何群体，<strong>我就是我，独特的自己</strong>。然而，不想再有任何身份认同，并不代表我否认我的身份，我仍具有曾经归属过的这些团体所带来的文化、感情与思考。<strong>我只是想说自己不想再属于他们了，不想再变成这个团体下属的一个成员或者怎样， 然后也有些人不希望属于某个团体，我觉得这只是一种选择之分。</strong></p>
+  <p><strong>月豕</strong><a target="_blank" rel="noopener noreferrer nofollow" class="msocomanchor" href="https://matters.news/@weiluflame/%E5%9B%B4%E7%82%89%E5%A4%9C%E8%AF%9D-%E5%86%85%E5%9C%B0%E7%94%9F%E5%9C%A8%E6%B8%AF%E8%BA%AB%E4%BB%BD%E8%AE%A4%E5%90%8C-%E5%9B%B4%E7%82%89-cuhk-bafybeihfazd6unen5ihx67g273pzahglqf23ygsfwpumtbv2q7psybiti4#_msocom_16">[16]</a> <strong>｜</strong>关于身份认同的问题，我想插入的是，语言实际上是你认知世界的框架，你是如何使用这门语言，在某种程度上就决定了你如何认识这个世界，以及建构自我。就比如英语社科上的tutorial，我必须要使用英文来表达和思考。而外语的思维方式会使自己感到迟钝。我只会一些日常化的、生活层面的描述，却没有办法去熟练运用英语思考和表达丰富而真实的自身。比如我们现在的性格、思考方式与表达方式，其实都是完全由中国这个文化所构建起来的。所以如果说要抛除掉这个身份的话，你会觉得自己是无所依附的。另外就像女性主义对自我文化的建构，<strong>你的不同的位置会让你有不一样的视角</strong>。我不是为这个体系去辩护，但是在这样一个体系当中，我会变得更加敏锐，可能会对某一些特殊的议题有自己的个性化思考。就比如一个欧洲的白人男性，他和你的视角肯定是不一样的，包括他所关注的事物，他的敏感度。这个时候我并不会觉得敏感度是一个很让我痛苦的点，但是我在痛苦的过程当中，我会因为我获得了这样一个更加洒脱、更加细微、更加具有对人的同理心和共情心的视角，而感到开心。</p>
+  <p>同时，我会发现我们零八年奥运会左右上小学的这一代人，我们对这个世界认知建立的时间正是一个全球化浪潮的过程。我们这一代人成长起来，我们的身份认同可能就更加会觉得世界是处在全球化的过程中，然后每个人都是朝着世界公民的方向前行，经济在高速发展，整体上政策具有温和性，世界高速进步，国家之间的壁垒也没有那么高，整个世界的外部环境的那种压力是没有那么大的，所以这个时候你觉得自己跟世界是可以接轨的。但是这几年会慢慢感受到民族主义兴起，经济全球化的下行，然后导致一些政策上的变化。 它其实是应对这些外部性的压力而产生的东西。</p>
+  <p><strong>Vinyl｜</strong>其实我大学的前两年一直是一种很漂泊的状态，因为一会儿网课，一会儿线下，没有一直呆在上海或香港。但是今年我回到学校突然感觉到了非常不一样的感觉，我发现自己在学校一下子有归属感了，这种归属感是从我与内地生和中国人的身份的和解开始的。因为之前会觉得可能更想尝试跟其他群体接触，之前又没有那么多的机会，然后我又会选择一种更加模糊身份认同边界的方式跟别人交流。即使我很不舒服，交流的时候还是多用英语，因为我会想无论粤语或普通话的方式都太过偏向性。那我们可以选一种更中立的方式。但今年我在能用普通话的地方，我就不会用“不舒服”的语言交流。<strong>我希望我们都用最熟悉的语言来表达，没必要和自己的身份过不去。因为我觉得自己没有办法割舍我的的过往，可能有一些我感到痛苦的事情，而我所有痛苦的来源都是这些身份认同给我的。但是同时我觉得它是促进我思考的东西，它是我整个思维框架的基石。</strong></p>
+  <p>我觉得不必要强迫自己去学粤语，以自己最舒服的方式在一个地方生活就好。也许这种感觉其实就是跟我自己和解，因为我始终不觉得我真正属于一个内地生群体，因为我觉得内地生群体太大了，而我是被归类到这里面的。但是如果说我属于它，那感觉就是，<strong>我跟它有很丰满的连接，有非常紧密的关系。但我又觉得不是，它只是一个方便的归类，我对它没有百分百的认同，或者说只是一个想象的共同体。</strong></p>
+  <p><strong>FaFAiGai｜</strong>林青霞演了很多很多香港电影，但她在电影里面跟别人对话的时候，都是别人一句粤语她一句普通话。一开始我觉得好奇怪，怎么是这样呢，感觉很难以理解，但我现在觉得这是一种很好的状态，正所谓和而不同。身处在一个跨文化、跨语言的背景下，你表达你自己的想法就挺好的，不必随波逐流。</p>
+  <p><strong>Vinyl｜</strong>其实和自己和解真的很重要，不必把自己塞进某个类别、某个刻板印象之中，而是<strong>我可以让自己的根扎在那里，而我的人不一定会长在那里。</strong></p>
+  <p><strong>月豕｜</strong>补充一下，就是我觉得很多时候用普通话来表达，在现在的状态下，它似乎又不是一件完全舒服的事，因为很多时候我们的语言文化在这种学术生活语境下都是缺席的，你会觉得它在你最熟悉的这一套经验语言当中是完全缺位的，所以你很多时候会被迫的陷在一种多语言交融的语境之中。你经常会在一个中文的句式和语法当中夹杂着英语的专有词汇，或者说在一个英语的逻辑框架当中，夹杂着一些中文的连接词，尽管这是经常被人诟病的一件事情，但我觉得它其实是没有办法的。因为一方面你最熟悉的认知世界的框架是由你最熟悉的语言搭建起来的，但是在后天你去习得的这些东西，这些你所认同的价值，它又是以另外一套语言在建构，所以你就会把这两者混杂在一起。</p>
+  <p></p>
+  <h2 id="section-6"><strong>分歧与矛盾｜理解与沟通</strong></h2>
+  <p><strong>HOST｜个人似乎很难逃出一个主流文化的力场，我们似乎又始终身处在不同文化的交融与碰撞之中。我们被群体文化所塑造，一方面保持着自我个人的独立性和价值追求，但另一方面我们又很难去规避一些群体认同。可能在交互或者对话的语境之中，我们也很难去避免为了一个群体的认同而掌握新语言，新的价值观。不同的教育背景使得群体的价值观产生分歧与隔阂，看待同样的问题，不同背景下的人往往有着不同的认识的逻辑、不同的价值体系。这样的分歧与矛盾如何找到沟通与理解的手段？</strong><a target="_blank" rel="noopener noreferrer nofollow" class="msocomanchor" href="https://matters.news/@weiluflame/%E5%9B%B4%E7%82%89%E5%A4%9C%E8%AF%9D-%E5%86%85%E5%9C%B0%E7%94%9F%E5%9C%A8%E6%B8%AF%E8%BA%AB%E4%BB%BD%E8%AE%A4%E5%90%8C-%E5%9B%B4%E7%82%89-cuhk-bafybeihfazd6unen5ihx67g273pzahglqf23ygsfwpumtbv2q7psybiti4#_msocom_17">[17]</a> </p>
+  <p><strong>马也｜</strong>我觉得<strong>应该尝试去表达与沟通</strong>。首先<strong>尝试去沟通不一定就代表你要百分百去理解，或者体会他个人的成长经历，成长环境等等</strong>，毕竟这几乎是不可能的。其次这是一个需要人与人之间真诚的事情。我发现自己可能渐渐失去这种真诚的能力了。可能审查制度或者各种权力在影响这件事，就是人与人之间的交流越来越不真诚。<a target="_blank" rel="noopener noreferrer nofollow" class="msocomanchor" href="https://matters.news/@weiluflame/%E5%9B%B4%E7%82%89%E5%A4%9C%E8%AF%9D-%E5%86%85%E5%9C%B0%E7%94%9F%E5%9C%A8%E6%B8%AF%E8%BA%AB%E4%BB%BD%E8%AE%A4%E5%90%8C-%E5%9B%B4%E7%82%89-cuhk-bafybeihfazd6unen5ihx67g273pzahglqf23ygsfwpumtbv2q7psybiti4#_msocom_18">[18]</a> 我们之间可能会有很大的差别，但是就算有很大的差别，我们也是可以去交流的。而真诚是有效沟通的前提。如果我们不去沟通或者不去真诚地沟通，其实是在加剧群体的不信任感与矛盾。</p>
+  <p><strong>Vinyl｜</strong>我感觉沟通很看环境，很看人，也很看平台，面对面的沟通更加容易。而网络上的交流由于审查机制和平台的作用，很多时候你就会需要用很简约的方式去做一些抽象化描述。<a target="_blank" rel="noopener noreferrer nofollow" class="msocomanchor" href="https://matters.news/@weiluflame/%E5%9B%B4%E7%82%89%E5%A4%9C%E8%AF%9D-%E5%86%85%E5%9C%B0%E7%94%9F%E5%9C%A8%E6%B8%AF%E8%BA%AB%E4%BB%BD%E8%AE%A4%E5%90%8C-%E5%9B%B4%E7%82%89-cuhk-bafybeihfazd6unen5ihx67g273pzahglqf23ygsfwpumtbv2q7psybiti4#_msocom_19">[19]</a> <strong>这似乎是人变得阴阳怪气的主要原因，因为阴阳怪气比较安全，又带有一种小众独有的幽默感，它有非常特殊的历史文化生活因素</strong>。然后通过这个事情，我也是在大学才习得的能力，可能遇到了更多可以深入聊天的人，就是你们是把自己的成长历程剖开，或者说把自己的所有思想剖开，然后看这个世界到底是怎么样的。</p>
+  <p><strong>月豕｜</strong>我觉得其实我们从小到大所处的这个社会没有强调沟通这件事，社会其实没有在真正强调一种真诚沟通的重要性，它所关于沟通的都是一些技巧，并不是发自本心的一种想要与人展现我的世界和你的世界的这样一种灵魂交流，我们的沟通往往是考虑怎样可以更好地说服对方，怎么可以让对方放下防备。所以我觉得我们所身处的社会没有强调正确沟通的重要性。第二点就是真诚的沟通和理解其实是一件蛮累的事情，我觉得这是一个很现实的问题，现实它是怎样去约束和限制了我们的这种沟通和表达，这是一个困难。</p>
+  <p><strong>Vic｜</strong>我觉得<strong>很多时候我们的沟通表达更像是一种社会化的表演</strong>。我们身处的社会语境预设了一套标准的沟通模式，我也就是在表演一套对的观点。比如说当你在谈论国际政治、意识形态，我们对某件事的看法的时候，它是有一套预设的对错在那里，或者说有一套应然的表达存在。这不仅是中国问题——比如西方的政治正确，你表达的究竟是你个人内心的经验式的感悟，还是说一种立场、一种悬浮在其上的事物？我觉得<strong>在我们的语境下，内心深度的个人经验式表达是较少的，我们较少去真正地探讨我的生命经验是什么，以及我作为一个渺小的个体，我微不足道的个体经验是什么</strong>。因为<strong>个体经验往往是被污名化的</strong>。</p>
+  <p><strong>HOST｜也就是这个主流话语，它或许会成为我们自由真诚表达的一种制约。 或者说这套范式规范着我们的个体经验。但是那些偏离的、幽暗隐秘、不为人知的个体经验的表达，可能就会缺乏一个有效沟通的场合。但这样的主流话语或者政治正确，似乎在每一个文化语境之下都存在着，在不同国家中都会有。</strong></p>
+  <p><strong>月豕｜</strong>我感觉这不是政治正确的意思，政治正确是另外一套体系了，这更多的关系到一种预先社会规范和期待。一种社会所期望的正确的表达。</p>
+  <p><strong>Vic｜</strong>其实我们在向别人表达的时候就如同我们在面试，好像有一套标准模板。比如说我要回忆自己最遗憾的一件事。这种场合会很像一个面试，它需要给出一个简约化的答案。</p>
+  <p>但是我表达的可能就是在于我们到底有没有重视过个体经验这件事。这又回到了看见具体的人的问题。</p>
+  <p><strong>Shy｜</strong>我其实对刚才说的面试化表达还挺有同感的，就比如说之前我在toastmaster club做演讲。当时认为好的演讲应该是能跟别人去共情，讲一些自己的经历，而我们的个人化经历却往往需要迎合一个普遍的期待，比如说这是我的一个失败经历，最终我要通过失败的经历得到一个正确的经验，我要从中吸取经验，我被期待去做的事情正是此。<strong>我们很多表达其实是被期待说出一个普遍认为正确的东西，我们的表达是不允许我们说出比如我们就是懒惰，我们就是自私</strong>，我们不允许这么说，即使是我们内心的真实想法。</p>
+  <p> <strong>HOST|从差异走向共融，个人身份在建构与消解中不断地模糊与重现，在纷繁复杂的多元语境下，寻找自我身份的坐标，表达真实的自我，寻找一种交流沟通的有效方式，凝聚起文化价值的基础与共识，从而走出标签化与刻板印象的囹圄，认识真实而具体的个体。今晚的夜话到此结束。谢谢大家的参与。</strong></p>
+  <hr />
+  <p></p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#围炉 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2024-10-03/%E5%AF%B9%E8%AF%9D%E5%A5%B3%E6%80%A7%E6%B0%91%E5%B7%A5-%E5%9C%A8%E5%9F%8E%E5%B8%82%E9%87%8C-%E5%9C%A8%E5%B7%A5%E4%BD%9C%E5%92%8C%E5%AE%B6%E5%BA%AD%E4%B9%8B%E9%97%B4-%E5%9B%B4%E7%82%89-CU/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2021-03-23/%E5%AF%B9%E8%AF%9D%E9%BB%84%E6%B3%93%E7%BF%94-%E8%87%B4%E5%8A%9B%E4%BA%8E%E5%9F%B9%E8%82%B2%E4%B8%96%E7%95%8C%E5%85%AC%E6%B0%91%E7%9A%84%E4%B8%AD%E5%8D%97%E5%B1%8B%E5%88%9B%E5%A7%8B%E4%BA%BA-%E8%AE%B2%E5%BA%A7%E6%91%98%E8%A6%81/">最早</a>--</span>
+    
+      <li>
+        <time>2023-09-08</time>
+        <a href="https://nodebe4.github.io/opinion/2023-09-08/%E5%AF%B9%E8%AF%9D%E7%9F%B3%E7%A3%8A-%E4%BB%A5%E7%BE%8E%E8%82%B2%E5%BE%B7%E6%A0%91%E4%BA%BA-%E6%B0%91%E5%8A%9E%E5%AD%A6%E6%A0%A1%E7%9A%84%E7%BE%8E%E8%82%B2%E8%B7%B5%E8%A1%8C%E8%B7%AF-%E5%9B%B4%E7%82%89-NYUSH/">
+          对话石磊 ： 以美育德树人，民办学校的美育践行路 ｜ 围炉·NYUSH
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-08-18</time>
+        <a href="https://nodebe4.github.io/opinion/2023-08-18/%E5%9B%B4%E7%82%89%E5%A4%9C%E8%AF%9D-%E5%BD%93-%E6%B6%A6-%E6%88%90%E4%B8%BA%E6%98%BE%E5%AD%A6-%E6%B5%81%E5%8A%A8%E8%80%85%E8%83%BD%E5%90%A6%E5%88%B0%E8%BE%BE%E4%B9%8C%E6%89%98%E9%82%A6-%E5%9B%B4%E7%82%89-FDU/">
+          围炉夜话：当“润”成为显学：流动者能否到达乌托邦 | 围炉 · FDU
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-08-01</time>
+        <a href="https://nodebe4.github.io/opinion/2023-08-01/%E7%96%AB%E5%B9%B4%E5%90%8E(%E4%B8%89/">
+          疫年后(三）
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-07-05</time>
+        <a href="https://nodebe4.github.io/opinion/2023-07-05/%E5%AF%B9%E8%AF%9D%E7%BF%9F%E6%97%BB%E6%98%8A-%E4%BB%8E%E8%90%A8%E6%BB%A1%E4%B8%BB%E4%B9%89%E5%88%B0%E5%AE%97%E6%95%99%E7%A0%94%E7%A9%B6-%E5%9B%B4%E7%82%89-NYUSH-X-%E4%B8%8A%E7%BA%BDICA/">
+          对话翟旻昊：从萨满主义到宗教研究｜围炉 · NYUSH X 上纽ICA
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2023-08-15/Disney-s-Taylor-Swift-Era/">
+            前一篇：Disney’s Taylor Swift Era
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2023-08-18/%E5%9B%B4%E7%82%89%E5%A4%9C%E8%AF%9D-%E5%BD%93-%E6%B6%A6-%E6%88%90%E4%B8%BA%E6%98%BE%E5%AD%A6-%E6%B5%81%E5%8A%A8%E8%80%85%E8%83%BD%E5%90%A6%E5%88%B0%E8%BE%BE%E4%B9%8C%E6%89%98%E9%82%A6-%E5%9B%B4%E7%82%89-FDU/">
+            後一篇：围炉夜话：当“润”成为显学：流动者能否到达乌托邦 | 围炉 · FDU
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2023-08-15/Disney-s-Taylor-Swift-Era/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2023-08-18/%E5%9B%B4%E7%82%89%E5%A4%9C%E8%AF%9D-%E5%BD%93-%E6%B6%A6-%E6%88%90%E4%B8%BA%E6%98%BE%E5%AD%A6-%E6%B5%81%E5%8A%A8%E8%80%85%E8%83%BD%E5%90%A6%E5%88%B0%E8%BE%BE%E4%B9%8C%E6%89%98%E9%82%A6-%E5%9B%B4%E7%82%89-FDU/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2023-08-18/%E5%9B%B4%E7%82%89%E5%A4%9C%E8%AF%9D-%E5%BD%93-%E6%B6%A6-%E6%88%90%E4%B8%BA%E6%98%BE%E5%AD%A6-%E6%B5%81%E5%8A%A8%E8%80%85%E8%83%BD%E5%90%A6%E5%88%B0%E8%BE%BE%E4%B9%8C%E6%89%98%E9%82%A6-%E5%9B%B4%E7%82%89-FDU/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2023-08-01/%E7%96%AB%E5%B9%B4%E5%90%8E(%E4%B8%89/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2023-08-15/Disney-s-Taylor-Swift-Era/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2023-08-18/%E5%9B%B4%E7%82%89%E5%A4%9C%E8%AF%9D-%E5%BD%93-%E6%B6%A6-%E6%88%90%E4%B8%BA%E6%98%BE%E5%AD%A6-%E6%B5%81%E5%8A%A8%E8%80%85%E8%83%BD%E5%90%A6%E5%88%B0%E8%BE%BE%E4%B9%8C%E6%89%98%E9%82%A6-%E5%9B%B4%E7%82%89-FDU/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<围炉>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2023-08-18/%E5%9B%B4%E7%82%89%E5%A4%9C%E8%AF%9D-%E5%BD%93-%E6%B6%A6-%E6%88%90%E4%B8%BA%E6%98%BE%E5%AD%A6-%E6%B5%81%E5%8A%A8%E8%80%85%E8%83%BD%E5%90%A6%E5%88%B0%E8%BE%BE%E4%B9%8C%E6%89%98%E9%82%A6-%E5%9B%B4%E7%82%89-FDU/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<围炉>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2023-08-01/%E7%96%AB%E5%B9%B4%E5%90%8E(%E4%B8%89/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

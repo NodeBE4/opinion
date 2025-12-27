@@ -1,0 +1,866 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>【404档案馆】第63期：从西安到天津、上海，中国式封城背后的“次生灾害”和“不计代价” – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+【404档案馆】第63期：从西安到天津、上海，中国式封城背后的“次生灾害”和“不计代价”
+——
+" />
+    <meta property="og:description" content="
+【404档案馆】第63期：从西安到天津、上海，中国式封城背后的“次生灾害”和“不计代价”
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="【404档案馆】第63期：从西安到天津、上海，中国式封城背后的“次生灾害”和“不计代价”" />
+    <meta property="twitter:title" content="【404档案馆】第63期：从西安到天津、上海，中国式封城背后的“次生灾害”和“不计代价”" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fmatters.news%2F%40ChinaDT%2F404%25E6%25A1%25A3%25E6%25A1%2588%25E9%25A6%2586-%25E7%25AC%25AC63%25E6%259C%259F-%25E4%25BB%258E%25E8%25A5%25BF%25E5%25AE%2589%25E5%2588%25B0%25E5%25A4%25A9%25E6%25B4%25A5-%25E4%25B8%258A%25E6%25B5%25B7-%25E4%25B8%25AD%25E5%259B%25BD%25E5%25BC%258F%25E5%25B0%2581%25E5%259F%258E%25E8%2583%258C%25E5%2590%258E%25E7%259A%2584-%25E6%25AC%25A1%25E7%2594%259F%25E7%2581%25BE%25E5%25AE%25B3-%25E5%2592%258C-%25E4%25B8%258D%25E8%25AE%25A1%25E4%25BB%25A3%25E4%25BB%25B7-bafyreida4hil2r5w264djopiplqytmfpmohohnbnegdj3gxxvfx4fuumum" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC63%E6%9C%9F-%E4%BB%8E%E8%A5%BF%E5%AE%89%E5%88%B0%E5%A4%A9%E6%B4%A5-%E4%B8%8A%E6%B5%B7-%E4%B8%AD%E5%9B%BD%E5%BC%8F%E5%B0%81%E5%9F%8E%E8%83%8C%E5%90%8E%E7%9A%84-%E6%AC%A1%E7%94%9F%E7%81%BE%E5%AE%B3-%E5%92%8C-%E4%B8%8D%E8%AE%A1%E4%BB%A3%E4%BB%B7-bafyreida4hil2r5w264djopiplqytmfpmohohnbnegdj3gxxvfx4fuumum" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC63%E6%9C%9F-%E4%BB%8E%E8%A5%BF%E5%AE%89%E5%88%B0%E5%A4%A9%E6%B4%A5-%E4%B8%8A%E6%B5%B7-%E4%B8%AD%E5%9B%BD%E5%BC%8F%E5%B0%81%E5%9F%8E%E8%83%8C%E5%90%8E%E7%9A%84-%E6%AC%A1%E7%94%9F%E7%81%BE%E5%AE%B3-%E5%92%8C-%E4%B8%8D%E8%AE%A1%E4%BB%A3%E4%BB%B7-bafyreida4hil2r5w264djopiplqytmfpmohohnbnegdj3gxxvfx4fuumum&text=【404档案馆】第63期：从西安到天津、上海，中国式封城背后的“次生灾害”和“不计代价”&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC63%E6%9C%9F-%E4%BB%8E%E8%A5%BF%E5%AE%89%E5%88%B0%E5%A4%A9%E6%B4%A5-%E4%B8%8A%E6%B5%B7-%E4%B8%AD%E5%9B%BD%E5%BC%8F%E5%B0%81%E5%9F%8E%E8%83%8C%E5%90%8E%E7%9A%84-%E6%AC%A1%E7%94%9F%E7%81%BE%E5%AE%B3-%E5%92%8C-%E4%B8%8D%E8%AE%A1%E4%BB%A3%E4%BB%B7-bafyreida4hil2r5w264djopiplqytmfpmohohnbnegdj3gxxvfx4fuumum&title=【404档案馆】第63期：从西安到天津、上海，中国式封城背后的“次生灾害”和“不计代价”" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC63%E6%9C%9F-%E4%BB%8E%E8%A5%BF%E5%AE%89%E5%88%B0%E5%A4%A9%E6%B4%A5-%E4%B8%8A%E6%B5%B7-%E4%B8%AD%E5%9B%BD%E5%BC%8F%E5%B0%81%E5%9F%8E%E8%83%8C%E5%90%8E%E7%9A%84-%E6%AC%A1%E7%94%9F%E7%81%BE%E5%AE%B3-%E5%92%8C-%E4%B8%8D%E8%AE%A1%E4%BB%A3%E4%BB%B7-bafyreida4hil2r5w264djopiplqytmfpmohohnbnegdj3gxxvfx4fuumum&title=【404档案馆】第63期：从西安到天津、上海，中国式封城背后的“次生灾害”和“不计代价”" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=【404档案馆】第63期：从西安到天津、上海，中国式封城背后的“次生灾害”和“不计代价”&body=
+【404档案馆】第63期：从西安到天津、上海，中国式封城背后的“次生灾害”和“不计代价”
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC63%E6%9C%9F-%E4%BB%8E%E8%A5%BF%E5%AE%89%E5%88%B0%E5%A4%A9%E6%B4%A5-%E4%B8%8A%E6%B5%B7-%E4%B8%AD%E5%9B%BD%E5%BC%8F%E5%B0%81%E5%9F%8E%E8%83%8C%E5%90%8E%E7%9A%84-%E6%AC%A1%E7%94%9F%E7%81%BE%E5%AE%B3-%E5%92%8C-%E4%B8%8D%E8%AE%A1%E4%BB%A3%E4%BB%B7-bafyreida4hil2r5w264djopiplqytmfpmohohnbnegdj3gxxvfx4fuumum" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC63%E6%9C%9F-%E4%BB%8E%E8%A5%BF%E5%AE%89%E5%88%B0%E5%A4%A9%E6%B4%A5-%E4%B8%8A%E6%B5%B7-%E4%B8%AD%E5%9B%BD%E5%BC%8F%E5%B0%81%E5%9F%8E%E8%83%8C%E5%90%8E%E7%9A%84-%E6%AC%A1%E7%94%9F%E7%81%BE%E5%AE%B3-%E5%92%8C-%E4%B8%8D%E8%AE%A1%E4%BB%A3%E4%BB%B7-bafyreida4hil2r5w264djopiplqytmfpmohohnbnegdj3gxxvfx4fuumum&title=【404档案馆】第63期：从西安到天津、上海，中国式封城背后的“次生灾害”和“不计代价”&caption=
+【404档案馆】第63期：从西安到天津、上海，中国式封城背后的“次生灾害”和“不计代价”
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=【404档案馆】第63期：从西安到天津、上海，中国式封城背后的“次生灾害”和“不计代价”&url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC63%E6%9C%9F-%E4%BB%8E%E8%A5%BF%E5%AE%89%E5%88%B0%E5%A4%A9%E6%B4%A5-%E4%B8%8A%E6%B5%B7-%E4%B8%AD%E5%9B%BD%E5%BC%8F%E5%B0%81%E5%9F%8E%E8%83%8C%E5%90%8E%E7%9A%84-%E6%AC%A1%E7%94%9F%E7%81%BE%E5%AE%B3-%E5%92%8C-%E4%B8%8D%E8%AE%A1%E4%BB%A3%E4%BB%B7-bafyreida4hil2r5w264djopiplqytmfpmohohnbnegdj3gxxvfx4fuumum" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>【404档案馆】第63期：从西安到天津、上海，中国式封城背后的“次生灾害”和“不计代价”</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-01-18
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#中国数字时代">
+          中国数字时代
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC63%E6%9C%9F-%E4%BB%8E%E8%A5%BF%E5%AE%89%E5%88%B0%E5%A4%A9%E6%B4%A5-%E4%B8%8A%E6%B5%B7-%E4%B8%AD%E5%9B%BD%E5%BC%8F%E5%B0%81%E5%9F%8E%E8%83%8C%E5%90%8E%E7%9A%84-%E6%AC%A1%E7%94%9F%E7%81%BE%E5%AE%B3-%E5%92%8C-%E4%B8%8D%E8%AE%A1%E4%BB%A3%E4%BB%B7-bafyreida4hil2r5w264djopiplqytmfpmohohnbnegdj3gxxvfx4fuumum" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="中国数字时代的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#中国数字时代 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1642562694000-->
+<p><a href="https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC63%E6%9C%9F-%E4%BB%8E%E8%A5%BF%E5%AE%89%E5%88%B0%E5%A4%A9%E6%B4%A5-%E4%B8%8A%E6%B5%B7-%E4%B8%AD%E5%9B%BD%E5%BC%8F%E5%B0%81%E5%9F%8E%E8%83%8C%E5%90%8E%E7%9A%84-%E6%AC%A1%E7%94%9F%E7%81%BE%E5%AE%B3-%E5%92%8C-%E4%B8%8D%E8%AE%A1%E4%BB%A3%E4%BB%B7-bafyreida4hil2r5w264djopiplqytmfpmohohnbnegdj3gxxvfx4fuumum">【404档案馆】第63期：从西安到天津、上海，中国式封城背后的“次生灾害”和“不计代价”</a>
+——</p>
+
+<div>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/1b0fa703-8b67-42f0-ab02-bb2f9ef875c0.png" data-asset-id="1b0fa703-8b67-42f0-ab02-bb2f9ef875c0" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p><a href="https://chinadigitaltimes.net/space/404%E6%A1%A3%E6%A1%88%E9%A6%86" rel="noopener noreferrer" target="_blank">《404档案馆》</a>讲述中国审查与反审查的故事，同时以文字、音频和视频的形式发布。播客节目可在 Apple Podcasts, Google Podcasts, Spotify 或泛用型播客客户端搜索“<a href="https://cdt.firstory.io/" rel="noopener noreferrer" target="_blank">404档案馆</a>”进行收听，视频节目可在 Youtube “<a href="https://www.youtube.com/channel/UCwXewCWwaK1-yec8niJLrqg" rel="noopener noreferrer" target="_blank">中国数字时代· 404档案馆</a>”频道收看。</p>
+  <p><br /></p>
+  <p><strong>作者：西西弗斯搬大石</strong></p>
+  <p>欢迎来到404档案馆。在这里，我们一起穿越中国数字高墙。</p>
+  <h2 id="section"><strong>一、混乱的防疫、封城的代价：西安“清零”背后的次生灾害</strong></h2>
+  <p>2022年新年前后，西安像2020年初的武汉一样，成为了最受关注的中国城市。从年末新冠疫情的爆发，到政府混乱的核酸检测安排，再到突如其来的封城；封城后生活物资短缺、医疗责任事故频发、西安政府的补救措施却总是导致更糟糕的后果，继而采取更为严格的舆论控制。本期节目，我们就来聊聊这种“中国特色防疫模式”。</p>
+  <p>在西安疫情爆发的早期，由于政府的朝令夕改和混乱管理，就让市民的生活产生了极大的不便。去年12月21日，<a href="https://chinadigitaltimes.net/chinese/675032.html" rel="noopener noreferrer" target="_blank">《中国新闻周刊》</a>就发文质疑政府防疫表现。文章中提到了由于西安政府突然规定上班或者出入其他公共场所，都需要出示48小时内核酸阴性报告，导致大量市民只能紧急自费去测核酸，而一码通系统却在这个时候崩溃，让市民们更加处于困惑之中。甚至出现，因为一码通崩溃，出去测核酸的市民无法进入办公楼上班，又无法搭乘公交车回家，步行回家后，因为没有一码通而不能进入小区的荒诞场面。更加无助的是参与西安考研的外地考生，不仅要面对考试的压力，还要承担着往返的不确定性和返乡后高额的隔离费用。</p>
+  <p>然而，乱象才是刚刚开始。12月23日，西安宣布封城，1300万市民被要求留在家中，非重点封控的小区每两天可以外出一人采购生活物资，27日封城措施又突然升级，彻底不让市民出门。严厉的封城手段加上政府对于物资的配送能力严重不足，导致西安市民的基本生活物资出现严重短缺。大量市民甚至无法获得足够的食物，只能在网上发帖求助，并通过“喊楼”的方式表达抗议。即使在如此混乱的情况下，西安政府依然坚持不让市民出门的防疫措施。</p>
+  <p>西安的封城措施同样造成了基于性别的伤害，月经期间必要使用的卫生巾等用品极度缺乏，而且没有被政府作为物资配送的重点问题解决。西安作协主席甚至<a href="https://chinadigitaltimes.net/chinese/675488.html" rel="noopener noreferrer" target="_blank">痛批</a>因为没有卫生巾哭诉的女士是“小姐做派”和“矫情”。</p>
+  <p>更令人痛心的是，名义上为了保护人生命的封城，却导致了多人生命的无谓逝去。1月4日，西安网友“不腻”通过小红书发帖称，自家小姨 1 月 1 日晚上 8 点多到达西安高新医院，在门口由于核酸问题无法入院，一直等到晚上 10 点多。在门口等待期间小姨大出血，8 个月的胎儿流产。1月5日，西安网友<a href="https://weibo.com/n/%E5%A4%AA%E9%98%B3%E8%8A%B1%E8%8A%B1%E8%8A%B100000" rel="noopener noreferrer" target="_blank">@太阳花花花 00000</a>在微博发文称，其父亲 1 月 2 日中午突发心绞痛，被多家医院拒收，最后在心绞痛发作 8 小时之后，终于在晚上 10 点多进入高新国际医学中心进行手术，但因为耽误太久，不治身亡。这样的惨剧接连发生，让民众的怒火冲破了审查的高墙，官方也表态不再让类似事件发生。</p>
+  <p>然而，西安的政府措施又一次贻笑大方，1月13日，西安高新医院、西安国际医学中心医院因延误急危患者抢救和诊治，被西安市卫健委处以停业整顿三个月等严厉处罚。此举却让更多患者无法就医，<a href="https://chinadigitaltimes.net/chinese/675824.html" rel="noopener noreferrer" target="_blank">西安国际医学中心整形科主任医生 @郭树忠教授 发微博表示</a>，自己有117位小耳畸形患者急需二期手术，但自己却“突然被禁刀”。他感到十分焦虑，并“感觉非常对不住这些患者”，事件在微博发酵后，郭树忠才被批准进行手术。</p>
+  <p>面对汹汹民意，西安政府在控制舆论和开动宣传机器上的反应是很快的。除了在网络上大量删帖之外，西安政府还进行了所谓“正能量”宣传，通过微博热搜的形式宣告“西安的烟火气回来了”，然而，细心的网友却发现在这些宣传西安病例减少，市民生活恢复正常的微博中，<a href="https://chinadigitaltimes.net/chinese/675837.html" rel="noopener noreferrer" target="_blank">一位名叫马雪娥的中年女性反复出现</a>，她时而是水果店老板，时而是药店店员，时而是卫生院院长。这种拙劣的宣传手法成了西安疫情中最新的魔幻时刻。</p>
+  <h2 id="omicron"><strong>二、随着Omicron扩散的中国防疫模式：天津、上海、深圳……</strong></h2>
+  <p>随着中国本土疫情的传播，其他大城市也面临着防疫的挑战，然而，城市的不同并没有根本上改变防疫模式粗暴给市民带来的不便甚至伤害。1月8日，<a href="https://chinadigitaltimes.net/chinese/675675.html" rel="noopener noreferrer" target="_blank">天津新增20例阳性感染者，该市紧急启动全员核酸检测</a>。大量外地人口被困在天津，尤其是天津与北京之间人员往来频繁，天津疫情爆发后，前往北京的高铁随即被取消，省际班线全线停运，因为工作、生活需要来到天津的人，即使核酸阴性，也无法返回北京，只能困在天津，还要想办法解决住宿问题。</p>
+  <p>上海一向自诩为中国城市管理水平最高的城市，但Omicron疫情爆发后，<a href="https://news.sina.com.cn/c/2022-01-14/doc-ikyakumy0334721.shtml" rel="noopener noreferrer" target="_blank">一家优衣库被封控整整48小时</a>，店内客户在无预警的情况下被关在店内一整夜。高校学生也因为担心封校而上演“逃难潮”，紧急逃离学校返回家乡。</p>
+  <h2 id="section-1"><strong>三、中国式封城和清零背后的必然逻辑</strong></h2>
+  <p>随着疫情在中国本土的扩散，不同城市的防疫措施虽有所区别，但频繁的全员核酸检测、对于非确诊的居民的隔离和封闭成为了一种共性。这样的模式下，虽然新增确诊案例确实能在短期内减少，但普通市民的工作、生活、学习受到极大影响，不少人不得不错过重要的考试、面试、会议，甚至其他疾病的患者都无法保证必要的药物和救治。如此中国防疫模式，有网友调侃道：“宁愿饿死病死，也不能新冠死”。</p>
+  <p>不同文化背景、体量和区域的中国城市，对于疫情应对的粗暴，很难再用城市的特点去解释，而更多需要在中国威权体系下中央地方关系的权力结构角度去分析。斯坦福大学社会学教授周雪光在《<a href="https://book.douban.com/subject/26901114/" rel="noopener noreferrer" target="_blank">中国国家治理的制度逻辑 : 一个组织学研究</a>》一书中分析了中央集权的一统体制的治理矛盾：“一统体制的集中程度越高、越刚性，必然以相应程度上削弱地方治理权为代价，其有效治理的能力就会相应减弱；反之，有效治理能力的增强意味着地方政府治理权的扩张，常常表现在—或被解读为—各自为政，又会对一统体制产生巨大威胁”，这可以被理解为“一管就死，一放就乱”。为了实现中央制定的清零目标，这种一统体制采取的方式是运动式治理，而这种大张旗鼓的运动式治理在层层加码中，地方治理本该有的灵活性被压制了，地方政府的治理能力也会被进一步破坏。这或许为理解这波疫情中各个地方政府高度相似又荒腔走板的防疫政策提供了一个视角。</p>
+  <p><br /></p>
+  <p>中国数字时代 CDT 致力于记录和传播中文互联网上被审查的信息，以及人们与审查对抗的努力。我们邀请您参加敏感词开源研究项目和404文章存档项目，为记录和对抗中国网络审查作出你的贡献！详情请访问我们的网站 CDT.MEDIA.</p>
+  <p><br /></p>
+  <p><br /></p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#中国数字时代 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-02-12/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC276%E6%9C%9F-%E5%94%B1%E7%A6%81%E6%AD%8C-%E5%88%B0-%E7%A6%81%E6%AD%A2%E5%90%90%E6%A7%BD-%E8%A7%81%E8%AF%81%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E5%8F%98%E8%BF%81%E7%9A%84%E6%98%A5%E6%99%9A/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2021-12-14/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E4%B8%93%E8%AE%BF-%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3%E5%AF%B9%E8%AF%9D-%E8%A7%A3%E6%9E%84%E6%96%B0%E7%96%86%E9%95%87%E5%8E%8B-%E7%AC%AC%E4%B8%80%E4%BD%9C%E8%80%85%E8%AE%B8%E7%A7%80%E4%B8%AD/">最早</a>--</span>
+    
+      <li>
+        <time>2022-02-16</time>
+        <a href="https://nodebe4.github.io/opinion/2022-02-16/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC65%E6%9C%9F-%E5%88%B7%E6%89%8B%E6%9C%BA%E9%A2%88%E8%82%A9%E7%96%BC%E6%80%8E%E4%B9%88%E5%8A%9E-%E9%82%A3%E4%BA%9B%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E4%BC%9A%E4%B8%8A%E7%9A%84%E5%A5%87%E8%91%A9%E8%AE%B0%E8%80%85%E6%8F%90%E9%97%AE/">
+          【404档案馆】第65期：“刷手机颈肩疼怎么办？” 那些官方发布会上的奇葩记者提问
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-02-16</time>
+        <a href="https://nodebe4.github.io/opinion/2022-02-16/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC64%E6%9C%9F-%E4%B8%AD%E5%85%B1%E5%AE%98%E6%96%B9%E5%A6%82%E4%BD%95%E5%AE%9A%E4%B9%89-%E7%A6%81%E7%89%87-329%E9%83%A8%E7%9C%9F%E7%90%86%E9%83%A8%E7%A6%81%E6%92%AD%E5%BD%B1%E7%89%87%E5%90%8D%E5%8D%95%E5%88%86%E6%9E%90/">
+          【404档案馆】第64期：中共官方如何定义“禁片”？329部真理部禁播影片名单分析
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-01-18</time>
+        <a href="https://nodebe4.github.io/opinion/2022-01-18/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC62%E6%9C%9F-%E6%88%91%E4%BB%AC%E4%B8%AD%E5%9B%BD%E7%9C%9F%E7%9A%84%E5%A4%AA%E5%8E%89%E5%AE%B3%E5%95%A6-%E7%88%B1%E4%B8%AD%E6%B4%8B%E7%BD%91%E7%BA%A2%E4%B8%8E%E5%88%A9%E6%B6%A6%E4%B8%B0%E5%8E%9A%E7%9A%84%E4%BA%94%E6%AF%9B%E7%94%9F%E6%84%8F/">
+          【404档案馆】第62期：“我们中国真的太厉害啦！” 爱中洋网红与利润丰厚的五毛生意
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-01-18</time>
+        <a href="https://nodebe4.github.io/opinion/2022-01-18/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC61%E6%9C%9F-%E7%BA%A2%E6%A5%BC-%E5%8F%88%E8%A7%81%E7%BA%A2%E6%A5%BC/">
+          【404档案馆】第61期：红楼，又见红楼
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-01-18/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC62%E6%9C%9F-%E6%88%91%E4%BB%AC%E4%B8%AD%E5%9B%BD%E7%9C%9F%E7%9A%84%E5%A4%AA%E5%8E%89%E5%AE%B3%E5%95%A6-%E7%88%B1%E4%B8%AD%E6%B4%8B%E7%BD%91%E7%BA%A2%E4%B8%8E%E5%88%A9%E6%B6%A6%E4%B8%B0%E5%8E%9A%E7%9A%84%E4%BA%94%E6%AF%9B%E7%94%9F%E6%84%8F/">
+            前一篇：【404档案馆】第62期：“我们中国真的太厉害啦！” 爱中洋网红与利润丰厚的五毛生意
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-01-18/Tweaking-the-Spliceosome-Rubik-s-Cube-by-Prp28-RNA/">
+            後一篇：Tweaking the Spliceosome Rubik’s Cube by Prp28 RNA Helicase
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-01-18/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC62%E6%9C%9F-%E6%88%91%E4%BB%AC%E4%B8%AD%E5%9B%BD%E7%9C%9F%E7%9A%84%E5%A4%AA%E5%8E%89%E5%AE%B3%E5%95%A6-%E7%88%B1%E4%B8%AD%E6%B4%8B%E7%BD%91%E7%BA%A2%E4%B8%8E%E5%88%A9%E6%B6%A6%E4%B8%B0%E5%8E%9A%E7%9A%84%E4%BA%94%E6%AF%9B%E7%94%9F%E6%84%8F/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-01-18/Tweaking-the-Spliceosome-Rubik-s-Cube-by-Prp28-RNA/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-02-16/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC64%E6%9C%9F-%E4%B8%AD%E5%85%B1%E5%AE%98%E6%96%B9%E5%A6%82%E4%BD%95%E5%AE%9A%E4%B9%89-%E7%A6%81%E7%89%87-329%E9%83%A8%E7%9C%9F%E7%90%86%E9%83%A8%E7%A6%81%E6%92%AD%E5%BD%B1%E7%89%87%E5%90%8D%E5%8D%95%E5%88%86%E6%9E%90/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-01-18/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC62%E6%9C%9F-%E6%88%91%E4%BB%AC%E4%B8%AD%E5%9B%BD%E7%9C%9F%E7%9A%84%E5%A4%AA%E5%8E%89%E5%AE%B3%E5%95%A6-%E7%88%B1%E4%B8%AD%E6%B4%8B%E7%BD%91%E7%BA%A2%E4%B8%8E%E5%88%A9%E6%B6%A6%E4%B8%B0%E5%8E%9A%E7%9A%84%E4%BA%94%E6%AF%9B%E7%94%9F%E6%84%8F/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-01-18/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC62%E6%9C%9F-%E6%88%91%E4%BB%AC%E4%B8%AD%E5%9B%BD%E7%9C%9F%E7%9A%84%E5%A4%AA%E5%8E%89%E5%AE%B3%E5%95%A6-%E7%88%B1%E4%B8%AD%E6%B4%8B%E7%BD%91%E7%BA%A2%E4%B8%8E%E5%88%A9%E6%B6%A6%E4%B8%B0%E5%8E%9A%E7%9A%84%E4%BA%94%E6%AF%9B%E7%94%9F%E6%84%8F/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-01-18/Tweaking-the-Spliceosome-Rubik-s-Cube-by-Prp28-RNA/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<中国数字时代>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-02-16/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC64%E6%9C%9F-%E4%B8%AD%E5%85%B1%E5%AE%98%E6%96%B9%E5%A6%82%E4%BD%95%E5%AE%9A%E4%B9%89-%E7%A6%81%E7%89%87-329%E9%83%A8%E7%9C%9F%E7%90%86%E9%83%A8%E7%A6%81%E6%92%AD%E5%BD%B1%E7%89%87%E5%90%8D%E5%8D%95%E5%88%86%E6%9E%90/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<中国数字时代>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-01-18/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC62%E6%9C%9F-%E6%88%91%E4%BB%AC%E4%B8%AD%E5%9B%BD%E7%9C%9F%E7%9A%84%E5%A4%AA%E5%8E%89%E5%AE%B3%E5%95%A6-%E7%88%B1%E4%B8%AD%E6%B4%8B%E7%BD%91%E7%BA%A2%E4%B8%8E%E5%88%A9%E6%B6%A6%E4%B8%B0%E5%8E%9A%E7%9A%84%E4%BA%94%E6%AF%9B%E7%94%9F%E6%84%8F/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

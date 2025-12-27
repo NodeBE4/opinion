@@ -1,0 +1,3057 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Deep Research and Knowledge Value – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+Deep Research and Knowledge Value
+——
+" />
+    <meta property="og:description" content="
+Deep Research and Knowledge Value
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Deep Research and Knowledge Value" />
+    <meta property="twitter:title" content="Deep Research and Knowledge Value" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2025%2Fdeep-research-and-knowledge-value%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2025/deep-research-and-knowledge-value/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2025/deep-research-and-knowledge-value/&text=Deep Research and Knowledge Value&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2025/deep-research-and-knowledge-value/&title=Deep Research and Knowledge Value" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2025/deep-research-and-knowledge-value/&title=Deep Research and Knowledge Value" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Deep Research and Knowledge Value&body=
+Deep Research and Knowledge Value
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2025/deep-research-and-knowledge-value/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2025/deep-research-and-knowledge-value/&title=Deep Research and Knowledge Value&caption=
+Deep Research and Knowledge Value
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Deep Research and Knowledge Value&url=https://stratechery.com/2025/deep-research-and-knowledge-value/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Deep Research and Knowledge Value</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2025-02-10
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2025/deep-research-and-knowledge-value/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1739201866000-->
+<p><a href="https://stratechery.com/2025/deep-research-and-knowledge-value/">Deep Research and Knowledge Value</a>
+——</p>
+
+<div>
+  <p>“When did you feel the AGI?”</p>
+  <p>This is a question that has been floating around AI circles for a while, and it’s a hard one to answer for two reasons. First, what is AGI, and second, “feel” is a bit like obscenity: as Supreme Court Justice Potter Stewart famously said in <a href="https://supreme.justia.com/cases/federal/us/378/184/">Jacobellis v. Ohio</a>, “I know it when I see it.”</p>
+  <p>I gave my definition of AGI in <a href="https://stratechery.com/2025/ais-uneven-arrival/">AI’s Uneven Arrival</a>:</p>
+  <blockquote class="wp-block-quote is-style-stratechery is-layout-flow wp-block-quote-is-layout-flow">
+    <p>What <span class="stratechery-lining-numerals">o3</span> and inference-time scaling point to is something different: AI’s that can actually be given tasks and trusted to complete them. This, by extension, looks a lot more like an independent worker than an assistant — ammunition, rather than a rifle sight. That may seem an odd analogy, but it comes from <strong><a href="https://www.youtube.com/watch?v=6fQHLK1aIBs">a talk Keith Rabois gave at Stanford</a></strong>…My definition of AGI is that it can be ammunition, i.e. it can be given a task and trusted to complete it at a good-enough rate (my definition of Artificial Super Intelligence (ASI) is the ability to come up with the tasks in the first place).</p>
+  </blockquote>
+  <p>The “feel” part of that question is a more recent discovery: DeepResearch from OpenAI <em>feels</em> like AGI; I just got a new employee for the shockingly low price of $200/month.</p>
+  <h3 class="wp-block-heading" id="deep-research-bullets">Deep Research Bullets</h3>
+  <p>OpenAI announced Deep Research in a <a href="https://openai.com/index/introducing-deep-research/">February 2 blog post</a>:</p>
+  <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+    <p>Today we’re launching deep research in ChatGPT, a new agentic capability that conducts multi-step research on the internet for complex tasks. It accomplishes in tens of minutes what would take a human many hours.</p>
+    <p>Deep research is OpenAI’s next agent that can do work for you independently — you give it a prompt, and ChatGPT will find, analyze, and synthesize hundreds of online sources to create a comprehensive report at the level of a research analyst. Powered by a version of the upcoming OpenAI o3 model that’s optimized for web browsing and data analysis, it leverages reasoning to search, interpret, and analyze massive amounts of text, images, and PDFs on the internet, pivoting as needed in reaction to information it encounters.</p>
+    <p>The ability to synthesize knowledge is a prerequisite for creating new knowledge. For this reason, deep research marks a significant step toward our broader goal of developing AGI, which we have long envisioned as capable of producing novel scientific research.</p>
+  </blockquote>
+  <p>It’s honestly hard to keep track of OpenAI’s AGI definitions these days — CEO Sam Altman, <a href="https://blog.samaltman.com/three-observations">just yesterday</a>, defined it as “a system that can tackle increasingly complex problems, at human level, in many fields” — but in my rather more modest definition Deep Research sits right in the middle of that excerpt: it synthesizes research in an economically valuable way, but doesn’t create new knowledge.</p>
+  <p>I already published two examples of Deep Research in <a href="https://stratechery.com/2025/apple-earnings-openai-deep-research-the-unbundling-of-substantiation/">last Tuesday’s Stratechery Update</a>. While I suggest reading the whole thing, to summarize:</p>
+  <div class="wp-block-jetpack-markdown">
+    <ul>
+      <li>
+        <p>First, I published my (brief) review of <a href="https://www.apple.com/newsroom/2025/01/apple-reports-first-quarter-results/">Apples recent earnings</a>, including three observations:</p>
+        <ul>
+          <li>It was notable that Apple earned record revenue even though iPhone sales were down year-over-year, in the latest datapoint about the company’s transformation into a <a href="https://stratechery.com/2024/boomer-apple/">Services juggernaut</a>.</li>
+          <li>China sales were down again, but this wasn’t a new trend: it actually goes back nearly a decade, but you can only see that if you realize how the Huawei chip ban gave Apple a temporary boost in the country.</li>
+          <li>While Apple executives claimed that Apple Intelligence drove iPhone sales, there really wasn’t any evidence in the geographic sales numbers supporting that assertion.</li>
+        </ul>
+      </li>
+      <li>
+        <p>Second, I published a Deep Research report using a generic prompt:</p>
+        <p><code class="language-plaintext highlighter-rouge">I am Ben Thompson, the author of Stratechery. This is important information because I want you to understand my previous analysis of Apple, and the voice in which I write on Stratechery. I want a research report about Apple's latest earnings in the style and voice of Stratechery that is in line with my previous analysis.</code></p>
+      </li>
+      <li>
+        <p>Third, I published a Deep Research report using a prompt that incorporated my takeaways from the earnings:</p>
+        <p><code class="language-plaintext highlighter-rouge">I am Ben Thompson, the author of Stratechery. This is important information because I want you to understand my previous analysis of Apple, and the voice in which I write on Stratechery. I want a research report about Apple's latest earnings for fiscal year 2025 q1 (calendar year 2024 q4). There are a couple of angles I am particularly interested in:</code></p>
+        <p><code class="language-plaintext highlighter-rouge">- First, there is the overall trend of services revenue carrying the companies earnings. How has that trend continued, what does it mean for margins, etc.</code></p>
+        <p><code class="language-plaintext highlighter-rouge">- Second, I am interested in the China angle. My theory is that Apple's recent decline in China is not new, but is actually part of a longer trend going back nearly a decade. I believe that trend was arrested by the chip ban on Huawei, but that that was only a temporary bump in terms of a long-term decline. In addition, I would like to marry this to deeper analysis of the Chinese phone market, the distinction between first tier cities and the rest of China, and what that says about Apple's prospects in the country.</code></p>
+        <p><code class="language-plaintext highlighter-rouge">- Third, what takeaways are there about Apple's AI prospects? The company claims that Apple Intelligence is helping sales in markets where it has launched, but isn't this a function of not being available in China?</code></p>
+        <p><code class="language-plaintext highlighter-rouge">Please deliver this report in a format and style that is suitable for Stratechery.</code></p>
+      </li>
+    </ul>
+  </div>
+  <p>You can <a href="https://stratechery.com/2025/apple-earnings-openai-deep-research-the-unbundling-of-substantiation/">read the Update for the output</a>, but this was my evaluation:</p>
+  <blockquote class="wp-block-quote is-style-stratechery is-layout-flow wp-block-quote-is-layout-flow">
+    <p>The first answer was decent given the paucity of instruction; it’s really more of a summary than anything, but there are a few insightful points. The second answer was considerably more impressive. This question relied much more heavily on my previous posts, and weaved points I’ve made in the past into the answer. I don’t, to be honest, think I learned anything new, but I think that anyone encountering this topic for the first time would have. Or, to put it another way, were I looking for a research assistant, I would consider hiring whoever wrote the second answer.</p>
+  </blockquote>
+  <p>In other words, Deep Research isn’t a rifle barrel, but for this question at least, it was a pretty decent piece of ammunition.</p>
+  <h3 class="wp-block-heading" id="deepresearch-examples">DeepResearch Examples</h3>
+  <p>Still, that ammunition wasn’t that valuable to me; I read <a href="https://sixcolors.com/post/2025/01/this-is-tim-and-kevan-apples-q1-results-call-transcribed/">the transcript of Apple’s earnings call</a> before my 8am <a href="https://dithering.passport.online/member/episode/apple-earnings?guid=https%3A%2F%2Fdithering.passport.online%2Fmember%2Fepisode%2Fapple-earnings">Dithering recording</a> and came up with my three points immediately; that’s the luxury of having thought about and covered Apple for going on twelve years. And, as I noted above, the entire reason that the second Deep Research report was interesting was because I came up with the ideas and <a href="https://stratechery.com/2022/the-ai-unbundling/">Deep Research substantiated them</a>; the substantiation, however, wasn’t nearly to the standard (in my very biased subjective opinion!) of a Stratechery Update.</p>
+  <p>I found a much more beneficial use case the next day. Before I conduct a Stratechery Interview I do several hours of research on the person I am interviewing, their professional background, the company they work for, etc.; in this case I was talking to Bill McDermott, the Chairman and CEO of ServiceNow, a company I am somewhat familiar with but not intimately so. So, I asked Deep Research for help:</p>
+  <p><code class="language-plaintext highlighter-rouge">I am going to conduct an interview with Bill McDermott, the CEO of ServiceNow, and I need to do research about both McDermott and ServiceNow to prepare my questions.</code></p>
+  <p><code class="language-plaintext highlighter-rouge">First, I want to know more about McDermott and his background. Ideally there are some good profiles of him I can read. I know he used to work at SAP and I would like to know what is relevant about his experience there. Also, how and why did he take the ServiceNow job?</code></p>
+  <p><code class="language-plaintext highlighter-rouge">Then, what is the background of ServiceNow? How did it get started? What was its initial product-market fit, and how has it expanded over time? What kind of companies use ServiceNow?</code></p>
+  <p><code class="language-plaintext highlighter-rouge">What is the ServiceNow business model? What is its go-to-market strategy?</code></p>
+  <p><code class="language-plaintext highlighter-rouge">McDermott wants to talk about ServiceNow's opportunities in AI. What are those opportunities, and how are they meaningfully unique, or different from simple automation?</code></p>
+  <p><code class="language-plaintext highlighter-rouge">What do users think of ServiceNow? Is it very ugly and hard to use? Why is it very sticky? What attracts companies to it?</code></p>
+  <p><code class="language-plaintext highlighter-rouge">What competitors does ServiceNow have? Can it be a platform for other companies? Or is there an opportunity to disrupt ServiceNow?</code></p>
+  <p><code class="language-plaintext highlighter-rouge">What other questions do you have that would be useful for me to ask?</code></p>
+  <p><code class="language-plaintext highlighter-rouge">You can use previous Stratechery Interviews as a resource to understand the kinds of questions I typically ask.</code></p>
+  <p>I found <a href="https://chatgpt.com/share/67a231d2-49c4-8011-a18f-751e435a9820">the results</a> eminently useful, although the questions were pretty mid; I did spend some time doing some additional reading of things like earnings reports before <a href="https://stratechery.com/2025/an-interview-with-servicenow-ceo-bill-mcdermott-about-enterprise-ai-agents/">conducting the Interview</a> with my own questions. In short, it saved me a fair bit of time and gave me a place to start from, and that alone more than paid for my monthly subscription.</p>
+  <p>Another compelling example came in researching a friend’s complicated medical issue; I’m not going to share my prompt and results for obvious reasons. What I will note is that this friend has been struggling with this issue for over a year, and has seen multiple doctors and tried several different remedies. Deep Research identified a possible issue in ten minutes that my friend has only just learned about from a specialist last week; while it is still to be determined if this is the answer he is looking for, it is notable that Deep Research may have accomplished in ten minutes what has taken my friend many hours over many months with many medical professionals.</p>
+  <p>It is the final example, however, that is the most interesting, precisely because it is the question on which Deep Research most egregiously failed. I generated a report about another friend’s industry, asking for the major players, supply chain analysis, customer segments, etc. It was by far my most comprehensive and detailed prompt. And, sure enough, Deep Research came back with a fully fleshed out report answering all of my questions.</p>
+  <p>It was also completely wrong, but in a really surprising way. The best way to characterize the issue is to go back to that famous Donald Rumsfeld quote:</p>
+  <figure class="wp-block-jetpack-videopress jetpack-videopress-player" style="">
+    <div class="jetpack-videopress-player__wrapper">
+      <iframe title="VideoPress Video Player" aria-label="VideoPress Video Player" width="500" height="375" src="https://videopress.com/embed/R4jHSz3N?cover=1&amp;autoPlay=0&amp;controls=1&amp;loop=0&amp;muted=0&amp;persistVolume=1&amp;playsinline=0&amp;preloadContent=metadata&amp;useAverageColor=1&amp;hd=0" frameborder="0" allowfullscreen="" data-resize-to-parent="true" allow="clipboard-write"></iframe>
+      <script src="https://v0.wordpress.com/js/next/videopress-iframe.js?m=1725245713"></script>
+    </div>
+  </figure>
+  <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+    <p>There are known knowns; there are things we know we know. We also know there are known unknowns; that is to say we know there are some things we do not know. But there are also unknown unknowns — the ones we don’t know we don’t know.</p>
+  </blockquote>
+  <p>The issue with the report I generated — and once again, I’m not going to share the results, but this time for reasons that are non-obvious — is that it completely missed a major entity in the industry in question. This particular entity is not a well-known brand, but is a major player in the supply chain. It is a significant enough entity that any report about the industry that did not include them is, if you want to be generous, incomplete.</p>
+  <p>It is, in fact, the fourth categorization that Rumsfeld didn’t mention: “the unknown known.” Anyone who read the report that Deep Research generated would be given the illusion of knowledge, but would not know what they think they know.</p>
+  <h3 class="wp-block-heading" id="knowledge-value">Knowledge Value</h3>
+  <p>One of the most painful lessons of the Internet was the realization by publishers that news was worthless. I’m not speaking about societal value, but rather economic value: something everyone knows is both important and also non-monetizable, which is to say that the act of publishing is economically destructive. I wrote in <a href="https://stratechery.com/2017/publishers-seek-antitrust-exemption-news-versus-advertising-a-better-solution-for-publishers/">Publishers and the Pursuit of the Past</a>:</p>
+  <blockquote class="wp-block-quote is-style-stratechery is-layout-flow wp-block-quote-is-layout-flow">
+    <p>Too many newspaper advocates utterly and completely fail to understand this; the truth is that newspapers made money in the past not by providing societal value, but by having quasi-monopolistic control of print advertising in their geographic area; the societal value was a bonus. Thus, when Chavern complains that “today’s internet distribution systems distort the flow of economic value derived from good reporting”, he is in fact conflating societal value with economic value; the latter does not exist and has never existed.</p>
+    <p>This failure to understand the past leads to a misdiagnosis of the present: Google and Facebook are not profitable because they took newspapers’ <em>reporting</em>, they are profitable because they took their <em>advertising</em>. Moreover, the utility of both platforms is so great that even if all newspaper content were magically removed — which has <a href="https://stratechery.com/2014/economic-power-age-abundance/">been tried in Europe</a> — the only thing that would change is that said newspapers would lose even more revenue as they lost traffic.</p>
+    <p>This is why this solution is so misplaced: newspapers no longer have a monopoly on advertising, can never compete with the Internet when it comes to bundling content, and news remains both valuable to society and, for the same reasons, worthless economically (reaching lots of people is inversely correlated to extracting value, and facts — both real and fake ones — spread for free).</p>
+  </blockquote>
+  <p>It is maybe a bit extreme to say has always been such; in truth it is very hard to draw direct lines from the analog era, defined as it was by <a href="https://stratechery.com/2013/friction/">friction and scarcity</a>, to the Internet era’s <a href="https://stratechery.com/2015/aggregation-theory/">transparency and abundance</a>. It may have technically been the case that those of us old enough to remember newsstands bought the morning paper because a local light manufacturing company owned printing presses, delivery trucks, and an advertising sales team, but we too believed we simply wanted to know what was happening. Now we get that need fulfilled for free, and probably by social media (for better or worse); <a href="https://x.com/schopenhauernow/status/1887189824185958603?s=46">I sometimes wish I knew less</a>!</p>
+  <p>Still, what Deep Research reveals is how much more could be known. I read a <em>lot</em> of things on the Internet, but it’s not as if I will ever come close to reading everything. Moreover, as the amount of slop increases — whether human or AI generated — the difficulty in finding the right stuff to read is only increasing. This is also one problem with Deep Research that is worth pointing out: the worst results are often, paradoxically, for the most popular topics, precisely because those are the topics that are the most likely to be contaminated by slop. The more precise and obscure the topic, the more likely it is that Deep Research will have to find papers and articles that actually cover the topic well:</p>
+  <figure class="wp-block-image aligncenter size-full is-resized">
+<img data-recalc-dims="1" fetchpriority="high" decoding="async" width="1080" height="811" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2025/02/deep-research-4.png?resize=1080%2C811&#038;ssl=1" alt="" class="wp-image-14582" style="width:750px" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2025/02/deep-research-4.png?w=1080&amp;ssl=1 1080w, https://i0.wp.com/stratechery.com/wp-content/uploads/2025/02/deep-research-4.png?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2025/02/deep-research-4.png?resize=1024%2C769&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2025/02/deep-research-4.png?resize=768%2C577&amp;ssl=1 768w" sizes="(max-width: 1000px) 100vw, 1000px" />
+  </figure>
+  <p>This graph, however, is only half complete, as the example of my friend’s industry shows:</p>
+  <figure class="wp-block-image aligncenter size-full is-resized">
+<img data-recalc-dims="1" decoding="async" width="1080" height="811" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2025/02/deep-research-3.png?resize=1080%2C811&#038;ssl=1" alt="" class="wp-image-14583" style="width:750px" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2025/02/deep-research-3.png?w=1080&amp;ssl=1 1080w, https://i0.wp.com/stratechery.com/wp-content/uploads/2025/02/deep-research-3.png?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2025/02/deep-research-3.png?resize=1024%2C769&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2025/02/deep-research-3.png?resize=768%2C577&amp;ssl=1 768w" sizes="(max-width: 1000px) 100vw, 1000px" />
+  </figure>
+  <p>There is a good chance that Deep Research, particularly as it evolves, will become the most effective search engine there has ever been; it will find whatever information there is to find about a particular topic and present it in a relevant way. It is the death, in other words, of security through obscurity. Previously we shifted from a world where you had to pay for the news to the news being fed to you; now we will shift from a world where you had to spend hours researching a topic to having a topic reported to you on command.</p>
+  <p>Unless, of course, the information that matters is not on the Internet. This is why I am not sharing the Deep Research report that provoked this insight: I happen to know some things about the industry in question — which is not related to tech, to be clear — because I have a friend who works in it, and it is suddenly clear to me how much future economic value is wrapped up in information not being public. In this case the entity in question is privately held, so there aren’t stock market filings, public reports, barely even a webpage! And so AI is blind.</p>
+  <p>There is another example, this time in tech, of just how valuable secrecy can be. Amazon launched S3, the first primitive offered by AWS, in 2006, followed by EC2 later that year, and soon <a href="https://stratechery.com/2015/venture-capital-and-the-internets-impact/">transformed startups and venture capital</a>. What wasn’t clear was to what extent AWS was transforming Amazon; the company slowly transitioned Amazon.com to AWS, and that was reason enough to list AWS’s financials under Amazon.com until 2012, and then under “Other” — along with things like credit card and (then small amounts of) advertising revenue — after that.</p>
+  <p>The grand revelation would come in 2015, when Amazon announced in January that it would break AWS out into a separate division for reporting purposes. From a <a href="https://www.reuters.com/article/technology/aws-move-disclosure-suggest-amazon-yielding-more-to-wall-street-idUSKBN0L305S/">Reuters report at the time</a>:</p>
+  <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+    <p>After years of giving investors the cold shoulder, Amazon.com Inc is starting to warm up to Wall Street. The No. 1 U.S. online retailer was unusually forthcoming during its fourth-quarter earnings call on Thursday, saying it will break out results this year, for the first time, for its fast-growing cloud computing unit, Amazon Web Services</p>
+    <p>The additional information shared during Amazon’s fourth-quarter results as well as its emphasis on becoming more efficient signaled a new willingness by Amazon executives to listen to investors as well. “This quarter, Amazon flexed its muscles and said this is what we can do when we focus on profits,” said Rob Plaza, senior equity analyst for Key Private Bank. “If they could deliver that upper teens, low 20s revenue growth and be able to deliver profits on top of that, the stock is going to respond.” The change is unlikely to be dramatic. When asked whether this quarter marked a permanent shift in Amazon’s relationship with Wall Street, Plaza laughed: “I wouldn’t be chasing the stock here based on that.”</p>
+    <p>Still, the shift is a good sign for investors, who have been clamoring for Amazon to disclose more about its fastest-growing and likely most profitable division that some analysts say accounts for 4 percent of total sales.</p>
+  </blockquote>
+  <p>In fact, AWS accounted for nearly 7 percent of total sales, and it was dramatically more profitable than anyone expected. The revelation caused such a massive uptick in the stock price that I called it <a href="https://stratechery.com/2015/the-aws-ipo/">The AWS IPO</a>:</p>
+  <blockquote class="wp-block-quote is-style-stratechery is-layout-flow wp-block-quote-is-layout-flow">
+    <p>One of the technology industry’s biggest and most important IPOs occurred late last month, with a valuation of $25.6 billion dollars. That’s more than Google, which IPO’d at a valuation of $24.6 billion, and certainly a lot more than Amazon, which finished its first day on the public markets with a valuation of $438 million. Don’t feel too bad for the latter, though: the “IPO” I’m talking about was Amazon Web Services, and it just so happens to still be owned by the same e-commerce company that went public nearly 20 years ago.</p>
+    <p>I’m obviously being facetious; there was no actual IPO for AWS, just an additional line item on Amazon’s financial reports finally breaking out the cloud computing service Amazon pioneered nine years ago. That line item, though, was almost certainly the primary factor in driving an overnight increase in Amazon’s market capitalization from $182 billion on April 23 to $207 billion on April 24. It’s not only that AWS is a strong offering in a growing market with impressive economics, it also may, in the end, be the key to realizing the potential of Amazon.com itself.</p>
+  </blockquote>
+  <p>That $25.6 billion increase in market cap, however, came with its own costs: both Microsoft and Google doubled down on their own cloud businesses in response, and while AWS is still the market leader, it faces stiff competition. That’s a win for consumers and customers, but also a reminder that known unknowns have a value all their own.</p>
+  <h3 class="wp-block-heading" id="surfacing-data">Surfacing Data</h3>
+  <p>I wouldn’t go so far as to say that Amazon was wrong to disclose AWS’s financials. In fact, SEC rules would have required as much once AWS revenue became 10% of the company’s overall business (today it is 15%, which might seem low until you remember that Amazon’s top-line revenue includes first-party e-commerce sales). Moreover, releasing AWS’s financials gave investors renewed confidence in the company, giving management freedom to continue investing heavily in capital expenditures for both AWS and the e-commerce business, fueling <a href="https://stratechery.com/2016/the-amazon-tax/">Amazon’s transformation into a logistics company</a>. The point, rather, is to note that secrets are valuable.</p>
+  <p>What is intersting to consider is what this means for AI tools like Deep Research. Hedge funds have long known the value of proprietary data, paying for everything from satellite images to traffic observers and everything in between in order to get a market edge. My suspicion is that work like this is going to become even more valuable as security by obscurity disappears; it’s going to be more difficult to harvest alpha from reading endless financial filings when an AI can do that research in a fraction of the time.<sup id="rf1-14571"><a href="https://stratechery.com/2025/deep-research-and-knowledge-value/#fn1-14571" title="I don&#8217;t think Deep Research is good at something like this, at least not yet. For example, I generated a report about what happened in 2015 surrounding Amazon&#8217;s disclosure, and the results were pretty poor; this is, however, the worst the tool will ever be." rel="footnote">1</a></sup></p>
+  <p>The problem with those hedge fund reports, however, is that they themselves are proprietary; however, they are not a complete secret. After all, the way to monetize that research is through making trades on the open market, which is to say those reports have an impact on prices. Prices are a signal that is available to everyone, and it’s going to become an increasingly important one.</p>
+  <p>That, by extension, is why AI’s like Deep Research are one of the most powerful arguments yet for prediction markets. Prediction markets had their moment in the sun last fall during the U.S. presidential election, when <a href="https://www.wsj.com/politics/elections/how-the-trump-whale-and-prediction-markets-beat-the-pollsters-in-2024-dd11ec4e">they were far more optimistic about a Trump victory than polls</a>. However, the potential — in fact, the necessity — of prediction markets is only going to increase with AI. AI’s capability of knowing everything that is public is going to increase the incentive to keep things secret; prediction markets in everything will provide a profit incentive for knowledge to be disseminated, by price if nothing else.</p>
+  <p>It is also interesting that prediction markets have become associated with crypto, another technology that is poised to come into its own in an AI-dominated world; infinite content generation increases the value of digital scarcity and verification, just as infinite transparency increases the value of secrecy. AI is likely to be the key to tying all of this together: a combination of verifiable information and understandable price movements may the only way to derive any meaning from the slop that is slowly drowning the Internet.</p>
+  <p>This is the other reality of AI, and why it is inescapable. Just as the Internet’s transparency and freedom to publish has devolved into torrents of information of questionable veracity, requiring ever more heroic efforts to parse, and undeniable opportunities to thrive by building independent brands — like this site — AI will both be the cause of further pollution of the information ecosystem and, simultaneously, the only way out.</p>
+  <h3 class="wp-block-heading" id="deep-research-impacts">Deep Research Impacts</h3>
+  <p>Much of this is in the (not-so-distant) future; for now Deep Research is one of the best bargains in technology. Yes, $200/month is a lot, and yes, Deep Research is limited by the quality of information on the Internet and is highly dependent on the quality of the prompt. I can’t say that I’ve encountered any particular sparks of creativity, at least in arenas that I know well, but at the same time, there is a lot of work that isn’t creative in nature, but necessary all the same. I personally feel much more productive, and, truth be told, I was never going to hire a researcher anyways.</p>
+  <p>That, though, speaks to the peril in two distinct ways. First, one reason I’ve never hired a researcher is that I see tremendous value in the search for and sifting of information. There is so much you learn on the way to a destination, and I value that learning; will serendipity be an unwelcome casualty to reports on demand? Moreover, what of those who haven’t — to take the above example — been reading Apple earnings reports for 12 years, or thinking and reading about technology for three decades? What will be lost for the next generation of analysts?</p>
+  <p>And, of course, there is the job question: lots of other entities employ researchers, in all sorts of fields, and those salaries are going to be increasingly hard to justify. I’ve known intellectually that AI would replace wide swathes of knowledge work; it is another thing to feel it viscerally.</p>
+  <p>At the same time, that is why the value of secrecy is worth calling out. Secrecy is its own form of friction, the purposeful imposition of scarcity on valuable knowledge. It speaks to what will be valuable in an AI-denominated future: yes, the real world and human-denominated industries will rise in economic value, but so will the tools and infrastructure that both drive original research and discoveries, and the mechanisms to price it. The power of AI, at least on our current trajectory, comes from knowing everything; the (perhaps doomed) response of many will be to build walls, toll gates, and marketplaces to protect and harvest the fruits of their human expeditions.</p>
+  <hr class="footnotes" />
+  <ol class="footnotes" style="list-style-type:decimal">
+    <li id="fn1-14571">
+      <p>I don’t think Deep Research is good at something like this, at least not yet. For example, I generated a report about what happened in 2015 surrounding Amazon’s disclosure, and the results were pretty poor; this is, however, the worst the tool will ever be. <a href="https://stratechery.com/2025/deep-research-and-knowledge-value/#rf1-14571" class="backlink" title="Return to footnote 1.">↩</a></p>
+    </li>
+  </ol>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2025-02-12</time>
+        <a href="https://nodebe4.github.io/opinion/2025-02-12/Super-Bowl-Ratings,-Netflix-to-Bid-on-F1-,-Thomson/">
+          Super Bowl Ratings, Netflix to Bid on F1?, Thomson Reuters v. Ross Intelligence
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2025-02-11</time>
+        <a href="https://nodebe4.github.io/opinion/2025-02-11/The-U.K.-Demands-Back-Door-From-Apple,-Elon-Musk-s/">
+          The U.K. Demands Back Door From Apple, Elon Musk’s OpenAI Bid
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2025-02-06</time>
+        <a href="https://nodebe4.github.io/opinion/2025-02-06/An-Interview-with-ServiceNow-Chairman-and-CEO-Bill/">
+          An Interview with ServiceNow Chairman and CEO Bill McDermott about Enterprise AI Agents
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2025-02-05</time>
+        <a href="https://nodebe4.github.io/opinion/2025-02-05/Google-Earnings,-Search-Status,-China-Antitrust-Ac/">
+          Google Earnings, Search Status, China Antitrust Actions
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2025-02-07/EP-135-%E5%9F%BA%E5%B1%82%E5%8C%BB%E7%94%9F-%E6%AF%94%E9%9B%86%E9%87%87%E8%8D%AF%E6%9B%B4%E5%8F%AF%E6%80%95%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88/">
+            前一篇：EP-135 基层医生：比集采药更可怕的是什么？
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2025-02-11/The-U.K.-Demands-Back-Door-From-Apple,-Elon-Musk-s/">
+            後一篇：The U.K. Demands Back Door From Apple, Elon Musk’s OpenAI Bid
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2025-02-07/EP-135-%E5%9F%BA%E5%B1%82%E5%8C%BB%E7%94%9F-%E6%AF%94%E9%9B%86%E9%87%87%E8%8D%AF%E6%9B%B4%E5%8F%AF%E6%80%95%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2025-02-11/The-U.K.-Demands-Back-Door-From-Apple,-Elon-Musk-s/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2025-02-11/The-U.K.-Demands-Back-Door-From-Apple,-Elon-Musk-s/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2025-02-06/An-Interview-with-ServiceNow-Chairman-and-CEO-Bill/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2025-02-07/EP-135-%E5%9F%BA%E5%B1%82%E5%8C%BB%E7%94%9F-%E6%AF%94%E9%9B%86%E9%87%87%E8%8D%AF%E6%9B%B4%E5%8F%AF%E6%80%95%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2025-02-11/The-U.K.-Demands-Back-Door-From-Apple,-Elon-Musk-s/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2025-02-11/The-U.K.-Demands-Back-Door-From-Apple,-Elon-Musk-s/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2025-02-06/An-Interview-with-ServiceNow-Chairman-and-CEO-Bill/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

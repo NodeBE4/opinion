@@ -1,0 +1,3013 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>2020 Bundles – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+2020 Bundles
+——
+" />
+    <meta property="og:description" content="
+2020 Bundles
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="2020 Bundles" />
+    <meta property="twitter:title" content="2020 Bundles" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2020%2F2020-bundles%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2020/2020-bundles/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2020/2020-bundles/&text=2020 Bundles&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2020/2020-bundles/&title=2020 Bundles" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2020/2020-bundles/&title=2020 Bundles" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=2020 Bundles&body=
+2020 Bundles
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2020/2020-bundles/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2020/2020-bundles/&title=2020 Bundles&caption=
+2020 Bundles
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=2020 Bundles&url=https://stratechery.com/2020/2020-bundles/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>2020 Bundles</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2020-09-22
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2020/2020-bundles/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1600787510000-->
+<p><a href="https://stratechery.com/2020/2020-bundles/">2020 Bundles</a>
+——</p>
+
+<div>
+  <p>If <a href="https://hbr.org/2014/06/how-to-succeed-in-business-by-bundling-and-unbundling">the famous Jim Barksdale quote</a> is to be believed — the one about there only being two ways to make money in business, bundling and unbundling — then I am long past due for a follow-up to 2017’s <a href="https://stratechery.com/2017/the-great-unbundling/">The Great Unbundling</a>. I wrote in the introduction:</p>
+  <blockquote>
+    <p>To say that the Internet has changed the media business is so obvious it barely bears writing; the media business, though, is massive in scope, ranging from this site to The Walt Disney Company, with a multitude of formats, categories, and business models in between. And, it turns out that the impact of the Internet — and the outlook for the future — differs considerably depending on what part of the media industry you look at.</p>
+  </blockquote>
+  <p>That article focused on three types of media: print, music, and TV (both broadcast and cable).</p>
+  <ul>
+    <li>Print was completely unbundled and commoditized by the Google and Facebook <a href="https://stratechery.com/2017/defining-aggregators/">Super Aggregators</a>.</li>
+    <li>Music labels, thanks to the importance of their back catalogs, have been able to maintain their place — and profits — in the value chain, even as Apple and Spotify have grown their revenues.</li>
+    <li>TV has seen the jobs it has traditionally done become unbundled, with information going to Google, education to YouTube, story-telling to streaming, and escapism to everything from TikTok to video games to Netflix; sports, meanwhile, is well on its way to being the only reason to keep the traditional bundle.</li>
+  </ul>
+  <p>What is critical to understand about Barksdale’s famous quote is that bundling and unbundling happen on different dimensions, and at different points in the value chain, often because of the transformative nature of technology. Netflix is an obvious example:</p>
+  <ul>
+    <li>When the constraint on viewing video was the combination of time and having a dedicated cable or satellite dish, the bundle that emerged was a collection of independent networks (which could show different content at the same time) delivered over channels sold by the distributor that owned said cable or dish.</li>
+    <li>Streaming removed the constraint on time, which meant one single “network” — Netflix — could, at least in theory, contain all of the content. Therefore Netflix doesn’t contain different channels or networks, but rather a huge number of shows, some produced in house, some bought, and others “rented” from traditional networks.</li>
+  </ul>
+  <p>In this case Netflix helped unbundle traditional TV, even as it created a new bundle of its own.</p>
+  <p>Looking at just TV, though, is insufficient when it comes to thinking about entertainment bundles broadly. Just listen to Netflix CEO Reed Hastings, who wrote in the company’s 2018 Q4 <a href="http://q4live.s22.clientfiles.s3-website-us-east-1.amazonaws.com/959853165/files/doc_financials/quarterly_reports/2018/q4/01/FINAL-Q4-18-Shareholder-Letter.pdf">letter to shareholders</a>:</p>
+  <blockquote>
+    <p>In the US, we earn around 10% of television screen time and less than that of mobile screen time. In 2 other countries, we earn a lower percentage of screen time due to lower penetration of our service. We earn consumer screen time, both mobile and television, away from a very broad set of competitors. We compete with (and lose to) Fortnite more than HBO. When YouTube went down globally for a few minutes in October, our viewing and signups spiked for that time. Hulu is small compared to YouTube for viewing time, and they are successful in the US, but non-existent in Canada, which creates a comparison point: our penetration in the two countries is pretty similar. There are thousands of competitors in this highly-fragmented market vying to entertain consumers and low barriers to entry for those with great experiences. Our growth is based on how good our experience is, compared to all the other screen time experiences from which consumers choose. Our focus is not on Disney+, Amazon or others, but on how we can improve our experience for our members.</p>
+  </blockquote>
+  <p>It it tempting to dismiss Hastings’ assertion as being self-serving, particularly as Netflix is viewed as a dominant force in Hollywood, but what is striking about the bundles that have emerged over the last couple of years — and over the last couple of weeks! — is the degree to which they span different types of media, often with widely varying business goals.</p>
+  <h4 id="netflix-bundle-as-business-model">Netflix: Bundle as Business Model</h4>
+  <p>I already explained how Netflix’s bundle is a reorganization of the TV value chain enabled by the removal of linear time as a constraint (I first wrote about this in 2015’s <a href="https://stratechery.com/2015/netflix-and-the-conservation-of-attractive-profits/">Netflix and the Conservation of Attractive Profits</a>). What is also worth highlighting, particularly for purposes of comparison below, is Netflix’s business model.</p>
+  <p>This one is quite straightforward: Netflix makes money by selling subscriptions to its bundle. Of course the execution of this strategy is considerably more complex. For example, Netflix focuses on evergreen content because that means that ever more content increases the attractiveness of Netflix to new subscribers, reducing customer acquisition costs. Netflix is also focused on quantity as much as quality, recognizing that people sometimes just want <em>something</em> to watch, and that there is value in being the default choice.</p>
+  <p>For purposes of this article, though, Netflix is straightforward:</p>
+  <ul>
+    <li>Netflix bundles individual shows</li>
+    <li>Netflix’s business model is selling subscriptions to that bundle.</li>
+  </ul>
+  <p>Other bundles are much less straightforward.</p>
+  <h4 id="disney-bundle-as-crm">Disney+: Bundle as CRM</h4>
+  <p>At first glance, Disney+ seems a lot like Netflix: pay a monthly price, and get access to a bunch of different shows. However differences quickly become apparent:</p>
+  <ul>
+    <li>Disney+ only has Disney (and Disney-owned 21st Century) content, whereas Netflix has both its own content and content from other networks.</li>
+    <li>Disney+ is significantly cheaper than Netflix ($6.99 versus $12.99).</li>
+    <li>Disney+ does not necessarily include everything on Disney+; for example, last month Disney released Mulan on Disney+ for an additional $29.99.</li>
+  </ul>
+  <p>These differences make sense when you realize that Disney+ is not simply about earning subscription revenue; rather, it is a direct-to-consumer touchpoint for Disney’s entire business. I explained in <a href="https://stratechery.com/2019/disney-and-the-future-of-tv/">Disney and the Future of TV</a>:</p>
+  <blockquote>
+    <p>While obviously Disney+ will compete with Netflix for consumer attention, the goals of the two services are very different: for Netflix, streaming is its entire business, the sole driver of revenue and profit. Disney, meanwhile, obviously plans for Disney+ to be profitable — the company projects that the service will achieve profitability in 2024, and that includes transfer payments to Disney’s studios — but the larger project is Disney itself.</p>
+    <p>By controlling distribution of its content and going direct-to-consumer, Disney can deepen its already strong connections with customers in a way that benefits all parts of the business: movies can beget original content on Disney+ which begets new attractions at theme parks which begets merchandising opportunities which begets new movies, all building on each other like a cinematic universe in real life. Indeed, it is a testament to just how lucrative the traditional TV model is that it took so long for Disney to shift to this approach: it is a far better fit for their business in the long run than simply spreading content around to the highest bidder.</p>
+    <p>This is also why Disney is comfortable being so aggressive in price: the company could have easily tried charging $9.99/month or Netflix’s $12.99/month — the road to profitability for Disney+ would have surely been shorter. The outcome for Disney as a whole, though, would be worse: a higher price means fewer customers, and given the multitude of ways that Disney has to monetize customers throughout their entire lives that would have been a poor trade-off to make.</p>
+  </blockquote>
+  <p>The Mulan strategy fits this model. While Disney’s hand was certainly forced by the COVID pandemic, the company’s overall goal is to maximize revenue per customer via its highly differentiated IP; to that end, just as Disney+ is a way to connect with customers and lure them to Disney World or a Disney Cruise, it is equally effective at serving as platform for shifting the theater window to customers’ living rooms.</p>
+  <h4 id="amazon-bundle-as-churn-management">Amazon: Bundle as Churn Management</h4>
+  <p>It took me a long time to figure out what exactly Amazon was trying to accomplish with Amazon Prime Video, its now 14 year-old streaming service. The most obvious explanation is that it was a way to acquire customers for Amazon Prime, the then-2-day shipping service with which it was bundled. But then Amazon started offering Prime Video subscriptions on its own — was it a Netflix competitor? Or was Prime Video a loss leader for Amazon Channels, where <a href="https://stratechery.com/2018/sports-gambling-defederalized-amazon-channels/">Amazon made money selling other streaming services</a>? Meanwhile, Amazon Prime keeps adding on more and more disparate services: delivery, video, music, video games, photo storage, a clothing service, books, magazines — the <a href="https://www.amazon.com/primeinsider/about?ref=primenav_benefits">Prime benefits page</a> has 28 different items listed!</p>
+  <p>To some extent, the answer is “all of the above”, but it is notable that many customers only find out about many of these features <em>after</em> they are subscribers; Amazon may tell you about the book benefits when you buy an e-book for example, Amazon Music when you set up an Echo, or remind you about Prime Video when you checkout. The most valuable impact in these cases is giving you yet another reason to not churn.</p>
+  <p>This makes sense when you remember that the business model for the Amazon Prime bundle is less subscription revenue than it is increasing usage of Amazon.com. <a href="https://stratechery.com/2015/daily-update-googles-results-amazons-results-workmail/">Back in 2015</a> Prime customers were estimated to spend an average of $1,500/year on Amazon, compared to $625 for non-Prime customers; according to eMarketer <a href="https://www.emarketer.com/content/do-most-searchers-really-start-on-amazon">earlier this year</a>, 80% of Prime subscribers start their product search on Amazon, and only 12% on Google, while that split is 50/50 for non-Prime subscribers.</p>
+  <p>To that end, simply keeping Amazon Prime subscribers is the biggest possible win for Amazon broadly. Thus the continuous drive to add more and more features; sure, you may find 90% of them useless, along with everyone else, but as anyone who has managed a feature-rich product knows, the 10% that are considered useful vary considerably!</p>
+  <h4 id="microsoft-bundle-as-market-expansion">Microsoft: Bundle as Market Expansion</h4>
+  <p>One of the most interesting stories to watch over the coming few years will be the competition between the PS5 and Xbox Series X and Series S. <a href="https://stratechery.com/2020/ps5-and-xbox-sonys-console-microsofts-service/">Last Thursday</a> I explained why the companies are heading in very different directions:</p>
+  <blockquote>
+    <p>In short, Sony is treating the PS5 like a console, and gamers like gamers, just as they did last generation. It is an overall aligned strategy that makes a lot of sense…</p>
+    <p>Microsoft is seeking to get out of the traditional console business, with its loss-leading hardware and fight over exclusives, and into the services business broadly; that’s why Xbox Game Pass, the cloud streaming service that is available not only on Xbox and PC but also on Android phones (Apple has blocked it from iOS <a href="https://stratechery.com/2020/samsung-and-google-samsung-and-microsoft-xbox-game-pass-and-ios/">for business model reasons</a>), is included. In Microsoft’s view of the world the Xbox is just a specialized device for accessing their game service, which, if they play their cards right, you will stay subscribed to for years to come.</p>
+  </blockquote>
+  <p>Sony is following the traditional razor and blades model that has long characterized consoles: try and not lose too much money on its consoles, and make up the difference in game licenses, its online service, and in-game purchases. It’s a model that gamers are familiar with, even if it ends up being a pricey one: this generation games are expected to hit the $70 mark, plus more for additional downloadable content that may or may not be necessary to the core experience.</p>
+  <p>Microsoft is taking a different approach: with Xbox Game Pass you not only get access to over 100 games, along with all of the other usual online services you might expect, but for an additional $10/month, you can get an Xbox Series S as well ($20/month for the more capable Series X)! Notice the framing there, which is the opposite of how I put it on Thursday: given the fact that consoles have always been an up-front purchase, the natural way to think about Microsoft’s monthly pricing option is that it is a 24-month installment plan for the $299 Series S or the $499 Series X, with Xbox Game Pass added on top. Given that Microsoft’s strategy is all about subscriptions, though, it makes sense to consider the console itself as the bundled benefit.</p>
+  <p>What is compelling about Microsoft’s approach is its potential for expanding the gaming market. Traditional gamers will still be attracted to Sony’s model and its exclusives, but for folks whose last console was the Wii (for which they only ever bought Wii Sports), the $25/month Xbox bundle is a pretty attractive way to not only get a console, but over 100 games; if Microsoft pulls this bundle off, its overall revenue and especially profit could surpass Sony’s more traditional approach, particularly in the long run.</p>
+  <h4 id="apple-bundle-as-money-maker">Apple: Bundle as Money-Maker</h4>
+  <p>All of this is a long way of explaining why I was relatively underwhelmed by <a href="https://stratechery.com/2020/apples-time-flies-event-apple-one-fitness-and-peloton/">last week’s announcement</a> of Apple One. Apple One includes Apple Music, Apple TV+, Apple Arcade, and iCloud storage, for either individuals or families; Apple Premier adds on Apple News+ and Apple Fitness+.</p>
+  <p>Some of the aforementioned bundle strategies are applicable to Apple One, others less so:</p>
+  <ul>
+    <li>While Apple’s primary business model remains selling hardware at a profit, the company has a longstanding goal of increasing services revenue; selling a bundle potentially helps in that regard.</li>
+    <li>Apple doesn’t really need any help connecting to its customers, although iCloud Storage does make for a better overall Apple experience.</li>
+    <li>Apple One may reduce churn, particularly if customers are attached to the Apple-only services like Apple Arcade, Apple News+, and Apple Fitness+, but the truth is that Apple’s churn is already quite low</li>
+    <li>On the flipside, Apple One doesn’t really make an iPhone any more accessible, particularly since Apple is competing against Android, as opposed to non-consumption.</li>
+  </ul>
+  <p>To me the biggest hangup is the first one: the degree to which a bundle is compelling is the degree to which it is integrated with and contributes to a company’s core business model, and, in contrast to these other four companies, it’s a bit of a stretch to see how Apple One really move the needle when it comes to buying an iPhone or not.</p>
+  <p>To that end, what would be much more compelling is attaching Apple One to the iPhone explicitly. I thought this might be coming after <a href="https://stratechery.com/2019/the-iphone-and-apples-services-strategy/">last year’s iPhone announcement</a>:</p>
+  <blockquote>
+    <p>It does feel like there is one more shoe yet to drop when it comes to Apple’s strategic shift. The fact that Apple is bundling a for-pay service (Apple TV+) with a product purchase is interesting, but what if Apple started including products with paid subscriptions?</p>
+    <p>That may be closer than it seems. It seemed strange yesterday’s keynote included an Apple Retail update at the very end of the keynote, but I think this slide explained why:</p>
+    <p><a href="https://stratechery.com/2019/the-iphone-and-apples-services-strategy/"><img src="https://stratechery.com/wp-content/uploads/2019/09/Screen-Shot-2019-09-11-at-5.47.14-AM-1024x586.png" alt="iPhone monthly pricing" width="640" height="366" class="aligncenter size-large wp-image-4370" srcset="https://stratechery.com/wp-content/uploads/2019/09/Screen-Shot-2019-09-11-at-5.47.14-AM-1024x586.png 1024w, https://stratechery.com/wp-content/uploads/2019/09/Screen-Shot-2019-09-11-at-5.47.14-AM-300x172.png 300w, https://stratechery.com/wp-content/uploads/2019/09/Screen-Shot-2019-09-11-at-5.47.14-AM-768x439.png 768w, https://stratechery.com/wp-content/uploads/2019/09/Screen-Shot-2019-09-11-at-5.47.14-AM-1102x630.png 1102w" sizes="(max-width: 640px) 100vw, 640px" /></a></p>
+    <p>Not only can you get a new iPhone for less if you trade in your old one, you can also pay for it on a monthly basis (this applies to phones without a trade-in as well). So, in the case of this slide, you can get an iPhone 11 and Apple TV+ for $17/month.</p>
+    <p>Apple also adjusted their AppleCare+ terms yesterday: now you can subscribe monthly and AppleCare+ will carry on until you cancel, just as other Apple services like Apple Music or Apple Arcade do. The company already has the iPhone Upgrade Program, that bundles a yearly iPhone and AppleCare+, but this shift for AppleCare+ purchased on its own is another step towards assuming that Apple’s relationship with its customers will be a subscription-based one.</p>
+    <p>To that end, how long until there is a variant of the iPhone Upgrade Program that is simply an all-up Apple subscription? Pay one monthly fee, and get everything Apple has to offer. Indeed, nothing would show that Apple is a Services company more than making the iPhone itself a service, at least as far as the customer relationship goes.</p>
+  </blockquote>
+  <p>The problem is that Apple’s financing programs — both the one pictured above, and also the <a href="https://www.apple.com/shop/iphone/iphone-upgrade-program">iPhone Upgrade Program</a> — continue to be funded by 3rd-parties; Apple is making it easier to buy an iPhone, but is still focused on getting its money right away. And, as long as it sticks with this approach, its Apple One bundle feels more like a money-grab, and less like a strategic driver of the business.<a href="https://stratechery.com/2020/2020-bundles/#footnote_0_5278" id="identifier_0_5278" class="footnote-link footnote-identifier-link" title="Moreover, Apple runs the risk of actually cannibalizing itself, as its most ardent customers happily take a discount for services they would have subscribed to anyways.">1</a></p>
+  <h4 id="microsoft-and-zenimax">Microsoft and Zenimax</h4>
+  <p>Stepping back, what is notable about all of these examples is that only Netflix is a pure content play. Disney, Amazon, Microsoft, and Apple are all using content to differentiate something in physical space. This makes logical sense: content, with its zero marginal costs and zero distribution costs<a href="https://stratechery.com/2020/2020-bundles/#footnote_1_5278" id="identifier_1_5278" class="footnote-link footnote-identifier-link" title="On a marginal basis, to be clear; obviously Netflix&rsquo;s bandwidth bills are massive">2</a> is non-rivalrous, which makes it challenging to monetize directly. Indeed, this is why bundling is so important to Netflix: its value is always having something to watch, as opposed to having the one thing you have to have.</p>
+  <p>At the same time, content is highly differentiated, while goods in physical space are rivalrous but subject to commoditization. The former, delivered in a bundle with the latter, makes it possible to charge a premium for or drive increased usage of the product as a whole, whether that be a theme park or cruise ship, a cardboard box or console.</p>
+  <p>What is interesting is that the same forces that broke up the old distribution-based bundles and reduced content to a differentiator for physical goods and experiences, have also made content directly monetizable through business models like subscriptions. This, in turn, has made content-only bundles that much more difficult to create: the higher the bar there is for any individual content creator to join a bundle, the more necessary it is to have an orthogonal business model that justifies clearing that bar.</p>
+  <p>This also explains <a href="https://www.bloomberg.com/news/articles/2020-09-21/microsoft-to-buy-bethesda-studios-for-7-5-billion-to-boost-xbox">Microsoft’s purchase of Zenimax</a>, the publisher for Elder Scrolls, Doom, Fallout, and many more popular games. Going forward Microsoft can ensure those games are available from day one on Xbox Game Pass (and not on PS5<a href="https://stratechery.com/2020/2020-bundles/#footnote_2_5278" id="identifier_2_5278" class="footnote-link footnote-identifier-link" title="Microsoft will honor current PS5 deals, and handle future games on a case-by-case basis.">3</a>), using content to differentiate their service. However, given that Zenimax’s alternative was continuing to sell games directly, Microsoft has to pay $7.5 billion in cash for the opportunity.</p>
+  <p>What is even more interesting about the Zenimax acquisition, though, are the implications for Steam, the PC gaming service. Steam, like Netflix, is a content-only play, although it is a marketplace, not a subscription service. Microsoft will probably leave Zenimax games on Steam, but if those same games are available on Xbox Game Pass for $15/month, how many folks will be willing to pay full price? In short, Microsoft could potentially wield the content-differentiated bundle it is building across services and devices not only against Sony, its console competitor, but Steam, its services competitor.</p>
+  <p>This also gives insight as to why Apple’s bundle is underwhelming: PS5 and Steam are real competitors — Microsoft is arguably an underdog to both — which means the Xbox maker has to be creative. Apple, meanwhile, simply wants to make a bit more money on an audience that doesn’t have anywhere else to go. Perhaps the best way to make money is to not need a bundle at all.</p>
+  <ol class="footnotes">
+    <li id="footnote_0_5278" class="footnote">Moreover, Apple runs the risk of actually cannibalizing itself, as its most ardent customers happily take a discount for services they would have subscribed to anyways.</li>
+    <li id="footnote_1_5278" class="footnote">On a marginal basis, to be clear; obviously Netflix’s bandwidth bills are massive</li>
+    <li id="footnote_2_5278" class="footnote">Microsoft will honor current PS5 deals, and handle future games on a case-by-case basis.</li>
+  </ol>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2020-10-07</time>
+        <a href="https://nodebe4.github.io/opinion/2020-10-07/Anti-monopoly-vs.-Antitrust/">
+          Anti-monopoly vs. Antitrust
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-10-07</time>
+        <a href="https://nodebe4.github.io/opinion/2020-10-07/Anti-Monopoly-vs.-Antitrust/">
+          Anti-Monopoly vs. Antitrust
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-09-15</time>
+        <a href="https://nodebe4.github.io/opinion/2020-09-15/Nvidia-s-Integration-Dreams/">
+          Nvidia’s Integration Dreams
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-08-25</time>
+        <a href="https://nodebe4.github.io/opinion/2020-08-25/Rethinking-the-App-Store/">
+          Rethinking the App Store
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2020-09-22/2020%E5%B9%B4%E4%B8%AD%E5%9C%8B%E9%82%8A%E5%A2%83%E9%82%8A%E5%BA%A6%E6%9C%80%E6%98%93%E6%93%A6%E6%A7%8D%E8%B5%B0%E7%81%AB%E5%91%A2/">
+            前一篇：2020年中國邊境邊度最易擦槍走火呢？
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2020-09-23/%E7%8D%84%E4%B8%AD%E6%9B%B8%E7%B0%A1-%E5%91%8A%E5%88%A5%E5%A3%81%E5%B1%8B/">
+            後一篇：【獄中書簡】告別壁屋
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2020-09-22/2020%E5%B9%B4%E4%B8%AD%E5%9C%8B%E9%82%8A%E5%A2%83%E9%82%8A%E5%BA%A6%E6%9C%80%E6%98%93%E6%93%A6%E6%A7%8D%E8%B5%B0%E7%81%AB%E5%91%A2/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2020-09-23/%E7%8D%84%E4%B8%AD%E6%9B%B8%E7%B0%A1-%E5%91%8A%E5%88%A5%E5%A3%81%E5%B1%8B/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2020-10-07/Anti-Monopoly-vs.-Antitrust/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2020-09-15/Nvidia-s-Integration-Dreams/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2020-09-22/2020%E5%B9%B4%E4%B8%AD%E5%9C%8B%E9%82%8A%E5%A2%83%E9%82%8A%E5%BA%A6%E6%9C%80%E6%98%93%E6%93%A6%E6%A7%8D%E8%B5%B0%E7%81%AB%E5%91%A2/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2020-09-23/%E7%8D%84%E4%B8%AD%E6%9B%B8%E7%B0%A1-%E5%91%8A%E5%88%A5%E5%A3%81%E5%B1%8B/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2020-10-07/Anti-Monopoly-vs.-Antitrust/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2020-09-15/Nvidia-s-Integration-Dreams/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

@@ -1,0 +1,2978 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>The Amazon Empire Strikes Back – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+The Amazon Empire Strikes Back
+——
+" />
+    <meta property="og:description" content="
+The Amazon Empire Strikes Back
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="The Amazon Empire Strikes Back" />
+    <meta property="twitter:title" content="The Amazon Empire Strikes Back" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2021%2Fthe-amazon-empire-strikes-back%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2021/the-amazon-empire-strikes-back/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2021/the-amazon-empire-strikes-back/&text=The Amazon Empire Strikes Back&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2021/the-amazon-empire-strikes-back/&title=The Amazon Empire Strikes Back" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2021/the-amazon-empire-strikes-back/&title=The Amazon Empire Strikes Back" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=The Amazon Empire Strikes Back&body=
+The Amazon Empire Strikes Back
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2021/the-amazon-empire-strikes-back/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2021/the-amazon-empire-strikes-back/&title=The Amazon Empire Strikes Back&caption=
+The Amazon Empire Strikes Back
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=The Amazon Empire Strikes Back&url=https://stratechery.com/2021/the-amazon-empire-strikes-back/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>The Amazon Empire Strikes Back</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2021-12-06
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2021/the-amazon-empire-strikes-back/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1638792626000-->
+<p><a href="https://stratechery.com/2021/the-amazon-empire-strikes-back/">The Amazon Empire Strikes Back</a>
+——</p>
+
+<div>
+  <p>It seems like a Christmas miracle. From <a href="https://www.cnbc.com/2021/12/04/how-amazon-beats-supply-chain-chaos-with-ships-and-long-haul-planes.html">CNBC</a>:</p>
+  <blockquote>
+    <p>For years, Amazon has been quietly chartering private cargo ships, making its own containers, and leasing planes to better control the complicated shipping journey of an online order. Now, as many retailers panic over supply chain chaos, Amazon’s costly early moves are helping it avoid the long wait times for available dock space and workers at the country’s busiest ports of Long Beach and Los Angeles…</p>
+    <p>By chartering private cargo vessels to carry its goods, Amazon can control where its goods go, avoiding the most congested ports. Still, Amazon has seen a 14% rise in out-of-stock items and an average price increase of 25% since January 2021, according to e-commerce management platform CommerceIQ…</p>
+    <p>Amazon has been on a spending spree to control as much of the shipping process as possible. It spent more than $61 billion on shipping in 2020, up from just under $38 billion in 2019. Now, Amazon is shipping 72% of its own packages, up from less than 47% in 2019 according to SJ Consulting Group. It’s even taking control at the first step of the shipping journey by making its own 53-foot cargo containers in China. Containers are in short supply, with long wait times and prices surging from less than $2,000 before the pandemic to $20,000 today.</p>
+  </blockquote>
+  <p>The intended takeaway of this article — which <a href="https://www.cnbc.com/video/2021/12/04/how-amazon-beats-supply-chain-chaos-with-ships-and-long-haul-planes.html">originated as a digital special report</a> — is clear: Amazon is better and smarter and richer than any other retailers, and isn’t suffering the same sort of supply chain challenges that everyone else is this Christmas.</p>
+  <p>I’ll get to who the intended target for this message is in a moment, but there is an important question that needs to be asked first: is this even true?</p>
+  <h4 id="shipping-and-the-supply-chain">Shipping and the Supply Chain</h4>
+  <p>Start with those containers; the vast majority of shipping containers come in two sizes: 20 foot (i.e. 1 TEU — twenty-foot equivalent unit) and 40 foot (2 TEUs); there are a small number of 45 foot containers, but there is one number that does not exist — 53 foot containers. This isn’t simply a matter of will; what made containers so revolutionary was their standardization, which not only extends to ships but also the gantry cranes used to load and unload them, the truck chassis used to move them around ports, and the storage racks that hold them until they can be unloaded and their contents transferred onto semi tractor-trailers.</p>
+  <p>Guess, by the way, how long those trailers are? 53 feet. In other words, yes, Amazon has been making a whole bunch of containers, but those containers are not and can not be used for shipping; they are an investment into Amazon’s <em>domestic</em> delivery capability.</p>
+  <p>This investment is vast: Amazon is also leasing planes, <a href="https://www.cnbc.com/2021/08/11/amazon-opens-1point5-billion-kentucky-air-hub-in-bid-to-speed-deliveries.html">just opened</a> a new Air Hub in Cincinnati (Amazon was previously leasing DHL’s package hub during off hours), built (or is building) over 400 distribution and sortation centers in the United States alone, and has farmed out a huge delivery fleet to independent operators who exist only to serve Amazon, all with the goal of cost efficiently getting orders to customers within two days, <a href="https://stratechery.com/2019/day-two-to-one-day/">and eventually one</a>.</p>
+  <p>This vertical integration, though, stops at the ocean, for reasons that are obvious once you think through the economics of shipping. While container ships can range as high as 18,000 TEUs, a typical trans-Pacific ship is about 8,000 TEUs (which is around 6,500 fully loaded containers), and costs around $100 million. Right off the bat you can see that shipping has a massive fixed cost component that dictates that the asset in question be utilized as much as possible. More than that, the marginal costs per trip — it takes around seven weeks to do a trans-Pacific round trip in normal times — is significant as well, around $5 million. This means that the ship has to be as fully loaded as possible.</p>
+  <p>The only way that this works is if a smaller number of shipping companies are serving a larger number of customers, and doing so on a set schedule such that those customers can easily coordinate their logistics (which means that all of those capex and opex numbers have be multiplied by 7, to guarantee a sailing-per-week). Amazon couldn’t profitably leverage an investment of this magnitude any more than Apple could profitably run its own foundry; in that case TSMC can justify an investment in a <a href="https://www.taiwannews.com.tw/en/news/3805032">$20 billion fab</a> because its broad customer base gives the company confidence it can fully utilize that investment not just in 2023 but for many years into the future. It’s the same thing with shipping, which is to say that Amazon is in the same boat as everyone else — mostly.</p>
+  <h4 id="amazon-freight-forwarding">Amazon Freight-Forwarding</h4>
+  <p>That CNBC story follows on a similar story <a href="https://www.bloomberg.com/news/articles/2021-11-24/amazon-s-christmas-shipping-plan-to-combat-global-supply-chain-crisis?sref=5KSwFgaY">in Bloomberg</a> last month that opens with an anecdote about one of Amazon’s workarounds:</p>
+  <blockquote>
+    <p>Most cargo ships putting into the port of Everett, Washington, brim with cement and lumber. So when the Olive Bay docked in early November, it was clear this was no ordinary shipment. Below decks was rolled steel bound for Vancouver, British Columbia, and piled on top were 181 containers emblazoned with the Amazon logo. Some were empty and immediately used to shuffle inventory between the company’s warehouses. The rest, according to customs data, were stuffed with laptop sleeves, fire pits, Radio Flyer wagons, Peppa Pig puppets, artificial Christmas trees and dozens of other items shipped in directly from China — products Amazon.com Inc. needs to keep shoppers happy during a holiday season when many retailers are scrambling to keep their shelves full.</p>
+  </blockquote>
+  <p>This actually isn’t quite as meaningful as it seems; these multi-purpose ships (which are usually used for commodities) carry a fraction of the cargo of those big container ships anchored off the coast (and the costs are extremely high); airplanes that cross the Pacific, which Amazon is also leasing, carry even less (and cost even more):</p>
+  <p><a href="https://www.cnbc.com/video/2021/12/04/how-amazon-beats-supply-chain-chaos-with-ships-and-long-haul-planes.html"><img loading="lazy" src="https://i1.wp.com/stratechery.com/wp-content/uploads/2021/12/amazonempire-1.png?resize=640%2C360&#038;ssl=1" alt="" width="640" height="360" class="aligncenter size-large wp-image-8157" srcset="https://i1.wp.com/stratechery.com/wp-content/uploads/2021/12/amazonempire-1.png?resize=1024%2C576&amp;ssl=1 1024w, https://i1.wp.com/stratechery.com/wp-content/uploads/2021/12/amazonempire-1.png?resize=300%2C169&amp;ssl=1 300w, https://i1.wp.com/stratechery.com/wp-content/uploads/2021/12/amazonempire-1.png?resize=768%2C432&amp;ssl=1 768w, https://i1.wp.com/stratechery.com/wp-content/uploads/2021/12/amazonempire-1.png?resize=1120%2C630&amp;ssl=1 1120w, https://i1.wp.com/stratechery.com/wp-content/uploads/2021/12/amazonempire-1.png?w=1280&amp;ssl=1 1280w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></a></p>
+  <p>Still, even if these stories get some specifics wrong, they do get the big picture right: Amazon is one of the best ways to get your goods to customers. The key thing is that this capacity is not due to last minute ship charters or airplane leases, but rather investments and initiatives Amazon undertook years ago.</p>
+  <p>In the case of the trans-Pacific trade the key move was Amazon’s <a href="https://www.reuters.com/article/us-amazon-com-freight-idUSKCN0US2YW">2016 establishment</a> of a freight-forwarding business. A freight-forwarder is basically a middleman in the supply chain which buys a guaranteed amount of space on ships, often via multi-year contracts at guaranteed rates with guaranteed space, and then re-sells that space to people who need it. This means that Amazon could, if they wanted to, make massive profits by reselling space they negotiated last year, but instead it appears that the company is offering space at cost to its resellers; this is the most important part of that Bloomberg article:</p>
+  <blockquote>
+    <p>This logistical prowess hasn’t been lost on the merchants who sell products on Amazon’s sprawling marketplace. For years, they resisted using the company’s global shipping service because doing so means sharing information about pricing and suppliers, data they fear the company could use to compete with them. But container shortages in the leadup to the holiday season persuaded many of them to overcome their qualms and entrust their cargos to the world’s largest online retailer. “Amazon had space on ships and I couldn’t say no to anyone,” says David Knopfler, whose Brooklyn-based Lights.com sells home décor and lighting fixtures. “If Kim Jong Un had a container, I might take it, too. I can’t be idealistic.” Knopfler says Amazon’s prices were “phenomenal,” $4,000 to ship a container from China compared with the $12,000 demanded by other freight forwarders.</p>
+  </blockquote>
+  <p>This gets at the real challenge facing smaller merchants: getting delayed outside of Los Angeles is preferable to not even getting on a ship in the first place, and while no one, not even Amazon, can unsnarl the ports, the e-commerce giant is ready to take care of everything else (including working around the edges for high margin goods).</p>
+  <p>This also gets at the question I raised at the beginning: who is the target for these stories, which have all the hallmarks of being planted by Amazon PR? The Bloomberg piece concludes:</p>
+  <blockquote>
+    <p>“Amazon will stick to its guns and get things to customers,” says David Glick, a former Amazon logistics executive who is now chief technology officer at Seattle logistics startup Flexe. “It’s going to be expensive but, in the long term, builds customer trust.”</p>
+  </blockquote>
+  <p>That is certainly a big benefit: to the extent that Amazon has goods in stock this Christmas, and other retailers don’t, the more likely it is that customers will start their shopping at Amazon.com. This is critical because aggregating customer demand is the foundation of Amazon’s moat. I think though, that is secondary; Amazon’s more important target are those third party merchants benefiting from the company’s investment, who were previously incentivized to go it alone.</p>
+  <h4 id="the-empire-strikes-back">The Empire Strikes Back</h4>
+  <p>I wrote about Amazon’s logistics integration in the context of 3rd-party merchants in 2019:</p>
+  <blockquote>
+    <p>In 2006 Amazon announced Fulfillment by Amazon, wherein 3rd-party merchants could use those fulfillment centers too. Their products would not only be listed on Amazon.com, they would also be held, packaged, and shipped by Amazon. In short, Amazon.com effectively bifurcated itself into a retail unit and a fulfillment unit…</p>
+    <p><a href="https://stratechery.com/2019/shopify-and-the-power-of-platforms/"><img loading="lazy" src="https://i1.wp.com/stratechery.com/wp-content/uploads/2019/07/IMG_272058378EFF-4.jpeg?resize=640%2C452&#038;ssl=1" alt="A drawing of Amazon and Aggregation" width="640" height="452" class="aligncenter size-full wp-image-4280" srcset="https://i1.wp.com/stratechery.com/wp-content/uploads/2019/07/IMG_272058378EFF-4.jpeg?w=975&amp;ssl=1 975w, https://i1.wp.com/stratechery.com/wp-content/uploads/2019/07/IMG_272058378EFF-4.jpeg?resize=300%2C212&amp;ssl=1 300w, https://i1.wp.com/stratechery.com/wp-content/uploads/2019/07/IMG_272058378EFF-4.jpeg?resize=768%2C542&amp;ssl=1 768w, https://i1.wp.com/stratechery.com/wp-content/uploads/2019/07/IMG_272058378EFF-4.jpeg?resize=893%2C630&amp;ssl=1 893w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></a></p>
+    <p>Despite the fact that Amazon had effectively split itself in two in order to incorporate 3rd-party merchants, this division is barely noticeable to customers. They still go to Amazon.com, they still use the same shopping cart, they still get the boxes with the smile logo. Basically, Amazon has managed to incorporate 3rd-party merchants while still owning the entire experience from an end-user perspective.</p>
+  </blockquote>
+  <p>That article was about <a href="https://stratechery.com/2019/shopify-and-the-power-of-platforms/">Shopify and the Power of Platforms</a>, and the point was to explain how Shopify was taking a very different approach: by being in the background the Canadian company was enabling merchants to build their own brands and own their own customers; this was the foundation of the <a href="https://stratechery.com/2020/the-anti-amazon-alliance/">Anti-Amazon Alliance</a>, which by 2020, in light of news that Amazon was leveraging 3rd-party merchant data for its own products, seemed more attractive than ever:</p>
+  <blockquote>
+    <p>3rd-party merchants, particularly those with differentiated products and brands, should seek to leave Amazon’s platform sooner-rather-than-later. It is hard to be in the Anti-Amazon Alliance if you are asking Amazon to find you your customers, stock your inventory, package your products, and deliver your goods; there are alternatives and — now that Google is all-in — the only limitation is a merchant’s ability to acquire and keep customers in a world where their products are as easy to buy as bad PR pitches are easy to find.</p>
+  </blockquote>
+  <p>These supply chain challenges, though, are enabling the empire to strike back; again from the Bloomberg article:</p>
+  <blockquote>
+    <p>Amazon also simplifies the process since it oversees the shipment from China to its U.S. warehouses. Other services have lots of intermediaries where cargo swaps hands, presenting opportunities for miscommunication and delays. “It’s a one-stop-shop from Asia to Amazon,” says Walter Gonzalez, CEO of Miami-based GOJA, which sells various products on Amazon including Magic Fiber cleaner for glasses. “It reduces the gray areas where the shipping process might fail.” Gonzalez says his company, which has been using Amazon’s global logistics service, has about 95% of the inventory it needs to meet holiday demand.</p>
+  </blockquote>
+  <p>It’s more than that: it’s a one-stop shop from Chinese ports to customers’ front doors, thanks to all of those domestic investments in logistics, and as long as the supply chain is a challenge, the Anti-Amazon Alliance will be at a big disadvantage.</p>
+  <p>This isn’t the only area where Amazon is increasingly attractive to third-party merchants: Apple’s App Tracking Transparency (ATT) changes favor Amazon in a big way as well. What makes a modular ecosystem possible is platforms that allow disparate parts to work together, such that the sum is greater than the whole. This very much applies to Facebook’s ad ecosystem, where disparate e-commerce sellers effectively pool all of their conversion data in one place — Facebook — such that they all benefit from better targeting. ATT, though, is targeted at this sort of cooperation, while Amazon is immune because of its integration. Sure, the company collects plenty of data about consumers (often to the consternation of those 3rd party merchants), but because Amazon controls both ad inventory on its site and apps, and also the conversion, it isn’t covered by ATT (or other privacy laws like GDPR).</p>
+  <p>This doesn’t apply to just Amazon: Google has similar advantages on the web, and Apple with apps. The reality is that the more that information (in the case of advertising) and goods (in the case of the supply chain) are able to move freely, the better chance smaller competitors have against integrated giants. The world, though, both online and off, is moving in the opposite direction.</p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2021-12-20</time>
+        <a href="https://nodebe4.github.io/opinion/2021-12-20/The-2021-Stratechery-Year-in-Review/">
+          The 2021 Stratechery Year in Review
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-12-14</time>
+        <a href="https://nodebe4.github.io/opinion/2021-12-14/The-Great-Bifurcation/">
+          The Great Bifurcation
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-11-30</time>
+        <a href="https://nodebe4.github.io/opinion/2021-11-30/Twitter-Has-a-New-CEO;-What-About-a-New-Business-M/">
+          Twitter Has a New CEO; What About a New Business Model?
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-11-18</time>
+        <a href="https://nodebe4.github.io/opinion/2021-11-18/Unity,-Weta,-and-Faceless-Platforms/">
+          Unity, Weta, and Faceless Platforms
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2021-12-05/wangdan1989/">
+            前一篇：Twitter @王丹: 2021-11-29~2021-12-05
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2021-12-06/%E8%82%85%E8%AA%AA-%E5%BE%9E%E8%B3%B4%E6%98%8C%E6%98%9F%E5%88%B0%E8%B6%99%E5%AF%8C%E5%BC%B7-%E7%B4%85%E6%A8%93%E9%82%84%E6%98%AF%E9%82%A3%E5%BA%A7%E7%B4%85%E6%A8%93/">
+            後一篇：肅說：從賴昌星到趙富強 紅樓還是那座紅樓
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2021-12-05/wangdan1989/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2021-12-06/%E8%82%85%E8%AA%AA-%E5%BE%9E%E8%B3%B4%E6%98%8C%E6%98%9F%E5%88%B0%E8%B6%99%E5%AF%8C%E5%BC%B7-%E7%B4%85%E6%A8%93%E9%82%84%E6%98%AF%E9%82%A3%E5%BA%A7%E7%B4%85%E6%A8%93/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2021-12-14/The-Great-Bifurcation/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2021-11-30/Twitter-Has-a-New-CEO;-What-About-a-New-Business-M/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2021-12-05/wangdan1989/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2021-12-06/%E8%82%85%E8%AA%AA-%E5%BE%9E%E8%B3%B4%E6%98%8C%E6%98%9F%E5%88%B0%E8%B6%99%E5%AF%8C%E5%BC%B7-%E7%B4%85%E6%A8%93%E9%82%84%E6%98%AF%E9%82%A3%E5%BA%A7%E7%B4%85%E6%A8%93/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2021-12-14/The-Great-Bifurcation/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2021-11-30/Twitter-Has-a-New-CEO;-What-About-a-New-Business-M/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

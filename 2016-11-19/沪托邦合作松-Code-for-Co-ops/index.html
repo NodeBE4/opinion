@@ -1,0 +1,2385 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>沪托邦合作松 Code for Co-ops – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+  
+  Feature   •   黑客松        沪托邦合作松 Code for Co-ops 
+    
+      
+ 2016-11-19 
+      
+    
+  
+  
+    主办：中国美术学院跨媒体艺术学院 网路社会研究所（INS） 
+    
+  
+
+" />
+    <meta property="og:description" content="
+  
+  Feature   •   黑客松        沪托邦合作松 Code for Co-ops 
+    
+      
+ 2016-11-19 
+      
+    
+  
+  
+    主办：中国美术学院跨媒体艺术学院 网路社会研究所（INS） 
+    
+  
+
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="沪托邦合作松 Code for Co-ops" />
+    <meta property="twitter:title" content="沪托邦合作松 Code for Co-ops" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fcaa-ins.org%2Farchives%2F592" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://caa-ins.org/archives/592" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://caa-ins.org/archives/592&text=沪托邦合作松 Code for Co-ops&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://caa-ins.org/archives/592&title=沪托邦合作松 Code for Co-ops" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://caa-ins.org/archives/592&title=沪托邦合作松 Code for Co-ops" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=沪托邦合作松 Code for Co-ops&body=
+  
+  Feature   •   黑客松        沪托邦合作松 Code for Co-ops 
+    
+      
+ 2016-11-19 
+      
+    
+  
+  
+    主办：中国美术学院跨媒体艺术学院 网路社会研究所（INS） 
+    
+  
+
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://caa-ins.org/archives/592" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://caa-ins.org/archives/592&title=沪托邦合作松 Code for Co-ops&caption=
+  
+  Feature   •   黑客松        沪托邦合作松 Code for Co-ops 
+    
+      
+ 2016-11-19 
+      
+    
+  
+  
+    主办：中国美术学院跨媒体艺术学院 网路社会研究所（INS） 
+    
+  
+
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=沪托邦合作松 Code for Co-ops&url=https://caa-ins.org/archives/592" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>沪托邦合作松 Code for Co-ops</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2016-11-19
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#网络社会研究所">
+          网络社会研究所
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://caa-ins.org/archives/592" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="网络社会研究所的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#网络社会研究所 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <article class="vce-single post-592 post type-post status-publish format-standard has-post-thumbnail hentry category-feature category-1 tag-platform-cooperativism tag-89 tag-28" id="post-592">
+  <header class="entry-header">
+<span class="meta-category"> <a class="category-78" href="https://caa-ins.org/archives/category/feature"> Feature </a> <span> • </span> <a class="category-1" href="https://caa-ins.org/archives/category/%e9%bb%91%e5%ae%a2%e6%9d%be"> 黑客松 </a> </span>     <h1 class="entry-title" id="code-for-co-ops-"> 沪托邦合作松 Code for Co-ops </h1>
+    <div class="entry-meta">
+      <div class="meta-item date">
+<span class="updated"> 2016-11-19 </span>
+      </div>
+    </div>
+  </header>
+  <div class="entry-content">
+    <div class="language-plaintext p2 highlighter-rouge"><div class="highlight"><pre class="highlight"><code>主办：中国美术学院跨媒体艺术学院 网路社会研究所（INS） 
+
+社区协力：Segment Fault
+
+场地协力：小院集
+
+活动形式：对公众开放的主题演讲 + 不开放的36~48小时的连续共同工作
+
+总策划：黄孙权 李世杰
+
+专案经理：吴金治 
+
+工作团队：张骋 姚雨辰 卢睿洋 叶v
+
+视觉设计：偏飞设计事务所
+
+线上报名表
+
+</code></pre></div>    </div>
+    <h2 id="section"> <span style="color: #ff6600;"> 活动主题 </span> </h2>
+    <p>如今我们生活在一个终端化的世界中，生产与消费在工业化的分工之下鸿沟相隔，我们不知自己日用的来源，不知一件艺术作品在对谁发声。生产过程对于消费者而言好比暗箱，消费的选项也由营销所导向，不由分说地轰炸着你我的个人终端。这个循环仅仅在恶性事件中暂停，随后又回到令人眼花缭乱的冷漠中。</p>
+    <p><img alt="3544296546_888deecc00_b_905" class="wp-image-623 aligncenter" data-attachment-id="623" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="3544296546_888deecc00_b_905" data-large-file="https://caa-ins.org/wp-content/uploads/2016/11/3544296546_888deecc00_b_905.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2016/11/3544296546_888deecc00_b_905-300x200.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2016/11/3544296546_888deecc00_b_905.jpg" data-orig-size="800,534" data-permalink="https://caa-ins.org/archives/592/3544296546_888deecc00_b_905" decoding="async" fetchpriority="high" height="285" sizes="(max-width: 428px) 100vw, 428px" src="https://13.124.147.85/wp-content/uploads/2016/11/3544296546_888deecc00_b_905-300x200.jpg" srcset="https://caa-ins.org/wp-content/uploads/2016/11/3544296546_888deecc00_b_905-300x200.jpg 300w, https://caa-ins.org/wp-content/uploads/2016/11/3544296546_888deecc00_b_905-768x513.jpg 768w, https://caa-ins.org/wp-content/uploads/2016/11/3544296546_888deecc00_b_905.jpg 800w" width="428" /></p>
+    <p>数码和网络的技术把用户抽象为终端的同时，也提供了协作与相互贡献的条件，在网络社会中有开源社区，在现实世界中则有各式各样的合作社。合作運動的基础是共同需求，用集体的方式解决个体的困境，盈余最终回归集体。依靠集体的力量，我们能选择有益于当地经济和环境的供应商，基于爱好者的讨论举办自己的文化活动，为真正的多元性创造流通环境，而不僅僅消费它。在共同生活里创造对未来的共同欲望。</p>
+    <p>即便网络带来新的经济组织方式，让自雇者在机会中却丧失自我组织的方式，交由 airbnb，uber/滴滴打车来统一，其令人不安的原因是：自雇者的劳力市场、分享经济的好处以及社交媒体越来越被几个巨头垄断。</p>
+    <p><img alt="3548203901-582c2c3c26828_big" class="alignnone wp-image-591" data-attachment-id="591" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="3548203901-582c2c3c26828_big" data-large-file="https://caa-ins.org/wp-content/uploads/2016/11/3548203901-582c2c3c26828_big.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2016/11/3548203901-582c2c3c26828_big-300x169.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2016/11/3548203901-582c2c3c26828_big.jpg" data-orig-size="660,372" data-permalink="https://caa-ins.org/?attachment_id=591" decoding="async" height="450" sizes="(max-width: 799px) 100vw, 799px" src="https://13.124.147.85/wp-content/uploads/2016/11/3548203901-582c2c3c26828_big-300x169.jpg" srcset="https://caa-ins.org/wp-content/uploads/2016/11/3548203901-582c2c3c26828_big-300x169.jpg 300w, https://caa-ins.org/wp-content/uploads/2016/11/3548203901-582c2c3c26828_big.jpg 660w" width="799" /></p>
+    <p>应对数码封建主义：一种风险社会化而利润私有化的平台资本主义，优步化工作与低薪现象（uberworked and underpaid）– 其正在兴起的平台合作主义（platform cooperativism）逐渐成为热点。如 2016 年 11 月 11-13 日在纽约新学院（New School）举办的“ <a href="http://platformcoop.net/2016"> 平台合作主义：建立合作的网络 </a> ”便是体现此一观点。如何坚持所有权共享和民主管理的方式，营造可持续的经济增长，赋予社会边缘群体保障，让人们真正拥有自己的数码生产工具，拥有更加安全和平等的网络，这些问题归根结底是我们需要对抗“数码冷漠”，欲望另一种生活。我们已经可见夺回 uber 和 airbnb 的”企业化分享经济”的尝试：如从柏林的嘉年华开始，学生想要创立一个替代 ebay 的的平台市场经济 <a href="http://www.shareable.net/blog/qa-with-felix-weth-of-fairmondo-the-platform-co-op-thats-taking-on-ebay"> Fairmondo </a> ，五千个计程车师傅组织起来的 <a href="http://www.taxitronic.com/esl/Apps/TaxiClick"> TaxiClick </a> ，纽约需要孩童看护的人可以透过 <a href="http://www.fastcoexist.com/3058922/can-a-new-worker-owned-platform-create-a-more-equitable-sharing-economy"> Coopify </a> 彼此满足需求， <a href="https://loconomics.com/"> Loconomics </a> 成为劳动自雇者的 app 平台， <a href="https://www.newsmarket.com.tw/"> 台湾的上下游新闻市集 </a> 则致力于都市中产居民的需求与小农生产的连结与介面等等。</p>
+    <p><img alt="8327cabcd6da0df4b1804a1f68eeccde-original" class="alignnone wp-image-625" data-attachment-id="625" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="8327cabcd6da0df4b1804a1f68eeccde-original" data-large-file="https://caa-ins.org/wp-content/uploads/2016/11/8327cabcd6da0df4b1804a1f68eeccde-original-708x1024.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2016/11/8327cabcd6da0df4b1804a1f68eeccde-original-207x300.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2016/11/8327cabcd6da0df4b1804a1f68eeccde-original.png" data-orig-size="990,1432" data-permalink="https://caa-ins.org/archives/592/8327cabcd6da0df4b1804a1f68eeccde-original" decoding="async" height="181" sizes="(max-width: 125px) 100vw, 125px" src="https://13.124.147.85/wp-content/uploads/2016/11/8327cabcd6da0df4b1804a1f68eeccde-original-207x300.png" srcset="https://caa-ins.org/wp-content/uploads/2016/11/8327cabcd6da0df4b1804a1f68eeccde-original-207x300.png 207w, https://caa-ins.org/wp-content/uploads/2016/11/8327cabcd6da0df4b1804a1f68eeccde-original-768x1111.png 768w, https://caa-ins.org/wp-content/uploads/2016/11/8327cabcd6da0df4b1804a1f68eeccde-original-708x1024.png 708w, https://caa-ins.org/wp-content/uploads/2016/11/8327cabcd6da0df4b1804a1f68eeccde-original-810x1172.png 810w, https://caa-ins.org/wp-content/uploads/2016/11/8327cabcd6da0df4b1804a1f68eeccde-original.png 990w" width="125" /> <img alt="loconomics-logo" class="alignnone wp-image-626" data-attachment-id="626" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="loconomics-logo" data-large-file="https://caa-ins.org/wp-content/uploads/2016/11/loconomics-logo.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2016/11/loconomics-logo-300x251.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2016/11/loconomics-logo.png" data-orig-size="618,518" data-permalink="https://caa-ins.org/archives/592/loconomics-logo" decoding="async" height="142" loading="lazy" sizes="(max-width: 169px) 100vw, 169px" src="https://13.124.147.85/wp-content/uploads/2016/11/loconomics-logo-300x251.png" srcset="https://caa-ins.org/wp-content/uploads/2016/11/loconomics-logo-300x251.png 300w, https://caa-ins.org/wp-content/uploads/2016/11/loconomics-logo.png 618w" width="169" /> <img alt="mq1" class="alignnone wp-image-627" data-attachment-id="627" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="mq1" data-large-file="https://caa-ins.org/wp-content/uploads/2016/11/mq1.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2016/11/mq1.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2016/11/mq1.jpg" data-orig-size="240,240" data-permalink="https://caa-ins.org/archives/592/mq1" decoding="async" height="171" loading="lazy" sizes="(max-width: 171px) 100vw, 171px" src="https://13.124.147.85/wp-content/uploads/2016/11/mq1.jpg" srcset="https://caa-ins.org/wp-content/uploads/2016/11/mq1.jpg 240w, https://caa-ins.org/wp-content/uploads/2016/11/mq1-150x150.jpg 150w" width="171" /> <img alt="8" class="alignnone wp-image-624" data-attachment-id="624" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;Erika Macedo&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1468000882&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="8" data-large-file="https://caa-ins.org/wp-content/uploads/2016/11/8-1024x683.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2016/11/8-300x200.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2016/11/8.jpg" data-orig-size="1889,1260" data-permalink="https://caa-ins.org/archives/592/attachment/8" decoding="async" height="125" loading="lazy" sizes="(max-width: 188px) 100vw, 188px" src="https://13.124.147.85/wp-content/uploads/2016/11/8-300x200.jpg" srcset="https://caa-ins.org/wp-content/uploads/2016/11/8-300x200.jpg 300w, https://caa-ins.org/wp-content/uploads/2016/11/8-768x512.jpg 768w, https://caa-ins.org/wp-content/uploads/2016/11/8-1024x683.jpg 1024w, https://caa-ins.org/wp-content/uploads/2016/11/8-810x540.jpg 810w, https://caa-ins.org/wp-content/uploads/2016/11/8-1140x760.jpg 1140w, https://caa-ins.org/wp-content/uploads/2016/11/8.jpg 1889w" width="188" /></p>
+    <p>这次合作松就是要结合开源的黑客精神与合作社的“共”精神，邀请对合作运动有所专精的讲者来勾画战略地图与愿景，邀请传统合作社，社区支持农业（CSA）与社区支持万事（community support everything）的共造(commoning)伙伴们提出切身的需求，伙伴中有的是生产合作，有的是消费合作，有的则是产消合作者（prosumer）。一同与黑客们协力解决合作社的运营和管理等方面的问题。更为重要的是，我们希望在地的实践者相互看见，让各合作社除了社交媒体的宣传窗口外还有“自己人”的共同舞台。也许我们可以将它称为“合作社的合作社”，社与社之间互通有无，相互激励，以致全球联动。基于平台合作主义的思考，合作松希望连结已经成为组织的单位而非个人劳动者，在组织间创立协作基础，解决组织面临的基本技术问题，以及未来沟通合作的介面与其技术之想像。</p>
+    <h2 id="section-1"> <span style="color: #ff6600;"> 邀请对象 </span> </h2>
+    <p>我们诚挚邀请国内黑客高手与程序员前来共襄盛举，同与会者共创新机。只要你熟悉网站前端后台、物联网，java, json，database, php，python，app 等相关开发皆可。在活动中不论你是独行侠，在现场即时与各路英雄好汉从新组队，或者已经是一个完整的团队，我们都非常欢迎您一展身手。</p>
+    <p class="p1"><span style="color: #ff6600;"> 特别开放现场报名 <span class="s1"> ： </span> </span> <span class="s1"> 由于稍早第一轮热烈的报名已告截止，主办单位以筛选出第一轮报名的种子挑战者。由于还有欲报名的朋友询问报名叁加事宜，我们斟酌在三，在这里公告特别接受现场报名。差别前一轮报名者在于“非补助”，所以想来与种子比赛者踢馆或组队蠃得比赛奖金者，请把握机会！！ </span></p>
+    <h2 id="section-2"> <span style="color: #ff6600;"> 活动议程 </span> </h2>
+    <p>主办方提供三日（12 月 10─12 月 12 日）住宿，以及 2 日“24 小时不间断零食饮料”。</p>
+    <p>12 月 11 日</p>
+    <table>
+      <thead>
+        <tr>
+          <th>时间</th>
+          <th>事项</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>09:00</td>
+          <td>开幕</td>
+        </tr>
+        <tr>
+          <td>09:30</td>
+          <td>主題演講與合作社经验困境/合作社所需分享</td>
+        </tr>
+        <tr>
+          <td>12:00</td>
+          <td>午餐</td>
+        </tr>
+        <tr>
+          <td>13:00</td>
+          <td>快速提案</td>
+        </tr>
+        <tr>
+          <td>15:00</td>
+          <td>组队</td>
+        </tr>
+        <tr>
+          <td>15:30</td>
+          <td>黑客松</td>
+        </tr>
+        <tr>
+          <td>18:30</td>
+          <td>晚餐</td>
+        </tr>
+        <tr>
+          <td>19:30</td>
+          <td>连夜黑客松（当晚参与者可在现场休息，有沙发床）</td>
+        </tr>
+      </tbody>
+    </table>
+    <p>12 月 12 日</p>
+    <table>
+      <thead>
+        <tr>
+          <th>时间</th>
+          <th>事项</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>08:00</td>
+          <td>早餐</td>
+        </tr>
+        <tr>
+          <td>08:30</td>
+          <td>黑客松</td>
+        </tr>
+        <tr>
+          <td>12:30</td>
+          <td>午餐</td>
+        </tr>
+        <tr>
+          <td>13:30</td>
+          <td>黑客松</td>
+        </tr>
+        <tr>
+          <td>16:40</td>
+          <td>演示（每組十五分鐘）</td>
+        </tr>
+        <tr>
+          <td>18:00</td>
+          <td>评选颁奖</td>
+        </tr>
+        <tr>
+          <td>19:00</td>
+          <td>晚宴</td>
+        </tr>
+        <tr>
+          <td>20:00</td>
+          <td>筹措未来 休养生息</td>
+        </tr>
+      </tbody>
+    </table>
+    <h2 id="section-3"> <img alt="A27EE1B80CAF11A251B3BFC4BE430B8B" class="wp-image-628 aligncenter" data-attachment-id="628" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="A27EE1B80CAF11A251B3BFC4BE430B8B" data-large-file="https://caa-ins.org/wp-content/uploads/2016/11/A27EE1B80CAF11A251B3BFC4BE430B8B.gif" data-medium-file="https://caa-ins.org/wp-content/uploads/2016/11/A27EE1B80CAF11A251B3BFC4BE430B8B-300x224.gif" data-orig-file="https://caa-ins.org/wp-content/uploads/2016/11/A27EE1B80CAF11A251B3BFC4BE430B8B.gif" data-orig-size="1000,747" data-permalink="https://caa-ins.org/archives/592/a27ee1b80caf11a251b3bfc4be430b8b" decoding="async" height="244" loading="lazy" sizes="(max-width: 327px) 100vw, 327px" src="https://13.124.147.85/wp-content/uploads/2016/11/A27EE1B80CAF11A251B3BFC4BE430B8B-300x224.gif" srcset="https://caa-ins.org/wp-content/uploads/2016/11/A27EE1B80CAF11A251B3BFC4BE430B8B-300x224.gif 300w, https://caa-ins.org/wp-content/uploads/2016/11/A27EE1B80CAF11A251B3BFC4BE430B8B-768x574.gif 768w, https://caa-ins.org/wp-content/uploads/2016/11/A27EE1B80CAF11A251B3BFC4BE430B8B-810x605.gif 810w" width="327" /> </h2>
+    <h2 id="section-4"> <span style="color: #ff6600;"> 活动奖项 </span> </h2>
+    <p>获胜者可获得鼓励性奖金，中国美院颁发奖状与奖金。得奖者由演讲嘉宾与合作社社员共同评选。主办单位设置 3 个奖项：Invent 奖 5000 元人民币；Imagine 奖 3000 元人民币，Inspire 奖 2000 元人民币。</p>
+    <h2 id="section-5"> <span style="color: #ff6600;"> 活动亮点 </span> </h2>
+    <p>无论是否获奖，参与者都将有机会与讲师，合作社成员以及讲者交流，打开潜在的共同体。如果你是上海外地高手，还可能有提供往返交通费（由主办方决定）。延续作品或衍生作品曝光时，需提到中国美院网络社会研究所赞助。得奖作品，必须遵守所有法规，以开放源代码发布，采用 Creative Commons 授权规则中的署名-非商业性使用-相同方式共享的授权许可。</p>
+    <p><span style="color: #ff6600;"> 公开演讲 ： </span> 12月11日活动首日早上9点-12点为公开讲演，讲者均为对合作运动，社区运动，社会价值经验丰富的实践者，为大家勾勒合作事业的蓝图，听讲无须报名，但场地有限，希望准时到达。</p>
+    <h2 id="section-6"> <span style="color: #ff6600;"> 特别支持方 </span> </h2>
+    <p><strong>
+    SegmentFault
+   </strong></p>
+    <p>SegmentFault ( www.sf.gg ) 是中国领先的开发者社区及服务平台，旗下拥有技术问答、技术专栏、技术头条等开发者垂直领域的社区服务平台，自成立以来 SF 凭借良好的产品体验已经获得百万开发者的青睐，并获得 IDG 资本、软银赛富等顶级 VC 数千万投资。SF 希望为中文开发者提供一个纯粹、高质的技术交流平台，与开发者一起学习、交流与成长，创造属于开发者的时代！同时SF 团队是目前中国最大的黑客马拉松组织方。</p>
+    <h2 id="section-7"> <span style="color: #ff6600;"> 参考资料 </span> </h2>
+    <p>一 文章</p>
+    <div class="ace-line gutter-author-p-4 line-list-type-number emptyGutter" data-author-initials="s" data-author-link="/ep/profile/uo3zKyhJrGc" data-author-name="sunquan" id="magicdomid257">
+      <ol class="listtype-number listindent2 list-number2" start="1">
+        <li><span class="author-p-4"> 有数位合作这种事吗？ </span> <span class="author-p-4 url"> <a href="http://cdi.coop/is-there-such-thing-as-a-digital-co-op/"> http://cdi.coop/is-there-such-thing-as-a-digital-co-op/ </a> </span></li>
+      </ol>
+    </div>
+    <div class="ace-line gutter-author-p-4 line-list-type-number emptyGutter" data-author-initials="s" data-author-link="/ep/profile/uo3zKyhJrGc" data-author-name="sunquan" id="magicdomid258">
+      <ol class="listtype-number listindent2 list-number2" start="2">
+        <li><span class="author-p-4"> 2016-2017 数位合作专案统计 </span> <span class="author-p-4 url"> <a href="https://partners.visitnc.com/2016-2017-digital-co-op-packages"> https://partners.visitnc.com/2016-2017-digital-co-op-packages </a> </span></li>
+      </ol>
+    </div>
+    <div class="ace-line gutter-author-p-4 line-list-type-number emptyGutter" data-author-initials="s" data-author-link="/ep/profile/uo3zKyhJrGc" data-author-name="sunquan" id="magicdomid259">
+      <ol class="listtype-number listindent2 list-number2" start="3">
+        <li><span class="author-p-4"> Trebor Scholz 的專訪： </span> <span class="author-p-4 attrlink url"> <a class="attrlink" href="http://www.shareable.net/blog/bringing-the-platform-co-op-rebel-cities-together-an-interview-with-trebor-scholz"> Bringing the Platform Co-op “Rebel Cities” Together: An Interview with Trebor Scholz </a> </span> <span class="author-p-23"> 中文 </span> <span class="author-p-23 url"> <a href="https://13.124.147.85/archives/575"> https://13.124.147.85/archives/575 </a> </span></li>
+      </ol>
+    </div>
+    <div class="ace-line gutter-author-p-4 line-list-type-number emptyGutter" data-author-initials="s" data-author-link="/ep/profile/uo3zKyhJrGc" data-author-name="sunquan" id="magicdomid260">
+      <ol class="listtype-number listindent2 list-number2" start="4">
+        <li><span class="author-p-4"> 艺术合作社与集体创新动员的力量 中文 </span> <span class="author-p-4 url"> <a href="https://13.124.147.85/archives/499"> https://13.124.147.85/archives/499 </a> </span> <span class="author-p-4"> 英文 </span> <span class="author-p-4 url"> <a href="http://www.shareable.net/blog/art-co-ops-and-the-power-of-mobilizing-collaboration-for-creativity"> http://www.shareable.net/blog/art-co-ops-and-the-power-of-mobilizing-collaboration-for-creativity </a> </span></li>
+      </ol>
+    </div>
+    <div class="ace-line gutter-author-p-4 line-list-type-number emptyGutter" data-author-initials="s" data-author-link="/ep/profile/uo3zKyhJrGc" data-author-name="sunquan" id="magicdomid261">
+      <ol class="listtype-number listindent2 list-number2" start="5">
+        <li><span class="author-p-4"> Trebor Scholz 论平台合作主义 </span> <span class="author-p-4 url"> <a href="https://blog.p2pfoundation.net/trebor-scholz-on-the-rise-of-platform-cooperativism/2016/11/01"> https://blog.p2pfoundation.net/trebor-scholz-on-the-rise-of-platform-cooperativism/2016/11/01 </a> </span></li>
+      </ol>
+    </div>
+    <div class="ace-line gutter-author-p-4 line-list-type-number emptyGutter" data-author-initials="s" data-author-link="/ep/profile/uo3zKyhJrGc" data-author-name="sunquan" id="magicdomid262">
+      <ol class="listtype-number listindent2 list-number2" start="6">
+        <li><span class="author-p-4"> 自由协作：Geert Lovink对话Trebor Scholz </span> <span class="author-p-4 url"> <a href="https://13.124.147.85/archives/520"> https://13.124.147.85/archives/520 </a> </span></li>
+      </ol>
+    </div>
+    <div class="ace-line gutter-author-p-4 line-list-type-number emptyGutter" data-author-initials="s" data-author-link="/ep/profile/uo3zKyhJrGc" data-author-name="sunquan" id="magicdomid263">
+      <ol class="listtype-number listindent2 list-number2" start="7">
+        <li><span class="author-p-4"> 澳洲平台数位主义 </span> <span class="author-p-4 url"> <a href="https://blog.p2pfoundation.net/rise-platform-cooperativism-australia/2016/10/11#platformcoop"> https://blog.p2pfoundation.net/rise-platform-cooperativism-australia/2016/10/11#platformcoop </a> </span></li>
+      </ol>
+    </div>
+    <div class="ace-line gutter-author-p-4 line-list-type-number emptyGutter" data-author-initials="s" data-author-link="/ep/profile/uo3zKyhJrGc" data-author-name="sunquan" id="magicdomid264">
+      <ol class="listtype-number listindent2 list-number2" start="8">
+        <li><span class="author-p-4"> airbnb 和 uber不会干的事 </span> <span class="author-p-4 url"> <a href="http://www.forbes.com/sites/danpontefract/2016/10/01/platform-cooperatives-like-stocksy-have-a-purpose-uber-and-airbnb-never-will/#5056516a65a5"> http://www.forbes.com/sites/danpontefract/2016/10/01/platform-cooperatives-like-stocksy-have-a-purpose-uber-and-airbnb-never-will/ </a> </span> <span class="author-p-4 hashtag url internal url"> <a href="https://pad.g0v.link/ep/search/?q=%235056516a65a5&amp;via=5OS7HR1cTqi"> #5056516a65a5 </a> </span></li>
+      </ol>
+    </div>
+    <div class="ace-line gutter-author-p-4 line-list-type-number emptyGutter" data-author-initials="s" data-author-link="/ep/profile/uo3zKyhJrGc" data-author-name="sunquan" id="magicdomid265">
+      <ol class="listtype-number listindent2 list-number2" start="9">
+        <li><span class="author-p-4"> 数位平台主义 pdf </span> <span class="author-p-4 url"> <a href="http://www.rosalux-nyc.org/wp-content/files_mf/scholz_platformcoop_5.9.2016.pdf"> http://www.rosalux-nyc.org/wp-content/files_mf/scholz_platformcoop_5.9.2016.pdf </a> </span></li>
+      </ol>
+    </div>
+    <div class="ace-line gutter-author-p-23 line-list-type-number emptyGutter" data-author-initials="l" data-author-link="/ep/profile/H68hbGesUlc" data-author-name="lry" id="magicdomid266">
+      <ol class="listtype-number listindent2 list-number2" start="10">
+        <li><span class="author-p-23"> 外卖送餐合作平台 </span> <span class="author-p-23 attrlink url url"> <a class="attrlink" href="http://platformcoop.net/stories/dismissed-online-food-couriers-launch-their-own-co-op"> http://platformcoop.net/stories/dismissed-online-food-couriers-launch-their-own-co-op </a> </span></li>
+      </ol>
+    </div>
+    <div class="ace-line gutter-author-p-4 line-list-type-number emptyGutter" data-author-initials="s" data-author-link="/ep/profile/uo3zKyhJrGc" data-author-name="sunquan" id="magicdomid267">
+      <ol class="listtype-number listindent2 list-number2" start="11">
+        <li><span class="author-p-4"> 工人拥有的技术也能找到投资者 </span> <span class="author-p-4 url"> <a href="http://www.yesmagazine.org/new-economy/how-a-worker-owned-tech-startup-found-investors-and-kept-its-values-20160426"> http://www.yesmagazine.org/new-economy/how-a-worker-owned-tech-startup-found-investors-and-kept-its-values-20160426 </a> </span> <span class="author-p-4"> ； </span> <span class="author-p-4 url"> <a href="https://www.fastcoexist.com/3058922/can-a-new-worker-owned-platform-create-a-more-equitable-sharing-economy"> https://www.fastcoexist.com/3058922/can-a-new-worker-owned-platform-create-a-more-equitable-sharing-economy </a> </span></li>
+      </ol>
+    </div>
+    <div class="ace-line gutter-author-p-4 line-list-type-number emptyGutter" data-author-initials="s" data-author-link="/ep/profile/uo3zKyhJrGc" data-author-name="sunquan" id="magicdomid268">
+      <ol class="listtype-number listindent2 list-number2" start="12">
+        <li><span class="author-p-4"> 正兴起的国际运动：平台合作主义 </span> <span class="author-p-4 url"> <a href="http://www.slideshare.net/doennebrink/platform-cooperativism-60904094"> http://www.slideshare.net/doennebrink/platform-cooperativism-60904094 </a> </span></li>
+      </ol>
+    </div>
+    <div class="ace-line gutter-author-p-4 line-list-type-number emptyGutter" data-author-initials="s" data-author-link="/ep/profile/uo3zKyhJrGc" data-author-name="sunquan" id="magicdomid269">
+      <ol class="listtype-number listindent2 list-number2" start="13">
+        <li><span class="author-p-4"> 平台合作主义扰乱了矽谷之毁坏 </span> <span class="author-p-4 url"> <a href="http://www.shareable.net/blog/platform-cooperativism-conference-disrupts-silicon-valleys-disruptions"> http://www.shareable.net/blog/platform-cooperativism-conference-disrupts-silicon-valleys-disruptions </a> </span></li>
+      </ol>
+    </div>
+    <div class="ace-line gutter-author-p-4 line-list-type-number emptyGutter" data-author-initials="s" data-author-link="/ep/profile/uo3zKyhJrGc" data-author-name="sunquan" id="magicdomid270">
+      <ol class="listtype-number listindent2 list-number2" start="14">
+        <li><span class="author-p-4"> 从分享到合作 </span> <span class="author-p-4 url"> <a href="http://digitallabor.commons.gc.cuny.edu/2015/04/27/from-sharing-to-cooperation-lessons-from-mondragon-in-the-new-economy/"> http://digitallabor.commons.gc.cuny.edu/2015/04/27/from-sharing-to-cooperation-lessons-from-mondragon-in-the-new-economy/ </a> </span></li>
+      </ol>
+    </div>
+    <div class="ace-line gutter-author-p-4 line-list-type-number emptyGutter" data-author-initials="s" data-author-link="/ep/profile/uo3zKyhJrGc" data-author-name="sunquan" id="magicdomid271">
+      <ol class="listtype-number listindent2 list-number2" start="15">
+        <li><span class="author-p-4"> 平台合作如何击败明星分享经济企业 </span> <span class="author-p-4 url"> <a href="http://www.shareable.net/blog/how-platform-coops-can-beat-death-stars-like-uber-to-create-a-real-sharing-economy"> http://www.shareable.net/blog/how-platform-coops-can-beat-death-stars-like-uber-to-create-a-real-sharing-economy </a> </span></li>
+      </ol>
+    </div>
+    <div class="ace-line gutter-author-p-4 line-list-type-number emptyGutter" data-author-initials="s" data-author-link="/ep/profile/uo3zKyhJrGc" data-author-name="sunquan" id="magicdomid272">
+      <ol class="listtype-number listindent2 list-number2" start="16">
+        <li><span class="author-p-4"> 人民的uber </span> <span class="author-p-4 url"> <a href="https://www.fastcoexist.com/3051845/the-peoples-uber-why-the-sharing-economy-must-share-ownership"> https://www.fastcoexist.com/3051845/the-peoples-uber-why-the-sharing-economy-must-share-ownership </a> </span> <span class="author-p-4"> </span></li>
+        <li>为何数位凑伙文化需要合作社与联盟 <a href="https://www.opendemocracy.net/alex-wood/why-digital-gig-economy-needs-co-ops-and-unions"> https://www.opendemocracy.net/alex-wood/why-digital-gig-economy-needs-co-ops-and-unions </a></li>
+      </ol>
+      <p>二 书籍</p>
+    </div>
+    <div class="ace-line gutter-author-p-4 line-list-type-number emptyGutter" data-author-initials="s" data-author-link="/ep/profile/uo3zKyhJrGc" data-author-name="sunquan" id="magicdomid274">
+      <ol class="listtype-number listindent2 list-number2" start="1">
+        <li><span class="author-p-4 i"> <i>
+       Ours to Hack and to Own ─
+      </i> </span> <span class="author-p-4"> The Rise of Platform Cooperativism, A New Vision for the Future of Work and a Fairer Internet </span></li>
+      </ol>
+    </div>
+    <div class="ace-line gutter-author-p-4 line-list-type-number emptyGutter" data-author-initials="s" data-author-link="/ep/profile/uo3zKyhJrGc" data-author-name="sunquan" id="magicdomid275">
+      <ol class="listtype-number listindent2 list-number2" start="2">
+        <li><span class="author-p-4"> Scholz, Trebor. </span> <b>
+     </b> <span class="author-p-4 attrlink url u"> <a class="attrlink" href="https://www.amazon.com/Uberworked-Underpaid-Workers-Disrupting-Digital/dp/074565357X/ref=sr_1_1?ie=UTF8&amp;qid=1471209809&amp;sr=8-1&amp;keywords=Uberworked+and+Underpaid%3A+How+Workers+Are+Disrupting+the+Digital+Economy"> <u> Uberworked and Underpaid: How Workers Are Disrupting the Digital Economy </u> </a> </span> <span class="author-p-4 i"> <i>
+       .
+      </i> </span> <span class="author-p-4"> New York City: Polity. 2016 </span></li>
+      </ol>
+    </div>
+    <div class="ace-line gutter-author-p-4 line-list-type-number emptyGutter" data-author-initials="s" data-author-link="/ep/profile/uo3zKyhJrGc" data-author-name="sunquan" id="magicdomid276">
+      <ol class="listtype-number listindent2 list-number2" start="3">
+        <li><span class="author-p-4 attrlink url u"> <a class="attrlink" href="https://www.amazon.com/Whats-Yours-Mine-Against-Sharing-ebook/dp/B01B5EIP10/ref=sr_1_1?ie=UTF8&amp;qid=1471209843&amp;sr=8-1&amp;keywords=Slee%2C+Tom.+What%E2%80%99s+Yours+Is+Mine.#nav-subnav"> <u> Slee, Tom. </u> </a> </span> <span class="author-p-4 i attrlink url u"> <a class="attrlink" href="https://www.amazon.com/Whats-Yours-Mine-Against-Sharing-ebook/dp/B01B5EIP10/ref=sr_1_1?ie=UTF8&amp;qid=1471209843&amp;sr=8-1&amp;keywords=Slee%2C+Tom.+What%E2%80%99s+Yours+Is+Mine.#nav-subnav"> <i>
+        <u>
+         What’s Yours Is Mine
+        </u>
+       </i> </a> </span> <span class="author-p-4 u"> <u> . </u> </span> <span class="author-p-4"> New York City: OR Books, 2015. </span></li>
+      </ol>
+    </div>
+    <div class="ace-line gutter-author-p-4 line-list-type-number emptyGutter" data-author-initials="s" data-author-link="/ep/profile/uo3zKyhJrGc" data-author-name="sunquan" id="magicdomid277">
+      <ol class="listtype-number listindent2 list-number2" start="4">
+        <li><span class="author-p-4 b"> <b>
+       Pasquale, Frank. 2015.
+      </b> </span> <span class="author-p-4 b i attrlink url u"> <a class="attrlink" href="https://www.amazon.com/Black-Box-Society-Algorithms-Information/dp/0674368274/ref=sr_1_1?ie=UTF8&amp;qid=1471209864&amp;sr=8-1&amp;keywords=Black+Box+Society%3A+The+Secret+Algorithms+That+Control+Money+and+Information."> <b>
+        <i>
+         <u>
+          Black Box Society: The Secret Algorithms That Control Money and Information.
+         </u>
+        </i>
+       </b> </a> </span> <span class="author-p-4 b"> <b>
+       Cambridge: Harvard University Press.
+      </b> </span></li>
+      </ol>
+    </div>
+    <div class="ace-line gutter-author-p-4 line-list-type-number emptyGutter" data-author-initials="s" data-author-link="/ep/profile/uo3zKyhJrGc" data-author-name="sunquan" id="magicdomid278">
+      <ol class="listtype-number listindent2 list-number2" start="5">
+        <li><span class="author-p-4"> Taylor, Astra. </span> <span class="author-p-4 attrlink url u"> <a class="attrlink" href="https://www.amazon.com/Peoples-Platform-Taking-Culture-Digital/dp/1250062594/ref=sr_1_1?ie=UTF8&amp;qid=1471209892&amp;sr=8-1&amp;keywords=The+People%E2%80%99s+Platform%3A+Taking+Back+Power+and+Culture+in+the+Digital+Age"> <u> The People’s Platform: Taking Back Power and Culture in the Digital Age </u> </a> </span> <span class="author-p-4 i"> <i>
+       .
+      </i> </span> <span class="author-p-4"> New York: Metropolitan Books, 2014. </span></li>
+      </ol>
+      <p>三 网站/app</p>
+    </div>
+    <div class="ace-line gutter-author-p-4 line-list-type-number emptyGutter" data-author-initials="s" data-author-link="/ep/profile/uo3zKyhJrGc" data-author-name="sunquan" id="magicdomid280">
+      <ol class="listtype-number listindent2 list-number2" start="1">
+        <li><span class="author-p-4"> 平台合作主义网站 </span> <span class="author-p-4 attrlink url url"> <a class="attrlink" href="http://platformcoop.net/"> http://platformcoop.net/ </a> </span></li>
+      </ol>
+    </div>
+    <div class="ace-line gutter-author-p-4 line-list-type-number emptyGutter" data-author-initials="s" data-author-link="/ep/profile/uo3zKyhJrGc" data-author-name="sunquan" id="magicdomid281">
+      <ol class="listtype-number listindent2 list-number2" start="2">
+        <li><span class="author-p-4"> 替代ebay的的平台市場經濟 </span> <span class="author-p-4 b attrlink url"> <a class="attrlink" href="http://www.shareable.net/blog/qa-with-felix-weth-of-fairmondo-the-platform-co-op-thats-taking-on-ebay"> <b>
+        Fairmondo
+       </b> </a> </span></li>
+      </ol>
+    </div>
+    <div class="ace-line gutter-author-p-4 line-list-type-number emptyGutter" data-author-initials="s" data-author-link="/ep/profile/uo3zKyhJrGc" data-author-name="sunquan" id="magicdomid282">
+      <ol class="listtype-number listindent2 list-number2" start="3">
+        <li><span class="author-p-4 b"> <b>
+       五千個計程車師傅組織起來的
+      </b> </span> <span class="author-p-4 b attrlink url"> <a class="attrlink" href="http://www.taxitronic.com/esl/Apps/TaxiClick"> <b>
+        TaxiClick
+       </b> </a> </span></li>
+      </ol>
+    </div>
+    <div class="ace-line gutter-author-p-4 line-list-type-number emptyGutter" data-author-initials="s" data-author-link="/ep/profile/uo3zKyhJrGc" data-author-name="sunquan" id="magicdomid283">
+      <ol class="listtype-number listindent2 list-number2" start="4">
+        <li><span class="author-p-4 b"> <b>
+       紐約需要孩童看護的人组织的
+      </b> </span> <span class="author-p-4 b attrlink url"> <a class="attrlink" href="http://www.fastcoexist.com/3058922/can-a-new-worker-owned-platform-create-a-more-equitable-sharing-economy"> <b>
+        Coopify
+       </b> </a> </span></li>
+      </ol>
+    </div>
+    <div class="ace-line gutter-author-p-4 line-list-type-number emptyGutter" data-author-initials="s" data-author-link="/ep/profile/uo3zKyhJrGc" data-author-name="sunquan" id="magicdomid284">
+      <ol class="listtype-number listindent2 list-number2" start="5">
+        <li><span class="author-p-4 b attrlink url"> <a class="attrlink" href="https://loconomics.com/"> <b>
+        Loconomics
+       </b> </a> </span> <span class="author-p-4"> 成為勞動自雇者的app </span></li>
+      </ol>
+    </div>
+    <div class="ace-line gutter-author-p-4 line-list-type-number emptyGutter" data-author-initials="s" data-author-link="/ep/profile/uo3zKyhJrGc" data-author-name="sunquan" id="magicdomid285">
+      <ol class="listtype-number listindent2 list-number2" start="6">
+        <li><span class="author-p-4"> 台灣的 </span> <span class="author-p-4 attrlink url"> <a class="attrlink" href="https://www.newsmarket.com.tw/"> 上下游新聞市集 </a> </span> <span class="author-p-4"> ，都市中產居民的需求與小農生產的連結與介面 </span></li>
+      </ol>
+    </div>
+    <figure class="likecoin-embed likecoin-button">
+      <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;integration=wordpress_plugin&amp;referrer=https%3A%2F%2Fcaa-ins.org%2Farchives%2F592" style="height:212px;width: 360px;">
+ 
+      </iframe>
+    </figure>
+    <div class="sharedaddy sd-sharing-enabled">
+      <div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing">
+        <h3 class="sd-title" id="share-this-"> Share this: </h3>
+        <div class="sd-content">
+          <ul>
+            <li class="share-facebook"><a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-592" href="https://caa-ins.org/archives/592?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Facebook"> <span> </span> <span class="sharing-screen-reader-text"> Click to share on Facebook (Opens in new window) </span> </a></li>
+            <li class="share-twitter"><a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-592" href="https://caa-ins.org/archives/592?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Twitter"> <span> </span> <span class="sharing-screen-reader-text"> Click to share on Twitter (Opens in new window) </span> </a></li>
+            <li class="share-custom share-custom-"><a class="share-custom share-custom- sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/592?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on 新浪微博"> <span style="background-image:url(&quot;http://open.weibo.com/favicon.ico&quot;);"> </span> <span class="sharing-screen-reader-text"> Click to share on 新浪微博 (Opens in new window) </span> </a></li>
+            <li class="share-telegram"><a class="share-telegram sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/592?share=telegram" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Telegram"> <span> </span> <span class="sharing-screen-reader-text"> Click to share on Telegram (Opens in new window) </span> </a></li>
+            <li class="share-end"></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer class="entry-footer">
+    <div class="meta-tags">
+<a href="https://caa-ins.org/archives/tag/platform-cooperativism" rel="tag"> platform cooperativism </a> <a href="https://caa-ins.org/archives/tag/%e5%90%88%e4%bd%9c%e7%a4%be" rel="tag"> 合作社 </a> <a href="https://caa-ins.org/archives/tag/%e9%bb%91%e5%ae%a2%e6%9d%be" rel="tag"> 黑客松 </a>
+    </div>
+  </footer>
+</article>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#网络社会研究所 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-12-19/%E7%AC%AC%E5%8D%81%E5%B1%8A%E7%BD%91%E7%BB%9C%E7%A4%BE%E4%BC%9A%E5%B9%B4%E4%BC%9A-Jack-Stilgoe-%E8%AE%A9%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9B%9E%E5%BD%92%E7%8E%B0%E5%AE%9E/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2015-12-25/%E7%AC%AC%E4%B8%80%E5%B1%8A%E9%BB%91%E5%AE%A2%E6%9D%BE-%E8%90%BD%E5%9C%B0%E6%9D%BE%E4%B8%BB%E9%A2%98%E6%BC%94%E8%AE%B2-%E6%96%87%E5%8C%96%E8%B5%84%E6%96%99%E8%B7%9F%E7%A4%BE%E7%BE%A4%E5%AA%92%E4%BD%93/">最早</a>--</span>
+    
+      <li>
+        <time>2016-11-21</time>
+        <a href="https://nodebe4.github.io/opinion/2016-11-21/%E4%B8%AD%E5%9B%BD%E7%BE%8E%E6%9C%AF%E5%AD%A6%E9%99%A2%E5%89%AF%E9%99%A2%E9%95%BF%E9%AB%98%E5%A3%AB%E6%98%8E-%E7%AC%AC%E4%B8%80%E5%B1%8A%E7%BD%91%E7%BB%9C%E7%A4%BE%E4%BC%9A%E5%B9%B4%E4%BC%9A-%E5%BC%80%E5%B9%95%E8%87%B4/">
+          中国美术学院副院长高士明： “第一届网络社会年会” 开幕致
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2016-11-19</time>
+        <a href="https://nodebe4.github.io/opinion/2016-11-19/%E7%AE%97%E6%B3%95%E7%81%BE%E9%9A%BE-%E5%81%B6%E7%84%B6%E6%80%A7%E7%9A%84%E6%8A%A5%E5%A4%8D/">
+          算法灾难：偶然性的报复
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2016-11-19</time>
+        <a href="https://nodebe4.github.io/opinion/2016-11-19/%E5%B9%B3%E5%8F%B0%E5%90%88%E4%BD%9C%E4%B8%BB%E4%B9%89vs%E5%85%B1%E4%BA%AB%E7%BB%8F%E6%B5%8E/">
+          平台合作主义vs共享经济
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2016-11-16</time>
+        <a href="https://nodebe4.github.io/opinion/2016-11-16/%E9%A9%AC%E4%BF%AE-%E5%82%85%E5%8B%92%E8%AE%B2%E5%BA%A7-%E9%BB%91%E6%9A%97%E5%9C%B0%E5%B8%A6%E4%B8%8E%E9%80%8F%E6%98%8E%E5%B1%82/">
+          马修·傅勒讲座－黑暗地带与透明层
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2016-11-19/%E5%B9%B3%E5%8F%B0%E5%90%88%E4%BD%9C%E4%B8%BB%E4%B9%89vs%E5%85%B1%E4%BA%AB%E7%BB%8F%E6%B5%8E/">
+            前一篇：平台合作主义vs共享经济
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2016-11-19/%E7%89%B9%E6%AE%8A%E6%97%B6%E6%9C%9F%E7%9A%84%E7%88%B1%E6%83%85%E4%B8%8E%E5%A9%9A%E5%A7%BB-%E5%92%8C%E4%BB%8A%E5%A4%A9%E6%9C%89%E4%BB%80%E4%B9%88%E4%B8%8D%E4%B8%80%E6%A0%B7/">
+            後一篇：特殊时期的爱情与婚姻，和今天有什么不一样？
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2016-11-19/%E5%B9%B3%E5%8F%B0%E5%90%88%E4%BD%9C%E4%B8%BB%E4%B9%89vs%E5%85%B1%E4%BA%AB%E7%BB%8F%E6%B5%8E/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2016-11-19/%E7%89%B9%E6%AE%8A%E6%97%B6%E6%9C%9F%E7%9A%84%E7%88%B1%E6%83%85%E4%B8%8E%E5%A9%9A%E5%A7%BB-%E5%92%8C%E4%BB%8A%E5%A4%A9%E6%9C%89%E4%BB%80%E4%B9%88%E4%B8%8D%E4%B8%80%E6%A0%B7/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2016-11-19/%E7%AE%97%E6%B3%95%E7%81%BE%E9%9A%BE-%E5%81%B6%E7%84%B6%E6%80%A7%E7%9A%84%E6%8A%A5%E5%A4%8D/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2016-11-19/%E5%B9%B3%E5%8F%B0%E5%90%88%E4%BD%9C%E4%B8%BB%E4%B9%89vs%E5%85%B1%E4%BA%AB%E7%BB%8F%E6%B5%8E/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2016-11-19/%E5%B9%B3%E5%8F%B0%E5%90%88%E4%BD%9C%E4%B8%BB%E4%B9%89vs%E5%85%B1%E4%BA%AB%E7%BB%8F%E6%B5%8E/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2016-11-19/%E7%89%B9%E6%AE%8A%E6%97%B6%E6%9C%9F%E7%9A%84%E7%88%B1%E6%83%85%E4%B8%8E%E5%A9%9A%E5%A7%BB-%E5%92%8C%E4%BB%8A%E5%A4%A9%E6%9C%89%E4%BB%80%E4%B9%88%E4%B8%8D%E4%B8%80%E6%A0%B7/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<网络社会研究所>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2016-11-19/%E7%AE%97%E6%B3%95%E7%81%BE%E9%9A%BE-%E5%81%B6%E7%84%B6%E6%80%A7%E7%9A%84%E6%8A%A5%E5%A4%8D/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<网络社会研究所>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2016-11-19/%E5%B9%B3%E5%8F%B0%E5%90%88%E4%BD%9C%E4%B8%BB%E4%B9%89vs%E5%85%B1%E4%BA%AB%E7%BB%8F%E6%B5%8E/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

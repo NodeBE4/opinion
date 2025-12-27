@@ -1,0 +1,1083 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>圍爐評論｜現代社會裏，那些漂浮的尊嚴感 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+圍爐評論｜現代社會裏，那些漂浮的尊嚴感
+——
+" />
+    <meta property="og:description" content="
+圍爐評論｜現代社會裏，那些漂浮的尊嚴感
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="圍爐評論｜現代社會裏，那些漂浮的尊嚴感" />
+    <meta property="twitter:title" content="圍爐評論｜現代社會裏，那些漂浮的尊嚴感" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fmatters.news%2F%40weiluflame%2F%25E5%259C%258D%25E7%2588%2590%25E8%25A9%2595%25E8%25AB%2596-%25E7%258F%25BE%25E4%25BB%25A3%25E7%25A4%25BE%25E6%259C%2583%25E8%25A3%258F-%25E9%2582%25A3%25E4%25BA%259B%25E6%25BC%2582%25E6%25B5%25AE%25E7%259A%2584%25E5%25B0%258A%25E5%259A%25B4%25E6%2584%259F-bafyreieio5n5gp5l22ffze56cxs62urc3kvbnlrp46qsqx36xnrca35mfq" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://matters.news/@weiluflame/%E5%9C%8D%E7%88%90%E8%A9%95%E8%AB%96-%E7%8F%BE%E4%BB%A3%E7%A4%BE%E6%9C%83%E8%A3%8F-%E9%82%A3%E4%BA%9B%E6%BC%82%E6%B5%AE%E7%9A%84%E5%B0%8A%E5%9A%B4%E6%84%9F-bafyreieio5n5gp5l22ffze56cxs62urc3kvbnlrp46qsqx36xnrca35mfq" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://matters.news/@weiluflame/%E5%9C%8D%E7%88%90%E8%A9%95%E8%AB%96-%E7%8F%BE%E4%BB%A3%E7%A4%BE%E6%9C%83%E8%A3%8F-%E9%82%A3%E4%BA%9B%E6%BC%82%E6%B5%AE%E7%9A%84%E5%B0%8A%E5%9A%B4%E6%84%9F-bafyreieio5n5gp5l22ffze56cxs62urc3kvbnlrp46qsqx36xnrca35mfq&text=圍爐評論｜現代社會裏，那些漂浮的尊嚴感&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://matters.news/@weiluflame/%E5%9C%8D%E7%88%90%E8%A9%95%E8%AB%96-%E7%8F%BE%E4%BB%A3%E7%A4%BE%E6%9C%83%E8%A3%8F-%E9%82%A3%E4%BA%9B%E6%BC%82%E6%B5%AE%E7%9A%84%E5%B0%8A%E5%9A%B4%E6%84%9F-bafyreieio5n5gp5l22ffze56cxs62urc3kvbnlrp46qsqx36xnrca35mfq&title=圍爐評論｜現代社會裏，那些漂浮的尊嚴感" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://matters.news/@weiluflame/%E5%9C%8D%E7%88%90%E8%A9%95%E8%AB%96-%E7%8F%BE%E4%BB%A3%E7%A4%BE%E6%9C%83%E8%A3%8F-%E9%82%A3%E4%BA%9B%E6%BC%82%E6%B5%AE%E7%9A%84%E5%B0%8A%E5%9A%B4%E6%84%9F-bafyreieio5n5gp5l22ffze56cxs62urc3kvbnlrp46qsqx36xnrca35mfq&title=圍爐評論｜現代社會裏，那些漂浮的尊嚴感" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=圍爐評論｜現代社會裏，那些漂浮的尊嚴感&body=
+圍爐評論｜現代社會裏，那些漂浮的尊嚴感
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://matters.news/@weiluflame/%E5%9C%8D%E7%88%90%E8%A9%95%E8%AB%96-%E7%8F%BE%E4%BB%A3%E7%A4%BE%E6%9C%83%E8%A3%8F-%E9%82%A3%E4%BA%9B%E6%BC%82%E6%B5%AE%E7%9A%84%E5%B0%8A%E5%9A%B4%E6%84%9F-bafyreieio5n5gp5l22ffze56cxs62urc3kvbnlrp46qsqx36xnrca35mfq" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://matters.news/@weiluflame/%E5%9C%8D%E7%88%90%E8%A9%95%E8%AB%96-%E7%8F%BE%E4%BB%A3%E7%A4%BE%E6%9C%83%E8%A3%8F-%E9%82%A3%E4%BA%9B%E6%BC%82%E6%B5%AE%E7%9A%84%E5%B0%8A%E5%9A%B4%E6%84%9F-bafyreieio5n5gp5l22ffze56cxs62urc3kvbnlrp46qsqx36xnrca35mfq&title=圍爐評論｜現代社會裏，那些漂浮的尊嚴感&caption=
+圍爐評論｜現代社會裏，那些漂浮的尊嚴感
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=圍爐評論｜現代社會裏，那些漂浮的尊嚴感&url=https://matters.news/@weiluflame/%E5%9C%8D%E7%88%90%E8%A9%95%E8%AB%96-%E7%8F%BE%E4%BB%A3%E7%A4%BE%E6%9C%83%E8%A3%8F-%E9%82%A3%E4%BA%9B%E6%BC%82%E6%B5%AE%E7%9A%84%E5%B0%8A%E5%9A%B4%E6%84%9F-bafyreieio5n5gp5l22ffze56cxs62urc3kvbnlrp46qsqx36xnrca35mfq" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>圍爐評論｜現代社會裏，那些漂浮的尊嚴感</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2021-12-30
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: 围炉weiluflame</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#围炉">
+          围炉
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://matters.news/@weiluflame/%E5%9C%8D%E7%88%90%E8%A9%95%E8%AB%96-%E7%8F%BE%E4%BB%A3%E7%A4%BE%E6%9C%83%E8%A3%8F-%E9%82%A3%E4%BA%9B%E6%BC%82%E6%B5%AE%E7%9A%84%E5%B0%8A%E5%9A%B4%E6%84%9F-bafyreieio5n5gp5l22ffze56cxs62urc3kvbnlrp46qsqx36xnrca35mfq" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="围炉的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#围炉 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1640848199000-->
+<p><a href="https://matters.news/@weiluflame/%E5%9C%8D%E7%88%90%E8%A9%95%E8%AB%96-%E7%8F%BE%E4%BB%A3%E7%A4%BE%E6%9C%83%E8%A3%8F-%E9%82%A3%E4%BA%9B%E6%BC%82%E6%B5%AE%E7%9A%84%E5%B0%8A%E5%9A%B4%E6%84%9F-bafyreieio5n5gp5l22ffze56cxs62urc3kvbnlrp46qsqx36xnrca35mfq">圍爐評論｜現代社會裏，那些漂浮的尊嚴感</a>
+——</p>
+
+<div>
+  <p><br /></p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/bce24d36-728d-47bf-8082-33da41094d79.png" data-asset-id="bce24d36-728d-47bf-8082-33da41094d79" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <div class="language-plaintext ql-syntax highlighter-rouge" spellcheck="false"><div class="highlight"><pre class="highlight"><code>「每月评论」是围炉的一个评论类栏目，目前由围炉审稿组成员进行写作。评论内容仅代表作者个人观点。并且由于篇幅有限，以下短评仅为管中窥豹。</code></pre></div>  </div>
+  <h2 id="section">#1 舉報 作為一種話語實踐                                 </h2>
+  <p>                                                              文｜Ronnie</p>
+  <h2 id="section-1"><br /></h2>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/51543a1c-e7e3-4b61-8bc1-2211ffb919b1.webp" data-asset-id="51543a1c-e7e3-4b61-8bc1-2211ffb919b1" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>無論是早些時候的吳亦凡強奸事件，還是近段時間的李雲迪嫖娼事件，在網上引發的輿論似乎都不如法律對它們的是非判定來得那麽分明。網民的爭議圍繞著公德/私德、權利/義務等話題展開，一方認為群眾「依法舉報」是正當的行為，做錯了就該得到懲罰；另一方認為舉報是對私人領域的侵犯，依仗強權毀壞了公共道德的基礎。</p>
+  <p><br /></p>
+  <p>事實上兩方的評論都不無道理，支持者的陳詞強調法律的作用，以及舉報作為法律的延伸有利於社會向善；而批評者則反復提醒，前者所言的正義性並非在任何情況下都那麽絕對。但在雙方不斷為法律和個體劃清界限的過程中容易忽略的是，舉報向來不是一個中立的工具或是路徑，不論是「依仗」還是「使用」，都僅僅將其看作程序執行中的一顆螺絲釘。這一方面會簡化舉報所產生的社會後果，在復雜的個體互動事實表面鋪上一層單向的敘事；另一方面則會不斷強化舉報行為本身的絕對性，使討論二元框架中反復，如違法/不違法，公共/私人，強權/自由等等，削減了它們之間的聯系，也削減了反思的可能。</p>
+  <p><br /></p>
+  <p>或許一種更恰當的理解方式類似福柯對「真理體製」之反思：<strong>將舉報視作一種話語實踐，不僅考察其在當下語境中的是非，也考察其何以在當下語境中呈現出這樣的判定結果，而這是與舉報的合法性來源、潛藏的價值判斷、其主體與對象之間的關系緊密掛鉤的。</strong>就最近的事件而言，舉報的主體其實是由多方組成的，它不僅由最直觀的實踐舉報行為的主體，即朝陽區群眾組成；亦由一部分述說的主體，即那些有權力發布「權威消息」，或者有權力刪除或隱藏「不當言論」的媒體和公權力機構組成。因此他們與舉報對象李雲迪之間形成了更復雜的關系，而非法律揭示的是與非、人性審判的善與惡。另一方面，本次事件中舉報的合法性來源也是復雜的，除了比較可見的法律和道德規範之外，娛樂圈、藝術界也給出了自己的回應：前者是各大節目、藝人與李雲迪的「割席」，後者則是從「藝德」層面對他的過去與現在做了反思批評。可以發現，<strong>在「舉報」得以輕易碾過個體的背後，權力的邏輯、法律程序的邏輯、市場的邏輯以及專業領域自身的規範是混雜在一起的，它們做出的價值判斷有重合的部分，卻也有沖突之處。</strong></p>
+  <p>那麽在上述繁雜的分析後如何得出結論呢？「復雜」或許是最容易也最恰當的答案，但值得註意的是，在這多方的混合中事實上是存在排序的。一個典型的例子是，<strong>部分專業領域對李雲迪能力和成就的肯定從結果上看，是讓位於權力、法律、輿論邏輯對他的否定的</strong>。更別說在趙薇出事後，其代表作《還珠格格》便被直接下架。這種排序本身也正是當下社會結構的一種反映，而或許只有在反反復復的「舉報事件」之間，建立起對這些排序的感知，才能抵達更恰當的理解與判斷。</p>
+  <p><br /></p>
+  <h2 id="section-2">#2 「標準」英語背後的階級色彩                       </h2>
+  <p>                                                             文｜Alisha</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/d85798dc-650d-481e-acbb-a795df0223b1.webp" data-asset-id="d85798dc-650d-481e-acbb-a795df0223b1" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p><br /></p>
+  <p>幾個月前，一段「人大附中的學生英語水平怎麽樣」的視頻登上了熱搜。視頻中，人大附中的學生們用清晰流暢的英語接受了街頭采訪。評論區裏，網友們在贊嘆學生的英語能力的同時，更把重點放在了對這些學生們的富裕家境以及隨之帶來的「特權」的感嘆。學生們熟練的英語表達當然是視頻想要強調的重點，但同樣值得註意的是，這些學生幾乎無一例外的有著「優美」的口音。值得玩味的是，即使網友們對這些學生們的個人信息一無所知，但是僅憑他們的英語，便能推測出他們的生活水平，並自然地把他們與富裕的特權階級聯系起來。由此可見，對英語的掌握，尤其是措辭和語音語調，已經被賦予了階級化的色彩，成為了一種新的個人標簽。</p>
+  <p><br /></p>
+  <p>對把英語作為一門必修課程的中國人來說，似乎從小到大，英語「口音」都是一個繞不開的話題。大家可能或多或少都學習過「標準美音」、「標準英音」等課程。當老師在課堂上播放這些錄像時，學生們也將裏面的內容如數學公式和語法一般，作為默認的既定規則，不多加思考地盡數吸收。而在這個過程中，被忽視的問題是：<strong>所謂的「標準」到底是相對於誰的標準？</strong>如果仔細回想，我們會發現，這些課程錄像大多是由白人教學。在這樣潛移默化的影響下，特定地區的白人口音也就在我們的想象中逐漸與良好教育、良好出身聯系在了一起；也因此，當我們想到高雅的英音，時髦的美音時，我們腦海中浮現出的形象不會是Brixton或Harlem區的黑人，而是在Mayfair優雅地喝著下午茶，或是在波士頓參加學術研討會的白人中產階級的幻影。</p>
+  <p><br /></p>
+  <p>當我們跟著這些教學視頻不斷地模仿和練習「標準」英語口音時，我們也在給自己塗上一層染料。我們改變了用母語表述自己的方式，將我們嘴唇，牙齒，舌頭和聲帶用一種中產白人可接受的形式去擺放和運作。<strong>我們所吸收和內化的，除了語音語調，更是一種等級製度</strong>。這種歧視鏈從不平等的歷史關系中析出，並且在繼續延續著惡性循環。</p>
+  <p><br /></p>
+  <p>比如，當一個人擁有一口「標準」的英語，便會受到諸如「你的發音真優美/高級」之類的稱贊。與之相對的，帶有濃烈「口音」的英語，也就會受到刻薄的指摘與嘲笑。這種現象在網友對公眾人物英語水平的吹毛求疵上可見一斑。從王源在聯合國的英語演講，到趙麗穎為奢侈品牌拍的英語宣傳視頻，再到雷軍在小米發布會上的英語發言……這些不甚「標準」的發音，都被網民翻來覆去地惡搞過——作為我們母語的中文口音，卻變成了羞恥和可笑的印記。</p>
+  <p><br /></p>
+  <p>這並不是說我們要完全否定練習口音的意義。出於個人興趣而對特定口音產生偏好和欣賞並沒有問題；我們需要否定的，是語言的單一性。<strong>當中文與英文交融，所打開的應該是一扇通往新的語言領域的創造力的門</strong>。就像福柯的檔案(archive)，語言的變化記錄了人的集體經歷和知識的歷史，而其絕不是，也不應是線性和單向的。將口音與優越感和特權解綁，它溝通未來與過去，從模仿中起源，但又從多樣化的文法和口音中汲取發展的力量。而我們無需感到羞恥，因為正是語音的融合與交匯記錄了我們這個全球化時代的脈搏與動蕩。</p>
+  <h2 id="section-3">#3 當媒體成為虛擬戰場：簡析新華社有關臺灣議題的報道     </h2>
+  <p>                                                            文｜Fred</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/1c6aa463-1e0e-437b-9992-acd5abfc99c5.webp" data-asset-id="1c6aa463-1e0e-437b-9992-acd5abfc99c5" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>作為國內最大的視頻網站，近年來新華社、環球網等官媒相繼入駐嗶哩嗶哩，產出視頻內容。我選取了2021年新華社在b站所發布的臺灣議題相關報道作為例子，來代表官媒有關政治議題的新聞報道。本文將拋開「認同與否」的視角，聚焦官媒想要傳遞怎樣的信息、達成什麽目的，又是如何達成這個目的的。</p>
+  <p><br /></p>
+  <p>在41個相關報道中，只有6個是純粹關於客觀事實的新聞報道，其余都是以觀點闡述為主。這些觀點基本是通過外交部發言人的言論或國家的文件所表明的，比如讓臺灣戰機「立即離開」，讓立陶宛「付出代價」，「臺灣是中國的一部分」等。在陳述觀點時，官媒往往會表達強硬的態度，甚至是警告。這些表明強硬態度的話語，會以鮮明的紅字出現在視頻的封面上。而在非觀點類的報道中，官媒會選取臺灣軍事的負面新聞，或者有關大陸軍隊的正面新聞。</p>
+  <p><br /></p>
+  <p>將這些報道放在一起來看，它們擁有一致的邏輯和目的：強調臺灣是中國的第一部分，兩岸一定要統一。所以，它們共同構成了一個媒介事件(media event)。媒介事件是指某組織圍繞某一社會議題，進行有目的地產出和廣泛傳播。那麽，官媒是怎樣通過媒介傳播達成這一目的的呢？</p>
+  <p><br /></p>
+  <p>簡單來說，政府通過官媒的報道將b站、微博等媒體平臺塑造成了虛擬的戰場。在這個戰場上，首先敵人被清楚地劃分了。在我選取的41個報道中，有21個都帶有明確的指向性。美國、日本、立陶宛等支持臺灣的方面，被明確定義為了敵人。其次，官媒也強調了潛在戰爭的合理性，因為「臺灣本就是中國的一部分」，「中國必須統一，也必然統一」。其實有關合理性的強調已經有了長達數十年的過程，媒體將兩岸統一勾畫為理想化的社會圖景，這種憧憬演變成了一種政治正確。</p>
+  <p><br /></p>
+  <p>有趣的一點是，虛擬戰場上的「敵人」，並不真實地存在於這個戰場上。所謂勢力甚至是臺灣民眾，都極少有人使用b站微博等等，更不用說美國、立陶宛、日本當地的民眾了。<strong>這意味著「敵人」在b站等平臺上是一個由官媒所建立的抽象的角色</strong>。無論是報道本身，還是民眾的閱讀量、評論和點贊，「敵人」都不會看到，更不會對國際範圍內的輿論趨勢帶來影響。也就是說，虛擬戰場建立的意義主要在於內部的戰線統一和戰前思想準備建立，而非對外的輿論戰。舉例而言，官媒在twitter、youtube等外網社交媒體上使用的語言仍是中文，閱讀量通常為個位數或十位數，流通性普遍很低。這也映證了以上觀點。</p>
+  <p><br /></p>
+  <p>與此同時，虛擬戰場的建立也導致了兩個後果。首先，由於敵我劃分清晰，兩岸民眾之間將會產生嚴重的刻板印象，更加缺乏真正的溝通。其次，官媒在被工具化的同時，逐漸失去了媒介性。它的定義變得模糊，很難說官媒首先是一個工具，還是首先是一個媒體。</p>
+  <p><br /></p>
+  <p>總的來說，近年大陸有關臺灣的報道並不止是簡單的立場闡述，它們是被有目的地產出和傳播的媒介事件。<strong>在媒介事件中，媒體平臺成為了虛擬戰場，通過定義敵人、將潛在戰爭合理化等策略，官媒讓民眾達成了兩岸必須統一的共識</strong>。</p>
+  <p><br /></p>
+  <p>在閱讀和分析官媒報道的過程中，跳出「對」或「不對」，「好」或「不好」的思維定式，從「這樣做的目的是什麽」，「如何達成這個目的」和「後面會發生什麽」等角度來分析，或許才能讓有價值的思考發生。</p>
+  <p><br /></p>
+  <h2 id="section-4">#4 「老年」隨心飛？    </h2>
+  <p> 文 | 陽澄湖外語職業技術學院二年級</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/395455f2-dc5f-460c-87df-a7d015e92f18.webp" data-asset-id="395455f2-dc5f-460c-87df-a7d015e92f18" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>上周我拿到了我人生中第一張航司常旅客金卡。</p>
+  <p><br /></p>
+  <p>這當然有多重原因，一年內真正飛滿30次對我這類被小學期壓榨的學生來說還是過於奢侈。頻繁的航段加贈，上海特殊的地理位置——當然、還有腰斬骨折白菜價機票（盡管現在又加征燃油附加費，成本陡然上升）。出行成本的降低當然是令人喜聞樂見的：如若你見過半夜一點的浦東機場、人頭攢動的景象似乎在疫情之下變得還更熱鬧了些。往常西裝革履的商務客現在也多變成大包小包的行人。不過就我疫情過後這一年多的經驗而言，最多的航空同行者，是老年人。</p>
+  <p><br /></p>
+  <p>當然這並不奇怪，額濟納旗疫情被發現的第一例便是上海的「高知」夫妻。其人所作所為暫且按下不表，但是上海阿姨爺叔旅行的熱情算是可見一斑。社畜們被公司工作整的昏天黑地、孩子們也被教育局「非必要不出市」冷冰冰的禁令限製。面對嚴格的政策和規定，以及如影隨形般的14+天隔離套餐「體驗卡」，年齡尚輕、有穩定收入且退休的老年人，無疑是這樣一個旅行成本斷崖式下跌時代的受益者。</p>
+  <p><br /></p>
+  <p>但現實的問題是，從出門到回家，真正為老年人做好準備的環節和/或目的地、似乎真的寥寥無幾。</p>
+  <p><br /></p>
+  <p>對跟團遊、整個產業的想象力似乎還在低價老年團瘋狂購物行的印象之中。其實在中國廣大的、擁有大量國有企業退休工人的工業城市，與年輕人相仿的，但又是為老年人定製的「品質遊」產品不可謂沒有市場。但是有多少令人滿意的純玩老年團呢？這樣的問題實在令人汗顏。</p>
+  <p><br /></p>
+  <p>對自由行，問題更是層出不窮。盡管多數老年人都已然成為電子時代的弄潮兒。微信公眾號、小程序、下拉菜單、美團門票……眼花繚亂的平臺、預約、實名製、網絡購票，連年輕人都可能被繞暈，何況老年人們呢？廣袤的西北西南，選擇自駕的老年人如何評估他們處理突發狀況的能力？如何判定他們是否能夠適應路途的高海拔？選擇隨心飛的老年人，如何保證他們適合飛機的環境？盡管頗有些徐霞客般不服老的壯遊中國的精神，但這樣的風險如若變成真實的事故，該由誰解決？</p>
+  <p><br /></p>
+  <p>究其原因，似乎只有兩種：缺乏既有的可以參照的辦法；對現代老年人的需求沒有認識。其實連第二點都是偽命題，真正有大量老年旅遊者的地方，譬如「候鳥老人」眾多的三亞，已經催生出了一種吃住全包的「住房」服務。吃住全包一個價格、加開空調又一個價格、住高層再加一些費用。盡管「風景」自然不如某標誌性七星酒店來得愜意，但是樸素簡單的服務會比無邊泳池和私家沙灘的吸引力差麽？</p>
+  <p><br /></p>
+  <p>希望滿足這樣的需求是否有現成的解決方案呢？旅遊城市遍地開花的療養院似乎是問題解決方法的一種，但這樣的療養院不必想也知道多為面向內部，隸屬某國有企業。若真有企業，用航司算計隨心飛價錢和有效期的精力，打造一些面向老年人的差異化的旅行服務或度假地點，也許能夠比隨心飛更成功吧？</p>
+  <p><br /></p>
+  <h2 id="section-5">#5 透視她經濟：規訓的身體與被製造的滿足</h2>
+  <p>文｜十全大補鴨</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/e7bb3edc-300c-4530-92f4-c179bfaa6b09.webp" data-asset-id="e7bb3edc-300c-4530-92f4-c179bfaa6b09" referrerpolicy="no-referrer" />    <figcaption>
+<span>ins：cecile.dormeau</span>
+    </figcaption>
+  </figure>
+  <p>近年來，「她經濟」這一概念越發火熱。剛剛過去的2021年雙十一，同時參與淘寶雙十一兩輪爆發的消費者中女性占到71%。日常生活中，女性的購物頻次也高於男性。數據顯示，女性月均購物頻次7.2次，遠高於男性的5.5次，有6%的女性幾乎每天都要買買買。而女性消費的品類，多與「身體」相關。2021年雙十一當天，不論是銷售額排名TOP10品類中的美妝個護、服裝配飾、鞋靴箱包和母嬰玩具，還是同比增速排名TOP2的品類私處護理和美容美體儀器，都能體現這一點。</p>
+  <p><br /></p>
+  <p>鮑德裏亞認為,資本主義社會已經從生產社會進入到消費社會,消費構成了社會的主導性邏輯。他指出，消費被符號操控，消費本身構成了一個意義領域，這是消費社會的深層邏輯。人們消費商品背後的符號，並通過消費行為獲取由符號編織而成的意義。</p>
+  <p><br /></p>
+  <p><strong>商家正在為女性消費者構造意義，它首先設定了一個高度單一的關於美的標準</strong>。蛇精臉、大眼睛、紅嘴唇、直角肩、A4腰……這種高度統一的審美範式，借用本雅明批判機械復製藝術時所言，「靈韻」已然消散。同時，這種要求正在越來越高，甚至開始忽視具體的種族、地域和文化的差異，呈現出全球性的統一。瘦、年輕、皮膚的順滑，正成為商業廣告的通行標準。之前更有泰國美白產品Snowz的廣告，由於用黑皮膚襯托白皮膚「是成功的唯一關鍵」，遭到涉嫌種族主義的控訴。</p>
+  <p><br /></p>
+  <p><strong>此外，它正在利用滿足感，馴服現代消費社會中的女性</strong>。它將女性對滿足的定義成功置換為對美妝護膚、服飾等產品的消費，將女性美麗理想中的自我置換為那個廣告招牌上皮膚經過Photoshop精心修飾後的對象。它完成了經濟學意義上的需求創造——設立一個完美的定位，並利用女性的心理引導其需求。</p>
+  <p><br /></p>
+  <p>我們必須承認的是，<strong>沒有人能逃過這種審判</strong>。在當今的視覺文化與虛擬文化中，隨處可見的是足夠苗條、足夠美麗、擁有足夠光滑皮膚的女性形象。每一次打開新浪微博，你都會接受不同的開屏廣告，它們中的大部分是Lamer、雅詩蘭黛、Dior等熱門美妝品牌投放的，在精心打光布景拍攝的產品圖旁，你往往會見到一個近乎無可挑剔的女性形象。</p>
+  <p><br /></p>
+  <p><strong>這似乎已經成為了媒介化社會的一個詛咒</strong>。在媒介訊息的海洋中，Photoshop、美顏相機等技術加持的作用被放大了。它們是如此的無孔不入、司空見慣，以至於你以為小紅書、抖音上終日營銷的精致生活就是現實。商業營銷與社交媒體的結合正在讓滿足感變成一個無底洞。如果不打開小紅書這樣的社交媒體，你可能永遠不知道你的內雙眼皮需要通過做韓式半永久來變美，你的鼻子存在鼻基底凹陷的問題，你的凸嘴因為影響美觀需要正畸矯正。這些醫學術語式的話語，形成了一種語言符號暴力，將媒介信息接收者卷入容貌焦慮的狂潮。</p>
+  <p><br /></p>
+  <p>但是，身體是社會建構的，本不存在所謂的自然身軀和樣貌。<strong>或許，我們應當改變不合理的美麗要求，讓美麗的定義變得更加寬廣和多元</strong>。在此基礎上，才能進一步打破消費主義對女性的綁架與規訓。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/171daf67-15c5-4cdc-8211-af03fe151ee4.png" data-asset-id="171daf67-15c5-4cdc-8211-af03fe151ee4" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>文 | 圍爐審稿組</p>
+  <p>圖 | 來自網絡</p>
+  <p>統稿 | Christina</p>
+  <p>編輯 | 吳雨洋</p>
+  <p>matters編輯｜邢奕萱</p>
+  <p>圍爐 (ID：weilu_flame)</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/3a4bd89b-8e70-4c28-9b1a-e3e1e4c53ab0.webp" data-asset-id="3a4bd89b-8e70-4c28-9b1a-e3e1e4c53ab0" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p><br /></p>
+  <p>                   </p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#围炉 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2024-10-03/%E5%AF%B9%E8%AF%9D%E5%A5%B3%E6%80%A7%E6%B0%91%E5%B7%A5-%E5%9C%A8%E5%9F%8E%E5%B8%82%E9%87%8C-%E5%9C%A8%E5%B7%A5%E4%BD%9C%E5%92%8C%E5%AE%B6%E5%BA%AD%E4%B9%8B%E9%97%B4-%E5%9B%B4%E7%82%89-CU/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2021-03-23/%E5%AF%B9%E8%AF%9D%E9%BB%84%E6%B3%93%E7%BF%94-%E8%87%B4%E5%8A%9B%E4%BA%8E%E5%9F%B9%E8%82%B2%E4%B8%96%E7%95%8C%E5%85%AC%E6%B0%91%E7%9A%84%E4%B8%AD%E5%8D%97%E5%B1%8B%E5%88%9B%E5%A7%8B%E4%BA%BA-%E8%AE%B2%E5%BA%A7%E6%91%98%E8%A6%81/">最早</a>--</span>
+    
+      <li>
+        <time>2022-01-09</time>
+        <a href="https://nodebe4.github.io/opinion/2022-01-09/%E5%9B%9E%E5%AE%B6%E7%9A%84%E8%B7%AF-%E9%9B%AA%E8%B7%AF-%E8%A7%80%E5%BE%8C%E6%84%9F-%E5%9C%8D%E7%88%90-%E5%86%AC%E6%97%A5%E8%89%BA%E6%96%87/">
+          回家的路：《雪路》觀後感|圍爐·冬日艺文
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-01-04</time>
+        <a href="https://nodebe4.github.io/opinion/2022-01-04/%E5%9C%8D%E7%88%90%E5%B0%8F%E7%82%92-%E5%BE%9E%E5%AA%92%E9%AB%94%E6%9A%B4%E5%8A%9B%E8%AA%AA%E5%8E%BB-%E5%9C%8D%E7%88%90-CUHK/">
+          圍爐小炒：從媒體暴力說去|圍爐·CUHK
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-12-24</time>
+        <a href="https://nodebe4.github.io/opinion/2021-12-24/%E5%B0%8D%E8%A9%B1%E7%AF%84%E5%AD%90%E6%87%BF-%E9%81%8A%E6%88%B2%E8%A3%BD%E4%BD%9C%E4%BA%BA%E6%9C%83%E5%A4%A2%E8%A6%8B-%E9%9B%BB%E5%AD%90%E6%B5%B7%E6%B4%9B%E5%9B%A0-%E5%97%8E-%E4%BA%8C-%E5%9C%8D%E7%88%90-CUHK/">
+          對話範子懿：遊戲製作人會夢見“電子海洛因”嗎？ （二）|圍爐·CUHK
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-12-24</time>
+        <a href="https://nodebe4.github.io/opinion/2021-12-24/%E5%B0%8D%E8%A9%B1%E7%AF%84%E5%AD%90%E6%87%BF-%E9%81%8A%E6%88%B2%E8%A3%BD%E4%BD%9C%E4%BA%BA%E6%9C%83%E5%A4%A2%E8%A6%8B-%E9%9B%BB%E5%AD%90%E6%B5%B7%E6%B4%9B%E5%9B%A0-%E5%97%8E-%E4%B8%80-%E5%9C%8D%E7%88%90-CUHK/">
+          對話範子懿：遊戲製作人會夢見“電子海洛因”嗎？ （一）|圍爐·CUHK
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2021-12-30/%E7%BA%BF%E4%B8%8A%E8%AF%BE%E7%A8%8B%E5%9B%9E%E9%A1%BE%E5%85%83%E5%AE%87%E5%AE%99%E6%A6%82%E8%AE%BA-%E6%96%B0%E4%B8%96%E7%95%8C%E7%9A%84%E6%B2%89%E6%B5%B8%E4%B8%8E%E5%88%9B%E9%80%A0/">
+            前一篇：线上课程回顾|元宇宙概论：新世界的沉浸与创造
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2021-12-30/2021%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E5%A6%82%E6%9E%9C%E4%BF%A1%E5%BF%B5%E6%9C%89%E9%A2%9C%E8%89%B2-%E9%82%A3%E4%B8%80%E5%AE%9A%E6%98%AF%E9%AB%98%E7%BA%A7%E9%BB%91-2021%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/">
+            後一篇：【2021年终专题】如果信念有颜色，那一定是高级黑——2021网络视频年度总结
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2021-12-30/%E7%BA%BF%E4%B8%8A%E8%AF%BE%E7%A8%8B%E5%9B%9E%E9%A1%BE%E5%85%83%E5%AE%87%E5%AE%99%E6%A6%82%E8%AE%BA-%E6%96%B0%E4%B8%96%E7%95%8C%E7%9A%84%E6%B2%89%E6%B5%B8%E4%B8%8E%E5%88%9B%E9%80%A0/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2021-12-30/2021%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E5%A6%82%E6%9E%9C%E4%BF%A1%E5%BF%B5%E6%9C%89%E9%A2%9C%E8%89%B2-%E9%82%A3%E4%B8%80%E5%AE%9A%E6%98%AF%E9%AB%98%E7%BA%A7%E9%BB%91-2021%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-01-04/%E5%9C%8D%E7%88%90%E5%B0%8F%E7%82%92-%E5%BE%9E%E5%AA%92%E9%AB%94%E6%9A%B4%E5%8A%9B%E8%AA%AA%E5%8E%BB-%E5%9C%8D%E7%88%90-CUHK/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2021-12-24/%E5%B0%8D%E8%A9%B1%E7%AF%84%E5%AD%90%E6%87%BF-%E9%81%8A%E6%88%B2%E8%A3%BD%E4%BD%9C%E4%BA%BA%E6%9C%83%E5%A4%A2%E8%A6%8B-%E9%9B%BB%E5%AD%90%E6%B5%B7%E6%B4%9B%E5%9B%A0-%E5%97%8E-%E4%BA%8C-%E5%9C%8D%E7%88%90-CUHK/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2021-12-30/%E7%BA%BF%E4%B8%8A%E8%AF%BE%E7%A8%8B%E5%9B%9E%E9%A1%BE%E5%85%83%E5%AE%87%E5%AE%99%E6%A6%82%E8%AE%BA-%E6%96%B0%E4%B8%96%E7%95%8C%E7%9A%84%E6%B2%89%E6%B5%B8%E4%B8%8E%E5%88%9B%E9%80%A0/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2021-12-30/2021%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E5%A6%82%E6%9E%9C%E4%BF%A1%E5%BF%B5%E6%9C%89%E9%A2%9C%E8%89%B2-%E9%82%A3%E4%B8%80%E5%AE%9A%E6%98%AF%E9%AB%98%E7%BA%A7%E9%BB%91-2021%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<围炉>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-01-04/%E5%9C%8D%E7%88%90%E5%B0%8F%E7%82%92-%E5%BE%9E%E5%AA%92%E9%AB%94%E6%9A%B4%E5%8A%9B%E8%AA%AA%E5%8E%BB-%E5%9C%8D%E7%88%90-CUHK/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<围炉>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2021-12-24/%E5%B0%8D%E8%A9%B1%E7%AF%84%E5%AD%90%E6%87%BF-%E9%81%8A%E6%88%B2%E8%A3%BD%E4%BD%9C%E4%BA%BA%E6%9C%83%E5%A4%A2%E8%A6%8B-%E9%9B%BB%E5%AD%90%E6%B5%B7%E6%B4%9B%E5%9B%A0-%E5%97%8E-%E4%BA%8C-%E5%9C%8D%E7%88%90-CUHK/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

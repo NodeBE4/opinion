@@ -1,0 +1,783 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>对共和国历史的回顾与反思 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+  讲者：中国社会科学院徐友渔老师
+
+  地点：湖北蕲春青石中学多媒体教室
+
+" />
+    <meta property="og:description" content="
+  讲者：中国社会科学院徐友渔老师
+
+  地点：湖北蕲春青石中学多媒体教室
+
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="对共和国历史的回顾与反思" />
+    <meta property="twitter:title" content="对共和国历史的回顾与反思" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fnodebe4.github.io%2Fopinion%2F2011-07-05%2Fxuyouyu%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://nodebe4.github.io/opinion/2011-07-05/xuyouyu/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://nodebe4.github.io/opinion/2011-07-05/xuyouyu/&text=觀點-從草根到大師 git.io/JJCxS&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://nodebe4.github.io/opinion/2011-07-05/xuyouyu/&title=觀點-從草根到大師 git.io/JJCxS" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://nodebe4.github.io/opinion/2011-07-05/xuyouyu/&title=觀點-從草根到大師 git.io/JJCxS" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=觀點-從草根到大師 git.io/JJCxS&body=
+  讲者：中国社会科学院徐友渔老师
+
+  地点：湖北蕲春青石中学多媒体教室
+
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://nodebe4.github.io/opinion/2011-07-05/xuyouyu/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://nodebe4.github.io/opinion/2011-07-05/xuyouyu/&title=觀點-從草根到大師 git.io/JJCxS&caption=
+  讲者：中国社会科学院徐友渔老师
+
+  地点：湖北蕲春青石中学多媒体教室
+
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=觀點-從草根到大師 git.io/JJCxS&url=https://nodebe4.github.io/opinion/2011-07-05/xuyouyu/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>对共和国历史的回顾与反思</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2011-07-05
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: 徐友渔</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#立人大学">
+          立人大学
+        </a>
+      </li>
+    </ul>
+
+    
+
+    <span style="float: right;" title="立大一期的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#立人大学 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+      <iframe id="player-" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/" frameborder="0" allowfullscreen></iframe>
+    
+    <blockquote>
+  <p>讲者：中国社会科学院徐友渔老师</p>
+
+  <p>地点：湖北蕲春青石中学多媒体教室</p>
+</blockquote>
+
+<h4 id="中国人民站起来了">中国人民站起来了</h4>
+
+<p>共和国的历史与反思，我对这个题目有兴趣。用批判性的思考来看待这段历史，看有哪一些很重要的问题。第一，现在有一种说法，「1949年10月1日，中华人民共和国中央人民政府成立了，中国人民站起来了」。自从鸦片战争以来，在外国军舰大炮的威胁下，中国订立了大量不平等条约，这是奇耻大辱。但是废除这些不平等条约，是一党一派做的，还是志士仁人整个民族都在做的？不平等条约，到底什么时候结束的，是1949年10月1日吗？不动脑筋的中国人就这么说。但是我们应当抱着实事求是的态度。晚清，尤其是北洋政府的意图就是努力在艰苦的条件下修订不平等条约，不过我们从小受的教育就是晚清是卖国政府。要知道，国与国之间是要遵守国际信用的，废除条约是违反国际法的，应当要据理力争地进行修改，以前我们不承认这一点。中国的历届政府做了大量的工作，修改不平等条约，这些努力不能轻而易举地被否定。恢复主权的方式有很多种，这些努力是非常有成效的，我们对先辈的努力要表示尊重。</p>
+
+<p>从国际法的角度看这个问题，中国人民站起来了，打倒卖国贼，打倒列强。那什么叫站起来了？外国在中国的租界应该废除掉，应该以平等的条约取而代之。我认为所有这些成就在民国政府时期就已经完成了。抗日战争时期，中国与英美是同盟国，这是恢复中国平等地位的机会，让宋子文与英美交涉，强调以前订立的条约是不合道理的，作为盟友，英美在上海武汉还有租界怎么说得过去，没法向中国人交待。英美政府答应，一旦二战胜利，立刻废除不平等条约。浴血奋战的同时就可以给老百姓一个交待，所以在抗日战争期间废除了那些不平等条约。开罗会议，美国英国苏联中国，世界四大强国，中国是联合国的常任理事国，这都是在民国政府完成的，1949年10月1日前已经有很好的世界地位。那1949年10月1日到底做了什么，为什么是从那天开始站起来的？几亿人都不动脑子地接受这一点。</p>
+
+<h4 id="朝鲜战争">朝鲜战争</h4>
+
+<p>1949年10月1日之后我梳理一下，建国伊始，就卷入了一场战争。我在文化革命时看了杜鲁门回忆录，我认为杜鲁门说的是真的，美国没有借朝鲜战争来统治全世界。我们的党史说朝鲜战争在1950年6月2日爆发，但不说谁开了第一枪。事实上，在二战结束之后，大国已经做了一个安排，不同的政党在三八线两边建立不同的制度，但北部的军队违反约定席卷了南部，中国卷入了一场赤裸裸的侵略战争。抗美援朝，中国应不应该卷入这场战争？以当初中国的军事力量，蒋介石已是惊弓之鸟，美国决定既不准共产党打过去，也不准国民党打过来。这是历史学家反思朝鲜战争的一个重要问题，但一般的历史学家不谈，也不敢谈。</p>
+
+<p>从人道主义的角度，中国应当尊重国际条约，一方用精锐部队侵入对方，这是赤裸裸的侵略战争，中国不应该参与。从军事的角度，不同意对朝鲜出兵的代表是林彪，他认为对方是美式装备。林彪是实事求是，认为跟美国打仗是不行的。但最后毛泽东一意孤行，把彭德怀激起来了，坚定支持毛泽东。英国有一个左派共产党，作为战地记者，战场观摩以后，从坚决的拥护到坚决的反对。用美国将军的话说，这根本不是战争。金日成擅自发动了征服南方的战争，兵败如山倒之后再来找中共。中国是没法打现代化战争的，斯大林说苏联不能出兵，因为可能爆发第三次世界大战，苏联说为了对人类负责任，苏联不参加。中国硬着头皮打，英国记者认为这是屠杀。</p>
+
+<p>联合国决议出兵，苏联是常任理事国，最后投票的时候，没有人投否决票，我们是不是被苏联玩了一把？斯大林不希望中国强大，让我们跟美国人打仗？现在也找不到证据，但这是一件很奇怪的事情。</p>
+
+<h4 id="抛弃了新民主主义和共同纲领">抛弃了新民主主义和共同纲领</h4>
+
+<p>新政权并不是共产党一家打下了。共产党用很激进的革命纲领来联合各个政党，团结了民主党派，推出了共同纲领，发展新民主主义论。最开始不是搞社会主义改造，有合作企业，是混合经济，允许市场经济的存在，认为市场经济会起到很重要的作用。在政治上，是联合执政，副总理有一半是民主人士，因此不是共产党一家独霸天下，而是继续执行共同纲领，巩固新民主主义。</p>
+
+<p>但毛泽东成立新政权之后，这些马上就抛弃了，搞社会主义工商业改造，搞唯一的公有制，后来中国又改为社会主义初级阶段。刘少奇的儿子，写了一篇文章登在中国读书报上，说要改造我们的历史观，回到新民主主义。刘少奇是对的，现在大家都认为，那场争论刘少奇是对的，抛弃共同纲领是一个错误，后面做的事情都是急于求成。</p>
+
+<p>虽然当初刘少奇提出的是对的，但如果现在再回到新民主主义，因为历史条件已经大变，当初对，现在未见得对。秀才遇到兵，有理说不清。刘少奇想要做的是发展生产力，毛泽东不同意。第七次党代会特别吹捧毛泽东，毛泽东很受用，但发现刘少奇与他是有差别的。有分歧之后，要废除刘少奇。政务院总理是周恩来，国家纪委的头是高岗，用两个机构来指挥中国。最初毛想用高岗取代周恩来，毛泽东派高岗手下的人找刘少奇的资料，做这样的事情。高岗得到密令就到处串联，把事情干坏了。毛主席把底交给了高岗，但高岗说服不了这些人，不是一个派系的人不好交底，最后传到刘少奇、薄一波的耳朵里。党内斗争是很复杂的，毛泽东勃然大怒，把高岗打成反动，命令刘少奇处理高岗，说成是反党集团。高岗是华东局的第一书记，比陈毅的地位要高，自杀了。高岗的女儿是社科院的同事，最近高岗的家人不断上诉中央，说指令是毛主席下的，高岗集团是没有事实依据的。</p>
+
+<p>这涉及到共和国的走向问题，毛泽东战胜了刘少奇，高岗做了一个替罪羊。</p>
+
+<h4 id="运动与百分比">运动与百分比</h4>
+
+<p>我们要反左，同时也要反右，但主要的还是反左。中国的建国理念有很奇怪的现象，左战胜右。左的东西与百分比路线结合让中国的政治很荒谬，那为什么左的路线总是占上风？因为毛泽东是左的根源。</p>
+
+<p>第一件事是土改，1947年开始，一直延续到建国以后，歌颂土改，打土豪分田地，但实际过程要复杂得多。抗日战争刚刚结束，就要消灭地主阶级，抗日战争期间我们的同盟军、统一战线上的盟友。当初中共中央决定搞土改的时候非常文明。后来蒋介石吸取教训，整个政府把土地买下来，而不是消灭地主。我们现在也有物权法，打土豪分田地是没有法律观念的。当初执行的方针是政府先把地买下来，最后再给农民，这是很文明的，但很快就转变了，把所有的地主都当做土豪劣绅。不但是地主，甚至对他们的子女，包括共产党的高级干部，都要划成分，一辈子不得翻身。地主成分必须是总人口的8%，因为毛主席曾在江西做过调查。虽然更大规模的调查表明应当是2%，但毛泽东还是坚持8%。</p>
+
+<p>第二是五十年代初的镇压反革命运动。蒋介石的很多下属没有去台湾，现在要当成反革命来镇压，还有很多起义士兵，原本对他们是有许诺的。本来镇压反革命在国际社会上是很难交代的，但朝鲜战争爆发，敲锣打鼓的声音很大，就没有人注意镇压反革命了。对反革命的定义，动机、思想和行动是不做区分的，认为中国总人口的千分之五应该被杀掉，如果没有达到这个数字，说明你的斗争性不强。最后一共杀了七十一万，超出了这个比例，而且还关了一百二十九万人。</p>
+
+<p>还有三反五反运动，公开贪污腐败的刘青山张子善案件，还有给志愿军提供假冒伪劣物品的资本家，规定一定要抓多少比例的人。毛泽东在一系列英明的批示中，说你们抓出来的老鼠应当十倍于现在，六十六军能做到，那些达不到就必须说明理由。</p>
+
+<p>反右运动中，有党支部书记为了达到数字，把自己打成右派，这种事情都发生过。周扬扶植了很多左派作家，他把党的文艺方针应该怎么搞，送给习仲勋，最后被打成反党集团，这些都作为反革命的证据在人民日报一批一批地曝光。1957年年初的时候，最高国务会上的讲话，唯一正确的方针就是百花齐放百家争鸣，给执政党提意见，高级官员都听了这个讲话，大家欢欣鼓舞。统战部部长李维汉召集高级知识分子，说不提是不信任，怕我们出尔反尔。而且是毛泽东亲口讲的，很多再也不想说话的人也说了，提了半个月。但是到了六月十五日，事情正在起变化，党内发表文章，文章没有向党外发布，说这些人趁机疯狂向党进攻，正式吹响了反击右派的号角。我们是响应你的号召啊，大的政党领袖公然的出尔反尔。关于反右有两种完全不同的说法，一是引蛇出洞，我知道你是坏蛋。如果是这种讲法，就是天下第一号阴谋家，你开始就是要整我们的。另一种是毛泽东当初是真心诚意地要知识分子提意见，刘少奇邓小平反对，毛泽东一意孤行，后来意见那么尖锐，在刘少奇的面前没法交代，马上来一个转弯。</p>
+
+<p>大跃进运动有一个背景，那就是东风压倒西风。我们是很了不起的，经济建设是很艰难的事情，但中国1957年钢铁总产量535万吨，我们在发展经济方面还是取得了非常大的成就的。但是后来放卫星，亩产达到2100斤，7320斤，8月13日达到36900斤，这个是有纪录片的，有人民日报记者去拍照的，我们是亲眼看见的，小孩在稻穗上跑的。钱学森以科学家的身份发文章出来论证，证明毛主席搞大跃进是对的，说粮食的最终来源是太阳，热量转化成粮食，损耗三分之二，但在理论上仍然是可以达到的。每一次路线错误的时候，都有德高望重的科学家来证明。</p>
+
+<h4 id="问答">问答</h4>
+
+<p>问题1：朝鲜战争，我们在情感上认为是正确的，理性的看，当时的局势对中国的东北边境造成了威胁，中国边界上的小村庄已经被轰炸了。那么除了参战，还可以用其他的方式来改变吗？</p>
+
+<p>徐友渔：你的说法不是没有道理，这是为朝鲜战争辩护的一个借口，美帝国主义把战火烧到了鸭绿江边。当初越南战争的时候，美国在越南打仗，怕中国误解。我尊重你的意见，但我是持怀疑态度的，打仗是很严肃认真的事情，轰炸要做到这一步是不太可能的。我认为他们这场战争只准备在朝鲜打，虽然我们越来越质疑擦枪走火的事情，但我仍然认为这个理由是不存在的。</p>
+
+<p>问题2：在毛时代，意识形态是否与执政党有某种内在的关联？</p>
+
+<p>徐友渔：意识形态的作用很大，对政治的影响是决定性的。</p>
+
+<p>问题3：中国政府的政治宣传充满了谎言，现在是否有了改进？</p>
+
+<p>徐友渔：最好还是选择色彩不那么重的话。变化是很大的，时代发生了变化。文化革命之后李维汉的反省是非常深刻的。周扬被人说成是文艺界的沙皇，最后也死的很惨。中国的最高领导人，文化革命中除了毛泽东以外，所有的人都是可以打倒的，成立专案组，超越现定法律，宣布是叛徒内奸公敌。现在不太可能了，时代确实在进步。</p>
+
+<p>问题4：太强调中共在时政中阴谋的那一面，是不是太简单了？</p>
+
+<p>徐友渔：确实有逻辑，不一定对哈。统治者是希望国家强大的，但在具体怎么做的时候，问题是很复杂的。1967年谈论中国问题的文章中，怎么容得你赫鲁晓夫在毛泽东面前摆谱。十月革命的威风在那里，中国应该是第二号，我应当在你赫鲁晓夫之上。我们迅速地在经济上超过他。执政的革命党，党群之间出现了问题。要在政治上比，毛泽东想要创造一种理想社会。而打倒特权阶层，当初是得到拥护的。</p>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#立人大学 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2017-10-01/freehere/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2011-07-01/kaimu/">最早</a>--</span>
+    
+      <li>
+        <time>2011-07-07</time>
+        <a href="https://nodebe4.github.io/opinion/2011-07-07/anzhu2/">
+          公益：新思想的威力
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2011-07-06</time>
+        <a href="https://nodebe4.github.io/opinion/2011-07-06/anzhu/">
+          如何理解社会？
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2011-07-04</time>
+        <a href="https://nodebe4.github.io/opinion/2011-07-04/xuyouyu/">
+          我的学思历程 徐友渔
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2011-07-02</time>
+        <a href="https://nodebe4.github.io/opinion/2011-07-02/liuyu/">
+          我的学思历程 刘瑜
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2011-07-04/xuyouyu/">
+            前一篇：我的学思历程 徐友渔
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2011-07-05/%E4%BD%95%E5%B8%86-%E4%B8%8E%E4%BC%9F%E5%A4%A7%E7%9A%84%E5%BF%83%E7%81%B5%E7%9B%B8%E9%81%87-%E7%BE%8E%E5%9B%BD%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E5%A4%A7%E6%B3%95%E5%AE%98%E4%BC%A0%E8%AE%B0%E8%AF%91%E4%B8%9B%E6%80%BB%E5%BA%8F/">
+            後一篇：何帆：与伟大的心灵相遇——美国最高法院大法官传记译丛总序
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2011-07-04/xuyouyu/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2011-07-05/%E4%BD%95%E5%B8%86-%E4%B8%8E%E4%BC%9F%E5%A4%A7%E7%9A%84%E5%BF%83%E7%81%B5%E7%9B%B8%E9%81%87-%E7%BE%8E%E5%9B%BD%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E5%A4%A7%E6%B3%95%E5%AE%98%E4%BC%A0%E8%AE%B0%E8%AF%91%E4%B8%9B%E6%80%BB%E5%BA%8F/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2011-07-06/anzhu/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2011-07-04/xuyouyu/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2011-07-04/xuyouyu/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2011-07-05/%E4%BD%95%E5%B8%86-%E4%B8%8E%E4%BC%9F%E5%A4%A7%E7%9A%84%E5%BF%83%E7%81%B5%E7%9B%B8%E9%81%87-%E7%BE%8E%E5%9B%BD%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E5%A4%A7%E6%B3%95%E5%AE%98%E4%BC%A0%E8%AE%B0%E8%AF%91%E4%B8%9B%E6%80%BB%E5%BA%8F/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<立人大学>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2011-07-06/anzhu/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<立人大学>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2011-07-04/xuyouyu/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

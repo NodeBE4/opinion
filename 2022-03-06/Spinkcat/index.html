@@ -1,0 +1,2412 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Spinkcat在2022-02-28~2022-03-06的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Spinkcat在2022-02-28~2022-03-06的言论" />
+    <meta property="twitter:title" content="Spinkcat在2022-02-28~2022-03-06的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FChina_irl%2Fcomments%2Ft2r7xz%2F%E8%B0%88%E8%B0%88%E8%87%AA%E5%B7%B1%E7%9A%84%E6%80%9D%E6%83%B3%E9%97%AD%E7%8E%AFopinion%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/China_irl/comments/t2r7xz/谈谈自己的思想闭环opinion/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/China_irl/comments/t2r7xz/谈谈自己的思想闭环opinion/&text=Spinkcat在2022-02-28~2022-03-06的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/China_irl/comments/t2r7xz/谈谈自己的思想闭环opinion/&title=Spinkcat在2022-02-28~2022-03-06的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/China_irl/comments/t2r7xz/谈谈自己的思想闭环opinion/&title=Spinkcat在2022-02-28~2022-03-06的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Spinkcat在2022-02-28~2022-03-06的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/China_irl/comments/t2r7xz/谈谈自己的思想闭环opinion/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/China_irl/comments/t2r7xz/谈谈自己的思想闭环opinion/&title=Spinkcat在2022-02-28~2022-03-06的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Spinkcat在2022-02-28~2022-03-06的言论&url=https://old.reddit.com/r/China_irl/comments/t2r7xz/谈谈自己的思想闭环opinion/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Spinkcat在2022-02-28~2022-03-06的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-03-06
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://www.reddit.com/user/Spinkcat/" style="font-size:14px;">作者: Spinkcat</a>
+        </span>
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/China_irl/comments/t2r7xz/谈谈自己的思想闭环opinion/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#1524-谈谈自己的思想闭环opinion-submitted-on-2022-02-28-0000280800" id="markdown-toc-1524-谈谈自己的思想闭环opinion-submitted-on-2022-02-28-0000280800">1524: 谈谈自己的思想闭环（Opinion）, submitted on 2022-02-28 00:00:28+08:00.</a></li>
+  <li><a href="#1525-你是否认为普京会下令向乌克兰发射核武器目前普京已下令将战略威慑部队进入战备状态-submitted-on-2022-02-28-0010440800" id="markdown-toc-1525-你是否认为普京会下令向乌克兰发射核武器目前普京已下令将战略威慑部队进入战备状态-submitted-on-2022-02-28-0010440800">1525: 你是否认为普京会下令向乌克兰发射核武器？（目前普京已下令将战略威慑部队进入战备状态）, submitted on 2022-02-28 00:10:44+08:00.</a></li>
+  <li><a href="#1526-白俄罗斯通过全国公投准备放弃自己的无核地位-submitted-on-2022-02-28-0036340800" id="markdown-toc-1526-白俄罗斯通过全国公投准备放弃自己的无核地位-submitted-on-2022-02-28-0036340800">1526: 白俄罗斯通过全国公投准备放弃自己的无核地位, submitted on 2022-02-28 00:36:34+08:00.</a></li>
+  <li><a href="#1527-等一个戈尔巴乔夫发表电视讲话-submitted-on-2022-02-28-0041340800" id="markdown-toc-1527-等一个戈尔巴乔夫发表电视讲话-submitted-on-2022-02-28-0041340800">1527: 等一个戈尔巴乔夫发表电视讲话, submitted on 2022-02-28 00:41:34+08:00.</a></li>
+  <li><a href="#1528-96小时战况-submitted-on-2022-02-28-1135040800" id="markdown-toc-1528-96小时战况-submitted-on-2022-02-28-1135040800">1528: 96小时战况, submitted on 2022-02-28 11:35:04+08:00.</a></li>
+  <li><a href="#1529-这次乌克兰危机真是把外交部那群酒囊饭袋的底裤都扒下来了-submitted-on-2022-03-02-1331430800" id="markdown-toc-1529-这次乌克兰危机真是把外交部那群酒囊饭袋的底裤都扒下来了-submitted-on-2022-03-02-1331430800">1529: 这次乌克兰危机真是把外交部那群酒囊饭袋的底裤都扒下来了, submitted on 2022-03-02 13:31:43+08:00.</a></li>
+  <li><a href="#1530-第六日战报-submitted-on-2022-03-02-1331570800" id="markdown-toc-1530-第六日战报-submitted-on-2022-03-02-1331570800">1530: 第六日战报, submitted on 2022-03-02 13:31:57+08:00.</a></li>
+  <li><a href="#1531-b站热门现状反美宣传视频播放量过百万-关于国内问题的视频没人看--submitted-on-2022-03-04-0045510800" id="markdown-toc-1531-b站热门现状反美宣传视频播放量过百万-关于国内问题的视频没人看--submitted-on-2022-03-04-0045510800">1531: b站热门现状：反美宣传视频播放量过百万 关于国内问题的视频没人看 😆, submitted on 2022-03-04 00:45:51+08:00.</a></li>
+  <li><a href="#1532-今天跟家里人聊乌克兰结果还挺让我意料-submitted-on-2022-03-04-0129370800" id="markdown-toc-1532-今天跟家里人聊乌克兰结果还挺让我意料-submitted-on-2022-03-04-0129370800">1532: 今天跟家里人聊乌克兰结果还挺让我意料, submitted on 2022-03-04 01:29:37+08:00.</a></li>
+  <li><a href="#1533-俄国侵略乌克兰导致非洲各国粮食暴涨价-submitted-on-2022-03-04-2207510800" id="markdown-toc-1533-俄国侵略乌克兰导致非洲各国粮食暴涨价-submitted-on-2022-03-04-2207510800">1533: 俄国侵略乌克兰导致非洲各国粮食暴涨价, submitted on 2022-03-04 22:07:51+08:00.</a></li>
+  <li><a href="#1534-全过程人民民主人民最有发言权-submitted-on-2022-03-05-0004130800" id="markdown-toc-1534-全过程人民民主人民最有发言权-submitted-on-2022-03-05-0004130800">1534: 全过程人民民主，人民最有发言权, submitted on 2022-03-05 00:04:13+08:00.</a></li>
+  <li><a href="#1535-俄罗斯的战争有机导致全球大吃饱吗-submitted-on-2022-03-05-0333350800" id="markdown-toc-1535-俄罗斯的战争有机导致全球大吃饱吗-submitted-on-2022-03-05-0333350800">1535: 俄罗斯的战争有机导致全球大吃饱吗, submitted on 2022-03-05 03:33:35+08:00.</a></li>
+  <li><a href="#1536-从911到奥巴马重返亚洲-不少人说拉登给天朝买了十年埋头发展的时间-那么你认为这个乌克兰战争会给天朝买多少年的时间-submitted-on-2022-03-05-0559060800" id="markdown-toc-1536-从911到奥巴马重返亚洲-不少人说拉登给天朝买了十年埋头发展的时间-那么你认为这个乌克兰战争会给天朝买多少年的时间-submitted-on-2022-03-05-0559060800">1536: 从911到奥巴马重返亚洲， 不少人说拉登给天朝买了十年埋头发展的时间。 那么你认为这个乌克兰战争会给天朝买多少年的时间？, submitted on 2022-03-05 05:59:06+08:00.</a></li>
+  <li><a href="#1537-国内极端主义的尽头是什么-submitted-on-2022-03-06-0818070800" id="markdown-toc-1537-国内极端主义的尽头是什么-submitted-on-2022-03-06-0818070800">1537: 国内极端主义的尽头是什么？, submitted on 2022-03-06 08:18:07+08:00.</a></li>
+  <li><a href="#1538-俄罗斯指责乌克兰秘密制造脏弹以及疑似fsb内部爆料-submitted-on-2022-03-06-1933120800" id="markdown-toc-1538-俄罗斯指责乌克兰秘密制造脏弹以及疑似fsb内部爆料-submitted-on-2022-03-06-1933120800">1538: 俄罗斯指责乌克兰秘密制造脏弹，以及疑似FSB内部爆料, submitted on 2022-03-06 19:33:12+08:00.</a></li>
+</ul>
+
+<h3 id="1524-谈谈自己的思想闭环opinion-submitted-on-2022-02-28-0000280800">1524: <a href="https://old.reddit.com/r/China_irl/comments/t2r7xz/谈谈自己的思想闭环opinion/">谈谈自己的思想闭环（Opinion）</a>, submitted on 2022-02-28 00:00:28+08:00.</h3>
+
+<p>—– <strong>1524.1</strong> —–2022-02-28 01:21:38+08:00:</p>
+
+<p>中国现在的富强，不是现在TG当权派与其派系的政治遗产（功绩或政策）。</p>
+
+<p>相反，这是与其对立的政治派系的遗产，所以因为中国富强将功劳归结于当权派系上支持整个中共执政，是脱靶支持错方向了。</p>
+
+<p>支持的话，道路应该重回八十年代改革派，或五四运动精神遗留下来的老一代革命精神为方向。</p>
+
+<p>而且现在TG保守派，已经不太会使用改革派遗留下来的框架，变成了约束中国发展的存在，其自身存在的天然弊端，跟改革派框架下目标的下一步中国社会发展，是互相抵触的。</p>
+
+<p>他们就像掌握了先进机器的野蛮人，只会使用机器为自己谋取利润，能走一天是一天，一旦机器没电，他们既没有知识，也没有办法让机器继续按照自己意愿运转。</p>
+
+<p>因为中国现代史基本是空白，很容易造成误判，当保守派不愿意继续使用改革派的经济框架，也失去了自我改革的能力和意愿时，就是时候让他们退出历史舞台了。</p>
+
+<p>—– <strong>1524.2</strong> —–2022-02-28 13:18:18+08:00:</p>
+
+<p>客观上普通人其实没有什么办法，但是只要主观否定了他们作为合法政党执政的权力，就会发现很多很多不合理也不符合中国利益的事。</p>
+
+<p>那么从根本的态度上，就等于迈出了关键的一步，然后当足够多的人这么认为后，社会发展到形成共识时，保守派下台或无法自我改革的中共退出历史就顺理成章。</p>
+
+<h3 id="1525-你是否认为普京会下令向乌克兰发射核武器目前普京已下令将战略威慑部队进入战备状态-submitted-on-2022-02-28-0010440800">1525: <a href="https://old.reddit.com/r/China_irl/comments/t2rfzs/你是否认为普京会下令向乌克兰发射核武器目前普京已下令将战略威慑部队进入战备状态/">你是否认为普京会下令向乌克兰发射核武器？（目前普京已下令将战略威慑部队进入战备状态）</a>, submitted on 2022-02-28 00:10:44+08:00.</h3>
+
+<p>—– <strong>1525.1</strong> —–2022-02-28 01:11:15+08:00:</p>
+
+<p>这个“难讲”的同意数量，已经说明普京的行为模式，远超出了我们正常人的认知范围，大概率已经老糊涂了，之前没人会觉得普京进攻，然后就发生了让人意想不到的事。</p>
+
+<h3 id="1526-白俄罗斯通过全国公投准备放弃自己的无核地位-submitted-on-2022-02-28-0036340800">1526: <a href="https://old.reddit.com/r/China_irl/comments/t2s00q/白俄罗斯通过全国公投准备放弃自己的无核地位/">白俄罗斯通过全国公投准备放弃自己的无核地位</a>, submitted on 2022-02-28 00:36:34+08:00.</h3>
+
+<p>—– <strong>1526.1</strong> —–2022-02-28 01:07:19+08:00:</p>
+
+<p>朝鲜是最大输家，各个都有核了，这会他们不值钱，讹不到了。</p>
+
+<h3 id="1527-等一个戈尔巴乔夫发表电视讲话-submitted-on-2022-02-28-0041340800">1527: <a href="https://old.reddit.com/r/China_irl/comments/t2s3wi/等一个戈尔巴乔夫发表电视讲话/">等一个戈尔巴乔夫发表电视讲话</a>, submitted on 2022-02-28 00:41:34+08:00.</h3>
+
+<p>—– <strong>1527.1</strong> —–2022-02-28 01:06:26+08:00:</p>
+
+<p>马邦德是吧</p>
+
+<h3 id="1528-96小时战况-submitted-on-2022-02-28-1135040800">1528: <a href="https://old.reddit.com/r/China_irl/comments/t35thu/96小时战况/">96小时战况</a>, submitted on 2022-02-28 11:35:04+08:00.</h3>
+
+<p>—– <strong>1528.1</strong> —–2022-02-28 14:30:33+08:00:</p>
+
+<p>装甲部队目前阶段作用不大，大部分都是巷战，而且乌军反坦克手段很多。</p>
+
+<p>不过之后俄军可能使用大规模重武器无视平民存在去清理掩体内的乌军，这个时候反重火力需要空军，乌空军劣势明显。</p>
+
+<p>并且因为空军和整体的劣势，乌军迫切需要坚守大城市来进行巷战躲避轰炸。</p>
+
+<p>乌克兰大城市相对少，撤退期间可能会被追杀，所以未来最重要的就是乌军保证陆路补给安全，能源源不断投入人力物力到前线的城市坚持巷战。</p>
+
+<p>另一个就是要加快防空火力扩建或空军本身增速的规模，抵消俄军空中优势，让前线撤退，或后方补给到前线没有后顾之忧，否则路上就被空军轰炸。</p>
+
+<p>乌克兰是被入侵，士气高涨，人口数量庞大，可以全民皆兵。</p>
+
+<p>俄罗斯国内反战，军队士气明显低于乌军，早期优势是军队整体规模和质量高于乌军，但是因为没有得到国内统一意见就发动战争，实际上俄军可用的动员规模，我认为是要低于乌军的。</p>
+
+<p>如果俄军不能在头几个星期，利用质量和规模优势迅速突破乌军防线，让乌军预备队赶不上消耗速度，然后趁机打出节奏，就会陷入俄军每死一人，可用兵力就越来越少的情况。</p>
+
+<p>虽然俄军人数总体非常多，但是当死亡扩大且毫无进展，国内就不止是经济反战去看问题，而是会因亲属死亡成为最核心反普京的群体。</p>
+
+<p>弱化俄军空中优势，地面部队才有长期拉锯的资本，乌军现在一个是要加快兵力增速，确保能填先拉锯，再有就是得管欧美要大量的空军或防空资源</p>
+
+<p>—– <strong>1528.2</strong> —–2022-02-28 15:34:57+08:00:</p>
+
+<p>这个也考虑进去了，地对空防御力量应该能管饱，但空军本身很难补充，俄军一旦扩大战争规模与烈度，乌军的空军压力依然很大，欧盟新近提出会支援战机给乌克兰，不清楚数量以及规格，另外就是乌克兰可能需要更多驾驶员，驾驶员的人力资源亦非常宝贵。</p>
+
+<p>—– <strong>1528.3</strong> —–2022-02-28 18:44:09+08:00:</p>
+
+<p>无人机对抗是电子战团队的事了</p>
+
+<h3 id="1529-这次乌克兰危机真是把外交部那群酒囊饭袋的底裤都扒下来了-submitted-on-2022-03-02-1331430800">1529: <a href="https://old.reddit.com/r/China_irl/comments/t4st46/这次乌克兰危机真是把外交部那群酒囊饭袋的底裤都扒下来了/">这次乌克兰危机真是把外交部那群酒囊饭袋的底裤都扒下来了</a>, submitted on 2022-03-02 13:31:43+08:00.</h3>
+
+<p>—– <strong>1529.1</strong> —–2022-03-02 18:21:19+08:00:</p>
+
+<p>这种能力烂透的集团把持政府，对中国人来说简直是耻辱，该集团已经迅速劣化，完全不具备领导和组织中国人发挥应有潜力的能力，应该迅速下台，让出位置，别占着茅坑不拉屎，然后拖累中国人。</p>
+
+<p>几乎在所有层面上，都可以明确，肉眼可见的速度，TG全方位的能力不足，这个组织就是中国的累赘。</p>
+
+<p>他们根本不具备任何行政能力与意愿，去做好自己本分，和平下台交权，不要搞到最后民众不满到极点，爆发血腥冲突，最后演变成内战。</p>
+
+<p>历史上没有不会下台的政府，这才一两年就拉跨到跟山大王一样，再过几年没准拉条狗拴电视上，都比他们强，至少狗不会乱说话误导人，并且人们更喜欢狗。</p>
+
+<h3 id="1530-第六日战报-submitted-on-2022-03-02-1331570800">1530: <a href="https://old.reddit.com/r/China_irl/comments/t4st9f/第六日战报/">第六日战报</a>, submitted on 2022-03-02 13:31:57+08:00.</h3>
+
+<p>—– <strong>1530.1</strong> —–2022-03-02 19:33:19+08:00:</p>
+
+<p>马里乌波尔方面的各部守军意志坚定，但马里乌波尔的防御工事能有效支撑多久是个疑问。</p>
+
+<p>如果不能达到两星期，而要让这样的部队面临全歼风险，我觉得是得不偿失。</p>
+
+<p>让他们撤回，整修和培训新兵，作为宣传来继续提高士气可能是更好的选择，否则浪费一支士气高且意志不受动摇的军队，并不一定能尽可能延长整个战争，反而可能在被消灭包围后，引发士气问题，俄罗斯也会拿来做宣传。</p>
+
+<p>马里乌波尔太突出，补给困难，防守价值不大，东线迟早是要收缩的，守军最终决策不打算突围，打算留下来拖住俄军，可能是个错误决定。</p>
+
+<h3 id="1531-b站热门现状反美宣传视频播放量过百万-关于国内问题的视频没人看--submitted-on-2022-03-04-0045510800">1531: <a href="https://old.reddit.com/r/China_irl/comments/t5vsof/b站热门现状反美宣传视频播放量过百万_关于国内问题的视频没人看/">b站热门现状：反美宣传视频播放量过百万 关于国内问题的视频没人看 😆</a>, submitted on 2022-03-04 00:45:51+08:00.</h3>
+
+<p>—– <strong>1531.1</strong> —–2022-03-05 11:39:19+08:00:</p>
+
+<p>除开官方控制的播放数字外，国内许多人的鸵鸟心理是非常明显的。</p>
+
+<p>他们内在的自处逻辑很简单，不关注就不会有问题，进而不相信问题存在。</p>
+
+<p>根本上是因为他们根本就没能力处理问题，只能服从于威权，这也是为什么他们对解决问题不拿手，但是很擅长跟你杠，因为现实当中有话语权的人或组织，发声他们必须依附，许多人渴望话语权又不能合理解释自身处境，一旦找到发泄口，就是疯狂的将人格自尊寄托在其上。</p>
+
+<p>有些时候类似现象某些反贼也有，老一代民运很常见，很容易一样被宏大叙事给遮掩，不谈具体细节问题不过好在反贼普遍这个情况少，尤其是有对立面越来越注重宏大叙事的观感为前提下，反面教材树的很好很到位。</p>
+
+<p>其实有的人说国内一些问题完全不过审，就我观察不能完全这么说，有大部分不过，但幸存者偏差没法判定细节，过审的部分更严重的问题是，许多人关注或不关注，但不会思考原因与解决问题的方法。</p>
+
+<p>当然有人可能想了，考虑后果就又退回上一个步骤，这种都算好的。</p>
+
+<p>有时候会恨其不争，但一想想，人都平凡的，没法要求每个人都有态度，更没法指望他们能按照你希望的方向思考。（有时候真的就是你对其的怜悯远大于不满，真发不起火）事实上怎么去与他们互动，这一点并不难解决和理解，甚至是最简单的。</p>
+
+<p>所以更多时候是好奇，这种鸵鸟心态有一天架不住被问题爆发后的情况淹没，人们又该如何自处？</p>
+
+<h3 id="1532-今天跟家里人聊乌克兰结果还挺让我意料-submitted-on-2022-03-04-0129370800">1532: <a href="https://old.reddit.com/r/China_irl/comments/t5wtyn/今天跟家里人聊乌克兰结果还挺让我意料/">今天跟家里人聊乌克兰结果还挺让我意料</a>, submitted on 2022-03-04 01:29:37+08:00.</h3>
+
+<p>—– <strong>1532.1</strong> —–2022-03-05 10:17:24+08:00:</p>
+
+<p>这就是为什么我支持习主席连任</p>
+
+<h3 id="1533-俄国侵略乌克兰导致非洲各国粮食暴涨价-submitted-on-2022-03-04-2207510800">1533: <a href="https://old.reddit.com/r/China_irl/comments/t6jqd4/俄国侵略乌克兰导致非洲各国粮食暴涨价/">俄国侵略乌克兰导致非洲各国粮食暴涨价</a>, submitted on 2022-03-04 22:07:51+08:00.</h3>
+
+<p>—– <strong>1533.1</strong> —–2022-03-05 06:29:02+08:00:</p>
+
+<p>撑死骑士毛润之归来，一人占两位</p>
+
+<h3 id="1534-全过程人民民主人民最有发言权-submitted-on-2022-03-05-0004130800">1534: <a href="https://old.reddit.com/r/China_irl/comments/t6m9aw/全过程人民民主人民最有发言权/">全过程人民民主，人民最有发言权</a>, submitted on 2022-03-05 00:04:13+08:00.</h3>
+
+<p>—– <strong>1534.1</strong> —–2022-03-05 06:40:53+08:00:</p>
+
+<p>大主无民。</p>
+
+<h3 id="1535-俄罗斯的战争有机导致全球大吃饱吗-submitted-on-2022-03-05-0333350800">1535: <a href="https://old.reddit.com/r/China_irl/comments/t6qxvn/俄罗斯的战争有机导致全球大吃饱吗/">俄罗斯的战争有机导致全球大吃饱吗</a>, submitted on 2022-03-05 03:33:35+08:00.</h3>
+
+<p>—– <strong>1535.1</strong> —–2022-03-05 10:27:55+08:00:</p>
+
+<p>较富裕发展中国家与发达国家的生活成本与产品丰富度会下降，欠发达地区与战乱地区可能会陷入比之前更严重的饥荒潮。</p>
+
+<p>因为货物只靠自然流通，原材料价格上涨，商品不涨价也肯定难以维持产量。</p>
+
+<p>自然渠道流入欠发达地区的数量更少，价格也会提高，原本的收入无法让人们维持每日必须摄入热量的标准。</p>
+
+<p>没有合理物流，哪怕每年流入总数不变，一次5000包方便面或小麦进入这些地区，远不如20次5000包分批进入，因为人是每天都要吃饭，集货速度也很重要。</p>
+
+<p>我国可能有更多走私肉，因为猪瘟后猪农打击大，猪肉市场需求有潜力（即便我国是猪肉自给自足），卢布贬值，俄方走私肉本身也是非法生意，能赚一笔是一笔。</p>
+
+<p>我不清楚中方是否会睁一只眼闭一只眼。</p>
+
+<h3 id="1536-从911到奥巴马重返亚洲-不少人说拉登给天朝买了十年埋头发展的时间-那么你认为这个乌克兰战争会给天朝买多少年的时间-submitted-on-2022-03-05-0559060800">1536: <a href="https://old.reddit.com/r/China_irl/comments/t6u2wl/从911到奥巴马重返亚洲_不少人说拉登给天朝买了十年埋头发展的时间/">从911到奥巴马重返亚洲， 不少人说拉登给天朝买了十年埋头发展的时间。 那么你认为这个乌克兰战争会给天朝买多少年的时间？</a>, submitted on 2022-03-05 05:59:06+08:00.</h3>
+
+<p>—– <strong>1536.1</strong> —–2022-03-05 10:15:14+08:00:</p>
+
+<p>这些发展时间论，只是国内的臆想，不切实际的脱靶。</p>
+
+<p>中国有多少时间，只取决于中共目前领导层什么时候开始玩不动改革派几十年前留下来的经济马车。</p>
+
+<p>现在社会政策还是经济方向，没有一点新东西，全都是对旧制度的修修补补，甚至是大量的破坏。</p>
+
+<p>中国是自然发展，必然遇到转型阶段，现实世界的经济不是埋头苦干挖矿然后合成装备，给官方一百年，不去改变自身，到了时间节点该自爆的还是自爆。</p>
+
+<p>乌克兰战争带来的连锁反应，无论是宣传、经济还是其他任何方面，基本都是负面大于正面。</p>
+
+<p>如果有两份制裁名单给莫斯科和北京，一个庞大的国家和政府不是一个人那样精力有限，只要资源足够，内部支持得到巩固，政策可以非常快的实行。</p>
+
+<p>舆论资源也是一种资源，制裁俄罗斯是板上钉的，中国不跟也会遭间接制裁，对内舆论无法解释，原来拉拢的对象都会对立。俄罗斯入侵乌克兰这件事，完全给足了对方舆论资本集中力量。</p>
+
+<p>跟了制裁，失去俄罗斯方面的信任，并且制裁本身会让近年中国官方投资，以及政府鼓励企业对俄投资大幅度亏损，部分业务可能因为俄罗斯迫切需要外部经济输血小赚，但能赚多久，是不是一部分人撑死，大部分人饿死还未能确定。</p>
+
+<p>战争爆发后，中共官方基本跟无头苍蝇一样，手足无措，言语不一，这种反应在中国现在威权社会的氛围下是大忌，所有人都看在眼里。</p>
+
+<p>政府财政和经济下行压力这么大，大家不傻，乌克兰战争很多人都心里很清楚官方支持谁，都借着这件事除了反战外，也顺带唱反调。</p>
+
+<p>远的不说，从彭帅到八孩女再到现在，官方从政府最高层到中基层的决策者，在人们眼里，明面上是威权政府，实际上就是干什么都不行，公信力破产的山大王。</p>
+
+<p>没有那两杆子枪谁怕你，问题是，你那两杆子枪，还能用几年？只要网络舆论稍微控制不住，官方就会面临威信扫地的冲击。</p>
+
+<p>政府不解决中国内部问题，不进行改革，不抛弃四个基本原则，是发展不起来的。</p>
+
+<p>所谓的深改，就是开倒车，弱化淡化市场经济主导地位，政府插手，行政优先，大幅度干预经济捞油水控制社会命脉，避免内部社会运动爆发处于劣势地位，然后这个行为又加剧经济衰败和结构问题。</p>
+
+<p>若自身结构有问题，外部因素的压力只会加速结构性矛盾提前爆发。</p>
+
+<h3 id="1537-国内极端主义的尽头是什么-submitted-on-2022-03-06-0818070800">1537: <a href="https://old.reddit.com/r/China_irl/comments/t7mm9m/国内极端主义的尽头是什么/">国内极端主义的尽头是什么？</a>, submitted on 2022-03-06 08:18:07+08:00.</h3>
+
+<p>—– <strong>1537.1</strong> —–2022-03-06 15:32:06+08:00:</p>
+
+<p>极大概率内战</p>
+
+<p>—– <strong>1537.2</strong> —–2022-03-06 15:55:36+08:00:</p>
+
+<p>我稍微啃了一点最近的政府工作报告，似乎中央已经到了如果不通过支付转移去救济地方政府，就根本无法解决当下问题的情况，并且为改变中央不救地方问题的政策开口子。</p>
+
+<p>如果这种情况持续下去，中央财政枯竭也只是个时间问题，有地方才有中央，中央之前的财政平衡反而是不合理的，现在为了避免自己站不稳，试探性用优先的财政去给地方打续命针（但大多数地方还是严格的财政控制），一旦常态化，很容易变成泥牛入海。</p>
+
+<p>发展到最后，地方是永远存在的，但中央自己拆东墙补西墙，很容易形势逆转，地方开始逐渐做大，中央变弱，历史上许多有类似结构的政权，都有差不多的问题和结局。</p>
+
+<p>政府在舆论上不会突然转弯，体制的方向太庞大，哪怕转极端化，从习近平上台也用了五六年时间，现在转弯没法对内解释许多问题。</p>
+
+<p>目前就是能拖一天是一天，过一年就少一年，经济与社会对政府的可持续性几乎见底。</p>
+
+<p>—– <strong>1537.3</strong> —–2022-03-08 00:28:44+08:00:</p>
+
+<p>这个刚好我最近感觉很感兴趣，我花多点字描述下。</p>
+
+<p>官方其实早几年前就在缩发债的规模，对各地进行叫停，地方政府发债被约束在一定范围内。</p>
+
+<p>除了官方约束债务规模外，还有一部分是一些债化整为零，通过各种手段进入一大堆融资平台、企业。</p>
+
+<p>置换债务是偿债以外的主要解决办法，利息实际减少，其实变相是逼借贷机构让利给地方政府，债务周期拉长，付息减少，相当于地方政府平均每年利息增速下降，再有就是总量很大，增速就会放慢，毕竟举债上限被控制，地方政府实际能分到的债务额度有限，地方政府的总数也不会无止境增长。</p>
+
+<p>所以再过几年，债务付息的情况，就要看实际数字，比如地方政府一年五百亿，之前高增速高存量时期算百分比，存量清空后，开始看财政收入与付息的比例，</p>
+
+<p>不过去年2021年的6.6%增速要注意一点，增速比往年下降也是相对的，去年全国财政开支增长而不是下降的只有四个。</p>
+
+<p>分别是教育支出3.5%、科技支出7.2%、社保就业3.4%、债务付息6.6%。</p>
+
+<p>全国财政支出增长才0.3%，约等于没增长，而固定开销依然增速。</p>
+
+<p>这几个项目重点谈一下，教育开销是不可避免的，本身已经严重不够，各地教师都在欠薪，近年很严重，闹很多次了。</p>
+
+<p>科技开销比较复杂，有一些可能给地方中小企业补贴，国内目前到了一个转型阶段，中小企业数量很多，但政府既不愿意放开转型失去对市场控制，也不可能看着许多企业裁员导致失业潮，除了固定对科研技术的投资，这部分开销具体细节还需要研究。</p>
+
+<p>社保开销很好理解，这个停了后果很严重。</p>
+
+<p>所以一对比可以看得出，债务付息是去年全国政府支出增速第二高的项目，跟最高的也就差0.6%。</p>
+
+<p>一个是反应之前债务到期偿债压力可能较大，另一个也反应了债务增速快，付息需求高。</p>
+
+<p>19年财政支出增速是8.1%，利息增速是12.6%，在控制债务的情况下，置换债再加上限额，财政收入好一些可以有效维持地方政府运作。</p>
+
+<p>但是到2020年，增速下跌到2.8%，利息增速就回归到16.5%。</p>
+
+<p>不过即便有这些趋势，每年具体单项的财政开销增速与收入增速，都可能有必要单独看。</p>
+
+<p>总体来讲政府这两年的财政压力极大，我对政府于支出态度的看法，是他们认为每年如无意外，政府开销要固定在安全范围内，一定会尽可能留下财政缓冲区，避免中央失去财政话语权。</p>
+
+<p>也就是说假设往年政府赚100元，福利开支20元，人民所需要40元标准，没人抗议政府就不会拉高这方面福利开销标准。</p>
+
+<p>今年政府开始每年赚150元，福利开支也只会每年加1-2元，绝大部分时候，政府永远有一个财政安全区，是不用于社会需求的，只用于维护中央和地方统治地位（中央对地方还有一个缓冲区），实在逼没招了就发债拖延，或者变相加税，以及吃大户逼中产输血。</p>
+
+<p>—– <strong>1537.4</strong> —–2022-03-11 05:32:59+08:00:</p>
+
+<p>你找的这个决算表我没了解过，得至少看一下才能了解细节。不过我单独找了16和15年的支出决算表，15年的构成更详细，包括了中央政府的债务细节。（但老实说财政部的格式似乎一年或几年就变一个样，排版也非常蛋疼）</p>
+
+<p>15年的地方政府债务支出预算是361.12亿，实际决算681.68亿，超标近一倍。</p>
+
+<p>http://yss.mof.gov.cn/2015js/201607/t20160720_2365732.htm</p>
+
+<p>我估计你看到的这个情况，主要是因为2015年进行了债务、财政的改革，跟营改增似的，增值税的变化来自于制度改革，没记错好像算法也改过。</p>
+
+<p>纰漏或自相矛盾我认为不至于，因为财政部能公开的数据，需要给全国各地做参考，国务院也要看，不过内部数据肯定更细致精准，不是单一专项数据，尤其是这种大规模涉及广的，越需要真实性保障政策能跟进。</p>
+
+<p>地方债改革实际上是给地方减负，同时明确债务的大概总量轮廓，方便中央调控，之前很多隐形债务。当然现在也有，不过政府会有很多办法使其不记名下，基本没官方数据，是没法做准确判断的。</p>
+
+<p>但2015年当年，有个细节可以看到债务改革后，中央希望看到真实债务的轮廓，也远超预期了。</p>
+
+<p>大致上可以理解为官方如果都信息失真了，他们管控和解决危机来自救的能力肯定达不到所需目标。</p>
+
+<p>—– <strong>1537.5</strong> —–2022-03-11 22:11:20+08:00:</p>
+
+<p>我认为不是掩饰的结果，而是政府也要有一个真实数据，但实际情况肯定比中央政府预估的更严重，用了几年时间把这个真实体量一点点匀出来，太细节的问题，属于政府不说，外人也基本没渠道去证实。</p>
+
+<h3 id="1538-俄罗斯指责乌克兰秘密制造脏弹以及疑似fsb内部爆料-submitted-on-2022-03-06-1933120800">1538: <a href="https://old.reddit.com/r/China_irl/comments/t7wy8j/俄罗斯指责乌克兰秘密制造脏弹以及疑似fsb内部爆料/">俄罗斯指责乌克兰秘密制造脏弹，以及疑似FSB内部爆料</a>, submitted on 2022-03-06 19:33:12+08:00.</h3>
+
+<p>—– <strong>1538.1</strong> —–2022-03-06 22:17:57+08:00:</p>
+
+<p>如果普京继续一意孤行，俄罗斯人将连苏联解体后的九十年代都会开始怀念。</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-03-11</time>
+        <a href="https://nodebe4.github.io/opinion/2022-03-11/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-03-07~2022-03-13的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-03-06</time>
+        <a href="https://nodebe4.github.io/opinion/2022-03-06/theoryofdoom/">
+          theoryofdoom在2022-02-28~2022-03-06的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-03-06</time>
+        <a href="https://nodebe4.github.io/opinion/2022-03-06/EnclavedMicrostate/">
+          EnclavedMicrostate在2022-02-28~2022-03-06的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-03-05</time>
+        <a href="https://nodebe4.github.io/opinion/2022-03-05/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-02-28~2022-03-06的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-03-06/EnclavedMicrostate/">
+            前一篇：EnclavedMicrostate在2022-02-28~2022-03-06的言论
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-03-06/jenjpan/">
+            後一篇：Twitter @Jennifer Pan: 2022-02-28~2022-03-06
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-03-06/EnclavedMicrostate/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-03-06/jenjpan/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-03-06/theoryofdoom/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-03-06/EnclavedMicrostate/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-03-06/EnclavedMicrostate/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-03-06/jenjpan/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-03-06/theoryofdoom/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-03-06/EnclavedMicrostate/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

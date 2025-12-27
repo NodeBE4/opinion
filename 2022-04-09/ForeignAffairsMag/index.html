@@ -1,0 +1,2284 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>ForeignAffairsMag在2022-04-04~2022-04-10的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="ForeignAffairsMag在2022-04-04~2022-04-10的言论" />
+    <meta property="twitter:title" content="ForeignAffairsMag在2022-04-04~2022-04-10的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2Fgeopolitics%2Fcomments%2Ftw3wt7%2Fthe_fantasy_of_the_free_world_are_democracies%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/geopolitics/comments/tw3wt7/the_fantasy_of_the_free_world_are_democracies/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/geopolitics/comments/tw3wt7/the_fantasy_of_the_free_world_are_democracies/&text=ForeignAffairsMag在2022-04-04~2022-04-10的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/geopolitics/comments/tw3wt7/the_fantasy_of_the_free_world_are_democracies/&title=ForeignAffairsMag在2022-04-04~2022-04-10的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/geopolitics/comments/tw3wt7/the_fantasy_of_the_free_world_are_democracies/&title=ForeignAffairsMag在2022-04-04~2022-04-10的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=ForeignAffairsMag在2022-04-04~2022-04-10的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/geopolitics/comments/tw3wt7/the_fantasy_of_the_free_world_are_democracies/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/geopolitics/comments/tw3wt7/the_fantasy_of_the_free_world_are_democracies/&title=ForeignAffairsMag在2022-04-04~2022-04-10的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=ForeignAffairsMag在2022-04-04~2022-04-10的言论&url=https://old.reddit.com/r/geopolitics/comments/tw3wt7/the_fantasy_of_the_free_world_are_democracies/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>ForeignAffairsMag在2022-04-04~2022-04-10的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-04-09
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: ForeignAffairsMag</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/geopolitics/comments/tw3wt7/the_fantasy_of_the_free_world_are_democracies/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#183-the-fantasy-of-the-free-world-are-democracies-really-united-against-russia-submitted-on-2022-04-04-2251060800" id="markdown-toc-183-the-fantasy-of-the-free-world-are-democracies-really-united-against-russia-submitted-on-2022-04-04-2251060800">183: The Fantasy of the Free World: Are Democracies Really United Against Russia?, submitted on 2022-04-04 22:51:06+08:00.</a></li>
+  <li><a href="#184-the-end-of-the-middle-east-how-an-old-map-distorts-a-new-reality-submitted-on-2022-04-04-2257520800" id="markdown-toc-184-the-end-of-the-middle-east-how-an-old-map-distorts-a-new-reality-submitted-on-2022-04-04-2257520800">184: The End of the Middle East: How an Old Map Distorts a New Reality, submitted on 2022-04-04 22:57:52+08:00.</a></li>
+  <li><a href="#185-the-end-of-the-middle-east-how-an-old-map-distorts-a-new-reality-submitted-on-2022-04-04-2300480800" id="markdown-toc-185-the-end-of-the-middle-east-how-an-old-map-distorts-a-new-reality-submitted-on-2022-04-04-2300480800">185: The End of the Middle East: How an Old Map Distorts a New Reality, submitted on 2022-04-04 23:00:48+08:00.</a></li>
+  <li><a href="#186-the-fantasy-of-the-free-world-are-democracies-really-united-against-russia-submitted-on-2022-04-05-0439310800" id="markdown-toc-186-the-fantasy-of-the-free-world-are-democracies-really-united-against-russia-submitted-on-2022-04-05-0439310800">186: The Fantasy of the Free World: Are Democracies Really United Against Russia?, submitted on 2022-04-05 04:39:31+08:00.</a></li>
+  <li><a href="#187-putins-doomsday-threat-how-to-prevent-a-repeat-of-the-cuban-missile-crisis-in-ukraine-submitted-on-2022-04-05-2204520800" id="markdown-toc-187-putins-doomsday-threat-how-to-prevent-a-repeat-of-the-cuban-missile-crisis-in-ukraine-submitted-on-2022-04-05-2204520800">187: Putin’s Doomsday Threat: How to Prevent a Repeat of the Cuban Missile Crisis in Ukraine, submitted on 2022-04-05 22:04:52+08:00.</a></li>
+  <li><a href="#188-time-for-even-tougher-sanctions-on-russia-how-the-united-states-and-europe-can-target-energy-and-finance-submitted-on-2022-04-05-2206020800" id="markdown-toc-188-time-for-even-tougher-sanctions-on-russia-how-the-united-states-and-europe-can-target-energy-and-finance-submitted-on-2022-04-05-2206020800">188: Time for Even Tougher Sanctions on Russia: How the United States and Europe Can Target Energy and Finance, submitted on 2022-04-05 22:06:02+08:00.</a></li>
+  <li><a href="#189-time-for-even-tougher-sanctions-on-russia-how-the-united-states-and-europe-can-target-energy-and-finance-submitted-on-2022-04-05-2207170800" id="markdown-toc-189-time-for-even-tougher-sanctions-on-russia-how-the-united-states-and-europe-can-target-energy-and-finance-submitted-on-2022-04-05-2207170800">189: Time for Even Tougher Sanctions on Russia: How the United States and Europe Can Target Energy and Finance, submitted on 2022-04-05 22:07:17+08:00.</a></li>
+  <li><a href="#190-the-next-sino-russian-split-beijing-will-ultimately-come-to-regret-its-support-of-moscow-submitted-on-2022-04-05-2212030800" id="markdown-toc-190-the-next-sino-russian-split-beijing-will-ultimately-come-to-regret-its-support-of-moscow-submitted-on-2022-04-05-2212030800">190: The Next Sino-Russian Split?: Beijing Will Ultimately Come to Regret Its Support of Moscow, submitted on 2022-04-05 22:12:03+08:00.</a></li>
+  <li><a href="#191-the-next-sino-russian-split-beijing-will-ultimately-come-to-regret-its-support-of-moscow-submitted-on-2022-04-06-0505540800" id="markdown-toc-191-the-next-sino-russian-split-beijing-will-ultimately-come-to-regret-its-support-of-moscow-submitted-on-2022-04-06-0505540800">191: The Next Sino-Russian Split?: Beijing Will Ultimately Come to Regret Its Support of Moscow, submitted on 2022-04-06 05:05:54+08:00.</a></li>
+  <li><a href="#192-the-price-of-hegemony-can-america-learn-to-use-its-power-submitted-on-2022-04-06-2154330800" id="markdown-toc-192-the-price-of-hegemony-can-america-learn-to-use-its-power-submitted-on-2022-04-06-2154330800">192: The Price of Hegemony: Can America Learn to Use Its Power?, submitted on 2022-04-06 21:54:33+08:00.</a></li>
+  <li><a href="#193-putins-war-on-history-the-thousand-year-struggle-over-ukraine-submitted-on-2022-04-07-2146250800" id="markdown-toc-193-putins-war-on-history-the-thousand-year-struggle-over-ukraine-submitted-on-2022-04-07-2146250800">193: Putin’s War on History: The Thousand-Year Struggle Over Ukraine, submitted on 2022-04-07 21:46:25+08:00.</a></li>
+  <li><a href="#194-putins-war-on-history-the-thousand-year-struggle-over-ukraine-submitted-on-2022-04-07-2146550800" id="markdown-toc-194-putins-war-on-history-the-thousand-year-struggle-over-ukraine-submitted-on-2022-04-07-2146550800">194: Putin’s War on History: The Thousand-Year Struggle Over Ukraine, submitted on 2022-04-07 21:46:55+08:00.</a></li>
+  <li><a href="#195-why-putin-underestimated-the-west-and-how-to-sustain-its-newfound-unity-submitted-on-2022-04-07-2148300800" id="markdown-toc-195-why-putin-underestimated-the-west-and-how-to-sustain-its-newfound-unity-submitted-on-2022-04-07-2148300800">195: Why Putin Underestimated the West: And How to Sustain Its Newfound Unity, submitted on 2022-04-07 21:48:30+08:00.</a></li>
+  <li><a href="#196-stephen-kotkin-the-cold-war-never-ended-submitted-on-2022-04-08-2222510800" id="markdown-toc-196-stephen-kotkin-the-cold-war-never-ended-submitted-on-2022-04-08-2222510800">196: Stephen Kotkin: The Cold War Never Ended, submitted on 2022-04-08 22:22:51+08:00.</a></li>
+  <li><a href="#197-will-fighting-inflation-in-america-cause-a-debt-crisis-abroad-how-the-fed-shapes-the-global-economy-submitted-on-2022-04-08-2229050800" id="markdown-toc-197-will-fighting-inflation-in-america-cause-a-debt-crisis-abroad-how-the-fed-shapes-the-global-economy-submitted-on-2022-04-08-2229050800">197: Will Fighting Inflation in America Cause a Debt Crisis Abroad?: How the Fed Shapes the Global Economy, submitted on 2022-04-08 22:29:05+08:00.</a></li>
+  <li><a href="#198-putins-philosopher-ivan-ilyin-and-the-ideology-of-moscows-rule-submitted-on-2022-04-09-0102560800" id="markdown-toc-198-putins-philosopher-ivan-ilyin-and-the-ideology-of-moscows-rule-submitted-on-2022-04-09-0102560800">198: Putin’s Philosopher: Ivan Ilyin and the Ideology of Moscow’s Rule, submitted on 2022-04-09 01:02:56+08:00.</a></li>
+</ul>
+
+<h3 id="183-the-fantasy-of-the-free-world-are-democracies-really-united-against-russia-submitted-on-2022-04-04-2251060800">183: <a href="https://old.reddit.com/r/geopolitics/comments/tw3wt7/the_fantasy_of_the_free_world_are_democracies/">The Fantasy of the Free World: Are Democracies Really United Against Russia?</a>, submitted on 2022-04-04 22:51:06+08:00.</h3>
+
+<p>—– <strong>183.1</strong> —–2022-04-04 22:52:23+08:00:</p>
+
+<p>[SS from the article by Shivshankar Menon, National Security Adviser to Indian Prime Minister Manmohan Singh from 2010 to 2014.]</p>
+
+<p>“Russia’s invasion of Ukraine has provoked outrage and unleashed a barrage of economic sanctions from many Western governments. Some, such as Germany, have boosted their military spending after years of riding on American coattails. In these actions, certain analysts have found a silver lining to the devastation of the war in Ukraine. Writing in <em>Foreign Affairs</em> in March, Michael Beckley and Hal Brands argued that the international reaction to the invasion would reverberate well beyond the current crisis. The concerted response to Russian President Vladimir Putin’s actions could “consolidate a global alliance that unites democracies against Russia and China and thereby secures the free world for a generation to come.” In this view, Russia’s war in Ukraine might be a pivotal episode in a global contest between autocracy and democracy. Chastened by Putin’s gross violation of norms, democracies will band together in a muscular reaffirmation of the liberal international order.<br />
+That is wishful thinking. The war is no doubt a seismic event that will have profound consequences for Russia, its immediate neighbors, and the rest of Europe. But it will neither reshape the global order nor presage an ideological showdown of democracies against China and Russia. After all, many of the world’s biggest democracies, including India, have so far not joined the U.S.-led economic campaign against Russia or even explicitly condemned the invasion. Far from consolidating “the free world,” the war has underscored its fundamental incoherence. In any case, the future of global order will be decided not by wars in Europe but by the contest in Asia, on which events in Ukraine have limited bearing.”</p>
+
+<p>Find Foreign Affairs on Telegram: <a href="https://t.me/Foreign_Affairs_Magazine">https://t.me/Foreign_Affairs_Magazine</a></p>
+
+<h3 id="184-the-end-of-the-middle-east-how-an-old-map-distorts-a-new-reality-submitted-on-2022-04-04-2257520800">184: <a href="https://old.reddit.com/r/lebanon/comments/tw42ed/the_end_of_the_middle_east_how_an_old_map/">The End of the Middle East: How an Old Map Distorts a New Reality</a>, submitted on 2022-04-04 22:57:52+08:00.</h3>
+
+<p>—– <strong>184.1</strong> —–2022-04-04 22:59:34+08:00:</p>
+
+<p>[SS from the article by Marc Lynch, Professor of Political Science and International Affairs at George Washington University.]</p>
+
+<p>“U.S. foreign policy remains wedded to a narrow mental map of the Middle East. Since the early years of the Cold War, the Washington establishment has viewed the Middle East as the Arab world—broadly conceived as the member states of the Arab League (with the exception of the geographic outliers Comoros, Mauritania, and Somalia)—plus Iran, Israel, and Turkey. These parameters feel natural to many. Based on geographic continuity, common-sense understandings of the region, and twentieth-century history, this is the Middle East of American university departments and think tanks, as well as of the U.S. State Department.<br />
+But such a map is increasingly outdated. Leading regional powers operate outside the traditional Middle East in much the same way as they operate inside it, and many of the rivalries most important to the region now play out beyond those assumed borders. The Pentagon has long known this: until the creation of U.S. Africa Command in 2007, the region covered by U.S. Central Command, the combatant command that handles the Middle East, included not only Egypt, Iran, Iraq, and the Gulf states but also Afghanistan, Djibouti, Eritrea, Ethiopia, Kenya, Pakistan, Somalia, and Sudan—a grouping that was directly at odds with the State Department’s Middle East.</p>
+
+<p>Such a dramatic misalignment of the U.S. policymaking and military establishments points to the dangers of clinging to the old model of the region. Not only is the concept out of step with current politics and military practice; it also hampers attempts to confront many of the biggest challenges of the day, from serial refugee crises to Islamist insurgencies to entrenched authoritarianism. Continuing to build scholarship and policy on a legacy definition of the Middle East threatens to blind U.S. strategy to the actual dynamics shaping the region—and, worse, makes Washington all too likely to continue making disastrous blunders there.”</p>
+
+<p>Find Foreign Affairs on Telegram: <a href="https://t.me/Foreign_Affairs_Magazine">https://t.me/Foreign_Affairs_Magazine</a></p>
+
+<h3 id="185-the-end-of-the-middle-east-how-an-old-map-distorts-a-new-reality-submitted-on-2022-04-04-2300480800">185: <a href="https://old.reddit.com/r/TrueReddit/comments/tw4544/the_end_of_the_middle_east_how_an_old_map/">The End of the Middle East: How an Old Map Distorts a New Reality</a>, submitted on 2022-04-04 23:00:48+08:00.</h3>
+
+<p>—– <strong>185.1</strong> —–2022-04-04 23:02:08+08:00:</p>
+
+<p>[SS from the article by Marc Lynch, Professor of Political Science and International Affairs at George Washington University.]</p>
+
+<p>“The changing dynamics of global power and regional practice are rapidly reorienting many leading Middle Eastern states, and the map they are following is no longer Washington’s; the map is their own. It is now up to Washington to learn to read it.”</p>
+
+<p>Washington’s conception of the Middle East’s geography is out of step with the region’s politics, warns Marc Lynch. Clinging to an old model hampers attempts to confront serial refugee crises, Islamist insurgencies, and entrenched authoritarianism.</p>
+
+<p>​</p>
+
+<p>Find Foreign Affairs on Telegram: <a href="https://t.me/Foreign_Affairs_Magazine">https://t.me/Foreign_Affairs_Magazine</a></p>
+
+<h3 id="186-the-fantasy-of-the-free-world-are-democracies-really-united-against-russia-submitted-on-2022-04-05-0439310800">186: <a href="https://old.reddit.com/r/IndiaSpeaks/comments/twcf54/the_fantasy_of_the_free_world_are_democracies/">The Fantasy of the Free World: Are Democracies Really United Against Russia?</a>, submitted on 2022-04-05 04:39:31+08:00.</h3>
+
+<p>—– <strong>186.1</strong> —–2022-04-05 04:40:54+08:00:</p>
+
+<p>[SS from the article by Shivshankar Menon, former diplomat who served as National Security Adviser to Indian Prime Minister Manmohan Singh from 2010 to 2014. He is currently Visiting Professor of International Relations at Ashoka University.]</p>
+
+<p>“No matter how long the war in Ukraine lasts, how the West isolates Russia, and how the war’s secondary market effects hit Asian economies, the balance of power in Asia is unlikely to be significantly affected. To be sure, the total collapse of the Russian state would have serious ramifications, but that outcome seems unlikely for now. In Asia, the war will not close the gap in military strength between, on the one hand, the United States and China and, on the other, the large number of middle and subregional powers in Asia. The latter will still have to negotiate between the sole superpower and China. Nor does it seem likely that a newly consolidated Western alliance, however invigorated, will find the energy to take an active or meaningful role in security dilemmas in Asia so long as it is preoccupied with containing Russia in Europe.<br />
+Instead of consolidation, the war in Ukraine seems likely to lead to greater fragmentation of the global order. It has reinforced the urge to build strategic autonomy in Europe as European countries begin to take a greater share in their own defense rather than rely to such an extent on the United States. It has also reinforced Asia’s sense of its own difference—its focus on stability, trade, and the bottom line that has served Asian countries so well in the last 40 years. The war will likely challenge economies that are already reeling from the pandemic and the retreat from globalization over the last decade. The combined economic and political effects of the war are likely to persuade Asian countries to embrace greater self-reliance, a trend already engendered by the pandemic.<br />
+But Russia’s invasion does not draw a line in the sand between the allies of the free world and its foes. A global Manichaean struggle is not in the offing. Those observers hoping for a conflict of that scope to arise from the rubble of Mariupol and Kharkiv will be disappointed.”</p>
+
+<p>Find Foreign Affairs on Telegram: <a href="https://t.me/Foreign_Affairs_Magazine">https://t.me/Foreign_Affairs_Magazine</a></p>
+
+<h3 id="187-putins-doomsday-threat-how-to-prevent-a-repeat-of-the-cuban-missile-crisis-in-ukraine-submitted-on-2022-04-05-2204520800">187: <a href="https://old.reddit.com/r/UkrainianConflict/comments/twvq03/putins_doomsday_threat_how_to_prevent_a_repeat_of/">Putin’s Doomsday Threat: How to Prevent a Repeat of the Cuban Missile Crisis in Ukraine</a>, submitted on 2022-04-05 22:04:52+08:00.</h3>
+
+<p>—– <strong>187.1</strong> —–2022-04-05 22:05:17+08:00:</p>
+
+<p>Find Foreign Affairs on Telegram: <a href="https://t.me/Foreign_Affairs_Magazine">https://t.me/Foreign_Affairs_Magazine</a></p>
+
+<h3 id="188-time-for-even-tougher-sanctions-on-russia-how-the-united-states-and-europe-can-target-energy-and-finance-submitted-on-2022-04-05-2206020800">188: <a href="https://old.reddit.com/r/ukraine/comments/twvqv3/time_for_even_tougher_sanctions_on_russia_how_the/">Time for Even Tougher Sanctions on Russia: How the United States and Europe Can Target Energy and Finance</a>, submitted on 2022-04-05 22:06:02+08:00.</h3>
+
+<p>—– <strong>188.1</strong> —–2022-04-05 22:06:13+08:00:</p>
+
+<p>Find Foreign Affairs on Telegram: <a href="https://t.me/Foreign_Affairs_Magazine">https://t.me/Foreign_Affairs_Magazine</a></p>
+
+<h3 id="189-time-for-even-tougher-sanctions-on-russia-how-the-united-states-and-europe-can-target-energy-and-finance-submitted-on-2022-04-05-2207170800">189: <a href="https://old.reddit.com/r/europe/comments/twvrsc/time_for_even_tougher_sanctions_on_russia_how_the/">Time for Even Tougher Sanctions on Russia: How the United States and Europe Can Target Energy and Finance</a>, submitted on 2022-04-05 22:07:17+08:00.</h3>
+
+<p>—– <strong>189.1</strong> —–2022-04-05 22:07:28+08:00:</p>
+
+<p>Find Foreign Affairs on Telegram: <a href="https://t.me/Foreign_Affairs_Magazine">https://t.me/Foreign_Affairs_Magazine</a></p>
+
+<h3 id="190-the-next-sino-russian-split-beijing-will-ultimately-come-to-regret-its-support-of-moscow-submitted-on-2022-04-05-2212030800">190: <a href="https://old.reddit.com/r/RussiaUkraineWar2022/comments/twvvlx/the_next_sinorussian_split_beijing_will/">The Next Sino-Russian Split?: Beijing Will Ultimately Come to Regret Its Support of Moscow</a>, submitted on 2022-04-05 22:12:03+08:00.</h3>
+
+<p>—– <strong>190.1</strong> —–2022-04-05 22:12:12+08:00:</p>
+
+<p>Find Foreign Affairs on Telegram: <a href="https://t.me/Foreign_Affairs_Magazine">https://t.me/Foreign_Affairs_Magazine</a></p>
+
+<h3 id="191-the-next-sino-russian-split-beijing-will-ultimately-come-to-regret-its-support-of-moscow-submitted-on-2022-04-06-0505540800">191: <a href="https://old.reddit.com/r/ukraine/comments/tx55ap/the_next_sinorussian_split_beijing_will/">The Next Sino-Russian Split?: Beijing Will Ultimately Come to Regret Its Support of Moscow</a>, submitted on 2022-04-06 05:05:54+08:00.</h3>
+
+<p>—– <strong>191.1</strong> —–2022-04-06 05:06:16+08:00:</p>
+
+<p>Find Foreign Affairs on Telegram: <a href="https://t.me/Foreign_Affairs_Magazine">https://t.me/Foreign_Affairs_Magazine</a></p>
+
+<h3 id="192-the-price-of-hegemony-can-america-learn-to-use-its-power-submitted-on-2022-04-06-2154330800">192: <a href="https://old.reddit.com/r/geopolitics/comments/txmq2k/the_price_of_hegemony_can_america_learn_to_use/">The Price of Hegemony: Can America Learn to Use Its Power?</a>, submitted on 2022-04-06 21:54:33+08:00.</h3>
+
+<p>—– <strong>192.1</strong> —–2022-04-06 21:55:32+08:00:</p>
+
+<p>[SS from the article by Robert Kagan, Senior Fellow at the Brookings Institution]</p>
+
+<p>“Throughout their history, Americans have tended to be unconscious of the daily impact that U.S. power has on the rest of the world, friends and foes alike. They are generally surprised to find themselves the target of resentment and of the kinds of challenges posed by Putin’s Russia and by President Xi Jinping’s China. Americans could reduce the severity of these challenges by wielding U.S. influence more consistently and effectively. They failed to do this in the 1920s and 1930s, allowing aggression by Germany, Italy, and Japan to go unchecked until it resulted in a massively destructive world war. They failed to do so in recent years, allowing Putin to seize more and more land until he invaded all of Ukraine. After Putin’s latest move, Americans may learn the right lesson. But they will still struggle to understand how Washington should act in the world if they don’t examine what happened with Russia, and that requires continuing the debate over the impact of U.S. power.”</p>
+
+<h3 id="193-putins-war-on-history-the-thousand-year-struggle-over-ukraine-submitted-on-2022-04-07-2146250800">193: <a href="https://old.reddit.com/r/ukraine/comments/tydggr/putins_war_on_history_the_thousandyear_struggle/">Putin’s War on History: The Thousand-Year Struggle Over Ukraine</a>, submitted on 2022-04-07 21:46:25+08:00.</h3>
+
+<p>—– <strong>193.1</strong> —–2022-04-07 23:13:25+08:00:</p>
+
+<p>Find Foreign Affairs on Telegram: <a href="https://t.me/Foreign_Affairs_Magazine">https://t.me/Foreign_Affairs_Magazine</a></p>
+
+<h3 id="194-putins-war-on-history-the-thousand-year-struggle-over-ukraine-submitted-on-2022-04-07-2146550800">194: <a href="https://old.reddit.com/r/TrueReddit/comments/tydgtl/putins_war_on_history_the_thousandyear_struggle/">Putin’s War on History: The Thousand-Year Struggle Over Ukraine</a>, submitted on 2022-04-07 21:46:55+08:00.</h3>
+
+<p>—– <strong>194.1</strong> —–2022-04-07 21:48:05+08:00:</p>
+
+<p>[SS from the article by Anna Reid, former Kyiv Correspondent for <em>The Economist</em>]</p>
+
+<p>“As during the 2004 Orange Revolution and the 2013–14 Maidan protests, which came to be known as the Revolution of Dignity, Ukraine’s fierce self-defense today is a defense of values, not of ethnic identity or of some imagined glorious past. Putin’s obsession with history, in contrast, is a weakness. Although earlier in his presidency, banging the “gathering of the Russian world” drum boosted his approval ratings, it has now led him down what may turn out to be a fatal dead end. In terms of square mileage alone, Ukraine is the second-largest country in Europe, after Russia itself. If you placed it over the eastern United States, as <em>The Washington Post</em> recently observed, it would stretch “from Missouri to the Atlantic Ocean, and from Ohio to Georgia.” Occupying it permanently would be enormously costly in troops and treasure. Moreover, Putin’s war has unified Ukrainians as never before. And whether they are speaking Russian or Ukrainian, their sentiment is the same. Already, video clips have gone viral of babushkas telling Russian soldiers that they will leave their bones in Ukrainian soil and of Ukrainian soldiers swearing joyously as they fire bazookas at Russian tanks, all in the purest Russian. The war is likely to go on for a long time, and its final outcome is unknown. History, Putin may be learning, is only a guide when it’s the real sort.”</p>
+
+<h3 id="195-why-putin-underestimated-the-west-and-how-to-sustain-its-newfound-unity-submitted-on-2022-04-07-2148300800">195: <a href="https://old.reddit.com/r/europe/comments/tydi0d/why_putin_underestimated_the_west_and_how_to/">Why Putin Underestimated the West: And How to Sustain Its Newfound Unity</a>, submitted on 2022-04-07 21:48:30+08:00.</h3>
+
+<p>—– <strong>195.1</strong> —–2022-04-08 00:03:49+08:00:</p>
+
+<p>Find Foreign Affairs on Telegram: <a href="https://t.me/Foreign_Affairs_Magazine">https://t.me/Foreign_Affairs_Magazine</a></p>
+
+<h3 id="196-stephen-kotkin-the-cold-war-never-ended-submitted-on-2022-04-08-2222510800">196: <a href="https://old.reddit.com/r/geopolitics/comments/tz4obi/stephen_kotkin_the_cold_war_never_ended/">Stephen Kotkin: The Cold War Never Ended</a>, submitted on 2022-04-08 22:22:51+08:00.</h3>
+
+<p>—– <strong>196.1</strong> —–2022-04-08 22:26:14+08:00:</p>
+
+<p>[SS from the article by Stephen Kotkin, Professor in History and International Affairs at Princeton University and a Senior Fellow at the Hoover Institution at Stanford University]</p>
+
+<p>“Many Russians view their country as a providential power, with a distinct civilization and a special mission in the world, but Russia’s capabilities do not match its aspirations, and so its rulers resort, time and again, to a hyperconcentration of power in the state in a coercive effort to close the yawning gap with the West. But the drive for a strong state does not work, invariably devolving into personalist rule. The combination of weakness and grandeur, in turn, drives the autocrat to exacerbate the very problem that facilitated his appearance. After 1991, when the gap with the West widened radically, Russia’s perpetual geopolitics endured, as I argued in these pages in 2016. It will persist until Russian rulers make the strategic choice to abandon the impossible quest to become a great-power equal of the West and choose instead to live alongside it and focus on Russia’s internal development.<br />
+All of this explains why the original Cold War’s end was a mirage. The events of 1989–91 were consequential, just not as consequential as most observers—myself included—took them to be. During those years, Germany reunified within the transatlantic alliance, and Russian power suffered a sharp temporary reduction—outcomes that, with Moscow’s subsequent withdrawal of troops, freed up small eastern European countries to adopt democratic constitutional orders and market economies and join the West in the EU and NATO. Those events transformed the lives of the people in the countries between Germany and Russia and in those two historical frenemies themselves, but they changed the world far less. A reunified Germany largely remained a nonfactor geopolitically, at least until the weeks after the invasion of Ukraine, when Berlin adopted a far more assertive posture, at least for the moment. Parts of eastern Europe, such as Hungary and Poland, which happened to be among the biggest losers in the world wars and their peace settlements, started to show illiberal streaks and in this way confirmed limitations in the EU’s framework. Although the radical diminution in the size of the Russian state has mostly held (so far), the collapse of Russian power was hardly permanent, just as it was not after the Treaty of Versailles of 1919. The West’s relatively brief respite from great-power competition with Russia constituted a historical blink of an eye.”</p>
+
+<p>Find Foreign Affairs on Telegram: <a href="https://t.me/Foreign_Affairs_Magazine">https://t.me/Foreign_Affairs_Magazine</a></p>
+
+<h3 id="197-will-fighting-inflation-in-america-cause-a-debt-crisis-abroad-how-the-fed-shapes-the-global-economy-submitted-on-2022-04-08-2229050800">197: <a href="https://old.reddit.com/r/TrueReddit/comments/tz4t3f/will_fighting_inflation_in_america_cause_a_debt/">Will Fighting Inflation in America Cause a Debt Crisis Abroad?: How the Fed Shapes the Global Economy</a>, submitted on 2022-04-08 22:29:05+08:00.</h3>
+
+<p>—– <strong>197.1</strong> —–2022-04-08 22:30:10+08:00:</p>
+
+<p>[SS from the article by Gian Maria Milesi-Ferretti, Senior Fellow at the Hutchins Center on Fiscal and Monetary Policy at the Brookings Institution.]</p>
+
+<p>“Rising interest rates will not just affect the United States. Higher U.S. rates raise the cost of borrowing in U.S. dollars on international markets. They also increase demand for U.S. dollar assets relative to assets in other currencies, and they can therefore cause those currencies to fall in value. For countries where external debt is denominated in U.S. dollars, debt repayment will become more expensive.</p>
+
+<p>These consequences are likely to be most severe in some low- and middle-income countries. Relative to wealthier states, these countries generally have worse credit, and it costs them more to borrow. They are also more likely to borrow in U.S. dollars. It will be especially bad for developing and emerging markets that are still grappling with the pandemic’s economic fallout, as well as those that are net importers of food and energy, the prices of which have risen dramatically as a consequence of the war in Ukraine. These countries will likely see more debt distress and large currency devaluations, hampering their economic growth and making it more difficult for them to reduce poverty.”</p>
+
+<h3 id="198-putins-philosopher-ivan-ilyin-and-the-ideology-of-moscows-rule-submitted-on-2022-04-09-0102560800">198: <a href="https://old.reddit.com/r/UkrainianConflict/comments/tz866c/putins_philosopher_ivan_ilyin_and_the_ideology_of/">Putin’s Philosopher: Ivan Ilyin and the Ideology of Moscow’s Rule</a>, submitted on 2022-04-09 01:02:56+08:00.</h3>
+
+<p>—– <strong>198.1</strong> —–2022-04-09 01:04:08+08:00:</p>
+
+<p>In this 2015 essay, Anton Barbashin and Hannah Thoburn discuss how the work of the Russian nationalist, fascist-leaning philosopher Ivan Ilyin animates the ideology and propaganda of Putin’s regime. Revisit the article with this Guest pass: <a href="https://www.foreignaffairs.com/guest-pass/redeem/VHI2pgJa0ME">https://www.foreignaffairs.com/guest-pass/redeem/VHI2pgJa0ME</a></p>
+
+<p>​</p>
+
+<p>Find Foreign Affairs on Telegram: <a href="https://t.me/Foreign_Affairs_Magazine">https://t.me/Foreign_Affairs_Magazine</a></p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-04-10</time>
+        <a href="https://nodebe4.github.io/opinion/2022-04-10/Spinkcat/">
+          Spinkcat在2022-04-04~2022-04-10的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-04-10</time>
+        <a href="https://nodebe4.github.io/opinion/2022-04-10/EnclavedMicrostate/">
+          EnclavedMicrostate在2022-04-04~2022-04-10的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-04-03</time>
+        <a href="https://nodebe4.github.io/opinion/2022-04-03/theoryofdoom/">
+          theoryofdoom在2022-03-28~2022-04-03的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-04-03</time>
+        <a href="https://nodebe4.github.io/opinion/2022-04-03/Spinkcat/">
+          Spinkcat在2022-03-28~2022-04-03的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-04-08/%E5%8D%96%E4%BA%86%E4%BD%A0-%E7%BB%99%E4%BD%A0%E5%93%A5%E5%A8%B6%E4%B8%AA%E5%AA%B3%E5%A6%87-%E7%BA%A2%E6%9C%88%E4%BA%AE/">
+            前一篇：卖了你，给你哥娶个媳妇 --《红月亮》
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-04-09/SpeechFreedomCN/">
+            後一篇：Twitter @中国文字狱事件盘点: 2022-04-04~2022-04-10
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-04-08/%E5%8D%96%E4%BA%86%E4%BD%A0-%E7%BB%99%E4%BD%A0%E5%93%A5%E5%A8%B6%E4%B8%AA%E5%AA%B3%E5%A6%87-%E7%BA%A2%E6%9C%88%E4%BA%AE/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-04-09/SpeechFreedomCN/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-04-10/EnclavedMicrostate/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-04-03/theoryofdoom/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-04-08/%E5%8D%96%E4%BA%86%E4%BD%A0-%E7%BB%99%E4%BD%A0%E5%93%A5%E5%A8%B6%E4%B8%AA%E5%AA%B3%E5%A6%87-%E7%BA%A2%E6%9C%88%E4%BA%AE/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-04-09/SpeechFreedomCN/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-04-10/EnclavedMicrostate/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-04-03/theoryofdoom/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

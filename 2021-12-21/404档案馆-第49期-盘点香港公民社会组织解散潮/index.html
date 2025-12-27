@@ -1,0 +1,890 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>【404档案馆】第49期：盘点香港公民社会组织解散潮 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+【404档案馆】第49期：盘点香港公民社会组织解散潮
+——
+" />
+    <meta property="og:description" content="
+【404档案馆】第49期：盘点香港公民社会组织解散潮
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="【404档案馆】第49期：盘点香港公民社会组织解散潮" />
+    <meta property="twitter:title" content="【404档案馆】第49期：盘点香港公民社会组织解散潮" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fmatters.news%2F%40ChinaDT%2F404%25E6%25A1%25A3%25E6%25A1%2588%25E9%25A6%2586-%25E7%25AC%25AC49%25E6%259C%259F-%25E7%259B%2598%25E7%2582%25B9%25E9%25A6%2599%25E6%25B8%25AF%25E5%2585%25AC%25E6%25B0%2591%25E7%25A4%25BE%25E4%25BC%259A%25E7%25BB%2584%25E7%25BB%2587%25E8%25A7%25A3%25E6%2595%25A3%25E6%25BD%25AE-bafyreifcy2wllftt4nmfrizocrhjyyd7534gdntee5ndnlwr7tkzpe3ugy" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC49%E6%9C%9F-%E7%9B%98%E7%82%B9%E9%A6%99%E6%B8%AF%E5%85%AC%E6%B0%91%E7%A4%BE%E4%BC%9A%E7%BB%84%E7%BB%87%E8%A7%A3%E6%95%A3%E6%BD%AE-bafyreifcy2wllftt4nmfrizocrhjyyd7534gdntee5ndnlwr7tkzpe3ugy" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC49%E6%9C%9F-%E7%9B%98%E7%82%B9%E9%A6%99%E6%B8%AF%E5%85%AC%E6%B0%91%E7%A4%BE%E4%BC%9A%E7%BB%84%E7%BB%87%E8%A7%A3%E6%95%A3%E6%BD%AE-bafyreifcy2wllftt4nmfrizocrhjyyd7534gdntee5ndnlwr7tkzpe3ugy&text=【404档案馆】第49期：盘点香港公民社会组织解散潮&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC49%E6%9C%9F-%E7%9B%98%E7%82%B9%E9%A6%99%E6%B8%AF%E5%85%AC%E6%B0%91%E7%A4%BE%E4%BC%9A%E7%BB%84%E7%BB%87%E8%A7%A3%E6%95%A3%E6%BD%AE-bafyreifcy2wllftt4nmfrizocrhjyyd7534gdntee5ndnlwr7tkzpe3ugy&title=【404档案馆】第49期：盘点香港公民社会组织解散潮" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC49%E6%9C%9F-%E7%9B%98%E7%82%B9%E9%A6%99%E6%B8%AF%E5%85%AC%E6%B0%91%E7%A4%BE%E4%BC%9A%E7%BB%84%E7%BB%87%E8%A7%A3%E6%95%A3%E6%BD%AE-bafyreifcy2wllftt4nmfrizocrhjyyd7534gdntee5ndnlwr7tkzpe3ugy&title=【404档案馆】第49期：盘点香港公民社会组织解散潮" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=【404档案馆】第49期：盘点香港公民社会组织解散潮&body=
+【404档案馆】第49期：盘点香港公民社会组织解散潮
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC49%E6%9C%9F-%E7%9B%98%E7%82%B9%E9%A6%99%E6%B8%AF%E5%85%AC%E6%B0%91%E7%A4%BE%E4%BC%9A%E7%BB%84%E7%BB%87%E8%A7%A3%E6%95%A3%E6%BD%AE-bafyreifcy2wllftt4nmfrizocrhjyyd7534gdntee5ndnlwr7tkzpe3ugy" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC49%E6%9C%9F-%E7%9B%98%E7%82%B9%E9%A6%99%E6%B8%AF%E5%85%AC%E6%B0%91%E7%A4%BE%E4%BC%9A%E7%BB%84%E7%BB%87%E8%A7%A3%E6%95%A3%E6%BD%AE-bafyreifcy2wllftt4nmfrizocrhjyyd7534gdntee5ndnlwr7tkzpe3ugy&title=【404档案馆】第49期：盘点香港公民社会组织解散潮&caption=
+【404档案馆】第49期：盘点香港公民社会组织解散潮
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=【404档案馆】第49期：盘点香港公民社会组织解散潮&url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC49%E6%9C%9F-%E7%9B%98%E7%82%B9%E9%A6%99%E6%B8%AF%E5%85%AC%E6%B0%91%E7%A4%BE%E4%BC%9A%E7%BB%84%E7%BB%87%E8%A7%A3%E6%95%A3%E6%BD%AE-bafyreifcy2wllftt4nmfrizocrhjyyd7534gdntee5ndnlwr7tkzpe3ugy" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>【404档案馆】第49期：盘点香港公民社会组织解散潮</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2021-12-21
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#中国数字时代">
+          中国数字时代
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC49%E6%9C%9F-%E7%9B%98%E7%82%B9%E9%A6%99%E6%B8%AF%E5%85%AC%E6%B0%91%E7%A4%BE%E4%BC%9A%E7%BB%84%E7%BB%87%E8%A7%A3%E6%95%A3%E6%BD%AE-bafyreifcy2wllftt4nmfrizocrhjyyd7534gdntee5ndnlwr7tkzpe3ugy" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="中国数字时代的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#中国数字时代 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1640149685000-->
+<p><a href="https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC49%E6%9C%9F-%E7%9B%98%E7%82%B9%E9%A6%99%E6%B8%AF%E5%85%AC%E6%B0%91%E7%A4%BE%E4%BC%9A%E7%BB%84%E7%BB%87%E8%A7%A3%E6%95%A3%E6%BD%AE-bafyreifcy2wllftt4nmfrizocrhjyyd7534gdntee5ndnlwr7tkzpe3ugy">【404档案馆】第49期：盘点香港公民社会组织解散潮</a>
+——</p>
+
+<div>
+  <h1 id="section"><br /></h1>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/31ddab51-a316-41d8-9df0-3f024f523921.jpeg" data-asset-id="31ddab51-a316-41d8-9df0-3f024f523921" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p><br /></p>
+  <p><a href="https://chinadigitaltimes.net/space/404%E6%A1%A3%E6%A1%88%E9%A6%86" rel="noopener noreferrer" target="_blank">《404档案馆》</a>讲述中国审查与反审查的故事，同时以文字、音频和视频的形式发布。播客节目可在 Apple Podcasts, Google Podcasts, Spotify 或泛用型播客客户端搜索“<a href="https://cdt.firstory.io/" rel="noopener noreferrer" target="_blank">404档案馆</a>”进行收听，视频节目可在 Youtube “<a href="https://www.youtube.com/channel/UCwXewCWwaK1-yec8niJLrqg" rel="noopener noreferrer" target="_blank">中国数字时代· 404档案馆</a>”频道收看。</p>
+  <p><br /></p>
+  <p><strong>撰文：王守义</strong></p>
+  <p>欢迎来到404档案馆。在这里，我们一起穿越中国数字高墙。</p>
+  <p>在之前的404档案馆节目中，我们关注了<a href="https://chinadigitaltimes.net/chinese/674594.html" rel="noopener noreferrer" target="_blank">香港支联会的解散</a>。处在风声鹤唳的政治压力下，香港的公民社会组织不得不自我了断。支联会不是第一个，也不是最近一个。今天我们继续关注香港，看看本来多元的公民社会和公共空间，是如何正在以肉眼可见的速度溃败的，而这背后又是谁在主导。</p>
+  <h2 id="section-1"><strong>突然涉嫌违法的“民阵”</strong></h2>
+  <p>民阵解散、教协解散、职工盟解散、学生会解散……自从2020年香港《国安法》颁布以来，已经有超过50个民间组织宣布解散了，其中不乏一些规模最大、历史最久、影响力最强的团体。</p>
+  <p>“民间人权阵线”，简称民阵，是一个民间组织平台。2002年成立以来，每年都就不同的政治议题，发起和组织大型的<a href="https://www.youtube.com/watch?v=bP18e3_zqsE" rel="noopener noreferrer" target="_blank">集会和游行活动</a>。</p>
+  <p>今年8月，<a href="https://www.youtube.com/watch?v=wCmzTppOokY" rel="noopener noreferrer" target="_blank">香港警务处说</a>，民阵自成立以来，一直没有注册成公司或者社团，近年组织的游行集会可能涉嫌违反国安法，要对其进行调查。</p>
+  <p>民阵说，每年的活动，都会和警方开会沟通。合作了快20年，怎么突然违法了？</p>
+  <p>2021年8月15日，民阵宣布<a href="https://chinadigitaltimes.net/chinese/669711.html" rel="noopener noreferrer" target="_blank">解散</a>。</p>
+  <h2 id="section-2"><strong>最大工会“教协”成“毒瘤”</strong></h2>
+  <p>“香港教育专业人员协会” 简称 “教协” ，是香港最大的单一行业工会。它于1973年成立，有近50年历史，9万多名会员，一直在教育界甚具影响力。</p>
+  <p>教协于8月10日宣布，<a href="https://chinadigitaltimes.net/chinese/669512.html" rel="noopener noreferrer" target="_blank">因无法化解危机，只好解散</a>。</p>
+  <p>香港特区行政长官林郑月娥<a href="https://www.youtube.com/watch?v=pI2XYLOzKCo" rel="noopener noreferrer" target="_blank">表示</a>，教协立场已明显偏离本职，令政治问题甚至是反政府、反中央的情绪进入学校，“骑劫”教育界。</p>
+  <p>而就在三年前，林郑月娥出席教协45周年纪念时发表讲话，还说要<a href="https://www.youtube.com/watch?v=3HzNhFansWg" rel="noopener noreferrer" target="_blank">与教协携手，为我们的下一代搭建他们精彩人生的平台</a>。</p>
+  <h2 id="section-3"><strong>学生会无法运作</strong></h2>
+  <p>香港各个大学的学生会，长期以来一直是香港公民社会的支柱。</p>
+  <p>从2020年开始，各个大学的校方和学生会<a href="https://chinadigitaltimes.net/chinese/665548.html" rel="noopener noreferrer" target="_blank">划清界限</a>，包括不会为其收取学生会费，不代管财务，收回办公室等设施。</p>
+  <p>香港中文大学学生会10月份<a href="https://theinitium.com/roundtable/20211110-roundtable-hongkong-Disbandment-of-CUHK-student-union-unconstitutional/" rel="noopener noreferrer" target="_blank">宣布解散</a>，受教资会资助的剩下的7所大学中，除了一所外，其他学生会全部<a href="https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/686030/%E5%85%AB%E5%A4%A7%E9%99%A2%E6%A0%A1%E5%83%85%E7%90%86%E5%A4%A7%E6%9C%89%E5%AD%B8%E7%94%9F%E6%9C%83-%E6%B8%AF%E5%A4%A7%E5%AD%B8%E7%94%9F%E6%9C%83%E5%9C%B0%E4%BD%8D%E4%B8%8D%E7%8D%B2%E6%89%BF%E8%AA%8D-%E5%85%B6%E9%A4%98-%E6%96%B7%E8%8E%8A" rel="noopener noreferrer" target="_blank">停止运作</a>。</p>
+  <h2 id="section-4"><strong>50多个组织解散</strong></h2>
+  <p>2020年6月，北京颁布<a href="https://www.gld.gov.hk/egazette/pdf/20202444e/cs220202444136.pdf" rel="noopener noreferrer" target="_blank">《中华人民共和国香港特别行政区维护国安法》</a>。《国安法》第九条规定，政府要向“社会团体”采取必要措施，就维护国家安全加强宣传、指导、监督和管理。</p>
+  <p>国安法实施后，因为担心遭到镇压，许多工会、协会和政治组织开始解散。</p>
+  <p>维护中国维权律师和法律工作者合法权利的非营利机构<a href="https://chinadigitaltimes.net/chinese/671114.htm" rel="noopener noreferrer" target="_blank">“中国维权律师关注组”</a>，于2021年9月宣布解散。</p>
+  <p>同月解散的还有为关押在监狱的人士提供支持的“石墙花”，关注政治议题的“贤学思政”等。</p>
+  <p>2021年10月，香港最大的民间组织之一，曾拥有93个基层组织的“香港职工会联盟”，宣布<a href="https://www.dw.com/zh/%E9%A6%99%E6%B8%AF%E7%8B%AC%E7%AB%8B%E5%B7%A5%E4%BC%9A%E8%81%8C%E5%B7%A5%E7%9B%9F%E5%AE%A3%E5%B8%83%E8%A7%A3%E6%95%A3/a-59237799" rel="noopener noreferrer" target="_blank">解散</a>。</p>
+  <p>自2021年以来，已经有<a href="https://chinadigitaltimes.net/chinese/672095.html" rel="noopener noreferrer" target="_blank">至少50个公民组织宣布解散</a>。</p>
+  <h2 id="section-5"><strong>解散阴影后的北京之手</strong></h2>
+  <p>这些组织解散前后，都有来自北京的评论。</p>
+  <p>因为“民阵”早就是北京的眼中钉，解散后，新华社发布评论，称<a href="http://www.xinhuanet.com/2021-08/15/c_1127762939.htm" rel="noopener noreferrer" target="_blank">大快人心，罪不可赦</a>。</p>
+  <p>早在2019年，<a href="http://www.xinhuanet.com/gangao/2019-10/08/c_1125080334.htm" rel="noopener noreferrer" target="_blank">新华社</a> 就发文点名教协，说其纵容煽动香港游行中的暴力行为。</p>
+  <p>《人民日报》和新华社还在今年7月底<a href="http://hm.people.com.cn/n1/2021/0731/c42272-32176846.html" rel="noopener noreferrer" target="_blank">发文</a>称教协是“毒瘤”，必须铲除。文章发表数小时后，香港教育局宣布停止与教协合作关系。</p>
+  <p>“教协”解散后，《人民日报》发表<a href="http://www.locpg.gov.cn/jsdt/2021-08/12/c_1211328559.htm" rel="noopener noreferrer" target="_blank">评论</a>，教协咎由自取，“解散不等于一笔勾销”。</p>
+  <p>对于学生会，《人民日报》在2020年就<a href="https://wap.peopleapp.com/article/5878192/5797499" rel="noopener noreferrer" target="_blank">批评</a>说，香港大学和香港中文大学的学生会操弄政治，与国安法抵触。</p>
+  <p>香港律师协会于2021年8月举行内部选举，民主派本来领先。选举前，<a href="http://hm.people.com.cn/n1/2021/0815/c42272-32193420.html" rel="noopener noreferrer" target="_blank">人民日报警告</a>香港律师会不要搞政治，结果亲北京的建制派全部当选。</p>
+  <p>成立于1968年的香港记者协会，也连续遭到香港警方和亲中媒体的<a href="https://www.voachinese.com/a/HK-police-chief-targeting-journalist-association-20210918/6233985.html" rel="noopener noreferrer" target="_blank">围攻</a>，前途未卜。</p>
+  <p>尽管官方称许多解散的组织“反中乱港”，警方表示要追究到底，但是香港人对这些组织有不同的看法。</p>
+  <p>教协宣布解散后，会员说<a href="https://www.youtube.com/watch?v=Y_W9EkN1wJs" rel="noopener noreferrer" target="_blank">很愤怒，不舍得，没有其他任何一个工会可以代表香港教师</a>。</p>
+  <p>也有职工盟的会员说，<a href="https://www.youtube.com/watch?v=r-iytVzVKXA" rel="noopener noreferrer" target="_blank">即便许多团体要被消失，仍然有人在，可以慢慢来</a>.</p>
+  <p><br /></p>
+  <p>中国数字时代 CDT 致力于记录和传播中文互联网上被审查的信息，以及人们与审查对抗的努力。我们邀请您参加敏感词开源研究项目和404文章存档项目，为记录和对抗中国网络审查作出你的贡献！详情请访问我们的网站 CDT.MEDIA.</p>
+  <p><br /></p>
+  <p><br /></p>
+  <p><br /></p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#中国数字时代 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-02-12/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC276%E6%9C%9F-%E5%94%B1%E7%A6%81%E6%AD%8C-%E5%88%B0-%E7%A6%81%E6%AD%A2%E5%90%90%E6%A7%BD-%E8%A7%81%E8%AF%81%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E5%8F%98%E8%BF%81%E7%9A%84%E6%98%A5%E6%99%9A/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2021-12-14/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E4%B8%93%E8%AE%BF-%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3%E5%AF%B9%E8%AF%9D-%E8%A7%A3%E6%9E%84%E6%96%B0%E7%96%86%E9%95%87%E5%8E%8B-%E7%AC%AC%E4%B8%80%E4%BD%9C%E8%80%85%E8%AE%B8%E7%A7%80%E4%B8%AD/">最早</a>--</span>
+    
+      <li>
+        <time>2021-12-21</time>
+        <a href="https://nodebe4.github.io/opinion/2021-12-21/CDT%E6%95%8F%E6%84%9F%E8%AF%8D%E5%91%A8%E6%8A%A5-%E7%AC%AC41%E6%9C%9F-%E6%8A%B5%E5%88%B6%E5%86%AC%E5%A5%A5-%E6%B0%91%E4%B8%BB%E5%B3%B0%E4%BC%9A-%E4%B8%AD%E5%9B%BD%E7%9A%84M%E4%B8%BB/">
+          【CDT敏感词周报】第41期：抵制冬奥、民主峰会、中国的M主
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-12-21</time>
+        <a href="https://nodebe4.github.io/opinion/2021-12-21/2021%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E9%82%A3%E4%BA%9B%E5%92%8C%E6%88%91%E4%BB%AC%E5%91%8A%E5%88%AB%E7%9A%84%E8%B4%A6%E5%8F%B7%E4%BB%AC/">
+          【2021年终专题】那些和我们告别的账号们
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-12-21</time>
+        <a href="https://nodebe4.github.io/opinion/2021-12-21/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC48%E6%9C%9F-%E4%BB%BB%E4%BD%95%E6%94%BF%E6%9D%83%E9%83%BD%E4%B8%8D%E8%83%BD%E5%A4%BA%E5%8E%BB%E4%BA%BA%E6%B0%91%E7%9A%84%E8%AE%B0%E5%BF%86%E5%92%8C%E8%89%AF%E7%9F%A5/">
+          【404档案馆】第48期：“任何政权都不能夺去人民的记忆和良知”
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-12-21</time>
+        <a href="https://nodebe4.github.io/opinion/2021-12-21/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC47%E6%9C%9F-%E9%9D%A2%E5%AF%B9%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83%E9%97%AE%E9%A2%98-%E4%BD%93%E8%82%B2%E7%BB%84%E7%BB%87%E7%9A%84-%E7%AB%99-%E4%B8%8E-%E8%B7%AA/">
+          【404档案馆】第47期：面对中国人权问题，体育组织的“站”与“跪”
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2021-12-21/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC48%E6%9C%9F-%E4%BB%BB%E4%BD%95%E6%94%BF%E6%9D%83%E9%83%BD%E4%B8%8D%E8%83%BD%E5%A4%BA%E5%8E%BB%E4%BA%BA%E6%B0%91%E7%9A%84%E8%AE%B0%E5%BF%86%E5%92%8C%E8%89%AF%E7%9F%A5/">
+            前一篇：【404档案馆】第48期：“任何政权都不能夺去人民的记忆和良知”
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2021-12-21/2021%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E9%82%A3%E4%BA%9B%E5%92%8C%E6%88%91%E4%BB%AC%E5%91%8A%E5%88%AB%E7%9A%84%E8%B4%A6%E5%8F%B7%E4%BB%AC/">
+            後一篇：【2021年终专题】那些和我们告别的账号们
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2021-12-21/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC48%E6%9C%9F-%E4%BB%BB%E4%BD%95%E6%94%BF%E6%9D%83%E9%83%BD%E4%B8%8D%E8%83%BD%E5%A4%BA%E5%8E%BB%E4%BA%BA%E6%B0%91%E7%9A%84%E8%AE%B0%E5%BF%86%E5%92%8C%E8%89%AF%E7%9F%A5/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2021-12-21/2021%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E9%82%A3%E4%BA%9B%E5%92%8C%E6%88%91%E4%BB%AC%E5%91%8A%E5%88%AB%E7%9A%84%E8%B4%A6%E5%8F%B7%E4%BB%AC/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2021-12-21/2021%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E9%82%A3%E4%BA%9B%E5%92%8C%E6%88%91%E4%BB%AC%E5%91%8A%E5%88%AB%E7%9A%84%E8%B4%A6%E5%8F%B7%E4%BB%AC/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2021-12-21/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC48%E6%9C%9F-%E4%BB%BB%E4%BD%95%E6%94%BF%E6%9D%83%E9%83%BD%E4%B8%8D%E8%83%BD%E5%A4%BA%E5%8E%BB%E4%BA%BA%E6%B0%91%E7%9A%84%E8%AE%B0%E5%BF%86%E5%92%8C%E8%89%AF%E7%9F%A5/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2021-12-21/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC48%E6%9C%9F-%E4%BB%BB%E4%BD%95%E6%94%BF%E6%9D%83%E9%83%BD%E4%B8%8D%E8%83%BD%E5%A4%BA%E5%8E%BB%E4%BA%BA%E6%B0%91%E7%9A%84%E8%AE%B0%E5%BF%86%E5%92%8C%E8%89%AF%E7%9F%A5/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2021-12-21/2021%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E9%82%A3%E4%BA%9B%E5%92%8C%E6%88%91%E4%BB%AC%E5%91%8A%E5%88%AB%E7%9A%84%E8%B4%A6%E5%8F%B7%E4%BB%AC/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<中国数字时代>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2021-12-21/2021%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E9%82%A3%E4%BA%9B%E5%92%8C%E6%88%91%E4%BB%AC%E5%91%8A%E5%88%AB%E7%9A%84%E8%B4%A6%E5%8F%B7%E4%BB%AC/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<中国数字时代>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2021-12-21/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC48%E6%9C%9F-%E4%BB%BB%E4%BD%95%E6%94%BF%E6%9D%83%E9%83%BD%E4%B8%8D%E8%83%BD%E5%A4%BA%E5%8E%BB%E4%BA%BA%E6%B0%91%E7%9A%84%E8%AE%B0%E5%BF%86%E5%92%8C%E8%89%AF%E7%9F%A5/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

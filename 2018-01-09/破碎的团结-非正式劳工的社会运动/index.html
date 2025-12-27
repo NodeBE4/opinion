@@ -1,0 +1,600 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>破碎的团结: 非正式劳工的社会运动 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+破碎的团结: 非正式劳工的社会运动
+——
+" />
+    <meta property="og:description" content="
+破碎的团结: 非正式劳工的社会运动
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="破碎的团结: 非正式劳工的社会运动" />
+    <meta property="twitter:title" content="破碎的团结: 非正式劳工的社会运动" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fgravitysworm.com%2Fpost%2F169496112147" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://gravitysworm.com/post/169496112147" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://gravitysworm.com/post/169496112147&text=破碎的团结: 非正式劳工的社会运动&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://gravitysworm.com/post/169496112147&title=破碎的团结: 非正式劳工的社会运动" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://gravitysworm.com/post/169496112147&title=破碎的团结: 非正式劳工的社会运动" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=破碎的团结: 非正式劳工的社会运动&body=
+破碎的团结: 非正式劳工的社会运动
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://gravitysworm.com/post/169496112147" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://gravitysworm.com/post/169496112147&title=破碎的团结: 非正式劳工的社会运动&caption=
+破碎的团结: 非正式劳工的社会运动
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=破碎的团结: 非正式劳工的社会运动&url=https://gravitysworm.com/post/169496112147" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>破碎的团结: 非正式劳工的社会运动</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2018-01-09
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#萬有引力之蟲">
+          萬有引力之蟲
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://gravitysworm.com/post/169496112147" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="萬有引力之蟲的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#萬有引力之蟲 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1515482348000-->
+<p><a href="https://gravitysworm.com/post/169496112147">破碎的团结: 非正式劳工的社会运动</a>
+——</p>
+
+<div>
+  <p>非正式劳工，与正式劳工对应，指的是那些工作性质不稳定的劳动者。他们包括领取月结甚至日结工资的工人，比如家政工和建筑工，也包括自雇佣群体，比如街头小贩和黑车司机。</p>
+  <p>对非正式劳工的污名化古已有之。汤普森在《英国工人阶级的形成》中，曾经引用历史统计，指出工业革命时期，拾荒者、流动商贩、流浪艺人等典型的非正式劳工，和赌徒，窃贼、未婚同居者等同被归类为犯罪阶层。不仅如此，经典左翼劳工研究通常也只关注工厂中的劳力，认为他们才具备足够的阶级和组织意识。发源于美国的主流社会运动研究，则把注意力投向环保和LGBT等新社会运动，更不会对非正式劳工的动员产生兴趣。</p>
+  <p>如果说统治者对流民阶层的恐惧出于纯粹的利益考量，各类正统社科理论对非正式劳工的轻视态度，则反映了各个时代社会运动想象力的贫瘠。社会运动理论假设，运动参与者必须有足够的社会资源、闲暇时间，并且和其他潜在参与者建立全方位的社会纽带，才能够降低交易成本，克服集体行动的困境。非正式劳工工作性质零散和暂时，缺乏社会保障和法律支持，加上大部分工作报酬极低，因此被认为不可能被组织起来。</p>
+  <p>然而，从上世纪80、90年代起，很多国家都涌现出非正式劳工的工会和网络，部分国家甚至形成了有政治诉求，有长期组织的社会运动。部分社科研究者也终于开始重新发现非正式劳工的潜能。本文通过三个个案介绍，勾勒目前社会学界对非正式劳工的主要研究进展，也期为各领域的实践者提供思路。</p>
+  <p><strong>街头商贩如何介入墨西哥政治</strong><br />出版于1998年的&lt;Informal Politics: Street Vendors and the State in Mexico City&gt;, 是最早关注非正式劳工政治参与的社会学书籍之一。作者John C. Cross基于1989年到1995年间对墨西哥城街头小贩的参与式调研，解释了这一非正式群体为何不仅在严酷的政策打压面前生存下来，而且可以左右当地的政局。</p>
+  <p>尽管墨西哥城法律并不允许在大街上从事流动商业活动，主流传媒也对此持负面态度，街头商贩一直都是墨西哥城的一道旅游风景线，与政府所构想的现代化都市天际线形成了鲜明对比。上世纪90年代初，至少有20万名摊贩活跃在墨西哥城街头，大部分都是非法经营者。尽管收入不高，这些商贩并不觉得自己是社会边缘人口，而是带着强烈的职业认同。不仅如此，摊贩结成了紧密的政治网络，其领导者的社会地位堪比毒枭和黑帮老大。</p>
+  <p>Cross的调研显示，街头商贩之所以可以生存壮大，归功于几大因素。一是典型的政府委托代理困境和侍从主义。市级官员没有激励有效执行上级的政策，反而倾向于和街头商贩合作，来获取选票上的支持（这一解释也符合政见团队介绍过的<a href="http://cnpolitics.org/2017/01/forbearance/" target="_blank">另一篇</a>论文的发现）。90年代中期开始，比索和制造业因为全球化和北美自由贸易协定等进一步崩盘，当时的执政党革命制度党PRI的绩效合法性进一步被动摇，因此更需要底层的政治支持来巩固政权。PRI和崛起的反对党都希望街头摊贩组织可以隶属在自己机构旗下。</p>
+  <p>另外，上级的政策在实施上也遭遇了巨大的问题。比如在统计街头非法商贩人数上，因为1973年后，收集信息的次级行政部门有16个，缺少中央协调机构，各个单位都可以虚报人数而不受制裁。加上街头商贩的流动性，如果不是持续监测，汇报的数据过了半年可能就失效了，这进一步让信息采集部门失去了工作动力。</p>
+  <p>如果说上述政府结构的原因在国家能力不足的情况下十分普遍，本研究更独特的地方在于指出街头商贩组织的动员策略。Cross发现与其他社会运动组织不同，墨西哥城街头商贩的动员结构，往往和PRI一样威权主义。组织领导地位大大高于普通商贩，他们有权制定规则，允许或驱逐个体商贩在自己的地盘上经营。领导人还常常以权谋私，赶走一些手下的异议者，然后高价出租空出来的摊位。久而久之，这些领导成了政党和普通商贩之间的沟通中间人，负责给成员提供正式的商贩牌照，并动员他们参与各种集会和抗议。而很多集会，则是向PRI释放信号的手段，参与者一边提出政治诉求，一边又表示自己对PRI合法性的支持。</p>
+  <p>这当然不是个让人乐观的发现。墨西哥城商贩尽管获得和国家博弈的筹码，但这种胜利是建立在另一种威权管理的基础之上，他们的社会运动参与是被规划好的，不听话的个体会受到惩罚。这种威权主义的动员模式，结合政府的恩庇侍从策略，也许是之后拉美社运排斥中心化动员的重要历史原因之一。</p>
+  <p><strong>选举政治与印度非正式劳工运动</strong><br />印度是非正式劳工比例最高的国家之一，93%的劳动力都在非正式部门工作。在2013年出版的书籍&lt;Informal Labor, Formal Politics, and Dignified Discontent in India&gt; 中，霍普金斯社会学系的Rina Agarwala 考察了印度的选举政治生态，经济政策和各类非正式劳工运动的交互关系，从而进一步深化了Cross的政党政治视角。</p>
+  <p>印度的传统工会只吸收正规产业工人，和大公司的雇员，排斥女性、文盲和低技术劳力。由于不被正式的工会所接纳，印度的非正式劳工采取了和正式劳工截然不同的斗争策略。正式部门员工依赖传统工会，往往致力于寻求经济上的好处，比如最低工资和工作场所环境的改善。相比之下，非正式劳工的策略则是绕过私人雇主，以公民和选民的身份走政治动员的道路。他们以政府忽视公民权作为申诉理由，以在政客面前示威和绝食的方式，直接向国家施压寻求教育和医保等社会福利。也由于这样的策略，印度非正式劳工动员的程度和政党政治存在更大程度的勾连。</p>
+  <p>正式与非正式劳工抗争策略的分野根植于印度非正式经济的发展历史。1970年前后，由于先前工运的成功，政府通过了一系列保护劳工权利的法案。为了规避法律职责，建筑和卷烟（Bidi）等行业开始重组，大公司关门，小承包商进入并大量雇佣非正式劳工。以卷烟行业为例，1968年喀拉拉邦政府通过了卷烟法案保护劳工权益，几个月内当地最大的卷烟公司就裁员一万二，关闭了所有大型工厂。到1970年代中期，其他工厂也全都停业，卷烟业重新回到家庭小作坊式的生产模式。没有机会接受教育的女性和儿童成为了廉价劳动力的来源，卷1000根烟才能拿1美金报酬。由于劳动力被完全打散到各个家庭内部，剥削变得隐蔽，卷烟工会的维权成本直线上升。于是，80年代起，多个非正式行业组建了新的独立工会，直接将矛头指向政府。</p>
+  <p>Agarwala不仅总结了非正式劳工一般抗争策略的形成，也解释了不同地区非正式劳工动员能力的高低。她的数据基于她在孟买、金奈、加尔各答三城市的田野，和有关喀拉拉邦的二手文献。这四地都有辉煌的左翼和劳工运动历史，工会密度都很高，经济发展水平和人类发展指数也相近，为比较研究剔除了干扰因素。</p>
+  <p>数据显示，非正式劳工的动员能力高低取决于该地地方选举的竞争性。例如金奈所在的泰米尔纳德邦的选举，主要被两大党全印安纳达罗毗荼进步联盟（ADMK）和达罗毗荼进步联盟（DMK）所垄断，两党虽然都不算典型的左翼政党，但都十分民粹。与墨西哥城的例子类似，对底层选民的收买意愿，为该地非正式劳工的动员提供了机遇。非正式劳工工会在公开宣传中，常常突出自己庞大的会员基数，强调劳工们会统一投票给提供福利的候选人（vote bank）。另一方面，工会又鼓励会员根据自己居住社区的实际情况投票，这样就避免了被一个单独的党所支配。在作者的访谈中，泰米尔纳德邦的非正式劳工确实也获得了四地中最好的福利。相比之下，加尔各答所在的西孟加拉邦尽管从70年代起就是印共执政，左翼色彩浓重。无奈该地选举毫无竞争性，非正式劳工也鲜有机会利用选举为自己博取筹码。作者访谈的加尔各答劳工，只有建筑工人获得了工会提供的一些福利。</p>
+  <p>但是，即使处在激烈的选票竞争中，政党也不可能完全听命于工运的诉求。90年代初，印度全境开始推行减税、取消商品管制等自由化的政策。ADMK和DMK巧妙地利用自己的福利色彩，来正当化自己对自由化政策的支持。比如DMK对外宣称自己是劳工政党，和印共一样认同马克思哲学，但实际上却和右翼BJP推行类似的政策。DMK为了招徕跨国企业入驻泰米尔纳德邦，向对方提供了免费的厂房，并声称企业内不用设立工会。</p>
+  <p>所以，尽管非正式劳工获得了社会保障，他们促使政府作出的福利让步，却成为经济政策进一步自由化的诱因之一。这也是印度这个案例最值得人深思的一点。</p>
+  <p><strong>回收站里的革命：私有化与哥伦比亚的拾荒者运动</strong><br />如果说Cross和Agarwala主要从政党政治的角度解释劳工运动的涨落，伯克利社会学系的Manuel Rosaldo对1986到2011年间哥伦比亚拾荒者运动的研究，则突出了私有化政策对非正式劳工运动的推动作用，这也是本文最令人振奋的个案。</p>
+  <p>拾荒者在绝大部分国家都被污名化，是鲍曼所定义的后现代体系下“废弃的生命”。然而在哥伦比亚，拾荒者却有自己的合作社，法律支持和政治动员网络。</p>
+  <p>这样的网络当然是多年抗争带来的结果。曾经，哥伦比亚的拾荒者们只能把收集到的废品卖给中间人，赚取只相当于行业回收价5%的报酬。此外，警察的骚扰和富人的歧视也是家常便饭。不少人在大街上被无故拘捕，没收推车。</p>
+  <p>讽刺的是，为拾荒者运动出现提供动力的恰恰是废品回收业的重组和私有化。80年代中期，顺应环保需求，国有的大型垃圾倾倒场被私人公司运营的卫生垃圾填埋场（sanitary landfill）取代。无数个体拾荒者没法再进入露天垃圾堆，而是只能每天行走20-30公里在市区各条大街上翻找垃圾。结果，成千上万的拾荒者突然出现在中产和富人住宅区。</p>
+  <p>这群不速之客的来临引发了部分中上层的社会恐慌。很快，以清洗低端人口为名的极右翼势力集结起来，他们组成保卫社区的民兵团，累计杀害了2000多名拾荒者、乞丐和性工作者。</p>
+  <p>对边缘人口的杀害迅速登上报纸头条，引发了全国范围的震怒，也成为了拾荒者运动的由头。首先，大规模抗议使得全国政府被迫出台法律，要求地方政府为拾荒者提供教育和必要的住宿。其次，基金会、国际NGO和大学开始出台各种培训项目帮助拾荒者，为运动注入了初始资金。</p>
+  <p>最重要的改变来自于拾荒者自身。他们以地区为基础成立了合作社，与雇主、国家进行集体谈判，大幅提高了工资。这种合作社运作在拉美并非孤例，巴西的无地工人和阿根廷的失业工人运动，都曾经在它们各自占领的土地和工厂中采取类似的组织生产模式。</p>
+  <p>合作社只是社区层次的骨架，在其上还有以城市为单位的政治动员网络，负责指导社运和汇集各类社会资源。第三级是全国性网络，第四级是拉美和加勒比地区的协会，最后则是有28国民间组织参与的全球拾荒者联盟。这种多层嵌套的组织模式在墨西哥查巴达的国际支持网络中也可以看到。往历史上追溯，18世纪末最早的工人阶级团体伦敦通讯会也是采用类似的布局。</p>
+  <p>当然，以城市为单位的政治动员网络是最核心的社运机构。哥伦比亚最出名的拾荒者运动网络是首都波哥大地区的ARB，旗下包括17个合作社，社员的平均工资普遍高于其他个体拾荒者。ARB曾经是个非政治的服务网络，但由于一次突发的财政危机，他们被迫精简全职人员，增加志愿者，出租一半的办公场地，并削减服务项目。虽然人员大批出走，留下的却是政治上更激进的成员，使ARB能够推动超越普通经济利益的议程。</p>
+  <p>通过多年的运作，ARB成功将拾荒者塑造成受人尊敬的职业。除了组织日常抗议，他们还选派劳工参加专业培训，与媒体接洽，在公共论坛和学校开讲座，树立起拾荒者的专业形象。另外，ARB与公民社会各领域广泛结盟，招募到了一批善于死磕的维权律师。在立法不利于非正式劳工时，律师们及时介入申诉扭转了危局。</p>
+  <p>目前，哥伦比亚的拾荒者是全世界最有政治行动力的非正式劳工群体，他们的组织模式也传播到巴西和南非等国家的工运中。</p>
+  <p><strong>破碎的团结: 非正式劳工的运动前景</strong></p>
+  <p>选取以上三个个案，绝非暗示只有这三地的非正式劳工组织了起来，而是它们从不同角度揭示了运动的多元策略和结构限制。</p>
+  <p>除此之外，非正式劳工运动在其他国家地区也呈现不同的表现形式。例如，80年代后阿根廷的非正式劳工主要和失业者结盟，组成浩大的拦路者运动（piquetero movement）。与哥伦比亚单一的拾荒者运动网络不同，拦路者运动为了团结更多部门的劳工，实行各社区自决，去中心程度更高。</p>
+  <p>在中国，虽然非正式劳工尚未发起受到传媒关注的社会运动，他们却一直有着丰富的个人和集体抵抗形式。在Sarah Swider对中国北上广建筑工人的研究中，她既观察到斯科特式的日常抵抗：故意损坏工具，偷偷抽烟等，也发现了集体抵抗行为，比如几十个人轮班装病罢工，盗窃少量建材去公共市场销售，甚至集体威胁承包商多付工资。</p>
+  <p>数字通讯技术的发展，使得网络众包，以及数字劳工变得普及。在Hardt和Negri看来，这些非物质、非正式劳工的出现，既是资本主义“帝国”进化到现在的必然后果，也是组建诸众生力军的关键。数字劳工政治动员的前景并不清晰，不过一些在线工作社区已经酝酿出运动家组成的小圈子。2014年圣诞节，亚马逊旗下MTurk的部分劳工第一次联合起来，发布公开信要求亚马逊提高劳工待遇。Turker们还建立了多个论坛，给雇主打分，并商量用脚投票去别的平台工作。</p>
+  <p>虽然每个国家每种非正式经济都有自己的运作特色，旗下的非正式劳工也采用了截然不同的斗争策略，然而，不同的案例都揭示出双向运动的逻辑：私有化常常能联合起更广泛的抗争，早前社运的成功却可能引发建制力量的反扑。我们也许只能视团结为一种破碎的状态，视胜利为一条深渊前的坦途，将不确定性看作逆流而上的动力。</p>
+  <p><strong>参考文献：</strong><br />Agarwala, Rina. 2013. Informal Labor, Formal Politics, and Dignified Discontent in India. 1 edition. Cambridge University Press.</p>
+  <p>Cross, John. 1998. Informal Politics: Street Vendors and the State in Mexico City. 1 edition. Stanford, Calif: Stanford University Press.</p>
+  <p>Rosaldo, Manuel. 2016. “Revolution in the Garbage Dump: The Political and Economic Foundations of the Colombian Recycler Movement, 1986-2011.” Social Problems 63 (3):351–72. <a href="https://doi.org/10.1093/socpro/spw015." target="_blank">https://doi.org/10.1093/socpro/spw015.</a></p>
+  <p><strong>延伸阅读：</strong><br />Eaton, Adrienne E., Susan J. Schurman, and Martha A. Chen, eds. 2017. Informal Workers and Collective Action: A Global Perspective. 1 edition. Ithaca: ILR Press.</p>
+  <p>Rossi, Federico M. 2017. The Poor’s Struggle for Political Incorporation: The Piquetero Movement in Argentina. Cambridge University Press.</p>
+  <p>Swider, Sarah. 2015. Building China: Informal Work and the New Precariat. 1 edition. Ithaca ; London: ILR Press.</p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#萬有引力之蟲 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-07-18/%E9%9F%A7%E6%80%A7%E7%9A%84%E8%89%BA%E6%9C%AF-%E5%BA%9F%E9%99%A4%E8%AD%A6%E5%AF%9F%E5%9F%8E%E8%BF%90%E5%8A%A8%E7%9A%84%E5%90%AF%E7%A4%BA/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2017-11-06/%E5%8D%A0%E9%A2%86%E7%9A%84%E7%BB%84%E7%BB%87%E9%81%97%E4%BA%A7/">最早</a>--</span>
+    
+      <li>
+        <time>2018-04-29</time>
+        <a href="https://nodebe4.github.io/opinion/2018-04-29/%E5%B7%9D%E6%99%AE%E6%97%B6%E4%BB%A3%E7%9A%84%E7%BE%8E%E5%9B%BD%E7%A4%BE%E4%BC%9A%E8%BF%90%E5%8A%A8-%E4%B8%8A/">
+          川普时代的美国社会运动（上）
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2018-04-03</time>
+        <a href="https://nodebe4.github.io/opinion/2018-04-03/%E8%A2%AB%E9%AB%98%E4%BC%B0%E7%9A%84%E9%9D%92%E5%B9%B4-%E8%A2%AB%E8%AF%AF%E8%A7%A3%E7%9A%84%E8%BF%90%E5%8A%A8/">
+          被高估的青年，被误解的运动
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2017-11-06</time>
+        <a href="https://nodebe4.github.io/opinion/2017-11-06/%E5%8D%A0%E9%A2%86%E7%9A%84%E7%BB%84%E7%BB%87%E9%81%97%E4%BA%A7/">
+          占领的组织遗产
+        </a>
+      </li>
+    
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2018-01-08/Meltdown_Spectre_and_the_State_of_Technology/">
+            前一篇：Meltdown, Spectre, and the State of Technology
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2018-01-10/%E6%9D%8E%E4%BC%9F%E4%B8%9C-%E5%90%B4%E5%BC%BA-%E9%9F%A9%E6%9C%9D%E4%BC%9A%E8%B0%88%E7%99%BB%E5%9C%BA-%E7%BC%93%E8%A7%A3%E7%B4%A7%E5%BC%A0%E8%BF%98%E6%98%AF%E6%9C%9D%E9%B2%9C%E4%BC%8E%E4%BF%A9/">
+            後一篇：李伟东、吴强：韩朝会谈登场，缓解紧张还是朝鲜伎俩？
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2018-01-08/Meltdown_Spectre_and_the_State_of_Technology/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2018-01-10/%E6%9D%8E%E4%BC%9F%E4%B8%9C-%E5%90%B4%E5%BC%BA-%E9%9F%A9%E6%9C%9D%E4%BC%9A%E8%B0%88%E7%99%BB%E5%9C%BA-%E7%BC%93%E8%A7%A3%E7%B4%A7%E5%BC%A0%E8%BF%98%E6%98%AF%E6%9C%9D%E9%B2%9C%E4%BC%8E%E4%BF%A9/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2018-04-03/%E8%A2%AB%E9%AB%98%E4%BC%B0%E7%9A%84%E9%9D%92%E5%B9%B4-%E8%A2%AB%E8%AF%AF%E8%A7%A3%E7%9A%84%E8%BF%90%E5%8A%A8/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2017-11-06/%E5%8D%A0%E9%A2%86%E7%9A%84%E7%BB%84%E7%BB%87%E9%81%97%E4%BA%A7/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2018-01-08/Meltdown_Spectre_and_the_State_of_Technology/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2018-01-10/%E6%9D%8E%E4%BC%9F%E4%B8%9C-%E5%90%B4%E5%BC%BA-%E9%9F%A9%E6%9C%9D%E4%BC%9A%E8%B0%88%E7%99%BB%E5%9C%BA-%E7%BC%93%E8%A7%A3%E7%B4%A7%E5%BC%A0%E8%BF%98%E6%98%AF%E6%9C%9D%E9%B2%9C%E4%BC%8E%E4%BF%A9/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<萬有引力之蟲>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2018-04-03/%E8%A2%AB%E9%AB%98%E4%BC%B0%E7%9A%84%E9%9D%92%E5%B9%B4-%E8%A2%AB%E8%AF%AF%E8%A7%A3%E7%9A%84%E8%BF%90%E5%8A%A8/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<萬有引力之蟲>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2017-11-06/%E5%8D%A0%E9%A2%86%E7%9A%84%E7%BB%84%E7%BB%87%E9%81%97%E4%BA%A7/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

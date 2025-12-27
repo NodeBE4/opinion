@@ -1,0 +1,1103 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>對話陳麟：文化“破壁人”，突破中西隔閡的嘗試與回望|圍爐·NYUSH – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+對話陳麟：文化“破壁人”，突破中西隔閡的嘗試與回望|圍爐·NYUSH
+——
+" />
+    <meta property="og:description" content="
+對話陳麟：文化“破壁人”，突破中西隔閡的嘗試與回望|圍爐·NYUSH
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="對話陳麟：文化“破壁人”，突破中西隔閡的嘗試與回望|圍爐·NYUSH" />
+    <meta property="twitter:title" content="對話陳麟：文化“破壁人”，突破中西隔閡的嘗試與回望|圍爐·NYUSH" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fmatters.news%2F%40weiluflame%2F%25E5%25B0%258D%25E8%25A9%25B1%25E9%2599%25B3%25E9%25BA%259F-%25E6%2596%2587%25E5%258C%2596-%25E7%25A0%25B4%25E5%25A3%2581%25E4%25BA%25BA-%25E7%25AA%2581%25E7%25A0%25B4%25E4%25B8%25AD%25E8%25A5%25BF%25E9%259A%2594%25E9%2596%25A1%25E7%259A%2584%25E5%2598%2597%25E8%25A9%25A6%25E8%2588%2587%25E5%259B%259E%25E6%259C%259B-%25E5%259C%258D%25E7%2588%2590-nyush-bafyreic2v3petr7bxobtohenjxuhzzvwan3xg4ehdktqan2buxquzucvei" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://matters.news/@weiluflame/%E5%B0%8D%E8%A9%B1%E9%99%B3%E9%BA%9F-%E6%96%87%E5%8C%96-%E7%A0%B4%E5%A3%81%E4%BA%BA-%E7%AA%81%E7%A0%B4%E4%B8%AD%E8%A5%BF%E9%9A%94%E9%96%A1%E7%9A%84%E5%98%97%E8%A9%A6%E8%88%87%E5%9B%9E%E6%9C%9B-%E5%9C%8D%E7%88%90-nyush-bafyreic2v3petr7bxobtohenjxuhzzvwan3xg4ehdktqan2buxquzucvei" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://matters.news/@weiluflame/%E5%B0%8D%E8%A9%B1%E9%99%B3%E9%BA%9F-%E6%96%87%E5%8C%96-%E7%A0%B4%E5%A3%81%E4%BA%BA-%E7%AA%81%E7%A0%B4%E4%B8%AD%E8%A5%BF%E9%9A%94%E9%96%A1%E7%9A%84%E5%98%97%E8%A9%A6%E8%88%87%E5%9B%9E%E6%9C%9B-%E5%9C%8D%E7%88%90-nyush-bafyreic2v3petr7bxobtohenjxuhzzvwan3xg4ehdktqan2buxquzucvei&text=對話陳麟：文化“破壁人”，突破中西隔閡的嘗試與回望|圍爐·NYUSH&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://matters.news/@weiluflame/%E5%B0%8D%E8%A9%B1%E9%99%B3%E9%BA%9F-%E6%96%87%E5%8C%96-%E7%A0%B4%E5%A3%81%E4%BA%BA-%E7%AA%81%E7%A0%B4%E4%B8%AD%E8%A5%BF%E9%9A%94%E9%96%A1%E7%9A%84%E5%98%97%E8%A9%A6%E8%88%87%E5%9B%9E%E6%9C%9B-%E5%9C%8D%E7%88%90-nyush-bafyreic2v3petr7bxobtohenjxuhzzvwan3xg4ehdktqan2buxquzucvei&title=對話陳麟：文化“破壁人”，突破中西隔閡的嘗試與回望|圍爐·NYUSH" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://matters.news/@weiluflame/%E5%B0%8D%E8%A9%B1%E9%99%B3%E9%BA%9F-%E6%96%87%E5%8C%96-%E7%A0%B4%E5%A3%81%E4%BA%BA-%E7%AA%81%E7%A0%B4%E4%B8%AD%E8%A5%BF%E9%9A%94%E9%96%A1%E7%9A%84%E5%98%97%E8%A9%A6%E8%88%87%E5%9B%9E%E6%9C%9B-%E5%9C%8D%E7%88%90-nyush-bafyreic2v3petr7bxobtohenjxuhzzvwan3xg4ehdktqan2buxquzucvei&title=對話陳麟：文化“破壁人”，突破中西隔閡的嘗試與回望|圍爐·NYUSH" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=對話陳麟：文化“破壁人”，突破中西隔閡的嘗試與回望|圍爐·NYUSH&body=
+對話陳麟：文化“破壁人”，突破中西隔閡的嘗試與回望|圍爐·NYUSH
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://matters.news/@weiluflame/%E5%B0%8D%E8%A9%B1%E9%99%B3%E9%BA%9F-%E6%96%87%E5%8C%96-%E7%A0%B4%E5%A3%81%E4%BA%BA-%E7%AA%81%E7%A0%B4%E4%B8%AD%E8%A5%BF%E9%9A%94%E9%96%A1%E7%9A%84%E5%98%97%E8%A9%A6%E8%88%87%E5%9B%9E%E6%9C%9B-%E5%9C%8D%E7%88%90-nyush-bafyreic2v3petr7bxobtohenjxuhzzvwan3xg4ehdktqan2buxquzucvei" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://matters.news/@weiluflame/%E5%B0%8D%E8%A9%B1%E9%99%B3%E9%BA%9F-%E6%96%87%E5%8C%96-%E7%A0%B4%E5%A3%81%E4%BA%BA-%E7%AA%81%E7%A0%B4%E4%B8%AD%E8%A5%BF%E9%9A%94%E9%96%A1%E7%9A%84%E5%98%97%E8%A9%A6%E8%88%87%E5%9B%9E%E6%9C%9B-%E5%9C%8D%E7%88%90-nyush-bafyreic2v3petr7bxobtohenjxuhzzvwan3xg4ehdktqan2buxquzucvei&title=對話陳麟：文化“破壁人”，突破中西隔閡的嘗試與回望|圍爐·NYUSH&caption=
+對話陳麟：文化“破壁人”，突破中西隔閡的嘗試與回望|圍爐·NYUSH
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=對話陳麟：文化“破壁人”，突破中西隔閡的嘗試與回望|圍爐·NYUSH&url=https://matters.news/@weiluflame/%E5%B0%8D%E8%A9%B1%E9%99%B3%E9%BA%9F-%E6%96%87%E5%8C%96-%E7%A0%B4%E5%A3%81%E4%BA%BA-%E7%AA%81%E7%A0%B4%E4%B8%AD%E8%A5%BF%E9%9A%94%E9%96%A1%E7%9A%84%E5%98%97%E8%A9%A6%E8%88%87%E5%9B%9E%E6%9C%9B-%E5%9C%8D%E7%88%90-nyush-bafyreic2v3petr7bxobtohenjxuhzzvwan3xg4ehdktqan2buxquzucvei" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>對話陳麟：文化“破壁人”，突破中西隔閡的嘗試與回望|圍爐·NYUSH</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-02-03
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: 围炉weiluflame</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#围炉">
+          围炉
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://matters.news/@weiluflame/%E5%B0%8D%E8%A9%B1%E9%99%B3%E9%BA%9F-%E6%96%87%E5%8C%96-%E7%A0%B4%E5%A3%81%E4%BA%BA-%E7%AA%81%E7%A0%B4%E4%B8%AD%E8%A5%BF%E9%9A%94%E9%96%A1%E7%9A%84%E5%98%97%E8%A9%A6%E8%88%87%E5%9B%9E%E6%9C%9B-%E5%9C%8D%E7%88%90-nyush-bafyreic2v3petr7bxobtohenjxuhzzvwan3xg4ehdktqan2buxquzucvei" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="围炉的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#围炉 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1643904153000-->
+<p><a href="https://matters.news/@weiluflame/%E5%B0%8D%E8%A9%B1%E9%99%B3%E9%BA%9F-%E6%96%87%E5%8C%96-%E7%A0%B4%E5%A3%81%E4%BA%BA-%E7%AA%81%E7%A0%B4%E4%B8%AD%E8%A5%BF%E9%9A%94%E9%96%A1%E7%9A%84%E5%98%97%E8%A9%A6%E8%88%87%E5%9B%9E%E6%9C%9B-%E5%9C%8D%E7%88%90-nyush-bafyreic2v3petr7bxobtohenjxuhzzvwan3xg4ehdktqan2buxquzucvei">對話陳麟：文化“破壁人”，突破中西隔閡的嘗試與回望|圍爐·NYUSH</a>
+——</p>
+
+<div>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/5f3053fd-5fbb-4f62-9fad-5b0c66f84c63.webp" data-asset-id="5f3053fd-5fbb-4f62-9fad-5b0c66f84c63" referrerpolicy="no-referrer" />    <figcaption>
+<span>2021秋季結課時陳麟老師與他的學生們的合影</span>
+    </figcaption>
+  </figure>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/f5bce956-8874-457e-aec3-65c3890c945c.png" data-asset-id="f5bce956-8874-457e-aec3-65c3890c945c" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>疫情時代到來後，全球化的浪潮有所衰退，我們也囙此而擔心跨文化的交流會越來越困難。 無可否認，不同的文化之間總存在著一定的壁壘，但從不缺乏想要打破壁壘的人。 陳麟老師就是這樣的一個文化“破壁人”。 他在復旦大學外國語言文學專業畢業後，留美十年，專注於比較文學的研究，相繼獲得加州大學河濱分校的碩士和華盛頓大學的博士學位。 但他的思考興趣並不局限於他博士階段研究的英國浪漫主義和中國古典文學，從本科學習文學開始到完成博士論文《陶淵明和華茲華斯：一項平行研究》（Tao Yuanming and William Wordsworth: A Parallel Study），他一直思考著中西文化精神的异同。 如今作為上海紐約大學文理學部寫作課程的高級講師，他潜心教學，致力於提高學生的理性思辨和文化自覺，希望幫助他們在這個複雜多變的世界中找到新時代的精神座標。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/89017266-0887-4669-a29c-ffd7cf71ec6d.png" data-asset-id="89017266-0887-4669-a29c-ffd7cf71ec6d" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>爐｜遊怡婷 石雨歆 蘇子晋 殷凱文 徐文哲</p>
+  <p>陳｜陳麟</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/a4eb3c65-cf39-41c9-8e34-723fb2b68dac.webp" data-asset-id="a4eb3c65-cf39-41c9-8e34-723fb2b68dac" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <h2 id="section"><strong>1</strong></h2>
+  <h2 id="section-1"><strong>從語言到文學和思想</strong></h2>
+  <div class="language-plaintext ql-syntax highlighter-rouge" spellcheck="false"><div class="highlight"><pre class="highlight"><code>爐｜是什麼樣的機會讓您接觸到文學？ 又是在什麼樣的情况下您意識到自己對文學的熱愛，選擇以文學為專業，而後為職業的呢？</code></pre></div>  </div>
+  <p>陳｜我是在上大學的時候開始慢慢意識到自己喜歡文學的。 起初喜歡的其實是英語，因為我英語不錯，後來高考填報志願時陰差陽錯讀了英語。 當時國內的大部分外語系都是以語言教學為主，復旦因為有些文學教育的根基，所以在專業教學中還比較重視文學。 我在大學高年級有幸接觸了一些文學方面的課，零星地讀了些英語文學作品後才真正喜歡上文學的。 從中國人的視角看，這條與文學結緣的路其實不太“正常”，因為我是通過英語文學進而喜歡中國文學的，有點“出口轉內銷”的味道。 現在看起來，這種由外而內的聯動變化正標誌著我的文化身份意識的萌芽。</p>
+  <p>當時讀莎士比亞和許多英語作品，總能感覺到那語言的美，而要通過翻譯用中文傳達那樣的美卻又如此困難，當時覺得非從古典文學中汲取營養不可，於是就開始讀《離騷》、先秦散文、唐宋詩詞等，一時不亦樂乎。 這條曲折的道路讓我意識到中國語文教育的缺憾。 相信現在的語文教育已經有所改善，文言的教學似乎是加强了，不過應試的傾向依然，還有變本加厲的趨勢。 一個明顯的後果就是喜歡國文的人依然不多。 國文教育本來是傳統教育的覈心，學生也投入了大量的時間和精力，卻少有真正喜歡上的，這不得不讓人反思。 即便是選擇了文科，那些文科生卻往往給人一種更加擅長死記硬背的刻板印象，而很少被評估為“很有思想”。 這是我們現在文化教育中的弊端，值得深刻反思。</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge" spellcheck="false"><div class="highlight"><pre class="highlight"><code>爐｜那您認為文化教育的關鍵是在語言嗎？</code></pre></div>  </div>
+  <p>陳｜也不是，語言是表情達意的媒介，是文化修習的階梯。 現在一般人使用中文寫作太過隨意，往往缺乏基本的自覺和敏感。 我所謂的敏感，不是說作文一定要有文采，而是要認識到語言與思想和情感之間的聯系。 對語言麻木不仁不但會限制我們的表達，也會限制我們所要表達的思想和情感。 這方面，用英語寫作和中文是一個道理，要做到清晰實在，就先要培養對語言的敏感和自覺，為此我們的大學生還需要付出很多努力。</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge" spellcheck="false"><div class="highlight"><pre class="highlight"><code>爐｜您所說的作為表達思想的利器的語言與我們日常使用的語言的區別是什麼呢？</code></pre></div>  </div>
+  <p>陳｜思想家往往對語言有比較深的體會，因為他們要表達的東西很精細，很綿密，很複雜，日常的表達很難準確而充分地呈現他們的思想，囙此他們往往必須對語言做一番改造。 哲學家經常有一套自己的術語，這是他們為了準確表達思想與語言不斷較勁鬥爭的結果。 同理，藝術或者說文學的語言是文學家用以傳達他們特殊的體驗感受和關照的工具，也不是日常的語言所能應付的。 能體會到這一層，才算對語言的高級用途有所瞭解。</p>
+  <p>當然，要學生使用語言時達到這個境界，早已超越了一般寫作課的要求，因為這需要高度的悟性和長久的磨煉。 現代的人文教育如果能够把學生帶到這一境界，大概就算實現了它的真正目的。</p>
+  <h2 id="section-2"><strong>2</strong></h2>
+  <h2 id="section-3"><strong>教育何為</strong></h2>
+  <div class="language-plaintext ql-syntax highlighter-rouge" spellcheck="false"><div class="highlight"><pre class="highlight"><code>爐｜您也進行了十年研究生階段的學習，結合您當時的學習和最近幾年任教的感受和思考，您怎麼看待“教”與“學”的關係？</code></pre></div>  </div>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/15a8a7cf-8daf-49dc-9473-4da195edf3ad.webp" data-asset-id="15a8a7cf-8daf-49dc-9473-4da195edf3ad" referrerpolicy="no-referrer" />    <figcaption>
+<span>“學然後知不足，教然後知困。知不足然後能自反也，知困然後能自强也，故曰教學相長也。”</span>
+    </figcaption>
+  </figure>
+  <p>陳｜《禮記·學記》曾提出“教學相長”，這是中國古人有關教學關係的至理名言。 大家都聽過，能明白並真正做到的大概不多。 我們的教育裏有多少是教學相長的？ 老師能通過教育促進學問嗎？ 學生能意識到“教”——也就是一定程度的輸出和迴響——對自己的“學”是一種必要的激勵嗎？ 就拿上紐大的課堂來說，中國學生課堂討論的參與度相對外國學生往往要低不少，積極的學生不是沒有，但被動的總是多一些，都等著老師來灌。 這種一對多的模式其實不利於達成教學效果，我覺得這方面可以適度借鑒美國學校的做法，在老師不放弃干預和引導的前提下，多給學生點主動發揮的空間。</p>
+  <p>就拿我自己的經歷來說，自覺長進比較大的時候，是自己開始做老師的時候，而不是做學生的時候。 做學生的時候總是一種被動，至少是半被動的狀態。 做老師的時候，角色不同了，你要言之有物，要把話講清楚，讓人聽明白且有收穫，這份為人師的責任感促使我更認真地讀書、更認真地思考，同時還要給學生有益的迴響，這些就是教對於學的益處。</p>
+  <p>對於學生而言，要能收到教學相長的效果，首先要完成一個觀念的轉化，要有一種主動意識，是自己要學； 要有一種參與意識，上課不只是來聽，也是來說，這聽和說的對象既是老師，也是同學，課堂是個相互切磋、共同提高的場所，不是一個各行其是、你贏我輸的攀比過程。 當然這種參與也是有前提的，即認真的準備，對同僚的尊重和一定的自信心。 這就是一種教學文化，它的實現需要我們自覺參與和共同塑造。</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge" spellcheck="false"><div class="highlight"><pre class="highlight"><code>爐｜您認為教育真正的目的是什麼呢？</code></pre></div>  </div>
+  <p>陳｜現代學校教育的真正目的在於能不能轉化你的觀念和思想，從而轉化你這個人，“悟”就是轉化的標誌，信心和人生目標都是通過這種轉化建立起來的。 只有通過真正的教育你才知道自己是誰，才能擁有目標並為之奮鬥。 世俗意義上的成功也許都是給別人看的，但是，什麼是你自己真正要的？ 你如何去塑造自己的人生和你所處的環境呢？ 這原本是中國古代教育所特別強調的。</p>
+  <p>現代教育跟以前的管道不一樣了。 現在學生是在學校被動地接受教育，仿佛在走一個程式，在這個過程中學生不停地被考核。 但教育本身並不是這樣一件事情，你能想像孔子一個個考核他的學生，給他們打分排名嗎？ 我有時候想，在中國這個考試文化特別發達的國度，從前為什麼沒有想到用精確的分數去衡量考生，難道是因為古人的智力不及嗎？ 我總覺得考試跟教育沒有什麼必然的關係，因為考試是一種淘汰機制。 在現行的體制裏，似乎只有那些能够在教育路程中不斷走下去的人，才能跟成功掛鉤，而被篩掉的人就是失敗者，所以考試和分數才會這麼重要，於是教育的目的就异化成考高分了。</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge" spellcheck="false"><div class="highlight"><pre class="highlight"><code>爐｜那在現代教育管道的這樣一種變化下，是什麼支持著您始終堅持在教育的道路上？</code></pre></div>  </div>
+  <p>陳｜談不上堅持。 我從事教育所面對的一個客觀的現實是，我的學習經歷决定了我不能去做很多實用的事情，但也有主觀的原因，比如說我比較喜歡跟人打交道，尤其是青年，看到他們的進步，我很開心。 另一方面，環境是由人去塑造的，我希望能夠讓教育環境變得更好一些，但是我的能力很有限。 如果學生都很積極，我對自己也會多一份責任感； 但如果大家都是一種很功利的態度——反正我來修個學分，然後一拍兩散——那教育就沒有發生，只是走過場而已。</p>
+  <p>這大概就是現時教育的困境。 西方是把壓力放在老師的身上，以學生為中心，讓老師變成一個服務者，而在中國的舊傳統裏，老師本是一個權威，現在卻慢慢失去了這種尊嚴，社會地位越變越低，所以老師和學生都不安其職，老師不能專心於教學這件事，而都去關心那些外在的評估和名額。 如此，教育就很難實現自身真正的目的。</p>
+  <p>同時我也不認為改革這個教學體制就能解决問題。 從體制的角度去思考，能够看出不少問題，但如果把問題的解决全都依賴於制度改革，那是天真的。 沒有師生心裡的認同和投入的熱情，好的制度也只能淪為外在的規定。 我以為只有把教學的理想種到老師和學生的心裡，真正的教育才會發生。</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge" spellcheck="false"><div class="highlight"><pre class="highlight"><code>爐｜那您覺得有什麼是當代大學應該可以調整的，以使真正的教育更有可能發生，但是現時缺失的呢？</code></pre></div>  </div>
+  <p>陳｜如果我們不考慮體制改革的問題，就在現行的教育體制裏思考問題，有什麼是我們能做的？ 我想答案一定是多元的，我就抛磚引玉，提一點想法。 既然現在教育面臨的一個難題是學生過度看重成績，那麼我們能不能設想，給學生創造一種環境，讓他們適當地忘記成績呢？ 我覺得一個辦法就是儘量少算分。 就拿我上的論文寫作課為例，如果平時的作文不用量化的管道打分，而是作質的評估，或者給的分數不能簡單地轉化成ABCD，或許情况就會有所轉變，這也正是我在嘗試做的事情。 我們現在的做法有時候會有點自我衝突，一方面不希望學生太過看重成績，另一方面又給幾乎任何一項課程任務或行為計分。 分數本來就是一種實現教育目標的權宜之計，大家把手段當成了目的，逐漸地就忘記了接受教育本是為了什麼。 所以我覺得就拿成績這件事來說，儘量少打分，讓學生多參與，把上課變成一件讓精神愉悅的事，最後還能够轉化成不錯的成績，這可能是大家都想要的。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/a69b62a0-595b-4777-ac65-d84ba40b7f34.webp" data-asset-id="a69b62a0-595b-4777-ac65-d84ba40b7f34" referrerpolicy="no-referrer" />    <figcaption>
+<span>《取消評分》由文化、語言與心理人類學家蘇珊·布魯姆主編，書中15比特不同領域的教學者分享了他們在教學中不評分的嘗試。</span>
+    </figcaption>
+  </figure>
+  <h2 id="section-4"><strong>3</strong></h2>
+  <h2 id="section-5"><strong>我們如何理解文學</strong></h2>
+  <div class="language-plaintext ql-syntax highlighter-rouge" spellcheck="false"><div class="highlight"><pre class="highlight"><code>爐｜知人論世是一種我們比較常見的解讀文學的管道。 有人認為是時代成就了文學作品，有人認為是文學作品塑造和改變了時代。 那您怎麼看待歷史行程中文學和其對應時代的關係？</code></pre></div>  </div>
+  <p>陳｜這是一個很複雜的問題。 中國讀者一般不會把時代、作者和作品之間截然切割。 作品反映了作者和時代，同時作者和時代造就了作品。 解讀作品時，我們習慣性地從時代背景和作者生平入手，去框定其意義。 好像弄清了前者，對後者的詮釋就順理成章了。 這是我們大一統的國家格局所造就的文化心理、思維習慣，雖不必錯，其弊端則是把兩者的關係看得過於直接和簡單。 然而我們知道，同一時代同一作家的作品也是各種各樣的，你無法解釋那種多樣性，所以這種或明或暗的時代作者決定論從根本上低估了作者的能動性以及作品的豐富性。 但我們也不能全然否定兩者的關係，問題的答案應該就在這種若即若離中。 對習慣於中國式閱讀的讀者來說，尤其要當心跳過作品看脉络，畢竟作品是我們理解的基礎和重心，脉络的確立離不開對作品本身的理解，兩者的互動可以說構成一組闡釋迴圈。</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge" spellcheck="false"><div class="highlight"><pre class="highlight"><code>爐｜您認為文學需不需要承擔起記錄時代的責任？</code></pre></div>  </div>
+  <p>陳｜作品跟時代之間肯定是有關係的。 從某種意義上來說，作者想完全跳脫時代是不可能的。 你一定記錄的就是這個時代，因為你生活在其中。 哪怕你寫歷史小說，或者科幻小說，要想完全剝離了所處時代的印記，也是不可能做到的。 你看《三國演義》寫的是三國時期的事情，但字裡行間也反映出很多元末明初的問題； 又比如《水滸傳》寫的是宋代的事情，其實反映了很多明代的現實。 你無法徹底地跟所處的時代切割，所以從這個意義上說，文字記錄的肯定是和時代有關聯的。</p>
+  <p>你所謂的“記錄時代”如果是刻意的，那就是現實主義或寫實主義的創作傳統，就不是我剛才所說的那種空想的或者浪漫的，後者好像是要跟時代做一個脫離。 現實主義寫作與記錄的關係更顯然也更緊密，但也很難說作者的目的就是記錄而已，因為文學總有一定的自由度，一定的虛構性和理想化，不是一種簡單的記錄，它是一種創造。 創造本身就一定程度上要依靠人的直覺，不是完全通過理性可以控制的，所以很難把它濃縮成一種教條似的東西。 如果是為了一個明確的目的去寫作的話，可能已經違背了純文學創作的基本規律。 好的文學是沒有thesis（中心主旨）的，而是多義的，是豐富的，它有很多闡釋空間，是對真實的創造性還原，並不是拿個攝影機把這個世界本來的樣子拍下來。 當然即便是攝影也隱含著攝影師的視角，傳達著他的感受和關照，好的文學就更是如此了。</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge" spellcheck="false"><div class="highlight"><pre class="highlight"><code>爐｜有些所謂的名著儘管具有很高的文學性，但對於福斯，其可讀性是不高的，您認為文學性和故事性是相互衝突的嗎？</code></pre></div>  </div>
+  <p>陳｜首先我想質疑一下這個問題。 這個問題要成立，預設了兩個前提：首先，我們知道你所謂的文學性是什麼； 其次，這種文學性又是和故事性衝突對立的。 其實這兩個前提假設並不成立，或者說並不明確。 我前面對文學是什麼有一些總體性的論斷，其實那也是粗說，並未做學術性的分辨。 不過即便我們暫且認為那種論述是充分的，第二個前提也未必成立。 文學和故事真的衝突衝突嗎？ 要知道文學的一大主要類型就是敘事，就是以故事為中心的，我們為什麼會認為兩者衝突呢？</p>
+  <p>我想用電影作類比的話，你要問的大概是故事性很强的商業大片和小眾的文藝片之間的差別。 但是文藝片為什麼就不能說故事呢，可見這種艺文是相對商業娛樂而言的，沒有這種高潮迭起的商業大片也就沒有反大片模式的艺文製作。 兩者是相互依存的，是我們這個時代的文化環境中形成的特有的對立，而不是“文學”與“故事”本身的對立。 囙此你說名著的可讀性不高，這一前提也是不成立的。 我們之所以有這樣的認識，可能是因為我們的趣味受到了商業文化的侵蝕，以及我們這個時代的艺文對這種侵蝕的抵拒而陷入一種尷尬的境地所致吧。</p>
+  <h2 id="section-6"><strong>4</strong></h2>
+  <h2 id="section-7"><strong>不同文化中的“意境”</strong></h2>
+  <div class="language-plaintext ql-syntax highlighter-rouge" spellcheck="false"><div class="highlight"><pre class="highlight"><code>爐｜我們說中國古代作品的時候常常會說言有盡而意無窮，那麼其他的文化中的作品是不是也有意境之說呢？ 體會意境是否和每個人的想法和文化背景相關呢？</code></pre></div>  </div>
+  <p>陳｜“意境”這個詞挺難翻譯的，而難翻譯的多半就是有文化特色的。 相對於“意境”，英語中近似一點的概念大概就是“world”。 康德用“精神”“美感觀念”等談文學的豐富性，某種程度上與“意無窮”就有相通之處。 我覺得海德格爾把語言說成“存在之屋”（house of being），與意境也有幾分相似。 有意思的是，這些概念按照字典的解釋是風馬牛不相及的，要確立這種相關性，你必須先在不同的文化中得到浸潤，既能從他的角度看問題，又能從我的角度看問題，然後發現相似性，望文生義是無法搭起這種橋樑的。</p>
+  <p>語言並不只是描述客觀世界的符號。 文化中的許多內容都沒有客觀世界的具體指向，而是一種觀念建構。 翻譯的使命在於打通不同文化的隔閡，如果兩種語言文化的差异足够大，翻譯就是極其困難的事。 我們常錯誤地以為翻譯就是同義代換，學習其他語言時背單詞、用字典又强化了這種認識，似乎不同語言之間有簡單的對應關係，其實這是虛幻的，至少是不牢靠的。 當然，這種障礙也不是不可跨越的，你到那個陌生的語言文化裏生活一段時間，多用多想，慢慢就能心領神會。</p>
+  <p>所以“意境”這個詞，我覺得在西方文化觀念中應該也存在近似的東西，但不像在中國文化裏這麼強勢。 我們的詩詞為什麼突出“意無窮”？ 這和漢語精煉含蓄的特點有密切的關係，我們的詩文化如此發達絕非偶然。 意境可以說是中國詩乃至文學文化追求的特殊的藝術理想。 而在西方，即使有近似意境的觀念，在詩文創作和評鑒上也處於比較後起和邊緣的位置。</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge" spellcheck="false"><div class="highlight"><pre class="highlight"><code>爐｜您現在能想到有什麼其他文化中的具體的作品，也營造出一種意境之感的嗎？</code></pre></div>  </div>
+  <p>陳｜那我覺得偉大的文學都有意境，比如《哈姆雷特》，它會不斷地給你提供闡釋的空間，這就是一種“意無窮”。 偉大的作品我們不可能簡單地確定它的意義，而是可以不斷地挖掘出新的內涵。 只不過可能不是通過那種詩的形式來實現的，而可能是通過其他的文學樣式，比如戲劇、小說。 能讓人浮想聯翩大概就可以稱為有意境吧，可見語言文化的差异不是絕對的，是可以一定程度打通的。</p>
+  <h2 id="section-8"><strong>5</strong></h2>
+  <h2 id="section-9"><strong>中西方文學的平行</strong></h2>
+  <p>爐｜我們發現您的博士論文的主題很有意思，題為《陶淵明與華茲華斯：一項平行研究》（Tao Yuanming and William Wordsworth: A Parallel Study），我們很好奇您當時怎麼會確定這樣一個主題的？</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/d335e39f-ceed-4444-b254-f2f23ff559eb.webp" data-asset-id="d335e39f-ceed-4444-b254-f2f23ff559eb" referrerpolicy="no-referrer" />    <figcaption>
+<span>陶淵明（左）、華茲華斯（右）</span>
+    </figcaption>
+  </figure>
+  <p>陳｜這個說來話長，我只能點到而止。 我的根本目的還是要通，這個觀念有深厚的中國文化根基，我也在一定程度上受到錢鐘書先生的影響。 不過學通中西談何容易，個人才疏學淺，看書太少，起步又晚，越學越覺得自己無知而有限。 所以面對中西方文學傳統，既不能全通，又不能强不通為通，安全起見，還是决定以兩位大詩人為抓手，而不做泛泛的比較，那種做法有違學術研究的態度。</p>
+  <p>兩位詩人都是我極為欣賞的，大學時因學英語而愛古文，研究生時在海外又因愛中國詩而努力讀西洋詩，最後選擇華茲華斯是我的幸運，因為曾給予我最大的靈魂衝擊的英語詩人，除密爾頓之外就屬華茲華斯。</p>
+  <p>至於論文，也談不上有什麼高明的見解，只是在方法上求得一點小小的突破，論文題目中所謂的parallel（平行），意思是不要捏在一塊兒，應該讓他們平行而不相交，各自保持自己的獨立性和內在的完整性，但同時又能因相互參照而給人啟發， 這個關係是很微妙的。 不過對我來說，論文只是一個開端，是一場沒有完成的思索，成熟的想法還在醞釀中，期待以後問世能得到你們的迴響。</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge" spellcheck="false"><div class="highlight"><pre class="highlight"><code>爐｜您對於跨中西文化的思考，是不是也啟發了您在上紐這樣一所中外合作大學的英語學術寫作必修課程中，選取中國古典文學作為閱讀資料呢？</code></pre></div>  </div>
+  <p>陳｜對我來說，思想啟蒙的第一步就要重新思考自己習以為常的東西，我並非給你新的知識，而是讓你意識到原來常識其實是有問題的，應該要重新思考。 就像一個前沿的科學家都要重新思考已知的規律一樣，因為那些規律對他來說未必是結論，而可能也是問題。 只有這樣，你才能成為一個探索者，而不是簡單的知識接受者。</p>
+  <p>英語課用中文的資料一方面當然是考慮到學生的文化身份，想通過對資料的討論幫助中國學生建立文化自覺，如果有外國學生，也能促進文化交流。 當然也有學術上的考量，上紐大以英語作為教學語言，這個國際化的環境很容易讓我們不自覺地部分接受了西方觀念和話語，而處於一種文化無意識的狀態。 在教學中加入異質文明的元素，可以幫助我們發現問題，從而求得真正的理解和啟悟。</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge" spellcheck="false"><div class="highlight"><pre class="highlight"><code>爐｜在上紐用英語教學的環境中，您把中國古典文學的作品加入到課程體系中，有什麼挑戰和困難嗎？</code></pre></div>  </div>
+  <p>陳｜最大的挑戰當然就是語言和文化差异。 在美國式的教育環境中，英語教學天經地義，然而語言與文化是相關聯的——如果只能使用一種語言，文化的豐富性也會受到限制。 文化多元一定程度上是要在語言多元上體現出來的，所以我們在一種語言下提倡的文化多元只能是表面的。 我校的中國學生至少可以使用兩種語言，外國學生必修中文，在理論上他們也應該能較熟練地使用中文，事實上卻未必，這就限制了大家的交流，於是文化交流就很難在教學裏真正體現出來。 對中外學生來說，通過一種語言去瞭解其他的文化會有巨大局限，尤其是像中國這樣的非西方文化。</p>
+  <h2 id="section-10"><strong>6</strong></h2>
+  <h2 id="section-11"><strong>人文學科在當代的邊緣化處境</strong></h2>
+  <div class="language-plaintext ql-syntax highlighter-rouge" spellcheck="false"><div class="highlight"><pre class="highlight"><code>爐｜在您從事文學之前，有沒有身邊的家人或者朋友質疑和反對的聲音？ 您怎麼看待就業前景等現實因素對大學生選擇專業的影響？</code></pre></div>  </div>
+  <p>陳｜我們當時跟你們現在不一樣。 以前那個環境下，英語專業不怕沒有工作。 當時專精英語的人相對少一點，專業學英語的人當然會比非專業的人要好一點，可以做翻譯等工作，長輩也不會擔心你找不到工作，所以烦乱會少一點。</p>
+  <p>可現在狀況不太一樣，現在壓力更大，競爭也更激烈。 其實這個激烈也是你們共同參與造就的，很難扭轉。 現在你們的教育支出那麼大，那些能够跟職業、前途、成功掛鉤的專業，大家自然就趨之若鶩。 流行的專業龐大起來了，而很多基礎學科，卻門可羅雀，慢慢地被邊緣化。 人文學科首當其衝，在西方，基礎的自然科學無人問津的現象也愈加明顯了。 從整個國家和社會來說，這樣的後果是令人擔憂的。</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge" spellcheck="false"><div class="highlight"><pre class="highlight"><code>爐｜那在專業熱度差距懸殊的當下，您又怎樣看待博雅教育呢？</code></pre></div>  </div>
+  <p>陳｜我認為任何學科，凡是純粹的知識都可以成為追求的目標。 一個真正對智慧、知識、真理有興趣的人不會限於自己的領域。 當然，一個人總要有自己的座標，有一個出發點、一個落腳點； 但也不能只看自己熟悉的某一個領域，置其他於不顧； 應該擁有不同學科的基本常識，因為人本身就是一個普遍性的存在。</p>
+  <p>事實上，我並沒有覺得文理是打成兩截、完全不通的。 以前有寫作課的學生跟我說，老師我作文寫不好，因為我是個理科生，這樣的情况發生了不止一次。 我的回答很簡單，不要被妄想蒙蔽了。 西方很多思想家都是數學家，理科頭腦怎麼就不適合寫論文了？ 人文思考難道是非理性的，不要邏輯的嗎？ 我總覺得文理之間根本不存在衝突，兩者的隔閡是一種人為塑造的錯誤觀念。 對大學生而言，多看看其他的東西是有啟發的。 在不迷失自我，找准自己的座標的前提下，要有一定的寬度，不然就容易變得很狹隘。 過度專業化的教育很容易使人視野狹隘，所以許多中國的一流大學現在也在向美國學習，推行博雅教育，這是對的，但是難點在於如何讓這種教育真正實現它的價值。</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge" spellcheck="false"><div class="highlight"><pre class="highlight"><code>爐｜最後，我們想問問您有沒有什麼推薦的書給我們？</code></pre></div>  </div>
+  <p>陳｜這是所有問題中最難的一個，因為沒有範圍和目標。 在我們這個資訊知識大爆炸的時代，似乎很難再確立共同尊奉的經典人文典籍了。 中國古代有經，近代推倒了，西方也一樣，上世紀中葉，英美學院中經典（Great Books）課一度成了博雅教育的重心，後來被六七十年代的新思潮衝垮了，經典的確立一度成為學院中的熱門話題，現在似乎熱度也過去了，專業化的趨勢總體恐怕有增無減。</p>
+  <p>我還是保守一些，學院的爭論就留給學院，對普通大學生而言，我們還是不應拋卻人文經典，中國的思想文化當然少不了先秦諸子、司馬遷、屈陶李杜、四大名著等。 西方的經典更龐雜，哲學文學也是汗牛充棟，嘗試性地瞭解，可以從荷馬開始，柏拉圖、亞里斯多德、《聖經》、但丁、莎士比亞、歌德、康德、馬克思、托爾斯泰……儘量讀原典或優秀的翻譯，實在有理解困難的可以參考輔助讀物。</p>
+  <p>多讀人文典籍並不是要今天的大學生忘記當下，不去關心自己的處境； 恰恰相反，有選擇地讀書、學會讀書正是為了拓展自己的心胸和視野，從而更好地理解我們所處的時空環境。 至於說閱讀的步驟和選擇，每個人可以根據自己的興趣所近，從一門入，專精一隅，最後的目標還是要通，“君子尊德性而道問學，致廣大而盡精微，極高明而道中庸”。 古人的知識沒今人那麼多，所提的理想卻很偉大。 我們“雖不能至，心嚮往之”，大概也是不錯的。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/a7a4ec6e-fb4f-46ea-8e66-a176ffadc97f.png" data-asset-id="a7a4ec6e-fb4f-46ea-8e66-a176ffadc97f" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>文｜遊怡婷 石雨歆 李永馨 蘇子晋</p>
+  <p>鄧可欣 徐諾 李非凡 譚曉彤</p>
+  <p>圖｜來自受訪者及網絡</p>
+  <p>審稿｜張雅淇 言冰 天天</p>
+  <p>微信編輯|姚亦楠</p>
+  <p>matter編輯| Marks</p>
+  <p>圍爐（ID:weilu_flame）</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/52349461-a68a-4441-beab-11b1204c7ea4.png" data-asset-id="52349461-a68a-4441-beab-11b1204c7ea4" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>文中圖片未經同意，請勿用作其他用途</p>
+  <p>歡迎您在文章下方評論，與圍爐團隊和其他讀者交流討論</p>
+  <p>欲瞭解圍爐、閱讀更多文章，請關注本公眾號並在公眾號頁面點擊相應選單欄目</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/e31633ed-acca-4332-aa5f-53c097b3bd9a.png" data-asset-id="e31633ed-acca-4332-aa5f-53c097b3bd9a" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/a814f7a8-4560-4d19-9b26-82b150cf0df5.png" data-asset-id="a814f7a8-4560-4d19-9b26-82b150cf0df5" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p><br /></p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#围炉 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2024-10-03/%E5%AF%B9%E8%AF%9D%E5%A5%B3%E6%80%A7%E6%B0%91%E5%B7%A5-%E5%9C%A8%E5%9F%8E%E5%B8%82%E9%87%8C-%E5%9C%A8%E5%B7%A5%E4%BD%9C%E5%92%8C%E5%AE%B6%E5%BA%AD%E4%B9%8B%E9%97%B4-%E5%9B%B4%E7%82%89-CU/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2021-03-23/%E5%AF%B9%E8%AF%9D%E9%BB%84%E6%B3%93%E7%BF%94-%E8%87%B4%E5%8A%9B%E4%BA%8E%E5%9F%B9%E8%82%B2%E4%B8%96%E7%95%8C%E5%85%AC%E6%B0%91%E7%9A%84%E4%B8%AD%E5%8D%97%E5%B1%8B%E5%88%9B%E5%A7%8B%E4%BA%BA-%E8%AE%B2%E5%BA%A7%E6%91%98%E8%A6%81/">最早</a>--</span>
+    
+      <li>
+        <time>2022-02-18</time>
+        <a href="https://nodebe4.github.io/opinion/2022-02-18/%E5%B0%8D%E8%A9%B1%E5%BB%96%E5%BF%97%E8%BC%9D-%E6%BE%B3%E9%96%80-%E4%B8%80%E5%BA%A7%E9%9A%B1%E5%BD%A2%E7%9A%84%E9%83%BD%E5%B8%82-%E5%9C%8D%E7%88%90-CUHK/">
+          對話廖志輝：澳門，一座隱形的都市|圍爐·CUHK
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-02-11</time>
+        <a href="https://nodebe4.github.io/opinion/2022-02-11/%E5%B0%8D%E8%A9%B1%E6%9E%97%E5%9F%B9%E6%BA%90-%E7%A9%BF%E9%81%8E-%E7%AA%84%E9%96%80-%E5%9C%8D%E7%88%90-HKU/">
+          對話林培源：穿過「窄門」 | 圍爐 · HKU
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-01-28</time>
+        <a href="https://nodebe4.github.io/opinion/2022-01-28/%E5%9C%8D%E7%88%90%E5%A4%9C%E8%A9%B1-%E6%88%91%E4%B9%9F%E6%9B%BE%E8%99%95%E6%96%BC%E7%A4%BE%E6%9C%83%E9%82%8A%E7%B7%A3-%E5%9C%8D%E7%88%90-HKU/">
+          圍爐夜話：我也曾處於社會邊緣|圍爐·HKU
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-01-19</time>
+        <a href="https://nodebe4.github.io/opinion/2022-01-19/%E8%9C%82%E9%B3%A5-%E9%9D%92%E6%98%A5%E7%9A%84%E5%85%A9%E9%87%8D-%E9%81%AD%E9%81%87-%E5%9C%8D%E7%88%90-%E5%86%AC%E6%97%A5%E8%89%BA%E6%96%87/">
+          《蜂鳥》：青春的兩重“遭遇”｜圍爐·冬日艺文
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-02-02/%E5%88%80%E4%B8%8B%E7%9A%84%E9%A6%99%E6%B8%AF%E4%BA%BA-%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E8%89%BA%E6%9C%AF%E5%AE%B6%E6%9D%8E%E8%BF%AA%E6%9D%83/">
+            前一篇：刀下的香港人 马来西亚艺术家李迪权
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-02-04/ForeignAffairsMag/">
+            後一篇：ForeignAffairsMag在2022-01-31~2022-02-06的言论
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-02-02/%E5%88%80%E4%B8%8B%E7%9A%84%E9%A6%99%E6%B8%AF%E4%BA%BA-%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E8%89%BA%E6%9C%AF%E5%AE%B6%E6%9D%8E%E8%BF%AA%E6%9D%83/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-02-04/ForeignAffairsMag/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-02-11/%E5%B0%8D%E8%A9%B1%E6%9E%97%E5%9F%B9%E6%BA%90-%E7%A9%BF%E9%81%8E-%E7%AA%84%E9%96%80-%E5%9C%8D%E7%88%90-HKU/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-01-28/%E5%9C%8D%E7%88%90%E5%A4%9C%E8%A9%B1-%E6%88%91%E4%B9%9F%E6%9B%BE%E8%99%95%E6%96%BC%E7%A4%BE%E6%9C%83%E9%82%8A%E7%B7%A3-%E5%9C%8D%E7%88%90-HKU/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-02-02/%E5%88%80%E4%B8%8B%E7%9A%84%E9%A6%99%E6%B8%AF%E4%BA%BA-%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E8%89%BA%E6%9C%AF%E5%AE%B6%E6%9D%8E%E8%BF%AA%E6%9D%83/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-02-04/ForeignAffairsMag/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<围炉>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-02-11/%E5%B0%8D%E8%A9%B1%E6%9E%97%E5%9F%B9%E6%BA%90-%E7%A9%BF%E9%81%8E-%E7%AA%84%E9%96%80-%E5%9C%8D%E7%88%90-HKU/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<围炉>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-01-28/%E5%9C%8D%E7%88%90%E5%A4%9C%E8%A9%B1-%E6%88%91%E4%B9%9F%E6%9B%BE%E8%99%95%E6%96%BC%E7%A4%BE%E6%9C%83%E9%82%8A%E7%B7%A3-%E5%9C%8D%E7%88%90-HKU/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

@@ -1,0 +1,1533 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>EP-128 吴国光：2024年，中国如何走向社会溃败？(文字版） – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+EP-128 吴国光：2024年，中国如何走向社会溃败？(文字版）
+——
+" />
+    <meta property="og:description" content="
+EP-128 吴国光：2024年，中国如何走向社会溃败？(文字版）
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="EP-128 吴国光：2024年，中国如何走向社会溃败？(文字版）" />
+    <meta property="twitter:title" content="EP-128 吴国光：2024年，中国如何走向社会溃败？(文字版）" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fwww.bumingbai.net%2F2024%2F12%2F128-wgg-text%2F%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3D128-wgg-text" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://www.bumingbai.net/2024/12/128-wgg-text/?utm_source=rss&utm_medium=rss&utm_campaign=128-wgg-text" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://www.bumingbai.net/2024/12/128-wgg-text/?utm_source=rss&utm_medium=rss&utm_campaign=128-wgg-text&text=EP-128 吴国光：2024年，中国如何走向社会溃败？(文字版）&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://www.bumingbai.net/2024/12/128-wgg-text/?utm_source=rss&utm_medium=rss&utm_campaign=128-wgg-text&title=EP-128 吴国光：2024年，中国如何走向社会溃败？(文字版）" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.bumingbai.net/2024/12/128-wgg-text/?utm_source=rss&utm_medium=rss&utm_campaign=128-wgg-text&title=EP-128 吴国光：2024年，中国如何走向社会溃败？(文字版）" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=EP-128 吴国光：2024年，中国如何走向社会溃败？(文字版）&body=
+EP-128 吴国光：2024年，中国如何走向社会溃败？(文字版）
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://www.bumingbai.net/2024/12/128-wgg-text/?utm_source=rss&utm_medium=rss&utm_campaign=128-wgg-text" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://www.bumingbai.net/2024/12/128-wgg-text/?utm_source=rss&utm_medium=rss&utm_campaign=128-wgg-text&title=EP-128 吴国光：2024年，中国如何走向社会溃败？(文字版）&caption=
+EP-128 吴国光：2024年，中国如何走向社会溃败？(文字版）
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=EP-128 吴国光：2024年，中国如何走向社会溃败？(文字版）&url=https://www.bumingbai.net/2024/12/128-wgg-text/?utm_source=rss&utm_medium=rss&utm_campaign=128-wgg-text" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>EP-128 吴国光：2024年，中国如何走向社会溃败？(文字版）</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2024-12-24
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#不明白播客">
+          不明白播客
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://www.bumingbai.net/2024/12/128-wgg-text/?utm_source=rss&utm_medium=rss&utm_campaign=128-wgg-text" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="不明白播客的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#不明白播客 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1735052530000-->
+<p><a href="https://www.bumingbai.net/2024/12/128-wgg-text/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=128-wgg-text">EP-128 吴国光：2024年，中国如何走向社会溃败？(文字版）</a>
+——</p>
+
+<div>
+  <div id="buzzsprout-player-16321066"></div>
+  <script src="https://www.buzzsprout.com/1982525/episodes/16321066-2024.js?container_id=buzzsprout-player-16321066&#038;player=small" type="text/javascript" charset="utf-8"></script>
+  <p><strong>文字版全文：<br /></strong><br />01:29 为什么说中国正在发生大面积的社会溃败？<br />04:31 2024年，中国为何极端暴力事件频发？<br />7:00 中国式的互害社会是如何形成的？<br />11:07 中共自诩安全背后的本质是什么？<br />16:03 中共的管控能力到达极限了吗？<br />26:48 社会溃败会导致中共的崩溃吗？<br />32:06 普通人如何在社会溃败时保护自己？</p>
+  <p><strong>袁莉: </strong>[00:00:02] 大家好，欢迎来到不明白播客，我是主持人袁莉。2024年就要结束了，和去年一样，我们准备做两期特别节目。一期是继续请吴国光教授来分析中国过去一年最值得关注的现象。一期是征集听众朋友自己的故事。主题和去年一样：“2024年你最不明白的事情是什么？”也可以谈谈2025年你最希望明白的事情是什么？请讲述一个发生在自己身上的故事，而不仅仅是发表感想和评论。期待大家的参与。参与方式见节目文字简介。</p>
+  <p>去年，吴国光教授分析了中国政坛频频发生的怪现象。今年最值得关注的可能是各种社会现象，准确地说，是各类社会暴力事件。从6月的苏州日本学校校车事件，9月深圳日本学校幼童被刺身亡，到11月广东珠海一名男子驾车撞人，致至少35人死亡，43人受伤，以及接下来的一系列无差别杀人案。这类无差别暴力事件过去也有，但今年似乎特别多。我们应该如何看待此类事件？它们仅仅是无关联的极端个案，还是折射出中国社会存在的深层次问题？我们请来了斯坦福大学中国经济与制度研究中心高级研究员吴国光教授。</p>
+  <p>吴老师您好！您今年在美国之音写过一系列文章分析这些事件，您认为这是中国大面积的社会溃败，您能先说一下社会溃败是什么意思吗？您怎么定义这个词？</p>
+  <p><strong>吴国光: </strong>[00:01:36] 社会溃败就是社会的文明规范越来越不起作用了。人们在言行当中相互加害的因素，加害的效果都在持续地增加。这就是您刚才开头讲的一系列的现象，其实后来还越来越发展。我们看到一系列以暴力来伤害别人生命，而且是不相干的人的生命的现象。我就想，日常生活中各种各样的规则呢，在哪里呢？人和陌生人之间有一定的文明规范，你走在街上看见一个生人，你不会紧张的想：这个人会不会伤害我。熟人之间，当然更会觉得我和熟人之间哪怕有过节，或者家人之间都是有亲情、有信任的，这些关系间都是有规范的。那么现在这些东西好像都不可信任了，这些规范都不可信任了。这些关系都可能潜伏着危险。我想我就把这个叫做社会的溃败。</p>
+  <p><strong>袁莉: </strong>[00:02:38] 有人说这些都是极端个案，不具备普遍性，谈不上大面积，您怎么对此怎么看呢？</p>
+  <p><strong>吴国光: </strong>[00:02:46] 我想可能有这么几个衡量的指标。第一个，我想就是实在是案例太多了。这些案例高频率地发生，那频频地发生，处处的发生。第二个，每个行业都有每个行业的文明规范，有一些行业的责任就是传承文明规范。教师就有责任传授文明规范，引导年轻一代遵循着社会的文明规范。教师的文明规范相当的衰败啊！教授的“授”都写成野兽的“兽”了。那你是个野兽，它还有什么社会文明规范呀？第三个就是家庭，我们中国文明有一个非常非常重要的领域，中国人是把家是看作是最高最高的亲情的所在。现在，我们刚才看到这么多家庭内部文明解体，文明规范失去作用。还有一个，就是中国人之间的社会文明规则的溃败也扩散到国际上去。对外国人的这种仇恨当然有各种各样的因素，但这个显然是社会溃败的一个非常重要的指标。最后，哪怕这些都是个案，但是从现在这些个案所造成的效果来看，它是一个非常扩散性、广泛性的社会效果。</p>
+  <p>今天你在中国生活，你走在街上，你敢保证来来往往的这些车辆不会有一辆忽然冲到人群里来把你撞死吗？你逛店的时候，你敢保证不会有人拿一个刀出来乱砍吗？我想这种恐惧的心理，人人自危的心理的弥漫，是非常重要的一个指标。这确实是一个社会的溃败，社会的溃败，它必定是大面积的，因为整个社会文明规范都越来越不起作用。</p>
+  <p><strong>袁莉: </strong>[00:04:30] 那这个大面积的社会溃败现象为什么会出现在2024年呢？或者您认为这可以这么说吗？它是2024年出现。</p>
+  <p><strong>吴国光: </strong>[00:04:39] 这个问题非常好啊。其实我想第一，我觉得2024年确实出现了一些新的特点。我刚才其实已经讲到了，但是我简单总结一下。第一就是高发频发，面积在扩大。第二个就是极端化、恶性化。三四月份我们看到的抛猫这样的事例，发展到6月杀学童，发展到11月开车，连续的好多不同的地方无差别的开车撞人。第三个其实我想把无差别这一点特别地挑出来。伤害无辜的人群使得社会最起码的一个安全感就丧失了。第四个，就是它怎么样来伤人呢？非常暴力，暴力的因素的上升非常的残忍。还有一个，它的事例也很典型，就是一个中国的网红，叫什么铁头之类的。他跑到日本东京的靖国神社，在那个石柱上撒一泡尿，然后自己还拍了视频，喷上红漆，在那写上英文的厕所字样等等，这也都罢了。然后还拍了英文的视频在网上放。这就是我想讲的第五个特点，就是这些对于文明规范的践踏，除了暴力以外还有非常猥琐下作的一面。</p>
+  <p>这些东西在2024年这么相当高的、集中地、让人印象深刻的发生，我想当然有经济上的原因。中国经济持续的低迷，在三年疫情以后没有出现预期的反弹，还是非常低迷状态，给很多人带来经济利益的损失，或者是看不到希望，心情又非常的压抑等等。这也有政治上的问题。政治上民众没有权利，还有各种各样的腐败案。但是我想，这应该说不是一天形成的。你说的这个问题，为什么这些会出现在2024年？我想一个最简单的答案，也是一个最不让人乐观的答案，就是说“”你放心，它不会只出现在2024年，2024年只是一个开头。这个现象我想还会持续。</p>
+  <p>当然，当局采取了一些措施。这些措施，我想最多是治标不治本。甚至是不是治标，这也不敢确定。可能会有一时把这些东西压制下去的效果，但是我想深层的问题都还是存在的。这些深层的问题还会持续地发酵。在未来，我们也许不一定在短期内会继续看到这样高的恶性事件的发生，我们也不希望看到这个东西，但是问题客观的因素都在那里。所以我判断，起起伏伏也好，时多时少也好啊，一会儿频密地发生，一会儿是比较稀疏的发生，有时候是非常地恶性地发生，有时候可能不那么恶性。但是中长期的趋势，我个人的悲观的判断是更严重。</p>
+  <p><strong>袁莉: </strong>[00:07:47] 我挺喜欢您在美国之音的专栏里面有这么一句话，您在谈为什么暴力因素在社会溃败中日益扩散并恶性发作。您说：人性中的恶魔就是这样释放出来的。坏事做绝者，有权有势，荣华富贵，整个制度就是要你做坏事，越坏越保你有出息。这样的政治制度安排下，怎么可能形成人与人之间充满善意、诚信、温情与互助的社会呢？专制政治不仅剥夺人们的基本权利，它还在毁掉人们的天良、人性。</p>
+  <p>您刚才说你非常怕大家误会，说您觉得这些发生在老百姓之间，而且您也提到互害社会这样的一个概念，我觉得您这段话其实说得挺好的，这个权力设置问题。</p>
+  <p><strong>吴国光: </strong>[00:08:32] 其实“互害社会”这个说法呢，我是这么想。这个后果，这个现象，它是老百姓之间，甚至是亲人之间、熟悉的人之间，也包括生人之间互相伤害，甚至是无差别的伤害。人家完全就没得罪你，和你没有利害冲突，你就去伤害人家。其实想一想这个恶，去伤害人的这个人，就感觉到好像他这个愤懑，他这个愤恨，已经都不知道要往哪里去发泄，也不知道用什么办法来发泄了。他这个发泄的方式是完全不应该的，但是他这个愤恨积累的过程是怎么样积累起来的呢？我想，其实一个比较正常的社会，文明的社会，健康的社会，它不仅有社会福利，它不仅有司法制度，它也有很多公民社会自组织，互相之间在情感上来安慰，来互相疏导，来抱团取暖吧。</p>
+  <p>我想，在中国，事实上我们首先看到在这个制度下，官员经常做损害老百姓利益的事情。中国的官员如果能做点对老百姓有一点点好处的事情，那就非常不容易了。官员这么害老百姓，但是老百姓想要的东西官员都有，金钱也好，权力也好，各种各样，摆不上台面的东西也好。根据人性呢，老百姓就会想，他怎么就会有这个东西，我为什么就不会有？他先前在做害我的事情，他还有这些东西，我是不是也应该做害别人的事情，我才会有这些东西？作为一个研究政治的人，我当然认为政治制度会对整个社会的型态的产生非常大的作用。</p>
+  <p><strong>袁莉: </strong>[00:10:19] 因为要跟您谈这个话题，我也找到了一篇清华大学社会学教授孙立平2010年写过的一篇文章。文章写最大的威胁不是社会动荡，而是社会溃败。我觉得也挺有意思的。因为他在2010年的时候就说，中国的社会溃败问题非常已经很严重了，而且他对社会溃败的定义也很有意思，他说社会溃败是社会肌体的细胞坏死，机能失效。社会动荡是指严重的社会冲突，会威胁政权和制度的基本框架。他说，说得形象一点，社会动荡，就好比是健康的身体被别人打伤了，而溃败则是自身的组织或者是细胞出了严重的毛病。</p>
+  <p>这稍微扯远了一点。我为什么说这个呢？是因为出了那些无差别杀人、还有袭击日本学校事件的时候，有记者去问外交部发言人，说中国出了这些问题，然后外交部发言人就会说我们中国是最安全的社会，最安全的地方。他实际上就是把社会动荡当成了要维稳。维稳成了最重要的事。这个社会的溃败，涉及到老百姓的这些东西，他不认为这是一个特别大的事，我不知道您怎么看。</p>
+  <p><strong>吴国光: </strong>[00:11:28] 我觉得袁莉，你刚才引用的这个孙立平教授讲得很好，对中国的社会的了解非常的深刻，可以说他非常有远见的已经预见了的这个现象。今年的<br />“不明白节”活动上我们可能提到了这一点。孙立平是我大学同班同学，他其实对社会溃败和社会动荡这个区分得很有意思。但是我昨天和今天要写的这个文章，和他的观点稍有不同，不同就在于我认为现代中国，刚才讲的这些社会溃败的现象，当发展成为11月以来的一系列的无差别伤害人事件的时候，它已经出现了中国当局一直恐吓中国老百姓的那个社会动乱的局面。开始出现这一点实际上很重要。</p>
+  <p>在政治学的研究当中，人的自由和权利作为一个方面，安全和秩序作为另外一个方面，这两个东西往往形成一种张力。一个专制的政权就是利用人们的安全感，当自由和安全这两个东西摆在你面前的时候，你只能选择其一。我想基本上所有人都要选择安全，你连命都没有了，你还要什么自由呢？所以人身安全一定是第一位的。专制政权就是利用人们的这种心理，它说：你看我用强制高压，我就可以让社会犯罪率低，让它安全。它就是这样让你把你的权利交出来的。让你就不可以有自由。在今天中国这个情况之下，这个确实是有，一个典型的有效的专制政权下，人们有起码的人身安全，但是没有基本的公民自由。我们看到，在一些无政府社会、治理失效的社会，有滥用的自由，但是安全完全受到威胁。那么民主制度找到一种方式，在这里边达成一种平衡，但是经常也失衡。比如我们看到美国有持枪的权利，它就会带来安全上的一些威胁。我也要讲，今天中国的一个特殊的情况就是：虽然有政治高压，但是这个政治高压在剥夺你自由和权利的同时，并不能够给你带来安全和秩序。我想，这是一个非常严重的问题。</p>
+  <p>其实社会互害，底层互害，我想一个非常重要的原因就是当你被伤害的时候，你找不到能对它负责任的人。你就是想报复也找不到对象。中国的网民早就讲了这个话：冤有头债有主啊，前边左拐是政府。大家都知道，政府要为很多很多这些事情负责任的。但是问题是，虽然前面左拐是政府，但是到了政府门口，你很可能根本没有办法像杀学童那样容易来发泄你的仇恨。人家那里戒备森严，专制的这样一套控制，它不仅造成了社会溃败的深层的原因，实际上它也使得整个社会的戾气，社会的愤恨，这些想要报复的人，最后完全不能够把报复施加到这些坏现象的源头的那些人身上去，最后就到一般人身上去了。我觉得也可以讲，在中国的体制下，连实现所谓原始正义、原始报仇都很难了。像好多年以前，上海有一个年轻人叫杨佳，他冲进了警察局连续干掉好像七八个警察。他被看作是民间的英雄。我想杨佳的这个方法，我们把它叫做一个原始正义的方法：你不给我一个说法，我就给你一个说法。你既然不给我正义，那我只能用这种办法来实现我的正义。原始正义最根本的原因就是因为没有一套公共权力系统来保证每个人得到正义。杨佳面对的不仅是公共权力不给他正义，而且公共权力本身就是制造不正义、不正当、不公正的根源。所以杨佳做了这样的事情。现在中国控制得越来越严密，使得杨佳这样的原始正义实现的方式也都很难得到了。结果就是报复最后到了完全不该被报复的人头上来了。我觉得这个说明，社会溃败背后，政治专制的原因已经是越来越大，越来越严重了。</p>
+  <p><strong>袁莉: </strong>[00:16:02] 中共对社会的管控能力非常强，甚至可以说是中国有史以来最强的。我想您应该会认同这个判断，但是它为什么现在管不住这么多的暴力行为呢？</p>
+  <p><strong>吴国光: </strong>[00:16:14] 我老在想，中国的管理控制，或者放在一起叫做管控，我觉得它有一个特点，就是八个字，叫做：“管而无理，控而无制”。</p>
+  <p>“管而无理”这个“无理”有两层意思。第一个，中共只是在管住、看住，不懂得疏导，不懂得去理顺。这是管而无理的第一个“无理”。第二个，中共根本是没有道理地去管，管的过程中根本就不讲理。很多中共管的事不该管，管的方式是不讲理。中国政府做的很多事情当中，比如说刚刚过去没几年的疫情。疫情当中政府该不该管？当然应该管，政府不管的话，社会就会混乱一团，大家不能够有效地应对疫情。但是你看你管的事怎么管呢？你管得完全没有道理，人家饭都不能吃，有病不能去医院，这就是管而无理。</p>
+  <p>所谓控而无制，这个“制”字我讲的是制度。制度是什么？制度不是一个抽象的东西，制度就是我们日常生活中每日每时所遵循的规范。这个规则就是经典的社会科学关于制度的定义，就是这一系列的规则规范，它的集合就是制度。那么中国这个东西，就是控制，也是说我把你掌控起来，我把你完全捏在我手心里。但是，中共不按照规范，不按照制度，没有规章。那你想，整个一个公权力都不按照规章来做事情，都不讲道理，怎么能够预判这个社会有规章讲道理呢？</p>
+  <p>因为它管而无理，控而无制。所以就使它很早的时候，咱们做节目我讲过中国政府它的控制能力加强，治理能力削弱。现在我可以讲它这个控制能力本身也成了一个二律背反，它本身也成了一个自我矛盾的东西。政府体系内部，官僚体系内部还有一个说法叫做：一管就死，一放就乱。现在面对这么多的民众，面对一个基本上按市场来运行的经济体，面对在过去的几十年当中已经和世界的经济文化相接轨相融的社会，加上年轻人在这个过程当中成长，有新的行为方式，新的价值观念，你还是用过去控制的方式去控制。结果这个控制能力的加强，反过来实际上造成了各种各样的问题。这个中国的控制能力，结果就成了一个回力镖，打到它自己头上去了。天王老子也不可能什么都可以控制得死死的。你又没有控制之外的能力，那么你控制的越多，那你造成的混乱就越多。</p>
+  <p>如果我们也进一步来分析中共的管控系统，这个控制能力本身也达到某种极限。这个控制能力的强化开始延伸出一系列的问题来。其实这个社会的戾气，大众的各种各样的普遍的仇恨情绪，就和一天到晚被人捏在手里有关系。当然，这种原因很多，但是从我研究政治角度来讲，哪怕一个小狗，要是天天用绳子时时栓着它，连遛都不遛，然后又吃不上饭的话，那个狗一定又跳又叫，它一定要想办法挣脱你这个控制。你一定能控制得住它吗？控制本身就造成问题了。何况是十几亿大活人，而且渐渐有自我意识的一个人群呢。</p>
+  <p><strong>袁莉: </strong>[00:20:00] 中共的思维一向就是要管控嘛，比如珠海体育中心撞人事件之后，习近平就要求加强风险源头防控，然后各地也开展了所谓四无五失，就是指什么无配偶、无子女、无工作，无稳定收入、无房产。五失就是指什么投资失败、生活失意、关系失和、心理失衡、精神失常，反正就是这些类似的这些人，还有什么三低三少了等各方面的。这些我就不说了，就是对这些群体要排查。他们第一反应就是要去调查哪些不稳定的因素，然后要把这些人管起来，您觉得这种方法是有效的吗？</p>
+  <p><strong>吴国光: </strong>[00:20:45] 这些东西由中国共产党来提出，非常有讽刺意义。中国共产党是代表无产阶级的政党，然后现在讲的这无、那无的都是你的敌人了。比如无工作或稳定收入，无房产，这不就是无产阶级吗？还有严重的公开的歧视，学历低，学历低就会犯罪，中国共产党的那些腐败的官员，学历都够高的吧，那犯罪多么严重啊！</p>
+  <p>第一个，你共产党、习近平不断地讲不忘初心。你的老爸习仲勋当年不就是一个生活失意再造反起家的吗？当然，可能就是因为共产党自己是这么起来的，所以它特别的防范现在它统治下这样的一些人群。共产党实际上等于在公开地宣布，它和中国的民众站在对立面上了。这是我第一个比较抽象的评论。</p>
+  <p>第二个，我不知道他们对这些人排查以后采取什么样的措施。如果排查了以后说收入低，就给人家增加收入，发放生活费，那我觉得这当然是一个好的做法。问题是，我看恐怕很难做到。包括这个刚刚结束的中央经济工作会议，虽然也不断的讲收入的问题，那恰恰是因为他解决不了这个问题，所以他不断的在这个会议上已经讲了一、两年。一边讲拉抬消费，因为大家收入低，消费起不来，另外一边习近平又不断的讲，不能够让大家不劳而获，也不能养懒人。问题就是说失业是因为他懒吗？就业机会少，这个政府也没有担负起给失业群体提供技能培训的责任。如果政府不去做这样一些东西，不能改善低收入的人群的收入，只是一味的压制，我想这个东西很难有效。还有像关系失衡，心理失衡，我想确实是犯罪心理学的会关注东西，特别是亲密关系失和以后一个人很容易心理极端，走向极端，容易犯罪。中共中央新成立了一个社会工作部，它有没有去思考这些原因？为什么在中国，按照国际通行精神病标准，会有那么多的一个群体精神不正常。我想这不是单纯的一个生理医学现象，这么大比例的一个人群精神不正常，这一定和他们的生活状态，和整个社会的精神状态等等都是有关的。</p>
+  <p>首先呢，我想政府本来不需要做这些事情，应该开放民间来做这些事情。那么多的非政府组织本来就是关爱这些人的。比如说我知道我的朋友在中国做反家庭暴力。反家庭暴力的这些朋友们，现在在中国被政府围追堵截，在中国都做不下去了。</p>
+  <p><strong>袁莉: </strong>[00:23:53] 对啊，他们都跑到国外去住了。连做家庭暴力的人都要害怕，得跑到国外来住。</p>
+  <p><strong>吴国光: </strong>[00:23:58] 如果反家庭暴力这个事情做得好，就会非常有效地减弱刚才这些这种无差别犯罪。那政府不让那些人做，你到底是谁愿意有更多人去搞无差别的犯罪，进行这个社会互害，还是要干什么呢？所以我想，他提的这些措施应该很难有效。就是因为他只是把这些人作为敌人、作为罪犯来管控。人们还没做什么事，就把他们看作潜在的罪犯来管控了。没有疏导，还是刚才讲的“管而无理”。政府也不容许整个社会自组织、自我健康化的来做事情，连根本不会挑战政权的反家庭暴力的一个非政府组织都不容许活动，都觉得是对政权的潜在威胁，这在某种程度上真的是神经病了，这个政府都神经病了。</p>
+  <p><strong>袁莉: </strong>[00:24:57] 那我们可以说中国人对社会溃败形成了共识吗？您觉得现在大家都认识到社会溃败现象吗？</p>
+  <p><strong>吴国光: </strong>[00:25:08] 是不是认识到了，我不好说，但是我想，心理上的普遍性恐慌可能已经开始在发生了。人们不一定知道这叫社会溃败，也不一定认识到这个背后是什么原因造成的。但是这个现象给大家带来的效果，这种人人自危的效果，它会带来什么样的社会和政治的后果呢？一个就是大家可能希望政府要管得更严一点，可能会支持政府采取更严厉的管控措施。再一个呢，可能就是有抱怨。因为我们刚才讲了，政府即使采取再严厉的管控措施，也不能从根本上解决这些问题，所以大家可能会抱怨。</p>
+  <p>我觉得这些都不足够。这个时候就是需要对社会现象有研究、有理解的人，包括我们今天在这里做的事情，我们把这个事情梳理一下，讲一讲到底怎样来理解这个现象。大家心里更清楚一些，清楚一些以后呢，可能对这个现象的认识会更深入一些。</p>
+  <p><strong>袁莉: </strong>[00:26:16] 提到社会溃败，就很容易想到社会崩溃。您能不能说以下这两个概念有什么不一样，这两者之间有没有某种关系？社会溃败会最后导致社会崩溃吗？</p>
+  <p><strong>吴国光: </strong>[00:26:29] 因为这两个词的中文字都差不多：溃败和崩溃。区别就在于后边这个字比较惊人吧。</p>
+  <p><strong>袁莉: </strong>[00:26:39] 我觉得英文会比较的准确，溃败的英文可能是decay，崩溃是collapse。我是这么想的。</p>
+  <p><strong>吴国光: </strong>[00:26:46] 我也是这么想。因为发展政治学里有一个词就是political decay。这是亨廷顿，研究比较政治学的大师，他早在1960年代就开始讲这个东西。它有比较精确的定义，就是政治体制不能够发挥它的功能，特别是它缺少能够让民众参与的能力：要么是当大家参与的时候，这个政治制度不能支撑；要么就是它拒绝人们参与。这是亨廷顿对“政治溃败”，political decay的定义。</p>
+  <p>至于social decay，这个政治溃败，我们不太看到有人用英文讲这个东西，因为这个现象比较少。很多时候社会体系，比如美国的整个社会的运行，更大程度上是社会自身在自组织、自运行，政府不起那么大的作用。不像政府在中国起那么大作用。我们讲过去比较极端的例子，像意大利在1980年代，可能五年换了十个政府，这个政府的总理是谁都没搞清楚呢，就已经下台了。但社会照样经济发展。社会该怎么样还是怎么样。也没有就垮台了。特别是美国这个国家政府还没有出现以前，这个社会已经在这里了。他们老讲为什么美国的大学自治程度这么高。我说还没有美国，就已经有哈佛大学了。哈佛大学在前，美国在后。那大学的自治能力当然非常强了。因为有社会自组织、自运行、自治的能力，所以基本上看不到社会溃败这个现象。</p>
+  <p>比如像乌干达这种例子，非洲在传统上因为部落政治，然后加上专制政治，从部落出来一个强人，它就是一个专制政治。整个社会还没有自发育、自组织、自运行的能力，当这个政权一旦垮台，这个社会当中就出现了一些杀人，部落之间大面积的灭绝。西方的研究者就说它是social collapse。社会崩溃如果拿到人体来比喻，一个人做了那么多工作，突然嘣一下就歪倒了。我们说这个人collapse。</p>
+  <p>我想这里边可能有一个程度区别。中国今天当然还没有到社会崩溃的程度。这个也和中国政权的控制有关。这个东西是多重的。我们刚才讲政权的强力控制会带来溃败。但是另外一方面，它遇到问题以后，它当然就会采取更强制的措施。病理学来讲呢，你生了一个疖子，这就是孙立平教授讲的身体的细胞机能出了问题，生了一个疖子，它要烂了，我们说它是溃败了。但是有一种治疗方法就是把它狠狠地压住，不让它留浓，也不去给它植根，但要把它压住。它就不断地往里边去发展。这个过程会很很慢很慢，这个人不会明天啪一下就垮掉了。但是一旦垮掉，那就很难很难再治理了，那个病的可能就要命了。</p>
+  <p>所以我想，从社会溃败到社会崩溃，中国的社会政治治理体系具有太久太久远的传统了。它会以一个猛药来控制住这个东西，但是这个病的病源还会向社会的内里去发展，它会带来更多的社会细胞，社会机能溃烂。这是我觉得比较可怕的一个现象。中国一定要找到一种不是完全靠政府的运行方式。如果完全靠政府，那政府哪一天它的运行有问题，那就会出现像乌干达那样一个社会崩溃。</p>
+  <p>但是话又说回来，乌干达经历了一段时间的社会崩溃以后，很快就进入了重建。这个社会今天应该说建得不错，而且这个转变相当的快，也就是二三十年。所以我们中国，老有共产党拿你怕乱的心态来吓唬你。然后你就说：那我就接受你的镇压和控制吧。但是我前面讲过，在这个镇压和控制下也出现了实际上的社会动乱。“管得这么死还这么乱，要是不管，是不是就更严重了呢？”中国人往往就会这么想问题了。但是我想，就算最后完全管死了，它还是乱了，那结果不就一样了？说句难听的话，早早的乱一点，可能还不会乱到死，就像乌干达一样。我觉得中华文明有这么长的历史，它的社会再生的能力应该是很强的。即使哪一天真的发生了社会崩溃，也不是人类的末日，也不是中国的末日。当外在的政治铁桶被砸掉了以后，可能会短暂的有一些失序，但是，社会自主的能力就会成长起来。如果我们现在就去培养社会自治组织能力，这就会更好的去克服社会溃败，也可以避免社会崩溃了。</p>
+  <p><strong>袁莉: </strong>[00:32:07] 其实这就是我下一个想问您的问题，您对在中国大陆生活的普通人有什么建议？每次这类事情发生以后，网上的人，还有我在国内的一些朋友就会说：哎呀，我们尽量少去人多的地方，不要出去，出门干什么的，不要去扎堆。还有就是有一些学校教小孩怎么躲避开车的撞击，您觉得这些应对措施有用吗？您刚才说的这个自组织，在现在这么严的控制下，大家怎么去自组织，怎么可以去做，做什么事情呢？</p>
+  <p><strong>吴国光: </strong>[00:32:42] 我想，就个体来讲做一些技术性的如何防范，如何识别，是不是马上要发生一个紧急情况、异常情况，然后有了这种情况如何反应，特别是在学校里，如果有人对一般的民众普及这样的知识，当然也是一个好的事情。我想我是缺少资格，缺少经验，也缺少能力来提出有价值的实用的个人防范的建议。这是因为我还没有生活在那个社会当中。</p>
+  <p>作为一个研究者，我只能说仅仅有个人的防范是不够的。这是一个相当普遍的社会现象，个人的防范是治标不治本。这个社会实际上发展到了不是个人力量能够防范这些东西，因为防不胜防，这才人人自危。</p>
+  <p>所以我觉得，大家试着发展某种社会自组织的力量。这个东西不是要起来造反，推翻共产党。我希望我们我们能不能搞一个邻里的保安，不是政府来控制我们，而是我们民众自己来保护自己。我知道像这样的东西在中国，共产党一定是不让你做的，但是你不试也不知道，可以试一试嘛。包括反家暴的组织，这个时候也可以站出来看一下。政府既然提出了那些关系失和，无配偶，生活失意这样一些针对的对象，那么我们是不是在这个地方做些事情。让这些非政府组织来针对这些人群去扩大工作的范围，给非政府组织空间来做事。我觉得可以从这些方面去做。</p>
+  <p>如果政府还是不让做，我想大家就可以有更进一步的认识，那就是再下一步的问题了。我们一定不能把个人的人身安全完全放到一个公权力身上。如果公权力可以无所不在的保护你，实际上你也就无所不在的失去了自由。在你还有一定的自由，还有一定的权利的情况下一样能保护自己。我想整个公民社会就是从个体、到家庭、到群体，大家能够有一个守望相助。这不会侵犯你个人的权利，而是你个人和另外一个个体互相合作，在这个合作过程当中，整个社会的信任也会不断地增加。如果中国的政权允许你做这个事情，我还觉得这个政权还没有完全人性灭绝，还是愿意让社会有自主的能力来保护大家基本的安全。如果连这个都不让做，宁愿人们被杀，也不让人们这样做，那还有什么选择，我就不能再说了，我也不知道了。</p>
+  <p><strong>袁莉: </strong>[00:35:36] 好，谢谢，谢谢吴老师，也谢谢大家收听，我们下期再见。</p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#不明白播客 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-28/EP-137-%E8%AE%B8%E6%88%90%E9%92%A2-DeepSeek-%E6%B0%91%E4%BC%81%E5%BA%A7%E8%B0%88%E4%BC%9A%E8%83%BD%E5%90%A6%E9%87%8D%E6%8C%AF%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E-(%E6%96%87%E5%AD%97%E7%89%88/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2022-10-09/EP-020-%E8%94%A1%E9%9C%9E-%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E5%AF%B9%E4%B8%AD%E5%85%B1%E7%BB%9D%E6%9C%9B/">最早</a>--</span>
+    
+      <li>
+        <time>2024-12-28</time>
+        <a href="https://nodebe4.github.io/opinion/2024-12-28/EP-129-2024%E5%B9%B4-%E6%88%91%E7%9A%84-%E4%B8%8D%E6%98%8E%E7%99%BD-%E6%96%87%E5%AD%97%E7%89%88/">
+          EP-129 2024年，我的“不明白”（文字版）
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-12-27</time>
+        <a href="https://nodebe4.github.io/opinion/2024-12-27/EP-129-2024%E5%B9%B4-%E6%88%91%E7%9A%84-%E4%B8%8D%E6%98%8E%E7%99%BD/">
+          EP-129 2024年，我的“不明白”
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-12-21</time>
+        <a href="https://nodebe4.github.io/opinion/2024-12-21/EP-128-%E5%90%B4%E5%9B%BD%E5%85%89-2024%E5%B9%B4-%E4%B8%AD%E5%9B%BD%E5%A6%82%E4%BD%95%E8%B5%B0%E5%90%91%E7%A4%BE%E4%BC%9A%E6%BA%83%E8%B4%A5/">
+          EP-128 吴国光：2024年，中国如何走向社会溃败？
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-12-16</time>
+        <a href="https://nodebe4.github.io/opinion/2024-12-16/EP-127-%E9%A9%AC%E8%81%9A-%E6%88%91%E4%B8%BA%E4%BD%95%E5%9C%A8%E7%BA%BD%E7%BA%A6%E5%BC%80%E8%B5%B0%E7%BA%BF%E5%AE%A2%E5%BA%87%E6%8A%A4%E6%89%80-(%E6%96%87%E5%AD%97%E7%89%88/">
+          EP-127 马聚：我为何在纽约开走线客庇护所？(文字版）
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2024-12-23/%E7%A6%81%E5%BF%8C%E5%8F%B2%E8%A9%B1-%E6%9D%8E%E9%8A%B3%E6%97%A5%E8%A8%98%E7%A7%98%E5%AF%8665-%E6%AF%9B%E5%A4%AB%E4%BA%BA%E9%80%B2%E5%8C%96%E5%8F%B2-%E6%B1%9F%E9%9D%92-8-%E6%B1%9F%E9%9D%92%E4%B9%8B%E6%AD%BB/">
+            前一篇：禁忌史話：李銳日記秘密65｜【毛夫人進化史】江青（8）江青之死
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2024-12-25/%E6%BC%A2%E5%AD%B8%E7%A0%94%E7%A9%B6%E7%9A%84%E7%95%B6%E4%BB%A3%E6%84%8F%E7%BE%A9-%E5%9B%9E%E9%A1%A7%E7%91%9E%E5%85%B8%E4%B8%89%E7%99%BE%E5%B9%B4%E7%9A%84%E6%BC%A2%E5%AD%B8%E5%8F%B2-%E5%B0%96%E7%AB%AF%E8%AC%9B%E5%BA%A7%E7%B3%BB%E5%88%97/">
+            後一篇：漢學研究的當代意義：回顧瑞典三百年的漢學史｜尖端講座系列
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2024-12-23/%E7%A6%81%E5%BF%8C%E5%8F%B2%E8%A9%B1-%E6%9D%8E%E9%8A%B3%E6%97%A5%E8%A8%98%E7%A7%98%E5%AF%8665-%E6%AF%9B%E5%A4%AB%E4%BA%BA%E9%80%B2%E5%8C%96%E5%8F%B2-%E6%B1%9F%E9%9D%92-8-%E6%B1%9F%E9%9D%92%E4%B9%8B%E6%AD%BB/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2024-12-25/%E6%BC%A2%E5%AD%B8%E7%A0%94%E7%A9%B6%E7%9A%84%E7%95%B6%E4%BB%A3%E6%84%8F%E7%BE%A9-%E5%9B%9E%E9%A1%A7%E7%91%9E%E5%85%B8%E4%B8%89%E7%99%BE%E5%B9%B4%E7%9A%84%E6%BC%A2%E5%AD%B8%E5%8F%B2-%E5%B0%96%E7%AB%AF%E8%AC%9B%E5%BA%A7%E7%B3%BB%E5%88%97/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2024-12-27/EP-129-2024%E5%B9%B4-%E6%88%91%E7%9A%84-%E4%B8%8D%E6%98%8E%E7%99%BD/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2024-12-21/EP-128-%E5%90%B4%E5%9B%BD%E5%85%89-2024%E5%B9%B4-%E4%B8%AD%E5%9B%BD%E5%A6%82%E4%BD%95%E8%B5%B0%E5%90%91%E7%A4%BE%E4%BC%9A%E6%BA%83%E8%B4%A5/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2024-12-23/%E7%A6%81%E5%BF%8C%E5%8F%B2%E8%A9%B1-%E6%9D%8E%E9%8A%B3%E6%97%A5%E8%A8%98%E7%A7%98%E5%AF%8665-%E6%AF%9B%E5%A4%AB%E4%BA%BA%E9%80%B2%E5%8C%96%E5%8F%B2-%E6%B1%9F%E9%9D%92-8-%E6%B1%9F%E9%9D%92%E4%B9%8B%E6%AD%BB/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2024-12-25/%E6%BC%A2%E5%AD%B8%E7%A0%94%E7%A9%B6%E7%9A%84%E7%95%B6%E4%BB%A3%E6%84%8F%E7%BE%A9-%E5%9B%9E%E9%A1%A7%E7%91%9E%E5%85%B8%E4%B8%89%E7%99%BE%E5%B9%B4%E7%9A%84%E6%BC%A2%E5%AD%B8%E5%8F%B2-%E5%B0%96%E7%AB%AF%E8%AC%9B%E5%BA%A7%E7%B3%BB%E5%88%97/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<不明白播客>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2024-12-27/EP-129-2024%E5%B9%B4-%E6%88%91%E7%9A%84-%E4%B8%8D%E6%98%8E%E7%99%BD/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<不明白播客>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2024-12-21/EP-128-%E5%90%B4%E5%9B%BD%E5%85%89-2024%E5%B9%B4-%E4%B8%AD%E5%9B%BD%E5%A6%82%E4%BD%95%E8%B5%B0%E5%90%91%E7%A4%BE%E4%BC%9A%E6%BA%83%E8%B4%A5/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

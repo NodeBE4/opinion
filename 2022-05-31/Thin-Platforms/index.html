@@ -1,0 +1,3050 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Thin Platforms – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+Thin Platforms
+——
+" />
+    <meta property="og:description" content="
+Thin Platforms
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Thin Platforms" />
+    <meta property="twitter:title" content="Thin Platforms" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2022%2Fthin-platforms%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2022/thin-platforms/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2022/thin-platforms/&text=Thin Platforms&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2022/thin-platforms/&title=Thin Platforms" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2022/thin-platforms/&title=Thin Platforms" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Thin Platforms&body=
+Thin Platforms
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2022/thin-platforms/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2022/thin-platforms/&title=Thin Platforms&caption=
+Thin Platforms
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Thin Platforms&url=https://stratechery.com/2022/thin-platforms/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Thin Platforms</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-05-31
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2022/thin-platforms/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1654011103000-->
+<p><a href="https://stratechery.com/2022/thin-platforms/">Thin Platforms</a>
+——</p>
+
+<div>
+  <p>The Department of Justice’s <a href="https://www.justice.gov/atr/complaint-us-v-microsoft-corp">1998 complaint against Microsoft</a> accused the company of, amongst other things, tying the Internet Explorer browser to the Windows operating system:</p>
+  <blockquote>
+    <p>Internet browsers are separate products competing in a separate product market from PC operating systems, and it is efficient to supply the two products separately. Indeed, Microsoft itself has consistently offered, promoted, and distributed its Internet browser as a stand-alone product separate from, and not as a component of, Windows, and intends to continue to do so after the release of Windows 98…</p>
+    <p>Microsoft’s tying of its Internet browser to its monopoly operating system reduces the ability of customers to choose among competing browser products because it forces OEMs and other purchasers to license or acquire the tied combination whether they want Microsoft’s Internet browser or not. Microsoft’s tying — which it can accomplish because of its monopoly power in Windows — impairs the ability of its browser rivals to compete to have their browsers preinstalled by OEMs on new PCs and thus substantially forecloses those rivals from an important channel of browser distribution.</p>
+  </blockquote>
+  <p>In retrospect, the complaint feels quaint for three reasons:</p>
+  <p>First, Microsoft won the browser wars, and it didn’t matter; after peaking at 95% market share in 2004, Internet Explorer was first challenged by Firefox, which peaked at 32% market share in 2010, and then surpassed by Chrome in 2012:</p>
+  <div align="center">
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/es9DNe0l0Qo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+  </div>
+  <p>The reasons ended up being both a condemnation and an endorsement of the libertarian defense of Microsoft’s actions, depending on your timeframe: sure, the company leveraged its operating system dominance to gain browser market share, but the company also made a great browser (I personally switched with the release of version 4). And then, with Version 6 and its position seemingly secured, the company just stopped development; that is what opened the door to first Firefox and then Chrome, both of which were downloaded and installed by end users looking for something better. The market worked, eventually.</p>
+  <p>Of course, the reason the market could work is that Windows was an open platform: sure, Microsoft controlled (and allegedly abused) what could be preinstalled on a new computer, but once said computer was in a user’s hands they could install whatever they wanted to, including alternative browsers. That gets to the second reason why the complaint feels quaint: today having a browser pre-installed is de rigueur for operating systems, and Apple’s iOS goes much further than simply pre-installing Safari: all alternative browsers must use Apple’s built-in rendering engine, which means they can only compete on user interface features, not fundamental functionality.<sup id="rf1-9105"><a href="https://stratechery.com/2022/thin-platforms/#fn1-9105" title="Apple argues, not without merit, that this is for security reasons; critics argue, &lt;a href=&quot;https://infrequently.org/2021/04/progress-delayed/&quot;&gt;with considerable&lt;/a&gt; | &lt;a href=&quot;https://httptoolkit.tech/blog/safari-is-killing-the-web/&quot;&gt;merit&lt;/a&gt;, that this restricts innovation on iOS and meaningful competition with the App Store." rel="footnote">1</a></sup></p>
+  <p>The third reason has to do with Microsoft itself.</p>
+  <h4 id="thick-and-thin">Thick and Thin</h4>
+  <p>As <a href="https://stratechery.com/2022/microsoft-build-thick-versus-thin-ai-platforms/">I noted last week in an Update</a>, one of the overarching themes of CEO Satya Nadella’s <a href="https://news.microsoft.com/build2022/">Build developer conference keynote</a> was the seemingly eternal tech debate about thin versus thick clients (to dramatically simplify — and run the risk of starting of a flame war — thin clients are terminals for a centralized computer, while thick clients are computers in their own right, that sync):</p>
+  <blockquote>
+    <p>The biggest takeaway from this keynote is that for developers, at least the ones that Microsoft is courting, the thin client model has won — although the truth, as is so often the case with tech holy wars, has ended up somewhere in the middle. Here is the key distinction: there is and will continue to be a lot of work that happens locally; all of the assumptions around that work, though, will be as if the work is being done on the server. For example:</p>
+    <ul>
+      <li>GitHub Codespaces is an explicitly online environment that you can temporarily use locally.</li>
+      <li>Azure Arc provides the the Azure control plane for an on-premises development environment.</li>
+      <li>The Azure Container Apps service and Azure Kubernetes Service enable developers to write locally in the same environment they deploy to the cloud.</li>
+    </ul>
+    <p>Moreover, several other of the announcements were about patching up limitations in cloud development relative to local: Microsoft Dev Box, for example, enables the deployment of cloud-based VM’s that mimic a local development environment for things like app development; Microsoft Cloud PC (which was previously announced) does the same thing for client applications.</p>
+  </blockquote>
+  <p>What makes this shift so striking is that it is being articulated by Microsoft; after all, Windows (along with Intel) was the dominant winner of the thick client era. Yes, Windows Server was an integral part of Microsoft’s enterprise dominance, but the foundation of the company’s strategy — as evidenced by the tactics used in the fight against Netscape — was the fact that Windows was the operating system on the devices people used. That, by extension, was precisely why mobile was so disruptive to the company: suddenly Windows was only on <em>some</em> of the devices people used; iOS and Android were on a whole bunch of them as well.</p>
+  <p>I’ve spent <a href="https://stratechery.com/company/microsoft/">many articles</a> writing about how Satya Nadella <a href="https://stratechery.com/2018/the-end-of-windows/">weaned Microsoft off of its Windows-centric strategy</a>; the pertinent point in terms of this Article comes from <a href="https://stratechery.com/2020/the-slack-social-network/">Teams OS and the Slack Social Network</a>:</p>
+  <blockquote>
+    <p>The end of Windows as the center of Microsoft’s approach, and the shift to the cloud, though, did not mean the end of Microsoft’s focus on integration, or its attempt to be an operating system; the company simply changed its definition of what an operating system was; Satya Nadella said at <a href="https://stratechery.com/2019/satya-nadella-on-microsoft/">a press briefing in 2019</a>:</p>
+    <blockquote>
+      <p>The other effort for us is what we describe as Microsoft 365. What we are trying to do is bring home that notion that it’s about the user, the user is going to have relationships with other users and other people, they’re going to have a bunch of artifacts, their schedules, their projects, their documents, many other things, their to-do’s, and they are going to use a variety of different devices. That’s what Microsoft 365 is all about.</p>
+      <p>Sometimes I think the new OS is not going to start from the hardware, because the classic OS definition, that Tanenbaum, one of the guys who wrote <a href="https://en.wikipedia.org/wiki/Modern_Operating_Systems">the book on Operating Systems</a> that I read when I went to school was: “It does two things, it abstracts hardware, and it creates an app model”. Right now the abstraction of hardware has to start by abstracting <em>all</em> of the hardware in your life, so the notion that this is one device is interesting and important, it doesn’t mean the kernel that boots your device just goes away, it still exists, but the point of real relevance I think in our lives is “hey, what’s that abstraction of all the hardware in my life that I use?” – some of it is shared, some of it is personal. And then, what’s the app model for it? How do I write an experience that transcends all of that hardware? And that’s really what our pursuit of Microsoft 365 is all about.</p>
+    </blockquote>
+    <p>This is where Teams thrives: if you fully commit to the Microsoft ecosystem, one app combines your contacts, conversations, phone calls, access to files, 3rd-party applications, in a way that “just works”…This is what Slack — and Silicon Valley, generally — failed to understand about Microsoft’s competitive advantage: the company doesn’t win just because it bundles, or because it has a superior ground game. By virtue of doing everything, even if mediocrely, the company is providing a whole that is greater than the sum of its parts, particularly for the non-tech workers that are in fact most of the market. Slack may have infused its chat client with love, but chatting is a means to an end, and Microsoft often seems like the only enterprise company that understands that.</p>
+  </blockquote>
+  <p>Note that line about “3rd-party applications”: if Teams is the Windows of Microsoft’s new services strategy, then it follows that the platform opportunity for developers in Microsoft’s ecosystem is itself centered on Teams; that’s exactly what Nadella described in the Build keynote:</p>
+  <div align="center">
+    <div id="v-yVzhW84D-1" class="video-player">
+      <video id="v-yVzhW84D-1-video" width="640" height="360" poster="https://videos.files.wordpress.com/yVzhW84D/thinplatform-teams_mp4_dvd.original.jpg" controls="true" preload="metadata" dir="ltr" lang="en"><source src="https://videos.files.wordpress.com/yVzhW84D/thinplatform-teams_mp4_dvd.mp4" type="video/mp4; codecs=&quot;avc1.64001E, mp4a.40.2&quot;" /><div>
+<img alt="" src="https://videos.files.wordpress.com/yVzhW84D/thinplatform-teams_mp4_dvd.original.jpg?resize=640%2C360" width="640" height="360" data-recalc-dims="1" />
+        </div></video>
+    </div>
+  </div>
+  <blockquote>
+    <p>Let’s talk about the future of work and how we’re making apps more contextual and people-centric, so you can build a new class of collaborative applications. It starts with Microsoft Graph, which underlies Microsoft 365 and makes available to you information about people, their relationships, and all of their artifacts. Today we are seeing developers around the world enriching their apps with Microsoft Graph. In fact, more than half of the Microsoft 365 tenant are using custom-built and 3rd-party apps powered by the Graph. With Graph connectors ISVs can extend their applications and have them be discovered as part of the user’s everyday tasks, whether they are writing an email, meeting on Teams, or doing a search. For example, data from an app can appear directly in an organization’s search results, as you can see in the experience Figma is building here. You can compose a mail and @-mention files from these apps in-line, and you can access them in Teams chat too. Another way that you can create interactive experiences is by building live actionable loop component using adaptive cards like partner Zoho does. Your users can make decisions and take action like updating the status of a ticket right in the flow of work, and updates are always live, like this one across Outlook, Teams, and Zoho.</p>
+    <p>When you combine the Microsoft Graph with Microsoft Teams, you combine the data that describes how people work together with the place they work together. It’s incredibly powerful, and developers are extending their apps into Teams and embedding Teams in their apps. In fact, monthly usage of 3rd-party apps and custom-built solutions on Teams has grown 10x over the last two years, and more and more ISVs are generating millions of [dollars in] revenue from customers using apps built on Teams.</p>
+  </blockquote>
+  <p>“Graph connectors” are the new APIs.</p>
+  <h4 id="windows-versus-teams">Windows versus Teams</h4>
+  <p>If the Windows platform looked like this…</p>
+  <p><img loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/05/thinplatforms-2.png?resize=640%2C334&#038;ssl=1" alt="The Windows &quot;thick&quot; platform" width="640" height="334" class="aligncenter size-large wp-image-9111" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/05/thinplatforms-2.png?resize=1024%2C535&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/05/thinplatforms-2.png?resize=300%2C157&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/05/thinplatforms-2.png?resize=768%2C401&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/05/thinplatforms-2.png?resize=1200%2C627&amp;ssl=1 1200w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/05/thinplatforms-2.png?w=1280&amp;ssl=1 1280w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>…then the new Teams platform looks like this:</p>
+  <p><img loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/05/thinplatforms-3.png?resize=640%2C362&#038;ssl=1" alt="The Teams &quot;thin&quot; platform" width="640" height="362" class="aligncenter size-large wp-image-9110" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/05/thinplatforms-3.png?resize=1024%2C579&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/05/thinplatforms-3.png?resize=300%2C170&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/05/thinplatforms-3.png?resize=768%2C434&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/05/thinplatforms-3.png?resize=1114%2C630&amp;ssl=1 1114w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/05/thinplatforms-3.png?w=1280&amp;ssl=1 1280w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>There are a few important observations to make about these differences.</p>
+  <p>First, in the PC era the monopoly that mattered was being the only operating system on a single device. This, to be clear, is a technical necessity — while a PC could dual-boot into different operating systems, only one can run at a time<sup id="rf2-9105"><a href="https://stratechery.com/2022/thin-platforms/#fn2-9105" title="Absent virtualization, although that wasn&#8217;t really feasible on user-level PCs at the time Windows was establishing its dominance" rel="footnote">2</a></sup> — but it was the foundation of Windows’ market monopoly. After all, whichever operating system was running on the most devices most of the time was the operating system that developers would target; the more developers on a particular operating system, the more popular that operating system would be amongst end users, resulting in a virtuous cycle, aka a two-sided network, aka lock-in, aka a monopoly.</p>
+  <p>Once mobile came along, though, not only did the number of devices proliferate, but so did the need for new user interfaces, power requirements, hardware re-imagining, etc.; this made it inevitable that <a href="https://stratechery.com/2014/microsofts-mobile-muddle/">Microsoft would miss mobile</a>, because the company was approaching the problem from the completely wrong perspective.<sup id="rf3-9105"><a href="https://stratechery.com/2022/thin-platforms/#fn3-9105" title="This &lt;a href=&quot;https://stratechery.com/2022/an-interview-with-father-of-the-ipod-tony-fadell/&quot;&gt;interview with Tony Fadell&lt;/a&gt; includes an excellent discussion on this point in the context of Intel, which applies just as much to Microsoft." rel="footnote">3</a></sup> At the same time, this proliferation of devices meant that the point of integration — which enterprises still craved — moved up the stack. I wrote in 2015’s <a href="https://stratechery.com/2015/redmond-reality/">Redmond and Reality</a>:<sup id="rf4-9105"><a href="https://stratechery.com/2022/thin-platforms/#fn4-9105" title="With, I am ashamed to admit, probably the worst drawing in the history of Stratechery; as I recall I was late to a Chinese New Years&#8217; Eve dinner!" rel="footnote">4</a></sup></p>
+  <blockquote>
+    <p>That is because there is in fact a need for an integrated solution on mobile. Look at Box, for example: the company obviously has a cloud component, but they also have multiple apps for every relevant — and non-relevant! — platform resulting in much better functionality than what Microsoft previously had to offer. Multiply that advantage across a whole host of services and it starts to make sense for the CIO to modularize her backend services in order to achieve integration when it comes to how those services are accessed:</p>
+    <p><a href="https://stratechery.com/2015/redmond-reality/"><img loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2015/02/image-30.jpg?resize=640%2C480&#038;ssl=1" alt="A drawing of Pre-Cloud and post-Cloud Services" width="640" height="480" class="aligncenter size-large wp-image-1456" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2015/02/image-30.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2015/02/image-30.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2015/02/image-30.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2015/02/image-30.jpg?resize=840%2C630&amp;ssl=1 840w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></a></p>
+  </blockquote>
+  <p>This is exactly what Microsoft would go on to build with Teams: the beautiful thing about chat is that like any social product it is only as useful as the number of people who are using it, which is to say it only works if it is a monopoly — everyone in the company needs to be on board, and they need to not be using anything else. That, by extension, sets up Teams to play the Windows role, but instead of monopolizing an individual PC, it monopolizes an entire company.</p>
+  <p>Second, developers had much more power and flexibility in the old model, because they had direct access to the underlying PC. This had both advantages — anyone could make an app that could do anything, and users could install it directly — and disadvantages — anyone could make an app that could do anything, and users could install it directly. In other words, the same openness of the PC that presented an opportunity for Firefox and Chrome to dethrone Internet Explorer — and for Netscape to exist in the first place — also presented an opportunity for viruses, malware, and ransomeware.</p>
+  <p>This latter point is the justification that Apple returns to repeatedly for its App Store model, even though a significant portion of the increased security of mobile devices is due to fundamentally different architectural choices made in designing the underlying operating system. Then again, these arguments go hand-in-hand: it’s those architectural choices in iOS (and Android) design that make App Store control possible; the broader point is that mobile set the expectation that developer freedom — and by extension, opportunity — would be limited by the operating system owner.</p>
+  <p>A thin platform like Teams takes this even further, because now developers don’t even have access to the devices, at least in a way that matters to an enterprise (i.e. how useful is an app on your phone that doesn’t connect to the company’s directory, file storage, network, etc.). That means the question isn’t about what system APIs are ruled to be off-limits, but what “connectors” (to use Microsoft’s term) the platform owner deigns to build. In other words, not only did Microsoft build their new operating system as a thin platform, they ended up with far more control than they ever could have achieved with their old thick platform.</p>
+  <h4 id="stripe-os">Stripe OS</h4>
+  <p>Build wasn’t the only developer conference last week: Stripe also held <a href="https://sessions.stripe.com/keynote">Stripe Sessions</a>, and one of the tentpole sections of the keynote was called “Finance OS”. Here’s Stripe co-founder and President John Collison:</p>
+  <div align="center">
+    <div id="v-gIeBXIi2-1" class="video-player">
+      <video id="v-gIeBXIi2-1-video" width="640" height="356" poster="https://videos.files.wordpress.com/gIeBXIi2/thinplatform-stripeos_mov_dvd.original.jpg" controls="true" preload="metadata" dir="ltr" lang="en"><source src="https://videos.files.wordpress.com/gIeBXIi2/thinplatform-stripeos_mov_dvd.mp4" type="video/mp4; codecs=&quot;avc1.64001E, mp4a.40.2&quot;" /><div>
+<img alt="" src="https://videos.files.wordpress.com/gIeBXIi2/thinplatform-stripeos_mov_dvd.original.jpg?resize=640%2C356" width="640" height="356" data-recalc-dims="1" />
+        </div></video>
+    </div>
+  </div>
+  <blockquote>
+    <p>We’ve talked about payments, and how they’re highly strategic, and rapidly fragmenting, and we’ve talked about the business model innovations of adaptive enterprises and fintech everywhere. These trends are great news for the Internet economy, but a challenge for finance and business operations teams. The rate limiter for so many new opportunities isn’t the idea for a great product; it’s the mundane foundations. “Can we build for this? Can we get international operations off of the ground? Can we expand when we’re still not closing our books on time?” It’s never just about having the idea for a great product, it’s about being able to operate it, and that’s why we’re building a modern operating system for finance, and like any good OS, we’re focused on nailing the basics.</p>
+  </blockquote>
+  <p>Those basics included features like invoicing, billing, taxes, revenue recognition, and data pipelines, all of which sit on top of the various ways to gather, store, and distribute money that Stripe has abstracted away:</p>
+  <p><img loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/05/thinplatforms-6.png?resize=640%2C354&#038;ssl=1" alt="The Stripe OS" width="640" height="354" class="aligncenter size-large wp-image-9107" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/05/thinplatforms-6.png?resize=1024%2C566&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/05/thinplatforms-6.png?resize=300%2C166&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/05/thinplatforms-6.png?resize=768%2C424&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/05/thinplatforms-6.png?resize=1141%2C630&amp;ssl=1 1141w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/05/thinplatforms-6.png?w=1280&amp;ssl=1 1280w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>This image, given its similarity to the one above, makes clear what was coming next:</p>
+  <div align="center">
+    <div id="v-5dKdhM5I-1" class="video-player">
+      <video id="v-5dKdhM5I-1-video" width="640" height="356" poster="https://videos.files.wordpress.com/5dKdhM5I/thinplatform-stripeapps_mov_dvd.original.jpg" controls="true" preload="metadata" dir="ltr" lang="en"><source src="https://videos.files.wordpress.com/5dKdhM5I/thinplatform-stripeapps_mov_dvd.mp4" type="video/mp4; codecs=&quot;avc1.64001E, mp4a.40.2&quot;" /><div>
+<img alt="" src="https://videos.files.wordpress.com/5dKdhM5I/thinplatform-stripeapps_mov_dvd.original.jpg?resize=640%2C356" width="640" height="356" data-recalc-dims="1" />
+        </div></video>
+    </div>
+  </div>
+  <blockquote>
+    <p>So we just heard about core revenue management capabilities, like invoicing, subscription billing, and handling tax. Even if you’re not using Stripe, these are the things you should want running like clockwork.</p>
+    <p>But what about everything else? It’s like any operating system: core functionality needs to work perfectly out of the box, but the breadth of functionality of the platform is also really important, having an app to solve every use case. For things like customer messaging, you might want to use something like Intercom; for contracts, DocuSign; or, you might just to build your own tool. But often these workflows are highly integrated, so for years our users have been asking us for the tools of their choice to interoperate with Stripe…</p>
+    <p>We’re thrilled to launch today Stripe Apps and the Stripe App Marketplace, where you can find or build best-of-breed tools that work naturally with Stripe.</p>
+  </blockquote>
+  <p>There are the missing pieces!</p>
+  <p><img loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/05/thinplatforms-4.png?resize=640%2C354&#038;ssl=1" alt="The Stripe thin platform" width="640" height="354" class="aligncenter size-large wp-image-9109" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/05/thinplatforms-4.png?resize=1024%2C566&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/05/thinplatforms-4.png?resize=300%2C166&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/05/thinplatforms-4.png?resize=768%2C424&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/05/thinplatforms-4.png?resize=1141%2C630&amp;ssl=1 1141w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/05/thinplatforms-4.png?w=1280&amp;ssl=1 1280w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>“Working naturally with Stripe” doesn’t simply mean access to Stripe’s APIs; it means fitting in to the Stripe dashboard — Stripe is even including pre-made UI components so that 3rd-party apps look like they were designed by the fintech company:</p>
+  <p><img loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/05/thinplatforms-1.png?resize=640%2C361&#038;ssl=1" alt="Stripe offers pre-made UI components for integrating into the Stripe dashboard" width="640" height="361" class="aligncenter size-large wp-image-9106" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/05/thinplatforms-1.png?resize=1024%2C577&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/05/thinplatforms-1.png?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/05/thinplatforms-1.png?resize=768%2C433&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/05/thinplatforms-1.png?resize=1118%2C630&amp;ssl=1 1118w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/05/thinplatforms-1.png?w=1280&amp;ssl=1 1280w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>This is another thin platform: developers don’t have access to the core financial data of a company, nor does IT want them to; instead the opportunity is to sit on top of an abstraction layer that covers all of a company’s money-moving pieces, and to fit in as best as you can.</p>
+  <hr />
+  <p>Of course I am covering the Build and Stripe Sessions keynotes together because both happened the same week; at the same time, it was a fortuitous coincidence, because Stripe’s announcement brings important context to Microsoft’s approach. After all, I used the magic word “monopoly”; the truth, though, is that not only was an operating system monopoly inevitable, it also made perfect sense from a user perspective that important functionality — like browsing — became integrated with the core OS.</p>
+  <p>Collison made the case as to why similar considerations should be front-and-center for thin platforms — there are things “you should want running like clockwork.” Microsoft would make a similar argument about Teams and its incorporation of things like file storage and communications, and, I would argue, Teams’ success in the market relative to Slack is evidence that the argument is a compelling one to customers. That Microsoft has so often seemed like the only enterprise company actually building for an enterprise’s ends, instead of solipsistically obsessing over being best-of-breed for one specific means, seems worth celebrating and emulating, not condemning and complaining.</p>
+  <p>At the same time, it is also worth mourning the slow eclipse of the thick client model. Yes, things like malware were a pain and a drain on productivity, and the SaaS model has led to a plethora of new products that are accessible to companies without needing an IT department, but the big downside of the thick model in terms of what could go wrong and the necessity of IT created the conditions for massive upside, in this case the opportunity to make new apps — and by extension, new companies — without needing any permission, “connectors” or pre-made UI components. Alas, the tech industry is past <a href="https://stratechery.com/2020/the-end-of-the-beginning/">the end of the beginning</a>; welcome to middle age, where the only thickness is your waistline.</p>
+  <hr class="footnotes" />
+  <ol class="footnotes" style="list-style-type:decimal">
+    <li id="fn1-9105">
+      <p>Apple argues, not without merit, that this is for security reasons; critics argue, <a href="https://infrequently.org/2021/04/progress-delayed/">with considerable</a> | <a href="https://httptoolkit.tech/blog/safari-is-killing-the-web/">merit</a>, that this restricts innovation on iOS and meaningful competition with the App Store. <a href="https://stratechery.com/2022/thin-platforms/#rf1-9105" class="backlink" title="Return to footnote 1.">↩</a></p>
+    </li>
+    <li id="fn2-9105">
+      <p>Absent virtualization, although that wasn’t really feasible on user-level PCs at the time Windows was establishing its dominance <a href="https://stratechery.com/2022/thin-platforms/#rf2-9105" class="backlink" title="Return to footnote 2.">↩</a></p>
+    </li>
+    <li id="fn3-9105">
+      <p>This <a href="https://stratechery.com/2022/an-interview-with-father-of-the-ipod-tony-fadell/">interview with Tony Fadell</a> includes an excellent discussion on this point in the context of Intel, which applies just as much to Microsoft. <a href="https://stratechery.com/2022/thin-platforms/#rf3-9105" class="backlink" title="Return to footnote 3.">↩</a></p>
+    </li>
+    <li id="fn4-9105">
+      <p>With, I am ashamed to admit, probably the worst drawing in the history of Stratechery; as I recall I was late to a Chinese New Years’ Eve dinner! <a href="https://stratechery.com/2022/thin-platforms/#rf4-9105" class="backlink" title="Return to footnote 4.">↩</a></p>
+    </li>
+  </ol>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2022-06-21</time>
+        <a href="https://nodebe4.github.io/opinion/2022-06-21/Data-and-Definitions/">
+          Data and Definitions
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-06-13</time>
+        <a href="https://nodebe4.github.io/opinion/2022-06-13/Zero-COVID-and-Free-Speech/">
+          Zero-COVID and Free Speech
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-05-23</time>
+        <a href="https://nodebe4.github.io/opinion/2022-05-23/Warner-Bros.-Discovery/">
+          Warner Bros. Discovery
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-05-10</time>
+        <a href="https://nodebe4.github.io/opinion/2022-05-10/Cable-s-Last-Laugh/">
+          Cable’s Last Laugh
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-05-31/720-%E9%87%8D%E8%BF%94%E5%A4%A9%E5%AE%89%E9%96%80-%E5%9C%A8%E5%A4%B1%E6%86%B6%E7%9A%84%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B-%E8%BF%BD%E5%B0%8B%E5%85%AD%E5%9B%9B%E7%9A%84%E6%AD%B7%E5%8F%B2%E7%9C%9F%E7%9B%B8/">
+            前一篇：720 重返天安門：在失憶的人民共和國，追尋六四的歷史真相
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-06-01/%E9%99%B6%E8%88%87%E6%88%B2-%E6%88%B0%E7%88%AD%E7%89%87%E5%BF%85%E7%9C%8B-%E9%9B%B7%E9%9C%86%E6%95%91%E5%85%B5/">
+            後一篇：【陶與戲】戰爭片必看：雷霆救兵
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-05-31/720-%E9%87%8D%E8%BF%94%E5%A4%A9%E5%AE%89%E9%96%80-%E5%9C%A8%E5%A4%B1%E6%86%B6%E7%9A%84%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B-%E8%BF%BD%E5%B0%8B%E5%85%AD%E5%9B%9B%E7%9A%84%E6%AD%B7%E5%8F%B2%E7%9C%9F%E7%9B%B8/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-06-01/%E9%99%B6%E8%88%87%E6%88%B2-%E6%88%B0%E7%88%AD%E7%89%87%E5%BF%85%E7%9C%8B-%E9%9B%B7%E9%9C%86%E6%95%91%E5%85%B5/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-06-13/Zero-COVID-and-Free-Speech/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-05-23/Warner-Bros.-Discovery/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-05-31/720-%E9%87%8D%E8%BF%94%E5%A4%A9%E5%AE%89%E9%96%80-%E5%9C%A8%E5%A4%B1%E6%86%B6%E7%9A%84%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B-%E8%BF%BD%E5%B0%8B%E5%85%AD%E5%9B%9B%E7%9A%84%E6%AD%B7%E5%8F%B2%E7%9C%9F%E7%9B%B8/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-06-01/%E9%99%B6%E8%88%87%E6%88%B2-%E6%88%B0%E7%88%AD%E7%89%87%E5%BF%85%E7%9C%8B-%E9%9B%B7%E9%9C%86%E6%95%91%E5%85%B5/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-06-13/Zero-COVID-and-Free-Speech/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-05-23/Warner-Bros.-Discovery/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

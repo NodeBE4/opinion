@@ -1,0 +1,1053 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>“閣樓上的瘋女人”，今天依然存在｜圍爐共讀會《閣樓上的瘋女人》 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+“閣樓上的瘋女人”，今天依然存在｜圍爐共讀會《閣樓上的瘋女人》
+——
+" />
+    <meta property="og:description" content="
+“閣樓上的瘋女人”，今天依然存在｜圍爐共讀會《閣樓上的瘋女人》
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="“閣樓上的瘋女人”，今天依然存在｜圍爐共讀會《閣樓上的瘋女人》" />
+    <meta property="twitter:title" content="“閣樓上的瘋女人”，今天依然存在｜圍爐共讀會《閣樓上的瘋女人》" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fmatters.news%2F%40weiluflame%2F%25E9%2596%25A3%25E6%25A8%2593%25E4%25B8%258A%25E7%259A%2584%25E7%2598%258B%25E5%25A5%25B3%25E4%25BA%25BA-%25E4%25BB%258A%25E5%25A4%25A9%25E4%25BE%259D%25E7%2584%25B6%25E5%25AD%2598%25E5%259C%25A8-%25E5%259C%258D%25E7%2588%2590%25E5%2585%25B1%25E8%25AE%2580%25E6%259C%2583-%25E9%2596%25A3%25E6%25A8%2593%25E4%25B8%258A%25E7%259A%2584%25E7%2598%258B%25E5%25A5%25B3%25E4%25BA%25BA-bafyreicjjipzrwcmmbpbuk6ntd43rebo4x7djsutfkol4jdqaeyh7csuum" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://matters.news/@weiluflame/%E9%96%A3%E6%A8%93%E4%B8%8A%E7%9A%84%E7%98%8B%E5%A5%B3%E4%BA%BA-%E4%BB%8A%E5%A4%A9%E4%BE%9D%E7%84%B6%E5%AD%98%E5%9C%A8-%E5%9C%8D%E7%88%90%E5%85%B1%E8%AE%80%E6%9C%83-%E9%96%A3%E6%A8%93%E4%B8%8A%E7%9A%84%E7%98%8B%E5%A5%B3%E4%BA%BA-bafyreicjjipzrwcmmbpbuk6ntd43rebo4x7djsutfkol4jdqaeyh7csuum" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://matters.news/@weiluflame/%E9%96%A3%E6%A8%93%E4%B8%8A%E7%9A%84%E7%98%8B%E5%A5%B3%E4%BA%BA-%E4%BB%8A%E5%A4%A9%E4%BE%9D%E7%84%B6%E5%AD%98%E5%9C%A8-%E5%9C%8D%E7%88%90%E5%85%B1%E8%AE%80%E6%9C%83-%E9%96%A3%E6%A8%93%E4%B8%8A%E7%9A%84%E7%98%8B%E5%A5%B3%E4%BA%BA-bafyreicjjipzrwcmmbpbuk6ntd43rebo4x7djsutfkol4jdqaeyh7csuum&text=“閣樓上的瘋女人”，今天依然存在｜圍爐共讀會《閣樓上的瘋女人》&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://matters.news/@weiluflame/%E9%96%A3%E6%A8%93%E4%B8%8A%E7%9A%84%E7%98%8B%E5%A5%B3%E4%BA%BA-%E4%BB%8A%E5%A4%A9%E4%BE%9D%E7%84%B6%E5%AD%98%E5%9C%A8-%E5%9C%8D%E7%88%90%E5%85%B1%E8%AE%80%E6%9C%83-%E9%96%A3%E6%A8%93%E4%B8%8A%E7%9A%84%E7%98%8B%E5%A5%B3%E4%BA%BA-bafyreicjjipzrwcmmbpbuk6ntd43rebo4x7djsutfkol4jdqaeyh7csuum&title=“閣樓上的瘋女人”，今天依然存在｜圍爐共讀會《閣樓上的瘋女人》" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://matters.news/@weiluflame/%E9%96%A3%E6%A8%93%E4%B8%8A%E7%9A%84%E7%98%8B%E5%A5%B3%E4%BA%BA-%E4%BB%8A%E5%A4%A9%E4%BE%9D%E7%84%B6%E5%AD%98%E5%9C%A8-%E5%9C%8D%E7%88%90%E5%85%B1%E8%AE%80%E6%9C%83-%E9%96%A3%E6%A8%93%E4%B8%8A%E7%9A%84%E7%98%8B%E5%A5%B3%E4%BA%BA-bafyreicjjipzrwcmmbpbuk6ntd43rebo4x7djsutfkol4jdqaeyh7csuum&title=“閣樓上的瘋女人”，今天依然存在｜圍爐共讀會《閣樓上的瘋女人》" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=“閣樓上的瘋女人”，今天依然存在｜圍爐共讀會《閣樓上的瘋女人》&body=
+“閣樓上的瘋女人”，今天依然存在｜圍爐共讀會《閣樓上的瘋女人》
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://matters.news/@weiluflame/%E9%96%A3%E6%A8%93%E4%B8%8A%E7%9A%84%E7%98%8B%E5%A5%B3%E4%BA%BA-%E4%BB%8A%E5%A4%A9%E4%BE%9D%E7%84%B6%E5%AD%98%E5%9C%A8-%E5%9C%8D%E7%88%90%E5%85%B1%E8%AE%80%E6%9C%83-%E9%96%A3%E6%A8%93%E4%B8%8A%E7%9A%84%E7%98%8B%E5%A5%B3%E4%BA%BA-bafyreicjjipzrwcmmbpbuk6ntd43rebo4x7djsutfkol4jdqaeyh7csuum" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://matters.news/@weiluflame/%E9%96%A3%E6%A8%93%E4%B8%8A%E7%9A%84%E7%98%8B%E5%A5%B3%E4%BA%BA-%E4%BB%8A%E5%A4%A9%E4%BE%9D%E7%84%B6%E5%AD%98%E5%9C%A8-%E5%9C%8D%E7%88%90%E5%85%B1%E8%AE%80%E6%9C%83-%E9%96%A3%E6%A8%93%E4%B8%8A%E7%9A%84%E7%98%8B%E5%A5%B3%E4%BA%BA-bafyreicjjipzrwcmmbpbuk6ntd43rebo4x7djsutfkol4jdqaeyh7csuum&title=“閣樓上的瘋女人”，今天依然存在｜圍爐共讀會《閣樓上的瘋女人》&caption=
+“閣樓上的瘋女人”，今天依然存在｜圍爐共讀會《閣樓上的瘋女人》
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=“閣樓上的瘋女人”，今天依然存在｜圍爐共讀會《閣樓上的瘋女人》&url=https://matters.news/@weiluflame/%E9%96%A3%E6%A8%93%E4%B8%8A%E7%9A%84%E7%98%8B%E5%A5%B3%E4%BA%BA-%E4%BB%8A%E5%A4%A9%E4%BE%9D%E7%84%B6%E5%AD%98%E5%9C%A8-%E5%9C%8D%E7%88%90%E5%85%B1%E8%AE%80%E6%9C%83-%E9%96%A3%E6%A8%93%E4%B8%8A%E7%9A%84%E7%98%8B%E5%A5%B3%E4%BA%BA-bafyreicjjipzrwcmmbpbuk6ntd43rebo4x7djsutfkol4jdqaeyh7csuum" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>“閣樓上的瘋女人”，今天依然存在｜圍爐共讀會《閣樓上的瘋女人》</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2021-11-10
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: 围炉weiluflame</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#围炉">
+          围炉
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://matters.news/@weiluflame/%E9%96%A3%E6%A8%93%E4%B8%8A%E7%9A%84%E7%98%8B%E5%A5%B3%E4%BA%BA-%E4%BB%8A%E5%A4%A9%E4%BE%9D%E7%84%B6%E5%AD%98%E5%9C%A8-%E5%9C%8D%E7%88%90%E5%85%B1%E8%AE%80%E6%9C%83-%E9%96%A3%E6%A8%93%E4%B8%8A%E7%9A%84%E7%98%8B%E5%A5%B3%E4%BA%BA-bafyreicjjipzrwcmmbpbuk6ntd43rebo4x7djsutfkol4jdqaeyh7csuum" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="围炉的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#围炉 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1636541893000-->
+<p><a href="https://matters.news/@weiluflame/%E9%96%A3%E6%A8%93%E4%B8%8A%E7%9A%84%E7%98%8B%E5%A5%B3%E4%BA%BA-%E4%BB%8A%E5%A4%A9%E4%BE%9D%E7%84%B6%E5%AD%98%E5%9C%A8-%E5%9C%8D%E7%88%90%E5%85%B1%E8%AE%80%E6%9C%83-%E9%96%A3%E6%A8%93%E4%B8%8A%E7%9A%84%E7%98%8B%E5%A5%B3%E4%BA%BA-bafyreicjjipzrwcmmbpbuk6ntd43rebo4x7djsutfkol4jdqaeyh7csuum">“閣樓上的瘋女人”，今天依然存在｜圍爐共讀會《閣樓上的瘋女人》</a>
+——</p>
+
+<div>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/c15bfebd-b8f9-4353-b65d-26a7e49e86f5.png" data-asset-id="c15bfebd-b8f9-4353-b65d-26a7e49e86f5" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>希區柯克的《驚魂記》中有一個鏡頭，一個女性的身影出現在閣樓的窗戶上，看不清面龐，卻焦躁不安。《驚魂記》盡管是一部刻畫精神疾病的電影，卻暗中影射了女性的生存境況和內在狂熱的「嫉妒」，如果這不是一種誤讀，這一鏡頭便是「閣樓上的瘋女人」的極生動的寫照。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/8d0f7921-ba6e-4e63-ab53-15b63ba715e6.webp" data-asset-id="8d0f7921-ba6e-4e63-ab53-15b63ba715e6" referrerpolicy="no-referrer" />    <figcaption>
+<span>圖片出自希區柯克的電影《驚魂記》</span>
+    </figcaption>
+  </figure>
+  <h2 id="section"><strong>關於《閣樓上的瘋女人》</strong></h2>
+  <p>《閣樓上的瘋女人：十九世紀女性作家及文學想象》是一部應當歸屬於「西方文學理論」的作品，由桑德拉·吉爾伯特和蘇珊·古芭共同完成。此書的寫作源自二人1974年秋天在印第安納大學共同講授的一門女性文學課程。作者發現，對於那些地理位置相隔甚遠，時間跨度較大的女性作家，如簡奧斯汀、夏洛蒂勃朗特、艾米莉·狄金森等等，她們的作品中有一種一脈相承的「女性傳統」，這些傳統被諸多女性作家繼承和發展，卻沒有被完整地定義。</p>
+  <p>書中提到，「囚禁和逃跑的意向、用瘋狂的重影作為馴順的自我反叛社會的替身的幻想、通過冰天雪地的外部世界和激情似火的內心表達出來的有關身體不是的隱喻，等等，諸如此類的模式貫穿於這一傳統之始終，並不斷復現出來，與之相伴的還有對於厭食癥、陌生環境恐懼癥和幽閉癥的令人著迷的描述」。</p>
+  <p>此書所涉及的雖然僅僅是生活於19世紀西方國家的女性作家，但對於21世紀的我們而言仍具有深遠的意義。我們能夠借助於她們的作品和處境更好地認識自身的境況，能夠通過她們的反思激發我們對所處環境和所接受教育的反思。此書所呈現的不僅僅是女性文學，更是一種整體上的女性歷史。女性主義不僅僅是當下的「潮流」，也與我們的生活實踐息息相關。出於理論和實踐的雙重訴求，這次讀書會應運而生。下面所呈現的是讀書會成員關於此書的討論以及我的一些零碎想法。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/46faadd9-c9fa-48e1-83ab-e8eadd766003.webp" data-asset-id="46faadd9-c9fa-48e1-83ab-e8eadd766003" referrerpolicy="no-referrer" />    <figcaption>
+<span>英文版《閣樓上的瘋女人》封面</span>
+    </figcaption>
+  </figure>
+  <h2 id="section-1">1｜那些司空見慣的童話故事竟別有深意</h2>
+  <p>童話故事在我們的成長過程中發揮著重要的「教化」作用，我們常常被善良的公主被王子救下而感動不已，讀到惡毒的王後或繼母時卻恨得咬牙切齒。但此書卻從一種全新的角度解讀這些司空見慣的童話故事。讀到白雪公主和邪惡的皇後的時候，我想起希區柯克的《驚魂記》裏面，男主人公精神分裂，一面是作為男性的自己，一面是作為他的母親的女性。他經營著一家旅館，每次有女性來旅館居住，他就會化身為「母親」殺掉她們，這是否表明他的母親因容顏老去而焦慮，而這種焦慮和恐懼影響了男主人公？男主人公由於對母親的愛和恐懼發展出了另一種人格，並狠心殺掉每一個年輕貌美的女性。影片裏面「母親」形象的「幽閉」特征是很明顯的，不論是作為窗戶上的影子，還是被關在臥室或地下室裏，雖然整個影片只在最後出現了「母親」形象，但「母親」作為女性的恐懼和焦慮是始終在場的。</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge" spellcheck="false"><div class="highlight"><pre class="highlight"><code>Cheval | 相比於作者最終對《白雪公主》的詳細剖析，更令我印象深刻的是第一章前半部分提出的「天使與怪物」的概念。</code></pre></div>  </div>
+  <p>當女性對鏡自照時，鏡面呈現了父權勾勒出的天使形象，鏡後則是父權描繪出的怪物形象。聖母瑪利亞是天使形象的濫觴，隨後經由彌爾頓、歌德等人的演繹得以世俗化。由此，我有幸認識到一個刻板印象或集體意識形成發展的詳細過程。另一方面，怪物則是男性面對女性自我意識與反抗的焦慮與汙名，斯威夫特的厭女癥在如今不過是披上了另一層皮。</p>
+  <p>以女性主義分析某位作家的幾部作品，意義仍在文學；而從女性主義的視角審視文學史，意義則體現在內容豐富但不失細節。這似乎彰顯了兩位作者有著更大的野心——從文學作品中，看到無數時代、無數人群的所作所為。想起豆瓣上看到過的一條評論，「批評之所以成為一種獨立的藝術，不在具有術語水準一類的零碎，而在具有一個富麗的人性所在。」這樣洋洋灑灑、收放隨性的文學批評文章，還是比較難得的。</p>
+  <h2 id="section-2">2｜女性並非生來如此——“我們是如何墮落的”</h2>
+  <p>不論是在現實生活中，還是在古老的神話和相對離我們較近的文學作品中，人們都經常對女性自然的生理特征做出道德評判，作者在講到彌爾頓的《失樂園》時寫道，夏娃的美麗被以美杜莎的「罪」的形式呈現出來，「她金色的披肩長發像波浪般起伏，表現出賣弄風情的樣子，鬈曲的發卷至少也流露出一種邪惡的潛在威脅，即便是如黑茲利特（Hazlitt）這樣敏銳的批評家也禁不住會這樣認為，她赤裸的身體本身就使她像是一枚禁果，引發人的性欲」。對自然的特質賦予道德評價是毫無根據的。</p>
+  <p>而這種描述又與曾經的宇宙哲學/宇宙圖景聯系起來，首先在某個歷史時期，人們認為宇宙也是有善惡的，進而又將夏娃，女性的祖先與罪惡、奴隸聯系起來。而這樣一種宇宙圖景更多地僅僅是基於一種類比，而沒有任何實質性的依據。</p>
+  <p>在歷史上，女性為了更好的生存，往往表現出「反復無常」的樣態。女性的反復無常似乎經歷了三個歷史階段，首先是在男性筆下的「反復無常」，在文本中男性常常既把女性描繪成天使，又描繪成塞壬、美杜莎、海倫等具有危險性和誘惑性的女妖。女性是指引他們上升的天使，同時也是導致他們墮落的魔鬼。第二個階段，部分女性開始寫作，她們會交替使用天使、惡魔等意象，賦予故事中的女性多重面孔，變化多端。這算是一個「自在的」階段，也是一種隱晦地展現自身的策略。第三個階段，女性有意識地描繪這樣一種「反復無常」，意在表明自己受到的壓抑，意在表明一種隱蔽的反抗姿態。這種「反復無常」對於女性而言既是事實性的存在，也就是說，因為受到壓抑而出現反復無常的性格。同時也是一種策略性的存在。</p>
+  <p>讀到這裏，很容易發現，女性所采取的手段都是隱蔽的，通過采用男性的名字，或貶低自己的作品的地位。與此同時，男性評論家也沒有給予女性的作品以積極的評價。事實上，男性作家和女性作家，男性詩人和女性詩人的作品確實存在差異，如何評價和對待這些差異大概是值得思考的。但絕不是女性作家的作品就無足為道，不值一提，瑣屑平常。男性和女性具有不同的精神特征和生存環境，創作的作品自然會表現出不同的特征，不能用單一的標準，尤其是男性所提出的標準，框範女性的藝術作品。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/7bd6abf1-3376-454f-927f-6447e4e70b9a.webp" data-asset-id="7bd6abf1-3376-454f-927f-6447e4e70b9a" referrerpolicy="no-referrer" />    <figcaption>
+<span>圖片意在表明一些女性作家在沒有前輩的引導的情況下，也就是蒙著眼睛的情況下，所表現出的反復無常、焦慮和為自身抗爭的勇氣。</span>
+    </figcaption>
+  </figure>
+  <h2 id="section-3">3｜女性作家的焦慮——一些非正式討論</h2>
+  <blockquote>
+<strong>女性作家的存在方式——“作家身份的焦慮”</strong>  </blockquote>
+  <p><strong>徐銘潔</strong> | 在長期文學文本的「囚禁」和「抑製」中滋生出了女性文學亞文化，18世紀19世紀女性前輩們的奮鬥和掙紮使得現代女性文學具有了積極性和主動性。據埃萊娜·肖瓦爾特所說，女性作家參與營構了一個與男性作家完全不同的文學亞文化（literary subculture），這一亞文化擁有自己清晰的文學傳統，甚至擁有一個清晰的歷史。這樣看來，又如何界定這種亞文化是不是父權文學的衍生物呢？</p>
+  <p>女性作家通過從書寫女性亞文化到表現男性姿態，來克服「作者焦慮」。更多得是在這個漫長並且壓抑著的過程中滋生出各式各樣對於「作者焦慮」的處理方式。現在來看這個過程是「必然的」，或者說是女性反抗的稚嫩開端。但是從那個時代的角度看，不論是意識覺醒的女性還是仍在「鏡中囚禁」的女性，都是一種偉大的進步。換種角度講，而今這個「解放了」的時代裏，或許我們仍然難以確定，這的確是一種解放，還是仍然在透過現在的被男性文學塑造的「棱鏡」看自己，卻對此不自知。</p>
+  <p><strong>Muchun </strong>|我會贊同女性文學亞文化是父權文學的衍生品，其實從亞文化這個詞就能看到一些端倪。這裏可以用黑格爾和費希特哲學進行說明，一個事物沒有對立面就是「無」，是不具有現實性的存在。而對於女性文學亞文化而言，父權文學具有壓倒性優勢。女性文學在某種意義上也是父權文學的對立面。女性在那個時代想要獲得一席之地，要麽用男名，要麽以丈夫的名義發表（柯萊特），或者表現出男性氣質，這算是一種反抗，但是父權文學依然擁有更好的地位，以至於女性必須以此來偽裝才能避免麻煩。</p>
+  <blockquote>
+<strong>女性作家青睞於寫什麼內容呢？</strong>  </blockquote>
+  <p><strong>Muchun </strong>| 在《在小說之屋內：簡•奧斯汀筆下可能的房客》這一章中，裏面寫道，「奧斯汀少女時代的小說中總是涉及偷竊、酗酒、通奸、瘋狂等內容」，我想起了瑪莎•蓋爾霍恩（海明威的第三任妻子，著名戰地記者）年輕的時候也頻繁地寫這些內容，她的父親認為她寫的東西毫無價值。後來她關註到社會貧困問題的時候，才開始得到父親的認可。描寫偷竊、酗酒等情節，表現出一種「束縛—逃避」的二元對立的結構，她們試圖通過描繪「反常」的、「叛逆」的經歷將自己從順從的、不那麽自由的環境中解放出來。這種「束縛-逃避」的二元結構與「反復無常」不同，反復無常是希望在這樣一種搖擺中超越二元對立，但前者只是非此即彼，還不能超越二者的對立。</p>
+  <p>另外，這裏的父親是否依然意味著來自父權社會的要求？瑪莎既獲得了父親的認可也超越了父親的認可，瑪莎後來離開了海明威，因為人們總是僅僅將他視為海明威身邊的人，沒有給予她的作品應有的評價。所以我其實傾向於認為，逃離「束縛」只是第一步，之後還要超越這種二元對立的結構。</p>
+  <blockquote>
+<strong>女性作家要進行創作到底需要什麼？——“一間屬於自己的房間”</strong>  </blockquote>
+  <p><strong>Muchun</strong> |就像不少女作家將囚禁以空間的形式表達。伍爾芙所說的女性要有一間屬於自己的房間也具有實際意義和象征意義。從實際意義來看，女性要不受打擾地進行創作，不是在公共房間裏創作，不是在餐桌上、客廳裏進行創作，不是茶余飯後或在照顧孩子做家務的間隙進行創作，而是在屬於自己的房間中創作，不受諸多瑣碎事務的打擾，專心致誌地進行創作，將寫作當作自己的事業進行創作。從象征意義來講，女性不應當在由男性提供的文化空間、社會空間中創作，不應當僅僅因循著男性的要求和慣例來創作，應當獨立創作，創作具有女性特色的文學作品。</p>
+  <p><strong>K</strong> | 有一部圍繞著伍爾芙的小說《達洛維夫人》而展開的電影，名叫《時時刻刻》。影片的呈現十分細膩、富有詩意，那種對生活意義的向往和追求不斷從瑣碎的事務和封閉的空間內擠出來，筆、鮮花、派對、幻想、書、車、逃離、瘋狂、疾病、同性戀人的親吻與死亡……出走和反叛才獲得她們自己的生活。在死亡那一刻，TA們才獲得幸福，才因僵死而永恒。這與我們看的這本書裏面的幽閉和逃避之間的張力是一脈相承的。</p>
+  <p>看影片時有一種很強烈的感覺，就是「這應是女導演拍的」，但後來發現是男導演，我的態度就發生了改變，也發現影片中我覺得有問題的地方：相比於《燃燒女子的肖像》，整部影片都沒有男性的出現，《時時刻刻》中的男性還是劇情的關鍵人物。伍爾芙依賴並受限於她的丈夫、達洛維夫人與那個男作家「糾纏不休」的命運……</p>
+  <p><strong>Muchun</strong> | 《時時刻刻》裏反復出現「水」這一意象。伍爾芙溺水而死，第二段故事中的女主萌生出自殺的念頭時，水就溢滿了整個房間。水一直是女性作家所青睞的意象，西班牙女詩人阿方斯娜被稱作「白銀之海的女兒」，溺水而死，海洋在某種程度上是陰性力量（女性力量）的代表。水既是女性的力量的源泉（來源），也是不少女性的歸宿，是將其淹沒的東西。神話中的塞壬、美杜莎都是水中的形象，水這種陰性力量與女性的關系值得深思。</p>
+  <blockquote>
+<strong>女性如何看待自己呢？——透過“彌爾頓的幽靈”來看</strong>  </blockquote>
+  <p><strong>Muchun</strong> | 閱讀《彌爾頓的幽靈：父權詩歌與女性讀者》時，我突然想起了海德格爾對「看」（Sicht）的界定。看不是一種超然的、旁觀的、客觀的行為，看具有存在論意義，看與人的視角、態度、生存緊密相連。因此「穿透彌爾頓的幽靈進行觀察」就具有了存在論的意味，對女性的生活產生了巨大影響，這與前面所說的句子的力量也是一致的。我們看到的和正在使用的話語在某種意義上是對我們的思想和行為方式的形塑。我的視角也被先在的信念和看法所框範。在歷史上，女性僅僅能夠通過父權詩歌了解自己的起源和歷史，並在閱讀的過程中被同化，這裏的「父權詩歌」既表明了詞句的力量，也表明「視角」的控製性力量。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/3e02fdeb-a12d-49f5-a19f-7129bfcec611.webp" data-asset-id="3e02fdeb-a12d-49f5-a19f-7129bfcec611" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>今天學習德語時看到「deswegen 」的時候，在想這是不是男性文化主導的一種體現，deswegen 意思是因此，wegen是因為，des 是der 和das的第二分詞,der是指代陽性名詞，突然在想為什麽不是derwegen ,因為der 是die的第二分詞形式，die指陰性名詞，感覺語言也蠻值得研究的。不過這只是我的一種猜測。</p>
+  <p><strong>S.L.</strong> | 法語裏很多職業名詞只有陽性形式，因為這些職業最初只由男性擔任，也是一種男女不平等的體現。不過現在似乎有•es•s這樣寫雙性的後綴了。</p>
+  <blockquote>
+<strong>《女性與權利：一份宣言》</strong>  </blockquote>
+  <p><strong>Muchun</strong> | 《女性與權力：一份宣言》是一本由兩篇演講稿組成的小書，與《閣樓上的瘋女人》不同的是，前者從對古希臘公民的含義出發，公民指具有出色的演講才能的男人，將女性排除在外。後來又以默克爾和希拉裏為例，講述了她們如何運用一些策略，也就是對男性的模仿，如穿西裝，壓低聲音等，在政治領域取得勝利。而《閣樓上的瘋女人》主要分析了女性作家，也就是寫作這一行為。</p>
+  <p><strong>於陽</strong> |穿西裝、壓低聲音等策略雖然沒有突破男性中心的框架，但是這樣的策略也是可以為女性在這個社會結構裏做事情的過程中減少阻力的。</p>
+  <p><strong>Muchun</strong> | 不過模仿男性的著裝、聲音這樣的策略似乎只是暫時性的，不是一種根本性的策略。或許著裝的劃分原本不必那麽死板，但是裏面說，在很多人看來，像一些總統或者領導的夫人的著裝就像「花瓶」，不是政治領袖該有的樣子。這意味著服裝不僅僅裝飾，在某種程度上是身份的標識。</p>
+  <p><strong>於陽</strong> | 對，其實衣著之中就蘊含了對人的理解和一些預設的前提，當然，這樣前置的東西，是前反思的，要是深究下去，很多都有待商榷。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/ef59d9d3-a3cc-472f-89fc-0193b29cf2df.png" data-asset-id="ef59d9d3-a3cc-472f-89fc-0193b29cf2df" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>近年來許多與女性主義相關的文學作品、哲學作品和影片被介紹到國內，許多女性作家、藝術家被更多的人所熟識。女性主義作為當下的「潮流」，固然得到了較多的關註，但如果認識和定義「我們的」女性主義，進而如何改變女性當下所處的境況，不僅需要文本的研究，還需要更多的實踐的介入。</p>
+  <p>文 | 雷沐春</p>
+  <p>圖 | 來自網絡</p>
+  <p>審稿 | Christina</p>
+  <p>微信編輯 | 姚亦楠</p>
+  <p>matters編輯 | Scarlett.X</p>
+  <p>圍爐 (ID：weilu_flame)</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/88cbc258-a49d-418a-bf79-f716783f8e99.png" data-asset-id="88cbc258-a49d-418a-bf79-f716783f8e99" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>文中圖片未經同意，請勿用作其他用途</p>
+  <p>歡迎您在文章下方評論，與圍爐團隊和其他讀者交流討論</p>
+  <p>欲了解圍爐、閱讀更多文章，請關註本公眾號並在公眾號頁面點擊相應菜單欄目</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/1f907c76-aeec-4bad-96ee-4e3066f1bcf1.png" data-asset-id="1f907c76-aeec-4bad-96ee-4e3066f1bcf1" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p><br /></p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#围炉 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2024-10-03/%E5%AF%B9%E8%AF%9D%E5%A5%B3%E6%80%A7%E6%B0%91%E5%B7%A5-%E5%9C%A8%E5%9F%8E%E5%B8%82%E9%87%8C-%E5%9C%A8%E5%B7%A5%E4%BD%9C%E5%92%8C%E5%AE%B6%E5%BA%AD%E4%B9%8B%E9%97%B4-%E5%9B%B4%E7%82%89-CU/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2021-03-23/%E5%AF%B9%E8%AF%9D%E9%BB%84%E6%B3%93%E7%BF%94-%E8%87%B4%E5%8A%9B%E4%BA%8E%E5%9F%B9%E8%82%B2%E4%B8%96%E7%95%8C%E5%85%AC%E6%B0%91%E7%9A%84%E4%B8%AD%E5%8D%97%E5%B1%8B%E5%88%9B%E5%A7%8B%E4%BA%BA-%E8%AE%B2%E5%BA%A7%E6%91%98%E8%A6%81/">最早</a>--</span>
+    
+      <li>
+        <time>2021-11-18</time>
+        <a href="https://nodebe4.github.io/opinion/2021-11-18/%E5%9C%8D%E7%88%90%E5%A4%9C%E8%A9%B1-%E4%B8%80%E9%A1%86%E8%85%8E%E8%83%8C%E5%BE%8C%E7%9A%84%E9%81%93%E5%BE%B7-%E5%89%B5%E4%BD%9C%E8%88%87%E8%BA%AB%E4%BB%BD%E7%88%AD%E8%AD%B0-%E5%9C%8D%E7%88%90-FDU/">
+          圍爐夜話：一顆腎背後的道德、創作與身份爭議|圍爐·FDU
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-11-14</time>
+        <a href="https://nodebe4.github.io/opinion/2021-11-14/%E9%A3%B2%E9%A3%9F%E7%94%B7%E5%A5%B3%E6%96%BC%E8%BE%B2%E6%9D%91-%E5%9C%8D%E7%88%90-%E5%86%AC%E6%97%A5%E8%89%BA%E6%96%87/">
+          飲食男女於農村|圍爐·冬日艺文
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-11-06</time>
+        <a href="https://nodebe4.github.io/opinion/2021-11-06/%E6%B7%BA%E6%9E%90%E8%97%9D%E8%A1%93%E4%BA%8C%E4%B8%89-%E5%9C%8D%E7%88%90%E5%85%B1%E8%AE%80%E6%9C%83-%E8%97%9D%E8%A1%93%E7%9A%84%E6%95%85%E4%BA%8B/">
+          淺析藝術二三|圍爐共讀會《藝術的故事》
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-11-01</time>
+        <a href="https://nodebe4.github.io/opinion/2021-11-01/%E5%B0%8D%E8%A9%B1%E6%A5%8A%E5%A4%A2-%E5%8F%8D%E7%8C%B6%E4%B8%BB%E7%BE%A9%E7%9A%84%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F-%E5%9C%8D%E7%88%90-PKU&THU/">
+          對話楊夢：反猶主義的前世今生|圍爐·PKU&THU
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2021-11-10/%E7%90%86%E6%9F%A5%E5%BE%B7-%E7%93%A6%E6%A0%BC%E7%BA%B3/">
+            前一篇：理查德·瓦格纳
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2021-11-10/%E8%AA%9E%E6%96%87%E9%99%B6%E8%A9%B1%E5%BB%8A-%E5%A5%BD%E5%B0%8F%E8%AA%AA%E4%B9%8B%E9%87%8D%E8%A6%81%E9%96%8B%E9%A0%AD-%E7%94%B1%E5%B0%84%E8%90%BD%E4%B8%80%E9%9A%BB%E9%9B%81%E8%AC%9B%E8%B5%B7/">
+            後一篇：【語文陶話廊】好小說之重要開頭：由射落一隻雁講起
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2021-11-10/%E7%90%86%E6%9F%A5%E5%BE%B7-%E7%93%A6%E6%A0%BC%E7%BA%B3/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2021-11-10/%E8%AA%9E%E6%96%87%E9%99%B6%E8%A9%B1%E5%BB%8A-%E5%A5%BD%E5%B0%8F%E8%AA%AA%E4%B9%8B%E9%87%8D%E8%A6%81%E9%96%8B%E9%A0%AD-%E7%94%B1%E5%B0%84%E8%90%BD%E4%B8%80%E9%9A%BB%E9%9B%81%E8%AC%9B%E8%B5%B7/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2021-11-14/%E9%A3%B2%E9%A3%9F%E7%94%B7%E5%A5%B3%E6%96%BC%E8%BE%B2%E6%9D%91-%E5%9C%8D%E7%88%90-%E5%86%AC%E6%97%A5%E8%89%BA%E6%96%87/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2021-11-06/%E6%B7%BA%E6%9E%90%E8%97%9D%E8%A1%93%E4%BA%8C%E4%B8%89-%E5%9C%8D%E7%88%90%E5%85%B1%E8%AE%80%E6%9C%83-%E8%97%9D%E8%A1%93%E7%9A%84%E6%95%85%E4%BA%8B/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2021-11-10/%E7%90%86%E6%9F%A5%E5%BE%B7-%E7%93%A6%E6%A0%BC%E7%BA%B3/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2021-11-10/%E8%AA%9E%E6%96%87%E9%99%B6%E8%A9%B1%E5%BB%8A-%E5%A5%BD%E5%B0%8F%E8%AA%AA%E4%B9%8B%E9%87%8D%E8%A6%81%E9%96%8B%E9%A0%AD-%E7%94%B1%E5%B0%84%E8%90%BD%E4%B8%80%E9%9A%BB%E9%9B%81%E8%AC%9B%E8%B5%B7/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<围炉>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2021-11-14/%E9%A3%B2%E9%A3%9F%E7%94%B7%E5%A5%B3%E6%96%BC%E8%BE%B2%E6%9D%91-%E5%9C%8D%E7%88%90-%E5%86%AC%E6%97%A5%E8%89%BA%E6%96%87/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<围炉>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2021-11-06/%E6%B7%BA%E6%9E%90%E8%97%9D%E8%A1%93%E4%BA%8C%E4%B8%89-%E5%9C%8D%E7%88%90%E5%85%B1%E8%AE%80%E6%9C%83-%E8%97%9D%E8%A1%93%E7%9A%84%E6%95%85%E4%BA%8B/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

@@ -1,0 +1,2565 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>EnclavedMicrostate在2022-06-27~2022-07-03的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="EnclavedMicrostate在2022-06-27~2022-07-03的言论" />
+    <meta property="twitter:title" content="EnclavedMicrostate在2022-06-27~2022-07-03的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FAskHistorians%2Fcomments%2Fvlwtx2%2Fin_the_arabic_language_the_words_west_and_strange%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/AskHistorians/comments/vlwtx2/in_the_arabic_language_the_words_west_and_strange/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/AskHistorians/comments/vlwtx2/in_the_arabic_language_the_words_west_and_strange/&text=EnclavedMicrostate在2022-06-27~2022-07-03的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/AskHistorians/comments/vlwtx2/in_the_arabic_language_the_words_west_and_strange/&title=EnclavedMicrostate在2022-06-27~2022-07-03的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/AskHistorians/comments/vlwtx2/in_the_arabic_language_the_words_west_and_strange/&title=EnclavedMicrostate在2022-06-27~2022-07-03的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=EnclavedMicrostate在2022-06-27~2022-07-03的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/AskHistorians/comments/vlwtx2/in_the_arabic_language_the_words_west_and_strange/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/AskHistorians/comments/vlwtx2/in_the_arabic_language_the_words_west_and_strange/&title=EnclavedMicrostate在2022-06-27~2022-07-03的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=EnclavedMicrostate在2022-06-27~2022-07-03的言论&url=https://old.reddit.com/r/AskHistorians/comments/vlwtx2/in_the_arabic_language_the_words_west_and_strange/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>EnclavedMicrostate在2022-06-27~2022-07-03的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-07-03
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: EnclavedMicrostate</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/AskHistorians/comments/vlwtx2/in_the_arabic_language_the_words_west_and_strange/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#579-in-the-arabic-language-the-words-west-and-strange-share-the-same-root-is-there-a-deeper-meaning-behind-this-did-arabs-associate-the-west-with-otherness-did-they-define-themselves-as-being-of-the-east-in-the-same-way-the-west-does-now-submitted-on-2022-06-27-2230400800" id="markdown-toc-579-in-the-arabic-language-the-words-west-and-strange-share-the-same-root-is-there-a-deeper-meaning-behind-this-did-arabs-associate-the-west-with-otherness-did-they-define-themselves-as-being-of-the-east-in-the-same-way-the-west-does-now-submitted-on-2022-06-27-2230400800">579: In the Arabic language, the words “West” and “strange” share the same root. Is there a deeper meaning behind this? Did Arabs associate the West with Otherness? Did they define themselves as being “of the East”, in the same way the West does now?, submitted on 2022-06-27 22:30:40+08:00.</a></li>
+  <li><a href="#580-super-sweaty-summer---weekly-discussion-thread-june-27th-2022-submitted-on-2022-06-27-2325240800" id="markdown-toc-580-super-sweaty-summer---weekly-discussion-thread-june-27th-2022-submitted-on-2022-06-27-2325240800">580: Super Sweaty Summer - Weekly Discussion Thread, June 27th, 2022, submitted on 2022-06-27 23:25:24+08:00.</a></li>
+  <li><a href="#581-who-was-the-man-who-willingly-spent-his-life-isolated-in-a-cell-submitted-on-2022-06-28-1249530800" id="markdown-toc-581-who-was-the-man-who-willingly-spent-his-life-isolated-in-a-cell-submitted-on-2022-06-28-1249530800">581: Who was the man who willingly spent his life isolated in a cell?, submitted on 2022-06-28 12:49:53+08:00.</a></li>
+  <li><a href="#582-manchu---english-submitted-on-2022-06-29-1017070800" id="markdown-toc-582-manchu---english-submitted-on-2022-06-29-1017070800">582: [manchu - english], submitted on 2022-06-29 10:17:07+08:00.</a></li>
+  <li><a href="#583-how-did-alexander-the-great-found-all-those-alexandrias-submitted-on-2022-06-29-2128270800" id="markdown-toc-583-how-did-alexander-the-great-found-all-those-alexandrias-submitted-on-2022-06-29-2128270800">583: How did Alexander the Great found all those Alexandrias?, submitted on 2022-06-29 21:28:27+08:00.</a></li>
+  <li><a href="#584-in-1636-the-manchu-khan-hong-taiji-proclaimed-the-formation-of-the-qing-dynasty-and-began-preparations-for-the-conquest-of-chinaalmost-ten-years-before-the-manchu-armies-actually-crossed-the-great-wall-why-what-was-the-origin-of-the-idea-that-they-should-conquer-china-submitted-on-2022-06-29-2331160800" id="markdown-toc-584-in-1636-the-manchu-khan-hong-taiji-proclaimed-the-formation-of-the-qing-dynasty-and-began-preparations-for-the-conquest-of-chinaalmost-ten-years-before-the-manchu-armies-actually-crossed-the-great-wall-why-what-was-the-origin-of-the-idea-that-they-should-conquer-china-submitted-on-2022-06-29-2331160800">584: In 1636, the Manchu khan Hong Taiji proclaimed the formation of the Qing dynasty and began preparations for the conquest of China–almost ten years before the Manchu armies actually crossed the Great Wall. Why? What was the origin of the idea that they should conquer China?, submitted on 2022-06-29 23:31:16+08:00.</a></li>
+  <li><a href="#585-star-trek-strange-new-worlds--1x09-all-those-who-wander-reaction-thread-submitted-on-2022-06-30-1859050800" id="markdown-toc-585-star-trek-strange-new-worlds--1x09-all-those-who-wander-reaction-thread-submitted-on-2022-06-30-1859050800">585: Star Trek: Strange New Worlds | 1x09 “All Those Who Wander” Reaction Thread, submitted on 2022-06-30 18:59:05+08:00.</a></li>
+  <li><a href="#586-thoughts-on-ds9s-in-the-pale-moonlight-submitted-on-2022-07-01-0858170800" id="markdown-toc-586-thoughts-on-ds9s-in-the-pale-moonlight-submitted-on-2022-07-01-0858170800">586: Thoughts on DS9’s “In the Pale Moonlight”, submitted on 2022-07-01 08:58:17+08:00.</a></li>
+  <li><a href="#587-ancient-civilisations-were-built-on-river-floodplains-because-of-the-soil-quality-why-didnt-the-incredibly-fertile-lands-north-of-the-black-sea-ever-become-a-center-of-ancient-civilisation-submitted-on-2022-07-01-1537150800" id="markdown-toc-587-ancient-civilisations-were-built-on-river-floodplains-because-of-the-soil-quality-why-didnt-the-incredibly-fertile-lands-north-of-the-black-sea-ever-become-a-center-of-ancient-civilisation-submitted-on-2022-07-01-1537150800">587: Ancient civilisations were built on river floodplains, because of the soil quality. Why didnt the incredibly fertile lands north of the black sea ever become a center of ancient civilisation?, submitted on 2022-07-01 15:37:15+08:00.</a></li>
+  <li><a href="#588-if-the-rosetta-stone-was-never-found-have-we-discovered-anything-since-that-would-have-enabled-us-to-decipher-ancient-egyptian-submitted-on-2022-07-01-2214100800" id="markdown-toc-588-if-the-rosetta-stone-was-never-found-have-we-discovered-anything-since-that-would-have-enabled-us-to-decipher-ancient-egyptian-submitted-on-2022-07-01-2214100800">588: If the Rosetta Stone was never found, have we discovered anything since that would have enabled us to decipher Ancient Egyptian?, submitted on 2022-07-01 22:14:10+08:00.</a></li>
+  <li><a href="#589-why-was-alexander-planning-to-invade-arabia-before-his-death-in-323bc-submitted-on-2022-07-02-0331270800" id="markdown-toc-589-why-was-alexander-planning-to-invade-arabia-before-his-death-in-323bc-submitted-on-2022-07-02-0331270800">589: Why was Alexander planning to invade Arabia before his death in 323BC?, submitted on 2022-07-02 03:31:27+08:00.</a></li>
+  <li><a href="#590-one-of-the-newest-members-of-vshojo-amemiya-nazuna-an-angel-with-amnesia-posted-her-first-tweet-submitted-on-2022-07-03-0905460800" id="markdown-toc-590-one-of-the-newest-members-of-vshojo-amemiya-nazuna-an-angel-with-amnesia-posted-her-first-tweet-submitted-on-2022-07-03-0905460800">590: One of the newest members of Vshojo, Amemiya Nazuna an angel with amnesia, posted her first tweet, submitted on 2022-07-03 09:05:46+08:00.</a></li>
+  <li><a href="#591-urban-legends-urban-myths--what-is-it-that-makes-a-piece-of-folklore-urban-is-it-purely-a-quirk-of-etymology-or-do-urban-communities-genuinely-produce-folklore-in-a-distinct-way-or-a-distinct-kind-from-rural-ones-submitted-on-2022-07-03-1545210800" id="markdown-toc-591-urban-legends-urban-myths--what-is-it-that-makes-a-piece-of-folklore-urban-is-it-purely-a-quirk-of-etymology-or-do-urban-communities-genuinely-produce-folklore-in-a-distinct-way-or-a-distinct-kind-from-rural-ones-submitted-on-2022-07-03-1545210800">591: ‘Urban legends’, ‘urban myths’ – What is it that makes a piece of folklore ‘urban’? Is it purely a quirk of etymology, or do urban communities genuinely produce folklore in a distinct way, or a distinct kind, from rural ones?, submitted on 2022-07-03 15:45:21+08:00.</a></li>
+  <li><a href="#592-hobby-scuffles-week-of-july-4-2022-submitted-on-2022-07-03-2300150800" id="markdown-toc-592-hobby-scuffles-week-of-july-4-2022-submitted-on-2022-07-03-2300150800">592: [Hobby Scuffles] Week of July 4, 2022, submitted on 2022-07-03 23:00:15+08:00.</a></li>
+</ul>
+
+<h3 id="579-in-the-arabic-language-the-words-west-and-strange-share-the-same-root-is-there-a-deeper-meaning-behind-this-did-arabs-associate-the-west-with-otherness-did-they-define-themselves-as-being-of-the-east-in-the-same-way-the-west-does-now-submitted-on-2022-06-27-2230400800">579: <a href="https://old.reddit.com/r/AskHistorians/comments/vlwtx2/in_the_arabic_language_the_words_west_and_strange/">In the Arabic language, the words “West” and “strange” share the same root. Is there a deeper meaning behind this? Did Arabs associate the West with Otherness? Did they define themselves as being “of the East”, in the same way the West does now?</a>, submitted on 2022-06-27 22:30:40+08:00.</h3>
+
+<p>—– <strong>579.1</strong> —–2022-06-28 15:33:05+08:00:</p>
+
+<p>So I need to bring up a few corrections here and also draw /u/Abu_Darwish’s attention to them:</p>
+
+<blockquote>
+  <p>In Chinese, or at least in Hunanese (which I shit you not sounded identical to German), you can’t have adjectives that aren’t directly attached to nouns</p>
+</blockquote>
+
+<p>You can have adjectives without nouns, largely because in Sinitic languages terms can often be nouns, adjectives, or verbs depending on context. But for instance the term 快 <em>kuai</em> ‘fast’ is <em>only</em> an adjective, and its use in isolation is perfectly cromulent. For instance I could simply translate ‘fast and furious’ as 又快又怒 <em>you kuai you nu</em> and it would be entirely acceptable.</p>
+
+<blockquote>
+  <p>Friendly FYI, Mandarin should be called “Pu Tong Hua”, meaning the common peoples’ language, that’s what they call it.</p>
+</blockquote>
+
+<p>The use of the term ‘Putonghua’ is not universal and is really mainly the standard in Mainland China. On Taiwan, the term preferred is <em>Guoyu</em> (‘national language’), and <em>Huayu</em> (‘Hua language’) in Southeast Asia. ‘Mandarin’ has been the standard in English in both colloquial and academic contexts for decades, and there is no more case for demanding a switch from ‘Mandarin’ to ‘Putonghua’ then there would be for switching from ‘German’ to ‘Deutsch’ or ‘Japanese’ to ‘Nihongo’.</p>
+
+<blockquote>
+  <p>It’s specifically the official governmental language, the same way what we call French is really the Parisian language.</p>
+</blockquote>
+
+<p>Not entirely. There is a Standard Chinese derived from Mandarin, but from a linguistics standpoint, Mandarin is the largest of the Sinitic dialect/language subgroups and encompasses a number of regional varieties as well such as <del>Hunanese and</del> (EDIT: Nope, I made a mistake) Sichuanese. Its association with the governmental language is due to modern Standard Chinese and Early Modern <em>Guanhua</em> (‘court language’) being rooted in the Beijing dialect of Mandarin.</p>
+
+<blockquote>
+  <p>It has its own storied history, because it’s originally the language of the Manchu, who conquered Beijing from the north and created the Qing</p>
+</blockquote>
+
+<p>No, the Manchus spoke the Tungusic language of Manchu. Beijing Mandarin had been established as the standard for <em>Guanhua</em> since the late Ming. You may be getting confused because under the Qing, <em>Guoyu</em> (the term used for Mandarin on Taiwan) was used for Manchu instead because it was the (nominal) language of the state.</p>
+
+<blockquote>
+  <p>“Mandarin” (because that’s the British colonizer’s word for the Manchu scholar class)</p>
+</blockquote>
+
+<p>‘Mandarin’ was applied to the scholar-bureaucrats as a whole, not the Manchus more broadly (the two were only partially intersecting).</p>
+
+<p>—– <strong>579.2</strong> —–2022-06-28 16:09:31+08:00:</p>
+
+<blockquote>
+  <p>Correct me if I’m wrong but it seems your perspective comes from a Taiwanese origin?</p>
+</blockquote>
+
+<p>I’m from Hong Kong actually, but my perspective is broadly rooted in Anglophone academia in this case, which has consistently used ‘Mandarin’ over ‘Putonghua’ and continues to.</p>
+
+<blockquote>
+  <p>As far as Mandarin encompassing Hunanese, idk.</p>
+</blockquote>
+
+<p>Ack, you’re right – I’d forgotten that Hunanese is a variety of Xiang and not of Mandarin; it’s Hu<em>bei</em> that’s a Mandarin region.</p>
+
+<blockquote>
+  <p>It’s anecdotal and the source is “trust me” but I was told to call it Putonghua in English.</p>
+</blockquote>
+
+<p>Cool. As a part-Chinese person, ‘Putonghua’ is only used in certain contexts, primarily relating to Mainland China, and Mainland China does not have a monopoly on Sinitic languages.</p>
+
+<h3 id="580-super-sweaty-summer---weekly-discussion-thread-june-27th-2022-submitted-on-2022-06-27-2325240800">580: <a href="https://old.reddit.com/r/VirtualYoutubers/comments/vly1v1/super_sweaty_summer_weekly_discussion_thread_june/">Super Sweaty Summer - Weekly Discussion Thread, June 27th, 2022</a>, submitted on 2022-06-27 23:25:24+08:00.</h3>
+
+<p>—– <strong>580.1</strong> —–2022-06-28 00:55:14+08:00:</p>
+
+<p>Yes. This is a weekly megathread where general discussion goes.</p>
+
+<p>—– <strong>580.2</strong> —–2022-06-28 00:58:20+08:00:</p>
+
+<p>…relating to what? All I see in the comments is about Calli’s sister being a little, er, inconsiderate.</p>
+
+<p>—– <strong>580.3</strong> —–2022-06-28 02:38:48+08:00:</p>
+
+<p>Yes.</p>
+
+<p>—– <strong>580.4</strong> —–2022-06-30 10:46:54+08:00:</p>
+
+<p>So, hopefully this is a little distant from the events in question and I don’t end up sparking anything, but around this time last week I recall there being a bit of a rehash of the Nux vs VShojo drama from the beginning of the year, and indeed just a load of VShojo hate in general; see for instance near the bottom of <a href="https://www.reddit.com/r/VirtualYoutubers/comments/vjgd9m/i_dont_get_why_some_people_want_to_know_who_is/">this thread</a> on this sub, <a href="https://www.reddit.com/r/Hololive/comments/vhwgk4/calli_is_gonna_be_on_speak_of_the_devil_with/idahckx/">this subthread</a> on the hololive sub, <a href="https://www.reddit.com/r/Hololive/comments/vi36wl/i_would_like_calli_andor_ollie_to_collaborate/">this entire (now-removed) thread</a> also on the holo sub…</p>
+
+<p>Was there anything that prompted this? Is it just that everyone has been malding over it with equal fervour for months and I hadn’t noticed?</p>
+
+<p>—– <strong>580.5</strong> —–2022-06-30 11:19:11+08:00:</p>
+
+<p>Perhaps my wording was a bit off – by ‘rehash’ I didn’t mean that new drama was happening, but rather that old drama got brought up again and including in threads that were at best tangentially related. And I’ve been around long enough to know that if there’s new drama then it probably will make it here, which is why I asked if there was old stuff people wouldn’t let go of, or if something had just so happened to remind people of it.</p>
+
+<p>—– <strong>580.6</strong> —–2022-06-30 18:59:42+08:00:</p>
+
+<p>Bit late, but thanks for at least giving a straight answer.</p>
+
+<p>—– <strong>580.7</strong> —–2022-06-30 19:00:28+08:00:</p>
+
+<p>Nux, or me? IDK what post history you’ve been reading that you think I’m incapable of genuinely being caught off-guard by coming across several random VShojo antis on both this sub and r/hololive within a span of about 48 hours, with no apparent prompting.</p>
+
+<p>—– <strong>580.8</strong> —–2022-06-30 19:18:31+08:00:</p>
+
+<p>That’s a cool-looking 3D set that HoloX has going there. I don’t believe there’s precedent with any other generation so far?</p>
+
+<p>It’s actually got me wondering about if and when Hololive’s attitudes towards how generations work has changed a bit since its inception. I think there’s general agreement that Gens 1 and 2 basically happened to be members that debuted together (sans Mel but that has to do with the whole Chris incident), and that Gen 3 was the first real coherent generation, but I don’t recall there being much of a comparable dynamic with Gen 4 (granted, I fell down the rabbit hole less than half a year before Coco graduated). Gen 5 definitely has the vibe of a coherent generation but I don’t think it’s had the same level of official ‘this is a coherent group’ that’s been pushed with HoloX. Plus, HoloX is the first JP generation which seems to be much more consistently identified by generation name rather than number. So I’m wondering if the change wasn’t Gen 3 happening to really gel, but more the relative success of how EN and ID have been handled. But then again Parsley and Kakage’s designs were opened for auditions before ID1 debuted, so IDK. I bring this up because I think there’s also some level of this in EN and ID too. Council feels like it was very deliberately intended as a coherently themed unit in a way that Myth wasn’t, and I think it was also around that time that it became officially-official that Gen 1 was actually Myth and Gen 2 was Council, and indeed that EN generations weren’t numbered at all. In turn if I’m not mistaken (but may well be), ID3 seems to have been the first ID generation with an official name (holoh3ro) out the gate rather than a name made official later on with Gens 1 and 2.</p>
+
+<p>Anyway, in short, I feel like HoloX is the first JP generation to really be intentionally and officially framed as a single generation and not five individual members, and that there’s some precedent with Council and a bit of a repeat with ID3. Or maybe I’m talking completely out of my arse here.</p>
+
+<p>—– <strong>580.9</strong> —–2022-06-30 20:05:11+08:00:</p>
+
+<p>Ah phew. Sorry for jumping to conclusions.</p>
+
+<p>—– <strong>580.10</strong> —–2022-06-30 20:47:48+08:00:</p>
+
+<p>I’m well aware, hence why I brought them up – arguably, HoloX was in the works before the ID1 debut.</p>
+
+<p>—– <strong>580.11</strong> —–2022-07-01 01:02:11+08:00:</p>
+
+<p>I think it’s also notable that HoloX is the only generation so far in any branch to consist entirely of members with past VTuber experience, if I’m not mistaken, and also that all five seem to have substantial Holo fandom (La+ being the world’s biggest Kenzoku, Lui watching Myth, Koyori I believe is a long-time Noel fan, Chloe being a big Shion fan, and Iroha having I believe followed Holo since 2017). So they’ve definitely got people who aren’t just heavyweights as content creators, but also very dedicated to the overall brand.</p>
+
+<p>—– <strong>580.12</strong> —–2022-07-01 01:15:54+08:00:</p>
+
+<p>It’s definitely effective.</p>
+
+<p>—– <strong>580.13</strong> —–2022-07-01 20:05:57+08:00:</p>
+
+<p>I think you’ve got your links backwards there…</p>
+
+<p>—– <strong>580.14</strong> —–2022-07-01 20:14:08+08:00:</p>
+
+<p>Yeah and the n-word was fairly normal among internet gamers. Guess we should just all bend over backwards to insist that we keep using a slur then.</p>
+
+<p>—– <strong>580.15</strong> —–2022-07-01 21:24:50+08:00:</p>
+
+<p>It doesn’t matter where the slur came from, what matters is where the slur is now. There’s a slur for Japanese people that derives simply from contracting the word, but we don’t use it (at least, I would <em>hope</em> we don’t) because of how it has been used derogatorily against people who object to its use.</p>
+
+<p>—– <strong>580.16</strong> —–2022-07-01 22:11:37+08:00:</p>
+
+<p>Funnily enough… yeah kinda? Funny how that works, that when a marginalised group highlights ways in which they are marginalised, that tends to be a good sign that they’re being marginalised for something.</p>
+
+<p>—– <strong>580.17</strong> —–2022-07-02 10:58:43+08:00:</p>
+
+<blockquote>
+  <p>You’re not required to explain why. You shouldn’t explain why, unless you’re willing to go into endless debate.</p>
+</blockquote>
+
+<p>So, not to stir things up all over again, but isn’t this kinda what Finana’s whole ‘educate yourself’ line means? She didn’t explain it in depth, and effectively stated that if you need it explained to you why you shouldn’t use a given slur, do the legwork yourself.</p>
+
+<p>—– <strong>580.18</strong> —–2022-07-04 11:57:42+08:00:</p>
+
+<p>Nationalism doesn’t operate on rationality.</p>
+
+<h3 id="581-who-was-the-man-who-willingly-spent-his-life-isolated-in-a-cell-submitted-on-2022-06-28-1249530800">581: <a href="https://old.reddit.com/r/AskHistorians/comments/vmerla/who_was_the_man_who_willingly_spent_his_life/">Who was the man who willingly spent his life isolated in a cell?</a>, submitted on 2022-06-28 12:49:53+08:00.</h3>
+
+<p>—– <strong>581.1</strong> —–2022-06-28 15:17:34+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="582-manchu---english-submitted-on-2022-06-29-1017070800">582: <a href="https://old.reddit.com/r/translator/comments/vn4dee/manchu_english/">[manchu - english]</a>, submitted on 2022-06-29 10:17:07+08:00.</h3>
+
+<p>—– <strong>582.1</strong> —–2022-06-29 22:31:03+08:00:</p>
+
+<p>This looks like some kind of bizarre propaganda for… some kind of weird nationalist movement. But there is some legible text so here goes. I won’t bother with full translations everywhere, especially in the case of the top right text which is only partial and where I got the gist pretty fast. Each section has the Manchu script (legible to anyone with the appropriate fonts installed), the Romanisation (I use Norman rather than Abkai), and a literal word-for-word translation, followed by commentary.</p>
+
+<p>Photo caption (cut off at the bottom):</p>
+
+<blockquote>
+  <p>ᠠᠪᡴᠠ ᠮᠠᠨᠵᡠ ᡴᠠᡵᠮᠠᠮᡝ ᠠᡳ[…]</p>
+</blockquote>
+
+<blockquote>
+  <p>abka manju karmame ai[…]</p>
+</blockquote>
+
+<blockquote>
+  <p>Heaven Manchu protect (converb form) […]</p>
+</blockquote>
+
+<p>Turns out, a quick Google of the phrase “abka manju karmame” reveals its origins as the phrase <em>abka manju karmame aisireo</em> ᠠᠪᡴᠠ ᠮᠠᠨᠵᡠ ᡴᠠᡵᠮᠠᠮᡝ ᠠᡳᠰᡳᡵᡝᠣ, in literal terms ‘Heaven Manchu protect bless’, in more idiomatic terms ‘may Heaven protect the Manchus’. However, as pointed out by <a href="https://twitter.com/slmngy001/status/673014906355113984?lang=en">this Twitter user</a>, this is not really proper Manchu, as it lacks the accusative particle <em>be</em> ᠪᡝ. The user does also claim that the phrase doubles up on terms that translate to the same Mandarin term for ‘protect’, although consulting Norman’s dictionary, the two verbs do seem to be somewhat distinct, with <em>karmambi</em> being ‘protect’ or ‘safeguard’ while <em>aisimbi</em> is ‘bless’ or ‘uphold’. If grammatically rendered as <em>abka manju be karmame aisireo</em> ᠠᠪᡴᠠ ᠮᠠᠨᠵᡠ ᠪᡝ ᡴᠠᡵᠮᠠᠮᡝ ᠠᡳᠰᡳᡵᡝᠣ, it would mean something along the lines of ‘Heaven protectively bless the Manchus.’</p>
+
+<p>Top right (also cut off at the bottom)</p>
+
+<blockquote>
+  <p>ᠠᠪᡴᠠᡳ ᡝᠵᡝᠨ ᠠᠪᡴᠠᡳ ᡶᡝᠵᡝᡵᡤᡳ ᠨᡳᠶᠠ[]</p>
+</blockquote>
+
+<blockquote>
+  <p>abkai ejen abkai fejergi niya[]</p>
+</blockquote>
+
+<blockquote>
+  <p>Heaven (possessive) lord Heaven (possessive) under</p>
+</blockquote>
+
+<p>The first line cuts at <em>niya</em> but is almost certainly <em>niyalma</em>, ‘people’, but there is no verb so I cannot give a direct translation of these five words beyond the existence of the phrases ‘Lord of Heaven’, ‘[all] under Heaven’, and ‘people’.</p>
+
+<p><em>However</em> Google saves the day. A quick search revealed that these five words are the first of John 3:16 in what seems to have been a late 19th century Manchu translation, which in full reads</p>
+
+<blockquote>
+  <p>ᠠᠪᡴᠠᡳ ᡝᠵᡝᠨ ᠠᠪᡴᠠᡳ ᡶᡝᠵᡝᡵᡤᡳ ᠨᡳᠶᠠᠯᠮᠠ ᠪᡝ ᡤᠣᠰᡳᠮᡝ<br />
+ᡳᠨᡳ ᠪᠠᠨᠵᡳᡥᠠ ᡝᠮᡥᡠᡥ ᡨᡝᡳᠯᡝ ᠵᡠᡳ ᠪᡝ ᠴᡝᠨᡩᡝ ᠠᡶᠠᠪᡠᡥᠠᠩᡤᡝ<br />
+ᠴᠣᡥᠣᠮᡝ ᡨᡝᡩᡝ ᠠᡴᡩᠠᡵᠠ ᠶᠠᠶᠠ ᠨᡳᠶᠠᠯᠮᠠ ᡤᡠᡴᡠᡵᠠᡴᡠ ᠰᡝᡵᡝ ᠠᠩᡤᠠᠯᠠ<br />
+ᡝᠯᡝᠮᠠᠩᡤᠠ ᡝᠨᡨᡝᡥᡝᠮᡝ ᠪᠠᠨᡵᠵᡳᡝ ᠪᡝ ᠪᠠᡥᠠᡴᡳᠨᡳ ᠰᡝᡥᡝᠩᡤᡝ<br />
+ᡝᡵᡝ ᡨᡝᠨ  ᡳ ᡤᠣᠰᡳᠨ ᡴᠠᡳ</p>
+</blockquote>
+
+<blockquote>
+  <p>Abkai ejen abkai fejergi niyalma be gosime,<br />
+ini banjiha emhun teile jui be cende afabuhangge,<br />
+cohome tede akdara yaya niyalma gukuraku sere anggala,<br />
+elemangga enteheme banjire be bahakini sehengge,<br />
+ere ten i gosin kai.</p>
+</blockquote>
+
+<blockquote>
+  <p>Of-Heaven lord of-Heaven of-under people (acc.) love,<br />
+He born alone alone son (acc.) them (dat.) entrust,<br />
+Especially him (dat.) believe every person perish instead of,<br />
+On the other hand eternal living obtain say,<br />
+This highest (poss.) love (emphatic particle).</p>
+</blockquote>
+
+<p>Which to try to make idiomatic would be along the lines of:</p>
+
+<blockquote>
+  <p>The Lord of Heaven loved the people under Heaven, [so]<br />
+He entrusted them his only begotten son,<br />
+So that every person who believed him, instead of perishing,<br />
+Will instead receive eternal life.<br />
+This is the highest/greatest love.</p>
+</blockquote>
+
+<p>Contrast NIV:</p>
+
+<blockquote>
+  <p>For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.</p>
+</blockquote>
+
+<p>Or KJV:</p>
+
+<blockquote>
+  <p>For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.</p>
+</blockquote>
+
+<p>The final <em>ere ten i gosin kai</em> phrase seems to be an annotation to John 3:16 added in the text from which this clipping is drawn, quite possibly a Chinese translation from which the Manchu text was derived.</p>
+
+<p>Bottom right:</p>
+
+<blockquote>
+  <p>ᠵᡝᡤᡳᠶᠠᠩ ᡤᠣᠯᠣᡳ ᡩᠣᠣᠯᡳᡳ  ᡳ ᠪᡨᠠᡳᠠ ᠪᡝ ᠪᠠᡳᠴᠠᡵᠠ<br />
+ᠪᠠᡳᠴᠠᠮᡝ ᡨᠣᠣᡵᠠ ᡥᠠᡶᠠᠨ ᠪᠣᠣᠮᡳᠩ  ᡳ ᡤᡳᠩᡤᡠᠯᡝᠮᡝ ᠠᡵᠠᡥᠠᠩᡤᡝ<br />
+ᠠᠵᠯᠠᡶᡠᠨ</p>
+</blockquote>
+
+<blockquote>
+  <p>jegiyang goloi dooli i baita be baicara<br />
+baicame ?toora? hafan booming i gingguleme arahangge<br />
+jalafun</p>
+</blockquote>
+
+<blockquote>
+  <p>Zhejiang province (poss.) circuit (poss.) matter (acc.) inspection<br />
+inspect (converb) ?? official ?Booming? he respectfully written
+long life</p>
+</blockquote>
+
+<p>I’m not entirely sure on this, but it seems to be taken from the tail-end of some kind of administrative letter, written by an official named Booming (pronounced Baoming) declaring his involvement in some kind of inspection in a circuit of Zhejiang Province, and closing with wishing longevity upon the recipient. Unlike the other two texts I wasn’t able to cross-reference my transliteration against an online one, so I can only assume this is some sort of archival document not otherwise digitised.</p>
+
+<h3 id="583-how-did-alexander-the-great-found-all-those-alexandrias-submitted-on-2022-06-29-2128270800">583: <a href="https://old.reddit.com/r/AskHistorians/comments/vnfuj7/how_did_alexander_the_great_found_all_those/">How did Alexander the Great found all those Alexandrias?</a>, submitted on 2022-06-29 21:28:27+08:00.</h3>
+
+<p>—– <strong>583.1</strong> —–2022-07-07 02:24:34+08:00:</p>
+
+<p>It’s worth noting, as /u/Daeres does in <a href="https://www.reddit.com/r/AskHistorians/comments/rxz5wb/how_did_alexander_the_great_populate_the_cities/hrsfm2t/?context=999">this answer</a>, that most of Alexander’s foundations were not really of new cities outright, but either simply ‘refoundations’ of existing cities, or more often military garrisons that then became more substantial cities under the Successors, whose priorities and interests were somewhat different.</p>
+
+<h3 id="584-in-1636-the-manchu-khan-hong-taiji-proclaimed-the-formation-of-the-qing-dynasty-and-began-preparations-for-the-conquest-of-chinaalmost-ten-years-before-the-manchu-armies-actually-crossed-the-great-wall-why-what-was-the-origin-of-the-idea-that-they-should-conquer-china-submitted-on-2022-06-29-2331160800">584: <a href="https://old.reddit.com/r/AskHistorians/comments/vnij3p/in_1636_the_manchu_khan_hong_taiji_proclaimed_the/">In 1636, the Manchu khan Hong Taiji proclaimed the formation of the Qing dynasty and began preparations for the conquest of China–almost ten years before the Manchu armies actually crossed the Great Wall. Why? What was the origin of the idea that they should conquer China?</a>, submitted on 2022-06-29 23:31:16+08:00.</h3>
+
+<p>—– <strong>584.1</strong> —–2022-06-30 02:48:34+08:00:</p>
+
+<p>This is a question for which we do not necessarily have a good answer. Hong Taiji never specifically explained his motives for renaming the state of Latter Jin to the Qing Empire, and historians have been somewhat divided over the exact etymology of the name Qing. This argument over etymology actually serves as a reasonable jumping-off point for discussing questions over the Qing foundation more generally. To paraphrase from <a href="https://www.reddit.com/r/AskHistorians/comments/q66knu/why_did_the_yuan_ming_and_qing_dynasties_deviate/hgbzl7p/?context=999">a previous answer</a>:</p>
+
+<ol>
+  <li>
+    <p>The Chinese character <em>qing</em> 清, meaning ‘pure’, contains the water radical (氵); whereas the character <em>ming</em> 明, meaning ‘bright’, contains the characters for the sun (日) and the moon (月), and thus has associations with fire. The water-associated Qing would thus extinguish the fire-associated Ming.</p>
+  </li>
+  <li>
+    <p>The Mongolian transliteration of <em>da qing</em> 大清 is <em>daiiching</em>, which might have been a pun on the Mongolian word <em>daiichin</em>, ‘warrior’, and so another target of this change may have been the eastern Mongols whom the Qing were courting at the time.</p>
+  </li>
+  <li>
+    <p>Some Japanese scholarship from the turn of the millennium has suggested that early Manchu documents sometimes use the phrase <em>amba cin gurun</em> interchangeably with <em>daicing gurun</em>, suggesting that there could originally have been an intended near-homophone in Manchu that later fell out of use. <em>Cin</em> can be defined ‘chief, principal, main’ or ‘straight, straightforward’, so <em>amba cin</em> possibly meant something like ‘The Great Primary State’ or ‘The Great Steady State’ or something along those lines, as something rooted in essentially Manchurian/Northeastern precedents.</p>
+  </li>
+</ol>
+
+<p>Now, a reasonable line of argument is that all three could be true at once: Hong Taiji hit on a name for his state that appealed to three distinct constituencies. And this is something we need to consider next: the multiple axes of Qing expansion. We tend to think of the Qing in the mid-seventeenth century as being predominantly preoccupied with the conquest of China, but this isn’t necessarily the whole picture. By the end of the 1620s the Jin state had largely secured its base area in Manchuria and driven out any notable remaining Ming bridgeheads, and its major military efforts were now mainly focussed to the west towards the Mongolic steppe, and to the north up into what would ultimately become the Russian Far East. The most substantial Qing success would come with the surrender of Ejei Khan of the Chakhars, son of the recently-deceased Lighdan Khan, in 1635. Up until that point, the Great Yuan still technically existed, with the imperial seal passed down ultimately to the leaders of the Chakhar tribe; Ejei’s surrender meant these seals now fell into the hands of Hong Taiji, and it has been suggested that it was in fact this particular prestige coup that led Hong Taiji to re-found the Jin as the Great Qing. As with the etymological issue, this raises more questions than it answers about Qing motivations. On the one hand, yes the Yuan was sort of ‘canonically’ part of the succession of Chinese states, and so the claim on those seals theoretically allowed the Manchus to also claim inheritance to the Mongolian claim over China. But equally, the dissolution of the Northern Yuan and the implicit claim of the Aisin Gioro to the mantle of Great Khan substantially increased the Qing’s prestige claims in the steppe as well. So we cannot use this to really give a good accounting of Qing motives.</p>
+
+<p>As Nicola di Cosmo notes in <a href="https://www.youtube.com/watch?v=Gl1-vop7ipY">this rather substantial seminar talk</a>, there is somewhat of a question as to whether the Qing conquest of China was at all premeditated, or rather an opportunistic response to the collapse of the Ming by a state whose ambitions had hitherto been more regional in character. We do, for instance, have Qing texts from the period where that end goal is at the very least implied and to some extent overtly stated: for instance, Nurgaci in 1622 is supposed to have delivered a speech to his troops stating that Beijing, Nanjing, and Kaifeng ought to be regarded as historically Jurchen as much as Han Chinese; Hong Taiji used the Chinese phrase <em>da shi</em> 大事 (‘great enterprise’), a term signifying the overthrow and replacement of the current dominant Chinese state, as early as 1631 to describe his intentions to Ming officers whom he was courting the defection of. But declarations of idealised ambitions are not exactly the same as declarations of practical intent. For instance, Nurgaci boasted that his armies would cross the Shanhaiguan by 1624, but such plans never even materialised, and in any case such a move could just as easily be a large-scale raid as an attempt at conquest. How to interpret all this thus is a bit up in the air. At one extreme you might have Frederic Wakeman’s position, where the entire <em>raison d’etre</em> of the Aisin Gioro clan beginning with Nurgaci was the conquest of Ming-ruled China; at the other is Pamela Crossley’s argument that this narrative is essentially false and largely the product of Qianlong-era teleological histories portraying the formation of the Qing Empire as preordained by heaven, while actual Jurchen-Manchu policy in the period was much more contingent and reactive.</p>
+
+<p>What makes this especially hard is that state-building is something that can be pursued on its own merits without necessarily being directed at a specific external entity. Yes, the Manchus made substantial strides towards improving the quality and usage of gunpowder weapons, but just because they were getting better at siegecraft doesn’t mean they were necessarily planning on taking over China as opposed, say, to Korea. Yes, they adopted a civil government structure modelled after the Six Boards used in China, but that doesn’t necessarily mean they were planning on then extending that over China, as it could just be that the Chinese civil service was a tried and tested model that was easy enough to replicate. Indeed, as I stressed earlier, there were also Qing ambitions in Mongolia (indeed, most of what is now Inner Mongolia was under Qing direct rule or suzerainty by 1644) that were no less served by their military and administrative expansion.</p>
+
+<p>We also ought to account for the formation of the Banners and indeed the Manchus here, as this is also a point of ambiguity. Firstly, the Manchus: in 1635, Hong Taiji had also proscribed the use of the word ‘Jurchen’ to denote the tribes he now designated as ‘Manchu’, which excluded certain tribes such as some of the northerly ‘Yeren’ tribes, disambiguated some liminal cases such as the Yehe Nara, and also included certain tribes that did not themselves identify as Manchu such as the Sibe. This designation, which can be seen as a deliberate break from the earlier Jurchens <a href="https://www.reddit.com/r/AskHistorians/comments/u4tkfm/did_the_manchu_qing_empire_know_of_its_connection/i4y7gpq/">(see here for more)</a>, marked the beginning of the creation of a Manchu group identity tied specifically to what would become the Qing, and a discontinuity from the Jurchen Jin. This doesn’t directly bear on the idea of a conquest of China of course, but it would be remiss not to account for the formation of the core of the conquest elite in the context of these mid-1630s developments. More broadly, the formation of the Banners is complicated because while yes, Han Chinese constituted a substantial (indeed, for some time a majority) component after the establishment of the Hanjun Banners in 1631, there was also a Mongol component for one, and for another in the long run the ‘Martial Han’ (<em>Hanjun</em>) of the Banners were considered somewhat ethnically distinct from ‘civilian’ Han Chinese in China Proper. Indeed, the Manchu terminology for the Hanjun Banners sidelines the notion of their being ethnically Han, using the term <em>ujen cooha gūsa</em> (‘heavy troops banners’) rather than the term for the Han, <em>nikan</em>, while ‘Mongol Banner’ (<em>monggo gūsa</em>) was still used for the Mongol Banners.</p>
+
+<p><em>But</em>, despite all the doubt I have cast above, it does seem reasonable to argue that some sense of a meaningful ambition to conquer China had coalesced by the early 1630s. Mark Elliott cites two pronouncements by Hong Taiji, one in 1632 and another in 1634, in which he expresses substantial concern over the prospect of an erosion of Jurchen cultural values after a conquest of China. Such concerns, expressed at such length, would not be reasonable on the part of someone without some genuine intent to see them through. One can ask when exactly Hong Taiji finally started moving things off the drawing board into actual policy, but by the latest I would say the period 1641-4, which saw the Qing reduce many of the last Ming strongholds outside the Shanhai Pass and launch major raids across the Great Wall, even before the revolt of Li Zicheng overthrew the Ming from within. That is not to say that the conquest itself was not perhaps opportunistic in terms of its timing: the Qing could not have predicted that the Ming state would be toppled domestically, after all. Moreover, as Peter Perdue has argued, the Manchu-led state was actually starting to run out of portable wealth that could be effectively distributed to keep the elites of its various constituents in line by 1644, and the collapse of the Ming proved to be a bit of a lucky break. But it seems reasonable enough to suggest that there was a distinctly Ming-oriented character to Qing state-building efforts under Hong Taiji, even if there may not have been a specifically planned timeframe for conquest.</p>
+
+<p>—– <strong>584.2</strong> —–2022-06-30 02:51:43+08:00:</p>
+
+<p><em>Why</em> conquer China, though? There may be no answer other than that it was there, it was wealthy, and therefore ruling it was both possible and desirable. That isn’t to say there may not have been some ideological dimension, of course, but this is hard to discuss by virtue of the aforementioned teleological gloss that later Qing sources put on the events. It’s not reasonable to argue that the Manchus saw themselves as necessarily Chinese, yet at the same time during the early Kangxi era at least, there was some notion of both Manchuria and China Proper constituting a coherent <em>dorgi</em> (‘inner’) territory inhabited by sedentary peoples, distinct from the nomadic <em>tulergi</em> (‘outer’) lands of the empire. If we can retroject this we might argue that by the time a serious intent to conquer China had manifested, there was some notion of this region forming a coherent whole with the Manchu homeland. But all this is necessarily somewhat speculative in nature.</p>
+
+<p>To return to the original core question, ‘why found the Qing?’, the answer I think lies mainly in the surrender of Ejei Khan. Not necessarily in the event itself, of course, but in the moment at which the already-extant Latter Jin state came into the possession of a substantial prestige claim over both China and the steppe, in conjunction with the formation of the Manchus as a new ethnic group descended but distinct from the Jurchens. The foundation of the Great Qing marked the climax of what can be argued to have been an ongoing process of shifting the ethos of the Latter Jin state from a Jurchen regime of relatively regional ambitions towards a multiethnic, if still Manchu-dominated, imperial formation that would encompass a wider range of territories and peoples, including Mongolia as well as China proper.</p>
+
+<p>In retrospect the above answer may not have pressed upon the importance of Mongolia quite as much as I might now have wanted to (take for instance Hong Taiji’s substantial patronage of Vajrayana Buddhist monasteries, and the uncertain though not implausible suggestion that ‘Manchu’ is a derivative of the Boddhisatva Manjusri). To use it as a bit of a coda here, while more substantial Qing entanglement in the steppe would not really resume until the 1680s, there was nevertheless a continuous Qing hand in the region extending back before the conquest of China, which would be sustained even during that conquest period. While the Chinese campaigns naturally drew the bulk of Qing state attention after 1644, they were not so single-minded as to abandon their prestige claims on the steppe, or the necessary steps to maintain that claim through forming and maintaining alliances with Mongolian tribes. While the Qing emperors did not formally take up the title of Great Khan (<em>khagan</em>) until the Dolon Nor assembly of 1691, their pretensions to <em>universal</em> rulership (as opposed to more narrowly Chinese emperorship) arguably extended back into the pre-conquest period and would be sustained through the intervening time.</p>
+
+<p>—– <strong>584.3</strong> —–2022-06-30 15:12:58+08:00:</p>
+
+<p>I don’t really think any one person can give reading recommendations for the entire sweep of East Asian history up to the mid-seventeenth century, and I will not try to. I will only discuss reading relevant to the answer above.</p>
+
+<p>The classic text is Frederic Wakeman’s <em>The Great Enterprise</em>, a two-volume epic charting the history of China from about 1600 to 1700, with a reasonable consideration of the Manchu perspective for a piece of 1980s historiography, but also a certain, understandable, Sinocentric bent. A more concise coverage of the key period of the Qing conquest is Kenneth Swope’s <em>The Military Collapse of China’s Ming Dynasty</em>, though as the title implies that book is largely told from the Ming point of view and with a concentration on military and political institutions. Pamela Crossley’s <em>A Translucent Mirror</em>, which I also allude to in the answer, has a number of crisscrossing lines of argument, one of which is a deconstruction of eighteenth-century histories of the seventeenth-century conquest period, and so she does – somewhat disjointedly – cover early Qing history there as well. Gertraude Roth Li’s chapter in the <em>Cambridge History of China</em> Vol. 9.1 is also worth a read for a detailed overview of the growth of the Jurchen state under Nurgaci and Hong Taiji as well as its antecedents among earlier Jurchen polities. A good general history of the Qing empire is William T. Rowe’s <em>China’s Last Empire</em>, though its sections up to 1800 are stronger than the ones covering the nineteenth century.</p>
+
+<h3 id="585-star-trek-strange-new-worlds--1x09-all-those-who-wander-reaction-thread-submitted-on-2022-06-30-1859050800">585: <a href="https://old.reddit.com/r/DaystromInstitute/comments/vo5mo2/star_trek_strange_new_worlds_1x09_all_those_who/">Star Trek: Strange New Worlds | 1x09 “All Those Who Wander” Reaction Thread</a>, submitted on 2022-06-30 18:59:05+08:00.</h3>
+
+<p>—– <strong>585.1</strong> —–2022-07-01 01:28:32+08:00:</p>
+
+<blockquote>
+  <p>Pike’s mission is 5 years before Kirk takes over.</p>
+</blockquote>
+
+<p>Seven, give or take. When exactly the first Five-Year Mission began and ended isn’t established in TOS, but a line in Voyager says it ended in 2270, and so it presumably began in 2265/6; SNW season 1 takes place in 2258.</p>
+
+<p>—– <strong>585.2</strong> —–2022-07-01 01:29:03+08:00:</p>
+
+<p>She’s also mentioned being alongside the actor playing James T Kirk (whose name escapes me for the moment) so she’s definitely still in it.</p>
+
+<p>—– <strong>585.3</strong> —–2022-07-01 01:29:46+08:00:</p>
+
+<blockquote>
+  <p>Not thrilled to see them write off one of the other original characters by sending her on a side quest</p>
+
+</blockquote>
+
+<p>It’s not a complete write-off as Christina Chong is returning as La’an for S2, but that’s an out-of-universe detail.</p>
+
+<h3 id="586-thoughts-on-ds9s-in-the-pale-moonlight-submitted-on-2022-07-01-0858170800">586: <a href="https://old.reddit.com/r/startrek/comments/vonvn2/thoughts_on_ds9s_in_the_pale_moonlight/">Thoughts on DS9’s “In the Pale Moonlight”</a>, submitted on 2022-07-01 08:58:17+08:00.</h3>
+
+<p>—– <strong>586.1</strong> —–2022-07-01 18:58:02+08:00:</p>
+
+<blockquote>
+  <p>Sisko’s violation of his own values here appears to make it easier next time he decides to violate his own values: when he goes after Eddington, and decides to make an entire planet uninhabitable to flush him out. That’s the episode where he decides to play Javert to Eddington’s Valjean.</p>
+
+</blockquote>
+
+<p>It might just be some odd phrasing here, but Sisko’s whole chemical weapon attack was in mid-Season 5, while In the Pale Moonlight happens in the back half of Season 6.</p>
+
+<p>—– <strong>586.2</strong> —–2022-07-02 10:42:08+08:00:</p>
+
+<p>A major difference is the relative degree of intentionality and lucidity. In For The Uniform, Sisko is motivated primarily by irrational hatred, but in In The Pale Moonlight, his motivation is essentially rational in nature. It’s one thing to do something terrible in a fit of rage, it’s another to do it as a premeditated act.</p>
+
+<h3 id="587-ancient-civilisations-were-built-on-river-floodplains-because-of-the-soil-quality-why-didnt-the-incredibly-fertile-lands-north-of-the-black-sea-ever-become-a-center-of-ancient-civilisation-submitted-on-2022-07-01-1537150800">587: <a href="https://old.reddit.com/r/AskHistorians/comments/vov2qp/ancient_civilisations_were_built_on_river/">Ancient civilisations were built on river floodplains, because of the soil quality. Why didnt the incredibly fertile lands north of the black sea ever become a center of ancient civilisation?</a>, submitted on 2022-07-01 15:37:15+08:00.</h3>
+
+<p>—– <strong>587.1</strong> —–2022-07-01 21:26:21+08:00:</p>
+
+<p>Sorry, but we have removed your response, as we expect answers in this subreddit to be <a href="https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/">in-depth and comprehensive</a>, and to demonstrate a <a href="https://www.reddit.com/r/AskHistorians/comments/g3peg6/rules_roundtable_x_informed_complete_answers_the/">familiarity</a> with the <a href="https://www.reddit.com/r/AskHistorians/comments/fj1ieh/rules_roundtable_v_sources_what_is_required/">current, academic understanding</a> of the topic at hand. Before contributing again, please take the time to better familiarize yourself with <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_write_an_in-depth_answer">the rules</a>, as well as our expectations for an answer such as featured on <a href="http://www.twitter.com/askhistorians">Twitter</a> or in the <a href="http://www.reddit.com/r/AskHistorians/search?q=title%3A%22Sunday+Digest%22&amp;restrict_sr=on&amp;sort=new&amp;t=all">Sunday Digest</a>.</p>
+
+<h3 id="588-if-the-rosetta-stone-was-never-found-have-we-discovered-anything-since-that-would-have-enabled-us-to-decipher-ancient-egyptian-submitted-on-2022-07-01-2214100800">588: <a href="https://old.reddit.com/r/AskHistorians/comments/vp1u3t/if_the_rosetta_stone_was_never_found_have_we/">If the Rosetta Stone was never found, have we discovered anything since that would have enabled us to decipher Ancient Egyptian?</a>, submitted on 2022-07-01 22:14:10+08:00.</h3>
+
+<p>—– <strong>588.1</strong> —–2022-07-02 03:41:26+08:00:</p>
+
+<p>Sorry, but we have had to remove your comment. <a href="https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/">Please understand that people come here because they want an informed response from someone capable of engaging with the sources, and providing follow up information</a>. Even when the source might be an appropriate one to answer the question, simply linking to or quoting from a source is a violation of the <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_do_not_just_post_links_or_quotations">rules we have in place here</a>. These sources, of course, can make up an important part of a well-rounded answer but do not equal an answer on their own. While there are other places on reddit for such comments, it is presumed that in posting here, the OP is looking for an answer that is in line with our rules. You can find further discussion of this policy <a href="https://www.reddit.com/r/AskHistorians/comments/h8abv9/rules_roundtable_xvii_answers_must_not_be/">here</a>. In the future, please take the time to better familiarize yourself with <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_write_an_in-depth_answer">the rules</a> before contributing again.</p>
+
+<h3 id="589-why-was-alexander-planning-to-invade-arabia-before-his-death-in-323bc-submitted-on-2022-07-02-0331270800">589: <a href="https://old.reddit.com/r/AskHistorians/comments/vp8y9y/why_was_alexander_planning_to_invade_arabia/">Why was Alexander planning to invade Arabia before his death in 323BC?</a>, submitted on 2022-07-02 03:31:27+08:00.</h3>
+
+<p>—– <strong>589.1</strong> —–2022-07-07 02:25:53+08:00:</p>
+
+<p>I’m curious where you encountered this factoid. As I note in <a href="https://www.reddit.com/r/AskHistorians/comments/nzzlvs/did_alexander_the_great_ever_intended_to_conquer/h1th0z6/">this answer</a>, the information we have on the existence or otherwise of Alexander’s plans for further conquest is murky and contradictory. It’s not that there’s <em>no</em> sources claiming he was going to invade Arabia (there are), but some claim he was aiming elsewhere.</p>
+
+<h3 id="590-one-of-the-newest-members-of-vshojo-amemiya-nazuna-an-angel-with-amnesia-posted-her-first-tweet-submitted-on-2022-07-03-0905460800">590: <a href="https://old.reddit.com/r/VirtualYoutubers/comments/vq5spn/one_of_the_newest_members_of_vshojo_amemiya/">One of the newest members of Vshojo, Amemiya Nazuna an angel with amnesia, posted her first tweet</a>, submitted on 2022-07-03 09:05:46+08:00.</h3>
+
+<p>—– <strong>590.1</strong> —–2022-07-03 19:02:47+08:00:</p>
+
+<p>Isn’t Kson from Atlanta?</p>
+
+<h3 id="591-urban-legends-urban-myths--what-is-it-that-makes-a-piece-of-folklore-urban-is-it-purely-a-quirk-of-etymology-or-do-urban-communities-genuinely-produce-folklore-in-a-distinct-way-or-a-distinct-kind-from-rural-ones-submitted-on-2022-07-03-1545210800">591: <a href="https://old.reddit.com/r/AskHistorians/comments/vqccb0/urban_legends_urban_myths_what_is_it_that_makes_a/">‘Urban legends’, ‘urban myths’ – What is it that makes a piece of folklore ‘urban’? Is it purely a quirk of etymology, or do urban communities genuinely produce folklore in a distinct way, or a distinct kind, from rural ones?</a>, submitted on 2022-07-03 15:45:21+08:00.</h3>
+
+<p>—– <strong>591.1</strong> —–2022-07-03 20:07:59+08:00:</p>
+
+<p>I am sorry to have caused such distress, but deeply gratified that you chose to answer regardless.</p>
+
+<p>—– <strong>591.2</strong> —–2022-07-03 21:12:11+08:00:</p>
+
+<p>And I was happy to play along :)</p>
+
+<h3 id="592-hobby-scuffles-week-of-july-4-2022-submitted-on-2022-07-03-2300150800">592: <a href="https://old.reddit.com/r/HobbyDrama/comments/vqjh3n/hobby_scuffles_week_of_july_4_2022/">[Hobby Scuffles] Week of July 4, 2022</a>, submitted on 2022-07-03 23:00:15+08:00.</h3>
+
+<p>—– <strong>592.1</strong> —–2022-07-04 03:46:53+08:00:</p>
+
+<p>Gosh, I never thought I was ever going to be reminded of GameChap and Bertie!</p>
+
+<p>—– <strong>592.2</strong> —–2022-07-04 21:15:19+08:00:</p>
+
+<blockquote>
+  <p>a decrease in air quality due to Co2 (aka a lack of proper indoor ventilation) can increase risks for people to catch airborne diseases like covid.</p>
+</blockquote>
+
+<p>I’d correct that to say that the relative quantity of Co2 correlates with factors that would lead to heightened risk of airborne disease transmission. As phrased it implies it’s the Co2 itself causing increased disease risk.</p>
+
+<p>—– <strong>592.3</strong> —–2022-07-05 00:09:33+08:00:</p>
+
+<p>Calli, who resumed activity on her alt earlier this year.</p>
+
+<p>Said alt being &gt;!DemonDice!&lt; for those interested.</p>
+
+<p>—– <strong>592.4</strong> —–2022-07-05 00:44:31+08:00:</p>
+
+<p>Not quite, if you look later in that paragraph you will see that I wrote</p>
+
+<blockquote>
+  <p>she did have a contract with Japanese streaming site Mildom and was very regular there</p>
+</blockquote>
+
+<p>There are some other regularly active alts of current Holomems, notably &gt;!Matsuri!&lt; and &gt;!Noel!&lt; (the latter is also a contender for ‘Hololive’s worst kept secret’).</p>
+
+<p>—– <strong>592.5</strong> —–2022-07-05 02:52:44+08:00:</p>
+
+<p>See <a href="https://www.reddit.com/r/HobbyDrama/comments/vqjh3n/hobby_scuffles_week_of_july_4_2022/ietz9m2/">this comment</a>.</p>
+
+<p>—– <strong>592.6</strong> —–2022-07-06 02:39:51+08:00:</p>
+
+<p>While a fun explanation, it’s not actually true; Civ I didn’t have those kinds of overflow issues. According to Sid Meier, <a href="https://screenrant.com/civilization-nuclear-gandhi-glitch-not-bug-sid-meier/">he deliberately made Gandhi a warmongering psycho for shits and giggles</a>.</p>
+
+<p>—– <strong>592.7</strong> —–2022-07-06 02:40:21+08:00:</p>
+
+<p>Two if you also count <em>The Buildings</em>.</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-07-10</time>
+        <a href="https://nodebe4.github.io/opinion/2022-07-10/theoryofdoom/">
+          theoryofdoom在2022-07-04~2022-07-10的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-07-10</time>
+        <a href="https://nodebe4.github.io/opinion/2022-07-10/EnclavedMicrostate/">
+          EnclavedMicrostate在2022-07-04~2022-07-10的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-07-02</time>
+        <a href="https://nodebe4.github.io/opinion/2022-07-02/theoryofdoom/">
+          theoryofdoom在2022-06-27~2022-07-03的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-07-01</time>
+        <a href="https://nodebe4.github.io/opinion/2022-07-01/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-06-27~2022-07-03的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-07-02/%E6%AD%8C%E8%8E%89%E4%BA%9E%E7%9A%84%E5%A5%BD%E5%A5%87%E4%B8%AD%E5%B3%B6-43-%E4%B8%80%E7%B3%B8%E7%99%BD%E6%B0%B4-%E4%B8%80%E7%B7%9A%E9%80%A3%E7%B9%AB%E5%A4%A7%E8%87%AA%E7%84%B6-%E5%98%89%E8%B3%93-%E6%B0%B4%E5%A2%A8%E7%95%AB%E5%AE%B6-%E5%BB%96%E6%B0%B8%E9%9B%84/">
+            前一篇：歌莉亞的好奇中島】#43　一糸白水　一線連繫大自然（嘉賓：水墨畫家　廖永雄）
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-07-03/HeQinglian/">
+            後一篇：Twitter @He Qinglian: 2022-06-27~2022-07-03
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-07-02/%E6%AD%8C%E8%8E%89%E4%BA%9E%E7%9A%84%E5%A5%BD%E5%A5%87%E4%B8%AD%E5%B3%B6-43-%E4%B8%80%E7%B3%B8%E7%99%BD%E6%B0%B4-%E4%B8%80%E7%B7%9A%E9%80%A3%E7%B9%AB%E5%A4%A7%E8%87%AA%E7%84%B6-%E5%98%89%E8%B3%93-%E6%B0%B4%E5%A2%A8%E7%95%AB%E5%AE%B6-%E5%BB%96%E6%B0%B8%E9%9B%84/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-07-03/HeQinglian/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-07-10/EnclavedMicrostate/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-07-02/theoryofdoom/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-07-02/%E6%AD%8C%E8%8E%89%E4%BA%9E%E7%9A%84%E5%A5%BD%E5%A5%87%E4%B8%AD%E5%B3%B6-43-%E4%B8%80%E7%B3%B8%E7%99%BD%E6%B0%B4-%E4%B8%80%E7%B7%9A%E9%80%A3%E7%B9%AB%E5%A4%A7%E8%87%AA%E7%84%B6-%E5%98%89%E8%B3%93-%E6%B0%B4%E5%A2%A8%E7%95%AB%E5%AE%B6-%E5%BB%96%E6%B0%B8%E9%9B%84/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-07-03/HeQinglian/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-07-10/EnclavedMicrostate/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-07-02/theoryofdoom/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

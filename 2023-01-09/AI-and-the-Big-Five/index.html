@@ -1,0 +1,3025 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>AI and the Big Five – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+AI and the Big Five
+——
+" />
+    <meta property="og:description" content="
+AI and the Big Five
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="AI and the Big Five" />
+    <meta property="twitter:title" content="AI and the Big Five" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2023%2Fai-and-the-big-five%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2023/ai-and-the-big-five/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2023/ai-and-the-big-five/&text=AI and the Big Five&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2023/ai-and-the-big-five/&title=AI and the Big Five" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2023/ai-and-the-big-five/&title=AI and the Big Five" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=AI and the Big Five&body=
+AI and the Big Five
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2023/ai-and-the-big-five/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2023/ai-and-the-big-five/&title=AI and the Big Five&caption=
+AI and the Big Five
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=AI and the Big Five&url=https://stratechery.com/2023/ai-and-the-big-five/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>AI and the Big Five</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2023-01-09
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2023/ai-and-the-big-five/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1673268381000-->
+<p><a href="https://stratechery.com/2023/ai-and-the-big-five/">AI and the Big Five</a>
+——</p>
+
+<div>
+  <p>The story of 2022 was the emergence of AI, first with image generation models, including DALL-E, MidJourney, and the open source Stable Diffusion, and then ChatGPT, the first text-generation model <a href="https://stratechery.com/2022/ai-homework/">to break through in a major way</a>. It seems clear to me that this is a new epoch in technology.</p>
+  <p>To determine how that epoch might develop, though, it is useful to look back 26 years to one of the most famous strategy books of all time: Clayton Christensen’s <a href="http://claytonchristensen.com/books/the-innovators-dilemma/">The Innovator’s Dilemma</a>, particularly this passage on the different kinds of innovations:</p>
+  <blockquote>
+    <p>Most new technologies foster improved product performance. I call these sustaining technologies. Some sustaining technologies can be discontinuous or radical in character, while others are of an incremental nature. What all sustaining technologies have in common is that they improve the performance of established products, along the dimensions of performance that mainstream customers in major markets have historically valued. Most technological advances in a given industry are sustaining in character…</p>
+    <p>Disruptive technologies bring to a market a very different value proposition than had been available previously. Generally, disruptive technologies underperform established products in mainstream markets. But they have other features that a few fringe (and generally new) customers value. Products based on disruptive technologies are typically cheaper, simpler, smaller, and, frequently, more convenient to use.</p>
+  </blockquote>
+  <p>It seems easy to look backwards and determine if an innovation was sustaining or disruptive by looking at how incumbent companies fared after that innovation came to market: if the innovation was sustaining, then incumbent companies became stronger; if it was disruptive then presumably startups captured most of the value.</p>
+  <p>Consider previous tech epochs:</p>
+  <ul>
+    <li>The PC was disruptive to nearly all of the existing incumbents; these relatively inexpensive and low-powered devices didn’t have nearly the capability or the profit margin of mini-computers, much less mainframes. That’s why IBM was happy to outsource both the original PC’s chip and OS to Intel and Microsoft, respectively, so that they could get a product out the door and satisfy their corporate customers; PCs got faster, though, and it was Intel and Microsoft that dominated as the market dwarfed everything that came before.</li>
+    <li>The Internet was almost entirely new market innovation, and thus defined by completely new companies that, to the extent they disrupted incumbents, did so in industries far removed from technology, particularly those involving information (i.e. the media). This was the era of Google, Facebook, online marketplaces and e-commerce, etc. All of these applications ran on PCs powered by Windows and Intel.</li>
+    <li>Cloud computing is arguably part of the Internet, but I think it deserves its own category. It was also extremely disruptive: commodity x86 architecture swept out dedicated server hardware, and an entire host of SaaS startups peeled off features from incumbents to build companies. What is notable is that the core infrastructure for cloud computing was primarily built by the winners of previous epochs: Amazon, Microsoft, and Google. Microsoft is particularly notable because the company also transitioned its traditional software business to a SaaS service, in part because the company had already transitioned said software business to a subscription model.</li>
+    <li>Mobile ended up being dominated by two incumbents: Apple and Google. That doesn’t mean it wasn’t disruptive, though: Apple’s new UI paradigm entailed not viewing the phone as a small PC, a la Microsoft; Google’s new business model paradigm entailed not viewing phones as a direct profit center for operating system sales, but rather as <a href="https://abovethecrowd.com/2011/03/24/freight-train-that-is-android/">a moat for their advertising business</a>.</li>
+  </ul>
+  <p>What is notable about this history is that the supposition I stated above isn’t quite right; disruptive innovations do consistently come from new entrants in a market, but those new entrants aren’t necessarily startups: some of the biggest winners in previous tech epochs have been existing companies leveraging their current business to move into a new space. At the same time, the other tenets of Christensen’s theory hold: Microsoft struggled with mobile because it was disruptive, but SaaS was ultimately sustaining because its business model was already aligned.</p>
+  <hr />
+  <p>Given the success of existing companies with new epochs, the most obvious place to start when thinking about the impact of AI is with the big five: Apple, Amazon, Facebook, Google, and Microsoft.</p>
+  <h3 id="apple">Apple</h3>
+  <p>I already referenced one of the most famous books about tech strategy; one of the most famous essays was Joel Spolsky’s <a href="https://www.joelonsoftware.com/2002/06/12/strategy-letter-v/">Strategy Letter V</a>, particularly this famous line:</p>
+  <blockquote>
+    <p>Smart companies try to commoditize their products’ complements.</p>
+  </blockquote>
+  <p>Spolsky wrote this line in the context of explaining why large companies would invest in open source software:</p>
+  <blockquote>
+    <p>Debugged code is NOT free, whether proprietary or open source. Even if you don’t pay cash dollars for it, it has opportunity cost, and it has time cost. There is a finite amount of volunteer programming talent available for open source work, and each open source project competes with each other open source project for the same limited programming resource, and only the sexiest projects really have more volunteer developers than they can use. To summarize, I’m not very impressed by people who try to prove wild economic things about free-as-in-beer software, because they’re just getting divide-by-zero errors as far as I’m concerned.</p>
+    <p>Open source is not exempt from the laws of gravity or economics. We saw this with Eazel, ArsDigita, The Company Formerly Known as VA Linux and a lot of other attempts. But something is still going on which very few people in the open source world really understand: a lot of very large public companies, with responsibilities to maximize shareholder value, are investing a lot of money in supporting open source software, usually by paying large teams of programmers to work on it. And that’s what the principle of complements explains.</p>
+    <p>Once again: demand for a product increases when the price of its complements decreases. In general, a company’s strategic interest is going to be to get the price of their complements as low as possible. The lowest theoretically sustainable price would be the “commodity price” — the price that arises when you have a bunch of competitors offering indistinguishable goods. So, smart companies try to commoditize their products’ complements. If you can do this, demand for your product will increase and you will be able to charge more and make more.</p>
+  </blockquote>
+  <p>Apple invests in open source technologies, most notably the the Darwin kernel for its operating systems and the WebKit browser engine; the latter fits Spolsky’s prescription as ensuring that the web works well with Apple devices makes Apple’s devices more valuable.</p>
+  <p>Apple’s efforts in AI, meanwhile, have been largely proprietary: traditional machine learning models are used for things like recommendations and photo identification and voice recognition, but nothing that moves the needle for Apple’s business in a major way. Apple did, though, receive an incredible gift from the open source world: Stable Diffusion.</p>
+  <p>Stable Diffusion is remarkable not simply because it is open source, but also because the model is surprisingly small: when it was released it could already run on some consumer graphics cards; within a matter of weeks it had been optimized to the point where <a href="https://stratechery.com/2022/lensa-and-stable-diffusion-stable-diffusion-and-apple-silicon-open-questions/">it could run on an iPhone</a>.</p>
+  <p>Apple, to its immense credit, has seized this opportunity, with <a href="https://machinelearning.apple.com/research/stable-diffusion-coreml-apple-silicon">this announcement</a> from its machine learning group last month:</p>
+  <blockquote>
+    <p>Today, we are excited to release optimizations to Core ML for Stable Diffusion in macOS 13.1 and iOS 16.2, along with code to get started with deploying to Apple Silicon devices…</p>
+    <p>One of the key questions for Stable Diffusion in any app is where the model is running. There are a number of reasons why on-device deployment of Stable Diffusion in an app is preferable to a server-based approach. First, the privacy of the end user is protected because any data the user provided as input to the model stays on the user’s device. Second, after initial download, users don’t require an internet connection to use the model. Finally, locally deploying this model enables developers to reduce or eliminate their server-related costs…</p>
+    <p>Optimizing Core ML for Stable Diffusion and simplifying model conversion makes it easier for developers to incorporate this technology in their apps in a privacy-preserving and economically feasible way, while getting the best performance on Apple Silicon. This release comprises a Python package for converting Stable Diffusion models from PyTorch to Core ML using diffusers and coremltools, as well as a Swift package to deploy the models.</p>
+  </blockquote>
+  <p>It’s important to note that this announcement came in two parts: first, Apple optimized the Stable Diffusion model itself (which it could do because it was open source); second, Apple updated its operating system, which thanks to Apple’s integrated model, is already tuned to Apple’s own chips.</p>
+  <p>Moreover, it seems safe to assume that this is only the beginning: while Apple has been shipping its so-called “Neural Engine” on its own chips for years now, that AI-specific hardware is tuned to Apple’s own needs; it seems likely that future Apple chips, if not this year than probably next year, will be tuned for Stable Diffusion as well. Stable Diffusion itself, meanwhile, could be built into Apple’s operating systems, with easily accessible APIs for any app developer.</p>
+  <p>This raises the prospect of “good enough” image generation capabilities being effectively built-in to Apple’s devices, and thus accessible to any developer without the need to scale up a back-end infrastructure of the sort needed by the viral hit Lensa. And, by extension, the winners in this world end up looking a lot like the winners in the App Store era: Apple wins because its integration and chip advantage are put to use to deliver differentiated apps, while small independent app makers have the APIs and distribution channel to build new businesses.</p>
+  <p>The losers, on the other hand, would be centralized image generation services like Dall-E or MidJourney, and the cloud providers that undergird them (and, to date, undergird the aforementioned Stable Diffusion apps like Lensa). Stable Diffusion on Apple devices won’t take over the entire market, to be sure — Dall-E and MidJourney are both “better” than Stable Diffusion, at least in my estimation, and there is of course a big world outside of Apple devices, but built-in local capabilities will affect the ultimate addressable market for both centralized services and centralized compute.</p>
+  <h3 id="amazon">Amazon</h3>
+  <p>Amazon, like Apple, uses machine learning across its applications; the direct consumer use cases for things like image and text generation, though, seem less obvious. What is already important is AWS, which sells access to GPUs in the cloud.</p>
+  <p>Some of this is used for training, including Stable Diffusion, which <a href="https://twitter.com/EMostaque/status/1563870674111832066">according to the founder and CEO of Stability AI Emad Mostaque</a> used 256 Nvidia A100s for 150,000 hours for a market-rate cost of $600,000 (which is surprisingly low!). The larger use case, though, is inference, i.e. the actual application of the model to produce images (or text, in the case of ChatGPT). Every time you generate an image in MidJourney, or an avatar in Lensa, inference is being run on a GPU in the cloud.</p>
+  <p>Amazon’s prospects in this space will depend on a number of factors. First, and most obvious, is just how useful these products end up being in the real world. Beyond that, though, Apple’s progress in building local generation techniques could have a significant impact. Amazon, though, is a chip maker in its own right: while most of its efforts to date have been focused on its Graviton CPUs, the company could build dedicated hardware of its own for models like Stable Diffusion and compete on price. Still, AWS is hedging its bets: the cloud service is a major partner when it comes to Nvidia’s offerings as well.</p>
+  <p>The big short-term question for Amazon will be in gauging demand: not having enough GPUs will be leaving money on the table; buying too many that sit idle, though, would be a major cost for a company trying to limit them. At the same time, it wouldn’t be the worst error to make: one of the challenges with AI is the fact that inference costs money; in other words, making something with AI has marginal costs.</p>
+  <p>This issue of marginal costs is, I suspect, an under-appreciated challenge in terms of developing compelling AI products. While cloud services have always had costs, the discrete nature of AI generation may make it challenging to fund the sort of iteration necessary to achieve product-market fit; I don’t think it’s an accident that ChatGPT, the biggest breakout product to-date, was both free to end users and provided by a company in OpenAI that both built its own model and has a sweetheart deal from Microsoft for compute capacity. If AWS had to sell GPUs for cheap that could spur more use in the long run.</p>
+  <p>That noted, these costs should come down over time: models will become more efficient even as chips become faster and more efficient in their own right, and there should be returns to scale for cloud services once there are sufficient products in the market maximizing utilization of their investments. Still, it is an open question as to how much full stack integration will make a difference, in addition to the aforementioned possibility of running inference locally.</p>
+  <h3 id="meta">Meta</h3>
+  <p>I already detailed in <a href="https://stratechery.com/2022/meta-myths/">Meta Myths</a> why I think that AI is a massive opportunity for Meta and worth the huge capital expenditures the company is making:</p>
+  <blockquote>
+    <p>Meta has huge data centers, but those data centers are primarily about CPU compute, which is what is needed to power Meta’s services. CPU compute is also what was necessary to drive Meta’s deterministic ad model, and the algorithms it used to recommend content from your network.</p>
+    <p>The long-term solution to ATT, though, is to build probabilistic models that not only figure out who should be targeted (which, to be fair, Meta was already using machine learning for), but also understanding which ads converted and which didn’t. These probabilistic models will be built by massive fleets of GPUs, which, in the case of Nvidia’s A100 cards, cost in the five figures; that may have been too pricey in a world where deterministic ads worked better anyways, but Meta isn’t in that world any longer, and it would be foolish to not invest in better targeting and measurement.</p>
+    <p>Moreover, the same approach will be essential to Reels’ continued growth: it is massively more difficult to recommend content from across the entire network than only from your friends and family, particularly because Meta plans to recommend not just video but also media of all types, and intersperse it with content you care about. Here too AI models will be the key, and the equipment to build those models costs a lot of money.</p>
+    <p>In the long run, though, this investment should pay off. First, there are the benefits to better targeting and better recommendations I just described, which should restart revenue growth. Second, once these AI data centers are built out the cost to maintain and upgrade them should be significantly less than the initial cost of building them the first time. Third, this massive investment is one no other company can make, except for Google (and, not coincidentally, Google’s capital expenditures are set to rise as well).</p>
+    <p>That last point is perhaps the most important: ATT hurt Meta more than any other company, because it already had by far the largest and most finely-tuned ad business, but in the long run it should deepen Meta’s moat. This level of investment simply isn’t viable for a company like Snap or Twitter or any of the other also-rans in digital advertising (even beyond the fact that Snap relies on cloud providers instead of its own data centers); when you combine the fact that Meta’s ad targeting will likely start to pull away from the field (outside of Google), with the massive increase in inventory that comes from Reels (which reduces prices), it will be a wonder why any advertiser would bother going anywhere else.</p>
+  </blockquote>
+  <p>An important factor in making Meta’s AI work is not simply building the base model but also tuning it to individual users on an ongoing basis; that is what will take such a large amount of capacity and it will be essential for Meta to figure out how to do this customization cost-effectively. Here, though, it helps that Meta’s offering will probably be increasingly integrated: while the company may have <a href="https://stratechery.com/2022/metas-chip-decision-horizon-worlds-platform-fees-metas-missing-metaverse-strategy/">committed to Qualcomm for chips for its VR headsets</a>, Meta continues to develop its own server chips; the company has also <a href="https://www.reuters.com/technology/meta-launches-ai-software-tools-help-speed-up-work-blog-2022-10-03/">released tools</a> to abstract away Nvidia and AMD chips for its workloads, but it seems likely the company is working on its own AI chips as well.</p>
+  <p>What will be interesting to see is how things like image and text generation impact Meta in the long run: <a href="https://twitter.com/lessin/status/1551931628305502208">Sam Lessin has posited</a> that <a href="https://stratechery.com/2022/instagram-tiktok-and-the-three-trends/">the end-game for algorithmic timelines</a> is AI content; I’ve made the same argument <a href="https://stratechery.com/2022/dall-e-the-metaverse-and-zero-marginal-content/">when it comes to the Metaverse</a>. In other words, while Meta is investing in AI to give personalized recommendations, that idea, combined with 2022’s breakthroughs, is personalized content, delivered through Meta’s channels.</p>
+  <p>For now it will be interesting to see how Meta’s advertising tools develop: the entire process of both generating and A/B testing copy and images can be done by AI, and no company is better than Meta at making these sort of capabilities available at scale. Keep in mind that Meta’s advertising is primarily about the top of the funnel: the goal is to catch consumers’ eyes for a product or service or app they did not know previously existed; this means that there will be a lot of misses — the vast majority of ads do not convert — but that also means there is a lot of latitude for experimentation and iteration. This seems very well suited to AI: yes, generation may have marginal costs, but those marginal costs are drastically lower than a human.</p>
+  <h3 id="google">Google</h3>
+  <p>The Innovator’s Dilemma was published in 1997; <a href="https://www.ft.com/content/f49cb408-ecd8-11e0-be97-00144feab49a">that was the year</a> that Eastman Kodak’s stock reached its highest price of $94.25, and for seemingly good reason: Kodak, in terms of technology, was perfectly placed. Not only did the company dominate the current technology of film, it had also invented the next wave: the digital camera.</p>
+  <p>The problem came down to business model: Kodak made a lot of money with very good margins providing silver halide film; digital cameras, on the other hand, were digital, which means they didn’t need film at all. Kodak’s management was thus very incentivized to convince themselves that digital cameras would only ever be for amateurs, and only when they became drastically cheaper, which would certainly take a very long time.</p>
+  <p>In fact, Kodak’s management was right: it took over 25 years from the time of the digital camera’s invention for digital camera sales to surpass film camera sales; it took longer still for digital cameras to be used in professional applications. Kodak made a lot of money in the meantime, and paid out billions of dollars in dividends. And, while the company went bankrupt in 2012, that was because consumers had access to better products: first digital cameras, and eventually, phones with cameras built in.</p>
+  <p>The idea that this is a happy ending is, to be sure, a contrarian view: most view Kodak as a failure, because we expect companies to live forever. In this view Kodak is a cautionary tale of how an innovative company can allow its business model to lead it to its eventual doom, even if said doom was the result of consumers getting something better.</p>
+  <p>And thus we arrive at Google and AI. Google invented the transformer, the key technology undergirding the latest AI models. Google is rumored to have a conversation chat product that is far superior to ChatGPT. Google claims that its image generation capabilities are better than Dall-E or anyone else on the market. And yet, these claims are just that: claims, because there aren’t any actual products on the market.</p>
+  <p>This isn’t a surprise: Google has long been a leader in using machine learning to make its search and other consumer-facing products better (and has offered that technology as a service through Google Cloud). Search, though, has always depended on humans as the ultimate arbiter: Google will provide links, but it is the user that decides which one is the correct one by clicking on it. This extended to ads: Google’s offering was revolutionary because instead of charging advertisers for impressions — the value of which was very difficult to ascertain, particularly 20 years ago — it charged for clicks; the very people the advertisers were trying to reach would decide if their ad was good enough.</p>
+  <p>I wrote about the conundrum this presented for Google’s business in a world of AI seven years ago in <a href="https://stratechery.com/2016/google-and-the-limits-of-strategy/">Google and the Limits of Strategy</a>:</p>
+  <blockquote>
+    <p>In yesterday’s keynote, Google CEO Sundar Pichai, after a recounting of tech history that emphasized the PC-Web-Mobile epochs I described <a href="https://stratechery.com/2014/state-consumer-technology-end-2014/">in late 2014</a>, declared that we are moving from a mobile-first world to an AI-first one; that was the context for the introduction of the Google Assistant.</p>
+    <p>It was a year prior to the aforementioned iOS 6 that Apple first introduced the idea of an assistant in the guise of Siri; for the first time you could (theoretically) compute by voice. It didn’t work very well at first (arguably it still doesn’t), but the implications for computing generally and Google specifically were profound: voice interaction both expanded <em>where</em> computing could be done, from situations in which you could devote your eyes and hands to your device to effectively everywhere, even as it constrained <em>what</em> you could do. An assistant has to be far more proactive than, for example, a search results page; it’s not enough to present possible answers: rather, an assistant needs to give the <em>right</em> answer.</p>
+    <p>This is a welcome shift for Google the technology; from the beginning the search engine has included an “I’m Feeling Lucky” button, so confident was Google founder Larry Page that the search engine could deliver you the exact result you wanted, and while yesterday’s Google Assistant demos were canned, the results, particularly when it came to contextual awareness, were far more impressive than the other assistants on the market. More broadly, few dispute that Google is a clear leader when it comes to the artificial intelligence and machine learning that underlie their assistant.</p>
+    <p>A business, though, is about more than technology, and Google has two significant shortcomings when it comes to assistants in particular. First, as I explained after this year’s Google I/O, the company has a <a href="https://stratechery.com/2016/googles-go-to-market-gap/">go-to-market gap</a>: assistants are only useful if they are available, which in the case of hundreds of millions of iOS users means downloading and using a separate app (or building the sort of experience that, like Facebook, users will willingly spend extensive amounts of time in).</p>
+    <p>Secondly, though, Google has a business-model problem: the “I’m Feeling Lucky Button” guaranteed that the search in question would not make Google any money. After all, if a user doesn’t have to choose from search results, said user also doesn’t have the opportunity to click an ad, thus choosing the winner of the competition Google created between its advertisers for user attention. Google Assistant has the exact same problem: where do the ads go?</p>
+  </blockquote>
+  <p>That Article assumed that Google Assistant was going to be used to differentiate Google phones as an exclusive offering; that ended up being wrong, but the underlying analysis remains valid. Over the past seven years Google’s primary business model innovation has been to cram ever more ads into Search, a particularly effective tactic on mobile. And, to be fair, the sort of searches where Google makes the most money — travel, insurance, etc. — may not be well-suited for chat interfaces anyways.</p>
+  <p>That, though, ought only increase the concern for Google’s management that generative AI may, in the specific context of search, represent a disruptive innovation instead of a sustaining one. Disruptive innovation is, at least in the beginning, not as good as what already exists; that’s why it is easily dismissed by managers who can avoid thinking about the business model challenges by (correctly!) telling themselves that their current product is better. The problem, of course, is that the disruptive product gets better, even as the incumbent’s product becomes ever more bloated and hard to use — and that certainly sounds a lot like Google Search’s current trajectory.</p>
+  <p>I’m not calling the top for Google; <a href="https://stratechery.com/2014/peak-google/">I did that previously</a> and was <a href="https://stratechery.com/2019/the-google-squeeze/">hilariously wrong</a>. Being wrong, though, is more often than not a matter of timing: yes, Google has its cloud and YouTube’s dominance only seems to be increasing, but the outline of Search’s peak seems clear even if it throws of cash and profits for years.</p>
+  <h3 id="microsoft">Microsoft</h3>
+  <p>Microsoft, meanwhile, seems the best placed of all. Like AWS it has a cloud service that sells GPU; it is also the exclusive cloud provider for OpenAI. Yes, that is <a href="https://www.theinformation.com/articles/why-openai-spent-barely-a-dime-on-microsofts-cloud-after-1-billion-deal">incredibly expensive</a>, but given that OpenAI appears to have the inside track to being the AI epoch’s addition to this list of top tech companies, that means that Microsoft is investing in the infrastructure of that epoch.</p>
+  <p>Bing, meanwhile, is like the Mac on the eve of the iPhone: yes it contributes a fair bit of revenue, but a fraction of the dominant player, and a relatively immaterial amount in the context of Microsoft as a whole. If <a href="https://www.theinformation.com/articles/microsoft-and-openai-working-on-chatgpt-powered-bing-in-challenge-to-google">incorporating ChatGPT-like results</a> into Bing risks the business model for the opportunity to gain massive market share, that is a bet well worth making.</p>
+  <p>The <a href="https://www.theinformation.com/articles/ghost-writer-microsoft-looks-to-add-openais-chatbot-technology-to-word-email">latest report from The Information</a>, meanwhile, is that GPT is eventually coming to Microsoft’s productivity apps. The trick will be to imitate the success of AI-coding tool GitHub Copilot (which is built on GPT), which figured out how to be a help instead of a nuisance (i.e. don’t be Clippy!).</p>
+  <p>What is important is that adding on new functionality — perhaps for a fee — fits perfectly with Microsoft’s subscription business model. It is notable that the company once thought of as a poster child for victims of disruption will, in the full recounting, not just be born of disruption, but be well-placed to reach greater heights because of it.</p>
+  <hr />
+  <p>There is so much more to write about AI’s potential impact, but this Article is already plenty long. OpenAI is obviously the most interesting from a new company perspective: it is possible that OpenAI becomes the platform on which all other AI companies are built, which would ultimately mean the economic value of AI outside of OpenAI may be fairly modest; this is also the bull case for Google, as they would be the most well-placed to be the Microsoft to OpenAI’s AWS.</p>
+  <p>There is another possibility where open source models proliferate in the text generation space in addition to image generation. In this world AI becomes a commodity: this is probably the most impactful outcome for the world but, paradoxically, the most muted in terms of economic impact for individual companies (I suspect the biggest opportunities will be in industries where accuracy is essential: incumbents will therefore underinvest in AI, a la Kodak under-investing in digital, forgetting that technology gets better).</p>
+  <p>Indeed, the biggest winners may be Nvidia and TSMC. Nvidia’s investment in the CUDA ecosystem means the company doesn’t simply have the best AI chips, but the best AI ecosystem, and the company is <a href="https://stratechery.com/2022/nvidia-in-the-valley/">investing in scaling that ecosystem up</a>. That, though, has and will continue to spur competition, particularly in terms of internal chip efforts like Google’s TPU; everyone, though, will make their chips at TSMC, at least for the foreseeable future.</p>
+  <p>The biggest impact of all though, though, is probably off our radar completely. Just before the break <a href="https://stratechery.com/2022/an-interview-with-daniel-gross-and-nat-friedman-about-chatgpt-and-the-near-term-future-of-ai/">Nat Friedman told me in a Stratechery Interview</a> about <a href="https://arstechnica.com/information-technology/2022/12/riffusions-ai-generates-music-from-text-using-visual-sonograms/">Riffusion</a>, which uses Stable Diffusion to generate music from text via visual sonograms, which makes me wonder what else is possible when images are truly a commodity. Right now <a href="https://scale.com/blog/text-universal-interface">text is the universal interface</a>, because text has been the foundation of information transfer <a href="https://stratechery.com/2022/the-ai-unbundling/">since the invention of writing</a>; humans, though, are visual creatures, and the availability of AI for both the creation and interpretation of images could fundamentally transform what it means to convey information in ways that are impossible to predict.</p>
+  <p>For now, our predictions must be much more time-constrained, and modest. This may be the beginning of the AI epoch, but even in tech, epochs take a decade or longer to transform everything around them.</p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2023-01-27</time>
+        <a href="https://nodebe4.github.io/opinion/2023-01-27/Stratechery-Plus-Adds-Greatest-Of-All-Talk/">
+          Stratechery Plus Adds Greatest Of All Talk
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-01-23</time>
+        <a href="https://nodebe4.github.io/opinion/2023-01-23/Netflix-s-New-Chapter/">
+          Netflix’s New Chapter
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-12-22</time>
+        <a href="https://nodebe4.github.io/opinion/2022-12-22/Holiday-Break-December-26th-to-January-5th/">
+          Holiday Break: December 26th to January 5th
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-12-20</time>
+        <a href="https://nodebe4.github.io/opinion/2022-12-20/The-2022-Stratechery-Year-in-Review/">
+          The 2022 Stratechery Year in Review
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2023-01-09/%E7%AC%AC%E4%B8%83%E5%B1%8A%E7%BD%91%E7%BB%9C%E7%A4%BE%E4%BC%9A%E5%B9%B4%E4%BC%9A-%E6%9D%AD%E5%B7%9E%E8%AE%BA%E5%9D%9B-%E4%B8%BB%E9%A2%98%E6%BC%94%E8%AE%B2-ruangrupa-lumbung.space/">
+            前一篇：第七届网络社会年会 杭州论坛 主题演讲｜ruangrupa：lumbung.space
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2023-01-09/CUPodcast-15-ESG-%E5%82%BE%E5%91%A2%E5%95%B2-%E5%B1%95%E6%9C%9B-2023-%E6%8B%AF%E6%95%91%E6%B0%A3%E5%80%99%E6%96%B0%E5%87%BA%E8%B7%AF/">
+            後一篇：【*CUPodcast】#15 ESG 傾呢啲：展望 2023，拯救氣候新出路
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2023-01-09/%E7%AC%AC%E4%B8%83%E5%B1%8A%E7%BD%91%E7%BB%9C%E7%A4%BE%E4%BC%9A%E5%B9%B4%E4%BC%9A-%E6%9D%AD%E5%B7%9E%E8%AE%BA%E5%9D%9B-%E4%B8%BB%E9%A2%98%E6%BC%94%E8%AE%B2-ruangrupa-lumbung.space/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2023-01-09/CUPodcast-15-ESG-%E5%82%BE%E5%91%A2%E5%95%B2-%E5%B1%95%E6%9C%9B-2023-%E6%8B%AF%E6%95%91%E6%B0%A3%E5%80%99%E6%96%B0%E5%87%BA%E8%B7%AF/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2023-01-23/Netflix-s-New-Chapter/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-12-22/Holiday-Break-December-26th-to-January-5th/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2023-01-09/%E7%AC%AC%E4%B8%83%E5%B1%8A%E7%BD%91%E7%BB%9C%E7%A4%BE%E4%BC%9A%E5%B9%B4%E4%BC%9A-%E6%9D%AD%E5%B7%9E%E8%AE%BA%E5%9D%9B-%E4%B8%BB%E9%A2%98%E6%BC%94%E8%AE%B2-ruangrupa-lumbung.space/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2023-01-09/CUPodcast-15-ESG-%E5%82%BE%E5%91%A2%E5%95%B2-%E5%B1%95%E6%9C%9B-2023-%E6%8B%AF%E6%95%91%E6%B0%A3%E5%80%99%E6%96%B0%E5%87%BA%E8%B7%AF/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2023-01-23/Netflix-s-New-Chapter/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-12-22/Holiday-Break-December-26th-to-January-5th/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

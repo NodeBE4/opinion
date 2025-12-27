@@ -1,0 +1,3066 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Data and Definitions – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+Data and Definitions
+——
+" />
+    <meta property="og:description" content="
+Data and Definitions
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Data and Definitions" />
+    <meta property="twitter:title" content="Data and Definitions" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2022%2Fdata-and-definitions%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2022/data-and-definitions/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2022/data-and-definitions/&text=Data and Definitions&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2022/data-and-definitions/&title=Data and Definitions" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2022/data-and-definitions/&title=Data and Definitions" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Data and Definitions&body=
+Data and Definitions
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2022/data-and-definitions/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2022/data-and-definitions/&title=Data and Definitions&caption=
+Data and Definitions
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Data and Definitions&url=https://stratechery.com/2022/data-and-definitions/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Data and Definitions</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-06-21
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2022/data-and-definitions/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1655825503000-->
+<p><a href="https://stratechery.com/2022/data-and-definitions/">Data and Definitions</a>
+——</p>
+
+<div>
+  <p><em>Note: I’ve covered everything in this Article across a number of other <a href="https://stratechery.com/topic/app-stores/app-tracking-transparency-att/">Articles and Updates</a>; however, over the course of conversations about ATT, I realized that I have not summarized in one place why Apple’s approach feels fundamentally unfair, even if you agree with the broader aims. That is the goal of this Article.</em></p>
+  <p>Last week the German Bundeskartellamt (“Federal Cartel Office”) announced in a press release:</p>
+  <blockquote>
+    <p>The Bundeskartellamt has initiated a proceeding against the technology company Apple to review under competition law its tracking rules and the App Tracking Transparency Framework. In particular, Apple’s rules have raised the initial suspicion of self-preferencing and/or impediment of other companies, which will be examined in the proceeding.</p>
+  </blockquote>
+  <p>The press release quoted Andreas Mundt, the President of the Bundeskartellamt, who stated:</p>
+  <blockquote>
+    <p>We welcome business models which use data carefully and give users choice as to how their data are used. A corporation like Apple which is in a position to unilaterally set rules for its ecosystem, in particular for its app store, should make pro-competitive rules. We have reason to doubt that this is the case when we see that Apple’s rules apply to third parties, but not to Apple itself. This would allow Apple to give preference to its own offers or impede other companies.</p>
+  </blockquote>
+  <p>The press release continues:</p>
+  <blockquote>
+    <p>Already based on the applicable legislation, and irrespective of Apple’s App Tracking Transparency Framework, all apps have to ask for their users’ consent to track their data. Apple’s rules now also make tracking conditional on the users’ consent to the use and combination of their data in a dialogue popping up when an app not made by Apple is started for the first time, in addition to the already existing dialogue requesting such consent from users. The Identifier for Advertisers, classified as tracking, which is important to the advertising industry and made available by Apple to identify devices, is also subject to this new rule. These rules apparently do not affect Apple when using and combining user data from its own ecosystem. While users can also restrict Apple from using their data for personalised advertising, the Bundeskartellamt’s preliminary findings indicate that Apple is not subject to the new and additional rules of the App Tracking Transparency Framework.</p>
+  </blockquote>
+  <p>John Gruber disagrees at <a href="https://daringfireball.net/2022/06/germany_app_tracking_transparency">Daring Fireball</a>:</p>
+  <blockquote>
+    <p>I think this is a profound misunderstanding of what Apple is doing, and how Apple is benefiting indirectly from ATT. Apple’s privacy and tracking rules do apply to itself. Apple’s own apps don’t show the track-you-across-other-apps permission alert not because Apple has exempted itself but because Apple’s own apps don’t track you across other apps. Apple’s own apps show privacy report cards in the App Store, too…</p>
+    <p>If you want to argue that Apple engaged in this entire ATT endeavor to benefit its own Search Ads platform, that’s plausible too. But if Apple actually cared more about maximizing Search Ads revenue than it does user privacy, wouldn’t they have just engaged in actual user tracking? The Bundeskartellamt perspective here completely disregards the idea that surveillance advertising is inherently unethical and Apple has studiously avoided it for that reason, despite the fact that it has proven to be wildly profitable for large platforms.</p>
+  </blockquote>
+  <p>This strikes me as a situation where Gruber — my co-host for <a href="https://dithering.fm/">Dithering</a> — is right on the details, even as the Bundeskartellamt is right on the overall thrust of the argument. The distinction comes down to definitions.</p>
+  <hr />
+  <p>It’s striking in retrospect how little time Apple spent publicly discussing its App Tracking Transparency (ATT) initiative — a mere 20 seconds at WWDC 2020, wedged in between updates about camera-in-use indicators and privacy labels in the App Store:</p>
+  <div align="center">
+    <div id="v-ta0Da1CF-1" class="video-player">
+      <video id="v-ta0Da1CF-1-video" width="640" height="360" poster="https://videos.files.wordpress.com/ta0Da1CF/wwdc-att_mp4_hd.original.jpg" controls="true" preload="metadata" dir="ltr" lang="en"><div>
+<img alt="" src="https://videos.files.wordpress.com/ta0Da1CF/wwdc-att_mp4_hd.original.jpg?resize=640%2C360" width="640" height="360" data-recalc-dims="1" />
+        </div></video>
+    </div>
+  </div>
+  <blockquote>
+    <p>Next, let’s talk about tracking. Safari’s Intelligent Tracking Prevention has been really successful on the web, and this year, we wanted to help you with tracking in apps. We believe tracking should always be transparent, and under your control, so moving forward, App Store policy will require apps to ask before tracking you across apps and websites owned by other companies.</p>
+  </blockquote>
+  <p>These 20 seconds led, 19 months later, to <a href="https://stratechery.com/2022/metas-earnings-facebooks-three-challenges-financial-versus-existential-risks/">Meta announcing a $10 billion revenue shortfall</a>, the largest but by no means only significant retrenchment in the online advertising space. Not everyone was hurt, though: Google and Amazon, in particular, have seen their share of digital advertising increase, and, as Gruber admitted, Apple has benefited as well; the Financial Times reported <a href="https://www.ft.com/content/074b881f-a931-4986-888e-2ac53e286b9d">last fall</a>:</p>
+  <blockquote>
+    <p>Apple’s advertising business has more than tripled its market share in the six months after it introduced privacy changes to iPhones that obstructed rivals, including Facebook, from targeting ads at consumers. The in-house business, called Search Ads, offers sponsored slots in the App Store that appear above search results. Users who search for “Snapchat”, for example, might see TikTok as the first result on their screen. Branch, which measures the effectiveness of mobile marketing, said Apple’s in-house business is now responsible for 58 per cent of all iPhone app downloads that result from clicking on an advert. A year ago, its share was 17 per cent.</p>
+  </blockquote>
+  <p>These numbers, derived as they are from app analytics companies, are certainly fuzzy, but they are the best we have given that Apple doesn’t break out revenue numbers for its advertising business; they are also from last fall, before ATT <a href="https://stratechery.com/2022/an-interview-with-eric-seufert-about-the-post-att-landscape/">really began to bite</a>. They also exclude the revenue Apple earns from Google for being the default search engine for Safari, and while <a href="https://stratechery.com/2022/twitter-follow-up-google-earnings-att-and-google/">Google’s earnings indicate YouTube has suffered</a> from ATT, search has more than made up for it.</p>
+  <p>I explained in depth why these big companies have benefitted from ATT in February’s <a href="https://stratechery.com/2022/digital-advertising-in-2022/">Digital Advertising in 2022</a>; I wrote in the context of Amazon specifically:</p>
+  <blockquote>
+    <p>Amazon also has data on its users, and it is free to collect as much of it as it likes, and leverage it however it wishes when it comes to selling ads. This is because all of Amazon’s data collection, ad targeting, and conversion happen on the same platform — Amazon.com, or the Amazon app. ATT only restricts third party data sharing, which means it doesn’t affect Amazon at all…</p>
+    <p>That is not to say that ATT didn’t have an effect on Amazon: I noted above that Snap’s business did better than expected in part because its business wasn’t dominated by direct response advertising to the extent that Facebook’s was, and that more advertising money flowed into other types of advertising. This almost certainly made a difference for Amazon as well: one of the most affected areas of Facebook advertising was e-commerce; if you are an e-commerce seller whose Shopify store powered-by Facebook ads was suddenly under-performing thanks to ATT, then the natural response is to shift products and advertising spend to Amazon.</p>
+  </blockquote>
+  <p>This is where definitions matter. The opening paragraph of <a href="https://www.apple.com/legal/privacy/data/en/apple-advertising/">Apple’s Advertising &amp; Policy</a> page, housed under the “apple.com/legal” directory, states:</p>
+  <blockquote>
+    <p>Ads that are delivered by Apple’s advertising platform may appear on the App Store, Apple News, and Stocks. Apple’s advertising platform does not track you, meaning that it does not link user or device data collected from our apps with user or device data collected from third parties for targeted advertising or advertising measurement purposes, and does not share user or device data with data brokers.</p>
+  </blockquote>
+  <p>I note the URL path for a reason: the second sentence of this paragraph has multiple carefully selected words — and those word choices not only impact the first sentence, but may, soon enough, lead to its expansion. Specifically:</p>
+  <h4 id="meaning">“Meaning”</h4>
+  <p><em>Apple’s advertising platform does not track you, <strong>meaning</strong> that it does not link user or device data collected from our apps with user or device data collected from third parties for targeted advertising or advertising measurement purposes, and does not share user or device data with data brokers.</em></p>
+  <p>“Tracking” is not a neutral term! My strong suspicion — confirmed by anecdata — is that a lot of the most ardent defenders of Apple’s ATT policy are against targeted advertising as a category, which is to say they are against companies collecting data and using that data to target ads. For these folks I would imagine tracking means exactly that: the collection and use of data to target ads. That certainly seems to align with the definition of “track” from macOS’s built-in dictionary: “Follow the course or trail of (someone or something), typically in order to find them or note their location at various points”.</p>
+  <p>However, this is <em>not</em> Apple’s definition: tracking is <em>only</em> when data Apple collects is linked with data from third parties for targeted advertising or measurement, or when data is shared/sold to data brokers. In other words, data that Apple collects and uses for advertising is, according to Apple, not tracking; the privacy policy helpfully lays out exactly what that data is (thanks lawyers!):</p>
+  <blockquote>
+    <p>We create segments, which are groups of people who share similar characteristics, and use these groups for delivering targeted ads. Information about you may be used to determine which segments you’re assigned to, and thus, which ads you receive. To protect your privacy, targeted ads are delivered only if more than 5,000 people meet the targeting criteria.</p>
+    <p>We may use information such as the following to assign you to segments:</p>
+    <ul>
+      <li>Account Information: Your name, address, age, gender, and devices registered to your Apple ID account. Information such as your first name in your Apple ID registration page or salutation in your Apple ID account may be used to derive your gender. You can update your account information on the Apple ID website.&lt;/p&gt;</li>
+      <li>
+        <p>Downloads, Purchases &amp; Subscriptions: The music, movies, books, TV shows, and apps you download, as well as any in-app purchases and subscriptions. We don’t allow targeting based on downloads of a specific app or purchases within a specific app (including subscriptions) from the App Store, unless the targeting is done by that app’s developer.</p>
+      </li>
+      <li>
+        <p>Apple News and Stocks: The topics and categories of the stories you read and the publications you follow, subscribe to, or turn on notifications from.</p>
+      </li>
+      <li>
+        <p>Advertising: Your interactions with ads delivered by Apple’s advertising platform.</p>
+      </li>
+    </ul>
+    <p>When selecting which ad to display from multiple ads for which you are eligible, we may use some of the above-mentioned information, as well as your App Store searches and browsing activity, to determine which ad is likely to be most relevant to you. App Store browsing activity includes the content and apps you tap and view while browsing the App Store. This information is aggregated across users so that it does not identify you. We may also use local, on-device processing to select which ad to display, using information stored on your device, such as the apps you frequently open.</p>
+  </blockquote>
+  <p>Just to put a fine point on this: according to Apple’s definition, collecting demographic information, downloads/purchases/subscriptions, and browsing behavior in Apple’s apps, and using that data to deliver targeted ads, is <em>not</em> tracking, because all of the data is Apple’s (and by extension, neither is Google’s collection and use of data from Safari search results, or Amazon’s collection and use of data from its app; however, a developer associating an in-app purchase with a Facebook ad is).</p>
+  <h4 id="and">“And”</h4>
+  <p><em>Apple’s advertising platform does not track you, meaning that it does not link user or device data collected from our apps with user or device data collected from third parties for targeted advertising or advertising measurement purposes, <strong>and</strong> does not share user or device data with data brokers.</em></p>
+  <p>One thing should be made clear: there has been a <em>lot</em> of bad behavior in the digital ad industry. A particularly vivid example was reported by the <a href="https://www.wsj.com/articles/grindr-user-data-has-been-for-sale-for-years-11651492800">Wall Street Journal</a> last month:</p>
+  <blockquote>
+    <p>The precise movements of millions of users of the gay-dating app Grindr were collected from a digital advertising network and made available for sale, according to people familiar with the matter. The information was available for sale since at least 2017, and historical data may still be obtainable, the people said. Grindr two years ago cut off the flow of location data to any ad networks, ending the possibility of such data collection today, the company said.</p>
+    <p>The commercial availability of the personal information, which hasn’t been previously reported, illustrates the thriving market for at-times intimate details about users that can be harvested from mobile devices. A U.S. Catholic official last year was outed as a Grindr user in a high-profile incident that involved analysis of similar data. National-security officials have also indicated concern about the issue: The Grindr data were used as part of a demonstration for various U.S. government agencies about the intelligence risks from commercially available information, according to a person who was involved in the presentation.</p>
+    <p>Clients of a mobile-advertising company have for years been able to purchase bulk phone-movement data that included many Grindr users, said people familiar with the matter. The data didn’t contain personal information such as names or phone numbers. But the Grindr data were in some cases detailed enough to infer things like romantic encounters between specific users based on their device’s proximity to one another, as well as identify clues to people’s identities such as their workplaces and home addresses based on their patterns, habits and routines, people familiar with the data said.</p>
+  </blockquote>
+  <p>It’s difficult to defend any aspect of this, and this isn’t even a worst case scenario: there are plenty of unscrupulous apps and ad networks that include explicit Personal Identifiable Information (PII) in these data sales/transfers as well; as <a href="https://mobiledevmemo.com/the-idfa-is-the-hydrocarbon-of-the-mobile-advertising-ecosystem/">Eric Suefert noted in 2020</a>, the industry has had this reckoning coming for a very long time.</p>
+  <p>That, though, is why the “and” from Apple is so meaningful; here is the sentence again:</p>
+  <blockquote>
+    <p>Apple’s advertising platform does not track you, meaning that it does not link user or device data collected from our apps with user or device data collected from third parties for targeted advertising or advertising measurement purposes, and does not share user or device data with data brokers.</p>
+  </blockquote>
+  <p>This definition conflates two very different things: linking and sharing. The distinction between the two undergirded a regular feature of Meta CEO Mark Zuckerberg’s appearances in Congressional hearings; here is a representative exchange between Senator Edward Markey and Zuckerberg <a href="https://www.c-span.org/video/?443543-1/facebook-ceo-mark-zuckerberg-testifies-data-protection">in 2018</a>:</p>
+  <div align="center">
+    <div id="v-er5zixer-1" class="video-player">
+      <video id="v-er5zixer-1-video" width="640" height="360" poster="https://videos.files.wordpress.com/er5zixer/zuckerbeg-congress-sellinfo_mp4_avc_240p.original.jpg" controls="true" preload="metadata" dir="ltr" lang="en"><div>
+<img alt="" src="https://videos.files.wordpress.com/er5zixer/zuckerbeg-congress-sellinfo_mp4_avc_240p.original.jpg?resize=640%2C360" width="640" height="360" data-recalc-dims="1" />
+        </div></video>
+    </div>
+  </div>
+  <blockquote>
+    <p><strong>Should Facebook get clear permission from users before selling or sharing sensitive information about your health, your finances, your relationships? Should you have to get their permission?…</strong></p>
+    <p>Senator…I want to be clear: we don’t sell information. So regardless of whether we get permission to do that, that’s just not a thing we’re going to do.</p>
+  </blockquote>
+  <p>Meta doesn’t sell data; it collects it, and the third parties that leverage the company’s platforms for advertising very much prefer it that way. PII is like radioactive material: it’s very valuable, and can certainly be leveraged, but it’s also difficult to handle and can be dangerous to not just the users identified but to the companies holding it. The way Meta works is that its collective advertising base has effectively deputized the company to collect data on their behalf; that data is not exposed directly, but is instead used to deliver targeted advertisements that are by-and-large bought not by targeting specific criteria, but rather by specifying desired results: app installs, e-commerce conversions, etc. Everything user-related is, to the companies buying the ads, a complete black box.</p>
+  <p>This is where linking comes in: apps or websites that leverage Facebook advertising (or any other relevant advertising platform, like Snap) include a Facebook SDK or Pixel that tracks installs, sales, etc., and sends that data to Meta where it can be <em>linked</em> to an ad that was shown to that user. Again, this is completely invisible to the developer or merchant; technically they are sending data to Meta, since the conversion data was collected in their app or on their website, but in reality it is Meta collecting that data and sending it to themselves.</p>
+  <p>The reason why developers and merchants are happy with this arrangement is that advertising is a scale business: you need a lot of data and a lot of customers to make targeted advertising work, and no single developer or website has as much scale as, say, a Google or an Amazon; Meta et al enable all of these smaller developers and merchants to effectively work together without having to know each other, or share data.</p>
+  <p><img src="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/06/datadefinitions-1.png?resize=640%2C308&#038;ssl=1" alt="Google, Amazon, and Facebook&#039;s ad businesses operate similarly, but only Facebook is affected by ATT" width="640" height="308" class="aligncenter size-full wp-image-9257" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/06/datadefinitions-1.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/06/datadefinitions-1.png?resize=300%2C144&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/06/datadefinitions-1.png?resize=1024%2C493&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/06/datadefinitions-1.png?resize=768%2C370&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/06/datadefinitions-1.png?resize=1200%2C578&amp;ssl=1 1200w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>You can, to be clear, object to this arrangement, but it’s worth pointing out that this is very different than selling or sharing data with data brokers; all of the data is in one place and one place only, which is broadly similar to the situation with Google or Amazon (or Apple, as I’ll get to in a moment). The big difference is that Meta doesn’t own all of the customer touch points: whereas a Meta advertiser may own their own Shopify website, an Amazon advertiser has to list their goods on Amazon’s site, with all of the loss of control that entails. Apple’s definition, though, lumps Meta’s approach (which again, is representative of other platforms like Snap) in with the worst actors in the space.</p>
+  <h4 id="our">“Our”</h4>
+  <p><em>Apple’s advertising platform does not track you, meaning that it does not link user or device data collected from <strong>our</strong> apps with user or device data collected from third parties for targeted advertising or advertising measurement purposes, and does not share user or device data with data brokers.</em></p>
+  <p>To the extent you think that the Bundeskartellamt is right, then it is this word that is the most problematic definition of all. One would assume that “our” means Apple-created apps, like News or Stocks: just as Amazon collects data from the Amazon app, of course Apple collects data from its own apps. The actual definition, though, is much more expansive; go back to the Epic trial and the exchange I recounted in <a href="https://stratechery.com/2021/app-store-arguments/">App Store Arguments</a>:</p>
+  <blockquote>
+    <p>The argument that Judge Gonzales Rogers seemed the most interested in pursuing was one that Epic de-emphasized: Apple’s anti-steering provisions which prevent an app from telling a customer that they can go elsewhere to make a purchase. Apple’s argument, in this case presented by Cook, goes like this:</p>
+    <p><a href="https://twitter.com/thedextriarchy/status/1395769127525044224"><img loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2021/05/appstore-5.png?resize=640%2C348&#038;ssl=1" alt="A tweet from Adi Robertson" width="640" height="348" class="aligncenter size-full wp-image-6394" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2021/05/appstore-5.png?w=1116&amp;ssl=1 1116w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/05/appstore-5.png?resize=300%2C163&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/05/appstore-5.png?resize=1024%2C556&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/05/appstore-5.png?resize=768%2C417&amp;ssl=1 768w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></a></p>
+    <p>This analogy doesn’t work for all kinds of reasons; Apple’s ban is like Best Buy not allowing products in the store to have a website listed in the instruction manual that happens to sell the same products. In fact, as Nilay Patel noted, Apple does exactly this!</p>
+    <p><a href="https://twitter.com/reckless/status/1395769786685079554"><img loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2021/05/appstore-6.png?resize=640%2C942&#038;ssl=1" alt="A tweet from Nilay Patel" width="640" height="942" class="aligncenter size-full wp-image-6395" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2021/05/appstore-6.png?w=1122&amp;ssl=1 1122w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/05/appstore-6.png?resize=204%2C300&amp;ssl=1 204w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/05/appstore-6.png?resize=695%2C1024&amp;ssl=1 695w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/05/appstore-6.png?resize=768%2C1131&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/05/appstore-6.png?resize=1043%2C1536&amp;ssl=1 1043w, https://i0.wp.com/stratechery.com/wp-content/uploads/2021/05/appstore-6.png?resize=428%2C630&amp;ssl=1 428w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></a></p>
+    <p>The point of this Article, though, is not necessarily to refute arguments, but rather to highlight them, and for me this was the most illuminating part of this case. The only way that this analogy makes sense is if Apple believes that it owns every app on the iPhone, or, to be more precise, that the iPhone <em>is</em> the store, and apps in the store can never leave.</p>
+  </blockquote>
+  <p>Let me be precise in a different way that is relevant to this Article; Apple doesn’t particularly care about or claim ownership of the content of an app on the iPhone, but:</p>
+  <ul>
+    <li>Apple insists that every app on the iPhone use its payment system for digital content</li>
+    <li>Apple treats all transactions made through its payment system as Apple data</li>
+    <li>Ergo, all transactions for digital content on the iPhone are Apple data</li>
+  </ul>
+  <p>The end result looks something like this — i.e. strikingly similar to Facebook, but with App Store payments attached:</p>
+  <p><img loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/06/datadefinitions-2.png?resize=640%2C453&#038;ssl=1" alt="Apple&#039;s ad model looks similar to Facebook&#039;s" width="640" height="453" class="aligncenter size-full wp-image-9258" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2022/06/datadefinitions-2.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/06/datadefinitions-2.png?resize=300%2C212&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/06/datadefinitions-2.png?resize=1024%2C725&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/06/datadefinitions-2.png?resize=768%2C544&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2022/06/datadefinitions-2.png?resize=890%2C630&amp;ssl=1 890w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>Here’s the key point: when it comes to digital advertising, particularly for the games that make up the vast majority of the app advertising industry, transaction data is all that matters. All of the data that any platform collects, whether that be Meta, Snap, Google, etc. is insignificant compared to whether or not a specific ad led to a specific purchase, not just in direct response to said ad, but also over the lifetime of the consumer’s usage of said app. That is the data that Apple cut off with ATT (by barring developers from linking it to their ad spend), and it is the same data that Apple has declared is their own first party data, and thus not subject to its ban on “tracking.”</p>
+  <p>This, needless to say, is where legitimate questions about self-preferencing come to the forefront. Developers who <em>want</em> to link conversion data with Facebook are banned from doing so, while they have no choice but to share that data with Apple because Apple controls app installation via the App Store; this strikes me as a clear example of the President of the Bundeskartellamt’s claim that “Apple’s rules apply to third parties, but not to Apple itself”.</p>
+  <hr />
+  <p>I have been very clear that I disagree with those who want to ban all targeted advertising; I believe that targeted advertising is an essential ingredient in a new Internet economy that provides opportunities to small businesses serving niches that are only viable when the world is your market. After all, people who might love your product need some way to know that your product exists, and what is compelling about platforms like Facebook is that it completely leveled the advertising playing field: suddenly small businesses had the same tools and opportunities to advertise as the biggest companies in the world. At the same time, I understand and acknowledge those who disagree with the concept on principle.</p>
+  <p>What is frustrating about the debate about ATT, though, is that Apple presents itself as a representative of the latter, with its constant declarations that privacy is a human right, and advertisements that lean heavily into the (truly problematic) world of data brokering, even as it builds its own targeting advertising business. Gruber asked me on <a href="https://twitter.com/ditheringfm/status/1539244464316764163">this morning’s episode of Dithering</a> whether or not I would feel better about ATT if Apple weren’t itself doing targeted advertising, and the answer is yes: I would still be disappointed about the impact on the Internet economy, but at least it wouldn’t be so blatantly anti-competitive.</p>
+  <p>Apple, to its credit, has made moves that very much align with its privacy rhetoric by cleaning up some of the worst abuses by apps, including significantly fine-tuning location permissions, providing <a href="https://stratechery.com/2022/apple-wwdc-m2-additional-notes/">a new weather framework</a> that makes it significantly cheaper to build a weather app (reducing the incentive to monetize by selling location data), and increasing transparency around data collection. Moreover, at this year’s WWDC the company introduced <a href="https://mobiledevmemo.com/is-skadnetwork-4-0-a-turning-point-for-mobile-advertising-privacy-with-a-purpose/">significant enhancements to SKAdNetwork</a> that should make it easier for developers and platforms like Facebook to re-build their advertising capabilities.</p>
+  <p>At the same time, an increasing number of signals suggest that <a href="https://www.businessinsider.com/apple-shaking-up-services-business-in-streaming-advertising-push-2022-5">Apple is set to significantly expand their own advertising business</a>; an obvious product to build would be an ad network that runs in apps (given that these apps run on the iPhone, Apple would in this scenario claim that collecting data about who saw what ad would be first party data, just like transactions are). Yes, Apple tried and failed to build an ad network previously, but a big reason that effort failed is because Apple didn’t collect the sort of data necessary to make it succeed.</p>
+  <p>What has changed is not just Apple, but also the data that matters: when iAd launched in 2010, digital advertising ran like people still think it does, leveraging relatively broad demographic categories and contextual information to show a hopefully relevant ad;<sup id="rf1-9254"><a href="https://stratechery.com/2022/data-and-definitions/#fn1-9254" title="This is the era when Facebook earned its reputation for being far too cavalier with user data; Facebook was also the company &lt;a href=&quot;https://stratechery.com/2020/apple-and-facebook/&quot;&gt;that built the modern advertising approach&lt;/a&gt; that depends on linking data instead of sharing it." rel="footnote">1</a></sup> what matters today is linking an ad to a transaction, and Apple has positioned itself to have perfect knowledge of both, even as it denies others the same opportunity.</p>
+  <hr class="footnotes" />
+  <ol class="footnotes" style="list-style-type:decimal">
+    <li id="fn1-9254">
+      <p>This is the era when Facebook earned its reputation for being far too cavalier with user data; Facebook was also the company <a href="https://stratechery.com/2020/apple-and-facebook/">that built the modern advertising approach</a> that depends on linking data instead of sharing it. <a href="https://stratechery.com/2022/data-and-definitions/#rf1-9254" class="backlink" title="Return to footnote 1.">↩</a></p>
+    </li>
+  </ol>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2022-07-12</time>
+        <a href="https://nodebe4.github.io/opinion/2022-07-12/Big-Ten-Blame/">
+          Big Ten Blame
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-06-27</time>
+        <a href="https://nodebe4.github.io/opinion/2022-06-27/Spotify,-Netflix,-and-Aggregation/">
+          Spotify, Netflix, and Aggregation
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-06-13</time>
+        <a href="https://nodebe4.github.io/opinion/2022-06-13/Zero-COVID-and-Free-Speech/">
+          Zero-COVID and Free Speech
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-05-31</time>
+        <a href="https://nodebe4.github.io/opinion/2022-05-31/Thin-Platforms/">
+          Thin Platforms
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-06-20/%E7%AC%AC%E5%85%AD%E5%B1%8A%E7%BD%91%E7%BB%9C%E7%A4%BE%E4%BC%9A%E5%B9%B4%E4%BC%9A%E6%B1%9F%E4%BD%B3%E8%81%AA-NOVA-%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%E9%87%8C%E5%BB%BA%E9%80%A0%E6%B5%AA%E6%BC%AB%E5%BB%BA%E7%AD%91-%E8%A1%8C%E4%B8%BA-%E7%A9%BA%E9%97%B4-%E6%97%B6%E9%97%B4/">
+            前一篇：第六届网络社会年会|江佳聪（NOVA）：虚拟世界里建造浪漫建筑：行为、空间、时间
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-06-22/%E5%9B%BD%E6%B0%91%E5%85%9A%E5%85%9A%E4%B8%BB%E5%B8%AD%E6%9C%B1%E7%AB%8B%E4%BC%A6-%E5%9B%BD%E6%B0%91%E5%85%9A%E4%BA%B2%E7%BE%8E%E5%8F%8D%E5%8F%B0%E7%8B%AC-%E5%9D%9A%E6%8C%81%E4%B8%AD%E5%8D%8E%E6%B0%91%E5%9B%BD%E5%B0%B1%E6%98%AF%E5%9D%9A%E6%8C%81%E6%B0%91%E4%B8%BB%E8%87%AA%E7%94%B1-%E8%A7%82%E7%82%B9/">
+            後一篇：国民党党主席朱立伦：国民党亲美反台独 坚持中华民国就是坚持民主自由｜观点
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-06-20/%E7%AC%AC%E5%85%AD%E5%B1%8A%E7%BD%91%E7%BB%9C%E7%A4%BE%E4%BC%9A%E5%B9%B4%E4%BC%9A%E6%B1%9F%E4%BD%B3%E8%81%AA-NOVA-%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%E9%87%8C%E5%BB%BA%E9%80%A0%E6%B5%AA%E6%BC%AB%E5%BB%BA%E7%AD%91-%E8%A1%8C%E4%B8%BA-%E7%A9%BA%E9%97%B4-%E6%97%B6%E9%97%B4/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-06-22/%E5%9B%BD%E6%B0%91%E5%85%9A%E5%85%9A%E4%B8%BB%E5%B8%AD%E6%9C%B1%E7%AB%8B%E4%BC%A6-%E5%9B%BD%E6%B0%91%E5%85%9A%E4%BA%B2%E7%BE%8E%E5%8F%8D%E5%8F%B0%E7%8B%AC-%E5%9D%9A%E6%8C%81%E4%B8%AD%E5%8D%8E%E6%B0%91%E5%9B%BD%E5%B0%B1%E6%98%AF%E5%9D%9A%E6%8C%81%E6%B0%91%E4%B8%BB%E8%87%AA%E7%94%B1-%E8%A7%82%E7%82%B9/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-06-27/Spotify,-Netflix,-and-Aggregation/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-06-13/Zero-COVID-and-Free-Speech/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-06-20/%E7%AC%AC%E5%85%AD%E5%B1%8A%E7%BD%91%E7%BB%9C%E7%A4%BE%E4%BC%9A%E5%B9%B4%E4%BC%9A%E6%B1%9F%E4%BD%B3%E8%81%AA-NOVA-%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%E9%87%8C%E5%BB%BA%E9%80%A0%E6%B5%AA%E6%BC%AB%E5%BB%BA%E7%AD%91-%E8%A1%8C%E4%B8%BA-%E7%A9%BA%E9%97%B4-%E6%97%B6%E9%97%B4/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-06-22/%E5%9B%BD%E6%B0%91%E5%85%9A%E5%85%9A%E4%B8%BB%E5%B8%AD%E6%9C%B1%E7%AB%8B%E4%BC%A6-%E5%9B%BD%E6%B0%91%E5%85%9A%E4%BA%B2%E7%BE%8E%E5%8F%8D%E5%8F%B0%E7%8B%AC-%E5%9D%9A%E6%8C%81%E4%B8%AD%E5%8D%8E%E6%B0%91%E5%9B%BD%E5%B0%B1%E6%98%AF%E5%9D%9A%E6%8C%81%E6%B0%91%E4%B8%BB%E8%87%AA%E7%94%B1-%E8%A7%82%E7%82%B9/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-06-27/Spotify,-Netflix,-and-Aggregation/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-06-13/Zero-COVID-and-Free-Speech/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

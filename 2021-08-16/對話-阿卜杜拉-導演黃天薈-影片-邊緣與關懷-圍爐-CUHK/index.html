@@ -1,0 +1,1072 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>對話《阿卜杜拉》導演黃天薈：影片、邊緣與關懷 | 圍爐 · CUHK – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+對話《阿卜杜拉》導演黃天薈：影片、邊緣與關懷 | 圍爐 · CUHK
+——
+" />
+    <meta property="og:description" content="
+對話《阿卜杜拉》導演黃天薈：影片、邊緣與關懷 | 圍爐 · CUHK
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="對話《阿卜杜拉》導演黃天薈：影片、邊緣與關懷 | 圍爐 · CUHK" />
+    <meta property="twitter:title" content="對話《阿卜杜拉》導演黃天薈：影片、邊緣與關懷 | 圍爐 · CUHK" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fmatters.news%2F%40weiluflame%2F%25E5%25B0%258D%25E8%25A9%25B1-%25E9%2598%25BF%25E5%258D%259C%25E6%259D%259C%25E6%258B%2589-%25E5%25B0%258E%25E6%25BC%2594%25E9%25BB%2583%25E5%25A4%25A9%25E8%2596%2588-%25E5%25BD%25B1%25E7%2589%2587-%25E9%2582%258A%25E7%25B7%25A3%25E8%2588%2587%25E9%2597%259C%25E6%2587%25B7-%25E5%259C%258D%25E7%2588%2590-cuhk-bafyreib2ux5r4byd3w7mnugui7db45hc7xjmtalqanys66qwpfmqh446ve" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://matters.news/@weiluflame/%E5%B0%8D%E8%A9%B1-%E9%98%BF%E5%8D%9C%E6%9D%9C%E6%8B%89-%E5%B0%8E%E6%BC%94%E9%BB%83%E5%A4%A9%E8%96%88-%E5%BD%B1%E7%89%87-%E9%82%8A%E7%B7%A3%E8%88%87%E9%97%9C%E6%87%B7-%E5%9C%8D%E7%88%90-cuhk-bafyreib2ux5r4byd3w7mnugui7db45hc7xjmtalqanys66qwpfmqh446ve" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://matters.news/@weiluflame/%E5%B0%8D%E8%A9%B1-%E9%98%BF%E5%8D%9C%E6%9D%9C%E6%8B%89-%E5%B0%8E%E6%BC%94%E9%BB%83%E5%A4%A9%E8%96%88-%E5%BD%B1%E7%89%87-%E9%82%8A%E7%B7%A3%E8%88%87%E9%97%9C%E6%87%B7-%E5%9C%8D%E7%88%90-cuhk-bafyreib2ux5r4byd3w7mnugui7db45hc7xjmtalqanys66qwpfmqh446ve&text=對話《阿卜杜拉》導演黃天薈：影片、邊緣與關懷 | 圍爐 · CUHK&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://matters.news/@weiluflame/%E5%B0%8D%E8%A9%B1-%E9%98%BF%E5%8D%9C%E6%9D%9C%E6%8B%89-%E5%B0%8E%E6%BC%94%E9%BB%83%E5%A4%A9%E8%96%88-%E5%BD%B1%E7%89%87-%E9%82%8A%E7%B7%A3%E8%88%87%E9%97%9C%E6%87%B7-%E5%9C%8D%E7%88%90-cuhk-bafyreib2ux5r4byd3w7mnugui7db45hc7xjmtalqanys66qwpfmqh446ve&title=對話《阿卜杜拉》導演黃天薈：影片、邊緣與關懷 | 圍爐 · CUHK" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://matters.news/@weiluflame/%E5%B0%8D%E8%A9%B1-%E9%98%BF%E5%8D%9C%E6%9D%9C%E6%8B%89-%E5%B0%8E%E6%BC%94%E9%BB%83%E5%A4%A9%E8%96%88-%E5%BD%B1%E7%89%87-%E9%82%8A%E7%B7%A3%E8%88%87%E9%97%9C%E6%87%B7-%E5%9C%8D%E7%88%90-cuhk-bafyreib2ux5r4byd3w7mnugui7db45hc7xjmtalqanys66qwpfmqh446ve&title=對話《阿卜杜拉》導演黃天薈：影片、邊緣與關懷 | 圍爐 · CUHK" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=對話《阿卜杜拉》導演黃天薈：影片、邊緣與關懷 | 圍爐 · CUHK&body=
+對話《阿卜杜拉》導演黃天薈：影片、邊緣與關懷 | 圍爐 · CUHK
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://matters.news/@weiluflame/%E5%B0%8D%E8%A9%B1-%E9%98%BF%E5%8D%9C%E6%9D%9C%E6%8B%89-%E5%B0%8E%E6%BC%94%E9%BB%83%E5%A4%A9%E8%96%88-%E5%BD%B1%E7%89%87-%E9%82%8A%E7%B7%A3%E8%88%87%E9%97%9C%E6%87%B7-%E5%9C%8D%E7%88%90-cuhk-bafyreib2ux5r4byd3w7mnugui7db45hc7xjmtalqanys66qwpfmqh446ve" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://matters.news/@weiluflame/%E5%B0%8D%E8%A9%B1-%E9%98%BF%E5%8D%9C%E6%9D%9C%E6%8B%89-%E5%B0%8E%E6%BC%94%E9%BB%83%E5%A4%A9%E8%96%88-%E5%BD%B1%E7%89%87-%E9%82%8A%E7%B7%A3%E8%88%87%E9%97%9C%E6%87%B7-%E5%9C%8D%E7%88%90-cuhk-bafyreib2ux5r4byd3w7mnugui7db45hc7xjmtalqanys66qwpfmqh446ve&title=對話《阿卜杜拉》導演黃天薈：影片、邊緣與關懷 | 圍爐 · CUHK&caption=
+對話《阿卜杜拉》導演黃天薈：影片、邊緣與關懷 | 圍爐 · CUHK
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=對話《阿卜杜拉》導演黃天薈：影片、邊緣與關懷 | 圍爐 · CUHK&url=https://matters.news/@weiluflame/%E5%B0%8D%E8%A9%B1-%E9%98%BF%E5%8D%9C%E6%9D%9C%E6%8B%89-%E5%B0%8E%E6%BC%94%E9%BB%83%E5%A4%A9%E8%96%88-%E5%BD%B1%E7%89%87-%E9%82%8A%E7%B7%A3%E8%88%87%E9%97%9C%E6%87%B7-%E5%9C%8D%E7%88%90-cuhk-bafyreib2ux5r4byd3w7mnugui7db45hc7xjmtalqanys66qwpfmqh446ve" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>對話《阿卜杜拉》導演黃天薈：影片、邊緣與關懷 | 圍爐 · CUHK</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2021-08-16
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: 围炉weiluflame</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#围炉">
+          围炉
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://matters.news/@weiluflame/%E5%B0%8D%E8%A9%B1-%E9%98%BF%E5%8D%9C%E6%9D%9C%E6%8B%89-%E5%B0%8E%E6%BC%94%E9%BB%83%E5%A4%A9%E8%96%88-%E5%BD%B1%E7%89%87-%E9%82%8A%E7%B7%A3%E8%88%87%E9%97%9C%E6%87%B7-%E5%9C%8D%E7%88%90-cuhk-bafyreib2ux5r4byd3w7mnugui7db45hc7xjmtalqanys66qwpfmqh446ve" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="围炉的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#围炉 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1629128105000-->
+<p><a href="https://matters.news/@weiluflame/%E5%B0%8D%E8%A9%B1-%E9%98%BF%E5%8D%9C%E6%9D%9C%E6%8B%89-%E5%B0%8E%E6%BC%94%E9%BB%83%E5%A4%A9%E8%96%88-%E5%BD%B1%E7%89%87-%E9%82%8A%E7%B7%A3%E8%88%87%E9%97%9C%E6%87%B7-%E5%9C%8D%E7%88%90-cuhk-bafyreib2ux5r4byd3w7mnugui7db45hc7xjmtalqanys66qwpfmqh446ve">對話《阿卜杜拉》導演黃天薈：影片、邊緣與關懷 | 圍爐 · CUHK</a>
+——</p>
+
+<div>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/5f9a819a-5b91-45da-ac8b-fcd481051d12.png" data-asset-id="5f9a819a-5b91-45da-ac8b-fcd481051d12" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>黃天薈，南加州大學電影藝術學院在讀博士，覺得自己是個工匠和堅果收集家。有兩隻貓。</p>
+  <p>近日，其導演的《阿卜杜拉》剛剛製作完成。</p>
+  <p>《阿卜杜拉》這部短片講述了隨商人父親在義烏生活的巴基斯坦男孩阿卜杜拉思念故鄉，在中國朋友小易的幫助下悄悄存錢，希望回家看母親。短片正處於電影節投遞環節，在傳播限制解除後將與各視頻網站協調播出。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/0b663abd-2fe1-48fb-8e7b-7babea3f606b.png" data-asset-id="0b663abd-2fe1-48fb-8e7b-7babea3f606b" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/34af7c87-9d2d-4eb8-a335-644d1f216480.webp" data-asset-id="34af7c87-9d2d-4eb8-a335-644d1f216480" referrerpolicy="no-referrer" />    <figcaption>
+<span>電影《阿卜杜拉》海報</span>
+    </figcaption>
+  </figure>
+  <p>圍爐 = 爐</p>
+  <p>黃天薈 = 黃</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>爐 | 可以先簡單介紹一下拍攝《阿卜杜拉》的緣起嗎？</code></pre></div>  </div>
+  <p>黃 | 拍攝 《阿卜杜拉》——也是我們主角的名字——首先是因為我對義烏這個城市非常感興趣。我自己的家鄉就在義烏附近，平時在上網瀏覽時也常讀到關於義烏的報導。包括去年我在美國的時候看了一部紀錄片叫《聖誕快樂！義烏》，其中提到全球的大部分聖誕產品都是在義烏生產的，於是我對這個地方就有一種又熟悉、又陌生的感覺，雖然它就在我身邊，但大部分的了解都是通過媒體得到的，於是就產生了更多的好奇。同時在家鄉的時候我也會接觸到一些義烏的外來人口、一些外商的小孩子，他們中文說得非常好，讓我很驚訝。我對這個群體就產生了更多的興趣。我本身就比較關注邊緣群體，覺得邊緣的地方會有更多的故事發生，也會引發我們更多的思考，看到一些跟主流社會不一樣的東西，讓我們反思以前習以為常的事物。</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>爐 | 您說到義烏這座城市，這座城市的特別之處主要體現在什麼地方呢？</code></pre></div>  </div>
+  <p>黃 | 我覺得這是一座非常包容和多元的城市。首先，由於有很多外商在這裡做生意，所以它天然地融合了中國和外國的文化，其次，它也融合了現在比較流行的直播、爆款等等網絡營銷思維，和比較傳統的輕工業生產。</p>
+  <p>在我調查、訪問這座城市的時候，會看到有很多外地的群體聚居在這座城市裡面，比如一些回民社區，不僅匯集有新疆人、甘肅人，甚至還有不少阿拉伯人。包括我看到商貿區菜場裡一些賣菜的阿姨也會說阿拉伯語，因為這邊說阿拉伯語的住戶太多了。所以我覺得在這裡，外國人並不是一種純粹的外來人口，他們與中國人也會有一個互相適應的過程。另外一方面，義烏的小商品城可能代表了老一代浙商的一種特徵。他們多是六七十年代出生、沒有受到很良好的教育，他們專注於一些輕工業的生產、批發和貿易，科技含量沒有那麼高，但佔據了國內很大一部分中低端的市場。</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>爐 | 您剛才說在義烏進行一些調查、訪問，是在拍攝《阿卜杜拉》之前的嗎？</code></pre></div>  </div>
+  <p>黃 | 對，包括我寫劇本的過程中、拍片之前，我都會經常去義烏。主要是去外國人群體裡了解他們的生活。一開始我並不認識太多巴基斯坦人，巴基斯坦群體在義烏是很小的，也沒有組織，所以很難找到人。於是我們想了一個辦法，去了一家巴基斯坦餐廳，在那裡坐著、吃了好幾次，再跟店長說我們想拍這樣一個片子，想要多了解一些人，他就給我們推薦了很多中文說得比較好的巴基斯坦人。包括我們的演員，都是通過這樣的方法找到的。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/c880246f-9265-4460-a005-b6ced9b088a5.webp" data-asset-id="c880246f-9265-4460-a005-b6ced9b088a5" referrerpolicy="no-referrer" />    <figcaption>
+<span>電影《阿卜杜拉》</span>
+    </figcaption>
+  </figure>
+  <figure class="image">
+<img src="https://matters.news/@weiluflame/%E5%B0%8D%E8%A9%B1-%E9%98%BF%E5%8D%9C%E6%9D%9C%E6%8B%89-%E5%B0%8E%E6%BC%94%E9%BB%83%E5%A4%A9%E8%96%88-%E5%BD%B1%E7%89%87-%E9%82%8A%E7%B7%A3%E8%88%87%E9%97%9C%E6%87%B7-%E5%9C%8D%E7%88%90-cuhk-bafyreib2ux5r4byd3w7mnugui7db45hc7xjmtalqanys66qwpfmqh446ve" referrerpolicy="no-referrer" />    <figcaption>
+<span></span><br />
+    </figcaption>
+  </figure>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>爐 | 演員就是從當地人裡找的嗎？</code></pre></div>  </div>
+  <p>黃 | 阿卜杜拉和他爸爸的扮演者都是生活在義烏的巴基斯坦人，片中的中國孩子也都是義烏當地人，片中飾演商人的演員其實自己也是在經商。演員都是實地找到的，實際身份跟他們的角色也是比較符合的。</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>爐 | 在這部影片裡，主人公是巴基斯坦男孩，也有一些中國孩子參演。用小演員是不是會遇到一些不一樣的問題或者困難呢？</code></pre></div>  </div>
+  <p>黃 | 是的，跟成人演員相比，導小演員的戲會需要更加小心一點——因為他們畢竟是孩子。一是體力上，兩位主演小孩的拍攝日程非常滿，從早到晚，他們的工作時間有點長。講戲的時候，和孩子溝通方式和成人也不太一樣，有時候指導和解釋是不夠的，還需要說故事什麼的。其次在拍攝前我不正式地採訪了很多巴基斯坦的孩子，去問他們在義烏的生活情況、遇到的文化衝突、在中國生活的一些日常，包括他們有沒有中國朋友、上學怎麼樣等等。問到深處有時我會反思自己的問題和提問方法，會不會有引導性、會不會對這些孩子產生什麼影響。但這樣的了解又是必要的，劇本中一些生活化的細節就是通過了解他們的日常得來的。</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>爐 | 片子裡主要是起用小演員、用兒童的視角來看比較嚴肅的社會問題，為什麼會用這樣一種兒童的視角呢？</code></pre></div>  </div>
+  <p>黃 | 我一開始對這個群體產生更多興趣就是因為在街上碰到的那些生活在義烏的外商的孩子，他們也是上中國的公立學校，中文說得跟母語者沒有什麼區別。那我就想在義烏居然還有這樣一個群體，就對他們更感興趣了。</p>
+  <p>我了解到的巴基斯坦孩子主要有兩種，一種是在中國公立學校上學的，還有一種是在國際學校上學，國際學校裡的中國人其實是比較少的，更多的是一些外商的孩子，比如敘利亞的、埃及的，各個地方的都有。他們的中文相對來說就不是很好，需要用英語跟他們交流。那些在國際學校上學的孩子也沒有中國朋友，可以說他們還是沒有那麼融入中國主流的社會。</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>爐 | 那這些在中國上學、成長的孩子，他們的身份認同是怎樣的呢？是會覺得自己是中國人還是巴基斯坦人呢？</code></pre></div>  </div>
+  <p>黃 | 這個問題很好，特別是對於那些出生在中國、幾乎沒有回過巴基斯坦的孩子，他們被問到的時候會說自己是巴基斯坦人。我認識一個在公立學校上學的孩子，出生在中國、是新疆和巴基斯坦混血，他也說自己是巴基斯坦人。在文化上跟其他中國孩子不太一樣，比如他吃的東西要清真的，所以就不吃學校的食堂，而是跟穆斯林一起單獨叫餐。雖然他中文幾乎是母語水平，完全不存在語言障礙，跟中國的孩子接觸得也不少，但是他平時回家，還是跟巴基斯坦孩子玩得比較多。他有提到想和幾個巴基斯坦孩子一起拍vlog放到YouTube上，想向外國人介紹義烏等等。我覺得這樣一個想法也很有意思，是不是他其實把自己放到了一個文化交流的中間位置呢？</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>爐 | 在影片中有這樣一段情節，阿卜杜拉和他的中國朋友小易打電話，小易家里辦了聚餐，本想邀請阿卜杜拉來參加，但小易媽媽說不要邀請阿卜杜拉，因為吃的東西不一樣。所以是不是像這類哪怕是很細節的差別，也會帶來一些不是很細微的隔閡？</code></pre></div>  </div>
+  <p>黃 | 是的，心裡一些東西並不像是在表面上那樣，而是比較細微的區別。影片裡是阿卜杜拉吃的東西跟小易不一樣，他去的話可能就沒辦法吃東西，我平時觀察到的也是巴基斯坦群體會自己內部聚餐比較多，吃清真的食品，一起燒烤等。包括在拍攝的過程中，我們給主角和飾演他爸爸的演員點餐的時候，就問他們是不是餐廳牌子上有著“清真”字樣的我們就可以買，他們說不要中國的清真餐廳，比如蘭州拉麵等，但是土耳其的和敘利亞的可以，那麼我就覺得他們穆斯林群體的內部也是有一些差別的，這些可能是需要我們深入接觸才能了解到的。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/6e34eec2-5a52-47a4-bf2f-5c946ca506dd.webp" data-asset-id="6e34eec2-5a52-47a4-bf2f-5c946ca506dd" referrerpolicy="no-referrer" />    <figcaption>
+<span>電影《阿卜杜拉》</span>
+    </figcaption>
+  </figure>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>爐|說到穆斯林群體，但中國總體來說是一個比較世俗化的社會，那麼他們的信仰是不是有時會面臨一些挑戰？這種宗教信仰又會給他們帶來什麼呢？</code></pre></div>  </div>
+  <p>黃|我覺得肯定和中國比較世俗化的社會是有不太一樣的地方的，飾演爸爸的演員讓我印象還挺深的。開拍之前我們找場地、找演員，他都幫了很多忙，特別熱情、友好。但是我們在做後期的時候要去找這位演員補錄聲音，找了很多次，他一直都說自己有事、很忙，又說自己生病了。最後找到他，他才說過去一個月是在齋月，看他整個人瘦了一大圈，說確實是身體不好，吃得太少了，齋月結束後就開始猛吃，所以肚子又不太舒服。我就想，如果他們有一些這樣宗教文化上的風俗，需要去做的話，做生意的過程中可能就需要中國人對這方面有一些瞭解，溝通才能更順暢。至於宗教對他們生活有什麼其他的作用，可能對商人的話，他們的信仰是比較注重誠信禮貌、熱情好客，我去採訪他們的時候對我們也都很友好、熱情，這樣的信仰對他們在中國做生意肯定是有幫助的，包括對他們克服一些困難、堅持自己事業等等。</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>爐|那麼兒童這一代會被家庭中的宗教氛圍，還是被社會中的世俗化氛圍影響的更多呢？</code></pre></div>  </div>
+  <p>黃|我的觀感是會更加世俗化一點。他們平時玩樂的地方跟普通的中國孩子差不多，問他們去哪玩，就是電玩城、去打球之類的，也會喜歡去公園、喜歡看美國大片。感覺還是會比較多的受世俗、消費文化的影響。不過在飲食等方面，宗教裏那些規矩也都會去遵守，大概是一個融合的過程。在中國有些孩子比較靈通，也會去做一些自己的小生意，受到一些經商氛圍的影響。</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>爐|雖然會受這些主流的氛圍影響，但宗教很多規矩也會去遵守，那樣的話，宗教是不是他們身份認同的一個部分呢？</code></pre></div>  </div>
+  <p>黃|是的，我想宗教肯定是他們身份認同的一個很重要的部分，而且對他自己的群體凝聚力也有影響，比如他們會吃在一起，聚會也就跟穆斯林一起聚會，對他們在中國的朋友圈也是有影響的。即使是在中國公立學校上學的外商孩子，也不會和每天上學碰到的中國孩子玩耍，仍然和巴基斯坦孩子接觸較多。</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>爐|《阿卜杜拉》這部片子裏一個在我看來很重要的主題就是阿卜杜拉想要“回家”。“回家”的這個願望是在義烏的巴基斯坦孩子共有的願望嗎？</code></pre></div>  </div>
+  <p>黃|我碰到的有想回家的，也有沒那麼想回家的。想回家的一般是小時候在巴基斯坦長大，之後才被帶到中國來，他們可能對在家鄉的生活有一些記憶，中文可能也不是很好，所以想要回家。我們片子裏的主演，就是演阿卜杜拉的男孩，他很想回家，還說長大之後想回到巴基斯坦生活。不想回家的可能就是出生在中國，中文也比較好，他們會說想回去看看，但不一定想定居回巴基斯坦，也有說想去別的國家，比如紐西蘭、美國。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/3b3de12c-0a82-4497-a69a-7717a9175341.webp" data-asset-id="3b3de12c-0a82-4497-a69a-7717a9175341" referrerpolicy="no-referrer" />    <figcaption>
+<span>電影《阿卜杜拉》</span>
+    </figcaption>
+  </figure>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>爐|您剛才講到在義烏有一些種族的隔閡和融合問題，那您先在香港、後在美國讀書，這兩個地方也有一些種族問題是社會焦點。這兩地的種族問題是不是可以和義烏的問題作一些對照、或者給您帶來一些啟發呢？</code></pre></div>  </div>
+  <p>黃|我覺得這是很有意思的問題，義烏是一個很國際化的都市，我在美國、香港生活時也是不同族群生活在一個空間裡面。但是我覺得不一樣的可能是美國本身是移民國家，有一些抗爭運動的傳統、殖民主義和奴隸的歷史，這樣一個歷史背景、文化以及國家建立的基礎讓美國的種族問題會更加特殊，抗爭運動也會是完全不同的狀態。中國更多是外來人口來這裡定居，或者是來做生意、上班、務工的人，他們就會有一個遙遠的“家鄉”可以回去。雖然很多人最後也沒有回去，但至少心理上有這樣一個寄託。美國的話，很多移民已經到第二代、第三代了，如果大街上有人沖著他喊“go back to where you come from”，他會覺得，我可以回去哪兒，我就是美國人啊，我家兩百年前就在這片土地上了。而中國這種情況就很少，它沒有這段歷史，也不是一個移民國家。我認識的出生在中國大陸的巴基斯坦孩子，拿的還是巴基斯坦護照。香港反而是曾經被殖民，就更複雜了。因為比如一個白人在一個第三世界國家、和一個祖先來自第三世界國家的人在第一世界生活，這是完全不同的情形。香港兩者都有，既有來做菲傭的、跟著外企過來的高級白領，也有從港英時期就留下來的白人。每個地方的情况其實都很不一樣。</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>爐|您最開始是香港中文大學中文系的學生，為什麼後來走向了影片製作的道路呢？這樣做的初衷是什麼？</code></pre></div>  </div>
+  <p>黃|還是出於一個比較理想化的目的吧。我覺得文藝作品是一個非常有力量的東西，這也是為什麼它們經常會受到嚴格管控，因為它們可以打動人的心、傳達一些觀念。而電影作為一種福斯的藝術，有沒有文化都看得懂，受眾就更廣了。我覺得拍這樣的片子也是一種嘗試吧，因為對我來說這是一個全新的領域，通過這樣的實踐讓我鍛煉向更廣闊的世界表達的能力。在學院裏可能更多是和同專業的人、學術圈子裏的人交流，那麼做電影對我來說就是向更廣闊的群體表達。</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>爐|“向更廣闊的群體表達”，電影作為福斯藝術一定是有優勢的。從另一方面，電影是影像的管道來表達，而文章是通過文字。文字和影像的表達方式會有怎樣的不同呢？您會不會認為電影的影像表達會更容易激發人的同理心呢？</code></pre></div>  </div>
+  <p>黃|文字跟影像肯定是不同的，讀文字首先要識字，然後可以看得進去。影像會更加直觀一點。激發人的同理心的話，我覺得不一定是因為影像，因為影像只是一種媒介。雖然媒介很重要，每種媒介都有自己不同的特性，但我覺得電影最打動人的、或者說最打動我自己的，還是故事。就算是非虛構的片子，比如紀錄片，雖然主要是觀察、記錄，其實也是構建了一種大家對未知的東西的敘事，需要有這樣一個敘事才可以讓觀眾設身處地去理解。所以我覺得一個好的故事，不管是真實的還是虛構的，都能够抓住人，讓人難忘。</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>爐|像《阿卜杜拉》這樣的片子或許會被解讀為替外籍人士發聲、表達對外籍人士的關懷。那樣的話您是怎麼看待這部片子可能會具有的社會價值呢？這種對社會價值的追求是不是又可能跟追求藝術、美有一些衝突呢？</code></pre></div>  </div>
+  <p>黃|我覺得最理想的狀態是社會價值跟美學價值並存，可以互相融合在一起，我想是可以做到的，只是可能需要更多的努力和天賦。至於如何看待這部片子的社會價值，我覺得不一定是為在中國的外籍人士“發聲”吧，因為畢竟這個故事是虛構的可能只展現了這個群體的某些部分，這個片子真正想要做到的，只是讓他們進入福斯的視野。</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>爐|對於您來說，這樣一種對邊緣群體的關注，大概是怎麼來的呢？比如，更多是一種道德上的關懷還是審美上的意趣呢？</code></pre></div>  </div>
+  <p>黃|關懷會更多。因為在我的價值觀念裏，邊緣群體更加值得被關注。首先他們沒有受到足够多的關注，另外一些結構化的體系可能會侵蝕他們的位置、把他們擠到邊緣。在理想和價值觀上我比較傾向於弱者那一邊。</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge"><div class="highlight"><pre class="highlight"><code>爐|《阿卜杜拉》的結尾，阿卜杜拉踏上新的冒險之旅，故事便戛然而止，留待觀眾自己猜測後續。關於阿蔔拉罕冒險的結局，也許每個觀眾心裡都有自己的答案，而您作為導演，心中的答案又是什麼呢？</code></pre></div>  </div>
+  <p>黃|我想這個答案我現在還沒有找到。我當時想的是這樣他會有一個新的旅程，這是結尾，也是一個新的開始。他可能會碰到很多事情。讓他踏上這段旅途的初衷是很孩子氣的、很單純的，片子裏孩子的世界和現實的世界也是比較對立的狀態，他們可能會相信一些超自然的東西，而現實世界就比較寫實，遵從一些商業的規則等等。當阿卜杜拉受到打擊的時候，他世界裏的魔力好像消失了。但在結尾他依然重新選擇秉持自己孩子世界的想法，去進入現實世界，這是兩方力量的一個對抗。也許他的旅程沒開始就失敗了，第二天繼續回去上學；也可能到了一個陌生的地方，卻不是他想去的那個；但也許他成功回到了家鄉。這是比較開放的，沒有一個固定答案。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/58855e0a-df07-4846-b40c-8a875d3223fb.webp" data-asset-id="58855e0a-df07-4846-b40c-8a875d3223fb" referrerpolicy="no-referrer" />    <figcaption>
+<span>電影《阿卜杜拉》</span>
+    </figcaption>
+  </figure>
+  <p>文|馬也</p>
+  <p>圖|受訪者</p>
+  <p>稽核| Winter</p>
+  <p>微信編輯| Bullet</p>
+  <p>Matters編輯| Marks</p>
+  <p>圍爐（ID:weilu_flame）</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/d55a4a04-57d4-4ee9-8e0b-65a55b87891a.png" data-asset-id="d55a4a04-57d4-4ee9-8e0b-65a55b87891a" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>文中圖片未經同意，請勿用作其他用途</p>
+  <p>歡迎您在文章下方評論，與圍爐團隊和其他讀者交流討論</p>
+  <p>欲瞭解圍爐、閱讀更多文章，請關注本公眾號並在公眾號頁面點擊相應選單欄目</p>
+  <p><br /></p>
+  <p><br /></p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/34a5a2fc-b67f-4788-9fb5-c3595a79080e.png" data-asset-id="34a5a2fc-b67f-4788-9fb5-c3595a79080e" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p><br /></p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/742d9631-03f4-489a-9ef3-555ecc45f48a.jpeg" data-asset-id="742d9631-03f4-489a-9ef3-555ecc45f48a" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <figure class="image"></figure>
+  <p><br /></p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#围炉 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2024-10-03/%E5%AF%B9%E8%AF%9D%E5%A5%B3%E6%80%A7%E6%B0%91%E5%B7%A5-%E5%9C%A8%E5%9F%8E%E5%B8%82%E9%87%8C-%E5%9C%A8%E5%B7%A5%E4%BD%9C%E5%92%8C%E5%AE%B6%E5%BA%AD%E4%B9%8B%E9%97%B4-%E5%9B%B4%E7%82%89-CU/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2021-03-23/%E5%AF%B9%E8%AF%9D%E9%BB%84%E6%B3%93%E7%BF%94-%E8%87%B4%E5%8A%9B%E4%BA%8E%E5%9F%B9%E8%82%B2%E4%B8%96%E7%95%8C%E5%85%AC%E6%B0%91%E7%9A%84%E4%B8%AD%E5%8D%97%E5%B1%8B%E5%88%9B%E5%A7%8B%E4%BA%BA-%E8%AE%B2%E5%BA%A7%E6%91%98%E8%A6%81/">最早</a>--</span>
+    
+      <li>
+        <time>2021-08-24</time>
+        <a href="https://nodebe4.github.io/opinion/2021-08-24/%E6%88%91%E5%80%91%E7%9A%84%E5%9B%9B%E5%B9%B4-%E6%88%91%E5%80%91%E7%9A%84%E4%B8%AD%E6%96%87%E7%B3%BB-%E5%9C%8D%E7%88%90-FDU/">
+          我們的四年，我們的中文系|圍爐·FDU
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-08-19</time>
+        <a href="https://nodebe4.github.io/opinion/2021-08-19/%E7%95%B6%E6%98%AF%E6%9E%9D%E8%A3%95%E5%92%8C%E7%99%BC%E7%8F%BE%E4%B8%96%E7%95%8C-%E5%9C%8D%E7%88%90-%E5%A4%8F%E6%97%A5%E6%96%87%E8%97%9D/">
+          當是枝裕和發現世界 | 圍爐 · 夏日文藝
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-08-12</time>
+        <a href="https://nodebe4.github.io/opinion/2021-08-12/%E6%84%9B%E6%98%AF%E7%9B%B8%E5%88%83%E7%9B%B8%E9%9D%A1-%E6%88%91%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%8F%AA%E6%98%AF%E4%BB%B0%E6%9C%9B%E8%91%97%E4%BD%A0-%E8%AE%80%E5%BE%8C%E6%84%9F-%E5%9C%8D%E7%88%90-%E5%A4%8F%E6%97%A5%E6%96%87%E8%97%9D/">
+          愛是相刃相靡：《我不可能只是仰望著你》讀後感 | 圍爐 · 夏日文藝
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-08-08</time>
+        <a href="https://nodebe4.github.io/opinion/2021-08-08/%E4%B8%8D%E7%94%A8%E5%9C%A8%E5%A4%8F%E6%97%A5%E7%AD%89%E5%BE%85-%E5%9C%8D%E7%88%90-%E5%A4%8F%E6%97%A5%E6%96%87%E8%97%9D/">
+          不用在夏日等待｜圍爐 · 夏日文藝
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2021-08-16/%E5%A5%A5%E5%88%A9%E7%BB%B4%E8%80%B6-%E5%8B%92%E7%93%A6-%E8%B0%81%E6%94%AF%E6%8C%81%E5%A1%94%E5%88%A9%E7%8F%AD/">
+            前一篇：奥利维耶·勒瓦：谁支持塔利班？
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2021-08-16/CUPodcast-80-%E8%83%BD%E5%8A%9B%E5%9C%88%E6%80%9D%E7%B6%AD%E6%A8%A1%E5%9E%8B-%E4%BD%A0%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E4%B8%8D%E7%9F%A5%E9%81%93%E7%94%9A%E9%BA%BC%E5%97%8E/">
+            後一篇：【*CUPodcast】#80 能力圈思維模型：你知道自己不知道甚麼嗎？
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2021-08-16/%E5%A5%A5%E5%88%A9%E7%BB%B4%E8%80%B6-%E5%8B%92%E7%93%A6-%E8%B0%81%E6%94%AF%E6%8C%81%E5%A1%94%E5%88%A9%E7%8F%AD/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2021-08-16/CUPodcast-80-%E8%83%BD%E5%8A%9B%E5%9C%88%E6%80%9D%E7%B6%AD%E6%A8%A1%E5%9E%8B-%E4%BD%A0%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E4%B8%8D%E7%9F%A5%E9%81%93%E7%94%9A%E9%BA%BC%E5%97%8E/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2021-08-19/%E7%95%B6%E6%98%AF%E6%9E%9D%E8%A3%95%E5%92%8C%E7%99%BC%E7%8F%BE%E4%B8%96%E7%95%8C-%E5%9C%8D%E7%88%90-%E5%A4%8F%E6%97%A5%E6%96%87%E8%97%9D/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2021-08-12/%E6%84%9B%E6%98%AF%E7%9B%B8%E5%88%83%E7%9B%B8%E9%9D%A1-%E6%88%91%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%8F%AA%E6%98%AF%E4%BB%B0%E6%9C%9B%E8%91%97%E4%BD%A0-%E8%AE%80%E5%BE%8C%E6%84%9F-%E5%9C%8D%E7%88%90-%E5%A4%8F%E6%97%A5%E6%96%87%E8%97%9D/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2021-08-16/%E5%A5%A5%E5%88%A9%E7%BB%B4%E8%80%B6-%E5%8B%92%E7%93%A6-%E8%B0%81%E6%94%AF%E6%8C%81%E5%A1%94%E5%88%A9%E7%8F%AD/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2021-08-16/CUPodcast-80-%E8%83%BD%E5%8A%9B%E5%9C%88%E6%80%9D%E7%B6%AD%E6%A8%A1%E5%9E%8B-%E4%BD%A0%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E4%B8%8D%E7%9F%A5%E9%81%93%E7%94%9A%E9%BA%BC%E5%97%8E/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<围炉>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2021-08-19/%E7%95%B6%E6%98%AF%E6%9E%9D%E8%A3%95%E5%92%8C%E7%99%BC%E7%8F%BE%E4%B8%96%E7%95%8C-%E5%9C%8D%E7%88%90-%E5%A4%8F%E6%97%A5%E6%96%87%E8%97%9D/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<围炉>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2021-08-12/%E6%84%9B%E6%98%AF%E7%9B%B8%E5%88%83%E7%9B%B8%E9%9D%A1-%E6%88%91%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%8F%AA%E6%98%AF%E4%BB%B0%E6%9C%9B%E8%91%97%E4%BD%A0-%E8%AE%80%E5%BE%8C%E6%84%9F-%E5%9C%8D%E7%88%90-%E5%A4%8F%E6%97%A5%E6%96%87%E8%97%9D/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

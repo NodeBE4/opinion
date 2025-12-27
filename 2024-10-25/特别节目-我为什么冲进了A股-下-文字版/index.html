@@ -1,0 +1,1591 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>特别节目：我为什么冲进了A股？（下）文字版 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+特别节目：我为什么冲进了A股？（下）文字版
+——
+" />
+    <meta property="og:description" content="
+特别节目：我为什么冲进了A股？（下）文字版
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="特别节目：我为什么冲进了A股？（下）文字版" />
+    <meta property="twitter:title" content="特别节目：我为什么冲进了A股？（下）文字版" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fwww.bumingbai.net%2F2024%2F10%2Fagux-text%2F%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dagux-text" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://www.bumingbai.net/2024/10/agux-text/?utm_source=rss&utm_medium=rss&utm_campaign=agux-text" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://www.bumingbai.net/2024/10/agux-text/?utm_source=rss&utm_medium=rss&utm_campaign=agux-text&text=特别节目：我为什么冲进了A股？（下）文字版&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://www.bumingbai.net/2024/10/agux-text/?utm_source=rss&utm_medium=rss&utm_campaign=agux-text&title=特别节目：我为什么冲进了A股？（下）文字版" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.bumingbai.net/2024/10/agux-text/?utm_source=rss&utm_medium=rss&utm_campaign=agux-text&title=特别节目：我为什么冲进了A股？（下）文字版" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=特别节目：我为什么冲进了A股？（下）文字版&body=
+特别节目：我为什么冲进了A股？（下）文字版
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://www.bumingbai.net/2024/10/agux-text/?utm_source=rss&utm_medium=rss&utm_campaign=agux-text" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://www.bumingbai.net/2024/10/agux-text/?utm_source=rss&utm_medium=rss&utm_campaign=agux-text&title=特别节目：我为什么冲进了A股？（下）文字版&caption=
+特别节目：我为什么冲进了A股？（下）文字版
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=特别节目：我为什么冲进了A股？（下）文字版&url=https://www.bumingbai.net/2024/10/agux-text/?utm_source=rss&utm_medium=rss&utm_campaign=agux-text" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>特别节目：我为什么冲进了A股？（下）文字版</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2024-10-25
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#不明白播客">
+          不明白播客
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://www.bumingbai.net/2024/10/agux-text/?utm_source=rss&utm_medium=rss&utm_campaign=agux-text" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="不明白播客的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#不明白播客 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1729870873000-->
+<p><a href="https://www.bumingbai.net/2024/10/agux-text/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=agux-text">特别节目：我为什么冲进了A股？（下）文字版</a>
+——</p>
+
+<div>
+  <div id="buzzsprout-player-15939939"></div>
+  <script src="https://www.buzzsprout.com/1982525/episodes/15939939-a.js?container_id=buzzsprout-player-15939939&#038;player=small" type="text/javascript" charset="utf-8"></script>
+  <p><strong>文字版全文：</strong></p>
+  <p>时间轴：</p>
+  <p>2:13 成先生讲述从企业经营者到A股“投机者”的转变<br />8:20 “行情”背后的流动性危机<br />14:53 成先生如何看待此次突如其来的股市热潮<br />19:15 成先生不相信00后进场的宣传<br />21:52 安先生是如何满仓A股的？<br />25:39 安先生遭遇教培行业被灭的经历<br />28:44 安先生对于A股这轮“行情”的判断<br />31:36 安先生对于政府的信心为何只有50%</p>
+  <p><strong>袁莉: </strong>[00:00:03] 大家好，欢迎来到不明白播客，我是主持人袁莉。昨天我们播出了《我为什么冲进了A股 上集》今天请继续收听下集，由两位投资人分享他们投资或者说投机A股市场的逻辑。以下是与成先生的对话。他自称是A股的投机者，过去1年曾亏损400多万。</p>
+  <p>成先生你好，你能不能先介绍一下你自己呢？</p>
+  <p><strong>成先生: </strong>[00:00:35] 最早的时候我其实是化工行业的。渐渐地走入了一个半个体制内的角色，属于IT的网络安全。在改革开放期间，我的个人职业转变成一个个人经营者，包括把海外的一些比较不错的企业引入中国。现在企业肯定是不想再做了。压力实在太大。现在属于个人投资吧。</p>
+  <p><strong>袁莉: </strong>[00:01:17] 你在今年二月份的时候就给我发过私信，你在私信里面说我是A股投资（实为投机者）。一年以来的亏损是400多万。我唯一庆幸的是我并未融资融券加杠杆，只是在纯技术面上反复补过仓，直到去年第三季度。现在看到的结果肯定是越补，越跌。</p>
+  <p>你在上周又给我发了一次私信。你说：这一次呢，就是九月份，我还是按照赌市操守在节前加仓进入了，并且在节后开盘当天撤出了加仓部分的本金，这部分的获利达到了46%，算是弥补了一部分历史的损失。</p>
+  <p>你最早投A股大概是什么时候，去年亏掉了400多万，大概是你的投资的总额的多少呢？百分之多少？你当时的心情是什么样？</p>
+  <p><strong>成先生: </strong>[00:02:13] 我正式进入市场应该是在2018年左右。</p>
+  <p><strong>袁莉: </strong>[00:02:18] 为什么那时候会进呢？</p>
+  <p><strong>成先生: </strong>[00:02:20] 我不知道您过往对赌博这个概念是怎么去理解的。人怎么都有一定的赌性，生活当中其实需要一个赌性的释放。我在各方面经营当中其实发生了很大的困难。长期说一家公司能够做多大，或者能够做多长远，整个政策面的变化让民企的有很大的压力。</p>
+  <p><strong>袁莉: </strong>[00:02:54] 我加一个大的背景，18年那时候国进民退更厉害，是不是？</p>
+  <p><strong>成先生: </strong>[00:03:00] 其实我们的民企在改革开放之后，很多东西还是依赖于政府，同时依赖于政府的政策。那时发现怎么突然之间赚钱难赚了。而且发现，欠款会拖垮各方面的东西。这会让你觉得这样再经营下去，其实风险很大。这也是慢慢让我觉得经营民企的吸引力慢慢减弱了。</p>
+  <p><strong>袁莉: </strong>[00:03:33] 那如果民企不好了，中国经济增长的动力肯定没有那么强了，为什么你还会去投A股呢？</p>
+  <p><strong>成先生: </strong>[00:03:39] 当时A股它是一个赌博概念。我在私信当中也跟你说，它其实还是基于一个最基础的数学原理。特别是我们这边的A股的逻辑。我认为整个A股市场其实是不公平市场。但是你想，世界上所有的赌场，哪有一个公平的？首先概率就是不公平的。如果你是一个参与者的话，也是一种人生的挑战，或者说这是一个游戏规则。我参与这东西是因为我觉得我对于这些的理解，特别是在操守跟我的数学理解上，我觉得我还可以驾驭一部分，当然我也觉得我可以很好地控制自己。我亏的多了。但亏的多其实不影响我生活本质的情况下，它也只是一个数字。特别是在股票市场。如果你从事的是其他行业，我可能把身家全部放进去了，我是没有任何回本机会的。</p>
+  <p><strong>袁莉: </strong>[00:04:46] 你还说了一个概念，说实际上投资股市在中国是一个比较安全的。</p>
+  <p><strong>成先生: </strong>[00:04:54] 这是一个对比方式。我只能做这种对比。特别是在18年以后，你会发现做什么事情都不顺，而且做什么事情都可能存在风险，特别是从民企角度上讲。我最直观感受过税务方面不停地受到困扰。比方说我在2010年按照正常的税务规范去做，但是未必会符合16年以后税务改革之后的一个规制。</p>
+  <p><strong>袁莉: </strong>[00:05:28] 你是说，如果从股市里赚到钱，该收的税都收了，清清楚楚、明明白白，不像做个企业，又要想怎么做市场，又要管销售，甲方的钱越来越难收，国家的税也越收越离谱，到头来根本看不到实业投资的实际收益，风险依然不可控。相比之下，股市的盈亏会让人接受的更轻松。其实还挺心酸的，你多大岁数？</p>
+  <p><strong>成先生: </strong>[00:05:55] 我现在应该是四十出头吧。</p>
+  <p><strong>袁莉: </strong>[00:05:58] 你是70后是吧？那其实还是收获了一点改革开放的红利，是吧？就是前面二十多年相对顺一点。</p>
+  <p><strong>成先生: </strong>[00:06:08] 这是肯定的。因为这个红利其实不光是改革开放。因为它是一个整个社会的大型的资本介入。在这当中，其实人人都在获利。就看你是在从事哪个行业，或者说你的背景有多大，或者说你愿不愿意干活的问题。</p>
+  <p><strong>袁莉: </strong>[00:06:28] 你从18年开始进入A股，一直到今年九月份的时候，你是有起起伏伏呢？还是赔钱的时候比较多呢？</p>
+  <p><strong>成先生: </strong>[00:06:39] 那肯定是起伏，就像你打麻将也不可能是只赢不输。</p>
+  <p><strong>袁莉: </strong>[00:06:45] 你怎么老拿投A股和打麻将比，为什么？</p>
+  <p><strong>成先生: </strong>[00:06:50] 其实我就认为，其实我们的任何投资行为其实都是一个赌博行为。只是麻将对于我们中国人来讲容易理解。所以我愿意尽量去把它形象地比喻成麻将。</p>
+  <p><strong>袁莉: </strong>[00:07:09] 大家好，我是袁莉，你们刚刚听到的精彩对话背后有几十个小时的精心准备和制作，这需要阅读大量资料，花时间与采访对象沟通，只有这样才能问出好的问题，才可能进行有深度的对话。不明白播客会继续致力于制作高品质的新闻内容，让中国人听到深刻的思考、真实的情感。在这个灰暗不确定的年代，听到彼此心中的一点坚持，请大家继续支持不明白的播客，让我们把这个事业长期地进行下去。欢迎听众朋友们到我们本期的内容简介里点击捐赠链接，或者访问我们的网站bumingbai.net的捐赠页面。</p>
+  <p>你起起伏伏的，你赚到钱的时候大概挣到多少？然后你到了今年二月份赔了400多万，那是不是一个谷底呢？</p>
+  <p><strong>成先生: </strong>[00:08:06] 其实所有的听众也好，观众也好，其实他们内心就是贪嗔痴，很容易被带入，所以我并不想公布任何我的盈和亏。其实没有什么太大意义。</p>
+  <p><strong>袁莉: </strong>[00:08:20] 嗯，对，但是我问你这个不是想要知道你的盈和亏，而是想要理解你为什么现在还在A股里面。</p>
+  <p><strong>成先生: </strong>[00:08:28] 其实我就继续逻辑判断。我们国家二季度的所有的数字，其实看上去已经很不好了，但为什么李强当时还是说需要用“固本培元”的经济逻辑？从六月份达沃斯论坛后整整一个季度里，第一，这个季度的所有的数字都相当难看。第二，所有的股票流动性发生了这么大的问题。到最后的即使一个上市公司的基本面看上去还可以，为什么它还会不停的跌？其实就是一个流动性产生的阻力。没人会去玩了，那怎么办？或者说想玩，规则却不让它玩了，那你怎么做？我相信：第一，国家的确是既想股市像他们承诺的那样需要一个慢牛，但同时也害怕。18年其实可能对于政府的压力是相当相当大的。就比方说我们讲好了今年的GDP要做多少，前面三季度是这样的，那第四季度怎么办？地方债怎么办？我怎么去消化？那最简单的就是一个道理，股市！从证券，从二级市场当中，不管融也好，或者投也好，第一可以解决地方债问题，只要激活这个市场，股民的心态也会愿意去消费。在每个人消费的基础上，起码可能可以交一份还算不错的第四季度GDP数字。</p>
+  <p><strong>袁莉: </strong>[00:10:15] 我来念一段你在今年2月5号给我写的私信，现在回头看，我觉得确实还挺清醒。你说：有人问我怎么看现在的局面，我不隐讳的唱衰。经济和股市就是活水原理。水变死了，市场就完蛋。股市看着港股和A股就明白什么是流动性出问题了。但现在的政党毕竟不是60年代的政党，自从改革开放以来，政党在尝到金融甜头的同时也无形地背上了枷锁。我认为，当金融杠杆压到一定程度，政党只能妥协。</p>
+  <p>你当时就指出来是流动性问题。那你觉得现在最近他们采取的一系列措施已经能够改善股市的流动性问题吗？</p>
+  <p><strong>成先生: </strong>[00:11:04] 这问题很好。我认为，这个手段应该可以产生流动性，但是流动性持续多久是个问题。第二，我们的流动性今天流动了，而且是巨量流动。我们更加希望的是什么？是一个慢牛。要持续的这样的话，某些企业的股价跟它本身已经完全偏离了。因为流动性让股价变低的企业也可以恢复自然价值。同时，其实哪个企业或国企，真的希望在一定时候减持走人？不，它最希望什么？定增。我的股价可以到一定位置之上，通过定增让所有的钱都变活，所有的钱都变活，对国家是好事，对个人也是好事，甚至对企业发展也是好事。</p>
+  <p><strong>袁莉: </strong>[00:12:06] 你觉得流动性会改善。</p>
+  <p><strong>成先生: </strong>[00:12:10] 我只是提醒这是一种承诺。这种承诺也就是在3000点到3500点这个范围里可以慢慢去创造。其实我觉得最大的流动性其实还是在于整体的经济环境。我们不可逃避经济出了问题。第一，房企的政策把房市变成死盘。所有的房企，包括它的供应链简直就是为了看病把一个胳膊给砍掉了。这是一个很大的问题。第二，就算我们当时把事情放在疫情上面，但最终造成的是什么？还是有相当多外企流失。外企流失，他们的产业链也有许多企业受损。从CPI和PPI来看也都不理想。那么我觉得国家应该起码要让外资相信我们。</p>
+  <p><strong>袁莉: </strong>[00:13:25] 你在私信里面说，你五月份还在调侃，说换了我是习近平，就算啥正事都干不好，但起码左手有当铺，也就是银行，右手有赌场，也就是股市。这盘棋一点都不难下，只要利用当铺的游戏规则去赌场做庄家放水，就可以让赌民进场，先暂时解决流动性问题，再通过开放改革开放地区性财税政策，宽容和吸引外资民营解决就业问题。所以我还预测，从急救病房转到普通病房后，应该会在财政政策上再次放水，要不然迟早还是会收到死亡通知书。</p>
+  <p>那我再问你，你说财税政策上会再次放水，周六财政部的新闻发布会你肯定听了，你觉得他们那上面有什么清晰的信号吗？让你相信会有财政政策放水吗？</p>
+  <p><strong>成先生: </strong>[00:14:18] 他们有这意愿，但是没想好怎么做。而且不是在一个合适的时候发。我个人是这么觉得。起码让大家已经进入正常的慢牛时，再去做另外一种信号的释放，这样可能对整体市场会更好。说实话，我不相信这帮操盘手的能力是否能够把控好，但是我相信大家的意愿。</p>
+  <p><strong>袁莉: </strong>[00:14:53] 那我想问一下，你说A股市场其实是是一个赌场，但是再怎么样股市还是要靠基本面来支撑的，对吧？你觉得中国的这些企业的基本面，还有经济的整体形势，它可以支撑一个慢牛行情吗？</p>
+  <p><strong>成先生: </strong>[00:15:12] 这个问题很好。我也一直在思考。我觉得这次行情其实不基于任何企业本身的盈利和发展。如果这样来一个股市行情，它肯定是一个零和游戏，对吧？早进早出的人，你还可以获利，剩下这两天就有接盘侠。后面有技术操作的人会好一点。多操作还给市场带来流动性，这也是好事。但是对股票本身的投资应该是一个市场概念。</p>
+  <p><strong>袁莉: </strong>[00:15:42] 那我还想问，你有一些自己的资本财富的积累，听起来你也和国际市场也有很多的接触，你有没有在H股或者是美股，把你的资产分散一部分到外面去？为什么要来投A股呢？</p>
+  <p><strong>成先生: </strong>[00:16:01] 回到麻将的概念，如果我家旁边有一个麻将馆，我是不是去就近的麻将馆玩玩就可以了。</p>
+  <p><strong>袁莉: </strong>[00:16:07] 你拿到A股的钱难道就是你来玩一玩的吗？</p>
+  <p><strong>成先生: </strong>[00:16:11] 对，可以这么想。</p>
+  <p><strong>袁莉: </strong>[00:16:12] 很多人冲进来是想挣一笔钱的，对不对？那你冲进来难道就是为了玩一下吗？就不为挣钱吗？那你要去想这么多问题做什么呢？</p>
+  <p><strong>成先生: </strong>[00:16:23] 挣钱是一种快乐。我觉得这是一个很不错的游戏，而且如果我操作获利，真的是清清楚楚明明白白的。但是我不可能把很大的一个比例进行投资，让我生活无法再过下去了，这也不可能。所以回到打麻将，你打麻将的时候，难道就是为了赢钱去吗？其实有时候并不是。特别是退休的人，他们只是想去参与这个活动。</p>
+  <p><strong>袁莉: </strong>[00:16:56] 现在也有这种00后跑步入场、100万人突然涌进证券交易所去开户的情况。对这些人你是一个什么样的建议呢？尤其对年轻人。</p>
+  <p><strong>成先生: </strong>[00:17:07] 第一，我不相信，我觉得不相信，也不用去宣传。第一，现在A股市场的有最大资产的，能够进入股市的，肯定还是集中在50后、60后、70后，最多到80后。后面的人可能会有个例。比方说在七天里面，很多券商都在加班，都在开户啊。他们开户是有指标的，这也是为了激活市场的一种指标。开户可能一半以上都是空户。剩下的可能是年轻人。我接触下来任何一个90后、00后的思维其实比我们要正常得多。他们对生活的概念有很清晰的了解。第一，不需要去跟别人斗，斗争这件事情他们不会有。但是我们的父辈其实一直充斥着各种方式的斗争。他们不会有。第二，他们很喜欢说我们可不可以做我们自己想做的事情。他们有这个概念。所以他们会不会有人去投资A股，希望在A股里成为一个赌侠，或者一个赌圣？有，很少。我觉得00后他们基本上并不喜欢这么一个游戏。</p>
+  <p><strong>袁莉: </strong>[00:18:40] 但是这也是在网络上、社交媒体上的一个热门话题，因为他们90后、00后觉得以前改革开放的红利他们都没有摊上，对不对？现在就是这个股市可能是他们唯一的一个机会了。</p>
+  <p><strong>成先生: </strong>[00:18:57] 他们这个想法我是既认可又不认可的。不认可就是他们不是没摊上，因为他们父辈摊上了。他们父辈摊上了，整个社会在向前，他们才可以获得他们当时的社会教育，跟世界的所有联系，对吧？他们可以娱乐，有各种可能。现在在美国流行的，同时也在我们这边在流行，他们也是获利者。我们不能光从有没有在某个年龄里面赚到钱，钱不是这么理解的。</p>
+  <p><strong>袁莉: </strong>[00:19:33] 好，谢谢成先生。</p>
+  <p>以下是与安先生的对话。他也在最近选择加仓A股，投入了自己绝大部分的现金资产。安先生您好！你能介绍一下你自己吗？</p>
+  <p><strong>安先生: </strong>[00:19:48] 好的，袁莉老师，你好。我来自上海，我现在在上海做软件工程师的工作，已经在上海工作了大概有十七、八年，最近刚刚加仓了A股。</p>
+  <p><strong>袁莉: </strong>[00:20:02] 嗯，为什么呢？加仓？你是以前就有投A股是吗？</p>
+  <p><strong>安先生: </strong>[00:20:07] 对啊，我之前最早开户应该是在17年还是18年。开户的时候，软件的资产页面会提示：你的收益已经打败了全国80%的人。所以这个时候我就没有进入。</p>
+  <p>过了一段时间以后，在去孩子的足球培训班时会和其他小孩的家长聊天，他们就会说到在行业里哪些是比较好的企业，他们自己平时有接触的，然后就会适当的买一点。都不是特别成功，后来就在疫情期间彻底地清仓了。</p>
+  <p>20年疫情刚刚过一点以后，我是在在线教育公司工作。那段时间，有一些在线教育公司要去纳斯达克上市。当时估值给的比较高，所以我想办法开了老虎的帐号，然后就入了美股的在线教育的公司。那一波大概是一到两年时间，那一次投资大概是亏掉了94%。</p>
+  <p><strong>袁莉: </strong>[00:21:14] 94%，你当时投了多少钱呢？</p>
+  <p><strong>安先生: </strong>[00:21:17] 大概是两万五千美元。</p>
+  <p><strong>袁莉: </strong>[00:21:20] 对你是不是很大一笔钱呢？</p>
+  <p><strong>安先生: </strong>[00:21:23] 不算多，也不算少，我理解。</p>
+  <p><strong>袁莉: </strong>[00:21:25] 后来你又进去了，是吧？</p>
+  <p><strong>安先生: </strong>[00:21:28] 因为当时自己从事这个行业，对行业的内部情况相对地比较了解。所以当时买的时候觉得还是有一些信心的，结果没想到后面的影响因素就完全不是市场因素，也不是经营因素。所以就没办法。跌掉了百分之六、七十以后，就懒得去看它了，就干脆不管它了。这个过程有一年多。</p>
+  <p><strong>袁莉: </strong>[00:21:52] 你说你在疫情中投入了一些，6月上海封城投入一些，国庆节前加仓一些，至今已经无子弹可以加上，你就是满仓了，对吧？你说你股市的投入占所有现金的80%到90%。这个情况听起来真的是挺让人挺担心的，因为是一种很风险很高的行为，对不对？你说一下你是怎么走到这一步呢？为什么要这样做呢？</p>
+  <p><strong>安先生: </strong>[00:22:21] 因为在20年四、五月份时，我手上有一些现金，当时也没有别的好的投资渠道。美股因为刚刚被在线教育锤了一波，所以就没有热情。我觉得港股跟美股应该差不太多。后来看朋友的私募收益还可以。因为18年、19年还可以，他的收益大概有30%左右。两年时间30%到40%的收益。我的要求不高，三年能拿到20%到30%的收益，也比银行利息高。私募的投入蛮多。因为私募的起头门槛，个人是100万。他到现在为止这两年多，私募的收益中间也是断断续续，有升有降的。</p>
+  <p>我看到有升的时候，我就想手里还有一点点现金，因为又发年终奖，就跟老婆商量要不要再自己再买点A股。我去A股看了一下，觉得A股的这些企业，什么白酒这些，我实在是看不懂。因为我做软件开发，所以我觉得技术应该是切切实实能够产生价值，能够改变这个世界。所以当时的想法就很简单，就是通过大A的渠道去买港股通，买港股的恒生科技，全是买科技类的基金。我觉得这个至少是稳妥一点吧。我理解中国的科技公司全部团灭的概率也比较低，然后就投入了一部分资金去买了。</p>
+  <p><strong>袁莉: </strong>[00:23:55] 那是什么时候呢？</p>
+  <p><strong>安先生: </strong>[00:24:00] 上海封城结束以后。因为在家里面已经关了一个多月了，那波入得挺多的，大概有个四、五十万。它就断断续续的，有涨有跌。到目前为止这部分投入应该是刚刚好打平。这波涨跌到现在为止大概有个5%到6%的收益，差不多是这样。</p>
+  <p><strong>袁莉: </strong>[00:24:22] 那你国庆节加仓是加的哪呢？加的A股吗？</p>
+  <p><strong>安先生: </strong>[00:24:26] 加的也是科技这块的，相当于是A股的基金。</p>
+  <p><strong>袁莉: </strong>[00:24:32] A股里面的基金，是吧？</p>
+  <p><strong>安先生: </strong>[00:24:33] 对，A股的场内基金。他说他的持仓应该是科技类的。当时的加仓其实我个人是有点犹豫的。我老婆有一点点赌的成分。因为她看到涨得很厉害，她说要不进去游几天，然后她就把她手上的钱又去……</p>
+  <p><strong>袁莉: </strong>[00:24:50] 你们是去赌场里面去晃晃的感觉。是吗？</p>
+  <p><strong>安先生: </strong>[00:24:53] 就是这种感觉。她就说把手上的现金全部给我，就留一点还信用卡的钱、急用的钱，然后就冲进去了。但现在看来，冲进去这个决策好像不是特别明智。到目前看刚刚好打平或者有一到两个点的收益。就总体来看，到现在为止股票上还没有被坑到太多。</p>
+  <p><strong>袁莉: </strong>[00:25:17] 那你接下来是想要继续持有呢，还是要怎么样呢？</p>
+  <p><strong>安先生: </strong>[00:25:23] 其实前面的时候对股票市场确实是特别地没信心，最明显的就是看到一些奇葩的政策什么的，特别是每次有个中央的政策，要支持国企做大做强的时候就觉得特别的恐怖，就特别的绝望。</p>
+  <p><strong>袁莉: </strong>[00:25:39] 我能问你一下，你当时在教培行业，当时教培行业整体被灭的时候，你有工作吗？你的工作受影响了吗？</p>
+  <p><strong>安先生: </strong>[00:25:49] 因为我在一个教培行业的创业公司干了五、六年。我们是核心的骨干，在技术、资源方面还有一些比较明显的积累。所以这个公司被灭掉以后，老板成为失信被执行人以后，我们在一个月之内就顺利地找到了别的工作，薪资上面还有一些提升，至少现金收入方面没有特别大的影响。但是期权上是一个灭顶之灾。</p>
+  <p><strong>袁莉: </strong>[00:26:18] 当时大家去初创企业更多的肯定不是看着工资，是看着期权。</p>
+  <p><strong>安先生: </strong>[00:26:24] 我们一年一年地不是增长得特别快，但是增长得也还可以。差不多上市前的准备都做好了，结果到最后21年的八月份的时候，就出了中央办公厅的红头文件嘛，然后一下子所有的上市动作全都停下来了，就没办法兑现了。</p>
+  <p><strong>袁莉: </strong>[00:26:46] 其实还算是一个灭顶之灾，对你的信心还是有挺大影响的。</p>
+  <p><strong>安先生: </strong>[00:26:51] 我感觉应该是有一到两年的时间缓不过来，走不出来，就是做什么事情都没有动力了，没有以前的那种冲劲，也没有以前的那种愿意去拼命地去奋斗的那种感觉，一下子就没了。</p>
+  <p><strong>袁莉: </strong>[00:27:08] 但你后来又经历了上海封城，那又是一个很大的打击，是吧？</p>
+  <p><strong>安先生: </strong>[00:27:14] 对，在封城以前我还信心挺满的，看到别的地方封城我觉得这是一帮人在瞎搞。后来有领导到隔壁小区里视察的时候，大家在敲盆反对封城。后来那些敲盆的人都被警察一个一个上门，一个一个去沟通，我觉得这也太夸张了。我说这还是上海吗？</p>
+  <p><strong>袁莉: </strong>[00:27:38] 我想问一下，上海封城是一个挺惨烈的经历，你也经历过教培行业被灭，为什么你可以到香港去投资的时候还是选择了投中国的中概股，为什么没有去投，比如像美元的指数基金？</p>
+  <p><strong>安先生: </strong>[00:27:55] 我因为在国内，在上海做软件，我感觉国内的工程师其实并不差，他们的创造力还有开发效率，我觉得真的还是非常非常恐怖的。所以我觉得随着疫情的放开，各种管控自由一点，轻松一点，我理解应该会有一个大的转变。当时主要是这么一个想法。</p>
+  <p><strong>袁莉: </strong>[00:28:19] 还是对中国互联网和做互联网的人的信心，是不是？</p>
+  <p><strong>安先生: </strong>[00:28:24] 对，因为我觉得聪明的脑袋很大一部分集中在这个行业里。</p>
+  <p><strong>袁莉: </strong>[00:28:27] 我想问一下，你们在股市上现在的投资有多少钱？能说吗？</p>
+  <p><strong>安先生: </strong>[00:28:33] 现在本金一共大概是230万。</p>
+  <p><strong>袁莉: </strong>[00:28:37] 那如果有一次大跌的话，其实还是挺受伤的，是不是？那你为什么还要这么做呢？</p>
+  <p><strong>安先生: </strong>[00:28:44] 我老婆在国庆节前加仓这个决策有一点赌的成分。但我内心就问我自己一个问题，25年的九月份会不会比24年的九月份更差？这个是指经济形势。先不说政治，就说经济形势会不会更差。我自己的判断是，目前至少最高层在经济层面有一个转向的动作，至于这个转向的动作带来的具体的动作是不是能够带来经济复苏，还是要打一点点问号。但是我理解这个转向动作应该会做一些尝试。所以应该不会比今年这个彻底打压的态度更差。这就是我的理解，是我愿意去加的一个原因。但是到目前看，包括今天早上的高层会议，我觉得还是比较谨慎，非常非常谨慎，而且最根本最核心的问题好像还没有特别大的转变。在我理解经济差的一个原因就是中美关系很差。</p>
+  <p><strong>袁莉: </strong>[00:29:45] 国际大环境很差。如果这是主要的问题，这个大环境有可能改变吗？</p>
+  <p><strong>安先生: </strong>[00:29:52] 基于目前这种形势可能会有一点点的回升，但是回升到很高的高度，我觉得不大可能。24年应该是一个阶段性的底部，会往上稍微走一点。接下来的三个月到六个月，应该是我做决策的一个核心时期。如果说三个月到六个月经济的回升速度不及预期，我会毫不犹豫地从A股里面全部撤资。</p>
+  <p><strong>袁莉: </strong>[00:30:19] 如果你被套牢了怎么办？</p>
+  <p><strong>安先生: </strong>[00:30:21] 国家现在的策略，我理解三千点，或者两千七、八百点，应该是他们不能忍受的底限。</p>
+  <p><strong>袁莉: </strong>[00:30:31] 你就是认为政府把现在股市看得很重要，所以它会大力去推股市。你不想失去这个机会，想进去赌一把，是吧？可以这么理解吗？</p>
+  <p><strong>安先生: </strong>[00:30:45] 可以这么理解，没问题。</p>
+  <p><strong>袁莉: </strong>[00:30:47] 我想问一下，你们都四十岁左右了，是吧？应该也有孩子、在上海有房，就是一个扎扎实实的中产。但是你现在把自己的现金全都投到股市里面，这还是让我挺吃惊的。这是一个挺冒险的行为。你和你太太，你们讨论过这个问题吗？就是万一股市涨不起来，一下跌得比较多怎么办？</p>
+  <p><strong>安先生: </strong>[00:31:17] 我们应该是能承受的。现在是打平，如果接下来再跌个10%，我理解也能承受，到20%应该就是极限了。20%就不能再忍了，就是即使割肉也一定会出来了。</p>
+  <p><strong>袁莉: </strong>[00:31:36] 那我还是要问你一下，你经过教培行业被灭，经过上海封城，你现在赌的还是对这个政府有信心，或者是你对政府的救市能力有信心。我可以这么说吗？</p>
+  <p><strong>安先生: </strong>[00:31:53] 我信心不是很足，50%吧，50%到60%的样子。</p>
+  <p><strong>袁莉: </strong>[00:31:57] 那你为什么非要把这个钱投入进去呢？我知道你是很矛盾的，但是我很想理解你这个行为。</p>
+  <p><strong>安先生: </strong>[00:32:03] 这么说吧，我觉得国内接下来会有一个很大的通胀过程。接下来的一到两年或者两到三年内，肯定会有一个通胀过程。我们没有什么特别好的对抗通胀的手段，这是最核心的一个恐惧。就是怕缩水太厉害。然后正好这有一个像赌场一样稍微可能有一点点机会的地方，里面稍微有一点点靠谱的资产可以去尝试一下，就是这么一个想法。</p>
+  <p><strong>袁莉: </strong>[00:32:34] 其实是就是感觉非常无力，想要在这个过程中有一点点把握，是吧？有一点点对自己命运的把控，可以这么说吗？</p>
+  <p><strong>安先生: </strong>[00:32:44] 可以这么说。而且至少这个行业，或者这些从业者，包括我的同学，我的朋友，我觉得这些聪明的脑袋至少还是，我们还在卷，我们还在卷。所以，唉，也很心酸，只能这么说。</p>
+  <p><strong>袁莉: </strong>[00:33:02] 感觉就是在历史的大潮中，作为一个小人物不得不扑腾几下，是吗？</p>
+  <p><strong>安先生: </strong>[00:33:09] 对，就是挺无奈的，确实也把握不住什么太多的东西。我觉得可以按照自己的分析去掌控一些东西的时候，结果发现一个红头文件可以让你所有的分析，你所有的努力完全不存在了。这个就是一个非常让人气愤的事情。</p>
+  <p><strong>袁莉: </strong>[00:33:27] 谢谢安先生。谢谢大家收听，我们下期再见。</p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#不明白播客 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-28/EP-137-%E8%AE%B8%E6%88%90%E9%92%A2-DeepSeek-%E6%B0%91%E4%BC%81%E5%BA%A7%E8%B0%88%E4%BC%9A%E8%83%BD%E5%90%A6%E9%87%8D%E6%8C%AF%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E-(%E6%96%87%E5%AD%97%E7%89%88/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2022-10-09/EP-020-%E8%94%A1%E9%9C%9E-%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E5%AF%B9%E4%B8%AD%E5%85%B1%E7%BB%9D%E6%9C%9B/">最早</a>--</span>
+    
+      <li>
+        <time>2024-10-28</time>
+        <a href="https://nodebe4.github.io/opinion/2024-10-28/EP-119-%E7%BD%97%E7%8E%89%E5%87%A4-%E4%B8%8A-%E4%BB%8E%E7%BD%91%E6%9A%B4%E5%88%B0-%E4%BA%BA%E9%97%B4%E6%B8%85%E9%86%92-%E6%88%91%E9%83%BD%E7%BB%8F%E5%8E%86%E4%BA%86%E4%BB%80%E4%B9%88-%E6%96%87%E5%AD%97%E7%89%88/">
+          EP-119 罗玉凤（上）：从网暴到“人间清醒”，我都经历了什么？（文字版）
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-10-26</time>
+        <a href="https://nodebe4.github.io/opinion/2024-10-26/EP-120-%E7%BD%97%E7%8E%89%E5%87%A4-%E4%B8%8B-%E6%88%91%E6%83%B3%E6%88%90%E4%B8%BA%E6%95%8F%E6%84%9F%E8%AF%8D/">
+          EP-120 罗玉凤（下）：我想成为敏感词
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-10-22</time>
+        <a href="https://nodebe4.github.io/opinion/2024-10-22/%E7%89%B9%E5%88%AB%E8%8A%82%E7%9B%AE-%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E5%86%B2%E8%BF%9B%E4%BA%86A%E8%82%A1-%E4%B8%8A-%E6%96%87%E5%AD%97%E7%89%88/">
+          特别节目：我为什么冲进了A股？（上）文字版
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-10-19</time>
+        <a href="https://nodebe4.github.io/opinion/2024-10-19/EP119-%E7%BD%97%E7%8E%89%E5%87%A4-%E4%BB%8E%E7%BD%91%E6%9A%B4%E5%88%B0-%E4%BA%BA%E9%97%B4%E6%B8%85%E9%86%92-%E6%88%91%E9%83%BD%E7%BB%8F%E5%8E%86%E4%BA%86%E4%BB%80%E4%B9%88/">
+          EP119 罗玉凤：从网暴到“人间清醒”，我都经历了什么？
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2024-10-22/%E7%89%B9%E5%88%AB%E8%8A%82%E7%9B%AE-%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E5%86%B2%E8%BF%9B%E4%BA%86A%E8%82%A1-%E4%B8%8A-%E6%96%87%E5%AD%97%E7%89%88/">
+            前一篇：特别节目：我为什么冲进了A股？（上）文字版
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2024-10-26/EP-120-%E7%BD%97%E7%8E%89%E5%87%A4-%E4%B8%8B-%E6%88%91%E6%83%B3%E6%88%90%E4%B8%BA%E6%95%8F%E6%84%9F%E8%AF%8D/">
+            後一篇：EP-120 罗玉凤（下）：我想成为敏感词
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2024-10-22/%E7%89%B9%E5%88%AB%E8%8A%82%E7%9B%AE-%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E5%86%B2%E8%BF%9B%E4%BA%86A%E8%82%A1-%E4%B8%8A-%E6%96%87%E5%AD%97%E7%89%88/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2024-10-26/EP-120-%E7%BD%97%E7%8E%89%E5%87%A4-%E4%B8%8B-%E6%88%91%E6%83%B3%E6%88%90%E4%B8%BA%E6%95%8F%E6%84%9F%E8%AF%8D/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2024-10-26/EP-120-%E7%BD%97%E7%8E%89%E5%87%A4-%E4%B8%8B-%E6%88%91%E6%83%B3%E6%88%90%E4%B8%BA%E6%95%8F%E6%84%9F%E8%AF%8D/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2024-10-22/%E7%89%B9%E5%88%AB%E8%8A%82%E7%9B%AE-%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E5%86%B2%E8%BF%9B%E4%BA%86A%E8%82%A1-%E4%B8%8A-%E6%96%87%E5%AD%97%E7%89%88/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2024-10-22/%E7%89%B9%E5%88%AB%E8%8A%82%E7%9B%AE-%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E5%86%B2%E8%BF%9B%E4%BA%86A%E8%82%A1-%E4%B8%8A-%E6%96%87%E5%AD%97%E7%89%88/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2024-10-26/EP-120-%E7%BD%97%E7%8E%89%E5%87%A4-%E4%B8%8B-%E6%88%91%E6%83%B3%E6%88%90%E4%B8%BA%E6%95%8F%E6%84%9F%E8%AF%8D/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<不明白播客>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2024-10-26/EP-120-%E7%BD%97%E7%8E%89%E5%87%A4-%E4%B8%8B-%E6%88%91%E6%83%B3%E6%88%90%E4%B8%BA%E6%95%8F%E6%84%9F%E8%AF%8D/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<不明白播客>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2024-10-22/%E7%89%B9%E5%88%AB%E8%8A%82%E7%9B%AE-%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E5%86%B2%E8%BF%9B%E4%BA%86A%E8%82%A1-%E4%B8%8A-%E6%96%87%E5%AD%97%E7%89%88/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

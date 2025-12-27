@@ -1,0 +1,933 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>与粮食有关的笑话 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+与粮食有关的笑话
+——
+" />
+    <meta property="og:description" content="
+与粮食有关的笑话
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="与粮食有关的笑话" />
+    <meta property="twitter:title" content="与粮食有关的笑话" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2F2049post.wordpress.com%2F2020%2F08%2F31%2F%25e4%25b8%258e%25e7%25b2%25ae%25e9%25a3%259f%25e6%259c%2589%25e5%2585%25b3%25e7%259a%2584%25e7%25ac%2591%25e8%25af%259d%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://2049post.wordpress.com/2020/08/31/%e4%b8%8e%e7%b2%ae%e9%a3%9f%e6%9c%89%e5%85%b3%e7%9a%84%e7%ac%91%e8%af%9d/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://2049post.wordpress.com/2020/08/31/%e4%b8%8e%e7%b2%ae%e9%a3%9f%e6%9c%89%e5%85%b3%e7%9a%84%e7%ac%91%e8%af%9d/&text=与粮食有关的笑话&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://2049post.wordpress.com/2020/08/31/%e4%b8%8e%e7%b2%ae%e9%a3%9f%e6%9c%89%e5%85%b3%e7%9a%84%e7%ac%91%e8%af%9d/&title=与粮食有关的笑话" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://2049post.wordpress.com/2020/08/31/%e4%b8%8e%e7%b2%ae%e9%a3%9f%e6%9c%89%e5%85%b3%e7%9a%84%e7%ac%91%e8%af%9d/&title=与粮食有关的笑话" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=与粮食有关的笑话&body=
+与粮食有关的笑话
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://2049post.wordpress.com/2020/08/31/%e4%b8%8e%e7%b2%ae%e9%a3%9f%e6%9c%89%e5%85%b3%e7%9a%84%e7%ac%91%e8%af%9d/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://2049post.wordpress.com/2020/08/31/%e4%b8%8e%e7%b2%ae%e9%a3%9f%e6%9c%89%e5%85%b3%e7%9a%84%e7%ac%91%e8%af%9d/&title=与粮食有关的笑话&caption=
+与粮食有关的笑话
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=与粮食有关的笑话&url=https://2049post.wordpress.com/2020/08/31/%e4%b8%8e%e7%b2%ae%e9%a3%9f%e6%9c%89%e5%85%b3%e7%9a%84%e7%ac%91%e8%af%9d/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>与粮食有关的笑话</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2020-08-30
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#火光">
+          火光
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://2049post.wordpress.com/2020/08/31/%e4%b8%8e%e7%b2%ae%e9%a3%9f%e6%9c%89%e5%85%b3%e7%9a%84%e7%ac%91%e8%af%9d/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="火光的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#火光 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1598822972000-->
+<p><a href="https://2049post.wordpress.com/2020/08/31/%e4%b8%8e%e7%b2%ae%e9%a3%9f%e6%9c%89%e5%85%b3%e7%9a%84%e7%ac%91%e8%af%9d/">与粮食有关的笑话</a>
+——</p>
+
+<div>
+  <h4 id="n-2">N-2点餐模式</h4>
+  <figure class="wp-block-image">
+<img src="https://i.imgur.com/HRvpFc6.png" alt="" />
+  </figure>
+  <h4 id="section">名字是亮点</h4>
+  <figure class="wp-block-image">
+<img src="https://i.imgur.com/sUwIU5G.jpg" alt="" />
+  </figure>
+  <h4 id="section-1">天下第一鸭</h4>
+  <p>江泽民退下来之后，终日无事可干，很是郁闷。</p>
+  <p>有一天，他到北京全聚德烤鸭店吃饭，酒足饭饱之后，江泽民兴犹未尽，提出要给全聚德烤鸭店题字留念。</p>
+  <p>全聚德烤鸭店的老总一听不敢怠慢，赶忙命人取来文房四宝。</p>
+  <p>江泽民也不客气，提起笔来刷刷刷几下子，八个大字就写好了。</p>
+  <p>众人凑上前去一看，个个乐得前仰后合，趴倒了一地。原来这八个大字是:“天下第一鸭 江泽民”</p>
+  <blockquote class="wp-block-quote">
+    <p>也可以替换成李鹏等</p>
+  </blockquote>
+  <h4 id="section-2">李鹏是饭桶</h4>
+  <p>李鹏：“我死后，组织上不太可能给我高度评价。”<br />李小琳：“为什么？”<br />李鹏：“因为我人还未死，你已经把我说成是饭桶了。”<br />李小琳：“我没说过啊！！！”<br />李鹏：“你公开宣称 — — 自己能力以外的资本等于零！”</p>
+  <p>其他：</p>
+  <p>1998年长江发生洪水灾难，江泽民到抗洪前线动员抗灾，没有效果；朱镕基也去鼓劲，没有效果；李鹏去了，大家把他推到江里，马上就堵住洪水了–因为他是全中国最大的草包。</p>
+  <p>李鹏总理做报告，当念到“对已结婚的和尚，未结婚的青年，都要提倡计划生育”<br />台下的官员都听傻掉了。<br />后来对照讲稿一看，原来是“对已结婚的和尚未结婚的青年，都要提倡计划生育”</p>
+  <p>80年代，某官在办公室里挂了三副照片 — — 左边是周恩来，右边是李鹏，中间是万里（当时的人大委员长）。<br />旁人不解，问之何故（为啥要挂这3人？而且还把万里委员长放在当中？）<br />某官皆笑而不语。<br />直到亲信问之，某官见四下无人，悄悄说：“两位总理的水平，相隔万里！”</p>
+  <p>六四後，有一个不知好歹的家伙，竟然在大庭广众的场合说李鹏是弱智，话才出口就给抓了起来。<br />结果被控“毁谤他人罪”，经最高法院审讯，判了20年。<br />那人抗议：“毁谤罪的最高刑罚不是5年吗，为啥多判了15年？”<br />法官：“那15年是另外一项控罪 — — 泄露国家最高机密。”</p>
+  <p>李鹏的孙子要上北大。北大校长不敢不收，但总得走走形式，于是让他来面试。<br />面试那天，李鹏带着孙子来了，坐在沙发上。<br />校长问：“1+1等于几？”<br />李鹏孙子答：“4”。<br />校长启发说：“再想想，再小一点？”<br />李鹏孙子答：“3”<br />校长说：“再小一点呢？”<br />李鹏孙子答：“2”<br />校长刚想说“答对了”，李鹏突然站了起来说：“再给一次机会，再给一次机会！”</p>
+  <p>李鹏掉进河里，贴身侍卫立即把他救上来。<br />李鹏说要赐他一个愿望。<br />侍卫大喜若狂说：“求你保守秘密，千万不要让任何人知道我救了你，否则个个都会要我的命！”</p>
+  <p>六四期间，某小孩在家看电视。<br />上午李鹏在大会堂说：“党和人民从来没有说学生是动乱！”<br />晚上李鹏宣布戒严，却吼道：“这是一场严重的动乱！”<br />小孩不解：“国家总理为什么会骗人？”<br />大人回答：“那是职业骗子！”</p>
+  <p>李鹏去阎王那儿报到。谁知一进阎王殿就挨了邓小平一巴掌。<br />邓质问道：“你竟敢把六四大屠杀的事全部推到我头上来！”<br />李鹏沮丧道：“阳间有人咒我，没想到阴间咒我的人更厉害！”</p>
+  <p>李鹏访问鞍钢，到处彩旗飘扬，甚为高兴。<br />突然他发现，某欢迎标语写着“热烈欢迎李朋总理”<br />不禁大怒：我的那个鸟呢？</p>
+  <p>歌唱家帕瓦罗蒂、球星马拉多纳和中国总理李鹏三人一起过入境边检，但是都忘了带护照。边检官员问：”你们有什么办法证明自己的身份吗？”帕瓦罗蒂引吭高歌一曲《我的太阳》，边检官员说：”不错，你就是帕瓦罗蒂。”马拉多纳从包里取出一只足球，颠了两脚，边检官员说：”不错，你就是马拉多纳。”轮到李鹏了，他憋了半天，最后涨红了脸说：”我是李鹏，可是，我什么也不会做。”边检官员点点头说：”不错，你就是李鹏。”</p>
+  <p>1991年夏天，李鹏去四川视察生猪养殖业，报纸上发表了一张他在养猪场的新闻照片，照片的说明是这样写的：”李鹏（右）和猪在一起。”</p>
+  <p>有一天，邓小平、李鹏、一位老爷爷和一个小学生一起乘飞机。在北京上空，飞机引擎发生故障，乘客必须跳伞，但是仅有三个降落伞。邓小平说：”我是改革开放总设计师，我想死人民也不会答应！”抢了一个伞包跳了下去。李鹏说：”我是共和国总理，人民答应我也不想死！”也抢了一个伞包跳下去。老爷爷对小学生说：”孩子，最后一把伞给你吧！”小学生说：”爷爷，这里还有两个伞包呢，因为李鹏总理抱着我的书包跳下去了。”</p>
+  <p>有一天，李鹏去视察精神病院。他大步走在前面，照常挥着手说：”同志们好！”一个精神病人走过来给他一个耳光，骂道：”傻X！刚进来的吧？”原来，模仿领导不讲人话，是精神病人的常见症状之一。</p>
+  <p>江泽民去长江防洪前线视察，看到赤膊的战士们浑身泥水、晒得黝黑，很是感动，喊了一嗓子，“同志们都（晒）黑啦！”指战员们一听，立刻齐声回答：“总书记更黑！”</p>
+  <h4 id="section-3">三鹿奶粉喝多了</h4>
+  <figure class="wp-block-image">
+<img src="https://i.imgur.com/tDcwI56.jpg" alt="Imgur" />
+  </figure>
+  <h4 id="section-4">一场好戏</h4>
+  <figure class="wp-block-image">
+<img src="https://i.imgur.com/iRyYEg2.png" alt="Imgur" />
+  </figure>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#火光 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2020-12-31/%E7%AB%AF%E7%82%B9%E6%98%9F%E6%A1%88%E6%B6%88%E6%81%AF%E6%B1%87%E6%80%BB/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2020-07-24/%E5%85%AC%E6%B0%91%E5%AE%9E%E9%AA%8C%E5%AE%A4-%E5%BE%AE%E4%BF%A1%E7%9B%91%E6%8E%A7%E8%AF%A0%E9%87%8A/">最早</a>--</span>
+    
+      <li>
+        <time>2020-08-30</time>
+        <a href="https://nodebe4.github.io/opinion/2020-08-30/%E5%A5%B9%E8%AF%B7%E4%BD%A0%E5%90%83%E7%9A%84%E4%B8%8D%E6%98%AF%E7%89%A1%E8%9B%8E-%E8%80%8C%E6%98%AF/">
+          她请你吃的不是牡蛎，而是……
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-08-30</time>
+        <a href="https://nodebe4.github.io/opinion/2020-08-30/%E5%85%B3%E4%BA%8E%E4%B8%89%E5%B9%B4-%E8%87%AA%E7%84%B6%E7%81%BE%E5%AE%B3-%E7%9A%84%E5%8E%86%E5%8F%B2%E7%A0%94%E7%A9%B6/">
+          关于三年“自然灾害”的历史研究
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-08-30</time>
+        <a href="https://nodebe4.github.io/opinion/2020-08-30/%E6%9D%83%E5%8A%9B%E7%9A%84%E5%93%80%E6%82%BC%E4%B8%8E%E9%87%8E%E5%BF%83-%E8%B1%AA%E6%96%AF%E7%99%BB%E5%A0%A1%E5%AE%AB%E9%87%8C%E7%9A%84%E8%8D%B7%E5%85%B0%E7%9A%87%E5%AE%B6%E6%95%85%E4%BA%8B(2)/">
+          权力的哀悼与野心：豪斯登堡宫里的荷兰皇家故事(2)
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-08-30</time>
+        <a href="https://nodebe4.github.io/opinion/2020-08-30/%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E7%BC%96%E5%86%99PGP/">
+          我为什么编写PGP
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2020-08-30/%E6%9D%83%E5%8A%9B%E7%9A%84%E5%93%80%E6%82%BC%E4%B8%8E%E9%87%8E%E5%BF%83-%E8%B1%AA%E6%96%AF%E7%99%BB%E5%A0%A1%E5%AE%AB%E9%87%8C%E7%9A%84%E8%8D%B7%E5%85%B0%E7%9A%87%E5%AE%B6%E6%95%85%E4%BA%8B(2)/">
+            前一篇：权力的哀悼与野心：豪斯登堡宫里的荷兰皇家故事(2)
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2020-08-30/%E5%85%B3%E4%BA%8E%E4%B8%89%E5%B9%B4-%E8%87%AA%E7%84%B6%E7%81%BE%E5%AE%B3-%E7%9A%84%E5%8E%86%E5%8F%B2%E7%A0%94%E7%A9%B6/">
+            後一篇：关于三年“自然灾害”的历史研究
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2020-08-30/%E6%9D%83%E5%8A%9B%E7%9A%84%E5%93%80%E6%82%BC%E4%B8%8E%E9%87%8E%E5%BF%83-%E8%B1%AA%E6%96%AF%E7%99%BB%E5%A0%A1%E5%AE%AB%E9%87%8C%E7%9A%84%E8%8D%B7%E5%85%B0%E7%9A%87%E5%AE%B6%E6%95%85%E4%BA%8B(2)/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2020-08-30/%E5%85%B3%E4%BA%8E%E4%B8%89%E5%B9%B4-%E8%87%AA%E7%84%B6%E7%81%BE%E5%AE%B3-%E7%9A%84%E5%8E%86%E5%8F%B2%E7%A0%94%E7%A9%B6/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2020-08-30/%E5%85%B3%E4%BA%8E%E4%B8%89%E5%B9%B4-%E8%87%AA%E7%84%B6%E7%81%BE%E5%AE%B3-%E7%9A%84%E5%8E%86%E5%8F%B2%E7%A0%94%E7%A9%B6/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2020-08-30/%E6%9D%83%E5%8A%9B%E7%9A%84%E5%93%80%E6%82%BC%E4%B8%8E%E9%87%8E%E5%BF%83-%E8%B1%AA%E6%96%AF%E7%99%BB%E5%A0%A1%E5%AE%AB%E9%87%8C%E7%9A%84%E8%8D%B7%E5%85%B0%E7%9A%87%E5%AE%B6%E6%95%85%E4%BA%8B(2)/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2020-08-30/%E6%9D%83%E5%8A%9B%E7%9A%84%E5%93%80%E6%82%BC%E4%B8%8E%E9%87%8E%E5%BF%83-%E8%B1%AA%E6%96%AF%E7%99%BB%E5%A0%A1%E5%AE%AB%E9%87%8C%E7%9A%84%E8%8D%B7%E5%85%B0%E7%9A%87%E5%AE%B6%E6%95%85%E4%BA%8B(2)/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2020-08-30/%E5%85%B3%E4%BA%8E%E4%B8%89%E5%B9%B4-%E8%87%AA%E7%84%B6%E7%81%BE%E5%AE%B3-%E7%9A%84%E5%8E%86%E5%8F%B2%E7%A0%94%E7%A9%B6/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<火光>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2020-08-30/%E5%85%B3%E4%BA%8E%E4%B8%89%E5%B9%B4-%E8%87%AA%E7%84%B6%E7%81%BE%E5%AE%B3-%E7%9A%84%E5%8E%86%E5%8F%B2%E7%A0%94%E7%A9%B6/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<火光>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2020-08-30/%E6%9D%83%E5%8A%9B%E7%9A%84%E5%93%80%E6%82%BC%E4%B8%8E%E9%87%8E%E5%BF%83-%E8%B1%AA%E6%96%AF%E7%99%BB%E5%A0%A1%E5%AE%AB%E9%87%8C%E7%9A%84%E8%8D%B7%E5%85%B0%E7%9A%87%E5%AE%B6%E6%95%85%E4%BA%8B(2)/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

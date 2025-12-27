@@ -1,0 +1,3008 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Playing on Hard Mode – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+Playing on Hard Mode
+——
+" />
+    <meta property="og:description" content="
+Playing on Hard Mode
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Playing on Hard Mode" />
+    <meta property="twitter:title" content="Playing on Hard Mode" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2020%2Fplaying-on-hard-mode%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2020/playing-on-hard-mode/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2020/playing-on-hard-mode/&text=Playing on Hard Mode&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2020/playing-on-hard-mode/&title=Playing on Hard Mode" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2020/playing-on-hard-mode/&title=Playing on Hard Mode" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Playing on Hard Mode&body=
+Playing on Hard Mode
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2020/playing-on-hard-mode/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2020/playing-on-hard-mode/&title=Playing on Hard Mode&caption=
+Playing on Hard Mode
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Playing on Hard Mode&url=https://stratechery.com/2020/playing-on-hard-mode/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Playing on Hard Mode</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2020-11-17
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2020/playing-on-hard-mode/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1605624860000-->
+<p><a href="https://stratechery.com/2020/playing-on-hard-mode/">Playing on Hard Mode</a>
+——</p>
+
+<div>
+  <p>One way to understand how <a href="https://stratechery.com/2020/is-the-internet-different/">the Internet is different</a> is to not only examine what business models work, but also the history of how those business models came to be. Start with text and images, long the province of newspapers: the first attempts at website monetization placed ads alongside article text; after all, that is how advertising was done.</p>
+  <p>Incredibly enough, it was a mere eight years ago that Facebook IPO’d with this as its business model: content that was important to you was in the center of the webpage, and ads were on the side (mobile didn’t monetize at all, which was why growth in mobile usage was listed as a risk factor in <a href="https://www.sec.gov/Archives/edgar/data/1326801/000119312512034517/d287954ds1.htm">Facebook’s S-1</a>); the company was optimistic that the Facebook Platform would provide a more traditional-to-tech means of monetization that could augment its ads business.</p>
+  <p>That, though, was the other “problem” with mobile: it made Facebook just an app, not a platform. It turned out, though, that this was <a href="https://stratechery.com/2013/mobile-makes-facebook-just-an-app-thats-great-news/">the best possible thing that could have happened to the social media company</a>: freed to be “just an app” the company doubled down on the News Feed, which already delivered personalized content, as the primary means of delivering personalized ads.</p>
+  <p>The rest, as they say, is history:</p>
+  <p><img src="https://stratechery.com/wp-content/uploads/2020/11/hardmode-4-1024x842.png" alt="Facebook&#039;s stock price since IPO" width="640" height="526" class="aligncenter size-large wp-image-5408" srcset="https://stratechery.com/wp-content/uploads/2020/11/hardmode-4-1024x842.png 1024w, https://stratechery.com/wp-content/uploads/2020/11/hardmode-4-300x247.png 300w, https://stratechery.com/wp-content/uploads/2020/11/hardmode-4-768x632.png 768w, https://stratechery.com/wp-content/uploads/2020/11/hardmode-4-766x630.png 766w, https://stratechery.com/wp-content/uploads/2020/11/hardmode-4.png 1280w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+  <p>Today would-be experts talk about Facebook’s business model as if it were always inevitable, that of course the same mechanism would work for Instagram, not to mention the company’s ever increasing number of competitors like Snapchat or TikTok; I presume they all purchased the company’s stock when it was down 50% from its IPO price in the fall of 2012, five months after the Instagram purchase. For the rest of us, though, including Facebook, it wasn’t obvious at all: succeeding on the Internet didn’t simply mean making a digital product, but also finding a business model that was native as well.</p>
+  <h4 id="easy-mode">Easy Mode</h4>
+  <p>And yet, for all of Facebook’s initial challenges, the truth is that the company was, relatively speaking, playing on easy mode. Yes, the company practically invented the modern growth hacking discipline and feed advertising, but its core product was about digitizing offline relationships that already existed, and the means by which it did that — text and photos, at least at the beginning — were native to the Internet. To the extent it was difficult to figure out how to monetize advertising it was because advertising was so easy that there was effectively infinite inventory.</p>
+  <p>You can make a similar argument about Google: yes, Larry Page and Sergey Brin created something truly superior with PageRank and the Google search engine, but once deployed Google instantly had access to an entire universe of web pages seemingly tailor-made to to make Google better at giving you the results you need. If anything the ease with which Google came to dominate the web has hindered the company in adjacent markets where skills like marketing and sales make a difference.</p>
+  <p>Twitter and Snapchat, in contrast to Facebook, had to create networks in Facebook’s shadow; Twitter focused on the interest graph, while Snapchat defined itself by being the anti-Facebook for a new generation. This was a more difficult path, but one still defined by zero marginal costs in terms of distribution and monetization. Google’s vertical search competitors faced a similar challenge: build something unique and differentiated in Google’s shadow, acquiring not just demand but also supply along the way. Still, like Facebook’s challengers, all of these companies are safely cocooned in the virtual world.</p>
+  <p>Amazon, in contrast, has played on a much higher difficulty setting from the beginning, selling and shipping physical items, with all of the marginal costs that entails. If anything the company has doubled down on the physical world, investing billions to deliver items <a href="https://stratechery.com/2019/day-two-to-one-day/">in one day</a>; I don’t think it is a coincidence it is Amazon that is <a href="https://stratechery.com/2020/the-anti-amazon-alliance/">Google’s true competitor</a>.</p>
+  <h4 id="otas-and-pizza">OTAs and Pizza</h4>
+  <p>Perhaps the easiest mode of all, though, was in layering the Internet on top of real world business models. Consider OTAs — “Online Travel Agents” — the name gives it away! Instead of calling up a travel agent and being inherently limited to their knowledge and connections (and paying their commission), customers could access search engines that aggregated every flight and every hotel, displaying them in a way that was easy to compare and contrast. From a customer perspective it was a better experience in nearly every way: both more comprehensive and cheaper as well.</p>
+  <p>Of course, like most suppliers in an Aggregator-based value chain, hotels weren’t too pleased, but given that demand was increasingly concentrated on the likes of Booking.com they had no choice but to come onto the platform on the OTAs terms. Their response was, rationally, <a href="https://stratechery.com/2015/marriott-acquires-starwood-online-travel-agents-and-aggregation-surviving-as-an-incumbent/">to consolidate</a> and focus on loyalty programs and repeat customers. The OTAs, meanwhile, could simply take a skim off of all of the bookings they made, without needing to build their own hotels on one hand, or worry about infinite inventory depressing prices on the other.</p>
+  <p>There was a similar dynamic in an industry like pizza delivery: a company like Dominos existed for decades relying on phone calls for delivery; with the advent of the smartphone, though, the company quickly pivoted to mobile ordering, augmenting that capability with innovative apps and tracking services that let you make the exact pizza you wanted whenever you wanted and trace its route to your front door. <a href="https://producthabits.com/dominos-pizza-drove-90x-increase-stock-value-acting-like-tech-startup/">The company’s success has been extraordinary</a>, much like the OTAs, and for similar reasons: the Internet made an existing real world business model better, even as the real world constraints ensured the money-making opportunity existed.</p>
+  <h4 id="airbnb-and-trust">Airbnb and Trust</h4>
+  <p>There will be time over the next few days and weeks to get into the particulars of Airbnb and DoorDash’s businesses, but I thought this observation from FinTwit regular <a href="https://twitter.com/modestproposal1">@modestproposal1</a> was notable:</p>
+  <div align="center">
+    <blockquote class="twitter-tweet" data-dnt="true">
+      <p lang="en" dir="ltr">gah, ok trying again. if you're gonna troll, at least have your numbers right!</p>
+      <p>Clearly, BKNG margins were in a different strata at the same scale as ABNB is today. <a href="https://t.co/9441X2f502">pic.twitter.com/9441X2f502</a></p>
+      <p>— modest proposal (@modestproposal1) <a href="https://twitter.com/modestproposal1/status/1328496480668278785?ref_src=twsrc%5Etfw">November 17, 2020</a></p>
+    </blockquote>
+    <p>      <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+&lt;/div&gt;      <p>This is, in a vacuum, a valid point; frankly, the biggest takeaway from my perspective is that Booking was drastically undervalued circa 2011 — the stock market certainly agrees:</p>
+      <p><img src="https://stratechery.com/wp-content/uploads/2020/11/hardmode-1-1024x835.png" alt="Booking.com&#039;s stock price over time" width="640" height="522" class="aligncenter size-large wp-image-5407" srcset="https://stratechery.com/wp-content/uploads/2020/11/hardmode-1-1024x835.png 1024w, https://stratechery.com/wp-content/uploads/2020/11/hardmode-1-300x245.png 300w, https://stratechery.com/wp-content/uploads/2020/11/hardmode-1-768x626.png 768w, https://stratechery.com/wp-content/uploads/2020/11/hardmode-1-772x630.png 772w, https://stratechery.com/wp-content/uploads/2020/11/hardmode-1.png 1280w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+      <p>The truth is that, as I just explained, the company was playing in easy mode: OTAs were an obvious business, with real world constraints that brought digital’s advantages to bear without its commoditizing downsides. At the same time, notice how BKNG’s share price has leveled out: over the last few years in particular, Google, the Super-Aggregator, has been <a href="https://stratechery.com/2019/the-google-squeeze/">extracting an ever greater share of OTA margins</a>. Indeed, that’s the downside to having a business built on easy mode: anyone else can play the game just as easily.</p>
+      <p>Airbnb, on the other hand, has been building something truly unique; the company explains in its <a href="https://www.sec.gov/Archives/edgar/data/1559720/000119312520294801/d81668ds1.htm">S-1</a>:</p>
+      <blockquote>
+        <p>Travel is one of the world’s largest industries, and its approach has become commoditized. The travel industry has scaled by offering standardized accommodations in crowded hotel districts and frequently-visited landmarks and attractions. This one-size-fits-all approach has limited how much of the world a person can access, and as a result, guests are often left feeling like outsiders in the places they visit.</p>
+        <p>Airbnb has enabled home sharing at a global scale and created a new category of travel. Instead of traveling like tourists and feeling like outsiders, guests on Airbnb can stay in neighborhoods where people live, have authentic experiences, live like locals, and spend time with locals in approximately 100,000 cities around the world. In our early days, we described this new type of travel with the tagline “Travel like a human.” Today, people simply refer to it with a single word: “Airbnb.”</p>
+      </blockquote>
+      <p>Unsurprisingly Airbnb frames the commoditization of hotels as a negative, but it was precisely this commoditization that unlocked the OTAs, even as the OTAs accelerated said commoditization in a way that benefited customers with low prices and wide selections. And, as noted, left the OTAs susceptible to Google. Airbnb’s relationship with Google, though, is different:</p>
+      <blockquote>
+        <p>We focus on unpaid channels such as SEO. SEO involves developing our platform in a way that enables a search engine to rank our platform prominently for search queries for which our platform’s content may be relevant.</p>
+      </blockquote>
+      <p>The company explained in its <em>Key Factors Affecting Our Performance</em>:</p>
+      <blockquote>
+        <p>We grow GBV by attracting new guests to book stays and experiences on our platform and through past guests who return to our platform to make new bookings. We attract most guests to Airbnb directly or through unpaid channels. During the nine months ended September 30, 2020, approximately 91% of all traffic to Airbnb came organically through direct or unpaid channels, reflecting the strength of our brand. We have also used paid performance marketing, for example on search terms including “Airbnb,” to attract guests. Our strategy is to increase brand marketing and use the strength of our brand to attract more guests via direct or unpaid channels and to decrease our performance marketing spend relative to 2019.</p>
+      </blockquote>
+      <p>Airbnb did not, as far as I could see, specify the exact split between brand and performance marketing, but it makes intuitive sense that the company would be less dependent on Google search ads than other OTAs: its supply is unique, and its brand is a verb.</p>
+      <p>This is, to be sure, a far more difficult path to building a business than the OTAs on one hand, which simply layered digital onto real world business models, and search engines and social networks on the other, which created new business models with supply that was inherently digital. Airbnb created an entirely new sort of supply that previously didn’t exist. As the company notes in its S-1 introduction, the key was trust:</p>
+      <blockquote>
+        <p>In 2008, Nate, a software engineer, joined Brian and Joe, and together the three founders took on a bigger design problem: how do you make strangers feel comfortable enough to stay in each other’s homes? The key was trust. The solution they designed combined host and guest profiles, integrated messaging, two-way reviews, and secure payments built on a technology platform that unlocked trust, and eventually led to hosting at a global scale that was unimaginable at the time.</p>
+      </blockquote>
+      <p>I wrote about Airbnb and trust back in 2015 in <a href="https://stratechery.com/2015/airbnb-and-the-internet-revolution/">Airbnb and the Internet Revolution</a>:</p>
+      <blockquote>
+        <p>In the interest of full disclosure, I’m actually writing this post while sitting in an apartment rented through Airbnb. The pictures were ok, but the plethora of reviews were effusive in their praise of this surprisingly large one-bedroom apartment with easy access to the train, so I took the plunge. Indeed, the reviews were spot-on: the apartment is beautiful, and I couldn’t be happier with my choice. One more thing — my family and I are working really hard to keep the place as pristine as it was when we moved in. After all, while I trusted the ratings over the pictures, future Airbnb sublessors will surely care greatly about my rating as well.</p>
+        <p>There isn’t the sort of community that Chesky promised; I haven’t met our sublessor in person, and likely never will. I don’t know his favorite coffee shops or taco places (or ramen joints for that matter), and I very much feel not at home. But despite that fact, some of the most important trappings of community do exist: the shared mores, and common accountability. My sublessor is incentivized to provide a great place, and I’m incentivized to keep it that way, and that more than anything is what makes Airbnb work. And, by extension, one of the big advantages of hotels — the trust instilled first by the concept and reinforced by the brand — begins to erode.</p>
+        <p>The commoditization of trust is far more injurious to hotels than you might think: it’s not simply that Airbnb is more competitive on one particular vector; rather, the “trust” vector was by far the biggest priority for both travelers and hosts. Hotels could be infinitely more inconvenient, expensive, or sterile relative to your typical homestay and it wouldn’t matter. In the pre-Airbnb days travelers — and sublessors — justifiably prioritized trust above all else. In other words, the implication of Airbnb building a platform of trust is not that a homestay is now more trustworthy than a hotel; rather, it’s that the trust advantage of a hotel has been neutralized, allowing homestays to compete on new vectors, including convenience, cost, and environmental factors. It turns out homestays are quite competitive indeed: to return to my personal anecdote, I am living in a beautiful, remodeled one bedroom apartment in one of the best neighborhoods in this city, and paying a fraction of the cost of a mid-tier hotel for the privilege.</p>
+      </blockquote>
+      <p>This is what it takes to succeed in hard mode: Airbnb took a core differentiator of hotels — trust, a differentiator that OTAs depended on — and digitized it. But, critically, that digitization and resultant commoditization happened only on Airbnb, and was thus captured exclusively by the company. This, by extension, is what the comparison to OTAs miss: Airbnb is not riding the same wave that Booking et al did a decade ago, but are instead undertaking something far more ambitious: creating their own wave where none previously existed.</p>
+      <h4 id="doordash-and-selection">DoorDash and Selection</h4>
+      <p>DoorDash has been playing on hard mode as well: while a company like Dominos created its own standardization and commoditized product designed for delivery, now with tech on top, DoorDash has undertaken the more Herculean task of creating a three-sided market of restaurants, drivers, and customers. This is the ultimate example of seeking to “make it up in volume”; the company explains in its <a href="https://www.sec.gov/Archives/edgar/data/1792789/000119312520292381/d752207ds1.htm">S-1</a>:</p>
+      <blockquote>
+        <p>Our local logistics platform benefits from three powerful virtuous cycles:</p>
+        <ul>
+          <li>Local Network Effects: Our ability to attract more merchants, including local favorites and national brands, creates more selection in our Marketplace, driving more consumer engagement, and in turn, more sales for merchants on our platform. Our strong national merchant footprint enables us to launch new markets and quickly establish a critical mass of merchants and Dashers, driving strong consumer adoption.&lt;/p&gt;</li>
+          <li>
+            <p>Economies of Scale: As more consumers join our local logistics platform and their engagement increases, our entire platform benefits from higher order volume, which means more revenue for local businesses and more opportunities for Dashers to work and increase their earnings. This, in turn, attracts Dashers to our local logistics platform, which allows for faster and more efficient fulfillment of orders for consumers.</p>
+          </li>
+          <li>
+            <p>Increasing Brand Affinity: Both our local network effects and economies of scale lead to more merchants, consumers, and Dashers that utilize our local logistics platform. As we scale, we continue to invest in improving our offerings for merchants, selection, experience, and value for consumers, and earnings opportunities for Dashers. By improving the benefits of our local logistics platform for each of our three constituencies, our network continues to grow and we benefit from increased brand awareness and positive brand affinity. With increased brand affinity, we expect that we will enjoy lower acquisition costs for all three constituencies in the long term.</p>
+          </li>
+        </ul>
+        <p><img src="https://stratechery.com/wp-content/uploads/2020/11/hardmode-2-1024x607.png" alt="DoorDash&#039;s flywheel" width="640" height="379" class="aligncenter size-large wp-image-5410" srcset="https://stratechery.com/wp-content/uploads/2020/11/hardmode-2-1024x607.png 1024w, https://stratechery.com/wp-content/uploads/2020/11/hardmode-2-300x178.png 300w, https://stratechery.com/wp-content/uploads/2020/11/hardmode-2-768x455.png 768w, https://stratechery.com/wp-content/uploads/2020/11/hardmode-2-1062x630.png 1062w, https://stratechery.com/wp-content/uploads/2020/11/hardmode-2.png 1280w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+        <p>We have been successful in becoming the category leader in U.S. local food delivery logistics because of the value we create for merchants, consumers, and Dashers. DoorDash only works if it works for merchants, consumers, and Dashers, and we continually strive to improve how we serve all constituents.</p>
+      </blockquote>
+      <p>DoorDash’s success relative to its competitors, particularly UberEats, is noteworthy:</p>
+      <blockquote>
+        <p>We believe that the value we deliver to merchants, consumers, and Dashers is a key reason why we have become the largest and fastest growing business in the U.S. local food delivery logistics category, with 50% U.S. category share and 58% category share in suburban markets.</p>
+        <p><img src="https://stratechery.com/wp-content/uploads/2020/11/hardmode-3-1024x614.png" alt="DoorDash versus the competition" width="640" height="384" class="aligncenter size-large wp-image-5409" srcset="https://stratechery.com/wp-content/uploads/2020/11/hardmode-3-1024x614.png 1024w, https://stratechery.com/wp-content/uploads/2020/11/hardmode-3-300x180.png 300w, https://stratechery.com/wp-content/uploads/2020/11/hardmode-3-768x461.png 768w, https://stratechery.com/wp-content/uploads/2020/11/hardmode-3-1050x630.png 1050w, https://stratechery.com/wp-content/uploads/2020/11/hardmode-3.png 1280w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+      </blockquote>
+      <p>What made DoorDash different from UberEats is that the former focused on maximum merchant selection and suburban markets, while the latter initially prioritized efficient delivery in urban areas. The problem for UberEats, though, is that it was not competing with only DoorDash, but also local delivery networks, and the shop with carryout right down the street. DoorDash, meanwhile, was creating an entirely new market in places filled with little else other than the aforementioned Dominos, which would always be far more efficient, with far less choice.</p>
+      <p>To put it another way, whereas Airbnb digitized trust, DoorDash digitized the urban experience of a wide selection of options and relative convenience for a suburban population that had the added benefit of large order sizes and convenient parking. And now, given the fact that both restaurants and drivers can multi-home, DoorDash can increasingly rely on its dominant share of customers to drive the other two sides of its market.</p>
+      <hr />
+      <p>This isn’t all there is to say about these two companies: both deserve deeper dives into their financials on one hand, and a consideration of their broader societal impact on the other.</p>
+      <p>What both companies represent, though, is what it means to play on hard mode. Neither lodging nor logistics are inherently digital; both companies had to make it so, creating new markets that didn’t previously exist. That both Airbnb and DoorDash have done so to a sufficient degree to go public is not only impressive, but will increasingly be a roadmap for new startups, and a model for how the Internet will transform more and more components of the “real” world.</p>
+ &lt;/div&gt;</p>
+  </div>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2020-11-30</time>
+        <a href="https://nodebe4.github.io/opinion/2020-11-30/Five-Lessons-From-Dave-Chappelle/">
+          Five Lessons From Dave Chappelle
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-11-23</time>
+        <a href="https://nodebe4.github.io/opinion/2020-11-23/The-Idea-Adoption-Curve/">
+          The Idea Adoption Curve
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-11-11</time>
+        <a href="https://nodebe4.github.io/opinion/2020-11-11/Apple-s-Shifting-Differentiation/">
+          Apple’s Shifting Differentiation
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-11-03</time>
+        <a href="https://nodebe4.github.io/opinion/2020-11-03/Is-the-Internet-Different/">
+          Is the Internet Different?
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2020-11-17/%E4%B8%AD%E5%85%B1%E7%B5%B1%E6%88%B0%E5%B7%A5%E4%BD%9C%E6%89%8B%E5%88%B0%E6%8B%BF%E4%BE%86(%E4%B8%8A)/">
+            前一篇：中共統戰工作手到拿來(上)
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2020-11-17/%E5%8E%BB%E5%B9%B4%E5%BA%95%E4%B8%80%E6%AC%A1%E5%8E%BB%E6%91%87%E6%BB%9A%E7%8E%B0%E5%9C%BA%E5%89%8D-%E6%95%B4%E7%90%86%E4%BA%86%E4%B8%80%E4%B8%AA%E7%A4%BE%E4%BC%9A%E5%AD%A6%E8%A7%86%E8%A7%92%E4%B8%8B%E6%91%87%E6%BB%9A%E4%B9%90%E7%9B%B8%E5%85%B3%E7%9A%84-%E8%AF%BE%E7%A8%8B%E5%92%8C%E6%96%87%E7%8C%AE%E6%9D%90%E6%96%99-%E5%85%B6%E4%B8%AD%E7%AC%AC%E4%B8%80%E6%9D%A1%E5%B0%B1%E6%98%AF%E5%8F%B0%E6%B9%BE%E4%B8%9C%E6%B5%B7%E5%A4%A7/">
+            後一篇：去年底一次去摇滚现场前，整理了一个社会学视角下摇滚乐相关的 课程和文献材料，其中第一条就是台湾东海大学社会学系杨友仁教授的摇滚社会学课程，也关注了他的 
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2020-11-17/%E4%B8%AD%E5%85%B1%E7%B5%B1%E6%88%B0%E5%B7%A5%E4%BD%9C%E6%89%8B%E5%88%B0%E6%8B%BF%E4%BE%86(%E4%B8%8A)/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2020-11-17/%E5%8E%BB%E5%B9%B4%E5%BA%95%E4%B8%80%E6%AC%A1%E5%8E%BB%E6%91%87%E6%BB%9A%E7%8E%B0%E5%9C%BA%E5%89%8D-%E6%95%B4%E7%90%86%E4%BA%86%E4%B8%80%E4%B8%AA%E7%A4%BE%E4%BC%9A%E5%AD%A6%E8%A7%86%E8%A7%92%E4%B8%8B%E6%91%87%E6%BB%9A%E4%B9%90%E7%9B%B8%E5%85%B3%E7%9A%84-%E8%AF%BE%E7%A8%8B%E5%92%8C%E6%96%87%E7%8C%AE%E6%9D%90%E6%96%99-%E5%85%B6%E4%B8%AD%E7%AC%AC%E4%B8%80%E6%9D%A1%E5%B0%B1%E6%98%AF%E5%8F%B0%E6%B9%BE%E4%B8%9C%E6%B5%B7%E5%A4%A7/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2020-11-23/The-Idea-Adoption-Curve/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2020-11-11/Apple-s-Shifting-Differentiation/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2020-11-17/%E4%B8%AD%E5%85%B1%E7%B5%B1%E6%88%B0%E5%B7%A5%E4%BD%9C%E6%89%8B%E5%88%B0%E6%8B%BF%E4%BE%86(%E4%B8%8A)/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2020-11-17/%E5%8E%BB%E5%B9%B4%E5%BA%95%E4%B8%80%E6%AC%A1%E5%8E%BB%E6%91%87%E6%BB%9A%E7%8E%B0%E5%9C%BA%E5%89%8D-%E6%95%B4%E7%90%86%E4%BA%86%E4%B8%80%E4%B8%AA%E7%A4%BE%E4%BC%9A%E5%AD%A6%E8%A7%86%E8%A7%92%E4%B8%8B%E6%91%87%E6%BB%9A%E4%B9%90%E7%9B%B8%E5%85%B3%E7%9A%84-%E8%AF%BE%E7%A8%8B%E5%92%8C%E6%96%87%E7%8C%AE%E6%9D%90%E6%96%99-%E5%85%B6%E4%B8%AD%E7%AC%AC%E4%B8%80%E6%9D%A1%E5%B0%B1%E6%98%AF%E5%8F%B0%E6%B9%BE%E4%B8%9C%E6%B5%B7%E5%A4%A7/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2020-11-23/The-Idea-Adoption-Curve/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2020-11-11/Apple-s-Shifting-Differentiation/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

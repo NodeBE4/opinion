@@ -1,0 +1,2330 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>theoryofdoom在2022-10-03~2022-10-09的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="theoryofdoom在2022-10-03~2022-10-09的言论" />
+    <meta property="twitter:title" content="theoryofdoom在2022-10-03~2022-10-09的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FN_N_N%2Fcomments%2Fxu2ao0%2Fazerbaijanis_executing_armenian_pows_nsfl%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/N_N_N/comments/xu2ao0/azerbaijanis_executing_armenian_pows_nsfl/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/N_N_N/comments/xu2ao0/azerbaijanis_executing_armenian_pows_nsfl/&text=theoryofdoom在2022-10-03~2022-10-09的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/N_N_N/comments/xu2ao0/azerbaijanis_executing_armenian_pows_nsfl/&title=theoryofdoom在2022-10-03~2022-10-09的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/N_N_N/comments/xu2ao0/azerbaijanis_executing_armenian_pows_nsfl/&title=theoryofdoom在2022-10-03~2022-10-09的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=theoryofdoom在2022-10-03~2022-10-09的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/N_N_N/comments/xu2ao0/azerbaijanis_executing_armenian_pows_nsfl/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/N_N_N/comments/xu2ao0/azerbaijanis_executing_armenian_pows_nsfl/&title=theoryofdoom在2022-10-03~2022-10-09的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=theoryofdoom在2022-10-03~2022-10-09的言论&url=https://old.reddit.com/r/N_N_N/comments/xu2ao0/azerbaijanis_executing_armenian_pows_nsfl/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>theoryofdoom在2022-10-03~2022-10-09的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-10-09
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: theoryofdoom</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/N_N_N/comments/xu2ao0/azerbaijanis_executing_armenian_pows_nsfl/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#399-azerbaijanis-executing-armenian-pows-nsfl--submitted-on-2022-10-03-0648400800" id="markdown-toc-399-azerbaijanis-executing-armenian-pows-nsfl--submitted-on-2022-10-03-0648400800">399: Azerbaijanis executing Armenian POWs. NSFL 🔞, submitted on 2022-10-03 06:48:40+08:00.</a></li>
+  <li><a href="#400-the-flying-tree-potluck-dinner-submitted-on-2022-10-04-0016520800" id="markdown-toc-400-the-flying-tree-potluck-dinner-submitted-on-2022-10-04-0016520800">400: The Flying Tree potluck dinner, submitted on 2022-10-04 00:16:52+08:00.</a></li>
+  <li><a href="#401-someone-at-my-table-stated-that-all-people-with-food-allergies-ahould-just-de-submitted-on-2022-10-04-0445100800" id="markdown-toc-401-someone-at-my-table-stated-that-all-people-with-food-allergies-ahould-just-de-submitted-on-2022-10-04-0445100800">401: Someone at my table stated that all people with food allergies ahould just d*e, submitted on 2022-10-04 04:45:10+08:00.</a></li>
+  <li><a href="#402-how-china-and-its-allies-pool-resources-to-target-overseas-dissidents-the-shanghai-cooperation-organization-sco-and-interpol-are-commonly-used-to-pursue-political-opponents-overseas-submitted-on-2022-10-05-1143540800" id="markdown-toc-402-how-china-and-its-allies-pool-resources-to-target-overseas-dissidents-the-shanghai-cooperation-organization-sco-and-interpol-are-commonly-used-to-pursue-political-opponents-overseas-submitted-on-2022-10-05-1143540800">402: How China and its allies pool resources to target overseas dissidents: The Shanghai Cooperation Organization (SCO) and Interpol are commonly used to pursue political opponents overseas., submitted on 2022-10-05 11:43:54+08:00.</a></li>
+  <li><a href="#403-my-neighbour-went-completely-insane-submitted-on-2022-10-06-0051260800" id="markdown-toc-403-my-neighbour-went-completely-insane-submitted-on-2022-10-06-0051260800">403: My neighbour went completely insane, submitted on 2022-10-06 00:51:26+08:00.</a></li>
+  <li><a href="#404-whats-yalls-most-niche-interestshobbieswhatever-submitted-on-2022-10-06-0236260800" id="markdown-toc-404-whats-yalls-most-niche-interestshobbieswhatever-submitted-on-2022-10-06-0236260800">404: What’s y’all’s most niche interests/hobbies/whatever?, submitted on 2022-10-06 02:36:26+08:00.</a></li>
+  <li><a href="#405-david-hogg-we-must-make-an-example-out-of-putin-in-ukraine-to-stop-him-from-rebuilding-the-ussr-submitted-on-2022-10-06-0319310800" id="markdown-toc-405-david-hogg-we-must-make-an-example-out-of-putin-in-ukraine-to-stop-him-from-rebuilding-the-ussr-submitted-on-2022-10-06-0319310800">405: David Hogg: We must make an example out of Putin in Ukraine to stop him from rebuilding the USSR, submitted on 2022-10-06 03:19:31+08:00.</a></li>
+  <li><a href="#406-how-do-we-solve-gun-violence-in-the-us-submitted-on-2022-10-07-0123400800" id="markdown-toc-406-how-do-we-solve-gun-violence-in-the-us-submitted-on-2022-10-07-0123400800">406: How do we solve gun violence in the US?, submitted on 2022-10-07 01:23:40+08:00.</a></li>
+  <li><a href="#407-chechen-warlord-ramzan-kadyrov-promoted-to-general-by-putin-submitted-on-2022-10-07-0753550800" id="markdown-toc-407-chechen-warlord-ramzan-kadyrov-promoted-to-general-by-putin-submitted-on-2022-10-07-0753550800">407: Chechen warlord Ramzan Kadyrov ‘promoted’ to general by Putin, submitted on 2022-10-07 07:53:55+08:00.</a></li>
+  <li><a href="#408-deleted-by-user-submitted-on-2022-10-07-0950550800" id="markdown-toc-408-deleted-by-user-submitted-on-2022-10-07-0950550800">408: [deleted by user], submitted on 2022-10-07 09:50:55+08:00.</a></li>
+  <li><a href="#409-imma-8-week-old-woki-pweeze-no-eats-me-friend-submitted-on-2022-10-07-1027490800" id="markdown-toc-409-imma-8-week-old-woki-pweeze-no-eats-me-friend-submitted-on-2022-10-07-1027490800">409: I’mma 8 week old woki! pweeze no eats! me friend!, submitted on 2022-10-07 10:27:49+08:00.</a></li>
+  <li><a href="#410-the-cia-thought-putin-would-quickly-conquer-ukraine-why-did-they-get-it-so-wrong-submitted-on-2022-10-07-1045400800" id="markdown-toc-410-the-cia-thought-putin-would-quickly-conquer-ukraine-why-did-they-get-it-so-wrong-submitted-on-2022-10-07-1045400800">410: The CIA Thought Putin Would Quickly Conquer Ukraine. Why Did They Get It So Wrong?, submitted on 2022-10-07 10:45:40+08:00.</a></li>
+  <li><a href="#411-rworldnews-removing-all-posts-about-an-ex-cop-who-murdered-24-children-at-a-preschool-in-thailand-submitted-on-2022-10-07-1318170800" id="markdown-toc-411-rworldnews-removing-all-posts-about-an-ex-cop-who-murdered-24-children-at-a-preschool-in-thailand-submitted-on-2022-10-07-1318170800">411: r/worldnews removing all posts about an ex-cop who murdered 24 children at a preschool in Thailand, submitted on 2022-10-07 13:18:17+08:00.</a></li>
+  <li><a href="#412-fbi-and-cisa-publish-a-psa-on-information-manipulation-tactics-for-2022-midterm-elections-submitted-on-2022-10-09-0330190800" id="markdown-toc-412-fbi-and-cisa-publish-a-psa-on-information-manipulation-tactics-for-2022-midterm-elections-submitted-on-2022-10-09-0330190800">412: FBI and CISA Publish a PSA on Information Manipulation Tactics for 2022 Midterm Elections, submitted on 2022-10-09 03:30:19+08:00.</a></li>
+</ul>
+
+<h3 id="399-azerbaijanis-executing-armenian-pows-nsfl--submitted-on-2022-10-03-0648400800">399: <a href="https://old.reddit.com/r/N_N_N/comments/xu2ao0/azerbaijanis_executing_armenian_pows_nsfl/">Azerbaijanis executing Armenian POWs. NSFL 🔞</a>, submitted on 2022-10-03 06:48:40+08:00.</h3>
+
+<p>—– <strong>399.1</strong> —–2022-10-03 11:24:45+08:00:</p>
+
+<p>No. Azerbaijanis act like Chechen terrorists.</p>
+
+<p>—– <strong>399.2</strong> —–2022-10-06 02:35:05+08:00:</p>
+
+<p>Would be even better if Armenians were in a position to defend themselves from Azerbaijani war crimes, crimes against humanity and aggression in general.</p>
+
+<p>—– <strong>399.3</strong> —–2022-10-06 08:47:57+08:00:</p>
+
+<p>This is all a tragedy and it is unconscionable.   Russia is in a very difficult situation with Armenia because if they start pouring munitions into that country, the United States State Department will do the same with Azerbaijan.  For this reason, Moscow correctly understands that they would only be pouring gas on the fire.</p>
+
+<p>The only way this stops is when Azerbaijan and Turkey pay an unacceptably high price for their past war crimes and crimes against humanity.  I am out of step with the State Department on this and I have no reservations whatsoever about saying it.</p>
+
+<p>What Azerbaijan and Turkey are doing is egregious.  It is intolerable in any civilized world.  And it must be stopped.</p>
+
+<h3 id="400-the-flying-tree-potluck-dinner-submitted-on-2022-10-04-0016520800">400: <a href="https://old.reddit.com/r/TheFlyingTree/comments/xunumi/the_flying_tree_potluck_dinner/">The Flying Tree potluck dinner</a>, submitted on 2022-10-04 00:16:52+08:00.</h3>
+
+<p>—– <strong>400.1</strong> —–2022-10-04 14:37:03+08:00:</p>
+
+<p>I typically bring the following to these things:</p>
+
+<ul>
+  <li>Grilled meats, including but not limited to lamb, beef and chicken;</li>
+  <li>Sauces/spreads, including but not limited to hummus, garlic sauce and maybe homemade tahini;</li>
+  <li>Tabouli, or some other salad; and/or</li>
+  <li>Grilled vegetables, including but not limited to tomatoes, onions and varieties of peppers.</li>
+</ul>
+
+<p>I also tend to bring condiments (e.g., sumac, lemons and good olive oil).</p>
+
+<p>But I do not bake bread.  Need a good Arabic or Persian baker to coordinate that.</p>
+
+<h3 id="401-someone-at-my-table-stated-that-all-people-with-food-allergies-ahould-just-de-submitted-on-2022-10-04-0445100800">401: <a href="https://old.reddit.com/r/TheFlyingTree/comments/xuuxe1/someone_at_my_table_stated_that_all_people_with/">Someone at my table stated that all people with food allergies ahould just d*e</a>, submitted on 2022-10-04 04:45:10+08:00.</h3>
+
+<p>—– <strong>401.1</strong> —–2022-10-04 14:53:27+08:00:</p>
+
+<p>I am not a chef.  But when I cook for my friends, family and the like, I accommodate their restrictions.</p>
+
+<p>Some are easy, like Halal restrictions.  Others are not so easy, like peanut allergies or cooking for vegans.</p>
+
+<p>I have to say, though.  I <em>can</em> cook excellent vegan food, I just don’t <em>enjoy</em> doing it.  For example, I can make stuffed eggplant with spinach, tomato and garlic that people tend to rave over.  I do not like eggplant, but those who do tell me it’s good.</p>
+
+<p>However.  No matter how flavorful I can make it, I will never enjoy cooking tofu and I refuse to cook meat replacements.  If you want meat, I will cook meat.  If you do not want meat, then don’t pretend to eat meat.</p>
+
+<h3 id="402-how-china-and-its-allies-pool-resources-to-target-overseas-dissidents-the-shanghai-cooperation-organization-sco-and-interpol-are-commonly-used-to-pursue-political-opponents-overseas-submitted-on-2022-10-05-1143540800">402: <a href="https://old.reddit.com/r/politicalwarfare/comments/xvzoqz/how_china_and_its_allies_pool_resources_to_target/">How China and its allies pool resources to target overseas dissidents: The Shanghai Cooperation Organization (SCO) and Interpol are commonly used to pursue political opponents overseas.</a>, submitted on 2022-10-05 11:43:54+08:00.</h3>
+
+<p>—– <strong>402.1</strong> —–2022-10-06 02:13:49+08:00:</p>
+
+<p>I think I posted about this in r/crime a while back.  The DOJ was all over this under the prior administration.</p>
+
+<p>—– <strong>402.2</strong> —–2022-10-06 02:19:57+08:00:</p>
+
+<p>The current administration appears to have pivoted resources away from things like counterintelligence and eliminating illegal Chinese ops on American (as well as Canadian) soil to other “priorities.”</p>
+
+<p>Lamentable.</p>
+
+<h3 id="403-my-neighbour-went-completely-insane-submitted-on-2022-10-06-0051260800">403: <a href="https://old.reddit.com/r/TheFlyingTree/comments/xwfsw4/my_neighbour_went_completely_insane/">My neighbour went completely insane</a>, submitted on 2022-10-06 00:51:26+08:00.</h3>
+
+<p>—– <strong>403.1</strong> —–2022-10-06 09:03:44+08:00:</p>
+
+<p>That’s wild.  I wonder if she has some kind of mental illness.</p>
+
+<p>—– <strong>403.2</strong> —–2022-10-07 00:09:57+08:00:</p>
+
+<p>Wow.  Talk about stereotypes.</p>
+
+<h3 id="404-whats-yalls-most-niche-interestshobbieswhatever-submitted-on-2022-10-06-0236260800">404: <a href="https://old.reddit.com/r/TheFlyingTree/comments/xwij2b/whats_yalls_most_niche_interestshobbieswhatever/">What’s y’all’s most niche interests/hobbies/whatever?</a>, submitted on 2022-10-06 02:36:26+08:00.</h3>
+
+<p>—– <strong>404.1</strong> —–2022-10-06 09:06:09+08:00:</p>
+
+<p>I trade derivatives.  Specifically, futures.  I basically play with fire as a hobby.</p>
+
+<h3 id="405-david-hogg-we-must-make-an-example-out-of-putin-in-ukraine-to-stop-him-from-rebuilding-the-ussr-submitted-on-2022-10-06-0319310800">405: <a href="https://old.reddit.com/r/stupidpol/comments/xwjmi1/david_hogg_we_must_make_an_example_out_of_putin/">David Hogg: We must make an example out of Putin in Ukraine to stop him from rebuilding the USSR</a>, submitted on 2022-10-06 03:19:31+08:00.</h3>
+
+<p>—– <strong>405.1</strong> —–2022-10-06 09:36:59+08:00:</p>
+
+<p>Let’s draft David Hogg to go fight the war he clearly wants.</p>
+
+<p>I do not understand the American fascination with stupid kids, such as Hogg, who say stupid things, such as <a href="https://twitter.com/davidhogg111/status/1577628899785117696?s=19">this</a>.</p>
+
+<h3 id="406-how-do-we-solve-gun-violence-in-the-us-submitted-on-2022-10-07-0123400800">406: <a href="https://old.reddit.com/r/TheFlyingTree/comments/xxavkl/how_do_we_solve_gun_violence_in_the_us/">How do we solve gun violence in the US?</a>, submitted on 2022-10-07 01:23:40+08:00.</h3>
+
+<p>—– <strong>406.1</strong> —–2022-10-07 22:01:17+08:00:</p>
+
+<p>I don’t think we’re ever going to solve gun violence in the United States.  I’m not even sure there is a “solution,” because the issues underlying “gun” violence are too politically charged for any solution to be reachable.  We do not speak candidly about “gun” violence in this country, either.  Instead, there’s just a lot of vitriolic sound and fury after each high profile incident of so-called “gun violence.”  One side says ban the guns.  Another side opposes.  The NRA was once a really powerful force in American politics, too.  But not so much anymore.</p>
+
+<p>The ease of passing laws with respect to the instrumentalities of gun violence — i.e., guns — is the beginning and end of why those laws get passed.  Efforts to ban, regulate and limit the sales, distribution or functionality of firearms will never reduce gun violence.  Passing laws to that effect make it seem like politicians are doing something useful.  But the problem is the difference between what they say they <em>intend</em> such laws to do, and what such laws <em>actually</em> accomplish or do not accomplish.</p>
+
+<p>My father and grandfather were both in the United States military.  I was taught how to shoot from a very young age.  Guns do not scare me at all, because I understand them and know how to use them.  Most people do not, however.  Most people, if they saw an AK-47 or AR-style rifle would be terrified of a so-called “assault” rifle.  But anyone who has ever fired an automatic weapon like that knows that semi-automatic rifles are far more dangerous than fully automatic ones.  Fully automatic rifles are good for laying down covering/suppressing fire, and little more.</p>
+
+<p>Magazine/clip capacity limits are also stupid.  Same with barrel length restrictions on certain weapons, like shotguns.  A shotgun barrel below a certain length is almost wholly useless because of how wide the spread of the shot expands over very short distances.  Defeats the purpose of even having a shotgun, when it has no stopping power at even 10 meters.  Same with accessory limitations, like bans on threaded barrels or suppressors.  For example, a “suppressor” does not make a gun silent.  It’s still very loud and can be heard from quite some distance, even if you’re using subsonic ammunition.</p>
+
+<p>Background checks might make sense.  But they’re not very effective.  They fail to prevent a lot of people from getting guns who go on to commit acts of violence and criminality.  And they prevent law abiding citizens from purchasing/owning/transferring firearms often for no good reason at all.  In essentially every way, background checks as we both currently do them and have the capability to do them (including with AI-based checks) are a false sense of security.</p>
+
+<p>The way to deal with gun violence is to deal with the underlying causes of violent crime, in the first instance.  The focus should not be on the instrumentality, but the underlying psychology of why people commit violent crime to begin with.  And it’s not obvious that can be accomplished through policy.</p>
+
+<h3 id="407-chechen-warlord-ramzan-kadyrov-promoted-to-general-by-putin-submitted-on-2022-10-07-0753550800">407: <a href="https://old.reddit.com/r/politicalwarfare/comments/xxk3c8/chechen_warlord_ramzan_kadyrov_promoted_to/">Chechen warlord Ramzan Kadyrov ‘promoted’ to general by Putin</a>, submitted on 2022-10-07 07:53:55+08:00.</h3>
+
+<p>—– <strong>407.1</strong> —–2022-10-07 07:54:28+08:00:</p>
+
+<p>Kadyrov is to Russia what Uday Saddam Hussein was to Iraq.</p>
+
+<h3 id="408-deleted-by-user-submitted-on-2022-10-07-0950550800">408: <a href="https://old.reddit.com/r/N_N_N/comments/xxmhob/deleted_by_user/">[deleted by user]</a>, submitted on 2022-10-07 09:50:55+08:00.</h3>
+
+<p>—– <strong>408.1</strong> —–2022-10-07 09:56:47+08:00:</p>
+
+<p>Compare: https://youtu.be/2GRjgBVw9Pk?t=31</p>
+
+<h3 id="409-imma-8-week-old-woki-pweeze-no-eats-me-friend-submitted-on-2022-10-07-1027490800">409: <a href="https://old.reddit.com/r/TheFlyingTree/comments/xxn8pk/imma_8_week_old_woki_pweeze_no_eats_me_friend/">I’mma 8 week old woki! pweeze no eats! me friend!</a>, submitted on 2022-10-07 10:27:49+08:00.</h3>
+
+<p>—– <strong>409.1</strong> —–2022-10-07 10:50:43+08:00:</p>
+
+<p>Cutet. Pup. Ever.</p>
+
+<p>—– <strong>409.2</strong> —–2022-10-07 21:33:06+08:00:</p>
+
+<p>Every single one of your photos of your puppy has made my day better.  Please continue.  I need more of this in my life.</p>
+
+<p>—– <strong>409.3</strong> —–2022-10-08 00:00:50+08:00:</p>
+
+<p>Super cute!</p>
+
+<h3 id="410-the-cia-thought-putin-would-quickly-conquer-ukraine-why-did-they-get-it-so-wrong-submitted-on-2022-10-07-1045400800">410: <a href="https://old.reddit.com/r/politicalwarfare/comments/xxnlia/the_cia_thought_putin_would_quickly_conquer/">The CIA Thought Putin Would Quickly Conquer Ukraine. Why Did They Get It So Wrong?</a>, submitted on 2022-10-07 10:45:40+08:00.</h3>
+
+<p>—– <strong>410.1</strong> —–2022-10-07 10:49:13+08:00:</p>
+
+<blockquote>
+  <p>“There was no reporting on the corruption in the Russian system,” said the former senior intelligence official. “They missed it, and ignored any evidence of it.”</p>
+</blockquote>
+
+<p>You miss 100% of what you can’t see.  And the United States couldn’t see much of anything, because on an overreliance on sigint at the expense of actual targeting by actual operatives in denied areas.</p>
+
+<p>—– <strong>410.2</strong> —–2022-10-09 23:44:08+08:00:</p>
+
+<p>The basic premise of the article is that the CIA’s analysis of Putin’s odds of success were wildly off, which amounts to an inexplicable intelligence failure.</p>
+
+<p>The problem is that this article is evaluating an assessment of what would have happened in Ukraine upon Putin’s invasion, without American and other external intervention in Ukraine itself.  It turns out that Putin would have conquered Ukraine very quickly, had the United States not provided the material, tactical and intelligence support it has. Here’s a quick example/explanation:</p>
+
+<ul>
+  <li>
+    <p>The Russian army’s points of greatest vulnerability are in the logistics of its operations.  Fuel trucks are one case of that particular category of vulnerabilities.</p>
+  </li>
+  <li>
+    <p>Targeting fuel trucks was a force magnifier, which allowed Ukraine’s “army” to punch well above its weight.  If you stop fuel trucks, then you stop tanks.</p>
+  </li>
+  <li>
+    <p>Russian tanks have about a 45-65 km range, and if they can’t be refueled they are functionally useless, as the images of abandoned, destroyed and empty tanks littered throughout Ukraine readily demonstrate.</p>
+  </li>
+  <li>
+    <p>The idea to target fuel trucks was not Ukraine’s.  They were provided with both the strategy (to target fuel trucks) and the actual targets (the actual inbound fuel trucks) in real time.</p>
+  </li>
+  <li>
+    <p>Had Ukraine not been provided with both the strategy and real time targets, those fuel trucks would have resupplied Russian tanks and they would have kept advancing in and throughout Ukraine.</p>
+  </li>
+</ul>
+
+<p>The analysis the Intercept is referring to, and criticizing, was a scenario in which Ukraine lacked any such support.</p>
+
+<p>But I’d also note that the quality of assessments is not exactly what it could be.  Starting in the 1990s and continuing through the present, the United States’ ground capabilities in denied areas, or formerly denied areas (such as the territory that is now the Russian Federation) is acutely limited.</p>
+
+<p>This is as a result of many decisions to rely on information sources that are not humint to an unreasonably significant degree.  So, instead of having people inside and in proximity to the Kremlin, the United States largely relies on other information sources (e.g., sigint).  This is why the United States struggles to understand what is going on inside Russia and at the highest levels of Russia’s political leadership.</p>
+
+<h3 id="411-rworldnews-removing-all-posts-about-an-ex-cop-who-murdered-24-children-at-a-preschool-in-thailand-submitted-on-2022-10-07-1318170800">411: <a href="https://old.reddit.com/r/RedditCensorship/comments/xxqhe5/rworldnews_removing_all_posts_about_an_excop_who/">r/worldnews removing all posts about an ex-cop who murdered 24 children at a preschool in Thailand</a>, submitted on 2022-10-07 13:18:17+08:00.</h3>
+
+<p>—– <strong>411.1</strong> —–2022-10-08 00:27:52+08:00:</p>
+
+<p>/r/worldnews is moderated by a group who consistently use their position to push their own agenda or the narratives that Reddit desires to promulgate.  That a person has shown a passt propensity to do so is often the deciding factor in whether they are even invited to moderate.</p>
+
+<p>Many of the moderators on /r/worldnews and other such subs also moderate other subs as well, where they do the same thing. In this way, Reddit functions in much the same way as Twitter to create an illusory “consensus reality,” enforced by banning or removing any and all who state anything else.</p>
+
+<p>It’s not so much a “hive mind” as a cultivated information ecosystem.</p>
+
+<p>—– <strong>411.2</strong> —–2022-10-08 14:07:47+08:00:</p>
+
+<p>Thai tourist industry, for example.  I’m not inclined to speculate, though.</p>
+
+<h3 id="412-fbi-and-cisa-publish-a-psa-on-information-manipulation-tactics-for-2022-midterm-elections-submitted-on-2022-10-09-0330190800">412: <a href="https://old.reddit.com/r/ElectionInterference/comments/xz1cr7/fbi_and_cisa_publish_a_psa_on_information/">FBI and CISA Publish a PSA on Information Manipulation Tactics for 2022 Midterm Elections</a>, submitted on 2022-10-09 03:30:19+08:00.</h3>
+
+<p>—– <strong>412.1</strong> —–2022-10-09 12:41:39+08:00:</p>
+
+<p>The underlying Public Service Announcement seems to have been removed:</p>
+
+<p>https://www.cisa.gov/uscert/sites/default/files/publications/PSA-information-activities_508.pdf</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-10-16</time>
+        <a href="https://nodebe4.github.io/opinion/2022-10-16/EnclavedMicrostate/">
+          EnclavedMicrostate在2022-10-10~2022-10-16的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-10-14</time>
+        <a href="https://nodebe4.github.io/opinion/2022-10-14/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-10-10~2022-10-16的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-10-09</time>
+        <a href="https://nodebe4.github.io/opinion/2022-10-09/Spinkcat/">
+          Spinkcat在2022-10-03~2022-10-09的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-10-09</time>
+        <a href="https://nodebe4.github.io/opinion/2022-10-09/EnclavedMicrostate/">
+          EnclavedMicrostate在2022-10-03~2022-10-09的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-10-09/realcaixia/">
+            前一篇：Twitter @蔡霞: 2022-10-03~2022-10-09
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-10-09/wangdan1989/">
+            後一篇：Twitter @王丹: 2022-10-03~2022-10-09
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-10-09/realcaixia/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-10-09/wangdan1989/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-10-14/ForeignAffairsMag/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-10-09/Spinkcat/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-10-09/realcaixia/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-10-09/wangdan1989/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-10-14/ForeignAffairsMag/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-10-09/Spinkcat/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

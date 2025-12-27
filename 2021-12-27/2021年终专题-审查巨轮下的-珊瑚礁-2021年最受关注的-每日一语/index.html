@@ -1,0 +1,974 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>【2021年终专题】审查巨轮下的“珊瑚礁”：2021年最受关注的“每日一语” – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+【2021年终专题】审查巨轮下的“珊瑚礁”：2021年最受关注的“每日一语”
+——
+" />
+    <meta property="og:description" content="
+【2021年终专题】审查巨轮下的“珊瑚礁”：2021年最受关注的“每日一语”
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="【2021年终专题】审查巨轮下的“珊瑚礁”：2021年最受关注的“每日一语”" />
+    <meta property="twitter:title" content="【2021年终专题】审查巨轮下的“珊瑚礁”：2021年最受关注的“每日一语”" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fmatters.news%2F%40ChinaDT%2F2021%25E5%25B9%25B4%25E7%25BB%2588%25E4%25B8%2593%25E9%25A2%2598-%25E5%25AE%25A1%25E6%259F%25A5%25E5%25B7%25A8%25E8%25BD%25AE%25E4%25B8%258B%25E7%259A%2584-%25E7%258F%258A%25E7%2591%259A%25E7%25A4%2581-2021%25E5%25B9%25B4%25E6%259C%2580%25E5%258F%2597%25E5%2585%25B3%25E6%25B3%25A8%25E7%259A%2584-%25E6%25AF%258F%25E6%2597%25A5%25E4%25B8%2580%25E8%25AF%25AD-bafyreigs655efcz647gjz5acqvo5maa5elx7dgi4npbyzd7t7t4eo5sm54" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://matters.news/@ChinaDT/2021%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E5%AE%A1%E6%9F%A5%E5%B7%A8%E8%BD%AE%E4%B8%8B%E7%9A%84-%E7%8F%8A%E7%91%9A%E7%A4%81-2021%E5%B9%B4%E6%9C%80%E5%8F%97%E5%85%B3%E6%B3%A8%E7%9A%84-%E6%AF%8F%E6%97%A5%E4%B8%80%E8%AF%AD-bafyreigs655efcz647gjz5acqvo5maa5elx7dgi4npbyzd7t7t4eo5sm54" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://matters.news/@ChinaDT/2021%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E5%AE%A1%E6%9F%A5%E5%B7%A8%E8%BD%AE%E4%B8%8B%E7%9A%84-%E7%8F%8A%E7%91%9A%E7%A4%81-2021%E5%B9%B4%E6%9C%80%E5%8F%97%E5%85%B3%E6%B3%A8%E7%9A%84-%E6%AF%8F%E6%97%A5%E4%B8%80%E8%AF%AD-bafyreigs655efcz647gjz5acqvo5maa5elx7dgi4npbyzd7t7t4eo5sm54&text=【2021年终专题】审查巨轮下的“珊瑚礁”：2021年最受关注的“每日一语”&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://matters.news/@ChinaDT/2021%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E5%AE%A1%E6%9F%A5%E5%B7%A8%E8%BD%AE%E4%B8%8B%E7%9A%84-%E7%8F%8A%E7%91%9A%E7%A4%81-2021%E5%B9%B4%E6%9C%80%E5%8F%97%E5%85%B3%E6%B3%A8%E7%9A%84-%E6%AF%8F%E6%97%A5%E4%B8%80%E8%AF%AD-bafyreigs655efcz647gjz5acqvo5maa5elx7dgi4npbyzd7t7t4eo5sm54&title=【2021年终专题】审查巨轮下的“珊瑚礁”：2021年最受关注的“每日一语”" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://matters.news/@ChinaDT/2021%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E5%AE%A1%E6%9F%A5%E5%B7%A8%E8%BD%AE%E4%B8%8B%E7%9A%84-%E7%8F%8A%E7%91%9A%E7%A4%81-2021%E5%B9%B4%E6%9C%80%E5%8F%97%E5%85%B3%E6%B3%A8%E7%9A%84-%E6%AF%8F%E6%97%A5%E4%B8%80%E8%AF%AD-bafyreigs655efcz647gjz5acqvo5maa5elx7dgi4npbyzd7t7t4eo5sm54&title=【2021年终专题】审查巨轮下的“珊瑚礁”：2021年最受关注的“每日一语”" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=【2021年终专题】审查巨轮下的“珊瑚礁”：2021年最受关注的“每日一语”&body=
+【2021年终专题】审查巨轮下的“珊瑚礁”：2021年最受关注的“每日一语”
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://matters.news/@ChinaDT/2021%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E5%AE%A1%E6%9F%A5%E5%B7%A8%E8%BD%AE%E4%B8%8B%E7%9A%84-%E7%8F%8A%E7%91%9A%E7%A4%81-2021%E5%B9%B4%E6%9C%80%E5%8F%97%E5%85%B3%E6%B3%A8%E7%9A%84-%E6%AF%8F%E6%97%A5%E4%B8%80%E8%AF%AD-bafyreigs655efcz647gjz5acqvo5maa5elx7dgi4npbyzd7t7t4eo5sm54" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://matters.news/@ChinaDT/2021%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E5%AE%A1%E6%9F%A5%E5%B7%A8%E8%BD%AE%E4%B8%8B%E7%9A%84-%E7%8F%8A%E7%91%9A%E7%A4%81-2021%E5%B9%B4%E6%9C%80%E5%8F%97%E5%85%B3%E6%B3%A8%E7%9A%84-%E6%AF%8F%E6%97%A5%E4%B8%80%E8%AF%AD-bafyreigs655efcz647gjz5acqvo5maa5elx7dgi4npbyzd7t7t4eo5sm54&title=【2021年终专题】审查巨轮下的“珊瑚礁”：2021年最受关注的“每日一语”&caption=
+【2021年终专题】审查巨轮下的“珊瑚礁”：2021年最受关注的“每日一语”
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=【2021年终专题】审查巨轮下的“珊瑚礁”：2021年最受关注的“每日一语”&url=https://matters.news/@ChinaDT/2021%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E5%AE%A1%E6%9F%A5%E5%B7%A8%E8%BD%AE%E4%B8%8B%E7%9A%84-%E7%8F%8A%E7%91%9A%E7%A4%81-2021%E5%B9%B4%E6%9C%80%E5%8F%97%E5%85%B3%E6%B3%A8%E7%9A%84-%E6%AF%8F%E6%97%A5%E4%B8%80%E8%AF%AD-bafyreigs655efcz647gjz5acqvo5maa5elx7dgi4npbyzd7t7t4eo5sm54" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>【2021年终专题】审查巨轮下的“珊瑚礁”：2021年最受关注的“每日一语”</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2021-12-27
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#中国数字时代">
+          中国数字时代
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://matters.news/@ChinaDT/2021%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E5%AE%A1%E6%9F%A5%E5%B7%A8%E8%BD%AE%E4%B8%8B%E7%9A%84-%E7%8F%8A%E7%91%9A%E7%A4%81-2021%E5%B9%B4%E6%9C%80%E5%8F%97%E5%85%B3%E6%B3%A8%E7%9A%84-%E6%AF%8F%E6%97%A5%E4%B8%80%E8%AF%AD-bafyreigs655efcz647gjz5acqvo5maa5elx7dgi4npbyzd7t7t4eo5sm54" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="中国数字时代的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#中国数字时代 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1640647630000-->
+<p><a href="https://matters.news/@ChinaDT/2021%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E5%AE%A1%E6%9F%A5%E5%B7%A8%E8%BD%AE%E4%B8%8B%E7%9A%84-%E7%8F%8A%E7%91%9A%E7%A4%81-2021%E5%B9%B4%E6%9C%80%E5%8F%97%E5%85%B3%E6%B3%A8%E7%9A%84-%E6%AF%8F%E6%97%A5%E4%B8%80%E8%AF%AD-bafyreigs655efcz647gjz5acqvo5maa5elx7dgi4npbyzd7t7t4eo5sm54">【2021年终专题】审查巨轮下的“珊瑚礁”：2021年最受关注的“每日一语”</a>
+——</p>
+
+<div>
+  <p><strong>CDT编者按：2021年即将过去，中国数字时代为读者整理了</strong><a href="https://chinadigitaltimes.net/chinese/tag/2021%e5%b9%b4%e7%bb%88%e4%b8%93%e9%a2%98" rel="noopener noreferrer" target="_blank"><strong>年终专题</strong></a><strong><span>，共十篇，包括今年和我们告别的账号们、十大网络用语、十大404文章、十大敏感词、十大翻车现场、十大“每日一语”、十大CDT播客/视频、网络视频年度总结、十大CDT推荐媒体、年度人物。本文是年终专题第六篇。上一篇是</span></strong><a href="https://chinadigitaltimes.net/chinese/674966.html" rel="noopener noreferrer" target="_blank"><strong>《2021十大翻车现场》</strong></a><strong><span>，下一篇即将刊出的是《2021十大CDT播客/视频》。</span></strong></p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/79a01fb0-d5e7-40d2-978e-756ba84be9dc.jpeg" data-asset-id="79a01fb0-d5e7-40d2-978e-756ba84be9dc" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>中国数字时代持续收集网络上的抵抗话语，其中包括网民对热点新闻事件的评论、时政讽刺类段子、时下流行语录或文章中精辟的一段话等。我们尤其关注那些被中国言论审查制度抹杀的“抵抗的声音”，希望从抵抗者的角度，另类地记录和书写历史的一个战场。</p>
+  <p>正如美国政治学家、人类学家詹姆斯·斯科特所言：“犹如无数的珊瑚虫形成了杂乱无章的珊瑚礁，无数个体的不服从与逃避行为也形成了自身的政治或经济堡礁……当国家的航船搁浅在礁石上时，人们通常仅仅关注船只失事本身；他们没有注意到，正是大量微不足道的行为才是造成失事的原因。”</p>
+  <p>在这篇文章中，我们搜集整理了2021年最受网民欢迎的“每日一语”，并按关联新闻事件的发生时间降序排列。这些由网民创作的抵抗话语就像不断生长的珊瑚礁，当它们有一天能够足够大并成为整个珊瑚礁的一部分时，专制合法性话语这艘巨轮就会搁浅和沉没。</p>
+  <p><em>编注：转推和喜欢次数的统计时间是美西时间2021年12月27日。</em></p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/ee213d8e-9c4e-486d-9fb1-33dac953c857.png" data-asset-id="ee213d8e-9c4e-486d-9fb1-33dac953c857" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p><strong>转推 230 次，喜欢 891 次</strong></p>
+  <p>湖南女教师李田田因在微博上声援上海震旦职业学院教师宋庚一（她因被学生举报发表“涉南京大屠杀不当言论”而被学校开除），而被湘西自治州委永顺县当局送往当地精神病院，事件引发网民关注后，自治州政府又将她转往永顺县人民医院“进一步治疗”。</p>
+  <p>李田田现年27岁，正怀有身孕。她对公共议题一向敢言，两年前，李田田曾发表文章《一群正在被毁掉的乡村孩子》，批判基层教育部门形式主义盛行，其后遭到该县教育部门深夜约谈，文章也很快被删除。</p>
+  <p>事件引发关注后，李田田所作的诗歌也在网上流传。下面这个段落，就节选自她的诗歌《我的学生》：</p>
+  <blockquote>
+张三父母离婚，李四父母离婚，王二父母离婚，麻子是留守儿童。  </blockquote>
+  <blockquote>
+全班同学同病相怜，可是在作文里，他们都热爱这个伟大的时代。  </blockquote>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/6962f17b-6b48-4d05-9fde-ab3e65c3790d.jpeg" data-asset-id="6962f17b-6b48-4d05-9fde-ab3e65c3790d" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p><strong>转推 240 次，喜欢 955 次</strong></p>
+  <p>2021，对于香港来说是特别沉重的一年。这一年，香港失去了《苹果日报》，失去了维园烛光集会、失去了七一游行，也失去了国殇之柱、民主女神像和六四浮雕。公民社会组织在重压之下土崩瓦解，支联会解散了，民间人权阵线解散了，教协解散了，职工盟也解散了。</p>
+  <p>新的《电影检查条例》通过，“不利于国家安全的电影”不得上映；电话卡实名制推行，中国式的全面监控正被快速复刻到此；“公民与社会发展科”替代了“通识科”，将“正确的集体记忆”灌输给新一代的香港人；立法会选举也将“全过程民主”彻底贯彻——90个议席中，没有一席属于民主派。</p>
+  <ul>
+    <li>在《404档案馆》中<a href="https://chinadigitaltimes.net/chinese/674717.html" rel="noopener noreferrer" target="_blank">收听相关节目</a></li>
+  </ul>
+  <p>在2019年纪念六四三十周年的歌曲《回忆有罪》中，达明一派唱道：“如烛光都有罪，将暗黑多几十年”。两年后，壹传媒创办人黎智英、支联会副主席邹幸彤、前支联会主席李卓人、记者何桂蓝等人却真的因为燃点烛光、纪念六四而被判有罪。黎智英在他向法庭提交的陈情信中说：“如果悼念这些因不公而去世的亡灵是有罪的，那么我甘愿受罚。这样，我就可以和那些在六四时因追求真理、公义和良善而牺牲的年轻人一道，承担这份苦难与荣耀。”</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/590d8f31-81b1-4fcf-af62-e2fd59a6e7da.jpeg" data-asset-id="590d8f31-81b1-4fcf-af62-e2fd59a6e7da" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p><strong>转推 614 次，喜欢 2917 次</strong></p>
+  <p>网球名将彭帅在微博指控中国前副总理、前中共中央政治局常委张高丽性侵事件算得上是下半年最大的舆情事件，也将中国米兔运动之火延烧到了最高决策层。</p>
+  <p>可以想象得到，这一事件面临的审查管控是空前的。彭帅的微博在发出20分钟后就遭到删除，所有微博截图也都被屏蔽，其后，彭帅、张高丽、总理和我、彭于晏好帅，甚至连网球、吃瓜等词都成为敏感词。公共讨论被全面禁止的同时，彭帅事件却成为网民们私下讨论经常被提到的话题。</p>
+  <figure class="embed-video">
+    <div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/265oSLLteIU?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+    </div>
+    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>豆瓣用户海滩人形象地写出了这一事件刚刚被曝出时人们的心态：“第一反应是恐惧，冲突还未发生已经能够预知胜利的一方。心照不宣不敢讨论，遮遮掩掩讳莫如深。全是缩写，全是劝删，好像光是看到，做错事的就变成我们了。”</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/1ff0f9f6-2b4e-406c-aa3b-6e0c36e33b3c.jpeg" data-asset-id="1ff0f9f6-2b4e-406c-aa3b-6e0c36e33b3c" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>转<strong>推 229 次，喜欢 1101 次</strong></p>
+  <p>《玻璃心》是一首嘲讽中国当局和“小粉红”群体的歌曲，歌词包含了“割韭菜”、“撒币”、“支持新疆棉”、“十里山路不换肩”等多个“梗”，被网友称作“辱华”神曲。它在10月15号上线 YouTube 后，目前已经突破3700万观看。但巨大的成功也附带着相应的代价，黄明志的音乐已经在中国大陆被全面封杀。</p>
+  <ul>
+    <li>在《404档案馆》中<a href="https://chinadigitaltimes.net/chinese/673378.html" rel="noopener noreferrer" target="_blank">收听相关节目</a></li>
+  </ul>
+  <p>面对封杀，黄明志从容表示：“被禁的作品不是我，是不能看到这些作品的人。讲自己想讲的话，我觉得这是个普世价值、天赋人权。”</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/ba935daa-91bd-4ec8-a0e3-22dbba0e5ffd.jpeg" data-asset-id="ba935daa-91bd-4ec8-a0e3-22dbba0e5ffd" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p><strong>转推 320 次，喜欢 1301 次</strong></p>
+  <p>11月初，成都出现数例确诊新冠病例，全城进入严防死守状态。一个成都女孩因发现与某确诊患者行程重合，主动汇报配合防疫工作，但隔离期间在未接到任何通知的情况下，家中三只猫被相关部门灭杀。消息传到网上后，引起了大量网友对野蛮防疫的不满。</p>
+  <ul>
+    <li>在《404档案馆》中<a href="https://chinadigitaltimes.net/chinese/672699.html" rel="noopener noreferrer" target="_blank">收听相关节目</a></li>
+  </ul>
+  <p>然后事件尚未平息之时，又有网友曝光江西上饶的防疫人员“上门打狗”的事件。据这位微博网友所转述的爆料，当事人因疫情原因前往酒店隔离，不被允许携带宠物，数小时后有两名手持铁棍的防疫人员撬门闯入其家中，将宠物狗灭杀。</p>
+  <p>其后，上饶官方通报承认，在“未与该网民进行充分沟通的情况下，将宠物狗进行了无害化处置”。以防疫为由，可以“无害化处置”无辜宠物，可以让瑞丽居民“为国挡毒”，有网民道破了中国式防疫背后的残酷逻辑：“杀宠物时的逻辑，宠物重要还是人重要？杀少数人时的逻辑，是少数人重要还是多数人重要？杀多数人时的逻辑，是人重要还是大局重要？你总规逃不出逻辑。”</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/5b4c8525-158e-404d-839f-e6742c8874e4.jpeg" data-asset-id="5b4c8525-158e-404d-839f-e6742c8874e4" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p><strong>转推 447 次，喜欢 1447 次</strong></p>
+  <p>在中共宣传部门的全力护航之下，以朝鲜战争中长津湖战役为背景创作的电影《长津湖》以56.95亿元的票房成绩成为中国影史票房冠军。在紧张的中美关系之下，这部影片的政治色彩浓烈，也进一步推动了中国国内的仇美情绪——当年志愿军的敌人，正是以美国为首的联合国军。</p>
+  <figure class="embed-video">
+    <div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/Fl5JsVN4Nsc?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+    </div>
+    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>炉火纯青的舆论操控，和对批评声音的全面审查是这部影片的制胜法宝。知名媒体人罗昌平在电影上映后，发微博称：“半个世纪后，国人少有反思这场战争的正义性，就像当年的沙雕连不会怀疑上峰的‘英明决策’。”，其后被举报、封号，最后被警方以“发布侮辱志愿军英烈言论”刑事拘留。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/3162ab6d-c9de-4390-aeaa-f284d109b240.jpeg" data-asset-id="3162ab6d-c9de-4390-aeaa-f284d109b240" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>转<strong>推 642 次，喜欢 2637 次</strong></p>
+  <p>8月中，在中央财经委员会第十次会议之后，“共同富裕”和“三次分配”成为热词。有分析认为，这一举措意在巩固社会基层对中共执政合法性的支持，下一步或向大型私企开刀，通过“绑架式”慈善助当局解决贫富不均的问题。</p>
+  <p>8月18日，腾讯斥资500亿启动“共同富裕专项计划”；24日，拼多多宣布设立“百亿农研专项”，投入100亿元推动农业科技发展；9月2日，阿里巴巴斥资1000亿元启动“助力共同富裕十大行动”；相比这几位巨头，美团的响应方式可以说有些“鸡贼”， CEO 王兴在8月30日财报发布后的分析师会议上表示，共同富裕本身就植根于美团的基因中，美团的名字就有“一起更好”的意思，“因为‘美’就是better，‘团’就是together，美团就是一起更好”。</p>
+  <p>不过，在多个行业占据垄断地位的国有企业却对“共同富裕”几乎只有口号式地表演。有网友一语道破这种“共同富裕”的荒谬，“一个连官员财产都不公开的国家，却说要共同富裕。”</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/4d4ed5a8-c796-431c-b128-343b6caa59b0.jpeg" data-asset-id="4d4ed5a8-c796-431c-b128-343b6caa59b0" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>转<strong>推 384 次，喜欢 1714 次</strong></p>
+  <p>躺平，和与此相关联的躺平学、躺平主义，是从5月时一篇叫《躺平即正义》的文章开始广泛流行的，意思是人们决定放弃靠拼命工作来攒钱，不断产生焦虑而伤身的生活模式，而采取主动降低自身欲望，从而缓解生存压力的一种生活哲学。</p>
+  <p>这一生活态度切合了不少中国年轻人面对的现实：低工资，高房价，超长工时和向上流动梦想的破灭。“躺平”因而成为了无奈之下的一种理性选择，因为“躺平的韭菜不好割”。</p>
+  <ul>
+    <li>在《404档案馆》中<a href="https://chinadigitaltimes.net/chinese/666995.html" rel="noopener noreferrer" target="_blank">收听相关节目</a></li>
+  </ul>
+  <p>当然，这一生活态度无法被提倡“正能量”的主流意识形态所容忍，官媒不断撰文炮轰“躺平主义”，“躺平学”也在多个平台成为敏感词。六四32周年这一天，一位网友写道：“用32年忘了如何站着，今天连躺着的资格也失了。”</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/f5ba82d0-9343-48c0-8818-27d9796139f5.jpeg" data-asset-id="f5ba82d0-9343-48c0-8818-27d9796139f5" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p><strong>转推 129 次，喜欢 399 次</strong></p>
+  <p>7月28日，中国企业家孙大午因聚众冲击国家机关罪等八个罪名，被河北高碑店市人民法院一审宣判徒刑18年，处以罚金311万元人民币。在法庭上，孙大午慷慨陈词，“财富你们拿走，我随你们处置，但请留家人和同事们一条生路。”、“我今天坐在被告审判席上，未来的被告审判席上会是谁？是你们！”</p>
+  <ul>
+    <li>在《404档案馆》中<a href="https://chinadigitaltimes.net/chinese/668565.html" rel="noopener noreferrer" target="_blank">收听相关节目</a></li>
+  </ul>
+  <p>孙大午一直被外界视为敢言企业家，他曾在公司网站刊登悼念自由派知识分子李慎之的文章，并在2015年“709维权律师大抓捕”时发声。2003年，他因非法吸收公众存款罪，被判处有期徒刑3年，缓刑4年。</p>
+  <p>2020年8月，一间国有农场曾在试图强拆大午集团名下房产时与大午集团员工发生冲突。三个月后，孙大午夫妇、他的两个儿子、儿媳等家人和公司高管等28人被以涉嫌寻衅滋事、破坏生产经营等为由遭到河北警方逮捕。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/4678c63a-bffc-4330-b94f-f7e20456968f.jpeg" data-asset-id="4678c63a-bffc-4330-b94f-f7e20456968f" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p><strong>转推 114 次，喜欢 706 次</strong></p>
+  <p>5月31日，在中共中央政治局听取“十四五”时期积极应对人口老龄化重大政策举措汇报后，宣布实施三孩生育政策。消息公布前，第七次全国人口普查结果公布，显示2020年中国大陆出生人数仅为1200万人，创下自1960年以来的最低出生人口，人口老龄化进一步加剧。</p>
+  <ul>
+    <li>在《404档案馆》中<a href="https://chinadigitaltimes.net/chinese/666994.html" rel="noopener noreferrer" target="_blank">收听相关节目</a></li>
+  </ul>
+  <p>不过，虽然官方媒体不断造势，但三孩政策的推出并没有受到人们的热捧。不少网民都对这一政策表达了怀疑和嘲讽，认为它没有回应到生存压力大、生育成本高等根本问题，因而无法起到真正促进生育的效果。“我不买三辆劳斯莱斯是因为劳斯莱斯限购吗？”有网友创作了这个段子，形象地嘲讽了这个不太“接地气”的政策。</p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#中国数字时代 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-02-12/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC276%E6%9C%9F-%E5%94%B1%E7%A6%81%E6%AD%8C-%E5%88%B0-%E7%A6%81%E6%AD%A2%E5%90%90%E6%A7%BD-%E8%A7%81%E8%AF%81%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E5%8F%98%E8%BF%81%E7%9A%84%E6%98%A5%E6%99%9A/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2021-12-14/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E4%B8%93%E8%AE%BF-%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3%E5%AF%B9%E8%AF%9D-%E8%A7%A3%E6%9E%84%E6%96%B0%E7%96%86%E9%95%87%E5%8E%8B-%E7%AC%AC%E4%B8%80%E4%BD%9C%E8%80%85%E8%AE%B8%E7%A7%80%E4%B8%AD/">最早</a>--</span>
+    
+      <li>
+        <time>2021-12-30</time>
+        <a href="https://nodebe4.github.io/opinion/2021-12-30/2021%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E5%A6%82%E6%9E%9C%E4%BF%A1%E5%BF%B5%E6%9C%89%E9%A2%9C%E8%89%B2-%E9%82%A3%E4%B8%80%E5%AE%9A%E6%98%AF%E9%AB%98%E7%BA%A7%E9%BB%91-2021%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/">
+          【2021年终专题】如果信念有颜色，那一定是高级黑——2021网络视频年度总结
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-12-28</time>
+        <a href="https://nodebe4.github.io/opinion/2021-12-28/2021%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E8%A2%AB%E7%A6%81%E7%9A%84%E4%B8%8D%E6%98%AF%E6%88%91-%E6%98%AF%E4%B8%8D%E8%83%BD%E7%9C%8B%E5%88%B0%E8%BF%99%E4%BA%9B%E4%BD%9C%E5%93%81%E7%9A%84%E4%BA%BA-2021%E5%8D%81%E5%A4%A7CDT%E8%A7%86%E9%A2%91/">
+          【2021年终专题】“被禁的不是我，是不能看到这些作品的人”——2021十大CDT视频
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-12-25</time>
+        <a href="https://nodebe4.github.io/opinion/2021-12-25/2021%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E5%85%A8%E5%9B%BD%E4%B8%8A%E4%B8%8B%E4%B8%80%E7%89%87%E6%84%9F%E6%81%A9-2021%E5%8D%81%E5%A4%A7%E7%BF%BB%E8%BD%A6%E7%8E%B0%E5%9C%BA/">
+          【2021年终专题】“全国上下一片感恩”……2021十大翻车现场
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-12-25</time>
+        <a href="https://nodebe4.github.io/opinion/2021-12-25/2021%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E5%BD%AD%E5%B8%85-%E5%8A%A0%E9%80%9F%E4%B8%BB%E4%B9%89%E5%92%8C%E7%8C%AE%E5%BF%A0%E5%AD%A6-2021%E5%8D%81%E5%A4%A7%E6%95%8F%E6%84%9F%E8%AF%8D/">
+          【2021年终专题】彭帅、加速主义和献忠学——2021十大敏感词
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2021-12-26/wangdan1989/">
+            前一篇：Twitter @王丹: 2021-12-20~2021-12-26
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2021-12-27/%E8%82%85%E8%AA%AA-%E9%96%8B%E6%92%AD%E5%85%A9%E9%80%B1%E5%B9%B4%E5%8C%AF%E5%A0%B1-%E7%8E%8B%E5%8A%9B%E5%AE%8F-%E4%BD%9F%E9%BA%97%E5%A9%AD-%E7%82%BA%E4%BD%95%E5%90%8C%E4%BA%BA%E4%B8%8D%E5%90%8C%E5%91%BD/">
+            後一篇：肅說：開播兩週年匯報 王力宏 佟麗婭 為何同人不同命？
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2021-12-26/wangdan1989/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2021-12-27/%E8%82%85%E8%AA%AA-%E9%96%8B%E6%92%AD%E5%85%A9%E9%80%B1%E5%B9%B4%E5%8C%AF%E5%A0%B1-%E7%8E%8B%E5%8A%9B%E5%AE%8F-%E4%BD%9F%E9%BA%97%E5%A9%AD-%E7%82%BA%E4%BD%95%E5%90%8C%E4%BA%BA%E4%B8%8D%E5%90%8C%E5%91%BD/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2021-12-28/2021%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E8%A2%AB%E7%A6%81%E7%9A%84%E4%B8%8D%E6%98%AF%E6%88%91-%E6%98%AF%E4%B8%8D%E8%83%BD%E7%9C%8B%E5%88%B0%E8%BF%99%E4%BA%9B%E4%BD%9C%E5%93%81%E7%9A%84%E4%BA%BA-2021%E5%8D%81%E5%A4%A7CDT%E8%A7%86%E9%A2%91/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2021-12-25/2021%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E5%85%A8%E5%9B%BD%E4%B8%8A%E4%B8%8B%E4%B8%80%E7%89%87%E6%84%9F%E6%81%A9-2021%E5%8D%81%E5%A4%A7%E7%BF%BB%E8%BD%A6%E7%8E%B0%E5%9C%BA/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2021-12-26/wangdan1989/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2021-12-27/%E8%82%85%E8%AA%AA-%E9%96%8B%E6%92%AD%E5%85%A9%E9%80%B1%E5%B9%B4%E5%8C%AF%E5%A0%B1-%E7%8E%8B%E5%8A%9B%E5%AE%8F-%E4%BD%9F%E9%BA%97%E5%A9%AD-%E7%82%BA%E4%BD%95%E5%90%8C%E4%BA%BA%E4%B8%8D%E5%90%8C%E5%91%BD/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<中国数字时代>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2021-12-28/2021%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E8%A2%AB%E7%A6%81%E7%9A%84%E4%B8%8D%E6%98%AF%E6%88%91-%E6%98%AF%E4%B8%8D%E8%83%BD%E7%9C%8B%E5%88%B0%E8%BF%99%E4%BA%9B%E4%BD%9C%E5%93%81%E7%9A%84%E4%BA%BA-2021%E5%8D%81%E5%A4%A7CDT%E8%A7%86%E9%A2%91/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<中国数字时代>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2021-12-25/2021%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E5%85%A8%E5%9B%BD%E4%B8%8A%E4%B8%8B%E4%B8%80%E7%89%87%E6%84%9F%E6%81%A9-2021%E5%8D%81%E5%A4%A7%E7%BF%BB%E8%BD%A6%E7%8E%B0%E5%9C%BA/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

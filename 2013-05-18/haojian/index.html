@@ -1,0 +1,831 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>从当代的艺术元素看中国独立电影 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+  讲师：郝建
+
+  时间：2013 年 5 月 18 日下午
+
+  地点：济南市历城区「三楼上的猫」咖啡屋
+
+" />
+    <meta property="og:description" content="
+  讲师：郝建
+
+  时间：2013 年 5 月 18 日下午
+
+  地点：济南市历城区「三楼上的猫」咖啡屋
+
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="从当代的艺术元素看中国独立电影" />
+    <meta property="twitter:title" content="从当代的艺术元素看中国独立电影" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fnodebe4.github.io%2Fopinion%2F2013-05-18%2Fhaojian%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://nodebe4.github.io/opinion/2013-05-18/haojian/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://nodebe4.github.io/opinion/2013-05-18/haojian/&text=觀點-從草根到大師 git.io/JJCxS&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://nodebe4.github.io/opinion/2013-05-18/haojian/&title=觀點-從草根到大師 git.io/JJCxS" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://nodebe4.github.io/opinion/2013-05-18/haojian/&title=觀點-從草根到大師 git.io/JJCxS" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=觀點-從草根到大師 git.io/JJCxS&body=
+  讲师：郝建
+
+  时间：2013 年 5 月 18 日下午
+
+  地点：济南市历城区「三楼上的猫」咖啡屋
+
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://nodebe4.github.io/opinion/2013-05-18/haojian/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://nodebe4.github.io/opinion/2013-05-18/haojian/&title=觀點-從草根到大師 git.io/JJCxS&caption=
+  讲师：郝建
+
+  时间：2013 年 5 月 18 日下午
+
+  地点：济南市历城区「三楼上的猫」咖啡屋
+
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=觀點-從草根到大師 git.io/JJCxS&url=https://nodebe4.github.io/opinion/2013-05-18/haojian/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>从当代的艺术元素看中国独立电影</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2013-05-18
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: 郝建</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#立人大学">
+          立人大学
+        </a>
+      </li>
+    </ul>
+
+    
+
+    <span style="float: right;" title="LAT 分享的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#立人大学 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+      <iframe id="player-" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/" frameborder="0" allowfullscreen></iframe>
+    
+    <blockquote>
+  <p>讲师：郝建</p>
+
+  <p>时间：2013 年 5 月 18 日下午</p>
+
+  <p>地点：济南市历城区「三楼上的猫」咖啡屋</p>
+</blockquote>
+
+<p><strong>主持人：</strong>大家好，我先说一下今天这两个小时的安排，首先跟大家介绍一下立人图书馆与立人之友，这个可能会花上 10-20 分钟，然后由郝建老师做分享，大概是一个小时到一个半小时，最后留半小时让大家同郝建老师交流。</p>
+
+<p>介绍一下今年出席的嘉宾：济南立人图书馆理事刘庆先生，是刘庆先生将郝老师与何老师邀请过来的。郝建老师是北京电影学院教授，何里仁老师是独立电影导演，《大国无私房》的拍摄者。</p>
+
+<h3 id="立人图书馆及立人之友的介绍">立人图书馆及立人之友的介绍</h3>
+
+<p>立人图书馆成立于 2007 年，总部在北京，是一个专门从事乡村图书馆建设的公益组织，成立到现在已经有六年，全国现在有 13 家分馆。一般在县级或城镇地区，建设在学校周边，为初中、高中学生提供图书阅读资源，这是基本的服务。当然，立人图书馆也会从全国招募大学生志愿者，给当地孩子做电影会或者读书会等活动。寒暑假期间，每个图书馆也会有为期一周的夏令营活动，如立人总干事李英强所讲，这其实是一种「新支教」，也算是我们在普通教育体制外的一种新尝试。</p>
+
+<p>而济南立人之友是由我们在济南的志愿者、立人大学义工、立人图书馆志愿者组成。我们在城市里会开展很多活动，像今天做的学思分享会就是一种形式。其次也做立人图书馆的推广活动，接下来我们会邀请立人图书馆的总干事李英强先生，或者立人图书馆的理事过来，详细介绍立人图书馆的运行状况和运作模式。我们也会策划一些大学生的捐书活动，还会策划济南立人之友对河北、山西等立人分馆的访问活动。我们可能也会做读书会、独立电影放映会等活动，倾向于把现阶段能做好的活动做到最棒，再去考虑其他。两周后我们会邀请山东大学政治与公共管理学院的冯克利老师来做相关分享。刘庆理事也在极力邀请《潜规则》的作者吴思来做相关分享。</p>
+
+<p>当然，我们也希望通过这次活动认识更多跟我们有共同爱好的年轻人，我希望你们能加入我们，在济南做一些有意义的活动。</p>
+
+<p><strong>刘庆：</strong>今天来的各位可能对立人都有一定的认识与接触。立人致力于乡村教育的公益活动，但我们不是做慈善，也不是做扶贫，更不是文化下乡送温暖。我们之所以要做乡村教育呢，用立人图书馆创始人李英强先生的话来说就是「教育实在太重要了，我们不能单纯把它交给政府」。大家都知道，现在中国正在处于转型期，转型如何推进，从深层次看就是文化土壤的问题，有怎样的公民就有怎样的结局，同样的人在不同的文化背景下得出的结局截然不同。立人的宗旨就是「读天下好书，做世界公民」。教育孩子从小多读书，读好书，培养公民意识。这个丝毫不轰轰烈烈，也不浪漫辉煌，但它的意义却是永恒的。我感觉一个人青少年时期的阅读经历对他的一生很重要。我读大学时，有一位南京大学哲学系老师告诉我们，「我不是一流的知识分子，但是我可以读懂一流知识分子的书，并且将它们消化吸收转授给普罗大众」。他当时在图书馆工作，会关注学生借了哪些书，会和有意思的学生交流。我认为读好书、交益友是人生两件非常重要的事情，如果错过了，对一生的影响真得太大。下面有请郝建老师为我们做学思分享。</p>
+
+<h3 id="郝建老师学思分享会">郝建老师学思分享会</h3>
+
+<p><strong>郝建：</strong>刚才说读好书、交好朋友非常重要。但是我们在每天的生活中，看到最多的可能还是 CCTV 的信息。我今天主要讲的是在 CCTV 之外，有一批边缘的、被遮蔽的，受到传统阻挠打压的工作者，他们呈现的现实是现在的政府不愿意看到的。大家知道，这就是中国的独立电影。每年在北京的宋庄和南京都会做一些独立电影影展，今天一起来的何里仁导演的电影在宋庄、纽约大学、哈佛大学都做过展播与交流。他拍的电影叫做《大国无私房》。</p>
+
+<p>我今天不是泛泛地介绍独立电影，而是选择从当代的艺术元素看中国独立电影。主要以当代艺术与权威垄断媒体的美学风格做比较，因为我们一天到晚都说自己被洗脑，为什么这么说？依据在哪里？它在美学上有什么特征？它的强硬强化体现在哪里？我和大家交流一下这些问题。</p>
+
+<h4 id="风格概念的当代艺术">风格概念的当代艺术</h4>
+
+<p>我不知道在座的有没有学艺术或者中文的，当我们讲「当代艺术」的时候，它有两个概念，一个是当代的艺术，不是十九世纪的艺术，这是时间概念。但我今天所讲的是作为风格概念的当代艺术，什么是风格概念的当代艺术？它跟今天中国的独立电影之间有什么关系？这是我们今天讨论的话题。</p>
+
+<p>作为风格概念的当代艺术，有比较具体的时间和标志性。1969 年，德国的一位艺术家在瑞士伯尔尼做了名为「当态度变为形式」的艺术展览，此后，媒体、绘画等艺术出现不同形式的结合。<strong>当代艺术的许多方法是混合的</strong>，比如它与机械、光电技术也是可以结合在一起的。<strong>当代艺术也有消解作品权威性的作用</strong>，这一点和 CCTV 完全对立，我们看到的《舌尖上的中国》、《新闻联播》都是在做权威叙述。当代艺术作品是一个过程，比如艾未未的《葵花籽》，他经常会把一些事情变成一个过程，而这个过程经常是一种行为艺术。这是典型的「作品成为一个过程」，做、拍卖、送。我也去过艾未未工作室，他抓了一大把给我，美国有些拍卖行在拍卖，价格是 50 美金一颗。后来，我到纽约带了两粒给朋友，但它的作品就是一个过程。再比如艾未未将罚款也变成了一个行为艺术，有人把钱折成纸飞机扔，这都是非常好的当代行为艺术。艾未未将自己遇到的社会难题变成了一个行为过程，成为了当代艺术的行为。</p>
+
+<p>我们今天很多独立电影的拍摄、放映、欣赏甚至于被禁，都成为了一种过程。去年在北京的独立影像展，闭幕式进行了三次，开幕的时候拉闸一次，主办方接到有关部门通知，闭幕又一次，最后终于闭幕了。这真是创造了世界吉尼斯纪录。</p>
+
+<h3 id="中国独立电影与中国当代艺术的关系">中国独立电影与中国当代艺术的关系</h3>
+
+<p>国内很多独立电影导演都是当代艺术家转过来的，我大概从三个方面来讲中国独立电影与中国当代艺术的关系。</p>
+
+<h4 id="美学思维谈中国独立电影">美学思维谈中国独立电影</h4>
+
+<p>第一，世界范围内也有独立电影，但是「中国独立电影」的意思和世界范围内的独立电影的意义不同。他们的独立电影只有一个意思，就是小成本。但是中国的独立电影不仅指小成本，还是在政治体制、资金、美学上的独立。比如《舌尖上的中国》的投资对独立电影来说简直是天文数字，我们看看他的班底、去的地方，绝对是大投资。我们从美学角度看《舌尖上的中国》，它所有的画面一定都是非常光鲜的，所有人的生活是富足美满的。最后浓缩成一句话就是「我们的生活比蜜甜」。不管纪录片还是剧情片，它都有一个最高指向。我认为《舌尖上的中国》是专题片春晚，它的整个指向在美学关系上与春晚一模一样。独立电影的题材在传统媒体看来是不被接受的，因为这些现实在阻挡媒体，如果有人谈这些东西说明没有入行，怎么会拿这些东西跟我们讲呢？</p>
+
+<p>从美学角度，我们先讲 CCTV 的纪录片《圆明园》、《故宫》，它给人的印象是非常漂亮，主题指向一定是中国梦。</p>
+
+<p>我播放一段纪录片<a href="https://www.youtube.com/watch?v=tW902yKd8uA">《折腾》</a>，这是一段当代艺术色彩非常浓厚的独立电影。这部电影只有第一个镜头和最后一个镜头是自己拍的，当中所有的镜头都是主流媒体拍摄的，这就是<strong>当代艺术一个非常重要的特点，使用现成品</strong>。完全用主流媒体的镜头，也是对主流媒体的一种解构。我们来看片头，这里面有一段 2008 年关于雪灾的舞台艺术表演，CCTV 美学在这里得到了淋漓尽致的体现。你们要注意其中的「代位叙述」，把一个人的经验变成所有人的经验，我们从电影中看到了一系列的固定判断，党是我们的再生父母，我们要报党恩。还有叙事的虚假与夸张，一个是手抠冰雪指甲都抠掉了，我很怀疑在 2008 年还有这种事情。我总觉的用飞机空投牛奶不大合情理，但是我又不相信它会对事实性的报道作假。</p>
+
+<h4 id="中国独立电影特征">中国独立电影特征</h4>
+
+<p>我们再来说说独立电影的特征，很多时候独立电影又被称为地下电影，地下电影在 60 年代的纽约是一个非常先锋的词汇，探讨青年人的冲击反叛，包括性解放、吸毒的一些场景，而且他们在地下室放这些电影。而大陆的独立电影<strong>有着非常重要的独立阐释，太强调忠实诚信</strong>。至于怎么去阐释这件事情，那是社会大众要做的事情。我之所以一直贬低、咒骂 CCTV, 是因为 CCTV 代表着权威，是不可以质疑并与之辩驳的。这是从前苏联的「电影眼睛派」到社会主义、现实主义发展过来的。</p>
+
+<p>专题片在英文中叫 propaganda, 这个词是我发明的，因为 propaganda 在英文中是一个负面的词。中宣部之前叫 propaganda department, 现在叫  public relationship administration. 中国大陆的独立纪录片有<strong>去权威化、有游戏间离效果</strong>。《折腾》这部片中有很多使用了昆汀的《被解放的姜戈》中的元素，比如这个人是个什么人，啪！打一个动画的效果。但是中国的独立电影中<strong>也有一部分是严肃呈现历史的</strong>，比如对文革资料的搜集。</p>
+
+<p>纪录片拍摄者与现代舞演员一起在舞台前面表演，跟他们后面的纪录片形成了一个跨媒体关系，这是典型的当代艺术传播方式——跨媒体，这里用现代舞与媒体做了很好的诠释。周浩是中国很著名的独立电影导演，他拍摄的《高三》被 CCTV 买去了，但被 CCTV 剪辑，剪辑之后再播出。周浩最原始的版本是对于高考制度的反思，但是 CCTV 的《高三》变成了一个励志故事。周浩不承认 CCTV 的那个版本跟他有关系，因为大概是中间商卖给 CCTV 的。所以，<strong>独立电影有呈现当代现实的作用</strong>。它呈现现实是没有顾忌的。比如王立波拍摄的《掩埋》，它不是讲唐山或者四川大地震中死亡了多少同胞，而是讲在大地震当中政府能不能够掩埋信息。我认为独立纪录片在非常困难的资金条件和拍摄条件下，有一种责任感，它们的视角和态度跟央视完全不一样。</p>
+
+<p>《4851》就是黑屏幕，一个一个的人名缓缓上升，背景配的是左小祖咒的音乐，反反复复。这就是一个典型的当代艺术，其中有一种独立纪录片工作者的伦理与冲动，看见什么说什么。《4851》是谭作人和艾未未一起搜集到的四川地震死亡者的确认人数，他们把这些人的名字在屏幕上出现一遍。这种形式是与自我相关的简单的呈现，但是背后的<strong>老老实实就是当代独立纪录片的态度</strong>。</p>
+
+<h4 id="独立电影的去权威化">独立电影的去权威化</h4>
+
+<p>《老妈蹄花》是一部非常有意思的纪录片，与传统的纪录片不一样。传统的纪录片要画蒙娜丽莎，就去找一个模特。但《老妈蹄花》不是。讲的是艾未未跟着大律师浦志强到成都给谭作人做证明，本身不是有目的地去拍摄纪录片，而是他们遇到了事情才拍。在结尾处，拍摄的主创人员一个个光着膀子站着。有一次，我问艾未未为什么要这样处理，他说没什么，就是那天喝多了光着膀子。但是你们要注意，里面有一个<strong>独立纪录片作者非权威化的过程</strong>。比如在市台拍摄纪录片，拍参与者光膀子歪鼻子斜眼，领导一定会要求剪掉。</p>
+
+<p>独立电影是去权威化的，是比观众低的。一方面它有严肃的态度，我把真实的方面呈现给你们。但是另一方面，里面有一种自我怀疑、自我贬低、自我解嘲。赵亮的《罪与罚》中拍摄了边境武警的生活，在结尾处拍摄了两个人抬着一张床走进屋里的场景，这个场景跟全篇一点关系都没有，其实是他之前拍摄的一个艺术电影的镜头，他很喜欢这个镜头，一直想找机会放进电影里。像这种无关的，错乱使用的元素都可以降低和消除权威性，使得电影有一种轻松、透着野气的态度。这在正统纪录片电影中是不可能存在的，因为这会打乱观众对电影的认同。</p>
+
+<p>吴文光的「历史记忆项目」就是影像与现代舞的结合。我举一个自己的例子，大家看 PPT 的画面（郝建老师的一个艺术作品：郝老师穿着艾未未服刑时期的衣服拍照），这其实既有对严肃价值观的表述，又有一种去权威化的决心。有一天我和一个学生去看艾未未，在他的工作室看到地上一堆服刑衣服，就当场把自己衣服脱下来换上服刑衣服拍摄。在当代艺术中，服装置换、人的身份的置换是经常使用的手法。当代艺术代表着非权威化的叙述者，作者形象是坍塌的。</p>
+
+<p>为什么纪录片强调对话、交流、去权威性、强调陌生化？我为什么一直竭力反对 CCTV 美学，反对大裤衩里出来的东西？因为我有一个理念，即公共领域的概念。现代性是公共领域，每一个人都是非权威的，每个人都是在对话交流的系统当中取得合法性的。所以我谈独立纪录片、对 CCTV 的解构在深层寄托了宪政民主的希望。</p>
+
+<p>期待大家的反馈、质疑、辩驳、补充和建议。谢谢大家。</p>
+
+<h4 id="提问">提问</h4>
+
+<p><strong>问：</strong>郝老师你好，我一直在关注大学生与青年人创业的东西。习主席上台后又提出了中国梦，那您认为围绕「中国梦」、「青年人」如何拍摄纪录片？您有什么建议？</p>
+
+<p><strong>郝建：</strong>没有。（笑）我估计得回去想几年才能想出来。</p>
+
+<p><strong>问：</strong>独立纪录片会不会成为社会的潮流？</p>
+
+<p><strong>郝建：</strong>我觉得这还是一个边缘化的支流。但是我认为它是先锋的。</p>
+
+<p><strong>问：</strong>作为一个文化传播者，怎么样更容易被社会接纳？</p>
+
+<p><strong>郝建：</strong>做你想做的事情。</p>
+
+<p><strong>问：</strong>您觉得自己拍摄纪录片的目的是什么？是为了反权威而反权威吗？</p>
+
+<p><strong>郝建：</strong>我觉得这个非常值得讨论。我多次讲过自己是过分的、不公正的，带有倾向性地反对 CCTV，因为 CCTV 绝对是权威的，绝对遮蔽了现实，裁剪了我们的历史。如果你认为 CCTV 是公平的，那我的这些独立纪录片就是为了反权威而去反权威的。</p>
+
+<p><strong>问：</strong>我想先分享两个小故事，第一个是前几年北京电影节来了一位科恩兄弟，但是我们这些影迷没有机会去现场接触，现场都是留给一些相关行业的领导。第二个是科恩说自己最喜欢的中国导演是陆川，那个时候应该是《可可西里》时期的陆川。另外，我觉得后现代的电影是结构主义的，比如大卫林奇的一些电影，人是一个理性的动物，就想去拼命解读它，但是永远无法自圆其说。请问怎么克服障碍？</p>
+
+<p><strong>郝建：</strong>后现代很难说作者的意图，我只能说自己看片子的经验。我看电影是先解读电影文本的快感，因为我面对的是一个形象的、艺术的文本。有些电影给我很大的文本快感，比如你刚才说过的科恩兄弟，他的一些作品会跟之前的电影文本产生互文。中国的独立纪录片拍摄者赵亮、艾未未、王斌，可以看到他们的电影中的美术素养受到后现代主义的影响，比如从《钢的琴》可以看到王斌受到铁西区的影响。后现代在中国某种意义上也成为一种毒素，就像刚才那位先生讲的，一切都没有善恶判断，一切价值都是可疑的，任何东西都是等价的。多元要绝对多元，任何一种你肯定的价值都不是多元化。再比如，用后现代的东西去解释权威的问题，这个多元不是绝对多元，是在共同的价值观、共同的伦理之下的多元。我认为后现代在中国是错位的、有「毒素」的。</p>
+
+<p>前一个是比较八卦的问题，科恩兄弟最早跟昆汀塔伦蒂诺在 1995 来到中国，在座的可能会对昆汀比较熟。当时他上台的时候，满嘴的 Fucking, Fucking, Fucking. 但是我们在车上聊《被解放的姜戈》时就说，它被中国的审查制度操了两次。我们第一次看到的电影版本是昆汀自己剪的，这个对一个导演来说就是「被操」。可是刚过一个月，它又被迫下线，重新剪辑，而这次剪辑必须由昆汀自己来。可以说昆汀被「爆菊」两次。</p>
+
+<p><strong>问：</strong>我之前在山东广电实习过三个月，对中国的审查制度有一定了解。我觉得一个作品如果要大范围传播，一定是要符合官方标准。从受众上来说，对纪录片感兴趣的也是知识层次比较高的人群。您认为独立纪录片今后的出路在哪里？</p>
+
+<p><strong>郝建：</strong>首先，你讲的是必须通过才能大范围传播，我只加一个限定词「在中国大陆」。所以我个人认为这个现象是不正常的，你描述的是一个事实，独立纪录片都是一种对现实感的心理承受度，对现实的把握能力。如果对现实没有要求，那么去看 CCTV 我觉得是很正常的事情。这不一定代表了高。我们讲眼光高，是美学水平欣赏水平高，它跟观点、现实认定是没有关系的。比如说张艺谋的艺术水准相当高，张艺谋和贾樟柯是建院以来培养的两个天才，但是他不喜欢独立电影，不能说他艺术水准不高。这不是高低问题，而是对现实感悟、承认的能力。<strong>独立纪录片就是一个老实的态度。</strong></p>
+
+<p><strong>问：</strong>我觉得能见到一个和艾未未有交集的活人非常不容易，我想问的是独立纪录片在中国大部分都是禁片，得不到发行的渠道，那些独立电影人是靠什么生活的？</p>
+
+<p><strong>郝建：</strong>独立导演的经济状况一般都比较差，最好的比如王斌、赵亮、徐童，他们出名之后，国际上能给他订单。赵亮能卖一些片子，这是最好的情况。大部分人的经济状况都很差，比较屌丝。但是他们的作品相当有分量。我们也搞过放映会，但一场下来也就给个 800 块钱，所以说比较困难。</p>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#立人大学 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2017-10-01/freehere/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2011-07-01/kaimu/">最早</a>--</span>
+    
+      <li>
+        <time>2013-07-07</time>
+        <a href="https://nodebe4.github.io/opinion/2013-07-07/liudaoyu/">
+          游学班是教育制度的创新 - 祝立人大学第三期暑期学校开学 - 祝立人大学第三期暑期学校开学 - 祝立人大学第三期暑期学校开学
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2013-05-31</time>
+        <a href="https://nodebe4.github.io/opinion/2013-05-31/fengkeli/">
+          冯克利学思分享
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2013-05-01</time>
+        <a href="https://nodebe4.github.io/opinion/2013-05-01/xiongpeiyun/">
+          《我想和这个世界平起平坐》节选
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2013-04-28</time>
+        <a href="https://nodebe4.github.io/opinion/2013-04-28/zhoulian/">
+          大学的德性与大学生的德性
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2013-05-17/%E5%A6%82%E4%BD%95%E5%AF%B9%E4%BB%98%E5%85%AC%E5%8F%B8%E7%9A%84%E7%9B%91%E6%8E%A7-2-%E8%A7%84%E9%81%BF-%E4%B8%BB%E6%9C%BA%E8%A1%8C%E4%B8%BA%E5%AE%A1%E8%AE%A1/">
+            前一篇：如何对付公司的监控[2]：规避“主机行为审计”
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2013-05-21/%E5%85%B0%E5%BE%B7%E5%85%AC%E5%8F%B8-%E4%B8%AD%E7%BE%8E%E5%8F%AF%E5%BB%BA%E7%AB%8B-%E4%B8%9C%E4%BA%9A%E6%B5%B7%E6%B4%8B%E5%AE%89%E5%85%A8%E4%BC%99%E4%BC%B4%E5%85%B3%E7%B3%BB/">
+            後一篇：兰德公司：中美可建立“东亚海洋安全伙伴关系”
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2013-05-17/%E5%A6%82%E4%BD%95%E5%AF%B9%E4%BB%98%E5%85%AC%E5%8F%B8%E7%9A%84%E7%9B%91%E6%8E%A7-2-%E8%A7%84%E9%81%BF-%E4%B8%BB%E6%9C%BA%E8%A1%8C%E4%B8%BA%E5%AE%A1%E8%AE%A1/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2013-05-21/%E5%85%B0%E5%BE%B7%E5%85%AC%E5%8F%B8-%E4%B8%AD%E7%BE%8E%E5%8F%AF%E5%BB%BA%E7%AB%8B-%E4%B8%9C%E4%BA%9A%E6%B5%B7%E6%B4%8B%E5%AE%89%E5%85%A8%E4%BC%99%E4%BC%B4%E5%85%B3%E7%B3%BB/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2013-05-31/fengkeli/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2013-05-01/xiongpeiyun/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2013-05-17/%E5%A6%82%E4%BD%95%E5%AF%B9%E4%BB%98%E5%85%AC%E5%8F%B8%E7%9A%84%E7%9B%91%E6%8E%A7-2-%E8%A7%84%E9%81%BF-%E4%B8%BB%E6%9C%BA%E8%A1%8C%E4%B8%BA%E5%AE%A1%E8%AE%A1/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2013-05-21/%E5%85%B0%E5%BE%B7%E5%85%AC%E5%8F%B8-%E4%B8%AD%E7%BE%8E%E5%8F%AF%E5%BB%BA%E7%AB%8B-%E4%B8%9C%E4%BA%9A%E6%B5%B7%E6%B4%8B%E5%AE%89%E5%85%A8%E4%BC%99%E4%BC%B4%E5%85%B3%E7%B3%BB/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<立人大学>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2013-05-31/fengkeli/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<立人大学>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2013-05-01/xiongpeiyun/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

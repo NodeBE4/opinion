@@ -1,0 +1,2333 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Spinkcat在2019-05-27~2019-06-02的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Spinkcat在2019-05-27~2019-06-02的言论" />
+    <meta property="twitter:title" content="Spinkcat在2019-05-27~2019-06-02的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2Fsaraba1st%2Fcomments%2Fbtjc4l%2F%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E7%BD%B2%E5%90%8D%E6%96%87%E7%AB%A0%E7%8E%A9%E5%BC%84%E5%BC%BA%E6%9D%83%E6%B3%A8%E5%AE%9A%E5%A4%B1%E9%81%93%E5%AF%A1%E5%8A%A9%E5%94%AF%E6%88%91%E7%8B%AC%E5%B0%8A%E5%BF%85%E5%B0%86%E5%A4%B1%E8%B4%A5%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/saraba1st/comments/btjc4l/人民日报署名文章玩弄强权注定失道寡助唯我独尊必将失败/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/saraba1st/comments/btjc4l/人民日报署名文章玩弄强权注定失道寡助唯我独尊必将失败/&text=Spinkcat在2019-05-27~2019-06-02的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/saraba1st/comments/btjc4l/人民日报署名文章玩弄强权注定失道寡助唯我独尊必将失败/&title=Spinkcat在2019-05-27~2019-06-02的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/saraba1st/comments/btjc4l/人民日报署名文章玩弄强权注定失道寡助唯我独尊必将失败/&title=Spinkcat在2019-05-27~2019-06-02的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Spinkcat在2019-05-27~2019-06-02的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/saraba1st/comments/btjc4l/人民日报署名文章玩弄强权注定失道寡助唯我独尊必将失败/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/saraba1st/comments/btjc4l/人民日报署名文章玩弄强权注定失道寡助唯我独尊必将失败/&title=Spinkcat在2019-05-27~2019-06-02的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Spinkcat在2019-05-27~2019-06-02的言论&url=https://old.reddit.com/r/saraba1st/comments/btjc4l/人民日报署名文章玩弄强权注定失道寡助唯我独尊必将失败/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Spinkcat在2019-05-27~2019-06-02的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2019-06-01
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://www.reddit.com/user/Spinkcat/" style="font-size:14px;">作者: Spinkcat</a>
+        </span>
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/saraba1st/comments/btjc4l/人民日报署名文章玩弄强权注定失道寡助唯我独尊必将失败/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#13-人民日报署名文章玩弄强权注定失道寡助唯我独尊必将失败-submitted-on-2019-05-27-1601130800" id="markdown-toc-13-人民日报署名文章玩弄强权注定失道寡助唯我独尊必将失败-submitted-on-2019-05-27-1601130800">13: 人民日报署名文章：玩弄强权注定失道寡助——唯我独尊必将失败, submitted on 2019-05-27 16:01:13+08:00.</a></li>
+  <li><a href="#14-学校有学生信息员我可能被盯上了怎么办-submitted-on-2019-05-27-2348470800" id="markdown-toc-14-学校有学生信息员我可能被盯上了怎么办-submitted-on-2019-05-27-2348470800">14: 学校有学生信息员，我可能被盯上了怎么办？, submitted on 2019-05-27 23:48:47+08:00.</a></li>
+  <li><a href="#15-现在的扫黑除恶是在干什么-submitted-on-2019-05-29-1403190800" id="markdown-toc-15-现在的扫黑除恶是在干什么-submitted-on-2019-05-29-1403190800">15: 现在的“扫黑除恶”是在干什么？, submitted on 2019-05-29 14:03:19+08:00.</a></li>
+  <li><a href="#16-波澜壮阔傅成玉做好短期石油断供准备-15年内实现能源自给-submitted-on-2019-05-29-1923320800" id="markdown-toc-16-波澜壮阔傅成玉做好短期石油断供准备-15年内实现能源自给-submitted-on-2019-05-29-1923320800">16: 【波澜壮阔】傅成玉：做好短期石油断供准备 15年内实现能源自给, submitted on 2019-05-29 19:23:32+08:00.</a></li>
+  <li><a href="#17-中国所有直播网站屏蔽弹幕隆重迎接六四30周年泥潭群众表示黑人问号反应过来开始无能狂怒骂宣传口是内奸-submitted-on-2019-05-29-2109460800" id="markdown-toc-17-中国所有直播网站屏蔽弹幕隆重迎接六四30周年泥潭群众表示黑人问号反应过来开始无能狂怒骂宣传口是内奸-submitted-on-2019-05-29-2109460800">17: 中国所有直播网站屏蔽弹幕，隆重迎接六四30周年。泥潭群众表示黑人问号，反应过来开始无能狂怒骂宣传口是内奸, submitted on 2019-05-29 21:09:46+08:00.</a></li>
+  <li><a href="#18-b站斗鱼虎牙等平台关闭直播弹幕-submitted-on-2019-05-29-2239530800" id="markdown-toc-18-b站斗鱼虎牙等平台关闭直播弹幕-submitted-on-2019-05-29-2239530800">18: B站、斗鱼、虎牙等平台关闭直播弹幕, submitted on 2019-05-29 22:39:53+08:00.</a></li>
+  <li><a href="#19-we-are-cloudhead-games-developers-of-aperture-hand-labs-for-valve-index-ask-us-almost-anything-submitted-on-2019-05-30-0254210800" id="markdown-toc-19-we-are-cloudhead-games-developers-of-aperture-hand-labs-for-valve-index-ask-us-almost-anything-submitted-on-2019-05-30-0254210800">19: We are Cloudhead Games, developers of Aperture Hand Labs for Valve Index! Ask us (almost) anything!, submitted on 2019-05-30 02:54:21+08:00.</a></li>
+  <li><a href="#20-互動測驗你知道的六四-是誰的版本-submitted-on-2019-05-30-1156190800" id="markdown-toc-20-互動測驗你知道的六四-是誰的版本-submitted-on-2019-05-30-1156190800">20: 【互動測驗】你知道的六四 是誰的版本？, submitted on 2019-05-30 11:56:19+08:00.</a></li>
+  <li><a href="#21-就64这类事tg的避讳处理态度来说真的是很奇怪-submitted-on-2019-05-30-1419070800" id="markdown-toc-21-就64这类事tg的避讳处理态度来说真的是很奇怪-submitted-on-2019-05-30-1419070800">21: 就64这类事TG的避讳处理态度来说真的是很奇怪, submitted on 2019-05-30 14:19:07+08:00.</a></li>
+  <li><a href="#22-关于制止动乱和平息反革命暴乱的情况报告1989年6月30日-submitted-on-2019-05-31-0911520800" id="markdown-toc-22-关于制止动乱和平息反革命暴乱的情况报告1989年6月30日-submitted-on-2019-05-31-0911520800">22: 关于制止动乱和平息反革命暴乱的情况报告（1989年6月30日）, submitted on 2019-05-31 09:11:52+08:00.</a></li>
+  <li><a href="#23-e3-expectations-submitted-on-2019-05-31-2232550800" id="markdown-toc-23-e3-expectations-submitted-on-2019-05-31-2232550800">23: E3 Expectations, submitted on 2019-05-31 22:32:55+08:00.</a></li>
+  <li><a href="#24-why-were-the-index-controllers-originally-called-knuckles-submitted-on-2019-06-01-2041250800" id="markdown-toc-24-why-were-the-index-controllers-originally-called-knuckles-submitted-on-2019-06-01-2041250800">24: Why were the Index Controllers originally called “knuckles”?, submitted on 2019-06-01 20:41:25+08:00.</a></li>
+</ul>
+
+<h3 id="13-人民日报署名文章玩弄强权注定失道寡助唯我独尊必将失败-submitted-on-2019-05-27-1601130800">13: <a href="https://old.reddit.com/r/saraba1st/comments/btjc4l/人民日报署名文章玩弄强权注定失道寡助唯我独尊必将失败/">人民日报署名文章：玩弄强权注定失道寡助——唯我独尊必将失败</a>, submitted on 2019-05-27 16:01:13+08:00.</h3>
+
+<p>—– <strong>13.1</strong> —–2019-05-30 23:20:55+08:00:</p>
+
+<p>习近平=董卓？</p>
+
+<h3 id="14-学校有学生信息员我可能被盯上了怎么办-submitted-on-2019-05-27-2348470800">14: <a href="https://old.reddit.com/r/saraba1st/comments/btnjg0/学校有学生信息员我可能被盯上了怎么办/">学校有学生信息员，我可能被盯上了怎么办？</a>, submitted on 2019-05-27 23:48:47+08:00.</h3>
+
+<p>—– <strong>14.1</strong> —–2019-05-30 23:17:29+08:00:</p>
+
+<p>存己优先，留有用身躯。</p>
+
+<h3 id="15-现在的扫黑除恶是在干什么-submitted-on-2019-05-29-1403190800">15: <a href="https://old.reddit.com/r/saraba1st/comments/bub0ho/现在的扫黑除恶是在干什么/">现在的“扫黑除恶”是在干什么？</a>, submitted on 2019-05-29 14:03:19+08:00.</h3>
+
+<p>—– <strong>15.1</strong> —–2019-05-31 02:58:48+08:00:</p>
+
+<p>扫黑除恶有个背景，那就是之前城投债崩了以后的问题导致。</p>
+
+<p>前因要科普一下，中国的社会阶层是中央权力核心的红色贵族与地方的大贵族联手，然后地方的小贵族在不同的城市里有自己的利益与人事任命权。</p>
+
+<p>中央的流官到当地跟小贵族与地方大贵族合作，大贵族拿的省级或国家级项目吸血，小贵族也需要财路，垄断一些产业比如垃圾回收、建材、地产等，当然也包括了城投债。</p>
+
+<p>他们本身就是当地的正反面，也即是说他们是黑社会也是政府里的影子贵族，城投债是08经济危机以后放水背景下给他们的一个肥缺，换取中央更改税制的支持，让中央拿到更多稳定的优质税种，而城投债的代价就由地级屁民承担，虽然风险高，但小贵族们还是乐意。</p>
+
+<p>然后很快城投债等XX股和基金的利益平衡破产了，变成了累赘，反过来累及地方财政与稳定，中央就开始一刀切，把城投债等若干抛出去，之前基金自杀的那群人里，有不少其实就是这一队伍里的平民或有一定关系的人的背锅侠。</p>
+
+<p>而真正城投债的受益者，也就是地方的小贵族们，摇身一变就成了“黑恶势力”，其实就是把不接受这种局面的地方小势力解决。</p>
+
+<p>因为中央对地方完全依赖这群人，之前已经因为财政问题权力真空，所以现在走的是，先打爆原本的地方“黑恶势力”盟友，再号召年轻人下乡或到低行政级的城市担当基层官僚填补权力真空。</p>
+
+<p>至于幼儿园的问题，纯粹是懒政和形式主义的随机结果，被提到了人们才留意到这点，其实早就开始了。</p>
+
+<p>我们可以把这段历史视为经济版的群雄割据，地方小势力权力真空，新下放的年轻官僚要自己想财路填补地方财政空缺，像不像汉末？</p>
+
+<h3 id="16-波澜壮阔傅成玉做好短期石油断供准备-15年内实现能源自给-submitted-on-2019-05-29-1923320800">16: <a href="https://old.reddit.com/r/saraba1st/comments/budf07/波澜壮阔傅成玉做好短期石油断供准备_15年内实现能源自给/">【波澜壮阔】傅成玉：做好短期石油断供准备 15年内实现能源自给</a>, submitted on 2019-05-29 19:23:32+08:00.</h3>
+
+<p>—– <strong>16.1</strong> —–2019-05-31 02:50:51+08:00:</p>
+
+<p>兔！兔！兔！</p>
+
+<h3 id="17-中国所有直播网站屏蔽弹幕隆重迎接六四30周年泥潭群众表示黑人问号反应过来开始无能狂怒骂宣传口是内奸-submitted-on-2019-05-29-2109460800">17: <a href="https://old.reddit.com/r/saraba1st/comments/bueheu/中国所有直播网站屏蔽弹幕隆重迎接六四30周年泥潭群众表示黑人问号反应过来开始无能狂怒骂宣传口是内奸/">中国所有直播网站屏蔽弹幕，隆重迎接六四30周年。泥潭群众表示黑人问号，反应过来开始无能狂怒骂宣传口是内奸</a>, submitted on 2019-05-29 21:09:46+08:00.</h3>
+
+<p>—– <strong>17.1</strong> —–2019-05-30 23:01:22+08:00:</p>
+
+<p>他们就是因为不清楚六四的全过程，才觉得无所谓，反而这正是墙内对六四冷处理的结果，让这群人不明白六四对当下权贵意味着什么。</p>
+
+<p>六四本身最简单直白的意味，就是权贵集团通过军事政变暴力清洗获胜，无论任何角度解释都没有可能说明白，更不可直接告诉群众我们清洗了你们的改革者成为了你们的领袖，你们活该被我割韭菜。</p>
+
+<p>​</p>
+
+<p>所以认为这只是个需要时间后解密的内容，本身就是无知的表现，所以我真心觉得这一代年轻人有骨气的很少很少，大多都是普通人，而我想普通人知道真相后起码会根据良心和现实利益有个选择而闭嘴，但也有一些懦夫，甚至觉得这种杀戮是正确的。</p>
+
+<p>一个时代的人脊梁骨都断了，以后的人不会忘了现在的。</p>
+
+<h3 id="18-b站斗鱼虎牙等平台关闭直播弹幕-submitted-on-2019-05-29-2239530800">18: <a href="https://old.reddit.com/r/China_irl/comments/bufhev/b站斗鱼虎牙等平台关闭直播弹幕/">B站、斗鱼、虎牙等平台关闭直播弹幕</a>, submitted on 2019-05-29 22:39:53+08:00.</h3>
+
+<p>—– <strong>18.1</strong> —–2019-05-31 02:46:40+08:00:</p>
+
+<p>这种愚蠢维稳策略背后是有原因的，一方面是行政官僚机制局限在这个水平里，另一方面是这件事不可能不被提到，而被提到后TG官方完全无法解释，深究下去就发现当局完全不具备任何道德、法理或政治的合理性，总不能说是：“我们靠政变打爆了平民和改革派上台剥削你们这群韭菜是合理的”</p>
+
+<p>不是不想更靠谱的去堵，是没有办法。八平方本身完全没法深入去思考当局宣传的逻辑，再有就是其实当局修宪早就跟民间撕破脸了，无所谓你怎么想，不锁弹幕，百分之百有人刷，与其这样不如锁了。其实你看财政数据就知道了，官方没太多时间，撕破脸压根不是什么问题，十年以后社会信用体系完全建立，彻底的物理局域网后，就无所谓你知不知道了。</p>
+
+<h3 id="19-we-are-cloudhead-games-developers-of-aperture-hand-labs-for-valve-index-ask-us-almost-anything-submitted-on-2019-05-30-0254210800">19: <a href="https://old.reddit.com/r/ValveIndex/comments/builts/we_are_cloudhead_games_developers_of_aperture/">We are Cloudhead Games, developers of Aperture Hand Labs for Valve Index! Ask us (almost) anything!</a>, submitted on 2019-05-30 02:54:21+08:00.</h3>
+
+<p>—– <strong>19.1</strong> —–2019-05-30 22:06:20+08:00:</p>
+
+<p>Aperture is a source2 game or unity game ?Can you talk about this new engine or the Rubikon  ?thx</p>
+
+<h3 id="20-互動測驗你知道的六四-是誰的版本-submitted-on-2019-05-30-1156190800">20: <a href="https://old.reddit.com/r/saraba1st/comments/buolgk/互動測驗你知道的六四_是誰的版本/">【互動測驗】你知道的六四 是誰的版本？</a>, submitted on 2019-05-30 11:56:19+08:00.</h3>
+
+<p>—– <strong>20.1</strong> —–2019-05-30 22:56:09+08:00:</p>
+
+<p>我在科普一个以后会成为教科书信史的观点，六四是：</p>
+
+<p>​</p>
+
+<p>胡耀邦、赵紫阳、邓小平组成的改革政治联盟的分裂</p>
+
+<p>在改革过程中，邓小平为代表的旧派权贵元老意识到与胡耀邦的分歧不可避免，为了保证自身利益，发动小规模政变，逼迫胡耀邦下台。</p>
+
+<p>邓小平为首的派系，希望建立一个剥削民众为基础的世俗权贵政权，而胡耀邦等传统改革派系则更倾向于持续改革。</p>
+
+<p>随着胡耀邦的死亡，民众与官方矛盾不可调和</p>
+
+<p>赵紫阳在邓小平的敏感期中因较低的政治嗅觉与仍未知的细节，邓小平失去了对其的信任</p>
+
+<p>邓小平为首的元老与保守派，发动了军事政变</p>
+
+<p>首先软禁内部人士，而后发动嫡系军队对广场和各地开始清场</p>
+
+<p>随后十年内，民间与党组织内外有大量人士被清洗、报复与社会性的边缘化，人数可能近百万</p>
+
+<p>党内改革派在这之后也被彻底清洗</p>
+
+<p>六四事件实质上是权贵门阀从与胡耀邦的合作分裂失败后，夺取中国政权的一次成功军事政变</p>
+
+<h3 id="21-就64这类事tg的避讳处理态度来说真的是很奇怪-submitted-on-2019-05-30-1419070800">21: <a href="https://old.reddit.com/r/saraba1st/comments/bupr5v/就64这类事tg的避讳处理态度来说真的是很奇怪/">就64这类事TG的避讳处理态度来说真的是很奇怪</a>, submitted on 2019-05-30 14:19:07+08:00.</h3>
+
+<p>—– <strong>21.1</strong> —–2019-05-30 23:10:23+08:00:</p>
+
+<p>感觉好几个帖子都说这事，我再简单科普一下吧</p>
+
+<p>六四跟文革不一样，没法解密是因为现在有的人之所以替中共说话，是因为某种程度上更相信中共占理并且有道义上的正确性。</p>
+
+<p>如果放开了讨论，几乎无可避免会变成不断有人探究资料，然后发现真相傻眼。</p>
+
+<p>客观事实上现在的中共就是清洗了当年改革派的权贵集团，如果打开了六四这个话题给帮自己说话的人看到真相，那也就没有立场可言了。</p>
+
+<p>六四跟文革不同，也跟西藏事件不同，这两个你还可以说保皇派造反派归结于党内斗争，或者西藏事件甩锅给旧贵族与中共狗咬狗，但六四是非常彻底的，很纯粹的，政府欺压平民，制度上剥削民众，而有意愿改革的党内开明人士被清洗。</p>
+
+<p>死的人只是次要，重点是军事政变，消灭正义之味方，大反派胜利，然后民众跪舔这么多年，这种事根本拿不上台面。</p>
+
+<p>—– <strong>21.2</strong> —–2019-06-01 04:11:03+08:00:</p>
+
+<p>首先来说六四的恶劣性与严重程度是远远超过过去任何一个历史事件，甚至文革也不能比拟。</p>
+
+<p>这不是取决于直接受影响人数和被杀死的人数，先说一下大下岗的情况。</p>
+
+<p>大下岗的前提是铺垫了多年的改革开放，国企的改制与自由市场竞争的引入，其实在多年前持续性下岗已经做了很久的铺垫，所以观念上在当时经济飞速发展的背景下，前有下海或自由雇佣等于进步的观念，后则有不断发展的经济为支撑，而主要受影响的下岗工人们，实质性的伤害是下岗以后多年才逐步体现，比如缺乏竞争力与没有足够的雇佣市场容纳。一开始接受国家给工人劳动与生活必须的观念的那一带，是建国初期到文革后的老年人，大下岗影响的则是八九十年代改革观念已经普及的新生代，所以在他们眼里，国企只是个铁饭碗，生活当中有自由雇佣市场作为对比。</p>
+
+<p>另一方面，下岗工人在下岗以前，其实已经在六四里失去了知识分子阶级的保护，所以后续多年的不断经济恶化过程里，尽管许多人骂，但没有社会话语权，也没有知识分子们凝聚成足够的力量。</p>
+
+<p>包括反AB团、反右、整风在内，都是一系列的政治斗争，直到文革以前，这些政治斗争的范围都是集中在少数人身上，TG的迫害与政治暴力，很有限地以政治名义施加在不同人群，逐个的打掉对方，比如今天只吃左派打右派，明年就支持民众打左派，很少有一次性迫害全部人的时候，这就让后人虽然知道当时很残酷，但社会本身不关注或者觉得理所当然。</p>
+
+<p>而文革其实是延安时代整风运动的最终版本，彻底扩大化到全国各个阶层，但即便如此也仍旧只是一个政治性的活动，社会意义上的巨大冲击不多，因为社会的经济结构始终如一，最终我们也看到这个结构的崩溃，就是改革开放的开始。</p>
+
+<p>改革开放意味着新知识分子阶层的觉醒，以及一定程度上随着经济结构的变化，引入了现代化政府的概念后，留存的理性派与务实派共产党人的再次合作，摒弃了毛泽东时代近乎封建王朝的权力斗争逻辑。</p>
+
+<p>新的政府、新的经济制度带来了新的社会结构，知识分子们开始逐渐有了话语权，经济活动的多样化让民众的个人意识开始觉醒，并且从中共一贯的政治宣传里苏醒。</p>
+
+<p>毛泽东时代的政治斗争固然残酷杀人更多，但那个时代是一个表面工业化，实际上却是农业时代的“封建王朝”，政府权力结构跟古代皇朝没有任何区别，取决于皇帝能否掌权与皇帝认为谁是亲信。</p>
+
+<p>改革开放以后，则是真正意义上开始现代化，接受工业文明在制度、思想与行为逻辑上的输入。</p>
+
+<p>农业时代过渡到纯工业时代，意味着一个国家接受了世界的工业体系后开始正式步入竞争。</p>
+
+<p>在这个竞争之中，经济上的进步是不足够的，同时还需要有社会制度的跟进，能更大效率让社会运作起来。</p>
+
+<p>所以政治改革是绝对不可避免的一件事，从共产党反右到文革结束，本质都只是争夺权力，核心是对精英分子的围剿，但圈带了平民们被卷入进去成为牺牲品。</p>
+
+<p>现代化后，改革的声音却是从民间而来，更大众化更广泛，是一种历史潮流，想在世界的残酷竞争里发展的更好，就必须经济政治改革都要准备妥当。</p>
+
+<p>而六四的政变，跟怀仁堂政变最大的不同是，怀仁堂本质上依旧是权力层封建式的狗咬狗，在那之前则是不成熟的共产主义者们认识到现实后，为了自身意识形态维持下去的一种政治手段。</p>
+
+<p>六四则是承认意识形态破产后，寻找现代化出路中，当局者失去了“共产主义者”头衔，真正以权贵门阀的形象垄断社会各阶层利益的一次表证。</p>
+
+<p>它是一个权贵对民众公然剥削的权力来源。</p>
+
+<p>好比我们今天会问，凭什么TG可以有各种贵族垄断产业，用各种恶政控制我们。</p>
+
+<p>原因很简单，六四军事政变成功了</p>
+
+<p>共产党的历史要分两段看，赵紫阳本身也提到过，毛泽东时代与改革开放时代，前者是意识形态外皮下的狂欢，在毛泽东的手里互相斗争到极限后破产，后者则是管理者回归理性后的正常操作。</p>
+
+<p>这其中有大量的改革者，还有大量的权力者，双方对治理的逻辑不通，前者有真正改革的意愿，是共产党里良性的一部分，后者则是不信任意识形态很清楚现实就是权力与杀戮，想通过意识形态破产的机会，转型过程里直接控制全国获得现代社会里门阀地位的一批人。</p>
+
+<p>双方最初的合作到分裂，六四就是摊牌的结果。</p>
+
+<p>六四军事政变成功，让中国失去了和平改革为现代文明国家的机会，也失去了百年一遇工业潮里发展更好的机会。</p>
+
+<p>典型的例子有经济危机时，政府因为没有合法性的选票来源，是靠军事政变与屠杀上台，不得不通过发放大量债务投资低收益基建换取失业潮的延迟与地方门阀们的支持，早期这种模式是有用的，的确需要基建，但渐渐的基建饱和过度，但没有其他模式，最终地方政府无力偿还债务和发展，银行大量坏账，浪费大量公帑，一切后果都是消费中国人的利益来偿还。</p>
+
+<p>文革结束是从梦里醒了回归现实，回归现实以后一艘船上两群管理者，本来船客可以做人，好人被杀光后，立刻又另一派戴上枷锁成了奴隶。</p>
+
+<p>然后这群贵族以中国合法政府自居，就跟六耳猕猴杀了孙悟空以取经人要普度众生一样可笑。</p>
+
+<p>一切改革也就都成了保证自身利益和延迟下台的措施，而权贵上台的手法不但非法，而且代价极大，子弟兵杀人、清洗改革派和持续多年的迫害。</p>
+
+<p>也就根本不存在下台换取和平改革的说法，就跟叙利亚的阿萨德家族和其他许多独裁权贵一模一样，当初上台时就是靠大量屠杀与极端手法站稳脚步，下台就是全族被灭，那么是中国人被消灭还是红色天龙人被消灭，从他们的角度来看一目了然，普通民众也很清楚，但因为宣传和历史的被模糊，再加上海外民运水平不足产生的矛盾，让事实无法被统一口径的去让人了解。</p>
+
+<p>在未来，我们甚至找不到任何办法让中国权贵门阀当局和平下台，也就是囚徒困境，即便你可以做出承诺说不追究六四责任，对方的思维逻辑里是能消灭你获得权贵阶级的身份，就绝对不会有另外一种尝试，他们的逻辑还很老旧，延续了旧时代里的封建式权斗逻辑，而这次没锅可以甩，打绝对意识形态的人被他们和改革派联合拉下马，改革派又跟他们分道扬镳后被军事政变消灭，那结果显而易见了。</p>
+
+<p>六四让中国失去了政府合法性，舆情意义上的与选票意义上的。</p>
+
+<h3 id="22-关于制止动乱和平息反革命暴乱的情况报告1989年6月30日-submitted-on-2019-05-31-0911520800">22: <a href="https://old.reddit.com/r/China_irl/comments/bv170n/关于制止动乱和平息反革命暴乱的情况报告1989年6月30日/">关于制止动乱和平息反革命暴乱的情况报告（1989年6月30日）</a>, submitted on 2019-05-31 09:11:52+08:00.</h3>
+
+<p>—– <strong>22.1</strong> —–2019-06-13 09:38:32+08:00:</p>
+
+<p>因为六四清场是邓小平、陈云和李先念带头发动的军事政变，杀人就是目的。</p>
+
+<p>是要先发制人消灭改革派，最后成功了，然后国内掩盖真相制造认知偏差，以至于尽管认为六四是错的人，也忽视了六四是一场有预谋的军事政变的结果</p>
+
+<h3 id="23-e3-expectations-submitted-on-2019-05-31-2232550800">23: <a href="https://old.reddit.com/r/ValveIndex/comments/bv88ru/e3_expectations/">E3 Expectations</a>, submitted on 2019-05-31 22:32:55+08:00.</h3>
+
+<p>—– <strong>23.1</strong> —–2019-06-01 18:23:00+08:00:</p>
+
+<p>If valve show new game in E3 I will eat my vive pro</p>
+
+<h3 id="24-why-were-the-index-controllers-originally-called-knuckles-submitted-on-2019-06-01-2041250800">24: <a href="https://old.reddit.com/r/ValveIndex/comments/bvke8k/why_were_the_index_controllers_originally_called/">Why were the Index Controllers originally called “knuckles”?</a>, submitted on 2019-06-01 20:41:25+08:00.</h3>
+
+<p>—– <strong>24.1</strong> —–2019-06-03 05:10:55+08:00:</p>
+
+<p>Because valve kno da wae</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2019-06-09</time>
+        <a href="https://nodebe4.github.io/opinion/2019-06-09/Spinkcat/">
+          Spinkcat在2019-06-03~2019-06-09的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-06-04</time>
+        <a href="https://nodebe4.github.io/opinion/2019-06-04/Yvan888/">
+          Yvan888在2019-06-03~2019-06-09的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-05-27</time>
+        <a href="https://nodebe4.github.io/opinion/2019-05-27/Yvan888/">
+          Yvan888在2019-05-27~2019-06-02的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-05-22</time>
+        <a href="https://nodebe4.github.io/opinion/2019-05-22/Spinkcat/">
+          Spinkcat在2019-05-20~2019-05-26的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2019-05-31/%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6%E6%89%B9%E5%88%A4%E5%A4%A7%E7%BA%B2%E5%BA%8F%E8%A8%80/">
+            前一篇： 《政治经济学批判大纲序言》 
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2019-06-01/%E4%B8%AD%E8%AF%84%E5%91%A8%E5%88%8A-%E7%AC%AC111%E6%9C%9F/">
+            後一篇：《中评周刊》第111期
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2019-05-31/%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6%E6%89%B9%E5%88%A4%E5%A4%A7%E7%BA%B2%E5%BA%8F%E8%A8%80/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2019-06-01/%E4%B8%AD%E8%AF%84%E5%91%A8%E5%88%8A-%E7%AC%AC111%E6%9C%9F/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2019-06-04/Yvan888/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2019-05-27/Yvan888/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2019-05-31/%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6%E6%89%B9%E5%88%A4%E5%A4%A7%E7%BA%B2%E5%BA%8F%E8%A8%80/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2019-06-01/%E4%B8%AD%E8%AF%84%E5%91%A8%E5%88%8A-%E7%AC%AC111%E6%9C%9F/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2019-06-04/Yvan888/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2019-05-27/Yvan888/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

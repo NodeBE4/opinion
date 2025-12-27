@@ -1,0 +1,2873 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>theoryofdoom在2022-01-03~2022-01-09的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="theoryofdoom在2022-01-03~2022-01-09的言论" />
+    <meta property="twitter:title" content="theoryofdoom在2022-01-03~2022-01-09的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FCoronavirusIllinois%2Fcomments%2Frulf6b%2Fcdc_considering_testing_guidelines_for_the%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/CoronavirusIllinois/comments/rulf6b/cdc_considering_testing_guidelines_for_the/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/CoronavirusIllinois/comments/rulf6b/cdc_considering_testing_guidelines_for_the/&text=theoryofdoom在2022-01-03~2022-01-09的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/CoronavirusIllinois/comments/rulf6b/cdc_considering_testing_guidelines_for_the/&title=theoryofdoom在2022-01-03~2022-01-09的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/CoronavirusIllinois/comments/rulf6b/cdc_considering_testing_guidelines_for_the/&title=theoryofdoom在2022-01-03~2022-01-09的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=theoryofdoom在2022-01-03~2022-01-09的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/CoronavirusIllinois/comments/rulf6b/cdc_considering_testing_guidelines_for_the/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/CoronavirusIllinois/comments/rulf6b/cdc_considering_testing_guidelines_for_the/&title=theoryofdoom在2022-01-03~2022-01-09的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=theoryofdoom在2022-01-03~2022-01-09的言论&url=https://old.reddit.com/r/CoronavirusIllinois/comments/rulf6b/cdc_considering_testing_guidelines_for_the/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>theoryofdoom在2022-01-03~2022-01-09的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-01-09
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: theoryofdoom</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/rulf6b/cdc_considering_testing_guidelines_for_the/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#4-cdc-considering-testing-guidelines-for-the-asymptomatic-fauci-says-submitted-on-2022-01-03-0635140800" id="markdown-toc-4-cdc-considering-testing-guidelines-for-the-asymptomatic-fauci-says-submitted-on-2022-01-03-0635140800">4: CDC considering testing guidelines for the asymptomatic, Fauci says, submitted on 2022-01-03 06:35:14+08:00.</a></li>
+  <li><a href="#5-biden-reaffirms-support-for-ukraine-in-phone-call-with-president-submitted-on-2022-01-03-1028020800" id="markdown-toc-5-biden-reaffirms-support-for-ukraine-in-phone-call-with-president-submitted-on-2022-01-03-1028020800">5: Biden reaffirms support for Ukraine in phone call with president, submitted on 2022-01-03 10:28:02+08:00.</a></li>
+  <li><a href="#6-aoc-ragebait-pt-2-submitted-on-2022-01-04-0008030800" id="markdown-toc-6-aoc-ragebait-pt-2-submitted-on-2022-01-04-0008030800">6: AOC ragebait pt. 2, submitted on 2022-01-04 00:08:03+08:00.</a></li>
+  <li><a href="#7-unofficial-daily-update-for-2021-12-31-31461-new-cases-submitted-on-2022-01-04-0201340800" id="markdown-toc-7-unofficial-daily-update-for-2021-12-31-31461-new-cases-submitted-on-2022-01-04-0201340800">7: Unofficial Daily Update for 2021-12-31. 31461 New Cases., submitted on 2022-01-04 02:01:34+08:00.</a></li>
+  <li><a href="#8-chicago-mayor-lori-lightfoot-aims-to-avoid-another-covid-lockdown-but-wont-take-that-off-the-table-as-omicron-spreads-submitted-on-2022-01-04-0228270800" id="markdown-toc-8-chicago-mayor-lori-lightfoot-aims-to-avoid-another-covid-lockdown-but-wont-take-that-off-the-table-as-omicron-spreads-submitted-on-2022-01-04-0228270800">8: Chicago Mayor Lori Lightfoot aims to avoid another Covid lockdown, but won’t ‘take that off the table’ as omicron spreads, submitted on 2022-01-04 02:28:27+08:00.</a></li>
+  <li><a href="#9-covid-19-hospitalizations-in-illinois-surpass-pandemic-peak-as-surge-continues-submitted-on-2022-01-04-0251490800" id="markdown-toc-9-covid-19-hospitalizations-in-illinois-surpass-pandemic-peak-as-surge-continues-submitted-on-2022-01-04-0251490800">9: COVID-19 hospitalizations in Illinois surpass pandemic peak as surge continues, submitted on 2022-01-04 02:51:49+08:00.</a></li>
+  <li><a href="#10-police-find-stolen-camaro-and-attempt-to-arrest-vehicles-occupants-outside-passengers-house-karen-comes-out-of-the-house-with-daughter--unleashed-dog-tries-to-take-over-and-send-son-inside-while-he-threatens-to-kill-all-the-officers-submitted-on-2022-01-04-0909550800" id="markdown-toc-10-police-find-stolen-camaro-and-attempt-to-arrest-vehicles-occupants-outside-passengers-house-karen-comes-out-of-the-house-with-daughter--unleashed-dog-tries-to-take-over-and-send-son-inside-while-he-threatens-to-kill-all-the-officers-submitted-on-2022-01-04-0909550800">10: Police find stolen Camaro and attempt to arrest vehicle’s occupants outside passenger’s house. Karen comes out of the house with daughter + unleashed dog, tries to take over and send son inside while he threatens to kill all the officers., submitted on 2022-01-04 09:09:55+08:00.</a></li>
+  <li><a href="#11-speaks-for-itself-submitted-on-2022-01-04-1457450800" id="markdown-toc-11-speaks-for-itself-submitted-on-2022-01-04-1457450800">11: Speaks for itself., submitted on 2022-01-04 14:57:45+08:00.</a></li>
+  <li><a href="#12-the-us-is-naive-about-russia-ukraine-cant-afford-to-be-submitted-on-2022-01-04-2102540800" id="markdown-toc-12-the-us-is-naive-about-russia-ukraine-cant-afford-to-be-submitted-on-2022-01-04-2102540800">12: The U.S. Is Naive About Russia. Ukraine Can’t Afford to Be., submitted on 2022-01-04 21:02:54+08:00.</a></li>
+  <li><a href="#13-unofficial-daily-update-for-2022-01-04-24423-new-cases-submitted-on-2022-01-05-0400310800" id="markdown-toc-13-unofficial-daily-update-for-2022-01-04-24423-new-cases-submitted-on-2022-01-05-0400310800">13: Unofficial Daily Update for 2022-01-04. 24423 New Cases., submitted on 2022-01-05 04:00:31+08:00.</a></li>
+  <li><a href="#14-chicago-teachers-union-cps-at-odds-over-whether-to-return-to-remote-learning---88-of-the-members-of-the-house-of-delegates-voted-in-favor-of-switching-to-remote-learning-beginning-on-wednesday-the-measure-will-now-go-to-the-full-members-of-the-ctu-submitted-on-2022-01-05-0927140800" id="markdown-toc-14-chicago-teachers-union-cps-at-odds-over-whether-to-return-to-remote-learning---88-of-the-members-of-the-house-of-delegates-voted-in-favor-of-switching-to-remote-learning-beginning-on-wednesday-the-measure-will-now-go-to-the-full-members-of-the-ctu-submitted-on-2022-01-05-0927140800">14: Chicago Teachers Union, CPS at Odds Over Whether to Return to Remote Learning - 88% of the members of the House of Delegates voted in favor of switching to remote learning beginning on Wednesday. The measure will now go to the full members of the CTU, submitted on 2022-01-05 09:27:14+08:00.</a></li>
+  <li><a href="#15-got-accepted-into-my-college-debate-team-because-they-think-im-a-neoliberal-submitted-on-2022-01-05-0929360800" id="markdown-toc-15-got-accepted-into-my-college-debate-team-because-they-think-im-a-neoliberal-submitted-on-2022-01-05-0929360800">15: Got accepted into my college debate team because they think I’m a neoliberal., submitted on 2022-01-05 09:29:36+08:00.</a></li>
+  <li><a href="#16-psaki-schools-can-open-safely-including-in-chicago-submitted-on-2022-01-06-0339060800" id="markdown-toc-16-psaki-schools-can-open-safely-including-in-chicago-submitted-on-2022-01-06-0339060800">16: Psaki: Schools can open safely ‘including in Chicago’, submitted on 2022-01-06 03:39:06+08:00.</a></li>
+  <li><a href="#17-whats-going-on-in-kazakhstan-submitted-on-2022-01-06-1316490800" id="markdown-toc-17-whats-going-on-in-kazakhstan-submitted-on-2022-01-06-1316490800">17: What’s going on in Kazakhstan?, submitted on 2022-01-06 13:16:49+08:00.</a></li>
+  <li><a href="#18-meta-a-clarification-on-who-can-submit-posts-and-the-state-of-mod-communication-submitted-on-2022-01-06-1813130800" id="markdown-toc-18-meta-a-clarification-on-who-can-submit-posts-and-the-state-of-mod-communication-submitted-on-2022-01-06-1813130800">18: [Meta] A Clarification on who can submit posts, and the State of Mod Communication?, submitted on 2022-01-06 18:13:13+08:00.</a></li>
+  <li><a href="#19-what-are-unethical-practices-schools-do-submitted-on-2022-01-06-2305050800" id="markdown-toc-19-what-are-unethical-practices-schools-do-submitted-on-2022-01-06-2305050800">19: What are unethical practices schools do?, submitted on 2022-01-06 23:05:05+08:00.</a></li>
+  <li><a href="#20-putin-wants-to-rewrite-the-end-of-the-cold-war-submitted-on-2022-01-08-1022470800" id="markdown-toc-20-putin-wants-to-rewrite-the-end-of-the-cold-war-submitted-on-2022-01-08-1022470800">20: Putin Wants to Rewrite the End of the Cold War, submitted on 2022-01-08 10:22:47+08:00.</a></li>
+  <li><a href="#21-neo-nazi-group-patriot-front-tries-to-take-part-in-the-anti-abortion-march-for-life-rally-and-are-immediately-met-with-hostility-watch-how-frightened-they-get-at-some-boomers-yelling-at-them-submitted-on-2022-01-09-1034130800" id="markdown-toc-21-neo-nazi-group-patriot-front-tries-to-take-part-in-the-anti-abortion-march-for-life-rally-and-are-immediately-met-with-hostility-watch-how-frightened-they-get-at-some-boomers-yelling-at-them-submitted-on-2022-01-09-1034130800">21: Neo Nazi group Patriot Front tries to take part in the anti abortion “March for Life” rally and are immediately met with hostility. Watch how frightened they get at some boomers yelling at them., submitted on 2022-01-09 10:34:13+08:00.</a></li>
+</ul>
+
+<h3 id="4-cdc-considering-testing-guidelines-for-the-asymptomatic-fauci-says-submitted-on-2022-01-03-0635140800">4: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/rulf6b/cdc_considering_testing_guidelines_for_the/">CDC considering testing guidelines for the asymptomatic, Fauci says</a>, submitted on 2022-01-03 06:35:14+08:00.</h3>
+
+<p>—– <strong>4.1</strong> —–2022-01-03 13:00:37+08:00:</p>
+
+<blockquote>
+  <p>I asked you a question yesterday and you didn’t answer me.</p>
+</blockquote>
+
+<p>Your point?</p>
+
+<h3 id="5-biden-reaffirms-support-for-ukraine-in-phone-call-with-president-submitted-on-2022-01-03-1028020800">5: <a href="https://old.reddit.com/r/geopolitics/comments/ruqj3e/biden_reaffirms_support_for_ukraine_in_phone_call/">Biden reaffirms support for Ukraine in phone call with president</a>, submitted on 2022-01-03 10:28:02+08:00.</h3>
+
+<p>—– <strong>5.1</strong> —–2022-01-04 08:58:28+08:00:</p>
+
+<blockquote>
+  <p>Economic only.</p>
+</blockquote>
+
+<p>That is incorrect.  Realize that “not sending American troops” does not mean “economic only.”</p>
+
+<p>The threat of sanctions does not mean that sanctions are the only thing the Biden administration is considering.  For example, <a href="https://www.nbcnews.com/politics/white-house/biden-warn-putin-very-real-costs-should-russia-take-military-n1285425">according to public information</a> the Biden administration declined to say whether the U.S. would take direct military action against Russia if there were an invasion, though has made clear that the focus is on using other diplomatic methods such as sanctions for now.</p>
+
+<p>Further, the mere threat of “economic consequences like none [Putin] has ever seen,” in no way precludes other military action, like military aid.  For example, <a href="https://www.wsj.com/articles/white-house-considers-sending-ukraine-military-equipment-once-bound-for-afghanistan-11639757332">according to public information</a> the Biden administration is actively considering sending Ukraine military equipment once bound for Afghanistan.</p>
+
+<p>It is unclear why anyone could reach the conclusion that only economic sanctions could ever be on the table, beyond a lack of understanding of the range of options before the president in dealing with these kinds of problems (e.g., military aid to Ukraine, non-lethal military support, logistical/technical support, military intervention not involving boots on the ground in a combat capacity, etc.).</p>
+
+<blockquote>
+  <p>Biden has publicly taken US troops in Ukraine off the table.</p>
+</blockquote>
+
+<p>It is correct that in early December 2021, Biden stated that putting American troops on the ground in Ukraine in the event of a Russian invasion was “<a href="https://www.bbc.com/news/world-europe-59582013">not on the table</a>.”</p>
+
+<p>But “not on the table,” does not mean “we will never commit any military resources” or “the limit of our commitment now and forever is economic sanctions.”  It means the United States will try <a href="https://www.nbcnews.com/politics/white-house/biden-warn-putin-very-real-costs-should-russia-take-military-n1285425">other things</a> first, before escalating:</p>
+
+<blockquote>
+  <p>“The United States is not seeking to end up in a circumstance in which the focus of our countermeasures is directly from American military force as opposed to a combination of support for the Ukrainian military, strong economic countermeasures and the substantial increase in support and capability to our NATO allies.”</p>
+</blockquote>
+
+<p>Even if Biden had at some point said “we are not willing to put American military in the line of fire over Ukraine,” which he has not, to think that position could never change is premature, if not naive.  That the White House could change its rhetorical posture is readily foreseeable, due to changed circumstances, failed diplomatic efforts or for any other reason.</p>
+
+<p>The correct reading of Biden’s statements on this and other matters is that he’s trying to create space for diplomatic options to succeed, resolve in good faith and the like.  Not tie one hand behind his back in bringing this to a resolution.  To understand this, consider the alternative world where Biden says to the world “any Russian invasion of Ukraine will be met with an American military response.”  In game theoretic terms, we call this <a href="https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/game-theory/chicken.html">playing chicken</a> when you <a href="http://globaloctopus.blogspot.com/2007/02/throwing-steering-wheel-out-window.html">throw the steering wheel out the window</a> where your opponent can see it.  The problem is that if Putin thinks Biden is bluffing and doesn’t turn off then both the United States and Russia are at war.</p>
+
+<p>To make the matter more complicated, consider the world in which if Biden threatens direct military confrontation in defense of Ukraine, Putin doesn’t defer and the United States and Russia are at war.  By doing so, Biden <a href="https://shape.nato.int/page11283634/knowing-nato/episodes/collective-defence">unilaterally commits the rest of NATO to a war against Russia</a> in defense of a non-NATO member in the moment of Russian military engagement against the United States.  In that case, it becomes in Russia’s immediate interest to attack the United States on the expectation that NATO members will not meet their obligations under Article 5 in the face of unilateral American action.  What then for NATO?  Obviously, Putin gets what he wants.  That’s why Biden can’t just throw the steering wheel out the window.  More specifically, that’s why Biden is being circumspect in what he says and how he says it.</p>
+
+<p>Another thing to consider is how the Biden administration’s tone has changed over time in relation to Ukraine.  In early December, Biden said troops on the ground was not on the table.  But in late December, the Biden administration signalled it was considering military aid to Ukraine.  That is a material change in position, which rules out the broader reading of Biden’s words you proposed above.  All relevant Western stakeholders want this to be resolved without a military conflict between Russia and anyone.  Though none want to contend the world where Putin’s further pursuit of lebensraum is met with no resistance, again in view of <a href="https://www.reddit.com/r/geopolitics/comments/rbkr9q/why_ukraine_matters/">what is at stake in Ukraine</a>.</p>
+
+<p>—– <strong>5.2</strong> —–2022-01-04 08:59:59+08:00:</p>
+
+<blockquote>
+  <p>That will never happen because Europe depends on it.</p>
+</blockquote>
+
+<p>Not all of Europe.  But Germany certainly does, which is why sanctions with teeth on Russia are illusory.</p>
+
+<p>—– <strong>5.3</strong> —–2022-01-04 09:01:50+08:00:</p>
+
+<blockquote>
+  <p>There will be no direct military involvement. It has been ruled out.</p>
+</blockquote>
+
+<p>According to what information?</p>
+
+<p>—– <strong>5.4</strong> —–2022-01-04 09:04:49+08:00:</p>
+
+<blockquote>
+  <p>I read somewhere that the reason Biden refuses to place troops in Ukraine is not because of a lack of will to protect Ukraine (though that is important), but to force Putin to make the next move. Putin wants the West to overreact and escalate the conflict.</p>
+</blockquote>
+
+<p>I <a href="https://www.reddit.com/r/geopolitics/comments/ruqj3e/biden_reaffirms_support_for_ukraine_in_phone_call/hr5ejwv/">agree</a>.</p>
+
+<p>—– <strong>5.5</strong> —–2022-01-04 09:40:22+08:00:</p>
+
+<blockquote>
+  <p>Real question - are drone strikes off the table too? Those wouldn’t involve US troops per se.</p>
+</blockquote>
+
+<p>There is no reason whatsoever to think so.</p>
+
+<p>—– <strong>5.6</strong> —–2022-01-04 10:13:41+08:00:</p>
+
+<blockquote>
+  <p>NATO has every advantage in this play and Russia would lose no matter what the choice.</p>
+</blockquote>
+
+<p>That is a difficult proposition to defend in the abstract.  Advantage depends on a lot of things, from theater of conflict to political support domestically and among allies.  Advantage also depends on strategy, timing and execution.  It may likewise depend on what the adverse party’s goals actually are.</p>
+
+<p>War of any scale is never the end.  It is always the means.  War is no more than a continuation of politics by means of violence.  This is the problem with a lot of the discussion I’ve seen: people limit their understanding of these issues to what is right in front of them and do not see the bigger picture.  No consideration is paid to the question of what Putin is trying to accomplish here; everyone just assumes he’s trying to invade Ukraine, as if that were the goal.</p>
+
+<p>So what, then, are the possible futures in which Putin wins?  Here are the most likely:</p>
+
+<ul>
+  <li>
+    <p>Diplomatic victory, without military conflict.  Any concession from NATO on any front after Putin massed troops on Ukraine’s border is a victory for Putin.  By massing troops on the border with Ukraine, Putin threatens invasion.  If that threat results in concessions from NATO on European security, the Putin wins a <a href="https://www.politico.eu/article/russia-nato-vladimir-putin-ukraine/">diplomatic victory</a> as the firefighter to his own arson.  While not the direct victory Putin may desire most, Putin gains the day by extortion.  Obviously in that case, Putin is incentivized to further shake down NATO, to the extent of their willingness to yield in lieu of war.  This undermines NATO to Russia’s benefit.</p>
+  </li>
+  <li>
+    <p>Diplomatic victory, after limited military engagement with the United States.  This scenario unfolds in two ways: in the absence of broader NATO support for American action, (1) Biden commits to military defense of NATO and does so in anticipation of a Russian invasion, which Putin answers with an unprovoked attack against the American troops in Ukraine; or (2) following limited military engagement with Ukraine, Biden places American troops in Ukraine which Russia fires on.  In either case, where Biden acts unilaterally he does so at the risk of Article 5’s integrity.  Putin expects that if Biden acts, he will do so unilaterally.  Though it is unclear whether attitudes in Europe will change, when confronted with the actual prospect of a Russian invasion.  This strategy undermines European collective security and stability, at NATO’s expense and to Russia’s benefit.  In my opinion, this is Putin’s most desirable scenario because of the damage it does to NATO collective defense.</p>
+  </li>
+  <li>
+    <p>Military victory, after limited military engagement with Ukraine only (whether or not Ukraine is aided by any NATO member).  This scenario is the most likely outcome of any military conflict between Russia and Ukraine.  The Russian army’s size and scope of capability is overwhelmingly superior to Ukraine’s.  There is no scenario in which Ukraine prevails against the Russian military.  Whether redrawn borders are recognized or not is irrelevant.  In this case, Putin’s optimal strategy is to further invade, do so gradually and refrain from the kinds of war crimes that might change European sentimentalities in favor of military retaliation.  This strategy likewise undermines European collective security and stability, at NATO’s expense and to Russia’s benefit.  In my opinion, this is Putin’s second most desireable scenario, because of the extent to which it would benefit him politically (foreign policy victory which would play well in Russian domestic politics) while undermining the credibility of American leadership and security commitments in nuclear non-proliferation contexts (such as with the Budapest Memorandum).</p>
+  </li>
+</ul>
+
+<p>—– <strong>5.7</strong> —–2022-01-04 10:19:11+08:00:</p>
+
+<p>Did you read what Biden <a href="https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/12/08/remarks-by-president-biden-before-marine-one-departure-10/">actually said</a>?</p>
+
+<blockquote>
+  <p>Q    Can we rule out boots on the ground, sir — putting U.S. troops on the ground?</p>
+
+  <p>THE PRESIDENT:  Yes.  In terms of in Ukraine?</p>
+
+  <p>Q    Senator Tim Kaine, Democrats are talking about could U.S. troops be needed on the ground in or around Ukraine to stop an invasion.  Will you rule that out, or is that on the table?</p>
+
+  <p>THE PRESIDENT:  That is not on the table.  What is not — they are not —</p>
+
+  <p>We have a moral obligation and a legal obligation to our NATO Allies, if they were to attack under Article Five.  It’s a sacred obligation.</p>
+
+  <p>That obligation does not extend to NATO — I mean, to Ukraine.  But it would depend upon what the rest of the NATO countries are willing to do as well.</p>
+
+  <p>But the idea the United States is going to unilaterally use force to confront Russia from invading Ukraine is not on — in the cards right now.</p>
+</blockquote>
+
+<p>Explain why you think that means no direct military involvement, now or ever.</p>
+
+<p>—– <strong>5.8</strong> —–2022-01-04 10:49:06+08:00:</p>
+
+<p>Identify with particularity what, if any, evidence you have to support those claims.  Because as it stands, repeating the same thing again isn’t support.</p>
+
+<blockquote>
+  <p>There is no planning, troop movements or anything related to defending Ukraine.</p>
+</blockquote>
+
+<p><a href="https://www.military.com/daily-news/2021/12/08/how-us-military-could-mobilize-if-russia-invades-ukraine.html">Not really</a>, including in view of <a href="https://www.military.com/daily-news/2021/11/08/artillery-command-latest-unit-relaunch-growing-europe-mission.html">recent developments</a>, like reactivation of the 56th artillery command.</p>
+
+<p>But as indicated above, Biden did not say military action is off the table now and forever in response to any further Russian invasion.  Unilateral military action that would break Article 5 is off the table, but <a href="https://www.reddit.com/r/geopolitics/comments/ruqj3e/biden_reaffirms_support_for_ukraine_in_phone_call/hr5ejwv/">that’s it</a>.</p>
+
+<p>—– <strong>5.9</strong> —–2022-01-04 13:08:43+08:00:</p>
+
+<p>So you do not think that military action is off the table, forever?</p>
+
+<p>—– <strong>5.10</strong> —–2022-01-04 13:36:06+08:00:</p>
+
+<blockquote>
+  <p>One thing that leaves much to be desired is the nature of this support.</p>
+</blockquote>
+
+<p>That’s the point.  Biden is signalling commitment to an end, not outlining means to that end.</p>
+
+<p>—– <strong>5.11</strong> —–2022-01-04 13:39:39+08:00:</p>
+
+<p>Biden has not said “economic only.”   Here is what Biden <a href="https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/12/08/remarks-by-president-biden-before-marine-one-departure-10/">actually said</a>:</p>
+
+<blockquote>
+  <p>Q    Can we rule out boots on the ground, sir — putting U.S. troops on the ground?</p>
+
+  <p>THE PRESIDENT:  Yes.  In terms of in Ukraine?</p>
+
+  <p>Q    Senator Tim Kaine, Democrats are talking about could U.S. troops be needed on the ground in or around Ukraine to stop an invasion.  Will you rule that out, or is that on the table?</p>
+
+  <p>THE PRESIDENT:  That is not on the table.  What is not — they are not —</p>
+
+  <p>We have a moral obligation and a legal obligation to our NATO Allies, if they were to attack under Article Five.  It’s a sacred obligation.</p>
+
+  <p>That obligation does not extend to NATO — I mean, to Ukraine.  But it would depend upon what the rest of the NATO countries are willing to do as well.</p>
+
+  <p>But the idea the United States is going to unilaterally use force to confront Russia from invading Ukraine is not on — in the cards right now.</p>
+</blockquote>
+
+<p>Unilateral American military action that would break Article 5 is off the table, but <a href="https://www.reddit.com/r/geopolitics/comments/ruqj3e/biden_reaffirms_support_for_ukraine_in_phone_call/hr5ejwv/">that’s it</a>.</p>
+
+<p>—– <strong>5.12</strong> —–2022-01-26 11:48:18+08:00:</p>
+
+<blockquote>
+  <p>In the context of the current crisis in Ukraine military option is off the table.</p>
+</blockquote>
+
+<p><a href="https://www.politico.com/news/2022/01/25/russia-us-tensions-troops-ukraine-00001778">Hardly</a>.</p>
+
+<h3 id="6-aoc-ragebait-pt-2-submitted-on-2022-01-04-0008030800">6: <a href="https://old.reddit.com/r/stupidpol/comments/rv53mj/aoc_ragebait_pt_2/">AOC ragebait pt. 2</a>, submitted on 2022-01-04 00:08:03+08:00.</h3>
+
+<p>—– <strong>6.1</strong> —–2022-01-04 10:29:50+08:00:</p>
+
+<blockquote>
+  <p>This is kindergarten level discourse</p>
+</blockquote>
+
+<p>Mean Girls is what came to mind for me.  And Idiocracy.</p>
+
+<p>—– <strong>6.2</strong> —–2022-01-04 10:31:39+08:00:</p>
+
+<p>Bernie Sanders is an establishment tool, as he amply demonstrates in his presidential efforts.</p>
+
+<h3 id="7-unofficial-daily-update-for-2021-12-31-31461-new-cases-submitted-on-2022-01-04-0201340800">7: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/rv7r5d/unofficial_daily_update_for_20211231_31461_new/">Unofficial Daily Update for 2021-12-31. 31461 New Cases.</a>, submitted on 2022-01-04 02:01:34+08:00.</h3>
+
+<p>—– <strong>7.1</strong> —–2022-01-04 06:00:08+08:00:</p>
+
+<blockquote>
+  <p>After almost 2 years, IDPH still does not separate this data</p>
+</blockquote>
+
+<p>All patients admitted to any hospital in this state are tested for COVID-19, whether they sought treatment for COVID-19 infection or not.</p>
+
+<p>The default assumption should be that, in the absence of evidence that medical treatment was sought for or in connection with COVID-19 infection, any positive test result is incidental to the reason for admission.</p>
+
+<p>By now, this is common knowledge to anyone even conversant with the data (although <a href="https://www.reddit.com/r/CoronavirusIllinois/comments/pnr55c/comprehensive_clear_evidencebased_explanations/hct6eeb/">some</a> of us have been making that point since the start, as you very rightly note).</p>
+
+<p>—– <strong>7.2</strong> —–2022-01-04 06:01:12+08:00:</p>
+
+<p>Yes.  All hospitals test every admitted patient, without regard to the reason for their admission.  That means that anyone in any hospital in this country for any reason has been tested for COVID prior thereto.</p>
+
+<p>—– <strong>7.3</strong> —–2022-01-04 06:03:54+08:00:</p>
+
+<p>The old familiar adage: just because you’re doing something, doesn’t mean you’re making the situation better.</p>
+
+<p>—– <strong>7.4</strong> —–2022-01-04 09:17:33+08:00:</p>
+
+<blockquote>
+  <p>true case count is probably considerably higher with unreported home tests</p>
+</blockquote>
+
+<p>See <a href="https://youtu.be/Aktzp4jSXY8?t=69">relevant context</a>.</p>
+
+<p>—– <strong>7.5</strong> —–2022-01-04 10:23:12+08:00:</p>
+
+<p>If that is true, your hospital is in violation of CDC guidance and best practices on hospital admissions.</p>
+
+<p>—– <strong>7.6</strong> —–2022-01-04 13:18:19+08:00:</p>
+
+<p>That is fascinating, and inconsistent with the stated policies of every hospital in the Chicagoland area relating to hospital admissions.  Though it’s not surprising from an institutional perspective.  Cutting corners is nothing new.  In hospitals and in life.</p>
+
+<h3 id="8-chicago-mayor-lori-lightfoot-aims-to-avoid-another-covid-lockdown-but-wont-take-that-off-the-table-as-omicron-spreads-submitted-on-2022-01-04-0228270800">8: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/rv8due/chicago_mayor_lori_lightfoot_aims_to_avoid/">Chicago Mayor Lori Lightfoot aims to avoid another Covid lockdown, but won’t ‘take that off the table’ as omicron spreads</a>, submitted on 2022-01-04 02:28:27+08:00.</h3>
+
+<p>—– <strong>8.1</strong> —–2022-01-04 09:08:55+08:00:</p>
+
+<p>I have given up on predicting what she does next.  I thought she would never implement a vaccine mandate, but clearly I was wrong.  But when Preckwinkle challenges her, this time my vote will be different.</p>
+
+<p>—– <strong>8.2</strong> —–2022-01-05 05:27:38+08:00:</p>
+
+<blockquote>
+  <p>I’m really hoping people can look the other way and vote for a Republican governor.</p>
+</blockquote>
+
+<p>I struggle to envision the world where JB is re-elected.</p>
+
+<p>—– <strong>8.3</strong> —–2022-01-05 05:34:52+08:00:</p>
+
+<blockquote>
+  <p>It’s really hard to say how much tolerance people will have for the mask mandates.</p>
+</blockquote>
+
+<p>Generally, masks are a strictly partisan issue.  If you’re on the right, you oppose them.  If you’re on the left, you favor them.  Of course there are exceptions to that rule, but we all understand this. After all, if anyone questions whether masks are effective for any benefit related to COVID, people default to the assumption that any such argument could only be made for political reasons.  Same for potential complications associated with mask use, like eye infections.</p>
+
+<p>I assume these conversations take place at the political level because that’s the extent of what most people are capable of.  Most people who have opinions on that issue couldn’t even tell you how medical devices in this country are regulated, what their premarket approval process is or what agency even requires the same.  Likewise, even fewer people could even explain in what “fluid dynamics” even refers to.</p>
+
+<p>In my opinion, it’s fine for people to have opinions without regard to how sophisticated their underlying reasons are.  But when I see people engage in self-evidently antisocial behaviour over masks — or anything else COVID related — it’s disheartening.</p>
+
+<p>—– <strong>8.4</strong> —–2022-01-05 05:36:00+08:00:</p>
+
+<blockquote>
+  <p>Greatest mayor ever. Beetlejuice for president</p>
+</blockquote>
+
+<p>Low effort.  Removed.</p>
+
+<p>—– <strong>8.5</strong> —–2022-01-05 05:37:08+08:00:</p>
+
+<blockquote>
+  <p>If she were solely looking at case counts, we’d be in a shutdown already.</p>
+</blockquote>
+
+<p>Why do you think that?</p>
+
+<p>—– <strong>8.6</strong> —–2022-01-05 06:33:19+08:00:</p>
+
+<p>But doesn’t that assume that hospitalizations for omicron occur at the same rates as prior variants?</p>
+
+<p>—– <strong>8.7</strong> —–2022-01-05 08:38:33+08:00:</p>
+
+<p>I guess so.  What was your point?</p>
+
+<h3 id="9-covid-19-hospitalizations-in-illinois-surpass-pandemic-peak-as-surge-continues-submitted-on-2022-01-04-0251490800">9: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/rv8x7k/covid19_hospitalizations_in_illinois_surpass/">COVID-19 hospitalizations in Illinois surpass pandemic peak as surge continues</a>, submitted on 2022-01-04 02:51:49+08:00.</h3>
+
+<p>—– <strong>9.1</strong> —–2022-01-04 09:16:08+08:00:</p>
+
+<p>Headlines like this should be taken with a grain of salt.  For example, Fauci has <a href="https://youtu.be/Aktzp4jSXY8?t=69">correctly explained</a> what these hospitalization figures mean.  Same for cases.</p>
+
+<h3 id="10-police-find-stolen-camaro-and-attempt-to-arrest-vehicles-occupants-outside-passengers-house-karen-comes-out-of-the-house-with-daughter--unleashed-dog-tries-to-take-over-and-send-son-inside-while-he-threatens-to-kill-all-the-officers-submitted-on-2022-01-04-0909550800">10: <a href="https://old.reddit.com/r/PublicFreakout/comments/rvhg3z/police_find_stolen_camaro_and_attempt_to_arrest/">Police find stolen Camaro and attempt to arrest vehicle’s occupants outside passenger’s house. Karen comes out of the house with daughter + unleashed dog, tries to take over and send son inside while he threatens to kill all the officers.</a>, submitted on 2022-01-04 09:09:55+08:00.</h3>
+
+<p>—– <strong>10.1</strong> —–2022-01-04 13:23:56+08:00:</p>
+
+<blockquote>
+  <p>Of all the things happening, I was most concerned with the dog being shot… The only reason why I watched the whole thing.</p>
+</blockquote>
+
+<p>Same.  The people I have no use for, but I was really worried about that dog.</p>
+
+<h3 id="11-speaks-for-itself-submitted-on-2022-01-04-1457450800">11: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/rvo7q3/speaks_for_itself/">Speaks for itself.</a>, submitted on 2022-01-04 14:57:45+08:00.</h3>
+
+<p>—– <strong>11.1</strong> —–2022-01-05 05:23:53+08:00:</p>
+
+<p>Removed.  Rule 1.</p>
+
+<h3 id="12-the-us-is-naive-about-russia-ukraine-cant-afford-to-be-submitted-on-2022-01-04-2102540800">12: <a href="https://old.reddit.com/r/geopolitics/comments/rvtwdf/the_us_is_naive_about_russia_ukraine_cant_afford/">The U.S. Is Naive About Russia. Ukraine Can’t Afford to Be.</a>, submitted on 2022-01-04 21:02:54+08:00.</h3>
+
+<p>—– <strong>12.1</strong> —–2022-01-04 21:10:47+08:00:</p>
+
+<p>Submission Statement: Since Putin invaded Georgia in 2008, Americans and Europeans have been caught by surprise in the face of Russian aggression in Europe, interference in the democratic process and efforts to undermine alliances that form the foundations of security and geopolitical stability in Europe.</p>
+
+<p>In this Atlantic article, Anne Applebaum argues that Western leaders can no longer afford to be naive about Russia or Putin’s intentions.  Applebaum considers <a href="http://en.kremlin.ru/events/president/news/66181">Putin’s rhetorical posture</a>.</p>
+
+<ul>
+  <li>
+    <p>For example, in an essay last summer Putin argued that “Russians and Ukrainians were one people – a single whole,” after having claimed that Ukraine was not a state as far back as 2008.  Yet with each passing year, Ukraine inches towards Europe, towards NATO, democracy and prosperity; and to that extent, Russia’s window of opportunity to act narrows.  In this way, Putin’s strategic approach is at once emotional, ideological and practical.  A free and prosperous Ukraine that stands independently from Moscow is not just a prospective NATO member, but an alternative to the status quo of Russian politics since the fall of the USSR.</p>
+  </li>
+  <li>
+    <p>Three categories of assessment form the basis of Washington’s threat assessment: (a) operational intelligence, such as satellite photos of military equipment and personnel massing at Ukraine’s border; (b) strategic intelligence, such as insight into the thinking of Kremlin actors; and (c) public behaviour of Russian diplomats and officials, including Putin, who have promulgated <a href="https://www.politico.eu/article/russia-us-mercenaries-plan-chemical-attack-ukraine/">fictions of NATO aggression</a> as a pretext to justify invasion.</p>
+  </li>
+</ul>
+
+<p>A European and American-aligned Ukraine is therefore an existential threat to Putin’s power in Russia.  For this reason among others, unlike prior instances of Russian military exercises on Ukraine’s border, the alarm bells are ringing louder in Washington than even in Kyiv.</p>
+
+<p>No Paywall: https://archive.fo/ZEziJ</p>
+
+<p>—– <strong>12.2</strong> —–2022-01-04 21:35:31+08:00:</p>
+
+<p>Context &amp; Further Consideration of Russian Intentions:</p>
+
+<ul>
+  <li>
+    <p><a href="https://www.ft.com/content/f3aaf2de-994d-4870-92ac-2953cf56414e">Financial Times</a>: Ukraine: what does Vladimir Putin want?</p>
+  </li>
+  <li>
+    <p><a href="https://www.atlanticcouncil.org/blogs/ukrainealert/europes-future-will-be-decided-in-ukraine/">Atlantic Council</a>: Europe’s future will be decided in Ukraine</p>
+  </li>
+  <li>
+    <p><a href="https://www.kyivpost.com/ukraine-politics/appeal-from-ukrainian-americans-to-president-biden.html">Kyiv Post</a>: Appeal from Ukrainian Americans to President Biden</p>
+  </li>
+  <li>
+    <p><a href="https://carnegieendowment.org/2021/11/12/ukraine-putin-s-unfinished-business-pub-85771">Carnegie Endowment for International Peace</a>: Ukraine: Putin’s Unfinished Business</p>
+  </li>
+  <li>
+    <p><a href="https://www.foreignaffairs.com/articles/russian-federation/2021-12-06/diplomacy-and-strategic-ambiguity-can-avert-crisis-ukraine">Foreign Affairs</a>: Diplomacy—and Strategic Ambiguity—Can Avert a Crisis in Ukraine</p>
+  </li>
+  <li>
+    <p><a href="https://www.wsj.com/articles/russias-military-buildup-near-ukraine-is-an-open-secret-11641292202">Wall Street Journal</a>: Russia’s Military Buildup Near Ukraine Is an Open Secret</p>
+  </li>
+  <li>
+    <p><a href="https://www.nytimes.com/2021/12/30/us/politics/biden-putin-ukraine-call.html">New York Times</a>: Putin Warns Biden of ‘Complete Rupture’ of U.S.-Russia Relationship Over Ukraine</p>
+  </li>
+  <li>
+    <p><a href="https://www.irishtimes.com/opinion/editorial/the-irish-times-view-on-tensions-over-ukraine-the-price-of-an-invasion-1.4767988">Irish Times</a>: The Irish Times view on tensions over Ukraine: the price of an invasion</p>
+  </li>
+  <li>
+    <p><a href="https://www.rferl.org/a/putin-historical-russia-soviet-breakup-ukraine/31606186.html">RFERL</a>: Putin Laments Soviet Breakup As Demise Of ‘Historical Russia,’ Amid Ukraine Fears</p>
+  </li>
+  <li>
+    <p><a href="https://www.barrons.com/news/us-vows-to-boost-military-presence-if-russia-attacks-ukraine-01638822608">Barrons</a>: US Vows To Boost Military Presence If Russia Attacks Ukraine</p>
+  </li>
+</ul>
+
+<p>—– <strong>12.3</strong> —–2022-01-05 05:50:03+08:00:</p>
+
+<blockquote>
+  <p>Can you explain why it’s an existential threat?</p>
+</blockquote>
+
+<p>A European aligned, free and democratic Ukraine is an alternative to the political status quo in Russia.  Putin’s concern is that Russians will start to ask themselves, “if it can happen there, why not here?”  Something like the <a href="https://www.reuters.com/article/idUSKBN29R10S">2021 riots in Moscow</a> might lead to exactly the kind of color revolutions Putin understands are the most direct and proximate threat to his power in Russia; that what happened to <a href="https://www.nytimes.com/2019/01/24/world/europe/viktor-yanukovych-russia-ukraine-treason.html">Yanukovych</a> might happen to him.</p>
+
+<p>—– <strong>12.4</strong> —–2022-01-05 05:52:02+08:00:</p>
+
+<blockquote>
+  <p>But Nato did expand outside of russian aggression?</p>
+</blockquote>
+
+<p>This narrative of NATO’s so called “expansion” is unavailing.  NATO is not some imperial force mounting against Russian interest.  It’s an alliance of peace that is defensive by nature.</p>
+
+<p>—– <strong>12.5</strong> —–2022-01-05 06:30:38+08:00:</p>
+
+<blockquote>
+  <p>From the point of view of Russia, it was NATO that violated stability and security in Europe. Namely, the unreasonable withdrawal of the United States from the ABM Treaty in 2004. It was a treaty that allowed to keep the world balance.</p>
+</blockquote>
+
+<p>Putin’s argument on the ABM is transparently disingenuous.  Bush withdrew with Putin’s personal acquiescence, in the wake of the events of September 11, 2001, to prosecute the war on terror.  He provided notice to all successors in interest to the Soviet Union, formally, per the ABM’s terms and specifically to a Vladimir Putin who George W. Bush then-regarded as a friend. Russian-American bilateral relations were at an all time high, as Bush and Putin even coordinated in Bush’s prosecuting the war on terror. To characterize Bush’s withdrawal as “unilateral” is in contravention of the historical record. Bush and Putin jointly agreed that Bush’s decision to withdraw would not, in any way, undermine the strength of a productive relationship or security commitments to one another.</p>
+
+<p>The ABM treaty was signed in 1972, between the United States and the Soviet Union. The Soviet Union does not exist now, and it did not exist in December 2001. While Russia was a successor in interest to it, the hostility between the United States and Soviet Union which prompted the ABM’s signing in the first instance no longer existed either. The Cold War was over. Mutually assured destruction between dueling nuclear-armed superpowers was no longer an imminent threat — and had not been since 1991.</p>
+
+<blockquote>
+  <p>It was not enough for the United States to simply withdraw from this treaty; it decided to deploy missile defense elements in Europe (Romania, Poland).</p>
+</blockquote>
+
+<p>Whether the United States has deployed any such missile defense systems is hardly beyond dispute.  But even if that was true, the context in which such a decision would be reached is relevant to why.  After all, the same set of facts precipitated Trump’s withdrawal from the INF.  In the face of Russia’s <a href="https://www.cnn.com/2019/08/02/politics/nuclear-treaty-inf-us-withdraws-russia/index.html">refusal to destroy its non-compliant intermediate range ballistic missiles</a> or certify the same per the INF, installation of missile <em>defense</em> systems is hardly unreasonable, including after Putin repeatedly sought lebensraum in Georgia, Crimea and Eastern Ukraine from 2008-2014:</p>
+
+<blockquote>
+  <p>Russians over the years have deployed new missiles, which can reach European cities within minutes, which are hard to detect, are mobile and are nuclear capable, and therefore reduce the threshold of any potential use of nuclear weapons in an armed conflict – of course that’s a bad day for all of us who believe in arms control and stability in Europe.</p>
+</blockquote>
+
+<p>Putin was given every possible chance to salvage the treaty, but American withdrawal was solely prompted by Putin’s <a href="https://www.cnn.com/2019/08/01/politics/us-missile-test-inf-treaty/index.html">bad faith</a>. No one wanted this to happen, other than Putin who alone had the means to prevent it. Putin nevertheless continued to violate the terms of the very treaties meant to achieve the ends Putin now cites in support of his proposed invasion of Ukraine, and the United States took appropriate defensive measures accordingly.</p>
+
+<p>The same applied to <a href="https://2017-2021.state.gov/united-states-withdrawal-from-the-treaty-on-open-skies/index.html">Open Skies, which Putin flagrantly violated</a> by, among other things:</p>
+
+<ul>
+  <li>Putin’s 500-kilometer “sublimit” on flight distances over the Russian exclave of Kaliningrad since 2015.</li>
+  <li>Putin’s refusal to allow observation flights to approach within 10 kilometers of Russia’s border with the Georgian regions of Abkhazia and South Ossetia, also since 2015.</li>
+  <li>Putin’s denial of a flight segment over a major military exercise (TSENTR) in September 2019.</li>
+</ul>
+
+<p>In the bigger picture, Russia’s violations of the Treaty on Open Skies were merely one part of a pattern of Russian violations of its arms control obligations and commitments. These include: Russia’s material breach of the INF; its aggressive actions against Georgia and Ukraine, which are flagrantly contrary to its commitments to the principles set forth in the Helsinki Final Act; its purported suspension of its obligations under the CFE Treaty; and its selective implementation of the Vienna Document. We should also note Russia’s use of a chemical weapon on the soil of an OSCE participating State, and the many destabilizing hybrid actions including disinformation campaigns, that it has taken.</p>
+
+<p>Putin cannot pick and choose which benefits of past agreements he wishes to claim protection from. Either Russia keeps its word or it does not. For Putin to cite any of these agreements when he has repeatedly violated the terms of other agreements relating to Ukraine’s territorial integrity and sovereignty reached between the Russian Federation (not the USSR) and the United States, among others, is absurd.</p>
+
+<blockquote>
+  <p>How does the Russian government react? From a Russian point of view, Georgia’s potential NATO membership and the deployment of cruise missiles there is a serious security threat.</p>
+</blockquote>
+
+<p>And yet, rather than pursue a diplomatic resolution with Georgia, Putin staged an invasion under self-evidently false pretexts.  In the first instance, NATO is a defensive alliance — not an aggressive one.  So Putin’s security concerns relating to Georgia’s proposed membership in NATO (or Ukraine’s for that matter) are frivolous.</p>
+
+<p>Ukraine, moreover, has sought NATO membership since 1991, anticipating exactly the scenario with which they are presently confronted. Putin alone holds the ability to prevent that from happening. Nothing will drive Ukraine into the West’s sphere of influence faster and out of Moscow’s control forever, than further Russian aggression against it.</p>
+
+<p>The issue for Putin is what a Western-aligned Georgia and Ukraine mean for his power inside Russia.</p>
+
+<p>—– <strong>12.6</strong> —–2022-01-05 06:41:45+08:00:</p>
+
+<blockquote>
+  <p>So far NATO has only invaded other countries, it hasn’t fought a single battle in defense of its members. The first part is also questionable, considering the aggressive behavior of some of its major individual members. Libya is one example of the kind of peace it brings.</p>
+</blockquote>
+
+<p>What invasions are you referring to?</p>
+
+<p>What aggressive behaviour are you referring to, specifically?  And in Libya, in particular?</p>
+
+<p>—– <strong>12.7</strong> —–2022-01-05 08:03:57+08:00:</p>
+
+<blockquote>
+  <p>Afghanistan, but simply “attacked” would be a more appropriate word for Libya and Serbia.</p>
+</blockquote>
+
+<p>You are referring to Bush invading Afghanistan after 9/11? The invasion Russia, and specifically Putin, supported and provided logistical support for in Bush’s prosecuting the war on terror?</p>
+
+<p>As for Serbia, what are you referring to?  NATO intervention in the fallout of Yugoslavia’s dissolution?</p>
+
+<p>I’m not going to defend Hillary Clinton’s actions relating to Libya, if you were curious.  Libya was, from my perspective, a foreign policy mistake of grave significance.  But the same could be said for most of Hillary Clinton’s decisions as secretary of state.</p>
+
+<p>—– <strong>12.8</strong> —–2022-01-05 09:09:01+08:00:</p>
+
+<blockquote>
+  <p>Yes, Putin did support it, he also greenlit (or more like, didn’t overrule Medvedev’s decision to greenlight) the UN mandate on Libya, which led to a disaster.</p>
+</blockquote>
+
+<p>It’s difficult to do anything other than speculate about how Medvedev came to support the disaster that was Libya.  But Medvedev appears to have acted unilaterally.  We agree in any case that Libya was a disaster.</p>
+
+<blockquote>
+  <p>If Putin circa 2000 was willing to give the benefit of the doubt or support American interventions, now he wants nothing to do with that. Because it’s been a stable trend since the early 90s that the collective West pursues its goals militarily without the support of the international law.</p>
+</blockquote>
+
+<p>I assume you are primarily talking about Iraq, which has nothing to do with NATO, and Putin’s characterization in 2003 of the American-led intervention as “illegal,” based on an overly broad reading of the UN Charter.  By Putin’s logic, every military action Russia has undertaken since Putin came to power has been a comparable violation of “international law.”  The point is that Putin interprets others’ requirements according to his present interests, both domestically and in terms of what he or Russia is bound to by agreements with other countries.  In any case, then-existing UN Security Council resolutions related to the 1991 Gulf War and the subsequent ceasefire (660, 678), as well as to later inspections of Iraqi weapons programs (1441), had already authorized the invasion — however misguided it may have been.</p>
+
+<p>Though if you have something else in mind, I’d be curious to hear . . . from the 1990s on.</p>
+
+<blockquote>
+  <p>Even when official NATO mechanisms aren’t employed, the alliance is away to proliferate and increase dependence on American military tech, infrastructure, and expertise.</p>
+</blockquote>
+
+<p>No doubt, NATO’s gain is Russia’s loss including for reasons that extend beyond NATO’s auspices.  That is why it is so perverse to see Putin doing things to Ukraine that drive it closer to the West.</p>
+
+<p>—– <strong>12.9</strong> —–2022-01-05 21:29:07+08:00:</p>
+
+<p>Link?</p>
+
+<h3 id="13-unofficial-daily-update-for-2022-01-04-24423-new-cases-submitted-on-2022-01-05-0400310800">13: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/rw38nx/unofficial_daily_update_for_20220104_24423_new/">Unofficial Daily Update for 2022-01-04. 24423 New Cases.</a>, submitted on 2022-01-05 04:00:31+08:00.</h3>
+
+<p>—– <strong>13.1</strong> —–2022-01-05 05:19:02+08:00:</p>
+
+<blockquote>
+  <p>Welp, I’m one of the positives.</p>
+</blockquote>
+
+<p>On a PCR test though, right?</p>
+
+<p>—– <strong>13.2</strong> —–2022-01-05 05:37:42+08:00:</p>
+
+<p>So you’ve got one PCR result to 7 antigen tests, and you’re defaulting to the PCR?</p>
+
+<p>—– <strong>13.3</strong> —–2022-01-05 06:32:14+08:00:</p>
+
+<blockquote>
+  <p>Yes. The sensitivity of antigen tests is pretty low.</p>
+</blockquote>
+
+<p>So are you assuming that a positive PCR test means COVID infection?</p>
+
+<p>—– <strong>13.4</strong> —–2022-01-05 08:08:41+08:00:</p>
+
+<blockquote>
+  <p>Reports are saying that far more people are susceptible to Omicron that are vaccinated vs not.</p>
+</blockquote>
+
+<p>There’s a lot of mischief in the testing numbers and interpreting the results.  I have seen no evidence that omicron is a pandemic of the vaccinated.</p>
+
+<p>—– <strong>13.5</strong> —–2022-01-05 08:11:11+08:00:</p>
+
+<blockquote>
+  <p>IDPH genomic surveillance records Delta variant as 53% of sequences for the most recent period 12/31-1/3 (140/263), and Omicron variant as 47% of sequences for the same period (123/263).</p>
+</blockquote>
+
+<p>I wouldn’t put much stock in the IDPH’s sequencing figures.  The selection bias in terms of what samples they decide to sequence precludes any notion that they’re representative of what is or is not the prevalent strain at any point in time, pre-Omicron.</p>
+
+<p>Now, omicron can be detected by a PCR test (meaning, you don’t have to sequence it), but that’s because of the extent of variation in the nucleotide sequence among other things.  But the same problems still manifest, just at a different scale — and that should be expected to continue to be the norm.</p>
+
+<p>—– <strong>13.6</strong> —–2022-01-05 08:35:47+08:00:</p>
+
+<blockquote>
+  <p>Friday came back positive, waiting to see what yesterdays said… but I’m assuming it’ll be positive as well.</p>
+</blockquote>
+
+<p>Assuming you test positive the second time on your PCR test, it would be an interesting exercise to go through the other variables, like an antibody test that is specific for infection (as opposed to vaccination).  But keep in mind it typically takes 1 to 3 weeks after infection or vaccination for your body to make antibodies.  Labcorp in Chicago, among others, does those.</p>
+
+<p>You may well be infected.  But you also might not.  You made a comment before about test sensitivity, and I agree that generally PCR tests are more sensitive than the antigen tests — where “sensitivity” means “having the capability to identify genetic material of the virus.” 
+ Indeed, sometimes the viral load is too low to be detected but you’ve still got it and an antigen test didn’t detect it.</p>
+
+<p>But sometimes PCR tests pick up nucleic acids that are just in a person’s nose without that individual actually being infected.  The isolation guidance is a “better safe than sorry” approach, not an indication that all persons with a positive PCR test are actually infected.  This is pretty common knowledge among folks in the industry, but lay people tend to think a COVID test is like a pregnancy test or a strep test.  It’s not.  They’re not even remotely close to the same thing.</p>
+
+<p>This is part of why the “natural immunity” argument is so complicated, in case you were curious.  There’s all this discussion about so called “natural immunity” after infection, but if a positive PCR test doesn’t mean a person has actually been infected (especially for the asymptomatic positives) then the argument for “herd immunity” following infection at scale is pretty weak.</p>
+
+<p>The reason why is because of how a PCR test works.  If you run that cycle threshold up to 45 or more (as many do), a “positive” in that case isn’t really indicative of infection.  At 20 cycles, more so.  But most don’t cut off there.  And at least as of a few months ago, the FDA has not set 
+Ct threshold standards.  So it’s the wild west.</p>
+
+<p>And if you are asymptomatic, you’ve had seven negative antigen tests and you remain asymptomatic, odds are going to favor that an infection-specific antibody test would be negative too (as opposed to one that’s not going to be able to distinguish vaccine antibodies from infection antibodies).</p>
+
+<p>—– <strong>13.7</strong> —–2022-01-05 09:40:30+08:00:</p>
+
+<p>I do, but I feel like most of what I’m going to be able to send you is pretty “in the weeds,” because we’re really getting into the nuances of how PCR testing works.</p>
+
+<p>The point is that PCR tests isolate and amplify viral RNA through what is called a polymerase chain reaction.  That’s what PCR stands for, btw., which operates to amplify genetic material to create a detectable level of RNA.  The cycle threshold (“Ct”) is the number of times you have to amplify something to spot that genetic material.  This matters because the Ct is basically an inverse measure of how much genetic material you had to start with in the sample.</p>
+
+<p>The working theory — which should intuitively make sense once people understand what a PCR test actually does — is that low Ct positives mean higher viral loads, which are more indicative of infection and/or contagousness.  On the other hand, high Ct positives mean lower viral loads which are less indicative of infection and/or contagousness.  So for example, this discusses the relationship between Ct and viral load in a pretty straightforward way:</p>
+
+<p>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7543373/</p>
+
+<p>The takeaway is that 70% of positive samples with a Ct below 25 could be cultured, but less than 3% of those with a Ct over 35 could.  That means that a lower Ct positive is more indicative of infection, while a higher Ct is less indicative of infection.  Among a range of others, there’s an infectious disease specialist at UCSF who has published on this a couple of times, and written a few op-eds I recall off-hand as well named Dr. Monica Gandhi.  So you don’t have to take my word for it.</p>
+
+<p>—– <strong>13.8</strong> —–2022-01-05 09:54:55+08:00:</p>
+
+<blockquote>
+  <p>It’s anti-asshole preferences. Nobody should have to deal with these awful people.</p>
+</blockquote>
+
+<p>Removed.  Rule 1.</p>
+
+<p>—– <strong>13.9</strong> —–2022-01-05 12:30:17+08:00:</p>
+
+<blockquote>
+  <p>So why defend this state of affairs?</p>
+</blockquote>
+
+<p>More people should be asking themselves that question.  Certain groups do everything they can to keep the working and middle classes fighting with each other over issues that do not matter, when they should be working together along the lines of their shared economic interests.</p>
+
+<h3 id="14-chicago-teachers-union-cps-at-odds-over-whether-to-return-to-remote-learning---88-of-the-members-of-the-house-of-delegates-voted-in-favor-of-switching-to-remote-learning-beginning-on-wednesday-the-measure-will-now-go-to-the-full-members-of-the-ctu-submitted-on-2022-01-05-0927140800">14: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/rwadxc/chicago_teachers_union_cps_at_odds_over_whether/">Chicago Teachers Union, CPS at Odds Over Whether to Return to Remote Learning - 88% of the members of the House of Delegates voted in favor of switching to remote learning beginning on Wednesday. The measure will now go to the full members of the CTU</a>, submitted on 2022-01-05 09:27:14+08:00.</h3>
+
+<p>—– <strong>14.1</strong> —–2022-01-05 21:54:22+08:00:</p>
+
+<blockquote>
+  <p>I’ve read elsewhere that the Dept of Education decided that virtual learning days no longer count toward education days.</p>
+</blockquote>
+
+<p>Link?  I’m sure people would appreciate the background.</p>
+
+<p>—– <strong>14.2</strong> —–2022-01-05 21:57:55+08:00:</p>
+
+<blockquote>
+  <p>Way back in 2020, I was on the side of not opening schools at the time.</p>
+</blockquote>
+
+<p>Many people were.  And dissenting voices were systematically censored, even if those dissenting voices haled from Stanford’s, Harvard’s and the University of Michigan’s medical schools.</p>
+
+<p>—– <strong>14.3</strong> —–2022-01-06 06:10:13+08:00:</p>
+
+<p>I’ll not speculate on what you did or didn’t hear, but what happened to a professor of medicine at Stanford University <a href="https://www.statnews.com/2020/04/27/hear-scientists-different-views-covid-19-dont-attack-them/">is one example of what I was referring to</a>.  And it has continued to <a href="https://www.bmj.com/content/371/bmj.m4425/rr-31">happen throughout the relevant academic and medical communities</a>, in a <a href="https://www.wsj.com/articles/epidemiologists-stray-from-the-covid-herd-11603477330">range of contexts and disciplines</a>.</p>
+
+<p>Further, <a href="https://www.dailymail.co.uk/news/article-10324873/Emails-reveal-Fauci-head-NIH-colluded-try-smear-experts-called-end-lockdowns.html">no shortage of public information</a> evidences an effort from the top down to censor, discredit and deplatform anyone who <a href="https://thehill.com/changing-america/well-being/prevention-cures/556452-faucis-private-pandemic-emails-reveal-responses">questioned nonpharmaceutical interventions</a>, even when the people being censored out-credentialed the top docs at the NIH and NIAID.</p>
+
+<p>Likewise, this phenomena has been particularly out of control in the context of discussion related to vaccines.  You may have heard about an individual that is a virologist and immunologist whose work led to the development of mRNA technology and its application in various human-health focused contexts.  This person holds an MD from Northwestern’s Feinberg School of Medicine (which, I’d note, is arguably in the top 5 medical schools in the country), a post-doc at Harvard Medical School and an extensive work history at Salk, which is probably the world’s top preeminent biotech/life science focused research institute.  This person, who is to mRNA-focused tech, generally, and specifically its application for vaccinology; what Kary Mullis was to the polymerase chain reaction, is now persona non grata.  This person <a href="https://www.theatlantic.com/science/archive/2021/08/robert-malone-vaccine-inventor-vaccine-skeptic/619734/">has also been the subject of some of the most utterly vapid, yet coordinated hit pieces I have ever seen</a>, written by <a href="https://www.theatlantic.com/author/tom-bartlett/">scientifically illiterate hacks</a>.  The point of that article wasn’t to say anything of value; it was to send a message.  The message was this: if you step out of line and challenge us, we will <a href="https://www.nature.com/articles/d41586-021-02483-w">rewrite your name out of history</a>, without regard to <a href="https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&amp;r=12&amp;f=G&amp;l=50&amp;d=PTXT&amp;S1=6867195&amp;OS=6867195&amp;RS=6867195">objective reality</a> or <a href="https://www.pnas.org/content/86/16/6077">the academic record</a>.</p>
+
+<p>Right now, he’s the third rail of third rails.  I’m not even saying I agree with him, but if the Atlantic is going to publish trash like that written by someone that doesn’t even have a minimally adequate level of baseline understanding to know what he’s talking about, and then that hit piece is going to form the basis to censor/silence/revoke the medical license of this individual, we’ve got problems.</p>
+
+<p>This is a non-exhaustive list.  There are scores of others who fit into this category and hundreds of similarly egregious hit-pieces, devoid of anything even approximating merit.</p>
+
+<p>(NOTE: I am not endorsing anyone’s comments on anything in this post.  Do not interpret the above as an endorsement of the views of any individual.  I express no opinion.  The point is only to discuss censorship.  Further, the reason I’m not going to type names out is because I don’t want the wave of <em>actual fringe</em> people who listen to certain podcasts to start flooding this subreddit.  I also don’t want the people who make it their mission in life to menace that other lot to feel obliged to weigh in on a controversy I am sure exactly none of them are even competent to opine on.)</p>
+
+<p>But the issues are main points of how we get here:</p>
+
+<ol>
+  <li>The public doesn’t know how to tell the difference between what a fringe scientific view, or even what is credible expertise, is and what it is not.</li>
+  <li>Who gets to be heard is who defines the baselines of public perception on these issues.  And there is a limit to what can and cannot be discussed in the public domain, in the best case.</li>
+  <li>In the most common case, there is a more acute limit to what can be understood just by the nature of the platforms people get their information from.</li>
+  <li>That baseline understanding has become the limit of acceptable discourse — with complete disregard to the state of the actual science.</li>
+  <li>But science doesn’t work that way.  The only thing that does is <a href="https://en.wikipedia.org/wiki/Ministries_of_Nineteen_Eighty-Four">a ministry of truth</a>.</li>
+</ol>
+
+<p>—– <strong>14.4</strong> —–2022-01-10 10:28:59+08:00:</p>
+
+<p>Rule 14.  First and only warning, after your other comment.</p>
+
+<h3 id="15-got-accepted-into-my-college-debate-team-because-they-think-im-a-neoliberal-submitted-on-2022-01-05-0929360800">15: <a href="https://old.reddit.com/r/stupidpol/comments/rwafkt/got_accepted_into_my_college_debate_team_because/">Got accepted into my college debate team because they think I’m a neoliberal.</a>, submitted on 2022-01-05 09:29:36+08:00.</h3>
+
+<p>—– <strong>15.1</strong> —–2022-01-05 13:54:55+08:00:</p>
+
+<p>You’re better off doing something else.</p>
+
+<h3 id="16-psaki-schools-can-open-safely-including-in-chicago-submitted-on-2022-01-06-0339060800">16: <a href="https://old.reddit.com/r/CoronavirusIllinois/comments/rwv4z9/psaki_schools_can_open_safely_including_in_chicago/">Psaki: Schools can open safely ‘including in Chicago’</a>, submitted on 2022-01-06 03:39:06+08:00.</h3>
+
+<p>—– <strong>16.1</strong> —–2022-01-07 11:49:50+08:00:</p>
+
+<p>Removed.  Rule 14.</p>
+
+<h3 id="17-whats-going-on-in-kazakhstan-submitted-on-2022-01-06-1316490800">17: <a href="https://old.reddit.com/r/geopolitics/comments/rx6g1e/whats_going_on_in_kazakhstan/">What’s going on in Kazakhstan?</a>, submitted on 2022-01-06 13:16:49+08:00.</h3>
+
+<p>—– <strong>17.1</strong> —–2022-01-07 09:27:44+08:00:</p>
+
+<p>The so called “Moon of Alabama” blog link in the post I removed above is unconventional.  The particular article contained within it focusing on events unfolding in Kazakhstan, however, could have appeared in Pravda.</p>
+
+<p>This was the title:</p>
+
+<blockquote>
+  <p>The U.S. Directed Rebellion in Kazakhstan May Well Strengthen Russia</p>
+</blockquote>
+
+<p>At the outset, the article assumes vague yet overarching American involvement in Kazakhstan’s current riots.  It contains no evidence whatsoever for that claim.  Rather, it implies that the United States must have had some involvement, because of:</p>
+
+<ol>
+  <li>American military aid to Ukraine and support for “rebels” in Syria;</li>
+  <li>“[A]ttempted a regime change in Belarus”; and</li>
+  <li>Apparently, the United States “instigated a war between Azerbaijan and Armenia,” according to the so called “Moon of Alabama.”</li>
+</ol>
+
+<p>This apparent “trend,” the article infers, is oriented to “reduce Russia’s influence in Central Asia.”  So here’s what’s going on there:</p>
+
+<ul>
+  <li>
+    <p>What *did happen: The United States has provided military support and/or aid to Ukraine and once did to allegedly “moderate” rebels in Syria.  As most who are familiar with how I approach these topics, I do not agree with Hillary Clinton’s decisions relating to Syria.  But those two things happened.</p>
+  </li>
+  <li>
+    <p>What did <em>not happen</em>:  Anything approximating American-facilitated regime change in Belarus.  Likewise, the United States in no way, shape or form “instigated” any war between Azerbaijan and Armenia.  These claims do not even rise to the level of frivolity.</p>
+  </li>
+  <li>
+    <p>The tactic used here is recognizable: it’s a buy-in game.  All probably knew about Ukraine and Syria; but most don’t likely know enough about either Belarus or Azerbaijan/Armenia to be able to recognize this nonsense for what it is.</p>
+  </li>
+</ul>
+
+<p>To me, it’s not even clear the author recognizes what he’s saying.  The analysis is so unsophisticated and poorly done, it seems to me he just assumed the United States was behind those other events and therefore is assuming some kind of role in Kazakhstan.</p>
+
+<p>It’s possible this author knows he’s lying.  But it’s more likely that he doesn’t.  If he knew he was lying, he’d have tried a bit harder to make the arguments contained in that blog internally consistent.  He’d have laid some foundation for the nonsensical facts he assumes without evidence.  He’d have worked a little harder to make this nonsense believable.</p>
+
+<p>But he didn’t.  Which tells me he’s more likely just some guy who is retired that has too much time on his hands.  The crazy uncle whose politics make people uncomfortable at the holidays.  He’s a fellow traveler/useful idiot, who lays fertile ground for disinformation to flourish.  But this is too sloppy and poorly done to believe it had any connection to the Russian government.</p>
+
+<p>Notice the difference between this blog and what the troll farms in Macedonia did during the 2016 election on Reddit, 4Chan and the like, though.  Those were unsophisticated meme-based tactics.  The opposite of whatever this blog is trying to be.  This blog seems to regard itself as serious, actual journalism.  Which it is not. And the disjunction between what it’s appearing to be and so obviously is suggests it can’t be something done on behalf of a state.  Someone who would go to the trouble of doing something like this, would do a better job if they were acting on behalf of the FSB or GRU.  But a retiree who follows that kind of influenced media on the other hand would write something more along the lines of that blog.  He should consider getting a hobby that does not involve this sort of subject matter.</p>
+
+<h3 id="18-meta-a-clarification-on-who-can-submit-posts-and-the-state-of-mod-communication-submitted-on-2022-01-06-1813130800">18: <a href="https://old.reddit.com/r/geopolitics/comments/rxb6z9/meta_a_clarification_on_who_can_submit_posts_and/">[Meta] A Clarification on who can submit posts, and the State of Mod Communication?</a>, submitted on 2022-01-06 18:13:13+08:00.</h3>
+
+<p>—– <strong>18.1</strong> —–2022-01-06 19:02:15+08:00:</p>
+
+<p>Not appropriate.</p>
+
+<h3 id="19-what-are-unethical-practices-schools-do-submitted-on-2022-01-06-2305050800">19: <a href="https://old.reddit.com/r/AskReddit/comments/rxgno4/what_are_unethical_practices_schools_do/">What are unethical practices schools do?</a>, submitted on 2022-01-06 23:05:05+08:00.</h3>
+
+<p>—– <strong>19.1</strong> —–2022-01-07 11:05:59+08:00:</p>
+
+<blockquote>
+  <p>This is why I beat the poop out of a bully when I was in 8th grade. I figured that if I was going to be suspended for the actions of someone whom I could not control, I may as well earn it myself.</p>
+</blockquote>
+
+<p>More people should do that.</p>
+
+<p>When I was in the 10th grade, a hockey player (who was also on the lacrosse team) made a hobby of mercilessly harassing an Aspergers kid we had in our class.  The Aspergers boy was gay and somewhat effeminate, which made matters worse.  He was not out at the time.  This was at a time when being gay and/or effeminate as a boy was a sentence to social pariah status in American high schools.</p>
+
+<p>Our building was old and had steep flights of concrete stairs, segregated away from classrooms.  It was largely unsupervised space.  One day, the bully pushed the Aspergers boy down the stairs.</p>
+
+<p>The Aspergers boy fell down the flight face first and hit his head pretty badly. Blood was everywhere.  The Aspergers boy was crying.  It was a hard scene to look at.  After the Aspergers boy landed at the bottom of the stairwell, the bully stood at the top of the stairs he mocked the Aspergers boy.  He really made a scene, too.  His friends laughed and thought this was hilarious.</p>
+
+<p>The bully faced no consequences.  No one said who did it and the Aspergers boy wouldn’t identify who, even though everyone knew exactly who did it.  The bully was an athlete and the bully’s father was influential in the community.</p>
+
+<p>I was an athlete too and the bully’s father was an obnoxious asshole just like his son.  It was not within my capacity to let that go.</p>
+
+<p>So the next day I threw the bully down the stairs.  Caught him at the top, stuck my foot in front of him and pushed him forward.  I didn’t mock him, but I warned him that next time he should be more careful.  He didn’t go to the hospital.</p>
+
+<p>The bully didn’t get the message.  When the Aspergers boy came back to school a few days later, the bully resumed his behaviour.  So I threw him down the stairs again, harder and with a lot more force.  He had a concussion.</p>
+
+<p>This time he got the message and left the Aspergers boy alone.</p>
+
+<p>I didn’t intend to take the risk of getting expelled. I thought the hallway was clear, but a teacher I had saw me both times.  I later learned that the teacher told the vice principal said he saw the bully trip both times.</p>
+
+<p>I never got in trouble.  Times are so different now.</p>
+
+<p>—– <strong>19.2</strong> —–2022-01-07 22:02:39+08:00:</p>
+
+<blockquote>
+  <p>The world needs more people like you</p>
+</blockquote>
+
+<p>There are few things more satisfying than beating the shit out of a bully.</p>
+
+<p>—– <strong>19.3</strong> —–2022-01-07 22:17:08+08:00:</p>
+
+<p>The bully’s problem wasn’t lack of emotional support.  He was an obnoxious asshole with a toxic personality.  His problem was that he was a sociopath who delighted on tormenting and taking advantage of people that were too afraid to fight back. There was no amount of counseling, therapy, etc. that would have solved that problem.  His entire group of friends sort of reinforced that type of behaviour among themselves.</p>
+
+<p>As for whether the bully was hurting, I didn’t care.  What I cared about was the damage he was causing that was met with no consequences.  There is nothing that could have excused what he did.</p>
+
+<h3 id="20-putin-wants-to-rewrite-the-end-of-the-cold-war-submitted-on-2022-01-08-1022470800">20: <a href="https://old.reddit.com/r/geopolitics/comments/ryowxc/putin_wants_to_rewrite_the_end_of_the_cold_war/">Putin Wants to Rewrite the End of the Cold War</a>, submitted on 2022-01-08 10:22:47+08:00.</h3>
+
+<p>—– <strong>20.1</strong> —–2022-01-08 16:12:56+08:00:</p>
+
+<p>Removed.  Plagiarism.</p>
+
+<p>—– <strong>20.2</strong> —–2022-01-12 23:58:40+08:00:</p>
+
+<p>The publisher of this article was given the opportunity to establish that the article was not plagiarized and repeatedly declined to do so.  Appropriate action has followed.</p>
+
+<h3 id="21-neo-nazi-group-patriot-front-tries-to-take-part-in-the-anti-abortion-march-for-life-rally-and-are-immediately-met-with-hostility-watch-how-frightened-they-get-at-some-boomers-yelling-at-them-submitted-on-2022-01-09-1034130800">21: <a href="https://old.reddit.com/r/PublicFreakout/comments/rzh7gp/neo_nazi_group_patriot_front_tries_to_take_part/">Neo Nazi group Patriot Front tries to take part in the anti abortion “March for Life” rally and are immediately met with hostility. Watch how frightened they get at some boomers yelling at them.</a>, submitted on 2022-01-09 10:34:13+08:00.</h3>
+
+<p>—– <strong>21.1</strong> —–2022-01-10 13:15:49+08:00:</p>
+
+<blockquote>
+  <p>Even the anti-abortion mfs don’t want them lolol</p>
+</blockquote>
+
+<p>Reminds me <a href="https://www.youtube.com/watch?v=ZTT1qUswYL0&amp;ab_channel=Movieclips">of this moment in cinematographic history</a>.</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-01-15</time>
+        <a href="https://nodebe4.github.io/opinion/2022-01-15/Spinkcat/">
+          Spinkcat在2022-01-10~2022-01-16的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-01-15</time>
+        <a href="https://nodebe4.github.io/opinion/2022-01-15/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-01-10~2022-01-16的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-01-09</time>
+        <a href="https://nodebe4.github.io/opinion/2022-01-09/EnclavedMicrostate/">
+          EnclavedMicrostate在2022-01-03~2022-01-09的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-01-09</time>
+        <a href="https://nodebe4.github.io/opinion/2022-01-09/Commodify/">
+          Commodify在2022-01-03~2022-01-09的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-01-09/realcaixia/">
+            前一篇：Twitter @蔡霞: 2022-01-03~2022-01-09
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-01-09/wangdan1989/">
+            後一篇：Twitter @王丹: 2022-01-03~2022-01-09
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-01-09/realcaixia/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-01-09/wangdan1989/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-01-15/ForeignAffairsMag/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-01-09/EnclavedMicrostate/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-01-09/realcaixia/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-01-09/wangdan1989/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-01-15/ForeignAffairsMag/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-01-09/EnclavedMicrostate/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

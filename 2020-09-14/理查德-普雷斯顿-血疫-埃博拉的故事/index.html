@@ -1,0 +1,932 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>理查德•普雷斯顿 – 血疫：埃博拉的故事 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+理查德•普雷斯顿 – 血疫：埃博拉的故事
+——
+" />
+    <meta property="og:description" content="
+理查德•普雷斯顿 – 血疫：埃博拉的故事
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="理查德•普雷斯顿 – 血疫：埃博拉的故事" />
+    <meta property="twitter:title" content="理查德•普雷斯顿 – 血疫：埃博拉的故事" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2F2049post.wordpress.com%2F2020%2F09%2F15%2Fv6book3%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://2049post.wordpress.com/2020/09/15/v6book3/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://2049post.wordpress.com/2020/09/15/v6book3/&text=理查德•普雷斯顿 – 血疫：埃博拉的故事&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://2049post.wordpress.com/2020/09/15/v6book3/&title=理查德•普雷斯顿 – 血疫：埃博拉的故事" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://2049post.wordpress.com/2020/09/15/v6book3/&title=理查德•普雷斯顿 – 血疫：埃博拉的故事" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=理查德•普雷斯顿 – 血疫：埃博拉的故事&body=
+理查德•普雷斯顿 – 血疫：埃博拉的故事
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://2049post.wordpress.com/2020/09/15/v6book3/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://2049post.wordpress.com/2020/09/15/v6book3/&title=理查德•普雷斯顿 – 血疫：埃博拉的故事&caption=
+理查德•普雷斯顿 – 血疫：埃博拉的故事
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=理查德•普雷斯顿 – 血疫：埃博拉的故事&url=https://2049post.wordpress.com/2020/09/15/v6book3/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>理查德•普雷斯顿 – 血疫：埃博拉的故事</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2020-09-14
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#火光">
+          火光
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://2049post.wordpress.com/2020/09/15/v6book3/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="火光的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#火光 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1600099920000-->
+<p><a href="https://2049post.wordpress.com/2020/09/15/v6book3/">理查德•普雷斯顿 – 血疫：埃博拉的故事</a>
+——</p>
+
+<div>
+  <figure class="wp-block-image">
+<img src="https://telegra.ph/file/44719701a622db3eba6ca.png" alt="" />
+  </figure>
+  <h4 id="内容简介"></h4>
+  <h4 id="内容简介">内容简介</h4>
+  <p>文明与病毒之间，只隔了一个航班的距离。</p>
+  <p>来自热带雨林的危险病毒，可在24小时内乘飞机抵达地球上的任何城市。航空线路连接了全世界的所有城市，构成网络。</p>
+  <p>埃博拉已经进入网络，开始环球旅行。</p>
+  <p>卡尔•约翰逊，埃博拉病毒的发现者之一，他在病毒探索史上是个大人物，发现并命名了地球上好几种最危险的病原体。</p>
+  <p>“大自然并不平静，我很高兴，”他这么说，“但在今天这样的日子里，咱们就当大自然很平静好了。所有怪物和猛兽都有平静的时刻。”</p>
+  <p>“扎伊尔当时发生了什么？”我问。</p>
+  <p>“我们抵达金沙萨的时候，那儿根本就是个疯人院，”他说，“我们知道那里的情况很糟糕，我们知道我们在和某种新病毒打交道。我们不知道它能不能像流感那样，通过空气中的悬浮液滴传播。假如埃博拉能轻易通过空气传播，今天的世界恐怕就大不一样了。”</p>
+  <p>“会怎么样？”</p>
+  <p>“人类会少很多。假如一种病毒与呼吸系统密切相关，那么你想控制住它就非常困难了。我心里想，假如埃博拉具备高致死率，又能通过液滴传播，那么全世界就不存在安全的地方了。与其在伦敦歌剧院被传染，还不如去爆发中心工作呢。”</p>
+  <p>“你担心那会是一次威胁整个人类的危机吗？”</p>
+  <p>他盯着我。“这话什么意思？”</p>
+  <p>“意思是一种能抹平人类的病毒。”</p>
+  <p>“唔，我想有这个可能性——当然到现在还没有出现。我并不担心那个。更有可能的是这种病毒有能力按比例减少人口。比方说百分之三十。百分之九十。”</p>
+  <p>“人类被杀死十分之九？你不担心？”</p>
+  <p>他脸上闪过一丝神秘的沉思表情。“假如一种病毒能减少一个物种的密度，那么这种病毒也许还是有用的。”</p>
+  <p>这就是大自然。仔细想一想，从河流到海洋，大自然充满了杀手。</p>
+  <h4 id="作者简介"></h4>
+  <h4 id="作者简介">作者简介</h4>
+  <p>理查德•普雷斯顿（RICHARD PRESTON，1954— ），美国非虚构作家，《纽约客》撰稿人。他在普林斯顿大学获得了英文博士学位，师从著名的非虚构作家约翰•麦克菲。普雷斯顿擅长以非虚构手法，处理科学题材。1984年，他出版了首部非虚构作品《第一道光》，这本天文学题材的书获得了美国物理学学会的科学写作奖。十年后，普雷斯顿推出了另一部科学写作经典《血疫》，这本描写埃博拉病毒缘起的作品获得了巨大的成功，长踞《纽约时报》非虚构类畅销书榜首达61周。普雷斯顿因此获得了美国疾病控制与预防中心颁发的防疫斗士奖，他也是有史以来唯一以非医师身分获奖的得主。</p>
+  <h4 id="书籍摘录"></h4>
+  <h4 id="书籍摘录">书籍摘录</h4>
+  <h5 id="选自第四章奇塔姆洞">选自第四章奇塔姆洞</h5>
+  <p>艾滋病、埃博拉和其他雨林病原体的显现，无疑是热带生物圈遭到破坏的自然结果。这些新出现的病毒从生态被破坏的区域浮出水面，其中许多来自热带雨林破损的边缘区域，还有迅速被人类蚕食的热带稀树大草原。热带雨林是全世界最深的物种储备池，包含了地球上的大多数动植物。雨林也是全世界最大的病毒储备池，因为所有活物都携带病毒。病毒走出一个生态系统之后，往往会在人类群体中波浪式传播，仿佛是正在衰亡的生物圈的回声。列举一些新显病毒：拉沙热病毒、裂谷热病毒、奥罗波凯病毒、罗西奥病毒、委内瑞拉出血热病毒、委内瑞拉马脑脊髓炎病毒、猴痘病毒、登革热病毒、基孔肯亚病毒、汉坦病毒、马丘波病毒、胡宁病毒、狂犬病毒属的莫科拉病毒和杜文黑基病毒、勒当泰病毒、科萨努尔森林脑炎病毒、HIV（无疑也是新显病毒，因为它对人类的渗透正变得越来越快，而且看不到尽头）、塞姆利基森林病毒、克里米亚-刚果出血热病毒、辛德毕斯病毒、奥-奈氏病毒、无名圣保罗病毒、马尔堡病毒、苏丹埃博拉病毒、扎伊尔埃博拉病毒、雷斯顿埃博拉病毒。</p>
+  <p>从一定意义上说，地球正在启动对人类的免疫反应。它开始对人类这种寄生生物做出反应，人类的泛滥仿佛感染，混凝土的坏死点遍布全球，欧洲、日本和美国犹如癌症的烂肉，挤满了不停复制的灵长类动物，人类群落无限扩张和蔓延，很可能会给生物圈带来大灭绝。也许生物圈并不“喜欢”容纳五十亿人类。也可能是一百年间人类的极度增殖突然产生了海量肉类，这些肉存在于生物圈的每个角落，面对想要吞噬它的另一种生命体，很可能无法保护自己。大自然有自我平衡的手段。雨林有自己的防护手段。地球的免疫系统察觉了人类的活动，开始发挥作用。大自然在试图除掉人类这种寄生生物的感染。说不定艾滋病只是大自然的清除过程的第一步。</p>
+  <p>艾滋病可被视为20世纪最严重的环境灾难。艾滋病病毒很可能是从非洲灵长类动物——猴类或类人猿——传给人类的。举例来说，HIV-2（HIV最主要的两个毒株之一）也许是一种突变病毒，从非洲乌白眉猴传给人类：也许是猎杀或捕捉猴子的人接触了带血的组织。HIV-1（另一个主要毒株）可能是从黑猩猩传给人类的：也许是在猎人宰杀黑猩猩的时候。最近在西非的加蓬，科学家从一只黑猩猩体内分离出了一个猿类艾滋病病毒的毒株，这是目前在动物界发现的最接近HIV-1的病毒。</p>
+  <p>1980年，洛杉矶的一位医生最早注意到了艾滋病病毒的存在，他发现他的几名男性同性恋正在死于某种传染病。假如当时有人说这种南加州男同性恋圈内的未知疾病源于非洲黑猩猩，医学界只怕会哄堂大笑。但现在没有人会嘲笑了。有一点越想越有意思：黑猩猩是一种热带雨林的濒危动物，但这种病毒从黑猩猩传给了人类，因此转瞬之间就不需要担心灭绝了。我们不妨这样说：热带雨林病毒非常擅长为自己争取利益。</p>
+  <p>艾滋病病毒是一种快速突变病毒，它会不停改变。这种高频突变体犹如变色龙，在人群和个人之间传播时，会自发改变它的个性。它甚至会在感染过程中变异，死于艾滋病的患者往往感染了多个毒株，它们全是在感染者体内自发出现的。一种病毒能够迅速突变，也就很难研制针对它的疫苗。换个角度看，这说明艾滋病病毒是生态系统改变的自然幸存者。艾滋病病毒和其他新显病毒逃过了热带生物圈的毁灭，因为它们突变得比生态系统的改变更快。它们无疑擅长逃离艰难环境，因为某些病毒已经存在了四十亿年之久。很容易让人联想起逃离沉船的老鼠。</p>
+  <p>我猜艾滋病恐怕不是大自然展现出的最强力量。人类能不能在高危病毒的威胁下维持五十亿人口，这个问题谁都没法回答。无法回答。答案隐藏在热带生态系统的迷宫之中。艾滋病是雨林的爆发，但还只是开始。</p>
+  <p>没问题的，我心想。当然了，我不会有事的，我们都不会有事的。不会有任何问题。一切都会好起来的。进过奇塔姆洞的绝大多数人都没有生病。三到十八天。增殖刚开始的时候，你不会有任何感觉。我不禁想起在雷斯顿埃博拉爆发事件中与军方争夺管辖权的乔·麦考米克，我想起他在苏丹寻找埃博拉病毒时的经历。他乘飞机深入丛林，在挤满垂死患者的茅草屋里与埃博拉狭路相逢，被沾血针头刺破大拇指，但他运气很好，活了下来。事实证明乔·麦考米克对雷斯顿埃博拉病毒的看法是正确的：它对人类并不具有高度传染性。然后我又想起乔·麦考米克的另一个发现，这是埃博拉病毒治疗中的少数几个突破之一。在苏丹的时候，他以为他会死于埃博拉感染，因此发现暴露在丝状病毒之下后，苏格兰威士忌是唯一的解药。</p>
+  <p>秋日的某一天，我开车去看废弃的猴舍，想知道它现在成了什么样子。那是个温暖的小阳春日子，棕色雾霭笼罩了华盛顿。我拐下环城公路，悄悄开近那幢楼。这地方已经荒弃，比坟墓还安静。门前的枫香树偶尔飘落一两片枯叶。停车场周围的很多办公室挂着“出租”标牌。我感觉到的不是病毒，而是财务危机——80年代园地的临床症状，就像高烧过后的蜕皮。我穿过楼后的草地，来到陆军研究所的突入点：那扇玻璃门。门锁着，门框上还没撕干净的银色胶带。我向楼里张望，看见地上满是棕红色污渍。墙上挂着“自己的烂摊子自己收拾”的标牌。我在标牌旁边认出了那条气密走廊，也就是士兵进入高危区域时穿过的灰色区域。灰色的煤渣砖墙壁：名副其实的灰色区域。</p>
+  <p>我窸窸窣窣地踩着草地上的塑料碎片走动。我看见生锈的空调外机周围有接骨木莓即将成熟。我听见球落地的声音，看见男孩在操场上运球。篮球弹跳的响声在昔日的猴舍大楼回荡。孩童的叫声来自树丛另一侧的日托中心。我在楼后乱转，来到一扇窗前，向内张望。房间里长出了攀缘藤蔓，附在窗户上，寻找温暖的阳光。藤蔓在楼里是怎么找到水源的？这些藤蔓是鞑靼忍冬，常见于废弃地点的野草。鞑靼忍冬的花朵没有气味，这一点和病毒相同。它们在人类放弃的居所里活得逍遥自在，让我想起了塔耳塔洛斯，维吉尔《埃涅伊德》中的阴间或地狱，亡者的幽魂在阴影中窃窃私语。</p>
+  <p>隔着纠结的藤蔓，我看不见昔日的高危区域。感觉就像在眺望雨林。我绕到大楼侧面，发现另一扇贴着胶带的玻璃门。我趴在门上，拢起双手挡在眼睛四周以遮住反光，看见一个提桶，桶里结了一层棕色硬壳。硬壳看着像是风干的猴粪。我猜想桶里肯定装过次氯酸钠漂白水。蜘蛛在墙壁和桶之间结了网。蜘蛛把苍蝇和黄蜂的外壳扔在靠近蛛网的地上。时值秋日，蜘蛛把卵鞘留在了蛛网上，为自己的复制循环做准备。生命又在猴舍里安营扎寨。埃博拉曾在这些房间里兴起，闪现身影，进食，然后回归森林。</p>
+  <p>它还会回来的。</p>
+  <hr class="wp-block-separator" />
+  <h4 id="下载地址"></h4>
+  <h4 id="下载地址"><a href="https://b-ok.cc/book/5395938/81314f" target="_blank" rel="noreferrer noopener">下载地址</a></h4>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#火光 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2020-12-31/%E7%AB%AF%E7%82%B9%E6%98%9F%E6%A1%88%E6%B6%88%E6%81%AF%E6%B1%87%E6%80%BB/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2020-07-24/%E5%85%AC%E6%B0%91%E5%AE%9E%E9%AA%8C%E5%AE%A4-%E5%BE%AE%E4%BF%A1%E7%9B%91%E6%8E%A7%E8%AF%A0%E9%87%8A/">最早</a>--</span>
+    
+      <li>
+        <time>2020-09-14</time>
+        <a href="https://nodebe4.github.io/opinion/2020-09-14/%E9%98%BF%E5%B0%94%E8%B4%9D-%E5%8A%A0%E7%BC%AA-%E9%BC%A0%E7%96%AB/">
+          阿尔贝·加缪 – 鼠疫
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-09-14</time>
+        <a href="https://nodebe4.github.io/opinion/2020-09-14/%E8%8B%A5%E6%B3%BD-%E8%90%A8%E6%8B%89%E9%A9%AC%E6%88%88-%E5%A4%B1%E6%98%8E%E7%97%87%E6%BC%AB%E8%AE%B0/">
+          若泽·萨拉马戈 – 失明症漫记
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-09-14</time>
+        <a href="https://nodebe4.github.io/opinion/2020-09-14/%E7%A6%8F%E6%9F%AF-%E8%A7%84%E8%AE%AD%E4%B8%8E%E6%83%A9%E7%BD%9A-%E7%9B%91%E7%8B%B1%E7%9A%84%E8%AF%9E%E7%94%9F/">
+          福柯 – 规训与惩罚：监狱的诞生
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-09-14</time>
+        <a href="https://nodebe4.github.io/opinion/2020-09-14/%E5%8A%89%E7%B4%B9%E8%8F%AF-%E9%BA%BB%E9%A2%A8%E9%86%AB%E7%94%9F%E8%88%87%E5%B7%A8%E8%AE%8A%E4%B8%AD%E5%9C%8B-%E5%BE%8C%E5%B8%9D%E5%9C%8B%E5%AF%A6%E9%A9%97%E4%B8%8B%E7%9A%84%E7%96%BE%E7%97%85%E9%9A%B1%E5%96%BB%E8%88%87%E9%98%B2%E7%96%AB%E6%AD%B7%E5%8F%B2/">
+          劉紹華 – 麻風醫生與巨變中國：後帝國實驗下的疾病隱喻與防疫歷史
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2020-09-14/%E7%A6%8F%E6%9F%AF-%E8%A7%84%E8%AE%AD%E4%B8%8E%E6%83%A9%E7%BD%9A-%E7%9B%91%E7%8B%B1%E7%9A%84%E8%AF%9E%E7%94%9F/">
+            前一篇：福柯 – 规训与惩罚：监狱的诞生
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2020-09-14/%E8%8B%A5%E6%B3%BD-%E8%90%A8%E6%8B%89%E9%A9%AC%E6%88%88-%E5%A4%B1%E6%98%8E%E7%97%87%E6%BC%AB%E8%AE%B0/">
+            後一篇：若泽·萨拉马戈 – 失明症漫记
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2020-09-14/%E7%A6%8F%E6%9F%AF-%E8%A7%84%E8%AE%AD%E4%B8%8E%E6%83%A9%E7%BD%9A-%E7%9B%91%E7%8B%B1%E7%9A%84%E8%AF%9E%E7%94%9F/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2020-09-14/%E8%8B%A5%E6%B3%BD-%E8%90%A8%E6%8B%89%E9%A9%AC%E6%88%88-%E5%A4%B1%E6%98%8E%E7%97%87%E6%BC%AB%E8%AE%B0/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2020-09-14/%E8%8B%A5%E6%B3%BD-%E8%90%A8%E6%8B%89%E9%A9%AC%E6%88%88-%E5%A4%B1%E6%98%8E%E7%97%87%E6%BC%AB%E8%AE%B0/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2020-09-14/%E7%A6%8F%E6%9F%AF-%E8%A7%84%E8%AE%AD%E4%B8%8E%E6%83%A9%E7%BD%9A-%E7%9B%91%E7%8B%B1%E7%9A%84%E8%AF%9E%E7%94%9F/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2020-09-14/%E7%A6%8F%E6%9F%AF-%E8%A7%84%E8%AE%AD%E4%B8%8E%E6%83%A9%E7%BD%9A-%E7%9B%91%E7%8B%B1%E7%9A%84%E8%AF%9E%E7%94%9F/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2020-09-14/%E8%8B%A5%E6%B3%BD-%E8%90%A8%E6%8B%89%E9%A9%AC%E6%88%88-%E5%A4%B1%E6%98%8E%E7%97%87%E6%BC%AB%E8%AE%B0/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<火光>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2020-09-14/%E8%8B%A5%E6%B3%BD-%E8%90%A8%E6%8B%89%E9%A9%AC%E6%88%88-%E5%A4%B1%E6%98%8E%E7%97%87%E6%BC%AB%E8%AE%B0/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<火光>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2020-09-14/%E7%A6%8F%E6%9F%AF-%E8%A7%84%E8%AE%AD%E4%B8%8E%E6%83%A9%E7%BD%9A-%E7%9B%91%E7%8B%B1%E7%9A%84%E8%AF%9E%E7%94%9F/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

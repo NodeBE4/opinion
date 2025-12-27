@@ -1,0 +1,1497 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>听众来信- Bird：“也许改变的时间不短，但是改变已经在发生” – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+听众来信- Bird：“也许改变的时间不短，但是改变已经在发生”
+——
+" />
+    <meta property="og:description" content="
+听众来信- Bird：“也许改变的时间不短，但是改变已经在发生”
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="听众来信- Bird：“也许改变的时间不短，但是改变已经在发生”" />
+    <meta property="twitter:title" content="听众来信- Bird：“也许改变的时间不短，但是改变已经在发生”" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fwww.bumingbai.net%2F2024%2F12%2Fwrite-to-bumingbai-14%2F%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dwrite-to-bumingbai-14" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://www.bumingbai.net/2024/12/write-to-bumingbai-14/?utm_source=rss&utm_medium=rss&utm_campaign=write-to-bumingbai-14" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://www.bumingbai.net/2024/12/write-to-bumingbai-14/?utm_source=rss&utm_medium=rss&utm_campaign=write-to-bumingbai-14&text=听众来信- Bird：“也许改变的时间不短，但是改变已经在发生”&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://www.bumingbai.net/2024/12/write-to-bumingbai-14/?utm_source=rss&utm_medium=rss&utm_campaign=write-to-bumingbai-14&title=听众来信- Bird：“也许改变的时间不短，但是改变已经在发生”" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.bumingbai.net/2024/12/write-to-bumingbai-14/?utm_source=rss&utm_medium=rss&utm_campaign=write-to-bumingbai-14&title=听众来信- Bird：“也许改变的时间不短，但是改变已经在发生”" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=听众来信- Bird：“也许改变的时间不短，但是改变已经在发生”&body=
+听众来信- Bird：“也许改变的时间不短，但是改变已经在发生”
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://www.bumingbai.net/2024/12/write-to-bumingbai-14/?utm_source=rss&utm_medium=rss&utm_campaign=write-to-bumingbai-14" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://www.bumingbai.net/2024/12/write-to-bumingbai-14/?utm_source=rss&utm_medium=rss&utm_campaign=write-to-bumingbai-14&title=听众来信- Bird：“也许改变的时间不短，但是改变已经在发生”&caption=
+听众来信- Bird：“也许改变的时间不短，但是改变已经在发生”
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=听众来信- Bird：“也许改变的时间不短，但是改变已经在发生”&url=https://www.bumingbai.net/2024/12/write-to-bumingbai-14/?utm_source=rss&utm_medium=rss&utm_campaign=write-to-bumingbai-14" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>听众来信- Bird：“也许改变的时间不短，但是改变已经在发生”</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2024-12-03
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#不明白播客">
+          不明白播客
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://www.bumingbai.net/2024/12/write-to-bumingbai-14/?utm_source=rss&utm_medium=rss&utm_campaign=write-to-bumingbai-14" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="不明白播客的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#不明白播客 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1733232829000-->
+<p><a href="https://www.bumingbai.net/2024/12/write-to-bumingbai-14/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=write-to-bumingbai-14">听众来信- Bird：“也许改变的时间不短，但是改变已经在发生”</a>
+——</p>
+
+<div>
+  <div id="buzzsprout-player-16195523"></div>
+  <script src="https://www.buzzsprout.com/1982525/episodes/16195523-.js?container_id=buzzsprout-player-16195523&#038;player=small" type="text/javascript" charset="utf-8"></script>
+  <p>袁莉<br /><br />你好，再次感谢你做出了这么一期好节目。白纸运动是一场100%需要好好纪念的事件。不断地谈论它，这本身就意义重大。</p>
+  <p>你采访的几位嘉宾，非常勇敢，非常优秀。他们已经为大家做了非常多的贡献。可是，他们自己本身也许有一些不太hopeful。我作为他们行为的千万受益者之一，非常的希望他们可以更加开心一点。在此，我想对你讲一些我自己对于白纸运动的感想。</p>
+  <p>白纸运动对中国普通人所带来的影响是十分深远的，而且是不可逆的。许多人在武汉疫情以及白纸运动之前和之后，对于这个体制的态度，发生了永久的变化。我拿自己50后父母来举例。</p>
+  <p>我的50后父母，以前都是大城市里的体制内普通职工。他们在武汉疫情期间住在武汉。我至今都记得那几个月的绝望。我自己已经移民美国多年了。那时候，他们在电话里跟我说：“我们要死在这里了。我们全城的人被全国抛弃了。他们把我们关在这里让我们自生自灭。”那几个月，我每天都和他们视频。我在视频里尽量宽慰他们，他们庆幸我的小家庭生活在美国，不用经受他们在武汉的地狱生活。可是视频一关，我自己也是要崩溃的状态。我们之间的关系在那几个月更加深了。</p>
+  <p>武汉解封后，其他城市陆续搞了严格的封控。他们对那些政策非常的赞成。他们觉得封控是唯一能控制病毒的方式。当我给他们讲了西安的孕妇，上海人的痛苦，各地的非人道事件，他们觉得这些都是必须付出的代价，否则就是更多的死亡。2021年和2022年，我和他们的关系变得僵了，虽然还是经常通话，但是一说起封控，就要大吵。后来在胡锦涛被弄出20大会场发生时，我跟他们说了这件事，我爸马上就说，这是外国媒体造假的视频。那时，我陷入政治抑郁。</p>
+  <p>然后白纸运动发生了。武汉的汉正街，几万商贩踢翻了封住他们的铁板，上街游行。我父母有认识的人住在汉正街附近，拍下了视频。我父母看了以后，虽然没有直接说出支持的话，但是我母亲十分兴奋。她在电话里告诉我汉正街的游行，她的情绪明显是站在汉正街商贩那一边的。我当时很诧异，因为他们之前一直是赞同封控的，可是当汉正街的商贩踢翻铁板的时候，她是站在商贩那边的，一秒都没有犹豫。我爸和她比，要更加粉红，可是他看了汉正街的视频，也是没有说出任何”境外势力“的话，而是表现的有点赞同的样子。</p>
+  <p>我告诉我妈，那天不仅仅是汉正街的商贩，全国30多个城市的年轻人都上街了。我说，上海的年轻人喊出的口号比64还要激进。我妈说：”哇，真的啊！“后来发生了武汉的白发运动抗议市政府改变他们的医保。我妈马上告诉了我，而且她是绝对赞成这些她的同龄人的抗议的。她和她的朋友还会传方方日记的截屏，她们讨论说：”方方写的就是我们自己那时的生活呀，他们为什么要打压她？“</p>
+  <p>我现在已经可以和我妈讨论一定程度的政治议题了。她对制度的态度，自从疫情和白纸运动之后，虽然没有180度的转变，也是有90度的转变。现在她常常看年轻人的一些阴阳当局的视频，她跟我说：”还是现在的年轻人好，比我们勇敢多了，比我们活得明白多了。“她绝不会在网上留言。可是，白纸运动给她的影响是巨大的，永久的，深远的。</p>
+  <p>我妈绝对不是个例。我有中国国内其他朋友，家里的长辈，70多岁的前体制内人，经过这几年，对当局的态度是180度的转变。他们几个老人家，组了个群，其中还有人让子女教会了翻墙，每天要看油管上的政论节目。虽然他们很容易就相信那些”听床“之类的言论，但是和疫情之前相比，我朋友说，他们的转变他做梦都想不到。这些很保守的体制内老年人，都发生了如此深远的变化。年轻人，中年人，内心的变化，只会更大。</p>
+  <p>你直播中那几位白纸运动的参与者，他们的行为对中国很多人群产生的影响远远超过他们的想象。也许他们自己觉得，变化要是更快，更明显就好了。也许他们会感到有些遗憾。可是，他们所推动的变化的深度，非常非常深，非常非常广。这些被影响的人，不会发出巨大的声音。因为，他们内心都有巨大的伤痛和恐惧。所以看不出来他们的变化。白纸运动，改善了我和父母之间的关系，让我走出政治抑郁。我的好几个朋友家里的长辈都i因此发生了改变，他们的家里隔代关系也都有了很大改善。</p>
+  <p>另外，李老师提到，现在中国发生了很多”献忠“事件，仿佛中国走向了一个和白纸不同的方向。我不同意。搞”献忠“的人，和参与白纸的人，不是同一群人。这段时间”献忠“的事件多，因为经济上，这一群人被逼到了极限。而他们本来也属于心理有严重问题的人，是没有同理心的那种人。他们的行为引起了巨大的注意，不代表其他人，比如本来参加白纸的人，现在就改变价值观要搞”献忠“了。我觉得，这些不同的事件，都是水面以上的冰山。水面以下，冰山内部的sea change，非常深远。这段时间，冰山转了一个方向，让我们看到了”献忠“的那个角，不代表水下的冰山都是”献忠“。”献忠“是一种绝望的举动，对于社会是拆解。和”献忠“一样，中国政府的各种离谱政策，也在拆解中国社会。而对社会起建设作用的，恰恰是那些参与白纸运动的年轻人。</p>
+  <p>我的父母对年轻人的赞赏，还来自一件事。武汉封城期间，他们小区的几个年轻人站出来，组织了全小区的微信接龙，来搞食物和生活物资的采购。他们那几个月从来没有饿着，从来没有缺乏过很多物资。他们说这几个人是真正的志愿者。这些年轻人，估计都没参加白纸运动。但是，当政府在灾难面前，是隐瞒，是添堵，是束手无策的时候，这几个人对小区的人进行了自我组织，帮大家度过难关。这样的小区里的真正的志愿者，全国许多小区都有。假如明天，中国所有共产党忽然消失了，这些人一定有能力站出来，组织起收垃圾，自来水等公共事业来帮助大家把生活进行下去。他们也会进一步发展住自我治理的能力。回到上面拆解社会和建构社会的话题，中国社会里有很多能够建构社会的年轻人。社会被拆解了，只会变得不稳定。建构者会推动社会往前走，走向一个自我治理的方向，那就是法治民主的方向，地方自治的方向。</p>
+  <p>除了这些城市里的年轻人，农村早就有反对体制的人。你的嘉宾里那位贵阳的年轻人，听起来他有点绝望。可是，我想对他说，请不要绝望。农村的人，也许不知道白纸运动， 也许不会喊出民主自由的口号。但是这不代表他们不会做出反体制的行为。我有一些朋友来自国内非常贫困的农村。不要说白纸运动，他们在文化大革命时期都没受什么影响。他们对以前的灾难最大的影响就是三年大饥荒，几乎每户人家都死了人。城市里的人，几乎都知道8964，很多人都有亲戚朋友参加过游行.我的农村同学知道8964是因为有她的小学老师，来自清华，是当年参加天安门游行的学生，后来因为这个“政治污点”被惩罚，被分配到农村去教书，他给他的学生说了8964.否则农村的孩子根本就不知道。</p>
+  <p>他们不知道文革，不知道8964，不知道白纸运动，因为这些事情没有影响到他们。这不是愚昧，这是正常现象。但他们对于体制的抵制，是和城里人不一样的。包产到户，取消农业税，这两件对改革开放至关重要的两大事件，都是农村人自己的抗争的来的结果。他们抗争的广度和激烈程度，和城市里的8964，白纸运动，不相上下。我们城里人不是也有很多人不知道包产到户和农业税的历史么？农村还有很多地下教会。农村人生活需要社群，以前的乡绅被杀了，家族力量被削弱了，生产大队出现了又消失了。现在的农村人又不信任党支部，他们就有了地下教会。这些教会，信仰十分虔诚，而且帮助教友做一些互助慈善的事情，来把农村的生活维持下去。我来自农村的同学，现在住在欧洲一个天主教国家，伴侣是已经不信教的当地人，他以为和中国妻子结婚后这辈子更加和天主教没有一毛钱关系了，结果他跟着我同学回到中国农村老家，发现那里教会之广，信仰之虔诚甚至狂热，比他欧洲老家都更甚，大为震惊。教会在韩国民主化里起到了重要作用。</p>
+  <p>我想说的是，我本人对于未来，感觉hopeful。也许改变的时间不短，但是改变已经在发生，而且十分深远。这其中，你的嘉宾，他们的勇敢的行为起到了至关重要的作用。我知道你的嘉宾，也许会有些抑郁，假如我这些看法能帮他们感受好一些，能更加肯定自己的价值，欢迎你把我的观点分享给他们。</p>
+  <p>希望你感恩节快乐！<br /><br />——Bird</p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#不明白播客 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-28/EP-137-%E8%AE%B8%E6%88%90%E9%92%A2-DeepSeek-%E6%B0%91%E4%BC%81%E5%BA%A7%E8%B0%88%E4%BC%9A%E8%83%BD%E5%90%A6%E9%87%8D%E6%8C%AF%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E-(%E6%96%87%E5%AD%97%E7%89%88/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2022-10-09/EP-020-%E8%94%A1%E9%9C%9E-%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E5%AF%B9%E4%B8%AD%E5%85%B1%E7%BB%9D%E6%9C%9B/">最早</a>--</span>
+    
+      <li>
+        <time>2024-12-08</time>
+        <a href="https://nodebe4.github.io/opinion/2024-12-08/EP-126-%E8%AE%B8%E6%88%90%E9%92%A2-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%A6%82%E4%BD%95%E6%89%BC%E6%9D%80%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%96%B0%E5%88%B6%E5%BA%A6%E5%9F%BA%E5%9B%A0-%E6%96%87%E5%AD%97%E7%89%88/">
+          EP-126 许成钢：习近平如何扼杀中国的新制度基因？（文字版）
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-12-06</time>
+        <a href="https://nodebe4.github.io/opinion/2024-12-06/EP-126-%E8%AE%B8%E6%88%90%E9%92%A2-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%A6%82%E4%BD%95%E6%89%BC%E6%9D%80%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%96%B0%E5%88%B6%E5%BA%A6%E5%9F%BA%E5%9B%A0/">
+          EP-126 许成钢：习近平如何扼杀中国的新制度基因？
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-12-01</time>
+        <a href="https://nodebe4.github.io/opinion/2024-12-01/EP-125-%E4%B8%A4%E5%B9%B4%E5%90%8E-%E6%88%91%E4%BB%AC%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%99%BD%E7%BA%B8%E8%BF%90%E5%8A%A8-%E6%96%87%E5%AD%97%E7%89%88/">
+          EP-125 两年后，我们如何看待白纸运动？（文字版）
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-11-29</time>
+        <a href="https://nodebe4.github.io/opinion/2024-11-29/EP-125-%E4%B8%A4%E5%B9%B4%E5%90%8E-%E6%88%91%E4%BB%AC%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%99%BD%E7%BA%B8%E8%BF%90%E5%8A%A8/">
+          EP-125 两年后，我们如何看待白纸运动？
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2024-12-02/The-Gen-AI-Bridge-to-the-Future/">
+            前一篇：The Gen AI Bridge to the Future
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2024-12-04/%E7%AC%AC%E4%B9%9D%E5%B1%8A%E7%BD%91%E7%BB%9C%E7%A4%BE%E4%BC%9A%E5%B9%B4%E4%BC%9A-Merlyna-Lim-%E6%83%85%E6%84%9F%E4%B8%8E%E7%AE%97%E6%B3%95-%E8%A7%A3%E5%BC%80%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E6%94%BF%E6%B2%BB%E7%9A%84%E6%95%B0%E5%AD%97%E6%A0%B8%E5%BF%83/">
+            後一篇：第九届网络社会年会｜Merlyna Lim：情感与算法：解开社交媒体政治的数字核心
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2024-12-02/The-Gen-AI-Bridge-to-the-Future/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2024-12-04/%E7%AC%AC%E4%B9%9D%E5%B1%8A%E7%BD%91%E7%BB%9C%E7%A4%BE%E4%BC%9A%E5%B9%B4%E4%BC%9A-Merlyna-Lim-%E6%83%85%E6%84%9F%E4%B8%8E%E7%AE%97%E6%B3%95-%E8%A7%A3%E5%BC%80%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E6%94%BF%E6%B2%BB%E7%9A%84%E6%95%B0%E5%AD%97%E6%A0%B8%E5%BF%83/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2024-12-06/EP-126-%E8%AE%B8%E6%88%90%E9%92%A2-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%A6%82%E4%BD%95%E6%89%BC%E6%9D%80%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%96%B0%E5%88%B6%E5%BA%A6%E5%9F%BA%E5%9B%A0/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2024-12-01/EP-125-%E4%B8%A4%E5%B9%B4%E5%90%8E-%E6%88%91%E4%BB%AC%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%99%BD%E7%BA%B8%E8%BF%90%E5%8A%A8-%E6%96%87%E5%AD%97%E7%89%88/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2024-12-02/The-Gen-AI-Bridge-to-the-Future/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2024-12-04/%E7%AC%AC%E4%B9%9D%E5%B1%8A%E7%BD%91%E7%BB%9C%E7%A4%BE%E4%BC%9A%E5%B9%B4%E4%BC%9A-Merlyna-Lim-%E6%83%85%E6%84%9F%E4%B8%8E%E7%AE%97%E6%B3%95-%E8%A7%A3%E5%BC%80%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E6%94%BF%E6%B2%BB%E7%9A%84%E6%95%B0%E5%AD%97%E6%A0%B8%E5%BF%83/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<不明白播客>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2024-12-06/EP-126-%E8%AE%B8%E6%88%90%E9%92%A2-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%A6%82%E4%BD%95%E6%89%BC%E6%9D%80%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%96%B0%E5%88%B6%E5%BA%A6%E5%9F%BA%E5%9B%A0/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<不明白播客>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2024-12-01/EP-125-%E4%B8%A4%E5%B9%B4%E5%90%8E-%E6%88%91%E4%BB%AC%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%99%BD%E7%BA%B8%E8%BF%90%E5%8A%A8-%E6%96%87%E5%AD%97%E7%89%88/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

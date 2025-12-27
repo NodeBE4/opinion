@@ -1,0 +1,956 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>【年终专题】被删除被屏蔽的，都是历史的亲历者……2022年度404文章 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+【年终专题】被删除被屏蔽的，都是历史的亲历者……2022年度404文章
+——
+" />
+    <meta property="og:description" content="
+【年终专题】被删除被屏蔽的，都是历史的亲历者……2022年度404文章
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="【年终专题】被删除被屏蔽的，都是历史的亲历者……2022年度404文章" />
+    <meta property="twitter:title" content="【年终专题】被删除被屏蔽的，都是历史的亲历者……2022年度404文章" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fmatters.news%2F%40ChinaDT%2F%25E5%25B9%25B4%25E7%25BB%2588%25E4%25B8%2593%25E9%25A2%2598-%25E8%25A2%25AB%25E5%2588%25A0%25E9%2599%25A4%25E8%25A2%25AB%25E5%25B1%258F%25E8%2594%25BD%25E7%259A%2584-%25E9%2583%25BD%25E6%2598%25AF%25E5%258E%2586%25E5%258F%25B2%25E7%259A%2584%25E4%25BA%25B2%25E5%258E%2586%25E8%2580%2585-2022%25E5%25B9%25B4%25E5%25BA%25A6404%25E6%2596%2587%25E7%25AB%25A0-bafybeig5w2mpw7xwjgga7or5zpmzldxug65an4dptbejtdszpydvwevopa" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://matters.news/@ChinaDT/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E8%A2%AB%E5%88%A0%E9%99%A4%E8%A2%AB%E5%B1%8F%E8%94%BD%E7%9A%84-%E9%83%BD%E6%98%AF%E5%8E%86%E5%8F%B2%E7%9A%84%E4%BA%B2%E5%8E%86%E8%80%85-2022%E5%B9%B4%E5%BA%A6404%E6%96%87%E7%AB%A0-bafybeig5w2mpw7xwjgga7or5zpmzldxug65an4dptbejtdszpydvwevopa" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://matters.news/@ChinaDT/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E8%A2%AB%E5%88%A0%E9%99%A4%E8%A2%AB%E5%B1%8F%E8%94%BD%E7%9A%84-%E9%83%BD%E6%98%AF%E5%8E%86%E5%8F%B2%E7%9A%84%E4%BA%B2%E5%8E%86%E8%80%85-2022%E5%B9%B4%E5%BA%A6404%E6%96%87%E7%AB%A0-bafybeig5w2mpw7xwjgga7or5zpmzldxug65an4dptbejtdszpydvwevopa&text=【年终专题】被删除被屏蔽的，都是历史的亲历者……2022年度404文章&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://matters.news/@ChinaDT/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E8%A2%AB%E5%88%A0%E9%99%A4%E8%A2%AB%E5%B1%8F%E8%94%BD%E7%9A%84-%E9%83%BD%E6%98%AF%E5%8E%86%E5%8F%B2%E7%9A%84%E4%BA%B2%E5%8E%86%E8%80%85-2022%E5%B9%B4%E5%BA%A6404%E6%96%87%E7%AB%A0-bafybeig5w2mpw7xwjgga7or5zpmzldxug65an4dptbejtdszpydvwevopa&title=【年终专题】被删除被屏蔽的，都是历史的亲历者……2022年度404文章" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://matters.news/@ChinaDT/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E8%A2%AB%E5%88%A0%E9%99%A4%E8%A2%AB%E5%B1%8F%E8%94%BD%E7%9A%84-%E9%83%BD%E6%98%AF%E5%8E%86%E5%8F%B2%E7%9A%84%E4%BA%B2%E5%8E%86%E8%80%85-2022%E5%B9%B4%E5%BA%A6404%E6%96%87%E7%AB%A0-bafybeig5w2mpw7xwjgga7or5zpmzldxug65an4dptbejtdszpydvwevopa&title=【年终专题】被删除被屏蔽的，都是历史的亲历者……2022年度404文章" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=【年终专题】被删除被屏蔽的，都是历史的亲历者……2022年度404文章&body=
+【年终专题】被删除被屏蔽的，都是历史的亲历者……2022年度404文章
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://matters.news/@ChinaDT/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E8%A2%AB%E5%88%A0%E9%99%A4%E8%A2%AB%E5%B1%8F%E8%94%BD%E7%9A%84-%E9%83%BD%E6%98%AF%E5%8E%86%E5%8F%B2%E7%9A%84%E4%BA%B2%E5%8E%86%E8%80%85-2022%E5%B9%B4%E5%BA%A6404%E6%96%87%E7%AB%A0-bafybeig5w2mpw7xwjgga7or5zpmzldxug65an4dptbejtdszpydvwevopa" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://matters.news/@ChinaDT/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E8%A2%AB%E5%88%A0%E9%99%A4%E8%A2%AB%E5%B1%8F%E8%94%BD%E7%9A%84-%E9%83%BD%E6%98%AF%E5%8E%86%E5%8F%B2%E7%9A%84%E4%BA%B2%E5%8E%86%E8%80%85-2022%E5%B9%B4%E5%BA%A6404%E6%96%87%E7%AB%A0-bafybeig5w2mpw7xwjgga7or5zpmzldxug65an4dptbejtdszpydvwevopa&title=【年终专题】被删除被屏蔽的，都是历史的亲历者……2022年度404文章&caption=
+【年终专题】被删除被屏蔽的，都是历史的亲历者……2022年度404文章
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=【年终专题】被删除被屏蔽的，都是历史的亲历者……2022年度404文章&url=https://matters.news/@ChinaDT/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E8%A2%AB%E5%88%A0%E9%99%A4%E8%A2%AB%E5%B1%8F%E8%94%BD%E7%9A%84-%E9%83%BD%E6%98%AF%E5%8E%86%E5%8F%B2%E7%9A%84%E4%BA%B2%E5%8E%86%E8%80%85-2022%E5%B9%B4%E5%BA%A6404%E6%96%87%E7%AB%A0-bafybeig5w2mpw7xwjgga7or5zpmzldxug65an4dptbejtdszpydvwevopa" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>【年终专题】被删除被屏蔽的，都是历史的亲历者……2022年度404文章</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-12-31
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#中国数字时代">
+          中国数字时代
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://matters.news/@ChinaDT/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E8%A2%AB%E5%88%A0%E9%99%A4%E8%A2%AB%E5%B1%8F%E8%94%BD%E7%9A%84-%E9%83%BD%E6%98%AF%E5%8E%86%E5%8F%B2%E7%9A%84%E4%BA%B2%E5%8E%86%E8%80%85-2022%E5%B9%B4%E5%BA%A6404%E6%96%87%E7%AB%A0-bafybeig5w2mpw7xwjgga7or5zpmzldxug65an4dptbejtdszpydvwevopa" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="中国数字时代的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#中国数字时代 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1672516238000-->
+<p><a href="https://matters.news/@ChinaDT/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E8%A2%AB%E5%88%A0%E9%99%A4%E8%A2%AB%E5%B1%8F%E8%94%BD%E7%9A%84-%E9%83%BD%E6%98%AF%E5%8E%86%E5%8F%B2%E7%9A%84%E4%BA%B2%E5%8E%86%E8%80%85-2022%E5%B9%B4%E5%BA%A6404%E6%96%87%E7%AB%A0-bafybeig5w2mpw7xwjgga7or5zpmzldxug65an4dptbejtdszpydvwevopa">【年终专题】被删除被屏蔽的，都是历史的亲历者……2022年度404文章</a>
+——</p>
+
+<div>
+  <p><strong>CDT编者按：2022年即将过去，中国数字时代为读者整理了年终专题，共7篇，包括年度网络流行语、年度404文章、年度敏感词、年度每日一语、年度名场面、年度新生媒体、年度人物。</strong></p>
+  <p><strong>本文是年终专题第二篇，上一篇是</strong><a href="https://chinadigitaltimes.net/chinese/691063.html" rel="noopener noreferrer" target="_blank"><strong>《年度网络流行语》</strong></a><strong>，下一篇是《年度敏感词》。</strong></p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/c349f9c2-60e3-4e84-8a1d-4f72af588f28.png" data-asset-id="c349f9c2-60e3-4e84-8a1d-4f72af588f28" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <figure class="embed-video">
+    <div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/vXhbkNJ70Nk?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+    </div>
+    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>2022年1月1日-12月20日，中国数字时代<a href="https://chinadigitaltimes.net/chinese/404-articles-archive" rel="noopener noreferrer" target="_blank">【404文库】</a>项目统计到594篇遭到404的文章、帖子或视频（文章消失的原因绝大多数是遭遇了内容审查，少部分可能是作者迫于压力的自删），并将它们全部存档在了我们的网站上（截至发稿时项目总收录数1206篇），打开这些内容的原始链接往往会提示“此内容因违规无法查看（微信公众号）”、“该微博/用户不存在（微博）”、“呃…你想访问的页面不存在（豆瓣）”、“404网页跑丢了（网易）”、“404你似乎来到了没有知识存在的荒原（知乎）”、“啊叻？视频不见了？（B站）”……不同平台提示不尽相同，都是这些图文存在过、但已消失的证明。中国的庞大审查机器每天都会删除不可计数的“违规内容”，中国数字时代【404文库】人工筛出的文章所能呈现的仅仅是其中极少部分，但我们仍可以从这份名单中窥探到有关中国言论审查的某些动向。</p>
+  <p>与2021年相比，中国数字时代在2022年搜集到的404文章数量（594篇）约为上一年（312篇）的两倍，其中大多数都与中国的防疫政策有关，约270篇。这显示中国政府在今年内动用了极大的审查力量来应对那些呼吁改变或放弃严苛清零政策的声音。此外，年内有大量的404文章与突发的国内/国际新闻事件有关，如丰县铁链女事件、俄罗斯入侵乌克兰、上海封城短片《四月之声》、B站大火视频“二舅”、苏州和服女孩事件、贵州转运大巴事故等，这也显示中国政府在密切关注着各种网络热点的出现、变化，并频繁进行审查介入以打乱舆论的集结，防止它们朝着不可控的方向转变。但无论如何，404文章的不断累积证明对审查的反抗总是在发生，虽然有的或许还没有发出就已消失，但抵抗的声音一直在努力寻找着破绽、并试图在下一次实现成功的突围……【404文库】记录下了被审查拦下的“404尸体”堆积的过程，这构成了整个真实反抗历史的重要部分。正如 @荡秋千的妇女2号 在《大雪时节，回忆三年》一文中所说“在‘全剧终’的时刻，我们不是退场的演员，我们都是历史的亲历者。”</p>
+  <p>在即将与2022年告别之际，我们一起回顾这594篇404文章中颇有代表性的10篇：</p>
+  <h3 id="section"><a href="https://chinadigitaltimes.net/chinese/675386.html" rel="noopener noreferrer" target="_blank"><strong>默存格物｜江雪：长安十日</strong></a></h3>
+  <blockquote>
+账号名称：@默存格物｜作者：江雪｜平台：微信公众号｜删文时间：2022年1月8日  </blockquote>
+  <p>2021年12月23日，西安市因新冠确诊病例激增（以德尔塔变种为主）而宣布紧急封城，当地1300万居民继而被限制外出近一个月，当局原计划在短时间内实现“全社会清零”目标并为此制定了时间表，但因未能做好足够的配套保障措施，封城不久便出现了严重的物资供给问题，许多西安市民反映“买菜难”、“吃饭难”，在忍饥挨饿中跨年。与此同时，当地因封禁过度而社会停摆，许多民生问题变得难以解决，人道灾难频发……居住在西安的独立媒体人江雪写下了一篇长文《长安十日》，记录了自己于西安封城期间的诸多见闻，如人们抢购物资、以物易物、邻里自救等。这篇文章很快就引起了网络关注，并在各大平台热转，甚至被一些网民誉为西安版方方日记。几天后，这篇文章因遭到举报而被删除，仅几小时后，又重新上架、死而复生，出现了短暂的“抽风”，最终还是被屏蔽，访问提示“此内容因违规无法查看”。江雪在2022年10月的一期播客节目中提到了写下这篇文字的初衷与感想—— 我真的就是出于本能把它写了，并认为是很正常的一件事情，它就是一个生活记录而已。但这篇文字提供给了很多人一个树洞，去留下自己心中想法，这让我很感动，也觉得自己做的事情是有意义的。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/d4758370-f1fe-45cf-bb6f-d189cba87d0c.png" data-asset-id="d4758370-f1fe-45cf-bb6f-d189cba87d0c" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <h3 id="storiesofwomen"><a href="https://chinadigitaltimes.net/chinese/677956.html" rel="noopener noreferrer" target="_blank"><strong>寻光计划 Storiesofwomen｜三八妇女节公益海报</strong></a></h3>
+  <blockquote>
+账号名称：@寻光计划 Storiesofwomen｜平台：多平台｜删文时间：2022年3月8日  </blockquote>
+  <p>2022年3月，“徐州丰县铁链女事件”已发酵了两个多月，然而舆论却还是始终迈过不去“那道坎”，此前江苏省官方发布的第五份最终通报仅像是“串起了前四份，然后写总结”，既没有给民众一个满意的调查结论，也没有给民众一个信服的处罚结果，通报一出官方便要将“事件告一段落”强行翻篇，这更引起了网民的强烈不满，认为有关铁链女的很多追问还远未结束，这条铁链明明还把中国拴在原地，“锁还等着钥匙，问题还等着答案”。当然，铁链女事件所激起的震荡在网络审查部门的层层压制之下能延续多月，本身已可以说是一场奇迹。在此背景之下，2022年的这个三八妇女节和往年相比大为不同，发声的个体间彼此联接，以铁链女为主旨完成了题材广泛的内容创作（如海报、横幅、图像、声音），甚至还有网民将妇女节改名为“丰八节”，以表达对制造无数女性悲剧的无形枷锁的反抗，但这些创作均在三八节当天遭到了不同程度的审查。以女性播客“寻光计划（Storiesofwomen）”为例，她们收录了几十幅网民创作的三八妇女节公益海报，并将其打包为百度网盘进行传播，但网盘链接遭到了屏蔽，伴有提示“此链接分享内容可能因为涉及侵权、色情、反动、低俗等信息，无法访问！”，而这篇整合了各种海报设计的文章也在多个平台遭到删除。做了相似海报整理工作的还有电报频道 @简中赛博坟场 ，而这些内容在墙内均遭到了审查，在妇女节这一天它们甚至不允许女性发出属于自己的声音。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/4c7e288b-622a-4cfe-8536-84a17216bc33.png" data-asset-id="4c7e288b-622a-4cfe-8536-84a17216bc33" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <h3 id="section-1"><a href="https://chinadigitaltimes.net/chinese/679514.html" rel="noopener noreferrer" target="_blank"><strong>柿油｜上海逝者</strong></a></h3>
+  <blockquote>
+账号名称：@柿油｜作者：王吉陆｜平台：微信公众号｜删文时间：2022年4月13日  </blockquote>
+  <p>2022年3月底，中国最大城市上海因疫情感染达到高峰而宣布封城，官方称之为“大上海保卫战”，之后该特大城市被迫实施了长达两个多月的一刀切封控，导致了各种无药缺粮、物资匮乏、就医困难、扑杀宠物的层层乱象。4月中旬，一篇记录了上海封城期间大量非正常死亡案例的文章《上海逝者》在网上流传，很快便遭到全网封杀。这篇文章列举了许多“非直接死于新冠”但却“因新冠此生灾害而死”的逝者，其中包括上海东方医院护士周盛妮（因为哮喘病发作失救）、因没有出门证无法及时就医的老人陈伟、甚至还有经济学家郎咸平98岁高龄的母亲……这篇文章总共收录了十多名逝者的生前遭遇，Ta们在生前是否得到了有效、必要的治疗，是否可以归因于防疫强制措施，成为了一个无解之问。该文章的评论区更加令人触目惊心，许多网友纷纷跟贴述说身边人的悲惨遭遇，在那些没有媒体聚焦的地方还有着无数人不明不白的消逝人，还有各种荒唐、悲苦、魔幻无时无刻不在上演。在这篇热门文章遭到删除之后，网络上又出现了一个名为“上海疫情逝者名单”的网友互助项目，该项目总共不完全统计到两百一十多名在上海封城期间因此生灾害而死的民众，其中有很多碎片式的信息已难以追溯到非常具体的个人，但它仍像一座无言纪念碑矗立在那里，书写着疫情时代凄惨的非官方记忆。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/996e99df-e0a4-403f-b9a8-4c3140c6dbd8.jpeg" data-asset-id="996e99df-e0a4-403f-b9a8-4c3140c6dbd8" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <h3 id="section-2"><a href="https://chinadigitaltimes.net/chinese/680119.html" rel="noopener noreferrer" target="_blank"><strong>在项脊轩｜人民的艺术：记录33个版本</strong></a></h3>
+  <blockquote>
+账号名称：@在项脊轩｜平台：微信公众号｜删文时间：2022年4月22日  </blockquote>
+  <p>2022年4月22日，微信公众号“永远的草莓园”发布了一个名为《四月之声》的视频，该片整合了20多个独立事件的音频，配以无人机拍摄的俯瞰上海市区的画面，真实记录下了封城期间的上海声音，全片基调温和没有太多指控或煽情成分，视频发布后得到了现象级的广泛传播，但即刻遭到了审查部门的删除。之后，网民们开始用各种有想象力的方式传播《四月之声》的变体版本以对抗审查，例如，该文内就总结了至少33个《四月之声》的图片变体版，这些内容揭示出民众对上海封控期间言论审查的强烈愤怒与反抗，其中有一些设计比较直白，仅仅是嵌入了特殊效果，如血红版、绿色城市版、核心价值观版…..而有一些则相当隐晦而不失力量，需要读者代入联想去体会其中的高级黑，如马赛克版、可以表达自己想法和感受的权利版、缝嘴巴版……但无论是哪一种变体，基本都没能躲过被审查的命运。同一天，中国数字时代【真理部指令】还发布了一则来自“北京网信”部门的通知，其中提到要举一反三的清理《四月之声》的各种变种图片，足见官方才是这个“越封越转”的反审查事件的幕后推手。或许，只有《四月之声》中的那些声音本就不是完整的，要加上那些持续转载它而被抹杀的声音，墙内/外因它泛起回响的声音，才共同构成了当下属于这个时代的“四月之声”。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/ea387e53-f304-42c9-9962-06e915f0cd4a.jpeg" data-asset-id="ea387e53-f304-42c9-9962-06e915f0cd4a" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <h3 id="section-3"><a href="https://chinadigitaltimes.net/chinese/683031.html" rel="noopener noreferrer" target="_blank"><strong>星球商业评论｜犯我者虽远必“朱”：河南多名维权储户被红码</strong></a></h3>
+  <blockquote>
+账号名称：@星球商业评论｜作者：杨乃悟｜平台：微信公众号｜删文时间：2022年6月13日  </blockquote>
+  <p>2022年6月，河南多家村镇银行连续暴雷，由于线上取款途径遭到冻结，越来越多的异地储户尝试前往河南当地取款、信访，其中一些人尽管来自低风险地区，但一旦入豫后原本正常的健康码从绿码变为了红码，同样的情况出现在当地一些烂尾楼维权业主身上，这显示出河南当地正滥用防疫大数据手段进行随意赋码，首度将健康码维稳工具化，使其沦为了新时代的”数字良民证“。星球商业评论是最早关注并揭露维权储户被赋红码的自媒体之一，在这起事件发生之后，河南官方仅对多名官员记过、撤职处分，无人因此受到刑事追责，这种自罚三杯式处理引发了公众的强烈不满。早在健康码出现之时就有人预言，认为它必然会被不受监督的权力滥用，而储户被赋红码事件也的确证明了“权力任性”的胡作非为可以有多么简单，这一事件也极大程度打击了政府公信力以及人们对健康码的信心。2022年9月，一篇由人民日报旗下“国家治理周刊”的报告（于2020年月发布）再引争议，因报告中提到“超九成受访者希望健康码在疫情后继续使用”，结果这个号称代表民意的报告遭到了全网怒骂，网民斥健康码为“电子镣铐、良民证、监控码……”最后官方迫于强大的舆论压力将原文删除。健康码或许在早年取得了一些民众的支持，但“维权储户被红码”事件成为了一个重大的转折点，自此之后，人们的防疫信心严重流失，心态也发生了巨变，有越来越多的民众担心健康码系统会导致公民权利受到限制及隐私遭到侵犯，并明确反对这在特殊时期推行的特殊管理工具在未来走向常态化。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/d6ea4747-9935-4a6b-9768-229032cd7197.png" data-asset-id="d6ea4747-9935-4a6b-9768-229032cd7197" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <h3 id="section-4"><a href="https://chinadigitaltimes.net/chinese/684389.html" rel="noopener noreferrer" target="_blank"><strong>宣克炅｜致知了</strong></a></h3>
+  <blockquote>
+账号名称：@宣克炅｜作者：宣克炅｜平台：个人微博｜删文时间：2022年7月15日  </blockquote>
+  <p>2022年7月，上海一位媒体人宣克炅在个人微博上发布了一首关于知了的打油诗《致知了》，因为诗句中含有“高高在上”、“自以为聪明”、“肥头大耳”、“蛰伏五年”、“爬出阴间”、“用屁股唱赞歌”、“不知人间疾苦”等句子，被不少网民认为是在指桑骂槐影射习近平。在引发争议后，作者在很短的时间里将这篇微博删除，但据称后来作者还是仍因这首打油诗遭到了内部处罚，被迫做出了检讨。写知了唧唧，闹得草木皆兵，目前其实并不清楚作者有无嘲讽习近平的本意，但官方紧张的对号入座却完善了这个荒诞笑话本身，将新时代文字狱推到了一个新的高度，而习近平本人也被网友赋予了一个“知了皇帝”的新称号。当然，这并非习近平今年来唯一的新代号，每隔一段时间习近平都会被网友套上“新皮肤”，而审查部门对于涉习近平的内容审查太过多疑、太过敏感，最终导致它与网民相互“配合”共同造就了层出不穷的“辱包梗”。例如，以下这些名人或称号，都曾被网友用来嘲讽过习近平。周杰伦（网友用周杰伦新歌《最伟大的作品》讽刺习近平不肯退下来）、威廉二世（网友用德意志第二帝国末代皇帝讽刺一个人败坏了一个国家，打输了一手好牌）、易烊千玺（不少黑粉使用 #小学生考编成功 攻击易烊千玺，意外触发涉习近平的敏感词审查）、北京一男子（北京某官媒煽动民众对阳性女子进行道德猎巫，结果”北京一男子致14亿人受长期管控“的回复评论翻车）、独彩者（中共前领导人江泽民去世后中国各网站一篇黑白进行哀悼，但部分网页却出现唯独习近平是彩色的情况，引发调侃）。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/71e94a9a-a350-4984-abe8-7096fb36e347.png" data-asset-id="71e94a9a-a350-4984-abe8-7096fb36e347" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <h3 id="section-5"><a href="https://chinadigitaltimes.net/chinese/686286.html" rel="noopener noreferrer" target="_blank"><strong>安邦咨询｜中国到了调整疫情防控政策的时候</strong></a></h3>
+  <blockquote>
+账号名称：@安邦咨询｜平台：官方网站｜删文时间：2022年8月29日  </blockquote>
+  <p>2022年8月底，四川省会城市成都刚熬过酷暑高温限电，又开始传出将实施多日封城的消息，民间一片惶恐，纷纷参与到了疯狂的抢购囤货之中……值此时刻，创建于1993年的独立跨国智库安邦咨询发表了一篇报告，认为“中国到了调整疫情防控政策的时候”，报告提到随着新冠病毒的不断变异，新的奥密克戎毒株已呈现出高传染性、低重症率、死亡率极低的特点，这一特点导致中国若仍沿用两年前的严格封控措施会付出极高的社会经济成本，而过去一段时间内中国经济也开始面临失速风险，报告最终建议中国应科学调整疫情防控政策，以恢复经济为重，在常态化防控的时期逐步与世界接轨。在安邦咨询呼吁改变清零政策之后，其报告原文很快从官网上下线，疑似遭了有关部门的施压，这也反映出在“防疫要算政治账”这个基本前提之下，常识与科学并没有得到基本的尊重，各种专业意见频频遭到抹杀。在过去的一年中，中国有很多次关于疫情转向的争论，上海封城之前也被认为是最合适的政策转向时机之一，早在今年3月，就有网民撰文建议转变防疫路线，在防疫下半场走向有准备、有规范的共存，然而这类意见却遭到封杀“清零”。最终，基本的事实之争、科学之争却被官方宣传机器出于政治的需要上纲上线为“理念之争”、“制度之争”、“文明之争”，习近平力主的“动态清零”政策在极权机器的全力开动下尽显其统治方式的野蛮和愚昧，在社会和经济面上都让中国民众付出了惨重的代价，并在2022年12月初上演了彻底的烂尾，完全的失败。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/30e5650b-889a-4ecf-a9bd-41ab02c1d092.png" data-asset-id="30e5650b-889a-4ecf-a9bd-41ab02c1d092" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <h3 id="section-6"><a href="https://chinadigitaltimes.net/chinese/687218.html" rel="noopener noreferrer" target="_blank"><strong>折叠青年｜你凭什么认为你不会在那辆凌晨的大巴上？</strong></a></h3>
+  <blockquote>
+账号名称：@折叠青年｜作者：杳酱｜平台：微信公众号｜删文时间：2022年9月18日  </blockquote>
+  <p>2022年9月18日，贵州一辆凌晨转运新冠隔离人员的大巴车发生事故，造成27人身亡，20人受伤。这一重大事故成为了年内伤亡最惨重的防疫此生灾难，彻底点燃了民众的怒火，有网民将这天称做“新国耻日”。当这辆开往隔离集中营的大巴车毁人亡之后，次日贵阳官方宣布“连续三天社会面阳性感染者清零”，而这个所谓的清零成就正是用对27个家庭的“残酷清零”所实现的。灾难发生后，面对前所未有的舆论海啸，网络审查部门也在努力实现评论、意见清零，有大量谈及此事的文章遭到了删除，而这篇《你凭什么认为你不会在那辆凌晨的大巴上？》是所有被删除的文章中最能激起读者共鸣与转发的一篇，文章标题直切要害，即中国变态清零的代价已经深刻影响到了每一个人，人人都是这场闹剧的潜在受害者，每个人都可能在这辆可怕、黑暗的大巴车上，却没有拒绝搭乘的权利。同时这个标题还把人们引向了一个更深刻的更悲惨的隐喻，我们生下来就在那辆无处可逃的大巴上，如同一种原罪、一种诅咒，且常被疯狂的大巴车司机所绑架，驶向那坠落的黑夜。总之，贵州大巴的悲剧虽看似是单一事件，但却凝聚了当今中国各种可悲的政治现实，在凌晨失去生命的27个乘客，也是所有中国人命运的一丝缩影。正如一位网友所言“我不仅在贵州的大巴上，在徐州丰县的铁链里，在拒绝性骚扰后被群殴的烧烤店里，在省吃俭用还贷款却最终烂尾的楼房下，最后在当前无法查看的微博中……”</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/2c9df7dc-45b7-470b-b4ae-6c532ec20db5.png" data-asset-id="2c9df7dc-45b7-470b-b4ae-6c532ec20db5" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <h2 id="section-7"><a href="https://chinadigitaltimes.net/chinese/690011.html" rel="noopener noreferrer" target="_blank"><strong>长安课堂｜十问</strong></a></h2>
+  <blockquote>
+账号名称：@长安课堂｜作者：云梦公子｜平台：微信公众号｜删文时间：2022年11月22日  </blockquote>
+  <p>2022年11月22日，一篇名为《十问》的文章在微信公众号“长安课堂”上发出，文章对卫生主管机构——卫健委提出了十个问题，直指中国的疫情防控政策，质疑中国政府防疫不力。文章发布后不久便被网民转成了十万+，足见其引发了何等广泛的共鸣，但最终这篇文章还是遭到了全网删除，作者账号也遭到屏蔽，微信提示“此帐号已被屏蔽, 内容无法查看”。目前，在中国结束清零之后再度回看这篇文章，其中的几个问题依然掷地有声，值得继续追问，例如“对于基层防疫的层层加码，卫健委处理了几个人？”、“我们的新冠防控政策决策依据究竟是什么？是数据，是模型, 还是推测？”、“我们不去对标和自己国情差不多的印度，不去学习尼日利亚，整天统计美国的数字，这样对我们防疫有什么实际意义？”…..讽刺的是，当初在这篇微信文章《十问》的评论区，有一位网友提前留下了“十一问”—— “为什么要删这篇文章”，成功预言了这篇文章的消失。一篇态度相当谦和、没有任何激烈情绪、通篇都是常识性内容的文字，甚至未有表露出明显的态度分歧，即便这样，它还是连同账号一起消失了，这也证明了中国政府在防疫政策层面对于不同意见的压制已经到了何种程度，哪怕一丝对清零的不满也会被视作对权威的重大挑战，《十问》这类文章的出现及消失，其实暗含着一种信号即在中国有关“清零政策”的公共言论空间已彻底消失，而这也为几天后席卷全国的“白纸运动”埋下了重要的伏笔。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/51273334-16bd-44b2-827e-6e586e9dfe34.png" data-asset-id="51273334-16bd-44b2-827e-6e586e9dfe34" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <h3 id="section-8"><a href="https://chinadigitaltimes.net/chinese/690192.html" rel="noopener noreferrer" target="_blank"><strong>好吃的林君君｜乌鲁木齐中路2022.11.26</strong></a></h3>
+  <blockquote>
+账号名称：@好吃的林君君｜作者：好吃的林君君｜平台：微信公众号｜删文时间：2022年11月26日  </blockquote>
+  <p>2022年11月24日，就在《十问》这篇文章发布的两天之后，乌鲁木齐市天山区吉祥苑小区发生了一起严重的火灾，事故造成10人死亡、9人受伤，有许多网民质疑当局对于小区的严厉封控阻碍了救援，并对此表示愤怒和不满。而这一事件也引发了多个省市民众与数十所大学学生的群聚抗议。其中，上海市民于26日晚自发来到当地一条与乌鲁木齐同名的“乌鲁木齐中路”发起悼念，而这篇图片报道便记录了当时上海市民是怎样平和的献上鲜花、点起蜡烛、表达哀思。但在几小时后，长期以来积攒在民众心中对清零政策的不满被点燃，上海市民终于在乌鲁木齐中路上喊出了最激烈的抗议口号——“共产党下台”、“习近平下台”，场面震撼人心。这也是中国“动态清零”近三年来，首次有民众集体喊出直指中共及最高领导人的政治口号。这样足以载入历史的场景就是真是的发生了，发生在乌鲁木齐中路，而此时它距八九六四33年，距李文亮去世近3年，距上海封城近8个月，距北京四通桥的横幅抗议以及习近平的成功连任仅1个多月。抗议发生之后，“乌鲁木齐中路”这个民主运动圣地自然成为了高级别网络敏感词，这也导致这篇《乌鲁木齐中路2022.11.26》遭到删除，成为中国数字时代唯一收集到的一篇404现场报道，报道相当意外的以记录民众送花悼念的方式，提前记录下了2022年末一个重大的抗议现场，在这里，人民哀伤、愤怒，而愤怒的人民不再恐惧。或许，网络审查者们自己都没有料到，白纸革命的发生，恰恰是过去数年间无数次的网络审查所带来的一种结果，正如网友@麦烧同学 所言，“本来很难形成共识的群体，是你们用404让大家找到共识……” 正因为一切早已删无可删，才让一张没有任何内容的A4白纸就足以构成反抗的经典表达，因为它们删过什么，上面就有什么。它们惧怕什么，上面就有什么。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/5d658a90-8962-45d2-b11d-d940f43b2a6f.jpeg" data-asset-id="5d658a90-8962-45d2-b11d-d940f43b2a6f" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p><br /></p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#中国数字时代 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-02-12/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC276%E6%9C%9F-%E5%94%B1%E7%A6%81%E6%AD%8C-%E5%88%B0-%E7%A6%81%E6%AD%A2%E5%90%90%E6%A7%BD-%E8%A7%81%E8%AF%81%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E5%8F%98%E8%BF%81%E7%9A%84%E6%98%A5%E6%99%9A/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2021-12-14/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E4%B8%93%E8%AE%BF-%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3%E5%AF%B9%E8%AF%9D-%E8%A7%A3%E6%9E%84%E6%96%B0%E7%96%86%E9%95%87%E5%8E%8B-%E7%AC%AC%E4%B8%80%E4%BD%9C%E8%80%85%E8%AE%B8%E7%A7%80%E4%B8%AD/">最早</a>--</span>
+    
+      <li>
+        <time>2023-01-02</time>
+        <a href="https://nodebe4.github.io/opinion/2023-01-02/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E9%AD%94%E5%B9%BB%E6%8A%97%E7%96%AB%E6%94%BB%E9%98%B2%E6%88%98-2022%E5%B9%B4%E5%BA%A6-%E6%AF%8F%E6%97%A5%E4%B8%80%E8%AF%AD/">
+          【年终专题】魔幻抗疫攻防战：2022年度“每日一语”
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-01-02</time>
+        <a href="https://nodebe4.github.io/opinion/2023-01-02/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E4%BB%8E-%E6%88%91%E7%9A%84%E8%81%8C%E8%B4%A3-%E5%88%B0-%E6%88%91%E4%BB%AC%E7%9A%84%E8%81%8C%E8%B4%A3-2022%E5%B9%B4%E5%BA%A6%E6%95%8F%E6%84%9F%E8%AF%8D/">
+          【年终专题】从“我的职责”到“我们的职责”……2022年度敏感词
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-12-31</time>
+        <a href="https://nodebe4.github.io/opinion/2022-12-31/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E6%B6%A6-%E6%91%86%E7%83%82-%E9%9D%9E%E5%BF%85%E8%A6%81%E4%B8%8DXX-2022%E5%B9%B4%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%B5%81%E8%A1%8C%E8%AF%AD/">
+          【年终专题】润、摆烂、非必要不XX……2022年度网络流行语
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-12-31</time>
+        <a href="https://nodebe4.github.io/opinion/2022-12-31/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC231%E6%9C%9F-%E8%A2%AB%E5%90%AC%E5%88%B0%E7%9A%84%E5%91%90%E5%96%8A-%E8%B7%A8%E8%B6%8A%E5%9B%BD%E5%A2%83%E7%9A%84%E8%81%94%E7%BB%93%E4%B8%8E%E7%9C%8B%E8%A7%81%E5%B0%91%E6%95%B0%E7%BE%A4%E4%BD%93%E7%9A%84%E5%8A%AA%E5%8A%9B-%E7%99%BD%E7%BA%B8%E9%9D%A9%E5%91%BD-%E5%8F%8A%E5%85%B6%E4%BD%99/">
+          【404档案馆】第231期: 被听到的呐喊、跨越国境的联结与看见少数群体的努力——“白纸革命”及其余波
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-12-31/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E6%B6%A6-%E6%91%86%E7%83%82-%E9%9D%9E%E5%BF%85%E8%A6%81%E4%B8%8DXX-2022%E5%B9%B4%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%B5%81%E8%A1%8C%E8%AF%AD/">
+            前一篇：【年终专题】润、摆烂、非必要不XX……2022年度网络流行语
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2023-01-01/EnclavedMicrostate/">
+            後一篇：EnclavedMicrostate在2022-12-26~2023-01-01的言论
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-12-31/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E6%B6%A6-%E6%91%86%E7%83%82-%E9%9D%9E%E5%BF%85%E8%A6%81%E4%B8%8DXX-2022%E5%B9%B4%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%B5%81%E8%A1%8C%E8%AF%AD/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2023-01-01/EnclavedMicrostate/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2023-01-02/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E4%BB%8E-%E6%88%91%E7%9A%84%E8%81%8C%E8%B4%A3-%E5%88%B0-%E6%88%91%E4%BB%AC%E7%9A%84%E8%81%8C%E8%B4%A3-2022%E5%B9%B4%E5%BA%A6%E6%95%8F%E6%84%9F%E8%AF%8D/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-12-31/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E6%B6%A6-%E6%91%86%E7%83%82-%E9%9D%9E%E5%BF%85%E8%A6%81%E4%B8%8DXX-2022%E5%B9%B4%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%B5%81%E8%A1%8C%E8%AF%AD/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-12-31/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E6%B6%A6-%E6%91%86%E7%83%82-%E9%9D%9E%E5%BF%85%E8%A6%81%E4%B8%8DXX-2022%E5%B9%B4%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%B5%81%E8%A1%8C%E8%AF%AD/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2023-01-01/EnclavedMicrostate/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<中国数字时代>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2023-01-02/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E4%BB%8E-%E6%88%91%E7%9A%84%E8%81%8C%E8%B4%A3-%E5%88%B0-%E6%88%91%E4%BB%AC%E7%9A%84%E8%81%8C%E8%B4%A3-2022%E5%B9%B4%E5%BA%A6%E6%95%8F%E6%84%9F%E8%AF%8D/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<中国数字时代>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-12-31/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E6%B6%A6-%E6%91%86%E7%83%82-%E9%9D%9E%E5%BF%85%E8%A6%81%E4%B8%8DXX-2022%E5%B9%B4%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%B5%81%E8%A1%8C%E8%AF%AD/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

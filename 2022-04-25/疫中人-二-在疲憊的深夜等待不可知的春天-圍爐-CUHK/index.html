@@ -1,0 +1,1049 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>疫中人（二）——在疲憊的深夜等待不可知的春天|圍爐·CUHK – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+疫中人（二）——在疲憊的深夜等待不可知的春天|圍爐·CUHK
+——
+" />
+    <meta property="og:description" content="
+疫中人（二）——在疲憊的深夜等待不可知的春天|圍爐·CUHK
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="疫中人（二）——在疲憊的深夜等待不可知的春天|圍爐·CUHK" />
+    <meta property="twitter:title" content="疫中人（二）——在疲憊的深夜等待不可知的春天|圍爐·CUHK" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fmatters.news%2F%40weiluflame%2F%25E7%2596%25AB%25E4%25B8%25AD%25E4%25BA%25BA-%25E4%25BA%258C-%25E5%259C%25A8%25E7%2596%25B2%25E6%2586%258A%25E7%259A%2584%25E6%25B7%25B1%25E5%25A4%259C%25E7%25AD%2589%25E5%25BE%2585%25E4%25B8%258D%25E5%258F%25AF%25E7%259F%25A5%25E7%259A%2584%25E6%2598%25A5%25E5%25A4%25A9-%25E5%259C%258D%25E7%2588%2590-cuhk-bafyreib3c63lu4ot47htnfsqbx3z72b7rlvn5ecc6vhfu2wnx3iwlywpdu" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://matters.news/@weiluflame/%E7%96%AB%E4%B8%AD%E4%BA%BA-%E4%BA%8C-%E5%9C%A8%E7%96%B2%E6%86%8A%E7%9A%84%E6%B7%B1%E5%A4%9C%E7%AD%89%E5%BE%85%E4%B8%8D%E5%8F%AF%E7%9F%A5%E7%9A%84%E6%98%A5%E5%A4%A9-%E5%9C%8D%E7%88%90-cuhk-bafyreib3c63lu4ot47htnfsqbx3z72b7rlvn5ecc6vhfu2wnx3iwlywpdu" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://matters.news/@weiluflame/%E7%96%AB%E4%B8%AD%E4%BA%BA-%E4%BA%8C-%E5%9C%A8%E7%96%B2%E6%86%8A%E7%9A%84%E6%B7%B1%E5%A4%9C%E7%AD%89%E5%BE%85%E4%B8%8D%E5%8F%AF%E7%9F%A5%E7%9A%84%E6%98%A5%E5%A4%A9-%E5%9C%8D%E7%88%90-cuhk-bafyreib3c63lu4ot47htnfsqbx3z72b7rlvn5ecc6vhfu2wnx3iwlywpdu&text=疫中人（二）——在疲憊的深夜等待不可知的春天|圍爐·CUHK&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://matters.news/@weiluflame/%E7%96%AB%E4%B8%AD%E4%BA%BA-%E4%BA%8C-%E5%9C%A8%E7%96%B2%E6%86%8A%E7%9A%84%E6%B7%B1%E5%A4%9C%E7%AD%89%E5%BE%85%E4%B8%8D%E5%8F%AF%E7%9F%A5%E7%9A%84%E6%98%A5%E5%A4%A9-%E5%9C%8D%E7%88%90-cuhk-bafyreib3c63lu4ot47htnfsqbx3z72b7rlvn5ecc6vhfu2wnx3iwlywpdu&title=疫中人（二）——在疲憊的深夜等待不可知的春天|圍爐·CUHK" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://matters.news/@weiluflame/%E7%96%AB%E4%B8%AD%E4%BA%BA-%E4%BA%8C-%E5%9C%A8%E7%96%B2%E6%86%8A%E7%9A%84%E6%B7%B1%E5%A4%9C%E7%AD%89%E5%BE%85%E4%B8%8D%E5%8F%AF%E7%9F%A5%E7%9A%84%E6%98%A5%E5%A4%A9-%E5%9C%8D%E7%88%90-cuhk-bafyreib3c63lu4ot47htnfsqbx3z72b7rlvn5ecc6vhfu2wnx3iwlywpdu&title=疫中人（二）——在疲憊的深夜等待不可知的春天|圍爐·CUHK" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=疫中人（二）——在疲憊的深夜等待不可知的春天|圍爐·CUHK&body=
+疫中人（二）——在疲憊的深夜等待不可知的春天|圍爐·CUHK
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://matters.news/@weiluflame/%E7%96%AB%E4%B8%AD%E4%BA%BA-%E4%BA%8C-%E5%9C%A8%E7%96%B2%E6%86%8A%E7%9A%84%E6%B7%B1%E5%A4%9C%E7%AD%89%E5%BE%85%E4%B8%8D%E5%8F%AF%E7%9F%A5%E7%9A%84%E6%98%A5%E5%A4%A9-%E5%9C%8D%E7%88%90-cuhk-bafyreib3c63lu4ot47htnfsqbx3z72b7rlvn5ecc6vhfu2wnx3iwlywpdu" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://matters.news/@weiluflame/%E7%96%AB%E4%B8%AD%E4%BA%BA-%E4%BA%8C-%E5%9C%A8%E7%96%B2%E6%86%8A%E7%9A%84%E6%B7%B1%E5%A4%9C%E7%AD%89%E5%BE%85%E4%B8%8D%E5%8F%AF%E7%9F%A5%E7%9A%84%E6%98%A5%E5%A4%A9-%E5%9C%8D%E7%88%90-cuhk-bafyreib3c63lu4ot47htnfsqbx3z72b7rlvn5ecc6vhfu2wnx3iwlywpdu&title=疫中人（二）——在疲憊的深夜等待不可知的春天|圍爐·CUHK&caption=
+疫中人（二）——在疲憊的深夜等待不可知的春天|圍爐·CUHK
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=疫中人（二）——在疲憊的深夜等待不可知的春天|圍爐·CUHK&url=https://matters.news/@weiluflame/%E7%96%AB%E4%B8%AD%E4%BA%BA-%E4%BA%8C-%E5%9C%A8%E7%96%B2%E6%86%8A%E7%9A%84%E6%B7%B1%E5%A4%9C%E7%AD%89%E5%BE%85%E4%B8%8D%E5%8F%AF%E7%9F%A5%E7%9A%84%E6%98%A5%E5%A4%A9-%E5%9C%8D%E7%88%90-cuhk-bafyreib3c63lu4ot47htnfsqbx3z72b7rlvn5ecc6vhfu2wnx3iwlywpdu" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>疫中人（二）——在疲憊的深夜等待不可知的春天|圍爐·CUHK</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-04-25
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: 围炉weiluflame</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#围炉">
+          围炉
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://matters.news/@weiluflame/%E7%96%AB%E4%B8%AD%E4%BA%BA-%E4%BA%8C-%E5%9C%A8%E7%96%B2%E6%86%8A%E7%9A%84%E6%B7%B1%E5%A4%9C%E7%AD%89%E5%BE%85%E4%B8%8D%E5%8F%AF%E7%9F%A5%E7%9A%84%E6%98%A5%E5%A4%A9-%E5%9C%8D%E7%88%90-cuhk-bafyreib3c63lu4ot47htnfsqbx3z72b7rlvn5ecc6vhfu2wnx3iwlywpdu" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="围炉的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#围炉 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1650895360000-->
+<p><a href="https://matters.news/@weiluflame/%E7%96%AB%E4%B8%AD%E4%BA%BA-%E4%BA%8C-%E5%9C%A8%E7%96%B2%E6%86%8A%E7%9A%84%E6%B7%B1%E5%A4%9C%E7%AD%89%E5%BE%85%E4%B8%8D%E5%8F%AF%E7%9F%A5%E7%9A%84%E6%98%A5%E5%A4%A9-%E5%9C%8D%E7%88%90-cuhk-bafyreib3c63lu4ot47htnfsqbx3z72b7rlvn5ecc6vhfu2wnx3iwlywpdu">疫中人（二）——在疲憊的深夜等待不可知的春天|圍爐·CUHK</a>
+——</p>
+
+<div>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/56c0989d-a04b-4eb2-aea8-c8f31586c49b.jpeg" data-asset-id="56c0989d-a04b-4eb2-aea8-c8f31586c49b" referrerpolicy="no-referrer" />    <figcaption>
+<span>圖/志願者在等待來做核酸的醫生</span>
+    </figcaption>
+  </figure>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/8c4cf648-8871-4470-abdb-b1922e295dda.png" data-asset-id="8c4cf648-8871-4470-abdb-b1922e295dda" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>兩年前的春天，各地的疫情逐漸趨於平緩，生活的秩序開始慢慢恢復正常，而在上海，今年的春天卻並未如期而至。</p>
+  <p>疫情之下，隨時準備進入緊急動員抗疫模式的“戰時狀態”取代了原本生活平穩的常態，秩序隨著政策的變化和疫情的波動永遠處在不確定裏。 突然大規模爆發的疫情讓許多基層組織單位措手不及。 位於浦東新區的一個社區裏，居委會意外在疫情爆發之初就被集體隔離，幾名志願者在封閉的樓棟中實驗了一場社群自治。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/7ad777e4-e23e-4dc9-86fb-78cd2cd9482f.png" data-asset-id="7ad777e4-e23e-4dc9-86fb-78cd2cd9482f" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <h2 id="section"><strong>1</strong></h2>
+  <h2 id="section-1"><strong>“穿著雨衣的臨時志願者”</strong></h2>
+  <p>我3月份的時候在學校，最開始疫情還沒大規模爆發時，疫情軌跡就很多次涉及了我們學校，所以學校從3月2日左右就已經開始封校了。 那時候我們在學校裏大約關到了3月23日左右，這時候外面感染的人已經逐漸多起來了。 學校讓有上海居住地的學生先回家，然後我就回了社區，沒想到剛回家兩三天，社區裏的感染者就逐漸多了起來。</p>
+  <p>3月24日那天浦東新區全員核酸，我就報名了臨時志願者。 那時候我們的防護裝備非常簡陋，連防護服都沒有，穿了件雨衣，戴上n95口罩和手套就去做志願者了。 結果當天核酸結果一出發現我們樓裏就有陽性，那天開始我們樓就被封了起來。 當時居委會還是正常地來組織大家做核酸的，結果由於一個志願者感染了但他自己不知情，於是在和居委近距離接觸聊天的過程中感染了居委會的社工，而其他居委會人員也囙此成為了密接。 所以居委從我們社區開始出現疫情的第一天就被集體隔離，鎖在辦公室裏，這就直接導致初期的管理很混亂。 後面街道還派了10名志願者來，結果他們由於跟居委會是次密接所以剛一過來就被隔離了。 在核酸轉陰並解除隔離之後，他們又說不做了。 因為他們覺得住宿環境太差，每天幹活也挺多，所以就直接捲舖蓋走人了，一點忙都沒幫上。 所以其實我們整個街道，甚至可以說整個浦東新區都蠻混亂的。</p>
+  <p>我們被封在了樓裏，居委會又被封鎖在辦公室，管理很混亂的情况下，我們樓的居民就只能自發組織起了志願者的工作。 最初是我認識的一個鄰居主動站出來說，既然都出來當志願者了，就一直幹下去吧。 其實說不幹也很簡單，沒有人會指責我們，只是覺得總要有人站出來為大家安排好這些事情，不能讓局面就這麼混亂下去。 我就覺得不能讓他一個人承擔這麼多，居民的核酸檢測，物資運送，這麼大的工作量不能都堆在他一個人身上，於是我也順理成章地變成了我們樓棟的志願者。 最開始只有四名志願者在維持所有疫情期間樓裏的工作，沒有人告訴我們要做什麼，應該怎麼做，也沒有人給我們提供物資和設備的幫助，所以只能我們自發組織志願者，安排各種大小防疫事宜。 就這樣，社區進入了一種樓棟自治的狀態。</p>
+  <h2 id="section-2"><strong>2</strong></h2>
+  <h2 id="section-3"><strong>“疫情中的守望”</strong></h2>
+  <p>剛開始的工作還蠻艱難的，畢竟真的一切都是從零開始。 那時居委會每天給一棟樓發兩套防護服，意味著每天一共只有兩個志願者參與輪班，可這樣一個志願者得連續高强度工作六小時，囙此一天兩套防護服肯定是不够的。 所幸我們樓裏有一戶人家是醫生，他捐了一些手術用的衣服，相當於簡單的防護，總歸比雨衣好一些。 後來到了四月初才每天能發到四套防護服，偶爾會多發兩套。 而具體的志願者工作方面，搬運物資倒還好，只需要按照名單把樓下的物資分發到對應的家庭就可以，只是跑上跑下累了些，但這些體力勞動算得上是疫情期間最簡單的工作了。</p>
+  <p>比較麻煩的是做核酸和發抗原檢測盒，記得我們第一次組織安排大家做核酸是28號的時候，當時大概是晚上七八點了，天也挺黑的，那次是浙江的醫生來幫我們做核酸。 一開始他們是把我們所有人全部一起叫下來，而我們有十八層樓，只有兩個電梯，如果散著下來一批批等電梯會耗費很長的時間，所以我們就催大家快點都出門準備下樓。 結果下來後發現做核酸有各種意外的突發事件，一會是熱敏紙沒了，一會是咽拭子的棉簽沒了，不斷地因為這種事件中斷核酸檢測行程，這些完全在我們意料之外。 囙此等待做核酸的隊伍就排的很長很長，效率非常低下。</p>
+  <p>第二次核酸的時候我們就跟醫生商量，能不能等志願者把所有準備工作做好後再上門做核酸。 我們四個人開了個會分配任務，提前一天晚上挨家挨戶敲門，提醒大家截圖好健康雲的核酸檢測二維碼，幫不會操作手機的老人也登記好資訊，準備好備用的檢測用品，沒了就換。 改變了一下策略後，檢測就快了很多。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/c8932ca8-933d-4dc8-a211-31abafd8b938.jpeg" data-asset-id="c8932ca8-933d-4dc8-a211-31abafd8b938" referrerpolicy="no-referrer" />    <figcaption>
+<span>圖/志願者做核酸前開會商討注意事項</span>
+    </figcaption>
+  </figure>
+  <p>我們樓裏其實老年人是比較多的，他們在疫情期間遇到了蠻大的困難。 比如他們不會用手機訂菜，不會截圖做核酸提前要準備的二維碼，坐在輪椅上不方便拿抗原拿物資，我們就要上門幫他們逐個解决這些問題； 確診了陽性但尚未被轉走的人也有許多，我們要幫他們上門送物資，清理垃圾； 還有一些需要藥的病人，這是很緊急的需求，我們當然要想辦法盡可能幫到他們。 一來二去的就跟樓裏的大家都熟悉了起來，他們遇到困難就直接來找我們幫忙解决。 我在此之前從來沒有見過我的大部分鄰居，見過的也僅僅只是有些眼熟，這次志願者的經歷讓我一下子和很多人有了交流，也感受到了這棟樓的溫度。 我們樓上有個獨居的陽性感染者，周圍的鄰里也會時常關心他，送去一些自己也並不充裕的牛奶雞蛋。 疫情下的鄰里關係似乎尤其和睦親密，大家都在互相守望著期盼熬過這段時間。</p>
+  <p>樓裏還有一家住了兩個人，一個人精神不太正常，另一個是八十幾歲的老年人，兩天從床上摔下來了兩三次，兩個人都不能自理生活，在疫情下也就尤其困難。 一天我們穿著防護服去辦他們測抗原的時候，發現那個老人躺在地上，卡在床和窗戶的夾縫裏，他身上的衣服亂糟糟的，神智也有些不清晰，聽不清我們在跟他說什麼，可能已經在地上躺了一兩個小時了。 我們擔心二次傷害便不敢隨意動他，就直接聯系了居委會打急救電話，但他被救護車接走後，醫院說他沒有生命危險，特殊情况下不能接收這樣的病人住院，他就被原路送了回來。</p>
+  <p>幾天前我們收到了一條消息，說那位老人已經去世了。</p>
+  <h2 id="section-4"><strong>3</strong></h2>
+  <h2 id="section-5"><strong>“只能親眼看到的資訊”</strong></h2>
+  <p>不過最影響我們工作的是疫情期間的資訊差，我們和居委會以及居民的直接聯系是比較通暢的，但是很多時候居委會接收到的內容也是模糊不清的，街道或者更上級有時就沒有給他們傳達明確的資訊。 比如有幾次疾控中心來複測，這就說明前一天的核酸混檢有陽性，但是問街道和居委會這些資訊的時候，他們說沒有收到這方面的通知。</p>
+  <p>還有一次疾控通知居委會說某家感染者已經被轉運離開了社區，但實際上他還在樓裏，也沒有人通知我們他還沒走。 我們發現這件事還是在有一天發物資的時候，他們問我們能不能下樓去拿。 像這樣的事經常發生，很多事情追溯不到一個可靠的資訊源頭，只能相信自己看到的東西，也只能通過親眼去看來得到許多消息。</p>
+  <p>我們居委書記寫的辭職信，《春天快來了》，說沒有人通知他們什麼時候來做核酸複測，沒有人通報社區居民的感染情况怎麼樣，也不知道健康雲顯示的核酸報告是否可信。 這封信講的都是真實存在的問題，事實就是我們只能通過自己看到的情况來判斷真實的數據。 食物、藥物、防疫用品的短缺，混亂的資訊，死板的命令，遙遙無期的解封日期，我們不知道我們生活在何種當下，也不知道等待著怎樣的明天。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/6876b872-0b6c-47a6-9c17-fb2d4aec1cbe.png" data-asset-id="6876b872-0b6c-47a6-9c17-fb2d4aec1cbe" referrerpolicy="no-referrer" />    <figcaption>
+<span>圖/昌裏花園居民區書記吳穎川的辭職信</span>
+    </figcaption>
+  </figure>
+  <p>就這樣我們四個志願者輪班，負責搬物資、幫忙做核酸、給居民發通知溝通資訊、消毒樓棟大廳和電梯、幫不會自測抗原的人上門檢測，什麼需要幹，我們就得頂上什麼崗位，每個人每天連著工作三個小時，一天天重複著輪下來。</p>
+  <h2 id="section-6"><strong>4</strong></h2>
+  <h2 id="section-7"><strong>“等待不可知的春天”</strong></h2>
+  <p>其實起初來報名當志願者，根本沒有考慮太多感染風險的事情，當時我們社區還沒有感染者，只是沒想到第一天就測出了好多陽性。 不過後來逐漸發現自己需要暴露在更危險的環境裏，比如要去處理感染者的垃圾等，漸漸意識到了風險，也沒有考慮放弃當志願者。 畢竟志願者一共就那麼三四個人，一直順著慣性就做了十幾天，覺得做好防護措施也沒什麼。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/6d0c7854-db6f-4a31-bd4d-aed5e5022cc9.jpeg" data-asset-id="6d0c7854-db6f-4a31-bd4d-aed5e5022cc9" referrerpolicy="no-referrer" />    <figcaption>
+<span>圖/志願者協助完成上門核酸採樣</span>
+    </figcaption>
+  </figure>
+  <p>剛開始穿上防護服那天覺得勁道很足，畢竟是很陌生的體驗，覺得自己好像真正成為了一名正式的志願者大白，那是我之前會覺得有些許距離感的身份，在這種新鮮感和使命感的驅使下也沒覺得工作有多累。 後面有三小時一次的輪班，身體上的疲勞也是可以應付的，比起門口可能需要早六晚十連軸轉，騎著電瓶車運物資的志願者，我們的工作還是輕鬆不少的。 但我們逐漸發現作為疫情下的志願者，需要應對很複雜也很多變的環境。 這是我們第一次這麼近距離地碰到疫情，許多方案都需要不斷地調整優化，如果一直按照一套死板僵硬的規則操作會很大程度降低效率，政策的改變也時刻影響著我們的工作內容。</p>
+  <p>記得健康雲系統換成核酸碼的那天，我正好輪到了最晚的一班，理論上應該是從五點半到八點半，但突然在下午臨時通知社區要做核酸，而整個社區26棟樓一共只有三組醫生來了。 我們本以為到了晚上八九點就可以暫時不做了，沒想到街道通知我們今天無論如何都要做完，所以我就一直等到了晚上十點才終於等來了醫生。 當時防護服的數量很緊缺，由於防護服每天都要換洗，為了節省防護服，那天晚上就沒有人和我換班，我只能自己一直等下去，一直到了12點一刻核酸檢測才終於結束了。 七個小時後我終於第一次脫下了防護服，喝到了水。 這天已經是我作為志願者連軸轉式工作的第13天了。 深夜十點半，從一歲小孩到七八十歲老人，全樓三百多比特居民都被從家裡叫到樓下做核酸。 鄰居們抱怨著為什麼要這麼晚下樓，周身紛亂的聲音在耳邊不斷地縈繞著，可我們根本無能為力，上面給的命令就只能實行，我們能做的只有優化流程，儘量減少耽誤大家的時間。 做核酸的醫生連續高密度工作，累得半死不活，居委會也近乎癱瘓，所有人都疲憊不堪。 那個夜裡，一種巨大的荒謬感籠罩著我。 今年的春天什麼時候才會到來呢，我不知道，也看不到。</p>
+  <p>文| Vinyl</p>
+  <p>圖|由受訪人提供</p>
+  <p>審稿|何亦陽</p>
+  <p>微信編輯| Tho</p>
+  <p>matters編輯| Gigi</p>
+  <p>圍爐（ID:weilu_flame）</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/e9830ed6-2afb-4942-bc9e-7f93a827f9c8.png" data-asset-id="e9830ed6-2afb-4942-bc9e-7f93a827f9c8" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>文中圖片未經同意，請勿用作其他用途</p>
+  <p>歡迎您在文章下方評論，與圍爐團隊和其他讀者交流討論</p>
+  <p>欲瞭解圍爐、閱讀更多文章，請關注本公眾號並在公眾號頁面點擊相應選單欄目</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/c3a882e1-f9dc-454d-bb83-355910fbd985.png" data-asset-id="c3a882e1-f9dc-454d-bb83-355910fbd985" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/7a1fdefe-baa0-4bd5-8bda-90c8f1d566b3.png" data-asset-id="7a1fdefe-baa0-4bd5-8bda-90c8f1d566b3" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p><br /></p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#围炉 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2024-10-03/%E5%AF%B9%E8%AF%9D%E5%A5%B3%E6%80%A7%E6%B0%91%E5%B7%A5-%E5%9C%A8%E5%9F%8E%E5%B8%82%E9%87%8C-%E5%9C%A8%E5%B7%A5%E4%BD%9C%E5%92%8C%E5%AE%B6%E5%BA%AD%E4%B9%8B%E9%97%B4-%E5%9B%B4%E7%82%89-CU/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2021-03-23/%E5%AF%B9%E8%AF%9D%E9%BB%84%E6%B3%93%E7%BF%94-%E8%87%B4%E5%8A%9B%E4%BA%8E%E5%9F%B9%E8%82%B2%E4%B8%96%E7%95%8C%E5%85%AC%E6%B0%91%E7%9A%84%E4%B8%AD%E5%8D%97%E5%B1%8B%E5%88%9B%E5%A7%8B%E4%BA%BA-%E8%AE%B2%E5%BA%A7%E6%91%98%E8%A6%81/">最早</a>--</span>
+    
+      <li>
+        <time>2022-08-08</time>
+        <a href="https://nodebe4.github.io/opinion/2022-08-08/%E5%B0%8D%E8%A9%B1%E5%94%90%E6%B7%A9-%E7%A4%BE%E6%9C%83%E5%AD%B8%E8%88%87%E8%97%9D%E8%A1%93-%E5%9C%8D%E7%88%90-HKU/">
+          對話唐淩：社會學與藝術｜圍爐·HKU
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-08-07</time>
+        <a href="https://nodebe4.github.io/opinion/2022-08-07/%E5%9C%8D%E7%88%90%E5%B0%8F%E7%82%92-%E5%9B%9E%E7%9C%8B%E7%96%AB%E6%83%85%E4%B8%AD%E7%9A%84%E5%B0%81%E6%8E%A7-%E8%BF%94%E9%84%89%E8%88%87%E9%9A%94%E9%9B%A2-%E5%9C%8D%E7%88%90-NYUSH/">
+          圍爐小炒：回看疫情中的封控、返鄉與隔離 | 圍爐·NYUSH
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-04-23</time>
+        <a href="https://nodebe4.github.io/opinion/2022-04-23/%E7%96%AB%E4%B8%AD%E4%BA%BA-%E4%B8%80-%E6%AF%8F%E5%80%8B%E4%BA%BA%E9%83%BD%E6%98%AF%E8%8D%92%E8%AA%95%E5%B0%8F%E8%AA%AA%E7%9A%84%E4%B8%BB%E8%A7%92-%E5%9C%8D%E7%88%90-CUHK/">
+          疫中人（一）——每個人都是荒誕小說的主角|圍爐·CUHK
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-04-19</time>
+        <a href="https://nodebe4.github.io/opinion/2022-04-19/%E5%9C%8D%E7%88%90%E8%A9%95%E8%AB%96-%E7%89%A2%E7%8D%84-%E5%9C%8D%E5%9F%8E%E8%88%87%E9%AB%98%E7%89%86/">
+          圍爐評論|牢獄、圍城與高牆
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-04-25/%E9%A0%90%E7%9F%A5%E5%B9%B3%E5%BA%B8%E8%88%87%E8%B2%A7%E4%B9%8F-%E5%8F%8D%E6%80%9D-%E9%9B%99%E8%AA%9E%E5%9C%8B%E5%AE%B6-%E6%94%BF%E7%AD%96-%E9%AB%98%E5%B3%B0%E8%AB%96%E5%A3%87%E7%B3%BB%E5%88%97/">
+            前一篇：預知平庸與貧乏：反思「雙語國家」政策 | 高峰論壇系列
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-04-25/Beyond-Aggregation-Amazon-as-a-Service/">
+            後一篇：Beyond Aggregation: Amazon as a Service
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-04-25/%E9%A0%90%E7%9F%A5%E5%B9%B3%E5%BA%B8%E8%88%87%E8%B2%A7%E4%B9%8F-%E5%8F%8D%E6%80%9D-%E9%9B%99%E8%AA%9E%E5%9C%8B%E5%AE%B6-%E6%94%BF%E7%AD%96-%E9%AB%98%E5%B3%B0%E8%AB%96%E5%A3%87%E7%B3%BB%E5%88%97/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-04-25/Beyond-Aggregation-Amazon-as-a-Service/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-08-07/%E5%9C%8D%E7%88%90%E5%B0%8F%E7%82%92-%E5%9B%9E%E7%9C%8B%E7%96%AB%E6%83%85%E4%B8%AD%E7%9A%84%E5%B0%81%E6%8E%A7-%E8%BF%94%E9%84%89%E8%88%87%E9%9A%94%E9%9B%A2-%E5%9C%8D%E7%88%90-NYUSH/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-04-23/%E7%96%AB%E4%B8%AD%E4%BA%BA-%E4%B8%80-%E6%AF%8F%E5%80%8B%E4%BA%BA%E9%83%BD%E6%98%AF%E8%8D%92%E8%AA%95%E5%B0%8F%E8%AA%AA%E7%9A%84%E4%B8%BB%E8%A7%92-%E5%9C%8D%E7%88%90-CUHK/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-04-25/%E9%A0%90%E7%9F%A5%E5%B9%B3%E5%BA%B8%E8%88%87%E8%B2%A7%E4%B9%8F-%E5%8F%8D%E6%80%9D-%E9%9B%99%E8%AA%9E%E5%9C%8B%E5%AE%B6-%E6%94%BF%E7%AD%96-%E9%AB%98%E5%B3%B0%E8%AB%96%E5%A3%87%E7%B3%BB%E5%88%97/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-04-25/Beyond-Aggregation-Amazon-as-a-Service/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<围炉>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-08-07/%E5%9C%8D%E7%88%90%E5%B0%8F%E7%82%92-%E5%9B%9E%E7%9C%8B%E7%96%AB%E6%83%85%E4%B8%AD%E7%9A%84%E5%B0%81%E6%8E%A7-%E8%BF%94%E9%84%89%E8%88%87%E9%9A%94%E9%9B%A2-%E5%9C%8D%E7%88%90-NYUSH/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<围炉>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-04-23/%E7%96%AB%E4%B8%AD%E4%BA%BA-%E4%B8%80-%E6%AF%8F%E5%80%8B%E4%BA%BA%E9%83%BD%E6%98%AF%E8%8D%92%E8%AA%95%E5%B0%8F%E8%AA%AA%E7%9A%84%E4%B8%BB%E8%A7%92-%E5%9C%8D%E7%88%90-CUHK/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

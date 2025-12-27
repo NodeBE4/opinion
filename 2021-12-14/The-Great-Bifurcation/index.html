@@ -1,0 +1,2990 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>The Great Bifurcation – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+The Great Bifurcation
+——
+" />
+    <meta property="og:description" content="
+The Great Bifurcation
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="The Great Bifurcation" />
+    <meta property="twitter:title" content="The Great Bifurcation" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2021%2Fthe-great-bifurcation%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2021/the-great-bifurcation/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2021/the-great-bifurcation/&text=The Great Bifurcation&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2021/the-great-bifurcation/&title=The Great Bifurcation" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2021/the-great-bifurcation/&title=The Great Bifurcation" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=The Great Bifurcation&body=
+The Great Bifurcation
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2021/the-great-bifurcation/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2021/the-great-bifurcation/&title=The Great Bifurcation&caption=
+The Great Bifurcation
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=The Great Bifurcation&url=https://stratechery.com/2021/the-great-bifurcation/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>The Great Bifurcation</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2021-12-14
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2021/the-great-bifurcation/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1639489109000-->
+<p><a href="https://stratechery.com/2021/the-great-bifurcation/">The Great Bifurcation</a>
+——</p>
+
+<div>
+  <p>For <a href="https://stratechery.com/?s=The+State+of+Technology">the first several years</a> of Stratechery I would write a year end article about “The State of Consumer Technology”; the last one I wrote, though, was in 2018, because consumer technology, dominated as it was by Apple and Google on the device side, and Google and Facebook on the services side, seemed rather stale and destined to descend into the world of politics and regulation (I was more optimistic about the enterprise, both in terms of the ongoing shift to the public cloud and the opportunity for SaaS companies).</p>
+  <p>That has largely proven to be the case, but it’s not the first time this has happened to technology; the pattern has happened twice before, and in each case the seeds of the next era were planted — usually by incumbents — while the previous era stagnated. And, in every case, the transition was marked by a reduction in lock-in and the devolvement of increasing amounts of autonomy to the individual user.</p>
+  <h4 id="tech-10-from-invention-to-ibm">Tech 1.0: From Invention to IBM</h4>
+  <p>The transistor, the <a href="https://www.theatlantic.com/technology/archive/2017/03/aristotle-computer/518697/">foundation of modern computing</a>, was invented at Bell Labs in 1947 by the solid state physics group led by William Shockley; nine years later Shockley moved to Mountain View, California to be close to his ailing mother in Palo Alto, where he started Shockley Semiconductor Laboratory. Eight of the researchers he hired, led by Bob Noyce, left the increasingly erratic Shockley a year later to found Fairchild Semiconductor, and in 1968 founded Intel with the support of Arthur Rock, one of the first venture capitalists.</p>
+  <p>The West Coast, though, was a sideshow compared to New York, where IBM had switched to transistors for the 7000 Series mainframe (as opposed to the 700 Series’ vacuum tubes); the real breakthrough was the modular and expandable System/360, which was the first computer bought by most companies, including the fictional SC&amp;P from <em>Mad Men</em>:</p>
+  <div align="center">
+    <iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/zU0nM1IC1hA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+  </div>
+  <p>There certainly was a connection to be drawn between IBM and the moon: IBM helped develop and track NASA’s initial exploratory flights and the eventual lunar mission. Here on earth, though, the Justice Department decided in 1969 that the company was in violation of antitrust laws; the case would be dropped 13 years later, but not before IBM voluntarily unbundled its software and services from its hardware, creating the first market for software.</p>
+  <h4 id="tech-20-king-of-the-hill">Tech 2.0: King of the Hill</h4>
+  <p>Notice those dates: by the time the Department of Justice sued IBM in 1969, Intel had already been founded; two years later an Intel engineer named Frederico Faggin designed the first microprocessor, the Intel 4004, which shrunk many of the functions of IBM’s room-sized computers to a single chip. Ten years after that IBM released the IBM PC, powered by Intel’s 8088 microprocessor.</p>
+  <p>The open nature of the IBM PC platform — at least once Compaq backward-engineered IBM’s BIOS — commoditized PCs; the real points of leverage in the PC value chain were Intel for chips and Windows for the operating system. The latter was a two-sided market: because so many businesses bought the Windows DOS-powered IBM PC, developers were motivated to make software for DOS; the more software for DOS, and later Windows (which was backwards compatible), the more that businesses sought out DOS/Windows-based computers. Over time more and more people who first used computers at work wanted similar functionality at home, which meant that DOS/Windows dominated the consumer market as well.</p>
+  <p>Thus was born another Justice Department lawsuit, this time against Microsoft’s alleged monopoly; that case was also eventually dismissed (although it lived on in various forms in the E.U. for years). Once again, though, the next paradigm that rendered the seeming monopolist’s lock-in immaterial was already in place: the Internet could be accessed from any computer, no matter its operating system. Moreover, in an echo of IBM’s voluntary unbundling of hardware and software, which created the conditions for tech’s next evolution, it was Microsoft that introduced the <em>XMLHttpRequest</em> API to Internet Explorer, which undergirded the Ajax web app architecture and Tech 3.0.</p>
+  <h4 id="tech-30-software-eats-the-world">Tech 3.0: Software Eats the World</h4>
+  <p>If Tech 1.0 was about hardware, and 2.0 software, 3.0 was about services. On the enterprise side this meant the development of the public cloud and software-as-a-service applications that required nothing more than a browser and a credit card; Marc Andreessen’s famous 2011 essay, <a href="https://www.wsj.com/articles/SB10001424053111903480904576512250915629460">Software Is Eating the World</a>, is really about this transformation from software you installed on your computer to software you accessed over the Internet:</p>
+  <blockquote>
+    <p>Companies in every industry need to assume that a software revolution is coming. This includes even industries that are software-based today. Great incumbent software companies like Oracle and Microsoft are increasingly threatened with irrelevance by new software offerings like Salesforce.com and Android (especially in a world where Google owns a major handset maker).</p>
+    <p>In some industries, particularly those with a heavy real-world component such as oil and gas, the software revolution is primarily an opportunity for incumbents. But in many industries, new software ideas will result in the rise of new Silicon Valley-style start-ups that invade existing industries with impunity. Over the next 10 years, the battles between incumbents and software-powered insurgents will be epic. Joseph Schumpeter, the economist who coined the term “creative destruction,” would be proud.</p>
+  </blockquote>
+  <p>One way to think about this is that tech, for the first 50 years of its existence, mostly competed with itself: who could make the best operating system, the best database, the best ERP system. All of these were then adopted by legacy businesses who saw large efficiency gains. The SaaS revolution, though, saw tech turning its sites on the markets those legacy businesses served, bringing to bear entirely new ways of solving problems that started with the malleability and scalability of software as a core principle, not simply as a tool to do the same thing more efficiently.</p>
+  <p>The consumer space, meanwhile, has arguably been a decade behind the enterprise; e-commerce, for example, was primarily an Amazon story, and social media was all about Facebook. Both took analog concepts and digitized them: Amazon was the Sears and Roebucks catalog with far more products and far faster delivery; Facebook was literally named after a physical artifact, Harvard House face books.</p>
+  <p>What made Facebook so popular — and why the product retains its stickiness, even today — is that it is first and foremost the online representation of your offline relationships, whether those be family, classmates, friends, or co-workers. This also explains why the most successful Facebook add-ons, like Marketplace and Groups, are themselves often rooted in the physical world. These relationships represent a network effect — the more people you know who are on Facebook, the more valuable it is to you — and once again regulators have come knocking, <a href="https://stratechery.com/2021/regulators-and-reality/">in this case the FTC</a>.</p>
+  <p>Note, though, that these cases are, if anything, becoming weaker over time, at least in terms of traditional antitrust concerns: while IBM’s market power was based on top-to-bottom integration that completely foreclosed competitors, Microsoft’s was about a two-sided network that was wide open for developers and users. Facebook, meanwhile, only has its users and their relationships to each other; that is the only thing preventing anyone from using another service.<sup id="rf1-8200"><a href="https://stratechery.com/2021/the-great-bifurcation/#fn1-8200" title="When it comes to e-commerce, the shift is similar: not only are other large e-commerce providers like Walmart a click away, individual merchants, largely &lt;a href=&quot;https://stratechery.com/2019/shopify-and-the-power-of-platforms/&quot;&gt;powered by Shopify&lt;/a&gt;, are growing even faster than Amazon." rel="footnote">1</a></sup></p>
+  <p>Which, of course, they are.</p>
+  <h4 id="social-networking-20">Social Networking 2.0</h4>
+  <p>Last December I wrote what was, in retrospect, an important precursor to this piece (consider it my 2020 State of Technology article): <a href="https://stratechery.com/2020/social-networking-2-0/">Social Networking 2.0</a>.</p>
+  <blockquote>
+    <p>[My Bucks DM group is] not my only online community: while the writing of Stratechery is a solo affair, building new features like the Daily Update Podcast or simply dealing with ongoing administrative affairs requires a team that is scattered around the world; we hang out in Slack. Another group of tech enthusiast friends is in another Slack, and a third, primarily folks from Silicon Valley, is in WhatsApp. Meanwhile, I have friends and family centered in Wisconsin (we use iMessage), and, of course Taiwan (LINE for family, WhatsApp for friends). The end result is something I am proud of:</p>
+    <p><a href="https://stratechery.com/2020/social-networking-2-0/"><img loading="lazy" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2020/12/socialv2-3.png?resize=640%2C407&#038;ssl=1" alt="A drawing of Ben&#039;s Communities" width="640" height="407" class="aligncenter size-large wp-image-5490" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2020/12/socialv2-3.png?resize=1024%2C651&amp;ssl=1 1024w, https://i0.wp.com/stratechery.com/wp-content/uploads/2020/12/socialv2-3.png?resize=300%2C191&amp;ssl=1 300w, https://i0.wp.com/stratechery.com/wp-content/uploads/2020/12/socialv2-3.png?resize=768%2C488&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2020/12/socialv2-3.png?resize=991%2C630&amp;ssl=1 991w, https://i0.wp.com/stratechery.com/wp-content/uploads/2020/12/socialv2-3.png?w=1280&amp;ssl=1 1280w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></a></p>
+    <p>The pride arises from a piece of advice I received when I announced I was moving back to Taiwan seven years ago: a mentor was worried about how I would find the support and friendship everyone needs if I were living halfway around the world; he told me that while it wouldn’t be ideal, perhaps I could piece together friendships in different spaces as a way to make do. In fact, not only have I managed to do exactly that, I firmly believe the outcome is a superior one, and reason for optimism in a tech landscape sorely in need of it.</p>
+  </blockquote>
+  <p>The argument in that piece is that Facebook and Twitter represented Social Networking 1.0, where you were expected to be your whole self online; that expectation, though, was like a legacy company using computers to run their analog business model: it may have been more efficient, but it wasn’t at all an optimal use of technology. The entire magic of software is that it is malleable and scalable, and those qualities extend to users creating completely different personas and experiences based on the particular online community that they have joined.</p>
+  <p>Facebook, incidentally, like IBM and Microsoft in previous eras, has contributed to this evolution, particularly its acquisition and continued support of WhatsApp: while groups exist on all sorts of platforms, from Twitter to Facebook Groups to iMessage, WhatsApp seems to have a major share of these ad hoc private groups, particularly internationally but increasingly in the U.S. as well. What is notable about WhatsApp is that the key identifier is not your account, but rather your phone number; any sort of technological lock-in has completely disappeared.</p>
+  <h4 id="tech-40-the-metaverse">Tech 4.0: The Metaverse</h4>
+  <p>One of the biggest topics of 2021 has been the Metaverse, thanks in large part to <a href="https://stratechery.com/2021/meta/">Facebook’s pivot to Meta</a> (even if <a href="https://stratechery.com/2021/metaverses/">Microsoft was first</a>). It has been tricky, though, to define <a href="https://stratechery.com/2021/microsoft-and-the-metaverse/">exactly what the Metaverse is</a>: everyone has <a href="https://stratechery.com/2021/unity-buys-weta-digital-an-interview-with-unity-ceo-john-riccitiello/">a different definition</a>.</p>
+  <p>I think, though, I have settled on mine, and it starts with <a href="https://stratechery.com/2021/an-interview-with-mark-zuckerberg-about-the-metaverse/">this comment from Meta CEO Mark Zuckerberg</a>:</p>
+  <blockquote>
+    <p>I think that the phrase “the real world” is interesting. I think that there’s a physical world and there’s a digital world, and increasingly those are sort of being overlaid and coming together, but I would argue that increasingly the real world is the combination of the digital world and the physical world and that the real world is not just the physical world. That, I think, is an interesting kind of frame to think about this stuff going forward.</p>
+  </blockquote>
+  <p>I both agree and disagree with Zuckerberg; on one hand, I think he is absolutely correct that using “the real world” to only apply to the physical world is a mistake. Think back to those communities I described above that provide so much meaning to my life: those are almost completely online, but the sense of belonging is very real to me. Or think of this Article you are reading: it is nothing but endlessly replicable bits on the Internet, yet it is my career.</p>
+  <p>Where I disagree is with the idea that the physical world and the digital world are increasingly “being overlaid and coming together”; in fact, I think the opposite is happening: the physical world and digital world are increasingly bifurcating. Again, to use myself as an example, my physical reality is defined by my life in Taiwan with my family; the majority of my time and energy, though, is online, defined by interactions with friends, co-workers, and customers scattered all over the world.</p>
+  <p>For a long time I felt somewhat unique in this regard, but COVID has made my longstanding reality the norm for many more people. Their physical world is defined by their family and hometown, which no longer needs to be near their work, which is entirely online; everything from friends to entertainment has followed the same path.</p>
+  <p>Thus my definition: the Metaverse is the set of experiences that are completely online, and thus defined by their malleability and scalability, which is to say that the Metaverse is already here. Sure, today’s experience is largely denominated by text and 2D, but video is already a major medium, first in the form of entertainment and now a vital tool for work. This is a trajectory that, in my estimation, inexorably leads to virtual reality: if all that matters is digital, why wouldn’t you want the most immersive experience possible?</p>
+  <h4 id="cryptos-role">Crypto’s Role</h4>
+  <p>This also explains why crypto is interesting. Stephen Diehl, in a scathing article entitled <a href="https://www.stephendiehl.com/blog/web3-bullshit.html">Web3 is Bullshit</a>, writes:</p>
+  <blockquote>
+    <p>At its core web3 is a vapid marketing campaign that attempts to reframe the public’s negative associations of crypto assets into a false narrative about disruption of legacy tech company hegemony. It is a distraction in the pursuit of selling more coins and continuing the gravy train of evading securities regulation. We see this manifest in the circularity in which the crypto and web3 movement talks about itself. It’s not about solving real consumer problems. The only problem to be solved by web3 is how to post-hoc rationalize its own existence.</p>
+  </blockquote>
+  <p>The first part isn’t entirely unfair; scams and ponzi schemes are everywhere, and it seems clear that we are in the middle of an ever-inflating bubble. It’s also the case that an entire set of legitimate use cases are in reality regulatory arbitrage; crypto advocates are far too quick to ascribe all of the issues with the current monetary system to greed and corruption, without acknowledging that complex systems arise for very good reasons. And, along those same lines, Web3 evangelists often sound like overbearing regulators ascribing the dominance of the biggest tech companies to illegal lock-in, without acknowledging that Aggregators win because they provide the user experience consumers want (and which crypto applications currently sorely lack).</p>
+  <p>The second part, though, is less compelling to me, even if it is a restatement of the most common crypto criticism: “None of this digital stuff has any real world value.” The real world, of course, is the physical world, and I get the critique; I am very skeptical that crypto currencies are going to replace fiat currencies, or be otherwise useful in the physical world, or that <a href="https://stratechery.com/2021/constitutiondao-the-need-for-trust-memes-and-reality/">DAOs</a> are going to replace LLCs or corporations for real world companies.</p>
+  <p>Remember, though, my definition of the Metaverse as a set of experiences that are completely online. It is here that physical world constraints don’t make any sense. I can’t, for example, have a conversation with multiple, distinct groups of people at the same time, yet I do exactly that every day — I even have an entire monitor on my desktop devoted to nothing but chat clients! In this world having one account that represents my whole self, like that offered by Facebook, is a pain in the rear end; for now I have multiple accounts for each individual service, but as I noted, some of them are already based on my unique phone number. How much better if every account were based on a digital identifier unique to me and owned by no one, and now you understand the case for crypto wallets.</p>
+  <p>This gets to the other mistake Diehl makes in that article, which, ironically, echoes a similar mistake made by many crypto absolutists: there is no reason why the Metaverse, or any web application for that matter, will be built on the blockchain. Why would you use the world’s slowest database when a centralized one is far more scalable and performant? It is not as if WhatsApp or Signal are built on top of the <a href="https://en.wikipedia.org/wiki/Plain_old_telephone_service">plain old telephone service</a>; they simply leverage the fact that phone numbers are unique and thus suitable as identifiers. This is the type of role blockchains will fill: provide uniqueness and portability where necessary, in a way that makes it possible to not just live your life entirely online, but as many lives simultaneously as your might wish, locked in nowhere.`</p>
+  <h4 id="the-great-bifurcation">The Great Bifurcation</h4>
+  <p>I noted above that the physical and digital worlds are bifurcating, and this is happening to tech as well. Yesterday Elon Musk was named <a href="https://time.com/person-of-the-year-2021-elon-musk/">TIME’s 2021 Person of the Year</a>, and while he is known for his tweets about Dogecoin and on-and-off-again support of Bitcoin, his biggest contributions to the world — electrical cars and reusable rockets — are very much physical. In fact, you could make the case that Tesla and SpaceX aren’t tech companies at all, but rather another example of tech-first companies set on remaking industries that only ever saw computers as a tool, not the foundation.</p>
+  <p>The Metaverse, in contrast, is not about eating the world; it’s about creating an entirely new one, from entertainment to community to money to identity. If Elon Musk wants to go to the moon, Mark Zuckerberg wants to create entirely new moons in digital space. This is a place where LLCs make no sense, where regulations are an after-thought, easily circumvented even if they exist. This is a place with no need for traditional money, or traditional art; the native solution is obviously superior. To put it another way, “None of this real world stuff has any digital world value” — the critique goes both ways.</p>
+  <p>In the end, the most important connection between the Metaverse and the physical world will be you: right now you are in the Metaverse, reading this Article; perhaps you will linger on Twitter or get started with your remote work. And then you’ll stand up from your computer, or take off your headset, eat dinner and tuck in your kids, aware that their bifurcated future will be fundamentally different from your unitary past.</p>
+  <hr class="footnotes" />
+  <ol class="footnotes" style="list-style-type:decimal">
+    <li id="fn1-8200">
+      <p>When it comes to e-commerce, the shift is similar: not only are other large e-commerce providers like Walmart a click away, individual merchants, largely <a href="https://stratechery.com/2019/shopify-and-the-power-of-platforms/">powered by Shopify</a>, are growing even faster than Amazon. <a href="https://stratechery.com/2021/the-great-bifurcation/#rf1-8200" class="backlink" title="Return to footnote 1.">↩</a></p>
+    </li>
+  </ol>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2022-01-05</time>
+        <a href="https://nodebe4.github.io/opinion/2022-01-05/OpenSea,-Web3,-and-Aggregation-Theory/">
+          OpenSea, Web3, and Aggregation Theory
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-12-20</time>
+        <a href="https://nodebe4.github.io/opinion/2021-12-20/The-2021-Stratechery-Year-in-Review/">
+          The 2021 Stratechery Year in Review
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-12-06</time>
+        <a href="https://nodebe4.github.io/opinion/2021-12-06/The-Amazon-Empire-Strikes-Back/">
+          The Amazon Empire Strikes Back
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-11-30</time>
+        <a href="https://nodebe4.github.io/opinion/2021-11-30/Twitter-Has-a-New-CEO;-What-About-a-New-Business-M/">
+          Twitter Has a New CEO; What About a New Business Model?
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2021-12-13/%E5%AD%97%E5%B9%95%E7%89%88-%E8%82%85%E8%AA%AA-%E5%89%8D%E6%96%B9%E9%AB%98%E8%83%BD%E7%87%92%E8%85%A6-%E5%8F%B0%E7%81%A3%E8%87%AA%E5%8F%A4%E4%BB%A5%E4%BE%86%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9C%8B%E7%9A%84%E4%B8%80%E9%83%A8%E5%88%86/">
+            前一篇：【字幕版】肅說：前方高能燒腦🔥｜台灣自古以來就是中國的一部分？
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2021-12-14/CUPodcast-4-ESG%E7%B0%A1%E5%96%AE%E8%AC%9B-%E7%82%BA%E7%94%9A%E9%BA%BC-ESG-%E6%8A%95%E8%B3%87%E5%80%BC%E5%BE%97%E9%87%8D%E8%A6%96/">
+            後一篇：【*CUPodcast】#4 ESG簡單講：為甚麼 ESG 投資值得重視？
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2021-12-13/%E5%AD%97%E5%B9%95%E7%89%88-%E8%82%85%E8%AA%AA-%E5%89%8D%E6%96%B9%E9%AB%98%E8%83%BD%E7%87%92%E8%85%A6-%E5%8F%B0%E7%81%A3%E8%87%AA%E5%8F%A4%E4%BB%A5%E4%BE%86%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9C%8B%E7%9A%84%E4%B8%80%E9%83%A8%E5%88%86/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2021-12-14/CUPodcast-4-ESG%E7%B0%A1%E5%96%AE%E8%AC%9B-%E7%82%BA%E7%94%9A%E9%BA%BC-ESG-%E6%8A%95%E8%B3%87%E5%80%BC%E5%BE%97%E9%87%8D%E8%A6%96/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2021-12-20/The-2021-Stratechery-Year-in-Review/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2021-12-06/The-Amazon-Empire-Strikes-Back/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2021-12-13/%E5%AD%97%E5%B9%95%E7%89%88-%E8%82%85%E8%AA%AA-%E5%89%8D%E6%96%B9%E9%AB%98%E8%83%BD%E7%87%92%E8%85%A6-%E5%8F%B0%E7%81%A3%E8%87%AA%E5%8F%A4%E4%BB%A5%E4%BE%86%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9C%8B%E7%9A%84%E4%B8%80%E9%83%A8%E5%88%86/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2021-12-14/CUPodcast-4-ESG%E7%B0%A1%E5%96%AE%E8%AC%9B-%E7%82%BA%E7%94%9A%E9%BA%BC-ESG-%E6%8A%95%E8%B3%87%E5%80%BC%E5%BE%97%E9%87%8D%E8%A6%96/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2021-12-20/The-2021-Stratechery-Year-in-Review/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2021-12-06/The-Amazon-Empire-Strikes-Back/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

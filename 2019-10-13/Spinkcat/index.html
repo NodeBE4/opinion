@@ -1,0 +1,2506 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Spinkcat在2019-10-07~2019-10-13的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Spinkcat在2019-10-07~2019-10-13的言论" />
+    <meta property="twitter:title" content="Spinkcat在2019-10-07~2019-10-13的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FChina_irl%2Fcomments%2Fde7tr4%2F%E4%B8%AD%E5%85%B1%E4%B8%BA%E4%BD%95%E5%A6%82%E6%AD%A4%E7%97%9B%E6%81%A8%E5%B0%8F%E7%86%8A%E7%BB%B4%E5%B0%BC%E8%BF%99%E4%B8%AA%E5%BD%A2%E8%B1%A1%E8%80%8C%E4%B8%8D%E6%98%AF%E5%8A%A0%E4%BB%A5%E5%88%A9%E7%94%A8%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/China_irl/comments/de7tr4/中共为何如此痛恨小熊维尼这个形象而不是加以利用/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/China_irl/comments/de7tr4/中共为何如此痛恨小熊维尼这个形象而不是加以利用/&text=Spinkcat在2019-10-07~2019-10-13的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/China_irl/comments/de7tr4/中共为何如此痛恨小熊维尼这个形象而不是加以利用/&title=Spinkcat在2019-10-07~2019-10-13的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/China_irl/comments/de7tr4/中共为何如此痛恨小熊维尼这个形象而不是加以利用/&title=Spinkcat在2019-10-07~2019-10-13的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Spinkcat在2019-10-07~2019-10-13的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/China_irl/comments/de7tr4/中共为何如此痛恨小熊维尼这个形象而不是加以利用/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/China_irl/comments/de7tr4/中共为何如此痛恨小熊维尼这个形象而不是加以利用/&title=Spinkcat在2019-10-07~2019-10-13的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Spinkcat在2019-10-07~2019-10-13的言论&url=https://old.reddit.com/r/China_irl/comments/de7tr4/中共为何如此痛恨小熊维尼这个形象而不是加以利用/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Spinkcat在2019-10-07~2019-10-13的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2019-10-13
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://www.reddit.com/user/Spinkcat/" style="font-size:14px;">作者: Spinkcat</a>
+        </span>
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/China_irl/comments/de7tr4/中共为何如此痛恨小熊维尼这个形象而不是加以利用/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#397-中共为何如此痛恨小熊维尼这个形象而不是加以利用-submitted-on-2019-10-07-0312590800" id="markdown-toc-397-中共为何如此痛恨小熊维尼这个形象而不是加以利用-submitted-on-2019-10-07-0312590800">397: 中共为何如此痛恨小熊维尼这个形象，而不是加以利用？, submitted on 2019-10-07 03:12:59+08:00.</a></li>
+  <li><a href="#398-媒体储备肉大可放心食用-submitted-on-2019-10-07-1707080800" id="markdown-toc-398-媒体储备肉大可放心食用-submitted-on-2019-10-07-1707080800">398: 媒体：储备肉大可放心食用, submitted on 2019-10-07 17:07:08+08:00.</a></li>
+  <li><a href="#399-吉林男疑烧国旗挑衅来抓我吧随即被捕-submitted-on-2019-10-07-1845030800" id="markdown-toc-399-吉林男疑烧国旗挑衅来抓我吧随即被捕-submitted-on-2019-10-07-1845030800">399: 吉林男疑烧国旗挑衅：“来抓我吧”，随即被捕, submitted on 2019-10-07 18:45:03+08:00.</a></li>
+  <li><a href="#400-怎么感觉以后看nba也得翻墙了-submitted-on-2019-10-07-2353400800" id="markdown-toc-400-怎么感觉以后看nba也得翻墙了-submitted-on-2019-10-07-2353400800">400: 怎么感觉以后看nba也得翻墙了。。。, submitted on 2019-10-07 23:53:40+08:00.</a></li>
+  <li><a href="#401-长假上海扫楼售楼处放假-金九银十竟成历史-submitted-on-2019-10-08-0209260800" id="markdown-toc-401-长假上海扫楼售楼处放假-金九银十竟成历史-submitted-on-2019-10-08-0209260800">401: 长假上海扫楼：售楼处放假 “金九银十”竟成历史, submitted on 2019-10-08 02:09:26+08:00.</a></li>
+  <li><a href="#402-9年微博号挂了-因为提到了南方公园最新一集-submitted-on-2019-10-08-0524200800" id="markdown-toc-402-9年微博号挂了-因为提到了南方公园最新一集-submitted-on-2019-10-08-0524200800">402: 9年微博号挂了 因为提到了南方公园最新一集, submitted on 2019-10-08 05:24:20+08:00.</a></li>
+  <li><a href="#403-香港阿婆一人拆路障-質問暴徒你們是為香港好-submitted-on-2019-10-08-1458560800" id="markdown-toc-403-香港阿婆一人拆路障-質問暴徒你們是為香港好-submitted-on-2019-10-08-1458560800">403: 香港阿婆一人拆路障 質問暴徒：你們是為香港好？, submitted on 2019-10-08 14:58:56+08:00.</a></li>
+  <li><a href="#404-央视暂停nba季前赛中国赛转播-submitted-on-2019-10-08-1631290800" id="markdown-toc-404-央视暂停nba季前赛中国赛转播-submitted-on-2019-10-08-1631290800">404: 央视：暂停NBA季前赛（中国赛）转播, submitted on 2019-10-08 16:31:29+08:00.</a></li>
+  <li><a href="#405-北京车牌正在商讨改革政策2020年将现有的三环内京牌更换为央牌任意出行-submitted-on-2019-10-08-1856220800" id="markdown-toc-405-北京车牌正在商讨改革政策2020年将现有的三环内京牌更换为央牌任意出行-submitted-on-2019-10-08-1856220800">405: 北京车牌正在商讨改革政策，2020年将现有的三环内京牌更换为央牌，任意出行, submitted on 2019-10-08 18:56:22+08:00.</a></li>
+  <li><a href="#406-话说美军承认3段ufo的视频墙内没热度么-submitted-on-2019-10-08-2153340800" id="markdown-toc-406-话说美军承认3段ufo的视频墙内没热度么-submitted-on-2019-10-08-2153340800">406: 话说美军承认3段UFO的视频墙内没热度么？, submitted on 2019-10-08 21:53:34+08:00.</a></li>
+  <li><a href="#407-团派干部任晓蓉升官的也太快了吧-submitted-on-2019-10-08-2317120800" id="markdown-toc-407-团派干部任晓蓉升官的也太快了吧-submitted-on-2019-10-08-2317120800">407: 团派干部任晓蓉升官的也太快了吧？, submitted on 2019-10-08 23:17:12+08:00.</a></li>
+  <li><a href="#408-争议中狂揽近亿美元-小丑登顶周末北美票房-submitted-on-2019-10-09-0151280800" id="markdown-toc-408-争议中狂揽近亿美元-小丑登顶周末北美票房-submitted-on-2019-10-09-0151280800">408: 争议中狂揽近亿美元 《小丑》登顶周末北美票房, submitted on 2019-10-09 01:51:28+08:00.</a></li>
+  <li><a href="#409-yes-submitted-on-2019-10-09-0353050800" id="markdown-toc-409-yes-submitted-on-2019-10-09-0353050800">409: Yes, submitted on 2019-10-09 03:53:05+08:00.</a></li>
+  <li><a href="#410-胡锡进nba需要付出代价-但停止合作无需成风潮-submitted-on-2019-10-09-1221360800" id="markdown-toc-410-胡锡进nba需要付出代价-但停止合作无需成风潮-submitted-on-2019-10-09-1221360800">410: 胡锡进:NBA需要付出代价 但停止合作无需成风潮, submitted on 2019-10-09 12:21:36+08:00.</a></li>
+  <li><a href="#411-关于私营企业国有化一个不成熟的想法-submitted-on-2019-10-09-2007300800" id="markdown-toc-411-关于私营企业国有化一个不成熟的想法-submitted-on-2019-10-09-2007300800">411: 关于私营企业国有化，一个不成熟的想法, submitted on 2019-10-09 20:07:30+08:00.</a></li>
+  <li><a href="#412-这个结果表明了什么我还有实用主义的额外特性-submitted-on-2019-10-09-2054290800" id="markdown-toc-412-这个结果表明了什么我还有实用主义的额外特性-submitted-on-2019-10-09-2054290800">412: 这个结果表明了什么？我还有实用主义的额外特性, submitted on 2019-10-09 20:54:29+08:00.</a></li>
+  <li><a href="#413-翻车新闻vol-81胡叼盘这么左右横跳辛苦你了-submitted-on-2019-10-09-2113250800" id="markdown-toc-413-翻车新闻vol-81胡叼盘这么左右横跳辛苦你了-submitted-on-2019-10-09-2113250800">413: 【翻车新闻】vol 81：胡叼盘这么左右横跳辛苦你了, submitted on 2019-10-09 21:13:25+08:00.</a></li>
+  <li><a href="#414-农业农村部疫情未发生二次扩散-有保障养殖户权益-submitted-on-2019-10-09-2301460800" id="markdown-toc-414-农业农村部疫情未发生二次扩散-有保障养殖户权益-submitted-on-2019-10-09-2301460800">414: 农业农村部：疫情未发生二次扩散 有保障养殖户权益, submitted on 2019-10-09 23:01:46+08:00.</a></li>
+  <li><a href="#415-中美金融战从香港开始吗各位有什么想法-submitted-on-2019-10-10-0037210800" id="markdown-toc-415-中美金融战从香港开始吗各位有什么想法-submitted-on-2019-10-10-0037210800">415: 中美金融战，从香港开始吗？各位有什么想法, submitted on 2019-10-10 00:37:21+08:00.</a></li>
+  <li><a href="#416-团派干部任晓蓉升官仕途-曾参与帝吧出征我和国旗合个影-submitted-on-2019-10-10-0532120800" id="markdown-toc-416-团派干部任晓蓉升官仕途-曾参与帝吧出征我和国旗合个影-submitted-on-2019-10-10-0532120800">416: 团派干部任晓蓉升官仕途 曾参与《帝吧出征》《我和国旗合个影》, submitted on 2019-10-10 05:32:12+08:00.</a></li>
+  <li><a href="#417-从香港到nba-submitted-on-2019-10-10-0848170800" id="markdown-toc-417-从香港到nba-submitted-on-2019-10-10-0848170800">417: 从香港到NBA, submitted on 2019-10-10 08:48:17+08:00.</a></li>
+  <li><a href="#418-莫雷事件官方这次处理方法是不是彻底失败-submitted-on-2019-10-10-0955560800" id="markdown-toc-418-莫雷事件官方这次处理方法是不是彻底失败-submitted-on-2019-10-10-0955560800">418: 莫雷事件官方这次处理方法是不是彻底失败？, submitted on 2019-10-10 09:55:56+08:00.</a></li>
+  <li><a href="#419-泥潭太监现状黑暗森林-submitted-on-2019-10-10-1443090800" id="markdown-toc-419-泥潭太监现状黑暗森林-submitted-on-2019-10-10-1443090800">419: 泥潭太监现状，黑暗森林, submitted on 2019-10-10 14:43:09+08:00.</a></li>
+  <li><a href="#420-葬礼禁戴孝六十不过寿基层治理不可傲慢-submitted-on-2019-10-10-1756290800" id="markdown-toc-420-葬礼禁戴孝六十不过寿基层治理不可傲慢-submitted-on-2019-10-10-1756290800">420: 葬礼禁戴孝六十不过寿：基层治理不可傲慢, submitted on 2019-10-10 17:56:29+08:00.</a></li>
+  <li><a href="#421-减收明显-多地调降财政收入目标-submitted-on-2019-10-10-1758420800" id="markdown-toc-421-减收明显-多地调降财政收入目标-submitted-on-2019-10-10-1758420800">421: 减收明显 多地调降财政收入目标, submitted on 2019-10-10 17:58:42+08:00.</a></li>
+  <li><a href="#422-堅韌之國-前進世界蔡英文總統發表國慶談話拒絕一國兩制-捍衛國土堅守自由民主-submitted-on-2019-10-10-1948010800" id="markdown-toc-422-堅韌之國-前進世界蔡英文總統發表國慶談話拒絕一國兩制-捍衛國土堅守自由民主-submitted-on-2019-10-10-1948010800">422: 《堅韌之國 前進世界》蔡英文總統發表國慶談話:拒絕一國兩制 捍衛國土堅守自由民主, submitted on 2019-10-10 19:48:01+08:00.</a></li>
+  <li><a href="#423-中国经济陷低迷当消费者不再愿意买东西-submitted-on-2019-10-10-2024360800" id="markdown-toc-423-中国经济陷低迷当消费者不再愿意买东西-submitted-on-2019-10-10-2024360800">423: 中国经济陷低迷：当消费者不再愿意买东西, submitted on 2019-10-10 20:24:36+08:00.</a></li>
+  <li><a href="#424-虎扑这群人疯了吧是要复辟文革吗-submitted-on-2019-10-10-2051400800" id="markdown-toc-424-虎扑这群人疯了吧是要复辟文革吗-submitted-on-2019-10-10-2051400800">424: 虎扑这群人疯了吧??是要复辟文革吗??, submitted on 2019-10-10 20:51:40+08:00.</a></li>
+  <li><a href="#425-中美关系自建交以来的冰点是何时-submitted-on-2019-10-11-0131490800" id="markdown-toc-425-中美关系自建交以来的冰点是何时-submitted-on-2019-10-11-0131490800">425: 中美关系自建交以来的冰点是何时？, submitted on 2019-10-11 01:31:49+08:00.</a></li>
+  <li><a href="#426-荷兰挺台毒了-submitted-on-2019-10-11-0926560800" id="markdown-toc-426-荷兰挺台毒了-submitted-on-2019-10-11-0926560800">426: 荷兰挺台毒了, submitted on 2019-10-11 09:26:56+08:00.</a></li>
+  <li><a href="#427-此次-nba-事件是这届政府截至目前外交领域最糟糕的一次表现吧-submitted-on-2019-10-12-1552150800" id="markdown-toc-427-此次-nba-事件是这届政府截至目前外交领域最糟糕的一次表现吧-submitted-on-2019-10-12-1552150800">427: 此次 NBA 事件是这届政府截至目前外交领域最糟糕的一次表现吧, submitted on 2019-10-12 15:52:15+08:00.</a></li>
+  <li><a href="#428-车企破产连带拖垮供货商是不是全国都和老梁以前说的做外贸的看不上国内市场原因之一拖欠货款超市会押供货商一个月货款是人定的行业规矩潜规则臭规矩似乎很多行业都是如此-submitted-on-2019-10-12-1849170800" id="markdown-toc-428-车企破产连带拖垮供货商是不是全国都和老梁以前说的做外贸的看不上国内市场原因之一拖欠货款超市会押供货商一个月货款是人定的行业规矩潜规则臭规矩似乎很多行业都是如此-submitted-on-2019-10-12-1849170800">428: 车企破产连带拖垮供货商，是不是全国都和老梁以前说的，做外贸的看不上国内市场原因之一，拖欠货款。超市会押供货商一个月货款，是人定的行业规矩、潜规则、臭规矩，似乎很多行业都是如此？, submitted on 2019-10-12 18:49:17+08:00.</a></li>
+  <li><a href="#429-pornhub上的习近平大力fuck宪法和中国被版权持有者投诉下架-submitted-on-2019-10-13-0257510800" id="markdown-toc-429-pornhub上的习近平大力fuck宪法和中国被版权持有者投诉下架-submitted-on-2019-10-13-0257510800">429: Pornhub上的“习近平大力Fuck宪法和中国”被版权持有者投诉下架, submitted on 2019-10-13 02:57:51+08:00.</a></li>
+  <li><a href="#430-香港司机这是我从业四十年最糟糕的职业环境-submitted-on-2019-10-13-0449240800" id="markdown-toc-430-香港司机这是我从业四十年最糟糕的职业环境-submitted-on-2019-10-13-0449240800">430: 香港司机：这是我从业四十年最糟糕的职业环境。, submitted on 2019-10-13 04:49:24+08:00.</a></li>
+  <li><a href="#431-怕被送中香港富翁加速大逃离2019-10-12-094619-法广--7条评论-submitted-on-2019-10-13-0814430800" id="markdown-toc-431-怕被送中香港富翁加速大逃离2019-10-12-094619-法广--7条评论-submitted-on-2019-10-13-0814430800">431: 怕被“送中”，香港富翁加速大逃离2019-10-12 09:46:19 法广 | 7条评论, submitted on 2019-10-13 08:14:43+08:00.</a></li>
+  <li><a href="#432-陈彦霖事件怎么看-submitted-on-2019-10-13-1026200800" id="markdown-toc-432-陈彦霖事件怎么看-submitted-on-2019-10-13-1026200800">432: 陈彦霖事件怎么看, submitted on 2019-10-13 10:26:20+08:00.</a></li>
+  <li><a href="#433-誰殺死-submitted-on-2019-10-13-1054580800" id="markdown-toc-433-誰殺死-submitted-on-2019-10-13-1054580800">433: 誰殺死, submitted on 2019-10-13 10:54:58+08:00.</a></li>
+  <li><a href="#434-跳重k-submitted-on-2019-10-13-1934210800" id="markdown-toc-434-跳重k-submitted-on-2019-10-13-1934210800">434: 跳重k, submitted on 2019-10-13 19:34:21+08:00.</a></li>
+  <li><a href="#435-暴雪这把火烧到现在估计宣传口的人做梦也不会想到吧-submitted-on-2019-10-13-2005220800" id="markdown-toc-435-暴雪这把火烧到现在估计宣传口的人做梦也不会想到吧-submitted-on-2019-10-13-2005220800">435: 暴雪这把火烧到现在估计宣传口的人做梦也不会想到吧, submitted on 2019-10-13 20:05:22+08:00.</a></li>
+  <li><a href="#436-习近平任何人企图在中国任何地区搞分裂结果只能是粉身碎骨-submitted-on-2019-10-13-2247390800" id="markdown-toc-436-习近平任何人企图在中国任何地区搞分裂结果只能是粉身碎骨-submitted-on-2019-10-13-2247390800">436: 习近平：任何人企图在中国任何地区搞分裂，结果只能是粉身碎骨, submitted on 2019-10-13 22:47:39+08:00.</a></li>
+  <li><a href="#437-中印习莫会1300年交流的真实成色-submitted-on-2019-10-13-2250370800" id="markdown-toc-437-中印习莫会1300年交流的真实成色-submitted-on-2019-10-13-2250370800">437: 中印习莫会：1300年交流的真实成色, submitted on 2019-10-13 22:50:37+08:00.</a></li>
+</ul>
+
+<h3 id="397-中共为何如此痛恨小熊维尼这个形象而不是加以利用-submitted-on-2019-10-07-0312590800">397: <a href="https://old.reddit.com/r/China_irl/comments/de7tr4/中共为何如此痛恨小熊维尼这个形象而不是加以利用/">中共为何如此痛恨小熊维尼这个形象，而不是加以利用？</a>, submitted on 2019-10-07 03:12:59+08:00.</h3>
+
+<p>—– <strong>397.1</strong> —–2019-10-07 03:57:44+08:00:</p>
+
+<p>跟古代对皇帝称呼要用“上”，而不能直接称呼姓名或身份，不但有避讳，身份低的人还不可以直视，这是用塑造威权的一部分，要塑造绝对的威权形象，就不能容太多不可控的因素在内。</p>
+
+<p>小熊维尼最早是中共共青团和相关宣传人员主动提用的，后来扩大化属于亲民路线走不下去，反而庆丰包子和维尼成了梗，反应当局测试真实民意的潜在变化后，觉得不利于控制舆论，反而有恶化趋势，就大致上收手了。</p>
+
+<h3 id="398-媒体储备肉大可放心食用-submitted-on-2019-10-07-1707080800">398: <a href="https://old.reddit.com/r/China_irl/comments/degwdp/媒体储备肉大可放心食用/">媒体：储备肉大可放心食用</a>, submitted on 2019-10-07 17:07:08+08:00.</h3>
+
+<p>—– <strong>398.1</strong> —–2019-10-07 18:08:32+08:00:</p>
+
+<p>储备肉没问题，但杯水车薪，不能解决生产力低的情况，只能临时压制肉价涨的慢点，这几星期疯狂进口加开放储备，但仍然一个月涨了两元，如此下去储备肉消耗完了，怎么办。</p>
+
+<h3 id="399-吉林男疑烧国旗挑衅来抓我吧随即被捕-submitted-on-2019-10-07-1845030800">399: <a href="https://old.reddit.com/r/China_irl/comments/dehqe9/吉林男疑烧国旗挑衅来抓我吧随即被捕/">吉林男疑烧国旗挑衅：“来抓我吧”，随即被捕</a>, submitted on 2019-10-07 18:45:03+08:00.</h3>
+
+<p>—– <strong>399.1</strong> —–2019-10-07 21:34:39+08:00:</p>
+
+<p>他回复你这句话我看到不同地方好几次近似的，其他几个人的也有近似句式，是不是有模板</p>
+
+<h3 id="400-怎么感觉以后看nba也得翻墙了-submitted-on-2019-10-07-2353400800">400: <a href="https://old.reddit.com/r/China_irl/comments/delc9a/怎么感觉以后看nba也得翻墙了/">怎么感觉以后看nba也得翻墙了。。。</a>, submitted on 2019-10-07 23:53:40+08:00.</h3>
+
+<p>—– <strong>400.1</strong> —–2019-10-08 14:54:55+08:00:</p>
+
+<p>我不是太理解，即便没有NBA，或者没有什么欧美日本的文化娱乐项目，这个SUB里很多人应该也无所谓吧。</p>
+
+<h3 id="401-长假上海扫楼售楼处放假-金九银十竟成历史-submitted-on-2019-10-08-0209260800">401: <a href="https://old.reddit.com/r/China_irl/comments/den97b/长假上海扫楼售楼处放假_金九银十竟成历史/">长假上海扫楼：售楼处放假 “金九银十”竟成历史</a>, submitted on 2019-10-08 02:09:26+08:00.</h3>
+
+<p>—– <strong>401.1</strong> —–2019-10-09 16:17:32+08:00:</p>
+
+<p>金融属性不可能完全消退，国内没有其他更好和安全的稳定市场了，现在是不让升但也没法降才不上不下，很多人还是只认房子，钱又出不去到国外，国内那些金融产品什么质量？买股票等割韭菜？买各类基金等跑路?现在赚了钱又不能出去投资，国内又不想投资，消费就降下来了。</p>
+
+<h3 id="402-9年微博号挂了-因为提到了南方公园最新一集-submitted-on-2019-10-08-0524200800">402: <a href="https://old.reddit.com/r/China_irl/comments/deq0y1/9年微博号挂了_因为提到了南方公园最新一集/">9年微博号挂了 因为提到了南方公园最新一集</a>, submitted on 2019-10-08 05:24:20+08:00.</h3>
+
+<p>—– <strong>402.1</strong> —–2019-10-08 14:43:35+08:00:</p>
+
+<p>暗示了：打钱</p>
+
+<h3 id="403-香港阿婆一人拆路障-質問暴徒你們是為香港好-submitted-on-2019-10-08-1458560800">403: <a href="https://old.reddit.com/r/China_irl/comments/dewfex/香港阿婆一人拆路障_質問暴徒你們是為香港好/">香港阿婆一人拆路障 質問暴徒：你們是為香港好？</a>, submitted on 2019-10-08 14:58:56+08:00.</h3>
+
+<p>—– <strong>403.1</strong> —–2019-10-08 16:05:08+08:00:</p>
+
+<p>别人转载到你面前才看新闻的话，那发表什么话都没有价值。</p>
+
+<h3 id="404-央视暂停nba季前赛中国赛转播-submitted-on-2019-10-08-1631290800">404: <a href="https://old.reddit.com/r/China_irl/comments/dex5fa/央视暂停nba季前赛中国赛转播/">央视：暂停NBA季前赛（中国赛）转播</a>, submitted on 2019-10-08 16:31:29+08:00.</h3>
+
+<p>—– <strong>404.1</strong> —–2019-10-08 17:16:05+08:00:</p>
+
+<p>应该完全封杀NBA</p>
+
+<h3 id="405-北京车牌正在商讨改革政策2020年将现有的三环内京牌更换为央牌任意出行-submitted-on-2019-10-08-1856220800">405: <a href="https://old.reddit.com/r/China_irl/comments/deybvk/北京车牌正在商讨改革政策2020年将现有的三环内京牌更换为央牌任意出行/">北京车牌正在商讨改革政策，2020年将现有的三环内京牌更换为央牌，任意出行</a>, submitted on 2019-10-08 18:56:22+08:00.</h3>
+
+<p>—– <strong>405.1</strong> —–2019-10-09 04:57:27+08:00:</p>
+
+<p>一二环：赵牌</p>
+
+<p>三四环：走牌</p>
+
+<p>五六环：X牌</p>
+
+<p>六环开外：韭牌</p>
+
+<h3 id="406-话说美军承认3段ufo的视频墙内没热度么-submitted-on-2019-10-08-2153340800">406: <a href="https://old.reddit.com/r/saraba1st/comments/df09hh/话说美军承认3段ufo的视频墙内没热度么/">话说美军承认3段UFO的视频墙内没热度么？</a>, submitted on 2019-10-08 21:53:34+08:00.</h3>
+
+<p>—– <strong>406.1</strong> —–2019-10-09 05:34:14+08:00:</p>
+
+<p>一直就有，但我不明白为什么大多数人要等官方发布消息才承认，民间上个世纪中期就开始有大量详细的资料流出了</p>
+
+<h3 id="407-团派干部任晓蓉升官的也太快了吧-submitted-on-2019-10-08-2317120800">407: <a href="https://old.reddit.com/r/saraba2nd/comments/df1drf/团派干部任晓蓉升官的也太快了吧/">团派干部任晓蓉升官的也太快了吧？</a>, submitted on 2019-10-08 23:17:12+08:00.</h3>
+
+<p>—– <strong>407.1</strong> —–2019-10-10 10:19:53+08:00:</p>
+
+<p>王洪文从普通工人到国家领导人和毛泽东的接班人只用了六年。</p>
+
+<h3 id="408-争议中狂揽近亿美元-小丑登顶周末北美票房-submitted-on-2019-10-09-0151280800">408: <a href="https://old.reddit.com/r/China_irl/comments/df3jg5/争议中狂揽近亿美元_小丑登顶周末北美票房/">争议中狂揽近亿美元 《小丑》登顶周末北美票房</a>, submitted on 2019-10-09 01:51:28+08:00.</h3>
+
+<p>—– <strong>408.1</strong> —–2019-10-09 04:55:18+08:00:</p>
+
+<p>不太喜欢小丑的塑造，缺乏纯粹感</p>
+
+<h3 id="409-yes-submitted-on-2019-10-09-0353050800">409: <a href="https://old.reddit.com/r/China_irl/comments/df57nq/yes/">Yes</a>, submitted on 2019-10-09 03:53:05+08:00.</h3>
+
+<p>—– <strong>409.1</strong> —–2019-10-09 04:56:08+08:00:</p>
+
+<p>奶黄包</p>
+
+<h3 id="410-胡锡进nba需要付出代价-但停止合作无需成风潮-submitted-on-2019-10-09-1221360800">410: <a href="https://old.reddit.com/r/China_irl/comments/dfbvu0/胡锡进nba需要付出代价_但停止合作无需成风潮/">胡锡进:NBA需要付出代价 但停止合作无需成风潮</a>, submitted on 2019-10-09 12:21:36+08:00.</h3>
+
+<p>—– <strong>410.1</strong> —–2019-10-09 15:51:33+08:00:</p>
+
+<p>从香港问题来看，胡锡进其实没内部消息，发生好几次跟他预判完全相反的事情了，习近平任上胡锡进也不受待见，要不然早就升任了。</p>
+
+<h3 id="411-关于私营企业国有化一个不成熟的想法-submitted-on-2019-10-09-2007300800">411: <a href="https://old.reddit.com/r/saraba1st/comments/dfg2x4/关于私营企业国有化一个不成熟的想法/">关于私营企业国有化，一个不成熟的想法</a>, submitted on 2019-10-09 20:07:30+08:00.</h3>
+
+<p>—– <strong>411.1</strong> —–2019-10-09 22:55:09+08:00:</p>
+
+<p>本身就是靠不断牺牲社会的长期活跃与创造力去延续中共政权，唯一能延续中国社会良性走下去的就是真正的放权改革，这与中共本身的存在相反，所以中共是做好打算牺牲全中国不同阶层的利益，能续多久就续多久，并不考虑解决中共执政问题与合法性这件事。</p>
+
+<h3 id="412-这个结果表明了什么我还有实用主义的额外特性-submitted-on-2019-10-09-2054290800">412: <a href="https://old.reddit.com/r/China_irl/comments/dfgmib/这个结果表明了什么我还有实用主义的额外特性/">这个结果表明了什么？我还有实用主义的额外特性</a>, submitted on 2019-10-09 20:54:29+08:00.</h3>
+
+<p>—– <strong>412.1</strong> —–2019-10-10 05:59:49+08:00:</p>
+
+<p>这东西不准</p>
+
+<h3 id="413-翻车新闻vol-81胡叼盘这么左右横跳辛苦你了-submitted-on-2019-10-09-2113250800">413: <a href="https://old.reddit.com/r/hanren/comments/dfguv9/翻车新闻vol_81胡叼盘这么左右横跳辛苦你了/">【翻车新闻】vol 81：胡叼盘这么左右横跳辛苦你了</a>, submitted on 2019-10-09 21:13:25+08:00.</h3>
+
+<p>—– <strong>413.1</strong> —–2019-10-10 00:53:31+08:00:</p>
+
+<p>因为纳粹打他们了，他们没得选，在此之前还在侵略芬兰与瓜分东欧</p>
+
+<p>—– <strong>413.2</strong> —–2019-10-10 03:39:21+08:00:</p>
+
+<p>避战绥靖跟分赃不均还是不一样的</p>
+
+<h3 id="414-农业农村部疫情未发生二次扩散-有保障养殖户权益-submitted-on-2019-10-09-2301460800">414: <a href="https://old.reddit.com/r/China_irl/comments/dfi9gf/农业农村部疫情未发生二次扩散_有保障养殖户权益/">农业农村部：疫情未发生二次扩散 有保障养殖户权益</a>, submitted on 2019-10-09 23:01:46+08:00.</h3>
+
+<p>—– <strong>414.1</strong> —–2019-10-10 06:10:14+08:00:</p>
+
+<p>老实说目前来看我认为猪肉价格已经崩了，前两个星期，猪肉价格的升幅被控制的很好，基本都在27到29之间以几毛钱的价格来回拉锯反复仰卧起坐。</p>
+
+<p>但前天开始，价格一下跳水到31.3，然后32，跟着今天已经到33.3了，之前两个星期的努力基本都白费，说明市场供货量大减，之前稳定在30或以上的省市地区，只有大概7个，29到27的则排到十七名左右。</p>
+
+<p>然而现在的价格是前二十五的地区全都是31元起跳，只有边疆省份的价格还维持在29到28，云南长期维持十多块的价格，现在也跳到25，成为全国最低。</p>
+
+<p>广东现在37出厂价，马上就要进入40元。</p>
+
+<p>现在牛羊肉价格约61到64元左右，年末猪肉可能到50元一公斤，牛羊肉破70只是时间问题，过年时猪肉可能会在60到80之间稳定，牛羊肉就不清楚了。</p>
+
+<p>另外业界的一些专业人士对猪肉的增幅，在29元当天时还认为国庆结束，未来涨幅会收窄，结果第二天就跳到31.3，说明即便是专业人士也完全控制不了对猪肉价格的预测了。</p>
+
+<p>除了发达的一线城市外，还有沿海的特殊贸易区域比如香港能拿到大量的进口冻猪肉，其他地区恐怕目前不看好，广东今天已经个别有40元一公斤的价格，三四成地区是38元，预计会有很多商铺受影响。</p>
+
+<p>国家政策解决猪瘟，再到生猪补栏，起码明年这个时候的事了。</p>
+
+<p>—– <strong>414.2</strong> —–2019-10-14 10:26:24+08:00:</p>
+
+<p>出厂价是屠宰收购价，跟在市场或者市内分销商买到的是两回事，市场的价格比出厂价高五成或一倍。</p>
+
+<h3 id="415-中美金融战从香港开始吗各位有什么想法-submitted-on-2019-10-10-0037210800">415: <a href="https://old.reddit.com/r/China_irl/comments/dfjm7x/中美金融战从香港开始吗各位有什么想法/">中美金融战，从香港开始吗？各位有什么想法</a>, submitted on 2019-10-10 00:37:21+08:00.</h3>
+
+<p>—– <strong>415.1</strong> —–2019-10-11 21:43:49+08:00:</p>
+
+<p>贸易战实际上还没有延伸到货币战与金融战，虽然有一些措施，但没有针对性的，中美矛盾主要是价值观与贸易结构纠纷，货币战和金融战如果被拉进了对抗的范畴，会把对抗的下限压的非常低，这不符合双方利益。</p>
+
+<h3 id="416-团派干部任晓蓉升官仕途-曾参与帝吧出征我和国旗合个影-submitted-on-2019-10-10-0532120800">416: <a href="https://old.reddit.com/r/China_irl/comments/dfnrxv/团派干部任晓蓉升官仕途_曾参与帝吧出征我和国旗合个影/">团派干部任晓蓉升官仕途 曾参与《帝吧出征》《我和国旗合个影》</a>, submitted on 2019-10-10 05:32:12+08:00.</h3>
+
+<p>—– <strong>416.1</strong> —–2019-10-10 10:20:13+08:00:</p>
+
+<p>复读机：王洪文从普通工人到国家领导人和毛泽东的接班人只用了六年。</p>
+
+<h3 id="417-从香港到nba-submitted-on-2019-10-10-0848170800">417: <a href="https://old.reddit.com/r/China_irl/comments/dfqcvc/从香港到nba/">从香港到NBA</a>, submitted on 2019-10-10 08:48:17+08:00.</h3>
+
+<p>—– <strong>417.1</strong> —–2019-10-10 10:15:05+08:00:</p>
+
+<p>回到计划经济时代对我也没影响。</p>
+
+<h3 id="418-莫雷事件官方这次处理方法是不是彻底失败-submitted-on-2019-10-10-0955560800">418: <a href="https://old.reddit.com/r/China_irl/comments/dfr5sr/莫雷事件官方这次处理方法是不是彻底失败/">莫雷事件官方这次处理方法是不是彻底失败？</a>, submitted on 2019-10-10 09:55:56+08:00.</h3>
+
+<p>—– <strong>418.1</strong> —–2019-10-10 11:54:38+08:00:</p>
+
+<p>最高层制定的民粹宣传策略，你不满意得解决最高层的态度问题，但怎么解决？人家有枪杆子，你又没选票，这年头不适合妄议大政了，夹紧尾巴做人比较好。</p>
+
+<h3 id="419-泥潭太监现状黑暗森林-submitted-on-2019-10-10-1443090800">419: <a href="https://old.reddit.com/r/saraba1st/comments/dfu3jf/泥潭太监现状黑暗森林/">泥潭太监现状，黑暗森林</a>, submitted on 2019-10-10 14:43:09+08:00.</h3>
+
+<p>—– <strong>419.1</strong> —–2019-10-11 04:47:44+08:00:</p>
+
+<p>为各扫门前雪的心态付代价是必然的时间问题，逃不掉，现在主要把大伙逗乐的是前后矛盾的用户态度，也是不值得同情可怜的根本原因。</p>
+
+<p>—– <strong>419.2</strong> —–2019-10-11 04:49:20+08:00:</p>
+
+<p>公开场合不可直呼伏地魔的名字。</p>
+
+<h3 id="420-葬礼禁戴孝六十不过寿基层治理不可傲慢-submitted-on-2019-10-10-1756290800">420: <a href="https://old.reddit.com/r/China_irl/comments/dfvqar/葬礼禁戴孝六十不过寿基层治理不可傲慢/">葬礼禁戴孝六十不过寿：基层治理不可傲慢</a>, submitted on 2019-10-10 17:56:29+08:00.</h3>
+
+<p>—– <strong>420.1</strong> —–2019-10-10 19:38:09+08:00:</p>
+
+<p>基层提拔的渠道在上层，权力来源于上层，惩罚来源于上层，为了讨好邀功，或者为不被罚而做到极致，就会有各种奇怪的现象，然后被人解读为“坏的都是太监，皇帝是好的，只是被蒙蔽了而已”这类自我解释。归根结底是地方自己没能力选择自己的官僚与政策执行与否。</p>
+
+<h3 id="421-减收明显-多地调降财政收入目标-submitted-on-2019-10-10-1758420800">421: <a href="https://old.reddit.com/r/China_irl/comments/dfvr10/减收明显_多地调降财政收入目标/">减收明显 多地调降财政收入目标</a>, submitted on 2019-10-10 17:58:42+08:00.</h3>
+
+<p>—– <strong>421.1</strong> —–2019-10-10 20:00:47+08:00:</p>
+
+<p>中央又改分配了，再不给地方点甜头财政已经入不敷出，三四线公务员有明显的停薪问题，一二线反而在扩张编制和提薪。</p>
+
+<p>—– <strong>421.2</strong> —–2019-10-11 03:18:05+08:00:</p>
+
+<p>看民众的忍耐力咯，起码大下岗时，还要多谢不少人跳楼自杀，全家开煤气或者沦为暗娼，才有中国的今天，下一代中国人也要感谢这一代的乡镇贱籍三和大神们吃着几块钱的饭，从事三班倒996高强度的劳动兢兢业业贡献自己的劳动力，一个月赚两千多块收入的他们，还有被迫996城市的白领被裁员失业后断供被收楼，不去闹事报复社会，反而跳楼自裁。</p>
+
+<h3 id="422-堅韌之國-前進世界蔡英文總統發表國慶談話拒絕一國兩制-捍衛國土堅守自由民主-submitted-on-2019-10-10-1948010800">422: <a href="https://old.reddit.com/r/China_irl/comments/dfwtyp/堅韌之國_前進世界蔡英文總統發表國慶談話拒絕一國兩制_捍衛國土堅守自由民主/">《堅韌之國 前進世界》蔡英文總統發表國慶談話:拒絕一國兩制 捍衛國土堅守自由民主</a>, submitted on 2019-10-10 19:48:01+08:00.</h3>
+
+<p>—– <strong>422.1</strong> —–2019-10-11 04:32:00+08:00:</p>
+
+<p>国民党是北望王师又一年啊。</p>
+
+<h3 id="423-中国经济陷低迷当消费者不再愿意买东西-submitted-on-2019-10-10-2024360800">423: <a href="https://old.reddit.com/r/saraba1st/comments/dfx905/中国经济陷低迷当消费者不再愿意买东西/">中国经济陷低迷：当消费者不再愿意买东西</a>, submitted on 2019-10-10 20:24:36+08:00.</h3>
+
+<p>—– <strong>423.1</strong> —–2019-10-11 04:42:41+08:00:</p>
+
+<p>他们其实消费能力应该是在中国比较中坚的那批人，又能高消费又能消费很多基层产品，中国一线城市夫妇二人税前约四万人民币是非常高的收入，我觉得他们的不敢消费跟普通基本收入的工薪阶层的不敢消费是不一样的。</p>
+
+<p>只不过他们不愿意降低自己的消费级别，从而造成了不敢消费的假象，如果愿意消费降级，完全可以轻易购买大量的产品。</p>
+
+<p>另一方面，很多中国人两千多工资，那才是真正的不敢消费。这对夫妇在食品杂货的开销也有近三千元，说明比例还是高于普通消费者。</p>
+
+<p>而重要的是，他们可能购买了对自己财政收入负荷过高的房子，造成了还房贷压力过大的挤压性财困，属于特例。</p>
+
+<p>国人当然消费越来越困难，不可能跟日本那样大规模的高效率转型成内需消费，但这对夫妇主要还是被房贷压到了，多数人的不敢消费往往不是因为这个原因。</p>
+
+<h3 id="424-虎扑这群人疯了吧是要复辟文革吗-submitted-on-2019-10-10-2051400800">424: <a href="https://old.reddit.com/r/China_irl/comments/dfxkh0/虎扑这群人疯了吧是要复辟文革吗/">虎扑这群人疯了吧??是要复辟文革吗??</a>, submitted on 2019-10-10 20:51:40+08:00.</h3>
+
+<p>—– <strong>424.1</strong> —–2019-10-11 04:01:49+08:00:</p>
+
+<p>台湾没啥问题，俄罗斯也比苏联时代好，但俄罗斯的问题解决的不彻底，就是因为俄罗斯的改革是无秩序进行，苏联被逼到没有办法才做改革时，然后太晚了，最后被内部权贵给清算一波，实际上没有形成自下而上的强大压力和足够清洗。</p>
+
+<p>还有就是这几十年的工业订单按照人口来算，来来去去就那些，大部分都给了中国，其他国家自然拿不到订单发展起来。</p>
+
+<p>—– <strong>424.2</strong> —–2019-10-11 04:03:39+08:00:</p>
+
+<p>平民没枪杆子，没选票，不要妄议大政了，时代的悲哀。</p>
+
+<p>按照虎扑魔改周恩来的话：“不服上井冈山去呗，人民群众喜闻乐见，你不喜欢，你算老几”。</p>
+
+<p>—– <strong>424.3</strong> —–2019-10-11 08:30:45+08:00:</p>
+
+<p>苏联一个计划经济制度的国家，转型向开放市场，不负增长才怪，本身就是苏联制度延续不下去，不得不改革才导致的负增长，即便不改革苏联仍然在，也迟早还是会是负增长，俄罗斯之后的滞涨，很大程度就是对苏联的老东西清算不到位，改革不彻底。改革不是一场社会运动，而是苏联内部高层政变分裂，遗留下很多应该淘汰的东西，最糟糕的其实是叙利亚打内战，俄罗斯已经算好，最好是东欧。</p>
+
+<p>—– <strong>424.4</strong> —–2019-10-11 10:55:10+08:00:</p>
+
+<p>中国从计划经济改革到市场经济，就经历了相当长的缓慢进步与混乱，六四就是因为计划经济改革而爆发的社会矛盾，当时官倒和腐败问题已经严重到影响社会秩序，毛泽东死后经济已经衰退到不能持续，不改革开放就会亡党，长期严打也是反映社会动荡的一个特征。</p>
+
+<p>叶利钦本身就是一个借着苏共高层内斗然后反杀政变的保守派的政治寡头，根本没有能力和准备去治理国家。戈尔巴乔夫在准备改革时，被党内保守派强行发动政变，然后保守派代表的旧体制又得不到支持，叶利钦趁着戈尔巴乔夫不能压制他的这个权力真空的间隙，带头解体了苏共，根本不是一步步走向市场化改革。</p>
+
+<p>哪怕苏共的戈尔巴乔夫改革，也不是要走向完全的市场经济，而是类似陈云和华国锋的计划经济良性改革或者混合制。苏联的问题你可以理解为76年毛死了，华国锋跟四人帮内斗，然后被北京市长解体了中国和解散共产党，整个体制突然崩溃，能有好才怪。</p>
+
+<h3 id="425-中美关系自建交以来的冰点是何时-submitted-on-2019-10-11-0131490800">425: <a href="https://old.reddit.com/r/China_irl/comments/dg1f7y/中美关系自建交以来的冰点是何时/">中美关系自建交以来的冰点是何时？</a>, submitted on 2019-10-11 01:31:49+08:00.</h3>
+
+<p>—– <strong>425.1</strong> —–2019-10-11 04:29:00+08:00:</p>
+
+<p>毫无疑问是现在，六四以来，中美都是蜜月上升期，六四过后美国又主动跟中国重新开始做生意，当时各国都开始准备撤离，但美国是少数重返投资，台海危机几乎可以忽略，轰炸大使馆和撞击的意外也只是压低了双方的关系一段时间，加入WTO也是美国力主的，熊猫派的观点是让中国富裕起来去进入自我改革的社会环境里，获得一个新的东亚盟友，南海仲裁则是美国熊猫派逐渐失去话语权，再到特朗普等屠龙派开始成为主流的一种表现。</p>
+
+<p>奥巴马第一任期时对中国仍旧是绥靖政策，第二任期开始就各种的开始进行抑制了，国内一直嘲笑的TPP，现在也事实上形成，美国变相加入，从这些例子可以说国内对国际局势的判断是相当迟钝的，民众大多还停留在把奥巴马叫奥观海，把特朗普叫川建国这种“中必胜”的自我陶醉中，可以说跟墙有很大关系。</p>
+
+<p>现在的关系是过去蜜月期结束后的新冷战开始，蜜月期里的大量意外和冲突，都只是突发事件造成的关系减分，整体上还是在稳定增长的，现在是稳定扣，但没有突发事件加分了，只有继续减分的突发事件加速关系恶化。</p>
+
+<p>川普本身只是想要达成协议的中长期目标，骨子里对比幕僚团队竟然可以算鸽派，还没到了为抑制而抑制，但这个观点在美国社会已经形成，因敌意和不满而出现的态度转变，如果不出意外，川普的下一任很大几率是真正的鹰派。</p>
+
+<p>—– <strong>425.2</strong> —–2019-10-11 08:28:12+08:00:</p>
+
+<p>越高端的产业，越需要开放的市场和庞大的知识分子操作空间，中国如果是个开放性的国家和市场，不钳制知识分子的社会地位，川普的封锁是一种很愚蠢的做法，但反过来说如果是这样的一个开放性体制，川普也没必要打贸易战了。现有中国的社会体制与封闭性政策不能支撑足够中国需求的芯片产业，主要是缺市场。</p>
+
+<p>—– <strong>425.3</strong> —–2019-10-11 19:35:50+08:00:</p>
+
+<p>中国最开放的城市，也就是上海，仍然不能全面无障碍的作为直接投资地，大量的公司与资金需要通过香港进入，整个市场体制就是混合制运作，美国的出口限制是有针对性的，尤其是对中国，而美国的尖端产业所形成的金字塔产业链，是基于庞大的市场能让消费产生良性循环，这在中国并不存在这类基础，也是以出口为贸易增长为基础的中国所需要而开放的。</p>
+
+<p>如果中国真的开放，就不会需要补贴国企和强迫技术转移又做不到开放市场，而让美国对多年来默许容忍的恶性商业手段终于赶到不耐烦了，日本人也有这个阶段，最后的结果是日本开放了更大的消费、投资市场，将经济转型为内需驱动反而出现了高增长，否则闭门造车出来的东西也没市场基础。</p>
+
+<h3 id="426-荷兰挺台毒了-submitted-on-2019-10-11-0926560800">426: <a href="https://old.reddit.com/r/saraba1st/comments/dg7wrh/荷兰挺台毒了/">荷兰挺台毒了</a>, submitted on 2019-10-11 09:26:56+08:00.</h3>
+
+<p>—– <strong>426.1</strong> —–2019-10-11 10:58:49+08:00:</p>
+
+<p>不是小好，是大好</p>
+
+<h3 id="427-此次-nba-事件是这届政府截至目前外交领域最糟糕的一次表现吧-submitted-on-2019-10-12-1552150800">427: <a href="https://old.reddit.com/r/China_irl/comments/dgs47p/此次_nba_事件是这届政府截至目前外交领域最糟糕的一次表现吧/">此次 NBA 事件是这届政府截至目前外交领域最糟糕的一次表现吧</a>, submitted on 2019-10-12 15:52:15+08:00.</h3>
+
+<p>—– <strong>427.1</strong> —–2019-10-12 20:13:05+08:00:</p>
+
+<p>本朝最糟糕的外交政策是贸易战时为了打击报复美国和赌气，停了美国方面猪饲料与猪肉方面的进口，转而去进口俄罗斯的产品，后果就是中国猪肉价格三个月翻了三倍。</p>
+
+<p>—– <strong>427.2</strong> —–2019-10-14 04:06:38+08:00:</p>
+
+<p>猪瘟就是因为进口了长期禁止进口的俄罗斯产品才传进来的。</p>
+
+<h3 id="428-车企破产连带拖垮供货商是不是全国都和老梁以前说的做外贸的看不上国内市场原因之一拖欠货款超市会押供货商一个月货款是人定的行业规矩潜规则臭规矩似乎很多行业都是如此-submitted-on-2019-10-12-1849170800">428: <a href="https://old.reddit.com/r/saraba2nd/comments/dgtks6/车企破产连带拖垮供货商是不是全国都和老梁以前说的做外贸的看不上国内市场原因之一拖欠货款超市会押供货商/">车企破产连带拖垮供货商，是不是全国都和老梁以前说的，做外贸的看不上国内市场原因之一，拖欠货款。超市会押供货商一个月货款，是人定的行业规矩、潜规则、臭规矩，似乎很多行业都是如此？</a>, submitted on 2019-10-12 18:49:17+08:00.</h3>
+
+<p>—– <strong>428.1</strong> —–2019-10-14 10:47:51+08:00:</p>
+
+<p>国内的贸易环境缺乏制度结构性的优势，本来按道理正常的经济体在发展中，这些问题都会伴随科技提升，廉价劳动力时代结束，更高的出口与内需，转而需要对外和对内都提高管理与营商的服务质量而结束旧时代的毛病。</p>
+
+<p>但中国缺乏政治改革，贸易发展的上限被封了顶，一旦错过了劳动力的黄金期，就会开始内卷化，各个阶层与行业互相侵蚀利益，来让自己的利益不受损与最大化，没有形而上的改革与意识觉醒，也标志着整个社会的堕落开始。</p>
+
+<h3 id="429-pornhub上的习近平大力fuck宪法和中国被版权持有者投诉下架-submitted-on-2019-10-13-0257510800">429: <a href="https://old.reddit.com/r/saraba1st/comments/dgzaiv/pornhub上的习近平大力fuck宪法和中国被版权持有者投诉下架/">Pornhub上的“习近平大力Fuck宪法和中国”被版权持有者投诉下架</a>, submitted on 2019-10-13 02:57:51+08:00.</h3>
+
+<p>—– <strong>429.1</strong> —–2019-10-13 22:23:17+08:00:</p>
+
+<p>pornhub好就好在它是个加拿大网站。</p>
+
+<h3 id="430-香港司机这是我从业四十年最糟糕的职业环境-submitted-on-2019-10-13-0449240800">430: <a href="https://old.reddit.com/r/China_irl/comments/dh0p4d/香港司机这是我从业四十年最糟糕的职业环境/">香港司机：这是我从业四十年最糟糕的职业环境。</a>, submitted on 2019-10-13 04:49:24+08:00.</h3>
+
+<p>—– <strong>430.1</strong> —–2019-10-13 22:10:50+08:00:</p>
+
+<p>你怎么能做到先跟人打完还可以回到车上撞人？怎么做到强迫逼人站队？不发表支持杀人全家么？如果绑票了为什么警察不管，还是说根本没有这样的事发生无法证实。</p>
+
+<h3 id="431-怕被送中香港富翁加速大逃离2019-10-12-094619-法广--7条评论-submitted-on-2019-10-13-0814430800">431: <a href="https://old.reddit.com/r/saraba1st/comments/dh383i/怕被送中香港富翁加速大逃离20191012_094619_法广_7条评论/">怕被“送中”，香港富翁加速大逃离2019-10-12 09:46:19 法广 | 7条评论</a>, submitted on 2019-10-13 08:14:43+08:00.</h3>
+
+<p>—– <strong>431.1</strong> —–2019-10-13 22:19:29+08:00:</p>
+
+<p>可以投资希腊移民，希腊那面现在刚好债务和财政困难，国内有很多人就选择投资希腊买房产，资产价格低，方便到手，整体环境，最重要能拿到神根签证，可以作为跳板到欧洲其他国家寻找机会，就算不行碰壁，最次也可以回希腊。</p>
+
+<h3 id="432-陈彦霖事件怎么看-submitted-on-2019-10-13-1026200800">432: <a href="https://old.reddit.com/r/China_irl/comments/dh4ojy/陈彦霖事件怎么看/">陈彦霖事件怎么看</a>, submitted on 2019-10-13 10:26:20+08:00.</h3>
+
+<p>—– <strong>432.1</strong> —–2019-10-13 11:34:30+08:00:</p>
+
+<p>没看法，等进一步情报的增加，但现在好像有照片证明了曾经被捕。</p>
+
+<h3 id="433-誰殺死-submitted-on-2019-10-13-1054580800">433: <a href="https://old.reddit.com/r/saraba2nd/comments/dh4zhk/誰殺死/">誰殺死</a>, submitted on 2019-10-13 10:54:58+08:00.</h3>
+
+<p>—– <strong>433.1</strong> —–2019-10-13 23:03:35+08:00:</p>
+
+<p>排版不够好，应该做直列排版，方便看时间、死因、前后遗言和地点</p>
+
+<h3 id="434-跳重k-submitted-on-2019-10-13-1934210800">434: <a href="https://old.reddit.com/r/saraba2nd/comments/dh9gag/跳重k/">跳重k</a>, submitted on 2019-10-13 19:34:21+08:00.</h3>
+
+<p>—– <strong>434.1</strong> —–2019-10-13 23:02:47+08:00:</p>
+
+<p>我不是很理解，如果你不反对革命要有流血和暴力的使用，那为什么你又反对香港人现在升级的暴力和冲突手段呢？</p>
+
+<h3 id="435-暴雪这把火烧到现在估计宣传口的人做梦也不会想到吧-submitted-on-2019-10-13-2005220800">435: <a href="https://old.reddit.com/r/saraba2nd/comments/dh9qjy/暴雪这把火烧到现在估计宣传口的人做梦也不会想到吧/">暴雪这把火烧到现在估计宣传口的人做梦也不会想到吧</a>, submitted on 2019-10-13 20:05:22+08:00.</h3>
+
+<p>—– <strong>435.1</strong> —–2019-10-14 10:34:01+08:00:</p>
+
+<p>南方公园告诉我们，要辱就要辱的够高级别够彻底，这样连被要求道歉的机会都没有，直接彻底封杀，反而不会受到任何内部处罚，莫雷如果一开始不是说free hk，而是fXck习近平然后跟布拉格市长一样配习主席和维尼的图片来辱包，大概国内根本不会有动静，就算全面封杀，只把火只要烧到美国本土，当事公司也不敢悄悄做处罚，对中共要蹬鼻子上脸。</p>
+
+<h3 id="436-习近平任何人企图在中国任何地区搞分裂结果只能是粉身碎骨-submitted-on-2019-10-13-2247390800">436: <a href="https://old.reddit.com/r/China_irl/comments/dhbhf8/习近平任何人企图在中国任何地区搞分裂结果只能是粉身碎骨/">习近平：任何人企图在中国任何地区搞分裂，结果只能是粉身碎骨</a>, submitted on 2019-10-13 22:47:39+08:00.</h3>
+
+<p>—– <strong>436.1</strong> —–2019-10-14 05:03:23+08:00:</p>
+
+<p>共产党其实不在乎丢不丢土地或者独立不独立，只是不希望看到一个独立的地方政权自治然后选举，跟着与大陆的情况映射出一个现实问题，那就是中共有什么通过大规模可验证的公开手段证明其执政合法性。中共执政全靠威权，地方独立等于打中央的威权脸，挑战了管制威信。</p>
+
+<p>—– <strong>436.2</strong> —–2019-10-14 11:11:09+08:00:</p>
+
+<p>如果能维持合法性的前提下，那么公投如果达成了一致，就不会担心分裂问题，更不需要在意公投独立后带来的合法性冲击，这就是没有选举投票又不能走程序自证合法性的麻烦所在，有了选举带来的合法性自证去执行宪法，就能对地区的自我公投做合法的裁决与引申宪法阻止，比如加泰罗尼亚的公投就是因为不合宪被阻止的，所以地方自治涉及的核心问题还是宪法与普选对应的权力与责任。</p>
+
+<h3 id="437-中印习莫会1300年交流的真实成色-submitted-on-2019-10-13-2250370800">437: <a href="https://old.reddit.com/r/China_irl/comments/dhbipl/中印习莫会1300年交流的真实成色/">中印习莫会：1300年交流的真实成色</a>, submitted on 2019-10-13 22:50:37+08:00.</h3>
+
+<p>—– <strong>437.1</strong> —–2019-10-14 05:14:48+08:00:</p>
+
+<p>V字仇杀队</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2019-10-20</time>
+        <a href="https://nodebe4.github.io/opinion/2019-10-20/Spinkcat/">
+          Spinkcat在2019-10-14~2019-10-20的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-10-16</time>
+        <a href="https://nodebe4.github.io/opinion/2019-10-16/Yvan888/">
+          Yvan888在2019-10-14~2019-10-20的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-10-08</time>
+        <a href="https://nodebe4.github.io/opinion/2019-10-08/Yvan888/">
+          Yvan888在2019-10-07~2019-10-13的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-10-06</time>
+        <a href="https://nodebe4.github.io/opinion/2019-10-06/Spinkcat/">
+          Spinkcat在2019-09-30~2019-10-06的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2019-10-11/%E5%8C%97%E5%A4%A7%E9%99%84%E4%B8%AD%E5%AE%9E%E9%AA%8C%E5%AD%A6%E6%A0%A1%E4%BA%8B%E4%BB%B6-%E5%8F%8D%E6%80%9D%E4%B8%8E%E6%BE%84%E6%B8%85/">
+            前一篇：北大附中实验学校事件：反思与澄清
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2019-10-13/%E6%B0%91%E6%84%8F%E5%8E%8B%E5%8A%9B%E5%92%8C%E7%8E%B0%E5%AE%9E%E5%88%B6%E7%BA%A6%E4%B8%8B%E7%9A%84%E5%8C%97%E4%BA%AC%E6%8A%89%E6%8B%A9/">
+            後一篇：民意压力和现实制约下的北京抉择
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2019-10-11/%E5%8C%97%E5%A4%A7%E9%99%84%E4%B8%AD%E5%AE%9E%E9%AA%8C%E5%AD%A6%E6%A0%A1%E4%BA%8B%E4%BB%B6-%E5%8F%8D%E6%80%9D%E4%B8%8E%E6%BE%84%E6%B8%85/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2019-10-13/%E6%B0%91%E6%84%8F%E5%8E%8B%E5%8A%9B%E5%92%8C%E7%8E%B0%E5%AE%9E%E5%88%B6%E7%BA%A6%E4%B8%8B%E7%9A%84%E5%8C%97%E4%BA%AC%E6%8A%89%E6%8B%A9/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2019-10-16/Yvan888/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2019-10-08/Yvan888/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2019-10-11/%E5%8C%97%E5%A4%A7%E9%99%84%E4%B8%AD%E5%AE%9E%E9%AA%8C%E5%AD%A6%E6%A0%A1%E4%BA%8B%E4%BB%B6-%E5%8F%8D%E6%80%9D%E4%B8%8E%E6%BE%84%E6%B8%85/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2019-10-13/%E6%B0%91%E6%84%8F%E5%8E%8B%E5%8A%9B%E5%92%8C%E7%8E%B0%E5%AE%9E%E5%88%B6%E7%BA%A6%E4%B8%8B%E7%9A%84%E5%8C%97%E4%BA%AC%E6%8A%89%E6%8B%A9/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2019-10-16/Yvan888/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2019-10-08/Yvan888/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

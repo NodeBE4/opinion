@@ -1,0 +1,2143 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="從草根到大師 git.io/JJCxS">
+    <meta property="og:description" content="從草根到大師 git.io/JJCxS" />
+    
+    <meta name="author" content="觀點" />
+
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fnodebe4.github.io%2Fopinion%2Fpage268%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://nodebe4.github.io/opinion/page268/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://nodebe4.github.io/opinion/page268/&text=觀點-從草根到大師 git.io/JJCxS&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://nodebe4.github.io/opinion/page268/&title=觀點-從草根到大師 git.io/JJCxS" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://nodebe4.github.io/opinion/page268/&title=觀點-從草根到大師 git.io/JJCxS" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=觀點-從草根到大師 git.io/JJCxS&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://nodebe4.github.io/opinion/page268/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://nodebe4.github.io/opinion/page268/&title=觀點-從草根到大師 git.io/JJCxS&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=觀點-從草根到大師 git.io/JJCxS&url=https://nodebe4.github.io/opinion/page268/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+<ul class="archive">
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-02-18/%E5%AD%A6%E4%B9%A0%E6%8A%80%E6%9C%AF%E7%9A%84%E4%B8%89%E9%83%A8%E6%9B%B2-WHAT-HOW-WHY/">
+      
+        学习技术的三部曲：WHAT、HOW、WHY
+      </a>
+      <time>2009-02-18</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#编程随想" class="tag">
+        编程随想
+      </a>
+      
+
+      
+      <a href="https://program-think.blogspot.com/2009/02/study-technology-in-three-steps.html" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-02-17/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E8%BF%9B%E9%98%B6%E4%B9%8B%E6%AF%8F%E6%97%A5%E6%9E%84%E5%BB%BA-2-%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C/">
+      
+        软件工程进阶之每日构建[2]：准备工作
+      </a>
+      <time>2009-02-17</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#编程随想" class="tag">
+        编程随想
+      </a>
+      
+
+      
+      <a href="https://program-think.blogspot.com/2009/02/daily-build-2-prepare.html" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-02-17/Andy-Lau-%E4%B8%AD%E5%9C%8B%E4%BA%BA/">
+      
+        Andy Lau-中國人
+      </a>
+      <time>2009-02-17</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#愛國歌曲" class="tag">
+        愛國歌曲
+      </a>
+      
+
+      
+      <a href="https://www.youtube.com/watch?v=HR6vkU83sM0" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-02-17/%E5%88%98%E6%93%8E-2008%E5%B9%B4%E8%A5%BF%E6%96%B9%E7%9F%A5%E8%AF%86%E7%95%8C%E9%87%8D%E8%A6%81%E4%BA%8B%E4%BB%B6%E7%BB%BC%E8%BF%B0/">
+      
+        刘擎：2008年西方知识界重要事件综述
+      </a>
+      <time>2009-02-17</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 刘擎</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#智识" class="tag">
+        智识
+      </a>
+      
+
+      
+      <a href="http://www.ideobook.com/751/events-western-intelligentsia-2008/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-02-16/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E8%BF%9B%E9%98%B6%E4%B9%8B%E6%AF%8F%E6%97%A5%E6%9E%84%E5%BB%BA-1-%E5%A5%BD%E5%A4%84%E5%92%8C%E4%BC%98%E7%82%B9/">
+      
+        软件工程进阶之每日构建[1]：好处和优点
+      </a>
+      <time>2009-02-16</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#编程随想" class="tag">
+        编程随想
+      </a>
+      
+
+      
+      <a href="https://program-think.blogspot.com/2009/02/daily-build-1-advantage.html" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-02-16/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E8%BF%9B%E9%98%B6%E4%B9%8B%E6%AF%8F%E6%97%A5%E6%9E%84%E5%BB%BA-0-%E6%A6%82%E8%BF%B0/">
+      
+        软件工程进阶之每日构建[0]：概述
+      </a>
+      <time>2009-02-16</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#编程随想" class="tag">
+        编程随想
+      </a>
+      
+
+      
+      <a href="https://program-think.blogspot.com/2009/02/daily-build-0-overview.html" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-02-15/%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E4%BC%98%E7%A7%80%E5%BC%80%E5%8F%91%E4%BA%BA%E5%91%98-6-%E6%AD%A3%E7%A1%AE%E5%9C%B0%E5%81%9A%E4%BA%8B-%E5%96%84%E7%94%A8%E5%B7%A5%E5%85%B7/">
+      
+        如何成为优秀开发人员[6]：正确地做事（善用工具）
+      </a>
+      <time>2009-02-15</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#编程随想" class="tag">
+        编程随想
+      </a>
+      
+
+      
+      <a href="https://program-think.blogspot.com/2009/02/6.html" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-02-15/%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E4%BC%98%E7%A7%80%E5%BC%80%E5%8F%91%E4%BA%BA%E5%91%98-5-%E6%AD%A3%E7%A1%AE%E5%9C%B0%E5%81%9A%E4%BA%8B-%E6%A6%82%E8%BF%B0/">
+      
+        如何成为优秀开发人员[5]：正确地做事（概述）
+      </a>
+      <time>2009-02-15</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#编程随想" class="tag">
+        编程随想
+      </a>
+      
+
+      
+      <a href="https://program-think.blogspot.com/2009/02/5.html" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-02-15/%E9%87%8D%E6%96%B0%E5%AE%9A%E4%B9%89%E5%85%AC%E6%9C%89%E5%88%B6/">
+      
+        重新定义公有制
+      </a>
+      <time>2009-02-15</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 徐　建</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#炎黄春秋" class="tag">
+        炎黄春秋
+      </a>
+      
+
+      
+      <a href="http://www.yhcqw.com/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-02-15/%E9%83%AD%E5%B0%8F%E5%B7%9D%E5%80%9F%E8%B0%83%E5%88%B0%E5%9B%BD%E5%AE%B6%E4%BD%93%E5%A7%94%E4%B9%8B%E5%90%8E/">
+      
+        郭小川借调到国家体委之后
+      </a>
+      <time>2009-02-15</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 郭小林</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#炎黄春秋" class="tag">
+        炎黄春秋
+      </a>
+      
+
+      
+      <a href="http://www.yhcqw.com/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-02-15/%E9%82%93%E5%B0%8F%E5%B9%B3%E8%AF%AD%E8%A8%80%E7%9A%84%E7%89%B9%E8%89%B2/">
+      
+        邓小平语言的特色
+      </a>
+      <time>2009-02-15</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 王荫桐</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#炎黄春秋" class="tag">
+        炎黄春秋
+      </a>
+      
+
+      
+      <a href="http://www.yhcqw.com/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-02-15/%E8%AF%BB%E8%80%85%E6%9D%A5%E4%BF%A1%E6%91%98%E7%99%BB/">
+      
+        读者来信摘登
+      </a>
+      <time>2009-02-15</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 含　辛等</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#炎黄春秋" class="tag">
+        炎黄春秋
+      </a>
+      
+
+      
+      <a href="http://www.yhcqw.com/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-02-15/%E7%94%98%E8%82%83%E5%86%9C%E6%9D%91%E7%9A%84%E5%8F%8D%E5%8F%B3%E6%B4%BE%E8%BF%90%E5%8A%A8/">
+      
+        甘肃农村的反右派运动
+      </a>
+      <time>2009-02-15</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 邢同义</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#炎黄春秋" class="tag">
+        炎黄春秋
+      </a>
+      
+
+      
+      <a href="http://www.yhcqw.com/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-02-15/%E7%8B%B1%E5%8F%8B%E9%99%88%E5%AD%90%E8%B0%B7/">
+      
+        狱友陈子谷
+      </a>
+      <time>2009-02-15</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 季　音</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#炎黄春秋" class="tag">
+        炎黄春秋
+      </a>
+      
+
+      
+      <a href="http://www.yhcqw.com/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-02-15/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%8F%91%E5%8A%A8%E6%95%B4%E9%A3%8E%E7%9A%84%E5%88%9D%E8%A1%B7/">
+      
+        毛泽东发动整风的初衷
+      </a>
+      <time>2009-02-15</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 郭道晖</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#炎黄春秋" class="tag">
+        炎黄春秋
+      </a>
+      
+
+      
+      <a href="http://www.yhcqw.com/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-02-15/%E6%96%B0%E6%B0%91%E4%B8%BB%E4%B8%BB%E4%B9%89%E7%9A%84%E5%91%BD%E8%BF%90%E5%92%8C%E5%88%98%E5%B0%91%E5%A5%87%E7%9A%84%E5%A4%B1%E8%B4%A5/">
+      
+        新民主主义的命运和刘少奇的失败
+      </a>
+      <time>2009-02-15</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 姚力文 刘建平</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#炎黄春秋" class="tag">
+        炎黄春秋
+      </a>
+      
+
+      
+      <a href="http://www.yhcqw.com/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-02-15/%E6%89%8D%E5%BE%B7%E5%8F%8D%E5%B7%AE%E5%B7%A8%E5%A4%A7%E7%9A%84%E5%BA%B7%E7%94%9F/">
+      
+        才德反差巨大的康生
+      </a>
+      <time>2009-02-15</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 曾彦修</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#炎黄春秋" class="tag">
+        炎黄春秋
+      </a>
+      
+
+      
+      <a href="http://www.yhcqw.com/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-02-15/%E6%88%91%E7%9C%8B%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%9A%9C%E5%88%B6%E5%BA%A6%E6%94%B9%E9%9D%A9/">
+      
+        我看社会保障制度改革
+      </a>
+      <time>2009-02-15</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 思　源</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#炎黄春秋" class="tag">
+        炎黄春秋
+      </a>
+      
+
+      
+      <a href="http://www.yhcqw.com/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-02-15/%E6%80%8E%E6%A0%B7%E4%BF%83%E8%BF%9B%E5%85%AC%E6%B0%91%E7%A4%BE%E4%BC%9A%E7%9A%84%E6%88%90%E9%95%BF/">
+      
+        怎样促进公民社会的成长
+      </a>
+      <time>2009-02-15</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 杜　光</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#炎黄春秋" class="tag">
+        炎黄春秋
+      </a>
+      
+
+      
+      <a href="http://www.yhcqw.com/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-02-15/%E5%9D%90%E5%A4%B1%E6%9C%BA%E9%81%87-%E9%A2%84%E5%A4%87%E7%AB%8B%E5%AE%AA%E7%99%BE%E5%B9%B4%E7%A5%AD/">
+      
+        坐失机遇：预备立宪百年祭
+      </a>
+      <time>2009-02-15</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 王铁群</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#炎黄春秋" class="tag">
+        炎黄春秋
+      </a>
+      
+
+      
+      <a href="http://www.yhcqw.com/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-02-15/%E5%86%AF%E5%8F%8B%E5%85%B0%E4%B8%B4%E7%BB%88%E8%B0%88%E6%AF%9B%E6%B3%BD%E4%B8%9C/">
+      
+        冯友兰临终谈毛泽东
+      </a>
+      <time>2009-02-15</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 王克明</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#炎黄春秋" class="tag">
+        炎黄春秋
+      </a>
+      
+
+      
+      <a href="http://www.yhcqw.com/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-02-15/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84%E6%88%90%E7%AB%8B%E5%B9%B4%E4%BB%BD%E5%8F%8A%E6%97%A9%E7%BB%84%E7%BB%87/">
+      
+        中国共产党的成立年份及早组织
+      </a>
+      <time>2009-02-15</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 李维民</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#炎黄春秋" class="tag">
+        炎黄春秋
+      </a>
+      
+
+      
+      <a href="http://www.yhcqw.com/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-02-15/%E9%BA%BB%E9%9B%80-%E6%9C%89%E6%95%85%E4%BA%8B/">
+      
+        “麻雀”有故事
+      </a>
+      <time>2009-02-15</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 雷　颐</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#炎黄春秋" class="tag">
+        炎黄春秋
+      </a>
+      
+
+      
+      <a href="http://www.yhcqw.com/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-02-15/%E6%B0%B4%E7%A8%BB%E4%BA%A9%E4%BA%A7%E5%8D%81%E4%B8%89%E4%B8%87%E6%96%A4-%E6%96%B0%E9%97%BB%E8%80%83/">
+      
+        “水稻亩产十三万斤”新闻考
+      </a>
+      <time>2009-02-15</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 靖　鸣</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#炎黄春秋" class="tag">
+        炎黄春秋
+      </a>
+      
+
+      
+      <a href="http://www.yhcqw.com/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-02-15/%E5%9C%B0%E4%B8%8B%E6%96%B0%E9%97%BB-%E7%9A%84%E5%89%8D%E8%BE%88%E4%BB%AC/">
+      
+        “地下新闻”的前辈们
+      </a>
+      <time>2009-02-15</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 郑青如</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#炎黄春秋" class="tag">
+        炎黄春秋
+      </a>
+      
+
+      
+      <a href="http://www.yhcqw.com/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-02-15/%E5%8F%AF%E4%BB%A5%E6%95%99%E8%82%B2%E5%A5%BD%E7%9A%84%E5%AD%90%E5%A5%B3-%E7%9A%84%E5%8E%86%E5%8F%B2/">
+      
+        “可以教育好的子女”的历史
+      </a>
+      <time>2009-02-15</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 林贤治</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#炎黄春秋" class="tag">
+        炎黄春秋
+      </a>
+      
+
+      
+      <a href="http://www.yhcqw.com/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-02-14/%E6%B5%B7%E4%BC%A6%E6%B0%91-%E9%86%89%E5%BF%83%E6%A2%A6%E8%AF%AD-%E4%B8%80-%E4%B8%8D%E5%B7%AE%E9%92%B1/">
+      
+        海伦民：醉心梦语（一）不差钱
+      </a>
+      <time>2009-02-14</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 海伦民</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#智识" class="tag">
+        智识
+      </a>
+      
+
+      
+      <a href="http://www.ideobook.com/742/bu-cha-qian/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-02-13/%E5%A6%82%E4%BD%95%E9%80%89%E6%8B%A9%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/">
+      
+        如何选择开源项目？
+      </a>
+      <time>2009-02-13</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#编程随想" class="tag">
+        编程随想
+      </a>
+      
+
+      
+      <a href="https://program-think.blogspot.com/2009/02/how-to-choose-opensource-project.html" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-02-13/%E5%85%B3%E4%BA%8E%E7%BD%97%E5%B0%94%E6%96%AF%E7%9A%84-%E6%94%BF%E6%B2%BB%E8%87%AA%E7%94%B1%E4%B8%BB%E4%B9%89/">
+      
+        关于罗尔斯的《政治自由主义》
+      </a>
+      <time>2009-02-13</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 万俊人</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#天则双周论坛" class="tag">
+        天则双周论坛
+      </a>
+      
+
+      
+      <a href="http://unirule.cloud/index.php?c=article&id=2420" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-02-12/Java-%E6%96%B0%E6%89%8B%E7%9A%84%E9%80%9A%E7%97%85-4-%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86%E4%BD%BF%E7%94%A8%E4%B8%8D%E5%BD%93/">
+      
+        Java 新手的通病[4]：异常处理使用不当
+      </a>
+      <time>2009-02-12</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#编程随想" class="tag">
+        编程随想
+      </a>
+      
+
+      
+      <a href="https://program-think.blogspot.com/2009/02/defect-of-java-beginner-4-exception.html" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-02-12/%E4%BA%9A%E4%BC%AF%E6%8B%89%E7%BD%95-%E6%9E%97%E8%82%AF%E8%AF%9E%E8%BE%B0200%E5%91%A8%E5%B9%B4/">
+      
+        亚伯拉罕·林肯诞辰200周年
+      </a>
+      <time>2009-02-12</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 爱德布克</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#智识" class="tag">
+        智识
+      </a>
+      
+
+      
+      <a href="http://www.ideobook.com/731/abraham-lincoln-200th-birthday/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-02-10/%E6%97%A0%E5%A4%84%E4%B8%8D%E5%9C%A8%E7%9A%84%E4%BA%8C%E5%85%AB%E5%8E%9F%E7%90%86-1-%E5%9C%A8%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8/">
+      
+        无处不在的二八原理[1]：在软件开发中的应用
+      </a>
+      <time>2009-02-10</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#编程随想" class="tag">
+        编程随想
+      </a>
+      
+
+      
+      <a href="https://program-think.blogspot.com/2009/02/80-20-principle-1-software-developing.html" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-02-09/%E6%97%A0%E5%A4%84%E4%B8%8D%E5%9C%A8%E7%9A%84%E4%BA%8C%E5%85%AB%E5%8E%9F%E7%90%86-0-%E4%BB%80%E4%B9%88%E6%98%AF%E4%BA%8C%E5%85%AB%E5%8E%9F%E7%90%86/">
+      
+        无处不在的二八原理[0]：什么是二八原理
+      </a>
+      <time>2009-02-09</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#编程随想" class="tag">
+        编程随想
+      </a>
+      
+
+      
+      <a href="https://program-think.blogspot.com/2009/02/80-20-principle-0-overview.html" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-02-06/C++-%E7%9A%84%E5%8F%AF%E7%A7%BB%E6%A4%8D%E6%80%A7%E5%92%8C%E8%B7%A8%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91-5-%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/">
+      
+        C++ 的可移植性和跨平台开发[5]：操作系统
+      </a>
+      <time>2009-02-06</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#编程随想" class="tag">
+        编程随想
+      </a>
+      
+
+      
+      <a href="https://program-think.blogspot.com/2009/02/cxx-cross-platform-develop-5-os.html" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-02-05/%E4%B8%89%E7%A7%8D%E4%B8%BB%E6%B5%81-RIA-%E6%8A%80%E6%9C%AF%E4%B9%8B%E4%BA%89-%E4%BD%A0%E8%AF%A5%E5%A6%82%E4%BD%95%E9%80%89%E5%9E%8B/">
+      
+        三种主流 RIA 技术之争，你该如何选型？
+      </a>
+      <time>2009-02-05</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#编程随想" class="tag">
+        编程随想
+      </a>
+      
+
+      
+      <a href="https://program-think.blogspot.com/2009/02/ria-review-flash-silverlight-javafx.html" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-02-05/%E5%86%AF%E7%9D%8E%E4%B9%BE-%E5%BC%A0%E7%88%B1%E7%8E%B2%E7%9A%84%E7%89%99%E7%89%8C%E7%AD%BE/">
+      
+        冯睎乾：张爱玲的牙牌签
+      </a>
+      <time>2009-02-05</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 冯睎乾</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#智识" class="tag">
+        智识
+      </a>
+      
+
+      
+      <a href="http://www.ideobook.com/729/zhang-ailing/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-02-04/Java-%E6%96%B0%E6%89%8B%E7%9A%84%E9%80%9A%E7%97%85-3-%E7%BC%BA%E5%B0%91%E8%89%AF%E5%A5%BD%E7%9A%84%E7%BC%96%E7%A8%8B%E4%B9%A0%E6%83%AF/">
+      
+        Java 新手的通病[3]：缺少良好的编程习惯
+      </a>
+      <time>2009-02-04</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#编程随想" class="tag">
+        编程随想
+      </a>
+      
+
+      
+      <a href="https://program-think.blogspot.com/2009/02/defect-of-java-beginner-3-code-style.html" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-02-04/%E5%93%88%E4%BD%9B%E6%B3%95%E5%AD%A6%E6%96%B0%E5%88%8A-Journal-of-Legal-Analysis-%E5%85%8D%E8%B4%B9%E9%98%85%E8%AF%BB/">
+      
+        哈佛法学新刊 Journal of Legal Analysis 免费阅读
+      </a>
+      <time>2009-02-04</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 爱德布克</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#智识" class="tag">
+        智识
+      </a>
+      
+
+      
+      <a href="http://www.ideobook.com/728/journal-of-legal-analysis/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-02-02/%E5%AD%A6%E4%BC%9A%E9%80%8F%E8%BF%87%E7%8E%B0%E8%B1%A1%E7%9C%8B%E6%9C%AC%E8%B4%A8-%E5%8D%B3%E4%BD%BF%E7%8E%B0%E8%B1%A1%E6%9C%89%E6%97%B6%E5%80%99%E6%8C%BA%E8%AF%A1%E5%BC%82/">
+      
+        学会透过现象看本质，即使现象有时候挺诡异
+      </a>
+      <time>2009-02-02</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#编程随想" class="tag">
+        编程随想
+      </a>
+      
+
+      
+      <a href="https://program-think.blogspot.com/2009/02/from-surface-to-essence.html" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+      <h2>2009年01月</h2>
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-01-31/%E4%BB%8E-Google-%E6%90%9C%E7%B4%A2%E7%9A%84%E4%B8%A5%E9%87%8D-bug-%E6%83%B3%E5%BC%80%E5%8E%BB/">
+      
+        从 Google 搜索的严重 bug 想开去
+      </a>
+      <time>2009-01-31</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#编程随想" class="tag">
+        编程随想
+      </a>
+      
+
+      
+      <a href="https://program-think.blogspot.com/2009/02/google-search-fatal-bug.html" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-01-31/C++-%E7%9A%84%E5%8F%AF%E7%A7%BB%E6%A4%8D%E6%80%A7%E5%92%8C%E8%B7%A8%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91-4-%E7%A1%AC%E4%BB%B6%E4%BD%93%E7%B3%BB/">
+      
+        C++ 的可移植性和跨平台开发[4]：硬件体系
+      </a>
+      <time>2009-01-31</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#编程随想" class="tag">
+        编程随想
+      </a>
+      
+
+      
+      <a href="https://program-think.blogspot.com/2009/01/cxx-cross-platform-develop-4-hardware.html" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-01-30/Java-%E6%96%B0%E6%89%8B%E7%9A%84%E9%80%9A%E7%97%85-2-%E7%BC%BA%E4%B9%8F%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%9A%84%E5%9F%BA%E6%9C%AC%E5%8A%9F/">
+      
+        Java 新手的通病[2]：缺乏面向对象的基本功
+      </a>
+      <time>2009-01-30</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#编程随想" class="tag">
+        编程随想
+      </a>
+      
+
+      
+      <a href="https://program-think.blogspot.com/2009/01/defect-of-java-beginner-2-oo.html" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-01-29/C++-%E7%9A%84%E5%8F%AF%E7%A7%BB%E6%A4%8D%E6%80%A7%E5%92%8C%E8%B7%A8%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91-3-%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86/">
+      
+        C++ 的可移植性和跨平台开发[3]：异常处理
+      </a>
+      <time>2009-01-29</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#编程随想" class="tag">
+        编程随想
+      </a>
+      
+
+      
+      <a href="https://program-think.blogspot.com/2009/01/cxx-cross-platform-develop-3-exception.html" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-01-29/Java-%E6%96%B0%E6%89%8B%E7%9A%84%E9%80%9A%E7%97%85-1-%E5%AF%B9%E7%AE%97%E6%B3%95%E5%92%8C%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8D%E7%86%9F%E6%82%89/">
+      
+        Java 新手的通病[1]：对算法和数据结构不熟悉
+      </a>
+      <time>2009-01-29</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#编程随想" class="tag">
+        编程随想
+      </a>
+      
+
+      
+      <a href="https://program-think.blogspot.com/2009/01/defect-of-java-beginner-1-algorithm.html" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-01-29/Java-%E6%96%B0%E6%89%8B%E7%9A%84%E9%80%9A%E7%97%85-0-%E6%A6%82%E8%BF%B0/">
+      
+        Java 新手的通病[0]：概述
+      </a>
+      <time>2009-01-29</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#编程随想" class="tag">
+        编程随想
+      </a>
+      
+
+      
+      <a href="https://program-think.blogspot.com/2009/01/defect-of-java-beginner-0-overview.html" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-01-28/C++-%E7%9A%84%E5%8F%AF%E7%A7%BB%E6%A4%8D%E6%80%A7%E5%92%8C%E8%B7%A8%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91-2-%E8%AF%AD%E6%B3%95/">
+      
+        C++ 的可移植性和跨平台开发[2]：语法
+      </a>
+      <time>2009-01-28</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#编程随想" class="tag">
+        编程随想
+      </a>
+      
+
+      
+      <a href="https://program-think.blogspot.com/2009/01/cxx-cross-platform-develop-2-language.html" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-01-27/%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E4%BC%98%E7%A7%80%E5%BC%80%E5%8F%91%E4%BA%BA%E5%91%98-4-%E5%81%9A%E6%AD%A3%E7%A1%AE%E7%9A%84%E4%BA%8B/">
+      
+        如何成为优秀开发人员[4]：做正确的事
+      </a>
+      <time>2009-01-27</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#编程随想" class="tag">
+        编程随想
+      </a>
+      
+
+      
+      <a href="https://program-think.blogspot.com/2009/01/4.html" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-01-26/%E5%88%98%E7%9A%93%E6%98%8E%E5%B0%81%E9%9D%A2%E8%AE%BE%E8%AE%A1%E4%BA%94%E5%B8%A7/">
+      
+        刘皓明封面设计五帧
+      </a>
+      <time>2009-01-26</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 刘皓明</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#智识" class="tag">
+        智识
+      </a>
+      
+
+      
+      <a href="http://www.ideobook.com/722/book-cover-design-liuhaoming/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-01-25/C++-%E7%9A%84%E5%8F%AF%E7%A7%BB%E6%A4%8D%E6%80%A7%E5%92%8C%E8%B7%A8%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91-1-%E7%BC%96%E8%AF%91%E5%99%A8/">
+      
+        C++ 的可移植性和跨平台开发[1]：编译器
+      </a>
+      <time>2009-01-25</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#编程随想" class="tag">
+        编程随想
+      </a>
+      
+
+      
+      <a href="https://program-think.blogspot.com/2009/01/cxx-cross-platform-develop-1-compiler.html" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2009-01-25/C++-%E7%9A%84%E5%8F%AF%E7%A7%BB%E6%A4%8D%E6%80%A7%E5%92%8C%E8%B7%A8%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91-0-%E6%A6%82%E8%BF%B0/">
+      
+        C++ 的可移植性和跨平台开发[0]：概述
+      </a>
+      <time>2009-01-25</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#编程随想" class="tag">
+        编程随想
+      </a>
+      
+
+      
+      <a href="https://program-think.blogspot.com/2009/01/cxx-cross-platform-develop-0-overview.html" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+
+</ul>
+
+<div class="pagination">
+  
+    <span class="prev">
+      <a href="/opinion/page267/" class="prev">
+        上一页
+      </a>
+    </span>
+  
+  
+    <span class="next">
+      <a href="/opinion/page269/" class="next">
+        下一页
+      </a>
+    </span>
+  
+
+  <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    <a class="fab-action fab-action-1" title="上一页(热键 &#8594;)" href="/opinion/page267/">
+      <i>上</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一页(热键 &#8592;)" href="/opinion/page269/">
+      <i>下</i>
+    </a>
+    
+    
+    
+    
+    
+  </div>
+</div>
+
+
+  <script>
+  /* post pagination keyboard shortcuts */
+  document.body.onkeyup = function(e){
+    if (e.keyCode == '37') { window.location = '/opinion/page267/'; } // left arrow key
+    if (e.keyCode == '39') { window.location = '/opinion/page269/'; } // right arrow key
+  };
+  </script>
+
+</div>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

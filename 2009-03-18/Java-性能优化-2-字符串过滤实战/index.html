@@ -1,0 +1,3569 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Java 性能优化[2]：字符串过滤实战 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+
+      Java 性能优化[2]：字符串过滤实战  
+  
+    
+      
+    
+  
+  
+ 上一个帖子  已经介绍了基本类型和引用类型的性能差异（主要是由于内存分配方式不同导致）。为了给列位看官加深印象，今天拿一个具体的例子来实地操作一把，看看优化的效果如何。 
+       
+         ★一个简单的需求 
+  首先描述一下需求：  给定一个 String 对象，过滤掉除了 
+   数字
+   （字符'0'到'9'）以外的其它字符。要求时间开销尽可能小。过滤函数的原型如下：      
+      String filter(String str);
+      
+    
+  针对上述需求，俺写了5个不同的过滤函数。为了叙述方便，函数名分别定为 filter1 到 filter5。其中 filter1 性能最差、filter5 性能最好。在看后续的内容之前，你先暗自思考一下，如果由你来实现该函数，大概会写成什么样？最好把你想好的函数写下来，便于跟俺给出的例子作对比。         ★代码——循序渐进的5种实现方式 
+       ◇测试代码 
+  为了方便测试性能，先准备好一坨测试代码，具体如下：       
+      class Test
+{
+    public static void main(String[] args)
+    {
+        if(args.length != 1)
+        {
+            return;
+        }
+      
+    
+  
+
+" />
+    <meta property="og:description" content="
+
+      Java 性能优化[2]：字符串过滤实战  
+  
+    
+      
+    
+  
+  
+ 上一个帖子  已经介绍了基本类型和引用类型的性能差异（主要是由于内存分配方式不同导致）。为了给列位看官加深印象，今天拿一个具体的例子来实地操作一把，看看优化的效果如何。 
+       
+         ★一个简单的需求 
+  首先描述一下需求：  给定一个 String 对象，过滤掉除了 
+   数字
+   （字符'0'到'9'）以外的其它字符。要求时间开销尽可能小。过滤函数的原型如下：      
+      String filter(String str);
+      
+    
+  针对上述需求，俺写了5个不同的过滤函数。为了叙述方便，函数名分别定为 filter1 到 filter5。其中 filter1 性能最差、filter5 性能最好。在看后续的内容之前，你先暗自思考一下，如果由你来实现该函数，大概会写成什么样？最好把你想好的函数写下来，便于跟俺给出的例子作对比。         ★代码——循序渐进的5种实现方式 
+       ◇测试代码 
+  为了方便测试性能，先准备好一坨测试代码，具体如下：       
+      class Test
+{
+    public static void main(String[] args)
+    {
+        if(args.length != 1)
+        {
+            return;
+        }
+      
+    
+  
+
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Java 性能优化[2]：字符串过滤实战" />
+    <meta property="twitter:title" content="Java 性能优化[2]：字符串过滤实战" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fprogram-think.blogspot.com%2F2009%2F03%2Fjava-performance-tuning-2-string.html" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://program-think.blogspot.com/2009/03/java-performance-tuning-2-string.html" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://program-think.blogspot.com/2009/03/java-performance-tuning-2-string.html&text=Java 性能优化[2]：字符串过滤实战&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://program-think.blogspot.com/2009/03/java-performance-tuning-2-string.html&title=Java 性能优化[2]：字符串过滤实战" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://program-think.blogspot.com/2009/03/java-performance-tuning-2-string.html&title=Java 性能优化[2]：字符串过滤实战" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Java 性能优化[2]：字符串过滤实战&body=
+
+      Java 性能优化[2]：字符串过滤实战  
+  
+    
+      
+    
+  
+  
+ 上一个帖子  已经介绍了基本类型和引用类型的性能差异（主要是由于内存分配方式不同导致）。为了给列位看官加深印象，今天拿一个具体的例子来实地操作一把，看看优化的效果如何。 
+       
+         ★一个简单的需求 
+  首先描述一下需求：  给定一个 String 对象，过滤掉除了 
+   数字
+   （字符'0'到'9'）以外的其它字符。要求时间开销尽可能小。过滤函数的原型如下：      
+      String filter(String str);
+      
+    
+  针对上述需求，俺写了5个不同的过滤函数。为了叙述方便，函数名分别定为 filter1 到 filter5。其中 filter1 性能最差、filter5 性能最好。在看后续的内容之前，你先暗自思考一下，如果由你来实现该函数，大概会写成什么样？最好把你想好的函数写下来，便于跟俺给出的例子作对比。         ★代码——循序渐进的5种实现方式 
+       ◇测试代码 
+  为了方便测试性能，先准备好一坨测试代码，具体如下：       
+      class Test
+{
+    public static void main(String[] args)
+    {
+        if(args.length != 1)
+        {
+            return;
+        }
+      
+    
+  
+
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://program-think.blogspot.com/2009/03/java-performance-tuning-2-string.html" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://program-think.blogspot.com/2009/03/java-performance-tuning-2-string.html&title=Java 性能优化[2]：字符串过滤实战&caption=
+
+      Java 性能优化[2]：字符串过滤实战  
+  
+    
+      
+    
+  
+  
+ 上一个帖子  已经介绍了基本类型和引用类型的性能差异（主要是由于内存分配方式不同导致）。为了给列位看官加深印象，今天拿一个具体的例子来实地操作一把，看看优化的效果如何。 
+       
+         ★一个简单的需求 
+  首先描述一下需求：  给定一个 String 对象，过滤掉除了 
+   数字
+   （字符'0'到'9'）以外的其它字符。要求时间开销尽可能小。过滤函数的原型如下：      
+      String filter(String str);
+      
+    
+  针对上述需求，俺写了5个不同的过滤函数。为了叙述方便，函数名分别定为 filter1 到 filter5。其中 filter1 性能最差、filter5 性能最好。在看后续的内容之前，你先暗自思考一下，如果由你来实现该函数，大概会写成什么样？最好把你想好的函数写下来，便于跟俺给出的例子作对比。         ★代码——循序渐进的5种实现方式 
+       ◇测试代码 
+  为了方便测试性能，先准备好一坨测试代码，具体如下：       
+      class Test
+{
+    public static void main(String[] args)
+    {
+        if(args.length != 1)
+        {
+            return;
+        }
+      
+    
+  
+
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Java 性能优化[2]：字符串过滤实战&url=https://program-think.blogspot.com/2009/03/java-performance-tuning-2-string.html" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Java 性能优化[2]：字符串过滤实战</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2009-03-18
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#编程随想">
+          编程随想
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://program-think.blogspot.com/2009/03/java-performance-tuning-2-string.html" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="编程随想的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#编程随想 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <div class="post hentry uncustomized-post-template">
+<a name="7966783034491899523">
+ </a>   <h1 class="post-title entry-title" id="java-2--"> <a href="https://program-think.blogspot.com/2009/03/java-performance-tuning-2-string.html"> Java 性能优化[2]：字符串过滤实战 </a> </h1>
+  <div class="post-header">
+    <div class="post-header-line-1">
+      <div class="post-inner-index"></div>
+    </div>
+  </div>
+  <div class="post-body entry-content">
+<a href="https://program-think.blogspot.com/2009/03/java-performance-tuning-1-two-types.html"> 上一个帖子 </a> 已经介绍了基本类型和引用类型的性能差异（主要是由于内存分配方式不同导致）。为了给列位看官加深印象，今天拿一个具体的例子来实地操作一把，看看优化的效果如何。 <a name="more">
+  </a>     <!--program-think-->
+ <br /> <br /> <br />     <h2 id="section"> ★一个简单的需求 </h2>
+ <br /> 首先描述一下需求： <br /> 给定一个 String 对象，过滤掉除了 <b>
+   数字
+  </b> （字符'0'到'9'）以外的其它字符。要求时间开销尽可能小。过滤函数的原型如下： <br />     <div class="source">
+      <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>String filter(String str);
+</code></pre></div>      </div>
+    </div>
+ <br /> 针对上述需求，俺写了5个不同的过滤函数。为了叙述方便，函数名分别定为 filter1 到 filter5。其中 filter1 性能最差、filter5 性能最好。在看后续的内容之前，你先暗自思考一下，如果由你来实现该函数，大概会写成什么样？最好把你想好的函数写下来，便于跟俺给出的例子作对比。 <br /> <br /> <br />     <h2 id="section-1"> ★代码——循序渐进的5种实现方式 </h2>
+ <br />     <h3 id="section-2"> ◇测试代码 </h3>
+ <br /> 为了方便测试性能，先准备好一坨测试代码，具体如下： <br /> <br />     <div class="source">
+      <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>class Test
+{
+    public static void main(String[] args)
+    {
+        if(args.length != 1)
+        {
+            return;
+        }
+
+        String str = "";
+        long nBegin = System.currentTimeMillis();
+        for(int i=0; i&lt;1024*1024; i++)
+        {
+            str = filterN(args[0]);  // 此处调用某个具体的过滤函数
+        }
+        long nEnd = System.currentTimeMillis();
+
+        System.out.println(nEnd-nBegin);
+        System.out.println(str);
+    }
+};
+</code></pre></div>      </div>
+    </div>
+ <br /> 在没有想好你的实现方式之前，先别偷看后续内容哦！另外，先注明一下，俺的 Java 环境是 JDK 1.5.0-09，使用的测试字符串是随机生成的，长度32个 char，只含字母和数字。由于 JDK 版本和机器性能不尽相同，你在自己机器上测试的结果可能跟俺下面给出的数值不太一样。 <br /> <br />     <h3 id="section-3"> ◇版本1 </h3>
+ <br /> 先来揭晓性能最差的filter1，代码如下： <br />     <div class="source">
+      <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>private static String filter1(String strOld)
+{
+    String strNew = new String();
+    for(int i=0; i&lt;strOld.length(); i++)
+    {
+        if('0'&lt;=strOld.charAt(i) &amp;&amp; strOld.charAt(i)&lt;='9')
+        {
+            strNew += strOld.charAt(i);
+        }
+    }
+    return strNew;
+}
+</code></pre></div>      </div>
+    </div>
+ <br /> 如果你的代码不幸和 filter1 雷同，那你的 Java 功底可就是相当糟糕了，连字符串拼接需要用 StringBuffer 来优化都没搞明白。 <br /> 为了和后续对比，先记下 filter1 的处理时间，大约在 8.81-8.90秒 之间。 <br /> <br />     <h3 id="section-4"> ◇版本2 </h3>
+ <br /> 再来看看 filter2，代码如下： <br />     <div class="source">
+      <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>private static String filter2(String strOld)
+{
+    StringBuffer strNew = new StringBuffer();
+    for(int i=0; i&lt;strOld.length(); i++)
+    {
+        if('0'&lt;=strOld.charAt(i) &amp;&amp; strOld.charAt(i)&lt;='9')
+        {
+            strNew.append(strOld.charAt(i));
+        }
+    }
+    return strNew.toString();
+}
+</code></pre></div>      </div>
+    </div>
+ <br /> 其实刚才在评价 filter1 的时候，已经泄露了 filter2 的天机。filter2 通过使用 StringBuffer 来优化连接字符串的性能。为什么 StringBuffer 连接字符串的性能比 String 好，这个已经是老生常谈，俺在这儿就不细说啦。尚不清楚的同学自己上 Google 一查便知。估计应该有挺多同学会写出类似 filter2 的代码。 <br /> 有些同学可能会问：为啥不用 StringBuilder？ <br /> 确实，在 JDK 1.5 新增加了 StringBuilder 这个类，其性能会比 StringBuffer 更好。不过捏，考虑到有可能要拿到其它版本的 JDK 上作对比测试，而且 StringBuilder 和 StringBuffer 之间的差异【不是】本文讨论的重点，所以后面的例子都使用 StringBuffer 来实现。 <br /> filter2 的处理时间大约为 2.14-2.18秒，提升了大约4倍。 <br /> <br />     <h3 id="section-5"> ◇版本3 </h3>
+ <br /> 接着看看 filter3，代码如下： <br />     <div class="source">
+      <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>private static String filter3(String strOld)
+{
+    StringBuffer strNew = new StringBuffer();
+    int nLen = strOld.length();
+    for(int i=0; i&lt;nLen; i++)
+    {
+        char ch = strOld.charAt(i);
+        if('0'&lt;=ch &amp;&amp; ch&lt;='9')
+        {
+            strNew.append(ch);
+        }
+    }
+    return strNew.toString();
+}
+</code></pre></div>      </div>
+    </div>
+ <br /> 乍一看，filter3 和 filter2 的代码差不多嘛！再仔细瞧一瞧，原来先把 strOld.charAt(i) 赋值给 char 变量，节省了重复调用 charAt() 方法的开销；另外把 strOld.length() 先保存为 nLen，也节省了重复调用 length() 的开销。能想到这一步的同学，估计是比较细心的。 <br /> 经过此一优化，处理时间节省为 1.48-1.52秒，提升了约30%。由于 charAt() 和 length() 的内部实现都挺简单的，所以提升的性能不太明显。 <br /> 另外补充一下，经网友反馈，在 JDK 1.6 上，filter3 和 filter2 的性能基本相同。俺估计：可能是因为 JDK 1.6 在编译时已经进行了相关的优化。 <br /> <br />     <h3 id="section-6"> ◇版本4 </h3>
+ <br /> 然后看看 filter4，代码如下： <br />     <div class="source">
+      <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>private static String filter4(String strOld)
+{
+    int nLen = strOld.length();
+    StringBuffer strNew = new StringBuffer(nLen);
+    for(int i=0; i&lt;nLen; i++)
+    {
+        char ch = strOld.charAt(i);
+        if('0'&lt;=ch &amp;&amp; ch&lt;='9')
+        {
+            strNew.append(ch);
+        }
+    }
+    return strNew.toString();
+}
+</code></pre></div>      </div>
+    </div>
+ <br /> filter4 和 filter3 差别也很小，唯一差别就在于调用了 StringBuffer 带参数的构造函数。通过 StringBuffer 的构造函数设置初始的容量大小，可以有效避免 append() 追加字符时重新分配内存，从而提高性能。 <br /> filter4 的处理时间大约在 1.33-1.39秒，约提高10%左右。可惜提升的幅度有点小 :-( <br /> <br />     <h3 id="section-7"> ◇版本5 </h3>
+ <br /> 最后来看看“终极版本”——性能最好的 filter5。 <br />     <div class="source">
+      <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>private static String filter5(String strOld)
+{
+    int nLen = strOld.length();
+    char[] chArray = new char[nLen];
+    int nPos = 0;
+    for(int i=0; i&lt;nLen; i++)
+    {
+        char ch = strOld.charAt(i);
+        if('0'&lt;=ch &amp;&amp; ch&lt;='9')
+        {
+            chArray[nPos] = ch;
+            nPos++;
+        }
+    }
+    return new String(chArray, 0, nPos);
+}
+</code></pre></div>      </div>
+    </div>
+ <br /> 猛一看，你可能会想：这个 filter5 和前几个版本的差别也忒大了吧！filter5 既没有用 String 也没有用 StringBuffer，而是拿字符数组进行中间处理。 <br /> filter5 的处理时间，只用了0.72-0.78秒，相对于 filter4 提升了将近50%。为啥捏？是不是因为直接操作字符数组，节省了 append(char) 的调用？通过查看 append(char) 的源代码，内部的实现很简单，应该不至于提升这么多。 <br /> 那是什么原因捏？ <br /> 首先，虽然 filter5 有一个字符数组的创建开销，但是相对于 filter4 来说，StringBuffer 的构造函数内部也会有字符数组的创建开销。两相抵消。所以 filter5 比 filter4 还多节省了 StringBuffer 对象本身的创建开销。（在俺的 JDK 1.5 环境中，这个因素比较明显） <br /> 其次，由于 StringBuffer 是线程安全的（它的方法都是 synchronized），因此调用它的方法有一定的同步开销，而字符数组则没有，这又是一个性能提升的地方。（经热心读者反馈，此因素在 JDK 1.6 中比较明显） <br /> 基于上述两个因素，所以 filter5 比 filter4 又有较大幅度的提升。 <br /> <br /> <br />     <h2 id="section-8"> ★对于5个版本的总结 </h2>
+ <br /> 上述5个版本，filter1 和 filter5 的性能相差约12倍（已经超过一个数量级）。除了 filter3 相对于 filter2 是通过消除函数重复调用来提升性能，其它的几个版本都是通过节省内存分配，降低了时间开销。可见内存分配对于性能的影响有多大啊！如果你是看了 <a href="https://program-think.blogspot.com/2009/03/java-performance-tuning-1-two-types.html"> 上一个帖子 </a> 才写出 filter4 或者 filter5，那说明你已经领会了个中奥妙，俺那个帖子也就没白写了。 <br /> <br /> <br />     <h2 id="section-9"> ★一点补充说明，关于时间和空间的平衡 </h2>
+ <br /> 另外，需要补充说明一下。版本4和版本5使用了空间换时间的手法来提升性能。假如被过滤的字符串【很大】，并且数字字符的比例【很低】，这种方式就不太合算了。 <br /> 举个例子：被处理的字符串中，绝大部分都只含有不到10%的数字字符，只有少数字符串包含较多的数字字符。这时候该怎么办捏？ <br /> 对于 filter4 来说，可以把 new StringBuffer(nLen); 修改为 new StringBuffer(nLen/10); 来节约空间开销。但是 filter5 就没法这么玩了。 <br /> 所以，具体该用“版本4”还是“版本5”，要看具体情况了。只有在你【非常】看重时间开销，且数字字符比例很高（至少大于50%）的情况下，用 filter5 才合算。否则的话，建议用 filter4。 <br /> <br /> 下一个帖子，打算介绍一下“ <a href="https://program-think.blogspot.com/2009/04/java-performance-tuning-3-gc.html"> 关于垃圾回收（GC） </a> ”的话题。 <br /> <br /> <br /> <a href="https://program-think.blogspot.com/2009/03/java-performance-tuning-0-overview.html#index"> 回到本系列的目录 </a>     <div class="post-copyright">
+<b>
+    版权声明
+   </b> <br /> 本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者 <a href="mailto:program.think@gmail.com"> 编程随想 </a> 和本文原始地址： <br /> <a href="https://program-think.blogspot.com/2009/03/java-performance-tuning-2-string.html" id="OriginalPostUrl"> https://program-think.blogspot.com/2009/03/java-performance-tuning-2-string.html </a>
+    </div>
+    <div style="clear: both;"></div>
+  </div>
+  <div class="post-footer" style="margin-bottom:50px;">
+    <div class="post-footer-line post-footer-line-1" style="display:none;">
+<span class="post-author vcard"> </span> <span class="reaction-buttons"> </span> <span class="star-ratings"> </span> <span class="post-icons"> </span> <span class="post-backlinks post-comment-link"> </span>
+    </div>
+    <div class="post-footer-line post-footer-line-2 post-toolbar"></div>
+    <div class="post-footer-line post-footer-line-3">
+<span class="post-location"> </span>
+    </div>
+  </div>
+</div>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#编程随想 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2021-05-09/%E5%88%86%E4%BA%AB%E5%90%84%E7%B1%BB%E7%94%B5%E5%AD%90%E4%B9%A6-%E6%94%BF%E6%B2%BB-IT-%E7%A7%91%E6%99%AE-%E5%8E%86%E5%8F%B2-%E7%AD%89-97%E6%9C%AC/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-01-15/%E5%8D%9A%E5%AE%A2%E5%BC%80%E5%BC%A0%E5%8F%8A%E6%9C%AC%E5%8D%9A%E5%AE%A2%E5%86%85%E5%AE%B9%E7%AE%80%E4%BB%8B/">最早</a>--</span>
+    
+      <li>
+        <time>2009-03-22</time>
+        <a href="https://nodebe4.github.io/opinion/2009-03-22/%E5%BC%80%E6%BA%90%E7%82%B9%E8%AF%84-cURL-%E4%BC%98%E7%A7%80%E7%9A%84%E5%BA%94%E7%94%A8%E5%B1%82%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE%E5%BA%93/">
+          开源点评：cURL——优秀的应用层网络协议库
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2009-03-19</time>
+        <a href="https://nodebe4.github.io/opinion/2009-03-19/Java-%E6%96%B0%E6%89%8B%E8%BF%9B%E9%98%B6-%E7%BB%86%E8%AF%B4%E5%BC%95%E7%94%A8%E7%B1%BB%E5%9E%8B/">
+          Java 新手进阶：细说引用类型
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2009-03-16</time>
+        <a href="https://nodebe4.github.io/opinion/2009-03-16/Java-%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96-1-%E5%9F%BA%E6%9C%AC%E7%B1%BB%E5%9E%8B-vs-%E5%BC%95%E7%94%A8%E7%B1%BB%E5%9E%8B/">
+          Java 性能优化[1]：基本类型 vs 引用类型
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2009-03-16</time>
+        <a href="https://nodebe4.github.io/opinion/2009-03-16/Java-%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96-0-%E6%A6%82%E8%BF%B0/">
+          Java 性能优化[0]：概述
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2009-03-16/Java-%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96-1-%E5%9F%BA%E6%9C%AC%E7%B1%BB%E5%9E%8B-vs-%E5%BC%95%E7%94%A8%E7%B1%BB%E5%9E%8B/">
+            前一篇：Java 性能优化[1]：基本类型 vs 引用类型
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2009-03-19/Java-%E6%96%B0%E6%89%8B%E8%BF%9B%E9%98%B6-%E7%BB%86%E8%AF%B4%E5%BC%95%E7%94%A8%E7%B1%BB%E5%9E%8B/">
+            後一篇：Java 新手进阶：细说引用类型
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2009-03-16/Java-%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96-1-%E5%9F%BA%E6%9C%AC%E7%B1%BB%E5%9E%8B-vs-%E5%BC%95%E7%94%A8%E7%B1%BB%E5%9E%8B/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2009-03-19/Java-%E6%96%B0%E6%89%8B%E8%BF%9B%E9%98%B6-%E7%BB%86%E8%AF%B4%E5%BC%95%E7%94%A8%E7%B1%BB%E5%9E%8B/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2009-03-19/Java-%E6%96%B0%E6%89%8B%E8%BF%9B%E9%98%B6-%E7%BB%86%E8%AF%B4%E5%BC%95%E7%94%A8%E7%B1%BB%E5%9E%8B/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2009-03-16/Java-%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96-1-%E5%9F%BA%E6%9C%AC%E7%B1%BB%E5%9E%8B-vs-%E5%BC%95%E7%94%A8%E7%B1%BB%E5%9E%8B/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2009-03-16/Java-%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96-1-%E5%9F%BA%E6%9C%AC%E7%B1%BB%E5%9E%8B-vs-%E5%BC%95%E7%94%A8%E7%B1%BB%E5%9E%8B/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2009-03-19/Java-%E6%96%B0%E6%89%8B%E8%BF%9B%E9%98%B6-%E7%BB%86%E8%AF%B4%E5%BC%95%E7%94%A8%E7%B1%BB%E5%9E%8B/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<编程随想>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2009-03-19/Java-%E6%96%B0%E6%89%8B%E8%BF%9B%E9%98%B6-%E7%BB%86%E8%AF%B4%E5%BC%95%E7%94%A8%E7%B1%BB%E5%9E%8B/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<编程随想>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2009-03-16/Java-%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96-1-%E5%9F%BA%E6%9C%AC%E7%B1%BB%E5%9E%8B-vs-%E5%BC%95%E7%94%A8%E7%B1%BB%E5%9E%8B/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

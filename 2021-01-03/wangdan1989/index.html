@@ -1,0 +1,3130 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Twitter @王丹: 2020-12-28~2021-01-03 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="一个不可救药的理想主义者； 致力于做一个温和，坚定，建设性的政治反对派； 期待未来的中国，能够重建政治秩序和生活秩序。 油管：王丹学堂；个人PayPal账户：https://t.co/31K0DAWhJK
+" />
+    <meta property="og:description" content="一个不可救药的理想主义者； 致力于做一个温和，坚定，建设性的政治反对派； 期待未来的中国，能够重建政治秩序和生活秩序。 油管：王丹学堂；个人PayPal账户：https://t.co/31K0DAWhJK
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Twitter @王丹: 2020-12-28~2021-01-03" />
+    <meta property="twitter:title" content="Twitter @王丹: 2020-12-28~2021-01-03" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Ftwitter.com%2Fwangdan1989%2Fstatus%2F1343234950309568512" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://twitter.com/wangdan1989/status/1343234950309568512" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://twitter.com/wangdan1989/status/1343234950309568512&text=Twitter @王丹: 2020-12-28~2021-01-03&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://twitter.com/wangdan1989/status/1343234950309568512&title=Twitter @王丹: 2020-12-28~2021-01-03" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://twitter.com/wangdan1989/status/1343234950309568512&title=Twitter @王丹: 2020-12-28~2021-01-03" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Twitter @王丹: 2020-12-28~2021-01-03&body=一个不可救药的理想主义者； 致力于做一个温和，坚定，建设性的政治反对派； 期待未来的中国，能够重建政治秩序和生活秩序。 油管：王丹学堂；个人PayPal账户：https://t.co/31K0DAWhJK
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://twitter.com/wangdan1989/status/1343234950309568512" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://twitter.com/wangdan1989/status/1343234950309568512&title=Twitter @王丹: 2020-12-28~2021-01-03&caption=一个不可救药的理想主义者； 致力于做一个温和，坚定，建设性的政治反对派； 期待未来的中国，能够重建政治秩序和生活秩序。 油管：王丹学堂；个人PayPal账户：https://t.co/31K0DAWhJK
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Twitter @王丹: 2020-12-28~2021-01-03&url=https://twitter.com/wangdan1989/status/1343234950309568512" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Twitter @王丹: 2020-12-28~2021-01-03</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2021-01-03
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: wangdan1989</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Twitter">
+          Twitter
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://twitter.com/wangdan1989/status/1343234950309568512" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Twitter的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Twitter 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <p>一个不可救药的理想主义者； 致力于做一个温和，坚定，建设性的政治反对派； 期待未来的中国，能够重建政治秩序和生活秩序。 油管：王丹学堂；个人PayPal账户：https://t.co/31K0DAWhJK</p>
+
+<ul id="markdown-toc">
+  <li><a href="#1-2020-12-28-0039020800-推文" id="markdown-toc-1-2020-12-28-0039020800-推文">1: 2020-12-28 00:39:02+08:00 推文</a></li>
+  <li><a href="#2-2020-12-28-1837060800-推文" id="markdown-toc-2-2020-12-28-1837060800-推文">2: 2020-12-28 18:37:06+08:00 推文</a></li>
+  <li><a href="#3-2020-12-28-1855280800-推文" id="markdown-toc-3-2020-12-28-1855280800-推文">3: 2020-12-28 18:55:28+08:00 推文</a></li>
+  <li><a href="#4-2020-12-29-0000170800-推文" id="markdown-toc-4-2020-12-29-0000170800-推文">4: 2020-12-29 00:00:17+08:00 推文</a></li>
+  <li><a href="#5-2020-12-29-0927090800-推文" id="markdown-toc-5-2020-12-29-0927090800-推文">5: 2020-12-29 09:27:09+08:00 推文</a></li>
+  <li><a href="#6-2020-12-29-1056400800-推文" id="markdown-toc-6-2020-12-29-1056400800-推文">6: 2020-12-29 10:56:40+08:00 推文</a></li>
+  <li><a href="#7-2020-12-30-0459120800-推文" id="markdown-toc-7-2020-12-30-0459120800-推文">7: 2020-12-30 04:59:12+08:00 推文</a></li>
+  <li><a href="#8-2020-12-30-2035220800-推文" id="markdown-toc-8-2020-12-30-2035220800-推文">8: 2020-12-30 20:35:22+08:00 推文</a></li>
+  <li><a href="#9-2020-12-30-2035580800-推文" id="markdown-toc-9-2020-12-30-2035580800-推文">9: 2020-12-30 20:35:58+08:00 推文</a></li>
+  <li><a href="#10-2020-12-31-2204460800-推文" id="markdown-toc-10-2020-12-31-2204460800-推文">10: 2020-12-31 22:04:46+08:00 推文</a></li>
+  <li><a href="#11-2021-01-01-0653240800-推文" id="markdown-toc-11-2021-01-01-0653240800-推文">11: 2021-01-01 06:53:24+08:00 推文</a></li>
+  <li><a href="#12-2021-01-01-1112160800-推文" id="markdown-toc-12-2021-01-01-1112160800-推文">12: 2021-01-01 11:12:16+08:00 推文</a></li>
+  <li><a href="#13-2021-01-01-1920380800-推文" id="markdown-toc-13-2021-01-01-1920380800-推文">13: 2021-01-01 19:20:38+08:00 推文</a></li>
+  <li><a href="#14-2021-01-03-0900280800-推文" id="markdown-toc-14-2021-01-03-0900280800-推文">14: 2021-01-03 09:00:28+08:00 推文</a></li>
+  <li><a href="#15-2021-01-03-0901520800-推文" id="markdown-toc-15-2021-01-03-0901520800-推文">15: 2021-01-03 09:01:52+08:00 推文</a></li>
+  <li><a href="#16-2021-01-03-0902020800-推文" id="markdown-toc-16-2021-01-03-0902020800-推文">16: 2021-01-03 09:02:02+08:00 推文</a></li>
+  <li><a href="#17-2021-01-03-0904590800-推文" id="markdown-toc-17-2021-01-03-0904590800-推文">17: 2021-01-03 09:04:59+08:00 推文</a></li>
+  <li><a href="#18-2021-01-03-0926250800-推文" id="markdown-toc-18-2021-01-03-0926250800-推文">18: 2021-01-03 09:26:25+08:00 推文</a></li>
+  <li><a href="#19-2021-01-03-0942320800-推文" id="markdown-toc-19-2021-01-03-0942320800-推文">19: 2021-01-03 09:42:32+08:00 推文</a></li>
+  <li><a href="#20-2021-01-03-0945580800-推文" id="markdown-toc-20-2021-01-03-0945580800-推文">20: 2021-01-03 09:45:58+08:00 推文</a></li>
+  <li><a href="#21-2021-01-03-0946470800-推文" id="markdown-toc-21-2021-01-03-0946470800-推文">21: 2021-01-03 09:46:47+08:00 推文</a></li>
+  <li><a href="#22-2021-01-03-0949330800-推文" id="markdown-toc-22-2021-01-03-0949330800-推文">22: 2021-01-03 09:49:33+08:00 推文</a></li>
+  <li><a href="#23-2021-01-03-1123440800-推文" id="markdown-toc-23-2021-01-03-1123440800-推文">23: 2021-01-03 11:23:44+08:00 推文</a></li>
+  <li><a href="#24-2021-01-03-1134540800-推文" id="markdown-toc-24-2021-01-03-1134540800-推文">24: 2021-01-03 11:34:54+08:00 推文</a></li>
+  <li><a href="#25-2021-01-03-1245310800-推文" id="markdown-toc-25-2021-01-03-1245310800-推文">25: 2021-01-03 12:45:31+08:00 推文</a></li>
+  <li><a href="#26-2021-01-03-1259290800-推文" id="markdown-toc-26-2021-01-03-1259290800-推文">26: 2021-01-03 12:59:29+08:00 推文</a></li>
+  <li><a href="#27-2021-01-03-1308230800-推文" id="markdown-toc-27-2021-01-03-1308230800-推文">27: 2021-01-03 13:08:23+08:00 推文</a></li>
+  <li><a href="#28-2021-01-03-2012210800-推文" id="markdown-toc-28-2021-01-03-2012210800-推文">28: 2021-01-03 20:12:21+08:00 推文</a></li>
+  <li><a href="#29-2021-01-03-2014330800-推文" id="markdown-toc-29-2021-01-03-2014330800-推文">29: 2021-01-03 20:14:33+08:00 推文</a></li>
+  <li><a href="#30-2021-01-03-2015140800-推文" id="markdown-toc-30-2021-01-03-2015140800-推文">30: 2021-01-03 20:15:14+08:00 推文</a></li>
+  <li><a href="#31-2021-01-03-2143020800-推文" id="markdown-toc-31-2021-01-03-2143020800-推文">31: 2021-01-03 21:43:02+08:00 推文</a></li>
+</ul>
+
+<h3 id="1-2020-12-28-0039020800-推文">1: <a href="https://twitter.com/wangdan1989/status/1343234950309568512">2020-12-28 00:39:02+08:00 推文</a></h3>
+
+<p>Re @puzhiqiang 我傾向於從醫學角度分析。</p>
+
+<h3 id="2-2020-12-28-1837060800-推文">2: <a href="https://twitter.com/wangdan1989/status/1343506252542980097">2020-12-28 18:37:06+08:00 推文</a></h3>
+
+<p>以下是蘋果日報今年1月3日的報導。<br /><br />王丹今日（1/3）在臉書發聲明表示，從今日起抵制《亞洲週刊》，也拒絕該刊記者採訪，（大陸中心／綜合外電報導）<br /><br />請允許我臭屁一下，請允許我炫耀一下我的先見之明。 <a href="https://news.ltn.com.tw/news/politics/breakingnews/3394644?utm_medium=R&amp;utm_campaign=SHARE&amp;utm_source=twitter" target="_blank" rel="noopener noreferrer">https://news.ltn.com.tw/news/politics/breakingnews/3394644?utm_medium=R&amp;utm_campaign=SHARE&amp;utm_source=twitter</a></p>
+
+<h3 id="3-2020-12-28-1855280800-推文">3: <a href="https://twitter.com/wangdan1989/status/1343510873936162817">2020-12-28 18:55:28+08:00 推文</a></h3>
+
+<p>張展無罪！<br /><br />必須追究全球疫情大爆發的真正禍首：中共！<br /><br />BBC News 中文: 上海法院周一开庭审理中国公民记者张展“炒作疫情”案，宣判张展入狱4年。这是中国当局对武汉疫情记录者进行的首个公开审判。<br /> <a href="https://bbc.in/3rzvuio" target="_blank" rel="noopener noreferrer">https://bbc.in/3rzvuio</a></p>
+
+<h3 id="4-2020-12-29-0000170800-推文">4: <a href="https://twitter.com/wangdan1989/status/1343587583914344454">2020-12-29 00:00:17+08:00 推文</a></h3>
+
+<p>中國公民張展因為記錄武漢疫情，被判四年徒刑。<br /><br />那些說中國抗疫成功的人，顯然沒腦子。<br /><br />道理很簡單：如果中國抗疫真的很成功，鼓勵報導都來不及呢，為何還重判？</p>
+
+<h3 id="5-2020-12-29-0927090800-推文">5: <a href="https://twitter.com/wangdan1989/status/1343730239852175360">2020-12-29 09:27:09+08:00 推文</a></h3>
+
+<p>傅聰先生在倫敦去世，86歲。願老人家安息。<br /><img style="" src="https://pbs.twimg.com/media/EqXjh-dWMAYvrdG?format=jpg&amp;name=orig" referrerpolicy="no-referrer" /></p>
+
+<h3 id="6-2020-12-29-1056400800-推文">6: <a href="https://twitter.com/wangdan1989/status/1343752768687902724">2020-12-29 10:56:40+08:00 推文</a></h3>
+
+<p>傅聰病逝 王丹感性憶：命運寫滿文化人在中共暴政下的血淚 <a href="https://news.ltn.com.tw/news/world/breakingnews/3395046?utm_medium=R&amp;utm_campaign=SHARE&amp;utm_source=twitter" target="_blank" rel="noopener noreferrer">https://news.ltn.com.tw/news/world/breakingnews/3395046?utm_medium=R&amp;utm_campaign=SHARE&amp;utm_source=twitter</a></p>
+
+<h3 id="7-2020-12-30-0459120800-推文">7: <a href="https://twitter.com/wangdan1989/status/1344025198153125889">2020-12-30 04:59:12+08:00 推文</a></h3>
+
+<p>被谁背叛的钢琴家? 钢琴诗人傅聪病逝他乡 — 普通话主页 <a href="https://www.rfa.org/mandarin/yataibaodao/zhengzhi/jt-12292020143650.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/yataibaodao/zhengzhi/jt-12292020143650.html</a></p>
+
+<h3 id="8-2020-12-30-2035220800-推文">8: <a href="https://twitter.com/wangdan1989/status/1344260789818028033">2020-12-30 20:35:22+08:00 推文</a></h3>
+
+<p>中國的2020年，以李文亮開始，以張展結束。<br /><br />整整一年，以掩蓋真相開始，到掩蓋真相結束。<br /><br />中共，是一個不掩蓋真相會死的政權。</p>
+
+<h3 id="9-2020-12-30-2035580800-推文">9: <a href="https://twitter.com/wangdan1989/status/1344260944101339136">2020-12-30 20:35:58+08:00 推文</a></h3>
+
+<p>The year 2020 in China starts with Li Wenliang and ends with Zhang Zhan.<br /><br />A whole year started with covering up the truth and ending with covering up the truth.<br /><br />The CCP is a regime that will die if it does not hide the truth.</p>
+
+<h3 id="10-2020-12-31-2204460800-推文">10: <a href="https://twitter.com/wangdan1989/status/1344645676903313409">2020-12-31 22:04:46+08:00 推文</a></h3>
+
+<p>2020即將過去，這一年太令人感慨，也太令人無語。<br /><br />不過，我們還是走過來了；要相信時間，它總歸會解決一切。<br /><br />祝各位抖擻精神，迎接2021年的到來。<br /><br />新年快樂！</p>
+
+<h3 id="11-2021-01-01-0653240800-推文">11: <a href="https://twitter.com/wangdan1989/status/1344778712064139264">2021-01-01 06:53:24+08:00 推文</a></h3>
+
+<p>【為黎智英打氣】中國民運人士王丹：鐵鍊纏身羞辱黎　中南海心理變態 <a href="https://tw.appledaily.com/headline/20210101/35RXMIXXWNAMVNLDTASFQNJQVM/?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=twad_article_share&amp;utm_content=share_link" target="_blank" rel="noopener noreferrer">https://tw.appledaily.com/headline/20210101/35RXMIXXWNAMVNLDTASFQNJQVM/?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=twad_article_share&amp;utm_content=share_link</a></p>
+
+<h3 id="12-2021-01-01-1112160800-推文">12: <a href="https://twitter.com/wangdan1989/status/1344843856932724737">2021-01-01 11:12:16+08:00 推文</a></h3>
+
+<p>還有兩個小時就要告別2020了，<br />這是我的2021願望清單：<br /><br />1. 自費為母親出版她的回憶錄；<br /><br />2. 個人能出一本散文集；<br /><br />3. 最少回一次台灣；<br /><br />4. 見證疫情結束，全球恢復正常生活；<br /><br />5. 智庫“對話中國”的工作有更多的成就；<br /><br />6. 台灣壯大，香港平安，中共挫賽。</p>
+
+<h3 id="13-2021-01-01-1920380800-推文">13: <a href="https://twitter.com/wangdan1989/status/1344966759669968896">2021-01-01 19:20:38+08:00 推文</a></h3>
+
+<p>Re @aiyu_xing 四五千美元吧</p>
+
+<h3 id="14-2021-01-03-0900280800-推文">14: <a href="https://twitter.com/wangdan1989/status/1345535464598601730">2021-01-03 09:00:28+08:00 推文</a></h3>
+
+<p>在此告知各位：<br /><br />  我去年12月底新冠病毒檢測陽性，確診感染武漢肺炎。<br /><br />  不過大家不用擔心，我症狀輕微，且有症狀至今已經超過12天，目前狀況良好，醫生已經通知可以結束自我隔離。隔離期間得到助理和朋友的照料（包括照顧豆豆）），一切平安。<br /><br />  現在公布確診，是希望以我為例，告訴大家：（1/2）</p>
+
+<h3 id="15-2021-01-03-0901520800-推文">15: <a href="https://twitter.com/wangdan1989/status/1345535818333618178">2021-01-03 09:01:52+08:00 推文</a></h3>
+
+<p>Re 第一，這一波疫情來勢兇猛，我已經非常小心，還是不知道為何感染，大家千萬不要大意；<br />  第二，我的症狀其實比一般感冒還要輕微，但檢測出來還是陽性。因此呼籲大家，如果有任何相關症狀，還是應當去檢測，不僅是為了自己，也是為他人和社會負責；</p>
+
+<h3 id="16-2021-01-03-0902020800-推文">16: <a href="https://twitter.com/wangdan1989/status/1345535861664985089">2021-01-03 09:02:02+08:00 推文</a></h3>
+
+<p>Re 第三， 也希望大家了解，即使感染也不必驚慌。配合醫囑，冷靜面對，好好休息，多喝水，就是最好的選擇。<br />  最後，請大家放心，中共監獄我都坐過兩次了。中共病毒，也不會打倒我的。（2/2）</p>
+
+<h3 id="17-2021-01-03-0904590800-推文">17: <a href="https://twitter.com/wangdan1989/status/1345536601502474245">2021-01-03 09:04:59+08:00 推文</a></h3>
+
+<p>Re @EarthBase3 謝謝。希望抗體可以免疫更長時間。</p>
+
+<h3 id="18-2021-01-03-0926250800-推文">18: <a href="https://twitter.com/wangdan1989/status/1345541997176762370">2021-01-03 09:26:25+08:00 推文</a></h3>
+
+<p>Re @Uyghhfg 黑暗</p>
+
+<h3 id="19-2021-01-03-0942320800-推文">19: <a href="https://twitter.com/wangdan1989/status/1345546050266947585">2021-01-03 09:42:32+08:00 推文</a></h3>
+
+<p>Re @gaoyu200812 大姐放心。已經康復。</p>
+
+<h3 id="20-2021-01-03-0945580800-推文">20: <a href="https://twitter.com/wangdan1989/status/1345546915828670464">2021-01-03 09:45:58+08:00 推文</a></h3>
+
+<p>Re @ZhouFengSuo 已經康復，謝謝關心。</p>
+
+<h3 id="21-2021-01-03-0946470800-推文">21: <a href="https://twitter.com/wangdan1989/status/1345547120200265732">2021-01-03 09:46:47+08:00 推文</a></h3>
+
+<p>Re @xiongyanxman 兄弟放心，沒事了。</p>
+
+<h3 id="22-2021-01-03-0949330800-推文">22: <a href="https://twitter.com/wangdan1989/status/1345547816207347715">2021-01-03 09:49:33+08:00 推文</a></h3>
+
+<p>Re @iamapoldfriend 謝謝</p>
+
+<h3 id="23-2021-01-03-1123440800-推文">23: <a href="https://twitter.com/wangdan1989/status/1345571519766929409">2021-01-03 11:23:44+08:00 推文</a></h3>
+
+<p>Re @daquan_yu 沒有治療，自然康復。</p>
+
+<h3 id="24-2021-01-03-1134540800-推文">24: <a href="https://twitter.com/wangdan1989/status/1345574328834908160">2021-01-03 11:34:54+08:00 推文</a></h3>
+
+<p>Re @daquan_yu 沒有</p>
+
+<h3 id="25-2021-01-03-1245310800-推文">25: <a href="https://twitter.com/wangdan1989/status/1345592102667874306">2021-01-03 12:45:31+08:00 推文</a></h3>
+
+<p>剛剛收到不少私訊，關心我確診前後的一些細節和過程，提出一些問題。<br /><br />我想，很多人對這個病毒還是不太了解，作為過來人，我覺得我有義務分享一些經驗，供大家參考。<br /><br />因此決定進行一次直播，專門談談我確診到康復的過程和感想。<br /><br />時間：台北/北京時間今天（01/03）晚上10點 <a href="https://www.youtube.com/channel/UCAbpBUsrolyu6HvwPcmhXZw" target="_blank" rel="noopener noreferrer">https://www.youtube.com/channel/UCAbpBUsrolyu6HvwPcmhXZw</a></p>
+
+<h3 id="26-2021-01-03-1259290800-推文">26: <a href="https://twitter.com/wangdan1989/status/1345595617150717953">2021-01-03 12:59:29+08:00 推文</a></h3>
+
+<p>Re @wwwYQ6674910112 這是我的榮耀。希望我康復的消息，把他們氣死。</p>
+
+<h3 id="27-2021-01-03-1308230800-推文">27: <a href="https://twitter.com/wangdan1989/status/1345597855894011904">2021-01-03 13:08:23+08:00 推文</a></h3>
+
+<p>Re @LiHongKuan 我明天早上9點的直播會具體說明一下。</p>
+
+<h3 id="28-2021-01-03-2012210800-推文">28: <a href="https://twitter.com/wangdan1989/status/1345704549844197376">2021-01-03 20:12:21+08:00 推文</a></h3>
+
+<p>Re @RonaldSimmonsUS 目前還不想加入美國國籍。</p>
+
+<h3 id="29-2021-01-03-2014330800-推文">29: <a href="https://twitter.com/wangdan1989/status/1345705104079515648">2021-01-03 20:14:33+08:00 推文</a></h3>
+
+<p>Re @Wei_Cheng_Lee 完全沒有。</p>
+
+<h3 id="30-2021-01-03-2015140800-推文">30: <a href="https://twitter.com/wangdan1989/status/1345705276918407188">2021-01-03 20:15:14+08:00 推文</a></h3>
+
+<p>Re @Ericlee18009028 的確，我就是顧慮及此，才公布的。</p>
+
+<h3 id="31-2021-01-03-2143020800-推文">31: <a href="https://twitter.com/wangdan1989/status/1345727370590900224">2021-01-03 21:43:02+08:00 推文</a></h3>
+
+<p>「我感染新冠病毒的經驗分享」<br /><br />直播10點開始。 <a href="https://m.youtube.com/watch?v=z_HwPMRgbc8&amp;feature=youtu.be" target="_blank" rel="noopener noreferrer">https://m.youtube.com/watch?v=z_HwPMRgbc8&amp;feature=youtu.be</a></p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Twitter 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/wangdan1989/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2020-07-02/jenjpan/">最早</a>--</span>
+    
+      <li>
+        <time>2021-01-10</time>
+        <a href="https://nodebe4.github.io/opinion/2021-01-10/realcaixia/">
+          Twitter @蔡霞: 2021-01-04~2021-01-10
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-01-10</time>
+        <a href="https://nodebe4.github.io/opinion/2021-01-10/cnmediaproject/">
+          Twitter @China Media Project: 2021-01-04~2021-01-10
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-01-03</time>
+        <a href="https://nodebe4.github.io/opinion/2021-01-03/cnmediaproject/">
+          Twitter @China Media Project: 2020-12-28~2021-01-03
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-01-02</time>
+        <a href="https://nodebe4.github.io/opinion/2021-01-02/realcaixia/">
+          Twitter @蔡霞: 2020-12-28~2021-01-03
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2021-01-03/cnmediaproject/">
+            前一篇：Twitter @China Media Project: 2020-12-28~2021-01-03
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2021-01-03/%E9%A6%99%E6%B8%AF%E6%8A%97%E7%88%AD%E7%95%B6%E5%8B%99%E4%B9%8B%E6%80%A5-%E8%88%87%E8%B7%A8%E5%9C%8B%E7%A7%BB%E6%B0%91%E5%85%AC%E7%BE%A9%E7%B5%84%E7%B9%94%E7%B5%90%E7%9B%9F/">
+            後一篇：香港抗爭當務之急：與跨國移民公義組織結盟
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2021-01-03/cnmediaproject/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2021-01-03/%E9%A6%99%E6%B8%AF%E6%8A%97%E7%88%AD%E7%95%B6%E5%8B%99%E4%B9%8B%E6%80%A5-%E8%88%87%E8%B7%A8%E5%9C%8B%E7%A7%BB%E6%B0%91%E5%85%AC%E7%BE%A9%E7%B5%84%E7%B9%94%E7%B5%90%E7%9B%9F/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2021-01-10/cnmediaproject/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2021-01-03/cnmediaproject/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2021-01-03/cnmediaproject/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2021-01-03/%E9%A6%99%E6%B8%AF%E6%8A%97%E7%88%AD%E7%95%B6%E5%8B%99%E4%B9%8B%E6%80%A5-%E8%88%87%E8%B7%A8%E5%9C%8B%E7%A7%BB%E6%B0%91%E5%85%AC%E7%BE%A9%E7%B5%84%E7%B9%94%E7%B5%90%E7%9B%9F/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Twitter>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2021-01-10/cnmediaproject/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Twitter>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2021-01-03/cnmediaproject/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

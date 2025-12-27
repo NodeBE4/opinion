@@ -1,0 +1,2350 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Spinkcat在2020-12-21~2020-12-27的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Spinkcat在2020-12-21~2020-12-27的言论" />
+    <meta property="twitter:title" content="Spinkcat在2020-12-21~2020-12-27的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FChina_irl%2Fcomments%2Fkgwqax%2F%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90%E6%95%99%E5%B8%88%E5%B7%A5%E8%B5%84%E6%8B%96%E6%AC%A0%E7%BB%B4%E7%A8%B3%E7%BB%8F%E8%B4%B9%E5%85%85%E8%B6%B3%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/China_irl/comments/kgwqax/乌鲁木齐教师工资拖欠维稳经费充足/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/China_irl/comments/kgwqax/乌鲁木齐教师工资拖欠维稳经费充足/&text=Spinkcat在2020-12-21~2020-12-27的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/China_irl/comments/kgwqax/乌鲁木齐教师工资拖欠维稳经费充足/&title=Spinkcat在2020-12-21~2020-12-27的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/China_irl/comments/kgwqax/乌鲁木齐教师工资拖欠维稳经费充足/&title=Spinkcat在2020-12-21~2020-12-27的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Spinkcat在2020-12-21~2020-12-27的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/China_irl/comments/kgwqax/乌鲁木齐教师工资拖欠维稳经费充足/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/China_irl/comments/kgwqax/乌鲁木齐教师工资拖欠维稳经费充足/&title=Spinkcat在2020-12-21~2020-12-27的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Spinkcat在2020-12-21~2020-12-27的言论&url=https://old.reddit.com/r/China_irl/comments/kgwqax/乌鲁木齐教师工资拖欠维稳经费充足/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Spinkcat在2020-12-21~2020-12-27的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2020-12-27
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://www.reddit.com/user/Spinkcat/" style="font-size:14px;">作者: Spinkcat</a>
+        </span>
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/China_irl/comments/kgwqax/乌鲁木齐教师工资拖欠维稳经费充足/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#1246-乌鲁木齐教师工资拖欠维稳经费充足-submitted-on-2020-12-21-0016150800" id="markdown-toc-1246-乌鲁木齐教师工资拖欠维稳经费充足-submitted-on-2020-12-21-0016150800">1246: 乌鲁木齐：教师工资拖欠，维稳经费充足, submitted on 2020-12-21 00:16:15+08:00.</a></li>
+  <li><a href="#1247-新疆乌鲁木齐县中梁小学教师工资水准-submitted-on-2020-12-21-1026350800" id="markdown-toc-1247-新疆乌鲁木齐县中梁小学教师工资水准-submitted-on-2020-12-21-1026350800">1247: 新疆乌鲁木齐县中梁小学教师工资水准, submitted on 2020-12-21 10:26:35+08:00.</a></li>
+  <li><a href="#1248-爱民如子秦始皇吞并六国是为了让六国百姓不用再忍饥挨饿-submitted-on-2020-12-21-1056040800" id="markdown-toc-1248-爱民如子秦始皇吞并六国是为了让六国百姓不用再忍饥挨饿-submitted-on-2020-12-21-1056040800">1248: 爱民如子秦始皇：吞并六国是为了让六国百姓不用再忍饥挨饿。, submitted on 2020-12-21 10:56:04+08:00.</a></li>
+  <li><a href="#1249-依照现有中国疆域你最喜欢哪里作为首都-submitted-on-2020-12-22-0341460800" id="markdown-toc-1249-依照现有中国疆域你最喜欢哪里作为首都-submitted-on-2020-12-22-0341460800">1249: 依照现有中国疆域，你最喜欢哪里作为首都, submitted on 2020-12-22 03:41:46+08:00.</a></li>
+  <li><a href="#1250-为什么国内网上河北人总用上海黑北京吸血-submitted-on-2020-12-24-1442220800" id="markdown-toc-1250-为什么国内网上河北人总用上海黑北京吸血-submitted-on-2020-12-24-1442220800">1250: 为什么国内网上河北人总用上海黑北京吸血？, submitted on 2020-12-24 14:42:22+08:00.</a></li>
+  <li><a href="#1251-感觉墙内的舆论管控已经完全疯掉了-submitted-on-2020-12-24-2233540800" id="markdown-toc-1251-感觉墙内的舆论管控已经完全疯掉了-submitted-on-2020-12-24-2233540800">1251: 感觉墙内的舆论管控已经完全疯掉了…., submitted on 2020-12-24 22:33:54+08:00.</a></li>
+  <li><a href="#1252-东欧剧变为何掀不起朝鲜半点波澜-朝鲜人民真的无力做出任何行动吗-submitted-on-2020-12-25-0933510800" id="markdown-toc-1252-东欧剧变为何掀不起朝鲜半点波澜-朝鲜人民真的无力做出任何行动吗-submitted-on-2020-12-25-0933510800">1252: 东欧剧变为何掀不起朝鲜🇰🇵半点波澜？ 朝鲜人民真的无力做出任何行动吗？, submitted on 2020-12-25 09:33:51+08:00.</a></li>
+  <li><a href="#1253-作为亚洲男性网上约会经历摧毁了我的自信亚男例举亚洲人的优势抱怨女性不选择他-submitted-on-2020-12-26-1831310800" id="markdown-toc-1253-作为亚洲男性网上约会经历摧毁了我的自信亚男例举亚洲人的优势抱怨女性不选择他-submitted-on-2020-12-26-1831310800">1253: 作为亚洲男性，网上约会经历摧毁了我的自信（亚男例举亚洲人的优势，抱怨女性不选择他）, submitted on 2020-12-26 18:31:31+08:00.</a></li>
+  <li><a href="#1254-开箱英国皇家铸币厂---2020小熊维尼限定50便士-submitted-on-2020-12-27-1133000800" id="markdown-toc-1254-开箱英国皇家铸币厂---2020小熊维尼限定50便士-submitted-on-2020-12-27-1133000800">1254: ［开箱］英国皇家铸币厂 - 2020小熊维尼限定50便士, submitted on 2020-12-27 11:33:00+08:00.</a></li>
+  <li><a href="#1255-你喜欢哪个绰号别名-submitted-on-2020-12-27-1249300800" id="markdown-toc-1255-你喜欢哪个绰号别名-submitted-on-2020-12-27-1249300800">1255: 你喜欢哪个绰号别名？, submitted on 2020-12-27 12:49:30+08:00.</a></li>
+  <li><a href="#1256-高房价是否作为维稳的有效手段-submitted-on-2020-12-27-1747190800" id="markdown-toc-1256-高房价是否作为维稳的有效手段-submitted-on-2020-12-27-1747190800">1256: 高房价是否作为维稳的有效手段？, submitted on 2020-12-27 17:47:19+08:00.</a></li>
+</ul>
+
+<h3 id="1246-乌鲁木齐教师工资拖欠维稳经费充足-submitted-on-2020-12-21-0016150800">1246: <a href="https://old.reddit.com/r/China_irl/comments/kgwqax/乌鲁木齐教师工资拖欠维稳经费充足/">乌鲁木齐：教师工资拖欠，维稳经费充足</a>, submitted on 2020-12-21 00:16:15+08:00.</h3>
+
+<p>—– <strong>1246.1</strong> —–2020-12-21 05:37:00+08:00:</p>
+
+<p>某些公务员欠薪或拖延这个现在不算很少见，去年耒阳还有湖南湖北的教师就遇到过，但乌鲁木齐是省会，也会发生这种事是我没想到的，按道理这种边疆核心地区，财政稳定应该是重中之重。</p>
+
+<p>我随手查了下数据：</p>
+
+<p>2019年1-9月新疆的教育支出602.6亿元，增长10.5%</p>
+
+<p>2020年1-9月新疆的教育支出是637.8亿元，增长5.8%</p>
+
+<p>然后11月末，国务院督查组刚好指出了新疆伊犁地区拖欠两千多万教师工资与福利，那不从去年开始算，只假设去年的增速足够，没发生任何拖欠，而今年哪怕增速了，也是有拖欠问题，也即是说只要财政增速低于10.5%，就会出现拖欠问题（没低于也存在，只是较少或没现在这么严重，钱都怎么分配的）</p>
+
+<p>那问题来了，支出扩张体现在哪。</p>
+
+<p>我又去查了一下，全国拖欠薪金问题，不止是今年，也不单独是少数几个地方，近期辽宁抚顺拖欠教师薪金、贵州大方县拖欠教师各类薪金与所得4.79亿，挪用教育专项经费3.41亿元，再早一两年耒阳湖南湖北这些地方的这里就不赘述了。</p>
+
+<p>跟着我去微博观察了一下，发现拖欠教师工资的现象非常普遍，然后这里有一个严重受害对象是特岗教师，编制内教师可能在财政上有一定优先权，特岗教师作为高校生毕业为了考编制资格去边远地区的身份，本身没有编制，有很多特岗教师反映工资被拖欠。（比如有的刚入编，或拖几个月，通常年末结，还有的在编也没有的话，那就是地方没钱了）</p>
+
+<p>当然，拖欠教师工资是我国老传统了，新疆拖欠特岗生可以查到2012年，全国范围内八九十年代的拖欠情况挺普遍，通常在编和编外是泾渭分明，不像现在混到一起。</p>
+
+<p>只不过现在的问题是反过来，过去是特岗教师部分被拖欠，但在编教师相对稳定。</p>
+
+<p>而现在是特岗普遍遇到不同程度拖欠问题，在编教师的工资也开始部分或相当数量的被拖欠，拖欠问题已经延伸到了体制内。</p>
+
+<p>最奇怪的是，财政支出在各类项目上增速基本都不低，比如去年全国教育支出增速8.5%，跟地方政府总财政支出8.5%持平，全国卫生健康支出10%，高于地方财政支出，也高于全国财政支出的8.1%。</p>
+
+<p>但还是会不断出现环卫工人、医生护士与教师等跟编制有关人士的工资被拖欠（无论在编不在编的），具体可以看国务院第七次大督查关于欠薪拖欠工资的部分。</p>
+
+<p>这就让我感到非常非常困惑，财政支出年年告诉增长，但拖欠工资的问题却普遍化，从编制外内卷到编制内，而且是多种职业，甚至很多人反映，政府要靠贷款举债来发工资，目前这种情况主要发生在县一级，所以关注的人少。</p>
+
+<p>可越来越普遍，很难不让人担心，因为八九十年代和十年前，拖欠工资可以理解为制度的不健全，法律的不完整，政府机制的运作仍需改善，或者干脆是真的没钱资源缺乏。</p>
+
+<p>但现在财政支出高速增长，低于某个标准，就会出现拖欠工资问题（实际上我估计就算到了，也是有的，多寡而已），那到底问题出在哪，为什么是越来越严重？</p>
+
+<p>我稍微统计一下近期可在各网络社区搜到的拖欠地点：</p>
+
+<p>江西 赣州市南康区、婺源县</p>
+
+<p>河南 固始县、杞县、唐河县、许昌市</p>
+
+<p>河北 唐山迁安</p>
+
+<p>辽宁 抚顺市、岫岩县</p>
+
+<p>吉林 磐石市</p>
+
+<p>云南 砚山县、保山市隆阳区</p>
+
+<p>安徽 淮南市潘集区</p>
+
+<p>贵州 大方县</p>
+
+<p>新疆 伊宁县、尼勒克县、库尔勒市（上述图片提到，待证实）</p>
+
+<p>四川 古蔺县</p>
+
+<p>广东 深圳罗湖区（其实全市都有，不一一举例了）</p>
+
+<p>广西 桂平市、富川县</p>
+
+<p>甘肃 东乡县（据我所知甘南普遍有拖欠问题）</p>
+
+<p>重庆（直辖市） 重庆</p>
+
+<p>浙江 台州</p>
+
+<p>山东 诸城市</p>
+
+<p>陕西 西安</p>
+
+<p>统计到这基本上已经懒得统计了，还有很多个人诉苦但没有闹大的事情，到这里已经没有统计意义，基本可以确定拖欠和克扣是全国性普遍的情况，剥削特岗，对在编也克扣，比如找理由扣钱，尤其是绩效工资，甚至干脆不发。</p>
+
+<p>本身绩效就是抽水的工资结构改变，国务院说要将教师薪酬提高，我觉得不是很现实，因为绩效本身已经变成一种节约财政的“必要手段”了。</p>
+
+<p>教育体系我以前了解的没那么多，不过去了解以后，总体上给我的感觉，不止是医疗体系，而是整个制度设计，从政府系统开始从头到尾有一种不负责的态度，不断的在转嫁责任，但要拿更多的钱，要你支付更多的东西，而不给你对应的权力。</p>
+
+<p>这种设计逻辑，绩效工资里老师负责最多工作，但所得最少，并且很容易被克扣或拖延，类似的情况在医疗体系里也存在，比如医生，需要遵从医院到政府和党的决定，承担医闹与社会舆论谴责，但又要承担政府下达给医院到科室个人的医保额度指标。</p>
+
+<p>既没有第三方渠道，比如工会、立法来约束这种人为设计的恶政制度，也没有制度内有效的维权渠道，和稀泥的太多了，有人被拖半年工资，也没说不发，也没说什么时候发，就说快了，或者下个月，再等等，熟悉不熟悉？</p>
+
+<h3 id="1247-新疆乌鲁木齐县中梁小学教师工资水准-submitted-on-2020-12-21-1026350800">1247: <a href="https://old.reddit.com/r/China_irl/comments/kh81jb/新疆乌鲁木齐县中梁小学教师工资水准/">新疆乌鲁木齐县中梁小学教师工资水准</a>, submitted on 2020-12-21 10:26:35+08:00.</h3>
+
+<p>—– <strong>1247.1</strong> —–2020-12-21 11:53:08+08:00:</p>
+
+<p>绩效工资可能会被克扣或拖延，奖金和补贴也是，而且整体上比其他政府公务员是要低的，我看很多教师都抱怨，绩效应该是一个典型了，不少学习找各种借口从绩效工资上扣，而且这些挺多还是在编老师才有的待遇。</p>
+
+<p>没有在编的，比如特岗教师，连这些都没有，据说是只能啃底薪硬挺，微博我还看到有反应说扣五险一金，但迟迟没开户，相当于白扣了的事情被人抱怨。</p>
+
+<p>新疆教师应该是混得不好的两千多，还可以的四千多，我也看到有说五千的例子，不过拿两三千的怨气我看各大社区表现出来那是真的很大。</p>
+
+<p>而且有个问题是，绩效工资，底层教师干得多拿得少，中高层拿的多，甚至不怎么需要负责实际教务工作，刚入编的工资发放普遍会拖延（有人说年内肯定会结算，但我估计是能给你拖多久就拖多久，你只要上班没离职，就肯定有几个月是白干的，比如十月工资几个月后发，想按时准点发是有难度）。</p>
+
+<p>不过有的也干了几年了也会遇到这种问题，所以官方拖欠新入编教师是普遍现象，通过牺牲教师生活成本来让财政有更灵活的空。</p>
+
+<p>基本上在县一级的，大多数包括绩效工资在内，我看到的多数例子是两千三到三千三这个区域，快退休的算上教龄才可能到七八千的水准（而且这些例子应该不太可能都是县城的）</p>
+
+<p>现在其实就反应一个问题是，县城收入两千到到三千，其实不是很低（但压根没法说这高），但全国物价增速和消费需求颇大，两三千的生活水平很难有保障，现在生猪价格都33-34元一公斤，猪肉卖到市场动不动几十块一斤。</p>
+
+<p>总的来说，账面数字好看，但中间分配的逻辑和过程，是没法简单算出来的，因为还包括政府故意拖欠与不公开的找办法克扣（或者压力转移给学校与老师之间，也有的学校比较良心会替老师拿这笔钱，自己顶财政缺口，跟医疗系统政府把矛盾转嫁给医院、科室与医生个人之间让他们内斗一样）</p>
+
+<p>在一二线城市，对比收入而不考虑消费水平，两三千收入就算偏低的，甚至是很低的，如果加上生活成本这种消费水平变量，两三千能活，但生活质量得压到什么程度？所以很多人转私立，或者是干脆不做这行，年初疫情，深圳不让补课，就有补习学校都倒闭。</p>
+
+<p>到手三千块算多么？你们怎么看，说说看对现在全国实际工资与生活支出的看法，我挺好奇的。</p>
+
+<h3 id="1248-爱民如子秦始皇吞并六国是为了让六国百姓不用再忍饥挨饿-submitted-on-2020-12-21-1056040800">1248: <a href="https://old.reddit.com/r/China_irl/comments/kh8jdz/爱民如子秦始皇吞并六国是为了让六国百姓不用再忍饥挨饿/">爱民如子秦始皇：吞并六国是为了让六国百姓不用再忍饥挨饿。</a>, submitted on 2020-12-21 10:56:04+08:00.</h3>
+
+<p>—– <strong>1248.1</strong> —–2020-12-21 12:49:25+08:00:</p>
+
+<p>从灭六国到胡亥死只过了十四年左右，兼并战争过程期间，饥荒与人口减员，把过剩人口挤兑没了，土地数量相对充裕，只要有地耕种基本就能糊口，不过秦朝过多征发徭役，破坏生产秩序，也是问题起源。</p>
+
+<p>汉朝人对秦朝的看法是“ 灭文学，好武勇， 贱仁义之士，贵治狱之吏，正言谓之诽谤，谒过谓之妖言  ”，所以有效记录很难有的，而且时间太短了。</p>
+
+<p>更早一点的资料比如汉文帝时期，当时代人的看法是：“ 秦皇帝以千八百国之民自养，力罢不能胜其役，财尽不能胜其求。一君之身耳，所以自养者驰骋弋猎之娱，天下弗能供也。劳罢者不得休息，饥寒者不得衣食，亡罪而死刑者无所告诉，人与之为怨，家与之为雠，故天下坏也。秦皇帝身在之时，天下已坏矣，而弗自知也。 ”</p>
+
+<p>严格来说，秦始皇的行为后世一个典型就是杨广，方向好像对，但缺乏现实感，赚一千，花一万，并且压榨无节制。</p>
+
+<p>这些行为导致中央与平民严重脱节，政府的需求超过了平民的承受能力，这就给六国复出提供了兵源与社会基础，而且时间相差不远，六国贵族最后起兵，也确实推翻了秦朝。</p>
+
+<p>—– <strong>1248.2</strong> —–2020-12-22 04:17:00+08:00:</p>
+
+<p>秦始皇其实只是运气好，死在了民变发生以前，虽然他执政的确有比胡亥更好的优势，那就是赵高和李斯等人可以被相对稳定的控制，而胡亥就明显不能控制，为了权力清除宗室与李斯，导致中央政权失衡。</p>
+
+<p>但如果持续发生民变，或者说秦始皇的作风不改，大规模民变只是时间问题，考虑到胡亥执政时期非常短，秦末的问题相当于只是秦始皇制造麻烦的总爆发。</p>
+
+<p>如果嬴政任内爆发民变然后没压住死了，秦始皇历史口碑会比现在更差，当代也会认为他跟杨广一样，秦始皇死后一年就爆发了大泽乡起义，然后各国都开始复辟，我感觉秦始皇就是运气好早死了，他晚死一年口碑就会差更多。</p>
+
+<h3 id="1249-依照现有中国疆域你最喜欢哪里作为首都-submitted-on-2020-12-22-0341460800">1249: <a href="https://old.reddit.com/r/China_irl/comments/khojko/依照现有中国疆域你最喜欢哪里作为首都/">依照现有中国疆域，你最喜欢哪里作为首都</a>, submitted on 2020-12-22 03:41:46+08:00.</h3>
+
+<p>—– <strong>1249.1</strong> —–2020-12-22 12:05:46+08:00:</p>
+
+<p>首都说白了就是政府行政的中心，人口过大或有过密化的国家，基本上都会出现因为首都行政过于集中，在首都内部出现各种层面的内卷化（物价、房价、工作机会）。</p>
+
+<p>所以像东京这样的城市，就开始持续不断制造副都心，并且最近几年还把好几个政府职能分给其他城市圈，目的就是疏散首都的商业机构与工作机会到其他地方。</p>
+
+<p>现在就是北京太卷了，北京社畜都他妈快通勤到保定早上吃驴肉火烧，下班直接第二天早上听驴叫了。</p>
+
+<p>东京都二十三个区，二十六个市，加在一起四十九个，职能与治权分配的很散，北京好家伙，直接给弄了十六区，前几年还撤掉了两个县改区，虽然行政级都是县，但一直是越抓越集中。</p>
+
+<p>按照中国的经济发展分布还有人口规模，至少需要五个首都圈，一个法定首都在北京就行，长三角金融首都定在南京或苏州，分散上海的过密职能。</p>
+
+<p>中央政府搬到郑州许昌一带，华北平原一大片地，结果几个承担主要职能的城市偏偏还都是在沿海或土地稀缺的山边。</p>
+
+<p>广东在广州或深圳弄个科技与经济首都，广东和东莞之间一大片地没利用，深圳和广州就不应该颠倒，广州土地都应该是都心，深圳应该是副都心，就因为太靠近香港发展才不均衡。</p>
+
+<p>西安附近虽然山多，但附近扩充也是够的，作为一个首都圈可以容纳人口比北京多很多，宝鸡到三门峡，相当于北京到邢台邯郸一带所以。</p>
+
+<p>重庆不适合当首都圈，山地建设成本太高，又难以维护，不适合人口大量堆积，成都面对大平原到很适合。</p>
+
+<p>中国十几亿人的政府职能需求，如果堆积在两三个城市里，就必然会造成内卷，就应该分成至少五个首都圈，一个法定首都，一个金融首都，一个科技与经济首都，两个陪都圈，这几个基础上然后再拆一个中央政府首都圈最好。</p>
+
+<p>有必要的话，立法机构都给你拆出来单独弄到一个城市，十几亿人往死里扎堆很有意思么。</p>
+
+<h3 id="1250-为什么国内网上河北人总用上海黑北京吸血-submitted-on-2020-12-24-1442220800">1250: <a href="https://old.reddit.com/r/China_irl/comments/kjakbh/为什么国内网上河北人总用上海黑北京吸血/">为什么国内网上河北人总用上海黑北京吸血？</a>, submitted on 2020-12-24 14:42:22+08:00.</h3>
+
+<p>—– <strong>1250.1</strong> —–2020-12-25 18:12:22+08:00:</p>
+
+<p>地理因素造成的天然差距，以及人为制度设计的刻意吸血，其实很好分，也没深奥到产生认知偏差，感觉这个不用问为什么都应该明白吧。</p>
+
+<h3 id="1251-感觉墙内的舆论管控已经完全疯掉了-submitted-on-2020-12-24-2233540800">1251: <a href="https://old.reddit.com/r/China_irl/comments/kjgdlf/感觉墙内的舆论管控已经完全疯掉了/">感觉墙内的舆论管控已经完全疯掉了….</a>, submitted on 2020-12-24 22:33:54+08:00.</h3>
+
+<p>—– <strong>1251.1</strong> —–2020-12-25 18:09:05+08:00:</p>
+
+<p>习惯就好，生活嘛，就是逆来顺受，都不能去改变党国的管制体制与逻辑，也放弃了改变的可能，那就忍着呗，忍着忍着，就忍出感情和崇拜了，阻力在前演化不过去，就被驯化或淘汰了，自己这一代人一辈子都废了，也不怕，儿子一代没准可以出头盼到新中国，实在不行就孙辈，重孙辈。</p>
+
+<h3 id="1252-东欧剧变为何掀不起朝鲜半点波澜-朝鲜人民真的无力做出任何行动吗-submitted-on-2020-12-25-0933510800">1252: <a href="https://old.reddit.com/r/China_irl/comments/kjqsgr/东欧剧变为何掀不起朝鲜半点波澜_朝鲜人民真的无力做出任何行动吗/">东欧剧变为何掀不起朝鲜🇰🇵半点波澜？ 朝鲜人民真的无力做出任何行动吗？</a>, submitted on 2020-12-25 09:33:51+08:00.</h3>
+
+<p>—– <strong>1252.1</strong> —–2020-12-25 17:50:47+08:00:</p>
+
+<p>金正日在东欧剧变时，已经出来工作二十多年，相当于接班很久就等随时上位，主体思想确立时，毛泽东还没死，文革都没结束，朝鲜就敲定世袭的主义思路。</p>
+
+<p>金日成94年才死，手底下还有个接班近三十年的太子，君主世袭的思想已经推行了几十年，本身还不比东欧对外交流多，附近唯一接壤的国家一个是中国，一个是韩国，注定难以产生变革。</p>
+
+<p>越远离欧洲，对共产主义的演化越偏离，尤其是在东亚，本质上是农业社会的管治逻辑，披上了一层近似的政治口号，中国好歹认真的执行了一段时间，有不同方向的党内阶级存在，到毛泽东中后期虽然有那个意思，但也没能完全公开化世袭。</p>
+
+<p>朝鲜到五六十年代时，共产主义口号就开始异化，变成了主体思想和主体史学，就是民族主义与传统封建帝制的借用现代政治外皮的缝合怪，工业上，越落后，异化程度越大，因为社会生产基础与关系不改变，甚至没有理论能贴切到的现实基础。</p>
+
+<p>另外还有就是，朝鲜内部可能有一定冲击，但消息过于封闭，没传出来，特别大规模的不可能，否则肯定有消息，但小范围或只在体制内的冲击，也许是有，但金家没倒台记录不可能太多流出。</p>
+
+<h3 id="1253-作为亚洲男性网上约会经历摧毁了我的自信亚男例举亚洲人的优势抱怨女性不选择他-submitted-on-2020-12-26-1831310800">1253: <a href="https://old.reddit.com/r/China_irl/comments/kkgjxy/作为亚洲男性网上约会经历摧毁了我的自信亚男例举亚洲人的优势抱怨女性不选择他/">作为亚洲男性，网上约会经历摧毁了我的自信（亚男例举亚洲人的优势，抱怨女性不选择他）</a>, submitted on 2020-12-26 18:31:31+08:00.</h3>
+
+<p>—– <strong>1253.1</strong> —–2020-12-27 03:57:54+08:00:</p>
+
+<p>Tomboy很好，社会未来趋势都会往中性上靠。</p>
+
+<h3 id="1254-开箱英国皇家铸币厂---2020小熊维尼限定50便士-submitted-on-2020-12-27-1133000800">1254: <a href="https://old.reddit.com/r/China_irl/comments/kkwbnh/开箱英国皇家铸币厂_2020小熊维尼限定50便士/">［开箱］英国皇家铸币厂 - 2020小熊维尼限定50便士</a>, submitted on 2020-12-27 11:33:00+08:00.</h3>
+
+<p>—– <strong>1254.1</strong> —–2020-12-27 17:25:08+08:00:</p>
+
+<p>为什么这个版本的维尼没穿衣服？</p>
+
+<h3 id="1255-你喜欢哪个绰号别名-submitted-on-2020-12-27-1249300800">1255: <a href="https://old.reddit.com/r/China_irl/comments/kkxg1l/你喜欢哪个绰号别名/">你喜欢哪个绰号别名？</a>, submitted on 2020-12-27 12:49:30+08:00.</h3>
+
+<p>—– <strong>1255.1</strong> —–2020-12-27 17:23:22+08:00:</p>
+
+<p>“碾公”</p>
+
+<h3 id="1256-高房价是否作为维稳的有效手段-submitted-on-2020-12-27-1747190800">1256: <a href="https://old.reddit.com/r/China_irl/comments/kl12m2/高房价是否作为维稳的有效手段/">高房价是否作为维稳的有效手段？</a>, submitted on 2020-12-27 17:47:19+08:00.</h3>
+
+<p>—– <strong>1256.1</strong> —–2020-12-27 18:03:53+08:00:</p>
+
+<p>这种结论不客观，因为为了“供楼”而奔波，导致缺乏精力进行批评，这种现象是存在，但属于政策维稳的副产品而不是主要希望达成的目的。</p>
+
+<p>以香港为例，不敢推动土地与住屋改革，是因为特首执政基于基本法，选举委员会基于基本法，香港本地统战阶层持有大量土地，政府与既得利益者同盟之间的天然矛盾，就是既得利益者靠与中共合作维持大量土地与特权的持有，换取这群人对中共在香港的支持。</p>
+
+<p>继而出现选举委员会里中共可以直接控制特首选举，如果做土地改革，那这群既得利益者就倒戈去投别人，按道理是不能一口气否定特区与基本法的存在，那样等于掀棋盘。</p>
+
+<p>所以就不推动深入大规模的土地改革，回避特权阶级既得利益问题，造成高楼价，然后才是“为楼奔波”的非主观效果。</p>
+
+<p>不改革是存在立身之本，到最后就会变成彻底对立的矛盾关系，因为改革与变化，才是万物生存之道，不存在既不真正改革，还想永久稳定的好事。</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2021-01-10</time>
+        <a href="https://nodebe4.github.io/opinion/2021-01-10/Spinkcat/">
+          Spinkcat在2021-01-04~2021-01-10的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-01-02</time>
+        <a href="https://nodebe4.github.io/opinion/2021-01-02/Spinkcat/">
+          Spinkcat在2020-12-28~2021-01-03的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-12-18</time>
+        <a href="https://nodebe4.github.io/opinion/2020-12-18/Spinkcat/">
+          Spinkcat在2020-12-14~2020-12-20的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-12-13</time>
+        <a href="https://nodebe4.github.io/opinion/2020-12-13/Spinkcat/">
+          Spinkcat在2020-12-07~2020-12-13的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2020-12-26/612-%E9%87%8E%E5%BF%83%E6%99%82%E4%BB%A3-%E5%9C%A8%E6%96%B0%E4%B8%AD%E5%9C%8B%E8%BF%BD%E6%B1%82%E8%B2%A1%E5%AF%8C-%E7%9C%9F%E7%9B%B8%E5%92%8C%E4%BF%A1%E4%BB%B0-%E6%AD%90%E9%80%B8%E6%96%87/">
+            前一篇：612 野心時代：在新中國追求財富、真相和信仰|歐逸文
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2020-12-27/wangdan1989/">
+            後一篇：Twitter @王丹: 2020-12-21~2020-12-27
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2020-12-26/612-%E9%87%8E%E5%BF%83%E6%99%82%E4%BB%A3-%E5%9C%A8%E6%96%B0%E4%B8%AD%E5%9C%8B%E8%BF%BD%E6%B1%82%E8%B2%A1%E5%AF%8C-%E7%9C%9F%E7%9B%B8%E5%92%8C%E4%BF%A1%E4%BB%B0-%E6%AD%90%E9%80%B8%E6%96%87/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2020-12-27/wangdan1989/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2021-01-02/Spinkcat/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2020-12-18/Spinkcat/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2020-12-26/612-%E9%87%8E%E5%BF%83%E6%99%82%E4%BB%A3-%E5%9C%A8%E6%96%B0%E4%B8%AD%E5%9C%8B%E8%BF%BD%E6%B1%82%E8%B2%A1%E5%AF%8C-%E7%9C%9F%E7%9B%B8%E5%92%8C%E4%BF%A1%E4%BB%B0-%E6%AD%90%E9%80%B8%E6%96%87/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2020-12-27/wangdan1989/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2021-01-02/Spinkcat/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2020-12-18/Spinkcat/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

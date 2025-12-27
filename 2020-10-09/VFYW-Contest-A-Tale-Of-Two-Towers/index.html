@@ -1,0 +1,842 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>VFYW Contest: A Tale Of Two Towers – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+VFYW Contest: A Tale Of Two Towers
+——
+" />
+    <meta property="og:description" content="
+VFYW Contest: A Tale Of Two Towers
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="VFYW Contest: A Tale Of Two Towers" />
+    <meta property="twitter:title" content="VFYW Contest: A Tale Of Two Towers" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fandrewsullivan.substack.com%2Fp%2Fwindow-contest-252-a-tale-of-two" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://andrewsullivan.substack.com/p/window-contest-252-a-tale-of-two" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://andrewsullivan.substack.com/p/window-contest-252-a-tale-of-two&text=VFYW Contest: A Tale Of Two Towers&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://andrewsullivan.substack.com/p/window-contest-252-a-tale-of-two&title=VFYW Contest: A Tale Of Two Towers" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://andrewsullivan.substack.com/p/window-contest-252-a-tale-of-two&title=VFYW Contest: A Tale Of Two Towers" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=VFYW Contest: A Tale Of Two Towers&body=
+VFYW Contest: A Tale Of Two Towers
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://andrewsullivan.substack.com/p/window-contest-252-a-tale-of-two" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://andrewsullivan.substack.com/p/window-contest-252-a-tale-of-two&title=VFYW Contest: A Tale Of Two Towers&caption=
+VFYW Contest: A Tale Of Two Towers
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=VFYW Contest: A Tale Of Two Towers&url=https://andrewsullivan.substack.com/p/window-contest-252-a-tale-of-two" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>VFYW Contest: A Tale Of Two Towers</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2020-10-09
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Chris Bodenner</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#The Weekly Dish">
+          The Weekly Dish
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://andrewsullivan.substack.com/p/window-contest-252-a-tale-of-two" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="The Weekly Dish的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#The Weekly Dish 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1602261598000-->
+<p><a href="https://andrewsullivan.substack.com/p/window-contest-252-a-tale-of-two">VFYW Contest: A Tale Of Two Towers</a>
+——</p>
+
+<div>
+<a class="image-link image2 image2-820-1456" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0b0eb56-1ea8-4566-9a05-31892d55cf8e_2382x1342.png"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0b0eb56-1ea8-4566-9a05-31892d55cf8e_2382x1342.png" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e0b0eb56-1ea8-4566-9a05-31892d55cf8e_2382x1342.png&quot;,&quot;height&quot;:820,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:5148031,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null}" alt="" />      <style>          a.image2.image-link.image2-820-1456 {            padding-bottom: 56.31868131868132%;            padding-bottom: min(56.31868131868132%, 820px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-820-1456 img {            max-width: 1456px;            max-height: 820px;          }        </style>
+</a>  <p>A reader writes from West Orange, NJ:</p>
+  <blockquote>
+    <p>Please tell your <a href="https://andrewsullivan.substack.com/p/vfyw-contest-time-traveling-with">alienated reader</a> that he’s not alone in having a mundane view these days, or any day. I’m on parental leave with a 5-month old, and while that is quite rewarding, it means I’m stuck in the house most of the time, and have been watching the most recent views from barely contained envy!!!!</p>
+  </blockquote>
+  <p>I just found a somewhat mundane view from that West Orange reader in the email archives, a view from 2012 that was never posted — Brooklyn, New York, 9.30 pm:</p>
+<a class="image-link image2 image2-971-1456" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7d355196-be81-4837-819b-a83e3110f652_3888x2592.jpeg"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7d355196-be81-4837-819b-a83e3110f652_3888x2592.jpeg" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/7d355196-be81-4837-819b-a83e3110f652_3888x2592.jpeg&quot;,&quot;height&quot;:971,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:3008008,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null}" alt="" />      <style>          a.image2.image-link.image2-971-1456 {            padding-bottom: 66.68956043956044%;            padding-bottom: min(66.68956043956044%, 971px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-971-1456 img {            max-width: 1456px;            max-height: 971px;          }        </style>
+</a>  <p>On to this week’s results — and another mundane view:</p>
+  <blockquote>
+    <p>After <a href="https://andrewsullivan.substack.com/p/vfyw-contest-time-traveling-with">last week’s relatively straightforward contest in Bristol</a>, you’ve really cranked up the difficulty this week, Chris. The clue of a place that’s near where you grew up was not terribly helpful, seeing as your profile from the old Dish says you were a military brat who lived in 10 states and four countries before landing in Brooklyn.</p>
+    <p>So looking at the photo, the Lennox heat exchanger on the roof gives me North America, and the foliage and hills suggests either Appalachia or the Northeast. The building strikes me as a university or college, and the radio masts are probably for the student-run radio channel. Unfortunately, none of this sufficiently narrows down the search for me to find the place in a reasonable amount of time. So I’ll guess Scranton (there’s a military base nearby) and hope I’m within a state or two.</p>
+    <p>I do have a photo for a future contest, if you want to put up another challenging one. It’s attached, along with a photo of the structure it was taken from (the result of my summer project). Might tickle your nomadic nature.</p>
+<a class="image-link image2 image2-1092-1456" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4dc020b2-abcb-4763-bf46-10bb68f93764_4032x3024.png"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4dc020b2-abcb-4763-bf46-10bb68f93764_4032x3024.png" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/4dc020b2-abcb-4763-bf46-10bb68f93764_4032x3024.png&quot;,&quot;height&quot;:1092,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:17167342,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null}" alt="" />        <style>          a.image2.image-link.image2-1092-1456 {            padding-bottom: 75%;            padding-bottom: min(75%, 1092px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-1092-1456 img {            max-width: 1456px;            max-height: 1092px;          }        </style>
+</a>  </blockquote>
+  <p>I’ve only slept in a yurt once, during my first week at Burning Man, in 2016. Andrew and I were actually planning to go together (he first went in <a href="http://dish.andrewsullivan.com/2014/09/07/back-from-the-desert/">2014</a>), but a few days before we were supposed to fly to Nevada, he suddenly got an infected molar and then emergency surgery to yank it out. Not a great idea to fly into a remote desert with an open wound, so he had to cancel last minute and I was thrown into the weird wonderful world of <a href="http://dish.andrewsullivan.com/2013/05/01/big-ass-amazingly-awesome-homosexual-sheep/">BAAAHS</a> as one of the few token breeders. It was an incredible enough experience to repeat the following two years, and Andrew and I finally overlapped in 2018.</p>
+  <p>On to more important things, like limestone:</p>
+  <blockquote>
+    <p>I’ve looked at photos of hundreds of historic limestone buildings this week, none of them the one in the view. A very interesting and worthwhile diversion nonetheless. For example, I learned that in Texas every single county — all 254 of them — has a county court house. Most of them were from the late 19th century or early 20th, many are limestone and look similar to our building. Virtually all have ornate towers and/or domes as if they are mini state capitol buildings. And in general they’ve been remarkably well maintained.  </p>
+    <p>Instead of a civic building, I’m going to hypothesize we are at a hospital, possibly affiliated with a university. If you zoom in, you can see there are six bundles of cables and conduits that run up the side of the limestone building and in through the windows. I’ve seen this a lot at hospitals, since they hate to do construction for infrastructure when it disrupts multiple floors.</p>
+    <p>I still have no idea where we are. So back to your other initial clue that this location is “about as non-exotic as you can get.” Online polls suggest that Lubbock, Texas, is the most boring city in the US. But Lubbock doesn’t have rolling green hills. So I’m going to guess we are in Boring, Oregon, just to the east of Portland.</p>
+  </blockquote>
+  <p>As it happens, Portland is my permanent address these days, since I spend most of the year there, where my family lives, when I’m not Airstreaming. Another reader:</p>
+  <blockquote>
+    <p>So I found that you lived in 10 different states, 4 countries, and you went to WFU … so I asked a friend in Winston Salem about the campus there, and I got this back: “That’s on Wake Forest campus. Not sure which building. The parking deck and building you see there are off of Polo Road.” I searched all over the campus and everything I saw was red brick, so I headed to New Orleans — no idea why, just a feeling, then I got busy and ran out of time. So all I have this week is a building that looks somewhat like the one in the photo — it’s Gibson Hall Tulane University:</p>
+<a class="image-link image2 image2-762-1456" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F252250b7-7520-4156-8c5f-cd296b8021bc_1620x848.png"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F252250b7-7520-4156-8c5f-cd296b8021bc_1620x848.png" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/252250b7-7520-4156-8c5f-cd296b8021bc_1620x848.png&quot;,&quot;height&quot;:762,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:2966895,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null}" alt="" />        <style>          a.image2.image-link.image2-762-1456 {            padding-bottom: 52.33516483516484%;            padding-bottom: min(52.33516483516484%, 762px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-762-1456 img {            max-width: 1456px;            max-height: 762px;          }        </style>
+</a>    <p>The view is probably really in Illinois … once again, epic fail. Well, there’s always next week …</p>
+  </blockquote>
+  <p>Next reader:</p>
+  <blockquote>
+    <p>Hi there! I’m a past winner — <a href="http://dish.andrewsullivan.com/2013/04/02/the-view-from-your-window-contest-winner-147/">Tirana, Albania</a>, ca. 2013, which remains the absolute highlight of my career as a geography geek — so I’m presumably ineligible. Nonetheless, I couldn’t resist submitting, though I suspect you’ll have lots of correct answers this time around. [He proceeds to guess the right window. -<em> CB</em>] Were I a younger man, I’d spend more time looking for interior photos of the building, plotting out angles, etc., but I said to myself, “Enough. This is enough.”</p>
+    <p>If I may, I’m really torn about the hints you’re providing for the VFYWs. On one hand, I feel like it potentially makes the contest easier. On the other hand, for the <a href="https://andrewsullivan.substack.com/p/vfyw-contest-get-to-know-hope">Hope, AK photo</a> I spent hours searching for cabins southwest of Mount Rainier, convinced that the election hint was a reference to <a href="https://www.wta.org/go-hiking/hikes/van-trump-park">Van Trump Park</a>. After that experience, I very deliberately did NOT try to figure out where you grew up. So, on balance, maybe they don’t make that much of a difference.</p>
+  </blockquote>
+  <p>Another reader is also frustrated:</p>
+  <blockquote>
+    <p>The pickup in the parking garage suggests we are in the US. The mountains in the background give a Blue Ridge vibe. The bike racks and lighting suggest a college campus. Virginia Tech in Blacksburg? The buildings are clad in the famous <a href="https://vt.edu/about/traditions/hokie-stone.html">Hokie Stone</a>. My little brother went to VT and I visited him a few times, but I don’t think I walked by this parking structure. I suspect it is a fairly new structure that doesn’t appear on the satellite photos yet.</p>
+    <p>Gah. This one is really difficult.</p>
+  </blockquote>
+  <p>Another reader appreciates the challenge:</p>
+  <blockquote>
+    <p>This view immediately calls to mind images from my law school days at Vanderbilt. The stone building in the background may be the one that housed The Flying Saucer Draught Emporium — the sight of many infamous/epic “Bar Reviews” around the turn of the millennium. The foreground may be the parking deck for what (at least then) was the <em>Tennessean</em> newspaper? I may be on the wrong continent, but I appreciate the trigger of fond memories from less turbulent and oddly less stressful times.</p>
+  </blockquote>
+  <p>That reader is on the right track — or, as another reader puts it, “As an academic, I knew right away the photo was from a university, but which?” Other readers have variously guessed: “my alma mater Boston College”; “University of Chicago Hospital”; “Baylor College of Medicine”; “reminds me of my trip to UVA”; “looks like a parking deck located on Wash U’s campus”; “looks like a parking deck within the Duke University campus”; “Cornell”; and “sure looks like the back of Snow Hall on the University of Kansas campus in Lawrence.”</p>
+  <p>KU is the closest guess yet. It’s actually the closest college I lived near, when I spent the first half of high school just outside Lawrence in the small town of Tonganoxie (and before that, three years of elementary school in nearby Leavenworth, where my dad retired from the Army fort there … only one reader picked up on that Leavenworth connection, discovering a <a href="https://www.theatlantic.com/daily-dish/archive/2009/08/hand-over-the-heartland/197657/">handful</a> of <a href="https://www.theatlantic.com/daily-dish/archive/2009/08/gitmo-grandstanding/197726/">Dish posts</a> from <a href="https://www.theatlantic.com/daily-dish/archive/2009/09/fisking-newmajority/196894/">2009</a> when I guest-blogged on the Dish about the potential transfer of Gitmo detainees — first to Ft. Leavenworth, then to Standish, Michigan, where I reported out a <a href="https://newrepublic.com/article/70459/last-standish">piece</a> for <em>The New Republic</em>.)</p>
+  <p>The VFYW contest poet sings an ode to Kansas:</p>
+  <blockquote>
+    <p>I floated to <a href="https://andrewsullivan.substack.com/p/vfyw-contest-time-traveling-with">Clifton</a>,<br />An address I stated,<br />OFF by a street!<br />My ego deflated.</p>
+    <p>But now fate hands us,<br />(Like Dorothy on the roam,)<br />A landing in Kansas,<br />There’s NO place like home!</p>
+  </blockquote>
+  <p>Another differs:</p>
+  <blockquote>
+    <p>I have nothing interesting to say about Kansas — I’ve heard some people report there is nothing interesting to say about Kansas. I’ve done little more than wave at it while passing through on I-70 on a couple of cross-country trips, so I guess I’ll stand back and stand by; I hope some readers will tell us something intriguing. </p>
+  </blockquote>
+  <p>I-70 doesn’t run through the city where our window is located: <strong>Manhattan, KS, specifically at Kansas State University</strong>. One of many readers who guessed the right university:</p>
+  <blockquote>
+    <p>K-State is a good school with a nice campus in the middle of the vast prairie land of Kansas’ Flint Hills.  I *almost* went to K-State out of high school, but opted for the more liberal University of Kansas (KU) because of receiving just a tiny bit more scholarship money. At 18, I was a closeted gay Catholic kid who figured he’d end up a priest. Had I chosen the more conservative K-State, I wonder how far I would have progressed down that path, rather than being exposed to a more diverse and liberal student body at KU that got me out of the closet at age 22 — I realized the priesthood probably wasn’t the path for me. Now I’m a gay stay-at-home dad in the San Francisco Bay Area!</p>
+  </blockquote>
+  <p>An excited reader points to the right window at K-State:</p>
+  <blockquote>
+    <p>Holy shit! I can’t believe it. It’s a VFYW entry that I recognize instantly!</p>
+    <p>Well, OK, not completely true. At first I thought it was in Lawrence, the home of my alma mater: the University of Kansas. The Kansas limestone is unmistakeable, though I wasn’t sure which particular building it might be. I quickly realized it was not KU, but in fact our in-state rival, Kansas State University. The view is from the K-State Union, looking to the southeast toward Calvin Hall. The window is highlighted by my arrow:</p>
+<a class="image-link image2 image2-488-828" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F372e98c6-25db-4eb8-9c43-385b772217ae_828x488.jpeg"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F372e98c6-25db-4eb8-9c43-385b772217ae_828x488.jpeg" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/372e98c6-25db-4eb8-9c43-385b772217ae_828x488.jpeg&quot;,&quot;height&quot;:488,&quot;width&quot;:828,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:56380,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null}" alt="" />        <style>          a.image2.image-link.image2-488-828 {            padding-bottom: 58.93719806763285%;            padding-bottom: min(58.93719806763285%, 488px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-488-828 img {            max-width: 828px;            max-height: 488px;          }        </style>
+</a>    <p>Yes, I finally get to do one of these little VFYW drawings highlighting the window!</p>
+    <p>Fun fact: the limestone used here, native to this part of Kansas, is the the reason for KU’s legendary “Rock Chalk Jayhawk” chant … much to the chagrin of any K-State readers. The “Rock Chalk” is all about the chalky limestone found in this part of the world. All that said, both campuses are beautiful and uniquely obvious to people familiar with them.</p>
+  </blockquote>
+  <p>Another reader takes us inside the <a href="https://en.wikipedia.org/wiki/K-State_Student_Union">student union</a>:</p>
+<a class="image-link image2 image2-1759-1402" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F72c904bd-9105-4076-bc43-33d584ca1f32_1402x1759.jpeg"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F72c904bd-9105-4076-bc43-33d584ca1f32_1402x1759.jpeg" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/72c904bd-9105-4076-bc43-33d584ca1f32_1402x1759.jpeg&quot;,&quot;height&quot;:1759,&quot;width&quot;:1402,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:212833,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null}" alt="" />      <style>          a.image2.image-link.image2-1759-1402 {            padding-bottom: 125.46362339514978%;            padding-bottom: min(125.46362339514978%, 1759px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-1759-1402 img {            max-width: 1402px;            max-height: 1759px;          }        </style>
+</a>  <p>About two dozen readers correctly guessed the student union. One of them notes that the building was “<a href="https://www.k-state.edu/yourunion/">renovated in 2015 for a cool $31 million</a>!” Another talks it up:</p>
+  <blockquote>
+    <p>While not exactly <a href="https://www.theworlds50best.com/the-list/21-30/Cosme.html">Cosme</a>, the union has multiple restaurants, art galleries, hosts movie nights, arcade games, billiards, and has a freaking bowling alley. I’d have killed for a student union building with a bowling alley. </p>
+  </blockquote>
+  <p>“There was a disc golf course that went right by the satellite towers,” another reader notes. Another gets all the angles:</p>
+<a class="image-link image2 image2-720-1280" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F68c54093-8f8c-413b-8db6-ee4e047cc917_1280x720.jpeg"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F68c54093-8f8c-413b-8db6-ee4e047cc917_1280x720.jpeg" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/68c54093-8f8c-413b-8db6-ee4e047cc917_1280x720.jpeg&quot;,&quot;height&quot;:720,&quot;width&quot;:1280,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:278419,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null}" alt="" />      <style>          a.image2.image-link.image2-720-1280 {            padding-bottom: 56.25%;            padding-bottom: min(56.25%, 720px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-720-1280 img {            max-width: 1280px;            max-height: 720px;          }        </style>
+</a>  <p>This reader glances down memory lane:</p>
+  <blockquote>
+    <p>I knew this view from my three years studying there in the late ‘90s — which included a year on student government where we would meet weekly in the Big 12 Room, right near this window. (The student body president at that time, Tracey Mann, is now running for the US House of Representatives here in western Kansas.)</p>
+    <p>Finally — I feel like I know something when it comes to VFYW. Even if I am not specific enough, I will sit here quietly smug about this win in my mind.</p>
+  </blockquote>
+  <p>This husband-wife team is a little smug about the geology of Kansas:</p>
+  <blockquote>
+    <p>One of us is a Kansas native who has multiple family members who are Wildcats, so we have been there many times. You say “non-exotic,” but the Flint Hills of Kansas are truly beautiful and a bit of a hidden gem. </p>
+    <p>Thanks for running this contest. In a year with not much to look forward to, at least we know Friday nights will be an adventure searching the globe.</p>
+  </blockquote>
+  <p>Chini, the grand-champion emeritus, provides a view above the Kansas plains:</p>
+  <blockquote>
+<a class="image-link image2 image2-1044-1456" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F42a749ec-1f30-49a9-b271-9d0582d41e8c_1710x1226.jpeg"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F42a749ec-1f30-49a9-b271-9d0582d41e8c_1710x1226.jpeg" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/42a749ec-1f30-49a9-b271-9d0582d41e8c_1710x1226.jpeg&quot;,&quot;height&quot;:1044,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:2792588,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null}" alt="" />        <style>          a.image2.image-link.image2-1044-1456 {            padding-bottom: 71.7032967032967%;            padding-bottom: min(71.7032967032967%, 1044px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-1044-1456 img {            max-width: 1456px;            max-height: 1044px;          }        </style>
+</a>    <p>Each contest has a dominant element that needs to be researched; botany, geology, etc. This one, as is often the case with domestic views, came down almost entirely to architecture. And that made it quite easy to find … you see back in college, I spent four years living in<a href="https://wrmc.middlebury.edu/"> my school’s indie radio station</a>. So when I saw those radio towers and got those campus vibes, I knew exactly what to look for.</p>
+  </blockquote>
+  <p>Another reader looks for something to add:</p>
+  <blockquote>
+    <p>While I have no personal connection to KSU, an ex-girlfriend of mine once dated a man who grew up in this middle-America Manhattan and went on to have a flourishing career in Manhattan, NYC. She would sometimes accompany him as he shuttled between the two Manhattans.</p>
+  </blockquote>
+  <p>The Midwest Manhattan is very close to the <a href="https://en.wikipedia.org/wiki/Geographic_center_of_the_contiguous_United_States">dead center of the country</a>. This reader spent a lot of time there:</p>
+  <blockquote>
+    <p>I worked at K-State for nine years and have many fond memories! One of them was during the period that the football team finally became competitive under Bill Snyder, and the town turned purple every home football weekend. You couldn’t go anywhere on game day without seeing a sea of purple wherever you went. For about three years I lived fairly close to the K-State football stadium. The team had not beaten Nebraska in decades, and the night that K-State finally did, I could hear the crowd noise inside my house — about a half a mile away with all the windows shut (it was November and it was terribly cold that night!).</p>
+    <p>The people in Manhattan are truly nice, down-to-earth Midwesterners. I very much enjoyed my time there, and still get back to visit when I can.</p>
+  </blockquote>
+  <p>A Midwesterner writes:</p>
+  <blockquote>
+<a class="image-link image2 image2-411-568" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F26bceed1-7f64-417b-832d-52b2c4cb7d4d_568x411.png"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F26bceed1-7f64-417b-832d-52b2c4cb7d4d_568x411.png" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/26bceed1-7f64-417b-832d-52b2c4cb7d4d_568x411.png&quot;,&quot;height&quot;:411,&quot;width&quot;:568,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:290294,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null}" alt="" />        <style>          a.image2.image-link.image2-411-568 {            padding-bottom: 72.35915492957746%;            padding-bottom: min(72.35915492957746%, 411px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-411-568 img {            max-width: 568px;            max-height: 411px;          }        </style>
+</a>    <p>As a Missourian, we aren’t allowed to say nice things about Kansas, so the best I can do in terms of fun trivia is to tell you that K-State’s unofficial mascot in the early 1900s was a black lab named Boscoe, which almost single-handedly redeems the state. By all accounts, he was a very good boy who deserved all the belly rubs in the world.</p>
+  </blockquote>
+  <p>Boscoe is the true winner this week, but who gets the prize of the <a href="https://www.blurb.com/b/955762-the-view-from-your-window">window book</a>? Two dozen readers got the right window at K-State, but only one of them has submitted entries to almost four dozen contests without yet winning. The now-winner writes:</p>
+  <blockquote>
+    <p>This view was taken from the K-State student union building on the Kansas State campus, looking southwest over Calvin Hall toward the KSAC radio towers. The search turned out to be easier than I originally thought because those towers are apparently <a href="https://cityofmhk.com/DocumentCenter/View/1055/KSAC-Radio-Towers-Kansas-State-University">historical landmarks</a> that are almost 100 years old!</p>
+  </blockquote>
+  <p>The reader who submitted the window photo, back in May 2014, has a personal connection to those historical towers:</p>
+  <blockquote>
+    <p>They are what remain from one of the nation’s first radio transmitters. Originally signed on as station 9YV, the radio station KSAC began regular operations on December 1, 1924. I’ve been told that one or more big, horizontal wires/cables were suspended between those two towers, and that was the original broadcast antenna for the radio station. The signal stretched hundreds of miles in every direction. (<a href="http://www.route56.com/radio/mid/kksu.html">Here’s</a> some <a href="http://web.archive.org/web/20070208223541/http://www.oznet.ksu.edu/kksu/history.htm">more</a> history about the station.) I was hired by the university in 1995 as a program producer for KKSU-AM and remained in that position until the university shut the station down, after 78 years on the air, in 2002.</p>
+  </blockquote>
+  <p>After I emailed him last week’s edition of TWD that contained his photo, he replied:</p>
+  <blockquote>
+    <p>I followed your link to the weekly contest and noted that it’s published on Fridays. So if my photo is publishing on Friday, October 9th, that means ...</p>
+    <p>1) John Lennon’s 80th birthday </p>
+    <p>2) My 55th birthday </p>
+  </blockquote>
+  <p>Happy Birthday! But that coincidence is bittersweet:</p>
+  <blockquote>
+    <p>As many of your readers know, COVID is hitting higher education **hard** ... especially state universities. K-State is cutting positions left and right, including yours truly — my last day will be near the end of the current fiscal year. Sometime during the first half of next year, I will be moving home to Texas, and hopefully finding a job in San Antonio. LOTS of changes on the horizon — and slowly but surely, there are positive things popping up, and little surprises here and there. Your email today was a great little surprise!</p>
+  </blockquote>
+  <p>It’s a long shot, but worth asking: If you happen to have a good lead or general advice on academic jobs in the San Antonio area, or any comparable jobs, please send me an email and I’ll forward it along to our birthday reader.</p>
+  <div>
+    <hr />
+  </div>
+  <p>This week: <strong>Manhattan, Kansas</strong>. Next week:</p>
+<a class="image-link image2 image2-1075-1456" target="_blank" href="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd75718da-9c14-48e0-8467-4ae81c10bf87_1775x1310.png"><img src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd75718da-9c14-48e0-8467-4ae81c10bf87_1775x1310.png" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/d75718da-9c14-48e0-8467-4ae81c10bf87_1775x1310.png&quot;,&quot;height&quot;:1075,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:3967413,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null}" alt="" />      <style>          a.image2.image-link.image2-1075-1456 {            padding-bottom: 73.83241758241759%;            padding-bottom: min(73.83241758241759%, 1075px);            width: 100%;            height: 0;          }          a.image2.image-link.image2-1075-1456 img {            max-width: 1456px;            max-height: 1075px;          }        </style>
+</a>  <p>So where is it? (Bonus points for guessing the year the photo was taken.) Email your entry to <strong>contest@andrewsullivan.com</strong>. Please put the location — city and/or state first, then country — in the subject heading, along with any specific details, fun facts, or personal stories within the body of the email. The winner gets the choice of a <a href="https://www.blurb.com/b/955762-the-view-from-your-window">VFYW book</a> or two <a href="https://andrewsullivan.substack.com/subscribe?&amp;gift=true">gift subscriptions</a>. Happy sleuthing!</p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#The Weekly Dish 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2021-02-05/VFYW-Contest-Timeless-In-Tuscany/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2020-07-04/Stories-Of-Wokeness/">最早</a>--</span>
+    
+      <li>
+        <time>2020-10-16</time>
+        <a href="https://nodebe4.github.io/opinion/2020-10-16/VFYW-Contest-The-Set-Of-The-Next-BearCity/">
+          VFYW Contest: The Set Of The Next BearCity?
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-10-09</time>
+        <a href="https://nodebe4.github.io/opinion/2020-10-09/Dreaming-Of-A-Landslide/">
+          Dreaming Of A Landslide
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-10-02</time>
+        <a href="https://nodebe4.github.io/opinion/2020-10-02/VFYW-Contest-Time-Traveling-With-Hot-Air-Balloons/">
+          VFYW Contest: Time Traveling With Hot Air Balloons
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-10-02</time>
+        <a href="https://nodebe4.github.io/opinion/2020-10-02/Reality-Ends-The-Reality-Show/">
+          Reality Ends The Reality Show
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2020-10-09/jenjpan/">
+            前一篇：Twitter @Jennifer Pan: 2020-10-05~2020-10-11
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2020-10-09/Dreaming-Of-A-Landslide/">
+            後一篇：Dreaming Of A Landslide
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2020-10-09/jenjpan/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2020-10-09/Dreaming-Of-A-Landslide/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2020-10-09/Dreaming-Of-A-Landslide/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2020-10-02/VFYW-Contest-Time-Traveling-With-Hot-Air-Balloons/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2020-10-09/jenjpan/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2020-10-09/Dreaming-Of-A-Landslide/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<The Weekly Dish>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2020-10-09/Dreaming-Of-A-Landslide/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<The Weekly Dish>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2020-10-02/VFYW-Contest-Time-Traveling-With-Hot-Air-Balloons/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

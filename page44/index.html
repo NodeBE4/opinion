@@ -1,0 +1,2207 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="從草根到大師 git.io/JJCxS">
+    <meta property="og:description" content="從草根到大師 git.io/JJCxS" />
+    
+    <meta name="author" content="觀點" />
+
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fnodebe4.github.io%2Fopinion%2Fpage44%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://nodebe4.github.io/opinion/page44/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://nodebe4.github.io/opinion/page44/&text=觀點-從草根到大師 git.io/JJCxS&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://nodebe4.github.io/opinion/page44/&title=觀點-從草根到大師 git.io/JJCxS" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://nodebe4.github.io/opinion/page44/&title=觀點-從草根到大師 git.io/JJCxS" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=觀點-從草根到大師 git.io/JJCxS&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://nodebe4.github.io/opinion/page44/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://nodebe4.github.io/opinion/page44/&title=觀點-從草根到大師 git.io/JJCxS&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=觀點-從草根到大師 git.io/JJCxS&url=https://nodebe4.github.io/opinion/page44/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+<ul class="archive">
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-25/%E9%99%B6%E8%88%87%E6%88%B2-%E5%BE%9E%E5%89%8D-%E6%9C%89%E5%80%8B%E8%8D%B7%E9%87%8C%E6%B4%BB-%E5%B7%A6%E8%86%A0%E5%BF%85%E7%9C%8B/">
+      
+        【陶與戲】從前，有個荷里活：左膠必看？
+      </a>
+      <time>2022-05-25</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: Cup 媒體 Cup Media</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#Cup媒體" class="tag">
+        Cup媒體
+      </a>
+      
+
+      
+      <a href="https://www.youtube.com/watch?v=IH31MoUvlCE" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-25/%E9%BD%90%E6%B3%BD%E5%85%8B-%E6%88%91%E4%BB%AC%E5%BF%85%E9%A1%BB%E5%81%9C%E6%AD%A2%E6%94%BE%E4%BB%BB%E4%BF%84%E7%BD%97%E6%96%AF%E5%AE%9A%E4%B9%89%E4%B9%8C%E5%85%8B%E5%85%B0%E5%8D%B1%E6%9C%BA%E7%9A%84%E6%9D%A1%E6%AC%BE%E4%BA%86/">
+      
+        齐泽克：我们必须停止放任俄罗斯定义乌克兰危机的条款了
+      </a>
+      <time>2022-05-25</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 王立秋</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#Matters" class="tag">
+        Matters
+      </a>
+      
+
+      
+      <a href="https://matters.news/@levisliqiuwang/%E9%BD%90%E6%B3%BD%E5%85%8B-%E6%88%91%E4%BB%AC%E5%BF%85%E9%A1%BB%E5%81%9C%E6%AD%A2%E6%94%BE%E4%BB%BB%E4%BF%84%E7%BD%97%E6%96%AF%E5%AE%9A%E4%B9%89%E4%B9%8C%E5%85%8B%E5%85%B0%E5%8D%B1%E6%9C%BA%E7%9A%84%E6%9D%A1%E6%AC%BE%E4%BA%86-bafyreicoj6ormxaodsredljwbmgsuaiep2mkto5gqpbrxgnyusqt5lfw7e" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-24/%E9%9A%A8%E7%9D%80%E6%94%BF%E6%AC%8A%E5%8D%B1%E6%A9%9F%E5%8A%A0%E6%B7%B1-%E7%BF%92%E8%BF%91%E5%B9%B3%E5%A0%85%E6%8C%81%E6%B8%85%E6%B4%97%E6%94%BF%E6%B3%95%E5%92%8C%E9%87%91%E8%9E%8D%E7%B3%BB%E7%B5%B1-%E4%B8%AD%E5%85%B1%E5%B0%88%E5%88%B6%E5%92%8C%E6%94%BF%E7%AD%96%E4%BD%BF%E4%B8%AD%E5%9C%8B%E7%B3%A7%E9%A3%9F%E5%8D%B1%E6%A9%9F%E6%83%A1%E5%8C%96/">
+      
+        隨着政權危機加深，習近平堅持清洗政法和金融系統；中共專制和政策使中國糧食危機惡化
+      </a>
+      <time>2022-05-24</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#透視中國" class="tag">
+        透視中國
+      </a>
+      
+
+      
+      <a href="https://tw.sinoinsider.com/2022/05/%e9%9a%a8%e7%9d%80%e6%94%bf%e6%ac%8a%e5%8d%b1%e6%a9%9f%e5%8a%a0%e6%b7%b1%ef%bc%8c%e7%bf%92%e8%bf%91%e5%b9%b3%e5%a0%85%e6%8c%81%e6%b8%85%e6%b4%97%e6%94%bf%e6%b3%95%e5%92%8c%e9%87%91%e8%9e%8d%e7%b3%bb/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-24/https-www.barrons.com-news-in-xi-s-big-year-political-price-of-china-s-pandemic-policy-climbs-01653100806/">
+      
+        https:--www.barrons.com-news-in-xi-s-big-year-political-price-of-china-s-pandemic-policy-climbs-01653100806
+      </a>
+      <time>2022-05-24</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#透視中國" class="tag">
+        透視中國
+      </a>
+      
+
+      
+      <a href="https://tw.sinoinsider.com/2022/05/https-www-barrons-com-news-in-xi-s-big-year-political-price-of-china-s-pandemic-policy-climbs-01653100806/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-24/jenjpan/">
+      
+        Twitter @Jennifer Pan: 2022-05-23~2022-05-29
+      </a>
+      <time>2022-05-24</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: jenjpan</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#Twitter" class="tag">
+        Twitter
+      </a>
+      
+
+      
+      <a href="https://twitter.com/jenjpan/status/1528915927923773440" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-23/%E8%BF%9E%E6%9B%A6%E6%95%99%E6%8E%88-%E4%B8%8A-%E6%9E%97%E6%98%AD%E4%B8%8D%E6%98%AF%E5%9C%A3%E5%A5%B3-%E4%BD%86%E5%BE%88%E4%BC%9F%E5%A4%A7-%E8%A7%82%E7%82%B9/">
+      
+        连曦教授（上）:   林昭不是圣女 但很伟大 | 观点
+      </a>
+      <time>2022-05-23</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 自由亚洲电台</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#RFA" class="tag">
+        RFA
+      </a>
+      
+
+      
+      <a href="https://www.youtube.com/watch?v=rX8NayDucAs" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-23/719-%E8%AE%A9%E5%91%BD%E5%AE%9A%E7%9A%84%E4%BA%8B%E4%BB%B6%E9%A1%BA%E5%88%A9%E7%A9%BF%E8%B6%8A%E8%87%AA%E5%B7%B1-%E9%87%8E%E5%85%BD%E7%88%B1%E6%99%BA%E6%85%A7/">
+      
+        719 让命定的事件顺利穿越自己|野兽爱智慧
+      </a>
+      <time>2022-05-23</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 野兽爱智慧</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#Matters" class="tag">
+        Matters
+      </a>
+      
+
+      
+      <a href="https://matters.news/@philosophia1979/719-%E8%AE%A9%E5%91%BD%E5%AE%9A%E7%9A%84%E4%BA%8B%E4%BB%B6%E9%A1%BA%E5%88%A9%E7%A9%BF%E8%B6%8A%E8%87%AA%E5%B7%B1-%E9%87%8E%E5%85%BD%E7%88%B1%E6%99%BA%E6%85%A7-bafyreibvexaklyjlnpwn7k2qhqymelazn2mpjtdynv5yormmoxo2yk2bqi" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-23/Warner-Bros.-Discovery/">
+      
+        Warner Bros. Discovery
+      </a>
+      <time>2022-05-23</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: Ben Thompson</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#Stratechery" class="tag">
+        Stratechery
+      </a>
+      
+
+      
+      <a href="https://stratechery.com/2022/warner-bros-discovery/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-22/%E8%A7%A3%E8%AE%80-%E7%BF%92%E6%9D%8E%E9%AC%A5-%E7%9A%84%E6%94%BF%E6%B2%BB%E5%82%B3%E8%A8%80/">
+      
+        解讀「習李鬥」的政治傳言
+      </a>
+      <time>2022-05-22</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#透視中國" class="tag">
+        透視中國
+      </a>
+      
+
+      
+      <a href="https://tw.sinoinsider.com/2022/05/%e8%a7%a3%e8%ae%80%e3%80%8c%e7%bf%92%e6%9d%8e%e9%ac%a5%e3%80%8d%e7%9a%84%e6%94%bf%e6%b2%bb%e5%82%b3%e8%a8%80/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-22/%E7%BF%92%E8%BF%91%E5%B9%B3%E5%9C%A8%E4%B8%AD%E5%85%B1%E9%87%8D%E8%A6%81%E6%9C%83%E8%AD%B0%E5%89%8D%E5%8A%A0%E5%BC%B7%E6%8E%A7%E5%88%B6%E9%9B%A2%E9%80%80%E4%BC%91%E5%B9%B9%E9%83%A8-%E6%85%98%E4%B8%8D%E5%BF%8D%E7%9D%B9%E7%9A%844%E6%9C%88%E7%B6%93%E6%BF%9F%E6%95%B8%E6%93%9A%E4%BB%A4%E4%B8%AD%E5%85%B1%E6%80%A5%E4%BA%8E%E5%B0%8B%E6%B1%82%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%A1%88/">
+      
+        習近平在中共重要會議前加強控制離退休幹部；慘不忍睹的4月經濟數據令中共急于尋求解決方案
+      </a>
+      <time>2022-05-22</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#透視中國" class="tag">
+        透視中國
+      </a>
+      
+
+      
+      <a href="https://tw.sinoinsider.com/2022/05/%e7%bf%92%e8%bf%91%e5%b9%b3%e5%9c%a8%e4%b8%ad%e5%85%b1%e9%87%8d%e8%a6%81%e6%9c%83%e8%ad%b0%e5%89%8d%e5%8a%a0%e5%bc%b7%e6%8e%a7%e5%88%b6%e9%9b%a2%e9%80%80%e4%bc%91%e5%b9%b9%e9%83%a8%ef%bc%9b%e6%85%98/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-22/wangdan1989/">
+      
+        Twitter @王丹: 2022-05-16~2022-05-22
+      </a>
+      <time>2022-05-22</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: wangdan1989</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#Twitter" class="tag">
+        Twitter
+      </a>
+      
+
+      
+      <a href="https://twitter.com/wangdan1989/status/1525994155507437570" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-22/realcaixia/">
+      
+        Twitter @蔡霞: 2022-05-16~2022-05-22
+      </a>
+      <time>2022-05-22</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: realcaixia</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#Twitter" class="tag">
+        Twitter
+      </a>
+      
+
+      
+      <a href="https://twitter.com/realcaixia/status/1525877328219209728" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-22/cnmediaproject/">
+      
+        Twitter @China Media Project: 2022-05-16~2022-05-22
+      </a>
+      <time>2022-05-22</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: cnmediaproject</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#Twitter" class="tag">
+        Twitter
+      </a>
+      
+
+      
+      <a href="https://twitter.com/cnmediaproject/status/1526055976297984001" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-22/Spinkcat/">
+      
+        Spinkcat在2022-05-16~2022-05-22的言论
+      </a>
+      <time>2022-05-22</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+          <span>
+              <!-- Personal Info. -->
+              <a href="https://www.reddit.com/user/Spinkcat/"  style="font-size:14px;">作者: Spinkcat</a>
+          </span>
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#Reddit" class="tag">
+        Reddit
+      </a>
+      
+
+      
+      <a href="https://old.reddit.com/r/China_irl/comments/uqwg5k/1989年胡耀邦去世追悼会青年学生演讲精神面貌比现在大学生强多了视频令我感动/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-22/HeQinglian/">
+      
+        Twitter @He Qinglian: 2022-05-16~2022-05-22
+      </a>
+      <time>2022-05-22</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: HeQinglian</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#Twitter" class="tag">
+        Twitter
+      </a>
+      
+
+      
+      <a href="https://twitter.com/HeQinglian/status/1526197945447731201" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-22/EnclavedMicrostate/">
+      
+        EnclavedMicrostate在2022-05-16~2022-05-22的言论
+      </a>
+      <time>2022-05-22</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: EnclavedMicrostate</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#Reddit" class="tag">
+        Reddit
+      </a>
+      
+
+      
+      <a href="https://old.reddit.com/r/AskHistorians/comments/uqplag/i_have_heard_many_times_how_indians_say_that/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-21/%E5%85%B3%E4%BA%8E%E4%BF%84%E4%B9%8C%E6%88%98%E4%BA%89-%E8%87%B4%E8%AF%BA%E5%A7%86-%E4%B9%94%E5%A7%86%E6%96%AF%E5%9F%BA-%E5%92%8C%E5%85%B6%E4%BB%96%E6%8C%81%E7%B1%BB%E4%BC%BC%E8%A7%82%E7%82%B9%E7%9A%84%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90-%E7%9A%84%E5%85%AC%E5%BC%80%E4%BF%A1/">
+      
+        关于俄乌战争，致诺姆·乔姆斯基（和其他持类似观点的知识分子）的公开信
+      </a>
+      <time>2022-05-21</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 王立秋</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#Matters" class="tag">
+        Matters
+      </a>
+      
+
+      
+      <a href="https://matters.news/@levisliqiuwang/%E5%85%B3%E4%BA%8E%E4%BF%84%E4%B9%8C%E6%88%98%E4%BA%89-%E8%87%B4%E8%AF%BA%E5%A7%86-%E4%B9%94%E5%A7%86%E6%96%AF%E5%9F%BA-%E5%92%8C%E5%85%B6%E4%BB%96%E6%8C%81%E7%B1%BB%E4%BC%BC%E8%A7%82%E7%82%B9%E7%9A%84%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90-%E7%9A%84%E5%85%AC%E5%BC%80%E4%BF%A1-bafyreicc26vpyghi4l2jezuxhtfti4pdh76knbdefhbkz5a5kiriwk4giq" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-21/SpeechFreedomCN/">
+      
+        Twitter @中国文字狱事件盘点: 2022-05-16~2022-05-22
+      </a>
+      <time>2022-05-21</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: SpeechFreedomCN</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#Twitter" class="tag">
+        Twitter
+      </a>
+      
+
+      
+      <a href="https://twitter.com/SpeechFreedomCN/status/1526414203694850048" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-20/%E6%AD%8C%E8%8E%89%E4%BA%9E%E7%9A%84%E5%A5%BD%E5%A5%87%E4%B8%AD%E5%B3%B6-38-%E6%83%B3%E8%9E%8D%E5%85%A5%E5%8F%B0%E7%81%A3%E7%94%9F%E6%B4%BB-%E8%A6%81%E7%BF%92%E6%85%A3%E4%BA%94%E9%BB%9E%E9%90%98%E5%90%83%E6%99%9A%E9%A4%90-%E5%98%89%E8%B3%93-%E6%97%85%E8%A1%8C%E5%AF%AB%E4%BD%9C%E4%BA%BA-%E5%90%B3%E8%9A%8A%E8%9A%8A/">
+      
+        【歌莉亞的好奇中島】#38　想融入台灣生活　要習慣五點鐘吃晚餐？（嘉賓：旅行寫作人　吳蚊蚊）
+      </a>
+      <time>2022-05-20</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: Cup 媒體 Cup Media</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#Cup媒體" class="tag">
+        Cup媒體
+      </a>
+      
+
+      
+      <a href="https://www.youtube.com/watch?v=h2_h6nR0_t8" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-20/ForeignAffairsMag/">
+      
+        ForeignAffairsMag在2022-05-16~2022-05-22的言论
+      </a>
+      <time>2022-05-20</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: ForeignAffairsMag</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#Reddit" class="tag">
+        Reddit
+      </a>
+      
+
+      
+      <a href="https://old.reddit.com/r/TrueReddit/comments/uqxw3r/how_to_vaccinate_behind_enemy_lines_to_stop_the/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-19/718-%E5%8F%91%E7%94%9F%E5%9C%A8%E4%BA%BA%E8%BA%AB%E4%B8%8A%E7%9A%84%E4%BA%8B%E4%BB%B6%E6%9C%AC%E8%BA%AB-%E8%BF%9C%E4%B8%8D%E5%8F%8A%E4%BA%BA%E5%AF%B9%E4%BA%8B%E4%BB%B6%E7%9A%84%E5%8F%8D%E5%BA%94%E6%9D%A5%E5%BE%97%E9%87%8D%E8%A6%81/">
+      
+        718 发生在人身上的事件本身，远不及人对事件的反应来得重要
+      </a>
+      <time>2022-05-19</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 野兽爱智慧</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#Matters" class="tag">
+        Matters
+      </a>
+      
+
+      
+      <a href="https://matters.news/@philosophia1979/718-%E5%8F%91%E7%94%9F%E5%9C%A8%E4%BA%BA%E8%BA%AB%E4%B8%8A%E7%9A%84%E4%BA%8B%E4%BB%B6%E6%9C%AC%E8%BA%AB-%E8%BF%9C%E4%B8%8D%E5%8F%8A%E4%BA%BA%E5%AF%B9%E4%BA%8B%E4%BB%B6%E7%9A%84%E5%8F%8D%E5%BA%94%E6%9D%A5%E5%BE%97%E9%87%8D%E8%A6%81-bafyreifsrgr6phkepaws7r4eyszhzjuxwn7vokm7wwfeubokl3n2t2irom" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-19/717-%E5%9C%A8%E5%AD%A4%E7%8B%AC%E4%B8%AD-%E6%88%91%E4%BB%AC%E5%90%AC%E8%A7%81%E8%87%AA%E5%B7%B1%E7%9A%84%E5%A3%B0%E9%9F%B3/">
+      
+        717 在孤独中，我们听见自己的声音
+      </a>
+      <time>2022-05-19</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 野兽爱智慧</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#Matters" class="tag">
+        Matters
+      </a>
+      
+
+      
+      <a href="https://matters.news/@philosophia1979/717-%E5%9C%A8%E5%AD%A4%E7%8B%AC%E4%B8%AD-%E6%88%91%E4%BB%AC%E5%90%AC%E8%A7%81%E8%87%AA%E5%B7%B1%E7%9A%84%E5%A3%B0%E9%9F%B3-bafyreihio25rporl2klu272n7jlczbkyt34abxxbfz4cdqeooevtdu446y" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-19/%E7%A6%81%E5%BF%8C%E5%8F%B2%E8%A9%B1-%E6%9D%8E%E9%8A%B3%E6%97%A5%E8%A8%98%E7%A7%98%E5%AF%864-%E7%88%AD%E5%A5%AA%E6%97%A5%E8%A8%98%E5%A4%A7%E6%88%B0-%E4%B8%8B/">
+      
+        禁忌史話：李銳日記秘密4 爭奪日記大戰（下）
+      </a>
+      <time>2022-05-19</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: Hi5第一頻道</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#李肃Hi5" class="tag">
+        李肃Hi5
+      </a>
+      
+
+      
+      <a href="https://www.youtube.com/watch?v=a7JbR270KaE" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-19/%E7%A6%81%E5%BF%8C%E5%8F%B2%E8%A9%B1-%E6%9D%8E%E9%94%90%E6%97%A5%E8%AE%B0%E7%A7%98%E5%AF%863-%E7%88%AD%E5%A5%AA%E6%97%A5%E8%A8%98%E5%A4%A7%E6%88%B0-%E4%B8%8A/">
+      
+        禁忌史話：李锐日记秘密3 爭奪日記大戰（上）
+      </a>
+      <time>2022-05-19</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: Hi5第一頻道</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#李肃Hi5" class="tag">
+        李肃Hi5
+      </a>
+      
+
+      
+      <a href="https://www.youtube.com/watch?v=_fSOZZMyCKE" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-19/%E4%B8%8A%E6%B5%B7%E6%BA%96%E5%82%99%E5%AE%A3%E5%B8%83%E6%88%B0%E5%8B%9D%E7%97%85%E6%AF%92-%E5%B8%B8%E6%85%8B%E5%8C%96%E6%A0%B8%E9%85%B8%E6%AA%A2%E6%B8%AC-%E6%94%BF%E7%AD%96%E5%B8%B6%E4%BE%86%E6%96%B0%E7%9A%84-%E6%B8%85%E9%9B%B6-%E5%95%8F%E9%A1%8C/">
+      
+        上海準備宣布戰勝病毒；「常態化核酸檢測」政策帶來新的「清零」問題
+      </a>
+      <time>2022-05-19</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#透視中國" class="tag">
+        透視中國
+      </a>
+      
+
+      
+      <a href="https://tw.sinoinsider.com/2022/05/%e4%b8%8a%e6%b5%b7%e6%ba%96%e5%82%99%e5%ae%a3%e5%b8%83%e6%88%b0%e5%8b%9d%e7%97%85%e6%af%92%ef%bc%9b%e3%80%8c%e5%b8%b8%e6%85%8b%e5%8c%96%e6%a0%b8%e9%85%b8%e6%aa%a2%e6%b8%ac%e3%80%8d%e6%94%bf%e7%ad%96/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-18/%E9%99%B6%E8%88%87%E6%88%B2-%E9%BB%91%E6%AE%BA%E4%BB%A4-%E7%8A%AF%E7%A6%81%E7%9A%84%E5%A1%94%E5%80%AB%E5%A4%A9%E5%A5%B4/">
+      
+        【陶與戲】黑殺令：犯禁的塔倫天奴
+      </a>
+      <time>2022-05-18</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: Cup 媒體 Cup Media</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#Cup媒體" class="tag">
+        Cup媒體
+      </a>
+      
+
+      
+      <a href="https://www.youtube.com/watch?v=Id18LveP1ZQ" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-18/%E6%B2%83%E5%B0%94%E5%BE%B7%E4%BC%A6-%E6%B8%A9%E6%9F%94%E7%9A%84%E5%93%B2%E5%AD%A6%E4%BC%9F%E4%BA%BA/">
+      
+        沃尔德伦：温柔的哲学伟人
+      </a>
+      <time>2022-05-18</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 王立秋</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#Matters" class="tag">
+        Matters
+      </a>
+      
+
+      
+      <a href="https://matters.news/@levisliqiuwang/%E6%B2%83%E5%B0%94%E5%BE%B7%E4%BC%A6-%E6%B8%A9%E6%9F%94%E7%9A%84%E5%93%B2%E5%AD%A6%E4%BC%9F%E4%BA%BA-bafyreigkktlu3r6toyld6ktouc25zhbdpagp7vvsegpemvin6ewcqkvkhq" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-18/%E6%B2%83%E5%B0%94%E5%BE%B7%E4%BC%A6-%E6%94%BF%E6%B2%BB%E7%9A%84%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/">
+      
+        沃尔德伦：政治的政治理论
+      </a>
+      <time>2022-05-18</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 王立秋</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#Matters" class="tag">
+        Matters
+      </a>
+      
+
+      
+      <a href="https://matters.news/@levisliqiuwang/%E6%B2%83%E5%B0%94%E5%BE%B7%E4%BC%A6-%E6%94%BF%E6%B2%BB%E7%9A%84%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA-bafyreihqjslhplbjpugdmeegwahyuoujyxeykicn7katxulqzzpc2moyge" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-18/theoryofdoom/">
+      
+        theoryofdoom在2022-05-16~2022-05-22的言论
+      </a>
+      <time>2022-05-18</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: theoryofdoom</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#Reddit" class="tag">
+        Reddit
+      </a>
+      
+
+      
+      <a href="https://old.reddit.com/r/hacking/comments/uqjckx/whats_the_point_of_doing_a_bug_bounty_if_the/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-18/nathanlawkc/">
+      
+        Twitter @Nathan Law 羅冠聰: 2022-05-16~2022-05-22
+      </a>
+      <time>2022-05-18</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: nathanlawkc</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#Twitter" class="tag">
+        Twitter
+      </a>
+      
+
+      
+      <a href="https://twitter.com/nathanlawkc/status/1526862460896133120" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-17/716-%E4%B8%83%E8%B4%B1%E4%B8%8B%E5%A4%A9%E5%B1%B1-%E4%B8%80%E8%B4%B1%E5%9C%A8%E8%B4%A9%E8%AF%BB/">
+      
+        716 七贱下天山，一贱在贩读
+      </a>
+      <time>2022-05-17</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 野兽爱智慧</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#Matters" class="tag">
+        Matters
+      </a>
+      
+
+      
+      <a href="https://matters.news/@philosophia1979/716-%E4%B8%83%E8%B4%B1%E4%B8%8B%E5%A4%A9%E5%B1%B1-%E4%B8%80%E8%B4%B1%E5%9C%A8%E8%B4%A9%E8%AF%BB-bafyreighol6lo2i7gxenyzvwkkjp44ry2xhponez7mkexezizqiyqggmd4" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-17/%E9%BD%90%E6%B3%BD%E5%85%8B-%E9%9D%9E%E5%86%8D%E7%8E%B0%E8%89%BA%E6%9C%AF%E7%9A%84%E6%94%BF%E6%B2%BB%E5%90%AB%E6%84%8F-%E6%88%91%E4%BC%9A%E5%9B%A0%E4%B8%BA%E5%9C%A8-%E4%BB%8A%E6%97%A5%E4%BF%84%E7%BD%97%E6%96%AF-%E4%B8%8A%E5%8F%91%E8%A1%A8%E6%96%87%E7%AB%A0%E8%80%8C%E6%84%9F%E5%88%B0%E7%BE%9E%E8%80%BB%E5%90%97/">
+      
+        齐泽克：非再现艺术的政治含意/我会因为在《今日俄罗斯》上发表文章而感到羞耻吗？
+      </a>
+      <time>2022-05-17</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 王立秋</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#Matters" class="tag">
+        Matters
+      </a>
+      
+
+      
+      <a href="https://matters.news/@levisliqiuwang/%E9%BD%90%E6%B3%BD%E5%85%8B-%E9%9D%9E%E5%86%8D%E7%8E%B0%E8%89%BA%E6%9C%AF%E7%9A%84%E6%94%BF%E6%B2%BB%E5%90%AB%E6%84%8F-%E6%88%91%E4%BC%9A%E5%9B%A0%E4%B8%BA%E5%9C%A8-%E4%BB%8A%E6%97%A5%E4%BF%84%E7%BD%97%E6%96%AF-%E4%B8%8A%E5%8F%91%E8%A1%A8%E6%96%87%E7%AB%A0%E8%80%8C%E6%84%9F%E5%88%B0%E7%BE%9E%E8%80%BB%E5%90%97-bafyreieqqdp4bnt663wxubwv2rpvpwypkpt5fiapzb4kjzgzue4v5no5gq" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-17/%E7%AC%AC%E5%85%AD%E5%B1%8A%E7%BD%91%E7%BB%9C%E7%A4%BE%E4%BC%9A%E5%B9%B4%E4%BC%9A-%E8%B0%A2%E6%98%8E%E7%82%AB-Archverse%E5%8C%97%E7%A2%9A-%E4%B8%80%E4%BD%8D%E5%BF%97%E6%84%BF%E8%80%85%E7%9A%84%E5%85%83%E5%AE%87%E5%AE%99%E4%B9%A1%E6%84%81/">
+      
+        第六届网络社会年会｜谢明炫：Archverse北碚——一位志愿者的元宇宙乡愁
+      </a>
+      <time>2022-05-17</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#网络社会研究所" class="tag">
+        网络社会研究所
+      </a>
+      
+
+      
+      <a href="https://caa-ins.org/archives/8851" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-17/%E7%AC%AC%E5%85%AD%E5%B1%8A%E7%BD%91%E7%BB%9C%E7%A4%BE%E4%BC%9A%E5%B9%B4%E4%BC%9A-%E5%BC%A0%E8%BF%B0%E8%BD%A9-Archverse%E9%A1%B9%E7%9B%AE%E6%8A%A5%E5%91%8A/">
+      
+        第六届网络社会年会｜张述轩：Archverse项目报告
+      </a>
+      <time>2022-05-17</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#网络社会研究所" class="tag">
+        网络社会研究所
+      </a>
+      
+
+      
+      <a href="https://caa-ins.org/archives/8858" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-15/wangdan1989/">
+      
+        Twitter @王丹: 2022-05-09~2022-05-15
+      </a>
+      <time>2022-05-15</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: wangdan1989</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#Twitter" class="tag">
+        Twitter
+      </a>
+      
+
+      
+      <a href="https://twitter.com/wangdan1989/status/1523599757159317504" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-15/realcaixia/">
+      
+        Twitter @蔡霞: 2022-05-09~2022-05-15
+      </a>
+      <time>2022-05-15</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: realcaixia</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#Twitter" class="tag">
+        Twitter
+      </a>
+      
+
+      
+      <a href="https://twitter.com/realcaixia/status/1523337217032298501" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-15/cnmediaproject/">
+      
+        Twitter @China Media Project: 2022-05-09~2022-05-15
+      </a>
+      <time>2022-05-15</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: cnmediaproject</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#Twitter" class="tag">
+        Twitter
+      </a>
+      
+
+      
+      <a href="https://twitter.com/JeromeTaylor/status/1523506118978568192" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-15/HeQinglian/">
+      
+        Twitter @He Qinglian: 2022-05-09~2022-05-15
+      </a>
+      <time>2022-05-15</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: HeQinglian</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#Twitter" class="tag">
+        Twitter
+      </a>
+      
+
+      
+      <a href="https://twitter.com/HeQinglian/status/1523332655105945601" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-15/EnclavedMicrostate/">
+      
+        EnclavedMicrostate在2022-05-09~2022-05-15的言论
+      </a>
+      <time>2022-05-15</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: EnclavedMicrostate</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#Reddit" class="tag">
+        Reddit
+      </a>
+      
+
+      
+      <a href="https://old.reddit.com/r/AskHistorians/comments/ul6ul1/why_was_rome_chosen_as_the_location_for_the/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-14/%E8%84%AB%E9%89%A4%E4%B8%AD%E5%9C%8B%E6%AD%A3%E5%9C%A8%E9%96%8B%E5%A7%8B/">
+      
+        脫鉤中國正在開始
+      </a>
+      <time>2022-05-14</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: William</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#Matters" class="tag">
+        Matters
+      </a>
+      
+
+      
+      <a href="https://matters.news/@WilliamLeung/%E8%84%AB%E9%89%A4%E4%B8%AD%E5%9C%8B%E6%AD%A3%E5%9C%A8%E9%96%8B%E5%A7%8B-bafyreicpv565dgzls4eotij2y37cwf76qx7trf3sr7i3hyhob3n6xnw4pq" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-14/%E5%A5%A5%E6%96%AF%E9%99%86%E5%A4%A7%E5%AD%A6%E7%9A%84-Yunyun-Zhou-%E4%B8%8E%E4%BC%AF%E6%98%8E%E7%BF%B0%E5%A4%A7%E5%AD%A6%E7%9A%84-Kailing-Xie-%E4%B8%A4%E4%BD%8D%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%9B%BD%E6%94%BF%E6%B2%BB%E7%A4%BE%E4%BC%9A%E7%9A%84/">
+      
+        奥斯陆大学的 Yunyun Zhou 与伯明翰大学的 Kailing Xie 两位研究中国政治社会的学者在 International Communication Association 上合作发表了开放访问的文章 Ge
+      </a>
+      <time>2022-05-14</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#The Sociologist" class="tag">
+        The Sociologist
+      </a>
+      
+
+      
+      <a href="https://t.me/thesoc/448" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-14/%E6%94%BF%E6%B2%BB%E5%B1%80%E5%B8%B8%E5%A7%94%E6%9C%83%E5%BE%8C-%E6%94%BF%E6%B2%BB%E7%96%AB%E6%83%85-%E6%83%A1%E5%8C%96-%E9%87%9D%E5%B0%8D%E7%BF%92%E8%BF%91%E5%B9%B3%E9%99%A3%E7%87%9F%E7%9A%84%E6%94%BF%E6%B2%BB%E8%AC%A0%E8%A8%80%E5%A4%A7%E9%87%8F%E6%B9%A7%E7%8F%BE/">
+      
+        政治局常委會後「政治疫情」惡化；針對習近平陣營的政治謠言大量湧現
+      </a>
+      <time>2022-05-14</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#透視中國" class="tag">
+        透視中國
+      </a>
+      
+
+      
+      <a href="https://tw.sinoinsider.com/2022/05/%e6%94%bf%e6%b2%bb%e5%b1%80%e5%b8%b8%e5%a7%94%e6%9c%83%e5%be%8c%e3%80%8c%e6%94%bf%e6%b2%bb%e7%96%ab%e6%83%85%e3%80%8d%e6%83%a1%e5%8c%96%ef%bc%9b%e9%87%9d%e5%b0%8d%e7%bf%92%e8%bf%91%e5%b9%b3%e9%99%a3/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-14/%E6%AD%8C%E8%8E%89%E4%BA%9E%E7%9A%84%E5%A5%BD%E5%A5%87%E4%B8%AD%E5%B3%B6-37-%E6%97%85%E9%81%8A%E5%BF%83%E6%85%8B%E5%9C%A8%E6%B8%AF%E7%94%9F%E6%B4%BB-%E7%82%BA%E4%BD%95%E9%9D%A2%E7%9A%AE%E8%A6%81%E5%A4%A0%E5%8E%9A-%E5%98%89%E8%B3%93-%E6%97%85%E8%A1%8C%E5%AF%AB%E4%BD%9C%E4%BA%BA-%E5%90%B3%E8%9A%8A%E8%9A%8A/">
+      
+        【歌莉亞的好奇中島】#37　旅遊心態在港生活　為何面皮要夠厚？（嘉賓：旅行寫作人　吳蚊蚊）
+      </a>
+      <time>2022-05-14</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: Cup 媒體 Cup Media</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#Cup媒體" class="tag">
+        Cup媒體
+      </a>
+      
+
+      
+      <a href="https://www.youtube.com/watch?v=ZeLHN7DtnYk" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-13/%E9%BD%90%E6%B3%BD%E5%85%8B-%E6%9C%AB%E4%B8%96%E8%8B%B1%E9%9B%84/">
+      
+        齐泽克：末世英雄
+      </a>
+      <time>2022-05-13</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 王立秋</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#Matters" class="tag">
+        Matters
+      </a>
+      
+
+      
+      <a href="https://matters.news/@levisliqiuwang/%E9%BD%90%E6%B3%BD%E5%85%8B-%E6%9C%AB%E4%B8%96%E8%8B%B1%E9%9B%84-bafyreigo2ua4rvxhakdjm3djnppiukipgr5vjrsdmtsn3ggnkfhirnlcem" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-13/nathanlawkc/">
+      
+        Twitter @Nathan Law 羅冠聰: 2022-05-09~2022-05-15
+      </a>
+      <time>2022-05-13</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: nathanlawkc</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#Twitter" class="tag">
+        Twitter
+      </a>
+      
+
+      
+      <a href="https://twitter.com/nathanlawkc/status/1523979586031214592" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-13/SpeechFreedomCN/">
+      
+        Twitter @中国文字狱事件盘点: 2022-05-09~2022-05-15
+      </a>
+      <time>2022-05-13</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: SpeechFreedomCN</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#Twitter" class="tag">
+        Twitter
+      </a>
+      
+
+      
+      <a href="https://twitter.com/SpeechFreedomCN/status/1523441187767537665" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-13/ForeignAffairsMag/">
+      
+        ForeignAffairsMag在2022-05-09~2022-05-15的言论
+      </a>
+      <time>2022-05-13</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: ForeignAffairsMag</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#Reddit" class="tag">
+        Reddit
+      </a>
+      
+
+      
+      <a href="https://old.reddit.com/r/geopolitics/comments/unh54i/alexander_vindman_america_must_embrace_the_goal/" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-12/The-Right-of-Peoples-to-Self-determination-the-Co/">
+      
+        The Right of Peoples to Self-determination: the Cornerstone of Haiti's Diplomatic Doctrine
+      </a>
+      <time>2022-05-12</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#臺大演講網" class="tag">
+        臺大演講網
+      </a>
+      
+
+      
+      <a href="https://www.youtube.com/watch?v=L3f3PzEistc" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-11/%E9%98%BF%E6%A0%BC%E5%B0%BC%E4%B8%9D-%E8%B5%AB%E5%8B%92-%E5%A4%A7%E5%AD%A6%E7%9A%84%E8%BF%87%E5%8E%BB-%E5%BD%93%E4%B8%8B%E5%92%8C%E6%9C%AA%E6%9D%A5/">
+      
+        阿格尼丝·赫勒：大学的过去、当下和未来
+      </a>
+      <time>2022-05-11</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+          <span>
+              <!-- Personal Info. -->
+              <a  style="font-size:14px;">作者: 王立秋</a>
+          </span>
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#Matters" class="tag">
+        Matters
+      </a>
+      
+
+      
+      <a href="https://matters.news/@levisliqiuwang/%E9%98%BF%E6%A0%BC%E5%B0%BC%E4%B8%9D-%E8%B5%AB%E5%8B%92-%E5%A4%A7%E5%AD%A6%E7%9A%84%E8%BF%87%E5%8E%BB-%E5%BD%93%E4%B8%8B%E5%92%8C%E6%9C%AA%E6%9D%A5-bafyreicg3hwneb7lrbjbmkrpwd55n7kyuj2k4nc25ye6653nynvinhj2km" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+  
+    
+    
+    
+  
+    <li>
+      
+      <a href="/opinion/2022-05-11/%E4%B8%8A%E6%B5%B7%E7%A2%8E%E7%89%87-Shattered-Shanghai-2022/">
+      
+         上海碎片 Shattered Shanghai 2022 
+      </a>
+      <time>2022-05-11</time>
+
+      <!-- Look the author details up from the site config. -->
+      
+
+      
+        
+        
+        
+      
+
+      
+      <a href="https://nodebe4.github.io/opinion/categories/#The Sociologist" class="tag">
+        The Sociologist
+      </a>
+      
+
+      
+      <a href="https://sociologist.xyz/shanghai-disaster-2022-covid-19" style="font-size:14px;">原文</a>
+      
+
+    </li>
+  
+
+</ul>
+
+<div class="pagination">
+  
+    <span class="prev">
+      <a href="/opinion/page43/" class="prev">
+        上一页
+      </a>
+    </span>
+  
+  
+    <span class="next">
+      <a href="/opinion/page45/" class="next">
+        下一页
+      </a>
+    </span>
+  
+
+  <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    <a class="fab-action fab-action-1" title="上一页(热键 &#8594;)" href="/opinion/page43/">
+      <i>上</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一页(热键 &#8592;)" href="/opinion/page45/">
+      <i>下</i>
+    </a>
+    
+    
+    
+    
+    
+  </div>
+</div>
+
+
+  <script>
+  /* post pagination keyboard shortcuts */
+  document.body.onkeyup = function(e){
+    if (e.keyCode == '37') { window.location = '/opinion/page43/'; } // left arrow key
+    if (e.keyCode == '39') { window.location = '/opinion/page45/'; } // right arrow key
+  };
+  </script>
+
+</div>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

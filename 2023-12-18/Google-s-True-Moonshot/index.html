@@ -1,0 +1,3043 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Google’s True Moonshot – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+Google’s True Moonshot
+——
+" />
+    <meta property="og:description" content="
+Google’s True Moonshot
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Google’s True Moonshot" />
+    <meta property="twitter:title" content="Google’s True Moonshot" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2023%2Fgoogles-true-moonshot%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2023/googles-true-moonshot/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2023/googles-true-moonshot/&text=Google’s True Moonshot&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2023/googles-true-moonshot/&title=Google’s True Moonshot" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2023/googles-true-moonshot/&title=Google’s True Moonshot" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Google’s True Moonshot&body=
+Google’s True Moonshot
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2023/googles-true-moonshot/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2023/googles-true-moonshot/&title=Google’s True Moonshot&caption=
+Google’s True Moonshot
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Google’s True Moonshot&url=https://stratechery.com/2023/googles-true-moonshot/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Google’s True Moonshot</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2023-12-18
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2023/googles-true-moonshot/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1702914850000-->
+<p><a href="https://stratechery.com/2023/googles-true-moonshot/">Google’s True Moonshot</a>
+——</p>
+
+<div>
+  <p>When I first went independent with Stratechery, I had a plan to make money on the side with speaking, consulting, etc.; what made me pull the plug on the latter was my last company speaking gig, with Google in November 2015 (I have always disclosed this <a href="https://stratechery.com/about/#ethics">on my About page</a>). It didn’t seem tenable for me to have any sort of conflict of interest with companies I was covering, and the benefit of learning more about the companies I covered — the justification I told myself for taking the engagement — was outweighed by the inherent limitations that came from non-public data. And so, since late 2015, my business model has been fully aligned to my nature: fully independent, with access to the same information as everyone else.<sup id="rf1-12087"><a href="https://stratechery.com/2023/googles-true-moonshot/#fn1-12087" title="I do still speak at conferences, but last spoke for pay in January 2017" rel="footnote">1</a></sup></p>
+  <p>I bring this up for three reasons, that I shall get to through the course of this Article. The first one has to do with titles: it was at that talk that a Google employee asked me what I thought of invoking the then-unannounced Google Assistant by saying “OK Google”. “OK Google” was definitely a different approach from Apple and Amazon’s “Siri” and “Alexa”, respectively, and I liked it: instead of pretending that the assistant was the dumbest human you have ever talked to, why not portray it as the smartest robot, leaning on the brand name that Google had built over time?</p>
+  <p>“OK Google” was, in practice, not as compelling as I hoped. It was better than Siri or Alexa, but it had all of the same limitations that were inherent to the natural language processing approach: you had to get the incantations right to get the best results, and the capabilities and responses were ultimately more deterministic than you might have hoped. That, though, wasn’t necessarily a problem for the brand: Google search is, at its core, still about providing the right incantations to get the set of results you are hoping for; Google Assistant, like Search, excelled in more mundane but critical attributes like speed and accuracy, if not personality and creativity.</p>
+  <p>What was different from search is that an Assistant needed to provide one answer, not a list of possible answers. This, though, was very much in keeping with Google’s fundamental nature; I once wrote in a Stratechery Article:</p>
+  <blockquote>
+    <p>An assistant has to be far more proactive than, for example, a search results page; it’s not enough to present possible answers: rather, an assistant needs to give the right answer.</p>
+    <p>This is a welcome shift for Google the technology; from the beginning the search engine has included an “I’m Feeling Lucky” button, so confident was Google founder Larry Page that the search engine could deliver you the exact result you wanted, and while yesterday’s Google Assistant demos were canned, the results, particularly when it came to contextual awareness, were far more impressive than the other assistants on the market. More broadly, few dispute that Google is a clear leader when it comes to the artificial intelligence and machine learning that underlie their assistant.</p>
+  </blockquote>
+  <p>That paragraph was from <a href="https://stratechery.com/2016/google-and-the-limits-of-strategy/">Google and the Limits of Strategy</a>, where I first laid out some of the fundamental issues that have, over the last year, come into much sharper focus. On one hand, Google had the data, infrastructure, and customer touch points to win the “Assistant” competition; that remains the case today when it comes to generative AI, which promises the sort of experience I always hoped for from “OK Google.” On the other hand, “I’m feeling lucky” may have been core to Google’s nature, but it was counter to their business model; I continued in that Article:</p>
+  <blockquote>
+    <p>A business, though, is about more than technology, and Google has two significant shortcomings when it comes to assistants in particular. First, as I explained after this year’s Google I/O, the company has a <a href="https://stratechery.com/2016/googles-go-to-market-gap/">go-to-market gap</a>: assistants are only useful if they are available, which in the case of hundreds of millions of iOS users means downloading and using a separate app (or building the sort of experience that, like Facebook, users will willingly spend extensive amounts of time in).</p>
+    <p>Secondly, though, Google has a business-model problem: the “I’m Feeling Lucky Button” guaranteed that the search in question would not make Google any money. After all, if a user doesn’t have to choose from search results, said user also doesn’t have the opportunity to click an ad, thus choosing the winner of the competition Google created between its advertisers for user attention. Google Assistant has the exact same problem: where do the ads go?</p>
+  </blockquote>
+  <p>It is now eight years on from that talk, and seven years on from the launch of Google Assistant, but all of the old questions are as pertinent as ever.</p>
+  <h3 id="googles-horizontal-webs">Google’s Horizontal Webs</h3>
+  <p>My first point brings me to the second reason I’m reminded of that Google talk: my presentation was entitled “The Opportunity — and the Enemy.” The opportunity was mobile, the best market the tech industry had ever seen; the enemy was Google itself, which even then was still under-investing in its iOS apps.</p>
+  <p>In the presentation I highlighted the fact that Google’s apps still didn’t support <a href="https://en.wikipedia.org/wiki/Force_Touch">Force Touch</a>, which Apple had introduced to iOS over a year earlier; to me this reflected the strategic mistake the company made in prioritizing Google Maps on Android, which culminated in Apple making its own mapping service. My point was one <a href="https://stratechery.com/2013/the-android-detour/">I had been making on Stratechery from the beginning</a>: Google was a services company, which meant their optimal strategy was to serve all devices; by favoring Android they were letting the tail wag the dog.</p>
+  <p>Eight years on, and it’s clear I wasn’t the only one who saw the Maps fiasco as a disaster to be learned from: one of the most interesting revelations from the <a href="https://stratechery.com/2023/googles-apple-payments-apple-services-narrative-vs-reality-googles-motivation/">ongoing DOJ antitrust case against Google</a> was reported by <a href="https://stratechery.com/2023/googles-apple-payments-apple-services-narrative-vs-reality-googles-motivation/">Bloomberg</a>:</p>
+  <blockquote>
+    <p>Two years after Apple Inc. dropped Google Maps as its default service on iPhones in favor of its own app, Google had regained only 40% of the mobile traffic it used to have on its mapping service, a Google executive testified in the antitrust trial against the Alphabet Inc. company. Michael Roszak, Google’s vice president for finance, said Tuesday that the company used the Apple Maps switch as “a data point” when modeling what might happen if the iPhone maker replaced Google’s search engine as the default on Apple’s Safari browser.</p>
+  </blockquote>
+  <p>It’s a powerful data point, and I think the key to understanding what you might call the Google Aggregator Paradox: if Google wins by being better, then why does it fight so hard for defaults, both for search and, in the case of Android, the Play Store? The answer, I think, is that it is best to not even take the chance of alternative defaults being good enough. This is made easier given the structure of these deals, which are revenue shares, not payments; this does show up on Google’s income statement as Traffic Acquisition Costs (TAC), but from a cash flow perspective it is foregone zero marginal cost revenue. There is no pain of payment, just somewhat lower profitability on zero marginal cost searches.</p>
+  <p>The bigger cost is increasingly legal: the decision in <a href="https://stratechery.com/2020/united-states-v-google/">the DOJ case</a> won’t come down until next year, and Google may very well win; it’s hard to argue that the company ought not be able to bid on Apple’s default search placement if its competitors can (if anything the case <a href="https://stratechery.com/2023/googles-apple-payments-apple-services-narrative-vs-reality-googles-motivation/">demonstrates Apple’s power</a>).</p>
+  <p>That’s not Google’s only legal challenge, though: last week the company lost another antitrust case, this time to Epic. I explained why the company lost — while Apple won — in <a href="https://stratechery.com/2023/google-loses-antitrust-case-to-epic-the-differences-between-apple-and-google-revisited-the-tying-question/">last Tuesday’s Update</a>:</p>
+  <blockquote>
+    <p>That last point may seem odd in light of Apple’s victory, but again, Apple was offering an integrated product that it fully controlled and customers were fully aware of, and is thus, under U.S. antitrust law, free to set the price of entry however it chooses. Google, on the other hand, “entered into one or more agreements that unreasonably restrained trade” — that quote is from the jury instructions, and is taken directly from the Sherman Act — by which the jurors mean basically all of them: the Google Play Developer Distribution Agreement, investment agreements under the Games Velocity Program (i.e. Project Hug), and Android’s mobile application distribution agreement and revenue share agreements with OEMs, were all ruled illegal.</p>
+    <p>This goes back to the point I made above: Google’s fundamental legal challenge with Android is that it sought to have its cake and eat it too: it wanted all of the shine of open source and all of the reach and network effects of being a horizontal operating system provider and all of the control and profits of Apple, but the only way to do that was to pretty clearly (in my opinion) violate antitrust law.</p>
+  </blockquote>
+  <p>Google’s Android strategy was, without question, brilliant, particularly when you realize that <a href="https://abovethecrowd.com/2011/03/24/freight-train-that-is-android/">the ultimate goal was to protect search</a>. By making it “open source”, Google got all of the phone carriers desperate for an iOS alternative on board, ensuring that hated rival Microsoft was not the alternative to Apple as it had been on PCs; a modular approach, though, is inherently more fragmented — and Google didn’t just want an alternative to Apple, they wanted to beat them, particularly in the early days of the smartphone wars — so the company spun a web of contracts and incentives to ensure that Android was only really usable with Google’s services. For this <a href="https://stratechery.com/2018/the-european-commission-versus-android/">the company was rightly found guilty of antitrust violations in the EU</a>, and now, for similar reasons, in the U.S.</p>
+  <p>The challenge for Google is that the smartphone market has a lot more friction than search: the company needs to coordinate both OEMs and developers; when it came to search the company could simply take advantage of the openness of the web. This resulted in tension between Google’s nature — being the one-stop shop for information — and the business model of being a horizontal app platform and operating system provider. It’s not dissimilar to the tension the company faces with its Assistant, and in the future with Generative AI: the company wants to simply give you the answer, but how to do that while still making money?</p>
+  <h3 id="infrastructure-data-and-ecosystems">Infrastructure, Data, and Ecosystems</h3>
+  <p>The third reason I remember that weekend in 2015 is it was the same month that Google open-sourced TensorFlow, its machine-learning framework. I thought it was a great move, and wrote in <a href="https://stratechery.com/2015/tensorflow-and-monetizing-intellectual-property/">TensorFlow and Monetizing Intellectual Property</a>:</p>
+  <blockquote>
+    <p>I’m hardly qualified to judge the technical worth of TensorFlow, but I feel pretty safe in assuming that <a href="https://deliprao.com/archives/98">it is excellent</a> and likely far beyond what any other company could produce. Machine learning, though, is about a whole lot more than a software system: specifically, it’s about a whole lot of data, and an infrastructure that can process that data. And, unsurprisingly, those are two areas where Google has a dominant position.</p>
+    <p>Indeed, as good as TensorFlow might be, I bet it’s the weakest of these three pieces Google needs to truly apply machine learning to all its various business, both those of today and those of the future. Why not, then, leverage the collective knowledge of machine learning experts all over the world to make TensorFlow better? Why not make a move to ensure the machine learning experts of the future grow up with TensorFlow as the default? And why not ensure that the industry’s default machine learning system utilizes standards set in place by Google itself, with a design already suited for Google’s infrastructure?</p>
+    <p>After all, contra Gates’ 2005 claim, it turns out the value of pure intellectual property is not derived from government-enforced exclusivity, but rather from the complementary pieces that surround that intellectual property which are far more difficult to replicate. Google is betting that its lead in both data and infrastructure are significant and growing, and that’s a far better bet in my mind than an all-too-often futile attempt to derive value from an asset that by its very nature can be replicated endlessly.</p>
+  </blockquote>
+  <p>In fact, it turned out that <a href="https://medium.com/@markurtz/2022-state-of-competitive-ml-the-downfall-of-tensorflow-e2577c499a4d">TensorFlow was not so excellent</a> — that link I used to support my position in the above excerpt now 404s — and it has been surpassed by Meta’s PyTorch in particular; at Google Cloud Next the company <a href="https://stratechery.com/2023/google-cloud-next-the-gcp-nvidia-partnership-kurian-explains-the-deal/">announced a partnership with Nvidia</a> to build out OpenXLA as a compiler of sorts to ensure that output from TensorFlow, Jax, and PyTorch can run on any hardware. This matters for Google because <a href="https://www.semianalysis.com/p/google-gemini-eats-the-world-gemini">those infrastructure advantages very much exist</a>; the more important “Tensor” product for Google is its Tensor Processing Unit series of chips, the existence of which make Google uniquely able to scale beyond whatever allocation it can get of Nvidia GPUs.</p>
+  <p>The importance of TPUs was demonstrated with the announcement of Gemini, Google’s latest AI model; the company claims the “Ultra” variant, which it hasn’t yet released, is better than GPU-4. What is notable is that Gemini was trained and will run inference on TPUs. While <a href="https://stratechery.com/2023/an-interview-with-nat-friedman-and-daniel-gross-about-the-human-component-of-ai/#tpus">there are some questions about the ultimate scalability of TPUs</a>, for now Google is the best positioned to both train and, more importantly, serve generative AI in a cost efficient way.</p>
+  <p>Then there is data: <a href="https://www.theinformation.com/articles/how-google-got-back-on-its-feet-in-ai-race">a recent report in The Information</a> claims that Gemini relies heavily on data from YouTube, and that is not the only proprietary data Google has access to: free Gmail and Google Docs are another massive resource, although <a href="https://www.vox.com/technology/2023/7/27/23808499/ai-openai-google-meta-data-privacy-nope">it is unclear to what extent Google is using that data, or if it is, for what</a>. At a minimum there is little question that Google has the most accessible repository of Internet data going back a quarter of a century to when Larry Page and Sergey Brin first started crawling the open web from their dorm room.</p>
+  <p>And so we are back where we started: Google has incredible amounts of data and the best infrastructure, but once again, an unsteady relationship with the broader development community.</p>
+  <h3 id="gemini-and-seamless-ai">Gemini and Seamless AI</h3>
+  <p>The part of the Gemini announcement that drew the most attention did not have anything to do with infrastructure or data: what everyone ended up talking about was the company’s Gemini demo, and the fact it wasn’t representative of Gemini’s actual capabilities. Here’s the demo:</p>
+  <div id="v-sycYt6We-1" class="video-player">
+    <video id="v-sycYt6We-1-video" width="640" height="360" poster="https://videos.files.wordpress.com/sycYt6We/hands-on-with-geminiefbc9a-interacting-with-multimodal-ai-uizaixycebi_mp4_hd.original.jpg" controls="true" preload="metadata" dir="ltr" lang="en"><div>
+<img fetchpriority="high" decoding="async" alt="" src="https://videos.files.wordpress.com/sycYt6We/hands-on-with-geminiefbc9a-interacting-with-multimodal-ai-uizaixycebi_mp4_hd.original.jpg?resize=640%2C360" width="640" height="360" data-recalc-dims="1" />
+      </div></video>
+  </div>
+  <p><a href="https://stratechery.com/2023/google-gemini-performance-infrastructure-and-integration-apple-mlx/">Pammy Olson for Bloomberg Opinion</a> was the first to highlight the problem:</p>
+  <blockquote>
+    <p>In reality, the demo also wasn’t carried out in real time or in voice. When asked about the video by Bloomberg Opinion, a Google spokesperson said it was made by “using still image frames from the footage, and prompting via text,” and they pointed to a site showing how others could interact with Gemini with photos of their hands, or of drawings or other objects. In other words, the voice in the demo was reading out human-made prompts they’d made to Gemini, and showing them still images. That’s quite different from what Google seemed to be suggesting: that a person could have a smooth voice conversation with Gemini as it watched and responded in real time to the world around it.</p>
+  </blockquote>
+  <p>This was obviously a misstep, and a bizarre one at that: as <a href="https://stratechery.com/2023/google-gemini-performance-infrastructure-and-integration-apple-mlx/">I noted in an Update</a> Google, given its long-term advantages in this space, would have been much better served in being transparent, particularly since it suddenly finds itself with a trustworthiness advantage <a href="https://stratechery.com/2023/openais-misalignment-and-microsofts-gain/">relative to Microsoft and OpenAI</a>. The goal for the company should be demonstrating competitiveness and competence; a fake demo did the opposite.</p>
+  <p>And yet, I can understand how the demo came to be; it is getting close to the holy grail of Assistants: an entity with which you can conduct a free-flowing conversation, without the friction of needing to invoke the right incantations or type and read big blocks of text. If Gemini Ultra really is better than GPT-4, or even roughly competitive, than I believe this capability is close. After all, I got a taste of it with GPT-4 and its voice capabilities; from <a href="https://stratechery.com/2023/ai-hardware-and-virtual-reality/">AI, Hardware, and Virtual Reality</a>:</p>
+  <blockquote>
+    <p>The first AI announcement of the week was literally AI that can talk: OpenAI announced that you can now converse with ChatGPT, and I found the experience profound.</p>
+    <p>You have obviously been able to chat with ChatGPT via text for many months now; what I only truly appreciated after talking with ChatGPT, though, was just how much work it was to type out questions and read answers. There was, in other words, a human constraint in our conversations that made it feel like I was using a tool; small wonder that the vast majority of my interaction with ChatGPT has been to do some sort of research, or try to remember something on the edge of my memory, too fuzzy to type a clear search term into Google.</p>
+    <p>Simply talking, though, removed that barrier: I quickly found myself having philosophical discussions including, for example, the nature of virtual reality. It was the discussion itself that provided a clue: virtual reality feels real, but something can only feel real if human constraints are no longer apparent. In the case of conversation, there is no effort required to talk to another human in person, or on the phone; to talk to them via chat is certainly convenient, but there is a much more tangible separation. So it is with ChatGPT.</p>
+  </blockquote>
+  <p>The problem is that this experience requires a pretty significant suspension of disbelief, because there is too much friction. You have to open the OpenAI app, then you have to set it to voice mode, then you have to wait for it to connect, then every question and answer contains a bit too much lag, and the answers start sounding like blocks of text instead of a conversation. Notice, though, that Google is much better placed than OpenAI to solve all of these challenges:</p>
+  <ul>
+    <li>Google sells its own phones which could be configured to have a conversation UI by default (or with Google’s Pixel Buds). This removes the friction of opening an app and setting a mode. Google also has a fleet of home devices already designed for voice interaction.</li>
+    <li>Google has massive amounts of infrastructure all over the globe, with the lowest latency and fastest response. This undergirds search today, but it could undergird a new generative AI assistant tomorrow.</li>
+    <li>Google has access to gobs of data specifically tied to human vocal communication, thanks to YouTube in particular.</li>
+  </ul>
+  <p>In short, the Gemini demo may have been faked, but Google is by far the company best positioned to make it real.</p>
+  <h3 id="pixie">Pixie</h3>
+  <p>There was one other interesting tidbit in <a href="https://www.theinformation.com/articles/how-google-got-back-on-its-feet-in-ai-race">The Information article</a> (<em>emphasis mine</em>):</p>
+  <blockquote>
+    <p>Over the next few months, Google will have to show it can integrate the AI models it groups under the Gemini banner into its products, without cannibalizing existing businesses such as search. It has already put a less advanced version of Gemini into Bard, the chatbot it created to compete with ChatGPT, which has so far seen limited uptake. In the future, it plans to use Gemini across nearly its entire line of products, from its search engine to its productivity applications and <strong>an AI assistant called Pixie that will be exclusive to its Pixel devices</strong>, two people familiar with the matter said. Products could also include wearable devices, such as glasses that could make use of the AI’s ability to recognize the objects a wearer is seeing, according to a person with knowledge of internal discussions. The device could then advise them, say, on how to use a tool, solve a math problem or play a musical instrument.</p>
+  </blockquote>
+  <p>The details of Pixie, such as they were, came at the very end:</p>
+  <blockquote>
+    <p>The rollout of Pixie, an AI assistant exclusively for Pixel devices, could boost Google’s hardware business at a time when tech companies are racing to integrate their hardware with new AI capabilities. Pixie will use the information on a customer’s phone — including data from Google products like Maps and Gmail — to evolve into a far more personalized version of the Google Assistant, according to one of the people with knowledge of the project. The feature could launch as soon as next year with the Pixel 9 and the 9 Pro, this person said.</p>
+  </blockquote>
+  <p>That Google is readying a super-charged version of the Google Assistant is hardly a surprise; what is notable is the reporting that it will be exclusive to Pixel devices. This is counter to Gemini itself: the Gemini Nano model, which is designed to run on smartphones, will be available to all Android devices with neural processing units like Google’s Tensor G3. That is very much in-line with the post-Maps Google: services are the most valuable when they are available everywhere, and Pixel has a tiny amount of marketshare.</p>
+  <p>That, by extension, makes me think that the “Pixie exclusive to Pixel” report is mistaken, particularly since I’ve been taken in by this sort of thing before. That Google Assistant piece I quote above — <a href="https://stratechery.com/2016/google-and-the-limits-of-strategy/">Google and the Limits of Strategy</a> — interpreted the launch of Google Assistant on Pixel devices as evidence that Google was trying to differentiate its own hardware:</p>
+  <blockquote>
+    <p>Today’s world, though, is not one of (somewhat) standards-based browsers that treat every web page the same, creating the conditions for Google’s superior technology to become the door to the Internet; it is one of closed ecosystems centered around hardware or social networks, and having failed at the latter, Google is having a go at the former. To put it more generously, Google has adopted Alan Kay’s maxim that “People who are really serious about software should make their own hardware.” To that end the company introduced multiple hardware devices, including a new phone, the previously-announced Google Home device, new Chromecasts, and a new VR headset. Needless to say, all make it far easier to use Google services than any 3rd-party OEM does, much less Apple’s iPhone.</p>
+    <p>What is even more interesting is that Google has also introduced a new business model: the Pixel phone starts at $649, the same as an iPhone, and while it will take time for Google to achieve the level of scale and expertise to match Apple’s profit margins, the fact there is unquestionably a big margin built-in is a profound new direction for the company.</p>
+    <p>The most fascinating point of all, though, is how Google intends to sell the Pixel: the Google Assistant is, at least for now, exclusive to the first true Google phone, delivering a differentiated experience that, at least theoretically, justifies that margin. It is a strategy that certainly sounds familiar, raising the question of whether this is a replay of the turn-by-turn navigation disaster. Is Google forgetting that they are a horizontal company, one whose business model is designed to maximize reach, not limit it?</p>
+  </blockquote>
+  <p>My argument was that Google was in fact being logical, for the business model reasons I articulated both in that Article and at the beginning of this year in <a href="https://stratechery.com/2023/ai-and-the-big-five/">AI and the Big Five</a>: simply giving the user the right answer threatened the company’s core business model, which meant it made sense to start diversifying into new ones. And then, just a few months later, Google Assistant <a href="https://stratechery.com/2017/google-assistant-added-to-android-amit-singhal-out-at-uber/">was available to other Android device makers</a>. It was probably the right decision, for the same reason that the company should have never diminished its iOS maps product in favor of Android.</p>
+  <p>And yet, all of the reasoning I laid out for making the Google Assistant a differentiator still hold: AI is a threat to Search for all of the same reasons I laid out in 2016, and Google is uniquely positioned to create the best Assistant. The big potential difference with Pixie is that it might actually be good, and a far better differentiator than the Google Assistant. The reason, remember, is not just about Gemini versus GPT-4: it’s because Google actually sells hardware, and has the infrastructure and data to back it up.</p>
+  <h3 id="googles-true-moonshot">Google’s True Moonshot</h3>
+  <p>Google’s collection of moonshots — from Waymo to Google Fiber to Nest to Project Wing to Verily to Project Loon (and the list goes on) — have mostly been science projects that have, for the most part, served to divert profits from Google Search away from shareholders. Waymo is probably the most interesting, but even if it succeeds, it is ultimately a car service rather far afield from Google’s mission statement “to organize the world’s information and make it universally accessible and useful.”</p>
+  <p>What, though, if the mission statement were the moonshot all along? What if “I’m Feeling Lucky” were not a whimsical button on a spartan home page, but the default way of interacting with all of the world’s information? What if an AI Assistant were so good, and so natural, that anyone with seamless access to it simply used it all the time, without thought?</p>
+  <p>That, needless to say, is probably the only thing that truly scares Apple. Yes, Android has its advantages to iOS, but they aren’t particularly meaningful to most people, and even for those that care — like me — they are not large enough to give up on iOS’s overall superior user experience. The only thing that drives meaningful shifts in platform marketshare are paradigm shifts, and while I doubt the v1 version of Pixie would be good enough to drive switching from iPhone users, there is at least a path to where it does exactly that.</p>
+  <p>Of course Pixel would need to win in the Android space first, and that would mean massively more investment by Google in go-to-market activities in particular, from opening stores to subsidizing carriers to ramping up production capacity. It would not be cheap, which is why it’s no surprise that Google hasn’t truly invested to make Pixel a meaningful player in the smartphone space.</p>
+  <p>The potential payoff, though, is astronomical: a world with Pixie everywhere means a world where Google makes real money from selling hardware, in addition to services for enterprises and schools, and cloud services that leverage Google’s infrastructure to provide the same capabilities to businesses. Moreover, it’s a world where Google is truly integrated: the company already makes the chips, in both its phones and its data centers, it makes the models, and it does it all with the largest collection of data in the world.</p>
+  <p>This path does away with the messiness of complicated relationships with OEMs and developers and the like, which I think suits the company: Google, at its core, has always been much more like Apple than Microsoft. It wants to control everything, it just needs to do it legally; that the best manifestation of AI is almost certainly dependent on a fully integrated (and thus fully seamless) experience means that the company can both control everything and, if it pulls this gambit off, serve everyone.</p>
+  <p>The problem is that the risks are massive: Google would not only be risking search revenue, it would also estrange its OEM partners, all while spending astronomical amounts of money. The attempt to be the one AI Assistant that everyone uses — and pays for — is the polar opposite of the conservative approach the company has taken to the Google Aggregator Paradox. Paying for defaults and buying off competitors is the strategy of a company seeking to protect what it has; spending on a bold assault on the most dominant company in tech is to risk it all.</p>
+  <p>And yet, to simply continue on the current path, folding AI into its current products and selling it via Google Cloud, is a risk of another sort. Google is not going anywhere anytime soon, and Search has a powerful moat in terms of usefulness, defaults, and most critically, user habits; Google Cloud, no matter the scenario, remains an attractive way to monetize Google AI and leverage its infrastructure, and perhaps that will be seen as enough. Where will such a path lead in ten or twenty years, though?</p>
+  <p>Ultimately, this is a question for leadership, and I though Daniel Gross’s observation on this point in <a href="https://stratechery.com/2023/an-interview-with-nat-friedman-and-daniel-gross-about-the-human-component-of-ai/">the recent Stratechery Interview with him and Nat Friedman</a> was insightful:</p>
+  <blockquote>
+    <p>So to me, yeah, does Google figure out how to master AI in the infrastructure side? Feels pretty obvious, they’ll figure it out, it’s not that hard. The deeper question is, on the much higher margin presumably, consumer angle, do they just cede too much ground to startups, Perplexity or ChatGPT or others? I don’t know what the answer is there and forecasting that answer is a little bit hard because it probably literally depends on three or four people at Google and whether they want to take the risk and do it.</p>
+    <p>We definitively know that if the founders weren’t in the story — we could not definitively, but forecast with pretty good odds — that it would just run its course and it would gradually lose market share over time and we’d all sail into a world of agents. However, we saw Sergey Brin as an individual contributor on the Gemini paper and we have friends that work on Gemini and they say that’s not a joke, he is involved day-to-day. He has a tremendous amount of influence, power, and control over Google so if he’s staring at that, together with his co-founder, I do think they could overnight kill a lot of startups, really damage ChatGPT, and just build a great product, but that requires a moment of [founder initiative].</p>
+    <p>It’s possible, it’s just hard to forecast if they will do it or not. In my head, that is the main question that matters in terms of whether Google adds or loses a zero. I think they’ll build the capability, there’s no doubt about it.</p>
+  </blockquote>
+  <p>I agree. Google could build the AI to win it all. It’s not guaranteed they would succeed, but the opportunity is there if they want to go for it. That is the path that would be in the nature of the Google that conquered the web twenty years ago, the Google that saw advertising as the easiest way to monetize what was an unbridled pursuit of self-contained technological capability.</p>
+  <p>The question is if that nature been superceded by one focused on limiting losses and extracting profits; yes, there is still tremendous technological invention, but <a href="https://www.asymco.com/2014/04/16/innoveracy-misunderstanding-innovation/">as Horace Dediu explained on Asymco</a>, that is different than innovation, which means actually making products that move markets. Can Google still do that? Do they want to? Whither Google?</p>
+  <hr class="footnotes" />
+  <ol class="footnotes" style="list-style-type:decimal">
+    <li id="fn1-12087">
+      <p>I do still speak at conferences, but last spoke for pay in January 2017 <a href="https://stratechery.com/2023/googles-true-moonshot/#rf1-12087" class="backlink" title="Return to footnote 1.">↩</a></p>
+    </li>
+  </ol>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2023-12-22</time>
+        <a href="https://nodebe4.github.io/opinion/2023-12-22/Holiday-Break-December-25th-to-January-5th/">
+          Holiday Break: December 25th to January 5th
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-12-21</time>
+        <a href="https://nodebe4.github.io/opinion/2023-12-21/The-2023-Stratechery-Year-in-Review/">
+          The 2023 Stratechery Year in Review
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-12-05</time>
+        <a href="https://nodebe4.github.io/opinion/2023-12-05/Regretful-Accelerationism/">
+          Regretful Accelerationism
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-11-20</time>
+        <a href="https://nodebe4.github.io/opinion/2023-11-20/OpenAI-s-Misalignment-and-Microsoft-s-Gain/">
+          OpenAI’s Misalignment and Microsoft’s Gain
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2023-12-17/%E5%A4%A7%E5%AD%A6%E8%87%AA%E6%B2%BB-%E6%A0%A1%E5%9B%AD%E8%A8%80%E8%AE%BA%E4%B8%8E%E9%87%91%E9%92%B1%E6%94%BF%E6%B2%BB/">
+            前一篇：大学自治、校园言论与金钱政治
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2023-12-18/%E7%9B%B4%E6%92%AD%E9%A0%90%E5%91%8A-2024%E4%B8%AD%E5%9C%8B%E5%B1%95%E6%9C%9B%E6%BC%94%E8%AC%9B%E6%9C%83-%E7%B2%B5%E8%AA%9E-%E9%80%8F%E8%A6%96%E4%B8%AD%E5%9C%8B/">
+            後一篇：【直播預告】2024中國展望演講會（粵語）｜「透視中國」
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2023-12-17/%E5%A4%A7%E5%AD%A6%E8%87%AA%E6%B2%BB-%E6%A0%A1%E5%9B%AD%E8%A8%80%E8%AE%BA%E4%B8%8E%E9%87%91%E9%92%B1%E6%94%BF%E6%B2%BB/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2023-12-18/%E7%9B%B4%E6%92%AD%E9%A0%90%E5%91%8A-2024%E4%B8%AD%E5%9C%8B%E5%B1%95%E6%9C%9B%E6%BC%94%E8%AC%9B%E6%9C%83-%E7%B2%B5%E8%AA%9E-%E9%80%8F%E8%A6%96%E4%B8%AD%E5%9C%8B/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2023-12-21/The-2023-Stratechery-Year-in-Review/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2023-12-05/Regretful-Accelerationism/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2023-12-17/%E5%A4%A7%E5%AD%A6%E8%87%AA%E6%B2%BB-%E6%A0%A1%E5%9B%AD%E8%A8%80%E8%AE%BA%E4%B8%8E%E9%87%91%E9%92%B1%E6%94%BF%E6%B2%BB/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2023-12-18/%E7%9B%B4%E6%92%AD%E9%A0%90%E5%91%8A-2024%E4%B8%AD%E5%9C%8B%E5%B1%95%E6%9C%9B%E6%BC%94%E8%AC%9B%E6%9C%83-%E7%B2%B5%E8%AA%9E-%E9%80%8F%E8%A6%96%E4%B8%AD%E5%9C%8B/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2023-12-21/The-2023-Stratechery-Year-in-Review/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2023-12-05/Regretful-Accelerationism/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

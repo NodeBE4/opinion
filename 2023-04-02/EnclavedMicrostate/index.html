@@ -1,0 +1,2310 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>EnclavedMicrostate在2023-03-27~2023-04-02的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="EnclavedMicrostate在2023-03-27~2023-04-02的言论" />
+    <meta property="twitter:title" content="EnclavedMicrostate在2023-03-27~2023-04-02的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2Fwargaming%2Fcomments%2F122tovi%2Fi_feel_like_a_god_of_freehanding_some_more_15mm%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/wargaming/comments/122tovi/i_feel_like_a_god_of_freehanding_some_more_15mm/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/wargaming/comments/122tovi/i_feel_like_a_god_of_freehanding_some_more_15mm/&text=EnclavedMicrostate在2023-03-27~2023-04-02的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/wargaming/comments/122tovi/i_feel_like_a_god_of_freehanding_some_more_15mm/&title=EnclavedMicrostate在2023-03-27~2023-04-02的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/wargaming/comments/122tovi/i_feel_like_a_god_of_freehanding_some_more_15mm/&title=EnclavedMicrostate在2023-03-27~2023-04-02的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=EnclavedMicrostate在2023-03-27~2023-04-02的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/wargaming/comments/122tovi/i_feel_like_a_god_of_freehanding_some_more_15mm/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/wargaming/comments/122tovi/i_feel_like_a_god_of_freehanding_some_more_15mm/&title=EnclavedMicrostate在2023-03-27~2023-04-02的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=EnclavedMicrostate在2023-03-27~2023-04-02的言论&url=https://old.reddit.com/r/wargaming/comments/122tovi/i_feel_like_a_god_of_freehanding_some_more_15mm/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>EnclavedMicrostate在2023-03-27~2023-04-02的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2023-04-02
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: EnclavedMicrostate</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/wargaming/comments/122tovi/i_feel_like_a_god_of_freehanding_some_more_15mm/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#1161-i-feel-like-a-god-of-freehanding-some-more-15mm-wars-of-the-roses-finished-super-happy-with-them-warwicks-army-submitted-on-2023-03-27-0142360800" id="markdown-toc-1161-i-feel-like-a-god-of-freehanding-some-more-15mm-wars-of-the-roses-finished-super-happy-with-them-warwicks-army-submitted-on-2023-03-27-0142360800">1161: I feel like a god of freehanding. Some more 15mm Wars of the Roses finished! Super happy with them. Warwick’s army., submitted on 2023-03-27 01:42:36+08:00.</a></li>
+  <li><a href="#1162-android-acrylic-accoutrements---weekly-discussion-thread-march-27th-2023-submitted-on-2023-03-28-0127480800" id="markdown-toc-1162-android-acrylic-accoutrements---weekly-discussion-thread-march-27th-2023-submitted-on-2023-03-28-0127480800">1162: Android Acrylic Accoutrements - Weekly Discussion Thread, March 27th, 2023, submitted on 2023-03-28 01:27:48+08:00.</a></li>
+  <li><a href="#1163-an-early-medieval-viking-a-mongol-serving-under-genghis-khan-and-a-samurai-from-the-heian-period-sit-down-and-have-a-chat-what-would-they-each-think-of-each-other-submitted-on-2023-03-28-1652260800" id="markdown-toc-1163-an-early-medieval-viking-a-mongol-serving-under-genghis-khan-and-a-samurai-from-the-heian-period-sit-down-and-have-a-chat-what-would-they-each-think-of-each-other-submitted-on-2023-03-28-1652260800">1163: An Early Medieval Viking, a Mongol serving under Genghis Khan, and a Samurai from the Heian Period sit down and have a chat. What would they each think of each other?, submitted on 2023-03-28 16:52:26+08:00.</a></li>
+  <li><a href="#1164-which-nations-actually-does-have-a-legitimate-historical-claim-to-the-south-china-sea-submitted-on-2023-03-31-2049160800" id="markdown-toc-1164-which-nations-actually-does-have-a-legitimate-historical-claim-to-the-south-china-sea-submitted-on-2023-03-31-2049160800">1164: Which nation(s) actually does have a legitimate historical claim to the South China Sea?, submitted on 2023-03-31 20:49:16+08:00.</a></li>
+  <li><a href="#1165-why-do-so-many-important-cultural-origins-and-people-seem-to-originate-from-around-kazakhstan-and-why-is-it-so-rarely-taught-submitted-on-2023-04-01-0058530800" id="markdown-toc-1165-why-do-so-many-important-cultural-origins-and-people-seem-to-originate-from-around-kazakhstan-and-why-is-it-so-rarely-taught-submitted-on-2023-04-01-0058530800">1165: Why do so many important cultural origins and people seem to originate from around Kazakhstan, and why is it so rarely taught?, submitted on 2023-04-01 00:58:53+08:00.</a></li>
+  <li><a href="#1166-a-brief-and-unimportant-note-from-the-mod-team-about-some-minor-bot-testing-over-the-next-24-to-36-hours-submitted-on-2023-04-01-0450140800" id="markdown-toc-1166-a-brief-and-unimportant-note-from-the-mod-team-about-some-minor-bot-testing-over-the-next-24-to-36-hours-submitted-on-2023-04-01-0450140800">1166: A Brief and Unimportant Note from the Mod Team About Some Minor Bot Testing Over the Next 24 to 36 hours., submitted on 2023-04-01 04:50:14+08:00.</a></li>
+  <li><a href="#1167-how-did-the-creation-of-the-video-game-pong-impact-the-construction-of-the-great-wall-of-china-submitted-on-2023-04-01-0550540800" id="markdown-toc-1167-how-did-the-creation-of-the-video-game-pong-impact-the-construction-of-the-great-wall-of-china-submitted-on-2023-04-01-0550540800">1167: How did the creation of the video game “Pong” impact the construction of the Great Wall of China?, submitted on 2023-04-01 05:50:54+08:00.</a></li>
+  <li><a href="#1168-people-in-history-who-rose-up-to-the-test-despite-their-illnessaffliction-submitted-on-2023-04-01-0919320800" id="markdown-toc-1168-people-in-history-who-rose-up-to-the-test-despite-their-illnessaffliction-submitted-on-2023-04-01-0919320800">1168: People in history who rose up to the test despite their illness/affliction?, submitted on 2023-04-01 09:19:32+08:00.</a></li>
+  <li><a href="#1169-are-there-any-other-known-instances-of-gods-crossing-pantheons-besides-kratos-submitted-on-2023-04-01-1041510800" id="markdown-toc-1169-are-there-any-other-known-instances-of-gods-crossing-pantheons-besides-kratos-submitted-on-2023-04-01-1041510800">1169: Are there any other known instances of Gods crossing pantheons besides Kratos?, submitted on 2023-04-01 10:41:51+08:00.</a></li>
+  <li><a href="#1170-why-were-there-two-byzantine-emperors-named-basil-but-not-a-single-one-named-oregano-submitted-on-2023-04-01-1135280800" id="markdown-toc-1170-why-were-there-two-byzantine-emperors-named-basil-but-not-a-single-one-named-oregano-submitted-on-2023-04-01-1135280800">1170: Why were there two Byzantine Emperors named Basil, but not a single one named Oregano?, submitted on 2023-04-01 11:35:28+08:00.</a></li>
+  <li><a href="#1171-which-egyptian-dynasty-did-yu-gi-oh-take-place-in-submitted-on-2023-04-01-1229540800" id="markdown-toc-1171-which-egyptian-dynasty-did-yu-gi-oh-take-place-in-submitted-on-2023-04-01-1229540800">1171: Which Egyptian dynasty did Yu-Gi-Oh take place in?, submitted on 2023-04-01 12:29:54+08:00.</a></li>
+  <li><a href="#1172-how-did-the-popularity-of-fortnite-impact-the-unification-of-germany-submitted-on-2023-04-01-1416440800" id="markdown-toc-1172-how-did-the-popularity-of-fortnite-impact-the-unification-of-germany-submitted-on-2023-04-01-1416440800">1172: How did the popularity of Fortnite impact the unification of Germany?, submitted on 2023-04-01 14:16:44+08:00.</a></li>
+  <li><a href="#1173-official-discussion-thread---volume-9-episode-7-the-perils-of-paper-houses-submitted-on-2023-04-01-2233320800" id="markdown-toc-1173-official-discussion-thread---volume-9-episode-7-the-perils-of-paper-houses-submitted-on-2023-04-01-2233320800">1173: Official Discussion Thread - Volume 9, Episode 7: The Perils of Paper Houses, submitted on 2023-04-01 22:33:32+08:00.</a></li>
+  <li><a href="#1174-howdy-partners-the-sheriff-lookin-very-cool-in-her-outfit-submitted-on-2023-04-02-0647460800" id="markdown-toc-1174-howdy-partners-the-sheriff-lookin-very-cool-in-her-outfit-submitted-on-2023-04-02-0647460800">1174: Howdy partners! The sheriff lookin very cool in her outfit!, submitted on 2023-04-02 06:47:46+08:00.</a></li>
+  <li><a href="#1175-hobby-scuffles-week-of-april-3-2023-submitted-on-2023-04-02-2302270800" id="markdown-toc-1175-hobby-scuffles-week-of-april-3-2023-submitted-on-2023-04-02-2302270800">1175: [Hobby Scuffles] Week of April 3, 2023, submitted on 2023-04-02 23:02:27+08:00.</a></li>
+</ul>
+
+<h3 id="1161-i-feel-like-a-god-of-freehanding-some-more-15mm-wars-of-the-roses-finished-super-happy-with-them-warwicks-army-submitted-on-2023-03-27-0142360800">1161: <a href="https://old.reddit.com/r/wargaming/comments/122tovi/i_feel_like_a_god_of_freehanding_some_more_15mm/">I feel like a god of freehanding. Some more 15mm Wars of the Roses finished! Super happy with them. Warwick’s army.</a>, submitted on 2023-03-27 01:42:36+08:00.</h3>
+
+<p>—– <strong>1161.1</strong> —–2023-03-29 14:43:43+08:00:</p>
+
+<p>O_O</p>
+
+<p>I tip my hat to you, good sir.</p>
+
+<h3 id="1162-android-acrylic-accoutrements---weekly-discussion-thread-march-27th-2023-submitted-on-2023-03-28-0127480800">1162: <a href="https://old.reddit.com/r/VirtualYoutubers/comments/123tzd8/android_acrylic_accoutrements_weekly_discussion/">Android Acrylic Accoutrements - Weekly Discussion Thread, March 27th, 2023</a>, submitted on 2023-03-28 01:27:48+08:00.</h3>
+
+<p>—– <strong>1162.1</strong> —–2023-03-30 09:16:30+08:00:</p>
+
+<blockquote>
+  <p>I admit that it’s not possible to cater to CN speakers without getting associated with China the country.</p>
+</blockquote>
+
+<p>Cantonese for HK, Hokkien for Taiwan. Done and dusted.</p>
+
+<p>—– <strong>1162.2</strong> —–2023-03-30 09:16:51+08:00:</p>
+
+<p>I mean Bae speaks Cantonese at home, just not on stream.</p>
+
+<p>—– <strong>1162.3</strong> —–2023-03-30 10:54:59+08:00:</p>
+
+<blockquote>
+  <p>Almost all of those are in Taiwan.</p>
+</blockquote>
+
+<p>Maybe it’s my local bias but I feel like it’s a roughly 50/50 HK-TW split, at least historically. This year seems a bit quieter than last.</p>
+
+<h3 id="1163-an-early-medieval-viking-a-mongol-serving-under-genghis-khan-and-a-samurai-from-the-heian-period-sit-down-and-have-a-chat-what-would-they-each-think-of-each-other-submitted-on-2023-03-28-1652260800">1163: <a href="https://old.reddit.com/r/AskHistorians/comments/124ifox/an_early_medieval_viking_a_mongol_serving_under/">An Early Medieval Viking, a Mongol serving under Genghis Khan, and a Samurai from the Heian Period sit down and have a chat. What would they each think of each other?</a>, submitted on 2023-03-28 16:52:26+08:00.</h3>
+
+<p>—– <strong>1163.1</strong> —–2023-03-28 17:38:20+08:00:</p>
+
+<p>Sorry, but your submission has been removed because we <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F">don’t allow hypothetical questions</a>. If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule <a href="https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/">here</a>.</p>
+
+<h3 id="1164-which-nations-actually-does-have-a-legitimate-historical-claim-to-the-south-china-sea-submitted-on-2023-03-31-2049160800">1164: <a href="https://old.reddit.com/r/AskHistorians/comments/127kg6o/which_nations_actually_does_have_a_legitimate/">Which nation(s) actually does have a legitimate historical claim to the South China Sea?</a>, submitted on 2023-03-31 20:49:16+08:00.</h3>
+
+<p>—– <strong>1164.1</strong> —–2023-03-31 21:57:01+08:00:</p>
+
+<p>This submission has been removed because it involves current events.  To keep from discussion of politics, we have a <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events">20-year rule</a> here.  You may want to try /r/ask_politics, /r/NeutralPolitics, or another current-events focused sub. For further explanation of this rule, feel free to consult <a href="https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/">this Rules Roundtable</a>.</p>
+
+<h3 id="1165-why-do-so-many-important-cultural-origins-and-people-seem-to-originate-from-around-kazakhstan-and-why-is-it-so-rarely-taught-submitted-on-2023-04-01-0058530800">1165: <a href="https://old.reddit.com/r/AskHistorians/comments/127rrg8/why_do_so_many_important_cultural_origins_and/">Why do so many important cultural origins and people seem to originate from around Kazakhstan, and why is it so rarely taught?</a>, submitted on 2023-04-01 00:58:53+08:00.</h3>
+
+<p>—– <strong>1165.1</strong> —–2023-04-01 11:34:01+08:00:</p>
+
+<p>A book which I’m surprised has not been brought up by anyone here so far is Scott Levi’s <em>The Bukharan Crisis</em> (2020), which, in brief, <em>demolishes</em> the concept of the ‘Silk Road’ pretty comprehensively. He builds on Hansen to some extent, but his main thrust is that the entire concept of a ‘Silk Road’ is Orientalist scholarship trying to assign special significance to Sino-European overland trade that it fundamentally didn’t have. From a Central Asian perspective, the notion that the region was historically subordinated to the whims of European demand for Chinese goods smacks of a certain sedentary-centrism, and also blatantly ignores Central Asia’s considerable trade links with South Asia, which ‘Silk Road’ models of Eurasian trade flagrantly disregard. Granted, he’s coming at this from specifically an Early Modern standpoint, rather than the medieval one which ‘Silk Road’ discussions usually come framed in, but this too is, he notes, problematic – overland trade didn’t suddenly stop at some point, indeed it <em>intensified</em> as maritime links between Europe and Asia became strengthened. It’s been very influential on my own thinking and it’s why I pretty consistently try to put up big asterisks whenever a ‘Silk Road’ discussion comes up on the sub.</p>
+
+<p>—– <strong>1165.2</strong> —–2023-04-01 17:10:09+08:00:</p>
+
+<p>I can’t speak for anyone but myself, but it was definitely not a slow read for me! Also, unlike a lot of books, it actually has the footnotes <em>on the page</em>, which means you get all of the little snarky comments…</p>
+
+<p>—– <strong>1165.3</strong> —–2023-04-01 17:13:30+08:00:</p>
+
+<p>Speaking from a Qing perspective, the Qing did appropriate Chinese dynastic historiographical orthodoxy to a great extent, primarily though not exclusively within China. For instance, it’s notable that in the 1790s, the Qianlong Emperor cited both the Yuan and Ming states as (negative) historical exemplars in justifying increased oversight over succession to office within the Tibetan clergy. But for the most part, the appropriation of Chinese historiographical orthodoxy applied <em>within China proper</em>, rather than in Inner Asia. So the modern Chinese appeal to the dynastic succession is based on a different interpretation of that succession than the Mongols and the Manchus would have understood.</p>
+
+<p>—– <strong>1165.4</strong> —–2023-04-01 19:43:47+08:00:</p>
+
+<p>So, to address the three in turn:</p>
+
+<ol>
+  <li>
+    <p>The <em>network</em> is not defined by a single directional interaction. If you’re trying to describe a <em>network</em> based on the movement of a single commodity in a single direction, you are not describing the network as a whole, you are describing a feature of the network.</p>
+  </li>
+  <li>
+    <p>By focussing on a single commodity in a single direction, you are <em>no longer talking about the network</em>. You are, to put it another way, talking <em>over</em> the network. You are <em>choosing</em> to make Europe and Asia the absentee protagonists of Central Asian history.</p>
+  </li>
+  <li>
+    <p>By emphasising the ‘Silk Road’ specifically, you <em>aren’t looking at the network</em>, because the land trade network and the sea trade network were parts of the same fundamental network.</p>
+  </li>
+</ol>
+
+<p>If I were to summarise the narrative thrust here, it’s that the ‘Silk Road’ is not the story of a network, it is a cherry-picked story taken from a network, that actively elides the rest of the network by asserting the primacy of that specific story within it.</p>
+
+<p>I also feel I must also overrule /u/DanKensington slightly because the name is also problematic. It’s a name coined by a German in the 1890s to describe a particular route described in a particular source, that was then conflated out to a wide variety of contexts well beyond what that original German was going for, as noted in the linked post.</p>
+
+<p>—– <strong>1165.5</strong> —–2023-04-01 21:51:12+08:00:</p>
+
+<p>Precisely. There’s nothing special about the ‘Silk Road’ within medieval Eurasia, let alone within the broader spatial and temporal scope of human history.</p>
+
+<p>—– <strong>1165.6</strong> —–2023-04-01 23:27:46+08:00:</p>
+
+<blockquote>
+  <p>I guess to me using the overland silk trade between Europe and China as a shorthand to describe the exchange as a whole is akin to using, I dunno, the transatlantic slave trade to represent slavery in the early-modern period.</p>
+</blockquote>
+
+<p>I’m going to push back on this point, because it isn’t even comparable from a scale perspective. The coincidental movement of luxury goods from east to west across Central Asia was not even the largest component of Central Asian trade. For a glib analogy it’d be like saying Paris is particularly significant for being on the rail line from Calais to Marseille. It <em>is</em> on the rail line from Calais to Marseilles, but that linkage is hardly the defining feature that makes Paris what it is. The discarding of the ‘Silk Road’ is being proposed in order to actually understand the multifaceted relationships between Central Asia as a region and its neighbours, rather than centring its history away towards entities at its fringe.</p>
+
+<h3 id="1166-a-brief-and-unimportant-note-from-the-mod-team-about-some-minor-bot-testing-over-the-next-24-to-36-hours-submitted-on-2023-04-01-0450140800">1166: <a href="https://old.reddit.com/r/AskHistorians/comments/127yw7e/a_brief_and_unimportant_note_from_the_mod_team/">A Brief and Unimportant Note from the Mod Team About Some Minor Bot Testing Over the Next 24 to 36 hours.</a>, submitted on 2023-04-01 04:50:14+08:00.</h3>
+
+<p>—– <strong>1166.1</strong> —–2023-04-01 15:23:38+08:00:</p>
+
+<p>No. Don’t confuse HistoryBot!</p>
+
+<h3 id="1167-how-did-the-creation-of-the-video-game-pong-impact-the-construction-of-the-great-wall-of-china-submitted-on-2023-04-01-0550540800">1167: <a href="https://old.reddit.com/r/AskHistorians/comments/1280sog/how_did_the_creation_of_the_video_game_pong/">How did the creation of the video game “Pong” impact the construction of the Great Wall of China?</a>, submitted on 2023-04-01 05:50:54+08:00.</h3>
+
+<p>—– <strong>1167.1</strong> —–2023-04-01 08:50:34+08:00:</p>
+
+<p>This is a surprisingly rich story, involving three court ministers, Ping, Pong, and Pang, in the time of the emperor Altoum. Now, Altoum is not exactly a very Chinese name, and there is a reason for that – the events in question took place during the short-lived Western Yi Dynasty, a brief and obscure period principally known through the private chronicle of 普只尼, established by an Inner Asian tribe of uncertain origin. Like many states in China founded by Inner Asian polities, the ruling dynasty in turn found itself at threat from the steppe that it had left behind, as new tribes emerged to fill the gap. By Altoum’s time, this was becoming dire, as the collapse of the Tartarian Empire of Tamerlane had created fierce competition in the steppe that threatened to spill into his territories, and the emperor struggled with the problem of how to explain to these roaming nomads that his nice neat border was not to be traversed.</p>
+
+<p>It was around this time that Ping, Pong, and Pang were working on the development of a new sport that could be played in a limited space. In its first iteration, three players would circle around a round table carrying frying pans, which they would use to hit a ball across the table between them. A pass was only valid if the ball bounced once, but if it missed the table or bounced twice, the player who had just attempted to pass had lost, and the player who had last passed to them had won.</p>
+
+<p>This was deemed somewhat unwieldy, and so gradually there was a shift towards wooden paddles for convenience, followed by a more radical step of replacing the round table with a rectangular one with a net across the middle, and changing the game to one of two players. Pang, unfortunately, tended to be the one left to referee at the side. This was to have rather unfortunate consequences in the long term, but more immediately, when the game was completed, Ping and Pong chose to publicise the game without crediting Pang. Henceforth, it was to be known as The Game of Ping and Pong, or merely Ping-Pong for short.</p>
+
+<p>But Ping appears not to have reckoned that his connivance with Pong would later backfire on him. Pong had come to discover the remarkable bounciness of steel against steel, and privately developed his own variant of Ping-Pong in a small frame, with one sliding block on each side that would be used to deflect a steel ball, initially actuated using a springloaded mechanism. Pong then took his invention to the court without Ping, presenting it as The Game of Pong, which he invited the emperor to try.</p>
+
+<p>As the game progressed, however, Altoum noted that it was odd that there was a line across the middle of the Pong board, that seemed to serve no useful purpose. He had, however, heard rumours of a Game of Ping and Pong where the table had a central net that could catch the ball mid-flight, and was curious about whether that had influenced the line’s inclusion. Sensing possible danger should he give the wrong answer, Pong improvised: the point of the Game of Pong was not merely sport, but indeed a philosophical tool, intended to teach the lesson that the mere drawing of a line does not, in itself, affect the physical world.</p>
+
+<p>This proved to be an apt statement, as Altoum appears to have had a eureka moment at that point, realising that the mere existence of a border would not stop raiding; he needed to actively prohibit movement. He needed to build a wall. And so it was that the Game of Pong led to the construction of a (not quite <em>the</em>) great wall in northern China.</p>
+
+<p>But there is, however, a tragicomic coda to all this. Pang, jilted by his former friends, stole Pong’s research into steel elasticity, and travelled into the steppe, where he made contact with the Muslim warlord A’Tari, bringing with him a proposal for a new siege engine. A steel ball, initially launched by a catapult, would be repeatedly reflected against a large steel plate, allowing a wall to slowly be worn down, brick by brick. Unfortunately, a lack of access to sufficient steel meant that in practice, instead of a plate large enough to reflect the ball consistently, there was instead a smaller plate that would have to be moved by gantry to meet the ball every time it bounced off the target wall. Any failure to intercept the ball as it rolled back could be fatal to the operators, and it was deemed that any more than three lives lost in this way meant the siege should be called off.</p>
+
+<p>And so it was that Pang, the forgotten colleague of Ping and Pong, invented Breakout.</p>
+
+<h3 id="1168-people-in-history-who-rose-up-to-the-test-despite-their-illnessaffliction-submitted-on-2023-04-01-0919320800">1168: <a href="https://old.reddit.com/r/AskHistorians/comments/1286tpc/people_in_history_who_rose_up_to_the_test_despite/">People in history who rose up to the test despite their illness/affliction?</a>, submitted on 2023-04-01 09:19:32+08:00.</h3>
+
+<p>—– <strong>1168.1</strong> —–2023-04-01 14:48:19+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="1169-are-there-any-other-known-instances-of-gods-crossing-pantheons-besides-kratos-submitted-on-2023-04-01-1041510800">1169: <a href="https://old.reddit.com/r/AskHistorians/comments/1288qri/are_there_any_other_known_instances_of_gods/">Are there any other known instances of Gods crossing pantheons besides Kratos?</a>, submitted on 2023-04-01 10:41:51+08:00.</h3>
+
+<p>—– <strong>1169.1</strong> —–2023-04-01 11:29:21+08:00:</p>
+
+<p>If this was an April Fool’s post, we regret to inform you that only our patented HistoryBot(TM) is permitted to post questions about unconventional historical connections.</p>
+
+<h3 id="1170-why-were-there-two-byzantine-emperors-named-basil-but-not-a-single-one-named-oregano-submitted-on-2023-04-01-1135280800">1170: <a href="https://old.reddit.com/r/AskHistorians/comments/1289y55/why_were_there_two_byzantine_emperors_named_basil/">Why were there two Byzantine Emperors named Basil, but not a single one named Oregano?</a>, submitted on 2023-04-01 11:35:28+08:00.</h3>
+
+<p>—– <strong>1170.1</strong> —–2023-04-01 11:40:45+08:00:</p>
+
+<p>If this was an April Fool’s post, we regret to inform you that only our patented HistoryBot(TM) is permitted to post questions about unconventional historical connections today, to avoid inadvertent contamination.</p>
+
+<h3 id="1171-which-egyptian-dynasty-did-yu-gi-oh-take-place-in-submitted-on-2023-04-01-1229540800">1171: <a href="https://old.reddit.com/r/AskHistorians/comments/128b4vp/which_egyptian_dynasty_did_yugioh_take_place_in/">Which Egyptian dynasty did Yu-Gi-Oh take place in?</a>, submitted on 2023-04-01 12:29:54+08:00.</h3>
+
+<p>—– <strong>1171.1</strong> —–2023-04-01 14:47:36+08:00:</p>
+
+<p>If this was an April Fool’s post, we regret to inform you that only our patented HistoryBot(TM) is permitted to post questions about unconventional historical connections today, to avoid inadvertent contamination.</p>
+
+<h3 id="1172-how-did-the-popularity-of-fortnite-impact-the-unification-of-germany-submitted-on-2023-04-01-1416440800">1172: <a href="https://old.reddit.com/r/AskHistorians/comments/128dbkd/how_did_the_popularity_of_fortnite_impact_the/">How did the popularity of Fortnite impact the unification of Germany?</a>, submitted on 2023-04-01 14:16:44+08:00.</h3>
+
+<p>—– <strong>1172.1</strong> —–2023-04-01 14:47:54+08:00:</p>
+
+<p>If this was an April Fool’s post, we regret to inform you that only our patented HistoryBot(TM) is permitted to post questions about unconventional historical connections today, to avoid inadvertent contamination.</p>
+
+<h3 id="1173-official-discussion-thread---volume-9-episode-7-the-perils-of-paper-houses-submitted-on-2023-04-01-2233320800">1173: <a href="https://old.reddit.com/r/RWBY/comments/128o5wb/official_discussion_thread_volume_9_episode_7_the/">Official Discussion Thread - Volume 9, Episode 7: The Perils of Paper Houses</a>, submitted on 2023-04-01 22:33:32+08:00.</h3>
+
+<p>—– <strong>1173.1</strong> —–2023-04-02 13:38:31+08:00:</p>
+
+<p>In my read at least, she wasn’t mocking the death itself, she was mocking Jaune’s attitude towards the Paper Pleasers, but I’ll grant that there was a mockery involved.</p>
+
+<h3 id="1174-howdy-partners-the-sheriff-lookin-very-cool-in-her-outfit-submitted-on-2023-04-02-0647460800">1174: <a href="https://old.reddit.com/r/Hololive/comments/1291kwt/howdy_partners_the_sheriff_lookin_very_cool_in/">Howdy partners! The sheriff lookin very cool in her outfit!</a>, submitted on 2023-04-02 06:47:46+08:00.</h3>
+
+<p>—– <strong>1174.1</strong> —–2023-04-02 09:04:00+08:00:</p>
+
+<p>I’m gonna say that if it’s lever-action, then it’s basically a Martini-Henry-style lever with a relatively small tab currently concealed by her hand, rather than a Henry/Winchester-style large ring lever that the whole hand fits into.</p>
+
+<h3 id="1175-hobby-scuffles-week-of-april-3-2023-submitted-on-2023-04-02-2302270800">1175: <a href="https://old.reddit.com/r/HobbyDrama/comments/129nsy0/hobby_scuffles_week_of_april_3_2023/">[Hobby Scuffles] Week of April 3, 2023</a>, submitted on 2023-04-02 23:02:27+08:00.</h3>
+
+<p>—– <strong>1175.1</strong> —–2023-04-03 00:36:23+08:00:</p>
+
+<p>It’s the 3rd where I am, ergo no.</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2023-04-03</time>
+        <a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">
+          EnclavedMicrostate在2023-04-03~2023-04-09的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-04-02</time>
+        <a href="https://nodebe4.github.io/opinion/2023-04-02/Spinkcat/">
+          Spinkcat在2023-03-27~2023-04-02的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-04-01</time>
+        <a href="https://nodebe4.github.io/opinion/2023-04-01/theoryofdoom/">
+          theoryofdoom在2023-03-27~2023-04-02的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-03-30</time>
+        <a href="https://nodebe4.github.io/opinion/2023-03-30/ForeignAffairsMag/">
+          ForeignAffairsMag在2023-03-27~2023-04-02的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2023-04-01/theoryofdoom/">
+            前一篇：theoryofdoom在2023-03-27~2023-04-02的言论
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2023-04-02/HeQinglian/">
+            後一篇：Twitter @He Qinglian: 2023-03-27~2023-04-02
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2023-04-01/theoryofdoom/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2023-04-02/HeQinglian/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2023-04-02/Spinkcat/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2023-04-01/theoryofdoom/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2023-04-01/theoryofdoom/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2023-04-02/HeQinglian/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2023-04-02/Spinkcat/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2023-04-01/theoryofdoom/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

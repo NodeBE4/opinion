@@ -1,0 +1,3021 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>The Cicilline Salvo – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+The Cicilline Salvo
+——
+" />
+    <meta property="og:description" content="
+The Cicilline Salvo
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="The Cicilline Salvo" />
+    <meta property="twitter:title" content="The Cicilline Salvo" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2021%2Fthe-cicilline-salvo%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2021/the-cicilline-salvo/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2021/the-cicilline-salvo/&text=The Cicilline Salvo&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2021/the-cicilline-salvo/&title=The Cicilline Salvo" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2021/the-cicilline-salvo/&title=The Cicilline Salvo" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=The Cicilline Salvo&body=
+The Cicilline Salvo
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2021/the-cicilline-salvo/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2021/the-cicilline-salvo/&title=The Cicilline Salvo&caption=
+The Cicilline Salvo
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=The Cicilline Salvo&url=https://stratechery.com/2021/the-cicilline-salvo/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>The Cicilline Salvo</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2021-06-15
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2021/the-cicilline-salvo/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1623758060000-->
+<p><a href="https://stratechery.com/2021/the-cicilline-salvo/">The Cicilline Salvo</a>
+——</p>
+
+<div>
+  <p>From the <a href="https://www.wsj.com/articles/amazon-other-tech-giants-could-be-forced-to-shed-assets-under-house-bill-11623423248">Wall Street Journal</a>:</p>
+  <blockquote>
+    <p>House lawmakers proposed a raft of bipartisan legislation aimed at reining in the country’s biggest tech companies, including a bill that seeks to make Amazon.com Inc. and other large corporations effectively split in two or shed their private-label products. The bills, announced Friday, amount to the biggest congressional broadside yet on a handful of technology companies — including Alphabet Inc.’s Google, Apple Inc. and Facebook Inc. FB 1.66% as well as Amazon — whose size and power have drawn growing scrutiny from lawmakers and regulators in the U.S. and Europe. If the bills become law—a prospect that faces significant hurdles—they could substantially alter the most richly valued companies in America and reshape an industry that has extended its impact into nearly every facet of work and life.</p>
+  </blockquote>
+  <p>These bills are the ultimate outcome of the House Subcommittee on Antitrust’s investigation of tech companies that I have covered on Stratechery, including <a href="https://stratechery.com/2020/antitrust-politics/">the hearing with the CEOs of Apple, Amazon, Google, and Facebook</a>, and <a href="https://stratechery.com/2020/anti-monopoly-vs-antitrust/">the ensuing report</a>.</p>
+  <p>One of the bills — the <a href="https://cicilline.house.gov/sites/cicilline.house.gov/files/documents/Merger%20Filing%20Fee%20Modernization%20Act%20of%202021%20-%20Bill%20Text%20%281%29.pdf">Merger Filing Fee Modernization Act</a> — is a straightforward increase in the filing fees for mergers (and tying said fees to inflation), meant to finance more in-depth review of said mergers. <a href="https://stratechery.com/2019/where-warrens-wrong/">I agree</a> that mergers ought to be an increased focus of regulators, and support this bill.</p>
+  <h4 id="definitions">Definitions</h4>
+  <p>The other four, meanwhile, vary in radicalness — and at times conflict with each other — but take care to target the same set of companies, specifically:</p>
+  <ul>
+    <li>Companies with at least 50 million US-based monthly active users or at least 100,000 U.S.-based monthly active business users (defined as businesses operating on the platform) and:</li>
+    <li>Companies with net annual sales of or market capitalization greater than $600 billion, adjusted for inflation and:</li>
+    <li>Companies that are “a critical trading partner for the sale or provision of any product or service offered on or directly related to the online platform.”</li>
+  </ul>
+  <p>“Critical trading partner” is defined as follows:</p>
+  <blockquote>
+    <p>“The term “critical trading partner” means a trading partner that has the ability to restrict or impede:<br /> (A) the access of a business user to its users or customers; or<br /> (B) the access of a business user to a tool or service that it needs to effectively serve its users or customers</p>
+  </blockquote>
+  <p>“Online platform” means:</p>
+  <blockquote>
+    <p>A website, online or mobile application, operating system, digital assistant, or online service that:<br /> (A) enables a user to generate content that can be viewed by other users on the platform or to interact with other content on the platform;<br /> (B) facilitates the offering, sale, purchase, payment, or shipping of goods or services, including software applications, between and among consumers or businesses not controlled by the platform; or<br /> (C) enables user searches or queries that access or display a large volume of information.</p>
+  </blockquote>
+  <p>The bill is obviously targeting the aforementioned big four consumer tech companies, but Microsoft, despite not being a target of the subcommittee, clearly falls under the definition. There may be more covered companies as well, if not now then in the near future:</p>
+  <ul>
+    <li>Visa has a market cap of $515 billion, and processes $11 trillion in payments. Obviously the vast majority of those payments go to merchants, and the largest portion of credit card fees go to banks, but “net annual sales” is not clearly limited to a company’s actual revenue; meanwhile, the company is clearly covered under the second definition of an online platform (Mastercard has a market cap of $363 billion).</li>
+    <li>JPMorgan Chase has a market cap of $477 billion and total assets of $3.7 trillion. Obviously the bank would argue it is not an “online platform” and that “net annual sales” is different than assets, but the former in particular seems like a questionable distinction.</li>
+    <li>Walmart has a market cap of $394 billion and a gross merchandise volume (GMV) of around $439 billion and is estimated to have 80,000 marketplace sellers, up from 50,000 a year ago.</li>
+    <li>PayPal has a market cap of $323 billion and total payment volume of $277 billion, up 39% year-over-year.</li>
+    <li>Shopify has a market cap of $162 billion and GMV of $119 billion, which nearly doubled year-over-year.</li>
+  </ul>
+  <p>At a minimum “net annual sales” needs to be more clearly defined: is it total payment volume, gross merchandise value, or company revenue? And what specifically makes something an online platform — and why do we care about the difference?</p>
+  <h4 id="the-four-bills">The Four Bills</h4>
+  <p>Here is what each of the four bills covers, presented in the order they are listed on <a href="https://cicilline.house.gov/press-release/house-lawmakers-release-anti-monopoly-agenda-stronger-online-economy-opportunity">Antitrust Subcommittee Chairman David Cicilline’s press release</a>:<sup id="rf1-6592"><a href="https://stratechery.com/2021/the-cicilline-salvo/#fn1-6592" title="I am linking to each of the bills in question; at times my language will be the exact same as the bill in question — they are bills that are appropriately defining what they do — but I am not using quotation marks for the sake of readability" rel="footnote">1</a></sup></p>
+  <p><strong>American Innovation and Choice Online Act</strong> <em><a href="https://cicilline.house.gov/sites/cicilline.house.gov/files/documents/American%20Innovation%20and%20Choice%20Online%20Act%20-%20Bill%20Text.pdf">link</a></em></p>
+  <p>This bill, sponsored by Cicilline (D-RI) and co-sponsored by Lance Gooden (R-TX), bans covered platforms from giving an advantage to their own products, services, and lines of business over competitors; disadvantaging competing products, services, and lines of business; or discriminating between similarly situated business users. It further:</p>
+  <ul>
+    <li>Bars any restrictions on interoperability that do not similarly apply to the platform owner</li>
+    <li>Explicitly bans tying (i.e. conditioning the use of one product on use of another)</li>
+    <li>Bans the use of data about the activities of third-party businesses to improve the platform’s own product</li>
+    <li>Forbids the platform from restricting the right of third-party businesses to use their own data generated on the platform</li>
+    <li>Requires platform owners to allow users to uninstall pre-installed applications and change defaults</li>
+    <li>Bans anti-steering provisions (i.e. Spotify being able to tell iOS users to subscribe online or link to the web)</li>
+    <li>Restricts the platform owner from treating the platform’s own products differently in search or rankings</li>
+    <li>Restricts the platform owner from controlling a business user’s pricing</li>
+    <li>Restricts the platform owner from limiting a business user’s interoperability</li>
+    <li>Bans retaliation by the platform owner against any business user that raises concerns with regulators</li>
+  </ul>
+  <p>The bill does provide a privacy exception: actions that violate the above provisions can be legal if the platform owner can prove they were necessary to preserve user privacy while being narrowly tailored, non-discriminatory, and nonpretextual.</p>
+  <p>The bill also allows regulators to force the divesture of lines of business if it determines that said line of business presents a conflict of interest that leads to violation of this act.</p>
+  <p><strong>Platform Competition and Opportunity Act</strong> <em><a href="https://cicilline.house.gov/sites/cicilline.house.gov/files/documents/Platform%20Competition%20and%20Opportunity%20Act%20-%20Bill%20Text%20%281%29.pdf">link</a></em></p>
+  <p>This bill, sponsored by Hakeem Jeffries (D-NY) and co-sponsored by Ken Buck (R-CO), completely bans acquisitions by covered companies, unless the acquiring company proves that:</p>
+  <ul>
+    <li>The acquired company does not compete with the platform in any way and:</li>
+    <li>Does not provide potential competition for the platform in any way and:</li>
+    <li>Does not enhance the platform’s offering in any way.</li>
+  </ul>
+  <p>For good measure the act includes “user attention” as one of the vectors of competition; like I said, it bans all acquisitions.</p>
+  <p><strong>Ending Platform Monopolies Act</strong> <em><a href="https://cicilline.house.gov/sites/cicilline.house.gov/files/documents/Ending%20Platform%20Monopolies%20-%20Bill%20Text.pdf">link</a></em></p>
+  <p>This bill, sponsored by Pramila Jayapal (D-WA) and co-sponsored by Lance Gooden (R-TX), is in many respects a repeat of the <em>American Innovation and Choice Online Act</em>, but instead of banning discriminatory behavior it simply bans platforms from owning any product or service that rest on top of its platform and compete with 3rd-parties in any way. The provision is as broad as it sounds, which is interesting to think about in a historical context: operating systems used to sell the networking stack separately — would it be illegal now for iOS to include TCP/IP? That’s just one obvious example of how this bill would quickly devolve into product design by the judiciary.</p>
+  <p><strong>Augmenting Compatibility and Competition by Enabling Service Switching (ACCESS) Act</strong> <em><a href="https://cicilline.house.gov/sites/cicilline.house.gov/files/documents/ACCESS%20Act%20-%20Bill%20Text%20%281%29.pdf">link</a></em></p>
+  <p>This bill, sponsored by Mary Gay Scanlon (D-PA) and co-sponsored by Burgess Owens (R-UT), mandates API-driven data portability and interoperability, subject to “privacy and security standards for access by competing businesses or potential competing businesses to the extent reasonably necessary to address a threat to the covered platform or user data.” Platforms will have to petition the Federal Trade Commission (FTC) to make any changes to their interoperability interface. The FTC, meanwhile, will establish technical committees to enforce the measure with a clear charge to reduce network effects while establishing data security and privacy protections.</p>
+  <p>I am encouraged that this bill, <a href="https://stratechery.com/2017/the-gdpr-and-facebook-and-google-intelligent-tracking-prevention-data-portability-and-social-graphs/">unlike the GDPR</a>, does not explicitly limit the sharing of information like a user’s contacts; at the same time, it doesn’t explicitly allow it either. This is the most important issue in terms of <a href="https://stratechery.com/2021/the-webs-missing-interoperability/">The Web’s Missing Interoperability</a>: photos from five years ago aren’t what is keeping people on a particularly platform; their relationships are, and true portability and interoperability mean the social graph.</p>
+  <h4 id="cicillines-anchoring-strategy">Cicilline’s Anchoring Strategy</h4>
+  <p>I don’t think it is an accident that these bills were presented as a package, but I think it has been a mistake in a lot of coverage to view the package as one bill. It seems to me that Chairman Cicilline has played his cards very deftly here: start with the fact that while every bill was authored by a Democrat, they all have a Republican co-sponsor; if some combination of these regulations pass they will likely be with overwhelmingly Democratic support, but the fact they are starting out as nominally bi-partisan efforts is savvy.</p>
+  <p>The real tell about Cicilline’s strategy, though, is the seeming contradictions between his own bill and that of Representative Jayapal. Cicilline seeks to restrict platforms from behaving in non-discriminatory ways, with the threat of break-up if they don’t, while Jayapal jumps straight to break-up. This strikes me as an anchoring strategy: Jayapal’s approach is both unworkable and undesirable — it leaves the FTC and ultimately the courts as the ultimate arbiter of what is part of a core platform’s offering and what rests on top, and not only does that evolve as technology matures, it also makes it impossible to deliver an experience that is approachable for regular consumers. As I noted above, is a networking stack part of an operating system? Is a browser? Is an App Store? Moreover, Jayapal’s bill, if enacted, makes Cicilline’s bill immaterial: there would be nothing to discriminate against.</p>
+  <p>That’s why I suspect that Cicilline’s goal is to stake out the most extreme position — the Jayapal bill — with the goal of getting his own bill passed as a compromise, perhaps with Scanlon’s as well. Certainly the tech industry would be right to push back against not only Jayapal’s bill but also Jeffries anti-acquisition bill; I explained in <a href="https://stratechery.com/2020/first-do-no-harm/">First, Do No Harm</a> why a blanket ban on acquisitions would be so destructive to the Silicon Valley ecosystem and consumer welfare.</p>
+  <h4 id="platforms-and-integration">Platforms and Integration</h4>
+  <p>That is also why I gave the most detailed overview of Cicilline’s bill: if anything passes Congress this is likely to be a starting point, and it has a lot of compelling points. What is notable is that while there are a couple of provisions clearly targeted at Google, the company most clearly impacted is Apple (and Android). I think this is appropriate: as I have argued repeatedly on Stratechery, including in <a href="https://stratechery.com/2019/a-framework-for-regulating-competition-on-the-internet/">A Framework for Regulating Competition on the Internet</a>, platforms are in more pressing need of regulation than are Aggregators:</p>
+  <blockquote>
+    <p>This is where the distinction between platforms and Aggregators is critical. Platforms are the most powerful economic and innovation engines in technology: they create the possibility for products that never existed previously, and are the foundation for huge amounts of innovation. It is in the interest of society that there be more and larger platforms, not fewer and smaller.</p>
+    <p>At the same time, the danger of platform abuse is significantly greater, because users and 3rd-party developers have no other alternative. That means that not only are anticompetitive actions unfair to products that already exist, they also foreclose the creation of an untold number of new products. To that end, regulators should simultaneously encourage the formation of new platforms while ensuring those platforms do not abuse their position.</p>
+  </blockquote>
+  <p>Regulations on tying, defaults, anti-steering provisions, control of pricing and interoperability, and most of the other parts of Cicilline’s bill are about restricting platforms from exercising the total control entailed by owning the APIs third-parties need to exist; Aggregators, which win by controlling demand, already have built-in pressure release valves given the fact that competition is a URL away.</p>
+  <p>That’s not to say that Cicilline’s approach doesn’t have its own downsides: the <em>American Innovation and Choice Online Act</em> would make it much more difficult to deliver an integrated product that appeals to customers by being easier-to-use, and make it more difficult to bring new technologies to market if every improvement has to be accessible to everyone on the platform. This is the exact danger I wrote about last week in <a href="https://stratechery.com/2021/integrated-apple-and-app-store-risk/">Integrated Apple and App Store Risk</a>:</p>
+  <blockquote>
+    <p>One of the central planks of many of those pushing for new laws in this area are significant limitations on the ability of platforms to offer apps and services, or integrate them in any way that advantages their offerings. In this potential world it’s not simply problematic that Apple charges Spotify 30%, or else forces the music streaming service to hope that users figure out how to subscribe on the web, even as Apple Music has a fully integrated sign-up flow and no 30% tax; it is also illegal to incorporate Apple Music into SharePlay or Shared-with-you or Photos, or in the most extreme versions of these proposed laws, even have Apple Music at all. This limitation would apply to basically every WWDC announcement: say good-bye to Quick Note or SharePlay-as-an-exclusive-service, or any number of Apple’s integrated offerings.</p>
+    <p>I think these sorts of limitations would be disappointing as a user — integration really does often lead to better outcomes sooner — and would be a disaster for Apple. The entire company’s differentiation is predicated on integration, including its ability to abuse its App Store position, and it would be a huge misstep if the inability to resist the latter imperiled the former.</p>
+    <p>This, more than anything, is why Apple should rethink its approach to the App Store. The deeper the company integrates, the more unfair its arbitrary limits on competing services will be. Isn’t it enough that Spotify will never be as integrated as Apple Music, or that 1Password will not be built-in like Keychain, or that SimpleNote will only ever be in its sandbox while Apple Notes is omnipresent? Apple, by virtue of building the underlying platform, has every advantage in the world when it comes to offering additional apps and services, and the company at its best leverages that advantage to create experiences that users love; in this view demanding 30% and total control of the users of its already diminished competition isn’t simply anticompetitive, it is risking what makes the company unique.</p>
+  </blockquote>
+  <p>These risks just took a step towards becoming a reality; Apple’s insistence that it not only give its services an advantage but also tax its competitors means that both are at risk.</p>
+  <p>The other company that deserves opprobrium is Amazon: while I agree that it is silly that Amazon’s private label service is being held to some sort of higher standard than <a href="https://twitter.com/AlecStapp/status/1403426573043257344">its retail competitors</a>, particularly given the clear consumer benefits from private labels, Brad Stone’s <a href="https://stratechery.com/2021/an-interview-with-brad-stone-about-amazon-unbound/">compelling account</a> in <a href="https://www.simonandschuster.com/books/Amazon-Unbound/Brad-Stone/9781982132613">Amazon Unbound</a> of how Amazon prioritized revenue over customer satisfaction in search — particularly in terms of advertising, but also its private labels — is an example of where pursuing short term business gains risked long term repercussions.</p>
+  <h4 id="the-end-of-the-beginning">The End of the Beginning</h4>
+  <p>I am, as a rule, wary of regulation: unintended consequences always loom large, particularly in an industry as dynamic as tech. Then again, tech hasn’t necessarily been that dynamic as of late: the big five companies today are the same big five companies as a decade ago, and change does not appear to be on the horizon. From <a href="https://stratechery.com/2020/the-end-of-the-beginning/">The End of the Beginning</a>:</p>
+  <blockquote>
+    <p>What is notable is that the current environment appears to be the logical endpoint of all of these changes: from batch-processing to continuous computing, from a terminal in a different room to a phone in your pocket, from a tape drive to data centers all over the globe. In this view the personal computer/on-premises server era was simply a stepping stone between two ends of a clearly defined range.</p>
+    <p>The implication of this view should at this point be obvious, even if it feels a tad bit heretical: there may not be a significant paradigm shift on the horizon, nor the associated generational change that goes with it. And, to the extent there are evolutions, it really does seem like the incumbents have insurmountable advantages: the hyperscalers in the cloud are best placed to handle the torrent of data from the Internet of Things, while new I/O devices like augmented reality, wearables, or voice are natural extensions of the phone.</p>
+  </blockquote>
+  <p>To the extent this is true (and <a href="https://stratechery.com/2021/internet-3-0-and-the-beginning-of-tech-history/">the intrusion of politics may make it less so</a>) it argues for regulation, but of a particular sort: I think it is fruitless for lawmakers to try and create the conditions for direct competitors to Google Search or iOS or AWS. The goal should not be to engender competition with platforms and services that have overwhelming advantages in the current paradigm, but rather to make sure that today’s winners don’t have unfair advantages in owning the future, or restricting what can be built on top of their platforms. That today’s winners haven’t had the grace to compete for said future fairly means they are ultimately responsible that these sort of blunt infringements on their businesses are now a matter of negotiation, not just theory.</p>
+  <hr class="footnotes" />
+  <ol class="footnotes" style="list-style-type:decimal">
+    <li id="fn1-6592">
+      <p>I am linking to each of the bills in question; at times my language will be the exact same as the bill in question — they are bills that are appropriately defining what they do — but I am not using quotation marks for the sake of readability <a href="https://stratechery.com/2021/the-cicilline-salvo/#rf1-6592" class="backlink" title="Return to footnote 1.">↩</a></p>
+    </li>
+  </ol>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2021-06-28</time>
+        <a href="https://nodebe4.github.io/opinion/2021-06-28/The-Lightness-of-Windows/">
+          The Lightness of Windows
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-06-21</time>
+        <a href="https://nodebe4.github.io/opinion/2021-06-21/Pandemic-Progress/">
+          Pandemic Progress
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-06-08</time>
+        <a href="https://nodebe4.github.io/opinion/2021-06-08/Integrated-Apple-and-App-Store-Risk/">
+          Integrated Apple and App Store Risk
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-06-03</time>
+        <a href="https://nodebe4.github.io/opinion/2021-06-03/Passport/">
+          Passport
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2021-06-15/%E5%9C%A8%E5%9C%B0-%E5%AD%A9%E5%9C%A8%E6%89%BE%E5%B0%8B%E8%87%AA%E5%B7%B1%E7%9A%84%E8%B7%AF-%E7%A4%BE%E6%9C%83%E5%89%B5%E6%96%B0%E8%AB%96%E5%A3%87/">
+            前一篇：在地，孩在找尋自己的路 | 社會創新論壇
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2021-06-16/%E8%AA%9E%E6%96%87%E9%99%B6%E8%A9%B1%E5%BB%8A-%E6%96%87%E4%BA%BA%E4%B8%8D%E7%9B%B8%E8%BC%95-%E5%8A%89%E4%BC%AF%E7%AB%AF%E8%A9%9E%E8%B4%88%E6%A2%81%E7%BE%BD%E7%94%9F/">
+            後一篇：【語文陶話廊】文人不相輕　劉伯端詞贈梁羽生
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2021-06-15/%E5%9C%A8%E5%9C%B0-%E5%AD%A9%E5%9C%A8%E6%89%BE%E5%B0%8B%E8%87%AA%E5%B7%B1%E7%9A%84%E8%B7%AF-%E7%A4%BE%E6%9C%83%E5%89%B5%E6%96%B0%E8%AB%96%E5%A3%87/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2021-06-16/%E8%AA%9E%E6%96%87%E9%99%B6%E8%A9%B1%E5%BB%8A-%E6%96%87%E4%BA%BA%E4%B8%8D%E7%9B%B8%E8%BC%95-%E5%8A%89%E4%BC%AF%E7%AB%AF%E8%A9%9E%E8%B4%88%E6%A2%81%E7%BE%BD%E7%94%9F/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2021-06-21/Pandemic-Progress/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2021-06-08/Integrated-Apple-and-App-Store-Risk/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2021-06-15/%E5%9C%A8%E5%9C%B0-%E5%AD%A9%E5%9C%A8%E6%89%BE%E5%B0%8B%E8%87%AA%E5%B7%B1%E7%9A%84%E8%B7%AF-%E7%A4%BE%E6%9C%83%E5%89%B5%E6%96%B0%E8%AB%96%E5%A3%87/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2021-06-16/%E8%AA%9E%E6%96%87%E9%99%B6%E8%A9%B1%E5%BB%8A-%E6%96%87%E4%BA%BA%E4%B8%8D%E7%9B%B8%E8%BC%95-%E5%8A%89%E4%BC%AF%E7%AB%AF%E8%A9%9E%E8%B4%88%E6%A2%81%E7%BE%BD%E7%94%9F/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2021-06-21/Pandemic-Progress/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2021-06-08/Integrated-Apple-and-App-Store-Risk/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

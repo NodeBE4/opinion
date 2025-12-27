@@ -1,0 +1,3526 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>开源点评：cURL——优秀的应用层网络协议库 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+
+      开源点评：cURL——优秀的应用层网络协议库  
+  
+    
+      
+    
+  
+  
+今天来点评一下  cURL  ，这是一个老资格的开源项目，使用它可以基于多种应用层网络协议进行数据传输（包括上传和下载）。它的特点是：支持的协议多、跨平台、支持多种编程语言接口。后面我会针对这些特点作一些简单的介绍。 
+       
+  cURL 项目实际上包含两个部分：命令行工具和编程用的库（  libcurl  ）。两者支持的功能基本相同。由于开发人员更多地是和 libcurl 打交道，所以后面我会主要介绍 libcurl。         ★支持多种应用层协议 
+  多种网络协议支持是 cURL 的主要卖点。截至到（写本文时）最新的7.19.4版本，它支持的网络协议至少有：FTP、FTPS、HTTP、HTTPS、  SCP  （secure copy）、  SFTP  （SSH FTP）、  TFTP  （trivial FTP）、TELNET、  DICT  、  LDAP  、LDAPS、  FILE  ，够全的吧？        ◇HTTP 
+  HTTP 估计是最常用的一种协议，俺简单说一下 cURL 对 HTTP 支持的程度。  对于协议版本：cURL 支持 HTTP 1.0 和 HTTP 1.1。  对于请求方式：cURL 支持 GET、POST、PUT、File Upload POST。  对于代理（Proxy）类型：包括 HTTP Proxy、  SOCKS4  Proxy、  SOCKS5  Proxy。  另外，还可以设定 HTTP 认证的用户名口令，cookies，referer 等许多杂七杂八的东东。        ◇SSL 加密 
+  假如你要支持某些依赖  SSL  /  TLS  的协议（比如 HTTPS、FTPS），则需要用到  OpenSSL  库。在 cURL 的  下载页面  上标注有 SSL 标志的压缩包，都内置了  OpenSSL  的动态库。另外，在cURL 配置 SSL 证书的相关说明，可以参见“  这里  ”。         ★跨平台 
+  cURL 支持的平台是相当多的。即使是一些冷门的操作系统（比如：DOS、OS/2），它也支持得很好。  另外，cURL 官方网站的  下载页面  提供了基于不同平台的、编译好的、二进制文件供大伙儿直接使用。对于 Linux，它还根据不同厂商、不同发行版本，分别提供二进制文件，考虑相当周到。相比某些开源项目只提供源代码（使用者需要自己动手编译），cURL 算是很方便的一个。         ★多种编程语言支持 
+  和上次  点评的SQLite  一样，libcurl 也支持多种编程语言的绑定，而且 cURL 整合的编程语言比  SQLite  还要多。下面列了一些比较常见的编程语言和平台提供的cURL接口。        ◇C/C++ 
+  cURL 本身是 C 写的，因此 C 和 C++ 都可以直接调用它的 C 接口 API。在 cURL 的源码包中带有很多 C 的示例，大伙儿可以依样画葫芦。  喜欢OO的同学，可以使用  cURLpp  提供的 C++ 包装类。这玩意儿使用 MIT 许可协议。        ◇Java 
+  cURL 和 Java 的整合通过 JNI 实现。可以在“  这里  ”下载压缩包，然后自己编译出相关的动态库和 class 文件。那些懒惰的同学可以到“  这里  ”捡现成。        ◇Python 
+   pycurl  是 cURL 的 Python 包装库。如果你觉得 Python 内置的  urllib  功能不够，可以考虑用它。（这玩意儿使用双重许可协议：LGPL 和MIT/X）        ◇dotNET 
+  cURL 和 dotNET 的绑定  libcurl.NET  。这玩意儿只支持 Win32 操作系统。不过不要紧，对于非 Windows 系统，可以使用 cURL 的  Mono  绑定  libcurl.mono  。        ◇Visual Basic 
+  cURL 和 VB 的绑定  libcurl.vb  。这个项目和上述的  libcurl.NET  都是由同一个作者维护的。（也都使用MIT许可协议）        ◇PHP 
+  PHP 要支持 cURL 相对简单多了。在  PHP 官方网站  上有相关的安装/配置说明。        ◇Ruby 
+  cURL 的 Ruby 的绑定  Curb  。（这玩意儿使用 Ruby 许可协议）        ◇Perl 
+  cURL 和 Perl 的绑定  WWW::Curl::Easy  。（这玩意儿使用 MPL 或 MIT/X 许可协议）         ★应用场景举例 
+  前面说了很多 cURL 的特点，下面来随手举几个应用的例子。        ◇传输文件 
+  如果你需要在程序中进行文件的上传、下载，使用 libcurl 会非常方便。由于它支持的协议很多。一旦将来你的应用程序发生需求变更，改用其它协议，你的代码也不用大改。        ◇调用 Web 接口 
+  随着 SOA 风格的流行，很多比较复杂的系统都会提供很多 Web API 接口。如果你要在程序中调用 Web API 接口，可以考虑使用 libcurl 来实现。        ◇Web 测试 
+  还记得之前  善用自动化  的帖子里提到自动测试的好处吗？由于 cURL 对 HTTP 的支持很全。在 HTTP 协议方面，浏览器能干的活它基本上也能干。再加上它可以和很多脚本语言绑定（除了前面提到的，还可以支持 Lua、Tcl、Lisp 等脚本）。所以你可以用“脚本语言 + cURL”的方式，来进行某些自动化的 Web 测试。  比如测试某 Web 站点的安全性（是否有 SQL 注入、XSS 跨站脚本等安全漏洞）或者测试某 Web 接口是否符合文档的约定或者测试某些 Web 接口的性能或者......         ★其它一些补充说明 
+  如果你想定期了解 cURL 的新版本、新特性、新 Bug，可以订阅  相关的邮件列表  。  另外，cURL 使用 MIT/X 衍生协议，可以用于商业软件中。    
+   俺博客上，和本文相关的帖子（需翻墙）
+   ：   开源点评：SQLite 数据库扫盲    开源点评：ZeroMQ 简介    开源点评：Protocol Buffers 介绍      
+
+    版权声明
+     本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者  编程随想  和本文原始地址：   https://program-think.blogspot.com/2009/03/opensource-review-curl-library.html 
+    
+    
+  
+  
+    
+         
+    
+    
+    
+ 
+    
+  
+
+" />
+    <meta property="og:description" content="
+
+      开源点评：cURL——优秀的应用层网络协议库  
+  
+    
+      
+    
+  
+  
+今天来点评一下  cURL  ，这是一个老资格的开源项目，使用它可以基于多种应用层网络协议进行数据传输（包括上传和下载）。它的特点是：支持的协议多、跨平台、支持多种编程语言接口。后面我会针对这些特点作一些简单的介绍。 
+       
+  cURL 项目实际上包含两个部分：命令行工具和编程用的库（  libcurl  ）。两者支持的功能基本相同。由于开发人员更多地是和 libcurl 打交道，所以后面我会主要介绍 libcurl。         ★支持多种应用层协议 
+  多种网络协议支持是 cURL 的主要卖点。截至到（写本文时）最新的7.19.4版本，它支持的网络协议至少有：FTP、FTPS、HTTP、HTTPS、  SCP  （secure copy）、  SFTP  （SSH FTP）、  TFTP  （trivial FTP）、TELNET、  DICT  、  LDAP  、LDAPS、  FILE  ，够全的吧？        ◇HTTP 
+  HTTP 估计是最常用的一种协议，俺简单说一下 cURL 对 HTTP 支持的程度。  对于协议版本：cURL 支持 HTTP 1.0 和 HTTP 1.1。  对于请求方式：cURL 支持 GET、POST、PUT、File Upload POST。  对于代理（Proxy）类型：包括 HTTP Proxy、  SOCKS4  Proxy、  SOCKS5  Proxy。  另外，还可以设定 HTTP 认证的用户名口令，cookies，referer 等许多杂七杂八的东东。        ◇SSL 加密 
+  假如你要支持某些依赖  SSL  /  TLS  的协议（比如 HTTPS、FTPS），则需要用到  OpenSSL  库。在 cURL 的  下载页面  上标注有 SSL 标志的压缩包，都内置了  OpenSSL  的动态库。另外，在cURL 配置 SSL 证书的相关说明，可以参见“  这里  ”。         ★跨平台 
+  cURL 支持的平台是相当多的。即使是一些冷门的操作系统（比如：DOS、OS/2），它也支持得很好。  另外，cURL 官方网站的  下载页面  提供了基于不同平台的、编译好的、二进制文件供大伙儿直接使用。对于 Linux，它还根据不同厂商、不同发行版本，分别提供二进制文件，考虑相当周到。相比某些开源项目只提供源代码（使用者需要自己动手编译），cURL 算是很方便的一个。         ★多种编程语言支持 
+  和上次  点评的SQLite  一样，libcurl 也支持多种编程语言的绑定，而且 cURL 整合的编程语言比  SQLite  还要多。下面列了一些比较常见的编程语言和平台提供的cURL接口。        ◇C/C++ 
+  cURL 本身是 C 写的，因此 C 和 C++ 都可以直接调用它的 C 接口 API。在 cURL 的源码包中带有很多 C 的示例，大伙儿可以依样画葫芦。  喜欢OO的同学，可以使用  cURLpp  提供的 C++ 包装类。这玩意儿使用 MIT 许可协议。        ◇Java 
+  cURL 和 Java 的整合通过 JNI 实现。可以在“  这里  ”下载压缩包，然后自己编译出相关的动态库和 class 文件。那些懒惰的同学可以到“  这里  ”捡现成。        ◇Python 
+   pycurl  是 cURL 的 Python 包装库。如果你觉得 Python 内置的  urllib  功能不够，可以考虑用它。（这玩意儿使用双重许可协议：LGPL 和MIT/X）        ◇dotNET 
+  cURL 和 dotNET 的绑定  libcurl.NET  。这玩意儿只支持 Win32 操作系统。不过不要紧，对于非 Windows 系统，可以使用 cURL 的  Mono  绑定  libcurl.mono  。        ◇Visual Basic 
+  cURL 和 VB 的绑定  libcurl.vb  。这个项目和上述的  libcurl.NET  都是由同一个作者维护的。（也都使用MIT许可协议）        ◇PHP 
+  PHP 要支持 cURL 相对简单多了。在  PHP 官方网站  上有相关的安装/配置说明。        ◇Ruby 
+  cURL 的 Ruby 的绑定  Curb  。（这玩意儿使用 Ruby 许可协议）        ◇Perl 
+  cURL 和 Perl 的绑定  WWW::Curl::Easy  。（这玩意儿使用 MPL 或 MIT/X 许可协议）         ★应用场景举例 
+  前面说了很多 cURL 的特点，下面来随手举几个应用的例子。        ◇传输文件 
+  如果你需要在程序中进行文件的上传、下载，使用 libcurl 会非常方便。由于它支持的协议很多。一旦将来你的应用程序发生需求变更，改用其它协议，你的代码也不用大改。        ◇调用 Web 接口 
+  随着 SOA 风格的流行，很多比较复杂的系统都会提供很多 Web API 接口。如果你要在程序中调用 Web API 接口，可以考虑使用 libcurl 来实现。        ◇Web 测试 
+  还记得之前  善用自动化  的帖子里提到自动测试的好处吗？由于 cURL 对 HTTP 的支持很全。在 HTTP 协议方面，浏览器能干的活它基本上也能干。再加上它可以和很多脚本语言绑定（除了前面提到的，还可以支持 Lua、Tcl、Lisp 等脚本）。所以你可以用“脚本语言 + cURL”的方式，来进行某些自动化的 Web 测试。  比如测试某 Web 站点的安全性（是否有 SQL 注入、XSS 跨站脚本等安全漏洞）或者测试某 Web 接口是否符合文档的约定或者测试某些 Web 接口的性能或者......         ★其它一些补充说明 
+  如果你想定期了解 cURL 的新版本、新特性、新 Bug，可以订阅  相关的邮件列表  。  另外，cURL 使用 MIT/X 衍生协议，可以用于商业软件中。    
+   俺博客上，和本文相关的帖子（需翻墙）
+   ：   开源点评：SQLite 数据库扫盲    开源点评：ZeroMQ 简介    开源点评：Protocol Buffers 介绍      
+
+    版权声明
+     本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者  编程随想  和本文原始地址：   https://program-think.blogspot.com/2009/03/opensource-review-curl-library.html 
+    
+    
+  
+  
+    
+         
+    
+    
+    
+ 
+    
+  
+
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="开源点评：cURL——优秀的应用层网络协议库" />
+    <meta property="twitter:title" content="开源点评：cURL——优秀的应用层网络协议库" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fprogram-think.blogspot.com%2F2009%2F03%2Fopensource-review-curl-library.html" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://program-think.blogspot.com/2009/03/opensource-review-curl-library.html" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://program-think.blogspot.com/2009/03/opensource-review-curl-library.html&text=开源点评：cURL——优秀的应用层网络协议库&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://program-think.blogspot.com/2009/03/opensource-review-curl-library.html&title=开源点评：cURL——优秀的应用层网络协议库" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://program-think.blogspot.com/2009/03/opensource-review-curl-library.html&title=开源点评：cURL——优秀的应用层网络协议库" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=开源点评：cURL——优秀的应用层网络协议库&body=
+
+      开源点评：cURL——优秀的应用层网络协议库  
+  
+    
+      
+    
+  
+  
+今天来点评一下  cURL  ，这是一个老资格的开源项目，使用它可以基于多种应用层网络协议进行数据传输（包括上传和下载）。它的特点是：支持的协议多、跨平台、支持多种编程语言接口。后面我会针对这些特点作一些简单的介绍。 
+       
+  cURL 项目实际上包含两个部分：命令行工具和编程用的库（  libcurl  ）。两者支持的功能基本相同。由于开发人员更多地是和 libcurl 打交道，所以后面我会主要介绍 libcurl。         ★支持多种应用层协议 
+  多种网络协议支持是 cURL 的主要卖点。截至到（写本文时）最新的7.19.4版本，它支持的网络协议至少有：FTP、FTPS、HTTP、HTTPS、  SCP  （secure copy）、  SFTP  （SSH FTP）、  TFTP  （trivial FTP）、TELNET、  DICT  、  LDAP  、LDAPS、  FILE  ，够全的吧？        ◇HTTP 
+  HTTP 估计是最常用的一种协议，俺简单说一下 cURL 对 HTTP 支持的程度。  对于协议版本：cURL 支持 HTTP 1.0 和 HTTP 1.1。  对于请求方式：cURL 支持 GET、POST、PUT、File Upload POST。  对于代理（Proxy）类型：包括 HTTP Proxy、  SOCKS4  Proxy、  SOCKS5  Proxy。  另外，还可以设定 HTTP 认证的用户名口令，cookies，referer 等许多杂七杂八的东东。        ◇SSL 加密 
+  假如你要支持某些依赖  SSL  /  TLS  的协议（比如 HTTPS、FTPS），则需要用到  OpenSSL  库。在 cURL 的  下载页面  上标注有 SSL 标志的压缩包，都内置了  OpenSSL  的动态库。另外，在cURL 配置 SSL 证书的相关说明，可以参见“  这里  ”。         ★跨平台 
+  cURL 支持的平台是相当多的。即使是一些冷门的操作系统（比如：DOS、OS/2），它也支持得很好。  另外，cURL 官方网站的  下载页面  提供了基于不同平台的、编译好的、二进制文件供大伙儿直接使用。对于 Linux，它还根据不同厂商、不同发行版本，分别提供二进制文件，考虑相当周到。相比某些开源项目只提供源代码（使用者需要自己动手编译），cURL 算是很方便的一个。         ★多种编程语言支持 
+  和上次  点评的SQLite  一样，libcurl 也支持多种编程语言的绑定，而且 cURL 整合的编程语言比  SQLite  还要多。下面列了一些比较常见的编程语言和平台提供的cURL接口。        ◇C/C++ 
+  cURL 本身是 C 写的，因此 C 和 C++ 都可以直接调用它的 C 接口 API。在 cURL 的源码包中带有很多 C 的示例，大伙儿可以依样画葫芦。  喜欢OO的同学，可以使用  cURLpp  提供的 C++ 包装类。这玩意儿使用 MIT 许可协议。        ◇Java 
+  cURL 和 Java 的整合通过 JNI 实现。可以在“  这里  ”下载压缩包，然后自己编译出相关的动态库和 class 文件。那些懒惰的同学可以到“  这里  ”捡现成。        ◇Python 
+   pycurl  是 cURL 的 Python 包装库。如果你觉得 Python 内置的  urllib  功能不够，可以考虑用它。（这玩意儿使用双重许可协议：LGPL 和MIT/X）        ◇dotNET 
+  cURL 和 dotNET 的绑定  libcurl.NET  。这玩意儿只支持 Win32 操作系统。不过不要紧，对于非 Windows 系统，可以使用 cURL 的  Mono  绑定  libcurl.mono  。        ◇Visual Basic 
+  cURL 和 VB 的绑定  libcurl.vb  。这个项目和上述的  libcurl.NET  都是由同一个作者维护的。（也都使用MIT许可协议）        ◇PHP 
+  PHP 要支持 cURL 相对简单多了。在  PHP 官方网站  上有相关的安装/配置说明。        ◇Ruby 
+  cURL 的 Ruby 的绑定  Curb  。（这玩意儿使用 Ruby 许可协议）        ◇Perl 
+  cURL 和 Perl 的绑定  WWW::Curl::Easy  。（这玩意儿使用 MPL 或 MIT/X 许可协议）         ★应用场景举例 
+  前面说了很多 cURL 的特点，下面来随手举几个应用的例子。        ◇传输文件 
+  如果你需要在程序中进行文件的上传、下载，使用 libcurl 会非常方便。由于它支持的协议很多。一旦将来你的应用程序发生需求变更，改用其它协议，你的代码也不用大改。        ◇调用 Web 接口 
+  随着 SOA 风格的流行，很多比较复杂的系统都会提供很多 Web API 接口。如果你要在程序中调用 Web API 接口，可以考虑使用 libcurl 来实现。        ◇Web 测试 
+  还记得之前  善用自动化  的帖子里提到自动测试的好处吗？由于 cURL 对 HTTP 的支持很全。在 HTTP 协议方面，浏览器能干的活它基本上也能干。再加上它可以和很多脚本语言绑定（除了前面提到的，还可以支持 Lua、Tcl、Lisp 等脚本）。所以你可以用“脚本语言 + cURL”的方式，来进行某些自动化的 Web 测试。  比如测试某 Web 站点的安全性（是否有 SQL 注入、XSS 跨站脚本等安全漏洞）或者测试某 Web 接口是否符合文档的约定或者测试某些 Web 接口的性能或者......         ★其它一些补充说明 
+  如果你想定期了解 cURL 的新版本、新特性、新 Bug，可以订阅  相关的邮件列表  。  另外，cURL 使用 MIT/X 衍生协议，可以用于商业软件中。    
+   俺博客上，和本文相关的帖子（需翻墙）
+   ：   开源点评：SQLite 数据库扫盲    开源点评：ZeroMQ 简介    开源点评：Protocol Buffers 介绍      
+
+    版权声明
+     本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者  编程随想  和本文原始地址：   https://program-think.blogspot.com/2009/03/opensource-review-curl-library.html 
+    
+    
+  
+  
+    
+         
+    
+    
+    
+ 
+    
+  
+
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://program-think.blogspot.com/2009/03/opensource-review-curl-library.html" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://program-think.blogspot.com/2009/03/opensource-review-curl-library.html&title=开源点评：cURL——优秀的应用层网络协议库&caption=
+
+      开源点评：cURL——优秀的应用层网络协议库  
+  
+    
+      
+    
+  
+  
+今天来点评一下  cURL  ，这是一个老资格的开源项目，使用它可以基于多种应用层网络协议进行数据传输（包括上传和下载）。它的特点是：支持的协议多、跨平台、支持多种编程语言接口。后面我会针对这些特点作一些简单的介绍。 
+       
+  cURL 项目实际上包含两个部分：命令行工具和编程用的库（  libcurl  ）。两者支持的功能基本相同。由于开发人员更多地是和 libcurl 打交道，所以后面我会主要介绍 libcurl。         ★支持多种应用层协议 
+  多种网络协议支持是 cURL 的主要卖点。截至到（写本文时）最新的7.19.4版本，它支持的网络协议至少有：FTP、FTPS、HTTP、HTTPS、  SCP  （secure copy）、  SFTP  （SSH FTP）、  TFTP  （trivial FTP）、TELNET、  DICT  、  LDAP  、LDAPS、  FILE  ，够全的吧？        ◇HTTP 
+  HTTP 估计是最常用的一种协议，俺简单说一下 cURL 对 HTTP 支持的程度。  对于协议版本：cURL 支持 HTTP 1.0 和 HTTP 1.1。  对于请求方式：cURL 支持 GET、POST、PUT、File Upload POST。  对于代理（Proxy）类型：包括 HTTP Proxy、  SOCKS4  Proxy、  SOCKS5  Proxy。  另外，还可以设定 HTTP 认证的用户名口令，cookies，referer 等许多杂七杂八的东东。        ◇SSL 加密 
+  假如你要支持某些依赖  SSL  /  TLS  的协议（比如 HTTPS、FTPS），则需要用到  OpenSSL  库。在 cURL 的  下载页面  上标注有 SSL 标志的压缩包，都内置了  OpenSSL  的动态库。另外，在cURL 配置 SSL 证书的相关说明，可以参见“  这里  ”。         ★跨平台 
+  cURL 支持的平台是相当多的。即使是一些冷门的操作系统（比如：DOS、OS/2），它也支持得很好。  另外，cURL 官方网站的  下载页面  提供了基于不同平台的、编译好的、二进制文件供大伙儿直接使用。对于 Linux，它还根据不同厂商、不同发行版本，分别提供二进制文件，考虑相当周到。相比某些开源项目只提供源代码（使用者需要自己动手编译），cURL 算是很方便的一个。         ★多种编程语言支持 
+  和上次  点评的SQLite  一样，libcurl 也支持多种编程语言的绑定，而且 cURL 整合的编程语言比  SQLite  还要多。下面列了一些比较常见的编程语言和平台提供的cURL接口。        ◇C/C++ 
+  cURL 本身是 C 写的，因此 C 和 C++ 都可以直接调用它的 C 接口 API。在 cURL 的源码包中带有很多 C 的示例，大伙儿可以依样画葫芦。  喜欢OO的同学，可以使用  cURLpp  提供的 C++ 包装类。这玩意儿使用 MIT 许可协议。        ◇Java 
+  cURL 和 Java 的整合通过 JNI 实现。可以在“  这里  ”下载压缩包，然后自己编译出相关的动态库和 class 文件。那些懒惰的同学可以到“  这里  ”捡现成。        ◇Python 
+   pycurl  是 cURL 的 Python 包装库。如果你觉得 Python 内置的  urllib  功能不够，可以考虑用它。（这玩意儿使用双重许可协议：LGPL 和MIT/X）        ◇dotNET 
+  cURL 和 dotNET 的绑定  libcurl.NET  。这玩意儿只支持 Win32 操作系统。不过不要紧，对于非 Windows 系统，可以使用 cURL 的  Mono  绑定  libcurl.mono  。        ◇Visual Basic 
+  cURL 和 VB 的绑定  libcurl.vb  。这个项目和上述的  libcurl.NET  都是由同一个作者维护的。（也都使用MIT许可协议）        ◇PHP 
+  PHP 要支持 cURL 相对简单多了。在  PHP 官方网站  上有相关的安装/配置说明。        ◇Ruby 
+  cURL 的 Ruby 的绑定  Curb  。（这玩意儿使用 Ruby 许可协议）        ◇Perl 
+  cURL 和 Perl 的绑定  WWW::Curl::Easy  。（这玩意儿使用 MPL 或 MIT/X 许可协议）         ★应用场景举例 
+  前面说了很多 cURL 的特点，下面来随手举几个应用的例子。        ◇传输文件 
+  如果你需要在程序中进行文件的上传、下载，使用 libcurl 会非常方便。由于它支持的协议很多。一旦将来你的应用程序发生需求变更，改用其它协议，你的代码也不用大改。        ◇调用 Web 接口 
+  随着 SOA 风格的流行，很多比较复杂的系统都会提供很多 Web API 接口。如果你要在程序中调用 Web API 接口，可以考虑使用 libcurl 来实现。        ◇Web 测试 
+  还记得之前  善用自动化  的帖子里提到自动测试的好处吗？由于 cURL 对 HTTP 的支持很全。在 HTTP 协议方面，浏览器能干的活它基本上也能干。再加上它可以和很多脚本语言绑定（除了前面提到的，还可以支持 Lua、Tcl、Lisp 等脚本）。所以你可以用“脚本语言 + cURL”的方式，来进行某些自动化的 Web 测试。  比如测试某 Web 站点的安全性（是否有 SQL 注入、XSS 跨站脚本等安全漏洞）或者测试某 Web 接口是否符合文档的约定或者测试某些 Web 接口的性能或者......         ★其它一些补充说明 
+  如果你想定期了解 cURL 的新版本、新特性、新 Bug，可以订阅  相关的邮件列表  。  另外，cURL 使用 MIT/X 衍生协议，可以用于商业软件中。    
+   俺博客上，和本文相关的帖子（需翻墙）
+   ：   开源点评：SQLite 数据库扫盲    开源点评：ZeroMQ 简介    开源点评：Protocol Buffers 介绍      
+
+    版权声明
+     本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者  编程随想  和本文原始地址：   https://program-think.blogspot.com/2009/03/opensource-review-curl-library.html 
+    
+    
+  
+  
+    
+         
+    
+    
+    
+ 
+    
+  
+
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=开源点评：cURL——优秀的应用层网络协议库&url=https://program-think.blogspot.com/2009/03/opensource-review-curl-library.html" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>开源点评：cURL——优秀的应用层网络协议库</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2009-03-22
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#编程随想">
+          编程随想
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://program-think.blogspot.com/2009/03/opensource-review-curl-library.html" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="编程随想的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#编程随想 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <div class="post hentry uncustomized-post-template">
+<a name="3912384195676597006">
+ </a>   <h1 class="post-title entry-title" id="curl--"> <a href="https://program-think.blogspot.com/2009/03/opensource-review-curl-library.html"> 开源点评：cURL——优秀的应用层网络协议库 </a> </h1>
+  <div class="post-header">
+    <div class="post-header-line-1">
+      <div class="post-inner-index"></div>
+    </div>
+  </div>
+  <div class="post-body entry-content">
+今天来点评一下 <a href="https://curl.haxx.se/" rel="nofollow" target="_blank"> cURL </a> ，这是一个老资格的开源项目，使用它可以基于多种应用层网络协议进行数据传输（包括上传和下载）。它的特点是：支持的协议多、跨平台、支持多种编程语言接口。后面我会针对这些特点作一些简单的介绍。 <a name="more">
+  </a>     <!--program-think-->
+ <br /> cURL 项目实际上包含两个部分：命令行工具和编程用的库（ <a href="https://curl.haxx.se/libcurl/" rel="nofollow" target="_blank"> libcurl </a> ）。两者支持的功能基本相同。由于开发人员更多地是和 libcurl 打交道，所以后面我会主要介绍 libcurl。 <br /> <br /> <br />     <h2 id="section"> ★支持多种应用层协议 </h2>
+ <br /> 多种网络协议支持是 cURL 的主要卖点。截至到（写本文时）最新的7.19.4版本，它支持的网络协议至少有：FTP、FTPS、HTTP、HTTPS、 <a href="https://en.wikipedia.org/wiki/Secure_copy" rel="nofollow" target="_blank"> SCP </a> （secure copy）、 <a href="https://en.wikipedia.org/wiki/SSH_file_transfer_protocol" rel="nofollow" target="_blank"> SFTP </a> （SSH FTP）、 <a href="https://en.wikipedia.org/wiki/Trivial_File_Transfer_Protocol" rel="nofollow" target="_blank"> TFTP </a> （trivial FTP）、TELNET、 <a href="https://en.wikipedia.org/wiki/DICT" rel="nofollow" target="_blank"> DICT </a> 、 <a href="https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol" rel="nofollow" target="_blank"> LDAP </a> 、LDAPS、 <a href="https://en.wikipedia.org/wiki/File:URL" rel="nofollow" target="_blank"> FILE </a> ，够全的吧？ <br /> <br />     <h3 id="http-"> ◇HTTP </h3>
+ <br /> HTTP 估计是最常用的一种协议，俺简单说一下 cURL 对 HTTP 支持的程度。 <br /> 对于协议版本：cURL 支持 HTTP 1.0 和 HTTP 1.1。 <br /> 对于请求方式：cURL 支持 GET、POST、PUT、File Upload POST。 <br /> 对于代理（Proxy）类型：包括 HTTP Proxy、 <a href="https://en.wikipedia.org/wiki/SOCKS#SOCKS_4_protocol" rel="nofollow" target="_blank"> SOCKS4 </a> Proxy、 <a href="https://en.wikipedia.org/wiki/SOCKS#SOCKS_5_protocol" rel="nofollow" target="_blank"> SOCKS5 </a> Proxy。 <br /> 另外，还可以设定 HTTP 认证的用户名口令，cookies，referer 等许多杂七杂八的东东。 <br /> <br />     <h3 id="ssl--"> ◇SSL 加密 </h3>
+ <br /> 假如你要支持某些依赖 <a href="https://en.wikipedia.org/wiki/Secure_Sockets_Layer" rel="nofollow" target="_blank"> SSL </a> / <a href="https://en.wikipedia.org/wiki/Transport_Layer_Security" rel="nofollow" target="_blank"> TLS </a> 的协议（比如 HTTPS、FTPS），则需要用到 <a href="https://en.wikipedia.org/wiki/OpenSSL" rel="nofollow" target="_blank"> OpenSSL </a> 库。在 cURL 的 <a href="https://curl.haxx.se/download.html" rel="nofollow" target="_blank"> 下载页面 </a> 上标注有 SSL 标志的压缩包，都内置了 <a href="https://en.wikipedia.org/wiki/OpenSSL" rel="nofollow" target="_blank"> OpenSSL </a> 的动态库。另外，在cURL 配置 SSL 证书的相关说明，可以参见“ <a href="https://curl.haxx.se/docs/sslcerts.html" rel="nofollow" target="_blank"> 这里 </a> ”。 <br /> <br /> <br />     <h2 id="section-1"> ★跨平台 </h2>
+ <br /> cURL 支持的平台是相当多的。即使是一些冷门的操作系统（比如：DOS、OS/2），它也支持得很好。 <br /> 另外，cURL 官方网站的 <a href="https://curl.haxx.se/download.html" rel="nofollow" target="_blank"> 下载页面 </a> 提供了基于不同平台的、编译好的、二进制文件供大伙儿直接使用。对于 Linux，它还根据不同厂商、不同发行版本，分别提供二进制文件，考虑相当周到。相比某些开源项目只提供源代码（使用者需要自己动手编译），cURL 算是很方便的一个。 <br /> <br /> <br />     <h2 id="section-2"> ★多种编程语言支持 </h2>
+ <br /> 和上次 <a href="https://program-think.blogspot.com/2009/03/opensource-review-sqlite-database.html"> 点评的SQLite </a> 一样，libcurl 也支持多种编程语言的绑定，而且 cURL 整合的编程语言比 <a href="https://en.wikipedia.org/wiki/SQLite" rel="nofollow" target="_blank"> SQLite </a> 还要多。下面列了一些比较常见的编程语言和平台提供的cURL接口。 <br /> <br />     <h3 id="cc-"> ◇C/C++ </h3>
+ <br /> cURL 本身是 C 写的，因此 C 和 C++ 都可以直接调用它的 C 接口 API。在 cURL 的源码包中带有很多 C 的示例，大伙儿可以依样画葫芦。 <br /> 喜欢OO的同学，可以使用 <a href="http://curlpp.org/" rel="nofollow" target="_blank"> cURLpp </a> 提供的 C++ 包装类。这玩意儿使用 MIT 许可协议。 <br /> <br />     <h3 id="java-"> ◇Java </h3>
+ <br /> cURL 和 Java 的整合通过 JNI 实现。可以在“ <a href="https://curl.haxx.se/libcurl/java/" rel="nofollow" target="_blank"> 这里 </a> ”下载压缩包，然后自己编译出相关的动态库和 class 文件。那些懒惰的同学可以到“ <a href="http://www.gknw.de/mirror/curl/curl_java/" rel="nofollow" target="_blank"> 这里 </a> ”捡现成。 <br /> <br />     <h3 id="python-"> ◇Python </h3>
+ <br /> <a href="http://pycurl.sourceforge.net/" rel="nofollow" target="_blank"> pycurl </a> 是 cURL 的 Python 包装库。如果你觉得 Python 内置的 <a href="https://docs.python.org/library/urllib.html" rel="nofollow" target="_blank"> urllib </a> 功能不够，可以考虑用它。（这玩意儿使用双重许可协议：LGPL 和MIT/X） <br /> <br />     <h3 id="dotnet-"> ◇dotNET </h3>
+ <br /> cURL 和 dotNET 的绑定 <a href="http://libcurl-net.sourceforge.net/" rel="nofollow" target="_blank"> libcurl.NET </a> 。这玩意儿只支持 Win32 操作系统。不过不要紧，对于非 Windows 系统，可以使用 cURL 的 <a href="https://en.wikipedia.org/wiki/Mono_%28software%29" rel="nofollow" target="_blank"> Mono </a> 绑定 <a href="http://forge.novell.com/modules/xfmod/project/?libcurl-mono" rel="nofollow" target="_blank"> libcurl.mono </a> 。 <br /> <br />     <h3 id="visual-basic-"> ◇Visual Basic </h3>
+ <br /> cURL 和 VB 的绑定 <a href="http://libcurl-vb.sourceforge.net/" rel="nofollow" target="_blank"> libcurl.vb </a> 。这个项目和上述的 <a href="http://libcurl-net.sourceforge.net/" rel="nofollow" target="_blank"> libcurl.NET </a> 都是由同一个作者维护的。（也都使用MIT许可协议） <br /> <br />     <h3 id="php-"> ◇PHP </h3>
+ <br /> PHP 要支持 cURL 相对简单多了。在 <a href="http://cn.php.net/curl" rel="nofollow" target="_blank"> PHP 官方网站 </a> 上有相关的安装/配置说明。 <br /> <br />     <h3 id="ruby-"> ◇Ruby </h3>
+ <br /> cURL 的 Ruby 的绑定 <a href="http://curb.rubyforge.org/" rel="nofollow" target="_blank"> Curb </a> 。（这玩意儿使用 Ruby 许可协议） <br /> <br />     <h3 id="perl-"> ◇Perl </h3>
+ <br /> cURL 和 Perl 的绑定 <a href="http://search.cpan.org/%7Ecrisb/WWW-Curl/Easy.pm.in" rel="nofollow" target="_blank"> WWW::Curl::Easy </a> 。（这玩意儿使用 MPL 或 MIT/X 许可协议） <br /> <br /> <br />     <h2 id="section-3"> ★应用场景举例 </h2>
+ <br /> 前面说了很多 cURL 的特点，下面来随手举几个应用的例子。 <br /> <br />     <h3 id="section-4"> ◇传输文件 </h3>
+ <br /> 如果你需要在程序中进行文件的上传、下载，使用 libcurl 会非常方便。由于它支持的协议很多。一旦将来你的应用程序发生需求变更，改用其它协议，你的代码也不用大改。 <br /> <br />     <h3 id="web--"> ◇调用 Web 接口 </h3>
+ <br /> 随着 SOA 风格的流行，很多比较复杂的系统都会提供很多 Web API 接口。如果你要在程序中调用 Web API 接口，可以考虑使用 libcurl 来实现。 <br /> <br />     <h3 id="web---1"> ◇Web 测试 </h3>
+ <br /> 还记得之前 <a href="https://program-think.blogspot.com/2009/02/7.html#test"> 善用自动化 </a> 的帖子里提到自动测试的好处吗？由于 cURL 对 HTTP 的支持很全。在 HTTP 协议方面，浏览器能干的活它基本上也能干。再加上它可以和很多脚本语言绑定（除了前面提到的，还可以支持 Lua、Tcl、Lisp 等脚本）。所以你可以用“脚本语言 + cURL”的方式，来进行某些自动化的 Web 测试。 <br /> 比如测试某 Web 站点的安全性（是否有 SQL 注入、XSS 跨站脚本等安全漏洞）或者测试某 Web 接口是否符合文档的约定或者测试某些 Web 接口的性能或者...... <br /> <br /> <br />     <h2 id="section-5"> ★其它一些补充说明 </h2>
+ <br /> 如果你想定期了解 cURL 的新版本、新特性、新 Bug，可以订阅 <a href="https://curl.haxx.se/mail/" rel="nofollow" target="_blank"> 相关的邮件列表 </a> 。 <br /> 另外，cURL 使用 MIT/X 衍生协议，可以用于商业软件中。 <br /> <br /> <br /> <b>
+   俺博客上，和本文相关的帖子（需翻墙）
+  </b> ： <br /> <a href="https://program-think.blogspot.com/2009/03/opensource-review-sqlite-database.html"> 开源点评：SQLite 数据库扫盲 </a> <br /> <a href="https://program-think.blogspot.com/2011/08/opensource-review-zeromq.html"> 开源点评：ZeroMQ 简介 </a> <br /> <a href="https://program-think.blogspot.com/2009/05/opensource-review-protocol-buffers.html"> 开源点评：Protocol Buffers 介绍 </a>     <div class="post-copyright">
+<b>
+    版权声明
+   </b> <br /> 本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者 <a href="mailto:program.think@gmail.com"> 编程随想 </a> 和本文原始地址： <br /> <a href="https://program-think.blogspot.com/2009/03/opensource-review-curl-library.html" id="OriginalPostUrl"> https://program-think.blogspot.com/2009/03/opensource-review-curl-library.html </a>
+    </div>
+    <div style="clear: both;"></div>
+  </div>
+  <div class="post-footer" style="margin-bottom:50px;">
+    <div class="post-footer-line post-footer-line-1" style="display:none;">
+<span class="post-author vcard"> </span> <span class="reaction-buttons"> </span> <span class="star-ratings"> </span> <span class="post-icons"> </span> <span class="post-backlinks post-comment-link"> </span>
+    </div>
+    <div class="post-footer-line post-footer-line-2 post-toolbar"></div>
+    <div class="post-footer-line post-footer-line-3">
+<span class="post-location"> </span>
+    </div>
+  </div>
+</div>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#编程随想 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2021-05-09/%E5%88%86%E4%BA%AB%E5%90%84%E7%B1%BB%E7%94%B5%E5%AD%90%E4%B9%A6-%E6%94%BF%E6%B2%BB-IT-%E7%A7%91%E6%99%AE-%E5%8E%86%E5%8F%B2-%E7%AD%89-97%E6%9C%AC/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-01-15/%E5%8D%9A%E5%AE%A2%E5%BC%80%E5%BC%A0%E5%8F%8A%E6%9C%AC%E5%8D%9A%E5%AE%A2%E5%86%85%E5%AE%B9%E7%AE%80%E4%BB%8B/">最早</a>--</span>
+    
+      <li>
+        <time>2009-03-26</time>
+        <a href="https://nodebe4.github.io/opinion/2009-03-26/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1-%E7%94%9F%E4%BA%A7%E8%80%85-%E6%B6%88%E8%B4%B9%E8%80%85%E6%A8%A1%E5%BC%8F-1-%E5%A6%82%E4%BD%95%E7%A1%AE%E5%AE%9A%E6%95%B0%E6%8D%AE%E5%8D%95%E5%85%83/">
+          架构设计：生产者-消费者模式[1]：如何确定数据单元？
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2009-03-24</time>
+        <a href="https://nodebe4.github.io/opinion/2009-03-24/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1-%E7%94%9F%E4%BA%A7%E8%80%85-%E6%B6%88%E8%B4%B9%E8%80%85%E6%A8%A1%E5%BC%8F-0-%E6%A6%82%E8%BF%B0/">
+          架构设计：生产者-消费者模式[0]：概述
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2009-03-19</time>
+        <a href="https://nodebe4.github.io/opinion/2009-03-19/Java-%E6%96%B0%E6%89%8B%E8%BF%9B%E9%98%B6-%E7%BB%86%E8%AF%B4%E5%BC%95%E7%94%A8%E7%B1%BB%E5%9E%8B/">
+          Java 新手进阶：细说引用类型
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2009-03-18</time>
+        <a href="https://nodebe4.github.io/opinion/2009-03-18/Java-%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96-2-%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BF%87%E6%BB%A4%E5%AE%9E%E6%88%98/">
+          Java 性能优化[2]：字符串过滤实战
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2009-03-20/%E7%B2%AE%E9%A3%9F%E5%AE%89%E5%85%A8%E4%B8%8E%E8%80%95%E5%9C%B0%E4%BF%9D%E6%8A%A4%E8%AF%BE%E9%A2%98%E6%8A%A5%E5%91%8A%E7%BB%88%E7%A8%BF%E5%8F%91%E5%B8%83/">
+            前一篇：粮食安全与耕地保护课题报告终稿发布
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2009-03-24/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1-%E7%94%9F%E4%BA%A7%E8%80%85-%E6%B6%88%E8%B4%B9%E8%80%85%E6%A8%A1%E5%BC%8F-0-%E6%A6%82%E8%BF%B0/">
+            後一篇：架构设计：生产者-消费者模式[0]：概述
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2009-03-20/%E7%B2%AE%E9%A3%9F%E5%AE%89%E5%85%A8%E4%B8%8E%E8%80%95%E5%9C%B0%E4%BF%9D%E6%8A%A4%E8%AF%BE%E9%A2%98%E6%8A%A5%E5%91%8A%E7%BB%88%E7%A8%BF%E5%8F%91%E5%B8%83/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2009-03-24/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1-%E7%94%9F%E4%BA%A7%E8%80%85-%E6%B6%88%E8%B4%B9%E8%80%85%E6%A8%A1%E5%BC%8F-0-%E6%A6%82%E8%BF%B0/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2009-03-24/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1-%E7%94%9F%E4%BA%A7%E8%80%85-%E6%B6%88%E8%B4%B9%E8%80%85%E6%A8%A1%E5%BC%8F-0-%E6%A6%82%E8%BF%B0/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2009-03-19/Java-%E6%96%B0%E6%89%8B%E8%BF%9B%E9%98%B6-%E7%BB%86%E8%AF%B4%E5%BC%95%E7%94%A8%E7%B1%BB%E5%9E%8B/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2009-03-20/%E7%B2%AE%E9%A3%9F%E5%AE%89%E5%85%A8%E4%B8%8E%E8%80%95%E5%9C%B0%E4%BF%9D%E6%8A%A4%E8%AF%BE%E9%A2%98%E6%8A%A5%E5%91%8A%E7%BB%88%E7%A8%BF%E5%8F%91%E5%B8%83/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2009-03-24/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1-%E7%94%9F%E4%BA%A7%E8%80%85-%E6%B6%88%E8%B4%B9%E8%80%85%E6%A8%A1%E5%BC%8F-0-%E6%A6%82%E8%BF%B0/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<编程随想>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2009-03-24/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1-%E7%94%9F%E4%BA%A7%E8%80%85-%E6%B6%88%E8%B4%B9%E8%80%85%E6%A8%A1%E5%BC%8F-0-%E6%A6%82%E8%BF%B0/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<编程随想>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2009-03-19/Java-%E6%96%B0%E6%89%8B%E8%BF%9B%E9%98%B6-%E7%BB%86%E8%AF%B4%E5%BC%95%E7%94%A8%E7%B1%BB%E5%9E%8B/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

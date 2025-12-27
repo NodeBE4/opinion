@@ -1,0 +1,979 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>【年终专题】润、摆烂、非必要不XX……2022年度网络流行语 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+【年终专题】润、摆烂、非必要不XX……2022年度网络流行语
+——
+" />
+    <meta property="og:description" content="
+【年终专题】润、摆烂、非必要不XX……2022年度网络流行语
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="【年终专题】润、摆烂、非必要不XX……2022年度网络流行语" />
+    <meta property="twitter:title" content="【年终专题】润、摆烂、非必要不XX……2022年度网络流行语" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fmatters.news%2F%40ChinaDT%2F%25E5%25B9%25B4%25E7%25BB%2588%25E4%25B8%2593%25E9%25A2%2598-%25E6%25B6%25A6-%25E6%2591%2586%25E7%2583%2582-%25E9%259D%259E%25E5%25BF%2585%25E8%25A6%2581%25E4%25B8%258Dxx-2022%25E5%25B9%25B4%25E5%25BA%25A6%25E7%25BD%2591%25E7%25BB%259C%25E6%25B5%2581%25E8%25A1%258C%25E8%25AF%25AD-bafybeiemjegdyjouahda4dfblettnmjzplsjrpfiu3nwv6dq3jpzcficlq" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://matters.news/@ChinaDT/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E6%B6%A6-%E6%91%86%E7%83%82-%E9%9D%9E%E5%BF%85%E8%A6%81%E4%B8%8Dxx-2022%E5%B9%B4%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%B5%81%E8%A1%8C%E8%AF%AD-bafybeiemjegdyjouahda4dfblettnmjzplsjrpfiu3nwv6dq3jpzcficlq" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://matters.news/@ChinaDT/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E6%B6%A6-%E6%91%86%E7%83%82-%E9%9D%9E%E5%BF%85%E8%A6%81%E4%B8%8Dxx-2022%E5%B9%B4%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%B5%81%E8%A1%8C%E8%AF%AD-bafybeiemjegdyjouahda4dfblettnmjzplsjrpfiu3nwv6dq3jpzcficlq&text=【年终专题】润、摆烂、非必要不XX……2022年度网络流行语&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://matters.news/@ChinaDT/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E6%B6%A6-%E6%91%86%E7%83%82-%E9%9D%9E%E5%BF%85%E8%A6%81%E4%B8%8Dxx-2022%E5%B9%B4%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%B5%81%E8%A1%8C%E8%AF%AD-bafybeiemjegdyjouahda4dfblettnmjzplsjrpfiu3nwv6dq3jpzcficlq&title=【年终专题】润、摆烂、非必要不XX……2022年度网络流行语" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://matters.news/@ChinaDT/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E6%B6%A6-%E6%91%86%E7%83%82-%E9%9D%9E%E5%BF%85%E8%A6%81%E4%B8%8Dxx-2022%E5%B9%B4%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%B5%81%E8%A1%8C%E8%AF%AD-bafybeiemjegdyjouahda4dfblettnmjzplsjrpfiu3nwv6dq3jpzcficlq&title=【年终专题】润、摆烂、非必要不XX……2022年度网络流行语" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=【年终专题】润、摆烂、非必要不XX……2022年度网络流行语&body=
+【年终专题】润、摆烂、非必要不XX……2022年度网络流行语
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://matters.news/@ChinaDT/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E6%B6%A6-%E6%91%86%E7%83%82-%E9%9D%9E%E5%BF%85%E8%A6%81%E4%B8%8Dxx-2022%E5%B9%B4%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%B5%81%E8%A1%8C%E8%AF%AD-bafybeiemjegdyjouahda4dfblettnmjzplsjrpfiu3nwv6dq3jpzcficlq" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://matters.news/@ChinaDT/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E6%B6%A6-%E6%91%86%E7%83%82-%E9%9D%9E%E5%BF%85%E8%A6%81%E4%B8%8Dxx-2022%E5%B9%B4%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%B5%81%E8%A1%8C%E8%AF%AD-bafybeiemjegdyjouahda4dfblettnmjzplsjrpfiu3nwv6dq3jpzcficlq&title=【年终专题】润、摆烂、非必要不XX……2022年度网络流行语&caption=
+【年终专题】润、摆烂、非必要不XX……2022年度网络流行语
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=【年终专题】润、摆烂、非必要不XX……2022年度网络流行语&url=https://matters.news/@ChinaDT/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E6%B6%A6-%E6%91%86%E7%83%82-%E9%9D%9E%E5%BF%85%E8%A6%81%E4%B8%8Dxx-2022%E5%B9%B4%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%B5%81%E8%A1%8C%E8%AF%AD-bafybeiemjegdyjouahda4dfblettnmjzplsjrpfiu3nwv6dq3jpzcficlq" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>【年终专题】润、摆烂、非必要不XX……2022年度网络流行语</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-12-31
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#中国数字时代">
+          中国数字时代
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://matters.news/@ChinaDT/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E6%B6%A6-%E6%91%86%E7%83%82-%E9%9D%9E%E5%BF%85%E8%A6%81%E4%B8%8Dxx-2022%E5%B9%B4%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%B5%81%E8%A1%8C%E8%AF%AD-bafybeiemjegdyjouahda4dfblettnmjzplsjrpfiu3nwv6dq3jpzcficlq" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="中国数字时代的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#中国数字时代 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1672515847000-->
+<p><a href="https://matters.news/@ChinaDT/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E6%B6%A6-%E6%91%86%E7%83%82-%E9%9D%9E%E5%BF%85%E8%A6%81%E4%B8%8Dxx-2022%E5%B9%B4%E5%BA%A6%E7%BD%91%E7%BB%9C%E6%B5%81%E8%A1%8C%E8%AF%AD-bafybeiemjegdyjouahda4dfblettnmjzplsjrpfiu3nwv6dq3jpzcficlq">【年终专题】润、摆烂、非必要不XX……2022年度网络流行语</a>
+——</p>
+
+<div>
+  <p><strong>CDT编者按：2022年即将过去，中国数字时代为读者整理了年终专题，共7篇，包括年度网络流行语、年度404文章、年度敏感词、年度每日一语、年度名场面、年度新生媒体、年度人物。</strong></p>
+  <p><strong>本文是年终专题第一篇，下一篇是《年度404文章》。</strong></p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/63d732a3-ca33-4db2-914b-9fc99cdebd15.jpeg" data-asset-id="63d732a3-ca33-4db2-914b-9fc99cdebd15" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>润、摆烂、最后一代、不做伥鬼、可惜不是你……中国数字时代整理了2022年年度网络流行语。在筛选过程中，我们综合考虑了相关词语的流行程度、公共属性和它们的反讽/抵抗色彩。</p>
+  <p>从今年的年度流行词中可以感受到，2022年对于大部分中国人来说相当不易。这一年，“润学”成为了一门显学，许多人见面不再是问“吃了吗？”，取而代之的是“润了吗？”、“考虑润吗？”，面对严苛的防疫政策和“一键三连”的最高领袖，移民成为了一个从中国富裕阶层到工薪阶层都在思考的选项。</p>
+  <p>而相比于去年还略带浪漫主义色彩的“躺平”，今年的消极抵抗方式“摆烂”则更为直接，当然，现实也更加残酷，严苛的防疫政策之下，中国经济持续下行，大量人口失业，连被普遍视为“上岸”首选的互联网大厂和政府公务员也难逃裁员和减薪的命运。</p>
+  <p>面对肆无忌惮的公权力，“我们是最后一代”和“我们不做伥鬼”成为年轻一代抵抗者的心声，“最后一代”让自己没有了可以被公权力威胁的“软肋”，“不做伥鬼”则让恐惧和愤怒化为行动，成为一个勇敢的人。</p>
+  <p>荒诞仍旧是中国的日常，一首梁静茹17年前的情歌《可惜不是你》，今年屡次成为禁歌，原因是人们总在一些政要名人去世的时候第一个想到，怎么不是“他”？现象级带货主播李佳琦，因为展示了一个坦克造型的冰淇淋而消失三个多月，间接让不少年轻人了解了“六四”，更发展出了一个“李佳琦悖论”：“一个人如果想要不辱华，他就要对所有辱华的点了如指掌，那么，ta就已经辱华了。”</p>
+  <p>在即将与2022年告别之际，我们一起回顾这十二个网络流行词。</p>
+  <h2 id="section"><strong>润</strong></h2>
+  <p>“润”的汉语拼音是 Run，而 Run 在英文中又有 “run”（跑路）的意思，所以“润”在中文语境下几乎等同于移民，但尤其指因不满政治因素又无力改变的情况下而选择的移民。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/4c0acedc-b645-45cb-874d-59d95bf33c19.jpeg" data-asset-id="4c0acedc-b645-45cb-874d-59d95bf33c19" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>从2020年疫情初期开始，中国严格的防疫政策已经执行了将近三年的时间。这三年中，核酸检测、封控、静默管理、扫码等成为了常态，许多中国人都对这种生活感到了厌倦。而在今年年初，传染性极强但毒性较弱的奥密克戎毒株传入中国后，严格的清零政策更是造成了严重的防疫次生灾害；此外，习近平连任、中国经济持续下行、房地产业爆雷事件频发、大厂冻薪裁员等事件，都让人们普遍对中国未来的预期感到悲观。</p>
+  <p>在这个大背景下，越来越多人都在思考“润”这个问题，“润”的方法五花八门，有人通过申请学校、在当地找工作，也有人通过投资，或者申请长期逗留签证，甚至有人选择偷渡；“润”去的地方也不单包括美国、欧洲、澳大利亚、加拿大这样的发达国家，甚至泰国、马来西亚等国家也成为了移民目的地。</p>
+  <p>在“非必要不出境”政策已经实施快三年的中国，人们却比以往任何时候都渴望长期离开。</p>
+  <h2 id="section-1"><strong>摆烂</strong></h2>
+  <p>“摆烂”一词来源于 NBA 联赛，英文是 put rotten，指一些球队通过故意输球的方式让排名尽量靠后，目的是为了在第二年的夏季联赛能有更好的顺位，英文本意是有一定策略性地输，较类似于“田忌赛马”中的比赛策略。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/89fc5490-4d6d-492b-9704-c830193fffff.jpeg" data-asset-id="89fc5490-4d6d-492b-9704-c830193fffff" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>但在中文语境中，这个词的涵义有所变化，更类似于“破罐子破摔”，指当事情已经无法向好的方向发展，于是就干脆不再采取措施加以控制，而是任由其往坏的方向继续发展下去。</p>
+  <p>“摆烂”在2022年被网民的使用频率甚至超过了2021年兴起的热词“躺平”，某种程度这也反映出了疫情三年人们心态的变化。</p>
+  <h2 id="section-2"><strong>最后一代</strong></h2>
+  <p>“最后一代”出自上海封城中流传的一段视频：</p>
+  <figure class="embed-video">
+    <div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/fLJHfMGtdJQ?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+    </div>
+    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>视频中，一个穿着防护服的警察威胁一位不愿意集中隔离的居民：“如果你不执行市政府的命令，就要对你进行处罚，进行处罚以后，要影响你的三代！”，而这位居民则立即反击：“这是我们最后一代，谢谢。”</p>
+  <p>这段视频中“最后一代”的表述迅速引发了共情，人们纷纷在社交媒体转发这段视频并重复这个词，而当局也对此进行了严格的审查。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/c13e53fc-4e4c-4111-b2e8-e37d0718a832.jpeg" data-asset-id="c13e53fc-4e4c-4111-b2e8-e37d0718a832" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>在执行清零政策的过程中，公权力威胁公民的事屡见不鲜。11月底，北京天通苑南街道第二居委会的工作人员，就在开会时讨论如何整肃不听话的辖区居民，其中一句“他的软肋其实是他儿子”令人印象深刻。“我们是最后一代”正是一个公民对于这种肆无忌惮的公权力一种最为悲壮而又无奈的回应。</p>
+  <h2 id="section-3"><strong>偷着乐</strong></h2>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/91f7643e-6ed2-4aa7-ab23-d8f86de76111.jpeg" data-asset-id="91f7643e-6ed2-4aa7-ab23-d8f86de76111" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>“偷着乐”或“偷乐”是一种借助中共官方话术来表达不满的讽刺语。其来源于中国外交部发言人赵立坚在2021年12月例行记者会上的发言:“你们能够在抗击疫情期间，生活在中国，你们就偷着乐吧。”</p>
+  <p>赵立坚也因此被网民嘲讽为“赵偷乐”。2022年上海封城期间，网民以“偷着乐”反讽上海民众遭受所遭受的防疫次生灾难，并且以“偷乐”、“爱乐之城”、“Call me by your name”、“早C晚A”、“围美救赵”等话语讽刺当局在疫情期间进行的反美宣传，而“偷着乐”一词和相关变体在各大社交媒体平台遭到审查。</p>
+  <h2 id="section-4"><strong>二舅/二舅精神</strong></h2>
+  <p>“二舅”和“二舅精神”源于 Bilibili 用户“衣戈猜想”在今年7月底发布的视频《回村三天，二舅治好了我的精神内耗》，视频中的“二舅”命途多舛，年少时因被打错针而落下残疾，但后来自学木匠和维修技术，成为了村里“第二快乐的人”。作者称赞二舅“庄敬自强”，“把一手烂牌通过努力，过成了自己满意的样子。”</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/11509587-f9b9-4111-b91e-2d317b46cfda.jpeg" data-asset-id="11509587-f9b9-4111-b91e-2d317b46cfda" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>然而，这段视频在几天内引发了巨大争议。有网民称赞视频是现实版的影片《活着》，中国官媒也入场加持，将它定义为“正能量”，并对作者进行了专访。不过，也有不少网民指出视频中的所述与事实不符，更有网民批评“把苦难当正义来宣扬，把悲惨当坚强来布道，这是一种恶毒。”，指责这是一种对苦难的消费。</p>
+  <p>在这场舆论风波之后，“二舅”和“二舅精神”成为了苦难美学的最新代名词。</p>
+  <h2 id="xx"><strong>非必要不XX</strong></h2>
+  <p>“非必要不出门/区/市/境”、“非必要不聚集”、“非必要不堂食”等当局在执行防疫政策中常见的口号，当然，它们也不仅仅是口号，而是实实在在可以限制公民人身自由的手段。</p>
+  <p>层层加码之下，“非必要不XX”的更是演化出了各种版本：“非必要不出校”将学校变成了监狱，被封控到疯的大学生只能在操场爬行表达抗议；“非必要不返乡”将回家过年变成了犯罪，“先隔离再拘留”，有恃无恐的官员董鸿创造出了“恶意返乡”这个极尽冷血与荒诞的词汇。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/d126aed4-34b0-41a2-9ce9-e2079bd5e6c0.jpeg" data-asset-id="d126aed4-34b0-41a2-9ce9-e2079bd5e6c0" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>令人啼笑皆非的是，在12月“新十条”实施之后，“非必要不XX”也调转了方向，多地政府倡导“非必要不做核酸”，领导人一个转念，昨日之“必须要”变成了今日之“非必要”。</p>
+  <h2 id="section-5"><strong>可惜不是你</strong></h2>
+  <p>《可惜不是你》是马来西亚歌手梁静茹的一首情歌，收录在她2005年的音乐专辑《丝路》中，歌词表达的是失去爱人后的惋惜之情，本身并没有政治意涵。早在2012年，有“中国防火墙之父”称号的方滨兴在微博发帖悼念一名计算机教授去世，结果大量网民在评论区整齐划一地转发这首歌名来表达对他的诅咒，自此，《可惜不是你》开始与死亡诅咒联系在了一起。</p>
+  <figure class="embed-video">
+    <div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/xCmNcTpzBOI?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+    </div>
+    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>近年随着人们对于习近平执政的不满加剧，《可惜不是你》和“翠”（翠字由“习”和“卒”组成）、“信女愿终身茹素”（电视剧《甄嬛传》中诅咒雍正去世的梗）、“减一秒”（与膜蛤文化中的 +1s 对应，暗指给习近平的寿命 -1s）一样，成为不少网民在名人，尤其是政要离世时常常转发的歌曲，“你”即指代习近平。</p>
+  <p>2022年有不少世界级的政要离世，包括日本前首相安倍晋三、英国女王伊丽莎白二世、前中共领导人江泽民等，而《可惜不是你》每次都成为不少网民转发的“祈翠金曲”，而包括网易云音乐、QQ 音乐等在内的中国音乐网站也都在相应时段禁止了这首歌的转发。</p>
+  <h2 id="section-6">李<strong>佳琦悖论</strong></h2>
+  <p>“李佳琦悖论”的涵义是：一个人如果想要完全不触碰到政治禁区，那么他就必须了解所有的政治禁区。</p>
+  <p>事情缘起于中国知名带货主播李佳琦在6月3日在淘宝平台直播销售时，向观众推销了一款坦克造型的冰淇淋。而坦克则是1989年6月4日天安门大屠杀的象征之一，在6月4日前夕展示坦克造型的冰淇淋，无疑触碰到了当局的敏感神经，李佳琦随后停播了三个多月，直到9月20日才再次复出。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/401726a7-ede7-4e33-a1a9-869ae3547ecf.jpeg" data-asset-id="401726a7-ede7-4e33-a1a9-869ae3547ecf" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>外界普遍认为，生于1992年的李佳琦和他的年轻团队，可能在事前并不了解这一段历史。而事后在网上流传的<a href="https://twitter.com/TiTiGainInear/status/1534038928348807168" rel="noopener noreferrer" target="_blank">一段视频</a>显示，他们展示的坦克造型，可能是在玩一个<a href="https://www.zhihu.com/question/309755061" rel="noopener noreferrer" target="_blank">“厌女梗”</a>——以坦克比喻体型肥胖的女性，而当晚和李佳琦一起直播的恰恰是一位这样的女性。</p>
+  <p>事后，有网友总结了“李佳琦悖论”：“一个岁月静好党如果想完全不触碰到政治禁区，他就必须了解所有的政治禁区。这样，一个人如果不辱华，说明他对所有辱华的点都了如指掌，那么，ta就已经辱华了。”</p>
+  <h2 id="section-7"><strong>一键三连</strong></h2>
+  <p>一键三连起源于视频网站 Bilibili，原意是长按点赞按钮，可以同时对视频作品进行点赞、投币、收藏。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/ea663be4-b649-493f-9491-0c7b809cb05c.jpeg" data-asset-id="ea663be4-b649-493f-9491-0c7b809cb05c" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>在10月中共二十大召开前夕，由于外界普遍认为习近平会寻求并获得第三个总书记的任期，所以网民也用“一键三连”指代习近平连任。同时，“键”也谐音“贱”，所以在网民用“一键三连”指代习近平连任时，含有明显的贬义与嘲讽色彩。</p>
+  <p>10月23日，在紧接着二十大的二十届一中全会上，习近平果不其然地打破了江泽民和胡锦涛的先例，获得了“三连”。</p>
+  <h2 id="section-8"><strong>不做伥鬼</strong></h2>
+  <p>“伥鬼”指的是被老虎吃掉而变成老虎的仆役的鬼魂，品行卑劣，常引诱人使其被老虎吃掉。而“不做伥鬼”出自知名播客节目《反派影评》主播波米在“开局的终局”系列节目<a href="https://siji.typlog.io/episodes/changgui" rel="noopener noreferrer" target="_blank">第三章</a>，在这期节目中，他从导演陈可辛到韩国成立“泛亚洲制片公司”说起，探讨了“润学”和我们每个人的中在大环境急速恶化中承担的责任，在节目最后，他说道：“润出去的，希望你们落地生根；留下来的，咱们不做伥鬼。”</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/88bae9bb-6263-4117-aed2-d8655900fdad.jpeg" data-asset-id="88bae9bb-6263-4117-aed2-d8655900fdad" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>“开局的终局”系列节目发布于10月底，上线不久后就被全网封杀，《反派影评》的在小鹅通开设的付费节目店铺也被关闭，但这一系列节目却通过不同的渠道在中国流传甚广。在11月底开始蔓延全球各地的反封控抗议潮中，“不做伥鬼”也成为人们经常转发的一个口号。</p>
+  <h2 id="section-9"><strong>软肋</strong></h2>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/1d61fed2-3cbc-4cc9-a694-d3896219e55d.jpeg" data-asset-id="1d61fed2-3cbc-4cc9-a694-d3896219e55d" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>“软肋”即其字面意思，这个词之所以再次流行，是源于11月底网上广为流传的一段视频，视频中几位接街道工作人员在讨论如何对付抗拒防疫措施的居民，他们提到：“哪天XX的找个黑地儿拘他3天”，“就要影响你的儿子”，“他儿子就是他的软肋”，“对呀你就是失信人，你儿子以后就没有未来”，“看哪个帽子扣他合适”。视频中字幕标注日期为11月20日，地点是北京市昌平区天通苑南街道第二居委会内。</p>
+  <p>该视频引起了网民的极大愤怒，并被称为“伥鬼开会”，“软肋视频”、“天通苑万湖会议”，该视频随后被全网删除。</p>
+  <h2 id="section-10"><strong>躺匪</strong></h2>
+  <p>“躺匪”是“清零政策”的支持者对支持共存政策、放开政策支持者的污名化称呼，意即“支持躺平政策的匪类”。</p>
+  <p>在11月底到12月初一系列反封控示威潮之后，中国当局出乎意料地在12月对之前坚持的严格防疫政策进行了180度的大调整，中国国务院12月7日公布放宽新冠防疫措施“新十条”，内容包括不再对跨地区流动人员查验核酸检测阴性证明和健康码、不再开展落地检、不得采取各种形式的临时封控等等，随后“通信大数据行程卡”（行程码）也于13日宣布下线。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/767d3ee8-6cd6-451c-b920-cdad2cec96f0.jpeg" data-asset-id="767d3ee8-6cd6-451c-b920-cdad2cec96f0" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>“新十条”实施之后，“动态清零”已经在实际上寿终正寝，中国各地随即出现了大规模的感染，退烧药也在多地售罄。不少“清零派”将这些责任归咎于“躺匪”，北京作家张忆安肺癌晚期的母亲因为在医院感染了新冠而去世，他在微博写道：“今生今世我跟躺匪势不两立不共戴天。”但时评人长平就指出，在防疫措施上真正“躺平”的是中国政府，“抗疫三年来，第一，不仅没有激励制药行业研发出高效的疫苗，而且还不允许进口被广泛证明有效性较高的西方mRNA疫苗；第二，没有提升医疗系统，而是把医院一关了之，并且强制推广未经科学验证的中药；第三，没有对遭受疫情影响的个人和中小企业进行大规模的经济补贴。西方社会正是在做了这三方面的功课之后，社会才逐步恢复了正常。”</p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#中国数字时代 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-02-12/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC276%E6%9C%9F-%E5%94%B1%E7%A6%81%E6%AD%8C-%E5%88%B0-%E7%A6%81%E6%AD%A2%E5%90%90%E6%A7%BD-%E8%A7%81%E8%AF%81%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E5%8F%98%E8%BF%81%E7%9A%84%E6%98%A5%E6%99%9A/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2021-12-14/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E4%B8%93%E8%AE%BF-%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3%E5%AF%B9%E8%AF%9D-%E8%A7%A3%E6%9E%84%E6%96%B0%E7%96%86%E9%95%87%E5%8E%8B-%E7%AC%AC%E4%B8%80%E4%BD%9C%E8%80%85%E8%AE%B8%E7%A7%80%E4%B8%AD/">最早</a>--</span>
+    
+      <li>
+        <time>2023-01-02</time>
+        <a href="https://nodebe4.github.io/opinion/2023-01-02/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E4%BB%8E-%E6%88%91%E7%9A%84%E8%81%8C%E8%B4%A3-%E5%88%B0-%E6%88%91%E4%BB%AC%E7%9A%84%E8%81%8C%E8%B4%A3-2022%E5%B9%B4%E5%BA%A6%E6%95%8F%E6%84%9F%E8%AF%8D/">
+          【年终专题】从“我的职责”到“我们的职责”……2022年度敏感词
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-12-31</time>
+        <a href="https://nodebe4.github.io/opinion/2022-12-31/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E8%A2%AB%E5%88%A0%E9%99%A4%E8%A2%AB%E5%B1%8F%E8%94%BD%E7%9A%84-%E9%83%BD%E6%98%AF%E5%8E%86%E5%8F%B2%E7%9A%84%E4%BA%B2%E5%8E%86%E8%80%85-2022%E5%B9%B4%E5%BA%A6404%E6%96%87%E7%AB%A0/">
+          【年终专题】被删除被屏蔽的，都是历史的亲历者……2022年度404文章
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-12-31</time>
+        <a href="https://nodebe4.github.io/opinion/2022-12-31/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC231%E6%9C%9F-%E8%A2%AB%E5%90%AC%E5%88%B0%E7%9A%84%E5%91%90%E5%96%8A-%E8%B7%A8%E8%B6%8A%E5%9B%BD%E5%A2%83%E7%9A%84%E8%81%94%E7%BB%93%E4%B8%8E%E7%9C%8B%E8%A7%81%E5%B0%91%E6%95%B0%E7%BE%A4%E4%BD%93%E7%9A%84%E5%8A%AA%E5%8A%9B-%E7%99%BD%E7%BA%B8%E9%9D%A9%E5%91%BD-%E5%8F%8A%E5%85%B6%E4%BD%99/">
+          【404档案馆】第231期: 被听到的呐喊、跨越国境的联结与看见少数群体的努力——“白纸革命”及其余波
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-12-31</time>
+        <a href="https://nodebe4.github.io/opinion/2022-12-31/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC218%E6%9C%9F-%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%8B%87%E6%95%A2%E4%B8%8D%E5%BA%94%E8%AF%A5%E6%B2%A1%E6%9C%89%E5%9B%9E%E5%A3%B0-%E8%A2%AB%E5%9B%9B%E9%80%9A%E6%A1%A5%E6%8A%97%E8%AE%AE%E6%BF%80%E5%8A%B1%E7%9A%84%E5%B9%B4%E8%BD%BB%E6%8A%97%E8%AE%AE%E8%80%85/">
+          【404档案馆】第218期： “一个人的勇敢不应该没有回声”——被四通桥抗议激励的年轻抗议者
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-12-31/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC231%E6%9C%9F-%E8%A2%AB%E5%90%AC%E5%88%B0%E7%9A%84%E5%91%90%E5%96%8A-%E8%B7%A8%E8%B6%8A%E5%9B%BD%E5%A2%83%E7%9A%84%E8%81%94%E7%BB%93%E4%B8%8E%E7%9C%8B%E8%A7%81%E5%B0%91%E6%95%B0%E7%BE%A4%E4%BD%93%E7%9A%84%E5%8A%AA%E5%8A%9B-%E7%99%BD%E7%BA%B8%E9%9D%A9%E5%91%BD-%E5%8F%8A%E5%85%B6%E4%BD%99/">
+            前一篇：【404档案馆】第231期: 被听到的呐喊、跨越国境的联结与看见少数群体的努力——“白纸革命”及其余波
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-12-31/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E8%A2%AB%E5%88%A0%E9%99%A4%E8%A2%AB%E5%B1%8F%E8%94%BD%E7%9A%84-%E9%83%BD%E6%98%AF%E5%8E%86%E5%8F%B2%E7%9A%84%E4%BA%B2%E5%8E%86%E8%80%85-2022%E5%B9%B4%E5%BA%A6404%E6%96%87%E7%AB%A0/">
+            後一篇：【年终专题】被删除被屏蔽的，都是历史的亲历者……2022年度404文章
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-12-31/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC231%E6%9C%9F-%E8%A2%AB%E5%90%AC%E5%88%B0%E7%9A%84%E5%91%90%E5%96%8A-%E8%B7%A8%E8%B6%8A%E5%9B%BD%E5%A2%83%E7%9A%84%E8%81%94%E7%BB%93%E4%B8%8E%E7%9C%8B%E8%A7%81%E5%B0%91%E6%95%B0%E7%BE%A4%E4%BD%93%E7%9A%84%E5%8A%AA%E5%8A%9B-%E7%99%BD%E7%BA%B8%E9%9D%A9%E5%91%BD-%E5%8F%8A%E5%85%B6%E4%BD%99/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-12-31/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E8%A2%AB%E5%88%A0%E9%99%A4%E8%A2%AB%E5%B1%8F%E8%94%BD%E7%9A%84-%E9%83%BD%E6%98%AF%E5%8E%86%E5%8F%B2%E7%9A%84%E4%BA%B2%E5%8E%86%E8%80%85-2022%E5%B9%B4%E5%BA%A6404%E6%96%87%E7%AB%A0/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-12-31/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E8%A2%AB%E5%88%A0%E9%99%A4%E8%A2%AB%E5%B1%8F%E8%94%BD%E7%9A%84-%E9%83%BD%E6%98%AF%E5%8E%86%E5%8F%B2%E7%9A%84%E4%BA%B2%E5%8E%86%E8%80%85-2022%E5%B9%B4%E5%BA%A6404%E6%96%87%E7%AB%A0/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-12-31/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC231%E6%9C%9F-%E8%A2%AB%E5%90%AC%E5%88%B0%E7%9A%84%E5%91%90%E5%96%8A-%E8%B7%A8%E8%B6%8A%E5%9B%BD%E5%A2%83%E7%9A%84%E8%81%94%E7%BB%93%E4%B8%8E%E7%9C%8B%E8%A7%81%E5%B0%91%E6%95%B0%E7%BE%A4%E4%BD%93%E7%9A%84%E5%8A%AA%E5%8A%9B-%E7%99%BD%E7%BA%B8%E9%9D%A9%E5%91%BD-%E5%8F%8A%E5%85%B6%E4%BD%99/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-12-31/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC231%E6%9C%9F-%E8%A2%AB%E5%90%AC%E5%88%B0%E7%9A%84%E5%91%90%E5%96%8A-%E8%B7%A8%E8%B6%8A%E5%9B%BD%E5%A2%83%E7%9A%84%E8%81%94%E7%BB%93%E4%B8%8E%E7%9C%8B%E8%A7%81%E5%B0%91%E6%95%B0%E7%BE%A4%E4%BD%93%E7%9A%84%E5%8A%AA%E5%8A%9B-%E7%99%BD%E7%BA%B8%E9%9D%A9%E5%91%BD-%E5%8F%8A%E5%85%B6%E4%BD%99/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-12-31/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E8%A2%AB%E5%88%A0%E9%99%A4%E8%A2%AB%E5%B1%8F%E8%94%BD%E7%9A%84-%E9%83%BD%E6%98%AF%E5%8E%86%E5%8F%B2%E7%9A%84%E4%BA%B2%E5%8E%86%E8%80%85-2022%E5%B9%B4%E5%BA%A6404%E6%96%87%E7%AB%A0/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<中国数字时代>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-12-31/%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E8%A2%AB%E5%88%A0%E9%99%A4%E8%A2%AB%E5%B1%8F%E8%94%BD%E7%9A%84-%E9%83%BD%E6%98%AF%E5%8E%86%E5%8F%B2%E7%9A%84%E4%BA%B2%E5%8E%86%E8%80%85-2022%E5%B9%B4%E5%BA%A6404%E6%96%87%E7%AB%A0/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<中国数字时代>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-12-31/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC231%E6%9C%9F-%E8%A2%AB%E5%90%AC%E5%88%B0%E7%9A%84%E5%91%90%E5%96%8A-%E8%B7%A8%E8%B6%8A%E5%9B%BD%E5%A2%83%E7%9A%84%E8%81%94%E7%BB%93%E4%B8%8E%E7%9C%8B%E8%A7%81%E5%B0%91%E6%95%B0%E7%BE%A4%E4%BD%93%E7%9A%84%E5%8A%AA%E5%8A%9B-%E7%99%BD%E7%BA%B8%E9%9D%A9%E5%91%BD-%E5%8F%8A%E5%85%B6%E4%BD%99/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

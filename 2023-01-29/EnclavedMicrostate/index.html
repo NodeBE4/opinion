@@ -1,0 +1,2404 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>EnclavedMicrostate在2023-01-23~2023-01-29的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="EnclavedMicrostate在2023-01-23~2023-01-29的言论" />
+    <meta property="twitter:title" content="EnclavedMicrostate在2023-01-23~2023-01-29的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FAskHistorians%2Fcomments%2F10iunfq%2Fwhat_pop_history_book_has_done_the_most_damage_to%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/AskHistorians/comments/10iunfq/what_pop_history_book_has_done_the_most_damage_to/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/AskHistorians/comments/10iunfq/what_pop_history_book_has_done_the_most_damage_to/&text=EnclavedMicrostate在2023-01-23~2023-01-29的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/AskHistorians/comments/10iunfq/what_pop_history_book_has_done_the_most_damage_to/&title=EnclavedMicrostate在2023-01-23~2023-01-29的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/AskHistorians/comments/10iunfq/what_pop_history_book_has_done_the_most_damage_to/&title=EnclavedMicrostate在2023-01-23~2023-01-29的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=EnclavedMicrostate在2023-01-23~2023-01-29的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/AskHistorians/comments/10iunfq/what_pop_history_book_has_done_the_most_damage_to/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/AskHistorians/comments/10iunfq/what_pop_history_book_has_done_the_most_damage_to/&title=EnclavedMicrostate在2023-01-23~2023-01-29的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=EnclavedMicrostate在2023-01-23~2023-01-29的言论&url=https://old.reddit.com/r/AskHistorians/comments/10iunfq/what_pop_history_book_has_done_the_most_damage_to/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>EnclavedMicrostate在2023-01-23~2023-01-29的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2023-01-29
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: EnclavedMicrostate</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/AskHistorians/comments/10iunfq/what_pop_history_book_has_done_the_most_damage_to/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#1072-what-pop-history-book-has-done-the-most-damage-to-the-study-of-your-particular-subfield-submitted-on-2023-01-23-0522510800" id="markdown-toc-1072-what-pop-history-book-has-done-the-most-damage-to-the-study-of-your-particular-subfield-submitted-on-2023-01-23-0522510800">1072: What pop history book has done the most damage to the study of your particular subfield?, submitted on 2023-01-23 05:22:51+08:00.</a></li>
+  <li><a href="#1073-unusual-grouping-of-5-horses-i-havent-enabled-abundant-resources-or-anything-else-that-would-cause-this-submitted-on-2023-01-23-0754080800" id="markdown-toc-1073-unusual-grouping-of-5-horses-i-havent-enabled-abundant-resources-or-anything-else-that-would-cause-this-submitted-on-2023-01-23-0754080800">1073: Unusual grouping of 5 horses. I haven’t enabled abundant resources or anything else that would cause this., submitted on 2023-01-23 07:54:08+08:00.</a></li>
+  <li><a href="#1074-what-pop-history-book-has-done-the-best-job-of-accurately-portraying-your-area-of-study-submitted-on-2023-01-23-1827170800" id="markdown-toc-1074-what-pop-history-book-has-done-the-best-job-of-accurately-portraying-your-area-of-study-submitted-on-2023-01-23-1827170800">1074: What pop history book has done the best job of accurately portraying your area of study?, submitted on 2023-01-23 18:27:17+08:00.</a></li>
+  <li><a href="#1075-miku-magical-mirai---weekly-discussion-thread-jan-23rd-2023-submitted-on-2023-01-23-2241520800" id="markdown-toc-1075-miku-magical-mirai---weekly-discussion-thread-jan-23rd-2023-submitted-on-2023-01-23-2241520800">1075: Miku Magical Mirai - Weekly Discussion Thread, Jan 23rd, 2023, submitted on 2023-01-23 22:41:52+08:00.</a></li>
+  <li><a href="#1076-doja-cat-covered-in-30000-swarovski-crystals-applied-by-hand-at-the-schiaparelli-haute-couture-show-submitted-on-2023-01-24-0112460800" id="markdown-toc-1076-doja-cat-covered-in-30000-swarovski-crystals-applied-by-hand-at-the-schiaparelli-haute-couture-show-submitted-on-2023-01-24-0112460800">1076: Doja Cat covered in 30,000 Swarovski crystals applied by hand at the Schiaparelli Haute Couture show, submitted on 2023-01-24 01:12:46+08:00.</a></li>
+  <li><a href="#1077-border-between-china-and-kazakhstan-in-xinjiang-region-submitted-on-2023-01-24-0258350800" id="markdown-toc-1077-border-between-china-and-kazakhstan-in-xinjiang-region-submitted-on-2023-01-24-0258350800">1077: Border between China and Kazakhstan in Xinjiang region, submitted on 2023-01-24 02:58:35+08:00.</a></li>
+  <li><a href="#1078-what-was-the-role-of-the-grand-secretaries-during-the-qing-dynasty-submitted-on-2023-01-25-2227240800" id="markdown-toc-1078-what-was-the-role-of-the-grand-secretaries-during-the-qing-dynasty-submitted-on-2023-01-25-2227240800">1078: What was the role of the grand secretaries during the Qing dynasty?, submitted on 2023-01-25 22:27:24+08:00.</a></li>
+  <li><a href="#1079-short-answers-to-simple-questions--january-25-2023-submitted-on-2023-01-26-0100140800" id="markdown-toc-1079-short-answers-to-simple-questions--january-25-2023-submitted-on-2023-01-26-0100140800">1079: Short Answers to Simple Questions | January 25, 2023, submitted on 2023-01-26 01:00:14+08:00.</a></li>
+  <li><a href="#1080-why-do-napoleonics-miniatures-have-fixed-bayonets-submitted-on-2023-01-26-0633400800" id="markdown-toc-1080-why-do-napoleonics-miniatures-have-fixed-bayonets-submitted-on-2023-01-26-0633400800">1080: Why do Napoleonics miniatures have fixed bayonets?, submitted on 2023-01-26 06:33:40+08:00.</a></li>
+  <li><a href="#1081-the-japanese-massacred-many-korean-filipino-and-chinese-civillians-men-women-children-and-elders-and-they-cause-the-nanking-massacre-and-the-bataan-death-march-but-why-they-are-playing-as-a-victim-of-the-bombings-of-hiroshima-and-nagasaki-submitted-on-2023-01-27-0819170800" id="markdown-toc-1081-the-japanese-massacred-many-korean-filipino-and-chinese-civillians-men-women-children-and-elders-and-they-cause-the-nanking-massacre-and-the-bataan-death-march-but-why-they-are-playing-as-a-victim-of-the-bombings-of-hiroshima-and-nagasaki-submitted-on-2023-01-27-0819170800">1081: THE Japanese Massacred Many Korean Filipino and Chinese civillians men women children and elders and they cause the Nanking massacre and the Bataan Death march but why they are playing as a victim of the bombings of Hiroshima and Nagasaki?, submitted on 2023-01-27 08:19:17+08:00.</a></li>
+  <li><a href="#1082-why-were-the-japanese-so-willing-to-adopt-western-musicfashionculture-during-the-meiji-period-submitted-on-2023-01-27-2336390800" id="markdown-toc-1082-why-were-the-japanese-so-willing-to-adopt-western-musicfashionculture-during-the-meiji-period-submitted-on-2023-01-27-2336390800">1082: Why were the Japanese so willing to adopt Western music/fashion/culture during the Meiji period?, submitted on 2023-01-27 23:36:39+08:00.</a></li>
+  <li><a href="#1083-why-past-chinese-statesgovernment-is-called-dynasty-not-empire-or-kingdom-submitted-on-2023-01-28-2235470800" id="markdown-toc-1083-why-past-chinese-statesgovernment-is-called-dynasty-not-empire-or-kingdom-submitted-on-2023-01-28-2235470800">1083: Why past Chinese states/government is called “Dynasty” not “Empire or Kingdom”?, submitted on 2023-01-28 22:35:47+08:00.</a></li>
+  <li><a href="#1084-favorite-3d-live-outfit-updated-submitted-on-2023-01-29-0048270800" id="markdown-toc-1084-favorite-3d-live-outfit-updated-submitted-on-2023-01-29-0048270800">1084: Favorite 3D live outfit? (Updated), submitted on 2023-01-29 00:48:27+08:00.</a></li>
+  <li><a href="#1085-hobby-scuffles-week-of-january-30-2023-submitted-on-2023-01-29-2230090800" id="markdown-toc-1085-hobby-scuffles-week-of-january-30-2023-submitted-on-2023-01-29-2230090800">1085: [Hobby Scuffles] Week of January 30, 2023, submitted on 2023-01-29 22:30:09+08:00.</a></li>
+</ul>
+
+<h3 id="1072-what-pop-history-book-has-done-the-most-damage-to-the-study-of-your-particular-subfield-submitted-on-2023-01-23-0522510800">1072: <a href="https://old.reddit.com/r/AskHistorians/comments/10iunfq/what_pop_history_book_has_done_the_most_damage_to/">What pop history book has done the most damage to the study of your particular subfield?</a>, submitted on 2023-01-23 05:22:51+08:00.</h3>
+
+<p>—– <strong>1072.1</strong> —–2023-01-23 16:29:20+08:00:</p>
+
+<p>Unfortunately, that kind of grand comparative history doesn’t really exist, at least in the wider historiographical consciousness. The ‘Great Divergence’ in economic productivity, as it is sometimes called, is essentially purely one of Europe vs the Middle East, East Asia, and South Asia; Central Asia, Africa, Oceania, and the Americas are all considered peripheral to that. The irony, of course, is that surely the ‘Greater’ divergence would therefore be that between Eurasia and the rest of the world, before Eurasia itself bifurcated into a more ‘dynamic’ West and more ‘stagnant’ East, but, well…</p>
+
+<p>So what you end up with is that a lot of the <em>good</em> comparative history doesn’t attempt to answer your question, whereas what <em>does</em> try to answer your question – at least, from the broader, systematic perspective of why there were emerging divergences in economic power, military technology, organising capacity, and such – tends to be bad. There’s a few exceptions of course, and I’d recommend, as one option, James Belich’s recent book <em>The World the Plague Made</em>, albeit as a <em>perspective</em> rather than as a definitive statement. There are some economic historians who take umbrage with his numbers, and his argument also rests on the not-uncontroversial position that the evidence for the Black Death in China and India is relatively tenuous. I will also note a personal bias in that he’s one of my professors. But, that all being said, it is at least an attempt at the ‘Why Europe’ question in grand geographical and chronological scope that comes from someone with a background in the historical method.</p>
+
+<p>—– <strong>1072.2</strong> —–2023-01-23 21:55:12+08:00:</p>
+
+<p>I wonder if you’re misapprehending /u/Ramses_IV’s point here, which is not that popular history deserves no credit, but rather that it is not creditable for an author or work to <em>only</em> draw attention to a topic if its presentation of that topic is flawed and if the most obvious follow-ups are as well. It’s not that people shouldn’t write biographies of Charlemagne for a popular audience; rather it’s that people shouldn’t get credit <em>for</em> writing them for a popular audience, people should get credit for them being <em>good history</em>.</p>
+
+<p>—– <strong>1072.3</strong> —–2023-01-24 07:46:39+08:00:</p>
+
+<p>It’s worth adding that the two milhist books you mention there are, er, not unambiguously well-acclaimed. To quote the more critical parts of some reviews of <em>Special Operations in the Age of Chivalry</em>:</p>
+
+<blockquote>
+  <p>Errors in analysis and data reduce the persuasiveness of the book… Moreover, the final notes to each chapter contain the line, ‘based on the following sources,’ which is then followed by a litany of studies and accounts in no particular order. It is thus impossible for the reader to correlate the author’s claims to his data.</p>
+</blockquote>
+
+<p>– John Hosler</p>
+
+<blockquote>
+  <p>But can medieval special operations be so readily identified? One difficulty is that, with the possible exception of the Nizari assassins of the Middle East, there were no medieval equivalents to modern ‘special forces’. Another arises from the fact that, as the character of war changed in the twentieth century, so too did the relationship between special operations and ‘regular’ forms of military effort.</p>
+</blockquote>
+
+<p>– Andrew Ayton</p>
+
+<blockquote>
+  <p>It is not easy to generalise from the varied kinds of military actions considered in this book. One of the arguments is that technological change, particularly the advent of gunpowder, had little impact; another is that special operations had a particular importance in siege warfare. Does the type of warfare analysed in this book deserve special treatment? Part of the case is that ‘most medieval special operations have been forgotten’, but not all the types of action discussed have sufficient in common to warrant being lumped together as a specific category. This is, however, a wide-ranging study, which sets medieval warfare in a novel perspective. The relevance of some of the films listed in the bibliography, such as Star Wars and Twelve Monkeys, is not immediately clear to this reviewer.</p>
+</blockquote>
+
+<p>– Michael Prestwich</p>
+
+<blockquote>
+  <p>Fifty years ago, those who wrote about military history, often soldiers themselves, tried to analyze medieval warfare in the terms of its modern-day counterpart. This book is reminiscent of that type of writing – on finding some similarities between how people fought 500 years ago and today, the author tries to explain medieval warfare in a way that can be recognized as something like what we see today. But the argument in this case is stretched too thin.</p>
+</blockquote>
+
+<p>– Peter Konieczny</p>
+
+<blockquote>
+  <p>The book does not, however, move much beyond detail. It lacks a coherent narrative and analytical framework… Moreover, the author’s examples of special operations do not quite fit his own definition. He notes in the introduction that they involved four basic features: destroying infrastructure, eliminating weapons systems, killing and capturing individuals, and attacking symbols (p. 4). Later, however, he excludes weapons systems on the grounds that they do not apply (p. 34) to the Middle Ages since they were of little importance. He observes in the same place that although special operations existed during the period, there were no special forces to carry them out. The distinction between killing and capturing individuals and attacking symbols seems to fall apart of its own weight, as the author repeatedly shows with his examples that the former involved the latter in the Middle Ages. All this raises the question, why bother with the term, which seems more relevant to the present than the past. Or perhaps we can invoke the author’s own caution with respect to the ambiguities and complexities of naval warfare.</p>
+</blockquote>
+
+<p><em>Renaissance Military Memoirs</em> actually has quite a few more supporters, especially in that it is more a work of literary than military history, and appears to pull that off well. That said, the comparative approach he uses wasn’t universally acclaimed:</p>
+
+<blockquote>
+  <p>The book uses a fundamentally anachronistic and ahistoric approach, as Harari repeatedly juxtaposes examples from twentieth-century memoirs with passages from Renaissance memoirs. The author assures his readers that approach ‘may seem to be dangerously anachronistic, but… is in fact the best safeguard against the danger of anachronism’ (18). This technique produces endless frustratingly facile or misleading contrasts between Renaissance memoirs and modern texts, such as: ‘whereas the normal mode of the description in twentieth-century junior-ranks memoirs is experiential, in Renaissance memoirs it is factual’ (71). When confronted with Renaissance memoirs that do not fit into his categories, Harari scoffs that ‘such exceptional descriptions merely prove the rule’ (81). The depth of the author’s ahistoric attitude can readily be seen in the presentation of the historian’s craft: ‘the cornerstone of late-modern historiography is abstractions such as “Protestant ethics gave rise to Capitalism”’ (105). The book abounds with absurd pronouncements such as, ‘At least two of the most important twentieth-century wars, World War I and Vietnam, have memoirs rather than a history’ (185).</p>
+</blockquote>
+
+<p>– Brian Sandberg</p>
+
+<p>That said, it’s not that he hasn’t made an interesting contribution or two: ‘The Concept of ‘Decisive Battles’ in World History’ is, in my view, a reasonably cromulent read. But essentially only one of his two books before the pivot to evo-psych was particularly well-regarded.</p>
+
+<p>—– <strong>1072.4</strong> —–2023-02-02 18:12:32+08:00:</p>
+
+<p>Is it? This is, I kid you not, the <em>first time</em> I have seen that explanation, and I’ve done a decent amount of study on the Great Divergence thesis over the past few months. That’s anecdotal of course, but the fact I cannot name a single historian in the last 20 years to have proposed that is telling as to how mainstream that view is.</p>
+
+<h3 id="1073-unusual-grouping-of-5-horses-i-havent-enabled-abundant-resources-or-anything-else-that-would-cause-this-submitted-on-2023-01-23-0754080800">1073: <a href="https://old.reddit.com/r/civ/comments/10iy8mz/unusual_grouping_of_5_horses_i_havent_enabled/">Unusual grouping of 5 horses. I haven’t enabled abundant resources or anything else that would cause this.</a>, submitted on 2023-01-23 07:54:08+08:00.</h3>
+
+<p>—– <strong>1073.1</strong> —–2023-01-23 21:07:22+08:00:</p>
+
+<p>Australia looking on in envy…</p>
+
+<h3 id="1074-what-pop-history-book-has-done-the-best-job-of-accurately-portraying-your-area-of-study-submitted-on-2023-01-23-1827170800">1074: <a href="https://old.reddit.com/r/AskHistorians/comments/10j9dge/what_pop_history_book_has_done_the_best_job_of/">What pop history book has done the best job of accurately portraying your area of study?</a>, submitted on 2023-01-23 18:27:17+08:00.</h3>
+
+<p>—– <strong>1074.1</strong> —–2023-01-24 01:55:18+08:00:</p>
+
+<p>Stephen Platt’s <em>Autumn in the Heavenly Kingdom</em>, hands-down. It’s meticulously researched, extremely well-written, and historiographically innovative. If I were to be asked what one book to read on the Taiping, this would be it. Now, its coverage is decidedly incomplete. It does not cover the leadup to the uprising in the 1840s, nor its first nine years or so from 1851-59. What it does do is narrate, in meticulous detail, the last five years of the Taiping War, in which the Taiping sought to gain control of Shanghai while as Qing gradually pushed downriver along the Yangtze towards their capital at Nanjing. The key thing is it is fundamentally a connected history. The resurgence of the Taiping in 1860 is placed in a context with the concluding phases of the Qing defeat in the Arrow War against Britain and France; the British decision to tacitly, and later actively, support the Qing is considered in conjunction with British approaches to ‘neutrality’ in the concurrent American Civil War. The Taiping can often be trivialised as a curiosity of Chinese history, but Platt manages to reframe it as a key event of <em>global</em> history.</p>
+
+<p>—– <strong>1074.2</strong> —–2023-01-24 02:57:19+08:00:</p>
+
+<p>It’s popular in the sense of being intended for a general rather than a narrowly academic audience. It’s published by a trade press, it has a narrative format, it uses end- rather than footnotes (though that’s not uncommon in academic press books either), and so on. It just happens to also be written by an academic and provide a fresh perspective that enhances our academic understanding.</p>
+
+<p>—– <strong>1074.3</strong> —–2023-01-24 06:43:48+08:00:</p>
+
+<p>I would consider it to be popular history written by an academic, yes. My benchmark is not to do with provenance but rather to do with intended audience: generally speaking, a narrative history published via a trade press is going to be intended to be both affordable and approachable to the general public in a way that an analytical history via an academic press will not.</p>
+
+<p>—– <strong>1074.4</strong> —–2023-03-20 02:22:22+08:00:</p>
+
+<p>It hasn’t been as overtly impactful, but it still is a very good read based on what seems to be a justified reading of considerable primary evidence. I think the key caveat it’s worth remembering that it is not a history of the Opium War itself, but rather about Sino-British relations.</p>
+
+<h3 id="1075-miku-magical-mirai---weekly-discussion-thread-jan-23rd-2023-submitted-on-2023-01-23-2241520800">1075: <a href="https://old.reddit.com/r/VirtualYoutubers/comments/10je17q/miku_magical_mirai_weekly_discussion_thread_jan/">Miku Magical Mirai - Weekly Discussion Thread, Jan 23rd, 2023</a>, submitted on 2023-01-23 22:41:52+08:00.</h3>
+
+<p>—– <strong>1075.1</strong> —–2023-01-25 07:01:51+08:00:</p>
+
+<p>Noel has one now too: https://twitter.com/danchou_sub</p>
+
+<p>—– <strong>1075.2</strong> —–2023-01-29 17:26:58+08:00:</p>
+
+<p>Noel likes sniffing her hamsters but I’ve never heard of her eating them.</p>
+
+<p>—– <strong>1075.3</strong> —–2023-01-30 06:26:40+08:00:</p>
+
+<p>Vaguepost much?</p>
+
+<h3 id="1076-doja-cat-covered-in-30000-swarovski-crystals-applied-by-hand-at-the-schiaparelli-haute-couture-show-submitted-on-2023-01-24-0112460800">1076: <a href="https://old.reddit.com/r/pics/comments/10jhnbc/doja_cat_covered_in_30000_swarovski_crystals/">Doja Cat covered in 30,000 Swarovski crystals applied by hand at the Schiaparelli Haute Couture show</a>, submitted on 2023-01-24 01:12:46+08:00.</h3>
+
+<p>—– <strong>1076.1</strong> —–2023-01-24 08:10:39+08:00:</p>
+
+<p>Well enough to remember that it’s the Suliban, yes.</p>
+
+<h3 id="1077-border-between-china-and-kazakhstan-in-xinjiang-region-submitted-on-2023-01-24-0258350800">1077: <a href="https://old.reddit.com/r/MapPorn/comments/10jkbqr/border_between_china_and_kazakhstan_in_xinjiang/">Border between China and Kazakhstan in Xinjiang region</a>, submitted on 2023-01-24 02:58:35+08:00.</h3>
+
+<p>—– <strong>1077.1</strong> —–2023-01-24 07:54:14+08:00:</p>
+
+<p>It’s classic imperial frontier consolidation: having a denser population in a region makes it more affordable and justifiable to build up administrative and defence infrastructure.</p>
+
+<p>—– <strong>1077.2</strong> —–2023-01-24 07:55:15+08:00:</p>
+
+<p>I mean, a good chunk of those fields – even if not those specific ones, Xinjiang in general – are being farmed by slave labour, or near-equivalents like prison labour, conscripted from the internment camps. It’s hardly some kind of whataboutism. Like, if you saw a photo of an 1850s plantation in the American south, it’d hardly be inappropriate to mention slavery if it wasn’t highlighted in the original post.</p>
+
+<p>—– <strong>1077.3</strong> —–2023-01-24 08:14:43+08:00:</p>
+
+<p>‘Free countries’ ideally recognise that international cooperation is preferable to militarisation and brinkmanship. This is why there are things like the Schengen Area, which is a case of several countries undefending their borders so much they don’t even have civilian border controls with each other.</p>
+
+<p>Also, ‘leave border regions undeveloped’ is a hell of a way to frame ‘not doing a colonialism by deliberately migrating a favoured population into a region while committing cultural genocide against its indigenous people.’</p>
+
+<p>—– <strong>1077.4</strong> —–2023-01-24 08:41:35+08:00:</p>
+
+<p>I mean there’s any number of reasons to do it, but if China is looking at things in terms of having a stronger border, then yes, expanding it economically offsets the cost of administrative and military strengthening. The economic side of things is made more efficient by having cheap Uighur and Kazakh labour thanks to being able to essentially conscript prison labour from the interment camps, of course, but that doesn’t inherently mean farming up against the border is beneficial.</p>
+
+<p>—– <strong>1077.5</strong> —–2023-01-24 16:36:22+08:00:</p>
+
+<p>If by ‘savvy’ you mean ‘an effective method of colonialism whereby Han Chinese people are transplanted to outpopulate Kazakhs and Uighurs, at the same time that there are programmes of cultural genocide <a href="https://apnews.com/article/ap-top-news-international-news-weekend-reads-china-health-269b3de1af34e17c1941a514f78d764c">and literal eugenicist policies to force abortions and sterilisations of Uighurs</a>, then sure, it’s ‘savvy’, but I will not give China that ‘credit’. Brutality, pure and simple, is what it is. It’s brutality that is common throughout human history, but that does not give China an excuse.</p>
+
+<p>—– <strong>1077.6</strong> —–2023-01-25 06:29:42+08:00:</p>
+
+<p>‘Its own cities’ which it conquered by force in the 1750s, maintained control of through force from the 1820s onwards, conquered <em>again</em> after they declared independence in the 1870s, conquered <em>again</em> after they declared independence in the 1940s, and have been actively genociding the native populations of in the last few decades. Sure. China’s ‘own’ cities. Sure.</p>
+
+<p>—– <strong>1077.7</strong> —–2023-01-25 06:34:04+08:00:</p>
+
+<p>TIL that it’s Sinophobia to oppose genocide and colonialism, because guess what? I think there <em>should</em> be restitution for First Nations and Native groups, which hasn’t been forthcoming in America, nor in Canada, and sure as hell ain’t happening in China right now.</p>
+
+<p>—– <strong>1077.8</strong> —–2023-01-25 06:53:30+08:00:</p>
+
+<p>Just repeating the assertions you made to me, but go off I guess.</p>
+
+<p>—– <strong>1077.9</strong> —–2023-01-27 23:41:10+08:00:</p>
+
+<p>Restitution for killing and expelling their ancestors and seizing their land? Restitution for breaking treaties?</p>
+
+<p>As for the word ‘colonialism’, it absolutely is. Historians have been using colonialism to describe Chinese policies on Taiwan, in southeast China, in Tibet, in Mongolia, in Manchuria, and in Xinjiang for at least the last 2 decades. Colonialism isn’t just what white Europeans do to people who aren’t white Europeans. When China settles Han Chinese people in Xinjiang, blows up mosques, and rounds up Uighurs and Kazakhs into ‘re-education’ camps, that’s textbook colonial policy, just with the technology of modern totalitarianism.</p>
+
+<h3 id="1078-what-was-the-role-of-the-grand-secretaries-during-the-qing-dynasty-submitted-on-2023-01-25-2227240800">1078: <a href="https://old.reddit.com/r/AskHistorians/comments/10kzuq1/what_was_the_role_of_the_grand_secretaries_during/">What was the role of the grand secretaries during the Qing dynasty?</a>, submitted on 2023-01-25 22:27:24+08:00.</h3>
+
+<p>—– <strong>1078.1</strong> —–2023-01-26 08:46:09+08:00:</p>
+
+<p>As an addendum, Peter Perdue has made the case that the expansion of the secret memorial system and the establishment of the Grand Council were closely linked with the Qing military effort in Central Asia. The Grand Council was, of course, officially the <em>Junjichu</em> 軍機處 or ‘Department of Military Secrets’. While their function was to circumvent the more traditionally Han-run, Ming-era inheritances in the Qing civil service, it was made imperative by the costly, and largely Manchu-run, Inner Asian-interested campaigns the Qing waged on their western and northern frontiers. Hence, among other things, the almost exclusively Banner makeup of the Grand Council in its early iterations.</p>
+
+<p>Peter Perdue’s <em>China Marches West</em> (2005) goes into this in more detail than I do here; as an addendum on matters in China Proper and the ‘inner’ vs ‘outer’ court, Wensheng Wang’s <em>White Lotus Rebels and South China Pirates</em> (2014) is the book to read on the Jiaqing-era reforms to Qing political mechanisms and the ideological struggle over the balance of power between the two.</p>
+
+<h3 id="1079-short-answers-to-simple-questions--january-25-2023-submitted-on-2023-01-26-0100140800">1079: <a href="https://old.reddit.com/r/AskHistorians/comments/10l3hny/short_answers_to_simple_questions_january_25_2023/">Short Answers to Simple Questions | January 25, 2023</a>, submitted on 2023-01-26 01:00:14+08:00.</h3>
+
+<p>—– <strong>1079.1</strong> —–2023-01-26 19:22:56+08:00:</p>
+
+<p>When was the classic ‘pith helmet’ pattern of Foreign Service Helmet introduced in the British military? I’m aware of the older ‘air-pipe’ type being used in India, China, and East Africa from at least 1857 to 1868, but I don’t know when the version without the raised vent spine was used. On a related note, was this style of helmet also worn by Royal Navy personnel, or just the Army?</p>
+
+<p>—– <strong>1079.2</strong> —–2023-01-29 05:49:19+08:00:</p>
+
+<p>Jean Chesneaux’s edited volume <em>Popular Movements and Secret Societies in China, 1840-1950</em> is a bit old, but it covers quite a lot of the late Qing secret societies and I think is worth a read. Dian Murray’s <em>The Origins of the Tiandihui</em> is an in-depth look specifically at the Heaven and Earth Society, the antecedent to the Triads, which for the mid-nineteenth century was certainly one of the more influential entities. David Ownby’s <em>Brotherhood and Secret Societies in Early and Mid-Qing China: The Formation of a Tradition</em> is one I haven’t read but covers a slightly broader period. Ownby’s edited volume with Mary Heidhues and others, <em>Secret Societies Reconsidered: Perspectives on the Social History of Early Modern China and Southeast Asia</em>, is probably one of the better modern works on the subject, but it does focus mainly on the Southeast Asian cases over the well-trodden grounds of Chinese societies.</p>
+
+<h3 id="1080-why-do-napoleonics-miniatures-have-fixed-bayonets-submitted-on-2023-01-26-0633400800">1080: <a href="https://old.reddit.com/r/wargaming/comments/10lbv82/why_do_napoleonics_miniatures_have_fixed_bayonets/">Why do Napoleonics miniatures have fixed bayonets?</a>, submitted on 2023-01-26 06:33:40+08:00.</h3>
+
+<p>—– <strong>1080.1</strong> —–2023-01-26 19:02:31+08:00:</p>
+
+<blockquote>
+  <p>the standard infantryman didn’t aim as we know it</p>
+</blockquote>
+
+<p>This isn’t wholly true, although I admit I’m not familiar with the possibility of changes by the Napoleonic wars: <a href="https://twitter.com/RobbieMacNiven/status/1614995851713339393">1770s British manuals routinely refer to the bayonet lug as a ‘sight’</a>, which certainly implies that the ordinary musketeer would have been aiming with it.</p>
+
+<p>—– <strong>1080.2</strong> —–2023-01-27 02:43:45+08:00:</p>
+
+<p>To quote the 1764 publication <em>A Manual of Military Exercise and Commonly Practiced Manoevres</em>,</p>
+
+<blockquote>
+  <p>Front Rank (Kneeling).<br />
+…<br />
+Present !<br />
+Bring the Firelock briskly down to the Present, by extending the left Arm to the full Length with a strong Motion ; at the same Time spring up the Butt by the Cock with the right Hand, and raise up the butt so high upon the right Shoulder, that you may not be obliged to stoop too much with the Head, the right Cheek to be close to the Butt, and the left Eye shut, and look along the Barrel with the right Eye from the Breech Pin to the Muzzle ; keep the left Elbow down in an easy Position, and stand as steady as possible, the Thumb of the right Hand to remain in the Position as described in the third Explanation of the Manual.</p>
+</blockquote>
+
+<p>This seems pretty unambiguous that when volley firing, you were supposed to use parts of the gun to aim at the enemy rather than just pointing it in a general direction.</p>
+
+<p>—– <strong>1080.3</strong> —–2023-01-27 07:33:21+08:00:</p>
+
+<p>We are in fact referring simply to different parts of the same 1764 manual. My quotation is from page 26, which is part of the more elaborated-upon set of drills, while yours is from pages 1-2, in the shorter introductory segment. That aiming is not specified in the introductory segment would imply to me that it would have been readily intuitive.</p>
+
+<p>Meanwhile, I’m not sure if we’re speaking of the same 46% here, but 46% was the accuracy achieved at 150 paces <a href="http://kabinettskriege.blogspot.com/2016/02/how-accurate-were-regular-soldiers-in.html">during Prussian volley fire trials</a>.</p>
+
+<p>I’m simply very doubtful of the claim that you didn’t aim to hit – simply <em>trying</em> to be somewhat on-target, in the window you had between ‘Present!’ and ‘Fire!’, would have been a trivial action that would have paid off, and that is precisely why it was done.</p>
+
+<h3 id="1081-the-japanese-massacred-many-korean-filipino-and-chinese-civillians-men-women-children-and-elders-and-they-cause-the-nanking-massacre-and-the-bataan-death-march-but-why-they-are-playing-as-a-victim-of-the-bombings-of-hiroshima-and-nagasaki-submitted-on-2023-01-27-0819170800">1081: <a href="https://old.reddit.com/r/AskHistorians/comments/10m71fu/the_japanese_massacred_many_korean_filipino_and/">THE Japanese Massacred Many Korean Filipino and Chinese civillians men women children and elders and they cause the Nanking massacre and the Bataan Death march but why they are playing as a victim of the bombings of Hiroshima and Nagasaki?</a>, submitted on 2023-01-27 08:19:17+08:00.</h3>
+
+<p>—– <strong>1081.1</strong> —–2023-01-27 08:54:36+08:00:</p>
+
+<p>This submission has been removed because it is <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22soapboxing.22_or_loaded_questions.">soapboxing</a> or <a href="https://www.reddit.com/r/AskHistorians/comments/glq47z/rules_roundtable_xiii_soapboxing_loaded_questions/">moralizing:</a> it has the effect of promoting an opinion on contemporary politics or social issues at the expense of historical integrity. There are certainly historical topics that relate to contemporary issues and it is possible for legitimate interpretations that differ from each other to come out of looking at the past through different political lenses. However, we will remove questions that put a deliberate slant on their subject or solicit answers that align with a specific pre-existing view.</p>
+
+<h3 id="1082-why-were-the-japanese-so-willing-to-adopt-western-musicfashionculture-during-the-meiji-period-submitted-on-2023-01-27-2336390800">1082: <a href="https://old.reddit.com/r/AskHistorians/comments/10mnrz9/why_were_the_japanese_so_willing_to_adopt_western/">Why were the Japanese so willing to adopt Western music/fashion/culture during the Meiji period?</a>, submitted on 2023-01-27 23:36:39+08:00.</h3>
+
+<p>—– <strong>1082.1</strong> —–2023-01-28 07:39:35+08:00:</p>
+
+<p>Thank you for your response. Unfortunately, we have had to remove it due to violations of <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_answers">subreddit’s rules about answers needing to reflect current scholarship</a>. While we appreciate the effort you have put into this comment, there are nevertheless significant errors, misunderstandings, or omissions of the topic at hand <a href="https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/">which necessitated its removal</a>.</p>
+
+<p>We understand this can be discouraging, but we would also encourage you to consult <a href="https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/">this Rules Roundtable to better understand how the mod team evaluates answers on the sub</a>. If you are interested in feedback on improving future contributions, please feel free to <a href="https://www.reddit.com/message/compose?to=%2Fr%2FAskHistorians&amp;subject=Inquiry%20About%20Improving%20Future%20Responses">reach out to us via modmail</a>. Thank you for your understanding.</p>
+
+<h3 id="1083-why-past-chinese-statesgovernment-is-called-dynasty-not-empire-or-kingdom-submitted-on-2023-01-28-2235470800">1083: <a href="https://old.reddit.com/r/AskHistorians/comments/10nghpx/why_past_chinese_statesgovernment_is_called/">Why past Chinese states/government is called “Dynasty” not “Empire or Kingdom”?</a>, submitted on 2023-01-28 22:35:47+08:00.</h3>
+
+<p>—– <strong>1083.1</strong> —–2023-01-29 01:32:31+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="1084-favorite-3d-live-outfit-updated-submitted-on-2023-01-29-0048270800">1084: <a href="https://old.reddit.com/r/Hololive/comments/10njiht/favorite_3d_live_outfit_updated/">Favorite 3D live outfit? (Updated)</a>, submitted on 2023-01-29 00:48:27+08:00.</h3>
+
+<p>—– <strong>1084.1</strong> —–2023-01-29 09:50:30+08:00:</p>
+
+<p>Probably Noel’s.</p>
+
+<h3 id="1085-hobby-scuffles-week-of-january-30-2023-submitted-on-2023-01-29-2230090800">1085: <a href="https://old.reddit.com/r/HobbyDrama/comments/10o8x58/hobby_scuffles_week_of_january_30_2023/">[Hobby Scuffles] Week of January 30, 2023</a>, submitted on 2023-01-29 22:30:09+08:00.</h3>
+
+<p>—– <strong>1085.1</strong> —–2023-01-30 22:00:26+08:00:</p>
+
+<p>Shh don’t give people ideas, it could be <em>you</em>!</p>
+
+<p>—– <strong>1085.2</strong> —–2023-02-01 03:49:45+08:00:</p>
+
+<p>A summary from <a href="https://www.reddit.com/r/VirtualYoutubers/comments/10p3yrr/resplendent_reliable_rice_weekly_discussion/j6lbqv1/">this thread</a> on the VirtualYoutubers subreddit:</p>
+
+<p>In a rather strange and developing situation, VTuber Reza Avanluna, formerly a member of Nijisanji’s Indonesian branch and now part of its ‘main’ branch since NijiID was folded into it, has stated on Twitter that he <a href="https://twitter.com/RezaAvanluna/status/1619945626413977601?s=20&amp;t=8i1zjULYriV4ZOOqeNAe0A">does not receive any fan mail sent to him</a>. This was also corroborated by fellow ex-NijiID member <a href="https://twitter.com/MikaMelatika/status/1620000751220305920">Mika Melatika</a>. On the other hand, <a href="https://twitter.com/ZEA_Cornelia/status/1620003793692954625">Zea Cornelia</a> has stated that she has been receiving her fanmail, albeit with up to one year’s delay, and <a href="https://twitter.com/ZEA_Cornelia/status/1620007489432616961">usually in soft copy</a>. We don’t entirely know what’s going on, but it comes hot on the heels of cryptic vaguetweets from several NijiID livers <a href="https://www.reddit.com/r/VirtualYoutubers/comments/10d3tqz/massive_minecraft_mountain_weekly_discussion/j5f2rio/?context=3">nine days ago</a> with <a href="https://www.reddit.com/r/VirtualYoutubers/comments/10je17q/miku_magical_mirai_weekly_discussion_thread_jan/j5mw2wd/">some later additions</a>, whichs suggests some kind of something is going on within the ex-ID branch at the moment.</p>
+
+<p>Elsewhere in Nijisanji, Japanese member Gwelu Os Gar is <a href="https://twitter.com/nijisanji_app/status/1620315958547218432">returning from hiatus tomorrow</a> after a nearly 6-week suspension, possibly self-initiated, following his posting of a cover of a song parodying fans of Hololive’s Usada Pekora, to the significant and understandable consternation of said fans. Gwelu had claimed that Pekora’s acknowledgement of said song constituted blanket approval of its use, which is… a take, and led to some wondering if, and crucially how, management actually signed off on this. Nijisanji’s message announcing his return today explicitly stated that he ‘has committed dishonest acts’ (不誠実な言動を行ったため), which is a pretty public castigation.</p>
+
+<p>This <em>also</em> comes amid the recent… mixed reception of a stream by NijiEN’s Millie Parfait <em>attempting</em> to mock various Internet rumours, as discussed <a href="https://www.reddit.com/r/HobbyDrama/comments/10o8x58/hobby_scuffles_week_of_january_30_2023/j6f5g4d/">earlier in this thread</a> by /u/OPUno.</p>
+
+<p>So yeah, needless to say things are <em>weird</em> in VTuberland at the moment.</p>
+
+<p>—– <strong>1085.3</strong> —–2023-02-03 06:12:30+08:00:</p>
+
+<p>Not just that, we’ve seen Indonesian talents – some but not all – complaining about not being forwarded their fanmail, and Nijisanji’s official Twitter explicitly accusing a member of having ‘committed dishonest acts’ as the cause of their recently-concluded suspension. <a href="https://www.reddit.com/r/HobbyDrama/comments/10o8x58/hobby_scuffles_week_of_january_30_2023/j6ogwsf/">Both are summarised and linked to here.</a></p>
+
+<p>—– <strong>1085.4</strong> —–2023-02-03 07:52:30+08:00:</p>
+
+<p>The Poirot adaptations starring Peter Ustinov are generally considered a mixed bag. <em>Death on the Nile</em> and <em>Evil Under the Sun</em> are regarded as decent but a bit below the later Suchet-starring adaptations, while <em>Thirteen at Dinner</em>, <em>Dead Man’s Folly</em>, <em>Murder in Three Acts</em>, and <em>Appointment with Death</em> are not by and large thought of as <em>bad</em>, but are considered somewhat ‘meh’. They’re <em>weird</em> or at least different, especially inasmuch as the three TV films (<em>Thirteen</em> through <em>Three Acts</em>) relocate the setting to the 1980s and also have a more Americanised cast, and there are one or two rather odd adaptational changes. And the theatrical ones also have a few alterations that are not <em>bad</em> per se but do stand out to some. But, having watched all of the Suchet adaptations (save for <em>The Lost Mine</em> because <em>ho boy</em> the racism), I decided to have a look at the Ustinov ones.</p>
+
+<p>To be honest, I do not think they’re that bad, or even bad at all. I don’t generally mind some creative license in terms of setting, casting, and so on, that really tends not to bother me. What did rub me the wrong way was how <em>Death on the Nile</em> employed the well-worn and, shall we say, deeply problematic device of Indian characters with exaggerated accents and mannerisms for comic relief – Mr Choudhury, the cruise manager on the <em>Karnak</em> played by I.S. Johar; and an unnamed staff member on the ship in an uncredited cameo by Saeed Jaffrey, who discovers the second murder. But as another user of this subreddit can attest, whatever the qualities of the adaptations on the whole, Peter Ustinov absolutely <em>nails</em> Poirot. It’s a <em>different</em> interpretation than Suchet, but it is still a cromulent, fully-realised one, and it’s not hard to see why Suchet thought that Ustinov very well could have established his performance as the definitive rendition.</p>
+
+<p>It will also never not be amusing seeing Suchet play Inspector Japp in <em>Thirteen at Dinner</em>, 15 years before playing Poirot in another adaptation of the same story.</p>
+
+<p>—– <strong>1085.5</strong> —–2023-02-03 10:30:44+08:00:</p>
+
+<p>Speaking as someone whose familiarity with NijiEN is quite poor outside the odd Selen stream, I nevertheless find this all quite bewildering.</p>
+
+<p>The first thing is the timeline: First off, a trailer dropped, and then the announcement of ‘cancellation’ (instead of postponement as at least some of the talents have stated it is) came a mere <em>11 days</em> later. Secondly, while it cites covid as a reason, which is not inherently implausible, the sheer vagary sticks out. It is <em>very</em> difficult to grasp why that would manage to impose a sufficient delay that the event in question – whose original scheduled date would still have been over 2 months away as of writing – can’t even be definitively rescheduled. By the time you have a trailer, you really <em>ought</em> to be confident that your event can and will go ahead.</p>
+
+<p>The second is the existence of those tweets: They indicate to me that the talents, who appear to have known that an announcement of postponement/cancellation was coming, were <em>heavily</em> blindsided by the <em>nature</em> of that announcement. While I appreciate the notion that this is deeply unprofessional, it’s also not unlikely that Nijisanji’s internal communications are not in great shape. The fact that NijiID members recently publicly tweeted about their not being forwarded fanmail, that implies that recourse within internal management structures either hadn’t been forthcoming in that instance, or that prior precedent had indicated that would be probable. Either way, not a great situation to be in, and I can understand if there had been increasing strains internally that are just now boiling over.</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2023-01-29</time>
+        <a href="https://nodebe4.github.io/opinion/2023-01-29/theoryofdoom/">
+          theoryofdoom在2023-01-23~2023-01-29的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-01-29</time>
+        <a href="https://nodebe4.github.io/opinion/2023-01-29/Spinkcat/">
+          Spinkcat在2023-01-23~2023-01-29的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-01-28</time>
+        <a href="https://nodebe4.github.io/opinion/2023-01-28/ForeignAffairsMag/">
+          ForeignAffairsMag在2023-01-23~2023-01-29的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-01-22</time>
+        <a href="https://nodebe4.github.io/opinion/2023-01-22/theoryofdoom/">
+          theoryofdoom在2023-01-16~2023-01-22的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2023-01-28/ForeignAffairsMag/">
+            前一篇：ForeignAffairsMag在2023-01-23~2023-01-29的言论
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2023-01-29/HeQinglian/">
+            後一篇：Twitter @He Qinglian: 2023-01-23~2023-01-29
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2023-01-28/ForeignAffairsMag/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2023-01-29/HeQinglian/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2023-01-29/Spinkcat/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2023-01-28/ForeignAffairsMag/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2023-01-28/ForeignAffairsMag/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2023-01-29/HeQinglian/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2023-01-29/Spinkcat/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2023-01-28/ForeignAffairsMag/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

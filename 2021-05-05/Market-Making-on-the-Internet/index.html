@@ -1,0 +1,2998 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Market-Making on the Internet – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+Market-Making on the Internet
+——
+" />
+    <meta property="og:description" content="
+Market-Making on the Internet
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Market-Making on the Internet" />
+    <meta property="twitter:title" content="Market-Making on the Internet" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2021%2Fmarket-making-on-the-internet%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2021/market-making-on-the-internet/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2021/market-making-on-the-internet/&text=Market-Making on the Internet&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2021/market-making-on-the-internet/&title=Market-Making on the Internet" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2021/market-making-on-the-internet/&title=Market-Making on the Internet" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Market-Making on the Internet&body=
+Market-Making on the Internet
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2021/market-making-on-the-internet/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2021/market-making-on-the-internet/&title=Market-Making on the Internet&caption=
+Market-Making on the Internet
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Market-Making on the Internet&url=https://stratechery.com/2021/market-making-on-the-internet/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Market-Making on the Internet</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2021-05-05
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2021/market-making-on-the-internet/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1620223107000-->
+<p><a href="https://stratechery.com/2021/market-making-on-the-internet/">Market-Making on the Internet</a>
+——</p>
+
+<div>
+  <p>Two months ago I bemoaned how Web 2.0 had failed to live up to its promise in one crucial area; from <a href="https://stratechery.com/2021/the-webs-missing-interoperability/">The Web’s Missing Interoperability</a>:</p>
+  <blockquote>
+    <p>[From] <a href="https://en.wikipedia.org/wiki/Web_2.0">the Wikipedia</a>…definition:</p>
+    <blockquote>
+      <p>Web 2.0…refers to websites that emphasize user-generated content, ease of use, participatory culture and interoperability (i.e., compatible with other products, systems, and devices) for end users.</p>
+    </blockquote>
+    <p>Seventeen years on and there is more user-generated content than ever, in part because it is so easy to generate: you can type an update on Facebook, post a photo on Instagram, make a video on TikTok, or have a conversation on Clubhouse. That, though, points to Web 2.0’s failure: interoperability is nowhere to be found.</p>
+  </blockquote>
+  <p>The context for that piece was Twitter’s <a href="https://stratechery.com/2021/twitters-analyst-day-the-interest-graph-super-follows/">preview of Super Follows</a>, <a href="https://stratechery.com/2021/twitter-acquires-revue-twitters-opportunity-twitters-achilles-heel/">acquisition of Revue</a>, and imminent launch of Spaces, all of which helped explain how centralization had won the web. Twitter’s latest acquisition, though, leverages centralization in a way that bodes well for realizing the “thousand flowers bloom” vision of Web 2.0.</p>
+  <h4 id="web-20-and-the-aggregators">Web 2.0 and the Aggregators</h4>
+  <p>The first page of O’Reilly’s definition of 2.0 had a “Web 2.0 Meme Map”:</p>
+  <p><a href="https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html"><img loading="lazy" src="https://stratechery.com/wp-content/uploads/2021/05/orthogonality6.png" alt="The Web 2.0 Meme Map from O&#039;Reilly" width="500" height="375" class="aligncenter size-large wp-image-5853" srcset="https://stratechery.com/wp-content/uploads/2021/05/orthogonality6.png 500w, https://stratechery.com/wp-content/uploads/2021/05/orthogonality6-300x225.png 300w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
+  <p>Don’t worry about the low resolution and tiny type; what should feel familiar is this idea of an interlocking web of properties and services between which a user could flit to and fro, tying their content and data together with links. It turned out, though, that centralized services offered better user experiences that gained them critical masses of users, drawing suppliers onto the service on the service’s terms, attracting more users in a virtuous cycle; meanwhile, by virtue of being centralized, the service could gather better data about its users and offer a one-stop shop for advertisers. <a href="https://stratechery.com/2015/aggregation-theory/">Aggregation Theory</a>, in other words.</p>
+  <p>Aggregation was the antithesis of the Web 2.0 promise; <a href="https://stratechery.com/2015/popping-the-publishing-bubble/">the best suppliers could do</a> was either subject themselves to the Aggregator’s terms and try and make the best of it (call it the BuzzFeed strategy) or work to build a direct connection with customers that went around the Aggregators (the New York Times strategy); Twitter, though, may be on the verge of offering a middle path: market-making.</p>
+  <h4 id="ad-agencies">Ad Agencies</h4>
+  <p>Market-making in media isn’t a new concept; perhaps the best example is the traditional advertising agency. I explained back in 2017’s <a href="https://stratechery.com/2017/ad-agencies-and-accountability/">Ad Agencies and Accountability</a>:</p>
+  <blockquote>
+    <p>Few advertisers actually buy ads, at least not directly. Way back in 1841, Volney B. Palmer, the first ad agency, was opened in Philadelphia. In place of having to take out ads with multiple newspapers, an advertiser could deal directly with the ad agency, vastly simplifying the process of taking out ads. The ad agency, meanwhile, could leverage its relationships with all of those newspapers by serving multiple clients:</p>
+    <p><a href="https://stratechery.com/2017/ad-agencies-and-accountability/"><img loading="lazy" src="https://stratechery.com/wp-content/uploads/2017/03/IMG_0142-1024x642.jpg" alt="A drawing of The Pre-Internet Ad Agency Structure" width="640" height="401" class="aligncenter size-large wp-image-2495" srcset="https://stratechery.com/wp-content/uploads/2017/03/IMG_0142-1024x642.jpg 1024w, https://stratechery.com/wp-content/uploads/2017/03/IMG_0142-300x188.jpg 300w, https://stratechery.com/wp-content/uploads/2017/03/IMG_0142-768x481.jpg 768w, https://stratechery.com/wp-content/uploads/2017/03/IMG_0142-1005x630.jpg 1005w" sizes="(max-width: 640px) 100vw, 640px" /></a></p>
+    <p>It’s a classic example of how being in the middle can be a really great business opportunity, and the utility of ad agencies only increased as more advertising formats like radio and TV became available. Particularly in the case of TV, advertisers not only needed to place ads, but also needed a lot more help in making ads; ad agencies invested in ad-making expertise because they could scale said expertise across multiple clients.</p>
+  </blockquote>
+  <p>In this case the ad agencies gave a single point of contact for advertisers on one side, and ad inventory sellers on the other, creating a market.</p>
+  <p>That was then, though; aggregation has been terrible for ad agencies for the same reason it has been bad for publishers: the more that advertising becomes centralized on Facebook and Google, whether on their sites or on programmatic exchanges, the fewer advertising dollars are available for the inventory that ad agencies used to abstract away for clients. And, as I noted in that article:</p>
+  <blockquote>
+    <p><a href="https://stratechery.com/2017/ad-agencies-and-accountability/"><img loading="lazy" src="https://stratechery.com/wp-content/uploads/2017/03/IMG_0141-1024x620.jpg" alt="A drawing of The Post-Internet Ad Agency Structure" width="640" height="388" class="aligncenter size-large wp-image-2496" srcset="https://stratechery.com/wp-content/uploads/2017/03/IMG_0141-1024x620.jpg 1024w, https://stratechery.com/wp-content/uploads/2017/03/IMG_0141-300x182.jpg 300w, https://stratechery.com/wp-content/uploads/2017/03/IMG_0141-768x465.jpg 768w, https://stratechery.com/wp-content/uploads/2017/03/IMG_0141-1041x630.jpg 1041w" sizes="(max-width: 640px) 100vw, 640px" /></a></p>
+    <p>That’s a problem for the ad agencies: when there are only two places an advertiser might want to buy ads, the fees paid to agencies to abstract complexity becomes a lot harder to justify.</p>
+  </blockquote>
+  <p>In this world, the more effective of the two strategies I noted above has clearly been the New York Times model, at least <a href="https://stratechery.com/2021/publishing-is-back-to-the-future/">for the New York Times</a> and its 7.5 million subscribers; <a href="https://www.visualcapitalist.com/ranked-the-most-popular-paid-subscription-news-websites/">Visual Capitalist</a> put together this striking infographic last week showing how the New York Times dominated the subscription market (click through to see a veritcal version of the infographic that shows every publication listed):</p>
+  <figure id="attachment_5852" aria-describedby="caption-attachment-5852" style="width: 640px" class="wp-caption aligncenter">
+<a href="https://www.visualcapitalist.com/ranked-the-most-popular-paid-subscription-news-websites/"><img loading="lazy" src="https://stratechery.com/wp-content/uploads/2021/05/orthogonality1-1024x536.png" alt="An inforgraphic of news websites ranked by subscriptions" width="640" height="335" class="size-large wp-image-5852" srcset="https://stratechery.com/wp-content/uploads/2021/05/orthogonality1-1024x536.png 1024w, https://stratechery.com/wp-content/uploads/2021/05/orthogonality1-300x157.png 300w, https://stratechery.com/wp-content/uploads/2021/05/orthogonality1-768x402.png 768w, https://stratechery.com/wp-content/uploads/2021/05/orthogonality1-1200x628.png 1200w, https://stratechery.com/wp-content/uploads/2021/05/orthogonality1.png 1280w" sizes="(max-width: 640px) 100vw, 640px" /></a>    <figcaption id="caption-attachment-5852" class="wp-caption-text">
+Licensed from Visual Capitalist
+    </figcaption>
+  </figure>
+  <p>The problem is that there are a lot of publications in the world that would like to be supported by subscriptions, and a lot of readers in the world that would prefer to pay for ad-free content, but nobody is making a market. This is where Twitter is making its play.</p>
+  <h4 id="twitter-buys-scroll">Twitter Buys Scroll</h4>
+  <p>From the <a href="https://scroll.blog/2021/05/04/scroll-is-joining-twitter/">Scroll blog</a>:</p>
+  <blockquote>
+    <p>Twitter is acquiring Scroll. The service will be going into private beta as we integrate into a broader Twitter subscription later in the year. We’re very excited!</p>
+    <p>Since launch last year, Scroll has proven that there’s a model that gives consumers a better experience and journalists a better future. Today when Scroll members visit hundreds of top sites like The Atlantic, The Verge, USA Today, The Sacramento Bee, The Philadelphia Inquirer or The Daily Beast, they get a site that feels built solely for them: a blazing fast experience that loads with no ads, no dodgy trackers and no chumboxes of clickbait. At the same time, publishers get to deliver a site that increases engagement and makes them more money than they would make from ads. It’s a better internet and we’ve proven the model works.</p>
+  </blockquote>
+  <p>I’ve been a subscriber to Scroll for some time now, and it’s a great experience: while ad-blockers are oppositional to publishers, blocking their trackers and advertisements while users take content they refuse to help monetize, Scroll partnered with publications directly, such that Scroll subscribers were never served ads in the first place. Publishers would instead get paid their usage-based share of the Scroll user’s subscription fee, which Scroll claimed was more than a publication would have made by serving that user ads.</p>
+  <p>Scroll’s list of partner sites has been scrubbed from their website, but I recall it being pretty impressive; the real challenge for the startup, though, was acquiring users, which is the first reason why Twitter is a great match: Twitter not only has 199 million monetizable daily active users, but is also one of the places where users are most likely to click-through to publications.</p>
+  <p><img loading="lazy" src="https://stratechery.com/wp-content/uploads/2021/05/orthogonality5-1024x427.png" alt="Twitter between publishers and readers" width="640" height="267" class="aligncenter size-large wp-image-5854" srcset="https://stratechery.com/wp-content/uploads/2021/05/orthogonality5-1024x427.png 1024w, https://stratechery.com/wp-content/uploads/2021/05/orthogonality5-300x125.png 300w, https://stratechery.com/wp-content/uploads/2021/05/orthogonality5-768x320.png 768w, https://stratechery.com/wp-content/uploads/2021/05/orthogonality5-1200x501.png 1200w, https://stratechery.com/wp-content/uploads/2021/05/orthogonality5.png 1280w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+  <p>Now imagine this model, but with Scroll’s business model on top:</p>
+  <p><img loading="lazy" src="https://stratechery.com/wp-content/uploads/2021/05/orthogonality2-1024x422.png" alt="Twitter using Scroll to monetize publishers" width="640" height="264" class="aligncenter size-large wp-image-5858" srcset="https://stratechery.com/wp-content/uploads/2021/05/orthogonality2-1024x422.png 1024w, https://stratechery.com/wp-content/uploads/2021/05/orthogonality2-300x124.png 300w, https://stratechery.com/wp-content/uploads/2021/05/orthogonality2-768x316.png 768w, https://stratechery.com/wp-content/uploads/2021/05/orthogonality2-1200x494.png 1200w, https://stratechery.com/wp-content/uploads/2021/05/orthogonality2.png 1280w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+  <p>This is a great example of market-making in action: Twitter is taking its user base, which no one publication could realistically reach or monetize on its own, and re-distributing their subscription fee across publications that no one user could ever support individually.</p>
+  <p>This doesn’t necessarily mean that every publication will buy in; the New York Times, to take an obvious example, is doing quite well on its own, as are <a href="https://stratechery.com/2021/sovereign-writers-and-substack/">sovereign writers</a>. Twitter, though, because of its outsized role in driving traffic to sites across the web, is uniquely positioned to bundle everything else together. Moreover, there are, as they say levels to this: Twitter could offer one price tier for no ads, and another price tier for getting past paywalls, and perhaps even individual site subscriptions above that.</p>
+  <h4 id="multi-medium-creators">Multi-Medium Creators</h4>
+  <p>Spotify’s announcement last week, meanwhile, shows that markets need not be exclusive. Start with creators: today someone might build a following on Instagram, before branching out to YouTube or TikTok, much as an artist may have started out singing and ended up making movies. Today this ability to move across mediums extends down to even the smallest creators: even Stratechery is multi-medium, with text available on the web or via email, and podcasts on your phone.</p>
+  <p>What is new is that the business model can be more than fame (and, naturally, advertising). Subscriptions work for creators just as well as they do for publications (arguably better given an individual creator’s cost structure), but to-date that has meant that creators were limited to mediums that they could fully control — i.e. text and podcasts — and only on the open web; what Spotify made clear is that they want into this world. From <a href="https://stratechery.com/2021/spotifys-surprise/">Spotify’s Surprise</a>:</p>
+  <blockquote>
+    <p>For full disclosure, I have been briefed on the Open Access Platform, and Spotify has addressed all of my concerns; no, they won’t support arbitrary RSS feeds, but instead another open technology — OAuth. Some time soon Stratechery and Dithering subscribers will be able to link their subscriptions to their Spotify accounts, and Spotify isn’t going to charge a dime — they will be my customers from email address to credit card. Spotify Chief R&amp;D Officer Gustav Söderström told me, “Having all of audio on Spotify means meeting independent creators on their terms, not ours.”</p>
+  </blockquote>
+  <p>In this case Spotify isn’t market-making: rather, it is recognizing that creators are going to want to make their own markets, pulling their fans from medium to medium and service to service, and they want to make sure they are plugged in to that:</p>
+  <p><img loading="lazy" src="https://stratechery.com/wp-content/uploads/2021/05/orthogonality3-1024x649.png" alt="The creator carrying audiences to different mediums" width="640" height="406" class="aligncenter size-large wp-image-5857" srcset="https://stratechery.com/wp-content/uploads/2021/05/orthogonality3-1024x649.png 1024w, https://stratechery.com/wp-content/uploads/2021/05/orthogonality3-300x190.png 300w, https://stratechery.com/wp-content/uploads/2021/05/orthogonality3-768x487.png 768w, https://stratechery.com/wp-content/uploads/2021/05/orthogonality3-994x630.png 994w, https://stratechery.com/wp-content/uploads/2021/05/orthogonality3.png 1280w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+  <p>What is neat about markets is that they create the conditions for win-win outcomes; Spotify aligning with creators doesn’t hurt Spotify’s core business, it enhances it by making sure Spotify’s podcast service is as complete as it can be. Critically, it does this not by fighting over users, but rather by linking them.</p>
+  <p><img loading="lazy" src="https://stratechery.com/wp-content/uploads/2021/05/orthogonality4-1024x559.png" alt="Spotify existing in harmony with creators" width="640" height="349" class="aligncenter size-large wp-image-5855" srcset="https://stratechery.com/wp-content/uploads/2021/05/orthogonality4-1024x559.png 1024w, https://stratechery.com/wp-content/uploads/2021/05/orthogonality4-300x164.png 300w, https://stratechery.com/wp-content/uploads/2021/05/orthogonality4-768x419.png 768w, https://stratechery.com/wp-content/uploads/2021/05/orthogonality4-1154x630.png 1154w, https://stratechery.com/wp-content/uploads/2021/05/orthogonality4.png 1280w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+  <p>This is the part that Web 2.0 got wrong; much like <a href="https://stratechery.com/2020/social-networking-2-0/">the Facebook model of social networking</a> emphasized being your whole self, Web 2.0 assumed that your one identity would connect together the different pieces of your web existence. However, just as the future of social networking is about different identities for different contexts, interoperability via markets is about linking together distinct user bases in a way that is appropriate for different services, all under the control of the user who is paying for the privilege.</p>
+  <h4 id="shopify-and-platforms">Shopify and Platforms</h4>
+  <p>The other place where market-making might seem familiar is that most classic of tech concepts: platforms. I wrote in 2019’s <a href="https://stratechery.com/2019/shopify-and-the-power-of-platforms/">Shopify and the Power of Platforms</a>, in the context of the e-commerce service’s planned foray into logistics:</p>
+  <blockquote>
+    <p>Notice, though, that Shopify is not doing everything on their own: there is an entire world of third-party logistics companies (known as “3PLs”) that offer warehousing and shipping services. What Shopify is doing is what platforms do best: act as an interface between two modularized pieces of a value chain.</p>
+    <p><a href="https://stratechery.com/2019/shopify-and-the-power-of-platforms/"><img loading="lazy" src="https://stratechery.com/wp-content/uploads/2019/07/IMG_272058378EFF-1.jpeg" alt="A drawing of Shopify as an Interface" width="640" height="337" class="aligncenter size-large wp-image-4283" srcset="https://stratechery.com/wp-content/uploads/2019/07/IMG_272058378EFF-1.jpeg 985w, https://stratechery.com/wp-content/uploads/2019/07/IMG_272058378EFF-1-300x158.jpeg 300w, https://stratechery.com/wp-content/uploads/2019/07/IMG_272058378EFF-1-768x405.jpeg 768w" sizes="(max-width: 640px) 100vw, 640px" /></a></p>
+    <p>On one side are all of Shopify’s hundreds of thousands of merchants: interfacing with all of them on an individual basis is not scalable for those 3PL companies; now, though, they only need to interface with Shopify.</p>
+    <p>The same benefit applies in the opposite direction: merchants don’t have the means to negotiate with multiple 3PLs such that their inventory is optimally placed to offer fast and inexpensive delivery to customers; worse, the small-scale sellers I discussed above often can’t even get an audience with these logistics companies. Now, though, Shopify customers need only interface with Shopify.</p>
+  </blockquote>
+  <p>What makes the Shopify platform so fascinating is that over time more and more of the e-commerce it enables happens somewhere other than a Shopify website. Shopify, for example, can <a href="https://www.shopify.com/blog/sell-on-amazon">help you sell on Amazon</a>, and in what will be <a href="https://stratechery.com/2021/facebook-earnings-atts-impact-covid-vr-ar-and-optionality/">an increasingly important channel</a>, Facebook Shops. In the latter case Facebook and Shopify are partnering to create a fully-integrated market: Facebook’s userbase and advertising tools on one side, and Shopify’s e-commerce management and seller base on the other. The broader takeaway, though, is that Shopify’s real value proposition is working across markets, not creating an exclusive one.</p>
+  <h4 id="market-making-and-aggregators">Market-Making and Aggregators</h4>
+  <p>Market-making is certainly a characteristic of Aggregators; Google, for example, is a one-stop shop for users, advertisers, and content suppliers. What makes Aggregators unique, though, is their infinite scalability, driven by the effectively zero marginal and transactional costs necessary to serve one more user, advertiser, or supplier. This characteristic, by necessity, reduces everything to a commodity. In contrast, the commonality between what Twitter appears to be building, the phenomenan that Spotify is seeking to plug into, and Shopify and e-commerce is the inherent friction of transferring money (usually <a href="https://stratechery.com/2020/stripe-platform-of-platforms/">via Stripe</a>), for something that is not flattened, but differentiated.</p>
+  <p>Some of these plays are certainly more Aggregator-like — Twitter/Scroll appears likely to (non-exclusively) abstract away publishers from subscribers — but I think the distinction from <a href="https://stratechery.com/2017/the-super-aggregators-and-the-russians/">advertiser-driven Super Aggregators</a> is a notable development, and an exciting one. The web started with no economy, then built a commoditized advertising-only one, and now is increasingly a market for all sorts of goods and services — the more differentiated the better. That doesn’t just mean interoperability, in the purest most fungible form of money, but also opportunity.</p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2021-05-12</time>
+        <a href="https://nodebe4.github.io/opinion/2021-05-12/AWS-CloudFront-Functions,-AWS-s-Data-Residency-Whi/">
+          AWS CloudFront Functions, AWS’s Data Residency Whitepaper, Muddles and Mirages
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-05-11</time>
+        <a href="https://nodebe4.github.io/opinion/2021-05-11/Cloudflare-on-the-Edge/">
+          Cloudflare on the Edge
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-04-28</time>
+        <a href="https://nodebe4.github.io/opinion/2021-04-28/Spotify-s-Surprise/">
+          Spotify’s Surprise
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-04-21</time>
+        <a href="https://nodebe4.github.io/opinion/2021-04-21/Podcast-Subscriptions-vs.-the-App-Store/">
+          Podcast Subscriptions vs. the App Store
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2021-05-05/%E6%99%BA%E6%85%A7%E8%BE%B2%E6%A5%AD-%E5%AE%B6%E7%A6%BD-%E4%B9%8B%E8%B3%87%E9%80%9A%E8%A8%8A%E6%87%89%E7%94%A8%E6%A1%88%E4%BE%8B-%E6%99%BA%E6%85%A7%E8%BE%B2%E6%A5%AD/">
+            前一篇：智慧農業（家禽）之資通訊應用案例 | 智慧農業
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2021-05-05/%E5%85%A8%E7%90%83%E4%B8%AD%E6%96%87%E5%AA%92%E9%AB%94%E6%AD%A3%E5%85%A8%E9%9D%A2%E9%80%B2%E5%85%A5%E5%9E%83%E5%9C%BE%E6%99%82%E4%BB%A3/">
+            後一篇：全球中文媒體正全面進入垃圾時代
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2021-05-05/%E6%99%BA%E6%85%A7%E8%BE%B2%E6%A5%AD-%E5%AE%B6%E7%A6%BD-%E4%B9%8B%E8%B3%87%E9%80%9A%E8%A8%8A%E6%87%89%E7%94%A8%E6%A1%88%E4%BE%8B-%E6%99%BA%E6%85%A7%E8%BE%B2%E6%A5%AD/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2021-05-05/%E5%85%A8%E7%90%83%E4%B8%AD%E6%96%87%E5%AA%92%E9%AB%94%E6%AD%A3%E5%85%A8%E9%9D%A2%E9%80%B2%E5%85%A5%E5%9E%83%E5%9C%BE%E6%99%82%E4%BB%A3/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2021-05-11/Cloudflare-on-the-Edge/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2021-04-28/Spotify-s-Surprise/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2021-05-05/%E6%99%BA%E6%85%A7%E8%BE%B2%E6%A5%AD-%E5%AE%B6%E7%A6%BD-%E4%B9%8B%E8%B3%87%E9%80%9A%E8%A8%8A%E6%87%89%E7%94%A8%E6%A1%88%E4%BE%8B-%E6%99%BA%E6%85%A7%E8%BE%B2%E6%A5%AD/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2021-05-05/%E5%85%A8%E7%90%83%E4%B8%AD%E6%96%87%E5%AA%92%E9%AB%94%E6%AD%A3%E5%85%A8%E9%9D%A2%E9%80%B2%E5%85%A5%E5%9E%83%E5%9C%BE%E6%99%82%E4%BB%A3/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2021-05-11/Cloudflare-on-the-Edge/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2021-04-28/Spotify-s-Surprise/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

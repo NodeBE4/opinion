@@ -1,0 +1,2987 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Twitter Has a New CEO; What About a New Business Model? – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+Twitter Has a New CEO; What About a New Business Model?
+——
+" />
+    <meta property="og:description" content="
+Twitter Has a New CEO; What About a New Business Model?
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Twitter Has a New CEO; What About a New Business Model?" />
+    <meta property="twitter:title" content="Twitter Has a New CEO; What About a New Business Model?" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2021%2Ftwitter-has-a-new-ceo-what-about-a-new-business-model%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2021/twitter-has-a-new-ceo-what-about-a-new-business-model/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2021/twitter-has-a-new-ceo-what-about-a-new-business-model/&text=Twitter Has a New CEO; What About a New Business Model?&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2021/twitter-has-a-new-ceo-what-about-a-new-business-model/&title=Twitter Has a New CEO; What About a New Business Model?" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2021/twitter-has-a-new-ceo-what-about-a-new-business-model/&title=Twitter Has a New CEO; What About a New Business Model?" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Twitter Has a New CEO; What About a New Business Model?&body=
+Twitter Has a New CEO; What About a New Business Model?
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2021/twitter-has-a-new-ceo-what-about-a-new-business-model/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2021/twitter-has-a-new-ceo-what-about-a-new-business-model/&title=Twitter Has a New CEO; What About a New Business Model?&caption=
+Twitter Has a New CEO; What About a New Business Model?
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Twitter Has a New CEO; What About a New Business Model?&url=https://stratechery.com/2021/twitter-has-a-new-ceo-what-about-a-new-business-model/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Twitter Has a New CEO; What About a New Business Model?</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2021-11-30
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2021/twitter-has-a-new-ceo-what-about-a-new-business-model/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1638278441000-->
+<p><a href="https://stratechery.com/2021/twitter-has-a-new-ceo-what-about-a-new-business-model/">Twitter Has a New CEO; What About a New Business Model?</a>
+——</p>
+
+<div>
+  <p>From <a href="https://www.cnbc.com/2021/11/29/twitter-ceo-jack-dorsey-is-expected-to-step-down-sources-say.html">CNBC</a>:</p>
+  <blockquote>
+    <p>Twitter CEO Jack Dorsey is stepping down as chief of the social media company, effective immediately. Parag Agrawal, Twitter’s chief technology officer, will take over the helm, the company said Monday. Shares of Twitter closed down 2.74% on the day.</p>
+    <p>Dorsey, 45, was serving as both the CEO of Twitter and Square, his digital payments company. Dorsey will remain a member of the board until his term expires at the 2022 meeting of stockholders, the company said. Salesforce President and COO Bret Taylor will become the chairman of the board, succeeding Patrick Pichette, a former Google executive, who will remain on the board as chair of the audit committee.</p>
+    <p>“I’ve decided to leave Twitter because I believe the company is ready to move on from its founders,” Dorsey said in a statement, though he didn’t provide any additional detail on why he decided to resign.</p>
+  </blockquote>
+  <p>On one hand, congratulations to Twitter for its first non-messy CEO transition in its history; on the other hand, this one was a bit weird in its own way: CNBC <a href="https://twitter.com/CNBC/status/1465325572662431750">broke the news</a> at 9:23am Eastern, just in time for the markets to open and the stock to shoot up around 10% as feverish speculation broke out about who the successor was; two hours and 25 minutes later <a href="https://twitter.com/jack/status/1465347002426867720">Dorsey confirmed the news</a> and announced Agrawal as his successor, and the sell-off commenced.</p>
+  <p>The missing context in Dorsey’s announcement was Elliott Management, the activist investor that <a href="https://www.bloomberg.com/news/articles/2020-02-29/singer-s-elliott-is-said-to-seek-to-replace-twitter-ceo-dorsey">took a stake in Twitter in early 2020</a> and demanded that Dorsey either focus on Twitter (instead of Square, where he is still CEO) or step down; Twitter gave Elliott and Silver Lake, who was working with Elliott, two seats on the board a month later. That agreement, though, came with the condition that Twitter grow its user base, speed up revenue growth, and gain digital ad market share.</p>
+  <p>Twitter has made progress: while the company’s monthly active users have been stagnant for years — which is probably why the company stopped reporting them in 2019 — its “monetizable daily active users” have increased from 166 million in Q1 2020 to 211 million last quarter, and its trailing twelve-month revenue has increased from $3.5 billion in Q1 2020 to $4.8 billion in Q3 2021. The rub is digital ad market share: Snap, for example, grew its TTM revenue from $1.9 billion to $4.0 billion over the same period, as the pandemic proved to be a massive boon <a href="https://stratechery.com/2021/apple-earnings-microsoft-and-linkedin/">for many ad-driven platforms</a>.</p>
+  <p>That boon was driven by the surge in e-commerce, which is powered by direct response marketing, where there is a tight link between seeing an ad and making a purchase; Twitter, though, has <a href="https://stratechery.com/?s=twitter+direct+response">struggled for years</a> to build a direct response business, leaving it dependent on brand advertising for 85% of its ad revenue. That meant the company was not only not helped by the pandemic, <a href="https://stratechery.com/2020/qualcomm-follow-up-twitter-earnings-twitter-subscriptions/">but hurt worse than most</a> (and, on the flip side, was less affected by Apple’s iOS 14 changes). If in fact Dorsey’s job depended on taking digital ad market share, he didn’t stand a chance.</p>
+  <p>That perhaps explains yesterday’s weird timing; <a href="https://www.platformer.news/p/jack-steps-back">Casey Newton speculated</a> that the board may have leaked the news to ensure that Dorsey didn’t get cold feet. It also, I suspect, explains the market’s cool reaction to the appointment of an insider: Agrawal was there for all of those previously failed attempts to build a direct response marketing business, so it’s not entirely clear what is going to be different going forward.</p>
+  <h4 id="twitters-advertising-problem">Twitter’s Advertising Problem</h4>
+  <p>The messiness I alluded to in Twitter’s previous CEO transitions are merely marker points on a general run of mismanagement from the company’s earliest days on. I’ve long contended that Twitter’s core problem is that the product was too perfect right off the bat; from 2014’s <a href="https://stratechery.com/2014/twitter-market/">Twitter’s Marketing Problem</a>:</p>
+  <blockquote>
+    <p>One of the most common Silicon Valley phrases is “Product-Market Fit.” Back when he blogged on a blog, instead of through numbered tweets, Marc Andreessen <a href="http://web.archive.org/web/20070701074943/http://blog.pmarca.com/2007/06/the-pmarca-gu-2.html">wrote</a>:</p>
+    <blockquote>
+      <p>The only thing that matters is getting to product/market fit…I believe that the life of any startup can be divided into two parts: before product/market fit (call this “BPMF”) and after product/market fit (“APMF”).</p>
+      <p>When you are BPMF, focus obsessively on getting to product/market fit.</p>
+      <p>Do whatever is required to get to product/market fit. Including changing out people, rewriting your product, moving into a different market, telling customers no when you don’t want to, telling customers yes when you don’t want to, raising that fourth round of highly dilutive venture capital — whatever is required.</p>
+      <p>When you get right down to it, you can ignore almost everything else.</p>
+    </blockquote>
+    <p>I think this actually gets to the problem with Twitter: the initial concept was so good, and so perfectly fit such a large market, that they never needed to go through the process of achieving product market fit. It just happened, and they’ve been riding that match for going on eight years.</p>
+    <p>The problem, though, was that by skipping over the wrenching process of finding a market, Twitter still has no idea what their market actually is, and how they might expand it. Twitter is the company-equivalent of a lottery winner who never actually learns how to make money, and now they are starting to pay the price.</p>
+  </blockquote>
+  <p>Seven years on and Twitter has finally started to implement some of the proposals from that article, including leaning heavily into recommendations and topics; in theory the machine learning understandings driving those recommendations should translate into more effective advertising as well. That hasn’t really happened, though, and I’m not sure it ever will, for reasons that go beyond the effectiveness of Twitter’s management (or lack thereof).</p>
+  <p>Think about the contrast between Twitter and Instagram; both are unique amongst social networks in that they follow a broadcast model: tweets on Twitter and photos on Instagram are public by default, and anyone can follow anyone. The default medium, though, is fundamentally different: Twitter has photos and videos, but the heart of the service is text (and links). Instagram, on the other hand, is nothing but photos and video (and link in bio).</p>
+  <p>The implications of this are vast. Sure, you may follow your friends on both, but on Twitter you will also follow news breakers, analysts, insightful anons, joke tellers, and shit posters. The goal is to mainline information, and Twitter’s speed and information density are unparalleled by anything in the world. On Instagram, though, you might follow brands and influencers, and your chief interaction with your friends are stories about their Turkey Day exploits. It’s about aspiration, not information, and the former makes a lot more sense for effective advertising.</p>
+  <p>It’s more than just the medium though; it’s about the user’s mental state as well. Instagram is leisurely and an escape, something you do when you’re procrastinating; Twitter is intense and combative, and far more likely to be tied to something happening in the physical world, whether that be watching sports or politics or doing work:</p>
+  <p><img loading="lazy" src="https://i2.wp.com/stratechery.com/wp-content/uploads/2021/11/twitter-1.png?resize=640%2C373&#038;ssl=1" alt="Instagram is a lean-back experience; on Twitter you lean forward" width="640" height="373" class="aligncenter size-full wp-image-8120" srcset="https://i2.wp.com/stratechery.com/wp-content/uploads/2021/11/twitter-1.png?w=857&amp;ssl=1 857w, https://i2.wp.com/stratechery.com/wp-content/uploads/2021/11/twitter-1.png?resize=300%2C175&amp;ssl=1 300w, https://i2.wp.com/stratechery.com/wp-content/uploads/2021/11/twitter-1.png?resize=768%2C448&amp;ssl=1 768w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></p>
+  <p>This matters for advertising, particularly advertising that depends on a direct response: when you are leaning back and relaxed why not click through to that Shopify site to buy that knick-knack you didn’t even know you needed, or try out that mobile game? When you are leaning forward, though, you don’t have either the time or the inclination.</p>
+  <p><a href="https://xkcd.com/386/"><img loading="lazy" src="https://i2.wp.com/stratechery.com/wp-content/uploads/2021/11/twitter-2.png?resize=300%2C330&#038;ssl=1" alt="Someone is wrong on the Internet" width="300" height="330" class="aligncenter size-full wp-image-8121" srcset="https://i2.wp.com/stratechery.com/wp-content/uploads/2021/11/twitter-2.png?w=300&amp;ssl=1 300w, https://i2.wp.com/stratechery.com/wp-content/uploads/2021/11/twitter-2.png?resize=273%2C300&amp;ssl=1 273w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /></a></p>
+  <p>That ties into Twitter’s third big problem: the number of people who actually want to experience the Internet this way is relatively small. There is a reason that Twitter’s userbase is only a fraction of Instagram’s, and it’s not a lack of awareness; the reality is that most people are visual, and Twitter is textual. Which, of course, is exactly why Twitter’s most fervent users can’t really imagine going anywhere else.</p>
+  <h4 id="twitters-place-in-culture">Twitter’s Place in Culture</h4>
+  <p>What makes Twitter such a baffling company to analyze is that the company’s cultural impact so dramatically outweighs its financial results; last quarter Twitter’s $1.3 billion in revenue amounted to 4.4% of Facebook’s $29.0 billion, and yet you can make the case — and I believe it — that Twitter’s overall impact on the world is just as if not larger than its drastically larger peer. Facebook <a href="https://stratechery.com/2016/the-voters-decide/">hollowed out</a> the gatekeeper position of the media, but that void was filled by Twitter, both in terms of news being made, and just as critically, elite opinion and narrative being shaped.</p>
+  <p>Given that impact, I can see why Elliott Management would look at Twitter and wonder why it is that the company can’t manage to make more money, but the fact that Twitter is the nexus of online information flow reflects the reality of information on the Internet: massively impactful and economically worthless, particularly when ads — which themselves are digital information — can easily be bought elsewhere.</p>
+  <p>Twitter is more than just news, though: I wrote last year in <a href="https://stratechery.com/2016/the-voters-decide/">Social Networking 2.0</a> about the rise of private networks that supplemented and, for many use cases, replaced Facebook and Twitter.</p>
+  <blockquote>
+    <p><a href="https://stratechery.com/2020/social-networking-2-0/"><img loading="lazy" src="https://i2.wp.com/stratechery.com/wp-content/uploads/2020/12/socialv2-4.png?resize=640%2C479&#038;ssl=1" alt="A drawing of v1 vs v2 Social Networks" width="640" height="479" class="aligncenter size-large wp-image-5489" srcset="https://i2.wp.com/stratechery.com/wp-content/uploads/2020/12/socialv2-4.png?resize=1024%2C767&amp;ssl=1 1024w, https://i2.wp.com/stratechery.com/wp-content/uploads/2020/12/socialv2-4.png?resize=300%2C225&amp;ssl=1 300w, https://i2.wp.com/stratechery.com/wp-content/uploads/2020/12/socialv2-4.png?resize=768%2C575&amp;ssl=1 768w, https://i2.wp.com/stratechery.com/wp-content/uploads/2020/12/socialv2-4.png?resize=841%2C630&amp;ssl=1 841w, https://i2.wp.com/stratechery.com/wp-content/uploads/2020/12/socialv2-4.png?w=1280&amp;ssl=1 1280w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></a></p>
+  </blockquote>
+  <p>Twitter, even more than Facebook, remains crucial to this new ecosystem: what WhatsApp group or Telegram chat isn’t filled with tweets posted for the purpose of discussion or disparagement, or links discovered via Twitter? It is as if these private groups are a fortress on the frontier; Twitter is the wild where you forage for content morsels, and, of course, where you do battle with the enemy.</p>
+  <p>Don’t underrate that last part: one of the biggest challenges facing would be Twitter clones is not simply that a complete lack of moderation leads to an overwhelming amount of crap, but also that the sort of person who thrives on Twitter very much wants to know everything that is happening in the world, including amongst those outside of their circle. Being stuck on a text-based social network that only has some of the information to be consumed is lame; having access to anyone and everything, for better or worse, is a value prop that only Twitter can provide.</p>
+  <p>This, then, is the other thing that often baffles analysts: Twitter has one of the most powerful moats on the Internet. Sure, Facebook has ubiquity, Instagram has influencers, and TikTok has homegrown stars, but I find it easier to imagine any of those fading before Twitter’s grip on information flow disappears (in part, of course, because Twitter has shown that it’s a pretty crappy business).</p>
+  <h4 id="a-paid-social-network">A Paid Social Network</h4>
+  <p>So let’s review: there is both little evidence that Twitter can monetize via direct response marketing, and reason to believe that the problem is not simply mismanagement. At the same time, Twitter is absolutely essential to a core group of users who are not simply unconcerned with the problems inherent to Twitter’s public broadcast model (including abuse and mob behavior), but actually find the platform indispensable for precisely those reasons: Twitter is where the news is made, shaped, and battled over, and there is very little chance of another platform displacing it, in large part because no one is economically motivated to do so.</p>
+  <p>Given this, why not charge for access?</p>
+  <p>This may seem obvious to you, but it’s a huge leap for me; back when Stratechery first started it was fairly popular to argue that social networks should charge users instead of selling ads, which never made sense. I wrote in 2014’s <a href="https://stratechery.com/2014/ello-consumer-friendly-business-models/">Ello and Consumer-Friendly Business Models</a>:</p>
+  <blockquote>
+    <p>When it comes to social networks, on the other hand, advertising is clearly the best option: after all, a social network is only as good as the number of friends that are on it, and the best way to get my friends on board is to offer a kick-ass product for free. In other words, the exact opposite of the feature-limited product that Ello is proposing…</p>
+    <p>If…you care about making a successful social network that users will find useful over the long run, then actually build something that is as good as you can possibly make it and incentivize yourself to earn and keep as many users as possible.</p>
+  </blockquote>
+  <p>I still stand by that analysis generally, but I increasingly question whether or not it applies to Twitter. Twitter has long since penetrated the awareness of just about everyone on earth; the vast majority gave the platform a try and never came back, content to consume the tweets that show up everywhere from news articles to cable news. The core that remains, meanwhile, simultaneously bemoans that Twitter is terrible even as they can’t rip their eyes away, addicted as they are to that flow of information that is and will for the foreseeable future be unmatched by any other service.</p>
+  <p>And yet, despite this impact and indispensability and impenetrable moat, Twitter makes an average of $22.75 per monetizable daily active user per year (and given that some of Twitter’s most hard core users use third-party Twitter clients, and thus aren’t monetizable, the revenue per addicted daily active user is even lower). That’s just under $2/month, an absolutely paltry sum.</p>
+  <p>Actually charging for Twitter would, of course, reduce the userbase to some degree; moreover, there are a lot of users with multiple accounts, and plenty of non-human users on Twitter. And, of course, Apple and Google would take their share. Still, even if you cut the userbase by a third to 141 million daily addicted users — which I think vastly overstates Twitter’s elasticity of demand amongst its core user base — Twitter would only need to charge $4/month (including App Store fees) to exceed the $4.8 billion in revenue it made over the last twelve months.</p>
+  <p>And, in fact, that overstates the situation for another reason: only $4.2 billion of Twitter’s last twelve months of revenue came from ads; the rest came from data licensing and other revenue. There is an alternate world where data licensing is Twitter’s primary revenue model: just think about how valuable it is to be the primary protocol for real time information sharing, particularly if you can package and distribute that information in an intelligent way?</p>
+  <p>Twitter could still do that, and pursue other initiatives like <a href="https://blog.twitter.com/developer/en_us/topics/tools/2021/build-whats-next-with-the-new-twitter-developer-platform">its revitalized API</a>, offering developers the opportunity to build entirely new experiences on Twitter’s information flow (including unmoderated ones). The difference from <a href="https://stratechery.com/2015/twitter-might/">the first go-around</a> is that Twitter won’t have an advertising business to protect, and thus will have its interests much better aligned with developers who can pay for access. After all, that would be Twitter’s business model.</p>
+  <p>I also think this makes Twitter’s other subscription offerings, like Super Follows, Revue, etc., more attractive, not less; the biggest challenge in running a subscription business is earning that first dollar, but once a user is paying it’s relatively easy to charge for more.</p>
+  <hr />
+  <p>This could certainly all go horribly wrong; the absolute fastest way to get your users to explore alternatives is to ask them to pay for your service, and there is the matter of acquiring new users, users who can’t afford to pay, etc. Growth matters, and I’m honestly getting cold feet even proposing this! Certainly existing users would howl and insist they were leaving and never coming back. I think, though, that Twitter is so unique, and its userbase is so locked in, that it is the one social networking service that could potentially pull this off.</p>
+  <p>Moreover, the fact of the matter is that Twitter has now had one business model and five CEOs (counting Dorsey twice); maybe it’s worth changing the former before the next activist investor demands yet another change to the latter.</p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2021-12-14</time>
+        <a href="https://nodebe4.github.io/opinion/2021-12-14/The-Great-Bifurcation/">
+          The Great Bifurcation
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-12-06</time>
+        <a href="https://nodebe4.github.io/opinion/2021-12-06/The-Amazon-Empire-Strikes-Back/">
+          The Amazon Empire Strikes Back
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-11-18</time>
+        <a href="https://nodebe4.github.io/opinion/2021-11-18/Unity,-Weta,-and-Faceless-Platforms/">
+          Unity, Weta, and Faceless Platforms
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-11-09</time>
+        <a href="https://nodebe4.github.io/opinion/2021-11-09/Microsoft-and-the-Metaverse/">
+          Microsoft and the Metaverse
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2021-11-30/%E6%9D%B1%E4%BA%AC%E5%A5%A7%E9%81%8B%E4%B8%AD%E7%9A%84%E9%81%8B%E5%8B%95%E5%93%A1%E5%92%8C%E6%B0%91%E6%97%8F%E6%95%98%E4%BA%8B-%E5%9C%8D%E7%88%90-JointU/">
+            前一篇：東京奧運中的運動員和民族敘事|圍爐·JointU
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2021-11-30/%E9%AC%BC%E6%89%8D%E8%AF%B4%E7%9C%9F%E8%AF%9D-%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E9%9F%B3%E4%B9%90%E5%88%9B%E4%BD%9C%E4%BA%BA%E9%BB%84%E6%98%8E%E5%BF%97/">
+            後一篇：鬼才说真话 马来西亚音乐创作人黄明志
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2021-11-30/%E6%9D%B1%E4%BA%AC%E5%A5%A7%E9%81%8B%E4%B8%AD%E7%9A%84%E9%81%8B%E5%8B%95%E5%93%A1%E5%92%8C%E6%B0%91%E6%97%8F%E6%95%98%E4%BA%8B-%E5%9C%8D%E7%88%90-JointU/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2021-11-30/%E9%AC%BC%E6%89%8D%E8%AF%B4%E7%9C%9F%E8%AF%9D-%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E9%9F%B3%E4%B9%90%E5%88%9B%E4%BD%9C%E4%BA%BA%E9%BB%84%E6%98%8E%E5%BF%97/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2021-12-06/The-Amazon-Empire-Strikes-Back/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2021-11-18/Unity,-Weta,-and-Faceless-Platforms/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2021-11-30/%E6%9D%B1%E4%BA%AC%E5%A5%A7%E9%81%8B%E4%B8%AD%E7%9A%84%E9%81%8B%E5%8B%95%E5%93%A1%E5%92%8C%E6%B0%91%E6%97%8F%E6%95%98%E4%BA%8B-%E5%9C%8D%E7%88%90-JointU/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2021-11-30/%E9%AC%BC%E6%89%8D%E8%AF%B4%E7%9C%9F%E8%AF%9D-%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E9%9F%B3%E4%B9%90%E5%88%9B%E4%BD%9C%E4%BA%BA%E9%BB%84%E6%98%8E%E5%BF%97/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2021-12-06/The-Amazon-Empire-Strikes-Back/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2021-11-18/Unity,-Weta,-and-Faceless-Platforms/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

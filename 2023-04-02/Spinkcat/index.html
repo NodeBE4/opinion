@@ -1,0 +1,2355 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Spinkcat在2023-03-27~2023-04-02的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Spinkcat在2023-03-27~2023-04-02的言论" />
+    <meta property="twitter:title" content="Spinkcat在2023-03-27~2023-04-02的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2Freal_China_irl%2Fcomments%2F125j78f%2F%E6%88%91%E6%9D%A5%E8%AF%B4%E4%B8%8B%E6%88%91%E5%AF%B9%E7%BE%8E%E5%9B%BD%E6%A3%B1%E9%95%9C%E8%AE%A1%E5%88%92%E7%9A%84%E7%90%86%E8%A7%A3%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/real_China_irl/comments/125j78f/我来说下我对美国棱镜计划的理解/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/real_China_irl/comments/125j78f/我来说下我对美国棱镜计划的理解/&text=Spinkcat在2023-03-27~2023-04-02的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/real_China_irl/comments/125j78f/我来说下我对美国棱镜计划的理解/&title=Spinkcat在2023-03-27~2023-04-02的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/real_China_irl/comments/125j78f/我来说下我对美国棱镜计划的理解/&title=Spinkcat在2023-03-27~2023-04-02的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Spinkcat在2023-03-27~2023-04-02的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/real_China_irl/comments/125j78f/我来说下我对美国棱镜计划的理解/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/real_China_irl/comments/125j78f/我来说下我对美国棱镜计划的理解/&title=Spinkcat在2023-03-27~2023-04-02的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Spinkcat在2023-03-27~2023-04-02的言论&url=https://old.reddit.com/r/real_China_irl/comments/125j78f/我来说下我对美国棱镜计划的理解/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Spinkcat在2023-03-27~2023-04-02的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2023-04-02
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://www.reddit.com/user/Spinkcat/" style="font-size:14px;">作者: Spinkcat</a>
+        </span>
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/real_China_irl/comments/125j78f/我来说下我对美国棱镜计划的理解/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#2032-我来说下我对美国棱镜计划的理解-submitted-on-2023-03-29-1809160800" id="markdown-toc-2032-我来说下我对美国棱镜计划的理解-submitted-on-2023-03-29-1809160800">2032: 我来说下我对美国棱镜计划的理解, submitted on 2023-03-29 18:09:16+08:00.</a></li>
+  <li><a href="#2033-三组数据告诉你为什么中国生育率会不断暴跌再详细解释为什么中共不可能把生育率提高到世代更替水平-submitted-on-2023-03-30-1215230800" id="markdown-toc-2033-三组数据告诉你为什么中国生育率会不断暴跌再详细解释为什么中共不可能把生育率提高到世代更替水平-submitted-on-2023-03-30-1215230800">2033: 三组数据告诉你为什么中国生育率会不断暴跌，再详细解释为什么中共不可能把生育率提高到世代更替水平, submitted on 2023-03-30 12:15:23+08:00.</a></li>
+  <li><a href="#2034-美国防部宣布提供给乌克兰的31辆m1艾布拉姆斯主战坦克将加快于今秋送达-submitted-on-2023-04-01-1235110800" id="markdown-toc-2034-美国防部宣布提供给乌克兰的31辆m1艾布拉姆斯主战坦克将加快于今秋送达-submitted-on-2023-04-01-1235110800">2034: 美国防部宣布提供给乌克兰的31辆M1艾布拉姆斯主战坦克将加快于今秋送达, submitted on 2023-04-01 12:35:11+08:00.</a></li>
+  <li><a href="#2035-你认为编程随想是怎么被抓的-submitted-on-2023-04-01-2209520800" id="markdown-toc-2035-你认为编程随想是怎么被抓的-submitted-on-2023-04-01-2209520800">2035: 你认为编程随想是怎么被抓的？, submitted on 2023-04-01 22:09:52+08:00.</a></li>
+  <li><a href="#2036-如果你是1976年的华国锋如何破局你的敌人有1陈云李先念等要求去掉四人帮但保留苏联式体制的老干部2江青毛远新为首仍然仗着毛泽东旗号为所欲为的文革利益集团3邓小平叶剑英为首谋划与西方和解废除计划经济的走资派你除了汪东兴等少数人外没有什么可以依靠的盟友-submitted-on-2023-04-01-2227320800" id="markdown-toc-2036-如果你是1976年的华国锋如何破局你的敌人有1陈云李先念等要求去掉四人帮但保留苏联式体制的老干部2江青毛远新为首仍然仗着毛泽东旗号为所欲为的文革利益集团3邓小平叶剑英为首谋划与西方和解废除计划经济的走资派你除了汪东兴等少数人外没有什么可以依靠的盟友-submitted-on-2023-04-01-2227320800">2036: 如果你是1976年的华国锋，如何破局？你的敌人有：1.陈云，李先念等要求去掉四人帮，但保留苏联式体制的老干部。2.江青，毛远新为首，仍然仗着毛泽东旗号为所欲为的文革利益集团。3.邓小平，叶剑英为首谋划与西方和解，废除计划经济的“走资派”。你除了汪东兴等少数人外，没有什么可以依靠的盟友, submitted on 2023-04-01 22:27:32+08:00.</a></li>
+  <li><a href="#2037-请教一下建委-submitted-on-2023-04-02-0132230800" id="markdown-toc-2037-请教一下建委-submitted-on-2023-04-02-0132230800">2037: 请教一下建委, submitted on 2023-04-02 01:32:23+08:00.</a></li>
+  <li><a href="#2038-讨论海南取代不取代香港都没有意义了因为香港本身也完成了历史使命结束了他的意义-submitted-on-2023-04-02-0452220800" id="markdown-toc-2038-讨论海南取代不取代香港都没有意义了因为香港本身也完成了历史使命结束了他的意义-submitted-on-2023-04-02-0452220800">2038: 讨论海南取代不取代香港都没有意义了，因为香港本身也完成了历史使命结束了他的意义, submitted on 2023-04-02 04:52:22+08:00.</a></li>
+  <li><a href="#2039-为什么美国在坦克上卡得这么紧-submitted-on-2023-04-02-1104240800" id="markdown-toc-2039-为什么美国在坦克上卡得这么紧-submitted-on-2023-04-02-1104240800">2039: 为什么美国在坦克上卡得这么紧？, submitted on 2023-04-02 11:04:24+08:00.</a></li>
+  <li><a href="#2040-都怪赵公太软弱当年赵紫阳带着广场上的20万学生直接冲进中南海把邓小平和李鹏踩成肉泥一切就结束了-submitted-on-2023-04-02-2012460800" id="markdown-toc-2040-都怪赵公太软弱当年赵紫阳带着广场上的20万学生直接冲进中南海把邓小平和李鹏踩成肉泥一切就结束了-submitted-on-2023-04-02-2012460800">2040: 都怪赵公太软弱，当年赵紫阳带着广场上的20万学生直接冲进中南海，把邓小平和李鹏踩成肉泥，一切就结束了, submitted on 2023-04-02 20:12:46+08:00.</a></li>
+</ul>
+
+<h3 id="2032-我来说下我对美国棱镜计划的理解-submitted-on-2023-03-29-1809160800">2032: <a href="https://old.reddit.com/r/real_China_irl/comments/125j78f/我来说下我对美国棱镜计划的理解/">我来说下我对美国棱镜计划的理解</a>, submitted on 2023-03-29 18:09:16+08:00.</h3>
+
+<p>—– <strong>2032.1</strong> —–2023-03-30 05:39:37+08:00:</p>
+
+<p>其实这种情况，顺着说下去就行了。</p>
+
+<p>既然都是一样的坏，那就应该一样的批判，不该厚此薄彼，美国人批判他们的政府，我们中国人也应该批判我们的政府。</p>
+
+<p>到这里，估计有人就会卡住说不下去了。</p>
+
+<p>如果跳脱这个角度，谈监控的立意和环境，美国政府的监控，最终受内部法律和民意制约，它不可能消失，因为是一种安全需求，但制约能在公众所能意识到的范围内限制它。</p>
+
+<p>中国政府的监控，更接近于一种维稳手段，这也是区别两者的最大差异。</p>
+
+<p>中美政府的差别，很大程度在于其存在的理由不同，美国政府的更替来自于一套成熟制度，民众赋予权力，这也是制约权力的来源。</p>
+
+<p>中国政府因为缺乏这种稳定的合法性来源，它的不稳定就加剧了不安全感，而一切能获得信息的途径，都只会被用于巩固其政权稳健。</p>
+
+<p>两个政府存在的目的性差异之大，决定了其行为受控与否。</p>
+
+<p>当然，我更多看法是，美国做错了，反贼不应该有心理负担，就大方批评，错了就是错了，要说的就该说。</p>
+
+<p>不能因为是美国跟中国对立，是民主化国家就不去批判，那样才是坠入粉红自己都没意识到的逻辑陷阱，单纯变成了立场对立，陷入战略层面选择方案少的死胡同。</p>
+
+<p>粉红批判，反贼就要比粉红更深刻的批判，走他们的路，把他们的路堵死，这样反过来，是否该批判中共的选择权，就要交到粉红手里，批判违他们本意，不批判无法交代于同样的事件。</p>
+
+<p>毕竟反贼以美国为标准去对照中国，是为了改变中国，而不是为了单方面称赞美国，所以批判的自由能让中国境况更显突出。</p>
+
+<p>再不济，拿来指桑骂槐，其他人也听得出来。</p>
+
+<p>当然，大部分时候，粉红分为两类</p>
+
+<p>第一类，意识不到中共的特性，认为中国跟美国英国日本无本质区别，这是天真。</p>
+
+<p>第二类，能意识到中共是专制政权的特殊性，但还是要维护一切专制政策，这是坏。</p>
+
+<p>对于第一种人，同样的逻辑是可以容易被理解的，反而能得到认同，或者迷惑。</p>
+
+<p>对于第二种人，你这样说他知道是指桑骂槐，但也无从反驳，而且大概率一旦你开这个路线去批判，他们也无法跟随。</p>
+
+<p>因为国内其实不允许讨论中共所处的社会定位是什么（一个统治为目的的专制集团）</p>
+
+<p>所以出现了这类迷惑的认知盲区，也即第一种人的观点（国家跟其他国家没区别，既然如此，那这么做很公平）</p>
+
+<p>而第二种人知道中共这种做法是为了维稳，美国也只是政治上的针对，但他自己肯定不会故意说出来。</p>
+
+<p>那么我们就要找机会先把这种观点说出来，让大众人知道政府对社会的态度和定位区别，这种认知一旦建立起来，第二种人装糊涂的空间就很少了。</p>
+
+<p>不过问题就在于，国内是不允许讨论的，所以给第二种人极大的生存空间，进而产生了更多第一种人。</p>
+
+<p>墙外不同，应该多说，说清楚些，不过很多人反而陷入认知逻辑陷阱，要反对中共，就必须找美国当一个对立面，所以其他人不能骂美国，这也是不合理的。</p>
+
+<h3 id="2033-三组数据告诉你为什么中国生育率会不断暴跌再详细解释为什么中共不可能把生育率提高到世代更替水平-submitted-on-2023-03-30-1215230800">2033: <a href="https://old.reddit.com/r/real_China_irl/comments/126bbu4/三组数据告诉你为什么中国生育率会不断暴跌再详细解释为什么中共不可能把生育率提高到世代更替水平/">三组数据告诉你为什么中国生育率会不断暴跌，再详细解释为什么中共不可能把生育率提高到世代更替水平</a>, submitted on 2023-03-30 12:15:23+08:00.</h3>
+
+<p>—– <strong>2033.1</strong> —–2023-04-02 04:36:34+08:00:</p>
+
+<p>工业化社会无可避免都会面临少子化，老龄化也不可避免，关键是如何提高人均消费和经济产出能力。</p>
+
+<p>目前情况看是产业升级无望，内需消费社会无法建成，因此最关键的通过提高人均产值，来获取更多资源，对冲老龄化与少子化的方案，我看是拿不出来了。</p>
+
+<p>可能未来5-7年就是最后窗口期，如果这段时间都毫无起色，那中共埋的雷，处理不好会拖累死1980-2040年代出生的人。</p>
+
+<p>—– <strong>2033.2</strong> —–2023-04-02 20:42:11+08:00:</p>
+
+<p>产业升级需要解绑知识分子在社会里的权力，放款中小企，有健全的法治和金融机制用于解决商贸和融资问题。</p>
+
+<p>无法做到社会毫无基础就能暴力升级，产业升级意味着企业权力被解放，政府需要在各个环境而都解绑审核权。</p>
+
+<p>举个例子文化服务产业的升级，如果政府一直控制游戏产业的审核，该市场是没有发展的机会，那么该领域就注定不能达到稳定市场，这个道理推广到所有产业都一样，没有任何可以预知的逻辑规则，政策决定一切。</p>
+
+<p>而可见的未来，看不出政府有愿意放权解绑，来换取产业进一步升级的可能。</p>
+
+<p>他们希望一方面控制产业为自己所用享受产业升级带来的经济好处，另一方面却又要限制产业升级稀释他们权力的可能性，两者是完全矛盾的，而矛盾的根本原因在于官方的政权结构太落后，无法适应现代化社会。</p>
+
+<p>未来5-7，东南亚会继续高速发展，而我们会持续老龄化，基层廉价劳动力开始依赖00后出生的人群，到时三十岁或以下劳动力大概在2-3亿，其中相当一部分要用于维持国内生产，也就是说即便用于出口产业的劳动力总量和价格不变。</p>
+
+<p>都要面临来自印度、东南亚同规模的竞争，因为五到七年，足够一些厂房基建转移过去。</p>
+
+<p>过去常说，世界投资不会去这些地方是因为中国基建好有配套，但是谁一开始都没有基建，他们只是需要时间而已。</p>
+
+<p>中国内部消费始终无法建立起来，不能冲淡这部分成本。</p>
+
+<p>常规模式是，一个国家从廉价劳动力为主的出口经济，逐渐发展科技，产业慢慢升级后，人均产值增加，同时形成内需消费社会，这样就不再依赖外部出口，形成了一个稳定的，内部对内部的投资消费，然后全球化下，本土公司外移厂房，转嫁生产成本给其他发展中地区。</p>
+
+<p>日本和四小龙发展后，转嫁给了中国，按道理中国发展后，应该转嫁给印度和东南亚。</p>
+
+<p>可以想以下，日本和四小龙，都是在全球产业链里，特定产业占据了相当的优势，实现了人均产值和内需消费后，才能稳定下来。</p>
+
+<p>要是他们仍然靠廉价劳动力做出口，中国发展起来了，可以把他们的市场全挤兑死。</p>
+
+<p>那为什么现在挤兑不到呢？就是因为错位市场。</p>
+
+<p>不同国家都出口的东西，他们做的东西更好（包装、品控、品种、宣传），附加产值更高，除此之外还有只有少数市场能生产出口的，比如芯片、各类高尖端的科技、工业产品。</p>
+
+<p>如果你产业升级不到位，卖的东西质量跟发展中国家差不多，注定要跟同价位进行竞争。</p>
+
+<p>到时候就不是中国十四亿人发展出一个全新的发达市场，而是落下去跟印度、非洲、东南亚几十亿人比谁的劳动力更贱更不值钱。</p>
+
+<p>因为没有稳定的内需消费到溢出，所以国内的人口因为各种原因（房价、收入低）没办法买下国内生产的产品。</p>
+
+<p>一旦外部廉价产品进入，国内生产就要跟国外产品竞争，要是通过海关贸易方式进行内部保护，国内就要承担高价和产品数量少的坏处，等于生活质量下降。</p>
+
+<p>内需社会不是一天建成的，五到七年对应的是窗口期，你这个时候就算开始做，可能也要十年甚至更多时间才能完成一个雏形。</p>
+
+<p>要是这五到七年都不去做，到2035年才开始，那起码要2040年代结束才能完成。</p>
+
+<p>相当于给东盟大量人口相对较少的国家，有十几年乃至二十年时间快速跟上发展，而你还在原地踏步，其他发达国家可能十五年没有任何迟疑就完成的事，我们要花一倍甚至三倍的时间去完成。</p>
+
+<h3 id="2034-美国防部宣布提供给乌克兰的31辆m1艾布拉姆斯主战坦克将加快于今秋送达-submitted-on-2023-04-01-1235110800">2034: <a href="https://old.reddit.com/r/real_China_irl/comments/128b927/美国防部宣布提供给乌克兰的31辆m1艾布拉姆斯主战坦克将加快于今秋送达/">美国防部宣布提供给乌克兰的31辆M1艾布拉姆斯主战坦克将加快于今秋送达</a>, submitted on 2023-04-01 12:35:11+08:00.</h3>
+
+<p>—– <strong>2034.1</strong> —–2023-04-02 05:29:44+08:00:</p>
+
+<p>理想情况是，美军培训是直接拿他们军改细化后的更小编制经验去在乌克兰实验。</p>
+
+<p>不止是M1坦克扔进去给乌军培训上战场，还有坦克配套的一系列装甲设备与经验，实现乌军美军化，毕竟美军不能自己上场打，就从头到尾培训一个精锐美械乌军，然后测试最近几年军改后的方案，在现代大规模战争里的可行性。</p>
+
+<p>我随便查了下维基，发现今年各国决定援助还没交付的坦克，如果14-15辆一个坦克连，至少能凑出七个坦克连。</p>
+
+<p>如果用小半年去训练和布置，按照美军的战术编制和装备，那除了为后续深入反攻做准备，想不出现在双方僵持还这样安排的原因。</p>
+
+<p>战争趋势基本上是进攻依赖前端精锐突破，比起二战更依赖单兵或者更小规模编制的多功能作战能力，很好奇美军能把手术刀式的战术单位发挥到什么程度。</p>
+
+<h3 id="2035-你认为编程随想是怎么被抓的-submitted-on-2023-04-01-2209520800">2035: <a href="https://old.reddit.com/r/China_irl/comments/128nj2l/你认为编程随想是怎么被抓的/">你认为编程随想是怎么被抓的？</a>, submitted on 2023-04-01 22:09:52+08:00.</h3>
+
+<p>—– <strong>2035.1</strong> —–2023-04-02 06:32:56+08:00:</p>
+
+<p>不怕贼偷，就怕贼惦记，看家属透露信息，盯上他不是一天两天，也是经过一段时间才确认下手的，他本人也早有预感了</p>
+
+<h3 id="2036-如果你是1976年的华国锋如何破局你的敌人有1陈云李先念等要求去掉四人帮但保留苏联式体制的老干部2江青毛远新为首仍然仗着毛泽东旗号为所欲为的文革利益集团3邓小平叶剑英为首谋划与西方和解废除计划经济的走资派你除了汪东兴等少数人外没有什么可以依靠的盟友-submitted-on-2023-04-01-2227320800">2036: <a href="https://old.reddit.com/r/real_China_irl/comments/128nzzd/如果你是1976年的华国锋如何破局你的敌人有1陈云李先念等要求去掉四人帮但保留苏联式体制的老干部2江/">如果你是1976年的华国锋，如何破局？你的敌人有：1.陈云，李先念等要求去掉四人帮，但保留苏联式体制的老干部。2.江青，毛远新为首，仍然仗着毛泽东旗号为所欲为的文革利益集团。3.邓小平，叶剑英为首谋划与西方和解，废除计划经济的“走资派”。你除了汪东兴等少数人外，没有什么可以依靠的盟友</a>, submitted on 2023-04-01 22:27:32+08:00.</h3>
+
+<p>—– <strong>2036.1</strong> —–2023-04-02 06:14:16+08:00:</p>
+
+<p>华国锋显然后期没预估到党内老国务院派的力量，他自己主政的根基是国务院，后面拿了主席身份其实根本坐不稳。</p>
+
+<p>坐主席的身份，等于必须继承毛泽东在党内的法理，这样一下就把自己变成文革继承人，始终不能有效跟党内干部和解，而邓被华国锋找出来复工后，能崛起翻盘的很大一个原因，就是华国锋无法控制全局，胡耀邦有能力钻空子搞真理标准大讨论。</p>
+
+<p>这样一下就把舆论和群众干部利益跟华国锋对立起来，华国锋自己也找不到台阶下。</p>
+
+<p>胡乱继承政治身份，是华国锋非常错误的一招，但党内你没有主席身份管不了党务，还是要完蛋的。</p>
+
+<p>所以华国锋有两个选择，第一不拿掉四人帮，第二扶持国务院里的老左派上位。</p>
+
+<p>他拿掉四人帮，意味着要么废除毛泽东的政治遗产，要么继承下来，但是他废除了毛泽东嫡系，又不愿意跳出文革和毛泽东的政治叙事，这就大错特错了。</p>
+
+<p>江青当时主要想对付的是邓小平，毛泽东如果没死，邓估计就要被一波送走殉葬了。</p>
+
+<p>毛的安排其实就是党务和行政上用不那么强势的华国锋，继承自己威望遗产的四人帮在文革遗产上，双方一起合作，扶持毛远新逐渐做大。</p>
+
+<p>但结果是嫡系内斗，华国锋放弃了文革遗产，干掉了对文革有很大影响的四人帮，但没放弃毛的遗产，这就叫血脉不纯。</p>
+
+<p>用江青毛远新作为威望合法性的来源，党务和行政上抱团一下，尤其是江青这几个人，非常能折腾，胡耀邦和邓操作的空间就很少。</p>
+
+<p>但四人帮和毛远新始终不能脱离华国锋和汪东兴、叶剑英等人的干部体系，所以双方是内外朝式被粘合在一起的。</p>
+
+<p>因此华国锋最好的方案，要么是不废除四人帮，然后利用四人帮跟邓陈联盟做斗争。要么就是拿掉四人帮后，利用陈云与邓的矛盾，拉拢李先念、陈云等老左派，放弃毛的政治遗产，那样邓上位阻力就很大了。</p>
+
+<p>真实历史的操作是，两个你死我活的群体里，华国锋本身是相对中间位置，但他拿掉了四人帮，导致自己变成众矢之的。</p>
+
+<p>放弃了毛泽东的遗产，还有跟老国务院的左派干部们联合的可能，但是他选择完全继承，找邓复出，希望跟老左派平衡一下，结果反而是邓借打毛泽东政治遗产的机会崛起，然后陈云李先念那面反应却没那么激烈。</p>
+
+<p>因为邓陈都是反感毛泽东政治遗产的，华国锋在消除四人帮后拉一派打一派的做法就不成立，结果都转过头来打他。</p>
+
+<p>搞平反，邓胡路线比他更适合，搞左派计划经济，老国务院的比他更靠谱，所以华国锋打掉四人帮，又不愿意放弃毛的政治遗产，就里外不是人。</p>
+
+<p>当时党内在毛死后的趋势，其实就是彻底倒向反对毛泽东政策，这是必然的，华国锋反对的不彻底，还想继承，然后又裁掉了四人帮这样在毛路线下最受益不可能放弃的人，再用一个不上不下的身份以毛泽东继承者的政治面貌去对接邓陈，直接让他们PTSD抱团。</p>
+
+<p>实际上华国锋不至于完全不能放弃毛路线，华国锋不是造反派，也不是空降的，当初胡耀邦不赞同动华国锋，就是因为华国锋也是建国前的干部，一步步升上来被毛选中的新国务院官僚，比起四人帮，更接近陈云、李先念，但他自己选错了路子，想当第二个毛，结果党内老人一反弹他就下来了，说明他还是高估了自己的能量。</p>
+
+<p>—– <strong>2036.2</strong> —–2023-04-02 23:27:36+08:00:</p>
+
+<p>不大可能，因为华不会放开市场经济和对自由化的钳制。</p>
+
+<h3 id="2037-请教一下建委-submitted-on-2023-04-02-0132230800">2037: <a href="https://old.reddit.com/r/China_irl/comments/128syhw/请教一下建委/">请教一下建委</a>, submitted on 2023-04-02 01:32:23+08:00.</h3>
+
+<p>—– <strong>2037.1</strong> —–2023-04-02 06:31:20+08:00:</p>
+
+<p>不少了，1850亿美元等于一万多亿人民币，2022年全国财政收入才二十万亿作用。</p>
+
+<p>这些钱还要从固定开销当中挤出来，预算或者收支能提供给特定部门用于放贷的比例更少。</p>
+
+<p>债务收回周期长且不稳定，钱花出去等于一个周期内都无法回收，本质是政府买单，给发展中国家提供人民币结算货物的机会来拉动国内收益。</p>
+
+<p>从政府角度，肯定会有损耗，时间长了政府有一个几万亿到十万亿的累积开销也吃不消，毕竟每年收入预算就固定那些，如果能灵活调度资金用于贷款，那国内政府运作只能继续扩大债务规模，然后背更多利息，挤压更多公共福利空间了。</p>
+
+<h3 id="2038-讨论海南取代不取代香港都没有意义了因为香港本身也完成了历史使命结束了他的意义-submitted-on-2023-04-02-0452220800">2038: <a href="https://old.reddit.com/r/China_irl/comments/128ygvo/讨论海南取代不取代香港都没有意义了因为香港本身也完成了历史使命结束了他的意义/">讨论海南取代不取代香港都没有意义了，因为香港本身也完成了历史使命结束了他的意义</a>, submitted on 2023-04-02 04:52:22+08:00.</h3>
+
+<p>—– <strong>2038.1</strong> —–2023-04-02 06:22:57+08:00:</p>
+
+<p>香港历史使命还有一段时期，经济角度，中国只要封闭，十几亿的市场就需要进出口和金融上的一个支点，香港更多是背靠这个市场，国际属性的需求，转移到新加坡也无可避免，毕竟国内就是这么个历史时期。</p>
+
+<p>政治上的，香港的历史使命还要看未来三十到五十年，港澳台继续扮演者清末的角色，作为一个跳板存在，这部分的特殊性更甚于其经济属性，两者若结束也应是在未来同时的，因为特殊性来自封闭性，政治经济封闭同时不存在，香港的困境和特殊性也就消失了。</p>
+
+<h3 id="2039-为什么美国在坦克上卡得这么紧-submitted-on-2023-04-02-1104240800">2039: <a href="https://old.reddit.com/r/real_China_irl/comments/129818f/为什么美国在坦克上卡得这么紧/">为什么美国在坦克上卡得这么紧？</a>, submitted on 2023-04-02 11:04:24+08:00.</h3>
+
+<p>—– <strong>2039.1</strong> —–2023-04-02 22:54:56+08:00:</p>
+
+<p>我有一个推测是，除了普遍认为的要处理坦克本身的特性外。</p>
+
+<p>美国可能要花时间，给乌克兰培训和建立能使用美军设备和作战思路的队伍，而不仅仅是把设备扔给乌克兰人让他们随便用，想要建立一个完全由美国战术思维、设备与经验拼装起来的乌克兰队伍。</p>
+
+<p>因为美国近年军改，一直在细分作战单位，增加多功能用途，乌克兰战争基本上明确了未来大规模作战，非常依赖单兵素质和班到连级的综合能力。</p>
+
+<p>美国可能交付的不止是铁疙瘩，而是一整套军事体系，尤其是教学。他们可能希望通过乌克兰战争，以及俄罗斯这样的对手，测试他们近年的军事理念是否可行，作为与中国交火的一个模拟。</p>
+
+<p>否则美国找不到任何地方可以做这种高效率的实战测试，尤其是台海战争愈发有可能爆发的背景下。</p>
+
+<p>对乌克兰军援，未必是个单纯的资源问题，而是一整套政治、外交和军事体系的事。</p>
+
+<h3 id="2040-都怪赵公太软弱当年赵紫阳带着广场上的20万学生直接冲进中南海把邓小平和李鹏踩成肉泥一切就结束了-submitted-on-2023-04-02-2012460800">2040: <a href="https://old.reddit.com/r/real_China_irl/comments/129jgnb/都怪赵公太软弱当年赵紫阳带着广场上的20万学生直接冲进中南海把邓小平和李鹏踩成肉泥一切就结束了/">都怪赵公太软弱，当年赵紫阳带着广场上的20万学生直接冲进中南海，把邓小平和李鹏踩成肉泥，一切就结束了</a>, submitted on 2023-04-02 20:12:46+08:00.</h3>
+
+<p>—– <strong>2040.1</strong> —–2023-04-02 23:26:52+08:00:</p>
+
+<p>赵的政治声望在群众当中不及胡，群众是借胡去世才出来的，当时甚至有骂赵的情况，他的政治面貌也不清晰，后来意识到是队友，也是很多年后大量信息流出后才搞清楚。</p>
+
+<p>所以当时赵属于一个两面不讨好的位置，邓送赵走，其实只是趁他不在方便把生米煮成熟饭让他回来接受，避免两个人当面讨论四二六社论该不该出。</p>
+
+<p>六四是发生了才有前夕的这个说法，当时国内局势是渐渐平复，赵也得到了邓和李陈的温和手段肯定，本质更接近于邓保赵的一种手法，逼他接受结果，避免两个人当面争让邓下不来台。</p>
+
+<p>说白了就是，赵跑出去也没人响应，他也不是没去过，学生其实根本不听他的。</p>
+
+<p>他话基本已经摊牌，再不走要出事了，到广场上去给警告已经是违背集体工作原则，这是他后来被软禁的根本原因，如果连军事调动的细节都说出口，开除党籍起步。</p>
+
+<p>如果他是个党外的反对派，是好调动的，坏就坏在赵紫阳是个行政出身，大众对他了解很有限，他的权力来自于邓和党务，脱离了这个体系，外面的人又不认他。</p>
+
+<p>二十万人真那么好组织调动，在哪都能发动一次内战了，还用指望前人栽树我们乘凉吗？不如指望自己更好，手脚都在自己身上。</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+    
+      <li>
+        <time>2023-04-03</time>
+        <a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">
+          EnclavedMicrostate在2023-04-03~2023-04-09的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-04-02</time>
+        <a href="https://nodebe4.github.io/opinion/2023-04-02/EnclavedMicrostate/">
+          EnclavedMicrostate在2023-03-27~2023-04-02的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-04-01</time>
+        <a href="https://nodebe4.github.io/opinion/2023-04-01/theoryofdoom/">
+          theoryofdoom在2023-03-27~2023-04-02的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2023-04-02/HeQinglian/">
+            前一篇：Twitter @He Qinglian: 2023-03-27~2023-04-02
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2023-04-02/realcaixia/">
+            後一篇：Twitter @蔡霞: 2023-03-27~2023-04-02
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2023-04-02/HeQinglian/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2023-04-02/realcaixia/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2023-04-02/EnclavedMicrostate/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2023-04-02/HeQinglian/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2023-04-02/realcaixia/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2023-04-02/EnclavedMicrostate/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

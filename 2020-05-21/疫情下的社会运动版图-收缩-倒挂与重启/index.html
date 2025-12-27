@@ -1,0 +1,602 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>疫情下的社会运动版图：收缩、倒挂与重启 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+疫情下的社会运动版图：收缩、倒挂与重启
+——
+" />
+    <meta property="og:description" content="
+疫情下的社会运动版图：收缩、倒挂与重启
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="疫情下的社会运动版图：收缩、倒挂与重启" />
+    <meta property="twitter:title" content="疫情下的社会运动版图：收缩、倒挂与重启" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fgravitysworm.com%2Fpost%2F618739126459678720" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://gravitysworm.com/post/618739126459678720" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://gravitysworm.com/post/618739126459678720&text=疫情下的社会运动版图：收缩、倒挂与重启&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://gravitysworm.com/post/618739126459678720&title=疫情下的社会运动版图：收缩、倒挂与重启" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://gravitysworm.com/post/618739126459678720&title=疫情下的社会运动版图：收缩、倒挂与重启" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=疫情下的社会运动版图：收缩、倒挂与重启&body=
+疫情下的社会运动版图：收缩、倒挂与重启
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://gravitysworm.com/post/618739126459678720" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://gravitysworm.com/post/618739126459678720&title=疫情下的社会运动版图：收缩、倒挂与重启&caption=
+疫情下的社会运动版图：收缩、倒挂与重启
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=疫情下的社会运动版图：收缩、倒挂与重启&url=https://gravitysworm.com/post/618739126459678720" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>疫情下的社会运动版图：收缩、倒挂与重启</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2020-05-21
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#萬有引力之蟲">
+          萬有引力之蟲
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://gravitysworm.com/post/618739126459678720" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="萬有引力之蟲的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#萬有引力之蟲 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1590075613000-->
+<p><a href="https://gravitysworm.com/post/618739126459678720">疫情下的社会运动版图：收缩、倒挂与重启</a>
+——</p>
+
+<div>
+  <p><em>澎湃“疫论”版本：<a href="https://www.thepaper.cn/newsDetail_forward_7462272" target="_blank">https://www.thepaper.cn/newsDetail_forward_7462272</a> </em></p>
+  <p>如今回忆起来恍如隔世的2019年，曾是全球社会运动再起的又一个元年。然而，正当世界各地的抗议者用身体打造出新的国际连结和想象，新冠疫情却生生掐断了继续革命的燃料和动力。社交隔离压平病毒传播曲线的同时，也让去年刚刚聚拢起来的抗议的薪火变得难以维系。 </p>
+  <p>各类线上讨论中，新形势下的社会运动成了绕不过去的话题。如何在有限的网络环境下维持旧的运动社区，如何发起新的运动，如何面对无法上街和抵抗无用的焦虑和虚无主义？这不是一个理论家可以调用历史文献为今日所用的时刻，连奈格里都直言将“站在队尾”学习年轻人的斗争实践。群众运动在过去的一百年内，恐怕都没有面临过和现在类似的高难度挑战。再没有人头攒动的街道和会议礼堂，只有不停颁布的数据收集和紧急法案；没有疫情下跨边界的共情和连结，只有不断重启、升级和变异的病毒民族主义之战；没有属于劳工的传播渠道和罢工纠察线，只有硅谷控制的电子广场，和少得可怜的替代性方案，而这些方案往往率先被财力雄厚的法西斯主义者所征用。 </p>
+  <p><strong>传统运动模式的收缩</strong></p>
+  <p>严格的居家令下，依然存在可圈可点的社会运动。巴西数百万人加入的敲锅抗议（Cacerolazo）已经成为全世界运动学习的榜样，很快就被阿根廷、智利、<a href="https://wagingnonviolence.org/2020/05/serbian-activists-nationwide-anti-authoritarian-protest-covid-19-lockdown/" target="_blank">塞尔维亚</a>等国民众所借鉴。从亚利桑那到佛罗里达，美国各地每周都有针对移民与海关执法局升级边境和移民管制的<a href="https://www.hcn.org/issues/52.6/covid19-protesting-immigrant-detention-during-a-pandemic" target="_blank">抗议</a>，移民组织和无政府主义者轮流在拘留所外泊车举牌鸣笛示威。旧金山等城市的组织者则利用车队集结的方式来向政府施压，促使其开放公共设施给辖区内的流浪汉。事实上，泊车抗议已经成为疫情下各国、各类意识形态组织的<a href="https://www.citylab.com/equity/2020/04/coronavirus-protest-stay-at-home-social-distancing-political/610393/" target="_blank">通用策略</a>。波兰女权社群通过停车扎堆来抗议反堕胎立法的同时，巴西总统博索纳罗的支持者也采用类似的形式举旗游街示威。  </p>
+  <p>但不可否认的是，在各种封锁令面前，社会运动作为一种需要线下空间来展示群体力量的斗争过程，其在整体社会生活中的优先级已经被大幅置后。首先，大的群体抗议几乎全部主动或被动偃旗息鼓，特别是去年爆发大规模抗议的地区。最明显的例子莫过于阿尔及利亚，三月末，本已经连续举行57周的反政府抗议因为新冠被<a href="https://www.bbc.com/news/world-africa-51982703" target="_blank">叫停</a>，而政府则趁机下令禁止了整整一年的示威活动。同一时间，匈牙利和菲律宾也通过了异常严苛的居家令法条来变相禁止任何集会。印尼下达社交隔离令后，公民组织联盟<a href="https://www.thejakartapost.com/news/2020/04/03/labor-union-to-hold-massive-protest-in-jakarta-despite-physical-distancing-measures.html" target="_blank">取消了</a>针对综合就业法改革的抗议。在拉美，智利广场抗议的痕迹也已经被清理干净，只剩劳动节零星的警民冲突。 </p>
+  <p>其次，如果算上小规模的抗议，线下抗议数量在疫情下也经历了全面收缩。多个追踪抗议和冲突的项目均显示，三月末各国纷纷卷入疫情后，全球抗议数量相对<a href="https://qz.com/1828468/coronavirus-has-crippled-global-protest-movements/" target="_blank">三月初</a>和<a href="https://www.theatlantic.com/international/archive/2020/04/protest-demonstration-pandemic-coronavirus-covid19/610381/" target="_blank">历史同期</a>水平至少蒸发了三分之二，很多新涌现的形式，比如阳台抗议的规模也无法和街道抗议匹敌。群众众包平台<a href="https://sites.google.com/view/crowdcountingconsortium/view-download-the-data?authuser=0" target="_blank">Crowd Counting Consortium</a>自美国2017年第一次妇女大游行开始，每月发布国内社运的不完全统计数据。根据它们的最新估计，疫情蔓延前一月份美国的抗议次数有六百多，到了三月一下子跌到了两百多次，且大量均为线上筹款和请愿等对抗性极低的行动，总体参与人数也大幅缩水。四月份的数据回升到四百多起，但原因在于多了各地兴起的反居家令抗议。如果算上社会运动的季节性波动，线下抗议的缩水程度要比数字看上去更严重。由于春暖花开加上遇到妇女节和劳动节，往年北美的三月到六月是集会罢工最频繁的时段。前年的生命大游行和去年的第一次全球气候大罢工，都是选在三月举行。各地的骄傲游行，也一般都选在初夏开展。这些大运动的缺席让各地的小运动难以发展起来，也极大影响到社会运动组织的募款。 </p>
+  <p>很多抗议被迫搬到了网络。三月末，以色列的反内塔尼亚胡<a href="https://www.timesofisrael.com/nearly-600000-watch-virtual-protest-against-pm-likuds-shuttering-of-knesset/" target="_blank">线上集会</a>吸引了近六十万人参与。五月初，俄罗斯反对派号召民众采用Yandex.Maps和Yandex.Navigator抗议普金延长任期的修宪。用户通过在地图软件中签到登录，或者评论交通拥堵来<a href="https://www.nbcnews.com/news/world/russians-use-digital-maps-protest-strict-coronavirus-lockdown-conditions-n1191681" target="_blank">线上集会</a>。在美国，亚马逊员工组织了在线“<a href="https://www.npr.org/sections/coronavirus-live-updates/2020/04/21/839888501/amazon-workers-stage-new-protests-over-warehouse-coronavirus-safety" target="_blank">出走集会</a>”，抗议贝佐斯报复性开除罢工组织者。 </p>
+  <p>网络抗议最大的问题，恐怕还是难以将规模转化成效果，对经济政治精英无法造成实质破坏。针对亚马逊的虚拟抗议并未对公司造成可见的经济和舆论压力。人们对商业在线工具的依赖，则进一步巩固而非弱化了监控资本主义的韧性。更多的数据点能被利用来监测用户行为，更多的隐私侵犯可以以抗疫为名大行其道。俄罗斯的Yandex抗议尽管吸引了大量自发参与者，政治讨论一天内就迅速被网站删空。 </p>
+  <p><strong>街头运动中的意识形态倒挂</strong></p>
+  <p>社运的困境不仅表现在传统线下组织模式的失灵，还反映在运动动能和意识形态的倒挂上。传统进步派占据绝对优势的街头运动，如今被保守派乘虚而入占领了头条。由于进步派大都支持社交隔离取消了公共集会，占领实体街道的大都是将居家令视为政府剥夺个人自由的保守派和自由意志主义者，有网络meme戏言，如今连“无政府主义者都在让大家听政府的话”不要出门。看似中立的居家令迅速被党派和意识形态化，右翼垄断了异议者的形象。在巴西，右翼支持者组织了数量更多、规模更大的反封城示威，并频频<a href="https://acleddata.com/analysis/covid-19-disorder-tracker/#1585775314361-2ee40e97-5aec" target="_blank">攻击</a>和平抗议的医护工作者。博索纳罗甚至还亲自<a href="https://www.theguardian.com/world/video/2020/apr/20/bolsonaro-joins-anti-lockdown-coronavirus-protests-in-brazil-video-report" target="_blank">出席</a>了四月末在巴西利亚的集会。在加拿大，反居家令示威由各类反疫苗和极右翼网络<a href="https://pressprogress.ca/canadas-anti-lockdown-protests-are-a-ragtag-coalition-of-anti-vaccine-activists-conspiracy-theorists-and-the-far-right/" target="_blank">组织</a>，他们通过脸书的私人讨论组招募潜在的支持者，大肆宣扬5G散布病毒的阴谋论。 </p>
+  <p>这种意识形态倒挂在目前疫情最严重的美国体现得淋漓尽致。从四月开始用“抗议”搜索英语新闻，清一色都是美国各州保守派反对封城、要求复工的示威集会。平日的大城市保守派集会，每次都能吸引人数更多的左翼团体前去干扰而不能顺利举办。疫情下，进步派把自己锁在家中，城市空间成了白人右翼的专场，没有停下围观的路人，也没有激烈的反对者，挥舞国旗站在城市地标前的几打人在镜头前仿佛烈士。事实上，民调显示全美只有<a href="https://www.newsweek.com/only-1-10-americans-back-liberate-protests-poll-shows-1499053" target="_blank">十分之一</a>人口支持抗议者的诉求，哪怕在2016年投了共和党的选民中，也只有17%支持立即结束社交隔离。但这些保守派中的少数活跃分子还是通过线下集会，获得了四两拨千斤的宣传效果。 </p>
+  <p>在此，真正的抗议规模和舆论趋势都是被扭曲的，反居家令抗议得到了不成比例的传媒关注。进步派的运动虽然相对式微，但远谈不上销声匿迹。然而问题在于，这些运动往往以城市和社区为单元，比如要求芝加哥政府提供房租补贴，没有一个更广的全国性诉求，这些诉求和已有运动，比如BLM的关系也是若即若离。因此，和保守派有全国性媒体跟踪报道不同，进步派运动多只有城市地方媒体和社会运动组织自己的报道。而城市地方媒体又是在社交媒体大潮中影响力被逐步<a href="https://www.nytimes.com/2019/11/20/us/local-news-disappear-pen-america.html" target="_blank">边缘化</a>的平台。 </p>
+  <p>社运动员上的倒挂，不仅是美国传媒报道框架偏见与地方媒体式微的产物，也同时反映了更深层次的左翼运动的数字动员短板，和对街头动员更强的依赖性。社会学者Jen Schradie在<a href="https://www.hup.harvard.edu/catalog.php?isbn=9780674972339" target="_blank">著作</a>中专门谈到了这个看似反直觉的矛盾。与千禧一代数字公民的公众形象相左，进步派往往依赖于线下一户户的扫街地推，因为其动员对象往往并不具备使用新技术的知识和条件。保守派机构因为雄厚的经济实力，加上动员对象种族、收入分部差异更小，在数字时代如鱼得水。Schradie的数据显示，在动员上做的最好的是Koch兄弟赞助的组织Americans for Prosperity，而排名倒数的无一例外都是激进左翼、工人阶级为主、采用去中心化的组织。劳工阶级的组织在脸书上的活跃度只有中产阶级组织的6%。 </p>
+  <p>这种数字动员的差异在反居家令抗议中再次上演。三月的蛰伏期间，早就形成跨地区甚至跨国网络的挺川、拥枪、新纳粹、另类右翼、<a href="https://abcnews.go.com/Politics/charlie-kirk-calls-students-trump-members-launch-peaceful/story?id=70227444" target="_blank">校园右翼</a>团体、前茶党组织者迅速建立了以州和城市为单位的脸书和Discord讨论群，并<a href="https://www.theguardian.com/world/2020/may/08/lockdown-groups-far-right-links-coronavirus-protests-american-revolution" target="_blank">抢注</a>了无数拥枪反居家令运动的网站域名。到了四月，在<a href="https://www.nytimes.com/2020/04/22/opinion/coronavirus-protests-astroturf.html?smid=tw-share" target="_blank">右翼智库</a>的支持下，这些网络倾巢出动浮出水面开始动员各地白人工人阶级反抗居家令，并将自己的种族主义议程植入在看似中立的经济议题中。 </p>
+  <p>数字行动上的不平等不仅在于资源不对称，也存在于对技术的认知，表现在进步派草根组织更容易在新技术前望而却步。当右翼为了绕开监管已经纷纷加入区块链、加密和游戏社区，很多左翼组织还在使用传统邮件组和邮件订阅列表。当右翼在油管、苹果商店和Twitch建立起了属于自己的直播和播客生态，一些左翼组织的经费还依赖于线下搭台卖报纸。疫情切断了左翼互相联系的生命线，他们需要用更长时间才能找到适应新形势的对策。  </p>
+  <p><strong>抗议的特权与罢工的困境</strong></p>
+  <p>在各种线下运动模式中，疫情对劳工工作场所罢工的影响看似是最小的。就劳工在生产链条上的位置来看，疫情甚至开拓了部分工种，比如物流、零售和仓储工人的斗争渠道。由于整个社会对物流和外卖的依赖性增强，有效瘫痪经济网络的可能性变大了许多。这也是为何三月以来，亚马逊和沃尔玛仓储、Target零售、Instacart外送平台的雇员陆续进行了多轮罢工，还在五一节加入了<a href="https://www.vox.com/recode/2020/5/1/21244151/may-day-strike-amazon-instacart-target-success-turnout-fedex-protest-essential-workers-chris-smalls" target="_blank">总罢工</a>，抗议公司疫情补贴和防护设备不足，这在以往是难以想象的。 </p>
+  <p>但另一方面说，斗争渠道的拓展并未抵消疫情下罢工所面临的其他劣势。疫情下还在坚持工作的服务业必需性劳工，多是低薪与无证移民、有色人种、单身母亲，她们负担不起失业的成本，更难以承担罢工的代价。虽然必需性劳工的罢工得到了广泛的媒体和<a href="https://twitter.com/ewarren/status/1256285090205835264" target="_blank">政客</a>支持，参与罢工的人数并不足以影响到公司的日常运转。 </p>
+  <p>疫情也让本就艰难的工作场所组织雪上加霜。以亚马逊仓储（Fulfillment Center）为例，罢工局限在纽约、新泽西等少数仓库员工受感染的州。每次罢工的参与规模也很有限，每个场所参与罢工的劳工数量都不会多于<a href="https://www.vice.com/en_us/article/n7jaaq/amazon-reinstates-fired-warehouse-worker-after-employees-strike" target="_blank">十分之一</a>。事实上，在疫情前就高度自动化的亚马逊仓库进行罢工本就极为困难。劳工站位相隔较远，仓库内噪音又极大，即使面对面也无法以正常分贝进行沟通。更不用说每个进入仓库的劳工都会被没收电子设备，根本无法在工作场合和同事形成有效的连结。疫情下对劳工更全面的身体检查，为了保持社交距离对仓库劳工进行的定位监控，也使得组织工作只能在下班后展开。 </p>
+  <p>相比同一场所工作的仓储工，物流和外卖劳工的斗争则更加艰巨。尽管Gig Workers Collective等劳工组织一直在积极动员零工和快递工人罢工，目前的努力都收效甚微。以Instacart为例，平台算法使本就地理上互相孤立的劳工陷入抢单的零和厮杀。为了获得出价高，超市货源全的优质订单，不少劳工开始使用第三方<a href="https://techcrunch.com/2020/04/24/instacart-third-party-apps-bots-priority-access-batches-orders/" target="_blank">外挂软件</a>抢下附近所有订单，导致其他人无单可做。嗅到商机的投机商则开始付费兜售外挂软件，或是索性自己做起<a href="https://www.vice.com/en_ca/article/n7wjxd/instacart-shoppers-scammed-bots" target="_blank">二道贩子</a>，把软件抢到的订单再转卖给普通劳工。交易另一端的顾客也让劳工获取优质订单更加困难。部分Instacart顾客为了争抢订单，给购物者加超额小费，等订单完成却又在软件中将<a href="https://www.theverge.com/2020/4/10/21216317/instacart-tip-baiting-grocery-employees-delivery-pandemic" target="_blank">小费归零</a>。在平台、顾客和投机黑客的共谋下，经济风险完全被转嫁到劳工头上。 </p>
+  <p>尽管各地涌现出大量草根互助团体，比如各行业自救、社区派送服务和民间紧急救助金项目，这些网络只能进行事后的救济，而无法直接介入工作场所的正义。自组织不是工会，没有集体谈判的资格，它们极端本地化的特征也使得各地自组织除了网上互关外，其实鲜有实质性的往来。 </p>
+  <p>在劳工阶级收入锐减，传统罢工又停滞不前的当下，以停缴租金为核心的租金罢工（Rent Strike）成为被倒逼出来的另一种平行抗争形式。4月初起，从费城大学城到加州奥克兰，美国主要城市的中低收入社区几乎都进行了规模不等的租金罢工。在疫情最严重的纽约市，停缴租金和房屋贷款的<a href="https://actionnetwork.org/petitions/reclaim-our-homes-rent-suspension-now/?fbclid=IwAR0Z3MS8GB8Ygngc7Zq_YJQrC7T8C7ZlE4e5iyuuCRRU5WcDbuQM8Ypp1tc" target="_blank">请愿</a>已经收集了近十万签名。不少罢工得益于已有的<a href="http://phillytenantsunion.org/" target="_blank">城市租客工会</a>（Tenant Union）、美国民主社会主义者等左派组织，和无政府主义公社制作的<a href="https://www.docdroid.net/eI8KpcZ/rent-strike-resource-pack-for-2020-pandemic-pdf#page=5" target="_blank">资源手册</a>，但疫情本身也催生出新的组织架构，包括以公寓楼为单元的<a href="https://www.jacobinmag.com/2020/05/rent-strike-new-york-tenant-organizing-coronavirus" target="_blank">小自组织</a>和跨区域的<a href="https://www.rentstrike2020.org/the-project" target="_blank">行动网络</a>。 </p>
+  <figure data-orig-width="3024" data-orig-height="4032" class="tmblr-full">
+<img src="https://64.media.tumblr.com/6b4faf64c786ee58f42e88c770f1cbc8/101a1f352cd5fca4-1e/s540x810/c9f6ace4dc75ecf18536d4ae805ea4a75e00e358.jpg" data-orig-width="3024" data-orig-height="4032" />
+  </figure>
+  <p><em>费城大学城附近的租金罢工宣传</em></p>
+  <p>租金罢工的独特性在于其处在社会生产链条的再生产一端，不仅使跨行业的租客联合成为可能，而且十分有利于<a href="https://jacobinmag.com/2020/05/frances-fox-piven-coronavirus-crisis-unemployment/" target="_blank">失业者</a>和女性的参与。女性从事更多家庭内部再生产，从而与居住社区邻里和周边自组织的联系更加紧密，这让她们更容易成为运动的组织核心。 </p>
+  <p>在美国语境下，租金罢工还有着另一层含义。美国的房屋所有权占据着阶级种族隔离和财富世代剥削中奠基性的一环。由于红线等歧视性历史政策和金融机构贷款不公等一系列因素的影响，美国租房成本大大高于买房，有色人种聚居区房产价格远低于其他社区。社会学研究也发现，在很多大城市，房屋质量和租金价格往往是<a href="https://www.journals.uchicago.edu/doi/10.1086/701697" target="_blank">负相关</a>的，低收入社区的少数族裔要给白人房东缴纳远高于平均数的租金。原因在于房东为了规避和平摊租客信用额度低、付不起租金的风险，给低收入者订立更高的租金，进一步加剧了经济掠夺的不平等。 </p>
+  <p>这样背景下的租金罢工，就不仅仅是为了缓解少数人交不起租金的困境，而是一种揭露种族资本主义运转体系的方式。为此，参与罢工的就不仅是无法缴纳房租的底层租客，还包括认同这一理念的所有租客，正是后者的加入可以让前者不用和房屋所有者单打独斗。正是因为租金罢工可能带来的连环性破坏，各地政府都在通过推出迟缴租金，延缓清退等政策，试图缓冲更激进的租客联合带来的影响。另一方面，美国发达的房东自组织也卷入其中维护自己的权益。租客工会与房东联盟的缠斗，随着经济危机的深化才刚刚开始。 </p>
+  <p><strong>自组织遗产与社运的重启</strong></p>
+  <p>人们容易观察到社运策略同一时期在空间上的传递，却往往轻视其历史延续性。尽管新冠疫情史无前例，社交隔离下展现的诸种社运斗争策略，却鲜有完全的创新。例如，敲锅抗议之所以可以在拉美和其他西语国家大范围传播，源于这种抗争形式悠久的<a href="https://www.aljazeera.com/news/2019/12/pots-pans-cacerolazo-protests-echo-latin-america-191202014429978.html" target="_blank">历史传承</a>。敲打日用品的抗争方式可以追溯到中世纪现代社运还没成型前就广泛存在的喧闹音乐（Rough Music）传统。现代的敲锅打铁抗议也已有半个多世纪的历史。阿连德执政时期，智利民众就采用过击打炊具的方式抗议物价飞涨和食物短缺。90年代后墨西哥、阿根廷、哥伦比亚等国的反私有化和粮食运动中，敲锅抗议也是重要的一环。进入新世纪后，敲锅打铁抗议早已与食物的主题脱离。智利2011年学生运动和去年全国抗议期间，都广泛采用过这种方式，作为白天游行的辅助。 </p>
+  <p>租金罢工也至少有一百五十年的历史。20世纪初，动荡的世界局势与无政府主义思潮的传播曾经在多国引发租金罢工潮。1907年在阿根廷<a href="https://crimethinc.com/2020/03/30/rent-strike-a-strategic-appraisal-of-rent-strikes-throughout-history-and-today" target="_blank">布宜诺斯艾利斯</a>，由妇女发起的租金罢工动员了至少十万租户，最终升级成长达三个月的暴力冲突。1960年代发轫的意大利自治主义运动和70年代的女权运动，在接下来十几年孕育出无数城市互助社和草根邻里委员会，它们组织居民集体<a href="https://libcom.org/history/autoreduction-movements-turin-1974" target="_blank">少交水电费</a>和租金，占领和改造空置的城市空间。1980年代，租金罢工是南非反种族隔离斗争的重要剧码之一，这也是为何今年南非的<a href="http://rentstrikesouthafrica.org/" target="_blank">租金罢工</a>相比其他国家启动更早，组织更完备。这次疫情下纽约的罢工之所以成功，除了全球城市的独特优势外，也在于其贯穿整个20世纪的租金罢工传统。因此，与其说新冠疫情催生了新的运动模式，不如说它激励了人们在绝望中寻找和整合过去的斗争遗产。这种与过去的世界相连结的努力会为运动提供进一步的动力。 </p>
+  <p>疫情下的尝试，哪怕是失败的尝试，也在塑造着未来的政治图景。疫情对线下社运的噤声是暂时的，长远来看，社运网络和灾害中自组织的共生转化是亟待推进的议题。过往的愤怒不会消失，但只有更有韧性的网络才可以有效转化这些积蓄已久的情绪。十年前占领运动的网络，曾一度成为后来桑迪飓风后大纽约地区自治社区的骨架。而目前的社会运动面临着倒置的问题，因为疫情而创立的自组织联系，如何在未来的其他政治危机中被唤醒，被政治化，成为不妥协的武器，而不是矮化成修补体系的一块块补丁。这种未来导向的思考，也许是走出隔离期运动虚无主义的一条通路。 </p>
+  <p>（感谢马景超对此文写作的启发）<br /></p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#萬有引力之蟲 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-07-18/%E9%9F%A7%E6%80%A7%E7%9A%84%E8%89%BA%E6%9C%AF-%E5%BA%9F%E9%99%A4%E8%AD%A6%E5%AF%9F%E5%9F%8E%E8%BF%90%E5%8A%A8%E7%9A%84%E5%90%AF%E7%A4%BA/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2017-11-06/%E5%8D%A0%E9%A2%86%E7%9A%84%E7%BB%84%E7%BB%87%E9%81%97%E4%BA%A7/">最早</a>--</span>
+    
+      <li>
+        <time>2020-07-09</time>
+        <a href="https://nodebe4.github.io/opinion/2020-07-09/%E7%A7%8D%E6%97%8F%E4%B8%8E%E7%BE%8E%E5%9B%BD%E7%9A%84%E7%A4%BE%E4%BC%9A%E8%BF%90%E5%8A%A8%E7%89%88%E5%9B%BE-%E4%BF%AE%E8%AE%A2%E5%8F%91%E8%A8%80%E7%A8%BF/">
+          种族与美国的社会运动版图（修订发言稿）
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-06-01</time>
+        <a href="https://nodebe4.github.io/opinion/2020-06-01/%E4%BB%8E%E6%8A%97%E7%96%AB%E5%88%B0%E6%8A%97%E8%AE%AE-%E7%BE%8E%E5%9B%BDBLM%E9%A6%99%E6%B8%AF%E5%8C%96/">
+          从抗疫到抗议：美国BLM香港化？
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-03-27</time>
+        <a href="https://nodebe4.github.io/opinion/2020-03-27/%E7%96%AB%E6%83%85%E4%B8%8B%E7%9A%84%E7%BE%8E%E5%9B%BD%E5%B7%A5%E4%BD%9C-%E5%B1%85%E5%AE%B6%E5%8A%9E%E5%85%AC-%E9%9B%B6%E5%B7%A5%E7%BB%8F%E6%B5%8E%E4%B8%8E%E8%87%AA%E5%8A%A8%E5%8C%96/">
+          疫情下的美国工作：居家办公、零工经济与自动化
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-03-10</time>
+        <a href="https://nodebe4.github.io/opinion/2020-03-10/%E8%87%AA%E5%8A%A8%E5%8C%96-%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%E4%B8%8E%E5%B9%BD%E7%81%B5%E5%B7%A5%E4%BD%9C%E7%9A%84%E5%B4%9B%E8%B5%B7/">
+          自动化，意识形态与幽灵工作的崛起
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2020-05-20/%E4%B8%96%E7%95%8C%E6%96%87%E6%98%8E%E5%A4%A7%E6%B4%8B%E4%B8%8A%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%AD%A4%E8%88%9F/">
+            前一篇：世界文明大洋上的中国孤舟
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2020-05-21/%E5%85%A8%E5%9C%8B%E4%BA%BA%E5%A4%A7%E7%9A%84%E9%A6%99%E6%B8%AF%E5%9C%8B%E5%AE%B6%E5%AE%89%E5%85%A8%E6%B3%95%E6%97%A9%E6%9C%9F%E5%88%86%E6%9E%90-%E7%BE%8E%E5%9C%8B%E5%B0%8D%E8%8F%AF%E7%AB%8B%E5%A0%B4%E6%9B%B4%E5%8A%A0%E5%BC%B7%E7%A1%AC/">
+            後一篇：全國人大的香港國家安全法早期分析；美國對華立場更加強硬
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2020-05-20/%E4%B8%96%E7%95%8C%E6%96%87%E6%98%8E%E5%A4%A7%E6%B4%8B%E4%B8%8A%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%AD%A4%E8%88%9F/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2020-05-21/%E5%85%A8%E5%9C%8B%E4%BA%BA%E5%A4%A7%E7%9A%84%E9%A6%99%E6%B8%AF%E5%9C%8B%E5%AE%B6%E5%AE%89%E5%85%A8%E6%B3%95%E6%97%A9%E6%9C%9F%E5%88%86%E6%9E%90-%E7%BE%8E%E5%9C%8B%E5%B0%8D%E8%8F%AF%E7%AB%8B%E5%A0%B4%E6%9B%B4%E5%8A%A0%E5%BC%B7%E7%A1%AC/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2020-06-01/%E4%BB%8E%E6%8A%97%E7%96%AB%E5%88%B0%E6%8A%97%E8%AE%AE-%E7%BE%8E%E5%9B%BDBLM%E9%A6%99%E6%B8%AF%E5%8C%96/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2020-03-27/%E7%96%AB%E6%83%85%E4%B8%8B%E7%9A%84%E7%BE%8E%E5%9B%BD%E5%B7%A5%E4%BD%9C-%E5%B1%85%E5%AE%B6%E5%8A%9E%E5%85%AC-%E9%9B%B6%E5%B7%A5%E7%BB%8F%E6%B5%8E%E4%B8%8E%E8%87%AA%E5%8A%A8%E5%8C%96/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2020-05-20/%E4%B8%96%E7%95%8C%E6%96%87%E6%98%8E%E5%A4%A7%E6%B4%8B%E4%B8%8A%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%AD%A4%E8%88%9F/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2020-05-21/%E5%85%A8%E5%9C%8B%E4%BA%BA%E5%A4%A7%E7%9A%84%E9%A6%99%E6%B8%AF%E5%9C%8B%E5%AE%B6%E5%AE%89%E5%85%A8%E6%B3%95%E6%97%A9%E6%9C%9F%E5%88%86%E6%9E%90-%E7%BE%8E%E5%9C%8B%E5%B0%8D%E8%8F%AF%E7%AB%8B%E5%A0%B4%E6%9B%B4%E5%8A%A0%E5%BC%B7%E7%A1%AC/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<萬有引力之蟲>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2020-06-01/%E4%BB%8E%E6%8A%97%E7%96%AB%E5%88%B0%E6%8A%97%E8%AE%AE-%E7%BE%8E%E5%9B%BDBLM%E9%A6%99%E6%B8%AF%E5%8C%96/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<萬有引力之蟲>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2020-03-27/%E7%96%AB%E6%83%85%E4%B8%8B%E7%9A%84%E7%BE%8E%E5%9B%BD%E5%B7%A5%E4%BD%9C-%E5%B1%85%E5%AE%B6%E5%8A%9E%E5%85%AC-%E9%9B%B6%E5%B7%A5%E7%BB%8F%E6%B5%8E%E4%B8%8E%E8%87%AA%E5%8A%A8%E5%8C%96/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

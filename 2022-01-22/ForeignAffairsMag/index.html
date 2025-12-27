@@ -1,0 +1,2194 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>ForeignAffairsMag在2022-01-17~2022-01-23的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="ForeignAffairsMag在2022-01-17~2022-01-23的言论" />
+    <meta property="twitter:title" content="ForeignAffairsMag在2022-01-17~2022-01-23的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2Fgeopolitics%2Fcomments%2Fs702wk%2Ftime_for_nato_to_close_its_door_the_alliance_is%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/geopolitics/comments/s702wk/time_for_nato_to_close_its_door_the_alliance_is/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/geopolitics/comments/s702wk/time_for_nato_to_close_its_door_the_alliance_is/&text=ForeignAffairsMag在2022-01-17~2022-01-23的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/geopolitics/comments/s702wk/time_for_nato_to_close_its_door_the_alliance_is/&title=ForeignAffairsMag在2022-01-17~2022-01-23的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/geopolitics/comments/s702wk/time_for_nato_to_close_its_door_the_alliance_is/&title=ForeignAffairsMag在2022-01-17~2022-01-23的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=ForeignAffairsMag在2022-01-17~2022-01-23的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/geopolitics/comments/s702wk/time_for_nato_to_close_its_door_the_alliance_is/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/geopolitics/comments/s702wk/time_for_nato_to_close_its_door_the_alliance_is/&title=ForeignAffairsMag在2022-01-17~2022-01-23的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=ForeignAffairsMag在2022-01-17~2022-01-23的言论&url=https://old.reddit.com/r/geopolitics/comments/s702wk/time_for_nato_to_close_its_door_the_alliance_is/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>ForeignAffairsMag在2022-01-17~2022-01-23的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-01-22
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: ForeignAffairsMag</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/geopolitics/comments/s702wk/time_for_nato_to_close_its_door_the_alliance_is/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#98-time-for-nato-to-close-its-door-the-alliance-is-too-bigand-too-provocativefor-its-own-good-submitted-on-2022-01-18-2328150800" id="markdown-toc-98-time-for-nato-to-close-its-door-the-alliance-is-too-bigand-too-provocativefor-its-own-good-submitted-on-2022-01-18-2328150800">98: Time for NATO to Close Its Door: The Alliance Is Too Big—and Too Provocative—for Its Own Good, submitted on 2022-01-18 23:28:15+08:00.</a></li>
+  <li><a href="#99-macrons-flawed-vision-for-europe-persistent-divisions-will-preclude-his-dreams-of-global-power-submitted-on-2022-01-19-2315450800" id="markdown-toc-99-macrons-flawed-vision-for-europe-persistent-divisions-will-preclude-his-dreams-of-global-power-submitted-on-2022-01-19-2315450800">99: Macron’s Flawed Vision for Europe: Persistent Divisions Will Preclude His Dreams of Global Power, submitted on 2022-01-19 23:15:45+08:00.</a></li>
+  <li><a href="#100-privacy-is-power-how-tech-policy-can-bolster-democracy-submitted-on-2022-01-20-0525430800" id="markdown-toc-100-privacy-is-power-how-tech-policy-can-bolster-democracy-submitted-on-2022-01-20-0525430800">100: Privacy Is Power: How Tech Policy Can Bolster Democracy, submitted on 2022-01-20 05:25:43+08:00.</a></li>
+  <li><a href="#101-america-needs-a-bolder-biden-a-year-in-his-foreign-policy-is-too-cautious-and-conventional-submitted-on-2022-01-21-0507020800" id="markdown-toc-101-america-needs-a-bolder-biden-a-year-in-his-foreign-policy-is-too-cautious-and-conventional-submitted-on-2022-01-21-0507020800">101: America Needs a Bolder Biden: A Year In, His Foreign Policy Is Too Cautious and Conventional, submitted on 2022-01-21 05:07:02+08:00.</a></li>
+  <li><a href="#102-how-to-prevent-covids-next-comeback-rich-countries-must-make-smarter-investments-in-poorer-ones-submitted-on-2022-01-21-2120360800" id="markdown-toc-102-how-to-prevent-covids-next-comeback-rich-countries-must-make-smarter-investments-in-poorer-ones-submitted-on-2022-01-21-2120360800">102: How to Prevent COVID’s Next Comeback: Rich Countries Must Make Smarter Investments in Poorer Ones, submitted on 2022-01-21 21:20:36+08:00.</a></li>
+  <li><a href="#103-alexander-vindman-the-day-after-russia-attacks-what-war-in-ukraine-would-look-likeand-how-america-should-respond-submitted-on-2022-01-21-2315210800" id="markdown-toc-103-alexander-vindman-the-day-after-russia-attacks-what-war-in-ukraine-would-look-likeand-how-america-should-respond-submitted-on-2022-01-21-2315210800">103: Alexander Vindman: The Day After Russia Attacks. What War in Ukraine Would Look Like—and How America Should Respond, submitted on 2022-01-21 23:15:21+08:00.</a></li>
+  <li><a href="#104-how-to-prevent-covids-next-comeback-rich-countries-must-make-smarter-investments-in-poorer-ones-submitted-on-2022-01-22-0507410800" id="markdown-toc-104-how-to-prevent-covids-next-comeback-rich-countries-must-make-smarter-investments-in-poorer-ones-submitted-on-2022-01-22-0507410800">104: How to Prevent COVID’s Next Comeback: Rich Countries Must Make Smarter Investments in Poorer Ones, submitted on 2022-01-22 05:07:41+08:00.</a></li>
+</ul>
+
+<h3 id="98-time-for-nato-to-close-its-door-the-alliance-is-too-bigand-too-provocativefor-its-own-good-submitted-on-2022-01-18-2328150800">98: <a href="https://old.reddit.com/r/geopolitics/comments/s702wk/time_for_nato_to_close_its_door_the_alliance_is/">Time for NATO to Close Its Door: The Alliance Is Too Big—and Too Provocative—for Its Own Good</a>, submitted on 2022-01-18 23:28:15+08:00.</h3>
+
+<p>—– <strong>98.1</strong> —–2022-01-18 23:28:59+08:00:</p>
+
+<p>[SS from the article by Michael Kimmage, Professor of History at the Catholic University of America]</p>
+
+<p>“To simplify its strategic purpose and to improve its defensive capacities, NATO should publicly and explicitly forswear adding any more members. The alliance should make clear that its long phase of expansion is over. Ending the open-door policy, tricky as it would be to execute, and rethinking the security architecture of central and eastern Europe would not be a concession to Putin. To the contrary, it is necessary in order for the most successful alliance of the twentieth century to endure and prosper in the twenty-first.”</p>
+
+<h3 id="99-macrons-flawed-vision-for-europe-persistent-divisions-will-preclude-his-dreams-of-global-power-submitted-on-2022-01-19-2315450800">99: <a href="https://old.reddit.com/r/europe/comments/s7scbt/macrons_flawed_vision_for_europe_persistent/">Macron’s Flawed Vision for Europe: Persistent Divisions Will Preclude His Dreams of Global Power</a>, submitted on 2022-01-19 23:15:45+08:00.</h3>
+
+<p>—– <strong>99.1</strong> —–2022-01-19 23:18:05+08:00:</p>
+
+<p>[SS from the article by Francis J. Gavin Director of the Henry A. Kissinger Center for Global Affairs at Johns Hopkins University, and Alina Polyakova, President and CEO of the Center for European Policy Analysis]</p>
+
+<p>“Macron’s vision is more of a laundry list, addressing everything from increased multilateralism to counterterrorism strategies to talks about beefing up the continent’s security. Some proposals seem contradictory, such as the desire for a France that possesses ‘the ability to rank and have influence among other nations,’ a country in which the French would be the “master of our own destiny,” yet also a country in which ‘our independent decision-making is fully compatible with our unwavering solidarity with our European partners.’ Other ideas seem problematic and unlikely to find wide adherence, such as Macron’s suggestion that ‘there can be no defense and security project of European citizens without political vision seeking to advance gradual rebuilding of confidence with Russia.’<br />
+This vision assumes that a continent with a long history of divisions is now united on its defense and foreign policy. But a cursory look at the recent debates on Russia, China, and even the United States shows a lack of strategic coherence among European states. Macron’s vision, in short, could splinter Europe and dilute its capabilities and focus, all while playing into the United States’ worst instincts to disengage from the transatlantic alliance to focus on China.”</p>
+
+<h3 id="100-privacy-is-power-how-tech-policy-can-bolster-democracy-submitted-on-2022-01-20-0525430800">100: <a href="https://old.reddit.com/r/TrueReddit/comments/s8101n/privacy_is_power_how_tech_policy_can_bolster/">Privacy Is Power: How Tech Policy Can Bolster Democracy</a>, submitted on 2022-01-20 05:25:43+08:00.</h3>
+
+<p>—– <strong>100.1</strong> —–2022-01-20 05:26:18+08:00:</p>
+
+<p>[SS from the article by Andrew Imbrie, Daniel Baer, Andrew Trask, Anna Puglisi, Erik Brattberg, and Helen Toner]</p>
+
+<p>“History is rarely forgiving, but as we adopt the next phase of digital tools, policymakers can avoid the errors of the past. Privacy-enhancing technologies, or PETs, are a collection of technologies with applications ranging from improved medical diagnostics to secure voting systems and messaging platforms. PETs allow researchers to harness big data to solve problems affecting billions of people while also protecting privacy. As their use becomes widespread, a new paradigm will emerge, in which private data is more readily available for research and problem solving and public data on private citizens is better protected. Much like the Internet itself, PETs have become a dividing line between democratic and authoritarian governments with implications for privacy and accountability. With foresight, however, the United States and its allies can realize the benefits of PETs while preventing the most dangerous outcomes. Indeed, the announcement at U.S. President Joe Biden’s recent Summit for Democracy of a joint effort by the United Kingdom and the United States to create a grand challenge aimed at fostering innovation in PETs signals the importance some advanced democracies are attaching to this effort.”</p>
+
+<h3 id="101-america-needs-a-bolder-biden-a-year-in-his-foreign-policy-is-too-cautious-and-conventional-submitted-on-2022-01-21-0507020800">101: <a href="https://old.reddit.com/r/geopolitics/comments/s8sytj/america_needs_a_bolder_biden_a_year_in_his/">America Needs a Bolder Biden: A Year In, His Foreign Policy Is Too Cautious and Conventional</a>, submitted on 2022-01-21 05:07:02+08:00.</h3>
+
+<p>—– <strong>101.1</strong> —–2022-01-21 05:08:11+08:00:</p>
+
+<p>[SS from the article by Emma Ashford, senior fellow in the New American Engagement Initiative at the Atlantic Council]</p>
+
+<p>“Biden’s rhetoric often suggests that he could be a visionary on international affairs: the kind of leader the United States needs to make tough strategic choices facing the country, whether on nuclear posture, Middle East wars, or a pivot to Asia. But if he is to do so, his administration needs to get out of its defensive crouch, make tough choices, and own them. The president made the right choice on Afghanistan: to put aside political considerations and instead pursue “the fundamental national security interest of the United States of America.” It’s time he applied that resolute approach to foreign policy more broadly.”</p>
+
+<h3 id="102-how-to-prevent-covids-next-comeback-rich-countries-must-make-smarter-investments-in-poorer-ones-submitted-on-2022-01-21-2120360800">102: <a href="https://old.reddit.com/r/india/comments/s9alc1/how_to_prevent_covids_next_comeback_rich/">How to Prevent COVID’s Next Comeback: Rich Countries Must Make Smarter Investments in Poorer Ones</a>, submitted on 2022-01-21 21:20:36+08:00.</h3>
+
+<p>—– <strong>102.1</strong> —–2022-01-21 21:21:39+08:00:</p>
+
+<p>[SS from the article by Abhijit Banerjee and Esther Duflo, winners of the 2019 Nobel Prize in Economics]</p>
+
+<p>“Managing the new normal of endemic COVID-19 in low- and middle-income countries is a different challenge from controlling the pandemic in developed states. This is partly because poorer countries lack some of the public health infrastructure and resources needed to effectively protect their populations. But it’s also because recent history suggests that rather than helping, the rich world in general and the United States in particular may be making matters worse for developing countries through their own disastrous management of the disease.”</p>
+
+<h3 id="103-alexander-vindman-the-day-after-russia-attacks-what-war-in-ukraine-would-look-likeand-how-america-should-respond-submitted-on-2022-01-21-2315210800">103: <a href="https://old.reddit.com/r/geopolitics/comments/s9cza0/alexander_vindman_the_day_after_russia_attacks/">Alexander Vindman: The Day After Russia Attacks. What War in Ukraine Would Look Like—and How America Should Respond</a>, submitted on 2022-01-21 23:15:21+08:00.</h3>
+
+<p>—– <strong>103.1</strong> —–2022-01-21 23:17:17+08:00:</p>
+
+<p>[SS from the article by Alexander Vindman, retired U.S. Army Lieutenant Colonel and Senior Fellow at the Johns Hopkins School of Advanced International Studies Foreign Policy Institute, and Dominic Cruz Bustillos, Research Associate at the Lawfare Institute.]</p>
+
+<p>“The United States, NATO, Ukraine, and Russia have not moved any closer to a diplomatic solution or a reduction of tensions on the Ukrainian-Russian border. Although Russia has not completely abandoned diplomatic pretenses, the chasm between Russian and Western expectations has been laid bare. Russian officials have made clear that they are not interested in proposals focused solely on strategic stability or on military exercises, or even on a moratorium on NATO membership for Ukraine. Russian President Vladimir Putin seeks nothing short of the complete dismantling of Europe’s post–Cold War security architecture and a rollback of fundamental international agreements governing states’ rights to self-determination—an outcome the United States and its partners and allies will never accept…</p>
+
+<p>A major military conflict in Ukraine would be a catastrophe. It is an outcome that no one should crave. But it is now a likelihood for which the United States must prepare.”</p>
+
+<h3 id="104-how-to-prevent-covids-next-comeback-rich-countries-must-make-smarter-investments-in-poorer-ones-submitted-on-2022-01-22-0507410800">104: <a href="https://old.reddit.com/r/TrueReddit/comments/s9kzcx/how_to_prevent_covids_next_comeback_rich/">How to Prevent COVID’s Next Comeback: Rich Countries Must Make Smarter Investments in Poorer Ones</a>, submitted on 2022-01-22 05:07:41+08:00.</h3>
+
+<p>—– <strong>104.1</strong> —–2022-01-22 05:08:31+08:00:</p>
+
+<p>[SS from the article by Abhijit Banerjee and Esther Duflo, winners of the 2019 Nobel Prize in Economics]<br />
+“Managing the new normal of endemic COVID-19 in low- and middle-income countries is a different challenge from controlling the pandemic in developed states. This is partly because poorer countries lack some of the public health infrastructure and resources needed to effectively protect their populations. But it’s also because recent history suggests that rather than helping, the rich world in general and the United States in particular may be making matters worse for developing countries through their own disastrous management of the disease.”</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-01-23</time>
+        <a href="https://nodebe4.github.io/opinion/2022-01-23/EnclavedMicrostate/">
+          EnclavedMicrostate在2022-01-17~2022-01-23的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-01-22</time>
+        <a href="https://nodebe4.github.io/opinion/2022-01-22/Spinkcat/">
+          Spinkcat在2022-01-17~2022-01-23的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-01-22</time>
+        <a href="https://nodebe4.github.io/opinion/2022-01-22/Commodify/">
+          Commodify在2022-01-17~2022-01-23的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-01-16</time>
+        <a href="https://nodebe4.github.io/opinion/2022-01-16/theoryofdoom/">
+          theoryofdoom在2022-01-10~2022-01-16的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-01-22/Commodify/">
+            前一篇：Commodify在2022-01-17~2022-01-23的言论
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-01-22/Spinkcat/">
+            後一篇：Spinkcat在2022-01-17~2022-01-23的言论
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-01-22/Commodify/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-01-22/Spinkcat/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-01-22/Spinkcat/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-01-22/Commodify/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-01-22/Commodify/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-01-22/Spinkcat/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-01-22/Spinkcat/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-01-22/Commodify/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

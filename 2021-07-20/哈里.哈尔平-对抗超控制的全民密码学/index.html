@@ -1,0 +1,3120 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>哈里.哈尔平 | 对抗超控制的全民密码学 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+  
+  网络社会年会        哈里.哈尔平 | 对抗超控制的全民密码学 
+    
+      
+ 2021-07-20 
+      
+    
+  
+  
+    
+      
+         
+本文作者 哈里.哈尔平（Harry Halpin）
+        
+ &lt;/img&gt; 
+      
+    
+    哈里·哈尔平是Inria de Paris的客座研究员，负责NEXTLEAP项目和麻省理工学院社会技术系统研究中心的研究科学家，研究区块链技术。他对数据科学、密码学、行业标准和网络哲学感兴趣，并且是全方位激进的开放Internet倡导者。
+    哈尔平曾是万维网联盟/自动化研究院(W3C/INRIA)的研究员，他带队研究未来网络哲学、分散式认知、安全和密码学。与蒂姆·伯纳斯 – 李在万维网联盟共事时，他开创了网络加密API来协调跨浏览器的加密操作，开创了网络身份验证API从而淘汰了密码输入。最近在自动化研究院他协助欧盟的“下一跳（NEXTLEAP）”计划，该计划旨在发展下一代的加密协议。他在爱丁堡大学获得信息学博士，在安迪克拉克指导下完成论文，现已出版《社交语义学》，在斯蒂格勒指导下进行博士后的哲学工作，与亚历山大 · 莫宁（Alexandre Monnin）一同编撰“哲学工程学”文集。他正在撰写一本关于全球资本主义崩解的时代背景下网络集体智慧的哲学基础的著作。哈里 · 哈尔平的作品是计算机科学、哲学和伦理学的独特融合。在 W3C 标准化数字版权管理(DRM)之后，他辞去了之前在 W3C 万维网联盟的工作。哈里是开放和不受限制的网络和强大的用户隐私的强烈倡导者。他最新的项目名NYM，旨在引入一种混合网络协议与块环链激励的可持续性。
+    Harry Halpin is a visiting researcher at Inria de Paris where I lead the NEXTLEAP project and Research Scientist at the Sociotechnical Systems Research Center at MIT on blockchain technology. He is interested in data science, cryptography, standards, and the philosophy of the web ,and is an all-around radical open internet advocate.
+    Harry Halpin was a research scientist at W3C/INRIA, where leads research on the future of the philosophy of the Web, distributed cognition, security, and cryptography. Working with H Berners-Lee at the W3C, he has created the Web Cryptography API to harmonize cryptography across browsers and the Web Authentication API to phase out passwords. Currently at INRIA, he co-ordinates the European Commission project NEXTLEAP (https://nextleap.eu/) on developing next-generation cryptographic protocols. He has a Ph.D. in Informatics from University of Edinburgh under Andy Clark and his thesis has been published as the book “Social Semantics” and work on philosophy with Bernard Stiegler for his postdoctoral work, leading to the edited collection “Philosophical Engineering” with Alexandre Monnin. He is working on a book on the philosophical foundations of Internet-enabled collective intelligence in the era of the collapse of global capitalism. Harry Halpin’s work is a unique blend of computer science, philosophy and ethics. Previously working at World Wide Web Consortium (W3C), he resigned after the W3C standards body standardized the Digital Rights Management (DRM). Harry is a strong advocate of open and unrestricted web and strong user privacy. His latest project is called NYM, which aims to introduce a mix network protocol with blockchain-enabled incentivization for sustainability.
+    
+    
+      
+        
+          
+ 
+          
+        
+      
+    
+    
+    对抗超控制的全民密码学
+     文/[美] 哈里.哈尔平 
+     译 编/杨弘毅 
+    
+    本文根据哈里·哈尔平[Harry Halpin]发表于第五届网络社会年会“实践智慧之网”主题四“加密主义”的主题演讲整理而成。讲题原文为“Pandemos-Cryptography against Hypercontrol”。本文作者哈里哈尔平为Nym Technologies SA首席执行官。
+   
+    
+    摘要
+    ：随着2019冠状病毒疾病的到来，美利坚帝国不可避免的崩溃似乎已成定局。然而，任何未来的前景似乎都是封闭的。特朗普和西方的失败关系重大，不仅仅是古典意义上帝国的耻辱，这是一个文化、心理和最终生物控制的领域。即使到了最后，美国军方的无限暴力威胁对世界上的大多数人来说也不再可信。更重要的是，控制论系统，最初由德勒兹提出的理论是一个控制社会，现在已经过渡到一种新的“超控制”形式，由于212019冠状病毒疾病的影响，所有的社会生活都被纳入了一个数字整体，甚至包括生活的一部分，从政府到最敌视数字化的大学。这个超控制的控制论系统也许同时是欧洲形而上学的顶点和最终形式，正如理性进入计算的自动化所证明的那样，一个被海德格尔部分理解但被他的门徒莱纳 · 舒尔曼历史化的轨迹。然而，过度控制是一只“纸老虎”，在欧洲和美国都是失败的，无法阻止这种流行病的蔓延。还有其他选择吗？
+    仅仅在10多年前，就在金融化尝试采取本体论形式和个人思维的认知限制被算法的认知不透明所揭示的那一刻，一个被称为“比特币”的破坏性创新作为中本聪的作品出现在互联网上。这种全新的外星技术似乎是匿名降落在地球上的，其形而上学的定位可能与控制论不同。现在比以往任何时候都更需要作为无产阶级化社会工具的独立技术，以及作为人类潜能延伸的技术；中本聪的比特币将是我们的指导性范例。正如隐形委员会和贝尔纳·斯蒂格勒所做的那样，许多欧洲最优秀的哲学家已经认识到技术和工艺之间的区别，但是区块链技术展示了没有超级控制的工艺的潜力。在西方世界的尽头，在一个没有指导原则的世界里，密码术能成为一种前进的方式吗？通过区块链技术的历史从混合网到工作证明提供了一个证明，真正的形而上学的工作今天已经采取技术的肉体，与区块链技术假定不仅作为一个替代的金融基础设施，但作为技术继承者的政治统治硅谷。
+    虽然无政府主义没有学术书籍，也没有很多学术哲学分析方法，但无政府主义是21世纪唯一真正的新哲学时刻，因此值得仔细关注。实际上，加密无政府主义者试图通过加密技术的束缚来捆绑数字化尝试，这种尝试可能会为面临崩溃的欧罗巴世界秩序提供其所需的开放视野，并提供一种去中心化的替代方案的轮廓。随着瘟疫将罗马帝国推向一个千禧年的时代。逃到修道院来躲避即将到来的崩溃的不是那些没用的、智力有缺陷的人，而是罗马培养出来的最优秀、最聪明的人。同样，加密无政府主义者正在西方建造最后的技术空间。
+    有两个问题。首先，由于加密无政府主义者是一个少数民族运动，这些技术可以作为革命性的技术为所有人使用吗？因为大流行病是人人都会感染的。此外，随着美国处于内战的边缘，全球金融体系面临危机，欧洲形而上学揭示了自己处于一种老年偏执狂的状态，新的无政府主义者时刻对于中国这个人类文明的另一个伟大轴心意味着什么？
+    
+    ABSTRACT
+    ：With the advent of COVID-19, the inevitable collapse of the American empire seems assured. Yet any future horizon seems closed. What is at stake in Trump and the failure of the West is not just the discredit of an empire in a classical sense, a domain of cultural, psychological, and ultimately biological control. Even in the final instance, the threat of infinite violence by the American military no longer seems credible to large amounts of the world. What is more important is that cybernetic systems, originally theorized by Deleuze as a society of control, has passed to a new form of “hypercontrol” where all of social life has been subsumed into a digital totality due to COVID-19, including even parts of life ranging from governments to universities that were the most hostile to digitization. This cybernetic system of hypercontrol is perhaps simultaneously both the apex and final form of European metaphysics, as documented by the automatization of reason into calculation, a trajectory comprehended partially by Heidegger but historicized by his protege Reiner Schürmann.Yet hypercontrol is a “paper tiger” that has been a failure in Europe and the United States, incapable of halting the pandemic. Are there any alternatives?
+    Only slightly more than a decade earlier, at the very moment that financialization attempts to take an ontological form and the epistemological limits of the individual mind were revealed by the cognitive opacity of algorithms, a new disruptive technology known as Bitcoin appeared on the internet as the work of the anonymous Satoshi Nakamoto. It seems as if an entirely new and alien technology was anonymously dropped upon the earth, with a possibly different metaphysical orientation than cybernetics. What is needed more than ever is separate technology as a social apparatus of proletarianization from technics as extensions of human potential, and Nakamoto’s Bitcoin will be our guiding example. As done by the Invisible Committee and Bernard Stiegler, many of the best philosophers of Europe have recognized the difference between technology and technics, but it is blockchain technology that shows the potential of technics without hypercontrol. At the end of the West, could cryptography be a way forward in a world without a guiding principle? Walking through the history of blockchain technologies from mixnets to proof of work provides a demonstration that the true metaphysical work today has taken technical flesh, with blockchain technologies posited not just as an alternative financial infrastructure, but as the technical successor to the political domination of Silicon Valley.
+    Although cryptoanarchism does not have scholarly books or much in the way of academic philosophical analysis, cryptoanarchism is the only genuinely new philosophical moment of the 21st century, and as such deserves careful attention.In practical terms, the attempt by cryptoanarchists to bind the digital attempt via the shackles of cryptography may provide the open horizon needed by a Europea world order that is facing collapse, and provide the outline of a decentralized alternative. As plagues brought the Roman empire to an millenia, it was not the useless and mentally deficient people that fled to the monasteries to escape the impending collapse, but the best and most intelligent people produced by Rome. In the same manner, cryptoanarchists are building the final technical spaces in the West.
+    There are two questions. First, as cryptoanarchists are a minotarian movement, can these technics be used as revolutionary techniques for all people? For the pandemic adheres to all people. Lastly, with the United States on the verge of civil war, the global financial system facing crisis, and European metaphysics revealing itself to be in a state of senile paranoia, what does the new cryptoanarchist moment mean for China, the other great axis of human civilization?
+    
+    大家好，我是Harry Halpin，非常感谢各位的邀请，很遗憾不能和大家面对面地分享，只能在线上和大家交流。之前我也有幸参观了解了一些你们的项目，也很希望之后能够真正和大家面对面地交流，看一看你们的项目，如果你们有疑问也可以发邮件给我。我将为弗兰克.博朗他们的演讲提供一些哲学化的背景和思考。
+    在2020年，除了大流行病以及它所造成的数字化浪潮之外，再没有其他定义世界的事件了。因此，我们需要进行一下哲学和历史的反思，这样才能理解在布拉格举办的一次加密无政府主义黑客大会（Hackers Congress Paralení Polis）上所说的：我们已经进入了一个数字化的整体之中，以及这到底会带来什么样的危险。
+    “Cypherpunks（密码朋克）”是20世纪90年代美国的一群持不同政见者的团体，他们也许在最先预见到了一个将笼罩我们所有人的数字整体，我将其称之为一个效仿乔治·阿甘本（Giorgio Agamben）的，“超级控制社会（a society of hypercontrol）”的方法。
+    
+      
+         
+Pandemos（πάνδημος），意为“属于人民的”
+        
+ &lt;/img&gt; 
+      
+    
+    我们应该记得，英语中“pandemic”一词的用法是从罗马帝国延用下来的，以及从古希腊语的“πάνδημος”（Pandemos）继承而来，意思是“属于人民的”。这个词的意思很简单，“瘟疫是属于每个人的东西”。而且奇怪的是“pandemic（大流行病，大范围流行的）”这一词和“demos（示范）”和“democracy（民主）”有着相同的词根，从普遍性来看，瘟疫和一个帝国是有着共鸣的。这不是单指某一个帝国，比如古代的中华帝国，而是一个属于全体人民的全球帝国。这种普遍性的帝国不是从希腊，而是从波斯（伊朗），到亚历山大大帝，再到罗马帝国演变而来的，这种任何人都无法逃避命令、控制生活的全球治理思想，实际上是西方民族国家发展的一个核心，这种普世主义也是美国的核心。自第二次世界大战结束以来，美国一直是执行全球资本的军事力量。
+    我的问题是，这样一个世界性的帝国，一个新的世界性的全球治理，能够维持下去吗？比如说，罗马帝国的灭亡不是因为野蛮人的入侵，而是因为比COVID-19更致命的失控大流行。罗马帝国末期的安东尼瘟疫，杀死了大约四分之一的罗马尼亚人，并使罗马军队遭到了灭顶之灾，它削弱了整个罗马军队，虚弱的罗马军队试图通过雇佣“野蛮人”来补充队伍，但由于大瘟疫造成的死亡，罗马已经是一个空壳，所以罗马帝国就分崩离析了。而谁又能说今天的“美帝国”（American Empire）不会因瘟疫而分崩离析呢？
+    
+      
+         
+安东尼大瘟疫杀死了罗马四分之一的人口，罗马政府陷入混乱，军队不再是一个可信的威胁，就像今天的美国。
+        
+      
+    
+    随着COVID-19新冠疫情的出现，美帝不可避免的崩溃似乎已经确定，然而，任何未来的前景似乎都是封闭的。特朗普和西方控制疫情大流行的失败，关系到的不仅仅是一个古典主义上的帝国的信誉流失，更是一个文化、心理和最终达到生物控制的领域。归根结底，美军的无限暴力威胁对世界上大部分的人来说已经不再可信，就像是罗马军队在罗马崩溃时对世界其他地方来说都是不可信的威胁一样。
+    
+      
+         
+美国陆军全球基地图
+        
+      
+    
+    这是一张所有美国陆军基地的地图，显示美国在军事上确实是一个全球性的帝国。然而全球帝国结束后会发生什么，我们可以从罗马之后的事情中学习。就像罗马帝国的物质力量消失了一样， 但权力的原则仍在天主教会中。物质上的控制方法没有了，但生活的形式仍然受到基督教严格的精神控制。罗马帝国灭亡后，精神的帝国仍然存在了一千年，令西方的一切进步面临瘫痪，直到印刷术的出现导致了宗教改革的战争，并最终导致了启蒙运动。
+    
+      
+         
+罗马帝国的物质力量消失了，精神力量的原则成为天主教会。
+        
+      
+    
+    我想这里可以做一个对比。因特网（Internet）本身就是一个世界性的工程，一个将世界上所有的网络互联在一起的工程。而如果说美国是与罗马平行的话，那么因特网的协议就是美帝国结束后留下来的教会，所以我们现在看到一种对因特网奇怪的迷恋。不知道为什么，现在因特网被Facebook、Twitter这样的美国媒体平台看成是一种精神控制的工具；或者因特网被视为俄罗斯的工具，通过“假新闻”来支持特朗普；或是人工智能现在被认为是实际上的主宰。这些说法看似荒谬，其中却蕴含着一个隐藏的真相：我们不再通过自由主义个人和民族国家的经典范式来理解因特网，而因特网恰恰是帝国军事崩溃之后心理秩序的保留方式。我想讨论的是帝国如何转化为一种精神力量。
+    
+      
+         
+因特网现在作为一种精神控制的形式主导着美国的媒体和政治叙事。
+        
+      
+    
+    我们必须通过MIT的利克莱德（J.C.R.Licklider）的思想回到因特网建立的起源。要了解因特网的哲学基础，我们首先要去了解诺伯特·维纳（Norbert Wiener），也就是1948年《或关于在动物与机器中控制和通信的科学》（《Or Control and Communication in the Animal and the Machine》）的原书作者、控制论思想最初创建者的想法。
+    控制论的关键概念是整个系统可以达到一种稳态，即通过反馈来抵抗变化，实现内部的稳定状态。其实控制论这个词本身也来自希腊语，来自“κυβερνητική”，意思是“属于治理的东西”。然而，诺伯特·维纳在他的原著中反对把应用控制论作为政府控制人类的方法，他认为人类太不可预测，反馈回路无法理解，用这种方法控制人类既不道德，也不可能奏效。
+    
+      
+         
+控制论一直是关于控制的，然而它的发明者诺伯特·维纳（Norbert Wiener）并不希望看到反馈回路应用于人类控制。
+        
+      
+    
+    然而，随着第二次世界大战的结束，欧洲陷入一片废墟，美国的政府官员看到，民主本身相对于法西斯主义已经失去了大部分的吸引力，需要一种新的能够稳定民众的模式来加强民族主义。与维纳的建议相反，大量的人类学家和技术官员提出采用控制论来稳定民众。然而在因特网出现之前，没办法真正地产生社会交流水平的反馈。当Licklider和他在美国政府高级研究计划局（ARPA）的助手Taylor终于把因特网建成了“作为通讯设备的计算机”来使用的时候，控制论才最终被赋予了技术基础。
+    
+      
+         
+“作为通信设备的计算机”（Licklider和Taylor，1968）使控制论能够控制通信。
+        
+      
+    
+    这是JCR Licklider他们书中的原始插图，你能看到大部分都已经成为现实了，还有另外一个正在进行的发展，那就是人工智能的发展。最早的机器学习系统是由奥利弗·塞尔弗里奇（Oliver Selfridge）于1959年提出的一个理论，一开始这是他在1956年由约翰·麦卡锡（John McCarthy）和马文·明斯基（Marvin Lee Minsky）主持的首届人工智能艺术会议（Summer Research Project on Artificial Intelligence）上提出的一个想法。
+    
+      
+         
+1959年Selfridge在他的“万魔殿（Pandemonium）”架构中设想了机器的模式识别。
+        
+      
+    
+    塞尔弗里奇没有提出用大的程序来复制人类的智慧，而是想象出许多被称为“恶魔（demons）”的小程序，每个程序都可以完成非常有限的、定义明确的任务，比如识别输入的某些特征。然后，它可以将这些结果反馈给其他“恶魔”，后者从特征中学习对象，然后再反馈给其他“恶魔”，后者可以做出决定。这个概念的灵感受到了神经科学的影响，即眼睛里的某些细胞如何识别像边缘这样的图案，并将这个结果反馈给更高的层次。这样一来，一个充满“恶魔”小程序的“恶魔之城（city of demons）”就能理解并做出复杂的决策，这导致了人工智能的发展。
+    
+      
+         
+《失乐园》中的“万魔殿（pandemonium）”
+        
+      
+    
+    今天，人工智能算法仍然以这种方式运作，用大量的算法来控制数据以一种人类认知上不透明的方式做出决策及架构。随着因特网的普及，越来越多的人类活动都被转化成了比特（bits），这些比特可以输入到人工智能这个新的庞然大物之中，然后利用算法通过控制论反馈来调节和控制整个社会，整个装置由因特网无处不在的渗透来支撑。在这样的系统之下，所有的人类的行为都被转化成了比特，是可以用人工智能去控制人类的。
+    长期以来，我们的哲学一直都忽视科技的发展，因为理论知识总是忽视实践知识。所以三十年来，哲学一直忽略了因特网，但正是因特网和计算机调解了我们的整个生活，甚至我们个人的生活方式。吉尔·德勒兹（Gilles Deleuze）在生命最后写下了《关于控制社会的后记》（《Postscript on the Societies of Control》），他指出，与福柯所理论的“规训社会”（“disciplinary societies”）相比，在计算机的世界里，我们正在进入“‘控制社会（control societies）’，另一方面，重要的不再是签名或数字，而是代码：代码就是密码。控制的数字语言是由代码组成的，它标志着对信息的访问或拒绝……个人变成了‘个体’，以及集聚、样本、数据、市场或‘银行’。”
+    
+      
+         
+在奥斯威辛和广岛之后，控制论允许“西方”在没有指导原则的情况下，通过计算继续前进。
+        
+      
+    
+    正如我的导师、久违的朋友贝尔纳·斯蒂格勒（Bernard Stiegler）所写的那样，因特网不是一种单纯的交流形式，而是由于“数字的冲击”而改变了我们“个体化”的过程。这是因为我们的交流成为人工智能的原始输入，人工智能的目标不是帮助我们交流，而是预测我们未来的行为，从而通过反馈来创造一种无法被干扰的治理形式。海德格尔（Martin Heidegger）所说的“计算”成为如此普遍的现象，并获得某种形而上的对未来世界的暂停，这种控制使我们永远无法摆脱计算，因此将任何可能的未来地平线关闭在对过去的重复之中，我们不会有任何可能的未来。所以，正如被遗忘的哲学家、海德格尔最好的学生赖纳·谢尔曼（Reiner Schurman）所说的那样，即使广岛和奥斯维辛的恐怖已经终结了人类个体理性和民族国家的指导原则，即使“西方”没有了形而上的原则，控制论的主体机器也可以使全球社会永远保持在一种稳态的团结形式之中。
+    
+      
+         
+一个基于无所不知的监视的超控制社会，在那里，反抗只会增加控制。——阿甘本
+        
+      
+    
+    在威尼斯的一次研讨会上，我与乔治·阿甘本（Giorgio Agamben）就因特网带来的控制和控制论问题进行了讨论，阿甘本说，社会已经从一种控制的社会转变成一种新的“超控制（hypercontrol）”形式，我们所有的社会生活都被归为数字整体的一部分，要通过监视和反馈来控制。由于COVID-19的出现，现在更是如此，因为就连从政府到大学等原本对数字化最为敌视的部分都已经数字化了，抵抗似乎是不可能的，因为它只会让一切的监控和控制变得更多和更容易。
+    
+      
+         
+在帝国末期，不是罗马最坏的人，而是罗马最优秀的人离开了，躲进了修道院。我们也应该这样做吗？
+        
+      
+    
+    阿甘本指出，当瘟疫使罗马帝国走向灭亡时，逃到修道院躲避帝国崩溃的不是那些无用的、有智力缺陷的人，而是罗马培养出来的最优秀、最聪明的人。阿甘本就建议，其实最好的行动方式是干脆就逃离现状，逃离并创造一个没有因特网或电脑的新的社会形态。他在法国“隐形委员会”的学生为此做了一些尝试，他们试图切断手机还有因特网的使用，逃到法国农村的山区，以便在塔尔纳克（Tarnac）的农村公社创造一种新的生活形式。不过他们无法逃脱，因为他们的村庄被突击搜查，政府觉得他们是恐怖主义，因为他们不使用手机和因特网，就以无政府主义的罪名逮捕了他们。
+    
+      
+         
+技术：一种控制系统，它剥夺了参与者的技术知识，导致一种新形式的“无产阶级的两极分化”： 丧失的不仅是机器的艺术技能，还有我们的认知能力（斯蒂格勒）。  技艺：任何扩展人类能力的方法（工具，也包括数字媒体上的扩展记忆），让我们克服了进化中的缺陷。
+        
+      
+    
+    但他们的《致我们的朋友》（《To Our Friends》）一书中有一个至关重要的启示：技艺和技术之间是有区别的。技艺是任何能扩展人类能力的方法，所以人类不像其他动物那样有爪子，作为没有爪子的无毛猿人，我们自然而然地用剑、用枪、用衣服、用房子来扩展自己。我们甚至用文字、用数字媒体来扩展我们的记忆。相比之下，技术是一种社会控制体系，它的基础是攫取我们的精神力量，让人类服从于某个更大的系统。所以，简单地停止使用电脑等工具是没有意义的，就像停止写作、停止穿衣服一样没有意义。我们需要的是没有技术限制的新形式的技艺。
+    斯蒂格勒（Bernard Stiegler）想要重新发明“因特网（Internet）”，因此他与程序员一起工作，以了解因特网并创造新的计算机技术，他希望这将扭转“无产阶级的两极分化（proletarianization）”的过程，这种过程创造了孤立的“个体（dividuals）”，他希望新的计算机技术能代之以新类型的个人，从而形成新的社会形式。斯蒂格勒提出了一个宏大的理论，我们只能简单描述一下：因特网改变了我们彼此之间的交流，它本身也是人类语言范围内的一场革命；由于因特网的控制不是为了人类的发展，而是消费资本主义社会的短期目标，因特网割裂了代际之间的交流、过去和现在的交流，所以关闭了通往未来的视野，让我们进入到了一种网路的状态之中。
+    斯蒂格勒在去年2月份去世之前跟我进行了最后一次对话，就探索关于区块链科技的潜力，除了用于短期的金融经济利益之外，区块链是否还有其他的方式，是否能带来一种新的去中心化的全球社会。
+    我认为比特币可以成为一种新的颠覆性技术，可能是一种没有技术也能创造技术的方式，能够颠覆美帝国和硅谷帝国的控制论教会。因为加密无政府主义者基本上相信密码学可以提供保护人类不受控制的方法，加密学能够创造一种全新的世界，基于人类自由的世界。在2008年金融危机结束的时候，中本聪（Satoshi Nakamoto）的作品《比特币：一种点对点的电子现金系统》白皮书的出现，给我们带来了一种全新的、与控制论不同的形而上学的方向。比特币结合了“工作证明”和“数字现金”等技术，这些技术来自于赛博朋克们和加密无政府主义者——上世纪90年代美国的一小群反叛的技术主义者，他们认为密码学可以提供保护人类免受控制的方法，甚至可以实现一个基于自由的无政府主义的新型世界，理由是密码学可以利用数学和技术的力量来构建比任何人类法律都要强大的系统。
+    
+      
+         
+Mix-nets（混合网络）由David Chaum的《不可追踪的电子邮件、回邮地址和数字假名》（1981年）提出
+        
+      
+    
+    比特币这种数字现金只是加密无政府主义愿景的一部分。下一个部分是mixnets（混合网络），这是我在做的事情，我的公司Nym Technologies在开发的一项技术就是mixnet，其目标是通过随机混合数据包和链接信息，这样就没有人能够知道谁和谁在通信，即使是美国国家安全局也没有办法监视。当人工智能算法检测到数据中的模式时，同样的技术也可以反过来对付这些算法，以隐藏数据中的模式。所以，我们看到的是，加密无政府主义者的一个小型的边缘运动，能够采取控制论的工具来对付超控制（hypercontrol），从而创造一个没有控制的新社会。
+    
+      
+         
+Nym Mixnet
+        
+      
+    
+    比特币和mixnets等相关技术提供了一个证明，给我们提供了一些技术上的可能性。尽管加密无政府主义目前没有学术著作，也没有太多学术哲学分析，但加密无政府主义是21世纪唯一真正的新哲学运动，是值得仔细关注的。虽然他们对数字技术如何被用作一种控制形式的警告显然是正确的，但不太明显的是，像斯蒂格勒一样，他们相信技术可以用来对抗控制，开辟而不是阻止（foreclose）未来。
+    
+      
+         
+在计算机技术领域，支持区块链技术的人和硅谷之间会不会有一场即将到来的内战？加密无政府主义者是新的僧侣吗？
+        
+      
+    
+    所以，我相信计算机技术内部会有一场战争，将算法和密码学的权力从硅谷手中夺走，并将它们交到人民手中，就像欧洲教会因宗教改革和启蒙运动而失去对文字和阅读的控制时，最终将面临一场战争一样。与密码朋克一样，基督教会早期的改革者和异端也被视为精神失常和软弱无力的。然而，在欧洲，在一代人的时间里，这些团体将阅读和写作的力量交到了普通人的手中，结束了教会在欧洲的精神统治，并导致了一场殖民主义的工业技术革命，最终引导了计算机的发明。我们是否可以想象一个当代的平行世界，在那里，密码朋克将计算机编程的力量交到了人们的手中？在后殖民主义和现代工业社会中我们是否能做到这一点？这对全球政治意味着什么？
+    
+      
+         
+密码学可能是没有指导原则的世界中的一种前进方式，因此是摆脱控制论大混乱/大流行的途径？或一种新的哲学……
+        
+      
+    
+    历史上有种奇怪的讽刺，就是某种事物总是盛极而衰，在它最强大的那一刻，就崩溃了。COVID-19大流行所创造的“超控制（hypercontrol）”幻象可能也是如此。就实际情况来说，加密无政府主义者试图通过密码学的枷锁来束缚数字化的企图，可能会提供一个面临崩溃的世界秩序所需要的开放视野，并提供一个去中心化的替代方案的轮廓。在西方的尽头，密码学能否成为一个没有指导原则的世界的前进方向？能否成为摆脱混乱（pandemonium）和瘟疫（pandemic）的出路？事实上，密码学可能是打破人为稳定的唯一途径，创造一个没有控制的、没有任何中心集权指导原则的开放世界，被赖纳·谢尔曼称之为“arche”（弧形）。这将允许无政府状态，一个没有预定原则的世界，每一种文化和每一个人最终都能自己掌握命运的世界。我相信这个世界，在那里我们可以在没有控制的技术形式的基础上创造自己的原则和未来，这就是加密无政府主义的意义。
+    现在还存在两个问题。第一，由于加密无政府主义是少数人的小众运动，这些密码学的技术能不能为所有人所用，成为他们的革命技术？因为大流行病影响的是所有人，而不仅仅是极少数的高级技术精英。最后，随着美国的衰落，欧洲的衰老，以及全球金融体系的崩溃，美国正处于内战边缘，全球金融体系面临新的危机，欧洲的形而上学也透露出衰老偏执的状态，新的加密无政府主义对人类文明的另一个伟大轴心——中国意味着什么？
+    这些问题，需要由你们来回答。
+    
+      
+ 
+      
+    
+    
+      
+         Share this: 
+        
+          
+                Click to share on Facebook (Opens in new window)  
+                Click to share on Twitter (Opens in new window)  
+                Click to share on 新浪微博 (Opens in new window)  
+                Click to share on Telegram (Opens in new window)  
+            
+          
+        
+      
+    
+  
+  
+    
+ Harry Halpin   网络社会年会 
+    
+  
+
+" />
+    <meta property="og:description" content="
+  
+  网络社会年会        哈里.哈尔平 | 对抗超控制的全民密码学 
+    
+      
+ 2021-07-20 
+      
+    
+  
+  
+    
+      
+         
+本文作者 哈里.哈尔平（Harry Halpin）
+        
+ &lt;/img&gt; 
+      
+    
+    哈里·哈尔平是Inria de Paris的客座研究员，负责NEXTLEAP项目和麻省理工学院社会技术系统研究中心的研究科学家，研究区块链技术。他对数据科学、密码学、行业标准和网络哲学感兴趣，并且是全方位激进的开放Internet倡导者。
+    哈尔平曾是万维网联盟/自动化研究院(W3C/INRIA)的研究员，他带队研究未来网络哲学、分散式认知、安全和密码学。与蒂姆·伯纳斯 – 李在万维网联盟共事时，他开创了网络加密API来协调跨浏览器的加密操作，开创了网络身份验证API从而淘汰了密码输入。最近在自动化研究院他协助欧盟的“下一跳（NEXTLEAP）”计划，该计划旨在发展下一代的加密协议。他在爱丁堡大学获得信息学博士，在安迪克拉克指导下完成论文，现已出版《社交语义学》，在斯蒂格勒指导下进行博士后的哲学工作，与亚历山大 · 莫宁（Alexandre Monnin）一同编撰“哲学工程学”文集。他正在撰写一本关于全球资本主义崩解的时代背景下网络集体智慧的哲学基础的著作。哈里 · 哈尔平的作品是计算机科学、哲学和伦理学的独特融合。在 W3C 标准化数字版权管理(DRM)之后，他辞去了之前在 W3C 万维网联盟的工作。哈里是开放和不受限制的网络和强大的用户隐私的强烈倡导者。他最新的项目名NYM，旨在引入一种混合网络协议与块环链激励的可持续性。
+    Harry Halpin is a visiting researcher at Inria de Paris where I lead the NEXTLEAP project and Research Scientist at the Sociotechnical Systems Research Center at MIT on blockchain technology. He is interested in data science, cryptography, standards, and the philosophy of the web ,and is an all-around radical open internet advocate.
+    Harry Halpin was a research scientist at W3C/INRIA, where leads research on the future of the philosophy of the Web, distributed cognition, security, and cryptography. Working with H Berners-Lee at the W3C, he has created the Web Cryptography API to harmonize cryptography across browsers and the Web Authentication API to phase out passwords. Currently at INRIA, he co-ordinates the European Commission project NEXTLEAP (https://nextleap.eu/) on developing next-generation cryptographic protocols. He has a Ph.D. in Informatics from University of Edinburgh under Andy Clark and his thesis has been published as the book “Social Semantics” and work on philosophy with Bernard Stiegler for his postdoctoral work, leading to the edited collection “Philosophical Engineering” with Alexandre Monnin. He is working on a book on the philosophical foundations of Internet-enabled collective intelligence in the era of the collapse of global capitalism. Harry Halpin’s work is a unique blend of computer science, philosophy and ethics. Previously working at World Wide Web Consortium (W3C), he resigned after the W3C standards body standardized the Digital Rights Management (DRM). Harry is a strong advocate of open and unrestricted web and strong user privacy. His latest project is called NYM, which aims to introduce a mix network protocol with blockchain-enabled incentivization for sustainability.
+    
+    
+      
+        
+          
+ 
+          
+        
+      
+    
+    
+    对抗超控制的全民密码学
+     文/[美] 哈里.哈尔平 
+     译 编/杨弘毅 
+    
+    本文根据哈里·哈尔平[Harry Halpin]发表于第五届网络社会年会“实践智慧之网”主题四“加密主义”的主题演讲整理而成。讲题原文为“Pandemos-Cryptography against Hypercontrol”。本文作者哈里哈尔平为Nym Technologies SA首席执行官。
+   
+    
+    摘要
+    ：随着2019冠状病毒疾病的到来，美利坚帝国不可避免的崩溃似乎已成定局。然而，任何未来的前景似乎都是封闭的。特朗普和西方的失败关系重大，不仅仅是古典意义上帝国的耻辱，这是一个文化、心理和最终生物控制的领域。即使到了最后，美国军方的无限暴力威胁对世界上的大多数人来说也不再可信。更重要的是，控制论系统，最初由德勒兹提出的理论是一个控制社会，现在已经过渡到一种新的“超控制”形式，由于212019冠状病毒疾病的影响，所有的社会生活都被纳入了一个数字整体，甚至包括生活的一部分，从政府到最敌视数字化的大学。这个超控制的控制论系统也许同时是欧洲形而上学的顶点和最终形式，正如理性进入计算的自动化所证明的那样，一个被海德格尔部分理解但被他的门徒莱纳 · 舒尔曼历史化的轨迹。然而，过度控制是一只“纸老虎”，在欧洲和美国都是失败的，无法阻止这种流行病的蔓延。还有其他选择吗？
+    仅仅在10多年前，就在金融化尝试采取本体论形式和个人思维的认知限制被算法的认知不透明所揭示的那一刻，一个被称为“比特币”的破坏性创新作为中本聪的作品出现在互联网上。这种全新的外星技术似乎是匿名降落在地球上的，其形而上学的定位可能与控制论不同。现在比以往任何时候都更需要作为无产阶级化社会工具的独立技术，以及作为人类潜能延伸的技术；中本聪的比特币将是我们的指导性范例。正如隐形委员会和贝尔纳·斯蒂格勒所做的那样，许多欧洲最优秀的哲学家已经认识到技术和工艺之间的区别，但是区块链技术展示了没有超级控制的工艺的潜力。在西方世界的尽头，在一个没有指导原则的世界里，密码术能成为一种前进的方式吗？通过区块链技术的历史从混合网到工作证明提供了一个证明，真正的形而上学的工作今天已经采取技术的肉体，与区块链技术假定不仅作为一个替代的金融基础设施，但作为技术继承者的政治统治硅谷。
+    虽然无政府主义没有学术书籍，也没有很多学术哲学分析方法，但无政府主义是21世纪唯一真正的新哲学时刻，因此值得仔细关注。实际上，加密无政府主义者试图通过加密技术的束缚来捆绑数字化尝试，这种尝试可能会为面临崩溃的欧罗巴世界秩序提供其所需的开放视野，并提供一种去中心化的替代方案的轮廓。随着瘟疫将罗马帝国推向一个千禧年的时代。逃到修道院来躲避即将到来的崩溃的不是那些没用的、智力有缺陷的人，而是罗马培养出来的最优秀、最聪明的人。同样，加密无政府主义者正在西方建造最后的技术空间。
+    有两个问题。首先，由于加密无政府主义者是一个少数民族运动，这些技术可以作为革命性的技术为所有人使用吗？因为大流行病是人人都会感染的。此外，随着美国处于内战的边缘，全球金融体系面临危机，欧洲形而上学揭示了自己处于一种老年偏执狂的状态，新的无政府主义者时刻对于中国这个人类文明的另一个伟大轴心意味着什么？
+    
+    ABSTRACT
+    ：With the advent of COVID-19, the inevitable collapse of the American empire seems assured. Yet any future horizon seems closed. What is at stake in Trump and the failure of the West is not just the discredit of an empire in a classical sense, a domain of cultural, psychological, and ultimately biological control. Even in the final instance, the threat of infinite violence by the American military no longer seems credible to large amounts of the world. What is more important is that cybernetic systems, originally theorized by Deleuze as a society of control, has passed to a new form of “hypercontrol” where all of social life has been subsumed into a digital totality due to COVID-19, including even parts of life ranging from governments to universities that were the most hostile to digitization. This cybernetic system of hypercontrol is perhaps simultaneously both the apex and final form of European metaphysics, as documented by the automatization of reason into calculation, a trajectory comprehended partially by Heidegger but historicized by his protege Reiner Schürmann.Yet hypercontrol is a “paper tiger” that has been a failure in Europe and the United States, incapable of halting the pandemic. Are there any alternatives?
+    Only slightly more than a decade earlier, at the very moment that financialization attempts to take an ontological form and the epistemological limits of the individual mind were revealed by the cognitive opacity of algorithms, a new disruptive technology known as Bitcoin appeared on the internet as the work of the anonymous Satoshi Nakamoto. It seems as if an entirely new and alien technology was anonymously dropped upon the earth, with a possibly different metaphysical orientation than cybernetics. What is needed more than ever is separate technology as a social apparatus of proletarianization from technics as extensions of human potential, and Nakamoto’s Bitcoin will be our guiding example. As done by the Invisible Committee and Bernard Stiegler, many of the best philosophers of Europe have recognized the difference between technology and technics, but it is blockchain technology that shows the potential of technics without hypercontrol. At the end of the West, could cryptography be a way forward in a world without a guiding principle? Walking through the history of blockchain technologies from mixnets to proof of work provides a demonstration that the true metaphysical work today has taken technical flesh, with blockchain technologies posited not just as an alternative financial infrastructure, but as the technical successor to the political domination of Silicon Valley.
+    Although cryptoanarchism does not have scholarly books or much in the way of academic philosophical analysis, cryptoanarchism is the only genuinely new philosophical moment of the 21st century, and as such deserves careful attention.In practical terms, the attempt by cryptoanarchists to bind the digital attempt via the shackles of cryptography may provide the open horizon needed by a Europea world order that is facing collapse, and provide the outline of a decentralized alternative. As plagues brought the Roman empire to an millenia, it was not the useless and mentally deficient people that fled to the monasteries to escape the impending collapse, but the best and most intelligent people produced by Rome. In the same manner, cryptoanarchists are building the final technical spaces in the West.
+    There are two questions. First, as cryptoanarchists are a minotarian movement, can these technics be used as revolutionary techniques for all people? For the pandemic adheres to all people. Lastly, with the United States on the verge of civil war, the global financial system facing crisis, and European metaphysics revealing itself to be in a state of senile paranoia, what does the new cryptoanarchist moment mean for China, the other great axis of human civilization?
+    
+    大家好，我是Harry Halpin，非常感谢各位的邀请，很遗憾不能和大家面对面地分享，只能在线上和大家交流。之前我也有幸参观了解了一些你们的项目，也很希望之后能够真正和大家面对面地交流，看一看你们的项目，如果你们有疑问也可以发邮件给我。我将为弗兰克.博朗他们的演讲提供一些哲学化的背景和思考。
+    在2020年，除了大流行病以及它所造成的数字化浪潮之外，再没有其他定义世界的事件了。因此，我们需要进行一下哲学和历史的反思，这样才能理解在布拉格举办的一次加密无政府主义黑客大会（Hackers Congress Paralení Polis）上所说的：我们已经进入了一个数字化的整体之中，以及这到底会带来什么样的危险。
+    “Cypherpunks（密码朋克）”是20世纪90年代美国的一群持不同政见者的团体，他们也许在最先预见到了一个将笼罩我们所有人的数字整体，我将其称之为一个效仿乔治·阿甘本（Giorgio Agamben）的，“超级控制社会（a society of hypercontrol）”的方法。
+    
+      
+         
+Pandemos（πάνδημος），意为“属于人民的”
+        
+ &lt;/img&gt; 
+      
+    
+    我们应该记得，英语中“pandemic”一词的用法是从罗马帝国延用下来的，以及从古希腊语的“πάνδημος”（Pandemos）继承而来，意思是“属于人民的”。这个词的意思很简单，“瘟疫是属于每个人的东西”。而且奇怪的是“pandemic（大流行病，大范围流行的）”这一词和“demos（示范）”和“democracy（民主）”有着相同的词根，从普遍性来看，瘟疫和一个帝国是有着共鸣的。这不是单指某一个帝国，比如古代的中华帝国，而是一个属于全体人民的全球帝国。这种普遍性的帝国不是从希腊，而是从波斯（伊朗），到亚历山大大帝，再到罗马帝国演变而来的，这种任何人都无法逃避命令、控制生活的全球治理思想，实际上是西方民族国家发展的一个核心，这种普世主义也是美国的核心。自第二次世界大战结束以来，美国一直是执行全球资本的军事力量。
+    我的问题是，这样一个世界性的帝国，一个新的世界性的全球治理，能够维持下去吗？比如说，罗马帝国的灭亡不是因为野蛮人的入侵，而是因为比COVID-19更致命的失控大流行。罗马帝国末期的安东尼瘟疫，杀死了大约四分之一的罗马尼亚人，并使罗马军队遭到了灭顶之灾，它削弱了整个罗马军队，虚弱的罗马军队试图通过雇佣“野蛮人”来补充队伍，但由于大瘟疫造成的死亡，罗马已经是一个空壳，所以罗马帝国就分崩离析了。而谁又能说今天的“美帝国”（American Empire）不会因瘟疫而分崩离析呢？
+    
+      
+         
+安东尼大瘟疫杀死了罗马四分之一的人口，罗马政府陷入混乱，军队不再是一个可信的威胁，就像今天的美国。
+        
+      
+    
+    随着COVID-19新冠疫情的出现，美帝不可避免的崩溃似乎已经确定，然而，任何未来的前景似乎都是封闭的。特朗普和西方控制疫情大流行的失败，关系到的不仅仅是一个古典主义上的帝国的信誉流失，更是一个文化、心理和最终达到生物控制的领域。归根结底，美军的无限暴力威胁对世界上大部分的人来说已经不再可信，就像是罗马军队在罗马崩溃时对世界其他地方来说都是不可信的威胁一样。
+    
+      
+         
+美国陆军全球基地图
+        
+      
+    
+    这是一张所有美国陆军基地的地图，显示美国在军事上确实是一个全球性的帝国。然而全球帝国结束后会发生什么，我们可以从罗马之后的事情中学习。就像罗马帝国的物质力量消失了一样， 但权力的原则仍在天主教会中。物质上的控制方法没有了，但生活的形式仍然受到基督教严格的精神控制。罗马帝国灭亡后，精神的帝国仍然存在了一千年，令西方的一切进步面临瘫痪，直到印刷术的出现导致了宗教改革的战争，并最终导致了启蒙运动。
+    
+      
+         
+罗马帝国的物质力量消失了，精神力量的原则成为天主教会。
+        
+      
+    
+    我想这里可以做一个对比。因特网（Internet）本身就是一个世界性的工程，一个将世界上所有的网络互联在一起的工程。而如果说美国是与罗马平行的话，那么因特网的协议就是美帝国结束后留下来的教会，所以我们现在看到一种对因特网奇怪的迷恋。不知道为什么，现在因特网被Facebook、Twitter这样的美国媒体平台看成是一种精神控制的工具；或者因特网被视为俄罗斯的工具，通过“假新闻”来支持特朗普；或是人工智能现在被认为是实际上的主宰。这些说法看似荒谬，其中却蕴含着一个隐藏的真相：我们不再通过自由主义个人和民族国家的经典范式来理解因特网，而因特网恰恰是帝国军事崩溃之后心理秩序的保留方式。我想讨论的是帝国如何转化为一种精神力量。
+    
+      
+         
+因特网现在作为一种精神控制的形式主导着美国的媒体和政治叙事。
+        
+      
+    
+    我们必须通过MIT的利克莱德（J.C.R.Licklider）的思想回到因特网建立的起源。要了解因特网的哲学基础，我们首先要去了解诺伯特·维纳（Norbert Wiener），也就是1948年《或关于在动物与机器中控制和通信的科学》（《Or Control and Communication in the Animal and the Machine》）的原书作者、控制论思想最初创建者的想法。
+    控制论的关键概念是整个系统可以达到一种稳态，即通过反馈来抵抗变化，实现内部的稳定状态。其实控制论这个词本身也来自希腊语，来自“κυβερνητική”，意思是“属于治理的东西”。然而，诺伯特·维纳在他的原著中反对把应用控制论作为政府控制人类的方法，他认为人类太不可预测，反馈回路无法理解，用这种方法控制人类既不道德，也不可能奏效。
+    
+      
+         
+控制论一直是关于控制的，然而它的发明者诺伯特·维纳（Norbert Wiener）并不希望看到反馈回路应用于人类控制。
+        
+      
+    
+    然而，随着第二次世界大战的结束，欧洲陷入一片废墟，美国的政府官员看到，民主本身相对于法西斯主义已经失去了大部分的吸引力，需要一种新的能够稳定民众的模式来加强民族主义。与维纳的建议相反，大量的人类学家和技术官员提出采用控制论来稳定民众。然而在因特网出现之前，没办法真正地产生社会交流水平的反馈。当Licklider和他在美国政府高级研究计划局（ARPA）的助手Taylor终于把因特网建成了“作为通讯设备的计算机”来使用的时候，控制论才最终被赋予了技术基础。
+    
+      
+         
+“作为通信设备的计算机”（Licklider和Taylor，1968）使控制论能够控制通信。
+        
+      
+    
+    这是JCR Licklider他们书中的原始插图，你能看到大部分都已经成为现实了，还有另外一个正在进行的发展，那就是人工智能的发展。最早的机器学习系统是由奥利弗·塞尔弗里奇（Oliver Selfridge）于1959年提出的一个理论，一开始这是他在1956年由约翰·麦卡锡（John McCarthy）和马文·明斯基（Marvin Lee Minsky）主持的首届人工智能艺术会议（Summer Research Project on Artificial Intelligence）上提出的一个想法。
+    
+      
+         
+1959年Selfridge在他的“万魔殿（Pandemonium）”架构中设想了机器的模式识别。
+        
+      
+    
+    塞尔弗里奇没有提出用大的程序来复制人类的智慧，而是想象出许多被称为“恶魔（demons）”的小程序，每个程序都可以完成非常有限的、定义明确的任务，比如识别输入的某些特征。然后，它可以将这些结果反馈给其他“恶魔”，后者从特征中学习对象，然后再反馈给其他“恶魔”，后者可以做出决定。这个概念的灵感受到了神经科学的影响，即眼睛里的某些细胞如何识别像边缘这样的图案，并将这个结果反馈给更高的层次。这样一来，一个充满“恶魔”小程序的“恶魔之城（city of demons）”就能理解并做出复杂的决策，这导致了人工智能的发展。
+    
+      
+         
+《失乐园》中的“万魔殿（pandemonium）”
+        
+      
+    
+    今天，人工智能算法仍然以这种方式运作，用大量的算法来控制数据以一种人类认知上不透明的方式做出决策及架构。随着因特网的普及，越来越多的人类活动都被转化成了比特（bits），这些比特可以输入到人工智能这个新的庞然大物之中，然后利用算法通过控制论反馈来调节和控制整个社会，整个装置由因特网无处不在的渗透来支撑。在这样的系统之下，所有的人类的行为都被转化成了比特，是可以用人工智能去控制人类的。
+    长期以来，我们的哲学一直都忽视科技的发展，因为理论知识总是忽视实践知识。所以三十年来，哲学一直忽略了因特网，但正是因特网和计算机调解了我们的整个生活，甚至我们个人的生活方式。吉尔·德勒兹（Gilles Deleuze）在生命最后写下了《关于控制社会的后记》（《Postscript on the Societies of Control》），他指出，与福柯所理论的“规训社会”（“disciplinary societies”）相比，在计算机的世界里，我们正在进入“‘控制社会（control societies）’，另一方面，重要的不再是签名或数字，而是代码：代码就是密码。控制的数字语言是由代码组成的，它标志着对信息的访问或拒绝……个人变成了‘个体’，以及集聚、样本、数据、市场或‘银行’。”
+    
+      
+         
+在奥斯威辛和广岛之后，控制论允许“西方”在没有指导原则的情况下，通过计算继续前进。
+        
+      
+    
+    正如我的导师、久违的朋友贝尔纳·斯蒂格勒（Bernard Stiegler）所写的那样，因特网不是一种单纯的交流形式，而是由于“数字的冲击”而改变了我们“个体化”的过程。这是因为我们的交流成为人工智能的原始输入，人工智能的目标不是帮助我们交流，而是预测我们未来的行为，从而通过反馈来创造一种无法被干扰的治理形式。海德格尔（Martin Heidegger）所说的“计算”成为如此普遍的现象，并获得某种形而上的对未来世界的暂停，这种控制使我们永远无法摆脱计算，因此将任何可能的未来地平线关闭在对过去的重复之中，我们不会有任何可能的未来。所以，正如被遗忘的哲学家、海德格尔最好的学生赖纳·谢尔曼（Reiner Schurman）所说的那样，即使广岛和奥斯维辛的恐怖已经终结了人类个体理性和民族国家的指导原则，即使“西方”没有了形而上的原则，控制论的主体机器也可以使全球社会永远保持在一种稳态的团结形式之中。
+    
+      
+         
+一个基于无所不知的监视的超控制社会，在那里，反抗只会增加控制。——阿甘本
+        
+      
+    
+    在威尼斯的一次研讨会上，我与乔治·阿甘本（Giorgio Agamben）就因特网带来的控制和控制论问题进行了讨论，阿甘本说，社会已经从一种控制的社会转变成一种新的“超控制（hypercontrol）”形式，我们所有的社会生活都被归为数字整体的一部分，要通过监视和反馈来控制。由于COVID-19的出现，现在更是如此，因为就连从政府到大学等原本对数字化最为敌视的部分都已经数字化了，抵抗似乎是不可能的，因为它只会让一切的监控和控制变得更多和更容易。
+    
+      
+         
+在帝国末期，不是罗马最坏的人，而是罗马最优秀的人离开了，躲进了修道院。我们也应该这样做吗？
+        
+      
+    
+    阿甘本指出，当瘟疫使罗马帝国走向灭亡时，逃到修道院躲避帝国崩溃的不是那些无用的、有智力缺陷的人，而是罗马培养出来的最优秀、最聪明的人。阿甘本就建议，其实最好的行动方式是干脆就逃离现状，逃离并创造一个没有因特网或电脑的新的社会形态。他在法国“隐形委员会”的学生为此做了一些尝试，他们试图切断手机还有因特网的使用，逃到法国农村的山区，以便在塔尔纳克（Tarnac）的农村公社创造一种新的生活形式。不过他们无法逃脱，因为他们的村庄被突击搜查，政府觉得他们是恐怖主义，因为他们不使用手机和因特网，就以无政府主义的罪名逮捕了他们。
+    
+      
+         
+技术：一种控制系统，它剥夺了参与者的技术知识，导致一种新形式的“无产阶级的两极分化”： 丧失的不仅是机器的艺术技能，还有我们的认知能力（斯蒂格勒）。  技艺：任何扩展人类能力的方法（工具，也包括数字媒体上的扩展记忆），让我们克服了进化中的缺陷。
+        
+      
+    
+    但他们的《致我们的朋友》（《To Our Friends》）一书中有一个至关重要的启示：技艺和技术之间是有区别的。技艺是任何能扩展人类能力的方法，所以人类不像其他动物那样有爪子，作为没有爪子的无毛猿人，我们自然而然地用剑、用枪、用衣服、用房子来扩展自己。我们甚至用文字、用数字媒体来扩展我们的记忆。相比之下，技术是一种社会控制体系，它的基础是攫取我们的精神力量，让人类服从于某个更大的系统。所以，简单地停止使用电脑等工具是没有意义的，就像停止写作、停止穿衣服一样没有意义。我们需要的是没有技术限制的新形式的技艺。
+    斯蒂格勒（Bernard Stiegler）想要重新发明“因特网（Internet）”，因此他与程序员一起工作，以了解因特网并创造新的计算机技术，他希望这将扭转“无产阶级的两极分化（proletarianization）”的过程，这种过程创造了孤立的“个体（dividuals）”，他希望新的计算机技术能代之以新类型的个人，从而形成新的社会形式。斯蒂格勒提出了一个宏大的理论，我们只能简单描述一下：因特网改变了我们彼此之间的交流，它本身也是人类语言范围内的一场革命；由于因特网的控制不是为了人类的发展，而是消费资本主义社会的短期目标，因特网割裂了代际之间的交流、过去和现在的交流，所以关闭了通往未来的视野，让我们进入到了一种网路的状态之中。
+    斯蒂格勒在去年2月份去世之前跟我进行了最后一次对话，就探索关于区块链科技的潜力，除了用于短期的金融经济利益之外，区块链是否还有其他的方式，是否能带来一种新的去中心化的全球社会。
+    我认为比特币可以成为一种新的颠覆性技术，可能是一种没有技术也能创造技术的方式，能够颠覆美帝国和硅谷帝国的控制论教会。因为加密无政府主义者基本上相信密码学可以提供保护人类不受控制的方法，加密学能够创造一种全新的世界，基于人类自由的世界。在2008年金融危机结束的时候，中本聪（Satoshi Nakamoto）的作品《比特币：一种点对点的电子现金系统》白皮书的出现，给我们带来了一种全新的、与控制论不同的形而上学的方向。比特币结合了“工作证明”和“数字现金”等技术，这些技术来自于赛博朋克们和加密无政府主义者——上世纪90年代美国的一小群反叛的技术主义者，他们认为密码学可以提供保护人类免受控制的方法，甚至可以实现一个基于自由的无政府主义的新型世界，理由是密码学可以利用数学和技术的力量来构建比任何人类法律都要强大的系统。
+    
+      
+         
+Mix-nets（混合网络）由David Chaum的《不可追踪的电子邮件、回邮地址和数字假名》（1981年）提出
+        
+      
+    
+    比特币这种数字现金只是加密无政府主义愿景的一部分。下一个部分是mixnets（混合网络），这是我在做的事情，我的公司Nym Technologies在开发的一项技术就是mixnet，其目标是通过随机混合数据包和链接信息，这样就没有人能够知道谁和谁在通信，即使是美国国家安全局也没有办法监视。当人工智能算法检测到数据中的模式时，同样的技术也可以反过来对付这些算法，以隐藏数据中的模式。所以，我们看到的是，加密无政府主义者的一个小型的边缘运动，能够采取控制论的工具来对付超控制（hypercontrol），从而创造一个没有控制的新社会。
+    
+      
+         
+Nym Mixnet
+        
+      
+    
+    比特币和mixnets等相关技术提供了一个证明，给我们提供了一些技术上的可能性。尽管加密无政府主义目前没有学术著作，也没有太多学术哲学分析，但加密无政府主义是21世纪唯一真正的新哲学运动，是值得仔细关注的。虽然他们对数字技术如何被用作一种控制形式的警告显然是正确的，但不太明显的是，像斯蒂格勒一样，他们相信技术可以用来对抗控制，开辟而不是阻止（foreclose）未来。
+    
+      
+         
+在计算机技术领域，支持区块链技术的人和硅谷之间会不会有一场即将到来的内战？加密无政府主义者是新的僧侣吗？
+        
+      
+    
+    所以，我相信计算机技术内部会有一场战争，将算法和密码学的权力从硅谷手中夺走，并将它们交到人民手中，就像欧洲教会因宗教改革和启蒙运动而失去对文字和阅读的控制时，最终将面临一场战争一样。与密码朋克一样，基督教会早期的改革者和异端也被视为精神失常和软弱无力的。然而，在欧洲，在一代人的时间里，这些团体将阅读和写作的力量交到了普通人的手中，结束了教会在欧洲的精神统治，并导致了一场殖民主义的工业技术革命，最终引导了计算机的发明。我们是否可以想象一个当代的平行世界，在那里，密码朋克将计算机编程的力量交到了人们的手中？在后殖民主义和现代工业社会中我们是否能做到这一点？这对全球政治意味着什么？
+    
+      
+         
+密码学可能是没有指导原则的世界中的一种前进方式，因此是摆脱控制论大混乱/大流行的途径？或一种新的哲学……
+        
+      
+    
+    历史上有种奇怪的讽刺，就是某种事物总是盛极而衰，在它最强大的那一刻，就崩溃了。COVID-19大流行所创造的“超控制（hypercontrol）”幻象可能也是如此。就实际情况来说，加密无政府主义者试图通过密码学的枷锁来束缚数字化的企图，可能会提供一个面临崩溃的世界秩序所需要的开放视野，并提供一个去中心化的替代方案的轮廓。在西方的尽头，密码学能否成为一个没有指导原则的世界的前进方向？能否成为摆脱混乱（pandemonium）和瘟疫（pandemic）的出路？事实上，密码学可能是打破人为稳定的唯一途径，创造一个没有控制的、没有任何中心集权指导原则的开放世界，被赖纳·谢尔曼称之为“arche”（弧形）。这将允许无政府状态，一个没有预定原则的世界，每一种文化和每一个人最终都能自己掌握命运的世界。我相信这个世界，在那里我们可以在没有控制的技术形式的基础上创造自己的原则和未来，这就是加密无政府主义的意义。
+    现在还存在两个问题。第一，由于加密无政府主义是少数人的小众运动，这些密码学的技术能不能为所有人所用，成为他们的革命技术？因为大流行病影响的是所有人，而不仅仅是极少数的高级技术精英。最后，随着美国的衰落，欧洲的衰老，以及全球金融体系的崩溃，美国正处于内战边缘，全球金融体系面临新的危机，欧洲的形而上学也透露出衰老偏执的状态，新的加密无政府主义对人类文明的另一个伟大轴心——中国意味着什么？
+    这些问题，需要由你们来回答。
+    
+      
+ 
+      
+    
+    
+      
+         Share this: 
+        
+          
+                Click to share on Facebook (Opens in new window)  
+                Click to share on Twitter (Opens in new window)  
+                Click to share on 新浪微博 (Opens in new window)  
+                Click to share on Telegram (Opens in new window)  
+            
+          
+        
+      
+    
+  
+  
+    
+ Harry Halpin   网络社会年会 
+    
+  
+
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="哈里.哈尔平 | 对抗超控制的全民密码学" />
+    <meta property="twitter:title" content="哈里.哈尔平 | 对抗超控制的全民密码学" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fcaa-ins.org%2Farchives%2F7878" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://caa-ins.org/archives/7878" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://caa-ins.org/archives/7878&text=哈里.哈尔平 | 对抗超控制的全民密码学&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://caa-ins.org/archives/7878&title=哈里.哈尔平 | 对抗超控制的全民密码学" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://caa-ins.org/archives/7878&title=哈里.哈尔平 | 对抗超控制的全民密码学" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=哈里.哈尔平 | 对抗超控制的全民密码学&body=
+  
+  网络社会年会        哈里.哈尔平 | 对抗超控制的全民密码学 
+    
+      
+ 2021-07-20 
+      
+    
+  
+  
+    
+      
+         
+本文作者 哈里.哈尔平（Harry Halpin）
+        
+ &lt;/img&gt; 
+      
+    
+    哈里·哈尔平是Inria de Paris的客座研究员，负责NEXTLEAP项目和麻省理工学院社会技术系统研究中心的研究科学家，研究区块链技术。他对数据科学、密码学、行业标准和网络哲学感兴趣，并且是全方位激进的开放Internet倡导者。
+    哈尔平曾是万维网联盟/自动化研究院(W3C/INRIA)的研究员，他带队研究未来网络哲学、分散式认知、安全和密码学。与蒂姆·伯纳斯 – 李在万维网联盟共事时，他开创了网络加密API来协调跨浏览器的加密操作，开创了网络身份验证API从而淘汰了密码输入。最近在自动化研究院他协助欧盟的“下一跳（NEXTLEAP）”计划，该计划旨在发展下一代的加密协议。他在爱丁堡大学获得信息学博士，在安迪克拉克指导下完成论文，现已出版《社交语义学》，在斯蒂格勒指导下进行博士后的哲学工作，与亚历山大 · 莫宁（Alexandre Monnin）一同编撰“哲学工程学”文集。他正在撰写一本关于全球资本主义崩解的时代背景下网络集体智慧的哲学基础的著作。哈里 · 哈尔平的作品是计算机科学、哲学和伦理学的独特融合。在 W3C 标准化数字版权管理(DRM)之后，他辞去了之前在 W3C 万维网联盟的工作。哈里是开放和不受限制的网络和强大的用户隐私的强烈倡导者。他最新的项目名NYM，旨在引入一种混合网络协议与块环链激励的可持续性。
+    Harry Halpin is a visiting researcher at Inria de Paris where I lead the NEXTLEAP project and Research Scientist at the Sociotechnical Systems Research Center at MIT on blockchain technology. He is interested in data science, cryptography, standards, and the philosophy of the web ,and is an all-around radical open internet advocate.
+    Harry Halpin was a research scientist at W3C/INRIA, where leads research on the future of the philosophy of the Web, distributed cognition, security, and cryptography. Working with H Berners-Lee at the W3C, he has created the Web Cryptography API to harmonize cryptography across browsers and the Web Authentication API to phase out passwords. Currently at INRIA, he co-ordinates the European Commission project NEXTLEAP (https://nextleap.eu/) on developing next-generation cryptographic protocols. He has a Ph.D. in Informatics from University of Edinburgh under Andy Clark and his thesis has been published as the book “Social Semantics” and work on philosophy with Bernard Stiegler for his postdoctoral work, leading to the edited collection “Philosophical Engineering” with Alexandre Monnin. He is working on a book on the philosophical foundations of Internet-enabled collective intelligence in the era of the collapse of global capitalism. Harry Halpin’s work is a unique blend of computer science, philosophy and ethics. Previously working at World Wide Web Consortium (W3C), he resigned after the W3C standards body standardized the Digital Rights Management (DRM). Harry is a strong advocate of open and unrestricted web and strong user privacy. His latest project is called NYM, which aims to introduce a mix network protocol with blockchain-enabled incentivization for sustainability.
+    
+    
+      
+        
+          
+ 
+          
+        
+      
+    
+    
+    对抗超控制的全民密码学
+     文/[美] 哈里.哈尔平 
+     译 编/杨弘毅 
+    
+    本文根据哈里·哈尔平[Harry Halpin]发表于第五届网络社会年会“实践智慧之网”主题四“加密主义”的主题演讲整理而成。讲题原文为“Pandemos-Cryptography against Hypercontrol”。本文作者哈里哈尔平为Nym Technologies SA首席执行官。
+   
+    
+    摘要
+    ：随着2019冠状病毒疾病的到来，美利坚帝国不可避免的崩溃似乎已成定局。然而，任何未来的前景似乎都是封闭的。特朗普和西方的失败关系重大，不仅仅是古典意义上帝国的耻辱，这是一个文化、心理和最终生物控制的领域。即使到了最后，美国军方的无限暴力威胁对世界上的大多数人来说也不再可信。更重要的是，控制论系统，最初由德勒兹提出的理论是一个控制社会，现在已经过渡到一种新的“超控制”形式，由于212019冠状病毒疾病的影响，所有的社会生活都被纳入了一个数字整体，甚至包括生活的一部分，从政府到最敌视数字化的大学。这个超控制的控制论系统也许同时是欧洲形而上学的顶点和最终形式，正如理性进入计算的自动化所证明的那样，一个被海德格尔部分理解但被他的门徒莱纳 · 舒尔曼历史化的轨迹。然而，过度控制是一只“纸老虎”，在欧洲和美国都是失败的，无法阻止这种流行病的蔓延。还有其他选择吗？
+    仅仅在10多年前，就在金融化尝试采取本体论形式和个人思维的认知限制被算法的认知不透明所揭示的那一刻，一个被称为“比特币”的破坏性创新作为中本聪的作品出现在互联网上。这种全新的外星技术似乎是匿名降落在地球上的，其形而上学的定位可能与控制论不同。现在比以往任何时候都更需要作为无产阶级化社会工具的独立技术，以及作为人类潜能延伸的技术；中本聪的比特币将是我们的指导性范例。正如隐形委员会和贝尔纳·斯蒂格勒所做的那样，许多欧洲最优秀的哲学家已经认识到技术和工艺之间的区别，但是区块链技术展示了没有超级控制的工艺的潜力。在西方世界的尽头，在一个没有指导原则的世界里，密码术能成为一种前进的方式吗？通过区块链技术的历史从混合网到工作证明提供了一个证明，真正的形而上学的工作今天已经采取技术的肉体，与区块链技术假定不仅作为一个替代的金融基础设施，但作为技术继承者的政治统治硅谷。
+    虽然无政府主义没有学术书籍，也没有很多学术哲学分析方法，但无政府主义是21世纪唯一真正的新哲学时刻，因此值得仔细关注。实际上，加密无政府主义者试图通过加密技术的束缚来捆绑数字化尝试，这种尝试可能会为面临崩溃的欧罗巴世界秩序提供其所需的开放视野，并提供一种去中心化的替代方案的轮廓。随着瘟疫将罗马帝国推向一个千禧年的时代。逃到修道院来躲避即将到来的崩溃的不是那些没用的、智力有缺陷的人，而是罗马培养出来的最优秀、最聪明的人。同样，加密无政府主义者正在西方建造最后的技术空间。
+    有两个问题。首先，由于加密无政府主义者是一个少数民族运动，这些技术可以作为革命性的技术为所有人使用吗？因为大流行病是人人都会感染的。此外，随着美国处于内战的边缘，全球金融体系面临危机，欧洲形而上学揭示了自己处于一种老年偏执狂的状态，新的无政府主义者时刻对于中国这个人类文明的另一个伟大轴心意味着什么？
+    
+    ABSTRACT
+    ：With the advent of COVID-19, the inevitable collapse of the American empire seems assured. Yet any future horizon seems closed. What is at stake in Trump and the failure of the West is not just the discredit of an empire in a classical sense, a domain of cultural, psychological, and ultimately biological control. Even in the final instance, the threat of infinite violence by the American military no longer seems credible to large amounts of the world. What is more important is that cybernetic systems, originally theorized by Deleuze as a society of control, has passed to a new form of “hypercontrol” where all of social life has been subsumed into a digital totality due to COVID-19, including even parts of life ranging from governments to universities that were the most hostile to digitization. This cybernetic system of hypercontrol is perhaps simultaneously both the apex and final form of European metaphysics, as documented by the automatization of reason into calculation, a trajectory comprehended partially by Heidegger but historicized by his protege Reiner Schürmann.Yet hypercontrol is a “paper tiger” that has been a failure in Europe and the United States, incapable of halting the pandemic. Are there any alternatives?
+    Only slightly more than a decade earlier, at the very moment that financialization attempts to take an ontological form and the epistemological limits of the individual mind were revealed by the cognitive opacity of algorithms, a new disruptive technology known as Bitcoin appeared on the internet as the work of the anonymous Satoshi Nakamoto. It seems as if an entirely new and alien technology was anonymously dropped upon the earth, with a possibly different metaphysical orientation than cybernetics. What is needed more than ever is separate technology as a social apparatus of proletarianization from technics as extensions of human potential, and Nakamoto’s Bitcoin will be our guiding example. As done by the Invisible Committee and Bernard Stiegler, many of the best philosophers of Europe have recognized the difference between technology and technics, but it is blockchain technology that shows the potential of technics without hypercontrol. At the end of the West, could cryptography be a way forward in a world without a guiding principle? Walking through the history of blockchain technologies from mixnets to proof of work provides a demonstration that the true metaphysical work today has taken technical flesh, with blockchain technologies posited not just as an alternative financial infrastructure, but as the technical successor to the political domination of Silicon Valley.
+    Although cryptoanarchism does not have scholarly books or much in the way of academic philosophical analysis, cryptoanarchism is the only genuinely new philosophical moment of the 21st century, and as such deserves careful attention.In practical terms, the attempt by cryptoanarchists to bind the digital attempt via the shackles of cryptography may provide the open horizon needed by a Europea world order that is facing collapse, and provide the outline of a decentralized alternative. As plagues brought the Roman empire to an millenia, it was not the useless and mentally deficient people that fled to the monasteries to escape the impending collapse, but the best and most intelligent people produced by Rome. In the same manner, cryptoanarchists are building the final technical spaces in the West.
+    There are two questions. First, as cryptoanarchists are a minotarian movement, can these technics be used as revolutionary techniques for all people? For the pandemic adheres to all people. Lastly, with the United States on the verge of civil war, the global financial system facing crisis, and European metaphysics revealing itself to be in a state of senile paranoia, what does the new cryptoanarchist moment mean for China, the other great axis of human civilization?
+    
+    大家好，我是Harry Halpin，非常感谢各位的邀请，很遗憾不能和大家面对面地分享，只能在线上和大家交流。之前我也有幸参观了解了一些你们的项目，也很希望之后能够真正和大家面对面地交流，看一看你们的项目，如果你们有疑问也可以发邮件给我。我将为弗兰克.博朗他们的演讲提供一些哲学化的背景和思考。
+    在2020年，除了大流行病以及它所造成的数字化浪潮之外，再没有其他定义世界的事件了。因此，我们需要进行一下哲学和历史的反思，这样才能理解在布拉格举办的一次加密无政府主义黑客大会（Hackers Congress Paralení Polis）上所说的：我们已经进入了一个数字化的整体之中，以及这到底会带来什么样的危险。
+    “Cypherpunks（密码朋克）”是20世纪90年代美国的一群持不同政见者的团体，他们也许在最先预见到了一个将笼罩我们所有人的数字整体，我将其称之为一个效仿乔治·阿甘本（Giorgio Agamben）的，“超级控制社会（a society of hypercontrol）”的方法。
+    
+      
+         
+Pandemos（πάνδημος），意为“属于人民的”
+        
+ &lt;/img&gt; 
+      
+    
+    我们应该记得，英语中“pandemic”一词的用法是从罗马帝国延用下来的，以及从古希腊语的“πάνδημος”（Pandemos）继承而来，意思是“属于人民的”。这个词的意思很简单，“瘟疫是属于每个人的东西”。而且奇怪的是“pandemic（大流行病，大范围流行的）”这一词和“demos（示范）”和“democracy（民主）”有着相同的词根，从普遍性来看，瘟疫和一个帝国是有着共鸣的。这不是单指某一个帝国，比如古代的中华帝国，而是一个属于全体人民的全球帝国。这种普遍性的帝国不是从希腊，而是从波斯（伊朗），到亚历山大大帝，再到罗马帝国演变而来的，这种任何人都无法逃避命令、控制生活的全球治理思想，实际上是西方民族国家发展的一个核心，这种普世主义也是美国的核心。自第二次世界大战结束以来，美国一直是执行全球资本的军事力量。
+    我的问题是，这样一个世界性的帝国，一个新的世界性的全球治理，能够维持下去吗？比如说，罗马帝国的灭亡不是因为野蛮人的入侵，而是因为比COVID-19更致命的失控大流行。罗马帝国末期的安东尼瘟疫，杀死了大约四分之一的罗马尼亚人，并使罗马军队遭到了灭顶之灾，它削弱了整个罗马军队，虚弱的罗马军队试图通过雇佣“野蛮人”来补充队伍，但由于大瘟疫造成的死亡，罗马已经是一个空壳，所以罗马帝国就分崩离析了。而谁又能说今天的“美帝国”（American Empire）不会因瘟疫而分崩离析呢？
+    
+      
+         
+安东尼大瘟疫杀死了罗马四分之一的人口，罗马政府陷入混乱，军队不再是一个可信的威胁，就像今天的美国。
+        
+      
+    
+    随着COVID-19新冠疫情的出现，美帝不可避免的崩溃似乎已经确定，然而，任何未来的前景似乎都是封闭的。特朗普和西方控制疫情大流行的失败，关系到的不仅仅是一个古典主义上的帝国的信誉流失，更是一个文化、心理和最终达到生物控制的领域。归根结底，美军的无限暴力威胁对世界上大部分的人来说已经不再可信，就像是罗马军队在罗马崩溃时对世界其他地方来说都是不可信的威胁一样。
+    
+      
+         
+美国陆军全球基地图
+        
+      
+    
+    这是一张所有美国陆军基地的地图，显示美国在军事上确实是一个全球性的帝国。然而全球帝国结束后会发生什么，我们可以从罗马之后的事情中学习。就像罗马帝国的物质力量消失了一样， 但权力的原则仍在天主教会中。物质上的控制方法没有了，但生活的形式仍然受到基督教严格的精神控制。罗马帝国灭亡后，精神的帝国仍然存在了一千年，令西方的一切进步面临瘫痪，直到印刷术的出现导致了宗教改革的战争，并最终导致了启蒙运动。
+    
+      
+         
+罗马帝国的物质力量消失了，精神力量的原则成为天主教会。
+        
+      
+    
+    我想这里可以做一个对比。因特网（Internet）本身就是一个世界性的工程，一个将世界上所有的网络互联在一起的工程。而如果说美国是与罗马平行的话，那么因特网的协议就是美帝国结束后留下来的教会，所以我们现在看到一种对因特网奇怪的迷恋。不知道为什么，现在因特网被Facebook、Twitter这样的美国媒体平台看成是一种精神控制的工具；或者因特网被视为俄罗斯的工具，通过“假新闻”来支持特朗普；或是人工智能现在被认为是实际上的主宰。这些说法看似荒谬，其中却蕴含着一个隐藏的真相：我们不再通过自由主义个人和民族国家的经典范式来理解因特网，而因特网恰恰是帝国军事崩溃之后心理秩序的保留方式。我想讨论的是帝国如何转化为一种精神力量。
+    
+      
+         
+因特网现在作为一种精神控制的形式主导着美国的媒体和政治叙事。
+        
+      
+    
+    我们必须通过MIT的利克莱德（J.C.R.Licklider）的思想回到因特网建立的起源。要了解因特网的哲学基础，我们首先要去了解诺伯特·维纳（Norbert Wiener），也就是1948年《或关于在动物与机器中控制和通信的科学》（《Or Control and Communication in the Animal and the Machine》）的原书作者、控制论思想最初创建者的想法。
+    控制论的关键概念是整个系统可以达到一种稳态，即通过反馈来抵抗变化，实现内部的稳定状态。其实控制论这个词本身也来自希腊语，来自“κυβερνητική”，意思是“属于治理的东西”。然而，诺伯特·维纳在他的原著中反对把应用控制论作为政府控制人类的方法，他认为人类太不可预测，反馈回路无法理解，用这种方法控制人类既不道德，也不可能奏效。
+    
+      
+         
+控制论一直是关于控制的，然而它的发明者诺伯特·维纳（Norbert Wiener）并不希望看到反馈回路应用于人类控制。
+        
+      
+    
+    然而，随着第二次世界大战的结束，欧洲陷入一片废墟，美国的政府官员看到，民主本身相对于法西斯主义已经失去了大部分的吸引力，需要一种新的能够稳定民众的模式来加强民族主义。与维纳的建议相反，大量的人类学家和技术官员提出采用控制论来稳定民众。然而在因特网出现之前，没办法真正地产生社会交流水平的反馈。当Licklider和他在美国政府高级研究计划局（ARPA）的助手Taylor终于把因特网建成了“作为通讯设备的计算机”来使用的时候，控制论才最终被赋予了技术基础。
+    
+      
+         
+“作为通信设备的计算机”（Licklider和Taylor，1968）使控制论能够控制通信。
+        
+      
+    
+    这是JCR Licklider他们书中的原始插图，你能看到大部分都已经成为现实了，还有另外一个正在进行的发展，那就是人工智能的发展。最早的机器学习系统是由奥利弗·塞尔弗里奇（Oliver Selfridge）于1959年提出的一个理论，一开始这是他在1956年由约翰·麦卡锡（John McCarthy）和马文·明斯基（Marvin Lee Minsky）主持的首届人工智能艺术会议（Summer Research Project on Artificial Intelligence）上提出的一个想法。
+    
+      
+         
+1959年Selfridge在他的“万魔殿（Pandemonium）”架构中设想了机器的模式识别。
+        
+      
+    
+    塞尔弗里奇没有提出用大的程序来复制人类的智慧，而是想象出许多被称为“恶魔（demons）”的小程序，每个程序都可以完成非常有限的、定义明确的任务，比如识别输入的某些特征。然后，它可以将这些结果反馈给其他“恶魔”，后者从特征中学习对象，然后再反馈给其他“恶魔”，后者可以做出决定。这个概念的灵感受到了神经科学的影响，即眼睛里的某些细胞如何识别像边缘这样的图案，并将这个结果反馈给更高的层次。这样一来，一个充满“恶魔”小程序的“恶魔之城（city of demons）”就能理解并做出复杂的决策，这导致了人工智能的发展。
+    
+      
+         
+《失乐园》中的“万魔殿（pandemonium）”
+        
+      
+    
+    今天，人工智能算法仍然以这种方式运作，用大量的算法来控制数据以一种人类认知上不透明的方式做出决策及架构。随着因特网的普及，越来越多的人类活动都被转化成了比特（bits），这些比特可以输入到人工智能这个新的庞然大物之中，然后利用算法通过控制论反馈来调节和控制整个社会，整个装置由因特网无处不在的渗透来支撑。在这样的系统之下，所有的人类的行为都被转化成了比特，是可以用人工智能去控制人类的。
+    长期以来，我们的哲学一直都忽视科技的发展，因为理论知识总是忽视实践知识。所以三十年来，哲学一直忽略了因特网，但正是因特网和计算机调解了我们的整个生活，甚至我们个人的生活方式。吉尔·德勒兹（Gilles Deleuze）在生命最后写下了《关于控制社会的后记》（《Postscript on the Societies of Control》），他指出，与福柯所理论的“规训社会”（“disciplinary societies”）相比，在计算机的世界里，我们正在进入“‘控制社会（control societies）’，另一方面，重要的不再是签名或数字，而是代码：代码就是密码。控制的数字语言是由代码组成的，它标志着对信息的访问或拒绝……个人变成了‘个体’，以及集聚、样本、数据、市场或‘银行’。”
+    
+      
+         
+在奥斯威辛和广岛之后，控制论允许“西方”在没有指导原则的情况下，通过计算继续前进。
+        
+      
+    
+    正如我的导师、久违的朋友贝尔纳·斯蒂格勒（Bernard Stiegler）所写的那样，因特网不是一种单纯的交流形式，而是由于“数字的冲击”而改变了我们“个体化”的过程。这是因为我们的交流成为人工智能的原始输入，人工智能的目标不是帮助我们交流，而是预测我们未来的行为，从而通过反馈来创造一种无法被干扰的治理形式。海德格尔（Martin Heidegger）所说的“计算”成为如此普遍的现象，并获得某种形而上的对未来世界的暂停，这种控制使我们永远无法摆脱计算，因此将任何可能的未来地平线关闭在对过去的重复之中，我们不会有任何可能的未来。所以，正如被遗忘的哲学家、海德格尔最好的学生赖纳·谢尔曼（Reiner Schurman）所说的那样，即使广岛和奥斯维辛的恐怖已经终结了人类个体理性和民族国家的指导原则，即使“西方”没有了形而上的原则，控制论的主体机器也可以使全球社会永远保持在一种稳态的团结形式之中。
+    
+      
+         
+一个基于无所不知的监视的超控制社会，在那里，反抗只会增加控制。——阿甘本
+        
+      
+    
+    在威尼斯的一次研讨会上，我与乔治·阿甘本（Giorgio Agamben）就因特网带来的控制和控制论问题进行了讨论，阿甘本说，社会已经从一种控制的社会转变成一种新的“超控制（hypercontrol）”形式，我们所有的社会生活都被归为数字整体的一部分，要通过监视和反馈来控制。由于COVID-19的出现，现在更是如此，因为就连从政府到大学等原本对数字化最为敌视的部分都已经数字化了，抵抗似乎是不可能的，因为它只会让一切的监控和控制变得更多和更容易。
+    
+      
+         
+在帝国末期，不是罗马最坏的人，而是罗马最优秀的人离开了，躲进了修道院。我们也应该这样做吗？
+        
+      
+    
+    阿甘本指出，当瘟疫使罗马帝国走向灭亡时，逃到修道院躲避帝国崩溃的不是那些无用的、有智力缺陷的人，而是罗马培养出来的最优秀、最聪明的人。阿甘本就建议，其实最好的行动方式是干脆就逃离现状，逃离并创造一个没有因特网或电脑的新的社会形态。他在法国“隐形委员会”的学生为此做了一些尝试，他们试图切断手机还有因特网的使用，逃到法国农村的山区，以便在塔尔纳克（Tarnac）的农村公社创造一种新的生活形式。不过他们无法逃脱，因为他们的村庄被突击搜查，政府觉得他们是恐怖主义，因为他们不使用手机和因特网，就以无政府主义的罪名逮捕了他们。
+    
+      
+         
+技术：一种控制系统，它剥夺了参与者的技术知识，导致一种新形式的“无产阶级的两极分化”： 丧失的不仅是机器的艺术技能，还有我们的认知能力（斯蒂格勒）。  技艺：任何扩展人类能力的方法（工具，也包括数字媒体上的扩展记忆），让我们克服了进化中的缺陷。
+        
+      
+    
+    但他们的《致我们的朋友》（《To Our Friends》）一书中有一个至关重要的启示：技艺和技术之间是有区别的。技艺是任何能扩展人类能力的方法，所以人类不像其他动物那样有爪子，作为没有爪子的无毛猿人，我们自然而然地用剑、用枪、用衣服、用房子来扩展自己。我们甚至用文字、用数字媒体来扩展我们的记忆。相比之下，技术是一种社会控制体系，它的基础是攫取我们的精神力量，让人类服从于某个更大的系统。所以，简单地停止使用电脑等工具是没有意义的，就像停止写作、停止穿衣服一样没有意义。我们需要的是没有技术限制的新形式的技艺。
+    斯蒂格勒（Bernard Stiegler）想要重新发明“因特网（Internet）”，因此他与程序员一起工作，以了解因特网并创造新的计算机技术，他希望这将扭转“无产阶级的两极分化（proletarianization）”的过程，这种过程创造了孤立的“个体（dividuals）”，他希望新的计算机技术能代之以新类型的个人，从而形成新的社会形式。斯蒂格勒提出了一个宏大的理论，我们只能简单描述一下：因特网改变了我们彼此之间的交流，它本身也是人类语言范围内的一场革命；由于因特网的控制不是为了人类的发展，而是消费资本主义社会的短期目标，因特网割裂了代际之间的交流、过去和现在的交流，所以关闭了通往未来的视野，让我们进入到了一种网路的状态之中。
+    斯蒂格勒在去年2月份去世之前跟我进行了最后一次对话，就探索关于区块链科技的潜力，除了用于短期的金融经济利益之外，区块链是否还有其他的方式，是否能带来一种新的去中心化的全球社会。
+    我认为比特币可以成为一种新的颠覆性技术，可能是一种没有技术也能创造技术的方式，能够颠覆美帝国和硅谷帝国的控制论教会。因为加密无政府主义者基本上相信密码学可以提供保护人类不受控制的方法，加密学能够创造一种全新的世界，基于人类自由的世界。在2008年金融危机结束的时候，中本聪（Satoshi Nakamoto）的作品《比特币：一种点对点的电子现金系统》白皮书的出现，给我们带来了一种全新的、与控制论不同的形而上学的方向。比特币结合了“工作证明”和“数字现金”等技术，这些技术来自于赛博朋克们和加密无政府主义者——上世纪90年代美国的一小群反叛的技术主义者，他们认为密码学可以提供保护人类免受控制的方法，甚至可以实现一个基于自由的无政府主义的新型世界，理由是密码学可以利用数学和技术的力量来构建比任何人类法律都要强大的系统。
+    
+      
+         
+Mix-nets（混合网络）由David Chaum的《不可追踪的电子邮件、回邮地址和数字假名》（1981年）提出
+        
+      
+    
+    比特币这种数字现金只是加密无政府主义愿景的一部分。下一个部分是mixnets（混合网络），这是我在做的事情，我的公司Nym Technologies在开发的一项技术就是mixnet，其目标是通过随机混合数据包和链接信息，这样就没有人能够知道谁和谁在通信，即使是美国国家安全局也没有办法监视。当人工智能算法检测到数据中的模式时，同样的技术也可以反过来对付这些算法，以隐藏数据中的模式。所以，我们看到的是，加密无政府主义者的一个小型的边缘运动，能够采取控制论的工具来对付超控制（hypercontrol），从而创造一个没有控制的新社会。
+    
+      
+         
+Nym Mixnet
+        
+      
+    
+    比特币和mixnets等相关技术提供了一个证明，给我们提供了一些技术上的可能性。尽管加密无政府主义目前没有学术著作，也没有太多学术哲学分析，但加密无政府主义是21世纪唯一真正的新哲学运动，是值得仔细关注的。虽然他们对数字技术如何被用作一种控制形式的警告显然是正确的，但不太明显的是，像斯蒂格勒一样，他们相信技术可以用来对抗控制，开辟而不是阻止（foreclose）未来。
+    
+      
+         
+在计算机技术领域，支持区块链技术的人和硅谷之间会不会有一场即将到来的内战？加密无政府主义者是新的僧侣吗？
+        
+      
+    
+    所以，我相信计算机技术内部会有一场战争，将算法和密码学的权力从硅谷手中夺走，并将它们交到人民手中，就像欧洲教会因宗教改革和启蒙运动而失去对文字和阅读的控制时，最终将面临一场战争一样。与密码朋克一样，基督教会早期的改革者和异端也被视为精神失常和软弱无力的。然而，在欧洲，在一代人的时间里，这些团体将阅读和写作的力量交到了普通人的手中，结束了教会在欧洲的精神统治，并导致了一场殖民主义的工业技术革命，最终引导了计算机的发明。我们是否可以想象一个当代的平行世界，在那里，密码朋克将计算机编程的力量交到了人们的手中？在后殖民主义和现代工业社会中我们是否能做到这一点？这对全球政治意味着什么？
+    
+      
+         
+密码学可能是没有指导原则的世界中的一种前进方式，因此是摆脱控制论大混乱/大流行的途径？或一种新的哲学……
+        
+      
+    
+    历史上有种奇怪的讽刺，就是某种事物总是盛极而衰，在它最强大的那一刻，就崩溃了。COVID-19大流行所创造的“超控制（hypercontrol）”幻象可能也是如此。就实际情况来说，加密无政府主义者试图通过密码学的枷锁来束缚数字化的企图，可能会提供一个面临崩溃的世界秩序所需要的开放视野，并提供一个去中心化的替代方案的轮廓。在西方的尽头，密码学能否成为一个没有指导原则的世界的前进方向？能否成为摆脱混乱（pandemonium）和瘟疫（pandemic）的出路？事实上，密码学可能是打破人为稳定的唯一途径，创造一个没有控制的、没有任何中心集权指导原则的开放世界，被赖纳·谢尔曼称之为“arche”（弧形）。这将允许无政府状态，一个没有预定原则的世界，每一种文化和每一个人最终都能自己掌握命运的世界。我相信这个世界，在那里我们可以在没有控制的技术形式的基础上创造自己的原则和未来，这就是加密无政府主义的意义。
+    现在还存在两个问题。第一，由于加密无政府主义是少数人的小众运动，这些密码学的技术能不能为所有人所用，成为他们的革命技术？因为大流行病影响的是所有人，而不仅仅是极少数的高级技术精英。最后，随着美国的衰落，欧洲的衰老，以及全球金融体系的崩溃，美国正处于内战边缘，全球金融体系面临新的危机，欧洲的形而上学也透露出衰老偏执的状态，新的加密无政府主义对人类文明的另一个伟大轴心——中国意味着什么？
+    这些问题，需要由你们来回答。
+    
+      
+ 
+      
+    
+    
+      
+         Share this: 
+        
+          
+                Click to share on Facebook (Opens in new window)  
+                Click to share on Twitter (Opens in new window)  
+                Click to share on 新浪微博 (Opens in new window)  
+                Click to share on Telegram (Opens in new window)  
+            
+          
+        
+      
+    
+  
+  
+    
+ Harry Halpin   网络社会年会 
+    
+  
+
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://caa-ins.org/archives/7878" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://caa-ins.org/archives/7878&title=哈里.哈尔平 | 对抗超控制的全民密码学&caption=
+  
+  网络社会年会        哈里.哈尔平 | 对抗超控制的全民密码学 
+    
+      
+ 2021-07-20 
+      
+    
+  
+  
+    
+      
+         
+本文作者 哈里.哈尔平（Harry Halpin）
+        
+ &lt;/img&gt; 
+      
+    
+    哈里·哈尔平是Inria de Paris的客座研究员，负责NEXTLEAP项目和麻省理工学院社会技术系统研究中心的研究科学家，研究区块链技术。他对数据科学、密码学、行业标准和网络哲学感兴趣，并且是全方位激进的开放Internet倡导者。
+    哈尔平曾是万维网联盟/自动化研究院(W3C/INRIA)的研究员，他带队研究未来网络哲学、分散式认知、安全和密码学。与蒂姆·伯纳斯 – 李在万维网联盟共事时，他开创了网络加密API来协调跨浏览器的加密操作，开创了网络身份验证API从而淘汰了密码输入。最近在自动化研究院他协助欧盟的“下一跳（NEXTLEAP）”计划，该计划旨在发展下一代的加密协议。他在爱丁堡大学获得信息学博士，在安迪克拉克指导下完成论文，现已出版《社交语义学》，在斯蒂格勒指导下进行博士后的哲学工作，与亚历山大 · 莫宁（Alexandre Monnin）一同编撰“哲学工程学”文集。他正在撰写一本关于全球资本主义崩解的时代背景下网络集体智慧的哲学基础的著作。哈里 · 哈尔平的作品是计算机科学、哲学和伦理学的独特融合。在 W3C 标准化数字版权管理(DRM)之后，他辞去了之前在 W3C 万维网联盟的工作。哈里是开放和不受限制的网络和强大的用户隐私的强烈倡导者。他最新的项目名NYM，旨在引入一种混合网络协议与块环链激励的可持续性。
+    Harry Halpin is a visiting researcher at Inria de Paris where I lead the NEXTLEAP project and Research Scientist at the Sociotechnical Systems Research Center at MIT on blockchain technology. He is interested in data science, cryptography, standards, and the philosophy of the web ,and is an all-around radical open internet advocate.
+    Harry Halpin was a research scientist at W3C/INRIA, where leads research on the future of the philosophy of the Web, distributed cognition, security, and cryptography. Working with H Berners-Lee at the W3C, he has created the Web Cryptography API to harmonize cryptography across browsers and the Web Authentication API to phase out passwords. Currently at INRIA, he co-ordinates the European Commission project NEXTLEAP (https://nextleap.eu/) on developing next-generation cryptographic protocols. He has a Ph.D. in Informatics from University of Edinburgh under Andy Clark and his thesis has been published as the book “Social Semantics” and work on philosophy with Bernard Stiegler for his postdoctoral work, leading to the edited collection “Philosophical Engineering” with Alexandre Monnin. He is working on a book on the philosophical foundations of Internet-enabled collective intelligence in the era of the collapse of global capitalism. Harry Halpin’s work is a unique blend of computer science, philosophy and ethics. Previously working at World Wide Web Consortium (W3C), he resigned after the W3C standards body standardized the Digital Rights Management (DRM). Harry is a strong advocate of open and unrestricted web and strong user privacy. His latest project is called NYM, which aims to introduce a mix network protocol with blockchain-enabled incentivization for sustainability.
+    
+    
+      
+        
+          
+ 
+          
+        
+      
+    
+    
+    对抗超控制的全民密码学
+     文/[美] 哈里.哈尔平 
+     译 编/杨弘毅 
+    
+    本文根据哈里·哈尔平[Harry Halpin]发表于第五届网络社会年会“实践智慧之网”主题四“加密主义”的主题演讲整理而成。讲题原文为“Pandemos-Cryptography against Hypercontrol”。本文作者哈里哈尔平为Nym Technologies SA首席执行官。
+   
+    
+    摘要
+    ：随着2019冠状病毒疾病的到来，美利坚帝国不可避免的崩溃似乎已成定局。然而，任何未来的前景似乎都是封闭的。特朗普和西方的失败关系重大，不仅仅是古典意义上帝国的耻辱，这是一个文化、心理和最终生物控制的领域。即使到了最后，美国军方的无限暴力威胁对世界上的大多数人来说也不再可信。更重要的是，控制论系统，最初由德勒兹提出的理论是一个控制社会，现在已经过渡到一种新的“超控制”形式，由于212019冠状病毒疾病的影响，所有的社会生活都被纳入了一个数字整体，甚至包括生活的一部分，从政府到最敌视数字化的大学。这个超控制的控制论系统也许同时是欧洲形而上学的顶点和最终形式，正如理性进入计算的自动化所证明的那样，一个被海德格尔部分理解但被他的门徒莱纳 · 舒尔曼历史化的轨迹。然而，过度控制是一只“纸老虎”，在欧洲和美国都是失败的，无法阻止这种流行病的蔓延。还有其他选择吗？
+    仅仅在10多年前，就在金融化尝试采取本体论形式和个人思维的认知限制被算法的认知不透明所揭示的那一刻，一个被称为“比特币”的破坏性创新作为中本聪的作品出现在互联网上。这种全新的外星技术似乎是匿名降落在地球上的，其形而上学的定位可能与控制论不同。现在比以往任何时候都更需要作为无产阶级化社会工具的独立技术，以及作为人类潜能延伸的技术；中本聪的比特币将是我们的指导性范例。正如隐形委员会和贝尔纳·斯蒂格勒所做的那样，许多欧洲最优秀的哲学家已经认识到技术和工艺之间的区别，但是区块链技术展示了没有超级控制的工艺的潜力。在西方世界的尽头，在一个没有指导原则的世界里，密码术能成为一种前进的方式吗？通过区块链技术的历史从混合网到工作证明提供了一个证明，真正的形而上学的工作今天已经采取技术的肉体，与区块链技术假定不仅作为一个替代的金融基础设施，但作为技术继承者的政治统治硅谷。
+    虽然无政府主义没有学术书籍，也没有很多学术哲学分析方法，但无政府主义是21世纪唯一真正的新哲学时刻，因此值得仔细关注。实际上，加密无政府主义者试图通过加密技术的束缚来捆绑数字化尝试，这种尝试可能会为面临崩溃的欧罗巴世界秩序提供其所需的开放视野，并提供一种去中心化的替代方案的轮廓。随着瘟疫将罗马帝国推向一个千禧年的时代。逃到修道院来躲避即将到来的崩溃的不是那些没用的、智力有缺陷的人，而是罗马培养出来的最优秀、最聪明的人。同样，加密无政府主义者正在西方建造最后的技术空间。
+    有两个问题。首先，由于加密无政府主义者是一个少数民族运动，这些技术可以作为革命性的技术为所有人使用吗？因为大流行病是人人都会感染的。此外，随着美国处于内战的边缘，全球金融体系面临危机，欧洲形而上学揭示了自己处于一种老年偏执狂的状态，新的无政府主义者时刻对于中国这个人类文明的另一个伟大轴心意味着什么？
+    
+    ABSTRACT
+    ：With the advent of COVID-19, the inevitable collapse of the American empire seems assured. Yet any future horizon seems closed. What is at stake in Trump and the failure of the West is not just the discredit of an empire in a classical sense, a domain of cultural, psychological, and ultimately biological control. Even in the final instance, the threat of infinite violence by the American military no longer seems credible to large amounts of the world. What is more important is that cybernetic systems, originally theorized by Deleuze as a society of control, has passed to a new form of “hypercontrol” where all of social life has been subsumed into a digital totality due to COVID-19, including even parts of life ranging from governments to universities that were the most hostile to digitization. This cybernetic system of hypercontrol is perhaps simultaneously both the apex and final form of European metaphysics, as documented by the automatization of reason into calculation, a trajectory comprehended partially by Heidegger but historicized by his protege Reiner Schürmann.Yet hypercontrol is a “paper tiger” that has been a failure in Europe and the United States, incapable of halting the pandemic. Are there any alternatives?
+    Only slightly more than a decade earlier, at the very moment that financialization attempts to take an ontological form and the epistemological limits of the individual mind were revealed by the cognitive opacity of algorithms, a new disruptive technology known as Bitcoin appeared on the internet as the work of the anonymous Satoshi Nakamoto. It seems as if an entirely new and alien technology was anonymously dropped upon the earth, with a possibly different metaphysical orientation than cybernetics. What is needed more than ever is separate technology as a social apparatus of proletarianization from technics as extensions of human potential, and Nakamoto’s Bitcoin will be our guiding example. As done by the Invisible Committee and Bernard Stiegler, many of the best philosophers of Europe have recognized the difference between technology and technics, but it is blockchain technology that shows the potential of technics without hypercontrol. At the end of the West, could cryptography be a way forward in a world without a guiding principle? Walking through the history of blockchain technologies from mixnets to proof of work provides a demonstration that the true metaphysical work today has taken technical flesh, with blockchain technologies posited not just as an alternative financial infrastructure, but as the technical successor to the political domination of Silicon Valley.
+    Although cryptoanarchism does not have scholarly books or much in the way of academic philosophical analysis, cryptoanarchism is the only genuinely new philosophical moment of the 21st century, and as such deserves careful attention.In practical terms, the attempt by cryptoanarchists to bind the digital attempt via the shackles of cryptography may provide the open horizon needed by a Europea world order that is facing collapse, and provide the outline of a decentralized alternative. As plagues brought the Roman empire to an millenia, it was not the useless and mentally deficient people that fled to the monasteries to escape the impending collapse, but the best and most intelligent people produced by Rome. In the same manner, cryptoanarchists are building the final technical spaces in the West.
+    There are two questions. First, as cryptoanarchists are a minotarian movement, can these technics be used as revolutionary techniques for all people? For the pandemic adheres to all people. Lastly, with the United States on the verge of civil war, the global financial system facing crisis, and European metaphysics revealing itself to be in a state of senile paranoia, what does the new cryptoanarchist moment mean for China, the other great axis of human civilization?
+    
+    大家好，我是Harry Halpin，非常感谢各位的邀请，很遗憾不能和大家面对面地分享，只能在线上和大家交流。之前我也有幸参观了解了一些你们的项目，也很希望之后能够真正和大家面对面地交流，看一看你们的项目，如果你们有疑问也可以发邮件给我。我将为弗兰克.博朗他们的演讲提供一些哲学化的背景和思考。
+    在2020年，除了大流行病以及它所造成的数字化浪潮之外，再没有其他定义世界的事件了。因此，我们需要进行一下哲学和历史的反思，这样才能理解在布拉格举办的一次加密无政府主义黑客大会（Hackers Congress Paralení Polis）上所说的：我们已经进入了一个数字化的整体之中，以及这到底会带来什么样的危险。
+    “Cypherpunks（密码朋克）”是20世纪90年代美国的一群持不同政见者的团体，他们也许在最先预见到了一个将笼罩我们所有人的数字整体，我将其称之为一个效仿乔治·阿甘本（Giorgio Agamben）的，“超级控制社会（a society of hypercontrol）”的方法。
+    
+      
+         
+Pandemos（πάνδημος），意为“属于人民的”
+        
+ &lt;/img&gt; 
+      
+    
+    我们应该记得，英语中“pandemic”一词的用法是从罗马帝国延用下来的，以及从古希腊语的“πάνδημος”（Pandemos）继承而来，意思是“属于人民的”。这个词的意思很简单，“瘟疫是属于每个人的东西”。而且奇怪的是“pandemic（大流行病，大范围流行的）”这一词和“demos（示范）”和“democracy（民主）”有着相同的词根，从普遍性来看，瘟疫和一个帝国是有着共鸣的。这不是单指某一个帝国，比如古代的中华帝国，而是一个属于全体人民的全球帝国。这种普遍性的帝国不是从希腊，而是从波斯（伊朗），到亚历山大大帝，再到罗马帝国演变而来的，这种任何人都无法逃避命令、控制生活的全球治理思想，实际上是西方民族国家发展的一个核心，这种普世主义也是美国的核心。自第二次世界大战结束以来，美国一直是执行全球资本的军事力量。
+    我的问题是，这样一个世界性的帝国，一个新的世界性的全球治理，能够维持下去吗？比如说，罗马帝国的灭亡不是因为野蛮人的入侵，而是因为比COVID-19更致命的失控大流行。罗马帝国末期的安东尼瘟疫，杀死了大约四分之一的罗马尼亚人，并使罗马军队遭到了灭顶之灾，它削弱了整个罗马军队，虚弱的罗马军队试图通过雇佣“野蛮人”来补充队伍，但由于大瘟疫造成的死亡，罗马已经是一个空壳，所以罗马帝国就分崩离析了。而谁又能说今天的“美帝国”（American Empire）不会因瘟疫而分崩离析呢？
+    
+      
+         
+安东尼大瘟疫杀死了罗马四分之一的人口，罗马政府陷入混乱，军队不再是一个可信的威胁，就像今天的美国。
+        
+      
+    
+    随着COVID-19新冠疫情的出现，美帝不可避免的崩溃似乎已经确定，然而，任何未来的前景似乎都是封闭的。特朗普和西方控制疫情大流行的失败，关系到的不仅仅是一个古典主义上的帝国的信誉流失，更是一个文化、心理和最终达到生物控制的领域。归根结底，美军的无限暴力威胁对世界上大部分的人来说已经不再可信，就像是罗马军队在罗马崩溃时对世界其他地方来说都是不可信的威胁一样。
+    
+      
+         
+美国陆军全球基地图
+        
+      
+    
+    这是一张所有美国陆军基地的地图，显示美国在军事上确实是一个全球性的帝国。然而全球帝国结束后会发生什么，我们可以从罗马之后的事情中学习。就像罗马帝国的物质力量消失了一样， 但权力的原则仍在天主教会中。物质上的控制方法没有了，但生活的形式仍然受到基督教严格的精神控制。罗马帝国灭亡后，精神的帝国仍然存在了一千年，令西方的一切进步面临瘫痪，直到印刷术的出现导致了宗教改革的战争，并最终导致了启蒙运动。
+    
+      
+         
+罗马帝国的物质力量消失了，精神力量的原则成为天主教会。
+        
+      
+    
+    我想这里可以做一个对比。因特网（Internet）本身就是一个世界性的工程，一个将世界上所有的网络互联在一起的工程。而如果说美国是与罗马平行的话，那么因特网的协议就是美帝国结束后留下来的教会，所以我们现在看到一种对因特网奇怪的迷恋。不知道为什么，现在因特网被Facebook、Twitter这样的美国媒体平台看成是一种精神控制的工具；或者因特网被视为俄罗斯的工具，通过“假新闻”来支持特朗普；或是人工智能现在被认为是实际上的主宰。这些说法看似荒谬，其中却蕴含着一个隐藏的真相：我们不再通过自由主义个人和民族国家的经典范式来理解因特网，而因特网恰恰是帝国军事崩溃之后心理秩序的保留方式。我想讨论的是帝国如何转化为一种精神力量。
+    
+      
+         
+因特网现在作为一种精神控制的形式主导着美国的媒体和政治叙事。
+        
+      
+    
+    我们必须通过MIT的利克莱德（J.C.R.Licklider）的思想回到因特网建立的起源。要了解因特网的哲学基础，我们首先要去了解诺伯特·维纳（Norbert Wiener），也就是1948年《或关于在动物与机器中控制和通信的科学》（《Or Control and Communication in the Animal and the Machine》）的原书作者、控制论思想最初创建者的想法。
+    控制论的关键概念是整个系统可以达到一种稳态，即通过反馈来抵抗变化，实现内部的稳定状态。其实控制论这个词本身也来自希腊语，来自“κυβερνητική”，意思是“属于治理的东西”。然而，诺伯特·维纳在他的原著中反对把应用控制论作为政府控制人类的方法，他认为人类太不可预测，反馈回路无法理解，用这种方法控制人类既不道德，也不可能奏效。
+    
+      
+         
+控制论一直是关于控制的，然而它的发明者诺伯特·维纳（Norbert Wiener）并不希望看到反馈回路应用于人类控制。
+        
+      
+    
+    然而，随着第二次世界大战的结束，欧洲陷入一片废墟，美国的政府官员看到，民主本身相对于法西斯主义已经失去了大部分的吸引力，需要一种新的能够稳定民众的模式来加强民族主义。与维纳的建议相反，大量的人类学家和技术官员提出采用控制论来稳定民众。然而在因特网出现之前，没办法真正地产生社会交流水平的反馈。当Licklider和他在美国政府高级研究计划局（ARPA）的助手Taylor终于把因特网建成了“作为通讯设备的计算机”来使用的时候，控制论才最终被赋予了技术基础。
+    
+      
+         
+“作为通信设备的计算机”（Licklider和Taylor，1968）使控制论能够控制通信。
+        
+      
+    
+    这是JCR Licklider他们书中的原始插图，你能看到大部分都已经成为现实了，还有另外一个正在进行的发展，那就是人工智能的发展。最早的机器学习系统是由奥利弗·塞尔弗里奇（Oliver Selfridge）于1959年提出的一个理论，一开始这是他在1956年由约翰·麦卡锡（John McCarthy）和马文·明斯基（Marvin Lee Minsky）主持的首届人工智能艺术会议（Summer Research Project on Artificial Intelligence）上提出的一个想法。
+    
+      
+         
+1959年Selfridge在他的“万魔殿（Pandemonium）”架构中设想了机器的模式识别。
+        
+      
+    
+    塞尔弗里奇没有提出用大的程序来复制人类的智慧，而是想象出许多被称为“恶魔（demons）”的小程序，每个程序都可以完成非常有限的、定义明确的任务，比如识别输入的某些特征。然后，它可以将这些结果反馈给其他“恶魔”，后者从特征中学习对象，然后再反馈给其他“恶魔”，后者可以做出决定。这个概念的灵感受到了神经科学的影响，即眼睛里的某些细胞如何识别像边缘这样的图案，并将这个结果反馈给更高的层次。这样一来，一个充满“恶魔”小程序的“恶魔之城（city of demons）”就能理解并做出复杂的决策，这导致了人工智能的发展。
+    
+      
+         
+《失乐园》中的“万魔殿（pandemonium）”
+        
+      
+    
+    今天，人工智能算法仍然以这种方式运作，用大量的算法来控制数据以一种人类认知上不透明的方式做出决策及架构。随着因特网的普及，越来越多的人类活动都被转化成了比特（bits），这些比特可以输入到人工智能这个新的庞然大物之中，然后利用算法通过控制论反馈来调节和控制整个社会，整个装置由因特网无处不在的渗透来支撑。在这样的系统之下，所有的人类的行为都被转化成了比特，是可以用人工智能去控制人类的。
+    长期以来，我们的哲学一直都忽视科技的发展，因为理论知识总是忽视实践知识。所以三十年来，哲学一直忽略了因特网，但正是因特网和计算机调解了我们的整个生活，甚至我们个人的生活方式。吉尔·德勒兹（Gilles Deleuze）在生命最后写下了《关于控制社会的后记》（《Postscript on the Societies of Control》），他指出，与福柯所理论的“规训社会”（“disciplinary societies”）相比，在计算机的世界里，我们正在进入“‘控制社会（control societies）’，另一方面，重要的不再是签名或数字，而是代码：代码就是密码。控制的数字语言是由代码组成的，它标志着对信息的访问或拒绝……个人变成了‘个体’，以及集聚、样本、数据、市场或‘银行’。”
+    
+      
+         
+在奥斯威辛和广岛之后，控制论允许“西方”在没有指导原则的情况下，通过计算继续前进。
+        
+      
+    
+    正如我的导师、久违的朋友贝尔纳·斯蒂格勒（Bernard Stiegler）所写的那样，因特网不是一种单纯的交流形式，而是由于“数字的冲击”而改变了我们“个体化”的过程。这是因为我们的交流成为人工智能的原始输入，人工智能的目标不是帮助我们交流，而是预测我们未来的行为，从而通过反馈来创造一种无法被干扰的治理形式。海德格尔（Martin Heidegger）所说的“计算”成为如此普遍的现象，并获得某种形而上的对未来世界的暂停，这种控制使我们永远无法摆脱计算，因此将任何可能的未来地平线关闭在对过去的重复之中，我们不会有任何可能的未来。所以，正如被遗忘的哲学家、海德格尔最好的学生赖纳·谢尔曼（Reiner Schurman）所说的那样，即使广岛和奥斯维辛的恐怖已经终结了人类个体理性和民族国家的指导原则，即使“西方”没有了形而上的原则，控制论的主体机器也可以使全球社会永远保持在一种稳态的团结形式之中。
+    
+      
+         
+一个基于无所不知的监视的超控制社会，在那里，反抗只会增加控制。——阿甘本
+        
+      
+    
+    在威尼斯的一次研讨会上，我与乔治·阿甘本（Giorgio Agamben）就因特网带来的控制和控制论问题进行了讨论，阿甘本说，社会已经从一种控制的社会转变成一种新的“超控制（hypercontrol）”形式，我们所有的社会生活都被归为数字整体的一部分，要通过监视和反馈来控制。由于COVID-19的出现，现在更是如此，因为就连从政府到大学等原本对数字化最为敌视的部分都已经数字化了，抵抗似乎是不可能的，因为它只会让一切的监控和控制变得更多和更容易。
+    
+      
+         
+在帝国末期，不是罗马最坏的人，而是罗马最优秀的人离开了，躲进了修道院。我们也应该这样做吗？
+        
+      
+    
+    阿甘本指出，当瘟疫使罗马帝国走向灭亡时，逃到修道院躲避帝国崩溃的不是那些无用的、有智力缺陷的人，而是罗马培养出来的最优秀、最聪明的人。阿甘本就建议，其实最好的行动方式是干脆就逃离现状，逃离并创造一个没有因特网或电脑的新的社会形态。他在法国“隐形委员会”的学生为此做了一些尝试，他们试图切断手机还有因特网的使用，逃到法国农村的山区，以便在塔尔纳克（Tarnac）的农村公社创造一种新的生活形式。不过他们无法逃脱，因为他们的村庄被突击搜查，政府觉得他们是恐怖主义，因为他们不使用手机和因特网，就以无政府主义的罪名逮捕了他们。
+    
+      
+         
+技术：一种控制系统，它剥夺了参与者的技术知识，导致一种新形式的“无产阶级的两极分化”： 丧失的不仅是机器的艺术技能，还有我们的认知能力（斯蒂格勒）。  技艺：任何扩展人类能力的方法（工具，也包括数字媒体上的扩展记忆），让我们克服了进化中的缺陷。
+        
+      
+    
+    但他们的《致我们的朋友》（《To Our Friends》）一书中有一个至关重要的启示：技艺和技术之间是有区别的。技艺是任何能扩展人类能力的方法，所以人类不像其他动物那样有爪子，作为没有爪子的无毛猿人，我们自然而然地用剑、用枪、用衣服、用房子来扩展自己。我们甚至用文字、用数字媒体来扩展我们的记忆。相比之下，技术是一种社会控制体系，它的基础是攫取我们的精神力量，让人类服从于某个更大的系统。所以，简单地停止使用电脑等工具是没有意义的，就像停止写作、停止穿衣服一样没有意义。我们需要的是没有技术限制的新形式的技艺。
+    斯蒂格勒（Bernard Stiegler）想要重新发明“因特网（Internet）”，因此他与程序员一起工作，以了解因特网并创造新的计算机技术，他希望这将扭转“无产阶级的两极分化（proletarianization）”的过程，这种过程创造了孤立的“个体（dividuals）”，他希望新的计算机技术能代之以新类型的个人，从而形成新的社会形式。斯蒂格勒提出了一个宏大的理论，我们只能简单描述一下：因特网改变了我们彼此之间的交流，它本身也是人类语言范围内的一场革命；由于因特网的控制不是为了人类的发展，而是消费资本主义社会的短期目标，因特网割裂了代际之间的交流、过去和现在的交流，所以关闭了通往未来的视野，让我们进入到了一种网路的状态之中。
+    斯蒂格勒在去年2月份去世之前跟我进行了最后一次对话，就探索关于区块链科技的潜力，除了用于短期的金融经济利益之外，区块链是否还有其他的方式，是否能带来一种新的去中心化的全球社会。
+    我认为比特币可以成为一种新的颠覆性技术，可能是一种没有技术也能创造技术的方式，能够颠覆美帝国和硅谷帝国的控制论教会。因为加密无政府主义者基本上相信密码学可以提供保护人类不受控制的方法，加密学能够创造一种全新的世界，基于人类自由的世界。在2008年金融危机结束的时候，中本聪（Satoshi Nakamoto）的作品《比特币：一种点对点的电子现金系统》白皮书的出现，给我们带来了一种全新的、与控制论不同的形而上学的方向。比特币结合了“工作证明”和“数字现金”等技术，这些技术来自于赛博朋克们和加密无政府主义者——上世纪90年代美国的一小群反叛的技术主义者，他们认为密码学可以提供保护人类免受控制的方法，甚至可以实现一个基于自由的无政府主义的新型世界，理由是密码学可以利用数学和技术的力量来构建比任何人类法律都要强大的系统。
+    
+      
+         
+Mix-nets（混合网络）由David Chaum的《不可追踪的电子邮件、回邮地址和数字假名》（1981年）提出
+        
+      
+    
+    比特币这种数字现金只是加密无政府主义愿景的一部分。下一个部分是mixnets（混合网络），这是我在做的事情，我的公司Nym Technologies在开发的一项技术就是mixnet，其目标是通过随机混合数据包和链接信息，这样就没有人能够知道谁和谁在通信，即使是美国国家安全局也没有办法监视。当人工智能算法检测到数据中的模式时，同样的技术也可以反过来对付这些算法，以隐藏数据中的模式。所以，我们看到的是，加密无政府主义者的一个小型的边缘运动，能够采取控制论的工具来对付超控制（hypercontrol），从而创造一个没有控制的新社会。
+    
+      
+         
+Nym Mixnet
+        
+      
+    
+    比特币和mixnets等相关技术提供了一个证明，给我们提供了一些技术上的可能性。尽管加密无政府主义目前没有学术著作，也没有太多学术哲学分析，但加密无政府主义是21世纪唯一真正的新哲学运动，是值得仔细关注的。虽然他们对数字技术如何被用作一种控制形式的警告显然是正确的，但不太明显的是，像斯蒂格勒一样，他们相信技术可以用来对抗控制，开辟而不是阻止（foreclose）未来。
+    
+      
+         
+在计算机技术领域，支持区块链技术的人和硅谷之间会不会有一场即将到来的内战？加密无政府主义者是新的僧侣吗？
+        
+      
+    
+    所以，我相信计算机技术内部会有一场战争，将算法和密码学的权力从硅谷手中夺走，并将它们交到人民手中，就像欧洲教会因宗教改革和启蒙运动而失去对文字和阅读的控制时，最终将面临一场战争一样。与密码朋克一样，基督教会早期的改革者和异端也被视为精神失常和软弱无力的。然而，在欧洲，在一代人的时间里，这些团体将阅读和写作的力量交到了普通人的手中，结束了教会在欧洲的精神统治，并导致了一场殖民主义的工业技术革命，最终引导了计算机的发明。我们是否可以想象一个当代的平行世界，在那里，密码朋克将计算机编程的力量交到了人们的手中？在后殖民主义和现代工业社会中我们是否能做到这一点？这对全球政治意味着什么？
+    
+      
+         
+密码学可能是没有指导原则的世界中的一种前进方式，因此是摆脱控制论大混乱/大流行的途径？或一种新的哲学……
+        
+      
+    
+    历史上有种奇怪的讽刺，就是某种事物总是盛极而衰，在它最强大的那一刻，就崩溃了。COVID-19大流行所创造的“超控制（hypercontrol）”幻象可能也是如此。就实际情况来说，加密无政府主义者试图通过密码学的枷锁来束缚数字化的企图，可能会提供一个面临崩溃的世界秩序所需要的开放视野，并提供一个去中心化的替代方案的轮廓。在西方的尽头，密码学能否成为一个没有指导原则的世界的前进方向？能否成为摆脱混乱（pandemonium）和瘟疫（pandemic）的出路？事实上，密码学可能是打破人为稳定的唯一途径，创造一个没有控制的、没有任何中心集权指导原则的开放世界，被赖纳·谢尔曼称之为“arche”（弧形）。这将允许无政府状态，一个没有预定原则的世界，每一种文化和每一个人最终都能自己掌握命运的世界。我相信这个世界，在那里我们可以在没有控制的技术形式的基础上创造自己的原则和未来，这就是加密无政府主义的意义。
+    现在还存在两个问题。第一，由于加密无政府主义是少数人的小众运动，这些密码学的技术能不能为所有人所用，成为他们的革命技术？因为大流行病影响的是所有人，而不仅仅是极少数的高级技术精英。最后，随着美国的衰落，欧洲的衰老，以及全球金融体系的崩溃，美国正处于内战边缘，全球金融体系面临新的危机，欧洲的形而上学也透露出衰老偏执的状态，新的加密无政府主义对人类文明的另一个伟大轴心——中国意味着什么？
+    这些问题，需要由你们来回答。
+    
+      
+ 
+      
+    
+    
+      
+         Share this: 
+        
+          
+                Click to share on Facebook (Opens in new window)  
+                Click to share on Twitter (Opens in new window)  
+                Click to share on 新浪微博 (Opens in new window)  
+                Click to share on Telegram (Opens in new window)  
+            
+          
+        
+      
+    
+  
+  
+    
+ Harry Halpin   网络社会年会 
+    
+  
+
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=哈里.哈尔平 | 对抗超控制的全民密码学&url=https://caa-ins.org/archives/7878" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>哈里.哈尔平 | 对抗超控制的全民密码学</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2021-07-20
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#网络社会研究所">
+          网络社会研究所
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://caa-ins.org/archives/7878" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="网络社会研究所的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#网络社会研究所 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <article class="vce-single post-7878 post type-post status-publish format-standard has-post-thumbnail hentry category-3 tag-harry-halpin tag-25" id="post-7878">
+  <header class="entry-header">
+<span class="meta-category"> <a class="category-3" href="https://caa-ins.org/archives/category/%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a"> 网络社会年会 </a> </span>     <h1 class="entry-title" id="section"> 哈里.哈尔平 | 对抗超控制的全民密码学 </h1>
+    <div class="entry-meta">
+      <div class="meta-item date">
+<span class="updated"> 2021-07-20 </span>
+      </div>
+    </div>
+  </header>
+  <div class="entry-content">
+    <div class="wp-block-image">
+      <figure class="aligncenter size-large is-resized">
+<img alt="" class="wp-image-7879" data-attachment-id="7879" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="harryhalpin头像" data-large-file="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin头像.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin头像-300x300.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin头像.jpg" data-orig-size="626,626" data-permalink="https://caa-ins.org/archives/7878/harryhalpin%e5%a4%b4%e5%83%8f" decoding="async" fetchpriority="high" height="409" sizes="(max-width: 409px) 100vw, 409px" src="https://13.124.147.85/wp-content/uploads/2021/07/harryhalpin头像.jpg" srcset="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin头像.jpg 626w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin头像-300x300.jpg 300w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin头像-150x150.jpg 150w" width="409" />         <figcaption>
+本文作者 哈里.哈尔平（Harry Halpin）
+        </figcaption>
+ &lt;/img&gt; 
+      </figure>
+    </div>
+    <p style="font-size:14px">哈里·哈尔平是Inria de Paris的客座研究员，负责NEXTLEAP项目和麻省理工学院社会技术系统研究中心的研究科学家，研究区块链技术。他对数据科学、密码学、行业标准和网络哲学感兴趣，并且是全方位激进的开放Internet倡导者。</p>
+    <p class="has-vce-txt-color has-text-color" style="font-size:14px">哈尔平曾是万维网联盟/自动化研究院(W3C/INRIA)的研究员，他带队研究未来网络哲学、分散式认知、安全和密码学。与蒂姆·伯纳斯 – 李在万维网联盟共事时，他开创了网络加密API来协调跨浏览器的加密操作，开创了网络身份验证API从而淘汰了密码输入。最近在自动化研究院他协助欧盟的“下一跳（NEXTLEAP）”计划，该计划旨在发展下一代的加密协议。他在爱丁堡大学获得信息学博士，在安迪克拉克指导下完成论文，现已出版《社交语义学》，在斯蒂格勒指导下进行博士后的哲学工作，与亚历山大 · 莫宁（Alexandre Monnin）一同编撰“哲学工程学”文集。他正在撰写一本关于全球资本主义崩解的时代背景下网络集体智慧的哲学基础的著作。哈里 · 哈尔平的作品是计算机科学、哲学和伦理学的独特融合。在 W3C 标准化数字版权管理(DRM)之后，他辞去了之前在 W3C 万维网联盟的工作。哈里是开放和不受限制的网络和强大的用户隐私的强烈倡导者。他最新的项目名NYM，旨在引入一种混合网络协议与块环链激励的可持续性。</p>
+    <p class="has-vce-txt-color has-text-color" style="font-size:14px">Harry Halpin is a visiting researcher at Inria de Paris where I lead the NEXTLEAP project and Research Scientist at the Sociotechnical Systems Research Center at MIT on blockchain technology. He is interested in data science, cryptography, standards, and the philosophy of the web ,and is an all-around radical open internet advocate.</p>
+    <p class="has-vce-txt-color has-text-color" style="font-size:14px">Harry Halpin was a research scientist at W3C/INRIA, where leads research on the future of the philosophy of the Web, distributed cognition, security, and cryptography. Working with H Berners-Lee at the W3C, he has created the Web Cryptography API to harmonize cryptography across browsers and the Web Authentication API to phase out passwords. Currently at INRIA, he co-ordinates the European Commission project NEXTLEAP (https://nextleap.eu/) on developing next-generation cryptographic protocols. He has a Ph.D. in Informatics from University of Edinburgh under Andy Clark and his thesis has been published as the book “Social Semantics” and work on philosophy with Bernard Stiegler for his postdoctoral work, leading to the edited collection “Philosophical Engineering” with Alexandre Monnin. He is working on a book on the philosophical foundations of Internet-enabled collective intelligence in the era of the collapse of global capitalism. Harry Halpin’s work is a unique blend of computer science, philosophy and ethics. Previously working at World Wide Web Consortium (W3C), he resigned after the W3C standards body standardized the Digital Rights Management (DRM). Harry is a strong advocate of open and unrestricted web and strong user privacy. His latest project is called NYM, which aims to introduce a mix network protocol with blockchain-enabled incentivization for sustainability.</p>
+    <hr class="wp-block-separator" />
+    <figure class="wp-block-embed is-type-video is-provider-vimeo wp-block-embed-vimeo wp-embed-aspect-16-9 wp-has-aspect-ratio">
+      <div class="wp-block-embed__wrapper">
+        <div class="embed-vimeo" style="text-align: center;">
+          <iframe allowfullscreen="" frameborder="0" height="456" mozallowfullscreen="" src="https://player.vimeo.com/video/577087741" webkitallowfullscreen="" width="810">
+ 
+          </iframe>
+        </div>
+      </div>
+    </figure>
+    <hr class="wp-block-separator" />
+    <p class="has-text-align-center has-vce-cat-0-color has-text-color" style="font-size:30px">对抗超控制的全民密码学</p>
+    <h5 class="has-text-align-center has-vce-txt-color has-text-color wp-block-heading" style="font-size:14px" id="section-1"> 文/[美] 哈里.哈尔平 </h5>
+    <h5 class="has-text-align-center has-vce-txt-color has-text-color wp-block-heading" style="font-size:14px" id="section-2"> 译 编/杨弘毅 </h5>
+    <p class="has-text-align-center has-vce-meta-color has-text-color" style="font-size:14px"><em>
+    本文根据哈里·哈尔平[Harry Halpin]发表于第五届网络社会年会“实践智慧之网”主题四“加密主义”的主题演讲整理而成。讲题原文为“Pandemos-Cryptography against Hypercontrol”。本文作者哈里哈尔平为Nym Technologies SA首席执行官。
+   </em></p>
+    <p class="has-vce-cat-0-color has-text-color" style="font-size:15px"><strong>
+    摘要
+   </strong> ：随着2019冠状病毒疾病的到来，美利坚帝国不可避免的崩溃似乎已成定局。然而，任何未来的前景似乎都是封闭的。特朗普和西方的失败关系重大，不仅仅是古典意义上帝国的耻辱，这是一个文化、心理和最终生物控制的领域。即使到了最后，美国军方的无限暴力威胁对世界上的大多数人来说也不再可信。更重要的是，控制论系统，最初由德勒兹提出的理论是一个控制社会，现在已经过渡到一种新的“超控制”形式，由于212019冠状病毒疾病的影响，所有的社会生活都被纳入了一个数字整体，甚至包括生活的一部分，从政府到最敌视数字化的大学。这个超控制的控制论系统也许同时是欧洲形而上学的顶点和最终形式，正如理性进入计算的自动化所证明的那样，一个被海德格尔部分理解但被他的门徒莱纳 · 舒尔曼历史化的轨迹。然而，过度控制是一只“纸老虎”，在欧洲和美国都是失败的，无法阻止这种流行病的蔓延。还有其他选择吗？</p>
+    <p class="has-vce-cat-0-color has-text-color" style="font-size:15px">仅仅在10多年前，就在金融化尝试采取本体论形式和个人思维的认知限制被算法的认知不透明所揭示的那一刻，一个被称为“比特币”的破坏性创新作为中本聪的作品出现在互联网上。这种全新的外星技术似乎是匿名降落在地球上的，其形而上学的定位可能与控制论不同。现在比以往任何时候都更需要作为无产阶级化社会工具的独立技术，以及作为人类潜能延伸的技术；中本聪的比特币将是我们的指导性范例。正如隐形委员会和贝尔纳·斯蒂格勒所做的那样，许多欧洲最优秀的哲学家已经认识到技术和工艺之间的区别，但是区块链技术展示了没有超级控制的工艺的潜力。在西方世界的尽头，在一个没有指导原则的世界里，密码术能成为一种前进的方式吗？通过区块链技术的历史从混合网到工作证明提供了一个证明，真正的形而上学的工作今天已经采取技术的肉体，与区块链技术假定不仅作为一个替代的金融基础设施，但作为技术继承者的政治统治硅谷。</p>
+    <p class="has-vce-cat-0-color has-text-color" style="font-size:15px">虽然无政府主义没有学术书籍，也没有很多学术哲学分析方法，但无政府主义是21世纪唯一真正的新哲学时刻，因此值得仔细关注。实际上，加密无政府主义者试图通过加密技术的束缚来捆绑数字化尝试，这种尝试可能会为面临崩溃的欧罗巴世界秩序提供其所需的开放视野，并提供一种去中心化的替代方案的轮廓。随着瘟疫将罗马帝国推向一个千禧年的时代。逃到修道院来躲避即将到来的崩溃的不是那些没用的、智力有缺陷的人，而是罗马培养出来的最优秀、最聪明的人。同样，加密无政府主义者正在西方建造最后的技术空间。</p>
+    <p class="has-vce-cat-0-color has-text-color" style="font-size:15px">有两个问题。首先，由于加密无政府主义者是一个少数民族运动，这些技术可以作为革命性的技术为所有人使用吗？因为大流行病是人人都会感染的。此外，随着美国处于内战的边缘，全球金融体系面临危机，欧洲形而上学揭示了自己处于一种老年偏执狂的状态，新的无政府主义者时刻对于中国这个人类文明的另一个伟大轴心意味着什么？</p>
+    <p class="has-vce-cat-0-color has-text-color" style="font-size:15px"><strong>
+    ABSTRACT
+   </strong> ：With the advent of COVID-19, the inevitable collapse of the American empire seems assured. Yet any future horizon seems closed. What is at stake in Trump and the failure of the West is not just the discredit of an empire in a classical sense, a domain of cultural, psychological, and ultimately biological control. Even in the final instance, the threat of infinite violence by the American military no longer seems credible to large amounts of the world. What is more important is that cybernetic systems, originally theorized by Deleuze as a society of control, has passed to a new form of “hypercontrol” where all of social life has been subsumed into a digital totality due to COVID-19, including even parts of life ranging from governments to universities that were the most hostile to digitization. This cybernetic system of hypercontrol is perhaps simultaneously both the apex and final form of European metaphysics, as documented by the automatization of reason into calculation, a trajectory comprehended partially by Heidegger but historicized by his protege Reiner Schürmann.Yet hypercontrol is a “paper tiger” that has been a failure in Europe and the United States, incapable of halting the pandemic. Are there any alternatives?</p>
+    <p class="has-vce-cat-0-color has-text-color" style="font-size:15px">Only slightly more than a decade earlier, at the very moment that financialization attempts to take an ontological form and the epistemological limits of the individual mind were revealed by the cognitive opacity of algorithms, a new disruptive technology known as Bitcoin appeared on the internet as the work of the anonymous Satoshi Nakamoto. It seems as if an entirely new and alien technology was anonymously dropped upon the earth, with a possibly different metaphysical orientation than cybernetics. What is needed more than ever is separate technology as a social apparatus of proletarianization from technics as extensions of human potential, and Nakamoto’s Bitcoin will be our guiding example. As done by the Invisible Committee and Bernard Stiegler, many of the best philosophers of Europe have recognized the difference between technology and technics, but it is blockchain technology that shows the potential of technics without hypercontrol. At the end of the West, could cryptography be a way forward in a world without a guiding principle? Walking through the history of blockchain technologies from mixnets to proof of work provides a demonstration that the true metaphysical work today has taken technical flesh, with blockchain technologies posited not just as an alternative financial infrastructure, but as the technical successor to the political domination of Silicon Valley.</p>
+    <p class="has-vce-cat-0-color has-text-color" style="font-size:15px">Although cryptoanarchism does not have scholarly books or much in the way of academic philosophical analysis, cryptoanarchism is the only genuinely new philosophical moment of the 21st century, and as such deserves careful attention.In practical terms, the attempt by cryptoanarchists to bind the digital attempt via the shackles of cryptography may provide the open horizon needed by a Europea world order that is facing collapse, and provide the outline of a decentralized alternative. As plagues brought the Roman empire to an millenia, it was not the useless and mentally deficient people that fled to the monasteries to escape the impending collapse, but the best and most intelligent people produced by Rome. In the same manner, cryptoanarchists are building the final technical spaces in the West.</p>
+    <p class="has-vce-cat-0-color has-text-color" style="font-size:15px">There are two questions. First, as cryptoanarchists are a minotarian movement, can these technics be used as revolutionary techniques for all people? For the pandemic adheres to all people. Lastly, with the United States on the verge of civil war, the global financial system facing crisis, and European metaphysics revealing itself to be in a state of senile paranoia, what does the new cryptoanarchist moment mean for China, the other great axis of human civilization?</p>
+    <hr class="wp-block-separator" />
+    <p class="has-vce-txt-color has-text-color" style="font-size:15px">大家好，我是Harry Halpin，非常感谢各位的邀请，很遗憾不能和大家面对面地分享，只能在线上和大家交流。之前我也有幸参观了解了一些你们的项目，也很希望之后能够真正和大家面对面地交流，看一看你们的项目，如果你们有疑问也可以发邮件给我。我将为弗兰克.博朗他们的演讲提供一些哲学化的背景和思考。</p>
+    <p class="has-vce-txt-color has-text-color" style="font-size:15px">在2020年，除了大流行病以及它所造成的数字化浪潮之外，再没有其他定义世界的事件了。因此，我们需要进行一下哲学和历史的反思，这样才能理解在布拉格举办的一次加密无政府主义黑客大会（Hackers Congress Paralení Polis）上所说的：我们已经进入了一个数字化的整体之中，以及这到底会带来什么样的危险。</p>
+    <p class="has-vce-txt-color has-text-color" style="font-size:15px">“Cypherpunks（密码朋克）”是20世纪90年代美国的一群持不同政见者的团体，他们也许在最先预见到了一个将笼罩我们所有人的数字整体，我将其称之为一个效仿乔治·阿甘本（Giorgio Agamben）的，“超级控制社会（a society of hypercontrol）”的方法。</p>
+    <div class="wp-block-image">
+      <figure class="aligncenter size-large">
+<img alt="" class="wp-image-7889" data-attachment-id="7889" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="harryhalpin01" data-large-file="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin01-1024x709.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin01-300x208.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin01.jpg" data-orig-size="1430,990" data-permalink="https://caa-ins.org/archives/7878/harryhalpin01" decoding="async" height="709" sizes="(max-width: 1024px) 100vw, 1024px" src="https://13.124.147.85/wp-content/uploads/2021/07/harryhalpin01-1024x709.jpg" srcset="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin01-1024x709.jpg 1024w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin01-300x208.jpg 300w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin01-768x532.jpg 768w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin01-810x561.jpg 810w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin01-1140x789.jpg 1140w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin01-145x100.jpg 145w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin01.jpg 1430w" width="1024" />         <figcaption>
+Pandemos（πάνδημος），意为“属于人民的”
+        </figcaption>
+ &lt;/img&gt; 
+      </figure>
+    </div>
+    <p class="has-vce-txt-color has-text-color" style="font-size:15px">我们应该记得，英语中“pandemic”一词的用法是从罗马帝国延用下来的，以及从古希腊语的“πάνδημος”（Pandemos）继承而来，意思是“属于人民的”。这个词的意思很简单，“瘟疫是属于每个人的东西”。而且奇怪的是“pandemic（大流行病，大范围流行的）”这一词和“demos（示范）”和“democracy（民主）”有着相同的词根，从普遍性来看，瘟疫和一个帝国是有着共鸣的。这不是单指某一个帝国，比如古代的中华帝国，而是一个属于全体人民的全球帝国。这种普遍性的帝国不是从希腊，而是从波斯（伊朗），到亚历山大大帝，再到罗马帝国演变而来的，这种任何人都无法逃避命令、控制生活的全球治理思想，实际上是西方民族国家发展的一个核心，这种普世主义也是美国的核心。自第二次世界大战结束以来，美国一直是执行全球资本的军事力量。</p>
+    <p class="has-vce-txt-color has-text-color" style="font-size:15px">我的问题是，这样一个世界性的帝国，一个新的世界性的全球治理，能够维持下去吗？比如说，罗马帝国的灭亡不是因为野蛮人的入侵，而是因为比COVID-19更致命的失控大流行。罗马帝国末期的安东尼瘟疫，杀死了大约四分之一的罗马尼亚人，并使罗马军队遭到了灭顶之灾，它削弱了整个罗马军队，虚弱的罗马军队试图通过雇佣“野蛮人”来补充队伍，但由于大瘟疫造成的死亡，罗马已经是一个空壳，所以罗马帝国就分崩离析了。而谁又能说今天的“美帝国”（American Empire）不会因瘟疫而分崩离析呢？</p>
+    <div class="wp-block-image">
+      <figure class="aligncenter size-large">
+<img alt="" class="wp-image-7891" data-attachment-id="7891" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="image004" data-large-file="https://caa-ins.org/wp-content/uploads/2021/07/image004.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2021/07/image004-300x222.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2021/07/image004.jpg" data-orig-size="834,618" data-permalink="https://caa-ins.org/archives/7878/image004-2" decoding="async" height="618" loading="lazy" sizes="(max-width: 834px) 100vw, 834px" src="https://13.124.147.85/wp-content/uploads/2021/07/image004.jpg" srcset="https://caa-ins.org/wp-content/uploads/2021/07/image004.jpg 834w, https://caa-ins.org/wp-content/uploads/2021/07/image004-300x222.jpg 300w, https://caa-ins.org/wp-content/uploads/2021/07/image004-768x569.jpg 768w, https://caa-ins.org/wp-content/uploads/2021/07/image004-810x600.jpg 810w" width="834" />         <figcaption>
+安东尼大瘟疫杀死了罗马四分之一的人口，罗马政府陷入混乱，军队不再是一个可信的威胁，就像今天的美国。
+        </figcaption>
+      </figure>
+    </div>
+    <p class="has-vce-txt-color has-text-color" style="font-size:15px">随着COVID-19新冠疫情的出现，美帝不可避免的崩溃似乎已经确定，然而，任何未来的前景似乎都是封闭的。特朗普和西方控制疫情大流行的失败，关系到的不仅仅是一个古典主义上的帝国的信誉流失，更是一个文化、心理和最终达到生物控制的领域。归根结底，美军的无限暴力威胁对世界上大部分的人来说已经不再可信，就像是罗马军队在罗马崩溃时对世界其他地方来说都是不可信的威胁一样。</p>
+    <div class="wp-block-image">
+      <figure class="aligncenter size-large">
+<img alt="" class="wp-image-7893" data-attachment-id="7893" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="image006" data-large-file="https://caa-ins.org/wp-content/uploads/2021/07/image006-1024x629.png" data-medium-file="https://caa-ins.org/wp-content/uploads/2021/07/image006-300x184.png" data-orig-file="https://caa-ins.org/wp-content/uploads/2021/07/image006.png" data-orig-size="1500,921" data-permalink="https://caa-ins.org/archives/7878/image006-2" decoding="async" height="629" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="https://13.124.147.85/wp-content/uploads/2021/07/image006-1024x629.png" srcset="https://caa-ins.org/wp-content/uploads/2021/07/image006-1024x629.png 1024w, https://caa-ins.org/wp-content/uploads/2021/07/image006-300x184.png 300w, https://caa-ins.org/wp-content/uploads/2021/07/image006-768x472.png 768w, https://caa-ins.org/wp-content/uploads/2021/07/image006-810x497.png 810w, https://caa-ins.org/wp-content/uploads/2021/07/image006-1140x700.png 1140w, https://caa-ins.org/wp-content/uploads/2021/07/image006.png 1500w" width="1024" />         <figcaption>
+美国陆军全球基地图
+        </figcaption>
+      </figure>
+    </div>
+    <p style="font-size:15px">这是一张所有美国陆军基地的地图，显示美国在军事上确实是一个全球性的帝国。然而全球帝国结束后会发生什么，我们可以从罗马之后的事情中学习。就像罗马帝国的物质力量消失了一样， 但权力的原则仍在天主教会中。物质上的控制方法没有了，但生活的形式仍然受到基督教严格的精神控制。罗马帝国灭亡后，精神的帝国仍然存在了一千年，令西方的一切进步面临瘫痪，直到印刷术的出现导致了宗教改革的战争，并最终导致了启蒙运动。</p>
+    <div class="wp-block-image">
+      <figure class="aligncenter size-large">
+<img alt="" class="wp-image-7896" data-attachment-id="7896" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="harryhalpin04" data-large-file="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin04-1024x781.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin04-300x229.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin04.jpg" data-orig-size="1500,1144" data-permalink="https://caa-ins.org/archives/7878/harryhalpin04" decoding="async" height="781" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="https://13.124.147.85/wp-content/uploads/2021/07/harryhalpin04-1024x781.jpg" srcset="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin04-1024x781.jpg 1024w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin04-300x229.jpg 300w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin04-768x586.jpg 768w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin04-810x618.jpg 810w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin04-1140x869.jpg 1140w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin04.jpg 1500w" width="1024" />         <figcaption>
+罗马帝国的物质力量消失了，精神力量的原则成为天主教会。
+        </figcaption>
+      </figure>
+    </div>
+    <p class="has-vce-txt-color has-text-color" style="font-size:15px">我想这里可以做一个对比。因特网（Internet）本身就是一个世界性的工程，一个将世界上所有的网络互联在一起的工程。而如果说美国是与罗马平行的话，那么因特网的协议就是美帝国结束后留下来的教会，所以我们现在看到一种对因特网奇怪的迷恋。不知道为什么，现在因特网被Facebook、Twitter这样的美国媒体平台看成是一种精神控制的工具；或者因特网被视为俄罗斯的工具，通过“假新闻”来支持特朗普；或是人工智能现在被认为是实际上的主宰。这些说法看似荒谬，其中却蕴含着一个隐藏的真相：我们不再通过自由主义个人和民族国家的经典范式来理解因特网，而因特网恰恰是帝国军事崩溃之后心理秩序的保留方式。我想讨论的是帝国如何转化为一种精神力量。</p>
+    <div class="wp-block-image">
+      <figure class="aligncenter size-large">
+<img alt="" class="wp-image-7899" data-attachment-id="7899" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="harryhalpin05" data-large-file="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin05-1024x853.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin05-300x250.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin05.jpg" data-orig-size="1524,1270" data-permalink="https://caa-ins.org/archives/7878/harryhalpin05" decoding="async" height="853" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="https://13.124.147.85/wp-content/uploads/2021/07/harryhalpin05-1024x853.jpg" srcset="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin05-1024x853.jpg 1024w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin05-300x250.jpg 300w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin05-768x640.jpg 768w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin05-810x675.jpg 810w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin05-1140x950.jpg 1140w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin05.jpg 1524w" width="1024" />         <figcaption>
+因特网现在作为一种精神控制的形式主导着美国的媒体和政治叙事。
+        </figcaption>
+      </figure>
+    </div>
+    <p class="has-vce-txt-color has-text-color" style="font-size:15px">我们必须通过MIT的利克莱德（J.C.R.Licklider）的思想回到因特网建立的起源。要了解因特网的哲学基础，我们首先要去了解诺伯特·维纳（Norbert Wiener），也就是1948年《或关于在动物与机器中控制和通信的科学》（《Or Control and Communication in the Animal and the Machine》）的原书作者、控制论思想最初创建者的想法。</p>
+    <p class="has-vce-txt-color has-text-color" style="font-size:15px">控制论的关键概念是整个系统可以达到一种稳态，即通过反馈来抵抗变化，实现内部的稳定状态。其实控制论这个词本身也来自希腊语，来自“κυβερνητική”，意思是“属于治理的东西”。然而，诺伯特·维纳在他的原著中反对把应用控制论作为政府控制人类的方法，他认为人类太不可预测，反馈回路无法理解，用这种方法控制人类既不道德，也不可能奏效。</p>
+    <div class="wp-block-image">
+      <figure class="aligncenter size-large">
+<img alt="" class="wp-image-7902" data-attachment-id="7902" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="harryhalpin06" data-large-file="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin06-1024x755.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin06-300x221.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin06.jpg" data-orig-size="1444,1064" data-permalink="https://caa-ins.org/archives/7878/harryhalpin06" decoding="async" height="755" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="https://13.124.147.85/wp-content/uploads/2021/07/harryhalpin06-1024x755.jpg" srcset="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin06-1024x755.jpg 1024w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin06-300x221.jpg 300w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin06-768x566.jpg 768w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin06-810x597.jpg 810w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin06-1140x840.jpg 1140w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin06.jpg 1444w" width="1024" />         <figcaption>
+控制论一直是关于控制的，然而它的发明者诺伯特·维纳（Norbert Wiener）并不希望看到反馈回路应用于人类控制。
+        </figcaption>
+      </figure>
+    </div>
+    <p class="has-vce-txt-color has-text-color" style="font-size:15px">然而，随着第二次世界大战的结束，欧洲陷入一片废墟，美国的政府官员看到，民主本身相对于法西斯主义已经失去了大部分的吸引力，需要一种新的能够稳定民众的模式来加强民族主义。与维纳的建议相反，大量的人类学家和技术官员提出采用控制论来稳定民众。然而在因特网出现之前，没办法真正地产生社会交流水平的反馈。当Licklider和他在美国政府高级研究计划局（ARPA）的助手Taylor终于把因特网建成了“作为通讯设备的计算机”来使用的时候，控制论才最终被赋予了技术基础。</p>
+    <div class="wp-block-image">
+      <figure class="aligncenter size-large">
+<img alt="" class="wp-image-7903" data-attachment-id="7903" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="harryhalpin07" data-large-file="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin07-1024x906.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin07-300x265.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin07.jpg" data-orig-size="1390,1230" data-permalink="https://caa-ins.org/archives/7878/harryhalpin07" decoding="async" height="906" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="https://13.124.147.85/wp-content/uploads/2021/07/harryhalpin07-1024x906.jpg" srcset="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin07-1024x906.jpg 1024w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin07-300x265.jpg 300w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin07-768x680.jpg 768w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin07-810x717.jpg 810w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin07-1140x1009.jpg 1140w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin07.jpg 1390w" width="1024" />         <figcaption>
+“作为通信设备的计算机”（Licklider和Taylor，1968）使控制论能够控制通信。
+        </figcaption>
+      </figure>
+    </div>
+    <p class="has-vce-txt-color has-text-color" style="font-size:15px">这是JCR Licklider他们书中的原始插图，你能看到大部分都已经成为现实了，还有另外一个正在进行的发展，那就是人工智能的发展。最早的机器学习系统是由奥利弗·塞尔弗里奇（Oliver Selfridge）于1959年提出的一个理论，一开始这是他在1956年由约翰·麦卡锡（John McCarthy）和马文·明斯基（Marvin Lee Minsky）主持的首届人工智能艺术会议（Summer Research Project on Artificial Intelligence）上提出的一个想法。</p>
+    <div class="wp-block-image">
+      <figure class="aligncenter size-large">
+<img alt="" class="wp-image-7904" data-attachment-id="7904" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="harryhalpin08" data-large-file="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin08-1024x818.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin08-300x240.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin08.jpg" data-orig-size="1394,1114" data-permalink="https://caa-ins.org/archives/7878/harryhalpin08" decoding="async" height="818" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="https://13.124.147.85/wp-content/uploads/2021/07/harryhalpin08-1024x818.jpg" srcset="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin08-1024x818.jpg 1024w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin08-300x240.jpg 300w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin08-768x614.jpg 768w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin08-810x647.jpg 810w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin08-1140x911.jpg 1140w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin08.jpg 1394w" width="1024" />         <figcaption>
+1959年Selfridge在他的“万魔殿（Pandemonium）”架构中设想了机器的模式识别。
+        </figcaption>
+      </figure>
+    </div>
+    <p style="font-size:15px">塞尔弗里奇没有提出用大的程序来复制人类的智慧，而是想象出许多被称为“恶魔（demons）”的小程序，每个程序都可以完成非常有限的、定义明确的任务，比如识别输入的某些特征。然后，它可以将这些结果反馈给其他“恶魔”，后者从特征中学习对象，然后再反馈给其他“恶魔”，后者可以做出决定。这个概念的灵感受到了神经科学的影响，即眼睛里的某些细胞如何识别像边缘这样的图案，并将这个结果反馈给更高的层次。这样一来，一个充满“恶魔”小程序的“恶魔之城（city of demons）”就能理解并做出复杂的决策，这导致了人工智能的发展。</p>
+    <div class="wp-block-image">
+      <figure class="aligncenter size-large">
+<img alt="" class="wp-image-7906" data-attachment-id="7906" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="harryhalpin失乐园中的万魔殿" data-large-file="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin失乐园中的万魔殿.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin失乐园中的万魔殿-300x268.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin失乐园中的万魔殿.jpg" data-orig-size="982,878" data-permalink="https://caa-ins.org/archives/7878/harryhalpin%e5%a4%b1%e4%b9%90%e5%9b%ad%e4%b8%ad%e7%9a%84%e4%b8%87%e9%ad%94%e6%ae%bf" decoding="async" height="878" loading="lazy" sizes="(max-width: 982px) 100vw, 982px" src="https://13.124.147.85/wp-content/uploads/2021/07/harryhalpin失乐园中的万魔殿.jpg" srcset="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin失乐园中的万魔殿.jpg 982w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin失乐园中的万魔殿-300x268.jpg 300w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin失乐园中的万魔殿-768x687.jpg 768w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin失乐园中的万魔殿-810x724.jpg 810w" width="982" />         <figcaption>
+《失乐园》中的“万魔殿（pandemonium）”
+        </figcaption>
+      </figure>
+    </div>
+    <p style="font-size:15px">今天，人工智能算法仍然以这种方式运作，用大量的算法来控制数据以一种人类认知上不透明的方式做出决策及架构。随着因特网的普及，越来越多的人类活动都被转化成了比特（bits），这些比特可以输入到人工智能这个新的庞然大物之中，然后利用算法通过控制论反馈来调节和控制整个社会，整个装置由因特网无处不在的渗透来支撑。在这样的系统之下，所有的人类的行为都被转化成了比特，是可以用人工智能去控制人类的。</p>
+    <p class="has-vce-txt-color has-text-color" style="font-size:15px">长期以来，我们的哲学一直都忽视科技的发展，因为理论知识总是忽视实践知识。所以三十年来，哲学一直忽略了因特网，但正是因特网和计算机调解了我们的整个生活，甚至我们个人的生活方式。吉尔·德勒兹（Gilles Deleuze）在生命最后写下了《关于控制社会的后记》（《Postscript on the Societies of Control》），他指出，与福柯所理论的“规训社会”（“disciplinary societies”）相比，在计算机的世界里，我们正在进入“‘控制社会（control societies）’，另一方面，重要的不再是签名或数字，而是代码：代码就是密码。控制的数字语言是由代码组成的，它标志着对信息的访问或拒绝……个人变成了‘个体’，以及集聚、样本、数据、市场或‘银行’。”</p>
+    <div class="wp-block-image">
+      <figure class="aligncenter size-large">
+<img alt="" class="wp-image-7910" data-attachment-id="7910" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="harryhalpin09" data-large-file="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin09.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin09-300x206.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin09.jpg" data-orig-size="932,639" data-permalink="https://caa-ins.org/archives/7878/harryhalpin09" decoding="async" height="639" loading="lazy" sizes="(max-width: 932px) 100vw, 932px" src="https://13.124.147.85/wp-content/uploads/2021/07/harryhalpin09.jpg" srcset="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin09.jpg 932w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin09-300x206.jpg 300w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin09-768x527.jpg 768w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin09-810x555.jpg 810w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin09-145x100.jpg 145w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin09-380x260.jpg 380w" width="932" />         <figcaption>
+在奥斯威辛和广岛之后，控制论允许“西方”在没有指导原则的情况下，通过计算继续前进。
+        </figcaption>
+      </figure>
+    </div>
+    <p class="has-vce-txt-color has-text-color" style="font-size:15px">正如我的导师、久违的朋友贝尔纳·斯蒂格勒（Bernard Stiegler）所写的那样，因特网不是一种单纯的交流形式，而是由于“数字的冲击”而改变了我们“个体化”的过程。这是因为我们的交流成为人工智能的原始输入，人工智能的目标不是帮助我们交流，而是预测我们未来的行为，从而通过反馈来创造一种无法被干扰的治理形式。海德格尔（Martin Heidegger）所说的“计算”成为如此普遍的现象，并获得某种形而上的对未来世界的暂停，这种控制使我们永远无法摆脱计算，因此将任何可能的未来地平线关闭在对过去的重复之中，我们不会有任何可能的未来。所以，正如被遗忘的哲学家、海德格尔最好的学生赖纳·谢尔曼（Reiner Schurman）所说的那样，即使广岛和奥斯维辛的恐怖已经终结了人类个体理性和民族国家的指导原则，即使“西方”没有了形而上的原则，控制论的主体机器也可以使全球社会永远保持在一种稳态的团结形式之中。</p>
+    <div class="wp-block-image">
+      <figure class="aligncenter size-large">
+<img alt="" class="wp-image-7912" data-attachment-id="7912" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="harryhalpin阿甘本" data-large-file="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin阿甘本.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin阿甘本-300x162.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin阿甘本.jpg" data-orig-size="948,512" data-permalink="https://caa-ins.org/archives/7878/harryhalpin%e9%98%bf%e7%94%98%e6%9c%ac" decoding="async" height="512" loading="lazy" sizes="(max-width: 948px) 100vw, 948px" src="https://13.124.147.85/wp-content/uploads/2021/07/harryhalpin阿甘本.jpg" srcset="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin阿甘本.jpg 948w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin阿甘本-300x162.jpg 300w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin阿甘本-768x415.jpg 768w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin阿甘本-810x437.jpg 810w" width="948" />         <figcaption>
+一个基于无所不知的监视的超控制社会，在那里，反抗只会增加控制。——阿甘本
+        </figcaption>
+      </figure>
+    </div>
+    <p style="font-size:15px">在威尼斯的一次研讨会上，我与乔治·阿甘本（Giorgio Agamben）就因特网带来的控制和控制论问题进行了讨论，阿甘本说，社会已经从一种控制的社会转变成一种新的“超控制（hypercontrol）”形式，我们所有的社会生活都被归为数字整体的一部分，要通过监视和反馈来控制。由于COVID-19的出现，现在更是如此，因为就连从政府到大学等原本对数字化最为敌视的部分都已经数字化了，抵抗似乎是不可能的，因为它只会让一切的监控和控制变得更多和更容易。</p>
+    <div class="wp-block-image">
+      <figure class="aligncenter size-large">
+<img alt="" class="wp-image-7914" data-attachment-id="7914" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="harryhalpin修道院" data-large-file="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin修道院.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin修道院-300x222.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin修道院.jpg" data-orig-size="950,704" data-permalink="https://caa-ins.org/archives/7878/harryhalpin%e4%bf%ae%e9%81%93%e9%99%a2" decoding="async" height="704" loading="lazy" sizes="(max-width: 950px) 100vw, 950px" src="https://13.124.147.85/wp-content/uploads/2021/07/harryhalpin修道院.jpg" srcset="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin修道院.jpg 950w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin修道院-300x222.jpg 300w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin修道院-768x569.jpg 768w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin修道院-810x600.jpg 810w" width="950" />         <figcaption>
+在帝国末期，不是罗马最坏的人，而是罗马最优秀的人离开了，躲进了修道院。我们也应该这样做吗？
+        </figcaption>
+      </figure>
+    </div>
+    <p class="has-vce-txt-color has-text-color" style="font-size:15px">阿甘本指出，当瘟疫使罗马帝国走向灭亡时，逃到修道院躲避帝国崩溃的不是那些无用的、有智力缺陷的人，而是罗马培养出来的最优秀、最聪明的人。阿甘本就建议，其实最好的行动方式是干脆就逃离现状，逃离并创造一个没有因特网或电脑的新的社会形态。他在法国“隐形委员会”的学生为此做了一些尝试，他们试图切断手机还有因特网的使用，逃到法国农村的山区，以便在塔尔纳克（Tarnac）的农村公社创造一种新的生活形式。不过他们无法逃脱，因为他们的村庄被突击搜查，政府觉得他们是恐怖主义，因为他们不使用手机和因特网，就以无政府主义的罪名逮捕了他们。</p>
+    <div class="wp-block-image">
+      <figure class="aligncenter size-large">
+<img alt="" class="wp-image-7915" data-attachment-id="7915" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="harryhalpin技术" data-large-file="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin技术.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin技术-300x168.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin技术.jpg" data-orig-size="980,550" data-permalink="https://caa-ins.org/archives/7878/harryhalpin%e6%8a%80%e6%9c%af" decoding="async" height="550" loading="lazy" sizes="(max-width: 980px) 100vw, 980px" src="https://13.124.147.85/wp-content/uploads/2021/07/harryhalpin技术.jpg" srcset="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin技术.jpg 980w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin技术-300x168.jpg 300w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin技术-768x431.jpg 768w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin技术-810x455.jpg 810w" width="980" />         <figcaption>
+技术：一种控制系统，它剥夺了参与者的技术知识，导致一种新形式的“无产阶级的两极分化”： 丧失的不仅是机器的艺术技能，还有我们的认知能力（斯蒂格勒）。 <br /> 技艺：任何扩展人类能力的方法（工具，也包括数字媒体上的扩展记忆），让我们克服了进化中的缺陷。
+        </figcaption>
+      </figure>
+    </div>
+    <p class="has-vce-txt-color has-text-color" style="font-size:15px">但他们的《致我们的朋友》（《To Our Friends》）一书中有一个至关重要的启示：技艺和技术之间是有区别的。技艺是任何能扩展人类能力的方法，所以人类不像其他动物那样有爪子，作为没有爪子的无毛猿人，我们自然而然地用剑、用枪、用衣服、用房子来扩展自己。我们甚至用文字、用数字媒体来扩展我们的记忆。相比之下，技术是一种社会控制体系，它的基础是攫取我们的精神力量，让人类服从于某个更大的系统。所以，简单地停止使用电脑等工具是没有意义的，就像停止写作、停止穿衣服一样没有意义。我们需要的是没有技术限制的新形式的技艺。</p>
+    <p class="has-vce-txt-color has-text-color" style="font-size:15px">斯蒂格勒（Bernard Stiegler）想要重新发明“因特网（Internet）”，因此他与程序员一起工作，以了解因特网并创造新的计算机技术，他希望这将扭转“无产阶级的两极分化（proletarianization）”的过程，这种过程创造了孤立的“个体（dividuals）”，他希望新的计算机技术能代之以新类型的个人，从而形成新的社会形式。斯蒂格勒提出了一个宏大的理论，我们只能简单描述一下：因特网改变了我们彼此之间的交流，它本身也是人类语言范围内的一场革命；由于因特网的控制不是为了人类的发展，而是消费资本主义社会的短期目标，因特网割裂了代际之间的交流、过去和现在的交流，所以关闭了通往未来的视野，让我们进入到了一种网路的状态之中。</p>
+    <p class="has-vce-txt-color has-text-color" style="font-size:15px">斯蒂格勒在去年2月份去世之前跟我进行了最后一次对话，就探索关于区块链科技的潜力，除了用于短期的金融经济利益之外，区块链是否还有其他的方式，是否能带来一种新的去中心化的全球社会。</p>
+    <p class="has-vce-txt-color has-text-color" style="font-size:15px">我认为比特币可以成为一种新的颠覆性技术，可能是一种没有技术也能创造技术的方式，能够颠覆美帝国和硅谷帝国的控制论教会。因为加密无政府主义者基本上相信密码学可以提供保护人类不受控制的方法，加密学能够创造一种全新的世界，基于人类自由的世界。在2008年金融危机结束的时候，中本聪（Satoshi Nakamoto）的作品《比特币：一种点对点的电子现金系统》白皮书的出现，给我们带来了一种全新的、与控制论不同的形而上学的方向。比特币结合了“工作证明”和“数字现金”等技术，这些技术来自于赛博朋克们和加密无政府主义者——上世纪90年代美国的一小群反叛的技术主义者，他们认为密码学可以提供保护人类免受控制的方法，甚至可以实现一个基于自由的无政府主义的新型世界，理由是密码学可以利用数学和技术的力量来构建比任何人类法律都要强大的系统。</p>
+    <div class="wp-block-image">
+      <figure class="aligncenter size-large">
+<img alt="" class="wp-image-7916" data-attachment-id="7916" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="harryhalpin10" data-large-file="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin10.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin10-300x172.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin10.jpg" data-orig-size="908,520" data-permalink="https://caa-ins.org/archives/7878/harryhalpin10" decoding="async" height="520" loading="lazy" sizes="(max-width: 908px) 100vw, 908px" src="https://13.124.147.85/wp-content/uploads/2021/07/harryhalpin10.jpg" srcset="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin10.jpg 908w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin10-300x172.jpg 300w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin10-768x440.jpg 768w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin10-810x464.jpg 810w" width="908" />         <figcaption>
+Mix-nets（混合网络）由David Chaum的《不可追踪的电子邮件、回邮地址和数字假名》（1981年）提出
+        </figcaption>
+      </figure>
+    </div>
+    <p class="has-vce-txt-color has-text-color" style="font-size:15px">比特币这种数字现金只是加密无政府主义愿景的一部分。下一个部分是mixnets（混合网络），这是我在做的事情，我的公司Nym Technologies在开发的一项技术就是mixnet，其目标是通过随机混合数据包和链接信息，这样就没有人能够知道谁和谁在通信，即使是美国国家安全局也没有办法监视。当人工智能算法检测到数据中的模式时，同样的技术也可以反过来对付这些算法，以隐藏数据中的模式。所以，我们看到的是，加密无政府主义者的一个小型的边缘运动，能够采取控制论的工具来对付超控制（hypercontrol），从而创造一个没有控制的新社会。</p>
+    <div class="wp-block-image">
+      <figure class="aligncenter size-large">
+<img alt="" class="wp-image-7917" data-attachment-id="7917" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="harryhalpin-nymmixnet" data-large-file="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin-nymmixnet.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin-nymmixnet-300x167.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin-nymmixnet.jpg" data-orig-size="966,538" data-permalink="https://caa-ins.org/archives/7878/harryhalpin-nymmixnet" decoding="async" height="538" loading="lazy" sizes="(max-width: 966px) 100vw, 966px" src="https://13.124.147.85/wp-content/uploads/2021/07/harryhalpin-nymmixnet.jpg" srcset="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin-nymmixnet.jpg 966w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin-nymmixnet-300x167.jpg 300w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin-nymmixnet-768x428.jpg 768w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin-nymmixnet-810x451.jpg 810w" width="966" />         <figcaption>
+Nym Mixnet
+        </figcaption>
+      </figure>
+    </div>
+    <p class="has-vce-txt-color has-text-color" style="font-size:15px">比特币和mixnets等相关技术提供了一个证明，给我们提供了一些技术上的可能性。尽管加密无政府主义目前没有学术著作，也没有太多学术哲学分析，但加密无政府主义是21世纪唯一真正的新哲学运动，是值得仔细关注的。虽然他们对数字技术如何被用作一种控制形式的警告显然是正确的，但不太明显的是，像斯蒂格勒一样，他们相信技术可以用来对抗控制，开辟而不是阻止（foreclose）未来。</p>
+    <div class="wp-block-image">
+      <figure class="aligncenter size-large">
+<img alt="" class="wp-image-7918" data-attachment-id="7918" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="harryhalpin1" data-large-file="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin1.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin1-300x201.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin1.jpg" data-orig-size="936,626" data-permalink="https://caa-ins.org/archives/7878/harryhalpin1" decoding="async" height="626" loading="lazy" sizes="(max-width: 936px) 100vw, 936px" src="https://13.124.147.85/wp-content/uploads/2021/07/harryhalpin1.jpg" srcset="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin1.jpg 936w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin1-300x201.jpg 300w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin1-768x514.jpg 768w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin1-810x542.jpg 810w" width="936" />         <figcaption>
+在计算机技术领域，支持区块链技术的人和硅谷之间会不会有一场即将到来的内战？加密无政府主义者是新的僧侣吗？
+        </figcaption>
+      </figure>
+    </div>
+    <p class="has-vce-txt-color has-text-color" style="font-size:15px">所以，我相信计算机技术内部会有一场战争，将算法和密码学的权力从硅谷手中夺走，并将它们交到人民手中，就像欧洲教会因宗教改革和启蒙运动而失去对文字和阅读的控制时，最终将面临一场战争一样。与密码朋克一样，基督教会早期的改革者和异端也被视为精神失常和软弱无力的。然而，在欧洲，在一代人的时间里，这些团体将阅读和写作的力量交到了普通人的手中，结束了教会在欧洲的精神统治，并导致了一场殖民主义的工业技术革命，最终引导了计算机的发明。我们是否可以想象一个当代的平行世界，在那里，密码朋克将计算机编程的力量交到了人们的手中？在后殖民主义和现代工业社会中我们是否能做到这一点？这对全球政治意味着什么？</p>
+    <div class="wp-block-image">
+      <figure class="aligncenter size-large">
+<img alt="" class="wp-image-7919" data-attachment-id="7919" data-comments-opened="0" data-image-caption="" data-image-description="" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="harryhalpin密码学" data-large-file="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin密码学.jpg" data-medium-file="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin密码学-300x252.jpg" data-orig-file="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin密码学.jpg" data-orig-size="960,806" data-permalink="https://caa-ins.org/archives/7878/harryhalpin%e5%af%86%e7%a0%81%e5%ad%a6" decoding="async" height="806" loading="lazy" sizes="(max-width: 960px) 100vw, 960px" src="https://13.124.147.85/wp-content/uploads/2021/07/harryhalpin密码学.jpg" srcset="https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin密码学.jpg 960w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin密码学-300x252.jpg 300w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin密码学-768x645.jpg 768w, https://caa-ins.org/wp-content/uploads/2021/07/harryhalpin密码学-810x680.jpg 810w" width="960" />         <figcaption>
+密码学可能是没有指导原则的世界中的一种前进方式，因此是摆脱控制论大混乱/大流行的途径？或一种新的哲学……
+        </figcaption>
+      </figure>
+    </div>
+    <p class="has-vce-txt-color has-text-color" style="font-size:15px">历史上有种奇怪的讽刺，就是某种事物总是盛极而衰，在它最强大的那一刻，就崩溃了。COVID-19大流行所创造的“超控制（hypercontrol）”幻象可能也是如此。就实际情况来说，加密无政府主义者试图通过密码学的枷锁来束缚数字化的企图，可能会提供一个面临崩溃的世界秩序所需要的开放视野，并提供一个去中心化的替代方案的轮廓。在西方的尽头，密码学能否成为一个没有指导原则的世界的前进方向？能否成为摆脱混乱（pandemonium）和瘟疫（pandemic）的出路？事实上，密码学可能是打破人为稳定的唯一途径，创造一个没有控制的、没有任何中心集权指导原则的开放世界，被赖纳·谢尔曼称之为“arche”（弧形）。这将允许无政府状态，一个没有预定原则的世界，每一种文化和每一个人最终都能自己掌握命运的世界。我相信这个世界，在那里我们可以在没有控制的技术形式的基础上创造自己的原则和未来，这就是加密无政府主义的意义。</p>
+    <p class="has-vce-txt-color has-text-color" style="font-size:15px">现在还存在两个问题。第一，由于加密无政府主义是少数人的小众运动，这些密码学的技术能不能为所有人所用，成为他们的革命技术？因为大流行病影响的是所有人，而不仅仅是极少数的高级技术精英。最后，随着美国的衰落，欧洲的衰老，以及全球金融体系的崩溃，美国正处于内战边缘，全球金融体系面临新的危机，欧洲的形而上学也透露出衰老偏执的状态，新的加密无政府主义对人类文明的另一个伟大轴心——中国意味着什么？</p>
+    <p class="has-vce-txt-color has-text-color" style="font-size:15px">这些问题，需要由你们来回答。</p>
+    <figure class="likecoin-embed likecoin-button">
+      <iframe frameborder="0" scrolling="no" src="https://button.like.co/in/embed/inertia/button?type=wp&amp;integration=wordpress_plugin&amp;referrer=https%3A%2F%2Fcaa-ins.org%2Farchives%2F7878" style="height:212px;width: 360px;">
+ 
+      </iframe>
+    </figure>
+    <div class="sharedaddy sd-sharing-enabled">
+      <div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing">
+        <h3 class="sd-title" id="share-this-"> Share this: </h3>
+        <div class="sd-content">
+          <ul>
+            <li class="share-facebook"><a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-7878" href="https://caa-ins.org/archives/7878?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Facebook"> <span> </span> <span class="sharing-screen-reader-text"> Click to share on Facebook (Opens in new window) </span> </a></li>
+            <li class="share-twitter"><a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-7878" href="https://caa-ins.org/archives/7878?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Twitter"> <span> </span> <span class="sharing-screen-reader-text"> Click to share on Twitter (Opens in new window) </span> </a></li>
+            <li class="share-custom share-custom-"><a class="share-custom share-custom- sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/7878?share=custom-1475383198" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on 新浪微博"> <span style="background-image:url(&quot;http://open.weibo.com/favicon.ico&quot;);"> </span> <span class="sharing-screen-reader-text"> Click to share on 新浪微博 (Opens in new window) </span> </a></li>
+            <li class="share-telegram"><a class="share-telegram sd-button share-icon no-text" data-shared="" href="https://caa-ins.org/archives/7878?share=telegram" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Telegram"> <span> </span> <span class="sharing-screen-reader-text"> Click to share on Telegram (Opens in new window) </span> </a></li>
+            <li class="share-end"></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer class="entry-footer">
+    <div class="meta-tags">
+<a href="https://caa-ins.org/archives/tag/harry-halpin" rel="tag"> Harry Halpin </a> <a href="https://caa-ins.org/archives/tag/%e7%bd%91%e7%bb%9c%e7%a4%be%e4%bc%9a%e5%b9%b4%e4%bc%9a" rel="tag"> 网络社会年会 </a>
+    </div>
+  </footer>
+</article>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#网络社会研究所 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-12-19/%E7%AC%AC%E5%8D%81%E5%B1%8A%E7%BD%91%E7%BB%9C%E7%A4%BE%E4%BC%9A%E5%B9%B4%E4%BC%9A-Jack-Stilgoe-%E8%AE%A9%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9B%9E%E5%BD%92%E7%8E%B0%E5%AE%9E/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2015-12-25/%E7%AC%AC%E4%B8%80%E5%B1%8A%E9%BB%91%E5%AE%A2%E6%9D%BE-%E8%90%BD%E5%9C%B0%E6%9D%BE%E4%B8%BB%E9%A2%98%E6%BC%94%E8%AE%B2-%E6%96%87%E5%8C%96%E8%B5%84%E6%96%99%E8%B7%9F%E7%A4%BE%E7%BE%A4%E5%AA%92%E4%BD%93/">最早</a>--</span>
+    
+      <li>
+        <time>2021-09-07</time>
+        <a href="https://nodebe4.github.io/opinion/2021-09-07/%E8%AE%A2%E9%98%85INS%E7%94%B5%E5%AD%90%E6%8A%A5%E5%90%A7/">
+          订阅INS电子报吧！
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-08-12</time>
+        <a href="https://nodebe4.github.io/opinion/2021-08-12/%E7%BA%BF%E4%B8%8A%E8%AF%BE%E7%A8%8B%E6%8A%A5%E5%90%8D-%E5%85%83%E5%AE%87%E5%AE%99%E6%A6%82%E8%AE%BA-%E6%96%B0%E4%B8%96%E7%95%8C%E7%9A%84%E6%B2%89%E6%B5%B8%E4%B8%8E%E5%88%9B%E9%80%A0/">
+          线上课程报名 | 元宇宙概论：新世界的沉浸与创造
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-07-18</time>
+        <a href="https://nodebe4.github.io/opinion/2021-07-18/%E6%8B%9B%E5%8B%9F-%E5%9C%A8%E5%8C%BA%E5%9D%97%E9%93%BE%E5%85%83%E5%AE%87%E5%AE%99%E4%B8%8A%E9%87%8D%E7%8E%B0%E6%B6%88%E5%A4%B1%E7%9A%84%E6%9D%91%E8%90%BD%E4%B8%8E%E6%96%87%E5%8C%96/">
+          招募！| 在区块链元宇宙上重现消失的村落与文化
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-06-02</time>
+        <a href="https://nodebe4.github.io/opinion/2021-06-02/%E5%B8%95%E6%B2%83%E5%B0%94.%E5%8D%A2%E6%99%AE%E5%A1%94%E5%85%8B-%E5%8A%A0%E5%AF%86%E6%97%A0%E6%94%BF%E5%BA%9C%E4%B8%BB%E4%B9%89%E5%8F%8A%E5%85%B1%E4%BA%AB%E7%BB%8F%E6%B5%8E%E5%BD%B1%E5%93%8D%E4%B8%8B%E7%9A%84%E6%9C%AA%E6%9D%A5/">
+          帕沃尔.卢普塔克 | 加密无政府主义及共享经济影响下的未来
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2021-07-19/CUPodcast-76-%E4%B8%80%E5%86%8D%E7%B6%93%E6%AD%B7-PTSD-%E6%82%A3%E8%80%85%E7%9A%84%E5%A4%A7%E8%85%A6/">
+            前一篇：【*CUPodcast】#76 一再經歷：PTSD 患者的大腦
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2021-07-20/N%E8%AE%B0%E6%8A%A5%E9%81%93-%E4%B8%AD%E5%8C%97%E5%AD%A6%E9%99%A2%E8%BD%AC%E8%AE%BE%E9%A3%8E%E6%B3%A2%E7%9A%84%E6%9A%B4%E5%8A%9B%E5%86%B2%E7%AA%81%E5%92%8C-%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/">
+            後一篇：N记报道 | 中北学院转设风波的暴力冲突和“境外势力”
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2021-07-19/CUPodcast-76-%E4%B8%80%E5%86%8D%E7%B6%93%E6%AD%B7-PTSD-%E6%82%A3%E8%80%85%E7%9A%84%E5%A4%A7%E8%85%A6/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2021-07-20/N%E8%AE%B0%E6%8A%A5%E9%81%93-%E4%B8%AD%E5%8C%97%E5%AD%A6%E9%99%A2%E8%BD%AC%E8%AE%BE%E9%A3%8E%E6%B3%A2%E7%9A%84%E6%9A%B4%E5%8A%9B%E5%86%B2%E7%AA%81%E5%92%8C-%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2021-08-12/%E7%BA%BF%E4%B8%8A%E8%AF%BE%E7%A8%8B%E6%8A%A5%E5%90%8D-%E5%85%83%E5%AE%87%E5%AE%99%E6%A6%82%E8%AE%BA-%E6%96%B0%E4%B8%96%E7%95%8C%E7%9A%84%E6%B2%89%E6%B5%B8%E4%B8%8E%E5%88%9B%E9%80%A0/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2021-07-18/%E6%8B%9B%E5%8B%9F-%E5%9C%A8%E5%8C%BA%E5%9D%97%E9%93%BE%E5%85%83%E5%AE%87%E5%AE%99%E4%B8%8A%E9%87%8D%E7%8E%B0%E6%B6%88%E5%A4%B1%E7%9A%84%E6%9D%91%E8%90%BD%E4%B8%8E%E6%96%87%E5%8C%96/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2021-07-19/CUPodcast-76-%E4%B8%80%E5%86%8D%E7%B6%93%E6%AD%B7-PTSD-%E6%82%A3%E8%80%85%E7%9A%84%E5%A4%A7%E8%85%A6/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2021-07-20/N%E8%AE%B0%E6%8A%A5%E9%81%93-%E4%B8%AD%E5%8C%97%E5%AD%A6%E9%99%A2%E8%BD%AC%E8%AE%BE%E9%A3%8E%E6%B3%A2%E7%9A%84%E6%9A%B4%E5%8A%9B%E5%86%B2%E7%AA%81%E5%92%8C-%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<网络社会研究所>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2021-08-12/%E7%BA%BF%E4%B8%8A%E8%AF%BE%E7%A8%8B%E6%8A%A5%E5%90%8D-%E5%85%83%E5%AE%87%E5%AE%99%E6%A6%82%E8%AE%BA-%E6%96%B0%E4%B8%96%E7%95%8C%E7%9A%84%E6%B2%89%E6%B5%B8%E4%B8%8E%E5%88%9B%E9%80%A0/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<网络社会研究所>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2021-07-18/%E6%8B%9B%E5%8B%9F-%E5%9C%A8%E5%8C%BA%E5%9D%97%E9%93%BE%E5%85%83%E5%AE%87%E5%AE%99%E4%B8%8A%E9%87%8D%E7%8E%B0%E6%B6%88%E5%A4%B1%E7%9A%84%E6%9D%91%E8%90%BD%E4%B8%8E%E6%96%87%E5%8C%96/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

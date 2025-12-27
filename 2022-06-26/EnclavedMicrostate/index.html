@@ -1,0 +1,2769 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>EnclavedMicrostate在2022-06-20~2022-06-26的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="EnclavedMicrostate在2022-06-20~2022-06-26的言论" />
+    <meta property="twitter:title" content="EnclavedMicrostate在2022-06-20~2022-06-26的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FChineseTranslation%2Fcomments%2Fvg0rah%2Fplease_help_me_understand_these_markings%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/ChineseTranslation/comments/vg0rah/please_help_me_understand_these_markings/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/ChineseTranslation/comments/vg0rah/please_help_me_understand_these_markings/&text=EnclavedMicrostate在2022-06-20~2022-06-26的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/ChineseTranslation/comments/vg0rah/please_help_me_understand_these_markings/&title=EnclavedMicrostate在2022-06-20~2022-06-26的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/ChineseTranslation/comments/vg0rah/please_help_me_understand_these_markings/&title=EnclavedMicrostate在2022-06-20~2022-06-26的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=EnclavedMicrostate在2022-06-20~2022-06-26的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/ChineseTranslation/comments/vg0rah/please_help_me_understand_these_markings/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/ChineseTranslation/comments/vg0rah/please_help_me_understand_these_markings/&title=EnclavedMicrostate在2022-06-20~2022-06-26的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=EnclavedMicrostate在2022-06-20~2022-06-26的言论&url=https://old.reddit.com/r/ChineseTranslation/comments/vg0rah/please_help_me_understand_these_markings/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>EnclavedMicrostate在2022-06-20~2022-06-26的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-06-26
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: EnclavedMicrostate</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/ChineseTranslation/comments/vg0rah/please_help_me_understand_these_markings/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#549-please-help-me-understand-these-markings-submitted-on-2022-06-20-0159420800" id="markdown-toc-549-please-help-me-understand-these-markings-submitted-on-2022-06-20-0159420800">549: Please help me understand these markings?, submitted on 2022-06-20 01:59:42+08:00.</a></li>
+  <li><a href="#550-what-is-the-oldest-depicted-visions-of-the-future-in-terms-of-literature-and-storieslegends-submitted-on-2022-06-20-1930580800" id="markdown-toc-550-what-is-the-oldest-depicted-visions-of-the-future-in-terms-of-literature-and-storieslegends-submitted-on-2022-06-20-1930580800">550: What is the oldest depicted visions of the future? (in terms of literature and stories/legends), submitted on 2022-06-20 19:30:58+08:00.</a></li>
+  <li><a href="#551-mod-malding-meltdown---weekly-discussion-thread-june-20th-2022-submitted-on-2022-06-20-2316590800" id="markdown-toc-551-mod-malding-meltdown---weekly-discussion-thread-june-20th-2022-submitted-on-2022-06-20-2316590800">551: Mod Malding Meltdown - Weekly Discussion Thread, June 20th, 2022, submitted on 2022-06-20 23:16:59+08:00.</a></li>
+  <li><a href="#552-why-didnt-russia-gain-any-colonies-in-africa-or-east-asia-submitted-on-2022-06-21-1233200800" id="markdown-toc-552-why-didnt-russia-gain-any-colonies-in-africa-or-east-asia-submitted-on-2022-06-21-1233200800">552: Why didn’t Russia gain any colonies in Africa or East Asia?, submitted on 2022-06-21 12:33:20+08:00.</a></li>
+  <li><a href="#553-takane-luis-3d-reveal-discussion-thread-鷹嶺ルイ3d-submitted-on-2022-06-21-1800140800" id="markdown-toc-553-takane-luis-3d-reveal-discussion-thread-鷹嶺ルイ3d-submitted-on-2022-06-21-1800140800">553: Takane Lui🥀’s 3D Reveal Discussion Thread #鷹嶺ルイ3D, submitted on 2022-06-21 18:00:14+08:00.</a></li>
+  <li><a href="#554-was-there-a-politician-that-had-a-heart-attack-minutes-before-signing-a-treaty-post-ww1-or-ww2-submitted-on-2022-06-22-0211300800" id="markdown-toc-554-was-there-a-politician-that-had-a-heart-attack-minutes-before-signing-a-treaty-post-ww1-or-ww2-submitted-on-2022-06-22-0211300800">554: Was there a politician that had a heart attack, minutes before signing a treaty? (post ww1 or ww2), submitted on 2022-06-22 02:11:30+08:00.</a></li>
+  <li><a href="#555-going-to-start-my-masters-in-oxford-at-lincoln-college-any-insights-on-what-life-at-lincoln-looks-like-submitted-on-2022-06-22-0226310800" id="markdown-toc-555-going-to-start-my-masters-in-oxford-at-lincoln-college-any-insights-on-what-life-at-lincoln-looks-like-submitted-on-2022-06-22-0226310800">555: Going to start my Masters in Oxford at Lincoln College. Any insights on what life at Lincoln looks like?, submitted on 2022-06-22 02:26:31+08:00.</a></li>
+  <li><a href="#556-is-deep-frying-cheese-something-people-do-nowadays-submitted-on-2022-06-22-1236340800" id="markdown-toc-556-is-deep-frying-cheese-something-people-do-nowadays-submitted-on-2022-06-22-1236340800">556: Is deep frying cheese something people do nowadays?, submitted on 2022-06-22 12:36:34+08:00.</a></li>
+  <li><a href="#557-i-rode-the-goombus-and-saw-the-gura-lightboxes-today-route-plan-in-comments-submitted-on-2022-06-22-1731440800" id="markdown-toc-557-i-rode-the-goombus-and-saw-the-gura-lightboxes-today-route-plan-in-comments-submitted-on-2022-06-22-1731440800">557: I rode the Goombus and saw the Gura lightboxes today! (Route plan in comments), submitted on 2022-06-22 17:31:44+08:00.</a></li>
+  <li><a href="#ocean-park-mtr-station-lightboxes-reflect" id="markdown-toc-ocean-park-mtr-station-lightboxes-reflect">Ocean Park MTR station lightboxes (Reflect)</a></li>
+  <li><a href="#tsing-yi-mtr-station-lightbox-victoria-harbour-scene" id="markdown-toc-tsing-yi-mtr-station-lightbox-victoria-harbour-scene">Tsing Yi MTR station lightbox (Victoria Harbour scene)</a></li>
+  <li><a href="#the-bus" id="markdown-toc-the-bus">The Bus</a></li>
+  <li><a href="#my-route-plan" id="markdown-toc-my-route-plan">My Route Plan</a></li>
+  <li><a href="#thought-experiment-the-most-efficient-route-plan" id="markdown-toc-thought-experiment-the-most-efficient-route-plan">Thought Experiment: The Most Efficient Route Plan</a>    <ul>
+      <li><a href="#558-short-answers-to-simple-questions--june-22-2022-submitted-on-2022-06-22-2100090800" id="markdown-toc-558-short-answers-to-simple-questions--june-22-2022-submitted-on-2022-06-22-2100090800">558: Short Answers to Simple Questions | June 22, 2022, submitted on 2022-06-22 21:00:09+08:00.</a></li>
+      <li><a href="#559-one-of-the-most-profound-anti-semitic-allegation-is-the-relationship-between-the-jew-and-money-even-marx-rather-vehemently-mentions-this-in-his-on-the-jewish-question---what-is-his-secular-god-money-submitted-on-2022-06-22-2222480800" id="markdown-toc-559-one-of-the-most-profound-anti-semitic-allegation-is-the-relationship-between-the-jew-and-money-even-marx-rather-vehemently-mentions-this-in-his-on-the-jewish-question---what-is-his-secular-god-money-submitted-on-2022-06-22-2222480800">559: One of the most profound anti-Semitic allegation is the relationship between the Jew and money. Even Marx, rather vehemently mentions this in his ‘On the Jewish Question’- “ What is his secular god? Money…”., submitted on 2022-06-22 22:22:48+08:00.</a></li>
+      <li><a href="#560-who-created-legion-submitted-on-2022-06-22-2228500800" id="markdown-toc-560-who-created-legion-submitted-on-2022-06-22-2228500800">560: who created legion?, submitted on 2022-06-22 22:28:50+08:00.</a></li>
+      <li><a href="#561-what-historicalgeographicaldemographic-reasons-are-there-for-why-most-unifications-of-china-came-from-dynasties-that-started-north-of-the-yangtze-vs-south-of-the-yangtze-submitted-on-2022-06-23-0301040800" id="markdown-toc-561-what-historicalgeographicaldemographic-reasons-are-there-for-why-most-unifications-of-china-came-from-dynasties-that-started-north-of-the-yangtze-vs-south-of-the-yangtze-submitted-on-2022-06-23-0301040800">561: what historical/geographical/demographic reasons are there for why most unifications of china came from dynasties that started north of the yangtze vs south of the yangtze?, submitted on 2022-06-23 03:01:04+08:00.</a></li>
+      <li><a href="#562-few-chinese-caravanstravelling-traders-made-in-through-the-parthian-empire-so-how-would-that-be-done-did-they-sell-everything-they-had-at-the-nearest-parthian-city-and-the-parthians-would-later-sell-it-themselves-was-it-a-common-practice-to-to-not-allow-traders-past-a-certain-point-elsewhere-submitted-on-2022-06-23-2106030800" id="markdown-toc-562-few-chinese-caravanstravelling-traders-made-in-through-the-parthian-empire-so-how-would-that-be-done-did-they-sell-everything-they-had-at-the-nearest-parthian-city-and-the-parthians-would-later-sell-it-themselves-was-it-a-common-practice-to-to-not-allow-traders-past-a-certain-point-elsewhere-submitted-on-2022-06-23-2106030800">562: Few Chinese caravans/travelling traders made in through the Parthian Empire, so how would that be done? Did they sell everything they had at the nearest Parthian city and the Parthians would later sell it themselves? Was it a common practice to to not allow traders past a certain point elsewhere?, submitted on 2022-06-23 21:06:03+08:00.</a></li>
+      <li><a href="#563-star-treks-entire-spirit-in-a-single-scene-how-a-much-maligned-entry-has-one-moment-that-captures-all-of-star-trek-submitted-on-2022-06-24-0113530800" id="markdown-toc-563-star-treks-entire-spirit-in-a-single-scene-how-a-much-maligned-entry-has-one-moment-that-captures-all-of-star-trek-submitted-on-2022-06-24-0113530800">563: Star Trek’s Entire Spirit in a Single Scene: How a Much-Maligned Entry has One Moment that Captures All of Star Trek, submitted on 2022-06-24 01:13:53+08:00.</a></li>
+      <li><a href="#564-khorone-recolor-from-the-official-sonic-korone-outfit-submitted-on-2022-06-24-0116500800" id="markdown-toc-564-khorone-recolor-from-the-official-sonic-korone-outfit-submitted-on-2022-06-24-0116500800">564: Khorone (Recolor from the official Sonic Korone outfit), submitted on 2022-06-24 01:16:50+08:00.</a></li>
+      <li><a href="#565-camille-desmoulins-started-the-french-revolution-in-a-café-what-other-significant-historical-events-began-at-a-coffee-house-submitted-on-2022-06-24-0914320800" id="markdown-toc-565-camille-desmoulins-started-the-french-revolution-in-a-café-what-other-significant-historical-events-began-at-a-coffee-house-submitted-on-2022-06-24-0914320800">565: Camille Desmoulins “started” the French Revolution in a café. What other significant historical events began at a coffee house?, submitted on 2022-06-24 09:14:32+08:00.</a></li>
+      <li><a href="#566-thats-uhhh-an-interesting-way-to-put-it-submitted-on-2022-06-24-1133020800" id="markdown-toc-566-thats-uhhh-an-interesting-way-to-put-it-submitted-on-2022-06-24-1133020800">566: That’s…. uhhh… an interesting way to put it, submitted on 2022-06-24 11:33:02+08:00.</a></li>
+      <li><a href="#567-in-modern-greek-β-is-pronounced-the-way-we-pronounce-v-when-did-it-change-submitted-on-2022-06-24-1321210800" id="markdown-toc-567-in-modern-greek-β-is-pronounced-the-way-we-pronounce-v-when-did-it-change-submitted-on-2022-06-24-1321210800">567: In modern Greek, β is pronounced the way we pronounce V. When did it change?, submitted on 2022-06-24 13:21:21+08:00.</a></li>
+      <li><a href="#568-if-the-holocaust-wouldnt-have-happened-and-germany-still-lost-the-war-would-the-allies-still-have-banned-the-nazi-party-how-knowledgeable-were-the-allies-on-germanys-racial-policies-submitted-on-2022-06-24-1451100800" id="markdown-toc-568-if-the-holocaust-wouldnt-have-happened-and-germany-still-lost-the-war-would-the-allies-still-have-banned-the-nazi-party-how-knowledgeable-were-the-allies-on-germanys-racial-policies-submitted-on-2022-06-24-1451100800">568: If the Holocaust wouldn’t have happened and Germany still lost the war, would the Allies still have banned the Nazi party? How knowledgeable were the Allies on Germany’s racial policies?, submitted on 2022-06-24 14:51:10+08:00.</a></li>
+      <li><a href="#569-what-are-the-historical-discoveries-recently-that-we-have-benefited-from-in-the-modern-days-submitted-on-2022-06-24-1522430800" id="markdown-toc-569-what-are-the-historical-discoveries-recently-that-we-have-benefited-from-in-the-modern-days-submitted-on-2022-06-24-1522430800">569: What are the historical discoveries recently that we have benefited from in the modern days?, submitted on 2022-06-24 15:22:43+08:00.</a></li>
+      <li><a href="#570-if-we-were-to-count-the-average-african-americans-lineage-through-immigrant-generations-how-many-would-it-be-submitted-on-2022-06-24-1540550800" id="markdown-toc-570-if-we-were-to-count-the-average-african-americans-lineage-through-immigrant-generations-how-many-would-it-be-submitted-on-2022-06-24-1540550800">570: If we were to count the average African-American’s lineage through “immigrant generations”, how many would it be?, submitted on 2022-06-24 15:40:55+08:00.</a></li>
+      <li><a href="#571-what-are-some-definitive-general-histories-of-france-from-the-franco-prussian-war-to-world-war-one-submitted-on-2022-06-24-2110270800" id="markdown-toc-571-what-are-some-definitive-general-histories-of-france-from-the-franco-prussian-war-to-world-war-one-submitted-on-2022-06-24-2110270800">571: What are some definitive general histories of France from the Franco-Prussian War to World War One?, submitted on 2022-06-24 21:10:27+08:00.</a></li>
+      <li><a href="#572-fauna-just-confirmed-she-snuck-away-to-join-the-off-collab-at-ames-submitted-on-2022-06-25-0608510800" id="markdown-toc-572-fauna-just-confirmed-she-snuck-away-to-join-the-off-collab-at-ames-submitted-on-2022-06-25-0608510800">572: Fauna just confirmed she snuck away to join the off collab at Ames!, submitted on 2022-06-25 06:08:51+08:00.</a></li>
+      <li><a href="#573-castles-in-the-sky---a-wargame-of-flying-battleships---is-out-from-osprey-publishing-submitted-on-2022-06-25-0902140800" id="markdown-toc-573-castles-in-the-sky---a-wargame-of-flying-battleships---is-out-from-osprey-publishing-submitted-on-2022-06-25-0902140800">573: Castles in the Sky - A Wargame of Flying Battleships - is out from Osprey Publishing, submitted on 2022-06-25 09:02:14+08:00.</a></li>
+      <li><a href="#574-could-georgy-zhukov-become-the-leader-of-the-ussr-and-if-so-how-would-the-ussr-and-soviet-satellite-states-change-or-the-likleyhood-of-them-changing-submitted-on-2022-06-25-1215300800" id="markdown-toc-574-could-georgy-zhukov-become-the-leader-of-the-ussr-and-if-so-how-would-the-ussr-and-soviet-satellite-states-change-or-the-likleyhood-of-them-changing-submitted-on-2022-06-25-1215300800">574: Could Georgy Zhukov become the leader of the USSR, and if so. How would the USSR and Soviet satellite states change? (Or the likleyhood of them changing), submitted on 2022-06-25 12:15:30+08:00.</a></li>
+      <li><a href="#575-what-is-the-nationality-of-a-person-born-in-a-territory-earlier-belonging-to-another-country-submitted-on-2022-06-25-1235240800" id="markdown-toc-575-what-is-the-nationality-of-a-person-born-in-a-territory-earlier-belonging-to-another-country-submitted-on-2022-06-25-1235240800">575: What is the nationality of a person born in a territory earlier belonging to another country?, submitted on 2022-06-25 12:35:24+08:00.</a></li>
+      <li><a href="#576-can-somebody-recommend-books-about-early-moden-chinese-history-submitted-on-2022-06-26-0438560800" id="markdown-toc-576-can-somebody-recommend-books-about-early-moden-chinese-history-submitted-on-2022-06-26-0438560800">576: can somebody recommend books about early moden Chinese History?, submitted on 2022-06-26 04:38:56+08:00.</a></li>
+      <li><a href="#ming" id="markdown-toc-ming">Ming</a></li>
+      <li><a href="#early-mid-qing" id="markdown-toc-early-mid-qing">Early-mid Qing</a></li>
+      <li><a href="#late-qing" id="markdown-toc-late-qing">Late Qing</a></li>
+      <li><a href="#577-professor-joanna-waley-cohen-on-new-qing-history-submitted-on-2022-06-26-0606210800" id="markdown-toc-577-professor-joanna-waley-cohen-on-new-qing-history-submitted-on-2022-06-26-0606210800">577: Professor Joanna Waley-Cohen on New Qing History, submitted on 2022-06-26 06:06:21+08:00.</a></li>
+      <li><a href="#578-hobby-scuffles-week-of-june-27-2022-submitted-on-2022-06-26-2300130800" id="markdown-toc-578-hobby-scuffles-week-of-june-27-2022-submitted-on-2022-06-26-2300130800">578: [Hobby Scuffles] Week of June 27, 2022, submitted on 2022-06-26 23:00:13+08:00.</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="549-please-help-me-understand-these-markings-submitted-on-2022-06-20-0159420800">549: <a href="https://old.reddit.com/r/ChineseTranslation/comments/vg0rah/please_help_me_understand_these_markings/">Please help me understand these markings?</a>, submitted on 2022-06-20 01:59:42+08:00.</h3>
+
+<p>—– <strong>549.1</strong> —–2022-06-20 11:20:21+08:00:</p>
+
+<p>At first I worried it’d be slightly esoteric, but nope, not quite! The ‘Made in Hong Kong’ was a helpful early giveaway.</p>
+
+<p>Stamp 1: 油麻地 Yau Ma Tei, a residential area in Kowloon</p>
+
+<p>Stamp 2: 上海街 Shanghai Street</p>
+
+<p>Stamp 3: 三壹[六] 3 1 6</p>
+
+<p>Stamp 4: 陳枝記 Chan Chi Kee</p>
+
+<p>Stamp 5: 銳利 sharp</p>
+
+<p>Stamp 6: 電話 Phone [number]</p>
+
+<p>To put it simply, this is the address and phone number of the Chan Chi Kee Cutlery Company, plus a stamp guaranteeing sharpness.</p>
+
+<p>—– <strong>549.2</strong> —–2022-06-20 14:32:28+08:00:</p>
+
+<p>No idea; there’s nothing obvious to suggest it and the shop is still around at that address, so it can’t be dated by that.</p>
+
+<p>—– <strong>549.3</strong> —–2022-06-20 15:29:50+08:00:</p>
+
+<p>Seems like a reasonable enough supposition.</p>
+
+<h3 id="550-what-is-the-oldest-depicted-visions-of-the-future-in-terms-of-literature-and-storieslegends-submitted-on-2022-06-20-1930580800">550: <a href="https://old.reddit.com/r/AskHistorians/comments/vgjbmp/what_is_the_oldest_depicted_visions_of_the_future/">What is the oldest depicted visions of the future? (in terms of literature and stories/legends)</a>, submitted on 2022-06-20 19:30:58+08:00.</h3>
+
+<p>—– <strong>550.1</strong> —–2022-06-20 20:21:24+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="551-mod-malding-meltdown---weekly-discussion-thread-june-20th-2022-submitted-on-2022-06-20-2316590800">551: <a href="https://old.reddit.com/r/VirtualYoutubers/comments/vgntw5/mod_malding_meltdown_weekly_discussion_thread/">Mod Malding Meltdown - Weekly Discussion Thread, June 20th, 2022</a>, submitted on 2022-06-20 23:16:59+08:00.</h3>
+
+<p>—– <strong>551.1</strong> —–2022-06-21 20:36:55+08:00:</p>
+
+<p>Recorded content means either being or hiring an editor, and as someone who edits podcasts (i.e. <em>just</em> audio) as an amateur, boy is editing time-consuming. On top of that, depending on what kind of content you’re making, edited videos may not offer that much of an advantage and in fact even have drawbacks. Gameplay for instance is more conducive to interaction with an audience.</p>
+
+<p>—– <strong>551.2</strong> —–2022-06-21 20:41:25+08:00:</p>
+
+<p>Pretty sure Kronii, Mumei and Fauna have only met two each of Myth and Council (besides themselves)</p>
+
+<p>—– <strong>551.3</strong> —–2022-06-22 19:55:24+08:00:</p>
+
+<blockquote>
+  <p>similarly to how most Western streamers’ organizations are currently running</p>
+</blockquote>
+
+<p>Not necessarily. I had a look at the 5 mid-sized EN agencies back when there were still 5 mid-sized agencies and Tsunderia and Cyberlive hadn’t yet reorganised, and only Tsunderia and Phase-Connect had any members (and even then, only two each) who had previously been either independent or at another agency. VShojo being majority ex-indie is relatively unusual for a larger EN agency.</p>
+
+<p>—– <strong>551.4</strong> —–2022-06-22 19:59:14+08:00:</p>
+
+<p>Well, more pedantically, she said ‘we will be with Calli soon’. And that, uh, could go in either direction…</p>
+
+<p>—– <strong>551.5</strong> —–2022-06-23 06:12:58+08:00:</p>
+
+<p>AFAIK they haven’t said how long she’d be in the US for.</p>
+
+<p>—– <strong>551.6</strong> —–2022-06-24 16:07:10+08:00:</p>
+
+<p>She’s mentioned trying to set up a ‘second base’ in the US for a while and if I’m not mistaken there was one stream where she mentioned her mum had been helping her set it up while she was in Japan.</p>
+
+<p>—– <strong>551.7</strong> —–2022-06-25 20:07:26+08:00:</p>
+
+<p>It’s honestly not too unusual for agencies at this point. Cyberlive for instance essentially dissolved and exists mostly as a loose network for its now-indie talents. And actually, upd8 let its talents retain their avatars after dissolving (which in a sense makes what happened with Nobuhime all the more tragic.)</p>
+
+<p>—– <strong>551.8</strong> —–2022-06-25 22:36:43+08:00:</p>
+
+<p>I could have sworn there was at least one talent besides Nobuhime that was ‘in-house’ but on checking I think you’re right. I think in general though that agencies that shutter will relinquish their IP control? F.ex. Amaryllis’ members (at least those that kept going) kept their IPs.</p>
+
+<p>—– <strong>551.9</strong> —–2022-06-26 11:48:56+08:00:</p>
+
+<p>Given all the shit that went down with Nobuhime I’m now beginning to think that’s become a distinction without a difference, as it seems like upd8 was acting like it owned her whether or not she was originally indie.</p>
+
+<h3 id="552-why-didnt-russia-gain-any-colonies-in-africa-or-east-asia-submitted-on-2022-06-21-1233200800">552: <a href="https://old.reddit.com/r/AskHistorians/comments/vh4swk/why_didnt_russia_gain_any_colonies_in_africa_or/">Why didn’t Russia gain any colonies in Africa or East Asia?</a>, submitted on 2022-06-21 12:33:20+08:00.</h3>
+
+<p>—– <strong>552.1</strong> —–2022-06-21 17:05:57+08:00:</p>
+
+<p>The premises of this question are half-right. Russia isn’t normally my specialism although I happen to be read up on a few relevant areas so I’ll give this question the best stab I can.</p>
+
+<p>###Africa</p>
+
+<p>There was actually an attempt by Cossack adventurers to establish a Russian presence in or near Ethiopia, ostensibly to assist the ‘Orthodox’ Ethiopian Empire against British and Italian predations. In January 1889, Nikolai Ivanovich Ashinov led a band of just over 160 men, women, and children in seizing the fortified village of Sagallo on the coast of Djibouti, which was rather ostentatiously renamed New Moscow. Ashinov had been a wanted criminal in Russia and his involvement in the region was never formally sanctioned by the Russian government (though it received considerable support from several officials acting on personal initiative), which latterly disavowed any connection with his expedition, and within less than a month of its establishment the Cossack colony was assaulted and dispersed by the French navy.</p>
+
+<p>The Russian government’s relative disinterest in the African continent was, all told, quite comprehensible. For one, most of its geopolitical interests simply lay elsewhere, but for another, the logistics of trying to establish an African empire from Russia would have been quite problematic. Now, it’s not as though the Russian Empire had no maritime presence, as it did after all have four coastlines: the Arctic, the Baltic, the Black Sea, and the Pacific. But to get to Africa from any of these would have been a bit of a problem.</p>
+
+<ul>
+  <li>
+    <p>The Arctic is pretty obvious.</p>
+  </li>
+  <li>
+    <p>Getting out from the Baltic would have meant sailing through the Danish Straits and/or the Kiel Canal, and then either the North Sea or the English Channel. That meant that Russia would have to be on at least terms with Britain and also either Denmark or Prussia/Germany to sustain a maritime link between Africa and its Baltic ports such as St Petersburg and Riga. Moreover, Russia’s naval power in the Baltic had been curtailed by the 1856 Treaty of Paris at the end of the Crimean War, which demilitarised the Åland Islands.</p>
+  </li>
+  <li>
+    <p>Getting out from the Black Sea meant sailing through the Bosporus and Dardanelles, i.e. past the Ottomans, whose territorial integrity had also been guaranteed by Britain and France. Moreover, the Treaty of Paris had mandated the demilitarisation of the Black Sea and Russia would not begin rebuilding its naval presence there until after the conclusion of the 1877-8 Russo-Turkish War, and even with that remilitarisation Russia was still bound by the 1841 London Straits Convention which prohibited the movement of non-Ottoman warships through the Turkish Straits. Even if you could send a civilian ship out via the Straits, its options out of the Mediterranean were either via the Strait of Gibraltar (which meant sailing past Italian, French, and British territory) or the Suez Canal (owned originally by France and latterly by Britain). So, as with the Baltic, you had to be on decently friendly terms with a number of major, potentially rival powers to keep your sea lanes open.</p>
+  </li>
+  <li>
+    <p>The Pacific at least was a decently plausible option, but there were some obvious limitations. Russia did not have a blue-water port until the establishment of Vladivostok in 1860, with previous bases such as Petropavlovsk and Nikolaevsk being white-water (that is, they were iced in for several months of the year). White-water ports, simply put, are substantially limited by those climactic conditions. But while the Russians did eventually gain year-round maritime access to the Pacific thanks to Vladivostok, the extent to which goods and people could be moved to and from the region from European Russia was, for a good while, quite limited, thanks to the absence of a railway. The Trans-Siberian Railway, which would eventually provide that link, would not even begin construction until 1891, and would only be complete by 1904.</p>
+  </li>
+</ul>
+
+<p>In effect, even if Russia did have ambitions in Africa, there was simply no practicable way of realising them from a simple logistical standpoint. But also, and I would argue this may be more important: why go overseas for empire when you could just look out over your land borders?</p>
+
+<p>###East Asia</p>
+
+<p>To put it bluntly, Russian expansion in East Asia most certainly did happen, especially if we include Manchuria in that definition. Russia exploited Qing weakness during the Arrow War (1856-60) against Britain and France, itself a result of Qing military weakness resulting from the ongoing Taiping War (1851-64) against domestic rebels, to expand its territory in Siberia to regions that had been officially within Qing borders since the Treaty of Nerchinsk in 1689. The Nerchinsk treaty had affirmed Qing control of the entire Amur watershed, although actual Manchu rule in the region was relatively weak if it was apparent at all beyond a series of border markers – indeed, Nikolaevsk would be founded in Qing territory in 1850. The 1858 Treaty of Aigun, which preceded the signing of the Treaty of Tientsin with Britain and France, saw the Russians gain control of all formerly Qing territory north of the Amur, and the subsequent Convention of Peking also saw Russia gain control of the land east of the Ussuri, with an additional border drawn south of Lake Khanka, giving Russia a small border with the Korean Joseon kingdom as well as its long-desired blue-water port at Vladivostok, formerly the Manchu town of Haišenwai.</p>
+
+<p>While Russian territorial control lay mostly beyond the Amur and Ussuri, there was an expansion of Russian influence in the Manchurian interior as well, especially in the wake of the establishment of a naval base at Port Arthur in 1898 (on which <a href="https://www.reddit.com/r/AskHistorians/comments/d4qf6n/what_leverage_did_the_british_have_in_getting_the/f0hrjzd/">more in this answer</a>). Russia’s position in the region would be leveraged following the First Sino-Japanese War in 1894-5, when it issued a diplomatic protest to Japan along with France and Germany in what was known as the ‘Triple Intervention’ to limit Japanese gains, and it would also gain a hand in Korea thanks to the Russian embassy becoming a refuge for King Gojong from both pro-Qing and pro-Japanese factions. Gojong’s declaration of the Korean Empire in 1897 (on which <a href="https://www.reddit.com/r/AskHistorians/comments/l8q6jd/korea_changed_their_official_name_to_taehan/glgr874/">more in this answer</a>) was undertaken on the implicit understanding of Russian support. And, in 1900, it would be Russia that dispatched the largest intervention force during the Boxer Uprising, launching a major invasion of Manchuria with around 100,000 troops, only a portion of which were withdrawn following the signing of the Boxer Protocol. In the wake of this, an extension of the Trans-Siberian Railway, known as the Chinese Eastern Railroad, would be established across Manchuria in 1903 as a shortcut to the Trans-Siberian route that followed the Russio-Qing border, and garrisoned by the Russian forces left over after the 1900 intervention.</p>
+
+<p>Russia’s long-term interests in the Pacific would be somewhat curtailed thanks to its utter defeat in the Russo-Japanese War of 1904-5, but although Russia lost its lease on Port Arthur, its Manchurian railway concessions, and its protectorship over Korea, it did still retain the main part of its Pacific coastline, which, when the Russian Empire became the Soviet Union, served critical strategic purposes in both the Second World War and the Cold War. The existence of Russian imperial territory in East Asia isn’t just a ‘was’, it’s an ‘is’. The bulk of those imperial holdings still exist as part of the modern-day Russian Federation.</p>
+
+<p>###Other Imperial Expansions</p>
+
+<p>I think it’s worth adding a little coda here by pointing out that we tend to conceive of imperialism as a maritime endeavour when it really isn’t. Imperialism is about control of <em>land</em>, and the fact that our colloquial images of colonial and imperial powers happen to be ones whose land holdings were separated by water is arguably just coincidence. Russia’s imperial expansion in the latter half of the nineteenth century was considerable, and extended across multiple regions. The most territorially substantial was its conquest of Central Asia from the 1850s to the 1880s, but there were also considerable operations against the Ottoman Empire and Iran. These conquests saw Russia extend its control over Dagestan, Chechnya, Georgia, Armenia, and Azerbaijan, just to name the most substantial of the Caucasian polities, and Russia would also force the Ottoman Empire to cede independence to Romania, Serbia, Montenegro, and Bulgaria. That Russia’s expansion was over contiguous landmass doesn’t make it any less of an imperial power, and ultimately the aims and modes of that imperialism were entirely analogous to those of other imperial powers: presumptions of racial and/or civilisational superiority mixed with pragmatic desires for natural resources and strategic territory.</p>
+
+<h3 id="553-takane-luis-3d-reveal-discussion-thread-鷹嶺ルイ3d-submitted-on-2022-06-21-1800140800">553: <a href="https://old.reddit.com/r/Hololive/comments/vh9quu/takane_luis_3d_reveal_discussion_thread_鷹嶺ルイ3d/">Takane Lui🥀’s 3D Reveal Discussion Thread #鷹嶺ルイ3D</a>, submitted on 2022-06-21 18:00:14+08:00.</h3>
+
+<p>—– <strong>553.1</strong> —–2022-06-21 19:04:01+08:00:</p>
+
+<p>Riot double-averted.</p>
+
+<h3 id="554-was-there-a-politician-that-had-a-heart-attack-minutes-before-signing-a-treaty-post-ww1-or-ww2-submitted-on-2022-06-22-0211300800">554: <a href="https://old.reddit.com/r/AskHistorians/comments/vhjm56/was_there_a_politician_that_had_a_heart_attack/">Was there a politician that had a heart attack, minutes before signing a treaty? (post ww1 or ww2)</a>, submitted on 2022-06-22 02:11:30+08:00.</h3>
+
+<p>—– <strong>554.1</strong> —–2022-06-22 02:33:39+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="555-going-to-start-my-masters-in-oxford-at-lincoln-college-any-insights-on-what-life-at-lincoln-looks-like-submitted-on-2022-06-22-0226310800">555: <a href="https://old.reddit.com/r/oxforduni/comments/vhjyjo/going_to_start_my_masters_in_oxford_at_lincoln/">Going to start my Masters in Oxford at Lincoln College. Any insights on what life at Lincoln looks like?</a>, submitted on 2022-06-22 02:26:31+08:00.</h3>
+
+<p>—– <strong>555.1</strong> —–2022-06-22 11:24:00+08:00:</p>
+
+<p>Former Lincoln undergraduate here, soon to be Masters student at Mansfield: don’t worry about it, in short. Lincoln’s a very tight-knit community but even as an undergraduate it’s very much your own preference as to how much you do at your ‘own’ college vs other communities like sports teams or clubs or just impromptu friend groups.</p>
+
+<h3 id="556-is-deep-frying-cheese-something-people-do-nowadays-submitted-on-2022-06-22-1236340800">556: <a href="https://old.reddit.com/r/StupidFood/comments/vhwlhi/is_deep_frying_cheese_something_people_do_nowadays/">Is deep frying cheese something people do nowadays?</a>, submitted on 2022-06-22 12:36:34+08:00.</h3>
+
+<p>—– <strong>556.1</strong> —–2022-06-22 20:18:48+08:00:</p>
+
+<p>Czech <a href="https://en.wikipedia.org/wiki/Sma%C5%BEen%C3%BD_s%C3%BDr">Smažený sýr</a> (made with Edam, Hermelin, or Emmental), Italian <a href="https://en.wikipedia.org/wiki/Carrozza_(sandwich\)">Carrozza</a> (mozzarella), Swiss <a href="https://en.wikipedia.org/wiki/Malakoff_(food\)">Malakoff</a> (typically Gruyère), and Dutch <a href="https://en.wikipedia.org/wiki/Kaassouffl%C3%A9">Kaassoufflé</a> (typically Gouda) just to name a few examples of fried cheese dishes that have been around for a good while.</p>
+
+<h3 id="557-i-rode-the-goombus-and-saw-the-gura-lightboxes-today-route-plan-in-comments-submitted-on-2022-06-22-1731440800">557: <a href="https://old.reddit.com/r/Hololive/comments/vi16tj/i_rode_the_goombus_and_saw_the_gura_lightboxes/">I rode the Goombus and saw the Gura lightboxes today! (Route plan in comments)</a>, submitted on 2022-06-22 17:31:44+08:00.</h3>
+
+<p>—– <strong>557.1</strong> —–2022-06-22 18:04:13+08:00:</p>
+
+<p>So a few notes because the Twitter account for the project doesn’t seem to have included as much detail as some past promotions:</p>
+
+<h3 id="ocean-park-mtr-station-lightboxes-reflect">Ocean Park MTR station lightboxes (Reflect)</h3>
+
+<p>These are <strong>inside the paid area of the station</strong>, so you can get off the train, have a look/take photos, and get on another train without having to pay the fare for getting off at Ocean Park.</p>
+
+<h3 id="tsing-yi-mtr-station-lightbox-victoria-harbour-scene">Tsing Yi MTR station lightbox (Victoria Harbour scene)</h3>
+
+<p>This is <strong>outside</strong> the paid area, near exit 1A, so you will have to pay the fare for getting off at Tsing Yi Station.</p>
+
+<h3 id="the-bus">The Bus</h3>
+
+<p>So, the actual bus is on <strong>Route 11D</strong> from Lok Fu to Kwun Tong Ferry Pier, <em>not</em> Route 1A as per the promotional images. The trip between the two lasts around 35 minutes depending on traffic and buses depart every 20 minutes, so as a general rule the bus will depart one terminus either 40 or 60 minutes after it departed the previous one, depending on if there’s another bus to serve as a buffer. The AcrossBus tracker is entirely volunteer-run, so you may have to do some estimating based on the last known location. Also, because both terminuses are basically also on the same MTR line you might be able to outrun the bus by taking a train if you miss it at either one, but uh, don’t quote me on that – bear in mind that Kwun Tong Ferry Pier is about 1km from the station, so uh, walk fast.</p>
+
+<h2 id="my-route-plan">My Route Plan</h2>
+
+<p><a href="https://imgur.com/ssZ49G0">Map</a></p>
+
+<p>I needed to be on Ap Lei Chau this morning so that was fortunate in that it meant I’d pass through Ocean Park station anyway. From there I went to Tsing Yi by MTR, got out to take a snap of the lightbox there, then took the MTR to Lok Fu and got on the Goombus to Kwun Tong Ferry Pier and made my way home from there. For a more detailed breakdown, it went:</p>
+
+<ol>
+  <li>
+    <p>South Horizons –[South Island Line]–&gt; Ocean Park (Reflect lightboxes)</p>
+  </li>
+  <li>
+    <p>Ocean Park –[South Island Line]–&gt; Admiralty</p>
+  </li>
+  <li>
+    <p>Admiralty –[Tsuen Wan Line]–&gt; Central/Hong Kong</p>
+  </li>
+  <li>
+    <p>Central/Hong Kong –[Tung Chung Line]–&gt; Tsing Yi (Victoria Harbour lightbox)</p>
+  </li>
+  <li>
+    <p>Tsing Yi –[Tung Chung Line]–&gt; Lai King</p>
+  </li>
+  <li>
+    <p>Lai King –[Tsuen Wan Line]–&gt; Prince Edward</p>
+  </li>
+  <li>
+    <p>Prince Edward –[Kwun Tong Line]–&gt; Lok Fu</p>
+  </li>
+  <li>
+    <p>Lok Fu –[11D]–&gt; Kwun Tong Ferry Pier</p>
+  </li>
+</ol>
+
+<p>In terms of fares overall, it was $14.3 to get from South Horizons to Tsing Yi, $8.3 to get from Tsing Yi to Lok Fu, and $5.4 to ride the 11D, for a neat $28 overall (excluding other transport fees like getting to Ap Lei Chau from home and back home from Kwun Tong.</p>
+
+<h2 id="thought-experiment-the-most-efficient-route-plan">Thought Experiment: The Most Efficient Route Plan</h2>
+
+<p>Given that you <em>have</em> to get out at Tsing Yi but not at Ocean Park, probably the most cost-efficient route (excluding costs of getting to the start and end stations) would be to go from Tsing Yi to Lok Fu or vice versa but detouring to Ocean Park (taking the bus being optional), which compresses it all to a single trip where you just have to pay the $8.3 Tsing Yi&lt;–&gt;Lok Fu fare.</p>
+
+<p>So, assuming that you are able to catch the bus from Kwun Tong Ferry Pier to Lok Fu at the start, the best route for the MTR leg would be:</p>
+
+<ol>
+  <li>
+    <p>Lok Fu –[Kwun Tong Line]–&gt; Kowloon Tong</p>
+  </li>
+  <li>
+    <p>Kowloon Tong –[East Rail Line]–&gt; Admiralty</p>
+  </li>
+  <li>
+    <p>Admiralty –[South Island Line]–&gt; Ocean Park</p>
+  </li>
+  <li>
+    <p>Ocean Park –[South Island Line]–&gt; Admiralty</p>
+  </li>
+  <li>
+    <p>Admiralty –[Tsuen Wan Line]–&gt; Lai King</p>
+  </li>
+  <li>
+    <p>Lai King –[Tung Chung Line]–&gt; Tsing Yi</p>
+  </li>
+</ol>
+
+<p>Or vice versa, if you think you can time it just right to get on the bus at Lok Fu.</p>
+
+<p>—– <strong>557.2</strong> —–2022-06-23 11:58:59+08:00:</p>
+
+<p>It would, yes.</p>
+
+<p>—– <strong>557.3</strong> —–2022-06-23 11:59:20+08:00:</p>
+
+<p>Gawrdzilla.</p>
+
+<h3 id="558-short-answers-to-simple-questions--june-22-2022-submitted-on-2022-06-22-2100090800">558: <a href="https://old.reddit.com/r/AskHistorians/comments/vi4psa/short_answers_to_simple_questions_june_22_2022/">Short Answers to Simple Questions | June 22, 2022</a>, submitted on 2022-06-22 21:00:09+08:00.</h3>
+
+<p>—– <strong>558.1</strong> —–2022-07-09 11:06:46+08:00:</p>
+
+<blockquote>
+  <p>As for recognition of said sovereignty by other sovereign nations, it does not appear so since the beginning of the Yuan Dynasty.</p>
+
+</blockquote>
+
+<p>That would be incorrect. Tibetan polities were independent for all intents and purposes between the end of effective Yuan rule in 1354 and the establishment of the Khoshut Khanate in 1642, although you can argue that even the Khoshut Khanate was effectively a Tibetan polity albeit with a ruling group of Mongolian origin. Qing rule in Tibet began in 1720, but even then it exercised considerable autonomy until the 1790s. See Peter Perdue’s <em>China Marches West</em> and Max Oidtmann’s <em>Forging the Golden Urn</em>.</p>
+
+<h3 id="559-one-of-the-most-profound-anti-semitic-allegation-is-the-relationship-between-the-jew-and-money-even-marx-rather-vehemently-mentions-this-in-his-on-the-jewish-question---what-is-his-secular-god-money-submitted-on-2022-06-22-2222480800">559: <a href="https://old.reddit.com/r/AskHistorians/comments/vi6fp9/one_of_the_most_profound_antisemitic_allegation/">One of the most profound anti-Semitic allegation is the relationship between the Jew and money. Even Marx, rather vehemently mentions this in his ‘On the Jewish Question’- “ What is his secular god? Money…”.</a>, submitted on 2022-06-22 22:22:48+08:00.</h3>
+
+<p>—– <strong>559.1</strong> —–2022-06-22 22:50:32+08:00:</p>
+
+<p>Welcome to /r/AskHistorians, and thank you for your submission. Unfortunately, however, your post has been removed as the title does not appear to be a question, or otherwise fails to conform with the technical requirements we have for the title of a post. Depending on what you are intending to post, please consider the following:</p>
+
+<ul>
+  <li>If you are posting an historical question, you are welcome to repost it <em>but</em> please make sure to include the main question as the title of your post, and double-check that your question is otherwise in compliance with the <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_questions">subreddit rules</a>.</li>
+  <li>If you are posting a META question, suggestion, or similar, while these are allowed, please be sure to <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope">read our rules concerning META submissions</a> before reposting, and we’d strongly encourage you to consult our <a href="https://www.reddit.com/r/AskHistorians/wiki/faq/meta#wiki_rules_discussion">Rules Roundtable series</a> as the question or issue you intend to raise may already be addressed there.</li>
+  <li>If you are posting an AMA that was approved by the moderator team, please contact us via <a href="https://www.reddit.com/message/compose/?to=/r/AskHistorians">modmail</a>, or the AMA Team contact. If you were not approved for an AMA, please contact us to discuss scheduling before posting in the future.</li>
+  <li>If your intended submission does not fit any of these, or if you believe this removal is a false positive made in error, please reach out to the moderator team via <a href="https://www.reddit.com/message/compose/?to=/r/AskHistorians">modmail</a></li>
+</ul>
+
+<h3 id="560-who-created-legion-submitted-on-2022-06-22-2228500800">560: <a href="https://old.reddit.com/r/AskHistorians/comments/vi6k79/who_created_legion/">who created legion?</a>, submitted on 2022-06-22 22:28:50+08:00.</h3>
+
+<p>—– <strong>560.1</strong> —–2022-06-22 22:50:49+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="561-what-historicalgeographicaldemographic-reasons-are-there-for-why-most-unifications-of-china-came-from-dynasties-that-started-north-of-the-yangtze-vs-south-of-the-yangtze-submitted-on-2022-06-23-0301040800">561: <a href="https://old.reddit.com/r/AskHistorians/comments/vicn8q/what_historicalgeographicaldemographic_reasons/">what historical/geographical/demographic reasons are there for why most unifications of china came from dynasties that started north of the yangtze vs south of the yangtze?</a>, submitted on 2022-06-23 03:01:04+08:00.</h3>
+
+<p>—– <strong>561.1</strong> —–2022-06-23 17:00:18+08:00:</p>
+
+<p>Thanks to /u/10thousand_stars for writing a very broad-ranging answer (I was contemplating doing one myself but my expertise simply doesn’t range that far). I do, however, want to raise a bit of an issue with the question’s discussion of northern ‘barbarian’ polities.</p>
+
+<p>To put it quite bluntly, the Mongols were the only nomadic people that successfully conquered all of China proper, and only did so thanks to an incredible amount of deliberate effort and diplomatic manoeuvring. The rivers running West-East through China, most prominently the Yangtze, were quite substantial obstacles to the Mongols, and would be circumvented through invading the indigenous kingdom of Dali in what is now Yunnan via Tibet and the more fordable upper reaches of the Yangtze in Sichuan. Even then, it took over 25 years after the subjugation of the Dali kingdom for the Mongols to overrun the territory of Southern Song. In other words the Mongol conquest in this region was made possibly only by creating an entirely new invasion route from scratch, on the part of a power with substantial enough control over neighbouring regions to be able to do so.</p>
+
+<p>Earlier regimes of nomadic origin were generally unsuccessful in penetrating outside of northern China, as southern states were generally successful at maintaining stalemate lines on major rivers. For instance, northern Wei, which existed roughly from the late fourth to early sixth centuries CE, halted at the Yangtze; the Jurchen Jin state, which existed from the early twelfth century until its conquest by the Mongols over the course of 1211-34, extended only as far as the Huai. No nomadic polity before the Mongols established any sustained dominion of a region south of the Huai, let alone the Yangtze, and no nomadic polity would establish substantial control over any part of China proper again. The Manchus, it is worth noting, were <em>not</em> nomadic, outside of the northernmost portions of Jurchen-speakers known to the Ming as <em>Yeren</em> (‘wild people’). The vast majority of the Jurchen people that became the Manchus were sedentary agriculturalists, with the patriarchs of free Jurchen households also involved in communal hunts to supplement agrarian food sources (in addition to fishing and sedentary herding where these were possible). While the Manchus and Mongols had a number of cultural similarities, societally speaking they were quite distinct.</p>
+
+<p>All this to say that there is a tendency for discussions of the relationship between China and the nomadic world to fall into two opposite extremes: on the one hand there’s the ‘Sinicisation’ model that asserts that nomadic influence was invariably ephemeral and that Chinese culture simply overwhelmed that of nomadic societies, and on the other there’s the sort of hot take meme that nomads overran imperial China on a regular basis. The answer really lies somewhere in between: <em>northern</em> China was historically quite tied into the nomadic world, whereas southern China was not.</p>
+
+<h3 id="562-few-chinese-caravanstravelling-traders-made-in-through-the-parthian-empire-so-how-would-that-be-done-did-they-sell-everything-they-had-at-the-nearest-parthian-city-and-the-parthians-would-later-sell-it-themselves-was-it-a-common-practice-to-to-not-allow-traders-past-a-certain-point-elsewhere-submitted-on-2022-06-23-2106030800">562: <a href="https://old.reddit.com/r/AskHistorians/comments/viwix8/few_chinese_caravanstravelling_traders_made_in/">Few Chinese caravans/travelling traders made in through the Parthian Empire, so how would that be done? Did they sell everything they had at the nearest Parthian city and the Parthians would later sell it themselves? Was it a common practice to to not allow traders past a certain point elsewhere?</a>, submitted on 2022-06-23 21:06:03+08:00.</h3>
+
+<p>—– <strong>562.1</strong> —–2022-06-23 22:16:44+08:00:</p>
+
+<p>While I suspect more could be said on the specific dynamics of trade in the era of the Arsacids, as I note in <a href="https://www.reddit.com/r/AskHistorians/comments/jsb5my/whats_the_state_of_scholarship_on_the_silk_road/gbyl2uc/">this post</a> the entire popular conception of the ‘Silk Road’ is wrong. Throughout history, Chinese caravans rarely ventured beyond the Tarim Basin, let alone as far as Iran, not necessarily because they were physically or legally prevented from doing so but because making a greater number of shorter trips was more profitable and less risky than making a few long ones. Individuals and even some wares could and did travel great distances at times, but in general, the movement of goods and ideas across the Eurasian continent before direct maritime links were forged in the fifteenth and sixteenth centuries was an emergent property of a large number of local and regional exchanges, and almost never due to people making an entire journey from Europe to Asia or vice versa. That is not to say that there were never instances of such travels, but these were principally by diplomats, priests, and statesmen and women, as well as the occasional enterprising traveller.</p>
+
+<h3 id="563-star-treks-entire-spirit-in-a-single-scene-how-a-much-maligned-entry-has-one-moment-that-captures-all-of-star-trek-submitted-on-2022-06-24-0113530800">563: <a href="https://old.reddit.com/r/DaystromInstitute/comments/vj1xc3/star_treks_entire_spirit_in_a_single_scene_how_a/">Star Trek’s Entire Spirit in a Single Scene: How a Much-Maligned Entry has One Moment that Captures All of Star Trek</a>, submitted on 2022-06-24 01:13:53+08:00.</h3>
+
+<p>—– <strong>563.1</strong> —–2022-06-24 15:55:19+08:00:</p>
+
+<blockquote>
+  <p>There are moments in our lives we fear to relive, and others we long to repeat. While time cannot give us second chances, maybe people can.</p>
+</blockquote>
+
+<p>Picard in, er, <em>Picard</em>. For all that the series gets maligned, I don’t think the critique that its portrayal of Picard is out of character rings true at all.</p>
+
+<h3 id="564-khorone-recolor-from-the-official-sonic-korone-outfit-submitted-on-2022-06-24-0116500800">564: <a href="https://old.reddit.com/r/Hololive/comments/vj1zr1/khorone_recolor_from_the_official_sonic_korone/">Khorone (Recolor from the official Sonic Korone outfit)</a>, submitted on 2022-06-24 01:16:50+08:00.</h3>
+
+<p>—– <strong>564.1</strong> —–2022-06-24 20:44:14+08:00:</p>
+
+<p>Wayward younger cousin.</p>
+
+<h3 id="565-camille-desmoulins-started-the-french-revolution-in-a-café-what-other-significant-historical-events-began-at-a-coffee-house-submitted-on-2022-06-24-0914320800">565: <a href="https://old.reddit.com/r/AskHistorians/comments/vjc9bf/camille_desmoulins_started_the_french_revolution/">Camille Desmoulins “started” the French Revolution in a café. What other significant historical events began at a coffee house?</a>, submitted on 2022-06-24 09:14:32+08:00.</h3>
+
+<p>—– <strong>565.1</strong> —–2022-06-24 12:30:41+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="566-thats-uhhh-an-interesting-way-to-put-it-submitted-on-2022-06-24-1133020800">566: <a href="https://old.reddit.com/r/Hololive/comments/vjev0k/thats_uhhh_an_interesting_way_to_put_it/">That’s…. uhhh… an interesting way to put it</a>, submitted on 2022-06-24 11:33:02+08:00.</h3>
+
+<p>—– <strong>566.1</strong> —–2022-06-24 15:32:50+08:00:</p>
+
+<p>Wait, what ring?</p>
+
+<p>—– <strong>566.2</strong> —–2022-06-24 15:42:30+08:00:</p>
+
+<p>Cheers!</p>
+
+<h3 id="567-in-modern-greek-β-is-pronounced-the-way-we-pronounce-v-when-did-it-change-submitted-on-2022-06-24-1321210800">567: <a href="https://old.reddit.com/r/AskHistorians/comments/vjgruy/in_modern_greek_β_is_pronounced_the_way_we/">In modern Greek, β is pronounced the way we pronounce V. When did it change?</a>, submitted on 2022-06-24 13:21:21+08:00.</h3>
+
+<p>—– <strong>567.1</strong> —–2022-06-24 15:44:10+08:00:</p>
+
+<p>Apologies, but we have had to remove your submission. We ask that questions in this subreddit be limited to those asking about history, or for historical answers. This is not a judgement of your question, but to receive the answer you are looking for, it would be better suited to /r/linguistics.</p>
+
+<p>If you are interested in an historical answer, however, you are welcome to rework your question to fit the theme of this subreddit and resubmit it.</p>
+
+<h3 id="568-if-the-holocaust-wouldnt-have-happened-and-germany-still-lost-the-war-would-the-allies-still-have-banned-the-nazi-party-how-knowledgeable-were-the-allies-on-germanys-racial-policies-submitted-on-2022-06-24-1451100800">568: <a href="https://old.reddit.com/r/AskHistorians/comments/vji6jl/if_the_holocaust_wouldnt_have_happened_and/">If the Holocaust wouldn’t have happened and Germany still lost the war, would the Allies still have banned the Nazi party? How knowledgeable were the Allies on Germany’s racial policies?</a>, submitted on 2022-06-24 14:51:10+08:00.</h3>
+
+<p>—– <strong>568.1</strong> —–2022-06-24 15:45:24+08:00:</p>
+
+<p>Sorry, but your submission has been removed because we <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F">don’t allow hypothetical questions</a>. If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule <a href="https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/">here</a>.</p>
+
+<h3 id="569-what-are-the-historical-discoveries-recently-that-we-have-benefited-from-in-the-modern-days-submitted-on-2022-06-24-1522430800">569: <a href="https://old.reddit.com/r/AskHistorians/comments/vjinnm/what_are_the_historical_discoveries_recently_that/">What are the historical discoveries recently that we have benefited from in the modern days?</a>, submitted on 2022-06-24 15:22:43+08:00.</h3>
+
+<p>—– <strong>569.1</strong> —–2022-06-24 15:45:38+08:00:</p>
+
+<p>This submission has been removed because it violates our <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events">‘20-Year Rule’</a>. To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult <a href="https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/">this Rules Roundtable</a>.</p>
+
+<h3 id="570-if-we-were-to-count-the-average-african-americans-lineage-through-immigrant-generations-how-many-would-it-be-submitted-on-2022-06-24-1540550800">570: <a href="https://old.reddit.com/r/AskHistorians/comments/vjiwzr/if_we_were_to_count_the_average_africanamericans/">If we were to count the average African-American’s lineage through “immigrant generations”, how many would it be?</a>, submitted on 2022-06-24 15:40:55+08:00.</h3>
+
+<p>—– <strong>570.1</strong> —–2022-06-24 15:45:51+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="571-what-are-some-definitive-general-histories-of-france-from-the-franco-prussian-war-to-world-war-one-submitted-on-2022-06-24-2110270800">571: <a href="https://old.reddit.com/r/AskHistorians/comments/vjo4sb/what_are_some_definitive_general_histories_of/">What are some definitive general histories of France from the Franco-Prussian War to World War One?</a>, submitted on 2022-06-24 21:10:27+08:00.</h3>
+
+<p>—– <strong>571.1</strong> —–2022-06-24 21:27:55+08:00:</p>
+
+<p>Hi there - we’re happy to approve your question related to your creative project, and we are happy for people to answer. However, we should warn you that many flairs have become reluctant to answer questions for aspiring novelists and the like, based on past experience: some people working on creative projects have a tendency to try to pump historians for trivia while ignoring the bigger points they were making, while others have a tendency to argue with historians when the historical reality does not line up with what’s needed for a particular scene or characterization. Please respect the answers of people who have generously given you their time, even if it’s not always what you want to hear.</p>
+
+<p>Additionally, as amazing as our flair panel is, we should also point out that /r/AskHistorians is not a professional historical consultation service. If you’re asking a question here because you need vital research for a future commercial product such as a historical novel, you may be better off engaging a historical consultant at a fair hourly rate to answer these questions for you. We don’t know what the going rate for consultancy work would be in your locality, but it may be worth looking into that if you have in-depth or highly plot-reliant questions for this project. Some /r/AskHistorians flairs could be receptive to working as a consultant in this way. However, if you wish for a flair here to do this work for you, you will need to organize this with them yourselves.</p>
+
+<p>For more general advice about doing research to inform a creative project, please check out <a href="https://www.reddit.com/r/AskHistorians/comments/k8o4rv/monday_methods_researching_for_fiction/">our Monday Methods post on the subject</a>.</p>
+
+<h3 id="572-fauna-just-confirmed-she-snuck-away-to-join-the-off-collab-at-ames-submitted-on-2022-06-25-0608510800">572: <a href="https://old.reddit.com/r/Hololive/comments/vjzs20/fauna_just_confirmed_she_snuck_away_to_join_the/">Fauna just confirmed she snuck away to join the off collab at Ames!</a>, submitted on 2022-06-25 06:08:51+08:00.</h3>
+
+<p>—– <strong>572.1</strong> —–2022-06-25 11:41:37+08:00:</p>
+
+<p>So, we don’t 100% <em>know</em>, and they’re a bit quieter than they used to be, but I mean… we can be about 99% sure. Aside from the relatively well-known rings thing, they got each other White Day gifts just this year <a href="https://twitter.com/shiroganenoel/status/1504414555094794243">(Noel’s tweet)</a> <a href="https://twitter.com/shiranuiflare/status/1504407960251887617">(Flare’s tweet)</a> and mention going on dates (including in that first tweet there but also see <a href="https://twitter.com/shiroganenoel/status/1447879460083040257">here</a>); other mems have noted them being, let’s say <em>suspiciously</em> close <a href="https://www.youtube.com/watch?v=Z4SFaEuuRaU">(Mio)</a>  <a href="https://www.youtube.com/watch?v=9Vv2IppoFak">(Rushia)</a> <a href="https://www.youtube.com/watch?v=6F-gSfEIxBo">(Nene)</a>; they have a collab cover up of <a href="https://www.youtube.com/watch?v=YVdA-QCcXYc">this song</a>, of all the ones to choose; and there’s Noel clips where she explicitly talks about how her relationship with Flare differs from her Subaru obsession such as <a href="https://youtu.be/3uTbr3Qhnio?t=117">this</a> and <a href="https://youtu.be/4TaTV1EQ2Zs?t=439">this</a> where she very much describes Flare as a romantic partner. Even if she’s not dating Flare (which to be honest it would be an amazing set of coincidences and PR manipulation if so) Noel is pretty much ‘out’ given <a href="https://www.youtube.com/watch?v=YA9JMb6OdfQ">this</a> for instance.</p>
+
+<h3 id="573-castles-in-the-sky---a-wargame-of-flying-battleships---is-out-from-osprey-publishing-submitted-on-2022-06-25-0902140800">573: <a href="https://old.reddit.com/r/tabletop/comments/vk3752/castles_in_the_sky_a_wargame_of_flying/">Castles in the Sky - A Wargame of Flying Battleships - is out from Osprey Publishing</a>, submitted on 2022-06-25 09:02:14+08:00.</h3>
+
+<p>—– <strong>573.1</strong> —–2022-07-07 13:11:35+08:00:</p>
+
+<p>Seems like it’s driven mainly by the popularity of the model range more than anything else.</p>
+
+<h3 id="574-could-georgy-zhukov-become-the-leader-of-the-ussr-and-if-so-how-would-the-ussr-and-soviet-satellite-states-change-or-the-likleyhood-of-them-changing-submitted-on-2022-06-25-1215300800">574: <a href="https://old.reddit.com/r/AskHistorians/comments/vk6m43/could_georgy_zhukov_become_the_leader_of_the_ussr/">Could Georgy Zhukov become the leader of the USSR, and if so. How would the USSR and Soviet satellite states change? (Or the likleyhood of them changing)</a>, submitted on 2022-06-25 12:15:30+08:00.</h3>
+
+<p>—– <strong>574.1</strong> —–2022-06-25 12:17:00+08:00:</p>
+
+<p>Sorry, but your submission has been removed because we <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F">don’t allow hypothetical questions</a>. If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule <a href="https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/">here</a>.</p>
+
+<h3 id="575-what-is-the-nationality-of-a-person-born-in-a-territory-earlier-belonging-to-another-country-submitted-on-2022-06-25-1235240800">575: <a href="https://old.reddit.com/r/AskHistorians/comments/vk6y5l/what_is_the_nationality_of_a_person_born_in_a/">What is the nationality of a person born in a territory earlier belonging to another country?</a>, submitted on 2022-06-25 12:35:24+08:00.</h3>
+
+<p>—– <strong>575.1</strong> —–2022-06-25 13:13:09+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="576-can-somebody-recommend-books-about-early-moden-chinese-history-submitted-on-2022-06-26-0438560800">576: <a href="https://old.reddit.com/r/AskHistorians/comments/vknvjq/can_somebody_recommend_books_about_early_moden/">can somebody recommend books about early moden Chinese History?</a>, submitted on 2022-06-26 04:38:56+08:00.</h3>
+
+<p>—– <strong>576.1</strong> —–2022-06-26 12:19:39+08:00:</p>
+
+<p>So, just to clarify, the Early Modern period is typically considered to encompass the period from some time in the fifteenth century up to around 1800 or so; while that is somewhat Eurocentric as a classification it does have broader acceptance among historians of Eurasia (both in the sense of Eurasia as a unit and individual regions within it). The Boxers and the ROC thus fall well outside the typical range of the EM, though I’m happy to recommend some reading on the former nevertheless.</p>
+
+<p>For general overviews, the <em>History of Imperial China</em> series is where to go, although they can be a little technical and aren’t necessarily aimed at a <em>general</em> audience so much as a <em>beginner</em> one, if that makes sense. Timothy Brook’s <em>The Troubled Empire</em> on the Yuan and Ming and William Rowe’s <em>China’s Last Empire</em> on the Qing will both cover that 1271-1800 period very well. I cut off in 1800 because Rowe’s book is (for a book from 2009) very up to speed with the new historiography on the Qing up to the end of the Qianlong reign, and to some extent integrates some of the fledgling revisionist perspective on the Jiaqing era, but its narrative of the nineteenth century is very conventional. Pamela Crossley’s <em>The Wobbling Pivot: China since 1800</em> has issues of its own, but its coverage of the Qing from 1800-1911 is a bit more up-to-date in that regard.</p>
+
+<h3 id="ming">Ming</h3>
+
+<p>The Ming aren’t my forte, although there are some more specialised books I’ve read (in part or in whole) that you might find interesting that delve into specific aspects:</p>
+
+<ul>
+  <li>
+    <p>Craig Clunas’ <em>Superfluous Things</em> is a wonderful volume discussing late Ming consumer culture, and involves some discussion of what the concept of Early Modernity is and how it applies in the case of China.</p>
+  </li>
+  <li>
+    <p>Arthur Waldron’s <em>The Great Wall of China</em> doesn’t just cover the Ming, but does focus on it, as its purpose is to discuss the circumstances that led to the Ming building the structure that we now know as the Great Wall, which is, as you’d imagine, very geopolitical, as it is tied in with Ming relations with steppe polities.</p>
+  </li>
+  <li>
+    <p>Kenneth Swope’s <em>A Dragon’s Head and a Serpent’s Tail</em> and <em>The Military Collapse of China’s Ming Dynasty</em> are also a good pair of military-political narratives of the late Ming period, the former covering the Great East Asian War of 1592-8 when Toyotomi Hideyoshi invaded Korea, and the latter covering the rise of the Qing and the growth of rebel movements in China proper.</p>
+  </li>
+</ul>
+
+<h3 id="early-mid-qing">Early-mid Qing</h3>
+
+<ul>
+  <li>
+    <p>Evelyn Rawski’s <em>Early Modern China and Northeast Asia</em> is another good survey work, though I will admit, a failure to provide a consistent and unambiguous term to refer to The Northeast/Manchuria can create the odd bit of confusion at times. The basic idea is that Rawski approaches the Early Modern period by framing Northeast Asia as a point of intersection between China, Korea, Japan, the eastern steppe, and ‘Manchuria’, and advocates taking a multilateral approach to historical events in this region and period.</p>
+  </li>
+  <li>
+    <p>Peter Perdue’s <em>China Marches West</em> is a magisterial narrative and analytical history of the expansion of the Qing Empire into Central and Inner Asia between about 1630 and 1760, with a particular focus on how the Qing’s wars of conquest impacted the state and on the historiography and legacy of these conquests.</p>
+  </li>
+  <li>
+    <p>Seonmin Kim’s <em>Ginseng and Borderland</em> similarly focusses on Qing activity in a particular theatre, in this case the border with the Joseon kingdom of Korea, where natural resources played a decisive part in driving changes to how the two states managed their borders with each other.</p>
+  </li>
+  <li>
+    <p>Matthew Mosca’s <em>From Frontier Policy to Foreign Policy</em> discusses Qing perceptions of and relations with India and Indian polities, as well as that critical India-ruling policy, Great Britain. If you’re looking for something heavy on geopolitics, it’s this.</p>
+  </li>
+  <li>
+    <p>Max Oidtmann’s <em>The Golden Urn</em> focusses mainly on Qing policy in Tibet, and on questions of how imperialism and/or colonialism can be applied as a useful framework can be applied to the Qing’s attempts to gain a soft veto on the selection of new lamas.</p>
+  </li>
+</ul>
+
+<h3 id="late-qing">Late Qing</h3>
+
+<ul>
+  <li>
+    <p>Julia Lovell’s <em>The Opium War</em> is an imperfect work, but the best overview out there not only of the war itself but also its wider implications for the Qing, for post-Qing China, and for relations between China and the west. Its most useful contribution is in its discussion of the complicated cultural legacy of the war in the last third or so.</p>
+  </li>
+  <li>
+    <p>Stephen Platt’s <em>Autumn in the Heavenly Kingdom</em> is an absolute must-read, and covers the latter third or so of the Taiping War of 1851-64, placing it in an international context and concerning itself heavily with the activities of British and American politicians, diplomats, and military leaders, and on their impact on the war. I have quibbles (namely, the French role is very minimised here) but not any remotely large enough to prevent me recommending it.</p>
+  </li>
+  <li>
+    <p>Hodong Kim’s <em>Holy War in China</em>, which covers in immense detail the revolts against Qing rule in what is now Xinjiang, the rise and fall of Yaqub Beg’s regime in the region, and its relations with foreign powers (particularly Britain, Russia, and the Ottomans) is an excellent additional read.</p>
+  </li>
+  <li>
+    <p>Emma Teng’s <em>Taiwan’s Imagined Geography</em> is mostly focussed on Qing travel writing as a lens into discourses around Taiwan rather than actual policy, although it remains (as far as I know) the only book really discussing nineteenth-century Taiwan in significant detail in English, including the post-1860 phase of intensive colonial expansion and exploitation by the Qing against the hitherto independent indigenous peoples of the highlands.</p>
+  </li>
+  <li>
+    <p>Lanxin Xiang’s <em>The Origins of the Boxer War</em> is perhaps the best analysis of the complicated politics of how the Boxer Uprising morphed into the military intervention by the Eight Nations’ Alliance, but I cannot recommend it without considerable caveats. Xiang takes a very one-dimensional view of the Boxers themselves, and makes some noticeable orthographic errors with Manchu names. I would <em>only</em> recommend it if you also read Joseph Esherick’s <em>The Origins of the Boxer Uprising</em>.</p>
+  </li>
+  <li>
+    <p>Edward Rhoads’ <em>Manchus and Han</em> is, I would argue, critical to understanding the fall of the Qing, even if its one-chapter summary of the 1911 Revolution is very squarely focussed on the Yangtze (and ironically enough somewhat sidelines coastal south China, which Rhoads had written an entire book on some years earlier!)</p>
+  </li>
+</ul>
+
+<p>—– <strong>576.2</strong> —–2022-06-26 21:16:54+08:00:</p>
+
+<p>Jonathan Spence’s <em>God’s Chinese Son</em> is where to go for the origins side, although it doesn’t really cover the international side and also very quickly breezes through the 1859-64 period at the end, so Platt very much picks up where Spence leaves off, so to speak.</p>
+
+<h3 id="577-professor-joanna-waley-cohen-on-new-qing-history-submitted-on-2022-06-26-0606210800">577: <a href="https://old.reddit.com/r/historyblogs/comments/vkpnjt/professor_joanna_waleycohen_on_new_qing_history/">Professor Joanna Waley-Cohen on New Qing History</a>, submitted on 2022-06-26 06:06:21+08:00.</h3>
+
+<p>—– <strong>577.1</strong> —–2022-06-26 11:51:30+08:00:</p>
+
+<p>Ooh! I will have to listen to this one!</p>
+
+<h3 id="578-hobby-scuffles-week-of-june-27-2022-submitted-on-2022-06-26-2300130800">578: <a href="https://old.reddit.com/r/HobbyDrama/comments/vl6krg/hobby_scuffles_week_of_june_27_2022/">[Hobby Scuffles] Week of June 27, 2022</a>, submitted on 2022-06-26 23:00:13+08:00.</h3>
+
+<p>—– <strong>578.1</strong> —–2022-06-28 14:04:44+08:00:</p>
+
+<p>How dare you, mine is not, it’s only <em>them</em> that are annoying!</p>
+
+<p>—– <strong>578.2</strong> —–2022-06-29 11:20:12+08:00:</p>
+
+<p>Must be a serious blow to Arin getting supplanted by <a href="https://img1.ak.crunchyroll.com/i/spire3/05b4fc45a909ade7a49f7eec4b6e8bc71656035037_main.jpg">a virtual dog</a>. Yes that is real, <a href="https://www.youtube.com/watch?v=QeqfCtJ-chw">it’s a functional outfit in Korone’s repertoire</a>.</p>
+
+<p>—– <strong>578.3</strong> —–2022-06-29 21:09:42+08:00:</p>
+
+<p>It’s the best of all possible worlds.</p>
+
+<p>—– <strong>578.4</strong> —–2022-07-01 20:13:07+08:00:</p>
+
+<p>Was just about to post it here. It’s bewildering how actively the weeb community will defend the use of a slur.</p>
+
+<p>—– <strong>578.5</strong> —–2022-07-01 22:05:35+08:00:</p>
+
+<blockquote>
+  <p>In the last couple of days, she posted a video which delved into the dangers of fractal wood burning. She gave an overview that explains roughly what people are doing, without giving step by step instructions on how to do it. She also explained the dangers of it, and how dozens of people have died doing it.</p>
+
+</blockquote>
+
+<p>Couple weeks actually, the video went up on or before 18 June which is when I watched it.</p>
+
+<p>—– <strong>578.6</strong> —–2022-07-01 22:07:18+08:00:</p>
+
+<p>IRyS used it  something like a month after debut and I don’t think she’s used it since. It did get clipped though. I’m reasonably sure that’s it?</p>
+
+<p>EDIT: That said I’m not too surprised it’s IRyS of all people. If I’m not mistaken she’s lived in Japan for a good while now, and being a native Japanese speaker (and based on how she has been known to default to Japanese at times there’s a good case for it being her first and primary language) her engagement with Anglophone spaces likely isn’t as intensive as, say, Calli’s, so her being the one to have ‘slipped’ by (hopefully) just not being up to speed on it maybe not being a word you should use is maybe understandable.</p>
+
+<p>—– <strong>578.7</strong> —–2022-07-01 22:20:38+08:00:</p>
+
+<p>I don’t think /u/Evelyn701 was trying to bash anyone, just citing that there is at least one Hololive member who has used the word in the past.</p>
+
+<p>—– <strong>578.8</strong> —–2022-07-01 22:23:57+08:00:</p>
+
+<p>It’s no problem, time is a social construct anyway</p>
+
+<p>—– <strong>578.9</strong> —–2022-07-01 22:27:32+08:00:</p>
+
+<p>Which is absolutely true. My thinking was more that English isn’t her primary language and so it’s quite possible, given she’s lived in Japan rather than an Anglophone country for a while, that she wasn’t exactly up to speed on things and was casually using language that was still broadly deemed acceptable mid-last decade. And my intent wasn’t to excuse; merely to note that if any member of HoloEN were to end up saying it on stream, IRyS was the least surprising candidate for that reason.</p>
+
+<p>—– <strong>578.10</strong> —–2022-07-02 00:03:27+08:00:</p>
+
+<p>I’ll avoid responding to the other user since I don’t want to feed a troll here, but yes, Calli also has somewhat of an unfortunate history in terms of known slur use. That said (and here I am admittedly obliquely referring to the other poster), I don’t see how someone who used to use a particular slur habitually <em>now catching themselves and not doing it</em> is analogous to casually using a slur without realising at all.</p>
+
+<p>—– <strong>578.11</strong> —–2022-07-02 00:20:53+08:00:</p>
+
+<p>Yes that’s the big thing! How dare someone express indignation about the use of slurs, and how dare they ask the ones who use those slurs to do the legwork to address it?!</p>
+
+<p>—– <strong>578.12</strong> —–2022-07-02 00:25:36+08:00:</p>
+
+<p>Yeah it’s like… oh no, she knows that you shouldn’t use the n-word and stops herself from doing it. That must mean… uh. What exactly?</p>
+
+<p>—– <strong>578.13</strong> —–2022-07-02 00:29:12+08:00:</p>
+
+<p>I feel like it’s a yes and no situation in that with VTubers it’s not media consumption in a purely passive sense, but often involves active and direct communication with the creator as the media is being created, and while I don’t know how that necessarily bears on the community aspect it’s certainly an extra layer of stuff. But also, there’s also a level of active engagement in content creation – clippers, animators, people just making memes etc – which means that although the audience as a whole isn’t a singular community, there are individual communities that cohere around certain spaces that actively produce derivative media as well as simply commenting on the original, and this is true of basically any fandom.</p>
+
+<p>—– <strong>578.14</strong> —–2022-07-02 11:12:21+08:00:</p>
+
+<blockquote>
+  <p>Hololive’s branch is definitely more of the side of keeping things sanitized to avoid such backlash (in order to prevent having to let talent go) whereas Nijisanji gives their talents more freedom on platforms such as Twitter and the like.</p>
+</blockquote>
+
+<p>All else aside (because I broadly agree with the rest of the post on principle), there’s a bit of a meme that Hololive is uniquely restrictive while Nijisanji is looser, but I just don’t really see that being the case. Both agencies are cut from pretty similar cloth from the first VTuber wave in 2018/19, but just because Hololive has an idol <em>aesthetic</em> doesn’t mean it’s fundamentally culturally different, or that one polices content more or less than the other. We do not know how much control is exercised behind the scenes and ought not to pretend otherwise.</p>
+
+<p>—– <strong>578.15</strong> —–2022-07-02 23:11:31+08:00:</p>
+
+<p>RWBY fandom is outraged. News at 11.</p>
+
+<p>I mean, I get being disappointed that it’s being released in 2023 as it’s already been over a year since V8 wrapped, but IDK just watch another thing in the meantime?</p>
+
+<p>—– <strong>578.16</strong> —–2022-07-03 02:58:49+08:00:</p>
+
+<p>I guess I may need to explain two things for the uninitiated. Firstly, Kson. Kson is a pretty oldschool VTuber livestreamer who debuted her first model in late 2018, although she had been active as a ‘fleshtuber’ since 2016. From early 2020 onward she had an apparently pretty decent contract on the Japanese streaming site Mildom, but she stopped streaming there in May this year and only streams on Youtube and Twitch now. She’s also notable as one of the more popular indie VTubers numbers-wise; when I checked back in March she was only one of three indies with over 1m Youtube subs. She was also doing a lot of this while also streaming as &gt;!Hololive’s Kiryu Coco!&lt;, until she retired from there just over a year ago to go full indie, citing creative restrictions but insisting that the split was entirely amicable.</p>
+
+<p>Secondly, VShojo. In the agency VTuber space, VShojo is a reasonable contender for the #3 spot after Hololive and Nijisanji. VShojo started in November 2020 with five formerly indie members (Nyatasha Nyanners, Ironmouse, Zentreya, Silvervale, and Projekt Melody) who already had some history of collaboration; subsequently two new VTubers debuted under the agency, Apricot a.k.a. Froot and Hime Hajime; the agency subsequently also signed on Veibae. While I suspect VShojo’s metaphorical innards don’t differ much from other agencies, it certainly likes to project a public image of essentially being a support network for otherwise independent streamers, where the agency doesn’t interfere with members’ activities.</p>
+
+<p>To me at least, Kson’s signing on with VShojo is both surprising and unsurprising, in many respects. On the unsurprising side:</p>
+
+<ul>
+  <li>
+    <p>Given that Kson had split from her old agency over creative restrictions, VShojo’s give-zero-shits approach to its talents’ content does pretty much suit her style.</p>
+  </li>
+  <li>
+    <p>A lot of what made Kson’s alt popular was her actively engaging with the agency itself and other members in it, so being part of one again definitely opens up some more options.</p>
+  </li>
+  <li>
+    <p>Kson had wanted to collab with certain VShojo members on her alt but had been barred by the agency’s management, which is often cited as contributing to her leaving.</p>
+  </li>
+  <li>
+    <p>Kson has been part of VShojo’s Minecraft server for a while.</p>
+  </li>
+  <li>
+    <p>It’s honestly not that unusual in the EN space for some otherwise-indie VTubers to basically bounce about between stints at agencies if they happen to own their own character IPs. Miori Celesta for instance debuted in MyHolo, bought her character rights and went indie three months later, and then joined Tsunderia for a while before going indie again earlier this year.</p>
+  </li>
+</ul>
+
+<p>On the more surprising side:</p>
+
+<ul>
+  <li>
+    <p>(Extension of above spoiler) &gt;!This might be the first time an ex-Hololive member has signed onto another agency, barring perhaps the dissolved HoloCN. I don’t believe any of the three retired Holostars members joined new agencies later, given two retired for health reasons, but do correct me if I’m wrong. A number of members of major agencies have left them and gone on to join Hololive at some later stage, most notably upd8’s Oda Nobuhime, Nijisanji’s Yamiyono Moruru, and Re:Act’s Kurone Yomi (albeit an indie before Re:Act), but Hololive ‘losing’ a member to another agency is somewhat new, even if it almost certainly wasn’t premeditated and/or petty/malicious in nature.!&lt;</p>
+  </li>
+  <li>
+    <p>VShojo has always been an English-language agency (Ironmouse being bilingual in Spanish and English but mostly streaming in the latter), but Kson has principally streamed in Japanese (though she’s also bilingual), so this may be a deliberate step into the Japanese market.</p>
+  </li>
+</ul>
+
+<p>—– <strong>578.17</strong> —–2022-07-03 03:07:52+08:00:</p>
+
+<p>Kson isn’t the only new VShojo member, as there’s going to be an entirely new member, likely also mainly Japanese-speaking, that being <a href="https://twitter.com/AmemiyaNazuna">Amemiya Nazuna</a>. Somehow, this is now the subject of <em>intense</em> speculation because of <a href="https://www.youtube.com/watch?v=NQlH1lXq4tg&amp;t=469s">four whole syllables</a> in her teaser trailer which are leading people to speculate that she might be Mikeneko, formerly Hololive’s Uruha Rushia, whom you may recall from her being fired for leaking internal messages back in February. Which I mean… sure anything is <em>possible</em> but you’d think people could wait until she had said more than, you know, a quarter of a sentence before jumping to conclusions.</p>
+
+<p>—– <strong>578.18</strong> —–2022-07-03 03:20:52+08:00:</p>
+
+<p>Moreover, VShojo opened auditions for new members back in August last year (I don’t know if they ever closed). If that’s the case, surely any new original members would have been worked on for the better part of a year at this point. I just don’t think it that plausible that their priorities are so skewed that they’d rather rush a still highly controversial figure to debut just under five months after she was fired (with the announcement coming barely four months after said firing), ahead of anyone who might have applied some six months earlier.</p>
+
+<p>—– <strong>578.19</strong> —–2022-07-03 12:21:10+08:00:</p>
+
+<p>It’s ‘obvious’ if you buy into a speculative narrative that has gained traction by pure truthiness, but for all we know Kson wanted an extended break from agency involvement and slowly dipped her toe in with VShojo.</p>
+
+<p>—– <strong>578.20</strong> —–2022-07-03 12:30:24+08:00:</p>
+
+<p>I’ll tack on to this by noting that while Coco’s supposed aggressive pushing for a HoloEN is a popular fan narrative, for me the timelines do not add up. By the time Kson/Coco was an active Hololive member, HoloCN was already there and HoloID was in the pipeline, and with that in mind HoloEN was almost certainly next up after ID. Nor was she the first member to do English streams, that was Haachama (officially Akai Haato for those not in the know) who started doing them nearly a month and a half before Coco debuted, and was the one to read out the <a href="https://twitter.com/hololive_en/status/1199659479920308224">announcement for the opening of an English-language official news Twitter</a>. Coco was definitely influential, well-liked, and extremely influential, but the notion that she was some driving force within Cover seems to be the Hololive fandom’s equivalent of an urban myth.</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-06-29</time>
+        <a href="https://nodebe4.github.io/opinion/2022-06-29/Spinkcat/">
+          Spinkcat在2022-06-27~2022-07-03的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-06-26</time>
+        <a href="https://nodebe4.github.io/opinion/2022-06-26/Spinkcat/">
+          Spinkcat在2022-06-20~2022-06-26的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-06-25</time>
+        <a href="https://nodebe4.github.io/opinion/2022-06-25/theoryofdoom/">
+          theoryofdoom在2022-06-20~2022-06-26的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-06-24</time>
+        <a href="https://nodebe4.github.io/opinion/2022-06-24/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-06-20~2022-06-26的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-06-25/%E6%88%91%E8%88%87%E5%A5%B3%E6%AC%8A%E4%B8%BB%E7%BE%A9%E7%9A%84%E6%95%85%E4%BA%8B/">
+            前一篇：我與女權主義的故事
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-06-26/HeQinglian/">
+            後一篇：Twitter @He Qinglian: 2022-06-20~2022-06-26
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-06-25/%E6%88%91%E8%88%87%E5%A5%B3%E6%AC%8A%E4%B8%BB%E7%BE%A9%E7%9A%84%E6%95%85%E4%BA%8B/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-06-26/HeQinglian/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-06-26/Spinkcat/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-06-25/theoryofdoom/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-06-25/%E6%88%91%E8%88%87%E5%A5%B3%E6%AC%8A%E4%B8%BB%E7%BE%A9%E7%9A%84%E6%95%85%E4%BA%8B/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-06-26/HeQinglian/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-06-26/Spinkcat/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-06-25/theoryofdoom/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

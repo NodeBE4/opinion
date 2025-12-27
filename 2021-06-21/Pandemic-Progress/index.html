@@ -1,0 +1,3000 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Pandemic Progress – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+Pandemic Progress
+——
+" />
+    <meta property="og:description" content="
+Pandemic Progress
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Pandemic Progress" />
+    <meta property="twitter:title" content="Pandemic Progress" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2021%2Fpandemic-progress%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2021/pandemic-progress/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2021/pandemic-progress/&text=Pandemic Progress&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2021/pandemic-progress/&title=Pandemic Progress" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2021/pandemic-progress/&title=Pandemic Progress" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Pandemic Progress&body=
+Pandemic Progress
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2021/pandemic-progress/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2021/pandemic-progress/&title=Pandemic Progress&caption=
+Pandemic Progress
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Pandemic Progress&url=https://stratechery.com/2021/pandemic-progress/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Pandemic Progress</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2021-06-21
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2021/pandemic-progress/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1624283232000-->
+<p><a href="https://stratechery.com/2021/pandemic-progress/">Pandemic Progress</a>
+——</p>
+
+<div>
+  <p>If the <a href="https://web.archive.org/web/20200418221236/https://a16z.com/2020/04/18/its-time-to-build/">Internet Archive</a> is to be believed, Marc Andreessen’s April 2021 coronavirus-driven exhortation <a href="https://a16z.com/2020/04/18/its-time-to-build/">It’s Time to Build</a> never actually included that futuristic picture of skyscrapers; it’s in the metadata so that it shows up on social media like Twitter:</p>
+  <p><a href="https://twitter.com/pmarca/status/1251634412334141440"><img loading="lazy" src="https://i2.wp.com/stratechery.com/wp-content/uploads/2021/06/CleanShot-2021-06-21-at-06.16.47@2x.png?resize=640%2C636&#038;ssl=1" alt="Marc Andreessen&#039;s &quot;It&#039;s Time to Build&quot; tweet" width="640" height="636" class="aligncenter size-full wp-image-6650" srcset="https://i2.wp.com/stratechery.com/wp-content/uploads/2021/06/CleanShot-2021-06-21-at-06.16.47@2x.png?w=1004&amp;ssl=1 1004w, https://i2.wp.com/stratechery.com/wp-content/uploads/2021/06/CleanShot-2021-06-21-at-06.16.47@2x.png?resize=300%2C298&amp;ssl=1 300w, https://i2.wp.com/stratechery.com/wp-content/uploads/2021/06/CleanShot-2021-06-21-at-06.16.47@2x.png?resize=150%2C150&amp;ssl=1 150w, https://i2.wp.com/stratechery.com/wp-content/uploads/2021/06/CleanShot-2021-06-21-at-06.16.47@2x.png?resize=768%2C763&amp;ssl=1 768w, https://i2.wp.com/stratechery.com/wp-content/uploads/2021/06/CleanShot-2021-06-21-at-06.16.47@2x.png?resize=634%2C630&amp;ssl=1 634w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></a></p>
+  <p>What is even more intriguing is when, exactly, the building happened; after all, Andreessen wrote last week in <a href="https://future.a16z.com/technology-saves-the-world/">Technology Saves the World</a>:</p>
+  <blockquote>
+    <p>Last April, I issued a call to our technology industry that it was <a href="https://a16z.com/2020/04/18/its-time-to-build/">time to build</a> — and I am so proud of how we delivered. Please join me in an enthusiastic — virtual! — round of applause for all of the amazing workers in our spectacular technology industry who made all this possible. The experience of COVID has made crystal clear both how important our technology is to human flourishing, and how well we can deliver. Technology helped save the world.</p>
+  </blockquote>
+  <p>Mission accomplished?</p>
+  <h4 id="future-business-models">Future Business Models</h4>
+  <p>Andreessen’s new essay was published on Andreessen Horowitz’s (a16z) much-ballyhooed new media property <a href="https://future.a16z.com/">Future</a>; you will recall much of the media establishment losing its mind over <a href="https://a16z.com/2021/01/25/doubling-down-marketing-update-new-media/">the announcement in January</a>; I argued in <a href="https://stratechery.com/2021/publishing-is-back-to-the-future/">Publishing is Back to the Future</a> that the announcement seemed to be part of a much larger shift in media from a world of scarcity, where newspapers were profitable thanks to geographic monopolies, to one of abundance, where publications succeeded based on their ability to attract audiences who could visit any website on the Internet:</p>
+  <blockquote>
+    <p>To put it another way, what the New York Times has become is not so different from what Andreessen Horowitz is proposing to build. Margit Wennmachers said in that introductory post that “Our lens is rational optimism about technology and the future”; as a long time subscriber of the New York Times, I think it is fair to call their lens rational skepticism about technology and its effects. What is notable about both is that their lenses are perfectly aligned with their business models (and, I would note, both claim to be motivated to change the world).</p>
+  </blockquote>
+  <p>a16z’s business model is, of course, venture capital, and Wennmachers, in <a href="https://www.bloomberg.com/news/videos/2021-06-15/andreesen-horowitz-launches-media-website-video?sref=5KSwFgaY">an interview with Bloomberg’s Emily Chang</a>, was clear that driving a16z’s venture business was the primary focus of Future:</p>
+  <blockquote>
+    <p>I’m trying to accomplish a business goal. Our firm wants to advance the future and thinks that technology is a good force in the world, and by implication we think that will make us attractive to entrepreneurs, and that’s what our business is all about. The three things that matter in venture capital are seeing the deals, picking the deals, and very importantly, winning the deals. If my function can help us see the deals then I’m making a contribution to advancing the future.</p>
+  </blockquote>
+  <p>Wennmachers added that Future wasn’t going to be focused on traditional news reporting, and, for the record, none of this is in conflict with the original announcement; that’s not to say the media’s overreaction wasn’t warranted: I can only imagine how many page views and subscription dollars were driven by said overreaction. Understanding business models has always been one of the most reliable ways to understand the behavior of organizations.</p>
+  <h4 id="technology-saves-the-world">Technology Saves the World</h4>
+  <p>One could certainly make a similar argument about the striking differences between <em>It’s Time to Build</em> and <em>Technology Saves the World</em>; in <a href="https://stratechery.com/2020/how-tech-can-build/">How Tech Can Build</a> I noted that the venture capital business model, which is biased towards zero marginal cost business models, wasn’t particularly well-suited to the sort of industrial policy that Andreessen seemed to be espousing:</p>
+  <blockquote>
+    <p>I agree with Andreessen that much of the software revolution is inevitable; I also agree that tech’s seeming exclusivity on innovation has also been about the online space being the one place without the inertia and regulatory capture Andreessen decries. If you are talented and ambitious, what better place to be?</p>
+    <p>What I also sense in Andreessen’s essay, though, is the acknowledgment that tech too has chosen the easier path. Instead of fighting inertia or regulatory capture, it has been easier to retreat to Silicon Valley, justify the massive costs of doing so by pursuing infinite-upside outcomes predicated on zero marginal costs, which means relying almost exclusively on software as the means of innovation.</p>
+  </blockquote>
+  <p><em>Technology Saves the World</em> seems to imply that is sufficient; Andreessen cites a number of ways that technology has excelled during the pandemic:</p>
+  <ul>
+    <li>Vaccines, particularly those developed using mRNA, were created, tested, and delivered at scale within a year.</li>
+    <li>Telemedicine was enabled at scale.</li>
+    <li>The majority of businesses continued to function thanks to technology platforms that enabled remote work.</li>
+    <li>Huge numbers of small businesses moved online, thanks to platforms like Facebook, Instacart, Doordash, and more.</li>
+    <li>Schools figured out online learnings, laying the groundwork for a huge expansion in educational opportunities.</li>
+    <li>Online entertainment kept people entertained, and online networks kept people connected.</li>
+    <li>The realization that people can work remotely separated the link between geography and economic opportunity.</li>
+  </ul>
+  <p>This leads to the cynical argument: all of the pieces for these success stories were built before the pandemic hit — that’s why the U.S. was able to navigate the pandemic as well as it did. Which, conveniently enough, means that venture capital was already getting things right. It’s not-so-much “Time to Build” as it is “Keep Building the Things We Were Building All Along.” The business model is safe!</p>
+  <h4 id="revisiting-compaq-and-coronavirus">Revisiting Compaq and Coronavirus</h4>
+  <p>Your ears may have perked up at the phrase “that’s why the U.S. was able to navigate the pandemic as well as it did”; wasn’t the American response an abject disaster? It certainly seemed so a year ago; Andreessen opened <em>It’s Time to Build</em> by writing:</p>
+  <blockquote>
+    <p>Every Western institution was unprepared for the coronavirus pandemic, despite many prior warnings. This monumental failure of institutional effectiveness will reverberate for the rest of the decade, but it’s not too early to ask why, and what we need to do about it. Many of us would like to pin the cause on one political party or another, on one government or another. But the harsh reality is that it all failed — no Western country, or state, or city was prepared — and despite hard work and often extraordinary sacrifice by many people within these institutions. So the problem runs deeper than your favorite political opponent or your home nation.</p>
+  </blockquote>
+  <p>I had struck a similarly despondent tone a couple of weeks earlier in <a href="https://stratechery.com/2020/compaq-and-coronavirus/">Compaq and Coronavirus</a>:</p>
+  <blockquote>
+    <p>The fact of the matter is that we do make tradeoffs between human lives and economic activity all the time — speed limits are perhaps the most banal example. What is truly tragic is the utter lack of resolve and lack of a bias for action in this so-called tradeoff. The only options are to give up the economy or give in to the virus: the possibility of actually beating the damn thing is completely missing from the conversation. To put it another way, the West feels like Compaq in the 1990s, relying on its brand name and partnerships with other entities to do the actual work, forgetting that it was hard work and determination that made it great in the first place.</p>
+  </blockquote>
+  <p>I drew a contrast to Taiwan, which responded rapidly to limit the spread of the coronavirus, and then kept it at bay for over a year, allowing life to operate normally. Today, though, the tables have turned: the U.S. is almost completely open, thanks to vaccines, while Taiwan, like many other Asian countries, is struggling with outbreaks and imposing lockdowns, and pinning their hopes in part on <a href="https://focustaiwan.tw/politics/202106200006">U.S. vaccine exports</a>.</p>
+  <p>That’s not to minimize the massive suffering that occurred over the last year: over 600,000 deaths in the U.S., and a fatality rate of 183/100,000 people, 20th in the world (Taiwan, even with the recent outbreak, is at a mere 2/100,000 people). It is, though, a reminder that making grand pronouncements in the first inning is often a mistake. I reflected earlier this year in a <a href="https://stratechery.com/2021/a-pandemic-year-coronavirus-and-information-zeynep-tufekci-cuts-through/">Daily Update</a>:</p>
+  <blockquote>
+    <p>If one were to have presented you with a hypothetical in which the U.S. population was impossible to coordinate during a crisis, yet it was the U.S. that the led the way technologically and logistically in ending the crisis, that would make total sense, right? Moreover, it seems clear that the failure in the beginning is related to the triumph in the end: the U.S. remains a dynamic place with more variance than anywhere in the West, which is why you should expect both the highest highs (when there is a clear goal with an uncertain route to success) and the lowest lows (when there is an unclear goal with top down control).</p>
+  </blockquote>
+  <p>Everything is indeed a trade-off, but what is important to remember is that the trade-off extends beyond a single pandemic as well. I don’t think it’s an accident that China both crushed the pandemic and also was the place where it originally spiraled out of control, thanks in part to the suppression of the spread of information; the country is also <a href="https://www.scmp.com/news/china/diplomacy/article/3137095/open-business-trouble-bringing-down-chinas-coronavirus-travel">nowhere near opening up</a> even as its vaccines are of <a href="https://www.cnn.com/2021/04/12/china/china-vaccine-efficacy-intl-hnk/index.html">questionable efficacy</a>. Is it a stretch to wonder if a bias towards top-down control might be better for mass coordination problems, and worse for innovative and dynamic responses?</p>
+  <h4 id="the-promise-of-remote-work">The Promise of Remote Work</h4>
+  <p>I suspect this sort of reflection is just as much of a driver of Andreessen’s change of tone as is the a16z business model; after all, the first non-pandemic example he gave in <em>It’s Time to Build</em> of American sclerosis was housing:</p>
+  <blockquote>
+    <p>You see it in housing and the physical footprint of our cities. We can’t build nearly enough housing in our cities with surging economic potential — which results in crazily skyrocketing housing prices in places like San Francisco, making it nearly impossible for regular people to move in and take the jobs of the future. We also can’t build the cities themselves anymore. When the producers of HBO’s “Westworld” wanted to portray the American city of the future, they didn’t film in Seattle or Los Angeles or Austin — they went to Singapore. We should have gleaming skyscrapers and spectacular living environments in all our best cities at levels way beyond what we have now; where are they?</p>
+  </blockquote>
+  <p>However <em>Technology Saves the World</em>, as noted, highlights remote work:</p>
+  <blockquote>
+    <p>For thousands of years, until the time of COVID, the dominant fact of every productive economy has been that people need to live where we work. The best jobs have always been in the bigger cities, where quality of life is inevitably impaired by the practical constraints of colocation and density. This has also meant that governance of bigger cities can be truly terrible, since people have no choice but to live there if they want the good jobs.</p>
+    <p>What we have learned — what we were forced to learn — during the COVID lockdowns has permanently shattered these assumptions. It turns out many of the best jobs really can be performed from anywhere, through screens and the Internet. It turns out people really can live in a smaller city or a small town or in rural nowhere and still be just as productive as if they lived in a tiny one-room walk-up in a big city. It turns out companies really are capable of organizing and sustaining remote work even — perhaps especially — in the most sophisticated and complex fields.</p>
+    <p>This is, I believe, a permanent civilizational shift. It is perhaps the most important thing that’s happened in my lifetime, a consequence of the Internet that’s maybe even more important than the Internet. Permanently divorcing physical location from economic opportunity gives us a real shot at radically expanding the number of good jobs in the world while also dramatically improving quality of life for millions, or billions, of people. We may, at long last, shatter the geographic lottery, opening up opportunity to countless people who weren’t lucky enough to be born in the right place. And people are leaping at the opportunities this shift is already creating, moving both homes and jobs at furious rates. It will take years to understand where this leads, but I am extremely optimistic.</p>
+  </blockquote>
+  <p>There are echoes here of the self-serving arguments proffered by business executives who profited massively from moving jobs abroad: look at how much life improved for billions of people (particularly in China)! It’s a complicated argument because it is, objectively speaking, true; the human race as a whole is in a far better place today than it was forty years ago, thanks to globalization. At the same time, who believes that human betterment was the goal, as opposed to corporate profits? And what costs were incurred, both to middle class Americans and to America’s industrial capacity, in the meantime?</p>
+  <p>Still, the unbundling of work and geography seems like the only way to cut the Gordian Knot that is the U.S. housing crisis; <a href="https://en.wikipedia.org/wiki/NIMBY">NIMBY</a> housing policies are a perhaps unavoidable outcomes of any democratic system that inherently favors those who live in a particular location over those that wish they did. It seems far more compatible with our ideals to overcome those problems with competition than top-down fiat, and technology has created the conditions for that sort of competition to occur. Perhaps it is appropriate that <em>It’s Time to Build</em> only had skyscrapers in metadata; the actual solution may be small towns and suburbs.</p>
+  <h4 id="progress">Progress</h4>
+  <p>“Progress” is an interesting term nowadays; self-described Progressives like Ezra Klein, for example, responded to <em>It’s Time to Build</em> by <a href="https://www.vox.com/2020/4/22/21228469/marc-andreessen-build-government-coronavirus">bemoaning our inability to pass new laws</a>:</p>
+  <blockquote>
+    <p>The question, then, is why don’t we build? What’s stopping us? Here’s my answer: The institutions through which Americans build have become biased against action rather than toward it. They’ve become, in political scientist Francis Fukuyama’s term, “vetocracies,” in which too many actors have veto rights over what gets built. That’s true in the federal government. It’s true in state and local governments. It’s even true in the private sector.</p>
+    <p>I’m not against soliciting more ideas of what to build. But what we need is sustained funding, focus, and organizing to make building in America possible again. And that requires patiently engaging with the kinds of institutions that frustrate builders.</p>
+  </blockquote>
+  <p>Klein is very sharp on the changes in U.S. politics that have driven increased polarization and the difficulty in passing new laws; at the same time, it is notable that the solution to an array of progressive priorities have come from competitive impulses. Take privacy, as an example: Apple’s iOS 14 changes, which are great for Apple’s business, have done far more to change the advertising industry than Europe’s GDPR, which only entrenched the biggest players. It’s the same thing with climate change: Tesla has driven a wholesale shift in the automative industry first-and-foremost <a href="https://stratechery.com/2016/its-a-tesla/">by being cool</a>, while solar prices have <a href="https://rameznaam.com/2020/05/14/solars-future-is-insanely-cheap-2020/">plummeted far faster than expectations</a>; both are poised to succeed not by telling customers what they can’t do, but by making it more attractive to do what is better for the environment.</p>
+  <p>This for me is one of the biggest lessons from the last year: solutions that give customers what they want, from cooler cars to the ability to work from anywhere, are the way out of intractable problems, particularly if we want to remain true to Western values of self-determination and individual choice. That’s exactly what happened in the case of the pandemic: the U.S. didn’t beat the coronavirus by locking people up in their homes against their will, but by inventing new technology that let them live their lives as they wish. The ultimate governor on progress is the human condition, and catering to that reality, both in terms of what we build as well as why we build it, is a feature, not a bug.</p>
+  <p>One more point: it is notable, I think, that <em>Technology Saves the World</em> — along with most of Future’s initial slate of posts, I would add — didn’t really move the needle, particularly in contrast to the viral sensation that was <em>It’s Time to Build.</em> Even for Andreessen bad news is popular news!</p>
+  <p>That, though, is another feature-disguised-as-a-bug. Give me a world of invention and dynamism with media eagle-eyed for where things go wrong, over a world of conformism and stagnation with declarations that everything is going great. The value of what is built is borne out by reality on the ground — including the value of technology in the pandemic — while narratives are only as good as the restrictions on freedom necessary to make them unquestioned.</p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2021-07-07</time>
+        <a href="https://nodebe4.github.io/opinion/2021-07-07/Instagram-s-Evolution/">
+          Instagram’s Evolution
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-06-28</time>
+        <a href="https://nodebe4.github.io/opinion/2021-06-28/The-Lightness-of-Windows/">
+          The Lightness of Windows
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-06-15</time>
+        <a href="https://nodebe4.github.io/opinion/2021-06-15/The-Cicilline-Salvo/">
+          The Cicilline Salvo
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-06-08</time>
+        <a href="https://nodebe4.github.io/opinion/2021-06-08/Integrated-Apple-and-App-Store-Risk/">
+          Integrated Apple and App Store Risk
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2021-06-20/%E5%85%A7%E6%86%82%E5%A4%96%E6%82%A3%E5%A3%93%E5%8A%9B%E8%B6%8A%E5%A4%A7-%E7%BF%92%E8%BF%91%E5%B9%B3%E8%B6%8A%E6%83%B3%E5%8A%A0%E5%BC%B7%E6%8E%A7%E5%88%B6/">
+            前一篇：內憂外患壓力越大 習近平越想加強控制
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2021-06-21/CUPodcast-72-%E9%80%9A%E8%AD%98%E7%A7%91%E9%83%BD%E6%90%9E%E9%8C%AF%E4%BA%86%E9%A6%AC%E6%96%AF%E6%B4%9B%E7%9A%84%E9%9C%80%E6%B1%82%E5%B1%A4%E6%AC%A1%E7%90%86%E8%AB%96/">
+            後一篇：【*CUPodcast】#72 通識科都搞錯了馬斯洛的需求層次理論？
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2021-06-20/%E5%85%A7%E6%86%82%E5%A4%96%E6%82%A3%E5%A3%93%E5%8A%9B%E8%B6%8A%E5%A4%A7-%E7%BF%92%E8%BF%91%E5%B9%B3%E8%B6%8A%E6%83%B3%E5%8A%A0%E5%BC%B7%E6%8E%A7%E5%88%B6/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2021-06-21/CUPodcast-72-%E9%80%9A%E8%AD%98%E7%A7%91%E9%83%BD%E6%90%9E%E9%8C%AF%E4%BA%86%E9%A6%AC%E6%96%AF%E6%B4%9B%E7%9A%84%E9%9C%80%E6%B1%82%E5%B1%A4%E6%AC%A1%E7%90%86%E8%AB%96/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2021-06-28/The-Lightness-of-Windows/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2021-06-15/The-Cicilline-Salvo/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2021-06-20/%E5%85%A7%E6%86%82%E5%A4%96%E6%82%A3%E5%A3%93%E5%8A%9B%E8%B6%8A%E5%A4%A7-%E7%BF%92%E8%BF%91%E5%B9%B3%E8%B6%8A%E6%83%B3%E5%8A%A0%E5%BC%B7%E6%8E%A7%E5%88%B6/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2021-06-21/CUPodcast-72-%E9%80%9A%E8%AD%98%E7%A7%91%E9%83%BD%E6%90%9E%E9%8C%AF%E4%BA%86%E9%A6%AC%E6%96%AF%E6%B4%9B%E7%9A%84%E9%9C%80%E6%B1%82%E5%B1%A4%E6%AC%A1%E7%90%86%E8%AB%96/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2021-06-28/The-Lightness-of-Windows/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2021-06-15/The-Cicilline-Salvo/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

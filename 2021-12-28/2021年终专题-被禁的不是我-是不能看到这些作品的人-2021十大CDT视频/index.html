@@ -1,0 +1,939 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>【2021年终专题】“被禁的不是我，是不能看到这些作品的人”——2021十大CDT视频 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+【2021年终专题】“被禁的不是我，是不能看到这些作品的人”——2021十大CDT视频
+——
+" />
+    <meta property="og:description" content="
+【2021年终专题】“被禁的不是我，是不能看到这些作品的人”——2021十大CDT视频
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="【2021年终专题】“被禁的不是我，是不能看到这些作品的人”——2021十大CDT视频" />
+    <meta property="twitter:title" content="【2021年终专题】“被禁的不是我，是不能看到这些作品的人”——2021十大CDT视频" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fmatters.news%2F%40ChinaDT%2F2021%25E5%25B9%25B4%25E7%25BB%2588%25E4%25B8%2593%25E9%25A2%2598-%25E8%25A2%25AB%25E7%25A6%2581%25E7%259A%2584%25E4%25B8%258D%25E6%2598%25AF%25E6%2588%2591-%25E6%2598%25AF%25E4%25B8%258D%25E8%2583%25BD%25E7%259C%258B%25E5%2588%25B0%25E8%25BF%2599%25E4%25BA%259B%25E4%25BD%259C%25E5%2593%2581%25E7%259A%2584%25E4%25BA%25BA-2021%25E5%258D%2581%25E5%25A4%25A7cdt%25E8%25A7%2586%25E9%25A2%2591-bafyreifzop7mwltebkginqqxppkz35s6rpddcayynyq3vzoydq5lrygmji" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://matters.news/@ChinaDT/2021%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E8%A2%AB%E7%A6%81%E7%9A%84%E4%B8%8D%E6%98%AF%E6%88%91-%E6%98%AF%E4%B8%8D%E8%83%BD%E7%9C%8B%E5%88%B0%E8%BF%99%E4%BA%9B%E4%BD%9C%E5%93%81%E7%9A%84%E4%BA%BA-2021%E5%8D%81%E5%A4%A7cdt%E8%A7%86%E9%A2%91-bafyreifzop7mwltebkginqqxppkz35s6rpddcayynyq3vzoydq5lrygmji" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://matters.news/@ChinaDT/2021%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E8%A2%AB%E7%A6%81%E7%9A%84%E4%B8%8D%E6%98%AF%E6%88%91-%E6%98%AF%E4%B8%8D%E8%83%BD%E7%9C%8B%E5%88%B0%E8%BF%99%E4%BA%9B%E4%BD%9C%E5%93%81%E7%9A%84%E4%BA%BA-2021%E5%8D%81%E5%A4%A7cdt%E8%A7%86%E9%A2%91-bafyreifzop7mwltebkginqqxppkz35s6rpddcayynyq3vzoydq5lrygmji&text=【2021年终专题】“被禁的不是我，是不能看到这些作品的人”——2021十大CDT视频&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://matters.news/@ChinaDT/2021%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E8%A2%AB%E7%A6%81%E7%9A%84%E4%B8%8D%E6%98%AF%E6%88%91-%E6%98%AF%E4%B8%8D%E8%83%BD%E7%9C%8B%E5%88%B0%E8%BF%99%E4%BA%9B%E4%BD%9C%E5%93%81%E7%9A%84%E4%BA%BA-2021%E5%8D%81%E5%A4%A7cdt%E8%A7%86%E9%A2%91-bafyreifzop7mwltebkginqqxppkz35s6rpddcayynyq3vzoydq5lrygmji&title=【2021年终专题】“被禁的不是我，是不能看到这些作品的人”——2021十大CDT视频" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://matters.news/@ChinaDT/2021%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E8%A2%AB%E7%A6%81%E7%9A%84%E4%B8%8D%E6%98%AF%E6%88%91-%E6%98%AF%E4%B8%8D%E8%83%BD%E7%9C%8B%E5%88%B0%E8%BF%99%E4%BA%9B%E4%BD%9C%E5%93%81%E7%9A%84%E4%BA%BA-2021%E5%8D%81%E5%A4%A7cdt%E8%A7%86%E9%A2%91-bafyreifzop7mwltebkginqqxppkz35s6rpddcayynyq3vzoydq5lrygmji&title=【2021年终专题】“被禁的不是我，是不能看到这些作品的人”——2021十大CDT视频" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=【2021年终专题】“被禁的不是我，是不能看到这些作品的人”——2021十大CDT视频&body=
+【2021年终专题】“被禁的不是我，是不能看到这些作品的人”——2021十大CDT视频
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://matters.news/@ChinaDT/2021%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E8%A2%AB%E7%A6%81%E7%9A%84%E4%B8%8D%E6%98%AF%E6%88%91-%E6%98%AF%E4%B8%8D%E8%83%BD%E7%9C%8B%E5%88%B0%E8%BF%99%E4%BA%9B%E4%BD%9C%E5%93%81%E7%9A%84%E4%BA%BA-2021%E5%8D%81%E5%A4%A7cdt%E8%A7%86%E9%A2%91-bafyreifzop7mwltebkginqqxppkz35s6rpddcayynyq3vzoydq5lrygmji" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://matters.news/@ChinaDT/2021%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E8%A2%AB%E7%A6%81%E7%9A%84%E4%B8%8D%E6%98%AF%E6%88%91-%E6%98%AF%E4%B8%8D%E8%83%BD%E7%9C%8B%E5%88%B0%E8%BF%99%E4%BA%9B%E4%BD%9C%E5%93%81%E7%9A%84%E4%BA%BA-2021%E5%8D%81%E5%A4%A7cdt%E8%A7%86%E9%A2%91-bafyreifzop7mwltebkginqqxppkz35s6rpddcayynyq3vzoydq5lrygmji&title=【2021年终专题】“被禁的不是我，是不能看到这些作品的人”——2021十大CDT视频&caption=
+【2021年终专题】“被禁的不是我，是不能看到这些作品的人”——2021十大CDT视频
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=【2021年终专题】“被禁的不是我，是不能看到这些作品的人”——2021十大CDT视频&url=https://matters.news/@ChinaDT/2021%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E8%A2%AB%E7%A6%81%E7%9A%84%E4%B8%8D%E6%98%AF%E6%88%91-%E6%98%AF%E4%B8%8D%E8%83%BD%E7%9C%8B%E5%88%B0%E8%BF%99%E4%BA%9B%E4%BD%9C%E5%93%81%E7%9A%84%E4%BA%BA-2021%E5%8D%81%E5%A4%A7cdt%E8%A7%86%E9%A2%91-bafyreifzop7mwltebkginqqxppkz35s6rpddcayynyq3vzoydq5lrygmji" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>【2021年终专题】“被禁的不是我，是不能看到这些作品的人”——2021十大CDT视频</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2021-12-28
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#中国数字时代">
+          中国数字时代
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://matters.news/@ChinaDT/2021%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E8%A2%AB%E7%A6%81%E7%9A%84%E4%B8%8D%E6%98%AF%E6%88%91-%E6%98%AF%E4%B8%8D%E8%83%BD%E7%9C%8B%E5%88%B0%E8%BF%99%E4%BA%9B%E4%BD%9C%E5%93%81%E7%9A%84%E4%BA%BA-2021%E5%8D%81%E5%A4%A7cdt%E8%A7%86%E9%A2%91-bafyreifzop7mwltebkginqqxppkz35s6rpddcayynyq3vzoydq5lrygmji" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="中国数字时代的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#中国数字时代 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1640757101000-->
+<p><a href="https://matters.news/@ChinaDT/2021%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E8%A2%AB%E7%A6%81%E7%9A%84%E4%B8%8D%E6%98%AF%E6%88%91-%E6%98%AF%E4%B8%8D%E8%83%BD%E7%9C%8B%E5%88%B0%E8%BF%99%E4%BA%9B%E4%BD%9C%E5%93%81%E7%9A%84%E4%BA%BA-2021%E5%8D%81%E5%A4%A7cdt%E8%A7%86%E9%A2%91-bafyreifzop7mwltebkginqqxppkz35s6rpddcayynyq3vzoydq5lrygmji">【2021年终专题】“被禁的不是我，是不能看到这些作品的人”——2021十大CDT视频</a>
+——</p>
+
+<div>
+  <p><strong>CDT编者按：2021年即将过去，中国数字时代为读者整理了年终专题，共十篇，包括今年和我们告别的账号们、十大网络用语、十大404文章、十大敏感词、十大翻车现场、十大“每日一语”、十大CDT播客/视频、网络视频年度总结、十大CDT推荐媒体、年度人物。本文是年终专题第七篇，播客、视频各分一篇。上一篇是《2021十大“每日一语”》，下一篇即将刊出的是《网络视频年度总结》。</strong></p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/e3edfdba-4463-48a7-9cee-7689436dacef.png" data-asset-id="e3edfdba-4463-48a7-9cee-7689436dacef" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>2021年6月4日，中国数字时代推出了<a href="https://chinadigitaltimes.net/chinese/404-archives" rel="noopener noreferrer" target="_blank">【404档案馆】</a><span>栏目，这是一档集播客/视频于一体的节目。CDT长期致力于记录和传播中文互联网上被审查的信息，以及人们对抗政治压迫的努力，而【404档案馆】是我们首次尝试以更生动的方式向听众/观众讲述中国审查与反审查的故事。</span></p>
+  <p>目前，中国数字时代【404档案馆】播客节目在<a href="https://open.firstory.me/user/cdt" rel="noopener noreferrer" target="_blank">Firstory</a><span>、</span><a href="https://podcasts.apple.com/podcast/id1570504885" rel="noopener noreferrer" target="_blank"><span>Apple Podcast</span></a><span>、</span><a href="https://open.spotify.com/show/6apglIwT65EzuTxReF245T" rel="noopener noreferrer" target="_blank"><span>Spotify</span></a><span>、</span><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy81ZGM5ZDY1Yy9wb2RjYXN0L3Jzcw" rel="noopener noreferrer" target="_blank"><span>Google Podcast</span></a><span>等平台同步更新，半年时间，已发布54期；视频节目则发布在中国数字时代</span><a href="https://www.youtube.com/channel/UCwXewCWwaK1-yec8niJLrqg/" rel="noopener noreferrer" target="_blank"><span>YouTube频道</span></a><span>上，已发布34期。我们从往期的视频节目中，结合点击量、评论参与度、社交媒体转发量、内容重要性等，为读者精选了“十大视频”，一起回顾过去半年那些重要的人或事。值得一提的是，【404档案馆】开播这半年也是中国大事频发头条频刷的半年，即便栏目保持着总体不低的更新量，我们仍感有许多事件没来得及提起、记录。因严厉的网络审查，有许多视频在墙内被删除，中国数字时代还开通了档案馆</span><a href="https://www.youtube.com/channel/UCLAonQSTNGzaCddBIPQyOeA/" rel="noopener noreferrer" target="_blank"><span>YouTube频道</span></a><span>进行努力的备份。在此套用本年度因MV《玻璃心》而遭中国全网封杀的歌手黄明志的一句评论——被禁的不是我，是不能看到这些作品的人……</span></p>
+  <h2 id="section"><strong>【404档案馆】血案频发与禁搜“献忠学”</strong></h2>
+  <p>6月，网络上流行的“献忠梗”被列入敏感词，一个网络亚文化现象也因此被更多人了解。“张献忠”作为古中国传统史观里残暴贼寇的代名词，被不少网民用以指代那些进行暴力犯罪造成死伤的人，特别是对社会不满，进行无差别攻击的人，其流行背后的心态是，“希望有人出来破坏秩序，大肆屠杀”。当今的中国社会如一潭死水，戾气满溢，日益压抑，人们游走在神经质的边缘，当有人出来捣毁一切——不论是谁，不论是为了什么，TA所受到的一片欢呼，实则是一种绝望心态的显现，哪怕空气中浓浓的血腥气如此让人毛骨悚然。而官方将“献忠学”禁搜实则是产生“献忠”的重要原因：当一个社会中戾气纵横时，解决的方式永远是用更高压更恐怖的方式毙掉说出真相的口，那么，这口高压锅何时爆炸呢？目前该视频位列404档案馆播放排行第一名。</p>
+  <figure class="embed-video">
+    <div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/h0DTGrKPkTE?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+    </div>
+    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <h2 id="section-1"><strong>【404档案馆】中国数字时代对话《解构新疆镇压》第一作者许秀中</strong></h2>
+  <p>对于很多人来说，许秀中不是一个陌生的名字。最知名的外网身份是“澳大利亚智库研究员、新疆问题研究者”，对应的内网身份则是“西方围堵新疆棉花的始作俑者、90后女汉奸”。许秀中曾以第一作者的身份发表过两篇影响力巨大的新疆报告，《待售的维吾尔人》和《解构新疆镇压》。《解构新疆镇压》报告的<a href="https://chinadigitaltimes.net/chinese/architecture-repression" rel="noopener noreferrer" target="_blank">中文翻译版本</a><span>在中国数字时代首发、连载。对话许秀中是中国数字时代【404档案馆】制作的第一期视频专访类节目，通过这次对话，人们可以更多了解到许秀中（Vicky Xu）各种身份标签之外的真实生活、幕后故事。一位YouTube网友看后评论称“Vicky真好。每次看到世界上还有这样的人，自己才有勇气继续活下去啊！”视频版本包含约20min的精华内容，我们同时还整理发布了这次采访的</span><a href="https://chinadigitaltimes.net/chinese/674271.html" rel="noopener noreferrer" target="_blank"><span>完整文字版本</span></a><span>。</span></p>
+  <figure class="embed-video">
+    <div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/8RsmzqJW6Rc?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+    </div>
+    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <h2 id="section-2"><strong>【404档案馆】《玻璃心》后《墙外》又火了，主创黄明志是何许人也？</strong></h2>
+  <p>10月15日，马来西亚“音乐鬼才”黄明志发布了一首嘲讽小粉红的歌曲《玻璃心》在YouTube大火（目前播放量达3700余万），歌曲中含有“十里山路不换肩”的著名“辱包梗”，被网友称作“辱华”神曲。之后，黄明志又推出一首叫《墙外》的歌曲，借由推广金门观光的机会，以两名孩童两小无猜的故事，影射了中国大陆与自由华人世界“墙内”与“墙外”的隔离。有人说“《玻璃心》听完笑了，《墙外》听完哭了”。这期节目我们回顾了黄明志的履历，指出他爆红出圈并不是偶然，本身已是华语圈知名的创作者，曾屡屡涉足时政成大马政府黑名单上的麻烦人物。在《玻璃心》推出前不久，就已经在中国舆论场上“出圈”，而此次收获巨大的成功，喜提中国全网封杀的荣耀，无非是顺应了如今“大辱华时代”之势。</p>
+  <figure class="embed-video">
+    <div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/rdVEtBqMWKo?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+    </div>
+    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <h2 id="section-3">【<strong>404档案馆】彭帅指控张高丽，新增多少敏感词？</strong></h2>
+  <p>11月2日，中国网球名将彭帅发布微博，指控中共前政治局常委、前副总理张高丽对她进行性侵犯。审查系统随即采取大规模行动，对事件关键信息进行删除、屏蔽，以阻止人们对这一事件的传播和讨论。中国数字时代测试发现了彭帅、张高丽、瓜、网球、宇宙这些敏感词的出现，并在节目中进行了逐个敏感词的介绍、展示与解读。这也是近年较为罕见的实名指控中共高官事件，也被一些人认为是极具有呼应和示范效应的米兔案例。由于国际社会的大力关注、持续声援，该事件后续的发展戏剧性出现很多的“中国特色”，始终未能打消公众的怀疑：例如彭帅“报平安信件”的出现，例如官媒人士发布的“彭帅朋友圈”，例如国际奥委会与彭帅不公开的视频连线，例如“彭帅好友”丁力在推特的持续播报，例如彭帅强调“全过程自由”的一段媒体采访…..因担忧彭帅安危，WTA也宣布暂停在中国的所有赛事。</p>
+  <figure class="embed-video">
+    <div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/6jtiudZjgH0?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+    </div>
+    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <h2 id="section-4">【4<strong>04档案馆】谁要是让我这个生日过得不舒坦，我就让他一辈子不舒坦</strong></h2>
+  <p>7月1日是中共百年党庆，在七一临近前，中国进行了各种夸张的造势，爱党爱国宣传铺天盖地。同时，全面加强维稳，严密控制社会舆论和公民动态。如：1.对异议者进行镇压、逮捕。2.开通热线以供举报诋毁共产党及其历史的网上评论，严禁分享未经批准的党史版本。3.对香港民主运动及其参与者进行了一系列的镇压。当局对普通民众也加强了监视和限制，已被严格控制的中国网络空间则被进一步加强审查。有网友引用电视剧《走向共和》中慈禧太后的台词： “谁要是让我这个生日过得不舒坦，我就让他一辈子不舒坦”，总结中共在百年庆典前严密盯防的心态。纪念庆祝活动期间，新浪微博热搜榜前五十均与“建党一百周年”有关。没有发“庆贺建党百年微博”的艺人被小粉红逐个拉清单，“爱党/国不绝对就是绝对不爱党/国”。</p>
+  <figure class="embed-video">
+    <div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/1GmtpE_dJEQ?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+    </div>
+    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <h2 id="section-5">【40<strong>4档案馆】法庭裁判文书公开网怎么成了保密网？</strong></h2>
+  <p>7月，“中国文字狱事件盘点”的运营者王先生发现，一旦他在裁判文书网上发现并公开一个“因言获罪”的案例，引起舆论关注之后，相应的裁判文书很快就会从裁判文书网上消失。在文章《中国<a href="https://chinadigitaltimes.net/chinese/667621.html" rel="noopener noreferrer" target="_blank">裁判文书网删文动作时间线</a><span>》中，王先生列举了大量的案例。案件的曝光会引来媒体跟踪报道，大量用户去网站查询原文，致使相关判决书在曝光后的三天内全部下架。从2020年初至2021年5月，这样的具体案例就有将近20例。担忧敏感案件公开引来媒体关注，这应该是裁判文书网上的裁判文书被大量下架的最可能原因。号称“全球最大的裁判文书公开网站”出现了这种开倒车的现象，曾自吹自擂的“司法公开透明”也成了空谈。有网友指出“司法系统没有独立，自然就没有真正的司法公正，公正做不到，自然也做不到公开。”</span></p>
+  <figure class="embed-video">
+    <div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/Err6TF_3MtI?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+    </div>
+    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <h2 id="section-6">【4<strong>04档案馆】“实习狗加班好累”有什么问题？关于习近平的数万个敏感词</strong></h2>
+  <p>该节目是《从“习大大”到“习近平思想”：个人崇拜如何进化》的后续。敏感词审查，是中国网民习以为常的上网经历，而涉及领导人的敏感词审查又是严上加严，作为“定于一尊”的中国最高领导人，习近平的相关敏感词数量更是达到了惊人的程度，涵盖的类型也极为广泛。加上最近几年习近平修宪废除任期限制、中美贸易战、香港反送中、新冠疫情等，每次重大事件的发生，都让这个敏感词词库更加“丰满”。这期节目我们挑选了一些千奇百怪的敏感词与观众分享，一同感受庞大习近平敏感词库的一小部分，同时我们还收集整理了部分由知名辱包账号乳透社、墙国蛙蛤蛤所制作的网络热门辱包视频片段加入其中（有网民评论说“合着这期是给包包大人拉了个清单啊”），展示中国网民是如何不断创造新的表达与敏感词审查进行持久对抗的，而TA们的行动才是这个敏感词库不断壮大的原因。</p>
+  <figure class="embed-video">
+    <div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/P9iZEEUw5no?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+    </div>
+    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <h2 id="section-7">【40<strong>4档案馆】张展的绝食抗争，已经持续一年零三个月</strong></h2>
+  <p>2020年初，新冠疫情爆发后，几位中国公民记者陈秋实、方斌、李泽华与张展，陆续前往武汉报道疫情，均被“强制失踪”。2020年12月28日，张展被上海一家法院以“寻衅滋事罪”判刑4年——“2020年从李文亮训诫开始，到张展审判结束”。然而，张展的抗争并没有因为坐牢而结束。7月31日，正在服刑中的张展因为长期绝食抗争，身体极度虚弱，被送往医院治疗。据称，张展采取半绝食抗议方式已持续一年零三个月，极度营养不良，体重已只有40公斤，看守所只得安排人员强迫灌食。10月30日起，张展的哥哥张举在推特表达忧虑，他担忧“张展无法坚持过即将到来的冬天”，希望让张展保外就医。11月18日“无国界记者”颁给张展“2021年新闻自由奖的勇气奖”，19日联合国发布了一份“呼吁无条件释放被监禁的公民记者张展”的新闻声明。目前，人们仍在以多种形式关注声援着狱中的张展。</p>
+  <figure class="embed-video">
+    <div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/t8QN6ysGPng?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+    </div>
+    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <h2 id="section-8">【404<strong>档案馆】一场诉讼的失败与胜利，弦子诉朱军性骚扰案回顾</strong></h2>
+  <p>9月14日，弦子诉朱军性骚扰损害责任纠纷一案，在北京市海淀区法院二次开庭，在经过近9个小时的漫长庭审后，海淀法院宣判称，弦子提交的证据不足以证明朱军对其性骚扰的主张，因此驳回了她的诉讼请求。此事从2018年曝光、进入司法程序以来，已经历时三年。很多人关注这件事情“不只是为了胜利的结果，而是基本的程序公平”或是“向历史要答案”。这期视频，我们回顾了案件的起始，记录了弦子从2018年起诉朱军性骚扰后遭遇的一系列网络审查甚至封号禁言，共同见证了中国米兔运动的逐步成长，以及这一代表性案例当事人弦子的勇敢和坚持，弦子支持者们的陪伴和声援。正如弦子曾说“从18年前到现在，即使案件最后没法取得司法意义上的胜利，但是能够让很多人看到和我一样的性别暴力的受害者，就已经是一种胜利。”</p>
+  <figure class="embed-video">
+    <div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/QOi9x_WP6Q0?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+    </div>
+    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p><br /></p>
+  <p><br /></p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#中国数字时代 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-02-12/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC276%E6%9C%9F-%E5%94%B1%E7%A6%81%E6%AD%8C-%E5%88%B0-%E7%A6%81%E6%AD%A2%E5%90%90%E6%A7%BD-%E8%A7%81%E8%AF%81%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E5%8F%98%E8%BF%81%E7%9A%84%E6%98%A5%E6%99%9A/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2021-12-14/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E4%B8%93%E8%AE%BF-%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3%E5%AF%B9%E8%AF%9D-%E8%A7%A3%E6%9E%84%E6%96%B0%E7%96%86%E9%95%87%E5%8E%8B-%E7%AC%AC%E4%B8%80%E4%BD%9C%E8%80%85%E8%AE%B8%E7%A7%80%E4%B8%AD/">最早</a>--</span>
+    
+      <li>
+        <time>2021-12-31</time>
+        <a href="https://nodebe4.github.io/opinion/2021-12-31/2021%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E7%AE%80%E4%B8%AD%E8%B5%9B%E5%8D%9A%E5%9D%9F%E5%9C%BA-%E5%85%AD%E5%9B%9B%E5%8D%9A%E7%89%A9%E9%A6%86-%E6%97%B6%E4%BB%A3%E9%80%8F%E9%95%9C-2021%E5%B9%B4%E5%8D%81%E5%A4%A7%E6%8E%A8%E8%8D%90%E5%AA%92%E4%BD%93/">
+          【2021年终专题】简中赛博坟场、六四博物馆、时代透镜——2021年十大推荐媒体
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-12-30</time>
+        <a href="https://nodebe4.github.io/opinion/2021-12-30/2021%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E5%A6%82%E6%9E%9C%E4%BF%A1%E5%BF%B5%E6%9C%89%E9%A2%9C%E8%89%B2-%E9%82%A3%E4%B8%80%E5%AE%9A%E6%98%AF%E9%AB%98%E7%BA%A7%E9%BB%91-2021%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/">
+          【2021年终专题】如果信念有颜色，那一定是高级黑——2021网络视频年度总结
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-12-27</time>
+        <a href="https://nodebe4.github.io/opinion/2021-12-27/2021%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E5%AE%A1%E6%9F%A5%E5%B7%A8%E8%BD%AE%E4%B8%8B%E7%9A%84-%E7%8F%8A%E7%91%9A%E7%A4%81-2021%E5%B9%B4%E6%9C%80%E5%8F%97%E5%85%B3%E6%B3%A8%E7%9A%84-%E6%AF%8F%E6%97%A5%E4%B8%80%E8%AF%AD/">
+          【2021年终专题】审查巨轮下的“珊瑚礁”：2021年最受关注的“每日一语”
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-12-25</time>
+        <a href="https://nodebe4.github.io/opinion/2021-12-25/2021%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E5%85%A8%E5%9B%BD%E4%B8%8A%E4%B8%8B%E4%B8%80%E7%89%87%E6%84%9F%E6%81%A9-2021%E5%8D%81%E5%A4%A7%E7%BF%BB%E8%BD%A6%E7%8E%B0%E5%9C%BA/">
+          【2021年终专题】“全国上下一片感恩”……2021十大翻车现场
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2021-12-27/%E8%82%85%E8%AA%AA-%E9%96%8B%E6%92%AD%E5%85%A9%E9%80%B1%E5%B9%B4%E5%8C%AF%E5%A0%B1-%E7%8E%8B%E5%8A%9B%E5%AE%8F-%E4%BD%9F%E9%BA%97%E5%A9%AD-%E7%82%BA%E4%BD%95%E5%90%8C%E4%BA%BA%E4%B8%8D%E5%90%8C%E5%91%BD/">
+            前一篇：肅說：開播兩週年匯報 王力宏 佟麗婭 為何同人不同命？
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2021-12-29/%E8%B4%BA%E5%8D%AB%E6%96%B9%E8%80%81%E5%B8%88%E5%9B%9E%E7%AD%94%E7%BE%A4%E5%8F%8B%E9%97%AE%E9%A2%98-2021-12-28/">
+            後一篇：贺卫方老师回答群友问题（2021-12-28）
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2021-12-27/%E8%82%85%E8%AA%AA-%E9%96%8B%E6%92%AD%E5%85%A9%E9%80%B1%E5%B9%B4%E5%8C%AF%E5%A0%B1-%E7%8E%8B%E5%8A%9B%E5%AE%8F-%E4%BD%9F%E9%BA%97%E5%A9%AD-%E7%82%BA%E4%BD%95%E5%90%8C%E4%BA%BA%E4%B8%8D%E5%90%8C%E5%91%BD/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2021-12-29/%E8%B4%BA%E5%8D%AB%E6%96%B9%E8%80%81%E5%B8%88%E5%9B%9E%E7%AD%94%E7%BE%A4%E5%8F%8B%E9%97%AE%E9%A2%98-2021-12-28/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2021-12-30/2021%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E5%A6%82%E6%9E%9C%E4%BF%A1%E5%BF%B5%E6%9C%89%E9%A2%9C%E8%89%B2-%E9%82%A3%E4%B8%80%E5%AE%9A%E6%98%AF%E9%AB%98%E7%BA%A7%E9%BB%91-2021%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2021-12-27/2021%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E5%AE%A1%E6%9F%A5%E5%B7%A8%E8%BD%AE%E4%B8%8B%E7%9A%84-%E7%8F%8A%E7%91%9A%E7%A4%81-2021%E5%B9%B4%E6%9C%80%E5%8F%97%E5%85%B3%E6%B3%A8%E7%9A%84-%E6%AF%8F%E6%97%A5%E4%B8%80%E8%AF%AD/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2021-12-27/%E8%82%85%E8%AA%AA-%E9%96%8B%E6%92%AD%E5%85%A9%E9%80%B1%E5%B9%B4%E5%8C%AF%E5%A0%B1-%E7%8E%8B%E5%8A%9B%E5%AE%8F-%E4%BD%9F%E9%BA%97%E5%A9%AD-%E7%82%BA%E4%BD%95%E5%90%8C%E4%BA%BA%E4%B8%8D%E5%90%8C%E5%91%BD/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2021-12-29/%E8%B4%BA%E5%8D%AB%E6%96%B9%E8%80%81%E5%B8%88%E5%9B%9E%E7%AD%94%E7%BE%A4%E5%8F%8B%E9%97%AE%E9%A2%98-2021-12-28/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<中国数字时代>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2021-12-30/2021%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E5%A6%82%E6%9E%9C%E4%BF%A1%E5%BF%B5%E6%9C%89%E9%A2%9C%E8%89%B2-%E9%82%A3%E4%B8%80%E5%AE%9A%E6%98%AF%E9%AB%98%E7%BA%A7%E9%BB%91-2021%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<中国数字时代>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2021-12-27/2021%E5%B9%B4%E7%BB%88%E4%B8%93%E9%A2%98-%E5%AE%A1%E6%9F%A5%E5%B7%A8%E8%BD%AE%E4%B8%8B%E7%9A%84-%E7%8F%8A%E7%91%9A%E7%A4%81-2021%E5%B9%B4%E6%9C%80%E5%8F%97%E5%85%B3%E6%B3%A8%E7%9A%84-%E6%AF%8F%E6%97%A5%E4%B8%80%E8%AF%AD/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

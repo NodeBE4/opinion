@@ -1,0 +1,2227 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>ForeignAffairsMag在2022-02-21~2022-02-27的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="ForeignAffairsMag在2022-02-21~2022-02-27的言论" />
+    <meta property="twitter:title" content="ForeignAffairsMag在2022-02-21~2022-02-27的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2Fcybersecurity%2Fcomments%2Fsxwrda%2Fthe_cyber_social_contract_how_to_rebuild_trust_in%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/cybersecurity/comments/sxwrda/the_cyber_social_contract_how_to_rebuild_trust_in/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/cybersecurity/comments/sxwrda/the_cyber_social_contract_how_to_rebuild_trust_in/&text=ForeignAffairsMag在2022-02-21~2022-02-27的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/cybersecurity/comments/sxwrda/the_cyber_social_contract_how_to_rebuild_trust_in/&title=ForeignAffairsMag在2022-02-21~2022-02-27的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/cybersecurity/comments/sxwrda/the_cyber_social_contract_how_to_rebuild_trust_in/&title=ForeignAffairsMag在2022-02-21~2022-02-27的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=ForeignAffairsMag在2022-02-21~2022-02-27的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/cybersecurity/comments/sxwrda/the_cyber_social_contract_how_to_rebuild_trust_in/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/cybersecurity/comments/sxwrda/the_cyber_social_contract_how_to_rebuild_trust_in/&title=ForeignAffairsMag在2022-02-21~2022-02-27的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=ForeignAffairsMag在2022-02-21~2022-02-27的言论&url=https://old.reddit.com/r/cybersecurity/comments/sxwrda/the_cyber_social_contract_how_to_rebuild_trust_in/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>ForeignAffairsMag在2022-02-21~2022-02-27的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-02-26
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: ForeignAffairsMag</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/cybersecurity/comments/sxwrda/the_cyber_social_contract_how_to_rebuild_trust_in/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#130-the-cyber-social-contract-how-to-rebuild-trust-in-a-digital-world-submitted-on-2022-02-21-2352390800" id="markdown-toc-130-the-cyber-social-contract-how-to-rebuild-trust-in-a-digital-world-submitted-on-2022-02-21-2352390800">130: The Cyber Social Contract: How to Rebuild Trust in a Digital World, submitted on 2022-02-21 23:52:39+08:00.</a></li>
+  <li><a href="#131-ukraine-russia-conflict-megathread-5--live-thread-submitted-on-2022-02-22-0410290800" id="markdown-toc-131-ukraine-russia-conflict-megathread-5--live-thread-submitted-on-2022-02-22-0410290800">131: Ukraine-Russia Conflict Megathread 5 + Live Thread, submitted on 2022-02-22 04:10:29+08:00.</a></li>
+  <li><a href="#132-russias-shock-and-awe-why-moscow-would-use-overwhelming-force-against-ukraine-submitted-on-2022-02-22-0834290800" id="markdown-toc-132-russias-shock-and-awe-why-moscow-would-use-overwhelming-force-against-ukraine-submitted-on-2022-02-22-0834290800">132: Russia’s Shock and Awe: Why Moscow Would Use Overwhelming Force Against Ukraine, submitted on 2022-02-22 08:34:29+08:00.</a></li>
+  <li><a href="#133-russia-invades-ukraine-megathread-i---rule-changes-inside-submitted-on-2022-02-24-1800190800" id="markdown-toc-133-russia-invades-ukraine-megathread-i---rule-changes-inside-submitted-on-2022-02-24-1800190800">133: Russia invades Ukraine Megathread I - Rule changes inside, submitted on 2022-02-24 18:00:19+08:00.</a></li>
+  <li><a href="#134-the-dictators-new-playbook-why-democracy-is-losing-the-fight-submitted-on-2022-02-25-0002210800" id="markdown-toc-134-the-dictators-new-playbook-why-democracy-is-losing-the-fight-submitted-on-2022-02-25-0002210800">134: The Dictator’s New Playbook: Why Democracy Is Losing the Fight, submitted on 2022-02-25 00:02:21+08:00.</a></li>
+  <li><a href="#135-russia-invades-ukraine-megathread-ii-submitted-on-2022-02-25-0449510800" id="markdown-toc-135-russia-invades-ukraine-megathread-ii-submitted-on-2022-02-25-0449510800">135: Russia invades Ukraine Megathread II, submitted on 2022-02-25 04:49:51+08:00.</a></li>
+  <li><a href="#136-the-eurasian-nightmare-chinese-russian-convergence-and-the-future-of-american-order-submitted-on-2022-02-25-2339530800" id="markdown-toc-136-the-eurasian-nightmare-chinese-russian-convergence-and-the-future-of-american-order-submitted-on-2022-02-25-2339530800">136: The Eurasian Nightmare: Chinese-Russian Convergence and the Future of American Order, submitted on 2022-02-25 23:39:53+08:00.</a></li>
+  <li><a href="#137-russia-invades-ukraine-megathread-iii---please-be-aware-that-individual-posts-are-only-allowed-for-major-developments-submitted-on-2022-02-26-0235400800" id="markdown-toc-137-russia-invades-ukraine-megathread-iii---please-be-aware-that-individual-posts-are-only-allowed-for-major-developments-submitted-on-2022-02-26-0235400800">137: Russia invades Ukraine Megathread III - Please be aware that individual posts are only allowed for major developments, submitted on 2022-02-26 02:35:40+08:00.</a></li>
+  <li><a href="#138-putins-war-at-home-how-conflict-in-ukraine-complicates-his-balancing-act-submitted-on-2022-02-26-2251130800" id="markdown-toc-138-putins-war-at-home-how-conflict-in-ukraine-complicates-his-balancing-act-submitted-on-2022-02-26-2251130800">138: Putin’s War at Home: How Conflict in Ukraine Complicates His Balancing Act, submitted on 2022-02-26 22:51:13+08:00.</a></li>
+  <li><a href="#139-the-man-behind-putins-military-how-sergey-shoygu-paved-the-way-for-russias-ukraine-assault-submitted-on-2022-02-26-2256320800" id="markdown-toc-139-the-man-behind-putins-military-how-sergey-shoygu-paved-the-way-for-russias-ukraine-assault-submitted-on-2022-02-26-2256320800">139: The Man Behind Putin’s Military: How Sergey Shoygu Paved the Way for Russia’s Ukraine Assault, submitted on 2022-02-26 22:56:32+08:00.</a></li>
+</ul>
+
+<h3 id="130-the-cyber-social-contract-how-to-rebuild-trust-in-a-digital-world-submitted-on-2022-02-21-2352390800">130: <a href="https://old.reddit.com/r/cybersecurity/comments/sxwrda/the_cyber_social_contract_how_to_rebuild_trust_in/">The Cyber Social Contract: How to Rebuild Trust in a Digital World</a>, submitted on 2022-02-21 23:52:39+08:00.</h3>
+
+<p>—– <strong>130.1</strong> —–2022-02-21 23:53:08+08:00:</p>
+
+<p>[SS from the article by Chris Inglis and Harry Krejsa]</p>
+
+<p>“The United States needs a new social contract for the digital age—one that meaningfully alters the relationship between public and private sectors and proposes a new set of obligations for each. Such a shift is momentous but not without precedent. From the Pure Food and Drug Act of 1906 to the Clean Air Act of 1963 and the public-private revolution in airline safety in the 1990s, the United States has made important adjustments following profound changes in the economy and technology.<br />
+A similarly innovative shift in the cyber-realm will likely require an intense process of development and iteration. Still, its contours are already clear: the private sector must prioritize long-term investments in a digital ecosystem that equitably distributes the burden of cyberdefense. Government, in turn, must provide more timely and comprehensive threat information while simultaneously treating industry as a vital partner. Finally, both the public and private sectors must commit to moving toward true collaboration—contributing resources, attention, expertise, and people toward institutions designed to prevent, counter, and recover from cyber-incidents.”</p>
+
+<h3 id="131-ukraine-russia-conflict-megathread-5--live-thread-submitted-on-2022-02-22-0410290800">131: <a href="https://old.reddit.com/r/europe/comments/sy330o/ukrainerussia_conflict_megathread_5_live_thread/">Ukraine-Russia Conflict Megathread 5 + Live Thread</a>, submitted on 2022-02-22 04:10:29+08:00.</h3>
+
+<p>—– <strong>131.1</strong> —–2022-02-23 04:26:58+08:00:</p>
+
+<p><a href="https://www.foreignaffairs.com/articles/china/2022-02-21/chinas-ukraine-crisis">China’s Ukraine Crisis: What Xi Gains—and Loses—From Backing Putin By Jude Blanchette and Bonny Lin</a></p>
+
+<p>—– <strong>131.2</strong> —–2022-02-23 22:52:52+08:00:</p>
+
+<p><a href="https://www.foreignaffairs.com/articles/ukraine/2022-02-23/putins-long-game-ukraine">“Putin’s Long Game in Ukraine: How the West Can Still Protect Kyiv” by Alina Polyakova and Daniel Fried.</a></p>
+
+<h3 id="132-russias-shock-and-awe-why-moscow-would-use-overwhelming-force-against-ukraine-submitted-on-2022-02-22-0834290800">132: <a href="https://old.reddit.com/r/geopolitics/comments/sy9egz/russias_shock_and_awe_why_moscow_would_use/">Russia’s Shock and Awe: Why Moscow Would Use Overwhelming Force Against Ukraine</a>, submitted on 2022-02-22 08:34:29+08:00.</h3>
+
+<p>—– <strong>132.1</strong> —–2022-02-22 08:36:14+08:00:</p>
+
+<p>[SS from the article by Michael Kofman, Research Program Director of the Russia Studies Program at the Center for Naval Analyses, and Jeffrey Edmonds, Senior Research Scientist in the Russia Studies Program at the Center for Naval Analyses]</p>
+
+<p>“A war between Russia and Ukraine could prove to be incredibly destructive. Even if the initial phase were quick and decisive, the conflict could morph into a dragged-out insurgency featuring a great number of refugees and civilian casualties—especially if the war reached urban areas. The scale and potential for escalation of such a conflict are difficult to predict, but they would likely produce levels of violence unseen in Europe since the 1990s, when Yugoslavia tore itself apart.”</p>
+
+<h3 id="133-russia-invades-ukraine-megathread-i---rule-changes-inside-submitted-on-2022-02-24-1800190800">133: <a href="https://old.reddit.com/r/europe/comments/t07d1k/russia_invades_ukraine_megathread_i_rule_changes/">Russia invades Ukraine Megathread I - Rule changes inside</a>, submitted on 2022-02-24 18:00:19+08:00.</h3>
+
+<p>—– <strong>133.1</strong> —–2022-02-24 23:56:19+08:00:</p>
+
+<p><a href="https://www.foreignaffairs.com/articles/ukraine/2022-02-24/putin-repeating-ussrs-mistakes">Putin Is Repeating the USSR’s Mistakes: Attacking Ukraine Will Likely Strengthen NATO, By James Hershberg</a></p>
+
+<p>—– <strong>133.2</strong> —–2022-02-25 01:21:15+08:00:</p>
+
+<p><a href="https://www.foreignaffairs.com/articles/ukraine/2022-02-21/russias-shock-and-awe">Russia’s Shock and Awe: Moscow’s Use of Overwhelming Force Against Ukraine by Michael Kofman and Jeffrey Edmonds</a></p>
+
+<h3 id="134-the-dictators-new-playbook-why-democracy-is-losing-the-fight-submitted-on-2022-02-25-0002210800">134: <a href="https://old.reddit.com/r/geopolitics/comments/t0egn4/the_dictators_new_playbook_why_democracy_is/">The Dictator’s New Playbook: Why Democracy Is Losing the Fight</a>, submitted on 2022-02-25 00:02:21+08:00.</h3>
+
+<p>—– <strong>134.1</strong> —–2022-02-25 00:03:56+08:00:</p>
+
+<p>[SS from the article by Moisés Naím, Distinguished Fellow at the Carnegie Endowment for International Peace]</p>
+
+<p>“Around the world, from the richest countries to the poorest, a dangerous new crop of leaders has sprung up. Unlike their totalitarian counterparts, these populists entered office through elections, but they show decidedly undemocratic proclivities. They propagate lies that become articles of faith among their followers. They sell themselves as noble and pure champions of the people, fighting against corrupt and greedy elites. They defy any constraints on their power and concentrate it in their own hands, launching frontal attacks on the institutions that sustain constitutional democracy, stacking the judiciary and the legislature, declaring war on the press, and scrapping laws that check their authority.</p>
+
+<h3 id="135-russia-invades-ukraine-megathread-ii-submitted-on-2022-02-25-0449510800">135: <a href="https://old.reddit.com/r/europe/comments/t0l13j/russia_invades_ukraine_megathread_ii/">Russia invades Ukraine Megathread II</a>, submitted on 2022-02-25 04:49:51+08:00.</h3>
+
+<p>—– <strong>135.1</strong> —–2022-02-25 23:56:25+08:00:</p>
+
+<p><a href="https://www.foreignaffairs.com/articles/ukraine/2022-02-25/putins-blunder">Putin’s Blunder: Ukraine Will Make Russia Regret This War, By Melinda Haring</a></p>
+
+<h3 id="136-the-eurasian-nightmare-chinese-russian-convergence-and-the-future-of-american-order-submitted-on-2022-02-25-2339530800">136: <a href="https://old.reddit.com/r/geopolitics/comments/t16w9a/the_eurasian_nightmare_chineserussian_convergence/">The Eurasian Nightmare: Chinese-Russian Convergence and the Future of American Order</a>, submitted on 2022-02-25 23:39:53+08:00.</h3>
+
+<p>—– <strong>136.1</strong> —–2022-02-25 23:41:09+08:00:</p>
+
+<p>[SS from the article by Hal Brands Henry A. Kissinger Distinguished Professor of Global Affairs at the Johns Hopkins School of Advanced International Studies and a Senior Fellow at the American Enterprise Institute.]</p>
+
+<p>“As Russia’s invasion of Ukraine crystallizes tensions between Putin and the West, it also underscores his need for support from Beijing.<br />
+The Sino-Russian convergence gives both powers more room for maneuver by magnifying Washington’s two-front problem: the United States now faces increasingly aggressive near-peer rivals in two separate theaters—eastern Europe and the western Pacific—that are thousands of miles apart. Sino-Russian cooperation, while fraught and ambivalent, raises the prospect that America’s two great-power rivalries could merge into a single contest against an autocratic axis. Even short of that, the current situation has revived the great geopolitical nightmare of the modern era: an authoritarian power or entente that strives for dominance in Eurasia, the central strategic theater of the world.”</p>
+
+<h3 id="137-russia-invades-ukraine-megathread-iii---please-be-aware-that-individual-posts-are-only-allowed-for-major-developments-submitted-on-2022-02-26-0235400800">137: <a href="https://old.reddit.com/r/europe/comments/t1b1jq/russia_invades_ukraine_megathread_iii_please_be/">Russia invades Ukraine Megathread III - Please be aware that individual posts are only allowed for major developments</a>, submitted on 2022-02-26 02:35:40+08:00.</h3>
+
+<p>—– <strong>137.1</strong> —–2022-02-26 22:58:50+08:00:</p>
+
+<p><a href="https://www.foreignaffairs.com/articles/russia-fsu/2022-02-26/putins-war-home">Putin’s War at Home: How Conflict in Ukraine Complicates His Balancing Act, By Timothy Frye</a></p>
+
+<p>—– <strong>137.2</strong> —–2022-02-26 23:11:36+08:00:</p>
+
+<p><a href="https://www.foreignaffairs.com/articles/ukraine/2022-02-26/making-putin-pay">Making Putin Pay: How the West Can Push Back Against Russia, By David J. Kramer, John Herbst, and William Taylor</a></p>
+
+<h3 id="138-putins-war-at-home-how-conflict-in-ukraine-complicates-his-balancing-act-submitted-on-2022-02-26-2251130800">138: <a href="https://old.reddit.com/r/geopolitics/comments/t1ysgc/putins_war_at_home_how_conflict_in_ukraine/">Putin’s War at Home: How Conflict in Ukraine Complicates His Balancing Act</a>, submitted on 2022-02-26 22:51:13+08:00.</h3>
+
+<p>—– <strong>138.1</strong> —–2022-02-26 22:52:11+08:00:</p>
+
+<p>[SS from the article by Timothy Frye, Professor of Post-Soviet Foreign Policy at Columbia University]</p>
+
+<p>“For almost two decades, Putin deftly balanced the dual threats that confront all autocrats: coups from other elites and protests from the masses. A booming economy in the first decade of this century allowed him to consolidate power, and his successful annexation of Crimea in 2014 ensured his place in Russian history. Putin could manipulate elections and public opinion, deliver rents to his cronies while still improving the living standards for the masses, and bask in high approval ratings.<br />
+Yet as the warm glow of his Crimea success has faded, Putin has struggled to find a narrative to legitimate his rule. A decade of slow economic growth, a botched response to the pandemic, corruption, and simple Putin fatigue among the populace have all blunted his tools for governing Russia. As I argued in the May/June 2021 issue of Foreign Affairs, Putin has therefore come to rely more heavily on the security services to maintain his grip on power, a dangerous bargain that necessitates greater repression at home and risks greater belligerence abroad. The invasion of Ukraine both flows from and reinforces this bargain, making Putin more dependent on the men in uniform who encourage his aggression.”</p>
+
+<h3 id="139-the-man-behind-putins-military-how-sergey-shoygu-paved-the-way-for-russias-ukraine-assault-submitted-on-2022-02-26-2256320800">139: <a href="https://old.reddit.com/r/TrueReddit/comments/t1ywe8/the_man_behind_putins_military_how_sergey_shoygu/">The Man Behind Putin’s Military: How Sergey Shoygu Paved the Way for Russia’s Ukraine Assault</a>, submitted on 2022-02-26 22:56:32+08:00.</h3>
+
+<p>—– <strong>139.1</strong> —–2022-02-26 22:57:17+08:00:</p>
+
+<p>[SS from the article by journalists Andrei Soldatov and Irina Borogan]</p>
+
+<p>“Previously regarded by many Russians as poorly run, underfunded, and backward, it is now equipped with a new generation of technology and supported by a military-industrial complex that has growing reach in Russian society. And with its newfound political clout, it has emerged as one of the most important institutions in Putin’s Russia.<br />
+Leading this transformation is one of the most ambitious members of Putin’s inner circle: Sergey Shoygu.”</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-02-27</time>
+        <a href="https://nodebe4.github.io/opinion/2022-02-27/Spinkcat/">
+          Spinkcat在2022-02-21~2022-02-27的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-02-27</time>
+        <a href="https://nodebe4.github.io/opinion/2022-02-27/EnclavedMicrostate/">
+          EnclavedMicrostate在2022-02-21~2022-02-27的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-02-20</time>
+        <a href="https://nodebe4.github.io/opinion/2022-02-20/theoryofdoom/">
+          theoryofdoom在2022-02-14~2022-02-20的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-02-20</time>
+        <a href="https://nodebe4.github.io/opinion/2022-02-20/EnclavedMicrostate/">
+          EnclavedMicrostate在2022-02-14~2022-02-20的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-02-25/Visualization-coverages-of-the-Russian-inva/">
+            前一篇：🖼🇺🇦 Visualization coverages of the Russian invasion of Ukraine in 2022- Bloomberg A Visual Guide to the Russian Invasion of Ukraine- The Guar
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-02-26/SpeechFreedomCN/">
+            後一篇：Twitter @中国文字狱事件盘点: 2022-02-21~2022-02-27
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-02-25/Visualization-coverages-of-the-Russian-inva/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-02-26/SpeechFreedomCN/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-02-27/EnclavedMicrostate/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-02-20/theoryofdoom/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-02-25/Visualization-coverages-of-the-Russian-inva/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-02-26/SpeechFreedomCN/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-02-27/EnclavedMicrostate/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-02-20/theoryofdoom/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

@@ -1,0 +1,2601 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>EnclavedMicrostate在2022-05-09~2022-05-15的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="EnclavedMicrostate在2022-05-09~2022-05-15的言论" />
+    <meta property="twitter:title" content="EnclavedMicrostate在2022-05-09~2022-05-15的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FAskHistorians%2Fcomments%2Ful6ul1%2Fwhy_was_rome_chosen_as_the_location_for_the%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/AskHistorians/comments/ul6ul1/why_was_rome_chosen_as_the_location_for_the/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/AskHistorians/comments/ul6ul1/why_was_rome_chosen_as_the_location_for_the/&text=EnclavedMicrostate在2022-05-09~2022-05-15的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/AskHistorians/comments/ul6ul1/why_was_rome_chosen_as_the_location_for_the/&title=EnclavedMicrostate在2022-05-09~2022-05-15的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/AskHistorians/comments/ul6ul1/why_was_rome_chosen_as_the_location_for_the/&title=EnclavedMicrostate在2022-05-09~2022-05-15的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=EnclavedMicrostate在2022-05-09~2022-05-15的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/AskHistorians/comments/ul6ul1/why_was_rome_chosen_as_the_location_for_the/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/AskHistorians/comments/ul6ul1/why_was_rome_chosen_as_the_location_for_the/&title=EnclavedMicrostate在2022-05-09~2022-05-15的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=EnclavedMicrostate在2022-05-09~2022-05-15的言论&url=https://old.reddit.com/r/AskHistorians/comments/ul6ul1/why_was_rome_chosen_as_the_location_for_the/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>EnclavedMicrostate在2022-05-09~2022-05-15的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-05-15
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: EnclavedMicrostate</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/AskHistorians/comments/ul6ul1/why_was_rome_chosen_as_the_location_for_the/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#414-why-was-rome-chosen-as-the-location-for-the-signing-of-i-the-european-convention-on-human-rights-1950-and-ii-the-eec-treaty-1957-submitted-on-2022-05-09-0137190800" id="markdown-toc-414-why-was-rome-chosen-as-the-location-for-the-signing-of-i-the-european-convention-on-human-rights-1950-and-ii-the-eec-treaty-1957-submitted-on-2022-05-09-0137190800">414: Why was Rome chosen as the location for the signing of I) the European Convention on Human Rights (1950) and II) the EEC Treaty (1957)?, submitted on 2022-05-09 01:37:19+08:00.</a></li>
+  <li><a href="#415-i-need-to-know-the-book-that-was-opened-by-a-japanese-women-concerning-the-two-bombs-dropped-on-japan-featured-in-pbss-my-grandfathers-war-submitted-on-2022-05-09-1057490800" id="markdown-toc-415-i-need-to-know-the-book-that-was-opened-by-a-japanese-women-concerning-the-two-bombs-dropped-on-japan-featured-in-pbss-my-grandfathers-war-submitted-on-2022-05-09-1057490800">415: I need to know the book that was opened by a Japanese women concerning the two bombs dropped on Japan featured in PBS’s My Grandfather’s War?, submitted on 2022-05-09 10:57:49+08:00.</a></li>
+  <li><a href="#416-former-associates-of-trump-eg-bolton-esper-continue-to-write-books-about-his-term-that-are-scathingly-critical-is-there-precedent-for-this-level-of-betrayal-to-a-potus-submitted-on-2022-05-09-1333060800" id="markdown-toc-416-former-associates-of-trump-eg-bolton-esper-continue-to-write-books-about-his-term-that-are-scathingly-critical-is-there-precedent-for-this-level-of-betrayal-to-a-potus-submitted-on-2022-05-09-1333060800">416: Former associates of Trump (e.g. Bolton, Esper) continue to write books about his term that are scathingly critical. Is there precedent for this level of betrayal to a POTUS?, submitted on 2022-05-09 13:33:06+08:00.</a></li>
+  <li><a href="#417-how-andropov-reform-would-look-like--submitted-on-2022-05-09-1423520800" id="markdown-toc-417-how-andropov-reform-would-look-like--submitted-on-2022-05-09-1423520800">417: how andropov reform would look like ??, submitted on 2022-05-09 14:23:52+08:00.</a></li>
+  <li><a href="#418-when-was-the-last-day-with-international-peace-submitted-on-2022-05-09-1556590800" id="markdown-toc-418-when-was-the-last-day-with-international-peace-submitted-on-2022-05-09-1556590800">418: When was the last day with international peace?, submitted on 2022-05-09 15:56:59+08:00.</a></li>
+  <li><a href="#419-weekly-discussion-thread-may-9th-2022-submitted-on-2022-05-09-2359370800" id="markdown-toc-419-weekly-discussion-thread-may-9th-2022-submitted-on-2022-05-09-2359370800">419: Weekly Discussion Thread, May 9th, 2022, submitted on 2022-05-09 23:59:37+08:00.</a></li>
+  <li><a href="#420-what-month-were-prehistoric-babies-born-submitted-on-2022-05-10-0824110800" id="markdown-toc-420-what-month-were-prehistoric-babies-born-submitted-on-2022-05-10-0824110800">420: What month were prehistoric babies born?, submitted on 2022-05-10 08:24:11+08:00.</a></li>
+  <li><a href="#421-did-humans-cook-first-or-eat-meat-first-as-in-did-we-eat-raw-meat-first-and-then-try-to-cook-it-or-the-other-way-around-submitted-on-2022-05-10-1253350800" id="markdown-toc-421-did-humans-cook-first-or-eat-meat-first-as-in-did-we-eat-raw-meat-first-and-then-try-to-cook-it-or-the-other-way-around-submitted-on-2022-05-10-1253350800">421: Did humans cook first or eat meat first? As in, did we eat raw meat first and then try to cook it or the other way around?, submitted on 2022-05-10 12:53:35+08:00.</a></li>
+  <li><a href="#422-why-are-political-assassinations-not-more-common-submitted-on-2022-05-10-1346250800" id="markdown-toc-422-why-are-political-assassinations-not-more-common-submitted-on-2022-05-10-1346250800">422: Why are political assassinations not more common?, submitted on 2022-05-10 13:46:25+08:00.</a></li>
+  <li><a href="#423-whos-the-ottoman-prince-in-xinjiang-as-a-sultan-as-a-japanese-puppet-state-leader-submitted-on-2022-05-10-1558030800" id="markdown-toc-423-whos-the-ottoman-prince-in-xinjiang-as-a-sultan-as-a-japanese-puppet-state-leader-submitted-on-2022-05-10-1558030800">423: Who’s the Ottoman prince in Xinjiang as a Sultan as a Japanese puppet state leader?, submitted on 2022-05-10 15:58:03+08:00.</a></li>
+  <li><a href="#424-what-was-the-first-account-of-the-gordians-knot-submitted-on-2022-05-10-2127120800" id="markdown-toc-424-what-was-the-first-account-of-the-gordians-knot-submitted-on-2022-05-10-2127120800">424: What was the first account of the Gordians knot?, submitted on 2022-05-10 21:27:12+08:00.</a></li>
+  <li><a href="#425-clone-wars-submitted-on-2022-05-11-0628040800" id="markdown-toc-425-clone-wars-submitted-on-2022-05-11-0628040800">425: Clone Wars, submitted on 2022-05-11 06:28:04+08:00.</a></li>
+  <li><a href="#426-hololive-fantasy-submitted-on-2022-05-12-0035490800" id="markdown-toc-426-hololive-fantasy-submitted-on-2022-05-12-0035490800">426: Hololive Fantasy, submitted on 2022-05-12 00:35:49+08:00.</a></li>
+  <li><a href="#427-the-idea-of-barbarian-battleships-is-amusing-to-me-submitted-on-2022-05-12-0813220800" id="markdown-toc-427-the-idea-of-barbarian-battleships-is-amusing-to-me-submitted-on-2022-05-12-0813220800">427: The Idea of Barbarian Battleships is Amusing to Me, submitted on 2022-05-12 08:13:22+08:00.</a></li>
+  <li><a href="#428-khrystyna-a-ukrainian-biathlete-changed-her-sports-rifle-i-have-no-fear-of-the-enemy-i-shoot-skillfully-so-the-invaders-will-not-have-a-chance-submitted-on-2022-05-12-1127130800" id="markdown-toc-428-khrystyna-a-ukrainian-biathlete-changed-her-sports-rifle-i-have-no-fear-of-the-enemy-i-shoot-skillfully-so-the-invaders-will-not-have-a-chance-submitted-on-2022-05-12-1127130800">428: Khrystyna a Ukrainian biathlete changed her sports rifle. “I have no fear of the enemy. I shoot skillfully, so the invaders will not have a chance”, submitted on 2022-05-12 11:27:13+08:00.</a></li>
+  <li><a href="#429-christian-scholars-say-that-there-is-a-record-of-the-resurrection-of-jesus-in-the-history-of-latter-han-dynasty-volume-1-chronicles-of-emperor-guang-wu-7th-year-is-this-true-or-is-there-missing-context-submitted-on-2022-05-13-0112420800" id="markdown-toc-429-christian-scholars-say-that-there-is-a-record-of-the-resurrection-of-jesus-in-the-history-of-latter-han-dynasty-volume-1-chronicles-of-emperor-guang-wu-7th-year-is-this-true-or-is-there-missing-context-submitted-on-2022-05-13-0112420800">429: Christian scholars say that there is a record of the resurrection of Jesus in the History of Latter Han Dynasty, Volume 1, Chronicles of Emperor Guang Wu, 7th year. Is this true or is there missing context?, submitted on 2022-05-13 01:12:42+08:00.</a></li>
+  <li><a href="#430-would-it-have-made-more-strategic-sense-for-napoleon-to-march-toward-st-petersburg-instead-of-moscow-for-the-1812-russian-campaign-submitted-on-2022-05-13-0612110800" id="markdown-toc-430-would-it-have-made-more-strategic-sense-for-napoleon-to-march-toward-st-petersburg-instead-of-moscow-for-the-1812-russian-campaign-submitted-on-2022-05-13-0612110800">430: Would it have made more strategic sense for Napoleon to march toward St. Petersburg instead of Moscow for the 1812 Russian Campaign?, submitted on 2022-05-13 06:12:11+08:00.</a></li>
+  <li><a href="#431-does-sora-chan-have-a-senpai-submitted-on-2022-05-13-1246140800" id="markdown-toc-431-does-sora-chan-have-a-senpai-submitted-on-2022-05-13-1246140800">431: Does Sora-chan have a senpai?, submitted on 2022-05-13 12:46:14+08:00.</a></li>
+  <li><a href="#432-what-happened-to-mental-health-in-the-24th-century-submitted-on-2022-05-13-1315400800" id="markdown-toc-432-what-happened-to-mental-health-in-the-24th-century-submitted-on-2022-05-13-1315400800">432: What happened to mental health in the 24th century?!, submitted on 2022-05-13 13:15:40+08:00.</a></li>
+  <li><a href="#433-ignore-the-commentary-just-focus-on-this-completely-inedible-nonsense-submitted-on-2022-05-14-1151220800" id="markdown-toc-433-ignore-the-commentary-just-focus-on-this-completely-inedible-nonsense-submitted-on-2022-05-14-1151220800">433: ignore the commentary, just focus on this completely inedible nonsense, submitted on 2022-05-14 11:51:22+08:00.</a></li>
+  <li><a href="#434-where-to-find-good-cold-war-quotations-submitted-on-2022-05-14-1544570800" id="markdown-toc-434-where-to-find-good-cold-war-quotations-submitted-on-2022-05-14-1544570800">434: Where to find good cold war quotations?, submitted on 2022-05-14 15:44:57+08:00.</a></li>
+  <li><a href="#435-why-did-the-european-powers-and-the-usa-intervene-in-the-boxer-rebellion-submitted-on-2022-05-15-0605140800" id="markdown-toc-435-why-did-the-european-powers-and-the-usa-intervene-in-the-boxer-rebellion-submitted-on-2022-05-15-0605140800">435: Why did the European powers and the USA intervene in the Boxer Rebellion?, submitted on 2022-05-15 06:05:14+08:00.</a></li>
+  <li><a href="#436-hobby-scuffles-week-of-may-16-2022-submitted-on-2022-05-15-2300120800" id="markdown-toc-436-hobby-scuffles-week-of-may-16-2022-submitted-on-2022-05-15-2300120800">436: [Hobby Scuffles] Week of May 16, 2022, submitted on 2022-05-15 23:00:12+08:00.</a></li>
+</ul>
+
+<h3 id="414-why-was-rome-chosen-as-the-location-for-the-signing-of-i-the-european-convention-on-human-rights-1950-and-ii-the-eec-treaty-1957-submitted-on-2022-05-09-0137190800">414: <a href="https://old.reddit.com/r/AskHistorians/comments/ul6ul1/why_was_rome_chosen_as_the_location_for_the/">Why was Rome chosen as the location for the signing of I) the European Convention on Human Rights (1950) and II) the EEC Treaty (1957)?</a>, submitted on 2022-05-09 01:37:19+08:00.</h3>
+
+<p>—– <strong>414.1</strong> —–2022-05-09 01:43:44+08:00:</p>
+
+<p>Hi there - unfortunately we have had to remove your question, because <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework">/r/AskHistorians isn’t here to do your homework for you</a>. However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself.</p>
+
+<p>If you have indeed asked a homework question, you should consider resubmitting a question more focused on finding resources and seeking clarification on confusing issues: tell us what you’ve researched so far, what resources you’ve consulted, and what you’ve learned, and we are more likely to approve your question. Please see this <a href="https://www.reddit.com/r/AskHistorians/comments/hplxyf/rules_roundtable_xx_the_no_homework_rule/">Rules Roundtable</a> thread for more information on what makes for the kind of homework question we’d approve. Additionally, if you’re not sure where to start in terms of finding and understanding sources in general, we have a six-part series, “<a href="https://www.reddit.com/r/AskHistorians/wiki/theory#wiki_monday_methods.3A_finding_and_understanding_sources">Finding and Understanding Sources</a>”, which has a wealth of information that may be useful for finding and understanding information for your essay. Finally, other subreddits are likely to be more suitable for help with homework - try looking for help at /r/HomeworkHelp.</p>
+
+<p>Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you <strong>wait for 7 days</strong> and then ask a less open-ended question on the same topic.</p>
+
+<h3 id="415-i-need-to-know-the-book-that-was-opened-by-a-japanese-women-concerning-the-two-bombs-dropped-on-japan-featured-in-pbss-my-grandfathers-war-submitted-on-2022-05-09-1057490800">415: <a href="https://old.reddit.com/r/AskHistorians/comments/ulhop7/i_need_to_know_the_book_that_was_opened_by_a/">I need to know the book that was opened by a Japanese women concerning the two bombs dropped on Japan featured in PBS’s My Grandfather’s War?</a>, submitted on 2022-05-09 10:57:49+08:00.</h3>
+
+<p>—– <strong>415.1</strong> —–2022-05-09 15:04:53+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="416-former-associates-of-trump-eg-bolton-esper-continue-to-write-books-about-his-term-that-are-scathingly-critical-is-there-precedent-for-this-level-of-betrayal-to-a-potus-submitted-on-2022-05-09-1333060800">416: <a href="https://old.reddit.com/r/AskHistorians/comments/ulk5r0/former_associates_of_trump_eg_bolton_esper/">Former associates of Trump (e.g. Bolton, Esper) continue to write books about his term that are scathingly critical. Is there precedent for this level of betrayal to a POTUS?</a>, submitted on 2022-05-09 13:33:06+08:00.</h3>
+
+<p>—– <strong>416.1</strong> —–2022-05-09 15:05:02+08:00:</p>
+
+<p>This submission has been removed because it is <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22soapboxing.22_or_loaded_questions.">soapboxing</a> or <a href="https://www.reddit.com/r/AskHistorians/comments/glq47z/rules_roundtable_xiii_soapboxing_loaded_questions/">moralizing:</a> it has the effect of promoting an opinion on contemporary politics or social issues at the expense of historical integrity. There are certainly historical topics that relate to contemporary issues and it is possible for legitimate interpretations that differ from each other to come out of looking at the past through different political lenses. However, we will remove questions that put a deliberate slant on their subject or solicit answers that align with a specific pre-existing view.</p>
+
+<h3 id="417-how-andropov-reform-would-look-like--submitted-on-2022-05-09-1423520800">417: <a href="https://old.reddit.com/r/AskHistorians/comments/ulkv6e/how_andropov_reform_would_look_like/">how andropov reform would look like ??</a>, submitted on 2022-05-09 14:23:52+08:00.</h3>
+
+<p>—– <strong>417.1</strong> —–2022-05-09 15:06:41+08:00:</p>
+
+<p>Sorry, but your submission has been removed because we <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F">don’t allow hypothetical questions</a>. If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule <a href="https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/">here</a>.</p>
+
+<h3 id="418-when-was-the-last-day-with-international-peace-submitted-on-2022-05-09-1556590800">418: <a href="https://old.reddit.com/r/AskHistorians/comments/ulm4u2/when_was_the_last_day_with_international_peace/">When was the last day with international peace?</a>, submitted on 2022-05-09 15:56:59+08:00.</h3>
+
+<p>—– <strong>418.1</strong> —–2022-05-09 16:14:51+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="419-weekly-discussion-thread-may-9th-2022-submitted-on-2022-05-09-2359370800">419: <a href="https://old.reddit.com/r/VirtualYoutubers/comments/uluh3w/weekly_discussion_thread_may_9th_2022/">Weekly Discussion Thread, May 9th, 2022</a>, submitted on 2022-05-09 23:59:37+08:00.</h3>
+
+<p>—– <strong>419.1</strong> —–2022-05-13 00:54:32+08:00:</p>
+
+<blockquote>
+  <p>I know the T is converted to CHI for japanese but changing how things are spelled would help their pronunciation better. Especially for ‘team’, for a first time listener(eng audience) they would be wonder wtf “chi-mu” means.</p>
+</blockquote>
+
+<p>But if ティー and チー are pronounced the same then it doesn’t make a difference?</p>
+
+<p>—– <strong>419.2</strong> —–2022-05-13 14:47:15+08:00:</p>
+
+<p>I mean, ‘a while’ is only 11 days in this case. But yeah, the moment I saw A-Soul was going under my mind immediately went to bellumodo.</p>
+
+<p>—– <strong>419.3</strong> —–2022-05-15 02:52:24+08:00:</p>
+
+<p>Right?! Why ban channels for having porn spambots on them, but <em>not the porn spambots themselves</em>!?</p>
+
+<p>—– <strong>419.4</strong> —–2022-05-15 21:32:27+08:00:</p>
+
+<p>I don’t know that Myth being ‘spoiled’ is the right way of putting it, as AFAIK they actually commissioned their secondary outfits, so they were I believe paying out of pocket to get new outfits faster. I also imagine it’s easier for a group of 5 people to keep pressure up on new outfits than IRyS alone. It is true they got to 4 outfits faster than anyone else (16 months), although I think we also ought to account for their having debuted later at a time when A: Cover has had more money to spend on new outfits and B: they haven’t had to have their original models updated to 2.0 versions.</p>
+
+<p>—– <strong>419.5</strong> —–2022-05-15 23:40:27+08:00:</p>
+
+<p>Did it say that they couldn’t commission them at all, or that they couldn’t do so unilaterally? Because if it was Cover setting the schedule for outfits it’s a little odd that there hadn’t previously been more of a thing of rolling out full-generation outfits before ID.</p>
+
+<h3 id="420-what-month-were-prehistoric-babies-born-submitted-on-2022-05-10-0824110800">420: <a href="https://old.reddit.com/r/AskHistorians/comments/um5j67/what_month_were_prehistoric_babies_born/">What month were prehistoric babies born?</a>, submitted on 2022-05-10 08:24:11+08:00.</h3>
+
+<p>—– <strong>420.1</strong> —–2022-05-10 08:37:09+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="421-did-humans-cook-first-or-eat-meat-first-as-in-did-we-eat-raw-meat-first-and-then-try-to-cook-it-or-the-other-way-around-submitted-on-2022-05-10-1253350800">421: <a href="https://old.reddit.com/r/AskHistorians/comments/umao34/did_humans_cook_first_or_eat_meat_first_as_in_did/">Did humans cook first or eat meat first? As in, did we eat raw meat first and then try to cook it or the other way around?</a>, submitted on 2022-05-10 12:53:35+08:00.</h3>
+
+<p>—– <strong>421.1</strong> —–2022-05-10 14:36:41+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="422-why-are-political-assassinations-not-more-common-submitted-on-2022-05-10-1346250800">422: <a href="https://old.reddit.com/r/AskHistorians/comments/umbjgo/why_are_political_assassinations_not_more_common/">Why are political assassinations not more common?</a>, submitted on 2022-05-10 13:46:25+08:00.</h3>
+
+<p>—– <strong>422.1</strong> —–2022-05-10 14:36:33+08:00:</p>
+
+<p>Apologies, but we have removed your question in its current form as it breaks our <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">rules concerning the scope of questions</a>. However, it might be that an altered version of your question would fit within our rules, and we encourage you to reword your question to fit the rule. While we do allow questions which ask about general topics without specific bounding by time or space, we do ask that they be clearly phrased and presented in a way that can be answered by an individual historian focusing on only one example which they can write about in good detail.</p>
+
+<p>So for example, if you wanted to ask, “<em>Have people always rebelled against health rules in pandemics?</em>” we would remove the question. As phrased, it asks broadly about many places collectively. However if you ask “<em>In the time and place you study, how did people rebel against health rules in a pandemic?</em>” we would allow the question. As phrased, while still asking broadly, it does so in a way that clearly invites a given expert to write exclusively about their topic of focus! We encourage you to think about rewording your question to fit this rule, and thank you for your understanding. If you are unsure of how best to reshape your question to fit these requirements, <a href="https://www.reddit.com/message/compose/?to=/r/AskHistorians">please reach out to us for assistance</a>.</p>
+
+<h3 id="423-whos-the-ottoman-prince-in-xinjiang-as-a-sultan-as-a-japanese-puppet-state-leader-submitted-on-2022-05-10-1558030800">423: <a href="https://old.reddit.com/r/AskHistorians/comments/umdhkc/whos_the_ottoman_prince_in_xinjiang_as_a_sultan/">Who’s the Ottoman prince in Xinjiang as a Sultan as a Japanese puppet state leader?</a>, submitted on 2022-05-10 15:58:03+08:00.</h3>
+
+<p>—– <strong>423.1</strong> —–2022-05-10 16:32:24+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="424-what-was-the-first-account-of-the-gordians-knot-submitted-on-2022-05-10-2127120800">424: <a href="https://old.reddit.com/r/AskHistorians/comments/umipk2/what_was_the_first_account_of_the_gordians_knot/">What was the first account of the Gordians knot?</a>, submitted on 2022-05-10 21:27:12+08:00.</h3>
+
+<p>—– <strong>424.1</strong> —–2022-05-11 00:13:49+08:00:</p>
+
+<p>With the understanding that it is quite possible that a grasp of the source landscape will be part of the exercise, essay-wise, I think it best for me to keep it relatively short and simple, with a basic overview of Alexander sources and some reading recommendations for a more in-depth look at the problem. The first of these recommendations is Andrea Zambrini’s chapter ‘The Historians of Alexander the Great’, in Volume 1 of John Marincola’s <em>A Companion to Greek and Roman Historiography</em> (2007), which discusses the early historians of Alexander whose work has been lost; the second is ‪Elizabeth Baynham‬’s ‘The Ancient Evidence for Alexander the Great’, in Joseph Roisman’s <em>Brill’s Companion to Alexander the Great</em> (2003) (not to be confused with Kenneth Moore’s <em>Brill’s Companion to the Reception of Alexander the Great</em> (2018)), which begins with the lost historians and then goes into the surviving ones.</p>
+
+<p>To give the most general of overviews, there are, in effect, four broad types of Alexander source material:</p>
+
+<ol>
+  <li>Surviving contemporary evidence such as epigraphy, the Babylonian temple records, and coins;</li>
+  <li>Narrative histories, all surviving examples of which postdate Alexander by at least 250 years;</li>
+  <li>Fragments, or in other words references to and quotations of otherwise-lost sources, typically found in works not specifically about Alexander; and</li>
+  <li>Romances, i.e. largely fictional narratives in which Alexander is treated as a fantastical character.</li>
+</ol>
+
+<p>There are no ‘perfect’ sources for Alexander by any means, but it is essentially the case that most discussions of Alexander are necessarily framed around the core narrative histories of his reign, the surviving examples of which were largely composed between the second half of the first century BCE, and the first half of the second century CE. These are, in chronological order:</p>
+
+<ul>
+  <li>
+    <p>Book 17 of Diodoros of Sicily’s <em>Library of History</em>, composed ca. 50-30 BCE;</p>
+  </li>
+  <li>
+    <p>Books 10-11 of Gnaeus Pompeius Trogus’ <em>Philippic Histories</em>, composed ca. 20 BCE-10 CE, but surviving only as a summary by Justin ca. 200 CE;</p>
+  </li>
+  <li>
+    <p>Quintus Curtius Rufus’ <em>History of Alexander the Great</em>, composed ca. 50 CE;</p>
+  </li>
+  <li>
+    <p>Plutarch’s <em>Life of Alexander</em>, composed ca. 110-115 CE; and</p>
+  </li>
+  <li>
+    <p>Arrian of Nikomedia’s <em>Anabasis of Alexander</em>, composed ca. 115-125 CE.</p>
+  </li>
+</ul>
+
+<p>There is also technically a sixth source known as the Metz Epitome although its value is relatively dubious and it is rarely ever brought up.</p>
+
+<p>There are some relevant non-narrative sources such as Plutarch’s essays <em>On the Fortune or Virtue of Alexander</em>, Arrian’s <em>Indika</em>, and a series of fragmentary episodes within Books 15-17 of Strabo’s <em>Geography</em>, but for the most part we rely on the above five, supplemented by the odd fragment or surviving contemporary source.</p>
+
+<p>The thing that the five core narrative sources have in common is of course their late authorship, but that does not imply an inherent unreliability. All five of these are derived, ultimately, from lost texts authored by what modern historians term the ‘first-generation’ Alexander historians, of whom Zambrini lists 10: Kallisthenes of Olynthos, Anaximenes of Lampsakos, Nearchos of Crete, Kleitarchos of Alexandria, Ptolemy son of Lagos, Aristoboulos of Kassandreia, Chares of Mytilene, Ephippos of Olynthos, Polykleitos of Larissa, and Medeios of Larissa. This isn’t even the full list – for instance, it doesn’t include Onesikritos of Astypalaia, who was one of the main sources on Alexander’s Indian campaigns.</p>
+
+<p>The notion that more temporally proximate sources are necessarily more reliable is not a particularly sensible one, but it must be defenestrated with especial vigour in the case of Alexander thanks to the simple absence of the original ‘first-generation’ material. What we are dealing with are, for the most part, secondary sources written by historians with their own individual methodologies, influencing how the information in those lost sources has been transmitted to us. The various unique combinations of source material and authorial agenda in the corpus means that these surviving historians can vary in usefulness and probable accuracy, not just in terms of the works as a whole but also within the same work – Arrian, for instance, might narrate certain episodes reliably, but be completely off the mark on others.</p>
+
+<p>It does not help, of course, that these works often give contradictory or at least conflicting accounts of the same events when they overlap. Resolving such disputes is the realm of what is termed <em>Quellenforschung</em>, literally ‘source research’ – why and how does a given source say what it does, and with that in mind, how likely is it to be true – or closer to the truth – relative to the other sources on the same thing?</p>
+
+<p>To return to your original question, ‘Is Quintus Curtius Rufus really the earliest source to mention the cutting of the Gordian Knot by Alexander the Great?’ may be the question you <em>think</em> you want to ask, but the question you <em>actually</em> want to ask is, ‘Where do the surviving sources on the Gordian Knot episode get <em>their</em> information from, how and how far has it been altered in the retelling, and how should the specifics of the event be understood in light of those factors?’ To help you with that, there are three articles on the topic, given here in chronological order with each building on and responding to the one prior:</p>
+
+<ul>
+  <li>Ernest Fredericksmeyer, ‘Alexander, Midas, and the Oracle at Gordium’, <em>Classical Philology</em> 56:3 (1961)</li>
+  <li>Lynn E. Roller, ‘Midas and the Gordian Knot’, <em>Classical Antiquity</em> 3:2 (1984)</li>
+  <li>Mark H Munn, ‘Alexander, the Gordian Knot, and the Kingship of Midas’, in <em>Macedonian Legacies: Studies in Macedonian History and Culture in Honor of Eugene N. Borza</em> (2008)</li>
+</ul>
+
+<h3 id="425-clone-wars-submitted-on-2022-05-11-0628040800">425: <a href="https://old.reddit.com/r/StarWars/comments/umukze/clone_wars/">Clone Wars</a>, submitted on 2022-05-11 06:28:04+08:00.</h3>
+
+<p>—– <strong>425.1</strong> —–2022-05-11 22:10:54+08:00:</p>
+
+<p>Kreia would like a word…</p>
+
+<h3 id="426-hololive-fantasy-submitted-on-2022-05-12-0035490800">426: <a href="https://old.reddit.com/r/Hololive/comments/undyph/hololive_fantasy/">Hololive Fantasy</a>, submitted on 2022-05-12 00:35:49+08:00.</h3>
+
+<p>—– <strong>426.1</strong> —–2022-05-12 11:09:15+08:00:</p>
+
+<p>How dare you.</p>
+
+<p>How dare you split Noel and Flare like this.</p>
+
+<h3 id="427-the-idea-of-barbarian-battleships-is-amusing-to-me-submitted-on-2022-05-12-0813220800">427: <a href="https://old.reddit.com/r/civ/comments/unnw1m/the_idea_of_barbarian_battleships_is_amusing_to_me/">The Idea of Barbarian Battleships is Amusing to Me</a>, submitted on 2022-05-12 08:13:22+08:00.</h3>
+
+<p>—– <strong>427.1</strong> —–2022-05-12 14:16:17+08:00:</p>
+
+<p>The <a href="https://web.archive.org/web/20150629105452/https://www.reddit.com/r/badhistory/comments/24vreh/reallife_bad_history_hawaii_was_the_most_advanced/">Hawaiian Dreadnoughts</a>.</p>
+
+<h3 id="428-khrystyna-a-ukrainian-biathlete-changed-her-sports-rifle-i-have-no-fear-of-the-enemy-i-shoot-skillfully-so-the-invaders-will-not-have-a-chance-submitted-on-2022-05-12-1127130800">428: <a href="https://old.reddit.com/r/ukraine/comments/unrmhe/khrystyna_a_ukrainian_biathlete_changed_her/">Khrystyna a Ukrainian biathlete changed her sports rifle. “I have no fear of the enemy. I shoot skillfully, so the invaders will not have a chance”</a>, submitted on 2022-05-12 11:27:13+08:00.</h3>
+
+<p>—– <strong>428.1</strong> —–2022-05-12 16:17:26+08:00:</p>
+
+<p>Yep, although it’s worth noting that muskets were not as inaccurate as commonly believed. Not <em>brilliantly</em> accurate, and not en masse, but individual marksmanship with a musket was viable up to a couple of hundred yards.</p>
+
+<p>—– <strong>428.2</strong> —–2022-05-12 21:01:24+08:00:</p>
+
+<p>You’ve got some terms confused here: the term ‘rifled musket’ refers, generally, to muzzle-loading rifled long arms using conical projectiles like the Minié ball, which were in use primarily from the late 1840s to late 1860s. The ‘rifled musket’ designation was used to refer to weapons with the rate of fire of a musket because they didn’t require you to forcibly deform the projectile into the rifle grooves.</p>
+
+<p>As for musket accuracy, it’s perhaps worth stating that ‘accurate’ will always be relative. Less accurate than a rifle for sure, but there was data taken on the rough accuracy of formation fire in the period: <a href="https://kabinettskriege.blogspot.com/2016/02/how-accurate-were-regular-soldiers-in.html">this post</a> on Kabinettskriege compiles some of it. It doesn’t discuss individual marksmanship to quite the same extent though.</p>
+
+<p>—– <strong>428.3</strong> —–2022-05-12 21:02:49+08:00:</p>
+
+<p><a href="https://kabinettskriege.blogspot.com/2016/02/how-accurate-were-regular-soldiers-in.html">This blog post</a> and its citations will be a good start. As one of the sources it cites notes, ‘point blank’ range, at which firing targets were placed, could be as much as 300 yards.</p>
+
+<p>—– <strong>428.4</strong> —–2022-05-12 22:33:49+08:00:</p>
+
+<p>You referred to it as a ‘rifled musket’ which it isn’t – a rifled musket is something like the 1853 Enfield or the 1855 Springfield.</p>
+
+<h3 id="429-christian-scholars-say-that-there-is-a-record-of-the-resurrection-of-jesus-in-the-history-of-latter-han-dynasty-volume-1-chronicles-of-emperor-guang-wu-7th-year-is-this-true-or-is-there-missing-context-submitted-on-2022-05-13-0112420800">429: <a href="https://old.reddit.com/r/AskHistorians/comments/uo5zh9/christian_scholars_say_that_there_is_a_record_of/">Christian scholars say that there is a record of the resurrection of Jesus in the History of Latter Han Dynasty, Volume 1, Chronicles of Emperor Guang Wu, 7th year. Is this true or is there missing context?</a>, submitted on 2022-05-13 01:12:42+08:00.</h3>
+
+<p>—– <strong>429.1</strong> —–2022-05-13 21:19:52+08:00:</p>
+
+<p>I’ve just had a look at the passages in question, and while I will admit my Classical Chinese is, er, pretty dire, I think the translations as provided aren’t far off the mark, <em>except</em> in the case of the ‘Man from Heaven’ passage. The original Chinese text can be independently verified on the edition hosted on the Chinese Text Project. First are the two taken from the general chronicles for the reign of Emperor Guangwu <a href="https://ctext.org/hou-han-shu/guang-wu-di-ji-xia">here</a></p>
+
+<blockquote>
+  <p>癸亥晦，日有食之，避正殿，寑兵，不聽事五日。詔曰：「吾德薄致災，謫見日月，戰慄恐懼，夫何言哉！今方念愆，庶消厥咎。其令有司各修職任，奉遵法度，惠茲元元。百僚各上封事，無有所諱。其上書者，不得言聖。」</p>
+</blockquote>
+
+<p>Tucker, who skips over the second and third sentences of the proclamation attributed to Guangwu, gives</p>
+
+<blockquote>
+  <p>In the day of <em>Gui Hai</em>, the last day of the month, there was a solar eclipse. [The emperor] avoided the Throne Room, suspended all military activities and did not handle official business for five days.” [And he proclaimed;] “My poor character has caused this clamity <em>[sic]</em>, that the sun and the moon were veiled. I am fearful and trembling. What can I say … Anyone who presents a memorial is not allowed to mention the word ‘holy.’”</p>
+</blockquote>
+
+<p>A translation as best as I can produce, with the inclusion of the missing sentences, might be along the lines of:</p>
+
+<blockquote>
+  <p>On the day Guihai which was the last day of the month, there was a solar eclipse, [the emperor] avoided the main hall, halted the troops, and did not listen to affairs of state for five days. The emperor proclaimed: ‘My weak character (or lack of virtue) caused this disaster, [in which] the sun and moon have displayed ill omens, I tremble and am fearful, what can I say! [For] these worries and transgressions, [I have] much to blame (?). The officials are ordered to maintain their various functions, promulgate and obey the laws, and to be benevolent above all(?). If officials wish to make petitions (?), they will not be censured. Those who do so, may not mention the word ‘holy’ (or, may not speak of sacred things).</p>
+</blockquote>
+
+<p>As with anything Classical Chinese there’s always wiggle room, and especially when I’m involved – the last sentence in particular may be open to some quibbling over whether it proscribes the use of the specific character <em>sheng</em> 聖 (‘holy, sacred’), or more generally bars officials from mentioning sacred matters in their petitions.</p>
+
+<blockquote>
+  <p>夏四月壬午，詔曰：「比陰陽錯謬，日月薄食。百姓有過，在予一人，大赦天下。公、卿、司隸、州牧舉賢良、方正各一人，遣詣公車，朕將覽試焉。」</p>
+</blockquote>
+
+<p>Tucker gives</p>
+
+<blockquote>
+  <p>“Summer, fourth month [of the year], on the day of Ren Wu, the imperial edict reads, “Yin and Yang have mistakenly switched, and the sun and moon were eclipsed. The sins of all the people are now on one man. Pardon is proclaimed to all under heaven.”</p>
+</blockquote>
+
+<p>I would give, in somewhat literal terms:</p>
+
+<blockquote>
+  <p>On the day Renwu in the fourth month in summer, the emperor proclaimed: ‘As of late Yin and Yang have been in error, and the sun and moon have been eclipsed. The people’s faults (or perhaps misfortunes?), have been passed to a single person, [and (so)] a great pardon is issued to all under Heaven. Dukes, ministers, officials of public works, and provincial governors <del>uphold virtue, and are righteous to a man, [and] are invited to the capital,</del> should seek out those who uphold virtue and are righteous, and each dispatch one man to the capital, where We shall thus examine them.’</p>
+</blockquote>
+
+<p><del>My suspicion, for what it’s worth, is that there are some implicit causations in that last sentence and that the overall meaning may be along the lines that Guangwu is seeking to assess the moral character of his officials through in-person interviews at the capital.</del></p>
+
+<p>As for the final quotation, taken from another section of the Book of Later Han, I wasn’t able to find it in the Chinese Text Project’s edition, although I see /u/y_sengaku has found a full version of it. What’s interesting is that this appears to be because the statement in question <em>is not part of the original text</em>, but is instead an annotation by a later scholiast that was subsequently preserved in some later editions. The original quote is:</p>
+
+<blockquote>
+  <p>七年三月癸亥晦，日有蝕之，在畢五度。畢為邊兵。秋，隗囂反，侵安定。冬，盧芳所置朔方、雲中太守各舉郡降。</p>
+</blockquote>
+
+<p>With the help of a slightly annotated version of the work it seems like it would be best translated as:</p>
+
+<blockquote>
+  <p>In the seventh year in the seventh month on the day Guihai which was the last of that month, there was a solar eclipse, [some astronomical phrase I don’t understand]. Frontier campaigns (?) were concluded. In the autumn, Wei Xiao rebelled, and attacked Anding. In the winter, Lu Fang abandoned the north (?), and the governor of Yunzhong surrendered his province.</p>
+</blockquote>
+
+<p>The whole ‘a man from Heaven died’ quote is, as noted, an annotation involving a later commentator quoting an author or work called <em>Qiantan Ba</em>, and is inserted after the bit about the eclipse:</p>
+
+<blockquote>
+  <p>潛潭巴曰：「癸亥日蝕，天人崩。」</p>
+</blockquote>
+
+<p>Tucker gives:</p>
+
+<blockquote>
+  <p>Eclipse on the day of <em>Gui Hai</em>, Man from Heaven died.</p>
+</blockquote>
+
+<table>
+  <tbody>
+    <tr>
+      <td>But I would suggest that ‘man from Heaven’ is only one possible reading of ‘天人’, literally ‘heaven</td>
+      <td>man’, which could just as easily – and I would argue much less tendentiously – be read as ‘Heaven <em>and</em> Man’, rather than as a ‘man of Heaven’ or similar. That is to say, there’s no reason to read it as an adjective-noun phrase rather than as two nouns together. Equally, while 崩 can mean ‘to die’, this is only used for monarchs, and Guangwu most certainly did not die in the seventh year of his reign. In a more general sense it means something along the lines of ‘collapse’ or ‘rupture’, i.e. in a more figurative sense, it could – and probably does – simply mean that the affairs of both Heaven and man were thrown into disarray.</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>—– <strong>429.2</strong> —–2022-05-13 22:08:44+08:00:</p>
+
+<p>No problem! I do have a couple of more points to add that I’ve thought of since posting, one more immediately relevant and the other a bit more bemusing than anything else.</p>
+
+<p>The more relevant one relates to the quoted passage from (the?) Qiantan Ba: while Classical Chinese exercises a certain degree of, let’s call it ‘semantic economy’ in that its users tends to write as few characters as possible to communicate their intended meaning (while often failing to write enough to firmly disambiguate things), writers of the language were not always averse to the use of certain particles, most importantly the possessive marker 之. If the intended meaning was ‘Man from Heaven’ or ‘Man of Heaven’, then it would have been far more clearly expressed as 天之人 as opposed to merely 天人.</p>
+
+<p>The bemused note is that Chan Kei Thong’s apparent schtick of trying to prove that ancient Chinese religion was a branch of Abrahamic monotheism is, at least on the surface, entirely identical to the Taiping’s conception of Chinese religious history. The Taiping, also, were convinced that China had once been a monotheistic society but which had, somehow, been led astray. Thomas Reilly’s <em>The Taiping Heavenly Kingdom: Religion and the Blasphemy of Empire</em> is the work to read on this for anyone interested.</p>
+
+<p>—– <strong>429.3</strong> —–2022-05-14 15:28:57+08:00:</p>
+
+<p>I’d like to add a further addendum to my earlier comment thanks to a tip-off from someone whose Classical Chinese is considerably better than mine, and it’s something that will probably interest /u/mikedash and /u/y_sengaku as it does directly bear on the notion of Guangwu alluding to Jesus in the ‘Yin and Yang’ extract. Critical is this particular pair of clauses:</p>
+
+<blockquote>
+  <p>百姓有過，在予一人</p>
+</blockquote>
+
+<p>I had my suspicions that the second clause may not be ‘have passed to one person’, but rather ‘are with myself alone’, because 予 can be used as a first-person pronoun. I didn’t voice this suspicion because I had been led to believe it was a relatively archaic term by the late Han, and I had also assumed that Guangwu would be more likely to use 朕 (essentially the royal ‘We’) anyway. However, as my interlocutor noted, this is actually a direct quotation from the final chapter of the <em>Analects</em>, consisting of the purported sayings and doings of the legendary Emperor Yao of Shang, including, at one stage, the above statement. In the original quote, then, 予 <em>was</em> being used as a first-person pronoun rather than as the verb ‘to give’. Legge translates it:</p>
+
+<blockquote>
+  <p>The people are throwing blame upon me, the One man.</p>
+</blockquote>
+
+<p>Eric Henry’s very recent (2021) translation of the same passage, which appears in the compendium called the <em>Shouyuan</em> (‘Garden of Eloquence’) by Han compiler Liu Xiang, gives</p>
+
+<blockquote>
+  <p>If any of the people should be at fault, let the responsibility for it for it lie with us alone.</p>
+</blockquote>
+
+<p>What is apparent then is that the sentence in question does not refer in the abstract to an unspecified person taking on all people’s transgressions, but rather the emperor himself, speaking in the first person, taking on responsibility for the misfortunes and misdeeds of his subjects.</p>
+
+<p>They also offered certain clarification on the passage</p>
+
+<blockquote>
+  <p>公、卿、司隸、州牧舉賢良、方正各一人，遣詣公車，朕將覽試焉。</p>
+</blockquote>
+
+<p>Which I had interpreted as the emperor recalling his officials for examination but which more likely is instead the emperor ordering his officials to send men of merit to the capital for examination.</p>
+
+<p>One speculation, which I don’t think is that likely but which nevertheless is, from a purely semantic perspective, a valid read of 天人崩, is that Qiantian Ba was listing an additional omen: there may have been a mountain called Tianren which collapsed in a landslide. That said I have found no reference to a mountain going by such a name, and I’d stand by my original read of it being a figurative descriptor of Heaven and man being thrown in disarray.</p>
+
+<p>—– <strong>429.4</strong> —–2022-05-19 12:48:24+08:00:</p>
+
+<p>This is only if you tendentiously read <em>any</em> notion of the sacred/divine and the earthly as distinct phenomena as indicative of Christian theology. ‘Heaven’ in this case can be understood simply as the abstract forces of the cosmos and ‘man’ as human affairs.</p>
+
+<h3 id="430-would-it-have-made-more-strategic-sense-for-napoleon-to-march-toward-st-petersburg-instead-of-moscow-for-the-1812-russian-campaign-submitted-on-2022-05-13-0612110800">430: <a href="https://old.reddit.com/r/WarCollege/comments/uocoug/would_it_have_made_more_strategic_sense_for/">Would it have made more strategic sense for Napoleon to march toward St. Petersburg instead of Moscow for the 1812 Russian Campaign?</a>, submitted on 2022-05-13 06:12:11+08:00.</h3>
+
+<p>—– <strong>430.1</strong> —–2022-05-13 18:28:28+08:00:</p>
+
+<p>No.</p>
+
+<p>Russia’s ability to resist Napoleon lay not in St. Petersburg, but in its army. Arguably, because of that Napoleon’s invasion made little strategic sense to begin with, because the sheer depth of Russia meant that any sustained campaign against it would be doomed to failure if Russian commanders fought optimally, i.e. by avoiding a major field battle and instead allowing the French to be worn down by attrition. Frankly, the Russian army <em>should not have fought at Borodino</em>, and Russia was incredibly lucky that Napoleon failed to achieve a decisive result that put its entire force out of the field.</p>
+
+<p>Napoleon essentially forgot the lesson of the Austrian campaign of 1809: you can win some minor victories and seize the enemy capital, but if they still have an army and the means to keep it in the field, then they will make you bleed for whatever gains you try to eke out. Harsh as the terms of the Treaty of Schönbrunn were, Austria would certainly have lost far more if they had been dispersed at Wagram rather than retreating in good order to Znaim; the mere presence of a substantial Austrian force limited the terms Napoleon could meaningfully force.</p>
+
+<p>In 1812, Napoleon’s demands on Russia – its forcible return to the French alliance system – were such that nothing short of destroying its means to resist would achieve his aims. The Russians handed him an opportunity to do so at Borodino, but he failed to capitalise on that opportunity, and the rest, as they say, was that.</p>
+
+<h3 id="431-does-sora-chan-have-a-senpai-submitted-on-2022-05-13-1246140800">431: <a href="https://old.reddit.com/r/Hololive/comments/uojxzl/does_sorachan_have_a_senpai/">Does Sora-chan have a senpai?</a>, submitted on 2022-05-13 12:46:14+08:00.</h3>
+
+<p>—– <strong>431.1</strong> —–2022-05-14 00:39:17+08:00:</p>
+
+<p>To add to /u/farranpoison’s point, Mel was originally a solo debut (hence debuting in mid-May rather than 1-3 June like the rest of Gen 1), but after Chris’ exit she was retconned as being part of Gen 1.</p>
+
+<h3 id="432-what-happened-to-mental-health-in-the-24th-century-submitted-on-2022-05-13-1315400800">432: <a href="https://old.reddit.com/r/startrekpicard/comments/uokell/what_happened_to_mental_health_in_the_24th_century/">What happened to mental health in the 24th century?!</a>, submitted on 2022-05-13 13:15:40+08:00.</h3>
+
+<p>—– <strong>432.1</strong> —–2022-05-19 16:45:35+08:00:</p>
+
+<p>A bit late coming back to this because I was a bit behind on a few episodes, but my impression is she was locked away that evening specifically, so maybe Maurice wasn’t expecting help to arrive until the morning.</p>
+
+<h3 id="433-ignore-the-commentary-just-focus-on-this-completely-inedible-nonsense-submitted-on-2022-05-14-1151220800">433: <a href="https://old.reddit.com/r/StupidFood/comments/up8urj/ignore_the_commentary_just_focus_on_this/">ignore the commentary, just focus on this completely inedible nonsense</a>, submitted on 2022-05-14 11:51:22+08:00.</h3>
+
+<p>—– <strong>433.1</strong> —–2022-05-15 02:47:49+08:00:</p>
+
+<p>Okay this is chefclub for sure right? That griddle with part of the plastic casing broken off appears in most of their videos.</p>
+
+<h3 id="434-where-to-find-good-cold-war-quotations-submitted-on-2022-05-14-1544570800">434: <a href="https://old.reddit.com/r/AskHistorians/comments/upc9or/where_to_find_good_cold_war_quotations/">Where to find good cold war quotations?</a>, submitted on 2022-05-14 15:44:57+08:00.</h3>
+
+<p>—– <strong>434.1</strong> —–2022-05-14 16:10:27+08:00:</p>
+
+<p>Hi - we as mods have approved this thread, because while this is a homework question, it is asking for clarification or resources, rather than the answer itself, which is fine according to <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework">our rules</a>. This policy is further explained in this <a href="https://www.reddit.com/r/AskHistorians/comments/hplxyf/rules_roundtable_xx_the_no_homework_rule/">Rules Roundtable thread</a> and this <a href="http://www.reddit.com/r/AskHistorians/comments/35pkem/askhistorians_homework_question_policy_rehash/">META Thread</a>.</p>
+
+<p>As a result, we’d also like to remind potential answerers to follow our rules on homework - please make sure that your answers focus appropriately on clarifications and detailing the resources that OP could be using.</p>
+
+<p>Additionally, while users may be able to help you out with specifics relating to your question, we also have plenty of information on /r/AskHistorians on how to find and understand good sources in general. For instance, please check out our six-part series, “<a href="https://www.reddit.com/r/AskHistorians/wiki/theory#wiki_monday_methods.3A_finding_and_understanding_sources">Finding and Understanding Sources</a>”, which has a wealth of information that may be useful for finding and understanding information for your essay.</p>
+
+<h3 id="435-why-did-the-european-powers-and-the-usa-intervene-in-the-boxer-rebellion-submitted-on-2022-05-15-0605140800">435: <a href="https://old.reddit.com/r/AskHistorians/comments/uprixr/why_did_the_european_powers_and_the_usa_intervene/">Why did the European powers and the USA intervene in the Boxer Rebellion?</a>, submitted on 2022-05-15 06:05:14+08:00.</h3>
+
+<p>—– <strong>435.1</strong> —–2022-05-15 19:11:21+08:00:</p>
+
+<p>There is, I believe, somewhat of a misunderstanding in your question, one that is unfortunately commonly held thanks to the colloquial use of ‘Rebellion’ to describe the Boxer crisis of 1899-1901. ‘Rebellion’ would imply that the Boxers sought to overturn the otherwise-established Qing government, and that the Europeans, USA, and also Japan interceded on the latter’s behalf, but the political situation at the start of 1900 was considerably more complex. Complex enough that it’s one of those rare occasions that it perhaps requires <a href="https://imgur.com/5J3mf9n">a diagram</a> to map out. Now, I will note that  <a href="https://www.reddit.com/r/AskHistorians/comments/q9pvuv/why_did_the_qing_government_support_the_boxers/hgysbu9/">this earlier answer</a> of mine goes into more detail on the specific chronology, but as it addresses things from the perspective of the Qing court I’ll devote a little more space here to explicating the foreign position.</p>
+
+<p>To render the above into words, it is important to first note that we cannot divorce the Boxer crisis from the 1898 reform movement and coup, which saw somewhat of an alliance of convenience between conservatives and moderate reformers within the Qing government against the more radical reformers backed by the Guangxu Emperor, and an alliance with Cixi against the emperor himself. Elements of the army under Ronglu, possibly assisted by Yuan Shikai, launched a coup to essentially depose the emperor, and he would live out the rest of his life (until 1909, when he was probably poisoned) under house arrest. The imperial throne was effectively occupied by Dowager Empress Cixi, who was backed primarily by a mostly-Manchu conservative faction including her personal favourite, Zaiyi, styled Prince Duan. The more reform-minded moderate factions in the Qing government, consisting largely of Han Chinese officials in the provinces like Li Hongzhang, Zhang Zhidong, and Yuan Shikai, but also including some members of the inner court such as Ronglu, had backed Cixi as the lesser of two evils, but did not necessarily actively support her rule.</p>
+
+<p>For their part, the foreign powers had not sat idly by in 1898. Arguably some of the impetus for the reform movement had been a reaction to the ‘Scramble for Concessions’ in the wake of the Juye Incident in December 1897: after the killing of some German Catholic missionaries by a group from the anti-Christian Big Sword Society, Germany demanded a lease on the city of Qingdao and its surrounding bay area, kicking off a series of lease claims by powers seeking both to expand their own influence and check each other’s – Port Arthur (Russia), Weihaiwei (Britain), Guangzhouwan (France), and the New Territories of Hong Kong (Britain). Latterly, after the coup against the Guangxu Emperor happened, the foreign diplomatic community essentially refused to recognise Cixi’s <em>de facto</em> leadership of the Qing Empire and continually protested her attempts to ensure a succession favourable to her own interests. There also remained a clear preferment towards the Guangxu Emperor, whose key supporters had found refuge overseas, principally in Japan. However, with no effective means of forcing a regime change other than military intervention, there remained an uneasy stalemate between various groups: the foreign powers and the Qing, and the imperial court and its erstwhile supporters.</p>
+
+<p>The arrival of the Boxers would break this stalemate by forcing the various actors to pick sides. Boxer attacks on Chinese Christians and, more importantly for the Western powers, Christian missionaries, had led to the foreign powers adopting a somewhat paradoxical – some might even say hypocritical – stance. While they recognised that the Boxers were a domestic movement, the containment of which was ultimately up to the Qing, they did not actually recognise the Qing government whom they were insisting ought to deal with the problem. The moderate reformists saw the Boxers as a dangerous reactionary force that ought to be stamped out. But the Qing court ended up taking a slightly different view. The Boxers had declared their support for the Qing as a whole, which could, if the movement were officially co-opted, be specifically reframed as entailing support for Cixi’s rule, and so the court was reluctant to employ force against them.</p>
+
+<p>This in turn led to a vicious cycle of mutual paranoia. On the Qing end, for some time Cixi and her supporters had believed that the foreign powers had been angling at the restoration of the Guangxu Emperor to the throne, and were looking out for signs of a military buildup that might indicate that. On the foreign end, the lack of decisive Qing action against the Boxers in Zhili (while Yuan Shikai took quite harsh action in Shandong) suggested that the court was in some way actively colluding with the Boxers, and that attacks on Christians would potentially escalate to a broader attack on their presence in China – particularly their diplomats and their economic assets – leading to the foreign powers moving to escalate their military presence. This, of course, was taken by Cixi’s faction as a sign of hostile intent by the foreign powers, leading to an increase in Qing military buildup against the foreign powers and reduced opposition to the Boxers, until eventually things tipped over when Vice-Admiral Seymour of the Royal Navy attempted to reinforce the Beijing legations via the Beijing-Tianjin railway, which was seen as the foreign attack actually happening. This in turn pushed the court over the fence towards an open alliance with the Boxers and a declaration of war against the foreign powers.</p>
+
+<p>So it’s not the case at all that the foreign powers intervened to protect the Qing from an uprising. Rather, they perceived that the Qing court – which they regarded as illegitimately usurped by Cixi – was colluding with the Boxers, and sought to expand their military presence to protect their citizens and assets. This became a self-fulfilling prophecy as the Qing court was thus no longer required to appease said foreign powers, and openly allied with the Boxers against them. However, the imperial court did so essentially unilaterally, and received no support from the non-anti-foreign, reform-minded moderate elements in the state, especially coastal provincial governors, who refused to be embroiled in the conflict and declared neutrality.</p>
+
+<h3 id="436-hobby-scuffles-week-of-may-16-2022-submitted-on-2022-05-15-2300120800">436: <a href="https://old.reddit.com/r/HobbyDrama/comments/uq7vr6/hobby_scuffles_week_of_may_16_2022/">[Hobby Scuffles] Week of May 16, 2022</a>, submitted on 2022-05-15 23:00:12+08:00.</h3>
+
+<p>—– <strong>436.1</strong> —–2022-05-20 19:07:05+08:00:</p>
+
+<p>Seeing as I seem to have become HobbyDrama’s point man on VTuber issues, I guess I kinda need to talk about Luxiem. Well, not quite. None of its five members have done anything wrong either individually or as a group, at least not on a major scale. Rather, the issue seems to be their treatment by their agency, Nijisanji. Not because they aren’t being treated well, but because they’re being treated <em>very</em> well. <em>Too</em> well for some Nijisanji viewers. I may need to give a decent amount of context for this, so strap in.</p>
+
+<p>Nijisanji, a subdivision of the tech startup ANYCOLOR Inc. (formerly Ichikara Inc.), is one of the oldest VTuber agencies in the industry and for a time the biggest. Its first member, Tsukino Mito, debuted in February 2018 as arguably the 22nd VTuber channel after Kizuna AI’s, so we’re talking <em>real</em> OG VTubing history here. From a technical standpoint, Nijisanji was the first agency to focus exclusively on Live2D rigs, which are orders of magnitude cheaper and easier to use than the full-body 3D that had been the more standard method up to that point. Its approach to talent has also historically been relatively liberal, and they have debuted a <em>lot</em> of members (‘livers’ in Niji-specific parlance (note: this is supposed to rhyme with ‘drivers’ rather than ‘shivers’)) compared to most other agencies: as of today, Nijisanji boasts 140 active members in its core branch (including 19 formerly of Nijisanji Indonesia and 12 of Nijisanji Korea), a further 20 members of Nijisanji English, and 46 members of VirtuaReal, its jointly-run Chinese branch with Bilibili. By contrast, Hololive Production, its main competitor and which began activity in basically the same timeframe, has a roster of only 68 talents across its four branches: 35 in Hololive ‘proper’, 11 in Hololive English, 9 in Hololive Indonesia, and 13 in Holostars; most mid-size agencies have somewhere in the realm of 10-30 talents. Now, I don’t want to create the impression that Nijisanji prioritises quantity over quality, as this would be deeply unfair to the many talented and dedicated people working under the Niji umbrella. While there have been talent-related issues in the past, this particular post really concerns reactions to perceived corporate favouritism – an especial problem when you have over 200 talents under your belt and that number increases continually.</p>
+
+<p>Enter Nijisanji English. In September 2020, Hololive debuted its first English-language generation, Myth, which absolutely exploded in popularity beyond what anyone involved had expected going in. While there had been both English-language VTubers of both the independent and agency variety before this point, Myth’s debut and subsequent stratospheric rise drew a lot more attention to this scene and inspired a huge number of newcomers. It also caught the attention of Nijisanji, which had, through no fault of its own, already been losing its lead over Hololive somewhat as the latter agency had essentially lucked into a foreign fanbase for its Japanese talents well before Myth. In May 2021, ANYCOLOR debuted NijiEN, starting with the three member unit Lazulight (Elira Pendora, Pomu Rainpuff, and Finana Ryugu); this was followed by Obsydia (Rosemi Lovelock, Petra Gurin, and Selen Tatsuki) in July and Ethyria (Nina Kosaka, Millie Parfait, Enna Alouette, and Reimu Endou) in October. Now, Myth was essentially lightning in a bottle, and nothing – especially not 8 months on, after the initial wave had begun to abate – was ever going to replicate its success to the same degree (including Hololive’s own follow-up, Council, which debuted in August), and with that in mind NijiEN’s first three generations were actually very respectably successful by the standards of the broader VTuber space. They built up a strong fanbase of their own, with what was perceived to be a more self-aware and somewhat less ostensibly self-censoring image than Hololive’s semi-ironic idol aesthetic.</p>
+
+<p>And then, enter Luxiem. If Nijisanji had missed the female English VTuber ball in 2020, then Hololive missed the <em>male</em> English VTuber ball in 2021, because Luxiem, a quintet consisting of Luca Kaneshiro, Shu Yamino, Ike Eveland, Mysta Rias, and Vox Akuma, got big <em>fast</em> after their debut in late December, rapidly catching up to and in many cases surpassing Hololive Council over the course of this year so far. The reasons for this are numerous but a major part is that Luxiem managed to grab significant appeal with audiences in Asia in a way that most English-language VTubers up to that point hadn’t. Luxiem has become Nijisanji’s HoloMyth: unexpectedly successful through grabbing a new audience for its members rather than largely drawing on the established English-language VTuber audience. But success breeds resentment, and so too does apparent corporate misbehaviour.</p>
+
+<p>Increasingly, there seems to be a fan perception that NijiEN, and Luxiem in particular within NijiEN, has become the company’s golden goose and that the other branches have been deprioritised while EN and Luxiem get all the attention, primarily because they are the most financially lucrative. There’s no one single example encapsulating all this, but to give some of the highlights:</p>
+
+<ul>
+  <li>
+    <p>The KR/ID merger earlier this year, which I cover in a bit more detail <a href="https://www.reddit.com/r/HobbyDrama/comments/uawlfn/hobby_scuffles_week_of_april_25_2022/i6mwzmt/?context=999">here</a>, saw the Korean and Indonesian branches of Nijisanji merged into the core Japanese branch, but not NijiEN. On the surface this might seem innocuous if it were just a management reshuffle, but the merger meant also filing off the KR and ID branding, as well as the indefinite suspension of auditions for South Korean and Indonesian talents. The continued independence of the English branch was thus, for many, rather sus all told.</p>
+  </li>
+  <li>
+    <p>Since then, there’s also been very little news on physical merch for individual members of (former) NijiID and NijiKR (<a href="https://twitter.com/monomaymono/status/1527574163690377216">EDIT: although NijiID as a whole did get a few items</a>), which is more of an issue than it might seem at first glance. Aside from the whole fans wanting to get merch thing, it’s generally the case that talents get a substantially larger cut of merch sales than they do of stream donations, which makes them a far more direct way of supporting them. Even if the members themselves might not have a big issue with it, the fans are decidedly not happy about the above. Lazulight, Obsydia, and Ethyria got merch back in December-January but there has still been nothing of the sort for the members formerly of ID and KR.</p>
+  </li>
+  <li>
+    <p><a href="https://www.reddit.com/r/VirtualYoutubers/comments/ugw80c/abrahamic_apex_allegory_weekly_discussion_thread/i7vaeg8/">Nijisanji’s social media didn’t tweet out birthday announcements for (ex-)Indonesia members but did start doing so for NijiEN members</a>.</p>
+  </li>
+  <li>
+    <p><a href="https://animefest.org/e/AF2022/Guests">Luxiem will be appearing at Anime Fest</a> which will make them the second group after Lazulight to make a convention appearance, before Obsydia or Ethyria.</p>
+  </li>
+  <li>
+    <p>When a change was announced to some of the promised merch items for Japanese member Shibuya Hajime on Nijisanji’s Twitter, <a href="https://www.reddit.com/r/VirtualYoutubers/comments/ubo799/goddamned_gobshite_godfrey_weekly_discussion/i6i0g3l/">a follow-up tweet assured that there would be no alteration to previously-announced NijiEN merch</a>, which is frankly a <em>very specific</em> thing to tack onto an entirely different member’s issue.</p>
+  </li>
+  <li>
+    <p>This is the big recent thing that brought all of this back on my radar: Luxiem is getting half-anniversary merch and a lot of existing annoyances are being re-aired. The replies to the announcement <a href="https://twitter.com/NIJISANJI_World/status/1527454056750362624">here</a> consist mostly of interest and enthusiasm, but mixed in are a not-insubstantial amount of annoyed replies from various angles, including:</p>
+  </li>
+</ul>
+
+<p>– Luxiem getting 6-month merch <em>at all</em> while Obsydia and Ethyria haven’t yet had any milestone merch <a href="https://twitter.com/Ajmichalik/status/1527472407862206464">(1)</a> <a href="https://twitter.com/MkfShin/status/1527489279840100355">(2)</a> <a href="https://twitter.com/maikurowevu/status/1527464157045526528">(3)</a> <a href="https://twitter.com/pyfyvonne/status/1527478483391500289">(4)</a>;</p>
+
+<p>– Luxiem’s 6-month merch having more variety than Lazulight’s 1-year anniversary lineup <a href="https://twitter.com/Carateca2/status/1527461294340812800">(1)</a> <a href="https://twitter.com/meth4l/status/1527502341229846529">(2)</a> <a href="https://twitter.com/emkkkk6/status/1527494620774445057">(3)</a>;</p>
+
+<p>– The puppet set for Lazulight being slated to ship a month <em>after</em> the one for Luxiem despite going on sale half a month earlier <a href="https://twitter.com/realfakeNEET/status/1527513701691101197">(1)</a>;</p>
+
+<p>– Still nothing for (former) KR and ID talents <a href="https://twitter.com/CapungTofu/status/1527517027900223493">(1)</a>;</p>
+
+<p>– General grievances about Nijisanji just following the money and not balancing things out among its talents <a href="https://twitter.com/currymaru25/status/1527552173944426496">(1)</a></p>
+
+<p>In short there seems to be a strong perception that while more merch is nice, <a href="https://twitter.com/GranTzKptw/status/1527526639650762752">this is unpog</a>.</p>
+
+<p>EDIT: Some discussion over on Nijisanji’s subreddit <a href="https://www.reddit.com/r/Nijisanji/comments/utt68i/regarding_the_luxiem_favoritism_in_nijien/">here</a>.</p>
+
+<p>—– <strong>436.2</strong> —–2022-05-20 23:14:06+08:00:</p>
+
+<p>I know that comparisons to Holo that come from me are always going to be favourable towards it, but I can’t help but compare the rather ‘survival of the fittest’ approach Nijisanji has taken to Holo having a bit more of a ‘no one left behind’ mentality. Take for instance the ID branches: while Niji subsumed its ID branch and have continued to be radio silent to its fans about merch, Hololive had Bahasa Indonesia as an official announcement language at 3rd Fes and heavily pushed them during the most recent Music Weekend. From a pure corporate profit perspective one can’t <em>blame</em> Nijisanji for focussing on the bottom line, but it’s still been a <em>choice</em> to take the approach they have because they could just as well have gone for slightly less profitable merch lines for its less popular but longer-running talents. I guess this also applies as a reply to /u/megadongs’ comment too.</p>
+
+<p>—– <strong>436.3</strong> —–2022-05-20 23:15:45+08:00:</p>
+
+<p>It’s almost like people’s definition of ‘corporate’ is Hololive and Hololive specifically, and so when NijiEN turns up it’s still ‘indie’ despite being literally the other biggest VTuber corporation out there.</p>
+
+<p>—– <strong>436.4</strong> —–2022-05-20 23:25:53+08:00:</p>
+
+<p>It’s been confirmed that at least one of IN is on NijiEN’s management staff now, but even so that’s small consolation.</p>
+
+<p>—– <strong>436.5</strong> —–2022-05-21 01:30:37+08:00:</p>
+
+<p>So there’s kind of a ‘it depends on your perspective’ to this. One might justifiably ask why Luxiem’s success isn’t being used as a basis on which Nijisanji can shoulder the somewhat lower profit margin of more actively supporting its other, less successful talents, even just within EN here if we account for Ethyria. Another thing is that the social media side of things is such a low-cost endeavour that things like not hyping NijiID birthdays or tacking NijiEN merch news onto a NijiJP announcement seem like obvious favouritism at play for essentially nothing in terms of expenditures saved.</p>
+
+<p>EDIT: Well, to throw the more cynical take into it, depending on how merch profit gets distributed at Niji (my only reference is Holo where it mostly goes to the talent), anyone who doesn’t get merch is essentially being cut out from a certain amount of income that those that do get merch become entitled to. And so there’s a very obvious sort of financial loop of ‘you do well you get more opportunities to get paid more, you do badly then you’re shit out of luck’. And yes, you can argue that’s somewhat true of the dynamic at other agencies, but that’s a product of being more popular and having more people buying stuff when the opportunity is prsented, and not some kind of restriction – soft or hard – on the agency’s part actively imbalancing the opportunities.</p>
+
+<p>—– <strong>436.6</strong> —–2022-05-21 01:32:01+08:00:</p>
+
+<p>I feel like there’s a certain irony in the gradual realisation that Niji has been acting far more ‘corpo’ than Holo has been, at least in terms of what we would consider ‘typical’ profit-centric corporate behaviour.</p>
+
+<p>—– <strong>436.7</strong> —–2022-05-21 02:08:38+08:00:</p>
+
+<p>It’s almost certainly larger as an organisation in terms of people involved, just with talents alone, but with basically no public financial announcements from Cover we can’t know for sure where they are money-wise. One thing worth remarking on is that while Hololive’s total numbers when it comes to things like subscribers didn’t overtake Nijisanji until late 2021/early 2021, its members’ <em>average</em> popularity had overtaken a little bit earlier. What metrics you go by will influence how you view things of course, so perhaps the only real way of putting it is that the two are, as overall organisations, in the same league. But yeah, Nijisanji is definitely the more populated agency by a nearly 3:1 margin (bit less if you count VirtuaReal out).</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-05-20</time>
+        <a href="https://nodebe4.github.io/opinion/2022-05-20/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-05-16~2022-05-22的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-05-18</time>
+        <a href="https://nodebe4.github.io/opinion/2022-05-18/theoryofdoom/">
+          theoryofdoom在2022-05-16~2022-05-22的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-05-13</time>
+        <a href="https://nodebe4.github.io/opinion/2022-05-13/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-05-09~2022-05-15的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-05-08</time>
+        <a href="https://nodebe4.github.io/opinion/2022-05-08/EnclavedMicrostate/">
+          EnclavedMicrostate在2022-05-02~2022-05-08的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-05-14/%E8%84%AB%E9%89%A4%E4%B8%AD%E5%9C%8B%E6%AD%A3%E5%9C%A8%E9%96%8B%E5%A7%8B/">
+            前一篇：脫鉤中國正在開始
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-05-15/HeQinglian/">
+            後一篇：Twitter @He Qinglian: 2022-05-09~2022-05-15
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-05-14/%E8%84%AB%E9%89%A4%E4%B8%AD%E5%9C%8B%E6%AD%A3%E5%9C%A8%E9%96%8B%E5%A7%8B/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-05-15/HeQinglian/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-05-18/theoryofdoom/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-05-13/ForeignAffairsMag/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-05-14/%E8%84%AB%E9%89%A4%E4%B8%AD%E5%9C%8B%E6%AD%A3%E5%9C%A8%E9%96%8B%E5%A7%8B/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-05-15/HeQinglian/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-05-18/theoryofdoom/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-05-13/ForeignAffairsMag/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

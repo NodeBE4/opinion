@@ -1,0 +1,1078 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>對話範子懿：遊戲製作人會夢見“電子海洛因”嗎？ （一）|圍爐·CUHK – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+對話範子懿：遊戲製作人會夢見“電子海洛因”嗎？ （一）|圍爐·CUHK
+——
+" />
+    <meta property="og:description" content="
+對話範子懿：遊戲製作人會夢見“電子海洛因”嗎？ （一）|圍爐·CUHK
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="對話範子懿：遊戲製作人會夢見“電子海洛因”嗎？ （一）|圍爐·CUHK" />
+    <meta property="twitter:title" content="對話範子懿：遊戲製作人會夢見“電子海洛因”嗎？ （一）|圍爐·CUHK" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fmatters.news%2F%40weiluflame%2F%25E5%25B0%258D%25E8%25A9%25B1%25E7%25AF%2584%25E5%25AD%2590%25E6%2587%25BF-%25E9%2581%258A%25E6%2588%25B2%25E8%25A3%25BD%25E4%25BD%259C%25E4%25BA%25BA%25E6%259C%2583%25E5%25A4%25A2%25E8%25A6%258B-%25E9%259B%25BB%25E5%25AD%2590%25E6%25B5%25B7%25E6%25B4%259B%25E5%259B%25A0-%25E5%2597%258E-%25E4%25B8%2580-%25E5%259C%258D%25E7%2588%2590-cuhk-bafyreigdz5e3xubrz3snaye7egh2i6ct2aqwapsn7wipxskirencwzr3uu" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://matters.news/@weiluflame/%E5%B0%8D%E8%A9%B1%E7%AF%84%E5%AD%90%E6%87%BF-%E9%81%8A%E6%88%B2%E8%A3%BD%E4%BD%9C%E4%BA%BA%E6%9C%83%E5%A4%A2%E8%A6%8B-%E9%9B%BB%E5%AD%90%E6%B5%B7%E6%B4%9B%E5%9B%A0-%E5%97%8E-%E4%B8%80-%E5%9C%8D%E7%88%90-cuhk-bafyreigdz5e3xubrz3snaye7egh2i6ct2aqwapsn7wipxskirencwzr3uu" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://matters.news/@weiluflame/%E5%B0%8D%E8%A9%B1%E7%AF%84%E5%AD%90%E6%87%BF-%E9%81%8A%E6%88%B2%E8%A3%BD%E4%BD%9C%E4%BA%BA%E6%9C%83%E5%A4%A2%E8%A6%8B-%E9%9B%BB%E5%AD%90%E6%B5%B7%E6%B4%9B%E5%9B%A0-%E5%97%8E-%E4%B8%80-%E5%9C%8D%E7%88%90-cuhk-bafyreigdz5e3xubrz3snaye7egh2i6ct2aqwapsn7wipxskirencwzr3uu&text=對話範子懿：遊戲製作人會夢見“電子海洛因”嗎？ （一）|圍爐·CUHK&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://matters.news/@weiluflame/%E5%B0%8D%E8%A9%B1%E7%AF%84%E5%AD%90%E6%87%BF-%E9%81%8A%E6%88%B2%E8%A3%BD%E4%BD%9C%E4%BA%BA%E6%9C%83%E5%A4%A2%E8%A6%8B-%E9%9B%BB%E5%AD%90%E6%B5%B7%E6%B4%9B%E5%9B%A0-%E5%97%8E-%E4%B8%80-%E5%9C%8D%E7%88%90-cuhk-bafyreigdz5e3xubrz3snaye7egh2i6ct2aqwapsn7wipxskirencwzr3uu&title=對話範子懿：遊戲製作人會夢見“電子海洛因”嗎？ （一）|圍爐·CUHK" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://matters.news/@weiluflame/%E5%B0%8D%E8%A9%B1%E7%AF%84%E5%AD%90%E6%87%BF-%E9%81%8A%E6%88%B2%E8%A3%BD%E4%BD%9C%E4%BA%BA%E6%9C%83%E5%A4%A2%E8%A6%8B-%E9%9B%BB%E5%AD%90%E6%B5%B7%E6%B4%9B%E5%9B%A0-%E5%97%8E-%E4%B8%80-%E5%9C%8D%E7%88%90-cuhk-bafyreigdz5e3xubrz3snaye7egh2i6ct2aqwapsn7wipxskirencwzr3uu&title=對話範子懿：遊戲製作人會夢見“電子海洛因”嗎？ （一）|圍爐·CUHK" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=對話範子懿：遊戲製作人會夢見“電子海洛因”嗎？ （一）|圍爐·CUHK&body=
+對話範子懿：遊戲製作人會夢見“電子海洛因”嗎？ （一）|圍爐·CUHK
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://matters.news/@weiluflame/%E5%B0%8D%E8%A9%B1%E7%AF%84%E5%AD%90%E6%87%BF-%E9%81%8A%E6%88%B2%E8%A3%BD%E4%BD%9C%E4%BA%BA%E6%9C%83%E5%A4%A2%E8%A6%8B-%E9%9B%BB%E5%AD%90%E6%B5%B7%E6%B4%9B%E5%9B%A0-%E5%97%8E-%E4%B8%80-%E5%9C%8D%E7%88%90-cuhk-bafyreigdz5e3xubrz3snaye7egh2i6ct2aqwapsn7wipxskirencwzr3uu" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://matters.news/@weiluflame/%E5%B0%8D%E8%A9%B1%E7%AF%84%E5%AD%90%E6%87%BF-%E9%81%8A%E6%88%B2%E8%A3%BD%E4%BD%9C%E4%BA%BA%E6%9C%83%E5%A4%A2%E8%A6%8B-%E9%9B%BB%E5%AD%90%E6%B5%B7%E6%B4%9B%E5%9B%A0-%E5%97%8E-%E4%B8%80-%E5%9C%8D%E7%88%90-cuhk-bafyreigdz5e3xubrz3snaye7egh2i6ct2aqwapsn7wipxskirencwzr3uu&title=對話範子懿：遊戲製作人會夢見“電子海洛因”嗎？ （一）|圍爐·CUHK&caption=
+對話範子懿：遊戲製作人會夢見“電子海洛因”嗎？ （一）|圍爐·CUHK
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=對話範子懿：遊戲製作人會夢見“電子海洛因”嗎？ （一）|圍爐·CUHK&url=https://matters.news/@weiluflame/%E5%B0%8D%E8%A9%B1%E7%AF%84%E5%AD%90%E6%87%BF-%E9%81%8A%E6%88%B2%E8%A3%BD%E4%BD%9C%E4%BA%BA%E6%9C%83%E5%A4%A2%E8%A6%8B-%E9%9B%BB%E5%AD%90%E6%B5%B7%E6%B4%9B%E5%9B%A0-%E5%97%8E-%E4%B8%80-%E5%9C%8D%E7%88%90-cuhk-bafyreigdz5e3xubrz3snaye7egh2i6ct2aqwapsn7wipxskirencwzr3uu" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>對話範子懿：遊戲製作人會夢見“電子海洛因”嗎？ （一）|圍爐·CUHK</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2021-12-24
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: 围炉weiluflame</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#围炉">
+          围炉
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://matters.news/@weiluflame/%E5%B0%8D%E8%A9%B1%E7%AF%84%E5%AD%90%E6%87%BF-%E9%81%8A%E6%88%B2%E8%A3%BD%E4%BD%9C%E4%BA%BA%E6%9C%83%E5%A4%A2%E8%A6%8B-%E9%9B%BB%E5%AD%90%E6%B5%B7%E6%B4%9B%E5%9B%A0-%E5%97%8E-%E4%B8%80-%E5%9C%8D%E7%88%90-cuhk-bafyreigdz5e3xubrz3snaye7egh2i6ct2aqwapsn7wipxskirencwzr3uu" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="围炉的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#围炉 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1640353958000-->
+<p><a href="https://matters.news/@weiluflame/%E5%B0%8D%E8%A9%B1%E7%AF%84%E5%AD%90%E6%87%BF-%E9%81%8A%E6%88%B2%E8%A3%BD%E4%BD%9C%E4%BA%BA%E6%9C%83%E5%A4%A2%E8%A6%8B-%E9%9B%BB%E5%AD%90%E6%B5%B7%E6%B4%9B%E5%9B%A0-%E5%97%8E-%E4%B8%80-%E5%9C%8D%E7%88%90-cuhk-bafyreigdz5e3xubrz3snaye7egh2i6ct2aqwapsn7wipxskirencwzr3uu">對話範子懿：遊戲製作人會夢見“電子海洛因”嗎？ （一）|圍爐·CUHK</a>
+——</p>
+
+<div>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/5df14d3c-34bc-4007-94e6-9a87ca8fa1be.png" data-asset-id="5df14d3c-34bc-4007-94e6-9a87ca8fa1be" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>範子懿，本科修讀於中山大學哲學系，研究生在英國聖安德魯斯大學修讀神學。 畢業後，他並未選擇繼續從事學術研究工作，而是回到國內投身於電子遊戲製作行業。 從業七年，他參與過的項目有大型的商業遊戲，也有中小型獨立遊戲，現時在上海某頭部二次元遊戲公司預研項目擔任科技策劃。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/0234f191-257c-49d7-8802-1060c97fd75f.png" data-asset-id="0234f191-257c-49d7-8802-1060c97fd75f" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/b3fc62e0-2bca-49cc-874f-ce265c73fd46.webp" data-asset-id="b3fc62e0-2bca-49cc-874f-ce265c73fd46" referrerpolicy="no-referrer" />    <figcaption>
+<span>左：2017年在北京國家體育場“鳥巢”舉辦的英雄聯盟全球總決賽右：2021年8月3日經濟參考報刊登的文章</span>
+    </figcaption>
+  </figure>
+  <p>從2000年光明日報筆下的“電子海洛因”[1]，到2021年經濟參考報筆下的“精神鴉片”[2]，在電子遊戲隨著互聯網一道在中國被普及的這二十年中，它在主流媒體心中似乎一直是一頭以人類上進精神為食的野獸，國家也在近年頻繁頒佈、 修正多項針對未成年人遊戲時間的管控政策。 然而，國內電子遊戲市場在2020年的收入卻超過2700億人民幣，遊戲用戶規模亦達6.65億人次[3]。 在社會對電子遊戲的觀點如此分裂的今天，範子懿又是怎麼看待他的作品，以及針對它們的種種爭議的呢？</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/adc2f49a-0117-4653-b1c0-98dd4c0f496c.png" data-asset-id="adc2f49a-0117-4653-b1c0-98dd4c0f496c" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <h2 id="section"><strong>1</strong></h2>
+  <h2 id="section-1"><strong>關於電子遊戲的那些爭議：成癮，審查，和“精神鴉片”</strong></h2>
+  <p>童=童俊博</p>
+  <p><strong>範=範子懿</strong></p>
+  <div class="language-plaintext ql-syntax highlighter-rouge" spellcheck="false"><div class="highlight"><pre class="highlight"><code>童|大部分人可能都不太瞭解“電子遊戲製作”這項工作具體是什麼。 您每天的工作內容大概是怎樣的呢？</code></pre></div>  </div>
+  <p>範|我現在在職的崗位是“科技策劃”。 隨著時代進步，遊戲製作工業逐漸變得複雜，“科技策劃”這個崗位因而興起。 現在很多人都想製作以“3A”為標準的質量更高的遊戲，而質量更高的遊戲肯定會有更複雜的生產流程，所以需要有一些人幫忙去梳理這些流程，綜合其他崗位的專業和意見。 具體來講，我是一座策劃和程式師之間的橋樑； 我要設計一些複雜系統，既能够滿足策劃心中Gameplay的需要，又便於程式師對這些內容的理解和實現。</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge" spellcheck="false"><div class="highlight"><pre class="highlight"><code>童|多年來，國內的各大媒體曾在各種場合將電子遊戲定性為“精神鴉片”。 您如何看待這種評估？</code></pre></div>  </div>
+  <p>範|在中國，“鴉片”這個詞有非常負面的含義，對吧？ 所以媒體的這種描繪，其實是他們對所謂的“遊戲讓人不務正業”這個概念的一個極端化的修辭。 但是，如果把“不務正業”這個概念一般化（generalize）了之後，我們不難發現“不務正業”實際上有很多種體現形式。</p>
+  <p>我想，“精神鴉片”這個說法是在影射電子遊戲有很强的成癮性。 為了吸引玩家，電子遊戲的背後確實有很多行為心理學支撐的機制設計，這些設計讓人願意更投入更多的時間，產生和機制對應的重複的行為。 大概是因為曾經有一些過度沉迷電子遊戲的極端案例吧，這些案例傳出來之後，使電子遊戲在人們心中留下負面的印象。</p>
+  <p>關於電子遊戲的潜在成癮性，我繼續說兩句。 成癮這件事可以折開成幾個層面。 首先，一部分的“成癮”感來自於觀眾得到的好的娛樂體驗，比如某個遊戲的視覺效果和音效特別令人滿足，或者它能够滿足人一種想發洩的欲望，或者能够傳達給人一種令人愉悅的力量感和代入感，比如我正在扮演一個很强、很酷的角色。 這些都是一般意義上的好的體驗。 好的體驗其實是存在於很多地方的，比如說戲劇或者電影中都有很多很動人的元素，這些都可以是好的體驗，但是它們未必成癮。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/ba9e594f-0738-4960-b6c3-b9ce58cb7013.webp" data-asset-id="ba9e594f-0738-4960-b6c3-b9ce58cb7013" referrerpolicy="no-referrer" />    <figcaption>
+<span>在電腦圖形科技和遊戲製作工業足够成熟的2021年，市面上有各式各樣的角色扮演遊戲（Role-playing Games）給玩家帶來沉浸式的體驗</span>
+    </figcaption>
+  </figure>
+  <p>往下延展，咱們就討論到了“成癮”這個現象更深的層面。 成癮是建立在“迴響迴圈”的基礎上的。 要理解“迴響迴圈”，需要先說一點行為心理學的知識。 行為心理學中有一個著名的“斯金納箱” （Skinner-box）實驗，實驗者訓練小老鼠按按鈕，並對小老鼠特定的行為模式，比如說連續按多次按鈕，隨機地給它們一些獎勵。實驗者們通過這種引導發現相比固定的獎勵形式，隨機的獎勵機制更容易引導小老鼠們發展出按按鈕的行為。在這個角度上，行為心理學 是具有一定爭議性的，因為它進行研究的預設，是要完全消解人或者生物在精神上的情感、尊嚴，而僅注重於周圍環境對人進行什麼樣的資訊輸入，可以使人產生什麼樣的輸出，因而可以有效控制人的行為。 然而，這種機制廣泛存在於loot-box和抽卡的遊戲裏。 也因為這樣的管道，玩家有更强的遊玩欲望，也為廠商產生了更大的商業效益。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/158a20a8-e566-4aa1-8d0e-1c78f869b0ea.webp" data-asset-id="158a20a8-e566-4aa1-8d0e-1c78f869b0ea" referrerpolicy="no-referrer" />    <figcaption>
+<span>行為心理學的斯金納箱實驗：就如同現實中的賭博一樣，在遊戲中隨機地得到正回饋會令人上癮； 網上有不少文章支持這個觀點</span>
+    </figcaption>
+  </figure>
+  <p>說回到“迴響迴圈”這個概念。 一開始我們討論的那些“好的視聽體驗”，其實在對於引導玩家花更多時間玩遊戲上，是相對來說很容易失效的一個方法。 我們做遊戲時，無論是做單機遊戲還是做長線運營的網路遊戲，要考量的一個重要因素，是研發製作的內容和玩家消耗的內容的比例，這個是需要精細的計算的。 換句話說：我們能够提供給玩家多少內容和體驗，玩家能消耗多少內容和體驗？ 在開發者稍微有過一些嘗試之後，我們就很快地意識到這種視聽效果方面的體驗是很容易失效的：玩家體驗過一定程度好的視聽體驗後很快就會厭倦，不會再那麼興奮了，也因而沒有太多動力繼續玩遊戲。</p>
+  <p>但是，我們發現一些長期的，建基於“迴響迴圈”的機制，非常容易讓玩家產生成癮性的行為。 比如說玩家每擊殺了多少個敵人之後會昇一級，每昇一級之後會有一次機會去學習新的技能，然後學習到的新的技能又會强化玩家去擊殺敵人的效率。 所有的遊戲，在長期看來，都是這樣一個類似資源管理的玩法。 玩家會找到TA和系統之間輸入和輸出的機制的平衡點，並且學習如何把遊戲效率最大化。 這個效率最大化的過程，或者說從系統裡面獲得輸出並將這些輸出重新投入系統中的過程，非常容易讓玩家留下來。 這些“迴響迴圈”是非常普遍地存在於遊戲裡面的。 遊戲設計得好不好玩，和它的機制中各種迴響迴圈過程之間銜接得好不好，有非常密切的關係。 但同時一個遊戲上不上癮，也和這個機制關係非常密切。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/08041bf2-241c-458d-8129-32ef0690a296.webp" data-asset-id="08041bf2-241c-458d-8129-32ef0690a296" referrerpolicy="no-referrer" />    <figcaption>
+<span>網絡上“一刀999”的梗本質上是這種“投入—輸出”的正回饋做到極致的體現</span>
+    </figcaption>
+  </figure>
+  <div class="language-plaintext ql-syntax highlighter-rouge" spellcheck="false"><div class="highlight"><pre class="highlight"><code>童|我們常常在新聞中看到不少報導青少年玩網路遊戲上癮的例子； 比如說，初中生沉迷王者榮耀或者英雄聯盟這類遊戲。 依您的觀點，“青少年沉迷遊戲”這個現象，拋開個人和家庭因素，很可能是遊戲的迴響迴圈機制對他一步步的引導而造成的？</code></pre></div>  </div>
+  <p>範|確實是這樣的。 單從遊戲品類來看，MOBA——就是剛剛說的王者榮耀和英雄聯盟——屬於自帶很好的“迴響迴圈”機制的品類。 因為這個品類畢竟是多人遊戲，是整體上傾向於玩家之間互相提供遊戲內容的類型。 我作為玩家，我並不是只是單純地和這個系統在玩，更主要的是我在和其他玩家一起玩。 因為開發者開發的遊戲系統是能够被窮盡的，然後對於多數人來講，窮盡了之後他就沒有什麼額外的空間了，他就會失去興趣。</p>
+  <p>但是特定類型的遊戲，比如說多人遊戲，尤其是競技性比較强的多人遊戲， 它本身的skill-ceiling（遊戲科技的上限）比較高，這樣一來很多水准很好的玩家依然會在遊戲裏有探索的空間。另外，多人遊戲也有本身社交系統的支撐，還有“排位賽” 這樣的算灋系統，讓玩家更容易匹配到和自己水准相當的對手。 這樣無論玩家處於什麼樣的遊戲水准，玩家都可以得到差不多和TA的競技水准對等的遊戲體驗。 在這些機制的作用下，這樣的遊戲會是非常長壽的遊戲。</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge" spellcheck="false"><div class="highlight"><pre class="highlight"><code>童|您作為遊戲開發者，自然會設計和實踐不同類型的迴響迴圈。 但是，公司或者政府有沒有要求您和同事設計任何措施來應對成癮的這個問題？ 類似於一個“反迴響迴圈”，但是不會影響Gameplay本身的系統？</code></pre></div>  </div>
+  <p>範|成癮這個問題更多還是被當成一種行為在看待。 所以無論是政策的引導，還是說研發商或者發行商的對策，整體上也是基於行為的對策。 也就是說，與其認為“應該由開發商想辦法讓玩家不要沉迷”，現行的想法應該是“玩家不可以玩這麼久，玩了這麼久TA一定成癮了”； 這是一個不好的行為，我們要做的是制止這個行為。 所以現在做的更多是從玩家方出發針對行為的限制； 現在最直接的方法就是限制遊戲時間，而從遊戲設計上去限制遊玩行為則很少被建議和採納。</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge" spellcheck="false"><div class="highlight"><pre class="highlight"><code>童| 2018年，WHO正式將“遊戲成癮”（gaming disorder）列為一項精神疾病。您如何看待這件事？</code></pre></div>  </div>
+  <p>範|首先我要說明的是，這個話題我沒有太多發言權，因為病理學這個範疇我不是很懂。 所以接下來我所說的，只是從我一個非醫學、精神病學專業人士的角度出發分享的看法。</p>
+  <p>在這件事中，遊戲成癮是被定義為“disorder”的。 那麼“disorder”一定會有一個對應的現象或者概念是“order”，對吧？ 先有一個狀態被認為是正常的，然後才有其他的狀態被認為是失常的。 但是“正常的”到底是什麼樣子，“一個標準的、符合規範的人應該有怎樣的表現”是一個很難定義的事情。 所以如果定義標準都很難，那反過來說“遊戲成癮”這件事是失常的，我個人覺得這個還有待討論。 另外，即便我定義了一個失常的行為或狀態，我怎麼去界定一個人是否屬於這樣失常的狀態呢？ 這就是另外一個層面的事情了。</p>
+  <p>WHO剛發這個規定的時候，我也看過那個檔案，裡面寫了一些“當它符合多少個標準的時候，它就有多少概率被認為是disorder”這樣的界定標準。 不過我還是認為這整體上是一個很模棱兩可的東西。 當然，學術討論歸學術討論，某個現象到底是不是“失常”需要有它學術上的探討和定義。 但是這其中的覈心問題在於它可能會衍生出來一些權力關係，這個就是更值得警惕的了。 當有一個“失常”被定義出來的時候，就會有人掌握“定義失常”的話語權。 然後掌握這一話語權的人就可以通過去行使這樣的權利來獲得一些額外的東西。 這個是我更加擔心的事情。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/61b45d63-2f7a-4f9e-b12e-cd7151af53e2.webp" data-asset-id="61b45d63-2f7a-4f9e-b12e-cd7151af53e2" referrerpolicy="no-referrer" />    <figcaption>
+<span>2018年，國際衛生組織在《國際疾病分類》的第11版（ICD-11）中正式將“遊戲成癮障礙”歸納到“由成癮行為而導致的障礙”的分類中</span>
+    </figcaption>
+  </figure>
+  <div class="language-plaintext ql-syntax highlighter-rouge" spellcheck="false"><div class="highlight"><pre class="highlight"><code>童|近日，國家新聞出版署發佈了一系列關於限制未成年人遊玩網路遊戲時間的政策，使得未成年人一周只擁有最多三小時的遊戲時間，這是繼2019年國家出臺政策，限制未成年人每日最多1.5小時遊戲時間後的又一次收緊。 您如何看待這次政策調控？</code></pre></div>  </div>
+  <p>範|可能和羣衆預想的不一樣，這次政策調控其實對我們行業的影響並不大。 畢竟未成年玩家並不會給遊戲公司提供很大的利潤。 另外，玩家是有生命週期的，比如說可能是從十幾歲到三十歲。 玩家身份的生命週期每個人都是不一樣的，有的人可能會長一點，而有的人可能開始的早一點。</p>
+  <p>那從這個角度出發來看這個政策調控，就可能會出現一些有趣的情况。 比如現在這代孩子，如果說現在和將來的政策從根本上讓這些孩子的玩家生命週期較晚開始，那麼等他們成年之後再去理解遊戲作品時，很可能和我們的處境不一樣。 比如說我們覺得有一些童年回憶的東西，現在很多遊戲廠商是會拿這個“童年回憶”來做文章的：你十幾歲的時候玩的東西，等你三十歲了他們會重新做一遍，讓你繼續玩到這些老產品。 但是對我們這一代新的年輕人來講，可能他們十幾歲的時候就沒玩過什麼東西，所以這種“回憶殺”一類的面向老用戶的產品策略可能就不太好再走一遍。</p>
+  <p>從具體政策執行的角度來看的話，我覺得還挺難預測這個政策最後會達成什麼樣的效果的。 當然，持續運營的線上遊戲肯定是會有比較嚴格的身份審查的，但其實它在執行下去的時候，下麵的灰色空間依然很多，肯定還是會有各種各樣的在“夾縫裡面去尋找空間”的行為。 不過可能這部分會成為這一代年輕玩家的共同回憶吧。 （笑）</p>
+  <p>童|今年8月，新華社首長的《經濟參考報》刊登了一篇題為《“精神鴉片”竟長成數千億產業》的報導，該報道刊登數小時內，國內各大遊戲股大跌，最大跌幅達20%，總市值一度蒸發4000億人民幣。 作為行業從業者，這件事給您造成了什麼樣的影響？ 您是如何看待本次事件的？</p>
+  <p>範|對於我們一般從業者的影響幾乎沒有。 上市公司的市值跌了這件事，受影響最大的是投資者和公司管理層。 我覺得這件事情不過是政策運行機制的一個體現。 在一個大的政策調控被實行之前，它前前後後會先放一些風聲出來，直到最後才真正地去實行； 這是需要醞釀一段時間的，不會是一個很突然的事情。 那個文章其實也就是發出來試一下水，或者說看一下公眾的反應，之後也知道大家反應比較激烈。 在那篇文章發佈不久後，之前提到的限制未成年人遊戲時間的政策也確實下來了。 所以我覺得新華社的那篇報導，只是一篇試探性的，或者說單純探探風聲的一篇文稿，並沒有任何指導意義。</p>
+  <div class="language-plaintext ql-syntax highlighter-rouge" spellcheck="false"><div class="highlight"><pre class="highlight"><code>童|在國外，很多國家和地區都設立了自己的電子遊戲內容稽核和分級制度，如北美的ESRB。 在這種體系下，羣衆在電商零售店中購買遊戲時，需要出示身份證件，以證明自己的實際年齡符合遊戲評級標準要求的購買年齡。 而中國一直沒有一個系統的遊戲內容稽核和評級制度，使得青少年可以輕鬆接觸到很多內容上不適合他們這一年齡段的電子遊戲。 您如何看待分級制度對青少年精神健康的作用？ 您認為國內是否應該設立一個類似的電子遊戲內容稽核和分級制度？</code></pre></div>  </div>
+  <p>範|在我開始回答之前，我必須承認的是我對國內電子遊戲內容稽核機制這方面並不瞭解。 這些主要是做發行的朋友需要考量的，他們會清楚一些。</p>
+  <p>後續的問題，我從兩個角度來聊。 首先，我從從業者的角度來看，我作為一個生產內容的人，如果有一套規範能够告訴我什麼東西能做、什麼東西不能做，或者說某些東西做到什麼程度就需要受到怎樣的限制，這會對我有很大的幫助。 因為現在我們行業裡面對國內稽核機制不喜歡的地方在於它的條例很模糊，所以大家總會在一些意想不到的地方被限制住。 開發者們的想法是，如果說這個稽核機制能够寫得足够清楚，我們自己的工作也會簡單一些。 如果我們在創作內容的時候清晰地知道某項內容達到什麼程度時，這項作品只能出售給某一特定年齡層的群體，這對開發者和發行商都是有幫助的。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/c39d29da-f794-4998-8204-610405dd38cd.webp" data-asset-id="c39d29da-f794-4998-8204-610405dd38cd" referrerpolicy="no-referrer" />    <figcaption>
+<span>國外各個國家和地區對電子遊戲內容的稽核分級的標識。 最左列為北美的ESRB委員會所推行的標準，廣為玩家群體所引用</span>
+    </figcaption>
+  </figure>
+  <p>說回到消費者這邊。 我覺得“限制消費者接觸內容”這件事其實比想像中的複雜一些。 首先從宏觀層面上，我提出這樣一個問題：政府到底是不是要執行很嚴格的內容限制，讓年齡不合適的人接觸不到不適合的內容？ 從電子遊戲這個小產業上來看，國外在這方面的稽核確實做的很好。 但是讓我們把視角擴寬一些，把全部消費品都納入上面我提出的問題中來考慮。</p>
+  <p>國內在限制消費者接觸不恰當內容上，也有在限制和引導方面做的好的事例，比如關於毒品的限制：咱們中國人會疑惑美國人為什麼那麼容易搞到毒品，而美國人反過來也會疑惑為什麼中國的青少年可以那麼不受限制地得到烟、酒、打火機。 所以在執行層面上，其實每個國家都有自己的標準，不過大家好像似乎都有一種道德精神上的共識，也就是有一些特定的東西不適合年輕人，也囙此設定出了一系列規則。 不過實際執行下去的力度在每個地方差別還挺大的。 所以就是這個審查機制最後怎麼該執行，我個人也沒有看到很好的範例。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/4fce1809-8e4d-4d04-9a95-c502c83393b2.webp" data-asset-id="4fce1809-8e4d-4d04-9a95-c502c83393b2" referrerpolicy="no-referrer" />    <figcaption>
+<span>就酒精一例而言，中美對其限制的程度差別很大。 在美國，合法飲酒年齡是21歲； 而在中國則沒有關於飲酒年齡的硬性規定</span>
+    </figcaption>
+  </figure>
+  <p>另外一個方面，我覺得這個稽核機制要不要執行都不太好下結論。 我們可以拿剛剛毒品的例子來看。 我們知道美國實行毒品合法化的州最終吸毒率還是上升了。 政府做了對應的監管，政府也給了清楚的條例，讓消費者能合法地、有限制地去接觸毒品，但這個政策長期下來的結果好像也並不見得是大家想的那麼好。</p>
+  <p>回到電子遊戲上。 如果這個話題再延伸下去，問的就是“電子遊戲的內容到底是不是在傷害青少年”了。 關於這點我就不予置評了。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/53e487a0-6e40-4ced-980e-01ad51fd0b22.png" data-asset-id="53e487a0-6e40-4ced-980e-01ad51fd0b22" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <div class="language-plaintext ql-syntax highlighter-rouge" spellcheck="false"><div class="highlight"><pre class="highlight"><code>注：[1]光明日報《電腦遊戲瞄准孩子的“電子海洛因”》2000年[2]經濟參考報《“精神鴉片”竟長成數千億產業》2021年[3]《2020年中國遊戲產業報告》</code></pre></div>  </div>
+  <p>文|童俊博</p>
+  <p>圖|來自網絡</p>
+  <p>微信編輯|李婧軒</p>
+  <p>matters編輯| Marks</p>
+  <p>審稿| Ronnie</p>
+  <p>圍爐（ID:weilu_flame）</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/c1b1825a-f430-4217-b426-7668325394ab.png" data-asset-id="c1b1825a-f430-4217-b426-7668325394ab" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>文中圖片未經同意，請勿用作其他用途</p>
+  <p>歡迎您在文章下方評論，與圍爐團隊和其他讀者交流討論</p>
+  <p>欲瞭解圍爐、閱讀更多文章，請關注本公眾號並在公眾號頁面點擊相應選單欄目</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/23ee64d1-436c-46d5-b506-86c783dbea7f.png" data-asset-id="23ee64d1-436c-46d5-b506-86c783dbea7f" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/ecd12fdd-c7f6-45ed-a790-40eeb69c2765.png" data-asset-id="ecd12fdd-c7f6-45ed-a790-40eeb69c2765" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p><br /></p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#围炉 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2024-10-03/%E5%AF%B9%E8%AF%9D%E5%A5%B3%E6%80%A7%E6%B0%91%E5%B7%A5-%E5%9C%A8%E5%9F%8E%E5%B8%82%E9%87%8C-%E5%9C%A8%E5%B7%A5%E4%BD%9C%E5%92%8C%E5%AE%B6%E5%BA%AD%E4%B9%8B%E9%97%B4-%E5%9B%B4%E7%82%89-CU/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2021-03-23/%E5%AF%B9%E8%AF%9D%E9%BB%84%E6%B3%93%E7%BF%94-%E8%87%B4%E5%8A%9B%E4%BA%8E%E5%9F%B9%E8%82%B2%E4%B8%96%E7%95%8C%E5%85%AC%E6%B0%91%E7%9A%84%E4%B8%AD%E5%8D%97%E5%B1%8B%E5%88%9B%E5%A7%8B%E4%BA%BA-%E8%AE%B2%E5%BA%A7%E6%91%98%E8%A6%81/">最早</a>--</span>
+    
+      <li>
+        <time>2021-12-30</time>
+        <a href="https://nodebe4.github.io/opinion/2021-12-30/%E5%9C%8D%E7%88%90%E8%A9%95%E8%AB%96-%E7%8F%BE%E4%BB%A3%E7%A4%BE%E6%9C%83%E8%A3%8F-%E9%82%A3%E4%BA%9B%E6%BC%82%E6%B5%AE%E7%9A%84%E5%B0%8A%E5%9A%B4%E6%84%9F/">
+          圍爐評論｜現代社會裏，那些漂浮的尊嚴感
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-12-24</time>
+        <a href="https://nodebe4.github.io/opinion/2021-12-24/%E5%B0%8D%E8%A9%B1%E7%AF%84%E5%AD%90%E6%87%BF-%E9%81%8A%E6%88%B2%E8%A3%BD%E4%BD%9C%E4%BA%BA%E6%9C%83%E5%A4%A2%E8%A6%8B-%E9%9B%BB%E5%AD%90%E6%B5%B7%E6%B4%9B%E5%9B%A0-%E5%97%8E-%E4%BA%8C-%E5%9C%8D%E7%88%90-CUHK/">
+          對話範子懿：遊戲製作人會夢見“電子海洛因”嗎？ （二）|圍爐·CUHK
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-12-20</time>
+        <a href="https://nodebe4.github.io/opinion/2021-12-20/%E5%9C%8D%E7%88%90%E5%B0%8F%E7%82%92-%E6%B6%88%E5%A4%B1%E7%9A%84%E9%9D%92%E6%98%A5-%E9%87%9D%E5%B0%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%B6%B2%E7%B5%A1%E4%BF%9D%E8%AD%B7%E6%8E%AA%E6%96%BD%E7%9A%84%E8%83%8C%E5%BE%8C-%E5%9C%8D%E7%88%90-CityU/">
+          圍爐小炒：“消失的青春“：針對未成年人網絡保護措施的背後|圍爐·CityU
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-12-15</time>
+        <a href="https://nodebe4.github.io/opinion/2021-12-15/%E5%9C%8D%E7%88%90%E5%A4%9C%E8%A9%B1-%E6%AD%A4%E5%88%BB%E8%A9%95%E4%BC%B0%E4%BF%9D%E7%A0%94-%E5%B0%8D%E6%89%80%E6%9C%89%E4%BA%BA%E9%83%BD%E7%82%BA%E6%99%82%E5%B0%9A%E6%97%A9-%E5%9C%8D%E7%88%90-FDU/">
+          圍爐夜話：此刻評估保研，對所有人都為時尚早|圍爐·FDU
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2021-12-24/ForeignAffairsMag/">
+            前一篇：ForeignAffairsMag在2021-12-20~2021-12-26的言论
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2021-12-24/%E5%B0%8D%E8%A9%B1%E7%AF%84%E5%AD%90%E6%87%BF-%E9%81%8A%E6%88%B2%E8%A3%BD%E4%BD%9C%E4%BA%BA%E6%9C%83%E5%A4%A2%E8%A6%8B-%E9%9B%BB%E5%AD%90%E6%B5%B7%E6%B4%9B%E5%9B%A0-%E5%97%8E-%E4%BA%8C-%E5%9C%8D%E7%88%90-CUHK/">
+            後一篇：對話範子懿：遊戲製作人會夢見“電子海洛因”嗎？ （二）|圍爐·CUHK
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2021-12-24/ForeignAffairsMag/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2021-12-24/%E5%B0%8D%E8%A9%B1%E7%AF%84%E5%AD%90%E6%87%BF-%E9%81%8A%E6%88%B2%E8%A3%BD%E4%BD%9C%E4%BA%BA%E6%9C%83%E5%A4%A2%E8%A6%8B-%E9%9B%BB%E5%AD%90%E6%B5%B7%E6%B4%9B%E5%9B%A0-%E5%97%8E-%E4%BA%8C-%E5%9C%8D%E7%88%90-CUHK/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2021-12-24/%E5%B0%8D%E8%A9%B1%E7%AF%84%E5%AD%90%E6%87%BF-%E9%81%8A%E6%88%B2%E8%A3%BD%E4%BD%9C%E4%BA%BA%E6%9C%83%E5%A4%A2%E8%A6%8B-%E9%9B%BB%E5%AD%90%E6%B5%B7%E6%B4%9B%E5%9B%A0-%E5%97%8E-%E4%BA%8C-%E5%9C%8D%E7%88%90-CUHK/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2021-12-20/%E5%9C%8D%E7%88%90%E5%B0%8F%E7%82%92-%E6%B6%88%E5%A4%B1%E7%9A%84%E9%9D%92%E6%98%A5-%E9%87%9D%E5%B0%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%B6%B2%E7%B5%A1%E4%BF%9D%E8%AD%B7%E6%8E%AA%E6%96%BD%E7%9A%84%E8%83%8C%E5%BE%8C-%E5%9C%8D%E7%88%90-CityU/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2021-12-24/ForeignAffairsMag/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2021-12-24/%E5%B0%8D%E8%A9%B1%E7%AF%84%E5%AD%90%E6%87%BF-%E9%81%8A%E6%88%B2%E8%A3%BD%E4%BD%9C%E4%BA%BA%E6%9C%83%E5%A4%A2%E8%A6%8B-%E9%9B%BB%E5%AD%90%E6%B5%B7%E6%B4%9B%E5%9B%A0-%E5%97%8E-%E4%BA%8C-%E5%9C%8D%E7%88%90-CUHK/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<围炉>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2021-12-24/%E5%B0%8D%E8%A9%B1%E7%AF%84%E5%AD%90%E6%87%BF-%E9%81%8A%E6%88%B2%E8%A3%BD%E4%BD%9C%E4%BA%BA%E6%9C%83%E5%A4%A2%E8%A6%8B-%E9%9B%BB%E5%AD%90%E6%B5%B7%E6%B4%9B%E5%9B%A0-%E5%97%8E-%E4%BA%8C-%E5%9C%8D%E7%88%90-CUHK/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<围炉>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2021-12-20/%E5%9C%8D%E7%88%90%E5%B0%8F%E7%82%92-%E6%B6%88%E5%A4%B1%E7%9A%84%E9%9D%92%E6%98%A5-%E9%87%9D%E5%B0%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%B6%B2%E7%B5%A1%E4%BF%9D%E8%AD%B7%E6%8E%AA%E6%96%BD%E7%9A%84%E8%83%8C%E5%BE%8C-%E5%9C%8D%E7%88%90-CityU/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

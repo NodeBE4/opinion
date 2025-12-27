@@ -1,0 +1,2352 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>theoryofdoom在2022-09-19~2022-09-25的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="theoryofdoom在2022-09-19~2022-09-25的言论" />
+    <meta property="twitter:title" content="theoryofdoom在2022-09-19~2022-09-25的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FTheFlyingTree%2Fcomments%2Fxi0a4y%2Fdoes_anyone_listen_to_the_band_vundabar%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/TheFlyingTree/comments/xi0a4y/does_anyone_listen_to_the_band_vundabar/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/TheFlyingTree/comments/xi0a4y/does_anyone_listen_to_the_band_vundabar/&text=theoryofdoom在2022-09-19~2022-09-25的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/TheFlyingTree/comments/xi0a4y/does_anyone_listen_to_the_band_vundabar/&title=theoryofdoom在2022-09-19~2022-09-25的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/TheFlyingTree/comments/xi0a4y/does_anyone_listen_to_the_band_vundabar/&title=theoryofdoom在2022-09-19~2022-09-25的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=theoryofdoom在2022-09-19~2022-09-25的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/TheFlyingTree/comments/xi0a4y/does_anyone_listen_to_the_band_vundabar/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/TheFlyingTree/comments/xi0a4y/does_anyone_listen_to_the_band_vundabar/&title=theoryofdoom在2022-09-19~2022-09-25的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=theoryofdoom在2022-09-19~2022-09-25的言论&url=https://old.reddit.com/r/TheFlyingTree/comments/xi0a4y/does_anyone_listen_to_the_band_vundabar/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>theoryofdoom在2022-09-19~2022-09-25的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-09-24
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: theoryofdoom</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/TheFlyingTree/comments/xi0a4y/does_anyone_listen_to_the_band_vundabar/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#380-does-anyone-listen-to-the-band-vundabar-submitted-on-2022-09-19-1111340800" id="markdown-toc-380-does-anyone-listen-to-the-band-vundabar-submitted-on-2022-09-19-1111340800">380: Does anyone listen to the band Vundabar?, submitted on 2022-09-19 11:11:34+08:00.</a></li>
+  <li><a href="#381-what-happened-to-the-other-archons-submitted-on-2022-09-20-0147490800" id="markdown-toc-381-what-happened-to-the-other-archons-submitted-on-2022-09-20-0147490800">381: What happened to the other Archons?, submitted on 2022-09-20 01:47:49+08:00.</a></li>
+  <li><a href="#382-which-song-do-you-identify-100-i-mean-word-by-word-submitted-on-2022-09-20-0315210800" id="markdown-toc-382-which-song-do-you-identify-100-i-mean-word-by-word-submitted-on-2022-09-20-0315210800">382: Which song do you identify 100%? I mean word by word, submitted on 2022-09-20 03:15:21+08:00.</a></li>
+  <li><a href="#383-live-music-thread--the-80s-submitted-on-2022-09-20-0656310800" id="markdown-toc-383-live-music-thread--the-80s-submitted-on-2022-09-20-0656310800">383: Live music thread — the 80s, submitted on 2022-09-20 06:56:31+08:00.</a></li>
+  <li><a href="#384-got-permently-banned-from-rforex-submitted-on-2022-09-24-0646290800" id="markdown-toc-384-got-permently-banned-from-rforex-submitted-on-2022-09-24-0646290800">384: Got “Permently Banned” from r/Forex…, submitted on 2022-09-24 06:46:29+08:00.</a></li>
+</ul>
+
+<h3 id="380-does-anyone-listen-to-the-band-vundabar-submitted-on-2022-09-19-1111340800">380: <a href="https://old.reddit.com/r/TheFlyingTree/comments/xi0a4y/does_anyone_listen_to_the_band_vundabar/">Does anyone listen to the band Vundabar?</a>, submitted on 2022-09-19 11:11:34+08:00.</h3>
+
+<p>—– <strong>380.1</strong> —–2022-09-19 11:38:06+08:00:</p>
+
+<p>No, but it’s almost like Vampire Weekend met Bo Burnham.</p>
+
+<p>—– <strong>380.2</strong> —–2022-09-19 11:56:02+08:00:</p>
+
+<p>haha is that a good thing or a bad thing?</p>
+
+<p>—– <strong>380.3</strong> —–2022-09-19 12:01:49+08:00:</p>
+
+<p><a href="https://www.youtube.com/watch?v=0UIB9Y4OFPs&amp;ab_channel=DEFLEPPARD">This</a> is more along the lines of what I’d go for.</p>
+
+<p>Maybe it will appear on Stranger Things, like other <a href="https://www.youtube.com/watch?v=wp43OdtAAkM&amp;ab_channel=KateBushMusic">great 80s music</a> recently has.</p>
+
+<p>—– <strong>380.4</strong> —–2022-09-19 12:12:48+08:00:</p>
+
+<p>Well, everything that’s old is new again since today’s kiddos have never heard of anything that played before Justin Bieber.  So they’re literally just hearing it for the first time.</p>
+
+<p>Meanwhile I grew up on hair metal and all the rest of the best of the 1980s.</p>
+
+<p>—– <strong>380.5</strong> —–2022-09-19 12:18:26+08:00:</p>
+
+<p>I’ve only seen them live once.  But it was a fkn great show.</p>
+
+<p>When I watched the new season of Karate Kid on Netflix, it occurred to me that Johnny’s taste in music is really close to my own . . . and that Johnny’s music taste is a meme.  But fuck it.  I grew up on <a href="https://www.youtube.com/watch?v=9RIeycixkK8&amp;ab_channel=RHINO">this stuff</a>.  Wish music like this could still be made.</p>
+
+<p>—– <strong>380.6</strong> —–2022-09-19 20:40:19+08:00:</p>
+
+<p>Right on.  We all need a little hair metal in our lives.  Or a lot.</p>
+
+<h3 id="381-what-happened-to-the-other-archons-submitted-on-2022-09-20-0147490800">381: <a href="https://old.reddit.com/r/TheFlyingTree/comments/xijdwi/what_happened_to_the_other_archons/">What happened to the other Archons?</a>, submitted on 2022-09-20 01:47:49+08:00.</h3>
+
+<p>—– <strong>381.1</strong> —–2022-09-20 08:37:57+08:00:</p>
+
+<p>So you say.</p>
+
+<h3 id="382-which-song-do-you-identify-100-i-mean-word-by-word-submitted-on-2022-09-20-0315210800">382: <a href="https://old.reddit.com/r/TheFlyingTree/comments/xilqiz/which_song_do_you_identify_100_i_mean_word_by_word/">Which song do you identify 100%? I mean word by word</a>, submitted on 2022-09-20 03:15:21+08:00.</h3>
+
+<p>—– <strong>382.1</strong> —–2022-09-20 10:44:51+08:00:</p>
+
+<p>It’s a toss up between <a href="https://www.youtube.com/watch?v=7j5LmyNNsrE&amp;ab_channel=JoyDivision-Topic">New Dawn Fades</a> and <a href="https://www.youtube.com/watch?v=D1Ew6UVFR-I&amp;ab_channel=JoyDivision-Topic">Ceremony</a> by Joy Division.</p>
+
+<p>Really, Ian Curtis’s lyrics are closer to me than any others that any other band has ever written.</p>
+
+<p>And yes.  Both of these speak to me 100%.  Word, by every single word.</p>
+
+<p>Here are the lyrics to New Dawn Fades:</p>
+
+<blockquote>
+  <p>A change of speed, a change of style</p>
+
+  <p>A change of scene, with no regrets</p>
+
+  <p>A chance to watch, admire the distance</p>
+
+  <p>Still occupied, though you forget</p>
+
+  <p>Different colors, different shades</p>
+
+  <p>Over each mistakes were made</p>
+
+  <p>I took the blame</p>
+
+  <p>Directionless, so plain to see</p>
+
+  <p>A loaded gun won’t set you free</p>
+
+  <p>So you say</p>
+
+  <p>We’ll share a drink and step outside</p>
+
+  <p>An angry voice and one who cried</p>
+
+  <p>We’ll give you everything and more</p>
+
+  <p>The strain’s too much, can’t take much more</p>
+
+  <p>Oh, I’ve walked on water, run through fire</p>
+
+  <p>Can’t seem to feel it anymore</p>
+
+  <p>It was me, waiting for me</p>
+
+  <p>Hoping for something more</p>
+
+  <p>Me, seeing me this time</p>
+
+  <p>Hoping for something else</p>
+
+</blockquote>
+
+<p>Here are the lyrics to Ceremony:</p>
+
+<blockquote>
+  <p>This is why events unnerve me,</p>
+
+  <p>They find it all, a different story,</p>
+
+  <p>Notice whom for wheels are turning,</p>
+
+  <p>Turn again and turn towards this time,</p>
+
+  <p>All she ask’s the strength to hold me,</p>
+
+  <p>Then again the same old story,</p>
+
+  <p>Word will travel, oh so quickly,</p>
+
+  <p>Travel first and lean towards this time.</p>
+
+  <p>Oh, I’ll break them down, no mercy shown,</p>
+
+  <p>Heaven knows, it’s got to be this time,</p>
+
+  <p>Watching her, these things she said,</p>
+
+  <p>The times she cried,</p>
+
+  <p>Too frail to wake this time.</p>
+
+  <p>Oh, I’ll break them down, no mercy shown,</p>
+
+  <p>Heaven knows, it’s got to be this time,</p>
+
+  <p>Avenues all lined with trees,</p>
+
+  <p>Picture me and then you start watching,</p>
+
+  <p>Watching forever, forever,</p>
+
+  <p>Watching love grow, forever,</p>
+
+  <p>Letting me know, forever.</p>
+
+</blockquote>
+
+<p>Note.  People dispute what the actual lyrics are that Ian Curtis wrote versus what New Order rewrote.  This is the Universal Music Publishing Group copyrighted version.  There are slight differences in what Ian Curtis wrote in his Black &amp; Red notebook, copies of which I have sitting on my shelf. Maybe if I get super motivated, I’ll type those up.</p>
+
+<h3 id="383-live-music-thread--the-80s-submitted-on-2022-09-20-0656310800">383: <a href="https://old.reddit.com/r/TheFlyingTree/comments/xirjhu/live_music_thread_the_80s/">Live music thread — the 80s</a>, submitted on 2022-09-20 06:56:31+08:00.</h3>
+
+<p>—– <strong>383.1</strong> —–2022-09-20 08:40:28+08:00:</p>
+
+<p><a href="https://www.youtube.com/watch?v=Ghd2bkIadG4&amp;ab_channel=RHINO">Skid Row - 18 And Life</a></p>
+
+<p>—– <strong>383.2</strong> —–2022-09-20 10:23:27+08:00:</p>
+
+<p>And somehow you failed to include <a href="https://www.youtube.com/watch?v=8_lmzY8iIhg&amp;ab_channel=ChinosLs">Livin’ on a Prayer</a> from 1987.  What gives?</p>
+
+<p>—– <strong>383.3</strong> —–2022-09-20 10:30:37+08:00:</p>
+
+<blockquote>
+  <p>Abacab 1981</p>
+</blockquote>
+
+<p>Come on.  If you’re going to link Genesis, get <a href="https://www.youtube.com/watch?v=kAH3dLmqk5I&amp;ab_channel=STAGES">the best Genesis that’s there</a>.</p>
+
+<p>Now the ball is in your court to find the best live version of Red Rain.</p>
+
+<p>—– <strong>383.4</strong> —–2022-09-20 10:47:52+08:00:</p>
+
+<p>Well.  Then you get a pass.  This time.</p>
+
+<p>I can’t remember if No Son of Mine was from the 80s or not.</p>
+
+<p>If it was, it should be added.</p>
+
+<p>—– <strong>383.5</strong> —–2022-09-20 10:48:29+08:00:</p>
+
+<blockquote>
+  <p>I hate Bon Jovi</p>
+</blockquote>
+
+<p>Blasphemy.</p>
+
+<p>—– <strong>383.6</strong> —–2022-09-20 10:51:24+08:00:</p>
+
+<p>I raise Safety Dance with <a href="https://www.youtube.com/watch?v=TGofoH9RDEA&amp;ab_channel=RonaldRock">Talking Heads - Once in a Lifetime</a>.</p>
+
+<p>But you know what?  The <a href="https://www.youtube.com/watch?v=5IsSpAOD6K8&amp;ab_channel=TalkingHeads">music video is just as good</a>.</p>
+
+<p>—– <strong>383.7</strong> —–2022-09-20 10:53:21+08:00:</p>
+
+<p>Literally everyone knows <a href="https://www.youtube.com/watch?v=VEHCChS7fBI&amp;ab_channel=SelmaSonderlich">Shout</a> beats Everyone Wants to Rule the World.</p>
+
+<h3 id="384-got-permently-banned-from-rforex-submitted-on-2022-09-24-0646290800">384: <a href="https://old.reddit.com/r/TheFlyingTree/comments/xmbpob/got_permently_banned_from_rforex/">Got “Permently Banned” from r/Forex…</a>, submitted on 2022-09-24 06:46:29+08:00.</h3>
+
+<p>—– <strong>384.1</strong> —–2022-09-27 10:42:27+08:00:</p>
+
+<p>https://finance.yahoo.com/news/uk-pound-under-siege-mounting-190707498.html</p>
+
+<p>Meanwhile the pound sterling is collapsing roflmao</p>
+
+<p>—– <strong>384.2</strong> —–2022-09-27 10:43:39+08:00:</p>
+
+<p>degeneracy at its finest</p>
+
+<p>—– <strong>384.3</strong> —–2022-09-27 10:45:10+08:00:</p>
+
+<p>It’s like playing no limit hold ‘em, every day of your life, where you don’t even get to pick up your cards.</p>
+
+<p>—– <strong>384.4</strong> —–2022-09-27 10:45:32+08:00:</p>
+
+<blockquote>
+  <p>It ruins lives if not handled correctly.</p>
+</blockquote>
+
+<p>That’s what drugs are for.</p>
+
+<p>—– <strong>384.5</strong> —–2022-09-27 10:47:32+08:00:</p>
+
+<blockquote>
+  <p>P/L Porn” posts (also a nono) featuring thier oil profits and losses.</p>
+</blockquote>
+
+<p>ROFLMAO I love this.  Although I have always thought of this more like high school boys measuring themselves in the locker room.</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-09-25</time>
+        <a href="https://nodebe4.github.io/opinion/2022-09-25/Spinkcat/">
+          Spinkcat在2022-09-19~2022-09-25的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-09-25</time>
+        <a href="https://nodebe4.github.io/opinion/2022-09-25/EnclavedMicrostate/">
+          EnclavedMicrostate在2022-09-19~2022-09-25的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-09-20</time>
+        <a href="https://nodebe4.github.io/opinion/2022-09-20/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-09-19~2022-09-25的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-09-18</time>
+        <a href="https://nodebe4.github.io/opinion/2022-09-18/theoryofdoom/">
+          theoryofdoom在2022-09-12~2022-09-18的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-09-23/%E7%A6%81%E5%BF%8C%E5%8F%B2%E8%A9%B1-%E6%9D%8E%E9%8A%B3%E6%97%A5%E8%A8%98%E7%A7%98%E5%AF%8611-%E5%BB%B6%E5%AE%89%E7%9A%84%E5%85%B1%E7%94%A2%E9%BB%A8%E9%9D%A0%E8%AA%B0%E9%A4%8A/">
+            前一篇：禁忌史話：李銳日記秘密11 延安的共產黨靠誰養
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-09-24/%E5%86%AF%E8%B1%A1-%E8%AF%91%E6%B3%A8-%E9%95%B0%E5%88%80-%E5%90%AF%E7%A4%BA%E5%BD%95-14-1-20/">
+            後一篇：冯象（译注）：镰刀（《启示录》14:1-20）
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-09-23/%E7%A6%81%E5%BF%8C%E5%8F%B2%E8%A9%B1-%E6%9D%8E%E9%8A%B3%E6%97%A5%E8%A8%98%E7%A7%98%E5%AF%8611-%E5%BB%B6%E5%AE%89%E7%9A%84%E5%85%B1%E7%94%A2%E9%BB%A8%E9%9D%A0%E8%AA%B0%E9%A4%8A/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-09-24/%E5%86%AF%E8%B1%A1-%E8%AF%91%E6%B3%A8-%E9%95%B0%E5%88%80-%E5%90%AF%E7%A4%BA%E5%BD%95-14-1-20/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-09-25/EnclavedMicrostate/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-09-20/ForeignAffairsMag/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-09-23/%E7%A6%81%E5%BF%8C%E5%8F%B2%E8%A9%B1-%E6%9D%8E%E9%8A%B3%E6%97%A5%E8%A8%98%E7%A7%98%E5%AF%8611-%E5%BB%B6%E5%AE%89%E7%9A%84%E5%85%B1%E7%94%A2%E9%BB%A8%E9%9D%A0%E8%AA%B0%E9%A4%8A/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-09-24/%E5%86%AF%E8%B1%A1-%E8%AF%91%E6%B3%A8-%E9%95%B0%E5%88%80-%E5%90%AF%E7%A4%BA%E5%BD%95-14-1-20/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-09-25/EnclavedMicrostate/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-09-20/ForeignAffairsMag/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

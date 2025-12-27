@@ -1,0 +1,2193 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>ForeignAffairsMag在2023-02-06~2023-02-12的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="ForeignAffairsMag在2023-02-06~2023-02-12的言论" />
+    <meta property="twitter:title" content="ForeignAffairsMag在2023-02-06~2023-02-12的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2Fgeopolitics%2Fcomments%2F10v8f1d%2Fhow_russia_decides_to_go_nuclear_deciphering_the%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/geopolitics/comments/10v8f1d/how_russia_decides_to_go_nuclear_deciphering_the/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/geopolitics/comments/10v8f1d/how_russia_decides_to_go_nuclear_deciphering_the/&text=ForeignAffairsMag在2023-02-06~2023-02-12的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/geopolitics/comments/10v8f1d/how_russia_decides_to_go_nuclear_deciphering_the/&title=ForeignAffairsMag在2023-02-06~2023-02-12的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/geopolitics/comments/10v8f1d/how_russia_decides_to_go_nuclear_deciphering_the/&title=ForeignAffairsMag在2023-02-06~2023-02-12的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=ForeignAffairsMag在2023-02-06~2023-02-12的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/geopolitics/comments/10v8f1d/how_russia_decides_to_go_nuclear_deciphering_the/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/geopolitics/comments/10v8f1d/how_russia_decides_to_go_nuclear_deciphering_the/&title=ForeignAffairsMag在2023-02-06~2023-02-12的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=ForeignAffairsMag在2023-02-06~2023-02-12的言论&url=https://old.reddit.com/r/geopolitics/comments/10v8f1d/how_russia_decides_to_go_nuclear_deciphering_the/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>ForeignAffairsMag在2023-02-06~2023-02-12的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2023-02-11
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: ForeignAffairsMag</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/geopolitics/comments/10v8f1d/how_russia_decides_to_go_nuclear_deciphering_the/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#346-how-russia-decides-to-go-nuclear-deciphering-the-way-moscow-handles-its-ultimate-weapon-submitted-on-2023-02-06-2248530800" id="markdown-toc-346-how-russia-decides-to-go-nuclear-deciphering-the-way-moscow-handles-its-ultimate-weapon-submitted-on-2023-02-06-2248530800">346: How Russia Decides to Go Nuclear: Deciphering the Way Moscow Handles Its Ultimate Weapon, submitted on 2023-02-06 22:48:53+08:00.</a></li>
+  <li><a href="#347-a-tale-of-two-industrial-policies-how-america-and-europe-can-turn-trade-tensions-into-climate-progress-submitted-on-2023-02-07-0027040800" id="markdown-toc-347-a-tale-of-two-industrial-policies-how-america-and-europe-can-turn-trade-tensions-into-climate-progress-submitted-on-2023-02-07-0027040800">347: A Tale of Two Industrial Policies: How America and Europe Can Turn Trade Tensions Into Climate Progress, submitted on 2023-02-07 00:27:04+08:00.</a></li>
+  <li><a href="#348-the-third-intifada-why-the-israeli-palestinian-conflict-might-boil-over-again-submitted-on-2023-02-07-2313540800" id="markdown-toc-348-the-third-intifada-why-the-israeli-palestinian-conflict-might-boil-over-again-submitted-on-2023-02-07-2313540800">348: The Third Intifada? Why the Israeli-Palestinian Conflict Might Boil Over, Again, submitted on 2023-02-07 23:13:54+08:00.</a></li>
+  <li><a href="#349-what-russia-got-wrong-can-moscow-learn-from-its-failures-in-ukraine-submitted-on-2023-02-08-2354190800" id="markdown-toc-349-what-russia-got-wrong-can-moscow-learn-from-its-failures-in-ukraine-submitted-on-2023-02-08-2354190800">349: What Russia Got Wrong: Can Moscow Learn From Its Failures in Ukraine?, submitted on 2023-02-08 23:54:19+08:00.</a></li>
+  <li><a href="#350-out-of-alignment-what-the-war-in-ukraine-has-revealed-about-non-western-powers-submitted-on-2023-02-10-0420340800" id="markdown-toc-350-out-of-alignment-what-the-war-in-ukraine-has-revealed-about-non-western-powers-submitted-on-2023-02-10-0420340800">350: Out of Alignment: What the War in Ukraine Has Revealed About Non-Western Powers, submitted on 2023-02-10 04:20:34+08:00.</a></li>
+  <li><a href="#351-make-russia-pay-lessons-from-the-wests-botched-response-to-moscows-2008-assault-on-georgia---vasil-sikharulidze-submitted-on-2023-02-11-0439380800" id="markdown-toc-351-make-russia-pay-lessons-from-the-wests-botched-response-to-moscows-2008-assault-on-georgia---vasil-sikharulidze-submitted-on-2023-02-11-0439380800">351: Make Russia Pay: Lessons From the West’s Botched Response to Moscow’s 2008 Assault on Georgia - Vasil Sikharulidze, submitted on 2023-02-11 04:39:38+08:00.</a></li>
+</ul>
+
+<h3 id="346-how-russia-decides-to-go-nuclear-deciphering-the-way-moscow-handles-its-ultimate-weapon-submitted-on-2023-02-06-2248530800">346: <a href="https://old.reddit.com/r/geopolitics/comments/10v8f1d/how_russia_decides_to_go_nuclear_deciphering_the/">How Russia Decides to Go Nuclear: Deciphering the Way Moscow Handles Its Ultimate Weapon</a>, submitted on 2023-02-06 22:48:53+08:00.</h3>
+
+<p>—– <strong>346.1</strong> —–2023-02-06 22:51:21+08:00:</p>
+
+<p><strong>From Kristin Ven Bruusgaard:</strong> Ever since Russia invaded Ukraine last February, there has been a near-constant debate about Russian President Vladimir Putin’s nuclear arsenal—and what he might do with it. The United States has repeatedly warned that a flustered Russia may actually be willing to use nuclear weapons, and the Kremlin itself has regularly raised the specter of a nuclear strike. According to top U.S. officials, senior Russian military leaders have discussed when and under what circumstances they might employ nuclear weapons. The concerns have even prompted states close to Russia, notably China, to warn Moscow against going nuclear.</p>
+
+<p>The ultimate weapon has, of course, not been employed in this conflict, and one hopes that it never will be. The world may never know to what extent Russian leaders considered it a real option or whether it was Western signaling that persuaded Moscow not to make such a drastic choice. But as long as tensions remain high between Russia and NATO, the possibility of a nuclear war persists, and U.S. and European leaders must consider how to prevent the Kremlin from using its missiles. To do this, they must understand the protocols that govern Russia’s nuclear weapons.</p>
+
+<p>Political leaders in all nuclear-armed states have to balance two competing imperatives: ensuring that their weapons can never be used without proper authorization and keeping the weapons in a state of constant readiness. They solve this dilemma in different ways, designing idiosyncratic command-and-control systems that affect nuclear decision-making. In the case of Russia, the process for commanding the use of nuclear weapons requires the sign-off of multiple officials, unlike the system in the United States, where the commander in chief has full latitude. That said, the Russian military has a disproportionate impact on nuclear policy; there are few outside analysts who can sway the Kremlin’s decisions on nuclear weapons. And although the system by which nuclear commands are issued is strictly centralized in Russia, the command and control of low-yield—or so-called tactical—nuclear weapons creates particular challenges for Western policymakers seeking to prevent Russian nuclear use.</p>
+
+<p>These challenges make it more difficult for Western policymakers to know whether Moscow has ordered a nuclear launch or whether it is engaging in mere signaling, and to formulate policies that would mitigate an actual strike. But given Moscow’s protocols, the West should pay attention not only to Putin but also to Russia’s military leaders when thinking about Russia’s nuclear weapons. The West should also convey the significant risks and costs increased nuclear signaling—and actual use—entails in order to deter Russia. Ultimately, the ambiguity of Russia’s doctrine and protocols means that nuclear use would create a deeply dangerous situation that neither side may be able to control.</p>
+
+<h3 id="347-a-tale-of-two-industrial-policies-how-america-and-europe-can-turn-trade-tensions-into-climate-progress-submitted-on-2023-02-07-0027040800">347: <a href="https://old.reddit.com/r/IRstudies/comments/10vaunt/a_tale_of_two_industrial_policies_how_america_and/">A Tale of Two Industrial Policies: How America and Europe Can Turn Trade Tensions Into Climate Progress</a>, submitted on 2023-02-07 00:27:04+08:00.</h3>
+
+<p>—– <strong>347.1</strong> —–2023-02-07 02:11:18+08:00:</p>
+
+<p>Here is a free-access link: https://www.foreignaffairs.com/guest-pass/redeem/SLGJkoj8hN8</p>
+
+<h3 id="348-the-third-intifada-why-the-israeli-palestinian-conflict-might-boil-over-again-submitted-on-2023-02-07-2313540800">348: <a href="https://old.reddit.com/r/geopolitics/comments/10w48vl/the_third_intifada_why_the_israelipalestinian/">The Third Intifada? Why the Israeli-Palestinian Conflict Might Boil Over, Again</a>, submitted on 2023-02-07 23:13:54+08:00.</h3>
+
+<p>—– <strong>348.1</strong> —–2023-02-07 23:15:09+08:00:</p>
+
+<p><strong>From Daniel Byman:</strong> “In November 2022, the United Nations warned that the Israeli-Palestinian conflict was “again reaching a boiling point.” Amit Saar, a top Israeli intelligence official, predicted that violence in the West Bank (although not Gaza) will rank as Israel’s second biggest challenge in 2023, just below the perennial threat from Iran. Saar warned not only that violence was increasing but also that the foundations for managing it were becoming “unstable.” The policing capacity of the Palestinian Authority, the governing body in the West Bank, and its relationship with Israel are eroding. No political process holds the promise of Palestinian independence. And ordinary Palestinians are growing frustrated with established groups and leaders that reject violence—such as Fatah, the party that has long dominated Palestinian politics, and its head, Mahmoud Abbas, the president of the PA. In yet another foreboding development, in December 2022, Prime Minister Benjamin Netanyahu created a new government that put settlers, political extremists, and racists in key positions overseeing the West Bank. All this leads to a despairing, inescapable conclusion: the odds of a third intifada are higher than they have been in years.”</p>
+
+<h3 id="349-what-russia-got-wrong-can-moscow-learn-from-its-failures-in-ukraine-submitted-on-2023-02-08-2354190800">349: <a href="https://old.reddit.com/r/geopolitics/comments/10x1wfi/what_russia_got_wrong_can_moscow_learn_from_its/">What Russia Got Wrong: Can Moscow Learn From Its Failures in Ukraine?</a>, submitted on 2023-02-08 23:54:19+08:00.</h3>
+
+<p>—– <strong>349.1</strong> —–2023-02-09 00:02:16+08:00:</p>
+
+<p><strong>From Dara Massicot:</strong> Three months before Russia’s 2022 invasion of Ukraine, CIA Director William Burns and U.S. Ambassador to Russia John Sullivan met in Moscow with Nikolai Patrushev, an ultra-hawkish adviser to Russian President Vladimir Putin. Burns and Sullivan informed Patrushev that they knew of Russia’s invasion plans and that the West would respond with severe consequences if Russia proceeded. According to Burns, Patrushev said nothing about the invasion. Instead, he looked them in the eye, conveying what Burns took as a message: the Russian military could achieve what it wanted.</p>
+
+<p>Once home, the two Americans informed U.S. President Joe Biden that Moscow had made up its mind. Not long after, Washington began publicly warning the world that Russia would attack Ukraine. Three months ahead of the invasion, the Kremlin knew that the United States had discovered its war plans and that the world would be primed for an assault—yet Putin decided to deny his intentions to Russia’s own troops and most of its senior leaders. They did not learn of the invasion until several days or even hours before it began. The secrecy was a mistake. By orchestrating the attack with just a small group of advisers, Putin undercut many of the advantages his country should have had.</p>
+
+<p>These strengths were substantial. Before the invasion, Russia’s military was larger and better equipped than Ukraine’s. Its forces had more combat experience than did Kyiv’s, even though both had fought in Ukraine’s eastern territories. Most Western analysts therefore assumed that if Russian forces used their advantages wisely, the Ukrainians could not withstand the attack for long.</p>
+
+<p>Why Russia did not prevail—why it was instead stopped in its tracks, routed outside major cities, and put on the defensive—has become one of the most important questions in both U.S. foreign policy and international security more broadly. The answer has many components. The excessive internal secrecy gave troops and commanders little time to prepare, leading to heavy losses. Russia created an invasion plan that was riddled with faulty assumptions, arbitrary political guidance, and planning errors that departed from key Russian military principles. The initial invasion called for multiple lines of attack with no follow-on force, tethering the military to operational objectives that were overly ambitious for the size of its forces. And the Kremlin erroneously believed that its war plans were sound, that Ukraine would not put up much resistance, and that the West’s support would not be strong enough to make a difference. As a result, Russia was shocked when its troops ran into a determined Ukraine backed by Western intelligence and weapons. Russian forces were then repeatedly beaten.</p>
+
+<h3 id="350-out-of-alignment-what-the-war-in-ukraine-has-revealed-about-non-western-powers-submitted-on-2023-02-10-0420340800">350: <a href="https://old.reddit.com/r/geopolitics/comments/10y5226/out_of_alignment_what_the_war_in_ukraine_has/">Out of Alignment: What the War in Ukraine Has Revealed About Non-Western Powers</a>, submitted on 2023-02-10 04:20:34+08:00.</h3>
+
+<p>—– <strong>350.1</strong> —–2023-02-10 04:21:49+08:00:</p>
+
+<p><strong>From Shivshankar Menon:</strong> For the past year, many Western analysts have regarded the war in Ukraine as marking a turning point in geopolitics, bringing together not only the United States and its NATO allies but also a broader liberal coalition to counter Russian aggression. In this view, countries around the world should naturally support the West in this defining contest between democracy and autocracy.</p>
+
+<p>Beyond the borders of North America and Europe, however, the past 12 months have looked very different. At the outset of the war, numerous countries in the global South identified with neither the West nor Russia. Several dozen—including such large democracies as India, Indonesia, and South Africa, as well as numerous other countries in Africa—abstained from resolutions condemning Russia at the UN General Assembly and in the UN Human Rights Council. Many of them have also been reluctant to formally adopt the West’s economic sanctions against Russia while respecting them in practice, and as the war has unfolded, some of them have sought to maintain relations with Russia as much as with the West.</p>
+
+<p>Moreover, in many parts of the world, the most crucial issues of 2022 had little to do with the war in Ukraine. Emerging from the havoc of the pandemic and confronted by far-reaching challenges ranging from debt crises to a slowing world economy to climate change, many developing countries have been alienated by what they view as the self-absorption of the West and of China and Russia. For them, the war in Ukraine is about the future of Europe, not the future of the world order, and the war has become a distraction from the more pressing global issues of our time.</p>
+
+<p>Yet despite this disillusionment, a coherent third way, a clear alternative to current great-power rivalry, has yet to emerge. Instead, these countries have sought to work with present realities, respecting Western sanctions on Russia, for instance, in an international system that no longer inspires much faith in its relevance to their security and economic concerns. In this sense, for many parts of the globe, a year of war in Ukraine has done less to redefine the world order than to set it further adrift, raising new questions about how urgent transnational challenges can be met.</p>
+
+<h3 id="351-make-russia-pay-lessons-from-the-wests-botched-response-to-moscows-2008-assault-on-georgia---vasil-sikharulidze-submitted-on-2023-02-11-0439380800">351: <a href="https://old.reddit.com/r/geopolitics/comments/10z2elr/make_russia_pay_lessons_from_the_wests_botched/">Make Russia Pay: Lessons From the West’s Botched Response to Moscow’s 2008 Assault on Georgia - Vasil Sikharulidze</a>, submitted on 2023-02-11 04:39:38+08:00.</h3>
+
+<p>—– <strong>351.1</strong> —–2023-02-11 04:40:31+08:00:</p>
+
+<p><strong>Short Summary:</strong> When Russian President Vladimir Putin invaded Ukraine, he was confident that this new assault on the rules-based international order would not be met with serious pushback—and with good reason. For more than a decade, Putin had gotten away with this type of aggressive behavior. From land grabs in Georgia and Ukraine to war crimes in Syria, from interference in other countries’ domestic politics to murder within and outside Russia’s borders, his list of crimes was long, but Putin never paid a substantial political or economic price for his offenses.</p>
+
+<p>Putin learned this lesson after invading Georgia in 2008. Russia’s goal was to overthrow the democratically elected government of Mikheil Saakashvili and install a puppet regime. It was the first time since the Soviet invasion of Afghanistan in 1979 that Moscow had invaded another country. Georgian resistance and Western support helped stop Russia from establishing full control over the country, but after a five-day war, Moscow still managed to seize territory from Tbilisi. Despite this, the West did not make Russia pay for violating another country’s sovereignty when the war was over. No economic or political sanctions against Russia followed. Instead, the United States and its allies soon looked for ways to reset their policies with the Kremlin, hoping to improve relations in the service of other goals. Yet accommodation only encouraged Putin to further harass Russia’s neighbors, repress his people, and undermine security and stability in Europe.</p>
+
+<p>For now, the goals in Ukraine are to stop Putin from destroying the country and to restore its territorial integrity. But this war will one day come to an end, and at that point, the West will need to decide how to deal with a postwar Russia. The West cannot forget the lessons of Georgia: it must remember the dangers of accommodating Putin or another Russian dictator. To avoid repeating its past mistakes, the West should first fully support Ukraine to win this war. It should grant NATO membership to Georgia and Ukraine. It should seek to liberate Russian-occupied territories in Georgia and Moldova by sustaining political and economic pressure on Russia and by supporting democracy and good governance in those countries. The United States and its allies should also develop an energy and transportation corridor that connects Central Asia with Europe, bypassing Russia. If the West takes these overdue steps, there is a chance for lasting peace, because Putin will finally pay a price for his wars.</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2023-02-18</time>
+        <a href="https://nodebe4.github.io/opinion/2023-02-18/ForeignAffairsMag/">
+          ForeignAffairsMag在2023-02-13~2023-02-19的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-02-12</time>
+        <a href="https://nodebe4.github.io/opinion/2023-02-12/EnclavedMicrostate/">
+          EnclavedMicrostate在2023-02-06~2023-02-12的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-02-09</time>
+        <a href="https://nodebe4.github.io/opinion/2023-02-09/Spinkcat/">
+          Spinkcat在2023-02-06~2023-02-12的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-02-08</time>
+        <a href="https://nodebe4.github.io/opinion/2023-02-08/theoryofdoom/">
+          theoryofdoom在2023-02-06~2023-02-12的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2023-02-10/%E4%B8%89%E5%B9%B4%E9%98%B2%E7%96%AB%E5%A4%B1%E6%95%97%E9%81%A0%E8%B6%85%E5%A4%A7%E8%BA%8D%E9%80%B2-%E7%BF%92%E8%BF%91%E5%B9%B3%E8%B7%8C%E9%80%B2%E6%94%BF%E6%B2%BB%E5%8D%B1%E9%9A%AA%E9%9B%B7%E5%8D%80-%E7%B2%B5%E8%AA%9E-%E9%80%8F%E8%A6%96%E4%B8%AD%E5%9C%8B-%E6%99%82%E4%BA%8B%E8%A7%A3%E8%AE%80-0113-SinoIn/">
+            前一篇：三年防疫失敗遠超大躍進 習近平跌進政治危險雷區（粵語）｜「透視中國」時事解讀【0113】SinoInsider 20230210
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2023-02-12/EnclavedMicrostate/">
+            後一篇：EnclavedMicrostate在2023-02-06~2023-02-12的言论
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2023-02-10/%E4%B8%89%E5%B9%B4%E9%98%B2%E7%96%AB%E5%A4%B1%E6%95%97%E9%81%A0%E8%B6%85%E5%A4%A7%E8%BA%8D%E9%80%B2-%E7%BF%92%E8%BF%91%E5%B9%B3%E8%B7%8C%E9%80%B2%E6%94%BF%E6%B2%BB%E5%8D%B1%E9%9A%AA%E9%9B%B7%E5%8D%80-%E7%B2%B5%E8%AA%9E-%E9%80%8F%E8%A6%96%E4%B8%AD%E5%9C%8B-%E6%99%82%E4%BA%8B%E8%A7%A3%E8%AE%80-0113-SinoIn/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2023-02-12/EnclavedMicrostate/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2023-02-12/EnclavedMicrostate/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2023-02-09/Spinkcat/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2023-02-10/%E4%B8%89%E5%B9%B4%E9%98%B2%E7%96%AB%E5%A4%B1%E6%95%97%E9%81%A0%E8%B6%85%E5%A4%A7%E8%BA%8D%E9%80%B2-%E7%BF%92%E8%BF%91%E5%B9%B3%E8%B7%8C%E9%80%B2%E6%94%BF%E6%B2%BB%E5%8D%B1%E9%9A%AA%E9%9B%B7%E5%8D%80-%E7%B2%B5%E8%AA%9E-%E9%80%8F%E8%A6%96%E4%B8%AD%E5%9C%8B-%E6%99%82%E4%BA%8B%E8%A7%A3%E8%AE%80-0113-SinoIn/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2023-02-12/EnclavedMicrostate/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2023-02-12/EnclavedMicrostate/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2023-02-09/Spinkcat/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

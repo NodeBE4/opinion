@@ -1,0 +1,3078 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>The E.U. Goes Too Far – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+The E.U. Goes Too Far
+——
+" />
+    <meta property="og:description" content="
+The E.U. Goes Too Far
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="The E.U. Goes Too Far" />
+    <meta property="twitter:title" content="The E.U. Goes Too Far" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2024%2Fthe-e-u-goes-too-far%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2024/the-e-u-goes-too-far/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2024/the-e-u-goes-too-far/&text=The E.U. Goes Too Far&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2024/the-e-u-goes-too-far/&title=The E.U. Goes Too Far" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2024/the-e-u-goes-too-far/&title=The E.U. Goes Too Far" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=The E.U. Goes Too Far&body=
+The E.U. Goes Too Far
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2024/the-e-u-goes-too-far/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2024/the-e-u-goes-too-far/&title=The E.U. Goes Too Far&caption=
+The E.U. Goes Too Far
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=The E.U. Goes Too Far&url=https://stratechery.com/2024/the-e-u-goes-too-far/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>The E.U. Goes Too Far</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2024-07-08
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2024/the-e-u-goes-too-far/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1720462175000-->
+<p><a href="https://stratechery.com/2024/the-e-u-goes-too-far/">The E.U. Goes Too Far</a>
+——</p>
+
+<div>
+  <p>Apple’s increasingly fraught adventures with European regulators is a bit of a morality tale, that goes something like this:</p>
+  <p><em>The erstwhile underdog, arguably kept alive by its biggest rival to maintain a figment of competition in the PC market, rides unexpected success in music players to create the iPhone, the device that changed the world while making Apple one of the richest companies in history. Apple, though, seemingly unaware of its relative change in status and power, holds to its pattern — decried in that also-ran PC-era as the cause of their struggles — of total control, not just of the operating system its devices run, but also of 3rd-party applications that helped make the iPhone a behemoth. Ultimately, because of its refusal to compromise, regulators stepped in to force open the iPhone platform, endangering Apple’s core differentiation — the integration of hardware and software — along the way. If only Apple could have seen how the world — and its place in it! — had changed.</em></p>
+  <p>This morality tale is one I have chronicled, warned about, and perhaps even helped author over the last decade; like many morality tales, it is mostly true, but also like many morality tales, reality is a bit more nuanced, and filled with alternative morality tales that argue for different conclusions.</p>
+  <h3 id="europes-data-obsession">Europe’s Data Obsession</h3>
+  <p>During the recent Stratechery break I was in Europe, and, as usual, was pretty annoyed by the terrible Internet experience endemic to the continent: every website has a bunch of regulatory-required pop-ups asking for permission to simply operate as normal websites, which means collecting the data necessary to provide whatever experience you are trying to access. This obviously isn’t a new complaint — I feel the same annoyance every time I visit.</p>
+  <p>What was different this time is that, for the first time in a while, I was traveling as a tourist with my family, and thus visiting things like museums, making restaurant reservations, etc.; what stood out to me was just how much information all of these entities wanted: seemingly every entity required me to make an account, share my mailing address, often my passport information, etc., just to buy a ticket or secure a table. It felt bizarrely old-fashioned, as if services like OpenTable or Resy didn’t exist, or even niceties like “Sign In With Google”; what exactly is a museum or individual restaurant going to do with so much of my personal information — I just want to see a famous painting or grab a meal!</p>
+  <p>Your first thought — and mine as well — might be that this is why all of those pop-ups exist: random entities are asking for a lot of my personal data, and I ought to have control of that. I certainly agree with the sentiment — if I lived in Europe and were assaulted with data requests from random entities with such frequency, I would feel similarly motivated — but obviously the implementation is completely broken: hardly anyone, no matter how disciplined about their data, has the time and motivation to read through every privacy policy or data declaration and jump through the hoops necessary to buy a ticket or reserve a table while figuring out the precise set of options necessary to do so without losing control of said data; you just hit “Accept” and buy the damn ticket.</p>
+  <p>My second thought — and this is certainly influenced by my more business-oriented trips to the continent — is that Europeans sure are obsessed with data generally. On another trip, I was in a forum about AI and was struck by the extent to which European business-people themselves were focused on data to the point where it seemed likely some number of their companies would miss out on potential productivity gains for fear of losing control of what they viewed as some sort of gold mine; the reality is that data is not the new oil: yes, it is valuable at scale and when processed in <a href="https://stratechery.com/2018/data-factories/">a data factory</a>, but the entities capable of building such factories are on the scale of a Meta or a Google, not a museum or a restaurant or even a regional bank. I don’t think that AI has changed this equation: the goal of a business ought to be to leverage its data to deliver better business outcomes — which AI should make easier — not obsessively collect and hoard data as if it is a differentiator in its own right.</p>
+  <p>The third takeaway, though, is the most profound: the Internet experience in America is better because the market was allowed to work. Instead of a regulator mandating sites show pop-ups to provide some sort of false assurance about excess data collection, the vast majority of sites have long since figured out that (1) most of the data they might collect isn’t really that usable, particularly in light of the security risks in holding it, and (2) using third-party services is better both for the customer and themselves. Do you want a reservation? Just click a button or two, using the same service you use everywhere else; want to buy tickets? Just have a credit card, or even better, Apple Pay or Google Wallet.</p>
+  <p>Moreover, this realization extends to the data obsessive’s bugaboo, advertising. Yes, Internet advertising was a data disaster 15 years ago (i.e. the era where the European Internet seems stuck); the entities that did more than anyone to clean the situation up were in fact Meta and Google: sites and apps realized they could get better business results and reduce risk by essentially outsourcing all data collection and targeting to Meta and Google and completely cut out the ecosystem of data brokers and unaccountable middlemen that defined the first 15 years of the Internet.</p>
+  <h3 id="google-shopping">Google Shopping</h3>
+  <p>It would be fine — annoying, to be sure, but ultimately fine — if this were where the story ends: the E.U. identifies an issue (excessive data collection) and reaches for a regulatory solution, locking in a terrible status quo, while the U.S.’s more market-oriented approach results in a better experience for users and better business outcomes for businesses. The E.U. is gonna E.U., amirite? After all, this is the regulatory body that somehow thought a browser choice screen would fundamentally alter the balance of power in technology (and to the extent that that old Microsoft decree did, it was to aid Google in locking in Chrome’s dominance).</p>
+  <p>The first hints that there may be more nefarious motivations to E.U regulation, though, came in a 2017 European Commission decision about Google Shopping, which I wrote about in <a href="https://stratechery.com/2017/ends-means-and-antitrust/">Ends, Means, and Antitrust</a>. The title referenced the high level takeaway that while I understood the motivation and arguable necessity of regulating Aggregators (the ends), getting the details right mattered as well (the means), and I thought that case fell short for three reasons:</p>
+  <ul>
+    <li>First, the Google Shopping decision assumed that Google ought never improve the user experience of Google search. Specifically, just because a search for a specific item once returned a shopping comparison site, it was hardly a crime that search improved such that it surfaced the specific item instead of a middleman. I argued that this was bad for users.</li>
+    <li>Second, the Google Shopping decision took an artificially narrow view of competition: those random shopping comparison sites that effectively arbitraged insufficiently precise search results in the 1990s were not the sort of competitors that actually delivered the market outcomes that regulation should try to enable; Google’s real competitor in shopping was Amazon and other similarly integrated retailers who were taking users away from search entirely.</li>
+    <li>Third, and most problematically, the Google Shopping product in question was actually an advertising unit: the European Commission was getting into the business of dictating how companies could or could not make money.</li>
+  </ul>
+  <p>I wrote in that Article:</p>
+  <blockquote>
+    <p>You can certainly argue that the tiny “Sponsored” label is bordering on dishonesty, but the fact remains that Google is being explicit about the fact that Google Shopping is a glorified ad unit. Does the European Commission honestly have a problem with that? The entire point of search advertising is to have the opportunity to put a result that might not otherwise rank in front of a user who has demonstrated intent.</p>
+    <p>The implications of saying this is monopolistic behavior goes to the very heart of Google’s business model: should Google not be allowed to sell advertising against search results for fear that it is ruining competition? Take travel sites: why shouldn’t Priceline sue Google for featuring ads for hotel booking sites above its own results? Why should Google be able to make any money at all?</p>
+    <p>This is the aspect of the European Commission’s decision that I have the biggest problem with. I agree that Google has a monopoly in search, but as the Commission itself notes that is not a crime; the reality of this ruling, though, is that making any money off that monopoly apparently is. And, by extension, those that blindly support this decision are agreeing that products that succeed by being better for users ought not be able to make money.</p>
+  </blockquote>
+  <p>Again, there is plenty of room to disagree about what regulations are and are not appropriate, or debate what is the best way to spur competition; the reason I reacted so negatively to this decision, though, was because this specific point struck me as being fundamentally anti-free market: Google was obligated to deliver a search experience on the European Commission’s terms or else. It was a bit of a subtle point, to be sure — the stronger argument was about the validity of product evolution in a way that makes for a better user experience — but recent events suggest I was right to be concerned.</p>
+  <h3 id="apple-and-the-core-technology-fee">Apple and the Core Technology Fee</h3>
+  <p>Every year June provides a flurry of antitrust news — I guess I am not the only one that goes on vacation in July — and this year was no exception. The most unsurprising was about Apple; from a <a href="https://ec.europa.eu/commission/presscorner/detail/en/ip_24_3433">European Commission press release</a>:</p>
+  <blockquote>
+    <p>Today, the European Commission has informed Apple of its preliminary view that its App Store rules are in breach of the Digital Markets Act (DMA), as they prevent app developers from freely steering consumers to alternative channels for offers and content. In addition, the Commission opened a new non-compliance procedure against Apple over concerns that its new contractual requirements for third-party app developers and app stores, including Apple’s new “Core Technology Fee”, fall short of ensuring effective compliance with Apple’s obligations under the DMA.</p>
+  </blockquote>
+  <p>The first item, about Apple’s anti-steering provisions, fits perfectly into the morality tale I opened this Article with. Apple didn’t just create the iPhone, they also created the App Store, which, after the malware and virus muddled mess of the 2000s, rebuilt user confidence and willingness to download 3rd-party apps. This was a massive boon to developers, and shouldn’t be forgotten; more broadly, the App Store specifically and Apple’s iOS security model generally really do address real threats that can not only hurt users but, by extension, chill the market for 3rd-party developers.</p>
+  <p>At the same time, the implications of the App Store model and iOS’s locked-down nature mean that Apple’s power over the app ecosystem is absolute; this not only means that the company can extract whatever fees it likes from developers, it also hinders the development of apps and especially business models that don’t slot in to Apple’s rules. I think it would have been prudent of the company to provide more of a release valve than web apps on Safari: <a href="https://stratechery.com/2018/apple-app-store-follow-up-aws-arm-servers-intels-impending-choice/">I have long advocated</a> that the company allow non-gaming apps to have webviews that provide alternative payment options of the developers’ choice; Apple instead went the other way, arguing ever more strenuously that developers can’t even talk about or link to their own websites if that website provided alternative payment methods, and <a href="https://stratechery.com/2024/apple-fined-by-european-commission-apples-spotify-press-release-apple-revokes-epics-developer-account-again/">to the extent the company gave ground</a>, it was in <a href="https://stratechery.com/2024/the-supreme-court-declines-to-hear-apple-epic-apples-predictable-response/">the most begrudging and clunky way possible</a>.</p>
+  <p>These anti-steering rules are the first part of the European Commission’s case, and while I might quibble with some of the particulars, I mostly blame Apple for not self-regulating in this regard. Note, though, that the anti-steering case isn’t just about allowing links or pricing information; this is the third charge:</p>
+  <blockquote>
+    <p>Whilst Apple can receive a fee for facilitating via the AppStore [sic] the initial acquisition of a new customer by developers, the fees charged by Apple go beyond what is strictly necessary for such remuneration. For example, Apple charges developers a fee for every purchase of digital goods or services a user makes within seven days after a link-out from the app.</p>
+  </blockquote>
+  <p>As I explained in <a href="https://stratechery.com/2024/european-commission-charges-apple-apple-delays-new-features-for-e-u/">an Update last month</a>, the charges the European Commission seems to be referring to are Apple’s new Core Technology Fee for apps delivered outside of the App Store, a capability which is required by the DMA. Apple’s longstanding argument is that the fees it charges in the App Store are — beyond the 3% that goes to payment providers — compensation for the intellectual property leveraged by developers to make apps; if it can’t collect those fees via a commission on purchases then the company plans to charge developers €0.50 per app install per year.</p>
+  <p>Now this is where the discussion gets a bit messy and uncomfortable. On one hand, I think that Apple’s policies — and, more irritatingly, its rhetoric — comes across as arrogant and unfairly dismissive of the massive contribution that 3rd-party developers have made to the iPhone in particular; there’s a reason why Apple’s early iPhone marketing emphasized that <a href="https://www.youtube.com/watch?v=szrsfeyLzyg">There’s an App for That</a>:</p>
+  <div id="v-15McGL85-1" class="video-player">
+    <video id="v-15McGL85-1-video" width="640" height="360" poster="https://videos.files.wordpress.com/15McGL85/iphone-3g-commercial-theres-an-app-for-that-2009-szrsfeylzyg_mp4_hd.original.jpg" controls="true" preload="metadata" dir="ltr" lang="en"><div>
+<img fetchpriority="high" decoding="async" alt="There&#039;s an App for That" src="https://videos.files.wordpress.com/15McGL85/iphone-3g-commercial-theres-an-app-for-that-2009-szrsfeylzyg_mp4_hd.original.jpg?resize=640%2C360" width="640" height="360" data-recalc-dims="1" />
+      </div>      <p>There's an App for That</p>
+</video>
+  </div>
+  <p>At the same time, <a href="https://stratechery.com/2024/apple-and-the-dmc-apple-and-or-a-reluctant-apple-apologist/">to quote an Update I wrote about the Core Technology Fee</a>:</p>
+  <blockquote>
+    <p>There simply is no question that iOS is Apple’s intellectual property, and if they wish to charge for it, they can: for it to be otherwise would require taking their property and basically nationalizing it (while, I assume, demanding they continue to take care of it). It is frustrating that Apple has insisted on driving us to this fundamental reality, but reality it is, and the DMA isn’t going to change that.</p>
+  </blockquote>
+  <p>It sure seems that this is the exact scenario that the European Commission is headed towards: demanding that Apple make its intellectual property available to third party developers on an ongoing basis without charge; again, while I think that Apple should probably do that anyways, particularly for apps that eschew the App Store entirely, I am fundamentally opposed to compelling a company to provide its services for free.</p>
+  <h3 id="meta-and-pay-or-consent">Meta and Pay or Consent</h3>
+  <p>An even better example of the European Commission’s apparent dismissal of private property rights is Meta; from the <a href="https://www.ft.com/content/5cc390b0-2d0c-43ba-812d-d3050a58b152">Financial Times</a>:</p>
+  <blockquote>
+    <p>The European Commission, the EU’s executive body, is exercising new powers granted by the Digital Markets Act — legislation aimed at improving consumer choice and opening up markets for European start-ups to flourish. The tech giants had to comply from March this year. In preliminary findings issued on Monday, Brussels regulators said they were worried about Meta’s “pay or consent” model. Facebook and Instagram users can currently opt to use the social networks for free while consenting to data collection, or pay not to have their data shared.</p>
+    <p>The regulators said that the choice presented by Meta’s model risks giving consumers a false alternative, with the financial barrier potentially forcing them to consent to their personal data being tracked for advertising purposes.</p>
+  </blockquote>
+  <p>From the <a href="https://ec.europa.eu/commission/presscorner/detail/en/ip_24_3582">European Commission’s press release</a>:</p>
+  <blockquote>
+    <p>The Commission takes the preliminary view that Meta’s “pay or consent” advertising model is not compliant with the DMA as it does not meet the necessary requirements set out under Article 5(2). In particular, Meta’s model:</p>
+    <ol>
+      <li>Does not allow users to opt for a service that uses less of their personal data but is otherwise equivalent to the “personalised ads” based service.</li>
+      <li>Does not allow users to exercise their right to freely consent to the combination of their personal data.<br /> To ensure compliance with the DMA, users who do not consent should still get access to an equivalent service which uses less of their personal data, in this case for the personalisation of advertising.</li>
+    </ol>
+  </blockquote>
+  <p>Here is the problem with this characterization: there is no universe where a non-personalized version of Meta’s products are “equivalent” to a non-personalized version from a business perspective. Personalized ads are both far more valuable to advertisers, who only want to advertise to potential customers, not the entire Meta user base, and also a better experience for users, who get more relevant ads instead of random nonsense that isn’t pertinent to them. Indeed, personalized ads are so valuable that <a href="https://mobiledevmemo.com/metas-next-tactic-in-the-eu-pay-or-okay/">Eric Seufert has estimated</a> that charging a subscription in lieu of personalized ads would cost Meta 60% of its E.U. revenue; being forced to offer completely un-personalized ads would be far more injurious.</p>
+  <p>Clearly, though, the European Commission doesn’t care about Meta or its rights to offer its products on terms it chooses: demanding a specific business model that is far less profitable (and again, a worse user experience!) is once again a de facto nationalization (continentalization?) of private property. And, as a variation on an earlier point, while I don’t agree with the demonization of personalized ads, I do recognize the European Union’s prerogative and authority to insist that Meta offer an alternative; what is problematic here is seeking to ban the fairest alternative — direct payment by consumers — and thus effectively taking Meta’s property.</p>
+  <h3 id="nvidia-and-cuda-integration">Nvidia and CUDA Integration</h3>
+  <p>The final example is Nvidia; from <a href="https://www.reuters.com/technology/french-antitrust-regulators-preparing-nvidia-charges-sources-say-2024-07-01/">Reuters</a>:</p>
+  <blockquote>
+    <p>Nvidia is set to be charged by the French antitrust regulator for allegedly anti-competitive practices, people with direct knowledge of the matter said, making it the first enforcer to act against the computer chip maker. The French so-called statement of objections or charge sheet would follow dawn raids in the graphics cards sector in September last year, which sources said targeted Nvidia. The raids were the result of a broader inquiry into cloud computing.</p>
+    <p>The world’s largest maker of chips used both for artificial intelligence and for computer graphics has seen demand for its chips jump following the release of the generative AI application ChatGPT, triggering regulatory scrutiny on both sides of the Atlantic. The French authority, which publishes some but not all its statements of objections to companies, and Nvidia declined comment. The company in a regulatory filing last year said regulators in the European Union, China and France had asked for information on its graphic cards. The European Commission is unlikely to expand its preliminary review for now, since the French authority is looking into Nvidia, other people with direct knowledge of the matter said.</p>
+    <p>The French watchdog in a report issued last Friday on competition in generative AI cited the risk of abuse by chip providers. It voiced concerns regarding the sector’s dependence on Nvidia’s CUDA chip programming software, the only system that is 100% compatible with the GPUs that have become essential for accelerated computing. It also cited unease about Nvidia’s recent investments in AI-focused cloud service providers such as CoreWeave. Companies risk fines of as much as 10% of their global annual turnover for breaching French antitrust rules, although they can also provide concessions to stave off penalties.</p>
+  </blockquote>
+  <p>I have been writing <a href="https://stratechery.com/2021/nvidias-gtc-keynote-the-nvidia-stack-the-omniverse/">for years</a> about Nvidia’s integrated strategy, which entails spending huge amounts of resources on the freely available CUDA software ecosystem that only runs on Nvidia chips; it is an investment that is paying off in a major way today as CUDA is the standard for creating AI applications, which provides a major moat for Nvidia’s chips (which, I would note, <a href="https://stratechery.com/2024/nvidia-waves-and-moats/">is counter-intuitively less meaningful even as Nvidia has dramatically risen in value</a>). The existence of this moat — and the correspondingly high prices that Nvidia can charge — is a feature, not a bug: the chipmaker spent years and years grinding away on GPU-accelerated computing (and were <a href="https://stratechery.com/2022/nvidia-in-the-valley/">frequently punished by the market</a>), and the fact the company is profiting so handsomely from an AI revolution it made possible is exactly the sort of reward anyone interested in innovation should be happy to see.</p>
+  <p>Once again, though, European regulators don’t seem to care about incentivizing innovation, and are walking down a path that seems likely to lead to de facto continentalization of private property: the logical penalty for Nvidia’s crime of investing in CUDA could very well be the forced separation of CUDA from Nvidia chips, which is to say simply taking away Nvidia’s property; the more “moderate” punishment could be ten percent of Nvidia’s worldwide revenue, despite the fact that France — and almost certainly the E.U. as a whole — provide nowhere close to ten percent of Nvidia’s revenue.</p>
+  <h3 id="the-worldwide-regulator">The Worldwide Regulator</h3>
+  <p>That ten percent of worldwide revenue number may sound familiar: that is the same punishment allowed under the DMA, and it’s worth examining in its own right. Specifically, it’s bizarrely high: while Nvidia doesn’t break out revenue by geography, Meta has said that ten percent of its revenue comes from the E.U; for Apple it’s only 7 percent. In other words, the European Union is threatening to fine these U.S. tech giants more money than they make in the E.U. market in a year!</p>
+  <p>The first thing to note is that the very existence of these threats should be considered outrageous by the U.S. government: another international entity is threatening to not just regulate U.S. companies within their borders (reasonable!), but to actually take revenue earned elsewhere in the world. It is very disappointing that the current administration is not only not standing up for U.S. companies, but actually appears to view the European Commission as their ally.</p>
+  <p>Second, just as Apple seems to have started to believe its rhetoric about how developers need Apple, instead of acknowledging that it needs developers as well, the European Commission seems to have bought into its spin that it is the world’s tech regulator; the fact everyone encounters cookie permission banners is even evidence that is the case!</p>
+  <p>The truth is that the E.U.’s assumed power come from the same dynamics that make U.S. tech companies so dominant. The fundamental structure of technology is that it is astronomically expensive to both develop and maintain, but those costs are more akin to capital costs like building a ship or factory; the marginal cost of serving users is zero (i.e. it costs a lot of money to serve users in the aggregate, but every additional user is zero marginal cost). If follows, then, that there is almost always benefit in figuring out how to serve more users, even if those users come with lower revenue opportunities.</p>
+  <p>A useful analogy is to the pharmaceutical industry; Tyler Cowen wrote in a provocative post on Marginal Revolution entitled <a href="https://marginalrevolution.com/marginalrevolution/2024/06/what-is-the-gravest-outright-mistake-out-there.html">What is the gravest outright mistake out there?</a>:</p>
+  <blockquote>
+    <p>I am not referring to disagreements, I mean outright mistakes held by smart, intelligent people. Let me turn over the microphone to Ariel Pakes, who may someday win a Nobel Prize:</p>
+    <blockquote>
+      <p>Our calculations indicate that currently proposed U.S. policies to reduce pharmaceutical prices, though particularly beneficial for low-income and elderly populations, could dramatically reduce firms’ investment in highly welfare-improving R&amp;D. The U.S. subsidizes the worldwide pharmaceutical market. One reason is U.S. prices are higher than elsewhere.</p>
+    </blockquote>
+    <p>That is from <a href="https://www.nber.org/papers/w32606">his new NBER working paper</a>. That is supply-side progressivism at work, but shorn of the anti-corporate mood affiliation.</p>
+    <p>I do not believe we should cancel those who want to regulate down prices on pharmaceuticals, even though likely they will kill millions over time, at least to the extent they succeed. (Supply is elastic!) But if we can like them, tolerate them, indeed welcome them into the intellectual community, we should be nice to others as well. Because the faults of the others probably are less bad than those who wish to regulate down the prices of U.S. pharmaceuticals.</p>
+  </blockquote>
+  <p>Cowen’s point is that while many countries aggressively regulate the price of pharmaceuticals, you ultimately need a profit motive to invest in the massive up-front cost in developing new drugs; that profit comes from the U.S. market. The reason this all works is that the actual production of drugs is similar to technology: once the drug is approved every marginal pill is effectively zero marginal cost; this means that it is worth selling drugs at highly regulated prices, but you still need a reason to develop new drugs as well.</p>
+  <p>So it is with technology; to take the Meta example above, the company may very well be brought to heel with regards to offering a non-personalized-ads business model: Facebook and Instagram and WhatsApp are already developed, operations teams already exist, data centers are already built, so maybe a fraction of potential revenue will be worth continuing to offer those services in the E.U. Moreover, there is the matter of network effects: should Meta leave the E.U. it will make its services worse for non-E.U. users by reducing the size of the network on its services.</p>
+  <p>This is the point, though: the E.U.’s worldwide regulatory power is ultimately derived from the structure of technology, and structures can change. This is where that ten-percent-of-worldwide-revenue figure looms large: it fundamentally changes the calculus in terms of costs. Fines from a regional regulator are not the equivalent of engineering and server costs that you’re already paying so you might as well capture pennies of extra revenue from said region; they are are directly related to revenue from that region. In other words, they are more like marginal costs: the marginal cost of serving the E.U. is the expected value of the chances you will get fined more than you earned in any given year, and for big tech that price is going up.</p>
+  <p>That’s not the only cost that is going up for Apple in particular: part of the implication of the “Core Technology Fee” model is that Apple has put forth a tremendous amount of engineering effort to accomodate its platform to the DMA specifically. Or, to put it another way, Apple has already forked iOS: there is one version for the E.U., and one version for the rest of the world. This too dramatically changes the calculus: yes, every E.U. user comes in at zero marginal cost, but not the E.U. as a whole: Apple isn’t just paying the expected value of future fines, but actual real costs in terms of engineering time and overall complexity.</p>
+  <p>In short, the E.U. either has or is about to cross a critical line in terms of overplaying its hand: yes, most of tech may have been annoyed by their regulations, but the economic value of having one code base for the entire world meant that everyone put up with it (including users outside of the E.U.); once that code base splits, though — as it recently did for Apple — the calculations of whether or not to even serve E.U. users becomes that much closer; dramatically increasing potential fines far beyond what the region is worth only exacerbates the issue.</p>
+  <h3 id="eu-losses">E.U. Losses</h3>
+  <p>I don’t, for the record, think that either Meta or Apple or any of the other big tech companies — with the exception of Nvidia above — are going to leave Europe. What will happen more often, though, are things like this; from <a href="https://stratechery.com/2024/european-commission-charges-apple-apple-delays-new-features-for-e-u/">Bloomberg</a>:</p>
+  <blockquote>
+    <p>Apple Inc. is withholding a raft of new technologies from hundreds of millions of consumers in the European Union, citing concerns posed by the bloc’s regulatory attempts to rein in Big Tech. The company announced Friday that it would block the release of Apple Intelligence, iPhone Mirroring and SharePlay Screen Sharing from users in the EU this year, because the Digital Markets Act allegedly forces it to downgrade the security of its products and services.</p>
+    <p>“We are concerned that the interoperability requirements of the DMA could force us to compromise the integrity of our products in ways that risk user privacy and data security,” Apple said in a statement.</p>
+    <p>The EU’s DMA forces dominant technology platforms to abide by a long list of do’s and don’ts. Tech services are prohibited from favoring their own offerings over those of rivals. They’re barred from combining personal data across their different services; blocked from using information they collect from third-party merchants to compete against them; and have to allow users to download apps from rival platforms. As part of the rules, the EU has designated six of the biggest tech companies as “gatekeepers” — powerful platforms that require stricter scrutiny. In addition to Apple, that list includes Microsoft Corp., Google parent Alphabet Inc. and Facebook owner Meta Platforms Inc.</p>
+  </blockquote>
+  <p>I explained in <a href="https://stratechery.com/2024/european-commission-charges-apple-apple-delays-new-features-for-e-u/">this Daily Update</a> why this move from Apple was entirely rational, including specific provisions in the DMA that seem to prohibit the features Apple is withholding, in some cases due to interoperability requirements (does iPhone screen-sharing have to work with Windows?), and in others due to restrictions on data sharing (the DMA forbids sharing any user data held by the core platform with a new service built by the core platform); in truth, though, I don’t think Apple needs a good reason: given the calculations above it seems foolish to make any additional investments in E.U.-specific code bases.</p>
+  <p>European Commission Vice-President Margrethe Vestager was not happy, saying at <a href="https://youtu.be/GmQ5SsMFbsU?t=4636">Forum Europa</a>:</p>
+  <blockquote>
+    <p>I find that very interesting that they say we will now deploy AI where we’re not obliged to enable competition. I think that is that is the most sort of stunning open declaration that they know 100% that this is another way of disabling competition where they have a stronghold already.</p>
+  </blockquote>
+  <p>This makes absolutely no sense: Apple <em>not</em> deploying AI in fact opens them up to competition, because their phones will be less fully featured than they might be otherwise! Vestager should be taking a victory lap, if her position made a shred of sense. In fact, though, she is playing the thieving fool like other Europeans before her; from 2014’s <a href="https://stratechery.com/2014/economic-power-age-abundance/">Economic Power in the Age of Abundance</a>:</p>
+  <blockquote>
+    <p>At first, or second, or even third glance, it’s hard to not shake your head at European publishers’ dysfunctional relationship with Google. Just this week a group of German publishers started legal action against the search giant, demanding 11 percent of all revenue stemming from pages that include listings from their sites. From Danny Sullivan’s excellent Search Engine Land:</p>
+    <blockquote>
+      <p>German news publishers are picking up where the Belgians left off, a now not-so-proud tradition of suing Google for being included in its listings rather than choosing to opt-out. This time, the publishers want an 11% cut of Google’s revenue related to them being listed.</p>
+    </blockquote>
+    <p>As Sullivan notes, Google offers clear guidelines for publisher’s who do not want to be listed, or simply do not want content cached. The problem, though, as a group of Belgian newspapers found out, is that not being in Google means a dramatic drop in traffic:</p>
+    <blockquote>
+      <p>Back in 2006, Belgian news publishers sued Google over their inclusion in the Google News, demanding that Google remove them. They never had to sue; there were mechanisms in place where they could opt-out.</p>
+      <p>After winning the initial suit, Google dropped them as demanded. Then the publications, watching their traffic drop dramatically, scrambled to get back in. When they returned, they made use of the exact opt-out mechanisms (mainly just to block page caching) that were in place before their suit, which they could have used at any time.</p>
+    </blockquote>
+    <p>In the case of the Belgian publishers in particular, it was difficult to understand what they were trying to accomplish. After all, isn’t the goal more page views (it certainly was in the end!)? The German publishers in this case are being a little more creative: like the Belgians before them they are alleging that Google benefits from their content, but instead of risking their traffic by leaving Google, they’re instead demanding Google give them a cut of the revenue they feel they deserve.</p>
+  </blockquote>
+  <p>Vestager’s comments about Apple Intelligence are foolish like the Belgian publishers: she is mad that Apple isn’t giving her what she claims to want, which is a weaker Apple more susceptible to competition; expect this to be the case for lots of new features going forward. More importantly, expect this to be the case for lots of new companies: Apple and Meta will probably stay in the E.U. because they’re already there; it seems increasingly foolish for newer companies to ever even bother entering. That, more than anything, is why Apple and Meta and the other big tech companies won’t face competition even as they are forced to weaken their product offerings.</p>
+  <p>It is the cases above, though, that are thieving like the German publishers: it is one thing to regulate a market; it is another to straight up take a product or service on your terms, enabled by a company’s loyalty to its existing userbase. I might disagree with a lot of E.U. regulations, but I respect them and their right to make them; dictating business models or forcing a company to provide services for free, though, crosses the line from regulation to theft.</p>
+  <h3 id="the-eu-morality-tale">The E.U. Morality Tale</h3>
+  <p>And so we arrive at another morality tale, this time about the E.U. Thierry Breten, the European Commissioner for Internal Market, tweeted late last year after the E.U. passed the AI Act:</p>
+  <div align="center">
+    <blockquote class="twitter-tweet" data-dnt="true">
+      <p lang="en" dir="ltr">Historic!</p>
+      <p>The EU becomes the very first continent to set clear rules for the use of AI <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f1ea-1f1fa.png" alt="🇪🇺" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+      <p>The <a href="https://twitter.com/hashtag/AIAct?src=hash&amp;ref_src=twsrc%5Etfw">#AIAct</a> is much more than a rulebook — it's a launchpad for EU startups and researchers to lead the global AI race.</p>
+      <p>The best is yet to come! <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f44d.png" alt="👍" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://t.co/W9rths31MU">pic.twitter.com/W9rths31MU</a></p>
+      <p>— Thierry Breton (@ThierryBreton) <a href="https://twitter.com/ThierryBreton/status/1733256557448630344?ref_src=twsrc%5Etfw">December 8, 2023</a></p>
+    </blockquote>
+    <p>      <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+&lt;/div&gt;      <p>Here’s the problem with leading the world in regulation: you can only regulate what is built, and the E.U. doesn’t build anything pertinent to technology.<sup id="rf1-13192"><a href="https://stratechery.com/2024/the-e-u-goes-too-far/#fn1-13192" title="French startup Mistral is building compelling large language models; the Nvidia action in particular could be fatal to their future" rel="footnote">1</a></sup> It’s easy enough to imagine this tale being told in a few year’s time:</p>
+      <p><em>The erstwhile center of civilization, long-since surpassed by the United States, leverages the fundamental nature of technology to regulate the Internet for the entire world. The powers that be, though, seemingly unaware that their power rested on the zero marginal cost nature of serving their citizens, made such extreme demands on U.S. tech companies that they artificially raised the cost of serving their region beyond the expected payoff. While existing services remained in the region due to loyalty to their existing customers, the region received fewer new features and new companies never bothered to enter, raising the question: if a regulation is passed but no entity exists that is covered by the regulation, does the regulation even exist? If only the E.U. could have seen how the world — and its place in it! — had changed.</em></p>
+      <p>Or, to use Breton’s description, a launchpad without a rocket is just a burned out piece of concrete.</p>
+      <hr class="footnotes" />
+      <ol class="footnotes" style="list-style-type:decimal">
+        <li id="fn1-13192">
+          <p>French startup Mistral is building compelling large language models; the Nvidia action in particular could be fatal to their future <a href="https://stratechery.com/2024/the-e-u-goes-too-far/#rf1-13192" class="backlink" title="Return to footnote 1.">↩</a></p>
+        </li>
+      </ol>
+ &lt;/div&gt;</p>
+  </div>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2024-08-06</time>
+        <a href="https://nodebe4.github.io/opinion/2024-08-06/Friendly-Google-and-Enemy-Remedies/">
+          Friendly Google and Enemy Remedies
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-07-22</time>
+        <a href="https://nodebe4.github.io/opinion/2024-07-22/Crashes-and-Competition/">
+          Crashes and Competition
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-07-01</time>
+        <a href="https://nodebe4.github.io/opinion/2024-07-01/Summer-Break-Week-of-July-1st/">
+          Summer Break: Week of July 1st
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2024-06-10</time>
+        <a href="https://nodebe4.github.io/opinion/2024-06-10/Apple-Intelligence-is-Right-On-Time/">
+          Apple Intelligence is Right On Time
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2024-07-05/EP-103-%E8%A3%B4%E6%95%8F%E6%AC%A3-%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE%E4%BB%A5%E5%8F%8A%E7%BE%8E%E5%9B%BD%E6%B0%91%E4%B8%BB%E5%87%BA%E4%BA%86%E4%BB%80%E4%B9%88%E9%97%AE%E9%A2%98-%E6%96%87%E5%AD%97%E7%89%88/">
+            前一篇：EP-103 裴敏欣：总统选举以及美国民主出了什么问题？（文字版）
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2024-07-09/%E5%90%AC%E4%BC%97%E6%9D%A5%E4%BF%A1-samwiseethan-%E5%AF%B9Vicky%E8%BA%AB%E4%BB%BD%E8%AE%A4%E5%90%8C%E5%92%8C-%E6%94%AF%E8%A8%80%E6%94%AF%E8%AF%AD-%E7%9A%84%E6%80%9D%E8%80%83/">
+            後一篇：听众来信-samwiseethan：对Vicky身份认同和“支言支语”的思考
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2024-07-05/EP-103-%E8%A3%B4%E6%95%8F%E6%AC%A3-%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE%E4%BB%A5%E5%8F%8A%E7%BE%8E%E5%9B%BD%E6%B0%91%E4%B8%BB%E5%87%BA%E4%BA%86%E4%BB%80%E4%B9%88%E9%97%AE%E9%A2%98-%E6%96%87%E5%AD%97%E7%89%88/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2024-07-09/%E5%90%AC%E4%BC%97%E6%9D%A5%E4%BF%A1-samwiseethan-%E5%AF%B9Vicky%E8%BA%AB%E4%BB%BD%E8%AE%A4%E5%90%8C%E5%92%8C-%E6%94%AF%E8%A8%80%E6%94%AF%E8%AF%AD-%E7%9A%84%E6%80%9D%E8%80%83/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2024-07-22/Crashes-and-Competition/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2024-07-01/Summer-Break-Week-of-July-1st/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2024-07-05/EP-103-%E8%A3%B4%E6%95%8F%E6%AC%A3-%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE%E4%BB%A5%E5%8F%8A%E7%BE%8E%E5%9B%BD%E6%B0%91%E4%B8%BB%E5%87%BA%E4%BA%86%E4%BB%80%E4%B9%88%E9%97%AE%E9%A2%98-%E6%96%87%E5%AD%97%E7%89%88/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2024-07-09/%E5%90%AC%E4%BC%97%E6%9D%A5%E4%BF%A1-samwiseethan-%E5%AF%B9Vicky%E8%BA%AB%E4%BB%BD%E8%AE%A4%E5%90%8C%E5%92%8C-%E6%94%AF%E8%A8%80%E6%94%AF%E8%AF%AD-%E7%9A%84%E6%80%9D%E8%80%83/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2024-07-22/Crashes-and-Competition/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2024-07-01/Summer-Break-Week-of-July-1st/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

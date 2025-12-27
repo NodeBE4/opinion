@@ -1,0 +1,1512 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>听众来信-小莫：小红书爆火背后，一个大国的面子和里子 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+听众来信-小莫：小红书爆火背后，一个大国的面子和里子
+——
+" />
+    <meta property="og:description" content="
+听众来信-小莫：小红书爆火背后，一个大国的面子和里子
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="听众来信-小莫：小红书爆火背后，一个大国的面子和里子" />
+    <meta property="twitter:title" content="听众来信-小莫：小红书爆火背后，一个大国的面子和里子" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fwww.bumingbai.net%2F2025%2F01%2Fwrite-to-bumingbai-15%2F%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dwrite-to-bumingbai-15" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://www.bumingbai.net/2025/01/write-to-bumingbai-15/?utm_source=rss&utm_medium=rss&utm_campaign=write-to-bumingbai-15" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://www.bumingbai.net/2025/01/write-to-bumingbai-15/?utm_source=rss&utm_medium=rss&utm_campaign=write-to-bumingbai-15&text=听众来信-小莫：小红书爆火背后，一个大国的面子和里子&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://www.bumingbai.net/2025/01/write-to-bumingbai-15/?utm_source=rss&utm_medium=rss&utm_campaign=write-to-bumingbai-15&title=听众来信-小莫：小红书爆火背后，一个大国的面子和里子" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.bumingbai.net/2025/01/write-to-bumingbai-15/?utm_source=rss&utm_medium=rss&utm_campaign=write-to-bumingbai-15&title=听众来信-小莫：小红书爆火背后，一个大国的面子和里子" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=听众来信-小莫：小红书爆火背后，一个大国的面子和里子&body=
+听众来信-小莫：小红书爆火背后，一个大国的面子和里子
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://www.bumingbai.net/2025/01/write-to-bumingbai-15/?utm_source=rss&utm_medium=rss&utm_campaign=write-to-bumingbai-15" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://www.bumingbai.net/2025/01/write-to-bumingbai-15/?utm_source=rss&utm_medium=rss&utm_campaign=write-to-bumingbai-15&title=听众来信-小莫：小红书爆火背后，一个大国的面子和里子&caption=
+听众来信-小莫：小红书爆火背后，一个大国的面子和里子
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=听众来信-小莫：小红书爆火背后，一个大国的面子和里子&url=https://www.bumingbai.net/2025/01/write-to-bumingbai-15/?utm_source=rss&utm_medium=rss&utm_campaign=write-to-bumingbai-15" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>听众来信-小莫：小红书爆火背后，一个大国的面子和里子</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2025-01-23
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#不明白播客">
+          不明白播客
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://www.bumingbai.net/2025/01/write-to-bumingbai-15/?utm_source=rss&utm_medium=rss&utm_campaign=write-to-bumingbai-15" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="不明白播客的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#不明白播客 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1737635965000-->
+<p><a href="https://www.bumingbai.net/2025/01/write-to-bumingbai-15/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=write-to-bumingbai-15">听众来信-小莫：小红书爆火背后，一个大国的面子和里子</a>
+——</p>
+
+<div>
+  <p></p>
+  <p>美国拜登政府的Tiktok禁令引发美国等外国IP用户大量涌入小红书已经一周有余，面对这一前所未有的潮流，一直试图巩固防火墙、制造内外信息差、引导舆论以服务大内宣的中国大陆政府，似乎反常地（暂时）采取了默许+观望的态度。</p>
+  <p>迅速涌入的各国友人像是投入平静湖面的巨石，令湖底积聚已久、成分复杂的沉渣全部泛起、翻上湖面。我们几乎可以在小红书上看见近年来所有类型的民族情绪。</p>
+  <p>如何理解大陆有关部门的“反常”态度？中外大联欢的友善氛围下，我们应当如何观照自身的民族性？以及，为何这一切偏偏发生在小红书上？</p>
+  <p><strong>小红书爆火现象的特殊性：女性主导的社区氛围+中美保守主义思潮共振及女性主义共鸣</strong></p>
+  <p>小红书自诞生之初起，用户画像就一直以相对高学历的中青年女性为主，这确立了小红书社区气质的二元性，一方面，由于女性主义思潮的崛起，女性用户常常对陌生人施以援手，体现在乐于分享经验、将小红书打造成实用的搜索引擎，乐于帮助弱者、夸赞同性；另一方面，雌竞和对同性的苛责依然司空见惯。</p>
+  <p>在迎接TT难民的过程中，小红书原住民用户展现出极大的热情和友善，这或许是因为原住民潜意识将TT难民识别为客体和弱者。TT难民一词本身既充满幽默感，也带着一丝伤感和谦卑，这些都有助于激发原住民的同情心。</p>
+  <p>此外，美国虽然是一个西方国家，但美国民众的保守主义传统源远流长，深深植根于美国的历史、文化和政治制度。这与中国近年来日益崛起的保守主义思潮形成了共振。加上女性主义、“girls help girls”等话题的共鸣，使得烹饪、钩针、田园生活等话题最先激发了大量讨论。</p>
+  <p><strong>中国监管机构：被动默许+静观其变</strong></p>
+  <p>由于社交网络本身病毒式传播话题的速度极快，在第一波TT难民涌入后，中方就已经失去了悄悄一刀切的主动权，对这一事件的任何主动应对都会成为涉外举措。小红书平台长久以来的“去政治化”倾向，或许也给了监管部门静观其变的一些底气，至少在第一波中美讨论中并未涉及太多政治话题。</p>
+  <p>此外，中国大陆经济疲软，亟须吸引外国旅游，可能也导致监管机构对一刀切保持谨慎，尤其是在宣传口大肆炒作韩国人来沪旅游、打造开放中国形象的当下。</p>
+  <p><strong>表面爆火的背后：言论自由与获批许可（sanctioned）的区别</strong></p>
+  <p>在TikTok和其他西方社交软件上，只要遵循基本的社区守则和法律法规，用户就可以随心所欲地发布帖子，这是通常意义上的言论自由。</p>
+  <p>但在小红书和其他中国社交媒体上，用户的帖子能够存在只有两种可能，一是网络审查机构允许且平台允许，二是网络审查机构和/平台不允许，但暂时没有发现这条帖子（通常是因为关键词不明显或没有造成群体性影响）。</p>
+  <p>我们可以通过最近的一些事例来看中外网络言论环境的不同。</p>
+  <p>上海市新闻办在小红书欢迎TT难民的帖子被删。上海市新闻办隶属于宣传，宣传机构和网络审查机构的利益不完全一致。笔者猜测，上海市新闻办的帖子被秒删，大概率是因为发帖时间过早，各政府机构还没有就对TT难民的定性达成一致。这既可能是新闻办直属上级部门要求删除，也可能是与网络审查机构意见不一致而遭到删除。对于中国政府而言，“默许存在”和“明确支持”完全是两码事，默许更有利于保证政府的灵活立场和主动权。</p>
+  <p>一名覆面系Coser因头像和发帖照片中含有枪支（非真枪）而被小红书平台方大量删帖并警告。一名非裔女性因穿着米色贴身上衣，疑似因机器审核误判为暴露着装而被删帖。一名外国女性发布含有Lesbian完整单词的帖子被删除。</p>
+  <p>与此同时，另一些帖子却被保留了下来。例如，在德国网友帖子的评论区，大量大陆网民发布影射希特勒及军国主义的文字和图片。不少大陆网民在非裔美国网友帖子的评论区发布N-word等歧视性语言。在一些外国网友明确说明自己是未成年人的前提下，仍有大量大陆网民发布不恰当的评论，例如询问穿着中学校服的外国女性是否有男朋友等等。这些帖子往往热度较高，但无一例外都没有遭遇评论删除等管控。</p>
+  <p><strong>民族情绪大爆发</strong></p>
+  <p>如前文所述，我们几乎可以在今天的小红书上看见近年来所有类型的民族情绪——民族主义、帝国主义、大国情怀、血统论、文化自信、排外、种族歧视，以及全民抓间谍。</p>
+  <p>外国网友的涌入让大陆网民突然间有了“万国来朝”的精神高潮，主体性前所未有地支楞了起来。这在小红书的玩梗文化中体现得淋漓尽致。</p>
+  <p>有人将浏览和回复外国网友的发帖形容为皇上批阅“番邦的折子”。一些此前在小红书上常见的表情包，似乎也有些变味。例如陈建斌饰演雍正的《甄嬛传》剧照并配台词“朕从未见过你”，原本常被女性用户用于赞美发帖人的外貌，但当这一表情包出现在外国网友评论区时，则自然地生出一股封建帝王点评宫中嫔妃的意味。更露骨的则是（疑似）AI生成的兵马俑环抱自由女神甚至是一家三口的表情包，也在近期广为流传。这些表情包无不强调了中国的男性和父权特质，并将美国在一定程度上女性化、客体化。</p>
+  <p>血统论则体现为在一名美国印第安人朋友的评论区称其为地道、真正的美国人，“正黄旗本地老美”。</p>
+  <p>还有一种很典型的“文化自信”，觉得外国人之前不喜欢中国文化是因为他们不了解，只要了解了，就会被我们优秀的中华文化所吸引。</p>
+  <p>在讨论消费观的帖子中，不乏用力炫富还强调这是普通生活的大陆网友，这一点倒是延续了小红书最初的炫富基因。在笔者看来，这种行为与近期为了向韩国游客秀肌肉而涌上武康路街头的豪车族以及为之叫好的群众，本质上并无二别。似乎只要沟通对象是“非我族类”，炫富就成了证明国力、强化民族自豪的正当行为。</p>
+  <p>除了炫富一族，更多普通人也从各个角度找到了证明xx具备制度优越性的论据。无论是一日三餐、女性关怀，还是医疗成本、城市景观，无数中国人，卯足了劲儿向国外展示，我们生活的很好，城市漂亮又整洁，坐月子有理，中医优秀，没有人告诉外国网友，这里有室内室外无处不在的烟味、城管和摄像头。</p>
+  <p>明明小红书上有越来越多的网友对集采引发对药品及医疗器械质量感到担忧，但只因讨论对象是外国IP，居然有不少人向对面安利/炫耀起了全民医保。美国的医疗保险诚然有许多问题，但对方有问题，并不能反过来证明我们这边的制度就是更优越的、弊端更少的。</p>
+  <p>笔者的总体感觉是，似乎只要国外有一点可被攻击的地方，某些国人就已经获得了长足的心理安慰。在跨国沟通类帖子中，通过抨击美国的某些方面达成意见一致的情况要远多于抨击中国的情况。</p>
+  <p>对外国网友发帖闭眼夸、外国ip的账号迅速涨粉，激起了部分网民对于外国人特殊优待的ptsd。这其中，身份尴尬（华人血统+国外居留）的留学生群体和海外华人群体尤其感到“委屈”。在一些内陆网友的叙事中，海外华人既非我族，也非远方来客，而是某种程度上的背叛者。这种叙事承袭了一直以来的传统——历史上的大多数时候，只要出了国，就是抛国弃家、不可信赖之人；只有内忧外患之时，国家才会褒扬海外华人（通过无偿捐助艰难证明）的爱国情怀。国家无需爱你，而你必须倾尽所有，才能获得国家对于你爱国的暂时承认。</p>
+  <p>提醒中国网友小心间谍的帖子重新又热了起来。此处不再赘述，恭喜国安科普工作成果斐然。</p>
+  <p>有时，种种民族情绪互相之间会发生奇妙的化学反应。笔者看到，在讨论非裔网友遭到言论攻击的帖子下，一拨人将发表攻击性言论的大陆账号称为间谍，认为这些间谍是有意在挑拨中外关系，另一拨人则理直气壮地展示出对非裔的种族歧视，并质疑其他大陆网民为何与黑人共情。还有一些女性用户认为，都是男性用户在发表种族歧视和不友好的言论，尤其是所谓的incel男性群体。尽管笔者个人赞成这一观点，但笔者依然认为，这也是一种将恶人从定性上“驱逐”出本族群的做法，和随意指认间谍没有区别。</p>
+  <p>总而言之，巴别塔从来都没有存在过。看似理想的中间地带，在全球民族主义思潮盛行之下，也绝无可能存在。眼看中国网民迅速忘记了迟迟不发的年终奖、等待回本的A股、劣质的外卖、一件又一间被按下不表的群体性事件，在迎接外国网友的过程中自行完成了一波爱国主义教育和民族主义洗脑，试问政府怎能不感叹，这是最好的人民？怎能不静观其变，从中渔利，直至风险真正爆发的那一天，再找个替罪羊背锅，然后对民众说一句，“这都是为你们好”？</p>
+  <p>小莫<br />2025.1.20</p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#不明白播客 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-28/EP-137-%E8%AE%B8%E6%88%90%E9%92%A2-DeepSeek-%E6%B0%91%E4%BC%81%E5%BA%A7%E8%B0%88%E4%BC%9A%E8%83%BD%E5%90%A6%E9%87%8D%E6%8C%AF%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E-(%E6%96%87%E5%AD%97%E7%89%88/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2022-10-09/EP-020-%E8%94%A1%E9%9C%9E-%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E5%AF%B9%E4%B8%AD%E5%85%B1%E7%BB%9D%E6%9C%9B/">最早</a>--</span>
+    
+      <li>
+        <time>2025-01-31</time>
+        <a href="https://nodebe4.github.io/opinion/2025-01-31/EP-133-%E4%B8%AD%E5%9B%BD%E4%BB%BF%E5%88%B6%E8%8D%AF%E4%B8%8E%E9%9B%86%E9%87%87%E5%88%B6%E5%BA%A6%E5%87%BA%E4%BA%86%E4%BB%80%E4%B9%88%E9%97%AE%E9%A2%98-%E6%96%87%E5%AD%97%E7%89%88/">
+          EP-133 中国仿制药与集采制度出了什么问题？（文字版）
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2025-01-24</time>
+        <a href="https://nodebe4.github.io/opinion/2025-01-24/EP-133-%E4%B8%AD%E5%9B%BD%E4%BB%BF%E5%88%B6%E8%8D%AF%E4%B8%8E%E9%9B%86%E9%87%87%E5%88%B6%E5%BA%A6%E5%87%BA%E4%BA%86%E4%BB%80%E4%B9%88%E9%97%AE%E9%A2%98/">
+          EP-133 中国仿制药与集采制度出了什么问题？
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2025-01-22</time>
+        <a href="https://nodebe4.github.io/opinion/2025-01-22/EP-132-%E6%9D%8E%E5%8E%9A%E8%BE%B0-2015-2016-%E6%94%B9%E5%8F%98%E4%B8%AD%E5%9B%BD%E7%9A%84%E4%B8%A4%E5%B9%B4-%E6%96%87%E5%AD%97%E7%89%88/">
+          EP-132 李厚辰：2015、2016——改变中国的两年（文字版）
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2025-01-18</time>
+        <a href="https://nodebe4.github.io/opinion/2025-01-18/EP-132-%E6%9D%8E%E5%8E%9A%E8%BE%B0-2015-2016-%E6%94%B9%E5%8F%98%E4%B8%AD%E5%9B%BD%E7%9A%84%E4%B8%A4%E5%B9%B4/">
+          EP-132 李厚辰：2015、2016——改变中国的两年
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2025-01-23/An-Interview-with-Daniel-Gross-and-Nat-Friedman-Ab/">
+            前一篇：An Interview with Daniel Gross and Nat Friedman About Models, Margins, and Moats
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2025-01-23/%E7%8E%B0%E4%BB%A3%E8%88%9E%E8%89%BA%E6%9C%AF%E5%AE%B6%E9%87%91%E6%98%9F-%E6%88%91%E5%AF%B9%E6%88%91%E7%9A%84%E4%BA%BA%E7%94%9F-%E4%B8%8D%E8%A7%A3%E9%87%8A%E4%B8%8D%E5%A6%A5%E5%8D%8F%E4%B8%8D%E6%94%BE%E5%BC%83-%E8%A7%82%E7%82%B9/">
+            後一篇：现代舞艺术家金星：我对我的人生 不解释不妥协不放弃 ｜观点
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2025-01-23/An-Interview-with-Daniel-Gross-and-Nat-Friedman-Ab/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2025-01-23/%E7%8E%B0%E4%BB%A3%E8%88%9E%E8%89%BA%E6%9C%AF%E5%AE%B6%E9%87%91%E6%98%9F-%E6%88%91%E5%AF%B9%E6%88%91%E7%9A%84%E4%BA%BA%E7%94%9F-%E4%B8%8D%E8%A7%A3%E9%87%8A%E4%B8%8D%E5%A6%A5%E5%8D%8F%E4%B8%8D%E6%94%BE%E5%BC%83-%E8%A7%82%E7%82%B9/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2025-01-24/EP-133-%E4%B8%AD%E5%9B%BD%E4%BB%BF%E5%88%B6%E8%8D%AF%E4%B8%8E%E9%9B%86%E9%87%87%E5%88%B6%E5%BA%A6%E5%87%BA%E4%BA%86%E4%BB%80%E4%B9%88%E9%97%AE%E9%A2%98/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2025-01-22/EP-132-%E6%9D%8E%E5%8E%9A%E8%BE%B0-2015-2016-%E6%94%B9%E5%8F%98%E4%B8%AD%E5%9B%BD%E7%9A%84%E4%B8%A4%E5%B9%B4-%E6%96%87%E5%AD%97%E7%89%88/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2025-01-23/An-Interview-with-Daniel-Gross-and-Nat-Friedman-Ab/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2025-01-23/%E7%8E%B0%E4%BB%A3%E8%88%9E%E8%89%BA%E6%9C%AF%E5%AE%B6%E9%87%91%E6%98%9F-%E6%88%91%E5%AF%B9%E6%88%91%E7%9A%84%E4%BA%BA%E7%94%9F-%E4%B8%8D%E8%A7%A3%E9%87%8A%E4%B8%8D%E5%A6%A5%E5%8D%8F%E4%B8%8D%E6%94%BE%E5%BC%83-%E8%A7%82%E7%82%B9/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<不明白播客>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2025-01-24/EP-133-%E4%B8%AD%E5%9B%BD%E4%BB%BF%E5%88%B6%E8%8D%AF%E4%B8%8E%E9%9B%86%E9%87%87%E5%88%B6%E5%BA%A6%E5%87%BA%E4%BA%86%E4%BB%80%E4%B9%88%E9%97%AE%E9%A2%98/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<不明白播客>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2025-01-22/EP-132-%E6%9D%8E%E5%8E%9A%E8%BE%B0-2015-2016-%E6%94%B9%E5%8F%98%E4%B8%AD%E5%9B%BD%E7%9A%84%E4%B8%A4%E5%B9%B4-%E6%96%87%E5%AD%97%E7%89%88/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

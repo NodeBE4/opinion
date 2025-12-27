@@ -1,0 +1,3043 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Podcast Subscriptions vs. the App Store – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+Podcast Subscriptions vs. the App Store
+——
+" />
+    <meta property="og:description" content="
+Podcast Subscriptions vs. the App Store
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Podcast Subscriptions vs. the App Store" />
+    <meta property="twitter:title" content="Podcast Subscriptions vs. the App Store" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2021%2Fpodcast-subscriptions-vs-the-app-store%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2021/podcast-subscriptions-vs-the-app-store/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2021/podcast-subscriptions-vs-the-app-store/&text=Podcast Subscriptions vs. the App Store&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2021/podcast-subscriptions-vs-the-app-store/&title=Podcast Subscriptions vs. the App Store" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2021/podcast-subscriptions-vs-the-app-store/&title=Podcast Subscriptions vs. the App Store" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Podcast Subscriptions vs. the App Store&body=
+Podcast Subscriptions vs. the App Store
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2021/podcast-subscriptions-vs-the-app-store/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2021/podcast-subscriptions-vs-the-app-store/&title=Podcast Subscriptions vs. the App Store&caption=
+Podcast Subscriptions vs. the App Store
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Podcast Subscriptions vs. the App Store&url=https://stratechery.com/2021/podcast-subscriptions-vs-the-app-store/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Podcast Subscriptions vs. the App Store</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2021-04-21
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2021/podcast-subscriptions-vs-the-app-store/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1619016283000-->
+<p><a href="https://stratechery.com/2021/podcast-subscriptions-vs-the-app-store/">Podcast Subscriptions vs. the App Store</a>
+——</p>
+
+<div>
+  <p>There was a bit of a brouhaha a couple of weeks ago when Senators Amy Klobuchar and Mike Lee sent <a href="https://www.klobuchar.senate.gov/public/_cache/files/6/e/6e3e8f7c-adf3-4f0a-ae4d-429ebdee5e7b/EBBA9ECB053293C7011FBA308652C607.2021.04.09-ltr-to-tcook-apple.pdf">a letter to Apple</a> accusing the company of failing to provide a witness for the App Store-focused antitrust committee hearing that is happening <a href="https://www.bloomberg.com/news/articles/2021-04-19/senate-to-call-spotify-match-at-apple-google-antitrust-hearing">later today</a>; Apple responded that it was all a misunderstanding due to a scheduling conflict. From <a href="https://www.bloomberg.com/news/articles/2021-04-11/apple-makes-top-executive-available-at-senate-app-store-hearing">Bloomberg</a>:</p>
+  <blockquote>
+    <p>“We have deep respect for your role and process on these matters and, as we told your staff, we are willing to participate in a hearing in the subcommittee,” Apple said. “We simply sought alternative dates in light of upcoming matters that have been scheduled for some time and that touch on similar issues.”</p>
+  </blockquote>
+  <p>It seems likely that Apple was referring to Epic’s lawsuit against Apple and its App Store policies, which goes to trial on <a href="https://www.macrumors.com/2021/03/01/epic-vs-apple-in-person-trial-may-3/">May 3rd</a>; the Senators’ letter said as much. The fact this hearing is the day after an Apple event, though, is notable in its own right, given how Apple itself just highlighted where the App Store goes wrong.</p>
+  <h4 id="itunes-49">iTunes 4.9</h4>
+  <p>Apple Podcasts received 75 seconds of attention in Apple’s one hour and one minute presentation; it seems appropriate that 20 of those seconds were spent recounting Apple’s role in popularizing the format:</p>
+  <div align="center">
+    <div id="v-zKAGv6z4-1" class="video-player">
+      <video id="v-zKAGv6z4-1-video" width="640" height="360" poster="https://videos.files.wordpress.com/zKAGv6z4/applepodcast-1_mp4_dvd.original.jpg" controls="true" preload="metadata" dir="ltr" lang="en"><source src="https://videos.files.wordpress.com/zKAGv6z4/applepodcast-1_mp4_dvd.mp4" type="video/mp4; codecs=&quot;avc1.64001E, mp4a.40.2&quot;" /><source src="https://videos.files.wordpress.com/zKAGv6z4/applepodcast-1_mp4_fmt1.ogv" type="video/ogg; codecs=&quot;theora, vorbis&quot;" /><div>
+<img alt="" src="https://videos.files.wordpress.com/zKAGv6z4/applepodcast-1_mp4_dvd.original.jpg" width="640" height="360" />
+        </div></video>
+    </div>
+  </div>
+  <p>The 2005 release of iTunes 4.9 and the iTunes podcast directory was indeed a critical step in popularizing podcasts. I explained in 2017’s <a href="https://stratechery.com/2017/podcasts-analytics-and-centralization/">Podcasts, Analytics, and Centralization</a>:</p>
+  <blockquote>
+    <p>Centralization occurs in industry after industry for a reason: everyone benefits, at least in the short term. Start with the users: before iTunes 4.9 subscribing and listening to a podcast was a multi-step process, and most of those steps were so obscure as to be effective barriers for all but the most committed of listeners.</p>
+    <ul>
+      <li>Find a podcast</li>
+      <li>Get a podcatcher</li>
+      <li>Copy the URL of the podcast feed into the podcatcher</li>
+      <li>Copy over the audio file from the podcatcher into iTunes</li>
+      <li>Sync the audio file to an iPod</li>
+      <li>Listen to the podcast</li>
+      <li>Delete the podcast from the iPod the next time you synced</li>
+    </ul>
+    <p>iTunes 4.9 made this far simpler:</p>
+    <ul>
+      <li>Find a podcast in the iTunes Store and click ‘Subscribe’</li>
+      <li>Sync your iPod</li>
+      <li>Listen</li>
+    </ul>
+    <p>Recounting this simplification may seem pedantic, but there is a point: this was the most important improvement for podcast creators as well. Yes, the iTunes Music Store offered an important new discovery mechanism, but it was the dramatic improvement to the user experience that, for the vast majority of would-be listeners, made podcasts even worth discovering in the first place. Centralized platforms win because they make things easier for the user; producers willingly follow.</p>
+  </blockquote>
+  <p>And then Apple stopped. Yes, the iPhone happened, and podcast management and listening was further centralized into a single app, but given that Apple’s goal was only ever to sell more iPods (and then more iPhones) the company never pursued centralization to its logical conclusion:</p>
+  <blockquote>
+    <p>Remember, the web was thought to be a wasteland for advertising until Google provided a centralized point that aggregated users and could be sold to advertisers. Similarly, mobile was thought to monetize even worse than the (desktop) web until Facebook provided a centralized point that aggregated users and could be sold to advertisers. I expect a similar dynamic in podcasts: the industry will remain the province of ads for web hosting and underwear absent centralization and aggregation, and the only entity that can accomplish that is Apple.</p>
+  </blockquote>
+  <p>In fact, it was Spotify that identified the vacuum that Apple had created, aggressively expanding its podcasting business in an attempt to <a href="https://stratechery.com/2019/spotifys-podcast-aggregation-play/">displace Apple’s Aggregator position</a>; eMarketer predicts the streaming service will <a href="https://www.emarketer.com/content/spotify-podcast-listener-numbers-will-surpass-apples-this-year">surpass Apple later this year</a> in podcast listeners. Spotify is pursuing a multi-pronged strategy ranging from <a href="https://stratechery.com/2020/joe-rogan-and-spotify-luminary-and-howard-stern-apples-response/">exclusive content</a> to <a href="https://stratechery.com/2020/spotify-buys-megaphone-spotifys-podcast-strategy-spotifys-megaphone-strategy/">open podcast hosting</a> to <a href="https://stratechery.com/2021/spotify-stream-on-spotifys-advertising-play-additional-notes-on-stream-on/">targeted advertising</a>, and the company’s actions not only promise to dramatically increase podcast monetization but have also stirred Apple to action.</p>
+  <h4 id="podcast-subscriptions">Podcast Subscriptions</h4>
+  <p>The company’s initial response came in the remaining 55 seconds:</p>
+  <div align="center">
+    <div id="v-EknGtonT-1" class="video-player">
+      <video id="v-EknGtonT-1-video" width="640" height="360" poster="https://videos.files.wordpress.com/EknGtonT/applepodcast-2_mp4_dvd.original.jpg" controls="true" preload="metadata" dir="ltr" lang="en"><source src="https://videos.files.wordpress.com/EknGtonT/applepodcast-2_mp4_dvd.mp4" type="video/mp4; codecs=&quot;avc1.64001E, mp4a.40.2&quot;" /><source src="https://videos.files.wordpress.com/EknGtonT/applepodcast-2_mp4_fmt1.ogv" type="video/ogg; codecs=&quot;theora, vorbis&quot;" /><div>
+<img alt="" src="https://videos.files.wordpress.com/EknGtonT/applepodcast-2_mp4_dvd.original.jpg" width="640" height="360" />
+        </div></video>
+    </div>
+  </div>
+  <p>Paid podcasts are not a new concept; Stratechery launched a paid version of the Daily Update <a href="https://stratechery.com/2020/the-daily-update-podcast/">last February</a>, and <a href="https://dithering.fm/">Dithering</a> (where we covered Apple’s other product announcements <a href="https://twitter.com/ditheringfm/status/1384872892329037826">this morning</a>) last May. Both podcasts are predicated on the fundamentally open nature of RSS: every subscriber has a unique feed, which they can add to the podcast player of their choice, including Apple Podcasts (but <a href="https://stratechery.com/2020/dithering-and-the-open-web/">not Spotify</a>). It’s a little clumsy, but it works:</p>
+  <div align="center">
+    <div id="v-07vkB2SE-1" class="video-player">
+      <video id="v-07vkB2SE-1-video" width="640" height="572" poster="https://videos.files.wordpress.com/07vkB2SE/stratechery-subscribe-flow_mp4_dvd.original.jpg" controls="true" preload="metadata" dir="ltr" lang="en"><source src="https://videos.files.wordpress.com/07vkB2SE/stratechery-subscribe-flow_mp4_dvd.mp4" type="video/mp4; codecs=&quot;avc1.64001E, mp4a.40.2&quot;" /><source src="https://videos.files.wordpress.com/07vkB2SE/stratechery-subscribe-flow_mp4_fmt1.ogv" type="video/ogg; codecs=&quot;theora, vorbis&quot;" /><div>
+<img alt="" src="https://videos.files.wordpress.com/07vkB2SE/stratechery-subscribe-flow_mp4_dvd.original.jpg" width="640" height="572" />
+        </div></video>
+    </div>
+  </div>
+  <p>Apple’s solution looks far easier to use:</p>
+  <p><a href="https://www.apple.com/newsroom/2021/04/apple-leads-the-next-chapter-of-podcasting-with-apple-podcasts-subscriptions/"><img loading="lazy" src="https://stratechery.com/wp-content/uploads/2021/04/applepodcast-1-1024x575.png" alt="" width="640" height="359" class="aligncenter size-large wp-image-5798" srcset="https://stratechery.com/wp-content/uploads/2021/04/applepodcast-1-1024x575.png 1024w, https://stratechery.com/wp-content/uploads/2021/04/applepodcast-1-300x169.png 300w, https://stratechery.com/wp-content/uploads/2021/04/applepodcast-1-768x431.png 768w, https://stratechery.com/wp-content/uploads/2021/04/applepodcast-1-1122x630.png 1122w, https://stratechery.com/wp-content/uploads/2021/04/applepodcast-1.png 1280w" sizes="(max-width: 640px) 100vw, 640px" /></a></p>
+  <p>The company didn’t actually show the subscription flow in action, but it seems like a safe bet that it will operate similarly to an app subscription flow: hit a button, scan your face, and you’re good to go. Apple’s pricing is the same as apps as well: 30% for the first year of a subscription, and 15% after that.</p>
+  <p>As a <a href="https://stratechery.com/2013/papering-over-app-store-problems/">longstanding</a> | <a href="https://stratechery.com/2015/from-products-to-platforms/">critic</a> | <a href="https://stratechery.com/2018/antitrust-the-app-store-and-apple/">of</a> | <a href="https://stratechery.com/2020/xscale-and-arm-in-the-cloud-hey-versus-apple-apples-iap-campaign/">the</a> <a href="https://stratechery.com/2020/apple-epic-and-the-app-store/">App Store</a>, you might expect me to be scandalized by Apple’s podcast subscription offering…and you would be wrong! In fact, Apple’s podcast offering is an excellent example of how the App Store <em>should</em> operate (with one big exception).</p>
+  <h4 id="what-podcast-subscriptions-gets-right">What Podcast Subscriptions Gets Right</h4>
+  <p>Apple’s podcast subscription offering gets four big things right, three of which are the complete opposite of the App Store.</p>
+  <p><strong>A Great Customer Experience with Competitive Creator Economics</strong></p>
+  <p>This is the part that podcast subscriptions share with the App Store: it really is a great customer experience, from purchase to subscription tracking to cancellations. This redoubts to creators as well: increased customer trust means an increased conversion rate.</p>
+  <p>Second, because Apple controls the entire experience, they can offer things like trials, early access, or the wholesale substitution of ad-supported episodes with ad-free ones. Integration has value!</p>
+  <p>Third, while 30% is really high, 15% is extremely competitive; a $5/month podcast like Dithering loses 9% of that amount in credit card fees (2.9% + $0.30/charge), plus whatever amount is paid to the subscription management service. Add on the fact that the number one cause of churn is expired or lost credit cards and Apple’s offering — which is far more likely to have an up-to-date credit card attached — is more attractive than it seems.</p>
+  <p>Unfortunately everything else that I like about Apple’s offering is in stark contrast to the App Store.</p>
+  <p><strong>Multiple Ways to Subscribe</strong></p>
+  <p>Some creators may find 30% to be too much (along with the big problem detailed below), but that’s fine: you can still add arbitrary RSS feeds to Apple Podcasts, either via a deep-link like I demonstrated above, or from this screen:</p>
+  <p><img loading="lazy" src="https://stratechery.com/wp-content/uploads/2021/04/applepodcast-2-950x1024.png" alt="Adding a podcast by URL" width="640" height="690" class="aligncenter size-large wp-image-5799" srcset="https://stratechery.com/wp-content/uploads/2021/04/applepodcast-2-950x1024.png 950w, https://stratechery.com/wp-content/uploads/2021/04/applepodcast-2-278x300.png 278w, https://stratechery.com/wp-content/uploads/2021/04/applepodcast-2-768x827.png 768w, https://stratechery.com/wp-content/uploads/2021/04/applepodcast-2-585x630.png 585w, https://stratechery.com/wp-content/uploads/2021/04/applepodcast-2.png 1280w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+  <p>This means that creators have a choice, and that Apple has to win on the merits, and again, there is good reason to believe that Apple can do just that. And if they can’t win on the merits, perhaps they will have to lower their price, or increase the attractiveness of their offering. Competition is a good thing!</p>
+  <p>The App Store, unfortunately, has no alternative. All apps must be installed via the App Store, which Apple says is for security, but is in fact <a href="https://world.hey.com/dhh/the-app-store-is-broken-because-it-wasn-t-designed-to-work-aa479eb5">security theater</a>; the primary reason why bad apps don’t mess up your phone is due to the way that iOS is designed. Theoretically the App Store could also protect you from scams, but that appears to be <a href="https://www.ft.com/content/914ce719-f538-4bd9-9fdf-42220d857d5e">not much of a priority</a>. And why should it be? There is no competition.</p>
+  <p><strong>Easy Access to Alternative Payment Methods</strong></p>
+  <p>Podcasts can contain show notes, and show notes can contain links; these links open in a podcast player’s webview (or in Safari). This is great for subscription-based podcasts: you can load a webview to manage your account, or add on a subscription to your members-only feed:</p>
+  <div align="center">
+    <div id="v-UlV2bmzp-1" class="video-player">
+      <video id="v-UlV2bmzp-1-video" width="296" height="640" poster="https://videos.files.wordpress.com/UlV2bmzp/memberful-pay_mp4_std.original.jpg" controls="true" preload="metadata" dir="ltr" lang="en"><source src="https://videos.files.wordpress.com/UlV2bmzp/memberful-pay_mp4_std.mp4" type="video/mp4; codecs=&quot;avc1.64001E, mp4a.40.2&quot;" /><source src="https://videos.files.wordpress.com/UlV2bmzp/memberful-pay_mp4_fmt1.ogv" type="video/ogg; codecs=&quot;theora, vorbis&quot;" /><div>
+<img alt="" src="https://videos.files.wordpress.com/UlV2bmzp/memberful-pay_mp4_std.original.jpg" width="296" height="640" />
+        </div></video>
+    </div>
+  </div>
+  <p>Once again, this is a fair bit clumsier than simply using Apple’s built-in purchase flows (although Apple Pay helps). That’s ok, though: Apple built the iPhone, and it’s reasonable to argue that they can leverage that advantage to have a superior purchasing experience.</p>
+  <p>Apps, though, can’t load a webview if there is even a hint of a payment option — apps can’t even include <em>words</em> that tell you to visit a website to subscribe. That means that Spotify or Kindle or any number of apps with digital content can do little more than provide users with a login screen, and keep their fingers crossed that users figure out how to sign up on the web on their own. This works for big names, to an extent, but it is much more difficult for smaller players.</p>
+  <p>There is no technical way that Apple can stop apps from linking to a webpage, of course; this provision is enforced by App Review, which somehow seems far more effective in figuring out how to navigate from a privacy policy on a web page to a purchase page (and subsequently rejecting the app) than it is in rooting out scams. Podcasts are in a much better place because they are based on open standards and the open web.</p>
+  <p><strong>Availability of Alternative Podcast Players</strong></p>
+  <p>It is possible that Apple shuts all of these avenues down. The company could end the possibility of adding arbitrary RSS feeds, and it could disable links in show notes. This would, to be clear, be an exceptionally crappy thing to do, but then again:</p>
+  <ul>
+    <li>I think that trying to tax small businesses moving on-line during a lockdown is a pretty crappy thing to do, and that <a href="https://stratechery.com/2020/xscale-and-arm-in-the-cloud-hey-versus-apple-apples-iap-campaign/">didn’t stop Apple</a>.</li>
+    <li>I think that demanding 30% of digital goods that are merely consumed on an iPhone is a pretty crappy thing to do.</li>
+    <li>I think that <a href="https://www.reuters.com/article/us-facebook-apple-exclusive/exclusive-facebook-says-apple-rejected-its-attempt-to-tell-users-about-app-store-fees-idUSKBN25O042?il=0">barring developers from even disclosing that Apple is taking 30%</a> is a pretty crappy thing to do.</li>
+  </ul>
+  <p>The good thing about podcasting is that even if Apple locks the Podcast app down, there are plenty of other podcast apps in the App Store, and most of them are free. Make no mistake, it would be bad for my business if I were shut out from Apple’s podcast app, but at least I would have a chance.</p>
+  <p>That chance doesn’t exist for developers. There are no alternatives to the App Store on the iPhone, and hoping that a customer spends hundreds of dollars and tens of hours switching to Android is completely unrealistic.</p>
+  <h4 id="two-big-problems">Two Big Problems</h4>
+  <p>There does remain two big problems with Apple’s podcast subscription service:</p>
+  <p><strong>Who Owns the Customer</strong></p>
+  <p>As I noted above, I’m actually very open to allowing Apple to be my payment processor; in my experience, though, a critical part of the creator business model is having a direct connection with your customers. That is something Apple simply doesn’t allow. From the <em>Podcasters Program Agreement</em>:</p>
+  <blockquote>
+    <p><strong>Personal Data.</strong> In connection with any Podcaster Content hosted by Apple and made available in Apple Podcasts under this Agreement, You represent and warrant that You and Your personnel, agents, and contractors will not access or otherwise process any information that can be used to uniquely identify or contact an individual (“Personal Data”).</p>
+  </blockquote>
+  <p>This makes it crystal clear that every subscriber that signs up is <em>Apple</em>‘s customer, not mine, and while the revenue may be nice in the short run, it is fundamentally constraining in the long run. I believe that creators will <a href="https://stratechery.com/2021/facebooks-audio-announcements-facebook-and-creators/">increasingly monetize across apps and experiences</a>; Apple, though, won’t even let me email folks to let them know about what is happening beyond the podcast.</p>
+  <p>There is an even more problematic angle to this as well: I noted above that Apple might start locking down its podcast app, which might mean that I want to change to a different platform or monetization method. However, the fact I don’t know who my customers are will make that impossible to communicate.</p>
+  <p>I’m not, in the context of podcasts anyway, saying that what Apple is doing is illegal, and I acknowledge that many customers may prefer this arrangement. As a creator, though, this is a major red flag (developers, meanwhile, also get no contact, but they have no alternatives).</p>
+  <p><strong>The Anticompetitive Angle</strong></p>
+  <p>Apple’s podcast offering, as I laid out above, rightfully competes on the merits with alternative ways of paying for subscription podcasts in the Apple Podcast app. Unfortunately there is a meta competition problem, which is that no one else can offer a podcast subscription service like Apple’s.</p>
+  <p>Spotify is, of course, the other obvious candidate, and the streaming service is currently testing subscription podcasts <a href="https://blog.anchor.fm/streamon">via Anchor</a>. However, when that product launches Spotify will not be able to upsell customers from within the Spotify app, like Apple is from within the Podcast app. Not because it is technically impossible, but because Apple is <a href="https://stratechery.com/2020/apple-epic-and-the-app-store/">leveraging its control of the operating system</a> into control of the App Store into control of apps and now podcast monetization.</p>
+  <h4 id="apples-flipped-motivations">Apple’s Flipped Motivations</h4>
+  <p>To go back to yesterday’s presentation, the obvious reason why Podcasts only warranted a minute of Apple’s time is that the company had so many other cool things to announce:</p>
+  <ul>
+    <li>AirTags and the anonymous iPhone network they tap into are something that only Apple could create, thanks to their integrated model.</li>
+    <li>The new iMac is gorgeous, and, as Apple was careful to point out, uniquely enabled by their industry-leading chips.</li>
+    <li>The latest iPads are full-blown computers in their own right, and even more capable in ways that creators are still figuring out.</li>
+  </ul>
+  <p>Apple even released a great-looking new iPhone color, and finally fixed (?) the Apple Remote.</p>
+  <p>Then again, perhaps Apple spent so little time on podcasts for a rather less attractive reason: while iTunes 4.9 was created to make iPods better, the end game of all of these beautiful devices seems ever more focused on locking in services that make Apple richer; that’s a conversation better saved for Congress.</p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2021-05-05</time>
+        <a href="https://nodebe4.github.io/opinion/2021-05-05/Market-Making-on-the-Internet/">
+          Market-Making on the Internet
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-04-28</time>
+        <a href="https://nodebe4.github.io/opinion/2021-04-28/Spotify-s-Surprise/">
+          Spotify’s Surprise
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-04-12</time>
+        <a href="https://nodebe4.github.io/opinion/2021-04-12/Non-Fungible-Taylor-Swift/">
+          Non-Fungible Taylor Swift
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-03-22</time>
+        <a href="https://nodebe4.github.io/opinion/2021-03-22/Sovereign-Writers-and-Substack/">
+          Sovereign Writers and Substack
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2021-04-21/%E9%BB%8E%E5%AE%89%E5%8F%8B(%E4%B8%8A-%E7%BE%8E%E5%9B%BD-%E5%8D%95%E7%8B%AC-%E9%9D%A2%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%B4%9B%E8%B5%B7%E4%B8%8D%E5%8F%AF%E8%A1%8C-%E8%A7%82%E7%82%B9/">
+            前一篇：黎安友(上）：美国“单独”面对中国崛起不可行｜观点
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2021-04-21/%E8%AA%9E%E6%96%87%E9%99%B6%E8%A9%B1%E5%BB%8A-%E6%8B%86%E8%A7%A3%E5%BC%B5%E6%84%9B%E7%8E%B2%E5%AF%AB%E4%BD%9C%E7%A7%98%E8%A8%A3-%E7%AC%AC%E4%B8%80%E8%AC%9B/">
+            後一篇：【語文陶話廊】拆解張愛玲寫作秘訣：第一講
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2021-04-21/%E9%BB%8E%E5%AE%89%E5%8F%8B(%E4%B8%8A-%E7%BE%8E%E5%9B%BD-%E5%8D%95%E7%8B%AC-%E9%9D%A2%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%B4%9B%E8%B5%B7%E4%B8%8D%E5%8F%AF%E8%A1%8C-%E8%A7%82%E7%82%B9/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2021-04-21/%E8%AA%9E%E6%96%87%E9%99%B6%E8%A9%B1%E5%BB%8A-%E6%8B%86%E8%A7%A3%E5%BC%B5%E6%84%9B%E7%8E%B2%E5%AF%AB%E4%BD%9C%E7%A7%98%E8%A8%A3-%E7%AC%AC%E4%B8%80%E8%AC%9B/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2021-04-28/Spotify-s-Surprise/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2021-04-12/Non-Fungible-Taylor-Swift/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2021-04-21/%E9%BB%8E%E5%AE%89%E5%8F%8B(%E4%B8%8A-%E7%BE%8E%E5%9B%BD-%E5%8D%95%E7%8B%AC-%E9%9D%A2%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%B4%9B%E8%B5%B7%E4%B8%8D%E5%8F%AF%E8%A1%8C-%E8%A7%82%E7%82%B9/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2021-04-21/%E8%AA%9E%E6%96%87%E9%99%B6%E8%A9%B1%E5%BB%8A-%E6%8B%86%E8%A7%A3%E5%BC%B5%E6%84%9B%E7%8E%B2%E5%AF%AB%E4%BD%9C%E7%A7%98%E8%A8%A3-%E7%AC%AC%E4%B8%80%E8%AC%9B/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2021-04-28/Spotify-s-Surprise/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2021-04-12/Non-Fungible-Taylor-Swift/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

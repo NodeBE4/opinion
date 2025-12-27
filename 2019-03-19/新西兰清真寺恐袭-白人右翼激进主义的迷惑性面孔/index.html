@@ -1,0 +1,590 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>新西兰清真寺恐袭：白人右翼激进主义的迷惑性面孔 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+新西兰清真寺恐袭：白人右翼激进主义的迷惑性面孔
+——
+" />
+    <meta property="og:description" content="
+新西兰清真寺恐袭：白人右翼激进主义的迷惑性面孔
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="新西兰清真寺恐袭：白人右翼激进主义的迷惑性面孔" />
+    <meta property="twitter:title" content="新西兰清真寺恐袭：白人右翼激进主义的迷惑性面孔" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fgravitysworm.com%2Fpost%2F183568101032" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://gravitysworm.com/post/183568101032" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://gravitysworm.com/post/183568101032&text=新西兰清真寺恐袭：白人右翼激进主义的迷惑性面孔&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://gravitysworm.com/post/183568101032&title=新西兰清真寺恐袭：白人右翼激进主义的迷惑性面孔" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://gravitysworm.com/post/183568101032&title=新西兰清真寺恐袭：白人右翼激进主义的迷惑性面孔" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=新西兰清真寺恐袭：白人右翼激进主义的迷惑性面孔&body=
+新西兰清真寺恐袭：白人右翼激进主义的迷惑性面孔
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://gravitysworm.com/post/183568101032" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://gravitysworm.com/post/183568101032&title=新西兰清真寺恐袭：白人右翼激进主义的迷惑性面孔&caption=
+新西兰清真寺恐袭：白人右翼激进主义的迷惑性面孔
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=新西兰清真寺恐袭：白人右翼激进主义的迷惑性面孔&url=https://gravitysworm.com/post/183568101032" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>新西兰清真寺恐袭：白人右翼激进主义的迷惑性面孔</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2019-03-19
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#萬有引力之蟲">
+          萬有引力之蟲
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://gravitysworm.com/post/183568101032" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="萬有引力之蟲的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#萬有引力之蟲 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1553019418000-->
+<p><a href="https://gravitysworm.com/post/183568101032">新西兰清真寺恐袭：白人右翼激进主义的迷惑性面孔</a>
+——</p>
+
+<div>
+  <p>澎湃链接：<a href="https://www.thepaper.cn/newsDetail_forward_3154343" target="_blank">https://www.thepaper.cn/newsDetail_forward_3154343</a> <br /></p>
+  <p>新西兰基督城清真寺的恐袭，将国际社会的视线拉到了这个通常是富豪移民首选的国度。与历次恐袭不同的是，凶手Brenton Tarrant在脸书上直播了袭击的过程，同时还发布了74页名为《大置换》的宣言。宣言中，凶手不仅详细论述了自己极端化的过程，更是提出暴力消灭穆斯林移民，重振西方文化的激进愿景。新西兰在国际政治中一直是个边缘的国家，当地的穆斯林人口比例也很低，但这恰恰构成了塔兰特的动机，他声称针对新西兰的恐怖主义行为可以警醒世人，“没有地方是安全的，外来移民入侵了全世界所有的白人领土。” </p>
+  <p>在英语媒体中，这份宣言的广泛流传让围绕基督城恐怖袭击的讨论不再局限于袭击本身。媒体和网民们如同玩解谜游戏般分析凶手在直播、宣言和社交媒体账号中留下的蛛丝马迹，试图拼凑出一幅完整的极端主义画像。 </p>
+  <p>这当然并非右翼恐怖主义分子首次采用类似的宣传手段。2011年7月，挪威的布雷维克同样在袭击当日发布了《欧洲独立宣言》。然而， 八年前，由于数字带宽和资费的限制，网络直播产业还在原始积累阶段；欧美极右翼的兴起被阿拉伯之春和占领华尔街抢去风头，未获得太多关注；4chan的极右翼色彩还未被媒体所揭露，尚能在亚文化圈层独善其身。另外一个重要原因是，布雷维克的宣言长达恐怖的1500多页，一般人并无精力阅读消化，而即使是有兴趣钻研极右心理学的读者，也敌不过残酷的新闻时效性考验。 </p>
+  <p>2019年，一切都变了。激进右翼的全球串联已成共识，数字媒体成了极端主义的温床而非反独裁斗争的工具，连电子游戏都随着吃鸡文化的流行，开始有了主导舆论风向的能力。凶手的宣言，论信息含量和例证远不如布雷维克的版本，论核心观点也并未超越经典的白人至上主义，却对接了时代对极端主义回潮和多元主义失守的更大焦虑。它同时也体现出作者对传播规律和群众心理的谙熟，以及新激进右翼面对政治形势的调试性。 </p>
+  <p><strong>大杂烩与游戏化传播</strong></p>
+  <p>塔兰特的文本体现出的意识形态，相比之前的激进右翼，并没有任何创新发展之处。其论述核心“白人大屠杀”一说，是1990年代欧美新纳粹构建的阴谋论，认为西方社会高生育率移民的大量涌入，移民同化的失败，和白人人口出生率的下降，最终会导致白人种族的灭绝。尽管白人大屠杀的概念是更晚近的发明，这种以外来人口出生率更高而进行的种族歧视并不新鲜。20世纪初美国优生学如火如荼时，主流媒体和宗教杂志纷纷担忧信奉天主教的东欧和南欧的移民生育率过高，最终会替代掉优良的西欧人基因。再往前推，白人对自身族群延续的恐慌也根植于殖民时代对海地等地黑奴起义和黑白混血儿的恐惧。塔兰特在宣言中全盘照抄了这套逻辑，只是更确切地把矛头指向了穆斯林。 </p>
+  <p>面对西方文明的衰落，塔兰特的理想解决方案是新右翼中的种族多元主义(ethnopluralism)。具体来说，种族多元主义回避讨论族群之间本质上的优劣，而是聚焦于各个族裔和宗教“隔离而平等”，反对多元主义社会的族裔混居。这种观点，是本世纪初发轫于欧洲多国的认同主义运动（identitarian movement）的核心意识形态。这一白人民族主义思潮强调欧洲血统的危机意识，也是“反吉哈德运动（counter-jihad movement）”的重要组成部分，后者鼓吹穆斯林将要接管欧洲了。再次，塔兰特几乎是复制粘贴了欧洲新纳粹的惯用话术。 </p>
+  <p>《大置换》的高明之处恰恰不在于这些核心部件，而是成功的情感动员和形象塑造，加上大杂烩式的乱炖美学。换句话说，恰恰是核心意识形态之外的<a href="https://www.vox.com/culture/2019/3/16/18266930/christchurch-shooter-manifesto-memes-subscribe-to-pewdiepie" target="_blank">边角料和冗余信息</a>，将文本神秘化，从而成为激发讨论的焦点。那些有意穿插的段子、概念、人名，来源于新闻报道、流行文化、极右翼最爱的北欧神话，不停在媒体平台上引发并没有必要的连锁反应。恐怕最明显的例子，是围绕保守派网红，“美国转折点”（Turning Point USA）员工坎迪斯·欧文斯（Candace Owens）的争议。在宣言中，塔兰特诡异地声称欧文斯是他激进化过程中最重要的导师。后者旋即在推特上坚决否认，并不合时宜地用了“LOL”，于是再次引发新一轮的争议。大量分析贴已经指出，欧文斯是典型的特朗普支持者，和塔兰特的思想并不一致。另外，欧文斯曾经是自由派，转变成铁杆保守派是在2017年，甚至晚于塔兰特开始策划恐怖袭击的时间。选定她作为目标，可能是因为欧文斯作为少有的黑人女性保守派，打破了保守派是白人男性的刻板印象，最有可能在短时间内激发公众的情绪反应。塔兰特另一个用于转移视线的工具，是YouTube瑞典游戏播主谢尔贝里（Kjellberg, 网名PewDiePie）。谢尔贝里与另类右翼之间多有互动，但并未公开宣扬过更极端的白人至上主义，但这点联系已经足够媒体深挖。仅仅通过甩出一句4Chan上的流行语“请订阅PewDiePie”，塔兰特就收获了谢尔贝里的公开回应，和各种主流媒体的<a href="https://www.nytimes.com/2019/03/15/technology/pewdiepie-new-zealand-shooting.html" target="_blank">科普文章</a>。 </p>
+  <p>翻阅各大媒体对文本的揭密还可以明显看到，大部分流传于报道和社交媒体上的《大置换》内容，不是后半段的宣言正文，反而是开篇这些Q&amp;A中的回答。作者模拟新闻发布会的方式，自问自答地回应一些对他动机和意识形态的疑问。这些回答大多特别简短，就像一段段可以分割的推文；含义模糊，埋下各种迷因、玩笑，不是资深的亚文化研读者很难完全理解。一时捉摸不透的读者，果然也愿意将单个问题截图分享到社交媒体上，为塔兰特进行免费的二次宣传。这种当年布雷维克也采用的方式，在社交媒体和直播时代发挥出了最大的传播威力。<br />既然《大置换》是一个向大众主动公开的文本，不是意外曝出的私人日记或者秘密聊天，它就必定是一种蓄意的宣传。我们并不知道作者的真实意图，很难看出哪些内容是障眼法，哪些是狗哨，哪些又是真情吐露。通过精心制造这样一个长度适中，主题明确，各处夹带亚文化私货的文本迷宫，塔兰特“邀请”众人一起体验自己的思维游戏。费力钻研文本的读者，恰恰容易掉入作者设计的圈套，而不再关注现代恐怖主义本身。 </p>
+  <p><strong>从抵抗到回应：右翼激进主义的新策略</strong></p>
+  <p>塔兰特自称生态法西斯主义者，同时在文本中杂糅了不少左翼的话语。在封面嵌入黑太阳（Black Sun，白人至上群体常用的标志）的八个主题中，至少有四个，也就是一半，和左翼的基本立场有关：工人权利，反帝国主义，环保主义和族群自治。不少人因此认为，不能按照传统的左右翼的思潮来给它明确归类。这似乎也是作者自己的主张，在宣言前述的问答阶段，作者明确表示根据不同的定义方式，他既是右翼，也是左翼，同时还可以是社会主义者。他通过表示曾经是共产主义者和无政府主义者，来暗示自己对各种政治思潮的了如指掌。 </p>
+  <p>一方面来说，这种混合特质是为了混淆视听，分化公众，让读者对一个本来很典型的白人至上主义宣言感到迷惑。它故意挑战主流对左右划分的一元化认识，让大家潜意识中觉得论述者是一个深刻的思想者，是他披荆斩棘站在了意识形态的制高点，俯视着还拘囿在传统左右之争的庸众里。 </p>
+  <p>但是另一方面，对左翼的概念引用虽然不是法西斯组织的主基调，但一直都占据着其中一支有生力量。目前已经解散的新纳粹组织美国传统工人党，纲领中反对资本主义，支持白人劳工阶层和社会福利，提倡环保主义，曾经是这种意识形态的集大成者。前负责人马修·海姆巴赫有句著名的概括：“我们的思想是从右翼民族主义中拿掉资本主义，从左翼社会主义中剔除国际主义。”传统工人党尽管解散，他们的反资本主义立场却正在激进右翼圈中得到更多的认同。《国家》杂志在2017年末的<a href="https://www.thenation.com/article/the-racist-right-looks-left/" target="_blank">深度报告</a>中，详细分析过极右翼逐步拥抱反资本主义立场的过程，从硬核新纳粹组织到更温和的另类右翼活动家，都认为批判新自由主义，指责资本的全球化可以为他们争取到更年轻的支持者。 </p>
+  <p>这种同时从左右的不同方面汲取营养的思路在《大置换》中比比皆是。以环境问题为例，主流的保守派和激进右翼往往持否认态度，更有甚者认为气候变化是进步派转移核心问题的阴谋。但在塔兰特看来，气候变化是个不争的事实，环保主义应该是法西斯主义重要的面向。按照他的逻辑，环保和人口过剩是同一个问题的两面，外来移民是生态灾难的罪魁祸首，所以“生态民族主义才是真正的民族主义”。 </p>
+  <p>这种在环保问题上的立场转型，也代表了如今一些激进右翼的新策略：从抵抗（resisting）左翼到回应（engaging）左翼，从划清界限到模糊界限。他们开始意识到，左翼垄断了太多诸如最低工资和环保议题的话语权。他们通过传媒报道和学术研究，顺势将极右和保守派塑造成没有科学素养的阴谋论者。在环境议题领域，今年以来对绿色新政的争论，又再次给了左翼政客和进步派社会运动不成比例的曝光度。与其继续硬着头皮死扛，让自己隔绝在讨论外，使己方阵营继续被污名化，不如转而承认生态的重要性，并套上一个文明冲突的逻辑，将问题嫁祸于他者。这样，一个进步主义的概念，就被转化成了法西斯的语汇。 </p>
+  <p>同理，对工人阶级、自治主义、福利国家话语的拥抱，也是对外界政治形势的积极反应。2016年后，白人工人阶级的衰落成为媒体热词，给了新纳粹组织新的动员框架。后者只需要在左翼理论里随意挑选几个关键词，就可以把劳工权益包装成种族主义狗哨。他们甚至都不需要阅读任何系统的理论，抄几个左翼政客的口号就可以。这样一种极低的借鉴成本，使得新法西斯主义者得以更灵活地玩弄话语。 </p>
+  <p><strong>激进右翼的“大置换”</strong></p>
+  <p>用底层话语和环保主义等装点门面，不是激进右翼唯一的学习过程。他们对左翼的借鉴，还在于后者持续动员、世界革命的策略。左右激进主义本来就共享对现有政经体制的更彻底拒绝，对颠覆性行动的赞赏，对族群同化等现实渐进道路的批判。因此，激进右翼越发察觉到左翼革命理论的实用性。 </p>
+  <p>当然，他们也并非毫无原则地借鉴。列宁和葛兰西的革命观，法兰克福学派等文化马克思主义者的作品，是更合适的批判性学习对象。经典左翼理论在种族和女性等问题上相对较弱的论述力，确实为激进右翼的“调包”扫除了障碍。激进右翼当然不会去读对阶级和种族交互问题有更深刻洞察的法农、安吉拉·戴维斯和塞德里克· 罗宾逊等。他们需要的只是一种提纯加工后的斗争战略：如何组织起一小撮先锋队，利用一切机会在各个社会制造撕裂，在冲突带来的失序中招募更多革命的后备军。 </p>
+  <p>这个革命性的进程，需要不同国家的白人超越居住国的语境，把单个地区的动荡输出到全世界。这种种族主义版本的世界主义，鼓励的并非是键盘革命家，而是身体力行地走遍世界。布雷维克和塔兰特都喜欢到外国旅行，实地接触不同社会的运作。这种跨境的体验，竟然和一百年前的共产主义和无政府主义者存在相似性，只不过对激进右翼来说，他们的境外接触带来的，是对多元主义更系统的拒绝。 </p>
+  <p>讽刺的是，塔兰特以《大置换》为名抵制穆斯林世界对西方文化的入侵，却没有提到另一场大置换：激进右翼对左翼斗争战略的挪用，造成了前者在媒体空间和流行文化上对后者的缓慢渗透。当塔兰特点出并指责文化马克思主义者所奉行的通过制度进行的长征（The long march through the institutions），他没有说的是激进右翼面对更严密的审查，恰恰在做类似的阵地战尝试。在线下，他们一边试图打入主流政党的地区性组织，一边通过快闪，装死，传单等方式开展社区行动 。在线上，当推特和脸书提高了言论审查的力度，激进右翼分子转向了游戏社区，通过在线多人游戏<a href="https://www.npr.org/2018/11/05/660642531/right-wing-hate-groups-are-recruiting-video-gamers" target="_blank">招募青少年</a>，通过YouTube、Twitch和Discord频道进行联动，结果是，各路右翼已经占领了主要的游戏圈层。新西兰袭击发生后，并不是只有中国网民在为凶手欢呼雀跃。YouTube和Reddit上出现了大量支持凶手的视频和讨论，大量Steam玩家纷纷<a href="https://www.ign.com/articles/2019/03/15/valve-continues-to-remove-steam-tributes-to-suspected-new-zealand-shooter" target="_blank">更改头像</a>向凶手致敬，互联网平台只能手忙脚乱地删贴。 </p>
+  <p>《大置换》是这种文化斗争阶段性胜利的一个标志。在这样的场合，不管左翼是严肃批判，还是置之不理，都从一开始就输了。恐怖主义者是当之无愧的主角，它设计了这个游戏的代码和剧情，剩下的玩家，不论是崇拜者还是抵抗者，唯有乖乖解谜。这是互联网时代恐怖主义的第二层恐怖 。<br /></p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#萬有引力之蟲 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-07-18/%E9%9F%A7%E6%80%A7%E7%9A%84%E8%89%BA%E6%9C%AF-%E5%BA%9F%E9%99%A4%E8%AD%A6%E5%AF%9F%E5%9F%8E%E8%BF%90%E5%8A%A8%E7%9A%84%E5%90%AF%E7%A4%BA/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2017-11-06/%E5%8D%A0%E9%A2%86%E7%9A%84%E7%BB%84%E7%BB%87%E9%81%97%E4%BA%A7/">最早</a>--</span>
+    
+      <li>
+        <time>2019-06-22</time>
+        <a href="https://nodebe4.github.io/opinion/2019-06-22/%E5%82%AC%E6%B3%AA%E5%BC%B9%E4%B8%8E%E9%98%B2%E6%9A%B4%E5%B7%A5%E4%B8%9A%E7%9A%84%E5%8E%86%E5%8F%B2/">
+          催泪弹与防暴工业的历史
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-06-03</time>
+        <a href="https://nodebe4.github.io/opinion/2019-06-03/%E5%90%8E%E5%86%B7%E6%88%98%E5%B9%B4%E4%BB%A3%E7%9A%84%E5%85%AB%E4%B9%9D%E5%85%AD%E5%9B%9B/">
+          后冷战年代的八九六四
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2018-09-04</time>
+        <a href="https://nodebe4.github.io/opinion/2018-09-04/%E7%BA%BD%E7%BA%A6%E6%BF%80%E8%BF%9B%E6%B4%BE%E4%B8%8E-%E6%9D%91%E5%A3%B0-%E4%B9%8B%E6%AD%BB/">
+          纽约激进派与《村声》之死
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2018-07-27</time>
+        <a href="https://nodebe4.github.io/opinion/2018-07-27/Metoo%E4%B8%8E%E5%AE%8C%E7%BE%8E%E7%A4%BE%E4%BC%9A%E8%BF%90%E5%8A%A8%E8%BF%B7%E6%80%9D/">
+          Metoo与完美社会运动迷思
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2019-03-19/%E6%B0%B8%E4%B8%8D%E6%B6%88%E9%80%9D%E7%9A%84%E5%A2%A8%E8%BF%B9-%E7%BE%8E%E5%9B%BD%E6%9B%BE%E6%A0%BC%E6%A1%88%E5%A7%8B%E6%9C%AB/">
+            前一篇：永不消逝的墨迹：美国曾格案始末
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2019-03-20/%E5%85%AD%E5%9B%9B-%E4%B8%89%E5%8D%81%E5%91%A8%E5%B9%B4%E7%BA%AA%E5%BF%B5%E4%B8%8E%E5%8F%8D%E6%80%9D-%E5%8C%97%E7%BE%8E%E5%AD%A6%E8%80%85%E5%AD%A6%E6%9C%AF%E8%AE%A8%E8%AE%BA%E4%BC%9A/">
+            後一篇：“六四”三十周年纪念与反思——北美学者学术讨论会
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2019-03-19/%E6%B0%B8%E4%B8%8D%E6%B6%88%E9%80%9D%E7%9A%84%E5%A2%A8%E8%BF%B9-%E7%BE%8E%E5%9B%BD%E6%9B%BE%E6%A0%BC%E6%A1%88%E5%A7%8B%E6%9C%AB/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2019-03-20/%E5%85%AD%E5%9B%9B-%E4%B8%89%E5%8D%81%E5%91%A8%E5%B9%B4%E7%BA%AA%E5%BF%B5%E4%B8%8E%E5%8F%8D%E6%80%9D-%E5%8C%97%E7%BE%8E%E5%AD%A6%E8%80%85%E5%AD%A6%E6%9C%AF%E8%AE%A8%E8%AE%BA%E4%BC%9A/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2019-06-03/%E5%90%8E%E5%86%B7%E6%88%98%E5%B9%B4%E4%BB%A3%E7%9A%84%E5%85%AB%E4%B9%9D%E5%85%AD%E5%9B%9B/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2018-09-04/%E7%BA%BD%E7%BA%A6%E6%BF%80%E8%BF%9B%E6%B4%BE%E4%B8%8E-%E6%9D%91%E5%A3%B0-%E4%B9%8B%E6%AD%BB/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2019-03-19/%E6%B0%B8%E4%B8%8D%E6%B6%88%E9%80%9D%E7%9A%84%E5%A2%A8%E8%BF%B9-%E7%BE%8E%E5%9B%BD%E6%9B%BE%E6%A0%BC%E6%A1%88%E5%A7%8B%E6%9C%AB/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2019-03-20/%E5%85%AD%E5%9B%9B-%E4%B8%89%E5%8D%81%E5%91%A8%E5%B9%B4%E7%BA%AA%E5%BF%B5%E4%B8%8E%E5%8F%8D%E6%80%9D-%E5%8C%97%E7%BE%8E%E5%AD%A6%E8%80%85%E5%AD%A6%E6%9C%AF%E8%AE%A8%E8%AE%BA%E4%BC%9A/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<萬有引力之蟲>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2019-06-03/%E5%90%8E%E5%86%B7%E6%88%98%E5%B9%B4%E4%BB%A3%E7%9A%84%E5%85%AB%E4%B9%9D%E5%85%AD%E5%9B%9B/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<萬有引力之蟲>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2018-09-04/%E7%BA%BD%E7%BA%A6%E6%BF%80%E8%BF%9B%E6%B4%BE%E4%B8%8E-%E6%9D%91%E5%A3%B0-%E4%B9%8B%E6%AD%BB/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

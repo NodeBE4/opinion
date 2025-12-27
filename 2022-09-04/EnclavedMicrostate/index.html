@@ -1,0 +1,2518 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>EnclavedMicrostate在2022-08-29~2022-09-04的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="EnclavedMicrostate在2022-08-29~2022-09-04的言论" />
+    <meta property="twitter:title" content="EnclavedMicrostate在2022-08-29~2022-09-04的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FAskHistorians%2Fcomments%2Fwzztho%2Fdid_john_glenn_go_to_space_while_serving_as_a%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/AskHistorians/comments/wzztho/did_john_glenn_go_to_space_while_serving_as_a/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/AskHistorians/comments/wzztho/did_john_glenn_go_to_space_while_serving_as_a/&text=EnclavedMicrostate在2022-08-29~2022-09-04的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/AskHistorians/comments/wzztho/did_john_glenn_go_to_space_while_serving_as_a/&title=EnclavedMicrostate在2022-08-29~2022-09-04的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/AskHistorians/comments/wzztho/did_john_glenn_go_to_space_while_serving_as_a/&title=EnclavedMicrostate在2022-08-29~2022-09-04的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=EnclavedMicrostate在2022-08-29~2022-09-04的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/AskHistorians/comments/wzztho/did_john_glenn_go_to_space_while_serving_as_a/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/AskHistorians/comments/wzztho/did_john_glenn_go_to_space_while_serving_as_a/&title=EnclavedMicrostate在2022-08-29~2022-09-04的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=EnclavedMicrostate在2022-08-29~2022-09-04的言论&url=https://old.reddit.com/r/AskHistorians/comments/wzztho/did_john_glenn_go_to_space_while_serving_as_a/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>EnclavedMicrostate在2022-08-29~2022-09-04的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-09-04
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: EnclavedMicrostate</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/AskHistorians/comments/wzztho/did_john_glenn_go_to_space_while_serving_as_a/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#755-did-john-glenn-go-to-space-while-serving-as-a-senator-and-is-he-the-only-politician-ever-to-do-so-submitted-on-2022-08-29-0039430800" id="markdown-toc-755-did-john-glenn-go-to-space-while-serving-as-a-senator-and-is-he-the-only-politician-ever-to-do-so-submitted-on-2022-08-29-0039430800">755: Did John Glenn go to space while serving as a Senator, and is he the only politician ever to do so?, submitted on 2022-08-29 00:39:43+08:00.</a></li>
+  <li><a href="#756-it-is-askhistorians-eleventh-birthday-as-is-tradition-you-may-be-jocular-andor-slightly-cheeky-in-this-thread-submitted-on-2022-08-29-0040030800" id="markdown-toc-756-it-is-askhistorians-eleventh-birthday-as-is-tradition-you-may-be-jocular-andor-slightly-cheeky-in-this-thread-submitted-on-2022-08-29-0040030800">756: It is AskHistorians’ ELEVENTH BIRTHDAY! As is tradition, you may be jocular and/or slightly cheeky in this thread!, submitted on 2022-08-29 00:40:03+08:00.</a></li>
+  <li><a href="#757-kobo-regis-stream-that-that-keeps-on-giving-submitted-on-2022-08-29-0109000800" id="markdown-toc-757-kobo-regis-stream-that-that-keeps-on-giving-submitted-on-2022-08-29-0109000800">757: Kobo Regis stream that that keeps on giving, submitted on 2022-08-29 01:09:00+08:00.</a></li>
+  <li><a href="#758-at-what-point-were-the-nazis-completely-gone-are-they-even-gone-submitted-on-2022-08-29-1142160800" id="markdown-toc-758-at-what-point-were-the-nazis-completely-gone-are-they-even-gone-submitted-on-2022-08-29-1142160800">758: At what point were the Nazis completely “gone”? Are they even gone?, submitted on 2022-08-29 11:42:16+08:00.</a></li>
+  <li><a href="#759-does-the-soviet-union-bear-more-responsibility-for-wwii-submitted-on-2022-08-29-1244580800" id="markdown-toc-759-does-the-soviet-union-bear-more-responsibility-for-wwii-submitted-on-2022-08-29-1244580800">759: Does the Soviet Union bear more responsibility for WWII?, submitted on 2022-08-29 12:44:58+08:00.</a></li>
+  <li><a href="#760-many-former-british-colonies-especially-in-oceania-south-asia-and-the-carribbean-are-quite-keen--to-say-the-least--on-cricket-and-consistently-perform-very-well-at-the-international-level-why-is-this-not-also-the-case-for-canada-submitted-on-2022-08-29-2119090800" id="markdown-toc-760-many-former-british-colonies-especially-in-oceania-south-asia-and-the-carribbean-are-quite-keen--to-say-the-least--on-cricket-and-consistently-perform-very-well-at-the-international-level-why-is-this-not-also-the-case-for-canada-submitted-on-2022-08-29-2119090800">760: Many former British colonies, especially in Oceania, South Asia, and the Carribbean, are quite keen – to say the least – on cricket, and consistently perform very well at the international level. Why is this not also the case for Canada?, submitted on 2022-08-29 21:19:09+08:00.</a></li>
+  <li><a href="#761-look-at-that-smug-face-submitted-on-2022-08-29-2203130800" id="markdown-toc-761-look-at-that-smug-face-submitted-on-2022-08-29-2203130800">761: Look at that Smug face!, submitted on 2022-08-29 22:03:13+08:00.</a></li>
+  <li><a href="#762-rainy-nights---paprika_d-submitted-on-2022-08-30-1559030800" id="markdown-toc-762-rainy-nights---paprika_d-submitted-on-2022-08-30-1559030800">762: Rainy Nights - Paprika_d, submitted on 2022-08-30 15:59:03+08:00.</a></li>
+  <li><a href="#763-tuesday-trivia-war--military-this-thread-has-relaxed-standardswe-invite-everyone-to-participate-submitted-on-2022-08-30-2001160800" id="markdown-toc-763-tuesday-trivia-war--military-this-thread-has-relaxed-standardswe-invite-everyone-to-participate-submitted-on-2022-08-30-2001160800">763: Tuesday Trivia: War &amp; Military! This thread has relaxed standards—we invite everyone to participate!, submitted on 2022-08-30 20:01:16+08:00.</a></li>
+  <li><a href="#military-logistics-of-the-taiping-heavenly-army" id="markdown-toc-military-logistics-of-the-taiping-heavenly-army">Military Logistics of the Taiping Heavenly Army</a>    <ul>
+      <li><a href="#i-acquisition-and-storage" id="markdown-toc-i-acquisition-and-storage">I. Acquisition and Storage</a></li>
+      <li><a href="#ii-distribution" id="markdown-toc-ii-distribution">II. Distribution</a></li>
+      <li><a href="#iii-transport" id="markdown-toc-iii-transport">III. Transport</a></li>
+      <li><a href="#iv-implicatons" id="markdown-toc-iv-implicatons">IV. Implicatons</a></li>
+      <li><a href="#764-how-far-back-does-the-phrase-hold-fast-date-back-to-and-where-did-it-originate-submitted-on-2022-08-31-1116550800" id="markdown-toc-764-how-far-back-does-the-phrase-hold-fast-date-back-to-and-where-did-it-originate-submitted-on-2022-08-31-1116550800">764: How far back does the phrase “hold fast” date back to and where did it originate?, submitted on 2022-08-31 11:16:55+08:00.</a></li>
+      <li><a href="#765-kronii-made-an-important-psa-regarding-shipping-people-together-and-just-drama-starting-in-general-submitted-on-2022-08-31-1425520800" id="markdown-toc-765-kronii-made-an-important-psa-regarding-shipping-people-together-and-just-drama-starting-in-general-submitted-on-2022-08-31-1425520800">765: Kronii made an important PSA regarding shipping people together, and just drama starting in general, submitted on 2022-08-31 14:25:52+08:00.</a></li>
+      <li><a href="#766-who-would-have-succeeded-james-v-of-scotland-if-his-only-surviving-legitimate-child-mary-queen-of-scots-had-been-born-after-his-death-in-1542-instead-of-being-born-6-days-before-his-death-submitted-on-2022-08-31-1934170800" id="markdown-toc-766-who-would-have-succeeded-james-v-of-scotland-if-his-only-surviving-legitimate-child-mary-queen-of-scots-had-been-born-after-his-death-in-1542-instead-of-being-born-6-days-before-his-death-submitted-on-2022-08-31-1934170800">766: Who would have succeeded James V of Scotland if his only surviving legitimate child, Mary Queen of Scots, had been born after his death in 1542 instead of being born 6 days before his death?, submitted on 2022-08-31 19:34:17+08:00.</a></li>
+      <li><a href="#767-short-answers-to-simple-questions--august-31-2022-submitted-on-2022-08-31-2100090800" id="markdown-toc-767-short-answers-to-simple-questions--august-31-2022-submitted-on-2022-08-31-2100090800">767: Short Answers to Simple Questions | August 31, 2022, submitted on 2022-08-31 21:00:09+08:00.</a></li>
+      <li><a href="#768-who-is-responsible-for-why-the-us-disability-system-is-the-way-it-is-how-could-they-do-it-without-a-fuss-being-made-submitted-on-2022-09-02-0917580800" id="markdown-toc-768-who-is-responsible-for-why-the-us-disability-system-is-the-way-it-is-how-could-they-do-it-without-a-fuss-being-made-submitted-on-2022-09-02-0917580800">768: Who is responsible for why the US disability system is the way it is? How could they do it without a fuss being made?, submitted on 2022-09-02 09:17:58+08:00.</a></li>
+      <li><a href="#769-is-this-solzhenitsyn-quote-legit--without-jews-there-would-never-have-been-bolshevism--submitted-on-2022-09-02-1103500800" id="markdown-toc-769-is-this-solzhenitsyn-quote-legit--without-jews-there-would-never-have-been-bolshevism--submitted-on-2022-09-02-1103500800">769: Is this Solzhenitsyn quote legit? — “Without Jews there would never have been Bolshevism. …”, submitted on 2022-09-02 11:03:50+08:00.</a></li>
+      <li><a href="#770-how-did-the-pkk-begin-recruiting-folks-or-more-broader-if-anyone-knows-how-a-rebel-group-recruits-submitted-on-2022-09-02-1140110800" id="markdown-toc-770-how-did-the-pkk-begin-recruiting-folks-or-more-broader-if-anyone-knows-how-a-rebel-group-recruits-submitted-on-2022-09-02-1140110800">770: How did the PKK begin recruiting folks? Or, more broader, if anyone knows how a rebel group recruits?, submitted on 2022-09-02 11:40:11+08:00.</a></li>
+      <li><a href="#771-what-is-the-most-likely-etymology-of-the-goddess-athena-submitted-on-2022-09-02-1307560800" id="markdown-toc-771-what-is-the-most-likely-etymology-of-the-goddess-athena-submitted-on-2022-09-02-1307560800">771: What is the most likely etymology of the goddess Athena?, submitted on 2022-09-02 13:07:56+08:00.</a></li>
+      <li><a href="#772-were-there-any-other-islands-other-than-great-britain-and-japan-that-held-a-lot-of-power-compared-to-their-size-submitted-on-2022-09-02-1343150800" id="markdown-toc-772-were-there-any-other-islands-other-than-great-britain-and-japan-that-held-a-lot-of-power-compared-to-their-size-submitted-on-2022-09-02-1343150800">772: Were there any other islands other than Great Britain and Japan that held a lot of power compared to their size?, submitted on 2022-09-02 13:43:15+08:00.</a></li>
+      <li><a href="#773-question-was-babur-related-to-genghis-khan-through-chagatai-khan-submitted-on-2022-09-02-1359440800" id="markdown-toc-773-question-was-babur-related-to-genghis-khan-through-chagatai-khan-submitted-on-2022-09-02-1359440800">773: Question: Was Babur related to Genghis Khan through Chagatai Khan?, submitted on 2022-09-02 13:59:44+08:00.</a></li>
+      <li><a href="#774-free-for-all-friday-02-september-2022-submitted-on-2022-09-02-1900110800" id="markdown-toc-774-free-for-all-friday-02-september-2022-submitted-on-2022-09-02-1900110800">774: Free for All Friday, 02 September 2022, submitted on 2022-09-02 19:00:11+08:00.</a></li>
+      <li><a href="#775-several-thesis-questions-submitted-on-2022-09-03-0701040800" id="markdown-toc-775-several-thesis-questions-submitted-on-2022-09-03-0701040800">775: Several thesis questions?, submitted on 2022-09-03 07:01:04+08:00.</a></li>
+      <li><a href="#776-what-your-favorite-unreliable-or-conflicting-historical-narrative-submitted-on-2022-09-03-0954260800" id="markdown-toc-776-what-your-favorite-unreliable-or-conflicting-historical-narrative-submitted-on-2022-09-03-0954260800">776: What your favorite unreliable or conflicting historical narrative?, submitted on 2022-09-03 09:54:26+08:00.</a></li>
+      <li><a href="#777-uno-card-meaning-submitted-on-2022-09-03-1511340800" id="markdown-toc-777-uno-card-meaning-submitted-on-2022-09-03-1511340800">777: UNO card meaning, submitted on 2022-09-03 15:11:34+08:00.</a></li>
+      <li><a href="#778-irys-was-very-hyper-and-excited-last-night-because-of-the-progress-on-her-new-looks-submitted-on-2022-09-04-0037360800" id="markdown-toc-778-irys-was-very-hyper-and-excited-last-night-because-of-the-progress-on-her-new-looks-submitted-on-2022-09-04-0037360800">778: IRyS was very hyper and excited last night because of the progress on her new looks, submitted on 2022-09-04 00:37:36+08:00.</a></li>
+      <li><a href="#779-hobby-scuffles-week-of-september-5-2022-poll-submitted-on-2022-09-04-2300120800" id="markdown-toc-779-hobby-scuffles-week-of-september-5-2022-poll-submitted-on-2022-09-04-2300120800">779: [Hobby Scuffles] Week of September 5, 2022 (Poll), submitted on 2022-09-04 23:00:12+08:00.</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="755-did-john-glenn-go-to-space-while-serving-as-a-senator-and-is-he-the-only-politician-ever-to-do-so-submitted-on-2022-08-29-0039430800">755: <a href="https://old.reddit.com/r/AskHistorians/comments/wzztho/did_john_glenn_go_to_space_while_serving_as_a/">Did John Glenn go to space while serving as a Senator, and is he the only politician ever to do so?</a>, submitted on 2022-08-29 00:39:43+08:00.</h3>
+
+<p>—– <strong>755.1</strong> —–2022-08-29 00:41:25+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="756-it-is-askhistorians-eleventh-birthday-as-is-tradition-you-may-be-jocular-andor-slightly-cheeky-in-this-thread-submitted-on-2022-08-29-0040030800">756: <a href="https://old.reddit.com/r/AskHistorians/comments/wzztsi/it_is_askhistorians_eleventh_birthday_as_is/">It is AskHistorians’ ELEVENTH BIRTHDAY! As is tradition, you may be jocular and/or slightly cheeky in this thread!</a>, submitted on 2022-08-29 00:40:03+08:00.</h3>
+
+<p>—– <strong>756.1</strong> —–2022-08-29 01:00:08+08:00:</p>
+
+<p>Terrifying to imagine that AskHistorians is now a tween!</p>
+
+<p>—– <strong>756.2</strong> —–2022-08-29 21:36:35+08:00:</p>
+
+<p>I can’t claim to have discovered them for particularly amazing reasons, purely that we apparently share VTuber oshis.</p>
+
+<h3 id="757-kobo-regis-stream-that-that-keeps-on-giving-submitted-on-2022-08-29-0109000800">757: <a href="https://old.reddit.com/r/Hololive/comments/x00hwc/kobo_regis_stream_that_that_keeps_on_giving/">Kobo Regis stream that that keeps on giving</a>, submitted on 2022-08-29 01:09:00+08:00.</h3>
+
+<p>—– <strong>757.1</strong> —–2022-08-29 13:37:05+08:00:</p>
+
+<blockquote>
+  <p>Noel has shifted some attention to Shuba</p>
+</blockquote>
+
+<p>This can be a bit misunderstood – to paraphrase Noel herself, <a href="https://youtu.be/4TaTV1EQ2Zs?t=482">‘Subaru is my oshi, Flare is <em>[kiss noises]</em>.’</a></p>
+
+<p>—– <strong>757.2</strong> —–2022-08-29 13:40:14+08:00:</p>
+
+<p>You might be conflating it a bit with Nijisanji’s Tomoe and Kana (aka Crossick), who have quite publicly tried to downplay the existence of a ship dynamic at least at present. Noel and Flare definitely dropped aspects that were being ‘played up for the camera’ so to speak around this time last year, but they’ve not really overtly said to cut it out the way Kiara did.</p>
+
+<h3 id="758-at-what-point-were-the-nazis-completely-gone-are-they-even-gone-submitted-on-2022-08-29-1142160800">758: <a href="https://old.reddit.com/r/AskHistorians/comments/x0eloo/at_what_point_were_the_nazis_completely_gone_are/">At what point were the Nazis completely “gone”? Are they even gone?</a>, submitted on 2022-08-29 11:42:16+08:00.</h3>
+
+<p>—– <strong>758.1</strong> —–2022-08-29 13:43:32+08:00:</p>
+
+<p>This submission has been removed because it violates our <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events">‘20-Year Rule’</a>. To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult <a href="https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/">this Rules Roundtable</a>.</p>
+
+<h3 id="759-does-the-soviet-union-bear-more-responsibility-for-wwii-submitted-on-2022-08-29-1244580800">759: <a href="https://old.reddit.com/r/AskHistorians/comments/x0fsdy/does_the_soviet_union_bear_more_responsibility/">Does the Soviet Union bear more responsibility for WWII?</a>, submitted on 2022-08-29 12:44:58+08:00.</h3>
+
+<p>—– <strong>759.1</strong> —–2022-08-29 13:42:41+08:00:</p>
+
+<p>This question has been removed because it is <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22soapboxing.22_or_loaded_questions.">soapboxing</a> or otherwise a <a href="https://www.reddit.com/r/AskHistorians/comments/glq47z/rules_roundtable_xiii_soapboxing_loaded_questions/">loaded question</a>: it has the effect of promoting an existing interpretation or opinion at the expense of open-ended enquiry. Although we understand if you may have an existing interest in the topic, expressing a detailed opinion on the matter in your question is usually a sign that it is a loaded one, and we will remove questions that appear to put a deliberate slant on their subject or solicit answers that align with a specific pre-existing view.</p>
+
+<h3 id="760-many-former-british-colonies-especially-in-oceania-south-asia-and-the-carribbean-are-quite-keen--to-say-the-least--on-cricket-and-consistently-perform-very-well-at-the-international-level-why-is-this-not-also-the-case-for-canada-submitted-on-2022-08-29-2119090800">760: <a href="https://old.reddit.com/r/AskHistorians/comments/x0olcj/many_former_british_colonies_especially_in/">Many former British colonies, especially in Oceania, South Asia, and the Carribbean, are quite keen – to say the least – on cricket, and consistently perform very well at the international level. Why is this not also the case for Canada?</a>, submitted on 2022-08-29 21:19:09+08:00.</h3>
+
+<p>—– <strong>760.1</strong> —–2022-08-29 22:04:03+08:00:</p>
+
+<p>Ah, thanks for the link, and thanks u/McFoodBot!</p>
+
+<p>—– <strong>760.2</strong> —–2022-08-29 23:51:15+08:00:</p>
+
+<p>Thanks! The point about white vs minority experiences is an especially appreciated one.</p>
+
+<h3 id="761-look-at-that-smug-face-submitted-on-2022-08-29-2203130800">761: <a href="https://old.reddit.com/r/Hololive/comments/x0pl2e/look_at_that_smug_face/">Look at that Smug face!</a>, submitted on 2022-08-29 22:03:13+08:00.</h3>
+
+<p>—– <strong>761.1</strong> —–2022-08-30 20:29:28+08:00:</p>
+
+<blockquote>
+  <p>For a 10-centimeter thick strip of fabric</p>
+</blockquote>
+
+<p>…10 centimetres thick!?</p>
+
+<p>—– <strong>761.2</strong> —–2022-08-30 23:59:30+08:00:</p>
+
+<p>Around 2-3cm maybe. As a rule of thumb (ha), 2cm is a little over the average width of a finger for an adult male human.</p>
+
+<h3 id="762-rainy-nights---paprika_d-submitted-on-2022-08-30-1559030800">762: <a href="https://old.reddit.com/r/PixelArt/comments/x1d4yn/rainy_nights_paprika_d/">Rainy Nights - Paprika_d</a>, submitted on 2022-08-30 15:59:03+08:00.</h3>
+
+<p>—– <strong>762.1</strong> —–2022-08-30 21:48:51+08:00:</p>
+
+<p>Yung’s café.</p>
+
+<p>—– <strong>762.2</strong> —–2022-08-30 21:49:01+08:00:</p>
+
+<p>Wrong city – it’s Hong Kong.</p>
+
+<h3 id="763-tuesday-trivia-war--military-this-thread-has-relaxed-standardswe-invite-everyone-to-participate-submitted-on-2022-08-30-2001160800">763: <a href="https://old.reddit.com/r/AskHistorians/comments/x1h8oy/tuesday_trivia_war_military_this_thread_has/">Tuesday Trivia: War &amp; Military! This thread has relaxed standards—we invite everyone to participate!</a>, submitted on 2022-08-30 20:01:16+08:00.</h3>
+
+<p>—– <strong>763.1</strong> —–2022-08-31 00:45:53+08:00:</p>
+
+<p>I once wrote a post on the logistics of the Taiping Heavenly Army <a href="https://www.reddit.com/r/AskHistorians/comments/cn9g3n/floating_feature_cry_havoc_and_let_slip_the/ewm4fa7/">during an earlier Military History feature</a>, so it seemed pertinent to repost it on this occasion:</p>
+
+<h1 id="military-logistics-of-the-taiping-heavenly-army">Military Logistics of the Taiping Heavenly Army</h1>
+
+<p>As with last Floating Feature, I’d like to thank a fellow mod, this time /u/Gankom, for suggesting this topic.</p>
+
+<p>As a preamble, I’d like to be indulgent for a moment and include a quote from a somewhat obscure novel by Jules Verne from 1879, titled <em>The Tribulations of a Chinaman in China</em> (<em>Les Tribulations d’un Chinois en Chine</em>). The nineteenth novel in the <em>Voyages Extraordinaires</em> (and hence written after <em>Journey to the Centre of the Earth</em>, <em>20,000 Leagues under the Sea</em> and <em>Around the World in Eighty Days</em>), this piece is set against the backdrop of the post-Taiping period in the Lower Yangtze area, and is the story of one Kin-Fo, a rich young man bored with life who decides, after the failure of a major overseas investment, to take out a life insurance policy and arrange his death, with the payout going to his mentor, Wang (whom he hires as his own assassin), and to his fiancée. Hijinks ensue involving various parties, including bodyguards from the insurance company and a group of ex-Taiping bandits, until Kin-Fo finds out that the whole thing was a setup by Wang to teach him about the value of life, and all live happily ever after (the failure of Kin-Fo’s investment turns out to have been part of a contrived stock manipulation scheme, and he is now utterly loaded). The character of Wang is introduced specifically as an ex-Taiping, lying low after the defeat of the Taiping cause at the hands of the Qing loyalists and British intervention forces, and as part of his description of Wang, Verne has this to say about the Taiping:</p>
+
+<blockquote>
+  <p>The Tai-ping, the declared enemies of the Tartars, having strongly organized for rebellion, wished to replace the ancient dynasty of the Ming. They formed four distinct bands; the first under a black banner, appointed to kill; the second under a red banner, to set fire; the third under a yellow banner, to pillage and rob; and the fourth, under a white banner, were commissioned to provision the other three.</p>
+</blockquote>
+
+<p>Verne is quite obviously broadly incorrect. But he seems to have genuinely done at least a modicum of research – he just seems to have conflated various elements together. The grouping of units under particular coloured banners (yellow, red, blue, white, black) is a feature of early Taiping military ordinances, the mistaken association of the Taiping with Ming revivalism was not an uncommon contemporary perception (see <a href="https://www.reddit.com/r/AskHistorians/comments/cky89u/how_was_the_taiping_rebellion_seen_by_chinas/evseo3z/">my answer on the Japanese response to the Taiping</a> for more); and the use of a black flag specifically to signify ‘no quarter’ is attested in Augustus Lindley’s account of the Taiping, in particular his description of Taiping military arrangements. Much as I’d like to dissect Verne’s version of the Taiping, though, here I mainly want to highlight the third and fourth banners in the quoted passage: pillage and provisioning (which, of course, can be considered two sides of the same coin).</p>
+
+<p>The term ‘logistics’, of course, can cover a whole slew of various activities, many of which could be considered entire spheres of activity in themselves – can, for example, military medicine fall under ‘logistics’? For the purposes of this writeup I’m mainly going to look at three main sub-areas, specifically as regards materiel (supplies and weapons): acquisition, distribution and transport.</p>
+
+<p>Before getting into that, though, a brief overview of Taiping campaigns will be a useful guide to understanding certain logistical measures. Overall, we can distinguish the overall trends of the Taiping Civil War as follows:</p>
+
+<ol>
+  <li>1851-52: The Taiping remain within a core base area in Guangxi, centred on Guiping and latterly Yongan.</li>
+  <li>1852-53: The Taiping vacate Yongan and advance rapidly on the Yangtze, failing to take Changsha but successfully storming (among other places) Wuchang, Hankou, Hanyang, Anqing and Nanjing, but leave no garrisons until after establishing their capital at Nanjing (renamed Tianjing, the ‘Heavenly Capital’).</li>
+  <li>1853-59: Based in Nanjing, most Taiping activity is focussed on consolidating the Lower Yangtze region as far as Qing loyalist troops (Mainly Zeng Guofan’s Hunan Army and Hu Linyi’s Hubei Army) will allow. The eastward limit seems to be Yangzhou, while the westward limit is Wuchang (lost permanently after 1855).</li>
+  <li>1859-62: The Taiping lose ground in the west but manage to press eastward, taking most of Jiangsu except Shanghai, taking all of Jiangxi, and large parts of northern Zhejiang including the treaty port at Ningbo.</li>
+  <li>1862-64: The establishment of new provincial militia forces under Li Hongzhang (Anhui Army, fighting in Jiangsu) and Zuo Zongtang (Chu (a.k.a. New Hunan) Army, fighting in Zhejiang), combined with an Anglo-French intervention campaign, causes the Taiping to be pushed back in the east as well; Nanjing falls to Zeng in July 1864.</li>
+  <li>1864-68: Mopping-up campaigns against Taiping remnants largely concluded by 1866, but Taiping remnants remain at large as members of the Nian rebels in northern China until 1868.</li>
+</ol>
+
+<p>This writeup focusses on periods 2 through 5, as the first and last periods are, comparatively speaking, poorly documented, especially as regards the internal documentation necessary to produce a picture of logistical arrangements.</p>
+
+<h3 id="i-acquisition-and-storage">I. Acquisition and Storage</h3>
+
+<p>For the first two years of the revolt, the Taiping lacked access to major economic bases. Their military resources thus had to be obtained through looting. To give just one example, the breakout from Yongan in 1852 was enabled through the acquisition of gunpowder supplies from nearby towns, according to the confessional statement of Taiping general Li Xiucheng in 1864:</p>
+
+<blockquote>
+  <p>We captured more than ten loads of powder and thus obtained ammunition, without which we would not have been able to get out of this encirclement, because we were besieged in Yongan without a scrap of powder.</p>
+</blockquote>
+
+<p>However, the settling down of the Taiping and their new ability to established fixed depots somewhat altered how resources would be obtained. The <em>Land System of the Heavenly Dynasty</em>, the Taiping ‘manifesto’ issued in early 1854, specified that all food, money and such would be pooled in ‘sacred treasuries’, from which disbursements could be made as necessary. While this centralised system of collection and redistribution may well have been an ideal rather than a reality for civil administration, it did, in the end, appear to have been implemented for military purposes, albeit on a grand scale and perhaps in a manner not quite as utopian and beneficent as suggested in the <em>Land System</em>. Our first indication of the use of a local-scale collection and redistribution system comes from a proclamation issued some time in 1853:</p>
+
+<blockquote>
+  <p>The rice of the farming people of the world and the capital of the merchants all belong to the Heavenly Father. All must be turned over to the sacred treasury; every adult will be allowed one picul, and every child five pecks [of rice] for food.</p>
+</blockquote>
+
+<p>The implication perhaps being that the remainder would be either stored, relocated to a higher-level storage centre, or used for the war effort.</p>
+
+<p>With a fixed capital and a more positional strategy taking hold, the acquisition of supplies now could be done on a much larger scale, as more time could be devoted to it, and because the establishment of permanent depots allowed porters and ships to offload at them and go back to a collection point, rather than the army moving with all it could carry. Two order templates and one edict, likely produced in late 1853 or early 1854, give a clear indication of the simple scale of Taiping resource acquisition at this stage:</p>
+
+<blockquote>
+  <p>I order you, […], to ride in the Left Third Water Battalion, comprising thirteen hundred vessels. Select and lead your troops, and proceed to the regions of Nanchang in Jiangsi and Wuchang in Hubei. There, gather provisions for delivery to the Heavenly Capital. Do not disobey this or make a mistake.</p>
+</blockquote>
+
+<blockquote>
+  <p>You, official […], and brother […], employ eighteen hundred vessels and frighten the [Manchu] demons from Huangzhou and Hanyang. The provisions of rice which you gather must be delivered quickly and completely to the Heavenly Capital by boat. Be certain not to disobey this or make a mistake. It is necessary to be resourceful. The provisions must not be seized by the demons.</p>
+</blockquote>
+
+<blockquote>
+  <p>…North of the Yangtze River, the several places of Huang-p’o, [Huanggang?], and De’an [in Hubei] have been able to frighten the demons away and deliver twenty-three thousand piculs [approx. 1400 metric tonnes] of rice. All of it has been delivered and accepted. This is sufficient to display your resourcefulness and ability.</p>
+</blockquote>
+
+<p>The fact that the Taiping were still taking grain from areas along the Yangtze they had already been suggests that they had not been able to empty the state granaries entirely before reaching the limits of their transport capacity, even if we grant that a harvest season had happened in between (given, of course, the likely disruption of that initial Taiping campaign on agricultural activity.)</p>
+
+<p>—– <strong>763.2</strong> —–2022-08-31 00:46:07+08:00:</p>
+
+<p>The extraction of resources seems, in some cases, to have been so severe as to essentially have cleaned out several major depots of all but the amount necessary to maintain the army based out of it for the season. Qi Rigang, based in Anqing in 1854, responded a request by Shi Fengui in Hubei for resources as follows:</p>
+
+<blockquote>
+  <p>As for your request for the supplying of provisions, gunpowder, and other things, according to the report from younger brother Xun Pingxian… who has just returned to the provincial capital at Jiujiang, the provisions in that place are very low in price at this time. The provisions of this Anhui capital have already been delivered to the Heavenly Capital, and I hope that you will understand and excuse me. Gunpowder and other things have already been sent to Jiujiang, and the Anhui capital also suffers a shortage.</p>
+</blockquote>
+
+<p>Requisitioning and looting generally remained the standard method (as with just about anywhere) of obtaining resources. Evidence of the former comes from an account by a pair of anonymous mercenaries who had fought with the Taiping in 1856, who said, among other things, that it took 1 month and 30,000 people – ‘men, women and children’ – to move the rice stores from Yangzhou to Zhenjiang; and subsequently, on a ‘foray’ northwards, ‘collected as much rice as would serve the City for two years.’ An edict from July 1860 commended general Li Xiucheng for the looted silver and sundry valuables from Suzhou, Hangzhou and Changzhou which he was sending back to Nanjing.</p>
+
+<p>Over time, of course, it is probable that regular agriculture and production enabled a more regular process of obtaining basic supplies, but not all supplies could be produced natively. In particular, the Taiping were always after foreign weapons. Western consular officials confiscated enough weapons from gun-runners that Prosper Giquel, the French customs official at the comparatively minor treaty port at Ningbo, was able to equip a sizeable auxiliary contingent of around 3000 men with them in 1862-4. Western mercenaries were sometimes even involved in relatively mundane tasks to do with supply. George Smith, Augustus Lindley’s successor as head of the 25-strong European contingent based at Suzhou, records in his diary (briefly kept between October and November 1863) several instances of his contingent being occupied mainly with filling shells and cartridges.</p>
+
+<h3 id="ii-distribution">II. Distribution</h3>
+
+<p>While the <em>Land System</em> seems to suggest that resources went into small ‘sacred treasuries’, not all resources obtained were pooled at the local level. Indeed, the opposite extreme could be the case. As discussed earlier, a lot of resources seem to have been moved back to a single central collection point, Nanjing, with relatively limited resources remaining in the region of collection. This sort of resource distribution may go some way towards explaining why the Taiping had difficulty maintaining their early offensive momentum – the prioritisation of establishing the Heavenly Capital meant that resources were being diverted away from theatres of combat in order to sustain the new administrative and ideological centre of the kingdom. An important goal, to be sure, but perhaps not the most militarily prudent. According to the mercenaries from 1856, Nanjing’s granaries held ‘six or seven years’ worth of food in them, which even if an overestimate suggests further that there was an inordinate hoarding of resources far away from where they were more urgently needed.</p>
+
+<p>However, there seems to have been a gradual correction of this problem over time. An undated request for supplies included in a Qing intelligence report from 1855 indicates that local depots had since been established:</p>
+
+<blockquote>
+  <p>I have therefore accordingly prepared a detailed list for submission to Your Excellency the Senior Secretary, with the request that you affix your seal and credentials so that the necessary articles may be obtained from the various yamens [a term for a government office].</p>
+</blockquote>
+
+<p>By 1863, logistical arrangements could be incredibly sophisticated indeed. Three incomplete reports obtained from Changzhou by Charles Gordon’s mercenary contingent indicate that the city had developed a comparatively sophisticated administration, with one set of records from the main stores recording the reception and distribution of basically all resources; one from possibly a secondary armoury showing the movement specifically of gunpowder and ammunition; and one showing the movement of people and civilian supplies in and out of the city. Each covers a month or two, with a header for each day. The first record is by far the most detailed and the most indicative of the level of sophistication. Movements of as small as 5 rolls of green cloth or 25 catties (15kg) of gunpowder and as large as 100,000 copper cash or 1,500 catties (1 tonne) of gunpowder were recorded, as well as their recipients. In all, the records showed that the depot was handling all sorts of items, including money (both copper and silver), wheat, rice, salt, oil, clothes, cannon, gunpowder, bullets, cannon shot, spearheads, spear shafts, flags, parchment, candles, envelopes, and firewood.</p>
+
+<p>One particular subset of distribution of resources was pay. Money was something that the Taping seem to have collected in large amounts, but given precious little away. The 1856 mercenaries received no regular pay besides what they requested, and this pattern seems to have been similar for Taiping troops. One junior officer in March 1854 specifically requested a mere 2,796 copper cash (around 2 ounces of silver) from his superiors for sundry expenses for himself and his 139 troops, while a senior staff officer writing some time around 1853-5 was only willing to request no more than 90 cash per man for the food expenses of himself and his 170 subordinate staff and guards. Mercenaries’ pay may have been a little higher later on. Smith’s 25 men got $400 between them in October 1863 and $340 in November (though a couple had been killed in action in the interim), Smith himself $40, so on average pay seems to have been $16 a month – not a lot, but if rations were being provided then it was at least an added income. Patrick Nellis, an ex-Royal Engineer leading 12 European mercenaries (interestingly, the majority were Greek), expected 4000 cash (4 taels) a day, which would translate to around $180 per month, which at $15 per man is not far off from Smith’s contingent.</p>
+
+<h3 id="iii-transport">III. Transport</h3>
+
+<p>Transportation of these resources required a huge amount of labour and vehicles (in this case, boats and ships). The 1300 vessels forming the Left Third Water Battalion in 1853 or the 30,000 labourers moving rice from Yangzhou in 1856 are indicative enough of the scale of the effort involved. Rather obviously, transport had to be done either over land or over water, but the latter was always inherently more efficient.</p>
+
+<p>By land, you needed porters, and lots of them. The 1856 mercenaries alleged that each Taiping soldier had 3 attached porters – compare the provincial armies, whose soldier-porter ratio was nominally just about the reverse, with 180 porters attached to each battalion of 550. But nominal numbers were just that – nominal, and one might surmise that both armies may have had more or fewer porters as the situation demanded. Officially, the original set of Taiping military ordinances from 1852 had disallowed this use of porters:</p>
+
+<blockquote>
+  <p>1. Let every officer and solider, regular or volunteer, from fifteen years old and upwards, carry with him the necessary military accoutrements, provisions, cooking utensils, oil and salt; let no spear be lacking its shaft.</p>
+</blockquote>
+
+<blockquote>
+  <p>2. Let no able-bodied officer, regular or volunteer, usurp position or title and ride in a sedan chair or on horseback; neither let anyone improperly impress the people into his service.</p>
+</blockquote>
+
+<blockquote>
+  <p>6. Let no one improperly impress the people who sell tea or cooked rice as bearers of burdens; let no one fraudulently appropriate the baggage of any of his fellow soldiers throughout the army.</p>
+</blockquote>
+
+<p>Perhaps, though, this was a result of the need for mobility during the early mobile campaigns, where said porters were likely to want to return home rather than be dragged across China with a rebel army. The ordinances also emphasise measures to avoid disrupting the rate of march:</p>
+
+<blockquote>
+  <p>7. Let no one during the march enter the shops, light his lamps and go to sleep, and thus impede the march; but let all, front or rear ranks, maintain their contact, and not attempt to run away.</p>
+</blockquote>
+
+<p>The prohibition on horses and sedan chairs further up also seems to have been relaxed for both senior officers (South King Feng Yunshan was killed near Changsha in a sedan chair) and in subsequent campaigns (where there could be substantial cavalry units), again likely due to the exigencies of early mobility. In the rough terrain of more southerly China, the grain consumption of a horse was less likely to be outweighed by its tactical usefulness in battle or luxury value to an officer.</p>
+
+<p>—– <strong>763.3</strong> —–2022-08-31 00:46:15+08:00:</p>
+
+<p>Hence, boats and ships were ideal. Boats required much less labour to move much more resources much faster (especially downriver). The rapidity of the Taiping campaign on the Yangtze was facilitated in large part by their capturing and requisitioning of boats and ships to move their heavy supplies while their troops marched (perhaps a further reason for the ban on porters), and the snowball effect of being able to capture more every time they came upon a new riverside city. One clear demonstration of this is at the Suoyi Ford ambush in spring 1852, as militia forces destroyed much of the initial Taiping flotilla and halted their advance for several weeks; ex-river pirate Luo Dagang cemented his reputation through his management of water forces subsequently.</p>
+
+<p>River transport remained essential even after the Taiping settled down. Zhang Dejian, author of the 1855 report known as the <em>Zeiqing huizuan</em> (Compendium of Rebel Intelligence), declared that</p>
+
+<blockquote>
+  <p>‘If the Taiping river transportation is frustrated, the rebels at Nanking will disintegrate from within.’</p>
+</blockquote>
+
+<p>In the event, this proved true. Zeng Guofan’s capture of Anqing in September 1861 broke the back of the Taiping supply network and made the capture of Nanjing a matter of when rather than if, the increasingly unlikely prospect of pro-Taiping Western involvement notwithstanding. The effect of the involvement of British steam gunboats was similarly immense in the eastern theatre. The ability to cut key Taiping lines of communication was a crucial part of the speed at which Qing forces in the eastern theatre, backed by Britain and France, were able to capture key cities, compared to the drawn-out sieges that Zeng Guofan had to resort to in the west.</p>
+
+<h3 id="iv-implicatons">IV. Implicatons</h3>
+
+<p>One of the big questions about the Taiping Civil War has always been why the Taiping didn’t capitalise on their initial offensive advantage and commit fully to an attack on Beijing. Some historians prefer not to speculate, but the ideological-focussed explanation by Rudolf G. Wagner was at least to some extent prompting of some debate. His suggestion was that the Taiping were so ideologically committed to the cause of fulfilling the ‘Heavenly Vision’ through establishing a new state that their strategic focus was essentially centred on Nanjing, and that they fell apart over time due to the simple fact that their utopian experiment failed. But perhaps the explanation is more mundane. After all, there is no evidence that Nanjing was specifically chosen as the Taiping capital from the begining. Indeed, Hong commissioned over 40 mini-essays from local scholars on why doing so was a good idea, suggesting a desperate scramble to justify the decision. Perhaps in military logistics lies the answer.</p>
+
+<p>As has been said, river transport was essential to the Taiping logistical system, but the rivers run out to the sea. There is no stable riverine link from the Yangtze to Beijing – the Grand Canal can be cut manually, and it had already been severely disrupted by the 1851-5 Yellow River floods, which completely redirected the river’s lower reaches. Moreover, it was comparatively narrow, designed to admit grain barges rather than fast gunboats and troop transports. To advance on Beijing meant sacrificing all the Taiping’s prior advantages of speed and secure supply chains. Perhaps the small force dispatched to Beijing in 1854 was not reflective of the level of ideological interest, but the level of logistical feasibility, especially considering a lack of available boats for crossing the Yellow river (most having been relocated to the north bank in advance by the Qing). The expedition had to take a meandering route to a crossing several hundred kilometres to the west before looping back to the capital, while the relief column that marched along the Grand Canal came up upon well-prepared fortifications and was itself destroyed.</p>
+
+<p>While most of this post has been descriptive, I do hope it has nevertheless been a useful reminder or perhaps even first glimpse into the importance of supply and logistics in military activity, and how some of the most important factors in warfare, from the strategic level to the tactical, exist largely behind the front line.</p>
+
+<h3 id="764-how-far-back-does-the-phrase-hold-fast-date-back-to-and-where-did-it-originate-submitted-on-2022-08-31-1116550800">764: <a href="https://old.reddit.com/r/AskHistorians/comments/x22t27/how_far_back_does_the_phrase_hold_fast_date_back/">How far back does the phrase “hold fast” date back to and where did it originate?</a>, submitted on 2022-08-31 11:16:55+08:00.</h3>
+
+<p>—– <strong>764.1</strong> —–2022-08-31 12:26:51+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="765-kronii-made-an-important-psa-regarding-shipping-people-together-and-just-drama-starting-in-general-submitted-on-2022-08-31-1425520800">765: <a href="https://old.reddit.com/r/Hololive/comments/x267x8/kronii_made_an_important_psa_regarding_shipping/">Kronii made an important PSA regarding shipping people together, and just drama starting in general</a>, submitted on 2022-08-31 14:25:52+08:00.</h3>
+
+<p>—– <strong>765.1</strong> —–2022-08-31 21:09:17+08:00:</p>
+
+<blockquote>
+  <p>Fauna keeps getting NTR’d by the community and being left out lol</p>
+</blockquote>
+
+<p>Meanwhile here I am secretly wondering when it will be that people discover Fautame. Watauna? Ceromaki?</p>
+
+<h3 id="766-who-would-have-succeeded-james-v-of-scotland-if-his-only-surviving-legitimate-child-mary-queen-of-scots-had-been-born-after-his-death-in-1542-instead-of-being-born-6-days-before-his-death-submitted-on-2022-08-31-1934170800">766: <a href="https://old.reddit.com/r/AskHistorians/comments/x2b9j7/who_would_have_succeeded_james_v_of_scotland_if/">Who would have succeeded James V of Scotland if his only surviving legitimate child, Mary Queen of Scots, had been born after his death in 1542 instead of being born 6 days before his death?</a>, submitted on 2022-08-31 19:34:17+08:00.</h3>
+
+<p>—– <strong>766.1</strong> —–2022-08-31 20:00:33+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="767-short-answers-to-simple-questions--august-31-2022-submitted-on-2022-08-31-2100090800">767: <a href="https://old.reddit.com/r/AskHistorians/comments/x2d0v7/short_answers_to_simple_questions_august_31_2022/">Short Answers to Simple Questions | August 31, 2022</a>, submitted on 2022-08-31 21:00:09+08:00.</h3>
+
+<p>—– <strong>767.1</strong> —–2022-09-05 22:48:20+08:00:</p>
+
+<p>Hmm, an odd one. While I’ve never heard of Alexander pole-vaulting, there is a relatively well-discussed episode in 325 BCE where he is supposed to have scaled a wall, suddenly realised he had become rather exposed, and jumped down so that he could fight with his back to the wall while he waited for his men to come up in support. This I discuss in some detail (albeit in reference to a rather different question) <a href="https://www.reddit.com/r/AskHistorians/comments/weu67k/a_soothsayer_warned_alexander_that_the_omens/ijujvun/">here</a>, with source quotations that might go some way to explaining the source of the confusion.</p>
+
+<h3 id="768-who-is-responsible-for-why-the-us-disability-system-is-the-way-it-is-how-could-they-do-it-without-a-fuss-being-made-submitted-on-2022-09-02-0917580800">768: <a href="https://old.reddit.com/r/AskHistorians/comments/x3ob0k/who_is_responsible_for_why_the_us_disability/">Who is responsible for why the US disability system is the way it is? How could they do it without a fuss being made?</a>, submitted on 2022-09-02 09:17:58+08:00.</h3>
+
+<p>—– <strong>768.1</strong> —–2022-09-03 09:26:08+08:00:</p>
+
+<p>Sorry, but this response has been removed because we <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_personal_anecdotes">do not allow the personal anecdotes or second-hand stories</a> of users to form the basis of a response. While they can sometimes be quite interesting, the medium and anonymity of this forum does not allow for them to be properly contextualized, nor the source vetted or contextualized.  A more thorough explanation for the reasoning behind this rule can be found in <a href="https://www.reddit.com/r/AskHistorians/comments/fj1kw7/rules_roundtable_vii_no_personal_anecdotes/">this Rules Roundtable</a>. For users who <em>are</em> interested in this more personal type of answer, we would suggest you consider /r/AskReddit.</p>
+
+<h3 id="769-is-this-solzhenitsyn-quote-legit--without-jews-there-would-never-have-been-bolshevism--submitted-on-2022-09-02-1103500800">769: <a href="https://old.reddit.com/r/AskHistorians/comments/x3qii4/is_this_solzhenitsyn_quote_legit_without_jews/">Is this Solzhenitsyn quote legit? — “Without Jews there would never have been Bolshevism. …”</a>, submitted on 2022-09-02 11:03:50+08:00.</h3>
+
+<p>—– <strong>769.1</strong> —–2022-09-02 14:58:46+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="770-how-did-the-pkk-begin-recruiting-folks-or-more-broader-if-anyone-knows-how-a-rebel-group-recruits-submitted-on-2022-09-02-1140110800">770: <a href="https://old.reddit.com/r/AskHistorians/comments/x3r88w/how_did_the_pkk_begin_recruiting_folks_or_more/">How did the PKK begin recruiting folks? Or, more broader, if anyone knows how a rebel group recruits?</a>, submitted on 2022-09-02 11:40:11+08:00.</h3>
+
+<p>—– <strong>770.1</strong> —–2022-09-02 14:59:39+08:00:</p>
+
+<p>Apologies, but we have removed your question in its current form as it breaks our <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">rules concerning the scope of questions</a>. However, it might be that an altered version of your question would fit within our rules, and we encourage you to reword your question to fit the rule. While we do allow questions which ask about general topics without specific bounding by time or space, we do ask that they be clearly phrased and presented in a way that can be answered by an individual historian focusing on only one example which they can write about in good detail.</p>
+
+<p>So for example, if you wanted to ask, “<em>Have people always rebelled against health rules in pandemics?</em>” we would remove the question. As phrased, it asks broadly about many places collectively. However if you ask “<em>In the time and place you study, how did people rebel against health rules in a pandemic?</em>” we would allow the question. As phrased, while still asking broadly, it does so in a way that clearly invites a given expert to write exclusively about their topic of focus! We encourage you to think about rewording your question to fit this rule, and thank you for your understanding. If you are unsure of how best to reshape your question to fit these requirements, <a href="https://www.reddit.com/message/compose/?to=/r/AskHistorians">please reach out to us for assistance</a>.</p>
+
+<h3 id="771-what-is-the-most-likely-etymology-of-the-goddess-athena-submitted-on-2022-09-02-1307560800">771: <a href="https://old.reddit.com/r/AskHistorians/comments/x3sww6/what_is_the_most_likely_etymology_of_the_goddess/">What is the most likely etymology of the goddess Athena?</a>, submitted on 2022-09-02 13:07:56+08:00.</h3>
+
+<p>—– <strong>771.1</strong> —–2022-09-02 15:00:17+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="772-were-there-any-other-islands-other-than-great-britain-and-japan-that-held-a-lot-of-power-compared-to-their-size-submitted-on-2022-09-02-1343150800">772: <a href="https://old.reddit.com/r/AskHistorians/comments/x3tit5/were_there_any_other_islands_other_than_great/">Were there any other islands other than Great Britain and Japan that held a lot of power compared to their size?</a>, submitted on 2022-09-02 13:43:15+08:00.</h3>
+
+<p>—– <strong>772.1</strong> —–2022-09-02 15:00:29+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="773-question-was-babur-related-to-genghis-khan-through-chagatai-khan-submitted-on-2022-09-02-1359440800">773: <a href="https://old.reddit.com/r/AskHistorians/comments/x3tss8/question_was_babur_related_to_genghis_khan/">Question: Was Babur related to Genghis Khan through Chagatai Khan?</a>, submitted on 2022-09-02 13:59:44+08:00.</h3>
+
+<p>—– <strong>773.1</strong> —–2022-09-02 15:00:37+08:00:</p>
+
+<p><strong>Please repost this question to the weekly “<a href="https://www.reddit.com/r/AskHistorians/search?sort=new&amp;restrict_sr=on&amp;q=flair%3ASASQ">Short Answers</a>” thread stickied to the top of the subreddit, which will be the best place to get an answer to this question</strong>; for that reason, we have removed your post here. Standalone questions are <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">intended to be seeking detailed, comprehensive answers</a>, and we ask that <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts">questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts</a> be contained to that thread as they are more likely to receive an answer there. For more information on this rule, <a href="https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/">please see this Rules Roundtable</a>.</p>
+
+<p>Alternatively, if you didn’t mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the ‘Short Answers’ thread would be “Who won the 1932 election?” or “What are some famous natural disasters from the past?”. Versions more appropriate as standalone questions would be “How did FDR win the 1932 election?”, or “In your area of expertise, how did people deal with natural disasters?” If you need some pointers, be sure to check out this <a href="https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/">Rules Roundtable</a> on asking better questions.</p>
+
+<p>Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).</p>
+
+<h3 id="774-free-for-all-friday-02-september-2022-submitted-on-2022-09-02-1900110800">774: <a href="https://old.reddit.com/r/badhistory/comments/x3yjzc/free_for_all_friday_02_september_2022/">Free for All Friday, 02 September 2022</a>, submitted on 2022-09-02 19:00:11+08:00.</h3>
+
+<p>—– <strong>774.1</strong> —–2022-09-03 03:08:48+08:00:</p>
+
+<blockquote>
+  <p>but I suspect it had a not-inconsiderable amount to do with the increased emphasis on Vader’s character and his relationship with Luke.</p>
+</blockquote>
+
+<p>Killing off Tarkin, the most obvious representative of the Imperial bureaucracy, while keeping Vader alive almost certainly also contributed.</p>
+
+<h3 id="775-several-thesis-questions-submitted-on-2022-09-03-0701040800">775: <a href="https://old.reddit.com/r/AskHistorians/comments/x4f35o/several_thesis_questions/">Several thesis questions?</a>, submitted on 2022-09-03 07:01:04+08:00.</h3>
+
+<p>—– <strong>775.1</strong> —–2022-09-03 09:59:50+08:00:</p>
+
+<p>Hi there - unfortunately we have had to remove your question, because <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework">/r/AskHistorians isn’t here to do your homework for you</a>. However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself.</p>
+
+<p>If you have indeed asked a homework question, you should consider resubmitting a question more focused on finding resources and seeking clarification on confusing issues: tell us what you’ve researched so far, what resources you’ve consulted, and what you’ve learned, and we are more likely to approve your question. Please see this <a href="https://www.reddit.com/r/AskHistorians/comments/hplxyf/rules_roundtable_xx_the_no_homework_rule/">Rules Roundtable</a> thread for more information on what makes for the kind of homework question we’d approve. Additionally, if you’re not sure where to start in terms of finding and understanding sources in general, we have a six-part series, “<a href="https://www.reddit.com/r/AskHistorians/wiki/theory#wiki_monday_methods.3A_finding_and_understanding_sources">Finding and Understanding Sources</a>”, which has a wealth of information that may be useful for finding and understanding information for your essay. Finally, other subreddits are likely to be more suitable for help with homework - try looking for help at /r/HomeworkHelp.</p>
+
+<p>Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you <strong>wait for 7 days</strong> and then ask a less open-ended question on the same topic.</p>
+
+<h3 id="776-what-your-favorite-unreliable-or-conflicting-historical-narrative-submitted-on-2022-09-03-0954260800">776: <a href="https://old.reddit.com/r/AskHistorians/comments/x4im62/what_your_favorite_unreliable_or_conflicting/">What your favorite unreliable or conflicting historical narrative?</a>, submitted on 2022-09-03 09:54:26+08:00.</h3>
+
+<p>—– <strong>776.1</strong> —–2022-09-03 10:23:33+08:00:</p>
+
+<p>This submission has been removed because it violates the <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions">rule on poll-type questions</a>. These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the “most”, the “worst”, “unknown”, or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult <a href="https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/">this Roundtable discussion</a>.</p>
+
+<p>For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.</p>
+
+<h3 id="777-uno-card-meaning-submitted-on-2022-09-03-1511340800">777: <a href="https://old.reddit.com/r/ChineseTranslation/comments/x4o798/uno_card_meaning/">UNO card meaning</a>, submitted on 2022-09-03 15:11:34+08:00.</h3>
+
+<p>—– <strong>777.1</strong> —–2022-09-03 17:05:55+08:00:</p>
+
+<p>Just to double-confirm, you’ve got the wrong language; this is Japanese.</p>
+
+<h3 id="778-irys-was-very-hyper-and-excited-last-night-because-of-the-progress-on-her-new-looks-submitted-on-2022-09-04-0037360800">778: <a href="https://old.reddit.com/r/Hololive/comments/x4yqgl/irys_was_very_hyper_and_excited_last_night/">IRyS was very hyper and excited last night because of the progress on her new looks</a>, submitted on 2022-09-04 00:37:36+08:00.</h3>
+
+<p>—– <strong>778.1</strong> —–2022-09-04 17:23:06+08:00:</p>
+
+<p>From what I’m able to tell, the STAY HOME-era model is essentially just a different outfit on the original debut model, and that second outfit got retconned into being Miko’s default outfit, with an updated base model – with the second version of that outfit as the default – added in December 2020. Incidentally, although her ‘default’ outfit is now the second one that came after her debut one was replaced, her updated model does also include the original debut outfit, but she’s only shown it once during New Year’s this year.</p>
+
+<h3 id="779-hobby-scuffles-week-of-september-5-2022-poll-submitted-on-2022-09-04-2300120800">779: <a href="https://old.reddit.com/r/HobbyDrama/comments/x5p0u1/hobby_scuffles_week_of_september_5_2022_poll/">[Hobby Scuffles] Week of September 5, 2022 (Poll)</a>, submitted on 2022-09-04 23:00:12+08:00.</h3>
+
+<p>—– <strong>779.1</strong> —–2022-09-08 14:02:23+08:00:</p>
+
+<p>I’ve said it before and I’ll say it again; that there are still <em>new</em> projects and products being made that are attached to JKR utterly astounds me.</p>
+
+<p>—– <strong>779.2</strong> —–2022-09-11 02:13:41+08:00:</p>
+
+<p>In some cool VTubery news, Hololive has sprung on us the news that Hololive Indonesia’s 1st Generation are all in Japan right now and will be doing 3D debuts in the next week, so that’s definitely hype!</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-09-04</time>
+        <a href="https://nodebe4.github.io/opinion/2022-09-04/theoryofdoom/">
+          theoryofdoom在2022-08-29~2022-09-04的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-09-04</time>
+        <a href="https://nodebe4.github.io/opinion/2022-09-04/Spinkcat/">
+          Spinkcat在2022-08-29~2022-09-04的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-09-01</time>
+        <a href="https://nodebe4.github.io/opinion/2022-09-01/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-08-29~2022-09-04的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-08-28</time>
+        <a href="https://nodebe4.github.io/opinion/2022-08-28/theoryofdoom/">
+          theoryofdoom在2022-08-22~2022-08-28的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-09-03/%E5%86%AF%E8%B1%A1-%E8%AF%91%E6%B3%A8-%E6%88%91%E7%9A%84%E5%BF%83%E5%B0%8A%E4%B8%BB%E4%B8%BA%E5%A4%A7-%E8%B7%AF%E5%8A%A0%E7%A6%8F%E9%9F%B3-1-46-55/">
+            前一篇：冯象（译注）：我的心尊主为大（《路加福音》1:46-55）
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-09-04/HeQinglian/">
+            後一篇：Twitter @He Qinglian: 2022-08-29~2022-09-04
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-09-03/%E5%86%AF%E8%B1%A1-%E8%AF%91%E6%B3%A8-%E6%88%91%E7%9A%84%E5%BF%83%E5%B0%8A%E4%B8%BB%E4%B8%BA%E5%A4%A7-%E8%B7%AF%E5%8A%A0%E7%A6%8F%E9%9F%B3-1-46-55/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-09-04/HeQinglian/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-09-04/Spinkcat/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-09-01/ForeignAffairsMag/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-09-03/%E5%86%AF%E8%B1%A1-%E8%AF%91%E6%B3%A8-%E6%88%91%E7%9A%84%E5%BF%83%E5%B0%8A%E4%B8%BB%E4%B8%BA%E5%A4%A7-%E8%B7%AF%E5%8A%A0%E7%A6%8F%E9%9F%B3-1-46-55/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-09-04/HeQinglian/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-09-04/Spinkcat/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-09-01/ForeignAffairsMag/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

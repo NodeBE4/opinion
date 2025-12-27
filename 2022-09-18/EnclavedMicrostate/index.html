@@ -1,0 +1,2382 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>EnclavedMicrostate在2022-09-12~2022-09-18的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="EnclavedMicrostate在2022-09-12~2022-09-18的言论" />
+    <meta property="twitter:title" content="EnclavedMicrostate在2022-09-12~2022-09-18的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FAskHistorians%2Fcomments%2Fxc200s%2Fhow_did_the_idea_of_the_nine_worthies_hector%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/AskHistorians/comments/xc200s/how_did_the_idea_of_the_nine_worthies_hector/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/AskHistorians/comments/xc200s/how_did_the_idea_of_the_nine_worthies_hector/&text=EnclavedMicrostate在2022-09-12~2022-09-18的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/AskHistorians/comments/xc200s/how_did_the_idea_of_the_nine_worthies_hector/&title=EnclavedMicrostate在2022-09-12~2022-09-18的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/AskHistorians/comments/xc200s/how_did_the_idea_of_the_nine_worthies_hector/&title=EnclavedMicrostate在2022-09-12~2022-09-18的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=EnclavedMicrostate在2022-09-12~2022-09-18的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/AskHistorians/comments/xc200s/how_did_the_idea_of_the_nine_worthies_hector/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/AskHistorians/comments/xc200s/how_did_the_idea_of_the_nine_worthies_hector/&title=EnclavedMicrostate在2022-09-12~2022-09-18的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=EnclavedMicrostate在2022-09-12~2022-09-18的言论&url=https://old.reddit.com/r/AskHistorians/comments/xc200s/how_did_the_idea_of_the_nine_worthies_hector/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>EnclavedMicrostate在2022-09-12~2022-09-18的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-09-18
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: EnclavedMicrostate</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/AskHistorians/comments/xc200s/how_did_the_idea_of_the_nine_worthies_hector/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#795-how-did-the-idea-of-the-nine-worthies-hector-alexander-caesar-joshua-david-judas-maccabeus-arthur-charlemagne-godfrey-of-bouillon-as-exemplars-of-chivalric-virtue-come-to-be-canonised-how-widespread-was-recognition-did-different-places-have-different-versions-of-the-nine-submitted-on-2022-09-12-1123450800" id="markdown-toc-795-how-did-the-idea-of-the-nine-worthies-hector-alexander-caesar-joshua-david-judas-maccabeus-arthur-charlemagne-godfrey-of-bouillon-as-exemplars-of-chivalric-virtue-come-to-be-canonised-how-widespread-was-recognition-did-different-places-have-different-versions-of-the-nine-submitted-on-2022-09-12-1123450800">795: How did the idea of the ‘Nine Worthies’ (Hector, Alexander, Caesar; Joshua, David, Judas Maccabeus; Arthur, Charlemagne, Godfrey of Bouillon) as exemplars of chivalric virtue come to be canonised? How widespread was recognition? Did different places have different versions of the nine?, submitted on 2022-09-12 11:23:45+08:00.</a></li>
+  <li><a href="#796-one-of-the-narratives-i-got-about-the-british-experience-on-the-western-front-of-the-first-world-war-at-school-was-that-the-rum-ration-given-to-soldiers-was-a-critical-part-of-the-war-effort-as-one-would-have-to-be-somewhat-tipsy-to-even-contemplate-going-over-the-top-how-much-of-this-is-true-submitted-on-2022-09-12-1639110800" id="markdown-toc-796-one-of-the-narratives-i-got-about-the-british-experience-on-the-western-front-of-the-first-world-war-at-school-was-that-the-rum-ration-given-to-soldiers-was-a-critical-part-of-the-war-effort-as-one-would-have-to-be-somewhat-tipsy-to-even-contemplate-going-over-the-top-how-much-of-this-is-true-submitted-on-2022-09-12-1639110800">796: One of the narratives I got about (the British experience on the Western Front of) the First World War at school was that the rum ration given to soldiers was a critical part of the war effort, as one would have to be somewhat tipsy to even contemplate going ‘over the top’. How much of this is true?, submitted on 2022-09-12 16:39:11+08:00.</a></li>
+  <li><a href="#797-what-are-the-specific-ways-that-taiping-christianity-differed-from-more-mainstream-versions-of-christianity-submitted-on-2022-09-14-0108560800" id="markdown-toc-797-what-are-the-specific-ways-that-taiping-christianity-differed-from-more-mainstream-versions-of-christianity-submitted-on-2022-09-14-0108560800">797: What are the specific ways that Taiping Christianity differed from more mainstream versions of Christianity?, submitted on 2022-09-14 01:08:56+08:00.</a></li>
+  <li><a href="#798-what-is-a-proto-fascist-and-is-the-term-worth-anything-to-historians-submitted-on-2022-09-14-2113460800" id="markdown-toc-798-what-is-a-proto-fascist-and-is-the-term-worth-anything-to-historians-submitted-on-2022-09-14-2113460800">798: What is a “proto-fascist” and is the term worth anything to historians?, submitted on 2022-09-14 21:13:46+08:00.</a></li>
+  <li><a href="#799-on-google-images-there-are-photos-supposedly-of-hong-xiuquans-son-and-his-cousin-rengan-a-are-these-real-and-b-are-there-photos-of-hong-himself-submitted-on-2022-09-16-1213270800" id="markdown-toc-799-on-google-images-there-are-photos-supposedly-of-hong-xiuquans-son-and-his-cousin-rengan-a-are-these-real-and-b-are-there-photos-of-hong-himself-submitted-on-2022-09-16-1213270800">799: On Google images there are photos supposedly of Hong Xiuquans son and his cousin Rengan, A.) are these real? And B.) are there photos of Hong himself?, submitted on 2022-09-16 12:13:27+08:00.</a></li>
+  <li><a href="#hong-tianguifu-the-young-monarch" id="markdown-toc-hong-tianguifu-the-young-monarch">Hong Tianguifu (The ‘Young Monarch’)</a></li>
+  <li><a href="#hong-rengan-the-shield-king" id="markdown-toc-hong-rengan-the-shield-king">Hong Rengan (The Shield King)</a></li>
+  <li><a href="#hong-xiuquan-the-heavenly-king" id="markdown-toc-hong-xiuquan-the-heavenly-king">Hong Xiuquan (The Heavenly King)</a></li>
+  <li><a href="#other-members-of-the-hong-family" id="markdown-toc-other-members-of-the-hong-family">Other members of the Hong family</a></li>
+  <li><a href="#800-reminds-me-of-the-time-matsuri-met-a-roboco-fan-in-valorant-lmao-submitted-on-2022-09-16-1530520800" id="markdown-toc-800-reminds-me-of-the-time-matsuri-met-a-roboco-fan-in-valorant-lmao-submitted-on-2022-09-16-1530520800">800: Reminds me of the time Matsuri met a Roboco fan in Valorant lmao, submitted on 2022-09-16 15:30:52+08:00.</a></li>
+  <li><a href="#801-has-perry-miniatures-stopped-printing-their-wotr-minis-submitted-on-2022-09-18-0047180800" id="markdown-toc-801-has-perry-miniatures-stopped-printing-their-wotr-minis-submitted-on-2022-09-18-0047180800">801: Has Perry Miniatures stopped printing their WotR minis?, submitted on 2022-09-18 00:47:18+08:00.</a></li>
+  <li><a href="#802-was-the-fengtian-clique-led-by-manchus-submitted-on-2022-09-18-0433550800" id="markdown-toc-802-was-the-fengtian-clique-led-by-manchus-submitted-on-2022-09-18-0433550800">802: Was the Fengtian Clique led by Manchus?, submitted on 2022-09-18 04:33:55+08:00.</a></li>
+  <li><a href="#803-mingqing-military-governorates-submitted-on-2022-09-18-0444380800" id="markdown-toc-803-mingqing-military-governorates-submitted-on-2022-09-18-0444380800">803: Ming/Qing military governorates, submitted on 2022-09-18 04:44:38+08:00.</a></li>
+  <li><a href="#804-when-and-how-did-mandarin-become-the-dominant-lingua-franca-within-china-what-common-languages-were-used-before-mandarins-rise-submitted-on-2022-09-18-0554000800" id="markdown-toc-804-when-and-how-did-mandarin-become-the-dominant-lingua-franca-within-china-what-common-languages-were-used-before-mandarins-rise-submitted-on-2022-09-18-0554000800">804: When, and how, did Mandarin become the dominant lingua franca within China? What common languages were used before Mandarin’s rise?, submitted on 2022-09-18 05:54:00+08:00.</a></li>
+  <li><a href="#805-if-this-is-guras-origin-story-then-why-is-hololive-advertising-that-an-illustrator-will-create-a-character-for-the-auditioner-submitted-on-2022-09-18-0959230800" id="markdown-toc-805-if-this-is-guras-origin-story-then-why-is-hololive-advertising-that-an-illustrator-will-create-a-character-for-the-auditioner-submitted-on-2022-09-18-0959230800">805: If this is Gura’s origin story then why is Hololive advertising that an illustrator will create a character for the auditioner?, submitted on 2022-09-18 09:59:23+08:00.</a></li>
+  <li><a href="#806-did-most-people-knowcare-who-their-king-was-submitted-on-2022-09-18-1003570800" id="markdown-toc-806-did-most-people-knowcare-who-their-king-was-submitted-on-2022-09-18-1003570800">806: Did most people know/care who their king was?, submitted on 2022-09-18 10:03:57+08:00.</a></li>
+  <li><a href="#807-why-were-the-armies-in-the-boshin-war-so-small-submitted-on-2022-09-18-1135500800" id="markdown-toc-807-why-were-the-armies-in-the-boshin-war-so-small-submitted-on-2022-09-18-1135500800">807: Why were the armies in the Boshin War so small?, submitted on 2022-09-18 11:35:50+08:00.</a></li>
+  <li><a href="#808-why-did-it-take-so-long-to-invent-handguns-15th-century-since-the-creation-of-gunpowder-9th-century-submitted-on-2022-09-18-1231150800" id="markdown-toc-808-why-did-it-take-so-long-to-invent-handguns-15th-century-since-the-creation-of-gunpowder-9th-century-submitted-on-2022-09-18-1231150800">808: Why did it take so long to invent handguns (15th century) since the creation of gunpowder (9th century)?, submitted on 2022-09-18 12:31:15+08:00.</a></li>
+  <li><a href="#809-hobby-scuffles-week-of-september-19-2022-submitted-on-2022-09-18-2300130800" id="markdown-toc-809-hobby-scuffles-week-of-september-19-2022-submitted-on-2022-09-18-2300130800">809: [Hobby Scuffles] Week of September 19, 2022, submitted on 2022-09-18 23:00:13+08:00.</a></li>
+</ul>
+
+<h3 id="795-how-did-the-idea-of-the-nine-worthies-hector-alexander-caesar-joshua-david-judas-maccabeus-arthur-charlemagne-godfrey-of-bouillon-as-exemplars-of-chivalric-virtue-come-to-be-canonised-how-widespread-was-recognition-did-different-places-have-different-versions-of-the-nine-submitted-on-2022-09-12-1123450800">795: <a href="https://old.reddit.com/r/AskHistorians/comments/xc200s/how_did_the_idea_of_the_nine_worthies_hector/">How did the idea of the ‘Nine Worthies’ (Hector, Alexander, Caesar; Joshua, David, Judas Maccabeus; Arthur, Charlemagne, Godfrey of Bouillon) as exemplars of chivalric virtue come to be canonised? How widespread was recognition? Did different places have different versions of the nine?</a>, submitted on 2022-09-12 11:23:45+08:00.</h3>
+
+<p>—– <strong>795.1</strong> —–2022-09-13 13:59:18+08:00:</p>
+
+<p>Thanks!</p>
+
+<h3 id="796-one-of-the-narratives-i-got-about-the-british-experience-on-the-western-front-of-the-first-world-war-at-school-was-that-the-rum-ration-given-to-soldiers-was-a-critical-part-of-the-war-effort-as-one-would-have-to-be-somewhat-tipsy-to-even-contemplate-going-over-the-top-how-much-of-this-is-true-submitted-on-2022-09-12-1639110800">796: <a href="https://old.reddit.com/r/AskHistorians/comments/xc7gc8/one_of_the_narratives_i_got_about_the_british/">One of the narratives I got about (the British experience on the Western Front of) the First World War at school was that the rum ration given to soldiers was a critical part of the war effort, as one would have to be somewhat tipsy to even contemplate going ‘over the top’. How much of this is true?</a>, submitted on 2022-09-12 16:39:11+08:00.</h3>
+
+<p>—– <strong>796.1</strong> —–2022-09-14 09:48:00+08:00:</p>
+
+<p>Thanks! Seems like it was indeed more of an ad-hoc process than had been presented.</p>
+
+<h3 id="797-what-are-the-specific-ways-that-taiping-christianity-differed-from-more-mainstream-versions-of-christianity-submitted-on-2022-09-14-0108560800">797: <a href="https://old.reddit.com/r/AskHistorians/comments/xdd47g/what_are_the_specific_ways_that_taiping/">What are the specific ways that Taiping Christianity differed from more mainstream versions of Christianity?</a>, submitted on 2022-09-14 01:08:56+08:00.</h3>
+
+<p>—– <strong>797.1</strong> —–2022-09-14 16:34:49+08:00:</p>
+
+<p>Not to evade the question too much, but the matter of what ‘mainstream versions of Christianity’ would constitute in a nineteenth-century context is not necessarily a simple one to tackle. Even if we just go by what is colloquially called ‘mainstream Christianity’, i.e. Nicene, which encompasses overarching categories of Catholic, Orthodox, and Protestant, we run into a lot of heterogeneity within these categories (take for instance Lutheranism vs Calvinism) as well as differences across them. Transubstantiation is perhaps the most easily discussed (and something that happens to cover both belief and practice at the same time), with the Catholic and Orthodox traditions holding that the wine and bread literally become the blood and flesh of Christ when imbibed, while Protestant denominations hold the Eucharist as purely symbolic (except for the Anglo-Catholic communion although that’s a weird middle ground of doctrinal Catholicism but outside communion with Rome). And that’s not even getting into established offshoots like the Society of Friends (Quakers) – what do we consider ‘mainstream’ and what do we not? What we <em>could</em> do to attempt a more grounded approach is look at missionary accounts and mine them for instances where differences in beliefs are highlighted, but this will generally skew towards the viewpoints of individual evangelists with specific areas of focus in any given document.</p>
+
+<p>I would also add that the usefulness of this question is perhaps debatable, at least in terms of its inherent wider implications. If you asked this question in reference to <a href="https://www.reddit.com/r/AskHistorians/comments/wt8z0a/the_blending_of_the_greek_and_roman_pantheons_is/il5zmnb/">this answer</a> (and if you hadn’t you ought to give it a read) then you’ll probably have absorbed my point that Taiping beliefs and practices were more complicated than simply deviation or adherence to a sort of idealised standard Christianity, and that attempts to catalogue such deviations and similarities have rarely resulted in useful scholarship, as opposed to more intersectional approaches. You will be able to find all sorts of little details on which the Taiping deviated from, say, belief and practice in Anglicanism, but that would not change the Taiping’s own convictions in its commonalities and compatibility of their own.</p>
+
+<p>To use an illustrative example, Taiping Christology was a form of unitarianism in which God and Jesus were separate individuals and in which God alone was actually divine, with Jesus being an intermediate being of higher spiritual status as God’s directly-sired son, but not exactly an object of worship. This, incidentally, was also where Hong Xiuquan fit in. On paper, this absolutely conflicts with Nicene Christianity (the root from which Orthodoxy, Catholicism, and in turn Protestantism derive), in which God and Jesus are consubstantial – what we might consider as distinct aspects of the same being. Indeed, we could if we wanted to point out all the areas where the Taiping’s Christology differed from that codified in the Nicene Creed, or the later Athanasian Creed that affirmed the Chalcedonian doctrine. But doing so would obscure the fact that the Taiping <em>mostly</em> did align with them. While they did not see Jesus as consubstantial with God, they did believe that he existed before the creation of the world, and they did believe in the Resurrection.</p>
+
+<p>Once you get out of these core doctrinal discussions and enter the world of praxis, then we get into extremely diverse territory. The Taiping did not recognise saints, but that puts them no more at odds with Orthodoxy and Catholicism than several ‘low-church’ Protestant denominations (indeed, most Protestant traditions besides Anglicanism). Church services were performed quite differently, and the Taiping only observed some rites that most denominations consider standard. The Eucharist in particular (just to bring things full circle) was not performed, and indeed of the Seven Sacraments of Catholicism, only two – Baptism and Matrimony – existed in roughly similar form among the Taiping. Yet the Taiping did have healing rites, which although very different in form to the Catholic sacraments, still involved, at a core level, an appeal to divine grace either to heal a sick member of the community or to assure a dead member’s ascent to Heaven.</p>
+
+<p>In some ways perhaps the approach I’ve hinted at above is the most useful way of looking at Taiping Christianity – not in terms of specific deviations, but more in terms of how Taiping beliefs and practices approximated or fulfilled equivalent functions to those of ‘mainline’ Christianity, but in a manner shaped by existing patterns of religious thought. What is, in my opinion, the most illustrative form of this is as regards Taiping demonology. The Taiping, not unlike many Christians of the day, believed that malevolent spirits existed and had an effect on the real world, but do not appear to have had the same conception of demons as being immutable and immortal fallen angels. Indeed, the precise origin of demons in Taiping belief are somewhat vague and obscure, but the belief that demons a) existed, b) had come to be worshipped as the gods of Buddhism and Chinese folk religion, and c) therefore had to be destroyed in order that China would be liberated, arguably served as the <em>raison d’être</em> of the Heavenly Kingdom. Taiping soteriology was thus very much framed as being in relation to the practice of demon-worship by the deluded and ignorant, rather than notions of either collective or individual sin in the abstract. But there was still a soteriology, and there was a congruence in the belief that demons affected the real world.</p>
+
+<p>Now, I could enumerate every single difference and we would be here all year, and there are those who have written more detailed works on Taiping religion that are worth consulting – Carl Kilcourse’s <em>Taiping Theology</em> (2017) and Thomas Reilly’s <em>The Taiping Heavenly Kingdom</em> (2004) being the main ones. If you have more specific questions I would be happy to try to tackle them, but as it is there’s only so much I can think to write about on the very broad topic of how the <em>entire</em> belief system of the Taiping measured up against the <em>entire</em> belief system of Chalcedonian Christianity.</p>
+
+<h3 id="798-what-is-a-proto-fascist-and-is-the-term-worth-anything-to-historians-submitted-on-2022-09-14-2113460800">798: <a href="https://old.reddit.com/r/AskHistorians/comments/xe1oze/what_is_a_protofascist_and_is_the_term_worth/">What is a “proto-fascist” and is the term worth anything to historians?</a>, submitted on 2022-09-14 21:13:46+08:00.</h3>
+
+<p>—– <strong>798.1</strong> —–2022-09-15 13:22:09+08:00:</p>
+
+<p>Apologies if this ends up being a slightly tangential question, but how does modern fascism studies see the relationship between fascism and earlier New Imperialism?</p>
+
+<p>I ask as I had recently come across and read George Orwell’s two essays on Rudyard Kipling, the latter of which, from 1942, includes a few statements on how Kipling’s conservative imperialism differed from fascism:</p>
+
+<blockquote>
+  <p>…the first clue to any understanding of Kipling, morally or politically, is the fact that he was not a Fascist. He was further from being one than the most humane or the most ‘progressive’ person is able to be nowadays.</p>
+</blockquote>
+
+<blockquote>
+  <p>Kipling’s outlook is pre-fascist. He still believes that pride comes before a fall and that the gods punish hubris. He does not foresee the tank, the bombing plane, the radio and the secret police, or their psychological results.</p>
+</blockquote>
+
+<blockquote>
+  <p>But in saying this, does not one unsay what I said above about Kipling’s jingoism and brutality? No, one is merely saying that the nineteenth-century imperialist outlook and the modern gangster outlook are two different things… All his confidence, his bouncing vulgar vitality, sprang out of limitations which no Fascist or near-Fascist shares.</p>
+</blockquote>
+
+<blockquote>
+  <p>Although he had no direct connexion with any political party, Kipling was a Conservative, a thing that does not exist nowadays. Those who now call themselves Conservatives are either Liberals, Fascists or the accomplices of Fascists. He identified himself with the ruling power and not with the opposition.</p>
+</blockquote>
+
+<p>Obviously Orwell’s writing reflects a very specific and individual perspective, but to what extent is it argued today that fascism represented a fundamental rupture from 19th century patterns of thought, even militant imperialism?</p>
+
+<p>—– <strong>798.2</strong> —–2022-09-15 17:02:23+08:00:</p>
+
+<p>A lot for me to chew on and think over. Thanks!</p>
+
+<h3 id="799-on-google-images-there-are-photos-supposedly-of-hong-xiuquans-son-and-his-cousin-rengan-a-are-these-real-and-b-are-there-photos-of-hong-himself-submitted-on-2022-09-16-1213270800">799: <a href="https://old.reddit.com/r/AskHistorians/comments/xfh6sb/on_google_images_there_are_photos_supposedly_of/">On Google images there are photos supposedly of Hong Xiuquans son and his cousin Rengan, A.) are these real? And B.) are there photos of Hong himself?</a>, submitted on 2022-09-16 12:13:27+08:00.</h3>
+
+<p>—– <strong>799.1</strong> —–2022-09-16 14:17:39+08:00:</p>
+
+<p>Until recently, the photos you cite of <a href="https://static.wikia.nocookie.net/totalwar-ar/images/5/57/245px-Hong_Tianguifu.png/revision/latest?cb=20190714104250">Hong Tianguifu</a> and <a href="http://taipingrebellion.com/HongRengan.jpg">Hong Rengan</a> were up on the two people’s Wikipedia pages, but I will confess to having always been somewhat sceptical, and I see that in the months or even years since I last visited those pages, the photos have been removed (which is for the better IMO). As you cite three figures, why not go through them in turn?</p>
+
+<h3 id="hong-tianguifu-the-young-monarch">Hong Tianguifu (The ‘Young Monarch’)</h3>
+
+<p>Hong Tianguifu was just under 15 when he was executed by the Qing, having nominally occupied the Heavenly Throne for a mere five and a half months – only one of which was spent in the Taiping capital before it fell to the Qing. It is not Hong Tianguifu in the photo linked earlier, and not only because his clothing does not at all resemble that of known Taiping dress styles. A quick search through on Wikimedia Commons shows that users discovered the actual provenance of the photo and that its claim to being of Hong Tianguifu is a hoax. It is in fact part of <a href="http://mbook.kongfz.com/3424/409394156/">a wedding photo</a> auctioned in 2015, showing an arranged child marriage during the Republican era, half a century after Hong Tianguifu was executed.</p>
+
+<h3 id="hong-rengan-the-shield-king">Hong Rengan (The Shield King)</h3>
+
+<p>The photograph allegedly of Hong Rengan during his time in Hong Kong has very little provenance attached. In English, it only appears on taipingrebellion.com, a very mixed bag as a reference site, although there are at least some Taiwanese and Chinese websites also allegedly depicting him. In reality though, this is not a photo of Hong Rengan at all, as can be seen from the more high-quality versions of the photo in which the subject can very clearly be seen sporting a thick grey moustache (Hong Rengan was in his 30s during his time in Hong Kong). A reverse image search suggests that the subject of the photo may actually be comprador and reformist Zheng Guanyin, at least according to <a href="http://www.zs.gov.cn/ywb/aboutzhongshan/celebrities/content/post_1637860.html">a page on the English-language website for his birthplace, Zhongshan City</a>. How the photo came to be associated with Hong Rengan is unclear.</p>
+
+<h3 id="hong-xiuquan-the-heavenly-king">Hong Xiuquan (The Heavenly King)</h3>
+
+<p>Hong Xiuquan was notoriously reclusive after his coronation, and was never photographed during his lifetime. There are, however, two hand-made images that may be contemporary depictions of him. The <a href="https://upload.wikimedia.org/wikipedia/commons/c/cc/Hong_Xiuquan.jpg">more well-known</a> is an engraving from Yvan and Callery’s sensationalist 1853 work <em>L’Insurrection en Chine</em>, which actually does not purport to depict Hong himself but rather the imagined figure of ‘Tièn-Tè’, distinct from Hong Xiuquan who was identified as one of his subordinates. However, if it was indeed somehow drawn from life, or derived from an image that was, then it is not impossible that the original subject was indeed Hong Xiuquan. The other, which is quite obscure indeed, is <a href="https://web.archive.org/web/20191216095950/https://www.nicholasgrindley.com/06-0616.html">a portrait</a> by the Shanghai painter Tingqua which used to be hosted on an art dealership website but which has since been taken offline (hence the archive.org link). How it came to be painted is unclear, and the colour of the clothing is not what would be expected for Hong Xiuquan, but it is at least more <em>likely</em> to be an authentic rendering. <a href="https://bkimg.cdn.bcebos.com/pic/b64543a98226cffc71c9093bb7014a90f703ea5c?">Seemingly contemporary copies of the painting</a> circulate on parts of the Chinese internet, but again, attribution is tricky.</p>
+
+<h3 id="other-members-of-the-hong-family">Other members of the Hong family</h3>
+
+<p>Many members of the Hong clan actually escaped China in the aftermath of the Taiping War, and we actually have some photos of them. One of Hong Rengan’s sons, Fung Khui-Syu, fled eventually to Guyana, and there are photos of him such as <a href="https://twitter.com/DevonDilly/status/1351205699829821443">this one</a>, and ones of his own sons, compiled <a href="https://twitter.com/JennySiung/status/1441127154511646721">here</a>. There is also an alleged photograph of <a href="https://upload.wikimedia.org/wikipedia/commons/3/3c/%E6%B4%AA%E5%85%A8%E7%A6%8F.jpg?20150820105453">Hong Quanfu</a>, a member of the extended Hong clan although his exact relationship to Xiuquan is unknown; he fled to Southeast Asia before quietly cropping up in Hong Kong and getting roped into a plot to establish a second Heavenly Kingdom in Guangzhou in 1903 (which ended in disaster). So we do have <em>some</em> photographic record of the wider clan, but not of its most key members during the period of the original Heavenly Kingdom.</p>
+
+<p>—– <strong>799.2</strong> —–2022-09-16 23:40:32+08:00:</p>
+
+<p>Unfortunately I’m not well-versed enough in Chinese diaspora dynamics to comment particularly effectively on either. I did once do some digging on the Yang Fuqing claim and found very little to substantiate it, while the Low Yet claim comes from an unreferenced remark in a popular-press book from 1962. While ex-Taiping were certainly part of the waves of trans-Pacific Chinese migration and by extension various criminal and non-criminal societies, I can’t verify anything about those two men in particular.</p>
+
+<p>—– <strong>799.3</strong> —–2022-09-16 23:42:31+08:00:</p>
+
+<p>This was a plot to establish an anti-Qing regime in Guangzhou in 1902, independent of any Tongmenghui involvement and mainly drawing on the old constitutionalists, now fallen from grace after the 1898 coup. I’ve never written about it myself, but the standard account is <a href="https://www.jstor.org/stable/311670">this 1976 article</a> by L. Eve Armentrout.</p>
+
+<h3 id="800-reminds-me-of-the-time-matsuri-met-a-roboco-fan-in-valorant-lmao-submitted-on-2022-09-16-1530520800">800: <a href="https://old.reddit.com/r/Hololive/comments/xfkpzi/reminds_me_of_the_time_matsuri_met_a_roboco_fan/">Reminds me of the time Matsuri met a Roboco fan in Valorant lmao</a>, submitted on 2022-09-16 15:30:52+08:00.</h3>
+
+<p>—– <strong>800.1</strong> —–2022-09-16 21:44:59+08:00:</p>
+
+<blockquote>
+  <p>power level</p>
+</blockquote>
+
+<p>Isn’t ‘power level’ just 4chan speak for how many groups of people you’re bigoted against though?</p>
+
+<h3 id="801-has-perry-miniatures-stopped-printing-their-wotr-minis-submitted-on-2022-09-18-0047180800">801: <a href="https://old.reddit.com/r/wargaming/comments/xgrfik/has_perry_miniatures_stopped_printing_their_wotr/">Has Perry Miniatures stopped printing their WotR minis?</a>, submitted on 2022-09-18 00:47:18+08:00.</h3>
+
+<p>—– <strong>801.1</strong> —–2022-09-18 13:24:27+08:00:</p>
+
+<p>Perry’s own website doesn’t suggest stock issues, have you checked there?</p>
+
+<h3 id="802-was-the-fengtian-clique-led-by-manchus-submitted-on-2022-09-18-0433550800">802: <a href="https://old.reddit.com/r/ChineseHistory/comments/xgwway/was_the_fengtian_clique_led_by_manchus/">Was the Fengtian Clique led by Manchus?</a>, submitted on 2022-09-18 04:33:55+08:00.</h3>
+
+<p>—– <strong>802.1</strong> —–2022-09-18 11:10:08+08:00:</p>
+
+<p>The ethnic definitions of ‘Manchu’ vs ‘Han’ changed over time. While the ‘Banner’/’Manchu’ elision had <em>largely</em> set in by the fall of the Qing, Zhang and Zhao’s specific claims to being Hanjun Bannermen suggests they were still implying something other than full ethnic Manchu status, but rather asserting status as Manchu-adjacent, at least in my view. There’s something to the suggestion that Hanjun (as in Han Bannermen) were, under the Qing, originally conceived of as ethnically distinct from the Han writ large, but whether the Fengtian Clique officers understood this is unclear to me.</p>
+
+<h3 id="803-mingqing-military-governorates-submitted-on-2022-09-18-0444380800">803: <a href="https://old.reddit.com/r/ChineseHistory/comments/xgx5jd/mingqing_military_governorates/">Ming/Qing military governorates</a>, submitted on 2022-09-18 04:44:38+08:00.</h3>
+
+<p>—– <strong>803.1</strong> —–2022-09-18 11:13:41+08:00:</p>
+
+<p>You very much could, and indeed a number of European maps from the 18th and 19th centuries <em>do</em> show a distinction between China Proper and Inner Asia for the Qing. Take for instance <a href="https://upload.wikimedia.org/wikipedia/commons/7/7b/1861_Johnson_Map_of_China_-_Geographicus_-_China-johnson-1861.jpg">this</a>, <a href="https://www.alamy.com/stock-photo-china-china-c1885-antique-map-102562777.html?imageid=8B48E2EA-2C87-4F16-A1F8-011B3452E8FA&amp;p=283958&amp;pn=1&amp;searchId=104a9bdc57960faeda77eeb3b5618f57&amp;searchtype=0">this</a>, <a href="https://www.istockphoto.com/hk/%E5%90%91%E9%87%8F/%E4%B8%AD%E5%9C%8B%E5%B8%9D%E5%9C%8B%E5%8F%A4%E5%9C%96-%E6%97%A5%E6%9C%AC-1897%E5%B9%B4-19%E4%B8%96%E7%B4%80%E5%BE%8C%E6%9C%9F-gm1067458876-285482203">this</a>, and <a href="http://www.emersonkent.com/map_archive/china_1910.htm">this</a>.</p>
+
+<h3 id="804-when-and-how-did-mandarin-become-the-dominant-lingua-franca-within-china-what-common-languages-were-used-before-mandarins-rise-submitted-on-2022-09-18-0554000800">804: <a href="https://old.reddit.com/r/AskHistorians/comments/xgysnd/when_and_how_did_mandarin_become_the_dominant/">When, and how, did Mandarin become the dominant lingua franca within China? What common languages were used before Mandarin’s rise?</a>, submitted on 2022-09-18 05:54:00+08:00.</h3>
+
+<p>—– <strong>804.1</strong> —–2022-09-18 10:56:16+08:00:</p>
+
+<p>While more might be said, a few past answers by /u/keyilan discuss various aspects of your question:</p>
+
+<ul>
+  <li><a href="https://www.reddit.com/r/AskHistorians/comments/1qwgun/how_far_can_i_go_back_in_time_in_china_with/cdhnwkv/">How far can I go back in time in China with modern Mandarin and still communicate with people in court?</a></li>
+  <li><a href="https://www.reddit.com/r/AskHistorians/comments/2npr3g/when_did_mandarin_form_as_a_recognizable_language/">When did Mandarin form as a recognizable language?</a></li>
+  <li><a href="https://www.reddit.com/r/AskHistorians/comments/lm5sai/what_was_widely_spoken_in_china_before_mandarin/gnvc0tn/">What was widely spoken in China before Mandarin Chinese was standardized?</a></li>
+</ul>
+
+<h3 id="805-if-this-is-guras-origin-story-then-why-is-hololive-advertising-that-an-illustrator-will-create-a-character-for-the-auditioner-submitted-on-2022-09-18-0959230800">805: <a href="https://old.reddit.com/r/Hololive/comments/xh42x7/if_this_is_guras_origin_story_then_why_is/">If this is Gura’s origin story then why is Hololive advertising that an illustrator will create a character for the auditioner?</a>, submitted on 2022-09-18 09:59:23+08:00.</h3>
+
+<p>—– <strong>805.1</strong> —–2022-09-19 01:05:47+08:00:</p>
+
+<blockquote>
+  <p>Roboco</p>
+</blockquote>
+
+<p>This seems to be a misconception – the Roboco <em>model</em> predates Hololive, but wasn’t matched with a talent till later.</p>
+
+<h3 id="806-did-most-people-knowcare-who-their-king-was-submitted-on-2022-09-18-1003570800">806: <a href="https://old.reddit.com/r/AskHistorians/comments/xh46jy/did_most_people_knowcare_who_their_king_was/">Did most people know/care who their king was?</a>, submitted on 2022-09-18 10:03:57+08:00.</h3>
+
+<p>—– <strong>806.1</strong> —–2022-09-18 11:13:58+08:00:</p>
+
+<p>Apologies, but we have removed your question in its current form as it breaks our <a href="https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth">rules concerning the scope of questions</a>. However, it might be that an altered version of your question would fit within our rules, and we encourage you to reword your question to fit the rule. While we do allow questions which ask about general topics without specific bounding by time or space, we do ask that they be clearly phrased and presented in a way that can be answered by an individual historian focusing on only one example which they can write about in good detail.</p>
+
+<p>So for example, if you wanted to ask, “<em>Have people always rebelled against health rules in pandemics?</em>” we would remove the question. As phrased, it asks broadly about many places collectively. However if you ask “<em>In the time and place you study, how did people rebel against health rules in a pandemic?</em>” we would allow the question. As phrased, while still asking broadly, it does so in a way that clearly invites a given expert to write exclusively about their topic of focus! We encourage you to think about rewording your question to fit this rule, and thank you for your understanding. If you are unsure of how best to reshape your question to fit these requirements, <a href="https://www.reddit.com/message/compose/?to=/r/AskHistorians">please reach out to us for assistance</a>.</p>
+
+<h3 id="807-why-were-the-armies-in-the-boshin-war-so-small-submitted-on-2022-09-18-1135500800">807: <a href="https://old.reddit.com/r/AskHistorians/comments/xh5zv8/why_were_the_armies_in_the_boshin_war_so_small/">Why were the armies in the Boshin War so small?</a>, submitted on 2022-09-18 11:35:50+08:00.</h3>
+
+<p>—– <strong>807.1</strong> —–2022-09-18 17:17:36+08:00:</p>
+
+<p>The small sizes of armies in the Boshin War really ought not to surprise us in light of the political and military structures of the late Edo period. Simply put, Japan and its domains had not been on a war footing for a <em>very</em> long time, and were still in the process of developing their ability to mobilise manpower and materiel when regional conflict boiled over into civil war in January 1868.</p>
+
+<p>Japan had by no means been totally at peace during the ascendancy of the Edo <em>bakufu</em>, but most domains and even the Shogun’s <em>tenryo</em> had maintained very small standing armies. Moreover, only members of the samurai class (which at this stage included the <em>ashigaru</em>) were formally permitted to bear arms. When, in 1862, a delegation of mostly southwestern samurai visited Shanghai, they were surprised to find that the Qing (at this time still locked in an existential conflict with the Taiping Heavenly Kingdom) relied so heavily on peasant militias in its armies. This may well have served as inspiration for one of its members, Takasugi Shinsaku, when he established the <em>Kiheitai</em> in 1863 and explicitly disregarded social class in its recruitment. The Kiheitai were, however, only one part of a wider movement in Japan to widen the net for military mobilisation. Peasants would be enrolled into the Shogun’s forces from about 1864 onward, at a rate of 1 man per 1000 <em>koku</em> of assessed grain output. However, given that the <em>bakufu</em>’s land value was around 4 million <em>koku</em>, had this policy been sustained then this quota would have produced a mere 4000 peasant conscripts. Expansion, in the case of the <em>bakufu</em>, would be slow and conservative.</p>
+
+<p>The more significant bottleneck, though, was access to weapons and training. Virtually all the domains of Japan at this stage recognised that the only troops worth their salt on the modern battlefield were equipped with modern rifled arms and trained in using them. Those with cold arms could, at most, help swell the ranks. However, such weaponry and expertise could only – in the short to medium term – be found abroad. Rifles would have to be purchased as there was not yet the ability to manufacture them domestically, and instructors would have to come from foreign powers. This was compounded in the case of the <em>bakufu</em> by its limited ability to actually extract its theoretically considerable wealth, as it took time to fund the purchases for the weaponry that it would need to equip a modernised army. It was also hampered in its efforts to solicit foreign training, as British diplomats rebuffed or ignored <em>bakufu</em> requests for support, which led to a gradual pivot towards France that would only really fully manifest in outright military aid beginning in 1867, right on the eve of civil war. For their part, British officers instead began providing their services to the principal anti-<em>bakufu</em> domains, Chōshū and Satsuma.</p>
+
+<p>If we look at these domains, we find that their military power – helped considerably, no doubt, by British support – was actually quite substantial when compared to the <em>bakufu</em>’s. In November 1865, the <em>bakufu</em> army at Ōsaka (including its supporting elements) numbered around 8000, of whom 6000 were properly modernised. By contrast, Chōshū alone was estimated by the <em>bakufu</em>’s sources to be able to raise over 14,000 modernised troops. Granted, these numbers exaggerate the size of the anti-Tokugawa armies on the one hand, and on the other they do not account for domains allied to the Tokugawa clan which raised their own forces. However, these small and scattered entities were unable to provide many modernised troops, and in any event this reliance was quite damning given the ostensibly far greater wealth held by the Shōgun when compared to the rebelling domains of the southwest. Even by the outbreak of war 1868 this number had not increased that considerably (although defeat to Chōshu in 1866 did mean the army had to be reconstituted), with perhaps 7000 modernised <em>bakufu</em> troops – augmented by local auxiliaries and the forces of allied domains – marching northwards to Kyōto to fight at the Battle of Toba-Fushimi. Granted, these troops were the result of further reforms after 1866, but the <em>bakufu</em> was still far from being able to effectively attempt a mass mobilisation for war. By contrast, Chōshū’s early eagerness to recruit peasants and merchants, and its acquisition of foreign arms and expertise thanks to Britain’s faux-neutrality, meant that it and its principal ally, Satsuma, internally assessed that they could assemble at least 20,000 modernised troops between them, along with any forces mobilised by their allies.</p>
+
+<p>Conditions in Japan ca. 1868 were really quite different from those of the Napoleonic Wars or the American Civil War. By the time of the Napoleonic Wars, European states had been on a war footing for centuries and had developed considerable mobilisation systems as well as domestic arms industries. While the French Revolution would see these expand even further, this was built on quite considerable foundations. Impressive as the alleged 1.4 million Frenchmen under arms in 1794 was (though actual strength likely did not exceed 800,000), this was not even an order of magnitude increase over the perhaps 250,000 troops – nearly 400,000 on paper – that the Bourbons could field during the War of the Spanish Succession less than a century earlier. The United and Confederate States may have split a tiny standing army between them, but both had large militias, some level of domestic arms production, and – at least to begin with in the Confederacy’s case – the financial power to purchase weapons from overseas, allowing the two to create high-intensity war efforts off the bat, and for the US to sustain its for the better part of half a decade. The Japanese domains simply did not have the same baseline around which to coordinate a rapid military expansion.</p>
+
+<p>—– <strong>807.2</strong> —–2022-09-18 23:25:38+08:00:</p>
+
+<p>I’m afraid my interest in the Bakumatsu period remains very uneven, so apologies if I can’t provide much detail. The only work <em>of which I know</em> that discusses logistics in the Boshin War is as part of a general chapter on military aspects of the period by Hōya Tōru, but they mainly discuss the arrangements made by the nascent Imperial Army after April 1868. The aspects covered, though, would appear to hold true for most of the period in question and indeed with the general state of early modern military logistics.</p>
+
+<p>Armies would have to consider two dimensions of logistics and supply: requisitions from areas they marched into, which would generally cover food and water and a few miscellanea like clothing, carts and such, but not weapons and ammunition; and supplies carried with an army on the march using carts or porters. Bear in mind that basically until the advent of the railroad, the vital supplies for an army (i.e. food and water) were effectively <em>never</em> carried up to an army from rear areas in any significant quantities unless it was stationary, which was highly unusual outside sieges. Armies marched <em>to</em> areas of supply, not <em>away</em> from them. The capacity for supplies could be expanded by porters and/or animal transport, but these animal transports were used to expand the carrying capacity of an army on the march, rather than to shuttle supplies to and from the force. So in that sense, it <em>could</em> have the infrastructure as long as an army wasn’t so big it exhausted all of a given area’s food faster than it moved through it, which is true of all periods of history. Availability of ammunition, especially modern ammunition, would be more of a potential issue, but not for the hypothetical traditional force described.</p>
+
+<h3 id="808-why-did-it-take-so-long-to-invent-handguns-15th-century-since-the-creation-of-gunpowder-9th-century-submitted-on-2022-09-18-1231150800">808: <a href="https://old.reddit.com/r/AskHistorians/comments/xh71td/why_did_it_take_so_long_to_invent_handguns_15th/">Why did it take so long to invent handguns (15th century) since the creation of gunpowder (9th century)?</a>, submitted on 2022-09-18 12:31:15+08:00.</h3>
+
+<p>—– <strong>808.1</strong> —–2022-09-19 09:50:56+08:00:</p>
+
+<p>So, how you answer this question depends how you define a ‘handgun’. As a modern-day colloquialism, ‘handgun’ is an equivalent term to ‘pistol’, i.e. a firearm small enough to be comfortably wielded with just one hand. However, historically, the term ‘handgun’ emerges out of the ‘hand-gonne’, which referred to any firearm portable enough to be carried in <em>both</em> hands and operated by a single person. These typically took the form of a very small cannon affixed to the end of a small pole for stability. And in that sense, it is pretty uncontroversial to suggest that the <em>first</em> firearms were handguns – using that more archaic definition. I’ve discussed the relevant firearms history in answers such as <a href="https://www.reddit.com/r/AskHistorians/comments/hygja3/it_seems_like_asia_more_specifically_the_chinese/fzdpu4a/">this one</a>, <a href="https://www.reddit.com/r/AskHistorians/comments/ddnnce/saturday_showcase_october_05_2019/f2l6t1o/?context=999">this one</a>, and <a href="https://www.reddit.com/r/AskHistorians/comments/mqf578/how_did_cavalry_retain_its_usefulness_after_the/gugdke9/?context=999">this one</a>.</p>
+
+<p>To try to give a more specific accounting of things in this context, gunpowder’s early military uses were as a relatively stable incendiary, rather than as a propellant. The recognition that certain mixtures might have greater explosive potential was recognised by Chinese weaponmakers, who developed small hand grenades and, eventually, the ‘fire-lance’, first definitively employed in the 1130s but possibly being in limited use as early as 1000. The fire-lance was a single-use device that had a gunpowder charge housed in a typically bamboo tube which was used to project a plume of flame outwards, with variations including metal, stone, or ceramic fragments as well. The general suggestion is that early hand-guns, and in turn larger anti-personnel-calibre cannons, emerged out of making reusable fire-lances with metal chambers instead of bamboo or other organic materials. So depending on whether you count the single-use ‘fire-lance’ or not, we can definitively date the medieval hand-gun to either the 1130s (when the bamboo examples are definitively attested) or the 1290s (when we have the earliest definitive example of a metal gun from western China).</p>
+
+<h3 id="809-hobby-scuffles-week-of-september-19-2022-submitted-on-2022-09-18-2300130800">809: <a href="https://old.reddit.com/r/HobbyDrama/comments/xhiwtl/hobby_scuffles_week_of_september_19_2022/">[Hobby Scuffles] Week of September 19, 2022</a>, submitted on 2022-09-18 23:00:13+08:00.</h3>
+
+<p>—– <strong>809.1</strong> —–2022-09-20 17:20:17+08:00:</p>
+
+<p>An unofficial update on the Marble Machine X saga, if anyone recalls that (if not then <a href="https://www.reddit.com/r/HobbyDrama/comments/w4sh7v/music_engineering_martin_vs_the_marble_machine_x/">this post</a> by /u/Praesil is a good summary):</p>
+
+<p>In June, both the original Marble Machine and the MMX were <a href="https://www.youtube.com/watch?v=Ym7lKEtxhpg">moved to the Siegfrieds Mechanisches Musikkabinett in Rüdesheim, Germany</a> and have since been maintained by a guy called Lukas.</p>
+
+<p>Now, to give some context, ever since Martin said he was suspending development indefinitely, there have been three broad schools of thought regarding the machine’s level of readiness:</p>
+
+<ul>
+  <li>The machine was very near a stage of basic functionality, and Martin abandoned it solely due to perfectionism and demanding a level of precision and error-freeness that couldn’t be achieved in practice.</li>
+  <li>While the machine had reached a level of functionality, the remaining obstacles standing between that and full functionality were actually insurmountable, and a new machine would have to be built from scratch even if Martin loosened his requirements.</li>
+  <li>There were fundamental existing flaws with the machine that meant even its then-current level of functionality was essentially hanging by a thread.</li>
+</ul>
+
+<p>Well, we now have a bit of an answer to that question. Back in late July/early August, a small British-Mexican Youtuber, lemiffe, <a href="https://www.youtube.com/watch?v=wUKPspLzMFg">visited the SMM</a> and spoke with Lukas for a bit. From the video it seems like the MMX was actually in considerably worse shape than even the more pessimistic viewers had believed. To summarise:</p>
+
+<ul>
+  <li>A major control lever was apparently ‘surprisingly difficult to actuate’.</li>
+  <li>A number of elements were damaged or broken, some relatively superficial parts breaking in transit, but others due to extreme wear from poor lubrication.</li>
+  <li>Loosened screws on moving parts went undetected, which led to damage on some of the wood during operation, and the key gear assemblies were no longer running smoothly.</li>
+  <li>In the interests of fine-tuning on the fly, Martin had used obscene quantities of washers – a bad idea in the first place but which also made reassembly difficult because it isn’t clear how many washers should go where. These were also stored badly, having adhered to a welding magnet and thus likely become magnetised themselves.</li>
+  <li>The programming plates are ‘stupidly heavy’ (and there are eight of them), and made using the rather odd method of CNCing a flat plastic block and then heat-bending it around wood, when a more viable approach might have been using (or indeed commissioning someone to use) a rotary axis CNC device on an already-cylindrical piece.</li>
+</ul>
+
+<p>Now, the poor functionality of the original Marble Machine has been remarked upon before, but Lukas wasn’t keen on its storage either, as it spent ‘five years in a shed in France’ and certainly looks like it! According to him a complete disassembly might be needed to deal with mould buildup.</p>
+
+<p>This may of course simply be the cynical take on things, but it does look like the pessimists who have been referring to the development process as a shambles may be the ones having the last laugh.</p>
+
+<p>—– <strong>809.2</strong> —–2022-09-20 20:02:11+08:00:</p>
+
+<p>I think consensus used to be that his perfectionism got in the way of producing a machine that was functional at a basic level even if its reliability wasn’t as good as hoped. As more facts come to light occasionally, it seems like people – insofar as anyone is still particularly invested – are shifting towards the idea that it was a mess all along.</p>
+
+<p>My own view, which I think is pretty close to the consensus, is that the design philosophy changed in exactly the wrong way. It started out with too much of an obsession with the cool factor and led to the earliest and most integral components having fatal flaws; he then switched to a heavily function-over-form approach but wasn’t the most competent of engineers, and thus ended up producing a large number of incrementally better fixes for systems that were perhaps impossible to fix, or should at least have been much better designed in the first place. What seems to have ended up happening was that he was unwilling to cut his losses until quite late, having created in some cases multiple iterations of certain components without resolving the underlying issues that he was increasingly cognisant of, even apart from the escaping marbles issue.</p>
+
+<p>It also doesn’t help that Martin got into crypto at one stage and was very clearly on the self-help alt-right pipeline (huge Elon Musk stan, name-dropped Jordan Peterson and Ayn Rand), which isn’t a healthy mentality in general.</p>
+
+<p>—– <strong>809.3</strong> —–2022-09-20 21:06:43+08:00:</p>
+
+<p>I think it was the ‘ondaphone’ he made a stab at including but without even modifying the design to carry more ball bearings? But yeah, it was frustrating watching repeated attempts at redoing the peripherals without reckoning with the limitations of the core components (namely the inefficient lifting mechanism).</p>
+
+<p>—– <strong>809.4</strong> —–2022-09-22 18:25:32+08:00:</p>
+
+<blockquote>
+  <p>And, a cheongsam is just. Clothing. It’s ok to make it sexy? It’s not some super sacred outfit or anything lol, what a weird thing to be concerned over. I actually liked the Chinese inspired stuff, personally.</p>
+</blockquote>
+
+<p>To be fair, there’s an interesting question to be asked over cultural appropriation in this context – the cheongsam is also known as the qipao, or ‘Banner dress’, which gives away its origin in the clothing of Manchu women. While the Manchu people were generally politically privileged until 1911, the power balance between Manchus and Han Chinese inverted <em>hard</em> when the Qing fell, and you can make the case that there’s an iffiness to Manchu clothing suddenly becoming a fashion trend among Han Chinese in the wake of <em>several</em> Han massacres of Manchu civilians during the Revolution, and a general suppression of Manchu identity and culture.</p>
+
+<p>—– <strong>809.5</strong> —–2022-09-23 13:10:37+08:00:</p>
+
+<p>I mean, while there’s a truthiness to this statement, I don’t see you offering any clear evidence for this.</p>
+
+<p>—– <strong>809.6</strong> —–2022-09-23 18:45:26+08:00:</p>
+
+<p>MMX Micro-update: the new MMX team in Rüdesheim have posted a 4-minute video showing the progress made so far in the last 3 months, which… actually isn’t a whole lot and so far is just the completion of reassembly and the addition of a replacement crankshaft, but on the whole it looks like they have an actual physically-present team and more equipment to work with, so for all we know they could actually get the thing working sooner or later.</p>
+
+<p>https://www.youtube.com/watch?v=WUJXCPZ1VrQ</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-09-18</time>
+        <a href="https://nodebe4.github.io/opinion/2022-09-18/theoryofdoom/">
+          theoryofdoom在2022-09-12~2022-09-18的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-09-18</time>
+        <a href="https://nodebe4.github.io/opinion/2022-09-18/Spinkcat/">
+          Spinkcat在2022-09-12~2022-09-18的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-09-16</time>
+        <a href="https://nodebe4.github.io/opinion/2022-09-16/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-09-12~2022-09-18的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-09-11</time>
+        <a href="https://nodebe4.github.io/opinion/2022-09-11/EnclavedMicrostate/">
+          EnclavedMicrostate在2022-09-05~2022-09-11的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-09-17/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC165%E6%9C%9F-%E5%9C%B0%E9%9C%87%E4%BA%86-%E8%83%BD%E8%B7%91%E5%90%97-%E5%8E%9F%E5%88%99%E5%B1%85%E5%AE%B6-%E5%9B%9A%E7%A6%81%E4%B8%AD%E7%9A%84%E6%88%90%E9%83%BD%E4%BA%BA/">
+            前一篇：【404档案馆】第165期：地震了，能跑吗？——“原则居家”囚禁中的成都人
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-09-18/HeQinglian/">
+            後一篇：Twitter @He Qinglian: 2022-09-12~2022-09-18
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-09-17/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC165%E6%9C%9F-%E5%9C%B0%E9%9C%87%E4%BA%86-%E8%83%BD%E8%B7%91%E5%90%97-%E5%8E%9F%E5%88%99%E5%B1%85%E5%AE%B6-%E5%9B%9A%E7%A6%81%E4%B8%AD%E7%9A%84%E6%88%90%E9%83%BD%E4%BA%BA/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-09-18/HeQinglian/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-09-18/Spinkcat/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-09-16/ForeignAffairsMag/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-09-17/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC165%E6%9C%9F-%E5%9C%B0%E9%9C%87%E4%BA%86-%E8%83%BD%E8%B7%91%E5%90%97-%E5%8E%9F%E5%88%99%E5%B1%85%E5%AE%B6-%E5%9B%9A%E7%A6%81%E4%B8%AD%E7%9A%84%E6%88%90%E9%83%BD%E4%BA%BA/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-09-18/HeQinglian/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-09-18/Spinkcat/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-09-16/ForeignAffairsMag/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

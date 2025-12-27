@@ -1,0 +1,1618 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title> 2019 新型冠状病毒扩散的可视化  – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+2019 新型冠状病毒扩散的可视化
+——
+" />
+    <meta property="og:description" content="
+2019 新型冠状病毒扩散的可视化
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content=" 2019 新型冠状病毒扩散的可视化 " />
+    <meta property="twitter:title" content=" 2019 新型冠状病毒扩散的可视化 " />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fsociologist.xyz%2Fvisual-ncov" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://sociologist.xyz/visual-ncov" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://sociologist.xyz/visual-ncov&text= 2019 新型冠状病毒扩散的可视化 &hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://sociologist.xyz/visual-ncov&title= 2019 新型冠状病毒扩散的可视化 " class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://sociologist.xyz/visual-ncov&title= 2019 新型冠状病毒扩散的可视化 " class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject= 2019 新型冠状病毒扩散的可视化 &body=
+2019 新型冠状病毒扩散的可视化
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://sociologist.xyz/visual-ncov" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://sociologist.xyz/visual-ncov&title= 2019 新型冠状病毒扩散的可视化 &caption=
+2019 新型冠状病毒扩散的可视化
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text= 2019 新型冠状病毒扩散的可视化 &url=https://sociologist.xyz/visual-ncov" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1> 2019 新型冠状病毒扩散的可视化 </h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2020-01-24
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#The Sociologist">
+          The Sociologist
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://sociologist.xyz/visual-ncov" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="The Sociologist的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#The Sociologist 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1579919343000-->
+<p><a href="https://sociologist.xyz/visual-ncov">2019 新型冠状病毒扩散的可视化</a>
+——</p>
+
+<div>
+  <div class="md-photo">
+    <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8420091529_24914.jpg?x-oss-process=style/l" alt="The Sociologist 2.025.jpeg" />
+    </figure>
+  </div>
+  <div class="md-block blockquote">
+    <blockquote>
+      <p>本文收集总结的资讯自 2020 年 1 月 25 日起至 2 月初，此后不再更新。各研究机构、新闻传媒及个人对病毒传播的可视化项目不断增加，既有项目也不断完善。建议从文中提供的链接查看更新，或利用检索工具查询新资讯。</p>
+    </blockquote>
+  </div>
+  <p>如<a href="https://sociologist.xyz/2019-ncov">前文</a>所述，流行病早在「全球化」之前就已不是单一国家的事。国内较为年轻的民众了解疫情，多采用丁香园的<a href="https://3g.dxy.cn/newh5/view/pneumonia">整理页面</a>，除了更新速度快、来源权威、数据清晰外，其中一个重要原因是可视化较为明了合理——全国地图展现不同地区实时疫情扩散情况与严重程度，趋势图的快速增长而远未见顶警醒人们提高防范意识。但丁香园但数据集中于国内<sup class="footnote-ref" id="fnref-1"><a href="#fn-1">1</a></sup>，或许是因为其他国家和地区暂时未爆发严重至此，或许国内权威媒体报道缓慢，难以配合国内数据更新，或许……</p>
+  <p>本文简单收集我在 2019 新型冠状病毒爆发后所关注的研究机构、国际媒体与组织在报道和研究中，对疫情数据所做的可视化案例。就在文末不写总结了，放在这里：</p>
+  <div class="md-block list">
+    <ul>
+      <li>可视化当然不只有地图，不过对于这起事件来说，地理位置与人口流动息息相关，相当重要，也期待能有其他呈现事件不同面向的方法。</li>
+      <li>从 MOBS Lab 一例可看出，就算失去了时效性，对数据精细处理后，得出的结论甚至比不经处理地以花哨方式呈现更有价值。而本次事件的数据并不庞大（也不希望庞大），更不应简单地对数字「去人格化」。</li>
+      <li>抽身于呈现方式，数据来源也是有趣的事情。比起十几年前的 SARS，此次事件中国政府的处理较为迅速，但依然称不上可圈可点。即使对特殊事件强调透明性，也一时难以改善现有政治体制对资讯传播的负面效果。若武汉早有 WHmap.live，事态或许不会这么糟。</li>
+      <li>整理报道页面别只做移动终端了。</li>
+    </ul>
+  </div>
+  <section class="md-block">
+    <div class="toc">
+      <h1 id="contents">Contents</h1>
+      <ul>
+        <li><a href="#toc_1">科研机构</a>          <ul>
+            <li><a href="#toc_2">JHU CSSE</a></li>
+            <li><a href="#toc_3">HealthMap</a></li>
+            <li><a href="#toc_4">MOBS Lab</a></li>
+            <li><a href="#toc_5">WorldPop</a></li>
+            <li><a href="#toc_6">Virological</a></li>
+            <li><a href="#toc_7">Nextstrain</a></li>
+            <li><a href="#toc_8">HGIS Lab</a></li>
+          </ul>
+        </li>
+        <li><a href="#toc_9">新闻媒体</a>          <ul>
+            <li><a href="#toc_10">The New York Time</a></li>
+            <li><a href="#toc_11">Bloomberg</a></li>
+            <li><a href="#toc_12">CNBC</a></li>
+            <li><a href="#toc_13">The Washington Post</a></li>
+            <li><a href="#toc_14">Business Insider</a></li>
+            <li><a href="#toc_15">NBC News</a></li>
+            <li><a href="#toc_16">Sky News</a></li>
+            <li><a href="#toc_17">The Guardian</a></li>
+            <li><a href="#toc_18">SCMP</a></li>
+            <li><a href="#toc_19">The Initium</a></li>
+            <li><a href="#toc_20">中国大陆的新闻媒体</a></li>
+          </ul>
+        </li>
+        <li><a href="#toc_21">其他</a>          <ul>
+            <li><a href="#toc_22">Wikipedia</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </section>
+  <hr />
+  <h1 id="toc_1" class="md-block">科研机构</h1>
+  <h2 id="toc_2" class="md-block">JHU CSSE</h2>
+  <div class="md-photo">
+    <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8420075546_905153.png?x-oss-process=style/l" alt="CleanShot 2020-01-25 at 06.02.11@2x.png" />
+    </figure>
+  </div>
+  <div class="md-block list">
+    <ul>
+      <li><a href="https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6">Wuhan Coronavirus (2019-nCov) Global Cases</a></li>
+    </ul>
+  </div>
+  <p>约翰斯·霍普金斯大学土木与系统工程系所属的系统科学与工程中心（The Center for Systems Science and Engineering，CSSE）长期进行社会与健康问题的跨学科研究，近年来追踪寨卡病毒、麻疹等。针对武汉疫情，他们制作了这个 GIS 页面，追踪病例并可视化。数据来自世界卫生组织、美国疾病预防控制中心、欧洲疾病预防控制中心、中国疾病预防控制中心、中国卫生应急办公室和定香园等，也是所有可视化项目中数据来源最为广泛、透明的。</p>
+  <h2 id="toc_3" class="md-block">HealthMap</h2>
+  <div class="md-photo">
+    <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8420093252_656038.png?x-oss-process=style/l" alt="CleanShot 2020-01-25 at 06.58.18@2x.png" />
+    </figure>
+  </div>
+  <div class="md-block list">
+    <ul>
+      <li><a href="https://healthmap.org/wuhan/">Novel Coronavirus 2019-nCoV</a></li>
+    </ul>
+  </div>
+  <p>HealthMap 由波士顿儿童医院的研究人员、流行病学家与软件开发者于2006年成立，利用线上非正式渠道监测疾病爆发，实时监测新出现的公共健康威胁。HealthMap 的数据来源包括网络新闻、目击者报告、专家讨论和有效官方报告等，如世界卫生组织、世界动物卫生组织、联合国粮食及农业组织、ProMED Mail、GeoSentinel、Google News、百度新闻等。</p>
+  <h2 id="toc_4" class="md-block">MOBS Lab</h2>
+  <div class="md-photo">
+    <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8420091718_778425.png?x-oss-process=style/l" alt="CleanShot 2020-01-25 at 07.21.59@2x.png" />
+    </figure>
+  </div>
+  <div class="md-block list">
+    <ul>
+      <li><a href="http://epirisk.net/#eyJxdWVyeSI6eyJ0cmF2ZWxMZXZlbCI6MSwicGVyaW9kIjoxMCwidG90YWxDYXNlcyI6NTkwMCwiZGlzdHJpYnV0aW9uTW9kZSI6InVuaWZvcm0iLCJtb250aCI6IkphbiIsImdlb0xldmVsIjoiYmFzaW4iLCJzb3VyY2VzIjpbeyJpZCI6NDc3LCJjYXNlcyI6MX1dfSwibWFwIjp7ImNlbnRlciI6WzE0MS40MDY2MTQwMzY2ODYwNSwyLjg5OTE1NTI0NzcwOTI0NTVdLCJ6b29tIjoyLjUzODcxOTYwMTgxNzExODgsInBpdGNoIjowLCJiZWFyaW5nIjowfX0=">EpiRisk</a></li>
+    </ul>
+  </div>
+  <div class="md-photo">
+    <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8419936358_854502.png?x-oss-process=style/l" alt="image.png" />
+    </figure>
+  </div>
+  <div class="md-block list">
+    <ul>
+      <li><a href="https://datastudio.google.com/reporting/e693c1f9-13fa-42f6-86e6-c637b159a742/page/CIXCB">International spreading of 2019-nCoV-V2</a></li>
+    </ul>
+  </div>
+  <p>ISI 基金会、美国东北大学等组织机构联合开发了这套全球流行病与流动模型（GLEAM），以有效地限制传染病造成的社会和经济损失，预测流行病的时空演变，评估现有遏制和预防策略的潜在影响。MOBS Lab（Laboratory for the Modeling of Biological + Socio-technical Systems）隶属美国东北大学网络科学研究所，同多个机构合作，包括 SCNARC、世界卫生组织等，主要开发传染病传播模型，研究社会人类行为，模拟复杂社会和技术网络进化等。</p>
+  <p>研究人员对 2020 年 1 月 23 日前的武汉疫情进行了感染传播风险的模型分析，使用以个人为基础的流动模型对疫情程度同国际传播风险在较长时间尺度下进行了评估。最终结果中位数为 5900 例感染[95% CI: 2,900-10,500]。</p>
+  <h2 id="toc_5" class="md-block">WorldPop</h2>
+  <div class="md-photo gallery">
+    <div class="md-photo_column">
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8419941786_907911.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8419941771_290417.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8419941621_685975.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+    </div>
+    <div class="md-photo_column">
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8419941918_487626.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8419941903_220755.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8419941888_763905.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8419941873_464611.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+    </div>
+    <div class="md-photo_column">
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8419941825_870448.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8419941809_010789.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+    </div>
+  </div>
+  <div class="md-block list">
+    <ul>
+      <li><a href="https://www.worldpop.org/resources/docs/china/WorldPop-coronavirus-spread-risk-analysis-v1-25Jan.pdf">Preliminary risk analysis of 2019 novel coronavirus spread within and beyond China</a></li>
+    </ul>
+  </div>
+  <p>上图左至右、上至下分别为湖北省与武汉市六个月内人口迁移模式、北上广六个月内每日人口迁移模式、农历正月初一前两周外地传入个案与武汉传入风险相关性、春节期间中国大陆各城市接受来自武汉感染旅客风险、中国大陆各省份接受来自武汉感染旅客风险、中国大陆春节后接受来自 18 个高风险城市感染旅客风险、中国大陆春节后接受来自 18 个高风险城市感染旅客风险连通性预测、农历正月初一前十五天至农历正月十五后两个半月期间接受中国大陆 18 个高风险城市旅客的全球前三十位城市地理分布、农历正月前十五天至农历正月后两个半月期间接受中国大陆 18 个高风险城市旅客的非洲城市地理分布。</p>
+  <p>南开普敦大学 WorldPop 项目始于 2013 年，结合此前已有的 AfriPop、AsiaPop、AmeriPop 等国际人口绘图项目，以开放存取方式提供空间人口数据集档案，解决传统人口数据集时效性不足、粒度低、规模小等问题，旨在应对灾害与公共卫生问题。其建立的空间人口数据库可用于疾病负荷预测、流行病模型、灾害管理、资源分配、交通与城市规划等方面。因其开放性与透明性也被广泛使用，如美国疾病预防控制中心、世界卫生组织、联合国粮食及农业组织、世界银行等。</p>
+  <p>本研究利用 2013 年至 2015 年的百度定位服务（LBS）的中国国内人口流动数据，以及 2018 年的国际航空运输协会的国际航空旅行数据，探讨武汉至中国其他城市旅客流动模式，预测新型冠状病毒农历新年期间中国及世界范围内蔓延风险。</p>
+  <h2 id="toc_6" class="md-block">Virological</h2>
+  <div class="md-photo gallery">
+    <div class="md-photo_column">
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8419934358_4246.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8419934282_09609.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+    </div>
+    <div class="md-photo_column">
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8419934253_909903.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+    </div>
+  </div>
+  <div class="md-block list">
+    <ul>
+      <li><a href="http://virological.org/c/novel-2019-coronavirus/">Latest Novel 2019 coronavirus topics</a></li>
+    </ul>
+  </div>
+  <p>Virological 是一个关注病毒分子进化和流行病学的论坛，目前已有 2019-nCov 的子目。上图为牛津大学 Moritz Kraemer、华盛顿大学助理教授 David Pigott 等人依据其与其他学者共同维护的<a href="https://docs.google.com/spreadsheets/d/1itaohdPiAeniCXNlntNztZ_oRvjh0HsGuJXUJWET008/edit?usp=sharing">数据库</a>所绘制，收录年龄、性别、地理信息、旅行史等数据，也发于 <a href="https://github.com/beoutbreakprepared/nCoV2019">GitHub</a> 发布。其他研究人员的帖子就不一一列举，感兴趣可自行查看。</p>
+  <h2 id="toc_7" class="md-block">Nextstrain</h2>
+  <div class="md-photo gallery">
+    <div class="md-photo_column">
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8419700663_879901.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+    </div>
+    <div class="md-photo_column">
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8419700644_578866.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8419700620_580573.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8419700610_774075.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+    </div>
+  </div>
+  <div class="md-block list">
+    <ul>
+      <li><a href="https://nextstrain.org/ncov?l=clock">Genomic epidemiology of novel coronavirus (nCoV)</a></li>
+    </ul>
+  </div>
+  <p>Nextstrain 系关注病原体基因组数据的科学与公共健康的开源项目，提供不断更新的公开、可用的数据视图，并提供可视化工具供社区使用，旨在帮助了解流行病学及改善疫情应对。上图为 2019-nCov 的基因组流行病学系统发生树，展示病毒的进化关系。有一篇关于如何使用 auspice 的<a href="https://neherlab.org/201901_krisp_auspice.html">教程</a>。</p>
+  <h2 id="toc_8" class="md-block">HGIS Lab</h2>
+  <div class="md-photo">
+    <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8418525925_010043.png?x-oss-process=style/l" alt="image.png" />
+    </figure>
+  </div>
+  <div class="md-block list">
+    <ul>
+      <li><a href="https://hgis.uw.edu/virus/">Novel Coronavirus Infection Map</a></li>
+      <li><a href="https://github.com/jakobzhao/virus">Noval Coronavirus Infection Map - GitHub</a></li>
+    </ul>
+  </div>
+  <p>华盛顿大学人文地理信息系统实验室（<a href="https://hgis.uw.edu">Humanistic GIS Laboratory</a>）制作了冠状病毒的互动地图，更新数据来自美国疾病预防控制中心、世界卫生组织、中国、香港、澳门和台湾以及其他政府机构数据。</p>
+  <hr />
+  <h1 id="toc_9" class="md-block">新闻媒体</h1>
+  <h2 id="toc_10" class="md-block">The New York Time</h2>
+  <div class="md-photo gallery">
+    <div class="md-photo_column">
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8420090146_047131.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8420090275_471646.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+    </div>
+    <div class="md-photo_column">
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8420090227_369757.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8420090209_28146.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+    </div>
+    <div class="md-photo_column">
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8419246059_592803.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8419246037_924978.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8419245975_0145855.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+    </div>
+    <div class="md-photo_column">
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8419245901_255805.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8419245818_69728.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8419245804_8973255.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+    </div>
+  </div>
+  <div class="md-block list">
+    <ul>
+      <li>
+        <p><a href="https://www.nytimes.com/interactive/2020/01/21/world/asia/china-coronavirus-maps.html">Tracking Where the Coronavirus Has Spread</a></p>
+      </li>
+      <li>
+        <p><a href="https://www.nytimes.com/interactive/2020/world/asia/china-coronavirus-contain.html">How Bad Will the Coronavirus Outbreak Get? Here Are 6 Key Factors</a></p>
+      </li>
+    </ul>
+  </div>
+  <p>纽约时报将事件更新的时间线与追踪扩散情况的地图分为两个页面。数据来自中国国家卫生健康委员会与当地政府，下方的感染估算数据来自上述 MOBS Lab。地图采用 OpenStreetMap。接连的两张地图——亚洲与欧美，则使用不同比例尺，红圈大小难以比照，极易造成对感染程度的的误读。</p>
+  <div class="md-photo">
+    <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8419245954_583513.png?x-oss-process=style/l" alt="alt" />
+    </figure>
+  </div>
+  <p>另一篇专题报道中，纽约时报利用一张图表比较了新型冠状病毒同其他传染病。但这张图中表示致命性的垂直轴为对数尺度，而非线性尺度，即较大数字被拉回平均值，较小数字分布开。这使得表中红色方框的部分，顶部十分靠近 SARS，或给读者以新型病毒的致死性接近 SARS 的错觉。但这篇报道的英文原文中在此图表下加注了一段对这一问题对说明，而中文版中则不知什么缘由略去了这一段。（再次证明了：有能力还是直接读原文吧 🤷‍）</p>
+  <h2 id="toc_11" class="md-block">Bloomberg</h2>
+  <div class="md-photo gallery">
+    <div class="md-photo_column">
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8420089040_507997.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8420087857_23993.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+    </div>
+    <div class="md-photo_column">
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8420088988_876697.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8420088920_494318.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+    </div>
+  </div>
+  <div class="md-block list">
+    <ul>
+      <li><a href="https://www.bloomberg.com/graphics/2020-wuhan-novel-coronavirus-outbreak/">Mapping the Outbreak of China’s Coronavirus</a></li>
+    </ul>
+  </div>
+  <p>彭博社则直接采用一张世界全图，避免了不同比例尺对数据呈现的影响。并且在第一页以大字号展现重要数字，带给读者对疫情严重程度的直观感受。地图所采用的数据除了来自中国中央政府的公开数据外，还有丁香园、世界卫生组织等。</p>
+  <p>最后一张柱状表中的大城市封锁数据，则综合武汉市统计局、英国国家统计署、美国普查局和世界银行，希望藉此展现武汉封城影响巨大。但这似乎有以真实的数据进行不相关比较之嫌，因为并未给出其他城市封锁的原因，且每个城市人口基数不同，交通运载能力与地位也不同，单以受影响人数并不能得出什么结论。彭博社似乎也知道这点，文本上什么也没说。</p>
+  <h2 id="toc_12" class="md-block">CNBC</h2>
+  <div class="md-photo">
+    <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8420086644_274113.png?x-oss-process=style/l" alt="image.png" />
+    </figure>
+  </div>
+  <div class="md-block list">
+    <ul>
+      <li><a href="https://www.cnbc.com/2020/01/23/this-map-shows-the-latest-spread-of-the-coronavirus.html">This map shows the latest spread of the coronavirus</a></li>
+    </ul>
+  </div>
+  <p>CNBC 不单网页界面交互粗糙，所谓可视化新闻似乎也如此。正文中的描述与结论都未能通过图表反映出来，而这个看似可以交互的图表，则极难操作。地图左下方标注的来源，即上文中的 CSSE，然而 CSSE 自己并不收集生产原始数据，他们也是参照了各方数据而绘制自己的地图。从某种程度上来说，这篇能算得上是「假新闻」了。</p>
+  <h2 id="toc_13" class="md-block">The Washington Post</h2>
+  <div class="md-photo gallery">
+    <div class="md-photo_column">
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8420086107_859155.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8420086103_87648.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+    </div>
+  </div>
+  <div class="md-block list">
+    <ul>
+      <li><a href="https://www.washingtonpost.com/world/2020/01/22/mapping-spread-new-coronavirus/">Mapping the spread of the new coronavirus</a></li>
+    </ul>
+  </div>
+  <p>虽然华盛顿邮报的这个页面说的是「spread」，却并未从能图表中看出来。第一张图是截取自球面，地图绘制方式多种多样，也无可厚非，但还是容易使大多数人产生是否产生图像畸变的疑惑。不论地图中，还是整篇报道，都没有给出更新日期和事件，也没有给出数据来源。另外华盛顿邮报的网站似乎对广告阻拦插件零容忍。</p>
+  <h2 id="toc_14" class="md-block">Business Insider</h2>
+  <div class="md-photo">
+    <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8420085760_911263.png?x-oss-process=style/l" alt="image.png" />
+    </figure>
+  </div>
+  <div class="md-block list">
+    <ul>
+      <li><a href="https://www.businessinsider.com/china-wuhan-virus-map-cities-countries-spread-infected-2020-1">This map shows where China's mysterious, deadly Wuhan coronavirus has spread as death toll rises to 26</a></li>
+    </ul>
+  </div>
+  <p>同华盛顿邮报一样，Business Insider 的地图也会给大多数读者眼前一懵的感受。为了避开「WUHAN」，将「China」移至西藏区域，也容易产生误读。而除了武汉，其他地区完全采取同样的颜色，又没有标注确诊数，无法得知各地疫情程度差异。标注原始数据来源方面，也是完全不及格。</p>
+  <h2 id="toc_15" class="md-block">NBC News</h2>
+  <div class="md-photo gallery">
+    <div class="md-photo_column">
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8420083732_840393.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+    </div>
+    <div class="md-photo_column">
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8420083727_078939.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8420083718_051358.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8420083712_122721.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+    </div>
+  </div>
+  <div class="md-block list">
+    <ul>
+      <li><a href="https://www.nbcnews.com/health/health-news/coronavirus-map-confirmed-cases-2020-n1120686">Map: A deadly virus is spreading across the globe. Here's where coronavirus cases have been confirmed.</a></li>
+    </ul>
+  </div>
+  <p>NBC 取 19 日至 24 日的各国确证病例数字绘制折线图，横纵轴的单位比例并不能表现出在较短时间内的较多人数增长。而将确诊千人的中国同其他仅个位数的国家放在一起，更是不知所云。唯一值得一提的是，数据来源除了多采用的中央一级行政部门，也有省市一级以及央媒报道。</p>
+  <h2 id="toc_16" class="md-block">Sky News</h2>
+  <div class="md-photo gallery">
+    <div class="md-photo_column">
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8420084260_434168.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+    </div>
+    <div class="md-photo_column">
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8420085307_67985.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8420084456_188365.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8420084311_659345.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+    </div>
+    <div class="md-photo_column">
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8420084443_809421.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8420084405_329286.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8420084396_7715845.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+    </div>
+    <div class="md-photo_column">
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8420084226_123942.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8420084212_717922.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+    </div>
+  </div>
+  <div class="md-block list">
+    <ul>
+      <li><a href="https://news.sky.com/story/a-11915936">China Virus: How it has spread around the world</a></li>
+    </ul>
+  </div>
+  <p>Sky News 或许是到目前为止我看到的第一篇在可视化中真正展现出「spread」的报道。通过一个地图灯箱，描述了武汉肺炎分六个阶段扩散至世界各地的过程。虽然更新时间清晰，但数据来源则标注得略显含糊，不过也比同参与 The Truth Project 的华盛顿邮报表现更佳。</p>
+  <h2 id="toc_17" class="md-block">The Guardian</h2>
+  <div class="md-photo">
+    <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8420031411_361959.png?x-oss-process=style/l" alt="IMG_2215.PNG" />
+    </figure>
+  </div>
+  <div class="md-block list">
+    <ul>
+      <li><a href="https://www.theguardian.com/science/live/2020/jan/25/coronavirus-china-death-tolls-rises-to-41-as-france-confirms-three-cases?page=with:block-5e2c5d058f08e97ed212a46d#block-5e2c5d058f08e97ed212a46d">Coronavirus outbreak – live updates</a></li>
+    </ul>
+  </div>
+  <p>卫报建立了较为直观的时间线，且更新较为迅速。在地图中表示存在感染病例的国家，展现疫情的全球影响，并不强调个国家地区的严重程度差异。只是在桌面端浏览时，地图会被切割为两行，只有在移动设备商横屏阅读时才能获得更佳效果。</p>
+  <h2 id="toc_18" class="md-block">SCMP</h2>
+  <div class="md-photo gallery">
+    <div class="md-photo_column">
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8419509337_167948.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8419508988_885376.png?x-oss-process=style/l" alt="" />
+      </figure>
+    </div>
+    <div class="md-photo_column">
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8419509293_035322.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8419509273_884401.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8419509251_945484.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8419509193_736312.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+    </div>
+    <div class="md-photo_column">
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8419509179_301338.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8419509153_188832.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8419509133_897733.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8419509085_830261.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+    </div>
+    <div class="md-photo_column">
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8419509066_97101.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8419509035_201899.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8419509026_028746.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8419509009_646716.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+    </div>
+  </div>
+  <div class="md-block list">
+    <ul>
+      <li><a href="https://multimedia.scmp.com/infographics/news/china/article/3047038/wuhan-virus/index.html">Coronavirus overtakes Sars</a></li>
+    </ul>
+  </div>
+  <p>南华早报很好地运用各式图表讲述了新型冠状病毒在中国及全球传播、对人体的影响、其爆发于武汉的缘由，及其远超 SARS 的表现。在地图呈现方面，较多运用点分布，而非填充，避免了数据呈现的解读问题。世界地图投影相较其他新闻媒体页面，兼顾了展示美观与方便理解。</p>
+  <h2 id="toc_19" class="md-block">The Initium</h2>
+  <div class="md-photo gallery">
+    <div class="md-photo_column">
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8419268107_512769.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8419268087_691545.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+    </div>
+    <div class="md-photo_column">
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8419268055_42424.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+    </div>
+    <div class="md-photo_column">
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8419267611_3003435.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8419267599_334644.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8419267590_409408.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8419267568_135987.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+    </div>
+    <div class="md-photo_column">
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8419267409_941774.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8419267389_428027.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+    </div>
+  </div>
+  <div class="md-block list">
+    <ul>
+      <li><a href="https://theinitium.com/project/20200203-international-novel-coronavirus-live/">新型冠狀病毒感染肺炎全球確診病例分布圖</a></li>
+      <li><a href="https://theinitium.com/article/20200128-taiwan-mask-wuhan-pneumonia/">台灣口罩去哪兒？為何台灣政府全面禁止出口？</a></li>
+      <li><a href="https://theinitium.com/article/20200129-opinion-pneumonia-hk-control-of-epidemic/">「封關」還是「罷工」？香港政府的防疫策略與信任危機</a></li>
+    </ul>
+  </div>
+  <p>立足台湾和香港的端传媒虽然每天在汇总疫情，也刊登了多篇报道与评论文章，其中也由其设计部制作可视化图表，但直至今日（3 Feb 2020）才发布单独的疫情动态页面。不过并没有标注数据来源，而在单独报道中也仅模糊标注，难以获取。</p>
+  <h2 id="toc_20" class="md-block">中国大陆的新闻媒体</h2>
+  <div class="md-photo gallery">
+    <div class="md-photo_column">
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8420081173_901052.png?x-oss-process=style/l" alt="alt" title="figcaption" />        <figcaption>
+figcaption
+        </figcaption>
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8420081090_669097.png?x-oss-process=style/l" alt="alt" title="figcaption" />        <figcaption>
+figcaption
+        </figcaption>
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8420081071_116639.png?x-oss-process=style/l" alt="alt" title="figcaption" />        <figcaption>
+figcaption
+        </figcaption>
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8420047776_436104.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8420047109_995197.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8420047390_894743.jpg?x-oss-process=style/l" alt="alt" />
+      </figure>
+    </div>
+  </div>
+  <p>左至右分别为：</p>
+  <div class="md-block list">
+    <ul>
+      <li>
+        <p><a href="https://3g.dxy.cn/newh5/view/pneumonia">丁香园 全国新型肺炎疫情实时动态</a></p>
+      </li>
+      <li>
+        <p><a href="https://news.ifeng.com/c/special/7tPlDSzDgVk">凤凰新闻 武汉新型肺炎疫情动态</a></p>
+      </li>
+      <li>
+        <p><a href="https://news.sina.cn/zt_d/yiqing0121">新浪新闻 武汉新型肺炎全国疫情地图</a></p>
+      </li>
+      <li>
+        <p><a href="https://news.qq.com//zt2020/page/feiyan.htm">腾讯新闻 新型冠状病毒肺炎疫情实施追踪</a></p>
+      </li>
+      <li>
+        <p><a href="https://news.163.com/special/epidemic/?spssid=7283291fcdba1d8c2d13ee3da2cfb760&amp;spsw=7&amp;spss=other#map_block">网易新闻 新型肺炎疫情地图</a></p>
+      </li>
+      <li>
+        <p><a href="https://voice.baidu.com/act/newpneumonia/newpneumonia">百度APP 新型冠状病毒肺炎疫情通报</a></p>
+      </li>
+    </ul>
+  </div>
+  <p>各家国内网媒都对疫情做了实时追踪的移动终端页面，基本采取同一格式——一张全国地图、一张趋势图、一张各省市及其他国家地区确诊人数表，再加上新闻时间线。</p>
+  <p>其中丁香园更新最为迅速即使，被国际媒体广泛采用。在确诊人数表一项，除了丁香园，都将其他国家地区都疫情状况列入其中。网易新闻与百度的页面中未有采用疫情趋势图。(至 26 Jan 2020，丁香园也在确诊人数表中增加了其他国家疫情)。</p>
+  <p>其他媒体也有制作类似页面，如 <a href="http://m.medsci.cn/wh.asp">MedSci</a>、<a href="https://www.yicai.com/news/100476965.html">第一财经</a>、<a href="https://www.zhihu.com/special/19681091">知乎</a>、<a href="http://society.people.com.cn/GB/369130/431577/index.html">人民网</a>、<a href="http://www.nbd.com.cn/corp/20200121guanzhuangbidu/index.html?from=groupmessage">每日经济新闻</a>等。之所以不在列出，是因为这些页面不但没什么出彩之处，还存在数据更新缓慢、资讯来源模糊，以及界面丑陋等问题。</p>
+  <p>实施疫情情况通过地图表现严重程度，有多种表现手法，但国内媒体大多采用颜色深浅表示不同区间，实际造成湖北以外各省市难以差异化，感受不明显。而国内媒体掌握的交通流动资讯也较为丰富，未见有根据交通客运情况与疫情扩散做对比分析或风险提示的。截止本次更新（20:00 25 Jan 2020），香港特首林郑月娥才在几小时前宣布无限期暂停来往武汉航班及高铁。</p>
+  <div class="md-photo">
+    <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8420028812_348954.png?x-oss-process=style/l" alt="alt" />
+    </figure>
+  </div>
+  <div class="md-block list">
+    <ul>
+      <li><a href="http://projects.thepaper.cn/thepaper-cases/839studio/feiyan/">澎湃 新型冠状病毒感染肺炎病例实时地图</a></li>
+    </ul>
+  </div>
+  <p>澎湃新闻则是目前为止（00:00 26 Jan 2020）我所见的国内媒体中的实时地图做的最好的，由澎湃的可视化团队<a href="https://www.thepaper.cn/list_25635">美数课</a>所制作。上述的其他媒体所制地图的缺点都不存在于此，肺炎爆发情况不止以颜色深浅表示，动画可直观回顾疫情发展，且对桌面端和移动端响应式处理，对读者较为友好。</p>
+  <p>除了实时动态页面，澎湃也在单独报道中将数据以图表形式展现，如<a href="https://www.thepaper.cn/newsDetail_forward_5622767">一图看懂｜湖北等30省份启动的一级响应是什么？</a>和<a href="https://www.thepaper.cn/newsDetail_forward_5624191">“封城”24小时内，武汉飞机出港逐渐停止</a>，也都由美术课制作。</p>
+  <div class="md-photo gallery">
+    <div class="md-photo_column">
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8420030161_50993.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8420030151_638502.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8420029782_266308.gif" alt="alt" />
+      </figure>
+    </div>
+  </div>
+  <p>但在一级响应一文中，以颜色深浅的方式展现各地启动时间的先后却是有些不太合适，因为各地疫情不一，也不适合简单地认定先后存在什么优劣之分。若能似实时地图或民航出港情况，以动态形式表达，将更为合理。而公共卫生突发事件分级的图表紧接着一级响应地图，「II 级别（严重）」的橙色易使读者将其同上图中「1月24日」的淡红色混淆，可分开排版或明确区分。</p>
+  <h1 id="toc_21" class="md-block">其他</h1>
+  <h2 id="toc_22" class="md-block">Wikipedia</h2>
+  <div class="md-photo gallery">
+    <div class="md-photo_column">
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8420082598_203697.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8420082528_670137.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8420082580_3954525.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+    </div>
+    <div class="md-photo_column">
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8420082570_202873.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8420082554_467711.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8420031569_436888.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+    </div>
+    <div class="md-photo_column">
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8420031959_514598.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8420031847_273458.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8420031828_126291.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+    </div>
+    <div class="md-photo_column">
+      <figure>
+<img style="max-width:100%" src="https://i.typlog.com/sociologist/8419510968_357675.png?x-oss-process=style/l" alt="alt" />
+      </figure>
+    </div>
+  </div>
+  <div class="md-block list">
+    <ul>
+      <li><a href="https://en.wikipedia.org/wiki/2019%E2%80%9320_Wuhan_coronavirus_outbreak">2019–20 Wuhan coronavirus outbreak</a></li>
+      <li><a href="https://zh.wikipedia.org/wiki/2019%EF%BC%8D2020%E5%B9%B4%E6%96%B0%E5%9E%8B%E5%86%A0%E7%8B%80%E7%97%85%E6%AF%92%E8%82%BA%E7%82%8E%E4%BA%8B%E4%BB%B6">2019－2020年新型冠状病毒肺炎事件</a></li>
+      <li><a href="https://zh-yue.wikipedia.org/wiki/%E6%AD%A6%E6%BC%A2%E8%82%BA%E7%82%8E">武漢肺炎</a></li>
+    </ul>
+  </div>
+  <p>维基百科的编纂与媒体或研究机构不同，是去中心化的。因此在协同作业中，图表辅助正文的作用更加凸显。在这篇词条中，参与维基百项目 4 年多的董辰兴与其他用户共同编辑和更新大中华地区的感染地图，绘制了多张医学图片与美国全国及各州地图的 Pharexia 依据美国疾病控制与预防中心数据绘制了扩散至美国及全球的地图，利用香港政府公开数据绘制了去年香港运动的多张图表的 Cypp0847 依据香港卫生防护中心文件制作了在港疑似病例的折线图与分布图，何一飞使用 R 生成的柱状图表可寻得来源页面与网页存档。因维基百科编纂词条有着较为成熟的流程与规范，这些图表的原始数据有据可查，且可视化配合文本事实描述。只是在互动性上略有欠缺。</p>
+  <hr />
+  <p><strong>🌟LikeCoin 可为我带来微薄收益，激励未来创作，如果你喜欢这篇文章，不妨五连哦👇</strong></p>
+  <div class="md-block html">
+    <script type="text/javascript">document.write("<iframe scrolling='no' frameborder='0' sandbox='allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-storage-access-by-user-activation' style='height: 212px; width: 100%;' src='https://button.like.co/in/embed/xiechaonet/button?referrer="+encodeURIComponent(location.href.split("?")[0].split("#")[0])+"'></iframe>");</script>
+  </div>
+  <p><strong>若你还不想注册加入赞赏公民社区，可以在这里按赞→<a href="https://button.like.co/xiechaonet">👍</a></strong></p>
+  <hr />
+  <section class="footnotes">
+    <ol>
+      <li id="fn-1">
+        <p>截至此文发布之时，即 25 Jan 2020。丁香园在后来也加入了其他国家和地区的统计数据。文中除非特别标注，皆基于发布文章的时间的状况。<a href="#fnref-1" class="footnote">↩</a></p>
+      </li>
+    </ol>
+  </section>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#The Sociologist 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-05/%E7%BA%A6%E7%BF%B0%E9%9C%8D%E6%99%AE%E9%87%91%E6%96%AF%E5%A4%A7%E5%AD%A6%E9%AB%98%E7%AD%89%E5%9B%BD%E9%99%85%E7%A0%94%E7%A9%B6%E9%99%A2-SAIS-%E4%B8%AD%E5%9B%BD%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83%E5%8E%BB%E5%B9%B4-9-%E6%9C%88%E6%B1%87%E7%BC%96%E5%87%BA%E7%89%88%E4%BA%86-Studying-Ch/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2019-05-25/Hello,-World!-%E7%A4%BE%E4%BC%9A%E5%AD%A6%E4%BA%BA/">最早</a>--</span>
+    
+      <li>
+        <time>2020-03-06</time>
+        <a href="https://nodebe4.github.io/opinion/2020-03-06/%E9%87%8D%E5%BB%BA%E8%B5%84%E8%AE%AF%E8%81%9A%E5%90%88%E8%AE%B0/">
+           重建资讯聚合记 
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-02-23</time>
+        <a href="https://nodebe4.github.io/opinion/2020-02-23/%E5%86%8D%E6%B7%BB%E5%87%A0%E6%9C%AC%E6%9C%89%E5%85%B3%E6%96%B0%E5%86%A0%E7%9A%84%E9%98%85%E8%AF%BB%E4%B9%A6%E7%9B%AE/">
+           再添几本有关新冠的阅读书目 
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2020-01-22</time>
+        <a href="https://nodebe4.github.io/opinion/2020-01-22/%E5%85%B3%E4%BA%8E%E6%AD%A6%E6%B1%89%E8%82%BA%E7%82%8E%E7%9A%84%E7%A4%BE%E4%BC%9A%E5%AD%A6%E7%9A%84%E6%96%87%E7%8C%AE%E4%B8%8E%E6%91%98%E5%BD%95/">
+           关于武汉肺炎的社会学的文献与摘录 
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-12-13</time>
+        <a href="https://nodebe4.github.io/opinion/2019-12-13/A-Very-Short-List-of-Rock'n'Roll-and-Sociology/">
+           A Very Short List of Rock'n'Roll and Sociology 
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2020-01-24/%E6%AD%A6%E6%BC%A2%E7%98%9F%E7%96%AB%E5%8A%A0%E9%87%8D%E4%B8%AD%E5%85%B1%E5%8F%8A%E7%BF%92%E8%BF%91%E5%B9%B3%E6%94%BF%E6%B2%BB%E9%A2%A8%E9%9A%AA-%E6%AD%A6%E6%BC%A2%E8%BB%8D%E9%9A%8A%E5%B0%81%E5%9F%8E/">
+            前一篇：武漢瘟疫加重中共及習近平政治風險；武漢軍隊封城
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2020-01-25/rules-and-conflicts-chapter-three/">
+            後一篇：「原创」中国政治分析：第三章 规则与冲突
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2020-01-24/%E6%AD%A6%E6%BC%A2%E7%98%9F%E7%96%AB%E5%8A%A0%E9%87%8D%E4%B8%AD%E5%85%B1%E5%8F%8A%E7%BF%92%E8%BF%91%E5%B9%B3%E6%94%BF%E6%B2%BB%E9%A2%A8%E9%9A%AA-%E6%AD%A6%E6%BC%A2%E8%BB%8D%E9%9A%8A%E5%B0%81%E5%9F%8E/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2020-01-25/rules-and-conflicts-chapter-three/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2020-02-23/%E5%86%8D%E6%B7%BB%E5%87%A0%E6%9C%AC%E6%9C%89%E5%85%B3%E6%96%B0%E5%86%A0%E7%9A%84%E9%98%85%E8%AF%BB%E4%B9%A6%E7%9B%AE/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2020-01-22/%E5%85%B3%E4%BA%8E%E6%AD%A6%E6%B1%89%E8%82%BA%E7%82%8E%E7%9A%84%E7%A4%BE%E4%BC%9A%E5%AD%A6%E7%9A%84%E6%96%87%E7%8C%AE%E4%B8%8E%E6%91%98%E5%BD%95/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2020-01-24/%E6%AD%A6%E6%BC%A2%E7%98%9F%E7%96%AB%E5%8A%A0%E9%87%8D%E4%B8%AD%E5%85%B1%E5%8F%8A%E7%BF%92%E8%BF%91%E5%B9%B3%E6%94%BF%E6%B2%BB%E9%A2%A8%E9%9A%AA-%E6%AD%A6%E6%BC%A2%E8%BB%8D%E9%9A%8A%E5%B0%81%E5%9F%8E/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2020-01-25/rules-and-conflicts-chapter-three/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<The Sociologist>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2020-02-23/%E5%86%8D%E6%B7%BB%E5%87%A0%E6%9C%AC%E6%9C%89%E5%85%B3%E6%96%B0%E5%86%A0%E7%9A%84%E9%98%85%E8%AF%BB%E4%B9%A6%E7%9B%AE/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<The Sociologist>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2020-01-22/%E5%85%B3%E4%BA%8E%E6%AD%A6%E6%B1%89%E8%82%BA%E7%82%8E%E7%9A%84%E7%A4%BE%E4%BC%9A%E5%AD%A6%E7%9A%84%E6%96%87%E7%8C%AE%E4%B8%8E%E6%91%98%E5%BD%95/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

@@ -1,0 +1,3781 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>如何用 ISO 镜像制作 U 盘安装盘（通用方法、无需 WinPE） – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+
+      如何用 ISO 镜像制作 U 盘安装盘（通用方法、无需 WinPE）  
+  
+    
+      
+    
+  
+  
+今天聊的这个话题属于老生常谈，这几年时常有读者来询问（现在有越来越多的电脑是无光驱的）。再加上俺后面要扫盲一些“特殊的 Linux 发行版”，到时候肯定又要涉及到制作可引导U盘的事情。所以，今天先单独发一篇教程，说说几种不同的搞法。  事先声明：  1. 本文针对的是U盘，而不是外置的USB硬盘。外置USB移动硬盘的操作方式稍有不同，如果很多人感兴趣，再另外写一篇教程）  2. 本文介绍的是“用U盘当安装盘”，而【不是】“安装系统到U盘”（这两者是完全不同滴！）  
+       
+        ★扫盲若干【基本概念】 
+  考虑到本文面向的读者，技术水平参差不齐。针对某些菜鸟读者，俺需要先解释一下基本概念。如果你自认为不是菜鸟，请略过“基本概念解释”，直接看后续章节。        ◇光盘镜像 
+  所谓的“光盘镜像”其实是一个文件，可以用专门的刻录软件（再配合“可写光驱”），就可以把镜像文件刻录成光盘。  光盘镜像有好几种格式，目前最常见的是扩展名为“ISO”的格式（这个扩展名源自于 ISO 9660 标准）。大多数操作系统提供的光盘镜像文件，都是ISO格式的。        ◇啥是“可启动的”光盘镜像？ 
+  “可启动光盘”也称为“可引导光盘”（洋文叫“bootable”）。这类光盘插入光驱之后，如果你在 BIOS 中设置“光驱优先启动”，那么就可以用这种光盘启动电脑。  同样的，光盘镜像也分：可启动 和 不可启动 两种。比如某些存放视频/音乐的ISO就是不可启动的；而用来安装系统的镜像，必须是可启动的（显然嘛）。所以，如果你想制作可启动的U盘，前提是你用的光盘镜像本身是可启动的。        ◇如何判断光盘镜像是否可启动？ 
+  刚才说了：光盘镜像只是一个文件，不是物理光盘。所以你没法把它塞入物理光驱中，用虚拟光驱也不方便测试。俺建议用虚拟机软件测试。从来没听说过“虚拟机软件”的同学，可以先看之前的教程《  扫盲操作系统虚拟机  》。  测试方法如下：先建一个空的虚拟系统（Guest OS），在虚拟系统的“光驱”中设置你要测试的那个镜像文件，然后启动虚拟系统。如果能看到操作系统的相关画面，就说明启动成功；如果屏幕一片黑或者出现找不到系统的英文提示，就说明这个镜像无法启动（无法引导）。        ◇Hybrid 模式 
+  对于可启动光盘，有一种模式称之为“Hybrid 模式”（混合模式）。这种模式的光盘，可以直接刻录成物理光盘，也可以直接制作成可引导的U盘。  如今越来越多的操作系统安装光盘采用“Hybrid 模式”，这就方便了大伙儿制作“可启动U盘”。另外，有些光盘虽然不是“Hybrid 模式”，但可以用工具转换成“Hybrid 模式”。         ★啥是【通用】制作方法？ 
+  所谓的“通用做法”，就是说这类方法跟光盘内置的系统无关，适用于大多数的光盘镜像（可以是 Windows 系统盘，也可以是 Linux 系统盘，也可以是苹果的系统盘）。  但是，“通用方法”不等于“万能方法”。某些古老的系统（比如 Win2000、WinXP）用下列方法可能搞不定。针对这类老系统，需要使用专门的工具（考虑到老系统用得越来越少了，所以今天暂时不聊）。  今天介绍的这三种工具，应该可以搞定：  1. WIndows Vista 之后的安装盘（Vista、Win7、Win8）  2. 各种主流的 Linux 发行版（比如 Debian、Ubuntu、RedHat、CentOS、Fedora、等）  3. 苹果的安装盘         ★为啥选择这几款工具？ 
+  能够达到“通用”目的工具有不少。俺今天挑选3款【开源的】来介绍。为啥只挑选开源的？有如下几个讲究：  一来，俺本人比较偏好开源软件（纯属个人喜好）  二来，开源软件不但免费，而且无需注册码，也没有使用期限的限制（方便性）。  三来，相对闭源软件而言，开源比较让人放心（安全性）。   常看俺博客的同学应该都知道，俺是比较关注“安全性”的，所以再把第三点补充说明一下。  用光盘镜像制作可启动U盘，主要都是为了装系统。如果使用的制作工具本身不可靠（比如带木马），会导致你制作出来的启动U盘也不安全，进而导致你安装出来的系统不安全。   顺便再说一下：为啥俺【不】喜欢用 WinPE 类型的 U盘工具。  1. PE 方式的局限性——只能用于 Windows 系统（而现在有越来越多的网友开始玩 Linux 或 Mac OS）。  2. 很多 PE 工具是【国产滴】——而国产的 PE 工具总喜欢【夹带私货】。不要怨俺“崇洋”，实在是国产软件出了太多的流氓，用起来心里不踏实。         ★rufus 的玩法（Windows 平台） 
+  rufus 这款工具，知名度不太高，但用起来比较爽（界面的定制选项多，而且速度快）。它的官网在“  这里  ”。  提醒一下：rufus 的 exe 文件带有【数字签名】，所以下载之后先验证数字签名是否有效（要养成这个好习惯）。不懂得验证数字签名的同学，请看《  扫盲文件完整性校验——关于散列值和数字签名  》   这玩意儿的界面截图如下：     它在刻录前会先格式化U盘，所以 
+   一定要记得勾选【快速格式化】
+   。如果没勾选这项，它会进行“完全格式化”。现在的U盘动不动都有好几个GB，完全格式化要等很久。         ★UNetbootin 的玩法（跨平台） 
+  UNetbootin 的官网在“  这里  ”。主页开头就是三大平台（Windows、Linux、Mac OS X）的下载链接。   Windows 的界面截图如下：     这玩意儿的使用很简单，看俺截图上的标注应该就懂。         ★dd 的玩法（跨平台） 
+  
+   dd
+   是一个很有用的 Linux/Unix 命令，它可以用来进行设备之间的【裸读写】。所谓的“裸读写”就是——它不理睬文件系统，直接越过文件系统对物理设备进行读写。所以它可以干很多“拷贝命令”（ 
+   copy
+   or 
+   cp
+   ）无法干或不方便干的事情（比如：备份/恢复“硬盘主引导扇区”）。今天俺来聊聊如何用 dd 把光盘镜像刻录到 U盘。  可能有些熟悉 Linux 的同学会质疑，Linux 的 
+   cp
+   命令也可以用来刻录 iso 镜像。  俺来解释一下：本文之所以强调 
+   dd
+   命令，还考虑到 
+   dd
+   有 Windows 的移植版本，而且它的 Windows 版本照样能把 ISO 镜像制作到 U盘。        ◇在 Linux/Unix 上的玩法 
+  假设你有一个 iso 镜像文件，路径是 
+   ~/xxx.iso
+    假设你的 U盘对应的设备是 
+   /dev/sdb
+    那么就可以用如下命令搞定：      dd bs=4M if=~/xxx.iso of=/dev/sdb    
+ 稍微解释一下：  
+   bs
+   参数表示每次批量读写 4MB 字节的数据（俺一般都用 4M，你也可以用 8M、2M 或 1M）。  
+   if
+   参数表示输入（文件/设备）的路径，在这里用的是光盘镜像文件。  
+   of
+   参数表示输出（文件/设备）的路径，在这里用的是U盘设备。   大多数 Linux 发行版都内置了这个 
+   dd
+   命令，所以一般情况下，你【无需】额外安装软件包就可以使用。执行完 
+   dd
+   命令之后，要记得再执行一下 
+   sync
+   命令同步磁盘缓存，再拔出U盘。        ◇在 Windows 上的玩法 
+  dd 命令也被移植到 Windows 系统上。具体请到“  这里  ”下载。页面比较长，前半段是帮助，你找“Downloads for dd”，就可以看到下载链接。  俺目前用的是 0.5 版本（截止俺写本文时，0.6 版本还是【beta】状态，不爽）。   Windows 下的 dd，其用法与 Linux 下差不多。唯一要留意的是——U盘的【设备路径】。  （通常U盘上只有一个分区）你插入 U盘 后，假如盘符是 
+   F:
+   那么对应的设备路径就是 
+   \\.\f:
+    如果你的 iso 镜像文件放在 
+   C:\xxx.iso
+   那么就用如下的 dd 命令把镜像刻录到 U盘      dd bs=4M if=C:\xxx.iso of=\\.\f:    
+ （参数刚才解释过，这儿就不再罗嗦了）         ★优缺点对比 
+  总结一下上述三种方法的优缺点。        ◇兼容性方面 
+  对于U盘制作工具，兼容性很重要。兼容性不好，可能导致刻录的U盘无法启动。  rufus 和 UNetbootin 的兼容性好于 dd。dd 的缺点在于：如果某个镜像本身不是 hybrid 模式（hybrid 的解释，本文开头已经说过），用 dd 刻录之后会【无法】启动。而 rufus 和 UNetbootin 可以在刻录U盘的时候进行相应的处理。  针对 dd 的这个缺点，有一个补救的办法：  对于 Linux/Unix 平台，先使用 
+   isohybrid
+   命令把 iso 镜像转换成 hybrid 模式（该命令来自于  SysLinux/ISOLinux 软件包  ）。假设你的光盘镜像位于 
+   ～/xxx.iso
+   那么使用如下命令转换：（可惜该命令【没有】windows 版本）      isohybrid ~/xxx.iso    
+  至于 rufus 和 UNetbootin 的对比，俺个人觉得 rufus 不但优于 UNetbootin，而且也优于某些其它工具（比如 Universal USB Installer）。俺曾经碰到过：同一个ISO镜像，同一个物理U盘，用 UNetbootin 刻录后无法启动，而 rufus 刻录后可以启动。        ◇速度方面 
+  dd 的速度最快（前面说了，dd 是【裸读写】，所以速度飞快）；  rufus 的速度比 UNetbootin 快（rufus 的官网界面上有几种不同工具的速度对比）        ◇易用性方面 
+  UNetbootin 和 rufus 差不多——都有傻瓜化的图形界面。  dd 易用性最差——必须得用命令行（这会难倒一大帮菜鸟）。        ◇跨平台方面 
+  UNetbootin 好于 dd 好于 rufus（rufus 只有 Windows 版本）  提醒一下：  这里说的“跨平台”指的是工具自身，而不是制作出来的光盘。比如 rufus 虽然只有 Windows 版本，但 rufus 可以制作 Linux 的安装盘。         ★读者反馈 
+  虽然俺折腾过一些系统，但接触面依然很有限。而且制作可引导U盘，依赖的因素很多（至少包括：BIOS 型号、U盘的牌子、光盘的类型、还有运气）。所以，非常欢迎大伙儿针对本文的内容，提出反馈（可以补充你的经验，或者你曾经碰到的问题）。  为了便于大伙儿相互交流，请到  本文留言  。   以下是读者反馈的汇总，供大伙儿参考（因为反馈信息比较多，俺未必能逐一验证，大伙儿自行判断）：        ◇1楼的网友 
+  推荐两款工具  推荐“  Universal USB installer  ”，可以做windows, Linux, Solaris等USB安装器  推荐“  YUMI  ”，有上面的功能，另外又增加了一些功能。        ◇2楼的网友 
+  UltraISO9.5.2_pe在windows下表现最好。注意，仅仅是UltraISO9.5.2_pe好用，其以后的版本不好用。        ◇3楼的网友 
+  推荐“  Win32 Disk Imager  ”        ◇5楼2单元的网友 
+  Hiren's BootCD搞电脑必备啊        ◇6楼的网友 
+  raw 文件可以用 SUSE Studio ImageWriter  img 文件可以用 Win32 Disk Imager        ◇11楼的网友 
+  在 Windows 下刻录U盘的时候，需要关闭某些杀毒软件。否则杀毒软件会拦截写入的启动文件，导致做出来的U无法启动。        ◇26楼的网友 
+  “  LinuxLive USB Creator  ”也不错，支持的系统很多。        ◇33楼的网友 
+  补充一点rufus不如Unetbootin的地方，就是Unetbootin不仅支持对iso文件的刻录，而且可以用压缩的光盘镜像文件（isz文件）来刻录启动盘，而rufus好像没有这一功能。    
+   俺博客上，和本文相关的帖子（需翻墙）
+   ：  《  如何用【内置硬盘】全新安装 Windows 2000/XP/2003/Vista/2008/7/8（无需光驱和USB口）  》  《  扫盲操作系统虚拟机  》（系列）  《  扫盲文件完整性校验——关于散列值和数字签名  》     
+
+    版权声明
+     本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者  编程随想  和本文原始地址：   https://program-think.blogspot.com/2013/12/create-bootable-usb-stick-from-iso.html 
+    
+    
+  
+  
+    
+         
+    
+    
+    
+ 
+    
+  
+
+" />
+    <meta property="og:description" content="
+
+      如何用 ISO 镜像制作 U 盘安装盘（通用方法、无需 WinPE）  
+  
+    
+      
+    
+  
+  
+今天聊的这个话题属于老生常谈，这几年时常有读者来询问（现在有越来越多的电脑是无光驱的）。再加上俺后面要扫盲一些“特殊的 Linux 发行版”，到时候肯定又要涉及到制作可引导U盘的事情。所以，今天先单独发一篇教程，说说几种不同的搞法。  事先声明：  1. 本文针对的是U盘，而不是外置的USB硬盘。外置USB移动硬盘的操作方式稍有不同，如果很多人感兴趣，再另外写一篇教程）  2. 本文介绍的是“用U盘当安装盘”，而【不是】“安装系统到U盘”（这两者是完全不同滴！）  
+       
+        ★扫盲若干【基本概念】 
+  考虑到本文面向的读者，技术水平参差不齐。针对某些菜鸟读者，俺需要先解释一下基本概念。如果你自认为不是菜鸟，请略过“基本概念解释”，直接看后续章节。        ◇光盘镜像 
+  所谓的“光盘镜像”其实是一个文件，可以用专门的刻录软件（再配合“可写光驱”），就可以把镜像文件刻录成光盘。  光盘镜像有好几种格式，目前最常见的是扩展名为“ISO”的格式（这个扩展名源自于 ISO 9660 标准）。大多数操作系统提供的光盘镜像文件，都是ISO格式的。        ◇啥是“可启动的”光盘镜像？ 
+  “可启动光盘”也称为“可引导光盘”（洋文叫“bootable”）。这类光盘插入光驱之后，如果你在 BIOS 中设置“光驱优先启动”，那么就可以用这种光盘启动电脑。  同样的，光盘镜像也分：可启动 和 不可启动 两种。比如某些存放视频/音乐的ISO就是不可启动的；而用来安装系统的镜像，必须是可启动的（显然嘛）。所以，如果你想制作可启动的U盘，前提是你用的光盘镜像本身是可启动的。        ◇如何判断光盘镜像是否可启动？ 
+  刚才说了：光盘镜像只是一个文件，不是物理光盘。所以你没法把它塞入物理光驱中，用虚拟光驱也不方便测试。俺建议用虚拟机软件测试。从来没听说过“虚拟机软件”的同学，可以先看之前的教程《  扫盲操作系统虚拟机  》。  测试方法如下：先建一个空的虚拟系统（Guest OS），在虚拟系统的“光驱”中设置你要测试的那个镜像文件，然后启动虚拟系统。如果能看到操作系统的相关画面，就说明启动成功；如果屏幕一片黑或者出现找不到系统的英文提示，就说明这个镜像无法启动（无法引导）。        ◇Hybrid 模式 
+  对于可启动光盘，有一种模式称之为“Hybrid 模式”（混合模式）。这种模式的光盘，可以直接刻录成物理光盘，也可以直接制作成可引导的U盘。  如今越来越多的操作系统安装光盘采用“Hybrid 模式”，这就方便了大伙儿制作“可启动U盘”。另外，有些光盘虽然不是“Hybrid 模式”，但可以用工具转换成“Hybrid 模式”。         ★啥是【通用】制作方法？ 
+  所谓的“通用做法”，就是说这类方法跟光盘内置的系统无关，适用于大多数的光盘镜像（可以是 Windows 系统盘，也可以是 Linux 系统盘，也可以是苹果的系统盘）。  但是，“通用方法”不等于“万能方法”。某些古老的系统（比如 Win2000、WinXP）用下列方法可能搞不定。针对这类老系统，需要使用专门的工具（考虑到老系统用得越来越少了，所以今天暂时不聊）。  今天介绍的这三种工具，应该可以搞定：  1. WIndows Vista 之后的安装盘（Vista、Win7、Win8）  2. 各种主流的 Linux 发行版（比如 Debian、Ubuntu、RedHat、CentOS、Fedora、等）  3. 苹果的安装盘         ★为啥选择这几款工具？ 
+  能够达到“通用”目的工具有不少。俺今天挑选3款【开源的】来介绍。为啥只挑选开源的？有如下几个讲究：  一来，俺本人比较偏好开源软件（纯属个人喜好）  二来，开源软件不但免费，而且无需注册码，也没有使用期限的限制（方便性）。  三来，相对闭源软件而言，开源比较让人放心（安全性）。   常看俺博客的同学应该都知道，俺是比较关注“安全性”的，所以再把第三点补充说明一下。  用光盘镜像制作可启动U盘，主要都是为了装系统。如果使用的制作工具本身不可靠（比如带木马），会导致你制作出来的启动U盘也不安全，进而导致你安装出来的系统不安全。   顺便再说一下：为啥俺【不】喜欢用 WinPE 类型的 U盘工具。  1. PE 方式的局限性——只能用于 Windows 系统（而现在有越来越多的网友开始玩 Linux 或 Mac OS）。  2. 很多 PE 工具是【国产滴】——而国产的 PE 工具总喜欢【夹带私货】。不要怨俺“崇洋”，实在是国产软件出了太多的流氓，用起来心里不踏实。         ★rufus 的玩法（Windows 平台） 
+  rufus 这款工具，知名度不太高，但用起来比较爽（界面的定制选项多，而且速度快）。它的官网在“  这里  ”。  提醒一下：rufus 的 exe 文件带有【数字签名】，所以下载之后先验证数字签名是否有效（要养成这个好习惯）。不懂得验证数字签名的同学，请看《  扫盲文件完整性校验——关于散列值和数字签名  》   这玩意儿的界面截图如下：     它在刻录前会先格式化U盘，所以 
+   一定要记得勾选【快速格式化】
+   。如果没勾选这项，它会进行“完全格式化”。现在的U盘动不动都有好几个GB，完全格式化要等很久。         ★UNetbootin 的玩法（跨平台） 
+  UNetbootin 的官网在“  这里  ”。主页开头就是三大平台（Windows、Linux、Mac OS X）的下载链接。   Windows 的界面截图如下：     这玩意儿的使用很简单，看俺截图上的标注应该就懂。         ★dd 的玩法（跨平台） 
+  
+   dd
+   是一个很有用的 Linux/Unix 命令，它可以用来进行设备之间的【裸读写】。所谓的“裸读写”就是——它不理睬文件系统，直接越过文件系统对物理设备进行读写。所以它可以干很多“拷贝命令”（ 
+   copy
+   or 
+   cp
+   ）无法干或不方便干的事情（比如：备份/恢复“硬盘主引导扇区”）。今天俺来聊聊如何用 dd 把光盘镜像刻录到 U盘。  可能有些熟悉 Linux 的同学会质疑，Linux 的 
+   cp
+   命令也可以用来刻录 iso 镜像。  俺来解释一下：本文之所以强调 
+   dd
+   命令，还考虑到 
+   dd
+   有 Windows 的移植版本，而且它的 Windows 版本照样能把 ISO 镜像制作到 U盘。        ◇在 Linux/Unix 上的玩法 
+  假设你有一个 iso 镜像文件，路径是 
+   ~/xxx.iso
+    假设你的 U盘对应的设备是 
+   /dev/sdb
+    那么就可以用如下命令搞定：      dd bs=4M if=~/xxx.iso of=/dev/sdb    
+ 稍微解释一下：  
+   bs
+   参数表示每次批量读写 4MB 字节的数据（俺一般都用 4M，你也可以用 8M、2M 或 1M）。  
+   if
+   参数表示输入（文件/设备）的路径，在这里用的是光盘镜像文件。  
+   of
+   参数表示输出（文件/设备）的路径，在这里用的是U盘设备。   大多数 Linux 发行版都内置了这个 
+   dd
+   命令，所以一般情况下，你【无需】额外安装软件包就可以使用。执行完 
+   dd
+   命令之后，要记得再执行一下 
+   sync
+   命令同步磁盘缓存，再拔出U盘。        ◇在 Windows 上的玩法 
+  dd 命令也被移植到 Windows 系统上。具体请到“  这里  ”下载。页面比较长，前半段是帮助，你找“Downloads for dd”，就可以看到下载链接。  俺目前用的是 0.5 版本（截止俺写本文时，0.6 版本还是【beta】状态，不爽）。   Windows 下的 dd，其用法与 Linux 下差不多。唯一要留意的是——U盘的【设备路径】。  （通常U盘上只有一个分区）你插入 U盘 后，假如盘符是 
+   F:
+   那么对应的设备路径就是 
+   \\.\f:
+    如果你的 iso 镜像文件放在 
+   C:\xxx.iso
+   那么就用如下的 dd 命令把镜像刻录到 U盘      dd bs=4M if=C:\xxx.iso of=\\.\f:    
+ （参数刚才解释过，这儿就不再罗嗦了）         ★优缺点对比 
+  总结一下上述三种方法的优缺点。        ◇兼容性方面 
+  对于U盘制作工具，兼容性很重要。兼容性不好，可能导致刻录的U盘无法启动。  rufus 和 UNetbootin 的兼容性好于 dd。dd 的缺点在于：如果某个镜像本身不是 hybrid 模式（hybrid 的解释，本文开头已经说过），用 dd 刻录之后会【无法】启动。而 rufus 和 UNetbootin 可以在刻录U盘的时候进行相应的处理。  针对 dd 的这个缺点，有一个补救的办法：  对于 Linux/Unix 平台，先使用 
+   isohybrid
+   命令把 iso 镜像转换成 hybrid 模式（该命令来自于  SysLinux/ISOLinux 软件包  ）。假设你的光盘镜像位于 
+   ～/xxx.iso
+   那么使用如下命令转换：（可惜该命令【没有】windows 版本）      isohybrid ~/xxx.iso    
+  至于 rufus 和 UNetbootin 的对比，俺个人觉得 rufus 不但优于 UNetbootin，而且也优于某些其它工具（比如 Universal USB Installer）。俺曾经碰到过：同一个ISO镜像，同一个物理U盘，用 UNetbootin 刻录后无法启动，而 rufus 刻录后可以启动。        ◇速度方面 
+  dd 的速度最快（前面说了，dd 是【裸读写】，所以速度飞快）；  rufus 的速度比 UNetbootin 快（rufus 的官网界面上有几种不同工具的速度对比）        ◇易用性方面 
+  UNetbootin 和 rufus 差不多——都有傻瓜化的图形界面。  dd 易用性最差——必须得用命令行（这会难倒一大帮菜鸟）。        ◇跨平台方面 
+  UNetbootin 好于 dd 好于 rufus（rufus 只有 Windows 版本）  提醒一下：  这里说的“跨平台”指的是工具自身，而不是制作出来的光盘。比如 rufus 虽然只有 Windows 版本，但 rufus 可以制作 Linux 的安装盘。         ★读者反馈 
+  虽然俺折腾过一些系统，但接触面依然很有限。而且制作可引导U盘，依赖的因素很多（至少包括：BIOS 型号、U盘的牌子、光盘的类型、还有运气）。所以，非常欢迎大伙儿针对本文的内容，提出反馈（可以补充你的经验，或者你曾经碰到的问题）。  为了便于大伙儿相互交流，请到  本文留言  。   以下是读者反馈的汇总，供大伙儿参考（因为反馈信息比较多，俺未必能逐一验证，大伙儿自行判断）：        ◇1楼的网友 
+  推荐两款工具  推荐“  Universal USB installer  ”，可以做windows, Linux, Solaris等USB安装器  推荐“  YUMI  ”，有上面的功能，另外又增加了一些功能。        ◇2楼的网友 
+  UltraISO9.5.2_pe在windows下表现最好。注意，仅仅是UltraISO9.5.2_pe好用，其以后的版本不好用。        ◇3楼的网友 
+  推荐“  Win32 Disk Imager  ”        ◇5楼2单元的网友 
+  Hiren's BootCD搞电脑必备啊        ◇6楼的网友 
+  raw 文件可以用 SUSE Studio ImageWriter  img 文件可以用 Win32 Disk Imager        ◇11楼的网友 
+  在 Windows 下刻录U盘的时候，需要关闭某些杀毒软件。否则杀毒软件会拦截写入的启动文件，导致做出来的U无法启动。        ◇26楼的网友 
+  “  LinuxLive USB Creator  ”也不错，支持的系统很多。        ◇33楼的网友 
+  补充一点rufus不如Unetbootin的地方，就是Unetbootin不仅支持对iso文件的刻录，而且可以用压缩的光盘镜像文件（isz文件）来刻录启动盘，而rufus好像没有这一功能。    
+   俺博客上，和本文相关的帖子（需翻墙）
+   ：  《  如何用【内置硬盘】全新安装 Windows 2000/XP/2003/Vista/2008/7/8（无需光驱和USB口）  》  《  扫盲操作系统虚拟机  》（系列）  《  扫盲文件完整性校验——关于散列值和数字签名  》     
+
+    版权声明
+     本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者  编程随想  和本文原始地址：   https://program-think.blogspot.com/2013/12/create-bootable-usb-stick-from-iso.html 
+    
+    
+  
+  
+    
+         
+    
+    
+    
+ 
+    
+  
+
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="如何用 ISO 镜像制作 U 盘安装盘（通用方法、无需 WinPE）" />
+    <meta property="twitter:title" content="如何用 ISO 镜像制作 U 盘安装盘（通用方法、无需 WinPE）" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fprogram-think.blogspot.com%2F2013%2F12%2Fcreate-bootable-usb-stick-from-iso.html" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://program-think.blogspot.com/2013/12/create-bootable-usb-stick-from-iso.html" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://program-think.blogspot.com/2013/12/create-bootable-usb-stick-from-iso.html&text=如何用 ISO 镜像制作 U 盘安装盘（通用方法、无需 WinPE）&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://program-think.blogspot.com/2013/12/create-bootable-usb-stick-from-iso.html&title=如何用 ISO 镜像制作 U 盘安装盘（通用方法、无需 WinPE）" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://program-think.blogspot.com/2013/12/create-bootable-usb-stick-from-iso.html&title=如何用 ISO 镜像制作 U 盘安装盘（通用方法、无需 WinPE）" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=如何用 ISO 镜像制作 U 盘安装盘（通用方法、无需 WinPE）&body=
+
+      如何用 ISO 镜像制作 U 盘安装盘（通用方法、无需 WinPE）  
+  
+    
+      
+    
+  
+  
+今天聊的这个话题属于老生常谈，这几年时常有读者来询问（现在有越来越多的电脑是无光驱的）。再加上俺后面要扫盲一些“特殊的 Linux 发行版”，到时候肯定又要涉及到制作可引导U盘的事情。所以，今天先单独发一篇教程，说说几种不同的搞法。  事先声明：  1. 本文针对的是U盘，而不是外置的USB硬盘。外置USB移动硬盘的操作方式稍有不同，如果很多人感兴趣，再另外写一篇教程）  2. 本文介绍的是“用U盘当安装盘”，而【不是】“安装系统到U盘”（这两者是完全不同滴！）  
+       
+        ★扫盲若干【基本概念】 
+  考虑到本文面向的读者，技术水平参差不齐。针对某些菜鸟读者，俺需要先解释一下基本概念。如果你自认为不是菜鸟，请略过“基本概念解释”，直接看后续章节。        ◇光盘镜像 
+  所谓的“光盘镜像”其实是一个文件，可以用专门的刻录软件（再配合“可写光驱”），就可以把镜像文件刻录成光盘。  光盘镜像有好几种格式，目前最常见的是扩展名为“ISO”的格式（这个扩展名源自于 ISO 9660 标准）。大多数操作系统提供的光盘镜像文件，都是ISO格式的。        ◇啥是“可启动的”光盘镜像？ 
+  “可启动光盘”也称为“可引导光盘”（洋文叫“bootable”）。这类光盘插入光驱之后，如果你在 BIOS 中设置“光驱优先启动”，那么就可以用这种光盘启动电脑。  同样的，光盘镜像也分：可启动 和 不可启动 两种。比如某些存放视频/音乐的ISO就是不可启动的；而用来安装系统的镜像，必须是可启动的（显然嘛）。所以，如果你想制作可启动的U盘，前提是你用的光盘镜像本身是可启动的。        ◇如何判断光盘镜像是否可启动？ 
+  刚才说了：光盘镜像只是一个文件，不是物理光盘。所以你没法把它塞入物理光驱中，用虚拟光驱也不方便测试。俺建议用虚拟机软件测试。从来没听说过“虚拟机软件”的同学，可以先看之前的教程《  扫盲操作系统虚拟机  》。  测试方法如下：先建一个空的虚拟系统（Guest OS），在虚拟系统的“光驱”中设置你要测试的那个镜像文件，然后启动虚拟系统。如果能看到操作系统的相关画面，就说明启动成功；如果屏幕一片黑或者出现找不到系统的英文提示，就说明这个镜像无法启动（无法引导）。        ◇Hybrid 模式 
+  对于可启动光盘，有一种模式称之为“Hybrid 模式”（混合模式）。这种模式的光盘，可以直接刻录成物理光盘，也可以直接制作成可引导的U盘。  如今越来越多的操作系统安装光盘采用“Hybrid 模式”，这就方便了大伙儿制作“可启动U盘”。另外，有些光盘虽然不是“Hybrid 模式”，但可以用工具转换成“Hybrid 模式”。         ★啥是【通用】制作方法？ 
+  所谓的“通用做法”，就是说这类方法跟光盘内置的系统无关，适用于大多数的光盘镜像（可以是 Windows 系统盘，也可以是 Linux 系统盘，也可以是苹果的系统盘）。  但是，“通用方法”不等于“万能方法”。某些古老的系统（比如 Win2000、WinXP）用下列方法可能搞不定。针对这类老系统，需要使用专门的工具（考虑到老系统用得越来越少了，所以今天暂时不聊）。  今天介绍的这三种工具，应该可以搞定：  1. WIndows Vista 之后的安装盘（Vista、Win7、Win8）  2. 各种主流的 Linux 发行版（比如 Debian、Ubuntu、RedHat、CentOS、Fedora、等）  3. 苹果的安装盘         ★为啥选择这几款工具？ 
+  能够达到“通用”目的工具有不少。俺今天挑选3款【开源的】来介绍。为啥只挑选开源的？有如下几个讲究：  一来，俺本人比较偏好开源软件（纯属个人喜好）  二来，开源软件不但免费，而且无需注册码，也没有使用期限的限制（方便性）。  三来，相对闭源软件而言，开源比较让人放心（安全性）。   常看俺博客的同学应该都知道，俺是比较关注“安全性”的，所以再把第三点补充说明一下。  用光盘镜像制作可启动U盘，主要都是为了装系统。如果使用的制作工具本身不可靠（比如带木马），会导致你制作出来的启动U盘也不安全，进而导致你安装出来的系统不安全。   顺便再说一下：为啥俺【不】喜欢用 WinPE 类型的 U盘工具。  1. PE 方式的局限性——只能用于 Windows 系统（而现在有越来越多的网友开始玩 Linux 或 Mac OS）。  2. 很多 PE 工具是【国产滴】——而国产的 PE 工具总喜欢【夹带私货】。不要怨俺“崇洋”，实在是国产软件出了太多的流氓，用起来心里不踏实。         ★rufus 的玩法（Windows 平台） 
+  rufus 这款工具，知名度不太高，但用起来比较爽（界面的定制选项多，而且速度快）。它的官网在“  这里  ”。  提醒一下：rufus 的 exe 文件带有【数字签名】，所以下载之后先验证数字签名是否有效（要养成这个好习惯）。不懂得验证数字签名的同学，请看《  扫盲文件完整性校验——关于散列值和数字签名  》   这玩意儿的界面截图如下：     它在刻录前会先格式化U盘，所以 
+   一定要记得勾选【快速格式化】
+   。如果没勾选这项，它会进行“完全格式化”。现在的U盘动不动都有好几个GB，完全格式化要等很久。         ★UNetbootin 的玩法（跨平台） 
+  UNetbootin 的官网在“  这里  ”。主页开头就是三大平台（Windows、Linux、Mac OS X）的下载链接。   Windows 的界面截图如下：     这玩意儿的使用很简单，看俺截图上的标注应该就懂。         ★dd 的玩法（跨平台） 
+  
+   dd
+   是一个很有用的 Linux/Unix 命令，它可以用来进行设备之间的【裸读写】。所谓的“裸读写”就是——它不理睬文件系统，直接越过文件系统对物理设备进行读写。所以它可以干很多“拷贝命令”（ 
+   copy
+   or 
+   cp
+   ）无法干或不方便干的事情（比如：备份/恢复“硬盘主引导扇区”）。今天俺来聊聊如何用 dd 把光盘镜像刻录到 U盘。  可能有些熟悉 Linux 的同学会质疑，Linux 的 
+   cp
+   命令也可以用来刻录 iso 镜像。  俺来解释一下：本文之所以强调 
+   dd
+   命令，还考虑到 
+   dd
+   有 Windows 的移植版本，而且它的 Windows 版本照样能把 ISO 镜像制作到 U盘。        ◇在 Linux/Unix 上的玩法 
+  假设你有一个 iso 镜像文件，路径是 
+   ~/xxx.iso
+    假设你的 U盘对应的设备是 
+   /dev/sdb
+    那么就可以用如下命令搞定：      dd bs=4M if=~/xxx.iso of=/dev/sdb    
+ 稍微解释一下：  
+   bs
+   参数表示每次批量读写 4MB 字节的数据（俺一般都用 4M，你也可以用 8M、2M 或 1M）。  
+   if
+   参数表示输入（文件/设备）的路径，在这里用的是光盘镜像文件。  
+   of
+   参数表示输出（文件/设备）的路径，在这里用的是U盘设备。   大多数 Linux 发行版都内置了这个 
+   dd
+   命令，所以一般情况下，你【无需】额外安装软件包就可以使用。执行完 
+   dd
+   命令之后，要记得再执行一下 
+   sync
+   命令同步磁盘缓存，再拔出U盘。        ◇在 Windows 上的玩法 
+  dd 命令也被移植到 Windows 系统上。具体请到“  这里  ”下载。页面比较长，前半段是帮助，你找“Downloads for dd”，就可以看到下载链接。  俺目前用的是 0.5 版本（截止俺写本文时，0.6 版本还是【beta】状态，不爽）。   Windows 下的 dd，其用法与 Linux 下差不多。唯一要留意的是——U盘的【设备路径】。  （通常U盘上只有一个分区）你插入 U盘 后，假如盘符是 
+   F:
+   那么对应的设备路径就是 
+   \\.\f:
+    如果你的 iso 镜像文件放在 
+   C:\xxx.iso
+   那么就用如下的 dd 命令把镜像刻录到 U盘      dd bs=4M if=C:\xxx.iso of=\\.\f:    
+ （参数刚才解释过，这儿就不再罗嗦了）         ★优缺点对比 
+  总结一下上述三种方法的优缺点。        ◇兼容性方面 
+  对于U盘制作工具，兼容性很重要。兼容性不好，可能导致刻录的U盘无法启动。  rufus 和 UNetbootin 的兼容性好于 dd。dd 的缺点在于：如果某个镜像本身不是 hybrid 模式（hybrid 的解释，本文开头已经说过），用 dd 刻录之后会【无法】启动。而 rufus 和 UNetbootin 可以在刻录U盘的时候进行相应的处理。  针对 dd 的这个缺点，有一个补救的办法：  对于 Linux/Unix 平台，先使用 
+   isohybrid
+   命令把 iso 镜像转换成 hybrid 模式（该命令来自于  SysLinux/ISOLinux 软件包  ）。假设你的光盘镜像位于 
+   ～/xxx.iso
+   那么使用如下命令转换：（可惜该命令【没有】windows 版本）      isohybrid ~/xxx.iso    
+  至于 rufus 和 UNetbootin 的对比，俺个人觉得 rufus 不但优于 UNetbootin，而且也优于某些其它工具（比如 Universal USB Installer）。俺曾经碰到过：同一个ISO镜像，同一个物理U盘，用 UNetbootin 刻录后无法启动，而 rufus 刻录后可以启动。        ◇速度方面 
+  dd 的速度最快（前面说了，dd 是【裸读写】，所以速度飞快）；  rufus 的速度比 UNetbootin 快（rufus 的官网界面上有几种不同工具的速度对比）        ◇易用性方面 
+  UNetbootin 和 rufus 差不多——都有傻瓜化的图形界面。  dd 易用性最差——必须得用命令行（这会难倒一大帮菜鸟）。        ◇跨平台方面 
+  UNetbootin 好于 dd 好于 rufus（rufus 只有 Windows 版本）  提醒一下：  这里说的“跨平台”指的是工具自身，而不是制作出来的光盘。比如 rufus 虽然只有 Windows 版本，但 rufus 可以制作 Linux 的安装盘。         ★读者反馈 
+  虽然俺折腾过一些系统，但接触面依然很有限。而且制作可引导U盘，依赖的因素很多（至少包括：BIOS 型号、U盘的牌子、光盘的类型、还有运气）。所以，非常欢迎大伙儿针对本文的内容，提出反馈（可以补充你的经验，或者你曾经碰到的问题）。  为了便于大伙儿相互交流，请到  本文留言  。   以下是读者反馈的汇总，供大伙儿参考（因为反馈信息比较多，俺未必能逐一验证，大伙儿自行判断）：        ◇1楼的网友 
+  推荐两款工具  推荐“  Universal USB installer  ”，可以做windows, Linux, Solaris等USB安装器  推荐“  YUMI  ”，有上面的功能，另外又增加了一些功能。        ◇2楼的网友 
+  UltraISO9.5.2_pe在windows下表现最好。注意，仅仅是UltraISO9.5.2_pe好用，其以后的版本不好用。        ◇3楼的网友 
+  推荐“  Win32 Disk Imager  ”        ◇5楼2单元的网友 
+  Hiren's BootCD搞电脑必备啊        ◇6楼的网友 
+  raw 文件可以用 SUSE Studio ImageWriter  img 文件可以用 Win32 Disk Imager        ◇11楼的网友 
+  在 Windows 下刻录U盘的时候，需要关闭某些杀毒软件。否则杀毒软件会拦截写入的启动文件，导致做出来的U无法启动。        ◇26楼的网友 
+  “  LinuxLive USB Creator  ”也不错，支持的系统很多。        ◇33楼的网友 
+  补充一点rufus不如Unetbootin的地方，就是Unetbootin不仅支持对iso文件的刻录，而且可以用压缩的光盘镜像文件（isz文件）来刻录启动盘，而rufus好像没有这一功能。    
+   俺博客上，和本文相关的帖子（需翻墙）
+   ：  《  如何用【内置硬盘】全新安装 Windows 2000/XP/2003/Vista/2008/7/8（无需光驱和USB口）  》  《  扫盲操作系统虚拟机  》（系列）  《  扫盲文件完整性校验——关于散列值和数字签名  》     
+
+    版权声明
+     本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者  编程随想  和本文原始地址：   https://program-think.blogspot.com/2013/12/create-bootable-usb-stick-from-iso.html 
+    
+    
+  
+  
+    
+         
+    
+    
+    
+ 
+    
+  
+
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://program-think.blogspot.com/2013/12/create-bootable-usb-stick-from-iso.html" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://program-think.blogspot.com/2013/12/create-bootable-usb-stick-from-iso.html&title=如何用 ISO 镜像制作 U 盘安装盘（通用方法、无需 WinPE）&caption=
+
+      如何用 ISO 镜像制作 U 盘安装盘（通用方法、无需 WinPE）  
+  
+    
+      
+    
+  
+  
+今天聊的这个话题属于老生常谈，这几年时常有读者来询问（现在有越来越多的电脑是无光驱的）。再加上俺后面要扫盲一些“特殊的 Linux 发行版”，到时候肯定又要涉及到制作可引导U盘的事情。所以，今天先单独发一篇教程，说说几种不同的搞法。  事先声明：  1. 本文针对的是U盘，而不是外置的USB硬盘。外置USB移动硬盘的操作方式稍有不同，如果很多人感兴趣，再另外写一篇教程）  2. 本文介绍的是“用U盘当安装盘”，而【不是】“安装系统到U盘”（这两者是完全不同滴！）  
+       
+        ★扫盲若干【基本概念】 
+  考虑到本文面向的读者，技术水平参差不齐。针对某些菜鸟读者，俺需要先解释一下基本概念。如果你自认为不是菜鸟，请略过“基本概念解释”，直接看后续章节。        ◇光盘镜像 
+  所谓的“光盘镜像”其实是一个文件，可以用专门的刻录软件（再配合“可写光驱”），就可以把镜像文件刻录成光盘。  光盘镜像有好几种格式，目前最常见的是扩展名为“ISO”的格式（这个扩展名源自于 ISO 9660 标准）。大多数操作系统提供的光盘镜像文件，都是ISO格式的。        ◇啥是“可启动的”光盘镜像？ 
+  “可启动光盘”也称为“可引导光盘”（洋文叫“bootable”）。这类光盘插入光驱之后，如果你在 BIOS 中设置“光驱优先启动”，那么就可以用这种光盘启动电脑。  同样的，光盘镜像也分：可启动 和 不可启动 两种。比如某些存放视频/音乐的ISO就是不可启动的；而用来安装系统的镜像，必须是可启动的（显然嘛）。所以，如果你想制作可启动的U盘，前提是你用的光盘镜像本身是可启动的。        ◇如何判断光盘镜像是否可启动？ 
+  刚才说了：光盘镜像只是一个文件，不是物理光盘。所以你没法把它塞入物理光驱中，用虚拟光驱也不方便测试。俺建议用虚拟机软件测试。从来没听说过“虚拟机软件”的同学，可以先看之前的教程《  扫盲操作系统虚拟机  》。  测试方法如下：先建一个空的虚拟系统（Guest OS），在虚拟系统的“光驱”中设置你要测试的那个镜像文件，然后启动虚拟系统。如果能看到操作系统的相关画面，就说明启动成功；如果屏幕一片黑或者出现找不到系统的英文提示，就说明这个镜像无法启动（无法引导）。        ◇Hybrid 模式 
+  对于可启动光盘，有一种模式称之为“Hybrid 模式”（混合模式）。这种模式的光盘，可以直接刻录成物理光盘，也可以直接制作成可引导的U盘。  如今越来越多的操作系统安装光盘采用“Hybrid 模式”，这就方便了大伙儿制作“可启动U盘”。另外，有些光盘虽然不是“Hybrid 模式”，但可以用工具转换成“Hybrid 模式”。         ★啥是【通用】制作方法？ 
+  所谓的“通用做法”，就是说这类方法跟光盘内置的系统无关，适用于大多数的光盘镜像（可以是 Windows 系统盘，也可以是 Linux 系统盘，也可以是苹果的系统盘）。  但是，“通用方法”不等于“万能方法”。某些古老的系统（比如 Win2000、WinXP）用下列方法可能搞不定。针对这类老系统，需要使用专门的工具（考虑到老系统用得越来越少了，所以今天暂时不聊）。  今天介绍的这三种工具，应该可以搞定：  1. WIndows Vista 之后的安装盘（Vista、Win7、Win8）  2. 各种主流的 Linux 发行版（比如 Debian、Ubuntu、RedHat、CentOS、Fedora、等）  3. 苹果的安装盘         ★为啥选择这几款工具？ 
+  能够达到“通用”目的工具有不少。俺今天挑选3款【开源的】来介绍。为啥只挑选开源的？有如下几个讲究：  一来，俺本人比较偏好开源软件（纯属个人喜好）  二来，开源软件不但免费，而且无需注册码，也没有使用期限的限制（方便性）。  三来，相对闭源软件而言，开源比较让人放心（安全性）。   常看俺博客的同学应该都知道，俺是比较关注“安全性”的，所以再把第三点补充说明一下。  用光盘镜像制作可启动U盘，主要都是为了装系统。如果使用的制作工具本身不可靠（比如带木马），会导致你制作出来的启动U盘也不安全，进而导致你安装出来的系统不安全。   顺便再说一下：为啥俺【不】喜欢用 WinPE 类型的 U盘工具。  1. PE 方式的局限性——只能用于 Windows 系统（而现在有越来越多的网友开始玩 Linux 或 Mac OS）。  2. 很多 PE 工具是【国产滴】——而国产的 PE 工具总喜欢【夹带私货】。不要怨俺“崇洋”，实在是国产软件出了太多的流氓，用起来心里不踏实。         ★rufus 的玩法（Windows 平台） 
+  rufus 这款工具，知名度不太高，但用起来比较爽（界面的定制选项多，而且速度快）。它的官网在“  这里  ”。  提醒一下：rufus 的 exe 文件带有【数字签名】，所以下载之后先验证数字签名是否有效（要养成这个好习惯）。不懂得验证数字签名的同学，请看《  扫盲文件完整性校验——关于散列值和数字签名  》   这玩意儿的界面截图如下：     它在刻录前会先格式化U盘，所以 
+   一定要记得勾选【快速格式化】
+   。如果没勾选这项，它会进行“完全格式化”。现在的U盘动不动都有好几个GB，完全格式化要等很久。         ★UNetbootin 的玩法（跨平台） 
+  UNetbootin 的官网在“  这里  ”。主页开头就是三大平台（Windows、Linux、Mac OS X）的下载链接。   Windows 的界面截图如下：     这玩意儿的使用很简单，看俺截图上的标注应该就懂。         ★dd 的玩法（跨平台） 
+  
+   dd
+   是一个很有用的 Linux/Unix 命令，它可以用来进行设备之间的【裸读写】。所谓的“裸读写”就是——它不理睬文件系统，直接越过文件系统对物理设备进行读写。所以它可以干很多“拷贝命令”（ 
+   copy
+   or 
+   cp
+   ）无法干或不方便干的事情（比如：备份/恢复“硬盘主引导扇区”）。今天俺来聊聊如何用 dd 把光盘镜像刻录到 U盘。  可能有些熟悉 Linux 的同学会质疑，Linux 的 
+   cp
+   命令也可以用来刻录 iso 镜像。  俺来解释一下：本文之所以强调 
+   dd
+   命令，还考虑到 
+   dd
+   有 Windows 的移植版本，而且它的 Windows 版本照样能把 ISO 镜像制作到 U盘。        ◇在 Linux/Unix 上的玩法 
+  假设你有一个 iso 镜像文件，路径是 
+   ~/xxx.iso
+    假设你的 U盘对应的设备是 
+   /dev/sdb
+    那么就可以用如下命令搞定：      dd bs=4M if=~/xxx.iso of=/dev/sdb    
+ 稍微解释一下：  
+   bs
+   参数表示每次批量读写 4MB 字节的数据（俺一般都用 4M，你也可以用 8M、2M 或 1M）。  
+   if
+   参数表示输入（文件/设备）的路径，在这里用的是光盘镜像文件。  
+   of
+   参数表示输出（文件/设备）的路径，在这里用的是U盘设备。   大多数 Linux 发行版都内置了这个 
+   dd
+   命令，所以一般情况下，你【无需】额外安装软件包就可以使用。执行完 
+   dd
+   命令之后，要记得再执行一下 
+   sync
+   命令同步磁盘缓存，再拔出U盘。        ◇在 Windows 上的玩法 
+  dd 命令也被移植到 Windows 系统上。具体请到“  这里  ”下载。页面比较长，前半段是帮助，你找“Downloads for dd”，就可以看到下载链接。  俺目前用的是 0.5 版本（截止俺写本文时，0.6 版本还是【beta】状态，不爽）。   Windows 下的 dd，其用法与 Linux 下差不多。唯一要留意的是——U盘的【设备路径】。  （通常U盘上只有一个分区）你插入 U盘 后，假如盘符是 
+   F:
+   那么对应的设备路径就是 
+   \\.\f:
+    如果你的 iso 镜像文件放在 
+   C:\xxx.iso
+   那么就用如下的 dd 命令把镜像刻录到 U盘      dd bs=4M if=C:\xxx.iso of=\\.\f:    
+ （参数刚才解释过，这儿就不再罗嗦了）         ★优缺点对比 
+  总结一下上述三种方法的优缺点。        ◇兼容性方面 
+  对于U盘制作工具，兼容性很重要。兼容性不好，可能导致刻录的U盘无法启动。  rufus 和 UNetbootin 的兼容性好于 dd。dd 的缺点在于：如果某个镜像本身不是 hybrid 模式（hybrid 的解释，本文开头已经说过），用 dd 刻录之后会【无法】启动。而 rufus 和 UNetbootin 可以在刻录U盘的时候进行相应的处理。  针对 dd 的这个缺点，有一个补救的办法：  对于 Linux/Unix 平台，先使用 
+   isohybrid
+   命令把 iso 镜像转换成 hybrid 模式（该命令来自于  SysLinux/ISOLinux 软件包  ）。假设你的光盘镜像位于 
+   ～/xxx.iso
+   那么使用如下命令转换：（可惜该命令【没有】windows 版本）      isohybrid ~/xxx.iso    
+  至于 rufus 和 UNetbootin 的对比，俺个人觉得 rufus 不但优于 UNetbootin，而且也优于某些其它工具（比如 Universal USB Installer）。俺曾经碰到过：同一个ISO镜像，同一个物理U盘，用 UNetbootin 刻录后无法启动，而 rufus 刻录后可以启动。        ◇速度方面 
+  dd 的速度最快（前面说了，dd 是【裸读写】，所以速度飞快）；  rufus 的速度比 UNetbootin 快（rufus 的官网界面上有几种不同工具的速度对比）        ◇易用性方面 
+  UNetbootin 和 rufus 差不多——都有傻瓜化的图形界面。  dd 易用性最差——必须得用命令行（这会难倒一大帮菜鸟）。        ◇跨平台方面 
+  UNetbootin 好于 dd 好于 rufus（rufus 只有 Windows 版本）  提醒一下：  这里说的“跨平台”指的是工具自身，而不是制作出来的光盘。比如 rufus 虽然只有 Windows 版本，但 rufus 可以制作 Linux 的安装盘。         ★读者反馈 
+  虽然俺折腾过一些系统，但接触面依然很有限。而且制作可引导U盘，依赖的因素很多（至少包括：BIOS 型号、U盘的牌子、光盘的类型、还有运气）。所以，非常欢迎大伙儿针对本文的内容，提出反馈（可以补充你的经验，或者你曾经碰到的问题）。  为了便于大伙儿相互交流，请到  本文留言  。   以下是读者反馈的汇总，供大伙儿参考（因为反馈信息比较多，俺未必能逐一验证，大伙儿自行判断）：        ◇1楼的网友 
+  推荐两款工具  推荐“  Universal USB installer  ”，可以做windows, Linux, Solaris等USB安装器  推荐“  YUMI  ”，有上面的功能，另外又增加了一些功能。        ◇2楼的网友 
+  UltraISO9.5.2_pe在windows下表现最好。注意，仅仅是UltraISO9.5.2_pe好用，其以后的版本不好用。        ◇3楼的网友 
+  推荐“  Win32 Disk Imager  ”        ◇5楼2单元的网友 
+  Hiren's BootCD搞电脑必备啊        ◇6楼的网友 
+  raw 文件可以用 SUSE Studio ImageWriter  img 文件可以用 Win32 Disk Imager        ◇11楼的网友 
+  在 Windows 下刻录U盘的时候，需要关闭某些杀毒软件。否则杀毒软件会拦截写入的启动文件，导致做出来的U无法启动。        ◇26楼的网友 
+  “  LinuxLive USB Creator  ”也不错，支持的系统很多。        ◇33楼的网友 
+  补充一点rufus不如Unetbootin的地方，就是Unetbootin不仅支持对iso文件的刻录，而且可以用压缩的光盘镜像文件（isz文件）来刻录启动盘，而rufus好像没有这一功能。    
+   俺博客上，和本文相关的帖子（需翻墙）
+   ：  《  如何用【内置硬盘】全新安装 Windows 2000/XP/2003/Vista/2008/7/8（无需光驱和USB口）  》  《  扫盲操作系统虚拟机  》（系列）  《  扫盲文件完整性校验——关于散列值和数字签名  》     
+
+    版权声明
+     本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者  编程随想  和本文原始地址：   https://program-think.blogspot.com/2013/12/create-bootable-usb-stick-from-iso.html 
+    
+    
+  
+  
+    
+         
+    
+    
+    
+ 
+    
+  
+
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=如何用 ISO 镜像制作 U 盘安装盘（通用方法、无需 WinPE）&url=https://program-think.blogspot.com/2013/12/create-bootable-usb-stick-from-iso.html" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>如何用 ISO 镜像制作 U 盘安装盘（通用方法、无需 WinPE）</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2013-12-20
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#编程随想">
+          编程随想
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://program-think.blogspot.com/2013/12/create-bootable-usb-stick-from-iso.html" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="编程随想的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#编程随想 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <div class="post hentry uncustomized-post-template">
+<a name="394041811772613379">
+ </a>   <h1 class="post-title entry-title" id="iso--u--winpe--"> <a href="https://program-think.blogspot.com/2013/12/create-bootable-usb-stick-from-iso.html"> 如何用 ISO 镜像制作 U 盘安装盘（通用方法、无需 WinPE） </a> </h1>
+  <div class="post-header">
+    <div class="post-header-line-1">
+      <div class="post-inner-index"></div>
+    </div>
+  </div>
+  <div class="post-body entry-content">
+今天聊的这个话题属于老生常谈，这几年时常有读者来询问（现在有越来越多的电脑是无光驱的）。再加上俺后面要扫盲一些“特殊的 Linux 发行版”，到时候肯定又要涉及到制作可引导U盘的事情。所以，今天先单独发一篇教程，说说几种不同的搞法。 <br /> 事先声明： <br /> 1. 本文针对的是U盘，而不是外置的USB硬盘。外置USB移动硬盘的操作方式稍有不同，如果很多人感兴趣，再另外写一篇教程） <br /> 2. 本文介绍的是“用U盘当安装盘”，而【不是】“安装系统到U盘”（这两者是完全不同滴！） <br /> <a name="more">
+  </a>     <!--program-think-->
+ <br /> <br />     <h2 id="section"> ★扫盲若干【基本概念】 </h2>
+ <br /> 考虑到本文面向的读者，技术水平参差不齐。针对某些菜鸟读者，俺需要先解释一下基本概念。如果你自认为不是菜鸟，请略过“基本概念解释”，直接看后续章节。 <br /> <br />     <h3 id="section-1"> ◇光盘镜像 </h3>
+ <br /> 所谓的“光盘镜像”其实是一个文件，可以用专门的刻录软件（再配合“可写光驱”），就可以把镜像文件刻录成光盘。 <br /> 光盘镜像有好几种格式，目前最常见的是扩展名为“ISO”的格式（这个扩展名源自于 ISO 9660 标准）。大多数操作系统提供的光盘镜像文件，都是ISO格式的。 <br /> <br />     <h3 id="section-2"> ◇啥是“可启动的”光盘镜像？ </h3>
+ <br /> “可启动光盘”也称为“可引导光盘”（洋文叫“bootable”）。这类光盘插入光驱之后，如果你在 BIOS 中设置“光驱优先启动”，那么就可以用这种光盘启动电脑。 <br /> 同样的，光盘镜像也分：可启动 和 不可启动 两种。比如某些存放视频/音乐的ISO就是不可启动的；而用来安装系统的镜像，必须是可启动的（显然嘛）。所以，如果你想制作可启动的U盘，前提是你用的光盘镜像本身是可启动的。 <br /> <br />     <h3 id="section-3"> ◇如何判断光盘镜像是否可启动？ </h3>
+ <br /> 刚才说了：光盘镜像只是一个文件，不是物理光盘。所以你没法把它塞入物理光驱中，用虚拟光驱也不方便测试。俺建议用虚拟机软件测试。从来没听说过“虚拟机软件”的同学，可以先看之前的教程《 <a href="https://program-think.blogspot.com/2012/10/system-vm-0.html"> 扫盲操作系统虚拟机 </a> 》。 <br /> 测试方法如下：先建一个空的虚拟系统（Guest OS），在虚拟系统的“光驱”中设置你要测试的那个镜像文件，然后启动虚拟系统。如果能看到操作系统的相关画面，就说明启动成功；如果屏幕一片黑或者出现找不到系统的英文提示，就说明这个镜像无法启动（无法引导）。 <br /> <br />     <h3 id="hybrid--"> ◇Hybrid 模式 </h3>
+ <br /> 对于可启动光盘，有一种模式称之为“Hybrid 模式”（混合模式）。这种模式的光盘，可以直接刻录成物理光盘，也可以直接制作成可引导的U盘。 <br /> 如今越来越多的操作系统安装光盘采用“Hybrid 模式”，这就方便了大伙儿制作“可启动U盘”。另外，有些光盘虽然不是“Hybrid 模式”，但可以用工具转换成“Hybrid 模式”。 <br /> <br /> <br />     <h2 id="section-4"> ★啥是【通用】制作方法？ </h2>
+ <br /> 所谓的“通用做法”，就是说这类方法跟光盘内置的系统无关，适用于大多数的光盘镜像（可以是 Windows 系统盘，也可以是 Linux 系统盘，也可以是苹果的系统盘）。 <br /> 但是，“通用方法”不等于“万能方法”。某些古老的系统（比如 Win2000、WinXP）用下列方法可能搞不定。针对这类老系统，需要使用专门的工具（考虑到老系统用得越来越少了，所以今天暂时不聊）。 <br /> 今天介绍的这三种工具，应该可以搞定： <br /> 1. WIndows Vista 之后的安装盘（Vista、Win7、Win8） <br /> 2. 各种主流的 Linux 发行版（比如 Debian、Ubuntu、RedHat、CentOS、Fedora、等） <br /> 3. 苹果的安装盘 <br /> <br /> <br />     <h2 id="section-5"> ★为啥选择这几款工具？ </h2>
+ <br /> 能够达到“通用”目的工具有不少。俺今天挑选3款【开源的】来介绍。为啥只挑选开源的？有如下几个讲究： <br /> 一来，俺本人比较偏好开源软件（纯属个人喜好） <br /> 二来，开源软件不但免费，而且无需注册码，也没有使用期限的限制（方便性）。 <br /> 三来，相对闭源软件而言，开源比较让人放心（安全性）。 <br /> <br /> 常看俺博客的同学应该都知道，俺是比较关注“安全性”的，所以再把第三点补充说明一下。 <br /> 用光盘镜像制作可启动U盘，主要都是为了装系统。如果使用的制作工具本身不可靠（比如带木马），会导致你制作出来的启动U盘也不安全，进而导致你安装出来的系统不安全。 <br /> <br /> 顺便再说一下：为啥俺【不】喜欢用 WinPE 类型的 U盘工具。 <br /> 1. PE 方式的局限性——只能用于 Windows 系统（而现在有越来越多的网友开始玩 Linux 或 Mac OS）。 <br /> 2. 很多 PE 工具是【国产滴】——而国产的 PE 工具总喜欢【夹带私货】。不要怨俺“崇洋”，实在是国产软件出了太多的流氓，用起来心里不踏实。 <br /> <br /> <br />     <h2 id="rufus-windows--"> ★rufus 的玩法（Windows 平台） </h2>
+ <br /> rufus 这款工具，知名度不太高，但用起来比较爽（界面的定制选项多，而且速度快）。它的官网在“ <a href="https://rufus.akeo.ie/" rel="nofollow" target="_blank"> 这里 </a> ”。 <br /> 提醒一下：rufus 的 exe 文件带有【数字签名】，所以下载之后先验证数字签名是否有效（要养成这个好习惯）。不懂得验证数字签名的同学，请看《 <a href="https://program-think.blogspot.com/2013/02/file-integrity-check.html"> 扫盲文件完整性校验——关于散列值和数字签名 </a> 》 <br /> <br /> 这玩意儿的界面截图如下： <br /> <img alt="不见图 请翻墙" src="https://lh5.googleusercontent.com/VPBkS5mJfUG6_gDvEq11qMyFYKLHhqUGHdQM9gxKq1dceI3JtJz-sVTAsv3Ia7Eh7kD34n-Tk_2goOs6C6zaPlqaAfjIHys6ULGtIqh1YSDI1fv97bXdhFGkq176" /> <br /> <br /> 它在刻录前会先格式化U盘，所以 <b>
+   一定要记得勾选【快速格式化】
+  </b> 。如果没勾选这项，它会进行“完全格式化”。现在的U盘动不动都有好几个GB，完全格式化要等很久。 <br /> <br /> <br />     <h2 id="unetbootin--"> ★UNetbootin 的玩法（跨平台） </h2>
+ <br /> UNetbootin 的官网在“ <a href="https://unetbootin.github.io/" rel="nofollow" target="_blank"> 这里 </a> ”。主页开头就是三大平台（Windows、Linux、Mac OS X）的下载链接。 <br /> <br /> Windows 的界面截图如下： <br /> <img alt="不见图 请翻墙" src="https://lh3.googleusercontent.com/RnULr559sJNq3Ear0ha3P5F1QxOjfDPP9yka5fyNSg3WgO56nC0v9EqWwM3dzTT6W-h69OvNtBkNB3BWsc2JSYwZ-XomRVBpBca8qFDjp3kMgz_E44OHvUg7MEgE" /> <br /> <br /> 这玩意儿的使用很简单，看俺截图上的标注应该就懂。 <br /> <br /> <br />     <h2 id="dd--"> ★dd 的玩法（跨平台） </h2>
+ <br /> <code class="language-plaintext highlighter-rouge">
+   dd
+  </code> 是一个很有用的 Linux/Unix 命令，它可以用来进行设备之间的【裸读写】。所谓的“裸读写”就是——它不理睬文件系统，直接越过文件系统对物理设备进行读写。所以它可以干很多“拷贝命令”（ <code class="language-plaintext highlighter-rouge">
+   copy
+  </code> or <code class="language-plaintext highlighter-rouge">
+   cp
+  </code> ）无法干或不方便干的事情（比如：备份/恢复“硬盘主引导扇区”）。今天俺来聊聊如何用 dd 把光盘镜像刻录到 U盘。 <br /> 可能有些熟悉 Linux 的同学会质疑，Linux 的 <code class="language-plaintext highlighter-rouge">
+   cp
+  </code> 命令也可以用来刻录 iso 镜像。 <br /> 俺来解释一下：本文之所以强调 <code class="language-plaintext highlighter-rouge">
+   dd
+  </code> 命令，还考虑到 <code class="language-plaintext highlighter-rouge">
+   dd
+  </code> 有 Windows 的移植版本，而且它的 Windows 版本照样能把 ISO 镜像制作到 U盘。 <br /> <br />     <h3 id="linuxunix--"> ◇在 Linux/Unix 上的玩法 </h3>
+ <br /> 假设你有一个 iso 镜像文件，路径是 <code class="language-plaintext highlighter-rouge">
+   ~/xxx.iso
+  </code> <br /> 假设你的 U盘对应的设备是 <code class="language-plaintext highlighter-rouge">
+   /dev/sdb
+  </code> <br /> 那么就可以用如下命令搞定： <br />     <div class="language-plaintext shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>dd bs=4M if=~/xxx.iso of=/dev/sdb</code></pre></div>    </div>
+ 稍微解释一下： <br /> <code class="language-plaintext highlighter-rouge">
+   bs
+  </code> 参数表示每次批量读写 4MB 字节的数据（俺一般都用 4M，你也可以用 8M、2M 或 1M）。 <br /> <code class="language-plaintext highlighter-rouge">
+   if
+  </code> 参数表示输入（文件/设备）的路径，在这里用的是光盘镜像文件。 <br /> <code class="language-plaintext highlighter-rouge">
+   of
+  </code> 参数表示输出（文件/设备）的路径，在这里用的是U盘设备。 <br /> <br /> 大多数 Linux 发行版都内置了这个 <code class="language-plaintext highlighter-rouge">
+   dd
+  </code> 命令，所以一般情况下，你【无需】额外安装软件包就可以使用。执行完 <code class="language-plaintext highlighter-rouge">
+   dd
+  </code> 命令之后，要记得再执行一下 <code class="language-plaintext highlighter-rouge">
+   sync
+  </code> 命令同步磁盘缓存，再拔出U盘。 <br /> <br />     <h3 id="windows--"> ◇在 Windows 上的玩法 </h3>
+ <br /> dd 命令也被移植到 Windows 系统上。具体请到“ <a href="http://www.chrysocome.net/dd" rel="nofollow" target="_blank"> 这里 </a> ”下载。页面比较长，前半段是帮助，你找“Downloads for dd”，就可以看到下载链接。 <br /> 俺目前用的是 0.5 版本（截止俺写本文时，0.6 版本还是【beta】状态，不爽）。 <br /> <br /> Windows 下的 dd，其用法与 Linux 下差不多。唯一要留意的是——U盘的【设备路径】。 <br /> （通常U盘上只有一个分区）你插入 U盘 后，假如盘符是 <code class="language-plaintext highlighter-rouge">
+   F:
+  </code> 那么对应的设备路径就是 <code class="language-plaintext highlighter-rouge">
+   \\.\f:
+  </code> <br /> 如果你的 iso 镜像文件放在 <code class="language-plaintext highlighter-rouge">
+   C:\xxx.iso
+  </code> 那么就用如下的 dd 命令把镜像刻录到 U盘 <br />     <div class="language-plaintext shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>dd bs=4M if=C:\xxx.iso of=\\.\f:</code></pre></div>    </div>
+ （参数刚才解释过，这儿就不再罗嗦了） <br /> <br /> <br />     <h2 id="section-6"> ★优缺点对比 </h2>
+ <br /> 总结一下上述三种方法的优缺点。 <br /> <br />     <h3 id="section-7"> ◇兼容性方面 </h3>
+ <br /> 对于U盘制作工具，兼容性很重要。兼容性不好，可能导致刻录的U盘无法启动。 <br /> rufus 和 UNetbootin 的兼容性好于 dd。dd 的缺点在于：如果某个镜像本身不是 hybrid 模式（hybrid 的解释，本文开头已经说过），用 dd 刻录之后会【无法】启动。而 rufus 和 UNetbootin 可以在刻录U盘的时候进行相应的处理。 <br /> 针对 dd 的这个缺点，有一个补救的办法： <br /> 对于 Linux/Unix 平台，先使用 <code class="language-plaintext highlighter-rouge">
+   isohybrid
+  </code> 命令把 iso 镜像转换成 hybrid 模式（该命令来自于 <a href="https://zh.wikipedia.org/wiki/SYSLINUX" rel="nofollow" target="_blank"> SysLinux/ISOLinux 软件包 </a> ）。假设你的光盘镜像位于 <code class="language-plaintext highlighter-rouge">
+   ～/xxx.iso
+  </code> 那么使用如下命令转换：（可惜该命令【没有】windows 版本） <br />     <div class="language-plaintext shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>isohybrid ~/xxx.iso</code></pre></div>    </div>
+ <br /> 至于 rufus 和 UNetbootin 的对比，俺个人觉得 rufus 不但优于 UNetbootin，而且也优于某些其它工具（比如 Universal USB Installer）。俺曾经碰到过：同一个ISO镜像，同一个物理U盘，用 UNetbootin 刻录后无法启动，而 rufus 刻录后可以启动。 <br /> <br />     <h3 id="section-8"> ◇速度方面 </h3>
+ <br /> dd 的速度最快（前面说了，dd 是【裸读写】，所以速度飞快）； <br /> rufus 的速度比 UNetbootin 快（rufus 的官网界面上有几种不同工具的速度对比） <br /> <br />     <h3 id="section-9"> ◇易用性方面 </h3>
+ <br /> UNetbootin 和 rufus 差不多——都有傻瓜化的图形界面。 <br /> dd 易用性最差——必须得用命令行（这会难倒一大帮菜鸟）。 <br /> <br />     <h3 id="section-10"> ◇跨平台方面 </h3>
+ <br /> UNetbootin 好于 dd 好于 rufus（rufus 只有 Windows 版本） <br /> 提醒一下： <br /> 这里说的“跨平台”指的是工具自身，而不是制作出来的光盘。比如 rufus 虽然只有 Windows 版本，但 rufus 可以制作 Linux 的安装盘。 <br /> <br /> <br />     <h2 id="section-11"> ★读者反馈 </h2>
+ <br /> 虽然俺折腾过一些系统，但接触面依然很有限。而且制作可引导U盘，依赖的因素很多（至少包括：BIOS 型号、U盘的牌子、光盘的类型、还有运气）。所以，非常欢迎大伙儿针对本文的内容，提出反馈（可以补充你的经验，或者你曾经碰到的问题）。 <br /> 为了便于大伙儿相互交流，请到 <a href="https://program-think.blogspot.com/2013/12/create-bootable-usb-stick-from-iso.html"> 本文留言 </a> 。 <br /> <br /> 以下是读者反馈的汇总，供大伙儿参考（因为反馈信息比较多，俺未必能逐一验证，大伙儿自行判断）： <br /> <br />     <h3 id="section-12"> ◇1楼的网友 </h3>
+ <br /> 推荐两款工具 <br /> 推荐“ <a href="http://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/" rel="nofollow" target="_blank"> Universal USB installer </a> ”，可以做windows, Linux, Solaris等USB安装器 <br /> 推荐“ <a href="http://www.pendrivelinux.com/yumi-multiboot-usb-creator/‎" rel="nofollow" target="_blank"> YUMI </a> ”，有上面的功能，另外又增加了一些功能。 <br /> <br />     <h3 id="section-13"> ◇2楼的网友 </h3>
+ <br /> UltraISO9.5.2_pe在windows下表现最好。注意，仅仅是UltraISO9.5.2_pe好用，其以后的版本不好用。 <br /> <br />     <h3 id="section-14"> ◇3楼的网友 </h3>
+ <br /> 推荐“ <a href="http://sourceforge.net/projects/win32diskimager/" rel="nofollow" target="_blank"> Win32 Disk Imager </a> ” <br /> <br />     <h3 id="section-15"> ◇5楼2单元的网友 </h3>
+ <br /> Hiren's BootCD搞电脑必备啊 <br /> <br />     <h3 id="section-16"> ◇6楼的网友 </h3>
+ <br /> raw 文件可以用 SUSE Studio ImageWriter <br /> img 文件可以用 Win32 Disk Imager <br /> <br />     <h3 id="section-17"> ◇11楼的网友 </h3>
+ <br /> 在 Windows 下刻录U盘的时候，需要关闭某些杀毒软件。否则杀毒软件会拦截写入的启动文件，导致做出来的U无法启动。 <br /> <br />     <h3 id="section-18"> ◇26楼的网友 </h3>
+ <br /> “ <a href="http://www.linuxliveusb.com/‎" rel="nofollow" target="_blank"> LinuxLive USB Creator </a> ”也不错，支持的系统很多。 <br /> <br />     <h3 id="section-19"> ◇33楼的网友 </h3>
+ <br /> 补充一点rufus不如Unetbootin的地方，就是Unetbootin不仅支持对iso文件的刻录，而且可以用压缩的光盘镜像文件（isz文件）来刻录启动盘，而rufus好像没有这一功能。 <br /> <br /> <br /> <b>
+   俺博客上，和本文相关的帖子（需翻墙）
+  </b> ： <br /> 《 <a href="https://program-think.blogspot.com/2014/02/hdd-install-windows.html"> 如何用【内置硬盘】全新安装 Windows 2000/XP/2003/Vista/2008/7/8（无需光驱和USB口） </a> 》 <br /> 《 <a href="https://program-think.blogspot.com/2012/10/system-vm-0.html"> 扫盲操作系统虚拟机 </a> 》（系列） <br /> 《 <a href="https://program-think.blogspot.com/2013/02/file-integrity-check.html"> 扫盲文件完整性校验——关于散列值和数字签名 </a> 》     <div class="post-copyright">
+<b>
+    版权声明
+   </b> <br /> 本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者 <a href="mailto:program.think@gmail.com"> 编程随想 </a> 和本文原始地址： <br /> <a href="https://program-think.blogspot.com/2013/12/create-bootable-usb-stick-from-iso.html" id="OriginalPostUrl"> https://program-think.blogspot.com/2013/12/create-bootable-usb-stick-from-iso.html </a>
+    </div>
+    <div style="clear: both;"></div>
+  </div>
+  <div class="post-footer" style="margin-bottom:50px;">
+    <div class="post-footer-line post-footer-line-1" style="display:none;">
+<span class="post-author vcard"> </span> <span class="reaction-buttons"> </span> <span class="star-ratings"> </span> <span class="post-icons"> </span> <span class="post-backlinks post-comment-link"> </span>
+    </div>
+    <div class="post-footer-line post-footer-line-2 post-toolbar"></div>
+    <div class="post-footer-line post-footer-line-3">
+<span class="post-location"> </span>
+    </div>
+  </div>
+</div>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#编程随想 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2021-05-09/%E5%88%86%E4%BA%AB%E5%90%84%E7%B1%BB%E7%94%B5%E5%AD%90%E4%B9%A6-%E6%94%BF%E6%B2%BB-IT-%E7%A7%91%E6%99%AE-%E5%8E%86%E5%8F%B2-%E7%AD%89-97%E6%9C%AC/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-01-15/%E5%8D%9A%E5%AE%A2%E5%BC%80%E5%BC%A0%E5%8F%8A%E6%9C%AC%E5%8D%9A%E5%AE%A2%E5%86%85%E5%AE%B9%E7%AE%80%E4%BB%8B/">最早</a>--</span>
+    
+      <li>
+        <time>2013-12-26</time>
+        <a href="https://nodebe4.github.io/opinion/2013-12-26/%E7%82%B9%E8%AF%84%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E4%B9%9D%E5%A4%A7%E9%98%B6%E5%B1%82-%E6%B2%A1%E6%9C%89%E5%85%AC%E5%B9%B3-%E9%9A%BE%E4%BB%A5%E6%B5%81%E5%8A%A8-%E6%97%A0%E6%B3%95%E7%A8%B3%E5%AE%9A/">
+          点评中国社会九大阶层——没有公平、难以流动、无法稳定
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2013-12-23</time>
+        <a href="https://nodebe4.github.io/opinion/2013-12-23/%E6%89%AB%E7%9B%B2-Tails-%E4%B8%93%E9%97%A8%E5%BC%BA%E5%8C%96%E9%9A%90%E5%8C%BF%E6%80%A7%E7%9A%84-Linux-%E5%8F%91%E8%A1%8C%E7%89%88/">
+          扫盲 Tails——专门强化隐匿性的 Linux 发行版
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2013-12-17</time>
+        <a href="https://nodebe4.github.io/opinion/2013-12-17/%E6%AF%8F%E5%91%A8%E8%BD%AC%E8%BD%BD-%E7%BD%91%E5%8F%8B%E7%83%AD%E8%AE%AE%E5%8C%97%E6%9C%9D%E9%B2%9C%E5%BC%A0%E6%88%90%E6%B3%BD%E5%80%92%E5%8F%B0/">
+          每周转载：网友热议北朝鲜张成泽倒台
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2013-12-12</time>
+        <a href="https://nodebe4.github.io/opinion/2013-12-12/%E5%8C%97%E6%9C%9D%E9%B2%9C%E9%87%91%E6%B0%8F%E7%8E%8B%E6%9C%9D%E7%9A%84%E5%B4%9B%E8%B5%B7-%E8%81%8A%E8%81%8A%E9%87%91%E6%97%A5%E6%88%90%E7%9A%84%E5%8E%86%E6%AC%A1%E5%A4%A7%E6%B8%85%E6%B4%97/">
+          北朝鲜金氏王朝的崛起——聊聊金日成的历次大清洗
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2013-12-20/%E5%BC%BA%E5%88%B6%E5%85%A8%E6%B0%91%E8%A1%A5%E7%A2%98-%E5%BC%8A%E5%A4%A7%E4%BA%8E%E5%88%A9%E7%9A%84%E9%94%99%E8%AF%AF%E6%94%BF%E7%AD%96/">
+            前一篇：强制全民补碘——弊大于利的错误政策
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2013-12-23/%E5%BC%A0%E6%9E%97-%E5%9C%B0%E9%93%81%E6%B6%A8%E4%BB%B7%E4%B8%8D%E8%83%BD%E8%AF%AD%E7%84%89%E4%B8%8D%E8%AF%A6/">
+            後一篇：张林：地铁涨价不能语焉不详
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2013-12-20/%E5%BC%BA%E5%88%B6%E5%85%A8%E6%B0%91%E8%A1%A5%E7%A2%98-%E5%BC%8A%E5%A4%A7%E4%BA%8E%E5%88%A9%E7%9A%84%E9%94%99%E8%AF%AF%E6%94%BF%E7%AD%96/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2013-12-23/%E5%BC%A0%E6%9E%97-%E5%9C%B0%E9%93%81%E6%B6%A8%E4%BB%B7%E4%B8%8D%E8%83%BD%E8%AF%AD%E7%84%89%E4%B8%8D%E8%AF%A6/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2013-12-23/%E6%89%AB%E7%9B%B2-Tails-%E4%B8%93%E9%97%A8%E5%BC%BA%E5%8C%96%E9%9A%90%E5%8C%BF%E6%80%A7%E7%9A%84-Linux-%E5%8F%91%E8%A1%8C%E7%89%88/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2013-12-17/%E6%AF%8F%E5%91%A8%E8%BD%AC%E8%BD%BD-%E7%BD%91%E5%8F%8B%E7%83%AD%E8%AE%AE%E5%8C%97%E6%9C%9D%E9%B2%9C%E5%BC%A0%E6%88%90%E6%B3%BD%E5%80%92%E5%8F%B0/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2013-12-20/%E5%BC%BA%E5%88%B6%E5%85%A8%E6%B0%91%E8%A1%A5%E7%A2%98-%E5%BC%8A%E5%A4%A7%E4%BA%8E%E5%88%A9%E7%9A%84%E9%94%99%E8%AF%AF%E6%94%BF%E7%AD%96/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2013-12-23/%E5%BC%A0%E6%9E%97-%E5%9C%B0%E9%93%81%E6%B6%A8%E4%BB%B7%E4%B8%8D%E8%83%BD%E8%AF%AD%E7%84%89%E4%B8%8D%E8%AF%A6/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<编程随想>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2013-12-23/%E6%89%AB%E7%9B%B2-Tails-%E4%B8%93%E9%97%A8%E5%BC%BA%E5%8C%96%E9%9A%90%E5%8C%BF%E6%80%A7%E7%9A%84-Linux-%E5%8F%91%E8%A1%8C%E7%89%88/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<编程随想>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2013-12-17/%E6%AF%8F%E5%91%A8%E8%BD%AC%E8%BD%BD-%E7%BD%91%E5%8F%8B%E7%83%AD%E8%AE%AE%E5%8C%97%E6%9C%9D%E9%B2%9C%E5%BC%A0%E6%88%90%E6%B3%BD%E5%80%92%E5%8F%B0/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

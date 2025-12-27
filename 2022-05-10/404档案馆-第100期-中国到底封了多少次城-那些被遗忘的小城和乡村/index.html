@@ -1,0 +1,966 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>【404档案馆】第100期：中国到底封了多少次城？── 那些被遗忘的小城和乡村 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+【404档案馆】第100期：中国到底封了多少次城？── 那些被遗忘的小城和乡村
+——
+" />
+    <meta property="og:description" content="
+【404档案馆】第100期：中国到底封了多少次城？── 那些被遗忘的小城和乡村
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="【404档案馆】第100期：中国到底封了多少次城？── 那些被遗忘的小城和乡村" />
+    <meta property="twitter:title" content="【404档案馆】第100期：中国到底封了多少次城？── 那些被遗忘的小城和乡村" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fmatters.news%2F%40ChinaDT%2F404%25E6%25A1%25A3%25E6%25A1%2588%25E9%25A6%2586-%25E7%25AC%25AC100%25E6%259C%259F-%25E4%25B8%25AD%25E5%259B%25BD%25E5%2588%25B0%25E5%25BA%2595%25E5%25B0%2581%25E4%25BA%2586%25E5%25A4%259A%25E5%25B0%2591%25E6%25AC%25A1%25E5%259F%258E-%25E9%2582%25A3%25E4%25BA%259B%25E8%25A2%25AB%25E9%2581%2597%25E5%25BF%2598%25E7%259A%2584%25E5%25B0%258F%25E5%259F%258E%25E5%2592%258C%25E4%25B9%25A1%25E6%259D%2591-bafyreiatgxfj2yutf52mwbwxuofrcgz75xmjnzsjpfei5xgdmrh3q7wq44" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC100%E6%9C%9F-%E4%B8%AD%E5%9B%BD%E5%88%B0%E5%BA%95%E5%B0%81%E4%BA%86%E5%A4%9A%E5%B0%91%E6%AC%A1%E5%9F%8E-%E9%82%A3%E4%BA%9B%E8%A2%AB%E9%81%97%E5%BF%98%E7%9A%84%E5%B0%8F%E5%9F%8E%E5%92%8C%E4%B9%A1%E6%9D%91-bafyreiatgxfj2yutf52mwbwxuofrcgz75xmjnzsjpfei5xgdmrh3q7wq44" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC100%E6%9C%9F-%E4%B8%AD%E5%9B%BD%E5%88%B0%E5%BA%95%E5%B0%81%E4%BA%86%E5%A4%9A%E5%B0%91%E6%AC%A1%E5%9F%8E-%E9%82%A3%E4%BA%9B%E8%A2%AB%E9%81%97%E5%BF%98%E7%9A%84%E5%B0%8F%E5%9F%8E%E5%92%8C%E4%B9%A1%E6%9D%91-bafyreiatgxfj2yutf52mwbwxuofrcgz75xmjnzsjpfei5xgdmrh3q7wq44&text=【404档案馆】第100期：中国到底封了多少次城？── 那些被遗忘的小城和乡村&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC100%E6%9C%9F-%E4%B8%AD%E5%9B%BD%E5%88%B0%E5%BA%95%E5%B0%81%E4%BA%86%E5%A4%9A%E5%B0%91%E6%AC%A1%E5%9F%8E-%E9%82%A3%E4%BA%9B%E8%A2%AB%E9%81%97%E5%BF%98%E7%9A%84%E5%B0%8F%E5%9F%8E%E5%92%8C%E4%B9%A1%E6%9D%91-bafyreiatgxfj2yutf52mwbwxuofrcgz75xmjnzsjpfei5xgdmrh3q7wq44&title=【404档案馆】第100期：中国到底封了多少次城？── 那些被遗忘的小城和乡村" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC100%E6%9C%9F-%E4%B8%AD%E5%9B%BD%E5%88%B0%E5%BA%95%E5%B0%81%E4%BA%86%E5%A4%9A%E5%B0%91%E6%AC%A1%E5%9F%8E-%E9%82%A3%E4%BA%9B%E8%A2%AB%E9%81%97%E5%BF%98%E7%9A%84%E5%B0%8F%E5%9F%8E%E5%92%8C%E4%B9%A1%E6%9D%91-bafyreiatgxfj2yutf52mwbwxuofrcgz75xmjnzsjpfei5xgdmrh3q7wq44&title=【404档案馆】第100期：中国到底封了多少次城？── 那些被遗忘的小城和乡村" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=【404档案馆】第100期：中国到底封了多少次城？── 那些被遗忘的小城和乡村&body=
+【404档案馆】第100期：中国到底封了多少次城？── 那些被遗忘的小城和乡村
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC100%E6%9C%9F-%E4%B8%AD%E5%9B%BD%E5%88%B0%E5%BA%95%E5%B0%81%E4%BA%86%E5%A4%9A%E5%B0%91%E6%AC%A1%E5%9F%8E-%E9%82%A3%E4%BA%9B%E8%A2%AB%E9%81%97%E5%BF%98%E7%9A%84%E5%B0%8F%E5%9F%8E%E5%92%8C%E4%B9%A1%E6%9D%91-bafyreiatgxfj2yutf52mwbwxuofrcgz75xmjnzsjpfei5xgdmrh3q7wq44" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC100%E6%9C%9F-%E4%B8%AD%E5%9B%BD%E5%88%B0%E5%BA%95%E5%B0%81%E4%BA%86%E5%A4%9A%E5%B0%91%E6%AC%A1%E5%9F%8E-%E9%82%A3%E4%BA%9B%E8%A2%AB%E9%81%97%E5%BF%98%E7%9A%84%E5%B0%8F%E5%9F%8E%E5%92%8C%E4%B9%A1%E6%9D%91-bafyreiatgxfj2yutf52mwbwxuofrcgz75xmjnzsjpfei5xgdmrh3q7wq44&title=【404档案馆】第100期：中国到底封了多少次城？── 那些被遗忘的小城和乡村&caption=
+【404档案馆】第100期：中国到底封了多少次城？── 那些被遗忘的小城和乡村
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=【404档案馆】第100期：中国到底封了多少次城？── 那些被遗忘的小城和乡村&url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC100%E6%9C%9F-%E4%B8%AD%E5%9B%BD%E5%88%B0%E5%BA%95%E5%B0%81%E4%BA%86%E5%A4%9A%E5%B0%91%E6%AC%A1%E5%9F%8E-%E9%82%A3%E4%BA%9B%E8%A2%AB%E9%81%97%E5%BF%98%E7%9A%84%E5%B0%8F%E5%9F%8E%E5%92%8C%E4%B9%A1%E6%9D%91-bafyreiatgxfj2yutf52mwbwxuofrcgz75xmjnzsjpfei5xgdmrh3q7wq44" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>【404档案馆】第100期：中国到底封了多少次城？── 那些被遗忘的小城和乡村</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-05-10
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#中国数字时代">
+          中国数字时代
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC100%E6%9C%9F-%E4%B8%AD%E5%9B%BD%E5%88%B0%E5%BA%95%E5%B0%81%E4%BA%86%E5%A4%9A%E5%B0%91%E6%AC%A1%E5%9F%8E-%E9%82%A3%E4%BA%9B%E8%A2%AB%E9%81%97%E5%BF%98%E7%9A%84%E5%B0%8F%E5%9F%8E%E5%92%8C%E4%B9%A1%E6%9D%91-bafyreiatgxfj2yutf52mwbwxuofrcgz75xmjnzsjpfei5xgdmrh3q7wq44" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="中国数字时代的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#中国数字时代 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1652242680000-->
+<p><a href="https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC100%E6%9C%9F-%E4%B8%AD%E5%9B%BD%E5%88%B0%E5%BA%95%E5%B0%81%E4%BA%86%E5%A4%9A%E5%B0%91%E6%AC%A1%E5%9F%8E-%E9%82%A3%E4%BA%9B%E8%A2%AB%E9%81%97%E5%BF%98%E7%9A%84%E5%B0%8F%E5%9F%8E%E5%92%8C%E4%B9%A1%E6%9D%91-bafyreiatgxfj2yutf52mwbwxuofrcgz75xmjnzsjpfei5xgdmrh3q7wq44">【404档案馆】第100期：中国到底封了多少次城？── 那些被遗忘的小城和乡村</a>
+——</p>
+
+<div>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/0b7718bc-e095-49e2-898c-2abf6144612f.jpeg" data-asset-id="0b7718bc-e095-49e2-898c-2abf6144612f" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p><a href="https://chinadigitaltimes.net/chinese/404-archives" rel="noopener noreferrer" target="_blank">《404档案馆》</a><span>讲述中国审查与反审查的故事，同时以文字、音频和视频的形式发布。播客节目可在 Apple Podcasts, Google Podcasts, Spotify 或泛用型播客客户端搜索“</span><a href="https://open.firstory.me/user/cdt" rel="noopener noreferrer" target="_blank"><span>404档案馆</span></a><span>”进行收听，视频节目可在Youtube“</span><a href="https://www.youtube.com/channel/UCwXewCWwaK1-yec8niJLrqg" rel="noopener noreferrer" target="_blank"><span>中国数字时代· 404档案馆</span></a><span>”频道收看。</span></p>
+  <p><br /></p>
+  <p><strong>作者：张言</strong></p>
+  <p>欢迎来到404档案馆。在这里，我们一起穿越中国数字高墙。</p>
+  <p>自三月份以来，国际大都市上海的封城带来了无数次生灾难；这在中文互联网上引爆了舆论，骂声一片。然而，上海人所遭受的封城次生灾难，只是整个中国新冠防疫措施后果的冰山一角。在上海之外，还有无数的中小城市和乡村正在经历，或者曾经经历过上海般的封城。</p>
+  <p>于4月24日发表于媒介“一条”的文章<a href="https://chinadigitaltimes.net/chinese/680289.html?utm_source=dlvr.it&amp;utm_medium=twitter" rel="noopener noreferrer" target="_blank">《最长封锁160天，这些城市几乎被遗忘了》</a><span>，聚焦了经历过最严格、最频繁封锁的边境小城。据作者统计，截至2022年4月下旬，云南的瑞丽被断断续续封城160天，黑龙江的绥芬河已经封城近90天，而广西的东兴已持续封城60天。</span></p>
+  <p>相比于一线城市上海，疫情管控给这些中小城市带来的次生灾难同样严重，甚至更加严重。但是，这些地方的遭遇却很少有人关注。</p>
+  <p>本期节目，我们来关注那些被遗忘的中小城市和乡村，看看疫情之下，他们的生存状况又是如何？</p>
+  <h2 id="section"><strong>一、 中国337个地级及以上的行政市，至少已经被封了403次</strong></h2>
+  <p>中国官方并没有对封城措施的统计和对其后果的评估。根据香港中文大学<a href="https://www.econ.cuhk.edu.hk/econ/images/Documents/Truck_Flow_and_COVID19_220315.pdf" rel="noopener noreferrer" target="_blank">宋诤团队对2020年4月到2022年1月份的统计</a><span>, 中国的337个地级及以上的行政市中，有109个采取过至少局部封城的措施。而在2020年4月之前，共有207个城市采取过封城措施；尽管除武汉以外，多为局部封城。</span></p>
+  <p>然而，自2022年新冠新变种奥密克戎(Omicron)病毒传播以来，封城措施空前严厉。根据<a href="https://www.marketwatch.com/story/chinas-economy-facing-serious-danger-signs-this-economist-warns-11650336310" rel="noopener noreferrer" target="_blank">彼得森国际经济研究所中国项目负责人玛丽</a><span>的研究，截止4月18日，目前有87座城市处于某种形式的封控之下，而且这一封城名单仍在不断增加。上述几个时间段的数字加起来表明，中国337个地级及以上的行政市，至少已经被封了403次。</span></p>
+  <p>但是，这也是非常保守的估计，因为这些资料是以地级市为统计单位。比如，云南瑞丽被封了九次，但是瑞丽所属的地级市，德宏傣族景颇族自治州在统计上只被记了一次。</p>
+  <p>也就是说，如果以县级市为统计单位，则将会有更多的封城统计。更为可怕的是，乡村的封村政策，完全不在统计范围之内。</p>
+  <p>另外需要指出的是，有些城市虽然自己没有被封过城，但是由于其他城市封城的外部性，也产生了“封城”效应。</p>
+  <p>最典型的就是西安市，根据<a href="https://chinadigitaltimes.net/chinese/679135.htm" rel="noopener noreferrer" target="_blank">城市数据团的统计</a><span>，在西安封城之前，其实已经出现了三次人流量的暴跌：分别是由石家庄、南京和兰州的疫情造成的。也就是说，虽然当时西安还没有封城，但是人流量的暴跌已经导致了一种类似封城的效应。</span></p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/48b10ef1-f26d-4dbb-8205-72bd0aef09d6.jpeg" data-asset-id="48b10ef1-f26d-4dbb-8205-72bd0aef09d6" referrerpolicy="no-referrer" />    <figcaption>
+<span>图片来自城市数据团</span>
+    </figcaption>
+  </figure>
+  <p>因此，虽然上述的封城统计已经非常保守，但是在外部性的效应之下，相当于把封城带来的实际效应又放大了好几倍。 </p>
+  <h2 id="section-1"><strong>二、封城之下，中国的医疗系统正处于全面崩溃之中</strong></h2>
+  <p>2021年中国卫生健康事业发展统计公报还没有公布。根据<a href="http://www.gov.cn/guoqing/2021-07/22/content_5626526.htm" rel="noopener noreferrer" target="_blank">2020年的统计公报</a><span>，相比较于往年，2020年，中国的卫生资源(包括机构和人员)有在增长，然而医疗服务量却在下降。</span></p>
+  <p>具体来说，2020年一年，中国的医疗卫生机构总诊疗人次环比下降了11.2%。其中，医院诊疗人次下降13.54%，基层医疗卫生机构诊疗人次下降9.05%。</p>
+  <p>由于往年的诊疗人数一直都是呈上升趋势，而中国各地在新冠封城期间关闭医院导致就医难的案例也是司空见惯，我们有理由怀疑这是因为大量医疗机构因疫情停止正常运营造成的结果。</p>
+  <p>在反映医疗服务下降量的抽象数字背后，是个人和家庭遭受的一个又一个人道悲剧。</p>
+  <p>在西安封城期间，一位<a href="https://chinadigitaltimes.net/chinese/675919.html" rel="noopener noreferrer" target="_blank">癌症晚期病人的女儿</a><span>打了近1000个电话，才帮母亲找到一张病床。</span></p>
+  <p>在新疆，<a href="https://www.bbc.com/zhongwen/simp/chinese-news-53885455" rel="noopener noreferrer" target="_blank">乌鲁木齐和周边各市在2020年7月封城一个月</a><span>，并多次强制老百姓服用莲花清瘟等中药，甚至出现了大量民众喝完中药之后身体不适的情况。</span></p>
+  <p>在长期处于封城状态的云南瑞丽，<a href="https://chinadigitaltimes.net/chinese/672508.html" rel="noopener noreferrer" target="_blank">一位妈妈</a><span> 于去年十月份求助说：她刚满一岁半的孩子从疫情开始到现在已经做了59次核酸，但却不能摄入足够的、有营养的食物。</span></p>
+  <p>而在吉林通化市封城期间，<a href="https://chinadigitaltimes.net/chinese/661884.html" rel="noopener noreferrer" target="_blank">一位被强制封控在家的市民写道</a><span>：</span></p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/86b1c8fe-a982-4aa3-a67f-f1dcdf08e612.jpeg" data-asset-id="86b1c8fe-a982-4aa3-a67f-f1dcdf08e612" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>对于中国新冠防疫封城期间大量关闭医院的做法，<a href="https://twitter.com/ipaulcanada/status/1518435776907915265?s=12&amp;t=W9Dgp-P7O_3SAASsLz8MkA" rel="noopener noreferrer" target="_blank">有网友愤怒地表示</a><span>说：“即使在战争中的乌克兰，医院也是向民众开放的。全世界只有中国因为疫情关闭医院！”</span></p>
+  <h2 id="section-2"><strong>三、二线以下城乡经济近乎崩溃</strong></h2>
+  <p>根据<a href="https://www.econ.cuhk.edu.hk/econ/images/Documents/Truck_Flow_and_COVID19_220315.pdf" rel="noopener noreferrer" target="_blank">香港中文大学经济系教授宋铮团队的研究</a><span>，对北京或上海这样的一个特大城市实施封城两周，对当月全中国GDP的影响大致在2个百分点左右。而如果中国十分之一的城市被迫封城两周，当月中国GDP则可能损失3.1%；以2021年GDP计算，就是接近三千亿人民币。</span></p>
+  <p>鉴于中国目前正在有87个地级市处在至少局部封城的状态，这种封城规模已经达到了中国地级市的十分之一。</p>
+  <p>其中最极端的例子当属云南边境城市瑞丽。根据<a href="https://chinadigitaltimes.net/chinese/679654.html" rel="noopener noreferrer" target="_blank">丁香园的文章</a><span>，疫情 3 年，瑞丽常住人口已经从 50 万减少到了 10 多万，经济活动一潭死水。</span></p>
+  <p>根据发表于一条的文章<a href="https://chinadigitaltimes.net/chinese/680289.html?utm_source=dlvr.it&amp;utm_medium=twitter" rel="noopener noreferrer" target="_blank">《最长封锁160天，这些城市几乎被遗忘了》</a><span>的作者所做的采访，青年旅馆经营者李尚也是逃离瑞丽小城大军中的一员。由于封控措施，没有旅客能进入瑞丽，他也无法开门营业：“在长达4个月的时间里，旅店里只有他一个人，呆在空荡荡的房间里，唯一能做的事就是做核酸，然后‘等希望一点点磨没’。”</span></p>
+  <p>而在广西东兴，近十万人离开了那里。</p>
+  <p>经济活动的衰减和骤停首先冲击了中小企业。</p>
+  <p>2021年，中国开始大量出现中小企业倒闭的情况。根据<a href="https://www.scmp.com/economy/china-economy/article/3161554/chinas-smallest-firms-failing-historic-pace-437-million-close" rel="noopener noreferrer" target="_blank">南华早报的报道</a><span>，2021年前11个月，中国有437万家中小企业倒闭，而新注册的企业数量则跌了78.46%。</span></p>
+  <p><a href="https://www.sciencedirect.com/science/article/pii/S1043951X21000250?casa_token=MmjaPaBcgrcAAAAA:l4zi4lh6mqOUnRdIxjtoKVxPyUGbEK3OYeOwTWQCz5HySA-Y58D1GlN7v_3j668JoSaT6YM2EHg" rel="noopener noreferrer" target="_blank">北京大学的一个研究</a><span>揭示，中小企业短期内面临的最大问题就是封城政策。</span></p>
+  <p>企业倒闭和不景气的直接后果是大规模的失业。</p>
+  <p>根据<a href="http://www.gov.cn/xinwen/2021-05/20/content_5609599.htm" rel="noopener noreferrer" target="_blank">中国政府的披露</a><span>，中国现在有2亿劳动力处于失业状态；官方将其称为“灵活就业”。按照这一数字，假如中国的劳动人口为10亿，那么中国当前的失业率在20%，远高于</span><a href="http://www.gov.cn/xinwen/2022-01/17/content_5668912.htm#:~:text=%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E7%BD%91-,%E5%9B%BD%E5%8A%A1%E9%99%A2%E6%96%B0%E9%97%BB%E5%8A%9E%E5%85%AC%E5%AE%A4%E4%BA%8E2022%E5%B9%B41%E6%9C%8817%E6%97%A5,%E6%83%85%E5%86%B5%EF%BC%8C%E5%B9%B6%E7%AD%94%E8%AE%B0%E8%80%85%E9%97%AE%E3%80%82&amp;text=%E5%85%A8%E5%B9%B4%E5%9F%8E%E9%95%87%E6%96%B0%E5%A2%9E,%E5%80%BC%E4%B8%8B%E9%99%8D0.5%E4%B8%AA%E7%99%BE%E5%88%86%E7%82%B9%E3%80%82" rel="noopener noreferrer" target="_blank"><span>国际统计局公布的城镇调查失业率5.4%的比例</span></a><span>。</span></p>
+  <p>这一数字差距只可能有两个原因：要么是5.4%这个数字在造假，要么是农村失业情况已经触目惊心。</p>
+  <h2 id="section-3"><strong>四、被遗忘的乡村和农民</strong></h2>
+  <p>对于农村地区来说，无论南方还是北方，春耕都是最重要的农业播种期，也是整个农业一年中的关键时期。</p>
+  <p>然而，在新冠疫情管制期间，很多地方都出现了大量不允许农民进行春耕的现象。</p>
+  <p>在一个口音听起来像是北方中原地区的视频中，一位农民在地里抠瓜苗塑料膜，说是苗都快烧死了。不幸地是，他被村干部抓住；对方训斥威胁他说要拘留三个月、罚款4000元。这位农民被迫放弃了正在进行的劳作。</p>
+  <figure class="embed-video">
+    <div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/87uViqmXJWk?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+    </div>
+    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>在东北，有些地区实行起春耕证制度：没有春耕证，不许下地劳动。</p>
+  <p>在社交媒体上流传的一个视频中，因为警察声称要抓种地的人，一群田间的农民与警察发生了冲突。</p>
+  <figure class="embed-video">
+    <div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/jjFTjNzIYUY?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+    </div>
+    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>根据<a href="https://www.sciencedirect.com/science/article/pii/S2211912420300638?casa_token=nhYSoH5AfU4AAAAA:WjyJKQSkdEmgHWqzRjyonRt6hpcH-8pyr3awiN6wIqsvwINhiMv_Z2b_EDO-coVD4QJYiSrL_3c#!" rel="noopener noreferrer" target="_blank">中国农科院农业经济与发展研究所的一项研究</a><span>，中国的防控措施严重影响了农业生产；具体表现在阻断产品流出渠道，阻碍农业生产投入，破坏农业生产周期等。</span></p>
+  <p>从疫情爆发到 2020年3 月 7 日，只有 60% 的农民工重返工作岗位。受此影响，一季度农村居民人均可支配收入下降4.7%，农民工人均月收入下降7.9%。</p>
+  <p>此外，<a href="https://www.scopus.com/record/display.uri?eid=2-s2.0-85121354038&amp;origin=inward&amp;txGid=1dea08c637fcfd95f3d280e6a178c610&amp;featureToggles=FEATURE_NEW_DOC_DETAILS_EXPORT:1" rel="noopener noreferrer" target="_blank">中国农科院农业经济与发展研究所在2021年底的研究</a><span>表明，防控政策还导致了大面积农产品库存积压，而且每个省份都有积压，直接威胁到农民的生计。</span></p>
+  <p>在浙江嘉兴的水果批发市场，被封控20多天后，大量水果腐烂、坏掉。</p>
+  <figure class="embed-video">
+    <div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/5euc4gFV9OE?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+    </div>
+    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>在上海郊区，一些菜农种植的蔬菜在地里开了花，也不被允许对外出售。至于什么时候能够开始卖菜，菜农面对的只有遥遥无期的等待。</p>
+  <figure class="embed-video">
+    <div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/Uzwz5mszUYI?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+    </div>
+    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>荒唐的是，防疫封城政策一方面导致大规模农产品库存积压，另一方面又导致大量被封城市和地区人民忍饥挨饿。</p>
+  <p>例如，尽管吉林通化就位于中国最重要的产粮区，封城之后，大批民众面临和上海一样的处境：买不到物资，忍饥挨饿。</p>
+  <p>此外，由封控导致的损失令很多贫困的农人无法承受，各地都有出现农民自杀的情况。</p>
+  <p>2020年2月13日，<a href="https://chinadigitaltimes.net/chinese/636326.html" rel="noopener noreferrer" target="_blank">四川西昌市易门县的养蜂人刘德成自杀身亡</a>。这是因为疫情封控措施导致他的蜜蜂不能转场、蜜蜂全都中毒而死。</p>
+  <p>对于此种情况，网友“小张裂开了”评论说:</p>
+  <blockquote>
+【动态清零】，清的是疫情的零，还是穷人的零？  </blockquote>
+  <h2 id="section-4"><strong>五、各地网友呼吁关注被封控中的中小城市和乡村</strong></h2>
+  <p>一位名叫<a href="https://chinadigitaltimes.net/chinese/679435.html" rel="noopener noreferrer" target="_blank">“被流放的文艺犯”的微博网友质问道</a>：在社会舆论的视线之外，还有哪些地方的百姓遭受着煎熬？</p>
+  <p>根据<a href="https://chinadigitaltimes.net/chinese/679435.html" rel="noopener noreferrer" target="_blank">中国数字时代对网络评论的整理</a>，目前或曾经处于封城之中的地区包括：吉林长春、辽宁沈阳、广西东兴、黑龙江绥芬河、黑龙江黑河、内蒙古包头、湖北荆门、辽宁丹东、辽宁营口、河南三门峡、河北唐山、河北廊坊、河北三河、北京燕郊、广西八个边境县、云南多个边境小城、山东某县级市、某东北边境口岸小城市等等等等。</p>
+  <p>来自这些地区的民众迫切需要社会对他们的处境给予关注。</p>
+  <p>更多阅读：</p>
+  <p><a href="https://chinadigitaltimes.net/chinese/675901.html" rel="noopener noreferrer" target="_blank">【404档案馆】第63期：从西安到天津、上海，中国式封城背后的“次生灾害”和“不计代价”</a></p>
+  <p><a href="https://chinadigitaltimes.net/chinese/672699.html" rel="noopener noreferrer" target="_blank">【404档案馆】第37期：瑞丽困境：前副市长发文求助，现市委书记严防舆情</a></p>
+  <figure class="embed-video">
+    <div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/V40iZuFfThE?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+    </div>
+    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>中国数字时代 CDT 致力于记录和传播中文互联网上被审查的信息，以及人们与审查对抗的努力。欢迎大家通过<a href="https://t.me/cdtmedia_bot" rel="noopener noreferrer" target="_blank">电报（Telegram）平台</a> 向我们投稿，为记录和对抗中国网络审查作出你的贡献！</p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#中国数字时代 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-02-12/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC276%E6%9C%9F-%E5%94%B1%E7%A6%81%E6%AD%8C-%E5%88%B0-%E7%A6%81%E6%AD%A2%E5%90%90%E6%A7%BD-%E8%A7%81%E8%AF%81%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E5%8F%98%E8%BF%81%E7%9A%84%E6%98%A5%E6%99%9A/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2021-12-14/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E4%B8%93%E8%AE%BF-%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3%E5%AF%B9%E8%AF%9D-%E8%A7%A3%E6%9E%84%E6%96%B0%E7%96%86%E9%95%87%E5%8E%8B-%E7%AC%AC%E4%B8%80%E4%BD%9C%E8%80%85%E8%AE%B8%E7%A7%80%E4%B8%AD/">最早</a>--</span>
+    
+      <li>
+        <time>2022-05-10</time>
+        <a href="https://nodebe4.github.io/opinion/2022-05-10/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC103%E6%9C%9F-%E4%B8%8A%E6%B5%B7%E6%97%A5%E8%AE%B0-%E4%B8%8A%E6%B5%B7%E5%B0%81%E5%9F%8E%E4%B8%AD%E7%9A%84%E4%B8%AA%E4%BD%93%E7%BB%8F%E5%8E%86%E4%B8%8E%E8%AE%B0%E5%BF%86/">
+          【404档案馆】第103期：上海日记——上海封城中的个体经历与记忆
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-05-10</time>
+        <a href="https://nodebe4.github.io/opinion/2022-05-10/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC102%E6%9C%9F-%E8%BF%9E%E8%8A%B1%E6%B8%85%E7%98%9F19%E5%B9%B4-%E6%B2%A1%E6%9C%89%E9%94%99%E8%BF%87%E4%BB%BB%E4%BD%95%E4%B8%80%E6%AC%A1%E7%81%BE%E9%9A%BE-%E4%B8%80%E6%AC%BE-%E5%9B%BD%E6%B0%91%E7%A5%9E%E8%8D%AF-%E7%9A%84%E5%8F%B0%E5%89%8D%E5%B9%95%E5%90%8E/">
+          【404档案馆】第102期：“连花清瘟19年，没有错过任何一次灾难”：一款“国民神药”的台前幕后
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-04-26</time>
+        <a href="https://nodebe4.github.io/opinion/2022-04-26/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC98%E6%9C%9F-%E8%A7%86%E9%A2%91%E9%87%8C%E7%9A%84-%E6%B8%85%E9%9B%B6-(3)-%E4%B8%8A%E6%B5%B7%E4%BA%BA%E7%9A%84%E5%98%B2%E7%AC%91%E5%A3%B0/">
+          【404档案馆】第98期：视频里的“清零” (3)：上海人的嘲笑声
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-04-26</time>
+        <a href="https://nodebe4.github.io/opinion/2022-04-26/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC97%E6%9C%9F-%E4%BD%A0%E4%BB%8A%E6%99%9A%E5%BF%85%E9%A1%BB%E5%8E%BBcamp!-%E4%BD%9C%E4%B8%BA%E4%B8%AD%E5%9B%BD%E6%8A%97%E7%96%AB-%E5%88%9B%E4%B8%BE-%E7%9A%84%E6%96%B9%E8%88%B1%E5%8C%BB%E9%99%A2/">
+          【404档案馆】第97期：“你今晚必须去camp!”──作为中国抗疫“创举”的方舱医院
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-05-10/%E6%9D%8E%E5%85%8B%E5%BC%B7%E5%BC%B7%E8%AA%BF%E6%94%AF%E6%8C%81%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD-%E7%A9%A9%E7%B6%93%E6%BF%9F-%E4%B8%AD%E7%B4%80%E5%A7%94%E5%92%8C%E8%BB%8D%E6%96%B9%E5%AE%A3%E5%B8%83-%E6%AF%AB%E4%B8%8D%E5%8B%95%E6%90%96-%E5%A0%85%E6%8C%81-%E6%B8%85%E9%9B%B6-%E9%98%B2%E7%96%AB%E6%94%BF%E7%AD%96/">
+            前一篇：李克強強調支持中小企業「穩經濟」；中紀委和軍方宣布「毫不動搖」堅持「清零」防疫政策
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-05-10/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC102%E6%9C%9F-%E8%BF%9E%E8%8A%B1%E6%B8%85%E7%98%9F19%E5%B9%B4-%E6%B2%A1%E6%9C%89%E9%94%99%E8%BF%87%E4%BB%BB%E4%BD%95%E4%B8%80%E6%AC%A1%E7%81%BE%E9%9A%BE-%E4%B8%80%E6%AC%BE-%E5%9B%BD%E6%B0%91%E7%A5%9E%E8%8D%AF-%E7%9A%84%E5%8F%B0%E5%89%8D%E5%B9%95%E5%90%8E/">
+            後一篇：【404档案馆】第102期：“连花清瘟19年，没有错过任何一次灾难”：一款“国民神药”的台前幕后
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-05-10/%E6%9D%8E%E5%85%8B%E5%BC%B7%E5%BC%B7%E8%AA%BF%E6%94%AF%E6%8C%81%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD-%E7%A9%A9%E7%B6%93%E6%BF%9F-%E4%B8%AD%E7%B4%80%E5%A7%94%E5%92%8C%E8%BB%8D%E6%96%B9%E5%AE%A3%E5%B8%83-%E6%AF%AB%E4%B8%8D%E5%8B%95%E6%90%96-%E5%A0%85%E6%8C%81-%E6%B8%85%E9%9B%B6-%E9%98%B2%E7%96%AB%E6%94%BF%E7%AD%96/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-05-10/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC102%E6%9C%9F-%E8%BF%9E%E8%8A%B1%E6%B8%85%E7%98%9F19%E5%B9%B4-%E6%B2%A1%E6%9C%89%E9%94%99%E8%BF%87%E4%BB%BB%E4%BD%95%E4%B8%80%E6%AC%A1%E7%81%BE%E9%9A%BE-%E4%B8%80%E6%AC%BE-%E5%9B%BD%E6%B0%91%E7%A5%9E%E8%8D%AF-%E7%9A%84%E5%8F%B0%E5%89%8D%E5%B9%95%E5%90%8E/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-05-10/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC102%E6%9C%9F-%E8%BF%9E%E8%8A%B1%E6%B8%85%E7%98%9F19%E5%B9%B4-%E6%B2%A1%E6%9C%89%E9%94%99%E8%BF%87%E4%BB%BB%E4%BD%95%E4%B8%80%E6%AC%A1%E7%81%BE%E9%9A%BE-%E4%B8%80%E6%AC%BE-%E5%9B%BD%E6%B0%91%E7%A5%9E%E8%8D%AF-%E7%9A%84%E5%8F%B0%E5%89%8D%E5%B9%95%E5%90%8E/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-04-26/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC98%E6%9C%9F-%E8%A7%86%E9%A2%91%E9%87%8C%E7%9A%84-%E6%B8%85%E9%9B%B6-(3)-%E4%B8%8A%E6%B5%B7%E4%BA%BA%E7%9A%84%E5%98%B2%E7%AC%91%E5%A3%B0/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-05-10/%E6%9D%8E%E5%85%8B%E5%BC%B7%E5%BC%B7%E8%AA%BF%E6%94%AF%E6%8C%81%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD-%E7%A9%A9%E7%B6%93%E6%BF%9F-%E4%B8%AD%E7%B4%80%E5%A7%94%E5%92%8C%E8%BB%8D%E6%96%B9%E5%AE%A3%E5%B8%83-%E6%AF%AB%E4%B8%8D%E5%8B%95%E6%90%96-%E5%A0%85%E6%8C%81-%E6%B8%85%E9%9B%B6-%E9%98%B2%E7%96%AB%E6%94%BF%E7%AD%96/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-05-10/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC102%E6%9C%9F-%E8%BF%9E%E8%8A%B1%E6%B8%85%E7%98%9F19%E5%B9%B4-%E6%B2%A1%E6%9C%89%E9%94%99%E8%BF%87%E4%BB%BB%E4%BD%95%E4%B8%80%E6%AC%A1%E7%81%BE%E9%9A%BE-%E4%B8%80%E6%AC%BE-%E5%9B%BD%E6%B0%91%E7%A5%9E%E8%8D%AF-%E7%9A%84%E5%8F%B0%E5%89%8D%E5%B9%95%E5%90%8E/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<中国数字时代>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-05-10/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC102%E6%9C%9F-%E8%BF%9E%E8%8A%B1%E6%B8%85%E7%98%9F19%E5%B9%B4-%E6%B2%A1%E6%9C%89%E9%94%99%E8%BF%87%E4%BB%BB%E4%BD%95%E4%B8%80%E6%AC%A1%E7%81%BE%E9%9A%BE-%E4%B8%80%E6%AC%BE-%E5%9B%BD%E6%B0%91%E7%A5%9E%E8%8D%AF-%E7%9A%84%E5%8F%B0%E5%89%8D%E5%B9%95%E5%90%8E/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<中国数字时代>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-04-26/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC98%E6%9C%9F-%E8%A7%86%E9%A2%91%E9%87%8C%E7%9A%84-%E6%B8%85%E9%9B%B6-(3)-%E4%B8%8A%E6%B5%B7%E4%BA%BA%E7%9A%84%E5%98%B2%E7%AC%91%E5%A3%B0/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

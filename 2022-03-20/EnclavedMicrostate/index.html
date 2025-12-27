@@ -1,0 +1,2605 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>EnclavedMicrostate在2022-03-14~2022-03-20的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="EnclavedMicrostate在2022-03-14~2022-03-20的言论" />
+    <meta property="twitter:title" content="EnclavedMicrostate在2022-03-14~2022-03-20的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FChineseLanguage%2Fcomments%2Ftdiyzx%2F%E9%A2%9D_as_a_royal_title%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/ChineseLanguage/comments/tdiyzx/额_as_a_royal_title/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/ChineseLanguage/comments/tdiyzx/额_as_a_royal_title/&text=EnclavedMicrostate在2022-03-14~2022-03-20的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/ChineseLanguage/comments/tdiyzx/额_as_a_royal_title/&title=EnclavedMicrostate在2022-03-14~2022-03-20的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/ChineseLanguage/comments/tdiyzx/额_as_a_royal_title/&title=EnclavedMicrostate在2022-03-14~2022-03-20的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=EnclavedMicrostate在2022-03-14~2022-03-20的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/ChineseLanguage/comments/tdiyzx/额_as_a_royal_title/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/ChineseLanguage/comments/tdiyzx/额_as_a_royal_title/&title=EnclavedMicrostate在2022-03-14~2022-03-20的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=EnclavedMicrostate在2022-03-14~2022-03-20的言论&url=https://old.reddit.com/r/ChineseLanguage/comments/tdiyzx/额_as_a_royal_title/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>EnclavedMicrostate在2022-03-14~2022-03-20的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-03-20
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: EnclavedMicrostate</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/ChineseLanguage/comments/tdiyzx/额_as_a_royal_title/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#224-额-as-a-royal-title-submitted-on-2022-03-14-0700440800" id="markdown-toc-224-额-as-a-royal-title-submitted-on-2022-03-14-0700440800">224: 额 as a Royal Title?, submitted on 2022-03-14 07:00:44+08:00.</a></li>
+  <li><a href="#225-if-ernst-rohm-the-leader-of-the-nazi-sa-were-to-survive-until-the-nuremberg-trials-what-would-he-be-convicted-of-submitted-on-2022-03-14-1153140800" id="markdown-toc-225-if-ernst-rohm-the-leader-of-the-nazi-sa-were-to-survive-until-the-nuremberg-trials-what-would-he-be-convicted-of-submitted-on-2022-03-14-1153140800">225: If ernst rohm (The leader of the Nazi SA) were to survive until the Nuremberg Trials, what would he be convicted of?, submitted on 2022-03-14 11:53:14+08:00.</a></li>
+  <li><a href="#226-gifting-ginormous-genes---weekly-discussion-thread-march-14th-2022-submitted-on-2022-03-14-2007570800" id="markdown-toc-226-gifting-ginormous-genes---weekly-discussion-thread-march-14th-2022-submitted-on-2022-03-14-2007570800">226: Gifting Ginormous Genes - Weekly Discussion Thread, March 14th, 2022, submitted on 2022-03-14 20:07:57+08:00.</a></li>
+  <li><a href="#227-for-those-who-cant-see-calli-in-3d-this-sunday-dont-worry-shes-got-some-good-stuff-planned-for-everyone-sasuga-dad-submitted-on-2022-03-16-0003400800" id="markdown-toc-227-for-those-who-cant-see-calli-in-3d-this-sunday-dont-worry-shes-got-some-good-stuff-planned-for-everyone-sasuga-dad-submitted-on-2022-03-16-0003400800">227: For those who can’t see Calli in 3D this Sunday, don’t worry! She’s got some good stuff planned for everyone! Sasuga dad!, submitted on 2022-03-16 00:03:40+08:00.</a></li>
+  <li><a href="#228-would-deng-xiaopings-reforms-in-china-to-alleviate-poverty-work-in-other-impoverished-or-imperialized-nations-submitted-on-2022-03-16-1209470800" id="markdown-toc-228-would-deng-xiaopings-reforms-in-china-to-alleviate-poverty-work-in-other-impoverished-or-imperialized-nations-submitted-on-2022-03-16-1209470800">228: Would Deng Xiaoping’s reforms in China to alleviate poverty work in other impoverished or imperialized nations?, submitted on 2022-03-16 12:09:47+08:00.</a></li>
+  <li><a href="#229-what-are-some-of-the-most-unexpected-or-strangest-isolated-incidences-where-countries-that-are-totally-remote-to-each-other-seem-to-have-greatly-impacted-each-other-culturally-politically-etc-without-any-obvious-reason-submitted-on-2022-03-17-1306230800" id="markdown-toc-229-what-are-some-of-the-most-unexpected-or-strangest-isolated-incidences-where-countries-that-are-totally-remote-to-each-other-seem-to-have-greatly-impacted-each-other-culturally-politically-etc-without-any-obvious-reason-submitted-on-2022-03-17-1306230800">229: What are some of the most unexpected or strangest ISOLATED incidences where countries that are totally remote to each other seem to have greatly impacted each other culturally, politically, etc. without any obvious reason?, submitted on 2022-03-17 13:06:23+08:00.</a></li>
+  <li><a href="#230-the-composure-and-safety-mindedness-of-the-hl-talent-in-emergency-situations--but-only-in-emergency-situations-submitted-on-2022-03-18-1514480800" id="markdown-toc-230-the-composure-and-safety-mindedness-of-the-hl-talent-in-emergency-situations--but-only-in-emergency-situations-submitted-on-2022-03-18-1514480800">230: The composure and safety-mindedness of the HL talent in emergency situations- but only in emergency situations., submitted on 2022-03-18 15:14:48+08:00.</a></li>
+  <li><a href="#231-as-per-pd-kim-vtuber-web-event-has-been-cancelled-submitted-on-2022-03-18-1934120800" id="markdown-toc-231-as-per-pd-kim-vtuber-web-event-has-been-cancelled-submitted-on-2022-03-18-1934120800">231: As per PD Kim, VTuber web event has been cancelled., submitted on 2022-03-18 19:34:12+08:00.</a></li>
+  <li><a href="#232-virtual-youtubers-the-first-years-of-vtubing-stardom-scandal-and-the-shaping-of-the-modern-industry-submitted-on-2022-03-18-2044280800" id="markdown-toc-232-virtual-youtubers-the-first-years-of-vtubing-stardom-scandal-and-the-shaping-of-the-modern-industry-submitted-on-2022-03-18-2044280800">232: [Virtual Youtubers] The First Years of VTubing: Stardom, Scandal, and the Shaping of the Modern Industry, submitted on 2022-03-18 20:44:28+08:00.</a></li>
+  <li><a href="#sources" id="markdown-toc-sources">Sources:</a></li>
+  <li><a href="#an-addition-to-where-are-they-now" id="markdown-toc-an-addition-to-where-are-they-now">An addition to ‘Where Are They Now’</a></li>
+  <li><a href="#233-haato-and-watame-well-they-seem-to-be-excited-today-submitted-on-2022-03-19-0800450800" id="markdown-toc-233-haato-and-watame-well-they-seem-to-be-excited-today-submitted-on-2022-03-19-0800450800">233: [Haato and Watame] Well, they seem to be excited today…, submitted on 2022-03-19 08:00:45+08:00.</a></li>
+  <li><a href="#234-3rd-fes-link-your-wish-day-1megathread-submitted-on-2022-03-19-1507350800" id="markdown-toc-234-3rd-fes-link-your-wish-day-1megathread-submitted-on-2022-03-19-1507350800">234: 🎉3rd fes. Link Your Wish DAY 1🎉Megathread!, submitted on 2022-03-19 15:07:35+08:00.</a></li>
+  <li><a href="#235-calli-i-believe-she-said-a-similar-thing-on-trash-taste-glad-shes-happy-where-she-is-now-submitted-on-2022-03-19-2047450800" id="markdown-toc-235-calli-i-believe-she-said-a-similar-thing-on-trash-taste-glad-shes-happy-where-she-is-now-submitted-on-2022-03-19-2047450800">235: [Calli] I believe she said a similar thing on Trash Taste. Glad she’s happy where she is now., submitted on 2022-03-19 20:47:45+08:00.</a></li>
+  <li><a href="#236-yeah-we-saw-it-shork-tt-submitted-on-2022-03-19-2137210800" id="markdown-toc-236-yeah-we-saw-it-shork-tt-submitted-on-2022-03-19-2137210800">236: Yeah we saw it shork (T⌓T), submitted on 2022-03-19 21:37:21+08:00.</a></li>
+  <li><a href="#237-3rd-fes-link-your-wish-day-2megathread-submitted-on-2022-03-20-1500200800" id="markdown-toc-237-3rd-fes-link-your-wish-day-2megathread-submitted-on-2022-03-20-1500200800">237: 🎉3rd fes. Link Your Wish DAY 2🎉Megathread!, submitted on 2022-03-20 15:00:20+08:00.</a></li>
+  <li><a href="#238-are-the-holoen-members-going-to-make-an-actual-3d-debut-like-the-other-members-submitted-on-2022-03-20-1924580800" id="markdown-toc-238-are-the-holoen-members-going-to-make-an-actual-3d-debut-like-the-other-members-submitted-on-2022-03-20-1924580800">238: Are the HoloEN members going to make an actual 3D debut like the other members?, submitted on 2022-03-20 19:24:58+08:00.</a></li>
+  <li><a href="#239-my-disappointments-with-3rd-fest-link-your-wish-concert-submitted-on-2022-03-20-1927420800" id="markdown-toc-239-my-disappointments-with-3rd-fest-link-your-wish-concert-submitted-on-2022-03-20-1927420800">239: My disappointments with 3rd fest. Link Your Wish concert., submitted on 2022-03-20 19:27:42+08:00.</a></li>
+  <li><a href="#240-matsuri-loves-the-management-because-of-how-supportive-they-are-and-how-they-really-respect-the-talents-creative-freedom-submitted-on-2022-03-20-2050460800" id="markdown-toc-240-matsuri-loves-the-management-because-of-how-supportive-they-are-and-how-they-really-respect-the-talents-creative-freedom-submitted-on-2022-03-20-2050460800">240: Matsuri loves the management because of how supportive they are, and how they really respect the talents creative freedom, submitted on 2022-03-20 20:50:46+08:00.</a></li>
+  <li><a href="#241-a-recent-parody-tweet-about-chinese-dynasties-wrote-qing-kid-everyone-thinks-is-an-exchange-student-but-is-actually-just-from-an-underrepresented-clique-wins-the-election-after-ming-graduates-solely-bc-the-other-candidates-were-too-busy-smearing-each-other-how-accurate-is-this-submitted-on-2022-03-20-2247100800" id="markdown-toc-241-a-recent-parody-tweet-about-chinese-dynasties-wrote-qing-kid-everyone-thinks-is-an-exchange-student-but-is-actually-just-from-an-underrepresented-clique-wins-the-election-after-ming-graduates-solely-bc-the-other-candidates-were-too-busy-smearing-each-other-how-accurate-is-this-submitted-on-2022-03-20-2247100800">241: A recent parody tweet about Chinese dynasties wrote: “QING: Kid everyone thinks is an exchange student but is actually just from an underrepresented clique. Wins the election after Ming graduates solely bc the other candidates were too busy smearing each other.” How accurate is this?, submitted on 2022-03-20 22:47:10+08:00.</a></li>
+  <li><a href="#1-kid-everyone-thinks-is-an-exchange-student-but-is-actually-just-from-an-underrepresented-clique" id="markdown-toc-1-kid-everyone-thinks-is-an-exchange-student-but-is-actually-just-from-an-underrepresented-clique">1. Kid everyone thinks is an exchange student but is actually just from an underrepresented clique.</a></li>
+  <li><a href="#2-wins-the-election-after-ming-graduates-solely-bc-the-other-candidates-were-too-busy-smearing-each-other" id="markdown-toc-2-wins-the-election-after-ming-graduates-solely-bc-the-other-candidates-were-too-busy-smearing-each-other">2. Wins the election after Ming graduates solely bc the other candidates were too busy smearing each other.</a></li>
+  <li><a href="#3-languishes-so-much-later-on-that-the-school-gets-outright-demolished" id="markdown-toc-3-languishes-so-much-later-on-that-the-school-gets-outright-demolished">3: Languishes so much later on that the school gets outright demolished.</a></li>
+</ul>
+
+<h3 id="224-额-as-a-royal-title-submitted-on-2022-03-14-0700440800">224: <a href="https://old.reddit.com/r/ChineseLanguage/comments/tdiyzx/额_as_a_royal_title/">额 as a Royal Title?</a>, submitted on 2022-03-14 07:00:44+08:00.</h3>
+
+<p>—– <strong>224.1</strong> —–2022-03-14 08:36:30+08:00:</p>
+
+<p>To reiterate and expand on the other two comments, the Manchu ᡝᠨᠶᡝ <em>eniye</em> ‘mother’ was loaned into Beijing Mandarin as 額娘 <em>eniang</em>, but I cannot find examples of 額皇 in use anywhere; was this a misreading or mishearing on your part? Or is it there in the subtitles?</p>
+
+<p>—– <strong>224.2</strong> —–2022-03-14 08:42:48+08:00:</p>
+
+<p>As I understand it, 朕 <em>zhen</em> as the first-person pronoun for emperors has been enshrined since the Qin, rather than being a specifically Manchu construction.</p>
+
+<h3 id="225-if-ernst-rohm-the-leader-of-the-nazi-sa-were-to-survive-until-the-nuremberg-trials-what-would-he-be-convicted-of-submitted-on-2022-03-14-1153140800">225: <a href="https://old.reddit.com/r/AskHistorians/comments/tdoh6s/if_ernst_rohm_the_leader_of_the_nazi_sa_were_to/">If ernst rohm (The leader of the Nazi SA) were to survive until the Nuremberg Trials, what would he be convicted of?</a>, submitted on 2022-03-14 11:53:14+08:00.</h3>
+
+<p>—– <strong>225.1</strong> —–2022-03-14 13:11:46+08:00:</p>
+
+<p>Sorry, but your submission has been removed because we <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F">don’t allow hypothetical questions</a>. If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule <a href="https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/">here</a>.</p>
+
+<h3 id="226-gifting-ginormous-genes---weekly-discussion-thread-march-14th-2022-submitted-on-2022-03-14-2007570800">226: <a href="https://old.reddit.com/r/VirtualYoutubers/comments/tdvzzg/gifting_ginormous_genes_weekly_discussion_thread/">Gifting Ginormous Genes - Weekly Discussion Thread, March 14th, 2022</a>, submitted on 2022-03-14 20:07:57+08:00.</h3>
+
+<p>—– <strong>226.1</strong> —–2022-03-21 10:15:58+08:00:</p>
+
+<p>Calli’s stated on stream, and I think on her roommate account, that she does want to be able to stay in Japan long-term, but that if possible she wants to be able to split 50-50 between the US and Japan. Unless there’s been some major change behind the scenes (and even then, I recall those statements being around the time the album would have been worked on) then that’s unlikely to change. I’m also wary of reading too much into some of these lyrics because a decent interpretation of part of ‘Live Again’ is that she was going to retire her roommate account entirely, which isn’t what’s happened. For all we know she may have written the song at a time quite removed from where she is now, but released it anyway as a snapshot of that stage in her life/career.</p>
+
+<p>But even if it is confirming some big changes coming, well, to quote The Frenchman near the end of The Ballad of Buster Scruggs, ‘life is change’! Calli doesn’t seem like the sort of person who wants to get stuck in one particular niche forever, and if she wants to shake things up for a while all power to her.</p>
+
+<p>Plus we all know Calli is secretly Anemachi anyway.</p>
+
+<h3 id="227-for-those-who-cant-see-calli-in-3d-this-sunday-dont-worry-shes-got-some-good-stuff-planned-for-everyone-sasuga-dad-submitted-on-2022-03-16-0003400800">227: <a href="https://old.reddit.com/r/Hololive/comments/tesd12/for_those_who_cant_see_calli_in_3d_this_sunday/">For those who can’t see Calli in 3D this Sunday, don’t worry! She’s got some good stuff planned for everyone! Sasuga dad!</a>, submitted on 2022-03-16 00:03:40+08:00.</h3>
+
+<p>—– <strong>227.1</strong> —–2022-03-16 01:25:46+08:00:</p>
+
+<p>So I think I have a rough idea as to what it might potentially be, based on <a href="https://twitter.com/moricalliope/status/1502351888536113152">this tweet</a> from just a few days ago…</p>
+
+<h3 id="228-would-deng-xiaopings-reforms-in-china-to-alleviate-poverty-work-in-other-impoverished-or-imperialized-nations-submitted-on-2022-03-16-1209470800">228: <a href="https://old.reddit.com/r/AskHistorians/comments/tf8y47/would_deng_xiaopings_reforms_in_china_to/">Would Deng Xiaoping’s reforms in China to alleviate poverty work in other impoverished or imperialized nations?</a>, submitted on 2022-03-16 12:09:47+08:00.</h3>
+
+<p>—– <strong>228.1</strong> —–2022-03-16 12:51:18+08:00:</p>
+
+<p>Sorry, but your submission has been removed because we <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F">don’t allow hypothetical questions</a>. If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule <a href="https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/">here</a>.</p>
+
+<h3 id="229-what-are-some-of-the-most-unexpected-or-strangest-isolated-incidences-where-countries-that-are-totally-remote-to-each-other-seem-to-have-greatly-impacted-each-other-culturally-politically-etc-without-any-obvious-reason-submitted-on-2022-03-17-1306230800">229: <a href="https://old.reddit.com/r/AskHistorians/comments/tg2igu/what_are_some_of_the_most_unexpected_or_strangest/">What are some of the most unexpected or strangest ISOLATED incidences where countries that are totally remote to each other seem to have greatly impacted each other culturally, politically, etc. without any obvious reason?</a>, submitted on 2022-03-17 13:06:23+08:00.</h3>
+
+<p>—– <strong>229.1</strong> —–2022-03-17 16:54:54+08:00:</p>
+
+<p>This submission has been removed because it violates the <a href="http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions">rule on poll-type questions</a>. These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the “most”, the “worst”, “unknown”, or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult <a href="https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/">this Roundtable discussion</a>.</p>
+
+<p>For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.</p>
+
+<h3 id="230-the-composure-and-safety-mindedness-of-the-hl-talent-in-emergency-situations--but-only-in-emergency-situations-submitted-on-2022-03-18-1514480800">230: <a href="https://old.reddit.com/r/Hololive/comments/tgvn5w/the_composure_and_safetymindedness_of_the_hl/">The composure and safety-mindedness of the HL talent in emergency situations- but only in emergency situations.</a>, submitted on 2022-03-18 15:14:48+08:00.</h3>
+
+<p>—– <strong>230.1</strong> —–2022-03-18 20:57:48+08:00:</p>
+
+<p>Weirdly enough, there’s been a <a href="https://virtualyoutuber.fandom.com/wiki/Weatheroid_Type_A_Airi">virtual weathercaster</a> since even before Kizuna AI.</p>
+
+<h3 id="231-as-per-pd-kim-vtuber-web-event-has-been-cancelled-submitted-on-2022-03-18-1934120800">231: <a href="https://old.reddit.com/r/BlueArchive/comments/tgz9r2/as_per_pd_kim_vtuber_web_event_has_been_cancelled/">As per PD Kim, VTuber web event has been cancelled.</a>, submitted on 2022-03-18 19:34:12+08:00.</h3>
+
+<p>—– <strong>231.1</strong> —–2022-03-19 15:27:38+08:00:</p>
+
+<p>They also tweeted on it! Once.</p>
+
+<h3 id="232-virtual-youtubers-the-first-years-of-vtubing-stardom-scandal-and-the-shaping-of-the-modern-industry-submitted-on-2022-03-18-2044280800">232: <a href="https://old.reddit.com/r/HobbyDrama/comments/th0gow/virtual_youtubers_the_first_years_of_vtubing/">[Virtual Youtubers] The First Years of VTubing: Stardom, Scandal, and the Shaping of the Modern Industry</a>, submitted on 2022-03-18 20:44:28+08:00.</h3>
+
+<p>—– <strong>232.1</strong> —–2022-03-18 20:51:16+08:00:</p>
+
+<h3 id="sources">Sources:</h3>
+
+<p>Unfortunately there’s not a lot of what might be considered ‘good’ sourcing on a lot of VTuber history. Most of it is in Japanese of course, and even if you’re good at it you’ll be reliant on people actually compiling sources. The <a href="http://www.virtualyoutuber.fandom.com/wiki">Virtual Youtuber Wiki</a> obviously has limitations but it’s a good source for basic information and timelines; for more in-depth discussion including ‘forbidden knowledge’ (i.e. alternate and IRL identities) the subreddit /r/VirtualYoutubers has a lot of old threads on the topic, with the ones I consulted while writing this post listed here:</p>
+
+<ul>
+  <li>https://www.reddit.com/r/VirtualYoutubers/comments/mfzssc/here_are_the_30_oldest_vtubers_in_the_industry/</li>
+  <li>https://www.reddit.com/r/VirtualYoutubers/comments/kp728d/fans_fantasy_and_vice_why_the_gamebu_controversy/</li>
+  <li>https://www.reddit.com/r/VirtualYoutubers/comments/co22i0/full_timeline_of_multiple_ai_project/</li>
+  <li>https://www.reddit.com/r/VirtualYoutubers/comments/ib8tf8/the_magnitude_of_oda_nobuhimes_success_and_why/</li>
+  <li>https://www.reddit.com/r/VirtualYoutubers/comments/fk0atl/on_april_30_nobuhime_oda_will_retire_from_virtual/</li>
+  <li>https://www.reddit.com/r/VirtualYoutubers/comments/gb6fsu/after_kizuna_ai_and_oda_nobuhime_the_entire/</li>
+  <li>https://www.reddit.com/r/VirtualYoutubers/comments/j6n5rs/any_ideas_why_nobuhime_jumped_the_ship_also_which/</li>
+</ul>
+
+<p>Believe it or not there is also an actual academic article on the subject of the Multiple AI controversy: Stevie Suan’s ‘Performing Virtual YouTubers: Acting Across Borders in the Platform Society’, in <a href="https://mediarep.org/handle/doc/18067">this open-access book</a>, <em>Japan’s Contemporary Media Culture between Local and Global: Content, Practice and Theory</em> edited by Martin Roth, Yoshida Hiroshi and Martin Picard.</p>
+
+<h3 id="an-addition-to-where-are-they-now">An addition to ‘Where Are They Now’</h3>
+
+<p>Per a couple of comments I’ve received, there is some feeling that completely obfuscating the ex-upd8 and Game-Bu talents’ later activities is a bit of an overreaction. I personally still think it was <em>mostly</em> the right call but I see where this was coming from, so I’ve edited in the specific info here:</p>
+
+<p>Game-bu (original VAs):</p>
+
+<blockquote>
+  <p>!Sakuragi Miria – <a href="https://www.youtube.com/channel/UCTJ15i3Bl-QbeBA4NCcpyJA!">Hanagumo Kuyuri</a> !&lt;</p>
+</blockquote>
+
+<blockquote>
+  <p>!Yumesaki Kaede – <a href="https://www.youtube.com/channel/UCqXvL55GYHtRZhBS03LVGnQ">Yuzuriha Honami</a> !&lt;</p>
+</blockquote>
+
+<blockquote>
+  <p>!Kazami Ryo – <a href="https://www.youtube.com/channel/UCeb76eafe-6kE0D4u7lOWbg">Yuugasaki Umi</a> !&lt;</p>
+</blockquote>
+
+<blockquote>
+  <p>!All three of the above were members of a network called Stellar Cycle Campus before going independent; I haven’t found much evidence of their collaborating since.!&lt;</p>
+</blockquote>
+
+<p>Activ8:</p>
+
+<blockquote>
+  <p>!Oda Nobuhime – Omaru Polka of Hololive!&lt;</p>
+</blockquote>
+
+<p>—– <strong>232.2</strong> —–2022-03-18 21:57:39+08:00:</p>
+
+<p>I think I need to declare here that despite a somewhat dispassionate tone in my post I am a bit of a Hololive fanatic, so apologies if my comments see me jumping more to the defence of the modern industry.</p>
+
+<p>So, all told, the interval between Kizuna AI’s debut and the introduction of iPhone X and face-only Live2D was barely a year, which was not a lot of time for the companies established in that time (Activ8 and COVER) to get that much in terms of revenues to fund a massive suite of new Live2D members. I’d argue it was entirely new companies, which were able to put all their startup funding into Live2D, that profited most from the switch – Nijisanji being the arch-example. EDIT: To put it another way, the iPhone X coming on the market completely reset the field because existing infrastructure couldn’t be adapted to it, so anyone who was going into Live2D VTubing was starting from scratch in early 2018.</p>
+
+<p>—– <strong>232.3</strong> —–2022-03-18 22:04:57+08:00:</p>
+
+<p>Thanks for the tip-off, I was using the wrong site’s formatting (too used to Discord’s these days)</p>
+
+<p>—– <strong>232.4</strong> —–2022-03-18 22:45:39+08:00:</p>
+
+<p>I was going to say it’s rather interesting how passionate you are about this topic, given that you <a href="https://www.reddit.com/r/Gamingcirclejerk/comments/tgul39/friday_unjerk_thread/i15h2o8/?context=3">seem to have found out about Hitomi Chris entirely from my post</a>. Especially as in said post I fully declare that information is hard to come by and narratives are conflicting over Chris’ culpability, which makes it impossible to come to any kind of clear conclusion as to what exactly caused the firing. Nor did I attempt to insinuate that COVER hasn’t made attempts to improve (all but the most diehard haters would agree it has). But then you deleted your account so uh… <em>shrug</em>.</p>
+
+<p>—– <strong>232.5</strong> —–2022-03-19 00:16:06+08:00:</p>
+
+<blockquote>
+  <p>it also furthered the parasocial attachment the viewer has to the personality in a manner similar to the idol industry combined with the reverence for Japanese VAs.</p>
+</blockquote>
+
+<p>What’s quite interesting is that this may have been intended on Activ8’s part. <a href="https://note.com/jmatsuda2501/n/nc323452afa3f">This recent blog post</a> by J. Matsuda, one of Kizuna AI’s principal creators, is a fascinating read even in machine translation (note: use DeepL rather than Google Translate for it if you want something actually readable), especially because of how he conceived of it precisely because of his parasocial relationships. In essence, for him the parasocial relationship would be a feature, not a bug, of the ‘eternal idol’, and something to very deliberately encourage. And that’s something I find utterly fascinating precisely because of how at least on the conscious and/or public level, the parasocial aspect is something that VTubers and their fans today <em>generally</em> don’t want to be seen as encouraging. Whether that’s successful is a different question, but for me at least there has been an inversion from the original ‘authorial intent’ so to speak, where the parasocial side is indeed now seen as bug rather than feature.</p>
+
+<blockquote>
+  <p>so despite all the inherent problems and toxicity the Vtuber fandom has, at least there’s that layer of security and respect for the person behind the persona to fall back on.</p>
+</blockquote>
+
+<p>To toss my own thought in on this, I think VTuber fandom is as toxic as any other in terms of extent, it’s just toxic in specific ways that may not be familiar to people in most other fandoms. As this very sub illustrates, any fandom is fully capable of some pretty severe depths of bad behaviour and toxicity, but VTuber drama just manages to be very public and involve very specific dynamics that may seem alien to anyone not already part of the viewing community.</p>
+
+<p>—– <strong>232.6</strong> —–2022-03-19 00:31:51+08:00:</p>
+
+<p>What can I say except <em>sunglasses emoji</em></p>
+
+<p>—– <strong>232.7</strong> —–2022-03-19 00:47:20+08:00:</p>
+
+<p>I am going to treat this lighthearted comment entirely seriously and note that, were it not for space issues as well as relevance, I did come close to including a paragraph on cases of <em>arguable</em> prototypical virtual youtubers like Annoying Orange, or review creators who use a set of still drawings of a cartoon representation of themselves depicting different reactions to add to their videos’ visuals, with present-day examples including SaberSpark and TheMysteriousMrEnter, to name a few. I genuinely have no idea how old the latter format is; I can definitely think of Confused Matthew as being one of the older examples of the type but I presume he didn’t come up with the whole ‘cutting away to a reaction face on a representative cartoon character’ schtick. And I think once you get to this stage, you just have to be very firm on the mocap aspect: none of these are performances that are rendered live and essentially ready for release, but rather created in the edit.</p>
+
+<p>—– <strong>232.8</strong> —–2022-03-19 01:10:53+08:00:</p>
+
+<p>…<em>no</em>.</p>
+
+<p>—– <strong>232.9</strong> —–2022-03-19 01:13:07+08:00:</p>
+
+<p>What’s interesting is that Mito wasn’t even the first Live2D VTuber (which I think goes to <a href="https://virtualyoutuber.fandom.com/wiki/Nem">Nem</a>), just the first really successful one.</p>
+
+<p>—– <strong>232.10</strong> —–2022-03-19 01:14:34+08:00:</p>
+
+<blockquote>
+  <p>It almost seems insulting to put her along side people who just record themselves talking about random nonsense with a virtual avatar.</p>
+</blockquote>
+
+<p>As opposed to overtly insulting to the people ‘talking about random nonsense with a virtual avatar’? I don’t know that this is a particularly productive way of framing it. Ami Yamato isn’t better or worse than modern VTubers, just different.</p>
+
+<p>—– <strong>232.11</strong> —–2022-03-19 01:17:02+08:00:</p>
+
+<p>I think that’d be a really interesting thing to happen, but I feel like even then it’s unlikely to be taken all that well. I can definitely imagine some kind of scenario with a family member taking over a channel as a successor character in some way post-retirement, but taking over the original character would be a little odd. But I suppose we shall see some years down the line, when ‘ageing out’ of a VTuber identity starts to be something that needs to be reckoned with.</p>
+
+<p>—– <strong>232.12</strong> —–2022-03-19 01:52:15+08:00:</p>
+
+<p>As noted, the allegation is that he alleged to have connections with Cover management and thus could get Chris in; Cover themselves denied any association.</p>
+
+<p>—– <strong>232.13</strong> —–2022-03-19 01:53:04+08:00:</p>
+
+<p>It’s exactly the sort of thing I’m describing, yes.</p>
+
+<p>—– <strong>232.14</strong> —–2022-03-19 02:07:34+08:00:</p>
+
+<p>You’re right that Nijisanji could have been given more attention here; I didn’t give it said attention for three main reasons:</p>
+
+<ol>
+  <li>
+    <p>I’m not a particularly avid Nijisanji watcher;</p>
+  </li>
+  <li>
+    <p>I was literally running out of space because of Reddit’s character limit on posts;</p>
+  </li>
+  <li>
+    <p>There’s just less in terms of interesting Nijisanji drama at this time (I guess Nijisanji Resistance? But that was quite short-lived and non-acrimonious), which makes it hard to find good threads summarising the more general state of affairs as context for said drama.</p>
+  </li>
+</ol>
+
+<p>I also focussed on Hololive not because it was prominent then, but rather because:</p>
+
+<ol>
+  <li>
+    <p>It is basically <em>the</em> example of an agency that sucessfully transitioned from a full-mocap 3D production approach to Live2D;</p>
+  </li>
+  <li>
+    <p>Said transition is thematically relevant to my thesis statement about VTubing giving up much of its potential innovativeness as a medium;</p>
+  </li>
+  <li>
+    <p>I’m more familiar with it, and I presume the same is true of my readership.</p>
+  </li>
+</ol>
+
+<p>EDIT: In effect, my post was focussing less on the actual ‘democratisation’ and more on how it impacted those who had got into the business beforehand: those that embraced the transition like Hololive, and those that tried to stay the course like Activ8 and Unlimited.</p>
+
+<p>—– <strong>232.15</strong> —–2022-03-19 02:10:40+08:00:</p>
+
+<p>Yeah so I did almost not post this here because of Rule 8, but it doesn’t seem to have been consistently enforced on VTuber-related topics because there have been four threads on VTubers before without getting removed, so precedent suggested it’d be fine:</p>
+
+<ul>
+  <li>
+    <p>https://www.reddit.com/r/HobbyDrama/comments/mx0he7/virtual_youtuberyaoi_fandom_gay_hentai_in_the/</p>
+  </li>
+  <li>
+    <p>https://www.reddit.com/r/HobbyDrama/comments/jjkyoc/virtual_youtuber_the_hololive_taiwan_controversy/</p>
+  </li>
+  <li>
+    <p>https://www.reddit.com/r/HobbyDrama/comments/jeui8v/virtual_youtubers_her_name_was_mano_aloe_a_fan/</p>
+  </li>
+  <li>
+    <p>https://www.reddit.com/r/HobbyDrama/comments/jf0cu4/virtual_youtubers_hostile_ai_takeover_the_story/</p>
+  </li>
+</ul>
+
+<p>—– <strong>232.16</strong> —–2022-03-19 02:15:05+08:00:</p>
+
+<p>Yeah, it’s why as I said, the Hitomi Chris situation seems to have been complex and ugly, but hard to pick apart as a casual, non-Japanese-speaking viewer because of how small it was at the time, and in turn how little there is in English on it. While the guy was definitely the principal perpetrator here, if this version of events is true he was also kind of defrauded by Chris in some way, so you do kind of get why Hololive might have dropped her, agree with the decision or otherwise.</p>
+
+<p>—– <strong>232.17</strong> —–2022-03-19 02:43:15+08:00:</p>
+
+<p>Thanks for the share! Looks like an interesting view, when I can get round to it.</p>
+
+<p>—– <strong>232.18</strong> —–2022-03-19 02:45:34+08:00:</p>
+
+<p>I felt a little guilty not replying as I didn’t feel I had anything to add or push back on here, so thanks for sharing your perspective!</p>
+
+<p>—– <strong>232.19</strong> —–2022-03-19 02:50:33+08:00:</p>
+
+<p>Well, I’d say that if the community as a whole is, at least on a conscious level, averse to parasocial relationships, then that is, in the socially constructed sense, ‘true’ – arguably the only form of ‘truth’ that really matters.</p>
+
+<p>It’s interesting you bring up the security point, not least because I didn’t, although also because it’s something I had wanted to put in my original post but cut due to space. These days there’s a kind of post-hoc rationalisation of the anonymity angle as being about protecting identities, and I would suggest that that is, on a socially-constructed level, true: if the majority of creators and viewers are of the opinion that that is the function of that particular conceit, then that is why the conceit exists and continues to. But originally, the non-publicisation of the VA was arguably so Activ8 could get more money out of Kizuna AI and limit Kasuga Nozomi’s leverage.</p>
+
+<p>But what this all boils down to is the wider point I was making, which is that while there are plenty of holdovers from the early years of VTubing, the underlying ethos has shifted. The parasocial problem is definitely there and will likely never go away, but it’s something that is no longer seen as an intended result of VTubing but rather as an unfortunate side-effect.</p>
+
+<p>—– <strong>232.20</strong> —–2022-03-19 03:01:52+08:00:</p>
+
+<p>Ooh okay!</p>
+
+<p>So as noted, my main thing is Hololive so it’ll mostly be Holomems here (sorry!) and even then I’m going to have to narrow down from ‘I really like basically all of EN and quite a few of the others!’ a bit…</p>
+
+<p>HoloEN Myth’s Mori Calliope got me into VTubers and is probably my absolute favourite, though not by a huge margin: those who know me know that I’m also very big on HoloEN Council’s Ceres Fauna these days, and I also watch HoloID’s Pavolia Reine quite a bit. I’ve also been getting into VShojo’s Froot a bit lately (which has been a lot easier ever since Holodex started making Twitch streams more easily accessible). One smaller English-language VTuber to check out is <a href="https://twitter.com/milkyqueen_idol?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">Milky Queen</a>, a bilingual streamer who’s part of a unit called Mai Princess and mostly streams on Twitch rather than YouTube these days. Milky’s actually been around for a while – she was Calli’s introduction to VTubers – and there’s a lot to like about her and her content, plus she’s put out some real bangers on the music side of things too.</p>
+
+<p>While I barely have any Japanese skills worth mentioning I do follow a few of Hololive’s Japanese talents: 3rd Gen’s Shirogane Noel and 0th’s Sakura Miko mainly, though I’ve also been getting into 6th Gen’s Hakui Koyori and Gamers’ Ookamio Mio lately. I think what helps is that with all four there’s a very strong vibe that doesn’t really require strong language skills, at least for me. Also, on a pure music front I’m very keen on 0th’s Hoshimachi Suisei.</p>
+
+<p>As noted, I’m sorry I don’t really have many non-major-agency (indeed, non-Hololive) recommendations here; it’s just the main group I follow and also probably the one that has the best accessibility for English-speakers.</p>
+
+<p>—– <strong>232.21</strong> —–2022-03-19 09:58:17+08:00:</p>
+
+<p>Oh absolutely, I won’t pretend otherwise. It’s a really hard circle to square, and I don’t think it has ever been squared successfully. I do think there have been cases where a decent compromise has been found, though: Hololive has generally maintained an ‘open secret’ policy around alt accounts, i.e. don’t discuss it on official Hololive forums, but even actual unintentional slip-ups by the talents can be brushed aside. Various Holomembers, most infamously Kiryu Coco and Mori Calliope, have had their alt account activities been deemed ‘Hololive’s worst-kept secret’ by fans, after all. It’s still a very imperfect approach to the issue, and I suspect it will have to be reckoned with more strongly once we’re a few years down the line and we start seeing more cases of basically non-acrimonious, ‘moving on’ retirements.</p>
+
+<p>—– <strong>232.22</strong> —–2022-03-19 10:11:39+08:00:</p>
+
+<blockquote>
+  <p>Could you elaborate a little on the Hololive AR app? You mention it a few times but don’t go much into what it actually did. What exactly is this “AR streaming” function it had?</p>
+</blockquote>
+
+<p>So, I was vague on the specifics because I don’t know entirely for sure, however there are a couple of ways I think it was supposed to work. Essentially, because Hololive’s first two members (Tokino Sora and Roboco-san) used 3D models with full-body motion capture, that means you technically have rendered a fully 3D environment. Whereas a conventional livestream would involve one or more fixed camera angles into that 3D environment, what I suspect was supposed to happen was that the AR functionality would mainly revolve around setting up your phone to allow you to view the stream from any angle of your choosing, and to change that angle by physically moving your device in real 3D space.</p>
+
+<p>I will note that the official public Hololive app does have a certain amount of more limited AR in the ‘projecting a 3D image onto the real world’ type, but it’s all prerecorded animations rather than being hooked up to any kind of livestreaming functionality.</p>
+
+<p>—– <strong>232.23</strong> —–2022-03-19 10:12:36+08:00:</p>
+
+<p>Selen has been on my potential list for a while but thanks for adding Elira too!</p>
+
+<p>—– <strong>232.24</strong> —–2022-03-19 10:14:30+08:00:</p>
+
+<p>What I’ll say is, while it definitely seems clear Kasuga Nozomi was replaced, that doesn’t necessarily mean she was <em>supposed</em> to be as part of the pitch for Multiple AI: because everything was so hush-hush, it’s not really possible to determine if she was fired or quit, and moreover if that was prompted by her own dissatisfaction with Multiple AI and thus not overtly intended on Activ8’s part.</p>
+
+<p>—– <strong>232.25</strong> —–2022-03-19 10:15:50+08:00:</p>
+
+<p>Huh, that’s an interesting one, I genuinely hadn’t come across her! I will note also, just for reference, that, I did almost include Vocaloids but space issues got in the way of that.</p>
+
+<p>—– <strong>232.26</strong> —–2022-03-19 10:34:54+08:00:</p>
+
+<p>I’m still not 100% on what exactly prevented AZKi from merging into the main branch before this year, but I suspect it could have been the result of a contract with Tsuranimizu (INNK’s founder/manager) rather than with Activ8, given how early on ‘Plan A’ (in terms of timeframe) seems to have been set out and that INNK existed before upd8 did.</p>
+
+<p>Reflecting back, I should have made space in the post for a rumination on upd8, which seems like one of those things that had potential but failed for reasons not inherent to the underlying shift in VTubing approach. It was messily handled and frankly a complete muddle out the gate for sure, but there might have been some benefit to a number of different agencies having a big joint project. Like how the broader failure of Multiple AI also took down the genuine potential of VTuber dub voices, I think Activ8’s dropping the ball on upd8 similarly sank this kind of long-term inter-agency cooperation and has kind of poisoned the well for any future attempts.</p>
+
+<p>—– <strong>232.27</strong> —–2022-03-19 10:37:07+08:00:</p>
+
+<p><em>Rubs chin</em></p>
+
+<p>Nahhhhhhhhhhhhhhhhh</p>
+
+<p>—– <strong>232.28</strong> —–2022-03-19 10:45:08+08:00:</p>
+
+<p>Ha I was looking around for the comment about inline spoilers and didn’t remember that it was this one!</p>
+
+<p>On the inline spoilers note, you’re not entirely wrong, and in fact I was very close to actually posting the details on the new accounts, but I’m also wary of my post inadvertently being a pathway for some people to harass the people in question over things that happened with Unlimited and activ8 that they may not contractually be able to speak about, or simply not want to given how bad things were there. You raise a good enough case that I will be editing the info in, but in the sources comment rather than the full top-level.</p>
+
+<p>—– <strong>232.29</strong> —–2022-03-19 11:32:19+08:00:</p>
+
+<p>Phew, a lot of things here!</p>
+
+<p>WRT Kasuga Nozomi not actually leaving Activ8, that hadn’t been entirely clear to me before so I will edit to make that less misleading. I think we’d both agree, though, that pulling her out of the normal video and streaming content was still a big move that essentially removed Kasuga from the typical creator-audience interaction, even if supposedly temporarily (but functionally indefinitely). On top of that, the cryptic tweeting suggests Kasuga was decidedly not happy about the situation.</p>
+
+<p>As for Domyoji Cocoa, the reason I had little to say is that there was very little to find on it. <del>For one, Cocoa was, simply, a relatively small channel at the time of the recasting in March 2020: Socialblade’s graphs happen to cut off at April 2020, but you can see there that her sub count was barely over 15k at the time, so if there was a fall it can’t have been a big one, especially amid Unlimited already having annihilated much of its credibility.</del> (EDIT: disregard the former, looks like a new channel was created outright, per /u/OPUno’s comment) Also, from what I’ve read Cocoa’s recasting was both announced ahead of time and treated as a sort of mini-graduation, so there was less of a deceit/bad blood aspect to it than the rather cloak-and-dagger approach that had been taken with Game-bu the year before. At this stage, however, with both a bigger audience and an even more firmly entrenched viewer landscape, I don’t think Brave could manage it a second time.</p>
+
+<p>Now, Crunchyroll-hime gets into a field that I really haven’t explored or addressed, and that is the ‘VTuberisation’ of certain corporate mascots. I think there’s a certain sense in which these are still vestiges of the ‘eternal idol’ because they are so much more overtly characters with a marketing angle, and not simply personas adopted by conventional content creators. My personal suspicion is that a recasting here would be less problematic and more akin to Isaiah Mustafa being succeeded by Terry Crews as the ‘Old Spice Guy’, albeit without the potential for a later crossover.</p>
+
+<p>—– <strong>232.30</strong> —–2022-03-19 13:33:27+08:00:</p>
+
+<p>Ame dropped the fake accent pretty fast.</p>
+
+<p>—– <strong>232.31</strong> —–2022-03-19 22:26:11+08:00:</p>
+
+<p>Reasons of space caused me to make a lot of editorial decisions, and in the end I decided that the Four Heavenly Kings just weren’t sufficiently interesting as an illustration of macro trends in VTubing to warrant discussion at length. And good info on Chris, though as noted, space means I can’t do much to reintegrate that into the post (I’ve hit the 40k character limit several times making edits and I don’t think I have much more to cut anymore…)</p>
+
+<p>—– <strong>232.32</strong> —–2022-03-19 22:52:45+08:00:</p>
+
+<p>Could do, but at a certain point you’d be adding more for its own sake without actually contributing to the point in question. Any work of history, even a rather unrigorous attempt like my post here, is an exercise in selection rather than inclusion.</p>
+
+<p>—– <strong>232.33</strong> —–2022-03-20 00:05:34+08:00:</p>
+
+<p>Actually, I do mention that <a href="https://www.reddit.com/r/HobbyDrama/comments/th0gow/virtual_youtubers_the_first_years_of_vtubing/i15aq08/">here</a>.</p>
+
+<p>—– <strong>232.34</strong> —–2022-03-20 00:06:23+08:00:</p>
+
+<p>Sure, plenty of drama, but is it drama that adds to my point? I’m writing about Hololive partly because it’s big now, but also partly because I find their particular decisions interesting, and in a way that was different from, and yet reflective of the same issues as, Unlimited and Activ8.</p>
+
+<p>—– <strong>232.35</strong> —–2022-03-20 01:58:20+08:00:</p>
+
+<p><a href="https://www.youtube.com/watch?v=XvqXgKryE58">Yep.</a></p>
+
+<p>—– <strong>232.36</strong> —–2022-03-20 11:28:19+08:00:</p>
+
+<p>Unfortunately <a href="https://www.twitch.tv/kirap_raptorgirl">you may have been beaten to it.</a></p>
+
+<p>—– <strong>232.37</strong> —–2022-03-21 11:09:24+08:00:</p>
+
+<p>Yep.</p>
+
+<h3 id="233-haato-and-watame-well-they-seem-to-be-excited-today-submitted-on-2022-03-19-0800450800">233: <a href="https://old.reddit.com/r/Hololive/comments/thirb8/haato_and_watame_well_they_seem_to_be_excited/">[Haato and Watame] Well, they seem to be excited today…</a>, submitted on 2022-03-19 08:00:45+08:00.</h3>
+
+<p>—– <strong>233.1</strong> —–2022-03-19 13:48:45+08:00:</p>
+
+<p>https://www.youtube.com/watch?v=s4Ms3hQ_IAY</p>
+
+<h3 id="234-3rd-fes-link-your-wish-day-1megathread-submitted-on-2022-03-19-1507350800">234: <a href="https://old.reddit.com/r/Hololive/comments/thps9r/3rd_fes_link_your_wish_day_1megathread/">🎉3rd fes. Link Your Wish DAY 1🎉Megathread!</a>, submitted on 2022-03-19 15:07:35+08:00.</h3>
+
+<p>—– <strong>234.1</strong> —–2022-03-19 16:43:51+08:00:</p>
+
+<p>Yep!</p>
+
+<p>—– <strong>234.2</strong> —–2022-03-19 19:58:43+08:00:</p>
+
+<p>Towa did ERROR at 2nd Fes, and I don’t think anyone reused any of their songs from 2nd Fes at 3rd (which makes sense).</p>
+
+<p>—– <strong>234.3</strong> —–2022-03-19 20:55:16+08:00:</p>
+
+<p>I guess Friend can do whatever she wants.</p>
+
+<h3 id="235-calli-i-believe-she-said-a-similar-thing-on-trash-taste-glad-shes-happy-where-she-is-now-submitted-on-2022-03-19-2047450800">235: <a href="https://old.reddit.com/r/Hololive/comments/thuhtf/calli_i_believe_she_said_a_similar_thing_on_trash/">[Calli] I believe she said a similar thing on Trash Taste. Glad she’s happy where she is now.</a>, submitted on 2022-03-19 20:47:45+08:00.</h3>
+
+<p>—– <strong>235.1</strong> —–2022-03-20 11:24:26+08:00:</p>
+
+<p>Milky Queen is great BTW, she’s pretty active <a href="http://twitch.tv/milkyqueen_idol">on Twitch</a>. Tsuyahime seems to be the main user of the <a href="https://www.youtube.com/channel/UC2c8dQYdDadn7tmK_d7o-HQ">Mai Princess Youtube channel</a> but Milky’s there occasionally too.</p>
+
+<h3 id="236-yeah-we-saw-it-shork-tt-submitted-on-2022-03-19-2137210800">236: <a href="https://old.reddit.com/r/Hololive/comments/thvd6h/yeah_we_saw_it_shork_tt/">Yeah we saw it shork (T⌓T)</a>, submitted on 2022-03-19 21:37:21+08:00.</h3>
+
+<p>—– <strong>236.1</strong> —–2022-03-20 12:26:46+08:00:</p>
+
+<p>It’s going to be guh, I feel it in my gut.</p>
+
+<p>More seriously I assume it’ll be UnAlive.</p>
+
+<h3 id="237-3rd-fes-link-your-wish-day-2megathread-submitted-on-2022-03-20-1500200800">237: <a href="https://old.reddit.com/r/Hololive/comments/tife8f/3rd_fes_link_your_wish_day_2megathread/">🎉3rd fes. Link Your Wish DAY 2🎉Megathread!</a>, submitted on 2022-03-20 15:00:20+08:00.</h3>
+
+<p>—– <strong>237.1</strong> —–2022-03-20 16:15:55+08:00:</p>
+
+<p>This is quite subtle, but the ribbon on Flare’s idol outfit model matches her current main outfit rather than her old one.</p>
+
+<p>—– <strong>237.2</strong> —–2022-03-20 16:22:05+08:00:</p>
+
+<p>Oh and Kintsuba’s gone too. That I’d forgotten was on the old outfit altogether.</p>
+
+<p>—– <strong>237.3</strong> —–2022-03-20 16:58:10+08:00:</p>
+
+<p>The blue-grey bit isn’t consistently present on all her outfits, but you can just about catch it on her main one: https://static.wikia.nocookie.net/virtualyoutuber/images/4/4a/Yuzuki_Choco_-_Full_Illustration_01.jpg/revision/latest/scale-to-width-down/462?cb=20190725165734</p>
+
+<p>—– <strong>237.4</strong> —–2022-03-20 17:52:09+08:00:</p>
+
+<p>I just realised Mio’s hair reminds me of Shadow the Hedgehog and now I can never unsee it help</p>
+
+<p>—– <strong>237.5</strong> —–2022-03-20 18:09:25+08:00:</p>
+
+<p>Instructions unclear; bonked it even deeper into my head.</p>
+
+<h3 id="238-are-the-holoen-members-going-to-make-an-actual-3d-debut-like-the-other-members-submitted-on-2022-03-20-1924580800">238: <a href="https://old.reddit.com/r/Hololive/comments/tiizj1/are_the_holoen_members_going_to_make_an_actual_3d/">Are the HoloEN members going to make an actual 3D debut like the other members?</a>, submitted on 2022-03-20 19:24:58+08:00.</h3>
+
+<p>—– <strong>238.1</strong> —–2022-03-20 19:27:05+08:00:</p>
+
+<p>Calli has said that they will once Myth are able to physically get together, but that with the world situation being what it has been, they will now be able to do 3D activities even without an ‘official’ debut if they want, such as Calli’s own birthday live next month.</p>
+
+<p>—– <strong>238.2</strong> —–2022-03-20 19:39:53+08:00:</p>
+
+<p>None of Myth or ID Gen 1 (besides Calli) were physically in Japan for Link Your Wish; their performances had to be done remotely. Whether this was streamed with a slight delay to buffer, or an outright advance recording, isn’t clear. Technically, they haven’t done an ‘official’ 3D debut yet which is its own specific stream that normally entails in-person interaction with other mems, and I think at Calli’s insistence that’s not happening until all 5 of Myth can be in the same place. However, because it has taken so long, Calli will be doing a 3D live for her birthday stream and apparently the other four will for theirs as well.</p>
+
+<p>—– <strong>238.3</strong> —–2022-03-20 20:47:07+08:00:</p>
+
+<p>Sure, and Calli has insisted that she won’t do one without, hence why she still haven’t had an official 3D debut.</p>
+
+<h3 id="239-my-disappointments-with-3rd-fest-link-your-wish-concert-submitted-on-2022-03-20-1927420800">239: <a href="https://old.reddit.com/r/Hololive/comments/tij0xq/my_disappointments_with_3rd_fest_link_your_wish/">My disappointments with 3rd fest. Link Your Wish concert.</a>, submitted on 2022-03-20 19:27:42+08:00.</h3>
+
+<p>—– <strong>239.1</strong> —–2022-03-20 22:42:35+08:00:</p>
+
+<p>3 days?</p>
+
+<p>—– <strong>239.2</strong> —–2022-03-21 00:38:52+08:00:</p>
+
+<p>Yeah it’s not an ideal option by any means, but arguably the only alternative is just longer concerts.</p>
+
+<h3 id="240-matsuri-loves-the-management-because-of-how-supportive-they-are-and-how-they-really-respect-the-talents-creative-freedom-submitted-on-2022-03-20-2050460800">240: <a href="https://old.reddit.com/r/Hololive/comments/tikd7i/matsuri_loves_the_management_because_of_how/">Matsuri loves the management because of how supportive they are, and how they really respect the talents creative freedom</a>, submitted on 2022-03-20 20:50:46+08:00.</h3>
+
+<p>—– <strong>240.1</strong> —–2022-03-20 22:03:14+08:00:</p>
+
+<p>Remember Matsuri you’re not allowed to date management though!</p>
+
+<h3 id="241-a-recent-parody-tweet-about-chinese-dynasties-wrote-qing-kid-everyone-thinks-is-an-exchange-student-but-is-actually-just-from-an-underrepresented-clique-wins-the-election-after-ming-graduates-solely-bc-the-other-candidates-were-too-busy-smearing-each-other-how-accurate-is-this-submitted-on-2022-03-20-2247100800">241: <a href="https://old.reddit.com/r/AskHistorians/comments/timn5t/a_recent_parody_tweet_about_chinese_dynasties/">A recent parody tweet about Chinese dynasties wrote: “QING: Kid everyone thinks is an exchange student but is actually just from an underrepresented clique. Wins the election after Ming graduates solely bc the other candidates were too busy smearing each other.” How accurate is this?</a>, submitted on 2022-03-20 22:47:10+08:00.</h3>
+
+<p>—– <strong>241.1</strong> —–2022-03-20 23:37:55+08:00:</p>
+
+<p>So, Twitter being what it is, I won’t fault this summary too much for the breadth of its coverage. You have 280 characters which is barely enough for 3 short sentences, so what you cover is what you cover. That said, I will fault sentences if they are misleading for any reason, and, er, hoo boy.</p>
+
+<h3 id="1-kid-everyone-thinks-is-an-exchange-student-but-is-actually-just-from-an-underrepresented-clique">1. Kid everyone thinks is an exchange student but is actually just from an underrepresented clique.</h3>
+
+<p>To translate into less metaphorical English, what the tweet author is trying to say is that the Qing’s Manchu founders and core ruling caste were not in fact foreign, but rather from a minority within a broader ‘Chinese’ identity. This is, needless to say, incorrect beyond the level of simple interpretive quibbles. There is, simply put, no intellectually honest interpretation of the formation of the Manchu polity in which the Manchus were meaningfully ‘Chinese’ before the conquest of China that began in 1644, and so it is hard to see how you can refer to them as anything like an ‘underrepresented clique’. The Ming exercised no meaningful administrative control over the Jurchen tribes who would, in time, become the Manchus; only a certain amount of soft power leverage via various trade measures, as I discuss in <a href="https://www.reddit.com/r/AskHistorians/comments/t6zpmj/during_the_ming_dynasty_were_there_any_chinese/">this recent answer</a>.</p>
+
+<p>The use of the ‘actually’ here smacks of a certain identity essentialism. Yes, we can say that there was a notion of ‘Chineseness’ under the Qing, and a notion of ‘Chineseness’ under the ROC and PRC, but these were, in a sense, different ‘Chinesenesses’. Insofar as we can speak of such a concept under the Qing, being ‘Chinese’ meant being a subject of the Qing Emperor, because ‘China’ (in the sense of the word <em>zhongguo</em> or ‘Central State’) was a term that referred to the Qing Empire. Modern ‘Chineseness’ is, however, a <em>national</em> identity generated by common identification, in which there may be ethnic minorities that are nevertheless part of – or at least, claimed as part of – that broader national conception. It would be correct to say that the Manchus after 1911 have been an ethnic minority within a Chinese national identity extending beyond just the Han Chinese; it would <em>not</em> be correct to call the Manchus an ethnic minority in a Chinese nation under the Qing.</p>
+
+<p>Moreover, it is, in my view, instructive to also look at the <a href="https://twitter.com/XiranJayZhao/status/1259989612790861825">Mongol Yuan</a> here, whom the tweet author does not try to claim as being ‘actually just from an underrepresented clique’ and instead calls an ‘international student’, despite many modern-day ethnic Mongols being PRC citizens (indeed, over twice as many Mongols live in the PRC as live in the country of Mongolia). I’m not saying they <em>should</em>, though, because what this does is illustrate the inappropriateness of this particular analogy. You just can’t retroject modern national identities beyond the point at which they came into existence.</p>
+
+<h3 id="2-wins-the-election-after-ming-graduates-solely-bc-the-other-candidates-were-too-busy-smearing-each-other">2. Wins the election after Ming graduates solely bc the other candidates were too busy smearing each other.</h3>
+
+<p>As noted in <a href="https://www.reddit.com/r/AskHistorians/comments/tcppnt/was_there_ever_a_hui_or_tibetan_dynasty/i0qlr3v/">another recent answer</a>, the dynastic cycle model of imperial Chinese history is distinctly unhelpful in many ways, and this is particularly apparent here. What I think the tweet author is referring to is the fact that the Ming fell in 1644 to internal rebellions, but that the rebel factions fought among themselves and were also still dealing with a fractious ‘Southern Ming’ led by branch lines of the imperial house, enabling the Qing to sweep in and defeat these divided factions.</p>
+
+<p>The problem is that the ‘relay race’ model, where dynasties begin and end at discrete moments and there is always one dynasty – never more than one, and never none either – does not hold up to an examination of the history of ‘dynastic transitions’ as they happened rather than from a retrospective viewpoint. For one, the Ming ‘graduating’ rather reads as implying that the last emperor died with no heir, but in fact the Ming were overthrown in a major revolt. Moreover, the ‘graduate’ implies that the Ming just ended and then the Qing started, but as noted in my summary above, remnants of the Ming, claiming to be its legitimate continuation, operated in some capacity until 1661. In fact, the overlap goes beyond 1644-1661, because the Qing had existed since 1636. Qing histories of the Qianlong period, which have exerted considerable influence over later historiography, presented the conquest of China as an inevitability and something intentionally sought by early Manchu leaders. But, to paraphrase Nicola di Cosmo there is no particular reason why we should consider this viewpoint to be correct, and that the Manchus’ intentions were not in fact rather more regional in scope until the sudden collapse of the Ming presented an opportunity for itself.</p>
+
+<p>There’s also a question of what is actually being contested here, because in a sense, there was no ‘Empire of China’ as a transferrable political entity in the same way as the ‘Kingdom of England’. The Ming Empire was a state unto itself, discrete from the Yuan or the Song or, indeed, the Qing. While these states generally accepted common conceits with regards to most aspects of the nature of the emperorship and of imperial governance, and often as inheritors of many longstanding political traditions, they did not see themselves as contiguous state entities with each other. To use another – clumsy but perhaps less simplified – analogy, the ‘Ming-Qing transition’ was less a new driver in the same specific car, but rather a new driver with a new model of the same car. These were different people in charge of a different state, but which had many recognisable similarities to what came before. We can certainly argue that there was an inherent expectation of exclusivity to the imperial title – that there <em>should</em> be only one – but that doesn’t mean it shook out that way in practice. To employ a bit of a counterfactual here, would the ‘winning the election’ model still work if the Ming had headed off the revolt in 1644, and you just ended up with the Qing hanging around in Manchuria and the Ming hanging around in China proper, with both’s rulers claiming imperial status?</p>
+
+<h3 id="3-languishes-so-much-later-on-that-the-school-gets-outright-demolished">3: Languishes so much later on that the school gets outright demolished.</h3>
+
+<p>The classic Qing decline model frankly doesn’t do much to explain what happened in the 18th and 19th centuries as regards the Qing empire. To be quite honest, I don’t entirely know where to start. Did it ‘languish’ in the sense that it consciously refused to keep with the times? Because I’d argue the Qing didn’t – while it was outpaced, it did adapt to the changing circumstances of the nineteenth century, just a bit too slowly at a few key points – the First Sino-Japanese War being the arch-example. Yet it did attempt to rebuild its broader imperial power in Southeast Asia, Northeast Asia, and Central Asia, to admittedly mixed success but still not for lack of trying. Not, by the way, that I consider imperialism a good thing, but rather that we should not confuse the failure of an attempt with the failure to make an attempt.</p>
+
+<p>If the ‘school’ here represents the Chinese imperial system, well then school must have been renovated several times over some two millennia. But more importantly, what exactly got demolished when the Qing fell? Because arguably, the Qing built a structure that far outlasted them in terms of the eventual conception of China as a – somewhat cognitively dissonant – nation-empire, in which the majority Han population came to see itself as entitled to territories lying far beyond China proper. The PRC today controls most of the Qing Empire’s scope, save for Outer Mongolia, Taiwan, and parts of Siberia that to be fair, the Qing had only loosely ruled to begin with. Looks to me like the Qing empire (small-e) specifically has managed to outlast the broader imperial system that the tweet author is trying to frame it within.</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-03-20</time>
+        <a href="https://nodebe4.github.io/opinion/2022-03-20/theoryofdoom/">
+          theoryofdoom在2022-03-14~2022-03-20的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-03-20</time>
+        <a href="https://nodebe4.github.io/opinion/2022-03-20/Spinkcat/">
+          Spinkcat在2022-03-14~2022-03-20的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-03-18</time>
+        <a href="https://nodebe4.github.io/opinion/2022-03-18/ForeignAffairsMag/">
+          ForeignAffairsMag在2022-03-14~2022-03-20的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-03-13</time>
+        <a href="https://nodebe4.github.io/opinion/2022-03-13/theoryofdoom/">
+          theoryofdoom在2022-03-07~2022-03-13的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-03-19/%E5%86%8D%E8%AB%87%E5%8F%8D%E9%80%81%E4%B8%AD%E9%81%8B%E5%8B%95%E7%9A%84%E9%87%8D%E5%A4%A7%E7%AD%96%E7%95%A5%E5%A4%B1%E8%AA%A4/">
+            前一篇：再談反送中運動的重大策略失誤
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-03-20/Spinkcat/">
+            後一篇：Spinkcat在2022-03-14~2022-03-20的言论
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-03-19/%E5%86%8D%E8%AB%87%E5%8F%8D%E9%80%81%E4%B8%AD%E9%81%8B%E5%8B%95%E7%9A%84%E9%87%8D%E5%A4%A7%E7%AD%96%E7%95%A5%E5%A4%B1%E8%AA%A4/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-03-20/Spinkcat/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-03-20/Spinkcat/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-03-18/ForeignAffairsMag/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-03-19/%E5%86%8D%E8%AB%87%E5%8F%8D%E9%80%81%E4%B8%AD%E9%81%8B%E5%8B%95%E7%9A%84%E9%87%8D%E5%A4%A7%E7%AD%96%E7%95%A5%E5%A4%B1%E8%AA%A4/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-03-20/Spinkcat/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-03-20/Spinkcat/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-03-18/ForeignAffairsMag/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

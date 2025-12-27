@@ -1,0 +1,2997 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Charter-Disney Winners and Losers – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+Charter-Disney Winners and Losers
+——
+" />
+    <meta property="og:description" content="
+Charter-Disney Winners and Losers
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Charter-Disney Winners and Losers" />
+    <meta property="twitter:title" content="Charter-Disney Winners and Losers" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fstratechery.com%2F2023%2Fcharter-disney-winners-and-losers%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://stratechery.com/2023/charter-disney-winners-and-losers/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://stratechery.com/2023/charter-disney-winners-and-losers/&text=Charter-Disney Winners and Losers&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://stratechery.com/2023/charter-disney-winners-and-losers/&title=Charter-Disney Winners and Losers" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://stratechery.com/2023/charter-disney-winners-and-losers/&title=Charter-Disney Winners and Losers" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Charter-Disney Winners and Losers&body=
+Charter-Disney Winners and Losers
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://stratechery.com/2023/charter-disney-winners-and-losers/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://stratechery.com/2023/charter-disney-winners-and-losers/&title=Charter-Disney Winners and Losers&caption=
+Charter-Disney Winners and Losers
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Charter-Disney Winners and Losers&url=https://stratechery.com/2023/charter-disney-winners-and-losers/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Charter-Disney Winners and Losers</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2023-09-12
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+        <span>
+            <!-- Personal Info. -->
+            <a  style="font-size:14px;">作者: Ben Thompson</a>
+        </span>
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Stratechery">
+          Stratechery
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://stratechery.com/2023/charter-disney-winners-and-losers/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Stratechery的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Stratechery 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1694520421000-->
+<p><a href="https://stratechery.com/2023/charter-disney-winners-and-losers/">Charter-Disney Winners and Losers</a>
+——</p>
+
+<div>
+  <p>From the <a href="https://www.wsj.com/business/media/disney-charter-end-carriage-dispute-restoring-espn-other-channels-to-15-million-spectrum-households-6236560c">Wall Street Journal</a>:</p>
+  <blockquote>
+    <p>Disney and Charter Communications have reached an agreement that will restore popular channels, including ESPN and ABC, to the cable operator’s nearly 15 million subscribers, ending a blackout that lasted for more than a week. The agreement comes just hours before ESPN’s coverage of the first “Monday Night Football” game of the season — a highly anticipated matchup between the New York Jets and Buffalo Bills. It also marks a seminal moment in the oft-fraught relationship between pay-TV providers and entertainment companies, which have been at loggerheads in recent years as the continued rise of streaming upended their respective businesses.</p>
+  </blockquote>
+  <p>Disney and Charter released a <a href="https://corporate.charter.com/newsroom/the-walt-disney-company-and-charter-communications-announce-transformative-agreement-2023">joint</a> <a href="https://thewaltdisneycompany.com/the-walt-disney-company-and-charter-communications-announce-transformative-agreement-for-distribution-of-disneys-linear-networks-and-direct-to-consumer-services/">press release</a> that included the details:</p>
+  <blockquote>
+    <p>Among the key deal points:</p>
+    <ul>
+      <li>In the coming months, the Disney+ Basic ad-supported offering will be provided to customers who purchase the Spectrum TV Select package, as part of a wholesale arrangement;</li>
+      <li>The ESPN flagship direct-to-consumer service will be made available to Spectrum TV Select subscribers upon launch and;</li>
+      <li>Charter will maintain flexibility to offer a range of video packages at varying price points based upon different customer’s viewing preferences.</li>
+    </ul>
+    <p>Charter also will use its significant distribution capabilities to offer Disney’s direct-to-consumer services to all of its customers – in particular its large broadband-only customer base – for purchase at retail rates. These include Disney+, Hulu and ESPN+, as well as The Disney Bundle.</p>
+    <p>Effective immediately, Spectrum TV will provide its customers widespread access to a more curated lineup of 19 networks from The Walt Disney Company. Spectrum will continue to carry the ABC Owned Television Stations, Disney Channel, FX and the Nat Geo Channel, in addition to the full ESPN network suite. Networks that will no longer be included in Spectrum TV video packages are Baby TV, Disney Junior, Disney XD, Freeform, FXM, FXX, Nat Geo Wild, and Nat Geo Mundo.</p>
+    <p>To preserve all these valuable business models, the parties also have renewed their commitment to lead the industry in mitigating the effects of unauthorized password sharing.</p>
+  </blockquote>
+  <p>The biggest question here is the third bullet point: Charter would like to offer bundles that don’t include ESPN, but it’s notable that the press release says “maintain flexibility”, as opposed to “gain flexibility”; that lines up with something ESPN chairman Jimmy Pitaro told the <a href="https://www.hollywoodreporter.com/business/digital/disney-dana-walden-espn-jimmy-pitaro-spectrum-deal-interview-1235587183/">Hollywood Reporter</a>:</p>
+  <blockquote>
+    <p>“The first [priority] was protecting the traditional business model, one that’s been very, very good to us and continues to be good to us,” Pitaro adds. “And we were able to do that, we secured commitments that were very strong in terms of rates and minimum penetration.”</p>
+  </blockquote>
+  <p>I’m going to assume that this means that Spectrum will continue to be contractually compelled to have ESPN in 70%~80% of its TV packages (that’s why it’s hard to even find information about the company’s TV Basic and TV Essentials packages on <a href="https://www.spectrum.com/cable-tv/choose-tv-your-way">its marketing pages</a>); that leaves the question of who won, and the answer depends on your perspective: are you asking about this specific stand-off, the overall future of TV, or the entire arc of video?</p>
+  <h3 id="current-standoff--winner-charter">Current Standoff — Winner: Charter</h3>
+  <p>Charter is the unequivocal winner of this standoff. Indeed, the agreement details above completely validate my argument last week that <a href="https://stratechery.com/2023/the-rise-and-fall-of-espns-leverage/">ESPN no longer has the same leverage it enjoyed for decades</a>. Remember, Charter was willing to meet Disney’s demand for higher ESPN affiliate fees; what Charter wanted was all of Disney’s non-sports content too. That used to exist on Disney’s cable channels, but Disney — along with the rest of Hollywood — had broken the bundle by putting all of their best content on its streaming services. Now the ad-supported Disney+ will be a part of the cable bundle as well, along with the future ESPN streaming service.</p>
+  <p>Disney did, of course, get its rate increase and minimum penetration guarantees, and will charge for Disney+; that charge, though, is balanced out by the elimination of the channels that Disney cannibalized from the bundle.</p>
+  <p>More important is the fact that Disney has been forced to give up its attempt at double-dipping: no longer can the company get paid by Charter for channels <em>and</em> charge subscribers directly for what is generally the same general entertainment content. That was what Charter wanted, and Disney, lacking leverage and the reality of massive sports rights fees that presumed the presence of Charter’s millions of TV subscribers, gave in.</p>
+  <h3 id="future-of-tv--winner-disney">Future of TV — Winner: Disney</h3>
+  <p>Here is perhaps the biggest surprise in this deal: I actually think it is <em>Disney</em> that is the bigger winner when it comes to the future of TV. Note this paragraph in the press release:</p>
+  <blockquote>
+    <p>Charter will also use its significant distribution capabilities to offer Disney’s direct-to-consumer services to all its customers – in particular its large broadband-only customer base – for purchase at retail rates. These include Disney+, Hulu and ESPN+, as well as The Disney Bundle.</p>
+  </blockquote>
+  <p>I wrote extensively about the go-to-market capabilities of cable companies and why they were well-positioned to bundle streaming services last year in <a href="https://stratechery.com/2022/cables-last-laugh/">Cable’s Last Laugh</a>; I will refrain from quoting half of the piece, and briefly summarize:</p>
+  <ul>
+    <li>First, Disney, along with every other streaming service, needs help improving their go-to-market efficiency; in this there is no better asset than the cable companies’ existing go-to-market machines.</li>
+    <li>Second, Disney, along with every other streaming service, needs help lowering churn. When you are a standalone streaming service the only way to stop churn is by continually producing new must-see content, which is extremely expensive. It is much easier if you are part of a bundle and sharing the burden of generating new content with other companies.</li>
+    <li>Third, Disney, along with every other streaming service, has come to realize that <a href="https://stratechery.com/2023/the-unified-content-business-model/">their greatest growth opportunity is in advertising</a>. A profitable advertising business, though, depends on scale; the fact that Disney has just quadrupled its ad-supported Disney+ base is a big deal!</li>
+  </ul>
+  <p>It’s obvious, of course, that a stronger bundle is better for Disney’s existing cable channels, particularly ESPN; what should also be clear is that a stronger bundle is better for Disney’s streaming services as well, and now Disney is committed to building exactly that alongside of Charter, and inevitably over the next several years, every other pay-TV provider.</p>
+  <p>This is why Disney is the long-term winner: the obstacle to the company doing the right thing for the long-term health of their business was not Charter, it was Disney’s own management, and Charter did the company the tremendous favor of forcing it to give up an unsustainable double-dipping strategy and take a step into a future of re-bundling.</p>
+  <p>Charter, meanwhile, knows better than anyone the value of bundles: the more services it can tie into a single billing statement the stickier their offering is for end users. Yes, the company may have been willing to give up video, but it is stronger for having it.</p>
+  <h3 id="the-arc-of-video--winner-consumers">The Arc of Video — Winner: Consumers</h3>
+  <p>All that noted, both Charter and Disney emerge from the last decade weaker than they were before. Disney, <a href="https://stratechery.com/2023/hollywood-on-strike/">along with the rest of Hollywood</a>, killed the golden goose that was 90% of households subscribed to cable. No matter how successful Disney+ or an over-the-top ESPN streaming service becomes it will never be as profitable as effectively charging a tax on every household in America.</p>
+  <p>Charter is worse off as well: yes, the company had leverage over Disney in this negotiation, but that was a function of no longer caring whether or not it carried ESPN, not because the alternative was better. Indeed, Charter’s strategy of directing unhappy customers to Fubo was a necessary negotiating ploy that carried long-term risks: once customers are accustomed to getting their sports and news from an app it quickly becomes apparent that that app can be accessed over any broadband provider, including fiber and fixed wireless. As I noted above, Charter knows the value of bundles better than anyone, and this new bundle is much weaker than the old one.</p>
+  <p>The big winners, though, are consumers, on multiple levels:</p>
+  <ul>
+    <li>First, consumers will soon have the option to get nearly all of their entertainment on an a la carte basis, particularly once the ESPN streaming service launches, even as they have access to a bundle that includes nearly all of their entertainment for a lower price than if they subscribed individually.</li>
+    <li>Second, consumers will be able to access general entertainment on-demand, and a far greater range of sports thanks to the effectively infinite number of channels enabled by streaming.</li>
+    <li>Third, consumers will be able to get their general entertainment ad-free if they are willing to pay (this is a win for the entertainment companies as well, who will gain the opportunity to segment their customer base based on their willingness to pay for an ad-free experience).</li>
+  </ul>
+  <p>The biggest win of all, though, comes at Charter’s expense specifically: as noted above the loosening of the TV part of the bundle will make it easier to change broadband providers. That means that Charter will have to compete based on the quality of its broadband, which has fallen behind fiber over the last several years. Charter has announced plans to rectify that, pledging to spend $5.5 billion over the next three years <a href="https://www.fiercetelecom.com/broadband/charter-plots-3-year-upgrade-deploy-docsis-40-2025">to move its entire network to DOCSIS 4.0</a>; other cable carriers are plotting similar upgrades. Meanwhile, Charter has been very aggressive in pushing its mobile service, significantly undercutting the big phone carriers in price, particularly as part of a bundle.</p>
+  <p>This is great news for consumers, and redolent of <a href="https://stratechery.com/2013/why-do-carriers-subsidize-the-iphone/">what happened with the iPhone</a>. When the consumer point of contact changed from a carrier-controlled interface to an Apple-controlled one, the only alternative for phone carriers was to compete on their network quality; that was bad for profitability but great for consumers, both in terms of price and quality. I would expect a similar effect as the consumer point of contact for TV continues to change from a cable box to apps: infrastructure providers like Charter will have to compete by building infrastructure, and that’s a good thing.</p>
+  <h3 id="other-winners-and-losers">Other Winners and Losers</h3>
+  <p>Tech is another big winner of this fight, which shouldn’t be a surprise: big tech is so dominant in part because it provides so much consumer surplus in its markets; a market where consumers are winning is probably one where tech is as well. In this case video is becoming an app game, and while Charter and the other pay-TV providers have useful go-to-market channels, tech is the king of distribution and customer acquisition.</p>
+  <p>To that end, what cable can do for streamers is already being done by Amazon, Apple, Roku, etc.; the latest entrant is YouTube, <a href="https://stratechery.com/2022/ftc-fines-epic-netflix-ads-youtube-and-the-nfl/">which is using NFL Sunday Ticket to launch YouTube Channels</a>, a streaming marketplace designed to sell services like Disney+ (for an ongoing commission, of course). YouTube, though, can pair that offering with YouTube TV, which means it has everything that Spectrum has; in this regard the fact that YouTube <a href="https://awfulannouncing.com/youtube/sunday-ticket-review-week-1.html">has already significantly increased the value of Sunday Ticket through better technology</a> should make competitors nervous.</p>
+  <p>The second big winner is Fox. Fox sold off its 21st Century division to Disney to focus on news and sports; Fox News charges the second highest affiliate fees amongst cable channels, and Fox has invested heavily in sports rights that run across the Fox broadcast network (which gets large retransmission fees from cable companies), FS1, and regional networks like the Big Ten network. The cable bundle sticking together is existential for Fox, and it looks like that is going to happen — indeed, Fox’s live offerings are now going to be re-bundled with 21st Century content streamed by Disney.</p>
+  <p>Fox’s fate, meanwhile, gets to why sports leagues are big winners as well. Had the bundle fallen apart than the NBA, which is in the midst of negotiating a new rights deal, would have been in big trouble; now that it has a future ESPN can more confidently bid. At the same time, now that everything is becoming an app, including traditional TV, the motivation for tech companies to bid in order to secure their marketplaces as the ultimate winners is higher as well.</p>
+  <hr />
+  <p>One final comment about the significance of this deal.</p>
+  <p>There is a certain flavor of detached cynicism that is often the default response to news; examples abounded yesterday after this deal was announced. For example:</p>
+  <p><a href="https://twitter.com/sherman4949/status/1701277788941017476"><img decoding="async" fetchpriority="high" src="https://i0.wp.com/stratechery.com/wp-content/uploads/2023/09/charter-disney-1.png?resize=640%2C653&#038;ssl=1" alt="A cynical response to the Charter-Disney deal that is wrong" width="640" height="653" class="aligncenter size-full wp-image-11545" style="border: 1px solid #ddd;" srcset="https://i0.wp.com/stratechery.com/wp-content/uploads/2023/09/charter-disney-1.png?w=1180&amp;ssl=1 1180w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/09/charter-disney-1.png?resize=294%2C300&amp;ssl=1 294w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/09/charter-disney-1.png?resize=1004%2C1024&amp;ssl=1 1004w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/09/charter-disney-1.png?resize=768%2C784&amp;ssl=1 768w, https://i0.wp.com/stratechery.com/wp-content/uploads/2023/09/charter-disney-1.png?resize=617%2C630&amp;ssl=1 617w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></a></p>
+  <p>Most of the time this response works well: the status quo is a powerful thing, and if your goal is being right more often than not than it is always safer to be skeptical that things are different this time.</p>
+  <p>In this case, though, I think Sherman has it wrong: cable TV as we know it ended several years ago with <a href="https://stratechery.com/2017/the-great-unbundling/">The Great Unbundling</a>. The significance of the just-announced deal between Disney and Charter is that The Great Re-bundling has begun.</p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Stratechery 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2025-02-27/An-Interview-with-Benedict-Evans-About-AI-Unknowns/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2009-12-09/Dropbox_and_the_Entrepreneurs_Blindspot/">最早</a>--</span>
+    
+      <li>
+        <time>2023-09-28</time>
+        <a href="https://nodebe4.github.io/opinion/2023-09-28/AI,-Hardware,-and-Virtual-Reality/">
+          AI, Hardware, and Virtual Reality
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-09-27</time>
+        <a href="https://nodebe4.github.io/opinion/2023-09-27/FTC-Sues-Amazon/">
+          FTC Sues Amazon
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-09-05</time>
+        <a href="https://nodebe4.github.io/opinion/2023-09-05/The-Rise-and-Fall-of-ESPN-s-Leverage/">
+          The Rise and Fall of ESPN’s Leverage
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2023-08-28</time>
+        <a href="https://nodebe4.github.io/opinion/2023-08-28/Nvidia-On-the-Mountaintop/">
+          Nvidia On the Mountaintop
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2023-09-10/EP-062-%E6%B2%88%E5%BD%A4-%E4%B8%80%E4%B8%AA%E7%B2%89%E7%BA%A2%E7%9A%84%E5%B9%BB%E7%81%AD-%E6%96%87%E5%AD%97%E7%89%88/">
+            前一篇：EP-062 沈彤：一个粉红的幻灭（文字版）
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2023-09-13/%E5%A6%82%E6%9E%9C%E5%9C%A8%E4%BA%8C-%E4%BA%8C-%E5%B9%B4-%E4%B8%80%E5%BA%A7%E6%A4%8D%E6%9C%89%E8%8A%92%E6%9E%9C%E6%A8%B9%E7%9A%84%E6%97%A5%E5%BC%8F%E8%80%81%E5%B1%8B/">
+            後一篇：如果在二○二○年，一座植有芒果樹的日式老屋
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2023-09-10/EP-062-%E6%B2%88%E5%BD%A4-%E4%B8%80%E4%B8%AA%E7%B2%89%E7%BA%A2%E7%9A%84%E5%B9%BB%E7%81%AD-%E6%96%87%E5%AD%97%E7%89%88/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2023-09-13/%E5%A6%82%E6%9E%9C%E5%9C%A8%E4%BA%8C-%E4%BA%8C-%E5%B9%B4-%E4%B8%80%E5%BA%A7%E6%A4%8D%E6%9C%89%E8%8A%92%E6%9E%9C%E6%A8%B9%E7%9A%84%E6%97%A5%E5%BC%8F%E8%80%81%E5%B1%8B/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2023-09-27/FTC-Sues-Amazon/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2023-09-05/The-Rise-and-Fall-of-ESPN-s-Leverage/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2023-09-10/EP-062-%E6%B2%88%E5%BD%A4-%E4%B8%80%E4%B8%AA%E7%B2%89%E7%BA%A2%E7%9A%84%E5%B9%BB%E7%81%AD-%E6%96%87%E5%AD%97%E7%89%88/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2023-09-13/%E5%A6%82%E6%9E%9C%E5%9C%A8%E4%BA%8C-%E4%BA%8C-%E5%B9%B4-%E4%B8%80%E5%BA%A7%E6%A4%8D%E6%9C%89%E8%8A%92%E6%9E%9C%E6%A8%B9%E7%9A%84%E6%97%A5%E5%BC%8F%E8%80%81%E5%B1%8B/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Stratechery>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2023-09-27/FTC-Sues-Amazon/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Stratechery>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2023-09-05/The-Rise-and-Fall-of-ESPN-s-Leverage/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

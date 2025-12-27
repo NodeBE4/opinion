@@ -1,0 +1,904 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>【404档案馆】第91期：“大翻译运动”如何激怒了中国官媒？ – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="
+【404档案馆】第91期：“大翻译运动”如何激怒了中国官媒？
+——
+" />
+    <meta property="og:description" content="
+【404档案馆】第91期：“大翻译运动”如何激怒了中国官媒？
+——
+" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="【404档案馆】第91期：“大翻译运动”如何激怒了中国官媒？" />
+    <meta property="twitter:title" content="【404档案馆】第91期：“大翻译运动”如何激怒了中国官媒？" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fmatters.news%2F%40ChinaDT%2F404%25E6%25A1%25A3%25E6%25A1%2588%25E9%25A6%2586-%25E7%25AC%25AC91%25E6%259C%259F-%25E5%25A4%25A7%25E7%25BF%25BB%25E8%25AF%2591%25E8%25BF%2590%25E5%258A%25A8-%25E5%25A6%2582%25E4%25BD%2595%25E6%25BF%2580%25E6%2580%2592%25E4%25BA%2586%25E4%25B8%25AD%25E5%259B%25BD%25E5%25AE%2598%25E5%25AA%2592-bafyreic6gjbvtdsj4ghcpvwfclevhoqj4h3i7tg65lce7rgpm6cilblcga" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC91%E6%9C%9F-%E5%A4%A7%E7%BF%BB%E8%AF%91%E8%BF%90%E5%8A%A8-%E5%A6%82%E4%BD%95%E6%BF%80%E6%80%92%E4%BA%86%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%AA%92-bafyreic6gjbvtdsj4ghcpvwfclevhoqj4h3i7tg65lce7rgpm6cilblcga" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC91%E6%9C%9F-%E5%A4%A7%E7%BF%BB%E8%AF%91%E8%BF%90%E5%8A%A8-%E5%A6%82%E4%BD%95%E6%BF%80%E6%80%92%E4%BA%86%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%AA%92-bafyreic6gjbvtdsj4ghcpvwfclevhoqj4h3i7tg65lce7rgpm6cilblcga&text=【404档案馆】第91期：“大翻译运动”如何激怒了中国官媒？&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC91%E6%9C%9F-%E5%A4%A7%E7%BF%BB%E8%AF%91%E8%BF%90%E5%8A%A8-%E5%A6%82%E4%BD%95%E6%BF%80%E6%80%92%E4%BA%86%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%AA%92-bafyreic6gjbvtdsj4ghcpvwfclevhoqj4h3i7tg65lce7rgpm6cilblcga&title=【404档案馆】第91期：“大翻译运动”如何激怒了中国官媒？" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC91%E6%9C%9F-%E5%A4%A7%E7%BF%BB%E8%AF%91%E8%BF%90%E5%8A%A8-%E5%A6%82%E4%BD%95%E6%BF%80%E6%80%92%E4%BA%86%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%AA%92-bafyreic6gjbvtdsj4ghcpvwfclevhoqj4h3i7tg65lce7rgpm6cilblcga&title=【404档案馆】第91期：“大翻译运动”如何激怒了中国官媒？" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=【404档案馆】第91期：“大翻译运动”如何激怒了中国官媒？&body=
+【404档案馆】第91期：“大翻译运动”如何激怒了中国官媒？
+——
+" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC91%E6%9C%9F-%E5%A4%A7%E7%BF%BB%E8%AF%91%E8%BF%90%E5%8A%A8-%E5%A6%82%E4%BD%95%E6%BF%80%E6%80%92%E4%BA%86%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%AA%92-bafyreic6gjbvtdsj4ghcpvwfclevhoqj4h3i7tg65lce7rgpm6cilblcga" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC91%E6%9C%9F-%E5%A4%A7%E7%BF%BB%E8%AF%91%E8%BF%90%E5%8A%A8-%E5%A6%82%E4%BD%95%E6%BF%80%E6%80%92%E4%BA%86%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%AA%92-bafyreic6gjbvtdsj4ghcpvwfclevhoqj4h3i7tg65lce7rgpm6cilblcga&title=【404档案馆】第91期：“大翻译运动”如何激怒了中国官媒？&caption=
+【404档案馆】第91期：“大翻译运动”如何激怒了中国官媒？
+——
+&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=【404档案馆】第91期：“大翻译运动”如何激怒了中国官媒？&url=https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC91%E6%9C%9F-%E5%A4%A7%E7%BF%BB%E8%AF%91%E8%BF%90%E5%8A%A8-%E5%A6%82%E4%BD%95%E6%BF%80%E6%80%92%E4%BA%86%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%AA%92-bafyreic6gjbvtdsj4ghcpvwfclevhoqj4h3i7tg65lce7rgpm6cilblcga" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>【404档案馆】第91期：“大翻译运动”如何激怒了中国官媒？</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-04-14
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+      
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#中国数字时代">
+          中国数字时代
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC91%E6%9C%9F-%E5%A4%A7%E7%BF%BB%E8%AF%91%E8%BF%90%E5%8A%A8-%E5%A6%82%E4%BD%95%E6%BF%80%E6%80%92%E4%BA%86%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%AA%92-bafyreic6gjbvtdsj4ghcpvwfclevhoqj4h3i7tg65lce7rgpm6cilblcga" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="中国数字时代的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#中国数字时代 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <!--1649913042000-->
+<p><a href="https://matters.news/@ChinaDT/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC91%E6%9C%9F-%E5%A4%A7%E7%BF%BB%E8%AF%91%E8%BF%90%E5%8A%A8-%E5%A6%82%E4%BD%95%E6%BF%80%E6%80%92%E4%BA%86%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%AA%92-bafyreic6gjbvtdsj4ghcpvwfclevhoqj4h3i7tg65lce7rgpm6cilblcga">【404档案馆】第91期：“大翻译运动”如何激怒了中国官媒？</a>
+——</p>
+
+<div>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/1b993501-fbd7-4d02-9fc9-87829e2adc7e.jpeg" data-asset-id="1b993501-fbd7-4d02-9fc9-87829e2adc7e" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p><a href="https://chinadigitaltimes.net/chinese/tag/%e5%a4%a7%e7%bf%bb%e8%af%91%e8%bf%90%e5%8a%a8" rel="noopener noreferrer" target="_blank">文章总汇：大翻译运动</a></p>
+  <p><a href="https://chinadigitaltimes.net/chinese/404-archives" rel="noopener noreferrer" target="_blank">《404档案馆》</a><span>讲述中国审查与反审查的故事，同时以文字、音频和视频的形式发布。播客节目可在 Apple Podcasts, Google Podcasts, Spotify 或泛用型播客客户端搜索“</span><a href="https://open.firstory.me/user/cdt" rel="noopener noreferrer" target="_blank"><span>404档案馆</span></a><span>”进行收听，视频节目可在Youtube“</span><a href="https://www.youtube.com/channel/UCwXewCWwaK1-yec8niJLrqg" rel="noopener noreferrer" target="_blank"><span>中国数字时代· 404档案馆</span></a><span>”频道收看。</span></p>
+  <p></p>
+  <p><strong>撰文：西西弗斯推大石</strong></p>
+  <p>欢迎来到404档案馆。在这里，我们一起穿越中国数字高墙。今天我们来关注正在互联网上火热进行的“大翻译运动”。</p>
+  <p>俄罗斯入侵乌克兰的战争已经进行了一个多月；这场战火不仅在地面和空中展开，也延烧到网络上的宣传战。在中国的互联网上，官方的舆论操控配合着民间的反西方情绪，使得主流舆论成为一场假消息、支持战争及仇恨言论的狂欢，而反战的声音则遭遇攻击、删帖、封号、禁言。我们在《404档案馆》<a href="https://chinadigitaltimes.net/chinese/677732.html" rel="noopener noreferrer" target="_blank">第78期</a><span>和</span><a href="https://chinadigitaltimes.net/chinese/678105.html" rel="noopener noreferrer" target="_blank"><span>80期</span></a><span>，曾介绍过简体中文互联网上的这些舆论生态。</span></p>
+  <p>“墙内”的这些仇恨言论，并不会让关心中国社会的简体中文互联网用户感到陌生，但对于世界各地的非中文使用者来说，可能仍然让人感到震惊。“大翻译运动”就是在这一背景下应运而生。它的目的在于将墙内互联网上随处可见的高赞仇恨言论翻译成各国语言，从而让世界认识到中国互联网的舆论环境。</p>
+  <p>本期节目，我们分三节来回顾 “大翻译运动” 的发端、进展及其给中共大外宣造成的难堪。</p>
+  <h2 id="section"><strong>一、“大翻译运动”的兴起：“收留乌克兰美女”与浪人群体</strong></h2>
+  <p>“大翻译运动”始于在俄罗斯入侵乌克兰的头几天，中文互联网上流传的关于乌克兰女性的骚扰言论。当时，“收留乌克兰小姐姐”一类的言论甚嚣尘上。与这类性骚扰言论相伴的，还有对于普京和俄罗斯侵略行为的极力鼓吹——例如：“俄罗斯1小时22 分钟直通基辅”这类说法。</p>
+  <p>这些言论引起了众多反对侵略、反对中国民族主义情绪的网友的强烈反感。在Reddit论坛，一个使用中文、主要讨论时事的名为ChonglangTV的子论坛上聚集起大量讨论。有网友开始自发把这类言论翻译成英文发布到推特等平台上，并表示：<a href="https://www.dw.com/zh/%E5%A4%A7%E7%BF%BB%E8%AF%91%E8%BF%90%E5%8A%A8%E5%91%8A%E8%AF%89%E4%B8%96%E7%95%8C%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%80%8E%E4%B9%88%E7%9C%8B%E6%88%98%E4%BA%89/a-61105169" rel="noopener noreferrer" target="_blank">“希望他们能够了解到中国的舆论场合究竟在谈论些什么”</a><span>。</span></p>
+  <p>这类翻译内容迅速受到了包括<a href="https://www.vice.com/en/article/7kbmva/chinese-obsession-ukrainian-women-russia-invasion" rel="noopener noreferrer" target="_blank">Vice</a><span>、</span><a href="https://supchina.com/2022/02/24/some-chinese-men-express-their-horniness-for-potential-ukrainian-refugees-to-the-disgust-of-netizens/" rel="noopener noreferrer" target="_blank"><span>supchina</span></a><span>在内的西方媒体的关注和报道。这进一步鼓励了个体的零星翻译走向去中心化的“大翻译运动”。</span></p>
+  <p>在初期，“大翻译运动”的主要参与者是<a href="https://www.urbandictionary.com/define.php?term=ChonglangTV" rel="noopener noreferrer" target="_blank">ChonglangTV</a><span>的用户。这个用户群体也被称为“浪人”、“鼠人”、“神友”；其名字来源于知名日本木刻版画《神奈川冲浪里》。在ChonglangTV论坛被封杀前，ta们也活跃于百度贴吧。</span></p>
+  <p>由于中国墙内对政治讨论的严厉审查，持不同政见的群体往往被迫发展出一套政治黑话系统。<a href="https://www.reddit.com/r/CLTV/" rel="noopener noreferrer" target="_blank">ChonglangTV</a><span>这一群体也不例外。ta们对中国共产党有着强烈的反感，也会刻意使用“支那”以及谐音“蜘蛛”、“太君”等词语。相当多的成员也会使用带有种族主义和性别歧视的用语。</span></p>
+  <p>ChonglangTV用户群体还推广了网络亚文化的 <a href="https://chinadigitaltimes.net/chinese/667088.html" rel="noopener noreferrer" target="_blank">“张献忠”梗</a><span>。他们将发生在中国的无差别袭击事件与明末张献忠的屠杀相提并论，常以一种幸灾乐祸的语气讨论这些暴力事件，一度促使 </span><a href="https://chinadigitaltimes.net/chinese/672312.html" rel="noopener noreferrer" target="_blank"><span>知乎封杀了“张献忠”的关键词搜索</span></a><span>。</span></p>
+  <figure class="embed-video">
+    <div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/h0DTGrKPkTE?rel=0" frameborder="0" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
+    </div>
+    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>由于ChonglangTV群体的这些特质，使得ta们一直颇受争议；在反对中国威权统治的广义自由派内部，也有相当多人对这一群体表示反感。</p>
+  <p>3月2日，ChonglangTV在Reddit的频道被关闭，起因是ta们人肉了一名自称在银行工作、拒绝受理从上海往乌克兰汇款的微博用户。在寻找创建新的Reddit频道的同时，群组成员也开始在twitter、telegram等各个网站推广 “大翻译运动” 。之后， “大翻译运动” 的参与者及这一运动本身所受到的关注，都达到了一个新的高度。</p>
+  <h2 id="section-1"><strong>二、你敢精选，我就敢翻译：官方下场斥其为“闹剧”</strong></h2>
+  <p>在“大翻译运动”的twitter账号下，每天都会更新数条翻译，翻译语言包括英语、日语、乌克兰语等各种语言。在素材选择上，“大翻译运动”多选择几类材料：一种是中国官方的亲俄言论或官方媒体的假新闻。例如，观察者网发布的俄方否认对于乌克兰布查的大屠杀指控，中国外交部部长王毅对于“只要中俄两个大国肩并肩站在一起，国际秩序就乱不了”的采访。</p>
+  <p>第二种是中文互联网上的民族主义意见领袖的评论。例如，复旦大学国际政治系讲师沈逸称布查死亡的平民应该被视为战斗员，不是平民，不受日内瓦公约权利保护的言论；再比如，胡锡进称如果佩洛西访问台湾，应该加强中国和俄罗斯合作的言论等。</p>
+  <p>第三类翻译集中在各个社交媒体上网民们的高赞评论，其中充满了对于西方国家和人民的攻击仇恨，对于乌克兰被杀平民的不屑，以及称被杀平民的尸体是由演员扮演等言论。这类twitter每条都有数百到数千不等的转发量，并得到了不少国际媒体的报道。</p>
+  <p>随着“大翻译运动”得到越来越多的关注，中国官媒开始撰文对此进行抨击。3月17日、29日，<a href="https://chinadigitaltimes.net/chinese/678256.html" rel="noopener noreferrer" target="_blank">《环球时报》</a>和<a href="https://chinadigitaltimes.net/chinese/678892.html" rel="noopener noreferrer" target="_blank">《人民日报海外版》</a>分别撰文称“大翻译运动”是“一场闹剧”、“小偷小摸”行为。</p>
+  <p>但讽刺的是，《人民日报海外版》的微博评论区一度“翻车”。评论区高赞评论大多支持“大翻译运动”。有网友评论说：“帮你们讲中国故事怎么还急眼了？” 而网友@这真的是我最后一个号说：“你敢筛选评论区，还不敢让别人原封不动翻译出去？” 还有人说：“原来把他们说过的话翻译一遍，就成了镜外势力”。</p>
+  <p>评论区甚至还有持民族主义立场的网民支持“大翻译运动”，认为这反应了所谓“民意”，填补了外宣的不足：“传递中国真实的声音，这是免费的大外宣啊，不知道反对个啥？”</p>
+  <h2 id="section-2"><strong>三、“大翻译运动”下进退失据的大外宣</strong></h2>
+  <p>“大翻译运动”的译作，挑战了中国外宣长期试图塑造的中国“和平崛起”及国际强权的受害者形象，揭示了近年来中国越来越多的“战狼”外交表演以及官方宣传中越发赤裸的谎言和反西方敌意。</p>
+  <p>例如，大翻译运动的一个走红的精品译作，就是来自对中央电视台各大主持人接连贬低嘲笑美国的翻译。</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/0a6717e2-6852-4923-a9af-93bdddad7027.png" data-asset-id="0a6717e2-6852-4923-a9af-93bdddad7027" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>以及，中国外交部发言人赵立坚曾对记者扬言：能够在抗击疫情期间生活在中国，你们就偷着乐吧！</p>
+  <figure class="image">
+<img src="https://assets.matters.news/embed/581e653a-0d4d-4eac-8891-607953a96243.png" data-asset-id="581e653a-0d4d-4eac-8891-607953a96243" referrerpolicy="no-referrer" />    <figcaption>
+<span></span>
+    </figcaption>
+  </figure>
+  <p>除了这些官方的声音，中文互联网上网民对民主政体国家的仇恨言论同样甚至是更加赤裸。不知是否是因为这种尴尬，中国互联网上下架了一些被“大翻译运动”所翻译的内容，包括停止要求大中小学宣讲俄乌战争所谓“正确思想”的课程、清空了日本地震有关视频中的大量仇恨攻击弹幕。此外，B站、西瓜视频等视频网站，也下架了介绍甚至是批判“大翻译运动”的视频。</p>
+  <p>有批评认为，“大翻译运动”选择的言论很极端，不代表中国网民的看法。</p>
+  <p><a href="https://chinadigitaltimes.net/chinese/678601.html" rel="noopener noreferrer" target="_blank">Twitter用户柳嘉宛Svetlana</a>回应这种看法称: “大翻译运动“挑出的言论都是通过了中国官方严厉的审查、没有被删除，甚至是被官方媒体精选的高赞言论，何来极端一说？只能说，这些言论可怕但却又准确地反映了中国当前重重审查和民族主义高企的互联网环境。</p>
+  <p>而微博网友@焚風猴模拟官方心理的评论，更是直接道出了“大翻译运动”让官方如芒在背的原因: “ A（说）：大翻译运动真是太恶毒了！ B（问）：是吗，这个运动里有哪些恶毒的内容？ A（答）：他们居然把我们中国人说过的话原封不动地翻译了出来！”</p>
+  <p><br /></p>
+  <p>中国数字时代 CDT 致力于记录和传播中文互联网上被审查的信息，以及人们与审查对抗的努力。欢迎大家通过<a href="http://https//t.me/cdtmedia_bot" rel="noopener noreferrer" target="_blank">电报（Telegram）平台</a> 向我们投稿，为记录和对抗中国网络审查作出你的贡献！</p>
+</div>
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#中国数字时代 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-02-12/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC276%E6%9C%9F-%E5%94%B1%E7%A6%81%E6%AD%8C-%E5%88%B0-%E7%A6%81%E6%AD%A2%E5%90%90%E6%A7%BD-%E8%A7%81%E8%AF%81%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E5%8F%98%E8%BF%81%E7%9A%84%E6%98%A5%E6%99%9A/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2021-12-14/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E4%B8%93%E8%AE%BF-%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3%E5%AF%B9%E8%AF%9D-%E8%A7%A3%E6%9E%84%E6%96%B0%E7%96%86%E9%95%87%E5%8E%8B-%E7%AC%AC%E4%B8%80%E4%BD%9C%E8%80%85%E8%AE%B8%E7%A7%80%E4%B8%AD/">最早</a>--</span>
+    
+      <li>
+        <time>2022-04-26</time>
+        <a href="https://nodebe4.github.io/opinion/2022-04-26/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC93%E6%9C%9F-%E8%A7%86%E9%A2%91%E9%87%8C%E7%9A%84-%E6%B8%85%E9%9B%B6-(1)-%E4%B8%8A%E6%B5%B7%E4%BA%BA%E7%9A%84%E5%93%AD%E5%A3%B0/">
+          【404档案馆】第93期：视频里的“清零”(1)：上海人的哭声
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-04-26</time>
+        <a href="https://nodebe4.github.io/opinion/2022-04-26/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC92%E6%9C%9F-%E6%B2%A1%E6%9C%89%E6%AD%BB%E4%BA%8E%E6%96%B0%E5%86%A0-%E5%8D%B4%E5%9B%A0%E6%96%B0%E5%86%A0%E8%80%8C%E6%AD%BB-%E5%BF%B5%E5%87%BA%E4%B8%8A%E6%B5%B7%E7%96%AB%E6%83%85%E9%80%9D%E8%80%85%E7%9A%84%E5%90%8D%E5%AD%97/">
+          【404档案馆】第92期：“没有死于新冠，却因新冠而死”——念出上海疫情逝者的名字
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-04-14</time>
+        <a href="https://nodebe4.github.io/opinion/2022-04-14/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC89%E6%9C%9F-%E4%B8%8A%E6%B5%B7-%E5%A4%A7%E6%B8%85%E9%9B%B6%E8%BF%90%E5%8A%A8-%E8%A2%AB%E6%8E%A7%E5%88%B6%E7%9A%84%E4%B8%8E%E8%A2%AB%E6%B8%85%E9%99%A4%E7%9A%84/">
+          【404档案馆】第89期：上海“大清零运动”：被控制的与被清除的
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-03-31</time>
+        <a href="https://nodebe4.github.io/opinion/2022-03-31/%E6%8B%9B%E8%81%98%E5%90%AF%E4%BA%8B-%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3%E8%AF%9A%E8%81%98%E6%92%AD%E5%AE%A2-404%E6%A1%A3%E6%A1%88%E9%A6%86-%E4%B8%BB%E6%92%AD/">
+          【招聘启事】中国数字时代诚聘播客《404档案馆》主播
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-04-14/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC89%E6%9C%9F-%E4%B8%8A%E6%B5%B7-%E5%A4%A7%E6%B8%85%E9%9B%B6%E8%BF%90%E5%8A%A8-%E8%A2%AB%E6%8E%A7%E5%88%B6%E7%9A%84%E4%B8%8E%E8%A2%AB%E6%B8%85%E9%99%A4%E7%9A%84/">
+            前一篇：【404档案馆】第89期：上海“大清零运动”：被控制的与被清除的
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-04-14/%E4%B8%8A%E6%B5%B7%E7%A2%8E%E7%89%87-(-%E4%B8%8D%E5%86%8D%E6%9B%B4%E6%96%B0-%E8%AF%B7%E8%A7%81-%E6%96%87%E7%AB%A0)03-30Workers-live-in-factories,/">
+            後一篇：上海碎片  (*不再更新，请见 文章)03/30Workers live in factories, food delivery drivers sleep outside, and medical staff die from overwork in Covid-19 w
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-04-14/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC89%E6%9C%9F-%E4%B8%8A%E6%B5%B7-%E5%A4%A7%E6%B8%85%E9%9B%B6%E8%BF%90%E5%8A%A8-%E8%A2%AB%E6%8E%A7%E5%88%B6%E7%9A%84%E4%B8%8E%E8%A2%AB%E6%B8%85%E9%99%A4%E7%9A%84/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-04-14/%E4%B8%8A%E6%B5%B7%E7%A2%8E%E7%89%87-(-%E4%B8%8D%E5%86%8D%E6%9B%B4%E6%96%B0-%E8%AF%B7%E8%A7%81-%E6%96%87%E7%AB%A0)03-30Workers-live-in-factories,/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-04-26/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC92%E6%9C%9F-%E6%B2%A1%E6%9C%89%E6%AD%BB%E4%BA%8E%E6%96%B0%E5%86%A0-%E5%8D%B4%E5%9B%A0%E6%96%B0%E5%86%A0%E8%80%8C%E6%AD%BB-%E5%BF%B5%E5%87%BA%E4%B8%8A%E6%B5%B7%E7%96%AB%E6%83%85%E9%80%9D%E8%80%85%E7%9A%84%E5%90%8D%E5%AD%97/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-04-14/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC89%E6%9C%9F-%E4%B8%8A%E6%B5%B7-%E5%A4%A7%E6%B8%85%E9%9B%B6%E8%BF%90%E5%8A%A8-%E8%A2%AB%E6%8E%A7%E5%88%B6%E7%9A%84%E4%B8%8E%E8%A2%AB%E6%B8%85%E9%99%A4%E7%9A%84/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-04-14/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC89%E6%9C%9F-%E4%B8%8A%E6%B5%B7-%E5%A4%A7%E6%B8%85%E9%9B%B6%E8%BF%90%E5%8A%A8-%E8%A2%AB%E6%8E%A7%E5%88%B6%E7%9A%84%E4%B8%8E%E8%A2%AB%E6%B8%85%E9%99%A4%E7%9A%84/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-04-14/%E4%B8%8A%E6%B5%B7%E7%A2%8E%E7%89%87-(-%E4%B8%8D%E5%86%8D%E6%9B%B4%E6%96%B0-%E8%AF%B7%E8%A7%81-%E6%96%87%E7%AB%A0)03-30Workers-live-in-factories,/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<中国数字时代>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-04-26/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC92%E6%9C%9F-%E6%B2%A1%E6%9C%89%E6%AD%BB%E4%BA%8E%E6%96%B0%E5%86%A0-%E5%8D%B4%E5%9B%A0%E6%96%B0%E5%86%A0%E8%80%8C%E6%AD%BB-%E5%BF%B5%E5%87%BA%E4%B8%8A%E6%B5%B7%E7%96%AB%E6%83%85%E9%80%9D%E8%80%85%E7%9A%84%E5%90%8D%E5%AD%97/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<中国数字时代>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-04-14/404%E6%A1%A3%E6%A1%88%E9%A6%86-%E7%AC%AC89%E6%9C%9F-%E4%B8%8A%E6%B5%B7-%E5%A4%A7%E6%B8%85%E9%9B%B6%E8%BF%90%E5%8A%A8-%E8%A2%AB%E6%8E%A7%E5%88%B6%E7%9A%84%E4%B8%8E%E8%A2%AB%E6%B8%85%E9%99%A4%E7%9A%84/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

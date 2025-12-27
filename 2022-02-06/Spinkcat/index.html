@@ -1,0 +1,2253 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Spinkcat在2022-01-31~2022-02-06的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Spinkcat在2022-01-31~2022-02-06的言论" />
+    <meta property="twitter:title" content="Spinkcat在2022-01-31~2022-02-06的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/opinion/assets/css/bootstrap.min.css" type="text/css">
+  <script type="text/javascript" src="/opinion/assets/js/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (17499)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"><noscript><span style="background-color: #e8e8e8;color: #d10000;font-size: 14px;">开启浏览器JavaScript以获取搜索功能和更好的浏览体验</span></noscript></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FChina_irl%2Fcomments%2Fsi7lei%2F%E5%85%B3%E4%BA%8E%E5%9B%BD%E6%AD%8C%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/China_irl/comments/si7lei/关于国歌/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/China_irl/comments/si7lei/关于国歌/&text=Spinkcat在2022-01-31~2022-02-06的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/China_irl/comments/si7lei/关于国歌/&title=Spinkcat在2022-01-31~2022-02-06的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/China_irl/comments/si7lei/关于国歌/&title=Spinkcat在2022-01-31~2022-02-06的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Spinkcat在2022-01-31~2022-02-06的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/China_irl/comments/si7lei/关于国歌/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/China_irl/comments/si7lei/关于国歌/&title=Spinkcat在2022-01-31~2022-02-06的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Spinkcat在2022-01-31~2022-02-06的言论&url=https://old.reddit.com/r/China_irl/comments/si7lei/关于国歌/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Spinkcat在2022-01-31~2022-02-06的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2022-02-06
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://www.reddit.com/user/Spinkcat/" style="font-size:14px;">作者: Spinkcat</a>
+        </span>
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/China_irl/comments/si7lei/关于国歌/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#1505-关于国歌-submitted-on-2022-02-02-0628120800" id="markdown-toc-1505-关于国歌-submitted-on-2022-02-02-0628120800">1505: 关于国歌, submitted on 2022-02-02 06:28:12+08:00.</a></li>
+  <li><a href="#1506-无条件底薪共同富裕是否是未来的趋势-submitted-on-2022-02-02-1601570800" id="markdown-toc-1506-无条件底薪共同富裕是否是未来的趋势-submitted-on-2022-02-02-1601570800">1506: 无条件底薪，共同富裕，是否是未来的趋势？, submitted on 2022-02-02 16:01:57+08:00.</a></li>
+  <li><a href="#1507-大家怎么看待一户一宅一户一田新政-submitted-on-2022-02-03-2212170800" id="markdown-toc-1507-大家怎么看待一户一宅一户一田新政-submitted-on-2022-02-03-2212170800">1507: 大家怎么看待一户一宅，一户一田新政？, submitted on 2022-02-03 22:12:17+08:00.</a></li>
+  <li><a href="#1508-您滑雪吗冬奥会滑雪运动普及度调查️-submitted-on-2022-02-04-1921130800" id="markdown-toc-1508-您滑雪吗冬奥会滑雪运动普及度调查️-submitted-on-2022-02-04-1921130800">1508: 您滑雪吗？🏂冬奥会滑雪运动普及度调查⛷️, submitted on 2022-02-04 19:21:13+08:00.</a></li>
+  <li><a href="#1509-想不出来比赵立坚更拉的外交官了-submitted-on-2022-02-05-1325220800" id="markdown-toc-1509-想不出来比赵立坚更拉的外交官了-submitted-on-2022-02-05-1325220800">1509: 想不出来比赵立坚更拉的外交官了, submitted on 2022-02-05 13:25:22+08:00.</a></li>
+  <li><a href="#1510-刑平宴请各国元首图来源新华社-submitted-on-2022-02-06-1427410800" id="markdown-toc-1510-刑平宴请各国元首图来源新华社-submitted-on-2022-02-06-1427410800">1510: 刑平宴请各国元首图，来源新华社, submitted on 2022-02-06 14:27:41+08:00.</a></li>
+</ul>
+
+<h3 id="1505-关于国歌-submitted-on-2022-02-02-0628120800">1505: <a href="https://old.reddit.com/r/China_irl/comments/si7lei/关于国歌/">关于国歌</a>, submitted on 2022-02-02 06:28:12+08:00.</h3>
+
+<p>—– <strong>1505.1</strong> —–2022-02-02 18:19:08+08:00:</p>
+
+<p>我一直坚持认为应该用茉莉花改写后谱曲，进行新的填词作为新国歌。</p>
+
+<p>一个是曲子历史背景足够，另一个是传唱范围广，国内外经久不衰。</p>
+
+<p>许多国家的国歌，都有民歌的背景，茉莉花曲调简单，易记，有非常浓厚民族色彩，稍加改写演奏就可以刚柔并济，跨越明清近代现代多个历史时期，演唱时何尝不是为过去中国人的苦难而感叹？</p>
+
+<p>茉莉花曲调情感很细腻，国歌往往不需要刻意激昂，也可也在含蓄表达，逐渐爆发。</p>
+
+<p>茉莉花代表的是中国数百年来民族经历，数百年来中国人民之苦难，一切往日艰辛岁月，终将绽放。</p>
+
+<p>正如枝头茉莉花，你看它多美，百经苦难未忘记，挫折仍翘立。</p>
+
+<h3 id="1506-无条件底薪共同富裕是否是未来的趋势-submitted-on-2022-02-02-1601570800">1506: <a href="https://old.reddit.com/r/China_irl/comments/sij4m2/无条件底薪共同富裕是否是未来的趋势/">无条件底薪，共同富裕，是否是未来的趋势？</a>, submitted on 2022-02-02 16:01:57+08:00.</h3>
+
+<p>—– <strong>1506.1</strong> —–2022-02-02 18:57:57+08:00:</p>
+
+<p>无条件基本收入是趋势，取代最低工资与时薪是必然的，不过我们这代人大概率是不会用上（以中国为模板）</p>
+
+<p>但在少数发达国家，我们有生之年见到基本收入制度的形成是大概率事件。</p>
+
+<p>因为未来社会需要的不是单纯制造产业，而是制造需求，扩张消费。</p>
+
+<p>政府扮演经济循环里的一个水闸角色，如果放水的速度与方向有误，就会导致水流积蓄，旱的旱死，涝的涝死。</p>
+
+<p>如果民众有能力大量消费，而市场能在这些消费里得到更多收入，政府也就有更多的税收去执行公共层面的社会政策。</p>
+
+<p>目前在这种政府→民众→市场→政府的循环里的“油”还不够多，这个“油”就是指技术发展带来的生产力。</p>
+
+<p>一旦技术到一定规模，触及临界点，无条件基本收入的基础形成，经济萧条的抗风险能力就会越来越强。</p>
+
+<p>人工智能和机械的普及，伴随的是大量婴儿潮出生，靠重复劳动力的基层劳工们年老去世，同步发展。</p>
+
+<p>等年老一代去世的七七八八，人工智能和机械化也就开始广泛普及。较为年轻从事基层劳动力的那批人口，比如现在厂内打工的劳动者，到时可能是晚年，但是数量不是特别多，且机械化生产带来的劳动盈余，我想可以让政府提供更多税收去支持他们的老年福利。</p>
+
+<p>也就是说到时候基本收入把他们涵盖在内，有能力支撑起这群人的需求。</p>
+
+<p>我觉得本世纪中叶后，北欧和一些小的发达国家会逐渐进行试点，美国可能很早出现概念，少数州进行过渡探讨，或许长达十几年才能完成初步立法，到本世纪末才有可能局部实行，同期欧洲可能较大的国家都会更早完成。</p>
+
+<h3 id="1507-大家怎么看待一户一宅一户一田新政-submitted-on-2022-02-03-2212170800">1507: <a href="https://old.reddit.com/r/China_irl/comments/sjk6e0/大家怎么看待一户一宅一户一田新政/">大家怎么看待一户一宅，一户一田新政？</a>, submitted on 2022-02-03 22:12:17+08:00.</h3>
+
+<p>—– <strong>1507.1</strong> —–2022-02-04 12:10:58+08:00:</p>
+
+<p>为了给下一波土地财政扩张准备的政策，最近几年一直在铺垫各类型的，比如农村户籍转城市，实际变相失去了宅基地的控制权。</p>
+
+<p>一户一田已经进行试行，跟合村并居一样，集中管理，让本来不多的行政成本减少压力。同时空出可利用土地，去扩张基层政府的土地财政空间。</p>
+
+<p>一户一宅标准的恶政，按每户来算总体的可用面积，一户多口也不会分户，只按照大中小户划分。</p>
+
+<p>拿温州的现行标准举例：</p>
+
+<p>3人小户，耕地建筑面积不许超60平方米，荒地不许超100平方米。</p>
+
+<p>4-5人中户，耕地建筑面积不许超80平方米，荒地不许超120平方米。</p>
+
+<p>6人与以上大户，耕地建筑面积不许超125平方米，荒地不许超160平方米。</p>
+
+<p>已经属于管天管地了，这意味着以前一户多宅分居的现象会被迫压缩减少，过去多宅多居，人均面积只高不低。</p>
+
+<p>城市标准看，可能觉得很多，但实际上多人生活在一起，被限定在一定面积内，本身就是逼迫宅基地持有人，在遇到需要扩增的情况下，要么离开农村，要么就接受现有政策规划给你的法定居住面积。</p>
+
+<p>法定居住面积配额，跟法定生育配额，某些地方逻辑上是很相似的。</p>
+
+<p>今天给你60-100平方米的指标，明天就可以40-80平方米，大后天就是20-60平方米。</p>
+
+<p>只要蹬鼻子上脸收益大于成本，就会不断有新的组合拳打出来。</p>
+
+<p>你居住面积不够用怎么办？实际上政策就是变相把乡村的多余劳动力和家庭，想办法往城市和城乡结合的县市赶。</p>
+
+<p>耕地既不够你养活自己，居住环境也不够你继续扩张家族，不可能三代几十口人都挤在一个宅基地的自建房里吧？</p>
+
+<p>可能有人会说，拿子女分家了，就不是一户了。</p>
+
+<p>可多少人是一户的最终解释权，是在公安部手里，而不是在农民，或者司法机关手里。</p>
+
+<p>零碎土地除了被政府重新控制，或者被迫出售给政府的白手套公司，让政府以外部资本形式，强行介入地方农业外，还要披着一层市场的外皮，不需要给国企和国家购买时更多的成本费，一箭双雕。</p>
+
+<p>而农民持有土地零碎化，难以从农业上进行完整的抗风险耕种，品类单一，地理与气候抗风险能力弱，就更要依赖有政府支持的地方“农企”，到最后变相成为农奴。</p>
+
+<p>过去是定价权被干扰和控制，现在耕种权和居住权都在被侵蚀，我打赌以后肯定还会有更过分的政策，政府也无法解释其政策的必要性与合理性，只是强加给农民的。</p>
+
+<p>也就是说到时候你接受该规则约束，然后对一户的定义进行微调，本来100%的得益，瞬间变成80%，那你是留在农村还是走啊？利益空间是不断被压缩，可得可控的自留地越来越少。</p>
+
+<p>这套组合拳政策打完后，地方政府有更多空余土地可以用于扩张，给土地财政续命一波，还能吸血一波农村的劳动人口，逼进城打工，要不然农民真的也就躺了，农民也不傻，不是所有人都乐意进城往死里卷，现在早就不是过去农民辛苦拼一拼，下一代大概率在城市里能翻身的年代了。</p>
+
+<p>我现在看到的是，政府已经到了一个穷凶极恶的嘴脸，为了延续自身寿命，开始以永久性破坏中国社会基础秩序为成本，去不顾任何后果的自保。</p>
+
+<p>也就是农民没话语权随便欺负，这么大的政策，前两年除了单方面发新闻，没有政府给出的任何前期公共讨论余地，直接出台，直接地方多点实行，果然农村测试服玩家狗都不如是吧？</p>
+
+<h3 id="1508-您滑雪吗冬奥会滑雪运动普及度调查️-submitted-on-2022-02-04-1921130800">1508: <a href="https://old.reddit.com/r/China_irl/comments/skayq0/您滑雪吗冬奥会滑雪运动普及度调查/">您滑雪吗？🏂冬奥会滑雪运动普及度调查⛷️</a>, submitted on 2022-02-04 19:21:13+08:00.</h3>
+
+<p>—– <strong>1508.1</strong> —–2022-02-04 22:10:21+08:00:</p>
+
+<p>厌恶滑雪，没有好的体验</p>
+
+<h3 id="1509-想不出来比赵立坚更拉的外交官了-submitted-on-2022-02-05-1325220800">1509: <a href="https://old.reddit.com/r/China_irl/comments/skz4cu/想不出来比赵立坚更拉的外交官了/">想不出来比赵立坚更拉的外交官了</a>, submitted on 2022-02-05 13:25:22+08:00.</h3>
+
+<p>—– <strong>1509.1</strong> —–2022-02-05 18:37:25+08:00:</p>
+
+<p>我觉得外交还是其他宣传，包括对内对外的行政控制，你看起来拉，实际反应的是中共政权开始退化的体现。</p>
+
+<p>从一个公共政府，逐渐开始退化到殖民政府，再到军阀、武装组织，最后慢慢到土匪。</p>
+
+<p>你反过来看，土匪做大到军阀，再到局部殖民政府或地方武装力量，办事都是不周全没规格的，土匪哪有什么外交部，军阀也不大有，殖民地政府或流浪武装力量，自己可能都不大管的上，但还是会有一些东西伪装一下。</p>
+
+<p>比如满人各部联合称为后金，还要自己发明文字，再正式点称帝要有国号清，还要有建制化的体系，许多古代政权和现代军事组织，也有不杀信使或商议的基本渠道，不一定都执行，但必须有，来体现组织的建制化水平。</p>
+
+<p>就跟九十年代农村称帝还要设置六部尚书和枢密院一样。</p>
+
+<p>外交还是其他层面，多留意下，我都能明显感觉到近年中共在全面退化，越来越不像政府，建制化给人感觉在逐渐减弱而不是增强。</p>
+
+<h3 id="1510-刑平宴请各国元首图来源新华社-submitted-on-2022-02-06-1427410800">1510: <a href="https://old.reddit.com/r/China_irl/comments/slpx6w/刑平宴请各国元首图来源新华社/">刑平宴请各国元首图，来源新华社</a>, submitted on 2022-02-06 14:27:41+08:00.</h3>
+
+<p>—– <strong>1510.1</strong> —–2022-02-06 20:14:51+08:00:</p>
+
+<p>一头猪够这么多人吃的吗？</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2023-04-03/EnclavedMicrostate/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-08-27/EnclavedMicrostate/">最早</a>--</span>
+    
+      <li>
+        <time>2022-02-07</time>
+        <a href="https://nodebe4.github.io/opinion/2022-02-07/Spinkcat/">
+          Spinkcat在2022-02-07~2022-02-13的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-02-06</time>
+        <a href="https://nodebe4.github.io/opinion/2022-02-06/theoryofdoom/">
+          theoryofdoom在2022-01-31~2022-02-06的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-02-06</time>
+        <a href="https://nodebe4.github.io/opinion/2022-02-06/EnclavedMicrostate/">
+          EnclavedMicrostate在2022-01-31~2022-02-06的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2022-02-06</time>
+        <a href="https://nodebe4.github.io/opinion/2022-02-06/Commodify/">
+          Commodify在2022-01-31~2022-02-06的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2022-02-06/SpeechFreedomCN/">
+            前一篇：Twitter @中国文字狱事件盘点: 2022-01-31~2022-02-06
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2022-02-06/realcaixia/">
+            後一篇：Twitter @蔡霞: 2022-01-31~2022-02-06
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2022-02-06/SpeechFreedomCN/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2022-02-06/realcaixia/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2022-02-06/theoryofdoom/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2022-02-06/EnclavedMicrostate/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2022-02-06/SpeechFreedomCN/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2022-02-06/realcaixia/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2022-02-06/theoryofdoom/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2022-02-06/EnclavedMicrostate/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>
